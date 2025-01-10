@@ -1,0 +1,64 @@
+# Build settings
+plugins:
+  #- jemoji
+  - jekyll-paginate
+
+# Site settings
+title: "Mind Defy"
+description: > # this means to ignore newlines until "email:"
+  最新科技新闻 | 老程序员的技术博客 | AI与互联网 | 产品设计运营
+
+email: zephrx@gmail.com
+#blog logo
+logo: "/assets/images/favicon.png"
+logo_round: "/assets/images/logo_round.png"
+float_logo: true # true, false (default)
+
+# blog cover
+cover: "/assets/images/ivan-cheremisin-kGateLmNDYw-unsplash.jpg"
+
+name: '勒西'
+author: '勒西'
+author_image: "/assets/images/author.jpg"
+
+paginate:	20
+
+url: "http://news.mindefy.net" # the base hostname & protocol for your site
+baseurl: ""
+#used to display twitter cards
+twitter_handle: '@alwriterla'
+
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+#google_analytics: UA-XXXXX-X
+
+# social icons and sharing options
+social:
+  - icon:	twitter
+    url:	https://twitter.com/alwriterla
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  # - icon:	github
+  #   url:	https://github.com/zephrxx
+  #   desc:	Fork me on github
+  #   share_url:
+  #   share_title:
+  #   share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
