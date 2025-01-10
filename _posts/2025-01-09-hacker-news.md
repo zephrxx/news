@@ -26,7 +26,7 @@ tags:
 <small>🔗 [th0mas.nl](https://th0mas.nl/downloads/pdftris.pdf): Show HN: Tetris in a PDF</small>
 
 
-| 🔥🔥: 800 \| 💬: [141](https://news.ycombinator.com/item?id=42645218) \| 🗓️ 2025-01-09
+| 🔥🔥: 822 \| 💬: [145](https://news.ycombinator.com/item?id=42645218) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [github.com](https://github.com/piebro/factorio-blueprint-visualizer): Show HN: Factorio Blueprint Visualizer</small>
 
 
-| 🔥🔥: 376 \| 💬: [85](https://news.ycombinator.com/item?id=42644168) \| 🗓️ 2025-01-09
+| 🔥🔥: 380 \| 💬: [86](https://news.ycombinator.com/item?id=42644168) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [blog.orange.tw](https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/): WorstFit: Unveiling Hidden Transformers in Windows ANSI</small>
 
 
-| 🔥🔥: 229 \| 💬: [56](https://news.ycombinator.com/item?id=42647101) \| 🗓️ 2025-01-09
+| 🔥🔥: 239 \| 💬: [56](https://news.ycombinator.com/item?id=42647101) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -86,7 +86,7 @@ VLC 媒体播放器全球下载量已突破 **60 亿**，并展示了基于 **�
 <small>🔗 [davidallengreen.com](https://davidallengreen.com/2024/12/twelfth-night-till-candlemas-the-story-of-a-forty-year-book-quest-and-of-its-remarkable-ending/): "Twelfth Night Till Candlemas" – a 40-year book-quest and its remarkable ending</small>
 
 
-| 🔥🔥: 120 \| 💬: [27](https://news.ycombinator.com/item?id=42647633) \| 🗓️ 2025-01-09
+| 🔥🔥: 126 \| 💬: [27](https://news.ycombinator.com/item?id=42647633) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -94,7 +94,19 @@ VLC 媒体播放器全球下载量已突破 **60 亿**，并展示了基于 **�
 
 ---
 
-## <a name="7"></a>7. 保持金色，美国 
+## <a name="7"></a>7. 焊接的泰克之道 
+<small>🔗 [hackaday.com](https://hackaday.com/2025/01/09/retrotechtacular-soldering-the-tek-way/): Soldering the Tek way</small>
+
+
+| 🔥🔥: 113 \| 💬: [59](https://news.ycombinator.com/item?id=42650561) \| 🗓️ 2025-01-09
+
+
+<br />
+在20世纪70年代末至80年代初，Tektronix公司通过制作详细的培训视频，教导员工掌握**焊接技巧**。视频涵盖了从基础焊接理论到实际操作，特别是**焊铁的使用**和**修复技巧**。重点强调了避免损坏PCB的方法，以及如何使修复后的电路板保持美观。这些视频至今仍具有实用价值。
+
+---
+
+## <a name="8"></a>8. 保持金色，美国 
 <small>🔗 [blog.codinghorror.com](https://blog.codinghorror.com/stay-gold-america/): Stay Gold, America</small>
 
 
@@ -106,7 +118,19 @@ VLC 媒体播放器全球下载量已突破 **60 亿**，并展示了基于 **�
 
 ---
 
-## <a name="8"></a>8. 2024年我最喜欢的自托管应用 
+## <a name="9"></a>9. 有理还是无理？这个基础数学问题花了几十年才得到答案 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/rational-or-not-this-basic-math-question-took-decades-to-answer-20250108/): Rational or Not? This Basic Math Question Took Decades to Answer</small>
+
+
+| 🔥🔥: 107 \| 💬: [82](https://news.ycombinator.com/item?id=42644896) \| 🗓️ 2025-01-09
+
+
+<br />
+1978年，数学家罗杰·阿佩里证明了**ζ(3)**（黎曼ζ函数在3处的值）是**无理数**，震惊了数学界。尽管他的证明起初遭到质疑，但最终被接受。然而，阿佩里的方法难以推广。如今，数学家弗兰克·卡莱加里等人扩展了阿佩里的方法，证明了更多**ζ函数值**的无理性，这一突破有望推动更多相关证明的出现。
+
+---
+
+## <a name="10"></a>10. 2024年我最喜欢的自托管应用 
 <small>🔗 [selfh.st](https://selfh.st/2024-favorite-new-apps/): My Favorite Self-Hosted Apps Launched in 2024</small>
 
 
@@ -118,31 +142,19 @@ VLC 媒体播放器全球下载量已突破 **60 亿**，并展示了基于 **�
 
 ---
 
-## <a name="9"></a>9. 有理还是无理？这个基础数学问题花了几十年才得到答案 
-<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/rational-or-not-this-basic-math-question-took-decades-to-answer-20250108/): Rational or Not? This Basic Math Question Took Decades to Answer</small>
+## <a name="11"></a>11. 糖果传奇、Tinder、MyFitnessPal：应用程序被劫持以追踪位置 
+<small>🔗 [wired.com](https://www.wired.com/story/gravy-location-data-app-leak-rtb/): Candy Crush, Tinder, MyFitnessPal: Apps hijacked to spy on location</small>
 
 
-| 🔥🔥: 104 \| 💬: [82](https://news.ycombinator.com/item?id=42644896) \| 🗓️ 2025-01-09
-
-
-<br />
-1978年，数学家罗杰·阿佩里证明了**ζ(3)**（黎曼ζ函数在3处的值）是**无理数**，震惊了数学界。尽管他的证明起初遭到质疑，但最终被接受。然而，阿佩里的方法难以推广。如今，数学家弗兰克·卡莱加里等人扩展了阿佩里的方法，证明了更多**ζ函数值**的无理性，这一突破有望推动更多相关证明的出现。
-
----
-
-## <a name="10"></a>10. 焊接的泰克之道 
-<small>🔗 [hackaday.com](https://hackaday.com/2025/01/09/retrotechtacular-soldering-the-tek-way/): Soldering the Tek way</small>
-
-
-| 🔥: 100 \| 💬: [53](https://news.ycombinator.com/item?id=42650561) \| 🗓️ 2025-01-09
+| 🔥: 100 \| 💬: [40](https://news.ycombinator.com/item?id=42651115) \| 🗓️ 2025-01-09
 
 
 <br />
-在20世纪70年代末至80年代初，Tektronix公司通过制作详细的培训视频，教导员工掌握**焊接技巧**。视频涵盖了从基础焊接理论到实际操作，特别是**焊铁的使用**和**修复技巧**。重点强调了避免损坏PCB的方法，以及如何使修复后的电路板保持美观。这些视频至今仍具有实用价值。
+一些全球热门应用程序可能被广告行业的**恶意成员**利用，大规模收集敏感位置数据，这些数据最终流向一家位置数据公司，其子公司曾向美国执法部门出售全球位置数据。数据通过**实时竞价广告系统**获取，而非应用程序开发者嵌入的代码，导致用户和开发者可能对此毫不知情。
 
 ---
 
-## <a name="11"></a>11. 微软应该对SteamOS感到恐惧 
+## <a name="12"></a>12. 微软应该对SteamOS感到恐惧 
 <small>🔗 [pcworld.com](https://www.pcworld.com/article/2571541/microsoft-should-be-terrified-of-steamos.html): Microsoft should be terrified of SteamOS</small>
 
 
@@ -154,23 +166,11 @@ SteamOS凭借**Steam Deck**的成功，正在成为PC游戏领域的新威胁。
 
 ---
 
-## <a name="12"></a>12. 如何删除你的Facebook账户 
-<small>🔗 [theverge.com](https://www.theverge.com/22231495/delete-facebook-page-account-how-to): How to delete your Facebook account</small>
-
-
-| 🔥: 86 \| 💬: [70](https://news.ycombinator.com/item?id=42649887) \| 🗓️ 2025-01-09
-
-
-<br />
-由于Meta对**仇恨言论定义**的更改以及**事实核查**的重要性下降，许多人考虑删除Facebook账户。首先，建议**下载个人数据存档**，包括照片、聊天记录等。然后，通过账户中心选择**删除账户**，并确认密码。删除后，账户将在一段时间内不可访问，但部分内容可能仍会保留。
-
----
-
 ## <a name="13"></a>13. 我对2025年CES电视展的失望 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/01/ces-2025-teases-alarming-smart-tv-future-loaded-with-unwanted-software-gimmicks/): Disappointed with the TVs at CES 2025</small>
 
 
-| 🔥: 85 \| 💬: [113](https://news.ycombinator.com/item?id=42650855) \| 🗓️ 2025-01-09
+| 🔥: 97 \| 💬: [125](https://news.ycombinator.com/item?id=42650855) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -178,35 +178,23 @@ SteamOS凭借**Steam Deck**的成功，正在成为PC游戏领域的新威胁。
 
 ---
 
-## <a name="14"></a>14. 远程工作职位平台目录 
-<small>🔗 [jobsearchdb.com](https://www.jobsearchdb.com/job-board-categories/remote-only): Directory of remote-only job boards</small>
+## <a name="14"></a>14. 如何删除你的Facebook账户 
+<small>🔗 [theverge.com](https://www.theverge.com/22231495/delete-facebook-page-account-how-to): How to delete your Facebook account</small>
 
 
-| 🔥: 83 \| 💬: [38](https://news.ycombinator.com/item?id=42645099) \| 🗓️ 2025-01-09
-
-
-<br />
-本文介绍了多个专注于**远程工作**的职位平台，涵盖**技术、销售、人力资源、客户支持**等多个领域。平台如Remote Rocketship、We Work Remotely等提供丰富的职位选择，适合寻找**远程工作**机会的求职者。此外，还提供免费培训课程，帮助求职者提升技能并找到理想工作。
-
----
-
-## <a name="15"></a>15. 糖果传奇、Tinder、MyFitnessPal：应用程序被劫持以追踪位置 
-<small>🔗 [wired.com](https://www.wired.com/story/gravy-location-data-app-leak-rtb/): Candy Crush, Tinder, MyFitnessPal: Apps hijacked to spy on location</small>
-
-
-| 🔥: 82 \| 💬: [30](https://news.ycombinator.com/item?id=42651115) \| 🗓️ 2025-01-09
+| 🔥: 91 \| 💬: [72](https://news.ycombinator.com/item?id=42649887) \| 🗓️ 2025-01-09
 
 
 <br />
-一些全球热门应用程序可能被广告行业的**恶意成员**利用，大规模收集敏感位置数据，这些数据最终流向一家位置数据公司，其子公司曾向美国执法部门出售全球位置数据。数据通过**实时竞价广告系统**获取，而非应用程序开发者嵌入的代码，导致用户和开发者可能对此毫不知情。
+由于Meta对**仇恨言论定义**的更改以及**事实核查**的重要性下降，许多人考虑删除Facebook账户。首先，建议**下载个人数据存档**，包括照片、聊天记录等。然后，通过账户中心选择**删除账户**，并确认密码。删除后，账户将在一段时间内不可访问，但部分内容可能仍会保留。
 
 ---
 
-## <a name="16"></a>16. 英国如何获得其首个互联网连接（2015） 
+## <a name="15"></a>15. 英国如何获得其首个互联网连接（2015） 
 <small>🔗 [theconversation.com](https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404): How Britain got its first internet connection (2015)</small>
 
 
-| 🔥: 80 \| 💬: [49](https://news.ycombinator.com/item?id=42649340) \| 🗓️ 2025-01-09
+| 🔥: 85 \| 💬: [51](https://news.ycombinator.com/item?id=42649340) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -214,7 +202,31 @@ SteamOS凭借**Steam Deck**的成功，正在成为PC游戏领域的新威胁。
 
 ---
 
-## <a name="17"></a>17. 希特勒在53天内通过宪法手段摧毁民主 
+## <a name="16"></a>16. 远程工作职位平台目录 
+<small>🔗 [jobsearchdb.com](https://www.jobsearchdb.com/job-board-categories/remote-only): Directory of remote-only job boards</small>
+
+
+| 🔥: 84 \| 💬: [38](https://news.ycombinator.com/item?id=42645099) \| 🗓️ 2025-01-09
+
+
+<br />
+本文介绍了多个专注于**远程工作**的职位平台，涵盖**技术、销售、人力资源、客户支持**等多个领域。平台如Remote Rocketship、We Work Remotely等提供丰富的职位选择，适合寻找**远程工作**机会的求职者。此外，还提供免费培训课程，帮助求职者提升技能并找到理想工作。
+
+---
+
+## <a name="17"></a>17. Show HN: TabPFN v2 – 用于小型表格数据的SOTA基础模型 
+<small>🔗 [nature.com](https://www.nature.com/articles/s41586-024-08328-6/link): Show HN: TabPFN v2 – A SOTA foundation model for small tabular data</small>
+
+
+| 🔥: 80 \| 💬: [15](https://news.ycombinator.com/item?id=42647343) \| 🗓️ 2025-01-09
+
+
+<br />
+TabPFN是一种基于**生成式Transformer**的表格数据基础模型，专为小型到中型数据集设计。它通过**上下文学习（ICL）**在数百万个合成数据集上进行预训练，能够在单次前向传播中显著超越传统方法（如梯度提升决策树）。TabPFN支持分类、回归、数据生成和密度估计，适用于**跨领域科学发现**和决策优化。
+
+---
+
+## <a name="18"></a>18. 希特勒在53天内通过宪法手段摧毁民主 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/01/hitler-germany-constitution-authoritarianism/681233/): Hitler dismantled a democracy in 53 days through constitutional means</small>
 
 
@@ -226,7 +238,7 @@ SteamOS凭借**Steam Deck**的成功，正在成为PC游戏领域的新威胁。
 
 ---
 
-## <a name="18"></a>18. 谁会花120美元买一个树莓派？ 
+## <a name="19"></a>19. 谁会花120美元买一个树莓派？ 
 <small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/who-would-buy-raspberry-pi-120): Who would buy a Raspberry Pi for $120?</small>
 
 
@@ -238,23 +250,11 @@ SteamOS凭借**Steam Deck**的成功，正在成为PC游戏领域的新威胁。
 
 ---
 
-## <a name="19"></a>19. Show HN: TabPFN v2 – 用于小型表格数据的SOTA基础模型 
-<small>🔗 [nature.com](https://www.nature.com/articles/s41586-024-08328-6/link): Show HN: TabPFN v2 – A SOTA foundation model for small tabular data</small>
-
-
-| 🔥: 74 \| 💬: [13](https://news.ycombinator.com/item?id=42647343) \| 🗓️ 2025-01-09
-
-
-<br />
-TabPFN是一种基于**生成式Transformer**的表格数据基础模型，专为小型到中型数据集设计。它通过**上下文学习（ICL）**在数百万个合成数据集上进行预训练，能够在单次前向传播中显著超越传统方法（如梯度提升决策树）。TabPFN支持分类、回归、数据生成和密度估计，适用于**跨领域科学发现**和决策优化。
-
----
-
 ## <a name="20"></a>20. 七步文档模型 
 <small>🔗 [passo.uno](https://passo.uno/seven-action-model/): The Seven-Action Documentation Model</small>
 
 
-| 🔥: 73 \| 💬: [10](https://news.ycombinator.com/item?id=42645075) \| 🗓️ 2025-01-09
+| 🔥: 74 \| 💬: [10](https://news.ycombinator.com/item?id=42645075) \| 🗓️ 2025-01-09
 
 
 <br />
