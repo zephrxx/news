@@ -26,7 +26,7 @@ tags:
 <small>🔗 [danielwirtz.com](https://danielwirtz.com/blog/spot-the-difference-superpower): I've acquired a new superpower</small>
 
 
-| 🔥🔥: 843 \| 💬: [350](https://news.ycombinator.com/item?id=42655870) \| 🗓️ 2025-01-10
+| 🔥🔥: 873 \| 💬: [357](https://news.ycombinator.com/item?id=42655870) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [restofworld.org](https://restofworld.org/2025/starlink-cheaper-internet-africa/): Starlink is now cheaper than leading internet provider in some African countries</small>
 
 
-| 🔥🔥: 203 \| 💬: [163](https://news.ycombinator.com/item?id=42657692) \| 🗓️ 2025-01-10
+| 🔥🔥: 207 \| 💬: [169](https://news.ycombinator.com/item?id=42657692) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -50,7 +50,7 @@ Starlink在非洲16个国家中的至少5个国家，其月订阅费低于主流
 <small>🔗 [writings.stephenwolfram.com](https://writings.stephenwolfram.com/2025/01/who-can-understand-the-proof-a-window-on-formalized-mathematics/): Who Can Understand the Proof? A Window on Formalized Mathematics</small>
 
 
-| 🔥🔥: 160 \| 💬: [87](https://news.ycombinator.com/item?id=42654995) \| 🗓️ 2025-01-10
+| 🔥🔥: 162 \| 💬: [87](https://news.ycombinator.com/item?id=42654995) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -62,7 +62,7 @@ Starlink在非洲16个国家中的至少5个国家，其月订阅费低于主流
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2501.04682): Learning How to Think with Meta Chain-of-Thought</small>
 
 
-| 🔥🔥: 160 \| 💬: [40](https://news.ycombinator.com/item?id=42655098) \| 🗓️ 2025-01-10
+| 🔥🔥: 161 \| 💬: [41](https://news.ycombinator.com/item?id=42655098) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -74,7 +74,7 @@ Starlink在非洲16个国家中的至少5个国家，其月订阅费低于主流
 <small>🔗 [iconsolutions.com](https://iconsolutions.com/blog/i-got-opentelemetry-to-work-but-why-was-it-so-complicated/): I got OpenTelemetry to work. But why was it so complicated?</small>
 
 
-| 🔥🔥: 149 \| 💬: [107](https://news.ycombinator.com/item?id=42655102) \| 🗓️ 2025-01-10
+| 🔥🔥: 150 \| 💬: [116](https://news.ycombinator.com/item?id=42655102) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -82,27 +82,27 @@ Starlink在非洲16个国家中的至少5个国家，其月订阅费低于主流
 
 ---
 
-## <a name="6"></a>6. 触觉：ESP32 微控制器系列的操作系统 
-<small>🔗 [tactility.one](https://tactility.one/#/): Tactility: OS for the ESP32 Microcontroller Family</small>
-
-
-| 🔥🔥: 139 \| 💬: [39](https://news.ycombinator.com/item?id=42653811) \| 🗓️ 2025-01-10
-
-
-<br />
-**触觉** 是一款专为 **ESP32 微控制器** 设计的操作系统，旨在提供高效的硬件控制和资源管理。该系统通过优化底层架构，提升了设备的响应速度和稳定性，适用于物联网和嵌入式开发领域。
-
----
-
-## <a name="7"></a>7. 形式化方法：只是良好的工程实践吗？ 
+## <a name="6"></a>6. 形式化方法：只是良好的工程实践吗？ 
 <small>🔗 [brooker.co.za](https://brooker.co.za/blog/2024/04/17/formal): Formal Methods: Just Good Engineering Practice? (2024)</small>
 
 
-| 🔥🔥: 138 \| 💬: [82](https://news.ycombinator.com/item?id=42656433) \| 🗓️ 2025-01-10
+| 🔥🔥: 141 \| 💬: [82](https://news.ycombinator.com/item?id=42656433) \| 🗓️ 2025-01-10
 
 
 <br />
 Marc Brooker在2024年TLA+会议的主题演讲中强调，**形式化方法**是良好软件工程实践的重要组成部分，尤其适用于大规模、分布式或关键系统。通过减少返工和提前解决接口变更，形式化设计能显著提高开发效率。尽管并非所有软件都适用，但对于需求明确且稳定的系统，形式化方法能有效降低错误率并加速开发。
+
+---
+
+## <a name="7"></a>7. 触觉：ESP32 微控制器系列的操作系统 
+<small>🔗 [tactility.one](https://tactility.one/#/): Tactility: OS for the ESP32 Microcontroller Family</small>
+
+
+| 🔥🔥: 140 \| 💬: [39](https://news.ycombinator.com/item?id=42653811) \| 🗓️ 2025-01-10
+
+
+<br />
+**触觉** 是一款专为 **ESP32 微控制器** 设计的操作系统，旨在提供高效的硬件控制和资源管理。该系统通过优化底层架构，提升了设备的响应速度和稳定性，适用于物联网和嵌入式开发领域。
 
 ---
 
@@ -130,7 +130,19 @@ Glimmer 是一个 **DSL 框架**，包含 DSL 引擎和数据绑定库，支持�
 
 ---
 
-## <a name="10"></a>10. NVIDIA-Ingest：多模态数据提取 
+## <a name="10"></a>10. Cuttle – 使用标准52张牌组的MTG类游戏 
+<small>🔗 [pagat.com](https://www.pagat.com/combat/cuttle.html): Cuttle – a MTG like game using a standard 52 card deck</small>
+
+
+| 🔥🔥: 129 \| 💬: [43](https://news.ycombinator.com/item?id=42658614) \| 🗓️ 2025-01-10
+
+
+<br />
+Cuttle是一款1970年代起源于北美的**双人卡牌对战游戏**，使用标准52张牌组（无鬼牌）。玩家通过打出**点数牌**、**一次性效果牌**或**永久效果牌**，目标是率先累积**21点**。游戏结合了攻击、防御和策略，规则简单但富有深度，适合快速对战。
+
+---
+
+## <a name="11"></a>11. NVIDIA-Ingest：多模态数据提取 
 <small>🔗 [github.com](https://github.com/NVIDIA/nv-ingest): Nvidia-Ingest: Multi-modal data extraction</small>
 
 
@@ -139,18 +151,6 @@ Glimmer 是一个 **DSL 框架**，包含 DSL 引擎和数据绑定库，支持�
 
 <br />
 NVIDIA-Ingest 是一套用于从复杂、非结构化的 PDF 和其他企业文档中提取**元数据和文本**的微服务工具。它支持 PDF、Word 和 PowerPoint 文档，能够并行处理文档内容，提取文本、表格、图表和图像，并将其转换为结构化的 JSON 格式。该工具还支持生成嵌入向量并存储到向量数据库中，适用于生成式 AI 应用。
-
----
-
-## <a name="11"></a>11. Cuttle – 使用标准52张牌组的MTG类游戏 
-<small>🔗 [pagat.com](https://www.pagat.com/combat/cuttle.html): Cuttle – a MTG like game using a standard 52 card deck</small>
-
-
-| 🔥🔥: 122 \| 💬: [42](https://news.ycombinator.com/item?id=42658614) \| 🗓️ 2025-01-10
-
-
-<br />
-Cuttle是一款1970年代起源于北美的**双人卡牌对战游戏**，使用标准52张牌组（无鬼牌）。玩家通过打出**点数牌**、**一次性效果牌**或**永久效果牌**，目标是率先累积**21点**。游戏结合了攻击、防御和策略，规则简单但富有深度，适合快速对战。
 
 ---
 
@@ -166,23 +166,11 @@ Cuttle是一款1970年代起源于北美的**双人卡牌对战游戏**，使用
 
 ---
 
-## <a name="13"></a>13. 大卫·拉格尔斯：平凡英雄的艰辛历程 
-<small>🔗 [commonplace.online](https://commonplace.online/article/the-tedious-heroism-of-david-ruggles/): The Tedious Heroism of David Ruggles</small>
-
-
-| 🔥🔥: 101 \| 💬: [12](https://news.ycombinator.com/item?id=42655636) \| 🗓️ 2025-01-10
-
-
-<br />
-大卫·拉格尔斯是19世纪纽约市反奴隶制运动的关键人物，创立了**纽约警戒委员会**，帮助数百名奴隶逃脱。尽管他的事迹常被简化为戏剧性时刻，但真正的历史变革往往源于**枯燥、重复的工作**。1836年，拉格尔斯为解救葡萄牙奴隶船“Brilliante”上的五名奴隶，多次奔走于城市各处，面对官僚的推诿与冷漠，最终仅成功解救两人。这一故事揭示了社会变革背后的**艰辛与挫败**。
-
----
-
-## <a name="14"></a>14. 用C语言玩点花样，第二部分 
+## <a name="13"></a>13. 用C语言玩点花样，第二部分 
 <small>🔗 [lcamtuf.substack.com](https://lcamtuf.substack.com/p/getting-silly-with-c-part-void2): Getting silly with C, part (void*)2</small>
 
 
-| 🔥: 99 \| 💬: [46](https://news.ycombinator.com/item?id=42657591) \| 🗓️ 2025-01-10
+| 🔥🔥: 105 \| 💬: [50](https://news.ycombinator.com/item?id=42657591) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -190,11 +178,23 @@ Cuttle是一款1970年代起源于北美的**双人卡牌对战游戏**，使用
 
 ---
 
+## <a name="14"></a>14. 大卫·拉格尔斯：平凡英雄的艰辛历程 
+<small>🔗 [commonplace.online](https://commonplace.online/article/the-tedious-heroism-of-david-ruggles/): The Tedious Heroism of David Ruggles</small>
+
+
+| 🔥🔥: 102 \| 💬: [12](https://news.ycombinator.com/item?id=42655636) \| 🗓️ 2025-01-10
+
+
+<br />
+大卫·拉格尔斯是19世纪纽约市反奴隶制运动的关键人物，创立了**纽约警戒委员会**，帮助数百名奴隶逃脱。尽管他的事迹常被简化为戏剧性时刻，但真正的历史变革往往源于**枯燥、重复的工作**。1836年，拉格尔斯为解救葡萄牙奴隶船“Brilliante”上的五名奴隶，多次奔走于城市各处，面对官僚的推诿与冷漠，最终仅成功解救两人。这一故事揭示了社会变革背后的**艰辛与挫败**。
+
+---
+
 ## <a name="15"></a>15. 芬兰的无家可归者零策略（2021） 
 <small>🔗 [oecdecoscope.blog](https://oecdecoscope.blog/2021/12/13/finlands-zero-homeless-strategy-lessons-from-a-success-story/): Finland's zero homeless strategy (2021)</small>
 
 
-| 🔥: 73 \| 💬: [155](https://news.ycombinator.com/item?id=42656711) \| 🗓️ 2025-01-10
+| 🔥: 78 \| 💬: [167](https://news.ycombinator.com/item?id=42656711) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -218,7 +218,7 @@ Cuttle是一款1970年代起源于北美的**双人卡牌对战游戏**，使用
 <small>🔗 [github.com](https://github.com/pipelight/boulette): Show HN: Boulette - Protect you from yourself (even as root).</small>
 
 
-| 🔥: 69 \| 💬: [78](https://news.ycombinator.com/item?id=42655708) \| 🗓️ 2025-01-10
+| 🔥: 69 \| 💬: [79](https://news.ycombinator.com/item?id=42655708) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -226,27 +226,27 @@ Boulette 是一个终端确认提示工具，旨在**防止用户意外关闭远
 
 ---
 
-## <a name="18"></a>18. 打造美观的API密钥 
-<small>🔗 [docs.agentstation.ai](https://docs.agentstation.ai/blog/beautiful-api-keys/): Making Beautiful API Keys</small>
-
-
-| 🔥: 58 \| 💬: [98](https://news.ycombinator.com/item?id=42655630) \| 🗓️ 2025-01-10
-
-
-<br />
-开发者是客户，我们希望API密钥既美观又实用。现有方案如UUID、NanoID等均不完美，因此我们开发了**uuidkey**包，基于**UUIDv7**和**Crockford Base32**编码，生成易读、对称且可排序的API密钥。开源项目地址：[github.com/agentstation/uuidkey](https://github.com/agentstation/uuidkey)。
-
----
-
-## <a name="19"></a>19. OpenAI的机器人像DDoS攻击一样摧毁了这家七人公司的网站 
+## <a name="18"></a>18. OpenAI的机器人像DDoS攻击一样摧毁了这家七人公司的网站 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/10/how-openais-bot-crushed-this-seven-person-companys-web-site-like-a-ddos-attack/): OpenAI's bot crushed this seven-person company's web site 'like a DDoS attack'</small>
 
 
-| 🔥: 52 \| 💬: [38](https://news.ycombinator.com/item?id=42660377) \| 🗓️ 2025-01-10
+| 🔥: 66 \| 💬: [54](https://news.ycombinator.com/item?id=42660377) \| 🗓️ 2025-01-10
 
 
 <br />
 OpenAI的爬虫机器人**GPTBot**在未经许可的情况下，疯狂抓取Triplegangers网站上的**65,000多个产品页面**和数十万张图片，导致网站崩溃。尽管Triplegangers的网站明确禁止未经授权的抓取，但OpenAI的机器人无视了这些规定。**robot.txt文件**配置不当是主要原因，OpenAI的爬虫默认可以抓取未明确禁止的内容。Triplegangers最终通过配置robot.txt和使用Cloudflare阻止了爬虫，但无法确定OpenAI抓取了哪些数据。
+
+---
+
+## <a name="19"></a>19. 打造美观的API密钥 
+<small>🔗 [docs.agentstation.ai](https://docs.agentstation.ai/blog/beautiful-api-keys/): Making Beautiful API Keys</small>
+
+
+| 🔥: 58 \| 💬: [100](https://news.ycombinator.com/item?id=42655630) \| 🗓️ 2025-01-10
+
+
+<br />
+开发者是客户，我们希望API密钥既美观又实用。现有方案如UUID、NanoID等均不完美，因此我们开发了**uuidkey**包，基于**UUIDv7**和**Crockford Base32**编码，生成易读、对称且可排序的API密钥。开源项目地址：[github.com/agentstation/uuidkey](https://github.com/agentstation/uuidkey)。
 
 ---
 
