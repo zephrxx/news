@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 新闻：勒西科技日报 - 2025年01月07日
+title: 勒西科技日报 - 2025年01月07日
 date: 2025-01-07 21:43:18
 categories: 新闻
 tags:
