@@ -6,7 +6,7 @@ plugins:
 # Site settings
 title: "勒西科技日报"
 description: > # this means to ignore newlines until "email:"
-  这是一份给聪明人的科技日报，每天推送一篇。内容来自各大英文网站，翻译成中文。
+  这是一份给聪明人的科技日报，每天推送一篇。内容来自各大英文网站，提供中文摘要。
 
 email: zephrx@gmail.com
 #blog logo
