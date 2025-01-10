@@ -26,7 +26,7 @@ tags:
 <small>🔗 [th0mas.nl](https://th0mas.nl/downloads/pdftris.pdf): Show HN: Tetris in a PDF</small>
 
 
-| 🔥🔥: 822 \| 💬: [145](https://news.ycombinator.com/item?id=42645218) \| 🗓️ 2025-01-09
+| 🔥🔥: 831 \| 💬: [145](https://news.ycombinator.com/item?id=42645218) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [github.com](https://github.com/piebro/factorio-blueprint-visualizer): Show HN: Factorio Blueprint Visualizer</small>
 
 
-| 🔥🔥: 380 \| 💬: [86](https://news.ycombinator.com/item?id=42644168) \| 🗓️ 2025-01-09
+| 🔥🔥: 386 \| 💬: [87](https://news.ycombinator.com/item?id=42644168) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [blog.orange.tw](https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/): WorstFit: Unveiling Hidden Transformers in Windows ANSI</small>
 
 
-| 🔥🔥: 239 \| 💬: [56](https://news.ycombinator.com/item?id=42647101) \| 🗓️ 2025-01-09
+| 🔥🔥: 240 \| 💬: [57](https://news.ycombinator.com/item?id=42647101) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -86,7 +86,7 @@ VLC 媒体播放器全球下载量已突破 **60 亿**，并展示了基于 **�
 <small>🔗 [davidallengreen.com](https://davidallengreen.com/2024/12/twelfth-night-till-candlemas-the-story-of-a-forty-year-book-quest-and-of-its-remarkable-ending/): "Twelfth Night Till Candlemas" – a 40-year book-quest and its remarkable ending</small>
 
 
-| 🔥🔥: 126 \| 💬: [27](https://news.ycombinator.com/item?id=42647633) \| 🗓️ 2025-01-09
+| 🔥🔥: 128 \| 💬: [27](https://news.ycombinator.com/item?id=42647633) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -98,7 +98,7 @@ VLC 媒体播放器全球下载量已突破 **60 亿**，并展示了基于 **�
 <small>🔗 [hackaday.com](https://hackaday.com/2025/01/09/retrotechtacular-soldering-the-tek-way/): Soldering the Tek way</small>
 
 
-| 🔥🔥: 113 \| 💬: [59](https://news.ycombinator.com/item?id=42650561) \| 🗓️ 2025-01-09
+| 🔥🔥: 120 \| 💬: [63](https://news.ycombinator.com/item?id=42650561) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -106,7 +106,19 @@ VLC 媒体播放器全球下载量已突破 **60 亿**，并展示了基于 **�
 
 ---
 
-## <a name="8"></a>8. 保持金色，美国 
+## <a name="8"></a>8. 糖果传奇、Tinder、MyFitnessPal：应用程序被劫持以追踪位置 
+<small>🔗 [wired.com](https://www.wired.com/story/gravy-location-data-app-leak-rtb/): Candy Crush, Tinder, MyFitnessPal: Apps hijacked to spy on location</small>
+
+
+| 🔥🔥: 113 \| 💬: [42](https://news.ycombinator.com/item?id=42651115) \| 🗓️ 2025-01-09
+
+
+<br />
+一些全球热门应用程序可能被广告行业的**恶意成员**利用，大规模收集敏感位置数据，这些数据最终流向一家位置数据公司，其子公司曾向美国执法部门出售全球位置数据。数据通过**实时竞价广告系统**获取，而非应用程序开发者嵌入的代码，导致用户和开发者可能对此毫不知情。
+
+---
+
+## <a name="9"></a>9. 保持金色，美国 
 <small>🔗 [blog.codinghorror.com](https://blog.codinghorror.com/stay-gold-america/): Stay Gold, America</small>
 
 
@@ -118,11 +130,11 @@ VLC 媒体播放器全球下载量已突破 **60 亿**，并展示了基于 **�
 
 ---
 
-## <a name="9"></a>9. 有理还是无理？这个基础数学问题花了几十年才得到答案 
+## <a name="10"></a>10. 有理还是无理？这个基础数学问题花了几十年才得到答案 
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/rational-or-not-this-basic-math-question-took-decades-to-answer-20250108/): Rational or Not? This Basic Math Question Took Decades to Answer</small>
 
 
-| 🔥🔥: 107 \| 💬: [82](https://news.ycombinator.com/item?id=42644896) \| 🗓️ 2025-01-09
+| 🔥🔥: 109 \| 💬: [82](https://news.ycombinator.com/item?id=42644896) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -130,11 +142,23 @@ VLC 媒体播放器全球下载量已突破 **60 亿**，并展示了基于 **�
 
 ---
 
-## <a name="10"></a>10. 2024年我最喜欢的自托管应用 
+## <a name="11"></a>11. TikTok要求受野火影响的员工使用病假时间 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/09/tiktok-tells-la-staff-impacted-by-wildfires-to-use-personal-sick-hours-if-they-cant-work-from-home/): TikTok tells staff impacted by wildfires to use sick hours if they can't work</small>
+
+
+| 🔥🔥: 108 \| 💬: [62](https://news.ycombinator.com/item?id=42652056) \| 🗓️ 2025-01-09
+
+
+<br />
+洛杉矶野火肆虐，TikTok的洛杉矶办公室因停电关闭，员工被要求在家工作或使用**病假/个人时间**。许多员工家中停电或面临疏散令，公司却要求他们使用**PSSL（带薪病假和安全假）**或**PTO（带薪休假）**来应对无法工作的情况。尽管公司强调员工安全优先，但这一政策引发争议，员工担心未来无假可用。
+
+---
+
+## <a name="12"></a>12. 2024年我最喜欢的自托管应用 
 <small>🔗 [selfh.st](https://selfh.st/2024-favorite-new-apps/): My Favorite Self-Hosted Apps Launched in 2024</small>
 
 
-| 🔥🔥: 107 \| 💬: [25](https://news.ycombinator.com/item?id=42645119) \| 🗓️ 2025-01-09
+| 🔥🔥: 107 \| 💬: [26](https://news.ycombinator.com/item?id=42645119) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -142,19 +166,19 @@ VLC 媒体播放器全球下载量已突破 **60 亿**，并展示了基于 **�
 
 ---
 
-## <a name="11"></a>11. 糖果传奇、Tinder、MyFitnessPal：应用程序被劫持以追踪位置 
-<small>🔗 [wired.com](https://www.wired.com/story/gravy-location-data-app-leak-rtb/): Candy Crush, Tinder, MyFitnessPal: Apps hijacked to spy on location</small>
+## <a name="13"></a>13. 我对2025年CES电视展的失望 
+<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/01/ces-2025-teases-alarming-smart-tv-future-loaded-with-unwanted-software-gimmicks/): Disappointed with the TVs at CES 2025</small>
 
 
-| 🔥: 100 \| 💬: [40](https://news.ycombinator.com/item?id=42651115) \| 🗓️ 2025-01-09
+| 🔥🔥: 106 \| 💬: [144](https://news.ycombinator.com/item?id=42650855) \| 🗓️ 2025-01-09
 
 
 <br />
-一些全球热门应用程序可能被广告行业的**恶意成员**利用，大规模收集敏感位置数据，这些数据最终流向一家位置数据公司，其子公司曾向美国执法部门出售全球位置数据。数据通过**实时竞价广告系统**获取，而非应用程序开发者嵌入的代码，导致用户和开发者可能对此毫不知情。
+2025年CES展会上，电视厂商将重点放在**软件和AI**上，而非用户真正需要的硬件改进。LG和三星等品牌推出**AI遥控器**和**生成式AI功能**，但这些功能更多服务于公司的广告和数据收集业务，而非用户体验。高端电视逐渐成为**广告和数据平台**，用户被迫为不必要的功能买单，而真正提升画质和音质的创新却被忽视。
 
 ---
 
-## <a name="12"></a>12. 微软应该对SteamOS感到恐惧 
+## <a name="14"></a>14. 微软应该对SteamOS感到恐惧 
 <small>🔗 [pcworld.com](https://www.pcworld.com/article/2571541/microsoft-should-be-terrified-of-steamos.html): Microsoft should be terrified of SteamOS</small>
 
 
@@ -166,23 +190,11 @@ SteamOS凭借**Steam Deck**的成功，正在成为PC游戏领域的新威胁。
 
 ---
 
-## <a name="13"></a>13. 我对2025年CES电视展的失望 
-<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/01/ces-2025-teases-alarming-smart-tv-future-loaded-with-unwanted-software-gimmicks/): Disappointed with the TVs at CES 2025</small>
-
-
-| 🔥: 97 \| 💬: [125](https://news.ycombinator.com/item?id=42650855) \| 🗓️ 2025-01-09
-
-
-<br />
-2025年CES展会上，电视厂商将重点放在**软件和AI**上，而非用户真正需要的硬件改进。LG和三星等品牌推出**AI遥控器**和**生成式AI功能**，但这些功能更多服务于公司的广告和数据收集业务，而非用户体验。高端电视逐渐成为**广告和数据平台**，用户被迫为不必要的功能买单，而真正提升画质和音质的创新却被忽视。
-
----
-
-## <a name="14"></a>14. 如何删除你的Facebook账户 
+## <a name="15"></a>15. 如何删除你的Facebook账户 
 <small>🔗 [theverge.com](https://www.theverge.com/22231495/delete-facebook-page-account-how-to): How to delete your Facebook account</small>
 
 
-| 🔥: 91 \| 💬: [72](https://news.ycombinator.com/item?id=42649887) \| 🗓️ 2025-01-09
+| 🔥: 94 \| 💬: [73](https://news.ycombinator.com/item?id=42649887) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -190,11 +202,11 @@ SteamOS凭借**Steam Deck**的成功，正在成为PC游戏领域的新威胁。
 
 ---
 
-## <a name="15"></a>15. 英国如何获得其首个互联网连接（2015） 
+## <a name="16"></a>16. 英国如何获得其首个互联网连接（2015） 
 <small>🔗 [theconversation.com](https://theconversation.com/how-britain-got-its-first-internet-connection-by-the-late-pioneer-who-created-the-first-password-on-the-internet-45404): How Britain got its first internet connection (2015)</small>
 
 
-| 🔥: 85 \| 💬: [51](https://news.ycombinator.com/item?id=42649340) \| 🗓️ 2025-01-09
+| 🔥: 90 \| 💬: [51](https://news.ycombinator.com/item?id=42649340) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -202,11 +214,23 @@ SteamOS凭借**Steam Deck**的成功，正在成为PC游戏领域的新威胁。
 
 ---
 
-## <a name="16"></a>16. 远程工作职位平台目录 
+## <a name="17"></a>17. 全球41%的雇主预计到2030年因AI裁员 
+<small>🔗 [gizmodo.com](https://gizmodo.com/41-of-employers-worldwide-say-theyll-reduce-staff-by-2030-due-to-ai-2000548131): 41% of Employers Worldwide Say They'll Reduce Staff by 2030 Due to AI</small>
+
+
+| 🔥: 87 \| 💬: [72](https://news.ycombinator.com/item?id=42652076) \| 🗓️ 2025-01-09
+
+
+<br />
+根据世界经济论坛的调查，**41%的雇主**预计到2030年因**AI自动化**减少员工数量，尤其是**图形设计师**和**法律秘书**等职位将受到冲击。尽管77%的雇主计划培训现有员工适应AI，但技能差距仍是主要挑战。报告预测，未来五年将净增7800万个工作岗位，但AI的广泛应用将导致9200万个岗位被取代。
+
+---
+
+## <a name="18"></a>18. 远程工作职位平台目录 
 <small>🔗 [jobsearchdb.com](https://www.jobsearchdb.com/job-board-categories/remote-only): Directory of remote-only job boards</small>
 
 
-| 🔥: 84 \| 💬: [38](https://news.ycombinator.com/item?id=42645099) \| 🗓️ 2025-01-09
+| 🔥: 85 \| 💬: [38](https://news.ycombinator.com/item?id=42645099) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -214,11 +238,11 @@ SteamOS凭借**Steam Deck**的成功，正在成为PC游戏领域的新威胁。
 
 ---
 
-## <a name="17"></a>17. Show HN: TabPFN v2 – 用于小型表格数据的SOTA基础模型 
+## <a name="19"></a>19. Show HN: TabPFN v2 – 用于小型表格数据的SOTA基础模型 
 <small>🔗 [nature.com](https://www.nature.com/articles/s41586-024-08328-6/link): Show HN: TabPFN v2 – A SOTA foundation model for small tabular data</small>
 
 
-| 🔥: 80 \| 💬: [15](https://news.ycombinator.com/item?id=42647343) \| 🗓️ 2025-01-09
+| 🔥: 85 \| 💬: [15](https://news.ycombinator.com/item?id=42647343) \| 🗓️ 2025-01-09
 
 
 <br />
@@ -226,7 +250,7 @@ TabPFN是一种基于**生成式Transformer**的表格数据基础模型，专�
 
 ---
 
-## <a name="18"></a>18. 希特勒在53天内通过宪法手段摧毁民主 
+## <a name="20"></a>20. 希特勒在53天内通过宪法手段摧毁民主 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/01/hitler-germany-constitution-authoritarianism/681233/): Hitler dismantled a democracy in 53 days through constitutional means</small>
 
 
@@ -235,29 +259,5 @@ TabPFN是一种基于**生成式Transformer**的表格数据基础模型，专�
 
 <br />
 1933年1月30日，希特勒被任命为魏玛共和国总理，开始通过**宪法手段**瓦解民主制度。他利用《授权法》绕过议会，集中权力，逐步废除分权制衡。尽管面临反对，希特勒通过操纵选举、压制反对派和媒体，迅速巩固独裁统治。这一过程揭示了**政治偶然性**而非历史必然性。
-
----
-
-## <a name="19"></a>19. 谁会花120美元买一个树莓派？ 
-<small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/who-would-buy-raspberry-pi-120): Who would buy a Raspberry Pi for $120?</small>
-
-
-| 🔥: 74 \| 💬: [126](https://news.ycombinator.com/item?id=42642992) \| 🗓️ 2025-01-09
-
-
-<br />
-树莓派5最新型号配备**16GB内存**，售价120美元。虽然性能有所提升，但与仅差20美元的GMKTec N100迷你PC相比，性价比不高。**8GB或4GB型号**更适合大多数用户。16GB型号的优势在于支持**大型语言模型**、多任务处理和某些高性能应用，但对普通用户来说可能过于昂贵。
-
----
-
-## <a name="20"></a>20. 七步文档模型 
-<small>🔗 [passo.uno](https://passo.uno/seven-action-model/): The Seven-Action Documentation Model</small>
-
-
-| 🔥: 74 \| 💬: [10](https://news.ycombinator.com/item?id=42645075) \| 🗓️ 2025-01-09
-
-
-<br />
-本文提出了一种以用户需求为中心的文档模型，强调从**用户行为**而非内容类型出发构建文档。模型包含七个核心行为：**评估、理解、探索、实践、记忆、开发、故障排除**，旨在帮助用户通过文档实现目标。该模型灵活适配多种文档框架，强调文档作为产品的战略价值，而非单纯的内容生产。
 
 ---
