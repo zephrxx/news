@@ -26,7 +26,7 @@ tags:
 <small>🔗 [danielwirtz.com](https://danielwirtz.com/blog/spot-the-difference-superpower): I've acquired a new superpower</small>
 
 
-| 🔥🔥: 992 \| 💬: [393](https://news.ycombinator.com/item?id=42655870) \| 🗓️ 2025-01-10
+| 🔥🔥: 1057 \| 💬: [409](https://news.ycombinator.com/item?id=42655870) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [restofworld.org](https://restofworld.org/2025/starlink-cheaper-internet-africa/): Starlink is now cheaper than leading internet provider in some African countries</small>
 
 
-| 🔥🔥: 214 \| 💬: [185](https://news.ycombinator.com/item?id=42657692) \| 🗓️ 2025-01-10
+| 🔥🔥: 217 \| 💬: [192](https://news.ycombinator.com/item?id=42657692) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -50,7 +50,7 @@ Starlink在非洲16个国家中的至少5个国家，其月订阅费低于主流
 <small>🔗 [pagat.com](https://www.pagat.com/combat/cuttle.html): Cuttle – a MTG like game using a standard 52 card deck</small>
 
 
-| 🔥🔥: 184 \| 💬: [55](https://news.ycombinator.com/item?id=42658614) \| 🗓️ 2025-01-10
+| 🔥🔥: 196 \| 💬: [59](https://news.ycombinator.com/item?id=42658614) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -62,7 +62,7 @@ Cuttle是一款1970年代起源于北美的**双人卡牌对战游戏**，使用
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2501.04682): Learning How to Think with Meta Chain-of-Thought</small>
 
 
-| 🔥🔥: 172 \| 💬: [44](https://news.ycombinator.com/item?id=42655098) \| 🗓️ 2025-01-10
+| 🔥🔥: 177 \| 💬: [45](https://news.ycombinator.com/item?id=42655098) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -74,7 +74,7 @@ Cuttle是一款1970年代起源于北美的**双人卡牌对战游戏**，使用
 <small>🔗 [writings.stephenwolfram.com](https://writings.stephenwolfram.com/2025/01/who-can-understand-the-proof-a-window-on-formalized-mathematics/): Who Can Understand the Proof? A Window on Formalized Mathematics</small>
 
 
-| 🔥🔥: 170 \| 💬: [91](https://news.ycombinator.com/item?id=42654995) \| 🗓️ 2025-01-10
+| 🔥🔥: 172 \| 💬: [94](https://news.ycombinator.com/item?id=42654995) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -86,7 +86,7 @@ Cuttle是一款1970年代起源于北美的**双人卡牌对战游戏**，使用
 <small>🔗 [iconsolutions.com](https://iconsolutions.com/blog/i-got-opentelemetry-to-work-but-why-was-it-so-complicated/): I got OpenTelemetry to work. But why was it so complicated?</small>
 
 
-| 🔥🔥: 164 \| 💬: [134](https://news.ycombinator.com/item?id=42655102) \| 🗓️ 2025-01-10
+| 🔥🔥: 171 \| 💬: [137](https://news.ycombinator.com/item?id=42655102) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -98,7 +98,7 @@ Cuttle是一款1970年代起源于北美的**双人卡牌对战游戏**，使用
 <small>🔗 [brooker.co.za](https://brooker.co.za/blog/2024/04/17/formal): Formal Methods: Just Good Engineering Practice? (2024)</small>
 
 
-| 🔥🔥: 153 \| 💬: [88](https://news.ycombinator.com/item?id=42656433) \| 🗓️ 2025-01-10
+| 🔥🔥: 158 \| 💬: [90](https://news.ycombinator.com/item?id=42656433) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -110,7 +110,7 @@ Marc Brooker在2024年TLA+会议的主题演讲中强调，**形式化方法**�
 <small>🔗 [tactility.one](https://tactility.one/#/): Tactility: OS for the ESP32 Microcontroller Family</small>
 
 
-| 🔥🔥: 151 \| 💬: [41](https://news.ycombinator.com/item?id=42653811) \| 🗓️ 2025-01-10
+| 🔥🔥: 154 \| 💬: [41](https://news.ycombinator.com/item?id=42653811) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -142,27 +142,27 @@ Glimmer 是一个 **DSL 框架**，包含 DSL 引擎和数据绑定库，支持�
 
 ---
 
-## <a name="11"></a>11. NVIDIA-Ingest：多模态数据提取 
-<small>🔗 [github.com](https://github.com/NVIDIA/nv-ingest): Nvidia-Ingest: Multi-modal data extraction</small>
-
-
-| 🔥🔥: 127 \| 💬: [39](https://news.ycombinator.com/item?id=42654019) \| 🗓️ 2025-01-10
-
-
-<br />
-NVIDIA-Ingest 是一套用于从复杂、非结构化的 PDF 和其他企业文档中提取**元数据和文本**的微服务工具。它支持 PDF、Word 和 PowerPoint 文档，能够并行处理文档内容，提取文本、表格、图表和图像，并将其转换为结构化的 JSON 格式。该工具还支持生成嵌入向量并存储到向量数据库中，适用于生成式 AI 应用。
-
----
-
-## <a name="12"></a>12. 用C语言玩点花样，第二部分 
+## <a name="11"></a>11. 用C语言玩点花样，第二部分 
 <small>🔗 [lcamtuf.substack.com](https://lcamtuf.substack.com/p/getting-silly-with-c-part-void2): Getting silly with C, part (void*)2</small>
 
 
-| 🔥🔥: 126 \| 💬: [60](https://news.ycombinator.com/item?id=42657591) \| 🗓️ 2025-01-10
+| 🔥🔥: 133 \| 💬: [69](https://news.ycombinator.com/item?id=42657591) \| 🗓️ 2025-01-10
 
 
 <br />
 本文探讨了C语言中一些**晦涩的语法特性**，如**typedef**定义函数类型、**GNU扩展的前向参数声明**，以及通过**asm关键字**重命名函数。作者通过一系列代码示例展示了这些特性的使用方式，揭示了C语言的灵活性和潜在的混乱。文章还提到了一些有趣的技巧，如在for循环中使用函数声明，以及C语言的**BASIC兼容模式**。这些内容展示了C语言的深度和复杂性。
+
+---
+
+## <a name="12"></a>12. NVIDIA-Ingest：多模态数据提取 
+<small>🔗 [github.com](https://github.com/NVIDIA/nv-ingest): Nvidia-Ingest: Multi-modal data extraction</small>
+
+
+| 🔥🔥: 129 \| 💬: [41](https://news.ycombinator.com/item?id=42654019) \| 🗓️ 2025-01-10
+
+
+<br />
+NVIDIA-Ingest 是一套用于从复杂、非结构化的 PDF 和其他企业文档中提取**元数据和文本**的微服务工具。它支持 PDF、Word 和 PowerPoint 文档，能够并行处理文档内容，提取文本、表格、图表和图像，并将其转换为结构化的 JSON 格式。该工具还支持生成嵌入向量并存储到向量数据库中，适用于生成式 AI 应用。
 
 ---
 
@@ -182,7 +182,7 @@ NVIDIA-Ingest 是一套用于从复杂、非结构化的 PDF 和其他企业文�
 <small>🔗 [commonplace.online](https://commonplace.online/article/the-tedious-heroism-of-david-ruggles/): The Tedious Heroism of David Ruggles</small>
 
 
-| 🔥🔥: 112 \| 💬: [14](https://news.ycombinator.com/item?id=42655636) \| 🗓️ 2025-01-10
+| 🔥🔥: 115 \| 💬: [15](https://news.ycombinator.com/item?id=42655636) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -194,7 +194,7 @@ NVIDIA-Ingest 是一套用于从复杂、非结构化的 PDF 和其他企业文�
 <small>🔗 [oecdecoscope.blog](https://oecdecoscope.blog/2021/12/13/finlands-zero-homeless-strategy-lessons-from-a-success-story/): Finland's zero homeless strategy (2021)</small>
 
 
-| 🔥🔥: 104 \| 💬: [243](https://news.ycombinator.com/item?id=42656711) \| 🗓️ 2025-01-10
+| 🔥🔥: 113 \| 💬: [268](https://news.ycombinator.com/item?id=42656711) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -206,7 +206,7 @@ NVIDIA-Ingest 是一套用于从复杂、非结构化的 PDF 和其他企业文�
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/10/how-openais-bot-crushed-this-seven-person-companys-web-site-like-a-ddos-attack/): OpenAI's bot crushed this seven-person company's web site 'like a DDoS attack'</small>
 
 
-| 🔥: 88 \| 💬: [83](https://news.ycombinator.com/item?id=42660377) \| 🗓️ 2025-01-10
+| 🔥: 90 \| 💬: [86](https://news.ycombinator.com/item?id=42660377) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -218,7 +218,7 @@ OpenAI的爬虫机器人**GPTBot**在未经许可的情况下，疯狂抓取Trip
 <small>🔗 [github.com](https://github.com/gdm85/lc): lc: List files in categories (and columns) – from Coherent Unix clone</small>
 
 
-| 🔥: 74 \| 💬: [29](https://news.ycombinator.com/item?id=42654331) \| 🗓️ 2025-01-10
+| 🔥: 75 \| 💬: [29](https://news.ycombinator.com/item?id=42654331) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -242,7 +242,7 @@ Boulette 是一个终端确认提示工具，旨在**防止用户意外关闭远
 <small>🔗 [cs.cornell.edu](https://www.cs.cornell.edu/~asampson/blog/flattening.html): Flattening ASTs (and Other Compiler Data Structures)</small>
 
 
-| 🔥: 60 \| 💬: [12](https://news.ycombinator.com/item?id=42659061) \| 🗓️ 2025-01-10
+| 🔥: 65 \| 💬: [13](https://news.ycombinator.com/item?id=42659061) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -254,7 +254,7 @@ Boulette 是一个终端确认提示工具，旨在**防止用户意外关闭远
 <small>🔗 [docs.agentstation.ai](https://docs.agentstation.ai/blog/beautiful-api-keys/): Making Beautiful API Keys</small>
 
 
-| 🔥: 59 \| 💬: [101](https://news.ycombinator.com/item?id=42655630) \| 🗓️ 2025-01-10
+| 🔥: 60 \| 💬: [101](https://news.ycombinator.com/item?id=42655630) \| 🗓️ 2025-01-10
 
 
 <br />
