@@ -10,9 +10,9 @@ tags:
 
 1. 通过Go/TinyGo在Apple FindMy网络中追踪设备；
 1. Marshall Uxbridge 蓝牙音箱的去智能化改造；
-1. 几乎所有二分查找和归并排序都有缺陷（2006）；
-1. Vim 的现状；
 1. Show HN: TypeScript/React/Vue 窗口布局管理器（标签页、浮动、弹出窗口）；
+1. Matt Mullenweg 停用计划分叉 WordPress 的贡献者账户；
+1. 几乎所有二分查找和归并排序都有缺陷（2006）；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [github.com](https://github.com/hybridgroup/go-haystack): Track your devices via Apple FindMy network in Go/TinyGo</small>
 
 
-| 🔥🔥: 196 \| 💬: [51](https://news.ycombinator.com/item?id=42665367) \| 🗓️ 2025-01-11
+| 🔥🔥: 215 \| 💬: [61](https://news.ycombinator.com/item?id=42665367) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [tomscii.sig7.se](https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge): De-smarting the Marshall Uxbridge Bluetooth speaker</small>
 
 
-| 🔥🔥: 185 \| 💬: [46](https://news.ycombinator.com/item?id=42666572) \| 🗓️ 2025-01-11
+| 🔥🔥: 203 \| 💬: [60](https://news.ycombinator.com/item?id=42666572) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -46,35 +46,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 几乎所有二分查找和归并排序都有缺陷（2006） 
-<small>🔗 [research.google](https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/): Nearly all binary searches and mergesorts are broken (2006)</small>
-
-
-| 🔥🔥: 149 \| 💬: [159](https://news.ycombinator.com/item?id=42664400) \| 🗓️ 2025-01-11
-
-
-<br />
-2006年，Joshua Bloch指出，**二分查找**和**归并排序**等算法中存在一个长期未被发现的**溢出错误**。当数组长度超过2^30时，`(low + high) / 2`会导致整数溢出，引发数组越界。修复方法包括使用`low + ((high - low) / 2)`或位运算`(low + high) >>> 1`。这一错误提醒我们，即使是最基础的算法也可能存在隐患，编程需谨慎且持续测试。
-
----
-
-## <a name="4"></a>4. Vim 的现状 
-<small>🔗 [lwn.net](https://lwn.net/SubscriberLink/1002342/a8d8a17f30968b93/): The State of Vim</small>
-
-
-| 🔥🔥: 142 \| 💬: [35](https://news.ycombinator.com/item?id=42665222) \| 🗓️ 2025-01-11
-
-
-<br />
-Vim 创始人 Bram Moolenaar 于 2023 年去世后，社区对项目的未来感到担忧。2024 年 VimConf 上，现任维护者 Christian Brabandt 介绍了 Vim 的重组计划及未来发展。**Vim 9.1** 版本已发布，包含虚拟文本、平滑滚动等改进。Brabandt 强调，Vim 目前处于维护模式，注重向后兼容性，并计划逐步淘汰过时的语言支持（如 Python 2）。社区正在努力保持项目的活力，同时继续支持慈善机构 ICCF Holland。
-
----
-
-## <a name="5"></a>5. Show HN: TypeScript/React/Vue 窗口布局管理器（标签页、浮动、弹出窗口） 
+## <a name="3"></a>3. Show HN: TypeScript/React/Vue 窗口布局管理器（标签页、浮动、弹出窗口） 
 <small>🔗 [github.com](https://github.com/mathuo/dockview): Show HN: TypeScript/React/Vue Window Layout Manager (Tabs, Floating, Popouts)</small>
 
 
-| 🔥🔥: 142 \| 💬: [44](https://news.ycombinator.com/item?id=42666492) \| 🗓️ 2025-01-11
+| 🔥🔥: 169 \| 💬: [44](https://news.ycombinator.com/item?id=42666492) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -82,15 +58,39 @@ Vim 创始人 Bram Moolenaar 于 2023 年去世后，社区对项目的未来感
 
 ---
 
-## <a name="6"></a>6. Show HN: 更好的日志服务 
-<small>🔗 [txtlog.net](https://txtlog.net/): Show HN: A Better Log Service</small>
+## <a name="4"></a>4. Matt Mullenweg 停用计划分叉 WordPress 的贡献者账户 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/11/matt-mullenweg-deactivates-wordpress-accounts-of-contributors-planning-a-fork/): Matt Mullenweg deactivates WordPress accounts of contributors planning a fork</small>
 
 
-| 🔥🔥: 131 \| 💬: [79](https://news.ycombinator.com/item?id=42666139) \| 🗓️ 2025-01-11
+| 🔥🔥: 156 \| 💬: [56](https://news.ycombinator.com/item?id=42667766) \| 🗓️ 2025-01-11
 
 
 <br />
-为什么需要另一个日志服务？现有的解决方案在**性能**、**易用性**和**成本**方面存在不足。我们提出了一个新的日志服务，旨在通过**高效的数据处理**和**灵活的查询功能**，为用户提供更优质的体验。
+WordPress 联合创始人兼 Automattic CEO **Matt Mullenweg** 停用了多位 WordPress.org 社区成员的账户，其中一些人正推动创建一个新的 WordPress 分叉项目。此举源于社区对 WordPress 治理的长期批评，尤其是与商业公司 **WP Engine** 的冲突。Mullenweg 表示支持分叉，但停用账户以“推动独立项目发展”。被停用账户的成员包括 **Joost de Valk** 和 **Karim Marucchi**，他们计划领导新的分叉项目。Mullenweg 还停用了其他三名曾批评 WordPress 治理的贡献者账户。
+
+---
+
+## <a name="5"></a>5. 几乎所有二分查找和归并排序都有缺陷（2006） 
+<small>🔗 [research.google](https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/): Nearly all binary searches and mergesorts are broken (2006)</small>
+
+
+| 🔥🔥: 149 \| 💬: [163](https://news.ycombinator.com/item?id=42664400) \| 🗓️ 2025-01-11
+
+
+<br />
+2006年，Joshua Bloch指出，**二分查找**和**归并排序**等算法中存在一个长期未被发现的**溢出错误**。当数组长度超过2^30时，`(low + high) / 2`会导致整数溢出，引发数组越界。修复方法包括使用`low + ((high - low) / 2)`或位运算`(low + high) >>> 1`。这一错误提醒我们，即使是最基础的算法也可能存在隐患，编程需谨慎且持续测试。
+
+---
+
+## <a name="6"></a>6. Vim 的现状 
+<small>🔗 [lwn.net](https://lwn.net/SubscriberLink/1002342/a8d8a17f30968b93/): The State of Vim</small>
+
+
+| 🔥🔥: 144 \| 💬: [37](https://news.ycombinator.com/item?id=42665222) \| 🗓️ 2025-01-11
+
+
+<br />
+Vim 创始人 Bram Moolenaar 于 2023 年去世后，社区对项目的未来感到担忧。2024 年 VimConf 上，现任维护者 Christian Brabandt 介绍了 Vim 的重组计划及未来发展。**Vim 9.1** 版本已发布，包含虚拟文本、平滑滚动等改进。Brabandt 强调，Vim 目前处于维护模式，注重向后兼容性，并计划逐步淘汰过时的语言支持（如 Python 2）。社区正在努力保持项目的活力，同时继续支持慈善机构 ICCF Holland。
 
 ---
 
@@ -98,7 +98,7 @@ Vim 创始人 Bram Moolenaar 于 2023 年去世后，社区对项目的未来感
 <small>🔗 [privtracker.com](https://privtracker.com/): PrivTracker – Private BitTorrent tracker for everyone</small>
 
 
-| 🔥🔥: 125 \| 💬: [28](https://news.ycombinator.com/item?id=42664409) \| 🗓️ 2025-01-11
+| 🔥🔥: 139 \| 💬: [28](https://news.ycombinator.com/item?id=42664409) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -106,27 +106,27 @@ PrivTracker 是一个允许用户与朋友**私密分享**种子文件的工具�
 
 ---
 
-## <a name="8"></a>8. 数学家Ingrid Daubechies荣获国家科学奖章 
+## <a name="8"></a>8. Show HN: 更好的日志服务 
+<small>🔗 [txtlog.net](https://txtlog.net/): Show HN: A Better Log Service</small>
+
+
+| 🔥🔥: 133 \| 💬: [80](https://news.ycombinator.com/item?id=42666139) \| 🗓️ 2025-01-11
+
+
+<br />
+为什么需要另一个日志服务？现有的解决方案在**性能**、**易用性**和**成本**方面存在不足。我们提出了一个新的日志服务，旨在通过**高效的数据处理**和**灵活的查询功能**，为用户提供更优质的体验。
+
+---
+
+## <a name="9"></a>9. 数学家Ingrid Daubechies荣获国家科学奖章 
 <small>🔗 [today.duke.edu](https://today.duke.edu/2025/01/ingrid-daubechies-awarded-national-medal-science): Ingrid Daubechies Awarded National Medal of Science</small>
 
 
-| 🔥🔥: 110 \| 💬: [8](https://news.ycombinator.com/item?id=42664893) \| 🗓️ 2025-01-11
+| 🔥🔥: 118 \| 💬: [8](https://news.ycombinator.com/item?id=42664893) \| 🗓️ 2025-01-11
 
 
 <br />
 数学家**Ingrid Daubechies**因其在**信号处理**领域的开创性工作，被授予2025年**国家科学奖章**。这是美国对科学家和工程师的最高荣誉。她的研究奠定了现代图像处理技术的基础，广泛应用于电影压缩等领域。Daubechies还致力于推动女性在STEM领域的参与，打破性别障碍。
-
----
-
-## <a name="9"></a>9. Matt Mullenweg 停用计划分叉 WordPress 的贡献者账户 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/11/matt-mullenweg-deactivates-wordpress-accounts-of-contributors-planning-a-fork/): Matt Mullenweg deactivates WordPress accounts of contributors planning a fork</small>
-
-
-| 🔥: 91 \| 💬: [37](https://news.ycombinator.com/item?id=42667766) \| 🗓️ 2025-01-11
-
-
-<br />
-WordPress 联合创始人兼 Automattic CEO **Matt Mullenweg** 停用了多位 WordPress.org 社区成员的账户，其中一些人正推动创建一个新的 WordPress 分叉项目。此举源于社区对 WordPress 治理的长期批评，尤其是与商业公司 **WP Engine** 的冲突。Mullenweg 表示支持分叉，但停用账户以“推动独立项目发展”。被停用账户的成员包括 **Joost de Valk** 和 **Karim Marucchi**，他们计划领导新的分叉项目。Mullenweg 还停用了其他三名曾批评 WordPress 治理的贡献者账户。
 
 ---
 
@@ -158,7 +158,7 @@ WordPress 联合创始人兼 Automattic CEO **Matt Mullenweg** 停用了多位 W
 <small>🔗 [electrek.co](https://electrek.co/2025/01/09/fords-mach-e-ev-outsold-gas-mustang-first-time/): Ford's electric Mach-E outsold the gas-powered Mustang in 2024</small>
 
 
-| 🔥: 38 \| 💬: [27](https://news.ycombinator.com/item?id=42667902) \| 🗓️ 2025-01-11
+| 🔥: 57 \| 💬: [45](https://news.ycombinator.com/item?id=42667902) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -166,11 +166,35 @@ WordPress 联合创始人兼 Automattic CEO **Matt Mullenweg** 停用了多位 W
 
 ---
 
-## <a name="13"></a>13. 关系衰退正在全球化 
+## <a name="13"></a>13. 穆伦维格的懦弱行为（2010年） 
+<small>🔗 [kindness.is](https://kindness.is/examples/2010/mullenweg-the-coward/): Mullenweg the Coward (2010)</small>
+
+
+| 🔥: 57 \| 💬: [9](https://news.ycombinator.com/item?id=42669293) \| 🗓️ 2025-01-11
+
+
+<br />
+2010年5月，Ben Cook发表了一篇题为《为什么Matt应该辞职》的文章，指出**Matt Mullenweg**在Automattic和WordPress基金会之间存在**利益冲突**，并建议他辞职以避免潜在问题。Mullenweg对此不满，私下联系了Cook的雇主Network Solutions，试图让他被解雇，但未成功。Cook随后公开了此事，批评Mullenweg的行为缺乏**透明度**和公正性，并揭示了他在WordPress社区中的“仁慈独裁者”形象背后的威胁与恐吓行为。
+
+---
+
+## <a name="14"></a>14. FCC提议为智能设备推出网络安全标签计划 
+<small>🔗 [fcc.gov](https://www.fcc.gov/cybersecurity-certification-mark): FCC proposes cybersecurity labeling program for smart devices</small>
+
+
+| 🔥: 34 \| 💬: [3](https://news.ycombinator.com/item?id=42669006) \| 🗓️ 2025-01-11
+
+
+<br />
+美国联邦通信委员会（FCC）提议推出**网络安全标签计划**，并设计了**U.S. Cyber Trust Mark**标志，目前正向美国专利商标局申请注册。该标志未经FCC书面许可不得使用，旨在帮助消费者识别符合网络安全标准的智能设备。
+
+---
+
+## <a name="15"></a>15. 关系衰退正在全球化 
 <small>🔗 [ft.com](https://www.ft.com/content/43e2b4f6-5ab7-4c47-b9fd-d611c36dad74): The relationship recession is going global</small>
 
 
-| 🔥: 32 \| 💬: [60](https://news.ycombinator.com/item?id=42665518) \| 🗓️ 2025-01-11
+| 🔥: 32 \| 💬: [65](https://news.ycombinator.com/item?id=42665518) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -178,11 +202,35 @@ WordPress 联合创始人兼 Automattic CEO **Matt Mullenweg** 停用了多位 W
 
 ---
 
-## <a name="14"></a>14. Python 是新版的 BASIC 
+## <a name="16"></a>16. 为什么湾区每个活动都采用查塔姆规则？ 
+<small>🔗 [sfstandard.com](https://sfstandard.com/2025/01/11/chatham-house-rule-burnout/): Why is every Bay Area event imposing Chatham House rules?</small>
+
+
+| 🔥: 28 \| 💬: [56](https://news.ycombinator.com/item?id=42669027) \| 🗓️ 2025-01-11
+
+
+<br />
+查塔姆规则（**Chatham House Rule**）源自1927年，旨在促进自由讨论，现已成为湾区各类活动的标配，从健康会议到AI沙龙，甚至私人晚宴。该规则禁止与会者透露发言者身份或分享具体信息，**虽有助于保护隐私**，但也限制了人际网络和问责。批评者认为，过度使用该规则可能导致**言论责任缺失**，甚至助长争议性观点的传播。
+
+---
+
+## <a name="17"></a>17. 1895年加利福尼亚自行车道路地图 
+<small>🔗 [loc.gov](https://www.loc.gov/resource/g4361p.ct000092/?r=-0.628,0.425,1.749,0.902,0): Map of California roads for cyclers (1895)</small>
+
+
+| 🔥: 27 \| 💬: [6](https://news.ycombinator.com/item?id=42667797) \| 🗓️ 2025-01-11
+
+
+<br />
+该地图由**George W. Blum**和**California Photo-Engraving Co.**于1895年制作，展示了加利福尼亚州的自行车道路。地图尺寸为48 x 34厘米，现藏于**美国国会图书馆地理与地图部**。该地图属于“交通与通信”类别，提供了多种数字格式供下载，包括JPEG、GIF和TIFF。地图内容不受版权限制，可用于教育和研究目的。
+
+---
+
+## <a name="18"></a>18. Python 是新版的 BASIC 
 <small>🔗 [log.schemescape.com](https://log.schemescape.com/posts/programming-languages/python-as-a-modern-basic.html): Python Is the New Basic</small>
 
 
-| 🔥: 26 \| 💬: [55](https://news.ycombinator.com/item?id=42665441) \| 🗓️ 2025-01-11
+| 🔥: 26 \| 💬: [62](https://news.ycombinator.com/item?id=42665441) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -190,7 +238,7 @@ BASIC 曾是 70-80 年代**非程序员**的首选编程语言，因其简单易
 
 ---
 
-## <a name="15"></a>15. 佛罗里达州公民警察监督因新法律生效而崩溃 
+## <a name="19"></a>19. 佛罗里达州公民警察监督因新法律生效而崩溃 
 <small>🔗 [tampabay.com](https://www.tampabay.com/news/florida-politics/2025/01/11/civilian-police-oversight-florida-crumbles-after-new-law-kicks/): Civilian police oversight in Florida crumbles after new law kicks in</small>
 
 
@@ -202,7 +250,7 @@ BASIC 曾是 70-80 年代**非程序员**的首选编程语言，因其简单易
 
 ---
 
-## <a name="16"></a>16. 济州航空飞机黑匣子在坠毁前停止记录：交通部 
+## <a name="20"></a>20. 济州航空飞机黑匣子在坠毁前停止记录：交通部 
 <small>🔗 [koreatimes.co.kr](https://www.koreatimes.co.kr/www/nation/2025/01/281_390174.html): Jeju Air jet black boxes stopped recording before crash: transport ministry</small>
 
 
@@ -211,53 +259,5 @@ BASIC 曾是 70-80 年代**非程序员**的首选编程语言，因其简单易
 
 <br />
 调查人员全力追捕**尹某**，并发现**黑匣子**在坠机前已停止记录。交通部表示，所有资源已投入调查，以查明事故原因。
-
----
-
-## <a name="17"></a>17. 全球反科学神秘主义助长专制主义 
-<small>🔗 [theatlantic.com](https://www.theatlantic.com/magazine/archive/2025/02/trump-populist-conspiracism-autocracy-rfk-jr/681088/): Anti-science mysticism is enabling autocracy around the globe</small>
-
-
-| 🔥: 21 \| 💬: [6](https://news.ycombinator.com/item?id=42664910) \| 🗓️ 2025-01-11
-
-
-<br />
-文章探讨了**反科学神秘主义**如何与政治结合，助长全球专制主义。以罗马尼亚总统候选人Călin Georgescu为例，他通过TikTok传播**反科学、反现代性**的言论，并利用神秘主义和民族主义吸引支持者。这种现象不仅限于罗马尼亚，全球范围内，**新蒙昧主义**（New Obscurantism）正在崛起，模糊了左右翼的界限，推动迷信、恐惧和非理性思维，威胁民主制度。
-
----
-
-## <a name="18"></a>18. 阿波罗DSKY计算机风格腕表 
-<small>🔗 [apollo-instruments.com](https://apollo-instruments.com/): Wrist watch modelled on Apollo DSKY computer</small>
-
-
-| 🔥: 21 \| 💬: [1](https://news.ycombinator.com/item?id=42665681) \| 🗓️ 2025-01-11
-
-
-<br />
-这款腕表灵感源自**阿波罗DSKY计算机**，重现了阿波罗任务中的经典界面，提供**真实互动体验**。具备GPS导航、计时器等功能，支持软件更新。限量预购中，起价£659，全球免运费。
-
----
-
-## <a name="19"></a>19. 1895年加利福尼亚自行车道路地图 
-<small>🔗 [loc.gov](https://www.loc.gov/resource/g4361p.ct000092/?r=-0.628,0.425,1.749,0.902,0): Map of California roads for cyclers (1895)</small>
-
-
-| 🔥: 20 \| 💬: [1](https://news.ycombinator.com/item?id=42667797) \| 🗓️ 2025-01-11
-
-
-<br />
-该地图由**George W. Blum**和**California Photo-Engraving Co.**于1895年制作，展示了加利福尼亚州的自行车道路。地图尺寸为48 x 34厘米，现藏于**美国国会图书馆地理与地图部**。该地图属于“交通与通信”类别，提供了多种数字格式供下载，包括JPEG、GIF和TIFF。地图内容不受版权限制，可用于教育和研究目的。
-
----
-
-## <a name="20"></a>20. FCC提议为智能设备推出网络安全标签计划 
-<small>🔗 [fcc.gov](https://www.fcc.gov/cybersecurity-certification-mark): FCC Proposes Cybersecurity Labeling Program for Smart Devices</small>
-
-
-| 🔥: 20 \| 💬: [2](https://news.ycombinator.com/item?id=42669006) \| 🗓️ 2025-01-11
-
-
-<br />
-美国联邦通信委员会（FCC）提议推出**网络安全标签计划**，并设计了**U.S. Cyber Trust Mark**标志，目前正向美国专利商标局申请注册。该标志未经FCC书面许可不得使用，旨在帮助消费者识别符合网络安全标准的智能设备。
 
 ---
