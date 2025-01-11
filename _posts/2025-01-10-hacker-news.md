@@ -26,7 +26,7 @@ tags:
 <small>🔗 [danielwirtz.com](https://danielwirtz.com/blog/spot-the-difference-superpower): I've acquired a new superpower</small>
 
 
-| 🔥🔥: 1249 \| 💬: [467](https://news.ycombinator.com/item?id=42655870) \| 🗓️ 2025-01-10
+| 🔥🔥: 1298 \| 💬: [475](https://news.ycombinator.com/item?id=42655870) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [pagat.com](https://www.pagat.com/combat/cuttle.html): Cuttle – a MTG like game using a standard 52 card deck</small>
 
 
-| 🔥🔥: 243 \| 💬: [61](https://news.ycombinator.com/item?id=42658614) \| 🗓️ 2025-01-10
+| 🔥🔥: 251 \| 💬: [62](https://news.ycombinator.com/item?id=42658614) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -50,7 +50,7 @@ Cuttle是一款1970年代起源于北美的**双人卡牌对战游戏**，使用
 <small>🔗 [restofworld.org](https://restofworld.org/2025/starlink-cheaper-internet-africa/): Starlink is now cheaper than leading internet provider in some African countries</small>
 
 
-| 🔥🔥: 228 \| 💬: [203](https://news.ycombinator.com/item?id=42657692) \| 🗓️ 2025-01-10
+| 🔥🔥: 228 \| 💬: [205](https://news.ycombinator.com/item?id=42657692) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -62,7 +62,7 @@ Starlink在非洲16个国家中的至少5个国家，其月订阅费低于主流
 <small>🔗 [iconsolutions.com](https://iconsolutions.com/blog/i-got-opentelemetry-to-work-but-why-was-it-so-complicated/): I got OpenTelemetry to work. But why was it so complicated?</small>
 
 
-| 🔥🔥: 203 \| 💬: [150](https://news.ycombinator.com/item?id=42655102) \| 🗓️ 2025-01-10
+| 🔥🔥: 209 \| 💬: [150](https://news.ycombinator.com/item?id=42655102) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -74,7 +74,7 @@ Starlink在非洲16个国家中的至少5个国家，其月订阅费低于主流
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2501.04682): Learning how to think with Meta Chain-of-Thought</small>
 
 
-| 🔥🔥: 190 \| 💬: [49](https://news.ycombinator.com/item?id=42655098) \| 🗓️ 2025-01-10
+| 🔥🔥: 197 \| 💬: [51](https://news.ycombinator.com/item?id=42655098) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -86,7 +86,7 @@ Starlink在非洲16个国家中的至少5个国家，其月订阅费低于主流
 <small>🔗 [writings.stephenwolfram.com](https://writings.stephenwolfram.com/2025/01/who-can-understand-the-proof-a-window-on-formalized-mathematics/): Who Can Understand the Proof? A Window on Formalized Mathematics</small>
 
 
-| 🔥🔥: 177 \| 💬: [99](https://news.ycombinator.com/item?id=42654995) \| 🗓️ 2025-01-10
+| 🔥🔥: 177 \| 💬: [100](https://news.ycombinator.com/item?id=42654995) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -94,23 +94,11 @@ Starlink在非洲16个国家中的至少5个国家，其月订阅费低于主流
 
 ---
 
-## <a name="7"></a>7. 形式化方法：只是良好的工程实践吗？ 
-<small>🔗 [brooker.co.za](https://brooker.co.za/blog/2024/04/17/formal): Formal Methods: Just Good Engineering Practice? (2024)</small>
-
-
-| 🔥🔥: 171 \| 💬: [99](https://news.ycombinator.com/item?id=42656433) \| 🗓️ 2025-01-10
-
-
-<br />
-Marc Brooker在2024年TLA+会议的主题演讲中强调，**形式化方法**是良好软件工程实践的重要组成部分，尤其适用于大规模、分布式或关键系统。通过减少返工和提前解决接口变更，形式化设计能显著提高开发效率。尽管并非所有软件都适用，但对于需求明确且稳定的系统，形式化方法能有效降低错误率并加速开发。
-
----
-
-## <a name="8"></a>8. 芬兰的无家可归者零策略（2021） 
+## <a name="7"></a>7. 芬兰的无家可归者零策略（2021） 
 <small>🔗 [oecdecoscope.blog](https://oecdecoscope.blog/2021/12/13/finlands-zero-homeless-strategy-lessons-from-a-success-story/): Finland's zero homeless strategy (2021)</small>
 
 
-| 🔥🔥: 165 \| 💬: [347](https://news.ycombinator.com/item?id=42656711) \| 🗓️ 2025-01-10
+| 🔥🔥: 176 \| 💬: [358](https://news.ycombinator.com/item?id=42656711) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -118,11 +106,23 @@ Marc Brooker在2024年TLA+会议的主题演讲中强调，**形式化方法**�
 
 ---
 
+## <a name="8"></a>8. 形式化方法：只是良好的工程实践吗？ 
+<small>🔗 [brooker.co.za](https://brooker.co.za/blog/2024/04/17/formal): Formal Methods: Just Good Engineering Practice? (2024)</small>
+
+
+| 🔥🔥: 173 \| 💬: [99](https://news.ycombinator.com/item?id=42656433) \| 🗓️ 2025-01-10
+
+
+<br />
+Marc Brooker在2024年TLA+会议的主题演讲中强调，**形式化方法**是良好软件工程实践的重要组成部分，尤其适用于大规模、分布式或关键系统。通过减少返工和提前解决接口变更，形式化设计能显著提高开发效率。尽管并非所有软件都适用，但对于需求明确且稳定的系统，形式化方法能有效降低错误率并加速开发。
+
+---
+
 ## <a name="9"></a>9. 触觉：ESP32 微控制器系列的操作系统 
 <small>🔗 [tactility.one](https://tactility.one/#/): Tactility: OS for the ESP32 Microcontroller Family</small>
 
 
-| 🔥🔥: 164 \| 💬: [42](https://news.ycombinator.com/item?id=42653811) \| 🗓️ 2025-01-10
+| 🔥🔥: 167 \| 💬: [42](https://news.ycombinator.com/item?id=42653811) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -134,7 +134,7 @@ Marc Brooker在2024年TLA+会议的主题演讲中强调，**形式化方法**�
 <small>🔗 [github.com](https://github.com/AndyObtiva/glimmer): Glimmer: DSL Framework for Ruby GUI and More</small>
 
 
-| 🔥🔥: 152 \| 💬: [21](https://news.ycombinator.com/item?id=42653939) \| 🗓️ 2025-01-10
+| 🔥🔥: 153 \| 💬: [21](https://news.ycombinator.com/item?id=42653939) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -146,7 +146,7 @@ Glimmer 是一个 **DSL 框架**，包含 DSL 引擎和数据绑定库，支持�
 <small>🔗 [lcamtuf.substack.com](https://lcamtuf.substack.com/p/getting-silly-with-c-part-void2): Getting silly with C, part (void*)2</small>
 
 
-| 🔥🔥: 148 \| 💬: [81](https://news.ycombinator.com/item?id=42657591) \| 🗓️ 2025-01-10
+| 🔥🔥: 149 \| 💬: [81](https://news.ycombinator.com/item?id=42657591) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -158,7 +158,7 @@ Glimmer 是一个 **DSL 框架**，包含 DSL 引擎和数据绑定库，支持�
 <small>🔗 [weuserails.com](https://weuserails.com/): Web apps built with Ruby on Rails</small>
 
 
-| 🔥🔥: 140 \| 💬: [111](https://news.ycombinator.com/item?id=42656559) \| 🗓️ 2025-01-10
+| 🔥🔥: 141 \| 💬: [112](https://news.ycombinator.com/item?id=42656559) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -182,7 +182,7 @@ NVIDIA-Ingest 是一套用于从复杂、非结构化的 PDF 和其他企业文�
 <small>🔗 [commonplace.online](https://commonplace.online/article/the-tedious-heroism-of-david-ruggles/): The Tedious Heroism of David Ruggles</small>
 
 
-| 🔥🔥: 125 \| 💬: [16](https://news.ycombinator.com/item?id=42655636) \| 🗓️ 2025-01-10
+| 🔥🔥: 128 \| 💬: [18](https://news.ycombinator.com/item?id=42655636) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -202,7 +202,19 @@ NVIDIA-Ingest 是一套用于从复杂、非结构化的 PDF 和其他企业文�
 
 ---
 
-## <a name="16"></a>16. OpenAI的机器人像DDoS攻击一样摧毁了这家七人公司的网站 
+## <a name="16"></a>16. 传送门与《雷神之锤》 
+<small>🔗 [30fps.net](https://30fps.net/pages/pvs-portals-and-quake/): Portals and Quake</small>
+
+
+| 🔥🔥: 104 \| 💬: [26](https://news.ycombinator.com/item?id=42661185) \| 🗓️ 2025-01-10
+
+
+<br />
+本文探讨了《雷神之锤》引擎中的**预计算可见性**（PVS）技术，通过**传送门剔除**和**潜在可见集**来优化渲染性能。文章详细介绍了如何通过**BSP树**将地图划分为凸面单元（叶子），并通过传送门连接这些单元，最终生成每个单元的可见性列表。这种方法减少了过度绘制，提升了游戏性能。
+
+---
+
+## <a name="17"></a>17. OpenAI的机器人像DDoS攻击一样摧毁了这家七人公司的网站 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/10/how-openais-bot-crushed-this-seven-person-companys-web-site-like-a-ddos-attack/): OpenAI's bot crushed this seven-person company's web site 'like a DDoS attack'</small>
 
 
@@ -214,23 +226,11 @@ OpenAI的爬虫机器人**GPTBot**在未经许可的情况下，疯狂抓取Trip
 
 ---
 
-## <a name="17"></a>17. 传送门与《雷神之锤》 
-<small>🔗 [30fps.net](https://30fps.net/pages/pvs-portals-and-quake/): Portals and Quake</small>
-
-
-| 🔥: 97 \| 💬: [23](https://news.ycombinator.com/item?id=42661185) \| 🗓️ 2025-01-10
-
-
-<br />
-本文探讨了《雷神之锤》引擎中的**预计算可见性**（PVS）技术，通过**传送门剔除**和**潜在可见集**来优化渲染性能。文章详细介绍了如何通过**BSP树**将地图划分为凸面单元（叶子），并通过传送门连接这些单元，最终生成每个单元的可见性列表。这种方法减少了过度绘制，提升了游戏性能。
-
----
-
 ## <a name="18"></a>18. 扁平化抽象语法树（及其他编译器数据结构） 
 <small>🔗 [cs.cornell.edu](https://www.cs.cornell.edu/~asampson/blog/flattening.html): Flattening ASTs and other compiler data structures (2023)</small>
 
 
-| 🔥: 91 \| 💬: [15](https://news.ycombinator.com/item?id=42659061) \| 🗓️ 2025-01-10
+| 🔥: 96 \| 💬: [16](https://news.ycombinator.com/item?id=42659061) \| 🗓️ 2025-01-10
 
 
 <br />
