@@ -12,7 +12,7 @@ tags:
 1. Starlink在部分非洲国家比主流互联网提供商更便宜；
 1. Cuttle – 使用标准52张牌组的MTG类游戏；
 1. 学习如何通过元思维链进行思考；
-1. 谁能理解证明？形式化数学的一瞥；
+1. 我成功让OpenTelemetry工作了，但为什么这么复杂？；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [danielwirtz.com](https://danielwirtz.com/blog/spot-the-difference-superpower): I've acquired a new superpower</small>
 
 
-| 🔥🔥: 1057 \| 💬: [409](https://news.ycombinator.com/item?id=42655870) \| 🗓️ 2025-01-10
+| 🔥🔥: 1110 \| 💬: [425](https://news.ycombinator.com/item?id=42655870) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [restofworld.org](https://restofworld.org/2025/starlink-cheaper-internet-africa/): Starlink is now cheaper than leading internet provider in some African countries</small>
 
 
-| 🔥🔥: 217 \| 💬: [192](https://news.ycombinator.com/item?id=42657692) \| 🗓️ 2025-01-10
+| 🔥🔥: 218 \| 💬: [195](https://news.ycombinator.com/item?id=42657692) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -50,7 +50,7 @@ Starlink在非洲16个国家中的至少5个国家，其月订阅费低于主流
 <small>🔗 [pagat.com](https://www.pagat.com/combat/cuttle.html): Cuttle – a MTG like game using a standard 52 card deck</small>
 
 
-| 🔥🔥: 196 \| 💬: [59](https://news.ycombinator.com/item?id=42658614) \| 🗓️ 2025-01-10
+| 🔥🔥: 210 \| 💬: [59](https://news.ycombinator.com/item?id=42658614) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -62,7 +62,7 @@ Cuttle是一款1970年代起源于北美的**双人卡牌对战游戏**，使用
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2501.04682): Learning How to Think with Meta Chain-of-Thought</small>
 
 
-| 🔥🔥: 177 \| 💬: [45](https://news.ycombinator.com/item?id=42655098) \| 🗓️ 2025-01-10
+| 🔥🔥: 183 \| 💬: [46](https://news.ycombinator.com/item?id=42655098) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -70,23 +70,11 @@ Cuttle是一款1970年代起源于北美的**双人卡牌对战游戏**，使用
 
 ---
 
-## <a name="5"></a>5. 谁能理解证明？形式化数学的一瞥 
-<small>🔗 [writings.stephenwolfram.com](https://writings.stephenwolfram.com/2025/01/who-can-understand-the-proof-a-window-on-formalized-mathematics/): Who Can Understand the Proof? A Window on Formalized Mathematics</small>
-
-
-| 🔥🔥: 172 \| 💬: [94](https://news.ycombinator.com/item?id=42654995) \| 🗓️ 2025-01-10
-
-
-<br />
-本文探讨了**自动定理证明**在数学中的应用，特别是通过Wolfram语言发现的**最简单的布尔代数公理**。尽管该定理已被证明，但其**证明过程**复杂且难以理解，引发了关于**计算不可约性**和**人类可理解的证明**的讨论。文章还提出了一个挑战：如何使这种复杂的证明对人类更直观，并探讨了**AI**在其中的潜在作用。
-
----
-
-## <a name="6"></a>6. 我成功让OpenTelemetry工作了，但为什么这么复杂？ 
+## <a name="5"></a>5. 我成功让OpenTelemetry工作了，但为什么这么复杂？ 
 <small>🔗 [iconsolutions.com](https://iconsolutions.com/blog/i-got-opentelemetry-to-work-but-why-was-it-so-complicated/): I got OpenTelemetry to work. But why was it so complicated?</small>
 
 
-| 🔥🔥: 171 \| 💬: [137](https://news.ycombinator.com/item?id=42655102) \| 🗓️ 2025-01-10
+| 🔥🔥: 176 \| 💬: [141](https://news.ycombinator.com/item?id=42655102) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -94,11 +82,23 @@ Cuttle是一款1970年代起源于北美的**双人卡牌对战游戏**，使用
 
 ---
 
+## <a name="6"></a>6. 谁能理解证明？形式化数学的一瞥 
+<small>🔗 [writings.stephenwolfram.com](https://writings.stephenwolfram.com/2025/01/who-can-understand-the-proof-a-window-on-formalized-mathematics/): Who Can Understand the Proof? A Window on Formalized Mathematics</small>
+
+
+| 🔥🔥: 174 \| 💬: [96](https://news.ycombinator.com/item?id=42654995) \| 🗓️ 2025-01-10
+
+
+<br />
+本文探讨了**自动定理证明**在数学中的应用，特别是通过Wolfram语言发现的**最简单的布尔代数公理**。尽管该定理已被证明，但其**证明过程**复杂且难以理解，引发了关于**计算不可约性**和**人类可理解的证明**的讨论。文章还提出了一个挑战：如何使这种复杂的证明对人类更直观，并探讨了**AI**在其中的潜在作用。
+
+---
+
 ## <a name="7"></a>7. 形式化方法：只是良好的工程实践吗？ 
 <small>🔗 [brooker.co.za](https://brooker.co.za/blog/2024/04/17/formal): Formal Methods: Just Good Engineering Practice? (2024)</small>
 
 
-| 🔥🔥: 158 \| 💬: [90](https://news.ycombinator.com/item?id=42656433) \| 🗓️ 2025-01-10
+| 🔥🔥: 166 \| 💬: [94](https://news.ycombinator.com/item?id=42656433) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -110,7 +110,7 @@ Marc Brooker在2024年TLA+会议的主题演讲中强调，**形式化方法**�
 <small>🔗 [tactility.one](https://tactility.one/#/): Tactility: OS for the ESP32 Microcontroller Family</small>
 
 
-| 🔥🔥: 154 \| 💬: [41](https://news.ycombinator.com/item?id=42653811) \| 🗓️ 2025-01-10
+| 🔥🔥: 155 \| 💬: [41](https://news.ycombinator.com/item?id=42653811) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -118,23 +118,11 @@ Marc Brooker在2024年TLA+会议的主题演讲中强调，**形式化方法**�
 
 ---
 
-## <a name="9"></a>9. 使用 Ruby on Rails 构建的 Web 应用 
-<small>🔗 [weuserails.com](https://weuserails.com/): Web apps built with Ruby on Rails</small>
-
-
-| 🔥🔥: 139 \| 💬: [109](https://news.ycombinator.com/item?id=42656559) \| 🗓️ 2025-01-10
-
-
-<br />
-探索由 **Ruby on Rails** 框架构建的多样化 Web 应用，涵盖从初创公司到企业级应用。平台展示了 **Rails** 的广泛适用性，支持金融、教育、游戏等多个领域。开发者可提交自己的 Rails 应用，获取曝光并加入这一不断增长的社区。
-
----
-
-## <a name="10"></a>10. Glimmer：Ruby GUI 及更多领域的 DSL 框架 
+## <a name="9"></a>9. Glimmer：Ruby GUI 及更多领域的 DSL 框架 
 <small>🔗 [github.com](https://github.com/AndyObtiva/glimmer): Glimmer: DSL Framework for Ruby GUI and More</small>
 
 
-| 🔥🔥: 138 \| 💬: [21](https://news.ycombinator.com/item?id=42653939) \| 🗓️ 2025-01-10
+| 🔥🔥: 140 \| 💬: [21](https://news.ycombinator.com/item?id=42653939) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -142,11 +130,23 @@ Glimmer 是一个 **DSL 框架**，包含 DSL 引擎和数据绑定库，支持�
 
 ---
 
+## <a name="10"></a>10. 使用 Ruby on Rails 构建的 Web 应用 
+<small>🔗 [weuserails.com](https://weuserails.com/): Web apps built with Ruby on Rails</small>
+
+
+| 🔥🔥: 139 \| 💬: [110](https://news.ycombinator.com/item?id=42656559) \| 🗓️ 2025-01-10
+
+
+<br />
+探索由 **Ruby on Rails** 框架构建的多样化 Web 应用，涵盖从初创公司到企业级应用。平台展示了 **Rails** 的广泛适用性，支持金融、教育、游戏等多个领域。开发者可提交自己的 Rails 应用，获取曝光并加入这一不断增长的社区。
+
+---
+
 ## <a name="11"></a>11. 用C语言玩点花样，第二部分 
 <small>🔗 [lcamtuf.substack.com](https://lcamtuf.substack.com/p/getting-silly-with-c-part-void2): Getting silly with C, part (void*)2</small>
 
 
-| 🔥🔥: 133 \| 💬: [69](https://news.ycombinator.com/item?id=42657591) \| 🗓️ 2025-01-10
+| 🔥🔥: 135 \| 💬: [70](https://news.ycombinator.com/item?id=42657591) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -158,7 +158,7 @@ Glimmer 是一个 **DSL 框架**，包含 DSL 引擎和数据绑定库，支持�
 <small>🔗 [github.com](https://github.com/NVIDIA/nv-ingest): Nvidia-Ingest: Multi-modal data extraction</small>
 
 
-| 🔥🔥: 129 \| 💬: [41](https://news.ycombinator.com/item?id=42654019) \| 🗓️ 2025-01-10
+| 🔥🔥: 132 \| 💬: [41](https://news.ycombinator.com/item?id=42654019) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -166,7 +166,19 @@ NVIDIA-Ingest 是一套用于从复杂、非结构化的 PDF 和其他企业文�
 
 ---
 
-## <a name="13"></a>13. Show HN: Freeact – 轻量级代码动作代理库 
+## <a name="13"></a>13. 芬兰的无家可归者零策略（2021） 
+<small>🔗 [oecdecoscope.blog](https://oecdecoscope.blog/2021/12/13/finlands-zero-homeless-strategy-lessons-from-a-success-story/): Finland's zero homeless strategy (2021)</small>
+
+
+| 🔥🔥: 131 \| 💬: [291](https://news.ycombinator.com/item?id=42656711) \| 🗓️ 2025-01-10
+
+
+<br />
+芬兰通过**“住房优先”**策略，成功将无家可归者从1989年的16,000人减少到2020年的4,000人。该策略结合了**经济援助、综合支持服务和住房供应**，确保无家可归者获得永久住房而非临时住所。芬兰的经验表明，整合住房与社会援助、平衡供需关系以及持续的政治支持是解决无家可归问题的关键。
+
+---
+
+## <a name="14"></a>14. Show HN: Freeact – 轻量级代码动作代理库 
 <small>🔗 [github.com](https://github.com/gradion-ai/freeact): Show HN: Freeact – A Lightweight Library for Code-Action Based Agents</small>
 
 
@@ -178,11 +190,11 @@ NVIDIA-Ingest 是一套用于从复杂、非结构化的 PDF 和其他企业文�
 
 ---
 
-## <a name="14"></a>14. 大卫·拉格尔斯：平凡英雄的艰辛历程 
+## <a name="15"></a>15. 大卫·拉格尔斯：平凡英雄的艰辛历程 
 <small>🔗 [commonplace.online](https://commonplace.online/article/the-tedious-heroism-of-david-ruggles/): The Tedious Heroism of David Ruggles</small>
 
 
-| 🔥🔥: 115 \| 💬: [15](https://news.ycombinator.com/item?id=42655636) \| 🗓️ 2025-01-10
+| 🔥🔥: 117 \| 💬: [15](https://news.ycombinator.com/item?id=42655636) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -190,23 +202,11 @@ NVIDIA-Ingest 是一套用于从复杂、非结构化的 PDF 和其他企业文�
 
 ---
 
-## <a name="15"></a>15. 芬兰的无家可归者零策略（2021） 
-<small>🔗 [oecdecoscope.blog](https://oecdecoscope.blog/2021/12/13/finlands-zero-homeless-strategy-lessons-from-a-success-story/): Finland's zero homeless strategy (2021)</small>
-
-
-| 🔥🔥: 113 \| 💬: [268](https://news.ycombinator.com/item?id=42656711) \| 🗓️ 2025-01-10
-
-
-<br />
-芬兰通过**“住房优先”**策略，成功将无家可归者从1989年的16,000人减少到2020年的4,000人。该策略结合了**经济援助、综合支持服务和住房供应**，确保无家可归者获得永久住房而非临时住所。芬兰的经验表明，整合住房与社会援助、平衡供需关系以及持续的政治支持是解决无家可归问题的关键。
-
----
-
 ## <a name="16"></a>16. OpenAI的机器人像DDoS攻击一样摧毁了这家七人公司的网站 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/10/how-openais-bot-crushed-this-seven-person-companys-web-site-like-a-ddos-attack/): OpenAI's bot crushed this seven-person company's web site 'like a DDoS attack'</small>
 
 
-| 🔥: 90 \| 💬: [86](https://news.ycombinator.com/item?id=42660377) \| 🗓️ 2025-01-10
+| 🔥: 92 \| 💬: [89](https://news.ycombinator.com/item?id=42660377) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -226,23 +226,11 @@ OpenAI的爬虫机器人**GPTBot**在未经许可的情况下，疯狂抓取Trip
 
 ---
 
-## <a name="18"></a>18. Boulette - 防止你误操作（即使以 root 身份） 
-<small>🔗 [github.com](https://github.com/pipelight/boulette): Show HN: Boulette - Protect you from yourself (even as root).</small>
-
-
-| 🔥: 70 \| 💬: [79](https://news.ycombinator.com/item?id=42655708) \| 🗓️ 2025-01-10
-
-
-<br />
-Boulette 是一个终端确认提示工具，旨在**防止用户意外关闭远程主机**。通过在危险命令前添加 `boulette`，它会弹出确认提示，要求用户输入确认或解决挑战（如输入主机名或随机字符）。特别适用于 SSH 会话，可通过别名替换常用命令，如 `shutdown`，确保在远程操作时更加安全。支持多种挑战类型，如主机名、数字或字符验证。
-
----
-
-## <a name="19"></a>19. 扁平化抽象语法树（及其他编译器数据结构） 
+## <a name="18"></a>18. 扁平化抽象语法树（及其他编译器数据结构） 
 <small>🔗 [cs.cornell.edu](https://www.cs.cornell.edu/~asampson/blog/flattening.html): Flattening ASTs (and Other Compiler Data Structures)</small>
 
 
-| 🔥: 65 \| 💬: [13](https://news.ycombinator.com/item?id=42659061) \| 🗓️ 2025-01-10
+| 🔥: 74 \| 💬: [14](https://news.ycombinator.com/item?id=42659061) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -250,14 +238,26 @@ Boulette 是一个终端确认提示工具，旨在**防止用户意外关闭远
 
 ---
 
-## <a name="20"></a>20. 打造美观的API密钥 
-<small>🔗 [docs.agentstation.ai](https://docs.agentstation.ai/blog/beautiful-api-keys/): Making Beautiful API Keys</small>
+## <a name="19"></a>19. 传送门与《雷神之锤》 
+<small>🔗 [30fps.net](https://30fps.net/pages/pvs-portals-and-quake/): Portals and Quake</small>
 
 
-| 🔥: 60 \| 💬: [101](https://news.ycombinator.com/item?id=42655630) \| 🗓️ 2025-01-10
+| 🔥: 72 \| 💬: [10](https://news.ycombinator.com/item?id=42661185) \| 🗓️ 2025-01-10
 
 
 <br />
-开发者是客户，我们希望API密钥既美观又实用。现有方案如UUID、NanoID等均不完美，因此我们开发了**uuidkey**包，基于**UUIDv7**和**Crockford Base32**编码，生成易读、对称且可排序的API密钥。开源项目地址：[github.com/agentstation/uuidkey](https://github.com/agentstation/uuidkey)。
+本文探讨了《雷神之锤》引擎中的**预计算可见性**（PVS）技术，通过**传送门剔除**和**潜在可见集**来优化渲染性能。文章详细介绍了如何通过**BSP树**将地图划分为凸面单元（叶子），并通过传送门连接这些单元，最终生成每个单元的可见性列表。这种方法减少了过度绘制，提升了游戏性能。
+
+---
+
+## <a name="20"></a>20. Boulette - 防止你误操作（即使以 root 身份） 
+<small>🔗 [github.com](https://github.com/pipelight/boulette): Show HN: Boulette - Protect you from yourself (even as root).</small>
+
+
+| 🔥: 71 \| 💬: [79](https://news.ycombinator.com/item?id=42655708) \| 🗓️ 2025-01-10
+
+
+<br />
+Boulette 是一个终端确认提示工具，旨在**防止用户意外关闭远程主机**。通过在危险命令前添加 `boulette`，它会弹出确认提示，要求用户输入确认或解决挑战（如输入主机名或随机字符）。特别适用于 SSH 会话，可通过别名替换常用命令，如 `shutdown`，确保在远程操作时更加安全。支持多种挑战类型，如主机名、数字或字符验证。
 
 ---
