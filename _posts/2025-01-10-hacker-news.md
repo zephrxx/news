@@ -26,7 +26,7 @@ tags:
 <small>🔗 [danielwirtz.com](https://danielwirtz.com/blog/spot-the-difference-superpower): I've acquired a new superpower</small>
 
 
-| 🔥🔥: 1159 \| 💬: [443](https://news.ycombinator.com/item?id=42655870) \| 🗓️ 2025-01-10
+| 🔥🔥: 1210 \| 💬: [458](https://news.ycombinator.com/item?id=42655870) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [pagat.com](https://www.pagat.com/combat/cuttle.html): Cuttle – a MTG like game using a standard 52 card deck</small>
 
 
-| 🔥🔥: 225 \| 💬: [59](https://news.ycombinator.com/item?id=42658614) \| 🗓️ 2025-01-10
+| 🔥🔥: 236 \| 💬: [60](https://news.ycombinator.com/item?id=42658614) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -50,7 +50,7 @@ Cuttle是一款1970年代起源于北美的**双人卡牌对战游戏**，使用
 <small>🔗 [restofworld.org](https://restofworld.org/2025/starlink-cheaper-internet-africa/): Starlink is now cheaper than leading internet provider in some African countries</small>
 
 
-| 🔥🔥: 222 \| 💬: [196](https://news.ycombinator.com/item?id=42657692) \| 🗓️ 2025-01-10
+| 🔥🔥: 226 \| 💬: [201](https://news.ycombinator.com/item?id=42657692) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -62,7 +62,7 @@ Starlink在非洲16个国家中的至少5个国家，其月订阅费低于主流
 <small>🔗 [iconsolutions.com](https://iconsolutions.com/blog/i-got-opentelemetry-to-work-but-why-was-it-so-complicated/): I got OpenTelemetry to work. But why was it so complicated?</small>
 
 
-| 🔥🔥: 186 \| 💬: [148](https://news.ycombinator.com/item?id=42655102) \| 🗓️ 2025-01-10
+| 🔥🔥: 193 \| 💬: [149](https://news.ycombinator.com/item?id=42655102) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -74,7 +74,7 @@ Starlink在非洲16个国家中的至少5个国家，其月订阅费低于主流
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2501.04682): Learning How to Think with Meta Chain-of-Thought</small>
 
 
-| 🔥🔥: 184 \| 💬: [47](https://news.ycombinator.com/item?id=42655098) \| 🗓️ 2025-01-10
+| 🔥🔥: 187 \| 💬: [47](https://news.ycombinator.com/item?id=42655098) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -86,7 +86,7 @@ Starlink在非洲16个国家中的至少5个国家，其月订阅费低于主流
 <small>🔗 [writings.stephenwolfram.com](https://writings.stephenwolfram.com/2025/01/who-can-understand-the-proof-a-window-on-formalized-mathematics/): Who Can Understand the Proof? A Window on Formalized Mathematics</small>
 
 
-| 🔥🔥: 174 \| 💬: [97](https://news.ycombinator.com/item?id=42654995) \| 🗓️ 2025-01-10
+| 🔥🔥: 176 \| 💬: [97](https://news.ycombinator.com/item?id=42654995) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -98,7 +98,7 @@ Starlink在非洲16个国家中的至少5个国家，其月订阅费低于主流
 <small>🔗 [brooker.co.za](https://brooker.co.za/blog/2024/04/17/formal): Formal Methods: Just Good Engineering Practice? (2024)</small>
 
 
-| 🔥🔥: 166 \| 💬: [97](https://news.ycombinator.com/item?id=42656433) \| 🗓️ 2025-01-10
+| 🔥🔥: 169 \| 💬: [97](https://news.ycombinator.com/item?id=42656433) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -110,7 +110,7 @@ Marc Brooker在2024年TLA+会议的主题演讲中强调，**形式化方法**�
 <small>🔗 [tactility.one](https://tactility.one/#/): Tactility: OS for the ESP32 Microcontroller Family</small>
 
 
-| 🔥🔥: 156 \| 💬: [42](https://news.ycombinator.com/item?id=42653811) \| 🗓️ 2025-01-10
+| 🔥🔥: 161 \| 💬: [42](https://news.ycombinator.com/item?id=42653811) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -122,7 +122,7 @@ Marc Brooker在2024年TLA+会议的主题演讲中强调，**形式化方法**�
 <small>🔗 [oecdecoscope.blog](https://oecdecoscope.blog/2021/12/13/finlands-zero-homeless-strategy-lessons-from-a-success-story/): Finland's zero homeless strategy (2021)</small>
 
 
-| 🔥🔥: 148 \| 💬: [319](https://news.ycombinator.com/item?id=42656711) \| 🗓️ 2025-01-10
+| 🔥🔥: 154 \| 💬: [334](https://news.ycombinator.com/item?id=42656711) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -134,7 +134,7 @@ Marc Brooker在2024年TLA+会议的主题演讲中强调，**形式化方法**�
 <small>🔗 [github.com](https://github.com/AndyObtiva/glimmer): Glimmer: DSL Framework for Ruby GUI and More</small>
 
 
-| 🔥🔥: 144 \| 💬: [21](https://news.ycombinator.com/item?id=42653939) \| 🗓️ 2025-01-10
+| 🔥🔥: 149 \| 💬: [21](https://news.ycombinator.com/item?id=42653939) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -146,7 +146,7 @@ Glimmer 是一个 **DSL 框架**，包含 DSL 引擎和数据绑定库，支持�
 <small>🔗 [lcamtuf.substack.com](https://lcamtuf.substack.com/p/getting-silly-with-c-part-void2): Getting silly with C, part (void*)2</small>
 
 
-| 🔥🔥: 141 \| 💬: [72](https://news.ycombinator.com/item?id=42657591) \| 🗓️ 2025-01-10
+| 🔥🔥: 145 \| 💬: [76](https://news.ycombinator.com/item?id=42657591) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -158,7 +158,7 @@ Glimmer 是一个 **DSL 框架**，包含 DSL 引擎和数据绑定库，支持�
 <small>🔗 [weuserails.com](https://weuserails.com/): Web apps built with Ruby on Rails</small>
 
 
-| 🔥🔥: 140 \| 💬: [110](https://news.ycombinator.com/item?id=42656559) \| 🗓️ 2025-01-10
+| 🔥🔥: 140 \| 💬: [111](https://news.ycombinator.com/item?id=42656559) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -170,7 +170,7 @@ Glimmer 是一个 **DSL 框架**，包含 DSL 引擎和数据绑定库，支持�
 <small>🔗 [github.com](https://github.com/NVIDIA/nv-ingest): Nvidia-Ingest: Multi-modal data extraction</small>
 
 
-| 🔥🔥: 132 \| 💬: [41](https://news.ycombinator.com/item?id=42654019) \| 🗓️ 2025-01-10
+| 🔥🔥: 133 \| 💬: [41](https://news.ycombinator.com/item?id=42654019) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -182,7 +182,7 @@ NVIDIA-Ingest 是一套用于从复杂、非结构化的 PDF 和其他企业文�
 <small>🔗 [commonplace.online](https://commonplace.online/article/the-tedious-heroism-of-david-ruggles/): The Tedious Heroism of David Ruggles</small>
 
 
-| 🔥🔥: 122 \| 💬: [16](https://news.ycombinator.com/item?id=42655636) \| 🗓️ 2025-01-10
+| 🔥🔥: 125 \| 💬: [16](https://news.ycombinator.com/item?id=42655636) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -206,7 +206,7 @@ NVIDIA-Ingest 是一套用于从复杂、非结构化的 PDF 和其他企业文�
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/10/how-openais-bot-crushed-this-seven-person-companys-web-site-like-a-ddos-attack/): OpenAI's bot crushed this seven-person company's web site 'like a DDoS attack'</small>
 
 
-| 🔥: 95 \| 💬: [90](https://news.ycombinator.com/item?id=42660377) \| 🗓️ 2025-01-10
+| 🔥: 96 \| 💬: [92](https://news.ycombinator.com/item?id=42660377) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -218,7 +218,7 @@ OpenAI的爬虫机器人**GPTBot**在未经许可的情况下，疯狂抓取Trip
 <small>🔗 [30fps.net](https://30fps.net/pages/pvs-portals-and-quake/): Portals and Quake</small>
 
 
-| 🔥: 83 \| 💬: [14](https://news.ycombinator.com/item?id=42661185) \| 🗓️ 2025-01-10
+| 🔥: 91 \| 💬: [20](https://news.ycombinator.com/item?id=42661185) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -230,7 +230,7 @@ OpenAI的爬虫机器人**GPTBot**在未经许可的情况下，疯狂抓取Trip
 <small>🔗 [cs.cornell.edu](https://www.cs.cornell.edu/~asampson/blog/flattening.html): Flattening ASTs (and Other Compiler Data Structures)</small>
 
 
-| 🔥: 81 \| 💬: [14](https://news.ycombinator.com/item?id=42659061) \| 🗓️ 2025-01-10
+| 🔥: 85 \| 💬: [14](https://news.ycombinator.com/item?id=42659061) \| 🗓️ 2025-01-10
 
 
 <br />
