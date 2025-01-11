@@ -10,9 +10,9 @@ tags:
 
 1. 我获得了一项新的超能力；
 1. Starlink在部分非洲国家比主流互联网提供商更便宜；
+1. Cuttle – 使用标准52张牌组的MTG类游戏；
 1. 学习如何通过元思维链进行思考；
 1. 谁能理解证明？形式化数学的一瞥；
-1. Cuttle – 使用标准52张牌组的MTG类游戏；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [danielwirtz.com](https://danielwirtz.com/blog/spot-the-difference-superpower): I've acquired a new superpower</small>
 
 
-| 🔥🔥: 941 \| 💬: [380](https://news.ycombinator.com/item?id=42655870) \| 🗓️ 2025-01-10
+| 🔥🔥: 992 \| 💬: [393](https://news.ycombinator.com/item?id=42655870) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [restofworld.org](https://restofworld.org/2025/starlink-cheaper-internet-africa/): Starlink is now cheaper than leading internet provider in some African countries</small>
 
 
-| 🔥🔥: 213 \| 💬: [177](https://news.ycombinator.com/item?id=42657692) \| 🗓️ 2025-01-10
+| 🔥🔥: 214 \| 💬: [185](https://news.ycombinator.com/item?id=42657692) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -46,35 +46,11 @@ Starlink在非洲16个国家中的至少5个国家，其月订阅费低于主流
 
 ---
 
-## <a name="3"></a>3. 学习如何通过元思维链进行思考 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2501.04682): Learning How to Think with Meta Chain-of-Thought</small>
-
-
-| 🔥🔥: 168 \| 💬: [42](https://news.ycombinator.com/item?id=42655098) \| 🗓️ 2025-01-10
-
-
-<br />
-本文提出了一种名为**元思维链（Meta-CoT）**的新框架，扩展了传统的思维链（CoT），通过显式建模推理过程来生成更复杂的推理路径。研究结合了**过程监督**、**合成数据生成**和**搜索算法**，并探讨了如何通过指令微调和强化学习训练模型生成Meta-CoT。该工作为在大型语言模型中实现更强大的类人推理提供了理论和实践基础。
-
----
-
-## <a name="4"></a>4. 谁能理解证明？形式化数学的一瞥 
-<small>🔗 [writings.stephenwolfram.com](https://writings.stephenwolfram.com/2025/01/who-can-understand-the-proof-a-window-on-formalized-mathematics/): Who Can Understand the Proof? A Window on Formalized Mathematics</small>
-
-
-| 🔥🔥: 167 \| 💬: [89](https://news.ycombinator.com/item?id=42654995) \| 🗓️ 2025-01-10
-
-
-<br />
-本文探讨了**自动定理证明**在数学中的应用，特别是通过Wolfram语言发现的**最简单的布尔代数公理**。尽管该定理已被证明，但其**证明过程**复杂且难以理解，引发了关于**计算不可约性**和**人类可理解的证明**的讨论。文章还提出了一个挑战：如何使这种复杂的证明对人类更直观，并探讨了**AI**在其中的潜在作用。
-
----
-
-## <a name="5"></a>5. Cuttle – 使用标准52张牌组的MTG类游戏 
+## <a name="3"></a>3. Cuttle – 使用标准52张牌组的MTG类游戏 
 <small>🔗 [pagat.com](https://www.pagat.com/combat/cuttle.html): Cuttle – a MTG like game using a standard 52 card deck</small>
 
 
-| 🔥🔥: 165 \| 💬: [50](https://news.ycombinator.com/item?id=42658614) \| 🗓️ 2025-01-10
+| 🔥🔥: 184 \| 💬: [55](https://news.ycombinator.com/item?id=42658614) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -82,11 +58,35 @@ Cuttle是一款1970年代起源于北美的**双人卡牌对战游戏**，使用
 
 ---
 
+## <a name="4"></a>4. 学习如何通过元思维链进行思考 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2501.04682): Learning How to Think with Meta Chain-of-Thought</small>
+
+
+| 🔥🔥: 172 \| 💬: [44](https://news.ycombinator.com/item?id=42655098) \| 🗓️ 2025-01-10
+
+
+<br />
+本文提出了一种名为**元思维链（Meta-CoT）**的新框架，扩展了传统的思维链（CoT），通过显式建模推理过程来生成更复杂的推理路径。研究结合了**过程监督**、**合成数据生成**和**搜索算法**，并探讨了如何通过指令微调和强化学习训练模型生成Meta-CoT。该工作为在大型语言模型中实现更强大的类人推理提供了理论和实践基础。
+
+---
+
+## <a name="5"></a>5. 谁能理解证明？形式化数学的一瞥 
+<small>🔗 [writings.stephenwolfram.com](https://writings.stephenwolfram.com/2025/01/who-can-understand-the-proof-a-window-on-formalized-mathematics/): Who Can Understand the Proof? A Window on Formalized Mathematics</small>
+
+
+| 🔥🔥: 170 \| 💬: [91](https://news.ycombinator.com/item?id=42654995) \| 🗓️ 2025-01-10
+
+
+<br />
+本文探讨了**自动定理证明**在数学中的应用，特别是通过Wolfram语言发现的**最简单的布尔代数公理**。尽管该定理已被证明，但其**证明过程**复杂且难以理解，引发了关于**计算不可约性**和**人类可理解的证明**的讨论。文章还提出了一个挑战：如何使这种复杂的证明对人类更直观，并探讨了**AI**在其中的潜在作用。
+
+---
+
 ## <a name="6"></a>6. 我成功让OpenTelemetry工作了，但为什么这么复杂？ 
 <small>🔗 [iconsolutions.com](https://iconsolutions.com/blog/i-got-opentelemetry-to-work-but-why-was-it-so-complicated/): I got OpenTelemetry to work. But why was it so complicated?</small>
 
 
-| 🔥🔥: 160 \| 💬: [129](https://news.ycombinator.com/item?id=42655102) \| 🗓️ 2025-01-10
+| 🔥🔥: 164 \| 💬: [134](https://news.ycombinator.com/item?id=42655102) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -98,7 +98,7 @@ Cuttle是一款1970年代起源于北美的**双人卡牌对战游戏**，使用
 <small>🔗 [brooker.co.za](https://brooker.co.za/blog/2024/04/17/formal): Formal Methods: Just Good Engineering Practice? (2024)</small>
 
 
-| 🔥🔥: 146 \| 💬: [85](https://news.ycombinator.com/item?id=42656433) \| 🗓️ 2025-01-10
+| 🔥🔥: 153 \| 💬: [88](https://news.ycombinator.com/item?id=42656433) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -110,7 +110,7 @@ Marc Brooker在2024年TLA+会议的主题演讲中强调，**形式化方法**�
 <small>🔗 [tactility.one](https://tactility.one/#/): Tactility: OS for the ESP32 Microcontroller Family</small>
 
 
-| 🔥🔥: 144 \| 💬: [41](https://news.ycombinator.com/item?id=42653811) \| 🗓️ 2025-01-10
+| 🔥🔥: 151 \| 💬: [41](https://news.ycombinator.com/item?id=42653811) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -134,7 +134,7 @@ Marc Brooker在2024年TLA+会议的主题演讲中强调，**形式化方法**�
 <small>🔗 [github.com](https://github.com/AndyObtiva/glimmer): Glimmer: DSL Framework for Ruby GUI and More</small>
 
 
-| 🔥🔥: 136 \| 💬: [21](https://news.ycombinator.com/item?id=42653939) \| 🗓️ 2025-01-10
+| 🔥🔥: 138 \| 💬: [21](https://news.ycombinator.com/item?id=42653939) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -146,7 +146,7 @@ Glimmer 是一个 **DSL 框架**，包含 DSL 引擎和数据绑定库，支持�
 <small>🔗 [github.com](https://github.com/NVIDIA/nv-ingest): Nvidia-Ingest: Multi-modal data extraction</small>
 
 
-| 🔥🔥: 127 \| 💬: [38](https://news.ycombinator.com/item?id=42654019) \| 🗓️ 2025-01-10
+| 🔥🔥: 127 \| 💬: [39](https://news.ycombinator.com/item?id=42654019) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -154,7 +154,19 @@ NVIDIA-Ingest 是一套用于从复杂、非结构化的 PDF 和其他企业文�
 
 ---
 
-## <a name="12"></a>12. Show HN: Freeact – 轻量级代码动作代理库 
+## <a name="12"></a>12. 用C语言玩点花样，第二部分 
+<small>🔗 [lcamtuf.substack.com](https://lcamtuf.substack.com/p/getting-silly-with-c-part-void2): Getting silly with C, part (void*)2</small>
+
+
+| 🔥🔥: 126 \| 💬: [60](https://news.ycombinator.com/item?id=42657591) \| 🗓️ 2025-01-10
+
+
+<br />
+本文探讨了C语言中一些**晦涩的语法特性**，如**typedef**定义函数类型、**GNU扩展的前向参数声明**，以及通过**asm关键字**重命名函数。作者通过一系列代码示例展示了这些特性的使用方式，揭示了C语言的灵活性和潜在的混乱。文章还提到了一些有趣的技巧，如在for循环中使用函数声明，以及C语言的**BASIC兼容模式**。这些内容展示了C语言的深度和复杂性。
+
+---
+
+## <a name="13"></a>13. Show HN: Freeact – 轻量级代码动作代理库 
 <small>🔗 [github.com](https://github.com/gradion-ai/freeact): Show HN: Freeact – A Lightweight Library for Code-Action Based Agents</small>
 
 
@@ -166,23 +178,11 @@ NVIDIA-Ingest 是一套用于从复杂、非结构化的 PDF 和其他企业文�
 
 ---
 
-## <a name="13"></a>13. 用C语言玩点花样，第二部分 
-<small>🔗 [lcamtuf.substack.com](https://lcamtuf.substack.com/p/getting-silly-with-c-part-void2): Getting silly with C, part (void*)2</small>
-
-
-| 🔥🔥: 117 \| 💬: [52](https://news.ycombinator.com/item?id=42657591) \| 🗓️ 2025-01-10
-
-
-<br />
-本文探讨了C语言中一些**晦涩的语法特性**，如**typedef**定义函数类型、**GNU扩展的前向参数声明**，以及通过**asm关键字**重命名函数。作者通过一系列代码示例展示了这些特性的使用方式，揭示了C语言的灵活性和潜在的混乱。文章还提到了一些有趣的技巧，如在for循环中使用函数声明，以及C语言的**BASIC兼容模式**。这些内容展示了C语言的深度和复杂性。
-
----
-
 ## <a name="14"></a>14. 大卫·拉格尔斯：平凡英雄的艰辛历程 
 <small>🔗 [commonplace.online](https://commonplace.online/article/the-tedious-heroism-of-david-ruggles/): The Tedious Heroism of David Ruggles</small>
 
 
-| 🔥🔥: 108 \| 💬: [13](https://news.ycombinator.com/item?id=42655636) \| 🗓️ 2025-01-10
+| 🔥🔥: 112 \| 💬: [14](https://news.ycombinator.com/item?id=42655636) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -194,7 +194,7 @@ NVIDIA-Ingest 是一套用于从复杂、非结构化的 PDF 和其他企业文�
 <small>🔗 [oecdecoscope.blog](https://oecdecoscope.blog/2021/12/13/finlands-zero-homeless-strategy-lessons-from-a-success-story/): Finland's zero homeless strategy (2021)</small>
 
 
-| 🔥: 98 \| 💬: [208](https://news.ycombinator.com/item?id=42656711) \| 🗓️ 2025-01-10
+| 🔥🔥: 104 \| 💬: [243](https://news.ycombinator.com/item?id=42656711) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -206,7 +206,7 @@ NVIDIA-Ingest 是一套用于从复杂、非结构化的 PDF 和其他企业文�
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/10/how-openais-bot-crushed-this-seven-person-companys-web-site-like-a-ddos-attack/): OpenAI's bot crushed this seven-person company's web site 'like a DDoS attack'</small>
 
 
-| 🔥: 83 \| 💬: [74](https://news.ycombinator.com/item?id=42660377) \| 🗓️ 2025-01-10
+| 🔥: 88 \| 💬: [83](https://news.ycombinator.com/item?id=42660377) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -218,7 +218,7 @@ OpenAI的爬虫机器人**GPTBot**在未经许可的情况下，疯狂抓取Trip
 <small>🔗 [github.com](https://github.com/gdm85/lc): lc: List files in categories (and columns) – from Coherent Unix clone</small>
 
 
-| 🔥: 74 \| 💬: [27](https://news.ycombinator.com/item?id=42654331) \| 🗓️ 2025-01-10
+| 🔥: 74 \| 💬: [29](https://news.ycombinator.com/item?id=42654331) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -238,26 +238,26 @@ Boulette 是一个终端确认提示工具，旨在**防止用户意外关闭远
 
 ---
 
-## <a name="19"></a>19. 打造美观的API密钥 
-<small>🔗 [docs.agentstation.ai](https://docs.agentstation.ai/blog/beautiful-api-keys/): Making Beautiful API Keys</small>
-
-
-| 🔥: 58 \| 💬: [100](https://news.ycombinator.com/item?id=42655630) \| 🗓️ 2025-01-10
-
-
-<br />
-开发者是客户，我们希望API密钥既美观又实用。现有方案如UUID、NanoID等均不完美，因此我们开发了**uuidkey**包，基于**UUIDv7**和**Crockford Base32**编码，生成易读、对称且可排序的API密钥。开源项目地址：[github.com/agentstation/uuidkey](https://github.com/agentstation/uuidkey)。
-
----
-
-## <a name="20"></a>20. 扁平化抽象语法树（及其他编译器数据结构） 
+## <a name="19"></a>19. 扁平化抽象语法树（及其他编译器数据结构） 
 <small>🔗 [cs.cornell.edu](https://www.cs.cornell.edu/~asampson/blog/flattening.html): Flattening ASTs (and Other Compiler Data Structures)</small>
 
 
-| 🔥: 50 \| 💬: [8](https://news.ycombinator.com/item?id=42659061) \| 🗓️ 2025-01-10
+| 🔥: 60 \| 💬: [12](https://news.ycombinator.com/item?id=42659061) \| 🗓️ 2025-01-10
 
 
 <br />
 本文介绍了**扁平化抽象语法树（AST）**的概念及其在编译器中的优势。通过将AST节点存储在连续的内存区域中，并使用数组索引代替指针，扁平化技术显著提升了性能，包括**内存局部性**、**更小的引用**和**廉价的内存分配**。此外，扁平化还简化了内存管理，特别适用于Rust等语言。实验表明，扁平化后的AST在微基准测试中速度提升了2.4倍。
+
+---
+
+## <a name="20"></a>20. 打造美观的API密钥 
+<small>🔗 [docs.agentstation.ai](https://docs.agentstation.ai/blog/beautiful-api-keys/): Making Beautiful API Keys</small>
+
+
+| 🔥: 59 \| 💬: [101](https://news.ycombinator.com/item?id=42655630) \| 🗓️ 2025-01-10
+
+
+<br />
+开发者是客户，我们希望API密钥既美观又实用。现有方案如UUID、NanoID等均不完美，因此我们开发了**uuidkey**包，基于**UUIDv7**和**Crockford Base32**编码，生成易读、对称且可排序的API密钥。开源项目地址：[github.com/agentstation/uuidkey](https://github.com/agentstation/uuidkey)。
 
 ---
