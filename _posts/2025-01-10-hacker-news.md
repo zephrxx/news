@@ -26,7 +26,7 @@ tags:
 <small>🔗 [danielwirtz.com](https://danielwirtz.com/blog/spot-the-difference-superpower): I've acquired a new superpower</small>
 
 
-| 🔥🔥: 1210 \| 💬: [458](https://news.ycombinator.com/item?id=42655870) \| 🗓️ 2025-01-10
+| 🔥🔥: 1249 \| 💬: [467](https://news.ycombinator.com/item?id=42655870) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [pagat.com](https://www.pagat.com/combat/cuttle.html): Cuttle – a MTG like game using a standard 52 card deck</small>
 
 
-| 🔥🔥: 236 \| 💬: [60](https://news.ycombinator.com/item?id=42658614) \| 🗓️ 2025-01-10
+| 🔥🔥: 243 \| 💬: [61](https://news.ycombinator.com/item?id=42658614) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -50,7 +50,7 @@ Cuttle是一款1970年代起源于北美的**双人卡牌对战游戏**，使用
 <small>🔗 [restofworld.org](https://restofworld.org/2025/starlink-cheaper-internet-africa/): Starlink is now cheaper than leading internet provider in some African countries</small>
 
 
-| 🔥🔥: 226 \| 💬: [201](https://news.ycombinator.com/item?id=42657692) \| 🗓️ 2025-01-10
+| 🔥🔥: 228 \| 💬: [203](https://news.ycombinator.com/item?id=42657692) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -62,7 +62,7 @@ Starlink在非洲16个国家中的至少5个国家，其月订阅费低于主流
 <small>🔗 [iconsolutions.com](https://iconsolutions.com/blog/i-got-opentelemetry-to-work-but-why-was-it-so-complicated/): I got OpenTelemetry to work. But why was it so complicated?</small>
 
 
-| 🔥🔥: 193 \| 💬: [149](https://news.ycombinator.com/item?id=42655102) \| 🗓️ 2025-01-10
+| 🔥🔥: 203 \| 💬: [150](https://news.ycombinator.com/item?id=42655102) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -71,10 +71,10 @@ Starlink在非洲16个国家中的至少5个国家，其月订阅费低于主流
 ---
 
 ## <a name="5"></a>5. 学习如何通过元思维链进行思考 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2501.04682): Learning How to Think with Meta Chain-of-Thought</small>
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2501.04682): Learning how to think with Meta Chain-of-Thought</small>
 
 
-| 🔥🔥: 187 \| 💬: [47](https://news.ycombinator.com/item?id=42655098) \| 🗓️ 2025-01-10
+| 🔥🔥: 190 \| 💬: [49](https://news.ycombinator.com/item?id=42655098) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -86,7 +86,7 @@ Starlink在非洲16个国家中的至少5个国家，其月订阅费低于主流
 <small>🔗 [writings.stephenwolfram.com](https://writings.stephenwolfram.com/2025/01/who-can-understand-the-proof-a-window-on-formalized-mathematics/): Who Can Understand the Proof? A Window on Formalized Mathematics</small>
 
 
-| 🔥🔥: 176 \| 💬: [97](https://news.ycombinator.com/item?id=42654995) \| 🗓️ 2025-01-10
+| 🔥🔥: 177 \| 💬: [99](https://news.ycombinator.com/item?id=42654995) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -98,7 +98,7 @@ Starlink在非洲16个国家中的至少5个国家，其月订阅费低于主流
 <small>🔗 [brooker.co.za](https://brooker.co.za/blog/2024/04/17/formal): Formal Methods: Just Good Engineering Practice? (2024)</small>
 
 
-| 🔥🔥: 169 \| 💬: [97](https://news.ycombinator.com/item?id=42656433) \| 🗓️ 2025-01-10
+| 🔥🔥: 171 \| 💬: [99](https://news.ycombinator.com/item?id=42656433) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -106,23 +106,11 @@ Marc Brooker在2024年TLA+会议的主题演讲中强调，**形式化方法**�
 
 ---
 
-## <a name="8"></a>8. 触觉：ESP32 微控制器系列的操作系统 
-<small>🔗 [tactility.one](https://tactility.one/#/): Tactility: OS for the ESP32 Microcontroller Family</small>
-
-
-| 🔥🔥: 161 \| 💬: [42](https://news.ycombinator.com/item?id=42653811) \| 🗓️ 2025-01-10
-
-
-<br />
-**触觉** 是一款专为 **ESP32 微控制器** 设计的操作系统，旨在提供高效的硬件控制和资源管理。该系统通过优化底层架构，提升了设备的响应速度和稳定性，适用于物联网和嵌入式开发领域。
-
----
-
-## <a name="9"></a>9. 芬兰的无家可归者零策略（2021） 
+## <a name="8"></a>8. 芬兰的无家可归者零策略（2021） 
 <small>🔗 [oecdecoscope.blog](https://oecdecoscope.blog/2021/12/13/finlands-zero-homeless-strategy-lessons-from-a-success-story/): Finland's zero homeless strategy (2021)</small>
 
 
-| 🔥🔥: 154 \| 💬: [334](https://news.ycombinator.com/item?id=42656711) \| 🗓️ 2025-01-10
+| 🔥🔥: 165 \| 💬: [347](https://news.ycombinator.com/item?id=42656711) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -130,11 +118,23 @@ Marc Brooker在2024年TLA+会议的主题演讲中强调，**形式化方法**�
 
 ---
 
+## <a name="9"></a>9. 触觉：ESP32 微控制器系列的操作系统 
+<small>🔗 [tactility.one](https://tactility.one/#/): Tactility: OS for the ESP32 Microcontroller Family</small>
+
+
+| 🔥🔥: 164 \| 💬: [42](https://news.ycombinator.com/item?id=42653811) \| 🗓️ 2025-01-10
+
+
+<br />
+**触觉** 是一款专为 **ESP32 微控制器** 设计的操作系统，旨在提供高效的硬件控制和资源管理。该系统通过优化底层架构，提升了设备的响应速度和稳定性，适用于物联网和嵌入式开发领域。
+
+---
+
 ## <a name="10"></a>10. Glimmer：Ruby GUI 及更多领域的 DSL 框架 
 <small>🔗 [github.com](https://github.com/AndyObtiva/glimmer): Glimmer: DSL Framework for Ruby GUI and More</small>
 
 
-| 🔥🔥: 149 \| 💬: [21](https://news.ycombinator.com/item?id=42653939) \| 🗓️ 2025-01-10
+| 🔥🔥: 152 \| 💬: [21](https://news.ycombinator.com/item?id=42653939) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -146,7 +146,7 @@ Glimmer 是一个 **DSL 框架**，包含 DSL 引擎和数据绑定库，支持�
 <small>🔗 [lcamtuf.substack.com](https://lcamtuf.substack.com/p/getting-silly-with-c-part-void2): Getting silly with C, part (void*)2</small>
 
 
-| 🔥🔥: 145 \| 💬: [76](https://news.ycombinator.com/item?id=42657591) \| 🗓️ 2025-01-10
+| 🔥🔥: 148 \| 💬: [81](https://news.ycombinator.com/item?id=42657591) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -206,7 +206,7 @@ NVIDIA-Ingest 是一套用于从复杂、非结构化的 PDF 和其他企业文�
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/10/how-openais-bot-crushed-this-seven-person-companys-web-site-like-a-ddos-attack/): OpenAI's bot crushed this seven-person company's web site 'like a DDoS attack'</small>
 
 
-| 🔥: 96 \| 💬: [92](https://news.ycombinator.com/item?id=42660377) \| 🗓️ 2025-01-10
+| 🔥: 99 \| 💬: [93](https://news.ycombinator.com/item?id=42660377) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -218,7 +218,7 @@ OpenAI的爬虫机器人**GPTBot**在未经许可的情况下，疯狂抓取Trip
 <small>🔗 [30fps.net](https://30fps.net/pages/pvs-portals-and-quake/): Portals and Quake</small>
 
 
-| 🔥: 91 \| 💬: [20](https://news.ycombinator.com/item?id=42661185) \| 🗓️ 2025-01-10
+| 🔥: 97 \| 💬: [23](https://news.ycombinator.com/item?id=42661185) \| 🗓️ 2025-01-10
 
 
 <br />
@@ -227,10 +227,10 @@ OpenAI的爬虫机器人**GPTBot**在未经许可的情况下，疯狂抓取Trip
 ---
 
 ## <a name="18"></a>18. 扁平化抽象语法树（及其他编译器数据结构） 
-<small>🔗 [cs.cornell.edu](https://www.cs.cornell.edu/~asampson/blog/flattening.html): Flattening ASTs (and Other Compiler Data Structures)</small>
+<small>🔗 [cs.cornell.edu](https://www.cs.cornell.edu/~asampson/blog/flattening.html): Flattening ASTs and other compiler data structures (2023)</small>
 
 
-| 🔥: 85 \| 💬: [14](https://news.ycombinator.com/item?id=42659061) \| 🗓️ 2025-01-10
+| 🔥: 91 \| 💬: [15](https://news.ycombinator.com/item?id=42659061) \| 🗓️ 2025-01-10
 
 
 <br />
