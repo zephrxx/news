@@ -10,8 +10,8 @@ tags:
 
 1. 通过Go/TinyGo在Apple FindMy网络中追踪设备；
 1. Marshall Uxbridge 蓝牙音箱的去智能化改造；
-1. Show HN: TypeScript/React/Vue 窗口布局管理器（标签页、浮动、弹出窗口）；
 1. Matt Mullenweg 停用计划分叉 WordPress 的贡献者账户；
+1. Show HN: TypeScript/React/Vue 窗口布局管理器（标签页、浮动、弹出窗口）；
 1. 几乎所有二分查找和归并排序都有缺陷（2006）；
 
 以上是今天的前五条黑科技新闻标题。
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [github.com](https://github.com/hybridgroup/go-haystack): Track your devices via Apple FindMy network in Go/TinyGo</small>
 
 
-| 🔥🔥: 215 \| 💬: [61](https://news.ycombinator.com/item?id=42665367) \| 🗓️ 2025-01-11
+| 🔥🔥: 232 \| 💬: [65](https://news.ycombinator.com/item?id=42665367) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [tomscii.sig7.se](https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge): De-smarting the Marshall Uxbridge Bluetooth speaker</small>
 
 
-| 🔥🔥: 203 \| 💬: [60](https://news.ycombinator.com/item?id=42666572) \| 🗓️ 2025-01-11
+| 🔥🔥: 210 \| 💬: [64](https://news.ycombinator.com/item?id=42666572) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -46,23 +46,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. Show HN: TypeScript/React/Vue 窗口布局管理器（标签页、浮动、弹出窗口） 
-<small>🔗 [github.com](https://github.com/mathuo/dockview): Show HN: TypeScript/React/Vue Window Layout Manager (Tabs, Floating, Popouts)</small>
-
-
-| 🔥🔥: 169 \| 💬: [44](https://news.ycombinator.com/item?id=42666492) \| 🗓️ 2025-01-11
-
-
-<br />
-**dockview** 是一个**零依赖**的布局管理器，支持 **TypeScript**、**React** 和 **Vue**。它提供了标签页、分组、网格和分割视图等功能，支持拖放操作、弹出窗口和浮动分组。具备高度可定制性和主题化，支持序列化和反序列化布局管理，适用于复杂的应用场景。文档详细，测试覆盖率高，安全性强，适合需要灵活布局管理的开发者。
-
----
-
-## <a name="4"></a>4. Matt Mullenweg 停用计划分叉 WordPress 的贡献者账户 
+## <a name="3"></a>3. Matt Mullenweg 停用计划分叉 WordPress 的贡献者账户 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/11/matt-mullenweg-deactivates-wordpress-accounts-of-contributors-planning-a-fork/): Matt Mullenweg deactivates WordPress accounts of contributors planning a fork</small>
 
 
-| 🔥🔥: 156 \| 💬: [56](https://news.ycombinator.com/item?id=42667766) \| 🗓️ 2025-01-11
+| 🔥🔥: 199 \| 💬: [83](https://news.ycombinator.com/item?id=42667766) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -70,11 +58,23 @@ WordPress 联合创始人兼 Automattic CEO **Matt Mullenweg** 停用了多位 W
 
 ---
 
+## <a name="4"></a>4. Show HN: TypeScript/React/Vue 窗口布局管理器（标签页、浮动、弹出窗口） 
+<small>🔗 [github.com](https://github.com/mathuo/dockview): Show HN: TypeScript/React/Vue Window Layout Manager (Tabs, Floating, Popouts)</small>
+
+
+| 🔥🔥: 188 \| 💬: [47](https://news.ycombinator.com/item?id=42666492) \| 🗓️ 2025-01-11
+
+
+<br />
+**dockview** 是一个**零依赖**的布局管理器，支持 **TypeScript**、**React** 和 **Vue**。它提供了标签页、分组、网格和分割视图等功能，支持拖放操作、弹出窗口和浮动分组。具备高度可定制性和主题化，支持序列化和反序列化布局管理，适用于复杂的应用场景。文档详细，测试覆盖率高，安全性强，适合需要灵活布局管理的开发者。
+
+---
+
 ## <a name="5"></a>5. 几乎所有二分查找和归并排序都有缺陷（2006） 
 <small>🔗 [research.google](https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/): Nearly all binary searches and mergesorts are broken (2006)</small>
 
 
-| 🔥🔥: 149 \| 💬: [163](https://news.ycombinator.com/item?id=42664400) \| 🗓️ 2025-01-11
+| 🔥🔥: 150 \| 💬: [163](https://news.ycombinator.com/item?id=42664400) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -86,7 +86,7 @@ WordPress 联合创始人兼 Automattic CEO **Matt Mullenweg** 停用了多位 W
 <small>🔗 [lwn.net](https://lwn.net/SubscriberLink/1002342/a8d8a17f30968b93/): The State of Vim</small>
 
 
-| 🔥🔥: 144 \| 💬: [37](https://news.ycombinator.com/item?id=42665222) \| 🗓️ 2025-01-11
+| 🔥🔥: 144 \| 💬: [38](https://news.ycombinator.com/item?id=42665222) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -98,7 +98,7 @@ Vim 创始人 Bram Moolenaar 于 2023 年去世后，社区对项目的未来感
 <small>🔗 [privtracker.com](https://privtracker.com/): PrivTracker – Private BitTorrent tracker for everyone</small>
 
 
-| 🔥🔥: 139 \| 💬: [28](https://news.ycombinator.com/item?id=42664409) \| 🗓️ 2025-01-11
+| 🔥🔥: 143 \| 💬: [28](https://news.ycombinator.com/item?id=42664409) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -110,7 +110,7 @@ PrivTracker 是一个允许用户与朋友**私密分享**种子文件的工具�
 <small>🔗 [txtlog.net](https://txtlog.net/): Show HN: A Better Log Service</small>
 
 
-| 🔥🔥: 133 \| 💬: [80](https://news.ycombinator.com/item?id=42666139) \| 🗓️ 2025-01-11
+| 🔥🔥: 133 \| 💬: [82](https://news.ycombinator.com/item?id=42666139) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -134,7 +134,7 @@ PrivTracker 是一个允许用户与朋友**私密分享**种子文件的工具�
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=ZSKLA81tBis): SQLite: How it works, by Richard Hipp (2024) [video]</small>
 
 
-| 🔥: 82 \| 💬: [8](https://news.ycombinator.com/item?id=42665370) \| 🗓️ 2025-01-11
+| 🔥: 84 \| 💬: [8](https://news.ycombinator.com/item?id=42665370) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -142,7 +142,19 @@ PrivTracker 是一个允许用户与朋友**私密分享**种子文件的工具�
 
 ---
 
-## <a name="11"></a>11. 使用黑魔法实现快速环形缓冲区（2017） 
+## <a name="11"></a>11. 福特电动Mach-E在2024年销量超越燃油版Mustang 
+<small>🔗 [electrek.co](https://electrek.co/2025/01/09/fords-mach-e-ev-outsold-gas-mustang-first-time/): Ford's electric Mach-E outsold the gas-powered Mustang in 2024</small>
+
+
+| 🔥: 73 \| 💬: [61](https://news.ycombinator.com/item?id=42667902) \| 🗓️ 2025-01-11
+
+
+<br />
+2024年，**福特电动Mach-E**的销量首次超过了其燃油版**Mustang**，标志着电动汽车市场的进一步增长。与此同时，特斯拉推出了新款Model Y，被戏称为“复制了自己的模仿者”。这一趋势显示了电动汽车在消费者中的受欢迎程度持续上升。
+
+---
+
+## <a name="12"></a>12. 使用黑魔法实现快速环形缓冲区（2017） 
 <small>🔗 [lo.calho.st](https://lo.calho.st/posts/black-magic-buffer/): Using black magic to make a fast circular buffer (2017)</small>
 
 
@@ -154,23 +166,11 @@ PrivTracker 是一个允许用户与朋友**私密分享**种子文件的工具�
 
 ---
 
-## <a name="12"></a>12. 福特电动Mach-E在2024年销量超越燃油版Mustang 
-<small>🔗 [electrek.co](https://electrek.co/2025/01/09/fords-mach-e-ev-outsold-gas-mustang-first-time/): Ford's electric Mach-E outsold the gas-powered Mustang in 2024</small>
-
-
-| 🔥: 57 \| 💬: [45](https://news.ycombinator.com/item?id=42667902) \| 🗓️ 2025-01-11
-
-
-<br />
-2024年，**福特电动Mach-E**的销量首次超过了其燃油版**Mustang**，标志着电动汽车市场的进一步增长。与此同时，特斯拉推出了新款Model Y，被戏称为“复制了自己的模仿者”。这一趋势显示了电动汽车在消费者中的受欢迎程度持续上升。
-
----
-
 ## <a name="13"></a>13. 穆伦维格的懦弱行为（2010年） 
 <small>🔗 [kindness.is](https://kindness.is/examples/2010/mullenweg-the-coward/): Mullenweg the Coward (2010)</small>
 
 
-| 🔥: 57 \| 💬: [9](https://news.ycombinator.com/item?id=42669293) \| 🗓️ 2025-01-11
+| 🔥: 61 \| 💬: [9](https://news.ycombinator.com/item?id=42669293) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -178,7 +178,19 @@ PrivTracker 是一个允许用户与朋友**私密分享**种子文件的工具�
 
 ---
 
-## <a name="14"></a>14. FCC提议为智能设备推出网络安全标签计划 
+## <a name="14"></a>14. 1895年加利福尼亚自行车道路地图 
+<small>🔗 [loc.gov](https://www.loc.gov/resource/g4361p.ct000092/?r=-0.628,0.425,1.749,0.902,0): Map of California roads for cyclers (1895)</small>
+
+
+| 🔥: 38 \| 💬: [14](https://news.ycombinator.com/item?id=42667797) \| 🗓️ 2025-01-11
+
+
+<br />
+该地图由**George W. Blum**和**California Photo-Engraving Co.**于1895年制作，展示了加利福尼亚州的自行车道路。地图尺寸为48 x 34厘米，现藏于**美国国会图书馆地理与地图部**。该地图属于“交通与通信”类别，提供了多种数字格式供下载，包括JPEG、GIF和TIFF。地图内容不受版权限制，可用于教育和研究目的。
+
+---
+
+## <a name="15"></a>15. FCC提议为智能设备推出网络安全标签计划 
 <small>🔗 [fcc.gov](https://www.fcc.gov/cybersecurity-certification-mark): FCC proposes cybersecurity labeling program for smart devices</small>
 
 
@@ -190,11 +202,11 @@ PrivTracker 是一个允许用户与朋友**私密分享**种子文件的工具�
 
 ---
 
-## <a name="15"></a>15. 关系衰退正在全球化 
+## <a name="16"></a>16. 关系衰退正在全球化 
 <small>🔗 [ft.com](https://www.ft.com/content/43e2b4f6-5ab7-4c47-b9fd-d611c36dad74): The relationship recession is going global</small>
 
 
-| 🔥: 32 \| 💬: [65](https://news.ycombinator.com/item?id=42665518) \| 🗓️ 2025-01-11
+| 🔥: 32 \| 💬: [69](https://news.ycombinator.com/item?id=42665518) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -202,11 +214,11 @@ PrivTracker 是一个允许用户与朋友**私密分享**种子文件的工具�
 
 ---
 
-## <a name="16"></a>16. 为什么湾区每个活动都采用查塔姆规则？ 
+## <a name="17"></a>17. 为什么湾区每个活动都采用查塔姆规则？ 
 <small>🔗 [sfstandard.com](https://sfstandard.com/2025/01/11/chatham-house-rule-burnout/): Why is every Bay Area event imposing Chatham House rules?</small>
 
 
-| 🔥: 28 \| 💬: [56](https://news.ycombinator.com/item?id=42669027) \| 🗓️ 2025-01-11
+| 🔥: 28 \| 💬: [76](https://news.ycombinator.com/item?id=42669027) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -214,23 +226,11 @@ PrivTracker 是一个允许用户与朋友**私密分享**种子文件的工具�
 
 ---
 
-## <a name="17"></a>17. 1895年加利福尼亚自行车道路地图 
-<small>🔗 [loc.gov](https://www.loc.gov/resource/g4361p.ct000092/?r=-0.628,0.425,1.749,0.902,0): Map of California roads for cyclers (1895)</small>
-
-
-| 🔥: 27 \| 💬: [6](https://news.ycombinator.com/item?id=42667797) \| 🗓️ 2025-01-11
-
-
-<br />
-该地图由**George W. Blum**和**California Photo-Engraving Co.**于1895年制作，展示了加利福尼亚州的自行车道路。地图尺寸为48 x 34厘米，现藏于**美国国会图书馆地理与地图部**。该地图属于“交通与通信”类别，提供了多种数字格式供下载，包括JPEG、GIF和TIFF。地图内容不受版权限制，可用于教育和研究目的。
-
----
-
 ## <a name="18"></a>18. Python 是新版的 BASIC 
 <small>🔗 [log.schemescape.com](https://log.schemescape.com/posts/programming-languages/python-as-a-modern-basic.html): Python Is the New Basic</small>
 
 
-| 🔥: 26 \| 💬: [62](https://news.ycombinator.com/item?id=42665441) \| 🗓️ 2025-01-11
+| 🔥: 26 \| 💬: [63](https://news.ycombinator.com/item?id=42665441) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -242,7 +242,7 @@ BASIC 曾是 70-80 年代**非程序员**的首选编程语言，因其简单易
 <small>🔗 [tampabay.com](https://www.tampabay.com/news/florida-politics/2025/01/11/civilian-police-oversight-florida-crumbles-after-new-law-kicks/): Civilian police oversight in Florida crumbles after new law kicks in</small>
 
 
-| 🔥: 26 \| 💬: [17](https://news.ycombinator.com/item?id=42668087) \| 🗓️ 2025-01-11
+| 🔥: 26 \| 💬: [18](https://news.ycombinator.com/item?id=42668087) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -250,14 +250,14 @@ BASIC 曾是 70-80 年代**非程序员**的首选编程语言，因其简单易
 
 ---
 
-## <a name="20"></a>20. 济州航空飞机黑匣子在坠毁前停止记录：交通部 
-<small>🔗 [koreatimes.co.kr](https://www.koreatimes.co.kr/www/nation/2025/01/281_390174.html): Jeju Air jet black boxes stopped recording before crash: transport ministry</small>
+## <a name="20"></a>20. 摩根大通将结束30万员工的远程办公 
+<small>🔗 [forbes.com](https://www.forbes.com/sites/terinaallen/2025/01/09/jpmorgan-ending-remote-work-for-300000-employees-report/): JPMorgan Reportedly Ending Remote Work for More Than 300k Employees</small>
 
 
-| 🔥: 23 \| 💬: [23](https://news.ycombinator.com/item?id=42665390) \| 🗓️ 2025-01-11
+| 🔥: 25 \| 💬: [6](https://news.ycombinator.com/item?id=42669143) \| 🗓️ 2025-01-11
 
 
 <br />
-调查人员全力追捕**尹某**，并发现**黑匣子**在坠机前已停止记录。交通部表示，所有资源已投入调查，以查明事故原因。
+摩根大通计划要求超过30万名员工每周五天返回办公室工作，结束疫情期间的混合办公政策。**CEO杰米·戴蒙**一直倡导面对面办公，认为这有助于创新、协作和员工成长。尽管远程工作在疫情期间普及，但戴蒙认为**面对面沟通**更为有效。此举反映了企业对传统办公模式的回归，但仍有其他公司提供高薪远程工作机会。
 
 ---
