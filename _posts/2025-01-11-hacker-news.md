@@ -12,7 +12,7 @@ tags:
 1. 通过Go/TinyGo在Apple FindMy网络中追踪设备；
 1. Marshall Uxbridge 蓝牙音箱的去智能化改造；
 1. Show HN: TypeScript/React/Vue 窗口布局管理器（标签页、浮动、弹出窗口）；
-1. 几乎所有二分查找和归并排序都有缺陷（2006）；
+1. 别再试图安排电话会议了；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/11/matt-mullenweg-deactivates-wordpress-accounts-of-contributors-planning-a-fork/): Matt Mullenweg deactivates WordPress accounts of contributors planning a fork</small>
 
 
-| 🔥🔥: 264 \| 💬: [105](https://news.ycombinator.com/item?id=42667766) \| 🗓️ 2025-01-11
+| 🔥🔥: 285 \| 💬: [117](https://news.ycombinator.com/item?id=42667766) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -38,7 +38,7 @@ WordPress 联合创始人兼 Automattic CEO **Matt Mullenweg** 停用了多位 W
 <small>🔗 [github.com](https://github.com/hybridgroup/go-haystack): Track your devices via Apple FindMy network in Go/TinyGo</small>
 
 
-| 🔥🔥: 251 \| 💬: [69](https://news.ycombinator.com/item?id=42665367) \| 🗓️ 2025-01-11
+| 🔥🔥: 257 \| 💬: [70](https://news.ycombinator.com/item?id=42665367) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -50,7 +50,7 @@ WordPress 联合创始人兼 Automattic CEO **Matt Mullenweg** 停用了多位 W
 <small>🔗 [tomscii.sig7.se](https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge): De-smarting the Marshall Uxbridge</small>
 
 
-| 🔥🔥: 226 \| 💬: [67](https://news.ycombinator.com/item?id=42666572) \| 🗓️ 2025-01-11
+| 🔥🔥: 231 \| 💬: [69](https://news.ycombinator.com/item?id=42666572) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -62,7 +62,7 @@ WordPress 联合创始人兼 Automattic CEO **Matt Mullenweg** 停用了多位 W
 <small>🔗 [github.com](https://github.com/mathuo/dockview): Show HN: TypeScript/React/Vue Window Layout Manager (Tabs, Floating, Popouts)</small>
 
 
-| 🔥🔥: 211 \| 💬: [48](https://news.ycombinator.com/item?id=42666492) \| 🗓️ 2025-01-11
+| 🔥🔥: 218 \| 💬: [49](https://news.ycombinator.com/item?id=42666492) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -70,71 +70,11 @@ WordPress 联合创始人兼 Automattic CEO **Matt Mullenweg** 停用了多位 W
 
 ---
 
-## <a name="5"></a>5. 几乎所有二分查找和归并排序都有缺陷（2006） 
-<small>🔗 [research.google](https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/): Nearly all binary searches and mergesorts are broken (2006)</small>
-
-
-| 🔥🔥: 153 \| 💬: [165](https://news.ycombinator.com/item?id=42664400) \| 🗓️ 2025-01-11
-
-
-<br />
-2006年，Joshua Bloch指出，**二分查找**和**归并排序**等算法中存在一个长期未被发现的**溢出错误**。当数组长度超过2^30时，`(low + high) / 2`会导致整数溢出，引发数组越界。修复方法包括使用`low + ((high - low) / 2)`或位运算`(low + high) >>> 1`。这一错误提醒我们，即使是最基础的算法也可能存在隐患，编程需谨慎且持续测试。
-
----
-
-## <a name="6"></a>6. PrivTracker – 面向所有人的私有BitTorrent追踪器 
-<small>🔗 [privtracker.com](https://privtracker.com/): PrivTracker – Private BitTorrent tracker for everyone</small>
-
-
-| 🔥🔥: 149 \| 💬: [28](https://news.ycombinator.com/item?id=42664409) \| 🗓️ 2025-01-11
-
-
-<br />
-PrivTracker 是一个允许用户与朋友**私密分享**种子文件的工具，不同于公共追踪器，它仅在**同一Announce URL组**内共享节点。用户只需点击按钮即可生成私有追踪器，并通过Transmission等工具创建**私有种子**，轻松与朋友分享文件。
-
----
-
-## <a name="7"></a>7. Vim 的现状 
-<small>🔗 [lwn.net](https://lwn.net/SubscriberLink/1002342/a8d8a17f30968b93/): The State of Vim</small>
-
-
-| 🔥🔥: 145 \| 💬: [38](https://news.ycombinator.com/item?id=42665222) \| 🗓️ 2025-01-11
-
-
-<br />
-Vim 创始人 Bram Moolenaar 于 2023 年去世后，社区对项目的未来感到担忧。2024 年 VimConf 上，现任维护者 Christian Brabandt 介绍了 Vim 的重组计划及未来发展。**Vim 9.1** 版本已发布，包含虚拟文本、平滑滚动等改进。Brabandt 强调，Vim 目前处于维护模式，注重向后兼容性，并计划逐步淘汰过时的语言支持（如 Python 2）。社区正在努力保持项目的活力，同时继续支持慈善机构 ICCF Holland。
-
----
-
-## <a name="8"></a>8. Show HN: 更好的日志服务 
-<small>🔗 [txtlog.net](https://txtlog.net/): Show HN: A Better Log Service</small>
-
-
-| 🔥🔥: 136 \| 💬: [82](https://news.ycombinator.com/item?id=42666139) \| 🗓️ 2025-01-11
-
-
-<br />
-为什么需要另一个日志服务？现有的解决方案在**性能**、**易用性**和**成本**方面存在不足。我们提出了一个新的日志服务，旨在通过**高效的数据处理**和**灵活的查询功能**，为用户提供更优质的体验。
-
----
-
-## <a name="9"></a>9. 数学家Ingrid Daubechies荣获国家科学奖章 
-<small>🔗 [today.duke.edu](https://today.duke.edu/2025/01/ingrid-daubechies-awarded-national-medal-science): Ingrid Daubechies Awarded National Medal of Science</small>
-
-
-| 🔥🔥: 124 \| 💬: [8](https://news.ycombinator.com/item?id=42664893) \| 🗓️ 2025-01-11
-
-
-<br />
-数学家**Ingrid Daubechies**因其在**信号处理**领域的开创性工作，被授予2025年**国家科学奖章**。这是美国对科学家和工程师的最高荣誉。她的研究奠定了现代图像处理技术的基础，广泛应用于电影压缩等领域。Daubechies还致力于推动女性在STEM领域的参与，打破性别障碍。
-
----
-
-## <a name="10"></a>10. 别再试图安排电话会议了 
+## <a name="5"></a>5. 别再试图安排电话会议了 
 <small>🔗 [matduggan.com](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/): Stop Trying to Schedule a Call with Me</small>
 
 
-| 🔥🔥: 119 \| 💬: [25](https://news.ycombinator.com/item?id=42669754) \| 🗓️ 2025-01-11
+| 🔥🔥: 165 \| 💬: [41](https://news.ycombinator.com/item?id=42669754) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -142,7 +82,79 @@ Vim 创始人 Bram Moolenaar 于 2023 年去世后，社区对项目的未来感
 
 ---
 
-## <a name="11"></a>11. SQLite：工作原理，Richard Hipp (2024) [视频] 
+## <a name="6"></a>6. 几乎所有二分查找和归并排序都有缺陷（2006） 
+<small>🔗 [research.google](https://research.google/blog/extra-extra-read-all-about-it-nearly-all-binary-searches-and-mergesorts-are-broken/): Nearly all binary searches and mergesorts are broken (2006)</small>
+
+
+| 🔥🔥: 154 \| 💬: [168](https://news.ycombinator.com/item?id=42664400) \| 🗓️ 2025-01-11
+
+
+<br />
+2006年，Joshua Bloch指出，**二分查找**和**归并排序**等算法中存在一个长期未被发现的**溢出错误**。当数组长度超过2^30时，`(low + high) / 2`会导致整数溢出，引发数组越界。修复方法包括使用`low + ((high - low) / 2)`或位运算`(low + high) >>> 1`。这一错误提醒我们，即使是最基础的算法也可能存在隐患，编程需谨慎且持续测试。
+
+---
+
+## <a name="7"></a>7. PrivTracker – 面向所有人的私有BitTorrent追踪器 
+<small>🔗 [privtracker.com](https://privtracker.com/): PrivTracker – Private BitTorrent tracker for everyone</small>
+
+
+| 🔥🔥: 150 \| 💬: [32](https://news.ycombinator.com/item?id=42664409) \| 🗓️ 2025-01-11
+
+
+<br />
+PrivTracker 是一个允许用户与朋友**私密分享**种子文件的工具，不同于公共追踪器，它仅在**同一Announce URL组**内共享节点。用户只需点击按钮即可生成私有追踪器，并通过Transmission等工具创建**私有种子**，轻松与朋友分享文件。
+
+---
+
+## <a name="8"></a>8. Vim 的现状 
+<small>🔗 [lwn.net](https://lwn.net/SubscriberLink/1002342/a8d8a17f30968b93/): The State of Vim</small>
+
+
+| 🔥🔥: 146 \| 💬: [38](https://news.ycombinator.com/item?id=42665222) \| 🗓️ 2025-01-11
+
+
+<br />
+Vim 创始人 Bram Moolenaar 于 2023 年去世后，社区对项目的未来感到担忧。2024 年 VimConf 上，现任维护者 Christian Brabandt 介绍了 Vim 的重组计划及未来发展。**Vim 9.1** 版本已发布，包含虚拟文本、平滑滚动等改进。Brabandt 强调，Vim 目前处于维护模式，注重向后兼容性，并计划逐步淘汰过时的语言支持（如 Python 2）。社区正在努力保持项目的活力，同时继续支持慈善机构 ICCF Holland。
+
+---
+
+## <a name="9"></a>9. Show HN: 更好的日志服务 
+<small>🔗 [txtlog.net](https://txtlog.net/): Show HN: A Better Log Service</small>
+
+
+| 🔥🔥: 138 \| 💬: [83](https://news.ycombinator.com/item?id=42666139) \| 🗓️ 2025-01-11
+
+
+<br />
+为什么需要另一个日志服务？现有的解决方案在**性能**、**易用性**和**成本**方面存在不足。我们提出了一个新的日志服务，旨在通过**高效的数据处理**和**灵活的查询功能**，为用户提供更优质的体验。
+
+---
+
+## <a name="10"></a>10. 数学家Ingrid Daubechies荣获国家科学奖章 
+<small>🔗 [today.duke.edu](https://today.duke.edu/2025/01/ingrid-daubechies-awarded-national-medal-science): Ingrid Daubechies Awarded National Medal of Science</small>
+
+
+| 🔥🔥: 126 \| 💬: [8](https://news.ycombinator.com/item?id=42664893) \| 🗓️ 2025-01-11
+
+
+<br />
+数学家**Ingrid Daubechies**因其在**信号处理**领域的开创性工作，被授予2025年**国家科学奖章**。这是美国对科学家和工程师的最高荣誉。她的研究奠定了现代图像处理技术的基础，广泛应用于电影压缩等领域。Daubechies还致力于推动女性在STEM领域的参与，打破性别障碍。
+
+---
+
+## <a name="11"></a>11. Adobe Lightroom的AI移除功能在飞行中的海鸥照片中添加了比特币 
+<small>🔗 [bsky.app](https://bsky.app/profile/matthewraifman.bsky.social/post/3lfaqbygva22j): Adobe Lightroom's AI Remove feature added a Bitcoin to bird in flight photo</small>
+
+
+| 🔥🔥: 124 \| 💬: [75](https://news.ycombinator.com/item?id=42670132) \| 🗓️ 2025-01-11
+
+
+<br />
+Adobe Lightroom的**AI移除功能**在用户Matthew Raifman的海鸥飞行照片中意外添加了一个**比特币**。用户展示了原始照片、移除水面上三个圆形高光后的结果，以及100%裁剪后的比特币图像。这一错误引发了用户对AI工具准确性的质疑。
+
+---
+
+## <a name="12"></a>12. SQLite：工作原理，Richard Hipp (2024) [视频] 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=ZSKLA81tBis): SQLite: How it works, by Richard Hipp (2024) [video]</small>
 
 
@@ -154,23 +166,11 @@ Vim 创始人 Bram Moolenaar 于 2023 年去世后，社区对项目的未来感
 
 ---
 
-## <a name="12"></a>12. Adobe Lightroom的AI移除功能在飞行中的海鸥照片中添加了比特币 
-<small>🔗 [bsky.app](https://bsky.app/profile/matthewraifman.bsky.social/post/3lfaqbygva22j): Adobe Lightroom's AI Remove feature added a Bitcoin to bird in flight photo</small>
-
-
-| 🔥: 77 \| 💬: [45](https://news.ycombinator.com/item?id=42670132) \| 🗓️ 2025-01-11
-
-
-<br />
-Adobe Lightroom的**AI移除功能**在用户Matthew Raifman的海鸥飞行照片中意外添加了一个**比特币**。用户展示了原始照片、移除水面上三个圆形高光后的结果，以及100%裁剪后的比特币图像。这一错误引发了用户对AI工具准确性的质疑。
-
----
-
 ## <a name="13"></a>13. 福特电动Mach-E在2024年销量超越燃油版Mustang 
 <small>🔗 [electrek.co](https://electrek.co/2025/01/09/fords-mach-e-ev-outsold-gas-mustang-first-time/): Ford's electric Mach-E outsold the gas-powered Mustang in 2024</small>
 
 
-| 🔥: 76 \| 💬: [70](https://news.ycombinator.com/item?id=42667902) \| 🗓️ 2025-01-11
+| 🔥: 78 \| 💬: [70](https://news.ycombinator.com/item?id=42667902) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -194,7 +194,7 @@ Adobe Lightroom的**AI移除功能**在用户Matthew Raifman的海鸥飞行照�
 <small>🔗 [kindness.is](https://kindness.is/examples/2010/mullenweg-the-coward/): Mullenweg the Coward</small>
 
 
-| 🔥: 66 \| 💬: [9](https://news.ycombinator.com/item?id=42669293) \| 🗓️ 2025-01-11
+| 🔥: 68 \| 💬: [9](https://news.ycombinator.com/item?id=42669293) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -206,7 +206,7 @@ Adobe Lightroom的**AI移除功能**在用户Matthew Raifman的海鸥飞行照�
 <small>🔗 [forbes.com](https://www.forbes.com/sites/terinaallen/2025/01/09/jpmorgan-ending-remote-work-for-300000-employees-report/): JPMorgan reportedly ending remote work for more than 300k employees</small>
 
 
-| 🔥: 60 \| 💬: [44](https://news.ycombinator.com/item?id=42669143) \| 🗓️ 2025-01-11
+| 🔥: 63 \| 💬: [60](https://news.ycombinator.com/item?id=42669143) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -218,7 +218,7 @@ Adobe Lightroom的**AI移除功能**在用户Matthew Raifman的海鸥飞行照�
 <small>🔗 [loc.gov](https://www.loc.gov/resource/g4361p.ct000092/?r=-0.628,0.425,1.749,0.902,0): Map of California roads for cyclers (1895)</small>
 
 
-| 🔥: 51 \| 💬: [21](https://news.ycombinator.com/item?id=42667797) \| 🗓️ 2025-01-11
+| 🔥: 59 \| 💬: [25](https://news.ycombinator.com/item?id=42667797) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -230,7 +230,7 @@ Adobe Lightroom的**AI移除功能**在用户Matthew Raifman的海鸥飞行照�
 <small>🔗 [sfstandard.com](https://sfstandard.com/2025/01/11/chatham-house-rule-burnout/): Chatham House Rule is suddenly everywhere in the Bay Area</small>
 
 
-| 🔥: 48 \| 💬: [119](https://news.ycombinator.com/item?id=42669027) \| 🗓️ 2025-01-11
+| 🔥: 57 \| 💬: [149](https://news.ycombinator.com/item?id=42669027) \| 🗓️ 2025-01-11
 
 
 <br />
@@ -238,7 +238,19 @@ Adobe Lightroom的**AI移除功能**在用户Matthew Raifman的海鸥飞行照�
 
 ---
 
-## <a name="19"></a>19. FCC提议为智能设备推出网络安全标签计划 
+## <a name="19"></a>19. 在澳大利亚为美国公司工作的体验 
+<small>🔗 [seangoedecke.com](https://www.seangoedecke.com/working-for-americans/): What it's like working for American companies as an Australian</small>
+
+
+| 🔥: 49 \| 💬: [41](https://news.ycombinator.com/item?id=42669681) \| 🗓️ 2025-01-11
+
+
+<br />
+在澳大利亚为美国科技公司工作十年，最大的挑战是**时区差异**。早晨需快速处理美国团队的遗留工作，下午则享有深度工作时间。**文化差异**也显著，美国人更自信，澳大利亚人则低调。尽管存在不稳定性，但美国公司提供更高的薪酬和品牌认可，且**远程工作**和跨时区协作带来独特优势。
+
+---
+
+## <a name="20"></a>20. FCC提议为智能设备推出网络安全标签计划 
 <small>🔗 [fcc.gov](https://www.fcc.gov/cybersecurity-certification-mark): FCC proposes cybersecurity labeling program for smart devices</small>
 
 
@@ -247,17 +259,5 @@ Adobe Lightroom的**AI移除功能**在用户Matthew Raifman的海鸥飞行照�
 
 <br />
 美国联邦通信委员会（FCC）提议推出**网络安全标签计划**，并设计了**U.S. Cyber Trust Mark**标志，目前正向美国专利商标局申请注册。该标志未经FCC书面许可不得使用，旨在帮助消费者识别符合网络安全标准的智能设备。
-
----
-
-## <a name="20"></a>20. 关系衰退正在全球化 
-<small>🔗 [ft.com](https://www.ft.com/content/43e2b4f6-5ab7-4c47-b9fd-d611c36dad74): The relationship recession is going global</small>
-
-
-| 🔥: 32 \| 💬: [78](https://news.ycombinator.com/item?id=42665518) \| 🗓️ 2025-01-11
-
-
-<br />
-《金融时报》文章探讨了**关系衰退**的全球蔓延趋势。文章指出，随着经济压力和社会变化，**人际关系**和**社会联系**正在减弱，这一现象不仅限于特定地区，而是逐渐成为全球性问题。订阅服务提供了深度分析和专家观点，帮助读者理解这一复杂趋势。
 
 ---
