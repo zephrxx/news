@@ -10,9 +10,9 @@ tags:
 
 1. 坏苹果，但它是 6,500 个在 Vim 中搜索的正则表达式；
 1. uv 的杀手锏：轻松创建临时环境；
-1. AI 创始人将学到苦涩的教训；
 1. 后门中的后门——又一个20美元的域名，更多政府被入侵；
-1. Mullenweg解散WordPress可持续发展团队，引发强烈反对；
+1. AI 创始人将学到苦涩的教训；
+1. 我删除了我的社交媒体账户；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [eieio.games](https://eieio.games/blog/bad-apple-with-regex-in-vim/): Bad Apple but it's 6,500 regexes that I search for in Vim</small>
 
 
-| 🔥🔥: 423 \| 💬: [44](https://news.ycombinator.com/item?id=42674116) \| 🗓️ 2025-01-12
+| 🔥🔥: 432 \| 💬: [45](https://news.ycombinator.com/item?id=42674116) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [valatka.dev](https://valatka.dev/2025/01/12/on-killer-uv-feature.html): Uv's killer feature is making ad-hoc environments easy</small>
 
 
-| 🔥🔥: 331 \| 💬: [241](https://news.ycombinator.com/item?id=42676432) \| 🗓️ 2025-01-12
+| 🔥🔥: 350 \| 💬: [264](https://news.ycombinator.com/item?id=42676432) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -46,23 +46,11 @@ uv 的核心优势并非性能或与 Python 的严格对齐，而是其**简化�
 
 ---
 
-## <a name="3"></a>3. AI 创始人将学到苦涩的教训 
-<small>🔗 [lukaspetersson.com](https://lukaspetersson.com/blog/2025/bitter-vertical/): AI founders will learn the bitter lesson</small>
-
-
-| 🔥🔥: 307 \| 💬: [243](https://news.ycombinator.com/item?id=42672790) \| 🗓️ 2025-01-12
-
-
-<br />
-AI 历史表明，**通用方法**总是胜出。当前 AI 应用领域的创始人重复了研究者过去的错误：过度依赖领域知识和工程优化，而忽视了**计算能力**的扩展。随着 AI 模型的进步，**工程努力的价值将逐渐减少**，通用 AI 应用将主导市场。创始人应避免依赖当前模型的局限性，而是为未来更强大的模型做好准备。
-
----
-
-## <a name="4"></a>4. 后门中的后门——又一个20美元的域名，更多政府被入侵 
+## <a name="3"></a>3. 后门中的后门——又一个20美元的域名，更多政府被入侵 
 <small>🔗 [labs.watchtowr.com](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/): Backdooring Your Backdoors – Another $20 Domain, More Governments</small>
 
 
-| 🔥🔥: 307 \| 💬: [23](https://news.ycombinator.com/item?id=42674455) \| 🗓️ 2025-01-12
+| 🔥🔥: 315 \| 💬: [24](https://news.ycombinator.com/item?id=42674455) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -70,47 +58,23 @@ AI 历史表明，**通用方法**总是胜出。当前 AI 应用领域的创始
 
 ---
 
-## <a name="5"></a>5. Mullenweg解散WordPress可持续发展团队，引发强烈反对 
-<small>🔗 [therepository.email](https://www.therepository.email/mullenweg-shuts-down-wordpress-sustainability-team-igniting-backlash): Mullenweg Shuts Down WordPress Sustainability Team, Igniting Backlash</small>
+## <a name="4"></a>4. AI 创始人将学到苦涩的教训 
+<small>🔗 [lukaspetersson.com](https://lukaspetersson.com/blog/2025/bitter-vertical/): AI founders will learn the bitter lesson</small>
 
 
-| 🔥🔥: 197 \| 💬: [150](https://news.ycombinator.com/item?id=42672675) \| 🗓️ 2025-01-12
-
-
-<br />
-WordPress联合创始人Matt Mullenweg突然解散了**可持续发展团队**，引发社区强烈反弹。团队代表Thijs Buijs因Mullenweg在Reddit上制造“2025年WordPress戏剧”的帖子而辞职，随后Mullenweg宣布解散团队，称其“未达预期”。此举被知名科技记者Kara Swisher批评为“**极其恶劣的行为**”，并引发广泛批评。团队曾发布《可持续活动手册》并开发插件，致力于推动WordPress的**社会、经济和环境可持续性**。
-
----
-
-## <a name="6"></a>6. Tabby：自托管的AI编程助手 
-<small>🔗 [github.com](https://github.com/TabbyML/tabby): Tabby: Self-hosted AI coding assistant</small>
-
-
-| 🔥🔥: 186 \| 💬: [52](https://news.ycombinator.com/item?id=42675725) \| 🗓️ 2025-01-12
+| 🔥🔥: 311 \| 💬: [248](https://news.ycombinator.com/item?id=42672790) \| 🗓️ 2025-01-12
 
 
 <br />
-Tabby是一款**自托管的AI编程助手**，提供开源且本地化的替代方案，类似于GitHub Copilot。它支持**消费级GPU**，无需依赖数据库或云服务，并具备**OpenAPI接口**，易于与现有基础设施集成。Tabby还支持多种IDE插件，如VSCode、Vim和IntelliJ，并持续更新功能，如代码补全、团队管理和企业级升级。
+AI 历史表明，**通用方法**总是胜出。当前 AI 应用领域的创始人重复了研究者过去的错误：过度依赖领域知识和工程优化，而忽视了**计算能力**的扩展。随着 AI 模型的进步，**工程努力的价值将逐渐减少**，通用 AI 应用将主导市场。创始人应避免依赖当前模型的局限性，而是为未来更强大的模型做好准备。
 
 ---
 
-## <a name="7"></a>7. Rust 不仅仅是性能的亮点 
-<small>🔗 [ntietz.com](https://ntietz.com/blog/great-things-about-rust-beyond-perf/): Great things about Rust that aren't just performance</small>
-
-
-| 🔥🔥: 184 \| 💬: [207](https://news.ycombinator.com/item?id=42675219) \| 🗓️ 2025-01-12
-
-
-<br />
-Rust 不仅以高性能著称，其**类型系统**的**表达力**和**安全性**也令人印象深刻。通过枚举、结构体和特质，开发者可以将设计直接体现在类型中，同时编译器确保类型正确使用。Rust 还通过**借用检查器**有效防止数据竞争，使并发编程更加安全。此外，Rust 的**编译器错误提示**非常友好，提供了详细的修复建议。总的来说，Rust 不仅高效，还让编程变得有趣且可靠。
-
----
-
-## <a name="8"></a>8. 我删除了我的社交媒体账户 
+## <a name="5"></a>5. 我删除了我的社交媒体账户 
 <small>🔗 [asylumsquare.com](https://asylumsquare.com/backstage/2025-01-12/why-i-deleted-my-social-media-accounts): I deleted my social media accounts</small>
 
 
-| 🔥🔥: 179 \| 💬: [208](https://news.ycombinator.com/item?id=42677587) \| 🗓️ 2025-01-12
+| 🔥🔥: 204 \| 💬: [222](https://news.ycombinator.com/item?id=42677587) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -118,11 +82,47 @@ Rust 不仅以高性能著称，其**类型系统**的**表达力**和**安全�
 
 ---
 
+## <a name="6"></a>6. Mullenweg解散WordPress可持续发展团队，引发强烈反对 
+<small>🔗 [therepository.email](https://www.therepository.email/mullenweg-shuts-down-wordpress-sustainability-team-igniting-backlash): Mullenweg Shuts Down WordPress Sustainability Team, Igniting Backlash</small>
+
+
+| 🔥🔥: 198 \| 💬: [153](https://news.ycombinator.com/item?id=42672675) \| 🗓️ 2025-01-12
+
+
+<br />
+WordPress联合创始人Matt Mullenweg突然解散了**可持续发展团队**，引发社区强烈反弹。团队代表Thijs Buijs因Mullenweg在Reddit上制造“2025年WordPress戏剧”的帖子而辞职，随后Mullenweg宣布解散团队，称其“未达预期”。此举被知名科技记者Kara Swisher批评为“**极其恶劣的行为**”，并引发广泛批评。团队曾发布《可持续活动手册》并开发插件，致力于推动WordPress的**社会、经济和环境可持续性**。
+
+---
+
+## <a name="7"></a>7. Tabby：自托管的AI编程助手 
+<small>🔗 [github.com](https://github.com/TabbyML/tabby): Tabby: Self-hosted AI coding assistant</small>
+
+
+| 🔥🔥: 198 \| 💬: [58](https://news.ycombinator.com/item?id=42675725) \| 🗓️ 2025-01-12
+
+
+<br />
+Tabby是一款**自托管的AI编程助手**，提供开源且本地化的替代方案，类似于GitHub Copilot。它支持**消费级GPU**，无需依赖数据库或云服务，并具备**OpenAPI接口**，易于与现有基础设施集成。Tabby还支持多种IDE插件，如VSCode、Vim和IntelliJ，并持续更新功能，如代码补全、团队管理和企业级升级。
+
+---
+
+## <a name="8"></a>8. Rust 不仅仅是性能的亮点 
+<small>🔗 [ntietz.com](https://ntietz.com/blog/great-things-about-rust-beyond-perf/): Great things about Rust that aren't just performance</small>
+
+
+| 🔥🔥: 184 \| 💬: [208](https://news.ycombinator.com/item?id=42675219) \| 🗓️ 2025-01-12
+
+
+<br />
+Rust 不仅以高性能著称，其**类型系统**的**表达力**和**安全性**也令人印象深刻。通过枚举、结构体和特质，开发者可以将设计直接体现在类型中，同时编译器确保类型正确使用。Rust 还通过**借用检查器**有效防止数据竞争，使并发编程更加安全。此外，Rust 的**编译器错误提示**非常友好，提供了详细的修复建议。总的来说，Rust 不仅高效，还让编程变得有趣且可靠。
+
+---
+
 ## <a name="9"></a>9. 我在Linux控制台度过的18年 
 <small>🔗 [eugene-andrienko.com](https://eugene-andrienko.com/en/it/2024/01/02/life-in-console): I spent 18 years in the Linux console</small>
 
 
-| 🔥🔥: 176 \| 💬: [122](https://news.ycombinator.com/item?id=42674153) \| 🗓️ 2025-01-12
+| 🔥🔥: 180 \| 💬: [124](https://news.ycombinator.com/item?id=42674153) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -134,7 +134,7 @@ Rust 不仅以高性能著称，其**类型系统**的**表达力**和**安全�
 <small>🔗 [xtof.info](https://www.xtof.info/MacMiniG4-the-best-classic-macintosh-for-retrogaming.html): Mac Mini G4 – The best « classic » Macintosh for retro-gaming?</small>
 
 
-| 🔥🔥: 162 \| 💬: [85](https://news.ycombinator.com/item?id=42674385) \| 🗓️ 2025-01-12
+| 🔥🔥: 169 \| 💬: [90](https://news.ycombinator.com/item?id=42674385) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -142,47 +142,11 @@ Mac Mini G4 是苹果最后一款搭载 **PowerPC G4** 处理器的电脑，因�
 
 ---
 
-## <a name="11"></a>11. 扎克伯格批准在LibGen上训练Llama 
-<small>🔗 [storage.courtlistener.com](https://storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.377.0_1.pdf): Zuckerberg approved training Llama on LibGen [pdf]</small>
-
-
-| 🔥🔥: 141 \| 💬: [171](https://news.ycombinator.com/item?id=42673628) \| 🗓️ 2025-01-12
-
-
-<br />
-根据内容，**Meta**的CEO马克·扎克伯格批准了使用**LibGen**（一个知名的盗版电子书平台）的数据来训练**Llama**模型。这一决定引发了关于数据来源合法性和道德问题的讨论。尽管LibGen提供了大量免费资源，但其内容的版权问题一直备受争议。
-
----
-
-## <a name="12"></a>12. 让马里布燃烧的理由（1995） 
-<small>🔗 [longreads.com](https://longreads.com/2018/12/04/the-case-for-letting-malibu-burn/): The case for letting Malibu burn (1995)</small>
-
-
-| 🔥🔥: 138 \| 💬: [174](https://news.ycombinator.com/item?id=42675274) \| 🗓️ 2025-01-12
-
-
-<br />
-本文探讨了洛杉矶贫民区与马里布海岸在火灾问题上的对比。**马里布**作为北美野火最频繁的地区，其火灾与自然生态息息相关，而贫民区的火灾则多因人为疏忽。尽管**富人区**享有大量资源应对火灾，但专家认为开发马里布是徒劳的，因为火灾是其生态的一部分。相比之下，贫民区的火灾本可通过加强建筑安全来避免。
-
----
-
-## <a name="13"></a>13. 2025年最佳笔具推荐 
-<small>🔗 [jetpens.com](https://www.jetpens.com/blog/The-46-Best-Pens-for-2025-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974): Best Pens for 2025</small>
-
-
-| 🔥🔥: 135 \| 💬: [71](https://news.ycombinator.com/item?id=42676274) \| 🗓️ 2025-01-12
-
-
-<br />
-本文介绍了**JetPens**提供的各类笔具，包括**钢笔**、**圆珠笔**、**凝胶笔**、**多色笔**等，涵盖多种品牌和用途。还推荐了**2025年最佳钢笔**、**铅笔**和**文具配件**，适合不同需求的用户。文章还提供了详细的购买指南和使用建议，帮助用户选择最适合的笔具。
-
----
-
-## <a name="14"></a>14. Show HN: 《毁灭战士》(1993) 嵌入 PDF 文件 
+## <a name="11"></a>11. Show HN: 《毁灭战士》(1993) 嵌入 PDF 文件 
 <small>🔗 [doompdf.pages.dev](https://doompdf.pages.dev/doom.pdf): Show HN: Doom (1993) in a PDF</small>
 
 
-| 🔥🔥: 132 \| 💬: [22](https://news.ycombinator.com/item?id=42678754) \| 🗓️ 2025-01-12
+| 🔥🔥: 160 \| 💬: [25](https://news.ycombinator.com/item?id=42678754) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -190,11 +154,47 @@ Mac Mini G4 是苹果最后一款搭载 **PowerPC G4** 处理器的电脑，因�
 
 ---
 
+## <a name="12"></a>12. 让马里布燃烧的理由（1995） 
+<small>🔗 [longreads.com](https://longreads.com/2018/12/04/the-case-for-letting-malibu-burn/): The case for letting Malibu burn (1995)</small>
+
+
+| 🔥🔥: 142 \| 💬: [176](https://news.ycombinator.com/item?id=42675274) \| 🗓️ 2025-01-12
+
+
+<br />
+本文探讨了洛杉矶贫民区与马里布海岸在火灾问题上的对比。**马里布**作为北美野火最频繁的地区，其火灾与自然生态息息相关，而贫民区的火灾则多因人为疏忽。尽管**富人区**享有大量资源应对火灾，但专家认为开发马里布是徒劳的，因为火灾是其生态的一部分。相比之下，贫民区的火灾本可通过加强建筑安全来避免。
+
+---
+
+## <a name="13"></a>13. 扎克伯格批准在LibGen上训练Llama 
+<small>🔗 [storage.courtlistener.com](https://storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.377.0_1.pdf): Zuckerberg approved training Llama on LibGen [pdf]</small>
+
+
+| 🔥🔥: 141 \| 💬: [173](https://news.ycombinator.com/item?id=42673628) \| 🗓️ 2025-01-12
+
+
+<br />
+根据内容，**Meta**的CEO马克·扎克伯格批准了使用**LibGen**（一个知名的盗版电子书平台）的数据来训练**Llama**模型。这一决定引发了关于数据来源合法性和道德问题的讨论。尽管LibGen提供了大量免费资源，但其内容的版权问题一直备受争议。
+
+---
+
+## <a name="14"></a>14. 2025年最佳笔具推荐 
+<small>🔗 [jetpens.com](https://www.jetpens.com/blog/The-46-Best-Pens-for-2025-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974): Best Pens for 2025</small>
+
+
+| 🔥🔥: 135 \| 💬: [72](https://news.ycombinator.com/item?id=42676274) \| 🗓️ 2025-01-12
+
+
+<br />
+本文介绍了**JetPens**提供的各类笔具，包括**钢笔**、**圆珠笔**、**凝胶笔**、**多色笔**等，涵盖多种品牌和用途。还推荐了**2025年最佳钢笔**、**铅笔**和**文具配件**，适合不同需求的用户。文章还提供了详细的购买指南和使用建议，帮助用户选择最适合的笔具。
+
+---
+
 ## <a name="15"></a>15. 重归野性自我 
 <small>🔗 [worldsensorium.com](https://worldsensorium.com/rewilding-the-self/): Rewilding the Self</small>
 
 
-| 🔥🔥: 126 \| 💬: [53](https://news.ycombinator.com/item?id=42672758) \| 🗓️ 2025-01-12
+| 🔥🔥: 128 \| 💬: [53](https://news.ycombinator.com/item?id=42672758) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -206,7 +206,7 @@ Mac Mini G4 是苹果最后一款搭载 **PowerPC G4** 处理器的电脑，因�
 <small>🔗 [qubes-os.org](https://www.qubes-os.org/): Qubes OS: A reasonably secure operating system</small>
 
 
-| 🔥🔥: 115 \| 💬: [55](https://news.ycombinator.com/item?id=42677608) \| 🗓️ 2025-01-12
+| 🔥🔥: 123 \| 💬: [57](https://news.ycombinator.com/item?id=42677608) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -218,7 +218,7 @@ Qubes OS 是一个基于 **Xen 虚拟机**的操作系统，提供**强大的隔
 <small>🔗 [82mhz.net](https://82mhz.net/posts/2025/01/i-will-never-need-to-buy-a-new-computer-again/): I will never need to buy a new computer again</small>
 
 
-| 🔥🔥: 113 \| 💬: [147](https://news.ycombinator.com/item?id=42674888) \| 🗓️ 2025-01-12
+| 🔥🔥: 115 \| 💬: [147](https://news.ycombinator.com/item?id=42674888) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -226,11 +226,23 @@ Qubes OS 是一个基于 **Xen 虚拟机**的操作系统，提供**强大的隔
 
 ---
 
-## <a name="18"></a>18. 从ASCII到ASIC：将donut.c移植到一小片硅片上 
+## <a name="18"></a>18. 怀念20年前“友好”网络世界的错误 
+<small>🔗 [english.elpais.com](https://english.elpais.com/lifestyle/2025-01-07/the-internet-hasnt-made-us-bad-we-were-already-like-that-the-mistake-of-yearning-for-the-friendly-online-world-of-20-years-ago.html): The mistake of yearning for the 'friendly' online world of 20 years ago</small>
+
+
+| 🔥🔥: 114 \| 💬: [131](https://news.ycombinator.com/item?id=42673596) \| 🗓️ 2025-01-12
+
+
+<br />
+近年来，Y2K美学和**Flow 2K**复兴引发了对20年前互联网的怀旧情绪，许多人认为那时的网络更友好、有趣。然而，这种怀旧忽略了早期网络中的**性别歧视**和**种族主义**问题。尽管今天的互联网被大公司主导，充满仇恨和数据剥削，但仍有希望。关键在于**数字主权**和个体行动，而非沉溺于怀旧或技术恐惧。
+
+---
+
+## <a name="19"></a>19. 从ASCII到ASIC：将donut.c移植到一小片硅片上 
 <small>🔗 [a1k0n.net](https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html): From ASCII to ASIC: Porting donut.c to a tiny slice of silicon</small>
 
 
-| 🔥🔥: 110 \| 💬: [14](https://news.ycombinator.com/item?id=42675208) \| 🗓️ 2025-01-12
+| 🔥🔥: 111 \| 💬: [15](https://news.ycombinator.com/item?id=42675208) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -238,26 +250,14 @@ Qubes OS 是一个基于 **Xen 虚拟机**的操作系统，提供**强大的隔
 
 ---
 
-## <a name="19"></a>19. HMD Key – 轻量级、经济实惠的智能手机 
+## <a name="20"></a>20. HMD Key – 轻量级、经济实惠的智能手机 
 <small>🔗 [hmd.com](https://www.hmd.com/en_int/press/hmd-key-press-release): HMD Key – A lightweight, affordable smartphone</small>
 
 
-| 🔥🔥: 109 \| 💬: [104](https://news.ycombinator.com/item?id=42673090) \| 🗓️ 2025-01-12
+| 🔥🔥: 110 \| 💬: [105](https://news.ycombinator.com/item?id=42673090) \| 🗓️ 2025-01-12
 
 
 <br />
 HMD Key 是一款**轻量级、经济实惠**的智能手机，售价仅为 £59，适用于日常使用。搭载 **Android™ 14（Go 版）**，提供流畅体验，配备多种相机模式，支持虚拟内存扩展，确保多任务处理顺畅。设备还提供**两年季度安全更新**，电池续航长达 77 小时，适合预算有限的用户。
-
----
-
-## <a name="20"></a>20. 怀念20年前“友好”网络世界的错误 
-<small>🔗 [english.elpais.com](https://english.elpais.com/lifestyle/2025-01-07/the-internet-hasnt-made-us-bad-we-were-already-like-that-the-mistake-of-yearning-for-the-friendly-online-world-of-20-years-ago.html): The mistake of yearning for the 'friendly' online world of 20 years ago</small>
-
-
-| 🔥🔥: 109 \| 💬: [122](https://news.ycombinator.com/item?id=42673596) \| 🗓️ 2025-01-12
-
-
-<br />
-近年来，Y2K美学和**Flow 2K**复兴引发了对20年前互联网的怀旧情绪，许多人认为那时的网络更友好、有趣。然而，这种怀旧忽略了早期网络中的**性别歧视**和**种族主义**问题。尽管今天的互联网被大公司主导，充满仇恨和数据剥削，但仍有希望。关键在于**数字主权**和个体行动，而非沉溺于怀旧或技术恐惧。
 
 ---
