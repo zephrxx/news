@@ -9,8 +9,8 @@ tags:
 
 
 1. 坏苹果，但它是 6,500 个在 Vim 中搜索的正则表达式；
-1. AI 创始人将学到苦涩的教训；
 1. uv 的杀手锏：轻松创建临时环境；
+1. AI 创始人将学到苦涩的教训；
 1. 后门中的后门——又一个20美元的域名，更多政府被入侵；
 1. Mullenweg解散WordPress可持续发展团队，引发强烈反对；
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [eieio.games](https://eieio.games/blog/bad-apple-with-regex-in-vim/): Bad Apple but it's 6,500 regexes that I search for in Vim</small>
 
 
-| 🔥🔥: 402 \| 💬: [45](https://news.ycombinator.com/item?id=42674116) \| 🗓️ 2025-01-12
+| 🔥🔥: 410 \| 💬: [44](https://news.ycombinator.com/item?id=42674116) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -34,23 +34,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. AI 创始人将学到苦涩的教训 
-<small>🔗 [lukaspetersson.com](https://lukaspetersson.com/blog/2025/bitter-vertical/): AI founders will learn the bitter lesson</small>
-
-
-| 🔥🔥: 305 \| 💬: [241](https://news.ycombinator.com/item?id=42672790) \| 🗓️ 2025-01-12
-
-
-<br />
-AI 历史表明，**通用方法**总是胜出。当前 AI 应用领域的创始人重复了研究者过去的错误：过度依赖领域知识和工程优化，而忽视了**计算能力**的扩展。随着 AI 模型的进步，**工程努力的价值将逐渐减少**，通用 AI 应用将主导市场。创始人应避免依赖当前模型的局限性，而是为未来更强大的模型做好准备。
-
----
-
-## <a name="3"></a>3. uv 的杀手锏：轻松创建临时环境 
+## <a name="2"></a>2. uv 的杀手锏：轻松创建临时环境 
 <small>🔗 [valatka.dev](https://valatka.dev/2025/01/12/on-killer-uv-feature.html): Uv's killer feature is making ad-hoc environments easy</small>
 
 
-| 🔥🔥: 300 \| 💬: [221](https://news.ycombinator.com/item?id=42676432) \| 🗓️ 2025-01-12
+| 🔥🔥: 314 \| 💬: [225](https://news.ycombinator.com/item?id=42676432) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -58,11 +46,23 @@ uv 的核心优势并非性能或与 Python 的严格对齐，而是其**简化�
 
 ---
 
+## <a name="3"></a>3. AI 创始人将学到苦涩的教训 
+<small>🔗 [lukaspetersson.com](https://lukaspetersson.com/blog/2025/bitter-vertical/): AI founders will learn the bitter lesson</small>
+
+
+| 🔥🔥: 306 \| 💬: [243](https://news.ycombinator.com/item?id=42672790) \| 🗓️ 2025-01-12
+
+
+<br />
+AI 历史表明，**通用方法**总是胜出。当前 AI 应用领域的创始人重复了研究者过去的错误：过度依赖领域知识和工程优化，而忽视了**计算能力**的扩展。随着 AI 模型的进步，**工程努力的价值将逐渐减少**，通用 AI 应用将主导市场。创始人应避免依赖当前模型的局限性，而是为未来更强大的模型做好准备。
+
+---
+
 ## <a name="4"></a>4. 后门中的后门——又一个20美元的域名，更多政府被入侵 
 <small>🔗 [labs.watchtowr.com](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/): Backdooring Your Backdoors – Another $20 Domain, More Governments</small>
 
 
-| 🔥🔥: 299 \| 💬: [22](https://news.ycombinator.com/item?id=42674455) \| 🗓️ 2025-01-12
+| 🔥🔥: 305 \| 💬: [23](https://news.ycombinator.com/item?id=42674455) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -74,7 +74,7 @@ uv 的核心优势并非性能或与 Python 的严格对齐，而是其**简化�
 <small>🔗 [therepository.email](https://www.therepository.email/mullenweg-shuts-down-wordpress-sustainability-team-igniting-backlash): Mullenweg Shuts Down WordPress Sustainability Team, Igniting Backlash</small>
 
 
-| 🔥🔥: 195 \| 💬: [150](https://news.ycombinator.com/item?id=42672675) \| 🗓️ 2025-01-12
+| 🔥🔥: 197 \| 💬: [150](https://news.ycombinator.com/item?id=42672675) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -94,23 +94,11 @@ Rust 不仅以高性能著称，其**类型系统**的**表达力**和**安全�
 
 ---
 
-## <a name="7"></a>7. 我在Linux控制台度过的18年 
-<small>🔗 [eugene-andrienko.com](https://eugene-andrienko.com/en/it/2024/01/02/life-in-console): I spent 18 years in the Linux console</small>
-
-
-| 🔥🔥: 171 \| 💬: [121](https://news.ycombinator.com/item?id=42674153) \| 🗓️ 2025-01-12
-
-
-<br />
-本文讲述了作者从早期在无网络环境下学习**Linux**的经历，到后来在大学和工作中的成长。作者通过书籍、命令行和源代码自学，掌握了系统编程和**正则表达式**等技能，并逐渐形成了对**控制台工具**的依赖。这段经历不仅塑造了他的技术能力，也让他对Linux系统有了深刻的理解。
-
----
-
-## <a name="8"></a>8. Tabby：自托管的AI编程助手 
+## <a name="7"></a>7. Tabby：自托管的AI编程助手 
 <small>🔗 [github.com](https://github.com/TabbyML/tabby): Tabby: Self-hosted AI coding assistant</small>
 
 
-| 🔥🔥: 167 \| 💬: [37](https://news.ycombinator.com/item?id=42675725) \| 🗓️ 2025-01-12
+| 🔥🔥: 178 \| 💬: [45](https://news.ycombinator.com/item?id=42675725) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -118,11 +106,23 @@ Tabby是一款**自托管的AI编程助手**，提供开源且本地化的替代
 
 ---
 
+## <a name="8"></a>8. 我在Linux控制台度过的18年 
+<small>🔗 [eugene-andrienko.com](https://eugene-andrienko.com/en/it/2024/01/02/life-in-console): I spent 18 years in the Linux console</small>
+
+
+| 🔥🔥: 173 \| 💬: [122](https://news.ycombinator.com/item?id=42674153) \| 🗓️ 2025-01-12
+
+
+<br />
+本文讲述了作者从早期在无网络环境下学习**Linux**的经历，到后来在大学和工作中的成长。作者通过书籍、命令行和源代码自学，掌握了系统编程和**正则表达式**等技能，并逐渐形成了对**控制台工具**的依赖。这段经历不仅塑造了他的技术能力，也让他对Linux系统有了深刻的理解。
+
+---
+
 ## <a name="9"></a>9. Mac Mini G4 – 经典 Macintosh 的最佳复古游戏机？ 
 <small>🔗 [xtof.info](https://www.xtof.info/MacMiniG4-the-best-classic-macintosh-for-retrogaming.html): Mac Mini G4 – The best « classic » Macintosh for retro-gaming?</small>
 
 
-| 🔥🔥: 153 \| 💬: [78](https://news.ycombinator.com/item?id=42674385) \| 🗓️ 2025-01-12
+| 🔥🔥: 156 \| 💬: [79](https://news.ycombinator.com/item?id=42674385) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -130,23 +130,11 @@ Mac Mini G4 是苹果最后一款搭载 **PowerPC G4** 处理器的电脑，因�
 
 ---
 
-## <a name="10"></a>10. 扎克伯格批准在LibGen上训练Llama 
-<small>🔗 [storage.courtlistener.com](https://storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.377.0_1.pdf): Zuckerberg approved training Llama on LibGen [pdf]</small>
-
-
-| 🔥🔥: 140 \| 💬: [169](https://news.ycombinator.com/item?id=42673628) \| 🗓️ 2025-01-12
-
-
-<br />
-根据内容，**Meta**的CEO马克·扎克伯格批准了使用**LibGen**（一个知名的盗版电子书平台）的数据来训练**Llama**模型。这一决定引发了关于数据来源合法性和道德问题的讨论。尽管LibGen提供了大量免费资源，但其内容的版权问题一直备受争议。
-
----
-
-## <a name="11"></a>11. 我删除了我的社交媒体账户 
+## <a name="10"></a>10. 我删除了我的社交媒体账户 
 <small>🔗 [asylumsquare.com](https://asylumsquare.com/backstage/2025-01-12/why-i-deleted-my-social-media-accounts): I deleted my social media accounts</small>
 
 
-| 🔥🔥: 139 \| 💬: [169](https://news.ycombinator.com/item?id=42677587) \| 🗓️ 2025-01-12
+| 🔥🔥: 149 \| 💬: [178](https://news.ycombinator.com/item?id=42677587) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -154,11 +142,23 @@ Mac Mini G4 是苹果最后一款搭载 **PowerPC G4** 处理器的电脑，因�
 
 ---
 
+## <a name="11"></a>11. 扎克伯格批准在LibGen上训练Llama 
+<small>🔗 [storage.courtlistener.com](https://storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.377.0_1.pdf): Zuckerberg approved training Llama on LibGen [pdf]</small>
+
+
+| 🔥🔥: 141 \| 💬: [169](https://news.ycombinator.com/item?id=42673628) \| 🗓️ 2025-01-12
+
+
+<br />
+根据内容，**Meta**的CEO马克·扎克伯格批准了使用**LibGen**（一个知名的盗版电子书平台）的数据来训练**Llama**模型。这一决定引发了关于数据来源合法性和道德问题的讨论。尽管LibGen提供了大量免费资源，但其内容的版权问题一直备受争议。
+
+---
+
 ## <a name="12"></a>12. 2025年最佳笔具推荐 
 <small>🔗 [jetpens.com](https://www.jetpens.com/blog/The-46-Best-Pens-for-2025-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974): Best Pens for 2025</small>
 
 
-| 🔥🔥: 133 \| 💬: [67](https://news.ycombinator.com/item?id=42676274) \| 🗓️ 2025-01-12
+| 🔥🔥: 134 \| 💬: [68](https://news.ycombinator.com/item?id=42676274) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -170,7 +170,7 @@ Mac Mini G4 是苹果最后一款搭载 **PowerPC G4** 处理器的电脑，因�
 <small>🔗 [longreads.com](https://longreads.com/2018/12/04/the-case-for-letting-malibu-burn/): The case for letting Malibu burn (1995)</small>
 
 
-| 🔥🔥: 128 \| 💬: [156](https://news.ycombinator.com/item?id=42675274) \| 🗓️ 2025-01-12
+| 🔥🔥: 132 \| 💬: [166](https://news.ycombinator.com/item?id=42675274) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -182,7 +182,7 @@ Mac Mini G4 是苹果最后一款搭载 **PowerPC G4** 处理器的电脑，因�
 <small>🔗 [worldsensorium.com](https://worldsensorium.com/rewilding-the-self/): Rewilding the Self</small>
 
 
-| 🔥🔥: 123 \| 💬: [51](https://news.ycombinator.com/item?id=42672758) \| 🗓️ 2025-01-12
+| 🔥🔥: 124 \| 💬: [51](https://news.ycombinator.com/item?id=42672758) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -194,7 +194,7 @@ Mac Mini G4 是苹果最后一款搭载 **PowerPC G4** 处理器的电脑，因�
 <small>🔗 [82mhz.net](https://82mhz.net/posts/2025/01/i-will-never-need-to-buy-a-new-computer-again/): I will never need to buy a new computer again</small>
 
 
-| 🔥🔥: 112 \| 💬: [146](https://news.ycombinator.com/item?id=42674888) \| 🗓️ 2025-01-12
+| 🔥🔥: 112 \| 💬: [147](https://news.ycombinator.com/item?id=42674888) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -206,7 +206,7 @@ Mac Mini G4 是苹果最后一款搭载 **PowerPC G4** 处理器的电脑，因�
 <small>🔗 [hmd.com](https://www.hmd.com/en_int/press/hmd-key-press-release): HMD Key – A lightweight, affordable smartphone</small>
 
 
-| 🔥🔥: 109 \| 💬: [103](https://news.ycombinator.com/item?id=42673090) \| 🗓️ 2025-01-12
+| 🔥🔥: 109 \| 💬: [104](https://news.ycombinator.com/item?id=42673090) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -214,23 +214,11 @@ HMD Key 是一款**轻量级、经济实惠**的智能手机，售价仅为 £59
 
 ---
 
-## <a name="17"></a>17. 从ASCII到ASIC：将donut.c移植到一小片硅片上 
-<small>🔗 [a1k0n.net](https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html): From ASCII to ASIC: Porting donut.c to a tiny slice of silicon</small>
-
-
-| 🔥🔥: 107 \| 💬: [13](https://news.ycombinator.com/item?id=42675208) \| 🗓️ 2025-01-12
-
-
-<br />
-作者将经典的**donut.c**程序从ASCII艺术演变为硬件实现，使用**CORDIC算法**和**移位加法**在硅片上实时渲染3D甜甜圈。该设计通过**Tiny Tapeout 8**项目制造，仅占用0.8%的芯片面积，展示了如何在极简硬件上实现复杂图形渲染。
-
----
-
-## <a name="18"></a>18. Qubes OS：一个相对安全的操作系统 
+## <a name="17"></a>17. Qubes OS：一个相对安全的操作系统 
 <small>🔗 [qubes-os.org](https://www.qubes-os.org/): Qubes OS: A reasonably secure operating system</small>
 
 
-| 🔥🔥: 105 \| 💬: [50](https://news.ycombinator.com/item?id=42677608) \| 🗓️ 2025-01-12
+| 🔥🔥: 109 \| 💬: [52](https://news.ycombinator.com/item?id=42677608) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -238,11 +226,23 @@ Qubes OS 是一个基于 **Xen 虚拟机**的操作系统，提供**强大的隔
 
 ---
 
+## <a name="18"></a>18. 从ASCII到ASIC：将donut.c移植到一小片硅片上 
+<small>🔗 [a1k0n.net](https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html): From ASCII to ASIC: Porting donut.c to a tiny slice of silicon</small>
+
+
+| 🔥🔥: 107 \| 💬: [14](https://news.ycombinator.com/item?id=42675208) \| 🗓️ 2025-01-12
+
+
+<br />
+作者将经典的**donut.c**程序从ASCII艺术演变为硬件实现，使用**CORDIC算法**和**移位加法**在硅片上实时渲染3D甜甜圈。该设计通过**Tiny Tapeout 8**项目制造，仅占用0.8%的芯片面积，展示了如何在极简硬件上实现复杂图形渲染。
+
+---
+
 ## <a name="19"></a>19. 怀念20年前“友好”网络世界的错误 
 <small>🔗 [english.elpais.com](https://english.elpais.com/lifestyle/2025-01-07/the-internet-hasnt-made-us-bad-we-were-already-like-that-the-mistake-of-yearning-for-the-friendly-online-world-of-20-years-ago.html): The mistake of yearning for the 'friendly' online world of 20 years ago</small>
 
 
-| 🔥🔥: 101 \| 💬: [113](https://news.ycombinator.com/item?id=42673596) \| 🗓️ 2025-01-12
+| 🔥🔥: 103 \| 💬: [114](https://news.ycombinator.com/item?id=42673596) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -250,14 +250,14 @@ Qubes OS 是一个基于 **Xen 虚拟机**的操作系统，提供**强大的隔
 
 ---
 
-## <a name="20"></a>20. 研究：含糖饮料与数百万心脏病和糖尿病病例相关 
-<small>🔗 [bgr.com](https://bgr.com/science/study-links-sugar-filled-drinks-to-millions-of-heart-disease-and-diabetes-cases-each-year/): Study links sugar-filled drinks to millions of heart disease and diabetes cases</small>
+## <a name="20"></a>20. 56字节的贪吃蛇游戏 
+<small>🔗 [github.com](https://github.com/donno2048/snake): Snake Game in 56 Bytes</small>
 
 
-| 🔥: 100 \| 💬: [121](https://news.ycombinator.com/item?id=42676125) \| 🗓️ 2025-01-12
+| 🔥🔥: 101 \| 💬: [10](https://news.ycombinator.com/item?id=42675882) \| 🗓️ 2025-01-12
 
 
 <br />
-研究表明，**含糖饮料**每年导致超过220万新发糖尿病和110万新发心脏病病例，尤其在**低收入和中等收入国家**问题严重。这些饮料含糖量高但缺乏营养，长期饮用会导致**体重增加、胰岛素抵抗**，进而引发代谢问题。公共健康措施如糖税和广告限制已在部分地区见效，但全球仍需更多努力。
+这是一个用**x86汇编**编写的贪吃蛇游戏，专为DOS设计，但也有无需BIOS、引导程序或操作系统的版本。游戏仅占用**56字节**，是目前最小的贪吃蛇游戏。开发者受“能否将整个游戏放入二维码？”启发，旨在创造最小的“有趣”游戏。游戏还支持在线演示，并可通过简单的构建流程在本地运行。
 
 ---
