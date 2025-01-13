@@ -26,7 +26,7 @@ tags:
 <small>🔗 [eieio.games](https://eieio.games/blog/bad-apple-with-regex-in-vim/): Bad Apple but it's 6,500 regexes that I search for in Vim</small>
 
 
-| 🔥🔥: 410 \| 💬: [44](https://news.ycombinator.com/item?id=42674116) \| 🗓️ 2025-01-12
+| 🔥🔥: 423 \| 💬: [44](https://news.ycombinator.com/item?id=42674116) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [valatka.dev](https://valatka.dev/2025/01/12/on-killer-uv-feature.html): Uv's killer feature is making ad-hoc environments easy</small>
 
 
-| 🔥🔥: 314 \| 💬: [225](https://news.ycombinator.com/item?id=42676432) \| 🗓️ 2025-01-12
+| 🔥🔥: 331 \| 💬: [241](https://news.ycombinator.com/item?id=42676432) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -50,7 +50,7 @@ uv 的核心优势并非性能或与 Python 的严格对齐，而是其**简化�
 <small>🔗 [lukaspetersson.com](https://lukaspetersson.com/blog/2025/bitter-vertical/): AI founders will learn the bitter lesson</small>
 
 
-| 🔥🔥: 306 \| 💬: [243](https://news.ycombinator.com/item?id=42672790) \| 🗓️ 2025-01-12
+| 🔥🔥: 307 \| 💬: [243](https://news.ycombinator.com/item?id=42672790) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -62,7 +62,7 @@ AI 历史表明，**通用方法**总是胜出。当前 AI 应用领域的创始
 <small>🔗 [labs.watchtowr.com](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/): Backdooring Your Backdoors – Another $20 Domain, More Governments</small>
 
 
-| 🔥🔥: 305 \| 💬: [23](https://news.ycombinator.com/item?id=42674455) \| 🗓️ 2025-01-12
+| 🔥🔥: 307 \| 💬: [23](https://news.ycombinator.com/item?id=42674455) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -82,7 +82,19 @@ WordPress联合创始人Matt Mullenweg突然解散了**可持续发展团队**�
 
 ---
 
-## <a name="6"></a>6. Rust 不仅仅是性能的亮点 
+## <a name="6"></a>6. Tabby：自托管的AI编程助手 
+<small>🔗 [github.com](https://github.com/TabbyML/tabby): Tabby: Self-hosted AI coding assistant</small>
+
+
+| 🔥🔥: 186 \| 💬: [52](https://news.ycombinator.com/item?id=42675725) \| 🗓️ 2025-01-12
+
+
+<br />
+Tabby是一款**自托管的AI编程助手**，提供开源且本地化的替代方案，类似于GitHub Copilot。它支持**消费级GPU**，无需依赖数据库或云服务，并具备**OpenAPI接口**，易于与现有基础设施集成。Tabby还支持多种IDE插件，如VSCode、Vim和IntelliJ，并持续更新功能，如代码补全、团队管理和企业级升级。
+
+---
+
+## <a name="7"></a>7. Rust 不仅仅是性能的亮点 
 <small>🔗 [ntietz.com](https://ntietz.com/blog/great-things-about-rust-beyond-perf/): Great things about Rust that aren't just performance</small>
 
 
@@ -94,47 +106,11 @@ Rust 不仅以高性能著称，其**类型系统**的**表达力**和**安全�
 
 ---
 
-## <a name="7"></a>7. Tabby：自托管的AI编程助手 
-<small>🔗 [github.com](https://github.com/TabbyML/tabby): Tabby: Self-hosted AI coding assistant</small>
-
-
-| 🔥🔥: 178 \| 💬: [45](https://news.ycombinator.com/item?id=42675725) \| 🗓️ 2025-01-12
-
-
-<br />
-Tabby是一款**自托管的AI编程助手**，提供开源且本地化的替代方案，类似于GitHub Copilot。它支持**消费级GPU**，无需依赖数据库或云服务，并具备**OpenAPI接口**，易于与现有基础设施集成。Tabby还支持多种IDE插件，如VSCode、Vim和IntelliJ，并持续更新功能，如代码补全、团队管理和企业级升级。
-
----
-
-## <a name="8"></a>8. 我在Linux控制台度过的18年 
-<small>🔗 [eugene-andrienko.com](https://eugene-andrienko.com/en/it/2024/01/02/life-in-console): I spent 18 years in the Linux console</small>
-
-
-| 🔥🔥: 173 \| 💬: [122](https://news.ycombinator.com/item?id=42674153) \| 🗓️ 2025-01-12
-
-
-<br />
-本文讲述了作者从早期在无网络环境下学习**Linux**的经历，到后来在大学和工作中的成长。作者通过书籍、命令行和源代码自学，掌握了系统编程和**正则表达式**等技能，并逐渐形成了对**控制台工具**的依赖。这段经历不仅塑造了他的技术能力，也让他对Linux系统有了深刻的理解。
-
----
-
-## <a name="9"></a>9. Mac Mini G4 – 经典 Macintosh 的最佳复古游戏机？ 
-<small>🔗 [xtof.info](https://www.xtof.info/MacMiniG4-the-best-classic-macintosh-for-retrogaming.html): Mac Mini G4 – The best « classic » Macintosh for retro-gaming?</small>
-
-
-| 🔥🔥: 156 \| 💬: [79](https://news.ycombinator.com/item?id=42674385) \| 🗓️ 2025-01-12
-
-
-<br />
-Mac Mini G4 是苹果最后一款搭载 **PowerPC G4** 处理器的电脑，因其小巧的体积和强大的性能，成为运行 2000 年前经典 Mac 游戏的理想选择。通过社区改造，它支持 **Mac OS 9**，使其能够流畅运行大量老游戏。G4 处理器的 **Altivec** 技术进一步提升了多媒体处理能力，使其在复古游戏领域表现卓越。
-
----
-
-## <a name="10"></a>10. 我删除了我的社交媒体账户 
+## <a name="8"></a>8. 我删除了我的社交媒体账户 
 <small>🔗 [asylumsquare.com](https://asylumsquare.com/backstage/2025-01-12/why-i-deleted-my-social-media-accounts): I deleted my social media accounts</small>
 
 
-| 🔥🔥: 149 \| 💬: [178](https://news.ycombinator.com/item?id=42677587) \| 🗓️ 2025-01-12
+| 🔥🔥: 179 \| 💬: [208](https://news.ycombinator.com/item?id=42677587) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -142,11 +118,35 @@ Mac Mini G4 是苹果最后一款搭载 **PowerPC G4** 处理器的电脑，因�
 
 ---
 
+## <a name="9"></a>9. 我在Linux控制台度过的18年 
+<small>🔗 [eugene-andrienko.com](https://eugene-andrienko.com/en/it/2024/01/02/life-in-console): I spent 18 years in the Linux console</small>
+
+
+| 🔥🔥: 176 \| 💬: [122](https://news.ycombinator.com/item?id=42674153) \| 🗓️ 2025-01-12
+
+
+<br />
+本文讲述了作者从早期在无网络环境下学习**Linux**的经历，到后来在大学和工作中的成长。作者通过书籍、命令行和源代码自学，掌握了系统编程和**正则表达式**等技能，并逐渐形成了对**控制台工具**的依赖。这段经历不仅塑造了他的技术能力，也让他对Linux系统有了深刻的理解。
+
+---
+
+## <a name="10"></a>10. Mac Mini G4 – 经典 Macintosh 的最佳复古游戏机？ 
+<small>🔗 [xtof.info](https://www.xtof.info/MacMiniG4-the-best-classic-macintosh-for-retrogaming.html): Mac Mini G4 – The best « classic » Macintosh for retro-gaming?</small>
+
+
+| 🔥🔥: 162 \| 💬: [85](https://news.ycombinator.com/item?id=42674385) \| 🗓️ 2025-01-12
+
+
+<br />
+Mac Mini G4 是苹果最后一款搭载 **PowerPC G4** 处理器的电脑，因其小巧的体积和强大的性能，成为运行 2000 年前经典 Mac 游戏的理想选择。通过社区改造，它支持 **Mac OS 9**，使其能够流畅运行大量老游戏。G4 处理器的 **Altivec** 技术进一步提升了多媒体处理能力，使其在复古游戏领域表现卓越。
+
+---
+
 ## <a name="11"></a>11. 扎克伯格批准在LibGen上训练Llama 
 <small>🔗 [storage.courtlistener.com](https://storage.courtlistener.com/recap/gov.uscourts.cand.415175/gov.uscourts.cand.415175.377.0_1.pdf): Zuckerberg approved training Llama on LibGen [pdf]</small>
 
 
-| 🔥🔥: 141 \| 💬: [169](https://news.ycombinator.com/item?id=42673628) \| 🗓️ 2025-01-12
+| 🔥🔥: 141 \| 💬: [171](https://news.ycombinator.com/item?id=42673628) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -154,23 +154,11 @@ Mac Mini G4 是苹果最后一款搭载 **PowerPC G4** 处理器的电脑，因�
 
 ---
 
-## <a name="12"></a>12. 2025年最佳笔具推荐 
-<small>🔗 [jetpens.com](https://www.jetpens.com/blog/The-46-Best-Pens-for-2025-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974): Best Pens for 2025</small>
-
-
-| 🔥🔥: 134 \| 💬: [68](https://news.ycombinator.com/item?id=42676274) \| 🗓️ 2025-01-12
-
-
-<br />
-本文介绍了**JetPens**提供的各类笔具，包括**钢笔**、**圆珠笔**、**凝胶笔**、**多色笔**等，涵盖多种品牌和用途。还推荐了**2025年最佳钢笔**、**铅笔**和**文具配件**，适合不同需求的用户。文章还提供了详细的购买指南和使用建议，帮助用户选择最适合的笔具。
-
----
-
-## <a name="13"></a>13. 让马里布燃烧的理由（1995） 
+## <a name="12"></a>12. 让马里布燃烧的理由（1995） 
 <small>🔗 [longreads.com](https://longreads.com/2018/12/04/the-case-for-letting-malibu-burn/): The case for letting Malibu burn (1995)</small>
 
 
-| 🔥🔥: 132 \| 💬: [166](https://news.ycombinator.com/item?id=42675274) \| 🗓️ 2025-01-12
+| 🔥🔥: 138 \| 💬: [174](https://news.ycombinator.com/item?id=42675274) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -178,11 +166,35 @@ Mac Mini G4 是苹果最后一款搭载 **PowerPC G4** 处理器的电脑，因�
 
 ---
 
-## <a name="14"></a>14. 重归野性自我 
+## <a name="13"></a>13. 2025年最佳笔具推荐 
+<small>🔗 [jetpens.com](https://www.jetpens.com/blog/The-46-Best-Pens-for-2025-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974): Best Pens for 2025</small>
+
+
+| 🔥🔥: 135 \| 💬: [71](https://news.ycombinator.com/item?id=42676274) \| 🗓️ 2025-01-12
+
+
+<br />
+本文介绍了**JetPens**提供的各类笔具，包括**钢笔**、**圆珠笔**、**凝胶笔**、**多色笔**等，涵盖多种品牌和用途。还推荐了**2025年最佳钢笔**、**铅笔**和**文具配件**，适合不同需求的用户。文章还提供了详细的购买指南和使用建议，帮助用户选择最适合的笔具。
+
+---
+
+## <a name="14"></a>14. Show HN: 《毁灭战士》(1993) 嵌入 PDF 文件 
+<small>🔗 [doompdf.pages.dev](https://doompdf.pages.dev/doom.pdf): Show HN: Doom (1993) in a PDF</small>
+
+
+| 🔥🔥: 132 \| 💬: [22](https://news.ycombinator.com/item?id=42678754) \| 🗓️ 2025-01-12
+
+
+<br />
+该内容展示了一个将经典游戏《毁灭战士》(1993) 嵌入 PDF 文件的项目。通过 **JavaScript 代码** 和 **PDF 表单** 的交互，用户可以在 PDF 中直接运行游戏。项目利用了 **Emscripten** 将游戏编译为 WebAssembly，并嵌入到 PDF 中，展示了 PDF 文件的强大功能。
+
+---
+
+## <a name="15"></a>15. 重归野性自我 
 <small>🔗 [worldsensorium.com](https://worldsensorium.com/rewilding-the-self/): Rewilding the Self</small>
 
 
-| 🔥🔥: 124 \| 💬: [51](https://news.ycombinator.com/item?id=42672758) \| 🗓️ 2025-01-12
+| 🔥🔥: 126 \| 💬: [53](https://news.ycombinator.com/item?id=42672758) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -190,11 +202,23 @@ Mac Mini G4 是苹果最后一款搭载 **PowerPC G4** 处理器的电脑，因�
 
 ---
 
-## <a name="15"></a>15. 我永远不需要再买新电脑了 
+## <a name="16"></a>16. Qubes OS：一个相对安全的操作系统 
+<small>🔗 [qubes-os.org](https://www.qubes-os.org/): Qubes OS: A reasonably secure operating system</small>
+
+
+| 🔥🔥: 115 \| 💬: [55](https://news.ycombinator.com/item?id=42677608) \| 🗓️ 2025-01-12
+
+
+<br />
+Qubes OS 是一个基于 **Xen 虚拟机**的操作系统，提供**强大的隔离功能**，确保不同任务之间的安全性。它支持多种操作系统环境，并集成了 **Whonix** 以实现匿名上网。Qubes OS 被广泛用于高安全需求场景，如记者工作站和远程服务器访问。
+
+---
+
+## <a name="17"></a>17. 我永远不需要再买新电脑了 
 <small>🔗 [82mhz.net](https://82mhz.net/posts/2025/01/i-will-never-need-to-buy-a-new-computer-again/): I will never need to buy a new computer again</small>
 
 
-| 🔥🔥: 112 \| 💬: [147](https://news.ycombinator.com/item?id=42674888) \| 🗓️ 2025-01-12
+| 🔥🔥: 113 \| 💬: [147](https://news.ycombinator.com/item?id=42674888) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -202,7 +226,19 @@ Mac Mini G4 是苹果最后一款搭载 **PowerPC G4** 处理器的电脑，因�
 
 ---
 
-## <a name="16"></a>16. HMD Key – 轻量级、经济实惠的智能手机 
+## <a name="18"></a>18. 从ASCII到ASIC：将donut.c移植到一小片硅片上 
+<small>🔗 [a1k0n.net](https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html): From ASCII to ASIC: Porting donut.c to a tiny slice of silicon</small>
+
+
+| 🔥🔥: 110 \| 💬: [14](https://news.ycombinator.com/item?id=42675208) \| 🗓️ 2025-01-12
+
+
+<br />
+作者将经典的**donut.c**程序从ASCII艺术演变为硬件实现，使用**CORDIC算法**和**移位加法**在硅片上实时渲染3D甜甜圈。该设计通过**Tiny Tapeout 8**项目制造，仅占用0.8%的芯片面积，展示了如何在极简硬件上实现复杂图形渲染。
+
+---
+
+## <a name="19"></a>19. HMD Key – 轻量级、经济实惠的智能手机 
 <small>🔗 [hmd.com](https://www.hmd.com/en_int/press/hmd-key-press-release): HMD Key – A lightweight, affordable smartphone</small>
 
 
@@ -214,50 +250,14 @@ HMD Key 是一款**轻量级、经济实惠**的智能手机，售价仅为 £59
 
 ---
 
-## <a name="17"></a>17. Qubes OS：一个相对安全的操作系统 
-<small>🔗 [qubes-os.org](https://www.qubes-os.org/): Qubes OS: A reasonably secure operating system</small>
-
-
-| 🔥🔥: 109 \| 💬: [52](https://news.ycombinator.com/item?id=42677608) \| 🗓️ 2025-01-12
-
-
-<br />
-Qubes OS 是一个基于 **Xen 虚拟机**的操作系统，提供**强大的隔离功能**，确保不同任务之间的安全性。它支持多种操作系统环境，并集成了 **Whonix** 以实现匿名上网。Qubes OS 被广泛用于高安全需求场景，如记者工作站和远程服务器访问。
-
----
-
-## <a name="18"></a>18. 从ASCII到ASIC：将donut.c移植到一小片硅片上 
-<small>🔗 [a1k0n.net](https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html): From ASCII to ASIC: Porting donut.c to a tiny slice of silicon</small>
-
-
-| 🔥🔥: 107 \| 💬: [14](https://news.ycombinator.com/item?id=42675208) \| 🗓️ 2025-01-12
-
-
-<br />
-作者将经典的**donut.c**程序从ASCII艺术演变为硬件实现，使用**CORDIC算法**和**移位加法**在硅片上实时渲染3D甜甜圈。该设计通过**Tiny Tapeout 8**项目制造，仅占用0.8%的芯片面积，展示了如何在极简硬件上实现复杂图形渲染。
-
----
-
-## <a name="19"></a>19. 怀念20年前“友好”网络世界的错误 
+## <a name="20"></a>20. 怀念20年前“友好”网络世界的错误 
 <small>🔗 [english.elpais.com](https://english.elpais.com/lifestyle/2025-01-07/the-internet-hasnt-made-us-bad-we-were-already-like-that-the-mistake-of-yearning-for-the-friendly-online-world-of-20-years-ago.html): The mistake of yearning for the 'friendly' online world of 20 years ago</small>
 
 
-| 🔥🔥: 103 \| 💬: [114](https://news.ycombinator.com/item?id=42673596) \| 🗓️ 2025-01-12
+| 🔥🔥: 109 \| 💬: [122](https://news.ycombinator.com/item?id=42673596) \| 🗓️ 2025-01-12
 
 
 <br />
 近年来，Y2K美学和**Flow 2K**复兴引发了对20年前互联网的怀旧情绪，许多人认为那时的网络更友好、有趣。然而，这种怀旧忽略了早期网络中的**性别歧视**和**种族主义**问题。尽管今天的互联网被大公司主导，充满仇恨和数据剥削，但仍有希望。关键在于**数字主权**和个体行动，而非沉溺于怀旧或技术恐惧。
-
----
-
-## <a name="20"></a>20. 56字节的贪吃蛇游戏 
-<small>🔗 [github.com](https://github.com/donno2048/snake): Snake Game in 56 Bytes</small>
-
-
-| 🔥🔥: 101 \| 💬: [10](https://news.ycombinator.com/item?id=42675882) \| 🗓️ 2025-01-12
-
-
-<br />
-这是一个用**x86汇编**编写的贪吃蛇游戏，专为DOS设计，但也有无需BIOS、引导程序或操作系统的版本。游戏仅占用**56字节**，是目前最小的贪吃蛇游戏。开发者受“能否将整个游戏放入二维码？”启发，旨在创造最小的“有趣”游戏。游戏还支持在线演示，并可通过简单的构建流程在本地运行。
 
 ---
