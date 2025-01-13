@@ -26,7 +26,7 @@ tags:
 <small>🔗 [eieio.games](https://eieio.games/blog/bad-apple-with-regex-in-vim/): Bad Apple but it's 6,500 regexes that I search for in Vim</small>
 
 
-| 🔥🔥: 432 \| 💬: [45](https://news.ycombinator.com/item?id=42674116) \| 🗓️ 2025-01-12
+| 🔥🔥: 443 \| 💬: [47](https://news.ycombinator.com/item?id=42674116) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [valatka.dev](https://valatka.dev/2025/01/12/on-killer-uv-feature.html): Uv's killer feature is making ad-hoc environments easy</small>
 
 
-| 🔥🔥: 350 \| 💬: [264](https://news.ycombinator.com/item?id=42676432) \| 🗓️ 2025-01-12
+| 🔥🔥: 369 \| 💬: [280](https://news.ycombinator.com/item?id=42676432) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -50,7 +50,7 @@ uv 的核心优势并非性能或与 Python 的严格对齐，而是其**简化�
 <small>🔗 [labs.watchtowr.com](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/): Backdooring Your Backdoors – Another $20 Domain, More Governments</small>
 
 
-| 🔥🔥: 315 \| 💬: [24](https://news.ycombinator.com/item?id=42674455) \| 🗓️ 2025-01-12
+| 🔥🔥: 327 \| 💬: [26](https://news.ycombinator.com/item?id=42674455) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -62,7 +62,7 @@ uv 的核心优势并非性能或与 Python 的严格对齐，而是其**简化�
 <small>🔗 [lukaspetersson.com](https://lukaspetersson.com/blog/2025/bitter-vertical/): AI founders will learn the bitter lesson</small>
 
 
-| 🔥🔥: 311 \| 💬: [248](https://news.ycombinator.com/item?id=42672790) \| 🗓️ 2025-01-12
+| 🔥🔥: 312 \| 💬: [251](https://news.ycombinator.com/item?id=42672790) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -74,7 +74,7 @@ AI 历史表明，**通用方法**总是胜出。当前 AI 应用领域的创始
 <small>🔗 [asylumsquare.com](https://asylumsquare.com/backstage/2025-01-12/why-i-deleted-my-social-media-accounts): I deleted my social media accounts</small>
 
 
-| 🔥🔥: 204 \| 💬: [222](https://news.ycombinator.com/item?id=42677587) \| 🗓️ 2025-01-12
+| 🔥🔥: 239 \| 💬: [247](https://news.ycombinator.com/item?id=42677587) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -82,23 +82,11 @@ AI 历史表明，**通用方法**总是胜出。当前 AI 应用领域的创始
 
 ---
 
-## <a name="6"></a>6. Mullenweg解散WordPress可持续发展团队，引发强烈反对 
-<small>🔗 [therepository.email](https://www.therepository.email/mullenweg-shuts-down-wordpress-sustainability-team-igniting-backlash): Mullenweg Shuts Down WordPress Sustainability Team, Igniting Backlash</small>
-
-
-| 🔥🔥: 198 \| 💬: [153](https://news.ycombinator.com/item?id=42672675) \| 🗓️ 2025-01-12
-
-
-<br />
-WordPress联合创始人Matt Mullenweg突然解散了**可持续发展团队**，引发社区强烈反弹。团队代表Thijs Buijs因Mullenweg在Reddit上制造“2025年WordPress戏剧”的帖子而辞职，随后Mullenweg宣布解散团队，称其“未达预期”。此举被知名科技记者Kara Swisher批评为“**极其恶劣的行为**”，并引发广泛批评。团队曾发布《可持续活动手册》并开发插件，致力于推动WordPress的**社会、经济和环境可持续性**。
-
----
-
-## <a name="7"></a>7. Tabby：自托管的AI编程助手 
+## <a name="6"></a>6. Tabby：自托管的AI编程助手 
 <small>🔗 [github.com](https://github.com/TabbyML/tabby): Tabby: Self-hosted AI coding assistant</small>
 
 
-| 🔥🔥: 198 \| 💬: [58](https://news.ycombinator.com/item?id=42675725) \| 🗓️ 2025-01-12
+| 🔥🔥: 215 \| 💬: [68](https://news.ycombinator.com/item?id=42675725) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -106,11 +94,23 @@ Tabby是一款**自托管的AI编程助手**，提供开源且本地化的替代
 
 ---
 
+## <a name="7"></a>7. Mullenweg解散WordPress可持续发展团队，引发强烈反对 
+<small>🔗 [therepository.email](https://www.therepository.email/mullenweg-shuts-down-wordpress-sustainability-team-igniting-backlash): Mullenweg Shuts Down WordPress Sustainability Team, Igniting Backlash</small>
+
+
+| 🔥🔥: 201 \| 💬: [153](https://news.ycombinator.com/item?id=42672675) \| 🗓️ 2025-01-12
+
+
+<br />
+WordPress联合创始人Matt Mullenweg突然解散了**可持续发展团队**，引发社区强烈反弹。团队代表Thijs Buijs因Mullenweg在Reddit上制造“2025年WordPress戏剧”的帖子而辞职，随后Mullenweg宣布解散团队，称其“未达预期”。此举被知名科技记者Kara Swisher批评为“**极其恶劣的行为**”，并引发广泛批评。团队曾发布《可持续活动手册》并开发插件，致力于推动WordPress的**社会、经济和环境可持续性**。
+
+---
+
 ## <a name="8"></a>8. Rust 不仅仅是性能的亮点 
 <small>🔗 [ntietz.com](https://ntietz.com/blog/great-things-about-rust-beyond-perf/): Great things about Rust that aren't just performance</small>
 
 
-| 🔥🔥: 184 \| 💬: [208](https://news.ycombinator.com/item?id=42675219) \| 🗓️ 2025-01-12
+| 🔥🔥: 184 \| 💬: [209](https://news.ycombinator.com/item?id=42675219) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -118,35 +118,11 @@ Rust 不仅以高性能著称，其**类型系统**的**表达力**和**安全�
 
 ---
 
-## <a name="9"></a>9. 我在Linux控制台度过的18年 
-<small>🔗 [eugene-andrienko.com](https://eugene-andrienko.com/en/it/2024/01/02/life-in-console): I spent 18 years in the Linux console</small>
-
-
-| 🔥🔥: 180 \| 💬: [124](https://news.ycombinator.com/item?id=42674153) \| 🗓️ 2025-01-12
-
-
-<br />
-本文讲述了作者从早期在无网络环境下学习**Linux**的经历，到后来在大学和工作中的成长。作者通过书籍、命令行和源代码自学，掌握了系统编程和**正则表达式**等技能，并逐渐形成了对**控制台工具**的依赖。这段经历不仅塑造了他的技术能力，也让他对Linux系统有了深刻的理解。
-
----
-
-## <a name="10"></a>10. Mac Mini G4 – 经典 Macintosh 的最佳复古游戏机？ 
-<small>🔗 [xtof.info](https://www.xtof.info/MacMiniG4-the-best-classic-macintosh-for-retrogaming.html): Mac Mini G4 – The best « classic » Macintosh for retro-gaming?</small>
-
-
-| 🔥🔥: 169 \| 💬: [90](https://news.ycombinator.com/item?id=42674385) \| 🗓️ 2025-01-12
-
-
-<br />
-Mac Mini G4 是苹果最后一款搭载 **PowerPC G4** 处理器的电脑，因其小巧的体积和强大的性能，成为运行 2000 年前经典 Mac 游戏的理想选择。通过社区改造，它支持 **Mac OS 9**，使其能够流畅运行大量老游戏。G4 处理器的 **Altivec** 技术进一步提升了多媒体处理能力，使其在复古游戏领域表现卓越。
-
----
-
-## <a name="11"></a>11. Show HN: 《毁灭战士》(1993) 嵌入 PDF 文件 
+## <a name="9"></a>9. Show HN: 《毁灭战士》(1993) 嵌入 PDF 文件 
 <small>🔗 [doompdf.pages.dev](https://doompdf.pages.dev/doom.pdf): Show HN: Doom (1993) in a PDF</small>
 
 
-| 🔥🔥: 160 \| 💬: [25](https://news.ycombinator.com/item?id=42678754) \| 🗓️ 2025-01-12
+| 🔥🔥: 183 \| 💬: [33](https://news.ycombinator.com/item?id=42678754) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -154,11 +130,35 @@ Mac Mini G4 是苹果最后一款搭载 **PowerPC G4** 处理器的电脑，因�
 
 ---
 
+## <a name="10"></a>10. 我在Linux控制台度过的18年 
+<small>🔗 [eugene-andrienko.com](https://eugene-andrienko.com/en/it/2024/01/02/life-in-console): I spent 18 years in the Linux console</small>
+
+
+| 🔥🔥: 180 \| 💬: [126](https://news.ycombinator.com/item?id=42674153) \| 🗓️ 2025-01-12
+
+
+<br />
+本文讲述了作者从早期在无网络环境下学习**Linux**的经历，到后来在大学和工作中的成长。作者通过书籍、命令行和源代码自学，掌握了系统编程和**正则表达式**等技能，并逐渐形成了对**控制台工具**的依赖。这段经历不仅塑造了他的技术能力，也让他对Linux系统有了深刻的理解。
+
+---
+
+## <a name="11"></a>11. Mac Mini G4 – 经典 Macintosh 的最佳复古游戏机？ 
+<small>🔗 [xtof.info](https://www.xtof.info/MacMiniG4-the-best-classic-macintosh-for-retrogaming.html): Mac Mini G4 – The best « classic » Macintosh for retro-gaming?</small>
+
+
+| 🔥🔥: 177 \| 💬: [93](https://news.ycombinator.com/item?id=42674385) \| 🗓️ 2025-01-12
+
+
+<br />
+Mac Mini G4 是苹果最后一款搭载 **PowerPC G4** 处理器的电脑，因其小巧的体积和强大的性能，成为运行 2000 年前经典 Mac 游戏的理想选择。通过社区改造，它支持 **Mac OS 9**，使其能够流畅运行大量老游戏。G4 处理器的 **Altivec** 技术进一步提升了多媒体处理能力，使其在复古游戏领域表现卓越。
+
+---
+
 ## <a name="12"></a>12. 让马里布燃烧的理由（1995） 
 <small>🔗 [longreads.com](https://longreads.com/2018/12/04/the-case-for-letting-malibu-burn/): The case for letting Malibu burn (1995)</small>
 
 
-| 🔥🔥: 142 \| 💬: [176](https://news.ycombinator.com/item?id=42675274) \| 🗓️ 2025-01-12
+| 🔥🔥: 148 \| 💬: [185](https://news.ycombinator.com/item?id=42675274) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -182,7 +182,7 @@ Mac Mini G4 是苹果最后一款搭载 **PowerPC G4** 处理器的电脑，因�
 <small>🔗 [jetpens.com](https://www.jetpens.com/blog/The-46-Best-Pens-for-2025-Gel-Ballpoint-Rollerball-and-Fountain-Pens/pt/974): Best Pens for 2025</small>
 
 
-| 🔥🔥: 135 \| 💬: [72](https://news.ycombinator.com/item?id=42676274) \| 🗓️ 2025-01-12
+| 🔥🔥: 136 \| 💬: [72](https://news.ycombinator.com/item?id=42676274) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -190,23 +190,11 @@ Mac Mini G4 是苹果最后一款搭载 **PowerPC G4** 处理器的电脑，因�
 
 ---
 
-## <a name="15"></a>15. 重归野性自我 
-<small>🔗 [worldsensorium.com](https://worldsensorium.com/rewilding-the-self/): Rewilding the Self</small>
-
-
-| 🔥🔥: 128 \| 💬: [53](https://news.ycombinator.com/item?id=42672758) \| 🗓️ 2025-01-12
-
-
-<br />
-人类与自然的联系正在逐渐消失，许多人甚至忽视了自然对生存的重要性。**重归野性**不仅指恢复生态系统的自然状态，也意味着重新连接人与自然的感官体验。通过沉浸于自然、种植本地植物或参与城市园艺，我们可以重新培养对生态的感知与责任感。**重归野性**呼吁集体行动，保护生物多样性，重建与自然的和谐关系。
-
----
-
-## <a name="16"></a>16. Qubes OS：一个相对安全的操作系统 
+## <a name="15"></a>15. Qubes OS：一个相对安全的操作系统 
 <small>🔗 [qubes-os.org](https://www.qubes-os.org/): Qubes OS: A reasonably secure operating system</small>
 
 
-| 🔥🔥: 123 \| 💬: [57](https://news.ycombinator.com/item?id=42677608) \| 🗓️ 2025-01-12
+| 🔥🔥: 133 \| 💬: [60](https://news.ycombinator.com/item?id=42677608) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -214,23 +202,23 @@ Qubes OS 是一个基于 **Xen 虚拟机**的操作系统，提供**强大的隔
 
 ---
 
-## <a name="17"></a>17. 我永远不需要再买新电脑了 
-<small>🔗 [82mhz.net](https://82mhz.net/posts/2025/01/i-will-never-need-to-buy-a-new-computer-again/): I will never need to buy a new computer again</small>
+## <a name="16"></a>16. 重归野性自我 
+<small>🔗 [worldsensorium.com](https://worldsensorium.com/rewilding-the-self/): Rewilding the Self</small>
 
 
-| 🔥🔥: 115 \| 💬: [147](https://news.ycombinator.com/item?id=42674888) \| 🗓️ 2025-01-12
+| 🔥🔥: 129 \| 💬: [54](https://news.ycombinator.com/item?id=42672758) \| 🗓️ 2025-01-12
 
 
 <br />
-作者回顾了90年代和2000年代电脑硬件飞速发展的时代，指出如今**硬件性能**已足够强大，普通用户不再需要频繁升级。他以自己2011年购买的i5 2500k和2019年升级的Ryzen 5 3600为例，说明即使旧设备仍能满足需求。**未来**，他计划继续使用现有设备，直到损坏或无法满足需求时，再考虑从二手市场购买旧硬件。
+人类与自然的联系正在逐渐消失，许多人甚至忽视了自然对生存的重要性。**重归野性**不仅指恢复生态系统的自然状态，也意味着重新连接人与自然的感官体验。通过沉浸于自然、种植本地植物或参与城市园艺，我们可以重新培养对生态的感知与责任感。**重归野性**呼吁集体行动，保护生物多样性，重建与自然的和谐关系。
 
 ---
 
-## <a name="18"></a>18. 怀念20年前“友好”网络世界的错误 
+## <a name="17"></a>17. 怀念20年前“友好”网络世界的错误 
 <small>🔗 [english.elpais.com](https://english.elpais.com/lifestyle/2025-01-07/the-internet-hasnt-made-us-bad-we-were-already-like-that-the-mistake-of-yearning-for-the-friendly-online-world-of-20-years-ago.html): The mistake of yearning for the 'friendly' online world of 20 years ago</small>
 
 
-| 🔥🔥: 114 \| 💬: [131](https://news.ycombinator.com/item?id=42673596) \| 🗓️ 2025-01-12
+| 🔥🔥: 120 \| 💬: [138](https://news.ycombinator.com/item?id=42673596) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -238,11 +226,23 @@ Qubes OS 是一个基于 **Xen 虚拟机**的操作系统，提供**强大的隔
 
 ---
 
+## <a name="18"></a>18. 我永远不需要再买新电脑了 
+<small>🔗 [82mhz.net](https://82mhz.net/posts/2025/01/i-will-never-need-to-buy-a-new-computer-again/): I will never need to buy a new computer again</small>
+
+
+| 🔥🔥: 118 \| 💬: [152](https://news.ycombinator.com/item?id=42674888) \| 🗓️ 2025-01-12
+
+
+<br />
+作者回顾了90年代和2000年代电脑硬件飞速发展的时代，指出如今**硬件性能**已足够强大，普通用户不再需要频繁升级。他以自己2011年购买的i5 2500k和2019年升级的Ryzen 5 3600为例，说明即使旧设备仍能满足需求。**未来**，他计划继续使用现有设备，直到损坏或无法满足需求时，再考虑从二手市场购买旧硬件。
+
+---
+
 ## <a name="19"></a>19. 从ASCII到ASIC：将donut.c移植到一小片硅片上 
 <small>🔗 [a1k0n.net](https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html): From ASCII to ASIC: Porting donut.c to a tiny slice of silicon</small>
 
 
-| 🔥🔥: 111 \| 💬: [15](https://news.ycombinator.com/item?id=42675208) \| 🗓️ 2025-01-12
+| 🔥🔥: 116 \| 💬: [18](https://news.ycombinator.com/item?id=42675208) \| 🗓️ 2025-01-12
 
 
 <br />
@@ -250,14 +250,14 @@ Qubes OS 是一个基于 **Xen 虚拟机**的操作系统，提供**强大的隔
 
 ---
 
-## <a name="20"></a>20. HMD Key – 轻量级、经济实惠的智能手机 
-<small>🔗 [hmd.com](https://www.hmd.com/en_int/press/hmd-key-press-release): HMD Key – A lightweight, affordable smartphone</small>
+## <a name="20"></a>20. 如果我们拥有最好的产品工程组织，它会是什么样子？ 
+<small>🔗 [jamesshore.com](https://www.jamesshore.com/v2/blog/2025/the-best-product-engineering-org-in-the-world): If we had the best product engineering organization, what would it look like?</small>
 
 
-| 🔥🔥: 110 \| 💬: [105](https://news.ycombinator.com/item?id=42673090) \| 🗓️ 2025-01-12
+| 🔥🔥: 115 \| 💬: [61](https://news.ycombinator.com/item?id=42676123) \| 🗓️ 2025-01-12
 
 
 <br />
-HMD Key 是一款**轻量级、经济实惠**的智能手机，售价仅为 £59，适用于日常使用。搭载 **Android™ 14（Go 版）**，提供流畅体验，配备多种相机模式，支持虚拟内存扩展，确保多任务处理顺畅。设备还提供**两年季度安全更新**，电池续航长达 77 小时，适合预算有限的用户。
+在2025年东京Scrum Gathering会议上，演讲者分享了如何应对CEO要求衡量工程生产力的挑战。通过团队讨论，他们定义了六个关键领域：**人员**、**内部质量**、**用户喜爱度**、**可见性**、**敏捷性**和**盈利能力**。这些领域旨在推动持续改进，而非追求完美。演讲者强调了团队协作、**同行领导力**和**所有权**的重要性，并分享了如何通过改变组织文化来实现这些目标。
 
 ---
