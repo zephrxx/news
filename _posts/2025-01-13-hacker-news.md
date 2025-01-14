@@ -26,7 +26,7 @@ tags:
 <small>🔗 [paulgraham.com](https://paulgraham.com/woke.html): The Origins of Wokeness</small>
 
 
-| 🔥🔥: 576 \| 💬: [1487](https://news.ycombinator.com/item?id=42682305) \| 🗓️ 2025-01-13
+| 🔥🔥: 602 \| 💬: [1528](https://news.ycombinator.com/item?id=42682305) \| 🗓️ 2025-01-13
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [anderegg.ca](https://anderegg.ca/2025/01/11/wordpress-is-in-trouble): WordPress Is in Trouble</small>
 
 
-| 🔥🔥: 563 \| 💬: [348](https://news.ycombinator.com/item?id=42687121) \| 🗓️ 2025-01-13
+| 🔥🔥: 567 \| 💬: [351](https://news.ycombinator.com/item?id=42687121) \| 🗓️ 2025-01-13
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [dwheeler.com](https://dwheeler.com/essays/debugging-agans.html): Debugging: Indispensable rules for finding even the most elusive problems (2004)</small>
 
 
-| 🔥🔥: 426 \| 💬: [180](https://news.ycombinator.com/item?id=42682602) \| 🗓️ 2025-01-13
+| 🔥🔥: 433 \| 💬: [189](https://news.ycombinator.com/item?id=42682602) \| 🗓️ 2025-01-13
 
 
 <br />
@@ -62,7 +62,7 @@ David J. Agans的《调试》一书为软件和硬件开发者提供了九条核
 <small>🔗 [latent.space](https://www.latent.space/p/2025-papers): AI Engineer Reading List</small>
 
 
-| 🔥🔥: 262 \| 💬: [40](https://news.ycombinator.com/item?id=42686457) \| 🗓️ 2025-01-13
+| 🔥🔥: 276 \| 💬: [40](https://news.ycombinator.com/item?id=42686457) \| 🗓️ 2025-01-13
 
 
 <br />
@@ -74,7 +74,7 @@ David J. Agans的《调试》一书为软件和硬件开发者提供了九条核
 <small>🔗 [githubstatus.com](https://www.githubstatus.com/incidents/qd96yfgvmcf9): GitHub Git Operations Are Down</small>
 
 
-| 🔥🔥: 248 \| 💬: [169](https://news.ycombinator.com/item?id=42691184) \| 🗓️ 2025-01-13
+| 🔥🔥: 270 \| 💬: [182](https://news.ycombinator.com/item?id=42691184) \| 🗓️ 2025-01-13
 
 
 <br />
@@ -86,7 +86,7 @@ David J. Agans的《调试》一书为软件和硬件开发者提供了九条核
 <small>🔗 [theregister.com](https://www.theregister.com/2025/01/13/anexia_vmware_to_kvm_migration/): Euro-cloud provider Anexia moves 12,000 VMs off VMware to homebrew KVM platform</small>
 
 
-| 🔥🔥: 240 \| 💬: [88](https://news.ycombinator.com/item?id=42682671) \| 🗓️ 2025-01-13
+| 🔥🔥: 243 \| 💬: [90](https://news.ycombinator.com/item?id=42682671) \| 🗓️ 2025-01-13
 
 
 <br />
@@ -98,7 +98,7 @@ David J. Agans的《调试》一书为软件和硬件开发者提供了九条核
 <small>🔗 [mitxela.com](https://mitxela.com/projects/fluid-pendant): Fluid Simulation Pendant</small>
 
 
-| 🔥🔥: 212 \| 💬: [26](https://news.ycombinator.com/item?id=42683389) \| 🗓️ 2025-01-13
+| 🔥🔥: 232 \| 💬: [30](https://news.ycombinator.com/item?id=42683389) \| 🗓️ 2025-01-13
 
 
 <br />
@@ -110,7 +110,7 @@ David J. Agans的《调试》一书为软件和硬件开发者提供了九条核
 <small>🔗 [traintimes.org.uk](https://traintimes.org.uk/map/tube/): Live London Underground / bus maps taken down by TfL trademark complaint</small>
 
 
-| 🔥🔥: 208 \| 💬: [79](https://news.ycombinator.com/item?id=42682876) \| 🗓️ 2025-01-13
+| 🔥🔥: 210 \| 💬: [79](https://news.ycombinator.com/item?id=42682876) \| 🗓️ 2025-01-13
 
 
 <br />
@@ -122,7 +122,7 @@ David J. Agans的《调试》一书为软件和硬件开发者提供了九条核
 <small>🔗 [theguardian.com](https://www.theguardian.com/world/2025/jan/13/spain-proposes-100-tax-on-homes-bought-by-non-eu-residents): Spain proposes 100% tax on homes bought by non-EU residents</small>
 
 
-| 🔥🔥: 138 \| 💬: [202](https://news.ycombinator.com/item?id=42690781) \| 🗓️ 2025-01-13
+| 🔥🔥: 143 \| 💬: [206](https://news.ycombinator.com/item?id=42690781) \| 🗓️ 2025-01-13
 
 
 <br />
@@ -130,23 +130,11 @@ David J. Agans的《调试》一书为软件和硬件开发者提供了九条核
 
 ---
 
-## <a name="10"></a>10. 让我们退出X 
-<small>🔗 [helloquitx.com](https://www.helloquitx.com): Let's Quit X</small>
-
-
-| 🔥🔥: 135 \| 💬: [150](https://news.ycombinator.com/item?id=42686362) \| 🗓️ 2025-01-13
-
-
-<br />
-**2025年1月20日**，特朗普就职日，全球多个媒体、组织和公众人物宣布退出X平台（原Twitter），抗议**Elon Musk**接管后平台上的**虚假信息**和偏见内容。参与者呼吁集体迁移至**Mastodon**和**Bluesky**等替代平台，以维护言论自由。HelloQuitX提供工具帮助用户迁移数据，号召大家在1月20日统一行动，抵制X平台。
-
----
-
-## <a name="11"></a>11. 你能在河边等待14272年后完成俄勒冈之旅吗：一项研究 
+## <a name="10"></a>10. 你能在河边等待14272年后完成俄勒冈之旅吗：一项研究 
 <small>🔗 [moral.net.au](https://moral.net.au/writing/2025/01/11/waiting_for_oregon/): Can you complete the Oregon Trail if you wait at river for 14272 years: A study</small>
 
 
-| 🔥🔥: 134 \| 💬: [72](https://news.ycombinator.com/item?id=42682813) \| 🗓️ 2025-01-13
+| 🔥🔥: 140 \| 💬: [72](https://news.ycombinator.com/item?id=42682813) \| 🗓️ 2025-01-13
 
 
 <br />
@@ -154,23 +142,23 @@ Twitch主播**albrot**发现《俄勒冈之旅》游戏中一个**河流穿越**
 
 ---
 
-## <a name="12"></a>12. 《Luck Be a Landlord》或将从Google Play下架 
-<small>🔗 [blog.trampolinetales.com](https://blog.trampolinetales.com/luck-be-a-landlord-might-be-banned-from-google-play-2/): Luck Be a Landlord Might Be Banned from Google Play</small>
+## <a name="11"></a>11. 让我们退出X 
+<small>🔗 [helloquitx.com](https://www.helloquitx.com): Let's Quit X</small>
 
 
-| 🔥🔥: 123 \| 💬: [156](https://news.ycombinator.com/item?id=42683567) \| 🗓️ 2025-01-13
+| 🔥🔥: 136 \| 💬: [151](https://news.ycombinator.com/item?id=42686362) \| 🗓️ 2025-01-13
 
 
 <br />
-开发者在新年伊始收到Google Play的通知，称其游戏**《Luck Be a Landlord》**因**“包含赌博内容”**可能被全球下架。尽管开发者多次申诉，但Google Play坚持认为游戏涉及赌博。为避免全球封禁，开发者无奈同意修改年龄评级。游戏已在13个国家被禁，开发者对此感到无奈，并提醒玩家关注后续动态。
+**2025年1月20日**，特朗普就职日，全球多个媒体、组织和公众人物宣布退出X平台（原Twitter），抗议**Elon Musk**接管后平台上的**虚假信息**和偏见内容。参与者呼吁集体迁移至**Mastodon**和**Bluesky**等替代平台，以维护言论自由。HelloQuitX提供工具帮助用户迁移数据，号召大家在1月20日统一行动，抵制X平台。
 
 ---
 
-## <a name="13"></a>13. 文学编程：Knuth 的做法有问题 (2014) 
+## <a name="12"></a>12. 文学编程：Knuth 的做法有问题 (2014) 
 <small>🔗 [akkartik.name](https://akkartik.name/post/literate-programming): Literate programming: Knuth is doing it wrong (2014)</small>
 
 
-| 🔥🔥: 122 \| 💬: [116](https://news.ycombinator.com/item?id=42683009) \| 🗓️ 2025-01-13
+| 🔥🔥: 124 \| 💬: [116](https://news.ycombinator.com/item?id=42683009) \| 🗓️ 2025-01-13
 
 
 <br />
@@ -178,11 +166,23 @@ Kartik Agaram 批评了 Knuth 提出的**文学编程**理念，认为其过于�
 
 ---
 
+## <a name="13"></a>13. 《Luck Be a Landlord》或将从Google Play下架 
+<small>🔗 [blog.trampolinetales.com](https://blog.trampolinetales.com/luck-be-a-landlord-might-be-banned-from-google-play-2/): Luck Be a Landlord Might Be Banned from Google Play</small>
+
+
+| 🔥🔥: 124 \| 💬: [156](https://news.ycombinator.com/item?id=42683567) \| 🗓️ 2025-01-13
+
+
+<br />
+开发者在新年伊始收到Google Play的通知，称其游戏**《Luck Be a Landlord》**因**“包含赌博内容”**可能被全球下架。尽管开发者多次申诉，但Google Play坚持认为游戏涉及赌博。为避免全球封禁，开发者无奈同意修改年龄评级。游戏已在13个国家被禁，开发者对此感到无奈，并提醒玩家关注后续动态。
+
+---
+
 ## <a name="14"></a>14. 为什么摩天大楼变成了玻璃盒子 
 <small>🔗 [construction-physics.com](https://www.construction-physics.com/p/why-skyscrapers-became-glass-boxes): Why Skyscrapers Became Glass Boxes</small>
 
 
-| 🔥🔥: 116 \| 💬: [78](https://news.ycombinator.com/item?id=42683736) \| 🗓️ 2025-01-13
+| 🔥🔥: 119 \| 💬: [78](https://news.ycombinator.com/item?id=42683736) \| 🗓️ 2025-01-13
 
 
 <br />
@@ -190,7 +190,19 @@ Kartik Agaram 批评了 Knuth 提出的**文学编程**理念，认为其过于�
 
 ---
 
-## <a name="15"></a>15. 从谷歌/必应/领英消失：对反网络中立性论文的反驳 
+## <a name="15"></a>15. 曼哈顿拥堵收费实施后，道路车辆减少4.3万辆 
+<small>🔗 [gothamist.com](https://gothamist.com/news/43k-fewer-drivers-on-manhattan-roads-after-congestion-pricing-turned-on-mta-says): 43K fewer drivers on Manhattan roads after congestion pricing turned on</small>
+
+
+| 🔥🔥: 111 \| 💬: [117](https://news.ycombinator.com/item?id=42692730) \| 🗓️ 2025-01-13
+
+
+<br />
+根据MTA发布的数据，**拥堵收费**实施后，曼哈顿60街以南区域的工作日平均车流量减少了约4.3万辆，降幅达7.5%。交通时间减少了30%至40%，公交车速度也有所提升。MTA计划通过收费收入发行150亿美元债券，用于改善公共交通基础设施。尽管部分政客反对，但交通倡导者认为拥堵收费已初见成效。
+
+---
+
+## <a name="16"></a>16. 从谷歌/必应/领英消失：对反网络中立性论文的反驳 
 <small>🔗 [internetthought.blogspot.com](http://internetthought.blogspot.com/2025/01/vanished-from-index-of-google-bing-and.html): Vanished from Google/Bing/LinkedIn: a rebuttal of an anti-net neutrality paper</small>
 
 
@@ -202,11 +214,23 @@ Kartik Agaram 批评了 Knuth 提出的**文学编程**理念，认为其过于�
 
 ---
 
-## <a name="16"></a>16. 纽约开始执行互联网服务提供商试图阻止的15美元宽带法案 
+## <a name="17"></a>17. Snyk 安全研究员部署针对 Cursor.com 的恶意 NPM 包 
+<small>🔗 [sourcecodered.com](https://sourcecodered.com/snyk-malicious-npm-package/): Snyk security researcher deploys malicious NPM packages targeting Cursor.com</small>
+
+
+| 🔥🔥: 103 \| 💬: [49](https://news.ycombinator.com/item?id=42690473) \| 🗓️ 2025-01-13
+
+
+<br />
+Snyk 安全研究员通过 NPM 发布了多个针对 **Cursor.com** 的恶意包，如“cursor-retreival”等。这些包会收集系统数据并发送至攻击者控制的服务器，可能通过 **依赖混淆攻击** 获取敏感信息。OpenSSF 已标记这些包为恶意，但 NPM 尚未处理。建议用户谨慎安装来源不明的 NPM 包。
+
+---
+
+## <a name="18"></a>18. 纽约开始执行互联网服务提供商试图阻止的15美元宽带法案 
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/01/new-york-starts-enforcing-15-broadband-law-that-isps-tried-to-kill/): New York starts enforcing $15 broadband law that ISPs tried to kill</small>
 
 
-| 🔥: 99 \| 💬: [86](https://news.ycombinator.com/item?id=42687861) \| 🗓️ 2025-01-13
+| 🔥🔥: 101 \| 💬: [87](https://news.ycombinator.com/item?id=42687861) \| 🗓️ 2025-01-13
 
 
 <br />
@@ -214,23 +238,11 @@ Kartik Agaram 批评了 Knuth 提出的**文学编程**理念，认为其过于�
 
 ---
 
-## <a name="17"></a>17. 一个“卧槽”时刻 
-<small>🔗 [ghuntley.com](https://ghuntley.com/oh-fuck/): An "oh fuck" moment in time</small>
-
-
-| 🔥: 86 \| 💬: [131](https://news.ycombinator.com/item?id=42684740) \| 🗓️ 2025-01-13
-
-
-<br />
-在2025年，**软件助手**已成为我作为高级软件工程师日常工作的核心工具，甚至比实习生还好用。最近，我尝试用Cursor/Windsurfer将一个Rust库转换为Haskell库，结果令人震惊：它生成了全新的代码，包括C绑定和FFI接口。这让我意识到，**未采用软件助手的工程师可能会被淘汰**。我们正处在一个充满变革的时代。
-
----
-
-## <a name="18"></a>18. 玉米糖浆如何占领美国 
+## <a name="19"></a>19. 玉米糖浆如何占领美国 
 <small>🔗 [thehustle.co](https://thehustle.co/originals/how-corn-syrup-took-over-america): How corn syrup took over America</small>
 
 
-| 🔥: 83 \| 💬: [117](https://news.ycombinator.com/item?id=42687133) \| 🗓️ 2025-01-13
+| 🔥: 92 \| 💬: [123](https://news.ycombinator.com/item?id=42687133) \| 🗓️ 2025-01-13
 
 
 <br />
@@ -238,26 +250,14 @@ Kartik Agaram 批评了 Knuth 提出的**文学编程**理念，认为其过于�
 
 ---
 
-## <a name="19"></a>19. Sonos CEO Patrick Spence因灾难性应用发布辞职 
-<small>🔗 [theverge.com](https://www.theverge.com/2025/1/13/24342179/sonos-ceo-patrick-spence-resignation-reason-app): Sonos CEO Patrick Spence steps down after disastrous app launch</small>
+## <a name="20"></a>20. Webtop – 基于 Alpine、Ubuntu、Fedora 和 Arch 的容器，包含完整桌面环境 
+<small>🔗 [docs.linuxserver.io](https://docs.linuxserver.io/images/docker-webtop/): Webtop – Alpine,Ubuntu,Fedora,and Arch containers containing full desktop envs</small>
 
 
-| 🔥: 81 \| 💬: [138](https://news.ycombinator.com/item?id=42683753) \| 🗓️ 2025-01-13
-
-
-<br />
-Sonos CEO **Patrick Spence** 因去年5月发布的**漏洞百出的新应用**而辞职，该应用发布时缺少关键功能，引发客户强烈不满，导致公司裁员、员工士气低落和公关危机。尽管公司采取了补救措施，但董事会认为这些措施不足以挽回局面，Spence因此下台。**Tom Conrad** 将担任临时CEO，负责修复应用并重获消费者信任。Sonos未来产品线仍将继续推进，包括传闻中的流媒体视频播放器。
-
----
-
-## <a name="20"></a>20. 地球首次突破1.5°C气候极限：这意味着什么？ 
-<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00010-9): Earth breaches 1.5 °C climate limit for the first time: what does it mean?</small>
-
-
-| 🔥: 75 \| 💬: [148](https://news.ycombinator.com/item?id=42682758) \| 🗓️ 2025-01-13
+| 🔥: 92 \| 💬: [12](https://news.ycombinator.com/item?id=42690983) \| 🗓️ 2025-01-13
 
 
 <br />
-2024年，地球平均气温首次超过工业化前水平**1.5°C**，标志着全球未能避免突破这一关键阈值。尽管这仅是单一年份的数据，但科学家警告称，世界正加速进入危险区域。**巴黎气候协定**的目标是限制升温在1.5°C以内，但碳排放持续上升，2023年创下新高。科学家强调，**1.5°C**并非绝对安全线，但每一点升温都会加剧极端天气和生态破坏。
+Webtop 是一个基于 Docker 的容器项目，提供多种 Linux 发行版（如 **Alpine**、**Ubuntu**、**Fedora** 和 **Arch**）的完整桌面环境，支持通过现代浏览器访问。用户可以选择不同的桌面环境（如 **XFCE**、**KDE** 等），并通过 Docker 配置 GPU 加速和多语言支持。适用于本地网络使用，建议通过反向代理保护以增强安全性。
 
 ---
