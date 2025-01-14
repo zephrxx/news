@@ -8,11 +8,11 @@ tags:
 ---
 
 
-1. WordPress 陷入困境；
 1. 觉醒主义的起源；
+1. WordPress 陷入困境；
 1. 调试：寻找最棘手问题的不可或缺规则（2004）；
 1. 2025年AI工程师阅读清单；
-1. 欧洲云提供商Anexia将12,000台虚拟机从VMware迁移至自研KVM平台；
+1. GitHub Git 操作中断；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -22,23 +22,11 @@ tags:
 ![](/assets/images/hacker_news.jpg)
 
 
-## <a name="1"></a>1. WordPress 陷入困境 
-<small>🔗 [anderegg.ca](https://anderegg.ca/2025/01/11/wordpress-is-in-trouble): WordPress Is in Trouble</small>
-
-
-| 🔥🔥: 559 \| 💬: [338](https://news.ycombinator.com/item?id=42687121) \| 🗓️ 2025-01-13
-
-
-<br />
-自上次报道以来，**WordPress** 的情况急转直下。**Automattic** 因法律纠纷减少了对开源项目的贡献，仅保留每周45小时用于安全和关键更新，其余资源转向盈利项目。**Matt Mullenweg** 的行为引发社区不满，甚至关闭了可持续发展团队。社区呼吁新的领导方式，但 Mullenweg 仍掌握关键控制权，导致未来充满不确定性。
-
----
-
-## <a name="2"></a>2. 觉醒主义的起源 
+## <a name="1"></a>1. 觉醒主义的起源 
 <small>🔗 [paulgraham.com](https://paulgraham.com/woke.html): The Origins of Wokeness</small>
 
 
-| 🔥🔥: 557 \| 💬: [1438](https://news.ycombinator.com/item?id=42682305) \| 🗓️ 2025-01-13
+| 🔥🔥: 576 \| 💬: [1487](https://news.ycombinator.com/item?id=42682305) \| 🗓️ 2025-01-13
 
 
 <br />
@@ -46,11 +34,23 @@ tags:
 
 ---
 
+## <a name="2"></a>2. WordPress 陷入困境 
+<small>🔗 [anderegg.ca](https://anderegg.ca/2025/01/11/wordpress-is-in-trouble): WordPress Is in Trouble</small>
+
+
+| 🔥🔥: 563 \| 💬: [348](https://news.ycombinator.com/item?id=42687121) \| 🗓️ 2025-01-13
+
+
+<br />
+自上次报道以来，**WordPress** 的情况急转直下。**Automattic** 因法律纠纷减少了对开源项目的贡献，仅保留每周45小时用于安全和关键更新，其余资源转向盈利项目。**Matt Mullenweg** 的行为引发社区不满，甚至关闭了可持续发展团队。社区呼吁新的领导方式，但 Mullenweg 仍掌握关键控制权，导致未来充满不确定性。
+
+---
+
 ## <a name="3"></a>3. 调试：寻找最棘手问题的不可或缺规则（2004） 
 <small>🔗 [dwheeler.com](https://dwheeler.com/essays/debugging-agans.html): Debugging: Indispensable rules for finding even the most elusive problems (2004)</small>
 
 
-| 🔥🔥: 420 \| 💬: [177](https://news.ycombinator.com/item?id=42682602) \| 🗓️ 2025-01-13
+| 🔥🔥: 426 \| 💬: [180](https://news.ycombinator.com/item?id=42682602) \| 🗓️ 2025-01-13
 
 
 <br />
@@ -62,7 +62,7 @@ David J. Agans的《调试》一书为软件和硬件开发者提供了九条核
 <small>🔗 [latent.space](https://www.latent.space/p/2025-papers): AI Engineer Reading List</small>
 
 
-| 🔥🔥: 249 \| 💬: [39](https://news.ycombinator.com/item?id=42686457) \| 🗓️ 2025-01-13
+| 🔥🔥: 262 \| 💬: [40](https://news.ycombinator.com/item?id=42686457) \| 🗓️ 2025-01-13
 
 
 <br />
@@ -70,23 +70,11 @@ David J. Agans的《调试》一书为软件和硬件开发者提供了九条核
 
 ---
 
-## <a name="5"></a>5. 欧洲云提供商Anexia将12,000台虚拟机从VMware迁移至自研KVM平台 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/01/13/anexia_vmware_to_kvm_migration/): Euro-cloud provider Anexia moves 12,000 VMs off VMware to homebrew KVM platform</small>
-
-
-| 🔥🔥: 237 \| 💬: [88](https://news.ycombinator.com/item?id=42682671) \| 🗓️ 2025-01-13
-
-
-<br />
-由于**Broadcom收购VMware后大幅提高许可费用**，奥地利云服务提供商Anexia决定将12,000台虚拟机迁移至基于**KVM**的开源平台。Anexia CEO表示，此举避免了因高昂成本对公司现金流的压力，并成功说服客户支持迁移。迁移工具简化了过程，客户只需一键操作即可完成迁移。Anexia认为，**Broadcom失去了客户的信任**，未来更多公司可能放弃VMware。
-
----
-
-## <a name="6"></a>6. GitHub Git 操作中断 
+## <a name="5"></a>5. GitHub Git 操作中断 
 <small>🔗 [githubstatus.com](https://www.githubstatus.com/incidents/qd96yfgvmcf9): GitHub Git Operations Are Down</small>
 
 
-| 🔥🔥: 208 \| 💬: [133](https://news.ycombinator.com/item?id=42691184) \| 🗓️ 2025-01-13
+| 🔥🔥: 248 \| 💬: [169](https://news.ycombinator.com/item?id=42691184) \| 🗓️ 2025-01-13
 
 
 <br />
@@ -94,23 +82,23 @@ David J. Agans的《调试》一书为软件和硬件开发者提供了九条核
 
 ---
 
-## <a name="7"></a>7. 伦敦交通局商标投诉导致实时地铁/公交地图下线 
-<small>🔗 [traintimes.org.uk](https://traintimes.org.uk/map/tube/): Live London Underground / bus maps taken down by TfL trademark complaint</small>
+## <a name="6"></a>6. 欧洲云提供商Anexia将12,000台虚拟机从VMware迁移至自研KVM平台 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/01/13/anexia_vmware_to_kvm_migration/): Euro-cloud provider Anexia moves 12,000 VMs off VMware to homebrew KVM platform</small>
 
 
-| 🔥🔥: 206 \| 💬: [79](https://news.ycombinator.com/item?id=42682876) \| 🗓️ 2025-01-13
+| 🔥🔥: 240 \| 💬: [88](https://news.ycombinator.com/item?id=42682671) \| 🗓️ 2025-01-13
 
 
 <br />
-2010年，Matthew Somerville利用**TfL开放数据API**创建了实时伦敦地铁地图，随后扩展到公交路线。该地图广受欢迎，但2025年1月，TfL以**商标侵权**为由要求下线。尽管多年未受干扰，Somerville决定不再对抗，关闭了地图服务。用户可访问traintimes.org.uk或bustimes.org获取类似信息。
+由于**Broadcom收购VMware后大幅提高许可费用**，奥地利云服务提供商Anexia决定将12,000台虚拟机迁移至基于**KVM**的开源平台。Anexia CEO表示，此举避免了因高昂成本对公司现金流的压力，并成功说服客户支持迁移。迁移工具简化了过程，客户只需一键操作即可完成迁移。Anexia认为，**Broadcom失去了客户的信任**，未来更多公司可能放弃VMware。
 
 ---
 
-## <a name="8"></a>8. 流体模拟吊坠 
+## <a name="7"></a>7. 流体模拟吊坠 
 <small>🔗 [mitxela.com](https://mitxela.com/projects/fluid-pendant): Fluid Simulation Pendant</small>
 
 
-| 🔥🔥: 198 \| 💬: [26](https://news.ycombinator.com/item?id=42683389) \| 🗓️ 2025-01-13
+| 🔥🔥: 212 \| 💬: [26](https://news.ycombinator.com/item?id=42683389) \| 🗓️ 2025-01-13
 
 
 <br />
@@ -118,11 +106,23 @@ David J. Agans的《调试》一书为软件和硬件开发者提供了九条核
 
 ---
 
+## <a name="8"></a>8. 伦敦交通局商标投诉导致实时地铁/公交地图下线 
+<small>🔗 [traintimes.org.uk](https://traintimes.org.uk/map/tube/): Live London Underground / bus maps taken down by TfL trademark complaint</small>
+
+
+| 🔥🔥: 208 \| 💬: [79](https://news.ycombinator.com/item?id=42682876) \| 🗓️ 2025-01-13
+
+
+<br />
+2010年，Matthew Somerville利用**TfL开放数据API**创建了实时伦敦地铁地图，随后扩展到公交路线。该地图广受欢迎，但2025年1月，TfL以**商标侵权**为由要求下线。尽管多年未受干扰，Somerville决定不再对抗，关闭了地图服务。用户可访问traintimes.org.uk或bustimes.org获取类似信息。
+
+---
+
 ## <a name="9"></a>9. 西班牙提议对非欧盟居民购房征收100%税 
 <small>🔗 [theguardian.com](https://www.theguardian.com/world/2025/jan/13/spain-proposes-100-tax-on-homes-bought-by-non-eu-residents): Spain proposes 100% tax on homes bought by non-EU residents</small>
 
 
-| 🔥🔥: 134 \| 💬: [195](https://news.ycombinator.com/item?id=42690781) \| 🗓️ 2025-01-13
+| 🔥🔥: 138 \| 💬: [202](https://news.ycombinator.com/item?id=42690781) \| 🗓️ 2025-01-13
 
 
 <br />
@@ -134,7 +134,7 @@ David J. Agans的《调试》一书为软件和硬件开发者提供了九条核
 <small>🔗 [helloquitx.com](https://www.helloquitx.com): Let's Quit X</small>
 
 
-| 🔥🔥: 133 \| 💬: [147](https://news.ycombinator.com/item?id=42686362) \| 🗓️ 2025-01-13
+| 🔥🔥: 135 \| 💬: [150](https://news.ycombinator.com/item?id=42686362) \| 🗓️ 2025-01-13
 
 
 <br />
@@ -146,7 +146,7 @@ David J. Agans的《调试》一书为软件和硬件开发者提供了九条核
 <small>🔗 [moral.net.au](https://moral.net.au/writing/2025/01/11/waiting_for_oregon/): Can you complete the Oregon Trail if you wait at river for 14272 years: A study</small>
 
 
-| 🔥🔥: 126 \| 💬: [70](https://news.ycombinator.com/item?id=42682813) \| 🗓️ 2025-01-13
+| 🔥🔥: 134 \| 💬: [72](https://news.ycombinator.com/item?id=42682813) \| 🗓️ 2025-01-13
 
 
 <br />
@@ -158,7 +158,7 @@ Twitch主播**albrot**发现《俄勒冈之旅》游戏中一个**河流穿越**
 <small>🔗 [blog.trampolinetales.com](https://blog.trampolinetales.com/luck-be-a-landlord-might-be-banned-from-google-play-2/): Luck Be a Landlord Might Be Banned from Google Play</small>
 
 
-| 🔥🔥: 122 \| 💬: [156](https://news.ycombinator.com/item?id=42683567) \| 🗓️ 2025-01-13
+| 🔥🔥: 123 \| 💬: [156](https://news.ycombinator.com/item?id=42683567) \| 🗓️ 2025-01-13
 
 
 <br />
@@ -170,7 +170,7 @@ Twitch主播**albrot**发现《俄勒冈之旅》游戏中一个**河流穿越**
 <small>🔗 [akkartik.name](https://akkartik.name/post/literate-programming): Literate programming: Knuth is doing it wrong (2014)</small>
 
 
-| 🔥🔥: 121 \| 💬: [115](https://news.ycombinator.com/item?id=42683009) \| 🗓️ 2025-01-13
+| 🔥🔥: 122 \| 💬: [116](https://news.ycombinator.com/item?id=42683009) \| 🗓️ 2025-01-13
 
 
 <br />
@@ -206,7 +206,7 @@ Kartik Agaram 批评了 Knuth 提出的**文学编程**理念，认为其过于�
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/01/new-york-starts-enforcing-15-broadband-law-that-isps-tried-to-kill/): New York starts enforcing $15 broadband law that ISPs tried to kill</small>
 
 
-| 🔥: 98 \| 💬: [85](https://news.ycombinator.com/item?id=42687861) \| 🗓️ 2025-01-13
+| 🔥: 99 \| 💬: [86](https://news.ycombinator.com/item?id=42687861) \| 🗓️ 2025-01-13
 
 
 <br />
@@ -226,7 +226,19 @@ Kartik Agaram 批评了 Knuth 提出的**文学编程**理念，认为其过于�
 
 ---
 
-## <a name="18"></a>18. Sonos CEO Patrick Spence因灾难性应用发布辞职 
+## <a name="18"></a>18. 玉米糖浆如何占领美国 
+<small>🔗 [thehustle.co](https://thehustle.co/originals/how-corn-syrup-took-over-america): How corn syrup took over America</small>
+
+
+| 🔥: 83 \| 💬: [117](https://news.ycombinator.com/item?id=42687133) \| 🗓️ 2025-01-13
+
+
+<br />
+文章探讨了**玉米糖浆**在美国食品行业中的广泛应用及其对经济的影响。通过分析感恩节期间火鸡价格下降的现象，揭示了**农业补贴**和**食品加工技术**如何推动玉米糖浆成为主流甜味剂，进而改变了美国的饮食习惯和经济结构。
+
+---
+
+## <a name="19"></a>19. Sonos CEO Patrick Spence因灾难性应用发布辞职 
 <small>🔗 [theverge.com](https://www.theverge.com/2025/1/13/24342179/sonos-ceo-patrick-spence-resignation-reason-app): Sonos CEO Patrick Spence steps down after disastrous app launch</small>
 
 
@@ -238,7 +250,7 @@ Sonos CEO **Patrick Spence** 因去年5月发布的**漏洞百出的新应用**�
 
 ---
 
-## <a name="19"></a>19. 地球首次突破1.5°C气候极限：这意味着什么？ 
+## <a name="20"></a>20. 地球首次突破1.5°C气候极限：这意味着什么？ 
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00010-9): Earth breaches 1.5 °C climate limit for the first time: what does it mean?</small>
 
 
@@ -247,17 +259,5 @@ Sonos CEO **Patrick Spence** 因去年5月发布的**漏洞百出的新应用**�
 
 <br />
 2024年，地球平均气温首次超过工业化前水平**1.5°C**，标志着全球未能避免突破这一关键阈值。尽管这仅是单一年份的数据，但科学家警告称，世界正加速进入危险区域。**巴黎气候协定**的目标是限制升温在1.5°C以内，但碳排放持续上升，2023年创下新高。科学家强调，**1.5°C**并非绝对安全线，但每一点升温都会加剧极端天气和生态破坏。
-
----
-
-## <a name="20"></a>20. 玉米糖浆如何占领美国 
-<small>🔗 [thehustle.co](https://thehustle.co/originals/how-corn-syrup-took-over-america): How corn syrup took over America</small>
-
-
-| 🔥: 72 \| 💬: [107](https://news.ycombinator.com/item?id=42687133) \| 🗓️ 2025-01-13
-
-
-<br />
-文章探讨了**玉米糖浆**在美国食品行业中的广泛应用及其对经济的影响。通过分析感恩节期间火鸡价格下降的现象，揭示了**农业补贴**和**食品加工技术**如何推动玉米糖浆成为主流甜味剂，进而改变了美国的饮食习惯和经济结构。
 
 ---
