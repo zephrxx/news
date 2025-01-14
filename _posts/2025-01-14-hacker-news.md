@@ -26,7 +26,7 @@ tags:
 <small>🔗 [howtogeek.com](https://www.howtogeek.com/why-i-switched-to-firefox-and-never-looked-back/): I Switched to Firefox and Never Looked Back</small>
 
 
-| 🔥🔥: 527 \| 💬: [443](https://news.ycombinator.com/item?id=42696081) \| 🗓️ 2025-01-14
+| 🔥🔥: 528 \| 💬: [447](https://news.ycombinator.com/item?id=42696081) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [kevinmunger.substack.com](https://kevinmunger.substack.com/p/in-the-belly-of-the-mrbeast): In the belly of the MrBeast</small>
 
 
-| 🔥🔥: 434 \| 💬: [330](https://news.ycombinator.com/item?id=42696691) \| 🗓️ 2025-01-14
+| 🔥🔥: 445 \| 💬: [339](https://news.ycombinator.com/item?id=42696691) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/apple-will-soon-receive-made-in-america-chips-from-tsmcs-arizona-fab-company-in-final-stages-of-quality-verification): Apple will soon receive 'made in America' chips from TSMC's Arizona fab</small>
 
 
-| 🔥🔥: 366 \| 💬: [321](https://news.ycombinator.com/item?id=42699977) \| 🗓️ 2025-01-14
+| 🔥🔥: 389 \| 💬: [349](https://news.ycombinator.com/item?id=42699977) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -62,7 +62,7 @@ tags:
 <small>🔗 [gizmodo.com](https://gizmodo.com/1-in-5-online-job-postings-are-either-fake-or-never-filled-study-finds-2000549706): 1 in 5 online job postings are either fake or never filled, study finds</small>
 
 
-| 🔥🔥: 358 \| 💬: [310](https://news.ycombinator.com/item?id=42697783) \| 🗓️ 2025-01-14
+| 🔥🔥: 369 \| 💬: [334](https://news.ycombinator.com/item?id=42697783) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -74,7 +74,7 @@ tags:
 <small>🔗 [collegetowns.substack.com](https://collegetowns.substack.com/p/making-an-intersection-unsafe-for): Making an intersection unsafe for pedestrians to save seconds for drivers</small>
 
 
-| 🔥🔥: 284 \| 💬: [394](https://news.ycombinator.com/item?id=42698557) \| 🗓️ 2025-01-14
+| 🔥🔥: 285 \| 💬: [405](https://news.ycombinator.com/item?id=42698557) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -86,7 +86,7 @@ tags:
 <small>🔗 [db-engines.com](https://db-engines.com/en/blog_post/109): PostgreSQL is the Database Management System of the Year 2024</small>
 
 
-| 🔥🔥: 243 \| 💬: [86](https://news.ycombinator.com/item?id=42696080) \| 🗓️ 2025-01-14
+| 🔥🔥: 246 \| 💬: [87](https://news.ycombinator.com/item?id=42696080) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -98,7 +98,7 @@ DB-Engines 宣布 **PostgreSQL** 连续第二年并第五次荣获年度数据�
 <small>🔗 [coryzue.com](https://www.coryzue.com/writing/solopreneur/): Using coding skills to make passive income</small>
 
 
-| 🔥🔥: 204 \| 💬: [117](https://news.ycombinator.com/item?id=42696822) \| 🗓️ 2025-01-14
+| 🔥🔥: 205 \| 💬: [118](https://news.ycombinator.com/item?id=42696822) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -110,7 +110,7 @@ DB-Engines 宣布 **PostgreSQL** 连续第二年并第五次荣获年度数据�
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/01/14/meta-targeting-lowest-performing-employees-in-latest-round-of-layoffs.html): Meta announces 5% cuts in preparation for 'intense year'</small>
 
 
-| 🔥🔥: 156 \| 💬: [264](https://news.ycombinator.com/item?id=42700134) \| 🗓️ 2025-01-14
+| 🔥🔥: 160 \| 💬: [269](https://news.ycombinator.com/item?id=42700134) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -130,11 +130,23 @@ Proton在2024年的年度慈善筹款活动中筹集了**107.7万美元**，创�
 
 ---
 
-## <a name="10"></a>10. Allstate 使用 GasBuddy 等应用追踪驾驶行为：诉讼 
+## <a name="10"></a>10. Shepherd 1.0.0 发布 
+<small>🔗 [guix.gnu.org](https://guix.gnu.org/en/blog/2024/the-shepherd-1.0.0-released/): The Shepherd 1.0.0 released</small>
+
+
+| 🔥🔥: 133 \| 💬: [31](https://news.ycombinator.com/item?id=42698981) \| 🗓️ 2025-01-14
+
+
+<br />
+经过21年的开发，**Shepherd** 终于发布了1.0.0版本，标志着它从ZeroVer时代进入了1.0时代。Shepherd 是一个**服务管理器**，能够管理服务的状态和依赖关系，支持启动、停止和重启服务。它由两个命令组成：`shepherd` 守护进程和 `herd` 交互工具。此次更新增加了对**定时服务**的支持，并改进了服务状态显示。Shepherd 使用 **Guile Scheme** 进行配置和扩展，适合系统管理员和开发者使用。
+
+---
+
+## <a name="11"></a>11. Allstate 使用 GasBuddy 等应用追踪驾驶行为：诉讼 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/01/allstate-sued-for-allegedly-tracking-drivers-behavior-through-third-party-apps/): Allstate used GasBuddy and other apps to track driving behavior: lawsuit</small>
 
 
-| 🔥🔥: 126 \| 💬: [165](https://news.ycombinator.com/item?id=42699771) \| 🗓️ 2025-01-14
+| 🔥🔥: 127 \| 💬: [170](https://news.ycombinator.com/item?id=42699771) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -142,7 +154,7 @@ Proton在2024年的年度慈善筹款活动中筹集了**107.7万美元**，创�
 
 ---
 
-## <a name="11"></a>11. 全球植物二氧化碳吸收量新估计上升近三分之一 
+## <a name="12"></a>12. 全球植物二氧化碳吸收量新估计上升近三分之一 
 <small>🔗 [ornl.gov](https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates): Plant CO2 uptake rises by nearly one third in new global estimates</small>
 
 
@@ -154,47 +166,11 @@ Proton在2024年的年度慈善筹款活动中筹集了**107.7万美元**，创�
 
 ---
 
-## <a name="12"></a>12. Shepherd 1.0.0 发布 
-<small>🔗 [guix.gnu.org](https://guix.gnu.org/en/blog/2024/the-shepherd-1.0.0-released/): The Shepherd 1.0.0 released</small>
-
-
-| 🔥🔥: 119 \| 💬: [31](https://news.ycombinator.com/item?id=42698981) \| 🗓️ 2025-01-14
-
-
-<br />
-经过21年的开发，**Shepherd** 终于发布了1.0.0版本，标志着它从ZeroVer时代进入了1.0时代。Shepherd 是一个**服务管理器**，能够管理服务的状态和依赖关系，支持启动、停止和重启服务。它由两个命令组成：`shepherd` 守护进程和 `herd` 交互工具。此次更新增加了对**定时服务**的支持，并改进了服务状态显示。Shepherd 使用 **Guile Scheme** 进行配置和扩展，适合系统管理员和开发者使用。
-
----
-
-## <a name="13"></a>13. 特斯拉在欧洲销量大幅下滑 
-<small>🔗 [insideevs.com](https://insideevs.com/news/745119/tesla-sales-europe-2024/): Tesla Sales Are Tanking in Europe</small>
-
-
-| 🔥🔥: 112 \| 💬: [190](https://news.ycombinator.com/item?id=42698077) \| 🗓️ 2025-01-14
-
-
-<br />
-2024年前11个月，特斯拉在欧洲的**注册量**下降了两位数，11月单月降幅达40.9%。欧盟市场注册量从31,810辆降至18,786辆，**市场份额**从3.6%降至2.2%。销量下滑可能与**政府补贴减少**和CEO马斯克的争议有关，但整体电动车市场仅小幅下降，其他车企填补了特斯拉的缺口。
-
----
-
-## <a name="14"></a>14. 基于LLM的代理作为地下城主 
-<small>🔗 [studenttheses.uu.nl](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/47209/Thesis_Final.pdf?sequence=1&isAllowed=y): LLM based agents as Dungeon Masters</small>
-
-
-| 🔥🔥: 111 \| 💬: [111](https://news.ycombinator.com/item?id=42698610) \| 🗓️ 2025-01-14
-
-
-<br />
-本文探讨了使用**大型语言模型（LLM）**作为地下城主的可能性。通过LLM的生成能力，可以动态创建**地下城冒险**的故事情节、角色互动和任务设计。这种方法不仅提高了游戏的**沉浸感**，还为玩家提供了个性化的游戏体验。
-
----
-
-## <a name="15"></a>15. 推进美国在人工智能基础设施领域领导地位的行政命令 
+## <a name="13"></a>13. 推进美国在人工智能基础设施领域领导地位的行政命令 
 <small>🔗 [whitehouse.gov](https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/14/executive-order-on-advancing-united-states-leadership-in-artificial-intelligence-infrastructure/): Executive order on advancing United States leadership in AI infrastructure</small>
 
 
-| 🔥🔥: 111 \| 💬: [80](https://news.ycombinator.com/item?id=42700755) \| 🗓️ 2025-01-14
+| 🔥🔥: 120 \| 💬: [85](https://news.ycombinator.com/item?id=42700755) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -202,23 +178,11 @@ Proton在2024年的年度慈善筹款活动中筹集了**107.7万美元**，创�
 
 ---
 
-## <a name="16"></a>16. 平台因用户制作“最想要CEO”卡片而系统性封禁其账号 
-<small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/01/platforms-systematically-removed-user-because-he-made-most-wanted-ceo-playing): Platforms systematically removed a user because he made "most wanted CEO" cards</small>
-
-
-| 🔥🔥: 103 \| 💬: [118](https://news.ycombinator.com/item?id=42701456) \| 🗓️ 2025-01-14
-
-
-<br />
-James Harr计划出售一副讽刺资本主义的“最想要CEO”扑克牌，旨在揭露大公司CEO的“恶行”。然而，**纽约邮报**报道后，Harr的社交媒体账号和在线商店被**TikTok**、**Shopify**等平台封禁，PayPal也停止为其处理支付。尽管Harr强调其内容为批判性而非暴力，平台仍以“违反社区准则”为由删除其内容，且未提供具体解释。此事件凸显了平台在内容审核中的**不透明**和**过度审查**问题。
-
----
-
-## <a name="17"></a>17. 伺服电机 vs. 步进电机：速度、扭矩与精度 [视频] 
+## <a name="14"></a>14. 伺服电机 vs. 步进电机：速度、扭矩与精度 [视频] 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=H-nO1F-AO9I): Servo vs. steppers: Speed, Torque and Accuracy [video]</small>
 
 
-| 🔥: 100 \| 💬: [42](https://news.ycombinator.com/item?id=42697335) \| 🗓️ 2025-01-14
+| 🔥🔥: 117 \| 💬: [47](https://news.ycombinator.com/item?id=42697335) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -226,23 +190,47 @@ James Harr计划出售一副讽刺资本主义的“最想要CEO”扑克牌，�
 
 ---
 
-## <a name="18"></a>18. Show HN: 一个用于从搜索结果中移除垃圾和不良网站的屏蔽列表 
-<small>🔗 [github.com](https://github.com/popcar2/BadWebsiteBlocklist): Show HN: A blocklist to remove spam and bad websites from search results</small>
+## <a name="15"></a>15. 特斯拉在欧洲销量大幅下滑 
+<small>🔗 [insideevs.com](https://insideevs.com/news/745119/tesla-sales-europe-2024/): Tesla Sales Are Tanking in Europe</small>
 
 
-| 🔥: 94 \| 💬: [50](https://news.ycombinator.com/item?id=42697346) \| 🗓️ 2025-01-14
+| 🔥🔥: 113 \| 💬: [192](https://news.ycombinator.com/item?id=42698077) \| 🗓️ 2025-01-14
 
 
 <br />
-这是一个通过 **uBlocklist** 过滤垃圾和误导性网站的列表，旨在从搜索结果中移除低质量内容，如 **AI生成的文章**、低效的垃圾网站和伪装成信息的广告。用户可通过安装 **uBlacklist** 扩展并订阅该列表，自动屏蔽不良网站。每个被屏蔽的网站都有详细说明，确保透明性和可追溯性。
+2024年前11个月，特斯拉在欧洲的**注册量**下降了两位数，11月单月降幅达40.9%。欧盟市场注册量从31,810辆降至18,786辆，**市场份额**从3.6%降至2.2%。销量下滑可能与**政府补贴减少**和CEO马斯克的争议有关，但整体电动车市场仅小幅下降，其他车企填补了特斯拉的缺口。
 
 ---
 
-## <a name="19"></a>19. Show HN: 基于 WASM 的 GitHub Python 笔记本代码空间 
+## <a name="16"></a>16. 基于LLM的代理作为地下城主 
+<small>🔗 [studenttheses.uu.nl](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/47209/Thesis_Final.pdf?sequence=1&isAllowed=y): LLM based agents as Dungeon Masters</small>
+
+
+| 🔥🔥: 112 \| 💬: [113](https://news.ycombinator.com/item?id=42698610) \| 🗓️ 2025-01-14
+
+
+<br />
+本文探讨了使用**大型语言模型（LLM）**作为地下城主的可能性。通过LLM的生成能力，可以动态创建**地下城冒险**的故事情节、角色互动和任务设计。这种方法不仅提高了游戏的**沉浸感**，还为玩家提供了个性化的游戏体验。
+
+---
+
+## <a name="17"></a>17. 平台因用户制作“最想要CEO”卡片而系统性封禁其账号 
+<small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/01/platforms-systematically-removed-user-because-he-made-most-wanted-ceo-playing): Platforms systematically removed a user because he made "most wanted CEO" cards</small>
+
+
+| 🔥🔥: 109 \| 💬: [126](https://news.ycombinator.com/item?id=42701456) \| 🗓️ 2025-01-14
+
+
+<br />
+James Harr计划出售一副讽刺资本主义的“最想要CEO”扑克牌，旨在揭露大公司CEO的“恶行”。然而，**纽约邮报**报道后，Harr的社交媒体账号和在线商店被**TikTok**、**Shopify**等平台封禁，PayPal也停止为其处理支付。尽管Harr强调其内容为批判性而非暴力，平台仍以“违反社区准则”为由删除其内容，且未提供具体解释。此事件凸显了平台在内容审核中的**不透明**和**过度审查**问题。
+
+---
+
+## <a name="18"></a>18. Show HN: 基于 WASM 的 GitHub Python 笔记本代码空间 
 <small>🔗 [docs.marimo.io](https://docs.marimo.io/guides/publishing/playground/#open-notebooks-hosted-on-github): Show HN: WASM-powered codespaces for Python notebooks on GitHub</small>
 
 
-| 🔥: 83 \| 💬: [14](https://news.ycombinator.com/item?id=42700852) \| 🗓️ 2025-01-14
+| 🔥: 100 \| 💬: [19](https://news.ycombinator.com/item?id=42700852) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -250,14 +238,26 @@ marimo 提供了一个**在线游乐场**，允许用户免费创建和分享 **
 
 ---
 
-## <a name="20"></a>20. dbt Labs 收购 SDF Labs 
-<small>🔗 [getdbt.com](https://www.getdbt.com/blog/dbt-labs-acquires-sdf-labs): Dbt Labs acquires SDF Labs</small>
+## <a name="19"></a>19. FFmpeg 示例指南 
+<small>🔗 [ffmpegbyexample.com](https://ffmpegbyexample.com/): FFmpeg by Example</small>
 
 
-| 🔥: 81 \| 💬: [32](https://news.ycombinator.com/item?id=42697764) \| 🗓️ 2025-01-14
+| 🔥: 98 \| 💬: [25](https://news.ycombinator.com/item?id=42695547) \| 🗓️ 2025-01-14
 
 
 <br />
-dbt Labs 宣布收购 **SDF Labs**，旨在提升 dbt 开发者的体验。SDF 的 **SQL 解析技术** 将显著加速 dbt 项目编译速度，并提供更强大的开发工具，如 IDE 中的智能提示和本地执行能力。此次收购将为 dbt 用户带来**革命性**的改进，预计在未来 12 个月内逐步整合到 dbt 生态中。
+FFmpeg By Example 是一个展示 **FFmpeg** 多种独特用法的文档网站。用户可提交创意，社区共同改进。示例包括**打印文本文件到 STDOUT**、**提取视频帧**、**生成 GIF** 等。网站由 Gariany 和 FFmpeg Discord 社区维护，支持捐赠。
+
+---
+
+## <a name="20"></a>20. Show HN: 一个用于从搜索结果中移除垃圾和不良网站的屏蔽列表 
+<small>🔗 [github.com](https://github.com/popcar2/BadWebsiteBlocklist): Show HN: A blocklist to remove spam and bad websites from search results</small>
+
+
+| 🔥: 95 \| 💬: [50](https://news.ycombinator.com/item?id=42697346) \| 🗓️ 2025-01-14
+
+
+<br />
+这是一个通过 **uBlocklist** 过滤垃圾和误导性网站的列表，旨在从搜索结果中移除低质量内容，如 **AI生成的文章**、低效的垃圾网站和伪装成信息的广告。用户可通过安装 **uBlacklist** 扩展并订阅该列表，自动屏蔽不良网站。每个被屏蔽的网站都有详细说明，确保透明性和可追溯性。
 
 ---
