@@ -12,7 +12,7 @@ tags:
 1. 在MrBeast的肚子里；
 1. 苹果将很快从台积电亚利桑那工厂获得“美国制造”芯片；
 1. 五分之一的在线职位发布是虚假或从未填补，研究发现；
-1. 为节省司机几秒钟，让行人更不安全；
+1. FFmpeg 示例指南；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [howtogeek.com](https://www.howtogeek.com/why-i-switched-to-firefox-and-never-looked-back/): I Switched to Firefox and Never Looked Back</small>
 
 
-| 🔥🔥: 541 \| 💬: [456](https://news.ycombinator.com/item?id=42696081) \| 🗓️ 2025-01-14
+| 🔥🔥: 546 \| 💬: [461](https://news.ycombinator.com/item?id=42696081) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [kevinmunger.substack.com](https://kevinmunger.substack.com/p/in-the-belly-of-the-mrbeast): In the belly of the MrBeast</small>
 
 
-| 🔥🔥: 452 \| 💬: [346](https://news.ycombinator.com/item?id=42696691) \| 🗓️ 2025-01-14
+| 🔥🔥: 454 \| 💬: [349](https://news.ycombinator.com/item?id=42696691) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/apple-will-soon-receive-made-in-america-chips-from-tsmcs-arizona-fab-company-in-final-stages-of-quality-verification): Apple will soon receive 'made in America' chips from TSMC's Arizona fab</small>
 
 
-| 🔥🔥: 416 \| 💬: [402](https://news.ycombinator.com/item?id=42699977) \| 🗓️ 2025-01-14
+| 🔥🔥: 420 \| 💬: [405](https://news.ycombinator.com/item?id=42699977) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -62,7 +62,7 @@ tags:
 <small>🔗 [gizmodo.com](https://gizmodo.com/1-in-5-online-job-postings-are-either-fake-or-never-filled-study-finds-2000549706): 1 in 5 online job postings are either fake or never filled, study finds</small>
 
 
-| 🔥🔥: 386 \| 💬: [344](https://news.ycombinator.com/item?id=42697783) \| 🗓️ 2025-01-14
+| 🔥🔥: 390 \| 💬: [345](https://news.ycombinator.com/item?id=42697783) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -70,27 +70,27 @@ tags:
 
 ---
 
-## <a name="5"></a>5. 为节省司机几秒钟，让行人更不安全 
-<small>🔗 [collegetowns.substack.com](https://collegetowns.substack.com/p/making-an-intersection-unsafe-for): Making an intersection unsafe for pedestrians to save seconds for drivers</small>
-
-
-| 🔥🔥: 286 \| 💬: [411](https://news.ycombinator.com/item?id=42698557) \| 🗓️ 2025-01-14
-
-
-<br />
-美国加州奥兰治市的一个大学城交叉路口，原本设有四向停车标志，**行人优先**。然而，为“优化交通”，市政府将其改为交通信号灯，**行人需按按钮等待**，而车辆则畅通无阻。这一改动不仅让行人体验变差，还**增加了安全隐患**，司机常闯红灯。这一设计反映了美国街道规划中**优先考虑车辆速度而非行人安全**的普遍问题。
-
----
-
-## <a name="6"></a>6. FFmpeg 示例指南 
+## <a name="5"></a>5. FFmpeg 示例指南 
 <small>🔗 [ffmpegbyexample.com](https://ffmpegbyexample.com/): FFmpeg by Example</small>
 
 
-| 🔥🔥: 285 \| 💬: [71](https://news.ycombinator.com/item?id=42695547) \| 🗓️ 2025-01-14
+| 🔥🔥: 326 \| 💬: [84](https://news.ycombinator.com/item?id=42695547) \| 🗓️ 2025-01-14
 
 
 <br />
 FFmpeg By Example 是一个展示 **FFmpeg** 多种独特用法的文档网站。用户可提交创意，社区共同改进。示例包括**打印文本文件到 STDOUT**、**提取视频帧**、**生成 GIF** 等。网站由 Gariany 和 FFmpeg Discord 社区维护，支持捐赠。
+
+---
+
+## <a name="6"></a>6. 为节省司机几秒钟，让行人更不安全 
+<small>🔗 [collegetowns.substack.com](https://collegetowns.substack.com/p/making-an-intersection-unsafe-for): Making an intersection unsafe for pedestrians to save seconds for drivers</small>
+
+
+| 🔥🔥: 287 \| 💬: [415](https://news.ycombinator.com/item?id=42698557) \| 🗓️ 2025-01-14
+
+
+<br />
+美国加州奥兰治市的一个大学城交叉路口，原本设有四向停车标志，**行人优先**。然而，为“优化交通”，市政府将其改为交通信号灯，**行人需按按钮等待**，而车辆则畅通无阻。这一改动不仅让行人体验变差，还**增加了安全隐患**，司机常闯红灯。这一设计反映了美国街道规划中**优先考虑车辆速度而非行人安全**的普遍问题。
 
 ---
 
@@ -110,7 +110,7 @@ DB-Engines 宣布 **PostgreSQL** 连续第二年并第五次荣获年度数据�
 <small>🔗 [coryzue.com](https://www.coryzue.com/writing/solopreneur/): Using coding skills to make passive income</small>
 
 
-| 🔥🔥: 214 \| 💬: [122](https://news.ycombinator.com/item?id=42696822) \| 🗓️ 2025-01-14
+| 🔥🔥: 218 \| 💬: [123](https://news.ycombinator.com/item?id=42696822) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -122,7 +122,7 @@ DB-Engines 宣布 **PostgreSQL** 连续第二年并第五次荣获年度数据�
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/01/14/meta-targeting-lowest-performing-employees-in-latest-round-of-layoffs.html): Meta announces 5% cuts in preparation for 'intense year'</small>
 
 
-| 🔥🔥: 171 \| 💬: [293](https://news.ycombinator.com/item?id=42700134) \| 🗓️ 2025-01-14
+| 🔥🔥: 175 \| 💬: [298](https://news.ycombinator.com/item?id=42700134) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -130,23 +130,11 @@ Meta计划裁员约5%，主要针对**低绩效员工**。CEO扎克伯格表示�
 
 ---
 
-## <a name="10"></a>10. Shepherd 1.0.0 发布 
-<small>🔗 [guix.gnu.org](https://guix.gnu.org/en/blog/2024/the-shepherd-1.0.0-released/): The Shepherd 1.0.0 released</small>
-
-
-| 🔥🔥: 154 \| 💬: [38](https://news.ycombinator.com/item?id=42698981) \| 🗓️ 2025-01-14
-
-
-<br />
-经过21年的开发，**Shepherd** 终于发布了1.0.0版本，标志着它从ZeroVer时代进入了1.0时代。Shepherd 是一个**服务管理器**，能够管理服务的状态和依赖关系，支持启动、停止和重启服务。它由两个命令组成：`shepherd` 守护进程和 `herd` 交互工具。此次更新增加了对**定时服务**的支持，并改进了服务状态显示。Shepherd 使用 **Guile Scheme** 进行配置和扩展，适合系统管理员和开发者使用。
-
----
-
-## <a name="11"></a>11. 如果你看到这个限速标志，你可能会死 
+## <a name="10"></a>10. 如果你看到这个限速标志，你可能会死 
 <small>🔗 [theautopian.com](https://www.theautopian.com/if-you-ever-see-this-speed-sign-youre-probably-going-to-die/): If You Ever See This Speed Sign, You're Probably Going to Die</small>
 
 
-| 🔥🔥: 147 \| 💬: [77](https://news.ycombinator.com/item?id=42704491) \| 🗓️ 2025-01-14
+| 🔥🔥: 169 \| 💬: [101](https://news.ycombinator.com/item?id=42704491) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -154,11 +142,11 @@ Meta计划裁员约5%，主要针对**低绩效员工**。CEO扎克伯格表示�
 
 ---
 
-## <a name="12"></a>12. 家庭损失文件系统 - 数字资源 
+## <a name="11"></a>11. 家庭损失文件系统 - 数字资源 
 <small>🔗 [docs.google.com](https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/htmlview#gid=1160377357): Home Loss File System</small>
 
 
-| 🔥🔥: 143 \| 💬: [22](https://news.ycombinator.com/item?id=42700997) \| 🗓️ 2025-01-14
+| 🔥🔥: 165 \| 💬: [23](https://news.ycombinator.com/item?id=42700997) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -166,11 +154,23 @@ Meta计划裁员约5%，主要针对**低绩效员工**。CEO扎克伯格表示�
 
 ---
 
+## <a name="12"></a>12. Shepherd 1.0.0 发布 
+<small>🔗 [guix.gnu.org](https://guix.gnu.org/en/blog/2024/the-shepherd-1.0.0-released/): The Shepherd 1.0.0 released</small>
+
+
+| 🔥🔥: 154 \| 💬: [40](https://news.ycombinator.com/item?id=42698981) \| 🗓️ 2025-01-14
+
+
+<br />
+经过21年的开发，**Shepherd** 终于发布了1.0.0版本，标志着它从ZeroVer时代进入了1.0时代。Shepherd 是一个**服务管理器**，能够管理服务的状态和依赖关系，支持启动、停止和重启服务。它由两个命令组成：`shepherd` 守护进程和 `herd` 交互工具。此次更新增加了对**定时服务**的支持，并改进了服务状态显示。Shepherd 使用 **Guile Scheme** 进行配置和扩展，适合系统管理员和开发者使用。
+
+---
+
 ## <a name="13"></a>13. 伺服电机 vs. 步进电机：速度、扭矩与精度 [视频] 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=H-nO1F-AO9I): Servo vs. steppers: Speed, Torque and Accuracy [video]</small>
 
 
-| 🔥🔥: 141 \| 💬: [50](https://news.ycombinator.com/item?id=42697335) \| 🗓️ 2025-01-14
+| 🔥🔥: 149 \| 💬: [56](https://news.ycombinator.com/item?id=42697335) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -182,7 +182,7 @@ Meta计划裁员约5%，主要针对**低绩效员工**。CEO扎克伯格表示�
 <small>🔗 [proton.me](https://proton.me/blog/2024-lifetime-fundraiser-results): Proton: We're giving away over $1M to support a better internet</small>
 
 
-| 🔥🔥: 139 \| 💬: [38](https://news.ycombinator.com/item?id=42697882) \| 🗓️ 2025-01-14
+| 🔥🔥: 140 \| 💬: [38](https://news.ycombinator.com/item?id=42697882) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -190,35 +190,11 @@ Proton在2024年的年度慈善筹款活动中筹集了**107.7万美元**，创�
 
 ---
 
-## <a name="15"></a>15. Allstate 使用 GasBuddy 等应用追踪驾驶行为：诉讼 
-<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/01/allstate-sued-for-allegedly-tracking-drivers-behavior-through-third-party-apps/): Allstate used GasBuddy and other apps to track driving behavior: lawsuit</small>
-
-
-| 🔥🔥: 130 \| 💬: [175](https://news.ycombinator.com/item?id=42699771) \| 🗓️ 2025-01-14
-
-
-<br />
-德克萨斯州起诉保险公司 Allstate，指控其通过 GasBuddy、Routely 和 Life360 等应用**秘密追踪驾驶行为**，并据此调整或取消保单。Allstate 及其子公司 Arity 收集了超过 4500 万人的**位置数据**，用于调整保险费率，涉嫌违反德克萨斯州的**数据隐私与安全法**。诉讼称，Arity 通过激励措施鼓励应用增加数据收集规模，且未充分告知用户数据用途。
-
----
-
-## <a name="16"></a>16. 全球植物二氧化碳吸收量新估计上升近三分之一 
-<small>🔗 [ornl.gov](https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates): Estimates of plant CO2 uptake rise by nearly one third</small>
-
-
-| 🔥🔥: 127 \| 💬: [124](https://news.ycombinator.com/item?id=42696517) \| 🗓️ 2025-01-14
-
-
-<br />
-科学家最新评估显示，全球植物吸收的二氧化碳比之前认为的多约31%。研究通过追踪**羰基硫（OCS）**作为光合作用代理，发现陆地总初级生产力（GPP）为每年157拍克碳，高于40年前的120拍克。热带雨林是主要碳汇，研究强调了**叶肉扩散**过程的重要性，有助于改进气候模型和预测未来二氧化碳水平。
-
----
-
-## <a name="17"></a>17. Show HN: 基于 WASM 的 GitHub Python 笔记本代码空间 
+## <a name="15"></a>15. Show HN: 基于 WASM 的 GitHub Python 笔记本代码空间 
 <small>🔗 [docs.marimo.io](https://docs.marimo.io/guides/publishing/playground/#open-notebooks-hosted-on-github): Show HN: WASM-powered codespaces for Python notebooks on GitHub</small>
 
 
-| 🔥🔥: 126 \| 💬: [21](https://news.ycombinator.com/item?id=42700852) \| 🗓️ 2025-01-14
+| 🔥🔥: 136 \| 💬: [21](https://news.ycombinator.com/item?id=42700852) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -226,11 +202,47 @@ marimo 提供了一个**在线游乐场**，允许用户免费创建和分享 **
 
 ---
 
-## <a name="18"></a>18. 推进美国在人工智能基础设施领域领导地位的行政命令 
+## <a name="16"></a>16. rqlite 的测试方法 
+<small>🔗 [philipotoole.com](https://philipotoole.com/how-is-rqlite-tested/): How rqlite is tested</small>
+
+
+| 🔥🔥: 131 \| 💬: [25](https://news.ycombinator.com/item?id=42703282) \| 🗓️ 2025-01-14
+
+
+<br />
+rqlite 是一个基于 SQLite 和 Raft 的轻量级分布式关系数据库，其设计始终注重**可靠性和质量**。测试采用**测试金字塔**策略，以单元测试为核心，辅以系统级测试和少量端到端测试。单元测试覆盖了大部分功能，确保组件独立性和快速反馈；系统测试验证分布式共识和容错能力；端到端测试则作为基本功能检查。性能测试则评估系统在高负载下的表现。通过这种分层测试策略，rqlite 在保持高质量的同时，简化了测试复杂性。
+
+---
+
+## <a name="17"></a>17. 全球植物二氧化碳吸收量新估计上升近三分之一 
+<small>🔗 [ornl.gov](https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates): Estimates of plant CO2 uptake rise by nearly one third</small>
+
+
+| 🔥🔥: 130 \| 💬: [126](https://news.ycombinator.com/item?id=42696517) \| 🗓️ 2025-01-14
+
+
+<br />
+科学家最新评估显示，全球植物吸收的二氧化碳比之前认为的多约31%。研究通过追踪**羰基硫（OCS）**作为光合作用代理，发现陆地总初级生产力（GPP）为每年157拍克碳，高于40年前的120拍克。热带雨林是主要碳汇，研究强调了**叶肉扩散**过程的重要性，有助于改进气候模型和预测未来二氧化碳水平。
+
+---
+
+## <a name="18"></a>18. Allstate 使用 GasBuddy 等应用追踪驾驶行为：诉讼 
+<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/01/allstate-sued-for-allegedly-tracking-drivers-behavior-through-third-party-apps/): Allstate used GasBuddy and other apps to track driving behavior: lawsuit</small>
+
+
+| 🔥🔥: 130 \| 💬: [179](https://news.ycombinator.com/item?id=42699771) \| 🗓️ 2025-01-14
+
+
+<br />
+德克萨斯州起诉保险公司 Allstate，指控其通过 GasBuddy、Routely 和 Life360 等应用**秘密追踪驾驶行为**，并据此调整或取消保单。Allstate 及其子公司 Arity 收集了超过 4500 万人的**位置数据**，用于调整保险费率，涉嫌违反德克萨斯州的**数据隐私与安全法**。诉讼称，Arity 通过激励措施鼓励应用增加数据收集规模，且未充分告知用户数据用途。
+
+---
+
+## <a name="19"></a>19. 推进美国在人工智能基础设施领域领导地位的行政命令 
 <small>🔗 [whitehouse.gov](https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/14/executive-order-on-advancing-united-states-leadership-in-artificial-intelligence-infrastructure/): Executive order on advancing United States leadership in AI infrastructure</small>
 
 
-| 🔥🔥: 125 \| 💬: [94](https://news.ycombinator.com/item?id=42700755) \| 🗓️ 2025-01-14
+| 🔥🔥: 127 \| 💬: [96](https://news.ycombinator.com/item?id=42700755) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -238,26 +250,14 @@ marimo 提供了一个**在线游乐场**，允许用户免费创建和分享 **
 
 ---
 
-## <a name="19"></a>19. 基于LLM的代理作为地下城主 
-<small>🔗 [studenttheses.uu.nl](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/47209/Thesis_Final.pdf?sequence=1&isAllowed=y): LLM based agents as Dungeon Masters</small>
+## <a name="20"></a>20. 不要随意使用余弦相似度 
+<small>🔗 [p.migdal.pl](https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/): Don't use cosine similarity carelessly</small>
 
 
-| 🔥🔥: 117 \| 💬: [115](https://news.ycombinator.com/item?id=42698610) \| 🗓️ 2025-01-14
-
-
-<br />
-本文探讨了使用**大型语言模型（LLM）**作为地下城主的可能性。通过LLM的生成能力，可以动态创建**地下城冒险**的故事情节、角色互动和任务设计。这种方法不仅提高了游戏的**沉浸感**，还为玩家提供了个性化的游戏体验。
-
----
-
-## <a name="20"></a>20. 特斯拉在欧洲销量大幅下滑 
-<small>🔗 [insideevs.com](https://insideevs.com/news/745119/tesla-sales-europe-2024/): Tesla Sales Are Tanking in Europe</small>
-
-
-| 🔥🔥: 116 \| 💬: [193](https://news.ycombinator.com/item?id=42698077) \| 🗓️ 2025-01-14
+| 🔥🔥: 125 \| 💬: [21](https://news.ycombinator.com/item?id=42704078) \| 🗓️ 2025-01-14
 
 
 <br />
-2024年前11个月，特斯拉在欧洲的**注册量**下降了两位数，11月单月降幅达40.9%。欧盟市场注册量从31,810辆降至18,786辆，**市场份额**从3.6%降至2.2%。销量下滑可能与**政府补贴减少**和CEO马斯克的争议有关，但整体电动车市场仅小幅下降，其他车企填补了特斯拉的缺口。
+余弦相似度是向量比较的常用方法，但盲目使用可能导致错误结果。**嵌入向量**虽能捕捉相似性，但可能反映错误的模式，如匹配问题而非答案。**余弦相似度**虽简单，但高维空间中的几何直觉不可靠。建议根据任务优化嵌入，或直接使用**LLM**进行语义比较，避免依赖单一数值。
 
 ---
