@@ -9,8 +9,8 @@ tags:
 
 
 1. 我改用Firefox后再也没回头；
-1. 在MrBeast的肚子里；
 1. FFmpeg 示例指南；
+1. 在MrBeast的肚子里；
 1. 苹果将很快从台积电亚利桑那工厂获得“美国制造”芯片；
 1. 五分之一的在线职位发布是虚假或从未填补，研究发现；
 
@@ -34,23 +34,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. 在MrBeast的肚子里 
-<small>🔗 [kevinmunger.substack.com](https://kevinmunger.substack.com/p/in-the-belly-of-the-mrbeast): In the belly of the MrBeast</small>
-
-
-| 🔥🔥: 467 \| 💬: [359](https://news.ycombinator.com/item?id=42696691) \| 🗓️ 2025-01-14
-
-
-<br />
-文章探讨了MrBeast如何通过**平台指标**（如点击率、观看时长）优化内容，强调**YouTube视频的美感**在于内容与平台架构的和谐。MrBeast的成功源于对**观众反馈**的极致追求，将自身与内容融为一体，成为平台的“创作物”。
-
----
-
-## <a name="3"></a>3. FFmpeg 示例指南 
+## <a name="2"></a>2. FFmpeg 示例指南 
 <small>🔗 [ffmpegbyexample.com](https://ffmpegbyexample.com/): FFmpeg by Example</small>
 
 
-| 🔥🔥: 445 \| 💬: [113](https://news.ycombinator.com/item?id=42695547) \| 🗓️ 2025-01-14
+| 🔥🔥: 492 \| 💬: [121](https://news.ycombinator.com/item?id=42695547) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -58,11 +46,23 @@ FFmpeg By Example 是一个展示 **FFmpeg** 多种独特用法的文档网站�
 
 ---
 
+## <a name="3"></a>3. 在MrBeast的肚子里 
+<small>🔗 [kevinmunger.substack.com](https://kevinmunger.substack.com/p/in-the-belly-of-the-mrbeast): In the belly of the MrBeast</small>
+
+
+| 🔥🔥: 469 \| 💬: [361](https://news.ycombinator.com/item?id=42696691) \| 🗓️ 2025-01-14
+
+
+<br />
+文章探讨了MrBeast如何通过**平台指标**（如点击率、观看时长）优化内容，强调**YouTube视频的美感**在于内容与平台架构的和谐。MrBeast的成功源于对**观众反馈**的极致追求，将自身与内容融为一体，成为平台的“创作物”。
+
+---
+
 ## <a name="4"></a>4. 苹果将很快从台积电亚利桑那工厂获得“美国制造”芯片 
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/apple-will-soon-receive-made-in-america-chips-from-tsmcs-arizona-fab-company-in-final-stages-of-quality-verification): Apple will soon receive 'made in America' chips from TSMC's Arizona fab</small>
 
 
-| 🔥🔥: 435 \| 💬: [418](https://news.ycombinator.com/item?id=42699977) \| 🗓️ 2025-01-14
+| 🔥🔥: 436 \| 💬: [421](https://news.ycombinator.com/item?id=42699977) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -74,7 +74,7 @@ FFmpeg By Example 是一个展示 **FFmpeg** 多种独特用法的文档网站�
 <small>🔗 [gizmodo.com](https://gizmodo.com/1-in-5-online-job-postings-are-either-fake-or-never-filled-study-finds-2000549706): 1 in 5 online job postings are either fake or never filled, study finds</small>
 
 
-| 🔥🔥: 394 \| 💬: [353](https://news.ycombinator.com/item?id=42697783) \| 🗓️ 2025-01-14
+| 🔥🔥: 395 \| 💬: [354](https://news.ycombinator.com/item?id=42697783) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -86,7 +86,7 @@ FFmpeg By Example 是一个展示 **FFmpeg** 多种独特用法的文档网站�
 <small>🔗 [collegetowns.substack.com](https://collegetowns.substack.com/p/making-an-intersection-unsafe-for): Making an intersection unsafe for pedestrians to save seconds for drivers</small>
 
 
-| 🔥🔥: 288 \| 💬: [421](https://news.ycombinator.com/item?id=42698557) \| 🗓️ 2025-01-14
+| 🔥🔥: 288 \| 💬: [422](https://news.ycombinator.com/item?id=42698557) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -110,7 +110,7 @@ DB-Engines 宣布 **PostgreSQL** 连续第二年并第五次荣获年度数据�
 <small>🔗 [theautopian.com](https://www.theautopian.com/if-you-ever-see-this-speed-sign-youre-probably-going-to-die/): If You Ever See This Speed Sign, You're Probably Going to Die</small>
 
 
-| 🔥🔥: 227 \| 💬: [142](https://news.ycombinator.com/item?id=42704491) \| 🗓️ 2025-01-14
+| 🔥🔥: 240 \| 💬: [157](https://news.ycombinator.com/item?id=42704491) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -122,7 +122,7 @@ DB-Engines 宣布 **PostgreSQL** 连续第二年并第五次荣获年度数据�
 <small>🔗 [coryzue.com](https://www.coryzue.com/writing/solopreneur/): Using coding skills to make passive income</small>
 
 
-| 🔥🔥: 222 \| 💬: [125](https://news.ycombinator.com/item?id=42696822) \| 🗓️ 2025-01-14
+| 🔥🔥: 225 \| 💬: [126](https://news.ycombinator.com/item?id=42696822) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -134,7 +134,7 @@ DB-Engines 宣布 **PostgreSQL** 连续第二年并第五次荣获年度数据�
 <small>🔗 [docs.google.com](https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/edit?usp=sharing): Home Loss File System</small>
 
 
-| 🔥🔥: 209 \| 💬: [32](https://news.ycombinator.com/item?id=42700997) \| 🗓️ 2025-01-14
+| 🔥🔥: 217 \| 💬: [34](https://news.ycombinator.com/item?id=42700997) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -146,7 +146,7 @@ DB-Engines 宣布 **PostgreSQL** 连续第二年并第五次荣获年度数据�
 <small>🔗 [p.migdal.pl](https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/): Don't use cosine similarity carelessly</small>
 
 
-| 🔥🔥: 192 \| 💬: [30](https://news.ycombinator.com/item?id=42704078) \| 🗓️ 2025-01-14
+| 🔥🔥: 211 \| 💬: [33](https://news.ycombinator.com/item?id=42704078) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -158,7 +158,7 @@ DB-Engines 宣布 **PostgreSQL** 连续第二年并第五次荣获年度数据�
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/01/14/meta-targeting-lowest-performing-employees-in-latest-round-of-layoffs.html): Meta announces 5% cuts in preparation for 'intense year'</small>
 
 
-| 🔥🔥: 182 \| 💬: [314](https://news.ycombinator.com/item?id=42700134) \| 🗓️ 2025-01-14
+| 🔥🔥: 184 \| 💬: [316](https://news.ycombinator.com/item?id=42700134) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -170,7 +170,7 @@ Meta计划裁员约5%，主要针对**低绩效员工**。CEO扎克伯格表示�
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=H-nO1F-AO9I): Servo vs. steppers: Speed, Torque and Accuracy [video]</small>
 
 
-| 🔥🔥: 164 \| 💬: [62](https://news.ycombinator.com/item?id=42697335) \| 🗓️ 2025-01-14
+| 🔥🔥: 171 \| 💬: [62](https://news.ycombinator.com/item?id=42697335) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -182,7 +182,7 @@ Meta计划裁员约5%，主要针对**低绩效员工**。CEO扎克伯格表示�
 <small>🔗 [philipotoole.com](https://philipotoole.com/how-is-rqlite-tested/): How rqlite is tested</small>
 
 
-| 🔥🔥: 160 \| 💬: [29](https://news.ycombinator.com/item?id=42703282) \| 🗓️ 2025-01-14
+| 🔥🔥: 170 \| 💬: [30](https://news.ycombinator.com/item?id=42703282) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -194,7 +194,7 @@ rqlite 是一个基于 SQLite 和 Raft 的轻量级分布式关系数据库，�
 <small>🔗 [guix.gnu.org](https://guix.gnu.org/en/blog/2024/the-shepherd-1.0.0-released/): The Shepherd 1.0.0 released</small>
 
 
-| 🔥🔥: 157 \| 💬: [40](https://news.ycombinator.com/item?id=42698981) \| 🗓️ 2025-01-14
+| 🔥🔥: 159 \| 💬: [40](https://news.ycombinator.com/item?id=42698981) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -206,7 +206,7 @@ rqlite 是一个基于 SQLite 和 Raft 的轻量级分布式关系数据库，�
 <small>🔗 [docs.marimo.io](https://docs.marimo.io/guides/publishing/playground/#open-notebooks-hosted-on-github): Show HN: WASM-powered codespaces for Python notebooks on GitHub</small>
 
 
-| 🔥🔥: 149 \| 💬: [22](https://news.ycombinator.com/item?id=42700852) \| 🗓️ 2025-01-14
+| 🔥🔥: 152 \| 💬: [23](https://news.ycombinator.com/item?id=42700852) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -218,7 +218,7 @@ marimo 提供了一个**在线游乐场**，允许用户免费创建和分享 **
 <small>🔗 [ornl.gov](https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates): Estimates of plant CO2 uptake rise by nearly one third</small>
 
 
-| 🔥🔥: 143 \| 💬: [131](https://news.ycombinator.com/item?id=42696517) \| 🗓️ 2025-01-14
+| 🔥🔥: 145 \| 💬: [132](https://news.ycombinator.com/item?id=42696517) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -230,7 +230,7 @@ marimo 提供了一个**在线游乐场**，允许用户免费创建和分享 **
 <small>🔗 [proton.me](https://proton.me/blog/2024-lifetime-fundraiser-results): Proton: We're giving away over $1M to support a better internet</small>
 
 
-| 🔥🔥: 141 \| 💬: [38](https://news.ycombinator.com/item?id=42697882) \| 🗓️ 2025-01-14
+| 🔥🔥: 141 \| 💬: [39](https://news.ycombinator.com/item?id=42697882) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -238,7 +238,19 @@ Proton在2024年的年度慈善筹款活动中筹集了**107.7万美元**，创�
 
 ---
 
-## <a name="19"></a>19. Allstate 使用 GasBuddy 等应用追踪驾驶行为：诉讼 
+## <a name="19"></a>19. Show HN: 一个用于从搜索结果中移除垃圾和不良网站的屏蔽列表 
+<small>🔗 [github.com](https://github.com/popcar2/BadWebsiteBlocklist): Show HN: A blocklist to remove spam and bad websites from search results</small>
+
+
+| 🔥🔥: 132 \| 💬: [55](https://news.ycombinator.com/item?id=42697346) \| 🗓️ 2025-01-14
+
+
+<br />
+这是一个通过 **uBlocklist** 过滤垃圾和误导性网站的列表，旨在从搜索结果中移除低质量内容，如 **AI生成的文章**、低效的垃圾网站和伪装成信息的广告。用户可通过安装 **uBlacklist** 扩展并订阅该列表，自动屏蔽不良网站。每个被屏蔽的网站都有详细说明，确保透明性和可追溯性。
+
+---
+
+## <a name="20"></a>20. Allstate 使用 GasBuddy 等应用追踪驾驶行为：诉讼 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/01/allstate-sued-for-allegedly-tracking-drivers-behavior-through-third-party-apps/): Allstate used GasBuddy and other apps to track driving behavior: lawsuit</small>
 
 
@@ -247,17 +259,5 @@ Proton在2024年的年度慈善筹款活动中筹集了**107.7万美元**，创�
 
 <br />
 德克萨斯州起诉保险公司 Allstate，指控其通过 GasBuddy、Routely 和 Life360 等应用**秘密追踪驾驶行为**，并据此调整或取消保单。Allstate 及其子公司 Arity 收集了超过 4500 万人的**位置数据**，用于调整保险费率，涉嫌违反德克萨斯州的**数据隐私与安全法**。诉讼称，Arity 通过激励措施鼓励应用增加数据收集规模，且未充分告知用户数据用途。
-
----
-
-## <a name="20"></a>20. 推进美国在人工智能基础设施领域领导地位的行政命令 
-<small>🔗 [whitehouse.gov](https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/14/executive-order-on-advancing-united-states-leadership-in-artificial-intelligence-infrastructure/): Executive order on advancing United States leadership in AI infrastructure</small>
-
-
-| 🔥🔥: 128 \| 💬: [96](https://news.ycombinator.com/item?id=42700755) \| 🗓️ 2025-01-14
-
-
-<br />
-该行政命令旨在确保美国在**人工智能（AI）**领域的领导地位，强调AI对国家安全和经济竞争力的重要性。通过推动国内AI基础设施建设，包括**清洁能源**和先进计算集群，确保美国在全球AI竞赛中保持领先。同时，命令要求保护供应链安全、降低能源成本，并确保AI基础设施的建设惠及工人和社区。
 
 ---
