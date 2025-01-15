@@ -26,7 +26,7 @@ tags:
 <small>🔗 [howtogeek.com](https://www.howtogeek.com/why-i-switched-to-firefox-and-never-looked-back/): I Switched to Firefox and Never Looked Back</small>
 
 
-| 🔥🔥: 546 \| 💬: [461](https://news.ycombinator.com/item?id=42696081) \| 🗓️ 2025-01-14
+| 🔥🔥: 552 \| 💬: [462](https://news.ycombinator.com/item?id=42696081) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [kevinmunger.substack.com](https://kevinmunger.substack.com/p/in-the-belly-of-the-mrbeast): In the belly of the MrBeast</small>
 
 
-| 🔥🔥: 454 \| 💬: [349](https://news.ycombinator.com/item?id=42696691) \| 🗓️ 2025-01-14
+| 🔥🔥: 459 \| 💬: [352](https://news.ycombinator.com/item?id=42696691) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/apple-will-soon-receive-made-in-america-chips-from-tsmcs-arizona-fab-company-in-final-stages-of-quality-verification): Apple will soon receive 'made in America' chips from TSMC's Arizona fab</small>
 
 
-| 🔥🔥: 420 \| 💬: [405](https://news.ycombinator.com/item?id=42699977) \| 🗓️ 2025-01-14
+| 🔥🔥: 426 \| 💬: [409](https://news.ycombinator.com/item?id=42699977) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -62,7 +62,7 @@ tags:
 <small>🔗 [gizmodo.com](https://gizmodo.com/1-in-5-online-job-postings-are-either-fake-or-never-filled-study-finds-2000549706): 1 in 5 online job postings are either fake or never filled, study finds</small>
 
 
-| 🔥🔥: 390 \| 💬: [345](https://news.ycombinator.com/item?id=42697783) \| 🗓️ 2025-01-14
+| 🔥🔥: 392 \| 💬: [350](https://news.ycombinator.com/item?id=42697783) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -74,7 +74,7 @@ tags:
 <small>🔗 [ffmpegbyexample.com](https://ffmpegbyexample.com/): FFmpeg by Example</small>
 
 
-| 🔥🔥: 326 \| 💬: [84](https://news.ycombinator.com/item?id=42695547) \| 🗓️ 2025-01-14
+| 🔥🔥: 374 \| 💬: [98](https://news.ycombinator.com/item?id=42695547) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -86,7 +86,7 @@ FFmpeg By Example 是一个展示 **FFmpeg** 多种独特用法的文档网站�
 <small>🔗 [collegetowns.substack.com](https://collegetowns.substack.com/p/making-an-intersection-unsafe-for): Making an intersection unsafe for pedestrians to save seconds for drivers</small>
 
 
-| 🔥🔥: 287 \| 💬: [415](https://news.ycombinator.com/item?id=42698557) \| 🗓️ 2025-01-14
+| 🔥🔥: 287 \| 💬: [417](https://news.ycombinator.com/item?id=42698557) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -98,7 +98,7 @@ FFmpeg By Example 是一个展示 **FFmpeg** 多种独特用法的文档网站�
 <small>🔗 [db-engines.com](https://db-engines.com/en/blog_post/109): PostgreSQL is the Database Management System of the Year 2024</small>
 
 
-| 🔥🔥: 249 \| 💬: [92](https://news.ycombinator.com/item?id=42696080) \| 🗓️ 2025-01-14
+| 🔥🔥: 249 \| 💬: [93](https://news.ycombinator.com/item?id=42696080) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -110,7 +110,7 @@ DB-Engines 宣布 **PostgreSQL** 连续第二年并第五次荣获年度数据�
 <small>🔗 [coryzue.com](https://www.coryzue.com/writing/solopreneur/): Using coding skills to make passive income</small>
 
 
-| 🔥🔥: 218 \| 💬: [123](https://news.ycombinator.com/item?id=42696822) \| 🗓️ 2025-01-14
+| 🔥🔥: 220 \| 💬: [124](https://news.ycombinator.com/item?id=42696822) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -118,23 +118,11 @@ DB-Engines 宣布 **PostgreSQL** 连续第二年并第五次荣获年度数据�
 
 ---
 
-## <a name="9"></a>9. Meta宣布裁员5%以应对“紧张的一年” 
-<small>🔗 [cnbc.com](https://www.cnbc.com/2025/01/14/meta-targeting-lowest-performing-employees-in-latest-round-of-layoffs.html): Meta announces 5% cuts in preparation for 'intense year'</small>
-
-
-| 🔥🔥: 175 \| 💬: [298](https://news.ycombinator.com/item?id=42700134) \| 🗓️ 2025-01-14
-
-
-<br />
-Meta计划裁员约5%，主要针对**低绩效员工**。CEO扎克伯格表示，2025年将是“紧张的一年”，公司将加快淘汰低绩效员工。受影响的员工将在2月10日前收到通知，并获得与之前裁员相同的**遣散费**。这是Meta自2022-2023年裁员21,000人以来最大规模的裁员。
-
----
-
-## <a name="10"></a>10. 如果你看到这个限速标志，你可能会死 
+## <a name="9"></a>9. 如果你看到这个限速标志，你可能会死 
 <small>🔗 [theautopian.com](https://www.theautopian.com/if-you-ever-see-this-speed-sign-youre-probably-going-to-die/): If You Ever See This Speed Sign, You're Probably Going to Die</small>
 
 
-| 🔥🔥: 169 \| 💬: [101](https://news.ycombinator.com/item?id=42704491) \| 🗓️ 2025-01-14
+| 🔥🔥: 193 \| 💬: [124](https://news.ycombinator.com/item?id=42704491) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -142,11 +130,11 @@ Meta计划裁员约5%，主要针对**低绩效员工**。CEO扎克伯格表示�
 
 ---
 
-## <a name="11"></a>11. 家庭损失文件系统 - 数字资源 
-<small>🔗 [docs.google.com](https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/htmlview#gid=1160377357): Home Loss File System</small>
+## <a name="10"></a>10. 家庭损失文件系统 - 数字资源 
+<small>🔗 [docs.google.com](https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/edit?usp=sharing): Home Loss File System</small>
 
 
-| 🔥🔥: 165 \| 💬: [23](https://news.ycombinator.com/item?id=42700997) \| 🗓️ 2025-01-14
+| 🔥🔥: 180 \| 💬: [28](https://news.ycombinator.com/item?id=42700997) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -154,11 +142,35 @@ Meta计划裁员约5%，主要针对**低绩效员工**。CEO扎克伯格表示�
 
 ---
 
-## <a name="12"></a>12. Shepherd 1.0.0 发布 
+## <a name="11"></a>11. Meta宣布裁员5%以应对“紧张的一年” 
+<small>🔗 [cnbc.com](https://www.cnbc.com/2025/01/14/meta-targeting-lowest-performing-employees-in-latest-round-of-layoffs.html): Meta announces 5% cuts in preparation for 'intense year'</small>
+
+
+| 🔥🔥: 177 \| 💬: [305](https://news.ycombinator.com/item?id=42700134) \| 🗓️ 2025-01-14
+
+
+<br />
+Meta计划裁员约5%，主要针对**低绩效员工**。CEO扎克伯格表示，2025年将是“紧张的一年”，公司将加快淘汰低绩效员工。受影响的员工将在2月10日前收到通知，并获得与之前裁员相同的**遣散费**。这是Meta自2022-2023年裁员21,000人以来最大规模的裁员。
+
+---
+
+## <a name="12"></a>12. 不要随意使用余弦相似度 
+<small>🔗 [p.migdal.pl](https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/): Don't use cosine similarity carelessly</small>
+
+
+| 🔥🔥: 159 \| 💬: [24](https://news.ycombinator.com/item?id=42704078) \| 🗓️ 2025-01-14
+
+
+<br />
+余弦相似度是向量比较的常用方法，但盲目使用可能导致错误结果。**嵌入向量**虽能捕捉相似性，但可能反映错误的模式，如匹配问题而非答案。**余弦相似度**虽简单，但高维空间中的几何直觉不可靠。建议根据任务优化嵌入，或直接使用**LLM**进行语义比较，避免依赖单一数值。
+
+---
+
+## <a name="13"></a>13. Shepherd 1.0.0 发布 
 <small>🔗 [guix.gnu.org](https://guix.gnu.org/en/blog/2024/the-shepherd-1.0.0-released/): The Shepherd 1.0.0 released</small>
 
 
-| 🔥🔥: 154 \| 💬: [40](https://news.ycombinator.com/item?id=42698981) \| 🗓️ 2025-01-14
+| 🔥🔥: 156 \| 💬: [40](https://news.ycombinator.com/item?id=42698981) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -166,11 +178,11 @@ Meta计划裁员约5%，主要针对**低绩效员工**。CEO扎克伯格表示�
 
 ---
 
-## <a name="13"></a>13. 伺服电机 vs. 步进电机：速度、扭矩与精度 [视频] 
+## <a name="14"></a>14. 伺服电机 vs. 步进电机：速度、扭矩与精度 [视频] 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=H-nO1F-AO9I): Servo vs. steppers: Speed, Torque and Accuracy [video]</small>
 
 
-| 🔥🔥: 149 \| 💬: [56](https://news.ycombinator.com/item?id=42697335) \| 🗓️ 2025-01-14
+| 🔥🔥: 155 \| 💬: [60](https://news.ycombinator.com/item?id=42697335) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -178,7 +190,19 @@ Meta计划裁员约5%，主要针对**低绩效员工**。CEO扎克伯格表示�
 
 ---
 
-## <a name="14"></a>14. Proton：捐赠超100万美元支持更好的互联网 
+## <a name="15"></a>15. Show HN: 基于 WASM 的 GitHub Python 笔记本代码空间 
+<small>🔗 [docs.marimo.io](https://docs.marimo.io/guides/publishing/playground/#open-notebooks-hosted-on-github): Show HN: WASM-powered codespaces for Python notebooks on GitHub</small>
+
+
+| 🔥🔥: 141 \| 💬: [22](https://news.ycombinator.com/item?id=42700852) \| 🗓️ 2025-01-14
+
+
+<br />
+marimo 提供了一个**在线游乐场**，允许用户免费创建和分享 **WebAssembly (WASM) 笔记本**，无需注册。用户可以通过链接分享笔记本，或将其嵌入网页。marimo 还支持从 **GitHub** 导入 Jupyter 笔记本，并自动转换为 marimo 格式。通过 iframe 嵌入功能，用户可以将笔记本集成到自己的网页中，并支持**只读模式**和隐藏代码等配置选项。
+
+---
+
+## <a name="16"></a>16. Proton：捐赠超100万美元支持更好的互联网 
 <small>🔗 [proton.me](https://proton.me/blog/2024-lifetime-fundraiser-results): Proton: We're giving away over $1M to support a better internet</small>
 
 
@@ -190,23 +214,11 @@ Proton在2024年的年度慈善筹款活动中筹集了**107.7万美元**，创�
 
 ---
 
-## <a name="15"></a>15. Show HN: 基于 WASM 的 GitHub Python 笔记本代码空间 
-<small>🔗 [docs.marimo.io](https://docs.marimo.io/guides/publishing/playground/#open-notebooks-hosted-on-github): Show HN: WASM-powered codespaces for Python notebooks on GitHub</small>
-
-
-| 🔥🔥: 136 \| 💬: [21](https://news.ycombinator.com/item?id=42700852) \| 🗓️ 2025-01-14
-
-
-<br />
-marimo 提供了一个**在线游乐场**，允许用户免费创建和分享 **WebAssembly (WASM) 笔记本**，无需注册。用户可以通过链接分享笔记本，或将其嵌入网页。marimo 还支持从 **GitHub** 导入 Jupyter 笔记本，并自动转换为 marimo 格式。通过 iframe 嵌入功能，用户可以将笔记本集成到自己的网页中，并支持**只读模式**和隐藏代码等配置选项。
-
----
-
-## <a name="16"></a>16. rqlite 的测试方法 
+## <a name="17"></a>17. rqlite 的测试方法 
 <small>🔗 [philipotoole.com](https://philipotoole.com/how-is-rqlite-tested/): How rqlite is tested</small>
 
 
-| 🔥🔥: 131 \| 💬: [25](https://news.ycombinator.com/item?id=42703282) \| 🗓️ 2025-01-14
+| 🔥🔥: 137 \| 💬: [27](https://news.ycombinator.com/item?id=42703282) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -214,11 +226,11 @@ rqlite 是一个基于 SQLite 和 Raft 的轻量级分布式关系数据库，�
 
 ---
 
-## <a name="17"></a>17. 全球植物二氧化碳吸收量新估计上升近三分之一 
+## <a name="18"></a>18. 全球植物二氧化碳吸收量新估计上升近三分之一 
 <small>🔗 [ornl.gov](https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates): Estimates of plant CO2 uptake rise by nearly one third</small>
 
 
-| 🔥🔥: 130 \| 💬: [126](https://news.ycombinator.com/item?id=42696517) \| 🗓️ 2025-01-14
+| 🔥🔥: 134 \| 💬: [129](https://news.ycombinator.com/item?id=42696517) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -226,11 +238,11 @@ rqlite 是一个基于 SQLite 和 Raft 的轻量级分布式关系数据库，�
 
 ---
 
-## <a name="18"></a>18. Allstate 使用 GasBuddy 等应用追踪驾驶行为：诉讼 
+## <a name="19"></a>19. Allstate 使用 GasBuddy 等应用追踪驾驶行为：诉讼 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/01/allstate-sued-for-allegedly-tracking-drivers-behavior-through-third-party-apps/): Allstate used GasBuddy and other apps to track driving behavior: lawsuit</small>
 
 
-| 🔥🔥: 130 \| 💬: [179](https://news.ycombinator.com/item?id=42699771) \| 🗓️ 2025-01-14
+| 🔥🔥: 131 \| 💬: [179](https://news.ycombinator.com/item?id=42699771) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -238,26 +250,14 @@ rqlite 是一个基于 SQLite 和 Raft 的轻量级分布式关系数据库，�
 
 ---
 
-## <a name="19"></a>19. 推进美国在人工智能基础设施领域领导地位的行政命令 
+## <a name="20"></a>20. 推进美国在人工智能基础设施领域领导地位的行政命令 
 <small>🔗 [whitehouse.gov](https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/14/executive-order-on-advancing-united-states-leadership-in-artificial-intelligence-infrastructure/): Executive order on advancing United States leadership in AI infrastructure</small>
 
 
-| 🔥🔥: 127 \| 💬: [96](https://news.ycombinator.com/item?id=42700755) \| 🗓️ 2025-01-14
+| 🔥🔥: 128 \| 💬: [96](https://news.ycombinator.com/item?id=42700755) \| 🗓️ 2025-01-14
 
 
 <br />
 该行政命令旨在确保美国在**人工智能（AI）**领域的领导地位，强调AI对国家安全和经济竞争力的重要性。通过推动国内AI基础设施建设，包括**清洁能源**和先进计算集群，确保美国在全球AI竞赛中保持领先。同时，命令要求保护供应链安全、降低能源成本，并确保AI基础设施的建设惠及工人和社区。
-
----
-
-## <a name="20"></a>20. 不要随意使用余弦相似度 
-<small>🔗 [p.migdal.pl](https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/): Don't use cosine similarity carelessly</small>
-
-
-| 🔥🔥: 125 \| 💬: [21](https://news.ycombinator.com/item?id=42704078) \| 🗓️ 2025-01-14
-
-
-<br />
-余弦相似度是向量比较的常用方法，但盲目使用可能导致错误结果。**嵌入向量**虽能捕捉相似性，但可能反映错误的模式，如匹配问题而非答案。**余弦相似度**虽简单，但高维空间中的几何直觉不可靠。建议根据任务优化嵌入，或直接使用**LLM**进行语义比较，避免依赖单一数值。
 
 ---
