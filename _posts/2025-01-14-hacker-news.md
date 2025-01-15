@@ -11,8 +11,8 @@ tags:
 1. 我改用Firefox后再也没回头；
 1. 在MrBeast的肚子里；
 1. 苹果将很快从台积电亚利桑那工厂获得“美国制造”芯片；
-1. 五分之一的在线职位发布是虚假或从未填补，研究发现；
 1. FFmpeg 示例指南；
+1. 五分之一的在线职位发布是虚假或从未填补，研究发现；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [howtogeek.com](https://www.howtogeek.com/why-i-switched-to-firefox-and-never-looked-back/): I Switched to Firefox and Never Looked Back</small>
 
 
-| 🔥🔥: 552 \| 💬: [462](https://news.ycombinator.com/item?id=42696081) \| 🗓️ 2025-01-14
+| 🔥🔥: 554 \| 💬: [467](https://news.ycombinator.com/item?id=42696081) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [kevinmunger.substack.com](https://kevinmunger.substack.com/p/in-the-belly-of-the-mrbeast): In the belly of the MrBeast</small>
 
 
-| 🔥🔥: 459 \| 💬: [352](https://news.ycombinator.com/item?id=42696691) \| 🗓️ 2025-01-14
+| 🔥🔥: 463 \| 💬: [355](https://news.ycombinator.com/item?id=42696691) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/apple-will-soon-receive-made-in-america-chips-from-tsmcs-arizona-fab-company-in-final-stages-of-quality-verification): Apple will soon receive 'made in America' chips from TSMC's Arizona fab</small>
 
 
-| 🔥🔥: 426 \| 💬: [409](https://news.ycombinator.com/item?id=42699977) \| 🗓️ 2025-01-14
+| 🔥🔥: 428 \| 💬: [415](https://news.ycombinator.com/item?id=42699977) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -58,23 +58,11 @@ tags:
 
 ---
 
-## <a name="4"></a>4. 五分之一的在线职位发布是虚假或从未填补，研究发现 
-<small>🔗 [gizmodo.com](https://gizmodo.com/1-in-5-online-job-postings-are-either-fake-or-never-filled-study-finds-2000549706): 1 in 5 online job postings are either fake or never filled, study finds</small>
-
-
-| 🔥🔥: 392 \| 💬: [350](https://news.ycombinator.com/item?id=42697783) \| 🗓️ 2025-01-14
-
-
-<br />
-根据《华尔街日报》引用招聘平台Greenhouse的内部数据，**五分之一的在线职位发布**（约18%至22%）是**虚假或从未填补**的。这种现象被称为“**幽灵职位**”，可能是企业为了营造增长假象而采取的策略。Greenhouse和LinkedIn已推出职位验证服务，帮助求职者辨别职位真伪。
-
----
-
-## <a name="5"></a>5. FFmpeg 示例指南 
+## <a name="4"></a>4. FFmpeg 示例指南 
 <small>🔗 [ffmpegbyexample.com](https://ffmpegbyexample.com/): FFmpeg by Example</small>
 
 
-| 🔥🔥: 374 \| 💬: [98](https://news.ycombinator.com/item?id=42695547) \| 🗓️ 2025-01-14
+| 🔥🔥: 408 \| 💬: [107](https://news.ycombinator.com/item?id=42695547) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -82,11 +70,23 @@ FFmpeg By Example 是一个展示 **FFmpeg** 多种独特用法的文档网站�
 
 ---
 
+## <a name="5"></a>5. 五分之一的在线职位发布是虚假或从未填补，研究发现 
+<small>🔗 [gizmodo.com](https://gizmodo.com/1-in-5-online-job-postings-are-either-fake-or-never-filled-study-finds-2000549706): 1 in 5 online job postings are either fake or never filled, study finds</small>
+
+
+| 🔥🔥: 393 \| 💬: [351](https://news.ycombinator.com/item?id=42697783) \| 🗓️ 2025-01-14
+
+
+<br />
+根据《华尔街日报》引用招聘平台Greenhouse的内部数据，**五分之一的在线职位发布**（约18%至22%）是**虚假或从未填补**的。这种现象被称为“**幽灵职位**”，可能是企业为了营造增长假象而采取的策略。Greenhouse和LinkedIn已推出职位验证服务，帮助求职者辨别职位真伪。
+
+---
+
 ## <a name="6"></a>6. 为节省司机几秒钟，让行人更不安全 
 <small>🔗 [collegetowns.substack.com](https://collegetowns.substack.com/p/making-an-intersection-unsafe-for): Making an intersection unsafe for pedestrians to save seconds for drivers</small>
 
 
-| 🔥🔥: 287 \| 💬: [417](https://news.ycombinator.com/item?id=42698557) \| 🗓️ 2025-01-14
+| 🔥🔥: 287 \| 💬: [418](https://news.ycombinator.com/item?id=42698557) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -98,7 +98,7 @@ FFmpeg By Example 是一个展示 **FFmpeg** 多种独特用法的文档网站�
 <small>🔗 [db-engines.com](https://db-engines.com/en/blog_post/109): PostgreSQL is the Database Management System of the Year 2024</small>
 
 
-| 🔥🔥: 249 \| 💬: [93](https://news.ycombinator.com/item?id=42696080) \| 🗓️ 2025-01-14
+| 🔥🔥: 251 \| 💬: [94](https://news.ycombinator.com/item?id=42696080) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -110,7 +110,7 @@ DB-Engines 宣布 **PostgreSQL** 连续第二年并第五次荣获年度数据�
 <small>🔗 [coryzue.com](https://www.coryzue.com/writing/solopreneur/): Using coding skills to make passive income</small>
 
 
-| 🔥🔥: 220 \| 💬: [124](https://news.ycombinator.com/item?id=42696822) \| 🗓️ 2025-01-14
+| 🔥🔥: 222 \| 💬: [125](https://news.ycombinator.com/item?id=42696822) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -122,7 +122,7 @@ DB-Engines 宣布 **PostgreSQL** 连续第二年并第五次荣获年度数据�
 <small>🔗 [theautopian.com](https://www.theautopian.com/if-you-ever-see-this-speed-sign-youre-probably-going-to-die/): If You Ever See This Speed Sign, You're Probably Going to Die</small>
 
 
-| 🔥🔥: 193 \| 💬: [124](https://news.ycombinator.com/item?id=42704491) \| 🗓️ 2025-01-14
+| 🔥🔥: 214 \| 💬: [132](https://news.ycombinator.com/item?id=42704491) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -134,7 +134,7 @@ DB-Engines 宣布 **PostgreSQL** 连续第二年并第五次荣获年度数据�
 <small>🔗 [docs.google.com](https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/edit?usp=sharing): Home Loss File System</small>
 
 
-| 🔥🔥: 180 \| 💬: [28](https://news.ycombinator.com/item?id=42700997) \| 🗓️ 2025-01-14
+| 🔥🔥: 194 \| 💬: [29](https://news.ycombinator.com/item?id=42700997) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -146,7 +146,7 @@ DB-Engines 宣布 **PostgreSQL** 连续第二年并第五次荣获年度数据�
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/01/14/meta-targeting-lowest-performing-employees-in-latest-round-of-layoffs.html): Meta announces 5% cuts in preparation for 'intense year'</small>
 
 
-| 🔥🔥: 177 \| 💬: [305](https://news.ycombinator.com/item?id=42700134) \| 🗓️ 2025-01-14
+| 🔥🔥: 179 \| 💬: [312](https://news.ycombinator.com/item?id=42700134) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -158,7 +158,7 @@ Meta计划裁员约5%，主要针对**低绩效员工**。CEO扎克伯格表示�
 <small>🔗 [p.migdal.pl](https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/): Don't use cosine similarity carelessly</small>
 
 
-| 🔥🔥: 159 \| 💬: [24](https://news.ycombinator.com/item?id=42704078) \| 🗓️ 2025-01-14
+| 🔥🔥: 174 \| 💬: [27](https://news.ycombinator.com/item?id=42704078) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -166,7 +166,19 @@ Meta计划裁员约5%，主要针对**低绩效员工**。CEO扎克伯格表示�
 
 ---
 
-## <a name="13"></a>13. Shepherd 1.0.0 发布 
+## <a name="13"></a>13. 伺服电机 vs. 步进电机：速度、扭矩与精度 [视频] 
+<small>🔗 [youtube.com](https://www.youtube.com/watch?v=H-nO1F-AO9I): Servo vs. steppers: Speed, Torque and Accuracy [video]</small>
+
+
+| 🔥🔥: 163 \| 💬: [61](https://news.ycombinator.com/item?id=42697335) \| 🗓️ 2025-01-14
+
+
+<br />
+该视频比较了**伺服电机**和**步进电机**在**速度**、**扭矩**和**精度**方面的表现。伺服电机在高动态响应和复杂控制中表现更优，而步进电机则更适合低成本、简单应用场景。两者各有优劣，选择取决于具体需求。
+
+---
+
+## <a name="14"></a>14. Shepherd 1.0.0 发布 
 <small>🔗 [guix.gnu.org](https://guix.gnu.org/en/blog/2024/the-shepherd-1.0.0-released/): The Shepherd 1.0.0 released</small>
 
 
@@ -178,23 +190,23 @@ Meta计划裁员约5%，主要针对**低绩效员工**。CEO扎克伯格表示�
 
 ---
 
-## <a name="14"></a>14. 伺服电机 vs. 步进电机：速度、扭矩与精度 [视频] 
-<small>🔗 [youtube.com](https://www.youtube.com/watch?v=H-nO1F-AO9I): Servo vs. steppers: Speed, Torque and Accuracy [video]</small>
+## <a name="15"></a>15. rqlite 的测试方法 
+<small>🔗 [philipotoole.com](https://philipotoole.com/how-is-rqlite-tested/): How rqlite is tested</small>
 
 
-| 🔥🔥: 155 \| 💬: [60](https://news.ycombinator.com/item?id=42697335) \| 🗓️ 2025-01-14
+| 🔥🔥: 151 \| 💬: [27](https://news.ycombinator.com/item?id=42703282) \| 🗓️ 2025-01-14
 
 
 <br />
-该视频比较了**伺服电机**和**步进电机**在**速度**、**扭矩**和**精度**方面的表现。伺服电机在高动态响应和复杂控制中表现更优，而步进电机则更适合低成本、简单应用场景。两者各有优劣，选择取决于具体需求。
+rqlite 是一个基于 SQLite 和 Raft 的轻量级分布式关系数据库，其设计始终注重**可靠性和质量**。测试采用**测试金字塔**策略，以单元测试为核心，辅以系统级测试和少量端到端测试。单元测试覆盖了大部分功能，确保组件独立性和快速反馈；系统测试验证分布式共识和容错能力；端到端测试则作为基本功能检查。性能测试则评估系统在高负载下的表现。通过这种分层测试策略，rqlite 在保持高质量的同时，简化了测试复杂性。
 
 ---
 
-## <a name="15"></a>15. Show HN: 基于 WASM 的 GitHub Python 笔记本代码空间 
+## <a name="16"></a>16. Show HN: 基于 WASM 的 GitHub Python 笔记本代码空间 
 <small>🔗 [docs.marimo.io](https://docs.marimo.io/guides/publishing/playground/#open-notebooks-hosted-on-github): Show HN: WASM-powered codespaces for Python notebooks on GitHub</small>
 
 
-| 🔥🔥: 141 \| 💬: [22](https://news.ycombinator.com/item?id=42700852) \| 🗓️ 2025-01-14
+| 🔥🔥: 147 \| 💬: [22](https://news.ycombinator.com/item?id=42700852) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -202,7 +214,7 @@ marimo 提供了一个**在线游乐场**，允许用户免费创建和分享 **
 
 ---
 
-## <a name="16"></a>16. Proton：捐赠超100万美元支持更好的互联网 
+## <a name="17"></a>17. Proton：捐赠超100万美元支持更好的互联网 
 <small>🔗 [proton.me](https://proton.me/blog/2024-lifetime-fundraiser-results): Proton: We're giving away over $1M to support a better internet</small>
 
 
@@ -214,23 +226,11 @@ Proton在2024年的年度慈善筹款活动中筹集了**107.7万美元**，创�
 
 ---
 
-## <a name="17"></a>17. rqlite 的测试方法 
-<small>🔗 [philipotoole.com](https://philipotoole.com/how-is-rqlite-tested/): How rqlite is tested</small>
-
-
-| 🔥🔥: 137 \| 💬: [27](https://news.ycombinator.com/item?id=42703282) \| 🗓️ 2025-01-14
-
-
-<br />
-rqlite 是一个基于 SQLite 和 Raft 的轻量级分布式关系数据库，其设计始终注重**可靠性和质量**。测试采用**测试金字塔**策略，以单元测试为核心，辅以系统级测试和少量端到端测试。单元测试覆盖了大部分功能，确保组件独立性和快速反馈；系统测试验证分布式共识和容错能力；端到端测试则作为基本功能检查。性能测试则评估系统在高负载下的表现。通过这种分层测试策略，rqlite 在保持高质量的同时，简化了测试复杂性。
-
----
-
 ## <a name="18"></a>18. 全球植物二氧化碳吸收量新估计上升近三分之一 
 <small>🔗 [ornl.gov](https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates): Estimates of plant CO2 uptake rise by nearly one third</small>
 
 
-| 🔥🔥: 134 \| 💬: [129](https://news.ycombinator.com/item?id=42696517) \| 🗓️ 2025-01-14
+| 🔥🔥: 139 \| 💬: [130](https://news.ycombinator.com/item?id=42696517) \| 🗓️ 2025-01-14
 
 
 <br />
