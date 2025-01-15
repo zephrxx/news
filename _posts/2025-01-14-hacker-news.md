@@ -26,7 +26,7 @@ tags:
 <small>🔗 [howtogeek.com](https://www.howtogeek.com/why-i-switched-to-firefox-and-never-looked-back/): I Switched to Firefox and Never Looked Back</small>
 
 
-| 🔥🔥: 533 \| 💬: [453](https://news.ycombinator.com/item?id=42696081) \| 🗓️ 2025-01-14
+| 🔥🔥: 536 \| 💬: [454](https://news.ycombinator.com/item?id=42696081) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [kevinmunger.substack.com](https://kevinmunger.substack.com/p/in-the-belly-of-the-mrbeast): In the belly of the MrBeast</small>
 
 
-| 🔥🔥: 447 \| 💬: [341](https://news.ycombinator.com/item?id=42696691) \| 🗓️ 2025-01-14
+| 🔥🔥: 451 \| 💬: [344](https://news.ycombinator.com/item?id=42696691) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/apple-will-soon-receive-made-in-america-chips-from-tsmcs-arizona-fab-company-in-final-stages-of-quality-verification): Apple will soon receive 'made in America' chips from TSMC's Arizona fab</small>
 
 
-| 🔥🔥: 403 \| 💬: [383](https://news.ycombinator.com/item?id=42699977) \| 🗓️ 2025-01-14
+| 🔥🔥: 409 \| 💬: [393](https://news.ycombinator.com/item?id=42699977) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -62,7 +62,7 @@ tags:
 <small>🔗 [gizmodo.com](https://gizmodo.com/1-in-5-online-job-postings-are-either-fake-or-never-filled-study-finds-2000549706): 1 in 5 online job postings are either fake or never filled, study finds</small>
 
 
-| 🔥🔥: 378 \| 💬: [339](https://news.ycombinator.com/item?id=42697783) \| 🗓️ 2025-01-14
+| 🔥🔥: 380 \| 💬: [341](https://news.ycombinator.com/item?id=42697783) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -74,7 +74,7 @@ tags:
 <small>🔗 [collegetowns.substack.com](https://collegetowns.substack.com/p/making-an-intersection-unsafe-for): Making an intersection unsafe for pedestrians to save seconds for drivers</small>
 
 
-| 🔥🔥: 285 \| 💬: [407](https://news.ycombinator.com/item?id=42698557) \| 🗓️ 2025-01-14
+| 🔥🔥: 285 \| 💬: [411](https://news.ycombinator.com/item?id=42698557) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -86,7 +86,7 @@ tags:
 <small>🔗 [db-engines.com](https://db-engines.com/en/blog_post/109): PostgreSQL is the Database Management System of the Year 2024</small>
 
 
-| 🔥🔥: 247 \| 💬: [90](https://news.ycombinator.com/item?id=42696080) \| 🗓️ 2025-01-14
+| 🔥🔥: 248 \| 💬: [92](https://news.ycombinator.com/item?id=42696080) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -94,35 +94,11 @@ DB-Engines 宣布 **PostgreSQL** 连续第二年并第五次荣获年度数据�
 
 ---
 
-## <a name="7"></a>7. 利用编程技能创造被动收入 
-<small>🔗 [coryzue.com](https://www.coryzue.com/writing/solopreneur/): Using coding skills to make passive income</small>
-
-
-| 🔥🔥: 207 \| 💬: [119](https://news.ycombinator.com/item?id=42696822) \| 🗓️ 2025-01-14
-
-
-<br />
-作者辞去CTO职位，成为全职“独立开发者”，通过销售软件产品实现财务自由。**关键步骤**包括：**创造时间**、快速迭代、选择熟悉的技术栈，并投入一半时间进行营销。**韧性**是成功的关键，失败是常态，但最终能带来自由和自主。
-
----
-
-## <a name="8"></a>8. Meta宣布裁员5%以应对“紧张的一年” 
-<small>🔗 [cnbc.com](https://www.cnbc.com/2025/01/14/meta-targeting-lowest-performing-employees-in-latest-round-of-layoffs.html): Meta announces 5% cuts in preparation for 'intense year'</small>
-
-
-| 🔥🔥: 165 \| 💬: [278](https://news.ycombinator.com/item?id=42700134) \| 🗓️ 2025-01-14
-
-
-<br />
-Meta计划裁员约5%，主要针对**低绩效员工**。CEO扎克伯格表示，2025年将是“紧张的一年”，公司将加快淘汰低绩效员工。受影响的员工将在2月10日前收到通知，并获得与之前裁员相同的**遣散费**。这是Meta自2022-2023年裁员21,000人以来最大规模的裁员。
-
----
-
-## <a name="9"></a>9. FFmpeg 示例指南 
+## <a name="7"></a>7. FFmpeg 示例指南 
 <small>🔗 [ffmpegbyexample.com](https://ffmpegbyexample.com/): FFmpeg by Example</small>
 
 
-| 🔥🔥: 162 \| 💬: [41](https://news.ycombinator.com/item?id=42695547) \| 🗓️ 2025-01-14
+| 🔥🔥: 220 \| 💬: [57](https://news.ycombinator.com/item?id=42695547) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -130,11 +106,35 @@ FFmpeg By Example 是一个展示 **FFmpeg** 多种独特用法的文档网站�
 
 ---
 
+## <a name="8"></a>8. 利用编程技能创造被动收入 
+<small>🔗 [coryzue.com](https://www.coryzue.com/writing/solopreneur/): Using coding skills to make passive income</small>
+
+
+| 🔥🔥: 208 \| 💬: [121](https://news.ycombinator.com/item?id=42696822) \| 🗓️ 2025-01-14
+
+
+<br />
+作者辞去CTO职位，成为全职“独立开发者”，通过销售软件产品实现财务自由。**关键步骤**包括：**创造时间**、快速迭代、选择熟悉的技术栈，并投入一半时间进行营销。**韧性**是成功的关键，失败是常态，但最终能带来自由和自主。
+
+---
+
+## <a name="9"></a>9. Meta宣布裁员5%以应对“紧张的一年” 
+<small>🔗 [cnbc.com](https://www.cnbc.com/2025/01/14/meta-targeting-lowest-performing-employees-in-latest-round-of-layoffs.html): Meta announces 5% cuts in preparation for 'intense year'</small>
+
+
+| 🔥🔥: 169 \| 💬: [286](https://news.ycombinator.com/item?id=42700134) \| 🗓️ 2025-01-14
+
+
+<br />
+Meta计划裁员约5%，主要针对**低绩效员工**。CEO扎克伯格表示，2025年将是“紧张的一年”，公司将加快淘汰低绩效员工。受影响的员工将在2月10日前收到通知，并获得与之前裁员相同的**遣散费**。这是Meta自2022-2023年裁员21,000人以来最大规模的裁员。
+
+---
+
 ## <a name="10"></a>10. Shepherd 1.0.0 发布 
 <small>🔗 [guix.gnu.org](https://guix.gnu.org/en/blog/2024/the-shepherd-1.0.0-released/): The Shepherd 1.0.0 released</small>
 
 
-| 🔥🔥: 143 \| 💬: [37](https://news.ycombinator.com/item?id=42698981) \| 🗓️ 2025-01-14
+| 🔥🔥: 147 \| 💬: [38](https://news.ycombinator.com/item?id=42698981) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -146,7 +146,7 @@ FFmpeg By Example 是一个展示 **FFmpeg** 多种独特用法的文档网站�
 <small>🔗 [proton.me](https://proton.me/blog/2024-lifetime-fundraiser-results): Proton: We're giving away over $1M to support a better internet</small>
 
 
-| 🔥🔥: 137 \| 💬: [38](https://news.ycombinator.com/item?id=42697882) \| 🗓️ 2025-01-14
+| 🔥🔥: 139 \| 💬: [38](https://news.ycombinator.com/item?id=42697882) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -154,23 +154,11 @@ Proton在2024年的年度慈善筹款活动中筹集了**107.7万美元**，创�
 
 ---
 
-## <a name="12"></a>12. Allstate 使用 GasBuddy 等应用追踪驾驶行为：诉讼 
-<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/01/allstate-sued-for-allegedly-tracking-drivers-behavior-through-third-party-apps/): Allstate used GasBuddy and other apps to track driving behavior: lawsuit</small>
-
-
-| 🔥🔥: 127 \| 💬: [172](https://news.ycombinator.com/item?id=42699771) \| 🗓️ 2025-01-14
-
-
-<br />
-德克萨斯州起诉保险公司 Allstate，指控其通过 GasBuddy、Routely 和 Life360 等应用**秘密追踪驾驶行为**，并据此调整或取消保单。Allstate 及其子公司 Arity 收集了超过 4500 万人的**位置数据**，用于调整保险费率，涉嫌违反德克萨斯州的**数据隐私与安全法**。诉讼称，Arity 通过激励措施鼓励应用增加数据收集规模，且未充分告知用户数据用途。
-
----
-
-## <a name="13"></a>13. 伺服电机 vs. 步进电机：速度、扭矩与精度 [视频] 
+## <a name="12"></a>12. 伺服电机 vs. 步进电机：速度、扭矩与精度 [视频] 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=H-nO1F-AO9I): Servo vs. steppers: Speed, Torque and Accuracy [video]</small>
 
 
-| 🔥🔥: 126 \| 💬: [48](https://news.ycombinator.com/item?id=42697335) \| 🗓️ 2025-01-14
+| 🔥🔥: 131 \| 💬: [50](https://news.ycombinator.com/item?id=42697335) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -178,11 +166,23 @@ Proton在2024年的年度慈善筹款活动中筹集了**107.7万美元**，创�
 
 ---
 
+## <a name="13"></a>13. Allstate 使用 GasBuddy 等应用追踪驾驶行为：诉讼 
+<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/01/allstate-sued-for-allegedly-tracking-drivers-behavior-through-third-party-apps/): Allstate used GasBuddy and other apps to track driving behavior: lawsuit</small>
+
+
+| 🔥🔥: 127 \| 💬: [174](https://news.ycombinator.com/item?id=42699771) \| 🗓️ 2025-01-14
+
+
+<br />
+德克萨斯州起诉保险公司 Allstate，指控其通过 GasBuddy、Routely 和 Life360 等应用**秘密追踪驾驶行为**，并据此调整或取消保单。Allstate 及其子公司 Arity 收集了超过 4500 万人的**位置数据**，用于调整保险费率，涉嫌违反德克萨斯州的**数据隐私与安全法**。诉讼称，Arity 通过激励措施鼓励应用增加数据收集规模，且未充分告知用户数据用途。
+
+---
+
 ## <a name="14"></a>14. 推进美国在人工智能基础设施领域领导地位的行政命令 
 <small>🔗 [whitehouse.gov](https://www.whitehouse.gov/briefing-room/presidential-actions/2025/01/14/executive-order-on-advancing-united-states-leadership-in-artificial-intelligence-infrastructure/): Executive order on advancing United States leadership in AI infrastructure</small>
 
 
-| 🔥🔥: 123 \| 💬: [91](https://news.ycombinator.com/item?id=42700755) \| 🗓️ 2025-01-14
+| 🔥🔥: 123 \| 💬: [94](https://news.ycombinator.com/item?id=42700755) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -202,35 +202,11 @@ Proton在2024年的年度慈善筹款活动中筹集了**107.7万美元**，创�
 
 ---
 
-## <a name="16"></a>16. 基于LLM的代理作为地下城主 
-<small>🔗 [studenttheses.uu.nl](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/47209/Thesis_Final.pdf?sequence=1&isAllowed=y): LLM based agents as Dungeon Masters</small>
-
-
-| 🔥🔥: 115 \| 💬: [115](https://news.ycombinator.com/item?id=42698610) \| 🗓️ 2025-01-14
-
-
-<br />
-本文探讨了使用**大型语言模型（LLM）**作为地下城主的可能性。通过LLM的生成能力，可以动态创建**地下城冒险**的故事情节、角色互动和任务设计。这种方法不仅提高了游戏的**沉浸感**，还为玩家提供了个性化的游戏体验。
-
----
-
-## <a name="17"></a>17. 特斯拉在欧洲销量大幅下滑 
-<small>🔗 [insideevs.com](https://insideevs.com/news/745119/tesla-sales-europe-2024/): Tesla Sales Are Tanking in Europe</small>
-
-
-| 🔥🔥: 114 \| 💬: [192](https://news.ycombinator.com/item?id=42698077) \| 🗓️ 2025-01-14
-
-
-<br />
-2024年前11个月，特斯拉在欧洲的**注册量**下降了两位数，11月单月降幅达40.9%。欧盟市场注册量从31,810辆降至18,786辆，**市场份额**从3.6%降至2.2%。销量下滑可能与**政府补贴减少**和CEO马斯克的争议有关，但整体电动车市场仅小幅下降，其他车企填补了特斯拉的缺口。
-
----
-
-## <a name="18"></a>18. Show HN: 基于 WASM 的 GitHub Python 笔记本代码空间 
+## <a name="16"></a>16. Show HN: 基于 WASM 的 GitHub Python 笔记本代码空间 
 <small>🔗 [docs.marimo.io](https://docs.marimo.io/guides/publishing/playground/#open-notebooks-hosted-on-github): Show HN: WASM-powered codespaces for Python notebooks on GitHub</small>
 
 
-| 🔥🔥: 110 \| 💬: [21](https://news.ycombinator.com/item?id=42700852) \| 🗓️ 2025-01-14
+| 🔥🔥: 119 \| 💬: [21](https://news.ycombinator.com/item?id=42700852) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -238,26 +214,50 @@ marimo 提供了一个**在线游乐场**，允许用户免费创建和分享 **
 
 ---
 
-## <a name="19"></a>19. 平台因用户制作“最想要CEO”卡片而系统性封禁其账号 
-<small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/01/platforms-systematically-removed-user-because-he-made-most-wanted-ceo-playing): Platforms systematically removed a user because he made "most wanted CEO" cards</small>
+## <a name="17"></a>17. 特斯拉在欧洲销量大幅下滑 
+<small>🔗 [insideevs.com](https://insideevs.com/news/745119/tesla-sales-europe-2024/): Tesla Sales Are Tanking in Europe</small>
 
 
-| 🔥🔥: 110 \| 💬: [139](https://news.ycombinator.com/item?id=42701456) \| 🗓️ 2025-01-14
+| 🔥🔥: 116 \| 💬: [193](https://news.ycombinator.com/item?id=42698077) \| 🗓️ 2025-01-14
 
 
 <br />
-James Harr计划出售一副讽刺资本主义的“最想要CEO”扑克牌，旨在揭露大公司CEO的“恶行”。然而，**纽约邮报**报道后，Harr的社交媒体账号和在线商店被**TikTok**、**Shopify**等平台封禁，PayPal也停止为其处理支付。尽管Harr强调其内容为批判性而非暴力，平台仍以“违反社区准则”为由删除其内容，且未提供具体解释。此事件凸显了平台在内容审核中的**不透明**和**过度审查**问题。
+2024年前11个月，特斯拉在欧洲的**注册量**下降了两位数，11月单月降幅达40.9%。欧盟市场注册量从31,810辆降至18,786辆，**市场份额**从3.6%降至2.2%。销量下滑可能与**政府补贴减少**和CEO马斯克的争议有关，但整体电动车市场仅小幅下降，其他车企填补了特斯拉的缺口。
 
 ---
 
-## <a name="20"></a>20. Show HN: 一个用于从搜索结果中移除垃圾和不良网站的屏蔽列表 
-<small>🔗 [github.com](https://github.com/popcar2/BadWebsiteBlocklist): Show HN: A blocklist to remove spam and bad websites from search results</small>
+## <a name="18"></a>18. 基于LLM的代理作为地下城主 
+<small>🔗 [studenttheses.uu.nl](https://studenttheses.uu.nl/bitstream/handle/20.500.12932/47209/Thesis_Final.pdf?sequence=1&isAllowed=y): LLM based agents as Dungeon Masters</small>
 
 
-| 🔥: 96 \| 💬: [50](https://news.ycombinator.com/item?id=42697346) \| 🗓️ 2025-01-14
+| 🔥🔥: 116 \| 💬: [115](https://news.ycombinator.com/item?id=42698610) \| 🗓️ 2025-01-14
 
 
 <br />
-这是一个通过 **uBlocklist** 过滤垃圾和误导性网站的列表，旨在从搜索结果中移除低质量内容，如 **AI生成的文章**、低效的垃圾网站和伪装成信息的广告。用户可通过安装 **uBlacklist** 扩展并订阅该列表，自动屏蔽不良网站。每个被屏蔽的网站都有详细说明，确保透明性和可追溯性。
+本文探讨了使用**大型语言模型（LLM）**作为地下城主的可能性。通过LLM的生成能力，可以动态创建**地下城冒险**的故事情节、角色互动和任务设计。这种方法不仅提高了游戏的**沉浸感**，还为玩家提供了个性化的游戏体验。
+
+---
+
+## <a name="19"></a>19. 家庭损失文件系统 - 数字资源 
+<small>🔗 [docs.google.com](https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/htmlview#gid=1160377357): Home Loss File System</small>
+
+
+| 🔥🔥: 115 \| 💬: [14](https://news.ycombinator.com/item?id=42700997) \| 🗓️ 2025-01-14
+
+
+<br />
+该工具由加州野火幸存者创建，旨在帮助灾后恢复。提供**保险索赔**、损失记录和费用跟踪等资源，帮助用户高效管理恢复过程。系统包含多个工作表，涵盖临时住房、财产清单、心理健康支持等关键内容。通过保持组织性，用户可以在困难时期重新获得控制感。
+
+---
+
+## <a name="20"></a>20. 如果你看到这个限速标志，你可能会死 
+<small>🔗 [theautopian.com](https://www.theautopian.com/if-you-ever-see-this-speed-sign-youre-probably-going-to-die/): If You Ever See This Speed Sign, You're Probably Going to Die</small>
+
+
+| 🔥🔥: 113 \| 💬: [53](https://news.ycombinator.com/item?id=42704491) \| 🗓️ 2025-01-14
+
+
+<br />
+这篇文章探讨了美国交通部在冷战时期设计的特殊交通标志，用于应对核战争后的紧急情况。其中，**“MAINTAIN TOP SAFE SPEED”**标志旨在提醒司机在辐射污染区域以最快速度行驶，以减少辐射暴露。其他标志包括**“FALLOUT SHELTER”**（防空洞）和**“AREA CLOSED”**（区域关闭），用于引导人们避难或避开高辐射区域。尽管这些标志从未真正投入使用，但它们反映了冷战时期的紧张氛围。
 
 ---
