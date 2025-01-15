@@ -10,8 +10,8 @@ tags:
 
 1. 我改用Firefox后再也没回头；
 1. 在MrBeast的肚子里；
-1. 苹果将很快从台积电亚利桑那工厂获得“美国制造”芯片；
 1. FFmpeg 示例指南；
+1. 苹果将很快从台积电亚利桑那工厂获得“美国制造”芯片；
 1. 五分之一的在线职位发布是虚假或从未填补，研究发现；
 
 以上是今天的前五条黑科技新闻标题。
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [howtogeek.com](https://www.howtogeek.com/why-i-switched-to-firefox-and-never-looked-back/): I Switched to Firefox and Never Looked Back</small>
 
 
-| 🔥🔥: 554 \| 💬: [467](https://news.ycombinator.com/item?id=42696081) \| 🗓️ 2025-01-14
+| 🔥🔥: 556 \| 💬: [476](https://news.ycombinator.com/item?id=42696081) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [kevinmunger.substack.com](https://kevinmunger.substack.com/p/in-the-belly-of-the-mrbeast): In the belly of the MrBeast</small>
 
 
-| 🔥🔥: 463 \| 💬: [355](https://news.ycombinator.com/item?id=42696691) \| 🗓️ 2025-01-14
+| 🔥🔥: 467 \| 💬: [359](https://news.ycombinator.com/item?id=42696691) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -46,23 +46,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 苹果将很快从台积电亚利桑那工厂获得“美国制造”芯片 
-<small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/apple-will-soon-receive-made-in-america-chips-from-tsmcs-arizona-fab-company-in-final-stages-of-quality-verification): Apple will soon receive 'made in America' chips from TSMC's Arizona fab</small>
-
-
-| 🔥🔥: 428 \| 💬: [415](https://news.ycombinator.com/item?id=42699977) \| 🗓️ 2025-01-14
-
-
-<br />
-苹果正在测试台积电亚利桑那工厂为其设备生产的首批处理器，以验证其质量是否与台湾先进工厂生产的芯片相当。如果测试顺利，首批量产芯片预计最早在本季度交付给苹果。**这标志着美国在推动芯片自主化方面迈出重要一步**，减少对台湾的依赖。尽管芯片仍需运回台湾封装，但台积电在亚利桑那的工厂将逐步生产更先进的**3nm芯片**，并计划未来生产**2nm芯片**，助力美国半导体供应链的稳定。
-
----
-
-## <a name="4"></a>4. FFmpeg 示例指南 
+## <a name="3"></a>3. FFmpeg 示例指南 
 <small>🔗 [ffmpegbyexample.com](https://ffmpegbyexample.com/): FFmpeg by Example</small>
 
 
-| 🔥🔥: 408 \| 💬: [107](https://news.ycombinator.com/item?id=42695547) \| 🗓️ 2025-01-14
+| 🔥🔥: 445 \| 💬: [113](https://news.ycombinator.com/item?id=42695547) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -70,11 +58,23 @@ FFmpeg By Example 是一个展示 **FFmpeg** 多种独特用法的文档网站�
 
 ---
 
+## <a name="4"></a>4. 苹果将很快从台积电亚利桑那工厂获得“美国制造”芯片 
+<small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/apple-will-soon-receive-made-in-america-chips-from-tsmcs-arizona-fab-company-in-final-stages-of-quality-verification): Apple will soon receive 'made in America' chips from TSMC's Arizona fab</small>
+
+
+| 🔥🔥: 435 \| 💬: [418](https://news.ycombinator.com/item?id=42699977) \| 🗓️ 2025-01-14
+
+
+<br />
+苹果正在测试台积电亚利桑那工厂为其设备生产的首批处理器，以验证其质量是否与台湾先进工厂生产的芯片相当。如果测试顺利，首批量产芯片预计最早在本季度交付给苹果。**这标志着美国在推动芯片自主化方面迈出重要一步**，减少对台湾的依赖。尽管芯片仍需运回台湾封装，但台积电在亚利桑那的工厂将逐步生产更先进的**3nm芯片**，并计划未来生产**2nm芯片**，助力美国半导体供应链的稳定。
+
+---
+
 ## <a name="5"></a>5. 五分之一的在线职位发布是虚假或从未填补，研究发现 
 <small>🔗 [gizmodo.com](https://gizmodo.com/1-in-5-online-job-postings-are-either-fake-or-never-filled-study-finds-2000549706): 1 in 5 online job postings are either fake or never filled, study finds</small>
 
 
-| 🔥🔥: 393 \| 💬: [351](https://news.ycombinator.com/item?id=42697783) \| 🗓️ 2025-01-14
+| 🔥🔥: 394 \| 💬: [353](https://news.ycombinator.com/item?id=42697783) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -86,7 +86,7 @@ FFmpeg By Example 是一个展示 **FFmpeg** 多种独特用法的文档网站�
 <small>🔗 [collegetowns.substack.com](https://collegetowns.substack.com/p/making-an-intersection-unsafe-for): Making an intersection unsafe for pedestrians to save seconds for drivers</small>
 
 
-| 🔥🔥: 287 \| 💬: [418](https://news.ycombinator.com/item?id=42698557) \| 🗓️ 2025-01-14
+| 🔥🔥: 288 \| 💬: [421](https://news.ycombinator.com/item?id=42698557) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -98,7 +98,7 @@ FFmpeg By Example 是一个展示 **FFmpeg** 多种独特用法的文档网站�
 <small>🔗 [db-engines.com](https://db-engines.com/en/blog_post/109): PostgreSQL is the Database Management System of the Year 2024</small>
 
 
-| 🔥🔥: 251 \| 💬: [94](https://news.ycombinator.com/item?id=42696080) \| 🗓️ 2025-01-14
+| 🔥🔥: 251 \| 💬: [96](https://news.ycombinator.com/item?id=42696080) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -106,7 +106,19 @@ DB-Engines 宣布 **PostgreSQL** 连续第二年并第五次荣获年度数据�
 
 ---
 
-## <a name="8"></a>8. 利用编程技能创造被动收入 
+## <a name="8"></a>8. 如果你看到这个限速标志，你可能会死 
+<small>🔗 [theautopian.com](https://www.theautopian.com/if-you-ever-see-this-speed-sign-youre-probably-going-to-die/): If You Ever See This Speed Sign, You're Probably Going to Die</small>
+
+
+| 🔥🔥: 227 \| 💬: [142](https://news.ycombinator.com/item?id=42704491) \| 🗓️ 2025-01-14
+
+
+<br />
+这篇文章探讨了美国交通部在冷战时期设计的特殊交通标志，用于应对核战争后的紧急情况。其中，**“MAINTAIN TOP SAFE SPEED”**标志旨在提醒司机在辐射污染区域以最快速度行驶，以减少辐射暴露。其他标志包括**“FALLOUT SHELTER”**（防空洞）和**“AREA CLOSED”**（区域关闭），用于引导人们避难或避开高辐射区域。尽管这些标志从未真正投入使用，但它们反映了冷战时期的紧张氛围。
+
+---
+
+## <a name="9"></a>9. 利用编程技能创造被动收入 
 <small>🔗 [coryzue.com](https://www.coryzue.com/writing/solopreneur/): Using coding skills to make passive income</small>
 
 
@@ -118,23 +130,11 @@ DB-Engines 宣布 **PostgreSQL** 连续第二年并第五次荣获年度数据�
 
 ---
 
-## <a name="9"></a>9. 如果你看到这个限速标志，你可能会死 
-<small>🔗 [theautopian.com](https://www.theautopian.com/if-you-ever-see-this-speed-sign-youre-probably-going-to-die/): If You Ever See This Speed Sign, You're Probably Going to Die</small>
-
-
-| 🔥🔥: 214 \| 💬: [132](https://news.ycombinator.com/item?id=42704491) \| 🗓️ 2025-01-14
-
-
-<br />
-这篇文章探讨了美国交通部在冷战时期设计的特殊交通标志，用于应对核战争后的紧急情况。其中，**“MAINTAIN TOP SAFE SPEED”**标志旨在提醒司机在辐射污染区域以最快速度行驶，以减少辐射暴露。其他标志包括**“FALLOUT SHELTER”**（防空洞）和**“AREA CLOSED”**（区域关闭），用于引导人们避难或避开高辐射区域。尽管这些标志从未真正投入使用，但它们反映了冷战时期的紧张氛围。
-
----
-
 ## <a name="10"></a>10. 家庭损失文件系统 - 数字资源 
 <small>🔗 [docs.google.com](https://docs.google.com/spreadsheets/d/1TPeJzW5pa-BiJZjuEa1yGSFs7ZJetbnxf2gjMvv4tkc/edit?usp=sharing): Home Loss File System</small>
 
 
-| 🔥🔥: 194 \| 💬: [29](https://news.ycombinator.com/item?id=42700997) \| 🗓️ 2025-01-14
+| 🔥🔥: 209 \| 💬: [32](https://news.ycombinator.com/item?id=42700997) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -142,23 +142,11 @@ DB-Engines 宣布 **PostgreSQL** 连续第二年并第五次荣获年度数据�
 
 ---
 
-## <a name="11"></a>11. Meta宣布裁员5%以应对“紧张的一年” 
-<small>🔗 [cnbc.com](https://www.cnbc.com/2025/01/14/meta-targeting-lowest-performing-employees-in-latest-round-of-layoffs.html): Meta announces 5% cuts in preparation for 'intense year'</small>
-
-
-| 🔥🔥: 179 \| 💬: [312](https://news.ycombinator.com/item?id=42700134) \| 🗓️ 2025-01-14
-
-
-<br />
-Meta计划裁员约5%，主要针对**低绩效员工**。CEO扎克伯格表示，2025年将是“紧张的一年”，公司将加快淘汰低绩效员工。受影响的员工将在2月10日前收到通知，并获得与之前裁员相同的**遣散费**。这是Meta自2022-2023年裁员21,000人以来最大规模的裁员。
-
----
-
-## <a name="12"></a>12. 不要随意使用余弦相似度 
+## <a name="11"></a>11. 不要随意使用余弦相似度 
 <small>🔗 [p.migdal.pl](https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/): Don't use cosine similarity carelessly</small>
 
 
-| 🔥🔥: 174 \| 💬: [27](https://news.ycombinator.com/item?id=42704078) \| 🗓️ 2025-01-14
+| 🔥🔥: 192 \| 💬: [30](https://news.ycombinator.com/item?id=42704078) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -166,11 +154,23 @@ Meta计划裁员约5%，主要针对**低绩效员工**。CEO扎克伯格表示�
 
 ---
 
+## <a name="12"></a>12. Meta宣布裁员5%以应对“紧张的一年” 
+<small>🔗 [cnbc.com](https://www.cnbc.com/2025/01/14/meta-targeting-lowest-performing-employees-in-latest-round-of-layoffs.html): Meta announces 5% cuts in preparation for 'intense year'</small>
+
+
+| 🔥🔥: 182 \| 💬: [314](https://news.ycombinator.com/item?id=42700134) \| 🗓️ 2025-01-14
+
+
+<br />
+Meta计划裁员约5%，主要针对**低绩效员工**。CEO扎克伯格表示，2025年将是“紧张的一年”，公司将加快淘汰低绩效员工。受影响的员工将在2月10日前收到通知，并获得与之前裁员相同的**遣散费**。这是Meta自2022-2023年裁员21,000人以来最大规模的裁员。
+
+---
+
 ## <a name="13"></a>13. 伺服电机 vs. 步进电机：速度、扭矩与精度 [视频] 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=H-nO1F-AO9I): Servo vs. steppers: Speed, Torque and Accuracy [video]</small>
 
 
-| 🔥🔥: 163 \| 💬: [61](https://news.ycombinator.com/item?id=42697335) \| 🗓️ 2025-01-14
+| 🔥🔥: 164 \| 💬: [62](https://news.ycombinator.com/item?id=42697335) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -178,23 +178,11 @@ Meta计划裁员约5%，主要针对**低绩效员工**。CEO扎克伯格表示�
 
 ---
 
-## <a name="14"></a>14. Shepherd 1.0.0 发布 
-<small>🔗 [guix.gnu.org](https://guix.gnu.org/en/blog/2024/the-shepherd-1.0.0-released/): The Shepherd 1.0.0 released</small>
-
-
-| 🔥🔥: 156 \| 💬: [40](https://news.ycombinator.com/item?id=42698981) \| 🗓️ 2025-01-14
-
-
-<br />
-经过21年的开发，**Shepherd** 终于发布了1.0.0版本，标志着它从ZeroVer时代进入了1.0时代。Shepherd 是一个**服务管理器**，能够管理服务的状态和依赖关系，支持启动、停止和重启服务。它由两个命令组成：`shepherd` 守护进程和 `herd` 交互工具。此次更新增加了对**定时服务**的支持，并改进了服务状态显示。Shepherd 使用 **Guile Scheme** 进行配置和扩展，适合系统管理员和开发者使用。
-
----
-
-## <a name="15"></a>15. rqlite 的测试方法 
+## <a name="14"></a>14. rqlite 的测试方法 
 <small>🔗 [philipotoole.com](https://philipotoole.com/how-is-rqlite-tested/): How rqlite is tested</small>
 
 
-| 🔥🔥: 151 \| 💬: [27](https://news.ycombinator.com/item?id=42703282) \| 🗓️ 2025-01-14
+| 🔥🔥: 160 \| 💬: [29](https://news.ycombinator.com/item?id=42703282) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -202,11 +190,23 @@ rqlite 是一个基于 SQLite 和 Raft 的轻量级分布式关系数据库，�
 
 ---
 
+## <a name="15"></a>15. Shepherd 1.0.0 发布 
+<small>🔗 [guix.gnu.org](https://guix.gnu.org/en/blog/2024/the-shepherd-1.0.0-released/): The Shepherd 1.0.0 released</small>
+
+
+| 🔥🔥: 157 \| 💬: [40](https://news.ycombinator.com/item?id=42698981) \| 🗓️ 2025-01-14
+
+
+<br />
+经过21年的开发，**Shepherd** 终于发布了1.0.0版本，标志着它从ZeroVer时代进入了1.0时代。Shepherd 是一个**服务管理器**，能够管理服务的状态和依赖关系，支持启动、停止和重启服务。它由两个命令组成：`shepherd` 守护进程和 `herd` 交互工具。此次更新增加了对**定时服务**的支持，并改进了服务状态显示。Shepherd 使用 **Guile Scheme** 进行配置和扩展，适合系统管理员和开发者使用。
+
+---
+
 ## <a name="16"></a>16. Show HN: 基于 WASM 的 GitHub Python 笔记本代码空间 
 <small>🔗 [docs.marimo.io](https://docs.marimo.io/guides/publishing/playground/#open-notebooks-hosted-on-github): Show HN: WASM-powered codespaces for Python notebooks on GitHub</small>
 
 
-| 🔥🔥: 147 \| 💬: [22](https://news.ycombinator.com/item?id=42700852) \| 🗓️ 2025-01-14
+| 🔥🔥: 149 \| 💬: [22](https://news.ycombinator.com/item?id=42700852) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -214,23 +214,11 @@ marimo 提供了一个**在线游乐场**，允许用户免费创建和分享 **
 
 ---
 
-## <a name="17"></a>17. Proton：捐赠超100万美元支持更好的互联网 
-<small>🔗 [proton.me](https://proton.me/blog/2024-lifetime-fundraiser-results): Proton: We're giving away over $1M to support a better internet</small>
-
-
-| 🔥🔥: 140 \| 💬: [38](https://news.ycombinator.com/item?id=42697882) \| 🗓️ 2025-01-14
-
-
-<br />
-Proton在2024年的年度慈善筹款活动中筹集了**107.7万美元**，创下历史记录，用于支持全球隐私、言论自由和人权组织。自2018年以来，Proton已累计捐赠**400万美元**，并通过免费服务、开源项目支持等方式推动互联网自由。今年的筹款还设立了**20万美元的创新基金**，用于资助隐私和安全项目。
-
----
-
-## <a name="18"></a>18. 全球植物二氧化碳吸收量新估计上升近三分之一 
+## <a name="17"></a>17. 全球植物二氧化碳吸收量新估计上升近三分之一 
 <small>🔗 [ornl.gov](https://www.ornl.gov/news/plant-co2-uptake-rises-nearly-one-third-new-global-estimates): Estimates of plant CO2 uptake rise by nearly one third</small>
 
 
-| 🔥🔥: 139 \| 💬: [130](https://news.ycombinator.com/item?id=42696517) \| 🗓️ 2025-01-14
+| 🔥🔥: 143 \| 💬: [131](https://news.ycombinator.com/item?id=42696517) \| 🗓️ 2025-01-14
 
 
 <br />
@@ -238,11 +226,23 @@ Proton在2024年的年度慈善筹款活动中筹集了**107.7万美元**，创�
 
 ---
 
+## <a name="18"></a>18. Proton：捐赠超100万美元支持更好的互联网 
+<small>🔗 [proton.me](https://proton.me/blog/2024-lifetime-fundraiser-results): Proton: We're giving away over $1M to support a better internet</small>
+
+
+| 🔥🔥: 141 \| 💬: [38](https://news.ycombinator.com/item?id=42697882) \| 🗓️ 2025-01-14
+
+
+<br />
+Proton在2024年的年度慈善筹款活动中筹集了**107.7万美元**，创下历史记录，用于支持全球隐私、言论自由和人权组织。自2018年以来，Proton已累计捐赠**400万美元**，并通过免费服务、开源项目支持等方式推动互联网自由。今年的筹款还设立了**20万美元的创新基金**，用于资助隐私和安全项目。
+
+---
+
 ## <a name="19"></a>19. Allstate 使用 GasBuddy 等应用追踪驾驶行为：诉讼 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/01/allstate-sued-for-allegedly-tracking-drivers-behavior-through-third-party-apps/): Allstate used GasBuddy and other apps to track driving behavior: lawsuit</small>
 
 
-| 🔥🔥: 131 \| 💬: [179](https://news.ycombinator.com/item?id=42699771) \| 🗓️ 2025-01-14
+| 🔥🔥: 132 \| 💬: [179](https://news.ycombinator.com/item?id=42699771) \| 🗓️ 2025-01-14
 
 
 <br />
