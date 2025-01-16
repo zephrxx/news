@@ -26,7 +26,7 @@ tags:
 <small>🔗 [claudio.uk](https://claudio.uk/posts/epub-to-audiobook.html): Generate audiobooks from E-books with Kokoro-82M</small>
 
 
-| 🔥🔥: 377 \| 💬: [226](https://news.ycombinator.com/item?id=42708773) \| 🗓️ 2025-01-15
+| 🔥🔥: 381 \| 💬: [226](https://news.ycombinator.com/item?id=42708773) \| 🗓️ 2025-01-15
 
 
 <br />
@@ -38,7 +38,7 @@ Kokoro v0.19是一款高质量的**文本转语音模型**，支持多种语言�
 <small>🔗 [mattsayar.com](https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/): Why is Cloudflare Pages' bandwidth unlimited?</small>
 
 
-| 🔥🔥: 353 \| 💬: [221](https://news.ycombinator.com/item?id=42712433) \| 🗓️ 2025-01-15
+| 🔥🔥: 378 \| 💬: [237](https://news.ycombinator.com/item?id=42712433) \| 🗓️ 2025-01-15
 
 
 <br />
@@ -50,7 +50,7 @@ Cloudflare Pages提供**无限带宽**，主要因为静态网站轻量且易于
 <small>🔗 [mcsweeneys.net](https://www.mcsweeneys.net/articles/a-marriage-proposal-spoken-entirely-in-office-jargon): A marriage proposal spoken in office jargon</small>
 
 
-| 🔥🔥: 349 \| 💬: [195](https://news.ycombinator.com/item?id=42714775) \| 🗓️ 2025-01-15
+| 🔥🔥: 353 \| 💬: [200](https://news.ycombinator.com/item?id=42714775) \| 🗓️ 2025-01-15
 
 
 <br />
@@ -62,7 +62,7 @@ Gary和Cindy用**办公室术语**讨论他们的关系，Gary提出**婚姻**�
 <small>🔗 [fortune.com](https://fortune.com/2025/01/15/ftc-pbms-unitedhealth-brian-thompson-cvs-caremark-cigna-pharmacy-benefit-managers/): UnitedHealth overcharged cancer patients for drugs by over 1,000%</small>
 
 
-| 🔥🔥: 303 \| 💬: [247](https://news.ycombinator.com/item?id=42716428) \| 🗓️ 2025-01-15
+| 🔥🔥: 309 \| 💬: [259](https://news.ycombinator.com/item?id=42716428) \| 🗓️ 2025-01-15
 
 
 <br />
@@ -74,7 +74,7 @@ Gary和Cindy用**办公室术语**讨论他们的关系，Gary提出**婚姻**�
 <small>🔗 [apnews.com](https://apnews.com/article/sweden-digital-education-backlash-reading-writing-1dd964c628f76361c43dbf3964f7dbf4): Sweden brings more books and handwriting practice back to its schools (2023)</small>
 
 
-| 🔥🔥: 264 \| 💬: [190](https://news.ycombinator.com/item?id=42715841) \| 🗓️ 2025-01-15
+| 🔥🔥: 287 \| 💬: [198](https://news.ycombinator.com/item?id=42715841) \| 🗓️ 2025-01-15
 
 
 <br />
@@ -86,7 +86,7 @@ Gary和Cindy用**办公室术语**讨论他们的关系，Gary提出**婚姻**�
 <small>🔗 [wtfhappenedin1971.com](https://wtfhappenedin1971.com/): WTF Happened in 1971? (2019)</small>
 
 
-| 🔥🔥: 259 \| 💬: [242](https://news.ycombinator.com/item?id=42711781) \| 🗓️ 2025-01-15
+| 🔥🔥: 260 \| 💬: [245](https://news.ycombinator.com/item?id=42711781) \| 🗓️ 2025-01-15
 
 
 <br />
@@ -98,7 +98,7 @@ Gary和Cindy用**办公室术语**讨论他们的关系，Gary提出**婚姻**�
 <small>🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-01-15/us-fda-to-ban-red-dye-no-3-rfk-went-after-due-to-cancer-link): US will ban cancer-linked Red Dye No. 3 in cereal and other foods</small>
 
 
-| 🔥🔥: 218 \| 💬: [381](https://news.ycombinator.com/item?id=42711556) \| 🗓️ 2025-01-15
+| 🔥🔥: 238 \| 💬: [398](https://news.ycombinator.com/item?id=42711556) \| 🗓️ 2025-01-15
 
 
 <br />
@@ -110,7 +110,7 @@ Gary和Cindy用**办公室术语**讨论他们的关系，Gary提出**婚姻**�
 <small>🔗 [gamingonlinux.com](https://www.gamingonlinux.com/2025/01/gog-joins-the-european-federation-of-game-archives-museums-and-preservation-projects/): GOG Joins European Federation of Game Archives, Museums & Preservation Projects</small>
 
 
-| 🔥🔥: 211 \| 💬: [29](https://news.ycombinator.com/item?id=42714156) \| 🗓️ 2025-01-15
+| 🔥🔥: 217 \| 💬: [30](https://news.ycombinator.com/item?id=42714156) \| 🗓️ 2025-01-15
 
 
 <br />
@@ -118,47 +118,11 @@ GOG宣布加入**欧洲游戏档案、博物馆与保护项目联合会（EFGAMP
 
 ---
 
-## <a name="9"></a>9. Ropey – 用于处理和编辑大型文本的UTF8文本绳索 
-<small>🔗 [github.com](https://github.com/cessen/ropey): Ropey – A UTF8 text rope for manipulating and editing large text</small>
-
-
-| 🔥🔥: 176 \| 💬: [73](https://news.ycombinator.com/item?id=42711966) \| 🗓️ 2025-01-15
-
-
-<br />
-Ropey 是一个为 Rust 设计的 **UTF8 文本绳索**，专为文本编辑器等应用提供高效的文本缓冲区支持。它能够快速处理**大型文本**和频繁的编辑操作，支持 Unicode 并确保数据有效性。Ropey 在内存使用和性能上表现优异，适合处理中等至大型文本，但不适合极小型文本或超出内存容量的场景。采用 MIT 许可证，欢迎贡献。
-
----
-
-## <a name="10"></a>10. 面向 Django 开发者的现代 JavaScript 指南 
-<small>🔗 [saaspegasus.com](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/): Modern JavaScript for Django developers</small>
-
-
-| 🔥🔥: 141 \| 💬: [83](https://news.ycombinator.com/item?id=42711387) \| 🗓️ 2025-01-15
-
-
-<br />
-JavaScript 是现代 Web 应用的核心，但复杂的工具和框架让许多 Django 开发者感到困惑。本指南旨在帮助 Django 开发者掌握 **现代 JavaScript 工具** 和 **前端框架**（如 React、Vue），并提供 **混合架构** 的最佳实践。还探讨了 **低代码框架**（如 Alpine.js 和 HTMX），帮助开发者在不写 JavaScript 的情况下构建现代网站。
-
----
-
-## <a name="11"></a>11. 盖亚任务完成全天扫描 
-<small>🔗 [esa.int](https://www.esa.int/ESA_Multimedia/Images/2025/01/Sky-scanning_complete_for_Gaia): Sky-scanning complete for Gaia</small>
-
-
-| 🔥🔥: 135 \| 💬: [36](https://news.ycombinator.com/item?id=42709105) \| 🗓️ 2025-01-15
-
-
-<br />
-欧洲航天局的**盖亚**探测器已完成全天扫描任务，过去十年对约**20亿颗恒星**及其他天体进行了超过**3万亿次观测**，彻底改变了我们对银河系及宇宙邻域的认识。自2013年发射以来，盖亚已消耗55公斤冷气体，数据被访问超5.8亿次，并催生了1.3万篇科学论文。
-
----
-
-## <a name="12"></a>12. 我决定解散Hindenburg Research 
+## <a name="9"></a>9. 我决定解散Hindenburg Research 
 <small>🔗 [hindenburgresearch.com](https://hindenburgresearch.com/gratitude/): I have made the decision to disband Hindenburg Research</small>
 
 
-| 🔥🔥: 122 \| 💬: [40](https://news.ycombinator.com/item?id=42717234) \| 🗓️ 2025-01-15
+| 🔥🔥: 193 \| 💬: [68](https://news.ycombinator.com/item?id=42717234) \| 🗓️ 2025-01-15
 
 
 <br />
@@ -166,7 +130,55 @@ Nate Anderson宣布解散Hindenburg Research，这是一个专注于揭露金融
 
 ---
 
-## <a name="13"></a>13. 用 Rust 和 647 个开源依赖在四个月内构建数据库 
+## <a name="10"></a>10. Ropey – 用于处理和编辑大型文本的UTF8文本绳索 
+<small>🔗 [github.com](https://github.com/cessen/ropey): Ropey – A UTF8 text rope for manipulating and editing large text</small>
+
+
+| 🔥🔥: 188 \| 💬: [76](https://news.ycombinator.com/item?id=42711966) \| 🗓️ 2025-01-15
+
+
+<br />
+Ropey 是一个为 Rust 设计的 **UTF8 文本绳索**，专为文本编辑器等应用提供高效的文本缓冲区支持。它能够快速处理**大型文本**和频繁的编辑操作，支持 Unicode 并确保数据有效性。Ropey 在内存使用和性能上表现优异，适合处理中等至大型文本，但不适合极小型文本或超出内存容量的场景。采用 MIT 许可证，欢迎贡献。
+
+---
+
+## <a name="11"></a>11. 面向 Django 开发者的现代 JavaScript 指南 
+<small>🔗 [saaspegasus.com](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/): Modern JavaScript for Django developers</small>
+
+
+| 🔥🔥: 147 \| 💬: [84](https://news.ycombinator.com/item?id=42711387) \| 🗓️ 2025-01-15
+
+
+<br />
+JavaScript 是现代 Web 应用的核心，但复杂的工具和框架让许多 Django 开发者感到困惑。本指南旨在帮助 Django 开发者掌握 **现代 JavaScript 工具** 和 **前端框架**（如 React、Vue），并提供 **混合架构** 的最佳实践。还探讨了 **低代码框架**（如 Alpine.js 和 HTMX），帮助开发者在不写 JavaScript 的情况下构建现代网站。
+
+---
+
+## <a name="12"></a>12. 盖亚任务完成全天扫描 
+<small>🔗 [esa.int](https://www.esa.int/ESA_Multimedia/Images/2025/01/Sky-scanning_complete_for_Gaia): Sky-scanning complete for Gaia</small>
+
+
+| 🔥🔥: 142 \| 💬: [39](https://news.ycombinator.com/item?id=42709105) \| 🗓️ 2025-01-15
+
+
+<br />
+欧洲航天局的**盖亚**探测器已完成全天扫描任务，过去十年对约**20亿颗恒星**及其他天体进行了超过**3万亿次观测**，彻底改变了我们对银河系及宇宙邻域的认识。自2013年发射以来，盖亚已消耗55公斤冷气体，数据被访问超5.8亿次，并催生了1.3万篇科学论文。
+
+---
+
+## <a name="13"></a>13. 谷歌在Gmail和Docs中免费提供AI功能，但提高Workspace价格 
+<small>🔗 [theverge.com](https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free): Google is making AI in Gmail and Docs free, but raising the price of Workspace</small>
+
+
+| 🔥🔥: 122 \| 💬: [167](https://news.ycombinator.com/item?id=42710978) \| 🗓️ 2025-01-15
+
+
+<br />
+谷歌宣布将**AI功能**免费引入Gmail、Docs等Workspace应用，但所有Workspace套餐价格将上涨约**2美元/用户/月**。此举旨在与微软、OpenAI等竞争，推动AI办公套件的普及。谷歌的**Gemini**助手等AI工具将全面开放，帮助企业降低成本并提升效率。
+
+---
+
+## <a name="14"></a>14. 用 Rust 和 647 个开源依赖在四个月内构建数据库 
 <small>🔗 [tisonkun.io](https://tisonkun.io/posts/oss-twin): Build a Database in Four Months with Rust and 647 Open-Source Dependencies</small>
 
 
@@ -178,23 +190,11 @@ Nate Anderson宣布解散Hindenburg Research，这是一个专注于揭露金融
 
 ---
 
-## <a name="14"></a>14. 谷歌在Gmail和Docs中免费提供AI功能，但提高Workspace价格 
-<small>🔗 [theverge.com](https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free): Google is making AI in Gmail and Docs free, but raising the price of Workspace</small>
-
-
-| 🔥🔥: 105 \| 💬: [152](https://news.ycombinator.com/item?id=42710978) \| 🗓️ 2025-01-15
-
-
-<br />
-谷歌宣布将**AI功能**免费引入Gmail、Docs等Workspace应用，但所有Workspace套餐价格将上涨约**2美元/用户/月**。此举旨在与微软、OpenAI等竞争，推动AI办公套件的普及。谷歌的**Gemini**助手等AI工具将全面开放，帮助企业降低成本并提升效率。
-
----
-
 ## <a name="15"></a>15. 澳洲航空南非航班因SpaceX火箭碎片坠落而延误 
 <small>🔗 [theguardian.com](https://www.theguardian.com/business/2025/jan/14/qantas-flights-delayed-spacex-falling-debris-sydney-to-johannesburg): Qantas South Africa flights delayed by falling debris from SpaceX rockets</small>
 
 
-| 🔥🔥: 104 \| 💬: [97](https://news.ycombinator.com/item?id=42714436) \| 🗓️ 2025-01-15
+| 🔥🔥: 106 \| 💬: [98](https://news.ycombinator.com/item?id=42714436) \| 🗓️ 2025-01-15
 
 
 <br />
@@ -202,23 +202,11 @@ Nate Anderson宣布解散Hindenburg Research，这是一个专注于揭露金融
 
 ---
 
-## <a name="16"></a>16. 与美联社合作，为Gemini应用提供最新结果 
-<small>🔗 [blog.google](https://blog.google/products/news/associated-press-gemini-app/): Working with The Associated Press to provide fresh results for the Gemini app</small>
-
-
-| 🔥: 83 \| 💬: [59](https://news.ycombinator.com/item?id=42716204) \| 🗓️ 2025-01-15
-
-
-<br />
-Google宣布与**美联社（AP）**深化合作，AP将为**Gemini应用**提供实时信息流，以增强搜索结果的有用性。此次合作延续了双方在新闻准确性上的长期合作，AP的非党派报道和新闻价值得到了Google的认可。Google还通过AI技术支持全球新闻生态系统，推动新闻创新。
-
----
-
-## <a name="17"></a>17. 100倍缺陷容忍度：我们如何解决良率问题 
+## <a name="16"></a>16. 100倍缺陷容忍度：我们如何解决良率问题 
 <small>🔗 [cerebras.ai](https://cerebras.ai/blog/100x-defect-tolerance-how-cerebras-solved-the-yield-problem): 100x defect tolerance: How we solved the yield problem</small>
 
 
-| 🔥: 77 \| 💬: [60](https://news.ycombinator.com/item?id=42717165) \| 🗓️ 2025-01-15
+| 🔥🔥: 105 \| 💬: [73](https://news.ycombinator.com/item?id=42717165) \| 🗓️ 2025-01-15
 
 
 <br />
@@ -226,11 +214,23 @@ Cerebras通过设计**超小核心**和**动态路由架构**，成功制造出�
 
 ---
 
+## <a name="17"></a>17. 与美联社合作，为Gemini应用提供最新结果 
+<small>🔗 [blog.google](https://blog.google/products/news/associated-press-gemini-app/): Working with The Associated Press to provide fresh results for the Gemini app</small>
+
+
+| 🔥: 84 \| 💬: [59](https://news.ycombinator.com/item?id=42716204) \| 🗓️ 2025-01-15
+
+
+<br />
+Google宣布与**美联社（AP）**深化合作，AP将为**Gemini应用**提供实时信息流，以增强搜索结果的有用性。此次合作延续了双方在新闻准确性上的长期合作，AP的非党派报道和新闻价值得到了Google的认可。Google还通过AI技术支持全球新闻生态系统，推动新闻创新。
+
+---
+
 ## <a name="18"></a>18. 微软将于10月14日后停止支持Windows 10上的Office应用 
 <small>🔗 [theverge.com](https://www.theverge.com/2025/1/15/24344209/microsoft-365-office-apps-windows-10-end-of-support): Microsoft won't support Office apps on Windows 10 after October 14th</small>
 
 
-| 🔥: 66 \| 💬: [80](https://news.ycombinator.com/item?id=42712807) \| 🗓️ 2025-01-15
+| 🔥: 69 \| 💬: [80](https://news.ycombinator.com/item?id=42712807) \| 🗓️ 2025-01-15
 
 
 <br />
@@ -238,26 +238,26 @@ Cerebras通过设计**超小核心**和**动态路由架构**，成功制造出�
 
 ---
 
-## <a name="19"></a>19. 法国女子被AI布拉德·皮特骗走83万欧元 
+## <a name="19"></a>19. dnSpyEx: .NET 调试器与程序集编辑器 
+<small>🔗 [github.com](https://github.com/dnSpyEx/dnSpy): dnSpyEx: .NET debugger and assembly editor</small>
+
+
+| 🔥: 68 \| 💬: [9](https://news.ycombinator.com/item?id=42716072) \| 🗓️ 2025-01-15
+
+
+<br />
+dnSpyEx 是知名 .NET 调试器与程序集编辑器 dnSpy 的**非官方延续**，支持调试和编辑 .NET 及 Unity 程序集，即使没有源代码也可操作。主要功能包括**调试 .NET 和 Unity 程序集**、**编辑程序集**、支持亮暗主题等。dnSpyEx 提供了丰富的调试功能，如断点设置、变量查看、多进程调试等，并支持 C# 和 Visual Basic 的 IntelliSense 编辑。项目基于 GPL-3.0 许可证开源，适用于开发者和逆向工程爱好者。
+
+---
+
+## <a name="20"></a>20. 法国女子被AI布拉德·皮特骗走83万欧元 
 <small>🔗 [bbc.co.uk](https://www.bbc.co.uk/news/articles/ckgnz8rw1xgo): AI Brad Pitt dupes French woman out of €830k</small>
 
 
-| 🔥: 63 \| 💬: [121](https://news.ycombinator.com/item?id=42712673) \| 🗓️ 2025-01-15
+| 🔥: 65 \| 💬: [122](https://news.ycombinator.com/item?id=42712673) \| 🗓️ 2025-01-15
 
 
 <br />
 一名53岁的法国女子**安妮**被冒充演员布拉德·皮特的骗子骗走83万欧元。她误以为与皮特建立了恋爱关系，持续了一年半。骗子利用**AI生成的图片**和虚假信息获取她的信任，甚至伪造新闻视频。安妮因此失去全部积蓄，并多次试图自杀。事件引发广泛关注，部分人同情她的遭遇，认为**AI和深度伪造技术**的进步使骗局更加难以识别。
-
----
-
-## <a name="20"></a>20. Show HN: 我制作了一个从多个平台保存多媒体的工具 
-<small>🔗 [saveplays.com](https://www.saveplays.com/): Show HN: I made a tool to save multimedia from various platforms</small>
-
-
-| 🔥: 59 \| 💬: [29](https://news.ycombinator.com/item?id=42716487) \| 🗓️ 2025-01-15
-
-
-<br />
-SavePlays.com 是一个**在线视频下载器**，支持从 YouTube、Facebook、Instagram、Twitter (X)、Bilibili 等平台下载**高清视频**。用户只需粘贴视频链接，选择分辨率，即可轻松下载 MP4 格式的视频，支持从 SD 到 4K 的多种分辨率。该工具兼容所有主流浏览器，无需额外软件，操作简单高效。
 
 ---
