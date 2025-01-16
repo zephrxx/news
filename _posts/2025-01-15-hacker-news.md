@@ -8,11 +8,11 @@ tags:
 ---
 
 
-1. 为什么Cloudflare Pages的带宽是无限的？；
 1. 我决定解散Hindenburg Research；
+1. 为什么Cloudflare Pages的带宽是无限的？；
 1. 使用Kokoro-82M将电子书转换为有声书；
 1. 办公室术语中的求婚；
-1. 美国将禁止在谷物和其他食品中使用与癌症相关的红色3号染料；
+1. 瑞典学校重新引入更多书籍和手写练习（2023）；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -22,23 +22,11 @@ tags:
 ![](/assets/images/hacker_news.jpg)
 
 
-## <a name="1"></a>1. 为什么Cloudflare Pages的带宽是无限的？ 
-<small>🔗 [mattsayar.com](https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/): Why is Cloudflare Pages' bandwidth unlimited?</small>
-
-
-| 🔥🔥: 455 \| 💬: [278](https://news.ycombinator.com/item?id=42712433) \| 🗓️ 2025-01-15
-
-
-<br />
-Cloudflare Pages提供**无限带宽**，主要因为静态网站轻量且易于服务，对资源消耗极小。Cloudflare通过**免费服务**（如1.1.1.1和DDoS防护）推动互联网安全与速度，间接促进其安全产品的销售。此外，**免费模式**吸引用户尝试并形成良好口碑，进一步推动品牌推广。
-
----
-
-## <a name="2"></a>2. 我决定解散Hindenburg Research 
+## <a name="1"></a>1. 我决定解散Hindenburg Research 
 <small>🔗 [hindenburgresearch.com](https://hindenburgresearch.com/gratitude/): I have made the decision to disband Hindenburg Research</small>
 
 
-| 🔥🔥: 439 \| 💬: [194](https://news.ycombinator.com/item?id=42717234) \| 🗓️ 2025-01-15
+| 🔥🔥: 474 \| 💬: [210](https://news.ycombinator.com/item?id=42717234) \| 🗓️ 2025-01-15
 
 
 <br />
@@ -46,11 +34,23 @@ Nate Anderson宣布解散Hindenburg Research，这是一个专注于揭露金融
 
 ---
 
+## <a name="2"></a>2. 为什么Cloudflare Pages的带宽是无限的？ 
+<small>🔗 [mattsayar.com](https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/): Why is Cloudflare Pages' bandwidth unlimited?</small>
+
+
+| 🔥🔥: 470 \| 💬: [286](https://news.ycombinator.com/item?id=42712433) \| 🗓️ 2025-01-15
+
+
+<br />
+Cloudflare Pages提供**无限带宽**，主要因为静态网站轻量且易于服务，对资源消耗极小。Cloudflare通过**免费服务**（如1.1.1.1和DDoS防护）推动互联网安全与速度，间接促进其安全产品的销售。此外，**免费模式**吸引用户尝试并形成良好口碑，进一步推动品牌推广。
+
+---
+
 ## <a name="3"></a>3. 使用Kokoro-82M将电子书转换为有声书 
 <small>🔗 [claudio.uk](https://claudio.uk/posts/epub-to-audiobook.html): Generate audiobooks from E-books with Kokoro-82M</small>
 
 
-| 🔥🔥: 388 \| 💬: [230](https://news.ycombinator.com/item?id=42708773) \| 🗓️ 2025-01-15
+| 🔥🔥: 390 \| 💬: [230](https://news.ycombinator.com/item?id=42708773) \| 🗓️ 2025-01-15
 
 
 <br />
@@ -62,7 +62,7 @@ Kokoro v0.19是一款高质量的**文本转语音模型**，支持多种语言�
 <small>🔗 [mcsweeneys.net](https://www.mcsweeneys.net/articles/a-marriage-proposal-spoken-entirely-in-office-jargon): A marriage proposal spoken in office jargon</small>
 
 
-| 🔥🔥: 378 \| 💬: [206](https://news.ycombinator.com/item?id=42714775) \| 🗓️ 2025-01-15
+| 🔥🔥: 383 \| 💬: [208](https://news.ycombinator.com/item?id=42714775) \| 🗓️ 2025-01-15
 
 
 <br />
@@ -70,35 +70,11 @@ Gary和Cindy用**办公室术语**讨论他们的关系，Gary提出**婚姻**�
 
 ---
 
-## <a name="5"></a>5. 美国将禁止在谷物和其他食品中使用与癌症相关的红色3号染料 
-<small>🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-01-15/us-fda-to-ban-red-dye-no-3-rfk-went-after-due-to-cancer-link): US will ban cancer-linked Red Dye No. 3 in cereal and other foods</small>
-
-
-| 🔥🔥: 334 \| 💬: [452](https://news.ycombinator.com/item?id=42711556) \| 🗓️ 2025-01-15
-
-
-<br />
-美国将禁止在**谷物**和其他食品中使用**红色3号染料**，该染料被认为与**癌症**风险有关。这一决定基于对食品安全的重新评估，旨在保护公众健康。相关食品制造商需调整配方以符合新规。
-
----
-
-## <a name="6"></a>6. 联合健康集团对癌症患者药物收费超1000% 
-<small>🔗 [fortune.com](https://fortune.com/2025/01/15/ftc-pbms-unitedhealth-brian-thompson-cvs-caremark-cigna-pharmacy-benefit-managers/): UnitedHealth overcharged cancer patients for drugs by over 1,000%</small>
-
-
-| 🔥🔥: 334 \| 💬: [289](https://news.ycombinator.com/item?id=42716428) \| 🗓️ 2025-01-15
-
-
-<br />
-美国联邦贸易委员会（FTC）主席Lina Khan正在关注三大药品福利管理公司，其中包括**联合健康集团**旗下的OptumRx。调查发现，联合健康集团对部分癌症患者的药物收费**超过1000%**，引发了广泛争议。
-
----
-
-## <a name="7"></a>7. 瑞典学校重新引入更多书籍和手写练习（2023） 
+## <a name="5"></a>5. 瑞典学校重新引入更多书籍和手写练习（2023） 
 <small>🔗 [apnews.com](https://apnews.com/article/sweden-digital-education-backlash-reading-writing-1dd964c628f76361c43dbf3964f7dbf4): Sweden brings more books and handwriting practice back to its schools (2023)</small>
 
 
-| 🔥🔥: 329 \| 💬: [222](https://news.ycombinator.com/item?id=42715841) \| 🗓️ 2025-01-15
+| 🔥🔥: 346 \| 💬: [227](https://news.ycombinator.com/item?id=42715841) \| 🗓️ 2025-01-15
 
 
 <br />
@@ -106,11 +82,35 @@ Gary和Cindy用**办公室术语**讨论他们的关系，Gary提出**婚姻**�
 
 ---
 
+## <a name="6"></a>6. 美国将禁止在谷物和其他食品中使用与癌症相关的红色3号染料 
+<small>🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-01-15/us-fda-to-ban-red-dye-no-3-rfk-went-after-due-to-cancer-link): US will ban cancer-linked Red Dye No. 3 in cereal and other foods</small>
+
+
+| 🔥🔥: 344 \| 💬: [458](https://news.ycombinator.com/item?id=42711556) \| 🗓️ 2025-01-15
+
+
+<br />
+美国将禁止在**谷物**和其他食品中使用**红色3号染料**，该染料被认为与**癌症**风险有关。这一决定基于对食品安全的重新评估，旨在保护公众健康。相关食品制造商需调整配方以符合新规。
+
+---
+
+## <a name="7"></a>7. 联合健康集团对癌症患者药物收费超1000% 
+<small>🔗 [fortune.com](https://fortune.com/2025/01/15/ftc-pbms-unitedhealth-brian-thompson-cvs-caremark-cigna-pharmacy-benefit-managers/): UnitedHealth overcharged cancer patients for drugs by over 1,000%</small>
+
+
+| 🔥🔥: 337 \| 💬: [291](https://news.ycombinator.com/item?id=42716428) \| 🗓️ 2025-01-15
+
+
+<br />
+美国联邦贸易委员会（FTC）主席Lina Khan正在关注三大药品福利管理公司，其中包括**联合健康集团**旗下的OptumRx。调查发现，联合健康集团对部分癌症患者的药物收费**超过1000%**，引发了广泛争议。
+
+---
+
 ## <a name="8"></a>8. 1971年发生了什么？ 
 <small>🔗 [wtfhappenedin1971.com](https://wtfhappenedin1971.com/): WTF Happened in 1971? (2019)</small>
 
 
-| 🔥🔥: 264 \| 💬: [247](https://news.ycombinator.com/item?id=42711781) \| 🗓️ 2025-01-15
+| 🔥🔥: 266 \| 💬: [247](https://news.ycombinator.com/item?id=42711781) \| 🗓️ 2025-01-15
 
 
 <br />
@@ -122,7 +122,7 @@ Gary和Cindy用**办公室术语**讨论他们的关系，Gary提出**婚姻**�
 <small>🔗 [gamingonlinux.com](https://www.gamingonlinux.com/2025/01/gog-joins-the-european-federation-of-game-archives-museums-and-preservation-projects/): GOG Joins European Federation of Game Archives, Museums & Preservation Projects</small>
 
 
-| 🔥🔥: 229 \| 💬: [32](https://news.ycombinator.com/item?id=42714156) \| 🗓️ 2025-01-15
+| 🔥🔥: 229 \| 💬: [33](https://news.ycombinator.com/item?id=42714156) \| 🗓️ 2025-01-15
 
 
 <br />
@@ -134,7 +134,7 @@ GOG宣布加入**欧洲游戏档案、博物馆与保护项目联合会（EFGAMP
 <small>🔗 [github.com](https://github.com/cessen/ropey): Ropey – A UTF8 text rope for manipulating and editing large text</small>
 
 
-| 🔥🔥: 213 \| 💬: [84](https://news.ycombinator.com/item?id=42711966) \| 🗓️ 2025-01-15
+| 🔥🔥: 216 \| 💬: [88](https://news.ycombinator.com/item?id=42711966) \| 🗓️ 2025-01-15
 
 
 <br />
@@ -146,7 +146,7 @@ Ropey 是一个为 Rust 设计的 **UTF8 文本绳索**，专为文本编辑器�
 <small>🔗 [cerebras.ai](https://cerebras.ai/blog/100x-defect-tolerance-how-cerebras-solved-the-yield-problem): 100x defect tolerance: How we solved the yield problem</small>
 
 
-| 🔥🔥: 201 \| 💬: [106](https://news.ycombinator.com/item?id=42717165) \| 🗓️ 2025-01-15
+| 🔥🔥: 214 \| 💬: [110](https://news.ycombinator.com/item?id=42717165) \| 🗓️ 2025-01-15
 
 
 <br />
@@ -158,7 +158,7 @@ Cerebras通过设计**超小核心**和**动态路由架构**，成功制造出�
 <small>🔗 [theverge.com](https://www.theverge.com/2025/1/15/24343794/google-workspace-ai-features-free): Google is making AI in Gmail and Docs free, but raising the price of Workspace</small>
 
 
-| 🔥🔥: 187 \| 💬: [235](https://news.ycombinator.com/item?id=42710978) \| 🗓️ 2025-01-15
+| 🔥🔥: 197 \| 💬: [247](https://news.ycombinator.com/item?id=42710978) \| 🗓️ 2025-01-15
 
 
 <br />
@@ -167,10 +167,10 @@ Cerebras通过设计**超小核心**和**动态路由架构**，成功制造出�
 ---
 
 ## <a name="13"></a>13. OpenAI未能兑现摄影师退出系统的承诺 
-<small>🔗 [petapixel.com](https://petapixel.com/2025/01/06/openai-fails-to-deliver-opt-out-system-for-photographers/): OpenAI Fails to Deliver Opt-Out System for Photographers</small>
+<small>🔗 [petapixel.com](https://petapixel.com/2025/01/06/openai-fails-to-deliver-opt-out-system-for-photographers/): OpenAI fails to deliver opt-out system for photographers</small>
 
 
-| 🔥🔥: 183 \| 💬: [106](https://news.ycombinator.com/item?id=42718850) \| 🗓️ 2025-01-15
+| 🔥🔥: 189 \| 💬: [119](https://news.ycombinator.com/item?id=42718850) \| 🗓️ 2025-01-15
 
 
 <br />
@@ -182,7 +182,7 @@ OpenAI未能按计划在2025年前推出**Media Manager**工具，该工具旨�
 <small>🔗 [saaspegasus.com](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/): Modern JavaScript for Django developers</small>
 
 
-| 🔥🔥: 174 \| 💬: [99](https://news.ycombinator.com/item?id=42711387) \| 🗓️ 2025-01-15
+| 🔥🔥: 179 \| 💬: [100](https://news.ycombinator.com/item?id=42711387) \| 🗓️ 2025-01-15
 
 
 <br />
@@ -194,7 +194,7 @@ JavaScript 是现代 Web 应用的核心，但复杂的工具和框架让许多 
 <small>🔗 [esa.int](https://www.esa.int/ESA_Multimedia/Images/2025/01/Sky-scanning_complete_for_Gaia): Sky-scanning complete for Gaia</small>
 
 
-| 🔥🔥: 151 \| 💬: [48](https://news.ycombinator.com/item?id=42709105) \| 🗓️ 2025-01-15
+| 🔥🔥: 154 \| 💬: [48](https://news.ycombinator.com/item?id=42709105) \| 🗓️ 2025-01-15
 
 
 <br />
@@ -202,27 +202,27 @@ JavaScript 是现代 Web 应用的核心，但复杂的工具和框架让许多 
 
 ---
 
-## <a name="16"></a>16. 用 Rust 和 647 个开源依赖在四个月内构建数据库 
-<small>🔗 [tisonkun.io](https://tisonkun.io/posts/oss-twin): Build a Database in Four Months with Rust and 647 Open-Source Dependencies</small>
-
-
-| 🔥🔥: 119 \| 💬: [128](https://news.ycombinator.com/item?id=42711727) \| 🗓️ 2025-01-15
-
-
-<br />
-团队使用 **Rust** 和其开源生态系统，在四个月内从零开发了 **ScopeDB**，一个管理 PB 级可观测数据的云数据库。项目依赖了 623 个开源库，如 **Apache OpenDAL** 和 **SQLx**，并积极回馈社区，贡献代码和文档。ScopeDB 的部分组件也已开源，展示了商业软件与开源结合的范式。
-
----
-
-## <a name="17"></a>17. dnSpyEx: .NET 调试器与程序集编辑器 
+## <a name="16"></a>16. dnSpyEx: .NET 调试器与程序集编辑器 
 <small>🔗 [github.com](https://github.com/dnSpyEx/dnSpy): dnSpyEx: .NET debugger and assembly editor</small>
 
 
-| 🔥🔥: 114 \| 💬: [11](https://news.ycombinator.com/item?id=42716072) \| 🗓️ 2025-01-15
+| 🔥🔥: 125 \| 💬: [12](https://news.ycombinator.com/item?id=42716072) \| 🗓️ 2025-01-15
 
 
 <br />
 dnSpyEx 是知名 .NET 调试器与程序集编辑器 dnSpy 的**非官方延续**，支持调试和编辑 .NET 及 Unity 程序集，即使没有源代码也可操作。主要功能包括**调试 .NET 和 Unity 程序集**、**编辑程序集**、支持亮暗主题等。dnSpyEx 提供了丰富的调试功能，如断点设置、变量查看、多进程调试等，并支持 C# 和 Visual Basic 的 IntelliSense 编辑。项目基于 GPL-3.0 许可证开源，适用于开发者和逆向工程爱好者。
+
+---
+
+## <a name="17"></a>17. 用 Rust 和 647 个开源依赖在四个月内构建数据库 
+<small>🔗 [tisonkun.io](https://tisonkun.io/posts/oss-twin): Build a Database in Four Months with Rust and 647 Open-Source Dependencies</small>
+
+
+| 🔥🔥: 120 \| 💬: [129](https://news.ycombinator.com/item?id=42711727) \| 🗓️ 2025-01-15
+
+
+<br />
+团队使用 **Rust** 和其开源生态系统，在四个月内从零开发了 **ScopeDB**，一个管理 PB 级可观测数据的云数据库。项目依赖了 623 个开源库，如 **Apache OpenDAL** 和 **SQLx**，并积极回馈社区，贡献代码和文档。ScopeDB 的部分组件也已开源，展示了商业软件与开源结合的范式。
 
 ---
 
@@ -242,7 +242,7 @@ dnSpyEx 是知名 .NET 调试器与程序集编辑器 dnSpy 的**非官方延续
 <small>🔗 [wyofile.com](https://wyofile.com/natrium-advanced-nuclear-power-plant-wins-wyoming-permit/): Natrium 'advanced nuclear' power plant wins Wyoming permit</small>
 
 
-| 🔥: 95 \| 💬: [58](https://news.ycombinator.com/item?id=42716104) \| 🗓️ 2025-01-15
+| 🔥: 95 \| 💬: [59](https://news.ycombinator.com/item?id=42716104) \| 🗓️ 2025-01-15
 
 
 <br />
