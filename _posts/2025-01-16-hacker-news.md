@@ -26,7 +26,7 @@ tags:
 <small>🔗 [keygen.sh](https://keygen.sh/blog/no-calls/): No Calls</small>
 
 
-| 🔥🔥: 961 \| 💬: [339](https://news.ycombinator.com/item?id=42725385) \| 🗓️ 2025-01-16
+| 🔥🔥: 1002 \| 💬: [346](https://news.ycombinator.com/item?id=42725385) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -38,7 +38,7 @@ Keygen创始人Zeke Gabrielse分享了他如何通过**无电话政策**成功�
 <small>🔗 [variety.com](https://variety.com/2025/film/news/david-lynch-dead-director-blue-velvet-twin-peaks-1236276106/): David Lynch has died</small>
 
 
-| 🔥🔥: 832 \| 💬: [271](https://news.ycombinator.com/item?id=42728862) \| 🗓️ 2025-01-16
+| 🔥🔥: 869 \| 💬: [286](https://news.ycombinator.com/item?id=42728862) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -50,7 +50,7 @@ Keygen创始人Zeke Gabrielse分享了他如何通过**无电话政策**成功�
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=itpcsQQvgAQ): Nintendo announces the Switch 2 [video]</small>
 
 
-| 🔥🔥: 632 \| 💬: [835](https://news.ycombinator.com/item?id=42724621) \| 🗓️ 2025-01-16
+| 🔥🔥: 648 \| 💬: [858](https://news.ycombinator.com/item?id=42724621) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -62,7 +62,7 @@ Keygen创始人Zeke Gabrielse分享了他如何通过**无电话政策**成功�
 <small>🔗 [nokia-apple-iphone-was-launched-presentation.tiiny.site](https://nokia-apple-iphone-was-launched-presentation.tiiny.site/): Nokia's internal presentation after iPhone was launched (2007) [pdf]</small>
 
 
-| 🔥🔥: 427 \| 💬: [447](https://news.ycombinator.com/item?id=42724761) \| 🗓️ 2025-01-16
+| 🔥🔥: 428 \| 💬: [449](https://news.ycombinator.com/item?id=42724761) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -74,7 +74,7 @@ Keygen创始人Zeke Gabrielse分享了他如何通过**无电话政策**成功�
 <small>🔗 [joeyehand.com](https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/): I ditched the algorithm for RSS</small>
 
 
-| 🔥🔥: 405 \| 💬: [173](https://news.ycombinator.com/item?id=42724284) \| 🗓️ 2025-01-16
+| 🔥🔥: 421 \| 💬: [178](https://news.ycombinator.com/item?id=42724284) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -86,7 +86,7 @@ Keygen创始人Zeke Gabrielse分享了他如何通过**无电话政策**成功�
 <small>🔗 [zadzmo.org](https://zadzmo.org/code/nepenthes/): Nepenthes is a tarpit to catch AI web crawlers</small>
 
 
-| 🔥🔥: 401 \| 💬: [144](https://news.ycombinator.com/item?id=42725147) \| 🗓️ 2025-01-16
+| 🔥🔥: 411 \| 💬: [149](https://news.ycombinator.com/item?id=42725147) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -98,7 +98,7 @@ Nepenthes 是一种专门针对为大型语言模型（LLM）抓取数据的网�
 <small>🔗 [arstechnica.com](https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/): Blue Origin reaches orbit on first flight of its titanic New Glenn rocket</small>
 
 
-| 🔥🔥: 347 \| 💬: [248](https://news.ycombinator.com/item?id=42722756) \| 🗓️ 2025-01-16
+| 🔥🔥: 348 \| 💬: [248](https://news.ycombinator.com/item?id=42722756) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -106,35 +106,11 @@ Nepenthes 是一种专门针对为大型语言模型（LLM）抓取数据的网�
 
 ---
 
-## <a name="8"></a>8. 哦，Git 真难搞！ 
-<small>🔗 [ohshitgit.com](https://ohshitgit.com/): Oh Shit, Git?</small>
-
-
-| 🔥🔥: 226 \| 💬: [143](https://news.ycombinator.com/item?id=42728916) \| 🗓️ 2025-01-16
-
-
-<br />
-Git 操作复杂，容易出错，修复错误更是难上加难。本文分享了一些常见 Git 问题的解决方法，如使用 **`git reflog`** 恢复误删内容、**`git commit --amend`** 修改提交、**`git revert`** 撤销历史提交等。文章以幽默的方式提供了实用技巧，帮助开发者应对 Git 中的各种“灾难”。
-
----
-
-## <a name="9"></a>9. FOSDEM不欢迎亿万富翁 
-<small>🔗 [drewdevault.com](https://drewdevault.com/2025/01/16/2025-01-16-No-Billionares-at-FOSDEM-please.html): No Billionares at FOSDEM</small>
-
-
-| 🔥🔥: 198 \| 💬: [146](https://news.ycombinator.com/item?id=42725057) \| 🗓️ 2025-01-16
-
-
-<br />
-Jack Dorsey，前Twitter CEO，因出售Twitter给Elon Musk并导致用户大规模迁移至Fediverse而备受争议，将在FOSDEM发表主题演讲。**FOSDEM**是自由软件社区的重要平台，但Dorsey的区块链公司Block赞助了此次活动，引发不满。作者计划组织**静坐抗议**，阻止Dorsey的演讲，并呼吁亿万富翁通过捐赠支持开源社区，而非利用平台推广其商业项目。
-
----
-
-## <a name="10"></a>10. 星际飞船飞行7号 
+## <a name="8"></a>8. 星际飞船飞行7号 
 <small>🔗 [spacex.com](https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit): Starship Flight 7</small>
 
 
-| 🔥🔥: 195 \| 💬: [161](https://news.ycombinator.com/item?id=42731091) \| 🗓️ 2025-01-16
+| 🔥🔥: 246 \| 💬: [209](https://news.ycombinator.com/item?id=42731091) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -142,11 +118,35 @@ SpaceX的**Dragon飞船**在执行前往国际空间站的任务时，通过一�
 
 ---
 
+## <a name="9"></a>9. 哦，Git 真难搞！ 
+<small>🔗 [ohshitgit.com](https://ohshitgit.com/): Oh Shit, Git?</small>
+
+
+| 🔥🔥: 243 \| 💬: [158](https://news.ycombinator.com/item?id=42728916) \| 🗓️ 2025-01-16
+
+
+<br />
+Git 操作复杂，容易出错，修复错误更是难上加难。本文分享了一些常见 Git 问题的解决方法，如使用 **`git reflog`** 恢复误删内容、**`git commit --amend`** 修改提交、**`git revert`** 撤销历史提交等。文章以幽默的方式提供了实用技巧，帮助开发者应对 Git 中的各种“灾难”。
+
+---
+
+## <a name="10"></a>10. FOSDEM不欢迎亿万富翁 
+<small>🔗 [drewdevault.com](https://drewdevault.com/2025/01/16/2025-01-16-No-Billionares-at-FOSDEM-please.html): No Billionares at FOSDEM</small>
+
+
+| 🔥🔥: 200 \| 💬: [151](https://news.ycombinator.com/item?id=42725057) \| 🗓️ 2025-01-16
+
+
+<br />
+Jack Dorsey，前Twitter CEO，因出售Twitter给Elon Musk并导致用户大规模迁移至Fediverse而备受争议，将在FOSDEM发表主题演讲。**FOSDEM**是自由软件社区的重要平台，但Dorsey的区块链公司Block赞助了此次活动，引发不满。作者计划组织**静坐抗议**，阻止Dorsey的演讲，并呼吁亿万富翁通过捐赠支持开源社区，而非利用平台推广其商业项目。
+
+---
+
 ## <a name="11"></a>11. 任天堂Switch 2 
 <small>🔗 [nintendo.com](https://www.nintendo.com/successor/en-gb/index.html): Nintendo Switch 2</small>
 
 
-| 🔥🔥: 177 \| 💬: [1](https://news.ycombinator.com/item?id=42724823) \| 🗓️ 2025-01-16
+| 🔥🔥: 178 \| 💬: [1](https://news.ycombinator.com/item?id=42724823) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -170,7 +170,7 @@ SpaceX的**Dragon飞船**在执行前往国际空间站的任务时，通过一�
 <small>🔗 [letsencrypt.org](https://letsencrypt.org/2025/01/16/6-day-and-ip-certs/): Six day and IP address certificate options in 2025</small>
 
 
-| 🔥🔥: 149 \| 💬: [98](https://news.ycombinator.com/item?id=42726678) \| 🗓️ 2025-01-16
+| 🔥🔥: 154 \| 💬: [101](https://news.ycombinator.com/item?id=42726678) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -178,23 +178,11 @@ SpaceX的**Dragon飞船**在执行前往国际空间站的任务时，通过一�
 
 ---
 
-## <a name="14"></a>14. 数学家发现球体“接吻”的新方式 
-<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/mathematicians-discover-new-way-for-spheres-to-kiss-20250115/): Mathematicians discover new way for spheres to 'kiss'</small>
-
-
-| 🔥🔥: 139 \| 💬: [62](https://news.ycombinator.com/item?id=42723406) \| 🗓️ 2025-01-16
-
-
-<br />
-数学家们在**球体接吻问题**上取得了新突破，特别是在17到21维空间中。通过打破传统的对称性方法，研究人员利用**误差校正码**构建了更不规则的球体排列，从而提高了接吻数的下界。这一成果展示了**非对称结构**在解决复杂数学问题中的潜力。
-
----
-
-## <a name="15"></a>15. 展示你的项目的开源目录 
+## <a name="14"></a>14. 展示你的项目的开源目录 
 <small>🔗 [github.com](https://github.com/KingMenes/awesome-launch): Show HN: I made an open source directory of where to showoff your projects</small>
 
 
-| 🔥🔥: 139 \| 💬: [30](https://news.ycombinator.com/item?id=42724757) \| 🗓️ 2025-01-16
+| 🔥🔥: 145 \| 💬: [30](https://news.ycombinator.com/item?id=42724757) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -202,23 +190,23 @@ SpaceX的**Dragon飞船**在执行前往国际空间站的任务时，通过一�
 
 ---
 
-## <a name="16"></a>16. 2015年mRNA论文评论暗示数据在不同情境中被重复使用 
-<small>🔗 [pubpeer.com](https://pubpeer.com/publications/323E84675EB2E849C56097D73D55FD#1): Comment on 2015 mRNA paper suggests data re-used in different contexts</small>
+## <a name="15"></a>15. 数学家发现球体“接吻”的新方式 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/mathematicians-discover-new-way-for-spheres-to-kiss-20250115/): Mathematicians discover new way for spheres to 'kiss'</small>
 
 
-| 🔥🔥: 134 \| 💬: [71](https://news.ycombinator.com/item?id=42728165) \| 🗓️ 2025-01-16
+| 🔥🔥: 142 \| 💬: [62](https://news.ycombinator.com/item?id=42723406) \| 🗓️ 2025-01-16
 
 
 <br />
-一篇2015年发表在《Nature Communications》的论文，题为“**TRF2-S**：一种新型RNA和FMRP结合蛋白，调节轴突mRNA运输和突触前可塑性”，近期有评论指出其数据可能在不同情境中被**重复使用**。该研究由Peisu Zhang等人发表，涉及**mRNA运输**和突触可塑性机制。
+数学家们在**球体接吻问题**上取得了新突破，特别是在17到21维空间中。通过打破传统的对称性方法，研究人员利用**误差校正码**构建了更不规则的球体排列，从而提高了接吻数的下界。这一成果展示了**非对称结构**在解决复杂数学问题中的潜力。
 
 ---
 
-## <a name="17"></a>17. GitHub 免费提供公共仓库的 Linux ARM64 托管运行器 
+## <a name="16"></a>16. GitHub 免费提供公共仓库的 Linux ARM64 托管运行器 
 <small>🔗 [github.blog](https://github.blog/changelog/2025-01-16-linux-arm64-hosted-runners-now-available-for-free-in-public-repositories-public-preview/): GitHub Linux ARM64 hosted runners now available for free in public repositories</small>
 
 
-| 🔥🔥: 132 \| 💬: [32](https://news.ycombinator.com/item?id=42728015) \| 🗓️ 2025-01-16
+| 🔥🔥: 138 \| 💬: [33](https://news.ycombinator.com/item?id=42728015) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -226,11 +214,23 @@ GitHub 宣布 **Copilot** 用户现在可以询问关于 **Actions 任务失败*
 
 ---
 
+## <a name="17"></a>17. 2015年mRNA论文评论暗示数据在不同情境中被重复使用 
+<small>🔗 [pubpeer.com](https://pubpeer.com/publications/323E84675EB2E849C56097D73D55FD#1): Comment on 2015 mRNA paper suggests data re-used in different contexts</small>
+
+
+| 🔥🔥: 136 \| 💬: [72](https://news.ycombinator.com/item?id=42728165) \| 🗓️ 2025-01-16
+
+
+<br />
+一篇2015年发表在《Nature Communications》的论文，题为“**TRF2-S**：一种新型RNA和FMRP结合蛋白，调节轴突mRNA运输和突触前可塑性”，近期有评论指出其数据可能在不同情境中被**重复使用**。该研究由Peisu Zhang等人发表，涉及**mRNA运输**和突触可塑性机制。
+
+---
+
 ## <a name="18"></a>18. 用LLM进行测试驱动开发：乐趣与收益 
 <small>🔗 [blog.yfzhou.fyi](https://blog.yfzhou.fyi/posts/tdd-llm/): Test-driven development with an LLM for fun and profit</small>
 
 
-| 🔥🔥: 126 \| 💬: [48](https://news.ycombinator.com/item?id=42726584) \| 🗓️ 2025-01-16
+| 🔥🔥: 134 \| 💬: [52](https://news.ycombinator.com/item?id=42726584) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -242,7 +242,7 @@ GitHub 宣布 **Copilot** 用户现在可以询问关于 **Actions 任务失败*
 <small>🔗 [republicbiz.com](https://www.republicbiz.com/companies/suchir-balaji-case-reopened-from-suicide-to-active-investigation): Suchir Balaji Case Reopened: From ‘Suicide' to 'Active Investigation’</small>
 
 
-| 🔥🔥: 123 \| 💬: [28](https://news.ycombinator.com/item?id=42729677) \| 🗓️ 2025-01-16
+| 🔥🔥: 127 \| 💬: [30](https://news.ycombinator.com/item?id=42729677) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -254,7 +254,7 @@ OpenAI前研究员**苏希尔·巴拉吉**的死亡案件从“自杀”转为�
 <small>🔗 [nextplatform.com](https://www.nextplatform.com/2025/01/15/red-hat-woos-vmware-shops-with-openshift-virtualization-engine/): Red Hat Woos VMware Shops with OpenShift Virtualization Engine</small>
 
 
-| 🔥🔥: 104 \| 💬: [56](https://news.ycombinator.com/item?id=42725862) \| 🗓️ 2025-01-16
+| 🔥🔥: 105 \| 💬: [56](https://news.ycombinator.com/item?id=42725862) \| 🗓️ 2025-01-16
 
 
 <br />
