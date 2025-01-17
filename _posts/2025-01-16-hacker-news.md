@@ -12,7 +12,7 @@ tags:
 1. 大卫·林奇去世；
 1. 任天堂宣布Switch 2 [视频]；
 1. 诺基亚在iPhone发布后的内部演示（2007年）；
-1. Nepenthes：用于捕获AI网络爬虫的陷阱；
+1. 我抛弃了算法，选择了RSS；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [keygen.sh](https://keygen.sh/blog/no-calls/): No Calls</small>
 
 
-| 🔥🔥: 932 \| 💬: [315](https://news.ycombinator.com/item?id=42725385) \| 🗓️ 2025-01-16
+| 🔥🔥: 961 \| 💬: [339](https://news.ycombinator.com/item?id=42725385) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -38,7 +38,7 @@ Keygen创始人Zeke Gabrielse分享了他如何通过**无电话政策**成功�
 <small>🔗 [variety.com](https://variety.com/2025/film/news/david-lynch-dead-director-blue-velvet-twin-peaks-1236276106/): David Lynch has died</small>
 
 
-| 🔥🔥: 788 \| 💬: [253](https://news.ycombinator.com/item?id=42728862) \| 🗓️ 2025-01-16
+| 🔥🔥: 832 \| 💬: [271](https://news.ycombinator.com/item?id=42728862) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -50,7 +50,7 @@ Keygen创始人Zeke Gabrielse分享了他如何通过**无电话政策**成功�
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=itpcsQQvgAQ): Nintendo announces the Switch 2 [video]</small>
 
 
-| 🔥🔥: 616 \| 💬: [789](https://news.ycombinator.com/item?id=42724621) \| 🗓️ 2025-01-16
+| 🔥🔥: 632 \| 💬: [835](https://news.ycombinator.com/item?id=42724621) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -62,7 +62,7 @@ Keygen创始人Zeke Gabrielse分享了他如何通过**无电话政策**成功�
 <small>🔗 [nokia-apple-iphone-was-launched-presentation.tiiny.site](https://nokia-apple-iphone-was-launched-presentation.tiiny.site/): Nokia's internal presentation after iPhone was launched (2007) [pdf]</small>
 
 
-| 🔥🔥: 423 \| 💬: [438](https://news.ycombinator.com/item?id=42724761) \| 🗓️ 2025-01-16
+| 🔥🔥: 427 \| 💬: [447](https://news.ycombinator.com/item?id=42724761) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -70,23 +70,11 @@ Keygen创始人Zeke Gabrielse分享了他如何通过**无电话政策**成功�
 
 ---
 
-## <a name="5"></a>5. Nepenthes：用于捕获AI网络爬虫的陷阱 
-<small>🔗 [zadzmo.org](https://zadzmo.org/code/nepenthes/): Nepenthes is a tarpit to catch AI web crawlers</small>
-
-
-| 🔥🔥: 384 \| 💬: [138](https://news.ycombinator.com/item?id=42725147) \| 🗓️ 2025-01-16
-
-
-<br />
-Nepenthes 是一种专门针对为大型语言模型（LLM）抓取数据的网络爬虫设计的陷阱系统。它通过生成**无限循环的页面**和链接，使爬虫陷入其中，同时添加延迟以消耗其资源。可选启用**Markov模块**生成无意义文本，加速模型崩溃。部署需谨慎，可能导致高CPU负载并影响搜索引擎索引。
-
----
-
-## <a name="6"></a>6. 我抛弃了算法，选择了RSS 
+## <a name="5"></a>5. 我抛弃了算法，选择了RSS 
 <small>🔗 [joeyehand.com](https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/): I ditched the algorithm for RSS</small>
 
 
-| 🔥🔥: 375 \| 💬: [167](https://news.ycombinator.com/item?id=42724284) \| 🗓️ 2025-01-16
+| 🔥🔥: 405 \| 💬: [173](https://news.ycombinator.com/item?id=42724284) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -94,11 +82,23 @@ Nepenthes 是一种专门针对为大型语言模型（LLM）抓取数据的网�
 
 ---
 
+## <a name="6"></a>6. Nepenthes：用于捕获AI网络爬虫的陷阱 
+<small>🔗 [zadzmo.org](https://zadzmo.org/code/nepenthes/): Nepenthes is a tarpit to catch AI web crawlers</small>
+
+
+| 🔥🔥: 401 \| 💬: [144](https://news.ycombinator.com/item?id=42725147) \| 🗓️ 2025-01-16
+
+
+<br />
+Nepenthes 是一种专门针对为大型语言模型（LLM）抓取数据的网络爬虫设计的陷阱系统。它通过生成**无限循环的页面**和链接，使爬虫陷入其中，同时添加延迟以消耗其资源。可选启用**Markov模块**生成无意义文本，加速模型崩溃。部署需谨慎，可能导致高CPU负载并影响搜索引擎索引。
+
+---
+
 ## <a name="7"></a>7. 蓝色起源首次成功发射巨型新格伦火箭进入轨道 
 <small>🔗 [arstechnica.com](https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/): Blue Origin reaches orbit on first flight of its titanic New Glenn rocket</small>
 
 
-| 🔥🔥: 345 \| 💬: [247](https://news.ycombinator.com/item?id=42722756) \| 🗓️ 2025-01-16
+| 🔥🔥: 347 \| 💬: [248](https://news.ycombinator.com/item?id=42722756) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -110,7 +110,7 @@ Nepenthes 是一种专门针对为大型语言模型（LLM）抓取数据的网�
 <small>🔗 [ohshitgit.com](https://ohshitgit.com/): Oh Shit, Git?</small>
 
 
-| 🔥🔥: 203 \| 💬: [124](https://news.ycombinator.com/item?id=42728916) \| 🗓️ 2025-01-16
+| 🔥🔥: 226 \| 💬: [143](https://news.ycombinator.com/item?id=42728916) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -122,7 +122,7 @@ Git 操作复杂，容易出错，修复错误更是难上加难。本文分享�
 <small>🔗 [drewdevault.com](https://drewdevault.com/2025/01/16/2025-01-16-No-Billionares-at-FOSDEM-please.html): No Billionares at FOSDEM</small>
 
 
-| 🔥🔥: 195 \| 💬: [145](https://news.ycombinator.com/item?id=42725057) \| 🗓️ 2025-01-16
+| 🔥🔥: 198 \| 💬: [146](https://news.ycombinator.com/item?id=42725057) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -130,7 +130,19 @@ Jack Dorsey，前Twitter CEO，因出售Twitter给Elon Musk并导致用户大规
 
 ---
 
-## <a name="10"></a>10. 任天堂Switch 2 
+## <a name="10"></a>10. 星际飞船飞行7号 
+<small>🔗 [spacex.com](https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit): Starship Flight 7</small>
+
+
+| 🔥🔥: 195 \| 💬: [161](https://news.ycombinator.com/item?id=42731091) \| 🗓️ 2025-01-16
+
+
+<br />
+SpaceX的**Dragon飞船**在执行前往国际空间站的任务时，通过一系列**推进燃烧**逐步接近空间站，最终完成对接、加压、舱门开启和乘员进入。任务包括**轨道激活**、相位燃烧、接近操作和自主对接等关键步骤。
+
+---
+
+## <a name="11"></a>11. 任天堂Switch 2 
 <small>🔗 [nintendo.com](https://www.nintendo.com/successor/en-gb/index.html): Nintendo Switch 2</small>
 
 
@@ -142,7 +154,7 @@ Jack Dorsey，前Twitter CEO，因出售Twitter给Elon Musk并导致用户大规
 
 ---
 
-## <a name="11"></a>11. 大卫·林奇，《双峰》与《穆赫兰道》导演，享年78岁 
+## <a name="12"></a>12. 大卫·林奇，《双峰》与《穆赫兰道》导演，享年78岁 
 <small>🔗 [theguardian.com](https://www.theguardian.com/film/2025/jan/16/david-lynch-twin-peaks-and-muholland-drive-director-dies-aged-78): David Lynch, Twin Peaks and Muholland Drive director, dies aged 78</small>
 
 
@@ -154,11 +166,11 @@ Jack Dorsey，前Twitter CEO，因出售Twitter给Elon Musk并导致用户大规
 
 ---
 
-## <a name="12"></a>12. 2025年六天有效期证书及IP地址支持选项 
+## <a name="13"></a>13. 2025年六天有效期证书及IP地址支持选项 
 <small>🔗 [letsencrypt.org](https://letsencrypt.org/2025/01/16/6-day-and-ip-certs/): Six day and IP address certificate options in 2025</small>
 
 
-| 🔥🔥: 141 \| 💬: [83](https://news.ycombinator.com/item?id=42726678) \| 🗓️ 2025-01-16
+| 🔥🔥: 149 \| 💬: [98](https://news.ycombinator.com/item?id=42726678) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -166,23 +178,11 @@ Jack Dorsey，前Twitter CEO，因出售Twitter给Elon Musk并导致用户大规
 
 ---
 
-## <a name="13"></a>13. 展示你的项目的开源目录 
-<small>🔗 [github.com](https://github.com/KingMenes/awesome-launch): Show HN: I made an open source directory of where to showoff your projects</small>
-
-
-| 🔥🔥: 138 \| 💬: [30](https://news.ycombinator.com/item?id=42724757) \| 🗓️ 2025-01-16
-
-
-<br />
-这是一个**免费且友好的社区目录**，旨在帮助开发者展示他们的**副业项目**。目录涵盖了多个平台，如Reddit、Twitter/X、LinkedIn、Hacker News等，提供了详细的推广渠道和资源。项目采用**MIT许可证**，适合希望获得曝光和反馈的开发者使用。
-
----
-
 ## <a name="14"></a>14. 数学家发现球体“接吻”的新方式 
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/mathematicians-discover-new-way-for-spheres-to-kiss-20250115/): Mathematicians discover new way for spheres to 'kiss'</small>
 
 
-| 🔥🔥: 137 \| 💬: [61](https://news.ycombinator.com/item?id=42723406) \| 🗓️ 2025-01-16
+| 🔥🔥: 139 \| 💬: [62](https://news.ycombinator.com/item?id=42723406) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -190,11 +190,23 @@ Jack Dorsey，前Twitter CEO，因出售Twitter给Elon Musk并导致用户大规
 
 ---
 
-## <a name="15"></a>15. 2015年mRNA论文评论暗示数据在不同情境中被重复使用 
+## <a name="15"></a>15. 展示你的项目的开源目录 
+<small>🔗 [github.com](https://github.com/KingMenes/awesome-launch): Show HN: I made an open source directory of where to showoff your projects</small>
+
+
+| 🔥🔥: 139 \| 💬: [30](https://news.ycombinator.com/item?id=42724757) \| 🗓️ 2025-01-16
+
+
+<br />
+这是一个**免费且友好的社区目录**，旨在帮助开发者展示他们的**副业项目**。目录涵盖了多个平台，如Reddit、Twitter/X、LinkedIn、Hacker News等，提供了详细的推广渠道和资源。项目采用**MIT许可证**，适合希望获得曝光和反馈的开发者使用。
+
+---
+
+## <a name="16"></a>16. 2015年mRNA论文评论暗示数据在不同情境中被重复使用 
 <small>🔗 [pubpeer.com](https://pubpeer.com/publications/323E84675EB2E849C56097D73D55FD#1): Comment on 2015 mRNA paper suggests data re-used in different contexts</small>
 
 
-| 🔥🔥: 131 \| 💬: [71](https://news.ycombinator.com/item?id=42728165) \| 🗓️ 2025-01-16
+| 🔥🔥: 134 \| 💬: [71](https://news.ycombinator.com/item?id=42728165) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -202,11 +214,11 @@ Jack Dorsey，前Twitter CEO，因出售Twitter给Elon Musk并导致用户大规
 
 ---
 
-## <a name="16"></a>16. GitHub 免费提供公共仓库的 Linux ARM64 托管运行器 
+## <a name="17"></a>17. GitHub 免费提供公共仓库的 Linux ARM64 托管运行器 
 <small>🔗 [github.blog](https://github.blog/changelog/2025-01-16-linux-arm64-hosted-runners-now-available-for-free-in-public-repositories-public-preview/): GitHub Linux ARM64 hosted runners now available for free in public repositories</small>
 
 
-| 🔥🔥: 127 \| 💬: [30](https://news.ycombinator.com/item?id=42728015) \| 🗓️ 2025-01-16
+| 🔥🔥: 132 \| 💬: [32](https://news.ycombinator.com/item?id=42728015) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -214,11 +226,11 @@ GitHub 宣布 **Copilot** 用户现在可以询问关于 **Actions 任务失败*
 
 ---
 
-## <a name="17"></a>17. 用LLM进行测试驱动开发：乐趣与收益 
+## <a name="18"></a>18. 用LLM进行测试驱动开发：乐趣与收益 
 <small>🔗 [blog.yfzhou.fyi](https://blog.yfzhou.fyi/posts/tdd-llm/): Test-driven development with an LLM for fun and profit</small>
 
 
-| 🔥🔥: 118 \| 💬: [39](https://news.ycombinator.com/item?id=42726584) \| 🗓️ 2025-01-16
+| 🔥🔥: 126 \| 💬: [48](https://news.ycombinator.com/item?id=42726584) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -226,11 +238,11 @@ GitHub 宣布 **Copilot** 用户现在可以询问关于 **Actions 任务失败*
 
 ---
 
-## <a name="18"></a>18. 苏希尔·巴拉吉案件重启：从“自杀”到“积极调查” 
+## <a name="19"></a>19. 苏希尔·巴拉吉案件重启：从“自杀”到“积极调查” 
 <small>🔗 [republicbiz.com](https://www.republicbiz.com/companies/suchir-balaji-case-reopened-from-suicide-to-active-investigation): Suchir Balaji Case Reopened: From ‘Suicide' to 'Active Investigation’</small>
 
 
-| 🔥🔥: 113 \| 💬: [23](https://news.ycombinator.com/item?id=42729677) \| 🗓️ 2025-01-16
+| 🔥🔥: 123 \| 💬: [28](https://news.ycombinator.com/item?id=42729677) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -238,26 +250,14 @@ OpenAI前研究员**苏希尔·巴拉吉**的死亡案件从“自杀”转为�
 
 ---
 
-## <a name="19"></a>19. 星际飞船飞行7号 
-<small>🔗 [spacex.com](https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit): Starship Flight 7</small>
+## <a name="20"></a>20. 红帽推出OpenShift虚拟化引擎吸引VMware用户 
+<small>🔗 [nextplatform.com](https://www.nextplatform.com/2025/01/15/red-hat-woos-vmware-shops-with-openshift-virtualization-engine/): Red Hat Woos VMware Shops with OpenShift Virtualization Engine</small>
 
 
-| 🔥🔥: 104 \| 💬: [73](https://news.ycombinator.com/item?id=42731091) \| 🗓️ 2025-01-16
-
-
-<br />
-SpaceX的**Dragon飞船**在执行前往国际空间站的任务时，通过一系列**推进燃烧**逐步接近空间站，最终完成对接、加压、舱门开启和乘员进入。任务包括**轨道激活**、相位燃烧、接近操作和自主对接等关键步骤。
-
----
-
-## <a name="20"></a>20. 苹果在欧盟法律下的互操作性努力不足，倡导团体称 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/01/16/apple_dma_compliance_criticized/): Apple interoperability efforts under EU law falls short, advocacy groups argue</small>
-
-
-| 🔥🔥: 102 \| 💬: [143](https://news.ycombinator.com/item?id=42723504) \| 🗓️ 2025-01-16
+| 🔥🔥: 104 \| 💬: [56](https://news.ycombinator.com/item?id=42725862) \| 🗓️ 2025-01-16
 
 
 <br />
-数字权利倡导组织认为，苹果未能遵守欧盟《数字市场法》（DMA）中的互操作性义务。**Free Software Foundation Europe**等团体呼吁欧盟委员会加强监管，确保苹果遵守DMA第6(7)条。他们指出，苹果的合规报告和实践存在缺陷，无法实现有效的互操作性。建议包括禁止苹果单方面强加保密协议、建立标准化的互操作性请求流程，并改进漏洞报告系统。
+Broadcom以610亿美元收购VMware后，**价格大幅上涨**和**强制订阅模式**引发企业用户不满。红帽借此机会推出**OpenShift虚拟化引擎（OVE）**，专为VMware用户提供纯虚拟化解决方案，帮助迁移工作负载。OVE结合Ansible自动化平台和迁移工具，简化大规模虚拟机迁移。此举旨在为VMware用户提供替代方案，应对Broadcom收购后的不确定性。
 
 ---
