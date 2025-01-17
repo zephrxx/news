@@ -12,7 +12,7 @@ tags:
 1. 大卫·林奇去世；
 1. 任天堂宣布Switch 2 [视频]；
 1. 我抛弃了算法，选择了RSS；
-1. 诺基亚在iPhone发布后的内部演示（2007年）；
+1. Nepenthes：用于捕获AI网络爬虫的陷阱；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [keygen.sh](https://keygen.sh/blog/no-calls/): No Calls</small>
 
 
-| 🔥🔥: 1060 \| 💬: [367](https://news.ycombinator.com/item?id=42725385) \| 🗓️ 2025-01-16
+| 🔥🔥: 1086 \| 💬: [383](https://news.ycombinator.com/item?id=42725385) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -38,7 +38,7 @@ Keygen创始人Zeke Gabrielse分享了他如何通过**无电话政策**成功�
 <small>🔗 [variety.com](https://variety.com/2025/film/news/david-lynch-dead-director-blue-velvet-twin-peaks-1236276106/): David Lynch has died</small>
 
 
-| 🔥🔥: 931 \| 💬: [303](https://news.ycombinator.com/item?id=42728862) \| 🗓️ 2025-01-16
+| 🔥🔥: 963 \| 💬: [314](https://news.ycombinator.com/item?id=42728862) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -50,7 +50,7 @@ Keygen创始人Zeke Gabrielse分享了他如何通过**无电话政策**成功�
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=itpcsQQvgAQ): Nintendo announces the Switch 2 [video]</small>
 
 
-| 🔥🔥: 677 \| 💬: [883](https://news.ycombinator.com/item?id=42724621) \| 🗓️ 2025-01-16
+| 🔥🔥: 693 \| 💬: [899](https://news.ycombinator.com/item?id=42724621) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -62,7 +62,7 @@ Keygen创始人Zeke Gabrielse分享了他如何通过**无电话政策**成功�
 <small>🔗 [joeyehand.com](https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/): I ditched the algorithm for RSS</small>
 
 
-| 🔥🔥: 459 \| 💬: [186](https://news.ycombinator.com/item?id=42724284) \| 🗓️ 2025-01-16
+| 🔥🔥: 477 \| 💬: [194](https://news.ycombinator.com/item?id=42724284) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -70,23 +70,11 @@ Keygen创始人Zeke Gabrielse分享了他如何通过**无电话政策**成功�
 
 ---
 
-## <a name="5"></a>5. 诺基亚在iPhone发布后的内部演示（2007年） 
-<small>🔗 [nokia-apple-iphone-was-launched-presentation.tiiny.site](https://nokia-apple-iphone-was-launched-presentation.tiiny.site/): Nokia's internal presentation after iPhone was launched (2007) [pdf]</small>
-
-
-| 🔥🔥: 437 \| 💬: [465](https://news.ycombinator.com/item?id=42724761) \| 🗓️ 2025-01-16
-
-
-<br />
-这份文档是**诺基亚公司**在2007年苹果iPhone发布后进行的内部演示，主要内容是**评估iPhone对诺基亚的影响**。文档属于诺基亚设计档案中的文本和演示部分，语言为英语，时间跨度为2007年全年。文档还提到相关的材料，如“Apple iPhone was launched - RÖ - 2007-01-10.pdf”，并遵循**CC BY-NC-ND 4.0**许可协议。
-
----
-
-## <a name="6"></a>6. Nepenthes：用于捕获AI网络爬虫的陷阱 
+## <a name="5"></a>5. Nepenthes：用于捕获AI网络爬虫的陷阱 
 <small>🔗 [zadzmo.org](https://zadzmo.org/code/nepenthes/): Nepenthes is a tarpit to catch AI web crawlers</small>
 
 
-| 🔥🔥: 437 \| 💬: [154](https://news.ycombinator.com/item?id=42725147) \| 🗓️ 2025-01-16
+| 🔥🔥: 452 \| 💬: [157](https://news.ycombinator.com/item?id=42725147) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -94,23 +82,23 @@ Nepenthes 是一种专门针对为大型语言模型（LLM）抓取数据的网�
 
 ---
 
-## <a name="7"></a>7. 蓝色起源首次成功发射巨型新格伦火箭进入轨道 
-<small>🔗 [arstechnica.com](https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/): Blue Origin reaches orbit on first flight of its titanic New Glenn rocket</small>
+## <a name="6"></a>6. 诺基亚在iPhone发布后的内部演示（2007年） 
+<small>🔗 [nokia-apple-iphone-was-launched-presentation.tiiny.site](https://nokia-apple-iphone-was-launched-presentation.tiiny.site/): Nokia's internal presentation after iPhone was launched (2007) [pdf]</small>
 
 
-| 🔥🔥: 349 \| 💬: [249](https://news.ycombinator.com/item?id=42722756) \| 🗓️ 2025-01-16
+| 🔥🔥: 439 \| 💬: [469](https://news.ycombinator.com/item?id=42724761) \| 🗓️ 2025-01-16
 
 
 <br />
-周四凌晨，**蓝色起源**的**新格伦火箭**首次成功发射，标志着该公司成立近25年来首次进入轨道。火箭搭载的**Blue Ring**有效载荷成功进入轨道，尽管一级助推器未能成功回收。发射过程中因发动机冷却问题和船只闯入禁区而略有延迟，但最终顺利完成。这是蓝色起源及其创始人**杰夫·贝索斯**的重要里程碑。
+这份文档是**诺基亚公司**在2007年苹果iPhone发布后进行的内部演示，主要内容是**评估iPhone对诺基亚的影响**。文档属于诺基亚设计档案中的文本和演示部分，语言为英语，时间跨度为2007年全年。文档还提到相关的材料，如“Apple iPhone was launched - RÖ - 2007-01-10.pdf”，并遵循**CC BY-NC-ND 4.0**许可协议。
 
 ---
 
-## <a name="8"></a>8. 星际飞船飞行7号 
+## <a name="7"></a>7. 星际飞船飞行7号 
 <small>🔗 [spacex.com](https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit): Starship Flight 7</small>
 
 
-| 🔥🔥: 323 \| 💬: [288](https://news.ycombinator.com/item?id=42731091) \| 🗓️ 2025-01-16
+| 🔥🔥: 355 \| 💬: [311](https://news.ycombinator.com/item?id=42731091) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -118,11 +106,23 @@ SpaceX的**Dragon飞船**在执行前往国际空间站的任务时，通过一�
 
 ---
 
+## <a name="8"></a>8. 蓝色起源首次成功发射巨型新格伦火箭进入轨道 
+<small>🔗 [arstechnica.com](https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/): Blue Origin reaches orbit on first flight of its titanic New Glenn rocket</small>
+
+
+| 🔥🔥: 352 \| 💬: [251](https://news.ycombinator.com/item?id=42722756) \| 🗓️ 2025-01-16
+
+
+<br />
+周四凌晨，**蓝色起源**的**新格伦火箭**首次成功发射，标志着该公司成立近25年来首次进入轨道。火箭搭载的**Blue Ring**有效载荷成功进入轨道，尽管一级助推器未能成功回收。发射过程中因发动机冷却问题和船只闯入禁区而略有延迟，但最终顺利完成。这是蓝色起源及其创始人**杰夫·贝索斯**的重要里程碑。
+
+---
+
 ## <a name="9"></a>9. 哦，Git 真难搞！ 
 <small>🔗 [ohshitgit.com](https://ohshitgit.com/): Oh Shit, Git?</small>
 
 
-| 🔥🔥: 284 \| 💬: [174](https://news.ycombinator.com/item?id=42728916) \| 🗓️ 2025-01-16
+| 🔥🔥: 308 \| 💬: [184](https://news.ycombinator.com/item?id=42728916) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -134,7 +134,7 @@ Git 操作复杂，容易出错，修复错误更是难上加难。本文分享�
 <small>🔗 [drewdevault.com](https://drewdevault.com/2025/01/16/2025-01-16-No-Billionares-at-FOSDEM-please.html): No Billionares at FOSDEM</small>
 
 
-| 🔥🔥: 203 \| 💬: [154](https://news.ycombinator.com/item?id=42725057) \| 🗓️ 2025-01-16
+| 🔥🔥: 204 \| 💬: [154](https://news.ycombinator.com/item?id=42725057) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -158,7 +158,7 @@ Jack Dorsey，前Twitter CEO，因出售Twitter给Elon Musk并导致用户大规
 <small>🔗 [letsencrypt.org](https://letsencrypt.org/2025/01/16/6-day-and-ip-certs/): Six day and IP address certificate options in 2025</small>
 
 
-| 🔥🔥: 163 \| 💬: [107](https://news.ycombinator.com/item?id=42726678) \| 🗓️ 2025-01-16
+| 🔥🔥: 166 \| 💬: [115](https://news.ycombinator.com/item?id=42726678) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -182,7 +182,7 @@ Jack Dorsey，前Twitter CEO，因出售Twitter给Elon Musk并导致用户大规
 <small>🔗 [github.com](https://github.com/KingMenes/awesome-launch): Show HN: I made an open source directory of where to showoff your projects</small>
 
 
-| 🔥🔥: 149 \| 💬: [31](https://news.ycombinator.com/item?id=42724757) \| 🗓️ 2025-01-16
+| 🔥🔥: 151 \| 💬: [31](https://news.ycombinator.com/item?id=42724757) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -194,7 +194,7 @@ Jack Dorsey，前Twitter CEO，因出售Twitter给Elon Musk并导致用户大规
 <small>🔗 [blog.yfzhou.fyi](https://blog.yfzhou.fyi/posts/tdd-llm/): Test-driven development with an LLM for fun and profit</small>
 
 
-| 🔥🔥: 146 \| 💬: [55](https://news.ycombinator.com/item?id=42726584) \| 🗓️ 2025-01-16
+| 🔥🔥: 149 \| 💬: [60](https://news.ycombinator.com/item?id=42726584) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -206,7 +206,7 @@ Jack Dorsey，前Twitter CEO，因出售Twitter给Elon Musk并导致用户大规
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/mathematicians-discover-new-way-for-spheres-to-kiss-20250115/): Mathematicians discover new way for spheres to 'kiss'</small>
 
 
-| 🔥🔥: 145 \| 💬: [64](https://news.ycombinator.com/item?id=42723406) \| 🗓️ 2025-01-16
+| 🔥🔥: 146 \| 💬: [67](https://news.ycombinator.com/item?id=42723406) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -218,7 +218,7 @@ Jack Dorsey，前Twitter CEO，因出售Twitter给Elon Musk并导致用户大规
 <small>🔗 [github.blog](https://github.blog/changelog/2025-01-16-linux-arm64-hosted-runners-now-available-for-free-in-public-repositories-public-preview/): GitHub Linux ARM64 hosted runners now available for free in public repositories</small>
 
 
-| 🔥🔥: 142 \| 💬: [34](https://news.ycombinator.com/item?id=42728015) \| 🗓️ 2025-01-16
+| 🔥🔥: 145 \| 💬: [34](https://news.ycombinator.com/item?id=42728015) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -230,7 +230,7 @@ GitHub 宣布 **Copilot** 用户现在可以询问关于 **Actions 任务失败*
 <small>🔗 [pubpeer.com](https://pubpeer.com/publications/323E84675EB2E849C56097D73D55FD#1): Comment on 2015 mRNA paper suggests data re-used in different contexts</small>
 
 
-| 🔥🔥: 139 \| 💬: [73](https://news.ycombinator.com/item?id=42728165) \| 🗓️ 2025-01-16
+| 🔥🔥: 141 \| 💬: [73](https://news.ycombinator.com/item?id=42728165) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -242,7 +242,7 @@ GitHub 宣布 **Copilot** 用户现在可以询问关于 **Actions 任务失败*
 <small>🔗 [republicbiz.com](https://www.republicbiz.com/companies/suchir-balaji-case-reopened-from-suicide-to-active-investigation): Suchir Balaji Case Reopened: From ‘Suicide' to 'Active Investigation’</small>
 
 
-| 🔥🔥: 128 \| 💬: [35](https://news.ycombinator.com/item?id=42729677) \| 🗓️ 2025-01-16
+| 🔥🔥: 129 \| 💬: [36](https://news.ycombinator.com/item?id=42729677) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -250,14 +250,14 @@ OpenAI前研究员**苏希尔·巴拉吉**的死亡案件从“自杀”转为�
 
 ---
 
-## <a name="20"></a>20. 利用风力从空气中制造氨的装置 
-<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/ammonia-fuel-2670794408): Device uses wind to create ammonia out of air</small>
+## <a name="20"></a>20. 交互式学习 Yjs 
+<small>🔗 [learn.yjs.dev](https://learn.yjs.dev/): Learn Yjs Interactively</small>
 
 
-| 🔥🔥: 110 \| 💬: [93](https://news.ycombinator.com/item?id=42725823) \| 🗓️ 2025-01-16
+| 🔥🔥: 119 \| 💬: [12](https://news.ycombinator.com/item?id=42731582) \| 🗓️ 2025-01-16
 
 
 <br />
-斯坦福大学的研究人员开发了一种**无需外部电力**的装置，利用风力从空气中生产**绿色能源燃料氨**。该装置已在多个地点测试，包括校园内。这一技术有望为**气候变化**提供可持续的解决方案。
+欢迎来到**交互式学习 Yjs**，这是一个关于使用 **Yjs CRDT 库** 构建实时协作应用的教程系列。通过**可探索的演示**和代码练习，你将了解 Yjs 的基本概念、分布式应用中的状态管理，以及如何避免协作应用中的常见问题。该网站由 Jamsocket 开发，使用 Astro 构建，演示部分基于 React 和 Yjs。
 
 ---
