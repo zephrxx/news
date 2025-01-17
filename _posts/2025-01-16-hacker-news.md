@@ -26,7 +26,7 @@ tags:
 <small>🔗 [keygen.sh](https://keygen.sh/blog/no-calls/): No Calls</small>
 
 
-| 🔥🔥: 1029 \| 💬: [354](https://news.ycombinator.com/item?id=42725385) \| 🗓️ 2025-01-16
+| 🔥🔥: 1060 \| 💬: [367](https://news.ycombinator.com/item?id=42725385) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -38,7 +38,7 @@ Keygen创始人Zeke Gabrielse分享了他如何通过**无电话政策**成功�
 <small>🔗 [variety.com](https://variety.com/2025/film/news/david-lynch-dead-director-blue-velvet-twin-peaks-1236276106/): David Lynch has died</small>
 
 
-| 🔥🔥: 895 \| 💬: [293](https://news.ycombinator.com/item?id=42728862) \| 🗓️ 2025-01-16
+| 🔥🔥: 931 \| 💬: [303](https://news.ycombinator.com/item?id=42728862) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -50,7 +50,7 @@ Keygen创始人Zeke Gabrielse分享了他如何通过**无电话政策**成功�
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=itpcsQQvgAQ): Nintendo announces the Switch 2 [video]</small>
 
 
-| 🔥🔥: 665 \| 💬: [873](https://news.ycombinator.com/item?id=42724621) \| 🗓️ 2025-01-16
+| 🔥🔥: 677 \| 💬: [883](https://news.ycombinator.com/item?id=42724621) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -62,7 +62,7 @@ Keygen创始人Zeke Gabrielse分享了他如何通过**无电话政策**成功�
 <small>🔗 [joeyehand.com](https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/): I ditched the algorithm for RSS</small>
 
 
-| 🔥🔥: 440 \| 💬: [183](https://news.ycombinator.com/item?id=42724284) \| 🗓️ 2025-01-16
+| 🔥🔥: 459 \| 💬: [186](https://news.ycombinator.com/item?id=42724284) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -74,7 +74,7 @@ Keygen创始人Zeke Gabrielse分享了他如何通过**无电话政策**成功�
 <small>🔗 [nokia-apple-iphone-was-launched-presentation.tiiny.site](https://nokia-apple-iphone-was-launched-presentation.tiiny.site/): Nokia's internal presentation after iPhone was launched (2007) [pdf]</small>
 
 
-| 🔥🔥: 431 \| 💬: [454](https://news.ycombinator.com/item?id=42724761) \| 🗓️ 2025-01-16
+| 🔥🔥: 437 \| 💬: [465](https://news.ycombinator.com/item?id=42724761) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -86,7 +86,7 @@ Keygen创始人Zeke Gabrielse分享了他如何通过**无电话政策**成功�
 <small>🔗 [zadzmo.org](https://zadzmo.org/code/nepenthes/): Nepenthes is a tarpit to catch AI web crawlers</small>
 
 
-| 🔥🔥: 427 \| 💬: [152](https://news.ycombinator.com/item?id=42725147) \| 🗓️ 2025-01-16
+| 🔥🔥: 437 \| 💬: [154](https://news.ycombinator.com/item?id=42725147) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -98,7 +98,7 @@ Nepenthes 是一种专门针对为大型语言模型（LLM）抓取数据的网�
 <small>🔗 [arstechnica.com](https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/): Blue Origin reaches orbit on first flight of its titanic New Glenn rocket</small>
 
 
-| 🔥🔥: 348 \| 💬: [248](https://news.ycombinator.com/item?id=42722756) \| 🗓️ 2025-01-16
+| 🔥🔥: 349 \| 💬: [249](https://news.ycombinator.com/item?id=42722756) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -110,7 +110,7 @@ Nepenthes 是一种专门针对为大型语言模型（LLM）抓取数据的网�
 <small>🔗 [spacex.com](https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit): Starship Flight 7</small>
 
 
-| 🔥🔥: 284 \| 💬: [255](https://news.ycombinator.com/item?id=42731091) \| 🗓️ 2025-01-16
+| 🔥🔥: 323 \| 💬: [288](https://news.ycombinator.com/item?id=42731091) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -122,7 +122,7 @@ SpaceX的**Dragon飞船**在执行前往国际空间站的任务时，通过一�
 <small>🔗 [ohshitgit.com](https://ohshitgit.com/): Oh Shit, Git?</small>
 
 
-| 🔥🔥: 265 \| 💬: [164](https://news.ycombinator.com/item?id=42728916) \| 🗓️ 2025-01-16
+| 🔥🔥: 284 \| 💬: [174](https://news.ycombinator.com/item?id=42728916) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -134,7 +134,7 @@ Git 操作复杂，容易出错，修复错误更是难上加难。本文分享�
 <small>🔗 [drewdevault.com](https://drewdevault.com/2025/01/16/2025-01-16-No-Billionares-at-FOSDEM-please.html): No Billionares at FOSDEM</small>
 
 
-| 🔥🔥: 202 \| 💬: [152](https://news.ycombinator.com/item?id=42725057) \| 🗓️ 2025-01-16
+| 🔥🔥: 203 \| 💬: [154](https://news.ycombinator.com/item?id=42725057) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -158,7 +158,7 @@ Jack Dorsey，前Twitter CEO，因出售Twitter给Elon Musk并导致用户大规
 <small>🔗 [letsencrypt.org](https://letsencrypt.org/2025/01/16/6-day-and-ip-certs/): Six day and IP address certificate options in 2025</small>
 
 
-| 🔥🔥: 158 \| 💬: [107](https://news.ycombinator.com/item?id=42726678) \| 🗓️ 2025-01-16
+| 🔥🔥: 163 \| 💬: [107](https://news.ycombinator.com/item?id=42726678) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -182,7 +182,7 @@ Jack Dorsey，前Twitter CEO，因出售Twitter给Elon Musk并导致用户大规
 <small>🔗 [github.com](https://github.com/KingMenes/awesome-launch): Show HN: I made an open source directory of where to showoff your projects</small>
 
 
-| 🔥🔥: 145 \| 💬: [30](https://news.ycombinator.com/item?id=42724757) \| 🗓️ 2025-01-16
+| 🔥🔥: 149 \| 💬: [31](https://news.ycombinator.com/item?id=42724757) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -190,23 +190,11 @@ Jack Dorsey，前Twitter CEO，因出售Twitter给Elon Musk并导致用户大规
 
 ---
 
-## <a name="15"></a>15. 数学家发现球体“接吻”的新方式 
-<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/mathematicians-discover-new-way-for-spheres-to-kiss-20250115/): Mathematicians discover new way for spheres to 'kiss'</small>
-
-
-| 🔥🔥: 144 \| 💬: [63](https://news.ycombinator.com/item?id=42723406) \| 🗓️ 2025-01-16
-
-
-<br />
-数学家们在**球体接吻问题**上取得了新突破，特别是在17到21维空间中。通过打破传统的对称性方法，研究人员利用**误差校正码**构建了更不规则的球体排列，从而提高了接吻数的下界。这一成果展示了**非对称结构**在解决复杂数学问题中的潜力。
-
----
-
-## <a name="16"></a>16. 用LLM进行测试驱动开发：乐趣与收益 
+## <a name="15"></a>15. 用LLM进行测试驱动开发：乐趣与收益 
 <small>🔗 [blog.yfzhou.fyi](https://blog.yfzhou.fyi/posts/tdd-llm/): Test-driven development with an LLM for fun and profit</small>
 
 
-| 🔥🔥: 141 \| 💬: [53](https://news.ycombinator.com/item?id=42726584) \| 🗓️ 2025-01-16
+| 🔥🔥: 146 \| 💬: [55](https://news.ycombinator.com/item?id=42726584) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -214,11 +202,23 @@ Jack Dorsey，前Twitter CEO，因出售Twitter给Elon Musk并导致用户大规
 
 ---
 
+## <a name="16"></a>16. 数学家发现球体“接吻”的新方式 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/mathematicians-discover-new-way-for-spheres-to-kiss-20250115/): Mathematicians discover new way for spheres to 'kiss'</small>
+
+
+| 🔥🔥: 145 \| 💬: [64](https://news.ycombinator.com/item?id=42723406) \| 🗓️ 2025-01-16
+
+
+<br />
+数学家们在**球体接吻问题**上取得了新突破，特别是在17到21维空间中。通过打破传统的对称性方法，研究人员利用**误差校正码**构建了更不规则的球体排列，从而提高了接吻数的下界。这一成果展示了**非对称结构**在解决复杂数学问题中的潜力。
+
+---
+
 ## <a name="17"></a>17. GitHub 免费提供公共仓库的 Linux ARM64 托管运行器 
 <small>🔗 [github.blog](https://github.blog/changelog/2025-01-16-linux-arm64-hosted-runners-now-available-for-free-in-public-repositories-public-preview/): GitHub Linux ARM64 hosted runners now available for free in public repositories</small>
 
 
-| 🔥🔥: 140 \| 💬: [33](https://news.ycombinator.com/item?id=42728015) \| 🗓️ 2025-01-16
+| 🔥🔥: 142 \| 💬: [34](https://news.ycombinator.com/item?id=42728015) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -230,7 +230,7 @@ GitHub 宣布 **Copilot** 用户现在可以询问关于 **Actions 任务失败*
 <small>🔗 [pubpeer.com](https://pubpeer.com/publications/323E84675EB2E849C56097D73D55FD#1): Comment on 2015 mRNA paper suggests data re-used in different contexts</small>
 
 
-| 🔥🔥: 137 \| 💬: [73](https://news.ycombinator.com/item?id=42728165) \| 🗓️ 2025-01-16
+| 🔥🔥: 139 \| 💬: [73](https://news.ycombinator.com/item?id=42728165) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -242,7 +242,7 @@ GitHub 宣布 **Copilot** 用户现在可以询问关于 **Actions 任务失败*
 <small>🔗 [republicbiz.com](https://www.republicbiz.com/companies/suchir-balaji-case-reopened-from-suicide-to-active-investigation): Suchir Balaji Case Reopened: From ‘Suicide' to 'Active Investigation’</small>
 
 
-| 🔥🔥: 127 \| 💬: [32](https://news.ycombinator.com/item?id=42729677) \| 🗓️ 2025-01-16
+| 🔥🔥: 128 \| 💬: [35](https://news.ycombinator.com/item?id=42729677) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -250,14 +250,14 @@ OpenAI前研究员**苏希尔·巴拉吉**的死亡案件从“自杀”转为�
 
 ---
 
-## <a name="20"></a>20. 红帽推出OpenShift虚拟化引擎吸引VMware用户 
-<small>🔗 [nextplatform.com](https://www.nextplatform.com/2025/01/15/red-hat-woos-vmware-shops-with-openshift-virtualization-engine/): Red Hat Woos VMware Shops with OpenShift Virtualization Engine</small>
+## <a name="20"></a>20. 利用风力从空气中制造氨的装置 
+<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/ammonia-fuel-2670794408): Device uses wind to create ammonia out of air</small>
 
 
-| 🔥🔥: 106 \| 💬: [59](https://news.ycombinator.com/item?id=42725862) \| 🗓️ 2025-01-16
+| 🔥🔥: 110 \| 💬: [93](https://news.ycombinator.com/item?id=42725823) \| 🗓️ 2025-01-16
 
 
 <br />
-Broadcom以610亿美元收购VMware后，**价格大幅上涨**和**强制订阅模式**引发企业用户不满。红帽借此机会推出**OpenShift虚拟化引擎（OVE）**，专为VMware用户提供纯虚拟化解决方案，帮助迁移工作负载。OVE结合Ansible自动化平台和迁移工具，简化大规模虚拟机迁移。此举旨在为VMware用户提供替代方案，应对Broadcom收购后的不确定性。
+斯坦福大学的研究人员开发了一种**无需外部电力**的装置，利用风力从空气中生产**绿色能源燃料氨**。该装置已在多个地点测试，包括校园内。这一技术有望为**气候变化**提供可持续的解决方案。
 
 ---
