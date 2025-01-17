@@ -26,7 +26,7 @@ tags:
 <small>🔗 [keygen.sh](https://keygen.sh/blog/no-calls/): No Calls</small>
 
 
-| 🔥🔥: 1106 \| 💬: [392](https://news.ycombinator.com/item?id=42725385) \| 🗓️ 2025-01-16
+| 🔥🔥: 1120 \| 💬: [393](https://news.ycombinator.com/item?id=42725385) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -38,7 +38,7 @@ Keygen创始人Zeke Gabrielse分享了他如何通过**无电话政策**成功�
 <small>🔗 [variety.com](https://variety.com/2025/film/news/david-lynch-dead-director-blue-velvet-twin-peaks-1236276106/): David Lynch has died</small>
 
 
-| 🔥🔥: 983 \| 💬: [319](https://news.ycombinator.com/item?id=42728862) \| 🗓️ 2025-01-16
+| 🔥🔥: 1009 \| 💬: [323](https://news.ycombinator.com/item?id=42728862) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -50,7 +50,7 @@ Keygen创始人Zeke Gabrielse分享了他如何通过**无电话政策**成功�
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=itpcsQQvgAQ): Nintendo announces the Switch 2 [video]</small>
 
 
-| 🔥🔥: 696 \| 💬: [903](https://news.ycombinator.com/item?id=42724621) \| 🗓️ 2025-01-16
+| 🔥🔥: 700 \| 💬: [908](https://news.ycombinator.com/item?id=42724621) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -62,7 +62,7 @@ Keygen创始人Zeke Gabrielse分享了他如何通过**无电话政策**成功�
 <small>🔗 [joeyehand.com](https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/): I ditched the algorithm for RSS</small>
 
 
-| 🔥🔥: 487 \| 💬: [199](https://news.ycombinator.com/item?id=42724284) \| 🗓️ 2025-01-16
+| 🔥🔥: 496 \| 💬: [201](https://news.ycombinator.com/item?id=42724284) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -74,7 +74,7 @@ Keygen创始人Zeke Gabrielse分享了他如何通过**无电话政策**成功�
 <small>🔗 [zadzmo.org](https://zadzmo.org/code/nepenthes/): Nepenthes is a tarpit to catch AI web crawlers</small>
 
 
-| 🔥🔥: 463 \| 💬: [158](https://news.ycombinator.com/item?id=42725147) \| 🗓️ 2025-01-16
+| 🔥🔥: 470 \| 💬: [159](https://news.ycombinator.com/item?id=42725147) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -86,7 +86,7 @@ Nepenthes 是一种专门针对为大型语言模型（LLM）抓取数据的网�
 <small>🔗 [nokia-apple-iphone-was-launched-presentation.tiiny.site](https://nokia-apple-iphone-was-launched-presentation.tiiny.site/): Nokia's internal presentation after iPhone was launched (2007) [pdf]</small>
 
 
-| 🔥🔥: 443 \| 💬: [471](https://news.ycombinator.com/item?id=42724761) \| 🗓️ 2025-01-16
+| 🔥🔥: 448 \| 💬: [472](https://news.ycombinator.com/item?id=42724761) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -98,7 +98,7 @@ Nepenthes 是一种专门针对为大型语言模型（LLM）抓取数据的网�
 <small>🔗 [spacex.com](https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit): Starship Flight 7</small>
 
 
-| 🔥🔥: 377 \| 💬: [323](https://news.ycombinator.com/item?id=42731091) \| 🗓️ 2025-01-16
+| 🔥🔥: 414 \| 💬: [339](https://news.ycombinator.com/item?id=42731091) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -110,7 +110,7 @@ SpaceX的**Dragon飞船**在执行前往国际空间站的任务时，通过一�
 <small>🔗 [arstechnica.com](https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/): Blue Origin reaches orbit on first flight of its titanic New Glenn rocket</small>
 
 
-| 🔥🔥: 355 \| 💬: [254](https://news.ycombinator.com/item?id=42722756) \| 🗓️ 2025-01-16
+| 🔥🔥: 358 \| 💬: [254](https://news.ycombinator.com/item?id=42722756) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -122,7 +122,7 @@ SpaceX的**Dragon飞船**在执行前往国际空间站的任务时，通过一�
 <small>🔗 [ohshitgit.com](https://ohshitgit.com/): Oh Shit, Git?</small>
 
 
-| 🔥🔥: 319 \| 💬: [187](https://news.ycombinator.com/item?id=42728916) \| 🗓️ 2025-01-16
+| 🔥🔥: 339 \| 💬: [195](https://news.ycombinator.com/item?id=42728916) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -134,7 +134,7 @@ Git 操作复杂，容易出错，修复错误更是难上加难。本文分享�
 <small>🔗 [drewdevault.com](https://drewdevault.com/2025/01/16/2025-01-16-No-Billionares-at-FOSDEM-please.html): No Billionares at FOSDEM</small>
 
 
-| 🔥🔥: 206 \| 💬: [156](https://news.ycombinator.com/item?id=42725057) \| 🗓️ 2025-01-16
+| 🔥🔥: 207 \| 💬: [156](https://news.ycombinator.com/item?id=42725057) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -158,7 +158,7 @@ Jack Dorsey，前Twitter CEO，因出售Twitter给Elon Musk并导致用户大规
 <small>🔗 [letsencrypt.org](https://letsencrypt.org/2025/01/16/6-day-and-ip-certs/): Six day and IP address certificate options in 2025</small>
 
 
-| 🔥🔥: 166 \| 💬: [116](https://news.ycombinator.com/item?id=42726678) \| 🗓️ 2025-01-16
+| 🔥🔥: 168 \| 💬: [118](https://news.ycombinator.com/item?id=42726678) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -166,7 +166,43 @@ Jack Dorsey，前Twitter CEO，因出售Twitter给Elon Musk并导致用户大规
 
 ---
 
-## <a name="13"></a>13. 大卫·林奇，《双峰》与《穆赫兰道》导演，享年78岁 
+## <a name="13"></a>13. 展示你的项目的开源目录 
+<small>🔗 [github.com](https://github.com/KingMenes/awesome-launch): Show HN: I made an open source directory of where to showoff your projects</small>
+
+
+| 🔥🔥: 157 \| 💬: [33](https://news.ycombinator.com/item?id=42724757) \| 🗓️ 2025-01-16
+
+
+<br />
+这是一个**免费且友好的社区目录**，旨在帮助开发者展示他们的**副业项目**。目录涵盖了多个平台，如Reddit、Twitter/X、LinkedIn、Hacker News等，提供了详细的推广渠道和资源。项目采用**MIT许可证**，适合希望获得曝光和反馈的开发者使用。
+
+---
+
+## <a name="14"></a>14. 用LLM进行测试驱动开发：乐趣与收益 
+<small>🔗 [blog.yfzhou.fyi](https://blog.yfzhou.fyi/posts/tdd-llm/): Test-driven development with an LLM for fun and profit</small>
+
+
+| 🔥🔥: 155 \| 💬: [60](https://news.ycombinator.com/item?id=42726584) \| 🗓️ 2025-01-16
+
+
+<br />
+本文探讨了如何将**测试驱动开发（TDD）**与**大型语言模型（LLM）**结合，提升代码质量和开发效率。作者通过自动化工具，利用LLM生成单元测试和代码实现，并通过迭代优化确保代码正确性。这种方法不仅减少了开发中的认知负担，还鼓励模块化和低耦合的代码结构，适用于实际项目。
+
+---
+
+## <a name="15"></a>15. GitHub 免费提供公共仓库的 Linux ARM64 托管运行器 
+<small>🔗 [github.blog](https://github.blog/changelog/2025-01-16-linux-arm64-hosted-runners-now-available-for-free-in-public-repositories-public-preview/): GitHub Linux ARM64 hosted runners now available for free in public repositories</small>
+
+
+| 🔥🔥: 155 \| 💬: [37](https://news.ycombinator.com/item?id=42728015) \| 🗓️ 2025-01-16
+
+
+<br />
+GitHub 宣布 **Copilot** 用户现在可以询问关于 **Actions 任务失败** 的原因，并获取解决方案。用户可以在 PR 合并框或任务页面点击“**Explain Error**”按钮，与 Copilot 对话分析失败原因。该功能适用于所有 Copilot 订阅层级，但会消耗一次聊天消息。
+
+---
+
+## <a name="16"></a>16. 大卫·林奇，《双峰》与《穆赫兰道》导演，享年78岁 
 <small>🔗 [theguardian.com](https://www.theguardian.com/film/2025/jan/16/david-lynch-twin-peaks-and-muholland-drive-director-dies-aged-78): David Lynch, Twin Peaks and Muholland Drive director, dies aged 78</small>
 
 
@@ -178,35 +214,11 @@ Jack Dorsey，前Twitter CEO，因出售Twitter给Elon Musk并导致用户大规
 
 ---
 
-## <a name="14"></a>14. 展示你的项目的开源目录 
-<small>🔗 [github.com](https://github.com/KingMenes/awesome-launch): Show HN: I made an open source directory of where to showoff your projects</small>
-
-
-| 🔥🔥: 154 \| 💬: [33](https://news.ycombinator.com/item?id=42724757) \| 🗓️ 2025-01-16
-
-
-<br />
-这是一个**免费且友好的社区目录**，旨在帮助开发者展示他们的**副业项目**。目录涵盖了多个平台，如Reddit、Twitter/X、LinkedIn、Hacker News等，提供了详细的推广渠道和资源。项目采用**MIT许可证**，适合希望获得曝光和反馈的开发者使用。
-
----
-
-## <a name="15"></a>15. 用LLM进行测试驱动开发：乐趣与收益 
-<small>🔗 [blog.yfzhou.fyi](https://blog.yfzhou.fyi/posts/tdd-llm/): Test-driven development with an LLM for fun and profit</small>
-
-
-| 🔥🔥: 150 \| 💬: [60](https://news.ycombinator.com/item?id=42726584) \| 🗓️ 2025-01-16
-
-
-<br />
-本文探讨了如何将**测试驱动开发（TDD）**与**大型语言模型（LLM）**结合，提升代码质量和开发效率。作者通过自动化工具，利用LLM生成单元测试和代码实现，并通过迭代优化确保代码正确性。这种方法不仅减少了开发中的认知负担，还鼓励模块化和低耦合的代码结构，适用于实际项目。
-
----
-
-## <a name="16"></a>16. 数学家发现球体“接吻”的新方式 
+## <a name="17"></a>17. 数学家发现球体“接吻”的新方式 
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/mathematicians-discover-new-way-for-spheres-to-kiss-20250115/): Mathematicians discover new way for spheres to 'kiss'</small>
 
 
-| 🔥🔥: 149 \| 💬: [67](https://news.ycombinator.com/item?id=42723406) \| 🗓️ 2025-01-16
+| 🔥🔥: 150 \| 💬: [67](https://news.ycombinator.com/item?id=42723406) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -214,23 +226,11 @@ Jack Dorsey，前Twitter CEO，因出售Twitter给Elon Musk并导致用户大规
 
 ---
 
-## <a name="17"></a>17. GitHub 免费提供公共仓库的 Linux ARM64 托管运行器 
-<small>🔗 [github.blog](https://github.blog/changelog/2025-01-16-linux-arm64-hosted-runners-now-available-for-free-in-public-repositories-public-preview/): GitHub Linux ARM64 hosted runners now available for free in public repositories</small>
-
-
-| 🔥🔥: 147 \| 💬: [34](https://news.ycombinator.com/item?id=42728015) \| 🗓️ 2025-01-16
-
-
-<br />
-GitHub 宣布 **Copilot** 用户现在可以询问关于 **Actions 任务失败** 的原因，并获取解决方案。用户可以在 PR 合并框或任务页面点击“**Explain Error**”按钮，与 Copilot 对话分析失败原因。该功能适用于所有 Copilot 订阅层级，但会消耗一次聊天消息。
-
----
-
 ## <a name="18"></a>18. 2015年mRNA论文评论暗示数据在不同情境中被重复使用 
 <small>🔗 [pubpeer.com](https://pubpeer.com/publications/323E84675EB2E849C56097D73D55FD#1): Comment on 2015 mRNA paper suggests data re-used in different contexts</small>
 
 
-| 🔥🔥: 143 \| 💬: [74](https://news.ycombinator.com/item?id=42728165) \| 🗓️ 2025-01-16
+| 🔥🔥: 145 \| 💬: [74](https://news.ycombinator.com/item?id=42728165) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -242,7 +242,7 @@ GitHub 宣布 **Copilot** 用户现在可以询问关于 **Actions 任务失败*
 <small>🔗 [learn.yjs.dev](https://learn.yjs.dev/): Learn Yjs Interactively</small>
 
 
-| 🔥🔥: 131 \| 💬: [13](https://news.ycombinator.com/item?id=42731582) \| 🗓️ 2025-01-16
+| 🔥🔥: 144 \| 💬: [16](https://news.ycombinator.com/item?id=42731582) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -250,14 +250,14 @@ GitHub 宣布 **Copilot** 用户现在可以询问关于 **Actions 任务失败*
 
 ---
 
-## <a name="20"></a>20. 苏希尔·巴拉吉案件重启：从“自杀”到“积极调查” 
-<small>🔗 [republicbiz.com](https://www.republicbiz.com/companies/suchir-balaji-case-reopened-from-suicide-to-active-investigation): Suchir Balaji Case Reopened: From ‘Suicide' to 'Active Investigation’</small>
+## <a name="20"></a>20. 2025年值得期待的事情 
+<small>🔗 [lwn.net](https://lwn.net/Articles/1003780/): Some things to expect in 2025</small>
 
 
-| 🔥🔥: 129 \| 💬: [36](https://news.ycombinator.com/item?id=42729677) \| 🗓️ 2025-01-16
+| 🔥🔥: 144 \| 💬: [70](https://news.ycombinator.com/item?id=42731962) \| 🗓️ 2025-01-16
 
 
 <br />
-OpenAI前研究员**苏希尔·巴拉吉**的死亡案件从“自杀”转为“积极调查”。家属质疑自杀结论，指出现场有打斗痕迹，第二次尸检显示枪伤与自杀不符。案件引发对**科技行业举报人安全**及**AI伦理**的广泛讨论。
+2025年，**sched-ext**将成为游戏规则的改变者，允许用户空间加载CPU调度程序，激发更多创新。**Rust代码**将在内核中加速应用，尽管用户可能不会注意到。此外，**单维护者项目**将因安全风险而受到更多关注，而**AI生成代码**的滥用可能导致大规模代码回滚。
 
 ---
