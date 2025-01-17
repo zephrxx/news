@@ -26,7 +26,7 @@ tags:
 <small>🔗 [keygen.sh](https://keygen.sh/blog/no-calls/): No Calls</small>
 
 
-| 🔥🔥: 1120 \| 💬: [393](https://news.ycombinator.com/item?id=42725385) \| 🗓️ 2025-01-16
+| 🔥🔥: 1142 \| 💬: [396](https://news.ycombinator.com/item?id=42725385) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -38,7 +38,7 @@ Keygen创始人Zeke Gabrielse分享了他如何通过**无电话政策**成功�
 <small>🔗 [variety.com](https://variety.com/2025/film/news/david-lynch-dead-director-blue-velvet-twin-peaks-1236276106/): David Lynch has died</small>
 
 
-| 🔥🔥: 1009 \| 💬: [323](https://news.ycombinator.com/item?id=42728862) \| 🗓️ 2025-01-16
+| 🔥🔥: 1038 \| 💬: [336](https://news.ycombinator.com/item?id=42728862) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -50,7 +50,7 @@ Keygen创始人Zeke Gabrielse分享了他如何通过**无电话政策**成功�
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=itpcsQQvgAQ): Nintendo announces the Switch 2 [video]</small>
 
 
-| 🔥🔥: 700 \| 💬: [908](https://news.ycombinator.com/item?id=42724621) \| 🗓️ 2025-01-16
+| 🔥🔥: 705 \| 💬: [914](https://news.ycombinator.com/item?id=42724621) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -62,7 +62,7 @@ Keygen创始人Zeke Gabrielse分享了他如何通过**无电话政策**成功�
 <small>🔗 [joeyehand.com](https://joeyehand.com/blog/2025/01/15/i-ditched-the-algorithm-for-rssand-you-should-too/): I ditched the algorithm for RSS</small>
 
 
-| 🔥🔥: 496 \| 💬: [201](https://news.ycombinator.com/item?id=42724284) \| 🗓️ 2025-01-16
+| 🔥🔥: 521 \| 💬: [208](https://news.ycombinator.com/item?id=42724284) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -74,7 +74,7 @@ Keygen创始人Zeke Gabrielse分享了他如何通过**无电话政策**成功�
 <small>🔗 [zadzmo.org](https://zadzmo.org/code/nepenthes/): Nepenthes is a tarpit to catch AI web crawlers</small>
 
 
-| 🔥🔥: 470 \| 💬: [159](https://news.ycombinator.com/item?id=42725147) \| 🗓️ 2025-01-16
+| 🔥🔥: 484 \| 💬: [165](https://news.ycombinator.com/item?id=42725147) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -86,7 +86,7 @@ Nepenthes 是一种专门针对为大型语言模型（LLM）抓取数据的网�
 <small>🔗 [nokia-apple-iphone-was-launched-presentation.tiiny.site](https://nokia-apple-iphone-was-launched-presentation.tiiny.site/): Nokia's internal presentation after iPhone was launched (2007) [pdf]</small>
 
 
-| 🔥🔥: 448 \| 💬: [472](https://news.ycombinator.com/item?id=42724761) \| 🗓️ 2025-01-16
+| 🔥🔥: 453 \| 💬: [474](https://news.ycombinator.com/item?id=42724761) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -98,7 +98,7 @@ Nepenthes 是一种专门针对为大型语言模型（LLM）抓取数据的网�
 <small>🔗 [spacex.com](https://www.spacex.com/launches/mission/?missionId=starship-flight-7?submit): Starship Flight 7</small>
 
 
-| 🔥🔥: 414 \| 💬: [339](https://news.ycombinator.com/item?id=42731091) \| 🗓️ 2025-01-16
+| 🔥🔥: 442 \| 💬: [348](https://news.ycombinator.com/item?id=42731091) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -110,7 +110,7 @@ SpaceX的**Dragon飞船**在执行前往国际空间站的任务时，通过一�
 <small>🔗 [arstechnica.com](https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/): Blue Origin reaches orbit on first flight of its titanic New Glenn rocket</small>
 
 
-| 🔥🔥: 358 \| 💬: [254](https://news.ycombinator.com/item?id=42722756) \| 🗓️ 2025-01-16
+| 🔥🔥: 360 \| 💬: [254](https://news.ycombinator.com/item?id=42722756) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -122,7 +122,7 @@ SpaceX的**Dragon飞船**在执行前往国际空间站的任务时，通过一�
 <small>🔗 [ohshitgit.com](https://ohshitgit.com/): Oh Shit, Git?</small>
 
 
-| 🔥🔥: 339 \| 💬: [195](https://news.ycombinator.com/item?id=42728916) \| 🗓️ 2025-01-16
+| 🔥🔥: 346 \| 💬: [199](https://news.ycombinator.com/item?id=42728916) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -134,7 +134,7 @@ Git 操作复杂，容易出错，修复错误更是难上加难。本文分享�
 <small>🔗 [drewdevault.com](https://drewdevault.com/2025/01/16/2025-01-16-No-Billionares-at-FOSDEM-please.html): No Billionares at FOSDEM</small>
 
 
-| 🔥🔥: 207 \| 💬: [156](https://news.ycombinator.com/item?id=42725057) \| 🗓️ 2025-01-16
+| 🔥🔥: 208 \| 💬: [156](https://news.ycombinator.com/item?id=42725057) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -158,7 +158,7 @@ Jack Dorsey，前Twitter CEO，因出售Twitter给Elon Musk并导致用户大规
 <small>🔗 [letsencrypt.org](https://letsencrypt.org/2025/01/16/6-day-and-ip-certs/): Six day and IP address certificate options in 2025</small>
 
 
-| 🔥🔥: 168 \| 💬: [118](https://news.ycombinator.com/item?id=42726678) \| 🗓️ 2025-01-16
+| 🔥🔥: 169 \| 💬: [119](https://news.ycombinator.com/item?id=42726678) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -166,15 +166,15 @@ Jack Dorsey，前Twitter CEO，因出售Twitter给Elon Musk并导致用户大规
 
 ---
 
-## <a name="13"></a>13. 展示你的项目的开源目录 
-<small>🔗 [github.com](https://github.com/KingMenes/awesome-launch): Show HN: I made an open source directory of where to showoff your projects</small>
+## <a name="13"></a>13. 2025年值得期待的事情 
+<small>🔗 [lwn.net](https://lwn.net/Articles/1003780/): Some things to expect in 2025</small>
 
 
-| 🔥🔥: 157 \| 💬: [33](https://news.ycombinator.com/item?id=42724757) \| 🗓️ 2025-01-16
+| 🔥🔥: 163 \| 💬: [92](https://news.ycombinator.com/item?id=42731962) \| 🗓️ 2025-01-16
 
 
 <br />
-这是一个**免费且友好的社区目录**，旨在帮助开发者展示他们的**副业项目**。目录涵盖了多个平台，如Reddit、Twitter/X、LinkedIn、Hacker News等，提供了详细的推广渠道和资源。项目采用**MIT许可证**，适合希望获得曝光和反馈的开发者使用。
+2025年，**sched-ext**将成为游戏规则的改变者，允许用户空间加载CPU调度程序，激发更多创新。**Rust代码**将在内核中加速应用，尽管用户可能不会注意到。此外，**单维护者项目**将因安全风险而受到更多关注，而**AI生成代码**的滥用可能导致大规模代码回滚。
 
 ---
 
@@ -182,7 +182,7 @@ Jack Dorsey，前Twitter CEO，因出售Twitter给Elon Musk并导致用户大规
 <small>🔗 [blog.yfzhou.fyi](https://blog.yfzhou.fyi/posts/tdd-llm/): Test-driven development with an LLM for fun and profit</small>
 
 
-| 🔥🔥: 155 \| 💬: [60](https://news.ycombinator.com/item?id=42726584) \| 🗓️ 2025-01-16
+| 🔥🔥: 162 \| 💬: [60](https://news.ycombinator.com/item?id=42726584) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -190,11 +190,35 @@ Jack Dorsey，前Twitter CEO，因出售Twitter给Elon Musk并导致用户大规
 
 ---
 
-## <a name="15"></a>15. GitHub 免费提供公共仓库的 Linux ARM64 托管运行器 
+## <a name="15"></a>15. 展示你的项目的开源目录 
+<small>🔗 [github.com](https://github.com/KingMenes/awesome-launch): Show HN: I made an open source directory of where to showoff your projects</small>
+
+
+| 🔥🔥: 158 \| 💬: [34](https://news.ycombinator.com/item?id=42724757) \| 🗓️ 2025-01-16
+
+
+<br />
+这是一个**免费且友好的社区目录**，旨在帮助开发者展示他们的**副业项目**。目录涵盖了多个平台，如Reddit、Twitter/X、LinkedIn、Hacker News等，提供了详细的推广渠道和资源。项目采用**MIT许可证**，适合希望获得曝光和反馈的开发者使用。
+
+---
+
+## <a name="16"></a>16. 交互式学习 Yjs 
+<small>🔗 [learn.yjs.dev](https://learn.yjs.dev/): Learn Yjs Interactively</small>
+
+
+| 🔥🔥: 158 \| 💬: [21](https://news.ycombinator.com/item?id=42731582) \| 🗓️ 2025-01-16
+
+
+<br />
+欢迎来到**交互式学习 Yjs**，这是一个关于使用 **Yjs CRDT 库** 构建实时协作应用的教程系列。通过**可探索的演示**和代码练习，你将了解 Yjs 的基本概念、分布式应用中的状态管理，以及如何避免协作应用中的常见问题。该网站由 Jamsocket 开发，使用 Astro 构建，演示部分基于 React 和 Yjs。
+
+---
+
+## <a name="17"></a>17. GitHub 免费提供公共仓库的 Linux ARM64 托管运行器 
 <small>🔗 [github.blog](https://github.blog/changelog/2025-01-16-linux-arm64-hosted-runners-now-available-for-free-in-public-repositories-public-preview/): GitHub Linux ARM64 hosted runners now available for free in public repositories</small>
 
 
-| 🔥🔥: 155 \| 💬: [37](https://news.ycombinator.com/item?id=42728015) \| 🗓️ 2025-01-16
+| 🔥🔥: 155 \| 💬: [40](https://news.ycombinator.com/item?id=42728015) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -202,7 +226,7 @@ GitHub 宣布 **Copilot** 用户现在可以询问关于 **Actions 任务失败*
 
 ---
 
-## <a name="16"></a>16. 大卫·林奇，《双峰》与《穆赫兰道》导演，享年78岁 
+## <a name="18"></a>18. 大卫·林奇，《双峰》与《穆赫兰道》导演，享年78岁 
 <small>🔗 [theguardian.com](https://www.theguardian.com/film/2025/jan/16/david-lynch-twin-peaks-and-muholland-drive-director-dies-aged-78): David Lynch, Twin Peaks and Muholland Drive director, dies aged 78</small>
 
 
@@ -214,11 +238,11 @@ GitHub 宣布 **Copilot** 用户现在可以询问关于 **Actions 任务失败*
 
 ---
 
-## <a name="17"></a>17. 数学家发现球体“接吻”的新方式 
+## <a name="19"></a>19. 数学家发现球体“接吻”的新方式 
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/mathematicians-discover-new-way-for-spheres-to-kiss-20250115/): Mathematicians discover new way for spheres to 'kiss'</small>
 
 
-| 🔥🔥: 150 \| 💬: [67](https://news.ycombinator.com/item?id=42723406) \| 🗓️ 2025-01-16
+| 🔥🔥: 150 \| 💬: [68](https://news.ycombinator.com/item?id=42723406) \| 🗓️ 2025-01-16
 
 
 <br />
@@ -226,38 +250,14 @@ GitHub 宣布 **Copilot** 用户现在可以询问关于 **Actions 任务失败*
 
 ---
 
-## <a name="18"></a>18. 2015年mRNA论文评论暗示数据在不同情境中被重复使用 
+## <a name="20"></a>20. 2015年mRNA论文评论暗示数据在不同情境中被重复使用 
 <small>🔗 [pubpeer.com](https://pubpeer.com/publications/323E84675EB2E849C56097D73D55FD#1): Comment on 2015 mRNA paper suggests data re-used in different contexts</small>
 
 
-| 🔥🔥: 145 \| 💬: [74](https://news.ycombinator.com/item?id=42728165) \| 🗓️ 2025-01-16
+| 🔥🔥: 147 \| 💬: [74](https://news.ycombinator.com/item?id=42728165) \| 🗓️ 2025-01-16
 
 
 <br />
 一篇2015年发表在《Nature Communications》的论文，题为“**TRF2-S**：一种新型RNA和FMRP结合蛋白，调节轴突mRNA运输和突触前可塑性”，近期有评论指出其数据可能在不同情境中被**重复使用**。该研究由Peisu Zhang等人发表，涉及**mRNA运输**和突触可塑性机制。
-
----
-
-## <a name="19"></a>19. 交互式学习 Yjs 
-<small>🔗 [learn.yjs.dev](https://learn.yjs.dev/): Learn Yjs Interactively</small>
-
-
-| 🔥🔥: 144 \| 💬: [16](https://news.ycombinator.com/item?id=42731582) \| 🗓️ 2025-01-16
-
-
-<br />
-欢迎来到**交互式学习 Yjs**，这是一个关于使用 **Yjs CRDT 库** 构建实时协作应用的教程系列。通过**可探索的演示**和代码练习，你将了解 Yjs 的基本概念、分布式应用中的状态管理，以及如何避免协作应用中的常见问题。该网站由 Jamsocket 开发，使用 Astro 构建，演示部分基于 React 和 Yjs。
-
----
-
-## <a name="20"></a>20. 2025年值得期待的事情 
-<small>🔗 [lwn.net](https://lwn.net/Articles/1003780/): Some things to expect in 2025</small>
-
-
-| 🔥🔥: 144 \| 💬: [70](https://news.ycombinator.com/item?id=42731962) \| 🗓️ 2025-01-16
-
-
-<br />
-2025年，**sched-ext**将成为游戏规则的改变者，允许用户空间加载CPU调度程序，激发更多创新。**Rust代码**将在内核中加速应用，尽管用户可能不会注意到。此外，**单维护者项目**将因安全风险而受到更多关注，而**AI生成代码**的滥用可能导致大规模代码回滚。
 
 ---
