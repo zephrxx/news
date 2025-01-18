@@ -10,8 +10,8 @@ tags:
 
 1. 亚马逊的AI爬虫让我的Git服务器不稳定；
 1. Show HN: 交互式 systemd – 更高效管理 systemd 单元的工具；
-1. 谷歌搜索开始要求启用JavaScript；
 1. 为什么蜜蜂蜇人后会死亡？；
+1. 谷歌搜索开始要求启用JavaScript；
 1. AMD Radeon Instinct MI300A 的巨大内存子系统；
 
 以上是今天的前五条黑科技新闻标题。
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [xeiaso.net](https://xeiaso.net/notes/2025/amazon-crawler/): Amazon's AI crawler is making my Git server unstable</small>
 
 
-| 🔥🔥: 346 \| 💬: [133](https://news.ycombinator.com/item?id=42750420) \| 🗓️ 2025-01-18
+| 🔥🔥: 398 \| 💬: [151](https://news.ycombinator.com/item?id=42750420) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [isd-project.github.io](https://isd-project.github.io/isd/): Show HN: Interactive systemd – a better way to work with systemd units</small>
 
 
-| 🔥🔥: 291 \| 💬: [86](https://news.ycombinator.com/item?id=42749402) \| 🗓️ 2025-01-18
+| 🔥🔥: 318 \| 💬: [98](https://news.ycombinator.com/item?id=42749402) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -46,23 +46,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 谷歌搜索开始要求启用JavaScript 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/): Google begins requiring JavaScript for Google Search</small>
-
-
-| 🔥🔥: 157 \| 💬: [128](https://news.ycombinator.com/item?id=42747092) \| 🗓️ 2025-01-18
-
-
-<br />
-谷歌宣布，用户需启用**JavaScript**才能使用谷歌搜索。此举旨在**防止恶意活动**（如机器人和垃圾信息）并提升搜索体验。尽管大多数网站已使用JavaScript，但此举可能影响依赖无障碍工具的用户。此外，JavaScript存在**安全漏洞**，且可能限制第三方工具获取搜索趋势数据。
-
----
-
-## <a name="4"></a>4. 为什么蜜蜂蜇人后会死亡？ 
+## <a name="3"></a>3. 为什么蜜蜂蜇人后会死亡？ 
 <small>🔗 [subanima.org](https://www.subanima.org/bees/): Why do bees die when they sting you?</small>
 
 
-| 🔥🔥: 151 \| 💬: [111](https://news.ycombinator.com/item?id=42749069) \| 🗓️ 2025-01-18
+| 🔥🔥: 166 \| 💬: [132](https://news.ycombinator.com/item?id=42749069) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -70,11 +58,23 @@ tags:
 
 ---
 
+## <a name="4"></a>4. 谷歌搜索开始要求启用JavaScript 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/): Google begins requiring JavaScript for Google Search</small>
+
+
+| 🔥🔥: 157 \| 💬: [129](https://news.ycombinator.com/item?id=42747092) \| 🗓️ 2025-01-18
+
+
+<br />
+谷歌宣布，用户需启用**JavaScript**才能使用谷歌搜索。此举旨在**防止恶意活动**（如机器人和垃圾信息）并提升搜索体验。尽管大多数网站已使用JavaScript，但此举可能影响依赖无障碍工具的用户。此外，JavaScript存在**安全漏洞**，且可能限制第三方工具获取搜索趋势数据。
+
+---
+
 ## <a name="5"></a>5. AMD Radeon Instinct MI300A 的巨大内存子系统 
 <small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as): The AMD Radeon Instinct MI300A's Giant Memory Subsystem</small>
 
 
-| 🔥🔥: 144 \| 💬: [53](https://news.ycombinator.com/item?id=42747864) \| 🗓️ 2025-01-18
+| 🔥🔥: 155 \| 💬: [57](https://news.ycombinator.com/item?id=42747864) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -82,11 +82,23 @@ AMD 的 **Radeon Instinct MI300A** 是一款集成了 **24 个 Zen 4 核心** �
 
 ---
 
-## <a name="6"></a>6. 丰田普锐斯改变了汽车行业 
+## <a name="6"></a>6. VS Code 宠物 
+<small>🔗 [github.com](https://github.com/tonybaloney/vscode-pets): VS Code Pets</small>
+
+
+| 🔥🔥: 138 \| 💬: [24](https://news.ycombinator.com/item?id=42750195) \| 🗓️ 2025-01-18
+
+
+<br />
+VS Code Pets 是一款为 **VS Code** 添加可爱宠物的扩展，包括猫、狗、蛇、橡皮鸭和 Clippy 等。这些宠物旨在提升编程时的乐趣和**生产力**。用户可通过 VS Code 市场安装，支持多种语言翻译，动画由多位设计师贡献。扩展已获得 2.3k 星标，适用于 **Hacktoberfest** 等开发者活动。
+
+---
+
+## <a name="7"></a>7. 丰田普锐斯改变了汽车行业 
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/toyota-prius-transformed-auto-industry): The Toyota Prius transformed the auto industry</small>
 
 
-| 🔥🔥: 128 \| 💬: [188](https://news.ycombinator.com/item?id=42747899) \| 🗓️ 2025-01-18
+| 🔥🔥: 136 \| 💬: [203](https://news.ycombinator.com/item?id=42747899) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -94,11 +106,11 @@ AMD 的 **Radeon Instinct MI300A** 是一款集成了 **24 个 Zen 4 核心** �
 
 ---
 
-## <a name="7"></a>7. Windows BitLocker – 无需螺丝刀的破解 
+## <a name="8"></a>8. Windows BitLocker – 无需螺丝刀的破解 
 <small>🔗 [neodyme.io](https://neodyme.io/en/blog/bitlocker_screwed_without_a_screwdriver/): Windows BitLocker – Screwed Without a Screwdriver</small>
 
 
-| 🔥🔥: 115 \| 💬: [82](https://news.ycombinator.com/item?id=42747877) \| 🗓️ 2025-01-18
+| 🔥🔥: 127 \| 💬: [84](https://news.ycombinator.com/item?id=42747877) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -106,7 +118,19 @@ Windows BitLocker 的默认设备加密配置存在一个名为 **bitpixie** 的
 
 ---
 
-## <a name="8"></a>8. 诚实的艾哈迈德 (2011) 
+## <a name="9"></a>9. o1 不是聊天模型（这才是重点） 
+<small>🔗 [latent.space](https://www.latent.space/p/o1-skill-issue): O1 isn't a chat model (and that's the point)</small>
+
+
+| 🔥🔥: 118 \| 💬: [81](https://news.ycombinator.com/item?id=42750096) \| 🗓️ 2025-01-18
+
+
+<br />
+o1 并非传统聊天模型，而是一个**报告生成器**。用户需提供大量上下文，明确目标，而非逐步对话。o1 擅长一次性生成完整文件、解释复杂概念及医学诊断，但在特定风格写作和构建完整应用方面表现不佳。**延迟**是其用户体验的关键挑战，未来可能催生高延迟背景智能产品。
+
+---
+
+## <a name="10"></a>10. 诚实的艾哈迈德 (2011) 
 <small>🔗 [bugzilla.mozilla.org](https://bugzilla.mozilla.org/show_bug.cgi?id=647959): Honest Ahmed (2011)</small>
 
 
@@ -118,23 +142,11 @@ Windows BitLocker 的默认设备加密配置存在一个名为 **bitpixie** 的
 
 ---
 
-## <a name="9"></a>9. o1 不是聊天模型（这才是重点） 
-<small>🔗 [latent.space](https://www.latent.space/p/o1-skill-issue): O1 isn't a chat model (and that's the point)</small>
-
-
-| 🔥🔥: 106 \| 💬: [75](https://news.ycombinator.com/item?id=42750096) \| 🗓️ 2025-01-18
-
-
-<br />
-o1 并非传统聊天模型，而是一个**报告生成器**。用户需提供大量上下文，明确目标，而非逐步对话。o1 擅长一次性生成完整文件、解释复杂概念及医学诊断，但在特定风格写作和构建完整应用方面表现不佳。**延迟**是其用户体验的关键挑战，未来可能催生高延迟背景智能产品。
-
----
-
-## <a name="10"></a>10. Dusa编程语言（有限选择逻辑编程） 
+## <a name="11"></a>11. Dusa编程语言（有限选择逻辑编程） 
 <small>🔗 [dusa.rocks](https://dusa.rocks/docs/): Dusa Programming Language (Finite-Choice Logic Programming)</small>
 
 
-| 🔥: 90 \| 💬: [17](https://news.ycombinator.com/item?id=42749147) \| 🗓️ 2025-01-18
+| 🔥: 97 \| 💬: [19](https://news.ycombinator.com/item?id=42749147) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -142,23 +154,11 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 
 ---
 
-## <a name="11"></a>11. VS Code 宠物 
-<small>🔗 [github.com](https://github.com/tonybaloney/vscode-pets): VS Code Pets</small>
-
-
-| 🔥: 76 \| 💬: [10](https://news.ycombinator.com/item?id=42750195) \| 🗓️ 2025-01-18
-
-
-<br />
-VS Code Pets 是一款为 **VS Code** 添加可爱宠物的扩展，包括猫、狗、蛇、橡皮鸭和 Clippy 等。这些宠物旨在提升编程时的乐趣和**生产力**。用户可通过 VS Code 市场安装，支持多种语言翻译，动画由多位设计师贡献。扩展已获得 2.3k 星标，适用于 **Hacktoberfest** 等开发者活动。
-
----
-
 ## <a name="12"></a>12. ATProto与身份所有权 
 <small>🔗 [anirudh.fi](https://anirudh.fi/blog/identity/): ATProto and the ownership of identity</small>
 
 
-| 🔥: 61 \| 💬: [50](https://news.ycombinator.com/item?id=42748101) \| 🗓️ 2025-01-18
+| 🔥: 70 \| 💬: [61](https://news.ycombinator.com/item?id=42748101) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -170,7 +170,7 @@ VS Code Pets 是一款为 **VS Code** 添加可爱宠物的扩展，包括猫、
 <small>🔗 [theguardian.com](https://www.theguardian.com/uk-news/2025/jan/16/bloodletting-recommended-for-jersey-residents-after-pfas-contamination): Bloodletting recommended for Jersey residents after PFAS contamination</small>
 
 
-| 🔥: 55 \| 💬: [34](https://news.ycombinator.com/item?id=42747923) \| 🗓️ 2025-01-18
+| 🔥: 56 \| 💬: [34](https://news.ycombinator.com/item?id=42747923) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -182,7 +182,7 @@ VS Code Pets 是一款为 **VS Code** 添加可爱宠物的扩展，包括猫、
 <small>🔗 [eblong.com](https://eblong.com/zarf/essays/rule-based-if/index.html): Rule-Based Programming in Interactive Fiction</small>
 
 
-| 🔥: 43 \| 💬: [7](https://news.ycombinator.com/item?id=42748534) \| 🗓️ 2025-01-18
+| 🔥: 52 \| 💬: [9](https://news.ycombinator.com/item?id=42748534) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -190,7 +190,55 @@ VS Code Pets 是一款为 **VS Code** 添加可爱宠物的扩展，包括猫、
 
 ---
 
-## <a name="15"></a>15. FTC禁止《原神》开发商向16岁以下青少年出售抽奖箱，罚款2000万美元 
+## <a name="15"></a>15. 卡尔曼滤波教程 
+<small>🔗 [kalmanfilter.net](https://www.kalmanfilter.net/default.aspx): Kalman Filter Tutorial</small>
+
+
+| 🔥: 38 \| 💬: [3](https://news.ycombinator.com/item?id=42751690) \| 🗓️ 2025-01-18
+
+
+<br />
+本教程旨在通过**直观解释**和**数值示例**，简化卡尔曼滤波的学习过程。卡尔曼滤波是一种用于在不确定性中估计和预测系统状态的强大工具，广泛应用于目标跟踪、导航和控制等领域。教程分为四部分，从基础到高级，涵盖**单变量**和**多变量**卡尔曼滤波，以及**非线性滤波**和**传感器融合**等实用指南。
+
+---
+
+## <a name="16"></a>16. Skymont：英特尔E核迈向新高度 
+<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/skymont-intels-e-cores-reach-for-the-sky): Skymont: Intel's E-Cores reach for the Sky</small>
+
+
+| 🔥: 35 \| 💬: [11](https://news.ycombinator.com/item?id=42750734) \| 🗓️ 2025-01-18
+
+
+<br />
+英特尔最新移动芯片Lunar Lake中，**Skymont**架构取代了Meteor Lake的Crestmont，成为新一代E核。Skymont不仅提升了多线程性能，还优化了低功耗背景任务处理。其**八宽乱序执行引擎**和**改进的分支预测**使其在能效和性能上显著超越前代，展示了英特尔在笔记本市场的持续竞争力。
+
+---
+
+## <a name="17"></a>17. 《阿特拉斯耸耸肩》是新潮流吗？ 
+<small>🔗 [commonreader.co.uk](https://www.commonreader.co.uk/p/is-atlas-shrugged-the-new-vibe): Is Atlas Shrugged the New Vibe?</small>
+
+
+| 🔥: 33 \| 💬: [53](https://news.ycombinator.com/item?id=42748963) \| 🗓️ 2025-01-18
+
+
+<br />
+《阿特拉斯耸耸肩》近期再次引发热议，**Ayn Rand**的思想对现代企业家如**Elon Musk**和**Marc Andreessen**产生了深远影响。尽管Rand的作品常被视为意识形态的载体，但其小说中的**理性主义**和**个人主义**主题仍具有现实意义。Rand通过主角Dagny Taggart的故事，探讨了在腐败社会中坚持道德与追求卓越的重要性。尽管Rand的思想在左右两派中都受到批评，但其作品在当今社会动荡的背景下显得尤为相关。
+
+---
+
+## <a name="18"></a>18. 如果没人想念TikTok会怎样？ 
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/01/18/technology/what-if-no-one-misses-tiktok.html): What if no one misses TikTok?</small>
+
+
+| 🔥: 33 \| 💬: [105](https://news.ycombinator.com/item?id=42749884) \| 🗓️ 2025-01-18
+
+
+<br />
+随着**TikTok禁令**的临近，美国用户似乎对这款流行社交应用的消失并不感到担忧。尽管有部分用户转向其他平台，如**Xiaohongshu**，但整体反应冷淡。最高法院已支持禁令，TikTok的**1.7亿美国用户**可能面临应用的突然消失，但公众情绪更多是黑色幽默而非愤怒或悲伤。
+
+---
+
+## <a name="19"></a>19. FTC禁止《原神》开发商向16岁以下青少年出售抽奖箱，罚款2000万美元 
 <small>🔗 [ftc.gov](https://www.ftc.gov/news-events/news/press-releases/2025/01/genshin-impact-game-developer-will-be-banned-selling-lootboxes-teens-under-16-without-parental): FTC bans Genshin Impact dev from selling lootboxes to under-16s, fines them $20M</small>
 
 
@@ -202,62 +250,14 @@ VS Code Pets 是一款为 **VS Code** 添加可爱宠物的扩展，包括猫、
 
 ---
 
-## <a name="16"></a>16. 《阿特拉斯耸耸肩》是新潮流吗？ 
-<small>🔗 [commonreader.co.uk](https://www.commonreader.co.uk/p/is-atlas-shrugged-the-new-vibe): Is Atlas Shrugged the New Vibe?</small>
-
-
-| 🔥: 32 \| 💬: [53](https://news.ycombinator.com/item?id=42748963) \| 🗓️ 2025-01-18
-
-
-<br />
-《阿特拉斯耸耸肩》近期再次引发热议，**Ayn Rand**的思想对现代企业家如**Elon Musk**和**Marc Andreessen**产生了深远影响。尽管Rand的作品常被视为意识形态的载体，但其小说中的**理性主义**和**个人主义**主题仍具有现实意义。Rand通过主角Dagny Taggart的故事，探讨了在腐败社会中坚持道德与追求卓越的重要性。尽管Rand的思想在左右两派中都受到批评，但其作品在当今社会动荡的背景下显得尤为相关。
-
----
-
-## <a name="17"></a>17. 如果没人想念TikTok会怎样？ 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/01/18/technology/what-if-no-one-misses-tiktok.html): What if no one misses TikTok?</small>
-
-
-| 🔥: 30 \| 💬: [91](https://news.ycombinator.com/item?id=42749884) \| 🗓️ 2025-01-18
-
-
-<br />
-随着**TikTok禁令**的临近，美国用户似乎对这款流行社交应用的消失并不感到担忧。尽管有部分用户转向其他平台，如**Xiaohongshu**，但整体反应冷淡。最高法院已支持禁令，TikTok的**1.7亿美国用户**可能面临应用的突然消失，但公众情绪更多是黑色幽默而非愤怒或悲伤。
-
----
-
-## <a name="18"></a>18. Transmeta：一场从未实现的CPU革命 
-<small>🔗 [youtube.com](https://www.youtube.com/watch?v=U2aQTJDJwd8): Transmeta: A CPU Revolution That Never Was [video]</small>
-
-
-| 🔥: 20 \| 💬: [5](https://news.ycombinator.com/item?id=42747922) \| 🗓️ 2025-01-18
-
-
-<br />
-Transmeta曾试图通过**低功耗x86兼容处理器**颠覆CPU市场，但其**Crusoe和Efficeon芯片**未能实现预期目标。尽管技术理念超前，但因性能不足和市场策略失误，最终未能成功。这段视频回顾了Transmeta的兴衰历程。
-
----
-
-## <a name="19"></a>19. 逆向工程Pentium中的进位前瞻加法器 
+## <a name="20"></a>20. 逆向工程Pentium中的进位前瞻加法器 
 <small>🔗 [righto.com](https://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html): Reverse-engineering a carry-lookahead adder in the Pentium</small>
 
 
-| 🔥: 18 \| 💬: [2](https://news.ycombinator.com/item?id=42750454) \| 🗓️ 2025-01-18
+| 🔥: 30 \| 💬: [3](https://news.ycombinator.com/item?id=42750454) \| 🗓️ 2025-01-18
 
 
 <br />
 本文详细介绍了Pentium浮点单元中的8位**进位前瞻加法器**（Carry-Lookahead Adder），特别是**Kogge-Stone**类型的实现。通过并行计算进位信号，加法器避免了传统**逐位进位**（Ripple Carry）的延迟问题。文章还展示了Pentium如何通过多层电路实现这一设计，并解释了其逻辑方程与硬件电路的关系。
-
----
-
-## <a name="20"></a>20. 英国警方扣押Cybertruck，因其在当地不合法 
-<small>🔗 [popsci.com](https://www.popsci.com/technology/uk-cybertruck-illegal/): UK police seize Cybertruck because it's illegal there</small>
-
-
-| 🔥: 16 \| 💬: [37](https://news.ycombinator.com/item?id=42748172) \| 🗓️ 2025-01-18
-
-
-<br />
-英国警方在曼彻斯特地区扣押了一辆特斯拉**Cybertruck**，原因是该车未获得英国所需的**“符合性证书”**，无法证明其符合当地安全标准。尽管车主是英国永久居民，但车辆在国外注册和投保。警方强调，**Cybertruck**在英国道路上不合法，存在安全隐患。特斯拉需申请相关证书，否则该车将无法在英国合法行驶。
 
 ---
