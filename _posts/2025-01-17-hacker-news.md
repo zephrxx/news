@@ -11,8 +11,8 @@ tags:
 1. 佳能要求用户付费使用自己的相机作为网络摄像头；
 1. 最高法院维持TikTok禁令，但特朗普可能提供转机；
 1. 调查“邪恶”RJ45转换器；
-1. 《星际争霸：母巢之战》韩语翻译项目；
 1. 你想自己建数据中心吗？；
+1. 《星际争霸：母巢之战》韩语翻译项目；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [romanzipp.com](https://romanzipp.com/blog/no-you-cant-use-your-6299-canon-camera-as-a-webcam): Canon wants us to pay for using our own camera as a webcam</small>
 
 
-| 🔥🔥: 978 \| 💬: [618](https://news.ycombinator.com/item?id=42735393) \| 🗓️ 2025-01-17
+| 🔥🔥: 983 \| 💬: [619](https://news.ycombinator.com/item?id=42735393) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html): Supreme Court upholds TikTok ban, but Trump might offer lifeline</small>
 
 
-| 🔥🔥: 828 \| 💬: [2117](https://news.ycombinator.com/item?id=42738464) \| 🗓️ 2025-01-17
+| 🔥🔥: 834 \| 💬: [2151](https://news.ycombinator.com/item?id=42738464) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [lcamtuf.substack.com](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle): Investigating an "Evil" RJ45 Dongle</small>
 
 
-| 🔥🔥: 257 \| 💬: [79](https://news.ycombinator.com/item?id=42743033) \| 🗓️ 2025-01-17
+| 🔥🔥: 274 \| 💬: [81](https://news.ycombinator.com/item?id=42743033) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -58,23 +58,11 @@ tags:
 
 ---
 
-## <a name="4"></a>4. 《星际争霸：母巢之战》韩语翻译项目 
-<small>🔗 [blog.sourcedive.net](https://blog.sourcedive.net/brood-war-korean-translations/): Brood War Korean Translations</small>
-
-
-| 🔥🔥: 226 \| 💬: [76](https://news.ycombinator.com/item?id=42740596) \| 🗓️ 2025-01-17
-
-
-<br />
-作者利用闲暇时间，结合**LLM**和免费软件，解决了《星际争霸：母巢之战》社区长期存在的**韩语翻译问题**。通过改进的机器翻译流程，大幅提升了翻译质量，并显著提高了翻译效率，使非韩语玩家能够更好地理解韩国高手的战术分析。
-
----
-
-## <a name="5"></a>5. 你想自己建数据中心吗？ 
+## <a name="4"></a>4. 你想自己建数据中心吗？ 
 <small>🔗 [blog.railway.com](https://blog.railway.com/p/data-center-build-part-one): So you want to build your own data center</small>
 
 
-| 🔥🔥: 223 \| 💬: [105](https://news.ycombinator.com/item?id=42743019) \| 🗓️ 2025-01-17
+| 🔥🔥: 243 \| 💬: [117](https://news.ycombinator.com/item?id=42743019) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -82,11 +70,23 @@ Railway 从依赖 Google Cloud Platform 转向自建数据中心，以解决**�
 
 ---
 
+## <a name="5"></a>5. 《星际争霸：母巢之战》韩语翻译项目 
+<small>🔗 [blog.sourcedive.net](https://blog.sourcedive.net/brood-war-korean-translations/): Brood War Korean Translations</small>
+
+
+| 🔥🔥: 233 \| 💬: [77](https://news.ycombinator.com/item?id=42740596) \| 🗓️ 2025-01-17
+
+
+<br />
+作者利用闲暇时间，结合**LLM**和免费软件，解决了《星际争霸：母巢之战》社区长期存在的**韩语翻译问题**。通过改进的机器翻译流程，大幅提升了翻译质量，并显著提高了翻译效率，使非韩语玩家能够更好地理解韩国高手的战术分析。
+
+---
+
 ## <a name="6"></a>6. Mermaid类图编辑的GUI工具 
 <small>🔗 [docs.mermaidchart.com](https://docs.mermaidchart.com/blog/posts/gui-for-editing-mermaid-class-diagrams): Show HN: GUI for editing Mermaid class diagrams</small>
 
 
-| 🔥🔥: 152 \| 💬: [44](https://news.ycombinator.com/item?id=42738656) \| 🗓️ 2025-01-17
+| 🔥🔥: 156 \| 💬: [44](https://news.ycombinator.com/item?id=42738656) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -98,7 +98,7 @@ Mermaid图表因其快速绘制复杂图表的能力而广受欢迎，现在通�
 <small>🔗 [linusakesson.net](https://www.linusakesson.net/music/family-bass/index.php): The Family Bass - Music with an NES</small>
 
 
-| 🔥🔥: 139 \| 💬: [10](https://news.ycombinator.com/item?id=42735413) \| 🗓️ 2025-01-17
+| 🔥🔥: 141 \| 💬: [10](https://news.ycombinator.com/item?id=42735413) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -122,7 +122,7 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 <small>🔗 [games.productartistry.com](https://games.productartistry.com/games/dark-patterns): Show HN: Interactive game teaching dark patterns in UX design</small>
 
 
-| 🔥🔥: 112 \| 💬: [45](https://news.ycombinator.com/item?id=42737778) \| 🗓️ 2025-01-17
+| 🔥🔥: 116 \| 💬: [45](https://news.ycombinator.com/item?id=42737778) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -134,7 +134,7 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 <small>🔗 [apnews.com](https://apnews.com/article/drug-prices-medicare-biden-trump-aae2271614f5959b484e5f081313f2e1): Ozempic and Wegovy are selected for Medicare's price negotiations</small>
 
 
-| 🔥🔥: 105 \| 💬: [125](https://news.ycombinator.com/item?id=42737985) \| 🗓️ 2025-01-17
+| 🔥🔥: 116 \| 💬: [142](https://news.ycombinator.com/item?id=42737985) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -146,7 +146,7 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 <small>🔗 [aeon.co](https://aeon.co/essays/the-french-modernists-loathed-and-loved-the-mass-media-of-their-day): French modernists were alarmed, inspired by newspaper's voracious dynamism</small>
 
 
-| 🔥: 98 \| 💬: [30](https://news.ycombinator.com/item?id=42739572) \| 🗓️ 2025-01-17
+| 🔥: 100 \| 💬: [31](https://news.ycombinator.com/item?id=42739572) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -158,7 +158,7 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 <small>🔗 [cceckman.com](https://cceckman.com/writing/branchless-utf8-encoding/): Branchless UTF-8 Encoding</small>
 
 
-| 🔥: 97 \| 💬: [27](https://news.ycombinator.com/item?id=42742184) \| 🗓️ 2025-01-17
+| 🔥: 100 \| 💬: [28](https://news.ycombinator.com/item?id=42742184) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -166,7 +166,19 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 
 ---
 
-## <a name="13"></a>13. 项目迷你机架——紧凑便携的家庭实验室 
+## <a name="13"></a>13. Show HN: 将 C 语言编译为 Not 门 
+<small>🔗 [github.com](https://github.com/tomhea/c2fj): Show HN: Compile C to Not Gates</small>
+
+
+| 🔥: 96 \| 💬: [38](https://news.ycombinator.com/item?id=42742350) \| 🗓️ 2025-01-17
+
+
+<br />
+该项目展示了如何将 **C 语言** 编译为 **FlipJump** 语言，最终生成 **.fjm** 文件。通过 **RiscV** 作为中间层，C 代码被转换为 FlipJump 操作，支持系统调用如 `exit` 和 `printf`。项目使用 **picolibc** 和 **RiscV 指令集**，并通过优化宏实现高效编译。适用于复杂 C 项目，编译时间与代码规模无关。
+
+---
+
+## <a name="14"></a>14. 项目迷你机架——紧凑便携的家庭实验室 
 <small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/project-mini-rack-compact-and-portable-homelabs): Project Mini Rack – compact and portable homelabs</small>
 
 
@@ -178,23 +190,11 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 
 ---
 
-## <a name="14"></a>14. Show HN: 将 C 语言编译为 Not 门 
-<small>🔗 [github.com](https://github.com/tomhea/c2fj): Show HN: Compile C to Not Gates</small>
-
-
-| 🔥: 89 \| 💬: [37](https://news.ycombinator.com/item?id=42742350) \| 🗓️ 2025-01-17
-
-
-<br />
-该项目展示了如何将 **C 语言** 编译为 **FlipJump** 语言，最终生成 **.fjm** 文件。通过 **RiscV** 作为中间层，C 代码被转换为 FlipJump 操作，支持系统调用如 `exit` 和 `printf`。项目使用 **picolibc** 和 **RiscV 指令集**，并通过优化宏实现高效编译。适用于复杂 C 项目，编译时间与代码规模无关。
-
----
-
 ## <a name="15"></a>15. 无需X11的图形实践 
 <small>🔗 [blogsystem5.substack.com](https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11): Hands-On Graphics Without X11</small>
 
 
-| 🔥: 70 \| 💬: [17](https://news.ycombinator.com/item?id=42741155) \| 🗓️ 2025-01-17
+| 🔥: 75 \| 💬: [18](https://news.ycombinator.com/item?id=42741155) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -202,7 +202,19 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 
 ---
 
-## <a name="16"></a>16. 通用汽车承认将司机位置数据提供给保险公司，导致保费上涨 
+## <a name="16"></a>16. 晚餐摄入更多钾与较少睡眠障碍相关——研究 
+<small>🔗 [nutraingredients-asia.com](https://www.nutraingredients-asia.com/Article/2025/01/07/higher-potassium-intake-at-dinner-linked-to-fewer-sleep-disturbances/): Higher potassium intake at dinner linked to fewer sleep disturbances – study</small>
+
+
+| 🔥: 60 \| 💬: [20](https://news.ycombinator.com/item?id=42742161) \| 🗓️ 2025-01-17
+
+
+<br />
+一项日本横断面研究发现，**钾摄入量**与睡眠质量相关，尤其是**晚餐摄入更多钾**与较少的睡眠障碍相关。研究使用Athens失眠量表评估睡眠，发现钾摄入量与失眠评分呈负相关。钾在肌肉放松、神经传导和血压调节中起关键作用，可能通过调节血压改善睡眠。钠摄入量与睡眠的关系仍需进一步验证。
+
+---
+
+## <a name="17"></a>17. 通用汽车承认将司机位置数据提供给保险公司，导致保费上涨 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/01/17/gm_settles_ftc_charges/): GM parks claims driver location data was given to insurers, pushing up premiums</small>
 
 
@@ -214,50 +226,38 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 
 ---
 
-## <a name="17"></a>17. 晚餐摄入更多钾与较少睡眠障碍相关——研究 
-<small>🔗 [nutraingredients-asia.com](https://www.nutraingredients-asia.com/Article/2025/01/07/higher-potassium-intake-at-dinner-linked-to-fewer-sleep-disturbances/): Higher potassium intake at dinner linked to fewer sleep disturbances – study</small>
+## <a name="18"></a>18. 美国最高法院维持TikTok禁令的EFF声明 
+<small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/01/eff-statement-us-supreme-courts-decision-uphold-tiktok-ban): EFF Statement on U.S. Supreme Court's Decision to Uphold TikTok Ban</small>
 
 
-| 🔥: 50 \| 💬: [19](https://news.ycombinator.com/item?id=42742161) \| 🗓️ 2025-01-17
+| 🔥: 53 \| 💬: [41](https://news.ycombinator.com/item?id=42744695) \| 🗓️ 2025-01-17
 
 
 <br />
-一项日本横断面研究发现，**钾摄入量**与睡眠质量相关，尤其是**晚餐摄入更多钾**与较少的睡眠障碍相关。研究使用Athens失眠量表评估睡眠，发现钾摄入量与失眠评分呈负相关。钾在肌肉放松、神经传导和血压调节中起关键作用，可能通过调节血压改善睡眠。钠摄入量与睡眠的关系仍需进一步验证。
+EFF对最高法院未进行严格的**第一修正案审查**表示失望，认为政府以防止潜在危害为由侵犯了数百万美国人的**言论自由**。法院仅基于数据隐私问题裁决，忽视了法律的内容控制本质。EFF指出，**全面消费者隐私立法**才是保护数据隐私的关键，而非关闭或重组社交媒体平台。
 
 ---
 
-## <a name="18"></a>18. 伊斯的传说 
+## <a name="19"></a>19. 你能读懂这份手写体吗？美国国家档案馆需要你的帮助 
+<small>🔗 [smithsonianmag.com](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/): Can You Read This Cursive Handwriting? The National Archives Wants Your Help</small>
+
+
+| 🔥: 51 \| 💬: [57](https://news.ycombinator.com/item?id=42745334) \| 🗓️ 2025-01-17
+
+
+<br />
+美国国家档案馆拥有大量**手写体历史文件**，部分已有200多年历史。由于许多人未学过手写体，这些文件难以阅读。为此，档案馆发起**公民档案员计划**，招募志愿者转录和标记文件，以提升数字化文档的可访问性。志愿者可自由选择任务，如转录或标记，帮助学者、家谱研究者和历史爱好者更好地查阅资料。目前已有5000多名志愿者参与，部分人专注于**独立战争养老金文件**等项目。
+
+---
+
+## <a name="20"></a>20. 伊斯的传说 
 <small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Ys): Ys</small>
 
 
-| 🔥: 45 \| 💬: [7](https://news.ycombinator.com/item?id=42737100) \| 🗓️ 2025-01-17
+| 🔥: 46 \| 💬: [7](https://news.ycombinator.com/item?id=42737100) \| 🗓️ 2025-01-17
 
 
 <br />
 伊斯（**Ys**）是法国布列塔尼地区的一个**神话城市**，传说中被海洋吞没。故事围绕国王格拉德隆（**Gradlon**）和他的女儿达胡特（**Dahut**）展开。达胡特因偷取堤坝钥匙导致城市被洪水淹没，最终被父亲抛弃，化为美人鱼。传说中，伊斯在低潮时仍能听到钟声或看到废墟。
-
----
-
-## <a name="19"></a>19. Dr. TVAM – 用于断层扫描体积增材制造的逆向渲染框架 
-<small>🔗 [github.com](https://github.com/rgl-epfl/drtvam): Dr. TVAM – Inverse Rendering for Tomographic Volumetric Additive Manufacturing</small>
-
-
-| 🔥: 44 \| 💬: [9](https://news.ycombinator.com/item?id=42740183) \| 🗓️ 2025-01-17
-
-
-<br />
-Dr. TVAM 是一个基于 Mitsuba 渲染器的**逆向渲染框架**，专为**断层扫描体积增材制造（TVAM）**设计。它支持散射打印介质、任意形状的容器和投影仪运动，并改进了目标形状的离散化方案。该项目提供命令行工具和详细文档，适用于学术研究，采用非商业许可。
-
----
-
-## <a name="20"></a>20. 去马斯克化：Firefox 扩展将 Elon Musk 替换为浣熊 
-<small>🔗 [addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/de-muskifier/): De-Muskifier: Firefox add-on to replace all instances of Elon Musk with raccoons</small>
-
-
-| 🔥: 43 \| 💬: [30](https://news.ycombinator.com/item?id=42736244) \| 🗓️ 2025-01-17
-
-
-<br />
-这款浏览器扩展将 **Elon Musk**、**SpaceX**、**Tesla** 及相关词汇替换为可爱的浣熊和浣熊小知识。该扩展基于关键词扫描，可能导致部分无关内容被意外修改。这是一个仅供娱乐的幽默项目，与任何提及的个人或组织无关。
 
 ---
