@@ -12,7 +12,7 @@ tags:
 1. 最高法院维持TikTok禁令，但特朗普可能提供转机；
 1. 《星际争霸：母巢之战》韩语翻译项目；
 1. 调查“邪恶”RJ45转换器；
-1. Mermaid类图编辑的GUI工具；
+1. 你想自己建数据中心吗？；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [romanzipp.com](https://romanzipp.com/blog/no-you-cant-use-your-6299-canon-camera-as-a-webcam): Canon wants us to pay for using our own camera as a webcam</small>
 
 
-| 🔥🔥: 967 \| 💬: [609](https://news.ycombinator.com/item?id=42735393) \| 🗓️ 2025-01-17
+| 🔥🔥: 971 \| 💬: [610](https://news.ycombinator.com/item?id=42735393) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html): Supreme Court upholds TikTok ban, but Trump might offer lifeline</small>
 
 
-| 🔥🔥: 781 \| 💬: [1951](https://news.ycombinator.com/item?id=42738464) \| 🗓️ 2025-01-17
+| 🔥🔥: 797 \| 💬: [2025](https://news.ycombinator.com/item?id=42738464) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [blog.sourcedive.net](https://blog.sourcedive.net/brood-war-korean-translations/): Brood War Korean Translations</small>
 
 
-| 🔥🔥: 210 \| 💬: [62](https://news.ycombinator.com/item?id=42740596) \| 🗓️ 2025-01-17
+| 🔥🔥: 217 \| 💬: [69](https://news.ycombinator.com/item?id=42740596) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -62,7 +62,7 @@ tags:
 <small>🔗 [lcamtuf.substack.com](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle): Investigating an "Evil" RJ45 Dongle</small>
 
 
-| 🔥🔥: 177 \| 💬: [64](https://news.ycombinator.com/item?id=42743033) \| 🗓️ 2025-01-17
+| 🔥🔥: 214 \| 💬: [69](https://news.ycombinator.com/item?id=42743033) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -70,35 +70,11 @@ tags:
 
 ---
 
-## <a name="5"></a>5. Mermaid类图编辑的GUI工具 
-<small>🔗 [docs.mermaidchart.com](https://docs.mermaidchart.com/blog/posts/gui-for-editing-mermaid-class-diagrams): Show HN: GUI for editing Mermaid class diagrams</small>
-
-
-| 🔥🔥: 137 \| 💬: [39](https://news.ycombinator.com/item?id=42738656) \| 🗓️ 2025-01-17
-
-
-<br />
-Mermaid图表因其快速绘制复杂图表的能力而广受欢迎，现在通过新更新，编辑**Mermaid类图**变得更加简单直观。新的**可视化编辑器**支持直接交互类图，提供多种工具增强用户体验。用户可以轻松添加类、调整布局、编辑属性和方法，并实时预览更改。这些功能使团队协作更加高效，尤其适合不熟悉Mermaid语法的用户。
-
----
-
-## <a name="6"></a>6. 家庭低音 - 用NES演奏音乐 
-<small>🔗 [linusakesson.net](https://www.linusakesson.net/music/family-bass/index.php): The Family Bass - Music with an NES</small>
-
-
-| 🔥🔥: 134 \| 💬: [9](https://news.ycombinator.com/item?id=42735413) \| 🗓️ 2025-01-17
-
-
-<br />
-Linus Akesson通过**定制适配器**将Family BASIC键盘连接到NES，以实时演奏其独特的三角波形。他详细介绍了适配器的工作原理，包括键盘矩阵的信号传输和NES控制器端口的限制。最终，他使用**ATtiny85微控制器**将并行信号转换为串行数据流，并在NES上实现了键盘输入。他还分享了一首原创NES风格曲目《Platform Hopping》的演奏视频。
-
----
-
-## <a name="7"></a>7. 你想自己建数据中心吗？ 
+## <a name="5"></a>5. 你想自己建数据中心吗？ 
 <small>🔗 [blog.railway.com](https://blog.railway.com/p/data-center-build-part-one): So You Want to Build Your Own Data Center</small>
 
 
-| 🔥🔥: 134 \| 💬: [41](https://news.ycombinator.com/item?id=42743019) \| 🗓️ 2025-01-17
+| 🔥🔥: 169 \| 💬: [61](https://news.ycombinator.com/item?id=42743019) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -106,11 +82,35 @@ Railway 从依赖 Google Cloud Platform 转向自建数据中心，以解决**�
 
 ---
 
+## <a name="6"></a>6. Mermaid类图编辑的GUI工具 
+<small>🔗 [docs.mermaidchart.com](https://docs.mermaidchart.com/blog/posts/gui-for-editing-mermaid-class-diagrams): Show HN: GUI for editing Mermaid class diagrams</small>
+
+
+| 🔥🔥: 143 \| 💬: [40](https://news.ycombinator.com/item?id=42738656) \| 🗓️ 2025-01-17
+
+
+<br />
+Mermaid图表因其快速绘制复杂图表的能力而广受欢迎，现在通过新更新，编辑**Mermaid类图**变得更加简单直观。新的**可视化编辑器**支持直接交互类图，提供多种工具增强用户体验。用户可以轻松添加类、调整布局、编辑属性和方法，并实时预览更改。这些功能使团队协作更加高效，尤其适合不熟悉Mermaid语法的用户。
+
+---
+
+## <a name="7"></a>7. 家庭低音 - 用NES演奏音乐 
+<small>🔗 [linusakesson.net](https://www.linusakesson.net/music/family-bass/index.php): The Family Bass - Music with an NES</small>
+
+
+| 🔥🔥: 137 \| 💬: [10](https://news.ycombinator.com/item?id=42735413) \| 🗓️ 2025-01-17
+
+
+<br />
+Linus Akesson通过**定制适配器**将Family BASIC键盘连接到NES，以实时演奏其独特的三角波形。他详细介绍了适配器的工作原理，包括键盘矩阵的信号传输和NES控制器端口的限制。最终，他使用**ATtiny85微控制器**将并行信号转换为串行数据流，并在NES上实现了键盘输入。他还分享了一首原创NES风格曲目《Platform Hopping》的演奏视频。
+
+---
+
 ## <a name="8"></a>8. Zig：发布月期待什么 
 <small>🔗 [ziglang.org](https://ziglang.org/news/what-to-expect-from-release-month/): Zig: What to Expect from Release Month</small>
 
 
-| 🔥🔥: 120 \| 💬: [51](https://news.ycombinator.com/item?id=42737345) \| 🗓️ 2025-01-17
+| 🔥🔥: 120 \| 💬: [52](https://news.ycombinator.com/item?id=42737345) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -122,7 +122,7 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 <small>🔗 [games.productartistry.com](https://games.productartistry.com/games/dark-patterns): Show HN: Interactive game teaching dark patterns in UX design</small>
 
 
-| 🔥: 95 \| 💬: [43](https://news.ycombinator.com/item?id=42737778) \| 🗓️ 2025-01-17
+| 🔥🔥: 101 \| 💬: [43](https://news.ycombinator.com/item?id=42737778) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -134,7 +134,7 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 <small>🔗 [apnews.com](https://apnews.com/article/drug-prices-medicare-biden-trump-aae2271614f5959b484e5f081313f2e1): Ozempic and Wegovy are selected for Medicare's price negotiations</small>
 
 
-| 🔥: 92 \| 💬: [111](https://news.ycombinator.com/item?id=42737985) \| 🗓️ 2025-01-17
+| 🔥: 93 \| 💬: [114](https://news.ycombinator.com/item?id=42737985) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -158,7 +158,7 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 <small>🔗 [aeon.co](https://aeon.co/essays/the-french-modernists-loathed-and-loved-the-mass-media-of-their-day): French modernists were alarmed, inspired by newspaper's voracious dynamism</small>
 
 
-| 🔥: 87 \| 💬: [26](https://news.ycombinator.com/item?id=42739572) \| 🗓️ 2025-01-17
+| 🔥: 89 \| 💬: [26](https://news.ycombinator.com/item?id=42739572) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -170,7 +170,7 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 <small>🔗 [cceckman.com](https://cceckman.com/writing/branchless-utf8-encoding/): Branchless UTF-8 Encoding</small>
 
 
-| 🔥: 79 \| 💬: [21](https://news.ycombinator.com/item?id=42742184) \| 🗓️ 2025-01-17
+| 🔥: 83 \| 💬: [24](https://news.ycombinator.com/item?id=42742184) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -182,7 +182,7 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 <small>🔗 [github.com](https://github.com/tomhea/c2fj): Show HN: Compile C to Not Gates</small>
 
 
-| 🔥: 66 \| 💬: [33](https://news.ycombinator.com/item?id=42742350) \| 🗓️ 2025-01-17
+| 🔥: 76 \| 💬: [33](https://news.ycombinator.com/item?id=42742350) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -190,23 +190,11 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 
 ---
 
-## <a name="15"></a>15. 通用汽车承认将司机位置数据提供给保险公司，导致保费上涨 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/01/17/gm_settles_ftc_charges/): GM parks claims driver location data was given to insurers, pushing up premiums</small>
-
-
-| 🔥: 58 \| 💬: [55](https://news.ycombinator.com/item?id=42737502) \| 🗓️ 2025-01-17
-
-
-<br />
-通用汽车（GM）因**OnStar智能驾驶程序**收集并共享司机位置数据，与美国联邦贸易委员会（FTC）达成和解。该程序未经用户同意，将数据提供给第三方公司，用于保险公司评估司机风险并提高保费。GM已终止该程序，并承诺未来需获得用户明确同意才能收集数据。FTC要求GM在20年内遵守数据隐私规定，禁止未经许可共享位置数据。
-
----
-
-## <a name="16"></a>16. 无需X11的图形实践 
+## <a name="15"></a>15. 无需X11的图形实践 
 <small>🔗 [blogsystem5.substack.com](https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11): Hands-On Graphics Without X11</small>
 
 
-| 🔥: 58 \| 💬: [10](https://news.ycombinator.com/item?id=42741155) \| 🗓️ 2025-01-17
+| 🔥: 64 \| 💬: [13](https://news.ycombinator.com/item?id=42741155) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -214,11 +202,23 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 
 ---
 
+## <a name="16"></a>16. 通用汽车承认将司机位置数据提供给保险公司，导致保费上涨 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/01/17/gm_settles_ftc_charges/): GM parks claims driver location data was given to insurers, pushing up premiums</small>
+
+
+| 🔥: 59 \| 💬: [55](https://news.ycombinator.com/item?id=42737502) \| 🗓️ 2025-01-17
+
+
+<br />
+通用汽车（GM）因**OnStar智能驾驶程序**收集并共享司机位置数据，与美国联邦贸易委员会（FTC）达成和解。该程序未经用户同意，将数据提供给第三方公司，用于保险公司评估司机风险并提高保费。GM已终止该程序，并承诺未来需获得用户明确同意才能收集数据。FTC要求GM在20年内遵守数据隐私规定，禁止未经许可共享位置数据。
+
+---
+
 ## <a name="17"></a>17. 伊斯的传说 
 <small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Ys): Ys</small>
 
 
-| 🔥: 44 \| 💬: [7](https://news.ycombinator.com/item?id=42737100) \| 🗓️ 2025-01-17
+| 🔥: 45 \| 💬: [7](https://news.ycombinator.com/item?id=42737100) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -242,7 +242,7 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 <small>🔗 [github.com](https://github.com/rgl-epfl/drtvam): Dr. TVAM – Inverse Rendering for Tomographic Volumetric Additive Manufacturing</small>
 
 
-| 🔥: 37 \| 💬: [8](https://news.ycombinator.com/item?id=42740183) \| 🗓️ 2025-01-17
+| 🔥: 38 \| 💬: [8](https://news.ycombinator.com/item?id=42740183) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -250,14 +250,14 @@ Dr. TVAM 是一个基于 Mitsuba 渲染器的**逆向渲染框架**，专为**�
 
 ---
 
-## <a name="20"></a>20. 失事的莫罗城堡 (The Derelict) 
-<small>🔗 [damninteresting.com](https://www.damninteresting.com/the-derelict/): The Derelict (2015)</small>
+## <a name="20"></a>20. 《纽约时报每日文字游戏Waffle的数学分析》 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2501.09286): Mathematics of the daily word game Waffle</small>
 
 
-| 🔥: 32 \| 💬: [3](https://news.ycombinator.com/item?id=42736968) \| 🗓️ 2025-01-17
+| 🔥: 34 \| 💬: [12](https://news.ycombinator.com/item?id=42742057) \| 🗓️ 2025-01-17
 
 
 <br />
-1934年，豪华邮轮**莫罗城堡**在暴风雨中航行时，船长突然去世，随后船上发生**火灾**。由于船员缺乏训练和火灾蔓延迅速，乘客和船员陷入混乱。尽管船上有先进的救生设备，但缺乏有效的安全演练，导致疏散困难。最终，火灾失控，船只在风暴中陷入危机。
+本文研究了《Waffle》游戏的**排列组合数学**，解释了为何某些游戏容易解决，而极端情况则非常困难。完美解谜需在21个方格上形成**11个轨道**，且至少有一个长度为1的轨道。研究通过6页内容及4幅彩色图表深入探讨了这一现象。
 
 ---
