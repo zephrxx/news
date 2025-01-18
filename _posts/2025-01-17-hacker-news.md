@@ -26,7 +26,7 @@ tags:
 <small>🔗 [romanzipp.com](https://romanzipp.com/blog/no-you-cant-use-your-6299-canon-camera-as-a-webcam): Canon wants us to pay for using our own camera as a webcam</small>
 
 
-| 🔥🔥: 986 \| 💬: [623](https://news.ycombinator.com/item?id=42735393) \| 🗓️ 2025-01-17
+| 🔥🔥: 989 \| 💬: [624](https://news.ycombinator.com/item?id=42735393) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html): Supreme Court upholds TikTok ban, but Trump might offer lifeline</small>
 
 
-| 🔥🔥: 854 \| 💬: [2215](https://news.ycombinator.com/item?id=42738464) \| 🗓️ 2025-01-17
+| 🔥🔥: 863 \| 💬: [2235](https://news.ycombinator.com/item?id=42738464) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [lcamtuf.substack.com](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle): Investigating an "evil" RJ45 dongle</small>
 
 
-| 🔥🔥: 298 \| 💬: [83](https://news.ycombinator.com/item?id=42743033) \| 🗓️ 2025-01-17
+| 🔥🔥: 315 \| 💬: [87](https://news.ycombinator.com/item?id=42743033) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -62,7 +62,7 @@ tags:
 <small>🔗 [blog.railway.com](https://blog.railway.com/p/data-center-build-part-one): So you want to build your own data center</small>
 
 
-| 🔥🔥: 280 \| 💬: [122](https://news.ycombinator.com/item?id=42743019) \| 🗓️ 2025-01-17
+| 🔥🔥: 298 \| 💬: [128](https://news.ycombinator.com/item?id=42743019) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -74,7 +74,7 @@ Railway 从依赖 Google Cloud Platform 转向自建数据中心，以解决**�
 <small>🔗 [blog.sourcedive.net](https://blog.sourcedive.net/brood-war-korean-translations/): Brood War Korean Translations</small>
 
 
-| 🔥🔥: 247 \| 💬: [80](https://news.ycombinator.com/item?id=42740596) \| 🗓️ 2025-01-17
+| 🔥🔥: 253 \| 💬: [83](https://news.ycombinator.com/item?id=42740596) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -86,7 +86,7 @@ Railway 从依赖 Google Cloud Platform 转向自建数据中心，以解决**�
 <small>🔗 [docs.mermaidchart.com](https://docs.mermaidchart.com/blog/posts/gui-for-editing-mermaid-class-diagrams): Show HN: GUI for editing Mermaid class diagrams</small>
 
 
-| 🔥🔥: 165 \| 💬: [46](https://news.ycombinator.com/item?id=42738656) \| 🗓️ 2025-01-17
+| 🔥🔥: 168 \| 💬: [46](https://news.ycombinator.com/item?id=42738656) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -98,7 +98,7 @@ Mermaid图表因其快速绘制复杂图表的能力而广受欢迎，现在通�
 <small>🔗 [linusakesson.net](https://www.linusakesson.net/music/family-bass/index.php): The Family Bass - Music with an NES</small>
 
 
-| 🔥🔥: 144 \| 💬: [11](https://news.ycombinator.com/item?id=42735413) \| 🗓️ 2025-01-17
+| 🔥🔥: 145 \| 💬: [12](https://news.ycombinator.com/item?id=42735413) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -106,11 +106,23 @@ Linus Akesson通过**定制适配器**将Family BASIC键盘连接到NES，以实
 
 ---
 
-## <a name="8"></a>8. Show HN: 互动游戏教你识别UX设计中的黑暗模式 
+## <a name="8"></a>8. 使用ChatGPT对环境无害 
+<small>🔗 [andymasley.substack.com](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for): Using ChatGPT is not bad for the environment</small>
+
+
+| 🔥🔥: 139 \| 💬: [129](https://news.ycombinator.com/item?id=42745847) \| 🗓️ 2025-01-17
+
+
+<br />
+文章反驳了关于ChatGPT对环境有害的常见误解，指出其碳排放和水资源消耗被夸大。**关键点**在于，ChatGPT的排放量与其他日常活动相比微不足道，且其**实用价值**远大于环境影响。作者呼吁关注更重要的系统性气候问题，而非过度纠结于个体行为。
+
+---
+
+## <a name="9"></a>9. Show HN: 互动游戏教你识别UX设计中的黑暗模式 
 <small>🔗 [games.productartistry.com](https://games.productartistry.com/games/dark-patterns): Show HN: Interactive game teaching dark patterns in UX design</small>
 
 
-| 🔥🔥: 125 \| 💬: [46](https://news.ycombinator.com/item?id=42737778) \| 🗓️ 2025-01-17
+| 🔥🔥: 129 \| 💬: [48](https://news.ycombinator.com/item?id=42737778) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -118,11 +130,11 @@ Linus Akesson通过**定制适配器**将Family BASIC键盘连接到NES，以实
 
 ---
 
-## <a name="9"></a>9. Ozempic和Wegovy被纳入Medicare价格谈判名单 
+## <a name="10"></a>10. Ozempic和Wegovy被纳入Medicare价格谈判名单 
 <small>🔗 [apnews.com](https://apnews.com/article/drug-prices-medicare-biden-trump-aae2271614f5959b484e5f081313f2e1): Ozempic and Wegovy are selected for Medicare's price negotiations</small>
 
 
-| 🔥🔥: 122 \| 💬: [159](https://news.ycombinator.com/item?id=42737985) \| 🗓️ 2025-01-17
+| 🔥🔥: 129 \| 💬: [165](https://news.ycombinator.com/item?id=42737985) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -130,11 +142,11 @@ Linus Akesson通过**定制适配器**将Family BASIC键盘连接到NES，以实
 
 ---
 
-## <a name="10"></a>10. Zig：发布月期待什么 
+## <a name="11"></a>11. Zig：发布月期待什么 
 <small>🔗 [ziglang.org](https://ziglang.org/news/what-to-expect-from-release-month/): Zig: What to Expect from Release Month</small>
 
 
-| 🔥🔥: 120 \| 💬: [53](https://news.ycombinator.com/item?id=42737345) \| 🗓️ 2025-01-17
+| 🔥🔥: 122 \| 💬: [54](https://news.ycombinator.com/item?id=42737345) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -142,23 +154,11 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 
 ---
 
-## <a name="11"></a>11. 无分支UTF-8编码 
-<small>🔗 [cceckman.com](https://cceckman.com/writing/branchless-utf8-encoding/): Branchless UTF-8 Encoding</small>
-
-
-| 🔥🔥: 108 \| 💬: [28](https://news.ycombinator.com/item?id=42742184) \| 🗓️ 2025-01-17
-
-
-<br />
-本文探讨了如何在不使用分支的情况下将Unicode码点编码为UTF-8。通过**计数前导零**和使用**布尔值作为整数**的技巧，作者实现了一个无分支的函数来计算UTF-8编码所需的字节数。虽然这种方法在性能上可能不如标准库的实现，但它展示了如何通过位操作和查找表来避免条件分支。代码已发布在MIT许可证下。
-
----
-
 ## <a name="12"></a>12. Show HN: 将 C 语言编译为 Not 门 
 <small>🔗 [github.com](https://github.com/tomhea/c2fj): Show HN: Compile C to Not Gates</small>
 
 
-| 🔥🔥: 107 \| 💬: [40](https://news.ycombinator.com/item?id=42742350) \| 🗓️ 2025-01-17
+| 🔥🔥: 115 \| 💬: [42](https://news.ycombinator.com/item?id=42742350) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -166,11 +166,23 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 
 ---
 
-## <a name="13"></a>13. 法国现代主义者对报纸的贪婪活力感到震惊与启发 
+## <a name="13"></a>13. 无分支UTF-8编码 
+<small>🔗 [cceckman.com](https://cceckman.com/writing/branchless-utf8-encoding/): Branchless UTF-8 Encoding</small>
+
+
+| 🔥🔥: 114 \| 💬: [30](https://news.ycombinator.com/item?id=42742184) \| 🗓️ 2025-01-17
+
+
+<br />
+本文探讨了如何在不使用分支的情况下将Unicode码点编码为UTF-8。通过**计数前导零**和使用**布尔值作为整数**的技巧，作者实现了一个无分支的函数来计算UTF-8编码所需的字节数。虽然这种方法在性能上可能不如标准库的实现，但它展示了如何通过位操作和查找表来避免条件分支。代码已发布在MIT许可证下。
+
+---
+
+## <a name="14"></a>14. 法国现代主义者对报纸的贪婪活力感到震惊与启发 
 <small>🔗 [aeon.co](https://aeon.co/essays/the-french-modernists-loathed-and-loved-the-mass-media-of-their-day): French modernists were alarmed, inspired by newspaper's voracious dynamism</small>
 
 
-| 🔥🔥: 103 \| 💬: [33](https://news.ycombinator.com/item?id=42739572) \| 🗓️ 2025-01-17
+| 🔥🔥: 107 \| 💬: [33](https://news.ycombinator.com/item?id=42739572) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -178,7 +190,7 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 
 ---
 
-## <a name="14"></a>14. 项目迷你机架——紧凑便携的家庭实验室 
+## <a name="15"></a>15. 项目迷你机架——紧凑便携的家庭实验室 
 <small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/project-mini-rack-compact-and-portable-homelabs): Project Mini Rack – compact and portable homelabs</small>
 
 
@@ -190,35 +202,11 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 
 ---
 
-## <a name="15"></a>15. 使用ChatGPT对环境无害 
-<small>🔗 [andymasley.substack.com](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for): Using ChatGPT is not bad for the environment</small>
-
-
-| 🔥: 95 \| 💬: [74](https://news.ycombinator.com/item?id=42745847) \| 🗓️ 2025-01-17
-
-
-<br />
-文章反驳了关于ChatGPT对环境有害的常见误解，指出其碳排放和水资源消耗被夸大。**关键点**在于，ChatGPT的排放量与其他日常活动相比微不足道，且其**实用价值**远大于环境影响。作者呼吁关注更重要的系统性气候问题，而非过度纠结于个体行为。
-
----
-
-## <a name="16"></a>16. 无需X11的图形实践 
-<small>🔗 [blogsystem5.substack.com](https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11): Hands-On Graphics Without X11</small>
-
-
-| 🔥: 86 \| 💬: [20](https://news.ycombinator.com/item?id=42741155) \| 🗓️ 2025-01-17
-
-
-<br />
-本文介绍了如何在NetBSD系统中通过**wscons框架**直接访问帧缓冲区和键盘，实现图形渲染。文章详细解析了**wsdisplay**和**wskbd**的层次结构，展示了如何通过**mmap**映射帧缓冲区并绘制图形，同时处理键盘输入。通过这种方式，用户可以在不依赖X11或Wayland的情况下实现图形交互，类似于早期的DOS模式13h。
-
----
-
-## <a name="17"></a>17. 美国最高法院维持TikTok禁令的EFF声明 
+## <a name="16"></a>16. 美国最高法院维持TikTok禁令的EFF声明 
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/01/eff-statement-us-supreme-courts-decision-uphold-tiktok-ban): EFF statement on U.S. Supreme Court's decision to uphold TikTok ban</small>
 
 
-| 🔥: 80 \| 💬: [73](https://news.ycombinator.com/item?id=42744695) \| 🗓️ 2025-01-17
+| 🔥: 97 \| 💬: [87](https://news.ycombinator.com/item?id=42744695) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -226,11 +214,23 @@ EFF对最高法院未进行严格的**第一修正案审查**表示失望，认�
 
 ---
 
+## <a name="17"></a>17. 无需X11的图形实践 
+<small>🔗 [blogsystem5.substack.com](https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11): Hands-On Graphics Without X11</small>
+
+
+| 🔥: 90 \| 💬: [20](https://news.ycombinator.com/item?id=42741155) \| 🗓️ 2025-01-17
+
+
+<br />
+本文介绍了如何在NetBSD系统中通过**wscons框架**直接访问帧缓冲区和键盘，实现图形渲染。文章详细解析了**wsdisplay**和**wskbd**的层次结构，展示了如何通过**mmap**映射帧缓冲区并绘制图形，同时处理键盘输入。通过这种方式，用户可以在不依赖X11或Wayland的情况下实现图形交互，类似于早期的DOS模式13h。
+
+---
+
 ## <a name="18"></a>18. 晚餐摄入更多钾与较少睡眠障碍相关——研究 
 <small>🔗 [nutraingredients-asia.com](https://www.nutraingredients-asia.com/Article/2025/01/07/higher-potassium-intake-at-dinner-linked-to-fewer-sleep-disturbances/): Higher potassium intake at dinner linked to fewer sleep disturbances – study</small>
 
 
-| 🔥: 74 \| 💬: [34](https://news.ycombinator.com/item?id=42742161) \| 🗓️ 2025-01-17
+| 🔥: 88 \| 💬: [47](https://news.ycombinator.com/item?id=42742161) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -242,7 +242,7 @@ EFF对最高法院未进行严格的**第一修正案审查**表示失望，认�
 <small>🔗 [smithsonianmag.com](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/): Can you read this cursive handwriting? The National Archives wants your help</small>
 
 
-| 🔥: 66 \| 💬: [90](https://news.ycombinator.com/item?id=42745334) \| 🗓️ 2025-01-17
+| 🔥: 71 \| 💬: [93](https://news.ycombinator.com/item?id=42745334) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -254,7 +254,7 @@ EFF对最高法院未进行严格的**第一修正案审查**表示失望，认�
 <small>🔗 [theregister.com](https://www.theregister.com/2025/01/17/gm_settles_ftc_charges/): GM parks claims driver location data was given to insurers, pushing up premiums</small>
 
 
-| 🔥: 59 \| 💬: [56](https://news.ycombinator.com/item?id=42737502) \| 🗓️ 2025-01-17
+| 🔥: 60 \| 💬: [56](https://news.ycombinator.com/item?id=42737502) \| 🗓️ 2025-01-17
 
 
 <br />
