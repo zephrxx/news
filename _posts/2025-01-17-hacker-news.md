@@ -11,8 +11,8 @@ tags:
 1. 佳能要求用户付费使用自己的相机作为网络摄像头；
 1. 最高法院维持TikTok禁令，但特朗普可能提供转机；
 1. 《星际争霸：母巢之战》韩语翻译项目；
-1. 家庭低音 - 用NES演奏音乐；
 1. 调查“邪恶”RJ45转换器；
+1. Mermaid类图编辑的GUI工具；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [romanzipp.com](https://romanzipp.com/blog/no-you-cant-use-your-6299-canon-camera-as-a-webcam): Canon wants us to pay for using our own camera as a webcam</small>
 
 
-| 🔥🔥: 955 \| 💬: [604](https://news.ycombinator.com/item?id=42735393) \| 🗓️ 2025-01-17
+| 🔥🔥: 967 \| 💬: [609](https://news.ycombinator.com/item?id=42735393) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html): Supreme Court upholds TikTok ban, but Trump might offer lifeline</small>
 
 
-| 🔥🔥: 760 \| 💬: [1863](https://news.ycombinator.com/item?id=42738464) \| 🗓️ 2025-01-17
+| 🔥🔥: 781 \| 💬: [1951](https://news.ycombinator.com/item?id=42738464) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [blog.sourcedive.net](https://blog.sourcedive.net/brood-war-korean-translations/): Brood War Korean Translations</small>
 
 
-| 🔥🔥: 199 \| 💬: [55](https://news.ycombinator.com/item?id=42740596) \| 🗓️ 2025-01-17
+| 🔥🔥: 210 \| 💬: [62](https://news.ycombinator.com/item?id=42740596) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -58,23 +58,11 @@ tags:
 
 ---
 
-## <a name="4"></a>4. 家庭低音 - 用NES演奏音乐 
-<small>🔗 [linusakesson.net](https://www.linusakesson.net/music/family-bass/index.php): The Family Bass - Music with an NES</small>
-
-
-| 🔥🔥: 131 \| 💬: [9](https://news.ycombinator.com/item?id=42735413) \| 🗓️ 2025-01-17
-
-
-<br />
-Linus Akesson通过**定制适配器**将Family BASIC键盘连接到NES，以实时演奏其独特的三角波形。他详细介绍了适配器的工作原理，包括键盘矩阵的信号传输和NES控制器端口的限制。最终，他使用**ATtiny85微控制器**将并行信号转换为串行数据流，并在NES上实现了键盘输入。他还分享了一首原创NES风格曲目《Platform Hopping》的演奏视频。
-
----
-
-## <a name="5"></a>5. 调查“邪恶”RJ45转换器 
+## <a name="4"></a>4. 调查“邪恶”RJ45转换器 
 <small>🔗 [lcamtuf.substack.com](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle): Investigating an "Evil" RJ45 Dongle</small>
 
 
-| 🔥🔥: 128 \| 💬: [49](https://news.ycombinator.com/item?id=42743033) \| 🗓️ 2025-01-17
+| 🔥🔥: 177 \| 💬: [64](https://news.ycombinator.com/item?id=42743033) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -82,11 +70,11 @@ Linus Akesson通过**定制适配器**将Family BASIC键盘连接到NES，以实
 
 ---
 
-## <a name="6"></a>6. Mermaid类图编辑的GUI工具 
+## <a name="5"></a>5. Mermaid类图编辑的GUI工具 
 <small>🔗 [docs.mermaidchart.com](https://docs.mermaidchart.com/blog/posts/gui-for-editing-mermaid-class-diagrams): Show HN: GUI for editing Mermaid class diagrams</small>
 
 
-| 🔥🔥: 126 \| 💬: [39](https://news.ycombinator.com/item?id=42738656) \| 🗓️ 2025-01-17
+| 🔥🔥: 137 \| 💬: [39](https://news.ycombinator.com/item?id=42738656) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -94,7 +82,31 @@ Mermaid图表因其快速绘制复杂图表的能力而广受欢迎，现在通�
 
 ---
 
-## <a name="7"></a>7. Zig：发布月期待什么 
+## <a name="6"></a>6. 家庭低音 - 用NES演奏音乐 
+<small>🔗 [linusakesson.net](https://www.linusakesson.net/music/family-bass/index.php): The Family Bass - Music with an NES</small>
+
+
+| 🔥🔥: 134 \| 💬: [9](https://news.ycombinator.com/item?id=42735413) \| 🗓️ 2025-01-17
+
+
+<br />
+Linus Akesson通过**定制适配器**将Family BASIC键盘连接到NES，以实时演奏其独特的三角波形。他详细介绍了适配器的工作原理，包括键盘矩阵的信号传输和NES控制器端口的限制。最终，他使用**ATtiny85微控制器**将并行信号转换为串行数据流，并在NES上实现了键盘输入。他还分享了一首原创NES风格曲目《Platform Hopping》的演奏视频。
+
+---
+
+## <a name="7"></a>7. 你想自己建数据中心吗？ 
+<small>🔗 [blog.railway.com](https://blog.railway.com/p/data-center-build-part-one): So You Want to Build Your Own Data Center</small>
+
+
+| 🔥🔥: 134 \| 💬: [41](https://news.ycombinator.com/item?id=42743019) \| 🗓️ 2025-01-17
+
+
+<br />
+Railway 从依赖 Google Cloud Platform 转向自建数据中心，以解决**云平台限制**和**高成本**问题。他们选择了**笼式托管**，重点解决了**电力密度**、**网络冗余**和**冷却系统**等挑战。通过专业团队和详细规划，Railway 成功部署了首个数据中心，并开发了自动化工具以简化后续扩展。
+
+---
+
+## <a name="8"></a>8. Zig：发布月期待什么 
 <small>🔗 [ziglang.org](https://ziglang.org/news/what-to-expect-from-release-month/): Zig: What to Expect from Release Month</small>
 
 
@@ -106,11 +118,11 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 
 ---
 
-## <a name="8"></a>8. Show HN: 互动游戏教你识别UX设计中的黑暗模式 
+## <a name="9"></a>9. Show HN: 互动游戏教你识别UX设计中的黑暗模式 
 <small>🔗 [games.productartistry.com](https://games.productartistry.com/games/dark-patterns): Show HN: Interactive game teaching dark patterns in UX design</small>
 
 
-| 🔥: 89 \| 💬: [34](https://news.ycombinator.com/item?id=42737778) \| 🗓️ 2025-01-17
+| 🔥: 95 \| 💬: [43](https://news.ycombinator.com/item?id=42737778) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -118,11 +130,11 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 
 ---
 
-## <a name="9"></a>9. Ozempic和Wegovy被纳入Medicare价格谈判名单 
+## <a name="10"></a>10. Ozempic和Wegovy被纳入Medicare价格谈判名单 
 <small>🔗 [apnews.com](https://apnews.com/article/drug-prices-medicare-biden-trump-aae2271614f5959b484e5f081313f2e1): Ozempic and Wegovy are selected for Medicare's price negotiations</small>
 
 
-| 🔥: 89 \| 💬: [102](https://news.ycombinator.com/item?id=42737985) \| 🗓️ 2025-01-17
+| 🔥: 92 \| 💬: [111](https://news.ycombinator.com/item?id=42737985) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -130,11 +142,11 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 
 ---
 
-## <a name="10"></a>10. 项目迷你机架——紧凑便携的家庭实验室 
+## <a name="11"></a>11. 项目迷你机架——紧凑便携的家庭实验室 
 <small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/project-mini-rack-compact-and-portable-homelabs): Project Mini Rack – compact and portable homelabs</small>
 
 
-| 🔥: 88 \| 💬: [37](https://news.ycombinator.com/item?id=42738284) \| 🗓️ 2025-01-17
+| 🔥: 91 \| 💬: [38](https://news.ycombinator.com/item?id=42738284) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -142,11 +154,11 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 
 ---
 
-## <a name="11"></a>11. 法国现代主义者对报纸的贪婪活力感到震惊与启发 
+## <a name="12"></a>12. 法国现代主义者对报纸的贪婪活力感到震惊与启发 
 <small>🔗 [aeon.co](https://aeon.co/essays/the-french-modernists-loathed-and-loved-the-mass-media-of-their-day): French modernists were alarmed, inspired by newspaper's voracious dynamism</small>
 
 
-| 🔥: 84 \| 💬: [24](https://news.ycombinator.com/item?id=42739572) \| 🗓️ 2025-01-17
+| 🔥: 87 \| 💬: [26](https://news.ycombinator.com/item?id=42739572) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -154,23 +166,11 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 
 ---
 
-## <a name="12"></a>12. 你想自己建数据中心吗？ 
-<small>🔗 [blog.railway.com](https://blog.railway.com/p/data-center-build-part-one): So You Want to Build Your Own Data Center</small>
-
-
-| 🔥: 77 \| 💬: [23](https://news.ycombinator.com/item?id=42743019) \| 🗓️ 2025-01-17
-
-
-<br />
-Railway 从依赖 Google Cloud Platform 转向自建数据中心，以解决**云平台限制**和**高成本**问题。他们选择了**笼式托管**，重点解决了**电力密度**、**网络冗余**和**冷却系统**等挑战。通过专业团队和详细规划，Railway 成功部署了首个数据中心，并开发了自动化工具以简化后续扩展。
-
----
-
 ## <a name="13"></a>13. 无分支UTF-8编码 
 <small>🔗 [cceckman.com](https://cceckman.com/writing/branchless-utf8-encoding/): Branchless UTF-8 Encoding</small>
 
 
-| 🔥: 66 \| 💬: [17](https://news.ycombinator.com/item?id=42742184) \| 🗓️ 2025-01-17
+| 🔥: 79 \| 💬: [21](https://news.ycombinator.com/item?id=42742184) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -178,7 +178,19 @@ Railway 从依赖 Google Cloud Platform 转向自建数据中心，以解决**�
 
 ---
 
-## <a name="14"></a>14. 通用汽车承认将司机位置数据提供给保险公司，导致保费上涨 
+## <a name="14"></a>14. Show HN: 将 C 语言编译为 Not 门 
+<small>🔗 [github.com](https://github.com/tomhea/c2fj): Show HN: Compile C to Not Gates</small>
+
+
+| 🔥: 66 \| 💬: [33](https://news.ycombinator.com/item?id=42742350) \| 🗓️ 2025-01-17
+
+
+<br />
+该项目展示了如何将 **C 语言** 编译为 **FlipJump** 语言，最终生成 **.fjm** 文件。通过 **RiscV** 作为中间层，C 代码被转换为 FlipJump 操作，支持系统调用如 `exit` 和 `printf`。项目使用 **picolibc** 和 **RiscV 指令集**，并通过优化宏实现高效编译。适用于复杂 C 项目，编译时间与代码规模无关。
+
+---
+
+## <a name="15"></a>15. 通用汽车承认将司机位置数据提供给保险公司，导致保费上涨 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/01/17/gm_settles_ftc_charges/): GM parks claims driver location data was given to insurers, pushing up premiums</small>
 
 
@@ -190,23 +202,11 @@ Railway 从依赖 Google Cloud Platform 转向自建数据中心，以解决**�
 
 ---
 
-## <a name="15"></a>15. Show HN: 将 C 语言编译为 Not 门 
-<small>🔗 [github.com](https://github.com/tomhea/c2fj): Show HN: Compile C to Not Gates</small>
-
-
-| 🔥: 54 \| 💬: [26](https://news.ycombinator.com/item?id=42742350) \| 🗓️ 2025-01-17
-
-
-<br />
-该项目展示了如何将 **C 语言** 编译为 **FlipJump** 语言，最终生成 **.fjm** 文件。通过 **RiscV** 作为中间层，C 代码被转换为 FlipJump 操作，支持系统调用如 `exit` 和 `printf`。项目使用 **picolibc** 和 **RiscV 指令集**，并通过优化宏实现高效编译。适用于复杂 C 项目，编译时间与代码规模无关。
-
----
-
 ## <a name="16"></a>16. 无需X11的图形实践 
 <small>🔗 [blogsystem5.substack.com](https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11): Hands-On Graphics Without X11</small>
 
 
-| 🔥: 47 \| 💬: [8](https://news.ycombinator.com/item?id=42741155) \| 🗓️ 2025-01-17
+| 🔥: 58 \| 💬: [10](https://news.ycombinator.com/item?id=42741155) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -214,7 +214,19 @@ Railway 从依赖 Google Cloud Platform 转向自建数据中心，以解决**�
 
 ---
 
-## <a name="17"></a>17. 去马斯克化：Firefox 扩展将 Elon Musk 替换为浣熊 
+## <a name="17"></a>17. 伊斯的传说 
+<small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Ys): Ys</small>
+
+
+| 🔥: 44 \| 💬: [7](https://news.ycombinator.com/item?id=42737100) \| 🗓️ 2025-01-17
+
+
+<br />
+伊斯（**Ys**）是法国布列塔尼地区的一个**神话城市**，传说中被海洋吞没。故事围绕国王格拉德隆（**Gradlon**）和他的女儿达胡特（**Dahut**）展开。达胡特因偷取堤坝钥匙导致城市被洪水淹没，最终被父亲抛弃，化为美人鱼。传说中，伊斯在低潮时仍能听到钟声或看到废墟。
+
+---
+
+## <a name="18"></a>18. 去马斯克化：Firefox 扩展将 Elon Musk 替换为浣熊 
 <small>🔗 [addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/de-muskifier/): De-Muskifier: Firefox add-on to replace all instances of Elon Musk with raccoons</small>
 
 
@@ -226,23 +238,11 @@ Railway 从依赖 Google Cloud Platform 转向自建数据中心，以解决**�
 
 ---
 
-## <a name="18"></a>18. 伊斯的传说 
-<small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Ys): Ys</small>
-
-
-| 🔥: 40 \| 💬: [7](https://news.ycombinator.com/item?id=42737100) \| 🗓️ 2025-01-17
-
-
-<br />
-伊斯（**Ys**）是法国布列塔尼地区的一个**神话城市**，传说中被海洋吞没。故事围绕国王格拉德隆（**Gradlon**）和他的女儿达胡特（**Dahut**）展开。达胡特因偷取堤坝钥匙导致城市被洪水淹没，最终被父亲抛弃，化为美人鱼。传说中，伊斯在低潮时仍能听到钟声或看到废墟。
-
----
-
 ## <a name="19"></a>19. Dr. TVAM – 用于断层扫描体积增材制造的逆向渲染框架 
 <small>🔗 [github.com](https://github.com/rgl-epfl/drtvam): Dr. TVAM – Inverse Rendering for Tomographic Volumetric Additive Manufacturing</small>
 
 
-| 🔥: 32 \| 💬: [8](https://news.ycombinator.com/item?id=42740183) \| 🗓️ 2025-01-17
+| 🔥: 37 \| 💬: [8](https://news.ycombinator.com/item?id=42740183) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -254,7 +254,7 @@ Dr. TVAM 是一个基于 Mitsuba 渲染器的**逆向渲染框架**，专为**�
 <small>🔗 [damninteresting.com](https://www.damninteresting.com/the-derelict/): The Derelict (2015)</small>
 
 
-| 🔥: 29 \| 💬: [2](https://news.ycombinator.com/item?id=42736968) \| 🗓️ 2025-01-17
+| 🔥: 32 \| 💬: [3](https://news.ycombinator.com/item?id=42736968) \| 🗓️ 2025-01-17
 
 
 <br />
