@@ -26,7 +26,7 @@ tags:
 <small>🔗 [romanzipp.com](https://romanzipp.com/blog/no-you-cant-use-your-6299-canon-camera-as-a-webcam): Canon wants us to pay for using our own camera as a webcam</small>
 
 
-| 🔥🔥: 972 \| 💬: [613](https://news.ycombinator.com/item?id=42735393) \| 🗓️ 2025-01-17
+| 🔥🔥: 978 \| 💬: [618](https://news.ycombinator.com/item?id=42735393) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html): Supreme Court upholds TikTok ban, but Trump might offer lifeline</small>
 
 
-| 🔥🔥: 814 \| 💬: [2064](https://news.ycombinator.com/item?id=42738464) \| 🗓️ 2025-01-17
+| 🔥🔥: 828 \| 💬: [2117](https://news.ycombinator.com/item?id=42738464) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [lcamtuf.substack.com](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle): Investigating an "Evil" RJ45 Dongle</small>
 
 
-| 🔥🔥: 241 \| 💬: [71](https://news.ycombinator.com/item?id=42743033) \| 🗓️ 2025-01-17
+| 🔥🔥: 257 \| 💬: [79](https://news.ycombinator.com/item?id=42743033) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -62,7 +62,7 @@ tags:
 <small>🔗 [blog.sourcedive.net](https://blog.sourcedive.net/brood-war-korean-translations/): Brood War Korean Translations</small>
 
 
-| 🔥🔥: 220 \| 💬: [75](https://news.ycombinator.com/item?id=42740596) \| 🗓️ 2025-01-17
+| 🔥🔥: 226 \| 💬: [76](https://news.ycombinator.com/item?id=42740596) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -74,7 +74,7 @@ tags:
 <small>🔗 [blog.railway.com](https://blog.railway.com/p/data-center-build-part-one): So you want to build your own data center</small>
 
 
-| 🔥🔥: 194 \| 💬: [83](https://news.ycombinator.com/item?id=42743019) \| 🗓️ 2025-01-17
+| 🔥🔥: 223 \| 💬: [105](https://news.ycombinator.com/item?id=42743019) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -86,7 +86,7 @@ Railway 从依赖 Google Cloud Platform 转向自建数据中心，以解决**�
 <small>🔗 [docs.mermaidchart.com](https://docs.mermaidchart.com/blog/posts/gui-for-editing-mermaid-class-diagrams): Show HN: GUI for editing Mermaid class diagrams</small>
 
 
-| 🔥🔥: 148 \| 💬: [40](https://news.ycombinator.com/item?id=42738656) \| 🗓️ 2025-01-17
+| 🔥🔥: 152 \| 💬: [44](https://news.ycombinator.com/item?id=42738656) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -98,7 +98,7 @@ Mermaid图表因其快速绘制复杂图表的能力而广受欢迎，现在通�
 <small>🔗 [linusakesson.net](https://www.linusakesson.net/music/family-bass/index.php): The Family Bass - Music with an NES</small>
 
 
-| 🔥🔥: 138 \| 💬: [10](https://news.ycombinator.com/item?id=42735413) \| 🗓️ 2025-01-17
+| 🔥🔥: 139 \| 💬: [10](https://news.ycombinator.com/item?id=42735413) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -110,7 +110,7 @@ Linus Akesson通过**定制适配器**将Family BASIC键盘连接到NES，以实
 <small>🔗 [ziglang.org](https://ziglang.org/news/what-to-expect-from-release-month/): Zig: What to Expect from Release Month</small>
 
 
-| 🔥🔥: 120 \| 💬: [52](https://news.ycombinator.com/item?id=42737345) \| 🗓️ 2025-01-17
+| 🔥🔥: 120 \| 💬: [53](https://news.ycombinator.com/item?id=42737345) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -122,7 +122,7 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 <small>🔗 [games.productartistry.com](https://games.productartistry.com/games/dark-patterns): Show HN: Interactive game teaching dark patterns in UX design</small>
 
 
-| 🔥🔥: 109 \| 💬: [45](https://news.ycombinator.com/item?id=42737778) \| 🗓️ 2025-01-17
+| 🔥🔥: 112 \| 💬: [45](https://news.ycombinator.com/item?id=42737778) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -134,7 +134,7 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 <small>🔗 [apnews.com](https://apnews.com/article/drug-prices-medicare-biden-trump-aae2271614f5959b484e5f081313f2e1): Ozempic and Wegovy are selected for Medicare's price negotiations</small>
 
 
-| 🔥: 95 \| 💬: [115](https://news.ycombinator.com/item?id=42737985) \| 🗓️ 2025-01-17
+| 🔥🔥: 105 \| 💬: [125](https://news.ycombinator.com/item?id=42737985) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -146,7 +146,7 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 <small>🔗 [aeon.co](https://aeon.co/essays/the-french-modernists-loathed-and-loved-the-mass-media-of-their-day): French modernists were alarmed, inspired by newspaper's voracious dynamism</small>
 
 
-| 🔥: 94 \| 💬: [27](https://news.ycombinator.com/item?id=42739572) \| 🗓️ 2025-01-17
+| 🔥: 98 \| 💬: [30](https://news.ycombinator.com/item?id=42739572) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -154,23 +154,11 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 
 ---
 
-## <a name="12"></a>12. 项目迷你机架——紧凑便携的家庭实验室 
-<small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/project-mini-rack-compact-and-portable-homelabs): Project Mini Rack – compact and portable homelabs</small>
-
-
-| 🔥: 92 \| 💬: [38](https://news.ycombinator.com/item?id=42738284) \| 🗓️ 2025-01-17
-
-
-<br />
-**Project MINI RACK** 是一个开源项目，旨在帮助用户构建**10英寸迷你机架**，适用于家庭实验室、无线设备和其他电子项目。该项目提供了详细的设备清单和构建展示，帮助用户节省成本并优化空间。迷你机架适合预算有限或空间受限的用户，甚至可以携带到远程地点或车内使用。通过**PoE供电**和**固态存储**，迷你机架能够提供强大的计算能力。
-
----
-
-## <a name="13"></a>13. 无分支UTF-8编码 
+## <a name="12"></a>12. 无分支UTF-8编码 
 <small>🔗 [cceckman.com](https://cceckman.com/writing/branchless-utf8-encoding/): Branchless UTF-8 Encoding</small>
 
 
-| 🔥: 88 \| 💬: [26](https://news.ycombinator.com/item?id=42742184) \| 🗓️ 2025-01-17
+| 🔥: 97 \| 💬: [27](https://news.ycombinator.com/item?id=42742184) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -178,11 +166,23 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 
 ---
 
+## <a name="13"></a>13. 项目迷你机架——紧凑便携的家庭实验室 
+<small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/project-mini-rack-compact-and-portable-homelabs): Project Mini Rack – compact and portable homelabs</small>
+
+
+| 🔥: 94 \| 💬: [38](https://news.ycombinator.com/item?id=42738284) \| 🗓️ 2025-01-17
+
+
+<br />
+**Project MINI RACK** 是一个开源项目，旨在帮助用户构建**10英寸迷你机架**，适用于家庭实验室、无线设备和其他电子项目。该项目提供了详细的设备清单和构建展示，帮助用户节省成本并优化空间。迷你机架适合预算有限或空间受限的用户，甚至可以携带到远程地点或车内使用。通过**PoE供电**和**固态存储**，迷你机架能够提供强大的计算能力。
+
+---
+
 ## <a name="14"></a>14. Show HN: 将 C 语言编译为 Not 门 
 <small>🔗 [github.com](https://github.com/tomhea/c2fj): Show HN: Compile C to Not Gates</small>
 
 
-| 🔥: 83 \| 💬: [37](https://news.ycombinator.com/item?id=42742350) \| 🗓️ 2025-01-17
+| 🔥: 89 \| 💬: [37](https://news.ycombinator.com/item?id=42742350) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -194,7 +194,7 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 <small>🔗 [blogsystem5.substack.com](https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11): Hands-On Graphics Without X11</small>
 
 
-| 🔥: 67 \| 💬: [15](https://news.ycombinator.com/item?id=42741155) \| 🗓️ 2025-01-17
+| 🔥: 70 \| 💬: [17](https://news.ycombinator.com/item?id=42741155) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -214,7 +214,19 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 
 ---
 
-## <a name="17"></a>17. 伊斯的传说 
+## <a name="17"></a>17. 晚餐摄入更多钾与较少睡眠障碍相关——研究 
+<small>🔗 [nutraingredients-asia.com](https://www.nutraingredients-asia.com/Article/2025/01/07/higher-potassium-intake-at-dinner-linked-to-fewer-sleep-disturbances/): Higher potassium intake at dinner linked to fewer sleep disturbances – study</small>
+
+
+| 🔥: 50 \| 💬: [19](https://news.ycombinator.com/item?id=42742161) \| 🗓️ 2025-01-17
+
+
+<br />
+一项日本横断面研究发现，**钾摄入量**与睡眠质量相关，尤其是**晚餐摄入更多钾**与较少的睡眠障碍相关。研究使用Athens失眠量表评估睡眠，发现钾摄入量与失眠评分呈负相关。钾在肌肉放松、神经传导和血压调节中起关键作用，可能通过调节血压改善睡眠。钠摄入量与睡眠的关系仍需进一步验证。
+
+---
+
+## <a name="18"></a>18. 伊斯的传说 
 <small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Ys): Ys</small>
 
 
@@ -226,11 +238,11 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 
 ---
 
-## <a name="18"></a>18. Dr. TVAM – 用于断层扫描体积增材制造的逆向渲染框架 
+## <a name="19"></a>19. Dr. TVAM – 用于断层扫描体积增材制造的逆向渲染框架 
 <small>🔗 [github.com](https://github.com/rgl-epfl/drtvam): Dr. TVAM – Inverse Rendering for Tomographic Volumetric Additive Manufacturing</small>
 
 
-| 🔥: 44 \| 💬: [8](https://news.ycombinator.com/item?id=42740183) \| 🗓️ 2025-01-17
+| 🔥: 44 \| 💬: [9](https://news.ycombinator.com/item?id=42740183) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -238,7 +250,7 @@ Dr. TVAM 是一个基于 Mitsuba 渲染器的**逆向渲染框架**，专为**�
 
 ---
 
-## <a name="19"></a>19. 去马斯克化：Firefox 扩展将 Elon Musk 替换为浣熊 
+## <a name="20"></a>20. 去马斯克化：Firefox 扩展将 Elon Musk 替换为浣熊 
 <small>🔗 [addons.mozilla.org](https://addons.mozilla.org/en-US/firefox/addon/de-muskifier/): De-Muskifier: Firefox add-on to replace all instances of Elon Musk with raccoons</small>
 
 
@@ -247,17 +259,5 @@ Dr. TVAM 是一个基于 Mitsuba 渲染器的**逆向渲染框架**，专为**�
 
 <br />
 这款浏览器扩展将 **Elon Musk**、**SpaceX**、**Tesla** 及相关词汇替换为可爱的浣熊和浣熊小知识。该扩展基于关键词扫描，可能导致部分无关内容被意外修改。这是一个仅供娱乐的幽默项目，与任何提及的个人或组织无关。
-
----
-
-## <a name="20"></a>20. 晚餐摄入更多钾与较少睡眠障碍相关——研究 
-<small>🔗 [nutraingredients-asia.com](https://www.nutraingredients-asia.com/Article/2025/01/07/higher-potassium-intake-at-dinner-linked-to-fewer-sleep-disturbances/): Higher potassium intake at dinner linked to fewer sleep disturbances – study</small>
-
-
-| 🔥: 40 \| 💬: [9](https://news.ycombinator.com/item?id=42742161) \| 🗓️ 2025-01-17
-
-
-<br />
-一项日本横断面研究发现，**钾摄入量**与睡眠质量相关，尤其是**晚餐摄入更多钾**与较少的睡眠障碍相关。研究使用Athens失眠量表评估睡眠，发现钾摄入量与失眠评分呈负相关。钾在肌肉放松、神经传导和血压调节中起关键作用，可能通过调节血压改善睡眠。钠摄入量与睡眠的关系仍需进一步验证。
 
 ---
