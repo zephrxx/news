@@ -26,7 +26,7 @@ tags:
 <small>🔗 [romanzipp.com](https://romanzipp.com/blog/no-you-cant-use-your-6299-canon-camera-as-a-webcam): Canon wants us to pay for using our own camera as a webcam</small>
 
 
-| 🔥🔥: 983 \| 💬: [623](https://news.ycombinator.com/item?id=42735393) \| 🗓️ 2025-01-17
+| 🔥🔥: 986 \| 💬: [623](https://news.ycombinator.com/item?id=42735393) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/01/17/supreme-court-rules-to-uphold-tiktok-ban.html): Supreme Court upholds TikTok ban, but Trump might offer lifeline</small>
 
 
-| 🔥🔥: 847 \| 💬: [2196](https://news.ycombinator.com/item?id=42738464) \| 🗓️ 2025-01-17
+| 🔥🔥: 854 \| 💬: [2215](https://news.ycombinator.com/item?id=42738464) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [lcamtuf.substack.com](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle): Investigating an "evil" RJ45 dongle</small>
 
 
-| 🔥🔥: 289 \| 💬: [81](https://news.ycombinator.com/item?id=42743033) \| 🗓️ 2025-01-17
+| 🔥🔥: 298 \| 💬: [83](https://news.ycombinator.com/item?id=42743033) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -62,7 +62,7 @@ tags:
 <small>🔗 [blog.railway.com](https://blog.railway.com/p/data-center-build-part-one): So you want to build your own data center</small>
 
 
-| 🔥🔥: 263 \| 💬: [121](https://news.ycombinator.com/item?id=42743019) \| 🗓️ 2025-01-17
+| 🔥🔥: 280 \| 💬: [122](https://news.ycombinator.com/item?id=42743019) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -74,7 +74,7 @@ Railway 从依赖 Google Cloud Platform 转向自建数据中心，以解决**�
 <small>🔗 [blog.sourcedive.net](https://blog.sourcedive.net/brood-war-korean-translations/): Brood War Korean Translations</small>
 
 
-| 🔥🔥: 242 \| 💬: [78](https://news.ycombinator.com/item?id=42740596) \| 🗓️ 2025-01-17
+| 🔥🔥: 247 \| 💬: [80](https://news.ycombinator.com/item?id=42740596) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -86,7 +86,7 @@ Railway 从依赖 Google Cloud Platform 转向自建数据中心，以解决**�
 <small>🔗 [docs.mermaidchart.com](https://docs.mermaidchart.com/blog/posts/gui-for-editing-mermaid-class-diagrams): Show HN: GUI for editing Mermaid class diagrams</small>
 
 
-| 🔥🔥: 161 \| 💬: [46](https://news.ycombinator.com/item?id=42738656) \| 🗓️ 2025-01-17
+| 🔥🔥: 165 \| 💬: [46](https://news.ycombinator.com/item?id=42738656) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -98,7 +98,7 @@ Mermaid图表因其快速绘制复杂图表的能力而广受欢迎，现在通�
 <small>🔗 [linusakesson.net](https://www.linusakesson.net/music/family-bass/index.php): The Family Bass - Music with an NES</small>
 
 
-| 🔥🔥: 142 \| 💬: [10](https://news.ycombinator.com/item?id=42735413) \| 🗓️ 2025-01-17
+| 🔥🔥: 144 \| 💬: [11](https://news.ycombinator.com/item?id=42735413) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -106,7 +106,31 @@ Linus Akesson通过**定制适配器**将Family BASIC键盘连接到NES，以实
 
 ---
 
-## <a name="8"></a>8. Zig：发布月期待什么 
+## <a name="8"></a>8. Show HN: 互动游戏教你识别UX设计中的黑暗模式 
+<small>🔗 [games.productartistry.com](https://games.productartistry.com/games/dark-patterns): Show HN: Interactive game teaching dark patterns in UX design</small>
+
+
+| 🔥🔥: 125 \| 💬: [46](https://news.ycombinator.com/item?id=42737778) \| 🗓️ 2025-01-17
+
+
+<br />
+这款互动游戏通过**解密隐藏的设计技巧**，帮助玩家了解在线决策如何被操控。玩家将学会**识别操纵性模式**、理解设计心理学，并成为**更明智的数字用户**。游戏免费，支持分享或赞助开发者。
+
+---
+
+## <a name="9"></a>9. Ozempic和Wegovy被纳入Medicare价格谈判名单 
+<small>🔗 [apnews.com](https://apnews.com/article/drug-prices-medicare-biden-trump-aae2271614f5959b484e5f081313f2e1): Ozempic and Wegovy are selected for Medicare's price negotiations</small>
+
+
+| 🔥🔥: 122 \| 💬: [159](https://news.ycombinator.com/item?id=42737985) \| 🗓️ 2025-01-17
+
+
+<br />
+美国Medicare将**Ozempic**、**Wegovy**等15种药物列入价格谈判名单，旨在降低药品成本。这些药物包括治疗哮喘、关节炎和癌症的药物。此举预计将为纳税人和Medicare参保者节省数十亿美元。谈判结果将于2026年生效，部分参保者今年将受益于新规，处方药自付费用上限为2000美元。
+
+---
+
+## <a name="10"></a>10. Zig：发布月期待什么 
 <small>🔗 [ziglang.org](https://ziglang.org/news/what-to-expect-from-release-month/): Zig: What to Expect from Release Month</small>
 
 
@@ -118,35 +142,11 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 
 ---
 
-## <a name="9"></a>9. Show HN: 互动游戏教你识别UX设计中的黑暗模式 
-<small>🔗 [games.productartistry.com](https://games.productartistry.com/games/dark-patterns): Show HN: Interactive game teaching dark patterns in UX design</small>
-
-
-| 🔥🔥: 120 \| 💬: [46](https://news.ycombinator.com/item?id=42737778) \| 🗓️ 2025-01-17
-
-
-<br />
-这款互动游戏通过**解密隐藏的设计技巧**，帮助玩家了解在线决策如何被操控。玩家将学会**识别操纵性模式**、理解设计心理学，并成为**更明智的数字用户**。游戏免费，支持分享或赞助开发者。
-
----
-
-## <a name="10"></a>10. Ozempic和Wegovy被纳入Medicare价格谈判名单 
-<small>🔗 [apnews.com](https://apnews.com/article/drug-prices-medicare-biden-trump-aae2271614f5959b484e5f081313f2e1): Ozempic and Wegovy are selected for Medicare's price negotiations</small>
-
-
-| 🔥🔥: 119 \| 💬: [150](https://news.ycombinator.com/item?id=42737985) \| 🗓️ 2025-01-17
-
-
-<br />
-美国Medicare将**Ozempic**、**Wegovy**等15种药物列入价格谈判名单，旨在降低药品成本。这些药物包括治疗哮喘、关节炎和癌症的药物。此举预计将为纳税人和Medicare参保者节省数十亿美元。谈判结果将于2026年生效，部分参保者今年将受益于新规，处方药自付费用上限为2000美元。
-
----
-
 ## <a name="11"></a>11. 无分支UTF-8编码 
 <small>🔗 [cceckman.com](https://cceckman.com/writing/branchless-utf8-encoding/): Branchless UTF-8 Encoding</small>
 
 
-| 🔥🔥: 103 \| 💬: [28](https://news.ycombinator.com/item?id=42742184) \| 🗓️ 2025-01-17
+| 🔥🔥: 108 \| 💬: [28](https://news.ycombinator.com/item?id=42742184) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -154,27 +154,27 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 
 ---
 
-## <a name="12"></a>12. 法国现代主义者对报纸的贪婪活力感到震惊与启发 
-<small>🔗 [aeon.co](https://aeon.co/essays/the-french-modernists-loathed-and-loved-the-mass-media-of-their-day): French modernists were alarmed, inspired by newspaper's voracious dynamism</small>
-
-
-| 🔥🔥: 102 \| 💬: [33](https://news.ycombinator.com/item?id=42739572) \| 🗓️ 2025-01-17
-
-
-<br />
-19世纪法国作家如波德莱尔、巴尔扎克等对报纸的负面影响深感忧虑，认为其传播恐怖、腐蚀文化，甚至威胁文学的未来。然而，**报纸**也成为文学创新的实验室，催生了散文诗和连载小说等新形式。波德莱尔在批评报纸的同时，也赞美其艺术潜力，称其为**现代性**的象征。现代主义作家如马拉美和阿波利奈尔则试图在报纸的喧嚣中寻找艺术表达的空间，展现了文学与新闻的复杂互动。
-
----
-
-## <a name="13"></a>13. Show HN: 将 C 语言编译为 Not 门 
+## <a name="12"></a>12. Show HN: 将 C 语言编译为 Not 门 
 <small>🔗 [github.com](https://github.com/tomhea/c2fj): Show HN: Compile C to Not Gates</small>
 
 
-| 🔥🔥: 102 \| 💬: [38](https://news.ycombinator.com/item?id=42742350) \| 🗓️ 2025-01-17
+| 🔥🔥: 107 \| 💬: [40](https://news.ycombinator.com/item?id=42742350) \| 🗓️ 2025-01-17
 
 
 <br />
 该项目展示了如何将 **C 语言** 编译为 **FlipJump** 语言，最终生成 **.fjm** 文件。通过 **RiscV** 作为中间层，C 代码被转换为 FlipJump 操作，支持系统调用如 `exit` 和 `printf`。项目使用 **picolibc** 和 **RiscV 指令集**，并通过优化宏实现高效编译。适用于复杂 C 项目，编译时间与代码规模无关。
+
+---
+
+## <a name="13"></a>13. 法国现代主义者对报纸的贪婪活力感到震惊与启发 
+<small>🔗 [aeon.co](https://aeon.co/essays/the-french-modernists-loathed-and-loved-the-mass-media-of-their-day): French modernists were alarmed, inspired by newspaper's voracious dynamism</small>
+
+
+| 🔥🔥: 103 \| 💬: [33](https://news.ycombinator.com/item?id=42739572) \| 🗓️ 2025-01-17
+
+
+<br />
+19世纪法国作家如波德莱尔、巴尔扎克等对报纸的负面影响深感忧虑，认为其传播恐怖、腐蚀文化，甚至威胁文学的未来。然而，**报纸**也成为文学创新的实验室，催生了散文诗和连载小说等新形式。波德莱尔在批评报纸的同时，也赞美其艺术潜力，称其为**现代性**的象征。现代主义作家如马拉美和阿波利奈尔则试图在报纸的喧嚣中寻找艺术表达的空间，展现了文学与新闻的复杂互动。
 
 ---
 
@@ -190,11 +190,23 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 
 ---
 
-## <a name="15"></a>15. 无需X11的图形实践 
+## <a name="15"></a>15. 使用ChatGPT对环境无害 
+<small>🔗 [andymasley.substack.com](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for): Using ChatGPT is not bad for the environment</small>
+
+
+| 🔥: 95 \| 💬: [74](https://news.ycombinator.com/item?id=42745847) \| 🗓️ 2025-01-17
+
+
+<br />
+文章反驳了关于ChatGPT对环境有害的常见误解，指出其碳排放和水资源消耗被夸大。**关键点**在于，ChatGPT的排放量与其他日常活动相比微不足道，且其**实用价值**远大于环境影响。作者呼吁关注更重要的系统性气候问题，而非过度纠结于个体行为。
+
+---
+
+## <a name="16"></a>16. 无需X11的图形实践 
 <small>🔗 [blogsystem5.substack.com](https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11): Hands-On Graphics Without X11</small>
 
 
-| 🔥: 84 \| 💬: [19](https://news.ycombinator.com/item?id=42741155) \| 🗓️ 2025-01-17
+| 🔥: 86 \| 💬: [20](https://news.ycombinator.com/item?id=42741155) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -202,23 +214,11 @@ Zig 软件基金会宣布将于 **2025年2月17日** 发布 **0.14.0** 版本。
 
 ---
 
-## <a name="16"></a>16. 晚餐摄入更多钾与较少睡眠障碍相关——研究 
-<small>🔗 [nutraingredients-asia.com](https://www.nutraingredients-asia.com/Article/2025/01/07/higher-potassium-intake-at-dinner-linked-to-fewer-sleep-disturbances/): Higher potassium intake at dinner linked to fewer sleep disturbances – study</small>
-
-
-| 🔥: 69 \| 💬: [28](https://news.ycombinator.com/item?id=42742161) \| 🗓️ 2025-01-17
-
-
-<br />
-一项日本横断面研究发现，**钾摄入量**与睡眠质量相关，尤其是**晚餐摄入更多钾**与较少的睡眠障碍相关。研究使用Athens失眠量表评估睡眠，发现钾摄入量与失眠评分呈负相关。钾在肌肉放松、神经传导和血压调节中起关键作用，可能通过调节血压改善睡眠。钠摄入量与睡眠的关系仍需进一步验证。
-
----
-
 ## <a name="17"></a>17. 美国最高法院维持TikTok禁令的EFF声明 
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/01/eff-statement-us-supreme-courts-decision-uphold-tiktok-ban): EFF statement on U.S. Supreme Court's decision to uphold TikTok ban</small>
 
 
-| 🔥: 64 \| 💬: [57](https://news.ycombinator.com/item?id=42744695) \| 🗓️ 2025-01-17
+| 🔥: 80 \| 💬: [73](https://news.ycombinator.com/item?id=42744695) \| 🗓️ 2025-01-17
 
 
 <br />
@@ -226,7 +226,31 @@ EFF对最高法院未进行严格的**第一修正案审查**表示失望，认�
 
 ---
 
-## <a name="18"></a>18. 通用汽车承认将司机位置数据提供给保险公司，导致保费上涨 
+## <a name="18"></a>18. 晚餐摄入更多钾与较少睡眠障碍相关——研究 
+<small>🔗 [nutraingredients-asia.com](https://www.nutraingredients-asia.com/Article/2025/01/07/higher-potassium-intake-at-dinner-linked-to-fewer-sleep-disturbances/): Higher potassium intake at dinner linked to fewer sleep disturbances – study</small>
+
+
+| 🔥: 74 \| 💬: [34](https://news.ycombinator.com/item?id=42742161) \| 🗓️ 2025-01-17
+
+
+<br />
+一项日本横断面研究发现，**钾摄入量**与睡眠质量相关，尤其是**晚餐摄入更多钾**与较少的睡眠障碍相关。研究使用Athens失眠量表评估睡眠，发现钾摄入量与失眠评分呈负相关。钾在肌肉放松、神经传导和血压调节中起关键作用，可能通过调节血压改善睡眠。钠摄入量与睡眠的关系仍需进一步验证。
+
+---
+
+## <a name="19"></a>19. 你能读懂这份手写体吗？美国国家档案馆需要你的帮助 
+<small>🔗 [smithsonianmag.com](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/): Can you read this cursive handwriting? The National Archives wants your help</small>
+
+
+| 🔥: 66 \| 💬: [90](https://news.ycombinator.com/item?id=42745334) \| 🗓️ 2025-01-17
+
+
+<br />
+美国国家档案馆拥有大量**手写体历史文件**，部分已有200多年历史。由于许多人未学过手写体，这些文件难以阅读。为此，档案馆发起**公民档案员计划**，招募志愿者转录和标记文件，以提升数字化文档的可访问性。志愿者可自由选择任务，如转录或标记，帮助学者、家谱研究者和历史爱好者更好地查阅资料。目前已有5000多名志愿者参与，部分人专注于**独立战争养老金文件**等项目。
+
+---
+
+## <a name="20"></a>20. 通用汽车承认将司机位置数据提供给保险公司，导致保费上涨 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/01/17/gm_settles_ftc_charges/): GM parks claims driver location data was given to insurers, pushing up premiums</small>
 
 
@@ -235,29 +259,5 @@ EFF对最高法院未进行严格的**第一修正案审查**表示失望，认�
 
 <br />
 通用汽车（GM）因**OnStar智能驾驶程序**收集并共享司机位置数据，与美国联邦贸易委员会（FTC）达成和解。该程序未经用户同意，将数据提供给第三方公司，用于保险公司评估司机风险并提高保费。GM已终止该程序，并承诺未来需获得用户明确同意才能收集数据。FTC要求GM在20年内遵守数据隐私规定，禁止未经许可共享位置数据。
-
----
-
-## <a name="19"></a>19. 你能读懂这份手写体吗？美国国家档案馆需要你的帮助 
-<small>🔗 [smithsonianmag.com](https://www.smithsonianmag.com/smart-news/can-you-read-this-cursive-handwriting-the-national-archives-wants-your-help-180985833/): Can you read this cursive handwriting? The National Archives wants your help</small>
-
-
-| 🔥: 59 \| 💬: [77](https://news.ycombinator.com/item?id=42745334) \| 🗓️ 2025-01-17
-
-
-<br />
-美国国家档案馆拥有大量**手写体历史文件**，部分已有200多年历史。由于许多人未学过手写体，这些文件难以阅读。为此，档案馆发起**公民档案员计划**，招募志愿者转录和标记文件，以提升数字化文档的可访问性。志愿者可自由选择任务，如转录或标记，帮助学者、家谱研究者和历史爱好者更好地查阅资料。目前已有5000多名志愿者参与，部分人专注于**独立战争养老金文件**等项目。
-
----
-
-## <a name="20"></a>20. 伊斯的传说 
-<small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Ys): Ys</small>
-
-
-| 🔥: 47 \| 💬: [7](https://news.ycombinator.com/item?id=42737100) \| 🗓️ 2025-01-17
-
-
-<br />
-伊斯（**Ys**）是法国布列塔尼地区的一个**神话城市**，传说中被海洋吞没。故事围绕国王格拉德隆（**Gradlon**）和他的女儿达胡特（**Dahut**）展开。达胡特因偷取堤坝钥匙导致城市被洪水淹没，最终被父亲抛弃，化为美人鱼。传说中，伊斯在低潮时仍能听到钟声或看到废墟。
 
 ---
