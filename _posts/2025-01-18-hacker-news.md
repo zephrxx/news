@@ -26,7 +26,7 @@ tags:
 <small>🔗 [xeiaso.net](https://xeiaso.net/notes/2025/amazon-crawler/): Amazon's AI crawler is making my Git server unstable</small>
 
 
-| 🔥🔥: 444 \| 💬: [172](https://news.ycombinator.com/item?id=42750420) \| 🗓️ 2025-01-18
+| 🔥🔥: 462 \| 💬: [177](https://news.ycombinator.com/item?id=42750420) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [isd-project.github.io](https://isd-project.github.io/isd/): Show HN: Interactive systemd – a better way to work with systemd units</small>
 
 
-| 🔥🔥: 356 \| 💬: [120](https://news.ycombinator.com/item?id=42749402) \| 🗓️ 2025-01-18
+| 🔥🔥: 368 \| 💬: [123](https://news.ycombinator.com/item?id=42749402) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [github.com](https://github.com/tonybaloney/vscode-pets): VS Code Pets</small>
 
 
-| 🔥🔥: 212 \| 💬: [51](https://news.ycombinator.com/item?id=42750195) \| 🗓️ 2025-01-18
+| 🔥🔥: 233 \| 💬: [56](https://news.ycombinator.com/item?id=42750195) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -62,7 +62,7 @@ VS Code Pets 是一款为 **VS Code** 添加可爱宠物的扩展，包括猫、
 <small>🔗 [subanima.org](https://www.subanima.org/bees/): Why do bees die when they sting you?</small>
 
 
-| 🔥🔥: 191 \| 💬: [163](https://news.ycombinator.com/item?id=42749069) \| 🗓️ 2025-01-18
+| 🔥🔥: 203 \| 💬: [167](https://news.ycombinator.com/item?id=42749069) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -74,7 +74,7 @@ VS Code Pets 是一款为 **VS Code** 添加可爱宠物的扩展，包括猫、
 <small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as): The AMD Radeon Instinct MI300A's Giant Memory Subsystem</small>
 
 
-| 🔥🔥: 166 \| 💬: [72](https://news.ycombinator.com/item?id=42747864) \| 🗓️ 2025-01-18
+| 🔥🔥: 170 \| 💬: [74](https://news.ycombinator.com/item?id=42747864) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -86,7 +86,7 @@ AMD 的 **Radeon Instinct MI300A** 是一款集成了 **24 个 Zen 4 核心** �
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/): Google begins requiring JavaScript for Google Search</small>
 
 
-| 🔥🔥: 158 \| 💬: [129](https://news.ycombinator.com/item?id=42747092) \| 🗓️ 2025-01-18
+| 🔥🔥: 159 \| 💬: [129](https://news.ycombinator.com/item?id=42747092) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -98,7 +98,7 @@ AMD 的 **Radeon Instinct MI300A** 是一款集成了 **24 个 Zen 4 核心** �
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/toyota-prius-transformed-auto-industry): The Toyota Prius transformed the auto industry</small>
 
 
-| 🔥🔥: 143 \| 💬: [216](https://news.ycombinator.com/item?id=42747899) \| 🗓️ 2025-01-18
+| 🔥🔥: 146 \| 💬: [220](https://news.ycombinator.com/item?id=42747899) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -110,7 +110,7 @@ AMD 的 **Radeon Instinct MI300A** 是一款集成了 **24 个 Zen 4 核心** �
 <small>🔗 [neodyme.io](https://neodyme.io/en/blog/bitlocker_screwed_without_a_screwdriver/): Windows BitLocker – Screwed Without a Screwdriver</small>
 
 
-| 🔥🔥: 136 \| 💬: [88](https://news.ycombinator.com/item?id=42747877) \| 🗓️ 2025-01-18
+| 🔥🔥: 143 \| 💬: [89](https://news.ycombinator.com/item?id=42747877) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -118,23 +118,11 @@ Windows BitLocker 的默认设备加密配置存在一个名为 **bitpixie** 的
 
 ---
 
-## <a name="9"></a>9. o1 不是聊天模型（这才是重点） 
-<small>🔗 [latent.space](https://www.latent.space/p/o1-skill-issue): O1 isn't a chat model (and that's the point)</small>
-
-
-| 🔥🔥: 123 \| 💬: [90](https://news.ycombinator.com/item?id=42750096) \| 🗓️ 2025-01-18
-
-
-<br />
-o1 并非传统聊天模型，而是一个**报告生成器**。用户需提供大量上下文，明确目标，而非逐步对话。o1 擅长一次性生成完整文件、解释复杂概念及医学诊断，但在特定风格写作和构建完整应用方面表现不佳。**延迟**是其用户体验的关键挑战，未来可能催生高延迟背景智能产品。
-
----
-
-## <a name="10"></a>10. 卡尔曼滤波教程 
+## <a name="9"></a>9. 卡尔曼滤波教程 
 <small>🔗 [kalmanfilter.net](https://www.kalmanfilter.net/default.aspx): Kalman Filter Tutorial</small>
 
 
-| 🔥🔥: 117 \| 💬: [22](https://news.ycombinator.com/item?id=42751690) \| 🗓️ 2025-01-18
+| 🔥🔥: 137 \| 💬: [26](https://news.ycombinator.com/item?id=42751690) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -142,11 +130,23 @@ o1 并非传统聊天模型，而是一个**报告生成器**。用户需提供�
 
 ---
 
+## <a name="10"></a>10. o1 不是聊天模型（这才是重点） 
+<small>🔗 [latent.space](https://www.latent.space/p/o1-skill-issue): O1 isn't a chat model (and that's the point)</small>
+
+
+| 🔥🔥: 125 \| 💬: [91](https://news.ycombinator.com/item?id=42750096) \| 🗓️ 2025-01-18
+
+
+<br />
+o1 并非传统聊天模型，而是一个**报告生成器**。用户需提供大量上下文，明确目标，而非逐步对话。o1 擅长一次性生成完整文件、解释复杂概念及医学诊断，但在特定风格写作和构建完整应用方面表现不佳。**延迟**是其用户体验的关键挑战，未来可能催生高延迟背景智能产品。
+
+---
+
 ## <a name="11"></a>11. Dusa编程语言（有限选择逻辑编程） 
 <small>🔗 [dusa.rocks](https://dusa.rocks/docs/): Dusa Programming Language (Finite-Choice Logic Programming)</small>
 
 
-| 🔥🔥: 112 \| 💬: [25](https://news.ycombinator.com/item?id=42749147) \| 🗓️ 2025-01-18
+| 🔥🔥: 120 \| 💬: [26](https://news.ycombinator.com/item?id=42749147) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -170,7 +170,7 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 <small>🔗 [anirudh.fi](https://anirudh.fi/blog/identity/): ATProto and the ownership of identity</small>
 
 
-| 🔥: 77 \| 💬: [75](https://news.ycombinator.com/item?id=42748101) \| 🗓️ 2025-01-18
+| 🔥: 80 \| 💬: [81](https://news.ycombinator.com/item?id=42748101) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -178,35 +178,11 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 
 ---
 
-## <a name="14"></a>14. 基于规则的互动小说编程 
-<small>🔗 [eblong.com](https://eblong.com/zarf/essays/rule-based-if/index.html): Rule-Based Programming in Interactive Fiction</small>
-
-
-| 🔥: 67 \| 💬: [11](https://news.ycombinator.com/item?id=42748534) \| 🗓️ 2025-01-18
-
-
-<br />
-本文探讨了**Inform 7**这一互动小说创作工具中的**基于规则的编程模型**。与传统面向对象编程不同，Inform 7通过**规则书**（rulebooks）管理游戏逻辑，允许开发者定义条件驱动的行为。这种模型避免了传统OOP中的重复代码问题，提供了更灵活的解决方案，尤其适用于复杂的互动小说场景。
-
----
-
-## <a name="15"></a>15. Skymont：英特尔E核迈向新高度 
-<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/skymont-intels-e-cores-reach-for-the-sky): Skymont: Intel's E-Cores reach for the Sky</small>
-
-
-| 🔥: 64 \| 💬: [28](https://news.ycombinator.com/item?id=42750734) \| 🗓️ 2025-01-18
-
-
-<br />
-英特尔最新移动芯片Lunar Lake中，**Skymont**架构取代了Meteor Lake的Crestmont，成为新一代E核。Skymont不仅提升了多线程性能，还优化了低功耗背景任务处理。其**八宽乱序执行引擎**和**改进的分支预测**使其在能效和性能上显著超越前代，展示了英特尔在笔记本市场的持续竞争力。
-
----
-
-## <a name="16"></a>16. Perplexity AI 提交与 TikTok 合并的竞标 
+## <a name="14"></a>14. Perplexity AI 提交与 TikTok 合并的竞标 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/): Perplexity AI submits bid to merge with TikTok</small>
 
 
-| 🔥: 63 \| 💬: [56](https://news.ycombinator.com/item?id=42751649) \| 🗓️ 2025-01-18
+| 🔥: 76 \| 💬: [65](https://news.ycombinator.com/item?id=42751649) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -214,11 +190,35 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 
 ---
 
+## <a name="15"></a>15. 基于规则的互动小说编程 
+<small>🔗 [eblong.com](https://eblong.com/zarf/essays/rule-based-if/index.html): Rule-Based Programming in Interactive Fiction</small>
+
+
+| 🔥: 74 \| 💬: [14](https://news.ycombinator.com/item?id=42748534) \| 🗓️ 2025-01-18
+
+
+<br />
+本文探讨了**Inform 7**这一互动小说创作工具中的**基于规则的编程模型**。与传统面向对象编程不同，Inform 7通过**规则书**（rulebooks）管理游戏逻辑，允许开发者定义条件驱动的行为。这种模型避免了传统OOP中的重复代码问题，提供了更灵活的解决方案，尤其适用于复杂的互动小说场景。
+
+---
+
+## <a name="16"></a>16. Skymont：英特尔E核迈向新高度 
+<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/skymont-intels-e-cores-reach-for-the-sky): Skymont: Intel's E-Cores reach for the Sky</small>
+
+
+| 🔥: 73 \| 💬: [33](https://news.ycombinator.com/item?id=42750734) \| 🗓️ 2025-01-18
+
+
+<br />
+英特尔最新移动芯片Lunar Lake中，**Skymont**架构取代了Meteor Lake的Crestmont，成为新一代E核。Skymont不仅提升了多线程性能，还优化了低功耗背景任务处理。其**八宽乱序执行引擎**和**改进的分支预测**使其在能效和性能上显著超越前代，展示了英特尔在笔记本市场的持续竞争力。
+
+---
+
 ## <a name="17"></a>17. 泽西岛居民因PFAS污染被建议放血治疗 
 <small>🔗 [theguardian.com](https://www.theguardian.com/uk-news/2025/jan/16/bloodletting-recommended-for-jersey-residents-after-pfas-contamination): Bloodletting recommended for Jersey residents after PFAS contamination</small>
 
 
-| 🔥: 56 \| 💬: [34](https://news.ycombinator.com/item?id=42747923) \| 🗓️ 2025-01-18
+| 🔥: 56 \| 💬: [35](https://news.ycombinator.com/item?id=42747923) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -226,15 +226,15 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 
 ---
 
-## <a name="18"></a>18. 逆向工程Pentium中的进位前瞻加法器 
-<small>🔗 [righto.com](https://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html): Reverse-engineering a carry-lookahead adder in the Pentium</small>
+## <a name="18"></a>18. 大规模Matrix部署将无法使用Synapse社区版 
+<small>🔗 [mastodon.matrix.org](https://mastodon.matrix.org/@element/113842786942364269): Nation-scale Matrix deployments will fail using the community version of Synapse</small>
 
 
-| 🔥: 44 \| 💬: [4](https://news.ycombinator.com/item?id=42750454) \| 🗓️ 2025-01-18
+| 🔥: 54 \| 💬: [43](https://news.ycombinator.com/item?id=42752402) \| 🗓️ 2025-01-18
 
 
 <br />
-本文详细介绍了Pentium浮点单元中的8位**进位前瞻加法器**（Carry-Lookahead Adder），特别是**Kogge-Stone**类型的实现。通过并行计算进位信号，加法器避免了传统**逐位进位**（Ripple Carry）的延迟问题。文章还展示了Pentium如何通过多层电路实现这一设计，并解释了其逻辑方程与硬件电路的关系。
+使用Mastodon网页应用需启用JavaScript，或尝试平台原生应用。**Synapse社区版**不支持**大规模Matrix部署**，可能导致**失败**。建议使用其他解决方案或升级版本。
 
 ---
 
@@ -242,7 +242,7 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 <small>🔗 [dthompson.us](https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html): WASM GC isn't ready for realtime graphics</small>
 
 
-| 🔥: 41 \| 💬: [11](https://news.ycombinator.com/item?id=42750781) \| 🗓️ 2025-01-18
+| 🔥: 53 \| 💬: [17](https://news.ycombinator.com/item?id=42750781) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -250,14 +250,14 @@ WASM GC 是一项强大的功能，现已支持所有主流浏览器，允许托
 
 ---
 
-## <a name="20"></a>20. 量子计算机不会工作的说法是否可信？ 
-<small>🔗 [blog.cr.yp.to](https://blog.cr.yp.to/20250118-flight.html): Looking at some claims that quantum computers won't work</small>
+## <a name="20"></a>20. 逆向工程Pentium中的进位前瞻加法器 
+<small>🔗 [righto.com](https://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html): Reverse-engineering a carry-lookahead adder in the Pentium</small>
 
 
-| 🔥: 37 \| 💬: [14](https://news.ycombinator.com/item?id=42750264) \| 🗓️ 2025-01-18
+| 🔥: 49 \| 💬: [7](https://news.ycombinator.com/item?id=42750454) \| 🗓️ 2025-01-18
 
 
 <br />
-本文探讨了关于**量子计算机**无法有效工作的论点，特别是针对其破解RSA-2048的能力。作者分析了**指数能量消耗**的论点，指出其缺乏科学依据，并强调量子计算机的潜在威胁。尽管有人认为量子计算是炒作，但作者认为忽视这些风险是不明智的。
+本文详细介绍了Pentium浮点单元中的8位**进位前瞻加法器**（Carry-Lookahead Adder），特别是**Kogge-Stone**类型的实现。通过并行计算进位信号，加法器避免了传统**逐位进位**（Ripple Carry）的延迟问题。文章还展示了Pentium如何通过多层电路实现这一设计，并解释了其逻辑方程与硬件电路的关系。
 
 ---
