@@ -10,8 +10,8 @@ tags:
 
 1. 亚马逊的AI爬虫让我的Git服务器不稳定；
 1. Show HN: 交互式 systemd – 更高效管理 systemd 单元的工具；
-1. 为什么蜜蜂蜇人后会死亡？；
 1. VS Code 宠物；
+1. 为什么蜜蜂蜇人后会死亡？；
 1. AMD Radeon Instinct MI300A 的巨大内存子系统；
 
 以上是今天的前五条黑科技新闻标题。
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [xeiaso.net](https://xeiaso.net/notes/2025/amazon-crawler/): Amazon's AI crawler is making my Git server unstable</small>
 
 
-| 🔥🔥: 427 \| 💬: [163](https://news.ycombinator.com/item?id=42750420) \| 🗓️ 2025-01-18
+| 🔥🔥: 444 \| 💬: [172](https://news.ycombinator.com/item?id=42750420) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [isd-project.github.io](https://isd-project.github.io/isd/): Show HN: Interactive systemd – a better way to work with systemd units</small>
 
 
-| 🔥🔥: 337 \| 💬: [108](https://news.ycombinator.com/item?id=42749402) \| 🗓️ 2025-01-18
+| 🔥🔥: 356 \| 💬: [120](https://news.ycombinator.com/item?id=42749402) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -46,23 +46,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 为什么蜜蜂蜇人后会死亡？ 
-<small>🔗 [subanima.org](https://www.subanima.org/bees/): Why do bees die when they sting you?</small>
-
-
-| 🔥🔥: 179 \| 💬: [148](https://news.ycombinator.com/item?id=42749069) \| 🗓️ 2025-01-18
-
-
-<br />
-蜜蜂蜇人后死亡的原因是**倒钩刺**。蜜蜂的刺带有倒钩，蜇人后刺会留在皮肤中，导致蜜蜂的内脏被撕裂。这种机制虽然对蜜蜂致命，但能更有效地将毒液注入目标。从进化角度看，工蜂是**不育的**，它们的牺牲保护了蜂群和蜂后，符合**群体选择**理论。
-
----
-
-## <a name="4"></a>4. VS Code 宠物 
+## <a name="3"></a>3. VS Code 宠物 
 <small>🔗 [github.com](https://github.com/tonybaloney/vscode-pets): VS Code Pets</small>
 
 
-| 🔥🔥: 179 \| 💬: [38](https://news.ycombinator.com/item?id=42750195) \| 🗓️ 2025-01-18
+| 🔥🔥: 212 \| 💬: [51](https://news.ycombinator.com/item?id=42750195) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -70,11 +58,23 @@ VS Code Pets 是一款为 **VS Code** 添加可爱宠物的扩展，包括猫、
 
 ---
 
+## <a name="4"></a>4. 为什么蜜蜂蜇人后会死亡？ 
+<small>🔗 [subanima.org](https://www.subanima.org/bees/): Why do bees die when they sting you?</small>
+
+
+| 🔥🔥: 191 \| 💬: [163](https://news.ycombinator.com/item?id=42749069) \| 🗓️ 2025-01-18
+
+
+<br />
+蜜蜂蜇人后死亡的原因是**倒钩刺**。蜜蜂的刺带有倒钩，蜇人后刺会留在皮肤中，导致蜜蜂的内脏被撕裂。这种机制虽然对蜜蜂致命，但能更有效地将毒液注入目标。从进化角度看，工蜂是**不育的**，它们的牺牲保护了蜂群和蜂后，符合**群体选择**理论。
+
+---
+
 ## <a name="5"></a>5. AMD Radeon Instinct MI300A 的巨大内存子系统 
 <small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as): The AMD Radeon Instinct MI300A's Giant Memory Subsystem</small>
 
 
-| 🔥🔥: 162 \| 💬: [65](https://news.ycombinator.com/item?id=42747864) \| 🗓️ 2025-01-18
+| 🔥🔥: 166 \| 💬: [72](https://news.ycombinator.com/item?id=42747864) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -86,7 +86,7 @@ AMD 的 **Radeon Instinct MI300A** 是一款集成了 **24 个 Zen 4 核心** �
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/): Google begins requiring JavaScript for Google Search</small>
 
 
-| 🔥🔥: 157 \| 💬: [129](https://news.ycombinator.com/item?id=42747092) \| 🗓️ 2025-01-18
+| 🔥🔥: 158 \| 💬: [129](https://news.ycombinator.com/item?id=42747092) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -98,7 +98,7 @@ AMD 的 **Radeon Instinct MI300A** 是一款集成了 **24 个 Zen 4 核心** �
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/toyota-prius-transformed-auto-industry): The Toyota Prius transformed the auto industry</small>
 
 
-| 🔥🔥: 141 \| 💬: [211](https://news.ycombinator.com/item?id=42747899) \| 🗓️ 2025-01-18
+| 🔥🔥: 143 \| 💬: [216](https://news.ycombinator.com/item?id=42747899) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -110,7 +110,7 @@ AMD 的 **Radeon Instinct MI300A** 是一款集成了 **24 个 Zen 4 核心** �
 <small>🔗 [neodyme.io](https://neodyme.io/en/blog/bitlocker_screwed_without_a_screwdriver/): Windows BitLocker – Screwed Without a Screwdriver</small>
 
 
-| 🔥🔥: 130 \| 💬: [85](https://news.ycombinator.com/item?id=42747877) \| 🗓️ 2025-01-18
+| 🔥🔥: 136 \| 💬: [88](https://news.ycombinator.com/item?id=42747877) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -122,7 +122,7 @@ Windows BitLocker 的默认设备加密配置存在一个名为 **bitpixie** 的
 <small>🔗 [latent.space](https://www.latent.space/p/o1-skill-issue): O1 isn't a chat model (and that's the point)</small>
 
 
-| 🔥🔥: 119 \| 💬: [86](https://news.ycombinator.com/item?id=42750096) \| 🗓️ 2025-01-18
+| 🔥🔥: 123 \| 💬: [90](https://news.ycombinator.com/item?id=42750096) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -130,7 +130,31 @@ o1 并非传统聊天模型，而是一个**报告生成器**。用户需提供�
 
 ---
 
-## <a name="10"></a>10. 诚实的艾哈迈德 (2011) 
+## <a name="10"></a>10. 卡尔曼滤波教程 
+<small>🔗 [kalmanfilter.net](https://www.kalmanfilter.net/default.aspx): Kalman Filter Tutorial</small>
+
+
+| 🔥🔥: 117 \| 💬: [22](https://news.ycombinator.com/item?id=42751690) \| 🗓️ 2025-01-18
+
+
+<br />
+本教程旨在通过**直观解释**和**数值示例**，简化卡尔曼滤波的学习过程。卡尔曼滤波是一种用于在不确定性中估计和预测系统状态的强大工具，广泛应用于目标跟踪、导航和控制等领域。教程分为四部分，从基础到高级，涵盖**单变量**和**多变量**卡尔曼滤波，以及**非线性滤波**和**传感器融合**等实用指南。
+
+---
+
+## <a name="11"></a>11. Dusa编程语言（有限选择逻辑编程） 
+<small>🔗 [dusa.rocks](https://dusa.rocks/docs/): Dusa Programming Language (Finite-Choice Logic Programming)</small>
+
+
+| 🔥🔥: 112 \| 💬: [25](https://news.ycombinator.com/item?id=42749147) \| 🗓️ 2025-01-18
+
+
+<br />
+Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**有限选择逻辑编程**的首个实现。它结合了Datalog和**答案集编程**的特点，适合用于图探索。Dusa可通过网页编辑器、命令行工具或JavaScript API使用，适合对逻辑编程感兴趣的开发者。
+
+---
+
+## <a name="12"></a>12. 诚实的艾哈迈德 (2011) 
 <small>🔗 [bugzilla.mozilla.org](https://bugzilla.mozilla.org/show_bug.cgi?id=647959): Honest Ahmed (2011)</small>
 
 
@@ -142,35 +166,11 @@ o1 并非传统聊天模型，而是一个**报告生成器**。用户需提供�
 
 ---
 
-## <a name="11"></a>11. Dusa编程语言（有限选择逻辑编程） 
-<small>🔗 [dusa.rocks](https://dusa.rocks/docs/): Dusa Programming Language (Finite-Choice Logic Programming)</small>
-
-
-| 🔥🔥: 106 \| 💬: [21](https://news.ycombinator.com/item?id=42749147) \| 🗓️ 2025-01-18
-
-
-<br />
-Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**有限选择逻辑编程**的首个实现。它结合了Datalog和**答案集编程**的特点，适合用于图探索。Dusa可通过网页编辑器、命令行工具或JavaScript API使用，适合对逻辑编程感兴趣的开发者。
-
----
-
-## <a name="12"></a>12. 卡尔曼滤波教程 
-<small>🔗 [kalmanfilter.net](https://www.kalmanfilter.net/default.aspx): Kalman Filter Tutorial</small>
-
-
-| 🔥: 84 \| 💬: [15](https://news.ycombinator.com/item?id=42751690) \| 🗓️ 2025-01-18
-
-
-<br />
-本教程旨在通过**直观解释**和**数值示例**，简化卡尔曼滤波的学习过程。卡尔曼滤波是一种用于在不确定性中估计和预测系统状态的强大工具，广泛应用于目标跟踪、导航和控制等领域。教程分为四部分，从基础到高级，涵盖**单变量**和**多变量**卡尔曼滤波，以及**非线性滤波**和**传感器融合**等实用指南。
-
----
-
 ## <a name="13"></a>13. ATProto与身份所有权 
 <small>🔗 [anirudh.fi](https://anirudh.fi/blog/identity/): ATProto and the ownership of identity</small>
 
 
-| 🔥: 74 \| 💬: [71](https://news.ycombinator.com/item?id=42748101) \| 🗓️ 2025-01-18
+| 🔥: 77 \| 💬: [75](https://news.ycombinator.com/item?id=42748101) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -182,7 +182,7 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 <small>🔗 [eblong.com](https://eblong.com/zarf/essays/rule-based-if/index.html): Rule-Based Programming in Interactive Fiction</small>
 
 
-| 🔥: 59 \| 💬: [9](https://news.ycombinator.com/item?id=42748534) \| 🗓️ 2025-01-18
+| 🔥: 67 \| 💬: [11](https://news.ycombinator.com/item?id=42748534) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -190,7 +190,31 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 
 ---
 
-## <a name="15"></a>15. 泽西岛居民因PFAS污染被建议放血治疗 
+## <a name="15"></a>15. Skymont：英特尔E核迈向新高度 
+<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/skymont-intels-e-cores-reach-for-the-sky): Skymont: Intel's E-Cores reach for the Sky</small>
+
+
+| 🔥: 64 \| 💬: [28](https://news.ycombinator.com/item?id=42750734) \| 🗓️ 2025-01-18
+
+
+<br />
+英特尔最新移动芯片Lunar Lake中，**Skymont**架构取代了Meteor Lake的Crestmont，成为新一代E核。Skymont不仅提升了多线程性能，还优化了低功耗背景任务处理。其**八宽乱序执行引擎**和**改进的分支预测**使其在能效和性能上显著超越前代，展示了英特尔在笔记本市场的持续竞争力。
+
+---
+
+## <a name="16"></a>16. Perplexity AI 提交与 TikTok 合并的竞标 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/): Perplexity AI submits bid to merge with TikTok</small>
+
+
+| 🔥: 63 \| 💬: [56](https://news.ycombinator.com/item?id=42751649) \| 🗓️ 2025-01-18
+
+
+<br />
+随着美国对 TikTok 的禁令迫在眉睫，**Perplexity AI** 成为最新一家希望为 TikTok 提供新归属的竞标者。Perplexity 提议与 TikTok 美国业务合并，成立新实体，并允许字节跳动的大部分投资者保留股权。此举旨在为 Perplexity 的 AI 搜索引擎引入更多视频内容。尽管字节跳动多次表示无意出售 TikTok，Perplexity 希望通过合并而非出售的方式克服这一障碍。
+
+---
+
+## <a name="17"></a>17. 泽西岛居民因PFAS污染被建议放血治疗 
 <small>🔗 [theguardian.com](https://www.theguardian.com/uk-news/2025/jan/16/bloodletting-recommended-for-jersey-residents-after-pfas-contamination): Bloodletting recommended for Jersey residents after PFAS contamination</small>
 
 
@@ -202,35 +226,11 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 
 ---
 
-## <a name="16"></a>16. Skymont：英特尔E核迈向新高度 
-<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/skymont-intels-e-cores-reach-for-the-sky): Skymont: Intel's E-Cores reach for the Sky</small>
-
-
-| 🔥: 56 \| 💬: [17](https://news.ycombinator.com/item?id=42750734) \| 🗓️ 2025-01-18
-
-
-<br />
-英特尔最新移动芯片Lunar Lake中，**Skymont**架构取代了Meteor Lake的Crestmont，成为新一代E核。Skymont不仅提升了多线程性能，还优化了低功耗背景任务处理。其**八宽乱序执行引擎**和**改进的分支预测**使其在能效和性能上显著超越前代，展示了英特尔在笔记本市场的持续竞争力。
-
----
-
-## <a name="17"></a>17. Perplexity AI 提交与 TikTok 合并的竞标 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/): Perplexity AI submits bid to merge with TikTok</small>
-
-
-| 🔥: 53 \| 💬: [47](https://news.ycombinator.com/item?id=42751649) \| 🗓️ 2025-01-18
-
-
-<br />
-随着美国对 TikTok 的禁令迫在眉睫，**Perplexity AI** 成为最新一家希望为 TikTok 提供新归属的竞标者。Perplexity 提议与 TikTok 美国业务合并，成立新实体，并允许字节跳动的大部分投资者保留股权。此举旨在为 Perplexity 的 AI 搜索引擎引入更多视频内容。尽管字节跳动多次表示无意出售 TikTok，Perplexity 希望通过合并而非出售的方式克服这一障碍。
-
----
-
 ## <a name="18"></a>18. 逆向工程Pentium中的进位前瞻加法器 
 <small>🔗 [righto.com](https://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html): Reverse-engineering a carry-lookahead adder in the Pentium</small>
 
 
-| 🔥: 36 \| 💬: [4](https://news.ycombinator.com/item?id=42750454) \| 🗓️ 2025-01-18
+| 🔥: 44 \| 💬: [4](https://news.ycombinator.com/item?id=42750454) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -238,26 +238,26 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 
 ---
 
-## <a name="19"></a>19. 量子计算机不会工作的说法是否可信？ 
+## <a name="19"></a>19. WASM GC 尚未准备好用于实时图形 
+<small>🔗 [dthompson.us](https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html): WASM GC isn't ready for realtime graphics</small>
+
+
+| 🔥: 41 \| 💬: [11](https://news.ycombinator.com/item?id=42750781) \| 🗓️ 2025-01-18
+
+
+<br />
+WASM GC 是一项强大的功能，现已支持所有主流浏览器，允许托管内存语言利用浏览器引擎中的垃圾回收机制。然而，**WASM GC** 在处理实时图形时存在显著性能问题，尤其是**二进制数据操作**的低效性。与线性内存相比，WASM GC 的堆对象对宿主不透明，导致数据访问和操作需要大量额外开销。尽管有一些临时解决方案，但这些问题仍需社区进一步优化和解决。
+
+---
+
+## <a name="20"></a>20. 量子计算机不会工作的说法是否可信？ 
 <small>🔗 [blog.cr.yp.to](https://blog.cr.yp.to/20250118-flight.html): Looking at some claims that quantum computers won't work</small>
 
 
-| 🔥: 35 \| 💬: [8](https://news.ycombinator.com/item?id=42750264) \| 🗓️ 2025-01-18
+| 🔥: 37 \| 💬: [14](https://news.ycombinator.com/item?id=42750264) \| 🗓️ 2025-01-18
 
 
 <br />
 本文探讨了关于**量子计算机**无法有效工作的论点，特别是针对其破解RSA-2048的能力。作者分析了**指数能量消耗**的论点，指出其缺乏科学依据，并强调量子计算机的潜在威胁。尽管有人认为量子计算是炒作，但作者认为忽视这些风险是不明智的。
-
----
-
-## <a name="20"></a>20. 如果没人想念TikTok会怎样？ 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/01/18/technology/what-if-no-one-misses-tiktok.html): What if no one misses TikTok?</small>
-
-
-| 🔥: 34 \| 💬: [115](https://news.ycombinator.com/item?id=42749884) \| 🗓️ 2025-01-18
-
-
-<br />
-随着**TikTok禁令**的临近，美国用户似乎对这款流行社交应用的消失并不感到担忧。尽管有部分用户转向其他平台，如**Xiaohongshu**，但整体反应冷淡。最高法院已支持禁令，TikTok的**1.7亿美国用户**可能面临应用的突然消失，但公众情绪更多是黑色幽默而非愤怒或悲伤。
 
 ---
