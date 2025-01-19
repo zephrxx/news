@@ -11,8 +11,8 @@ tags:
 1. 亚马逊的AI爬虫让我的Git服务器不稳定；
 1. Show HN: 交互式 systemd – 更高效管理 systemd 单元的工具；
 1. VS Code 宠物；
-1. 为什么蜜蜂蜇人后会死亡？；
 1. TikTok在美国下架；
+1. 为什么蜜蜂蜇人后会死亡？；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [xeiaso.net](https://xeiaso.net/notes/2025/amazon-crawler/): Amazon's AI crawler is making my Git server unstable</small>
 
 
-| 🔥🔥: 522 \| 💬: [202](https://news.ycombinator.com/item?id=42750420) \| 🗓️ 2025-01-18
+| 🔥🔥: 528 \| 💬: [204](https://news.ycombinator.com/item?id=42750420) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [isd-project.github.io](https://isd-project.github.io/isd/): Show HN: Interactive systemd – a better way to work with systemd units</small>
 
 
-| 🔥🔥: 409 \| 💬: [136](https://news.ycombinator.com/item?id=42749402) \| 🗓️ 2025-01-18
+| 🔥🔥: 420 \| 💬: [140](https://news.ycombinator.com/item?id=42749402) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [github.com](https://github.com/tonybaloney/vscode-pets): VS Code Pets</small>
 
 
-| 🔥🔥: 312 \| 💬: [76](https://news.ycombinator.com/item?id=42750195) \| 🗓️ 2025-01-18
+| 🔥🔥: 327 \| 💬: [81](https://news.ycombinator.com/item?id=42750195) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -58,23 +58,11 @@ VS Code Pets 是一款为 **VS Code** 添加可爱宠物的扩展，包括猫、
 
 ---
 
-## <a name="4"></a>4. 为什么蜜蜂蜇人后会死亡？ 
-<small>🔗 [subanima.org](https://www.subanima.org/bees/): Why do bees die when they sting you?</small>
-
-
-| 🔥🔥: 248 \| 💬: [183](https://news.ycombinator.com/item?id=42749069) \| 🗓️ 2025-01-18
-
-
-<br />
-蜜蜂蜇人后死亡的原因是**倒钩刺**。蜜蜂的刺带有倒钩，蜇人后刺会留在皮肤中，导致蜜蜂的内脏被撕裂。这种机制虽然对蜜蜂致命，但能更有效地将毒液注入目标。从进化角度看，工蜂是**不育的**，它们的牺牲保护了蜂群和蜂后，符合**群体选择**理论。
-
----
-
-## <a name="5"></a>5. TikTok在美国下架 
+## <a name="4"></a>4. TikTok在美国下架 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/18/tiktok-goes-dark-in-the-u-s/): TikTok goes dark in the US</small>
 
 
-| 🔥🔥: 239 \| 💬: [292](https://news.ycombinator.com/item?id=42753396) \| 🗓️ 2025-01-18
+| 🔥🔥: 303 \| 💬: [401](https://news.ycombinator.com/item?id=42753396) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -82,11 +70,23 @@ VS Code Pets 是一款为 **VS Code** 添加可爱宠物的扩展，包括猫、
 
 ---
 
+## <a name="5"></a>5. 为什么蜜蜂蜇人后会死亡？ 
+<small>🔗 [subanima.org](https://www.subanima.org/bees/): Why do bees die when they sting you?</small>
+
+
+| 🔥🔥: 252 \| 💬: [193](https://news.ycombinator.com/item?id=42749069) \| 🗓️ 2025-01-18
+
+
+<br />
+蜜蜂蜇人后死亡的原因是**倒钩刺**。蜜蜂的刺带有倒钩，蜇人后刺会留在皮肤中，导致蜜蜂的内脏被撕裂。这种机制虽然对蜜蜂致命，但能更有效地将毒液注入目标。从进化角度看，工蜂是**不育的**，它们的牺牲保护了蜂群和蜂后，符合**群体选择**理论。
+
+---
+
 ## <a name="6"></a>6. 卡尔曼滤波教程 
 <small>🔗 [kalmanfilter.net](https://www.kalmanfilter.net/default.aspx): Kalman Filter Tutorial</small>
 
 
-| 🔥🔥: 220 \| 💬: [49](https://news.ycombinator.com/item?id=42751690) \| 🗓️ 2025-01-18
+| 🔥🔥: 237 \| 💬: [51](https://news.ycombinator.com/item?id=42751690) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -98,7 +98,7 @@ VS Code Pets 是一款为 **VS Code** 添加可爱宠物的扩展，包括猫、
 <small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as): The AMD Radeon Instinct MI300A's Giant Memory Subsystem</small>
 
 
-| 🔥🔥: 183 \| 💬: [80](https://news.ycombinator.com/item?id=42747864) \| 🗓️ 2025-01-18
+| 🔥🔥: 187 \| 💬: [80](https://news.ycombinator.com/item?id=42747864) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -122,7 +122,7 @@ AMD 的 **Radeon Instinct MI300A** 是一款集成了 **24 个 Zen 4 核心** �
 <small>🔗 [neodyme.io](https://neodyme.io/en/blog/bitlocker_screwed_without_a_screwdriver/): Windows BitLocker – Screwed Without a Screwdriver</small>
 
 
-| 🔥🔥: 151 \| 💬: [90](https://news.ycombinator.com/item?id=42747877) \| 🗓️ 2025-01-18
+| 🔥🔥: 153 \| 💬: [90](https://news.ycombinator.com/item?id=42747877) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -134,7 +134,7 @@ Windows BitLocker 的默认设备加密配置存在一个名为 **bitpixie** 的
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/toyota-prius-transformed-auto-industry): The Toyota Prius transformed the auto industry</small>
 
 
-| 🔥🔥: 151 \| 💬: [241](https://news.ycombinator.com/item?id=42747899) \| 🗓️ 2025-01-18
+| 🔥🔥: 152 \| 💬: [243](https://news.ycombinator.com/item?id=42747899) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -146,7 +146,7 @@ Windows BitLocker 的默认设备加密配置存在一个名为 **bitpixie** 的
 <small>🔗 [dusa.rocks](https://dusa.rocks/docs/): Dusa Programming Language (Finite-Choice Logic Programming)</small>
 
 
-| 🔥🔥: 134 \| 💬: [27](https://news.ycombinator.com/item?id=42749147) \| 🗓️ 2025-01-18
+| 🔥🔥: 135 \| 💬: [27](https://news.ycombinator.com/item?id=42749147) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -158,7 +158,7 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 <small>🔗 [latent.space](https://www.latent.space/p/o1-skill-issue): O1 isn't a chat model (and that's the point)</small>
 
 
-| 🔥🔥: 133 \| 💬: [108](https://news.ycombinator.com/item?id=42750096) \| 🗓️ 2025-01-18
+| 🔥🔥: 135 \| 💬: [109](https://news.ycombinator.com/item?id=42750096) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -178,23 +178,11 @@ o1 并非传统聊天模型，而是一个**报告生成器**。用户需提供�
 
 ---
 
-## <a name="14"></a>14. Perplexity AI 提交与 TikTok 合并的竞标 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/): Perplexity AI submits bid to merge with TikTok</small>
-
-
-| 🔥: 100 \| 💬: [102](https://news.ycombinator.com/item?id=42751649) \| 🗓️ 2025-01-18
-
-
-<br />
-随着美国对 TikTok 的禁令迫在眉睫，**Perplexity AI** 成为最新一家希望为 TikTok 提供新归属的竞标者。Perplexity 提议与 TikTok 美国业务合并，成立新实体，并允许字节跳动的大部分投资者保留股权。此举旨在为 Perplexity 的 AI 搜索引擎引入更多视频内容。尽管字节跳动多次表示无意出售 TikTok，Perplexity 希望通过合并而非出售的方式克服这一障碍。
-
----
-
-## <a name="15"></a>15. Unix拼写检查器如何在64kB内存中运行 
+## <a name="14"></a>14. Unix拼写检查器如何在64kB内存中运行 
 <small>🔗 [blog.codingconfessions.com](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram): How Unix spell ran in 64kb RAM</small>
 
 
-| 🔥: 95 \| 💬: [22](https://news.ycombinator.com/item?id=42752604) \| 🗓️ 2025-01-18
+| 🔥🔥: 108 \| 💬: [24](https://news.ycombinator.com/item?id=42752604) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -202,11 +190,23 @@ o1 并非传统聊天模型，而是一个**报告生成器**。用户需提供�
 
 ---
 
+## <a name="15"></a>15. Perplexity AI 提交与 TikTok 合并的竞标 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/): Perplexity AI submits bid to merge with TikTok</small>
+
+
+| 🔥🔥: 103 \| 💬: [103](https://news.ycombinator.com/item?id=42751649) \| 🗓️ 2025-01-18
+
+
+<br />
+随着美国对 TikTok 的禁令迫在眉睫，**Perplexity AI** 成为最新一家希望为 TikTok 提供新归属的竞标者。Perplexity 提议与 TikTok 美国业务合并，成立新实体，并允许字节跳动的大部分投资者保留股权。此举旨在为 Perplexity 的 AI 搜索引擎引入更多视频内容。尽管字节跳动多次表示无意出售 TikTok，Perplexity 希望通过合并而非出售的方式克服这一障碍。
+
+---
+
 ## <a name="16"></a>16. Skymont：英特尔E核迈向新高度 
 <small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/skymont-intels-e-cores-reach-for-the-sky): Skymont: Intel's E-Cores reach for the Sky</small>
 
 
-| 🔥: 94 \| 💬: [56](https://news.ycombinator.com/item?id=42750734) \| 🗓️ 2025-01-18
+| 🔥: 99 \| 💬: [57](https://news.ycombinator.com/item?id=42750734) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -214,23 +214,11 @@ o1 并非传统聊天模型，而是一个**报告生成器**。用户需提供�
 
 ---
 
-## <a name="17"></a>17. ATProto与身份所有权 
-<small>🔗 [anirudh.fi](https://anirudh.fi/blog/identity/): ATProto and the ownership of identity</small>
-
-
-| 🔥: 90 \| 💬: [101](https://news.ycombinator.com/item?id=42748101) \| 🗓️ 2025-01-18
-
-
-<br />
-**ATProto**通过**个人数据服务器（PDS）**和基于域的身份，解决了**身份所有权**和**数据所有权**的问题。用户可以在不同应用中使用相同的身份，避免了传统联邦宇宙（Fediverse）中的互操作性问题。这种分离还使应用层能够成为可盈利的服务，吸引了早期风投的兴趣。ATProto为新型社交应用铺平了道路，未来前景广阔。
-
----
-
-## <a name="18"></a>18. 基于规则的互动小说编程 
+## <a name="17"></a>17. 基于规则的互动小说编程 
 <small>🔗 [eblong.com](https://eblong.com/zarf/essays/rule-based-if/index.html): Rule-Based Programming in Interactive Fiction</small>
 
 
-| 🔥: 90 \| 💬: [15](https://news.ycombinator.com/item?id=42748534) \| 🗓️ 2025-01-18
+| 🔥: 93 \| 💬: [16](https://news.ycombinator.com/item?id=42748534) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -238,26 +226,38 @@ o1 并非传统聊天模型，而是一个**报告生成器**。用户需提供�
 
 ---
 
-## <a name="19"></a>19. 大规模Matrix部署将无法使用Synapse社区版 
-<small>🔗 [mastodon.matrix.org](https://mastodon.matrix.org/@element/113842786942364269): Nation-scale Matrix deployments will fail using the community version of Synapse</small>
-
-
-| 🔥: 86 \| 💬: [65](https://news.ycombinator.com/item?id=42752402) \| 🗓️ 2025-01-18
-
-
-<br />
-使用Mastodon网页应用需启用JavaScript，或尝试平台原生应用。**Synapse社区版**不支持**大规模Matrix部署**，可能导致**失败**。建议使用其他解决方案或升级版本。
-
----
-
-## <a name="20"></a>20. WASM GC 尚未准备好用于实时图形 
+## <a name="18"></a>18. WASM GC 尚未准备好用于实时图形 
 <small>🔗 [dthompson.us](https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html): WASM GC isn't ready for realtime graphics</small>
 
 
-| 🔥: 82 \| 💬: [32](https://news.ycombinator.com/item?id=42750781) \| 🗓️ 2025-01-18
+| 🔥: 92 \| 💬: [36](https://news.ycombinator.com/item?id=42750781) \| 🗓️ 2025-01-18
 
 
 <br />
 WASM GC 是一项强大的功能，现已支持所有主流浏览器，允许托管内存语言利用浏览器引擎中的垃圾回收机制。然而，**WASM GC** 在处理实时图形时存在显著性能问题，尤其是**二进制数据操作**的低效性。与线性内存相比，WASM GC 的堆对象对宿主不透明，导致数据访问和操作需要大量额外开销。尽管有一些临时解决方案，但这些问题仍需社区进一步优化和解决。
+
+---
+
+## <a name="19"></a>19. ATProto与身份所有权 
+<small>🔗 [anirudh.fi](https://anirudh.fi/blog/identity/): ATProto and the ownership of identity</small>
+
+
+| 🔥: 91 \| 💬: [101](https://news.ycombinator.com/item?id=42748101) \| 🗓️ 2025-01-18
+
+
+<br />
+**ATProto**通过**个人数据服务器（PDS）**和基于域的身份，解决了**身份所有权**和**数据所有权**的问题。用户可以在不同应用中使用相同的身份，避免了传统联邦宇宙（Fediverse）中的互操作性问题。这种分离还使应用层能够成为可盈利的服务，吸引了早期风投的兴趣。ATProto为新型社交应用铺平了道路，未来前景广阔。
+
+---
+
+## <a name="20"></a>20. 大规模Matrix部署将无法使用Synapse社区版 
+<small>🔗 [mastodon.matrix.org](https://mastodon.matrix.org/@element/113842786942364269): Nation-scale Matrix deployments will fail using the community version of Synapse</small>
+
+
+| 🔥: 90 \| 💬: [73](https://news.ycombinator.com/item?id=42752402) \| 🗓️ 2025-01-18
+
+
+<br />
+使用Mastodon网页应用需启用JavaScript，或尝试平台原生应用。**Synapse社区版**不支持**大规模Matrix部署**，可能导致**失败**。建议使用其他解决方案或升级版本。
 
 ---
