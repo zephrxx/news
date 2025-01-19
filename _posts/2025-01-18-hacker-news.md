@@ -12,7 +12,7 @@ tags:
 1. Show HN: 交互式 systemd – 更高效管理 systemd 单元的工具；
 1. VS Code 宠物；
 1. 为什么蜜蜂蜇人后会死亡？；
-1. 卡尔曼滤波教程；
+1. TikTok在美国下架；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [xeiaso.net](https://xeiaso.net/notes/2025/amazon-crawler/): Amazon's AI crawler is making my Git server unstable</small>
 
 
-| 🔥🔥: 509 \| 💬: [194](https://news.ycombinator.com/item?id=42750420) \| 🗓️ 2025-01-18
+| 🔥🔥: 522 \| 💬: [202](https://news.ycombinator.com/item?id=42750420) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [isd-project.github.io](https://isd-project.github.io/isd/): Show HN: Interactive systemd – a better way to work with systemd units</small>
 
 
-| 🔥🔥: 398 \| 💬: [134](https://news.ycombinator.com/item?id=42749402) \| 🗓️ 2025-01-18
+| 🔥🔥: 409 \| 💬: [136](https://news.ycombinator.com/item?id=42749402) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [github.com](https://github.com/tonybaloney/vscode-pets): VS Code Pets</small>
 
 
-| 🔥🔥: 292 \| 💬: [71](https://news.ycombinator.com/item?id=42750195) \| 🗓️ 2025-01-18
+| 🔥🔥: 312 \| 💬: [76](https://news.ycombinator.com/item?id=42750195) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -62,7 +62,7 @@ VS Code Pets 是一款为 **VS Code** 添加可爱宠物的扩展，包括猫、
 <small>🔗 [subanima.org](https://www.subanima.org/bees/): Why do bees die when they sting you?</small>
 
 
-| 🔥🔥: 236 \| 💬: [180](https://news.ycombinator.com/item?id=42749069) \| 🗓️ 2025-01-18
+| 🔥🔥: 248 \| 💬: [183](https://news.ycombinator.com/item?id=42749069) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -70,23 +70,11 @@ VS Code Pets 是一款为 **VS Code** 添加可爱宠物的扩展，包括猫、
 
 ---
 
-## <a name="5"></a>5. 卡尔曼滤波教程 
-<small>🔗 [kalmanfilter.net](https://www.kalmanfilter.net/default.aspx): Kalman Filter Tutorial</small>
-
-
-| 🔥🔥: 203 \| 💬: [47](https://news.ycombinator.com/item?id=42751690) \| 🗓️ 2025-01-18
-
-
-<br />
-本教程旨在通过**直观解释**和**数值示例**，简化卡尔曼滤波的学习过程。卡尔曼滤波是一种用于在不确定性中估计和预测系统状态的强大工具，广泛应用于目标跟踪、导航和控制等领域。教程分为四部分，从基础到高级，涵盖**单变量**和**多变量**卡尔曼滤波，以及**非线性滤波**和**传感器融合**等实用指南。
-
----
-
-## <a name="6"></a>6. TikTok在美国下架 
+## <a name="5"></a>5. TikTok在美国下架 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/18/tiktok-goes-dark-in-the-u-s/): TikTok goes dark in the US</small>
 
 
-| 🔥🔥: 198 \| 💬: [177](https://news.ycombinator.com/item?id=42753396) \| 🗓️ 2025-01-18
+| 🔥🔥: 239 \| 💬: [292](https://news.ycombinator.com/item?id=42753396) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -94,11 +82,23 @@ VS Code Pets 是一款为 **VS Code** 添加可爱宠物的扩展，包括猫、
 
 ---
 
+## <a name="6"></a>6. 卡尔曼滤波教程 
+<small>🔗 [kalmanfilter.net](https://www.kalmanfilter.net/default.aspx): Kalman Filter Tutorial</small>
+
+
+| 🔥🔥: 220 \| 💬: [49](https://news.ycombinator.com/item?id=42751690) \| 🗓️ 2025-01-18
+
+
+<br />
+本教程旨在通过**直观解释**和**数值示例**，简化卡尔曼滤波的学习过程。卡尔曼滤波是一种用于在不确定性中估计和预测系统状态的强大工具，广泛应用于目标跟踪、导航和控制等领域。教程分为四部分，从基础到高级，涵盖**单变量**和**多变量**卡尔曼滤波，以及**非线性滤波**和**传感器融合**等实用指南。
+
+---
+
 ## <a name="7"></a>7. AMD Radeon Instinct MI300A 的巨大内存子系统 
 <small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as): The AMD Radeon Instinct MI300A's Giant Memory Subsystem</small>
 
 
-| 🔥🔥: 179 \| 💬: [79](https://news.ycombinator.com/item?id=42747864) \| 🗓️ 2025-01-18
+| 🔥🔥: 183 \| 💬: [80](https://news.ycombinator.com/item?id=42747864) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -118,23 +118,11 @@ AMD 的 **Radeon Instinct MI300A** 是一款集成了 **24 个 Zen 4 核心** �
 
 ---
 
-## <a name="9"></a>9. 丰田普锐斯改变了汽车行业 
-<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/toyota-prius-transformed-auto-industry): The Toyota Prius transformed the auto industry</small>
-
-
-| 🔥🔥: 151 \| 💬: [234](https://news.ycombinator.com/item?id=42747899) \| 🗓️ 2025-01-18
-
-
-<br />
-1997年推出的**第一代丰田普锐斯**是首款大规模生产的**混合动力电动汽车**，结合了内燃机和电动机。这一创新不仅推动了环保技术的发展，还对整个汽车行业产生了深远影响，成为IEEE里程碑之一。
-
----
-
-## <a name="10"></a>10. Windows BitLocker – 无需螺丝刀的破解 
+## <a name="9"></a>9. Windows BitLocker – 无需螺丝刀的破解 
 <small>🔗 [neodyme.io](https://neodyme.io/en/blog/bitlocker_screwed_without_a_screwdriver/): Windows BitLocker – Screwed Without a Screwdriver</small>
 
 
-| 🔥🔥: 149 \| 💬: [90](https://news.ycombinator.com/item?id=42747877) \| 🗓️ 2025-01-18
+| 🔥🔥: 151 \| 💬: [90](https://news.ycombinator.com/item?id=42747877) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -142,11 +130,23 @@ Windows BitLocker 的默认设备加密配置存在一个名为 **bitpixie** 的
 
 ---
 
+## <a name="10"></a>10. 丰田普锐斯改变了汽车行业 
+<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/toyota-prius-transformed-auto-industry): The Toyota Prius transformed the auto industry</small>
+
+
+| 🔥🔥: 151 \| 💬: [241](https://news.ycombinator.com/item?id=42747899) \| 🗓️ 2025-01-18
+
+
+<br />
+1997年推出的**第一代丰田普锐斯**是首款大规模生产的**混合动力电动汽车**，结合了内燃机和电动机。这一创新不仅推动了环保技术的发展，还对整个汽车行业产生了深远影响，成为IEEE里程碑之一。
+
+---
+
 ## <a name="11"></a>11. Dusa编程语言（有限选择逻辑编程） 
 <small>🔗 [dusa.rocks](https://dusa.rocks/docs/): Dusa Programming Language (Finite-Choice Logic Programming)</small>
 
 
-| 🔥🔥: 132 \| 💬: [27](https://news.ycombinator.com/item?id=42749147) \| 🗓️ 2025-01-18
+| 🔥🔥: 134 \| 💬: [27](https://news.ycombinator.com/item?id=42749147) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -158,7 +158,7 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 <small>🔗 [latent.space](https://www.latent.space/p/o1-skill-issue): O1 isn't a chat model (and that's the point)</small>
 
 
-| 🔥🔥: 130 \| 💬: [108](https://news.ycombinator.com/item?id=42750096) \| 🗓️ 2025-01-18
+| 🔥🔥: 133 \| 💬: [108](https://news.ycombinator.com/item?id=42750096) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -170,7 +170,7 @@ o1 并非传统聊天模型，而是一个**报告生成器**。用户需提供�
 <small>🔗 [bugzilla.mozilla.org](https://bugzilla.mozilla.org/show_bug.cgi?id=647959): Honest Ahmed (2011)</small>
 
 
-| 🔥🔥: 107 \| 💬: [43](https://news.ycombinator.com/item?id=42747065) \| 🗓️ 2025-01-18
+| 🔥🔥: 108 \| 💬: [43](https://news.ycombinator.com/item?id=42747065) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -182,7 +182,7 @@ o1 并非传统聊天模型，而是一个**报告生成器**。用户需提供�
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/): Perplexity AI submits bid to merge with TikTok</small>
 
 
-| 🔥: 99 \| 💬: [99](https://news.ycombinator.com/item?id=42751649) \| 🗓️ 2025-01-18
+| 🔥: 100 \| 💬: [102](https://news.ycombinator.com/item?id=42751649) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -190,59 +190,11 @@ o1 并非传统聊天模型，而是一个**报告生成器**。用户需提供�
 
 ---
 
-## <a name="15"></a>15. Skymont：英特尔E核迈向新高度 
-<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/skymont-intels-e-cores-reach-for-the-sky): Skymont: Intel's E-Cores reach for the Sky</small>
-
-
-| 🔥: 91 \| 💬: [52](https://news.ycombinator.com/item?id=42750734) \| 🗓️ 2025-01-18
-
-
-<br />
-英特尔最新移动芯片Lunar Lake中，**Skymont**架构取代了Meteor Lake的Crestmont，成为新一代E核。Skymont不仅提升了多线程性能，还优化了低功耗背景任务处理。其**八宽乱序执行引擎**和**改进的分支预测**使其在能效和性能上显著超越前代，展示了英特尔在笔记本市场的持续竞争力。
-
----
-
-## <a name="16"></a>16. ATProto与身份所有权 
-<small>🔗 [anirudh.fi](https://anirudh.fi/blog/identity/): ATProto and the ownership of identity</small>
-
-
-| 🔥: 89 \| 💬: [100](https://news.ycombinator.com/item?id=42748101) \| 🗓️ 2025-01-18
-
-
-<br />
-**ATProto**通过**个人数据服务器（PDS）**和基于域的身份，解决了**身份所有权**和**数据所有权**的问题。用户可以在不同应用中使用相同的身份，避免了传统联邦宇宙（Fediverse）中的互操作性问题。这种分离还使应用层能够成为可盈利的服务，吸引了早期风投的兴趣。ATProto为新型社交应用铺平了道路，未来前景广阔。
-
----
-
-## <a name="17"></a>17. 基于规则的互动小说编程 
-<small>🔗 [eblong.com](https://eblong.com/zarf/essays/rule-based-if/index.html): Rule-Based Programming in Interactive Fiction</small>
-
-
-| 🔥: 87 \| 💬: [14](https://news.ycombinator.com/item?id=42748534) \| 🗓️ 2025-01-18
-
-
-<br />
-本文探讨了**Inform 7**这一互动小说创作工具中的**基于规则的编程模型**。与传统面向对象编程不同，Inform 7通过**规则书**（rulebooks）管理游戏逻辑，允许开发者定义条件驱动的行为。这种模型避免了传统OOP中的重复代码问题，提供了更灵活的解决方案，尤其适用于复杂的互动小说场景。
-
----
-
-## <a name="18"></a>18. 大规模Matrix部署将无法使用Synapse社区版 
-<small>🔗 [mastodon.matrix.org](https://mastodon.matrix.org/@element/113842786942364269): Nation-scale Matrix deployments will fail using the community version of Synapse</small>
-
-
-| 🔥: 81 \| 💬: [57](https://news.ycombinator.com/item?id=42752402) \| 🗓️ 2025-01-18
-
-
-<br />
-使用Mastodon网页应用需启用JavaScript，或尝试平台原生应用。**Synapse社区版**不支持**大规模Matrix部署**，可能导致**失败**。建议使用其他解决方案或升级版本。
-
----
-
-## <a name="19"></a>19. Unix拼写检查器如何在64kB内存中运行 
+## <a name="15"></a>15. Unix拼写检查器如何在64kB内存中运行 
 <small>🔗 [blog.codingconfessions.com](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram): How Unix spell ran in 64kb RAM</small>
 
 
-| 🔥: 81 \| 💬: [20](https://news.ycombinator.com/item?id=42752604) \| 🗓️ 2025-01-18
+| 🔥: 95 \| 💬: [22](https://news.ycombinator.com/item?id=42752604) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -250,11 +202,59 @@ o1 并非传统聊天模型，而是一个**报告生成器**。用户需提供�
 
 ---
 
+## <a name="16"></a>16. Skymont：英特尔E核迈向新高度 
+<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/skymont-intels-e-cores-reach-for-the-sky): Skymont: Intel's E-Cores reach for the Sky</small>
+
+
+| 🔥: 94 \| 💬: [56](https://news.ycombinator.com/item?id=42750734) \| 🗓️ 2025-01-18
+
+
+<br />
+英特尔最新移动芯片Lunar Lake中，**Skymont**架构取代了Meteor Lake的Crestmont，成为新一代E核。Skymont不仅提升了多线程性能，还优化了低功耗背景任务处理。其**八宽乱序执行引擎**和**改进的分支预测**使其在能效和性能上显著超越前代，展示了英特尔在笔记本市场的持续竞争力。
+
+---
+
+## <a name="17"></a>17. ATProto与身份所有权 
+<small>🔗 [anirudh.fi](https://anirudh.fi/blog/identity/): ATProto and the ownership of identity</small>
+
+
+| 🔥: 90 \| 💬: [101](https://news.ycombinator.com/item?id=42748101) \| 🗓️ 2025-01-18
+
+
+<br />
+**ATProto**通过**个人数据服务器（PDS）**和基于域的身份，解决了**身份所有权**和**数据所有权**的问题。用户可以在不同应用中使用相同的身份，避免了传统联邦宇宙（Fediverse）中的互操作性问题。这种分离还使应用层能够成为可盈利的服务，吸引了早期风投的兴趣。ATProto为新型社交应用铺平了道路，未来前景广阔。
+
+---
+
+## <a name="18"></a>18. 基于规则的互动小说编程 
+<small>🔗 [eblong.com](https://eblong.com/zarf/essays/rule-based-if/index.html): Rule-Based Programming in Interactive Fiction</small>
+
+
+| 🔥: 90 \| 💬: [15](https://news.ycombinator.com/item?id=42748534) \| 🗓️ 2025-01-18
+
+
+<br />
+本文探讨了**Inform 7**这一互动小说创作工具中的**基于规则的编程模型**。与传统面向对象编程不同，Inform 7通过**规则书**（rulebooks）管理游戏逻辑，允许开发者定义条件驱动的行为。这种模型避免了传统OOP中的重复代码问题，提供了更灵活的解决方案，尤其适用于复杂的互动小说场景。
+
+---
+
+## <a name="19"></a>19. 大规模Matrix部署将无法使用Synapse社区版 
+<small>🔗 [mastodon.matrix.org](https://mastodon.matrix.org/@element/113842786942364269): Nation-scale Matrix deployments will fail using the community version of Synapse</small>
+
+
+| 🔥: 86 \| 💬: [65](https://news.ycombinator.com/item?id=42752402) \| 🗓️ 2025-01-18
+
+
+<br />
+使用Mastodon网页应用需启用JavaScript，或尝试平台原生应用。**Synapse社区版**不支持**大规模Matrix部署**，可能导致**失败**。建议使用其他解决方案或升级版本。
+
+---
+
 ## <a name="20"></a>20. WASM GC 尚未准备好用于实时图形 
 <small>🔗 [dthompson.us](https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html): WASM GC isn't ready for realtime graphics</small>
 
 
-| 🔥: 75 \| 💬: [31](https://news.ycombinator.com/item?id=42750781) \| 🗓️ 2025-01-18
+| 🔥: 82 \| 💬: [32](https://news.ycombinator.com/item?id=42750781) \| 🗓️ 2025-01-18
 
 
 <br />
