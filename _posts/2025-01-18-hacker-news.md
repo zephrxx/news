@@ -11,7 +11,7 @@ tags:
 1. 亚马逊的AI爬虫让我的Git服务器不稳定；
 1. Show HN: 交互式 systemd – 更高效管理 systemd 单元的工具；
 1. 为什么蜜蜂蜇人后会死亡？；
-1. 谷歌搜索开始要求启用JavaScript；
+1. VS Code 宠物；
 1. AMD Radeon Instinct MI300A 的巨大内存子系统；
 
 以上是今天的前五条黑科技新闻标题。
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [xeiaso.net](https://xeiaso.net/notes/2025/amazon-crawler/): Amazon's AI crawler is making my Git server unstable</small>
 
 
-| 🔥🔥: 398 \| 💬: [151](https://news.ycombinator.com/item?id=42750420) \| 🗓️ 2025-01-18
+| 🔥🔥: 427 \| 💬: [163](https://news.ycombinator.com/item?id=42750420) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [isd-project.github.io](https://isd-project.github.io/isd/): Show HN: Interactive systemd – a better way to work with systemd units</small>
 
 
-| 🔥🔥: 318 \| 💬: [98](https://news.ycombinator.com/item?id=42749402) \| 🗓️ 2025-01-18
+| 🔥🔥: 337 \| 💬: [108](https://news.ycombinator.com/item?id=42749402) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [subanima.org](https://www.subanima.org/bees/): Why do bees die when they sting you?</small>
 
 
-| 🔥🔥: 166 \| 💬: [132](https://news.ycombinator.com/item?id=42749069) \| 🗓️ 2025-01-18
+| 🔥🔥: 179 \| 💬: [148](https://news.ycombinator.com/item?id=42749069) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -58,7 +58,31 @@ tags:
 
 ---
 
-## <a name="4"></a>4. 谷歌搜索开始要求启用JavaScript 
+## <a name="4"></a>4. VS Code 宠物 
+<small>🔗 [github.com](https://github.com/tonybaloney/vscode-pets): VS Code Pets</small>
+
+
+| 🔥🔥: 179 \| 💬: [38](https://news.ycombinator.com/item?id=42750195) \| 🗓️ 2025-01-18
+
+
+<br />
+VS Code Pets 是一款为 **VS Code** 添加可爱宠物的扩展，包括猫、狗、蛇、橡皮鸭和 Clippy 等。这些宠物旨在提升编程时的乐趣和**生产力**。用户可通过 VS Code 市场安装，支持多种语言翻译，动画由多位设计师贡献。扩展已获得 2.3k 星标，适用于 **Hacktoberfest** 等开发者活动。
+
+---
+
+## <a name="5"></a>5. AMD Radeon Instinct MI300A 的巨大内存子系统 
+<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as): The AMD Radeon Instinct MI300A's Giant Memory Subsystem</small>
+
+
+| 🔥🔥: 162 \| 💬: [65](https://news.ycombinator.com/item?id=42747864) \| 🗓️ 2025-01-18
+
+
+<br />
+AMD 的 **Radeon Instinct MI300A** 是一款集成了 **24 个 Zen 4 核心** 和 **228 个 GPU 计算单元** 的巨型 APU，采用 **Infinity Fabric** 互连技术。其内存子系统包含 **256 MB Infinity Cache** 和 **5.3 TB/s 的 HBM3 带宽**，但高延迟可能影响 CPU 性能。MI300A 的设计旨在为高性能计算和 AI 提供强大的集成图形处理能力。
+
+---
+
+## <a name="6"></a>6. 谷歌搜索开始要求启用JavaScript 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/): Google begins requiring JavaScript for Google Search</small>
 
 
@@ -70,35 +94,11 @@ tags:
 
 ---
 
-## <a name="5"></a>5. AMD Radeon Instinct MI300A 的巨大内存子系统 
-<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as): The AMD Radeon Instinct MI300A's Giant Memory Subsystem</small>
-
-
-| 🔥🔥: 155 \| 💬: [57](https://news.ycombinator.com/item?id=42747864) \| 🗓️ 2025-01-18
-
-
-<br />
-AMD 的 **Radeon Instinct MI300A** 是一款集成了 **24 个 Zen 4 核心** 和 **228 个 GPU 计算单元** 的巨型 APU，采用 **Infinity Fabric** 互连技术。其内存子系统包含 **256 MB Infinity Cache** 和 **5.3 TB/s 的 HBM3 带宽**，但高延迟可能影响 CPU 性能。MI300A 的设计旨在为高性能计算和 AI 提供强大的集成图形处理能力。
-
----
-
-## <a name="6"></a>6. VS Code 宠物 
-<small>🔗 [github.com](https://github.com/tonybaloney/vscode-pets): VS Code Pets</small>
-
-
-| 🔥🔥: 138 \| 💬: [24](https://news.ycombinator.com/item?id=42750195) \| 🗓️ 2025-01-18
-
-
-<br />
-VS Code Pets 是一款为 **VS Code** 添加可爱宠物的扩展，包括猫、狗、蛇、橡皮鸭和 Clippy 等。这些宠物旨在提升编程时的乐趣和**生产力**。用户可通过 VS Code 市场安装，支持多种语言翻译，动画由多位设计师贡献。扩展已获得 2.3k 星标，适用于 **Hacktoberfest** 等开发者活动。
-
----
-
 ## <a name="7"></a>7. 丰田普锐斯改变了汽车行业 
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/toyota-prius-transformed-auto-industry): The Toyota Prius transformed the auto industry</small>
 
 
-| 🔥🔥: 136 \| 💬: [203](https://news.ycombinator.com/item?id=42747899) \| 🗓️ 2025-01-18
+| 🔥🔥: 141 \| 💬: [211](https://news.ycombinator.com/item?id=42747899) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -110,7 +110,7 @@ VS Code Pets 是一款为 **VS Code** 添加可爱宠物的扩展，包括猫、
 <small>🔗 [neodyme.io](https://neodyme.io/en/blog/bitlocker_screwed_without_a_screwdriver/): Windows BitLocker – Screwed Without a Screwdriver</small>
 
 
-| 🔥🔥: 127 \| 💬: [84](https://news.ycombinator.com/item?id=42747877) \| 🗓️ 2025-01-18
+| 🔥🔥: 130 \| 💬: [85](https://news.ycombinator.com/item?id=42747877) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -122,7 +122,7 @@ Windows BitLocker 的默认设备加密配置存在一个名为 **bitpixie** 的
 <small>🔗 [latent.space](https://www.latent.space/p/o1-skill-issue): O1 isn't a chat model (and that's the point)</small>
 
 
-| 🔥🔥: 118 \| 💬: [81](https://news.ycombinator.com/item?id=42750096) \| 🗓️ 2025-01-18
+| 🔥🔥: 119 \| 💬: [86](https://news.ycombinator.com/item?id=42750096) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -134,7 +134,7 @@ o1 并非传统聊天模型，而是一个**报告生成器**。用户需提供�
 <small>🔗 [bugzilla.mozilla.org](https://bugzilla.mozilla.org/show_bug.cgi?id=647959): Honest Ahmed (2011)</small>
 
 
-| 🔥🔥: 107 \| 💬: [42](https://news.ycombinator.com/item?id=42747065) \| 🗓️ 2025-01-18
+| 🔥🔥: 107 \| 💬: [43](https://news.ycombinator.com/item?id=42747065) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -146,7 +146,7 @@ o1 并非传统聊天模型，而是一个**报告生成器**。用户需提供�
 <small>🔗 [dusa.rocks](https://dusa.rocks/docs/): Dusa Programming Language (Finite-Choice Logic Programming)</small>
 
 
-| 🔥: 97 \| 💬: [19](https://news.ycombinator.com/item?id=42749147) \| 🗓️ 2025-01-18
+| 🔥🔥: 106 \| 💬: [21](https://news.ycombinator.com/item?id=42749147) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -154,11 +154,23 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 
 ---
 
-## <a name="12"></a>12. ATProto与身份所有权 
+## <a name="12"></a>12. 卡尔曼滤波教程 
+<small>🔗 [kalmanfilter.net](https://www.kalmanfilter.net/default.aspx): Kalman Filter Tutorial</small>
+
+
+| 🔥: 84 \| 💬: [15](https://news.ycombinator.com/item?id=42751690) \| 🗓️ 2025-01-18
+
+
+<br />
+本教程旨在通过**直观解释**和**数值示例**，简化卡尔曼滤波的学习过程。卡尔曼滤波是一种用于在不确定性中估计和预测系统状态的强大工具，广泛应用于目标跟踪、导航和控制等领域。教程分为四部分，从基础到高级，涵盖**单变量**和**多变量**卡尔曼滤波，以及**非线性滤波**和**传感器融合**等实用指南。
+
+---
+
+## <a name="13"></a>13. ATProto与身份所有权 
 <small>🔗 [anirudh.fi](https://anirudh.fi/blog/identity/): ATProto and the ownership of identity</small>
 
 
-| 🔥: 70 \| 💬: [61](https://news.ycombinator.com/item?id=42748101) \| 🗓️ 2025-01-18
+| 🔥: 74 \| 💬: [71](https://news.ycombinator.com/item?id=42748101) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -166,7 +178,19 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 
 ---
 
-## <a name="13"></a>13. 泽西岛居民因PFAS污染被建议放血治疗 
+## <a name="14"></a>14. 基于规则的互动小说编程 
+<small>🔗 [eblong.com](https://eblong.com/zarf/essays/rule-based-if/index.html): Rule-Based Programming in Interactive Fiction</small>
+
+
+| 🔥: 59 \| 💬: [9](https://news.ycombinator.com/item?id=42748534) \| 🗓️ 2025-01-18
+
+
+<br />
+本文探讨了**Inform 7**这一互动小说创作工具中的**基于规则的编程模型**。与传统面向对象编程不同，Inform 7通过**规则书**（rulebooks）管理游戏逻辑，允许开发者定义条件驱动的行为。这种模型避免了传统OOP中的重复代码问题，提供了更灵活的解决方案，尤其适用于复杂的互动小说场景。
+
+---
+
+## <a name="15"></a>15. 泽西岛居民因PFAS污染被建议放血治疗 
 <small>🔗 [theguardian.com](https://www.theguardian.com/uk-news/2025/jan/16/bloodletting-recommended-for-jersey-residents-after-pfas-contamination): Bloodletting recommended for Jersey residents after PFAS contamination</small>
 
 
@@ -178,35 +202,11 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 
 ---
 
-## <a name="14"></a>14. 基于规则的互动小说编程 
-<small>🔗 [eblong.com](https://eblong.com/zarf/essays/rule-based-if/index.html): Rule-Based Programming in Interactive Fiction</small>
-
-
-| 🔥: 52 \| 💬: [9](https://news.ycombinator.com/item?id=42748534) \| 🗓️ 2025-01-18
-
-
-<br />
-本文探讨了**Inform 7**这一互动小说创作工具中的**基于规则的编程模型**。与传统面向对象编程不同，Inform 7通过**规则书**（rulebooks）管理游戏逻辑，允许开发者定义条件驱动的行为。这种模型避免了传统OOP中的重复代码问题，提供了更灵活的解决方案，尤其适用于复杂的互动小说场景。
-
----
-
-## <a name="15"></a>15. 卡尔曼滤波教程 
-<small>🔗 [kalmanfilter.net](https://www.kalmanfilter.net/default.aspx): Kalman Filter Tutorial</small>
-
-
-| 🔥: 38 \| 💬: [3](https://news.ycombinator.com/item?id=42751690) \| 🗓️ 2025-01-18
-
-
-<br />
-本教程旨在通过**直观解释**和**数值示例**，简化卡尔曼滤波的学习过程。卡尔曼滤波是一种用于在不确定性中估计和预测系统状态的强大工具，广泛应用于目标跟踪、导航和控制等领域。教程分为四部分，从基础到高级，涵盖**单变量**和**多变量**卡尔曼滤波，以及**非线性滤波**和**传感器融合**等实用指南。
-
----
-
 ## <a name="16"></a>16. Skymont：英特尔E核迈向新高度 
 <small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/skymont-intels-e-cores-reach-for-the-sky): Skymont: Intel's E-Cores reach for the Sky</small>
 
 
-| 🔥: 35 \| 💬: [11](https://news.ycombinator.com/item?id=42750734) \| 🗓️ 2025-01-18
+| 🔥: 56 \| 💬: [17](https://news.ycombinator.com/item?id=42750734) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -214,50 +214,50 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 
 ---
 
-## <a name="17"></a>17. 《阿特拉斯耸耸肩》是新潮流吗？ 
-<small>🔗 [commonreader.co.uk](https://www.commonreader.co.uk/p/is-atlas-shrugged-the-new-vibe): Is Atlas Shrugged the New Vibe?</small>
+## <a name="17"></a>17. Perplexity AI 提交与 TikTok 合并的竞标 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/): Perplexity AI submits bid to merge with TikTok</small>
 
 
-| 🔥: 33 \| 💬: [53](https://news.ycombinator.com/item?id=42748963) \| 🗓️ 2025-01-18
-
-
-<br />
-《阿特拉斯耸耸肩》近期再次引发热议，**Ayn Rand**的思想对现代企业家如**Elon Musk**和**Marc Andreessen**产生了深远影响。尽管Rand的作品常被视为意识形态的载体，但其小说中的**理性主义**和**个人主义**主题仍具有现实意义。Rand通过主角Dagny Taggart的故事，探讨了在腐败社会中坚持道德与追求卓越的重要性。尽管Rand的思想在左右两派中都受到批评，但其作品在当今社会动荡的背景下显得尤为相关。
-
----
-
-## <a name="18"></a>18. 如果没人想念TikTok会怎样？ 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/01/18/technology/what-if-no-one-misses-tiktok.html): What if no one misses TikTok?</small>
-
-
-| 🔥: 33 \| 💬: [105](https://news.ycombinator.com/item?id=42749884) \| 🗓️ 2025-01-18
+| 🔥: 53 \| 💬: [47](https://news.ycombinator.com/item?id=42751649) \| 🗓️ 2025-01-18
 
 
 <br />
-随着**TikTok禁令**的临近，美国用户似乎对这款流行社交应用的消失并不感到担忧。尽管有部分用户转向其他平台，如**Xiaohongshu**，但整体反应冷淡。最高法院已支持禁令，TikTok的**1.7亿美国用户**可能面临应用的突然消失，但公众情绪更多是黑色幽默而非愤怒或悲伤。
+随着美国对 TikTok 的禁令迫在眉睫，**Perplexity AI** 成为最新一家希望为 TikTok 提供新归属的竞标者。Perplexity 提议与 TikTok 美国业务合并，成立新实体，并允许字节跳动的大部分投资者保留股权。此举旨在为 Perplexity 的 AI 搜索引擎引入更多视频内容。尽管字节跳动多次表示无意出售 TikTok，Perplexity 希望通过合并而非出售的方式克服这一障碍。
 
 ---
 
-## <a name="19"></a>19. FTC禁止《原神》开发商向16岁以下青少年出售抽奖箱，罚款2000万美元 
-<small>🔗 [ftc.gov](https://www.ftc.gov/news-events/news/press-releases/2025/01/genshin-impact-game-developer-will-be-banned-selling-lootboxes-teens-under-16-without-parental): FTC bans Genshin Impact dev from selling lootboxes to under-16s, fines them $20M</small>
-
-
-| 🔥: 32 \| 💬: [10](https://news.ycombinator.com/item?id=42748130) \| 🗓️ 2025-01-18
-
-
-<br />
-美国联邦贸易委员会（FTC）指控《原神》开发商**Cognosphere**向未成年人**不公平营销**抽奖箱，隐瞒真实成本并误导玩家中奖概率。开发商同意支付**2000万美元**罚款，并禁止向16岁以下青少年出售抽奖箱，除非获得家长同意。
-
----
-
-## <a name="20"></a>20. 逆向工程Pentium中的进位前瞻加法器 
+## <a name="18"></a>18. 逆向工程Pentium中的进位前瞻加法器 
 <small>🔗 [righto.com](https://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html): Reverse-engineering a carry-lookahead adder in the Pentium</small>
 
 
-| 🔥: 30 \| 💬: [3](https://news.ycombinator.com/item?id=42750454) \| 🗓️ 2025-01-18
+| 🔥: 36 \| 💬: [4](https://news.ycombinator.com/item?id=42750454) \| 🗓️ 2025-01-18
 
 
 <br />
 本文详细介绍了Pentium浮点单元中的8位**进位前瞻加法器**（Carry-Lookahead Adder），特别是**Kogge-Stone**类型的实现。通过并行计算进位信号，加法器避免了传统**逐位进位**（Ripple Carry）的延迟问题。文章还展示了Pentium如何通过多层电路实现这一设计，并解释了其逻辑方程与硬件电路的关系。
+
+---
+
+## <a name="19"></a>19. 量子计算机不会工作的说法是否可信？ 
+<small>🔗 [blog.cr.yp.to](https://blog.cr.yp.to/20250118-flight.html): Looking at some claims that quantum computers won't work</small>
+
+
+| 🔥: 35 \| 💬: [8](https://news.ycombinator.com/item?id=42750264) \| 🗓️ 2025-01-18
+
+
+<br />
+本文探讨了关于**量子计算机**无法有效工作的论点，特别是针对其破解RSA-2048的能力。作者分析了**指数能量消耗**的论点，指出其缺乏科学依据，并强调量子计算机的潜在威胁。尽管有人认为量子计算是炒作，但作者认为忽视这些风险是不明智的。
+
+---
+
+## <a name="20"></a>20. 如果没人想念TikTok会怎样？ 
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/01/18/technology/what-if-no-one-misses-tiktok.html): What if no one misses TikTok?</small>
+
+
+| 🔥: 34 \| 💬: [115](https://news.ycombinator.com/item?id=42749884) \| 🗓️ 2025-01-18
+
+
+<br />
+随着**TikTok禁令**的临近，美国用户似乎对这款流行社交应用的消失并不感到担忧。尽管有部分用户转向其他平台，如**Xiaohongshu**，但整体反应冷淡。最高法院已支持禁令，TikTok的**1.7亿美国用户**可能面临应用的突然消失，但公众情绪更多是黑色幽默而非愤怒或悲伤。
 
 ---
