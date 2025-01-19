@@ -26,7 +26,7 @@ tags:
 <small>🔗 [xeiaso.net](https://xeiaso.net/notes/2025/amazon-crawler/): Amazon's AI crawler is making my Git server unstable</small>
 
 
-| 🔥🔥: 462 \| 💬: [177](https://news.ycombinator.com/item?id=42750420) \| 🗓️ 2025-01-18
+| 🔥🔥: 481 \| 💬: [182](https://news.ycombinator.com/item?id=42750420) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [isd-project.github.io](https://isd-project.github.io/isd/): Show HN: Interactive systemd – a better way to work with systemd units</small>
 
 
-| 🔥🔥: 368 \| 💬: [123](https://news.ycombinator.com/item?id=42749402) \| 🗓️ 2025-01-18
+| 🔥🔥: 380 \| 💬: [128](https://news.ycombinator.com/item?id=42749402) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [github.com](https://github.com/tonybaloney/vscode-pets): VS Code Pets</small>
 
 
-| 🔥🔥: 233 \| 💬: [56](https://news.ycombinator.com/item?id=42750195) \| 🗓️ 2025-01-18
+| 🔥🔥: 253 \| 💬: [62](https://news.ycombinator.com/item?id=42750195) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -62,7 +62,7 @@ VS Code Pets 是一款为 **VS Code** 添加可爱宠物的扩展，包括猫、
 <small>🔗 [subanima.org](https://www.subanima.org/bees/): Why do bees die when they sting you?</small>
 
 
-| 🔥🔥: 203 \| 💬: [167](https://news.ycombinator.com/item?id=42749069) \| 🗓️ 2025-01-18
+| 🔥🔥: 214 \| 💬: [174](https://news.ycombinator.com/item?id=42749069) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -74,7 +74,7 @@ VS Code Pets 是一款为 **VS Code** 添加可爱宠物的扩展，包括猫、
 <small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as): The AMD Radeon Instinct MI300A's Giant Memory Subsystem</small>
 
 
-| 🔥🔥: 170 \| 💬: [74](https://news.ycombinator.com/item?id=42747864) \| 🗓️ 2025-01-18
+| 🔥🔥: 174 \| 💬: [76](https://news.ycombinator.com/item?id=42747864) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -86,7 +86,7 @@ AMD 的 **Radeon Instinct MI300A** 是一款集成了 **24 个 Zen 4 核心** �
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/): Google begins requiring JavaScript for Google Search</small>
 
 
-| 🔥🔥: 159 \| 💬: [129](https://news.ycombinator.com/item?id=42747092) \| 🗓️ 2025-01-18
+| 🔥🔥: 161 \| 💬: [130](https://news.ycombinator.com/item?id=42747092) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -94,35 +94,11 @@ AMD 的 **Radeon Instinct MI300A** 是一款集成了 **24 个 Zen 4 核心** �
 
 ---
 
-## <a name="7"></a>7. 丰田普锐斯改变了汽车行业 
-<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/toyota-prius-transformed-auto-industry): The Toyota Prius transformed the auto industry</small>
-
-
-| 🔥🔥: 146 \| 💬: [220](https://news.ycombinator.com/item?id=42747899) \| 🗓️ 2025-01-18
-
-
-<br />
-1997年推出的**第一代丰田普锐斯**是首款大规模生产的**混合动力电动汽车**，结合了内燃机和电动机。这一创新不仅推动了环保技术的发展，还对整个汽车行业产生了深远影响，成为IEEE里程碑之一。
-
----
-
-## <a name="8"></a>8. Windows BitLocker – 无需螺丝刀的破解 
-<small>🔗 [neodyme.io](https://neodyme.io/en/blog/bitlocker_screwed_without_a_screwdriver/): Windows BitLocker – Screwed Without a Screwdriver</small>
-
-
-| 🔥🔥: 143 \| 💬: [89](https://news.ycombinator.com/item?id=42747877) \| 🗓️ 2025-01-18
-
-
-<br />
-Windows BitLocker 的默认设备加密配置存在一个名为 **bitpixie** 的漏洞，攻击者无需拆解设备即可提取磁盘加密密钥。该漏洞利用 **PXE 软重启** 流程，通过降级引导加载程序，绕过 **Secure Boot** 和 **TPM** 保护，获取 **VMK** 密钥并解密磁盘。尽管微软已修复该漏洞，但由于 **Secure Boot** 的设计缺陷，攻击者仍可通过旧版引导加载程序进行利用。
-
----
-
-## <a name="9"></a>9. 卡尔曼滤波教程 
+## <a name="7"></a>7. 卡尔曼滤波教程 
 <small>🔗 [kalmanfilter.net](https://www.kalmanfilter.net/default.aspx): Kalman Filter Tutorial</small>
 
 
-| 🔥🔥: 137 \| 💬: [26](https://news.ycombinator.com/item?id=42751690) \| 🗓️ 2025-01-18
+| 🔥🔥: 160 \| 💬: [34](https://news.ycombinator.com/item?id=42751690) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -130,11 +106,35 @@ Windows BitLocker 的默认设备加密配置存在一个名为 **bitpixie** 的
 
 ---
 
+## <a name="8"></a>8. 丰田普锐斯改变了汽车行业 
+<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/toyota-prius-transformed-auto-industry): The Toyota Prius transformed the auto industry</small>
+
+
+| 🔥🔥: 150 \| 💬: [223](https://news.ycombinator.com/item?id=42747899) \| 🗓️ 2025-01-18
+
+
+<br />
+1997年推出的**第一代丰田普锐斯**是首款大规模生产的**混合动力电动汽车**，结合了内燃机和电动机。这一创新不仅推动了环保技术的发展，还对整个汽车行业产生了深远影响，成为IEEE里程碑之一。
+
+---
+
+## <a name="9"></a>9. Windows BitLocker – 无需螺丝刀的破解 
+<small>🔗 [neodyme.io](https://neodyme.io/en/blog/bitlocker_screwed_without_a_screwdriver/): Windows BitLocker – Screwed Without a Screwdriver</small>
+
+
+| 🔥🔥: 147 \| 💬: [89](https://news.ycombinator.com/item?id=42747877) \| 🗓️ 2025-01-18
+
+
+<br />
+Windows BitLocker 的默认设备加密配置存在一个名为 **bitpixie** 的漏洞，攻击者无需拆解设备即可提取磁盘加密密钥。该漏洞利用 **PXE 软重启** 流程，通过降级引导加载程序，绕过 **Secure Boot** 和 **TPM** 保护，获取 **VMK** 密钥并解密磁盘。尽管微软已修复该漏洞，但由于 **Secure Boot** 的设计缺陷，攻击者仍可通过旧版引导加载程序进行利用。
+
+---
+
 ## <a name="10"></a>10. o1 不是聊天模型（这才是重点） 
 <small>🔗 [latent.space](https://www.latent.space/p/o1-skill-issue): O1 isn't a chat model (and that's the point)</small>
 
 
-| 🔥🔥: 125 \| 💬: [91](https://news.ycombinator.com/item?id=42750096) \| 🗓️ 2025-01-18
+| 🔥🔥: 127 \| 💬: [101](https://news.ycombinator.com/item?id=42750096) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -146,7 +146,7 @@ o1 并非传统聊天模型，而是一个**报告生成器**。用户需提供�
 <small>🔗 [dusa.rocks](https://dusa.rocks/docs/): Dusa Programming Language (Finite-Choice Logic Programming)</small>
 
 
-| 🔥🔥: 120 \| 💬: [26](https://news.ycombinator.com/item?id=42749147) \| 🗓️ 2025-01-18
+| 🔥🔥: 126 \| 💬: [27](https://news.ycombinator.com/item?id=42749147) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -166,23 +166,11 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 
 ---
 
-## <a name="13"></a>13. ATProto与身份所有权 
-<small>🔗 [anirudh.fi](https://anirudh.fi/blog/identity/): ATProto and the ownership of identity</small>
-
-
-| 🔥: 80 \| 💬: [81](https://news.ycombinator.com/item?id=42748101) \| 🗓️ 2025-01-18
-
-
-<br />
-**ATProto**通过**个人数据服务器（PDS）**和基于域的身份，解决了**身份所有权**和**数据所有权**的问题。用户可以在不同应用中使用相同的身份，避免了传统联邦宇宙（Fediverse）中的互操作性问题。这种分离还使应用层能够成为可盈利的服务，吸引了早期风投的兴趣。ATProto为新型社交应用铺平了道路，未来前景广阔。
-
----
-
-## <a name="14"></a>14. Perplexity AI 提交与 TikTok 合并的竞标 
+## <a name="13"></a>13. Perplexity AI 提交与 TikTok 合并的竞标 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/): Perplexity AI submits bid to merge with TikTok</small>
 
 
-| 🔥: 76 \| 💬: [65](https://news.ycombinator.com/item?id=42751649) \| 🗓️ 2025-01-18
+| 🔥: 89 \| 💬: [73](https://news.ycombinator.com/item?id=42751649) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -190,23 +178,23 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 
 ---
 
-## <a name="15"></a>15. 基于规则的互动小说编程 
-<small>🔗 [eblong.com](https://eblong.com/zarf/essays/rule-based-if/index.html): Rule-Based Programming in Interactive Fiction</small>
+## <a name="14"></a>14. ATProto与身份所有权 
+<small>🔗 [anirudh.fi](https://anirudh.fi/blog/identity/): ATProto and the ownership of identity</small>
 
 
-| 🔥: 74 \| 💬: [14](https://news.ycombinator.com/item?id=42748534) \| 🗓️ 2025-01-18
+| 🔥: 86 \| 💬: [89](https://news.ycombinator.com/item?id=42748101) \| 🗓️ 2025-01-18
 
 
 <br />
-本文探讨了**Inform 7**这一互动小说创作工具中的**基于规则的编程模型**。与传统面向对象编程不同，Inform 7通过**规则书**（rulebooks）管理游戏逻辑，允许开发者定义条件驱动的行为。这种模型避免了传统OOP中的重复代码问题，提供了更灵活的解决方案，尤其适用于复杂的互动小说场景。
+**ATProto**通过**个人数据服务器（PDS）**和基于域的身份，解决了**身份所有权**和**数据所有权**的问题。用户可以在不同应用中使用相同的身份，避免了传统联邦宇宙（Fediverse）中的互操作性问题。这种分离还使应用层能够成为可盈利的服务，吸引了早期风投的兴趣。ATProto为新型社交应用铺平了道路，未来前景广阔。
 
 ---
 
-## <a name="16"></a>16. Skymont：英特尔E核迈向新高度 
+## <a name="15"></a>15. Skymont：英特尔E核迈向新高度 
 <small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/skymont-intels-e-cores-reach-for-the-sky): Skymont: Intel's E-Cores reach for the Sky</small>
 
 
-| 🔥: 73 \| 💬: [33](https://news.ycombinator.com/item?id=42750734) \| 🗓️ 2025-01-18
+| 🔥: 80 \| 💬: [38](https://news.ycombinator.com/item?id=42750734) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -214,7 +202,43 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 
 ---
 
-## <a name="17"></a>17. 泽西岛居民因PFAS污染被建议放血治疗 
+## <a name="16"></a>16. 基于规则的互动小说编程 
+<small>🔗 [eblong.com](https://eblong.com/zarf/essays/rule-based-if/index.html): Rule-Based Programming in Interactive Fiction</small>
+
+
+| 🔥: 78 \| 💬: [14](https://news.ycombinator.com/item?id=42748534) \| 🗓️ 2025-01-18
+
+
+<br />
+本文探讨了**Inform 7**这一互动小说创作工具中的**基于规则的编程模型**。与传统面向对象编程不同，Inform 7通过**规则书**（rulebooks）管理游戏逻辑，允许开发者定义条件驱动的行为。这种模型避免了传统OOP中的重复代码问题，提供了更灵活的解决方案，尤其适用于复杂的互动小说场景。
+
+---
+
+## <a name="17"></a>17. 大规模Matrix部署将无法使用Synapse社区版 
+<small>🔗 [mastodon.matrix.org](https://mastodon.matrix.org/@element/113842786942364269): Nation-scale Matrix deployments will fail using the community version of Synapse</small>
+
+
+| 🔥: 65 \| 💬: [55](https://news.ycombinator.com/item?id=42752402) \| 🗓️ 2025-01-18
+
+
+<br />
+使用Mastodon网页应用需启用JavaScript，或尝试平台原生应用。**Synapse社区版**不支持**大规模Matrix部署**，可能导致**失败**。建议使用其他解决方案或升级版本。
+
+---
+
+## <a name="18"></a>18. WASM GC 尚未准备好用于实时图形 
+<small>🔗 [dthompson.us](https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html): WASM GC isn't ready for realtime graphics</small>
+
+
+| 🔥: 63 \| 💬: [25](https://news.ycombinator.com/item?id=42750781) \| 🗓️ 2025-01-18
+
+
+<br />
+WASM GC 是一项强大的功能，现已支持所有主流浏览器，允许托管内存语言利用浏览器引擎中的垃圾回收机制。然而，**WASM GC** 在处理实时图形时存在显著性能问题，尤其是**二进制数据操作**的低效性。与线性内存相比，WASM GC 的堆对象对宿主不透明，导致数据访问和操作需要大量额外开销。尽管有一些临时解决方案，但这些问题仍需社区进一步优化和解决。
+
+---
+
+## <a name="19"></a>19. 泽西岛居民因PFAS污染被建议放血治疗 
 <small>🔗 [theguardian.com](https://www.theguardian.com/uk-news/2025/jan/16/bloodletting-recommended-for-jersey-residents-after-pfas-contamination): Bloodletting recommended for Jersey residents after PFAS contamination</small>
 
 
@@ -226,35 +250,11 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 
 ---
 
-## <a name="18"></a>18. 大规模Matrix部署将无法使用Synapse社区版 
-<small>🔗 [mastodon.matrix.org](https://mastodon.matrix.org/@element/113842786942364269): Nation-scale Matrix deployments will fail using the community version of Synapse</small>
-
-
-| 🔥: 54 \| 💬: [43](https://news.ycombinator.com/item?id=42752402) \| 🗓️ 2025-01-18
-
-
-<br />
-使用Mastodon网页应用需启用JavaScript，或尝试平台原生应用。**Synapse社区版**不支持**大规模Matrix部署**，可能导致**失败**。建议使用其他解决方案或升级版本。
-
----
-
-## <a name="19"></a>19. WASM GC 尚未准备好用于实时图形 
-<small>🔗 [dthompson.us](https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html): WASM GC isn't ready for realtime graphics</small>
-
-
-| 🔥: 53 \| 💬: [17](https://news.ycombinator.com/item?id=42750781) \| 🗓️ 2025-01-18
-
-
-<br />
-WASM GC 是一项强大的功能，现已支持所有主流浏览器，允许托管内存语言利用浏览器引擎中的垃圾回收机制。然而，**WASM GC** 在处理实时图形时存在显著性能问题，尤其是**二进制数据操作**的低效性。与线性内存相比，WASM GC 的堆对象对宿主不透明，导致数据访问和操作需要大量额外开销。尽管有一些临时解决方案，但这些问题仍需社区进一步优化和解决。
-
----
-
 ## <a name="20"></a>20. 逆向工程Pentium中的进位前瞻加法器 
 <small>🔗 [righto.com](https://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html): Reverse-engineering a carry-lookahead adder in the Pentium</small>
 
 
-| 🔥: 49 \| 💬: [7](https://news.ycombinator.com/item?id=42750454) \| 🗓️ 2025-01-18
+| 🔥: 51 \| 💬: [8](https://news.ycombinator.com/item?id=42750454) \| 🗓️ 2025-01-18
 
 
 <br />
