@@ -12,6 +12,7 @@ tags:
 * LLM能否通过反复要求“写更好的代码”来生成更优代码？;
 * F-Droid 伪造签名漏洞验证;
 
+<iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
 ![](/assets/images/hacker_news.jpg)
 
 
