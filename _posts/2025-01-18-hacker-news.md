@@ -12,7 +12,7 @@ tags:
 1. Show HN: 交互式 systemd – 更高效管理 systemd 单元的工具；
 1. VS Code 宠物；
 1. 为什么蜜蜂蜇人后会死亡？；
-1. AMD Radeon Instinct MI300A 的巨大内存子系统；
+1. 卡尔曼滤波教程；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [xeiaso.net](https://xeiaso.net/notes/2025/amazon-crawler/): Amazon's AI crawler is making my Git server unstable</small>
 
 
-| 🔥🔥: 481 \| 💬: [182](https://news.ycombinator.com/item?id=42750420) \| 🗓️ 2025-01-18
+| 🔥🔥: 494 \| 💬: [184](https://news.ycombinator.com/item?id=42750420) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [isd-project.github.io](https://isd-project.github.io/isd/): Show HN: Interactive systemd – a better way to work with systemd units</small>
 
 
-| 🔥🔥: 380 \| 💬: [128](https://news.ycombinator.com/item?id=42749402) \| 🗓️ 2025-01-18
+| 🔥🔥: 391 \| 💬: [133](https://news.ycombinator.com/item?id=42749402) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [github.com](https://github.com/tonybaloney/vscode-pets): VS Code Pets</small>
 
 
-| 🔥🔥: 253 \| 💬: [62](https://news.ycombinator.com/item?id=42750195) \| 🗓️ 2025-01-18
+| 🔥🔥: 281 \| 💬: [69](https://news.ycombinator.com/item?id=42750195) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -62,7 +62,7 @@ VS Code Pets 是一款为 **VS Code** 添加可爱宠物的扩展，包括猫、
 <small>🔗 [subanima.org](https://www.subanima.org/bees/): Why do bees die when they sting you?</small>
 
 
-| 🔥🔥: 214 \| 💬: [174](https://news.ycombinator.com/item?id=42749069) \| 🗓️ 2025-01-18
+| 🔥🔥: 227 \| 💬: [178](https://news.ycombinator.com/item?id=42749069) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -70,35 +70,11 @@ VS Code Pets 是一款为 **VS Code** 添加可爱宠物的扩展，包括猫、
 
 ---
 
-## <a name="5"></a>5. AMD Radeon Instinct MI300A 的巨大内存子系统 
-<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as): The AMD Radeon Instinct MI300A's Giant Memory Subsystem</small>
-
-
-| 🔥🔥: 174 \| 💬: [76](https://news.ycombinator.com/item?id=42747864) \| 🗓️ 2025-01-18
-
-
-<br />
-AMD 的 **Radeon Instinct MI300A** 是一款集成了 **24 个 Zen 4 核心** 和 **228 个 GPU 计算单元** 的巨型 APU，采用 **Infinity Fabric** 互连技术。其内存子系统包含 **256 MB Infinity Cache** 和 **5.3 TB/s 的 HBM3 带宽**，但高延迟可能影响 CPU 性能。MI300A 的设计旨在为高性能计算和 AI 提供强大的集成图形处理能力。
-
----
-
-## <a name="6"></a>6. 谷歌搜索开始要求启用JavaScript 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/): Google begins requiring JavaScript for Google Search</small>
-
-
-| 🔥🔥: 161 \| 💬: [130](https://news.ycombinator.com/item?id=42747092) \| 🗓️ 2025-01-18
-
-
-<br />
-谷歌宣布，用户需启用**JavaScript**才能使用谷歌搜索。此举旨在**防止恶意活动**（如机器人和垃圾信息）并提升搜索体验。尽管大多数网站已使用JavaScript，但此举可能影响依赖无障碍工具的用户。此外，JavaScript存在**安全漏洞**，且可能限制第三方工具获取搜索趋势数据。
-
----
-
-## <a name="7"></a>7. 卡尔曼滤波教程 
+## <a name="5"></a>5. 卡尔曼滤波教程 
 <small>🔗 [kalmanfilter.net](https://www.kalmanfilter.net/default.aspx): Kalman Filter Tutorial</small>
 
 
-| 🔥🔥: 160 \| 💬: [34](https://news.ycombinator.com/item?id=42751690) \| 🗓️ 2025-01-18
+| 🔥🔥: 181 \| 💬: [39](https://news.ycombinator.com/item?id=42751690) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -106,11 +82,35 @@ AMD 的 **Radeon Instinct MI300A** 是一款集成了 **24 个 Zen 4 核心** �
 
 ---
 
+## <a name="6"></a>6. AMD Radeon Instinct MI300A 的巨大内存子系统 
+<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as): The AMD Radeon Instinct MI300A's Giant Memory Subsystem</small>
+
+
+| 🔥🔥: 176 \| 💬: [76](https://news.ycombinator.com/item?id=42747864) \| 🗓️ 2025-01-18
+
+
+<br />
+AMD 的 **Radeon Instinct MI300A** 是一款集成了 **24 个 Zen 4 核心** 和 **228 个 GPU 计算单元** 的巨型 APU，采用 **Infinity Fabric** 互连技术。其内存子系统包含 **256 MB Infinity Cache** 和 **5.3 TB/s 的 HBM3 带宽**，但高延迟可能影响 CPU 性能。MI300A 的设计旨在为高性能计算和 AI 提供强大的集成图形处理能力。
+
+---
+
+## <a name="7"></a>7. 谷歌搜索开始要求启用JavaScript 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/): Google begins requiring JavaScript for Google Search</small>
+
+
+| 🔥🔥: 162 \| 💬: [130](https://news.ycombinator.com/item?id=42747092) \| 🗓️ 2025-01-18
+
+
+<br />
+谷歌宣布，用户需启用**JavaScript**才能使用谷歌搜索。此举旨在**防止恶意活动**（如机器人和垃圾信息）并提升搜索体验。尽管大多数网站已使用JavaScript，但此举可能影响依赖无障碍工具的用户。此外，JavaScript存在**安全漏洞**，且可能限制第三方工具获取搜索趋势数据。
+
+---
+
 ## <a name="8"></a>8. 丰田普锐斯改变了汽车行业 
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/toyota-prius-transformed-auto-industry): The Toyota Prius transformed the auto industry</small>
 
 
-| 🔥🔥: 150 \| 💬: [223](https://news.ycombinator.com/item?id=42747899) \| 🗓️ 2025-01-18
+| 🔥🔥: 150 \| 💬: [228](https://news.ycombinator.com/item?id=42747899) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -122,7 +122,7 @@ AMD 的 **Radeon Instinct MI300A** 是一款集成了 **24 个 Zen 4 核心** �
 <small>🔗 [neodyme.io](https://neodyme.io/en/blog/bitlocker_screwed_without_a_screwdriver/): Windows BitLocker – Screwed Without a Screwdriver</small>
 
 
-| 🔥🔥: 147 \| 💬: [89](https://news.ycombinator.com/item?id=42747877) \| 🗓️ 2025-01-18
+| 🔥🔥: 148 \| 💬: [90](https://news.ycombinator.com/item?id=42747877) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -134,7 +134,7 @@ Windows BitLocker 的默认设备加密配置存在一个名为 **bitpixie** 的
 <small>🔗 [latent.space](https://www.latent.space/p/o1-skill-issue): O1 isn't a chat model (and that's the point)</small>
 
 
-| 🔥🔥: 127 \| 💬: [101](https://news.ycombinator.com/item?id=42750096) \| 🗓️ 2025-01-18
+| 🔥🔥: 130 \| 💬: [107](https://news.ycombinator.com/item?id=42750096) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -170,7 +170,7 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/): Perplexity AI submits bid to merge with TikTok</small>
 
 
-| 🔥: 89 \| 💬: [73](https://news.ycombinator.com/item?id=42751649) \| 🗓️ 2025-01-18
+| 🔥: 94 \| 💬: [90](https://news.ycombinator.com/item?id=42751649) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -182,7 +182,7 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 <small>🔗 [anirudh.fi](https://anirudh.fi/blog/identity/): ATProto and the ownership of identity</small>
 
 
-| 🔥: 86 \| 💬: [89](https://news.ycombinator.com/item?id=42748101) \| 🗓️ 2025-01-18
+| 🔥: 88 \| 💬: [94](https://news.ycombinator.com/item?id=42748101) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -194,7 +194,7 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 <small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/skymont-intels-e-cores-reach-for-the-sky): Skymont: Intel's E-Cores reach for the Sky</small>
 
 
-| 🔥: 80 \| 💬: [38](https://news.ycombinator.com/item?id=42750734) \| 🗓️ 2025-01-18
+| 🔥: 84 \| 💬: [48](https://news.ycombinator.com/item?id=42750734) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -218,7 +218,7 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 <small>🔗 [mastodon.matrix.org](https://mastodon.matrix.org/@element/113842786942364269): Nation-scale Matrix deployments will fail using the community version of Synapse</small>
 
 
-| 🔥: 65 \| 💬: [55](https://news.ycombinator.com/item?id=42752402) \| 🗓️ 2025-01-18
+| 🔥: 71 \| 💬: [56](https://news.ycombinator.com/item?id=42752402) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -230,7 +230,7 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 <small>🔗 [dthompson.us](https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html): WASM GC isn't ready for realtime graphics</small>
 
 
-| 🔥: 63 \| 💬: [25](https://news.ycombinator.com/item?id=42750781) \| 🗓️ 2025-01-18
+| 🔥: 69 \| 💬: [29](https://news.ycombinator.com/item?id=42750781) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -238,7 +238,19 @@ WASM GC 是一项强大的功能，现已支持所有主流浏览器，允许托
 
 ---
 
-## <a name="19"></a>19. 泽西岛居民因PFAS污染被建议放血治疗 
+## <a name="19"></a>19. Unix拼写检查器如何在64kB内存中运行 
+<small>🔗 [blog.codingconfessions.com](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram): Unix Spell Ran in 64kB RAM</small>
+
+
+| 🔥: 65 \| 💬: [17](https://news.ycombinator.com/item?id=42752604) \| 🗓️ 2025-01-18
+
+
+<br />
+在1970年代，Unix工程师Douglas McIlroy面临将250kB字典压缩至64kB内存的挑战。他通过**词干提取算法**将字典缩减至25,000个词，并使用**Bloom过滤器**进行快速查找。随着字典增长，他采用**哈希压缩技术**，利用几何分布和Golomb编码，最终将每个词压缩至13.60比特，接近理论最小值13.57比特。这一创新展示了在严格资源限制下的工程智慧。
+
+---
+
+## <a name="20"></a>20. 泽西岛居民因PFAS污染被建议放血治疗 
 <small>🔗 [theguardian.com](https://www.theguardian.com/uk-news/2025/jan/16/bloodletting-recommended-for-jersey-residents-after-pfas-contamination): Bloodletting recommended for Jersey residents after PFAS contamination</small>
 
 
@@ -247,17 +259,5 @@ WASM GC 是一项强大的功能，现已支持所有主流浏览器，允许托
 
 <br />
 泽西岛的私人饮用水源因机场使用含**PFAS**的消防泡沫而受到污染。这些“永久化学物质”与癌症、甲状腺疾病等健康问题相关。**放血疗法**被推荐用于降低血液中PFAS浓度，但成本高昂且需重复进行。政府计划2025年推出临床服务，同时考虑使用药物**胆甾胺**作为替代方案。污染问题已持续数十年，居民健康受到威胁，但赔偿可能性低。
-
----
-
-## <a name="20"></a>20. 逆向工程Pentium中的进位前瞻加法器 
-<small>🔗 [righto.com](https://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html): Reverse-engineering a carry-lookahead adder in the Pentium</small>
-
-
-| 🔥: 51 \| 💬: [8](https://news.ycombinator.com/item?id=42750454) \| 🗓️ 2025-01-18
-
-
-<br />
-本文详细介绍了Pentium浮点单元中的8位**进位前瞻加法器**（Carry-Lookahead Adder），特别是**Kogge-Stone**类型的实现。通过并行计算进位信号，加法器避免了传统**逐位进位**（Ripple Carry）的延迟问题。文章还展示了Pentium如何通过多层电路实现这一设计，并解释了其逻辑方程与硬件电路的关系。
 
 ---
