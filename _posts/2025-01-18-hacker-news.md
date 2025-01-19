@@ -26,7 +26,7 @@ tags:
 <small>🔗 [xeiaso.net](https://xeiaso.net/notes/2025/amazon-crawler/): Amazon's AI crawler is making my Git server unstable</small>
 
 
-| 🔥🔥: 494 \| 💬: [184](https://news.ycombinator.com/item?id=42750420) \| 🗓️ 2025-01-18
+| 🔥🔥: 509 \| 💬: [194](https://news.ycombinator.com/item?id=42750420) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [isd-project.github.io](https://isd-project.github.io/isd/): Show HN: Interactive systemd – a better way to work with systemd units</small>
 
 
-| 🔥🔥: 391 \| 💬: [133](https://news.ycombinator.com/item?id=42749402) \| 🗓️ 2025-01-18
+| 🔥🔥: 398 \| 💬: [134](https://news.ycombinator.com/item?id=42749402) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [github.com](https://github.com/tonybaloney/vscode-pets): VS Code Pets</small>
 
 
-| 🔥🔥: 281 \| 💬: [69](https://news.ycombinator.com/item?id=42750195) \| 🗓️ 2025-01-18
+| 🔥🔥: 292 \| 💬: [71](https://news.ycombinator.com/item?id=42750195) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -62,7 +62,7 @@ VS Code Pets 是一款为 **VS Code** 添加可爱宠物的扩展，包括猫、
 <small>🔗 [subanima.org](https://www.subanima.org/bees/): Why do bees die when they sting you?</small>
 
 
-| 🔥🔥: 227 \| 💬: [178](https://news.ycombinator.com/item?id=42749069) \| 🗓️ 2025-01-18
+| 🔥🔥: 236 \| 💬: [180](https://news.ycombinator.com/item?id=42749069) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -74,7 +74,7 @@ VS Code Pets 是一款为 **VS Code** 添加可爱宠物的扩展，包括猫、
 <small>🔗 [kalmanfilter.net](https://www.kalmanfilter.net/default.aspx): Kalman Filter Tutorial</small>
 
 
-| 🔥🔥: 181 \| 💬: [39](https://news.ycombinator.com/item?id=42751690) \| 🗓️ 2025-01-18
+| 🔥🔥: 203 \| 💬: [47](https://news.ycombinator.com/item?id=42751690) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -82,11 +82,23 @@ VS Code Pets 是一款为 **VS Code** 添加可爱宠物的扩展，包括猫、
 
 ---
 
-## <a name="6"></a>6. AMD Radeon Instinct MI300A 的巨大内存子系统 
+## <a name="6"></a>6. TikTok在美国下架 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/18/tiktok-goes-dark-in-the-u-s/): TikTok goes dark in the US</small>
+
+
+| 🔥🔥: 198 \| 💬: [177](https://news.ycombinator.com/item?id=42753396) \| 🗓️ 2025-01-18
+
+
+<br />
+由于美国联邦法律禁止TikTok，这款流行的短视频应用在美国暂时下架。用户收到通知称，**TikTok因法律禁令暂时无法使用**。尽管拜登政府未明确表态，但特朗普表示将与TikTok合作寻找解决方案。**TikTok的母公司字节跳动**面临出售或禁令的选择，原因是**中国潜在监控和宣传的担忧**。目前，TikTok已从应用商店下架，未来命运取决于新政府。
+
+---
+
+## <a name="7"></a>7. AMD Radeon Instinct MI300A 的巨大内存子系统 
 <small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/inside-the-amd-radeon-instinct-mi300as): The AMD Radeon Instinct MI300A's Giant Memory Subsystem</small>
 
 
-| 🔥🔥: 176 \| 💬: [76](https://news.ycombinator.com/item?id=42747864) \| 🗓️ 2025-01-18
+| 🔥🔥: 179 \| 💬: [79](https://news.ycombinator.com/item?id=42747864) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -94,7 +106,7 @@ AMD 的 **Radeon Instinct MI300A** 是一款集成了 **24 个 Zen 4 核心** �
 
 ---
 
-## <a name="7"></a>7. 谷歌搜索开始要求启用JavaScript 
+## <a name="8"></a>8. 谷歌搜索开始要求启用JavaScript 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/17/google-begins-requiring-javascript-for-google-search/): Google begins requiring JavaScript for Google Search</small>
 
 
@@ -106,11 +118,11 @@ AMD 的 **Radeon Instinct MI300A** 是一款集成了 **24 个 Zen 4 核心** �
 
 ---
 
-## <a name="8"></a>8. 丰田普锐斯改变了汽车行业 
+## <a name="9"></a>9. 丰田普锐斯改变了汽车行业 
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/toyota-prius-transformed-auto-industry): The Toyota Prius transformed the auto industry</small>
 
 
-| 🔥🔥: 150 \| 💬: [228](https://news.ycombinator.com/item?id=42747899) \| 🗓️ 2025-01-18
+| 🔥🔥: 151 \| 💬: [234](https://news.ycombinator.com/item?id=42747899) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -118,11 +130,11 @@ AMD 的 **Radeon Instinct MI300A** 是一款集成了 **24 个 Zen 4 核心** �
 
 ---
 
-## <a name="9"></a>9. Windows BitLocker – 无需螺丝刀的破解 
+## <a name="10"></a>10. Windows BitLocker – 无需螺丝刀的破解 
 <small>🔗 [neodyme.io](https://neodyme.io/en/blog/bitlocker_screwed_without_a_screwdriver/): Windows BitLocker – Screwed Without a Screwdriver</small>
 
 
-| 🔥🔥: 148 \| 💬: [90](https://news.ycombinator.com/item?id=42747877) \| 🗓️ 2025-01-18
+| 🔥🔥: 149 \| 💬: [90](https://news.ycombinator.com/item?id=42747877) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -130,23 +142,11 @@ Windows BitLocker 的默认设备加密配置存在一个名为 **bitpixie** 的
 
 ---
 
-## <a name="10"></a>10. o1 不是聊天模型（这才是重点） 
-<small>🔗 [latent.space](https://www.latent.space/p/o1-skill-issue): O1 isn't a chat model (and that's the point)</small>
-
-
-| 🔥🔥: 130 \| 💬: [107](https://news.ycombinator.com/item?id=42750096) \| 🗓️ 2025-01-18
-
-
-<br />
-o1 并非传统聊天模型，而是一个**报告生成器**。用户需提供大量上下文，明确目标，而非逐步对话。o1 擅长一次性生成完整文件、解释复杂概念及医学诊断，但在特定风格写作和构建完整应用方面表现不佳。**延迟**是其用户体验的关键挑战，未来可能催生高延迟背景智能产品。
-
----
-
 ## <a name="11"></a>11. Dusa编程语言（有限选择逻辑编程） 
 <small>🔗 [dusa.rocks](https://dusa.rocks/docs/): Dusa Programming Language (Finite-Choice Logic Programming)</small>
 
 
-| 🔥🔥: 126 \| 💬: [27](https://news.ycombinator.com/item?id=42749147) \| 🗓️ 2025-01-18
+| 🔥🔥: 132 \| 💬: [27](https://news.ycombinator.com/item?id=42749147) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -154,7 +154,19 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 
 ---
 
-## <a name="12"></a>12. 诚实的艾哈迈德 (2011) 
+## <a name="12"></a>12. o1 不是聊天模型（这才是重点） 
+<small>🔗 [latent.space](https://www.latent.space/p/o1-skill-issue): O1 isn't a chat model (and that's the point)</small>
+
+
+| 🔥🔥: 130 \| 💬: [108](https://news.ycombinator.com/item?id=42750096) \| 🗓️ 2025-01-18
+
+
+<br />
+o1 并非传统聊天模型，而是一个**报告生成器**。用户需提供大量上下文，明确目标，而非逐步对话。o1 擅长一次性生成完整文件、解释复杂概念及医学诊断，但在特定风格写作和构建完整应用方面表现不佳。**延迟**是其用户体验的关键挑战，未来可能催生高延迟背景智能产品。
+
+---
+
+## <a name="13"></a>13. 诚实的艾哈迈德 (2011) 
 <small>🔗 [bugzilla.mozilla.org](https://bugzilla.mozilla.org/show_bug.cgi?id=647959): Honest Ahmed (2011)</small>
 
 
@@ -166,11 +178,11 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 
 ---
 
-## <a name="13"></a>13. Perplexity AI 提交与 TikTok 合并的竞标 
+## <a name="14"></a>14. Perplexity AI 提交与 TikTok 合并的竞标 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/01/18/perplexity-ai-submits-bid-to-merge-with-tiktok/): Perplexity AI submits bid to merge with TikTok</small>
 
 
-| 🔥: 94 \| 💬: [90](https://news.ycombinator.com/item?id=42751649) \| 🗓️ 2025-01-18
+| 🔥: 99 \| 💬: [99](https://news.ycombinator.com/item?id=42751649) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -178,23 +190,11 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 
 ---
 
-## <a name="14"></a>14. ATProto与身份所有权 
-<small>🔗 [anirudh.fi](https://anirudh.fi/blog/identity/): ATProto and the ownership of identity</small>
-
-
-| 🔥: 88 \| 💬: [94](https://news.ycombinator.com/item?id=42748101) \| 🗓️ 2025-01-18
-
-
-<br />
-**ATProto**通过**个人数据服务器（PDS）**和基于域的身份，解决了**身份所有权**和**数据所有权**的问题。用户可以在不同应用中使用相同的身份，避免了传统联邦宇宙（Fediverse）中的互操作性问题。这种分离还使应用层能够成为可盈利的服务，吸引了早期风投的兴趣。ATProto为新型社交应用铺平了道路，未来前景广阔。
-
----
-
 ## <a name="15"></a>15. Skymont：英特尔E核迈向新高度 
 <small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/skymont-intels-e-cores-reach-for-the-sky): Skymont: Intel's E-Cores reach for the Sky</small>
 
 
-| 🔥: 84 \| 💬: [48](https://news.ycombinator.com/item?id=42750734) \| 🗓️ 2025-01-18
+| 🔥: 91 \| 💬: [52](https://news.ycombinator.com/item?id=42750734) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -202,11 +202,23 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 
 ---
 
-## <a name="16"></a>16. 基于规则的互动小说编程 
+## <a name="16"></a>16. ATProto与身份所有权 
+<small>🔗 [anirudh.fi](https://anirudh.fi/blog/identity/): ATProto and the ownership of identity</small>
+
+
+| 🔥: 89 \| 💬: [100](https://news.ycombinator.com/item?id=42748101) \| 🗓️ 2025-01-18
+
+
+<br />
+**ATProto**通过**个人数据服务器（PDS）**和基于域的身份，解决了**身份所有权**和**数据所有权**的问题。用户可以在不同应用中使用相同的身份，避免了传统联邦宇宙（Fediverse）中的互操作性问题。这种分离还使应用层能够成为可盈利的服务，吸引了早期风投的兴趣。ATProto为新型社交应用铺平了道路，未来前景广阔。
+
+---
+
+## <a name="17"></a>17. 基于规则的互动小说编程 
 <small>🔗 [eblong.com](https://eblong.com/zarf/essays/rule-based-if/index.html): Rule-Based Programming in Interactive Fiction</small>
 
 
-| 🔥: 78 \| 💬: [14](https://news.ycombinator.com/item?id=42748534) \| 🗓️ 2025-01-18
+| 🔥: 87 \| 💬: [14](https://news.ycombinator.com/item?id=42748534) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -214,11 +226,11 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 
 ---
 
-## <a name="17"></a>17. 大规模Matrix部署将无法使用Synapse社区版 
+## <a name="18"></a>18. 大规模Matrix部署将无法使用Synapse社区版 
 <small>🔗 [mastodon.matrix.org](https://mastodon.matrix.org/@element/113842786942364269): Nation-scale Matrix deployments will fail using the community version of Synapse</small>
 
 
-| 🔥: 71 \| 💬: [56](https://news.ycombinator.com/item?id=42752402) \| 🗓️ 2025-01-18
+| 🔥: 81 \| 💬: [57](https://news.ycombinator.com/item?id=42752402) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -226,23 +238,11 @@ Dusa是由**Rob Simmons**和**Chris Martens**设计的逻辑编程语言，是**
 
 ---
 
-## <a name="18"></a>18. WASM GC 尚未准备好用于实时图形 
-<small>🔗 [dthompson.us](https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html): WASM GC isn't ready for realtime graphics</small>
-
-
-| 🔥: 69 \| 💬: [29](https://news.ycombinator.com/item?id=42750781) \| 🗓️ 2025-01-18
-
-
-<br />
-WASM GC 是一项强大的功能，现已支持所有主流浏览器，允许托管内存语言利用浏览器引擎中的垃圾回收机制。然而，**WASM GC** 在处理实时图形时存在显著性能问题，尤其是**二进制数据操作**的低效性。与线性内存相比，WASM GC 的堆对象对宿主不透明，导致数据访问和操作需要大量额外开销。尽管有一些临时解决方案，但这些问题仍需社区进一步优化和解决。
-
----
-
 ## <a name="19"></a>19. Unix拼写检查器如何在64kB内存中运行 
-<small>🔗 [blog.codingconfessions.com](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram): Unix Spell Ran in 64kB RAM</small>
+<small>🔗 [blog.codingconfessions.com](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram): How Unix spell ran in 64kb RAM</small>
 
 
-| 🔥: 65 \| 💬: [17](https://news.ycombinator.com/item?id=42752604) \| 🗓️ 2025-01-18
+| 🔥: 81 \| 💬: [20](https://news.ycombinator.com/item?id=42752604) \| 🗓️ 2025-01-18
 
 
 <br />
@@ -250,14 +250,14 @@ WASM GC 是一项强大的功能，现已支持所有主流浏览器，允许托
 
 ---
 
-## <a name="20"></a>20. 泽西岛居民因PFAS污染被建议放血治疗 
-<small>🔗 [theguardian.com](https://www.theguardian.com/uk-news/2025/jan/16/bloodletting-recommended-for-jersey-residents-after-pfas-contamination): Bloodletting recommended for Jersey residents after PFAS contamination</small>
+## <a name="20"></a>20. WASM GC 尚未准备好用于实时图形 
+<small>🔗 [dthompson.us](https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html): WASM GC isn't ready for realtime graphics</small>
 
 
-| 🔥: 56 \| 💬: [35](https://news.ycombinator.com/item?id=42747923) \| 🗓️ 2025-01-18
+| 🔥: 75 \| 💬: [31](https://news.ycombinator.com/item?id=42750781) \| 🗓️ 2025-01-18
 
 
 <br />
-泽西岛的私人饮用水源因机场使用含**PFAS**的消防泡沫而受到污染。这些“永久化学物质”与癌症、甲状腺疾病等健康问题相关。**放血疗法**被推荐用于降低血液中PFAS浓度，但成本高昂且需重复进行。政府计划2025年推出临床服务，同时考虑使用药物**胆甾胺**作为替代方案。污染问题已持续数十年，居民健康受到威胁，但赔偿可能性低。
+WASM GC 是一项强大的功能，现已支持所有主流浏览器，允许托管内存语言利用浏览器引擎中的垃圾回收机制。然而，**WASM GC** 在处理实时图形时存在显著性能问题，尤其是**二进制数据操作**的低效性。与线性内存相比，WASM GC 的堆对象对宿主不透明，导致数据访问和操作需要大量额外开销。尽管有一些临时解决方案，但这些问题仍需社区进一步优化和解决。
 
 ---
