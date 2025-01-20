@@ -26,7 +26,7 @@ tags:
 <small>🔗 [nbcnews.com](https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320): TikTok says it is restoring service for U.S. users</small>
 
 
-| 🔥🔥: 568 \| 💬: [1709](https://news.ycombinator.com/item?id=42759336) \| 🗓️ 2025-01-19
+| 🔥🔥: 582 \| 💬: [1762](https://news.ycombinator.com/item?id=42759336) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -38,7 +38,7 @@ TikTok表示将恢复对美国用户的服务，此前因法律问题暂停。**
 <small>🔗 [vintagecomputing.com](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again): It's time to make computing personal again</small>
 
 
-| 🔥🔥: 380 \| 💬: [139](https://news.ycombinator.com/item?id=42763095) \| 🗓️ 2025-01-19
+| 🔥🔥: 412 \| 💬: [170](https://news.ycombinator.com/item?id=42763095) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -50,7 +50,7 @@ TikTok表示将恢复对美国用户的服务，此前因法律问题暂停。**
 <small>🔗 [lesswrong.com](https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform): FrontierMath was funded by OpenAI</small>
 
 
-| 🔥🔥: 302 \| 💬: [80](https://news.ycombinator.com/item?id=42763231) \| 🗓️ 2025-01-19
+| 🔥🔥: 322 \| 💬: [89](https://news.ycombinator.com/item?id=42763231) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -62,7 +62,7 @@ OpenAI资助了**FrontierMath基准测试**，并获得了该测试集的访问�
 <small>🔗 [johnwalker.nl](https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss): Escape the walled garden and algorithm black boxes with RSS feeds</small>
 
 
-| 🔥🔥: 255 \| 💬: [89](https://news.ycombinator.com/item?id=42761219) \| 🗓️ 2025-01-19
+| 🔥🔥: 260 \| 💬: [89](https://news.ycombinator.com/item?id=42761219) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -74,7 +74,7 @@ OpenAI资助了**FrontierMath基准测试**，并获得了该测试集的访问�
 <small>🔗 [iamvishnu.com](https://iamvishnu.com/posts/please-dont-force-dark-mode): Please don't force dark mode</small>
 
 
-| 🔥🔥: 229 \| 💬: [203](https://news.ycombinator.com/item?id=42762054) \| 🗓️ 2025-01-19
+| 🔥🔥: 235 \| 💬: [203](https://news.ycombinator.com/item?id=42762054) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -86,7 +86,7 @@ OpenAI资助了**FrontierMath基准测试**，并获得了该测试集的访问�
 <small>🔗 [blog.gitbutler.com](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/): Why is Git Autocorrect too fast for Formula One drivers?</small>
 
 
-| 🔥🔥: 221 \| 💬: [131](https://news.ycombinator.com/item?id=42760620) \| 🗓️ 2025-01-19
+| 🔥🔥: 230 \| 💬: [137](https://news.ycombinator.com/item?id=42760620) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -98,7 +98,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 <small>🔗 [fuzzingbook.org](https://www.fuzzingbook.org/): The Fuzzing Book</small>
 
 
-| 🔥🔥: 189 \| 💬: [6](https://news.ycombinator.com/item?id=42756286) \| 🗓️ 2025-01-19
+| 🔥🔥: 195 \| 💬: [6](https://news.ycombinator.com/item?id=42756286) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -110,7 +110,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 <small>🔗 [github.com](https://github.com/kormax/apple-device-as-access-card): Using your Apple device as an access card in unsupported systems</small>
 
 
-| 🔥🔥: 176 \| 💬: [74](https://news.ycombinator.com/item?id=42759557) \| 🗓️ 2025-01-19
+| 🔥🔥: 181 \| 💬: [76](https://news.ycombinator.com/item?id=42759557) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -118,11 +118,23 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 
 ---
 
-## <a name="9"></a>9. 用树莓派为你的家庭实验室搭建一个小型CA 
+## <a name="9"></a>9. 逆向工程Bambu Connect 
+<small>🔗 [wiki.rossmanngroup.com](https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect): Reverse Engineering Bambu Connect</small>
+
+
+| 🔥🔥: 178 \| 💬: [88](https://news.ycombinator.com/item?id=42764602) \| 🗓️ 2025-01-19
+
+
+<br />
+Bambu Connect是一款基于**Electron**的应用，采用**安全通过模糊性**原则，因此存在固有安全隐患。通过提取MacOS的.dmg文件，使用Ghidra分析并修复app.asar，可解密main.js文件，获取**私钥**和证书。文中还提供了Python代码示例，用于解密并提取Bambu Lab的私钥。
+
+---
+
+## <a name="10"></a>10. 用树莓派为你的家庭实验室搭建一个小型CA 
 <small>🔗 [smallstep.com](https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/): Build a tiny CA for your homelab with a Raspberry Pi</small>
 
 
-| 🔥🔥: 172 \| 💬: [44](https://news.ycombinator.com/item?id=42758070) \| 🗓️ 2025-01-19
+| 🔥🔥: 176 \| 💬: [45](https://news.ycombinator.com/item?id=42758070) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -130,27 +142,15 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 
 ---
 
-## <a name="10"></a>10. 英国顶尖硬件人才被浪费 
+## <a name="11"></a>11. 英国顶尖硬件人才被浪费 
 <small>🔗 [josef.cn](https://josef.cn/blog/uk-talent): UK's hardware talent is being wasted</small>
 
 
-| 🔥🔥: 145 \| 💬: [161](https://news.ycombinator.com/item?id=42763386) \| 🗓️ 2025-01-19
+| 🔥🔥: 169 \| 💬: [189](https://news.ycombinator.com/item?id=42763386) \| 🗓️ 2025-01-19
 
 
 <br />
 英国顶尖学府如帝国理工、牛津、剑桥培养出世界级工程师，但毕业后却面临低薪困境。**硬件工程师**在伦敦起薪仅£25,000-£50,000，远低于硅谷的$150,000+。许多人才被迫转向金融或咨询行业，导致**创新停滞**和**人才流失**。英国硬件行业缺乏投资和雄心，错失了成为全球硬件中心的机会。现在是时候利用本地人才，推动**硬件革命**，避免未来后悔。
-
----
-
-## <a name="11"></a>11. 逆向工程Bambu Connect 
-<small>🔗 [wiki.rossmanngroup.com](https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect): Reverse Engineering Bambu Connect</small>
-
-
-| 🔥🔥: 136 \| 💬: [64](https://news.ycombinator.com/item?id=42764602) \| 🗓️ 2025-01-19
-
-
-<br />
-Bambu Connect是一款基于**Electron**的应用，采用**安全通过模糊性**原则，因此存在固有安全隐患。通过提取MacOS的.dmg文件，使用Ghidra分析并修复app.asar，可解密main.js文件，获取**私钥**和证书。文中还提供了Python代码示例，用于解密并提取Bambu Lab的私钥。
 
 ---
 
@@ -170,7 +170,7 @@ Bambu Connect是一款基于**Electron**的应用，采用**安全通过模糊�
 <small>🔗 [pcworld.com](https://www.pcworld.com/article/2566195/lenovo-has-removed-its-iconic-trackpoint-nub-from-new-thinkpad-laptops.html): Lenovo has removed the TrackPoint nub from new ThinkPad laptops</small>
 
 
-| 🔥🔥: 109 \| 💬: [130](https://news.ycombinator.com/item?id=42758570) \| 🗓️ 2025-01-19
+| 🔥🔥: 110 \| 💬: [130](https://news.ycombinator.com/item?id=42758570) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -182,7 +182,7 @@ Bambu Connect是一款基于**Electron**的应用，采用**安全通过模糊�
 <small>🔗 [ismyxfeedfucked.com](https://www.ismyxfeedfucked.com/): IsMyXFeedFucked – Analyze How Your X Feed's Impacting You</small>
 
 
-| 🔥🔥: 104 \| 💬: [139](https://news.ycombinator.com/item?id=42755173) \| 🗓️ 2025-01-19
+| 🔥🔥: 106 \| 💬: [141](https://news.ycombinator.com/item?id=42755173) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -194,7 +194,7 @@ Bambu Connect是一款基于**Electron**的应用，采用**安全通过模糊�
 <small>🔗 [berthub.eu](https://berthub.eu/articles/posts/how-to-get-a-unix-epoch-from-a-utc-date-time-string/): The surprising struggle to get a Unix Epoch time from a UTC string in C or C++</small>
 
 
-| 🔥: 100 \| 💬: [47](https://news.ycombinator.com/item?id=42758257) \| 🗓️ 2025-01-19
+| 🔥🔥: 102 \| 💬: [50](https://news.ycombinator.com/item?id=42758257) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -206,7 +206,7 @@ Bambu Connect是一款基于**Electron**的应用，采用**安全通过模糊�
 <small>🔗 [aartaka.me](https://aartaka.me/lisp-indent.html): All Lisp indentation schemes are ugly</small>
 
 
-| 🔥: 82 \| 💬: [36](https://news.ycombinator.com/item?id=42762077) \| 🗓️ 2025-01-19
+| 🔥: 96 \| 💬: [45](https://news.ycombinator.com/item?id=42762077) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -218,7 +218,7 @@ Lisp的缩进风格多样，但各有缺点。**对齐函数参数**的缩进方
 <small>🔗 [maurycyz.com](https://maurycyz.com/projects/strontium_aluminate/): Making glow-in-the-dark Strontium Aluminate</small>
 
 
-| 🔥: 81 \| 💬: [32](https://news.ycombinator.com/item?id=42756773) \| 🗓️ 2025-01-19
+| 🔥: 82 \| 💬: [32](https://news.ycombinator.com/item?id=42756773) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -230,7 +230,7 @@ Lisp的缩进风格多样，但各有缺点。**对齐函数参数**的缩进方
 <small>🔗 [github.com](https://github.com/nguyenchiemminhvu/LinuxNetworkProgramming): About A comprehensive guide for Linux Network (Socket) programming</small>
 
 
-| 🔥: 80 \| 💬: [15](https://news.ycombinator.com/item?id=42756365) \| 🗓️ 2025-01-19
+| 🔥: 81 \| 💬: [15](https://news.ycombinator.com/item?id=42756365) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -242,7 +242,7 @@ Lisp的缩进风格多样，但各有缺点。**对齐函数参数**的缩进方
 <small>🔗 [paulgraham.com](https://paulgraham.com/twitter.html): Why Twitter is such a big deal (2009)</small>
 
 
-| 🔥: 72 \| 💬: [101](https://news.ycombinator.com/item?id=42760054) \| 🗓️ 2025-01-19
+| 🔥: 75 \| 💬: [105](https://news.ycombinator.com/item?id=42760054) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -250,14 +250,14 @@ Twitter之所以重要，是因为它是一种**新的消息协议**，用户无
 
 ---
 
-## <a name="20"></a>20. TikTok禁令：数据显示流量急剧下降，用户迅速转向替代平台 
-<small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/tiktok-ban-traffic-decline-alternatives-rednote/): TikTok ban: data reveals sharp traffic decline and rapid shift to alternatives</small>
+## <a name="20"></a>20. 中断如何影响不同的软件工程活动 
+<small>🔗 [rdel.substack.com](https://rdel.substack.com/p/rdel-75-how-do-interruptions-impact): How do interruptions impact different software engineering activities</small>
 
 
-| 🔥: 68 \| 💬: [93](https://news.ycombinator.com/item?id=42758805) \| 🗓️ 2025-01-19
+| 🔥: 74 \| 💬: [3](https://news.ycombinator.com/item?id=42762962) \| 🗓️ 2025-01-19
 
 
 <br />
-2025年1月19日，美国对TikTok的禁令生效，**DNS流量**显示TikTok及相关平台流量在禁令实施后**下降85%**。与此同时，**RedNote（小红书）**等替代平台的流量在美国及其他国家显著增长，墨西哥、加拿大等国增幅尤为明显。总统当选人特朗普计划在就职后给予TikTok**90天延期**。
+研究表明，**中断**对软件工程师的生产力和压力有复杂影响。研究发现，**代码编写**任务中的中断导致更高的压力，而**面对面中断**在生理数据上显示压力较低，但参与者感知相反。研究建议减少高优先级中断，尤其是在代码编写期间，并依赖**感知数据**来改进团队生产力。
 
 ---
