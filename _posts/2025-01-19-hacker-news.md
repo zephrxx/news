@@ -26,7 +26,7 @@ tags:
 <small>🔗 [nbcnews.com](https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320): TikTok says it is restoring service for U.S. users</small>
 
 
-| 🔥🔥: 534 \| 💬: [1626](https://news.ycombinator.com/item?id=42759336) \| 🗓️ 2025-01-19
+| 🔥🔥: 549 \| 💬: [1662](https://news.ycombinator.com/item?id=42759336) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -38,7 +38,7 @@ TikTok表示将恢复对美国用户的服务，此前因法律问题暂停。**
 <small>🔗 [vintagecomputing.com](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again): It's time to make computing personal again</small>
 
 
-| 🔥🔥: 311 \| 💬: [105](https://news.ycombinator.com/item?id=42763095) \| 🗓️ 2025-01-19
+| 🔥🔥: 345 \| 💬: [124](https://news.ycombinator.com/item?id=42763095) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -50,7 +50,7 @@ TikTok表示将恢复对美国用户的服务，此前因法律问题暂停。**
 <small>🔗 [lesswrong.com](https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform): FrontierMath was funded by OpenAI</small>
 
 
-| 🔥🔥: 257 \| 💬: [66](https://news.ycombinator.com/item?id=42763231) \| 🗓️ 2025-01-19
+| 🔥🔥: 283 \| 💬: [77](https://news.ycombinator.com/item?id=42763231) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -62,7 +62,7 @@ OpenAI资助了**FrontierMath基准测试**，并获得了该测试集的访问�
 <small>🔗 [johnwalker.nl](https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss): Escape the walled garden and algorithm black boxes with RSS feeds</small>
 
 
-| 🔥🔥: 248 \| 💬: [86](https://news.ycombinator.com/item?id=42761219) \| 🗓️ 2025-01-19
+| 🔥🔥: 251 \| 💬: [88](https://news.ycombinator.com/item?id=42761219) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -74,7 +74,7 @@ OpenAI资助了**FrontierMath基准测试**，并获得了该测试集的访问�
 <small>🔗 [iamvishnu.com](https://iamvishnu.com/posts/please-dont-force-dark-mode): Please don't force dark mode</small>
 
 
-| 🔥🔥: 218 \| 💬: [199](https://news.ycombinator.com/item?id=42762054) \| 🗓️ 2025-01-19
+| 🔥🔥: 225 \| 💬: [201](https://news.ycombinator.com/item?id=42762054) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -86,7 +86,7 @@ OpenAI资助了**FrontierMath基准测试**，并获得了该测试集的访问�
 <small>🔗 [blog.gitbutler.com](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/): Why is Git Autocorrect too fast for Formula One drivers?</small>
 
 
-| 🔥🔥: 195 \| 💬: [126](https://news.ycombinator.com/item?id=42760620) \| 🗓️ 2025-01-19
+| 🔥🔥: 206 \| 💬: [129](https://news.ycombinator.com/item?id=42760620) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -98,7 +98,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 <small>🔗 [fuzzingbook.org](https://www.fuzzingbook.org/): The Fuzzing Book</small>
 
 
-| 🔥🔥: 174 \| 💬: [5](https://news.ycombinator.com/item?id=42756286) \| 🗓️ 2025-01-19
+| 🔥🔥: 179 \| 💬: [6](https://news.ycombinator.com/item?id=42756286) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -110,7 +110,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 <small>🔗 [github.com](https://github.com/kormax/apple-device-as-access-card): Using your Apple device as an access card in unsupported systems</small>
 
 
-| 🔥🔥: 166 \| 💬: [69](https://news.ycombinator.com/item?id=42759557) \| 🗓️ 2025-01-19
+| 🔥🔥: 169 \| 💬: [72](https://news.ycombinator.com/item?id=42759557) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -122,7 +122,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 <small>🔗 [smallstep.com](https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/): Build a tiny CA for your homelab with a Raspberry Pi</small>
 
 
-| 🔥🔥: 152 \| 💬: [41](https://news.ycombinator.com/item?id=42758070) \| 🗓️ 2025-01-19
+| 🔥🔥: 162 \| 💬: [42](https://news.ycombinator.com/item?id=42758070) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -134,7 +134,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 <small>🔗 [economist.com](https://www.economist.com/finance-and-economics/2025/01/16/the-traitors-a-reality-tv-show-offers-a-useful-economics-lesson): “The Traitors”, a reality TV show, offers a useful economics lesson</small>
 
 
-| 🔥🔥: 127 \| 💬: [119](https://news.ycombinator.com/item?id=42755251) \| 🗓️ 2025-01-19
+| 🔥🔥: 129 \| 💬: [118](https://news.ycombinator.com/item?id=42755251) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -146,7 +146,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 <small>🔗 [josef.cn](https://josef.cn/blog/uk-talent): UK's hardware talent is being wasted</small>
 
 
-| 🔥🔥: 116 \| 💬: [113](https://news.ycombinator.com/item?id=42763386) \| 🗓️ 2025-01-19
+| 🔥🔥: 127 \| 💬: [138](https://news.ycombinator.com/item?id=42763386) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -182,7 +182,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 <small>🔗 [berthub.eu](https://berthub.eu/articles/posts/how-to-get-a-unix-epoch-from-a-utc-date-time-string/): The surprising struggle to get a Unix Epoch time from a UTC string in C or C++</small>
 
 
-| 🔥: 95 \| 💬: [41](https://news.ycombinator.com/item?id=42758257) \| 🗓️ 2025-01-19
+| 🔥: 96 \| 💬: [43](https://news.ycombinator.com/item?id=42758257) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -190,7 +190,19 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 
 ---
 
-## <a name="15"></a>15. 制作夜光铝酸锶 
+## <a name="15"></a>15. 逆向工程Bambu Connect 
+<small>🔗 [wiki.rossmanngroup.com](https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect): Reverse Engineering Bambu Connect</small>
+
+
+| 🔥: 93 \| 💬: [35](https://news.ycombinator.com/item?id=42764602) \| 🗓️ 2025-01-19
+
+
+<br />
+Bambu Connect是一款基于**Electron**的应用，采用**安全通过模糊性**原则，因此存在固有安全隐患。通过提取MacOS的.dmg文件，使用Ghidra分析并修复app.asar，可解密main.js文件，获取**私钥**和证书。文中还提供了Python代码示例，用于解密并提取Bambu Lab的私钥。
+
+---
+
+## <a name="16"></a>16. 制作夜光铝酸锶 
 <small>🔗 [maurycyz.com](https://maurycyz.com/projects/strontium_aluminate/): Making glow-in-the-dark Strontium Aluminate</small>
 
 
@@ -202,11 +214,11 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 
 ---
 
-## <a name="16"></a>16. Linux 网络（套接字）编程综合指南 
+## <a name="17"></a>17. Linux 网络（套接字）编程综合指南 
 <small>🔗 [github.com](https://github.com/nguyenchiemminhvu/LinuxNetworkProgramming): About A comprehensive guide for Linux Network (Socket) programming</small>
 
 
-| 🔥: 79 \| 💬: [14](https://news.ycombinator.com/item?id=42756365) \| 🗓️ 2025-01-19
+| 🔥: 79 \| 💬: [15](https://news.ycombinator.com/item?id=42756365) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -214,23 +226,11 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 
 ---
 
-## <a name="17"></a>17. TikTok禁令：数据显示流量急剧下降，用户迅速转向替代平台 
-<small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/tiktok-ban-traffic-decline-alternatives-rednote/): TikTok ban: data reveals sharp traffic decline and rapid shift to alternatives</small>
-
-
-| 🔥: 67 \| 💬: [92](https://news.ycombinator.com/item?id=42758805) \| 🗓️ 2025-01-19
-
-
-<br />
-2025年1月19日，美国对TikTok的禁令生效，**DNS流量**显示TikTok及相关平台流量在禁令实施后**下降85%**。与此同时，**RedNote（小红书）**等替代平台的流量在美国及其他国家显著增长，墨西哥、加拿大等国增幅尤为明显。总统当选人特朗普计划在就职后给予TikTok**90天延期**。
-
----
-
 ## <a name="18"></a>18. 所有Lisp缩进方案都很丑陋 
 <small>🔗 [aartaka.me](https://aartaka.me/lisp-indent.html): All Lisp indentation schemes are ugly</small>
 
 
-| 🔥: 66 \| 💬: [30](https://news.ycombinator.com/item?id=42762077) \| 🗓️ 2025-01-19
+| 🔥: 73 \| 💬: [32](https://news.ycombinator.com/item?id=42762077) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -238,26 +238,26 @@ Lisp的缩进风格多样，但各有缺点。**对齐函数参数**的缩进方
 
 ---
 
-## <a name="19"></a>19. 为什么Twitter如此重要（2009） 
+## <a name="19"></a>19. TikTok禁令：数据显示流量急剧下降，用户迅速转向替代平台 
+<small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/tiktok-ban-traffic-decline-alternatives-rednote/): TikTok ban: data reveals sharp traffic decline and rapid shift to alternatives</small>
+
+
+| 🔥: 67 \| 💬: [93](https://news.ycombinator.com/item?id=42758805) \| 🗓️ 2025-01-19
+
+
+<br />
+2025年1月19日，美国对TikTok的禁令生效，**DNS流量**显示TikTok及相关平台流量在禁令实施后**下降85%**。与此同时，**RedNote（小红书）**等替代平台的流量在美国及其他国家显著增长，墨西哥、加拿大等国增幅尤为明显。总统当选人特朗普计划在就职后给予TikTok**90天延期**。
+
+---
+
+## <a name="20"></a>20. 为什么Twitter如此重要（2009） 
 <small>🔗 [paulgraham.com](https://paulgraham.com/twitter.html): Why Twitter is such a big deal (2009)</small>
 
 
-| 🔥: 60 \| 💬: [89](https://news.ycombinator.com/item?id=42760054) \| 🗓️ 2025-01-19
+| 🔥: 66 \| 💬: [97](https://news.ycombinator.com/item?id=42760054) \| 🗓️ 2025-01-19
 
 
 <br />
 Twitter之所以重要，是因为它是一种**新的消息协议**，用户无需指定接收者。新协议很少见，尤其是成功的新协议。常见的协议如TCP/IP、SMTP和HTTP等屈指可数。Twitter的独特之处在于它是由**私人公司拥有**的协议，这更为罕见。创始人未急于商业化，反而让Twitter感觉像公共协议，这有助于其迅速传播。
-
----
-
-## <a name="20"></a>20. Open Dylan 
-<small>🔗 [opendylan.org](https://opendylan.org/): Open Dylan</small>
-
-
-| 🔥: 57 \| 💬: [22](https://news.ycombinator.com/item?id=42756896) \| 🗓️ 2025-01-19
-
-
-<br />
-Dylan 是一种**对象函数式语言**，最初由 Apple 为 Newton 开发。它继承了 Scheme 和 CLOS 的特性，支持高效的机器代码生成，并提供对动态和静态行为的精细控制。新手可从**Dylan 导览**开始，或通过 Playground 在线体验。深入学习可参考《Dylan 编程指南》或《Dylan 参考手册》。
 
 ---
