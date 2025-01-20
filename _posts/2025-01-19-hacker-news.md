@@ -9,10 +9,10 @@ tags:
 
 
 1. TikTok宣布恢复美国用户服务；
-1. 逃离围墙花园与算法黑箱：使用RSS订阅；
-1. 请不要强制用户使用深色模式；
 1. 是时候让计算再次变得个人化了；
+1. 逃离围墙花园与算法黑箱：使用RSS订阅；
 1. OpenAI资助了FrontierMath基准测试并拥有访问权限；
+1. 请不要强制用户使用深色模式；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [nbcnews.com](https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320): TikTok says it is restoring service for U.S. users</small>
 
 
-| 🔥🔥: 502 \| 💬: [1521](https://news.ycombinator.com/item?id=42759336) \| 🗓️ 2025-01-19
+| 🔥🔥: 518 \| 💬: [1573](https://news.ycombinator.com/item?id=42759336) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -34,35 +34,11 @@ TikTok表示将恢复对美国用户的服务，此前因法律问题暂停。**
 
 ---
 
-## <a name="2"></a>2. 逃离围墙花园与算法黑箱：使用RSS订阅 
-<small>🔗 [johnwalker.nl](https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss): Escape the walled garden and algorithm black boxes with RSS feeds</small>
-
-
-| 🔥🔥: 233 \| 💬: [85](https://news.ycombinator.com/item?id=42761219) \| 🗓️ 2025-01-19
-
-
-<br />
-随着在线平台越来越多地依赖**算法**生成内容，用户难以控制自己看到的内容。**RSS**和**Atom**提供了一种去中心化的替代方案，让用户能够自主选择和管理内容来源。通过RSS阅读器，用户可以订阅网站、播客、社交媒体等，摆脱平台算法的束缚，实现更自由、个性化的内容消费。
-
----
-
-## <a name="3"></a>3. 请不要强制用户使用深色模式 
-<small>🔗 [iamvishnu.com](https://iamvishnu.com/posts/please-dont-force-dark-mode): Please don't force dark mode</small>
-
-
-| 🔥🔥: 209 \| 💬: [184](https://news.ycombinator.com/item?id=42762054) \| 🗓️ 2025-01-19
-
-
-<br />
-网站设计师们，请不要强制用户使用深色模式。**高对比度**的深色模式（如纯白文字与纯黑背景）会导致眼睛疲劳，甚至产生视觉残留。**WCAG 2.1**虽规定了最低对比度，但未限制最高对比度，导致深色模式体验不佳。建议使用**舒适的对比度**（如浅灰文字与深灰背景），并在OLED屏幕或暗环境下使用深色模式。
-
----
-
-## <a name="4"></a>4. 是时候让计算再次变得个人化了 
+## <a name="2"></a>2. 是时候让计算再次变得个人化了 
 <small>🔗 [vintagecomputing.com](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again): It's time to make computing personal again</small>
 
 
-| 🔥🔥: 190 \| 💬: [60](https://news.ycombinator.com/item?id=42763095) \| 🗓️ 2025-01-19
+| 🔥🔥: 253 \| 💬: [83](https://news.ycombinator.com/item?id=42763095) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -70,11 +46,23 @@ TikTok表示将恢复对美国用户的服务，此前因法律问题暂停。**
 
 ---
 
-## <a name="5"></a>5. OpenAI资助了FrontierMath基准测试并拥有访问权限 
+## <a name="3"></a>3. 逃离围墙花园与算法黑箱：使用RSS订阅 
+<small>🔗 [johnwalker.nl](https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss): Escape the walled garden and algorithm black boxes with RSS feeds</small>
+
+
+| 🔥🔥: 242 \| 💬: [86](https://news.ycombinator.com/item?id=42761219) \| 🗓️ 2025-01-19
+
+
+<br />
+随着在线平台越来越多地依赖**算法**生成内容，用户难以控制自己看到的内容。**RSS**和**Atom**提供了一种去中心化的替代方案，让用户能够自主选择和管理内容来源。通过RSS阅读器，用户可以订阅网站、播客、社交媒体等，摆脱平台算法的束缚，实现更自由、个性化的内容消费。
+
+---
+
+## <a name="4"></a>4. OpenAI资助了FrontierMath基准测试并拥有访问权限 
 <small>🔗 [lesswrong.com](https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform): FrontierMath was funded by OpenAI</small>
 
 
-| 🔥🔥: 187 \| 💬: [52](https://news.ycombinator.com/item?id=42763231) \| 🗓️ 2025-01-19
+| 🔥🔥: 233 \| 💬: [61](https://news.ycombinator.com/item?id=42763231) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -82,11 +70,23 @@ OpenAI资助了**FrontierMath基准测试**，并获得了该测试集的访问�
 
 ---
 
+## <a name="5"></a>5. 请不要强制用户使用深色模式 
+<small>🔗 [iamvishnu.com](https://iamvishnu.com/posts/please-dont-force-dark-mode): Please don't force dark mode</small>
+
+
+| 🔥🔥: 215 \| 💬: [194](https://news.ycombinator.com/item?id=42762054) \| 🗓️ 2025-01-19
+
+
+<br />
+网站设计师们，请不要强制用户使用深色模式。**高对比度**的深色模式（如纯白文字与纯黑背景）会导致眼睛疲劳，甚至产生视觉残留。**WCAG 2.1**虽规定了最低对比度，但未限制最高对比度，导致深色模式体验不佳。建议使用**舒适的对比度**（如浅灰文字与深灰背景），并在OLED屏幕或暗环境下使用深色模式。
+
+---
+
 ## <a name="6"></a>6. 为什么 Git 的自动纠正对 F1 车手来说太快了？ 
 <small>🔗 [blog.gitbutler.com](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/): Why is Git Autocorrect too fast for Formula One drivers?</small>
 
 
-| 🔥🔥: 172 \| 💬: [108](https://news.ycombinator.com/item?id=42760620) \| 🗓️ 2025-01-19
+| 🔥🔥: 185 \| 💬: [112](https://news.ycombinator.com/item?id=42760620) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -98,7 +98,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 <small>🔗 [fuzzingbook.org](https://www.fuzzingbook.org/): The Fuzzing Book</small>
 
 
-| 🔥🔥: 165 \| 💬: [5](https://news.ycombinator.com/item?id=42756286) \| 🗓️ 2025-01-19
+| 🔥🔥: 169 \| 💬: [5](https://news.ycombinator.com/item?id=42756286) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -110,7 +110,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 <small>🔗 [github.com](https://github.com/kormax/apple-device-as-access-card): Using your Apple device as an access card in unsupported systems</small>
 
 
-| 🔥🔥: 156 \| 💬: [49](https://news.ycombinator.com/item?id=42759557) \| 🗓️ 2025-01-19
+| 🔥🔥: 159 \| 💬: [65](https://news.ycombinator.com/item?id=42759557) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -122,7 +122,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 <small>🔗 [smallstep.com](https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/): Build a tiny CA for your homelab with a Raspberry Pi</small>
 
 
-| 🔥🔥: 133 \| 💬: [32](https://news.ycombinator.com/item?id=42758070) \| 🗓️ 2025-01-19
+| 🔥🔥: 143 \| 💬: [36](https://news.ycombinator.com/item?id=42758070) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -134,7 +134,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 <small>🔗 [economist.com](https://www.economist.com/finance-and-economics/2025/01/16/the-traitors-a-reality-tv-show-offers-a-useful-economics-lesson): “The Traitors”, a reality TV show, offers a useful economics lesson</small>
 
 
-| 🔥🔥: 123 \| 💬: [116](https://news.ycombinator.com/item?id=42755251) \| 🗓️ 2025-01-19
+| 🔥🔥: 124 \| 💬: [116](https://news.ycombinator.com/item?id=42755251) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -146,7 +146,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 <small>🔗 [pcworld.com](https://www.pcworld.com/article/2566195/lenovo-has-removed-its-iconic-trackpoint-nub-from-new-thinkpad-laptops.html): Lenovo has removed the TrackPoint nub from new ThinkPad laptops</small>
 
 
-| 🔥🔥: 105 \| 💬: [129](https://news.ycombinator.com/item?id=42758570) \| 🗓️ 2025-01-19
+| 🔥🔥: 107 \| 💬: [130](https://news.ycombinator.com/item?id=42758570) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -158,7 +158,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 <small>🔗 [ismyxfeedfucked.com](https://www.ismyxfeedfucked.com/): IsMyXFeedFucked – Analyze How Your X Feed's Impacting You</small>
 
 
-| 🔥: 98 \| 💬: [134](https://news.ycombinator.com/item?id=42755173) \| 🗓️ 2025-01-19
+| 🔥🔥: 101 \| 💬: [134](https://news.ycombinator.com/item?id=42755173) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -166,11 +166,23 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 
 ---
 
-## <a name="13"></a>13. 在C或C++中从UTC字符串获取Unix纪元时间的意外挑战 
+## <a name="13"></a>13. 英国顶尖硬件人才被浪费 
+<small>🔗 [josef.cn](https://josef.cn/blog/uk-talent): UK's hardware talent is being wasted</small>
+
+
+| 🔥: 94 \| 💬: [96](https://news.ycombinator.com/item?id=42763386) \| 🗓️ 2025-01-19
+
+
+<br />
+英国顶尖学府如帝国理工、牛津、剑桥培养出世界级工程师，但毕业后却面临低薪困境。**硬件工程师**在伦敦起薪仅£25,000-£50,000，远低于硅谷的$150,000+。许多人才被迫转向金融或咨询行业，导致**创新停滞**和**人才流失**。英国硬件行业缺乏投资和雄心，错失了成为全球硬件中心的机会。现在是时候利用本地人才，推动**硬件革命**，避免未来后悔。
+
+---
+
+## <a name="14"></a>14. 在C或C++中从UTC字符串获取Unix纪元时间的意外挑战 
 <small>🔗 [berthub.eu](https://berthub.eu/articles/posts/how-to-get-a-unix-epoch-from-a-utc-date-time-string/): The surprising struggle to get a Unix Epoch time from a UTC string in C or C++</small>
 
 
-| 🔥: 85 \| 💬: [38](https://news.ycombinator.com/item?id=42758257) \| 🗓️ 2025-01-19
+| 🔥: 90 \| 💬: [39](https://news.ycombinator.com/item?id=42758257) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -178,7 +190,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 
 ---
 
-## <a name="14"></a>14. 制作夜光铝酸锶 
+## <a name="15"></a>15. 制作夜光铝酸锶 
 <small>🔗 [maurycyz.com](https://maurycyz.com/projects/strontium_aluminate/): Making glow-in-the-dark Strontium Aluminate</small>
 
 
@@ -190,23 +202,11 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 
 ---
 
-## <a name="15"></a>15. 英国顶尖硬件人才被浪费 
-<small>🔗 [josef.cn](https://josef.cn/blog/uk-talent): UK's hardware talent is being wasted</small>
-
-
-| 🔥: 79 \| 💬: [89](https://news.ycombinator.com/item?id=42763386) \| 🗓️ 2025-01-19
-
-
-<br />
-英国顶尖学府如帝国理工、牛津、剑桥培养出世界级工程师，但毕业后却面临低薪困境。**硬件工程师**在伦敦起薪仅£25,000-£50,000，远低于硅谷的$150,000+。许多人才被迫转向金融或咨询行业，导致**创新停滞**和**人才流失**。英国硬件行业缺乏投资和雄心，错失了成为全球硬件中心的机会。现在是时候利用本地人才，推动**硬件革命**，避免未来后悔。
-
----
-
 ## <a name="16"></a>16. Linux 网络（套接字）编程综合指南 
 <small>🔗 [github.com](https://github.com/nguyenchiemminhvu/LinuxNetworkProgramming): About A comprehensive guide for Linux Network (Socket) programming</small>
 
 
-| 🔥: 76 \| 💬: [14](https://news.ycombinator.com/item?id=42756365) \| 🗓️ 2025-01-19
+| 🔥: 77 \| 💬: [14](https://news.ycombinator.com/item?id=42756365) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -226,11 +226,23 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 
 ---
 
-## <a name="18"></a>18. Open Dylan 
+## <a name="18"></a>18. 所有Lisp缩进方案都很丑陋 
+<small>🔗 [aartaka.me](https://aartaka.me/lisp-indent.html): All Lisp indentation schemes are ugly</small>
+
+
+| 🔥: 62 \| 💬: [24](https://news.ycombinator.com/item?id=42762077) \| 🗓️ 2025-01-19
+
+
+<br />
+Lisp的缩进风格多样，但各有缺点。**对齐函数参数**的缩进方式虽能反映代码结构，但在嵌套过深时会导致代码过宽。**空间填充缩进**通过合理分配行空间提高可读性，但缺乏一致性。**宏式缩进**虽不常见，却能在深层嵌套中提供精确控制。**线程宏**虽能简化逻辑，但在Common Lisp中并不适用。最终，选择缩进风格取决于个人偏好和代码需求。
+
+---
+
+## <a name="19"></a>19. Open Dylan 
 <small>🔗 [opendylan.org](https://opendylan.org/): Open Dylan</small>
 
 
-| 🔥: 55 \| 💬: [22](https://news.ycombinator.com/item?id=42756896) \| 🗓️ 2025-01-19
+| 🔥: 56 \| 💬: [22](https://news.ycombinator.com/item?id=42756896) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -238,26 +250,14 @@ Dylan 是一种**对象函数式语言**，最初由 Apple 为 Newton 开发。�
 
 ---
 
-## <a name="19"></a>19. 扎克伯格被曝知晓Llama模型使用Libgen数据训练 
+## <a name="20"></a>20. 扎克伯格被曝知晓Llama模型使用Libgen数据训练 
 <small>🔗 [rollingstone.com](https://www.rollingstone.com/culture/culture-news/ai-meta-pirated-library-zuckerberg-1235235394/): Zuckerberg appeared to know Llama trained on Libgen</small>
 
 
-| 🔥: 55 \| 💬: [65](https://news.ycombinator.com/item?id=42759546) \| 🗓️ 2025-01-19
+| 🔥: 55 \| 💬: [68](https://news.ycombinator.com/item?id=42759546) \| 🗓️ 2025-01-19
 
 
 <br />
 Meta首席执行官**马克·扎克伯格**被指批准使用**Libgen**（一个包含盗版电子书和学术文章的“影子图书馆”）的数据来训练其大型语言模型**Llama**。内部文件显示，Meta员工讨论了如何掩盖版权信息，并承认使用Libgen可能引发法律和舆论风险。此案或成为AI公司版权争议的风向标。
-
----
-
-## <a name="20"></a>20. 哲学正在吞噬人工智能 
-<small>🔗 [sloanreview.mit.edu](https://sloanreview.mit.edu/article/philosophy-eats-ai/): Philosophy Eats AI</small>
-
-
-| 🔥: 54 \| 💬: [42](https://news.ycombinator.com/item?id=42760210) \| 🗓️ 2025-01-19
-
-
-<br />
-2011年，Marc Andreessen提出“软件正在吞噬世界”，而Nvidia CEO Jensen Huang随后更新为“**AI正在吞噬软件**”。如今，**哲学**正在成为AI的下一个“吞噬者”。哲学不仅影响AI的伦理和责任感，还通过**目的论**、**认识论**和**本体论**等视角塑造AI的价值创造。企业若忽视哲学洞察，将难以从AI投资中获得竞争优势。
 
 ---
