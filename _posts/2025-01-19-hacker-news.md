@@ -26,7 +26,7 @@ tags:
 <small>🔗 [nbcnews.com](https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320): TikTok says it is restoring service for U.S. users</small>
 
 
-| 🔥🔥: 549 \| 💬: [1662](https://news.ycombinator.com/item?id=42759336) \| 🗓️ 2025-01-19
+| 🔥🔥: 568 \| 💬: [1709](https://news.ycombinator.com/item?id=42759336) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -38,7 +38,7 @@ TikTok表示将恢复对美国用户的服务，此前因法律问题暂停。**
 <small>🔗 [vintagecomputing.com](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again): It's time to make computing personal again</small>
 
 
-| 🔥🔥: 345 \| 💬: [124](https://news.ycombinator.com/item?id=42763095) \| 🗓️ 2025-01-19
+| 🔥🔥: 380 \| 💬: [139](https://news.ycombinator.com/item?id=42763095) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -50,7 +50,7 @@ TikTok表示将恢复对美国用户的服务，此前因法律问题暂停。**
 <small>🔗 [lesswrong.com](https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform): FrontierMath was funded by OpenAI</small>
 
 
-| 🔥🔥: 283 \| 💬: [77](https://news.ycombinator.com/item?id=42763231) \| 🗓️ 2025-01-19
+| 🔥🔥: 302 \| 💬: [80](https://news.ycombinator.com/item?id=42763231) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -62,7 +62,7 @@ OpenAI资助了**FrontierMath基准测试**，并获得了该测试集的访问�
 <small>🔗 [johnwalker.nl](https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss): Escape the walled garden and algorithm black boxes with RSS feeds</small>
 
 
-| 🔥🔥: 251 \| 💬: [88](https://news.ycombinator.com/item?id=42761219) \| 🗓️ 2025-01-19
+| 🔥🔥: 255 \| 💬: [89](https://news.ycombinator.com/item?id=42761219) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -74,7 +74,7 @@ OpenAI资助了**FrontierMath基准测试**，并获得了该测试集的访问�
 <small>🔗 [iamvishnu.com](https://iamvishnu.com/posts/please-dont-force-dark-mode): Please don't force dark mode</small>
 
 
-| 🔥🔥: 225 \| 💬: [201](https://news.ycombinator.com/item?id=42762054) \| 🗓️ 2025-01-19
+| 🔥🔥: 229 \| 💬: [203](https://news.ycombinator.com/item?id=42762054) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -86,7 +86,7 @@ OpenAI资助了**FrontierMath基准测试**，并获得了该测试集的访问�
 <small>🔗 [blog.gitbutler.com](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/): Why is Git Autocorrect too fast for Formula One drivers?</small>
 
 
-| 🔥🔥: 206 \| 💬: [129](https://news.ycombinator.com/item?id=42760620) \| 🗓️ 2025-01-19
+| 🔥🔥: 221 \| 💬: [131](https://news.ycombinator.com/item?id=42760620) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -98,7 +98,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 <small>🔗 [fuzzingbook.org](https://www.fuzzingbook.org/): The Fuzzing Book</small>
 
 
-| 🔥🔥: 179 \| 💬: [6](https://news.ycombinator.com/item?id=42756286) \| 🗓️ 2025-01-19
+| 🔥🔥: 189 \| 💬: [6](https://news.ycombinator.com/item?id=42756286) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -110,7 +110,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 <small>🔗 [github.com](https://github.com/kormax/apple-device-as-access-card): Using your Apple device as an access card in unsupported systems</small>
 
 
-| 🔥🔥: 169 \| 💬: [72](https://news.ycombinator.com/item?id=42759557) \| 🗓️ 2025-01-19
+| 🔥🔥: 176 \| 💬: [74](https://news.ycombinator.com/item?id=42759557) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -122,7 +122,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 <small>🔗 [smallstep.com](https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/): Build a tiny CA for your homelab with a Raspberry Pi</small>
 
 
-| 🔥🔥: 162 \| 💬: [42](https://news.ycombinator.com/item?id=42758070) \| 🗓️ 2025-01-19
+| 🔥🔥: 172 \| 💬: [44](https://news.ycombinator.com/item?id=42758070) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -130,23 +130,11 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 
 ---
 
-## <a name="10"></a>10. 《叛徒》：一档提供经济学启示的真人秀节目 
-<small>🔗 [economist.com](https://www.economist.com/finance-and-economics/2025/01/16/the-traitors-a-reality-tv-show-offers-a-useful-economics-lesson): “The Traitors”, a reality TV show, offers a useful economics lesson</small>
-
-
-| 🔥🔥: 129 \| 💬: [118](https://news.ycombinator.com/item?id=42755251) \| 🗓️ 2025-01-19
-
-
-<br />
-《叛徒》是一档涉及**谎言与背叛**的真人秀节目，参与者通过策略和欺骗赢得比赛。该节目为观众提供了一个研究**博弈论**的机会，展示了在不完全信息下的有限顺序博弈。无论是英国版还是其他国家的版本，节目都通过参与者的行为揭示了**信任与策略**在竞争中的重要性。
-
----
-
-## <a name="11"></a>11. 英国顶尖硬件人才被浪费 
+## <a name="10"></a>10. 英国顶尖硬件人才被浪费 
 <small>🔗 [josef.cn](https://josef.cn/blog/uk-talent): UK's hardware talent is being wasted</small>
 
 
-| 🔥🔥: 127 \| 💬: [138](https://news.ycombinator.com/item?id=42763386) \| 🗓️ 2025-01-19
+| 🔥🔥: 145 \| 💬: [161](https://news.ycombinator.com/item?id=42763386) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -154,47 +142,11 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 
 ---
 
-## <a name="12"></a>12. 联想新款ThinkPad笔记本电脑移除TrackPoint小红点 
-<small>🔗 [pcworld.com](https://www.pcworld.com/article/2566195/lenovo-has-removed-its-iconic-trackpoint-nub-from-new-thinkpad-laptops.html): Lenovo has removed the TrackPoint nub from new ThinkPad laptops</small>
-
-
-| 🔥🔥: 108 \| 💬: [130](https://news.ycombinator.com/item?id=42758570) \| 🗓️ 2025-01-19
-
-
-<br />
-联想在2025年CES上发布的**ThinkPad X9 Aura Edition**系列中移除了标志性的**TrackPoint小红点**，称其为“过时设计”。尽管TrackPoint仍保留在其他ThinkPad型号中，但联想认为触控板已成为主流。新款笔记本搭载**Intel Lunar Lake处理器**，配备高端OLED屏幕，并引入**AI Now**本地AI功能，支持智能模式和跨设备共享。
-
----
-
-## <a name="13"></a>13. IsMyXFeedFucked – 分析你的X信息流如何影响你 
-<small>🔗 [ismyxfeedfucked.com](https://www.ismyxfeedfucked.com/): IsMyXFeedFucked – Analyze How Your X Feed's Impacting You</small>
-
-
-| 🔥🔥: 103 \| 💬: [138](https://news.ycombinator.com/item?id=42755173) \| 🗓️ 2025-01-19
-
-
-<br />
-该工具通过**总体健康评分**帮助你了解信息流对**心态和思维模式**的实际影响。通过分析，用户可以更好地管理自己的信息流，避免负面情绪或思维偏差。
-
----
-
-## <a name="14"></a>14. 在C或C++中从UTC字符串获取Unix纪元时间的意外挑战 
-<small>🔗 [berthub.eu](https://berthub.eu/articles/posts/how-to-get-a-unix-epoch-from-a-utc-date-time-string/): The surprising struggle to get a Unix Epoch time from a UTC string in C or C++</small>
-
-
-| 🔥: 96 \| 💬: [43](https://news.ycombinator.com/item?id=42758257) \| 🗓️ 2025-01-19
-
-
-<br />
-在C或C++中，将类似“Fri, 17 Jan 2025 06:07:07 UTC”的字符串转换为Unix纪元时间（如1737094027）并非易事。**strptime()** 可用于解析UTC时间字符串，但需避免使用`%z`或`%Z`。**timegm()**（或Windows上的mkgmtime()）是将解析后的`struct tm`转换为正确Unix时间戳的关键。C++20提供了更强大的时间处理功能，简化了这一过程。
-
----
-
-## <a name="15"></a>15. 逆向工程Bambu Connect 
+## <a name="11"></a>11. 逆向工程Bambu Connect 
 <small>🔗 [wiki.rossmanngroup.com](https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect): Reverse Engineering Bambu Connect</small>
 
 
-| 🔥: 93 \| 💬: [35](https://news.ycombinator.com/item?id=42764602) \| 🗓️ 2025-01-19
+| 🔥🔥: 136 \| 💬: [64](https://news.ycombinator.com/item?id=42764602) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -202,7 +154,67 @@ Bambu Connect是一款基于**Electron**的应用，采用**安全通过模糊�
 
 ---
 
-## <a name="16"></a>16. 制作夜光铝酸锶 
+## <a name="12"></a>12. 《叛徒》：一档提供经济学启示的真人秀节目 
+<small>🔗 [economist.com](https://www.economist.com/finance-and-economics/2025/01/16/the-traitors-a-reality-tv-show-offers-a-useful-economics-lesson): “The Traitors”, a reality TV show, offers a useful economics lesson</small>
+
+
+| 🔥🔥: 131 \| 💬: [118](https://news.ycombinator.com/item?id=42755251) \| 🗓️ 2025-01-19
+
+
+<br />
+《叛徒》是一档涉及**谎言与背叛**的真人秀节目，参与者通过策略和欺骗赢得比赛。该节目为观众提供了一个研究**博弈论**的机会，展示了在不完全信息下的有限顺序博弈。无论是英国版还是其他国家的版本，节目都通过参与者的行为揭示了**信任与策略**在竞争中的重要性。
+
+---
+
+## <a name="13"></a>13. 联想新款ThinkPad笔记本电脑移除TrackPoint小红点 
+<small>🔗 [pcworld.com](https://www.pcworld.com/article/2566195/lenovo-has-removed-its-iconic-trackpoint-nub-from-new-thinkpad-laptops.html): Lenovo has removed the TrackPoint nub from new ThinkPad laptops</small>
+
+
+| 🔥🔥: 109 \| 💬: [130](https://news.ycombinator.com/item?id=42758570) \| 🗓️ 2025-01-19
+
+
+<br />
+联想在2025年CES上发布的**ThinkPad X9 Aura Edition**系列中移除了标志性的**TrackPoint小红点**，称其为“过时设计”。尽管TrackPoint仍保留在其他ThinkPad型号中，但联想认为触控板已成为主流。新款笔记本搭载**Intel Lunar Lake处理器**，配备高端OLED屏幕，并引入**AI Now**本地AI功能，支持智能模式和跨设备共享。
+
+---
+
+## <a name="14"></a>14. IsMyXFeedFucked – 分析你的X信息流如何影响你 
+<small>🔗 [ismyxfeedfucked.com](https://www.ismyxfeedfucked.com/): IsMyXFeedFucked – Analyze How Your X Feed's Impacting You</small>
+
+
+| 🔥🔥: 104 \| 💬: [139](https://news.ycombinator.com/item?id=42755173) \| 🗓️ 2025-01-19
+
+
+<br />
+该工具通过**总体健康评分**帮助你了解信息流对**心态和思维模式**的实际影响。通过分析，用户可以更好地管理自己的信息流，避免负面情绪或思维偏差。
+
+---
+
+## <a name="15"></a>15. 在C或C++中从UTC字符串获取Unix纪元时间的意外挑战 
+<small>🔗 [berthub.eu](https://berthub.eu/articles/posts/how-to-get-a-unix-epoch-from-a-utc-date-time-string/): The surprising struggle to get a Unix Epoch time from a UTC string in C or C++</small>
+
+
+| 🔥: 100 \| 💬: [47](https://news.ycombinator.com/item?id=42758257) \| 🗓️ 2025-01-19
+
+
+<br />
+在C或C++中，将类似“Fri, 17 Jan 2025 06:07:07 UTC”的字符串转换为Unix纪元时间（如1737094027）并非易事。**strptime()** 可用于解析UTC时间字符串，但需避免使用`%z`或`%Z`。**timegm()**（或Windows上的mkgmtime()）是将解析后的`struct tm`转换为正确Unix时间戳的关键。C++20提供了更强大的时间处理功能，简化了这一过程。
+
+---
+
+## <a name="16"></a>16. 所有Lisp缩进方案都很丑陋 
+<small>🔗 [aartaka.me](https://aartaka.me/lisp-indent.html): All Lisp indentation schemes are ugly</small>
+
+
+| 🔥: 82 \| 💬: [36](https://news.ycombinator.com/item?id=42762077) \| 🗓️ 2025-01-19
+
+
+<br />
+Lisp的缩进风格多样，但各有缺点。**对齐函数参数**的缩进方式虽能反映代码结构，但在嵌套过深时会导致代码过宽。**空间填充缩进**通过合理分配行空间提高可读性，但缺乏一致性。**宏式缩进**虽不常见，却能在深层嵌套中提供精确控制。**线程宏**虽能简化逻辑，但在Common Lisp中并不适用。最终，选择缩进风格取决于个人偏好和代码需求。
+
+---
+
+## <a name="17"></a>17. 制作夜光铝酸锶 
 <small>🔗 [maurycyz.com](https://maurycyz.com/projects/strontium_aluminate/): Making glow-in-the-dark Strontium Aluminate</small>
 
 
@@ -214,11 +226,11 @@ Bambu Connect是一款基于**Electron**的应用，采用**安全通过模糊�
 
 ---
 
-## <a name="17"></a>17. Linux 网络（套接字）编程综合指南 
+## <a name="18"></a>18. Linux 网络（套接字）编程综合指南 
 <small>🔗 [github.com](https://github.com/nguyenchiemminhvu/LinuxNetworkProgramming): About A comprehensive guide for Linux Network (Socket) programming</small>
 
 
-| 🔥: 79 \| 💬: [15](https://news.ycombinator.com/item?id=42756365) \| 🗓️ 2025-01-19
+| 🔥: 80 \| 💬: [15](https://news.ycombinator.com/item?id=42756365) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -226,38 +238,26 @@ Bambu Connect是一款基于**Electron**的应用，采用**安全通过模糊�
 
 ---
 
-## <a name="18"></a>18. 所有Lisp缩进方案都很丑陋 
-<small>🔗 [aartaka.me](https://aartaka.me/lisp-indent.html): All Lisp indentation schemes are ugly</small>
-
-
-| 🔥: 73 \| 💬: [32](https://news.ycombinator.com/item?id=42762077) \| 🗓️ 2025-01-19
-
-
-<br />
-Lisp的缩进风格多样，但各有缺点。**对齐函数参数**的缩进方式虽能反映代码结构，但在嵌套过深时会导致代码过宽。**空间填充缩进**通过合理分配行空间提高可读性，但缺乏一致性。**宏式缩进**虽不常见，却能在深层嵌套中提供精确控制。**线程宏**虽能简化逻辑，但在Common Lisp中并不适用。最终，选择缩进风格取决于个人偏好和代码需求。
-
----
-
-## <a name="19"></a>19. TikTok禁令：数据显示流量急剧下降，用户迅速转向替代平台 
-<small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/tiktok-ban-traffic-decline-alternatives-rednote/): TikTok ban: data reveals sharp traffic decline and rapid shift to alternatives</small>
-
-
-| 🔥: 67 \| 💬: [93](https://news.ycombinator.com/item?id=42758805) \| 🗓️ 2025-01-19
-
-
-<br />
-2025年1月19日，美国对TikTok的禁令生效，**DNS流量**显示TikTok及相关平台流量在禁令实施后**下降85%**。与此同时，**RedNote（小红书）**等替代平台的流量在美国及其他国家显著增长，墨西哥、加拿大等国增幅尤为明显。总统当选人特朗普计划在就职后给予TikTok**90天延期**。
-
----
-
-## <a name="20"></a>20. 为什么Twitter如此重要（2009） 
+## <a name="19"></a>19. 为什么Twitter如此重要（2009） 
 <small>🔗 [paulgraham.com](https://paulgraham.com/twitter.html): Why Twitter is such a big deal (2009)</small>
 
 
-| 🔥: 66 \| 💬: [97](https://news.ycombinator.com/item?id=42760054) \| 🗓️ 2025-01-19
+| 🔥: 72 \| 💬: [101](https://news.ycombinator.com/item?id=42760054) \| 🗓️ 2025-01-19
 
 
 <br />
 Twitter之所以重要，是因为它是一种**新的消息协议**，用户无需指定接收者。新协议很少见，尤其是成功的新协议。常见的协议如TCP/IP、SMTP和HTTP等屈指可数。Twitter的独特之处在于它是由**私人公司拥有**的协议，这更为罕见。创始人未急于商业化，反而让Twitter感觉像公共协议，这有助于其迅速传播。
+
+---
+
+## <a name="20"></a>20. TikTok禁令：数据显示流量急剧下降，用户迅速转向替代平台 
+<small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/tiktok-ban-traffic-decline-alternatives-rednote/): TikTok ban: data reveals sharp traffic decline and rapid shift to alternatives</small>
+
+
+| 🔥: 68 \| 💬: [93](https://news.ycombinator.com/item?id=42758805) \| 🗓️ 2025-01-19
+
+
+<br />
+2025年1月19日，美国对TikTok的禁令生效，**DNS流量**显示TikTok及相关平台流量在禁令实施后**下降85%**。与此同时，**RedNote（小红书）**等替代平台的流量在美国及其他国家显著增长，墨西哥、加拿大等国增幅尤为明显。总统当选人特朗普计划在就职后给予TikTok**90天延期**。
 
 ---
