@@ -10,8 +10,8 @@ tags:
 
 1. TikTok宣布恢复美国用户服务；
 1. 是时候让计算再次变得个人化了；
-1. 逃离围墙花园与算法黑箱：使用RSS订阅；
 1. OpenAI资助了FrontierMath基准测试并拥有访问权限；
+1. 逃离围墙花园与算法黑箱：使用RSS订阅；
 1. 请不要强制用户使用深色模式；
 
 以上是今天的前五条黑科技新闻标题。
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [nbcnews.com](https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320): TikTok says it is restoring service for U.S. users</small>
 
 
-| 🔥🔥: 518 \| 💬: [1573](https://news.ycombinator.com/item?id=42759336) \| 🗓️ 2025-01-19
+| 🔥🔥: 534 \| 💬: [1626](https://news.ycombinator.com/item?id=42759336) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -38,7 +38,7 @@ TikTok表示将恢复对美国用户的服务，此前因法律问题暂停。**
 <small>🔗 [vintagecomputing.com](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again): It's time to make computing personal again</small>
 
 
-| 🔥🔥: 253 \| 💬: [83](https://news.ycombinator.com/item?id=42763095) \| 🗓️ 2025-01-19
+| 🔥🔥: 311 \| 💬: [105](https://news.ycombinator.com/item?id=42763095) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -46,23 +46,11 @@ TikTok表示将恢复对美国用户的服务，此前因法律问题暂停。**
 
 ---
 
-## <a name="3"></a>3. 逃离围墙花园与算法黑箱：使用RSS订阅 
-<small>🔗 [johnwalker.nl](https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss): Escape the walled garden and algorithm black boxes with RSS feeds</small>
-
-
-| 🔥🔥: 242 \| 💬: [86](https://news.ycombinator.com/item?id=42761219) \| 🗓️ 2025-01-19
-
-
-<br />
-随着在线平台越来越多地依赖**算法**生成内容，用户难以控制自己看到的内容。**RSS**和**Atom**提供了一种去中心化的替代方案，让用户能够自主选择和管理内容来源。通过RSS阅读器，用户可以订阅网站、播客、社交媒体等，摆脱平台算法的束缚，实现更自由、个性化的内容消费。
-
----
-
-## <a name="4"></a>4. OpenAI资助了FrontierMath基准测试并拥有访问权限 
+## <a name="3"></a>3. OpenAI资助了FrontierMath基准测试并拥有访问权限 
 <small>🔗 [lesswrong.com](https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform): FrontierMath was funded by OpenAI</small>
 
 
-| 🔥🔥: 233 \| 💬: [61](https://news.ycombinator.com/item?id=42763231) \| 🗓️ 2025-01-19
+| 🔥🔥: 257 \| 💬: [66](https://news.ycombinator.com/item?id=42763231) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -70,11 +58,23 @@ OpenAI资助了**FrontierMath基准测试**，并获得了该测试集的访问�
 
 ---
 
+## <a name="4"></a>4. 逃离围墙花园与算法黑箱：使用RSS订阅 
+<small>🔗 [johnwalker.nl](https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss): Escape the walled garden and algorithm black boxes with RSS feeds</small>
+
+
+| 🔥🔥: 248 \| 💬: [86](https://news.ycombinator.com/item?id=42761219) \| 🗓️ 2025-01-19
+
+
+<br />
+随着在线平台越来越多地依赖**算法**生成内容，用户难以控制自己看到的内容。**RSS**和**Atom**提供了一种去中心化的替代方案，让用户能够自主选择和管理内容来源。通过RSS阅读器，用户可以订阅网站、播客、社交媒体等，摆脱平台算法的束缚，实现更自由、个性化的内容消费。
+
+---
+
 ## <a name="5"></a>5. 请不要强制用户使用深色模式 
 <small>🔗 [iamvishnu.com](https://iamvishnu.com/posts/please-dont-force-dark-mode): Please don't force dark mode</small>
 
 
-| 🔥🔥: 215 \| 💬: [194](https://news.ycombinator.com/item?id=42762054) \| 🗓️ 2025-01-19
+| 🔥🔥: 218 \| 💬: [199](https://news.ycombinator.com/item?id=42762054) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -86,7 +86,7 @@ OpenAI资助了**FrontierMath基准测试**，并获得了该测试集的访问�
 <small>🔗 [blog.gitbutler.com](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/): Why is Git Autocorrect too fast for Formula One drivers?</small>
 
 
-| 🔥🔥: 185 \| 💬: [112](https://news.ycombinator.com/item?id=42760620) \| 🗓️ 2025-01-19
+| 🔥🔥: 195 \| 💬: [126](https://news.ycombinator.com/item?id=42760620) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -98,7 +98,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 <small>🔗 [fuzzingbook.org](https://www.fuzzingbook.org/): The Fuzzing Book</small>
 
 
-| 🔥🔥: 169 \| 💬: [5](https://news.ycombinator.com/item?id=42756286) \| 🗓️ 2025-01-19
+| 🔥🔥: 174 \| 💬: [5](https://news.ycombinator.com/item?id=42756286) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -110,7 +110,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 <small>🔗 [github.com](https://github.com/kormax/apple-device-as-access-card): Using your Apple device as an access card in unsupported systems</small>
 
 
-| 🔥🔥: 159 \| 💬: [65](https://news.ycombinator.com/item?id=42759557) \| 🗓️ 2025-01-19
+| 🔥🔥: 166 \| 💬: [69](https://news.ycombinator.com/item?id=42759557) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -122,7 +122,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 <small>🔗 [smallstep.com](https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/): Build a tiny CA for your homelab with a Raspberry Pi</small>
 
 
-| 🔥🔥: 143 \| 💬: [36](https://news.ycombinator.com/item?id=42758070) \| 🗓️ 2025-01-19
+| 🔥🔥: 152 \| 💬: [41](https://news.ycombinator.com/item?id=42758070) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -134,7 +134,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 <small>🔗 [economist.com](https://www.economist.com/finance-and-economics/2025/01/16/the-traitors-a-reality-tv-show-offers-a-useful-economics-lesson): “The Traitors”, a reality TV show, offers a useful economics lesson</small>
 
 
-| 🔥🔥: 124 \| 💬: [116](https://news.ycombinator.com/item?id=42755251) \| 🗓️ 2025-01-19
+| 🔥🔥: 127 \| 💬: [119](https://news.ycombinator.com/item?id=42755251) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -142,35 +142,11 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 
 ---
 
-## <a name="11"></a>11. 联想新款ThinkPad笔记本电脑移除TrackPoint小红点 
-<small>🔗 [pcworld.com](https://www.pcworld.com/article/2566195/lenovo-has-removed-its-iconic-trackpoint-nub-from-new-thinkpad-laptops.html): Lenovo has removed the TrackPoint nub from new ThinkPad laptops</small>
-
-
-| 🔥🔥: 107 \| 💬: [130](https://news.ycombinator.com/item?id=42758570) \| 🗓️ 2025-01-19
-
-
-<br />
-联想在2025年CES上发布的**ThinkPad X9 Aura Edition**系列中移除了标志性的**TrackPoint小红点**，称其为“过时设计”。尽管TrackPoint仍保留在其他ThinkPad型号中，但联想认为触控板已成为主流。新款笔记本搭载**Intel Lunar Lake处理器**，配备高端OLED屏幕，并引入**AI Now**本地AI功能，支持智能模式和跨设备共享。
-
----
-
-## <a name="12"></a>12. IsMyXFeedFucked – 分析你的X信息流如何影响你 
-<small>🔗 [ismyxfeedfucked.com](https://www.ismyxfeedfucked.com/): IsMyXFeedFucked – Analyze How Your X Feed's Impacting You</small>
-
-
-| 🔥🔥: 101 \| 💬: [134](https://news.ycombinator.com/item?id=42755173) \| 🗓️ 2025-01-19
-
-
-<br />
-该工具通过**总体健康评分**帮助你了解信息流对**心态和思维模式**的实际影响。通过分析，用户可以更好地管理自己的信息流，避免负面情绪或思维偏差。
-
----
-
-## <a name="13"></a>13. 英国顶尖硬件人才被浪费 
+## <a name="11"></a>11. 英国顶尖硬件人才被浪费 
 <small>🔗 [josef.cn](https://josef.cn/blog/uk-talent): UK's hardware talent is being wasted</small>
 
 
-| 🔥: 94 \| 💬: [96](https://news.ycombinator.com/item?id=42763386) \| 🗓️ 2025-01-19
+| 🔥🔥: 116 \| 💬: [113](https://news.ycombinator.com/item?id=42763386) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -178,11 +154,35 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 
 ---
 
+## <a name="12"></a>12. 联想新款ThinkPad笔记本电脑移除TrackPoint小红点 
+<small>🔗 [pcworld.com](https://www.pcworld.com/article/2566195/lenovo-has-removed-its-iconic-trackpoint-nub-from-new-thinkpad-laptops.html): Lenovo has removed the TrackPoint nub from new ThinkPad laptops</small>
+
+
+| 🔥🔥: 108 \| 💬: [130](https://news.ycombinator.com/item?id=42758570) \| 🗓️ 2025-01-19
+
+
+<br />
+联想在2025年CES上发布的**ThinkPad X9 Aura Edition**系列中移除了标志性的**TrackPoint小红点**，称其为“过时设计”。尽管TrackPoint仍保留在其他ThinkPad型号中，但联想认为触控板已成为主流。新款笔记本搭载**Intel Lunar Lake处理器**，配备高端OLED屏幕，并引入**AI Now**本地AI功能，支持智能模式和跨设备共享。
+
+---
+
+## <a name="13"></a>13. IsMyXFeedFucked – 分析你的X信息流如何影响你 
+<small>🔗 [ismyxfeedfucked.com](https://www.ismyxfeedfucked.com/): IsMyXFeedFucked – Analyze How Your X Feed's Impacting You</small>
+
+
+| 🔥🔥: 103 \| 💬: [138](https://news.ycombinator.com/item?id=42755173) \| 🗓️ 2025-01-19
+
+
+<br />
+该工具通过**总体健康评分**帮助你了解信息流对**心态和思维模式**的实际影响。通过分析，用户可以更好地管理自己的信息流，避免负面情绪或思维偏差。
+
+---
+
 ## <a name="14"></a>14. 在C或C++中从UTC字符串获取Unix纪元时间的意外挑战 
 <small>🔗 [berthub.eu](https://berthub.eu/articles/posts/how-to-get-a-unix-epoch-from-a-utc-date-time-string/): The surprising struggle to get a Unix Epoch time from a UTC string in C or C++</small>
 
 
-| 🔥: 90 \| 💬: [39](https://news.ycombinator.com/item?id=42758257) \| 🗓️ 2025-01-19
+| 🔥: 95 \| 💬: [41](https://news.ycombinator.com/item?id=42758257) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -194,7 +194,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 <small>🔗 [maurycyz.com](https://maurycyz.com/projects/strontium_aluminate/): Making glow-in-the-dark Strontium Aluminate</small>
 
 
-| 🔥: 81 \| 💬: [31](https://news.ycombinator.com/item?id=42756773) \| 🗓️ 2025-01-19
+| 🔥: 81 \| 💬: [32](https://news.ycombinator.com/item?id=42756773) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -206,7 +206,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 <small>🔗 [github.com](https://github.com/nguyenchiemminhvu/LinuxNetworkProgramming): About A comprehensive guide for Linux Network (Socket) programming</small>
 
 
-| 🔥: 77 \| 💬: [14](https://news.ycombinator.com/item?id=42756365) \| 🗓️ 2025-01-19
+| 🔥: 79 \| 💬: [14](https://news.ycombinator.com/item?id=42756365) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -230,7 +230,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 <small>🔗 [aartaka.me](https://aartaka.me/lisp-indent.html): All Lisp indentation schemes are ugly</small>
 
 
-| 🔥: 62 \| 💬: [24](https://news.ycombinator.com/item?id=42762077) \| 🗓️ 2025-01-19
+| 🔥: 66 \| 💬: [30](https://news.ycombinator.com/item?id=42762077) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -238,26 +238,26 @@ Lisp的缩进风格多样，但各有缺点。**对齐函数参数**的缩进方
 
 ---
 
-## <a name="19"></a>19. Open Dylan 
+## <a name="19"></a>19. 为什么Twitter如此重要（2009） 
+<small>🔗 [paulgraham.com](https://paulgraham.com/twitter.html): Why Twitter is such a big deal (2009)</small>
+
+
+| 🔥: 60 \| 💬: [89](https://news.ycombinator.com/item?id=42760054) \| 🗓️ 2025-01-19
+
+
+<br />
+Twitter之所以重要，是因为它是一种**新的消息协议**，用户无需指定接收者。新协议很少见，尤其是成功的新协议。常见的协议如TCP/IP、SMTP和HTTP等屈指可数。Twitter的独特之处在于它是由**私人公司拥有**的协议，这更为罕见。创始人未急于商业化，反而让Twitter感觉像公共协议，这有助于其迅速传播。
+
+---
+
+## <a name="20"></a>20. Open Dylan 
 <small>🔗 [opendylan.org](https://opendylan.org/): Open Dylan</small>
 
 
-| 🔥: 56 \| 💬: [22](https://news.ycombinator.com/item?id=42756896) \| 🗓️ 2025-01-19
+| 🔥: 57 \| 💬: [22](https://news.ycombinator.com/item?id=42756896) \| 🗓️ 2025-01-19
 
 
 <br />
 Dylan 是一种**对象函数式语言**，最初由 Apple 为 Newton 开发。它继承了 Scheme 和 CLOS 的特性，支持高效的机器代码生成，并提供对动态和静态行为的精细控制。新手可从**Dylan 导览**开始，或通过 Playground 在线体验。深入学习可参考《Dylan 编程指南》或《Dylan 参考手册》。
-
----
-
-## <a name="20"></a>20. 扎克伯格被曝知晓Llama模型使用Libgen数据训练 
-<small>🔗 [rollingstone.com](https://www.rollingstone.com/culture/culture-news/ai-meta-pirated-library-zuckerberg-1235235394/): Zuckerberg appeared to know Llama trained on Libgen</small>
-
-
-| 🔥: 55 \| 💬: [68](https://news.ycombinator.com/item?id=42759546) \| 🗓️ 2025-01-19
-
-
-<br />
-Meta首席执行官**马克·扎克伯格**被指批准使用**Libgen**（一个包含盗版电子书和学术文章的“影子图书馆”）的数据来训练其大型语言模型**Llama**。内部文件显示，Meta员工讨论了如何掩盖版权信息，并承认使用Libgen可能引发法律和舆论风险。此案或成为AI公司版权争议的风向标。
 
 ---
