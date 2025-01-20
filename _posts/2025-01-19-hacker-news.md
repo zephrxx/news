@@ -26,7 +26,7 @@ tags:
 <small>🔗 [nbcnews.com](https://www.nbcnews.com/tech/tech-news/tiktok-says-restoring-service-us-users-rcna188320): TikTok says it is restoring service for U.S. users</small>
 
 
-| 🔥🔥: 460 \| 💬: [1373](https://news.ycombinator.com/item?id=42759336) \| 🗓️ 2025-01-19
+| 🔥🔥: 483 \| 💬: [1465](https://news.ycombinator.com/item?id=42759336) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -38,7 +38,7 @@ TikTok表示将恢复对美国用户的服务，此前因法律问题暂停。**
 <small>🔗 [johnwalker.nl](https://www.johnwalker.nl/posts/escape-the-walled-garden-with-rss): Escape the walled garden and algorithm black boxes with RSS feeds</small>
 
 
-| 🔥🔥: 207 \| 💬: [73](https://news.ycombinator.com/item?id=42761219) \| 🗓️ 2025-01-19
+| 🔥🔥: 221 \| 💬: [79](https://news.ycombinator.com/item?id=42761219) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -50,7 +50,7 @@ TikTok表示将恢复对美国用户的服务，此前因法律问题暂停。**
 <small>🔗 [iamvishnu.com](https://iamvishnu.com/posts/please-dont-force-dark-mode): Please don't force dark mode</small>
 
 
-| 🔥🔥: 178 \| 💬: [159](https://news.ycombinator.com/item?id=42762054) \| 🗓️ 2025-01-19
+| 🔥🔥: 196 \| 💬: [173](https://news.ycombinator.com/item?id=42762054) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -62,7 +62,7 @@ TikTok表示将恢复对美国用户的服务，此前因法律问题暂停。**
 <small>🔗 [blog.gitbutler.com](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/): Why is Git Autocorrect too fast for Formula One drivers?</small>
 
 
-| 🔥🔥: 155 \| 💬: [95](https://news.ycombinator.com/item?id=42760620) \| 🗓️ 2025-01-19
+| 🔥🔥: 164 \| 💬: [100](https://news.ycombinator.com/item?id=42760620) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -74,7 +74,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 <small>🔗 [fuzzingbook.org](https://www.fuzzingbook.org/): The Fuzzing Book</small>
 
 
-| 🔥🔥: 149 \| 💬: [5](https://news.ycombinator.com/item?id=42756286) \| 🗓️ 2025-01-19
+| 🔥🔥: 161 \| 💬: [5](https://news.ycombinator.com/item?id=42756286) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -86,7 +86,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 <small>🔗 [github.com](https://github.com/kormax/apple-device-as-access-card): Using your Apple device as an access card in unsupported systems</small>
 
 
-| 🔥🔥: 143 \| 💬: [49](https://news.ycombinator.com/item?id=42759557) \| 🗓️ 2025-01-19
+| 🔥🔥: 152 \| 💬: [49](https://news.ycombinator.com/item?id=42759557) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -94,23 +94,35 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 
 ---
 
-## <a name="7"></a>7. 《叛徒》：一档提供经济学启示的真人秀节目 
-<small>🔗 [economist.com](https://www.economist.com/finance-and-economics/2025/01/16/the-traitors-a-reality-tv-show-offers-a-useful-economics-lesson): “The Traitors”, a reality TV show, offers a useful economics lesson</small>
+## <a name="7"></a>7. 是时候让计算再次变得个人化了 
+<small>🔗 [vintagecomputing.com](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again): It's time to make computing personal again</small>
 
 
-| 🔥🔥: 116 \| 💬: [112](https://news.ycombinator.com/item?id=42755251) \| 🗓️ 2025-01-19
+| 🔥🔥: 137 \| 💬: [30](https://news.ycombinator.com/item?id=42763095) \| 🗓️ 2025-01-19
 
 
 <br />
-《叛徒》是一档涉及**谎言与背叛**的真人秀节目，参与者通过策略和欺骗赢得比赛。该节目为观众提供了一个研究**博弈论**的机会，展示了在不完全信息下的有限顺序博弈。无论是英国版还是其他国家的版本，节目都通过参与者的行为揭示了**信任与策略**在竞争中的重要性。
+本文探讨了**个人计算机**从自由探索的工具演变为被大公司控制的现状。作者批评了**监控资本主义**和**数字版权管理（DRM）**如何侵蚀了用户的自由，呼吁通过支持开源软件、推动隐私立法和改革DRM来重新掌控数字生活。文章强调，**数字自由**已成为个人自由的核心，必须通过改革恢复计算的个人化本质。
 
 ---
 
-## <a name="8"></a>8. 用树莓派为你的家庭实验室搭建一个小型CA 
+## <a name="8"></a>8. OpenAI资助了FrontierMath基准测试并拥有访问权限 
+<small>🔗 [lesswrong.com](https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform): OpenAI funded FrontierMath Benchmarks and had access to the set</small>
+
+
+| 🔥🔥: 132 \| 💬: [32](https://news.ycombinator.com/item?id=42763231) \| 🗓️ 2025-01-19
+
+
+<br />
+OpenAI资助了**FrontierMath基准测试**，并获得了该测试集的访问权限。这一举措显示了OpenAI在推动**AI数学能力评估**方面的重要作用。相关内容发布在**Show HN**类别中，供社区讨论和分享。
+
+---
+
+## <a name="9"></a>9. 用树莓派为你的家庭实验室搭建一个小型CA 
 <small>🔗 [smallstep.com](https://smallstep.com/blog/build-a-tiny-ca-with-raspberry-pi-yubikey/): Build a tiny CA for your homelab with a Raspberry Pi</small>
 
 
-| 🔥🔥: 105 \| 💬: [27](https://news.ycombinator.com/item?id=42758070) \| 🗓️ 2025-01-19
+| 🔥🔥: 122 \| 💬: [29](https://news.ycombinator.com/item?id=42758070) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -118,11 +130,23 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 
 ---
 
-## <a name="9"></a>9. 联想新款ThinkPad笔记本电脑移除TrackPoint小红点 
+## <a name="10"></a>10. 《叛徒》：一档提供经济学启示的真人秀节目 
+<small>🔗 [economist.com](https://www.economist.com/finance-and-economics/2025/01/16/the-traitors-a-reality-tv-show-offers-a-useful-economics-lesson): “The Traitors”, a reality TV show, offers a useful economics lesson</small>
+
+
+| 🔥🔥: 121 \| 💬: [115](https://news.ycombinator.com/item?id=42755251) \| 🗓️ 2025-01-19
+
+
+<br />
+《叛徒》是一档涉及**谎言与背叛**的真人秀节目，参与者通过策略和欺骗赢得比赛。该节目为观众提供了一个研究**博弈论**的机会，展示了在不完全信息下的有限顺序博弈。无论是英国版还是其他国家的版本，节目都通过参与者的行为揭示了**信任与策略**在竞争中的重要性。
+
+---
+
+## <a name="11"></a>11. 联想新款ThinkPad笔记本电脑移除TrackPoint小红点 
 <small>🔗 [pcworld.com](https://www.pcworld.com/article/2566195/lenovo-has-removed-its-iconic-trackpoint-nub-from-new-thinkpad-laptops.html): Lenovo has removed the TrackPoint nub from new ThinkPad laptops</small>
 
 
-| 🔥🔥: 102 \| 💬: [128](https://news.ycombinator.com/item?id=42758570) \| 🗓️ 2025-01-19
+| 🔥🔥: 103 \| 💬: [128](https://news.ycombinator.com/item?id=42758570) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -130,11 +154,11 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 
 ---
 
-## <a name="10"></a>10. IsMyXFeedFucked – 分析你的X信息流如何影响你 
+## <a name="12"></a>12. IsMyXFeedFucked – 分析你的X信息流如何影响你 
 <small>🔗 [ismyxfeedfucked.com](https://www.ismyxfeedfucked.com/): IsMyXFeedFucked – Analyze How Your X Feed's Impacting You</small>
 
 
-| 🔥: 89 \| 💬: [126](https://news.ycombinator.com/item?id=42755173) \| 🗓️ 2025-01-19
+| 🔥: 94 \| 💬: [128](https://news.ycombinator.com/item?id=42755173) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -142,23 +166,11 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 
 ---
 
-## <a name="11"></a>11. 制作夜光铝酸锶 
-<small>🔗 [maurycyz.com](https://maurycyz.com/projects/strontium_aluminate/): Making glow-in-the-dark Strontium Aluminate</small>
-
-
-| 🔥: 78 \| 💬: [30](https://news.ycombinator.com/item?id=42756773) \| 🗓️ 2025-01-19
-
-
-<br />
-本文介绍了制作**夜光铝酸锶**的过程，使用**硝酸盐分解法**生成锶和铝的氧化物，再通过高温反应合成铝酸锶。添加**铕和镝**作为掺杂剂以增强发光效果。实验涉及腐蚀性试剂和高温操作，需注意安全。最终产物发光时间较短，可能与试剂纯度或温度不足有关。
-
----
-
-## <a name="12"></a>12. 在C或C++中从UTC字符串获取Unix纪元时间的意外挑战 
+## <a name="13"></a>13. 在C或C++中从UTC字符串获取Unix纪元时间的意外挑战 
 <small>🔗 [berthub.eu](https://berthub.eu/articles/posts/how-to-get-a-unix-epoch-from-a-utc-date-time-string/): The surprising struggle to get a Unix Epoch time from a UTC string in C or C++</small>
 
 
-| 🔥: 78 \| 💬: [37](https://news.ycombinator.com/item?id=42758257) \| 🗓️ 2025-01-19
+| 🔥: 83 \| 💬: [37](https://news.ycombinator.com/item?id=42758257) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -166,11 +178,23 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 
 ---
 
-## <a name="13"></a>13. Linux 网络（套接字）编程综合指南 
+## <a name="14"></a>14. 制作夜光铝酸锶 
+<small>🔗 [maurycyz.com](https://maurycyz.com/projects/strontium_aluminate/): Making glow-in-the-dark Strontium Aluminate</small>
+
+
+| 🔥: 80 \| 💬: [31](https://news.ycombinator.com/item?id=42756773) \| 🗓️ 2025-01-19
+
+
+<br />
+本文介绍了制作**夜光铝酸锶**的过程，使用**硝酸盐分解法**生成锶和铝的氧化物，再通过高温反应合成铝酸锶。添加**铕和镝**作为掺杂剂以增强发光效果。实验涉及腐蚀性试剂和高温操作，需注意安全。最终产物发光时间较短，可能与试剂纯度或温度不足有关。
+
+---
+
+## <a name="15"></a>15. Linux 网络（套接字）编程综合指南 
 <small>🔗 [github.com](https://github.com/nguyenchiemminhvu/LinuxNetworkProgramming): About A comprehensive guide for Linux Network (Socket) programming</small>
 
 
-| 🔥: 68 \| 💬: [13](https://news.ycombinator.com/item?id=42756365) \| 🗓️ 2025-01-19
+| 🔥: 73 \| 💬: [13](https://news.ycombinator.com/item?id=42756365) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -178,7 +202,7 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 
 ---
 
-## <a name="14"></a>14. TikTok禁令：数据显示流量急剧下降，用户迅速转向替代平台 
+## <a name="16"></a>16. TikTok禁令：数据显示流量急剧下降，用户迅速转向替代平台 
 <small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/tiktok-ban-traffic-decline-alternatives-rednote/): TikTok ban: data reveals sharp traffic decline and rapid shift to alternatives</small>
 
 
@@ -190,23 +214,23 @@ Git 的 `help.autocorrect` 功能允许在输入错误命令时自动纠正并�
 
 ---
 
-## <a name="15"></a>15. OpenAI资助了FrontierMath基准测试并拥有访问权限 
-<small>🔗 [lesswrong.com](https://www.lesswrong.com/posts/cu2E8wgmbdZbqeWqb/meemi-s-shortform): OpenAI funded FrontierMath Benchmarks and had access to the set</small>
+## <a name="17"></a>17. 英国顶尖硬件人才被浪费 
+<small>🔗 [josef.cn](https://josef.cn/blog/uk-talent): UK's elite hardware talent is being wasted</small>
 
 
-| 🔥: 61 \| 💬: [13](https://news.ycombinator.com/item?id=42763231) \| 🗓️ 2025-01-19
+| 🔥: 61 \| 💬: [69](https://news.ycombinator.com/item?id=42763386) \| 🗓️ 2025-01-19
 
 
 <br />
-OpenAI资助了**FrontierMath基准测试**，并获得了该测试集的访问权限。这一举措显示了OpenAI在推动**AI数学能力评估**方面的重要作用。相关内容发布在**Show HN**类别中，供社区讨论和分享。
+英国顶尖学府如帝国理工、牛津、剑桥培养出世界级工程师，但毕业后却面临低薪困境。**硬件工程师**在伦敦起薪仅£25,000-£50,000，远低于硅谷的$150,000+。许多人才被迫转向金融或咨询行业，导致**创新停滞**和**人才流失**。英国硬件行业缺乏投资和雄心，错失了成为全球硬件中心的机会。现在是时候利用本地人才，推动**硬件革命**，避免未来后悔。
 
 ---
 
-## <a name="16"></a>16. 扎克伯格被曝知晓Llama模型使用Libgen数据训练 
+## <a name="18"></a>18. 扎克伯格被曝知晓Llama模型使用Libgen数据训练 
 <small>🔗 [rollingstone.com](https://www.rollingstone.com/culture/culture-news/ai-meta-pirated-library-zuckerberg-1235235394/): Zuckerberg appeared to know Llama trained on Libgen</small>
 
 
-| 🔥: 54 \| 💬: [63](https://news.ycombinator.com/item?id=42759546) \| 🗓️ 2025-01-19
+| 🔥: 55 \| 💬: [64](https://news.ycombinator.com/item?id=42759546) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -214,11 +238,11 @@ Meta首席执行官**马克·扎克伯格**被指批准使用**Libgen**（一个
 
 ---
 
-## <a name="17"></a>17. 哲学正在吞噬人工智能 
+## <a name="19"></a>19. 哲学正在吞噬人工智能 
 <small>🔗 [sloanreview.mit.edu](https://sloanreview.mit.edu/article/philosophy-eats-ai/): Philosophy Eats AI</small>
 
 
-| 🔥: 53 \| 💬: [42](https://news.ycombinator.com/item?id=42760210) \| 🗓️ 2025-01-19
+| 🔥: 54 \| 💬: [42](https://news.ycombinator.com/item?id=42760210) \| 🗓️ 2025-01-19
 
 
 <br />
@@ -226,38 +250,14 @@ Meta首席执行官**马克·扎克伯格**被指批准使用**Libgen**（一个
 
 ---
 
-## <a name="18"></a>18. Open Dylan 
+## <a name="20"></a>20. Open Dylan 
 <small>🔗 [opendylan.org](https://opendylan.org/): Open Dylan</small>
 
 
-| 🔥: 52 \| 💬: [21](https://news.ycombinator.com/item?id=42756896) \| 🗓️ 2025-01-19
+| 🔥: 53 \| 💬: [21](https://news.ycombinator.com/item?id=42756896) \| 🗓️ 2025-01-19
 
 
 <br />
 Dylan 是一种**对象函数式语言**，最初由 Apple 为 Newton 开发。它继承了 Scheme 和 CLOS 的特性，支持高效的机器代码生成，并提供对动态和静态行为的精细控制。新手可从**Dylan 导览**开始，或通过 Playground 在线体验。深入学习可参考《Dylan 编程指南》或《Dylan 参考手册》。
-
----
-
-## <a name="19"></a>19. 是时候让计算再次变得个人化了 
-<small>🔗 [vintagecomputing.com](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again): It's time to make computing personal again</small>
-
-
-| 🔥: 47 \| 💬: [11](https://news.ycombinator.com/item?id=42763095) \| 🗓️ 2025-01-19
-
-
-<br />
-本文探讨了**个人计算机**从自由探索的工具演变为被大公司控制的现状。作者批评了**监控资本主义**和**数字版权管理（DRM）**如何侵蚀了用户的自由，呼吁通过支持开源软件、推动隐私立法和改革DRM来重新掌控数字生活。文章强调，**数字自由**已成为个人自由的核心，必须通过改革恢复计算的个人化本质。
-
----
-
-## <a name="20"></a>20. 日本老年人孤独挣扎，部分女性选择入狱 
-<small>🔗 [cnn.com](https://www.cnn.com/2025/01/18/asia/japan-elderly-largest-womens-prison-intl-hnk-dst/index.html): Japan's elderly are lonely and struggling. Some women choose to go to jail</small>
-
-
-| 🔥: 43 \| 💬: [36](https://news.ycombinator.com/item?id=42756276) \| 🗓️ 2025-01-19
-
-
-<br />
-在日本最大的女子监狱中，许多老年囚犯因**孤独**和**贫困**选择犯罪以重返监狱。监狱提供免费医疗、饮食和陪伴，成为她们唯一的避风港。随着日本老龄化加剧，监狱逐渐演变为“养老院”，政府正努力通过社区支持和福利政策缓解这一问题，但挑战依然严峻。
 
 ---
