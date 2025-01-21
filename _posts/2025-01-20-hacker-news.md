@@ -26,7 +26,7 @@ tags:
 <small>🔗 [github.com](https://github.com/deepseek-ai/DeepSeek-R1): DeepSeek-R1</small>
 
 
-| 🔥🔥: 1190 \| 💬: [435](https://news.ycombinator.com/item?id=42768072) \| 🗓️ 2025-01-20
+| 🔥🔥: 1232 \| 💬: [445](https://news.ycombinator.com/item?id=42768072) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -38,7 +38,7 @@ DeepSeek-R1 是首个通过大规模**强化学习（RL）**训练生成的推�
 <small>🔗 [okayfail.com](http://okayfail.com/2025/i-met-pg-once.html): I Met Paul Graham Once</small>
 
 
-| 🔥🔥: 873 \| 💬: [532](https://news.ycombinator.com/item?id=42767507) \| 🗓️ 2025-01-20
+| 🔥🔥: 901 \| 💬: [562](https://news.ycombinator.com/item?id=42767507) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -50,7 +50,7 @@ DeepSeek-R1 是首个通过大规模**强化学习（RL）**训练生成的推�
 <small>🔗 [mixxx.org](https://mixxx.org/): Mixxx: GPL DJ Software</small>
 
 
-| 🔥🔥: 445 \| 💬: [89](https://news.ycombinator.com/item?id=42769871) \| 🗓️ 2025-01-20
+| 🔥🔥: 462 \| 💬: [90](https://news.ycombinator.com/item?id=42769871) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -62,7 +62,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [blog.rongarret.info](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html): I am (not) a failure: Lessons learned from six failed startup attempts</small>
 
 
-| 🔥🔥: 351 \| 💬: [224](https://news.ycombinator.com/item?id=42771676) \| 🗓️ 2025-01-20
+| 🔥🔥: 359 \| 💬: [227](https://news.ycombinator.com/item?id=42771676) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -74,7 +74,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [neilzone.co.uk](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/): Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM car</small>
 
 
-| 🔥🔥: 300 \| 💬: [178](https://news.ycombinator.com/item?id=42767584) \| 🗓️ 2025-01-20
+| 🔥🔥: 306 \| 💬: [181](https://news.ycombinator.com/item?id=42767584) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -86,7 +86,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [ssno.cc](https://ssno.cc/posts/reversing-tac-1-4-2025/): Reverse engineering Call of Duty anti-cheat</small>
 
 
-| 🔥🔥: 219 \| 💬: [58](https://news.ycombinator.com/item?id=42774221) \| 🗓️ 2025-01-20
+| 🔥🔥: 242 \| 💬: [67](https://news.ycombinator.com/item?id=42774221) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -98,7 +98,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [jpost.com](https://www.jpost.com/international/article-838444): Did Elon Musk Appear to Sieg Heil at Trump Inauguration?</small>
 
 
-| 🔥🔥: 209 \| 💬: [80](https://news.ycombinator.com/item?id=42772995) \| 🗓️ 2025-01-20
+| 🔥🔥: 215 \| 💬: [87](https://news.ycombinator.com/item?id=42772995) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -110,7 +110,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/jan/20/trump-elon-musk-salute): Elon Musk appears to make back-to-back fascist salutes at inauguration rally</small>
 
 
-| 🔥🔥: 172 \| 💬: [72](https://news.ycombinator.com/item?id=42773778) \| 🗓️ 2025-01-20
+| 🔥🔥: 177 \| 💬: [73](https://news.ycombinator.com/item?id=42773778) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -122,7 +122,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [medium.com](https://medium.com/swlh/zork-the-great-inner-workings-b68012952bdc): Zork: The Great Inner Workings (2020)</small>
 
 
-| 🔥🔥: 157 \| 💬: [58](https://news.ycombinator.com/item?id=42767132) \| 🗓️ 2025-01-20
+| 🔥🔥: 163 \| 💬: [58](https://news.ycombinator.com/item?id=42767132) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -134,7 +134,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [mdpi.com](https://www.mdpi.com/2504-446X/8/11/652): Celestial Navigation for Drones</small>
 
 
-| 🔥🔥: 157 \| 💬: [85](https://news.ycombinator.com/item?id=42767797) \| 🗓️ 2025-01-20
+| 🔥🔥: 162 \| 💬: [87](https://news.ycombinator.com/item?id=42767797) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -146,7 +146,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [2ality.com](https://2ality.com/2025/01/typescript-enum-patterns.html): TypeScript enums: use cases and alternatives</small>
 
 
-| 🔥🔥: 156 \| 💬: [121](https://news.ycombinator.com/item?id=42766729) \| 🗓️ 2025-01-20
+| 🔥🔥: 158 \| 💬: [121](https://news.ycombinator.com/item?id=42766729) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -158,7 +158,7 @@ TypeScript 枚举是一种**固定值集合**，既定义了对象（键值映�
 <small>🔗 [shaunlebron.github.io](https://shaunlebron.github.io/parinfer/): Parinfer: Simpler Lisp Editing</small>
 
 
-| 🔥🔥: 139 \| 💬: [21](https://news.ycombinator.com/item?id=42766205) \| 🗓️ 2025-01-20
+| 🔥🔥: 142 \| 💬: [21](https://news.ycombinator.com/item?id=42766205) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -166,23 +166,11 @@ Parinfer 是一种新的编辑器模式，旨在简化 Lisp 编程中的括号�
 
 ---
 
-## <a name="13"></a>13. Meta 似乎窃取了大量书籍来构建其 AI 
-<small>🔗 [lithub.com](https://lithub.com/it-sure-looks-like-meta-stole-a-lot-of-books-to-build-its-ai/): It sure looks like Meta stole a lot of books to build its AI</small>
-
-
-| 🔥🔥: 125 \| 💬: [137](https://news.ycombinator.com/item?id=42775545) \| 🗓️ 2025-01-20
-
-
-<br />
-文章指出，Meta 在开发其 AI 技术时，**未经授权**使用了大量书籍内容。这些书籍可能包括小说、诗歌等文学作品，引发了关于**版权**和**数据隐私**的争议。Meta 的行为被质疑是否违反了知识产权法，并引发了公众对其 AI 训练数据来源的广泛关注。
-
----
-
-## <a name="14"></a>14. Ruff：用 Rust 编写的 Python 代码检查器和格式化工具 
+## <a name="13"></a>13. Ruff：用 Rust 编写的 Python 代码检查器和格式化工具 
 <small>🔗 [github.com](https://github.com/astral-sh/ruff): Ruff: Python linter and code formatter written in Rust</small>
 
 
-| 🔥🔥: 124 \| 💬: [65](https://news.ycombinator.com/item?id=42775029) \| 🗓️ 2025-01-20
+| 🔥🔥: 136 \| 💬: [70](https://news.ycombinator.com/item?id=42775029) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -190,7 +178,31 @@ Ruff 是一个**极速**的 Python 代码检查器和格式化工具，完全用
 
 ---
 
-## <a name="15"></a>15. 逆向解析我的Hacker News热门文章 
+## <a name="14"></a>14. Meta 似乎窃取了大量书籍来构建其 AI 
+<small>🔗 [lithub.com](https://lithub.com/it-sure-looks-like-meta-stole-a-lot-of-books-to-build-its-ai/): It sure looks like Meta stole a lot of books to build its AI</small>
+
+
+| 🔥🔥: 126 \| 💬: [139](https://news.ycombinator.com/item?id=42775545) \| 🗓️ 2025-01-20
+
+
+<br />
+文章指出，Meta 在开发其 AI 技术时，**未经授权**使用了大量书籍内容。这些书籍可能包括小说、诗歌等文学作品，引发了关于**版权**和**数据隐私**的争议。Meta 的行为被质疑是否违反了知识产权法，并引发了公众对其 AI 训练数据来源的广泛关注。
+
+---
+
+## <a name="15"></a>15. 那些本科整除问题从何而来？ 
+<small>🔗 [grossack.site](https://grossack.site/2025/01/16/undergrad-divisibility-problems.html): Where do those undergraduate divisibility problems come from?</small>
+
+
+| 🔥🔥: 124 \| 💬: [38](https://news.ycombinator.com/item?id=42766825) \| 🗓️ 2025-01-20
+
+
+<br />
+在本科的“证明入门”或“离散数学”课程中，常会遇到如“证明$n^6 + n^3 + 2n^2 + 2n$对任意$n$都是6的倍数”的问题。这些问题的来源是什么？本文通过**Pólya-Redfield计数**解释了如何构造这类多项式，使其输出总是某个固定数的倍数。关键在于通过**群作用**和**轨道计数**来确保结果的整除性。
+
+---
+
+## <a name="16"></a>16. 逆向解析我的Hacker News热门文章 
 <small>🔗 [danielwirtz.com](https://danielwirtz.com/blog/successful-hacker-news-article): Reverse engineering my #1 Hacker News article</small>
 
 
@@ -202,19 +214,31 @@ Ruff 是一个**极速**的 Python 代码检查器和格式化工具，完全用
 
 ---
 
-## <a name="16"></a>16. 那些本科整除问题从何而来？ 
-<small>🔗 [grossack.site](https://grossack.site/2025/01/16/undergrad-divisibility-problems.html): Where do those undergraduate divisibility problems come from?</small>
+## <a name="17"></a>17. 作者要求Meta提供Torrent客户端日志和种子数据以调查AI侵权案 
+<small>🔗 [torrentfreak.com](https://torrentfreak.com/authors-seek-metas-torrent-client-logs-and-seeding-data-in-ai-piracy-probe-250120/): Authors seek Meta's torrent client logs and seeding data in AI piracy probe</small>
 
 
-| 🔥🔥: 118 \| 💬: [37](https://news.ycombinator.com/item?id=42766825) \| 🗓️ 2025-01-20
+| 🔥🔥: 112 \| 💬: [121](https://news.ycombinator.com/item?id=42772771) \| 🗓️ 2025-01-20
 
 
 <br />
-在本科的“证明入门”或“离散数学”课程中，常会遇到如“证明$n^6 + n^3 + 2n^2 + 2n$对任意$n$都是6的倍数”的问题。这些问题的来源是什么？本文通过**Pólya-Redfield计数**解释了如何构造这类多项式，使其输出总是某个固定数的倍数。关键在于通过**群作用**和**轨道计数**来确保结果的整除性。
+在AI侵权诉讼中，作者指控**Meta**通过BitTorrent下载盗版书籍用于AI训练，并作为种子分发。Meta承认使用非官方来源，但辩称属于**合理使用**。法院允许作者调查Meta的种子行为，认为这可能影响**故意侵权**或合理使用的辩护。作者要求Meta提供Torrent日志和种子数据，以证明其分发盗版内容的行为。
 
 ---
 
-## <a name="17"></a>17. Automattic CEO Matt Mullenweg 似乎决心毁掉 WordPress 
+## <a name="18"></a>18. 马斯克在就职演讲中行纳粹礼 
+<small>🔗 [youtube.com](https://www.youtube.com/watch?v=e2bbb-6Clhs): Elon Gives Nazi Salute During Inauguration Speech</small>
+
+
+| 🔥🔥: 111 \| 💬: [27](https://news.ycombinator.com/item?id=42774621) \| 🗓️ 2025-01-20
+
+
+<br />
+在就职演讲中，**马斯克**意外地做出了一个**纳粹礼**手势，引发了广泛争议。这一行为迅速在社交媒体上引发热议，许多人对其动机和背景表示质疑。尽管尚未有官方解释，但这一事件已成为**公众讨论**的焦点。
+
+---
+
+## <a name="19"></a>19. Automattic CEO Matt Mullenweg 似乎决心毁掉 WordPress 
 <small>🔗 [digitalcxo.com](https://digitalcxo.com/article/matt-mullenweg-automattics-ceo-seems-bound-and-determined-to-wreck-wordpress/): Matt Mullenweg, Automattic's CEO, Seems Bound and Determined to Wreck WordPress</small>
 
 
@@ -226,35 +250,11 @@ Automattic CEO Matt Mullenweg 因与托管公司 **WP Engine** 的激烈冲突�
 
 ---
 
-## <a name="18"></a>18. 马斯克在就职演讲中行纳粹礼 
-<small>🔗 [youtube.com](https://www.youtube.com/watch?v=e2bbb-6Clhs): Elon Gives Nazi Salute During Inauguration Speech</small>
-
-
-| 🔥🔥: 106 \| 💬: [26](https://news.ycombinator.com/item?id=42774621) \| 🗓️ 2025-01-20
-
-
-<br />
-在就职演讲中，**马斯克**意外地做出了一个**纳粹礼**手势，引发了广泛争议。这一行为迅速在社交媒体上引发热议，许多人对其动机和背景表示质疑。尽管尚未有官方解释，但这一事件已成为**公众讨论**的焦点。
-
----
-
-## <a name="19"></a>19. 作者要求Meta提供Torrent客户端日志和种子数据以调查AI侵权案 
-<small>🔗 [torrentfreak.com](https://torrentfreak.com/authors-seek-metas-torrent-client-logs-and-seeding-data-in-ai-piracy-probe-250120/): Authors seek Meta's torrent client logs and seeding data in AI piracy probe</small>
-
-
-| 🔥🔥: 103 \| 💬: [108](https://news.ycombinator.com/item?id=42772771) \| 🗓️ 2025-01-20
-
-
-<br />
-在AI侵权诉讼中，作者指控**Meta**通过BitTorrent下载盗版书籍用于AI训练，并作为种子分发。Meta承认使用非官方来源，但辩称属于**合理使用**。法院允许作者调查Meta的种子行为，认为这可能影响**故意侵权**或合理使用的辩护。作者要求Meta提供Torrent日志和种子数据，以证明其分发盗版内容的行为。
-
----
-
 ## <a name="20"></a>20. 个性化词汇学习应用：WordPecker 
 <small>🔗 [github.com](https://github.com/baturyilmaz/wordpecker-app): Show HN: Personalized Duolingo (kind of) for vocabulary building</small>
 
 
-| 🔥: 98 \| 💬: [27](https://news.ycombinator.com/item?id=42770200) \| 🗓️ 2025-01-20
+| 🔥🔥: 103 \| 💬: [27](https://news.ycombinator.com/item?id=42770200) \| 🗓️ 2025-01-20
 
 
 <br />
