@@ -26,7 +26,7 @@ tags:
 <small>🔗 [github.com](https://github.com/deepseek-ai/DeepSeek-R1): DeepSeek-R1</small>
 
 
-| 🔥🔥: 1158 \| 💬: [428](https://news.ycombinator.com/item?id=42768072) \| 🗓️ 2025-01-20
+| 🔥🔥: 1190 \| 💬: [435](https://news.ycombinator.com/item?id=42768072) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -38,7 +38,7 @@ DeepSeek-R1 是首个通过大规模**强化学习（RL）**训练生成的推�
 <small>🔗 [okayfail.com](http://okayfail.com/2025/i-met-pg-once.html): I Met Paul Graham Once</small>
 
 
-| 🔥🔥: 833 \| 💬: [502](https://news.ycombinator.com/item?id=42767507) \| 🗓️ 2025-01-20
+| 🔥🔥: 873 \| 💬: [532](https://news.ycombinator.com/item?id=42767507) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -50,7 +50,7 @@ DeepSeek-R1 是首个通过大规模**强化学习（RL）**训练生成的推�
 <small>🔗 [mixxx.org](https://mixxx.org/): Mixxx: GPL DJ Software</small>
 
 
-| 🔥🔥: 433 \| 💬: [88](https://news.ycombinator.com/item?id=42769871) \| 🗓️ 2025-01-20
+| 🔥🔥: 445 \| 💬: [89](https://news.ycombinator.com/item?id=42769871) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -62,7 +62,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [blog.rongarret.info](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html): I am (not) a failure: Lessons learned from six failed startup attempts</small>
 
 
-| 🔥🔥: 341 \| 💬: [219](https://news.ycombinator.com/item?id=42771676) \| 🗓️ 2025-01-20
+| 🔥🔥: 351 \| 💬: [224](https://news.ycombinator.com/item?id=42771676) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -74,7 +74,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [neilzone.co.uk](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/): Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM car</small>
 
 
-| 🔥🔥: 293 \| 💬: [176](https://news.ycombinator.com/item?id=42767584) \| 🗓️ 2025-01-20
+| 🔥🔥: 300 \| 💬: [178](https://news.ycombinator.com/item?id=42767584) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -82,23 +82,11 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 
 ---
 
-## <a name="6"></a>6. 埃隆·马斯克在特朗普就职典礼上疑似行纳粹礼？ 
-<small>🔗 [jpost.com](https://www.jpost.com/international/article-838444): Did Elon Musk Appear to Sieg Heil at Trump Inauguration?</small>
-
-
-| 🔥🔥: 204 \| 💬: [76](https://news.ycombinator.com/item?id=42772995) \| 🗓️ 2025-01-20
-
-
-<br />
-在特朗普就职典礼上，**埃隆·马斯克**被拍到三次做出类似**纳粹礼**的手势，引发社交媒体热议。他在演讲中感谢支持者并提到火星计划，称将把美国国旗插上火星。此举引发广泛争议，部分网友将其与纳粹主义联系起来。
-
----
-
-## <a name="7"></a>7. 《使命召唤反作弊逆向工程》 
+## <a name="6"></a>6. 《使命召唤反作弊逆向工程》 
 <small>🔗 [ssno.cc](https://ssno.cc/posts/reversing-tac-1-4-2025/): Reverse engineering Call of Duty anti-cheat</small>
 
 
-| 🔥🔥: 194 \| 💬: [48](https://news.ycombinator.com/item?id=42774221) \| 🗓️ 2025-01-20
+| 🔥🔥: 219 \| 💬: [58](https://news.ycombinator.com/item?id=42774221) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -106,11 +94,23 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 
 ---
 
+## <a name="7"></a>7. 埃隆·马斯克在特朗普就职典礼上疑似行纳粹礼？ 
+<small>🔗 [jpost.com](https://www.jpost.com/international/article-838444): Did Elon Musk Appear to Sieg Heil at Trump Inauguration?</small>
+
+
+| 🔥🔥: 209 \| 💬: [80](https://news.ycombinator.com/item?id=42772995) \| 🗓️ 2025-01-20
+
+
+<br />
+在特朗普就职典礼上，**埃隆·马斯克**被拍到三次做出类似**纳粹礼**的手势，引发社交媒体热议。他在演讲中感谢支持者并提到火星计划，称将把美国国旗插上火星。此举引发广泛争议，部分网友将其与纳粹主义联系起来。
+
+---
+
 ## <a name="8"></a>8. 马斯克在特朗普就职典礼上疑似行法西斯礼 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/jan/20/trump-elon-musk-salute): Elon Musk appears to make back-to-back fascist salutes at inauguration rally</small>
 
 
-| 🔥🔥: 166 \| 💬: [71](https://news.ycombinator.com/item?id=42773778) \| 🗓️ 2025-01-20
+| 🔥🔥: 172 \| 💬: [72](https://news.ycombinator.com/item?id=42773778) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -118,23 +118,11 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 
 ---
 
-## <a name="9"></a>9. TypeScript 枚举：使用场景与替代方案 
-<small>🔗 [2ality.com](https://2ality.com/2025/01/typescript-enum-patterns.html): TypeScript enums: use cases and alternatives</small>
-
-
-| 🔥🔥: 156 \| 💬: [120](https://news.ycombinator.com/item?id=42766729) \| 🗓️ 2025-01-20
-
-
-<br />
-TypeScript 枚举是一种**固定值集合**，既定义了对象（键值映射）又定义了类型（仅包含成员值）。适用于**命名空间常量**和**自定义类型**，但无法用于对象值常量。替代方案包括**对象字面量**和**字符串字面量联合类型**，后者支持**穷举检查**和成员枚举。
-
----
-
-## <a name="10"></a>10. Zork：伟大的内部运作（2020） 
+## <a name="9"></a>9. Zork：伟大的内部运作（2020） 
 <small>🔗 [medium.com](https://medium.com/swlh/zork-the-great-inner-workings-b68012952bdc): Zork: The Great Inner Workings (2020)</small>
 
 
-| 🔥🔥: 155 \| 💬: [58](https://news.ycombinator.com/item?id=42767132) \| 🗓️ 2025-01-20
+| 🔥🔥: 157 \| 💬: [58](https://news.ycombinator.com/item?id=42767132) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -142,11 +130,11 @@ TypeScript 枚举是一种**固定值集合**，既定义了对象（键值映�
 
 ---
 
-## <a name="11"></a>11. 无人机天基导航 
+## <a name="10"></a>10. 无人机天基导航 
 <small>🔗 [mdpi.com](https://www.mdpi.com/2504-446X/8/11/652): Celestial Navigation for Drones</small>
 
 
-| 🔥🔥: 153 \| 💬: [84](https://news.ycombinator.com/item?id=42767797) \| 🗓️ 2025-01-20
+| 🔥🔥: 157 \| 💬: [85](https://news.ycombinator.com/item?id=42767797) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -154,11 +142,23 @@ TypeScript 枚举是一种**固定值集合**，既定义了对象（键值映�
 
 ---
 
+## <a name="11"></a>11. TypeScript 枚举：使用场景与替代方案 
+<small>🔗 [2ality.com](https://2ality.com/2025/01/typescript-enum-patterns.html): TypeScript enums: use cases and alternatives</small>
+
+
+| 🔥🔥: 156 \| 💬: [121](https://news.ycombinator.com/item?id=42766729) \| 🗓️ 2025-01-20
+
+
+<br />
+TypeScript 枚举是一种**固定值集合**，既定义了对象（键值映射）又定义了类型（仅包含成员值）。适用于**命名空间常量**和**自定义类型**，但无法用于对象值常量。替代方案包括**对象字面量**和**字符串字面量联合类型**，后者支持**穷举检查**和成员枚举。
+
+---
+
 ## <a name="12"></a>12. Parinfer：简化 Lisp 编辑 
 <small>🔗 [shaunlebron.github.io](https://shaunlebron.github.io/parinfer/): Parinfer: Simpler Lisp Editing</small>
 
 
-| 🔥🔥: 138 \| 💬: [21](https://news.ycombinator.com/item?id=42766205) \| 🗓️ 2025-01-20
+| 🔥🔥: 139 \| 💬: [21](https://news.ycombinator.com/item?id=42766205) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -170,7 +170,7 @@ Parinfer 是一种新的编辑器模式，旨在简化 Lisp 编程中的括号�
 <small>🔗 [lithub.com](https://lithub.com/it-sure-looks-like-meta-stole-a-lot-of-books-to-build-its-ai/): It sure looks like Meta stole a lot of books to build its AI</small>
 
 
-| 🔥🔥: 121 \| 💬: [132](https://news.ycombinator.com/item?id=42775545) \| 🗓️ 2025-01-20
+| 🔥🔥: 125 \| 💬: [137](https://news.ycombinator.com/item?id=42775545) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -178,23 +178,11 @@ Parinfer 是一种新的编辑器模式，旨在简化 Lisp 编程中的括号�
 
 ---
 
-## <a name="14"></a>14. 逆向解析我的Hacker News热门文章 
-<small>🔗 [danielwirtz.com](https://danielwirtz.com/blog/successful-hacker-news-article): Reverse engineering my #1 Hacker News article</small>
-
-
-| 🔥🔥: 119 \| 💬: [40](https://news.ycombinator.com/item?id=42769325) \| 🗓️ 2025-01-20
-
-
-<br />
-作者分享了一篇意外成为Hacker News热门文章的创作过程。**好奇心**是文章成功的关键，标题“我获得了一个新超能力”简洁且引人入胜。文章通过**个人故事**和**互动元素**（如“找不同”谜题）吸引了读者，激发了讨论。**真实性和参与感**是文章脱颖而出的重要因素。
-
----
-
-## <a name="15"></a>15. Ruff：用 Rust 编写的 Python 代码检查器和格式化工具 
+## <a name="14"></a>14. Ruff：用 Rust 编写的 Python 代码检查器和格式化工具 
 <small>🔗 [github.com](https://github.com/astral-sh/ruff): Ruff: Python linter and code formatter written in Rust</small>
 
 
-| 🔥🔥: 116 \| 💬: [55](https://news.ycombinator.com/item?id=42775029) \| 🗓️ 2025-01-20
+| 🔥🔥: 124 \| 💬: [65](https://news.ycombinator.com/item?id=42775029) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -202,11 +190,23 @@ Ruff 是一个**极速**的 Python 代码检查器和格式化工具，完全用
 
 ---
 
+## <a name="15"></a>15. 逆向解析我的Hacker News热门文章 
+<small>🔗 [danielwirtz.com](https://danielwirtz.com/blog/successful-hacker-news-article): Reverse engineering my #1 Hacker News article</small>
+
+
+| 🔥🔥: 119 \| 💬: [41](https://news.ycombinator.com/item?id=42769325) \| 🗓️ 2025-01-20
+
+
+<br />
+作者分享了一篇意外成为Hacker News热门文章的创作过程。**好奇心**是文章成功的关键，标题“我获得了一个新超能力”简洁且引人入胜。文章通过**个人故事**和**互动元素**（如“找不同”谜题）吸引了读者，激发了讨论。**真实性和参与感**是文章脱颖而出的重要因素。
+
+---
+
 ## <a name="16"></a>16. 那些本科整除问题从何而来？ 
 <small>🔗 [grossack.site](https://grossack.site/2025/01/16/undergrad-divisibility-problems.html): Where do those undergraduate divisibility problems come from?</small>
 
 
-| 🔥🔥: 114 \| 💬: [33](https://news.ycombinator.com/item?id=42766825) \| 🗓️ 2025-01-20
+| 🔥🔥: 118 \| 💬: [37](https://news.ycombinator.com/item?id=42766825) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -218,7 +218,7 @@ Ruff 是一个**极速**的 Python 代码检查器和格式化工具，完全用
 <small>🔗 [digitalcxo.com](https://digitalcxo.com/article/matt-mullenweg-automattics-ceo-seems-bound-and-determined-to-wreck-wordpress/): Matt Mullenweg, Automattic's CEO, Seems Bound and Determined to Wreck WordPress</small>
 
 
-| 🔥🔥: 109 \| 💬: [47](https://news.ycombinator.com/item?id=42773311) \| 🗓️ 2025-01-20
+| 🔥🔥: 110 \| 💬: [49](https://news.ycombinator.com/item?id=42773311) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -230,7 +230,7 @@ Automattic CEO Matt Mullenweg 因与托管公司 **WP Engine** 的激烈冲突�
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=e2bbb-6Clhs): Elon Gives Nazi Salute During Inauguration Speech</small>
 
 
-| 🔥🔥: 102 \| 💬: [26](https://news.ycombinator.com/item?id=42774621) \| 🗓️ 2025-01-20
+| 🔥🔥: 106 \| 💬: [26](https://news.ycombinator.com/item?id=42774621) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -242,7 +242,7 @@ Automattic CEO Matt Mullenweg 因与托管公司 **WP Engine** 的激烈冲突�
 <small>🔗 [torrentfreak.com](https://torrentfreak.com/authors-seek-metas-torrent-client-logs-and-seeding-data-in-ai-piracy-probe-250120/): Authors seek Meta's torrent client logs and seeding data in AI piracy probe</small>
 
 
-| 🔥: 96 \| 💬: [98](https://news.ycombinator.com/item?id=42772771) \| 🗓️ 2025-01-20
+| 🔥🔥: 103 \| 💬: [108](https://news.ycombinator.com/item?id=42772771) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -254,7 +254,7 @@ Automattic CEO Matt Mullenweg 因与托管公司 **WP Engine** 的激烈冲突�
 <small>🔗 [github.com](https://github.com/baturyilmaz/wordpecker-app): Show HN: Personalized Duolingo (kind of) for vocabulary building</small>
 
 
-| 🔥: 95 \| 💬: [26](https://news.ycombinator.com/item?id=42770200) \| 🗓️ 2025-01-20
+| 🔥: 98 \| 💬: [27](https://news.ycombinator.com/item?id=42770200) \| 🗓️ 2025-01-20
 
 
 <br />
