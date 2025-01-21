@@ -26,7 +26,7 @@ tags:
 <small>🔗 [github.com](https://github.com/deepseek-ai/DeepSeek-R1): DeepSeek-R1</small>
 
 
-| 🔥🔥: 1091 \| 💬: [395](https://news.ycombinator.com/item?id=42768072) \| 🗓️ 2025-01-20
+| 🔥🔥: 1126 \| 💬: [412](https://news.ycombinator.com/item?id=42768072) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -38,7 +38,7 @@ DeepSeek-R1 是首个通过大规模**强化学习（RL）**训练生成的推�
 <small>🔗 [okayfail.com](http://okayfail.com/2025/i-met-pg-once.html): I Met Paul Graham Once</small>
 
 
-| 🔥🔥: 761 \| 💬: [461](https://news.ycombinator.com/item?id=42767507) \| 🗓️ 2025-01-20
+| 🔥🔥: 796 \| 💬: [483](https://news.ycombinator.com/item?id=42767507) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -50,7 +50,7 @@ DeepSeek-R1 是首个通过大规模**强化学习（RL）**训练生成的推�
 <small>🔗 [mixxx.org](https://mixxx.org/): Mixxx: GPL DJ Software</small>
 
 
-| 🔥🔥: 413 \| 💬: [88](https://news.ycombinator.com/item?id=42769871) \| 🗓️ 2025-01-20
+| 🔥🔥: 418 \| 💬: [88](https://news.ycombinator.com/item?id=42769871) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -62,7 +62,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [blog.rongarret.info](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html): I am (not) a failure: Lessons learned from six failed startup attempts</small>
 
 
-| 🔥🔥: 317 \| 💬: [213](https://news.ycombinator.com/item?id=42771676) \| 🗓️ 2025-01-20
+| 🔥🔥: 329 \| 💬: [216](https://news.ycombinator.com/item?id=42771676) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -74,7 +74,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [neilzone.co.uk](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/): Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM car</small>
 
 
-| 🔥🔥: 282 \| 💬: [170](https://news.ycombinator.com/item?id=42767584) \| 🗓️ 2025-01-20
+| 🔥🔥: 286 \| 💬: [173](https://news.ycombinator.com/item?id=42767584) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -86,7 +86,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [jpost.com](https://www.jpost.com/international/article-838444): Did Elon Musk Appear to Sieg Heil at Trump Inauguration?</small>
 
 
-| 🔥🔥: 197 \| 💬: [67](https://news.ycombinator.com/item?id=42772995) \| 🗓️ 2025-01-20
+| 🔥🔥: 200 \| 💬: [72](https://news.ycombinator.com/item?id=42772995) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -98,7 +98,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/jan/20/trump-elon-musk-salute): Elon Musk appears to make back-to-back fascist salutes at inauguration rally</small>
 
 
-| 🔥🔥: 159 \| 💬: [64](https://news.ycombinator.com/item?id=42773778) \| 🗓️ 2025-01-20
+| 🔥🔥: 162 \| 💬: [71](https://news.ycombinator.com/item?id=42773778) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -106,11 +106,23 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 
 ---
 
-## <a name="8"></a>8. TypeScript 枚举：使用场景与替代方案 
+## <a name="8"></a>8. 《使命召唤反作弊逆向工程》 
+<small>🔗 [ssno.cc](https://ssno.cc/posts/reversing-tac-1-4-2025/): Reverse engineering Call of Duty anti-cheat</small>
+
+
+| 🔥🔥: 162 \| 💬: [30](https://news.ycombinator.com/item?id=42774221) \| 🗓️ 2025-01-20
+
+
+<br />
+本文深入探讨了《使命召唤：黑色行动冷战》中的用户模式反作弊系统**TAC**。文章详细分析了游戏如何通过**Arxan**进行代码混淆和保护，包括运行时解密、校验和检查以及跳转混淆等技术。此外，还介绍了TAC如何检测调试器和API钩子，并探讨了绕过这些检测的潜在方法，如使用**调试寄存器**进行异常钩子。
+
+---
+
+## <a name="9"></a>9. TypeScript 枚举：使用场景与替代方案 
 <small>🔗 [2ality.com](https://2ality.com/2025/01/typescript-enum-patterns.html): TypeScript enums: use cases and alternatives</small>
 
 
-| 🔥🔥: 153 \| 💬: [120](https://news.ycombinator.com/item?id=42766729) \| 🗓️ 2025-01-20
+| 🔥🔥: 155 \| 💬: [120](https://news.ycombinator.com/item?id=42766729) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -118,11 +130,11 @@ TypeScript 枚举是一种**固定值集合**，既定义了对象（键值映�
 
 ---
 
-## <a name="9"></a>9. Zork：伟大的内部运作（2020） 
+## <a name="10"></a>10. Zork：伟大的内部运作（2020） 
 <small>🔗 [medium.com](https://medium.com/swlh/zork-the-great-inner-workings-b68012952bdc): Zork: The Great Inner Workings (2020)</small>
 
 
-| 🔥🔥: 151 \| 💬: [58](https://news.ycombinator.com/item?id=42767132) \| 🗓️ 2025-01-20
+| 🔥🔥: 152 \| 💬: [58](https://news.ycombinator.com/item?id=42767132) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -130,27 +142,15 @@ TypeScript 枚举是一种**固定值集合**，既定义了对象（键值映�
 
 ---
 
-## <a name="10"></a>10. 无人机天基导航 
+## <a name="11"></a>11. 无人机天基导航 
 <small>🔗 [mdpi.com](https://www.mdpi.com/2504-446X/8/11/652): Celestial Navigation for Drones</small>
 
 
-| 🔥🔥: 145 \| 💬: [82](https://news.ycombinator.com/item?id=42767797) \| 🗓️ 2025-01-20
+| 🔥🔥: 148 \| 💬: [83](https://news.ycombinator.com/item?id=42767797) \| 🗓️ 2025-01-20
 
 
 <br />
 本文提出了一种低成本、轻量化的**天基导航**解决方案，适用于**GNSS拒止环境**下的无人机。通过使用**固定式相机**和简单的轨道运动，系统能够在没有外部位置输入的情况下，将位置估计误差缩小至4公里以内。该方法展示了天基导航在低成本无人机中的潜力，特别是在夜间或海洋等GPS不可用环境下的冗余导航能力。
-
----
-
-## <a name="11"></a>11. 《使命召唤反作弊逆向工程》 
-<small>🔗 [ssno.cc](https://ssno.cc/posts/reversing-tac-1-4-2025/): Reverse engineering Call of Duty anti-cheat</small>
-
-
-| 🔥🔥: 143 \| 💬: [21](https://news.ycombinator.com/item?id=42774221) \| 🗓️ 2025-01-20
-
-
-<br />
-本文深入探讨了《使命召唤：黑色行动冷战》中的用户模式反作弊系统**TAC**。文章详细分析了游戏如何通过**Arxan**进行代码混淆和保护，包括运行时解密、校验和检查以及跳转混淆等技术。此外，还介绍了TAC如何检测调试器和API钩子，并探讨了绕过这些检测的潜在方法，如使用**调试寄存器**进行异常钩子。
 
 ---
 
@@ -166,59 +166,11 @@ Parinfer 是一种新的编辑器模式，旨在简化 Lisp 编程中的括号�
 
 ---
 
-## <a name="13"></a>13. 逆向解析我的Hacker News热门文章 
-<small>🔗 [danielwirtz.com](https://danielwirtz.com/blog/successful-hacker-news-article): Reverse engineering my #1 Hacker News article</small>
-
-
-| 🔥🔥: 115 \| 💬: [39](https://news.ycombinator.com/item?id=42769325) \| 🗓️ 2025-01-20
-
-
-<br />
-作者分享了一篇意外成为Hacker News热门文章的创作过程。**好奇心**是文章成功的关键，标题“我获得了一个新超能力”简洁且引人入胜。文章通过**个人故事**和**互动元素**（如“找不同”谜题）吸引了读者，激发了讨论。**真实性和参与感**是文章脱颖而出的重要因素。
-
----
-
-## <a name="14"></a>14. 那些本科整除问题从何而来？ 
-<small>🔗 [grossack.site](https://grossack.site/2025/01/16/undergrad-divisibility-problems.html): Where do those undergraduate divisibility problems come from?</small>
-
-
-| 🔥🔥: 109 \| 💬: [31](https://news.ycombinator.com/item?id=42766825) \| 🗓️ 2025-01-20
-
-
-<br />
-在本科的“证明入门”或“离散数学”课程中，常会遇到如“证明$n^6 + n^3 + 2n^2 + 2n$对任意$n$都是6的倍数”的问题。这些问题的来源是什么？本文通过**Pólya-Redfield计数**解释了如何构造这类多项式，使其输出总是某个固定数的倍数。关键在于通过**群作用**和**轨道计数**来确保结果的整除性。
-
----
-
-## <a name="15"></a>15. Automattic CEO Matt Mullenweg 似乎决心毁掉 WordPress 
-<small>🔗 [digitalcxo.com](https://digitalcxo.com/article/matt-mullenweg-automattics-ceo-seems-bound-and-determined-to-wreck-wordpress/): Matt Mullenweg, Automattic's CEO, Seems Bound and Determined to Wreck WordPress</small>
-
-
-| 🔥🔥: 106 \| 💬: [46](https://news.ycombinator.com/item?id=42773311) \| 🗓️ 2025-01-20
-
-
-<br />
-Automattic CEO Matt Mullenweg 因与托管公司 **WP Engine** 的激烈冲突而引发争议，导致 WordPress 社区分裂。Mullenweg 指责 WP Engine 滥用 WordPress 品牌并禁用修订功能，随后禁止其访问 WordPress.org 资源，引发法律诉讼。Automattic 还大幅减少了对 **WordPress 开源项目** 的贡献，导致社区对平台未来感到担忧，甚至考虑分叉。Mullenweg 的行为引发内部员工离职和外部批评，WordPress 的未来充满不确定性。
-
----
-
-## <a name="16"></a>16. 马斯克在就职演讲中行纳粹礼 
-<small>🔗 [youtube.com](https://www.youtube.com/watch?v=e2bbb-6Clhs): Elon Gives Nazi Salute During Inauguration Speech</small>
-
-
-| 🔥: 95 \| 💬: [26](https://news.ycombinator.com/item?id=42774621) \| 🗓️ 2025-01-20
-
-
-<br />
-在就职演讲中，**马斯克**意外地做出了一个**纳粹礼**手势，引发了广泛争议。这一行为迅速在社交媒体上引发热议，许多人对其动机和背景表示质疑。尽管尚未有官方解释，但这一事件已成为**公众讨论**的焦点。
-
----
-
-## <a name="17"></a>17. Meta 似乎窃取了大量书籍来构建其 AI 
+## <a name="13"></a>13. Meta 似乎窃取了大量书籍来构建其 AI 
 <small>🔗 [lithub.com](https://lithub.com/it-sure-looks-like-meta-stole-a-lot-of-books-to-build-its-ai/): It sure looks like Meta stole a lot of books to build its AI</small>
 
 
-| 🔥: 92 \| 💬: [82](https://news.ycombinator.com/item?id=42775545) \| 🗓️ 2025-01-20
+| 🔥🔥: 117 \| 💬: [127](https://news.ycombinator.com/item?id=42775545) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -226,11 +178,71 @@ Automattic CEO Matt Mullenweg 因与托管公司 **WP Engine** 的激烈冲突�
 
 ---
 
-## <a name="18"></a>18. 个性化词汇学习应用：WordPecker 
+## <a name="14"></a>14. 逆向解析我的Hacker News热门文章 
+<small>🔗 [danielwirtz.com](https://danielwirtz.com/blog/successful-hacker-news-article): Reverse engineering my #1 Hacker News article</small>
+
+
+| 🔥🔥: 116 \| 💬: [40](https://news.ycombinator.com/item?id=42769325) \| 🗓️ 2025-01-20
+
+
+<br />
+作者分享了一篇意外成为Hacker News热门文章的创作过程。**好奇心**是文章成功的关键，标题“我获得了一个新超能力”简洁且引人入胜。文章通过**个人故事**和**互动元素**（如“找不同”谜题）吸引了读者，激发了讨论。**真实性和参与感**是文章脱颖而出的重要因素。
+
+---
+
+## <a name="15"></a>15. 那些本科整除问题从何而来？ 
+<small>🔗 [grossack.site](https://grossack.site/2025/01/16/undergrad-divisibility-problems.html): Where do those undergraduate divisibility problems come from?</small>
+
+
+| 🔥🔥: 112 \| 💬: [32](https://news.ycombinator.com/item?id=42766825) \| 🗓️ 2025-01-20
+
+
+<br />
+在本科的“证明入门”或“离散数学”课程中，常会遇到如“证明$n^6 + n^3 + 2n^2 + 2n$对任意$n$都是6的倍数”的问题。这些问题的来源是什么？本文通过**Pólya-Redfield计数**解释了如何构造这类多项式，使其输出总是某个固定数的倍数。关键在于通过**群作用**和**轨道计数**来确保结果的整除性。
+
+---
+
+## <a name="16"></a>16. Automattic CEO Matt Mullenweg 似乎决心毁掉 WordPress 
+<small>🔗 [digitalcxo.com](https://digitalcxo.com/article/matt-mullenweg-automattics-ceo-seems-bound-and-determined-to-wreck-wordpress/): Matt Mullenweg, Automattic's CEO, Seems Bound and Determined to Wreck WordPress</small>
+
+
+| 🔥🔥: 107 \| 💬: [46](https://news.ycombinator.com/item?id=42773311) \| 🗓️ 2025-01-20
+
+
+<br />
+Automattic CEO Matt Mullenweg 因与托管公司 **WP Engine** 的激烈冲突而引发争议，导致 WordPress 社区分裂。Mullenweg 指责 WP Engine 滥用 WordPress 品牌并禁用修订功能，随后禁止其访问 WordPress.org 资源，引发法律诉讼。Automattic 还大幅减少了对 **WordPress 开源项目** 的贡献，导致社区对平台未来感到担忧，甚至考虑分叉。Mullenweg 的行为引发内部员工离职和外部批评，WordPress 的未来充满不确定性。
+
+---
+
+## <a name="17"></a>17. Ruff：用 Rust 编写的 Python 代码检查器和格式化工具 
+<small>🔗 [github.com](https://github.com/astral-sh/ruff): Ruff: Python linter and code formatter written in Rust</small>
+
+
+| 🔥🔥: 101 \| 💬: [48](https://news.ycombinator.com/item?id=42775029) \| 🗓️ 2025-01-20
+
+
+<br />
+Ruff 是一个**极速**的 Python 代码检查器和格式化工具，完全用 Rust 编写。它比现有的工具（如 Flake8 和 Black）快 **10-100 倍**，并支持超过 **800 条内置规则**，兼容 Python 3.13。Ruff 可以替代 Flake8、Black、isort 等多个工具，且**内置缓存**和**自动修复**功能，适用于大型项目和开源社区。
+
+---
+
+## <a name="18"></a>18. 马斯克在就职演讲中行纳粹礼 
+<small>🔗 [youtube.com](https://www.youtube.com/watch?v=e2bbb-6Clhs): Elon Gives Nazi Salute During Inauguration Speech</small>
+
+
+| 🔥: 100 \| 💬: [26](https://news.ycombinator.com/item?id=42774621) \| 🗓️ 2025-01-20
+
+
+<br />
+在就职演讲中，**马斯克**意外地做出了一个**纳粹礼**手势，引发了广泛争议。这一行为迅速在社交媒体上引发热议，许多人对其动机和背景表示质疑。尽管尚未有官方解释，但这一事件已成为**公众讨论**的焦点。
+
+---
+
+## <a name="19"></a>19. 个性化词汇学习应用：WordPecker 
 <small>🔗 [github.com](https://github.com/baturyilmaz/wordpecker-app): Show HN: Personalized Duolingo (kind of) for vocabulary building</small>
 
 
-| 🔥: 89 \| 💬: [23](https://news.ycombinator.com/item?id=42770200) \| 🗓️ 2025-01-20
+| 🔥: 94 \| 💬: [25](https://news.ycombinator.com/item?id=42770200) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -238,7 +250,7 @@ WordPecker 是一款结合 **Duolingo 风格课程** 和 **自定义词汇表** 
 
 ---
 
-## <a name="19"></a>19. 塞尔玛游行（1965年） 
+## <a name="20"></a>20. 塞尔玛游行（1965年） 
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/1965/04/10/letter-from-selma): The Selma March (1965)</small>
 
 
@@ -247,17 +259,5 @@ WordPecker 是一款结合 **Duolingo 风格课程** 和 **自定义词汇表** 
 
 <br />
 1965年，约三万人从塞尔玛的布朗教堂出发，前往蒙哥马利州议会大厦，抗议种族歧视和争取投票权。游行队伍包括**非裔美国人**、北方牧师、工会成员等，受到联邦政府和军队的保护。尽管面临危险和敌意，游行者通过**非暴力抗议**表达团结与决心。游行最终成为民权运动的象征，推动了**投票权法案**的通过。
-
----
-
-## <a name="20"></a>20. 作者要求Meta提供Torrent客户端日志和种子数据以调查AI侵权案 
-<small>🔗 [torrentfreak.com](https://torrentfreak.com/authors-seek-metas-torrent-client-logs-and-seeding-data-in-ai-piracy-probe-250120/): Authors seek Meta's torrent client logs and seeding data in AI piracy probe</small>
-
-
-| 🔥: 77 \| 💬: [71](https://news.ycombinator.com/item?id=42772771) \| 🗓️ 2025-01-20
-
-
-<br />
-在AI侵权诉讼中，作者指控**Meta**通过BitTorrent下载盗版书籍用于AI训练，并作为种子分发。Meta承认使用非官方来源，但辩称属于**合理使用**。法院允许作者调查Meta的种子行为，认为这可能影响**故意侵权**或合理使用的辩护。作者要求Meta提供Torrent日志和种子数据，以证明其分发盗版内容的行为。
 
 ---
