@@ -26,7 +26,7 @@ tags:
 <small>🔗 [github.com](https://github.com/deepseek-ai/DeepSeek-R1): DeepSeek-R1</small>
 
 
-| 🔥🔥: 967 \| 💬: [329](https://news.ycombinator.com/item?id=42768072) \| 🗓️ 2025-01-20
+| 🔥🔥: 1019 \| 💬: [360](https://news.ycombinator.com/item?id=42768072) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -38,7 +38,7 @@ DeepSeek-R1 是首个通过大规模**强化学习（RL）**训练生成的推�
 <small>🔗 [okayfail.com](http://okayfail.com/2025/i-met-pg-once.html): I Met Paul Graham Once</small>
 
 
-| 🔥🔥: 611 \| 💬: [370](https://news.ycombinator.com/item?id=42767507) \| 🗓️ 2025-01-20
+| 🔥🔥: 664 \| 💬: [402](https://news.ycombinator.com/item?id=42767507) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -50,7 +50,7 @@ DeepSeek-R1 是首个通过大规模**强化学习（RL）**训练生成的推�
 <small>🔗 [mixxx.org](https://mixxx.org/): Mixxx: GPL DJ Software</small>
 
 
-| 🔥🔥: 372 \| 💬: [79](https://news.ycombinator.com/item?id=42769871) \| 🗓️ 2025-01-20
+| 🔥🔥: 390 \| 💬: [86](https://news.ycombinator.com/item?id=42769871) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -62,7 +62,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [blog.rongarret.info](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html): I am (not) a failure: Lessons learned from six failed startup attempts</small>
 
 
-| 🔥🔥: 281 \| 💬: [173](https://news.ycombinator.com/item?id=42771676) \| 🗓️ 2025-01-20
+| 🔥🔥: 295 \| 💬: [191](https://news.ycombinator.com/item?id=42771676) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -74,7 +74,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [neilzone.co.uk](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/): Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM car</small>
 
 
-| 🔥🔥: 258 \| 💬: [161](https://news.ycombinator.com/item?id=42767584) \| 🗓️ 2025-01-20
+| 🔥🔥: 268 \| 💬: [168](https://news.ycombinator.com/item?id=42767584) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -86,7 +86,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [jpost.com](https://www.jpost.com/international/article-838444): Did Elon Musk Appear to Sieg Heil at Trump Inauguration?</small>
 
 
-| 🔥🔥: 157 \| 💬: [63](https://news.ycombinator.com/item?id=42772995) \| 🗓️ 2025-01-20
+| 🔥🔥: 182 \| 💬: [67](https://news.ycombinator.com/item?id=42772995) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -98,7 +98,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [2ality.com](https://2ality.com/2025/01/typescript-enum-patterns.html): TypeScript enums: use cases and alternatives</small>
 
 
-| 🔥🔥: 139 \| 💬: [117](https://news.ycombinator.com/item?id=42766729) \| 🗓️ 2025-01-20
+| 🔥🔥: 145 \| 💬: [118](https://news.ycombinator.com/item?id=42766729) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -110,7 +110,7 @@ TypeScript 枚举是一种**固定值集合**，既定义了对象（键值映�
 <small>🔗 [medium.com](https://medium.com/swlh/zork-the-great-inner-workings-b68012952bdc): Zork: The Great Inner Workings (2020)</small>
 
 
-| 🔥🔥: 135 \| 💬: [49](https://news.ycombinator.com/item?id=42767132) \| 🗓️ 2025-01-20
+| 🔥🔥: 142 \| 💬: [51](https://news.ycombinator.com/item?id=42767132) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -118,35 +118,11 @@ TypeScript 枚举是一种**固定值集合**，既定义了对象（键值映�
 
 ---
 
-## <a name="9"></a>9. 无人机天基导航 
-<small>🔗 [mdpi.com](https://www.mdpi.com/2504-446X/8/11/652): Celestial Navigation for Drones</small>
-
-
-| 🔥🔥: 133 \| 💬: [72](https://news.ycombinator.com/item?id=42767797) \| 🗓️ 2025-01-20
-
-
-<br />
-本文提出了一种低成本、轻量化的**天基导航**解决方案，适用于**GNSS拒止环境**下的无人机。通过使用**固定式相机**和简单的轨道运动，系统能够在没有外部位置输入的情况下，将位置估计误差缩小至4公里以内。该方法展示了天基导航在低成本无人机中的潜力，特别是在夜间或海洋等GPS不可用环境下的冗余导航能力。
-
----
-
-## <a name="10"></a>10. Parinfer：简化 Lisp 编辑 
-<small>🔗 [shaunlebron.github.io](https://shaunlebron.github.io/parinfer/): Parinfer: Simpler Lisp Editing</small>
-
-
-| 🔥🔥: 132 \| 💬: [18](https://news.ycombinator.com/item?id=42766205) \| 🗓️ 2025-01-20
-
-
-<br />
-Parinfer 是一种新的编辑器模式，旨在简化 Lisp 编程中的括号管理。通过**自动调整括号**与缩进的关系，Parinfer 提供了两种模式：**缩进模式**和**括号模式**，分别允许用户控制缩进或括号，同时自动调整另一方。该工具旨在降低 Lisp 的学习曲线，同时保留其强大功能，特别适合新手和专家使用。
-
----
-
-## <a name="11"></a>11. 马斯克在特朗普就职典礼上疑似行法西斯礼 
+## <a name="9"></a>9. 马斯克在特朗普就职典礼上疑似行法西斯礼 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/jan/20/trump-elon-musk-salute): Elon Musk appears to make back-to-back fascist salutes at inauguration rally</small>
 
 
-| 🔥🔥: 121 \| 💬: [41](https://news.ycombinator.com/item?id=42773778) \| 🗓️ 2025-01-20
+| 🔥🔥: 142 \| 💬: [56](https://news.ycombinator.com/item?id=42773778) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -154,23 +130,35 @@ Parinfer 是一种新的编辑器模式，旨在简化 Lisp 编程中的括号�
 
 ---
 
-## <a name="12"></a>12. 那些本科整除问题从何而来？ 
-<small>🔗 [grossack.site](https://grossack.site/2025/01/16/undergrad-divisibility-problems.html): Where do those undergraduate divisibility problems come from?</small>
+## <a name="10"></a>10. 无人机天基导航 
+<small>🔗 [mdpi.com](https://www.mdpi.com/2504-446X/8/11/652): Celestial Navigation for Drones</small>
 
 
-| 🔥: 99 \| 💬: [30](https://news.ycombinator.com/item?id=42766825) \| 🗓️ 2025-01-20
+| 🔥🔥: 135 \| 💬: [80](https://news.ycombinator.com/item?id=42767797) \| 🗓️ 2025-01-20
 
 
 <br />
-在本科的“证明入门”或“离散数学”课程中，常会遇到如“证明$n^6 + n^3 + 2n^2 + 2n$对任意$n$都是6的倍数”的问题。这些问题的来源是什么？本文通过**Pólya-Redfield计数**解释了如何构造这类多项式，使其输出总是某个固定数的倍数。关键在于通过**群作用**和**轨道计数**来确保结果的整除性。
+本文提出了一种低成本、轻量化的**天基导航**解决方案，适用于**GNSS拒止环境**下的无人机。通过使用**固定式相机**和简单的轨道运动，系统能够在没有外部位置输入的情况下，将位置估计误差缩小至4公里以内。该方法展示了天基导航在低成本无人机中的潜力，特别是在夜间或海洋等GPS不可用环境下的冗余导航能力。
 
 ---
 
-## <a name="13"></a>13. 逆向解析我的Hacker News热门文章 
+## <a name="11"></a>11. Parinfer：简化 Lisp 编辑 
+<small>🔗 [shaunlebron.github.io](https://shaunlebron.github.io/parinfer/): Parinfer: Simpler Lisp Editing</small>
+
+
+| 🔥🔥: 134 \| 💬: [18](https://news.ycombinator.com/item?id=42766205) \| 🗓️ 2025-01-20
+
+
+<br />
+Parinfer 是一种新的编辑器模式，旨在简化 Lisp 编程中的括号管理。通过**自动调整括号**与缩进的关系，Parinfer 提供了两种模式：**缩进模式**和**括号模式**，分别允许用户控制缩进或括号，同时自动调整另一方。该工具旨在降低 Lisp 的学习曲线，同时保留其强大功能，特别适合新手和专家使用。
+
+---
+
+## <a name="12"></a>12. 逆向解析我的Hacker News热门文章 
 <small>🔗 [danielwirtz.com](https://danielwirtz.com/blog/successful-hacker-news-article): Reverse engineering my #1 Hacker News article</small>
 
 
-| 🔥: 99 \| 💬: [31](https://news.ycombinator.com/item?id=42769325) \| 🗓️ 2025-01-20
+| 🔥🔥: 110 \| 💬: [34](https://news.ycombinator.com/item?id=42769325) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -178,11 +166,23 @@ Parinfer 是一种新的编辑器模式，旨在简化 Lisp 编程中的括号�
 
 ---
 
+## <a name="13"></a>13. 那些本科整除问题从何而来？ 
+<small>🔗 [grossack.site](https://grossack.site/2025/01/16/undergrad-divisibility-problems.html): Where do those undergraduate divisibility problems come from?</small>
+
+
+| 🔥🔥: 102 \| 💬: [31](https://news.ycombinator.com/item?id=42766825) \| 🗓️ 2025-01-20
+
+
+<br />
+在本科的“证明入门”或“离散数学”课程中，常会遇到如“证明$n^6 + n^3 + 2n^2 + 2n$对任意$n$都是6的倍数”的问题。这些问题的来源是什么？本文通过**Pólya-Redfield计数**解释了如何构造这类多项式，使其输出总是某个固定数的倍数。关键在于通过**群作用**和**轨道计数**来确保结果的整除性。
+
+---
+
 ## <a name="14"></a>14. 个性化词汇学习应用：WordPecker 
 <small>🔗 [github.com](https://github.com/baturyilmaz/wordpecker-app): Show HN: Personalized Duolingo (Kind of) for Vocabulary Building</small>
 
 
-| 🔥: 73 \| 💬: [21](https://news.ycombinator.com/item?id=42770200) \| 🗓️ 2025-01-20
+| 🔥: 77 \| 💬: [22](https://news.ycombinator.com/item?id=42770200) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -194,7 +194,7 @@ WordPecker 是一款结合 **Duolingo 风格课程** 和 **自定义词汇表** 
 <small>🔗 [caitlynrichardson.substack.com](https://caitlynrichardson.substack.com/p/the-quiet-rebellion-of-a-little-life): The quiet rebellion of a little life</small>
 
 
-| 🔥: 70 \| 💬: [106](https://news.ycombinator.com/item?id=42769751) \| 🗓️ 2025-01-20
+| 🔥: 71 \| 💬: [110](https://news.ycombinator.com/item?id=42769751) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -202,47 +202,11 @@ WordPecker 是一款结合 **Duolingo 风格课程** 和 **自定义词汇表** 
 
 ---
 
-## <a name="16"></a>16. Bambu Lab - 澄清关于安全更新的误解 
-<small>🔗 [blog.bambulab.com](https://blog.bambulab.com/updates-and-third-party-integration-with-bambu-connect/): Bambu Lab - Setting the Record Straight About Our Security Update</small>
-
-
-| 🔥: 59 \| 💬: [85](https://news.ycombinator.com/item?id=42773442) \| 🗓️ 2025-01-20
-
-
-<br />
-Bambu Lab 针对 X 系列打印机的安全更新引发了一些误解和虚假指控。公司澄清**不会远程禁用打印机**或限制第三方耗材使用，并强调**Bambu Connect**旨在确保第三方软件的无缝集成。更新提供了**可选 LAN 模式**，用户可选择标准模式或开发者模式，后者需自行负责网络安全。Bambu Lab 正与第三方开发者合作，确保更新不影响用户体验。
-
----
-
-## <a name="17"></a>17. CFRS[] 社区演示：使用六种命令的海龟绘图图案 
-<small>🔗 [susam.github.io](https://susam.github.io/cfrs/demo.html): CFRS[] Community Demos: Patterns drawn with turtle graphics with 6 commands</small>
-
-
-| 🔥: 57 \| 💬: [2](https://news.ycombinator.com/item?id=42767076) \| 🗓️ 2025-01-20
-
-
-<br />
-本文展示了由社区成员贡献的 **CFRS[]** 演示合集。**CFRS[]** 是一种极简绘图语言，仅包含六个简单命令：C、F、R、S、[ 和 ]。演示分为**动态**和**静态**两类，动态演示使用 S 命令实现动画效果，静态演示则一次性绘制完成。社区成员创作了多种图案，如“外星花”、“十字架”、“万花筒”等，展示了 **CFRS[]** 的创意潜力。
-
----
-
-## <a name="18"></a>18. 挫折容忍度：在大组织中生存的关键 
-<small>🔗 [leadingsapiens.com](https://www.leadingsapiens.com/frustration-tolerance/): Frustration Tolerance: An Essential for Surviving Large Orgs</small>
-
-
-| 🔥: 54 \| 💬: [34](https://news.ycombinator.com/item?id=42770986) \| 🗓️ 2025-01-20
-
-
-<br />
-**挫折容忍度**是应对组织复杂性和挑战的关键能力，尤其在大型组织中。高挫折容忍度的领导者能够**忍受不适**，坚持目标，而低挫折容忍度的人则容易放弃，追求短期舒适。组织中的摩擦（如官僚流程、人际冲突）是常态，**认知重构**这些挑战为创新和变革的动力，是提升挫折容忍度的关键。
-
----
-
-## <a name="19"></a>19. 作者要求Meta提供Torrent客户端日志和种子数据以调查AI侵权案 
+## <a name="16"></a>16. 作者要求Meta提供Torrent客户端日志和种子数据以调查AI侵权案 
 <small>🔗 [torrentfreak.com](https://torrentfreak.com/authors-seek-metas-torrent-client-logs-and-seeding-data-in-ai-piracy-probe-250120/): Authors Seek Meta's Torrent Client Logs and Seeding Data in AI Piracy Probe</small>
 
 
-| 🔥: 53 \| 💬: [39](https://news.ycombinator.com/item?id=42772771) \| 🗓️ 2025-01-20
+| 🔥: 65 \| 💬: [53](https://news.ycombinator.com/item?id=42772771) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -250,14 +214,50 @@ Bambu Lab 针对 X 系列打印机的安全更新引发了一些误解和虚假�
 
 ---
 
-## <a name="20"></a>20. systemd 背后的真实动机（2018） 
-<small>🔗 [unixdigest.com](https://unixdigest.com/articles/the-real-motivation-behind-systemd.html): The real motivation behind systemd (2018)</small>
+## <a name="17"></a>17. 马斯克在就职演讲中行纳粹礼 
+<small>🔗 [youtube.com](https://www.youtube.com/watch?v=e2bbb-6Clhs): Elon Gives Nazi Salute During Inauguration Speech</small>
 
 
-| 🔥: 45 \| 💬: [42](https://news.ycombinator.com/item?id=42766637) \| 🗓️ 2025-01-20
+| 🔥: 63 \| 💬: [25](https://news.ycombinator.com/item?id=42774621) \| 🗓️ 2025-01-20
 
 
 <br />
-本文探讨了 **systemd** 开发的真实动机，指出其由 **Red Hat** 主导，旨在服务企业利益，尤其是嵌入式设备市场。**systemd** 逐渐演变为一个庞大的软件套件，影响了多个 Linux 发行版，引发了社区对隐私和自由选择的担忧。文章批评其开发过程缺乏社区参与，更多由企业利益驱动，导致 Linux 生态系统的同质化和锁定问题。
+在就职演讲中，**马斯克**意外地做出了一个**纳粹礼**手势，引发了广泛争议。这一行为迅速在社交媒体上引发热议，许多人对其动机和背景表示质疑。尽管尚未有官方解释，但这一事件已成为**公众讨论**的焦点。
+
+---
+
+## <a name="18"></a>18. Bambu Lab - 澄清关于安全更新的误解 
+<small>🔗 [blog.bambulab.com](https://blog.bambulab.com/updates-and-third-party-integration-with-bambu-connect/): Bambu Lab - Setting the Record Straight About Our Security Update</small>
+
+
+| 🔥: 61 \| 💬: [90](https://news.ycombinator.com/item?id=42773442) \| 🗓️ 2025-01-20
+
+
+<br />
+Bambu Lab 针对 X 系列打印机的安全更新引发了一些误解和虚假指控。公司澄清**不会远程禁用打印机**或限制第三方耗材使用，并强调**Bambu Connect**旨在确保第三方软件的无缝集成。更新提供了**可选 LAN 模式**，用户可选择标准模式或开发者模式，后者需自行负责网络安全。Bambu Lab 正与第三方开发者合作，确保更新不影响用户体验。
+
+---
+
+## <a name="19"></a>19. 塞尔玛游行（1965年） 
+<small>🔗 [newyorker.com](https://www.newyorker.com/magazine/1965/04/10/letter-from-selma): The Selma March (1965)</small>
+
+
+| 🔥: 61 \| 💬: [7](https://news.ycombinator.com/item?id=42773693) \| 🗓️ 2025-01-20
+
+
+<br />
+1965年，约三万人从塞尔玛的布朗教堂出发，前往蒙哥马利州议会大厦，抗议种族歧视和争取投票权。游行队伍包括**非裔美国人**、北方牧师、工会成员等，受到联邦政府和军队的保护。尽管面临危险和敌意，游行者通过**非暴力抗议**表达团结与决心。游行最终成为民权运动的象征，推动了**投票权法案**的通过。
+
+---
+
+## <a name="20"></a>20. 《使命召唤反作弊逆向工程》 
+<small>🔗 [ssno.cc](https://ssno.cc/posts/reversing-tac-1-4-2025/): Reverse Engineering Call of Duty Anti-Cheat</small>
+
+
+| 🔥: 61 \| 💬: [5](https://news.ycombinator.com/item?id=42774221) \| 🗓️ 2025-01-20
+
+
+<br />
+本文深入探讨了《使命召唤：黑色行动冷战》中的用户模式反作弊系统**TAC**。文章详细分析了游戏如何通过**Arxan**进行代码混淆和保护，包括运行时解密、校验和检查以及跳转混淆等技术。此外，还介绍了TAC如何检测调试器和API钩子，并探讨了绕过这些检测的潜在方法，如使用**调试寄存器**进行异常钩子。
 
 ---
