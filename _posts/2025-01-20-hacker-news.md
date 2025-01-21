@@ -26,7 +26,7 @@ tags:
 <small>🔗 [github.com](https://github.com/deepseek-ai/DeepSeek-R1): DeepSeek-R1</small>
 
 
-| 🔥🔥: 1126 \| 💬: [412](https://news.ycombinator.com/item?id=42768072) \| 🗓️ 2025-01-20
+| 🔥🔥: 1158 \| 💬: [428](https://news.ycombinator.com/item?id=42768072) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -38,7 +38,7 @@ DeepSeek-R1 是首个通过大规模**强化学习（RL）**训练生成的推�
 <small>🔗 [okayfail.com](http://okayfail.com/2025/i-met-pg-once.html): I Met Paul Graham Once</small>
 
 
-| 🔥🔥: 796 \| 💬: [483](https://news.ycombinator.com/item?id=42767507) \| 🗓️ 2025-01-20
+| 🔥🔥: 833 \| 💬: [502](https://news.ycombinator.com/item?id=42767507) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -50,7 +50,7 @@ DeepSeek-R1 是首个通过大规模**强化学习（RL）**训练生成的推�
 <small>🔗 [mixxx.org](https://mixxx.org/): Mixxx: GPL DJ Software</small>
 
 
-| 🔥🔥: 418 \| 💬: [88](https://news.ycombinator.com/item?id=42769871) \| 🗓️ 2025-01-20
+| 🔥🔥: 433 \| 💬: [88](https://news.ycombinator.com/item?id=42769871) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -62,7 +62,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [blog.rongarret.info](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html): I am (not) a failure: Lessons learned from six failed startup attempts</small>
 
 
-| 🔥🔥: 329 \| 💬: [216](https://news.ycombinator.com/item?id=42771676) \| 🗓️ 2025-01-20
+| 🔥🔥: 341 \| 💬: [219](https://news.ycombinator.com/item?id=42771676) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -74,7 +74,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [neilzone.co.uk](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/): Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM car</small>
 
 
-| 🔥🔥: 286 \| 💬: [173](https://news.ycombinator.com/item?id=42767584) \| 🗓️ 2025-01-20
+| 🔥🔥: 293 \| 💬: [176](https://news.ycombinator.com/item?id=42767584) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -86,7 +86,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [jpost.com](https://www.jpost.com/international/article-838444): Did Elon Musk Appear to Sieg Heil at Trump Inauguration?</small>
 
 
-| 🔥🔥: 200 \| 💬: [72](https://news.ycombinator.com/item?id=42772995) \| 🗓️ 2025-01-20
+| 🔥🔥: 204 \| 💬: [76](https://news.ycombinator.com/item?id=42772995) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -94,23 +94,11 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 
 ---
 
-## <a name="7"></a>7. 马斯克在特朗普就职典礼上疑似行法西斯礼 
-<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/jan/20/trump-elon-musk-salute): Elon Musk appears to make back-to-back fascist salutes at inauguration rally</small>
-
-
-| 🔥🔥: 162 \| 💬: [71](https://news.ycombinator.com/item?id=42773778) \| 🗓️ 2025-01-20
-
-
-<br />
-在特朗普总统就职典礼上，**埃隆·马斯克**因连续做出疑似**法西斯式敬礼**手势引发争议。马斯克在演讲中感谢特朗普支持者，并做出右手斜向上的手势，被部分人解读为纳粹礼。尽管反诽谤联盟（ADL）认为这可能只是“尴尬的举动”，但社交媒体上仍引发广泛讨论。马斯克此前还与极右翼人士互动，进一步加剧了争议。
-
----
-
-## <a name="8"></a>8. 《使命召唤反作弊逆向工程》 
+## <a name="7"></a>7. 《使命召唤反作弊逆向工程》 
 <small>🔗 [ssno.cc](https://ssno.cc/posts/reversing-tac-1-4-2025/): Reverse engineering Call of Duty anti-cheat</small>
 
 
-| 🔥🔥: 162 \| 💬: [30](https://news.ycombinator.com/item?id=42774221) \| 🗓️ 2025-01-20
+| 🔥🔥: 194 \| 💬: [48](https://news.ycombinator.com/item?id=42774221) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -118,11 +106,23 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 
 ---
 
+## <a name="8"></a>8. 马斯克在特朗普就职典礼上疑似行法西斯礼 
+<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/jan/20/trump-elon-musk-salute): Elon Musk appears to make back-to-back fascist salutes at inauguration rally</small>
+
+
+| 🔥🔥: 166 \| 💬: [71](https://news.ycombinator.com/item?id=42773778) \| 🗓️ 2025-01-20
+
+
+<br />
+在特朗普总统就职典礼上，**埃隆·马斯克**因连续做出疑似**法西斯式敬礼**手势引发争议。马斯克在演讲中感谢特朗普支持者，并做出右手斜向上的手势，被部分人解读为纳粹礼。尽管反诽谤联盟（ADL）认为这可能只是“尴尬的举动”，但社交媒体上仍引发广泛讨论。马斯克此前还与极右翼人士互动，进一步加剧了争议。
+
+---
+
 ## <a name="9"></a>9. TypeScript 枚举：使用场景与替代方案 
 <small>🔗 [2ality.com](https://2ality.com/2025/01/typescript-enum-patterns.html): TypeScript enums: use cases and alternatives</small>
 
 
-| 🔥🔥: 155 \| 💬: [120](https://news.ycombinator.com/item?id=42766729) \| 🗓️ 2025-01-20
+| 🔥🔥: 156 \| 💬: [120](https://news.ycombinator.com/item?id=42766729) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -134,7 +134,7 @@ TypeScript 枚举是一种**固定值集合**，既定义了对象（键值映�
 <small>🔗 [medium.com](https://medium.com/swlh/zork-the-great-inner-workings-b68012952bdc): Zork: The Great Inner Workings (2020)</small>
 
 
-| 🔥🔥: 152 \| 💬: [58](https://news.ycombinator.com/item?id=42767132) \| 🗓️ 2025-01-20
+| 🔥🔥: 155 \| 💬: [58](https://news.ycombinator.com/item?id=42767132) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -146,7 +146,7 @@ TypeScript 枚举是一种**固定值集合**，既定义了对象（键值映�
 <small>🔗 [mdpi.com](https://www.mdpi.com/2504-446X/8/11/652): Celestial Navigation for Drones</small>
 
 
-| 🔥🔥: 148 \| 💬: [83](https://news.ycombinator.com/item?id=42767797) \| 🗓️ 2025-01-20
+| 🔥🔥: 153 \| 💬: [84](https://news.ycombinator.com/item?id=42767797) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -170,7 +170,7 @@ Parinfer 是一种新的编辑器模式，旨在简化 Lisp 编程中的括号�
 <small>🔗 [lithub.com](https://lithub.com/it-sure-looks-like-meta-stole-a-lot-of-books-to-build-its-ai/): It sure looks like Meta stole a lot of books to build its AI</small>
 
 
-| 🔥🔥: 117 \| 💬: [127](https://news.ycombinator.com/item?id=42775545) \| 🗓️ 2025-01-20
+| 🔥🔥: 121 \| 💬: [132](https://news.ycombinator.com/item?id=42775545) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -182,7 +182,7 @@ Parinfer 是一种新的编辑器模式，旨在简化 Lisp 编程中的括号�
 <small>🔗 [danielwirtz.com](https://danielwirtz.com/blog/successful-hacker-news-article): Reverse engineering my #1 Hacker News article</small>
 
 
-| 🔥🔥: 116 \| 💬: [40](https://news.ycombinator.com/item?id=42769325) \| 🗓️ 2025-01-20
+| 🔥🔥: 119 \| 💬: [40](https://news.ycombinator.com/item?id=42769325) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -190,35 +190,11 @@ Parinfer 是一种新的编辑器模式，旨在简化 Lisp 编程中的括号�
 
 ---
 
-## <a name="15"></a>15. 那些本科整除问题从何而来？ 
-<small>🔗 [grossack.site](https://grossack.site/2025/01/16/undergrad-divisibility-problems.html): Where do those undergraduate divisibility problems come from?</small>
-
-
-| 🔥🔥: 112 \| 💬: [32](https://news.ycombinator.com/item?id=42766825) \| 🗓️ 2025-01-20
-
-
-<br />
-在本科的“证明入门”或“离散数学”课程中，常会遇到如“证明$n^6 + n^3 + 2n^2 + 2n$对任意$n$都是6的倍数”的问题。这些问题的来源是什么？本文通过**Pólya-Redfield计数**解释了如何构造这类多项式，使其输出总是某个固定数的倍数。关键在于通过**群作用**和**轨道计数**来确保结果的整除性。
-
----
-
-## <a name="16"></a>16. Automattic CEO Matt Mullenweg 似乎决心毁掉 WordPress 
-<small>🔗 [digitalcxo.com](https://digitalcxo.com/article/matt-mullenweg-automattics-ceo-seems-bound-and-determined-to-wreck-wordpress/): Matt Mullenweg, Automattic's CEO, Seems Bound and Determined to Wreck WordPress</small>
-
-
-| 🔥🔥: 107 \| 💬: [46](https://news.ycombinator.com/item?id=42773311) \| 🗓️ 2025-01-20
-
-
-<br />
-Automattic CEO Matt Mullenweg 因与托管公司 **WP Engine** 的激烈冲突而引发争议，导致 WordPress 社区分裂。Mullenweg 指责 WP Engine 滥用 WordPress 品牌并禁用修订功能，随后禁止其访问 WordPress.org 资源，引发法律诉讼。Automattic 还大幅减少了对 **WordPress 开源项目** 的贡献，导致社区对平台未来感到担忧，甚至考虑分叉。Mullenweg 的行为引发内部员工离职和外部批评，WordPress 的未来充满不确定性。
-
----
-
-## <a name="17"></a>17. Ruff：用 Rust 编写的 Python 代码检查器和格式化工具 
+## <a name="15"></a>15. Ruff：用 Rust 编写的 Python 代码检查器和格式化工具 
 <small>🔗 [github.com](https://github.com/astral-sh/ruff): Ruff: Python linter and code formatter written in Rust</small>
 
 
-| 🔥🔥: 101 \| 💬: [48](https://news.ycombinator.com/item?id=42775029) \| 🗓️ 2025-01-20
+| 🔥🔥: 116 \| 💬: [55](https://news.ycombinator.com/item?id=42775029) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -226,11 +202,35 @@ Ruff 是一个**极速**的 Python 代码检查器和格式化工具，完全用
 
 ---
 
+## <a name="16"></a>16. 那些本科整除问题从何而来？ 
+<small>🔗 [grossack.site](https://grossack.site/2025/01/16/undergrad-divisibility-problems.html): Where do those undergraduate divisibility problems come from?</small>
+
+
+| 🔥🔥: 114 \| 💬: [33](https://news.ycombinator.com/item?id=42766825) \| 🗓️ 2025-01-20
+
+
+<br />
+在本科的“证明入门”或“离散数学”课程中，常会遇到如“证明$n^6 + n^3 + 2n^2 + 2n$对任意$n$都是6的倍数”的问题。这些问题的来源是什么？本文通过**Pólya-Redfield计数**解释了如何构造这类多项式，使其输出总是某个固定数的倍数。关键在于通过**群作用**和**轨道计数**来确保结果的整除性。
+
+---
+
+## <a name="17"></a>17. Automattic CEO Matt Mullenweg 似乎决心毁掉 WordPress 
+<small>🔗 [digitalcxo.com](https://digitalcxo.com/article/matt-mullenweg-automattics-ceo-seems-bound-and-determined-to-wreck-wordpress/): Matt Mullenweg, Automattic's CEO, Seems Bound and Determined to Wreck WordPress</small>
+
+
+| 🔥🔥: 109 \| 💬: [47](https://news.ycombinator.com/item?id=42773311) \| 🗓️ 2025-01-20
+
+
+<br />
+Automattic CEO Matt Mullenweg 因与托管公司 **WP Engine** 的激烈冲突而引发争议，导致 WordPress 社区分裂。Mullenweg 指责 WP Engine 滥用 WordPress 品牌并禁用修订功能，随后禁止其访问 WordPress.org 资源，引发法律诉讼。Automattic 还大幅减少了对 **WordPress 开源项目** 的贡献，导致社区对平台未来感到担忧，甚至考虑分叉。Mullenweg 的行为引发内部员工离职和外部批评，WordPress 的未来充满不确定性。
+
+---
+
 ## <a name="18"></a>18. 马斯克在就职演讲中行纳粹礼 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=e2bbb-6Clhs): Elon Gives Nazi Salute During Inauguration Speech</small>
 
 
-| 🔥: 100 \| 💬: [26](https://news.ycombinator.com/item?id=42774621) \| 🗓️ 2025-01-20
+| 🔥🔥: 102 \| 💬: [26](https://news.ycombinator.com/item?id=42774621) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -238,26 +238,26 @@ Ruff 是一个**极速**的 Python 代码检查器和格式化工具，完全用
 
 ---
 
-## <a name="19"></a>19. 个性化词汇学习应用：WordPecker 
+## <a name="19"></a>19. 作者要求Meta提供Torrent客户端日志和种子数据以调查AI侵权案 
+<small>🔗 [torrentfreak.com](https://torrentfreak.com/authors-seek-metas-torrent-client-logs-and-seeding-data-in-ai-piracy-probe-250120/): Authors seek Meta's torrent client logs and seeding data in AI piracy probe</small>
+
+
+| 🔥: 96 \| 💬: [98](https://news.ycombinator.com/item?id=42772771) \| 🗓️ 2025-01-20
+
+
+<br />
+在AI侵权诉讼中，作者指控**Meta**通过BitTorrent下载盗版书籍用于AI训练，并作为种子分发。Meta承认使用非官方来源，但辩称属于**合理使用**。法院允许作者调查Meta的种子行为，认为这可能影响**故意侵权**或合理使用的辩护。作者要求Meta提供Torrent日志和种子数据，以证明其分发盗版内容的行为。
+
+---
+
+## <a name="20"></a>20. 个性化词汇学习应用：WordPecker 
 <small>🔗 [github.com](https://github.com/baturyilmaz/wordpecker-app): Show HN: Personalized Duolingo (kind of) for vocabulary building</small>
 
 
-| 🔥: 94 \| 💬: [25](https://news.ycombinator.com/item?id=42770200) \| 🗓️ 2025-01-20
+| 🔥: 95 \| 💬: [26](https://news.ycombinator.com/item?id=42770200) \| 🗓️ 2025-01-20
 
 
 <br />
 WordPecker 是一款结合 **Duolingo 风格课程** 和 **自定义词汇表** 的语言学习工具。用户可以从书籍、文章或视频中添加生词，并通过 **互动测验** 和 **AI 生成课程** 进行复习。应用自动提供单词释义，支持学习和测验模式，帮助用户在上下文中高效记忆词汇。未来计划增加更多练习类型和进度跟踪功能。
-
----
-
-## <a name="20"></a>20. 塞尔玛游行（1965年） 
-<small>🔗 [newyorker.com](https://www.newyorker.com/magazine/1965/04/10/letter-from-selma): The Selma March (1965)</small>
-
-
-| 🔥: 85 \| 💬: [14](https://news.ycombinator.com/item?id=42773693) \| 🗓️ 2025-01-20
-
-
-<br />
-1965年，约三万人从塞尔玛的布朗教堂出发，前往蒙哥马利州议会大厦，抗议种族歧视和争取投票权。游行队伍包括**非裔美国人**、北方牧师、工会成员等，受到联邦政府和军队的保护。尽管面临危险和敌意，游行者通过**非暴力抗议**表达团结与决心。游行最终成为民权运动的象征，推动了**投票权法案**的通过。
 
 ---
