@@ -9,8 +9,8 @@ tags:
 
 
 1. 针对Signal、Discord等平台的0点击去匿名化攻击；
-1. Meta在Instagram上审查“#民主党”标签；
 1. 3M工厂的隐形静电墙（1996年）；
+1. Meta在Instagram上审查“#民主党”标签；
 1. Kimi K1.5：利用大语言模型扩展强化学习；
 1. 快递员对控制他们工作的算法感到困惑；
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [gist.github.com](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117): 0-click deanonymization attack targeting Signal, Discord, other platforms</small>
 
 
-| 🔥🔥: 867 \| 💬: [289](https://news.ycombinator.com/item?id=42780816) \| 🗓️ 2025-01-21
+| 🔥🔥: 926 \| 💬: [312](https://news.ycombinator.com/item?id=42780816) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -34,23 +34,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. Meta在Instagram上审查“#民主党”标签 
-<small>🔗 [mstdn.chrisalemany.ca](https://mstdn.chrisalemany.ca/@chris/113864600222476627): Meta Censoring '#Democrat' on Instagram</small>
-
-
-| 🔥🔥: 239 \| 💬: [153](https://news.ycombinator.com/item?id=42777938) \| 🗓️ 2025-01-21
-
-
-<br />
-据报道，**Meta**在其社交平台**Instagram**上对“#民主党”标签进行了审查，引发了关于**言论自由**和平台政策的讨论。这一行为被认为可能与政治内容管理有关，但Meta尚未公开解释具体原因。用户对此表示担忧，认为此举可能影响信息的公开传播。
-
----
-
-## <a name="3"></a>3. 3M工厂的隐形静电墙（1996年） 
+## <a name="2"></a>2. 3M工厂的隐形静电墙（1996年） 
 <small>🔗 [amasci.com](http://amasci.com/weird/unusual/e-wall.html): Invisible Electrostatic Wall at 3M plant (1996)</small>
 
 
-| 🔥🔥: 232 \| 💬: [120](https://news.ycombinator.com/item?id=42782914) \| 🗓️ 2025-01-21
+| 🔥🔥: 252 \| 💬: [132](https://news.ycombinator.com/item?id=42782914) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -58,11 +46,23 @@ tags:
 
 ---
 
+## <a name="3"></a>3. Meta在Instagram上审查“#民主党”标签 
+<small>🔗 [mstdn.chrisalemany.ca](https://mstdn.chrisalemany.ca/@chris/113864600222476627): Meta Censoring '#Democrat' on Instagram</small>
+
+
+| 🔥🔥: 245 \| 💬: [159](https://news.ycombinator.com/item?id=42777938) \| 🗓️ 2025-01-21
+
+
+<br />
+据报道，**Meta**在其社交平台**Instagram**上对“#民主党”标签进行了审查，引发了关于**言论自由**和平台政策的讨论。这一行为被认为可能与政治内容管理有关，但Meta尚未公开解释具体原因。用户对此表示担忧，认为此举可能影响信息的公开传播。
+
+---
+
 ## <a name="4"></a>4. Kimi K1.5：利用大语言模型扩展强化学习 
 <small>🔗 [github.com](https://github.com/MoonshotAI/Kimi-k1.5): Kimi K1.5: Scaling Reinforcement Learning with LLMs</small>
 
 
-| 🔥🔥: 170 \| 💬: [22](https://news.ycombinator.com/item?id=42777857) \| 🗓️ 2025-01-21
+| 🔥🔥: 171 \| 💬: [25](https://news.ycombinator.com/item?id=42777857) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -74,7 +74,7 @@ Kimi K1.5 是一款多模态大语言模型，通过**强化学习（RL）**实�
 <small>🔗 [theguardian.com](https://www.theguardian.com/business/2025/jan/21/its-a-nightmare-couriers-mystified-by-the-algorithms-that-control-their-jobs): Couriers mystified by the algorithms that control their jobs</small>
 
 
-| 🔥🔥: 150 \| 💬: [176](https://news.ycombinator.com/item?id=42779544) \| 🗓️ 2025-01-21
+| 🔥🔥: 161 \| 💬: [198](https://news.ycombinator.com/item?id=42779544) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -86,7 +86,7 @@ Kimi K1.5 是一款多模态大语言模型，通过**强化学习（RL）**实�
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/calm-tech): Calm tech certification "rewards" less distracting tech</small>
 
 
-| 🔥🔥: 130 \| 💬: [35](https://news.ycombinator.com/item?id=42780953) \| 🗓️ 2025-01-21
+| 🔥🔥: 150 \| 💬: [43](https://news.ycombinator.com/item?id=42780953) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -94,23 +94,11 @@ Kimi K1.5 是一款多模态大语言模型，通过**强化学习（RL）**实�
 
 ---
 
-## <a name="7"></a>7. 我们应该在基督教护教学中使用AI和LLM吗？ 
-<small>🔗 [lukeplant.me.uk](https://lukeplant.me.uk/blog/posts/should-we-use-llms-for-christian-apologetics/): Should we use AI and LLMs for Christian apologetics? (2024)</small>
-
-
-| 🔥🔥: 115 \| 💬: [164](https://news.ycombinator.com/item?id=42781293) \| 🗓️ 2025-01-21
-
-
-<br />
-作者反对在基督教护教网站中使用**大型语言模型（LLM）**，认为其本质是生成“**虚假信息**”的工具，无法保证准确性。尽管LLM有时能提供真实信息，但其设计并不以追求真理为目标，容易产生“幻觉”或捏造内容。作者强调，在护教领域，**真理**至关重要，使用LLM可能损害基督教的可信度。
-
----
-
-## <a name="8"></a>8. Show HN: 我制作了一款使用NFC作为物理开关来屏蔽干扰的应用 
+## <a name="7"></a>7. Show HN: 我制作了一款使用NFC作为物理开关来屏蔽干扰的应用 
 <small>🔗 [foqos.app](https://www.foqos.app): Show HN: I made a app that uses NFC as a physical switch to block distractions</small>
 
 
-| 🔥🔥: 113 \| 💬: [59](https://news.ycombinator.com/item?id=42782295) \| 🗓️ 2025-01-21
+| 🔥🔥: 127 \| 💬: [77](https://news.ycombinator.com/item?id=42782295) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -118,7 +106,31 @@ Foqos 是一款帮助用户**物理屏蔽干扰应用**的工具，支持**多�
 
 ---
 
-## <a name="9"></a>9. 我们失去了对复杂性的尊重 
+## <a name="8"></a>8. 我们应该在基督教护教学中使用AI和LLM吗？ 
+<small>🔗 [lukeplant.me.uk](https://lukeplant.me.uk/blog/posts/should-we-use-llms-for-christian-apologetics/): Should we use AI and LLMs for Christian apologetics? (2024)</small>
+
+
+| 🔥🔥: 126 \| 💬: [181](https://news.ycombinator.com/item?id=42781293) \| 🗓️ 2025-01-21
+
+
+<br />
+作者反对在基督教护教网站中使用**大型语言模型（LLM）**，认为其本质是生成“**虚假信息**”的工具，无法保证准确性。尽管LLM有时能提供真实信息，但其设计并不以追求真理为目标，容易产生“幻觉”或捏造内容。作者强调，在护教领域，**真理**至关重要，使用LLM可能损害基督教的可信度。
+
+---
+
+## <a name="9"></a>9. Go 2 应该摆脱 Context（2017） 
+<small>🔗 [faiface.github.io](https://faiface.github.io/post/context-should-go-away-go2/): Context should go away for Go 2 (2017)</small>
+
+
+| 🔥🔥: 104 \| 💬: [128](https://news.ycombinator.com/item?id=42777625) \| 🗓️ 2025-01-21
+
+
+<br />
+本文讨论了 Go 语言中 **`context`** 包的问题，认为它虽然解决了 **取消操作** 的难题，但其设计存在诸多缺陷。**`context`** 像病毒一样传播，强制所有可能耗时的函数都接受它，增加了代码复杂性。作者认为 Go 2 应在语言层面提供更简洁、高效且非侵入式的取消机制，而不是依赖当前的 **`context`** 包。
+
+---
+
+## <a name="10"></a>10. 我们失去了对复杂性的尊重 
 <small>🔗 [wilsoniumite.com](https://wilsoniumite.com/2025/01/21/weve-lost-our-respect-for-complexity/): We've lost our respect for complexity</small>
 
 
@@ -130,23 +142,11 @@ Foqos 是一款帮助用户**物理屏蔽干扰应用**的工具，支持**多�
 
 ---
 
-## <a name="10"></a>10. Go 2 应该摆脱 Context（2017） 
-<small>🔗 [faiface.github.io](https://faiface.github.io/post/context-should-go-away-go2/): Context should go away for Go 2 (2017)</small>
-
-
-| 🔥: 98 \| 💬: [125](https://news.ycombinator.com/item?id=42777625) \| 🗓️ 2025-01-21
-
-
-<br />
-本文讨论了 Go 语言中 **`context`** 包的问题，认为它虽然解决了 **取消操作** 的难题，但其设计存在诸多缺陷。**`context`** 像病毒一样传播，强制所有可能耗时的函数都接受它，增加了代码复杂性。作者认为 Go 2 应在语言层面提供更简洁、高效且非侵入式的取消机制，而不是依赖当前的 **`context`** 包。
-
----
-
 ## <a name="11"></a>11. Show HN: Printercow – 将任何热敏打印机变成 API 端点 
 <small>🔗 [printercow.com](https://www.printercow.com/): Show HN: Printercow – Turn any thermal printer into an API endpoint</small>
 
 
-| 🔥: 94 \| 💬: [74](https://news.ycombinator.com/item?id=42778771) \| 🗓️ 2025-01-21
+| 🔥: 97 \| 💬: [75](https://news.ycombinator.com/item?id=42778771) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -178,47 +178,11 @@ Printercow 是一个工具，**将热敏打印机**转换为可通过 HTTP 访�
 
 ---
 
-## <a name="14"></a>14. Amurex – 开源AI会议助手 
-<small>🔗 [sansyrox.github.io](https://sansyrox.github.io/amurex_ce/): Show HN: Amurex – An open source AI meeting copilot</small>
-
-
-| 🔥: 75 \| 💬: [33](https://news.ycombinator.com/item?id=42779378) \| 🗓️ 2025-01-21
-
-
-<br />
-Amurex 是一个开源的 **AI会议助手**，旨在提升会议效率。该项目已在 GitHub 上发布，用户可通过链接访问代码库。Amurex 的核心功能是 **实时转录** 和 **智能摘要**，帮助用户更好地管理会议内容。
-
----
-
-## <a name="15"></a>15. 由测试套件之美引导 
-<small>🔗 [mattkeeter.com](https://www.mattkeeter.com/blog/2025-01-20-guided/): Guided by the beauty of our test suite</small>
-
-
-| 🔥: 70 \| 💬: [5](https://news.ycombinator.com/item?id=42781922) \| 🗓️ 2025-01-21
-
-
-<br />
-Matt Keeter 分享了他在改进软件测试方面的经验。他通过设置 **CI 测试**、**快照测试** 和 **静态无崩溃证明** 来增强代码的可靠性。他还使用 **模糊测试** 来发现解释器实现中的差异，确保不同版本的代码行为一致。这些方法帮助他在不引入新问题的情况下自信地修改代码。
-
----
-
-## <a name="16"></a>16. 为什么正则表达式使用 `$` 和 `^` 作为行锚点？ 
-<small>🔗 [buttondown.com](https://buttondown.com/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/): Why do regexes use `$` and `^` as line anchors? (2024)</small>
-
-
-| 🔥: 68 \| 💬: [30](https://news.ycombinator.com/item?id=42783391) \| 🗓️ 2025-01-21
-
-
-<br />
-正则表达式中的 `$` 和 `^` 作为行锚点的起源可以追溯到 Ken Thompson 在 QED 文本编辑器中的设计。`$` 最初在 QED 中表示“缓冲区的末尾”，后来被 Ken 用于表示“行尾”。而 `^` 则因为早期键盘缺少某些符号，且 `^` 在 ASCII 中作为变音符号存在，被选为“行首”的锚点。这一设计通过 QED 的后继者 ed 编辑器得以普及。尽管这一解释有些牵强，但它是目前最合理的推测。
-
----
-
-## <a name="17"></a>17. 墨卡托：极限 
+## <a name="14"></a>14. 墨卡托：极限 
 <small>🔗 [mrgris.com](https://mrgris.com/projects/merc-extreme/): Mercator: Extreme</small>
 
 
-| 🔥: 68 \| 💬: [14](https://news.ycombinator.com/item?id=42783948) \| 🗓️ 2025-01-21
+| 🔥: 84 \| 💬: [21](https://news.ycombinator.com/item?id=42783948) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -226,23 +190,35 @@ Drew Roos 创作的 **墨卡托：极限** 是一款互动地图工具，展示�
 
 ---
 
-## <a name="18"></a>18. 一次可以安装多少个 Alpine 软件包？(2024) 
-<small>🔗 [naff.dev](https://www.naff.dev/blog/all-the-packages): How many Alpine packages can you install at once? (2024)</small>
+## <a name="15"></a>15. Amurex – 开源AI会议助手 
+<small>🔗 [sansyrox.github.io](https://sansyrox.github.io/amurex_ce/): Show HN: Amurex – An open source AI meeting copilot</small>
 
 
-| 🔥: 62 \| 💬: [22](https://news.ycombinator.com/item?id=42781388) \| 🗓️ 2025-01-21
+| 🔥: 77 \| 💬: [33](https://news.ycombinator.com/item?id=42779378) \| 🗓️ 2025-01-21
 
 
 <br />
-本文探讨了如何在 **Alpine Linux** 中最大化安装软件包数量，同时解决依赖和冲突问题。作者使用 **PuLP** 约束求解器，通过解析 **APKINDEX** 文件，创建约束条件以确保软件包兼容性。最终，作者成功在 Alpine 3.20 中安装了 98.5% 的主仓库和 97.8% 的主加社区仓库软件包。
+Amurex 是一个开源的 **AI会议助手**，旨在提升会议效率。该项目已在 GitHub 上发布，用户可通过链接访问代码库。Amurex 的核心功能是 **实时转录** 和 **智能摘要**，帮助用户更好地管理会议内容。
 
 ---
 
-## <a name="19"></a>19. 拉斐尔·阿劳霍的20幅迷人几何杰作（2024年） 
+## <a name="16"></a>16. 由测试套件之美引导 
+<small>🔗 [mattkeeter.com](https://www.mattkeeter.com/blog/2025-01-20-guided/): Guided by the beauty of our test suite</small>
+
+
+| 🔥: 77 \| 💬: [5](https://news.ycombinator.com/item?id=42781922) \| 🗓️ 2025-01-21
+
+
+<br />
+Matt Keeter 分享了他在改进软件测试方面的经验。他通过设置 **CI 测试**、**快照测试** 和 **静态无崩溃证明** 来增强代码的可靠性。他还使用 **模糊测试** 来发现解释器实现中的差异，确保不同版本的代码行为一致。这些方法帮助他在不引入新问题的情况下自信地修改代码。
+
+---
+
+## <a name="17"></a>17. 拉斐尔·阿劳霍的20幅迷人几何杰作（2024年） 
 <small>🔗 [abakcus.com](https://abakcus.com/rafael-araujo-geometrical-masterpieces/): Rafael Araujo's 20 Mesmerizing Geometrical Masterpieces (2024)</small>
 
 
-| 🔥: 62 \| 💬: [8](https://news.ycombinator.com/item?id=42783543) \| 🗓️ 2025-01-21
+| 🔥: 70 \| 💬: [8](https://news.ycombinator.com/item?id=42783543) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -250,11 +226,35 @@ Drew Roos 创作的 **墨卡托：极限** 是一款互动地图工具，展示�
 
 ---
 
+## <a name="18"></a>18. 为什么正则表达式使用 `$` 和 `^` 作为行锚点？ 
+<small>🔗 [buttondown.com](https://buttondown.com/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/): Why do regexes use `$` and `^` as line anchors? (2024)</small>
+
+
+| 🔥: 69 \| 💬: [32](https://news.ycombinator.com/item?id=42783391) \| 🗓️ 2025-01-21
+
+
+<br />
+正则表达式中的 `$` 和 `^` 作为行锚点的起源可以追溯到 Ken Thompson 在 QED 文本编辑器中的设计。`$` 最初在 QED 中表示“缓冲区的末尾”，后来被 Ken 用于表示“行尾”。而 `^` 则因为早期键盘缺少某些符号，且 `^` 在 ASCII 中作为变音符号存在，被选为“行首”的锚点。这一设计通过 QED 的后继者 ed 编辑器得以普及。尽管这一解释有些牵强，但它是目前最合理的推测。
+
+---
+
+## <a name="19"></a>19. 一次可以安装多少个 Alpine 软件包？(2024) 
+<small>🔗 [naff.dev](https://www.naff.dev/blog/all-the-packages): How many Alpine packages can you install at once? (2024)</small>
+
+
+| 🔥: 66 \| 💬: [23](https://news.ycombinator.com/item?id=42781388) \| 🗓️ 2025-01-21
+
+
+<br />
+本文探讨了如何在 **Alpine Linux** 中最大化安装软件包数量，同时解决依赖和冲突问题。作者使用 **PuLP** 约束求解器，通过解析 **APKINDEX** 文件，创建约束条件以确保软件包兼容性。最终，作者成功在 Alpine 3.20 中安装了 98.5% 的主仓库和 97.8% 的主加社区仓库软件包。
+
+---
+
 ## <a name="20"></a>20. Show HN: Pica – 基于 Rust 的开源 AI 代理基础设施 
 <small>🔗 [picaos.com](https://www.picaos.com/): Show HN: Pica – Rust-based agentic AI infrastructure (open-source)</small>
 
 
-| 🔥: 59 \| 💬: [36](https://news.ycombinator.com/item?id=42781017) \| 🗓️ 2025-01-21
+| 🔥: 60 \| 💬: [38](https://news.ycombinator.com/item?id=42781017) \| 🗓️ 2025-01-21
 
 
 <br />
