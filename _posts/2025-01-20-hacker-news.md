@@ -26,7 +26,7 @@ tags:
 <small>🔗 [github.com](https://github.com/deepseek-ai/DeepSeek-R1): DeepSeek-R1</small>
 
 
-| 🔥🔥: 1060 \| 💬: [377](https://news.ycombinator.com/item?id=42768072) \| 🗓️ 2025-01-20
+| 🔥🔥: 1091 \| 💬: [395](https://news.ycombinator.com/item?id=42768072) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -38,7 +38,7 @@ DeepSeek-R1 是首个通过大规模**强化学习（RL）**训练生成的推�
 <small>🔗 [okayfail.com](http://okayfail.com/2025/i-met-pg-once.html): I Met Paul Graham Once</small>
 
 
-| 🔥🔥: 715 \| 💬: [432](https://news.ycombinator.com/item?id=42767507) \| 🗓️ 2025-01-20
+| 🔥🔥: 761 \| 💬: [461](https://news.ycombinator.com/item?id=42767507) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -50,7 +50,7 @@ DeepSeek-R1 是首个通过大规模**强化学习（RL）**训练生成的推�
 <small>🔗 [mixxx.org](https://mixxx.org/): Mixxx: GPL DJ Software</small>
 
 
-| 🔥🔥: 402 \| 💬: [88](https://news.ycombinator.com/item?id=42769871) \| 🗓️ 2025-01-20
+| 🔥🔥: 413 \| 💬: [88](https://news.ycombinator.com/item?id=42769871) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -62,7 +62,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [blog.rongarret.info](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html): I am (not) a failure: Lessons learned from six failed startup attempts</small>
 
 
-| 🔥🔥: 305 \| 💬: [210](https://news.ycombinator.com/item?id=42771676) \| 🗓️ 2025-01-20
+| 🔥🔥: 317 \| 💬: [213](https://news.ycombinator.com/item?id=42771676) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -74,7 +74,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [neilzone.co.uk](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/): Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM car</small>
 
 
-| 🔥🔥: 277 \| 💬: [169](https://news.ycombinator.com/item?id=42767584) \| 🗓️ 2025-01-20
+| 🔥🔥: 282 \| 💬: [170](https://news.ycombinator.com/item?id=42767584) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -86,7 +86,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [jpost.com](https://www.jpost.com/international/article-838444): Did Elon Musk Appear to Sieg Heil at Trump Inauguration?</small>
 
 
-| 🔥🔥: 188 \| 💬: [68](https://news.ycombinator.com/item?id=42772995) \| 🗓️ 2025-01-20
+| 🔥🔥: 197 \| 💬: [67](https://news.ycombinator.com/item?id=42772995) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -98,7 +98,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/jan/20/trump-elon-musk-salute): Elon Musk appears to make back-to-back fascist salutes at inauguration rally</small>
 
 
-| 🔥🔥: 153 \| 💬: [62](https://news.ycombinator.com/item?id=42773778) \| 🗓️ 2025-01-20
+| 🔥🔥: 159 \| 💬: [64](https://news.ycombinator.com/item?id=42773778) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -110,7 +110,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [2ality.com](https://2ality.com/2025/01/typescript-enum-patterns.html): TypeScript enums: use cases and alternatives</small>
 
 
-| 🔥🔥: 151 \| 💬: [119](https://news.ycombinator.com/item?id=42766729) \| 🗓️ 2025-01-20
+| 🔥🔥: 153 \| 💬: [120](https://news.ycombinator.com/item?id=42766729) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -122,7 +122,7 @@ TypeScript 枚举是一种**固定值集合**，既定义了对象（键值映�
 <small>🔗 [medium.com](https://medium.com/swlh/zork-the-great-inner-workings-b68012952bdc): Zork: The Great Inner Workings (2020)</small>
 
 
-| 🔥🔥: 146 \| 💬: [55](https://news.ycombinator.com/item?id=42767132) \| 🗓️ 2025-01-20
+| 🔥🔥: 151 \| 💬: [58](https://news.ycombinator.com/item?id=42767132) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -134,7 +134,7 @@ TypeScript 枚举是一种**固定值集合**，既定义了对象（键值映�
 <small>🔗 [mdpi.com](https://www.mdpi.com/2504-446X/8/11/652): Celestial Navigation for Drones</small>
 
 
-| 🔥🔥: 141 \| 💬: [81](https://news.ycombinator.com/item?id=42767797) \| 🗓️ 2025-01-20
+| 🔥🔥: 145 \| 💬: [82](https://news.ycombinator.com/item?id=42767797) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -142,47 +142,11 @@ TypeScript 枚举是一种**固定值集合**，既定义了对象（键值映�
 
 ---
 
-## <a name="11"></a>11. Parinfer：简化 Lisp 编辑 
-<small>🔗 [shaunlebron.github.io](https://shaunlebron.github.io/parinfer/): Parinfer: Simpler Lisp Editing</small>
-
-
-| 🔥🔥: 137 \| 💬: [21](https://news.ycombinator.com/item?id=42766205) \| 🗓️ 2025-01-20
-
-
-<br />
-Parinfer 是一种新的编辑器模式，旨在简化 Lisp 编程中的括号管理。通过**自动调整括号**与缩进的关系，Parinfer 提供了两种模式：**缩进模式**和**括号模式**，分别允许用户控制缩进或括号，同时自动调整另一方。该工具旨在降低 Lisp 的学习曲线，同时保留其强大功能，特别适合新手和专家使用。
-
----
-
-## <a name="12"></a>12. 逆向解析我的Hacker News热门文章 
-<small>🔗 [danielwirtz.com](https://danielwirtz.com/blog/successful-hacker-news-article): Reverse engineering my #1 Hacker News article</small>
-
-
-| 🔥🔥: 113 \| 💬: [36](https://news.ycombinator.com/item?id=42769325) \| 🗓️ 2025-01-20
-
-
-<br />
-作者分享了一篇意外成为Hacker News热门文章的创作过程。**好奇心**是文章成功的关键，标题“我获得了一个新超能力”简洁且引人入胜。文章通过**个人故事**和**互动元素**（如“找不同”谜题）吸引了读者，激发了讨论。**真实性和参与感**是文章脱颖而出的重要因素。
-
----
-
-## <a name="13"></a>13. 那些本科整除问题从何而来？ 
-<small>🔗 [grossack.site](https://grossack.site/2025/01/16/undergrad-divisibility-problems.html): Where do those undergraduate divisibility problems come from?</small>
-
-
-| 🔥🔥: 106 \| 💬: [31](https://news.ycombinator.com/item?id=42766825) \| 🗓️ 2025-01-20
-
-
-<br />
-在本科的“证明入门”或“离散数学”课程中，常会遇到如“证明$n^6 + n^3 + 2n^2 + 2n$对任意$n$都是6的倍数”的问题。这些问题的来源是什么？本文通过**Pólya-Redfield计数**解释了如何构造这类多项式，使其输出总是某个固定数的倍数。关键在于通过**群作用**和**轨道计数**来确保结果的整除性。
-
----
-
-## <a name="14"></a>14. 《使命召唤反作弊逆向工程》 
+## <a name="11"></a>11. 《使命召唤反作弊逆向工程》 
 <small>🔗 [ssno.cc](https://ssno.cc/posts/reversing-tac-1-4-2025/): Reverse engineering Call of Duty anti-cheat</small>
 
 
-| 🔥🔥: 103 \| 💬: [15](https://news.ycombinator.com/item?id=42774221) \| 🗓️ 2025-01-20
+| 🔥🔥: 143 \| 💬: [21](https://news.ycombinator.com/item?id=42774221) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -190,11 +154,47 @@ Parinfer 是一种新的编辑器模式，旨在简化 Lisp 编程中的括号�
 
 ---
 
+## <a name="12"></a>12. Parinfer：简化 Lisp 编辑 
+<small>🔗 [shaunlebron.github.io](https://shaunlebron.github.io/parinfer/): Parinfer: Simpler Lisp Editing</small>
+
+
+| 🔥🔥: 138 \| 💬: [21](https://news.ycombinator.com/item?id=42766205) \| 🗓️ 2025-01-20
+
+
+<br />
+Parinfer 是一种新的编辑器模式，旨在简化 Lisp 编程中的括号管理。通过**自动调整括号**与缩进的关系，Parinfer 提供了两种模式：**缩进模式**和**括号模式**，分别允许用户控制缩进或括号，同时自动调整另一方。该工具旨在降低 Lisp 的学习曲线，同时保留其强大功能，特别适合新手和专家使用。
+
+---
+
+## <a name="13"></a>13. 逆向解析我的Hacker News热门文章 
+<small>🔗 [danielwirtz.com](https://danielwirtz.com/blog/successful-hacker-news-article): Reverse engineering my #1 Hacker News article</small>
+
+
+| 🔥🔥: 115 \| 💬: [39](https://news.ycombinator.com/item?id=42769325) \| 🗓️ 2025-01-20
+
+
+<br />
+作者分享了一篇意外成为Hacker News热门文章的创作过程。**好奇心**是文章成功的关键，标题“我获得了一个新超能力”简洁且引人入胜。文章通过**个人故事**和**互动元素**（如“找不同”谜题）吸引了读者，激发了讨论。**真实性和参与感**是文章脱颖而出的重要因素。
+
+---
+
+## <a name="14"></a>14. 那些本科整除问题从何而来？ 
+<small>🔗 [grossack.site](https://grossack.site/2025/01/16/undergrad-divisibility-problems.html): Where do those undergraduate divisibility problems come from?</small>
+
+
+| 🔥🔥: 109 \| 💬: [31](https://news.ycombinator.com/item?id=42766825) \| 🗓️ 2025-01-20
+
+
+<br />
+在本科的“证明入门”或“离散数学”课程中，常会遇到如“证明$n^6 + n^3 + 2n^2 + 2n$对任意$n$都是6的倍数”的问题。这些问题的来源是什么？本文通过**Pólya-Redfield计数**解释了如何构造这类多项式，使其输出总是某个固定数的倍数。关键在于通过**群作用**和**轨道计数**来确保结果的整除性。
+
+---
+
 ## <a name="15"></a>15. Automattic CEO Matt Mullenweg 似乎决心毁掉 WordPress 
 <small>🔗 [digitalcxo.com](https://digitalcxo.com/article/matt-mullenweg-automattics-ceo-seems-bound-and-determined-to-wreck-wordpress/): Matt Mullenweg, Automattic's CEO, Seems Bound and Determined to Wreck WordPress</small>
 
 
-| 🔥🔥: 101 \| 💬: [40](https://news.ycombinator.com/item?id=42773311) \| 🗓️ 2025-01-20
+| 🔥🔥: 106 \| 💬: [46](https://news.ycombinator.com/item?id=42773311) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -202,35 +202,11 @@ Automattic CEO Matt Mullenweg 因与托管公司 **WP Engine** 的激烈冲突�
 
 ---
 
-## <a name="16"></a>16. 个性化词汇学习应用：WordPecker 
-<small>🔗 [github.com](https://github.com/baturyilmaz/wordpecker-app): Show HN: Personalized Duolingo (kind of) for vocabulary building</small>
-
-
-| 🔥: 85 \| 💬: [23](https://news.ycombinator.com/item?id=42770200) \| 🗓️ 2025-01-20
-
-
-<br />
-WordPecker 是一款结合 **Duolingo 风格课程** 和 **自定义词汇表** 的语言学习工具。用户可以从书籍、文章或视频中添加生词，并通过 **互动测验** 和 **AI 生成课程** 进行复习。应用自动提供单词释义，支持学习和测验模式，帮助用户在上下文中高效记忆词汇。未来计划增加更多练习类型和进度跟踪功能。
-
----
-
-## <a name="17"></a>17. 塞尔玛游行（1965年） 
-<small>🔗 [newyorker.com](https://www.newyorker.com/magazine/1965/04/10/letter-from-selma): The Selma March (1965)</small>
-
-
-| 🔥: 83 \| 💬: [13](https://news.ycombinator.com/item?id=42773693) \| 🗓️ 2025-01-20
-
-
-<br />
-1965年，约三万人从塞尔玛的布朗教堂出发，前往蒙哥马利州议会大厦，抗议种族歧视和争取投票权。游行队伍包括**非裔美国人**、北方牧师、工会成员等，受到联邦政府和军队的保护。尽管面临危险和敌意，游行者通过**非暴力抗议**表达团结与决心。游行最终成为民权运动的象征，推动了**投票权法案**的通过。
-
----
-
-## <a name="18"></a>18. 马斯克在就职演讲中行纳粹礼 
+## <a name="16"></a>16. 马斯克在就职演讲中行纳粹礼 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=e2bbb-6Clhs): Elon Gives Nazi Salute During Inauguration Speech</small>
 
 
-| 🔥: 83 \| 💬: [26](https://news.ycombinator.com/item?id=42774621) \| 🗓️ 2025-01-20
+| 🔥: 95 \| 💬: [26](https://news.ycombinator.com/item?id=42774621) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -238,15 +214,39 @@ WordPecker 是一款结合 **Duolingo 风格课程** 和 **自定义词汇表** 
 
 ---
 
-## <a name="19"></a>19. 小小生命的无声反抗 
-<small>🔗 [caitlynrichardson.substack.com](https://caitlynrichardson.substack.com/p/the-quiet-rebellion-of-a-little-life): The quiet rebellion of a little life</small>
+## <a name="17"></a>17. Meta 似乎窃取了大量书籍来构建其 AI 
+<small>🔗 [lithub.com](https://lithub.com/it-sure-looks-like-meta-stole-a-lot-of-books-to-build-its-ai/): It sure looks like Meta stole a lot of books to build its AI</small>
 
 
-| 🔥: 71 \| 💬: [110](https://news.ycombinator.com/item?id=42769751) \| 🗓️ 2025-01-20
+| 🔥: 92 \| 💬: [82](https://news.ycombinator.com/item?id=42775545) \| 🗓️ 2025-01-20
 
 
 <br />
-文章探讨了现代社会对成功的定义，质疑了以**头衔、成就和影响力**衡量人生价值的观念。作者认为，**平凡生活中的小确幸**——如烹饪、与宠物相处、种植花园——同样充满意义。通过引用加缪的《西西弗斯神话》和克尔凯郭尔的《非此即彼》，作者强调**内在满足**比外在成就更重要，倡导一种**简单而深刻的生活方式**，反抗社会对“更多”的无尽追求。
+文章指出，Meta 在开发其 AI 技术时，**未经授权**使用了大量书籍内容。这些书籍可能包括小说、诗歌等文学作品，引发了关于**版权**和**数据隐私**的争议。Meta 的行为被质疑是否违反了知识产权法，并引发了公众对其 AI 训练数据来源的广泛关注。
+
+---
+
+## <a name="18"></a>18. 个性化词汇学习应用：WordPecker 
+<small>🔗 [github.com](https://github.com/baturyilmaz/wordpecker-app): Show HN: Personalized Duolingo (kind of) for vocabulary building</small>
+
+
+| 🔥: 89 \| 💬: [23](https://news.ycombinator.com/item?id=42770200) \| 🗓️ 2025-01-20
+
+
+<br />
+WordPecker 是一款结合 **Duolingo 风格课程** 和 **自定义词汇表** 的语言学习工具。用户可以从书籍、文章或视频中添加生词，并通过 **互动测验** 和 **AI 生成课程** 进行复习。应用自动提供单词释义，支持学习和测验模式，帮助用户在上下文中高效记忆词汇。未来计划增加更多练习类型和进度跟踪功能。
+
+---
+
+## <a name="19"></a>19. 塞尔玛游行（1965年） 
+<small>🔗 [newyorker.com](https://www.newyorker.com/magazine/1965/04/10/letter-from-selma): The Selma March (1965)</small>
+
+
+| 🔥: 85 \| 💬: [14](https://news.ycombinator.com/item?id=42773693) \| 🗓️ 2025-01-20
+
+
+<br />
+1965年，约三万人从塞尔玛的布朗教堂出发，前往蒙哥马利州议会大厦，抗议种族歧视和争取投票权。游行队伍包括**非裔美国人**、北方牧师、工会成员等，受到联邦政府和军队的保护。尽管面临危险和敌意，游行者通过**非暴力抗议**表达团结与决心。游行最终成为民权运动的象征，推动了**投票权法案**的通过。
 
 ---
 
@@ -254,7 +254,7 @@ WordPecker 是一款结合 **Duolingo 风格课程** 和 **自定义词汇表** 
 <small>🔗 [torrentfreak.com](https://torrentfreak.com/authors-seek-metas-torrent-client-logs-and-seeding-data-in-ai-piracy-probe-250120/): Authors seek Meta's torrent client logs and seeding data in AI piracy probe</small>
 
 
-| 🔥: 70 \| 💬: [63](https://news.ycombinator.com/item?id=42772771) \| 🗓️ 2025-01-20
+| 🔥: 77 \| 💬: [71](https://news.ycombinator.com/item?id=42772771) \| 🗓️ 2025-01-20
 
 
 <br />
