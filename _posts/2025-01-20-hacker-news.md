@@ -26,7 +26,7 @@ tags:
 <small>🔗 [github.com](https://github.com/deepseek-ai/DeepSeek-R1): DeepSeek-R1</small>
 
 
-| 🔥🔥: 1019 \| 💬: [360](https://news.ycombinator.com/item?id=42768072) \| 🗓️ 2025-01-20
+| 🔥🔥: 1060 \| 💬: [377](https://news.ycombinator.com/item?id=42768072) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -38,7 +38,7 @@ DeepSeek-R1 是首个通过大规模**强化学习（RL）**训练生成的推�
 <small>🔗 [okayfail.com](http://okayfail.com/2025/i-met-pg-once.html): I Met Paul Graham Once</small>
 
 
-| 🔥🔥: 664 \| 💬: [402](https://news.ycombinator.com/item?id=42767507) \| 🗓️ 2025-01-20
+| 🔥🔥: 715 \| 💬: [432](https://news.ycombinator.com/item?id=42767507) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -50,7 +50,7 @@ DeepSeek-R1 是首个通过大规模**强化学习（RL）**训练生成的推�
 <small>🔗 [mixxx.org](https://mixxx.org/): Mixxx: GPL DJ Software</small>
 
 
-| 🔥🔥: 390 \| 💬: [86](https://news.ycombinator.com/item?id=42769871) \| 🗓️ 2025-01-20
+| 🔥🔥: 402 \| 💬: [88](https://news.ycombinator.com/item?id=42769871) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -62,7 +62,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [blog.rongarret.info](http://blog.rongarret.info/2025/01/i-am-not-failure-lessons-learned-from.html): I am (not) a failure: Lessons learned from six failed startup attempts</small>
 
 
-| 🔥🔥: 295 \| 💬: [191](https://news.ycombinator.com/item?id=42771676) \| 🗓️ 2025-01-20
+| 🔥🔥: 305 \| 💬: [210](https://news.ycombinator.com/item?id=42771676) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -74,7 +74,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [neilzone.co.uk](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/): Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM car</small>
 
 
-| 🔥🔥: 268 \| 💬: [168](https://news.ycombinator.com/item?id=42767584) \| 🗓️ 2025-01-20
+| 🔥🔥: 277 \| 💬: [169](https://news.ycombinator.com/item?id=42767584) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -86,7 +86,7 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 <small>🔗 [jpost.com](https://www.jpost.com/international/article-838444): Did Elon Musk Appear to Sieg Heil at Trump Inauguration?</small>
 
 
-| 🔥🔥: 182 \| 💬: [67](https://news.ycombinator.com/item?id=42772995) \| 🗓️ 2025-01-20
+| 🔥🔥: 188 \| 💬: [68](https://news.ycombinator.com/item?id=42772995) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -94,35 +94,11 @@ Mixxx是一款**免费开源**的DJ软件，支持Windows、macOS和Linux系统�
 
 ---
 
-## <a name="7"></a>7. TypeScript 枚举：使用场景与替代方案 
-<small>🔗 [2ality.com](https://2ality.com/2025/01/typescript-enum-patterns.html): TypeScript enums: use cases and alternatives</small>
-
-
-| 🔥🔥: 145 \| 💬: [118](https://news.ycombinator.com/item?id=42766729) \| 🗓️ 2025-01-20
-
-
-<br />
-TypeScript 枚举是一种**固定值集合**，既定义了对象（键值映射）又定义了类型（仅包含成员值）。适用于**命名空间常量**和**自定义类型**，但无法用于对象值常量。替代方案包括**对象字面量**和**字符串字面量联合类型**，后者支持**穷举检查**和成员枚举。
-
----
-
-## <a name="8"></a>8. Zork：伟大的内部运作（2020） 
-<small>🔗 [medium.com](https://medium.com/swlh/zork-the-great-inner-workings-b68012952bdc): Zork: The Great Inner Workings (2020)</small>
-
-
-| 🔥🔥: 142 \| 💬: [51](https://news.ycombinator.com/item?id=42767132) \| 🗓️ 2025-01-20
-
-
-<br />
-本文探讨了经典文本冒险游戏**Zork**的架构与源代码。作者通过研究**Zork I**的代码，解析了游戏如何将玩家输入分解为**PRSA**、**PRSO**和**PRSI**三个变量，并利用**对象树**和**语法表**执行相应动作。文章还介绍了游戏的历史演变及其在不同编程语言中的实现。
-
----
-
-## <a name="9"></a>9. 马斯克在特朗普就职典礼上疑似行法西斯礼 
+## <a name="7"></a>7. 马斯克在特朗普就职典礼上疑似行法西斯礼 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/jan/20/trump-elon-musk-salute): Elon Musk appears to make back-to-back fascist salutes at inauguration rally</small>
 
 
-| 🔥🔥: 142 \| 💬: [56](https://news.ycombinator.com/item?id=42773778) \| 🗓️ 2025-01-20
+| 🔥🔥: 153 \| 💬: [62](https://news.ycombinator.com/item?id=42773778) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -130,11 +106,35 @@ TypeScript 枚举是一种**固定值集合**，既定义了对象（键值映�
 
 ---
 
+## <a name="8"></a>8. TypeScript 枚举：使用场景与替代方案 
+<small>🔗 [2ality.com](https://2ality.com/2025/01/typescript-enum-patterns.html): TypeScript enums: use cases and alternatives</small>
+
+
+| 🔥🔥: 151 \| 💬: [119](https://news.ycombinator.com/item?id=42766729) \| 🗓️ 2025-01-20
+
+
+<br />
+TypeScript 枚举是一种**固定值集合**，既定义了对象（键值映射）又定义了类型（仅包含成员值）。适用于**命名空间常量**和**自定义类型**，但无法用于对象值常量。替代方案包括**对象字面量**和**字符串字面量联合类型**，后者支持**穷举检查**和成员枚举。
+
+---
+
+## <a name="9"></a>9. Zork：伟大的内部运作（2020） 
+<small>🔗 [medium.com](https://medium.com/swlh/zork-the-great-inner-workings-b68012952bdc): Zork: The Great Inner Workings (2020)</small>
+
+
+| 🔥🔥: 146 \| 💬: [55](https://news.ycombinator.com/item?id=42767132) \| 🗓️ 2025-01-20
+
+
+<br />
+本文探讨了经典文本冒险游戏**Zork**的架构与源代码。作者通过研究**Zork I**的代码，解析了游戏如何将玩家输入分解为**PRSA**、**PRSO**和**PRSI**三个变量，并利用**对象树**和**语法表**执行相应动作。文章还介绍了游戏的历史演变及其在不同编程语言中的实现。
+
+---
+
 ## <a name="10"></a>10. 无人机天基导航 
 <small>🔗 [mdpi.com](https://www.mdpi.com/2504-446X/8/11/652): Celestial Navigation for Drones</small>
 
 
-| 🔥🔥: 135 \| 💬: [80](https://news.ycombinator.com/item?id=42767797) \| 🗓️ 2025-01-20
+| 🔥🔥: 141 \| 💬: [81](https://news.ycombinator.com/item?id=42767797) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -146,7 +146,7 @@ TypeScript 枚举是一种**固定值集合**，既定义了对象（键值映�
 <small>🔗 [shaunlebron.github.io](https://shaunlebron.github.io/parinfer/): Parinfer: Simpler Lisp Editing</small>
 
 
-| 🔥🔥: 134 \| 💬: [18](https://news.ycombinator.com/item?id=42766205) \| 🗓️ 2025-01-20
+| 🔥🔥: 137 \| 💬: [21](https://news.ycombinator.com/item?id=42766205) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -158,7 +158,7 @@ Parinfer 是一种新的编辑器模式，旨在简化 Lisp 编程中的括号�
 <small>🔗 [danielwirtz.com](https://danielwirtz.com/blog/successful-hacker-news-article): Reverse engineering my #1 Hacker News article</small>
 
 
-| 🔥🔥: 110 \| 💬: [34](https://news.ycombinator.com/item?id=42769325) \| 🗓️ 2025-01-20
+| 🔥🔥: 113 \| 💬: [36](https://news.ycombinator.com/item?id=42769325) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -170,7 +170,7 @@ Parinfer 是一种新的编辑器模式，旨在简化 Lisp 编程中的括号�
 <small>🔗 [grossack.site](https://grossack.site/2025/01/16/undergrad-divisibility-problems.html): Where do those undergraduate divisibility problems come from?</small>
 
 
-| 🔥🔥: 102 \| 💬: [31](https://news.ycombinator.com/item?id=42766825) \| 🗓️ 2025-01-20
+| 🔥🔥: 106 \| 💬: [31](https://news.ycombinator.com/item?id=42766825) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -178,11 +178,35 @@ Parinfer 是一种新的编辑器模式，旨在简化 Lisp 编程中的括号�
 
 ---
 
-## <a name="14"></a>14. 个性化词汇学习应用：WordPecker 
-<small>🔗 [github.com](https://github.com/baturyilmaz/wordpecker-app): Show HN: Personalized Duolingo (Kind of) for Vocabulary Building</small>
+## <a name="14"></a>14. 《使命召唤反作弊逆向工程》 
+<small>🔗 [ssno.cc](https://ssno.cc/posts/reversing-tac-1-4-2025/): Reverse engineering Call of Duty anti-cheat</small>
 
 
-| 🔥: 77 \| 💬: [22](https://news.ycombinator.com/item?id=42770200) \| 🗓️ 2025-01-20
+| 🔥🔥: 103 \| 💬: [15](https://news.ycombinator.com/item?id=42774221) \| 🗓️ 2025-01-20
+
+
+<br />
+本文深入探讨了《使命召唤：黑色行动冷战》中的用户模式反作弊系统**TAC**。文章详细分析了游戏如何通过**Arxan**进行代码混淆和保护，包括运行时解密、校验和检查以及跳转混淆等技术。此外，还介绍了TAC如何检测调试器和API钩子，并探讨了绕过这些检测的潜在方法，如使用**调试寄存器**进行异常钩子。
+
+---
+
+## <a name="15"></a>15. Automattic CEO Matt Mullenweg 似乎决心毁掉 WordPress 
+<small>🔗 [digitalcxo.com](https://digitalcxo.com/article/matt-mullenweg-automattics-ceo-seems-bound-and-determined-to-wreck-wordpress/): Matt Mullenweg, Automattic's CEO, Seems Bound and Determined to Wreck WordPress</small>
+
+
+| 🔥🔥: 101 \| 💬: [40](https://news.ycombinator.com/item?id=42773311) \| 🗓️ 2025-01-20
+
+
+<br />
+Automattic CEO Matt Mullenweg 因与托管公司 **WP Engine** 的激烈冲突而引发争议，导致 WordPress 社区分裂。Mullenweg 指责 WP Engine 滥用 WordPress 品牌并禁用修订功能，随后禁止其访问 WordPress.org 资源，引发法律诉讼。Automattic 还大幅减少了对 **WordPress 开源项目** 的贡献，导致社区对平台未来感到担忧，甚至考虑分叉。Mullenweg 的行为引发内部员工离职和外部批评，WordPress 的未来充满不确定性。
+
+---
+
+## <a name="16"></a>16. 个性化词汇学习应用：WordPecker 
+<small>🔗 [github.com](https://github.com/baturyilmaz/wordpecker-app): Show HN: Personalized Duolingo (kind of) for vocabulary building</small>
+
+
+| 🔥: 85 \| 💬: [23](https://news.ycombinator.com/item?id=42770200) \| 🗓️ 2025-01-20
 
 
 <br />
@@ -190,7 +214,31 @@ WordPecker 是一款结合 **Duolingo 风格课程** 和 **自定义词汇表** 
 
 ---
 
-## <a name="15"></a>15. 小小生命的无声反抗 
+## <a name="17"></a>17. 塞尔玛游行（1965年） 
+<small>🔗 [newyorker.com](https://www.newyorker.com/magazine/1965/04/10/letter-from-selma): The Selma March (1965)</small>
+
+
+| 🔥: 83 \| 💬: [13](https://news.ycombinator.com/item?id=42773693) \| 🗓️ 2025-01-20
+
+
+<br />
+1965年，约三万人从塞尔玛的布朗教堂出发，前往蒙哥马利州议会大厦，抗议种族歧视和争取投票权。游行队伍包括**非裔美国人**、北方牧师、工会成员等，受到联邦政府和军队的保护。尽管面临危险和敌意，游行者通过**非暴力抗议**表达团结与决心。游行最终成为民权运动的象征，推动了**投票权法案**的通过。
+
+---
+
+## <a name="18"></a>18. 马斯克在就职演讲中行纳粹礼 
+<small>🔗 [youtube.com](https://www.youtube.com/watch?v=e2bbb-6Clhs): Elon Gives Nazi Salute During Inauguration Speech</small>
+
+
+| 🔥: 83 \| 💬: [26](https://news.ycombinator.com/item?id=42774621) \| 🗓️ 2025-01-20
+
+
+<br />
+在就职演讲中，**马斯克**意外地做出了一个**纳粹礼**手势，引发了广泛争议。这一行为迅速在社交媒体上引发热议，许多人对其动机和背景表示质疑。尽管尚未有官方解释，但这一事件已成为**公众讨论**的焦点。
+
+---
+
+## <a name="19"></a>19. 小小生命的无声反抗 
 <small>🔗 [caitlynrichardson.substack.com](https://caitlynrichardson.substack.com/p/the-quiet-rebellion-of-a-little-life): The quiet rebellion of a little life</small>
 
 
@@ -202,62 +250,14 @@ WordPecker 是一款结合 **Duolingo 风格课程** 和 **自定义词汇表** 
 
 ---
 
-## <a name="16"></a>16. 作者要求Meta提供Torrent客户端日志和种子数据以调查AI侵权案 
-<small>🔗 [torrentfreak.com](https://torrentfreak.com/authors-seek-metas-torrent-client-logs-and-seeding-data-in-ai-piracy-probe-250120/): Authors Seek Meta's Torrent Client Logs and Seeding Data in AI Piracy Probe</small>
+## <a name="20"></a>20. 作者要求Meta提供Torrent客户端日志和种子数据以调查AI侵权案 
+<small>🔗 [torrentfreak.com](https://torrentfreak.com/authors-seek-metas-torrent-client-logs-and-seeding-data-in-ai-piracy-probe-250120/): Authors seek Meta's torrent client logs and seeding data in AI piracy probe</small>
 
 
-| 🔥: 65 \| 💬: [53](https://news.ycombinator.com/item?id=42772771) \| 🗓️ 2025-01-20
+| 🔥: 70 \| 💬: [63](https://news.ycombinator.com/item?id=42772771) \| 🗓️ 2025-01-20
 
 
 <br />
 在AI侵权诉讼中，作者指控**Meta**通过BitTorrent下载盗版书籍用于AI训练，并作为种子分发。Meta承认使用非官方来源，但辩称属于**合理使用**。法院允许作者调查Meta的种子行为，认为这可能影响**故意侵权**或合理使用的辩护。作者要求Meta提供Torrent日志和种子数据，以证明其分发盗版内容的行为。
-
----
-
-## <a name="17"></a>17. 马斯克在就职演讲中行纳粹礼 
-<small>🔗 [youtube.com](https://www.youtube.com/watch?v=e2bbb-6Clhs): Elon Gives Nazi Salute During Inauguration Speech</small>
-
-
-| 🔥: 63 \| 💬: [25](https://news.ycombinator.com/item?id=42774621) \| 🗓️ 2025-01-20
-
-
-<br />
-在就职演讲中，**马斯克**意外地做出了一个**纳粹礼**手势，引发了广泛争议。这一行为迅速在社交媒体上引发热议，许多人对其动机和背景表示质疑。尽管尚未有官方解释，但这一事件已成为**公众讨论**的焦点。
-
----
-
-## <a name="18"></a>18. Bambu Lab - 澄清关于安全更新的误解 
-<small>🔗 [blog.bambulab.com](https://blog.bambulab.com/updates-and-third-party-integration-with-bambu-connect/): Bambu Lab - Setting the Record Straight About Our Security Update</small>
-
-
-| 🔥: 61 \| 💬: [90](https://news.ycombinator.com/item?id=42773442) \| 🗓️ 2025-01-20
-
-
-<br />
-Bambu Lab 针对 X 系列打印机的安全更新引发了一些误解和虚假指控。公司澄清**不会远程禁用打印机**或限制第三方耗材使用，并强调**Bambu Connect**旨在确保第三方软件的无缝集成。更新提供了**可选 LAN 模式**，用户可选择标准模式或开发者模式，后者需自行负责网络安全。Bambu Lab 正与第三方开发者合作，确保更新不影响用户体验。
-
----
-
-## <a name="19"></a>19. 塞尔玛游行（1965年） 
-<small>🔗 [newyorker.com](https://www.newyorker.com/magazine/1965/04/10/letter-from-selma): The Selma March (1965)</small>
-
-
-| 🔥: 61 \| 💬: [7](https://news.ycombinator.com/item?id=42773693) \| 🗓️ 2025-01-20
-
-
-<br />
-1965年，约三万人从塞尔玛的布朗教堂出发，前往蒙哥马利州议会大厦，抗议种族歧视和争取投票权。游行队伍包括**非裔美国人**、北方牧师、工会成员等，受到联邦政府和军队的保护。尽管面临危险和敌意，游行者通过**非暴力抗议**表达团结与决心。游行最终成为民权运动的象征，推动了**投票权法案**的通过。
-
----
-
-## <a name="20"></a>20. 《使命召唤反作弊逆向工程》 
-<small>🔗 [ssno.cc](https://ssno.cc/posts/reversing-tac-1-4-2025/): Reverse Engineering Call of Duty Anti-Cheat</small>
-
-
-| 🔥: 61 \| 💬: [5](https://news.ycombinator.com/item?id=42774221) \| 🗓️ 2025-01-20
-
-
-<br />
-本文深入探讨了《使命召唤：黑色行动冷战》中的用户模式反作弊系统**TAC**。文章详细分析了游戏如何通过**Arxan**进行代码混淆和保护，包括运行时解密、校验和检查以及跳转混淆等技术。此外，还介绍了TAC如何检测调试器和API钩子，并探讨了绕过这些检测的潜在方法，如使用**调试寄存器**进行异常钩子。
 
 ---
