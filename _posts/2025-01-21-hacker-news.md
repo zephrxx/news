@@ -10,9 +10,9 @@ tags:
 
 1. 针对Signal、Discord等平台的0点击去匿名化攻击；
 1. 3M工厂的隐形静电墙（1996年）；
+1. 星门计划：软银、OpenAI、甲骨文、MGX合作建设数据中心；
 1. Meta在Instagram上审查“#民主党”标签；
 1. Kimi K1.5：利用大语言模型扩展强化学习；
-1. 快递员对控制他们工作的算法感到困惑；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [gist.github.com](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117): 0-click deanonymization attack targeting Signal, Discord, other platforms</small>
 
 
-| 🔥🔥: 926 \| 💬: [312](https://news.ycombinator.com/item?id=42780816) \| 🗓️ 2025-01-21
+| 🔥🔥: 965 \| 💬: [322](https://news.ycombinator.com/item?id=42780816) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [amasci.com](http://amasci.com/weird/unusual/e-wall.html): Invisible Electrostatic Wall at 3M plant (1996)</small>
 
 
-| 🔥🔥: 252 \| 💬: [132](https://news.ycombinator.com/item?id=42782914) \| 🗓️ 2025-01-21
+| 🔥🔥: 266 \| 💬: [145](https://news.ycombinator.com/item?id=42782914) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -46,11 +46,23 @@ tags:
 
 ---
 
-## <a name="3"></a>3. Meta在Instagram上审查“#民主党”标签 
+## <a name="3"></a>3. 星门计划：软银、OpenAI、甲骨文、MGX合作建设数据中心 
+<small>🔗 [apnews.com](https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41): Stargate Project: SoftBank, OpenAI, Oracle, MGX to build data centers</small>
+
+
+| 🔥🔥: 256 \| 💬: [282](https://news.ycombinator.com/item?id=42785891) \| 🗓️ 2025-01-21
+
+
+<br />
+美国总统特朗普宣布，**软银**、**OpenAI**和**甲骨文**等公司合作成立新实体“星门”，计划投资**5000亿美元**用于人工智能基础设施，包括在德州建设数据中心和电力设施。该项目旨在推动AI发展，提升美国在全球AI竞争中的地位。
+
+---
+
+## <a name="4"></a>4. Meta在Instagram上审查“#民主党”标签 
 <small>🔗 [mstdn.chrisalemany.ca](https://mstdn.chrisalemany.ca/@chris/113864600222476627): Meta Censoring '#Democrat' on Instagram</small>
 
 
-| 🔥🔥: 245 \| 💬: [159](https://news.ycombinator.com/item?id=42777938) \| 🗓️ 2025-01-21
+| 🔥🔥: 246 \| 💬: [160](https://news.ycombinator.com/item?id=42777938) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -58,11 +70,11 @@ tags:
 
 ---
 
-## <a name="4"></a>4. Kimi K1.5：利用大语言模型扩展强化学习 
+## <a name="5"></a>5. Kimi K1.5：利用大语言模型扩展强化学习 
 <small>🔗 [github.com](https://github.com/MoonshotAI/Kimi-k1.5): Kimi K1.5: Scaling Reinforcement Learning with LLMs</small>
 
 
-| 🔥🔥: 171 \| 💬: [25](https://news.ycombinator.com/item?id=42777857) \| 🗓️ 2025-01-21
+| 🔥🔥: 176 \| 💬: [26](https://news.ycombinator.com/item?id=42777857) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -70,23 +82,11 @@ Kimi K1.5 是一款多模态大语言模型，通过**强化学习（RL）**实�
 
 ---
 
-## <a name="5"></a>5. 快递员对控制他们工作的算法感到困惑 
-<small>🔗 [theguardian.com](https://www.theguardian.com/business/2025/jan/21/its-a-nightmare-couriers-mystified-by-the-algorithms-that-control-their-jobs): Couriers mystified by the algorithms that control their jobs</small>
-
-
-| 🔥🔥: 161 \| 💬: [198](https://news.ycombinator.com/item?id=42779544) \| 🗓️ 2025-01-21
-
-
-<br />
-英国快递员对控制他们工作的**不透明算法**和系统故障感到沮丧。他们无法理解为何新登录者优先获得订单，或为何在餐厅繁忙时系统显示无可用快递员。**算法的不透明性**导致工资短缺、账户被无故停用等问题，且缺乏人工支持。快递员们感到被系统操控，信任逐渐瓦解，工作压力巨大。
-
----
-
 ## <a name="6"></a>6. Calm Tech认证“奖励”减少干扰的科技产品 
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/calm-tech): Calm tech certification "rewards" less distracting tech</small>
 
 
-| 🔥🔥: 150 \| 💬: [43](https://news.ycombinator.com/item?id=42780953) \| 🗓️ 2025-01-21
+| 🔥🔥: 176 \| 💬: [49](https://news.ycombinator.com/item?id=42780953) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -94,15 +94,15 @@ Kimi K1.5 是一款多模态大语言模型，通过**强化学习（RL）**实�
 
 ---
 
-## <a name="7"></a>7. Show HN: 我制作了一款使用NFC作为物理开关来屏蔽干扰的应用 
-<small>🔗 [foqos.app](https://www.foqos.app): Show HN: I made a app that uses NFC as a physical switch to block distractions</small>
+## <a name="7"></a>7. 快递员对控制他们工作的算法感到困惑 
+<small>🔗 [theguardian.com](https://www.theguardian.com/business/2025/jan/21/its-a-nightmare-couriers-mystified-by-the-algorithms-that-control-their-jobs): Couriers mystified by the algorithms that control their jobs</small>
 
 
-| 🔥🔥: 127 \| 💬: [77](https://news.ycombinator.com/item?id=42782295) \| 🗓️ 2025-01-21
+| 🔥🔥: 165 \| 💬: [215](https://news.ycombinator.com/item?id=42779544) \| 🗓️ 2025-01-21
 
 
 <br />
-Foqos 是一款帮助用户**物理屏蔽干扰应用**的工具，支持**多场景配置文件**，如工作、学习或睡前模式。用户可以通过**NFC标签**快速切换配置文件，无需解锁设备或打开应用。应用完全免费、私密且开源，无订阅、无跟踪、无数据收集。
+英国快递员对控制他们工作的**不透明算法**和系统故障感到沮丧。他们无法理解为何新登录者优先获得订单，或为何在餐厅繁忙时系统显示无可用快递员。**算法的不透明性**导致工资短缺、账户被无故停用等问题，且缺乏人工支持。快递员们感到被系统操控，信任逐渐瓦解，工作压力巨大。
 
 ---
 
@@ -110,7 +110,7 @@ Foqos 是一款帮助用户**物理屏蔽干扰应用**的工具，支持**多�
 <small>🔗 [lukeplant.me.uk](https://lukeplant.me.uk/blog/posts/should-we-use-llms-for-christian-apologetics/): Should we use AI and LLMs for Christian apologetics? (2024)</small>
 
 
-| 🔥🔥: 126 \| 💬: [181](https://news.ycombinator.com/item?id=42781293) \| 🗓️ 2025-01-21
+| 🔥🔥: 134 \| 💬: [185](https://news.ycombinator.com/item?id=42781293) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -118,11 +118,23 @@ Foqos 是一款帮助用户**物理屏蔽干扰应用**的工具，支持**多�
 
 ---
 
-## <a name="9"></a>9. Go 2 应该摆脱 Context（2017） 
+## <a name="9"></a>9. Show HN: 我制作了一款使用NFC作为物理开关来屏蔽干扰的应用 
+<small>🔗 [foqos.app](https://www.foqos.app): Show HN: I made a app that uses NFC as a physical switch to block distractions</small>
+
+
+| 🔥🔥: 132 \| 💬: [85](https://news.ycombinator.com/item?id=42782295) \| 🗓️ 2025-01-21
+
+
+<br />
+Foqos 是一款帮助用户**物理屏蔽干扰应用**的工具，支持**多场景配置文件**，如工作、学习或睡前模式。用户可以通过**NFC标签**快速切换配置文件，无需解锁设备或打开应用。应用完全免费、私密且开源，无订阅、无跟踪、无数据收集。
+
+---
+
+## <a name="10"></a>10. Go 2 应该摆脱 Context（2017） 
 <small>🔗 [faiface.github.io](https://faiface.github.io/post/context-should-go-away-go2/): Context should go away for Go 2 (2017)</small>
 
 
-| 🔥🔥: 104 \| 💬: [128](https://news.ycombinator.com/item?id=42777625) \| 🗓️ 2025-01-21
+| 🔥🔥: 107 \| 💬: [131](https://news.ycombinator.com/item?id=42777625) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -130,7 +142,7 @@ Foqos 是一款帮助用户**物理屏蔽干扰应用**的工具，支持**多�
 
 ---
 
-## <a name="10"></a>10. 我们失去了对复杂性的尊重 
+## <a name="11"></a>11. 我们失去了对复杂性的尊重 
 <small>🔗 [wilsoniumite.com](https://wilsoniumite.com/2025/01/21/weve-lost-our-respect-for-complexity/): We've lost our respect for complexity</small>
 
 
@@ -142,11 +154,11 @@ Foqos 是一款帮助用户**物理屏蔽干扰应用**的工具，支持**多�
 
 ---
 
-## <a name="11"></a>11. Show HN: Printercow – 将任何热敏打印机变成 API 端点 
+## <a name="12"></a>12. Show HN: Printercow – 将任何热敏打印机变成 API 端点 
 <small>🔗 [printercow.com](https://www.printercow.com/): Show HN: Printercow – Turn any thermal printer into an API endpoint</small>
 
 
-| 🔥: 97 \| 💬: [75](https://news.ycombinator.com/item?id=42778771) \| 🗓️ 2025-01-21
+| 🔥🔥: 102 \| 💬: [77](https://news.ycombinator.com/item?id=42778771) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -154,7 +166,19 @@ Printercow 是一个工具，**将热敏打印机**转换为可通过 HTTP 访�
 
 ---
 
-## <a name="12"></a>12. 波兰对美国限制AI芯片出口表示愤怒 
+## <a name="13"></a>13. 墨卡托：极限 
+<small>🔗 [mrgris.com](https://mrgris.com/projects/merc-extreme/): Mercator: Extreme</small>
+
+
+| 🔥: 100 \| 💬: [23](https://news.ycombinator.com/item?id=42783948) \| 🗓️ 2025-01-21
+
+
+<br />
+Drew Roos 创作的 **墨卡托：极限** 是一款互动地图工具，展示了**墨卡托投影**的极端变形效果。用户可以将地球上的任意点设为“极点”，并探索从人类尺度到全球尺度的地图变形。通过调整极点位置，地图呈现出独特的视觉效果，揭示了墨卡托投影在极地附近的**指数级失真**。该工具还提供了新颖的导航方式，帮助用户理解距离和方向的关系。
+
+---
+
+## <a name="14"></a>14. 波兰对美国限制AI芯片出口表示愤怒 
 <small>🔗 [politico.eu](https://www.politico.eu/article/poland-fumes-us-block-joe-biden-ai-chips-cap-export/): Poland fumes over US block on AI chips</small>
 
 
@@ -166,7 +190,7 @@ Printercow 是一个工具，**将热敏打印机**转换为可通过 HTTP 访�
 
 ---
 
-## <a name="13"></a>13. 关于编写AI应用的经验总结 
+## <a name="15"></a>15. 关于编写AI应用的经验总结 
 <small>🔗 [seldo.com](https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far): What I've learned about writing AI apps so far</small>
 
 
@@ -178,35 +202,11 @@ Printercow 是一个工具，**将热敏打印机**转换为可通过 HTTP 访�
 
 ---
 
-## <a name="14"></a>14. 墨卡托：极限 
-<small>🔗 [mrgris.com](https://mrgris.com/projects/merc-extreme/): Mercator: Extreme</small>
-
-
-| 🔥: 84 \| 💬: [21](https://news.ycombinator.com/item?id=42783948) \| 🗓️ 2025-01-21
-
-
-<br />
-Drew Roos 创作的 **墨卡托：极限** 是一款互动地图工具，展示了**墨卡托投影**的极端变形效果。用户可以将地球上的任意点设为“极点”，并探索从人类尺度到全球尺度的地图变形。通过调整极点位置，地图呈现出独特的视觉效果，揭示了墨卡托投影在极地附近的**指数级失真**。该工具还提供了新颖的导航方式，帮助用户理解距离和方向的关系。
-
----
-
-## <a name="15"></a>15. Amurex – 开源AI会议助手 
-<small>🔗 [sansyrox.github.io](https://sansyrox.github.io/amurex_ce/): Show HN: Amurex – An open source AI meeting copilot</small>
-
-
-| 🔥: 77 \| 💬: [33](https://news.ycombinator.com/item?id=42779378) \| 🗓️ 2025-01-21
-
-
-<br />
-Amurex 是一个开源的 **AI会议助手**，旨在提升会议效率。该项目已在 GitHub 上发布，用户可通过链接访问代码库。Amurex 的核心功能是 **实时转录** 和 **智能摘要**，帮助用户更好地管理会议内容。
-
----
-
 ## <a name="16"></a>16. 由测试套件之美引导 
 <small>🔗 [mattkeeter.com](https://www.mattkeeter.com/blog/2025-01-20-guided/): Guided by the beauty of our test suite</small>
 
 
-| 🔥: 77 \| 💬: [5](https://news.ycombinator.com/item?id=42781922) \| 🗓️ 2025-01-21
+| 🔥: 79 \| 💬: [6](https://news.ycombinator.com/item?id=42781922) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -214,11 +214,23 @@ Matt Keeter 分享了他在改进软件测试方面的经验。他通过设置 *
 
 ---
 
-## <a name="17"></a>17. 拉斐尔·阿劳霍的20幅迷人几何杰作（2024年） 
+## <a name="17"></a>17. Amurex – 开源AI会议助手 
+<small>🔗 [sansyrox.github.io](https://sansyrox.github.io/amurex_ce/): Show HN: Amurex – An open source AI meeting copilot</small>
+
+
+| 🔥: 78 \| 💬: [33](https://news.ycombinator.com/item?id=42779378) \| 🗓️ 2025-01-21
+
+
+<br />
+Amurex 是一个开源的 **AI会议助手**，旨在提升会议效率。该项目已在 GitHub 上发布，用户可通过链接访问代码库。Amurex 的核心功能是 **实时转录** 和 **智能摘要**，帮助用户更好地管理会议内容。
+
+---
+
+## <a name="18"></a>18. 拉斐尔·阿劳霍的20幅迷人几何杰作（2024年） 
 <small>🔗 [abakcus.com](https://abakcus.com/rafael-araujo-geometrical-masterpieces/): Rafael Araujo's 20 Mesmerizing Geometrical Masterpieces (2024)</small>
 
 
-| 🔥: 70 \| 💬: [8](https://news.ycombinator.com/item?id=42783543) \| 🗓️ 2025-01-21
+| 🔥: 74 \| 💬: [9](https://news.ycombinator.com/item?id=42783543) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -226,11 +238,11 @@ Matt Keeter 分享了他在改进软件测试方面的经验。他通过设置 *
 
 ---
 
-## <a name="18"></a>18. 为什么正则表达式使用 `$` 和 `^` 作为行锚点？ 
+## <a name="19"></a>19. 为什么正则表达式使用 `$` 和 `^` 作为行锚点？ 
 <small>🔗 [buttondown.com](https://buttondown.com/hillelwayne/archive/why-do-regexes-use-and-as-line-anchors/): Why do regexes use `$` and `^` as line anchors? (2024)</small>
 
 
-| 🔥: 69 \| 💬: [32](https://news.ycombinator.com/item?id=42783391) \| 🗓️ 2025-01-21
+| 🔥: 72 \| 💬: [35](https://news.ycombinator.com/item?id=42783391) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -238,26 +250,14 @@ Matt Keeter 分享了他在改进软件测试方面的经验。他通过设置 *
 
 ---
 
-## <a name="19"></a>19. 一次可以安装多少个 Alpine 软件包？(2024) 
-<small>🔗 [naff.dev](https://www.naff.dev/blog/all-the-packages): How many Alpine packages can you install at once? (2024)</small>
+## <a name="20"></a>20. 概念细胞帮助大脑抽象信息并构建记忆 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/concept-cells-help-your-brain-abstract-information-and-build-memories-20250121/): Concept cells help your brain abstract information and build memories</small>
 
 
-| 🔥: 66 \| 💬: [23](https://news.ycombinator.com/item?id=42781388) \| 🗓️ 2025-01-21
-
-
-<br />
-本文探讨了如何在 **Alpine Linux** 中最大化安装软件包数量，同时解决依赖和冲突问题。作者使用 **PuLP** 约束求解器，通过解析 **APKINDEX** 文件，创建约束条件以确保软件包兼容性。最终，作者成功在 Alpine 3.20 中安装了 98.5% 的主仓库和 97.8% 的主加社区仓库软件包。
-
----
-
-## <a name="20"></a>20. Show HN: Pica – 基于 Rust 的开源 AI 代理基础设施 
-<small>🔗 [picaos.com](https://www.picaos.com/): Show HN: Pica – Rust-based agentic AI infrastructure (open-source)</small>
-
-
-| 🔥: 60 \| 💬: [38](https://news.ycombinator.com/item?id=42781017) \| 🗓️ 2025-01-21
+| 🔥: 71 \| 💬: [7](https://news.ycombinator.com/item?id=42781846) \| 🗓️ 2025-01-21
 
 
 <br />
-Pica 是一个基于 **Rust** 构建的开源 AI 代理基础设施，旨在简化 AI 代理的开发、部署和扩展。通过 **OneTool** SDK，开发者可以轻松连接 100+ API 和工具，实现无缝集成。Pica 提供高性能、内存安全的运行时，支持并发操作，并确保代理的可靠性和可扩展性。未来计划包括模块化代理和自主任务协作，目标是打造下一代自主 AI 平台。
+**概念细胞**是大脑中负责抽象表示个体、物体和想法的神经元。研究表明，这些细胞在记忆形成和提取中起关键作用。它们对特定概念（如人物或地点）作出反应，无论概念以何种形式呈现。**概念细胞**通过抽象和关联，帮助大脑将外部信息转化为记忆，是记忆构建的基础。
 
 ---
