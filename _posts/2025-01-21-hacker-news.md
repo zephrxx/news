@@ -26,7 +26,7 @@ tags:
 <small>🔗 [gist.github.com](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117): 0-click deanonymization attack targeting Signal, Discord, other platforms</small>
 
 
-| 🔥🔥: 1095 \| 💬: [364](https://news.ycombinator.com/item?id=42780816) \| 🗓️ 2025-01-21
+| 🔥🔥: 1120 \| 💬: [364](https://news.ycombinator.com/item?id=42780816) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [apnews.com](https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41): Stargate Project: SoftBank, OpenAI, Oracle, MGX to build data centers</small>
 
 
-| 🔥🔥: 517 \| 💬: [557](https://news.ycombinator.com/item?id=42785891) \| 🗓️ 2025-01-21
+| 🔥🔥: 544 \| 💬: [584](https://news.ycombinator.com/item?id=42785891) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [amasci.com](http://amasci.com/weird/unusual/e-wall.html): Invisible Electrostatic Wall at 3M plant (1996)</small>
 
 
-| 🔥🔥: 307 \| 💬: [157](https://news.ycombinator.com/item?id=42782914) \| 🗓️ 2025-01-21
+| 🔥🔥: 313 \| 💬: [158](https://news.ycombinator.com/item?id=42782914) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -62,7 +62,7 @@ tags:
 <small>🔗 [mstdn.chrisalemany.ca](https://mstdn.chrisalemany.ca/@chris/113864600222476627): Meta Censoring '#Democrat' on Instagram</small>
 
 
-| 🔥🔥: 251 \| 💬: [164](https://news.ycombinator.com/item?id=42777938) \| 🗓️ 2025-01-21
+| 🔥🔥: 254 \| 💬: [164](https://news.ycombinator.com/item?id=42777938) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -74,7 +74,7 @@ tags:
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/calm-tech): Calm tech certification "rewards" less distracting tech</small>
 
 
-| 🔥🔥: 231 \| 💬: [64](https://news.ycombinator.com/item?id=42780953) \| 🗓️ 2025-01-21
+| 🔥🔥: 243 \| 💬: [67](https://news.ycombinator.com/item?id=42780953) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -86,7 +86,7 @@ tags:
 <small>🔗 [github.com](https://github.com/MoonshotAI/Kimi-k1.5): Kimi K1.5: Scaling Reinforcement Learning with LLMs</small>
 
 
-| 🔥🔥: 185 \| 💬: [26](https://news.ycombinator.com/item?id=42777857) \| 🗓️ 2025-01-21
+| 🔥🔥: 186 \| 💬: [26](https://news.ycombinator.com/item?id=42777857) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -98,7 +98,7 @@ Kimi K1.5 是一款多模态大语言模型，通过**强化学习（RL）**实�
 <small>🔗 [theguardian.com](https://www.theguardian.com/business/2025/jan/21/its-a-nightmare-couriers-mystified-by-the-algorithms-that-control-their-jobs): Couriers mystified by the algorithms that control their jobs</small>
 
 
-| 🔥🔥: 182 \| 💬: [236](https://news.ycombinator.com/item?id=42779544) \| 🗓️ 2025-01-21
+| 🔥🔥: 183 \| 💬: [237](https://news.ycombinator.com/item?id=42779544) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -110,7 +110,7 @@ Kimi K1.5 是一款多模态大语言模型，通过**强化学习（RL）**实�
 <small>🔗 [foqos.app](https://www.foqos.app): Show HN: I made a app that uses NFC as a physical switch to block distractions</small>
 
 
-| 🔥🔥: 152 \| 💬: [91](https://news.ycombinator.com/item?id=42782295) \| 🗓️ 2025-01-21
+| 🔥🔥: 160 \| 💬: [91](https://news.ycombinator.com/item?id=42782295) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -118,23 +118,11 @@ Foqos 是一款帮助用户**物理屏蔽干扰应用**的工具，支持**多�
 
 ---
 
-## <a name="9"></a>9. 我们应该在基督教护教学中使用AI和LLM吗？ 
-<small>🔗 [lukeplant.me.uk](https://lukeplant.me.uk/blog/posts/should-we-use-llms-for-christian-apologetics/): Should we use AI and LLMs for Christian apologetics? (2024)</small>
-
-
-| 🔥🔥: 143 \| 💬: [200](https://news.ycombinator.com/item?id=42781293) \| 🗓️ 2025-01-21
-
-
-<br />
-作者反对在基督教护教网站中使用**大型语言模型（LLM）**，认为其本质是生成“**虚假信息**”的工具，无法保证准确性。尽管LLM有时能提供真实信息，但其设计并不以追求真理为目标，容易产生“幻觉”或捏造内容。作者强调，在护教领域，**真理**至关重要，使用LLM可能损害基督教的可信度。
-
----
-
-## <a name="10"></a>10. Hunyuan3D 2.0 – 高分辨率3D资产生成 
+## <a name="9"></a>9. Hunyuan3D 2.0 – 高分辨率3D资产生成 
 <small>🔗 [github.com](https://github.com/Tencent/Hunyuan3D-2): Hunyuan3D 2.0 – High-Resolution 3D Assets Generation</small>
 
 
-| 🔥🔥: 142 \| 💬: [60](https://news.ycombinator.com/item?id=42786040) \| 🗓️ 2025-01-21
+| 🔥🔥: 156 \| 💬: [68](https://news.ycombinator.com/item?id=42786040) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -142,11 +130,23 @@ Hunyuan3D 2.0 是一个先进的**大规模3D合成系统**，用于生成高分
 
 ---
 
+## <a name="10"></a>10. 我们应该在基督教护教学中使用AI和LLM吗？ 
+<small>🔗 [lukeplant.me.uk](https://lukeplant.me.uk/blog/posts/should-we-use-llms-for-christian-apologetics/): Should we use AI and LLMs for Christian apologetics? (2024)</small>
+
+
+| 🔥🔥: 145 \| 💬: [207](https://news.ycombinator.com/item?id=42781293) \| 🗓️ 2025-01-21
+
+
+<br />
+作者反对在基督教护教网站中使用**大型语言模型（LLM）**，认为其本质是生成“**虚假信息**”的工具，无法保证准确性。尽管LLM有时能提供真实信息，但其设计并不以追求真理为目标，容易产生“幻觉”或捏造内容。作者强调，在护教领域，**真理**至关重要，使用LLM可能损害基督教的可信度。
+
+---
+
 ## <a name="11"></a>11. 墨卡托：极限 
 <small>🔗 [mrgris.com](https://mrgris.com/projects/merc-extreme/): Mercator: Extreme</small>
 
 
-| 🔥🔥: 137 \| 💬: [28](https://news.ycombinator.com/item?id=42783948) \| 🗓️ 2025-01-21
+| 🔥🔥: 142 \| 💬: [28](https://news.ycombinator.com/item?id=42783948) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -158,7 +158,7 @@ Drew Roos 创作的 **墨卡托：极限** 是一款互动地图工具，展示�
 <small>🔗 [printercow.com](https://www.printercow.com/): Show HN: Printercow – Turn any thermal printer into an API endpoint</small>
 
 
-| 🔥🔥: 119 \| 💬: [91](https://news.ycombinator.com/item?id=42778771) \| 🗓️ 2025-01-21
+| 🔥🔥: 120 \| 💬: [91](https://news.ycombinator.com/item?id=42778771) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -170,7 +170,7 @@ Printercow 是一个工具，**将热敏打印机**转换为可通过 HTTP 访�
 <small>🔗 [faiface.github.io](https://faiface.github.io/post/context-should-go-away-go2/): Context should go away for Go 2 (2017)</small>
 
 
-| 🔥🔥: 115 \| 💬: [142](https://news.ycombinator.com/item?id=42777625) \| 🗓️ 2025-01-21
+| 🔥🔥: 116 \| 💬: [146](https://news.ycombinator.com/item?id=42777625) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -178,11 +178,23 @@ Printercow 是一个工具，**将热敏打印机**转换为可通过 HTTP 访�
 
 ---
 
-## <a name="14"></a>14. 我们失去了对复杂性的尊重 
+## <a name="14"></a>14. 拉环罐顶上的凸起是什么？ 
+<small>🔗 [old.reddit.com](https://old.reddit.com/r/whatisthisthing/comments/1i5ztq4/comment/m8a7m8m/): What are these bumps on the top of a pull-tab can?</small>
+
+
+| 🔥🔥: 110 \| 💬: [7](https://news.ycombinator.com/item?id=42788455) \| 🗓️ 2025-01-21
+
+
+<br />
+这些凸起的主要功能是**防止拉环被意外拉开**，并在制造过程中帮助对齐罐盖。它们还提供了**更好的杠杆作用**，使拉环更容易拉开。此外，同心圆结构有助于**防止罐体变形**，保护密封性。这些设计在高速生产线中经过多次测试和改进，以确保其功能性和耐用性。
+
+---
+
+## <a name="15"></a>15. 我们失去了对复杂性的尊重 
 <small>🔗 [wilsoniumite.com](https://wilsoniumite.com/2025/01/21/weve-lost-our-respect-for-complexity/): We've lost our respect for complexity</small>
 
 
-| 🔥🔥: 103 \| 💬: [60](https://news.ycombinator.com/item?id=42777715) \| 🗓️ 2025-01-21
+| 🔥🔥: 103 \| 💬: [61](https://news.ycombinator.com/item?id=42777715) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -190,23 +202,11 @@ Printercow 是一个工具，**将热敏打印机**转换为可通过 HTTP 访�
 
 ---
 
-## <a name="15"></a>15. 概念细胞帮助大脑抽象信息并构建记忆 
-<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/concept-cells-help-your-brain-abstract-information-and-build-memories-20250121/): Concept cells help your brain abstract information and build memories</small>
-
-
-| 🔥: 93 \| 💬: [7](https://news.ycombinator.com/item?id=42781846) \| 🗓️ 2025-01-21
-
-
-<br />
-**概念细胞**是大脑中负责抽象表示个体、物体和想法的神经元。研究表明，这些细胞在记忆形成和提取中起关键作用。它们对特定概念（如人物或地点）作出反应，无论概念以何种形式呈现。**概念细胞**通过抽象和关联，帮助大脑将外部信息转化为记忆，是记忆构建的基础。
-
----
-
 ## <a name="16"></a>16. 拉斐尔·阿劳霍的20幅迷人几何杰作（2024年） 
 <small>🔗 [abakcus.com](https://abakcus.com/rafael-araujo-geometrical-masterpieces/): Rafael Araujo's 20 Mesmerizing Geometrical Masterpieces (2024)</small>
 
 
-| 🔥: 93 \| 💬: [12](https://news.ycombinator.com/item?id=42783543) \| 🗓️ 2025-01-21
+| 🔥: 99 \| 💬: [13](https://news.ycombinator.com/item?id=42783543) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -214,27 +214,27 @@ Printercow 是一个工具，**将热敏打印机**转换为可通过 HTTP 访�
 
 ---
 
-## <a name="17"></a>17. 由测试套件之美引导 
+## <a name="17"></a>17. 概念细胞帮助大脑抽象信息并构建记忆 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/concept-cells-help-your-brain-abstract-information-and-build-memories-20250121/): Concept cells help your brain abstract information and build memories</small>
+
+
+| 🔥: 96 \| 💬: [7](https://news.ycombinator.com/item?id=42781846) \| 🗓️ 2025-01-21
+
+
+<br />
+**概念细胞**是大脑中负责抽象表示个体、物体和想法的神经元。研究表明，这些细胞在记忆形成和提取中起关键作用。它们对特定概念（如人物或地点）作出反应，无论概念以何种形式呈现。**概念细胞**通过抽象和关联，帮助大脑将外部信息转化为记忆，是记忆构建的基础。
+
+---
+
+## <a name="18"></a>18. 由测试套件之美引导 
 <small>🔗 [mattkeeter.com](https://www.mattkeeter.com/blog/2025-01-20-guided/): Guided by the beauty of our test suite</small>
 
 
-| 🔥: 88 \| 💬: [9](https://news.ycombinator.com/item?id=42781922) \| 🗓️ 2025-01-21
+| 🔥: 89 \| 💬: [9](https://news.ycombinator.com/item?id=42781922) \| 🗓️ 2025-01-21
 
 
 <br />
 Matt Keeter 分享了他在改进软件测试方面的经验。他通过设置 **CI 测试**、**快照测试** 和 **静态无崩溃证明** 来增强代码的可靠性。他还使用 **模糊测试** 来发现解释器实现中的差异，确保不同版本的代码行为一致。这些方法帮助他在不引入新问题的情况下自信地修改代码。
-
----
-
-## <a name="18"></a>18. 拉环罐顶上的凸起是什么？ 
-<small>🔗 [old.reddit.com](https://old.reddit.com/r/whatisthisthing/comments/1i5ztq4/comment/m8a7m8m/): What are these bumps on the top of a pull-tab can?</small>
-
-
-| 🔥: 88 \| 💬: [2](https://news.ycombinator.com/item?id=42788455) \| 🗓️ 2025-01-21
-
-
-<br />
-这些凸起的主要功能是**防止拉环被意外拉开**，并在制造过程中帮助对齐罐盖。它们还提供了**更好的杠杆作用**，使拉环更容易拉开。此外，同心圆结构有助于**防止罐体变形**，保护密封性。这些设计在高速生产线中经过多次测试和改进，以确保其功能性和耐用性。
 
 ---
 
