@@ -26,7 +26,7 @@ tags:
 <small>🔗 [gist.github.com](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117): 0-click deanonymization attack targeting Signal, Discord, other platforms</small>
 
 
-| 🔥🔥: 1050 \| 💬: [357](https://news.ycombinator.com/item?id=42780816) \| 🗓️ 2025-01-21
+| 🔥🔥: 1075 \| 💬: [360](https://news.ycombinator.com/item?id=42780816) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [apnews.com](https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41): Stargate Project: SoftBank, OpenAI, Oracle, MGX to build data centers</small>
 
 
-| 🔥🔥: 438 \| 💬: [499](https://news.ycombinator.com/item?id=42785891) \| 🗓️ 2025-01-21
+| 🔥🔥: 475 \| 💬: [524](https://news.ycombinator.com/item?id=42785891) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [amasci.com](http://amasci.com/weird/unusual/e-wall.html): Invisible Electrostatic Wall at 3M plant (1996)</small>
 
 
-| 🔥🔥: 294 \| 💬: [153](https://news.ycombinator.com/item?id=42782914) \| 🗓️ 2025-01-21
+| 🔥🔥: 301 \| 💬: [157](https://news.ycombinator.com/item?id=42782914) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -62,7 +62,7 @@ tags:
 <small>🔗 [mstdn.chrisalemany.ca](https://mstdn.chrisalemany.ca/@chris/113864600222476627): Meta Censoring '#Democrat' on Instagram</small>
 
 
-| 🔥🔥: 249 \| 💬: [164](https://news.ycombinator.com/item?id=42777938) \| 🗓️ 2025-01-21
+| 🔥🔥: 250 \| 💬: [164](https://news.ycombinator.com/item?id=42777938) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -74,7 +74,7 @@ tags:
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/calm-tech): Calm tech certification "rewards" less distracting tech</small>
 
 
-| 🔥🔥: 214 \| 💬: [58](https://news.ycombinator.com/item?id=42780953) \| 🗓️ 2025-01-21
+| 🔥🔥: 220 \| 💬: [62](https://news.ycombinator.com/item?id=42780953) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -98,7 +98,7 @@ Kimi K1.5 是一款多模态大语言模型，通过**强化学习（RL）**实�
 <small>🔗 [theguardian.com](https://www.theguardian.com/business/2025/jan/21/its-a-nightmare-couriers-mystified-by-the-algorithms-that-control-their-jobs): Couriers mystified by the algorithms that control their jobs</small>
 
 
-| 🔥🔥: 180 \| 💬: [230](https://news.ycombinator.com/item?id=42779544) \| 🗓️ 2025-01-21
+| 🔥🔥: 181 \| 💬: [235](https://news.ycombinator.com/item?id=42779544) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -110,7 +110,7 @@ Kimi K1.5 是一款多模态大语言模型，通过**强化学习（RL）**实�
 <small>🔗 [foqos.app](https://www.foqos.app): Show HN: I made a app that uses NFC as a physical switch to block distractions</small>
 
 
-| 🔥🔥: 146 \| 💬: [90](https://news.ycombinator.com/item?id=42782295) \| 🗓️ 2025-01-21
+| 🔥🔥: 150 \| 💬: [91](https://news.ycombinator.com/item?id=42782295) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -122,7 +122,7 @@ Foqos 是一款帮助用户**物理屏蔽干扰应用**的工具，支持**多�
 <small>🔗 [lukeplant.me.uk](https://lukeplant.me.uk/blog/posts/should-we-use-llms-for-christian-apologetics/): Should we use AI and LLMs for Christian apologetics? (2024)</small>
 
 
-| 🔥🔥: 141 \| 💬: [198](https://news.ycombinator.com/item?id=42781293) \| 🗓️ 2025-01-21
+| 🔥🔥: 142 \| 💬: [199](https://news.ycombinator.com/item?id=42781293) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -134,7 +134,7 @@ Foqos 是一款帮助用户**物理屏蔽干扰应用**的工具，支持**多�
 <small>🔗 [mrgris.com](https://mrgris.com/projects/merc-extreme/): Mercator: Extreme</small>
 
 
-| 🔥🔥: 127 \| 💬: [25](https://news.ycombinator.com/item?id=42783948) \| 🗓️ 2025-01-21
+| 🔥🔥: 131 \| 💬: [27](https://news.ycombinator.com/item?id=42783948) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -142,23 +142,11 @@ Drew Roos 创作的 **墨卡托：极限** 是一款互动地图工具，展示�
 
 ---
 
-## <a name="11"></a>11. Show HN: Printercow – 将任何热敏打印机变成 API 端点 
-<small>🔗 [printercow.com](https://www.printercow.com/): Show HN: Printercow – Turn any thermal printer into an API endpoint</small>
-
-
-| 🔥🔥: 116 \| 💬: [89](https://news.ycombinator.com/item?id=42778771) \| 🗓️ 2025-01-21
-
-
-<br />
-Printercow 是一个工具，**将热敏打印机**转换为可通过 HTTP 访问的 API 端点，支持从 AI 生成的内容到大规模打印需求。它兼容任何支持 ESC/POS 命令的打印机，并允许通过简单的命令或桌面应用快速设置。目前提供每月 **300 次免费打印**，适合开发者、零售和餐饮行业使用。
-
----
-
-## <a name="12"></a>12. Hunyuan3D 2.0 – 高分辨率3D资产生成 
+## <a name="11"></a>11. Hunyuan3D 2.0 – 高分辨率3D资产生成 
 <small>🔗 [github.com](https://github.com/Tencent/Hunyuan3D-2): Hunyuan3D 2.0 – High-Resolution 3D Assets Generation</small>
 
 
-| 🔥🔥: 116 \| 💬: [46](https://news.ycombinator.com/item?id=42786040) \| 🗓️ 2025-01-21
+| 🔥🔥: 130 \| 💬: [54](https://news.ycombinator.com/item?id=42786040) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -166,11 +154,23 @@ Hunyuan3D 2.0 是一个先进的**大规模3D合成系统**，用于生成高分
 
 ---
 
+## <a name="12"></a>12. Show HN: Printercow – 将任何热敏打印机变成 API 端点 
+<small>🔗 [printercow.com](https://www.printercow.com/): Show HN: Printercow – Turn any thermal printer into an API endpoint</small>
+
+
+| 🔥🔥: 117 \| 💬: [91](https://news.ycombinator.com/item?id=42778771) \| 🗓️ 2025-01-21
+
+
+<br />
+Printercow 是一个工具，**将热敏打印机**转换为可通过 HTTP 访问的 API 端点，支持从 AI 生成的内容到大规模打印需求。它兼容任何支持 ESC/POS 命令的打印机，并允许通过简单的命令或桌面应用快速设置。目前提供每月 **300 次免费打印**，适合开发者、零售和餐饮行业使用。
+
+---
+
 ## <a name="13"></a>13. Go 2 应该摆脱 Context（2017） 
 <small>🔗 [faiface.github.io](https://faiface.github.io/post/context-should-go-away-go2/): Context should go away for Go 2 (2017)</small>
 
 
-| 🔥🔥: 111 \| 💬: [139](https://news.ycombinator.com/item?id=42777625) \| 🗓️ 2025-01-21
+| 🔥🔥: 115 \| 💬: [142](https://news.ycombinator.com/item?id=42777625) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -194,7 +194,7 @@ Hunyuan3D 2.0 是一个先进的**大规模3D合成系统**，用于生成高分
 <small>🔗 [abakcus.com](https://abakcus.com/rafael-araujo-geometrical-masterpieces/): Rafael Araujo's 20 Mesmerizing Geometrical Masterpieces (2024)</small>
 
 
-| 🔥: 90 \| 💬: [11](https://news.ycombinator.com/item?id=42783543) \| 🗓️ 2025-01-21
+| 🔥: 92 \| 💬: [11](https://news.ycombinator.com/item?id=42783543) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -202,7 +202,31 @@ Hunyuan3D 2.0 是一个先进的**大规模3D合成系统**，用于生成高分
 
 ---
 
-## <a name="16"></a>16. 关于编写AI应用的经验总结 
+## <a name="16"></a>16. 概念细胞帮助大脑抽象信息并构建记忆 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/concept-cells-help-your-brain-abstract-information-and-build-memories-20250121/): Concept cells help your brain abstract information and build memories</small>
+
+
+| 🔥: 89 \| 💬: [7](https://news.ycombinator.com/item?id=42781846) \| 🗓️ 2025-01-21
+
+
+<br />
+**概念细胞**是大脑中负责抽象表示个体、物体和想法的神经元。研究表明，这些细胞在记忆形成和提取中起关键作用。它们对特定概念（如人物或地点）作出反应，无论概念以何种形式呈现。**概念细胞**通过抽象和关联，帮助大脑将外部信息转化为记忆，是记忆构建的基础。
+
+---
+
+## <a name="17"></a>17. 由测试套件之美引导 
+<small>🔗 [mattkeeter.com](https://www.mattkeeter.com/blog/2025-01-20-guided/): Guided by the beauty of our test suite</small>
+
+
+| 🔥: 88 \| 💬: [7](https://news.ycombinator.com/item?id=42781922) \| 🗓️ 2025-01-21
+
+
+<br />
+Matt Keeter 分享了他在改进软件测试方面的经验。他通过设置 **CI 测试**、**快照测试** 和 **静态无崩溃证明** 来增强代码的可靠性。他还使用 **模糊测试** 来发现解释器实现中的差异，确保不同版本的代码行为一致。这些方法帮助他在不引入新问题的情况下自信地修改代码。
+
+---
+
+## <a name="18"></a>18. 关于编写AI应用的经验总结 
 <small>🔗 [seldo.com](https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far): What I've learned about writing AI apps so far</small>
 
 
@@ -214,7 +238,7 @@ Hunyuan3D 2.0 是一个先进的**大规模3D合成系统**，用于生成高分
 
 ---
 
-## <a name="17"></a>17. 波兰对美国限制AI芯片出口表示愤怒 
+## <a name="19"></a>19. 波兰对美国限制AI芯片出口表示愤怒 
 <small>🔗 [politico.eu](https://www.politico.eu/article/poland-fumes-us-block-joe-biden-ai-chips-cap-export/): Poland fumes over US block on AI chips</small>
 
 
@@ -223,30 +247,6 @@ Hunyuan3D 2.0 是一个先进的**大规模3D合成系统**，用于生成高分
 
 <br />
 波兰政府对美国限制**人工智能芯片**出口的决定表示强烈不满，认为此举可能影响其科技发展和军事建设。波兰是北约中军费支出比例最高的国家，且与美国关系密切，因此这一决定令其感到意外。波兰官员称，此举可能阻碍其**高科技产业**和**军事AI系统**的发展，并呼吁欧盟采取行动。波兰希望通过与美国的关系扭转这一局面，但反对党批评政府未能积极维护跨大西洋关系。
-
----
-
-## <a name="18"></a>18. 概念细胞帮助大脑抽象信息并构建记忆 
-<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/concept-cells-help-your-brain-abstract-information-and-build-memories-20250121/): Concept cells help your brain abstract information and build memories</small>
-
-
-| 🔥: 86 \| 💬: [7](https://news.ycombinator.com/item?id=42781846) \| 🗓️ 2025-01-21
-
-
-<br />
-**概念细胞**是大脑中负责抽象表示个体、物体和想法的神经元。研究表明，这些细胞在记忆形成和提取中起关键作用。它们对特定概念（如人物或地点）作出反应，无论概念以何种形式呈现。**概念细胞**通过抽象和关联，帮助大脑将外部信息转化为记忆，是记忆构建的基础。
-
----
-
-## <a name="19"></a>19. 由测试套件之美引导 
-<small>🔗 [mattkeeter.com](https://www.mattkeeter.com/blog/2025-01-20-guided/): Guided by the beauty of our test suite</small>
-
-
-| 🔥: 84 \| 💬: [7](https://news.ycombinator.com/item?id=42781922) \| 🗓️ 2025-01-21
-
-
-<br />
-Matt Keeter 分享了他在改进软件测试方面的经验。他通过设置 **CI 测试**、**快照测试** 和 **静态无崩溃证明** 来增强代码的可靠性。他还使用 **模糊测试** 来发现解释器实现中的差异，确保不同版本的代码行为一致。这些方法帮助他在不引入新问题的情况下自信地修改代码。
 
 ---
 
