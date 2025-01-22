@@ -26,7 +26,7 @@ tags:
 <small>🔗 [gist.github.com](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117): 0-click deanonymization attack targeting Signal, Discord, other platforms</small>
 
 
-| 🔥🔥: 996 \| 💬: [338](https://news.ycombinator.com/item?id=42780816) \| 🗓️ 2025-01-21
+| 🔥🔥: 1022 \| 💬: [354](https://news.ycombinator.com/item?id=42780816) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [apnews.com](https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41): Stargate Project: SoftBank, OpenAI, Oracle, MGX to build data centers</small>
 
 
-| 🔥🔥: 337 \| 💬: [385](https://news.ycombinator.com/item?id=42785891) \| 🗓️ 2025-01-21
+| 🔥🔥: 390 \| 💬: [456](https://news.ycombinator.com/item?id=42785891) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [amasci.com](http://amasci.com/weird/unusual/e-wall.html): Invisible Electrostatic Wall at 3M plant (1996)</small>
 
 
-| 🔥🔥: 280 \| 💬: [152](https://news.ycombinator.com/item?id=42782914) \| 🗓️ 2025-01-21
+| 🔥🔥: 289 \| 💬: [153](https://news.ycombinator.com/item?id=42782914) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -62,7 +62,7 @@ tags:
 <small>🔗 [mstdn.chrisalemany.ca](https://mstdn.chrisalemany.ca/@chris/113864600222476627): Meta Censoring '#Democrat' on Instagram</small>
 
 
-| 🔥🔥: 247 \| 💬: [162](https://news.ycombinator.com/item?id=42777938) \| 🗓️ 2025-01-21
+| 🔥🔥: 248 \| 💬: [164](https://news.ycombinator.com/item?id=42777938) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -74,7 +74,7 @@ tags:
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/calm-tech): Calm tech certification "rewards" less distracting tech</small>
 
 
-| 🔥🔥: 196 \| 💬: [54](https://news.ycombinator.com/item?id=42780953) \| 🗓️ 2025-01-21
+| 🔥🔥: 206 \| 💬: [56](https://news.ycombinator.com/item?id=42780953) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -86,7 +86,7 @@ tags:
 <small>🔗 [github.com](https://github.com/MoonshotAI/Kimi-k1.5): Kimi K1.5: Scaling Reinforcement Learning with LLMs</small>
 
 
-| 🔥🔥: 183 \| 💬: [26](https://news.ycombinator.com/item?id=42777857) \| 🗓️ 2025-01-21
+| 🔥🔥: 185 \| 💬: [26](https://news.ycombinator.com/item?id=42777857) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -98,7 +98,7 @@ Kimi K1.5 是一款多模态大语言模型，通过**强化学习（RL）**实�
 <small>🔗 [theguardian.com](https://www.theguardian.com/business/2025/jan/21/its-a-nightmare-couriers-mystified-by-the-algorithms-that-control-their-jobs): Couriers mystified by the algorithms that control their jobs</small>
 
 
-| 🔥🔥: 177 \| 💬: [221](https://news.ycombinator.com/item?id=42779544) \| 🗓️ 2025-01-21
+| 🔥🔥: 178 \| 💬: [226](https://news.ycombinator.com/item?id=42779544) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -106,23 +106,11 @@ Kimi K1.5 是一款多模态大语言模型，通过**强化学习（RL）**实�
 
 ---
 
-## <a name="8"></a>8. 我们应该在基督教护教学中使用AI和LLM吗？ 
-<small>🔗 [lukeplant.me.uk](https://lukeplant.me.uk/blog/posts/should-we-use-llms-for-christian-apologetics/): Should we use AI and LLMs for Christian apologetics? (2024)</small>
-
-
-| 🔥🔥: 139 \| 💬: [192](https://news.ycombinator.com/item?id=42781293) \| 🗓️ 2025-01-21
-
-
-<br />
-作者反对在基督教护教网站中使用**大型语言模型（LLM）**，认为其本质是生成“**虚假信息**”的工具，无法保证准确性。尽管LLM有时能提供真实信息，但其设计并不以追求真理为目标，容易产生“幻觉”或捏造内容。作者强调，在护教领域，**真理**至关重要，使用LLM可能损害基督教的可信度。
-
----
-
-## <a name="9"></a>9. Show HN: 我制作了一款使用NFC作为物理开关来屏蔽干扰的应用 
+## <a name="8"></a>8. Show HN: 我制作了一款使用NFC作为物理开关来屏蔽干扰的应用 
 <small>🔗 [foqos.app](https://www.foqos.app): Show HN: I made a app that uses NFC as a physical switch to block distractions</small>
 
 
-| 🔥🔥: 136 \| 💬: [88](https://news.ycombinator.com/item?id=42782295) \| 🗓️ 2025-01-21
+| 🔥🔥: 140 \| 💬: [90](https://news.ycombinator.com/item?id=42782295) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -130,11 +118,23 @@ Foqos 是一款帮助用户**物理屏蔽干扰应用**的工具，支持**多�
 
 ---
 
+## <a name="9"></a>9. 我们应该在基督教护教学中使用AI和LLM吗？ 
+<small>🔗 [lukeplant.me.uk](https://lukeplant.me.uk/blog/posts/should-we-use-llms-for-christian-apologetics/): Should we use AI and LLMs for Christian apologetics? (2024)</small>
+
+
+| 🔥🔥: 139 \| 💬: [194](https://news.ycombinator.com/item?id=42781293) \| 🗓️ 2025-01-21
+
+
+<br />
+作者反对在基督教护教网站中使用**大型语言模型（LLM）**，认为其本质是生成“**虚假信息**”的工具，无法保证准确性。尽管LLM有时能提供真实信息，但其设计并不以追求真理为目标，容易产生“幻觉”或捏造内容。作者强调，在护教领域，**真理**至关重要，使用LLM可能损害基督教的可信度。
+
+---
+
 ## <a name="10"></a>10. 墨卡托：极限 
 <small>🔗 [mrgris.com](https://mrgris.com/projects/merc-extreme/): Mercator: Extreme</small>
 
 
-| 🔥🔥: 111 \| 💬: [23](https://news.ycombinator.com/item?id=42783948) \| 🗓️ 2025-01-21
+| 🔥🔥: 119 \| 💬: [25](https://news.ycombinator.com/item?id=42783948) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -142,23 +142,11 @@ Drew Roos 创作的 **墨卡托：极限** 是一款互动地图工具，展示�
 
 ---
 
-## <a name="11"></a>11. Go 2 应该摆脱 Context（2017） 
-<small>🔗 [faiface.github.io](https://faiface.github.io/post/context-should-go-away-go2/): Context should go away for Go 2 (2017)</small>
-
-
-| 🔥🔥: 108 \| 💬: [133](https://news.ycombinator.com/item?id=42777625) \| 🗓️ 2025-01-21
-
-
-<br />
-本文讨论了 Go 语言中 **`context`** 包的问题，认为它虽然解决了 **取消操作** 的难题，但其设计存在诸多缺陷。**`context`** 像病毒一样传播，强制所有可能耗时的函数都接受它，增加了代码复杂性。作者认为 Go 2 应在语言层面提供更简洁、高效且非侵入式的取消机制，而不是依赖当前的 **`context`** 包。
-
----
-
-## <a name="12"></a>12. Show HN: Printercow – 将任何热敏打印机变成 API 端点 
+## <a name="11"></a>11. Show HN: Printercow – 将任何热敏打印机变成 API 端点 
 <small>🔗 [printercow.com](https://www.printercow.com/): Show HN: Printercow – Turn any thermal printer into an API endpoint</small>
 
 
-| 🔥🔥: 106 \| 💬: [83](https://news.ycombinator.com/item?id=42778771) \| 🗓️ 2025-01-21
+| 🔥🔥: 113 \| 💬: [85](https://news.ycombinator.com/item?id=42778771) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -166,11 +154,23 @@ Printercow 是一个工具，**将热敏打印机**转换为可通过 HTTP 访�
 
 ---
 
+## <a name="12"></a>12. Go 2 应该摆脱 Context（2017） 
+<small>🔗 [faiface.github.io](https://faiface.github.io/post/context-should-go-away-go2/): Context should go away for Go 2 (2017)</small>
+
+
+| 🔥🔥: 110 \| 💬: [136](https://news.ycombinator.com/item?id=42777625) \| 🗓️ 2025-01-21
+
+
+<br />
+本文讨论了 Go 语言中 **`context`** 包的问题，认为它虽然解决了 **取消操作** 的难题，但其设计存在诸多缺陷。**`context`** 像病毒一样传播，强制所有可能耗时的函数都接受它，增加了代码复杂性。作者认为 Go 2 应在语言层面提供更简洁、高效且非侵入式的取消机制，而不是依赖当前的 **`context`** 包。
+
+---
+
 ## <a name="13"></a>13. 我们失去了对复杂性的尊重 
 <small>🔗 [wilsoniumite.com](https://wilsoniumite.com/2025/01/21/weve-lost-our-respect-for-complexity/): We've lost our respect for complexity</small>
 
 
-| 🔥🔥: 103 \| 💬: [59](https://news.ycombinator.com/item?id=42777715) \| 🗓️ 2025-01-21
+| 🔥🔥: 103 \| 💬: [60](https://news.ycombinator.com/item?id=42777715) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -178,7 +178,31 @@ Printercow 是一个工具，**将热敏打印机**转换为可通过 HTTP 访�
 
 ---
 
-## <a name="14"></a>14. 关于编写AI应用的经验总结 
+## <a name="14"></a>14. Hunyuan3D 2.0 – 高分辨率3D资产生成 
+<small>🔗 [github.com](https://github.com/Tencent/Hunyuan3D-2): Hunyuan3D 2.0 – High-Resolution 3D Assets Generation</small>
+
+
+| 🔥🔥: 103 \| 💬: [38](https://news.ycombinator.com/item?id=42786040) \| 🗓️ 2025-01-21
+
+
+<br />
+Hunyuan3D 2.0 是一个先进的**大规模3D合成系统**，用于生成高分辨率的纹理3D资产。该系统包括两个核心组件：**Hunyuan3D-DiT**（形状生成模型）和**Hunyuan3D-Paint**（纹理合成模型）。通过两阶段生成流程，Hunyuan3D 2.0 在几何细节、纹理质量和条件对齐方面超越了现有的开源和闭源模型。用户可以通过Hunyuan3D-Studio平台轻松创建和操作3D资产。
+
+---
+
+## <a name="15"></a>15. 拉斐尔·阿劳霍的20幅迷人几何杰作（2024年） 
+<small>🔗 [abakcus.com](https://abakcus.com/rafael-araujo-geometrical-masterpieces/): Rafael Araujo's 20 Mesmerizing Geometrical Masterpieces (2024)</small>
+
+
+| 🔥: 88 \| 💬: [9](https://news.ycombinator.com/item?id=42783543) \| 🗓️ 2025-01-21
+
+
+<br />
+拉斐尔·阿劳霍以其**精确的几何设计**闻名，作品灵感源自自然界的**黄金比例**。他的20幅杰作展示了**数学与艺术的完美结合**，令人叹为观止。这些作品不仅视觉上震撼，还体现了科学与美学的深度交融。
+
+---
+
+## <a name="16"></a>16. 关于编写AI应用的经验总结 
 <small>🔗 [seldo.com](https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far): What I've learned about writing AI apps so far</small>
 
 
@@ -190,19 +214,7 @@ Printercow 是一个工具，**将热敏打印机**转换为可通过 HTTP 访�
 
 ---
 
-## <a name="15"></a>15. Hunyuan3D 2.0 – 高分辨率3D资产生成 
-<small>🔗 [github.com](https://github.com/Tencent/Hunyuan3D-2): Hunyuan3D 2.0 – High-Resolution 3D Assets Generation</small>
-
-
-| 🔥: 87 \| 💬: [27](https://news.ycombinator.com/item?id=42786040) \| 🗓️ 2025-01-21
-
-
-<br />
-Hunyuan3D 2.0 是一个先进的**大规模3D合成系统**，用于生成高分辨率的纹理3D资产。该系统包括两个核心组件：**Hunyuan3D-DiT**（形状生成模型）和**Hunyuan3D-Paint**（纹理合成模型）。通过两阶段生成流程，Hunyuan3D 2.0 在几何细节、纹理质量和条件对齐方面超越了现有的开源和闭源模型。用户可以通过Hunyuan3D-Studio平台轻松创建和操作3D资产。
-
----
-
-## <a name="16"></a>16. 波兰对美国限制AI芯片出口表示愤怒 
+## <a name="17"></a>17. 波兰对美国限制AI芯片出口表示愤怒 
 <small>🔗 [politico.eu](https://www.politico.eu/article/poland-fumes-us-block-joe-biden-ai-chips-cap-export/): Poland fumes over US block on AI chips</small>
 
 
@@ -214,39 +226,27 @@ Hunyuan3D 2.0 是一个先进的**大规模3D合成系统**，用于生成高分
 
 ---
 
-## <a name="17"></a>17. 拉斐尔·阿劳霍的20幅迷人几何杰作（2024年） 
-<small>🔗 [abakcus.com](https://abakcus.com/rafael-araujo-geometrical-masterpieces/): Rafael Araujo's 20 Mesmerizing Geometrical Masterpieces (2024)</small>
-
-
-| 🔥: 82 \| 💬: [9](https://news.ycombinator.com/item?id=42783543) \| 🗓️ 2025-01-21
-
-
-<br />
-拉斐尔·阿劳霍以其**精确的几何设计**闻名，作品灵感源自自然界的**黄金比例**。他的20幅杰作展示了**数学与艺术的完美结合**，令人叹为观止。这些作品不仅视觉上震撼，还体现了科学与美学的深度交融。
-
----
-
-## <a name="18"></a>18. 由测试套件之美引导 
-<small>🔗 [mattkeeter.com](https://www.mattkeeter.com/blog/2025-01-20-guided/): Guided by the beauty of our test suite</small>
-
-
-| 🔥: 81 \| 💬: [6](https://news.ycombinator.com/item?id=42781922) \| 🗓️ 2025-01-21
-
-
-<br />
-Matt Keeter 分享了他在改进软件测试方面的经验。他通过设置 **CI 测试**、**快照测试** 和 **静态无崩溃证明** 来增强代码的可靠性。他还使用 **模糊测试** 来发现解释器实现中的差异，确保不同版本的代码行为一致。这些方法帮助他在不引入新问题的情况下自信地修改代码。
-
----
-
-## <a name="19"></a>19. 概念细胞帮助大脑抽象信息并构建记忆 
+## <a name="18"></a>18. 概念细胞帮助大脑抽象信息并构建记忆 
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/concept-cells-help-your-brain-abstract-information-and-build-memories-20250121/): Concept cells help your brain abstract information and build memories</small>
 
 
-| 🔥: 79 \| 💬: [7](https://news.ycombinator.com/item?id=42781846) \| 🗓️ 2025-01-21
+| 🔥: 84 \| 💬: [7](https://news.ycombinator.com/item?id=42781846) \| 🗓️ 2025-01-21
 
 
 <br />
 **概念细胞**是大脑中负责抽象表示个体、物体和想法的神经元。研究表明，这些细胞在记忆形成和提取中起关键作用。它们对特定概念（如人物或地点）作出反应，无论概念以何种形式呈现。**概念细胞**通过抽象和关联，帮助大脑将外部信息转化为记忆，是记忆构建的基础。
+
+---
+
+## <a name="19"></a>19. 由测试套件之美引导 
+<small>🔗 [mattkeeter.com](https://www.mattkeeter.com/blog/2025-01-20-guided/): Guided by the beauty of our test suite</small>
+
+
+| 🔥: 84 \| 💬: [7](https://news.ycombinator.com/item?id=42781922) \| 🗓️ 2025-01-21
+
+
+<br />
+Matt Keeter 分享了他在改进软件测试方面的经验。他通过设置 **CI 测试**、**快照测试** 和 **静态无崩溃证明** 来增强代码的可靠性。他还使用 **模糊测试** 来发现解释器实现中的差异，确保不同版本的代码行为一致。这些方法帮助他在不引入新问题的情况下自信地修改代码。
 
 ---
 
