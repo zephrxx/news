@@ -26,7 +26,7 @@ tags:
 <small>🔗 [gist.github.com](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117): 0-click deanonymization attack targeting Signal, Discord, other platforms</small>
 
 
-| 🔥🔥: 1120 \| 💬: [364](https://news.ycombinator.com/item?id=42780816) \| 🗓️ 2025-01-21
+| 🔥🔥: 1137 \| 💬: [365](https://news.ycombinator.com/item?id=42780816) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [apnews.com](https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41): Stargate Project: SoftBank, OpenAI, Oracle, MGX to build data centers</small>
 
 
-| 🔥🔥: 544 \| 💬: [584](https://news.ycombinator.com/item?id=42785891) \| 🗓️ 2025-01-21
+| 🔥🔥: 573 \| 💬: [611](https://news.ycombinator.com/item?id=42785891) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [amasci.com](http://amasci.com/weird/unusual/e-wall.html): Invisible Electrostatic Wall at 3M plant (1996)</small>
 
 
-| 🔥🔥: 313 \| 💬: [158](https://news.ycombinator.com/item?id=42782914) \| 🗓️ 2025-01-21
+| 🔥🔥: 318 \| 💬: [162](https://news.ycombinator.com/item?id=42782914) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -62,7 +62,7 @@ tags:
 <small>🔗 [mstdn.chrisalemany.ca](https://mstdn.chrisalemany.ca/@chris/113864600222476627): Meta Censoring '#Democrat' on Instagram</small>
 
 
-| 🔥🔥: 254 \| 💬: [164](https://news.ycombinator.com/item?id=42777938) \| 🗓️ 2025-01-21
+| 🔥🔥: 254 \| 💬: [166](https://news.ycombinator.com/item?id=42777938) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -74,7 +74,7 @@ tags:
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/calm-tech): Calm tech certification "rewards" less distracting tech</small>
 
 
-| 🔥🔥: 243 \| 💬: [67](https://news.ycombinator.com/item?id=42780953) \| 🗓️ 2025-01-21
+| 🔥🔥: 248 \| 💬: [68](https://news.ycombinator.com/item?id=42780953) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -98,7 +98,7 @@ Kimi K1.5 是一款多模态大语言模型，通过**强化学习（RL）**实�
 <small>🔗 [theguardian.com](https://www.theguardian.com/business/2025/jan/21/its-a-nightmare-couriers-mystified-by-the-algorithms-that-control-their-jobs): Couriers mystified by the algorithms that control their jobs</small>
 
 
-| 🔥🔥: 183 \| 💬: [237](https://news.ycombinator.com/item?id=42779544) \| 🗓️ 2025-01-21
+| 🔥🔥: 186 \| 💬: [240](https://news.ycombinator.com/item?id=42779544) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -106,23 +106,11 @@ Kimi K1.5 是一款多模态大语言模型，通过**强化学习（RL）**实�
 
 ---
 
-## <a name="8"></a>8. Show HN: 我制作了一款使用NFC作为物理开关来屏蔽干扰的应用 
-<small>🔗 [foqos.app](https://www.foqos.app): Show HN: I made a app that uses NFC as a physical switch to block distractions</small>
-
-
-| 🔥🔥: 160 \| 💬: [91](https://news.ycombinator.com/item?id=42782295) \| 🗓️ 2025-01-21
-
-
-<br />
-Foqos 是一款帮助用户**物理屏蔽干扰应用**的工具，支持**多场景配置文件**，如工作、学习或睡前模式。用户可以通过**NFC标签**快速切换配置文件，无需解锁设备或打开应用。应用完全免费、私密且开源，无订阅、无跟踪、无数据收集。
-
----
-
-## <a name="9"></a>9. Hunyuan3D 2.0 – 高分辨率3D资产生成 
+## <a name="8"></a>8. Hunyuan3D 2.0 – 高分辨率3D资产生成 
 <small>🔗 [github.com](https://github.com/Tencent/Hunyuan3D-2): Hunyuan3D 2.0 – High-Resolution 3D Assets Generation</small>
 
 
-| 🔥🔥: 156 \| 💬: [68](https://news.ycombinator.com/item?id=42786040) \| 🗓️ 2025-01-21
+| 🔥🔥: 172 \| 💬: [73](https://news.ycombinator.com/item?id=42786040) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -130,11 +118,23 @@ Hunyuan3D 2.0 是一个先进的**大规模3D合成系统**，用于生成高分
 
 ---
 
+## <a name="9"></a>9. Show HN: 我制作了一款使用NFC作为物理开关来屏蔽干扰的应用 
+<small>🔗 [foqos.app](https://www.foqos.app): Show HN: I made a app that uses NFC as a physical switch to block distractions</small>
+
+
+| 🔥🔥: 167 \| 💬: [93](https://news.ycombinator.com/item?id=42782295) \| 🗓️ 2025-01-21
+
+
+<br />
+Foqos 是一款帮助用户**物理屏蔽干扰应用**的工具，支持**多场景配置文件**，如工作、学习或睡前模式。用户可以通过**NFC标签**快速切换配置文件，无需解锁设备或打开应用。应用完全免费、私密且开源，无订阅、无跟踪、无数据收集。
+
+---
+
 ## <a name="10"></a>10. 我们应该在基督教护教学中使用AI和LLM吗？ 
 <small>🔗 [lukeplant.me.uk](https://lukeplant.me.uk/blog/posts/should-we-use-llms-for-christian-apologetics/): Should we use AI and LLMs for Christian apologetics? (2024)</small>
 
 
-| 🔥🔥: 145 \| 💬: [207](https://news.ycombinator.com/item?id=42781293) \| 🗓️ 2025-01-21
+| 🔥🔥: 146 \| 💬: [208](https://news.ycombinator.com/item?id=42781293) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -146,7 +146,7 @@ Hunyuan3D 2.0 是一个先进的**大规模3D合成系统**，用于生成高分
 <small>🔗 [mrgris.com](https://mrgris.com/projects/merc-extreme/): Mercator: Extreme</small>
 
 
-| 🔥🔥: 142 \| 💬: [28](https://news.ycombinator.com/item?id=42783948) \| 🗓️ 2025-01-21
+| 🔥🔥: 143 \| 💬: [30](https://news.ycombinator.com/item?id=42783948) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -154,11 +154,23 @@ Drew Roos 创作的 **墨卡托：极限** 是一款互动地图工具，展示�
 
 ---
 
-## <a name="12"></a>12. Show HN: Printercow – 将任何热敏打印机变成 API 端点 
+## <a name="12"></a>12. 拉环罐顶上的凸起是什么？ 
+<small>🔗 [old.reddit.com](https://old.reddit.com/r/whatisthisthing/comments/1i5ztq4/comment/m8a7m8m/): What are these bumps on the top of a pull-tab can?</small>
+
+
+| 🔥🔥: 125 \| 💬: [9](https://news.ycombinator.com/item?id=42788455) \| 🗓️ 2025-01-21
+
+
+<br />
+这些凸起的主要功能是**防止拉环被意外拉开**，并在制造过程中帮助对齐罐盖。它们还提供了**更好的杠杆作用**，使拉环更容易拉开。此外，同心圆结构有助于**防止罐体变形**，保护密封性。这些设计在高速生产线中经过多次测试和改进，以确保其功能性和耐用性。
+
+---
+
+## <a name="13"></a>13. Show HN: Printercow – 将任何热敏打印机变成 API 端点 
 <small>🔗 [printercow.com](https://www.printercow.com/): Show HN: Printercow – Turn any thermal printer into an API endpoint</small>
 
 
-| 🔥🔥: 120 \| 💬: [91](https://news.ycombinator.com/item?id=42778771) \| 🗓️ 2025-01-21
+| 🔥🔥: 124 \| 💬: [93](https://news.ycombinator.com/item?id=42778771) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -166,7 +178,7 @@ Printercow 是一个工具，**将热敏打印机**转换为可通过 HTTP 访�
 
 ---
 
-## <a name="13"></a>13. Go 2 应该摆脱 Context（2017） 
+## <a name="14"></a>14. Go 2 应该摆脱 Context（2017） 
 <small>🔗 [faiface.github.io](https://faiface.github.io/post/context-should-go-away-go2/): Context should go away for Go 2 (2017)</small>
 
 
@@ -178,23 +190,11 @@ Printercow 是一个工具，**将热敏打印机**转换为可通过 HTTP 访�
 
 ---
 
-## <a name="14"></a>14. 拉环罐顶上的凸起是什么？ 
-<small>🔗 [old.reddit.com](https://old.reddit.com/r/whatisthisthing/comments/1i5ztq4/comment/m8a7m8m/): What are these bumps on the top of a pull-tab can?</small>
-
-
-| 🔥🔥: 110 \| 💬: [7](https://news.ycombinator.com/item?id=42788455) \| 🗓️ 2025-01-21
-
-
-<br />
-这些凸起的主要功能是**防止拉环被意外拉开**，并在制造过程中帮助对齐罐盖。它们还提供了**更好的杠杆作用**，使拉环更容易拉开。此外，同心圆结构有助于**防止罐体变形**，保护密封性。这些设计在高速生产线中经过多次测试和改进，以确保其功能性和耐用性。
-
----
-
 ## <a name="15"></a>15. 我们失去了对复杂性的尊重 
 <small>🔗 [wilsoniumite.com](https://wilsoniumite.com/2025/01/21/weve-lost-our-respect-for-complexity/): We've lost our respect for complexity</small>
 
 
-| 🔥🔥: 103 \| 💬: [61](https://news.ycombinator.com/item?id=42777715) \| 🗓️ 2025-01-21
+| 🔥🔥: 104 \| 💬: [61](https://news.ycombinator.com/item?id=42777715) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -206,7 +206,7 @@ Printercow 是一个工具，**将热敏打印机**转换为可通过 HTTP 访�
 <small>🔗 [abakcus.com](https://abakcus.com/rafael-araujo-geometrical-masterpieces/): Rafael Araujo's 20 Mesmerizing Geometrical Masterpieces (2024)</small>
 
 
-| 🔥: 99 \| 💬: [13](https://news.ycombinator.com/item?id=42783543) \| 🗓️ 2025-01-21
+| 🔥: 100 \| 💬: [13](https://news.ycombinator.com/item?id=42783543) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -218,7 +218,7 @@ Printercow 是一个工具，**将热敏打印机**转换为可通过 HTTP 访�
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/concept-cells-help-your-brain-abstract-information-and-build-memories-20250121/): Concept cells help your brain abstract information and build memories</small>
 
 
-| 🔥: 96 \| 💬: [7](https://news.ycombinator.com/item?id=42781846) \| 🗓️ 2025-01-21
+| 🔥: 98 \| 💬: [7](https://news.ycombinator.com/item?id=42781846) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -230,7 +230,7 @@ Printercow 是一个工具，**将热敏打印机**转换为可通过 HTTP 访�
 <small>🔗 [mattkeeter.com](https://www.mattkeeter.com/blog/2025-01-20-guided/): Guided by the beauty of our test suite</small>
 
 
-| 🔥: 89 \| 💬: [9](https://news.ycombinator.com/item?id=42781922) \| 🗓️ 2025-01-21
+| 🔥: 93 \| 💬: [9](https://news.ycombinator.com/item?id=42781922) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -242,7 +242,7 @@ Matt Keeter 分享了他在改进软件测试方面的经验。他通过设置 *
 <small>🔗 [seldo.com](https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far): What I've learned about writing AI apps so far</small>
 
 
-| 🔥: 87 \| 💬: [24](https://news.ycombinator.com/item?id=42778531) \| 🗓️ 2025-01-21
+| 🔥: 88 \| 💬: [24](https://news.ycombinator.com/item?id=42778531) \| 🗓️ 2025-01-21
 
 
 <br />
