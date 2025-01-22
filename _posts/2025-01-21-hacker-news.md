@@ -26,7 +26,7 @@ tags:
 <small>🔗 [gist.github.com](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117): 0-click deanonymization attack targeting Signal, Discord, other platforms</small>
 
 
-| 🔥🔥: 1022 \| 💬: [354](https://news.ycombinator.com/item?id=42780816) \| 🗓️ 2025-01-21
+| 🔥🔥: 1050 \| 💬: [357](https://news.ycombinator.com/item?id=42780816) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [apnews.com](https://apnews.com/article/trump-ai-openai-oracle-softbank-son-altman-ellison-be261f8a8ee07a0623d4170397348c41): Stargate Project: SoftBank, OpenAI, Oracle, MGX to build data centers</small>
 
 
-| 🔥🔥: 390 \| 💬: [456](https://news.ycombinator.com/item?id=42785891) \| 🗓️ 2025-01-21
+| 🔥🔥: 438 \| 💬: [499](https://news.ycombinator.com/item?id=42785891) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [amasci.com](http://amasci.com/weird/unusual/e-wall.html): Invisible Electrostatic Wall at 3M plant (1996)</small>
 
 
-| 🔥🔥: 289 \| 💬: [153](https://news.ycombinator.com/item?id=42782914) \| 🗓️ 2025-01-21
+| 🔥🔥: 294 \| 💬: [153](https://news.ycombinator.com/item?id=42782914) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -62,7 +62,7 @@ tags:
 <small>🔗 [mstdn.chrisalemany.ca](https://mstdn.chrisalemany.ca/@chris/113864600222476627): Meta Censoring '#Democrat' on Instagram</small>
 
 
-| 🔥🔥: 248 \| 💬: [164](https://news.ycombinator.com/item?id=42777938) \| 🗓️ 2025-01-21
+| 🔥🔥: 249 \| 💬: [164](https://news.ycombinator.com/item?id=42777938) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -74,7 +74,7 @@ tags:
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/calm-tech): Calm tech certification "rewards" less distracting tech</small>
 
 
-| 🔥🔥: 206 \| 💬: [56](https://news.ycombinator.com/item?id=42780953) \| 🗓️ 2025-01-21
+| 🔥🔥: 214 \| 💬: [58](https://news.ycombinator.com/item?id=42780953) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -98,7 +98,7 @@ Kimi K1.5 是一款多模态大语言模型，通过**强化学习（RL）**实�
 <small>🔗 [theguardian.com](https://www.theguardian.com/business/2025/jan/21/its-a-nightmare-couriers-mystified-by-the-algorithms-that-control-their-jobs): Couriers mystified by the algorithms that control their jobs</small>
 
 
-| 🔥🔥: 178 \| 💬: [226](https://news.ycombinator.com/item?id=42779544) \| 🗓️ 2025-01-21
+| 🔥🔥: 180 \| 💬: [230](https://news.ycombinator.com/item?id=42779544) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -110,7 +110,7 @@ Kimi K1.5 是一款多模态大语言模型，通过**强化学习（RL）**实�
 <small>🔗 [foqos.app](https://www.foqos.app): Show HN: I made a app that uses NFC as a physical switch to block distractions</small>
 
 
-| 🔥🔥: 140 \| 💬: [90](https://news.ycombinator.com/item?id=42782295) \| 🗓️ 2025-01-21
+| 🔥🔥: 146 \| 💬: [90](https://news.ycombinator.com/item?id=42782295) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -122,7 +122,7 @@ Foqos 是一款帮助用户**物理屏蔽干扰应用**的工具，支持**多�
 <small>🔗 [lukeplant.me.uk](https://lukeplant.me.uk/blog/posts/should-we-use-llms-for-christian-apologetics/): Should we use AI and LLMs for Christian apologetics? (2024)</small>
 
 
-| 🔥🔥: 139 \| 💬: [194](https://news.ycombinator.com/item?id=42781293) \| 🗓️ 2025-01-21
+| 🔥🔥: 141 \| 💬: [198](https://news.ycombinator.com/item?id=42781293) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -134,7 +134,7 @@ Foqos 是一款帮助用户**物理屏蔽干扰应用**的工具，支持**多�
 <small>🔗 [mrgris.com](https://mrgris.com/projects/merc-extreme/): Mercator: Extreme</small>
 
 
-| 🔥🔥: 119 \| 💬: [25](https://news.ycombinator.com/item?id=42783948) \| 🗓️ 2025-01-21
+| 🔥🔥: 127 \| 💬: [25](https://news.ycombinator.com/item?id=42783948) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -146,7 +146,7 @@ Drew Roos 创作的 **墨卡托：极限** 是一款互动地图工具，展示�
 <small>🔗 [printercow.com](https://www.printercow.com/): Show HN: Printercow – Turn any thermal printer into an API endpoint</small>
 
 
-| 🔥🔥: 113 \| 💬: [85](https://news.ycombinator.com/item?id=42778771) \| 🗓️ 2025-01-21
+| 🔥🔥: 116 \| 💬: [89](https://news.ycombinator.com/item?id=42778771) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -154,11 +154,23 @@ Printercow 是一个工具，**将热敏打印机**转换为可通过 HTTP 访�
 
 ---
 
-## <a name="12"></a>12. Go 2 应该摆脱 Context（2017） 
+## <a name="12"></a>12. Hunyuan3D 2.0 – 高分辨率3D资产生成 
+<small>🔗 [github.com](https://github.com/Tencent/Hunyuan3D-2): Hunyuan3D 2.0 – High-Resolution 3D Assets Generation</small>
+
+
+| 🔥🔥: 116 \| 💬: [46](https://news.ycombinator.com/item?id=42786040) \| 🗓️ 2025-01-21
+
+
+<br />
+Hunyuan3D 2.0 是一个先进的**大规模3D合成系统**，用于生成高分辨率的纹理3D资产。该系统包括两个核心组件：**Hunyuan3D-DiT**（形状生成模型）和**Hunyuan3D-Paint**（纹理合成模型）。通过两阶段生成流程，Hunyuan3D 2.0 在几何细节、纹理质量和条件对齐方面超越了现有的开源和闭源模型。用户可以通过Hunyuan3D-Studio平台轻松创建和操作3D资产。
+
+---
+
+## <a name="13"></a>13. Go 2 应该摆脱 Context（2017） 
 <small>🔗 [faiface.github.io](https://faiface.github.io/post/context-should-go-away-go2/): Context should go away for Go 2 (2017)</small>
 
 
-| 🔥🔥: 110 \| 💬: [136](https://news.ycombinator.com/item?id=42777625) \| 🗓️ 2025-01-21
+| 🔥🔥: 111 \| 💬: [139](https://news.ycombinator.com/item?id=42777625) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -166,7 +178,7 @@ Printercow 是一个工具，**将热敏打印机**转换为可通过 HTTP 访�
 
 ---
 
-## <a name="13"></a>13. 我们失去了对复杂性的尊重 
+## <a name="14"></a>14. 我们失去了对复杂性的尊重 
 <small>🔗 [wilsoniumite.com](https://wilsoniumite.com/2025/01/21/weve-lost-our-respect-for-complexity/): We've lost our respect for complexity</small>
 
 
@@ -178,23 +190,11 @@ Printercow 是一个工具，**将热敏打印机**转换为可通过 HTTP 访�
 
 ---
 
-## <a name="14"></a>14. Hunyuan3D 2.0 – 高分辨率3D资产生成 
-<small>🔗 [github.com](https://github.com/Tencent/Hunyuan3D-2): Hunyuan3D 2.0 – High-Resolution 3D Assets Generation</small>
-
-
-| 🔥🔥: 103 \| 💬: [38](https://news.ycombinator.com/item?id=42786040) \| 🗓️ 2025-01-21
-
-
-<br />
-Hunyuan3D 2.0 是一个先进的**大规模3D合成系统**，用于生成高分辨率的纹理3D资产。该系统包括两个核心组件：**Hunyuan3D-DiT**（形状生成模型）和**Hunyuan3D-Paint**（纹理合成模型）。通过两阶段生成流程，Hunyuan3D 2.0 在几何细节、纹理质量和条件对齐方面超越了现有的开源和闭源模型。用户可以通过Hunyuan3D-Studio平台轻松创建和操作3D资产。
-
----
-
 ## <a name="15"></a>15. 拉斐尔·阿劳霍的20幅迷人几何杰作（2024年） 
 <small>🔗 [abakcus.com](https://abakcus.com/rafael-araujo-geometrical-masterpieces/): Rafael Araujo's 20 Mesmerizing Geometrical Masterpieces (2024)</small>
 
 
-| 🔥: 88 \| 💬: [9](https://news.ycombinator.com/item?id=42783543) \| 🗓️ 2025-01-21
+| 🔥: 90 \| 💬: [11](https://news.ycombinator.com/item?id=42783543) \| 🗓️ 2025-01-21
 
 
 <br />
@@ -230,7 +230,7 @@ Hunyuan3D 2.0 是一个先进的**大规模3D合成系统**，用于生成高分
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/concept-cells-help-your-brain-abstract-information-and-build-memories-20250121/): Concept cells help your brain abstract information and build memories</small>
 
 
-| 🔥: 84 \| 💬: [7](https://news.ycombinator.com/item?id=42781846) \| 🗓️ 2025-01-21
+| 🔥: 86 \| 💬: [7](https://news.ycombinator.com/item?id=42781846) \| 🗓️ 2025-01-21
 
 
 <br />
