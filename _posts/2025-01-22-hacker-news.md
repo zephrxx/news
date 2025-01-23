@@ -9,8 +9,8 @@ tags:
 
 
 1. 万事达卡DNS错误多年未被发现；
-1. TabBoo – 为你想避免的网站添加随机惊吓；
 1. Show HN: 我亲手打造了一台开源笔记本电脑；
+1. TabBoo – 为你想避免的网站添加随机惊吓；
 1. 结构无政府状态的暴政；
 1. 我与“末日刷屏”的斗争；
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/): Mastercard DNS error went unnoticed for years</small>
 
 
-| 🔥🔥: 614 \| 💬: [176](https://news.ycombinator.com/item?id=42793783) \| 🗓️ 2025-01-22
+| 🔥🔥: 637 \| 💬: [182](https://news.ycombinator.com/item?id=42793783) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -34,23 +34,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. TabBoo – 为你想避免的网站添加随机惊吓 
-<small>🔗 [tabboo.xyz](https://tabboo.xyz/): TabBoo – add random jumpscares to websites you're trying to avoid</small>
-
-
-| 🔥🔥: 351 \| 💬: [73](https://news.ycombinator.com/item?id=42795237) \| 🗓️ 2025-01-22
-
-
-<br />
-TabBoo 是一款浏览器扩展，旨在通过**随机惊吓**帮助用户摆脱对某些网站的**成瘾性循环**。安装后，它会利用**厌恶条件反射**，让你在访问特定网站时感到不适，从而减少使用频率。
-
----
-
-## <a name="3"></a>3. Show HN: 我亲手打造了一台开源笔记本电脑 
+## <a name="2"></a>2. Show HN: 我亲手打造了一台开源笔记本电脑 
 <small>🔗 [byran.ee](https://www.byran.ee/posts/creation/): Show HN: I Made an Open-Source Laptop from Scratch</small>
 
 
-| 🔥🔥: 305 \| 💬: [47](https://news.ycombinator.com/item?id=42797260) \| 🗓️ 2025-01-22
+| 🔥🔥: 407 \| 💬: [55](https://news.ycombinator.com/item?id=42797260) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -58,11 +46,23 @@ TabBoo 是一款浏览器扩展，旨在通过**随机惊吓**帮助用户摆脱
 
 ---
 
+## <a name="3"></a>3. TabBoo – 为你想避免的网站添加随机惊吓 
+<small>🔗 [tabboo.xyz](https://tabboo.xyz/): TabBoo – add random jumpscares to websites you're trying to avoid</small>
+
+
+| 🔥🔥: 377 \| 💬: [75](https://news.ycombinator.com/item?id=42795237) \| 🗓️ 2025-01-22
+
+
+<br />
+TabBoo 是一款浏览器扩展，旨在通过**随机惊吓**帮助用户摆脱对某些网站的**成瘾性循环**。安装后，它会利用**厌恶条件反射**，让你在访问特定网站时感到不适，从而减少使用频率。
+
+---
+
 ## <a name="4"></a>4. 结构无政府状态的暴政 
 <small>🔗 [jofreeman.com](https://www.jofreeman.com/joreen/tyranny.htm): The Tyranny of Structurelessness (1970)</small>
 
 
-| 🔥🔥: 288 \| 💬: [115](https://news.ycombinator.com/item?id=42793483) \| 🗓️ 2025-01-22
+| 🔥🔥: 297 \| 💬: [117](https://news.ycombinator.com/item?id=42793483) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -74,7 +74,7 @@ Jo Freeman（又名Joreen）在1970年发表的文章中批判了**无结构组�
 <small>🔗 [allthatjazz.me](https://allthatjazz.me/posts/doom-scrolling-struggles): My Struggle with Doom Scrolling</small>
 
 
-| 🔥🔥: 261 \| 💬: [254](https://news.ycombinator.com/item?id=42791428) \| 🗓️ 2025-01-22
+| 🔥🔥: 275 \| 💬: [261](https://news.ycombinator.com/item?id=42791428) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -86,7 +86,7 @@ Jo Freeman（又名Joreen）在1970年发表的文章中批判了**无结构组�
 <small>🔗 [rustle.ca](https://rustle.ca/posts/articles/work-from-home-lighting): How to improve your WFH lighting to reduce eye strain</small>
 
 
-| 🔥🔥: 233 \| 💬: [115](https://news.ycombinator.com/item?id=42796950) \| 🗓️ 2025-01-22
+| 🔥🔥: 258 \| 💬: [127](https://news.ycombinator.com/item?id=42796950) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -98,7 +98,7 @@ Jo Freeman（又名Joreen）在1970年发表的文章中批判了**无结构组�
 <small>🔗 [stratoshark.org](https://stratoshark.org/): Show HN: Stratoshark, a sibling application to Wireshark</small>
 
 
-| 🔥🔥: 201 \| 💬: [39](https://news.ycombinator.com/item?id=42793777) \| 🗓️ 2025-01-22
+| 🔥🔥: 219 \| 💬: [39](https://news.ycombinator.com/item?id=42793777) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -110,7 +110,7 @@ Stratoshark 是一款由 Sysdig 为社区开发的工具，**将 Wireshark 的�
 <small>🔗 [technologyreview.com](https://www.technologyreview.com/2025/01/21/1110260/openai-ups-its-lobbying-efforts-nearly-seven-fold/): OpenAI has upped its lobbying efforts nearly sevenfold</small>
 
 
-| 🔥🔥: 192 \| 💬: [149](https://news.ycombinator.com/item?id=42793567) \| 🗓️ 2025-01-22
+| 🔥🔥: 197 \| 💬: [158](https://news.ycombinator.com/item?id=42793567) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -122,7 +122,7 @@ OpenAI在2024年花费**176万美元**用于政府游说，较2023年的26万美
 <small>🔗 [simplecpudesign.com](http://simplecpudesign.com/): Simple CPU Design</small>
 
 
-| 🔥🔥: 184 \| 💬: [34](https://news.ycombinator.com/item?id=42793597) \| 🗓️ 2025-01-22
+| 🔥🔥: 191 \| 💬: [35](https://news.ycombinator.com/item?id=42793597) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -130,11 +130,23 @@ OpenAI在2024年花费**176万美元**用于政府游说，较2023年的26万美
 
 ---
 
-## <a name="10"></a>10. Show HN: NotepadJs – 跨平台的记事本情书 
+## <a name="10"></a>10. 联邦法院最终裁定数据后门搜索违宪 
+<small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/01/victory-federal-court-finally-rules-backdoor-searches-702-data-unconstitutional): Federal Court (Finally) Rules Backdoor Searches of Data Unconstitutional</small>
+
+
+| 🔥🔥: 131 \| 💬: [23](https://news.ycombinator.com/item?id=42797756) \| 🗓️ 2025-01-22
+
+
+<br />
+联邦法院裁定，根据**第702条**收集的美国公民私人通信数据，通常需要**搜查令**才能进行后门搜索。这一裁决标志着对**第四修正案**隐私权的保护，驳回了政府长期以来的“无证搜索”做法。法院强调，即使涉及国家安全，无证搜索仍属“不合理”行为。国会应改革第702条，增加透明度并强制要求搜查令。
+
+---
+
+## <a name="11"></a>11. Show HN: NotepadJs – 跨平台的记事本情书 
 <small>🔗 [github.com](https://github.com/itamarom/notepadjs): Show HN: NotepadJs – A cross-platform love letter to Notepad</small>
 
 
-| 🔥🔥: 124 \| 💬: [90](https://news.ycombinator.com/item?id=42791820) \| 🗓️ 2025-01-22
+| 🔥🔥: 128 \| 💬: [94](https://news.ycombinator.com/item?id=42791820) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -142,11 +154,11 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 
 ---
 
-## <a name="11"></a>11. C 标准库不是线程安全的，即使安全的 Rust 也没能拯救我们 
+## <a name="12"></a>12. C 标准库不是线程安全的，即使安全的 Rust 也没能拯救我们 
 <small>🔗 [edgedb.com](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us): C stdlib isn't threadsafe and even safe Rust didn't save us</small>
 
 
-| 🔥🔥: 117 \| 💬: [147](https://news.ycombinator.com/item?id=42796058) \| 🗓️ 2025-01-22
+| 🔥🔥: 119 \| 💬: [150](https://news.ycombinator.com/item?id=42796058) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -154,7 +166,7 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 
 ---
 
-## <a name="12"></a>12. Instagram封锁民主的那一天 
+## <a name="13"></a>13. Instagram封锁民主的那一天 
 <small>🔗 [docpop.org](https://docpop.org/2025/01/the-day-instagram-blocked-democracy/): The Day Instagram Blocked Democracy</small>
 
 
@@ -166,11 +178,11 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 
 ---
 
-## <a name="13"></a>13. 极简64x4家用计算机 
+## <a name="14"></a>14. 极简64x4家用计算机 
 <small>🔗 [github.com](https://github.com/slu4coder/Minimal-64x4-Home-Computer): Minimal 64x4 Home Computer</small>
 
 
-| 🔥🔥: 101 \| 💬: [22](https://news.ycombinator.com/item?id=42794232) \| 🗓️ 2025-01-22
+| 🔥🔥: 104 \| 💬: [22](https://news.ycombinator.com/item?id=42794232) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -178,23 +190,23 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 
 ---
 
-## <a name="14"></a>14. 联邦法院最终裁定数据后门搜索违宪 
-<small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/01/victory-federal-court-finally-rules-backdoor-searches-702-data-unconstitutional): Federal Court (Finally) Rules Backdoor Searches of Data Unconstitutional</small>
+## <a name="15"></a>15. 谷歌光纤即将登陆拉斯维加斯 
+<small>🔗 [fiber.googleblog.com](https://fiber.googleblog.com/2025/01/las-vegas-get-ready-for-your-close-up.html): Google Fiber is coming to Las Vegas</small>
 
 
-| 🔥: 96 \| 💬: [17](https://news.ycombinator.com/item?id=42797756) \| 🗓️ 2025-01-22
+| 🔥: 98 \| 💬: [102](https://news.ycombinator.com/item?id=42798293) \| 🗓️ 2025-01-22
 
 
 <br />
-联邦法院裁定，根据**第702条**收集的美国公民私人通信数据，通常需要**搜查令**才能进行后门搜索。这一裁决标志着对**第四修正案**隐私权的保护，驳回了政府长期以来的“无证搜索”做法。法院强调，即使涉及国家安全，无证搜索仍属“不合理”行为。国会应改革第702条，增加透明度并强制要求搜查令。
+谷歌光纤已在拉斯维加斯西部开始**网络建设**，并计划下月在克拉克县其他地区继续施工。服务将于今年晚些时候在部分城区推出，提供**高达8G的速度**和自2012年未变的价格。居民和企业可享受高速网络服务。
 
 ---
 
-## <a name="15"></a>15. 超快癌症治疗：可能取代传统放疗的新方法 
+## <a name="16"></a>16. 超快癌症治疗：可能取代传统放疗的新方法 
 <small>🔗 [bbc.com](https://www.bbc.com/future/article/20250121-the-physics-transforming-cancer): The ultra-fast cancer treatments which could replace conventional radiotherapy</small>
 
 
-| 🔥: 77 \| 💬: [2](https://news.ycombinator.com/item?id=42797281) \| 🗓️ 2025-01-22
+| 🔥: 93 \| 💬: [2](https://news.ycombinator.com/item?id=42797281) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -202,11 +214,11 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 
 ---
 
-## <a name="16"></a>16. 佛罗里达男子食用黄油、奶酪、牛肉；胆固醇从体内渗出 
+## <a name="17"></a>17. 佛罗里达男子食用黄油、奶酪、牛肉；胆固醇从体内渗出 
 <small>🔗 [arstechnica.com](https://arstechnica.com/health/2025/01/florida-man-eats-diet-of-butter-cheese-beef-cholesterol-oozes-from-his-body/): Florida man eats diet of butter, cheese, beef; cholesterol oozes from his body</small>
 
 
-| 🔥: 68 \| 💬: [48](https://news.ycombinator.com/item?id=42798051) \| 🗓️ 2025-01-22
+| 🔥: 72 \| 💬: [57](https://news.ycombinator.com/item?id=42798051) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -214,23 +226,11 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 
 ---
 
-## <a name="17"></a>17. PyVista：3D 可视化与分析工具 
-<small>🔗 [pyvista.org](https://pyvista.org/): PyVista</small>
-
-
-| 🔥: 66 \| 💬: [7](https://news.ycombinator.com/item?id=42793162) \| 🗓️ 2025-01-22
-
-
-<br />
-PyVista 是一个**开源**的 Python 库，旨在简化 3D 数据可视化和分析，帮助科学家专注于研究问题。它基于 **VTK** 库，提供直观的接口，支持跨平台使用，适用于多个科学和工程领域。PyVista 的设计对初学者友好，支持生成高质量的 3D 可视化图像，并可与 VTK 软件无缝集成。
-
----
-
 ## <a name="18"></a>18. Show HN: BrowserAI – 直接在浏览器中使用 WebGPU 运行本地大语言模型（开源） 
 <small>🔗 [github.com](https://github.com/sauravpanda/BrowserAI): Show HN: BrowserAI – Run LLMs directly in browser using WebGPU (open source)</small>
 
 
-| 🔥: 66 \| 💬: [18](https://news.ycombinator.com/item?id=42795375) \| 🗓️ 2025-01-22
+| 🔥: 69 \| 💬: [18](https://news.ycombinator.com/item?id=42795375) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -242,7 +242,7 @@ BrowserAI 是一个开源项目，允许开发者在浏览器中**本地运行�
 <small>🔗 [theguardian.com](https://www.theguardian.com/books/2025/jan/16/open-socrates-by-agnes-callard-review-a-design-for-life): Open Socrates by Agnes Callard review – a design for life</small>
 
 
-| 🔥: 65 \| 💬: [29](https://news.ycombinator.com/item?id=42792718) \| 🗓️ 2025-01-22
+| 🔥: 66 \| 💬: [31](https://news.ycombinator.com/item?id=42792718) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -250,14 +250,14 @@ Agnes Callard的《开放苏格拉底》探讨了苏格拉底的**实质性探�
 
 ---
 
-## <a name="20"></a>20. 是时候转向OpenTofu了 
-<small>🔗 [blog.gruntwork.io](https://blog.gruntwork.io/make-the-switch-to-opentofu-6904ba95e799): It's Time to Switch to OpenTofu</small>
+## <a name="20"></a>20. PyVista：3D 可视化与分析工具 
+<small>🔗 [pyvista.org](https://pyvista.org/): PyVista</small>
 
 
-| 🔥: 65 \| 💬: [24](https://news.ycombinator.com/item?id=42794589) \| 🗓️ 2025-01-22
+| 🔥: 66 \| 💬: [7](https://news.ycombinator.com/item?id=42793162) \| 🗓️ 2025-01-22
 
 
 <br />
-自HashiCorp将Terraform从开源MPL v2许可证改为闭源BSL v1.1后，**OpenTofu**应运而生，成为开源基础设施即代码（IaC）的新选择。OpenTofu由Linux基金会支持，保持与Terraform的兼容性，并引入了社区期待已久的功能。**OpenTofu**不仅由社区驱动，还避免了单一公司控制的风险，确保其长期开源。迁移到OpenTofu简单且无风险，许多行业领导者已成功完成迁移。
+PyVista 是一个**开源**的 Python 库，旨在简化 3D 数据可视化和分析，帮助科学家专注于研究问题。它基于 **VTK** 库，提供直观的接口，支持跨平台使用，适用于多个科学和工程领域。PyVista 的设计对初学者友好，支持生成高质量的 3D 可视化图像，并可与 VTK 软件无缝集成。
 
 ---
