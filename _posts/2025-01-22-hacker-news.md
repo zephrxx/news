@@ -26,7 +26,7 @@ tags:
 <small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/): Mastercard DNS error went unnoticed for years</small>
 
 
-| 🔥🔥: 693 \| 💬: [194](https://news.ycombinator.com/item?id=42793783) \| 🗓️ 2025-01-22
+| 🔥🔥: 709 \| 💬: [195](https://news.ycombinator.com/item?id=42793783) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [byran.ee](https://www.byran.ee/posts/creation/): Show HN: I Made an Open-Source Laptop from Scratch</small>
 
 
-| 🔥🔥: 567 \| 💬: [74](https://news.ycombinator.com/item?id=42797260) \| 🗓️ 2025-01-22
+| 🔥🔥: 634 \| 💬: [103](https://news.ycombinator.com/item?id=42797260) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [tabboo.xyz](https://tabboo.xyz/): TabBoo – add random jumpscares to websites you're trying to avoid</small>
 
 
-| 🔥🔥: 431 \| 💬: [90](https://news.ycombinator.com/item?id=42795237) \| 🗓️ 2025-01-22
+| 🔥🔥: 443 \| 💬: [93](https://news.ycombinator.com/item?id=42795237) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -62,7 +62,7 @@ TabBoo 是一款浏览器扩展，旨在通过**随机惊吓**帮助用户摆脱
 <small>🔗 [jofreeman.com](https://www.jofreeman.com/joreen/tyranny.htm): The Tyranny of Structurelessness (1970)</small>
 
 
-| 🔥🔥: 314 \| 💬: [121](https://news.ycombinator.com/item?id=42793483) \| 🗓️ 2025-01-22
+| 🔥🔥: 317 \| 💬: [121](https://news.ycombinator.com/item?id=42793483) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -74,7 +74,7 @@ Jo Freeman（又名Joreen）在1970年发表的文章中批判了**无结构组�
 <small>🔗 [rustle.ca](https://rustle.ca/posts/articles/work-from-home-lighting): How to improve your WFH lighting to reduce eye strain</small>
 
 
-| 🔥🔥: 302 \| 💬: [152](https://news.ycombinator.com/item?id=42796950) \| 🗓️ 2025-01-22
+| 🔥🔥: 312 \| 💬: [160](https://news.ycombinator.com/item?id=42796950) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -86,7 +86,7 @@ Jo Freeman（又名Joreen）在1970年发表的文章中批判了**无结构组�
 <small>🔗 [allthatjazz.me](https://allthatjazz.me/posts/doom-scrolling-struggles): My Struggle with Doom Scrolling</small>
 
 
-| 🔥🔥: 291 \| 💬: [279](https://news.ycombinator.com/item?id=42791428) \| 🗓️ 2025-01-22
+| 🔥🔥: 297 \| 💬: [285](https://news.ycombinator.com/item?id=42791428) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -98,7 +98,7 @@ Jo Freeman（又名Joreen）在1970年发表的文章中批判了**无结构组�
 <small>🔗 [stratoshark.org](https://stratoshark.org/): Show HN: Stratoshark, a sibling application to Wireshark</small>
 
 
-| 🔥🔥: 236 \| 💬: [41](https://news.ycombinator.com/item?id=42793777) \| 🗓️ 2025-01-22
+| 🔥🔥: 242 \| 💬: [42](https://news.ycombinator.com/item?id=42793777) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -110,7 +110,7 @@ Stratoshark 是一款由 Sysdig 为社区开发的工具，**将 Wireshark 的�
 <small>🔗 [simplecpudesign.com](http://simplecpudesign.com/): Simple CPU Design</small>
 
 
-| 🔥🔥: 206 \| 💬: [35](https://news.ycombinator.com/item?id=42793597) \| 🗓️ 2025-01-22
+| 🔥🔥: 210 \| 💬: [35](https://news.ycombinator.com/item?id=42793597) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -122,7 +122,7 @@ Stratoshark 是一款由 Sysdig 为社区开发的工具，**将 Wireshark 的�
 <small>🔗 [technologyreview.com](https://www.technologyreview.com/2025/01/21/1110260/openai-ups-its-lobbying-efforts-nearly-seven-fold/): OpenAI has upped its lobbying efforts nearly sevenfold</small>
 
 
-| 🔥🔥: 201 \| 💬: [168](https://news.ycombinator.com/item?id=42793567) \| 🗓️ 2025-01-22
+| 🔥🔥: 202 \| 💬: [177](https://news.ycombinator.com/item?id=42793567) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -134,7 +134,7 @@ OpenAI在2024年花费**176万美元**用于政府游说，较2023年的26万美
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/01/victory-federal-court-finally-rules-backdoor-searches-702-data-unconstitutional): Federal Court (Finally) Rules Backdoor Searches of Data Unconstitutional</small>
 
 
-| 🔥🔥: 183 \| 💬: [33](https://news.ycombinator.com/item?id=42797756) \| 🗓️ 2025-01-22
+| 🔥🔥: 202 \| 💬: [43](https://news.ycombinator.com/item?id=42797756) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -146,7 +146,7 @@ OpenAI在2024年花费**176万美元**用于政府游说，较2023年的26万美
 <small>🔗 [fiber.googleblog.com](https://fiber.googleblog.com/2025/01/las-vegas-get-ready-for-your-close-up.html): Google Fiber is coming to Las Vegas</small>
 
 
-| 🔥🔥: 138 \| 💬: [131](https://news.ycombinator.com/item?id=42798293) \| 🗓️ 2025-01-22
+| 🔥🔥: 147 \| 💬: [149](https://news.ycombinator.com/item?id=42798293) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -158,7 +158,7 @@ OpenAI在2024年花费**176万美元**用于政府游说，较2023年的26万美
 <small>🔗 [github.com](https://github.com/itamarom/notepadjs): Show HN: NotepadJs – A cross-platform love letter to Notepad</small>
 
 
-| 🔥🔥: 131 \| 💬: [96](https://news.ycombinator.com/item?id=42791820) \| 🗓️ 2025-01-22
+| 🔥🔥: 132 \| 💬: [96](https://news.ycombinator.com/item?id=42791820) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -170,7 +170,7 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 <small>🔗 [edgedb.com](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us): C stdlib isn't threadsafe and even safe Rust didn't save us</small>
 
 
-| 🔥🔥: 123 \| 💬: [156](https://news.ycombinator.com/item?id=42796058) \| 🗓️ 2025-01-22
+| 🔥🔥: 123 \| 💬: [157](https://news.ycombinator.com/item?id=42796058) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -182,7 +182,7 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 <small>🔗 [github.com](https://github.com/slu4coder/Minimal-64x4-Home-Computer): Minimal 64x4 Home Computer</small>
 
 
-| 🔥🔥: 113 \| 💬: [26](https://news.ycombinator.com/item?id=42794232) \| 🗓️ 2025-01-22
+| 🔥🔥: 117 \| 💬: [26](https://news.ycombinator.com/item?id=42794232) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -190,7 +190,19 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 
 ---
 
-## <a name="15"></a>15. Instagram封锁民主的那一天 
+## <a name="15"></a>15. gRPC 与 REST：理解 gRPC、OpenAPI 和 REST 及其在 API 设计中的使用场景 
+<small>🔗 [cloud.google.com](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them): gRPC vs. REST: Understand gRPC, OpenAPI and REST and When to Use in API Design</small>
+
+
+| 🔥🔥: 115 \| 💬: [88](https://news.ycombinator.com/item?id=42799245) \| 🗓️ 2025-01-22
+
+
+<br />
+本文探讨了 **gRPC**、**REST** 和 **OpenAPI** 三种 API 设计模型的特点及其适用场景。gRPC 基于 RPC 模型，使用 HTTP/2 作为传输协议，适合高性能场景；REST 强调资源导向和超文本链接，适合简单、稳定的 API；OpenAPI 则结合了 RPC 和 HTTP 的优点，允许自定义 URL 映射，适合需要灵活性的场景。选择哪种模型取决于具体需求和开发团队的熟悉程度。
+
+---
+
+## <a name="16"></a>16. Instagram封锁民主的那一天 
 <small>🔗 [docpop.org](https://docpop.org/2025/01/the-day-instagram-blocked-democracy/): The Day Instagram Blocked Democracy</small>
 
 
@@ -202,11 +214,11 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 
 ---
 
-## <a name="16"></a>16. 超快癌症治疗：可能取代传统放疗的新方法 
+## <a name="17"></a>17. 超快癌症治疗：可能取代传统放疗的新方法 
 <small>🔗 [bbc.com](https://www.bbc.com/future/article/20250121-the-physics-transforming-cancer): The ultra-fast cancer treatments which could replace conventional radiotherapy</small>
 
 
-| 🔥🔥: 103 \| 💬: [4](https://news.ycombinator.com/item?id=42797281) \| 🗓️ 2025-01-22
+| 🔥🔥: 106 \| 💬: [4](https://news.ycombinator.com/item?id=42797281) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -214,50 +226,38 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 
 ---
 
-## <a name="17"></a>17. gRPC 与 REST：理解 gRPC、OpenAPI 和 REST 及其在 API 设计中的使用场景 
-<small>🔗 [cloud.google.com](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them): gRPC vs. REST: Understand gRPC, OpenAPI and REST and When to Use in API Design</small>
+## <a name="18"></a>18. 计算机科学史上最具影响力的论文 
+<small>🔗 [terriblesoftware.org](https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/): Most Influential Papers in Computer Science History</small>
 
 
-| 🔥: 85 \| 💬: [54](https://news.ycombinator.com/item?id=42799245) \| 🗓️ 2025-01-22
+| 🔥: 95 \| 💬: [23](https://news.ycombinator.com/item?id=42799103) \| 🗓️ 2025-01-22
 
 
 <br />
-本文探讨了 **gRPC**、**REST** 和 **OpenAPI** 三种 API 设计模型的特点及其适用场景。gRPC 基于 RPC 模型，使用 HTTP/2 作为传输协议，适合高性能场景；REST 强调资源导向和超文本链接，适合简单、稳定的 API；OpenAPI 则结合了 RPC 和 HTTP 的优点，允许自定义 URL 映射，适合需要灵活性的场景。选择哪种模型取决于具体需求和开发团队的熟悉程度。
+本文介绍了七篇对现代计算机科学影响深远的论文。**图灵**的“可计算数”奠定了计算理论的基础；**香农**的信息论定义了数据传输的规则；**科德**的关系模型革新了数据存储与查询；**库克**的NP完全性理论揭示了计算难题的本质；**瑟夫与卡恩**的TCP/IP协议构建了互联网的基础；**伯纳斯-李**的万维网提案让互联网变得普及；**布林与佩奇**的PageRank算法则让搜索引擎成为可能。这些论文塑造了现代计算与通信的核心。
 
 ---
 
-## <a name="18"></a>18. 我用Lisp开发了一款多人射击游戏，这是我的旅程 
+## <a name="19"></a>19. Tailwind V4 终于发布了 
+<small>🔗 [tailwindcss.com](https://tailwindcss.com/blog/tailwindcss-v4): Tailwind V4 Is Finally Out</small>
+
+
+| 🔥: 95 \| 💬: [57](https://news.ycombinator.com/item?id=42799136) \| 🗓️ 2025-01-22
+
+
+<br />
+Tailwind CSS v4.0 是一个全新版本，**性能提升显著**，构建速度提升高达 5 倍，增量构建速度提升超过 100 倍。新版本采用**现代 CSS 特性**，如级联层和自定义属性，并简化了安装流程，支持**零配置**和自动内容检测。此外，新增了 3D 变换工具、容器查询和扩展的渐变 API，为开发者提供更灵活的设计选项。
+
+---
+
+## <a name="20"></a>20. 我用Lisp开发了一款多人射击游戏，这是我的旅程 
 <small>🔗 [ertu.dev](https://ertu.dev/posts/i-made-an-online-shooter-game-in-lisp/): I made a multiplayer shooter game in Lisp, here is my journey</small>
 
 
-| 🔥: 75 \| 💬: [11](https://news.ycombinator.com/item?id=42796906) \| 🗓️ 2025-01-22
+| 🔥: 80 \| 💬: [11](https://news.ycombinator.com/item?id=42796906) \| 🗓️ 2025-01-22
 
 
 <br />
 开发者使用**Clojure**（一种Lisp方言）创建了基于网页的多人射击游戏《Wizard Masters》。玩家可选择六种元素法术进行对战，游戏支持单人及团队模式。开发过程中，**Babylon.js**被选为图形库，因其丰富的功能和良好的文档。尽管**Clojure的REPL**加速了开发，但缺乏游戏开发社区支持及工具生态系统的不足增加了挑战。
-
----
-
-## <a name="19"></a>19. 佛罗里达男子食用黄油、奶酪、牛肉；胆固醇从体内渗出 
-<small>🔗 [arstechnica.com](https://arstechnica.com/health/2025/01/florida-man-eats-diet-of-butter-cheese-beef-cholesterol-oozes-from-his-body/): Florida man eats diet of butter, cheese, beef; cholesterol oozes from his body</small>
-
-
-| 🔥: 72 \| 💬: [60](https://news.ycombinator.com/item?id=42798051) \| 🗓️ 2025-01-22
-
-
-<br />
-一名40多岁的佛罗里达男子因**高脂肪饮食**（每天摄入6-9磅奶酪、黄油和汉堡）导致**胆固醇水平超过1000 mg/dL**，出现**黄色结节**（xanthelasma）。这些结节是由于血液中脂质过多，从血管渗出并在皮肤上形成沉积。医生警告，高胆固醇与冠心病密切相关，强调了饮食对血脂水平的影响。
-
----
-
-## <a name="20"></a>20. Show HN: BrowserAI – 直接在浏览器中使用 WebGPU 运行本地大语言模型（开源） 
-<small>🔗 [github.com](https://github.com/sauravpanda/BrowserAI): Show HN: BrowserAI – Run LLMs directly in browser using WebGPU (open source)</small>
-
-
-| 🔥: 71 \| 💬: [18](https://news.ycombinator.com/item?id=42795375) \| 🗓️ 2025-01-22
-
-
-<br />
-BrowserAI 是一个开源项目，允许开发者在浏览器中**本地运行大语言模型（LLM）**，无需服务器支持。通过 **WebGPU 加速**，模型推理速度接近原生性能，支持离线使用，确保**数据隐私**。适用于开发者、企业和研究人员，提供简单 API 和多种预配置模型，支持文本生成、语音识别等功能。
 
 ---
