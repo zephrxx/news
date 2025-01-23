@@ -12,7 +12,7 @@ tags:
 1. Show HN: 我亲手打造了一台开源笔记本电脑；
 1. TabBoo – 为你想避免的网站添加随机惊吓；
 1. 结构无政府状态的暴政；
-1. 我与“末日刷屏”的斗争；
+1. 如何改善居家办公照明以减轻眼疲劳；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/): Mastercard DNS error went unnoticed for years</small>
 
 
-| 🔥🔥: 637 \| 💬: [182](https://news.ycombinator.com/item?id=42793783) \| 🗓️ 2025-01-22
+| 🔥🔥: 669 \| 💬: [185](https://news.ycombinator.com/item?id=42793783) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [byran.ee](https://www.byran.ee/posts/creation/): Show HN: I Made an Open-Source Laptop from Scratch</small>
 
 
-| 🔥🔥: 407 \| 💬: [55](https://news.ycombinator.com/item?id=42797260) \| 🗓️ 2025-01-22
+| 🔥🔥: 499 \| 💬: [65](https://news.ycombinator.com/item?id=42797260) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [tabboo.xyz](https://tabboo.xyz/): TabBoo – add random jumpscares to websites you're trying to avoid</small>
 
 
-| 🔥🔥: 377 \| 💬: [75](https://news.ycombinator.com/item?id=42795237) \| 🗓️ 2025-01-22
+| 🔥🔥: 411 \| 💬: [86](https://news.ycombinator.com/item?id=42795237) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -62,7 +62,7 @@ TabBoo 是一款浏览器扩展，旨在通过**随机惊吓**帮助用户摆脱
 <small>🔗 [jofreeman.com](https://www.jofreeman.com/joreen/tyranny.htm): The Tyranny of Structurelessness (1970)</small>
 
 
-| 🔥🔥: 297 \| 💬: [117](https://news.ycombinator.com/item?id=42793483) \| 🗓️ 2025-01-22
+| 🔥🔥: 308 \| 💬: [119](https://news.ycombinator.com/item?id=42793483) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -70,23 +70,11 @@ Jo Freeman（又名Joreen）在1970年发表的文章中批判了**无结构组�
 
 ---
 
-## <a name="5"></a>5. 我与“末日刷屏”的斗争 
-<small>🔗 [allthatjazz.me](https://allthatjazz.me/posts/doom-scrolling-struggles): My Struggle with Doom Scrolling</small>
-
-
-| 🔥🔥: 275 \| 💬: [261](https://news.ycombinator.com/item?id=42791428) \| 🗓️ 2025-01-22
-
-
-<br />
-作者通过删除手机上的**内容应用**和浏览器，试图摆脱无休止的刷屏习惯。尽管删除浏览器带来了一些不便，但通过使用**极简界面**和**网站拦截器**，他成功减少了分心。最终，他发现自己更能专注于阅读和其他有意义的活动，而不是被无限内容吸引。
-
----
-
-## <a name="6"></a>6. 如何改善居家办公照明以减轻眼疲劳 
+## <a name="5"></a>5. 如何改善居家办公照明以减轻眼疲劳 
 <small>🔗 [rustle.ca](https://rustle.ca/posts/articles/work-from-home-lighting): How to improve your WFH lighting to reduce eye strain</small>
 
 
-| 🔥🔥: 258 \| 💬: [127](https://news.ycombinator.com/item?id=42796950) \| 🗓️ 2025-01-22
+| 🔥🔥: 285 \| 💬: [140](https://news.ycombinator.com/item?id=42796950) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -94,11 +82,23 @@ Jo Freeman（又名Joreen）在1970年发表的文章中批判了**无结构组�
 
 ---
 
+## <a name="6"></a>6. 我与“末日刷屏”的斗争 
+<small>🔗 [allthatjazz.me](https://allthatjazz.me/posts/doom-scrolling-struggles): My Struggle with Doom Scrolling</small>
+
+
+| 🔥🔥: 283 \| 💬: [271](https://news.ycombinator.com/item?id=42791428) \| 🗓️ 2025-01-22
+
+
+<br />
+作者通过删除手机上的**内容应用**和浏览器，试图摆脱无休止的刷屏习惯。尽管删除浏览器带来了一些不便，但通过使用**极简界面**和**网站拦截器**，他成功减少了分心。最终，他发现自己更能专注于阅读和其他有意义的活动，而不是被无限内容吸引。
+
+---
+
 ## <a name="7"></a>7. Show HN: Stratoshark，Wireshark 的兄弟应用 
 <small>🔗 [stratoshark.org](https://stratoshark.org/): Show HN: Stratoshark, a sibling application to Wireshark</small>
 
 
-| 🔥🔥: 219 \| 💬: [39](https://news.ycombinator.com/item?id=42793777) \| 🗓️ 2025-01-22
+| 🔥🔥: 226 \| 💬: [39](https://news.ycombinator.com/item?id=42793777) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -106,23 +106,11 @@ Stratoshark 是一款由 Sysdig 为社区开发的工具，**将 Wireshark 的�
 
 ---
 
-## <a name="8"></a>8. OpenAI大幅增加游说支出 
-<small>🔗 [technologyreview.com](https://www.technologyreview.com/2025/01/21/1110260/openai-ups-its-lobbying-efforts-nearly-seven-fold/): OpenAI has upped its lobbying efforts nearly sevenfold</small>
-
-
-| 🔥🔥: 197 \| 💬: [158](https://news.ycombinator.com/item?id=42793567) \| 🗓️ 2025-01-22
-
-
-<br />
-OpenAI在2024年花费**176万美元**用于政府游说，较2023年的26万美元大幅增加。公司聘请了前参议员Lindsey Graham的助手Meghan Dorn作为内部游说者，并参与了《AI进步与可靠性法案》和《未来人工智能创新法案》的讨论。OpenAI的游说重点从**AI安全**转向**能源基础设施**，强调AI对国家安全和美国竞争力的重要性。公司还与国防科技公司合作，开发军事用途的AI模型。
-
----
-
-## <a name="9"></a>9. 简单CPU设计 
+## <a name="8"></a>8. 简单CPU设计 
 <small>🔗 [simplecpudesign.com](http://simplecpudesign.com/): Simple CPU Design</small>
 
 
-| 🔥🔥: 191 \| 💬: [35](https://news.ycombinator.com/item?id=42793597) \| 🗓️ 2025-01-22
+| 🔥🔥: 201 \| 💬: [35](https://news.ycombinator.com/item?id=42793597) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -130,11 +118,23 @@ OpenAI在2024年花费**176万美元**用于政府游说，较2023年的26万美
 
 ---
 
+## <a name="9"></a>9. OpenAI大幅增加游说支出 
+<small>🔗 [technologyreview.com](https://www.technologyreview.com/2025/01/21/1110260/openai-ups-its-lobbying-efforts-nearly-seven-fold/): OpenAI has upped its lobbying efforts nearly sevenfold</small>
+
+
+| 🔥🔥: 197 \| 💬: [166](https://news.ycombinator.com/item?id=42793567) \| 🗓️ 2025-01-22
+
+
+<br />
+OpenAI在2024年花费**176万美元**用于政府游说，较2023年的26万美元大幅增加。公司聘请了前参议员Lindsey Graham的助手Meghan Dorn作为内部游说者，并参与了《AI进步与可靠性法案》和《未来人工智能创新法案》的讨论。OpenAI的游说重点从**AI安全**转向**能源基础设施**，强调AI对国家安全和美国竞争力的重要性。公司还与国防科技公司合作，开发军事用途的AI模型。
+
+---
+
 ## <a name="10"></a>10. 联邦法院最终裁定数据后门搜索违宪 
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/01/victory-federal-court-finally-rules-backdoor-searches-702-data-unconstitutional): Federal Court (Finally) Rules Backdoor Searches of Data Unconstitutional</small>
 
 
-| 🔥🔥: 131 \| 💬: [23](https://news.ycombinator.com/item?id=42797756) \| 🗓️ 2025-01-22
+| 🔥🔥: 165 \| 💬: [29](https://news.ycombinator.com/item?id=42797756) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -146,7 +146,7 @@ OpenAI在2024年花费**176万美元**用于政府游说，较2023年的26万美
 <small>🔗 [github.com](https://github.com/itamarom/notepadjs): Show HN: NotepadJs – A cross-platform love letter to Notepad</small>
 
 
-| 🔥🔥: 128 \| 💬: [94](https://news.ycombinator.com/item?id=42791820) \| 🗓️ 2025-01-22
+| 🔥🔥: 130 \| 💬: [96](https://news.ycombinator.com/item?id=42791820) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -158,7 +158,7 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 <small>🔗 [edgedb.com](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us): C stdlib isn't threadsafe and even safe Rust didn't save us</small>
 
 
-| 🔥🔥: 119 \| 💬: [150](https://news.ycombinator.com/item?id=42796058) \| 🗓️ 2025-01-22
+| 🔥🔥: 120 \| 💬: [153](https://news.ycombinator.com/item?id=42796058) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -166,7 +166,19 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 
 ---
 
-## <a name="13"></a>13. Instagram封锁民主的那一天 
+## <a name="13"></a>13. 谷歌光纤即将登陆拉斯维加斯 
+<small>🔗 [fiber.googleblog.com](https://fiber.googleblog.com/2025/01/las-vegas-get-ready-for-your-close-up.html): Google Fiber is coming to Las Vegas</small>
+
+
+| 🔥🔥: 117 \| 💬: [112](https://news.ycombinator.com/item?id=42798293) \| 🗓️ 2025-01-22
+
+
+<br />
+谷歌光纤已在拉斯维加斯西部开始**网络建设**，并计划下月在克拉克县其他地区继续施工。服务将于今年晚些时候在部分城区推出，提供**高达8G的速度**和自2012年未变的价格。居民和企业可享受高速网络服务。
+
+---
+
+## <a name="14"></a>14. Instagram封锁民主的那一天 
 <small>🔗 [docpop.org](https://docpop.org/2025/01/the-day-instagram-blocked-democracy/): The Day Instagram Blocked Democracy</small>
 
 
@@ -178,11 +190,11 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 
 ---
 
-## <a name="14"></a>14. 极简64x4家用计算机 
+## <a name="15"></a>15. 极简64x4家用计算机 
 <small>🔗 [github.com](https://github.com/slu4coder/Minimal-64x4-Home-Computer): Minimal 64x4 Home Computer</small>
 
 
-| 🔥🔥: 104 \| 💬: [22](https://news.ycombinator.com/item?id=42794232) \| 🗓️ 2025-01-22
+| 🔥🔥: 109 \| 💬: [26](https://news.ycombinator.com/item?id=42794232) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -190,23 +202,11 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 
 ---
 
-## <a name="15"></a>15. 谷歌光纤即将登陆拉斯维加斯 
-<small>🔗 [fiber.googleblog.com](https://fiber.googleblog.com/2025/01/las-vegas-get-ready-for-your-close-up.html): Google Fiber is coming to Las Vegas</small>
-
-
-| 🔥: 98 \| 💬: [102](https://news.ycombinator.com/item?id=42798293) \| 🗓️ 2025-01-22
-
-
-<br />
-谷歌光纤已在拉斯维加斯西部开始**网络建设**，并计划下月在克拉克县其他地区继续施工。服务将于今年晚些时候在部分城区推出，提供**高达8G的速度**和自2012年未变的价格。居民和企业可享受高速网络服务。
-
----
-
 ## <a name="16"></a>16. 超快癌症治疗：可能取代传统放疗的新方法 
 <small>🔗 [bbc.com](https://www.bbc.com/future/article/20250121-the-physics-transforming-cancer): The ultra-fast cancer treatments which could replace conventional radiotherapy</small>
 
 
-| 🔥: 93 \| 💬: [2](https://news.ycombinator.com/item?id=42797281) \| 🗓️ 2025-01-22
+| 🔥: 99 \| 💬: [2](https://news.ycombinator.com/item?id=42797281) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -218,7 +218,7 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 <small>🔗 [arstechnica.com](https://arstechnica.com/health/2025/01/florida-man-eats-diet-of-butter-cheese-beef-cholesterol-oozes-from-his-body/): Florida man eats diet of butter, cheese, beef; cholesterol oozes from his body</small>
 
 
-| 🔥: 72 \| 💬: [57](https://news.ycombinator.com/item?id=42798051) \| 🗓️ 2025-01-22
+| 🔥: 72 \| 💬: [59](https://news.ycombinator.com/item?id=42798051) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -230,7 +230,7 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 <small>🔗 [github.com](https://github.com/sauravpanda/BrowserAI): Show HN: BrowserAI – Run LLMs directly in browser using WebGPU (open source)</small>
 
 
-| 🔥: 69 \| 💬: [18](https://news.ycombinator.com/item?id=42795375) \| 🗓️ 2025-01-22
+| 🔥: 71 \| 💬: [18](https://news.ycombinator.com/item?id=42795375) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -242,7 +242,7 @@ BrowserAI 是一个开源项目，允许开发者在浏览器中**本地运行�
 <small>🔗 [theguardian.com](https://www.theguardian.com/books/2025/jan/16/open-socrates-by-agnes-callard-review-a-design-for-life): Open Socrates by Agnes Callard review – a design for life</small>
 
 
-| 🔥: 66 \| 💬: [31](https://news.ycombinator.com/item?id=42792718) \| 🗓️ 2025-01-22
+| 🔥: 68 \| 💬: [31](https://news.ycombinator.com/item?id=42792718) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -254,7 +254,7 @@ Agnes Callard的《开放苏格拉底》探讨了苏格拉底的**实质性探�
 <small>🔗 [pyvista.org](https://pyvista.org/): PyVista</small>
 
 
-| 🔥: 66 \| 💬: [7](https://news.ycombinator.com/item?id=42793162) \| 🗓️ 2025-01-22
+| 🔥: 66 \| 💬: [8](https://news.ycombinator.com/item?id=42793162) \| 🗓️ 2025-01-22
 
 
 <br />
