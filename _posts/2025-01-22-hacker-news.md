@@ -26,7 +26,7 @@ tags:
 <small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/): Mastercard DNS error went unnoticed for years</small>
 
 
-| 🔥🔥: 669 \| 💬: [185](https://news.ycombinator.com/item?id=42793783) \| 🗓️ 2025-01-22
+| 🔥🔥: 693 \| 💬: [194](https://news.ycombinator.com/item?id=42793783) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [byran.ee](https://www.byran.ee/posts/creation/): Show HN: I Made an Open-Source Laptop from Scratch</small>
 
 
-| 🔥🔥: 499 \| 💬: [65](https://news.ycombinator.com/item?id=42797260) \| 🗓️ 2025-01-22
+| 🔥🔥: 567 \| 💬: [74](https://news.ycombinator.com/item?id=42797260) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [tabboo.xyz](https://tabboo.xyz/): TabBoo – add random jumpscares to websites you're trying to avoid</small>
 
 
-| 🔥🔥: 411 \| 💬: [86](https://news.ycombinator.com/item?id=42795237) \| 🗓️ 2025-01-22
+| 🔥🔥: 431 \| 💬: [90](https://news.ycombinator.com/item?id=42795237) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -62,7 +62,7 @@ TabBoo 是一款浏览器扩展，旨在通过**随机惊吓**帮助用户摆脱
 <small>🔗 [jofreeman.com](https://www.jofreeman.com/joreen/tyranny.htm): The Tyranny of Structurelessness (1970)</small>
 
 
-| 🔥🔥: 308 \| 💬: [119](https://news.ycombinator.com/item?id=42793483) \| 🗓️ 2025-01-22
+| 🔥🔥: 314 \| 💬: [121](https://news.ycombinator.com/item?id=42793483) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -74,7 +74,7 @@ Jo Freeman（又名Joreen）在1970年发表的文章中批判了**无结构组�
 <small>🔗 [rustle.ca](https://rustle.ca/posts/articles/work-from-home-lighting): How to improve your WFH lighting to reduce eye strain</small>
 
 
-| 🔥🔥: 285 \| 💬: [140](https://news.ycombinator.com/item?id=42796950) \| 🗓️ 2025-01-22
+| 🔥🔥: 302 \| 💬: [152](https://news.ycombinator.com/item?id=42796950) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -86,7 +86,7 @@ Jo Freeman（又名Joreen）在1970年发表的文章中批判了**无结构组�
 <small>🔗 [allthatjazz.me](https://allthatjazz.me/posts/doom-scrolling-struggles): My Struggle with Doom Scrolling</small>
 
 
-| 🔥🔥: 283 \| 💬: [271](https://news.ycombinator.com/item?id=42791428) \| 🗓️ 2025-01-22
+| 🔥🔥: 291 \| 💬: [279](https://news.ycombinator.com/item?id=42791428) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -98,7 +98,7 @@ Jo Freeman（又名Joreen）在1970年发表的文章中批判了**无结构组�
 <small>🔗 [stratoshark.org](https://stratoshark.org/): Show HN: Stratoshark, a sibling application to Wireshark</small>
 
 
-| 🔥🔥: 226 \| 💬: [39](https://news.ycombinator.com/item?id=42793777) \| 🗓️ 2025-01-22
+| 🔥🔥: 236 \| 💬: [41](https://news.ycombinator.com/item?id=42793777) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -110,7 +110,7 @@ Stratoshark 是一款由 Sysdig 为社区开发的工具，**将 Wireshark 的�
 <small>🔗 [simplecpudesign.com](http://simplecpudesign.com/): Simple CPU Design</small>
 
 
-| 🔥🔥: 201 \| 💬: [35](https://news.ycombinator.com/item?id=42793597) \| 🗓️ 2025-01-22
+| 🔥🔥: 206 \| 💬: [35](https://news.ycombinator.com/item?id=42793597) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -122,7 +122,7 @@ Stratoshark 是一款由 Sysdig 为社区开发的工具，**将 Wireshark 的�
 <small>🔗 [technologyreview.com](https://www.technologyreview.com/2025/01/21/1110260/openai-ups-its-lobbying-efforts-nearly-seven-fold/): OpenAI has upped its lobbying efforts nearly sevenfold</small>
 
 
-| 🔥🔥: 197 \| 💬: [166](https://news.ycombinator.com/item?id=42793567) \| 🗓️ 2025-01-22
+| 🔥🔥: 201 \| 💬: [168](https://news.ycombinator.com/item?id=42793567) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -134,7 +134,7 @@ OpenAI在2024年花费**176万美元**用于政府游说，较2023年的26万美
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/01/victory-federal-court-finally-rules-backdoor-searches-702-data-unconstitutional): Federal Court (Finally) Rules Backdoor Searches of Data Unconstitutional</small>
 
 
-| 🔥🔥: 165 \| 💬: [29](https://news.ycombinator.com/item?id=42797756) \| 🗓️ 2025-01-22
+| 🔥🔥: 183 \| 💬: [33](https://news.ycombinator.com/item?id=42797756) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -142,35 +142,11 @@ OpenAI在2024年花费**176万美元**用于政府游说，较2023年的26万美
 
 ---
 
-## <a name="11"></a>11. Show HN: NotepadJs – 跨平台的记事本情书 
-<small>🔗 [github.com](https://github.com/itamarom/notepadjs): Show HN: NotepadJs – A cross-platform love letter to Notepad</small>
-
-
-| 🔥🔥: 130 \| 💬: [96](https://news.ycombinator.com/item?id=42791820) \| 🗓️ 2025-01-22
-
-
-<br />
-NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**安装。作者从 Windows 转至 macOS 后，怀念旧版记事本的简洁与实用，因此开发了这款应用。它使用现代**File System Access API**实现本地文件的读写，并首次尝试了 Vue 框架。项目开源，欢迎反馈与贡献。
-
----
-
-## <a name="12"></a>12. C 标准库不是线程安全的，即使安全的 Rust 也没能拯救我们 
-<small>🔗 [edgedb.com](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us): C stdlib isn't threadsafe and even safe Rust didn't save us</small>
-
-
-| 🔥🔥: 120 \| 💬: [153](https://news.ycombinator.com/item?id=42796058) \| 🗓️ 2025-01-22
-
-
-<br />
-在将 EdgeDB 的网络 I/O 代码从 Python 迁移到 Rust 的过程中，团队遇到了一个仅在 ARM64 架构上出现的崩溃问题。最初以为是死锁，但通过调试发现是 **`getenv`** 函数在多线程环境下不安全导致的崩溃。**`setenv`** 和 **`getenv`** 在多线程环境中调用时可能会引发内存访问错误，尤其是在 ARM64 的弱内存模型下更容易暴露问题。最终，团队确认了问题的根源，并意识到即使是 Rust 也无法完全避免 C 标准库的线程安全问题。
-
----
-
-## <a name="13"></a>13. 谷歌光纤即将登陆拉斯维加斯 
+## <a name="11"></a>11. 谷歌光纤即将登陆拉斯维加斯 
 <small>🔗 [fiber.googleblog.com](https://fiber.googleblog.com/2025/01/las-vegas-get-ready-for-your-close-up.html): Google Fiber is coming to Las Vegas</small>
 
 
-| 🔥🔥: 117 \| 💬: [112](https://news.ycombinator.com/item?id=42798293) \| 🗓️ 2025-01-22
+| 🔥🔥: 138 \| 💬: [131](https://news.ycombinator.com/item?id=42798293) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -178,7 +154,43 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 
 ---
 
-## <a name="14"></a>14. Instagram封锁民主的那一天 
+## <a name="12"></a>12. Show HN: NotepadJs – 跨平台的记事本情书 
+<small>🔗 [github.com](https://github.com/itamarom/notepadjs): Show HN: NotepadJs – A cross-platform love letter to Notepad</small>
+
+
+| 🔥🔥: 131 \| 💬: [96](https://news.ycombinator.com/item?id=42791820) \| 🗓️ 2025-01-22
+
+
+<br />
+NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**安装。作者从 Windows 转至 macOS 后，怀念旧版记事本的简洁与实用，因此开发了这款应用。它使用现代**File System Access API**实现本地文件的读写，并首次尝试了 Vue 框架。项目开源，欢迎反馈与贡献。
+
+---
+
+## <a name="13"></a>13. C 标准库不是线程安全的，即使安全的 Rust 也没能拯救我们 
+<small>🔗 [edgedb.com](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us): C stdlib isn't threadsafe and even safe Rust didn't save us</small>
+
+
+| 🔥🔥: 123 \| 💬: [156](https://news.ycombinator.com/item?id=42796058) \| 🗓️ 2025-01-22
+
+
+<br />
+在将 EdgeDB 的网络 I/O 代码从 Python 迁移到 Rust 的过程中，团队遇到了一个仅在 ARM64 架构上出现的崩溃问题。最初以为是死锁，但通过调试发现是 **`getenv`** 函数在多线程环境下不安全导致的崩溃。**`setenv`** 和 **`getenv`** 在多线程环境中调用时可能会引发内存访问错误，尤其是在 ARM64 的弱内存模型下更容易暴露问题。最终，团队确认了问题的根源，并意识到即使是 Rust 也无法完全避免 C 标准库的线程安全问题。
+
+---
+
+## <a name="14"></a>14. 极简64x4家用计算机 
+<small>🔗 [github.com](https://github.com/slu4coder/Minimal-64x4-Home-Computer): Minimal 64x4 Home Computer</small>
+
+
+| 🔥🔥: 113 \| 💬: [26](https://news.ycombinator.com/item?id=42794232) \| 🗓️ 2025-01-22
+
+
+<br />
+这是一个DIY家用计算机项目，具有VGA和PS/2接口，**处理能力是Commodore C64或Apple II的4倍**。它使用61个74HCxx逻辑芯片，**无微控制器**，采用经典的**冯·诺依曼架构**，支持8MHz CPU时钟频率和64KB RAM。项目开源且非商业，提供完整的工具链和经典游戏模拟器。
+
+---
+
+## <a name="15"></a>15. Instagram封锁民主的那一天 
 <small>🔗 [docpop.org](https://docpop.org/2025/01/the-day-instagram-blocked-democracy/): The Day Instagram Blocked Democracy</small>
 
 
@@ -190,23 +202,11 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 
 ---
 
-## <a name="15"></a>15. 极简64x4家用计算机 
-<small>🔗 [github.com](https://github.com/slu4coder/Minimal-64x4-Home-Computer): Minimal 64x4 Home Computer</small>
-
-
-| 🔥🔥: 109 \| 💬: [26](https://news.ycombinator.com/item?id=42794232) \| 🗓️ 2025-01-22
-
-
-<br />
-这是一个DIY家用计算机项目，具有VGA和PS/2接口，**处理能力是Commodore C64或Apple II的4倍**。它使用61个74HCxx逻辑芯片，**无微控制器**，采用经典的**冯·诺依曼架构**，支持8MHz CPU时钟频率和64KB RAM。项目开源且非商业，提供完整的工具链和经典游戏模拟器。
-
----
-
 ## <a name="16"></a>16. 超快癌症治疗：可能取代传统放疗的新方法 
 <small>🔗 [bbc.com](https://www.bbc.com/future/article/20250121-the-physics-transforming-cancer): The ultra-fast cancer treatments which could replace conventional radiotherapy</small>
 
 
-| 🔥: 99 \| 💬: [2](https://news.ycombinator.com/item?id=42797281) \| 🗓️ 2025-01-22
+| 🔥🔥: 103 \| 💬: [4](https://news.ycombinator.com/item?id=42797281) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -214,11 +214,35 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 
 ---
 
-## <a name="17"></a>17. 佛罗里达男子食用黄油、奶酪、牛肉；胆固醇从体内渗出 
+## <a name="17"></a>17. gRPC 与 REST：理解 gRPC、OpenAPI 和 REST 及其在 API 设计中的使用场景 
+<small>🔗 [cloud.google.com](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them): gRPC vs. REST: Understand gRPC, OpenAPI and REST and When to Use in API Design</small>
+
+
+| 🔥: 85 \| 💬: [54](https://news.ycombinator.com/item?id=42799245) \| 🗓️ 2025-01-22
+
+
+<br />
+本文探讨了 **gRPC**、**REST** 和 **OpenAPI** 三种 API 设计模型的特点及其适用场景。gRPC 基于 RPC 模型，使用 HTTP/2 作为传输协议，适合高性能场景；REST 强调资源导向和超文本链接，适合简单、稳定的 API；OpenAPI 则结合了 RPC 和 HTTP 的优点，允许自定义 URL 映射，适合需要灵活性的场景。选择哪种模型取决于具体需求和开发团队的熟悉程度。
+
+---
+
+## <a name="18"></a>18. 我用Lisp开发了一款多人射击游戏，这是我的旅程 
+<small>🔗 [ertu.dev](https://ertu.dev/posts/i-made-an-online-shooter-game-in-lisp/): I made a multiplayer shooter game in Lisp, here is my journey</small>
+
+
+| 🔥: 75 \| 💬: [11](https://news.ycombinator.com/item?id=42796906) \| 🗓️ 2025-01-22
+
+
+<br />
+开发者使用**Clojure**（一种Lisp方言）创建了基于网页的多人射击游戏《Wizard Masters》。玩家可选择六种元素法术进行对战，游戏支持单人及团队模式。开发过程中，**Babylon.js**被选为图形库，因其丰富的功能和良好的文档。尽管**Clojure的REPL**加速了开发，但缺乏游戏开发社区支持及工具生态系统的不足增加了挑战。
+
+---
+
+## <a name="19"></a>19. 佛罗里达男子食用黄油、奶酪、牛肉；胆固醇从体内渗出 
 <small>🔗 [arstechnica.com](https://arstechnica.com/health/2025/01/florida-man-eats-diet-of-butter-cheese-beef-cholesterol-oozes-from-his-body/): Florida man eats diet of butter, cheese, beef; cholesterol oozes from his body</small>
 
 
-| 🔥: 72 \| 💬: [59](https://news.ycombinator.com/item?id=42798051) \| 🗓️ 2025-01-22
+| 🔥: 72 \| 💬: [60](https://news.ycombinator.com/item?id=42798051) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -226,7 +250,7 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 
 ---
 
-## <a name="18"></a>18. Show HN: BrowserAI – 直接在浏览器中使用 WebGPU 运行本地大语言模型（开源） 
+## <a name="20"></a>20. Show HN: BrowserAI – 直接在浏览器中使用 WebGPU 运行本地大语言模型（开源） 
 <small>🔗 [github.com](https://github.com/sauravpanda/BrowserAI): Show HN: BrowserAI – Run LLMs directly in browser using WebGPU (open source)</small>
 
 
@@ -235,29 +259,5 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 
 <br />
 BrowserAI 是一个开源项目，允许开发者在浏览器中**本地运行大语言模型（LLM）**，无需服务器支持。通过 **WebGPU 加速**，模型推理速度接近原生性能，支持离线使用，确保**数据隐私**。适用于开发者、企业和研究人员，提供简单 API 和多种预配置模型，支持文本生成、语音识别等功能。
-
----
-
-## <a name="19"></a>19. 开放苏格拉底：生活的设计 
-<small>🔗 [theguardian.com](https://www.theguardian.com/books/2025/jan/16/open-socrates-by-agnes-callard-review-a-design-for-life): Open Socrates by Agnes Callard review – a design for life</small>
-
-
-| 🔥: 68 \| 💬: [31](https://news.ycombinator.com/item?id=42792718) \| 🗓️ 2025-01-22
-
-
-<br />
-Agnes Callard的《开放苏格拉底》探讨了苏格拉底的**实质性探究伦理**，强调其不仅是修辞工具，而是颠覆我们认知基础的方法。书中指出，苏格拉底式的提问能揭示**自我认知的盲点**，帮助我们直面生活中的重大问题。Callard通过托尔斯泰的“托尔斯泰问题”等例子，展示了苏格拉底如何通过持续质疑，引导人们走向**认识论的谦逊**。
-
----
-
-## <a name="20"></a>20. PyVista：3D 可视化与分析工具 
-<small>🔗 [pyvista.org](https://pyvista.org/): PyVista</small>
-
-
-| 🔥: 66 \| 💬: [8](https://news.ycombinator.com/item?id=42793162) \| 🗓️ 2025-01-22
-
-
-<br />
-PyVista 是一个**开源**的 Python 库，旨在简化 3D 数据可视化和分析，帮助科学家专注于研究问题。它基于 **VTK** 库，提供直观的接口，支持跨平台使用，适用于多个科学和工程领域。PyVista 的设计对初学者友好，支持生成高质量的 3D 可视化图像，并可与 VTK 软件无缝集成。
 
 ---
