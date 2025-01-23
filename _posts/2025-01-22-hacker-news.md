@@ -11,8 +11,8 @@ tags:
 1. 万事达卡DNS错误多年未被发现；
 1. Show HN: 我亲手打造了一台开源笔记本电脑；
 1. TabBoo – 为你想避免的网站添加随机惊吓；
-1. 结构无政府状态的暴政；
 1. 如何改善居家办公照明以减轻眼疲劳；
+1. 结构无政府状态的暴政；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/): Mastercard DNS error went unnoticed for years</small>
 
 
-| 🔥🔥: 709 \| 💬: [195](https://news.ycombinator.com/item?id=42793783) \| 🗓️ 2025-01-22
+| 🔥🔥: 730 \| 💬: [197](https://news.ycombinator.com/item?id=42793783) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [byran.ee](https://www.byran.ee/posts/creation/): Show HN: I Made an Open-Source Laptop from Scratch</small>
 
 
-| 🔥🔥: 634 \| 💬: [103](https://news.ycombinator.com/item?id=42797260) \| 🗓️ 2025-01-22
+| 🔥🔥: 723 \| 💬: [114](https://news.ycombinator.com/item?id=42797260) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [tabboo.xyz](https://tabboo.xyz/): TabBoo – add random jumpscares to websites you're trying to avoid</small>
 
 
-| 🔥🔥: 443 \| 💬: [93](https://news.ycombinator.com/item?id=42795237) \| 🗓️ 2025-01-22
+| 🔥🔥: 459 \| 💬: [94](https://news.ycombinator.com/item?id=42795237) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -58,23 +58,11 @@ TabBoo 是一款浏览器扩展，旨在通过**随机惊吓**帮助用户摆脱
 
 ---
 
-## <a name="4"></a>4. 结构无政府状态的暴政 
-<small>🔗 [jofreeman.com](https://www.jofreeman.com/joreen/tyranny.htm): The Tyranny of Structurelessness (1970)</small>
-
-
-| 🔥🔥: 317 \| 💬: [121](https://news.ycombinator.com/item?id=42793483) \| 🗓️ 2025-01-22
-
-
-<br />
-Jo Freeman（又名Joreen）在1970年发表的文章中批判了**无结构组织**的迷思。她指出，任何群体都会形成某种结构，即使是非正式的。**无结构**的群体往往掩盖了权力不平等，导致**精英主义**的形成。Freeman主张明确的结构和规则，以确保透明和公平的决策过程，避免隐性权力的滥用。
-
----
-
-## <a name="5"></a>5. 如何改善居家办公照明以减轻眼疲劳 
+## <a name="4"></a>4. 如何改善居家办公照明以减轻眼疲劳 
 <small>🔗 [rustle.ca](https://rustle.ca/posts/articles/work-from-home-lighting): How to improve your WFH lighting to reduce eye strain</small>
 
 
-| 🔥🔥: 312 \| 💬: [160](https://news.ycombinator.com/item?id=42796950) \| 🗓️ 2025-01-22
+| 🔥🔥: 330 \| 💬: [164](https://news.ycombinator.com/item?id=42796950) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -82,11 +70,23 @@ Jo Freeman（又名Joreen）在1970年发表的文章中批判了**无结构组�
 
 ---
 
+## <a name="5"></a>5. 结构无政府状态的暴政 
+<small>🔗 [jofreeman.com](https://www.jofreeman.com/joreen/tyranny.htm): The Tyranny of Structurelessness (1970)</small>
+
+
+| 🔥🔥: 321 \| 💬: [122](https://news.ycombinator.com/item?id=42793483) \| 🗓️ 2025-01-22
+
+
+<br />
+Jo Freeman（又名Joreen）在1970年发表的文章中批判了**无结构组织**的迷思。她指出，任何群体都会形成某种结构，即使是非正式的。**无结构**的群体往往掩盖了权力不平等，导致**精英主义**的形成。Freeman主张明确的结构和规则，以确保透明和公平的决策过程，避免隐性权力的滥用。
+
+---
+
 ## <a name="6"></a>6. 我与“末日刷屏”的斗争 
 <small>🔗 [allthatjazz.me](https://allthatjazz.me/posts/doom-scrolling-struggles): My Struggle with Doom Scrolling</small>
 
 
-| 🔥🔥: 297 \| 💬: [285](https://news.ycombinator.com/item?id=42791428) \| 🗓️ 2025-01-22
+| 🔥🔥: 299 \| 💬: [291](https://news.ycombinator.com/item?id=42791428) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -98,7 +98,7 @@ Jo Freeman（又名Joreen）在1970年发表的文章中批判了**无结构组�
 <small>🔗 [stratoshark.org](https://stratoshark.org/): Show HN: Stratoshark, a sibling application to Wireshark</small>
 
 
-| 🔥🔥: 242 \| 💬: [42](https://news.ycombinator.com/item?id=42793777) \| 🗓️ 2025-01-22
+| 🔥🔥: 244 \| 💬: [42](https://news.ycombinator.com/item?id=42793777) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -106,35 +106,11 @@ Stratoshark 是一款由 Sysdig 为社区开发的工具，**将 Wireshark 的�
 
 ---
 
-## <a name="8"></a>8. 简单CPU设计 
-<small>🔗 [simplecpudesign.com](http://simplecpudesign.com/): Simple CPU Design</small>
-
-
-| 🔥🔥: 210 \| 💬: [35](https://news.ycombinator.com/item?id=42793597) \| 🗓️ 2025-01-22
-
-
-<br />
-本文介绍了**SimpleCPU处理器**的设计理念与教学应用，强调通过硬件与软件的结合来理解计算机架构。作者认为，**计算机架构**不仅是硬件设计，更是理解整个系统的基础。通过Xilinx ISE工具和FPGA板，学生可以设计并实现SimpleCPU，解决实际问题。文章还探讨了**RISC与CISC**的区别，并提供了丰富的教学资源与实验案例，帮助初学者从零开始设计CPU。
-
----
-
-## <a name="9"></a>9. OpenAI大幅增加游说支出 
-<small>🔗 [technologyreview.com](https://www.technologyreview.com/2025/01/21/1110260/openai-ups-its-lobbying-efforts-nearly-seven-fold/): OpenAI has upped its lobbying efforts nearly sevenfold</small>
-
-
-| 🔥🔥: 202 \| 💬: [177](https://news.ycombinator.com/item?id=42793567) \| 🗓️ 2025-01-22
-
-
-<br />
-OpenAI在2024年花费**176万美元**用于政府游说，较2023年的26万美元大幅增加。公司聘请了前参议员Lindsey Graham的助手Meghan Dorn作为内部游说者，并参与了《AI进步与可靠性法案》和《未来人工智能创新法案》的讨论。OpenAI的游说重点从**AI安全**转向**能源基础设施**，强调AI对国家安全和美国竞争力的重要性。公司还与国防科技公司合作，开发军事用途的AI模型。
-
----
-
-## <a name="10"></a>10. 联邦法院最终裁定数据后门搜索违宪 
+## <a name="8"></a>8. 联邦法院最终裁定数据后门搜索违宪 
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/01/victory-federal-court-finally-rules-backdoor-searches-702-data-unconstitutional): Federal Court (Finally) Rules Backdoor Searches of Data Unconstitutional</small>
 
 
-| 🔥🔥: 202 \| 💬: [43](https://news.ycombinator.com/item?id=42797756) \| 🗓️ 2025-01-22
+| 🔥🔥: 219 \| 💬: [46](https://news.ycombinator.com/item?id=42797756) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -142,11 +118,35 @@ OpenAI在2024年花费**176万美元**用于政府游说，较2023年的26万美
 
 ---
 
+## <a name="9"></a>9. 简单CPU设计 
+<small>🔗 [simplecpudesign.com](http://simplecpudesign.com/): Simple CPU Design</small>
+
+
+| 🔥🔥: 214 \| 💬: [35](https://news.ycombinator.com/item?id=42793597) \| 🗓️ 2025-01-22
+
+
+<br />
+本文介绍了**SimpleCPU处理器**的设计理念与教学应用，强调通过硬件与软件的结合来理解计算机架构。作者认为，**计算机架构**不仅是硬件设计，更是理解整个系统的基础。通过Xilinx ISE工具和FPGA板，学生可以设计并实现SimpleCPU，解决实际问题。文章还探讨了**RISC与CISC**的区别，并提供了丰富的教学资源与实验案例，帮助初学者从零开始设计CPU。
+
+---
+
+## <a name="10"></a>10. OpenAI大幅增加游说支出 
+<small>🔗 [technologyreview.com](https://www.technologyreview.com/2025/01/21/1110260/openai-ups-its-lobbying-efforts-nearly-seven-fold/): OpenAI has upped its lobbying efforts nearly sevenfold</small>
+
+
+| 🔥🔥: 202 \| 💬: [179](https://news.ycombinator.com/item?id=42793567) \| 🗓️ 2025-01-22
+
+
+<br />
+OpenAI在2024年花费**176万美元**用于政府游说，较2023年的26万美元大幅增加。公司聘请了前参议员Lindsey Graham的助手Meghan Dorn作为内部游说者，并参与了《AI进步与可靠性法案》和《未来人工智能创新法案》的讨论。OpenAI的游说重点从**AI安全**转向**能源基础设施**，强调AI对国家安全和美国竞争力的重要性。公司还与国防科技公司合作，开发军事用途的AI模型。
+
+---
+
 ## <a name="11"></a>11. 谷歌光纤即将登陆拉斯维加斯 
 <small>🔗 [fiber.googleblog.com](https://fiber.googleblog.com/2025/01/las-vegas-get-ready-for-your-close-up.html): Google Fiber is coming to Las Vegas</small>
 
 
-| 🔥🔥: 147 \| 💬: [149](https://news.ycombinator.com/item?id=42798293) \| 🗓️ 2025-01-22
+| 🔥🔥: 158 \| 💬: [157](https://news.ycombinator.com/item?id=42798293) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -154,7 +154,19 @@ OpenAI在2024年花费**176万美元**用于政府游说，较2023年的26万美
 
 ---
 
-## <a name="12"></a>12. Show HN: NotepadJs – 跨平台的记事本情书 
+## <a name="12"></a>12. gRPC 与 REST：理解 gRPC、OpenAPI 和 REST 及其在 API 设计中的使用场景 
+<small>🔗 [cloud.google.com](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them): Understanding gRPC, OpenAPI and REST and when to use them in API design</small>
+
+
+| 🔥🔥: 150 \| 💬: [117](https://news.ycombinator.com/item?id=42799245) \| 🗓️ 2025-01-22
+
+
+<br />
+本文探讨了 **gRPC**、**REST** 和 **OpenAPI** 三种 API 设计模型的特点及其适用场景。gRPC 基于 RPC 模型，使用 HTTP/2 作为传输协议，适合高性能场景；REST 强调资源导向和超文本链接，适合简单、稳定的 API；OpenAPI 则结合了 RPC 和 HTTP 的优点，允许自定义 URL 映射，适合需要灵活性的场景。选择哪种模型取决于具体需求和开发团队的熟悉程度。
+
+---
+
+## <a name="13"></a>13. Show HN: NotepadJs – 跨平台的记事本情书 
 <small>🔗 [github.com](https://github.com/itamarom/notepadjs): Show HN: NotepadJs – A cross-platform love letter to Notepad</small>
 
 
@@ -166,11 +178,11 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 
 ---
 
-## <a name="13"></a>13. C 标准库不是线程安全的，即使安全的 Rust 也没能拯救我们 
+## <a name="14"></a>14. C 标准库不是线程安全的，即使安全的 Rust 也没能拯救我们 
 <small>🔗 [edgedb.com](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us): C stdlib isn't threadsafe and even safe Rust didn't save us</small>
 
 
-| 🔥🔥: 123 \| 💬: [157](https://news.ycombinator.com/item?id=42796058) \| 🗓️ 2025-01-22
+| 🔥🔥: 125 \| 💬: [160](https://news.ycombinator.com/item?id=42796058) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -178,11 +190,23 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 
 ---
 
-## <a name="14"></a>14. 极简64x4家用计算机 
+## <a name="15"></a>15. Tailwind V4 终于发布了 
+<small>🔗 [tailwindcss.com](https://tailwindcss.com/blog/tailwindcss-v4): Tailwind CSS v4.0</small>
+
+
+| 🔥🔥: 124 \| 💬: [67](https://news.ycombinator.com/item?id=42799136) \| 🗓️ 2025-01-22
+
+
+<br />
+Tailwind CSS v4.0 是一个全新版本，**性能提升显著**，构建速度提升高达 5 倍，增量构建速度提升超过 100 倍。新版本采用**现代 CSS 特性**，如级联层和自定义属性，并简化了安装流程，支持**零配置**和自动内容检测。此外，新增了 3D 变换工具、容器查询和扩展的渐变 API，为开发者提供更灵活的设计选项。
+
+---
+
+## <a name="16"></a>16. 极简64x4家用计算机 
 <small>🔗 [github.com](https://github.com/slu4coder/Minimal-64x4-Home-Computer): Minimal 64x4 Home Computer</small>
 
 
-| 🔥🔥: 117 \| 💬: [26](https://news.ycombinator.com/item?id=42794232) \| 🗓️ 2025-01-22
+| 🔥🔥: 118 \| 💬: [26](https://news.ycombinator.com/item?id=42794232) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -190,19 +214,7 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 
 ---
 
-## <a name="15"></a>15. gRPC 与 REST：理解 gRPC、OpenAPI 和 REST 及其在 API 设计中的使用场景 
-<small>🔗 [cloud.google.com](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them): gRPC vs. REST: Understand gRPC, OpenAPI and REST and When to Use in API Design</small>
-
-
-| 🔥🔥: 115 \| 💬: [88](https://news.ycombinator.com/item?id=42799245) \| 🗓️ 2025-01-22
-
-
-<br />
-本文探讨了 **gRPC**、**REST** 和 **OpenAPI** 三种 API 设计模型的特点及其适用场景。gRPC 基于 RPC 模型，使用 HTTP/2 作为传输协议，适合高性能场景；REST 强调资源导向和超文本链接，适合简单、稳定的 API；OpenAPI 则结合了 RPC 和 HTTP 的优点，允许自定义 URL 映射，适合需要灵活性的场景。选择哪种模型取决于具体需求和开发团队的熟悉程度。
-
----
-
-## <a name="16"></a>16. Instagram封锁民主的那一天 
+## <a name="17"></a>17. Instagram封锁民主的那一天 
 <small>🔗 [docpop.org](https://docpop.org/2025/01/the-day-instagram-blocked-democracy/): The Day Instagram Blocked Democracy</small>
 
 
@@ -214,11 +226,11 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 
 ---
 
-## <a name="17"></a>17. 超快癌症治疗：可能取代传统放疗的新方法 
+## <a name="18"></a>18. 超快癌症治疗：可能取代传统放疗的新方法 
 <small>🔗 [bbc.com](https://www.bbc.com/future/article/20250121-the-physics-transforming-cancer): The ultra-fast cancer treatments which could replace conventional radiotherapy</small>
 
 
-| 🔥🔥: 106 \| 💬: [4](https://news.ycombinator.com/item?id=42797281) \| 🗓️ 2025-01-22
+| 🔥🔥: 109 \| 💬: [4](https://news.ycombinator.com/item?id=42797281) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -226,11 +238,11 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 
 ---
 
-## <a name="18"></a>18. 计算机科学史上最具影响力的论文 
+## <a name="19"></a>19. 计算机科学史上最具影响力的论文 
 <small>🔗 [terriblesoftware.org](https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/): Most Influential Papers in Computer Science History</small>
 
 
-| 🔥: 95 \| 💬: [23](https://news.ycombinator.com/item?id=42799103) \| 🗓️ 2025-01-22
+| 🔥🔥: 107 \| 💬: [28](https://news.ycombinator.com/item?id=42799103) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -238,26 +250,14 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 
 ---
 
-## <a name="19"></a>19. Tailwind V4 终于发布了 
-<small>🔗 [tailwindcss.com](https://tailwindcss.com/blog/tailwindcss-v4): Tailwind V4 Is Finally Out</small>
+## <a name="20"></a>20. 大型语言模型的基础 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2501.09223): Foundations of Large Language Models</small>
 
 
-| 🔥: 95 \| 💬: [57](https://news.ycombinator.com/item?id=42799136) \| 🗓️ 2025-01-22
-
-
-<br />
-Tailwind CSS v4.0 是一个全新版本，**性能提升显著**，构建速度提升高达 5 倍，增量构建速度提升超过 100 倍。新版本采用**现代 CSS 特性**，如级联层和自定义属性，并简化了安装流程，支持**零配置**和自动内容检测。此外，新增了 3D 变换工具、容器查询和扩展的渐变 API，为开发者提供更灵活的设计选项。
-
----
-
-## <a name="20"></a>20. 我用Lisp开发了一款多人射击游戏，这是我的旅程 
-<small>🔗 [ertu.dev](https://ertu.dev/posts/i-made-an-online-shooter-game-in-lisp/): I made a multiplayer shooter game in Lisp, here is my journey</small>
-
-
-| 🔥: 80 \| 💬: [11](https://news.ycombinator.com/item?id=42796906) \| 🗓️ 2025-01-22
+| 🔥: 88 \| 💬: [3](https://news.ycombinator.com/item?id=42799629) \| 🗓️ 2025-01-22
 
 
 <br />
-开发者使用**Clojure**（一种Lisp方言）创建了基于网页的多人射击游戏《Wizard Masters》。玩家可选择六种元素法术进行对战，游戏支持单人及团队模式。开发过程中，**Babylon.js**被选为图形库，因其丰富的功能和良好的文档。尽管**Clojure的REPL**加速了开发，但缺乏游戏开发社区支持及工具生态系统的不足增加了挑战。
+本书专注于**大型语言模型**的基础概念，涵盖**预训练**、生成模型、提示技术和对齐方法四大主题。适合自然语言处理领域的学生、专业人士和从业者参考，旨在为对大型语言模型感兴趣的读者提供基础知识。
 
 ---
