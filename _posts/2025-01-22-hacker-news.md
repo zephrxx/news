@@ -8,8 +8,8 @@ tags:
 ---
 
 
-1. 万事达卡DNS错误多年未被发现；
 1. Show HN: 我亲手打造了一台开源笔记本电脑；
+1. 万事达卡DNS错误多年未被发现；
 1. TabBoo – 为你想避免的网站添加随机惊吓；
 1. 如何改善居家办公照明以减轻眼疲劳；
 1. 结构无政府状态的暴政；
@@ -22,23 +22,11 @@ tags:
 ![](/assets/images/hacker_news.jpg)
 
 
-## <a name="1"></a>1. 万事达卡DNS错误多年未被发现 
-<small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/): Mastercard DNS error went unnoticed for years</small>
+## <a name="1"></a>1. Show HN: 我亲手打造了一台开源笔记本电脑 
+<small>🔗 [byran.ee](https://www.byran.ee/posts/creation/): Show HN: I made an open-source laptop from scratch</small>
 
 
-| 🔥🔥: 730 \| 💬: [197](https://news.ycombinator.com/item?id=42793783) \| 🗓️ 2025-01-22
-
-
-<br />
-支付巨头**万事达卡**最近修复了一个严重的DNS配置错误，该错误可能导致互联网流量被拦截或重定向。安全研究员Philippe Caturegli花费300美元注册了错误域名**akam.ne**，防止其被滥用。尽管万事达卡声称没有安全风险，但Caturegli认为潜在威胁被低估，并呼吁企业重视安全披露。
-
----
-
-## <a name="2"></a>2. Show HN: 我亲手打造了一台开源笔记本电脑 
-<small>🔗 [byran.ee](https://www.byran.ee/posts/creation/): Show HN: I Made an Open-Source Laptop from Scratch</small>
-
-
-| 🔥🔥: 723 \| 💬: [114](https://news.ycombinator.com/item?id=42797260) \| 🗓️ 2025-01-22
+| 🔥🔥: 833 \| 💬: [123](https://news.ycombinator.com/item?id=42797260) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -46,11 +34,23 @@ tags:
 
 ---
 
+## <a name="2"></a>2. 万事达卡DNS错误多年未被发现 
+<small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/): Mastercard DNS error went unnoticed for years</small>
+
+
+| 🔥🔥: 752 \| 💬: [199](https://news.ycombinator.com/item?id=42793783) \| 🗓️ 2025-01-22
+
+
+<br />
+支付巨头**万事达卡**最近修复了一个严重的DNS配置错误，该错误可能导致互联网流量被拦截或重定向。安全研究员Philippe Caturegli花费300美元注册了错误域名**akam.ne**，防止其被滥用。尽管万事达卡声称没有安全风险，但Caturegli认为潜在威胁被低估，并呼吁企业重视安全披露。
+
+---
+
 ## <a name="3"></a>3. TabBoo – 为你想避免的网站添加随机惊吓 
 <small>🔗 [tabboo.xyz](https://tabboo.xyz/): TabBoo – add random jumpscares to websites you're trying to avoid</small>
 
 
-| 🔥🔥: 459 \| 💬: [94](https://news.ycombinator.com/item?id=42795237) \| 🗓️ 2025-01-22
+| 🔥🔥: 481 \| 💬: [95](https://news.ycombinator.com/item?id=42795237) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -62,7 +62,7 @@ TabBoo 是一款浏览器扩展，旨在通过**随机惊吓**帮助用户摆脱
 <small>🔗 [rustle.ca](https://rustle.ca/posts/articles/work-from-home-lighting): How to improve your WFH lighting to reduce eye strain</small>
 
 
-| 🔥🔥: 330 \| 💬: [164](https://news.ycombinator.com/item?id=42796950) \| 🗓️ 2025-01-22
+| 🔥🔥: 347 \| 💬: [175](https://news.ycombinator.com/item?id=42796950) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -74,7 +74,7 @@ TabBoo 是一款浏览器扩展，旨在通过**随机惊吓**帮助用户摆脱
 <small>🔗 [jofreeman.com](https://www.jofreeman.com/joreen/tyranny.htm): The Tyranny of Structurelessness (1970)</small>
 
 
-| 🔥🔥: 321 \| 💬: [122](https://news.ycombinator.com/item?id=42793483) \| 🗓️ 2025-01-22
+| 🔥🔥: 327 \| 💬: [126](https://news.ycombinator.com/item?id=42793483) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -86,7 +86,7 @@ Jo Freeman（又名Joreen）在1970年发表的文章中批判了**无结构组�
 <small>🔗 [allthatjazz.me](https://allthatjazz.me/posts/doom-scrolling-struggles): My Struggle with Doom Scrolling</small>
 
 
-| 🔥🔥: 299 \| 💬: [291](https://news.ycombinator.com/item?id=42791428) \| 🗓️ 2025-01-22
+| 🔥🔥: 302 \| 💬: [294](https://news.ycombinator.com/item?id=42791428) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -98,7 +98,7 @@ Jo Freeman（又名Joreen）在1970年发表的文章中批判了**无结构组�
 <small>🔗 [stratoshark.org](https://stratoshark.org/): Show HN: Stratoshark, a sibling application to Wireshark</small>
 
 
-| 🔥🔥: 244 \| 💬: [42](https://news.ycombinator.com/item?id=42793777) \| 🗓️ 2025-01-22
+| 🔥🔥: 248 \| 💬: [42](https://news.ycombinator.com/item?id=42793777) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -110,7 +110,7 @@ Stratoshark 是一款由 Sysdig 为社区开发的工具，**将 Wireshark 的�
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/01/victory-federal-court-finally-rules-backdoor-searches-702-data-unconstitutional): Federal Court (Finally) Rules Backdoor Searches of Data Unconstitutional</small>
 
 
-| 🔥🔥: 219 \| 💬: [46](https://news.ycombinator.com/item?id=42797756) \| 🗓️ 2025-01-22
+| 🔥🔥: 239 \| 💬: [49](https://news.ycombinator.com/item?id=42797756) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -122,7 +122,7 @@ Stratoshark 是一款由 Sysdig 为社区开发的工具，**将 Wireshark 的�
 <small>🔗 [simplecpudesign.com](http://simplecpudesign.com/): Simple CPU Design</small>
 
 
-| 🔥🔥: 214 \| 💬: [35](https://news.ycombinator.com/item?id=42793597) \| 🗓️ 2025-01-22
+| 🔥🔥: 222 \| 💬: [37](https://news.ycombinator.com/item?id=42793597) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -134,7 +134,7 @@ Stratoshark 是一款由 Sysdig 为社区开发的工具，**将 Wireshark 的�
 <small>🔗 [technologyreview.com](https://www.technologyreview.com/2025/01/21/1110260/openai-ups-its-lobbying-efforts-nearly-seven-fold/): OpenAI has upped its lobbying efforts nearly sevenfold</small>
 
 
-| 🔥🔥: 202 \| 💬: [179](https://news.ycombinator.com/item?id=42793567) \| 🗓️ 2025-01-22
+| 🔥🔥: 203 \| 💬: [180](https://news.ycombinator.com/item?id=42793567) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -146,7 +146,7 @@ OpenAI在2024年花费**176万美元**用于政府游说，较2023年的26万美
 <small>🔗 [fiber.googleblog.com](https://fiber.googleblog.com/2025/01/las-vegas-get-ready-for-your-close-up.html): Google Fiber is coming to Las Vegas</small>
 
 
-| 🔥🔥: 158 \| 💬: [157](https://news.ycombinator.com/item?id=42798293) \| 🗓️ 2025-01-22
+| 🔥🔥: 162 \| 💬: [172](https://news.ycombinator.com/item?id=42798293) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -158,7 +158,7 @@ OpenAI在2024年花费**176万美元**用于政府游说，较2023年的26万美
 <small>🔗 [cloud.google.com](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them): Understanding gRPC, OpenAPI and REST and when to use them in API design</small>
 
 
-| 🔥🔥: 150 \| 💬: [117](https://news.ycombinator.com/item?id=42799245) \| 🗓️ 2025-01-22
+| 🔥🔥: 162 \| 💬: [132](https://news.ycombinator.com/item?id=42799245) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -166,35 +166,11 @@ OpenAI在2024年花费**176万美元**用于政府游说，较2023年的26万美
 
 ---
 
-## <a name="13"></a>13. Show HN: NotepadJs – 跨平台的记事本情书 
-<small>🔗 [github.com](https://github.com/itamarom/notepadjs): Show HN: NotepadJs – A cross-platform love letter to Notepad</small>
-
-
-| 🔥🔥: 132 \| 💬: [96](https://news.ycombinator.com/item?id=42791820) \| 🗓️ 2025-01-22
-
-
-<br />
-NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**安装。作者从 Windows 转至 macOS 后，怀念旧版记事本的简洁与实用，因此开发了这款应用。它使用现代**File System Access API**实现本地文件的读写，并首次尝试了 Vue 框架。项目开源，欢迎反馈与贡献。
-
----
-
-## <a name="14"></a>14. C 标准库不是线程安全的，即使安全的 Rust 也没能拯救我们 
-<small>🔗 [edgedb.com](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us): C stdlib isn't threadsafe and even safe Rust didn't save us</small>
-
-
-| 🔥🔥: 125 \| 💬: [160](https://news.ycombinator.com/item?id=42796058) \| 🗓️ 2025-01-22
-
-
-<br />
-在将 EdgeDB 的网络 I/O 代码从 Python 迁移到 Rust 的过程中，团队遇到了一个仅在 ARM64 架构上出现的崩溃问题。最初以为是死锁，但通过调试发现是 **`getenv`** 函数在多线程环境下不安全导致的崩溃。**`setenv`** 和 **`getenv`** 在多线程环境中调用时可能会引发内存访问错误，尤其是在 ARM64 的弱内存模型下更容易暴露问题。最终，团队确认了问题的根源，并意识到即使是 Rust 也无法完全避免 C 标准库的线程安全问题。
-
----
-
-## <a name="15"></a>15. Tailwind V4 终于发布了 
+## <a name="13"></a>13. Tailwind V4 终于发布了 
 <small>🔗 [tailwindcss.com](https://tailwindcss.com/blog/tailwindcss-v4): Tailwind CSS v4.0</small>
 
 
-| 🔥🔥: 124 \| 💬: [67](https://news.ycombinator.com/item?id=42799136) \| 🗓️ 2025-01-22
+| 🔥🔥: 159 \| 💬: [88](https://news.ycombinator.com/item?id=42799136) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -202,11 +178,47 @@ Tailwind CSS v4.0 是一个全新版本，**性能提升显著**，构建速度�
 
 ---
 
-## <a name="16"></a>16. 极简64x4家用计算机 
+## <a name="14"></a>14. C 标准库不是线程安全的，即使安全的 Rust 也没能拯救我们 
+<small>🔗 [edgedb.com](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us): C stdlib isn't threadsafe and even safe Rust didn't save us</small>
+
+
+| 🔥🔥: 138 \| 💬: [166](https://news.ycombinator.com/item?id=42796058) \| 🗓️ 2025-01-22
+
+
+<br />
+在将 EdgeDB 的网络 I/O 代码从 Python 迁移到 Rust 的过程中，团队遇到了一个仅在 ARM64 架构上出现的崩溃问题。最初以为是死锁，但通过调试发现是 **`getenv`** 函数在多线程环境下不安全导致的崩溃。**`setenv`** 和 **`getenv`** 在多线程环境中调用时可能会引发内存访问错误，尤其是在 ARM64 的弱内存模型下更容易暴露问题。最终，团队确认了问题的根源，并意识到即使是 Rust 也无法完全避免 C 标准库的线程安全问题。
+
+---
+
+## <a name="15"></a>15. Show HN: NotepadJs – 跨平台的记事本情书 
+<small>🔗 [github.com](https://github.com/itamarom/notepadjs): Show HN: NotepadJs – A cross-platform love letter to Notepad</small>
+
+
+| 🔥🔥: 132 \| 💬: [98](https://news.ycombinator.com/item?id=42791820) \| 🗓️ 2025-01-22
+
+
+<br />
+NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**安装。作者从 Windows 转至 macOS 后，怀念旧版记事本的简洁与实用，因此开发了这款应用。它使用现代**File System Access API**实现本地文件的读写，并首次尝试了 Vue 框架。项目开源，欢迎反馈与贡献。
+
+---
+
+## <a name="16"></a>16. 计算机科学史上最具影响力的论文 
+<small>🔗 [terriblesoftware.org](https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/): Most Influential Papers in Computer Science History</small>
+
+
+| 🔥🔥: 122 \| 💬: [36](https://news.ycombinator.com/item?id=42799103) \| 🗓️ 2025-01-22
+
+
+<br />
+本文介绍了七篇对现代计算机科学影响深远的论文。**图灵**的“可计算数”奠定了计算理论的基础；**香农**的信息论定义了数据传输的规则；**科德**的关系模型革新了数据存储与查询；**库克**的NP完全性理论揭示了计算难题的本质；**瑟夫与卡恩**的TCP/IP协议构建了互联网的基础；**伯纳斯-李**的万维网提案让互联网变得普及；**布林与佩奇**的PageRank算法则让搜索引擎成为可能。这些论文塑造了现代计算与通信的核心。
+
+---
+
+## <a name="17"></a>17. 极简64x4家用计算机 
 <small>🔗 [github.com](https://github.com/slu4coder/Minimal-64x4-Home-Computer): Minimal 64x4 Home Computer</small>
 
 
-| 🔥🔥: 118 \| 💬: [26](https://news.ycombinator.com/item?id=42794232) \| 🗓️ 2025-01-22
+| 🔥🔥: 120 \| 💬: [26](https://news.ycombinator.com/item?id=42794232) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -214,7 +226,31 @@ Tailwind CSS v4.0 是一个全新版本，**性能提升显著**，构建速度�
 
 ---
 
-## <a name="17"></a>17. Instagram封锁民主的那一天 
+## <a name="18"></a>18. 超快癌症治疗：可能取代传统放疗的新方法 
+<small>🔗 [bbc.com](https://www.bbc.com/future/article/20250121-the-physics-transforming-cancer): The ultra-fast cancer treatments which could replace conventional radiotherapy</small>
+
+
+| 🔥🔥: 111 \| 💬: [5](https://news.ycombinator.com/item?id=42797281) \| 🗓️ 2025-01-22
+
+
+<br />
+欧洲核子研究中心（Cern）正在开发一种名为**Flash**的超快放疗技术，能够在不到一秒的时间内以超高剂量率照射肿瘤，减少对健康组织的损伤。该技术已在动物实验中显示出显著效果，目前正逐步进入人体试验阶段。**Flash**有望治疗复杂脑瘤和转移性癌症，并减少放疗副作用。然而，设备昂贵且复杂，限制了其广泛应用。未来，研究人员希望开发更小型化的设备，使更多患者受益。
+
+---
+
+## <a name="19"></a>19. 大型语言模型的基础 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2501.09223): Foundations of Large Language Models</small>
+
+
+| 🔥🔥: 111 \| 💬: [5](https://news.ycombinator.com/item?id=42799629) \| 🗓️ 2025-01-22
+
+
+<br />
+本书专注于**大型语言模型**的基础概念，涵盖**预训练**、生成模型、提示技术和对齐方法四大主题。适合自然语言处理领域的学生、专业人士和从业者参考，旨在为对大型语言模型感兴趣的读者提供基础知识。
+
+---
+
+## <a name="20"></a>20. Instagram封锁民主的那一天 
 <small>🔗 [docpop.org](https://docpop.org/2025/01/the-day-instagram-blocked-democracy/): The Day Instagram Blocked Democracy</small>
 
 
@@ -223,41 +259,5 @@ Tailwind CSS v4.0 是一个全新版本，**性能提升显著**，构建速度�
 
 <br />
 在特朗普第二次总统就职日，Instagram屏蔽了与美国民主党相关的热门标签，如“#Democrat”、“#PresidentBiden”等，持续9小时，全球用户受影响。与此同时，共和党相关标签如“#Republican”、“#Trump”等仍可正常搜索。Meta声称这是“技术错误”，但事实显示**选择性审查**明显偏向共和党。这一事件引发了对Meta内容审核政策及其与特朗普政府关系的质疑。
-
----
-
-## <a name="18"></a>18. 超快癌症治疗：可能取代传统放疗的新方法 
-<small>🔗 [bbc.com](https://www.bbc.com/future/article/20250121-the-physics-transforming-cancer): The ultra-fast cancer treatments which could replace conventional radiotherapy</small>
-
-
-| 🔥🔥: 109 \| 💬: [4](https://news.ycombinator.com/item?id=42797281) \| 🗓️ 2025-01-22
-
-
-<br />
-欧洲核子研究中心（Cern）正在开发一种名为**Flash**的超快放疗技术，能够在不到一秒的时间内以超高剂量率照射肿瘤，减少对健康组织的损伤。该技术已在动物实验中显示出显著效果，目前正逐步进入人体试验阶段。**Flash**有望治疗复杂脑瘤和转移性癌症，并减少放疗副作用。然而，设备昂贵且复杂，限制了其广泛应用。未来，研究人员希望开发更小型化的设备，使更多患者受益。
-
----
-
-## <a name="19"></a>19. 计算机科学史上最具影响力的论文 
-<small>🔗 [terriblesoftware.org](https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/): Most Influential Papers in Computer Science History</small>
-
-
-| 🔥🔥: 107 \| 💬: [28](https://news.ycombinator.com/item?id=42799103) \| 🗓️ 2025-01-22
-
-
-<br />
-本文介绍了七篇对现代计算机科学影响深远的论文。**图灵**的“可计算数”奠定了计算理论的基础；**香农**的信息论定义了数据传输的规则；**科德**的关系模型革新了数据存储与查询；**库克**的NP完全性理论揭示了计算难题的本质；**瑟夫与卡恩**的TCP/IP协议构建了互联网的基础；**伯纳斯-李**的万维网提案让互联网变得普及；**布林与佩奇**的PageRank算法则让搜索引擎成为可能。这些论文塑造了现代计算与通信的核心。
-
----
-
-## <a name="20"></a>20. 大型语言模型的基础 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2501.09223): Foundations of Large Language Models</small>
-
-
-| 🔥: 88 \| 💬: [3](https://news.ycombinator.com/item?id=42799629) \| 🗓️ 2025-01-22
-
-
-<br />
-本书专注于**大型语言模型**的基础概念，涵盖**预训练**、生成模型、提示技术和对齐方法四大主题。适合自然语言处理领域的学生、专业人士和从业者参考，旨在为对大型语言模型感兴趣的读者提供基础知识。
 
 ---
