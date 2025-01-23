@@ -26,7 +26,7 @@ tags:
 <small>🔗 [byran.ee](https://www.byran.ee/posts/creation/): Show HN: I made an open-source laptop from scratch</small>
 
 
-| 🔥🔥: 833 \| 💬: [123](https://news.ycombinator.com/item?id=42797260) \| 🗓️ 2025-01-22
+| 🔥🔥: 948 \| 💬: [133](https://news.ycombinator.com/item?id=42797260) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/): Mastercard DNS error went unnoticed for years</small>
 
 
-| 🔥🔥: 752 \| 💬: [199](https://news.ycombinator.com/item?id=42793783) \| 🗓️ 2025-01-22
+| 🔥🔥: 770 \| 💬: [203](https://news.ycombinator.com/item?id=42793783) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [tabboo.xyz](https://tabboo.xyz/): TabBoo – add random jumpscares to websites you're trying to avoid</small>
 
 
-| 🔥🔥: 481 \| 💬: [95](https://news.ycombinator.com/item?id=42795237) \| 🗓️ 2025-01-22
+| 🔥🔥: 494 \| 💬: [96](https://news.ycombinator.com/item?id=42795237) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -62,7 +62,7 @@ TabBoo 是一款浏览器扩展，旨在通过**随机惊吓**帮助用户摆脱
 <small>🔗 [rustle.ca](https://rustle.ca/posts/articles/work-from-home-lighting): How to improve your WFH lighting to reduce eye strain</small>
 
 
-| 🔥🔥: 347 \| 💬: [175](https://news.ycombinator.com/item?id=42796950) \| 🗓️ 2025-01-22
+| 🔥🔥: 371 \| 💬: [177](https://news.ycombinator.com/item?id=42796950) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -74,7 +74,7 @@ TabBoo 是一款浏览器扩展，旨在通过**随机惊吓**帮助用户摆脱
 <small>🔗 [jofreeman.com](https://www.jofreeman.com/joreen/tyranny.htm): The Tyranny of Structurelessness (1970)</small>
 
 
-| 🔥🔥: 327 \| 💬: [126](https://news.ycombinator.com/item?id=42793483) \| 🗓️ 2025-01-22
+| 🔥🔥: 331 \| 💬: [126](https://news.ycombinator.com/item?id=42793483) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -86,7 +86,7 @@ Jo Freeman（又名Joreen）在1970年发表的文章中批判了**无结构组�
 <small>🔗 [allthatjazz.me](https://allthatjazz.me/posts/doom-scrolling-struggles): My Struggle with Doom Scrolling</small>
 
 
-| 🔥🔥: 302 \| 💬: [294](https://news.ycombinator.com/item?id=42791428) \| 🗓️ 2025-01-22
+| 🔥🔥: 305 \| 💬: [295](https://news.ycombinator.com/item?id=42791428) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -98,7 +98,7 @@ Jo Freeman（又名Joreen）在1970年发表的文章中批判了**无结构组�
 <small>🔗 [stratoshark.org](https://stratoshark.org/): Show HN: Stratoshark, a sibling application to Wireshark</small>
 
 
-| 🔥🔥: 248 \| 💬: [42](https://news.ycombinator.com/item?id=42793777) \| 🗓️ 2025-01-22
+| 🔥🔥: 252 \| 💬: [42](https://news.ycombinator.com/item?id=42793777) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -110,7 +110,7 @@ Stratoshark 是一款由 Sysdig 为社区开发的工具，**将 Wireshark 的�
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/01/victory-federal-court-finally-rules-backdoor-searches-702-data-unconstitutional): Federal Court (Finally) Rules Backdoor Searches of Data Unconstitutional</small>
 
 
-| 🔥🔥: 239 \| 💬: [49](https://news.ycombinator.com/item?id=42797756) \| 🗓️ 2025-01-22
+| 🔥🔥: 252 \| 💬: [49](https://news.ycombinator.com/item?id=42797756) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -122,7 +122,7 @@ Stratoshark 是一款由 Sysdig 为社区开发的工具，**将 Wireshark 的�
 <small>🔗 [simplecpudesign.com](http://simplecpudesign.com/): Simple CPU Design</small>
 
 
-| 🔥🔥: 222 \| 💬: [37](https://news.ycombinator.com/item?id=42793597) \| 🗓️ 2025-01-22
+| 🔥🔥: 223 \| 💬: [38](https://news.ycombinator.com/item?id=42793597) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -134,7 +134,7 @@ Stratoshark 是一款由 Sysdig 为社区开发的工具，**将 Wireshark 的�
 <small>🔗 [technologyreview.com](https://www.technologyreview.com/2025/01/21/1110260/openai-ups-its-lobbying-efforts-nearly-seven-fold/): OpenAI has upped its lobbying efforts nearly sevenfold</small>
 
 
-| 🔥🔥: 203 \| 💬: [180](https://news.ycombinator.com/item?id=42793567) \| 🗓️ 2025-01-22
+| 🔥🔥: 205 \| 💬: [180](https://news.ycombinator.com/item?id=42793567) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -142,35 +142,11 @@ OpenAI在2024年花费**176万美元**用于政府游说，较2023年的26万美
 
 ---
 
-## <a name="11"></a>11. 谷歌光纤即将登陆拉斯维加斯 
-<small>🔗 [fiber.googleblog.com](https://fiber.googleblog.com/2025/01/las-vegas-get-ready-for-your-close-up.html): Google Fiber is coming to Las Vegas</small>
-
-
-| 🔥🔥: 162 \| 💬: [172](https://news.ycombinator.com/item?id=42798293) \| 🗓️ 2025-01-22
-
-
-<br />
-谷歌光纤已在拉斯维加斯西部开始**网络建设**，并计划下月在克拉克县其他地区继续施工。服务将于今年晚些时候在部分城区推出，提供**高达8G的速度**和自2012年未变的价格。居民和企业可享受高速网络服务。
-
----
-
-## <a name="12"></a>12. gRPC 与 REST：理解 gRPC、OpenAPI 和 REST 及其在 API 设计中的使用场景 
-<small>🔗 [cloud.google.com](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them): Understanding gRPC, OpenAPI and REST and when to use them in API design</small>
-
-
-| 🔥🔥: 162 \| 💬: [132](https://news.ycombinator.com/item?id=42799245) \| 🗓️ 2025-01-22
-
-
-<br />
-本文探讨了 **gRPC**、**REST** 和 **OpenAPI** 三种 API 设计模型的特点及其适用场景。gRPC 基于 RPC 模型，使用 HTTP/2 作为传输协议，适合高性能场景；REST 强调资源导向和超文本链接，适合简单、稳定的 API；OpenAPI 则结合了 RPC 和 HTTP 的优点，允许自定义 URL 映射，适合需要灵活性的场景。选择哪种模型取决于具体需求和开发团队的熟悉程度。
-
----
-
-## <a name="13"></a>13. Tailwind V4 终于发布了 
+## <a name="11"></a>11. Tailwind V4 终于发布了 
 <small>🔗 [tailwindcss.com](https://tailwindcss.com/blog/tailwindcss-v4): Tailwind CSS v4.0</small>
 
 
-| 🔥🔥: 159 \| 💬: [88](https://news.ycombinator.com/item?id=42799136) \| 🗓️ 2025-01-22
+| 🔥🔥: 193 \| 💬: [105](https://news.ycombinator.com/item?id=42799136) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -178,35 +154,35 @@ Tailwind CSS v4.0 是一个全新版本，**性能提升显著**，构建速度�
 
 ---
 
-## <a name="14"></a>14. C 标准库不是线程安全的，即使安全的 Rust 也没能拯救我们 
-<small>🔗 [edgedb.com](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us): C stdlib isn't threadsafe and even safe Rust didn't save us</small>
+## <a name="12"></a>12. gRPC 与 REST：理解 gRPC、OpenAPI 和 REST 及其在 API 设计中的使用场景 
+<small>🔗 [cloud.google.com](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them): Understanding gRPC, OpenAPI and REST and when to use them in API design</small>
 
 
-| 🔥🔥: 138 \| 💬: [166](https://news.ycombinator.com/item?id=42796058) \| 🗓️ 2025-01-22
-
-
-<br />
-在将 EdgeDB 的网络 I/O 代码从 Python 迁移到 Rust 的过程中，团队遇到了一个仅在 ARM64 架构上出现的崩溃问题。最初以为是死锁，但通过调试发现是 **`getenv`** 函数在多线程环境下不安全导致的崩溃。**`setenv`** 和 **`getenv`** 在多线程环境中调用时可能会引发内存访问错误，尤其是在 ARM64 的弱内存模型下更容易暴露问题。最终，团队确认了问题的根源，并意识到即使是 Rust 也无法完全避免 C 标准库的线程安全问题。
-
----
-
-## <a name="15"></a>15. Show HN: NotepadJs – 跨平台的记事本情书 
-<small>🔗 [github.com](https://github.com/itamarom/notepadjs): Show HN: NotepadJs – A cross-platform love letter to Notepad</small>
-
-
-| 🔥🔥: 132 \| 💬: [98](https://news.ycombinator.com/item?id=42791820) \| 🗓️ 2025-01-22
+| 🔥🔥: 182 \| 💬: [137](https://news.ycombinator.com/item?id=42799245) \| 🗓️ 2025-01-22
 
 
 <br />
-NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**安装。作者从 Windows 转至 macOS 后，怀念旧版记事本的简洁与实用，因此开发了这款应用。它使用现代**File System Access API**实现本地文件的读写，并首次尝试了 Vue 框架。项目开源，欢迎反馈与贡献。
+本文探讨了 **gRPC**、**REST** 和 **OpenAPI** 三种 API 设计模型的特点及其适用场景。gRPC 基于 RPC 模型，使用 HTTP/2 作为传输协议，适合高性能场景；REST 强调资源导向和超文本链接，适合简单、稳定的 API；OpenAPI 则结合了 RPC 和 HTTP 的优点，允许自定义 URL 映射，适合需要灵活性的场景。选择哪种模型取决于具体需求和开发团队的熟悉程度。
 
 ---
 
-## <a name="16"></a>16. 计算机科学史上最具影响力的论文 
+## <a name="13"></a>13. 谷歌光纤即将登陆拉斯维加斯 
+<small>🔗 [fiber.googleblog.com](https://fiber.googleblog.com/2025/01/las-vegas-get-ready-for-your-close-up.html): Google Fiber is coming to Las Vegas</small>
+
+
+| 🔥🔥: 162 \| 💬: [175](https://news.ycombinator.com/item?id=42798293) \| 🗓️ 2025-01-22
+
+
+<br />
+谷歌光纤已在拉斯维加斯西部开始**网络建设**，并计划下月在克拉克县其他地区继续施工。服务将于今年晚些时候在部分城区推出，提供**高达8G的速度**和自2012年未变的价格。居民和企业可享受高速网络服务。
+
+---
+
+## <a name="14"></a>14. 计算机科学史上最具影响力的论文 
 <small>🔗 [terriblesoftware.org](https://terriblesoftware.org/2025/01/22/the-7-most-influential-papers-in-computer-science-history/): Most Influential Papers in Computer Science History</small>
 
 
-| 🔥🔥: 122 \| 💬: [36](https://news.ycombinator.com/item?id=42799103) \| 🗓️ 2025-01-22
+| 🔥🔥: 145 \| 💬: [38](https://news.ycombinator.com/item?id=42799103) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -214,35 +190,35 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 
 ---
 
-## <a name="17"></a>17. 极简64x4家用计算机 
-<small>🔗 [github.com](https://github.com/slu4coder/Minimal-64x4-Home-Computer): Minimal 64x4 Home Computer</small>
+## <a name="15"></a>15. C 标准库不是线程安全的，即使安全的 Rust 也没能拯救我们 
+<small>🔗 [edgedb.com](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us): C stdlib isn't threadsafe and even safe Rust didn't save us</small>
 
 
-| 🔥🔥: 120 \| 💬: [26](https://news.ycombinator.com/item?id=42794232) \| 🗓️ 2025-01-22
-
-
-<br />
-这是一个DIY家用计算机项目，具有VGA和PS/2接口，**处理能力是Commodore C64或Apple II的4倍**。它使用61个74HCxx逻辑芯片，**无微控制器**，采用经典的**冯·诺依曼架构**，支持8MHz CPU时钟频率和64KB RAM。项目开源且非商业，提供完整的工具链和经典游戏模拟器。
-
----
-
-## <a name="18"></a>18. 超快癌症治疗：可能取代传统放疗的新方法 
-<small>🔗 [bbc.com](https://www.bbc.com/future/article/20250121-the-physics-transforming-cancer): The ultra-fast cancer treatments which could replace conventional radiotherapy</small>
-
-
-| 🔥🔥: 111 \| 💬: [5](https://news.ycombinator.com/item?id=42797281) \| 🗓️ 2025-01-22
+| 🔥🔥: 144 \| 💬: [168](https://news.ycombinator.com/item?id=42796058) \| 🗓️ 2025-01-22
 
 
 <br />
-欧洲核子研究中心（Cern）正在开发一种名为**Flash**的超快放疗技术，能够在不到一秒的时间内以超高剂量率照射肿瘤，减少对健康组织的损伤。该技术已在动物实验中显示出显著效果，目前正逐步进入人体试验阶段。**Flash**有望治疗复杂脑瘤和转移性癌症，并减少放疗副作用。然而，设备昂贵且复杂，限制了其广泛应用。未来，研究人员希望开发更小型化的设备，使更多患者受益。
+在将 EdgeDB 的网络 I/O 代码从 Python 迁移到 Rust 的过程中，团队遇到了一个仅在 ARM64 架构上出现的崩溃问题。最初以为是死锁，但通过调试发现是 **`getenv`** 函数在多线程环境下不安全导致的崩溃。**`setenv`** 和 **`getenv`** 在多线程环境中调用时可能会引发内存访问错误，尤其是在 ARM64 的弱内存模型下更容易暴露问题。最终，团队确认了问题的根源，并意识到即使是 Rust 也无法完全避免 C 标准库的线程安全问题。
 
 ---
 
-## <a name="19"></a>19. 大型语言模型的基础 
+## <a name="16"></a>16. Show HN: NotepadJs – 跨平台的记事本情书 
+<small>🔗 [github.com](https://github.com/itamarom/notepadjs): Show HN: NotepadJs – A cross-platform love letter to Notepad</small>
+
+
+| 🔥🔥: 132 \| 💬: [99](https://news.ycombinator.com/item?id=42791820) \| 🗓️ 2025-01-22
+
+
+<br />
+NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**安装。作者从 Windows 转至 macOS 后，怀念旧版记事本的简洁与实用，因此开发了这款应用。它使用现代**File System Access API**实现本地文件的读写，并首次尝试了 Vue 框架。项目开源，欢迎反馈与贡献。
+
+---
+
+## <a name="17"></a>17. 大型语言模型的基础 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2501.09223): Foundations of Large Language Models</small>
 
 
-| 🔥🔥: 111 \| 💬: [5](https://news.ycombinator.com/item?id=42799629) \| 🗓️ 2025-01-22
+| 🔥🔥: 128 \| 💬: [6](https://news.ycombinator.com/item?id=42799629) \| 🗓️ 2025-01-22
 
 
 <br />
@@ -250,14 +226,38 @@ NotepadJs 是一款模仿 Windows 记事本的简单应用，支持作为**PWA**
 
 ---
 
-## <a name="20"></a>20. Instagram封锁民主的那一天 
-<small>🔗 [docpop.org](https://docpop.org/2025/01/the-day-instagram-blocked-democracy/): The Day Instagram Blocked Democracy</small>
+## <a name="18"></a>18. 回顾2024：F-Droid的进展与2025展望 
+<small>🔗 [f-droid.org](https://f-droid.org/2025/01/21/a-look-back-at-2024-f-droids-progress-and-whats-coming-in-2025.html): F-Droid's Progress and What's Coming in 2025</small>
 
 
-| 🔥🔥: 109 \| 💬: [61](https://news.ycombinator.com/item?id=42790729) \| 🗓️ 2025-01-22
+| 🔥🔥: 126 \| 💬: [8](https://news.ycombinator.com/item?id=42798108) \| 🗓️ 2025-01-22
 
 
 <br />
-在特朗普第二次总统就职日，Instagram屏蔽了与美国民主党相关的热门标签，如“#Democrat”、“#PresidentBiden”等，持续9小时，全球用户受影响。与此同时，共和党相关标签如“#Republican”、“#Trump”等仍可正常搜索。Meta声称这是“技术错误”，但事实显示**选择性审查**明显偏向共和党。这一事件引发了对Meta内容审核政策及其与特朗普政府关系的质疑。
+2024年，F-Droid在**去中心化应用分发**和生态系统扩展方面取得了显著进展，完成了基础设施升级并支持IPFS和Filecoin镜像。社区贡献大幅增加，新增402款应用，更新7205次。2025年，团队将迎来新成员，并专注于基础设施安全与韧性提升，继续推动开源应用分发的使命。
+
+---
+
+## <a name="19"></a>19. 极简64x4家用计算机 
+<small>🔗 [github.com](https://github.com/slu4coder/Minimal-64x4-Home-Computer): Minimal 64x4 Home Computer</small>
+
+
+| 🔥🔥: 121 \| 💬: [26](https://news.ycombinator.com/item?id=42794232) \| 🗓️ 2025-01-22
+
+
+<br />
+这是一个DIY家用计算机项目，具有VGA和PS/2接口，**处理能力是Commodore C64或Apple II的4倍**。它使用61个74HCxx逻辑芯片，**无微控制器**，采用经典的**冯·诺依曼架构**，支持8MHz CPU时钟频率和64KB RAM。项目开源且非商业，提供完整的工具链和经典游戏模拟器。
+
+---
+
+## <a name="20"></a>20. 超快癌症治疗：可能取代传统放疗的新方法 
+<small>🔗 [bbc.com](https://www.bbc.com/future/article/20250121-the-physics-transforming-cancer): The ultra-fast cancer treatments which could replace conventional radiotherapy</small>
+
+
+| 🔥🔥: 114 \| 💬: [6](https://news.ycombinator.com/item?id=42797281) \| 🗓️ 2025-01-22
+
+
+<br />
+欧洲核子研究中心（Cern）正在开发一种名为**Flash**的超快放疗技术，能够在不到一秒的时间内以超高剂量率照射肿瘤，减少对健康组织的损伤。该技术已在动物实验中显示出显著效果，目前正逐步进入人体试验阶段。**Flash**有望治疗复杂脑瘤和转移性癌症，并减少放疗副作用。然而，设备昂贵且复杂，限制了其广泛应用。未来，研究人员希望开发更小型化的设备，使更多患者受益。
 
 ---
