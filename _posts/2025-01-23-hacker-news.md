@@ -10,8 +10,8 @@ tags:
 
 1. 黑客入侵斯巴鲁：通过STARLINK管理面板追踪和控制车辆；
 1. Llama.vim – 本地LLM辅助文本补全；
-1. 伦敦最中心的羊在哪里？；
 1. 将任何自行车变为电动自行车；
+1. 伦敦最中心的羊在哪里？；
 1. 一个指向不同目的地的二维码——透镜与对抗性；
 
 以上是今天的前五条黑科技新闻标题。
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [samcurry.net](https://samcurry.net/hacking-subaru): Hacking Subaru: Tracking and Controlling Cars via the Starlink Admin Panel</small>
 
 
-| 🔥🔥: 341 \| 💬: [224](https://news.ycombinator.com/item?id=42803279) \| 🗓️ 2025-01-23
+| 🔥🔥: 349 \| 💬: [231](https://news.ycombinator.com/item?id=42803279) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [github.com](https://github.com/ggml-org/llama.vim): Llama.vim – Local LLM-assisted text completion</small>
 
 
-| 🔥🔥: 332 \| 💬: [77](https://news.ycombinator.com/item?id=42806328) \| 🗓️ 2025-01-23
+| 🔥🔥: 348 \| 💬: [77](https://news.ycombinator.com/item?id=42806328) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -46,23 +46,11 @@ Llama.vim 是一个 Vim 插件，提供**本地LLM辅助的代码/文本补全**
 
 ---
 
-## <a name="3"></a>3. 伦敦最中心的羊在哪里？ 
-<small>🔗 [diamondgeezer.blogspot.com](https://diamondgeezer.blogspot.com/2025/01/londons-most-central-sheep.html): Where is London's most central sheep?</small>
-
-
-| 🔥🔥: 229 \| 💬: [132](https://news.ycombinator.com/item?id=42802498) \| 🗓️ 2025-01-23
-
-
-<br />
-伦敦最中心的羊位于**Vauxhall城市农场**，距离特拉法加广场仅一英里多。这只羊是一只**设得兰羊**，性格温顺，适合与儿童互动。Vauxhall农场是伦敦最古老的城市农场之一，拥有七只羊，其中还包括一只名叫**Daffodil**的赫德威克羊。伦敦第二中心的羊则在**Spitalfields城市农场**，名为Beatrix。
-
----
-
-## <a name="4"></a>4. 将任何自行车变为电动自行车 
+## <a name="3"></a>3. 将任何自行车变为电动自行车 
 <small>🔗 [dhruvvidyut.co.in](https://dhruvvidyut.co.in/): Turn any bicycle electric</small>
 
 
-| 🔥🔥: 219 \| 💬: [138](https://news.ycombinator.com/item?id=42804434) \| 🗓️ 2025-01-23
+| 🔥🔥: 230 \| 💬: [141](https://news.ycombinator.com/item?id=42804434) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -70,11 +58,23 @@ Dhruv Vidyut 提供**革命性的电动转换套件**，可将任何自行车改
 
 ---
 
+## <a name="4"></a>4. 伦敦最中心的羊在哪里？ 
+<small>🔗 [diamondgeezer.blogspot.com](https://diamondgeezer.blogspot.com/2025/01/londons-most-central-sheep.html): Where is London's most central sheep?</small>
+
+
+| 🔥🔥: 229 \| 💬: [133](https://news.ycombinator.com/item?id=42802498) \| 🗓️ 2025-01-23
+
+
+<br />
+伦敦最中心的羊位于**Vauxhall城市农场**，距离特拉法加广场仅一英里多。这只羊是一只**设得兰羊**，性格温顺，适合与儿童互动。Vauxhall农场是伦敦最古老的城市农场之一，拥有七只羊，其中还包括一只名叫**Daffodil**的赫德威克羊。伦敦第二中心的羊则在**Spitalfields城市农场**，名为Beatrix。
+
+---
+
 ## <a name="5"></a>5. 一个指向不同目的地的二维码——透镜与对抗性 
-<small>🔗 [mstdn.social](https://mstdn.social/@isziaui/113874436953157913): A QR code that sends you to a different destination - lenticular and adversarial</small>
+<small>🔗 [mstdn.social](https://mstdn.social/@isziaui/113874436953157913): A QR code that sends you to a different destination – lenticular and adversarial</small>
 
 
-| 🔥🔥: 170 \| 💬: [33](https://news.ycombinator.com/item?id=42809268) \| 🗓️ 2025-01-23
+| 🔥🔥: 200 \| 💬: [35](https://news.ycombinator.com/item?id=42809268) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -82,23 +82,11 @@ Dhruv Vidyut 提供**革命性的电动转换套件**，可将任何自行车改
 
 ---
 
-## <a name="6"></a>6. Bunster：将 Bash 脚本编译为自包含可执行文件 
-<small>🔗 [github.com](https://github.com/yassinebenaid/bunster): Bunster: Compile bash scripts to self contained executables</small>
-
-
-| 🔥🔥: 164 \| 💬: [68](https://news.ycombinator.com/item?id=42804835) \| 🗓️ 2025-01-23
-
-
-<br />
-Bunster 是一个将 **Bash 脚本** 编译为高效、独立的 **静态二进制文件** 的工具，利用 Go 工具链生成原生机器代码，提升性能、可移植性和安全性。目前支持 Unix 平台，目标是实现 **模块系统**、**静态资源嵌入** 等功能。项目处于早期开发阶段，遵循 SemVer 版本控制，欢迎社区贡献。
-
----
-
-## <a name="7"></a>7. 开源AI视频编辑器 
+## <a name="6"></a>6. 开源AI视频编辑器 
 <small>🔗 [github.com](https://github.com/fal-ai-community/video-starter-kit): Show HN: Open-source AI video editor</small>
 
 
-| 🔥🔥: 154 \| 💬: [26](https://news.ycombinator.com/item?id=42806616) \| 🗓️ 2025-01-23
+| 🔥🔥: 167 \| 💬: [30](https://news.ycombinator.com/item?id=42806616) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -106,11 +94,23 @@ Bunster 是一个将 **Bash 脚本** 编译为高效、独立的 **静态二进�
 
 ---
 
+## <a name="7"></a>7. Bunster：将 Bash 脚本编译为自包含可执行文件 
+<small>🔗 [github.com](https://github.com/yassinebenaid/bunster): Bunster: Compile bash scripts to self contained executables</small>
+
+
+| 🔥🔥: 166 \| 💬: [68](https://news.ycombinator.com/item?id=42804835) \| 🗓️ 2025-01-23
+
+
+<br />
+Bunster 是一个将 **Bash 脚本** 编译为高效、独立的 **静态二进制文件** 的工具，利用 Go 工具链生成原生机器代码，提升性能、可移植性和安全性。目前支持 Unix 平台，目标是实现 **模块系统**、**静态资源嵌入** 等功能。项目处于早期开发阶段，遵循 SemVer 版本控制，欢迎社区贡献。
+
+---
+
 ## <a name="8"></a>8. 处理文件很难（2019） 
 <small>🔗 [danluu.com](https://danluu.com/deconstruct-files/): Working with Files Is Hard (2019)</small>
 
 
-| 🔥🔥: 144 \| 💬: [62](https://news.ycombinator.com/item?id=42805425) \| 🗓️ 2025-01-23
+| 🔥🔥: 152 \| 💬: [67](https://news.ycombinator.com/item?id=42805425) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -122,7 +122,7 @@ Bunster 是一个将 **Bash 脚本** 编译为高效、独立的 **静态二进�
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/introducing-citations-api): Citations on the Anthropic API</small>
 
 
-| 🔥🔥: 133 \| 💬: [42](https://news.ycombinator.com/item?id=42807173) \| 🗓️ 2025-01-23
+| 🔥🔥: 137 \| 💬: [47](https://news.ycombinator.com/item?id=42807173) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -134,7 +134,7 @@ Anthropic 推出 **Citations** 功能，使 Claude 能够基于源文档生成�
 <small>🔗 [berthub.eu](https://berthub.eu/articles/posts/shifting-cyber-norms-microsoft-post/): Shifting Cyber Norms: Microsoft security POST-ing to you</small>
 
 
-| 🔥🔥: 132 \| 💬: [73](https://news.ycombinator.com/item?id=42803597) \| 🗓️ 2025-01-23
+| 🔥🔥: 133 \| 💬: [73](https://news.ycombinator.com/item?id=42803597) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -146,7 +146,7 @@ Anthropic 推出 **Citations** 功能，使 Claude 能够基于源文档生成�
 <small>🔗 [abortretry.fail](https://www.abortretry.fail/p/the-british-micro-behemoth): The British Micro Behemoth</small>
 
 
-| 🔥🔥: 124 \| 💬: [61](https://news.ycombinator.com/item?id=42802778) \| 🗓️ 2025-01-23
+| 🔥🔥: 126 \| 💬: [61](https://news.ycombinator.com/item?id=42802778) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -158,7 +158,7 @@ Anthropic 推出 **Citations** 功能，使 Claude 能够基于源文档生成�
 <small>🔗 [jprx.io](https://jprx.io/cve-2024-54507/): Susctl CVE-2024-54507: A particularly 'sus' sysctl in the XNU kernel</small>
 
 
-| 🔥: 84 \| 💬: [19](https://news.ycombinator.com/item?id=42808801) \| 🗓️ 2025-01-23
+| 🔥: 87 \| 💬: [21](https://news.ycombinator.com/item?id=42808801) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -170,7 +170,7 @@ Anthropic 推出 **Citations** 功能，使 Claude 能够基于源文档生成�
 <small>🔗 [tmsu.org](https://tmsu.org/): TMSU: Command-line tool for applying tags and viewing virtual tagged filesystem</small>
 
 
-| 🔥: 82 \| 💬: [36](https://news.ycombinator.com/item?id=42805431) \| 🗓️ 2025-01-23
+| 🔥: 84 \| 💬: [36](https://news.ycombinator.com/item?id=42805431) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -194,7 +194,7 @@ TMSU 是一个**命令行工具**，允许用户为文件添加**标签**，并�
 <small>🔗 [scale.com](https://scale.com/blog/humanitys-last-exam-results): Results of "Humanity's Last Exam" benchmark published</small>
 
 
-| 🔥: 78 \| 💬: [110](https://news.ycombinator.com/item?id=42806105) \| 🗓️ 2025-01-23
+| 🔥: 80 \| 💬: [113](https://news.ycombinator.com/item?id=42806105) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -202,11 +202,23 @@ Scale AI与CAIS发布了**“人类终极考试”**基准测试结果，旨在�
 
 ---
 
-## <a name="16"></a>16. CVSS 对我们已死 
+## <a name="16"></a>16. 表面稳定的分形抖动 
+<small>🔗 [github.com](https://github.com/runevision/Dither3D): Surface-Stable Fractal Dithering</small>
+
+
+| 🔥: 76 \| 💬: [12](https://news.ycombinator.com/item?id=42808889) \| 🗓️ 2025-01-23
+
+
+<br />
+**表面稳定的分形抖动** 是一种由 Rune Skovbo Johansen 发明的抖动技术，专为 3D 场景中的表面设计。其独特之处在于，**抖动图案中的点会附着在表面上**，且点的尺寸和间距在屏幕上保持大致恒定，即使表面移动或远离。该技术通过动态增减点来实现这一效果。此仓库包含着色器和纹理源文件，以及一个 Unity 示例项目，展示了如何使用该技术。项目基于 Unity 2019.4 开发，并在 Unity 2022.3 中测试。
+
+---
+
+## <a name="17"></a>17. CVSS 对我们已死 
 <small>🔗 [daniel.haxx.se](https://daniel.haxx.se/blog/2025/01/23/cvss-is-dead-to-us/): CVSS Is Dead to Us</small>
 
 
-| 🔥: 72 \| 💬: [9](https://news.ycombinator.com/item?id=42802736) \| 🗓️ 2025-01-23
+| 🔥: 74 \| 💬: [9](https://news.ycombinator.com/item?id=42802736) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -214,7 +226,19 @@ Scale AI与CAIS发布了**“人类终极考试”**基准测试结果，旨在�
 
 ---
 
-## <a name="17"></a>17. 泄露文件揭露以色列军队与微软的深度合作 
+## <a name="18"></a>18. 《管钟》中的摩斯密码（2021） 
+<small>🔗 [madpsy.uk](https://madpsy.uk/link-between-the-soundtrack-of-the-exorcist-and-amateur-radio/): Morse Code in Tubular Bells (2021)</small>
+
+
+| 🔥: 73 \| 💬: [32](https://news.ycombinator.com/item?id=42807653) \| 🗓️ 2025-01-23
+
+
+<br />
+1973年，Mike Oldfield在录制《管钟》专辑时，无意中捕捉到了附近**Rugby无线电发射站**的摩斯密码信号。该信号以16 KHz的频率被录制在专辑中，后来被奥地利爱好者Gerhard Kircher发现。这一现象揭示了音频设备如何意外接收电磁波信号。此外，Rugby发射站与二战期间的**Y服务**有关，后者为破解**恩尼格玛密码**提供了支持，而这一成就与计算机科学家**艾伦·图灵**密不可分。
+
+---
+
+## <a name="19"></a>19. 泄露文件揭露以色列军队与微软的深度合作 
 <small>🔗 [972mag.com](https://www.972mag.com/microsoft-azure-openai-israeli-army-cloud/): Leaked documents expose deep ties between Israeli army and Microsoft</small>
 
 
@@ -226,38 +250,14 @@ Scale AI与CAIS发布了**“人类终极考试”**基准测试结果，旨在�
 
 ---
 
-## <a name="18"></a>18. 轨道万花筒（2019） 
+## <a name="20"></a>20. 轨道万花筒（2019） 
 <small>🔗 [redblobgames.com](https://www.redblobgames.com/x/1903-orbit-spirograph/): Orbit Spirograph (2019)</small>
 
 
-| 🔥: 66 \| 💬: [6](https://news.ycombinator.com/item?id=42805421) \| 🗓️ 2025-01-23
+| 🔥: 68 \| 💬: [7](https://news.ycombinator.com/item?id=42805421) \| 🗓️ 2025-01-23
 
 
 <br />
 2019年1月19日，受John Carlos Baez关于**金星五角星**的启发，作者探索了金星相对于地球的位置，并绘制了类似万花筒的图案。使用**开普勒第三定律**将行星轨道周期转换为与太阳的距离，展示了包括水星、金星、地球等行星的轨道数据。
-
----
-
-## <a name="19"></a>19. 《管钟》中的摩斯密码（2021） 
-<small>🔗 [madpsy.uk](https://madpsy.uk/link-between-the-soundtrack-of-the-exorcist-and-amateur-radio/): Morse Code in Tubular Bells (2021)</small>
-
-
-| 🔥: 66 \| 💬: [29](https://news.ycombinator.com/item?id=42807653) \| 🗓️ 2025-01-23
-
-
-<br />
-1973年，Mike Oldfield在录制《管钟》专辑时，无意中捕捉到了附近**Rugby无线电发射站**的摩斯密码信号。该信号以16 KHz的频率被录制在专辑中，后来被奥地利爱好者Gerhard Kircher发现。这一现象揭示了音频设备如何意外接收电磁波信号。此外，Rugby发射站与二战期间的**Y服务**有关，后者为破解**恩尼格玛密码**提供了支持，而这一成就与计算机科学家**艾伦·图灵**密不可分。
-
----
-
-## <a name="20"></a>20. 表面稳定的分形抖动 
-<small>🔗 [github.com](https://github.com/runevision/Dither3D): Surface-Stable Fractal Dithering</small>
-
-
-| 🔥: 66 \| 💬: [11](https://news.ycombinator.com/item?id=42808889) \| 🗓️ 2025-01-23
-
-
-<br />
-**表面稳定的分形抖动** 是一种由 Rune Skovbo Johansen 发明的抖动技术，专为 3D 场景中的表面设计。其独特之处在于，**抖动图案中的点会附着在表面上**，且点的尺寸和间距在屏幕上保持大致恒定，即使表面移动或远离。该技术通过动态增减点来实现这一效果。此仓库包含着色器和纹理源文件，以及一个 Unity 示例项目，展示了如何使用该技术。项目基于 Unity 2019.4 开发，并在 Unity 2022.3 中测试。
 
 ---
