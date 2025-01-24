@@ -23,10 +23,10 @@ tags:
 
 
 ## <a name="1"></a>1. Show HN: Cs16.css – 基于CS 1.6界面的CSS库 
-<small>🔗 [cs16.samke.me](https://cs16.samke.me): Show HN: Cs16.css – CSS library based on CS 1.6 UI</small>
+<small>🔗 [cs16.samke.me](https://cs16.samke.me): Show HN: Cs16.css – CSS library based on Counter Strike 1.6 UI</small>
 
 
-| 🔥🔥: 310 \| 💬: [78](https://news.ycombinator.com/item?id=42814110) \| 🗓️ 2025-01-24
+| 🔥🔥: 352 \| 💬: [85](https://news.ycombinator.com/item?id=42814110) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -38,7 +38,7 @@ Cs16.css 是一个**CSS库**，灵感来源于经典游戏《反恐精英1.6》�
 <small>🔗 [github.com](https://github.com/davidlattimore/wild): Wild – A fast linker for Linux</small>
 
 
-| 🔥🔥: 220 \| 💬: [95](https://news.ycombinator.com/item?id=42814683) \| 🗓️ 2025-01-24
+| 🔥🔥: 233 \| 💬: [101](https://news.ycombinator.com/item?id=42814683) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -50,7 +50,7 @@ Wild 是一个专为 Linux 设计的**快速链接器**，旨在通过**增量�
 <small>🔗 [lucumr.pocoo.org](https://lucumr.pocoo.org/2025/1/24/build-it-yourself/): Build It Yourself</small>
 
 
-| 🔥🔥: 216 \| 💬: [179](https://news.ycombinator.com/item?id=42812641) \| 🗓️ 2025-01-24
+| 🔥🔥: 230 \| 💬: [184](https://news.ycombinator.com/item?id=42812641) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -62,7 +62,7 @@ Armin Ronacher 在文章中批评了现代开发中**依赖泛滥**的问题，�
 <small>🔗 [hallofdreams.org](https://hallofdreams.org/posts/physicsforums/): PhysicsForums and the Dead Internet Theory</small>
 
 
-| 🔥🔥: 168 \| 💬: [74](https://news.ycombinator.com/item?id=42816284) \| 🗓️ 2025-01-24
+| 🔥🔥: 196 \| 💬: [110](https://news.ycombinator.com/item?id=42816284) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -74,7 +74,7 @@ Armin Ronacher 在文章中批评了现代开发中**依赖泛滥**的问题，�
 <small>🔗 [wasmgroundup.com](https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet/): A WebAssembly compiler that fits in a tweet</small>
 
 
-| 🔥🔥: 166 \| 💬: [16](https://news.ycombinator.com/item?id=42814948) \| 🗓️ 2025-01-24
+| 🔥🔥: 174 \| 💬: [16](https://news.ycombinator.com/item?id=42814948) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -86,7 +86,7 @@ Armin Ronacher 在文章中批评了现代开发中**依赖泛滥**的问题，�
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=iDwganLjpW0): Subpixel Snake [video]</small>
 
 
-| 🔥🔥: 156 \| 💬: [25](https://news.ycombinator.com/item?id=42815288) \| 🗓️ 2025-01-24
+| 🔥🔥: 169 \| 💬: [29](https://news.ycombinator.com/item?id=42815288) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -94,7 +94,19 @@ Armin Ronacher 在文章中批评了现代开发中**依赖泛滥**的问题，�
 
 ---
 
-## <a name="7"></a>7. Lightpanda：专为AI和自动化设计的无头浏览器 
+## <a name="7"></a>7. 新书籍排序算法近乎完美 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/): New Book-Sorting Algorithm Almost Reaches Perfection</small>
+
+
+| 🔥🔥: 150 \| 💬: [36](https://news.ycombinator.com/item?id=42814275) \| 🗓️ 2025-01-24
+
+
+<br />
+计算机科学家提出了一种新的**书籍排序算法**，几乎达到了理论上的最佳性能。该算法解决了**图书馆排序问题**（即“列表标记问题”），通过结合随机性和历史依赖，显著减少了插入新书籍所需的时间。这一突破不仅适用于书籍管理，还可优化数据库和文件系统的存储效率。
+
+---
+
+## <a name="8"></a>8. Lightpanda：专为AI和自动化设计的无头浏览器 
 <small>🔗 [github.com](https://github.com/lightpanda-io/browser): Lightpanda: Headless browser designed for AI and automation</small>
 
 
@@ -106,47 +118,11 @@ Lightpanda是一款开源的**无头浏览器**，专为AI代理、LLM训练、�
 
 ---
 
-## <a name="8"></a>8. 新书籍排序算法近乎完美 
-<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/): New Book-Sorting Algorithm Almost Reaches Perfection</small>
-
-
-| 🔥🔥: 142 \| 💬: [28](https://news.ycombinator.com/item?id=42814275) \| 🗓️ 2025-01-24
-
-
-<br />
-计算机科学家提出了一种新的**书籍排序算法**，几乎达到了理论上的最佳性能。该算法解决了**图书馆排序问题**（即“列表标记问题”），通过结合随机性和历史依赖，显著减少了插入新书籍所需的时间。这一突破不仅适用于书籍管理，还可优化数据库和文件系统的存储效率。
-
----
-
-## <a name="9"></a>9. 每个系统都是一个日志：在分布式应用中避免协调 
-<small>🔗 [restate.dev](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/): Every System is a Log: Avoiding coordination in distributed applications</small>
-
-
-| 🔥🔥: 133 \| 💬: [104](https://news.ycombinator.com/item?id=42813049) \| 🗓️ 2025-01-24
-
-
-<br />
-分布式应用的复杂性主要源于**协调多个独立系统的状态**，如数据库、消息队列和锁服务。通过将所有操作记录在**单一日志**中，可以避免分布式协调，简化系统设计并提高可靠性。**Restate** 实现了这一理念，通过日志驱动状态管理和消息传递，确保操作的**一致性和容错性**，同时减少系统间的耦合。
-
----
-
-## <a name="10"></a>10. Little Snitch 鲜为人知的功能 
-<small>🔗 [lapcatsoftware.com](https://lapcatsoftware.com/articles/2025/1/6.html): Little Snitch feature nobody knows about</small>
-
-
-| 🔥🔥: 133 \| 💬: [47](https://news.ycombinator.com/item?id=42813231) \| 🗓️ 2025-01-24
-
-
-<br />
-作者在新 Mac 上安装 Little Snitch 后发现，**Safari** 启动时会尝试连接 Google 的 **ssl.gstatic.com**，即使未进行搜索。通过 Little Snitch 的 **via** 规则，可以区分 Safari 主进程和 **Safari Search Helper** 的连接行为。这一技巧虽不常用，但能有效控制后台连接，尤其适用于类似 Chrome 的多进程应用。
-
----
-
-## <a name="11"></a>11. Snowdrop OS – 用汇编语言从头编写的自制操作系统 
+## <a name="9"></a>9. Snowdrop OS – 用汇编语言从头编写的自制操作系统 
 <small>🔗 [sebastianmihai.com](http://sebastianmihai.com/snowdrop/): Snowdrop OS – a homebrew operating system from scratch, in assembly language</small>
 
 
-| 🔥🔥: 130 \| 💬: [26](https://news.ycombinator.com/item?id=42814820) \| 🗓️ 2025-01-24
+| 🔥🔥: 148 \| 💬: [31](https://news.ycombinator.com/item?id=42814820) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -154,11 +130,35 @@ Snowdrop OS 是一个**16位实模式**操作系统，专为 IBM PC 架构设计
 
 ---
 
+## <a name="10"></a>10. 每个系统都是一个日志：在分布式应用中避免协调 
+<small>🔗 [restate.dev](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/): Every System is a Log: Avoiding coordination in distributed applications</small>
+
+
+| 🔥🔥: 138 \| 💬: [108](https://news.ycombinator.com/item?id=42813049) \| 🗓️ 2025-01-24
+
+
+<br />
+分布式应用的复杂性主要源于**协调多个独立系统的状态**，如数据库、消息队列和锁服务。通过将所有操作记录在**单一日志**中，可以避免分布式协调，简化系统设计并提高可靠性。**Restate** 实现了这一理念，通过日志驱动状态管理和消息传递，确保操作的**一致性和容错性**，同时减少系统间的耦合。
+
+---
+
+## <a name="11"></a>11. Little Snitch 鲜为人知的功能 
+<small>🔗 [lapcatsoftware.com](https://lapcatsoftware.com/articles/2025/1/6.html): Little Snitch feature nobody knows about</small>
+
+
+| 🔥🔥: 138 \| 💬: [48](https://news.ycombinator.com/item?id=42813231) \| 🗓️ 2025-01-24
+
+
+<br />
+作者在新 Mac 上安装 Little Snitch 后发现，**Safari** 启动时会尝试连接 Google 的 **ssl.gstatic.com**，即使未进行搜索。通过 Little Snitch 的 **via** 规则，可以区分 Safari 主进程和 **Safari Search Helper** 的连接行为。这一技巧虽不常用，但能有效控制后台连接，尤其适用于类似 Chrome 的多进程应用。
+
+---
+
 ## <a name="12"></a>12. 2025年我是如何使用Home Assistant的 
 <small>🔗 [vpetersson.com](https://vpetersson.com/2025/01/22/how-i-use-home-assistant-in-2025.html): How I Use Home Assistant in 2025</small>
 
 
-| 🔥🔥: 121 \| 💬: [140](https://news.ycombinator.com/item?id=42813513) \| 🗓️ 2025-01-24
+| 🔥🔥: 127 \| 💬: [147](https://news.ycombinator.com/item?id=42813513) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -170,7 +170,7 @@ Snowdrop OS 是一个**16位实模式**操作系统，专为 IBM PC 架构设计
 <small>🔗 [linuxserver.io](https://www.linuxserver.io/blog/we-need-to-talk-about-docker-hub): We Need to Talk About Docker Hub</small>
 
 
-| 🔥🔥: 120 \| 💬: [131](https://news.ycombinator.com/item?id=42812203) \| 🗓️ 2025-01-24
+| 🔥🔥: 120 \| 💬: [135](https://news.ycombinator.com/item?id=42812203) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -182,7 +182,7 @@ Docker Hub是默认的Docker镜像仓库，但近年来其政策变化引发了�
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00177-1): Bluesky's science takeover: 70% of Nature poll respondents use platform</small>
 
 
-| 🔥🔥: 113 \| 💬: [152](https://news.ycombinator.com/item?id=42813316) \| 🗓️ 2025-01-24
+| 🔥🔥: 113 \| 💬: [157](https://news.ycombinator.com/item?id=42813316) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -194,7 +194,7 @@ Docker Hub是默认的Docker镜像仓库，但近年来其政策变化引发了�
 <small>🔗 [threlte.xyz](https://threlte.xyz/blog/threlte-8): Threlte 8</small>
 
 
-| 🔥: 88 \| 💬: [13](https://news.ycombinator.com/item?id=42813264) \| 🗓️ 2025-01-24
+| 🔥: 91 \| 💬: [13](https://news.ycombinator.com/item?id=42813264) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -242,7 +242,7 @@ Nix@NGI 团队致力于通过 **Nix 生态系统** 使开源软件更易运行�
 <small>🔗 [daringfireball.net](https://daringfireball.net/2025/01/siri_is_super_dumb_and_getting_dumber): Siri Is Super Dumb and Getting Dumber</small>
 
 
-| 🔥: 69 \| 💬: [52](https://news.ycombinator.com/item?id=42811663) \| 🗓️ 2025-01-24
+| 🔥: 70 \| 💬: [52](https://news.ycombinator.com/item?id=42811663) \| 🗓️ 2025-01-24
 
 
 <br />
