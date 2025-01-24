@@ -26,7 +26,7 @@ tags:
 <small>🔗 [samcurry.net](https://samcurry.net/hacking-subaru): Hacking Subaru: Tracking and Controlling Cars via the Starlink Admin Panel</small>
 
 
-| 🔥🔥: 313 \| 💬: [215](https://news.ycombinator.com/item?id=42803279) \| 🗓️ 2025-01-23
+| 🔥🔥: 329 \| 💬: [224](https://news.ycombinator.com/item?id=42803279) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [github.com](https://github.com/ggml-org/llama.vim): Llama.vim – Local LLM-assisted text completion</small>
 
 
-| 🔥🔥: 290 \| 💬: [68](https://news.ycombinator.com/item?id=42806328) \| 🗓️ 2025-01-23
+| 🔥🔥: 308 \| 💬: [73](https://news.ycombinator.com/item?id=42806328) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -50,7 +50,7 @@ Llama.vim 是一个 Vim 插件，提供**本地LLM辅助的代码/文本补全**
 <small>🔗 [diamondgeezer.blogspot.com](https://diamondgeezer.blogspot.com/2025/01/londons-most-central-sheep.html): Where is London's most central sheep?</small>
 
 
-| 🔥🔥: 216 \| 💬: [126](https://news.ycombinator.com/item?id=42802498) \| 🗓️ 2025-01-23
+| 🔥🔥: 224 \| 💬: [130](https://news.ycombinator.com/item?id=42802498) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -62,7 +62,7 @@ Llama.vim 是一个 Vim 插件，提供**本地LLM辅助的代码/文本补全**
 <small>🔗 [dhruvvidyut.co.in](https://dhruvvidyut.co.in/): Turn any bicycle electric</small>
 
 
-| 🔥🔥: 201 \| 💬: [136](https://news.ycombinator.com/item?id=42804434) \| 🗓️ 2025-01-23
+| 🔥🔥: 211 \| 💬: [136](https://news.ycombinator.com/item?id=42804434) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -74,7 +74,7 @@ Dhruv Vidyut 提供**革命性的电动转换套件**，可将任何自行车改
 <small>🔗 [github.com](https://github.com/yassinebenaid/bunster): Bunster: Compile bash scripts to self contained executables</small>
 
 
-| 🔥🔥: 156 \| 💬: [65](https://news.ycombinator.com/item?id=42804835) \| 🗓️ 2025-01-23
+| 🔥🔥: 158 \| 💬: [67](https://news.ycombinator.com/item?id=42804835) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -86,7 +86,7 @@ Bunster 是一个将 **Bash 脚本** 编译为高效、独立的 **静态二进�
 <small>🔗 [github.com](https://github.com/fal-ai-community/video-starter-kit): Show HN: Open-source AI video editor</small>
 
 
-| 🔥🔥: 136 \| 💬: [24](https://news.ycombinator.com/item?id=42806616) \| 🗓️ 2025-01-23
+| 🔥🔥: 142 \| 💬: [26](https://news.ycombinator.com/item?id=42806616) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -98,7 +98,7 @@ Bunster 是一个将 **Bash 脚本** 编译为高效、独立的 **静态二进�
 <small>🔗 [danluu.com](https://danluu.com/deconstruct-files/): Working with Files Is Hard (2019)</small>
 
 
-| 🔥🔥: 133 \| 💬: [52](https://news.ycombinator.com/item?id=42805425) \| 🗓️ 2025-01-23
+| 🔥🔥: 139 \| 💬: [56](https://news.ycombinator.com/item?id=42805425) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -110,7 +110,7 @@ Bunster 是一个将 **Bash 脚本** 编译为高效、独立的 **静态二进�
 <small>🔗 [berthub.eu](https://berthub.eu/articles/posts/shifting-cyber-norms-microsoft-post/): Shifting Cyber Norms: Microsoft security POST-ing to you</small>
 
 
-| 🔥🔥: 129 \| 💬: [73](https://news.ycombinator.com/item?id=42803597) \| 🗓️ 2025-01-23
+| 🔥🔥: 131 \| 💬: [73](https://news.ycombinator.com/item?id=42803597) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -118,15 +118,15 @@ Bunster 是一个将 **Bash 脚本** 编译为高效、独立的 **静态二进�
 
 ---
 
-## <a name="9"></a>9. 英国微型巨兽 
-<small>🔗 [abortretry.fail](https://www.abortretry.fail/p/the-british-micro-behemoth): The British Micro Behemoth</small>
+## <a name="9"></a>9. 一个指向不同目的地的二维码——透镜与对抗性 
+<small>🔗 [mstdn.social](https://mstdn.social/@isziaui/113874436953157913): A QR code that sends you to a different destination - lenticular and adversarial</small>
 
 
-| 🔥🔥: 114 \| 💬: [54](https://news.ycombinator.com/item?id=42802778) \| 🗓️ 2025-01-23
+| 🔥🔥: 124 \| 💬: [26](https://news.ycombinator.com/item?id=42809268) \| 🗓️ 2025-01-23
 
 
 <br />
-克莱夫·辛克莱（Clive Sinclair）是英国电子行业的先驱，以其**微型化创新**闻名。他创立了Sinclair Radionics，推出了**Sinclair Executive**，世界上第一款真正的袖珍计算器。尽管产品如**Black Watch**遭遇失败，但ZX80和ZX81等家用电脑取得了巨大成功，推动了个人计算机的普及。
+为了使用Mastodon网页应用，请启用JavaScript，或尝试使用适用于您平台的Mastodon原生应用。**透镜二维码**和**对抗性技术**使得二维码可以指向不同的目的地，展示了技术的创新与潜在风险。
 
 ---
 
@@ -134,7 +134,7 @@ Bunster 是一个将 **Bash 脚本** 编译为高效、独立的 **静态二进�
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/introducing-citations-api): Citations on the Anthropic API</small>
 
 
-| 🔥🔥: 106 \| 💬: [25](https://news.ycombinator.com/item?id=42807173) \| 🗓️ 2025-01-23
+| 🔥🔥: 120 \| 💬: [36](https://news.ycombinator.com/item?id=42807173) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -142,7 +142,19 @@ Anthropic 推出 **Citations** 功能，使 Claude 能够基于源文档生成�
 
 ---
 
-## <a name="11"></a>11. 使用两个编辑器因为Xcode太蠢 
+## <a name="11"></a>11. 英国微型巨兽 
+<small>🔗 [abortretry.fail](https://www.abortretry.fail/p/the-british-micro-behemoth): The British Micro Behemoth</small>
+
+
+| 🔥🔥: 118 \| 💬: [56](https://news.ycombinator.com/item?id=42802778) \| 🗓️ 2025-01-23
+
+
+<br />
+克莱夫·辛克莱（Clive Sinclair）是英国电子行业的先驱，以其**微型化创新**闻名。他创立了Sinclair Radionics，推出了**Sinclair Executive**，世界上第一款真正的袖珍计算器。尽管产品如**Black Watch**遭遇失败，但ZX80和ZX81等家用电脑取得了巨大成功，推动了个人计算机的普及。
+
+---
+
+## <a name="12"></a>12. 使用两个编辑器因为Xcode太蠢 
 <small>🔗 [christiantietze.de](https://christiantietze.de/posts/2025/01/using-2-editors-because-xcode-is-dumb/): Using 2 Editors Because Xcode Is Dumb</small>
 
 
@@ -154,23 +166,11 @@ Anthropic 推出 **Citations** 功能，使 Claude 能够基于源文档生成�
 
 ---
 
-## <a name="12"></a>12. 一个指向不同目的地的二维码——透镜与对抗性 
-<small>🔗 [mstdn.social](https://mstdn.social/@isziaui/113874436953157913): A QR code that sends you to a different destination - lenticular and adversarial</small>
-
-
-| 🔥: 80 \| 💬: [10](https://news.ycombinator.com/item?id=42809268) \| 🗓️ 2025-01-23
-
-
-<br />
-为了使用Mastodon网页应用，请启用JavaScript，或尝试使用适用于您平台的Mastodon原生应用。**透镜二维码**和**对抗性技术**使得二维码可以指向不同的目的地，展示了技术的创新与潜在风险。
-
----
-
 ## <a name="13"></a>13. TMSU：命令行工具，用于应用标签和查看虚拟标签文件系统 
 <small>🔗 [tmsu.org](https://tmsu.org/): TMSU: Command-line tool for applying tags and viewing virtual tagged filesystem</small>
 
 
-| 🔥: 77 \| 💬: [32](https://news.ycombinator.com/item?id=42805431) \| 🗓️ 2025-01-23
+| 🔥: 79 \| 💬: [36](https://news.ycombinator.com/item?id=42805431) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -178,11 +178,23 @@ TMSU 是一个**命令行工具**，允许用户为文件添加**标签**，并�
 
 ---
 
-## <a name="14"></a>14. “人类终极考试”基准测试结果发布 
+## <a name="14"></a>14. Susctl CVE-2024-54507：XNU 内核中一个“可疑”的 sysctl 
+<small>🔗 [jprx.io](https://jprx.io/cve-2024-54507/): Susctl CVE-2024-54507: A particularly 'sus' sysctl in the XNU kernel</small>
+
+
+| 🔥: 74 \| 💬: [16](https://news.ycombinator.com/item?id=42808801) \| 🗓️ 2025-01-23
+
+
+<br />
+在 macOS 15.0 中，**sysctl_udp_log_port** 处理程序存在一个**整数类型混淆**漏洞，导致内核内存泄漏。该漏洞允许用户通过读取 `net.inet.udp.log.remote_port_excluded` 泄露 2 字节的内核数据。该问题已在 macOS 15.2 和 iOS 18.2 中修复，并分配了 CVE-2024-54507。
+
+---
+
+## <a name="15"></a>15. “人类终极考试”基准测试结果发布 
 <small>🔗 [scale.com](https://scale.com/blog/humanitys-last-exam-results): Results of "Humanity's Last Exam" benchmark published</small>
 
 
-| 🔥: 73 \| 💬: [93](https://news.ycombinator.com/item?id=42806105) \| 🗓️ 2025-01-23
+| 🔥: 73 \| 💬: [101](https://news.ycombinator.com/item?id=42806105) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -190,7 +202,7 @@ Scale AI与CAIS发布了**“人类终极考试”**基准测试结果，旨在�
 
 ---
 
-## <a name="15"></a>15. CVSS 对我们已死 
+## <a name="16"></a>16. CVSS 对我们已死 
 <small>🔗 [daniel.haxx.se](https://daniel.haxx.se/blog/2025/01/23/cvss-is-dead-to-us/): CVSS Is Dead to Us</small>
 
 
@@ -202,11 +214,11 @@ Scale AI与CAIS发布了**“人类终极考试”**基准测试结果，旨在�
 
 ---
 
-## <a name="16"></a>16. 泄露文件揭露以色列军队与微软的深度合作 
+## <a name="17"></a>17. 泄露文件揭露以色列军队与微软的深度合作 
 <small>🔗 [972mag.com](https://www.972mag.com/microsoft-azure-openai-israeli-army-cloud/): Leaked documents expose deep ties between Israeli army and Microsoft</small>
 
 
-| 🔥: 67 \| 💬: [37](https://news.ycombinator.com/item?id=42805345) \| 🗓️ 2025-01-23
+| 🔥: 69 \| 💬: [39](https://news.ycombinator.com/item?id=42805345) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -214,7 +226,19 @@ Scale AI与CAIS发布了**“人类终极考试”**基准测试结果，旨在�
 
 ---
 
-## <a name="17"></a>17. 你应该写出“无bug”的代码 
+## <a name="18"></a>18. 轨道万花筒（2019） 
+<small>🔗 [redblobgames.com](https://www.redblobgames.com/x/1903-orbit-spirograph/): Orbit Spirograph (2019)</small>
+
+
+| 🔥: 64 \| 💬: [5](https://news.ycombinator.com/item?id=42805421) \| 🗓️ 2025-01-23
+
+
+<br />
+2019年1月19日，受John Carlos Baez关于**金星五角星**的启发，作者探索了金星相对于地球的位置，并绘制了类似万花筒的图案。使用**开普勒第三定律**将行星轨道周期转换为与太阳的距离，展示了包括水星、金星、地球等行星的轨道数据。
+
+---
+
+## <a name="19"></a>19. 你应该写出“无bug”的代码 
 <small>🔗 [korshakov.com](https://korshakov.com/posts/no-bugs): You should write "without bugs"</small>
 
 
@@ -226,38 +250,14 @@ Scale AI与CAIS发布了**“人类终极考试”**基准测试结果，旨在�
 
 ---
 
-## <a name="18"></a>18. Susctl CVE-2024-54507：XNU 内核中一个“可疑”的 sysctl 
-<small>🔗 [jprx.io](https://jprx.io/cve-2024-54507/): Susctl CVE-2024-54507: A particularly 'sus' sysctl in the XNU kernel</small>
+## <a name="20"></a>20. 《管钟》中的摩斯密码（2021） 
+<small>🔗 [madpsy.uk](https://madpsy.uk/link-between-the-soundtrack-of-the-exorcist-and-amateur-radio/): Morse Code in Tubular Bells (2021)</small>
 
 
-| 🔥: 63 \| 💬: [11](https://news.ycombinator.com/item?id=42808801) \| 🗓️ 2025-01-23
-
-
-<br />
-在 macOS 15.0 中，**sysctl_udp_log_port** 处理程序存在一个**整数类型混淆**漏洞，导致内核内存泄漏。该漏洞允许用户通过读取 `net.inet.udp.log.remote_port_excluded` 泄露 2 字节的内核数据。该问题已在 macOS 15.2 和 iOS 18.2 中修复，并分配了 CVE-2024-54507。
-
----
-
-## <a name="19"></a>19. 轨道万花筒（2019） 
-<small>🔗 [redblobgames.com](https://www.redblobgames.com/x/1903-orbit-spirograph/): Orbit Spirograph (2019)</small>
-
-
-| 🔥: 62 \| 💬: [4](https://news.ycombinator.com/item?id=42805421) \| 🗓️ 2025-01-23
+| 🔥: 61 \| 💬: [27](https://news.ycombinator.com/item?id=42807653) \| 🗓️ 2025-01-23
 
 
 <br />
-2019年1月19日，受John Carlos Baez关于**金星五角星**的启发，作者探索了金星相对于地球的位置，并绘制了类似万花筒的图案。使用**开普勒第三定律**将行星轨道周期转换为与太阳的距离，展示了包括水星、金星、地球等行星的轨道数据。
-
----
-
-## <a name="20"></a>20. 亚马逊移除支持LGBTQ权利和种族平等的声明 
-<small>🔗 [irishstar.com](https://www.irishstar.com/news/us-news/jeff-bezos-deletes-lgbtq-rights-34533955): Amazon removed statements advocating for LGBTQ rights and racial equity</small>
-
-
-| 🔥: 59 \| 💬: [44](https://news.ycombinator.com/item?id=42806900) \| 🗓️ 2025-01-23
-
-
-<br />
-亚马逊近期从其公司政策页面删除了**支持LGBTQ+权利**和**黑人平等**的声明，并移除了所有提及“跨性别”的内容。此举引发了对员工可能失去**性别确认医疗福利**的担忧。亚马逊表示反对歧视，但不再明确支持相关立法或政策。这一变化与其他大公司在特朗普当选后的行动相似。
+1973年，Mike Oldfield在录制《管钟》专辑时，无意中捕捉到了附近**Rugby无线电发射站**的摩斯密码信号。该信号以16 KHz的频率被录制在专辑中，后来被奥地利爱好者Gerhard Kircher发现。这一现象揭示了音频设备如何意外接收电磁波信号。此外，Rugby发射站与二战期间的**Y服务**有关，后者为破解**恩尼格玛密码**提供了支持，而这一成就与计算机科学家**艾伦·图灵**密不可分。
 
 ---
