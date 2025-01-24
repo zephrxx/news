@@ -26,7 +26,7 @@ tags:
 <small>🔗 [samcurry.net](https://samcurry.net/hacking-subaru): Hacking Subaru: Tracking and controlling cars via the admin panel</small>
 
 
-| 🔥🔥: 382 \| 💬: [240](https://news.ycombinator.com/item?id=42803279) \| 🗓️ 2025-01-23
+| 🔥🔥: 391 \| 💬: [243](https://news.ycombinator.com/item?id=42803279) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [github.com](https://github.com/ggml-org/llama.vim): Llama.vim – Local LLM-assisted text completion</small>
 
 
-| 🔥🔥: 375 \| 💬: [79](https://news.ycombinator.com/item?id=42806328) \| 🗓️ 2025-01-23
+| 🔥🔥: 382 \| 💬: [80](https://news.ycombinator.com/item?id=42806328) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -50,7 +50,7 @@ Llama.vim 是一个 Vim 插件，提供**本地LLM辅助的代码/文本补全**
 <small>🔗 [mstdn.social](https://mstdn.social/@isziaui/113874436953157913): A QR code that sends you to a different destination – lenticular and adversarial</small>
 
 
-| 🔥🔥: 261 \| 💬: [37](https://news.ycombinator.com/item?id=42809268) \| 🗓️ 2025-01-23
+| 🔥🔥: 296 \| 💬: [40](https://news.ycombinator.com/item?id=42809268) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -62,7 +62,7 @@ Llama.vim 是一个 Vim 插件，提供**本地LLM辅助的代码/文本补全**
 <small>🔗 [dhruvvidyut.co.in](https://dhruvvidyut.co.in/): Turn any bicycle electric</small>
 
 
-| 🔥🔥: 250 \| 💬: [144](https://news.ycombinator.com/item?id=42804434) \| 🗓️ 2025-01-23
+| 🔥🔥: 265 \| 💬: [147](https://news.ycombinator.com/item?id=42804434) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -74,7 +74,7 @@ Dhruv Vidyut 提供**革命性的电动转换套件**，可将任何自行车改
 <small>🔗 [diamondgeezer.blogspot.com](https://diamondgeezer.blogspot.com/2025/01/londons-most-central-sheep.html): Where is London's most central sheep?</small>
 
 
-| 🔥🔥: 231 \| 💬: [134](https://news.ycombinator.com/item?id=42802498) \| 🗓️ 2025-01-23
+| 🔥🔥: 233 \| 💬: [135](https://news.ycombinator.com/item?id=42802498) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -86,7 +86,7 @@ Dhruv Vidyut 提供**革命性的电动转换套件**，可将任何自行车改
 <small>🔗 [github.com](https://github.com/fal-ai-community/video-starter-kit): Show HN: Open-source AI video editor</small>
 
 
-| 🔥🔥: 180 \| 💬: [30](https://news.ycombinator.com/item?id=42806616) \| 🗓️ 2025-01-23
+| 🔥🔥: 190 \| 💬: [31](https://news.ycombinator.com/item?id=42806616) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -98,7 +98,7 @@ Dhruv Vidyut 提供**革命性的电动转换套件**，可将任何自行车改
 <small>🔗 [github.com](https://github.com/yassinebenaid/bunster): Bunster: Compile bash scripts to self contained executables</small>
 
 
-| 🔥🔥: 170 \| 💬: [69](https://news.ycombinator.com/item?id=42804835) \| 🗓️ 2025-01-23
+| 🔥🔥: 172 \| 💬: [70](https://news.ycombinator.com/item?id=42804835) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -110,7 +110,7 @@ Bunster 是一个将 **Bash 脚本** 编译为高效、独立的 **静态二进�
 <small>🔗 [danluu.com](https://danluu.com/deconstruct-files/): Working with Files Is Hard (2019)</small>
 
 
-| 🔥🔥: 154 \| 💬: [71](https://news.ycombinator.com/item?id=42805425) \| 🗓️ 2025-01-23
+| 🔥🔥: 158 \| 💬: [77](https://news.ycombinator.com/item?id=42805425) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -122,7 +122,7 @@ Bunster 是一个将 **Bash 脚本** 编译为高效、独立的 **静态二进�
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/introducing-citations-api): Citations on the Anthropic API</small>
 
 
-| 🔥🔥: 145 \| 💬: [49](https://news.ycombinator.com/item?id=42807173) \| 🗓️ 2025-01-23
+| 🔥🔥: 147 \| 💬: [49](https://news.ycombinator.com/item?id=42807173) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -134,7 +134,7 @@ Anthropic 推出 **Citations** 功能，使 Claude 能够基于源文档生成�
 <small>🔗 [berthub.eu](https://berthub.eu/articles/posts/shifting-cyber-norms-microsoft-post/): Shifting Cyber Norms: Microsoft security POST-ing to you</small>
 
 
-| 🔥🔥: 135 \| 💬: [73](https://news.ycombinator.com/item?id=42803597) \| 🗓️ 2025-01-23
+| 🔥🔥: 138 \| 💬: [74](https://news.ycombinator.com/item?id=42803597) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -158,7 +158,7 @@ Anthropic 推出 **Citations** 功能，使 Claude 能够基于源文档生成�
 <small>🔗 [github.com](https://github.com/runevision/Dither3D): Surface-Stable Fractal Dithering</small>
 
 
-| 🔥: 96 \| 💬: [16](https://news.ycombinator.com/item?id=42808889) \| 🗓️ 2025-01-23
+| 🔥🔥: 104 \| 💬: [16](https://news.ycombinator.com/item?id=42808889) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -170,7 +170,7 @@ Anthropic 推出 **Citations** 功能，使 Claude 能够基于源文档生成�
 <small>🔗 [jprx.io](https://jprx.io/cve-2024-54507/): Susctl CVE-2024-54507: A particularly 'sus' sysctl in the XNU kernel</small>
 
 
-| 🔥: 95 \| 💬: [29](https://news.ycombinator.com/item?id=42808801) \| 🗓️ 2025-01-23
+| 🔥🔥: 102 \| 💬: [30](https://news.ycombinator.com/item?id=42808801) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -178,23 +178,11 @@ Anthropic 推出 **Citations** 功能，使 Claude 能够基于源文档生成�
 
 ---
 
-## <a name="14"></a>14. “人类终极考试”基准测试结果发布 
-<small>🔗 [scale.com](https://scale.com/blog/humanitys-last-exam-results): Results of "Humanity's Last Exam" benchmark published</small>
-
-
-| 🔥: 86 \| 💬: [114](https://news.ycombinator.com/item?id=42806105) \| 🗓️ 2025-01-23
-
-
-<br />
-Scale AI与CAIS发布了**“人类终极考试”**基准测试结果，旨在评估AI在**前沿人类知识领域**的推理能力。测试结果显示，当前AI模型仅能正确回答不到10%的专家级问题。该测试由全球近1000名专家参与，涵盖数学、人文和自然科学等领域，旨在解决**基准测试饱和**问题，推动AI未来发展。
-
----
-
-## <a name="15"></a>15. TMSU：命令行工具，用于应用标签和查看虚拟标签文件系统 
+## <a name="14"></a>14. TMSU：命令行工具，用于应用标签和查看虚拟标签文件系统 
 <small>🔗 [tmsu.org](https://tmsu.org/): TMSU: Command-line tool for applying tags and viewing virtual tagged filesystem</small>
 
 
-| 🔥: 85 \| 💬: [39](https://news.ycombinator.com/item?id=42805431) \| 🗓️ 2025-01-23
+| 🔥: 87 \| 💬: [40](https://news.ycombinator.com/item?id=42805431) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -202,11 +190,23 @@ TMSU 是一个**命令行工具**，允许用户为文件添加**标签**，并�
 
 ---
 
+## <a name="15"></a>15. “人类终极考试”基准测试结果发布 
+<small>🔗 [scale.com](https://scale.com/blog/humanitys-last-exam-results): Results of "Humanity's Last Exam" benchmark published</small>
+
+
+| 🔥: 87 \| 💬: [115](https://news.ycombinator.com/item?id=42806105) \| 🗓️ 2025-01-23
+
+
+<br />
+Scale AI与CAIS发布了**“人类终极考试”**基准测试结果，旨在评估AI在**前沿人类知识领域**的推理能力。测试结果显示，当前AI模型仅能正确回答不到10%的专家级问题。该测试由全球近1000名专家参与，涵盖数学、人文和自然科学等领域，旨在解决**基准测试饱和**问题，推动AI未来发展。
+
+---
+
 ## <a name="16"></a>16. 《管钟》中的摩斯密码（2021） 
 <small>🔗 [madpsy.uk](https://madpsy.uk/link-between-the-soundtrack-of-the-exorcist-and-amateur-radio/): Morse Code in Tubular Bells (2021)</small>
 
 
-| 🔥: 83 \| 💬: [34](https://news.ycombinator.com/item?id=42807653) \| 🗓️ 2025-01-23
+| 🔥: 87 \| 💬: [37](https://news.ycombinator.com/item?id=42807653) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -214,7 +214,19 @@ TMSU 是一个**命令行工具**，允许用户为文件添加**标签**，并�
 
 ---
 
-## <a name="17"></a>17. 使用两个编辑器因为Xcode太蠢 
+## <a name="17"></a>17. AI不会摧毁软件行业 
+<small>🔗 [dustinewers.com](https://dustinewers.com/ignore-the-grifters/): AI isn't going to kill the software industry</small>
+
+
+| 🔥: 82 \| 💬: [107](https://news.ycombinator.com/item?id=42810175) \| 🗓️ 2025-01-23
+
+
+<br />
+AI工具提升了开发者的生产力，但不会取代软件开发者。**Jevons悖论**表明，效率提升会带来更多软件项目，从而创造更多就业机会。**比较优势**理论说明，即使AI在某些领域表现优异，人类仍能在其他领域发挥作用。软件开发者需要适应变化，学习新工具和技能，以应对未来的挑战。
+
+---
+
+## <a name="18"></a>18. 使用两个编辑器因为Xcode太蠢 
 <small>🔗 [christiantietze.de](https://christiantietze.de/posts/2025/01/using-2-editors-because-xcode-is-dumb/): Using 2 Editors Because Xcode Is Dumb</small>
 
 
@@ -226,23 +238,11 @@ TMSU 是一个**命令行工具**，允许用户为文件添加**标签**，并�
 
 ---
 
-## <a name="18"></a>18. AI不会摧毁软件行业 
-<small>🔗 [dustinewers.com](https://dustinewers.com/ignore-the-grifters/): AI isn't going to kill the software industry</small>
-
-
-| 🔥: 78 \| 💬: [104](https://news.ycombinator.com/item?id=42810175) \| 🗓️ 2025-01-23
-
-
-<br />
-AI工具提升了开发者的生产力，但不会取代软件开发者。**Jevons悖论**表明，效率提升会带来更多软件项目，从而创造更多就业机会。**比较优势**理论说明，即使AI在某些领域表现优异，人类仍能在其他领域发挥作用。软件开发者需要适应变化，学习新工具和技能，以应对未来的挑战。
-
----
-
 ## <a name="19"></a>19. CVSS 对我们已死 
 <small>🔗 [daniel.haxx.se](https://daniel.haxx.se/blog/2025/01/23/cvss-is-dead-to-us/): CVSS Is Dead to Us</small>
 
 
-| 🔥: 75 \| 💬: [9](https://news.ycombinator.com/item?id=42802736) \| 🗓️ 2025-01-23
+| 🔥: 76 \| 💬: [9](https://news.ycombinator.com/item?id=42802736) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -254,7 +254,7 @@ AI工具提升了开发者的生产力，但不会取代软件开发者。**Jevo
 <small>🔗 [korshakov.com](https://korshakov.com/posts/no-bugs): You should write "without bugs"</small>
 
 
-| 🔥: 70 \| 💬: [54](https://news.ycombinator.com/item?id=42807200) \| 🗓️ 2025-01-23
+| 🔥: 73 \| 💬: [55](https://news.ycombinator.com/item?id=42807200) \| 🗓️ 2025-01-23
 
 
 <br />
