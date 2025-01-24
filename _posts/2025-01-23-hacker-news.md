@@ -26,7 +26,7 @@ tags:
 <small>🔗 [samcurry.net](https://samcurry.net/hacking-subaru): Hacking Subaru: Tracking and Controlling Cars via the Starlink Admin Panel</small>
 
 
-| 🔥🔥: 294 \| 💬: [206](https://news.ycombinator.com/item?id=42803279) \| 🗓️ 2025-01-23
+| 🔥🔥: 313 \| 💬: [215](https://news.ycombinator.com/item?id=42803279) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [github.com](https://github.com/ggml-org/llama.vim): Llama.vim – Local LLM-assisted text completion</small>
 
 
-| 🔥🔥: 274 \| 💬: [66](https://news.ycombinator.com/item?id=42806328) \| 🗓️ 2025-01-23
+| 🔥🔥: 290 \| 💬: [68](https://news.ycombinator.com/item?id=42806328) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -50,7 +50,7 @@ Llama.vim 是一个 Vim 插件，提供**本地LLM辅助的代码/文本补全**
 <small>🔗 [diamondgeezer.blogspot.com](https://diamondgeezer.blogspot.com/2025/01/londons-most-central-sheep.html): Where is London's most central sheep?</small>
 
 
-| 🔥🔥: 210 \| 💬: [125](https://news.ycombinator.com/item?id=42802498) \| 🗓️ 2025-01-23
+| 🔥🔥: 216 \| 💬: [126](https://news.ycombinator.com/item?id=42802498) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -62,7 +62,7 @@ Llama.vim 是一个 Vim 插件，提供**本地LLM辅助的代码/文本补全**
 <small>🔗 [dhruvvidyut.co.in](https://dhruvvidyut.co.in/): Turn any bicycle electric</small>
 
 
-| 🔥🔥: 189 \| 💬: [130](https://news.ycombinator.com/item?id=42804434) \| 🗓️ 2025-01-23
+| 🔥🔥: 201 \| 💬: [136](https://news.ycombinator.com/item?id=42804434) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -74,7 +74,7 @@ Dhruv Vidyut 提供**革命性的电动转换套件**，可将任何自行车改
 <small>🔗 [github.com](https://github.com/yassinebenaid/bunster): Bunster: Compile bash scripts to self contained executables</small>
 
 
-| 🔥🔥: 150 \| 💬: [62](https://news.ycombinator.com/item?id=42804835) \| 🗓️ 2025-01-23
+| 🔥🔥: 156 \| 💬: [65](https://news.ycombinator.com/item?id=42804835) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -82,7 +82,31 @@ Bunster 是一个将 **Bash 脚本** 编译为高效、独立的 **静态二进�
 
 ---
 
-## <a name="6"></a>6. 网络规范的变迁：微软安全扫描的POST行为 
+## <a name="6"></a>6. 开源AI视频编辑器 
+<small>🔗 [github.com](https://github.com/fal-ai-community/video-starter-kit): Show HN: Open-source AI video editor</small>
+
+
+| 🔥🔥: 136 \| 💬: [24](https://news.ycombinator.com/item?id=42806616) \| 🗓️ 2025-01-23
+
+
+<br />
+这是一个**开源项目**，展示了在浏览器中使用AI模型进行视频制作的能力。项目基于**Next.js**、**Remotion**和**fal.ai**，提供了强大的AI视频处理功能，包括多剪辑合成、音频集成和语音支持。开发者可以通过简单的步骤快速启动项目，并利用内置的UI组件和TypeScript支持进行扩展。项目采用MIT许可证，欢迎社区贡献。
+
+---
+
+## <a name="7"></a>7. 处理文件很难（2019） 
+<small>🔗 [danluu.com](https://danluu.com/deconstruct-files/): Working with Files Is Hard (2019)</small>
+
+
+| 🔥🔥: 133 \| 💬: [52](https://news.ycombinator.com/item?id=42805425) \| 🗓️ 2025-01-23
+
+
+<br />
+本文探讨了文件处理的复杂性，指出**文件系统抽象**并不完美，开发者常误以为文件操作简单。通过分析Dropbox对ext4的支持，揭示了不同文件系统的差异和潜在问题。文章还讨论了**原子写入**、**数据损坏**和**文件API的误用**，指出即使是专家也难以完全避免错误。文件操作与并发编程类似，容易产生非确定性错误，且API行为因文件系统和模式而异，增加了开发难度。
+
+---
+
+## <a name="8"></a>8. 网络规范的变迁：微软安全扫描的POST行为 
 <small>🔗 [berthub.eu](https://berthub.eu/articles/posts/shifting-cyber-norms-microsoft-post/): Shifting Cyber Norms: Microsoft security POST-ing to you</small>
 
 
@@ -94,35 +118,11 @@ Bunster 是一个将 **Bash 脚本** 编译为高效、独立的 **静态二进�
 
 ---
 
-## <a name="7"></a>7. 处理文件很难（2019） 
-<small>🔗 [danluu.com](https://danluu.com/deconstruct-files/): Working with Files Is Hard (2019)</small>
-
-
-| 🔥🔥: 123 \| 💬: [45](https://news.ycombinator.com/item?id=42805425) \| 🗓️ 2025-01-23
-
-
-<br />
-本文探讨了文件处理的复杂性，指出**文件系统抽象**并不完美，开发者常误以为文件操作简单。通过分析Dropbox对ext4的支持，揭示了不同文件系统的差异和潜在问题。文章还讨论了**原子写入**、**数据损坏**和**文件API的误用**，指出即使是专家也难以完全避免错误。文件操作与并发编程类似，容易产生非确定性错误，且API行为因文件系统和模式而异，增加了开发难度。
-
----
-
-## <a name="8"></a>8. 开源AI视频编辑器 
-<small>🔗 [github.com](https://github.com/fal-ai-community/video-starter-kit): Show HN: Open-source AI video editor</small>
-
-
-| 🔥🔥: 116 \| 💬: [20](https://news.ycombinator.com/item?id=42806616) \| 🗓️ 2025-01-23
-
-
-<br />
-这是一个**开源项目**，展示了在浏览器中使用AI模型进行视频制作的能力。项目基于**Next.js**、**Remotion**和**fal.ai**，提供了强大的AI视频处理功能，包括多剪辑合成、音频集成和语音支持。开发者可以通过简单的步骤快速启动项目，并利用内置的UI组件和TypeScript支持进行扩展。项目采用MIT许可证，欢迎社区贡献。
-
----
-
 ## <a name="9"></a>9. 英国微型巨兽 
 <small>🔗 [abortretry.fail](https://www.abortretry.fail/p/the-british-micro-behemoth): The British Micro Behemoth</small>
 
 
-| 🔥🔥: 109 \| 💬: [53](https://news.ycombinator.com/item?id=42802778) \| 🗓️ 2025-01-23
+| 🔥🔥: 114 \| 💬: [54](https://news.ycombinator.com/item?id=42802778) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -134,7 +134,7 @@ Bunster 是一个将 **Bash 脚本** 编译为高效、独立的 **静态二进�
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/introducing-citations-api): Citations on the Anthropic API</small>
 
 
-| 🔥: 89 \| 💬: [13](https://news.ycombinator.com/item?id=42807173) \| 🗓️ 2025-01-23
+| 🔥🔥: 106 \| 💬: [25](https://news.ycombinator.com/item?id=42807173) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -154,15 +154,15 @@ Anthropic 推出 **Citations** 功能，使 Claude 能够基于源文档生成�
 
 ---
 
-## <a name="12"></a>12. CVSS 对我们已死 
-<small>🔗 [daniel.haxx.se](https://daniel.haxx.se/blog/2025/01/23/cvss-is-dead-to-us/): CVSS Is Dead to Us</small>
+## <a name="12"></a>12. 一个指向不同目的地的二维码——透镜与对抗性 
+<small>🔗 [mstdn.social](https://mstdn.social/@isziaui/113874436953157913): A QR code that sends you to a different destination - lenticular and adversarial</small>
 
 
-| 🔥: 72 \| 💬: [8](https://news.ycombinator.com/item?id=42802736) \| 🗓️ 2025-01-23
+| 🔥: 80 \| 💬: [10](https://news.ycombinator.com/item?id=42809268) \| 🗓️ 2025-01-23
 
 
 <br />
-**CVSS**（通用漏洞评分系统）用于评估计算系统中漏洞的严重性，但其评分机制存在**局限性**，尤其对广泛使用的开源项目如 **curl** 不适用。curl 团队已放弃使用 CVSS，改用四级分类（低、中、高、严重）来评估漏洞。然而，CISA 作为授权数据发布者，仍强制为 curl 的 CVE 添加 CVSS 评分，导致评分与实际风险不符，引发误导。curl 团队呼吁停止强制使用 CVSS，认为单一评分无法准确反映漏洞的复杂性。
+为了使用Mastodon网页应用，请启用JavaScript，或尝试使用适用于您平台的Mastodon原生应用。**透镜二维码**和**对抗性技术**使得二维码可以指向不同的目的地，展示了技术的创新与潜在风险。
 
 ---
 
@@ -170,7 +170,7 @@ Anthropic 推出 **Citations** 功能，使 Claude 能够基于源文档生成�
 <small>🔗 [tmsu.org](https://tmsu.org/): TMSU: Command-line tool for applying tags and viewing virtual tagged filesystem</small>
 
 
-| 🔥: 72 \| 💬: [31](https://news.ycombinator.com/item?id=42805431) \| 🗓️ 2025-01-23
+| 🔥: 77 \| 💬: [32](https://news.ycombinator.com/item?id=42805431) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -178,23 +178,11 @@ TMSU 是一个**命令行工具**，允许用户为文件添加**标签**，并�
 
 ---
 
-## <a name="14"></a>14. 泄露文件揭露以色列军队与微软的深度合作 
-<small>🔗 [972mag.com](https://www.972mag.com/microsoft-azure-openai-israeli-army-cloud/): Leaked documents expose deep ties between Israeli army and Microsoft</small>
-
-
-| 🔥: 66 \| 💬: [36](https://news.ycombinator.com/item?id=42805345) \| 🗓️ 2025-01-23
-
-
-<br />
-根据以色列国防部和微软以色列子公司的泄露文件，**微软**在以色列主要军事基础设施中拥有广泛影响力，其**云计算平台Azure**和**人工智能服务**在加沙冲突期间销量激增。文件显示，以色列多个军事单位使用Azure服务，包括情报部门和空军目标数据库管理单位。微软还与以色列军队合作开发系统，提供**GPT-4**等AI工具，用于情报收集和作战支持。
-
----
-
-## <a name="15"></a>15. “人类终极考试”基准测试结果发布 
+## <a name="14"></a>14. “人类终极考试”基准测试结果发布 
 <small>🔗 [scale.com](https://scale.com/blog/humanitys-last-exam-results): Results of "Humanity's Last Exam" benchmark published</small>
 
 
-| 🔥: 65 \| 💬: [87](https://news.ycombinator.com/item?id=42806105) \| 🗓️ 2025-01-23
+| 🔥: 73 \| 💬: [93](https://news.ycombinator.com/item?id=42806105) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -202,11 +190,35 @@ Scale AI与CAIS发布了**“人类终极考试”**基准测试结果，旨在�
 
 ---
 
-## <a name="16"></a>16. 你应该写出“无bug”的代码 
+## <a name="15"></a>15. CVSS 对我们已死 
+<small>🔗 [daniel.haxx.se](https://daniel.haxx.se/blog/2025/01/23/cvss-is-dead-to-us/): CVSS Is Dead to Us</small>
+
+
+| 🔥: 72 \| 💬: [9](https://news.ycombinator.com/item?id=42802736) \| 🗓️ 2025-01-23
+
+
+<br />
+**CVSS**（通用漏洞评分系统）用于评估计算系统中漏洞的严重性，但其评分机制存在**局限性**，尤其对广泛使用的开源项目如 **curl** 不适用。curl 团队已放弃使用 CVSS，改用四级分类（低、中、高、严重）来评估漏洞。然而，CISA 作为授权数据发布者，仍强制为 curl 的 CVE 添加 CVSS 评分，导致评分与实际风险不符，引发误导。curl 团队呼吁停止强制使用 CVSS，认为单一评分无法准确反映漏洞的复杂性。
+
+---
+
+## <a name="16"></a>16. 泄露文件揭露以色列军队与微软的深度合作 
+<small>🔗 [972mag.com](https://www.972mag.com/microsoft-azure-openai-israeli-army-cloud/): Leaked documents expose deep ties between Israeli army and Microsoft</small>
+
+
+| 🔥: 67 \| 💬: [37](https://news.ycombinator.com/item?id=42805345) \| 🗓️ 2025-01-23
+
+
+<br />
+根据以色列国防部和微软以色列子公司的泄露文件，**微软**在以色列主要军事基础设施中拥有广泛影响力，其**云计算平台Azure**和**人工智能服务**在加沙冲突期间销量激增。文件显示，以色列多个军事单位使用Azure服务，包括情报部门和空军目标数据库管理单位。微软还与以色列军队合作开发系统，提供**GPT-4**等AI工具，用于情报收集和作战支持。
+
+---
+
+## <a name="17"></a>17. 你应该写出“无bug”的代码 
 <small>🔗 [korshakov.com](https://korshakov.com/posts/no-bugs): You should write "without bugs"</small>
 
 
-| 🔥: 63 \| 💬: [52](https://news.ycombinator.com/item?id=42807200) \| 🗓️ 2025-01-23
+| 🔥: 64 \| 💬: [52](https://news.ycombinator.com/item?id=42807200) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -214,11 +226,23 @@ Scale AI与CAIS发布了**“人类终极考试”**基准测试结果，旨在�
 
 ---
 
-## <a name="17"></a>17. 轨道万花筒（2019） 
+## <a name="18"></a>18. Susctl CVE-2024-54507：XNU 内核中一个“可疑”的 sysctl 
+<small>🔗 [jprx.io](https://jprx.io/cve-2024-54507/): Susctl CVE-2024-54507: A particularly 'sus' sysctl in the XNU kernel</small>
+
+
+| 🔥: 63 \| 💬: [11](https://news.ycombinator.com/item?id=42808801) \| 🗓️ 2025-01-23
+
+
+<br />
+在 macOS 15.0 中，**sysctl_udp_log_port** 处理程序存在一个**整数类型混淆**漏洞，导致内核内存泄漏。该漏洞允许用户通过读取 `net.inet.udp.log.remote_port_excluded` 泄露 2 字节的内核数据。该问题已在 macOS 15.2 和 iOS 18.2 中修复，并分配了 CVE-2024-54507。
+
+---
+
+## <a name="19"></a>19. 轨道万花筒（2019） 
 <small>🔗 [redblobgames.com](https://www.redblobgames.com/x/1903-orbit-spirograph/): Orbit Spirograph (2019)</small>
 
 
-| 🔥: 59 \| 💬: [4](https://news.ycombinator.com/item?id=42805421) \| 🗓️ 2025-01-23
+| 🔥: 62 \| 💬: [4](https://news.ycombinator.com/item?id=42805421) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -226,38 +250,14 @@ Scale AI与CAIS发布了**“人类终极考试”**基准测试结果，旨在�
 
 ---
 
-## <a name="18"></a>18. 亚马逊移除支持LGBTQ权利和种族平等的声明 
+## <a name="20"></a>20. 亚马逊移除支持LGBTQ权利和种族平等的声明 
 <small>🔗 [irishstar.com](https://www.irishstar.com/news/us-news/jeff-bezos-deletes-lgbtq-rights-34533955): Amazon removed statements advocating for LGBTQ rights and racial equity</small>
 
 
-| 🔥: 56 \| 💬: [42](https://news.ycombinator.com/item?id=42806900) \| 🗓️ 2025-01-23
+| 🔥: 59 \| 💬: [44](https://news.ycombinator.com/item?id=42806900) \| 🗓️ 2025-01-23
 
 
 <br />
 亚马逊近期从其公司政策页面删除了**支持LGBTQ+权利**和**黑人平等**的声明，并移除了所有提及“跨性别”的内容。此举引发了对员工可能失去**性别确认医疗福利**的担忧。亚马逊表示反对歧视，但不再明确支持相关立法或政策。这一变化与其他大公司在特朗普当选后的行动相似。
-
----
-
-## <a name="19"></a>19. 我们通过与HTC的新协议加速Android XR平台发展 
-<small>🔗 [blog.google](https://blog.google/feed/android-xr-htc-agreement/): We're accelerating the Android XR platform with a new agreement with HTC</small>
-
-
-| 🔥: 54 \| 💬: [65](https://news.ycombinator.com/item?id=42802210) \| 🗓️ 2025-01-23
-
-
-<br />
-我们已投资**XR**领域十多年，最近与行业合作伙伴推出了**Android XR平台**。今天，我们签署协议，欢迎部分HTC VIVE工程师团队加入Google，他们将助力加速**头显和眼镜生态系统**的开发。
-
----
-
-## <a name="20"></a>20. 《管钟》中的摩斯密码（2021） 
-<small>🔗 [madpsy.uk](https://madpsy.uk/link-between-the-soundtrack-of-the-exorcist-and-amateur-radio/): Morse Code in Tubular Bells (2021)</small>
-
-
-| 🔥: 54 \| 💬: [18](https://news.ycombinator.com/item?id=42807653) \| 🗓️ 2025-01-23
-
-
-<br />
-1973年，Mike Oldfield在录制《管钟》专辑时，无意中捕捉到了附近**Rugby无线电发射站**的摩斯密码信号。该信号以16 KHz的频率被录制在专辑中，后来被奥地利爱好者Gerhard Kircher发现。这一现象揭示了音频设备如何意外接收电磁波信号。此外，Rugby发射站与二战期间的**Y服务**有关，后者为破解**恩尼格玛密码**提供了支持，而这一成就与计算机科学家**艾伦·图灵**密不可分。
 
 ---
