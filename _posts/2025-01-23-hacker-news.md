@@ -26,7 +26,7 @@ tags:
 <small>🔗 [samcurry.net](https://samcurry.net/hacking-subaru): Hacking Subaru: Tracking and Controlling Cars via the Starlink Admin Panel</small>
 
 
-| 🔥🔥: 284 \| 💬: [197](https://news.ycombinator.com/item?id=42803279) \| 🗓️ 2025-01-23
+| 🔥🔥: 294 \| 💬: [206](https://news.ycombinator.com/item?id=42803279) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [github.com](https://github.com/ggml-org/llama.vim): Llama.vim – Local LLM-assisted text completion</small>
 
 
-| 🔥🔥: 254 \| 💬: [65](https://news.ycombinator.com/item?id=42806328) \| 🗓️ 2025-01-23
+| 🔥🔥: 274 \| 💬: [66](https://news.ycombinator.com/item?id=42806328) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -50,7 +50,7 @@ Llama.vim 是一个 Vim 插件，提供**本地LLM辅助的代码/文本补全**
 <small>🔗 [diamondgeezer.blogspot.com](https://diamondgeezer.blogspot.com/2025/01/londons-most-central-sheep.html): Where is London's most central sheep?</small>
 
 
-| 🔥🔥: 205 \| 💬: [123](https://news.ycombinator.com/item?id=42802498) \| 🗓️ 2025-01-23
+| 🔥🔥: 210 \| 💬: [125](https://news.ycombinator.com/item?id=42802498) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -62,7 +62,7 @@ Llama.vim 是一个 Vim 插件，提供**本地LLM辅助的代码/文本补全**
 <small>🔗 [dhruvvidyut.co.in](https://dhruvvidyut.co.in/): Turn any bicycle electric</small>
 
 
-| 🔥🔥: 174 \| 💬: [121](https://news.ycombinator.com/item?id=42804434) \| 🗓️ 2025-01-23
+| 🔥🔥: 189 \| 💬: [130](https://news.ycombinator.com/item?id=42804434) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -74,7 +74,7 @@ Dhruv Vidyut 提供**革命性的电动转换套件**，可将任何自行车改
 <small>🔗 [github.com](https://github.com/yassinebenaid/bunster): Bunster: Compile bash scripts to self contained executables</small>
 
 
-| 🔥🔥: 147 \| 💬: [62](https://news.ycombinator.com/item?id=42804835) \| 🗓️ 2025-01-23
+| 🔥🔥: 150 \| 💬: [62](https://news.ycombinator.com/item?id=42804835) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -86,7 +86,7 @@ Bunster 是一个将 **Bash 脚本** 编译为高效、独立的 **静态二进�
 <small>🔗 [berthub.eu](https://berthub.eu/articles/posts/shifting-cyber-norms-microsoft-post/): Shifting Cyber Norms: Microsoft security POST-ing to you</small>
 
 
-| 🔥🔥: 126 \| 💬: [71](https://news.ycombinator.com/item?id=42803597) \| 🗓️ 2025-01-23
+| 🔥🔥: 129 \| 💬: [73](https://news.ycombinator.com/item?id=42803597) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -98,7 +98,7 @@ Bunster 是一个将 **Bash 脚本** 编译为高效、独立的 **静态二进�
 <small>🔗 [danluu.com](https://danluu.com/deconstruct-files/): Working with Files Is Hard (2019)</small>
 
 
-| 🔥🔥: 112 \| 💬: [40](https://news.ycombinator.com/item?id=42805425) \| 🗓️ 2025-01-23
+| 🔥🔥: 123 \| 💬: [45](https://news.ycombinator.com/item?id=42805425) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -106,23 +106,11 @@ Bunster 是一个将 **Bash 脚本** 编译为高效、独立的 **静态二进�
 
 ---
 
-## <a name="8"></a>8. 英国微型巨兽 
-<small>🔗 [abortretry.fail](https://www.abortretry.fail/p/the-british-micro-behemoth): The British Micro Behemoth</small>
-
-
-| 🔥🔥: 108 \| 💬: [51](https://news.ycombinator.com/item?id=42802778) \| 🗓️ 2025-01-23
-
-
-<br />
-克莱夫·辛克莱（Clive Sinclair）是英国电子行业的先驱，以其**微型化创新**闻名。他创立了Sinclair Radionics，推出了**Sinclair Executive**，世界上第一款真正的袖珍计算器。尽管产品如**Black Watch**遭遇失败，但ZX80和ZX81等家用电脑取得了巨大成功，推动了个人计算机的普及。
-
----
-
-## <a name="9"></a>9. 开源AI视频编辑器 
+## <a name="8"></a>8. 开源AI视频编辑器 
 <small>🔗 [github.com](https://github.com/fal-ai-community/video-starter-kit): Show HN: Open-source AI video editor</small>
 
 
-| 🔥: 98 \| 💬: [16](https://news.ycombinator.com/item?id=42806616) \| 🗓️ 2025-01-23
+| 🔥🔥: 116 \| 💬: [20](https://news.ycombinator.com/item?id=42806616) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -130,35 +118,23 @@ Bunster 是一个将 **Bash 脚本** 编译为高效、独立的 **静态二进�
 
 ---
 
-## <a name="10"></a>10. 使用两个编辑器因为Xcode太蠢 
-<small>🔗 [christiantietze.de](https://christiantietze.de/posts/2025/01/using-2-editors-because-xcode-is-dumb/): Using 2 Editors Because Xcode Is Dumb</small>
+## <a name="9"></a>9. 英国微型巨兽 
+<small>🔗 [abortretry.fail](https://www.abortretry.fail/p/the-british-micro-behemoth): The British Micro Behemoth</small>
 
 
-| 🔥: 80 \| 💬: [89](https://news.ycombinator.com/item?id=42803290) \| 🗓️ 2025-01-23
-
-
-<br />
-作者在开发**TextKitAutoCompletion**包时，发现**Xcode 16**对本地包依赖的处理方式变得非常糟糕。**新增文件**或**运行测试**时，Xcode无法正确识别，导致频繁的构建错误。作者不得不使用**Emacs**作为备用编辑器来编辑和测试包，同时继续用Xcode运行应用项目。这种双重编辑器的工作方式虽然奇怪，但比频繁重启Xcode要好得多。
-
----
-
-## <a name="11"></a>11. CVSS 对我们已死 
-<small>🔗 [daniel.haxx.se](https://daniel.haxx.se/blog/2025/01/23/cvss-is-dead-to-us/): CVSS Is Dead to Us</small>
-
-
-| 🔥: 71 \| 💬: [8](https://news.ycombinator.com/item?id=42802736) \| 🗓️ 2025-01-23
+| 🔥🔥: 109 \| 💬: [53](https://news.ycombinator.com/item?id=42802778) \| 🗓️ 2025-01-23
 
 
 <br />
-**CVSS**（通用漏洞评分系统）用于评估计算系统中漏洞的严重性，但其评分机制存在**局限性**，尤其对广泛使用的开源项目如 **curl** 不适用。curl 团队已放弃使用 CVSS，改用四级分类（低、中、高、严重）来评估漏洞。然而，CISA 作为授权数据发布者，仍强制为 curl 的 CVE 添加 CVSS 评分，导致评分与实际风险不符，引发误导。curl 团队呼吁停止强制使用 CVSS，认为单一评分无法准确反映漏洞的复杂性。
+克莱夫·辛克莱（Clive Sinclair）是英国电子行业的先驱，以其**微型化创新**闻名。他创立了Sinclair Radionics，推出了**Sinclair Executive**，世界上第一款真正的袖珍计算器。尽管产品如**Black Watch**遭遇失败，但ZX80和ZX81等家用电脑取得了巨大成功，推动了个人计算机的普及。
 
 ---
 
-## <a name="12"></a>12. Anthropic API 引入引用功能 
+## <a name="10"></a>10. Anthropic API 引入引用功能 
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/introducing-citations-api): Citations on the Anthropic API</small>
 
 
-| 🔥: 71 \| 💬: [9](https://news.ycombinator.com/item?id=42807173) \| 🗓️ 2025-01-23
+| 🔥: 89 \| 💬: [13](https://news.ycombinator.com/item?id=42807173) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -166,23 +142,35 @@ Anthropic 推出 **Citations** 功能，使 Claude 能够基于源文档生成�
 
 ---
 
-## <a name="13"></a>13. 泄露文件揭露以色列军队与微软的深度合作 
-<small>🔗 [972mag.com](https://www.972mag.com/microsoft-azure-openai-israeli-army-cloud/): Leaked documents expose deep ties between Israeli army and Microsoft</small>
+## <a name="11"></a>11. 使用两个编辑器因为Xcode太蠢 
+<small>🔗 [christiantietze.de](https://christiantietze.de/posts/2025/01/using-2-editors-because-xcode-is-dumb/): Using 2 Editors Because Xcode Is Dumb</small>
 
 
-| 🔥: 66 \| 💬: [35](https://news.ycombinator.com/item?id=42805345) \| 🗓️ 2025-01-23
+| 🔥: 80 \| 💬: [90](https://news.ycombinator.com/item?id=42803290) \| 🗓️ 2025-01-23
 
 
 <br />
-根据以色列国防部和微软以色列子公司的泄露文件，**微软**在以色列主要军事基础设施中拥有广泛影响力，其**云计算平台Azure**和**人工智能服务**在加沙冲突期间销量激增。文件显示，以色列多个军事单位使用Azure服务，包括情报部门和空军目标数据库管理单位。微软还与以色列军队合作开发系统，提供**GPT-4**等AI工具，用于情报收集和作战支持。
+作者在开发**TextKitAutoCompletion**包时，发现**Xcode 16**对本地包依赖的处理方式变得非常糟糕。**新增文件**或**运行测试**时，Xcode无法正确识别，导致频繁的构建错误。作者不得不使用**Emacs**作为备用编辑器来编辑和测试包，同时继续用Xcode运行应用项目。这种双重编辑器的工作方式虽然奇怪，但比频繁重启Xcode要好得多。
 
 ---
 
-## <a name="14"></a>14. TMSU：命令行工具，用于应用标签和查看虚拟标签文件系统 
+## <a name="12"></a>12. CVSS 对我们已死 
+<small>🔗 [daniel.haxx.se](https://daniel.haxx.se/blog/2025/01/23/cvss-is-dead-to-us/): CVSS Is Dead to Us</small>
+
+
+| 🔥: 72 \| 💬: [8](https://news.ycombinator.com/item?id=42802736) \| 🗓️ 2025-01-23
+
+
+<br />
+**CVSS**（通用漏洞评分系统）用于评估计算系统中漏洞的严重性，但其评分机制存在**局限性**，尤其对广泛使用的开源项目如 **curl** 不适用。curl 团队已放弃使用 CVSS，改用四级分类（低、中、高、严重）来评估漏洞。然而，CISA 作为授权数据发布者，仍强制为 curl 的 CVE 添加 CVSS 评分，导致评分与实际风险不符，引发误导。curl 团队呼吁停止强制使用 CVSS，认为单一评分无法准确反映漏洞的复杂性。
+
+---
+
+## <a name="13"></a>13. TMSU：命令行工具，用于应用标签和查看虚拟标签文件系统 
 <small>🔗 [tmsu.org](https://tmsu.org/): TMSU: Command-line tool for applying tags and viewing virtual tagged filesystem</small>
 
 
-| 🔥: 61 \| 💬: [31](https://news.ycombinator.com/item?id=42805431) \| 🗓️ 2025-01-23
+| 🔥: 72 \| 💬: [31](https://news.ycombinator.com/item?id=42805431) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -190,35 +178,23 @@ TMSU 是一个**命令行工具**，允许用户为文件添加**标签**，并�
 
 ---
 
-## <a name="15"></a>15. 你应该写出“无bug”的代码 
-<small>🔗 [korshakov.com](https://korshakov.com/posts/no-bugs): You should write "without bugs"</small>
+## <a name="14"></a>14. 泄露文件揭露以色列军队与微软的深度合作 
+<small>🔗 [972mag.com](https://www.972mag.com/microsoft-azure-openai-israeli-army-cloud/): Leaked documents expose deep ties between Israeli army and Microsoft</small>
 
 
-| 🔥: 61 \| 💬: [50](https://news.ycombinator.com/item?id=42807200) \| 🗓️ 2025-01-23
-
-
-<br />
-作者通过自身经验，探讨了软件开发中**快速交付**与**代码质量**的平衡问题。他指出，过于追求速度会导致代码难以维护，而过度追求完美则会导致效率低下。**“无bug”**的编码理念强调在开发过程中持续改进，最终形成**肌肉记忆**，既能保证代码质量，又能高效交付。
-
----
-
-## <a name="16"></a>16. 轨道万花筒（2019） 
-<small>🔗 [redblobgames.com](https://www.redblobgames.com/x/1903-orbit-spirograph/): Orbit Spirograph (2019)</small>
-
-
-| 🔥: 56 \| 💬: [4](https://news.ycombinator.com/item?id=42805421) \| 🗓️ 2025-01-23
+| 🔥: 66 \| 💬: [36](https://news.ycombinator.com/item?id=42805345) \| 🗓️ 2025-01-23
 
 
 <br />
-2019年1月19日，受John Carlos Baez关于**金星五角星**的启发，作者探索了金星相对于地球的位置，并绘制了类似万花筒的图案。使用**开普勒第三定律**将行星轨道周期转换为与太阳的距离，展示了包括水星、金星、地球等行星的轨道数据。
+根据以色列国防部和微软以色列子公司的泄露文件，**微软**在以色列主要军事基础设施中拥有广泛影响力，其**云计算平台Azure**和**人工智能服务**在加沙冲突期间销量激增。文件显示，以色列多个军事单位使用Azure服务，包括情报部门和空军目标数据库管理单位。微软还与以色列军队合作开发系统，提供**GPT-4**等AI工具，用于情报收集和作战支持。
 
 ---
 
-## <a name="17"></a>17. “人类终极考试”基准测试结果发布 
+## <a name="15"></a>15. “人类终极考试”基准测试结果发布 
 <small>🔗 [scale.com](https://scale.com/blog/humanitys-last-exam-results): Results of "Humanity's Last Exam" benchmark published</small>
 
 
-| 🔥: 55 \| 💬: [80](https://news.ycombinator.com/item?id=42806105) \| 🗓️ 2025-01-23
+| 🔥: 65 \| 💬: [87](https://news.ycombinator.com/item?id=42806105) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -226,23 +202,35 @@ Scale AI与CAIS发布了**“人类终极考试”**基准测试结果，旨在�
 
 ---
 
-## <a name="18"></a>18. 我们通过与HTC的新协议加速Android XR平台发展 
-<small>🔗 [blog.google](https://blog.google/feed/android-xr-htc-agreement/): We're accelerating the Android XR platform with a new agreement with HTC</small>
+## <a name="16"></a>16. 你应该写出“无bug”的代码 
+<small>🔗 [korshakov.com](https://korshakov.com/posts/no-bugs): You should write "without bugs"</small>
 
 
-| 🔥: 53 \| 💬: [65](https://news.ycombinator.com/item?id=42802210) \| 🗓️ 2025-01-23
+| 🔥: 63 \| 💬: [52](https://news.ycombinator.com/item?id=42807200) \| 🗓️ 2025-01-23
 
 
 <br />
-我们已投资**XR**领域十多年，最近与行业合作伙伴推出了**Android XR平台**。今天，我们签署协议，欢迎部分HTC VIVE工程师团队加入Google，他们将助力加速**头显和眼镜生态系统**的开发。
+作者通过自身经验，探讨了软件开发中**快速交付**与**代码质量**的平衡问题。他指出，过于追求速度会导致代码难以维护，而过度追求完美则会导致效率低下。**“无bug”**的编码理念强调在开发过程中持续改进，最终形成**肌肉记忆**，既能保证代码质量，又能高效交付。
 
 ---
 
-## <a name="19"></a>19. 亚马逊移除支持LGBTQ权利和种族平等的声明 
+## <a name="17"></a>17. 轨道万花筒（2019） 
+<small>🔗 [redblobgames.com](https://www.redblobgames.com/x/1903-orbit-spirograph/): Orbit Spirograph (2019)</small>
+
+
+| 🔥: 59 \| 💬: [4](https://news.ycombinator.com/item?id=42805421) \| 🗓️ 2025-01-23
+
+
+<br />
+2019年1月19日，受John Carlos Baez关于**金星五角星**的启发，作者探索了金星相对于地球的位置，并绘制了类似万花筒的图案。使用**开普勒第三定律**将行星轨道周期转换为与太阳的距离，展示了包括水星、金星、地球等行星的轨道数据。
+
+---
+
+## <a name="18"></a>18. 亚马逊移除支持LGBTQ权利和种族平等的声明 
 <small>🔗 [irishstar.com](https://www.irishstar.com/news/us-news/jeff-bezos-deletes-lgbtq-rights-34533955): Amazon removed statements advocating for LGBTQ rights and racial equity</small>
 
 
-| 🔥: 52 \| 💬: [32](https://news.ycombinator.com/item?id=42806900) \| 🗓️ 2025-01-23
+| 🔥: 56 \| 💬: [42](https://news.ycombinator.com/item?id=42806900) \| 🗓️ 2025-01-23
 
 
 <br />
@@ -250,14 +238,26 @@ Scale AI与CAIS发布了**“人类终极考试”**基准测试结果，旨在�
 
 ---
 
-## <a name="20"></a>20. 乔治·R·R·马丁合著物理学论文 
-<small>🔗 [arstechnica.com](https://arstechnica.com/science/2025/01/george-r-r-martin-has-co-authored-a-physics-paper/): George R.R. Martin has co-authored a physics paper</small>
+## <a name="19"></a>19. 我们通过与HTC的新协议加速Android XR平台发展 
+<small>🔗 [blog.google](https://blog.google/feed/android-xr-htc-agreement/): We're accelerating the Android XR platform with a new agreement with HTC</small>
 
 
-| 🔥: 50 \| 💬: [82](https://news.ycombinator.com/item?id=42806102) \| 🗓️ 2025-01-23
+| 🔥: 54 \| 💬: [65](https://news.ycombinator.com/item?id=42802210) \| 🗓️ 2025-01-23
 
 
 <br />
-《冰与火之歌》作者**乔治·R·R·马丁**与物理学家伊恩·特雷吉利斯合作，在《美国物理学杂志》发表了一篇论文。论文探讨了《Wild Cards》系列中虚构病毒的动力学，提出了一个数学模型来解释病毒如何导致**90:9:1**的变异分布（90%死亡，9%成为Joker，1%成为Ace）。该研究旨在展示物理学概念的广泛适用性，并为学生提供开放式研究问题的探索机会。
+我们已投资**XR**领域十多年，最近与行业合作伙伴推出了**Android XR平台**。今天，我们签署协议，欢迎部分HTC VIVE工程师团队加入Google，他们将助力加速**头显和眼镜生态系统**的开发。
+
+---
+
+## <a name="20"></a>20. 《管钟》中的摩斯密码（2021） 
+<small>🔗 [madpsy.uk](https://madpsy.uk/link-between-the-soundtrack-of-the-exorcist-and-amateur-radio/): Morse Code in Tubular Bells (2021)</small>
+
+
+| 🔥: 54 \| 💬: [18](https://news.ycombinator.com/item?id=42807653) \| 🗓️ 2025-01-23
+
+
+<br />
+1973年，Mike Oldfield在录制《管钟》专辑时，无意中捕捉到了附近**Rugby无线电发射站**的摩斯密码信号。该信号以16 KHz的频率被录制在专辑中，后来被奥地利爱好者Gerhard Kircher发现。这一现象揭示了音频设备如何意外接收电磁波信号。此外，Rugby发射站与二战期间的**Y服务**有关，后者为破解**恩尼格玛密码**提供了支持，而这一成就与计算机科学家**艾伦·图灵**密不可分。
 
 ---
