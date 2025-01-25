@@ -26,7 +26,7 @@ tags:
 <small>🔗 [cs16.samke.me](https://cs16.samke.me): Show HN: Cs16.css – CSS library based on Counter Strike 1.6 UI</small>
 
 
-| 🔥🔥: 462 \| 💬: [101](https://news.ycombinator.com/item?id=42814110) \| 🗓️ 2025-01-24
+| 🔥🔥: 488 \| 💬: [103](https://news.ycombinator.com/item?id=42814110) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -38,7 +38,7 @@ Cs16.css 是一个**CSS库**，灵感来源于经典游戏《反恐精英1.6》�
 <small>🔗 [github.com](https://github.com/davidlattimore/wild): Wild – A fast linker for Linux</small>
 
 
-| 🔥🔥: 274 \| 💬: [121](https://news.ycombinator.com/item?id=42814683) \| 🗓️ 2025-01-24
+| 🔥🔥: 284 \| 💬: [123](https://news.ycombinator.com/item?id=42814683) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -50,7 +50,7 @@ Wild 是一个专为 Linux 设计的**快速链接器**，旨在通过**增量�
 <small>🔗 [lucumr.pocoo.org](https://lucumr.pocoo.org/2025/1/24/build-it-yourself/): Build It Yourself</small>
 
 
-| 🔥🔥: 254 \| 💬: [198](https://news.ycombinator.com/item?id=42812641) \| 🗓️ 2025-01-24
+| 🔥🔥: 255 \| 💬: [199](https://news.ycombinator.com/item?id=42812641) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -62,7 +62,7 @@ Armin Ronacher 在文章中批评了现代开发中**依赖泛滥**的问题，�
 <small>🔗 [hallofdreams.org](https://hallofdreams.org/posts/physicsforums/): PhysicsForums and the Dead Internet Theory</small>
 
 
-| 🔥🔥: 213 \| 💬: [129](https://news.ycombinator.com/item?id=42816284) \| 🗓️ 2025-01-24
+| 🔥🔥: 214 \| 💬: [129](https://news.ycombinator.com/item?id=42816284) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -74,7 +74,7 @@ Armin Ronacher 在文章中批评了现代开发中**依赖泛滥**的问题，�
 <small>🔗 [wasmgroundup.com](https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet/): A WebAssembly compiler that fits in a tweet</small>
 
 
-| 🔥🔥: 196 \| 💬: [23](https://news.ycombinator.com/item?id=42814948) \| 🗓️ 2025-01-24
+| 🔥🔥: 198 \| 💬: [23](https://news.ycombinator.com/item?id=42814948) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -86,7 +86,7 @@ Armin Ronacher 在文章中批评了现代开发中**依赖泛滥**的问题，�
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=iDwganLjpW0): Subpixel Snake [video]</small>
 
 
-| 🔥🔥: 194 \| 💬: [41](https://news.ycombinator.com/item?id=42815288) \| 🗓️ 2025-01-24
+| 🔥🔥: 198 \| 💬: [42](https://news.ycombinator.com/item?id=42815288) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -98,7 +98,7 @@ Armin Ronacher 在文章中批评了现代开发中**依赖泛滥**的问题，�
 <small>🔗 [sebastianmihai.com](http://sebastianmihai.com/snowdrop/): Snowdrop OS – a homebrew operating system from scratch, in assembly language</small>
 
 
-| 🔥🔥: 188 \| 💬: [42](https://news.ycombinator.com/item?id=42814820) \| 🗓️ 2025-01-24
+| 🔥🔥: 197 \| 💬: [44](https://news.ycombinator.com/item?id=42814820) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -106,23 +106,11 @@ Snowdrop OS 是一个**16位实模式**操作系统，专为 IBM PC 架构设计
 
 ---
 
-## <a name="8"></a>8. 新书籍排序算法近乎完美 
-<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/): New book-sorting algorithm almost reaches perfection</small>
-
-
-| 🔥🔥: 170 \| 💬: [38](https://news.ycombinator.com/item?id=42814275) \| 🗓️ 2025-01-24
-
-
-<br />
-计算机科学家提出了一种新的**书籍排序算法**，几乎达到了理论上的最佳性能。该算法解决了**图书馆排序问题**（即“列表标记问题”），通过结合随机性和历史依赖，显著减少了插入新书籍所需的时间。这一突破不仅适用于书籍管理，还可优化数据库和文件系统的存储效率。
-
----
-
-## <a name="9"></a>9. 2025年我是如何使用Home Assistant的 
+## <a name="8"></a>8. 2025年我是如何使用Home Assistant的 
 <small>🔗 [vpetersson.com](https://vpetersson.com/2025/01/22/how-i-use-home-assistant-in-2025.html): How I Use Home Assistant in 2025</small>
 
 
-| 🔥🔥: 169 \| 💬: [172](https://news.ycombinator.com/item?id=42813513) \| 🗓️ 2025-01-24
+| 🔥🔥: 176 \| 💬: [175](https://news.ycombinator.com/item?id=42813513) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -130,11 +118,23 @@ Snowdrop OS 是一个**16位实模式**操作系统，专为 IBM PC 架构设计
 
 ---
 
+## <a name="9"></a>9. 新书籍排序算法近乎完美 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/): New book-sorting algorithm almost reaches perfection</small>
+
+
+| 🔥🔥: 176 \| 💬: [38](https://news.ycombinator.com/item?id=42814275) \| 🗓️ 2025-01-24
+
+
+<br />
+计算机科学家提出了一种新的**书籍排序算法**，几乎达到了理论上的最佳性能。该算法解决了**图书馆排序问题**（即“列表标记问题”），通过结合随机性和历史依赖，显著减少了插入新书籍所需的时间。这一突破不仅适用于书籍管理，还可优化数据库和文件系统的存储效率。
+
+---
+
 ## <a name="10"></a>10. 每个系统都是一个日志：在分布式应用中避免协调 
 <small>🔗 [restate.dev](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/): Every System is a Log: Avoiding coordination in distributed applications</small>
 
 
-| 🔥🔥: 156 \| 💬: [124](https://news.ycombinator.com/item?id=42813049) \| 🗓️ 2025-01-24
+| 🔥🔥: 161 \| 💬: [125](https://news.ycombinator.com/item?id=42813049) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -142,7 +142,31 @@ Snowdrop OS 是一个**16位实模式**操作系统，专为 IBM PC 架构设计
 
 ---
 
-## <a name="11"></a>11. Lightpanda：专为AI和自动化设计的无头浏览器 
+## <a name="11"></a>11. Caltrain电动列车效率超预期 
+<small>🔗 [caltrain.com](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected): Caltrain's Electric Fleet More Efficient Than Expected</small>
+
+
+| 🔥🔥: 157 \| 💬: [101](https://news.ycombinator.com/item?id=42818692) \| 🗓️ 2025-01-24
+
+
+<br />
+Caltrain的新时刻表将于1月27日开始实施，更多详情可访问Caltrain.com/status。**电动列车**的表现比预期更为**高效**，标志着其在**环保**和运营方面的显著进步。
+
+---
+
+## <a name="12"></a>12. Little Snitch 鲜为人知的功能 
+<small>🔗 [lapcatsoftware.com](https://lapcatsoftware.com/articles/2025/1/6.html): Little Snitch feature nobody knows about</small>
+
+
+| 🔥🔥: 149 \| 💬: [49](https://news.ycombinator.com/item?id=42813231) \| 🗓️ 2025-01-24
+
+
+<br />
+作者在新 Mac 上安装 Little Snitch 后发现，**Safari** 启动时会尝试连接 Google 的 **ssl.gstatic.com**，即使未进行搜索。通过 Little Snitch 的 **via** 规则，可以区分 Safari 主进程和 **Safari Search Helper** 的连接行为。这一技巧虽不常用，但能有效控制后台连接，尤其适用于类似 Chrome 的多进程应用。
+
+---
+
+## <a name="13"></a>13. Lightpanda：专为AI和自动化设计的无头浏览器 
 <small>🔗 [github.com](https://github.com/lightpanda-io/browser): Lightpanda: Headless browser designed for AI and automation</small>
 
 
@@ -154,23 +178,11 @@ Lightpanda是一款开源的**无头浏览器**，专为AI代理、LLM训练、�
 
 ---
 
-## <a name="12"></a>12. Little Snitch 鲜为人知的功能 
-<small>🔗 [lapcatsoftware.com](https://lapcatsoftware.com/articles/2025/1/6.html): Little Snitch feature nobody knows about</small>
-
-
-| 🔥🔥: 146 \| 💬: [49](https://news.ycombinator.com/item?id=42813231) \| 🗓️ 2025-01-24
-
-
-<br />
-作者在新 Mac 上安装 Little Snitch 后发现，**Safari** 启动时会尝试连接 Google 的 **ssl.gstatic.com**，即使未进行搜索。通过 Little Snitch 的 **via** 规则，可以区分 Safari 主进程和 **Safari Search Helper** 的连接行为。这一技巧虽不常用，但能有效控制后台连接，尤其适用于类似 Chrome 的多进程应用。
-
----
-
-## <a name="13"></a>13. “前所未见”——NIH会议和旅行突然暂停 
+## <a name="14"></a>14. “前所未见”——NIH会议和旅行突然暂停 
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00231-y): 'Never seen anything like this' – NIH meetings and travel halted abruptly</small>
 
 
-| 🔥🔥: 133 \| 💬: [77](https://news.ycombinator.com/item?id=42817910) \| 🗓️ 2025-01-24
+| 🔥🔥: 139 \| 💬: [78](https://news.ycombinator.com/item?id=42817910) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -178,11 +190,23 @@ Lightpanda是一款开源的**无头浏览器**，专为AI代理、LLM训练、�
 
 ---
 
-## <a name="14"></a>14. 在十多年使用 Vim/Neovim 后尝试 Zed 
+## <a name="15"></a>15. Lightpanda：基于 Zig 的开源无头浏览器 
+<small>🔗 [github.com](https://github.com/lightpanda-io/browser): Show HN: Lightpanda, an open-source headless browser in Zig</small>
+
+
+| 🔥🔥: 133 \| 💬: [83](https://news.ycombinator.com/item?id=42817439) \| 🗓️ 2025-01-24
+
+
+<br />
+Lightpanda 是一款专为 **AI 和自动化** 设计的开源无头浏览器，采用 **Zig** 语言编写，具有 **极低的内存占用** 和 **快速执行** 的特点。它支持 JavaScript 执行和部分 Web API，兼容 Playwright 和 Puppeteer 等工具。适用于网页抓取、测试和 LLM 训练等场景。目前处于 Beta 阶段，功能仍在完善中。
+
+---
+
+## <a name="16"></a>16. 在十多年使用 Vim/Neovim 后尝试 Zed 
 <small>🔗 [sgoel.dev](https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/): Trying out Zed after more than a decade of Vim/Neovim</small>
 
 
-| 🔥🔥: 123 \| 💬: [76](https://news.ycombinator.com/item?id=42817277) \| 🗓️ 2025-01-24
+| 🔥🔥: 130 \| 💬: [82](https://news.ycombinator.com/item?id=42817277) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -190,11 +214,11 @@ Lightpanda是一款开源的**无头浏览器**，专为AI代理、LLM训练、�
 
 ---
 
-## <a name="15"></a>15. 我们需要谈谈Docker Hub 
+## <a name="17"></a>17. 我们需要谈谈Docker Hub 
 <small>🔗 [linuxserver.io](https://www.linuxserver.io/blog/we-need-to-talk-about-docker-hub): We Need to Talk About Docker Hub</small>
 
 
-| 🔥🔥: 122 \| 💬: [141](https://news.ycombinator.com/item?id=42812203) \| 🗓️ 2025-01-24
+| 🔥🔥: 123 \| 💬: [142](https://news.ycombinator.com/item?id=42812203) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -202,7 +226,7 @@ Docker Hub是默认的Docker镜像仓库，但近年来其政策变化引发了�
 
 ---
 
-## <a name="16"></a>16. Bluesky在科学界的崛起：70%的Nature读者使用该平台 
+## <a name="18"></a>18. Bluesky在科学界的崛起：70%的Nature读者使用该平台 
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00177-1): Bluesky's science takeover: 70% of Nature poll respondents use platform</small>
 
 
@@ -214,23 +238,11 @@ Docker Hub是默认的Docker镜像仓库，但近年来其政策变化引发了�
 
 ---
 
-## <a name="17"></a>17. Lightpanda：基于 Zig 的开源无头浏览器 
-<small>🔗 [github.com](https://github.com/lightpanda-io/browser): Show HN: Lightpanda, an open-source headless browser in Zig</small>
-
-
-| 🔥🔥: 112 \| 💬: [80](https://news.ycombinator.com/item?id=42817439) \| 🗓️ 2025-01-24
-
-
-<br />
-Lightpanda 是一款专为 **AI 和自动化** 设计的开源无头浏览器，采用 **Zig** 语言编写，具有 **极低的内存占用** 和 **快速执行** 的特点。它支持 JavaScript 执行和部分 Web API，兼容 Playwright 和 Puppeteer 等工具。适用于网页抓取、测试和 LLM 训练等场景。目前处于 Beta 阶段，功能仍在完善中。
-
----
-
-## <a name="18"></a>18. 芝加哥的一场豪赌 
+## <a name="19"></a>19. 芝加哥的一场豪赌 
 <small>🔗 [bitsaboutmoney.com](https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/): A very Chicago gamble</small>
 
 
-| 🔥🔥: 108 \| 💬: [52](https://news.ycombinator.com/item?id=42816418) \| 🗓️ 2025-01-24
+| 🔥🔥: 114 \| 💬: [57](https://news.ycombinator.com/item?id=42816418) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -238,26 +250,14 @@ Lightpanda 是一款专为 **AI 和自动化** 设计的开源无头浏览器，
 
 ---
 
-## <a name="19"></a>19. Threlte 8 发布 
+## <a name="20"></a>20. Threlte 8 发布 
 <small>🔗 [threlte.xyz](https://threlte.xyz/blog/threlte-8): Threlte 8</small>
 
 
-| 🔥🔥: 105 \| 💬: [16](https://news.ycombinator.com/item?id=42813264) \| 🗓️ 2025-01-24
+| 🔥🔥: 106 \| 💬: [16](https://news.ycombinator.com/item?id=42813264) \| 🗓️ 2025-01-24
 
 
 <br />
 Threlte 8 是一个重要的里程碑，带来了性能、灵活性和开发者体验的显著提升。此次更新包括全新的 **`<T>` 组件**、**WebGPU 支持** 和 **Threlte Studio 的 alpha 版本**，为 3D 图形开发提供了更多可能性。虽然不向后兼容，但提供了详细的迁移指南。社区贡献巨大，未来将整合 Svelte 的新 CLI 工具。
-
----
-
-## <a name="20"></a>20. Caltrain电动列车效率超预期 
-<small>🔗 [caltrain.com](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected): Caltrain's Electric Fleet More Efficient Than Expected</small>
-
-
-| 🔥: 93 \| 💬: [43](https://news.ycombinator.com/item?id=42818692) \| 🗓️ 2025-01-24
-
-
-<br />
-Caltrain的新时刻表将于1月27日开始实施，更多详情可访问Caltrain.com/status。**电动列车**的表现比预期更为**高效**，标志着其在**环保**和运营方面的显著进步。
 
 ---
