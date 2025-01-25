@@ -12,7 +12,7 @@ tags:
 1. Wild – Linux 上的快速链接器；
 1. 自己动手；
 1. 物理论坛与死互联网理论；
-1. 亚像素蛇；
+1. Snowdrop OS – 用汇编语言从头编写的自制操作系统；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [cs16.samke.me](https://cs16.samke.me): Show HN: Cs16.css – CSS library based on Counter Strike 1.6 UI</small>
 
 
-| 🔥🔥: 512 \| 💬: [105](https://news.ycombinator.com/item?id=42814110) \| 🗓️ 2025-01-24
+| 🔥🔥: 539 \| 💬: [107](https://news.ycombinator.com/item?id=42814110) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -38,7 +38,7 @@ Cs16.css 是一个**CSS库**，灵感来源于经典游戏《反恐精英1.6》�
 <small>🔗 [github.com](https://github.com/davidlattimore/wild): Wild – A fast linker for Linux</small>
 
 
-| 🔥🔥: 288 \| 💬: [129](https://news.ycombinator.com/item?id=42814683) \| 🗓️ 2025-01-24
+| 🔥🔥: 291 \| 💬: [130](https://news.ycombinator.com/item?id=42814683) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -50,7 +50,7 @@ Wild 是一个专为 Linux 设计的**快速链接器**，旨在通过**增量�
 <small>🔗 [lucumr.pocoo.org](https://lucumr.pocoo.org/2025/1/24/build-it-yourself/): Build It Yourself</small>
 
 
-| 🔥🔥: 258 \| 💬: [201](https://news.ycombinator.com/item?id=42812641) \| 🗓️ 2025-01-24
+| 🔥🔥: 262 \| 💬: [201](https://news.ycombinator.com/item?id=42812641) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -62,7 +62,7 @@ Armin Ronacher 在文章中批评了现代开发中**依赖泛滥**的问题，�
 <small>🔗 [hallofdreams.org](https://hallofdreams.org/posts/physicsforums/): PhysicsForums and the Dead Internet Theory</small>
 
 
-| 🔥🔥: 217 \| 💬: [130](https://news.ycombinator.com/item?id=42816284) \| 🗓️ 2025-01-24
+| 🔥🔥: 219 \| 💬: [132](https://news.ycombinator.com/item?id=42816284) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -70,23 +70,11 @@ Armin Ronacher 在文章中批评了现代开发中**依赖泛滥**的问题，�
 
 ---
 
-## <a name="5"></a>5. 亚像素蛇 
-<small>🔗 [youtube.com](https://www.youtube.com/watch?v=iDwganLjpW0): Subpixel Snake [video]</small>
-
-
-| 🔥🔥: 205 \| 💬: [43](https://news.ycombinator.com/item?id=42815288) \| 🗓️ 2025-01-24
-
-
-<br />
-这是一段关于**亚像素蛇**的视频，展示了其独特的视觉效果和实现方式。视频内容涉及**像素级精度**的处理技术，适合对图形编程和视觉特效感兴趣的开发者。属于**Show HN**类别，展示了创新技术的应用。
-
----
-
-## <a name="6"></a>6. Snowdrop OS – 用汇编语言从头编写的自制操作系统 
+## <a name="5"></a>5. Snowdrop OS – 用汇编语言从头编写的自制操作系统 
 <small>🔗 [sebastianmihai.com](http://sebastianmihai.com/snowdrop/): Snowdrop OS – a homebrew operating system from scratch, in assembly language</small>
 
 
-| 🔥🔥: 204 \| 💬: [45](https://news.ycombinator.com/item?id=42814820) \| 🗓️ 2025-01-24
+| 🔥🔥: 217 \| 💬: [46](https://news.ycombinator.com/item?id=42814820) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -94,23 +82,11 @@ Snowdrop OS 是一个**16位实模式**操作系统，专为 IBM PC 架构设计
 
 ---
 
-## <a name="7"></a>7. 一条推文大小的WebAssembly编译器 
-<small>🔗 [wasmgroundup.com](https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet/): A WebAssembly compiler that fits in a tweet</small>
-
-
-| 🔥🔥: 203 \| 💬: [23](https://news.ycombinator.com/item?id=42814948) \| 🗓️ 2025-01-24
-
-
-<br />
-本文介绍了一个极简的**WebAssembly编译器**，仅用192字节的JavaScript代码实现。该编译器将**逆波兰表达式**转换为有效的WebAssembly模块，并导出一个计算结果的函数。通过逐步解析代码，作者展示了如何利用JavaScript的语法技巧（如赋值表达式、稀疏数组等）来压缩代码大小，同时深入探讨了WebAssembly的底层机制。
-
----
-
-## <a name="8"></a>8. Caltrain电动列车效率超预期 
+## <a name="6"></a>6. Caltrain电动列车效率超预期 
 <small>🔗 [caltrain.com](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected): Caltrain's electric fleet more efficient than expected</small>
 
 
-| 🔥🔥: 195 \| 💬: [144](https://news.ycombinator.com/item?id=42818692) \| 🗓️ 2025-01-24
+| 🔥🔥: 213 \| 💬: [158](https://news.ycombinator.com/item?id=42818692) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -118,11 +94,35 @@ Caltrain的新时刻表将于1月27日开始实施，更多详情可访问Caltra
 
 ---
 
+## <a name="7"></a>7. 亚像素蛇 
+<small>🔗 [youtube.com](https://www.youtube.com/watch?v=iDwganLjpW0): Subpixel Snake [video]</small>
+
+
+| 🔥🔥: 212 \| 💬: [43](https://news.ycombinator.com/item?id=42815288) \| 🗓️ 2025-01-24
+
+
+<br />
+这是一段关于**亚像素蛇**的视频，展示了其独特的视觉效果和实现方式。视频内容涉及**像素级精度**的处理技术，适合对图形编程和视觉特效感兴趣的开发者。属于**Show HN**类别，展示了创新技术的应用。
+
+---
+
+## <a name="8"></a>8. 一条推文大小的WebAssembly编译器 
+<small>🔗 [wasmgroundup.com](https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet/): A WebAssembly compiler that fits in a tweet</small>
+
+
+| 🔥🔥: 204 \| 💬: [23](https://news.ycombinator.com/item?id=42814948) \| 🗓️ 2025-01-24
+
+
+<br />
+本文介绍了一个极简的**WebAssembly编译器**，仅用192字节的JavaScript代码实现。该编译器将**逆波兰表达式**转换为有效的WebAssembly模块，并导出一个计算结果的函数。通过逐步解析代码，作者展示了如何利用JavaScript的语法技巧（如赋值表达式、稀疏数组等）来压缩代码大小，同时深入探讨了WebAssembly的底层机制。
+
+---
+
 ## <a name="9"></a>9. 新书籍排序算法近乎完美 
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/): New book-sorting algorithm almost reaches perfection</small>
 
 
-| 🔥🔥: 183 \| 💬: [40](https://news.ycombinator.com/item?id=42814275) \| 🗓️ 2025-01-24
+| 🔥🔥: 191 \| 💬: [41](https://news.ycombinator.com/item?id=42814275) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -134,7 +134,7 @@ Caltrain的新时刻表将于1月27日开始实施，更多详情可访问Caltra
 <small>🔗 [vpetersson.com](https://vpetersson.com/2025/01/22/how-i-use-home-assistant-in-2025.html): How I Use Home Assistant in 2025</small>
 
 
-| 🔥🔥: 179 \| 💬: [189](https://news.ycombinator.com/item?id=42813513) \| 🗓️ 2025-01-24
+| 🔥🔥: 182 \| 💬: [197](https://news.ycombinator.com/item?id=42813513) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -146,7 +146,7 @@ Caltrain的新时刻表将于1月27日开始实施，更多详情可访问Caltra
 <small>🔗 [restate.dev](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/): Every System is a Log: Avoiding coordination in distributed applications</small>
 
 
-| 🔥🔥: 164 \| 💬: [125](https://news.ycombinator.com/item?id=42813049) \| 🗓️ 2025-01-24
+| 🔥🔥: 167 \| 💬: [125](https://news.ycombinator.com/item?id=42813049) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -154,11 +154,23 @@ Caltrain的新时刻表将于1月27日开始实施，更多详情可访问Caltra
 
 ---
 
-## <a name="12"></a>12. Little Snitch 鲜为人知的功能 
+## <a name="12"></a>12. Lightpanda：基于 Zig 的开源无头浏览器 
+<small>🔗 [github.com](https://github.com/lightpanda-io/browser): Show HN: Lightpanda, an open-source headless browser in Zig</small>
+
+
+| 🔥🔥: 157 \| 💬: [93](https://news.ycombinator.com/item?id=42817439) \| 🗓️ 2025-01-24
+
+
+<br />
+Lightpanda 是一款专为 **AI 和自动化** 设计的开源无头浏览器，采用 **Zig** 语言编写，具有 **极低的内存占用** 和 **快速执行** 的特点。它支持 JavaScript 执行和部分 Web API，兼容 Playwright 和 Puppeteer 等工具。适用于网页抓取、测试和 LLM 训练等场景。目前处于 Beta 阶段，功能仍在完善中。
+
+---
+
+## <a name="13"></a>13. Little Snitch 鲜为人知的功能 
 <small>🔗 [lapcatsoftware.com](https://lapcatsoftware.com/articles/2025/1/6.html): Little Snitch feature nobody knows about</small>
 
 
-| 🔥🔥: 153 \| 💬: [49](https://news.ycombinator.com/item?id=42813231) \| 🗓️ 2025-01-24
+| 🔥🔥: 154 \| 💬: [49](https://news.ycombinator.com/item?id=42813231) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -166,7 +178,7 @@ Caltrain的新时刻表将于1月27日开始实施，更多详情可访问Caltra
 
 ---
 
-## <a name="13"></a>13. Lightpanda：专为AI和自动化设计的无头浏览器 
+## <a name="14"></a>14. Lightpanda：专为AI和自动化设计的无头浏览器 
 <small>🔗 [github.com](https://github.com/lightpanda-io/browser): Lightpanda: Headless browser designed for AI and automation</small>
 
 
@@ -178,35 +190,11 @@ Lightpanda是一款开源的**无头浏览器**，专为AI代理、LLM训练、�
 
 ---
 
-## <a name="14"></a>14. Lightpanda：基于 Zig 的开源无头浏览器 
-<small>🔗 [github.com](https://github.com/lightpanda-io/browser): Show HN: Lightpanda, an open-source headless browser in Zig</small>
-
-
-| 🔥🔥: 142 \| 💬: [89](https://news.ycombinator.com/item?id=42817439) \| 🗓️ 2025-01-24
-
-
-<br />
-Lightpanda 是一款专为 **AI 和自动化** 设计的开源无头浏览器，采用 **Zig** 语言编写，具有 **极低的内存占用** 和 **快速执行** 的特点。它支持 JavaScript 执行和部分 Web API，兼容 Playwright 和 Puppeteer 等工具。适用于网页抓取、测试和 LLM 训练等场景。目前处于 Beta 阶段，功能仍在完善中。
-
----
-
-## <a name="15"></a>15. “前所未见”——NIH会议和旅行突然暂停 
-<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00231-y): 'Never seen anything like this' – NIH meetings and travel halted abruptly</small>
-
-
-| 🔥🔥: 139 \| 💬: [76](https://news.ycombinator.com/item?id=42817910) \| 🗓️ 2025-01-24
-
-
-<br />
-美国国家卫生研究院（NIH）在特朗普政府上任后，突然取消了研究资助评审、科学家旅行和培训活动，导致科研界陷入混乱和焦虑。**暂停措施**将持续至2月1日，影响了NIH 470亿美元预算的80%，并可能对早期职业研究人员造成“毁灭性打击”。专家批评此举违背了NIH的使命，并可能引发**多米诺效应**，导致更多研究项目延误。
-
----
-
-## <a name="16"></a>16. 在十多年使用 Vim/Neovim 后尝试 Zed 
+## <a name="15"></a>15. 在十多年使用 Vim/Neovim 后尝试 Zed 
 <small>🔗 [sgoel.dev](https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/): Trying out Zed after more than a decade of Vim/Neovim</small>
 
 
-| 🔥🔥: 135 \| 💬: [89](https://news.ycombinator.com/item?id=42817277) \| 🗓️ 2025-01-24
+| 🔥🔥: 144 \| 💬: [95](https://news.ycombinator.com/item?id=42817277) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -214,7 +202,43 @@ Lightpanda 是一款专为 **AI 和自动化** 设计的开源无头浏览器，
 
 ---
 
-## <a name="17"></a>17. 我们需要谈谈Docker Hub 
+## <a name="16"></a>16. “前所未见”——NIH会议和旅行突然暂停 
+<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00231-y): 'Never seen anything like this' – NIH meetings and travel halted abruptly</small>
+
+
+| 🔥🔥: 141 \| 💬: [76](https://news.ycombinator.com/item?id=42817910) \| 🗓️ 2025-01-24
+
+
+<br />
+美国国家卫生研究院（NIH）在特朗普政府上任后，突然取消了研究资助评审、科学家旅行和培训活动，导致科研界陷入混乱和焦虑。**暂停措施**将持续至2月1日，影响了NIH 470亿美元预算的80%，并可能对早期职业研究人员造成“毁灭性打击”。专家批评此举违背了NIH的使命，并可能引发**多米诺效应**，导致更多研究项目延误。
+
+---
+
+## <a name="17"></a>17. 法国警方解救被绑架的Ledger高管 
+<small>🔗 [moneycheck.com](https://moneycheck.com/french-police-free-kidnapped-ledger-executive-after-day-long-ordeal/): French police free kidnapped Ledger executive</small>
+
+
+| 🔥🔥: 130 \| 💬: [81](https://news.ycombinator.com/item?id=42819018) \| 🗓️ 2025-01-24
+
+
+<br />
+2025年1月21日，法国加密货币公司**Ledger**高管**David Balland**及其妻子在家中遭遇暴力绑架。绑匪要求加密货币赎金，并在24小时内对Balland实施了**断指**等极端暴力行为。法国国家宪兵队通过战术行动成功解救两人。Ledger是全球领先的加密货币安全设备制造商，估值达13亿欧元。此次事件发生在比特币价格接近历史高点（约10.9万美元）之际，引发了对加密货币行业高管安全的关注。
+
+---
+
+## <a name="18"></a>18. 芝加哥的一场豪赌 
+<small>🔗 [bitsaboutmoney.com](https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/): A very Chicago gamble</small>
+
+
+| 🔥🔥: 124 \| 💬: [64](https://news.ycombinator.com/item?id=42816418) \| 🗓️ 2025-01-24
+
+
+<br />
+芝加哥长期渴望建设赌场以增加收入，但因政治和经济争议未能实现。**Bally's**赢得2022年赌场竞标，承诺25%股权由**女性**和**少数族裔**持有。然而，股票发行中的种族限制引发法律和道德争议，芝加哥的“少数族裔”定义模糊且可操作性强，进一步加剧了复杂性。
+
+---
+
+## <a name="19"></a>19. 我们需要谈谈Docker Hub 
 <small>🔗 [linuxserver.io](https://www.linuxserver.io/blog/we-need-to-talk-about-docker-hub): We Need to Talk About Docker Hub</small>
 
 
@@ -226,19 +250,7 @@ Docker Hub是默认的Docker镜像仓库，但近年来其政策变化引发了�
 
 ---
 
-## <a name="18"></a>18. 芝加哥的一场豪赌 
-<small>🔗 [bitsaboutmoney.com](https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/): A very Chicago gamble</small>
-
-
-| 🔥🔥: 119 \| 💬: [61](https://news.ycombinator.com/item?id=42816418) \| 🗓️ 2025-01-24
-
-
-<br />
-芝加哥长期渴望建设赌场以增加收入，但因政治和经济争议未能实现。**Bally's**赢得2022年赌场竞标，承诺25%股权由**女性**和**少数族裔**持有。然而，股票发行中的种族限制引发法律和道德争议，芝加哥的“少数族裔”定义模糊且可操作性强，进一步加剧了复杂性。
-
----
-
-## <a name="19"></a>19. Bluesky在科学界的崛起：70%的Nature读者使用该平台 
+## <a name="20"></a>20. Bluesky在科学界的崛起：70%的Nature读者使用该平台 
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00177-1): Bluesky's science takeover: 70% of Nature poll respondents use platform</small>
 
 
@@ -247,17 +259,5 @@ Docker Hub是默认的Docker镜像仓库，但近年来其政策变化引发了�
 
 <br />
 根据Nature的一项在线调查，**70%的受访读者**正在使用社交平台Bluesky，该平台功能与X（原Twitter）相似，自2023年11月美国大选后用户激增。尽管调查不具统计代表性，但反映了科研人员对Bluesky的热情和对X的失望。**55%的受访者**表示使用Bluesky进行科研交流、追踪研究进展和推广自己的研究。Bluesky被认为**更友好、更安全**，适合学术讨论，但也有批评称其为“左翼回音壁”。
-
----
-
-## <a name="20"></a>20. 法国警方解救被绑架的Ledger高管 
-<small>🔗 [moneycheck.com](https://moneycheck.com/french-police-free-kidnapped-ledger-executive-after-day-long-ordeal/): French police free kidnapped Ledger executive</small>
-
-
-| 🔥🔥: 112 \| 💬: [64](https://news.ycombinator.com/item?id=42819018) \| 🗓️ 2025-01-24
-
-
-<br />
-2025年1月21日，法国加密货币公司**Ledger**高管**David Balland**及其妻子在家中遭遇暴力绑架。绑匪要求加密货币赎金，并在24小时内对Balland实施了**断指**等极端暴力行为。法国国家宪兵队通过战术行动成功解救两人。Ledger是全球领先的加密货币安全设备制造商，估值达13亿欧元。此次事件发生在比特币价格接近历史高点（约10.9万美元）之际，引发了对加密货币行业高管安全的关注。
 
 ---
