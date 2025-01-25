@@ -11,7 +11,7 @@ tags:
 1. Show HN: Cs16.css – 基于CS 1.6界面的CSS库；
 1. Wild – Linux 上的快速链接器；
 1. 自己动手；
-1. 物理论坛与死互联网理论；
+1. Caltrain电动列车效率超预期；
 1. Snowdrop OS – 用汇编语言从头编写的自制操作系统；
 
 以上是今天的前五条黑科技新闻标题。
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [cs16.samke.me](https://cs16.samke.me): Show HN: Cs16.css – CSS library based on Counter Strike 1.6 UI</small>
 
 
-| 🔥🔥: 539 \| 💬: [107](https://news.ycombinator.com/item?id=42814110) \| 🗓️ 2025-01-24
+| 🔥🔥: 560 \| 💬: [108](https://news.ycombinator.com/item?id=42814110) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -38,7 +38,7 @@ Cs16.css 是一个**CSS库**，灵感来源于经典游戏《反恐精英1.6》�
 <small>🔗 [github.com](https://github.com/davidlattimore/wild): Wild – A fast linker for Linux</small>
 
 
-| 🔥🔥: 291 \| 💬: [130](https://news.ycombinator.com/item?id=42814683) \| 🗓️ 2025-01-24
+| 🔥🔥: 300 \| 💬: [138](https://news.ycombinator.com/item?id=42814683) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -50,7 +50,7 @@ Wild 是一个专为 Linux 设计的**快速链接器**，旨在通过**增量�
 <small>🔗 [lucumr.pocoo.org](https://lucumr.pocoo.org/2025/1/24/build-it-yourself/): Build It Yourself</small>
 
 
-| 🔥🔥: 262 \| 💬: [201](https://news.ycombinator.com/item?id=42812641) \| 🗓️ 2025-01-24
+| 🔥🔥: 263 \| 💬: [201](https://news.ycombinator.com/item?id=42812641) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -58,7 +58,43 @@ Armin Ronacher 在文章中批评了现代开发中**依赖泛滥**的问题，�
 
 ---
 
-## <a name="4"></a>4. 物理论坛与死互联网理论 
+## <a name="4"></a>4. Caltrain电动列车效率超预期 
+<small>🔗 [caltrain.com](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected): Caltrain's electric fleet more efficient than expected</small>
+
+
+| 🔥🔥: 238 \| 💬: [168](https://news.ycombinator.com/item?id=42818692) \| 🗓️ 2025-01-24
+
+
+<br />
+Caltrain的新时刻表将于1月27日开始实施，更多详情可访问Caltrain.com/status。**电动列车**的表现比预期更为**高效**，标志着其在**环保**和运营方面的显著进步。
+
+---
+
+## <a name="5"></a>5. Snowdrop OS – 用汇编语言从头编写的自制操作系统 
+<small>🔗 [sebastianmihai.com](http://sebastianmihai.com/snowdrop/): Snowdrop OS – a homebrew operating system from scratch, in assembly language</small>
+
+
+| 🔥🔥: 226 \| 💬: [48](https://news.ycombinator.com/item?id=42814820) \| 🗓️ 2025-01-24
+
+
+<br />
+Snowdrop OS 是一个**16位实模式**操作系统，专为 IBM PC 架构设计，完全使用 x86 汇编语言开发。它包含**引导加载程序**、内核、用户应用程序（如文件管理器、文本编辑器和游戏），并支持**BASIC 解释器**和 x86 汇编器。该项目旨在帮助程序员理解操作系统的基本功能，所有源代码开放且无使用限制。
+
+---
+
+## <a name="6"></a>6. 亚像素蛇 
+<small>🔗 [youtube.com](https://www.youtube.com/watch?v=iDwganLjpW0): Subpixel Snake [video]</small>
+
+
+| 🔥🔥: 221 \| 💬: [43](https://news.ycombinator.com/item?id=42815288) \| 🗓️ 2025-01-24
+
+
+<br />
+这是一段关于**亚像素蛇**的视频，展示了其独特的视觉效果和实现方式。视频内容涉及**像素级精度**的处理技术，适合对图形编程和视觉特效感兴趣的开发者。属于**Show HN**类别，展示了创新技术的应用。
+
+---
+
+## <a name="7"></a>7. 物理论坛与死互联网理论 
 <small>🔗 [hallofdreams.org](https://hallofdreams.org/posts/physicsforums/): PhysicsForums and the Dead Internet Theory</small>
 
 
@@ -70,47 +106,11 @@ Armin Ronacher 在文章中批评了现代开发中**依赖泛滥**的问题，�
 
 ---
 
-## <a name="5"></a>5. Snowdrop OS – 用汇编语言从头编写的自制操作系统 
-<small>🔗 [sebastianmihai.com](http://sebastianmihai.com/snowdrop/): Snowdrop OS – a homebrew operating system from scratch, in assembly language</small>
-
-
-| 🔥🔥: 217 \| 💬: [46](https://news.ycombinator.com/item?id=42814820) \| 🗓️ 2025-01-24
-
-
-<br />
-Snowdrop OS 是一个**16位实模式**操作系统，专为 IBM PC 架构设计，完全使用 x86 汇编语言开发。它包含**引导加载程序**、内核、用户应用程序（如文件管理器、文本编辑器和游戏），并支持**BASIC 解释器**和 x86 汇编器。该项目旨在帮助程序员理解操作系统的基本功能，所有源代码开放且无使用限制。
-
----
-
-## <a name="6"></a>6. Caltrain电动列车效率超预期 
-<small>🔗 [caltrain.com](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected): Caltrain's electric fleet more efficient than expected</small>
-
-
-| 🔥🔥: 213 \| 💬: [158](https://news.ycombinator.com/item?id=42818692) \| 🗓️ 2025-01-24
-
-
-<br />
-Caltrain的新时刻表将于1月27日开始实施，更多详情可访问Caltrain.com/status。**电动列车**的表现比预期更为**高效**，标志着其在**环保**和运营方面的显著进步。
-
----
-
-## <a name="7"></a>7. 亚像素蛇 
-<small>🔗 [youtube.com](https://www.youtube.com/watch?v=iDwganLjpW0): Subpixel Snake [video]</small>
-
-
-| 🔥🔥: 212 \| 💬: [43](https://news.ycombinator.com/item?id=42815288) \| 🗓️ 2025-01-24
-
-
-<br />
-这是一段关于**亚像素蛇**的视频，展示了其独特的视觉效果和实现方式。视频内容涉及**像素级精度**的处理技术，适合对图形编程和视觉特效感兴趣的开发者。属于**Show HN**类别，展示了创新技术的应用。
-
----
-
 ## <a name="8"></a>8. 一条推文大小的WebAssembly编译器 
 <small>🔗 [wasmgroundup.com](https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet/): A WebAssembly compiler that fits in a tweet</small>
 
 
-| 🔥🔥: 204 \| 💬: [23](https://news.ycombinator.com/item?id=42814948) \| 🗓️ 2025-01-24
+| 🔥🔥: 208 \| 💬: [23](https://news.ycombinator.com/item?id=42814948) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -122,7 +122,7 @@ Caltrain的新时刻表将于1月27日开始实施，更多详情可访问Caltra
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/): New book-sorting algorithm almost reaches perfection</small>
 
 
-| 🔥🔥: 191 \| 💬: [41](https://news.ycombinator.com/item?id=42814275) \| 🗓️ 2025-01-24
+| 🔥🔥: 197 \| 💬: [41](https://news.ycombinator.com/item?id=42814275) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -134,7 +134,7 @@ Caltrain的新时刻表将于1月27日开始实施，更多详情可访问Caltra
 <small>🔗 [vpetersson.com](https://vpetersson.com/2025/01/22/how-i-use-home-assistant-in-2025.html): How I Use Home Assistant in 2025</small>
 
 
-| 🔥🔥: 182 \| 💬: [197](https://news.ycombinator.com/item?id=42813513) \| 🗓️ 2025-01-24
+| 🔥🔥: 187 \| 💬: [201](https://news.ycombinator.com/item?id=42813513) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -142,27 +142,27 @@ Caltrain的新时刻表将于1月27日开始实施，更多详情可访问Caltra
 
 ---
 
-## <a name="11"></a>11. 每个系统都是一个日志：在分布式应用中避免协调 
-<small>🔗 [restate.dev](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/): Every System is a Log: Avoiding coordination in distributed applications</small>
-
-
-| 🔥🔥: 167 \| 💬: [125](https://news.ycombinator.com/item?id=42813049) \| 🗓️ 2025-01-24
-
-
-<br />
-分布式应用的复杂性主要源于**协调多个独立系统的状态**，如数据库、消息队列和锁服务。通过将所有操作记录在**单一日志**中，可以避免分布式协调，简化系统设计并提高可靠性。**Restate** 实现了这一理念，通过日志驱动状态管理和消息传递，确保操作的**一致性和容错性**，同时减少系统间的耦合。
-
----
-
-## <a name="12"></a>12. Lightpanda：基于 Zig 的开源无头浏览器 
+## <a name="11"></a>11. Lightpanda：基于 Zig 的开源无头浏览器 
 <small>🔗 [github.com](https://github.com/lightpanda-io/browser): Show HN: Lightpanda, an open-source headless browser in Zig</small>
 
 
-| 🔥🔥: 157 \| 💬: [93](https://news.ycombinator.com/item?id=42817439) \| 🗓️ 2025-01-24
+| 🔥🔥: 169 \| 💬: [96](https://news.ycombinator.com/item?id=42817439) \| 🗓️ 2025-01-24
 
 
 <br />
 Lightpanda 是一款专为 **AI 和自动化** 设计的开源无头浏览器，采用 **Zig** 语言编写，具有 **极低的内存占用** 和 **快速执行** 的特点。它支持 JavaScript 执行和部分 Web API，兼容 Playwright 和 Puppeteer 等工具。适用于网页抓取、测试和 LLM 训练等场景。目前处于 Beta 阶段，功能仍在完善中。
+
+---
+
+## <a name="12"></a>12. 每个系统都是一个日志：在分布式应用中避免协调 
+<small>🔗 [restate.dev](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/): Every System is a Log: Avoiding coordination in distributed applications</small>
+
+
+| 🔥🔥: 168 \| 💬: [125](https://news.ycombinator.com/item?id=42813049) \| 🗓️ 2025-01-24
+
+
+<br />
+分布式应用的复杂性主要源于**协调多个独立系统的状态**，如数据库、消息队列和锁服务。通过将所有操作记录在**单一日志**中，可以避免分布式协调，简化系统设计并提高可靠性。**Restate** 实现了这一理念，通过日志驱动状态管理和消息传递，确保操作的**一致性和容错性**，同时减少系统间的耦合。
 
 ---
 
@@ -178,7 +178,19 @@ Lightpanda 是一款专为 **AI 和自动化** 设计的开源无头浏览器，
 
 ---
 
-## <a name="14"></a>14. Lightpanda：专为AI和自动化设计的无头浏览器 
+## <a name="14"></a>14. 在十多年使用 Vim/Neovim 后尝试 Zed 
+<small>🔗 [sgoel.dev](https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/): Trying out Zed after more than a decade of Vim/Neovim</small>
+
+
+| 🔥🔥: 149 \| 💬: [97](https://news.ycombinator.com/item?id=42817277) \| 🗓️ 2025-01-24
+
+
+<br />
+作者在使用了 **Vim/Neovim** 超过 15 年后，决定尝试 **Zed** 编辑器。主要原因有两个：一是希望使用一个**开箱即用**的工具，减少繁琐的配置；二是希望更好地集成 **LLM**（大语言模型）以提高编码效率。Zed 的 Vim 模式、简洁的 JSON 配置、原生 LLM 集成以及极快的速度让作者对其印象深刻。虽然这只是初步尝试，但 Zed 的表现令人期待。
+
+---
+
+## <a name="15"></a>15. Lightpanda：专为AI和自动化设计的无头浏览器 
 <small>🔗 [github.com](https://github.com/lightpanda-io/browser): Lightpanda: Headless browser designed for AI and automation</small>
 
 
@@ -190,23 +202,11 @@ Lightpanda是一款开源的**无头浏览器**，专为AI代理、LLM训练、�
 
 ---
 
-## <a name="15"></a>15. 在十多年使用 Vim/Neovim 后尝试 Zed 
-<small>🔗 [sgoel.dev](https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/): Trying out Zed after more than a decade of Vim/Neovim</small>
-
-
-| 🔥🔥: 144 \| 💬: [95](https://news.ycombinator.com/item?id=42817277) \| 🗓️ 2025-01-24
-
-
-<br />
-作者在使用了 **Vim/Neovim** 超过 15 年后，决定尝试 **Zed** 编辑器。主要原因有两个：一是希望使用一个**开箱即用**的工具，减少繁琐的配置；二是希望更好地集成 **LLM**（大语言模型）以提高编码效率。Zed 的 Vim 模式、简洁的 JSON 配置、原生 LLM 集成以及极快的速度让作者对其印象深刻。虽然这只是初步尝试，但 Zed 的表现令人期待。
-
----
-
 ## <a name="16"></a>16. “前所未见”——NIH会议和旅行突然暂停 
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00231-y): 'Never seen anything like this' – NIH meetings and travel halted abruptly</small>
 
 
-| 🔥🔥: 141 \| 💬: [76](https://news.ycombinator.com/item?id=42817910) \| 🗓️ 2025-01-24
+| 🔥🔥: 141 \| 💬: [77](https://news.ycombinator.com/item?id=42817910) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -218,7 +218,7 @@ Lightpanda是一款开源的**无头浏览器**，专为AI代理、LLM训练、�
 <small>🔗 [moneycheck.com](https://moneycheck.com/french-police-free-kidnapped-ledger-executive-after-day-long-ordeal/): French police free kidnapped Ledger executive</small>
 
 
-| 🔥🔥: 130 \| 💬: [81](https://news.ycombinator.com/item?id=42819018) \| 🗓️ 2025-01-24
+| 🔥🔥: 141 \| 💬: [93](https://news.ycombinator.com/item?id=42819018) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -230,7 +230,7 @@ Lightpanda是一款开源的**无头浏览器**，专为AI代理、LLM训练、�
 <small>🔗 [bitsaboutmoney.com](https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/): A very Chicago gamble</small>
 
 
-| 🔥🔥: 124 \| 💬: [64](https://news.ycombinator.com/item?id=42816418) \| 🗓️ 2025-01-24
+| 🔥🔥: 128 \| 💬: [66](https://news.ycombinator.com/item?id=42816418) \| 🗓️ 2025-01-24
 
 
 <br />
