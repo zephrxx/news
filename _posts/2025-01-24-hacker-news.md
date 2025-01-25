@@ -26,7 +26,7 @@ tags:
 <small>🔗 [cs16.samke.me](https://cs16.samke.me): Show HN: Cs16.css – CSS library based on Counter Strike 1.6 UI</small>
 
 
-| 🔥🔥: 432 \| 💬: [96](https://news.ycombinator.com/item?id=42814110) \| 🗓️ 2025-01-24
+| 🔥🔥: 462 \| 💬: [101](https://news.ycombinator.com/item?id=42814110) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -38,7 +38,7 @@ Cs16.css 是一个**CSS库**，灵感来源于经典游戏《反恐精英1.6》�
 <small>🔗 [github.com](https://github.com/davidlattimore/wild): Wild – A fast linker for Linux</small>
 
 
-| 🔥🔥: 270 \| 💬: [118](https://news.ycombinator.com/item?id=42814683) \| 🗓️ 2025-01-24
+| 🔥🔥: 274 \| 💬: [121](https://news.ycombinator.com/item?id=42814683) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -50,7 +50,7 @@ Wild 是一个专为 Linux 设计的**快速链接器**，旨在通过**增量�
 <small>🔗 [lucumr.pocoo.org](https://lucumr.pocoo.org/2025/1/24/build-it-yourself/): Build It Yourself</small>
 
 
-| 🔥🔥: 249 \| 💬: [197](https://news.ycombinator.com/item?id=42812641) \| 🗓️ 2025-01-24
+| 🔥🔥: 254 \| 💬: [198](https://news.ycombinator.com/item?id=42812641) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -62,7 +62,7 @@ Armin Ronacher 在文章中批评了现代开发中**依赖泛滥**的问题，�
 <small>🔗 [hallofdreams.org](https://hallofdreams.org/posts/physicsforums/): PhysicsForums and the Dead Internet Theory</small>
 
 
-| 🔥🔥: 211 \| 💬: [124](https://news.ycombinator.com/item?id=42816284) \| 🗓️ 2025-01-24
+| 🔥🔥: 213 \| 💬: [129](https://news.ycombinator.com/item?id=42816284) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -74,7 +74,7 @@ Armin Ronacher 在文章中批评了现代开发中**依赖泛滥**的问题，�
 <small>🔗 [wasmgroundup.com](https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet/): A WebAssembly compiler that fits in a tweet</small>
 
 
-| 🔥🔥: 190 \| 💬: [20](https://news.ycombinator.com/item?id=42814948) \| 🗓️ 2025-01-24
+| 🔥🔥: 196 \| 💬: [23](https://news.ycombinator.com/item?id=42814948) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -86,7 +86,7 @@ Armin Ronacher 在文章中批评了现代开发中**依赖泛滥**的问题，�
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=iDwganLjpW0): Subpixel Snake [video]</small>
 
 
-| 🔥🔥: 190 \| 💬: [41](https://news.ycombinator.com/item?id=42815288) \| 🗓️ 2025-01-24
+| 🔥🔥: 194 \| 💬: [41](https://news.ycombinator.com/item?id=42815288) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -98,7 +98,7 @@ Armin Ronacher 在文章中批评了现代开发中**依赖泛滥**的问题，�
 <small>🔗 [sebastianmihai.com](http://sebastianmihai.com/snowdrop/): Snowdrop OS – a homebrew operating system from scratch, in assembly language</small>
 
 
-| 🔥🔥: 183 \| 💬: [39](https://news.ycombinator.com/item?id=42814820) \| 🗓️ 2025-01-24
+| 🔥🔥: 188 \| 💬: [42](https://news.ycombinator.com/item?id=42814820) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -110,7 +110,7 @@ Snowdrop OS 是一个**16位实模式**操作系统，专为 IBM PC 架构设计
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/): New book-sorting algorithm almost reaches perfection</small>
 
 
-| 🔥🔥: 170 \| 💬: [36](https://news.ycombinator.com/item?id=42814275) \| 🗓️ 2025-01-24
+| 🔥🔥: 170 \| 💬: [38](https://news.ycombinator.com/item?id=42814275) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -122,7 +122,7 @@ Snowdrop OS 是一个**16位实模式**操作系统，专为 IBM PC 架构设计
 <small>🔗 [vpetersson.com](https://vpetersson.com/2025/01/22/how-i-use-home-assistant-in-2025.html): How I Use Home Assistant in 2025</small>
 
 
-| 🔥🔥: 160 \| 💬: [165](https://news.ycombinator.com/item?id=42813513) \| 🗓️ 2025-01-24
+| 🔥🔥: 169 \| 💬: [172](https://news.ycombinator.com/item?id=42813513) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -134,7 +134,7 @@ Snowdrop OS 是一个**16位实模式**操作系统，专为 IBM PC 架构设计
 <small>🔗 [restate.dev](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/): Every System is a Log: Avoiding coordination in distributed applications</small>
 
 
-| 🔥🔥: 153 \| 💬: [118](https://news.ycombinator.com/item?id=42813049) \| 🗓️ 2025-01-24
+| 🔥🔥: 156 \| 💬: [124](https://news.ycombinator.com/item?id=42813049) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -158,7 +158,7 @@ Lightpanda是一款开源的**无头浏览器**，专为AI代理、LLM训练、�
 <small>🔗 [lapcatsoftware.com](https://lapcatsoftware.com/articles/2025/1/6.html): Little Snitch feature nobody knows about</small>
 
 
-| 🔥🔥: 142 \| 💬: [49](https://news.ycombinator.com/item?id=42813231) \| 🗓️ 2025-01-24
+| 🔥🔥: 146 \| 💬: [49](https://news.ycombinator.com/item?id=42813231) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -170,7 +170,7 @@ Lightpanda是一款开源的**无头浏览器**，专为AI代理、LLM训练、�
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00231-y): 'Never seen anything like this' – NIH meetings and travel halted abruptly</small>
 
 
-| 🔥🔥: 128 \| 💬: [60](https://news.ycombinator.com/item?id=42817910) \| 🗓️ 2025-01-24
+| 🔥🔥: 133 \| 💬: [77](https://news.ycombinator.com/item?id=42817910) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -178,27 +178,27 @@ Lightpanda是一款开源的**无头浏览器**，专为AI代理、LLM训练、�
 
 ---
 
-## <a name="14"></a>14. 我们需要谈谈Docker Hub 
-<small>🔗 [linuxserver.io](https://www.linuxserver.io/blog/we-need-to-talk-about-docker-hub): We Need to Talk About Docker Hub</small>
-
-
-| 🔥🔥: 122 \| 💬: [139](https://news.ycombinator.com/item?id=42812203) \| 🗓️ 2025-01-24
-
-
-<br />
-Docker Hub是默认的Docker镜像仓库，但近年来其政策变化引发了担忧。2020年，Docker宣布清理旧镜像并对免费账户实施拉取限制，促使许多用户转向其他平台如**GHCR**。2023年，Docker取消了免费团队账户计划，尽管最终因用户反对而撤回。Linuxserver项目在2021年与Scarf合作，使用**lscr.io**作为前端镜像仓库，但仍依赖GHCR作为后端。2024年，Docker的**DSOS**项目续期流程混乱，导致项目失去会员资格且无法联系到支持团队，引发了对Docker Hub未来的重新评估。
-
----
-
-## <a name="15"></a>15. 在十多年使用 Vim/Neovim 后尝试 Zed 
+## <a name="14"></a>14. 在十多年使用 Vim/Neovim 后尝试 Zed 
 <small>🔗 [sgoel.dev](https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/): Trying out Zed after more than a decade of Vim/Neovim</small>
 
 
-| 🔥🔥: 117 \| 💬: [64](https://news.ycombinator.com/item?id=42817277) \| 🗓️ 2025-01-24
+| 🔥🔥: 123 \| 💬: [76](https://news.ycombinator.com/item?id=42817277) \| 🗓️ 2025-01-24
 
 
 <br />
 作者在使用了 **Vim/Neovim** 超过 15 年后，决定尝试 **Zed** 编辑器。主要原因有两个：一是希望使用一个**开箱即用**的工具，减少繁琐的配置；二是希望更好地集成 **LLM**（大语言模型）以提高编码效率。Zed 的 Vim 模式、简洁的 JSON 配置、原生 LLM 集成以及极快的速度让作者对其印象深刻。虽然这只是初步尝试，但 Zed 的表现令人期待。
+
+---
+
+## <a name="15"></a>15. 我们需要谈谈Docker Hub 
+<small>🔗 [linuxserver.io](https://www.linuxserver.io/blog/we-need-to-talk-about-docker-hub): We Need to Talk About Docker Hub</small>
+
+
+| 🔥🔥: 122 \| 💬: [141](https://news.ycombinator.com/item?id=42812203) \| 🗓️ 2025-01-24
+
+
+<br />
+Docker Hub是默认的Docker镜像仓库，但近年来其政策变化引发了担忧。2020年，Docker宣布清理旧镜像并对免费账户实施拉取限制，促使许多用户转向其他平台如**GHCR**。2023年，Docker取消了免费团队账户计划，尽管最终因用户反对而撤回。Linuxserver项目在2021年与Scarf合作，使用**lscr.io**作为前端镜像仓库，但仍依赖GHCR作为后端。2024年，Docker的**DSOS**项目续期流程混乱，导致项目失去会员资格且无法联系到支持团队，引发了对Docker Hub未来的重新评估。
 
 ---
 
@@ -214,35 +214,11 @@ Docker Hub是默认的Docker镜像仓库，但近年来其政策变化引发了�
 
 ---
 
-## <a name="17"></a>17. Threlte 8 发布 
-<small>🔗 [threlte.xyz](https://threlte.xyz/blog/threlte-8): Threlte 8</small>
-
-
-| 🔥🔥: 104 \| 💬: [15](https://news.ycombinator.com/item?id=42813264) \| 🗓️ 2025-01-24
-
-
-<br />
-Threlte 8 是一个重要的里程碑，带来了性能、灵活性和开发者体验的显著提升。此次更新包括全新的 **`<T>` 组件**、**WebGPU 支持** 和 **Threlte Studio 的 alpha 版本**，为 3D 图形开发提供了更多可能性。虽然不向后兼容，但提供了详细的迁移指南。社区贡献巨大，未来将整合 Svelte 的新 CLI 工具。
-
----
-
-## <a name="18"></a>18. 芝加哥的一场豪赌 
-<small>🔗 [bitsaboutmoney.com](https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/): A very Chicago gamble</small>
-
-
-| 🔥🔥: 102 \| 💬: [52](https://news.ycombinator.com/item?id=42816418) \| 🗓️ 2025-01-24
-
-
-<br />
-芝加哥长期渴望建设赌场以增加收入，但因政治和经济争议未能实现。**Bally's**赢得2022年赌场竞标，承诺25%股权由**女性**和**少数族裔**持有。然而，股票发行中的种族限制引发法律和道德争议，芝加哥的“少数族裔”定义模糊且可操作性强，进一步加剧了复杂性。
-
----
-
-## <a name="19"></a>19. Lightpanda：基于 Zig 的开源无头浏览器 
+## <a name="17"></a>17. Lightpanda：基于 Zig 的开源无头浏览器 
 <small>🔗 [github.com](https://github.com/lightpanda-io/browser): Show HN: Lightpanda, an open-source headless browser in Zig</small>
 
 
-| 🔥: 99 \| 💬: [74](https://news.ycombinator.com/item?id=42817439) \| 🗓️ 2025-01-24
+| 🔥🔥: 112 \| 💬: [80](https://news.ycombinator.com/item?id=42817439) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -250,14 +226,38 @@ Lightpanda 是一款专为 **AI 和自动化** 设计的开源无头浏览器，
 
 ---
 
-## <a name="20"></a>20. 形式化证明的剖析 
-<small>🔗 [ams.org](https://www.ams.org/journals/notices/202502/noti3114/noti3114.html): Anatomy of a Formal Proof</small>
+## <a name="18"></a>18. 芝加哥的一场豪赌 
+<small>🔗 [bitsaboutmoney.com](https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/): A very Chicago gamble</small>
 
 
-| 🔥: 85 \| 💬: [0](https://news.ycombinator.com/item?id=42815755) \| 🗓️ 2025-01-24
+| 🔥🔥: 108 \| 💬: [52](https://news.ycombinator.com/item?id=42816418) \| 🗓️ 2025-01-24
 
 
 <br />
-本文探讨了如何在**Lean**证明助手中形式化地证明两个具有不同特征值的特征向量是线性无关的。通过详细的步骤和**tactic**的使用，作者展示了如何将数学推理转化为计算机可验证的证明。文章还介绍了**Mathlib**库的作用，以及如何利用自动化工具简化证明过程。
+芝加哥长期渴望建设赌场以增加收入，但因政治和经济争议未能实现。**Bally's**赢得2022年赌场竞标，承诺25%股权由**女性**和**少数族裔**持有。然而，股票发行中的种族限制引发法律和道德争议，芝加哥的“少数族裔”定义模糊且可操作性强，进一步加剧了复杂性。
+
+---
+
+## <a name="19"></a>19. Threlte 8 发布 
+<small>🔗 [threlte.xyz](https://threlte.xyz/blog/threlte-8): Threlte 8</small>
+
+
+| 🔥🔥: 105 \| 💬: [16](https://news.ycombinator.com/item?id=42813264) \| 🗓️ 2025-01-24
+
+
+<br />
+Threlte 8 是一个重要的里程碑，带来了性能、灵活性和开发者体验的显著提升。此次更新包括全新的 **`<T>` 组件**、**WebGPU 支持** 和 **Threlte Studio 的 alpha 版本**，为 3D 图形开发提供了更多可能性。虽然不向后兼容，但提供了详细的迁移指南。社区贡献巨大，未来将整合 Svelte 的新 CLI 工具。
+
+---
+
+## <a name="20"></a>20. Caltrain电动列车效率超预期 
+<small>🔗 [caltrain.com](https://www.caltrain.com/news/caltrains-electric-fleet-more-efficient-expected): Caltrain's Electric Fleet More Efficient Than Expected</small>
+
+
+| 🔥: 93 \| 💬: [43](https://news.ycombinator.com/item?id=42818692) \| 🗓️ 2025-01-24
+
+
+<br />
+Caltrain的新时刻表将于1月27日开始实施，更多详情可访问Caltrain.com/status。**电动列车**的表现比预期更为**高效**，标志着其在**环保**和运营方面的显著进步。
 
 ---
