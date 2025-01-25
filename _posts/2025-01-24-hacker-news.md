@@ -12,7 +12,7 @@ tags:
 1. Wild – Linux 上的快速链接器；
 1. 自己动手；
 1. 物理论坛与死互联网理论；
-1. 亚像素蛇；
+1. 一条推文大小的WebAssembly编译器；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [cs16.samke.me](https://cs16.samke.me): Show HN: Cs16.css – CSS library based on Counter Strike 1.6 UI</small>
 
 
-| 🔥🔥: 406 \| 💬: [94](https://news.ycombinator.com/item?id=42814110) \| 🗓️ 2025-01-24
+| 🔥🔥: 432 \| 💬: [96](https://news.ycombinator.com/item?id=42814110) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -38,7 +38,7 @@ Cs16.css 是一个**CSS库**，灵感来源于经典游戏《反恐精英1.6》�
 <small>🔗 [github.com](https://github.com/davidlattimore/wild): Wild – A fast linker for Linux</small>
 
 
-| 🔥🔥: 257 \| 💬: [116](https://news.ycombinator.com/item?id=42814683) \| 🗓️ 2025-01-24
+| 🔥🔥: 270 \| 💬: [118](https://news.ycombinator.com/item?id=42814683) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -50,7 +50,7 @@ Wild 是一个专为 Linux 设计的**快速链接器**，旨在通过**增量�
 <small>🔗 [lucumr.pocoo.org](https://lucumr.pocoo.org/2025/1/24/build-it-yourself/): Build It Yourself</small>
 
 
-| 🔥🔥: 246 \| 💬: [195](https://news.ycombinator.com/item?id=42812641) \| 🗓️ 2025-01-24
+| 🔥🔥: 249 \| 💬: [197](https://news.ycombinator.com/item?id=42812641) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -62,7 +62,7 @@ Armin Ronacher 在文章中批评了现代开发中**依赖泛滥**的问题，�
 <small>🔗 [hallofdreams.org](https://hallofdreams.org/posts/physicsforums/): PhysicsForums and the Dead Internet Theory</small>
 
 
-| 🔥🔥: 206 \| 💬: [122](https://news.ycombinator.com/item?id=42816284) \| 🗓️ 2025-01-24
+| 🔥🔥: 211 \| 💬: [124](https://news.ycombinator.com/item?id=42816284) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -70,23 +70,11 @@ Armin Ronacher 在文章中批评了现代开发中**依赖泛滥**的问题，�
 
 ---
 
-## <a name="5"></a>5. 亚像素蛇 
-<small>🔗 [youtube.com](https://www.youtube.com/watch?v=iDwganLjpW0): Subpixel Snake [video]</small>
-
-
-| 🔥🔥: 187 \| 💬: [39](https://news.ycombinator.com/item?id=42815288) \| 🗓️ 2025-01-24
-
-
-<br />
-这是一段关于**亚像素蛇**的视频，展示了其独特的视觉效果和实现方式。视频内容涉及**像素级精度**的处理技术，适合对图形编程和视觉特效感兴趣的开发者。属于**Show HN**类别，展示了创新技术的应用。
-
----
-
-## <a name="6"></a>6. 一条推文大小的WebAssembly编译器 
+## <a name="5"></a>5. 一条推文大小的WebAssembly编译器 
 <small>🔗 [wasmgroundup.com](https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet/): A WebAssembly compiler that fits in a tweet</small>
 
 
-| 🔥🔥: 184 \| 💬: [20](https://news.ycombinator.com/item?id=42814948) \| 🗓️ 2025-01-24
+| 🔥🔥: 190 \| 💬: [20](https://news.ycombinator.com/item?id=42814948) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -94,11 +82,23 @@ Armin Ronacher 在文章中批评了现代开发中**依赖泛滥**的问题，�
 
 ---
 
+## <a name="6"></a>6. 亚像素蛇 
+<small>🔗 [youtube.com](https://www.youtube.com/watch?v=iDwganLjpW0): Subpixel Snake [video]</small>
+
+
+| 🔥🔥: 190 \| 💬: [41](https://news.ycombinator.com/item?id=42815288) \| 🗓️ 2025-01-24
+
+
+<br />
+这是一段关于**亚像素蛇**的视频，展示了其独特的视觉效果和实现方式。视频内容涉及**像素级精度**的处理技术，适合对图形编程和视觉特效感兴趣的开发者。属于**Show HN**类别，展示了创新技术的应用。
+
+---
+
 ## <a name="7"></a>7. Snowdrop OS – 用汇编语言从头编写的自制操作系统 
 <small>🔗 [sebastianmihai.com](http://sebastianmihai.com/snowdrop/): Snowdrop OS – a homebrew operating system from scratch, in assembly language</small>
 
 
-| 🔥🔥: 175 \| 💬: [36](https://news.ycombinator.com/item?id=42814820) \| 🗓️ 2025-01-24
+| 🔥🔥: 183 \| 💬: [39](https://news.ycombinator.com/item?id=42814820) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -107,10 +107,10 @@ Snowdrop OS 是一个**16位实模式**操作系统，专为 IBM PC 架构设计
 ---
 
 ## <a name="8"></a>8. 新书籍排序算法近乎完美 
-<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/): New Book-Sorting Algorithm Almost Reaches Perfection</small>
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/new-book-sorting-algorithm-almost-reaches-perfection-20250124/): New book-sorting algorithm almost reaches perfection</small>
 
 
-| 🔥🔥: 166 \| 💬: [36](https://news.ycombinator.com/item?id=42814275) \| 🗓️ 2025-01-24
+| 🔥🔥: 170 \| 💬: [36](https://news.ycombinator.com/item?id=42814275) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -122,7 +122,7 @@ Snowdrop OS 是一个**16位实模式**操作系统，专为 IBM PC 架构设计
 <small>🔗 [vpetersson.com](https://vpetersson.com/2025/01/22/how-i-use-home-assistant-in-2025.html): How I Use Home Assistant in 2025</small>
 
 
-| 🔥🔥: 155 \| 💬: [159](https://news.ycombinator.com/item?id=42813513) \| 🗓️ 2025-01-24
+| 🔥🔥: 160 \| 💬: [165](https://news.ycombinator.com/item?id=42813513) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -134,7 +134,7 @@ Snowdrop OS 是一个**16位实模式**操作系统，专为 IBM PC 架构设计
 <small>🔗 [restate.dev](https://restate.dev/blog/every-system-is-a-log-avoiding-coordination-in-distributed-applications/): Every System is a Log: Avoiding coordination in distributed applications</small>
 
 
-| 🔥🔥: 149 \| 💬: [115](https://news.ycombinator.com/item?id=42813049) \| 🗓️ 2025-01-24
+| 🔥🔥: 153 \| 💬: [118](https://news.ycombinator.com/item?id=42813049) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -158,7 +158,7 @@ Lightpanda是一款开源的**无头浏览器**，专为AI代理、LLM训练、�
 <small>🔗 [lapcatsoftware.com](https://lapcatsoftware.com/articles/2025/1/6.html): Little Snitch feature nobody knows about</small>
 
 
-| 🔥🔥: 140 \| 💬: [49](https://news.ycombinator.com/item?id=42813231) \| 🗓️ 2025-01-24
+| 🔥🔥: 142 \| 💬: [49](https://news.ycombinator.com/item?id=42813231) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -166,11 +166,23 @@ Lightpanda是一款开源的**无头浏览器**，专为AI代理、LLM训练、�
 
 ---
 
-## <a name="13"></a>13. 我们需要谈谈Docker Hub 
+## <a name="13"></a>13. “前所未见”——NIH会议和旅行突然暂停 
+<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00231-y): 'Never seen anything like this' – NIH meetings and travel halted abruptly</small>
+
+
+| 🔥🔥: 128 \| 💬: [60](https://news.ycombinator.com/item?id=42817910) \| 🗓️ 2025-01-24
+
+
+<br />
+美国国家卫生研究院（NIH）在特朗普政府上任后，突然取消了研究资助评审、科学家旅行和培训活动，导致科研界陷入混乱和焦虑。**暂停措施**将持续至2月1日，影响了NIH 470亿美元预算的80%，并可能对早期职业研究人员造成“毁灭性打击”。专家批评此举违背了NIH的使命，并可能引发**多米诺效应**，导致更多研究项目延误。
+
+---
+
+## <a name="14"></a>14. 我们需要谈谈Docker Hub 
 <small>🔗 [linuxserver.io](https://www.linuxserver.io/blog/we-need-to-talk-about-docker-hub): We Need to Talk About Docker Hub</small>
 
 
-| 🔥🔥: 122 \| 💬: [138](https://news.ycombinator.com/item?id=42812203) \| 🗓️ 2025-01-24
+| 🔥🔥: 122 \| 💬: [139](https://news.ycombinator.com/item?id=42812203) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -178,7 +190,19 @@ Docker Hub是默认的Docker镜像仓库，但近年来其政策变化引发了�
 
 ---
 
-## <a name="14"></a>14. Bluesky在科学界的崛起：70%的Nature读者使用该平台 
+## <a name="15"></a>15. 在十多年使用 Vim/Neovim 后尝试 Zed 
+<small>🔗 [sgoel.dev](https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/): Trying out Zed after more than a decade of Vim/Neovim</small>
+
+
+| 🔥🔥: 117 \| 💬: [64](https://news.ycombinator.com/item?id=42817277) \| 🗓️ 2025-01-24
+
+
+<br />
+作者在使用了 **Vim/Neovim** 超过 15 年后，决定尝试 **Zed** 编辑器。主要原因有两个：一是希望使用一个**开箱即用**的工具，减少繁琐的配置；二是希望更好地集成 **LLM**（大语言模型）以提高编码效率。Zed 的 Vim 模式、简洁的 JSON 配置、原生 LLM 集成以及极快的速度让作者对其印象深刻。虽然这只是初步尝试，但 Zed 的表现令人期待。
+
+---
+
+## <a name="16"></a>16. Bluesky在科学界的崛起：70%的Nature读者使用该平台 
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00177-1): Bluesky's science takeover: 70% of Nature poll respondents use platform</small>
 
 
@@ -190,23 +214,11 @@ Docker Hub是默认的Docker镜像仓库，但近年来其政策变化引发了�
 
 ---
 
-## <a name="15"></a>15. “前所未见”——NIH会议和旅行突然暂停 
-<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00231-y): 'Never seen anything like this' – NIH meetings and travel halted abruptly</small>
-
-
-| 🔥🔥: 107 \| 💬: [45](https://news.ycombinator.com/item?id=42817910) \| 🗓️ 2025-01-24
-
-
-<br />
-美国国家卫生研究院（NIH）在特朗普政府上任后，突然取消了研究资助评审、科学家旅行和培训活动，导致科研界陷入混乱和焦虑。**暂停措施**将持续至2月1日，影响了NIH 470亿美元预算的80%，并可能对早期职业研究人员造成“毁灭性打击”。专家批评此举违背了NIH的使命，并可能引发**多米诺效应**，导致更多研究项目延误。
-
----
-
-## <a name="16"></a>16. Threlte 8 发布 
+## <a name="17"></a>17. Threlte 8 发布 
 <small>🔗 [threlte.xyz](https://threlte.xyz/blog/threlte-8): Threlte 8</small>
 
 
-| 🔥: 100 \| 💬: [13](https://news.ycombinator.com/item?id=42813264) \| 🗓️ 2025-01-24
+| 🔥🔥: 104 \| 💬: [15](https://news.ycombinator.com/item?id=42813264) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -214,23 +226,11 @@ Threlte 8 是一个重要的里程碑，带来了性能、灵活性和开发者�
 
 ---
 
-## <a name="17"></a>17. 在十多年使用 Vim/Neovim 后尝试 Zed 
-<small>🔗 [sgoel.dev](https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/): Trying out Zed after more than a decade of Vim/Neovim</small>
-
-
-| 🔥: 100 \| 💬: [61](https://news.ycombinator.com/item?id=42817277) \| 🗓️ 2025-01-24
-
-
-<br />
-作者在使用了 **Vim/Neovim** 超过 15 年后，决定尝试 **Zed** 编辑器。主要原因有两个：一是希望使用一个**开箱即用**的工具，减少繁琐的配置；二是希望更好地集成 **LLM**（大语言模型）以提高编码效率。Zed 的 Vim 模式、简洁的 JSON 配置、原生 LLM 集成以及极快的速度让作者对其印象深刻。虽然这只是初步尝试，但 Zed 的表现令人期待。
-
----
-
 ## <a name="18"></a>18. 芝加哥的一场豪赌 
 <small>🔗 [bitsaboutmoney.com](https://www.bitsaboutmoney.com/archive/chicago-casino-investment-offering/): A very Chicago gamble</small>
 
 
-| 🔥: 93 \| 💬: [43](https://news.ycombinator.com/item?id=42816418) \| 🗓️ 2025-01-24
+| 🔥🔥: 102 \| 💬: [52](https://news.ycombinator.com/item?id=42816418) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -242,7 +242,7 @@ Threlte 8 是一个重要的里程碑，带来了性能、灵活性和开发者�
 <small>🔗 [github.com](https://github.com/lightpanda-io/browser): Show HN: Lightpanda, an open-source headless browser in Zig</small>
 
 
-| 🔥: 84 \| 💬: [71](https://news.ycombinator.com/item?id=42817439) \| 🗓️ 2025-01-24
+| 🔥: 99 \| 💬: [74](https://news.ycombinator.com/item?id=42817439) \| 🗓️ 2025-01-24
 
 
 <br />
@@ -250,14 +250,14 @@ Lightpanda 是一款专为 **AI 和自动化** 设计的开源无头浏览器，
 
 ---
 
-## <a name="20"></a>20. Trae：字节跳动的AI代码编辑器 
-<small>🔗 [trae.ai](https://www.trae.ai): Trae: AI Code Editor from ByteDance</small>
+## <a name="20"></a>20. 形式化证明的剖析 
+<small>🔗 [ams.org](https://www.ams.org/journals/notices/202502/noti3114/noti3114.html): Anatomy of a Formal Proof</small>
 
 
-| 🔥: 81 \| 💬: [57](https://news.ycombinator.com/item?id=42811502) \| 🗓️ 2025-01-24
+| 🔥: 85 \| 💬: [0](https://news.ycombinator.com/item?id=42815755) \| 🗓️ 2025-01-24
 
 
 <br />
-Trae 是一款**自适应AI集成开发环境**，旨在提升开发效率，通过与开发者协作实现**更快的编码速度**。它能够**智能适应**用户的工作流程，帮助开发者更高效地完成任务。
+本文探讨了如何在**Lean**证明助手中形式化地证明两个具有不同特征值的特征向量是线性无关的。通过详细的步骤和**tactic**的使用，作者展示了如何将数学推理转化为计算机可验证的证明。文章还介绍了**Mathlib**库的作用，以及如何利用自动化工具简化证明过程。
 
 ---
