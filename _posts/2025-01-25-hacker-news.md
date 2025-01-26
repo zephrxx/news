@@ -26,7 +26,7 @@ tags:
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2501.12948): DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL</small>
 
 
-| 🔥🔥: 626 \| 💬: [509](https://news.ycombinator.com/item?id=42823568) \| 🗓️ 2025-01-25
+| 🔥🔥: 659 \| 💬: [538](https://news.ycombinator.com/item?id=42823568) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -38,7 +38,7 @@ DeepSeek-AI团队推出了第一代推理模型**DeepSeek-R1-Zero**和**DeepSeek
 <small>🔗 [crastinator-pro.github.io](https://crastinator-pro.github.io/steam-brick/): Steam Brick: No screen, no controller, just a power button and a USB port</small>
 
 
-| 🔥🔥: 386 \| 💬: [96](https://news.ycombinator.com/item?id=42825441) \| 🗓️ 2025-01-25
+| 🔥🔥: 416 \| 💬: [99](https://news.ycombinator.com/item?id=42825441) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -50,7 +50,7 @@ DeepSeek-AI团队推出了第一代推理模型**DeepSeek-R1-Zero**和**DeepSeek
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/01/25/us/politics/cia-covid-lab-leak.html): CIA now favors lab leak theory to explain Covid's origins</small>
 
 
-| 🔥🔥: 380 \| 💬: [458](https://news.ycombinator.com/item?id=42823385) \| 🗓️ 2025-01-25
+| 🔥🔥: 396 \| 💬: [486](https://news.ycombinator.com/item?id=42823385) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -62,7 +62,7 @@ DeepSeek-AI团队推出了第一代推理模型**DeepSeek-R1-Zero**和**DeepSeek
 <small>🔗 [openra.net](https://www.openra.net/): OpenRA – Classic strategy games rebuilt for the modern era</small>
 
 
-| 🔥🔥: 336 \| 💬: [62](https://news.ycombinator.com/item?id=42823667) \| 🗓️ 2025-01-25
+| 🔥🔥: 353 \| 💬: [64](https://news.ycombinator.com/item?id=42823667) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -74,7 +74,7 @@ OpenRA 发布了最新测试版 **Playtest 20241228**，包含多项修复和小
 <small>🔗 [fedidb.org](https://fedidb.org/software/pixelfed): Pixelfed Hit 500K Users</small>
 
 
-| 🔥🔥: 270 \| 💬: [67](https://news.ycombinator.com/item?id=42821519) \| 🗓️ 2025-01-25
+| 🔥🔥: 272 \| 💬: [69](https://news.ycombinator.com/item?id=42821519) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -86,7 +86,7 @@ Pixelfed 是一个去中心化的图片分享平台，类似于 Instagram。近�
 <small>🔗 [iamwillwang.com](https://iamwillwang.com/dollar/every-html-element/): Every HTML Element</small>
 
 
-| 🔥🔥: 250 \| 💬: [84](https://news.ycombinator.com/item?id=42823722) \| 🗓️ 2025-01-25
+| 🔥🔥: 263 \| 💬: [86](https://news.ycombinator.com/item?id=42823722) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -94,7 +94,19 @@ HTML元素涵盖了从**内容**到**容器**、**逻辑**到**边缘情况**的
 
 ---
 
-## <a name="7"></a>7. 神话中的IO密集型Rails应用 
+## <a name="7"></a>7. Mac Classic II 因无效的 68030 指令意外启动 
+<small>🔗 [downtowndougbrown.com](https://www.downtowndougbrown.com/2025/01/the-invalid-68030-instruction-that-accidentally-allowed-the-mac-classic-ii-to-successfully-boot-up/): An invalid 68030 instruction accidentally allowed the Mac Classic II to boot</small>
+
+
+| 🔥🔥: 200 \| 💬: [28](https://news.ycombinator.com/item?id=42824562) \| 🗓️ 2025-01-25
+
+
+<br />
+在 Macintosh Classic II 的 ROM 中，Apple 犯了一个错误，本应导致系统无法启动。然而，**Motorola MC68030 CPU** 意外执行了一条未定义的指令，避免了崩溃并成功启动。通过 MAME 模拟器，作者发现 Classic II 在 **32 位寻址模式** 下无法启动，原因是 ROM 代码中的 **BoxFlag** 值超出范围，导致 CPU 执行了无效指令。有趣的是，实际硬件并未出现此问题，推测是模拟器与硬件行为的差异所致。
+
+---
+
+## <a name="8"></a>8. 神话中的IO密集型Rails应用 
 <small>🔗 [byroot.github.io](https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html): The Mythical IO-Bound Rails App</small>
 
 
@@ -103,18 +115,6 @@ HTML元素涵盖了从**内容**到**容器**、**逻辑**到**边缘情况**的
 
 <br />
 Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如此。虽然数据库在扩展时是主要瓶颈，但大多数Rails应用的性能问题源于**数据库查询优化**，而非IO等待。**YJIT**的显著性能提升表明，Rails应用并非完全IO密集型，CPU性能同样重要。
-
----
-
-## <a name="8"></a>8. Mac Classic II 因无效的 68030 指令意外启动 
-<small>🔗 [downtowndougbrown.com](https://www.downtowndougbrown.com/2025/01/the-invalid-68030-instruction-that-accidentally-allowed-the-mac-classic-ii-to-successfully-boot-up/): An invalid 68030 instruction accidentally allowed the Mac Classic II to boot</small>
-
-
-| 🔥🔥: 193 \| 💬: [26](https://news.ycombinator.com/item?id=42824562) \| 🗓️ 2025-01-25
-
-
-<br />
-在 Macintosh Classic II 的 ROM 中，Apple 犯了一个错误，本应导致系统无法启动。然而，**Motorola MC68030 CPU** 意外执行了一条未定义的指令，避免了崩溃并成功启动。通过 MAME 模拟器，作者发现 Classic II 在 **32 位寻址模式** 下无法启动，原因是 ROM 代码中的 **BoxFlag** 值超出范围，导致 CPU 执行了无效指令。有趣的是，实际硬件并未出现此问题，推测是模拟器与硬件行为的差异所致。
 
 ---
 
@@ -134,7 +134,7 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 <small>🔗 [pilane.obviy.us](https://pilane.obviy.us/): Show HN: I built a DIY plane spotting system at home</small>
 
 
-| 🔥🔥: 168 \| 💬: [67](https://news.ycombinator.com/item?id=42821457) \| 🗓️ 2025-01-25
+| 🔥🔥: 170 \| 💬: [67](https://news.ycombinator.com/item?id=42821457) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -142,23 +142,11 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 
 ---
 
-## <a name="11"></a>11. 拉里·埃里森：大规模AI监控可确保公民行为规范（2024） 
-<small>🔗 [businessinsider.com](https://www.businessinsider.com/larry-ellison-ai-surveillance-keep-citizens-on-their-best-behavior-2024-9): Larry Ellison: vast AI surveillance can ensure citizens are on best behavior (2024)</small>
-
-
-| 🔥🔥: 146 \| 💬: [114](https://news.ycombinator.com/item?id=42825097) \| 🗓️ 2025-01-25
-
-
-<br />
-拉里·埃里森，甲骨文创始人，认为**AI驱动的监控系统**将确保“公民行为规范”。他提到，未来AI将实时分析监控数据，如警用摄像头、车载摄像头等，并自动报告问题。他还预测**AI无人机**将取代警车进行高速追捕。甲骨文正积极投入AI项目，与SpaceX合作。
-
----
-
-## <a name="12"></a>12. 南越飞行员为救家人冒险在航母上降落的故事（2019） 
+## <a name="11"></a>11. 南越飞行员为救家人冒险在航母上降落的故事（2019） 
 <small>🔗 [historynet.com](https://www.historynet.com/maj-buang-lys-daring-feat-to-save-his-family/): The South Vietnamese pilot who landed a Cessna on a carrier to save his family (2019)</small>
 
 
-| 🔥🔥: 130 \| 💬: [59](https://news.ycombinator.com/item?id=42826536) \| 🗓️ 2025-01-25
+| 🔥🔥: 154 \| 💬: [65](https://news.ycombinator.com/item?id=42826536) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -166,11 +154,23 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 
 ---
 
+## <a name="12"></a>12. 拉里·埃里森：大规模AI监控可确保公民行为规范（2024） 
+<small>🔗 [businessinsider.com](https://www.businessinsider.com/larry-ellison-ai-surveillance-keep-citizens-on-their-best-behavior-2024-9): Larry Ellison: vast AI surveillance can ensure citizens are on best behavior (2024)</small>
+
+
+| 🔥🔥: 149 \| 💬: [114](https://news.ycombinator.com/item?id=42825097) \| 🗓️ 2025-01-25
+
+
+<br />
+拉里·埃里森，甲骨文创始人，认为**AI驱动的监控系统**将确保“公民行为规范”。他提到，未来AI将实时分析监控数据，如警用摄像头、车载摄像头等，并自动报告问题。他还预测**AI无人机**将取代警车进行高速追捕。甲骨文正积极投入AI项目，与SpaceX合作。
+
+---
+
 ## <a name="13"></a>13. Searching for DeepSeek's glitch tokens 
 <small>🔗 [outsidetext.substack.com](https://outsidetext.substack.com/p/anomalous-tokens-in-deepseek-v3-and): Searching for DeepSeek's glitch tokens</small>
 
 
-| 🔥🔥: 124 \| 💬: [26](https://news.ycombinator.com/item?id=42824473) \| 🗓️ 2025-01-25
+| 🔥🔥: 126 \| 💬: [30](https://news.ycombinator.com/item?id=42824473) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -205,7 +205,7 @@ should be less than 280 characters or words. But should be more than 150 charact
 <small>🔗 [tomforth.co.uk](https://tomforth.co.uk/whynorthenglandispoor/): Why Northern England is poor</small>
 
 
-| 🔥🔥: 122 \| 💬: [111](https://news.ycombinator.com/item?id=42822825) \| 🗓️ 2025-01-25
+| 🔥🔥: 123 \| 💬: [115](https://news.ycombinator.com/item?id=42822825) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -229,7 +229,7 @@ should be less than 280 characters or words. But should be more than 150 charact
 <small>🔗 [psypost.org](https://www.psypost.org/men-lose-half-their-emotional-support-networks-between-30-and-90-decades-long-study-finds/): Emotional support across adulthood: A 60-year study of men’s social networks</small>
 
 
-| 🔥🔥: 106 \| 💬: [138](https://news.ycombinator.com/item?id=42823543) \| 🗓️ 2025-01-25
+| 🔥🔥: 106 \| 💬: [140](https://news.ycombinator.com/item?id=42823543) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -249,23 +249,11 @@ should be less than 280 characters or words. But should be more than 150 charact
 
 ---
 
-## <a name="18"></a>18. 阿森纳足球俱乐部AI研究工程师职位招聘 
-<small>🔗 [careers.arsenal.com](https://careers.arsenal.com/jobs/5434108-research-engineer): Arsenal FC AI Research Engineer job posting</small>
-
-
-| 🔥🔥: 102 \| 💬: [115](https://news.ycombinator.com/item?id=42821922) \| 🗓️ 2025-01-25
-
-
-<br />
-阿森纳足球俱乐部正在寻找一名**AI/深度学习研究工程师**，负责从概念到交付的AI项目，推动足球数据分析研究。该职位将应用**最先进的深度学习技术**（如Transformers、强化学习等）处理多模态数据，并与教练、分析师等合作，提升球队表现和球员招募。候选人需具备扎实的编程基础和深度学习经验，并能在跨时区团队中高效协作。
-
----
-
-## <a name="19"></a>19. Wikenigma – 未知百科全书 
+## <a name="18"></a>18. Wikenigma – 未知百科全书 
 <small>🔗 [wikenigma.org.uk](https://wikenigma.org.uk/start): Wikenigma – an Encyclopedia of Unknowns</small>
 
 
-| 🔥🔥: 101 \| 💬: [23](https://news.ycombinator.com/item?id=42824617) \| 🗓️ 2025-01-25
+| 🔥🔥: 105 \| 💬: [23](https://news.ycombinator.com/item?id=42824617) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -273,14 +261,26 @@ should be less than 280 characters or words. But should be more than 150 charact
 
 ---
 
-## <a name="20"></a>20. 索尼宣布停止生产蓝光光盘、可录音迷你光盘和MiniDV磁带 
-<small>🔗 [sony.jp](https://www.sony.jp/rec-media/info2/20250123.html): Sony ends production of Blu-ray Disc, recordable MiniDisc, and MiniDV media</small>
+## <a name="19"></a>19. 阿森纳足球俱乐部AI研究工程师职位招聘 
+<small>🔗 [careers.arsenal.com](https://careers.arsenal.com/jobs/5434108-research-engineer): Arsenal FC AI Research Engineer job posting</small>
 
 
-| 🔥: 85 \| 💬: [90](https://news.ycombinator.com/item?id=42824922) \| 🗓️ 2025-01-25
+| 🔥🔥: 104 \| 💬: [115](https://news.ycombinator.com/item?id=42821922) \| 🗓️ 2025-01-25
 
 
 <br />
-索尼宣布将于**2025年2月**停止生产**蓝光光盘**、**可录音迷你光盘**、记录用MD数据以及MiniDV磁带，且不会推出后续机型。此举标志着这些传统存储媒介的正式退出市场。索尼对长期支持的用户表示感谢。
+阿森纳足球俱乐部正在寻找一名**AI/深度学习研究工程师**，负责从概念到交付的AI项目，推动足球数据分析研究。该职位将应用**最先进的深度学习技术**（如Transformers、强化学习等）处理多模态数据，并与教练、分析师等合作，提升球队表现和球员招募。候选人需具备扎实的编程基础和深度学习经验，并能在跨时区团队中高效协作。
+
+---
+
+## <a name="20"></a>20. SQLook – 免费在线SQLite数据库管理器，带有Windows 2000界面 
+<small>🔗 [sqlook.com](https://sqlook.com): SQLook – A free online SQLite database manager with a Windows 2000 interface</small>
+
+
+| 🔥: 89 \| 💬: [26](https://news.ycombinator.com/item?id=42826171) \| 🗓️ 2025-01-25
+
+
+<br />
+SQLook是一款基于Web的**SQLite数据库管理器**，结合了现代Web技术与经典的Windows 2000界面风格。它支持**数据库管理**、**查询工具**、**表生成器**和**查询助手**等功能，提供实时数据库统计、查询历史记录、数据导出（CSV、JSON、SQL）等特性。SQLook使用HTML5、CSS3、JavaScript和SQL.js构建，采用MIT许可证，适合需要**复古界面**和**现代功能**的用户。
 
 ---
