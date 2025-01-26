@@ -26,7 +26,7 @@ tags:
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2501.12948): DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL</small>
 
 
-| 🔥🔥: 538 \| 💬: [448](https://news.ycombinator.com/item?id=42823568) \| 🗓️ 2025-01-25
+| 🔥🔥: 566 \| 💬: [479](https://news.ycombinator.com/item?id=42823568) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -38,7 +38,7 @@ DeepSeek-AI团队推出了第一代推理模型**DeepSeek-R1-Zero**和**DeepSeek
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/01/25/us/politics/cia-covid-lab-leak.html): CIA now favors lab leak theory to explain Covid's origins</small>
 
 
-| 🔥🔥: 303 \| 💬: [358](https://news.ycombinator.com/item?id=42823385) \| 🗓️ 2025-01-25
+| 🔥🔥: 334 \| 💬: [397](https://news.ycombinator.com/item?id=42823385) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -50,7 +50,7 @@ DeepSeek-AI团队推出了第一代推理模型**DeepSeek-R1-Zero**和**DeepSeek
 <small>🔗 [crastinator-pro.github.io](https://crastinator-pro.github.io/steam-brick/): Steam Brick: No screen, no controller, just a power button and a USB port</small>
 
 
-| 🔥🔥: 300 \| 💬: [72](https://news.ycombinator.com/item?id=42825441) \| 🗓️ 2025-01-25
+| 🔥🔥: 331 \| 💬: [84](https://news.ycombinator.com/item?id=42825441) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -62,7 +62,7 @@ DeepSeek-AI团队推出了第一代推理模型**DeepSeek-R1-Zero**和**DeepSeek
 <small>🔗 [openra.net](https://www.openra.net/): OpenRA – Classic strategy games rebuilt for the modern era</small>
 
 
-| 🔥🔥: 295 \| 💬: [57](https://news.ycombinator.com/item?id=42823667) \| 🗓️ 2025-01-25
+| 🔥🔥: 309 \| 💬: [58](https://news.ycombinator.com/item?id=42823667) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -74,7 +74,7 @@ OpenRA 发布了最新测试版 **Playtest 20241228**，包含多项修复和小
 <small>🔗 [fedidb.org](https://fedidb.org/software/pixelfed): Pixelfed Hit 500K Users</small>
 
 
-| 🔥🔥: 265 \| 💬: [66](https://news.ycombinator.com/item?id=42821519) \| 🗓️ 2025-01-25
+| 🔥🔥: 267 \| 💬: [66](https://news.ycombinator.com/item?id=42821519) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -86,7 +86,7 @@ Pixelfed 是一个去中心化的图片分享平台，类似于 Instagram。近�
 <small>🔗 [iamwillwang.com](https://iamwillwang.com/dollar/every-html-element/): Every HTML Element</small>
 
 
-| 🔥🔥: 207 \| 💬: [82](https://news.ycombinator.com/item?id=42823722) \| 🗓️ 2025-01-25
+| 🔥🔥: 224 \| 💬: [83](https://news.ycombinator.com/item?id=42823722) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -98,7 +98,7 @@ HTML元素涵盖了从**内容**到**容器**、**逻辑**到**边缘情况**的
 <small>🔗 [byroot.github.io](https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html): The Mythical IO-Bound Rails App</small>
 
 
-| 🔥🔥: 195 \| 💬: [54](https://news.ycombinator.com/item?id=42820419) \| 🗓️ 2025-01-25
+| 🔥🔥: 196 \| 💬: [55](https://news.ycombinator.com/item?id=42820419) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -110,7 +110,7 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 <small>🔗 [bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/hacker-infects-18-000-script-kiddies-with-fake-malware-builder/): Hacker infects 18,000 "script kiddies" with fake malware builder</small>
 
 
-| 🔥🔥: 189 \| 💬: [72](https://news.ycombinator.com/item?id=42821611) \| 🗓️ 2025-01-25
+| 🔥🔥: 192 \| 💬: [74](https://news.ycombinator.com/item?id=42821611) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -122,7 +122,7 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 <small>🔗 [downtowndougbrown.com](https://www.downtowndougbrown.com/2025/01/the-invalid-68030-instruction-that-accidentally-allowed-the-mac-classic-ii-to-successfully-boot-up/): An invalid 68030 instruction accidentally allowed the Mac Classic II to boot</small>
 
 
-| 🔥🔥: 165 \| 💬: [20](https://news.ycombinator.com/item?id=42824562) \| 🗓️ 2025-01-25
+| 🔥🔥: 176 \| 💬: [21](https://news.ycombinator.com/item?id=42824562) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -134,7 +134,7 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 <small>🔗 [pilane.obviy.us](https://pilane.obviy.us/): Show HN: I built a DIY plane spotting system at home</small>
 
 
-| 🔥🔥: 164 \| 💬: [64](https://news.ycombinator.com/item?id=42821457) \| 🗓️ 2025-01-25
+| 🔥🔥: 165 \| 💬: [65](https://news.ycombinator.com/item?id=42821457) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -146,7 +146,7 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 <small>🔗 [businessinsider.com](https://www.businessinsider.com/larry-ellison-ai-surveillance-keep-citizens-on-their-best-behavior-2024-9): Larry Ellison: vast AI surveillance can ensure citizens are on best behavior (2024)</small>
 
 
-| 🔥🔥: 140 \| 💬: [105](https://news.ycombinator.com/item?id=42825097) \| 🗓️ 2025-01-25
+| 🔥🔥: 141 \| 💬: [110](https://news.ycombinator.com/item?id=42825097) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -158,7 +158,7 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 <small>🔗 [tomforth.co.uk](https://tomforth.co.uk/whynorthenglandispoor/): Why Northern England is poor</small>
 
 
-| 🔥🔥: 115 \| 💬: [110](https://news.ycombinator.com/item?id=42822825) \| 🗓️ 2025-01-25
+| 🔥🔥: 117 \| 💬: [110](https://news.ycombinator.com/item?id=42822825) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -170,7 +170,7 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 <small>🔗 [cnn.com](https://www.cnn.com/2025/01/22/science/meteorite-strike-doorbell-camera/index.html): Doorbell camera catches rare footage of meteorite striking home's front walkway</small>
 
 
-| 🔥🔥: 105 \| 💬: [48](https://news.ycombinator.com/item?id=42821911) \| 🗓️ 2025-01-25
+| 🔥🔥: 107 \| 💬: [50](https://news.ycombinator.com/item?id=42821911) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -178,47 +178,11 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 
 ---
 
-## <a name="14"></a>14. 跨越成年期的情感支持：一项关于男性社交网络的60年研究 
-<small>🔗 [psypost.org](https://www.psypost.org/men-lose-half-their-emotional-support-networks-between-30-and-90-decades-long-study-finds/): Emotional support across adulthood: A 60-year study of men’s social networks</small>
-
-
-| 🔥🔥: 104 \| 💬: [130](https://news.ycombinator.com/item?id=42823543) \| 🗓️ 2025-01-25
-
-
-<br />
-一项60年的研究发现，**男性社交网络**在成年期提供的情感支持对心理健康至关重要。研究揭示了**社会关系**的长期影响，强调了**情感支持**在应对生活压力中的重要性。
-
----
-
-## <a name="15"></a>15. DOGE接管USDS，使其得以从内部监视美国政府 
-<small>🔗 [wired.com](https://www.wired.com/story/doge-elon-musk/): DOGE Takeover of USDS Allows Them to Surveil the US Government from the Inside</small>
-
-
-| 🔥🔥: 102 \| 💬: [117](https://news.ycombinator.com/item?id=42823510) \| 🗓️ 2025-01-25
-
-
-<br />
-特朗普总统签署行政命令，将**USDS**重组并更名为**US DOGE Service**，由马斯克领导。此举绕过联邦咨询委员会的法律要求，赋予DOGE广泛访问政府数据和系统的权限，引发对**透明度**和**潜在监视**的担忧。DOGE团队将进驻各机构，可能用于裁员或针对特定人群，同时临时组织允许绕过常规招聘流程，进一步加剧了争议。
-
----
-
-## <a name="16"></a>16. 阿森纳足球俱乐部AI研究工程师职位招聘 
-<small>🔗 [careers.arsenal.com](https://careers.arsenal.com/jobs/5434108-research-engineer): Arsenal FC AI Research Engineer job posting</small>
-
-
-| 🔥: 100 \| 💬: [110](https://news.ycombinator.com/item?id=42821922) \| 🗓️ 2025-01-25
-
-
-<br />
-阿森纳足球俱乐部正在寻找一名**AI/深度学习研究工程师**，负责从概念到交付的AI项目，推动足球数据分析研究。该职位将应用**最先进的深度学习技术**（如Transformers、强化学习等）处理多模态数据，并与教练、分析师等合作，提升球队表现和球员招募。候选人需具备扎实的编程基础和深度学习经验，并能在跨时区团队中高效协作。
-
----
-
-## <a name="17"></a>17. Searching for DeepSeek's glitch tokens 
+## <a name="14"></a>14. Searching for DeepSeek's glitch tokens 
 <small>🔗 [outsidetext.substack.com](https://outsidetext.substack.com/p/anomalous-tokens-in-deepseek-v3-and): Searching for DeepSeek's glitch tokens</small>
 
 
-| 🔥: 97 \| 💬: [11](https://news.ycombinator.com/item?id=42824473) \| 🗓️ 2025-01-25
+| 🔥🔥: 106 \| 💬: [18](https://news.ycombinator.com/item?id=42824473) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -249,11 +213,47 @@ should be less than 280 characters or words. But should be more than 150 charact
 
 ---
 
+## <a name="15"></a>15. 跨越成年期的情感支持：一项关于男性社交网络的60年研究 
+<small>🔗 [psypost.org](https://www.psypost.org/men-lose-half-their-emotional-support-networks-between-30-and-90-decades-long-study-finds/): Emotional support across adulthood: A 60-year study of men’s social networks</small>
+
+
+| 🔥🔥: 105 \| 💬: [132](https://news.ycombinator.com/item?id=42823543) \| 🗓️ 2025-01-25
+
+
+<br />
+一项60年的研究发现，**男性社交网络**在成年期提供的情感支持对心理健康至关重要。研究揭示了**社会关系**的长期影响，强调了**情感支持**在应对生活压力中的重要性。
+
+---
+
+## <a name="16"></a>16. DOGE接管USDS，使其得以从内部监视美国政府 
+<small>🔗 [wired.com](https://www.wired.com/story/doge-elon-musk/): DOGE Takeover of USDS Allows Them to Surveil the US Government from the Inside</small>
+
+
+| 🔥🔥: 102 \| 💬: [117](https://news.ycombinator.com/item?id=42823510) \| 🗓️ 2025-01-25
+
+
+<br />
+特朗普总统签署行政命令，将**USDS**重组并更名为**US DOGE Service**，由马斯克领导。此举绕过联邦咨询委员会的法律要求，赋予DOGE广泛访问政府数据和系统的权限，引发对**透明度**和**潜在监视**的担忧。DOGE团队将进驻各机构，可能用于裁员或针对特定人群，同时临时组织允许绕过常规招聘流程，进一步加剧了争议。
+
+---
+
+## <a name="17"></a>17. 阿森纳足球俱乐部AI研究工程师职位招聘 
+<small>🔗 [careers.arsenal.com](https://careers.arsenal.com/jobs/5434108-research-engineer): Arsenal FC AI Research Engineer job posting</small>
+
+
+| 🔥: 100 \| 💬: [113](https://news.ycombinator.com/item?id=42821922) \| 🗓️ 2025-01-25
+
+
+<br />
+阿森纳足球俱乐部正在寻找一名**AI/深度学习研究工程师**，负责从概念到交付的AI项目，推动足球数据分析研究。该职位将应用**最先进的深度学习技术**（如Transformers、强化学习等）处理多模态数据，并与教练、分析师等合作，提升球队表现和球员招募。候选人需具备扎实的编程基础和深度学习经验，并能在跨时区团队中高效协作。
+
+---
+
 ## <a name="18"></a>18. Wikenigma – 未知百科全书 
 <small>🔗 [wikenigma.org.uk](https://wikenigma.org.uk/start): Wikenigma – an Encyclopedia of Unknowns</small>
 
 
-| 🔥: 91 \| 💬: [18](https://news.ycombinator.com/item?id=42824617) \| 🗓️ 2025-01-25
+| 🔥: 92 \| 💬: [20](https://news.ycombinator.com/item?id=42824617) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -261,26 +261,26 @@ should be less than 280 characters or words. But should be more than 150 charact
 
 ---
 
-## <a name="19"></a>19. 索尼宣布停止生产蓝光光盘、可录音迷你光盘和MiniDV磁带 
+## <a name="19"></a>19. 南越飞行员为救家人冒险在航母上降落的故事（2019） 
+<small>🔗 [historynet.com](https://www.historynet.com/maj-buang-lys-daring-feat-to-save-his-family/): The South Vietnamese pilot who landed a Cessna on a carrier to save his family (2019)</small>
+
+
+| 🔥: 91 \| 💬: [38](https://news.ycombinator.com/item?id=42826536) \| 🗓️ 2025-01-25
+
+
+<br />
+1975年4月29日，南越空军少校**Buang-Ly**驾驶一架小型飞机，载着妻子和五个孩子逃离战乱。在燃料不足、设备简陋的情况下，他冒险飞向**USS Midway**航母，请求降落。尽管航母并未设计接收小型飞机，舰长**Lawrence Chambers**决定冒险清空甲板，最终成功让Buang-Ly一家安全降落。这一决定挽救了七条生命，成为越战末期的一段传奇。
+
+---
+
+## <a name="20"></a>20. 索尼宣布停止生产蓝光光盘、可录音迷你光盘和MiniDV磁带 
 <small>🔗 [sony.jp](https://www.sony.jp/rec-media/info2/20250123.html): Sony ends production of Blu-ray Disc, recordable MiniDisc, and MiniDV media</small>
 
 
-| 🔥: 76 \| 💬: [82](https://news.ycombinator.com/item?id=42824922) \| 🗓️ 2025-01-25
+| 🔥: 78 \| 💬: [84](https://news.ycombinator.com/item?id=42824922) \| 🗓️ 2025-01-25
 
 
 <br />
 索尼宣布将于**2025年2月**停止生产**蓝光光盘**、**可录音迷你光盘**、记录用MD数据以及MiniDV磁带，且不会推出后续机型。此举标志着这些传统存储媒介的正式退出市场。索尼对长期支持的用户表示感谢。
-
----
-
-## <a name="20"></a>20. 德州正在执行其州数据隐私法，其他州也应效仿 
-<small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/01/texas-enforcing-its-state-data-privacy-law-so-should-other-states): Texas Is Enforcing Its State Data Privacy Law. So Should Other States</small>
-
-
-| 🔥: 74 \| 💬: [15](https://news.ycombinator.com/item?id=42825726) \| 🗓️ 2025-01-25
-
-
-<br />
-德州总检察长办公室根据《德州数据隐私与安全法》（TDPSA）对Allstate公司提起诉讼，指控其未经客户同意收集并出售驾驶数据。**隐私法**要求公司提供明确通知并获得消费者同意，但Allstate及其子公司Arity未能遵守。德州隐私法虽有“修复权”条款，但Arity未采取补救措施。**更多州应加强隐私法执行**，确保公司尊重消费者隐私。
 
 ---
