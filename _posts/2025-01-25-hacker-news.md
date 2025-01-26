@@ -10,9 +10,9 @@ tags:
 
 1. DeepSeek-R1：通过强化学习激励大语言模型的推理能力；
 1. CIA现在倾向于实验室泄漏理论解释新冠起源；
+1. Steam Brick：无屏幕、无控制器，仅有一个电源按钮和USB接口；
 1. OpenRA – 经典策略游戏的重制现代版；
 1. Pixelfed 用户突破 50 万；
-1. Steam Brick：无屏幕、无控制器，仅有一个电源按钮和USB接口；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2501.12948): DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL</small>
 
 
-| 🔥🔥: 503 \| 💬: [426](https://news.ycombinator.com/item?id=42823568) \| 🗓️ 2025-01-25
+| 🔥🔥: 538 \| 💬: [448](https://news.ycombinator.com/item?id=42823568) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -38,7 +38,7 @@ DeepSeek-AI团队推出了第一代推理模型**DeepSeek-R1-Zero**和**DeepSeek
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/01/25/us/politics/cia-covid-lab-leak.html): CIA now favors lab leak theory to explain Covid's origins</small>
 
 
-| 🔥🔥: 269 \| 💬: [309](https://news.ycombinator.com/item?id=42823385) \| 🗓️ 2025-01-25
+| 🔥🔥: 303 \| 💬: [358](https://news.ycombinator.com/item?id=42823385) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -46,35 +46,11 @@ DeepSeek-AI团队推出了第一代推理模型**DeepSeek-R1-Zero**和**DeepSeek
 
 ---
 
-## <a name="3"></a>3. OpenRA – 经典策略游戏的重制现代版 
-<small>🔗 [openra.net](https://www.openra.net/): OpenRA – Classic strategy games rebuilt for the modern era</small>
-
-
-| 🔥🔥: 265 \| 💬: [55](https://news.ycombinator.com/item?id=42823667) \| 🗓️ 2025-01-25
-
-
-<br />
-OpenRA 发布了最新测试版 **Playtest 20241228**，包含多项修复和小功能更新，如**Saboteurs 移动时隐形**、地图编辑器新增**删除区域按钮**等。此外，**Tiberian Dawn HD** 测试版也已上线。团队还推出了 **Playtest 20241116**，带来全新地图编辑器、**EVA 数据库**和 **HD 艺术资源支持**，提升了游戏性能和视觉效果。欢迎玩家参与测试并提供反馈。
-
----
-
-## <a name="4"></a>4. Pixelfed 用户突破 50 万 
-<small>🔗 [fedidb.org](https://fedidb.org/software/pixelfed): Pixelfed Hit 500K Users</small>
-
-
-| 🔥🔥: 262 \| 💬: [66](https://news.ycombinator.com/item?id=42821519) \| 🗓️ 2025-01-25
-
-
-<br />
-Pixelfed 是一个去中心化的图片分享平台，类似于 Instagram。近日，该平台宣布其用户数量已突破 **50 万**，标志着其在**去中心化社交媒体**领域的持续增长。Pixelfed 的崛起反映了用户对**隐私保护**和内容控制的日益重视。
-
----
-
-## <a name="5"></a>5. Steam Brick：无屏幕、无控制器，仅有一个电源按钮和USB接口 
+## <a name="3"></a>3. Steam Brick：无屏幕、无控制器，仅有一个电源按钮和USB接口 
 <small>🔗 [crastinator-pro.github.io](https://crastinator-pro.github.io/steam-brick/): Steam Brick: No screen, no controller, just a power button and a USB port</small>
 
 
-| 🔥🔥: 254 \| 💬: [57](https://news.ycombinator.com/item?id=42825441) \| 🗓️ 2025-01-25
+| 🔥🔥: 300 \| 💬: [72](https://news.ycombinator.com/item?id=42825441) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -82,11 +58,35 @@ Pixelfed 是一个去中心化的图片分享平台，类似于 Instagram。近�
 
 ---
 
+## <a name="4"></a>4. OpenRA – 经典策略游戏的重制现代版 
+<small>🔗 [openra.net](https://www.openra.net/): OpenRA – Classic strategy games rebuilt for the modern era</small>
+
+
+| 🔥🔥: 295 \| 💬: [57](https://news.ycombinator.com/item?id=42823667) \| 🗓️ 2025-01-25
+
+
+<br />
+OpenRA 发布了最新测试版 **Playtest 20241228**，包含多项修复和小功能更新，如**Saboteurs 移动时隐形**、地图编辑器新增**删除区域按钮**等。此外，**Tiberian Dawn HD** 测试版也已上线。团队还推出了 **Playtest 20241116**，带来全新地图编辑器、**EVA 数据库**和 **HD 艺术资源支持**，提升了游戏性能和视觉效果。欢迎玩家参与测试并提供反馈。
+
+---
+
+## <a name="5"></a>5. Pixelfed 用户突破 50 万 
+<small>🔗 [fedidb.org](https://fedidb.org/software/pixelfed): Pixelfed Hit 500K Users</small>
+
+
+| 🔥🔥: 265 \| 💬: [66](https://news.ycombinator.com/item?id=42821519) \| 🗓️ 2025-01-25
+
+
+<br />
+Pixelfed 是一个去中心化的图片分享平台，类似于 Instagram。近日，该平台宣布其用户数量已突破 **50 万**，标志着其在**去中心化社交媒体**领域的持续增长。Pixelfed 的崛起反映了用户对**隐私保护**和内容控制的日益重视。
+
+---
+
 ## <a name="6"></a>6. 每个HTML元素 
 <small>🔗 [iamwillwang.com](https://iamwillwang.com/dollar/every-html-element/): Every HTML Element</small>
 
 
-| 🔥🔥: 199 \| 💬: [79](https://news.ycombinator.com/item?id=42823722) \| 🗓️ 2025-01-25
+| 🔥🔥: 207 \| 💬: [82](https://news.ycombinator.com/item?id=42823722) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -98,7 +98,7 @@ HTML元素涵盖了从**内容**到**容器**、**逻辑**到**边缘情况**的
 <small>🔗 [byroot.github.io](https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html): The Mythical IO-Bound Rails App</small>
 
 
-| 🔥🔥: 193 \| 💬: [53](https://news.ycombinator.com/item?id=42820419) \| 🗓️ 2025-01-25
+| 🔥🔥: 195 \| 💬: [54](https://news.ycombinator.com/item?id=42820419) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -110,7 +110,7 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 <small>🔗 [bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/hacker-infects-18-000-script-kiddies-with-fake-malware-builder/): Hacker infects 18,000 "script kiddies" with fake malware builder</small>
 
 
-| 🔥🔥: 185 \| 💬: [71](https://news.ycombinator.com/item?id=42821611) \| 🗓️ 2025-01-25
+| 🔥🔥: 189 \| 💬: [72](https://news.ycombinator.com/item?id=42821611) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -118,23 +118,11 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 
 ---
 
-## <a name="9"></a>9. 我在家自制了一个飞机观测系统 
-<small>🔗 [pilane.obviy.us](https://pilane.obviy.us/): Show HN: I built a DIY plane spotting system at home</small>
-
-
-| 🔥🔥: 162 \| 💬: [63](https://news.ycombinator.com/item?id=42821457) \| 🗓️ 2025-01-25
-
-
-<br />
-该内容展示了一个**DIY飞机观测系统**的记录，列出了多架飞机的航班号、机型、出发地和目的地，以及预计到达时间。系统主要用于追踪飞往**德里**的航班，涵盖了多种机型如**A21N**和**A20N**。该项目展示了如何利用技术在家中实现航班追踪。
-
----
-
-## <a name="10"></a>10. Mac Classic II 因无效的 68030 指令意外启动 
+## <a name="9"></a>9. Mac Classic II 因无效的 68030 指令意外启动 
 <small>🔗 [downtowndougbrown.com](https://www.downtowndougbrown.com/2025/01/the-invalid-68030-instruction-that-accidentally-allowed-the-mac-classic-ii-to-successfully-boot-up/): An invalid 68030 instruction accidentally allowed the Mac Classic II to boot</small>
 
 
-| 🔥🔥: 149 \| 💬: [15](https://news.ycombinator.com/item?id=42824562) \| 🗓️ 2025-01-25
+| 🔥🔥: 165 \| 💬: [20](https://news.ycombinator.com/item?id=42824562) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -142,11 +130,23 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 
 ---
 
+## <a name="10"></a>10. 我在家自制了一个飞机观测系统 
+<small>🔗 [pilane.obviy.us](https://pilane.obviy.us/): Show HN: I built a DIY plane spotting system at home</small>
+
+
+| 🔥🔥: 164 \| 💬: [64](https://news.ycombinator.com/item?id=42821457) \| 🗓️ 2025-01-25
+
+
+<br />
+该内容展示了一个**DIY飞机观测系统**的记录，列出了多架飞机的航班号、机型、出发地和目的地，以及预计到达时间。系统主要用于追踪飞往**德里**的航班，涵盖了多种机型如**A21N**和**A20N**。该项目展示了如何利用技术在家中实现航班追踪。
+
+---
+
 ## <a name="11"></a>11. 拉里·埃里森：大规模AI监控可确保公民行为规范（2024） 
 <small>🔗 [businessinsider.com](https://www.businessinsider.com/larry-ellison-ai-surveillance-keep-citizens-on-their-best-behavior-2024-9): Larry Ellison: vast AI surveillance can ensure citizens are on best behavior (2024)</small>
 
 
-| 🔥🔥: 133 \| 💬: [96](https://news.ycombinator.com/item?id=42825097) \| 🗓️ 2025-01-25
+| 🔥🔥: 140 \| 💬: [105](https://news.ycombinator.com/item?id=42825097) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -158,7 +158,7 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 <small>🔗 [tomforth.co.uk](https://tomforth.co.uk/whynorthenglandispoor/): Why Northern England is poor</small>
 
 
-| 🔥🔥: 112 \| 💬: [107](https://news.ycombinator.com/item?id=42822825) \| 🗓️ 2025-01-25
+| 🔥🔥: 115 \| 💬: [110](https://news.ycombinator.com/item?id=42822825) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -170,7 +170,7 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 <small>🔗 [cnn.com](https://www.cnn.com/2025/01/22/science/meteorite-strike-doorbell-camera/index.html): Doorbell camera catches rare footage of meteorite striking home's front walkway</small>
 
 
-| 🔥🔥: 104 \| 💬: [48](https://news.ycombinator.com/item?id=42821911) \| 🗓️ 2025-01-25
+| 🔥🔥: 105 \| 💬: [48](https://news.ycombinator.com/item?id=42821911) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -178,23 +178,11 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 
 ---
 
-## <a name="14"></a>14. DOGE接管USDS，使其得以从内部监视美国政府 
-<small>🔗 [wired.com](https://www.wired.com/story/doge-elon-musk/): DOGE Takeover of USDS Allows Them to Surveil the US Government from the Inside</small>
-
-
-| 🔥🔥: 101 \| 💬: [117](https://news.ycombinator.com/item?id=42823510) \| 🗓️ 2025-01-25
-
-
-<br />
-特朗普总统签署行政命令，将**USDS**重组并更名为**US DOGE Service**，由马斯克领导。此举绕过联邦咨询委员会的法律要求，赋予DOGE广泛访问政府数据和系统的权限，引发对**透明度**和**潜在监视**的担忧。DOGE团队将进驻各机构，可能用于裁员或针对特定人群，同时临时组织允许绕过常规招聘流程，进一步加剧了争议。
-
----
-
-## <a name="15"></a>15. 跨越成年期的情感支持：一项关于男性社交网络的60年研究 
+## <a name="14"></a>14. 跨越成年期的情感支持：一项关于男性社交网络的60年研究 
 <small>🔗 [psypost.org](https://www.psypost.org/men-lose-half-their-emotional-support-networks-between-30-and-90-decades-long-study-finds/): Emotional support across adulthood: A 60-year study of men’s social networks</small>
 
 
-| 🔥: 100 \| 💬: [126](https://news.ycombinator.com/item?id=42823543) \| 🗓️ 2025-01-25
+| 🔥🔥: 104 \| 💬: [130](https://news.ycombinator.com/item?id=42823543) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -202,11 +190,23 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 
 ---
 
+## <a name="15"></a>15. DOGE接管USDS，使其得以从内部监视美国政府 
+<small>🔗 [wired.com](https://www.wired.com/story/doge-elon-musk/): DOGE Takeover of USDS Allows Them to Surveil the US Government from the Inside</small>
+
+
+| 🔥🔥: 102 \| 💬: [117](https://news.ycombinator.com/item?id=42823510) \| 🗓️ 2025-01-25
+
+
+<br />
+特朗普总统签署行政命令，将**USDS**重组并更名为**US DOGE Service**，由马斯克领导。此举绕过联邦咨询委员会的法律要求，赋予DOGE广泛访问政府数据和系统的权限，引发对**透明度**和**潜在监视**的担忧。DOGE团队将进驻各机构，可能用于裁员或针对特定人群，同时临时组织允许绕过常规招聘流程，进一步加剧了争议。
+
+---
+
 ## <a name="16"></a>16. 阿森纳足球俱乐部AI研究工程师职位招聘 
 <small>🔗 [careers.arsenal.com](https://careers.arsenal.com/jobs/5434108-research-engineer): Arsenal FC AI Research Engineer job posting</small>
 
 
-| 🔥: 98 \| 💬: [107](https://news.ycombinator.com/item?id=42821922) \| 🗓️ 2025-01-25
+| 🔥: 100 \| 💬: [110](https://news.ycombinator.com/item?id=42821922) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -218,7 +218,7 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 <small>🔗 [outsidetext.substack.com](https://outsidetext.substack.com/p/anomalous-tokens-in-deepseek-v3-and): Searching for DeepSeek's glitch tokens</small>
 
 
-| 🔥: 92 \| 💬: [7](https://news.ycombinator.com/item?id=42824473) \| 🗓️ 2025-01-25
+| 🔥: 97 \| 💬: [11](https://news.ycombinator.com/item?id=42824473) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -253,7 +253,7 @@ should be less than 280 characters or words. But should be more than 150 charact
 <small>🔗 [wikenigma.org.uk](https://wikenigma.org.uk/start): Wikenigma – an Encyclopedia of Unknowns</small>
 
 
-| 🔥: 82 \| 💬: [16](https://news.ycombinator.com/item?id=42824617) \| 🗓️ 2025-01-25
+| 🔥: 91 \| 💬: [18](https://news.ycombinator.com/item?id=42824617) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -265,7 +265,7 @@ should be less than 280 characters or words. But should be more than 150 charact
 <small>🔗 [sony.jp](https://www.sony.jp/rec-media/info2/20250123.html): Sony ends production of Blu-ray Disc, recordable MiniDisc, and MiniDV media</small>
 
 
-| 🔥: 69 \| 💬: [72](https://news.ycombinator.com/item?id=42824922) \| 🗓️ 2025-01-25
+| 🔥: 76 \| 💬: [82](https://news.ycombinator.com/item?id=42824922) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -277,7 +277,7 @@ should be less than 280 characters or words. But should be more than 150 charact
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/01/texas-enforcing-its-state-data-privacy-law-so-should-other-states): Texas Is Enforcing Its State Data Privacy Law. So Should Other States</small>
 
 
-| 🔥: 60 \| 💬: [6](https://news.ycombinator.com/item?id=42825726) \| 🗓️ 2025-01-25
+| 🔥: 74 \| 💬: [15](https://news.ycombinator.com/item?id=42825726) \| 🗓️ 2025-01-25
 
 
 <br />
