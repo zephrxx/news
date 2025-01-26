@@ -1,0 +1,203 @@
+---
+layout: page
+title: 勒西科技日报 - 2025年01月26日
+date: 2025-01-26 00:00:00
+categories: 新闻
+tags:
+  - hacker_news
+---
+
+
+1. 用应用掩盖的合谋犯罪；
+1. 先锋集团不推出比特币ETF（2024）；
+1. Wayland与X11输入延迟争议的实测数据对比；
+1. 微软365 Copilot发布成灾难性事件；
+1. 抗议者智能手机安全指南；
+
+以上是今天的前五条黑科技新闻标题。
+
+总共15条，具体内容您往下读...
+
+
+![](/assets/images/hacker_news.jpg)
+
+
+## <a name="1"></a>1. 用应用掩盖的合谋犯罪 
+<small>🔗 [pluralistic.net](https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading): It's not a crime if we do it with an app</small>
+
+
+| 🔥🔥: 784 \| 💬: [507](https://news.ycombinator.com/item?id=42830646) \| 🗓️ 2025-01-26
+
+
+<br />
+科技巨头与食品垄断集团通过**数据中介平台**（如Potatotrac、Agri Stats）进行隐蔽价格操纵，将通胀归咎于战争、疫情等外部因素，实则利用行业集中度协同抬价。拜登政府推动反垄断诉讼，但特朗普派法官或受垄断“效率论”影响削弱执法。**马铃薯、肉类、杏仁奶等市场被2-5家企业控制**，餐厅与消费者被迫承受虚高成本，小企业生存空间遭挤压。
+
+---
+
+## <a name="2"></a>2. 先锋集团不推出比特币ETF（2024） 
+<small>🔗 [corporate.vanguard.com](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/no-bitcoin-etfs-at-vanguard-heres-why.html): No Bitcoin ETFs at Vanguard (2024)</small>
+
+
+| 🔥🔥: 333 \| 💬: [446](https://news.ycombinator.com/item?id=42832026) \| 🗓️ 2025-01-26
+
+
+<br />
+先锋集团明确表示**不推出比特币ETF**，也不会在经纪平台提供加密货币相关产品。其决策基于**加密货币的投机属性**，认为其缺乏内在经济价值、现金流和稳定性，且**波动性极高**（比特币三年内涨幅达150%，跌幅达77%），可能破坏长期投资组合。先锋坚持**长期投资理念**，过去曾下架杠杆基金和场外股票，此次决定延续其一贯原则，优先考虑客户利益而非市场趋势。
+
+---
+
+## <a name="3"></a>3. Wayland与X11输入延迟争议的实测数据对比 
+<small>🔗 [mort.coffee](https://mort.coffee/home/wayland-input-latency/): Hard numbers in the Wayland vs. X11 input latency discussion</small>
+
+
+| 🔥🔥: 299 \| 💬: [178](https://news.ycombinator.com/item?id=42831509) \| 🗓️ 2025-01-26
+
+
+<br />
+开发者通过**240帧高速摄像机**对比X11与Wayland的鼠标光标响应，发现**Wayland平均延迟高出6.5毫秒**（约1个144Hz屏幕刷新周期）。实验采用物理动作捕捉与逐帧分析，结果显示X11平均延迟16.7ms（2.4刷新周期），Wayland达23.2ms（3.3周期）。尽管存在相机帧率限制与像素渐变干扰，**数据差异仍具统计显著性**，证明Wayland输入延迟问题客观存在，但具体硬件/刷新率的影响需进一步验证。
+
+---
+
+## <a name="4"></a>4. 微软365 Copilot发布成灾难性事件 
+<small>🔗 [zdnet.com](https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/): The Microsoft 365 Copilot launch was a disaster</small>
+
+
+| 🔥🔥: 212 \| 💬: [190](https://news.ycombinator.com/item?id=42831281) \| 🗓️ 2025-01-26
+
+
+<br />
+微软在新年突然将Office更名为**Microsoft 365 Copilot**并提价30%，引发用户强烈不满。**AI功能**强制开启且存在兼容性问题（如家庭与工作账户冲突），通知混乱甚至出现天价扣费错误。官方虽提供“经典版”降级选项，但被质疑为短期安抚措施。分析指出，即使10%用户退订，微软仍可年增17亿美元收入，解释其强硬策略背后的商业逻辑。
+
+---
+
+## <a name="5"></a>5. 抗议者智能手机安全指南 
+<small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/): The protester's guide to smartphone security</small>
+
+
+| 🔥🔥: 195 \| 💬: [91](https://news.ycombinator.com/item?id=42829317) \| 🗓️ 2025-01-26
+
+
+<br />
+参加示威时，手机可能成为当局监控工具。首要建议是携带**备用机**或旧设备，避免使用主力机。若必须携带，需设置**强密码**（优先选字母数字组合），禁用生物识别解锁，并关闭锁屏通知与网络功能（如AirDrop、2G）。开启飞行模式减少信号追踪，优先使用**Signal**等端到端加密通讯工具。记录紧急联系人信息于纸质媒介，并确保设备电量充足。安全措施需结合法律权利评估，提前熟悉关机及隐私设置操作。
+
+---
+
+## <a name="6"></a>6. 当AI承诺加速开发却带来调试噩梦 
+<small>🔗 [nsavage.substack.com](https://nsavage.substack.com/p/when-ai-promises-speed-but-delivers): When AI promises speed but delivers debugging hell</small>
+
+
+| 🔥🔥: 190 \| 💬: [231](https://news.ycombinator.com/item?id=42829466) \| 🗓️ 2025-01-26
+
+
+<br />
+开发者Nick Savage分享构建实时协作编辑器Codescribble的经历，初期依赖**Claude 3.5 Sonnet生成代码**快速完成80%功能，却在部署阶段陷入调试泥潭：**硬编码错误**、**环境变量配置混乱**导致Docker部署多次崩溃。尽管AI能加速原型开发，但**对底层技术（如Docker）缺乏理解**使问题复杂化。最终通过手动修复与学习克服难关，总结出“保持全局视野”“避免过度依赖AI”等教训，并上线了轻量级协作工具Codescribble。
+
+---
+
+## <a name="7"></a>7. 前科技公司CEO起诉要求删除网络逮捕记录 
+<small>🔗 [sf.gazetteer.co](https://sf.gazetteer.co/a-former-tech-ceo-is-on-a-crusade-to-get-the-record-of-his-arrest-removed-from-the-internet): Former tech CEO suing to get the record of his arrest removed from the internet</small>
+
+
+| 🔥🔥: 151 \| 💬: [105](https://news.ycombinator.com/item?id=42833193) \| 🗓️ 2025-01-26
+
+
+<br />
+前科技公司CEO **莫里·布莱克曼**因2021年家暴被捕记录被公开，起诉独立记者杰克·波尔森索赔**2500万美元**。尽管法院已封存其逮捕记录，波尔森通过匿名线索获取并验证报告后公开，称涉及公共利益。布莱克曼指控报道导致其声誉受损并失去CEO职位，但案件引发**加州法律与第一修正案冲突**争议。电子前沿基金会为波尔森辩护，指控方试图通过诉讼掩盖历史的行为反而引发更广泛关注（**斯特里桑德效应**），联邦法院已暂停相关法律执行。
+
+---
+
+## <a name="8"></a>8. Paxo：一部可自制的开源手机 
+<small>🔗 [paxo.fr](https://paxo.fr/): Paxo: A DIY Phone</small>
+
+
+| 🔥🔥: 116 \| 💬: [29](https://news.ycombinator.com/item?id=42829279) \| 🗓️ 2025-01-26
+
+
+<br />
+15岁少年Gabriel Rochet用**30欧元成本**打造出**开源模块化手机**，提供硬件图纸与软件代码，支持非商用二次开发。该项目强调**自由学习与改造**，用户可定制功能并实践电子编程技能，同时倡导关注数字自由与设备可维修性。通过社区协作推动创新，兼具教学意义与环保理念。
+
+---
+
+## <a name="9"></a>9. Qwen2.5-1M：支持百万上下文长度的开源大模型发布 
+<small>🔗 [simonwillison.net](https://simonwillison.net/2025/Jan/26/qwen25-1m/): Qwen2.5-7B-Instruct-1M and Qwen2.5-14B-Instruct-1M</small>
+
+
+| 🔥: 96 \| 💬: [2](https://news.ycombinator.com/item?id=42832838) \| 🗓️ 2025-01-26
+
+
+<br />
+阿里巴巴Qwen团队推出支持**百万tokens**超长上下文的新模型，基于**Dual Chunk Attention**技术突破原有12.8万tokens限制。新增Qwen2.5-7B/14B-Instruct-1M两款模型（Apache 2.0协议），需极高**VRAM配置**（7B需120GB、14B需320GB）。社区已发布GGUF量化版，但实测长文本处理仍存在输入截断问题，推测与框架适配或量化方案未完善相关。作者通过Ollama在Mac测试时仅处理2048 tokens输入，后续将持续追踪解决方案。
+
+---
+
+## <a name="10"></a>10. 我打造了一辆全向球形轮自行车 [视频] 
+<small>🔗 [youtube.com](https://www.youtube.com/watch?v=ZVFB2g25OkM): I Built an Omni-Directional Ball-Wheeled Bike [video]</small>
+
+
+| 🔥: 92 \| 💬: [10](https://news.ycombinator.com/item?id=42830654) \| 🗓️ 2025-01-26
+
+
+<br />
+创作者展示了一款自制的**球形轮自行车**，通过独特的**全向移动设计**实现灵活转向与横向平移。视频中详细解析机械结构原理，重点解决传统车轮转向限制，并演示实景操控效果。核心挑战包括**摩擦力平衡**与重心稳定，最终成果融合了工程创新与趣味性，展现DIY硬件的潜力。
+
+---
+
+## <a name="11"></a>11. 我不喜欢Docker与Podman 
+<small>🔗 [blog.liw.fi](https://blog.liw.fi/posts/2025/docker/): I don't like Docker or Podman</small>
+
+
+| 🔥: 70 \| 💬: [48](https://news.ycombinator.com/item?id=42834164) \| 🗓️ 2025-01-26
+
+
+<br />
+作者虽承认**Docker**与**Podman**在容器技术中的主流地位，但明确表达对两者的反感。他批评Docker安装常破坏网络配置、命令行设计混乱、文档难用且镜像存储位置隐蔽占用空间大，同时指责**Docker Hub**存在恶意软件与版权问题。Podman虽避免部分系统冲突，用户体验仍与Docker同样糟糕。作者更倾向使用虚拟机，认为其行为更接近真实硬件环境且限制较少，尽管启动较慢。全文强调个人偏好，无意说服他人改变选择。
+
+---
+
+## <a name="12"></a>12. 波罗的海再传海底电缆遭损毁 拉脱维亚派军舰应对 
+<small>🔗 [france24.com](https://www.france24.com/en/europe/20250126-another-undersea-cable-damaged-in-baltic-sea-latvia-dispatches-warship): Another undersea cable damaged in Baltic Sea</small>
+
+
+| 🔥: 69 \| 💬: [42](https://news.ycombinator.com/item?id=42833491) \| 🗓️ 2025-01-26
+
+
+<br />
+瑞典与拉脱维亚间**海底通信电缆**在波罗的海受损，拉脱维亚派军舰前往。涉事海域附近发现可疑船只"Michalis San"正驶向俄罗斯。近期该区域多次发生类似事件，北约已启动监测任务加强防御。事故导致数据传输中断，欧盟主席表态支持受损国家。
+
+---
+
+## <a name="13"></a>13. Render完成8000万美元C轮融资 
+<small>🔗 [render.com](https://render.com/blog/series-c): Render raises $80M in Series C financing</small>
+
+
+| 🔥: 64 \| 💬: [67](https://news.ycombinator.com/item?id=42832696) \| 🗓️ 2025-01-26
+
+
+<br />
+云平台Render宣布获**8000万美元C轮融资**，累计融资达1.57亿美元，由Georgian领投。公司聚焦**AI时代云基础设施革新**，为开发者提供兼具灵活性与易用性的服务，目前已支持超200万开发者，月增10万用户。Render强调通过简化复杂架构、集成AI工具与安全合规功能，助力企业专注核心创新，缩短产品上市周期。未来将深化AI基础设施投入，优化AI推理与代码部署流程。
+
+---
+
+## <a name="14"></a>14. Qwen2.5-1M：部署支持百万token上下文的自有模型 
+<small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwen2.5-1m/): Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens</small>
+
+
+| 🔥: 60 \| 💬: [44](https://news.ycombinator.com/item?id=42831769) \| 🗓️ 2025-01-26
+
+
+<br />
+阿里云推出开源大模型**Qwen2.5-7B/14B-Instruct-1M**，支持**百万token超长上下文**处理，配套基于vLLM优化的推理框架，预填充速度提升3-7倍。模型通过渐进式训练与**Dual Chunk Attention**技术，在长文本任务中显著优于128K版本，短文本性能持平原版。部署需多GPU高显存环境，提供本地API调用方案，并开源技术报告详述训练框架与稀疏注意力优化细节。
+
+---
+
+## <a name="15"></a>15. 复兴已故音频格式：ZZM的回归 
+<small>🔗 [nicole.express](https://nicole.express/2025/zoo-of-zero-motivation.html): Reviving a Dead Audio Format: The Return of ZZM</small>
+
+
+| 🔥: 55 \| 💬: [5](https://news.ycombinator.com/item?id=42831550) \| 🗓️ 2025-01-26
+
+
+<br />
+基于1990年游戏ZZT的**ZZM音频格式**曾通过PC扬声器生成简单音乐，但因依赖MS-DOS逐渐消亡。作者通过JavaScript与**Web Audio API**重建播放器，逆向工程还原了ZZT的方波音效生成逻辑，包括基于自然对数计算的独特音阶系统。项目克服了原始代码丢失与**PC扬声器方波**仿真的技术挑战，成功在现代浏览器中复活了这种复古音频格式，并再现了鼓点等特殊音效的数字化处理过程。
+
+---
