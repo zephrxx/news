@@ -26,7 +26,7 @@ tags:
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2501.12948): DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL</small>
 
 
-| 🔥🔥: 595 \| 💬: [498](https://news.ycombinator.com/item?id=42823568) \| 🗓️ 2025-01-25
+| 🔥🔥: 626 \| 💬: [509](https://news.ycombinator.com/item?id=42823568) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -38,7 +38,7 @@ DeepSeek-AI团队推出了第一代推理模型**DeepSeek-R1-Zero**和**DeepSeek
 <small>🔗 [crastinator-pro.github.io](https://crastinator-pro.github.io/steam-brick/): Steam Brick: No screen, no controller, just a power button and a USB port</small>
 
 
-| 🔥🔥: 365 \| 💬: [90](https://news.ycombinator.com/item?id=42825441) \| 🗓️ 2025-01-25
+| 🔥🔥: 386 \| 💬: [96](https://news.ycombinator.com/item?id=42825441) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -50,7 +50,7 @@ DeepSeek-AI团队推出了第一代推理模型**DeepSeek-R1-Zero**和**DeepSeek
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/01/25/us/politics/cia-covid-lab-leak.html): CIA now favors lab leak theory to explain Covid's origins</small>
 
 
-| 🔥🔥: 358 \| 💬: [432](https://news.ycombinator.com/item?id=42823385) \| 🗓️ 2025-01-25
+| 🔥🔥: 380 \| 💬: [458](https://news.ycombinator.com/item?id=42823385) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -62,7 +62,7 @@ DeepSeek-AI团队推出了第一代推理模型**DeepSeek-R1-Zero**和**DeepSeek
 <small>🔗 [openra.net](https://www.openra.net/): OpenRA – Classic strategy games rebuilt for the modern era</small>
 
 
-| 🔥🔥: 320 \| 💬: [61](https://news.ycombinator.com/item?id=42823667) \| 🗓️ 2025-01-25
+| 🔥🔥: 336 \| 💬: [62](https://news.ycombinator.com/item?id=42823667) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -74,7 +74,7 @@ OpenRA 发布了最新测试版 **Playtest 20241228**，包含多项修复和小
 <small>🔗 [fedidb.org](https://fedidb.org/software/pixelfed): Pixelfed Hit 500K Users</small>
 
 
-| 🔥🔥: 267 \| 💬: [67](https://news.ycombinator.com/item?id=42821519) \| 🗓️ 2025-01-25
+| 🔥🔥: 270 \| 💬: [67](https://news.ycombinator.com/item?id=42821519) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -86,7 +86,7 @@ Pixelfed 是一个去中心化的图片分享平台，类似于 Instagram。近�
 <small>🔗 [iamwillwang.com](https://iamwillwang.com/dollar/every-html-element/): Every HTML Element</small>
 
 
-| 🔥🔥: 240 \| 💬: [84](https://news.ycombinator.com/item?id=42823722) \| 🗓️ 2025-01-25
+| 🔥🔥: 250 \| 💬: [84](https://news.ycombinator.com/item?id=42823722) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -98,7 +98,7 @@ HTML元素涵盖了从**内容**到**容器**、**逻辑**到**边缘情况**的
 <small>🔗 [byroot.github.io](https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html): The Mythical IO-Bound Rails App</small>
 
 
-| 🔥🔥: 198 \| 💬: [55](https://news.ycombinator.com/item?id=42820419) \| 🗓️ 2025-01-25
+| 🔥🔥: 199 \| 💬: [55](https://news.ycombinator.com/item?id=42820419) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -106,23 +106,11 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 
 ---
 
-## <a name="8"></a>8. 黑客用假恶意软件生成器感染18,000名“脚本小子” 
-<small>🔗 [bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/hacker-infects-18-000-script-kiddies-with-fake-malware-builder/): Hacker infects 18,000 "script kiddies" with fake malware builder</small>
-
-
-| 🔥🔥: 192 \| 💬: [75](https://news.ycombinator.com/item?id=42821611) \| 🗓️ 2025-01-25
-
-
-<br />
-一名黑客针对低技能的“**脚本小子**”，通过假恶意软件生成器感染了18,459台设备，主要分布在俄罗斯、美国、印度、乌克兰和土耳其。该恶意软件伪装成XWorm RAT生成器，实际安装了后门，窃取数据并控制电脑。研究人员利用内置的**kill switch**部分清理了感染设备，但仍有部分设备未修复。
-
----
-
-## <a name="9"></a>9. Mac Classic II 因无效的 68030 指令意外启动 
+## <a name="8"></a>8. Mac Classic II 因无效的 68030 指令意外启动 
 <small>🔗 [downtowndougbrown.com](https://www.downtowndougbrown.com/2025/01/the-invalid-68030-instruction-that-accidentally-allowed-the-mac-classic-ii-to-successfully-boot-up/): An invalid 68030 instruction accidentally allowed the Mac Classic II to boot</small>
 
 
-| 🔥🔥: 185 \| 💬: [21](https://news.ycombinator.com/item?id=42824562) \| 🗓️ 2025-01-25
+| 🔥🔥: 193 \| 💬: [26](https://news.ycombinator.com/item?id=42824562) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -130,11 +118,23 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 
 ---
 
+## <a name="9"></a>9. 黑客用假恶意软件生成器感染18,000名“脚本小子” 
+<small>🔗 [bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/hacker-infects-18-000-script-kiddies-with-fake-malware-builder/): Hacker infects 18,000 "script kiddies" with fake malware builder</small>
+
+
+| 🔥🔥: 192 \| 💬: [76](https://news.ycombinator.com/item?id=42821611) \| 🗓️ 2025-01-25
+
+
+<br />
+一名黑客针对低技能的“**脚本小子**”，通过假恶意软件生成器感染了18,459台设备，主要分布在俄罗斯、美国、印度、乌克兰和土耳其。该恶意软件伪装成XWorm RAT生成器，实际安装了后门，窃取数据并控制电脑。研究人员利用内置的**kill switch**部分清理了感染设备，但仍有部分设备未修复。
+
+---
+
 ## <a name="10"></a>10. 我在家自制了一个飞机观测系统 
 <small>🔗 [pilane.obviy.us](https://pilane.obviy.us/): Show HN: I built a DIY plane spotting system at home</small>
 
 
-| 🔥🔥: 166 \| 💬: [66](https://news.ycombinator.com/item?id=42821457) \| 🗓️ 2025-01-25
+| 🔥🔥: 168 \| 💬: [67](https://news.ycombinator.com/item?id=42821457) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -146,7 +146,7 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 <small>🔗 [businessinsider.com](https://www.businessinsider.com/larry-ellison-ai-surveillance-keep-citizens-on-their-best-behavior-2024-9): Larry Ellison: vast AI surveillance can ensure citizens are on best behavior (2024)</small>
 
 
-| 🔥🔥: 143 \| 💬: [111](https://news.ycombinator.com/item?id=42825097) \| 🗓️ 2025-01-25
+| 🔥🔥: 146 \| 💬: [114](https://news.ycombinator.com/item?id=42825097) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -154,15 +154,15 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 
 ---
 
-## <a name="12"></a>12. 为什么英格兰北部贫穷 
-<small>🔗 [tomforth.co.uk](https://tomforth.co.uk/whynorthenglandispoor/): Why Northern England is poor</small>
+## <a name="12"></a>12. 南越飞行员为救家人冒险在航母上降落的故事（2019） 
+<small>🔗 [historynet.com](https://www.historynet.com/maj-buang-lys-daring-feat-to-save-his-family/): The South Vietnamese pilot who landed a Cessna on a carrier to save his family (2019)</small>
 
 
-| 🔥🔥: 119 \| 💬: [112](https://news.ycombinator.com/item?id=42822825) \| 🗓️ 2025-01-25
+| 🔥🔥: 130 \| 💬: [59](https://news.ycombinator.com/item?id=42826536) \| 🗓️ 2025-01-25
 
 
 <br />
-英格兰北部的经济衰退源于**历史性中央集权**、**大学设立过晚**以及**工业革命后的制度破坏**。自1066年以来，英格兰一直由东南部统治，北方大学在17世纪被禁止设立，导致工业革命依赖苏格兰科技。20世纪后，**撒切尔政府的中央集权政策**进一步削弱了北方的经济自主权，导致其长期落后于苏格兰和爱尔兰。尽管曼彻斯特等城市展现了局部成功，但整体上，北方仍受制于中央政府的偏见和资源分配不均。
+1975年4月29日，南越空军少校**Buang-Ly**驾驶一架小型飞机，载着妻子和五个孩子逃离战乱。在燃料不足、设备简陋的情况下，他冒险飞向**USS Midway**航母，请求降落。尽管航母并未设计接收小型飞机，舰长**Lawrence Chambers**决定冒险清空甲板，最终成功让Buang-Ly一家安全降落。这一决定挽救了七条生命，成为越战末期的一段传奇。
 
 ---
 
@@ -170,7 +170,7 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 <small>🔗 [outsidetext.substack.com](https://outsidetext.substack.com/p/anomalous-tokens-in-deepseek-v3-and): Searching for DeepSeek's glitch tokens</small>
 
 
-| 🔥🔥: 116 \| 💬: [22](https://news.ycombinator.com/item?id=42824473) \| 🗓️ 2025-01-25
+| 🔥🔥: 124 \| 💬: [26](https://news.ycombinator.com/item?id=42824473) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -201,15 +201,15 @@ should be less than 280 characters or words. But should be more than 150 charact
 
 ---
 
-## <a name="14"></a>14. 南越飞行员为救家人冒险在航母上降落的故事（2019） 
-<small>🔗 [historynet.com](https://www.historynet.com/maj-buang-lys-daring-feat-to-save-his-family/): The South Vietnamese pilot who landed a Cessna on a carrier to save his family (2019)</small>
+## <a name="14"></a>14. 为什么英格兰北部贫穷 
+<small>🔗 [tomforth.co.uk](https://tomforth.co.uk/whynorthenglandispoor/): Why Northern England is poor</small>
 
 
-| 🔥🔥: 116 \| 💬: [48](https://news.ycombinator.com/item?id=42826536) \| 🗓️ 2025-01-25
+| 🔥🔥: 122 \| 💬: [111](https://news.ycombinator.com/item?id=42822825) \| 🗓️ 2025-01-25
 
 
 <br />
-1975年4月29日，南越空军少校**Buang-Ly**驾驶一架小型飞机，载着妻子和五个孩子逃离战乱。在燃料不足、设备简陋的情况下，他冒险飞向**USS Midway**航母，请求降落。尽管航母并未设计接收小型飞机，舰长**Lawrence Chambers**决定冒险清空甲板，最终成功让Buang-Ly一家安全降落。这一决定挽救了七条生命，成为越战末期的一段传奇。
+英格兰北部的经济衰退源于**历史性中央集权**、**大学设立过晚**以及**工业革命后的制度破坏**。自1066年以来，英格兰一直由东南部统治，北方大学在17世纪被禁止设立，导致工业革命依赖苏格兰科技。20世纪后，**撒切尔政府的中央集权政策**进一步削弱了北方的经济自主权，导致其长期落后于苏格兰和爱尔兰。尽管曼彻斯特等城市展现了局部成功，但整体上，北方仍受制于中央政府的偏见和资源分配不均。
 
 ---
 
@@ -217,7 +217,7 @@ should be less than 280 characters or words. But should be more than 150 charact
 <small>🔗 [cnn.com](https://www.cnn.com/2025/01/22/science/meteorite-strike-doorbell-camera/index.html): Doorbell camera catches rare footage of meteorite striking home's front walkway</small>
 
 
-| 🔥🔥: 108 \| 💬: [52](https://news.ycombinator.com/item?id=42821911) \| 🗓️ 2025-01-25
+| 🔥🔥: 110 \| 💬: [52](https://news.ycombinator.com/item?id=42821911) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -229,7 +229,7 @@ should be less than 280 characters or words. But should be more than 150 charact
 <small>🔗 [psypost.org](https://www.psypost.org/men-lose-half-their-emotional-support-networks-between-30-and-90-decades-long-study-finds/): Emotional support across adulthood: A 60-year study of men’s social networks</small>
 
 
-| 🔥🔥: 105 \| 💬: [136](https://news.ycombinator.com/item?id=42823543) \| 🗓️ 2025-01-25
+| 🔥🔥: 106 \| 💬: [138](https://news.ycombinator.com/item?id=42823543) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -241,7 +241,7 @@ should be less than 280 characters or words. But should be more than 150 charact
 <small>🔗 [wired.com](https://www.wired.com/story/doge-elon-musk/): DOGE Takeover of USDS Allows Them to Surveil the US Government from the Inside</small>
 
 
-| 🔥🔥: 103 \| 💬: [120](https://news.ycombinator.com/item?id=42823510) \| 🗓️ 2025-01-25
+| 🔥🔥: 105 \| 💬: [120](https://news.ycombinator.com/item?id=42823510) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -253,7 +253,7 @@ should be less than 280 characters or words. But should be more than 150 charact
 <small>🔗 [careers.arsenal.com](https://careers.arsenal.com/jobs/5434108-research-engineer): Arsenal FC AI Research Engineer job posting</small>
 
 
-| 🔥: 100 \| 💬: [114](https://news.ycombinator.com/item?id=42821922) \| 🗓️ 2025-01-25
+| 🔥🔥: 102 \| 💬: [115](https://news.ycombinator.com/item?id=42821922) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -265,7 +265,7 @@ should be less than 280 characters or words. But should be more than 150 charact
 <small>🔗 [wikenigma.org.uk](https://wikenigma.org.uk/start): Wikenigma – an Encyclopedia of Unknowns</small>
 
 
-| 🔥: 98 \| 💬: [23](https://news.ycombinator.com/item?id=42824617) \| 🗓️ 2025-01-25
+| 🔥🔥: 101 \| 💬: [23](https://news.ycombinator.com/item?id=42824617) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -277,7 +277,7 @@ should be less than 280 characters or words. But should be more than 150 charact
 <small>🔗 [sony.jp](https://www.sony.jp/rec-media/info2/20250123.html): Sony ends production of Blu-ray Disc, recordable MiniDisc, and MiniDV media</small>
 
 
-| 🔥: 80 \| 💬: [86](https://news.ycombinator.com/item?id=42824922) \| 🗓️ 2025-01-25
+| 🔥: 85 \| 💬: [90](https://news.ycombinator.com/item?id=42824922) \| 🗓️ 2025-01-25
 
 
 <br />
