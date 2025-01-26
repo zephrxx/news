@@ -9,8 +9,8 @@ tags:
 
 
 1. DeepSeek-R1：通过强化学习激励大语言模型的推理能力；
-1. CIA现在倾向于实验室泄漏理论解释新冠起源；
 1. Steam Brick：无屏幕、无控制器，仅有一个电源按钮和USB接口；
+1. CIA现在倾向于实验室泄漏理论解释新冠起源；
 1. OpenRA – 经典策略游戏的重制现代版；
 1. Pixelfed 用户突破 50 万；
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2501.12948): DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via RL</small>
 
 
-| 🔥🔥: 566 \| 💬: [479](https://news.ycombinator.com/item?id=42823568) \| 🗓️ 2025-01-25
+| 🔥🔥: 595 \| 💬: [498](https://news.ycombinator.com/item?id=42823568) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -34,23 +34,11 @@ DeepSeek-AI团队推出了第一代推理模型**DeepSeek-R1-Zero**和**DeepSeek
 
 ---
 
-## <a name="2"></a>2. CIA现在倾向于实验室泄漏理论解释新冠起源 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/01/25/us/politics/cia-covid-lab-leak.html): CIA now favors lab leak theory to explain Covid's origins</small>
-
-
-| 🔥🔥: 334 \| 💬: [397](https://news.ycombinator.com/item?id=42823385) \| 🗓️ 2025-01-25
-
-
-<br />
-**CIA**近日发布新评估，称其**更倾向于新冠病毒源于武汉实验室泄漏**，而非自然从武汉市场传播。这一结论基于对**武汉高安全实验室**疫情前条件的重新审视，但未依赖新情报。CIA表示，市场传播理论仍有可能，并将继续评估新情报。部分美国官员认为，中国政府未能有效监管市场或实验室。
-
----
-
-## <a name="3"></a>3. Steam Brick：无屏幕、无控制器，仅有一个电源按钮和USB接口 
+## <a name="2"></a>2. Steam Brick：无屏幕、无控制器，仅有一个电源按钮和USB接口 
 <small>🔗 [crastinator-pro.github.io](https://crastinator-pro.github.io/steam-brick/): Steam Brick: No screen, no controller, just a power button and a USB port</small>
 
 
-| 🔥🔥: 331 \| 💬: [84](https://news.ycombinator.com/item?id=42825441) \| 🗓️ 2025-01-25
+| 🔥🔥: 365 \| 💬: [90](https://news.ycombinator.com/item?id=42825441) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -58,11 +46,23 @@ DeepSeek-AI团队推出了第一代推理模型**DeepSeek-R1-Zero**和**DeepSeek
 
 ---
 
+## <a name="3"></a>3. CIA现在倾向于实验室泄漏理论解释新冠起源 
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/01/25/us/politics/cia-covid-lab-leak.html): CIA now favors lab leak theory to explain Covid's origins</small>
+
+
+| 🔥🔥: 358 \| 💬: [432](https://news.ycombinator.com/item?id=42823385) \| 🗓️ 2025-01-25
+
+
+<br />
+**CIA**近日发布新评估，称其**更倾向于新冠病毒源于武汉实验室泄漏**，而非自然从武汉市场传播。这一结论基于对**武汉高安全实验室**疫情前条件的重新审视，但未依赖新情报。CIA表示，市场传播理论仍有可能，并将继续评估新情报。部分美国官员认为，中国政府未能有效监管市场或实验室。
+
+---
+
 ## <a name="4"></a>4. OpenRA – 经典策略游戏的重制现代版 
 <small>🔗 [openra.net](https://www.openra.net/): OpenRA – Classic strategy games rebuilt for the modern era</small>
 
 
-| 🔥🔥: 309 \| 💬: [58](https://news.ycombinator.com/item?id=42823667) \| 🗓️ 2025-01-25
+| 🔥🔥: 320 \| 💬: [61](https://news.ycombinator.com/item?id=42823667) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -74,7 +74,7 @@ OpenRA 发布了最新测试版 **Playtest 20241228**，包含多项修复和小
 <small>🔗 [fedidb.org](https://fedidb.org/software/pixelfed): Pixelfed Hit 500K Users</small>
 
 
-| 🔥🔥: 267 \| 💬: [66](https://news.ycombinator.com/item?id=42821519) \| 🗓️ 2025-01-25
+| 🔥🔥: 267 \| 💬: [67](https://news.ycombinator.com/item?id=42821519) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -86,7 +86,7 @@ Pixelfed 是一个去中心化的图片分享平台，类似于 Instagram。近�
 <small>🔗 [iamwillwang.com](https://iamwillwang.com/dollar/every-html-element/): Every HTML Element</small>
 
 
-| 🔥🔥: 224 \| 💬: [83](https://news.ycombinator.com/item?id=42823722) \| 🗓️ 2025-01-25
+| 🔥🔥: 240 \| 💬: [84](https://news.ycombinator.com/item?id=42823722) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -98,7 +98,7 @@ HTML元素涵盖了从**内容**到**容器**、**逻辑**到**边缘情况**的
 <small>🔗 [byroot.github.io](https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html): The Mythical IO-Bound Rails App</small>
 
 
-| 🔥🔥: 196 \| 💬: [55](https://news.ycombinator.com/item?id=42820419) \| 🗓️ 2025-01-25
+| 🔥🔥: 198 \| 💬: [55](https://news.ycombinator.com/item?id=42820419) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -110,7 +110,7 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 <small>🔗 [bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/hacker-infects-18-000-script-kiddies-with-fake-malware-builder/): Hacker infects 18,000 "script kiddies" with fake malware builder</small>
 
 
-| 🔥🔥: 192 \| 💬: [74](https://news.ycombinator.com/item?id=42821611) \| 🗓️ 2025-01-25
+| 🔥🔥: 192 \| 💬: [75](https://news.ycombinator.com/item?id=42821611) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -122,7 +122,7 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 <small>🔗 [downtowndougbrown.com](https://www.downtowndougbrown.com/2025/01/the-invalid-68030-instruction-that-accidentally-allowed-the-mac-classic-ii-to-successfully-boot-up/): An invalid 68030 instruction accidentally allowed the Mac Classic II to boot</small>
 
 
-| 🔥🔥: 176 \| 💬: [21](https://news.ycombinator.com/item?id=42824562) \| 🗓️ 2025-01-25
+| 🔥🔥: 185 \| 💬: [21](https://news.ycombinator.com/item?id=42824562) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -134,7 +134,7 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 <small>🔗 [pilane.obviy.us](https://pilane.obviy.us/): Show HN: I built a DIY plane spotting system at home</small>
 
 
-| 🔥🔥: 165 \| 💬: [65](https://news.ycombinator.com/item?id=42821457) \| 🗓️ 2025-01-25
+| 🔥🔥: 166 \| 💬: [66](https://news.ycombinator.com/item?id=42821457) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -146,7 +146,7 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 <small>🔗 [businessinsider.com](https://www.businessinsider.com/larry-ellison-ai-surveillance-keep-citizens-on-their-best-behavior-2024-9): Larry Ellison: vast AI surveillance can ensure citizens are on best behavior (2024)</small>
 
 
-| 🔥🔥: 141 \| 💬: [110](https://news.ycombinator.com/item?id=42825097) \| 🗓️ 2025-01-25
+| 🔥🔥: 143 \| 💬: [111](https://news.ycombinator.com/item?id=42825097) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -158,7 +158,7 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 <small>🔗 [tomforth.co.uk](https://tomforth.co.uk/whynorthenglandispoor/): Why Northern England is poor</small>
 
 
-| 🔥🔥: 117 \| 💬: [110](https://news.ycombinator.com/item?id=42822825) \| 🗓️ 2025-01-25
+| 🔥🔥: 119 \| 💬: [112](https://news.ycombinator.com/item?id=42822825) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -166,23 +166,11 @@ Rails应用常被认为**IO密集型**，数据库是瓶颈，但事实并非如
 
 ---
 
-## <a name="13"></a>13. 门铃摄像头捕捉到罕见陨石击中住宅前走道的画面 
-<small>🔗 [cnn.com](https://www.cnn.com/2025/01/22/science/meteorite-strike-doorbell-camera/index.html): Doorbell camera catches rare footage of meteorite striking home's front walkway</small>
-
-
-| 🔥🔥: 107 \| 💬: [50](https://news.ycombinator.com/item?id=42821911) \| 🗓️ 2025-01-25
-
-
-<br />
-2024年7月，加拿大爱德华王子岛的一户人家门前走道被**陨石**击中，门铃摄像头记录下了这一罕见事件。陨石在走道上留下了星形碎片，险些击中屋主Joe Velaidum。经实验室分析，确认其为来自太空的**普通球粒陨石**，并被命名为“Charlottetown”。这是该岛首次确认的陨石撞击事件，视频和声音记录为科学研究提供了宝贵数据。
-
----
-
-## <a name="14"></a>14. Searching for DeepSeek's glitch tokens 
+## <a name="13"></a>13. Searching for DeepSeek's glitch tokens 
 <small>🔗 [outsidetext.substack.com](https://outsidetext.substack.com/p/anomalous-tokens-in-deepseek-v3-and): Searching for DeepSeek's glitch tokens</small>
 
 
-| 🔥🔥: 106 \| 💬: [18](https://news.ycombinator.com/item?id=42824473) \| 🗓️ 2025-01-25
+| 🔥🔥: 116 \| 💬: [22](https://news.ycombinator.com/item?id=42824473) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -213,59 +201,11 @@ should be less than 280 characters or words. But should be more than 150 charact
 
 ---
 
-## <a name="15"></a>15. 跨越成年期的情感支持：一项关于男性社交网络的60年研究 
-<small>🔗 [psypost.org](https://www.psypost.org/men-lose-half-their-emotional-support-networks-between-30-and-90-decades-long-study-finds/): Emotional support across adulthood: A 60-year study of men’s social networks</small>
-
-
-| 🔥🔥: 105 \| 💬: [132](https://news.ycombinator.com/item?id=42823543) \| 🗓️ 2025-01-25
-
-
-<br />
-一项60年的研究发现，**男性社交网络**在成年期提供的情感支持对心理健康至关重要。研究揭示了**社会关系**的长期影响，强调了**情感支持**在应对生活压力中的重要性。
-
----
-
-## <a name="16"></a>16. DOGE接管USDS，使其得以从内部监视美国政府 
-<small>🔗 [wired.com](https://www.wired.com/story/doge-elon-musk/): DOGE Takeover of USDS Allows Them to Surveil the US Government from the Inside</small>
-
-
-| 🔥🔥: 102 \| 💬: [117](https://news.ycombinator.com/item?id=42823510) \| 🗓️ 2025-01-25
-
-
-<br />
-特朗普总统签署行政命令，将**USDS**重组并更名为**US DOGE Service**，由马斯克领导。此举绕过联邦咨询委员会的法律要求，赋予DOGE广泛访问政府数据和系统的权限，引发对**透明度**和**潜在监视**的担忧。DOGE团队将进驻各机构，可能用于裁员或针对特定人群，同时临时组织允许绕过常规招聘流程，进一步加剧了争议。
-
----
-
-## <a name="17"></a>17. 阿森纳足球俱乐部AI研究工程师职位招聘 
-<small>🔗 [careers.arsenal.com](https://careers.arsenal.com/jobs/5434108-research-engineer): Arsenal FC AI Research Engineer job posting</small>
-
-
-| 🔥: 100 \| 💬: [113](https://news.ycombinator.com/item?id=42821922) \| 🗓️ 2025-01-25
-
-
-<br />
-阿森纳足球俱乐部正在寻找一名**AI/深度学习研究工程师**，负责从概念到交付的AI项目，推动足球数据分析研究。该职位将应用**最先进的深度学习技术**（如Transformers、强化学习等）处理多模态数据，并与教练、分析师等合作，提升球队表现和球员招募。候选人需具备扎实的编程基础和深度学习经验，并能在跨时区团队中高效协作。
-
----
-
-## <a name="18"></a>18. Wikenigma – 未知百科全书 
-<small>🔗 [wikenigma.org.uk](https://wikenigma.org.uk/start): Wikenigma – an Encyclopedia of Unknowns</small>
-
-
-| 🔥: 92 \| 💬: [20](https://news.ycombinator.com/item?id=42824617) \| 🗓️ 2025-01-25
-
-
-<br />
-**Wikenigma** 是一个独特的基于维基的资源，专门记录人类知识中的根本性空白。它列出了**科学和学术领域中尚未有明确答案的问题**（目前有1142个），旨在激发对未知的研究兴趣。所有文章都开放给注册用户编辑，鼓励探索**“已知的未知”**。网站不追踪用户数据，强调知识的边界与探索的重要性。
-
----
-
-## <a name="19"></a>19. 南越飞行员为救家人冒险在航母上降落的故事（2019） 
+## <a name="14"></a>14. 南越飞行员为救家人冒险在航母上降落的故事（2019） 
 <small>🔗 [historynet.com](https://www.historynet.com/maj-buang-lys-daring-feat-to-save-his-family/): The South Vietnamese pilot who landed a Cessna on a carrier to save his family (2019)</small>
 
 
-| 🔥: 91 \| 💬: [38](https://news.ycombinator.com/item?id=42826536) \| 🗓️ 2025-01-25
+| 🔥🔥: 116 \| 💬: [48](https://news.ycombinator.com/item?id=42826536) \| 🗓️ 2025-01-25
 
 
 <br />
@@ -273,11 +213,71 @@ should be less than 280 characters or words. But should be more than 150 charact
 
 ---
 
+## <a name="15"></a>15. 门铃摄像头捕捉到罕见陨石击中住宅前走道的画面 
+<small>🔗 [cnn.com](https://www.cnn.com/2025/01/22/science/meteorite-strike-doorbell-camera/index.html): Doorbell camera catches rare footage of meteorite striking home's front walkway</small>
+
+
+| 🔥🔥: 108 \| 💬: [52](https://news.ycombinator.com/item?id=42821911) \| 🗓️ 2025-01-25
+
+
+<br />
+2024年7月，加拿大爱德华王子岛的一户人家门前走道被**陨石**击中，门铃摄像头记录下了这一罕见事件。陨石在走道上留下了星形碎片，险些击中屋主Joe Velaidum。经实验室分析，确认其为来自太空的**普通球粒陨石**，并被命名为“Charlottetown”。这是该岛首次确认的陨石撞击事件，视频和声音记录为科学研究提供了宝贵数据。
+
+---
+
+## <a name="16"></a>16. 跨越成年期的情感支持：一项关于男性社交网络的60年研究 
+<small>🔗 [psypost.org](https://www.psypost.org/men-lose-half-their-emotional-support-networks-between-30-and-90-decades-long-study-finds/): Emotional support across adulthood: A 60-year study of men’s social networks</small>
+
+
+| 🔥🔥: 105 \| 💬: [136](https://news.ycombinator.com/item?id=42823543) \| 🗓️ 2025-01-25
+
+
+<br />
+一项60年的研究发现，**男性社交网络**在成年期提供的情感支持对心理健康至关重要。研究揭示了**社会关系**的长期影响，强调了**情感支持**在应对生活压力中的重要性。
+
+---
+
+## <a name="17"></a>17. DOGE接管USDS，使其得以从内部监视美国政府 
+<small>🔗 [wired.com](https://www.wired.com/story/doge-elon-musk/): DOGE Takeover of USDS Allows Them to Surveil the US Government from the Inside</small>
+
+
+| 🔥🔥: 103 \| 💬: [120](https://news.ycombinator.com/item?id=42823510) \| 🗓️ 2025-01-25
+
+
+<br />
+特朗普总统签署行政命令，将**USDS**重组并更名为**US DOGE Service**，由马斯克领导。此举绕过联邦咨询委员会的法律要求，赋予DOGE广泛访问政府数据和系统的权限，引发对**透明度**和**潜在监视**的担忧。DOGE团队将进驻各机构，可能用于裁员或针对特定人群，同时临时组织允许绕过常规招聘流程，进一步加剧了争议。
+
+---
+
+## <a name="18"></a>18. 阿森纳足球俱乐部AI研究工程师职位招聘 
+<small>🔗 [careers.arsenal.com](https://careers.arsenal.com/jobs/5434108-research-engineer): Arsenal FC AI Research Engineer job posting</small>
+
+
+| 🔥: 100 \| 💬: [114](https://news.ycombinator.com/item?id=42821922) \| 🗓️ 2025-01-25
+
+
+<br />
+阿森纳足球俱乐部正在寻找一名**AI/深度学习研究工程师**，负责从概念到交付的AI项目，推动足球数据分析研究。该职位将应用**最先进的深度学习技术**（如Transformers、强化学习等）处理多模态数据，并与教练、分析师等合作，提升球队表现和球员招募。候选人需具备扎实的编程基础和深度学习经验，并能在跨时区团队中高效协作。
+
+---
+
+## <a name="19"></a>19. Wikenigma – 未知百科全书 
+<small>🔗 [wikenigma.org.uk](https://wikenigma.org.uk/start): Wikenigma – an Encyclopedia of Unknowns</small>
+
+
+| 🔥: 98 \| 💬: [23](https://news.ycombinator.com/item?id=42824617) \| 🗓️ 2025-01-25
+
+
+<br />
+**Wikenigma** 是一个独特的基于维基的资源，专门记录人类知识中的根本性空白。它列出了**科学和学术领域中尚未有明确答案的问题**（目前有1142个），旨在激发对未知的研究兴趣。所有文章都开放给注册用户编辑，鼓励探索**“已知的未知”**。网站不追踪用户数据，强调知识的边界与探索的重要性。
+
+---
+
 ## <a name="20"></a>20. 索尼宣布停止生产蓝光光盘、可录音迷你光盘和MiniDV磁带 
 <small>🔗 [sony.jp](https://www.sony.jp/rec-media/info2/20250123.html): Sony ends production of Blu-ray Disc, recordable MiniDisc, and MiniDV media</small>
 
 
-| 🔥: 78 \| 💬: [84](https://news.ycombinator.com/item?id=42824922) \| 🗓️ 2025-01-25
+| 🔥: 80 \| 💬: [86](https://news.ycombinator.com/item?id=42824922) \| 🗓️ 2025-01-25
 
 
 <br />
