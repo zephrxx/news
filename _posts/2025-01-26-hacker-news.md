@@ -26,7 +26,7 @@ tags:
 <small>🔗 [pluralistic.net](https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading): It's not a crime if we do it with an app</small>
 
 
-| 🔥🔥: 810 \| 💬: [542](https://news.ycombinator.com/item?id=42830646) \| 🗓️ 2025-01-26
+| 🔥🔥: 811 \| 💬: [547](https://news.ycombinator.com/item?id=42830646) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [mort.coffee](https://mort.coffee/home/wayland-input-latency/): Hard numbers in the Wayland vs. X11 input latency discussion</small>
 
 
-| 🔥🔥: 383 \| 💬: [265](https://news.ycombinator.com/item?id=42831509) \| 🗓️ 2025-01-26
+| 🔥🔥: 394 \| 💬: [270](https://news.ycombinator.com/item?id=42831509) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [corporate.vanguard.com](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/no-bitcoin-etfs-at-vanguard-heres-why.html): No Bitcoin ETFs at Vanguard (2024)</small>
 
 
-| 🔥🔥: 360 \| 💬: [483](https://news.ycombinator.com/item?id=42832026) \| 🗓️ 2025-01-26
+| 🔥🔥: 361 \| 💬: [485](https://news.ycombinator.com/item?id=42832026) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -62,7 +62,7 @@ tags:
 <small>🔗 [zdnet.com](https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/): The Microsoft 365 Copilot launch was a disaster</small>
 
 
-| 🔥🔥: 329 \| 💬: [316](https://news.ycombinator.com/item?id=42831281) \| 🗓️ 2025-01-26
+| 🔥🔥: 346 \| 💬: [335](https://news.ycombinator.com/item?id=42831281) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -74,7 +74,7 @@ tags:
 <small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/): The protester's guide to smartphone security</small>
 
 
-| 🔥🔥: 304 \| 💬: [157](https://news.ycombinator.com/item?id=42829317) \| 🗓️ 2025-01-26
+| 🔥🔥: 320 \| 💬: [166](https://news.ycombinator.com/item?id=42829317) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -86,7 +86,7 @@ tags:
 <small>🔗 [cjonline.com](https://www.cjonline.com/story/news/politics/government/2025/01/24/kansas-tuberculosis-outbreak-is-largest-in-recorded-history-in-u-s/77881467007/): Kansas tuberculosis outbreak is now America's largest in recorded history</small>
 
 
-| 🔥🔥: 248 \| 💬: [185](https://news.ycombinator.com/item?id=42835183) \| 🗓️ 2025-01-26
+| 🔥🔥: 292 \| 💬: [210](https://news.ycombinator.com/item?id=42835183) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -98,7 +98,7 @@ tags:
 <small>🔗 [jasonthorsness.com](https://www.jasonthorsness.com/20): Show HN: DeepSeek My User Agent</small>
 
 
-| 🔥🔥: 217 \| 💬: [90](https://news.ycombinator.com/item?id=42834648) \| 🗓️ 2025-01-26
+| 🔥🔥: 231 \| 💬: [93](https://news.ycombinator.com/item?id=42834648) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -110,7 +110,7 @@ tags:
 <small>🔗 [sf.gazetteer.co](https://sf.gazetteer.co/a-former-tech-ceo-is-on-a-crusade-to-get-the-record-of-his-arrest-removed-from-the-internet): Former tech CEO suing to get the record of his arrest removed from the internet</small>
 
 
-| 🔥🔥: 201 \| 💬: [144](https://news.ycombinator.com/item?id=42833193) \| 🗓️ 2025-01-26
+| 🔥🔥: 202 \| 💬: [147](https://news.ycombinator.com/item?id=42833193) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -122,7 +122,7 @@ tags:
 <small>🔗 [economictimes.indiatimes.com](https://economictimes.indiatimes.com/tech/technology/brazil-bans-sam-altmans-tech-firm-tools-for-humanity-from-paying-for-iris-scans/articleshow/117540826.cms?from=mdr): Brazil bans Sam Altman's tech firm Tools for Humanity from paying for iris scans</small>
 
 
-| 🔥🔥: 198 \| 💬: [49](https://news.ycombinator.com/item?id=42834432) \| 🗓️ 2025-01-26
+| 🔥🔥: 201 \| 💬: [52](https://news.ycombinator.com/item?id=42834432) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -130,11 +130,23 @@ tags:
 
 ---
 
-## <a name="10"></a>10. 当AI承诺加速开发却带来调试噩梦 
+## <a name="10"></a>10. 边际搜索——专注于非商业内容的搜索引擎 
+<small>🔗 [marginalia-search.com](https://marginalia-search.com/): Marginalia – A search engine that prioritizes non-commercial content</small>
+
+
+| 🔥🔥: 198 \| 💬: [17](https://news.ycombinator.com/item?id=42836405) \| 🗓️ 2025-01-26
+
+
+<br />
+Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引擎**聚焦非商业化内容**，提供探索网络、发现陈旧网站等工具，采用**开源技术**及自建索引与爬虫，摒弃AI或云端方案，默认**隐私保护**机制，过滤追踪与广告技术，不分享用户数据且不长期保留查询记录。
+
+---
+
+## <a name="11"></a>11. 当AI承诺加速开发却带来调试噩梦 
 <small>🔗 [nsavage.substack.com](https://nsavage.substack.com/p/when-ai-promises-speed-but-delivers): When AI promises speed but delivers debugging hell</small>
 
 
-| 🔥🔥: 195 \| 💬: [239](https://news.ycombinator.com/item?id=42829466) \| 🗓️ 2025-01-26
+| 🔥🔥: 196 \| 💬: [241](https://news.ycombinator.com/item?id=42829466) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -142,11 +154,11 @@ tags:
 
 ---
 
-## <a name="11"></a>11. 马克·扎克伯格：懦夫的真面目 
+## <a name="12"></a>12. 马克·扎克伯格：懦夫的真面目 
 <small>🔗 [theindex.media](https://www.theindex.media/this-man-is-a-coward/): Mark Zuckerberg: This Man Is a Coward</small>
 
 
-| 🔥🔥: 178 \| 💬: [63](https://news.ycombinator.com/item?id=42834911) \| 🗓️ 2025-01-26
+| 🔥🔥: 182 \| 💬: [69](https://news.ycombinator.com/item?id=42834911) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -154,11 +166,11 @@ tags:
 
 ---
 
-## <a name="12"></a>12. 天文学家删除“小行星”记录，实为马斯克的特斯拉跑车 
+## <a name="13"></a>13. 天文学家删除“小行星”记录，实为马斯克的特斯拉跑车 
 <small>🔗 [astronomy.com](https://www.astronomy.com/science/astronomers-just-deleted-an-asteroid-because-it-turned-out-to-be-elon-musks-tesla-roadster/): Astronomers delete asteroid because it turned out to be Tesla Roadster</small>
 
 
-| 🔥🔥: 164 \| 💬: [54](https://news.ycombinator.com/item?id=42834043) \| 🗓️ 2025-01-26
+| 🔥🔥: 180 \| 💬: [56](https://news.ycombinator.com/item?id=42834043) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -166,23 +178,11 @@ tags:
 
 ---
 
-## <a name="13"></a>13. 波罗的海再传海底电缆遭损毁 拉脱维亚派军舰应对 
-<small>🔗 [france24.com](https://www.france24.com/en/europe/20250126-another-undersea-cable-damaged-in-baltic-sea-latvia-dispatches-warship): Another undersea cable damaged in Baltic Sea</small>
-
-
-| 🔥🔥: 138 \| 💬: [110](https://news.ycombinator.com/item?id=42833491) \| 🗓️ 2025-01-26
-
-
-<br />
-瑞典与拉脱维亚间**海底通信电缆**在波罗的海受损，拉脱维亚派军舰前往。涉事海域附近发现可疑船只"Michalis San"正驶向俄罗斯。近期该区域多次发生类似事件，北约已启动监测任务加强防御。事故导致数据传输中断，欧盟主席表态支持受损国家。
-
----
-
 ## <a name="14"></a>14. Qwen2.5-1M：部署支持百万token上下文的自有模型 
 <small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwen2.5-1m/): Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens</small>
 
 
-| 🔥🔥: 126 \| 💬: [61](https://news.ycombinator.com/item?id=42831769) \| 🗓️ 2025-01-26
+| 🔥🔥: 144 \| 💬: [62](https://news.ycombinator.com/item?id=42831769) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -190,7 +190,19 @@ tags:
 
 ---
 
-## <a name="15"></a>15. Paxo：一部可自制的开源手机 
+## <a name="15"></a>15. 波罗的海再传海底电缆遭损毁 拉脱维亚派军舰应对 
+<small>🔗 [france24.com](https://www.france24.com/en/europe/20250126-another-undersea-cable-damaged-in-baltic-sea-latvia-dispatches-warship): Another undersea cable damaged in Baltic Sea</small>
+
+
+| 🔥🔥: 142 \| 💬: [113](https://news.ycombinator.com/item?id=42833491) \| 🗓️ 2025-01-26
+
+
+<br />
+瑞典与拉脱维亚间**海底通信电缆**在波罗的海受损，拉脱维亚派军舰前往。涉事海域附近发现可疑船只"Michalis San"正驶向俄罗斯。近期该区域多次发生类似事件，北约已启动监测任务加强防御。事故导致数据传输中断，欧盟主席表态支持受损国家。
+
+---
+
+## <a name="16"></a>16. Paxo：一部可自制的开源手机 
 <small>🔗 [paxo.fr](https://paxo.fr/): Paxo: A DIY Phone</small>
 
 
@@ -202,35 +214,11 @@ tags:
 
 ---
 
-## <a name="16"></a>16. 边际搜索——专注于非商业内容的搜索引擎 
-<small>🔗 [marginalia-search.com](https://marginalia-search.com/): Marginalia – A search engine that prioritizes non-commercial content</small>
-
-
-| 🔥🔥: 111 \| 💬: [15](https://news.ycombinator.com/item?id=42836405) \| 🗓️ 2025-01-26
-
-
-<br />
-Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引擎**聚焦非商业化内容**，提供探索网络、发现陈旧网站等工具，采用**开源技术**及自建索引与爬虫，摒弃AI或云端方案，默认**隐私保护**机制，过滤追踪与广告技术，不分享用户数据且不长期保留查询记录。
-
----
-
-## <a name="17"></a>17. 无人撼动大银行地位——至少目前如此 
-<small>🔗 [popularfintech.com](https://www.popularfintech.com/p/no-one-is-disrupting-banks): No one is disrupting banks – at least not the big ones</small>
-
-
-| 🔥🔥: 101 \| 💬: [164](https://news.ycombinator.com/item?id=42830155) \| 🗓️ 2025-01-26
-
-
-<br />
-尽管金融科技公司尝试近30年，**核心业务模式（吸收存款和发放贷款）未被撼动**。美国大银行2024年业绩稳健，存款与信贷规模持续增长。Fintech在支付、跨境汇款等领域取得进展，但**大型银行通过移动端布局和超高盈利能力（如摩根大通30% ROE）保持优势**。部分挑战者（如Affirm、Robinhood）在信用卡市场表现有限，传统巨头仍主导市场。未来颠覆或需**世代更迭或共存模式**，但短期内大银行地位稳固。
-
----
-
-## <a name="18"></a>18. 唯一一张协和式超音速飞行照片 
+## <a name="17"></a>17. 唯一一张协和式超音速飞行照片 
 <small>🔗 [petapixel.com](https://petapixel.com/2025/01/25/photo-concorde-supersonic-speed-mach-2/): The only photo of the Concorde flying at supersonic speed</small>
 
 
-| 🔥: 100 \| 💬: [62](https://news.ycombinator.com/item?id=42834341) \| 🗓️ 2025-01-26
+| 🔥🔥: 110 \| 💬: [82](https://news.ycombinator.com/item?id=42834341) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -238,11 +226,23 @@ Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引
 
 ---
 
+## <a name="18"></a>18. 无人撼动大银行地位——至少目前如此 
+<small>🔗 [popularfintech.com](https://www.popularfintech.com/p/no-one-is-disrupting-banks): No one is disrupting banks – at least not the big ones</small>
+
+
+| 🔥🔥: 109 \| 💬: [178](https://news.ycombinator.com/item?id=42830155) \| 🗓️ 2025-01-26
+
+
+<br />
+尽管金融科技公司尝试近30年，**核心业务模式（吸收存款和发放贷款）未被撼动**。美国大银行2024年业绩稳健，存款与信贷规模持续增长。Fintech在支付、跨境汇款等领域取得进展，但**大型银行通过移动端布局和超高盈利能力（如摩根大通30% ROE）保持优势**。部分挑战者（如Affirm、Robinhood）在信用卡市场表现有限，传统巨头仍主导市场。未来颠覆或需**世代更迭或共存模式**，但短期内大银行地位稳固。
+
+---
+
 ## <a name="19"></a>19. 我打造了一辆全向球形轮自行车 [视频] 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=ZVFB2g25OkM): I Built an Omni-Directional Ball-Wheeled Bike [video]</small>
 
 
-| 🔥: 98 \| 💬: [12](https://news.ycombinator.com/item?id=42830654) \| 🗓️ 2025-01-26
+| 🔥🔥: 103 \| 💬: [13](https://news.ycombinator.com/item?id=42830654) \| 🗓️ 2025-01-26
 
 
 <br />
