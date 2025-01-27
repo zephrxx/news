@@ -26,7 +26,7 @@ tags:
 <small>🔗 [pluralistic.net](https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading): It's not a crime if we do it with an app</small>
 
 
-| 🔥🔥: 811 \| 💬: [547](https://news.ycombinator.com/item?id=42830646) \| 🗓️ 2025-01-26
+| 🔥🔥: 812 \| 💬: [541](https://news.ycombinator.com/item?id=42830646) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [mort.coffee](https://mort.coffee/home/wayland-input-latency/): Hard numbers in the Wayland vs. X11 input latency discussion</small>
 
 
-| 🔥🔥: 394 \| 💬: [270](https://news.ycombinator.com/item?id=42831509) \| 🗓️ 2025-01-26
+| 🔥🔥: 404 \| 💬: [274](https://news.ycombinator.com/item?id=42831509) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [corporate.vanguard.com](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/no-bitcoin-etfs-at-vanguard-heres-why.html): No Bitcoin ETFs at Vanguard (2024)</small>
 
 
-| 🔥🔥: 361 \| 💬: [485](https://news.ycombinator.com/item?id=42832026) \| 🗓️ 2025-01-26
+| 🔥🔥: 364 \| 💬: [489](https://news.ycombinator.com/item?id=42832026) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -62,7 +62,7 @@ tags:
 <small>🔗 [zdnet.com](https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/): The Microsoft 365 Copilot launch was a disaster</small>
 
 
-| 🔥🔥: 346 \| 💬: [335](https://news.ycombinator.com/item?id=42831281) \| 🗓️ 2025-01-26
+| 🔥🔥: 358 \| 💬: [354](https://news.ycombinator.com/item?id=42831281) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -74,7 +74,7 @@ tags:
 <small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/): The protester's guide to smartphone security</small>
 
 
-| 🔥🔥: 320 \| 💬: [166](https://news.ycombinator.com/item?id=42829317) \| 🗓️ 2025-01-26
+| 🔥🔥: 336 \| 💬: [170](https://news.ycombinator.com/item?id=42829317) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -86,7 +86,7 @@ tags:
 <small>🔗 [cjonline.com](https://www.cjonline.com/story/news/politics/government/2025/01/24/kansas-tuberculosis-outbreak-is-largest-in-recorded-history-in-u-s/77881467007/): Kansas tuberculosis outbreak is now America's largest in recorded history</small>
 
 
-| 🔥🔥: 292 \| 💬: [210](https://news.ycombinator.com/item?id=42835183) \| 🗓️ 2025-01-26
+| 🔥🔥: 321 \| 💬: [232](https://news.ycombinator.com/item?id=42835183) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -98,7 +98,7 @@ tags:
 <small>🔗 [jasonthorsness.com](https://www.jasonthorsness.com/20): Show HN: DeepSeek My User Agent</small>
 
 
-| 🔥🔥: 231 \| 💬: [93](https://news.ycombinator.com/item?id=42834648) \| 🗓️ 2025-01-26
+| 🔥🔥: 242 \| 💬: [95](https://news.ycombinator.com/item?id=42834648) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -106,15 +106,15 @@ tags:
 
 ---
 
-## <a name="8"></a>8. 前科技公司CEO起诉要求删除网络逮捕记录 
-<small>🔗 [sf.gazetteer.co](https://sf.gazetteer.co/a-former-tech-ceo-is-on-a-crusade-to-get-the-record-of-his-arrest-removed-from-the-internet): Former tech CEO suing to get the record of his arrest removed from the internet</small>
+## <a name="8"></a>8. 边际搜索——专注于非商业内容的搜索引擎 
+<small>🔗 [marginalia-search.com](https://marginalia-search.com/): Marginalia – A search engine that prioritizes non-commercial content</small>
 
 
-| 🔥🔥: 202 \| 💬: [147](https://news.ycombinator.com/item?id=42833193) \| 🗓️ 2025-01-26
+| 🔥🔥: 225 \| 💬: [22](https://news.ycombinator.com/item?id=42836405) \| 🗓️ 2025-01-26
 
 
 <br />
-前科技公司CEO **莫里·布莱克曼**因2021年家暴被捕记录被公开，起诉独立记者杰克·波尔森索赔**2500万美元**。尽管法院已封存其逮捕记录，波尔森通过匿名线索获取并验证报告后公开，称涉及公共利益。布莱克曼指控报道导致其声誉受损并失去CEO职位，但案件引发**加州法律与第一修正案冲突**争议。电子前沿基金会为波尔森辩护，指控方试图通过诉讼掩盖历史的行为反而引发更广泛关注（**斯特里桑德效应**），联邦法院已暂停相关法律执行。
+Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引擎**聚焦非商业化内容**，提供探索网络、发现陈旧网站等工具，采用**开源技术**及自建索引与爬虫，摒弃AI或云端方案，默认**隐私保护**机制，过滤追踪与广告技术，不分享用户数据且不长期保留查询记录。
 
 ---
 
@@ -122,7 +122,7 @@ tags:
 <small>🔗 [economictimes.indiatimes.com](https://economictimes.indiatimes.com/tech/technology/brazil-bans-sam-altmans-tech-firm-tools-for-humanity-from-paying-for-iris-scans/articleshow/117540826.cms?from=mdr): Brazil bans Sam Altman's tech firm Tools for Humanity from paying for iris scans</small>
 
 
-| 🔥🔥: 201 \| 💬: [52](https://news.ycombinator.com/item?id=42834432) \| 🗓️ 2025-01-26
+| 🔥🔥: 207 \| 💬: [52](https://news.ycombinator.com/item?id=42834432) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -130,15 +130,15 @@ tags:
 
 ---
 
-## <a name="10"></a>10. 边际搜索——专注于非商业内容的搜索引擎 
-<small>🔗 [marginalia-search.com](https://marginalia-search.com/): Marginalia – A search engine that prioritizes non-commercial content</small>
+## <a name="10"></a>10. 前科技公司CEO起诉要求删除网络逮捕记录 
+<small>🔗 [sf.gazetteer.co](https://sf.gazetteer.co/a-former-tech-ceo-is-on-a-crusade-to-get-the-record-of-his-arrest-removed-from-the-internet): Former tech CEO suing to get the record of his arrest removed from the internet</small>
 
 
-| 🔥🔥: 198 \| 💬: [17](https://news.ycombinator.com/item?id=42836405) \| 🗓️ 2025-01-26
+| 🔥🔥: 204 \| 💬: [148](https://news.ycombinator.com/item?id=42833193) \| 🗓️ 2025-01-26
 
 
 <br />
-Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引擎**聚焦非商业化内容**，提供探索网络、发现陈旧网站等工具，采用**开源技术**及自建索引与爬虫，摒弃AI或云端方案，默认**隐私保护**机制，过滤追踪与广告技术，不分享用户数据且不长期保留查询记录。
+前科技公司CEO **莫里·布莱克曼**因2021年家暴被捕记录被公开，起诉独立记者杰克·波尔森索赔**2500万美元**。尽管法院已封存其逮捕记录，波尔森通过匿名线索获取并验证报告后公开，称涉及公共利益。布莱克曼指控报道导致其声誉受损并失去CEO职位，但案件引发**加州法律与第一修正案冲突**争议。电子前沿基金会为波尔森辩护，指控方试图通过诉讼掩盖历史的行为反而引发更广泛关注（**斯特里桑德效应**），联邦法院已暂停相关法律执行。
 
 ---
 
@@ -154,23 +154,11 @@ Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引
 
 ---
 
-## <a name="12"></a>12. 马克·扎克伯格：懦夫的真面目 
-<small>🔗 [theindex.media](https://www.theindex.media/this-man-is-a-coward/): Mark Zuckerberg: This Man Is a Coward</small>
-
-
-| 🔥🔥: 182 \| 💬: [69](https://news.ycombinator.com/item?id=42834911) \| 🗓️ 2025-01-26
-
-
-<br />
-文章痛批扎克伯格面对特朗普政府削弱美国国立卫生研究院（NIH）时保持沉默，**放任40亿美元科研资金冻结**，却加速迎合特朗普的政治需求。Meta内部多项政策转向：取消事实核查、削减内容审核、废除多元化计划，并**为特朗普量身定制平台特权**。作者揭露其通过“男子气概”人设包装怯懦本质，批判他利用财富与权力向威权主义屈膝，成为企业界妥协的负面范本。最终直指其本质——**手握全球顶级资源却选择卑躬屈膝的懦夫**，历史必将铭记这份精神阉割。
-
----
-
-## <a name="13"></a>13. 天文学家删除“小行星”记录，实为马斯克的特斯拉跑车 
+## <a name="12"></a>12. 天文学家删除“小行星”记录，实为马斯克的特斯拉跑车 
 <small>🔗 [astronomy.com](https://www.astronomy.com/science/astronomers-just-deleted-an-asteroid-because-it-turned-out-to-be-elon-musks-tesla-roadster/): Astronomers delete asteroid because it turned out to be Tesla Roadster</small>
 
 
-| 🔥🔥: 180 \| 💬: [56](https://news.ycombinator.com/item?id=42834043) \| 🗓️ 2025-01-26
+| 🔥🔥: 188 \| 💬: [59](https://news.ycombinator.com/item?id=42834043) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -178,11 +166,23 @@ Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引
 
 ---
 
+## <a name="13"></a>13. 马克·扎克伯格：懦夫的真面目 
+<small>🔗 [theindex.media](https://www.theindex.media/this-man-is-a-coward/): Mark Zuckerberg: This Man Is a Coward</small>
+
+
+| 🔥🔥: 182 \| 💬: [71](https://news.ycombinator.com/item?id=42834911) \| 🗓️ 2025-01-26
+
+
+<br />
+文章痛批扎克伯格面对特朗普政府削弱美国国立卫生研究院（NIH）时保持沉默，**放任40亿美元科研资金冻结**，却加速迎合特朗普的政治需求。Meta内部多项政策转向：取消事实核查、削减内容审核、废除多元化计划，并**为特朗普量身定制平台特权**。作者揭露其通过“男子气概”人设包装怯懦本质，批判他利用财富与权力向威权主义屈膝，成为企业界妥协的负面范本。最终直指其本质——**手握全球顶级资源却选择卑躬屈膝的懦夫**，历史必将铭记这份精神阉割。
+
+---
+
 ## <a name="14"></a>14. Qwen2.5-1M：部署支持百万token上下文的自有模型 
 <small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwen2.5-1m/): Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens</small>
 
 
-| 🔥🔥: 144 \| 💬: [62](https://news.ycombinator.com/item?id=42831769) \| 🗓️ 2025-01-26
+| 🔥🔥: 152 \| 💬: [62](https://news.ycombinator.com/item?id=42831769) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -194,7 +194,7 @@ Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引
 <small>🔗 [france24.com](https://www.france24.com/en/europe/20250126-another-undersea-cable-damaged-in-baltic-sea-latvia-dispatches-warship): Another undersea cable damaged in Baltic Sea</small>
 
 
-| 🔥🔥: 142 \| 💬: [113](https://news.ycombinator.com/item?id=42833491) \| 🗓️ 2025-01-26
+| 🔥🔥: 146 \| 💬: [116](https://news.ycombinator.com/item?id=42833491) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -214,15 +214,15 @@ Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引
 
 ---
 
-## <a name="17"></a>17. 唯一一张协和式超音速飞行照片 
-<small>🔗 [petapixel.com](https://petapixel.com/2025/01/25/photo-concorde-supersonic-speed-mach-2/): The only photo of the Concorde flying at supersonic speed</small>
+## <a name="17"></a>17. OpenHaystack：利用苹果Find My网络构建追踪蓝牙设备的开源框架 
+<small>🔗 [github.com](https://github.com/seemoo-lab/openhaystack): Openhaystack: Build 'AirTags' – track Bluetooth devices via Apple's network</small>
 
 
-| 🔥🔥: 110 \| 💬: [82](https://news.ycombinator.com/item?id=42834341) \| 🗓️ 2025-01-26
+| 🔥🔥: 115 \| 💬: [22](https://news.ycombinator.com/item?id=42835772) \| 🗓️ 2025-01-26
 
 
 <br />
-**协和式客机**是史上最快商用飞机，巡航速度达**2.04马赫**（约1354英里/小时）。1985年4月，英国皇家空军派出一架**龙卷风战斗机**与协和式在爱尔兰海上空汇合，摄影师Adrian Meredith抓住短暂窗口拍下其超音速飞行的唯一照片。由于燃料限制，龙卷风仅能维持4分钟编队飞行。协和式1976年投入运营，2003年退役，主因包括2000年法航空难、9·11事件后航空业衰退及维护成本过高。这款由英法联合研制的超音速传奇共生产20架，曾创纽约至伦敦2小时52分的跨大西洋纪录。
+该项目通过**反向工程**解析苹果离线定位技术，提供框架将任意蓝牙设备（如micro:bit、ESP32）接入苹果Find My网络。设备通过**公开密钥加密**广播信号，附近iPhone自动上传加密位置至苹果服务器，用户可通过Mac应用解密获取最新位置。工具支持自定义追踪标签，但属实验性项目（AGPL-3.0协议），需注意设备密钥固定可能引发隐私风险。核心原理结合蓝牙广播、加密数据库与分布式定位，曾发现苹果系统漏洞（CVE-2020-9986）。
 
 ---
 
@@ -230,7 +230,7 @@ Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引
 <small>🔗 [popularfintech.com](https://www.popularfintech.com/p/no-one-is-disrupting-banks): No one is disrupting banks – at least not the big ones</small>
 
 
-| 🔥🔥: 109 \| 💬: [178](https://news.ycombinator.com/item?id=42830155) \| 🗓️ 2025-01-26
+| 🔥🔥: 114 \| 💬: [182](https://news.ycombinator.com/item?id=42830155) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -238,26 +238,26 @@ Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引
 
 ---
 
-## <a name="19"></a>19. 我打造了一辆全向球形轮自行车 [视频] 
+## <a name="19"></a>19. 唯一一张协和式超音速飞行照片 
+<small>🔗 [petapixel.com](https://petapixel.com/2025/01/25/photo-concorde-supersonic-speed-mach-2/): The only photo of the Concorde flying at supersonic speed</small>
+
+
+| 🔥🔥: 113 \| 💬: [85](https://news.ycombinator.com/item?id=42834341) \| 🗓️ 2025-01-26
+
+
+<br />
+**协和式客机**是史上最快商用飞机，巡航速度达**2.04马赫**（约1354英里/小时）。1985年4月，英国皇家空军派出一架**龙卷风战斗机**与协和式在爱尔兰海上空汇合，摄影师Adrian Meredith抓住短暂窗口拍下其超音速飞行的唯一照片。由于燃料限制，龙卷风仅能维持4分钟编队飞行。协和式1976年投入运营，2003年退役，主因包括2000年法航空难、9·11事件后航空业衰退及维护成本过高。这款由英法联合研制的超音速传奇共生产20架，曾创纽约至伦敦2小时52分的跨大西洋纪录。
+
+---
+
+## <a name="20"></a>20. 我打造了一辆全向球形轮自行车 [视频] 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=ZVFB2g25OkM): I Built an Omni-Directional Ball-Wheeled Bike [video]</small>
 
 
-| 🔥🔥: 103 \| 💬: [13](https://news.ycombinator.com/item?id=42830654) \| 🗓️ 2025-01-26
+| 🔥🔥: 105 \| 💬: [14](https://news.ycombinator.com/item?id=42830654) \| 🗓️ 2025-01-26
 
 
 <br />
 创作者展示了一款自制的**球形轮自行车**，通过独特的**全向移动设计**实现灵活转向与横向平移。视频中详细解析机械结构原理，重点解决传统车轮转向限制，并演示实景操控效果。核心挑战包括**摩擦力平衡**与重心稳定，最终成果融合了工程创新与趣味性，展现DIY硬件的潜力。
-
----
-
-## <a name="20"></a>20. Qwen2.5-1M：支持百万上下文长度的开源大模型发布 
-<small>🔗 [simonwillison.net](https://simonwillison.net/2025/Jan/26/qwen25-1m/): Qwen2.5-7B-Instruct-1M and Qwen2.5-14B-Instruct-1M</small>
-
-
-| 🔥: 97 \| 💬: [2](https://news.ycombinator.com/item?id=42832838) \| 🗓️ 2025-01-26
-
-
-<br />
-阿里巴巴Qwen团队推出支持**百万tokens**超长上下文的新模型，基于**Dual Chunk Attention**技术突破原有12.8万tokens限制。新增Qwen2.5-7B/14B-Instruct-1M两款模型（Apache 2.0协议），需极高**VRAM配置**（7B需120GB、14B需320GB）。社区已发布GGUF量化版，但实测长文本处理仍存在输入截断问题，推测与框架适配或量化方案未完善相关。作者通过Ollama在Mac测试时仅处理2048 tokens输入，后续将持续追踪解决方案。
 
 ---
