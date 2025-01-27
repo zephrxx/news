@@ -9,8 +9,8 @@ tags:
 
 
 1. 用应用掩盖的合谋犯罪；
-1. 先锋集团不推出比特币ETF（2024）；
 1. Wayland与X11输入延迟争议的实测数据对比；
+1. 先锋集团不推出比特币ETF（2024）；
 1. 微软365 Copilot发布成灾难性事件；
 1. 抗议者智能手机安全指南；
 
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [pluralistic.net](https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading): It's not a crime if we do it with an app</small>
 
 
-| 🔥🔥: 799 \| 💬: [525](https://news.ycombinator.com/item?id=42830646) \| 🗓️ 2025-01-26
+| 🔥🔥: 801 \| 💬: [533](https://news.ycombinator.com/item?id=42830646) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -34,23 +34,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. 先锋集团不推出比特币ETF（2024） 
-<small>🔗 [corporate.vanguard.com](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/no-bitcoin-etfs-at-vanguard-heres-why.html): No Bitcoin ETFs at Vanguard (2024)</small>
-
-
-| 🔥🔥: 353 \| 💬: [467](https://news.ycombinator.com/item?id=42832026) \| 🗓️ 2025-01-26
-
-
-<br />
-先锋集团明确表示**不推出比特币ETF**，也不会在经纪平台提供加密货币相关产品。其决策基于**加密货币的投机属性**，认为其缺乏内在经济价值、现金流和稳定性，且**波动性极高**（比特币三年内涨幅达150%，跌幅达77%），可能破坏长期投资组合。先锋坚持**长期投资理念**，过去曾下架杠杆基金和场外股票，此次决定延续其一贯原则，优先考虑客户利益而非市场趋势。
-
----
-
-## <a name="3"></a>3. Wayland与X11输入延迟争议的实测数据对比 
+## <a name="2"></a>2. Wayland与X11输入延迟争议的实测数据对比 
 <small>🔗 [mort.coffee](https://mort.coffee/home/wayland-input-latency/): Hard numbers in the Wayland vs. X11 input latency discussion</small>
 
 
-| 🔥🔥: 343 \| 💬: [229](https://news.ycombinator.com/item?id=42831509) \| 🗓️ 2025-01-26
+| 🔥🔥: 361 \| 💬: [238](https://news.ycombinator.com/item?id=42831509) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -58,11 +46,23 @@ tags:
 
 ---
 
+## <a name="3"></a>3. 先锋集团不推出比特币ETF（2024） 
+<small>🔗 [corporate.vanguard.com](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/no-bitcoin-etfs-at-vanguard-heres-why.html): No Bitcoin ETFs at Vanguard (2024)</small>
+
+
+| 🔥🔥: 355 \| 💬: [469](https://news.ycombinator.com/item?id=42832026) \| 🗓️ 2025-01-26
+
+
+<br />
+先锋集团明确表示**不推出比特币ETF**，也不会在经纪平台提供加密货币相关产品。其决策基于**加密货币的投机属性**，认为其缺乏内在经济价值、现金流和稳定性，且**波动性极高**（比特币三年内涨幅达150%，跌幅达77%），可能破坏长期投资组合。先锋坚持**长期投资理念**，过去曾下架杠杆基金和场外股票，此次决定延续其一贯原则，优先考虑客户利益而非市场趋势。
+
+---
+
 ## <a name="4"></a>4. 微软365 Copilot发布成灾难性事件 
 <small>🔗 [zdnet.com](https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/): The Microsoft 365 Copilot launch was a disaster</small>
 
 
-| 🔥🔥: 272 \| 💬: [257](https://news.ycombinator.com/item?id=42831281) \| 🗓️ 2025-01-26
+| 🔥🔥: 290 \| 💬: [289](https://news.ycombinator.com/item?id=42831281) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -74,7 +74,7 @@ tags:
 <small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/): The protester's guide to smartphone security</small>
 
 
-| 🔥🔥: 246 \| 💬: [119](https://news.ycombinator.com/item?id=42829317) \| 🗓️ 2025-01-26
+| 🔥🔥: 258 \| 💬: [131](https://news.ycombinator.com/item?id=42829317) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -86,7 +86,7 @@ tags:
 <small>🔗 [nsavage.substack.com](https://nsavage.substack.com/p/when-ai-promises-speed-but-delivers): When AI promises speed but delivers debugging hell</small>
 
 
-| 🔥🔥: 192 \| 💬: [234](https://news.ycombinator.com/item?id=42829466) \| 🗓️ 2025-01-26
+| 🔥🔥: 192 \| 💬: [237](https://news.ycombinator.com/item?id=42829466) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -98,7 +98,7 @@ tags:
 <small>🔗 [sf.gazetteer.co](https://sf.gazetteer.co/a-former-tech-ceo-is-on-a-crusade-to-get-the-record-of-his-arrest-removed-from-the-internet): Former tech CEO suing to get the record of his arrest removed from the internet</small>
 
 
-| 🔥🔥: 181 \| 💬: [130](https://news.ycombinator.com/item?id=42833193) \| 🗓️ 2025-01-26
+| 🔥🔥: 188 \| 💬: [134](https://news.ycombinator.com/item?id=42833193) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -106,23 +106,11 @@ tags:
 
 ---
 
-## <a name="8"></a>8. 巴西禁止Sam Altman旗下公司以加密货币换取虹膜扫描 
-<small>🔗 [economictimes.indiatimes.com](https://economictimes.indiatimes.com/tech/technology/brazil-bans-sam-altmans-tech-firm-tools-for-humanity-from-paying-for-iris-scans/articleshow/117540826.cms?from=mdr): Brazil bans Sam Altman's tech firm Tools for Humanity from paying for iris scans</small>
-
-
-| 🔥🔥: 173 \| 💬: [35](https://news.ycombinator.com/item?id=42834432) \| 🗓️ 2025-01-26
-
-
-<br />
-巴西数据保护机构**ANPD**要求**Tools for Humanity**（由OpenAI CEO联合创立）立即停止通过**加密货币补偿**获取用户虹膜数据。该禁令为预防措施，认为经济激励可能影响个人自愿性。涉事公司运营的“World项目”旨在通过虹膜扫描建立全球身份系统，其巴西团队称服务合法合规，但ANPD已启动调查并要求公开数据处理责任人。此前，该公司在西班牙、葡萄牙等地亦因数据收集引发争议。
-
----
-
-## <a name="9"></a>9. Show HN: 深度探索我的用户代理 
+## <a name="8"></a>8. Show HN: 深度探索我的用户代理 
 <small>🔗 [jasonthorsness.com](https://www.jasonthorsness.com/20): Show HN: DeepSeek My User Agent</small>
 
 
-| 🔥🔥: 160 \| 💬: [64](https://news.ycombinator.com/item?id=42834648) \| 🗓️ 2025-01-26
+| 🔥🔥: 186 \| 💬: [79](https://news.ycombinator.com/item?id=42834648) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -130,11 +118,23 @@ tags:
 
 ---
 
+## <a name="9"></a>9. 巴西禁止Sam Altman旗下公司以加密货币换取虹膜扫描 
+<small>🔗 [economictimes.indiatimes.com](https://economictimes.indiatimes.com/tech/technology/brazil-bans-sam-altmans-tech-firm-tools-for-humanity-from-paying-for-iris-scans/articleshow/117540826.cms?from=mdr): Brazil bans Sam Altman's tech firm Tools for Humanity from paying for iris scans</small>
+
+
+| 🔥🔥: 184 \| 💬: [43](https://news.ycombinator.com/item?id=42834432) \| 🗓️ 2025-01-26
+
+
+<br />
+巴西数据保护机构**ANPD**要求**Tools for Humanity**（由OpenAI CEO联合创立）立即停止通过**加密货币补偿**获取用户虹膜数据。该禁令为预防措施，认为经济激励可能影响个人自愿性。涉事公司运营的“World项目”旨在通过虹膜扫描建立全球身份系统，其巴西团队称服务合法合规，但ANPD已启动调查并要求公开数据处理责任人。此前，该公司在西班牙、葡萄牙等地亦因数据收集引发争议。
+
+---
+
 ## <a name="10"></a>10. 马克·扎克伯格：懦夫的真面目 
 <small>🔗 [theindex.media](https://www.theindex.media/this-man-is-a-coward/): Mark Zuckerberg: This Man Is a Coward</small>
 
 
-| 🔥🔥: 159 \| 💬: [49](https://news.ycombinator.com/item?id=42834911) \| 🗓️ 2025-01-26
+| 🔥🔥: 170 \| 💬: [59](https://news.ycombinator.com/item?id=42834911) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -142,23 +142,11 @@ tags:
 
 ---
 
-## <a name="11"></a>11. Paxo：一部可自制的开源手机 
-<small>🔗 [paxo.fr](https://paxo.fr/): Paxo: A DIY Phone</small>
-
-
-| 🔥🔥: 118 \| 💬: [31](https://news.ycombinator.com/item?id=42829279) \| 🗓️ 2025-01-26
-
-
-<br />
-15岁少年Gabriel Rochet用**30欧元成本**打造出**开源模块化手机**，提供硬件图纸与软件代码，支持非商用二次开发。该项目强调**自由学习与改造**，用户可定制功能并实践电子编程技能，同时倡导关注数字自由与设备可维修性。通过社区协作推动创新，兼具教学意义与环保理念。
-
----
-
-## <a name="12"></a>12. 波罗的海再传海底电缆遭损毁 拉脱维亚派军舰应对 
+## <a name="11"></a>11. 波罗的海再传海底电缆遭损毁 拉脱维亚派军舰应对 
 <small>🔗 [france24.com](https://www.france24.com/en/europe/20250126-another-undersea-cable-damaged-in-baltic-sea-latvia-dispatches-warship): Another undersea cable damaged in Baltic Sea</small>
 
 
-| 🔥🔥: 118 \| 💬: [91](https://news.ycombinator.com/item?id=42833491) \| 🗓️ 2025-01-26
+| 🔥🔥: 126 \| 💬: [105](https://news.ycombinator.com/item?id=42833491) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -166,23 +154,11 @@ tags:
 
 ---
 
-## <a name="13"></a>13. Qwen2.5-1M：部署支持百万token上下文的自有模型 
-<small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwen2.5-1m/): Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens</small>
-
-
-| 🔥🔥: 104 \| 💬: [54](https://news.ycombinator.com/item?id=42831769) \| 🗓️ 2025-01-26
-
-
-<br />
-阿里云推出开源大模型**Qwen2.5-7B/14B-Instruct-1M**，支持**百万token超长上下文**处理，配套基于vLLM优化的推理框架，预填充速度提升3-7倍。模型通过渐进式训练与**Dual Chunk Attention**技术，在长文本任务中显著优于128K版本，短文本性能持平原版。部署需多GPU高显存环境，提供本地API调用方案，并开源技术报告详述训练框架与稀疏注意力优化细节。
-
----
-
-## <a name="14"></a>14. 天文学家删除“小行星”记录，实为马斯克的特斯拉跑车 
+## <a name="12"></a>12. 天文学家删除“小行星”记录，实为马斯克的特斯拉跑车 
 <small>🔗 [astronomy.com](https://www.astronomy.com/science/astronomers-just-deleted-an-asteroid-because-it-turned-out-to-be-elon-musks-tesla-roadster/): Astronomers delete asteroid because it turned out to be Tesla Roadster</small>
 
 
-| 🔥: 99 \| 💬: [23](https://news.ycombinator.com/item?id=42834043) \| 🗓️ 2025-01-26
+| 🔥🔥: 125 \| 💬: [39](https://news.ycombinator.com/item?id=42834043) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -190,7 +166,43 @@ tags:
 
 ---
 
-## <a name="15"></a>15. Qwen2.5-1M：支持百万上下文长度的开源大模型发布 
+## <a name="13"></a>13. Paxo：一部可自制的开源手机 
+<small>🔗 [paxo.fr](https://paxo.fr/): Paxo: A DIY Phone</small>
+
+
+| 🔥🔥: 119 \| 💬: [32](https://news.ycombinator.com/item?id=42829279) \| 🗓️ 2025-01-26
+
+
+<br />
+15岁少年Gabriel Rochet用**30欧元成本**打造出**开源模块化手机**，提供硬件图纸与软件代码，支持非商用二次开发。该项目强调**自由学习与改造**，用户可定制功能并实践电子编程技能，同时倡导关注数字自由与设备可维修性。通过社区协作推动创新，兼具教学意义与环保理念。
+
+---
+
+## <a name="14"></a>14. Qwen2.5-1M：部署支持百万token上下文的自有模型 
+<small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwen2.5-1m/): Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens</small>
+
+
+| 🔥🔥: 110 \| 💬: [56](https://news.ycombinator.com/item?id=42831769) \| 🗓️ 2025-01-26
+
+
+<br />
+阿里云推出开源大模型**Qwen2.5-7B/14B-Instruct-1M**，支持**百万token超长上下文**处理，配套基于vLLM优化的推理框架，预填充速度提升3-7倍。模型通过渐进式训练与**Dual Chunk Attention**技术，在长文本任务中显著优于128K版本，短文本性能持平原版。部署需多GPU高显存环境，提供本地API调用方案，并开源技术报告详述训练框架与稀疏注意力优化细节。
+
+---
+
+## <a name="15"></a>15. 我打造了一辆全向球形轮自行车 [视频] 
+<small>🔗 [youtube.com](https://www.youtube.com/watch?v=ZVFB2g25OkM): I Built an Omni-Directional Ball-Wheeled Bike [video]</small>
+
+
+| 🔥: 98 \| 💬: [11](https://news.ycombinator.com/item?id=42830654) \| 🗓️ 2025-01-26
+
+
+<br />
+创作者展示了一款自制的**球形轮自行车**，通过独特的**全向移动设计**实现灵活转向与横向平移。视频中详细解析机械结构原理，重点解决传统车轮转向限制，并演示实景操控效果。核心挑战包括**摩擦力平衡**与重心稳定，最终成果融合了工程创新与趣味性，展现DIY硬件的潜力。
+
+---
+
+## <a name="16"></a>16. Qwen2.5-1M：支持百万上下文长度的开源大模型发布 
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Jan/26/qwen25-1m/): Qwen2.5-7B-Instruct-1M and Qwen2.5-14B-Instruct-1M</small>
 
 
@@ -202,23 +214,11 @@ tags:
 
 ---
 
-## <a name="16"></a>16. 我打造了一辆全向球形轮自行车 [视频] 
-<small>🔗 [youtube.com](https://www.youtube.com/watch?v=ZVFB2g25OkM): I Built an Omni-Directional Ball-Wheeled Bike [video]</small>
-
-
-| 🔥: 96 \| 💬: [11](https://news.ycombinator.com/item?id=42830654) \| 🗓️ 2025-01-26
-
-
-<br />
-创作者展示了一款自制的**球形轮自行车**，通过独特的**全向移动设计**实现灵活转向与横向平移。视频中详细解析机械结构原理，重点解决传统车轮转向限制，并演示实景操控效果。核心挑战包括**摩擦力平衡**与重心稳定，最终成果融合了工程创新与趣味性，展现DIY硬件的潜力。
-
----
-
 ## <a name="17"></a>17. Render完成8000万美元C轮融资 
 <small>🔗 [render.com](https://render.com/blog/series-c): Render raises $80M in Series C financing</small>
 
 
-| 🔥: 84 \| 💬: [84](https://news.ycombinator.com/item?id=42832696) \| 🗓️ 2025-01-26
+| 🔥: 87 \| 💬: [91](https://news.ycombinator.com/item?id=42832696) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -226,11 +226,23 @@ tags:
 
 ---
 
-## <a name="18"></a>18. 我不喜欢Docker与Podman 
+## <a name="18"></a>18. 堪萨斯州结核病疫情成为美国有记录以来最大规模 
+<small>🔗 [cjonline.com](https://www.cjonline.com/story/news/politics/government/2025/01/24/kansas-tuberculosis-outbreak-is-largest-in-recorded-history-in-u-s/77881467007/): Kansas tuberculosis outbreak is now America's largest in recorded history</small>
+
+
+| 🔥: 87 \| 💬: [20](https://news.ycombinator.com/item?id=42835183) \| 🗓️ 2025-01-26
+
+
+<br />
+美国堪萨斯州暴发**有记录以来最大规模结核病疫情**，截至2024年1月已发现66例活跃病例与79例潜伏感染，主要集中在堪萨斯城都会区。卫生部门表示此次爆发规模因病例增速快且仍在持续，需与联邦疾控中心协同防控。患者经10天药物治疗后通常不再具传染性，但完整疗程需数月。目前活跃病例已从高峰期的65例降至32例，**公众感染风险极低**。该疫情为1950年代美国建立结核病监测系统后的最大纪录。
+
+---
+
+## <a name="19"></a>19. 我不喜欢Docker与Podman 
 <small>🔗 [blog.liw.fi](https://blog.liw.fi/posts/2025/docker/): I don't like Docker or Podman</small>
 
 
-| 🔥: 84 \| 💬: [71](https://news.ycombinator.com/item?id=42834164) \| 🗓️ 2025-01-26
+| 🔥: 84 \| 💬: [73](https://news.ycombinator.com/item?id=42834164) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -238,26 +250,14 @@ tags:
 
 ---
 
-## <a name="19"></a>19. 无人撼动大银行地位——至少目前如此 
+## <a name="20"></a>20. 无人撼动大银行地位——至少目前如此 
 <small>🔗 [popularfintech.com](https://www.popularfintech.com/p/no-one-is-disrupting-banks): No one is disrupting banks – at least not the big ones</small>
 
 
-| 🔥: 75 \| 💬: [120](https://news.ycombinator.com/item?id=42830155) \| 🗓️ 2025-01-26
+| 🔥: 80 \| 💬: [140](https://news.ycombinator.com/item?id=42830155) \| 🗓️ 2025-01-26
 
 
 <br />
 尽管金融科技公司尝试近30年，**核心业务模式（吸收存款和发放贷款）未被撼动**。美国大银行2024年业绩稳健，存款与信贷规模持续增长。Fintech在支付、跨境汇款等领域取得进展，但**大型银行通过移动端布局和超高盈利能力（如摩根大通30% ROE）保持优势**。部分挑战者（如Affirm、Robinhood）在信用卡市场表现有限，传统巨头仍主导市场。未来颠覆或需**世代更迭或共存模式**，但短期内大银行地位稳固。
-
----
-
-## <a name="20"></a>20. 复兴已故音频格式：ZZM的回归 
-<small>🔗 [nicole.express](https://nicole.express/2025/zoo-of-zero-motivation.html): Reviving a Dead Audio Format: The Return of ZZM</small>
-
-
-| 🔥: 71 \| 💬: [5](https://news.ycombinator.com/item?id=42831550) \| 🗓️ 2025-01-26
-
-
-<br />
-基于1990年游戏ZZT的**ZZM音频格式**曾通过PC扬声器生成简单音乐，但因依赖MS-DOS逐渐消亡。作者通过JavaScript与**Web Audio API**重建播放器，逆向工程还原了ZZT的方波音效生成逻辑，包括基于自然对数计算的独特音阶系统。项目克服了原始代码丢失与**PC扬声器方波**仿真的技术挑战，成功在现代浏览器中复活了这种复古音频格式，并再现了鼓点等特殊音效的数字化处理过程。
 
 ---
