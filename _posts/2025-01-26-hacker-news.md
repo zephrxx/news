@@ -11,8 +11,8 @@ tags:
 1. 用应用掩盖的合谋犯罪；
 1. Wayland与X11输入延迟争议的实测数据对比；
 1. 微软365 Copilot发布成灾难性事件；
-1. 先锋集团不推出比特币ETF（2024）；
 1. 抗议者智能手机安全指南；
+1. 先锋集团不推出比特币ETF（2024）；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [pluralistic.net](https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading): It's not a crime if we do it with an app</small>
 
 
-| 🔥🔥: 816 \| 💬: [541](https://news.ycombinator.com/item?id=42830646) \| 🗓️ 2025-01-26
+| 🔥🔥: 818 \| 💬: [542](https://news.ycombinator.com/item?id=42830646) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [mort.coffee](https://mort.coffee/home/wayland-input-latency/): Hard numbers in the Wayland vs. X11 input latency discussion</small>
 
 
-| 🔥🔥: 406 \| 💬: [280](https://news.ycombinator.com/item?id=42831509) \| 🗓️ 2025-01-26
+| 🔥🔥: 418 \| 💬: [291](https://news.ycombinator.com/item?id=42831509) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [zdnet.com](https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/): The Microsoft 365 Copilot launch was a disaster</small>
 
 
-| 🔥🔥: 375 \| 💬: [366](https://news.ycombinator.com/item?id=42831281) \| 🗓️ 2025-01-26
+| 🔥🔥: 386 \| 💬: [374](https://news.ycombinator.com/item?id=42831281) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -59,23 +59,11 @@ tags:
 
 ---
 
-## <a name="4"></a>4. 先锋集团不推出比特币ETF（2024） 
-<small>🔗 [corporate.vanguard.com](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/no-bitcoin-etfs-at-vanguard-heres-why.html): No Bitcoin ETFs at Vanguard (2024)</small>
-
-
-| 🔥🔥: 367 \| 💬: [492](https://news.ycombinator.com/item?id=42832026) \| 🗓️ 2025-01-26
-
-
-<br />
-先锋集团明确表示**不推出比特币ETF**，也不会在经纪平台提供加密货币相关产品。其决策基于**加密货币的投机属性**，认为其缺乏内在经济价值、现金流和稳定性，且**波动性极高**（比特币三年内涨幅达150%，跌幅达77%），可能破坏长期投资组合。先锋坚持**长期投资理念**，过去曾下架杠杆基金和场外股票，此次决定延续其一贯原则，优先考虑客户利益而非市场趋势。
-
----
-
-## <a name="5"></a>5. 抗议者智能手机安全指南 
+## <a name="4"></a>4. 抗议者智能手机安全指南 
 <small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/): The protester's guide to smartphone security</small>
 
 
-| 🔥🔥: 356 \| 💬: [177](https://news.ycombinator.com/item?id=42829317) \| 🗓️ 2025-01-26
+| 🔥🔥: 375 \| 💬: [186](https://news.ycombinator.com/item?id=42829317) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -83,11 +71,23 @@ tags:
 
 ---
 
+## <a name="5"></a>5. 先锋集团不推出比特币ETF（2024） 
+<small>🔗 [corporate.vanguard.com](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/no-bitcoin-etfs-at-vanguard-heres-why.html): No Bitcoin ETFs at Vanguard (2024)</small>
+
+
+| 🔥🔥: 371 \| 💬: [492](https://news.ycombinator.com/item?id=42832026) \| 🗓️ 2025-01-26
+
+
+<br />
+先锋集团明确表示**不推出比特币ETF**，也不会在经纪平台提供加密货币相关产品。其决策基于**加密货币的投机属性**，认为其缺乏内在经济价值、现金流和稳定性，且**波动性极高**（比特币三年内涨幅达150%，跌幅达77%），可能破坏长期投资组合。先锋坚持**长期投资理念**，过去曾下架杠杆基金和场外股票，此次决定延续其一贯原则，优先考虑客户利益而非市场趋势。
+
+---
+
 ## <a name="6"></a>6. 堪萨斯州结核病疫情成为美国有记录以来最大规模 
 <small>🔗 [cjonline.com](https://www.cjonline.com/story/news/politics/government/2025/01/24/kansas-tuberculosis-outbreak-is-largest-in-recorded-history-in-u-s/77881467007/): Kansas tuberculosis outbreak is America's largest recorded since the 1950s</small>
 
 
-| 🔥🔥: 334 \| 💬: [249](https://news.ycombinator.com/item?id=42835183) \| 🗓️ 2025-01-26
+| 🔥🔥: 345 \| 💬: [259](https://news.ycombinator.com/item?id=42835183) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [marginalia-search.com](https://marginalia-search.com/): Marginalia – A search engine that prioritizes non-commercial content</small>
 
 
-| 🔥🔥: 262 \| 💬: [24](https://news.ycombinator.com/item?id=42836405) \| 🗓️ 2025-01-26
+| 🔥🔥: 289 \| 💬: [25](https://news.ycombinator.com/item?id=42836405) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -111,7 +111,7 @@ Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引
 <small>🔗 [jasonthorsness.com](https://www.jasonthorsness.com/20): Show HN: DeepSeek My User Agent</small>
 
 
-| 🔥🔥: 251 \| 💬: [99](https://news.ycombinator.com/item?id=42834648) \| 🗓️ 2025-01-26
+| 🔥🔥: 265 \| 💬: [101](https://news.ycombinator.com/item?id=42834648) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -123,7 +123,7 @@ Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引
 <small>🔗 [economictimes.indiatimes.com](https://economictimes.indiatimes.com/tech/technology/brazil-bans-sam-altmans-tech-firm-tools-for-humanity-from-paying-for-iris-scans/articleshow/117540826.cms?from=mdr): Brazil bans Sam Altman's tech firm Tools for Humanity from paying for iris scans</small>
 
 
-| 🔥🔥: 212 \| 💬: [52](https://news.ycombinator.com/item?id=42834432) \| 🗓️ 2025-01-26
+| 🔥🔥: 215 \| 💬: [52](https://news.ycombinator.com/item?id=42834432) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -135,7 +135,7 @@ Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引
 <small>🔗 [sf.gazetteer.co](https://sf.gazetteer.co/a-former-tech-ceo-is-on-a-crusade-to-get-the-record-of-his-arrest-removed-from-the-internet): Former tech CEO suing to get the record of his arrest removed from the internet</small>
 
 
-| 🔥🔥: 208 \| 💬: [149](https://news.ycombinator.com/item?id=42833193) \| 🗓️ 2025-01-26
+| 🔥🔥: 210 \| 💬: [149](https://news.ycombinator.com/item?id=42833193) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -143,23 +143,11 @@ Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引
 
 ---
 
-## <a name="11"></a>11. 当AI承诺加速开发却带来调试噩梦 
-<small>🔗 [nsavage.substack.com](https://nsavage.substack.com/p/when-ai-promises-speed-but-delivers): When AI promises speed but delivers debugging hell</small>
-
-
-| 🔥🔥: 196 \| 💬: [244](https://news.ycombinator.com/item?id=42829466) \| 🗓️ 2025-01-26
-
-
-<br />
-开发者Nick Savage分享构建实时协作编辑器Codescribble的经历，初期依赖**Claude 3.5 Sonnet生成代码**快速完成80%功能，却在部署阶段陷入调试泥潭：**硬编码错误**、**环境变量配置混乱**导致Docker部署多次崩溃。尽管AI能加速原型开发，但**对底层技术（如Docker）缺乏理解**使问题复杂化。最终通过手动修复与学习克服难关，总结出“保持全局视野”“避免过度依赖AI”等教训，并上线了轻量级协作工具Codescribble。
-
----
-
-## <a name="12"></a>12. 天文学家删除“小行星”记录，实为马斯克的特斯拉跑车 
+## <a name="11"></a>11. 天文学家删除“小行星”记录，实为马斯克的特斯拉跑车 
 <small>🔗 [astronomy.com](https://www.astronomy.com/science/astronomers-just-deleted-an-asteroid-because-it-turned-out-to-be-elon-musks-tesla-roadster/): Astronomers delete asteroid because it turned out to be Tesla Roadster</small>
 
 
-| 🔥🔥: 193 \| 💬: [60](https://news.ycombinator.com/item?id=42834043) \| 🗓️ 2025-01-26
+| 🔥🔥: 202 \| 💬: [61](https://news.ycombinator.com/item?id=42834043) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -167,23 +155,23 @@ Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引
 
 ---
 
-## <a name="13"></a>13. 马克·扎克伯格：懦夫的真面目 
-<small>🔗 [theindex.media](https://www.theindex.media/this-man-is-a-coward/): Mark Zuckerberg: This Man Is a Coward</small>
+## <a name="12"></a>12. 当AI承诺加速开发却带来调试噩梦 
+<small>🔗 [nsavage.substack.com](https://nsavage.substack.com/p/when-ai-promises-speed-but-delivers): When AI promises speed but delivers debugging hell</small>
 
 
-| 🔥🔥: 183 \| 💬: [76](https://news.ycombinator.com/item?id=42834911) \| 🗓️ 2025-01-26
+| 🔥🔥: 196 \| 💬: [245](https://news.ycombinator.com/item?id=42829466) \| 🗓️ 2025-01-26
 
 
 <br />
-文章痛批扎克伯格面对特朗普政府削弱美国国立卫生研究院（NIH）时保持沉默，**放任40亿美元科研资金冻结**，却加速迎合特朗普的政治需求。Meta内部多项政策转向：取消事实核查、削减内容审核、废除多元化计划，并**为特朗普量身定制平台特权**。作者揭露其通过“男子气概”人设包装怯懦本质，批判他利用财富与权力向威权主义屈膝，成为企业界妥协的负面范本。最终直指其本质——**手握全球顶级资源却选择卑躬屈膝的懦夫**，历史必将铭记这份精神阉割。
+开发者Nick Savage分享构建实时协作编辑器Codescribble的经历，初期依赖**Claude 3.5 Sonnet生成代码**快速完成80%功能，却在部署阶段陷入调试泥潭：**硬编码错误**、**环境变量配置混乱**导致Docker部署多次崩溃。尽管AI能加速原型开发，但**对底层技术（如Docker）缺乏理解**使问题复杂化。最终通过手动修复与学习克服难关，总结出“保持全局视野”“避免过度依赖AI”等教训，并上线了轻量级协作工具Codescribble。
 
 ---
 
-## <a name="14"></a>14. Purelymail：低价简洁的电子邮件服务 
+## <a name="13"></a>13. Purelymail：低价简洁的电子邮件服务 
 <small>🔗 [purelymail.com](https://purelymail.com/): Purelymail: Cheap, no-nonsense email</small>
 
 
-| 🔥🔥: 176 \| 💬: [88](https://news.ycombinator.com/item?id=42836818) \| 🗓️ 2025-01-26
+| 🔥🔥: 195 \| 💬: [114](https://news.ycombinator.com/item?id=42836818) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -191,35 +179,23 @@ Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引
 
 ---
 
-## <a name="15"></a>15. Qwen2.5-1M：部署支持百万token上下文的自有模型 
-<small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwen2.5-1m/): Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens</small>
+## <a name="14"></a>14. 马克·扎克伯格：懦夫的真面目 
+<small>🔗 [theindex.media](https://www.theindex.media/this-man-is-a-coward/): Mark Zuckerberg: This Man Is a Coward</small>
 
 
-| 🔥🔥: 165 \| 💬: [64](https://news.ycombinator.com/item?id=42831769) \| 🗓️ 2025-01-26
-
-
-<br />
-阿里云推出开源大模型**Qwen2.5-7B/14B-Instruct-1M**，支持**百万token超长上下文**处理，配套基于vLLM优化的推理框架，预填充速度提升3-7倍。模型通过渐进式训练与**Dual Chunk Attention**技术，在长文本任务中显著优于128K版本，短文本性能持平原版。部署需多GPU高显存环境，提供本地API调用方案，并开源技术报告详述训练框架与稀疏注意力优化细节。
-
----
-
-## <a name="16"></a>16. 波罗的海再传海底电缆遭损毁 拉脱维亚派军舰应对 
-<small>🔗 [france24.com](https://www.france24.com/en/europe/20250126-another-undersea-cable-damaged-in-baltic-sea-latvia-dispatches-warship): Another undersea cable damaged in Baltic Sea</small>
-
-
-| 🔥🔥: 148 \| 💬: [116](https://news.ycombinator.com/item?id=42833491) \| 🗓️ 2025-01-26
+| 🔥🔥: 186 \| 💬: [78](https://news.ycombinator.com/item?id=42834911) \| 🗓️ 2025-01-26
 
 
 <br />
-瑞典与拉脱维亚间**海底通信电缆**在波罗的海受损，拉脱维亚派军舰前往。涉事海域附近发现可疑船只"Michalis San"正驶向俄罗斯。近期该区域多次发生类似事件，北约已启动监测任务加强防御。事故导致数据传输中断，欧盟主席表态支持受损国家。
+文章痛批扎克伯格面对特朗普政府削弱美国国立卫生研究院（NIH）时保持沉默，**放任40亿美元科研资金冻结**，却加速迎合特朗普的政治需求。Meta内部多项政策转向：取消事实核查、削减内容审核、废除多元化计划，并**为特朗普量身定制平台特权**。作者揭露其通过“男子气概”人设包装怯懦本质，批判他利用财富与权力向威权主义屈膝，成为企业界妥协的负面范本。最终直指其本质——**手握全球顶级资源却选择卑躬屈膝的懦夫**，历史必将铭记这份精神阉割。
 
 ---
 
-## <a name="17"></a>17. OpenHaystack：利用苹果Find My网络构建追踪蓝牙设备的开源框架 
+## <a name="15"></a>15. OpenHaystack：利用苹果Find My网络构建追踪蓝牙设备的开源框架 
 <small>🔗 [github.com](https://github.com/seemoo-lab/openhaystack): Openhaystack: Build 'AirTags' – track Bluetooth devices via Apple's network</small>
 
 
-| 🔥🔥: 141 \| 💬: [25](https://news.ycombinator.com/item?id=42835772) \| 🗓️ 2025-01-26
+| 🔥🔥: 180 \| 💬: [36](https://news.ycombinator.com/item?id=42835772) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -227,11 +203,35 @@ Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引
 
 ---
 
+## <a name="16"></a>16. Qwen2.5-1M：部署支持百万token上下文的自有模型 
+<small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwen2.5-1m/): Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens</small>
+
+
+| 🔥🔥: 177 \| 💬: [67](https://news.ycombinator.com/item?id=42831769) \| 🗓️ 2025-01-26
+
+
+<br />
+阿里云推出开源大模型**Qwen2.5-7B/14B-Instruct-1M**，支持**百万token超长上下文**处理，配套基于vLLM优化的推理框架，预填充速度提升3-7倍。模型通过渐进式训练与**Dual Chunk Attention**技术，在长文本任务中显著优于128K版本，短文本性能持平原版。部署需多GPU高显存环境，提供本地API调用方案，并开源技术报告详述训练框架与稀疏注意力优化细节。
+
+---
+
+## <a name="17"></a>17. 波罗的海再传海底电缆遭损毁 拉脱维亚派军舰应对 
+<small>🔗 [france24.com](https://www.france24.com/en/europe/20250126-another-undersea-cable-damaged-in-baltic-sea-latvia-dispatches-warship): Another undersea cable damaged in Baltic Sea</small>
+
+
+| 🔥🔥: 154 \| 💬: [120](https://news.ycombinator.com/item?id=42833491) \| 🗓️ 2025-01-26
+
+
+<br />
+瑞典与拉脱维亚间**海底通信电缆**在波罗的海受损，拉脱维亚派军舰前往。涉事海域附近发现可疑船只"Michalis San"正驶向俄罗斯。近期该区域多次发生类似事件，北约已启动监测任务加强防御。事故导致数据传输中断，欧盟主席表态支持受损国家。
+
+---
+
 ## <a name="18"></a>18. 打造值得珍藏的家庭影像：跨越时光的拍摄启示录（2018） 
 <small>🔗 [estherschindler.medium.com](https://estherschindler.medium.com/the-old-family-photos-project-lessons-in-creating-family-photos-that-people-want-to-keep-ea3909129943): Lessons in creating family photos that people want to keep (2018)</small>
 
 
-| 🔥🔥: 124 \| 💬: [33](https://news.ycombinator.com/item?id=42835282) \| 🗓️ 2025-01-26
+| 🔥🔥: 154 \| 💬: [44](https://news.ycombinator.com/item?id=42835282) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -251,14 +251,14 @@ Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引
 
 ---
 
-## <a name="20"></a>20. 无人撼动大银行地位——至少目前如此 
-<small>🔗 [popularfintech.com](https://www.popularfintech.com/p/no-one-is-disrupting-banks): No one is disrupting banks – at least not the big ones</small>
+## <a name="20"></a>20. 唯一一张协和式超音速飞行照片 
+<small>🔗 [petapixel.com](https://petapixel.com/2025/01/25/photo-concorde-supersonic-speed-mach-2/): The only photo of the Concorde flying at supersonic speed</small>
 
 
-| 🔥🔥: 117 \| 💬: [192](https://news.ycombinator.com/item?id=42830155) \| 🗓️ 2025-01-26
+| 🔥🔥: 122 \| 💬: [88](https://news.ycombinator.com/item?id=42834341) \| 🗓️ 2025-01-26
 
 
 <br />
-尽管金融科技公司尝试近30年，**核心业务模式（吸收存款和发放贷款）未被撼动**。美国大银行2024年业绩稳健，存款与信贷规模持续增长。Fintech在支付、跨境汇款等领域取得进展，但**大型银行通过移动端布局和超高盈利能力（如摩根大通30% ROE）保持优势**。部分挑战者（如Affirm、Robinhood）在信用卡市场表现有限，传统巨头仍主导市场。未来颠覆或需**世代更迭或共存模式**，但短期内大银行地位稳固。
+**协和式客机**是史上最快商用飞机，巡航速度达**2.04马赫**（约1354英里/小时）。1985年4月，英国皇家空军派出一架**龙卷风战斗机**与协和式在爱尔兰海上空汇合，摄影师Adrian Meredith抓住短暂窗口拍下其超音速飞行的唯一照片。由于燃料限制，龙卷风仅能维持4分钟编队飞行。协和式1976年投入运营，2003年退役，主因包括2000年法航空难、9·11事件后航空业衰退及维护成本过高。这款由英法联合研制的超音速传奇共生产20架，曾创纽约至伦敦2小时52分的跨大西洋纪录。
 
 ---
