@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共19条，具体内容您往下读...
+总共20条，具体内容您往下读...
 
 
 ![](/assets/images/hacker_news.jpg)
@@ -26,7 +26,7 @@ tags:
 <small>🔗 [pluralistic.net](https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading): It's not a crime if we do it with an app</small>
 
 
-| 🔥🔥: 790 \| 💬: [518](https://news.ycombinator.com/item?id=42830646) \| 🗓️ 2025-01-26
+| 🔥🔥: 799 \| 💬: [525](https://news.ycombinator.com/item?id=42830646) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [corporate.vanguard.com](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/no-bitcoin-etfs-at-vanguard-heres-why.html): No Bitcoin ETFs at Vanguard (2024)</small>
 
 
-| 🔥🔥: 340 \| 💬: [458](https://news.ycombinator.com/item?id=42832026) \| 🗓️ 2025-01-26
+| 🔥🔥: 353 \| 💬: [467](https://news.ycombinator.com/item?id=42832026) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [mort.coffee](https://mort.coffee/home/wayland-input-latency/): Hard numbers in the Wayland vs. X11 input latency discussion</small>
 
 
-| 🔥🔥: 324 \| 💬: [201](https://news.ycombinator.com/item?id=42831509) \| 🗓️ 2025-01-26
+| 🔥🔥: 343 \| 💬: [229](https://news.ycombinator.com/item?id=42831509) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -62,7 +62,7 @@ tags:
 <small>🔗 [zdnet.com](https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/): The Microsoft 365 Copilot launch was a disaster</small>
 
 
-| 🔥🔥: 250 \| 💬: [224](https://news.ycombinator.com/item?id=42831281) \| 🗓️ 2025-01-26
+| 🔥🔥: 272 \| 💬: [257](https://news.ycombinator.com/item?id=42831281) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -74,7 +74,7 @@ tags:
 <small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/): The protester's guide to smartphone security</small>
 
 
-| 🔥🔥: 220 \| 💬: [110](https://news.ycombinator.com/item?id=42829317) \| 🗓️ 2025-01-26
+| 🔥🔥: 246 \| 💬: [119](https://news.ycombinator.com/item?id=42829317) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -86,7 +86,7 @@ tags:
 <small>🔗 [nsavage.substack.com](https://nsavage.substack.com/p/when-ai-promises-speed-but-delivers): When AI promises speed but delivers debugging hell</small>
 
 
-| 🔥🔥: 192 \| 💬: [232](https://news.ycombinator.com/item?id=42829466) \| 🗓️ 2025-01-26
+| 🔥🔥: 192 \| 💬: [234](https://news.ycombinator.com/item?id=42829466) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -98,7 +98,7 @@ tags:
 <small>🔗 [sf.gazetteer.co](https://sf.gazetteer.co/a-former-tech-ceo-is-on-a-crusade-to-get-the-record-of-his-arrest-removed-from-the-internet): Former tech CEO suing to get the record of his arrest removed from the internet</small>
 
 
-| 🔥🔥: 171 \| 💬: [119](https://news.ycombinator.com/item?id=42833193) \| 🗓️ 2025-01-26
+| 🔥🔥: 181 \| 💬: [130](https://news.ycombinator.com/item?id=42833193) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -106,11 +106,47 @@ tags:
 
 ---
 
-## <a name="8"></a>8. Paxo：一部可自制的开源手机 
+## <a name="8"></a>8. 巴西禁止Sam Altman旗下公司以加密货币换取虹膜扫描 
+<small>🔗 [economictimes.indiatimes.com](https://economictimes.indiatimes.com/tech/technology/brazil-bans-sam-altmans-tech-firm-tools-for-humanity-from-paying-for-iris-scans/articleshow/117540826.cms?from=mdr): Brazil bans Sam Altman's tech firm Tools for Humanity from paying for iris scans</small>
+
+
+| 🔥🔥: 173 \| 💬: [35](https://news.ycombinator.com/item?id=42834432) \| 🗓️ 2025-01-26
+
+
+<br />
+巴西数据保护机构**ANPD**要求**Tools for Humanity**（由OpenAI CEO联合创立）立即停止通过**加密货币补偿**获取用户虹膜数据。该禁令为预防措施，认为经济激励可能影响个人自愿性。涉事公司运营的“World项目”旨在通过虹膜扫描建立全球身份系统，其巴西团队称服务合法合规，但ANPD已启动调查并要求公开数据处理责任人。此前，该公司在西班牙、葡萄牙等地亦因数据收集引发争议。
+
+---
+
+## <a name="9"></a>9. Show HN: 深度探索我的用户代理 
+<small>🔗 [jasonthorsness.com](https://www.jasonthorsness.com/20): Show HN: DeepSeek My User Agent</small>
+
+
+| 🔥🔥: 160 \| 💬: [64](https://news.ycombinator.com/item?id=42834648) \| 🗓️ 2025-01-26
+
+
+<br />
+全新推出的**DeepSeek R1模型服务**支持思维链交互，用户可免费在线体验，或通过显著低于OpenAI的API接入。点击**“Judge Me”功能**可实时解析浏览器UA信息、设备能力及IP属地，以模型视角评估用户数据隐私风险。
+
+---
+
+## <a name="10"></a>10. 马克·扎克伯格：懦夫的真面目 
+<small>🔗 [theindex.media](https://www.theindex.media/this-man-is-a-coward/): Mark Zuckerberg: This Man Is a Coward</small>
+
+
+| 🔥🔥: 159 \| 💬: [49](https://news.ycombinator.com/item?id=42834911) \| 🗓️ 2025-01-26
+
+
+<br />
+文章痛批扎克伯格面对特朗普政府削弱美国国立卫生研究院（NIH）时保持沉默，**放任40亿美元科研资金冻结**，却加速迎合特朗普的政治需求。Meta内部多项政策转向：取消事实核查、削减内容审核、废除多元化计划，并**为特朗普量身定制平台特权**。作者揭露其通过“男子气概”人设包装怯懦本质，批判他利用财富与权力向威权主义屈膝，成为企业界妥协的负面范本。最终直指其本质——**手握全球顶级资源却选择卑躬屈膝的懦夫**，历史必将铭记这份精神阉割。
+
+---
+
+## <a name="11"></a>11. Paxo：一部可自制的开源手机 
 <small>🔗 [paxo.fr](https://paxo.fr/): Paxo: A DIY Phone</small>
 
 
-| 🔥🔥: 117 \| 💬: [31](https://news.ycombinator.com/item?id=42829279) \| 🗓️ 2025-01-26
+| 🔥🔥: 118 \| 💬: [31](https://news.ycombinator.com/item?id=42829279) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -118,11 +154,11 @@ tags:
 
 ---
 
-## <a name="9"></a>9. 波罗的海再传海底电缆遭损毁 拉脱维亚派军舰应对 
+## <a name="12"></a>12. 波罗的海再传海底电缆遭损毁 拉脱维亚派军舰应对 
 <small>🔗 [france24.com](https://www.france24.com/en/europe/20250126-another-undersea-cable-damaged-in-baltic-sea-latvia-dispatches-warship): Another undersea cable damaged in Baltic Sea</small>
 
 
-| 🔥🔥: 102 \| 💬: [76](https://news.ycombinator.com/item?id=42833491) \| 🗓️ 2025-01-26
+| 🔥🔥: 118 \| 💬: [91](https://news.ycombinator.com/item?id=42833491) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -130,7 +166,31 @@ tags:
 
 ---
 
-## <a name="10"></a>10. Qwen2.5-1M：支持百万上下文长度的开源大模型发布 
+## <a name="13"></a>13. Qwen2.5-1M：部署支持百万token上下文的自有模型 
+<small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwen2.5-1m/): Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens</small>
+
+
+| 🔥🔥: 104 \| 💬: [54](https://news.ycombinator.com/item?id=42831769) \| 🗓️ 2025-01-26
+
+
+<br />
+阿里云推出开源大模型**Qwen2.5-7B/14B-Instruct-1M**，支持**百万token超长上下文**处理，配套基于vLLM优化的推理框架，预填充速度提升3-7倍。模型通过渐进式训练与**Dual Chunk Attention**技术，在长文本任务中显著优于128K版本，短文本性能持平原版。部署需多GPU高显存环境，提供本地API调用方案，并开源技术报告详述训练框架与稀疏注意力优化细节。
+
+---
+
+## <a name="14"></a>14. 天文学家删除“小行星”记录，实为马斯克的特斯拉跑车 
+<small>🔗 [astronomy.com](https://www.astronomy.com/science/astronomers-just-deleted-an-asteroid-because-it-turned-out-to-be-elon-musks-tesla-roadster/): Astronomers delete asteroid because it turned out to be Tesla Roadster</small>
+
+
+| 🔥: 99 \| 💬: [23](https://news.ycombinator.com/item?id=42834043) \| 🗓️ 2025-01-26
+
+
+<br />
+天文学家最初将**2018 CN41**误判为近地小行星，后证实其为SpaceX猎鹰重型火箭发射的**特斯拉Roadster跑车**。该物体因轨道异常引发关注，但公民科学家与专业团队协作迅速纠错，凸显**深空人造物体追踪缺失**问题。随着各国深空任务增多，未公开的飞行轨迹可能干扰小行星监测，甚至影响防御计划。国际天文学联合会呼吁建立公共数据库，但当前深空仍属“监管盲区”。此次事件也体现公民科学在发现与纠偏中的关键作用。
+
+---
+
+## <a name="15"></a>15. Qwen2.5-1M：支持百万上下文长度的开源大模型发布 
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Jan/26/qwen25-1m/): Qwen2.5-7B-Instruct-1M and Qwen2.5-14B-Instruct-1M</small>
 
 
@@ -142,11 +202,11 @@ tags:
 
 ---
 
-## <a name="11"></a>11. 我打造了一辆全向球形轮自行车 [视频] 
+## <a name="16"></a>16. 我打造了一辆全向球形轮自行车 [视频] 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=ZVFB2g25OkM): I Built an Omni-Directional Ball-Wheeled Bike [video]</small>
 
 
-| 🔥: 94 \| 💬: [10](https://news.ycombinator.com/item?id=42830654) \| 🗓️ 2025-01-26
+| 🔥: 96 \| 💬: [11](https://news.ycombinator.com/item?id=42830654) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -154,35 +214,11 @@ tags:
 
 ---
 
-## <a name="12"></a>12. Qwen2.5-1M：部署支持百万token上下文的自有模型 
-<small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwen2.5-1m/): Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens</small>
-
-
-| 🔥: 81 \| 💬: [52](https://news.ycombinator.com/item?id=42831769) \| 🗓️ 2025-01-26
-
-
-<br />
-阿里云推出开源大模型**Qwen2.5-7B/14B-Instruct-1M**，支持**百万token超长上下文**处理，配套基于vLLM优化的推理框架，预填充速度提升3-7倍。模型通过渐进式训练与**Dual Chunk Attention**技术，在长文本任务中显著优于128K版本，短文本性能持平原版。部署需多GPU高显存环境，提供本地API调用方案，并开源技术报告详述训练框架与稀疏注意力优化细节。
-
----
-
-## <a name="13"></a>13. 我不喜欢Docker与Podman 
-<small>🔗 [blog.liw.fi](https://blog.liw.fi/posts/2025/docker/): I don't like Docker or Podman</small>
-
-
-| 🔥: 80 \| 💬: [69](https://news.ycombinator.com/item?id=42834164) \| 🗓️ 2025-01-26
-
-
-<br />
-作者虽承认**Docker**与**Podman**在容器技术中的主流地位，但明确表达对两者的反感。他批评Docker安装常破坏网络配置、命令行设计混乱、文档难用且镜像存储位置隐蔽占用空间大，同时指责**Docker Hub**存在恶意软件与版权问题。Podman虽避免部分系统冲突，用户体验仍与Docker同样糟糕。作者更倾向使用虚拟机，认为其行为更接近真实硬件环境且限制较少，尽管启动较慢。全文强调个人偏好，无意说服他人改变选择。
-
----
-
-## <a name="14"></a>14. Render完成8000万美元C轮融资 
+## <a name="17"></a>17. Render完成8000万美元C轮融资 
 <small>🔗 [render.com](https://render.com/blog/series-c): Render raises $80M in Series C financing</small>
 
 
-| 🔥: 76 \| 💬: [77](https://news.ycombinator.com/item?id=42832696) \| 🗓️ 2025-01-26
+| 🔥: 84 \| 💬: [84](https://news.ycombinator.com/item?id=42832696) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -190,23 +226,23 @@ tags:
 
 ---
 
-## <a name="15"></a>15. 复兴已故音频格式：ZZM的回归 
-<small>🔗 [nicole.express](https://nicole.express/2025/zoo-of-zero-motivation.html): Reviving a Dead Audio Format: The Return of ZZM</small>
+## <a name="18"></a>18. 我不喜欢Docker与Podman 
+<small>🔗 [blog.liw.fi](https://blog.liw.fi/posts/2025/docker/): I don't like Docker or Podman</small>
 
 
-| 🔥: 67 \| 💬: [5](https://news.ycombinator.com/item?id=42831550) \| 🗓️ 2025-01-26
+| 🔥: 84 \| 💬: [71](https://news.ycombinator.com/item?id=42834164) \| 🗓️ 2025-01-26
 
 
 <br />
-基于1990年游戏ZZT的**ZZM音频格式**曾通过PC扬声器生成简单音乐，但因依赖MS-DOS逐渐消亡。作者通过JavaScript与**Web Audio API**重建播放器，逆向工程还原了ZZT的方波音效生成逻辑，包括基于自然对数计算的独特音阶系统。项目克服了原始代码丢失与**PC扬声器方波**仿真的技术挑战，成功在现代浏览器中复活了这种复古音频格式，并再现了鼓点等特殊音效的数字化处理过程。
+作者虽承认**Docker**与**Podman**在容器技术中的主流地位，但明确表达对两者的反感。他批评Docker安装常破坏网络配置、命令行设计混乱、文档难用且镜像存储位置隐蔽占用空间大，同时指责**Docker Hub**存在恶意软件与版权问题。Podman虽避免部分系统冲突，用户体验仍与Docker同样糟糕。作者更倾向使用虚拟机，认为其行为更接近真实硬件环境且限制较少，尽管启动较慢。全文强调个人偏好，无意说服他人改变选择。
 
 ---
 
-## <a name="16"></a>16. 无人撼动大银行地位——至少目前如此 
+## <a name="19"></a>19. 无人撼动大银行地位——至少目前如此 
 <small>🔗 [popularfintech.com](https://www.popularfintech.com/p/no-one-is-disrupting-banks): No one is disrupting banks – at least not the big ones</small>
 
 
-| 🔥: 64 \| 💬: [91](https://news.ycombinator.com/item?id=42830155) \| 🗓️ 2025-01-26
+| 🔥: 75 \| 💬: [120](https://news.ycombinator.com/item?id=42830155) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -214,38 +250,14 @@ tags:
 
 ---
 
-## <a name="17"></a>17. 奥斯汀租金持续下跌近两年 
-<small>🔗 [texastribune.org](https://www.texastribune.org/2025/01/22/austin-texas-rents-falling/): Austin rents have fallen for nearly two years</small>
+## <a name="20"></a>20. 复兴已故音频格式：ZZM的回归 
+<small>🔗 [nicole.express](https://nicole.express/2025/zoo-of-zero-motivation.html): Reviving a Dead Audio Format: The Return of ZZM</small>
 
 
-| 🔥: 51 \| 💬: [53](https://news.ycombinator.com/item?id=42832132) \| 🗓️ 2025-01-26
-
-
-<br />
-受**公寓建设热潮**推动，奥斯汀租金连续19个月下降，现中位数约1,645美元，仍高于疫情前但低于峰值。周边郊区同步走低，主因是**供过于求**——当地2012-2023年公寓许可量远超全美主要都市。政策转向支持新建住房加剧竞争，房东通过降价、免租期留客。尽管租金回落，仍比疫情前高17%，近半数租户支出超收入30%，**住房负担压力**未解。奥斯汀租金现低于沃斯堡，但高房价、驱逐率上升及无家可归者增加凸显深层矛盾。
-
----
-
-## <a name="18"></a>18. 阿根廷观察笔记 
-<small>🔗 [jorgevelez.substack.com](https://jorgevelez.substack.com/p/notes-on-argentina): Notes on Argentina</small>
-
-
-| 🔥: 47 \| 💬: [56](https://news.ycombinator.com/item?id=42831517) \| 🗓️ 2025-01-26
+| 🔥: 71 \| 💬: [5](https://news.ycombinator.com/item?id=42831550) \| 🗓️ 2025-01-26
 
 
 <br />
-作者分享2024年12月赴阿根廷蜜月旅行的见闻，聚焦**米莱政府**经济改革的影响。乌斯怀亚因政府缩编出现失业潮，美元黑市汇率与官方差距缩小至10%；埃尔查尔滕物价飙升，反映保护主义遗留问题与**美元蓝汇率**取消的冲击。布宜诺斯艾利斯街头摊贩激增，凸显底层生计压力，但城市活力依旧。多数受访者对改革持谨慎乐观，认可**经济改革**的必要性，尽管短期阵痛明显。米莱政策初步稳定货币、削减赤字，长期效果待观察。
-
----
-
-## <a name="19"></a>19. 警告：若特朗普放任私募股权自由发展将引发“灾难性后果” 
-<small>🔗 [ft.com](https://www.ft.com/content/ed2ad30a-1e24-4f78-9f1d-4cfc8c170cba): Warn of 'catastrophic consequences' if US gives free hand to private equity</small>
-
-
-| 🔥: 45 \| 💬: [7](https://news.ycombinator.com/item?id=42829504) \| 🗓️ 2025-01-26
-
-
-<br />
-美国联邦贸易委员会（FTC）主席**莉娜·可汗**严厉指出，若特朗普政府放松对私募股权的监管，可能导致**市场垄断加剧**，损害消费者与工人权益。她强调私募基金通过收购企业后常采取裁员、涨价等策略牟利，呼吁加强**反垄断执法**以遏制资本无序扩张。此举被视为对共和党可能推动的“去监管化”政策的直接回应。
+基于1990年游戏ZZT的**ZZM音频格式**曾通过PC扬声器生成简单音乐，但因依赖MS-DOS逐渐消亡。作者通过JavaScript与**Web Audio API**重建播放器，逆向工程还原了ZZT的方波音效生成逻辑，包括基于自然对数计算的独特音阶系统。项目克服了原始代码丢失与**PC扬声器方波**仿真的技术挑战，成功在现代浏览器中复活了这种复古音频格式，并再现了鼓点等特殊音效的数字化处理过程。
 
 ---
