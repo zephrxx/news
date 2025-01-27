@@ -26,7 +26,7 @@ tags:
 <small>🔗 [pluralistic.net](https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading): It's not a crime if we do it with an app</small>
 
 
-| 🔥🔥: 807 \| 💬: [538](https://news.ycombinator.com/item?id=42830646) \| 🗓️ 2025-01-26
+| 🔥🔥: 810 \| 💬: [542](https://news.ycombinator.com/item?id=42830646) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -38,7 +38,7 @@ tags:
 <small>🔗 [mort.coffee](https://mort.coffee/home/wayland-input-latency/): Hard numbers in the Wayland vs. X11 input latency discussion</small>
 
 
-| 🔥🔥: 376 \| 💬: [248](https://news.ycombinator.com/item?id=42831509) \| 🗓️ 2025-01-26
+| 🔥🔥: 383 \| 💬: [265](https://news.ycombinator.com/item?id=42831509) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -50,7 +50,7 @@ tags:
 <small>🔗 [corporate.vanguard.com](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/no-bitcoin-etfs-at-vanguard-heres-why.html): No Bitcoin ETFs at Vanguard (2024)</small>
 
 
-| 🔥🔥: 358 \| 💬: [483](https://news.ycombinator.com/item?id=42832026) \| 🗓️ 2025-01-26
+| 🔥🔥: 360 \| 💬: [483](https://news.ycombinator.com/item?id=42832026) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -62,7 +62,7 @@ tags:
 <small>🔗 [zdnet.com](https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/): The Microsoft 365 Copilot launch was a disaster</small>
 
 
-| 🔥🔥: 312 \| 💬: [299](https://news.ycombinator.com/item?id=42831281) \| 🗓️ 2025-01-26
+| 🔥🔥: 329 \| 💬: [316](https://news.ycombinator.com/item?id=42831281) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -74,7 +74,7 @@ tags:
 <small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/): The protester's guide to smartphone security</small>
 
 
-| 🔥🔥: 281 \| 💬: [140](https://news.ycombinator.com/item?id=42829317) \| 🗓️ 2025-01-26
+| 🔥🔥: 304 \| 💬: [157](https://news.ycombinator.com/item?id=42829317) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -82,11 +82,23 @@ tags:
 
 ---
 
-## <a name="6"></a>6. Show HN: 深度探索我的用户代理 
+## <a name="6"></a>6. 堪萨斯州结核病疫情成为美国有记录以来最大规模 
+<small>🔗 [cjonline.com](https://www.cjonline.com/story/news/politics/government/2025/01/24/kansas-tuberculosis-outbreak-is-largest-in-recorded-history-in-u-s/77881467007/): Kansas tuberculosis outbreak is now America's largest in recorded history</small>
+
+
+| 🔥🔥: 248 \| 💬: [185](https://news.ycombinator.com/item?id=42835183) \| 🗓️ 2025-01-26
+
+
+<br />
+美国堪萨斯州暴发**有记录以来最大规模结核病疫情**，截至2024年1月已发现66例活跃病例与79例潜伏感染，主要集中在堪萨斯城都会区。卫生部门表示此次爆发规模因病例增速快且仍在持续，需与联邦疾控中心协同防控。患者经10天药物治疗后通常不再具传染性，但完整疗程需数月。目前活跃病例已从高峰期的65例降至32例，**公众感染风险极低**。该疫情为1950年代美国建立结核病监测系统后的最大纪录。
+
+---
+
+## <a name="7"></a>7. Show HN: 深度探索我的用户代理 
 <small>🔗 [jasonthorsness.com](https://www.jasonthorsness.com/20): Show HN: DeepSeek My User Agent</small>
 
 
-| 🔥🔥: 206 \| 💬: [85](https://news.ycombinator.com/item?id=42834648) \| 🗓️ 2025-01-26
+| 🔥🔥: 217 \| 💬: [90](https://news.ycombinator.com/item?id=42834648) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -94,23 +106,11 @@ tags:
 
 ---
 
-## <a name="7"></a>7. 当AI承诺加速开发却带来调试噩梦 
-<small>🔗 [nsavage.substack.com](https://nsavage.substack.com/p/when-ai-promises-speed-but-delivers): When AI promises speed but delivers debugging hell</small>
-
-
-| 🔥🔥: 195 \| 💬: [238](https://news.ycombinator.com/item?id=42829466) \| 🗓️ 2025-01-26
-
-
-<br />
-开发者Nick Savage分享构建实时协作编辑器Codescribble的经历，初期依赖**Claude 3.5 Sonnet生成代码**快速完成80%功能，却在部署阶段陷入调试泥潭：**硬编码错误**、**环境变量配置混乱**导致Docker部署多次崩溃。尽管AI能加速原型开发，但**对底层技术（如Docker）缺乏理解**使问题复杂化。最终通过手动修复与学习克服难关，总结出“保持全局视野”“避免过度依赖AI”等教训，并上线了轻量级协作工具Codescribble。
-
----
-
 ## <a name="8"></a>8. 前科技公司CEO起诉要求删除网络逮捕记录 
 <small>🔗 [sf.gazetteer.co](https://sf.gazetteer.co/a-former-tech-ceo-is-on-a-crusade-to-get-the-record-of-his-arrest-removed-from-the-internet): Former tech CEO suing to get the record of his arrest removed from the internet</small>
 
 
-| 🔥🔥: 193 \| 💬: [139](https://news.ycombinator.com/item?id=42833193) \| 🗓️ 2025-01-26
+| 🔥🔥: 201 \| 💬: [144](https://news.ycombinator.com/item?id=42833193) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -122,7 +122,7 @@ tags:
 <small>🔗 [economictimes.indiatimes.com](https://economictimes.indiatimes.com/tech/technology/brazil-bans-sam-altmans-tech-firm-tools-for-humanity-from-paying-for-iris-scans/articleshow/117540826.cms?from=mdr): Brazil bans Sam Altman's tech firm Tools for Humanity from paying for iris scans</small>
 
 
-| 🔥🔥: 192 \| 💬: [48](https://news.ycombinator.com/item?id=42834432) \| 🗓️ 2025-01-26
+| 🔥🔥: 198 \| 💬: [49](https://news.ycombinator.com/item?id=42834432) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -130,15 +130,15 @@ tags:
 
 ---
 
-## <a name="10"></a>10. 堪萨斯州结核病疫情成为美国有记录以来最大规模 
-<small>🔗 [cjonline.com](https://www.cjonline.com/story/news/politics/government/2025/01/24/kansas-tuberculosis-outbreak-is-largest-in-recorded-history-in-u-s/77881467007/): Kansas tuberculosis outbreak is now America's largest in recorded history</small>
+## <a name="10"></a>10. 当AI承诺加速开发却带来调试噩梦 
+<small>🔗 [nsavage.substack.com](https://nsavage.substack.com/p/when-ai-promises-speed-but-delivers): When AI promises speed but delivers debugging hell</small>
 
 
-| 🔥🔥: 188 \| 💬: [126](https://news.ycombinator.com/item?id=42835183) \| 🗓️ 2025-01-26
+| 🔥🔥: 195 \| 💬: [239](https://news.ycombinator.com/item?id=42829466) \| 🗓️ 2025-01-26
 
 
 <br />
-美国堪萨斯州暴发**有记录以来最大规模结核病疫情**，截至2024年1月已发现66例活跃病例与79例潜伏感染，主要集中在堪萨斯城都会区。卫生部门表示此次爆发规模因病例增速快且仍在持续，需与联邦疾控中心协同防控。患者经10天药物治疗后通常不再具传染性，但完整疗程需数月。目前活跃病例已从高峰期的65例降至32例，**公众感染风险极低**。该疫情为1950年代美国建立结核病监测系统后的最大纪录。
+开发者Nick Savage分享构建实时协作编辑器Codescribble的经历，初期依赖**Claude 3.5 Sonnet生成代码**快速完成80%功能，却在部署阶段陷入调试泥潭：**硬编码错误**、**环境变量配置混乱**导致Docker部署多次崩溃。尽管AI能加速原型开发，但**对底层技术（如Docker）缺乏理解**使问题复杂化。最终通过手动修复与学习克服难关，总结出“保持全局视野”“避免过度依赖AI”等教训，并上线了轻量级协作工具Codescribble。
 
 ---
 
@@ -146,7 +146,7 @@ tags:
 <small>🔗 [theindex.media](https://www.theindex.media/this-man-is-a-coward/): Mark Zuckerberg: This Man Is a Coward</small>
 
 
-| 🔥🔥: 175 \| 💬: [61](https://news.ycombinator.com/item?id=42834911) \| 🗓️ 2025-01-26
+| 🔥🔥: 178 \| 💬: [63](https://news.ycombinator.com/item?id=42834911) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -158,7 +158,7 @@ tags:
 <small>🔗 [astronomy.com](https://www.astronomy.com/science/astronomers-just-deleted-an-asteroid-because-it-turned-out-to-be-elon-musks-tesla-roadster/): Astronomers delete asteroid because it turned out to be Tesla Roadster</small>
 
 
-| 🔥🔥: 142 \| 💬: [51](https://news.ycombinator.com/item?id=42834043) \| 🗓️ 2025-01-26
+| 🔥🔥: 164 \| 💬: [54](https://news.ycombinator.com/item?id=42834043) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -170,7 +170,7 @@ tags:
 <small>🔗 [france24.com](https://www.france24.com/en/europe/20250126-another-undersea-cable-damaged-in-baltic-sea-latvia-dispatches-warship): Another undersea cable damaged in Baltic Sea</small>
 
 
-| 🔥🔥: 134 \| 💬: [109](https://news.ycombinator.com/item?id=42833491) \| 🗓️ 2025-01-26
+| 🔥🔥: 138 \| 💬: [110](https://news.ycombinator.com/item?id=42833491) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -178,23 +178,11 @@ tags:
 
 ---
 
-## <a name="14"></a>14. Paxo：一部可自制的开源手机 
-<small>🔗 [paxo.fr](https://paxo.fr/): Paxo: A DIY Phone</small>
-
-
-| 🔥🔥: 119 \| 💬: [32](https://news.ycombinator.com/item?id=42829279) \| 🗓️ 2025-01-26
-
-
-<br />
-15岁少年Gabriel Rochet用**30欧元成本**打造出**开源模块化手机**，提供硬件图纸与软件代码，支持非商用二次开发。该项目强调**自由学习与改造**，用户可定制功能并实践电子编程技能，同时倡导关注数字自由与设备可维修性。通过社区协作推动创新，兼具教学意义与环保理念。
-
----
-
-## <a name="15"></a>15. Qwen2.5-1M：部署支持百万token上下文的自有模型 
+## <a name="14"></a>14. Qwen2.5-1M：部署支持百万token上下文的自有模型 
 <small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwen2.5-1m/): Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens</small>
 
 
-| 🔥🔥: 118 \| 💬: [58](https://news.ycombinator.com/item?id=42831769) \| 🗓️ 2025-01-26
+| 🔥🔥: 126 \| 💬: [61](https://news.ycombinator.com/item?id=42831769) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -202,7 +190,55 @@ tags:
 
 ---
 
-## <a name="16"></a>16. 我打造了一辆全向球形轮自行车 [视频] 
+## <a name="15"></a>15. Paxo：一部可自制的开源手机 
+<small>🔗 [paxo.fr](https://paxo.fr/): Paxo: A DIY Phone</small>
+
+
+| 🔥🔥: 122 \| 💬: [33](https://news.ycombinator.com/item?id=42829279) \| 🗓️ 2025-01-26
+
+
+<br />
+15岁少年Gabriel Rochet用**30欧元成本**打造出**开源模块化手机**，提供硬件图纸与软件代码，支持非商用二次开发。该项目强调**自由学习与改造**，用户可定制功能并实践电子编程技能，同时倡导关注数字自由与设备可维修性。通过社区协作推动创新，兼具教学意义与环保理念。
+
+---
+
+## <a name="16"></a>16. 边际搜索——专注于非商业内容的搜索引擎 
+<small>🔗 [marginalia-search.com](https://marginalia-search.com/): Marginalia – A search engine that prioritizes non-commercial content</small>
+
+
+| 🔥🔥: 111 \| 💬: [15](https://news.ycombinator.com/item?id=42836405) \| 🗓️ 2025-01-26
+
+
+<br />
+Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引擎**聚焦非商业化内容**，提供探索网络、发现陈旧网站等工具，采用**开源技术**及自建索引与爬虫，摒弃AI或云端方案，默认**隐私保护**机制，过滤追踪与广告技术，不分享用户数据且不长期保留查询记录。
+
+---
+
+## <a name="17"></a>17. 无人撼动大银行地位——至少目前如此 
+<small>🔗 [popularfintech.com](https://www.popularfintech.com/p/no-one-is-disrupting-banks): No one is disrupting banks – at least not the big ones</small>
+
+
+| 🔥🔥: 101 \| 💬: [164](https://news.ycombinator.com/item?id=42830155) \| 🗓️ 2025-01-26
+
+
+<br />
+尽管金融科技公司尝试近30年，**核心业务模式（吸收存款和发放贷款）未被撼动**。美国大银行2024年业绩稳健，存款与信贷规模持续增长。Fintech在支付、跨境汇款等领域取得进展，但**大型银行通过移动端布局和超高盈利能力（如摩根大通30% ROE）保持优势**。部分挑战者（如Affirm、Robinhood）在信用卡市场表现有限，传统巨头仍主导市场。未来颠覆或需**世代更迭或共存模式**，但短期内大银行地位稳固。
+
+---
+
+## <a name="18"></a>18. 唯一一张协和式超音速飞行照片 
+<small>🔗 [petapixel.com](https://petapixel.com/2025/01/25/photo-concorde-supersonic-speed-mach-2/): The only photo of the Concorde flying at supersonic speed</small>
+
+
+| 🔥: 100 \| 💬: [62](https://news.ycombinator.com/item?id=42834341) \| 🗓️ 2025-01-26
+
+
+<br />
+**协和式客机**是史上最快商用飞机，巡航速度达**2.04马赫**（约1354英里/小时）。1985年4月，英国皇家空军派出一架**龙卷风战斗机**与协和式在爱尔兰海上空汇合，摄影师Adrian Meredith抓住短暂窗口拍下其超音速飞行的唯一照片。由于燃料限制，龙卷风仅能维持4分钟编队飞行。协和式1976年投入运营，2003年退役，主因包括2000年法航空难、9·11事件后航空业衰退及维护成本过高。这款由英法联合研制的超音速传奇共生产20架，曾创纽约至伦敦2小时52分的跨大西洋纪录。
+
+---
+
+## <a name="19"></a>19. 我打造了一辆全向球形轮自行车 [视频] 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=ZVFB2g25OkM): I Built an Omni-Directional Ball-Wheeled Bike [video]</small>
 
 
@@ -214,7 +250,7 @@ tags:
 
 ---
 
-## <a name="17"></a>17. Qwen2.5-1M：支持百万上下文长度的开源大模型发布 
+## <a name="20"></a>20. Qwen2.5-1M：支持百万上下文长度的开源大模型发布 
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Jan/26/qwen25-1m/): Qwen2.5-7B-Instruct-1M and Qwen2.5-14B-Instruct-1M</small>
 
 
@@ -223,41 +259,5 @@ tags:
 
 <br />
 阿里巴巴Qwen团队推出支持**百万tokens**超长上下文的新模型，基于**Dual Chunk Attention**技术突破原有12.8万tokens限制。新增Qwen2.5-7B/14B-Instruct-1M两款模型（Apache 2.0协议），需极高**VRAM配置**（7B需120GB、14B需320GB）。社区已发布GGUF量化版，但实测长文本处理仍存在输入截断问题，推测与框架适配或量化方案未完善相关。作者通过Ollama在Mac测试时仅处理2048 tokens输入，后续将持续追踪解决方案。
-
----
-
-## <a name="18"></a>18. 无人撼动大银行地位——至少目前如此 
-<small>🔗 [popularfintech.com](https://www.popularfintech.com/p/no-one-is-disrupting-banks): No one is disrupting banks – at least not the big ones</small>
-
-
-| 🔥: 90 \| 💬: [161](https://news.ycombinator.com/item?id=42830155) \| 🗓️ 2025-01-26
-
-
-<br />
-尽管金融科技公司尝试近30年，**核心业务模式（吸收存款和发放贷款）未被撼动**。美国大银行2024年业绩稳健，存款与信贷规模持续增长。Fintech在支付、跨境汇款等领域取得进展，但**大型银行通过移动端布局和超高盈利能力（如摩根大通30% ROE）保持优势**。部分挑战者（如Affirm、Robinhood）在信用卡市场表现有限，传统巨头仍主导市场。未来颠覆或需**世代更迭或共存模式**，但短期内大银行地位稳固。
-
----
-
-## <a name="19"></a>19. 唯一一张协和式超音速飞行照片 
-<small>🔗 [petapixel.com](https://petapixel.com/2025/01/25/photo-concorde-supersonic-speed-mach-2/): The only photo of the Concorde flying at supersonic speed</small>
-
-
-| 🔥: 88 \| 💬: [57](https://news.ycombinator.com/item?id=42834341) \| 🗓️ 2025-01-26
-
-
-<br />
-**协和式客机**是史上最快商用飞机，巡航速度达**2.04马赫**（约1354英里/小时）。1985年4月，英国皇家空军派出一架**龙卷风战斗机**与协和式在爱尔兰海上空汇合，摄影师Adrian Meredith抓住短暂窗口拍下其超音速飞行的唯一照片。由于燃料限制，龙卷风仅能维持4分钟编队飞行。协和式1976年投入运营，2003年退役，主因包括2000年法航空难、9·11事件后航空业衰退及维护成本过高。这款由英法联合研制的超音速传奇共生产20架，曾创纽约至伦敦2小时52分的跨大西洋纪录。
-
----
-
-## <a name="20"></a>20. Render完成8000万美元C轮融资 
-<small>🔗 [render.com](https://render.com/blog/series-c): Render raises $80M in Series C financing</small>
-
-
-| 🔥: 87 \| 💬: [91](https://news.ycombinator.com/item?id=42832696) \| 🗓️ 2025-01-26
-
-
-<br />
-云平台Render宣布获**8000万美元C轮融资**，累计融资达1.57亿美元，由Georgian领投。公司聚焦**AI时代云基础设施革新**，为开发者提供兼具灵活性与易用性的服务，目前已支持超200万开发者，月增10万用户。Render强调通过简化复杂架构、集成AI工具与安全合规功能，助力企业专注核心创新，缩短产品上市周期。未来将深化AI基础设施投入，优化AI推理与代码部署流程。
 
 ---
