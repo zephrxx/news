@@ -10,8 +10,8 @@ tags:
 
 1. 用应用掩盖的合谋犯罪；
 1. Wayland与X11输入延迟争议的实测数据对比；
-1. 先锋集团不推出比特币ETF（2024）；
 1. 微软365 Copilot发布成灾难性事件；
+1. 先锋集团不推出比特币ETF（2024）；
 1. 抗议者智能手机安全指南；
 
 以上是今天的前五条黑科技新闻标题。
@@ -19,6 +19,7 @@ tags:
 总共20条，具体内容您往下读...
 
 
+<iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
 ![](/assets/images/hacker_news.jpg)
 
 
@@ -26,7 +27,7 @@ tags:
 <small>🔗 [pluralistic.net](https://pluralistic.net/2025/01/25/potatotrac/#carbo-loading): It's not a crime if we do it with an app</small>
 
 
-| 🔥🔥: 812 \| 💬: [541](https://news.ycombinator.com/item?id=42830646) \| 🗓️ 2025-01-26
+| 🔥🔥: 816 \| 💬: [541](https://news.ycombinator.com/item?id=42830646) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -38,7 +39,7 @@ tags:
 <small>🔗 [mort.coffee](https://mort.coffee/home/wayland-input-latency/): Hard numbers in the Wayland vs. X11 input latency discussion</small>
 
 
-| 🔥🔥: 404 \| 💬: [274](https://news.ycombinator.com/item?id=42831509) \| 🗓️ 2025-01-26
+| 🔥🔥: 406 \| 💬: [280](https://news.ycombinator.com/item?id=42831509) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -46,23 +47,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 先锋集团不推出比特币ETF（2024） 
-<small>🔗 [corporate.vanguard.com](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/no-bitcoin-etfs-at-vanguard-heres-why.html): No Bitcoin ETFs at Vanguard (2024)</small>
-
-
-| 🔥🔥: 364 \| 💬: [489](https://news.ycombinator.com/item?id=42832026) \| 🗓️ 2025-01-26
-
-
-<br />
-先锋集团明确表示**不推出比特币ETF**，也不会在经纪平台提供加密货币相关产品。其决策基于**加密货币的投机属性**，认为其缺乏内在经济价值、现金流和稳定性，且**波动性极高**（比特币三年内涨幅达150%，跌幅达77%），可能破坏长期投资组合。先锋坚持**长期投资理念**，过去曾下架杠杆基金和场外股票，此次决定延续其一贯原则，优先考虑客户利益而非市场趋势。
-
----
-
-## <a name="4"></a>4. 微软365 Copilot发布成灾难性事件 
+## <a name="3"></a>3. 微软365 Copilot发布成灾难性事件 
 <small>🔗 [zdnet.com](https://www.zdnet.com/home-and-office/work-life/the-microsoft-365-copilot-launch-was-a-total-disaster/): The Microsoft 365 Copilot launch was a disaster</small>
 
 
-| 🔥🔥: 358 \| 💬: [354](https://news.ycombinator.com/item?id=42831281) \| 🗓️ 2025-01-26
+| 🔥🔥: 375 \| 💬: [366](https://news.ycombinator.com/item?id=42831281) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -70,11 +59,23 @@ tags:
 
 ---
 
+## <a name="4"></a>4. 先锋集团不推出比特币ETF（2024） 
+<small>🔗 [corporate.vanguard.com](https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/no-bitcoin-etfs-at-vanguard-heres-why.html): No Bitcoin ETFs at Vanguard (2024)</small>
+
+
+| 🔥🔥: 367 \| 💬: [492](https://news.ycombinator.com/item?id=42832026) \| 🗓️ 2025-01-26
+
+
+<br />
+先锋集团明确表示**不推出比特币ETF**，也不会在经纪平台提供加密货币相关产品。其决策基于**加密货币的投机属性**，认为其缺乏内在经济价值、现金流和稳定性，且**波动性极高**（比特币三年内涨幅达150%，跌幅达77%），可能破坏长期投资组合。先锋坚持**长期投资理念**，过去曾下架杠杆基金和场外股票，此次决定延续其一贯原则，优先考虑客户利益而非市场趋势。
+
+---
+
 ## <a name="5"></a>5. 抗议者智能手机安全指南 
 <small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/01/23/activists-guide-securing-your-smartphone/): The protester's guide to smartphone security</small>
 
 
-| 🔥🔥: 336 \| 💬: [170](https://news.ycombinator.com/item?id=42829317) \| 🗓️ 2025-01-26
+| 🔥🔥: 356 \| 💬: [177](https://news.ycombinator.com/item?id=42829317) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -83,10 +84,10 @@ tags:
 ---
 
 ## <a name="6"></a>6. 堪萨斯州结核病疫情成为美国有记录以来最大规模 
-<small>🔗 [cjonline.com](https://www.cjonline.com/story/news/politics/government/2025/01/24/kansas-tuberculosis-outbreak-is-largest-in-recorded-history-in-u-s/77881467007/): Kansas tuberculosis outbreak is now America's largest in recorded history</small>
+<small>🔗 [cjonline.com](https://www.cjonline.com/story/news/politics/government/2025/01/24/kansas-tuberculosis-outbreak-is-largest-in-recorded-history-in-u-s/77881467007/): Kansas tuberculosis outbreak is America's largest recorded since the 1950s</small>
 
 
-| 🔥🔥: 321 \| 💬: [232](https://news.ycombinator.com/item?id=42835183) \| 🗓️ 2025-01-26
+| 🔥🔥: 334 \| 💬: [249](https://news.ycombinator.com/item?id=42835183) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -94,23 +95,11 @@ tags:
 
 ---
 
-## <a name="7"></a>7. Show HN: 深度探索我的用户代理 
-<small>🔗 [jasonthorsness.com](https://www.jasonthorsness.com/20): Show HN: DeepSeek My User Agent</small>
-
-
-| 🔥🔥: 242 \| 💬: [95](https://news.ycombinator.com/item?id=42834648) \| 🗓️ 2025-01-26
-
-
-<br />
-全新推出的**DeepSeek R1模型服务**支持思维链交互，用户可免费在线体验，或通过显著低于OpenAI的API接入。点击**“Judge Me”功能**可实时解析浏览器UA信息、设备能力及IP属地，以模型视角评估用户数据隐私风险。
-
----
-
-## <a name="8"></a>8. 边际搜索——专注于非商业内容的搜索引擎 
+## <a name="7"></a>7. 边际搜索——专注于非商业内容的搜索引擎 
 <small>🔗 [marginalia-search.com](https://marginalia-search.com/): Marginalia – A search engine that prioritizes non-commercial content</small>
 
 
-| 🔥🔥: 225 \| 💬: [22](https://news.ycombinator.com/item?id=42836405) \| 🗓️ 2025-01-26
+| 🔥🔥: 262 \| 💬: [24](https://news.ycombinator.com/item?id=42836405) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -118,11 +107,23 @@ Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引
 
 ---
 
+## <a name="8"></a>8. Show HN: 深度探索我的用户代理 
+<small>🔗 [jasonthorsness.com](https://www.jasonthorsness.com/20): Show HN: DeepSeek My User Agent</small>
+
+
+| 🔥🔥: 251 \| 💬: [99](https://news.ycombinator.com/item?id=42834648) \| 🗓️ 2025-01-26
+
+
+<br />
+全新推出的**DeepSeek R1模型服务**支持思维链交互，用户可免费在线体验，或通过显著低于OpenAI的API接入。点击**“Judge Me”功能**可实时解析浏览器UA信息、设备能力及IP属地，以模型视角评估用户数据隐私风险。
+
+---
+
 ## <a name="9"></a>9. 巴西禁止Sam Altman旗下公司以加密货币换取虹膜扫描 
 <small>🔗 [economictimes.indiatimes.com](https://economictimes.indiatimes.com/tech/technology/brazil-bans-sam-altmans-tech-firm-tools-for-humanity-from-paying-for-iris-scans/articleshow/117540826.cms?from=mdr): Brazil bans Sam Altman's tech firm Tools for Humanity from paying for iris scans</small>
 
 
-| 🔥🔥: 207 \| 💬: [52](https://news.ycombinator.com/item?id=42834432) \| 🗓️ 2025-01-26
+| 🔥🔥: 212 \| 💬: [52](https://news.ycombinator.com/item?id=42834432) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -134,7 +135,7 @@ Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引
 <small>🔗 [sf.gazetteer.co](https://sf.gazetteer.co/a-former-tech-ceo-is-on-a-crusade-to-get-the-record-of-his-arrest-removed-from-the-internet): Former tech CEO suing to get the record of his arrest removed from the internet</small>
 
 
-| 🔥🔥: 204 \| 💬: [148](https://news.ycombinator.com/item?id=42833193) \| 🗓️ 2025-01-26
+| 🔥🔥: 208 \| 💬: [149](https://news.ycombinator.com/item?id=42833193) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -146,7 +147,7 @@ Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引
 <small>🔗 [nsavage.substack.com](https://nsavage.substack.com/p/when-ai-promises-speed-but-delivers): When AI promises speed but delivers debugging hell</small>
 
 
-| 🔥🔥: 196 \| 💬: [241](https://news.ycombinator.com/item?id=42829466) \| 🗓️ 2025-01-26
+| 🔥🔥: 196 \| 💬: [244](https://news.ycombinator.com/item?id=42829466) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -158,7 +159,7 @@ Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引
 <small>🔗 [astronomy.com](https://www.astronomy.com/science/astronomers-just-deleted-an-asteroid-because-it-turned-out-to-be-elon-musks-tesla-roadster/): Astronomers delete asteroid because it turned out to be Tesla Roadster</small>
 
 
-| 🔥🔥: 188 \| 💬: [59](https://news.ycombinator.com/item?id=42834043) \| 🗓️ 2025-01-26
+| 🔥🔥: 193 \| 💬: [60](https://news.ycombinator.com/item?id=42834043) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -170,7 +171,7 @@ Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引
 <small>🔗 [theindex.media](https://www.theindex.media/this-man-is-a-coward/): Mark Zuckerberg: This Man Is a Coward</small>
 
 
-| 🔥🔥: 182 \| 💬: [71](https://news.ycombinator.com/item?id=42834911) \| 🗓️ 2025-01-26
+| 🔥🔥: 183 \| 💬: [76](https://news.ycombinator.com/item?id=42834911) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -178,11 +179,23 @@ Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引
 
 ---
 
-## <a name="14"></a>14. Qwen2.5-1M：部署支持百万token上下文的自有模型 
+## <a name="14"></a>14. Purelymail：低价简洁的电子邮件服务 
+<small>🔗 [purelymail.com](https://purelymail.com/): Purelymail: Cheap, no-nonsense email</small>
+
+
+| 🔥🔥: 176 \| 💬: [88](https://news.ycombinator.com/item?id=42836818) \| 🗓️ 2025-01-26
+
+
+<br />
+提供**IMAP/POP3协议支持**与Roundcube网页邮箱，**无用户数量与存储限制**，支持绑定多域名。相比Protonmail（48美元）、Fastmail（60美元）等，**每年仅需10美元**，多用户场景优势显著。不足包括：存在部分冷门邮件服务器拦截、无24/7客服、缺少日历同步等功能，且目前处于测试阶段。注重隐私安全，不售卖用户数据，基于AWS云端架构保障可靠性，适合仅需基础邮件服务的用户。
+
+---
+
+## <a name="15"></a>15. Qwen2.5-1M：部署支持百万token上下文的自有模型 
 <small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwen2.5-1m/): Qwen2.5-1M: Deploy your own Qwen with context length up to 1M tokens</small>
 
 
-| 🔥🔥: 152 \| 💬: [62](https://news.ycombinator.com/item?id=42831769) \| 🗓️ 2025-01-26
+| 🔥🔥: 165 \| 💬: [64](https://news.ycombinator.com/item?id=42831769) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -190,11 +203,11 @@ Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引
 
 ---
 
-## <a name="15"></a>15. 波罗的海再传海底电缆遭损毁 拉脱维亚派军舰应对 
+## <a name="16"></a>16. 波罗的海再传海底电缆遭损毁 拉脱维亚派军舰应对 
 <small>🔗 [france24.com](https://www.france24.com/en/europe/20250126-another-undersea-cable-damaged-in-baltic-sea-latvia-dispatches-warship): Another undersea cable damaged in Baltic Sea</small>
 
 
-| 🔥🔥: 146 \| 💬: [116](https://news.ycombinator.com/item?id=42833491) \| 🗓️ 2025-01-26
+| 🔥🔥: 148 \| 💬: [116](https://news.ycombinator.com/item?id=42833491) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -202,23 +215,11 @@ Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引
 
 ---
 
-## <a name="16"></a>16. Paxo：一部可自制的开源手机 
-<small>🔗 [paxo.fr](https://paxo.fr/): Paxo: A DIY Phone</small>
-
-
-| 🔥🔥: 122 \| 💬: [33](https://news.ycombinator.com/item?id=42829279) \| 🗓️ 2025-01-26
-
-
-<br />
-15岁少年Gabriel Rochet用**30欧元成本**打造出**开源模块化手机**，提供硬件图纸与软件代码，支持非商用二次开发。该项目强调**自由学习与改造**，用户可定制功能并实践电子编程技能，同时倡导关注数字自由与设备可维修性。通过社区协作推动创新，兼具教学意义与环保理念。
-
----
-
 ## <a name="17"></a>17. OpenHaystack：利用苹果Find My网络构建追踪蓝牙设备的开源框架 
 <small>🔗 [github.com](https://github.com/seemoo-lab/openhaystack): Openhaystack: Build 'AirTags' – track Bluetooth devices via Apple's network</small>
 
 
-| 🔥🔥: 115 \| 💬: [22](https://news.ycombinator.com/item?id=42835772) \| 🗓️ 2025-01-26
+| 🔥🔥: 141 \| 💬: [25](https://news.ycombinator.com/item?id=42835772) \| 🗓️ 2025-01-26
 
 
 <br />
@@ -226,38 +227,38 @@ Marginalia Search推出全新界面并迁移主页，旧版仍可访问。该引
 
 ---
 
-## <a name="18"></a>18. 无人撼动大银行地位——至少目前如此 
+## <a name="18"></a>18. 打造值得珍藏的家庭影像：跨越时光的拍摄启示录（2018） 
+<small>🔗 [estherschindler.medium.com](https://estherschindler.medium.com/the-old-family-photos-project-lessons-in-creating-family-photos-that-people-want-to-keep-ea3909129943): Lessons in creating family photos that people want to keep (2018)</small>
+
+
+| 🔥🔥: 124 \| 💬: [33](https://news.ycombinator.com/item?id=42835282) \| 🗓️ 2025-01-26
+
+
+<br />
+作者通过扫描父辈遗留的8000余张胶片，提炼出家庭影像保存与创作的核心智慧：**标题性照片**（如景点标识）能为后人提供时空坐标，**非摆拍的互动瞬间**比僵硬合影更具情感穿透力，**日常生活记录**（如工作场景）比游客照更珍贵。扫描工程需专业设备（如CanoScan 9000F）与云端共享策略（Flickr/私密群组），而拍摄时需避免重复风景照，重视人物动态与场景叙事。影像本质是家族记忆的载体，其价值在于唤醒未被言说的家族史与人性温度。
+
+---
+
+## <a name="19"></a>19. Paxo：一部可自制的开源手机 
+<small>🔗 [paxo.fr](https://paxo.fr/): Paxo: A DIY Phone</small>
+
+
+| 🔥🔥: 123 \| 💬: [33](https://news.ycombinator.com/item?id=42829279) \| 🗓️ 2025-01-26
+
+
+<br />
+15岁少年Gabriel Rochet用**30欧元成本**打造出**开源模块化手机**，提供硬件图纸与软件代码，支持非商用二次开发。该项目强调**自由学习与改造**，用户可定制功能并实践电子编程技能，同时倡导关注数字自由与设备可维修性。通过社区协作推动创新，兼具教学意义与环保理念。
+
+---
+
+## <a name="20"></a>20. 无人撼动大银行地位——至少目前如此 
 <small>🔗 [popularfintech.com](https://www.popularfintech.com/p/no-one-is-disrupting-banks): No one is disrupting banks – at least not the big ones</small>
 
 
-| 🔥🔥: 114 \| 💬: [182](https://news.ycombinator.com/item?id=42830155) \| 🗓️ 2025-01-26
+| 🔥🔥: 117 \| 💬: [192](https://news.ycombinator.com/item?id=42830155) \| 🗓️ 2025-01-26
 
 
 <br />
 尽管金融科技公司尝试近30年，**核心业务模式（吸收存款和发放贷款）未被撼动**。美国大银行2024年业绩稳健，存款与信贷规模持续增长。Fintech在支付、跨境汇款等领域取得进展，但**大型银行通过移动端布局和超高盈利能力（如摩根大通30% ROE）保持优势**。部分挑战者（如Affirm、Robinhood）在信用卡市场表现有限，传统巨头仍主导市场。未来颠覆或需**世代更迭或共存模式**，但短期内大银行地位稳固。
-
----
-
-## <a name="19"></a>19. 唯一一张协和式超音速飞行照片 
-<small>🔗 [petapixel.com](https://petapixel.com/2025/01/25/photo-concorde-supersonic-speed-mach-2/): The only photo of the Concorde flying at supersonic speed</small>
-
-
-| 🔥🔥: 113 \| 💬: [85](https://news.ycombinator.com/item?id=42834341) \| 🗓️ 2025-01-26
-
-
-<br />
-**协和式客机**是史上最快商用飞机，巡航速度达**2.04马赫**（约1354英里/小时）。1985年4月，英国皇家空军派出一架**龙卷风战斗机**与协和式在爱尔兰海上空汇合，摄影师Adrian Meredith抓住短暂窗口拍下其超音速飞行的唯一照片。由于燃料限制，龙卷风仅能维持4分钟编队飞行。协和式1976年投入运营，2003年退役，主因包括2000年法航空难、9·11事件后航空业衰退及维护成本过高。这款由英法联合研制的超音速传奇共生产20架，曾创纽约至伦敦2小时52分的跨大西洋纪录。
-
----
-
-## <a name="20"></a>20. 我打造了一辆全向球形轮自行车 [视频] 
-<small>🔗 [youtube.com](https://www.youtube.com/watch?v=ZVFB2g25OkM): I Built an Omni-Directional Ball-Wheeled Bike [video]</small>
-
-
-| 🔥🔥: 105 \| 💬: [14](https://news.ycombinator.com/item?id=42830654) \| 🗓️ 2025-01-26
-
-
-<br />
-创作者展示了一款自制的**球形轮自行车**，通过独特的**全向移动设计**实现灵活转向与横向平移。视频中详细解析机械结构原理，重点解决传统车轮转向限制，并演示实景操控效果。核心挑战包括**摩擦力平衡**与重心稳定，最终成果融合了工程创新与趣味性，展现DIY硬件的潜力。
 
 ---
