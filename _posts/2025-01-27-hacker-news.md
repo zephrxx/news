@@ -11,8 +11,8 @@ tags:
 1. 我们将重启Pebble智能手表项目；
 1. Google开源Pebble智能手表操作系统；
 1. 裁员彻底改变了我对工作的看法；
-1. Rebble的未来；
 1. Nvidia和ASML因DeepSeek引发科技股抛售；
+1. Rebble的未来；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [repebble.com](https://repebble.com/): We're bringing Pebble back</small>
 
 
-| 🔥🔥: 1621 \| 💬: [385](https://news.ycombinator.com/item?id=42845091) \| 🗓️ 2025-01-27
+| 🔥🔥: 1707 \| 💬: [400](https://news.ycombinator.com/item?id=42845091) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -39,7 +39,7 @@ Pebble创始人Eric Migicovsky宣布联合团队开发**开源PebbleOS**的新�
 <small>🔗 [opensource.googleblog.com](https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html): Google open-sources the Pebble OS</small>
 
 
-| 🔥🔥: 927 \| 💬: [145](https://news.ycombinator.com/item?id=42845070) \| 🗓️ 2025-01-27
+| 🔥🔥: 965 \| 💬: [148](https://news.ycombinator.com/item?id=42845070) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -51,7 +51,7 @@ Google宣布将已停产的**Pebble智能手表操作系统**源代码公开，�
 <small>🔗 [mertbulan.com](https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/): A layoff fundamentally changed how I perceive work</small>
 
 
-| 🔥🔥: 917 \| 💬: [839](https://news.ycombinator.com/item?id=42838700) \| 🗓️ 2025-01-27
+| 🔥🔥: 925 \| 💬: [843](https://news.ycombinator.com/item?id=42838700) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -59,23 +59,11 @@ Google宣布将已停产的**Pebble智能手表操作系统**源代码公开，�
 
 ---
 
-## <a name="4"></a>4. Rebble的未来 
-<small>🔗 [rebble.io](https://rebble.io/2025/01/27/the-future-of-rebble.html): The future of Rebble</small>
-
-
-| 🔥🔥: 361 \| 💬: [21](https://news.ycombinator.com/item?id=42845017) \| 🗓️ 2025-01-27
-
-
-<br />
-2025年1月27日，Rebble宣布了多项重要进展。**Google开源了PebbleOS**，这将加速Rebble开发新硬件的进程。Rebble将转型为**非营利组织**，确保社区拥有并推动其使命。此外，Rebble计划在3月举办**RebbleOS黑客马拉松**，并获得了Snowy的源代码，未来将进行升级。Rebble的未来充满希望，致力于打造开源、社区驱动的智能手表。
-
----
-
-## <a name="5"></a>5. Nvidia和ASML因DeepSeek引发科技股抛售 
+## <a name="4"></a>4. Nvidia和ASML因DeepSeek引发科技股抛售 
 <small>🔗 [finance.yahoo.com](https://finance.yahoo.com/news/asml-sinks-china-ai-startup-081823609.html): Nvidia’s $589B DeepSeek rout</small>
 
 
-| 🔥🔥: 341 \| 💬: [715](https://news.ycombinator.com/item?id=42839650) \| 🗓️ 2025-01-27
+| 🔥🔥: 364 \| 💬: [760](https://news.ycombinator.com/item?id=42839650) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -83,11 +71,23 @@ Nvidia和ASML股价大幅下跌，因中国AI初创公司**DeepSeek**发布的�
 
 ---
 
+## <a name="5"></a>5. Rebble的未来 
+<small>🔗 [rebble.io](https://rebble.io/2025/01/27/the-future-of-rebble.html): The future of Rebble</small>
+
+
+| 🔥🔥: 362 \| 💬: [21](https://news.ycombinator.com/item?id=42845017) \| 🗓️ 2025-01-27
+
+
+<br />
+2025年1月27日，Rebble宣布了多项重要进展。**Google开源了PebbleOS**，这将加速Rebble开发新硬件的进程。Rebble将转型为**非营利组织**，确保社区拥有并推动其使命。此外，Rebble计划在3月举办**RebbleOS黑客马拉松**，并获得了Snowy的源代码，未来将进行升级。Rebble的未来充满希望，致力于打造开源、社区驱动的智能手表。
+
+---
+
 ## <a name="6"></a>6. 我尝试将所有 NPM 包缩小 5% 的失败经历 
 <small>🔗 [evanhahn.com](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/): My failed attempt to shrink all NPM packages by 5%</small>
 
 
-| 🔥🔥: 307 \| 💬: [205](https://news.ycombinator.com/item?id=42840548) \| 🗓️ 2025-01-27
+| 🔥🔥: 313 \| 💬: [207](https://news.ycombinator.com/item?id=42840548) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -99,7 +99,7 @@ Evan Hahn 在 2022 年提出一个想法，通过使用 **Zopfli** 压缩工具�
 <small>🔗 [scd31.com](https://www.scd31.com/posts/taylorator): The Taylorator – All Your Frequencies Are Belong to Us</small>
 
 
-| 🔥🔥: 264 \| 💬: [82](https://news.ycombinator.com/item?id=42843623) \| 🗓️ 2025-01-27
+| 🔥🔥: 269 \| 💬: [83](https://news.ycombinator.com/item?id=42843623) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -107,35 +107,11 @@ Evan Hahn 在 2022 年提出一个想法，通过使用 **Zopfli** 压缩工具�
 
 ---
 
-## <a name="8"></a>8. 奥利弗·亥维赛与传输线理论 (2021) 
-<small>🔗 [pa3fwm.nl](https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html): Oliver Heaviside and the theory of transmission lines (2021)</small>
-
-
-| 🔥🔥: 238 \| 💬: [70](https://news.ycombinator.com/item?id=42840352) \| 🗓️ 2025-01-27
-
-
-<br />
-奥利弗·亥维赛（Oliver Heaviside）在19世纪对**传输线理论**做出了重要贡献。他通过研究电报电缆，发现了**电感**和**电容**在信号传输中的关键作用，并提出了更精确的模型。亥维赛的工作不仅改进了电报系统，还为现代电磁理论奠定了基础，尤其是他将麦克斯韦的复杂公式简化为更易理解的“麦克斯韦方程组”。
-
----
-
-## <a name="9"></a>9. 英伟达单日市值蒸发近6000亿美元，创美国历史最大跌幅 
-<small>🔗 [cnbc.com](https://www.cnbc.com/2025/01/27/nvidia-sheds-almost-600-billion-in-market-cap-biggest-drop-ever.html): Nvidia sheds almost $600B in market cap</small>
-
-
-| 🔥🔥: 235 \| 💬: [25](https://news.ycombinator.com/item?id=42845681) \| 🗓️ 2025-01-27
-
-
-<br />
-英伟达股价周一暴跌17%，市值损失近6000亿美元，创下美国公司单日最大跌幅。此次抛售由**中国AI实验室DeepSeek**的竞争加剧引发，导致依赖英伟达芯片的数据中心公司股价大幅下跌。尽管分析师认为AI需求将持续增长，但市场对英伟达的**高估值**和潜在支出放缓感到担忧。
-
----
-
-## <a name="10"></a>10. 图解DeepSeek-R1 
+## <a name="8"></a>8. 图解DeepSeek-R1 
 <small>🔗 [newsletter.languagemodels.co](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1): The Illustrated DeepSeek-R1</small>
 
 
-| 🔥🔥: 228 \| 💬: [33](https://news.ycombinator.com/item?id=42845488) \| 🗓️ 2025-01-27
+| 🔥🔥: 255 \| 💬: [40](https://news.ycombinator.com/item?id=42845488) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -143,11 +119,35 @@ DeepSeek-R1是一款专注于**推理任务**的语言模型，通过**长链推
 
 ---
 
+## <a name="9"></a>9. 奥利弗·亥维赛与传输线理论 (2021) 
+<small>🔗 [pa3fwm.nl](https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html): Oliver Heaviside and the theory of transmission lines (2021)</small>
+
+
+| 🔥🔥: 239 \| 💬: [70](https://news.ycombinator.com/item?id=42840352) \| 🗓️ 2025-01-27
+
+
+<br />
+奥利弗·亥维赛（Oliver Heaviside）在19世纪对**传输线理论**做出了重要贡献。他通过研究电报电缆，发现了**电感**和**电容**在信号传输中的关键作用，并提出了更精确的模型。亥维赛的工作不仅改进了电报系统，还为现代电磁理论奠定了基础，尤其是他将麦克斯韦的复杂公式简化为更易理解的“麦克斯韦方程组”。
+
+---
+
+## <a name="10"></a>10. 英伟达单日市值蒸发近6000亿美元，创美国历史最大跌幅 
+<small>🔗 [cnbc.com](https://www.cnbc.com/2025/01/27/nvidia-sheds-almost-600-billion-in-market-cap-biggest-drop-ever.html): Nvidia sheds almost $600B in market cap</small>
+
+
+| 🔥🔥: 236 \| 💬: [25](https://news.ycombinator.com/item?id=42845681) \| 🗓️ 2025-01-27
+
+
+<br />
+英伟达股价周一暴跌17%，市值损失近6000亿美元，创下美国公司单日最大跌幅。此次抛售由**中国AI实验室DeepSeek**的竞争加剧引发，导致依赖英伟达芯片的数据中心公司股价大幅下跌。尽管分析师认为AI需求将持续增长，但市场对英伟达的**高估值**和潜在支出放缓感到担忧。
+
+---
+
 ## <a name="11"></a>11. 我信任了LLM，现在我的下午项目已经拖到第四天了 
 <small>🔗 [nemo.foo](https://nemo.foo/blog/day-4-of-an-afternoon-project): I trusted an LLM, now I'm on day 4 of an afternoon project</small>
 
 
-| 🔥🔥: 217 \| 💬: [157](https://news.ycombinator.com/item?id=42845933) \| 🗓️ 2025-01-27
+| 🔥🔥: 230 \| 💬: [167](https://news.ycombinator.com/item?id=42845933) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -159,7 +159,7 @@ DeepSeek-R1是一款专注于**推理任务**的语言模型，通过**长链推
 <small>🔗 [anthonydavidadams.substack.com](https://anthonydavidadams.substack.com/p/the-alpha-myth-how-captive-wolves): The Alpha Myth: How captive wolves led us astray</small>
 
 
-| 🔥🔥: 196 \| 💬: [173](https://news.ycombinator.com/item?id=42844619) \| 🗓️ 2025-01-27
+| 🔥🔥: 208 \| 💬: [186](https://news.ycombinator.com/item?id=42844619) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -167,35 +167,11 @@ DeepSeek-R1是一款专注于**推理任务**的语言模型，通过**长链推
 
 ---
 
-## <a name="13"></a>13. Show HN: 我用 Racket 制作了一个 iOS 播客播放器 
-<small>🔗 [defn.io](https://defn.io/2024/11/16/podcatcher/): Show HN: I Made an iOS Podcast Player with Racket</small>
-
-
-| 🔥🔥: 187 \| 💬: [68](https://news.ycombinator.com/item?id=42838875) \| 🗓️ 2025-01-27
-
-
-<br />
-开发者使用 **Racket** 和 **Swift** 制作了一款名为 **Podcatcher** 的 iOS 播客播放器。该应用支持音频增强、静音修剪、变速播放等功能，且无广告和追踪。开发者还通过该项目改进了 Racket 的 XML 库和 HTTP 重定向处理。未来计划添加睡眠定时器和 Apple Watch 支持。
-
----
-
-## <a name="14"></a>14. Go 1.24 的 go tool 是近年来生态系统中最棒的补充之一 
-<small>🔗 [jvt.me](https://www.jvt.me/posts/2025/01/27/go-tools-124/): Go 1.24's go tool is one of the best additions to the ecosystem in years</small>
-
-
-| 🔥🔥: 176 \| 💬: [73](https://news.ycombinator.com/item?id=42845323) \| 🗓️ 2025-01-27
-
-
-<br />
-Go 1.24 引入了新的 `go tool` 命令和 `go.mod` 中的工具指令，用于管理项目所需的工具。这一改进解决了以往使用 `tools.go` 模式时的**性能问题**和**依赖树膨胀**问题。通过 `go tool`，开发者可以更高效地管理工具依赖，减少间接依赖的影响，并提升构建和测试的性能。尽管存在一些小问题，如工具依赖被视为间接依赖，但整体上这一功能为 Go 生态系统带来了显著的改进。
-
----
-
-## <a name="15"></a>15. 机器学习在生产中的应用（CMU课程） 
+## <a name="13"></a>13. 机器学习在生产中的应用（CMU课程） 
 <small>🔗 [mlip-cmu.github.io](https://mlip-cmu.github.io/s2025/): Machine Learning in Production (CMU Course)</small>
 
 
-| 🔥🔥: 168 \| 💬: [15](https://news.ycombinator.com/item?id=42847834) \| 🗓️ 2025-01-27
+| 🔥🔥: 202 \| 💬: [15](https://news.ycombinator.com/item?id=42847834) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -203,7 +179,43 @@ Go 1.24 引入了新的 `go tool` 命令和 `go.mod` 中的工具指令，用于
 
 ---
 
-## <a name="16"></a>16. 2020款特斯拉Model 3在2024年丹麦年检中四分之一未通过 
+## <a name="14"></a>14. Show HN: 我用 Racket 制作了一个 iOS 播客播放器 
+<small>🔗 [defn.io](https://defn.io/2024/11/16/podcatcher/): Show HN: I Made an iOS Podcast Player with Racket</small>
+
+
+| 🔥🔥: 191 \| 💬: [71](https://news.ycombinator.com/item?id=42838875) \| 🗓️ 2025-01-27
+
+
+<br />
+开发者使用 **Racket** 和 **Swift** 制作了一款名为 **Podcatcher** 的 iOS 播客播放器。该应用支持音频增强、静音修剪、变速播放等功能，且无广告和追踪。开发者还通过该项目改进了 Racket 的 XML 库和 HTTP 重定向处理。未来计划添加睡眠定时器和 Apple Watch 支持。
+
+---
+
+## <a name="15"></a>15. Go 1.24 的 go tool 是近年来生态系统中最棒的补充之一 
+<small>🔗 [jvt.me](https://www.jvt.me/posts/2025/01/27/go-tools-124/): Go 1.24's go tool is one of the best additions to the ecosystem in years</small>
+
+
+| 🔥🔥: 187 \| 💬: [76](https://news.ycombinator.com/item?id=42845323) \| 🗓️ 2025-01-27
+
+
+<br />
+Go 1.24 引入了新的 `go tool` 命令和 `go.mod` 中的工具指令，用于管理项目所需的工具。这一改进解决了以往使用 `tools.go` 模式时的**性能问题**和**依赖树膨胀**问题。通过 `go tool`，开发者可以更高效地管理工具依赖，减少间接依赖的影响，并提升构建和测试的性能。尽管存在一些小问题，如工具依赖被视为间接依赖，但整体上这一功能为 Go 生态系统带来了显著的改进。
+
+---
+
+## <a name="16"></a>16. 行动：腿——一位与众不同的飞行员 
+<small>🔗 [rafbf.org](https://www.rafbf.org/news-and-stories/raf-history/operation-leg-pilot-unlike-any-other): Operation Leg – a pilot unlike any other (2020)</small>
+
+
+| 🔥🔥: 166 \| 💬: [71](https://news.ycombinator.com/item?id=42842257) \| 🗓️ 2025-01-27
+
+
+<br />
+**道格拉斯·巴德**是二战期间一位非凡的飞行员，尽管失去双腿，仍重返英国皇家空军。他在**敦刻尔克战役**和**不列颠之战**中表现出色，并因倡导“大翼编队”而闻名。1941年，他在法国被击落，**德国将军加兰德**安排了一次特殊任务“**行动：腿**”，为他空投假肢。战后，巴德成为残疾人权益倡导者，并继续飞行至1979年。
+
+---
+
+## <a name="17"></a>17. 2020款特斯拉Model 3在2024年丹麦年检中四分之一未通过 
 <small>🔗 [fdm.dk](https://fdm.dk/nyheder/bilist/2025-01-populaer-tesla-model-dumper-med-et-brag-til-syn): One in four 2020 Tesla Model 3 failed the Danish periodic inspection in 2024</small>
 
 
@@ -215,23 +227,11 @@ Go 1.24 引入了新的 `go tool` 命令和 `go.mod` 中的工具指令，用于
 
 ---
 
-## <a name="17"></a>17. 行动：腿——一位与众不同的飞行员 
-<small>🔗 [rafbf.org](https://www.rafbf.org/news-and-stories/raf-history/operation-leg-pilot-unlike-any-other): Operation Leg – a pilot unlike any other (2020)</small>
-
-
-| 🔥🔥: 164 \| 💬: [71](https://news.ycombinator.com/item?id=42842257) \| 🗓️ 2025-01-27
-
-
-<br />
-**道格拉斯·巴德**是二战期间一位非凡的飞行员，尽管失去双腿，仍重返英国皇家空军。他在**敦刻尔克战役**和**不列颠之战**中表现出色，并因倡导“大翼编队”而闻名。1941年，他在法国被击落，**德国将军加兰德**安排了一次特殊任务“**行动：腿**”，为他空投假肢。战后，巴德成为残疾人权益倡导者，并继续飞行至1979年。
-
----
-
 ## <a name="18"></a>18. SiFive的P550微架构 
 <small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/inside-sifives-p550-microarchitecture): SiFive's P550 Microarchitecture</small>
 
 
-| 🔥🔥: 145 \| 💬: [55](https://news.ycombinator.com/item?id=42839501) \| 🗓️ 2025-01-27
+| 🔥🔥: 150 \| 💬: [56](https://news.ycombinator.com/item?id=42839501) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -255,7 +255,7 @@ SiFive的P550是一款**3宽度的乱序执行核心**，旨在提供比Arm Cort
 <small>🔗 [foundationcapital.com](https://foundationcapital.com/why-openais-157b-valuation-misreads-ais-future/): Why OpenAI's $157B valuation misreads AI's future (Oct 2024)</small>
 
 
-| 🔥🔥: 115 \| 💬: [87](https://news.ycombinator.com/item?id=42847825) \| 🗓️ 2025-01-27
+| 🔥🔥: 126 \| 💬: [103](https://news.ycombinator.com/item?id=42847825) \| 🗓️ 2025-01-27
 
 
 <br />
