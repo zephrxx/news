@@ -27,7 +27,7 @@ tags:
 <small>🔗 [repebble.com](https://repebble.com/): We're bringing Pebble back</small>
 
 
-| 🔥🔥: 1354 \| 💬: [345](https://news.ycombinator.com/item?id=42845091) \| 🗓️ 2025-01-27
+| 🔥🔥: 1441 \| 💬: [358](https://news.ycombinator.com/item?id=42845091) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -39,7 +39,7 @@ Pebble创始人Eric Migicovsky宣布联合团队开发**开源PebbleOS**的新�
 <small>🔗 [mertbulan.com](https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/): A layoff fundamentally changed how I perceive work</small>
 
 
-| 🔥🔥: 893 \| 💬: [825](https://news.ycombinator.com/item?id=42838700) \| 🗓️ 2025-01-27
+| 🔥🔥: 909 \| 💬: [832](https://news.ycombinator.com/item?id=42838700) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -51,7 +51,7 @@ Pebble创始人Eric Migicovsky宣布联合团队开发**开源PebbleOS**的新�
 <small>🔗 [opensource.googleblog.com](https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html): Google open-sources the Pebble OS</small>
 
 
-| 🔥🔥: 778 \| 💬: [123](https://news.ycombinator.com/item?id=42845070) \| 🗓️ 2025-01-27
+| 🔥🔥: 835 \| 💬: [127](https://news.ycombinator.com/item?id=42845070) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -63,7 +63,7 @@ Google宣布将已停产的**Pebble智能手表操作系统**源代码公开，�
 <small>🔗 [rebble.io](https://rebble.io/2025/01/27/the-future-of-rebble.html): The future of Rebble</small>
 
 
-| 🔥🔥: 354 \| 💬: [21](https://news.ycombinator.com/item?id=42845017) \| 🗓️ 2025-01-27
+| 🔥🔥: 357 \| 💬: [21](https://news.ycombinator.com/item?id=42845017) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -75,7 +75,7 @@ Google宣布将已停产的**Pebble智能手表操作系统**源代码公开，�
 <small>🔗 [evanhahn.com](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/): My failed attempt to shrink all NPM packages by 5%</small>
 
 
-| 🔥🔥: 296 \| 💬: [193](https://news.ycombinator.com/item?id=42840548) \| 🗓️ 2025-01-27
+| 🔥🔥: 302 \| 💬: [195](https://news.ycombinator.com/item?id=42840548) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -87,7 +87,7 @@ Evan Hahn 在 2022 年提出一个想法，通过使用 **Zopfli** 压缩工具�
 <small>🔗 [finance.yahoo.com](https://finance.yahoo.com/news/asml-sinks-china-ai-startup-081823609.html): Nvidia’s $589B DeepSeek rout</small>
 
 
-| 🔥🔥: 265 \| 💬: [594](https://news.ycombinator.com/item?id=42839650) \| 🗓️ 2025-01-27
+| 🔥🔥: 299 \| 💬: [630](https://news.ycombinator.com/item?id=42839650) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -99,7 +99,7 @@ Nvidia和ASML股价大幅下跌，因中国AI初创公司**DeepSeek**发布的�
 <small>🔗 [scd31.com](https://www.scd31.com/posts/taylorator): The Taylorator – All Your Frequencies Are Belong to Us</small>
 
 
-| 🔥🔥: 240 \| 💬: [74](https://news.ycombinator.com/item?id=42843623) \| 🗓️ 2025-01-27
+| 🔥🔥: 245 \| 💬: [77](https://news.ycombinator.com/item?id=42843623) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -107,7 +107,19 @@ Nvidia和ASML股价大幅下跌，因中国AI初创公司**DeepSeek**发布的�
 
 ---
 
-## <a name="8"></a>8. 英伟达单日市值蒸发近6000亿美元，创美国历史最大跌幅 
+## <a name="8"></a>8. 奥利弗·亥维赛与传输线理论 (2021) 
+<small>🔗 [pa3fwm.nl](https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html): Oliver Heaviside and the theory of transmission lines (2021)</small>
+
+
+| 🔥🔥: 231 \| 💬: [67](https://news.ycombinator.com/item?id=42840352) \| 🗓️ 2025-01-27
+
+
+<br />
+奥利弗·亥维赛（Oliver Heaviside）在19世纪对**传输线理论**做出了重要贡献。他通过研究电报电缆，发现了**电感**和**电容**在信号传输中的关键作用，并提出了更精确的模型。亥维赛的工作不仅改进了电报系统，还为现代电磁理论奠定了基础，尤其是他将麦克斯韦的复杂公式简化为更易理解的“麦克斯韦方程组”。
+
+---
+
+## <a name="9"></a>9. 英伟达单日市值蒸发近6000亿美元，创美国历史最大跌幅 
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/01/27/nvidia-sheds-almost-600-billion-in-market-cap-biggest-drop-ever.html): Nvidia sheds almost $600B in market cap</small>
 
 
@@ -119,23 +131,11 @@ Nvidia和ASML股价大幅下跌，因中国AI初创公司**DeepSeek**发布的�
 
 ---
 
-## <a name="9"></a>9. 奥利弗·亥维赛与传输线理论 (2021) 
-<small>🔗 [pa3fwm.nl](https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html): Oliver Heaviside and the theory of transmission lines (2021)</small>
-
-
-| 🔥🔥: 228 \| 💬: [67](https://news.ycombinator.com/item?id=42840352) \| 🗓️ 2025-01-27
-
-
-<br />
-奥利弗·亥维赛（Oliver Heaviside）在19世纪对**传输线理论**做出了重要贡献。他通过研究电报电缆，发现了**电感**和**电容**在信号传输中的关键作用，并提出了更精确的模型。亥维赛的工作不仅改进了电报系统，还为现代电磁理论奠定了基础，尤其是他将麦克斯韦的复杂公式简化为更易理解的“麦克斯韦方程组”。
-
----
-
 ## <a name="10"></a>10. 我信任了LLM，现在我的下午项目已经拖到第四天了 
 <small>🔗 [nemo.foo](https://nemo.foo/blog/day-4-of-an-afternoon-project): I trusted an LLM, now I'm on day 4 of an afternoon project</small>
 
 
-| 🔥🔥: 181 \| 💬: [140](https://news.ycombinator.com/item?id=42845933) \| 🗓️ 2025-01-27
+| 🔥🔥: 189 \| 💬: [142](https://news.ycombinator.com/item?id=42845933) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -147,7 +147,7 @@ Nvidia和ASML股价大幅下跌，因中国AI初创公司**DeepSeek**发布的�
 <small>🔗 [defn.io](https://defn.io/2024/11/16/podcatcher/): Show HN: I Made an iOS Podcast Player with Racket</small>
 
 
-| 🔥🔥: 178 \| 💬: [64](https://news.ycombinator.com/item?id=42838875) \| 🗓️ 2025-01-27
+| 🔥🔥: 182 \| 💬: [64](https://news.ycombinator.com/item?id=42838875) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -159,7 +159,7 @@ Nvidia和ASML股价大幅下跌，因中国AI初创公司**DeepSeek**发布的�
 <small>🔗 [newsletter.languagemodels.co](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1): The Illustrated DeepSeek-R1</small>
 
 
-| 🔥🔥: 173 \| 💬: [27](https://news.ycombinator.com/item?id=42845488) \| 🗓️ 2025-01-27
+| 🔥🔥: 174 \| 💬: [28](https://news.ycombinator.com/item?id=42845488) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -171,7 +171,7 @@ DeepSeek-R1是一款专注于**推理任务**的语言模型，通过**长链推
 <small>🔗 [anthonydavidadams.substack.com](https://anthonydavidadams.substack.com/p/the-alpha-myth-how-captive-wolves): The Alpha Myth: How captive wolves led us astray</small>
 
 
-| 🔥🔥: 166 \| 💬: [127](https://news.ycombinator.com/item?id=42844619) \| 🗓️ 2025-01-27
+| 🔥🔥: 173 \| 💬: [146](https://news.ycombinator.com/item?id=42844619) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -195,7 +195,7 @@ DeepSeek-R1是一款专注于**推理任务**的语言模型，通过**长链推
 <small>🔗 [rafbf.org](https://www.rafbf.org/news-and-stories/raf-history/operation-leg-pilot-unlike-any-other): Operation Leg – a pilot unlike any other (2020)</small>
 
 
-| 🔥🔥: 162 \| 💬: [71](https://news.ycombinator.com/item?id=42842257) \| 🗓️ 2025-01-27
+| 🔥🔥: 163 \| 💬: [71](https://news.ycombinator.com/item?id=42842257) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -207,7 +207,7 @@ DeepSeek-R1是一款专注于**推理任务**的语言模型，通过**长链推
 <small>🔗 [jvt.me](https://www.jvt.me/posts/2025/01/27/go-tools-124/): Go 1.24's go tool is one of the best additions to the ecosystem in years</small>
 
 
-| 🔥🔥: 143 \| 💬: [60](https://news.ycombinator.com/item?id=42845323) \| 🗓️ 2025-01-27
+| 🔥🔥: 154 \| 💬: [64](https://news.ycombinator.com/item?id=42845323) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -215,7 +215,19 @@ Go 1.24 引入了新的 `go tool` 命令和 `go.mod` 中的工具指令，用于
 
 ---
 
-## <a name="17"></a>17. 瑞典扣押涉嫌破坏波罗的海光缆的船只 
+## <a name="17"></a>17. SiFive的P550微架构 
+<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/inside-sifives-p550-microarchitecture): SiFive's P550 Microarchitecture</small>
+
+
+| 🔥🔥: 143 \| 💬: [51](https://news.ycombinator.com/item?id=42839501) \| 🗓️ 2025-01-27
+
+
+<br />
+SiFive的P550是一款**3宽度的乱序执行核心**，旨在提供比Arm Cortex A75更高的性能。P550采用13级流水线设计，具备**9.1 KiB分支历史表**和32 KB指令缓存，适合低功耗和高性能应用。与Arm A75相比，P550在分支预测和浮点运算方面表现更灵活，但在未对齐内存访问上表现较差。P550的**L3缓存**支持多核共享，适合从消费设备到边缘服务器的多种应用场景。
+
+---
+
+## <a name="18"></a>18. 瑞典扣押涉嫌破坏波罗的海光缆的船只 
 <small>🔗 [barrons.com](https://www.barrons.com/news/sweden-says-has-seized-ship-suspected-of-baltic-sea-sabotage-13ff82f2): Sweden Seizes Ship Suspected of Baltic Sea 'Sabotage'</small>
 
 
@@ -227,23 +239,11 @@ Go 1.24 引入了新的 `go tool` 命令和 `go.mod` 中的工具指令，用于
 
 ---
 
-## <a name="18"></a>18. SiFive的P550微架构 
-<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/inside-sifives-p550-microarchitecture): SiFive's P550 Microarchitecture</small>
-
-
-| 🔥🔥: 139 \| 💬: [50](https://news.ycombinator.com/item?id=42839501) \| 🗓️ 2025-01-27
-
-
-<br />
-SiFive的P550是一款**3宽度的乱序执行核心**，旨在提供比Arm Cortex A75更高的性能。P550采用13级流水线设计，具备**9.1 KiB分支历史表**和32 KB指令缓存，适合低功耗和高性能应用。与Arm A75相比，P550在分支预测和浮点运算方面表现更灵活，但在未对齐内存访问上表现较差。P550的**L3缓存**支持多核共享，适合从消费设备到边缘服务器的多种应用场景。
-
----
-
 ## <a name="19"></a>19. 双线性上下采样、像素网格对齐与GPU半像素偏移问题（2021） 
 <small>🔗 [bartwronski.com](https://bartwronski.com/2021/02/15/bilinear-down-upsampling-pixel-grids-and-that-half-pixel-offset/): Bilinear down/upsampling, aligning pixel grids, and that infamous GPU half pixel (2021)</small>
 
 
-| 🔥🔥: 106 \| 💬: [14](https://news.ycombinator.com/item?id=42842270) \| 🗓️ 2025-01-27
+| 🔥🔥: 107 \| 💬: [14](https://news.ycombinator.com/item?id=42842270) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -251,14 +251,14 @@ SiFive的P550是一款**3宽度的乱序执行核心**，旨在提供比Arm Cort
 
 ---
 
-## <a name="20"></a>20. Show HN: 我创建了ErisForge，一个用于LLM消融的Python库 
-<small>🔗 [github.com](https://github.com/Tsadoq/ErisForge): Show HN: I Created ErisForge, a Python Library for Abliteration of LLMs</small>
+## <a name="20"></a>20. 机器学习在生产中的应用（CMU课程） 
+<small>🔗 [mlip-cmu.github.io](https://mlip-cmu.github.io/s2025/): Machine Learning in Production (CMU Course)</small>
 
 
-| 🔥: 100 \| 💬: [42](https://news.ycombinator.com/item?id=42842123) \| 🗓️ 2025-01-27
+| 🔥🔥: 107 \| 💬: [10](https://news.ycombinator.com/item?id=42847834) \| 🗓️ 2025-01-27
 
 
 <br />
-ErisForge是一个Python库，旨在通过修改**大型语言模型（LLMs）**的内部层来改变其行为。该库允许用户对模型进行**消融**或增强，从而生成对特定输入类型有不同响应的模型版本。支持自定义行为方向，并提供**ExpressionRefusalScorer**来测量模型响应中的拒绝表达。适用于研究和开发，安装简单，支持本地保存或推送到HuggingFace Hub。
+该课程涵盖从原型机器学习模型到生产系统的全生命周期，重点包括**MLOps**、**负责任的人工智能**（如安全性、公平性、可解释性）以及如何构建、部署和维护机器学习驱动的软件产品。课程面向具备基础编程和机器学习经验的学生，强调跨学科团队合作，培养学生在生产环境中设计、测试和扩展机器学习系统的能力。
 
 ---
