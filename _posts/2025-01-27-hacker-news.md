@@ -27,7 +27,7 @@ tags:
 <small>🔗 [repebble.com](https://repebble.com/): We're bringing Pebble back</small>
 
 
-| 🔥🔥: 1126 \| 💬: [287](https://news.ycombinator.com/item?id=42845091) \| 🗓️ 2025-01-27
+| 🔥🔥: 1253 \| 💬: [323](https://news.ycombinator.com/item?id=42845091) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -39,7 +39,7 @@ Pebble创始人Eric Migicovsky宣布联合团队开发**开源PebbleOS**的新�
 <small>🔗 [mertbulan.com](https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/): A layoff fundamentally changed how I perceive work</small>
 
 
-| 🔥🔥: 870 \| 💬: [809](https://news.ycombinator.com/item?id=42838700) \| 🗓️ 2025-01-27
+| 🔥🔥: 878 \| 💬: [816](https://news.ycombinator.com/item?id=42838700) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -51,7 +51,7 @@ Pebble创始人Eric Migicovsky宣布联合团队开发**开源PebbleOS**的新�
 <small>🔗 [opensource.googleblog.com](https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html): Google open-sources the Pebble OS</small>
 
 
-| 🔥🔥: 647 \| 💬: [109](https://news.ycombinator.com/item?id=42845070) \| 🗓️ 2025-01-27
+| 🔥🔥: 707 \| 💬: [113](https://news.ycombinator.com/item?id=42845070) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -63,7 +63,7 @@ Google宣布将已停产的**Pebble智能手表操作系统**源代码公开，�
 <small>🔗 [rebble.io](https://rebble.io/2025/01/27/the-future-of-rebble.html): The future of Rebble</small>
 
 
-| 🔥🔥: 341 \| 💬: [19](https://news.ycombinator.com/item?id=42845017) \| 🗓️ 2025-01-27
+| 🔥🔥: 349 \| 💬: [19](https://news.ycombinator.com/item?id=42845017) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -75,7 +75,7 @@ Google宣布将已停产的**Pebble智能手表操作系统**源代码公开，�
 <small>🔗 [evanhahn.com](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/): My failed attempt to shrink all NPM packages by 5%</small>
 
 
-| 🔥🔥: 285 \| 💬: [189](https://news.ycombinator.com/item?id=42840548) \| 🗓️ 2025-01-27
+| 🔥🔥: 289 \| 💬: [190](https://news.ycombinator.com/item?id=42840548) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -87,7 +87,7 @@ Evan Hahn 在 2022 年提出一个想法，通过使用 **Zopfli** 压缩工具�
 <small>🔗 [finance.yahoo.com](https://finance.yahoo.com/news/asml-sinks-china-ai-startup-081823609.html): Nvidia, ASML plunge as DeepSeek triggers tech stock selloff</small>
 
 
-| 🔥🔥: 232 \| 💬: [349](https://news.ycombinator.com/item?id=42839650) \| 🗓️ 2025-01-27
+| 🔥🔥: 235 \| 💬: [351](https://news.ycombinator.com/item?id=42839650) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -95,35 +95,11 @@ Nvidia和ASML股价大幅下跌，因中国AI初创公司**DeepSeek**发布的�
 
 ---
 
-## <a name="7"></a>7. 英伟达单日市值蒸发近6000亿美元，创美国历史最大跌幅 
-<small>🔗 [cnbc.com](https://www.cnbc.com/2025/01/27/nvidia-sheds-almost-600-billion-in-market-cap-biggest-drop-ever.html): Nvidia sheds almost $600B in market cap, biggest one-day loss in US history</small>
-
-
-| 🔥🔥: 224 \| 💬: [227](https://news.ycombinator.com/item?id=42845681) \| 🗓️ 2025-01-27
-
-
-<br />
-英伟达股价周一暴跌17%，市值损失近6000亿美元，创下美国公司单日最大跌幅。此次抛售由**中国AI实验室DeepSeek**的竞争加剧引发，导致依赖英伟达芯片的数据中心公司股价大幅下跌。尽管分析师认为AI需求将持续增长，但市场对英伟达的**高估值**和潜在支出放缓感到担忧。
-
----
-
-## <a name="8"></a>8. 奥利弗·亥维赛与传输线理论 (2021) 
-<small>🔗 [pa3fwm.nl](https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html): Oliver Heaviside and the theory of transmission lines (2021)</small>
-
-
-| 🔥🔥: 220 \| 💬: [65](https://news.ycombinator.com/item?id=42840352) \| 🗓️ 2025-01-27
-
-
-<br />
-奥利弗·亥维赛（Oliver Heaviside）在19世纪对**传输线理论**做出了重要贡献。他通过研究电报电缆，发现了**电感**和**电容**在信号传输中的关键作用，并提出了更精确的模型。亥维赛的工作不仅改进了电报系统，还为现代电磁理论奠定了基础，尤其是他将麦克斯韦的复杂公式简化为更易理解的“麦克斯韦方程组”。
-
----
-
-## <a name="9"></a>9. 泰勒发生器——所有频率都属于我们 
+## <a name="7"></a>7. 泰勒发生器——所有频率都属于我们 
 <small>🔗 [scd31.com](https://www.scd31.com/posts/taylorator): The Taylorator – All Your Frequencies Are Belong to Us</small>
 
 
-| 🔥🔥: 220 \| 💬: [65](https://news.ycombinator.com/item?id=42843623) \| 🗓️ 2025-01-27
+| 🔥🔥: 233 \| 💬: [68](https://news.ycombinator.com/item?id=42843623) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -131,11 +107,35 @@ Nvidia和ASML股价大幅下跌，因中国AI初创公司**DeepSeek**发布的�
 
 ---
 
+## <a name="8"></a>8. 英伟达单日市值蒸发近6000亿美元，创美国历史最大跌幅 
+<small>🔗 [cnbc.com](https://www.cnbc.com/2025/01/27/nvidia-sheds-almost-600-billion-in-market-cap-biggest-drop-ever.html): Nvidia sheds almost $600B in market cap, biggest one-day loss in US history</small>
+
+
+| 🔥🔥: 230 \| 💬: [230](https://news.ycombinator.com/item?id=42845681) \| 🗓️ 2025-01-27
+
+
+<br />
+英伟达股价周一暴跌17%，市值损失近6000亿美元，创下美国公司单日最大跌幅。此次抛售由**中国AI实验室DeepSeek**的竞争加剧引发，导致依赖英伟达芯片的数据中心公司股价大幅下跌。尽管分析师认为AI需求将持续增长，但市场对英伟达的**高估值**和潜在支出放缓感到担忧。
+
+---
+
+## <a name="9"></a>9. 奥利弗·亥维赛与传输线理论 (2021) 
+<small>🔗 [pa3fwm.nl](https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html): Oliver Heaviside and the theory of transmission lines (2021)</small>
+
+
+| 🔥🔥: 222 \| 💬: [66](https://news.ycombinator.com/item?id=42840352) \| 🗓️ 2025-01-27
+
+
+<br />
+奥利弗·亥维赛（Oliver Heaviside）在19世纪对**传输线理论**做出了重要贡献。他通过研究电报电缆，发现了**电感**和**电容**在信号传输中的关键作用，并提出了更精确的模型。亥维赛的工作不仅改进了电报系统，还为现代电磁理论奠定了基础，尤其是他将麦克斯韦的复杂公式简化为更易理解的“麦克斯韦方程组”。
+
+---
+
 ## <a name="10"></a>10. Show HN: 我用 Racket 制作了一个 iOS 播客播放器 
 <small>🔗 [defn.io](https://defn.io/2024/11/16/podcatcher/): Show HN: I Made an iOS Podcast Player with Racket</small>
 
 
-| 🔥🔥: 171 \| 💬: [58](https://news.ycombinator.com/item?id=42838875) \| 🗓️ 2025-01-27
+| 🔥🔥: 174 \| 💬: [61](https://news.ycombinator.com/item?id=42838875) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -147,7 +147,7 @@ Nvidia和ASML股价大幅下跌，因中国AI初创公司**DeepSeek**发布的�
 <small>🔗 [newsletter.languagemodels.co](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1): The Illustrated DeepSeek-R1</small>
 
 
-| 🔥🔥: 167 \| 💬: [26](https://news.ycombinator.com/item?id=42845488) \| 🗓️ 2025-01-27
+| 🔥🔥: 171 \| 💬: [27](https://news.ycombinator.com/item?id=42845488) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -171,7 +171,7 @@ DeepSeek-R1是一款专注于**推理任务**的语言模型，通过**长链推
 <small>🔗 [rafbf.org](https://www.rafbf.org/news-and-stories/raf-history/operation-leg-pilot-unlike-any-other): Operation Leg – a pilot unlike any other (2020)</small>
 
 
-| 🔥🔥: 160 \| 💬: [71](https://news.ycombinator.com/item?id=42842257) \| 🗓️ 2025-01-27
+| 🔥🔥: 162 \| 💬: [71](https://news.ycombinator.com/item?id=42842257) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -183,7 +183,7 @@ DeepSeek-R1是一款专注于**推理任务**的语言模型，通过**长链推
 <small>🔗 [nemo.foo](https://nemo.foo/blog/day-4-of-an-afternoon-project): I trusted an LLM, now I'm on day 4 of an afternoon project</small>
 
 
-| 🔥🔥: 150 \| 💬: [105](https://news.ycombinator.com/item?id=42845933) \| 🗓️ 2025-01-27
+| 🔥🔥: 161 \| 💬: [126](https://news.ycombinator.com/item?id=42845933) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -195,7 +195,7 @@ DeepSeek-R1是一款专注于**推理任务**的语言模型，通过**长链推
 <small>🔗 [anthonydavidadams.substack.com](https://anthonydavidadams.substack.com/p/the-alpha-myth-how-captive-wolves): The Alpha Myth: How captive wolves led us astray</small>
 
 
-| 🔥🔥: 144 \| 💬: [85](https://news.ycombinator.com/item?id=42844619) \| 🗓️ 2025-01-27
+| 🔥🔥: 155 \| 💬: [101](https://news.ycombinator.com/item?id=42844619) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -219,7 +219,7 @@ DeepSeek-R1是一款专注于**推理任务**的语言模型，通过**长链推
 <small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/inside-sifives-p550-microarchitecture): SiFive's P550 Microarchitecture</small>
 
 
-| 🔥🔥: 136 \| 💬: [48](https://news.ycombinator.com/item?id=42839501) \| 🗓️ 2025-01-27
+| 🔥🔥: 137 \| 💬: [48](https://news.ycombinator.com/item?id=42839501) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -231,7 +231,7 @@ SiFive的P550是一款**3宽度的乱序执行核心**，旨在提供比Arm Cort
 <small>🔗 [jvt.me](https://www.jvt.me/posts/2025/01/27/go-tools-124/): Go 1.24's go tool is one of the best additions to the ecosystem in years</small>
 
 
-| 🔥🔥: 123 \| 💬: [43](https://news.ycombinator.com/item?id=42845323) \| 🗓️ 2025-01-27
+| 🔥🔥: 131 \| 💬: [52](https://news.ycombinator.com/item?id=42845323) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -243,7 +243,7 @@ Go 1.24 引入了新的 `go tool` 命令和 `go.mod` 中的工具指令，用于
 <small>🔗 [bartwronski.com](https://bartwronski.com/2021/02/15/bilinear-down-upsampling-pixel-grids-and-that-half-pixel-offset/): Bilinear down/upsampling, aligning pixel grids, and that infamous GPU half pixel (2021)</small>
 
 
-| 🔥: 99 \| 💬: [14](https://news.ycombinator.com/item?id=42842270) \| 🗓️ 2025-01-27
+| 🔥🔥: 103 \| 💬: [14](https://news.ycombinator.com/item?id=42842270) \| 🗓️ 2025-01-27
 
 
 <br />
