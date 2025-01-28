@@ -27,7 +27,7 @@ tags:
 <small>🔗 [repebble.com](https://repebble.com/): We're bringing Pebble back</small>
 
 
-| 🔥🔥: 1253 \| 💬: [323](https://news.ycombinator.com/item?id=42845091) \| 🗓️ 2025-01-27
+| 🔥🔥: 1354 \| 💬: [345](https://news.ycombinator.com/item?id=42845091) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -39,7 +39,7 @@ Pebble创始人Eric Migicovsky宣布联合团队开发**开源PebbleOS**的新�
 <small>🔗 [mertbulan.com](https://mertbulan.com/2025/01/26/once-you-are-laid-off-you-will-never-be-the-same-again/): A layoff fundamentally changed how I perceive work</small>
 
 
-| 🔥🔥: 878 \| 💬: [816](https://news.ycombinator.com/item?id=42838700) \| 🗓️ 2025-01-27
+| 🔥🔥: 893 \| 💬: [825](https://news.ycombinator.com/item?id=42838700) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -51,7 +51,7 @@ Pebble创始人Eric Migicovsky宣布联合团队开发**开源PebbleOS**的新�
 <small>🔗 [opensource.googleblog.com](https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html): Google open-sources the Pebble OS</small>
 
 
-| 🔥🔥: 707 \| 💬: [113](https://news.ycombinator.com/item?id=42845070) \| 🗓️ 2025-01-27
+| 🔥🔥: 778 \| 💬: [123](https://news.ycombinator.com/item?id=42845070) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -63,7 +63,7 @@ Google宣布将已停产的**Pebble智能手表操作系统**源代码公开，�
 <small>🔗 [rebble.io](https://rebble.io/2025/01/27/the-future-of-rebble.html): The future of Rebble</small>
 
 
-| 🔥🔥: 349 \| 💬: [19](https://news.ycombinator.com/item?id=42845017) \| 🗓️ 2025-01-27
+| 🔥🔥: 354 \| 💬: [21](https://news.ycombinator.com/item?id=42845017) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -75,7 +75,7 @@ Google宣布将已停产的**Pebble智能手表操作系统**源代码公开，�
 <small>🔗 [evanhahn.com](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/): My failed attempt to shrink all NPM packages by 5%</small>
 
 
-| 🔥🔥: 289 \| 💬: [190](https://news.ycombinator.com/item?id=42840548) \| 🗓️ 2025-01-27
+| 🔥🔥: 296 \| 💬: [193](https://news.ycombinator.com/item?id=42840548) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -84,10 +84,10 @@ Evan Hahn 在 2022 年提出一个想法，通过使用 **Zopfli** 压缩工具�
 ---
 
 ## <a name="6"></a>6. Nvidia和ASML因DeepSeek引发科技股抛售 
-<small>🔗 [finance.yahoo.com](https://finance.yahoo.com/news/asml-sinks-china-ai-startup-081823609.html): Nvidia, ASML plunge as DeepSeek triggers tech stock selloff</small>
+<small>🔗 [finance.yahoo.com](https://finance.yahoo.com/news/asml-sinks-china-ai-startup-081823609.html): Nvidia’s $589B DeepSeek rout</small>
 
 
-| 🔥🔥: 235 \| 💬: [351](https://news.ycombinator.com/item?id=42839650) \| 🗓️ 2025-01-27
+| 🔥🔥: 265 \| 💬: [594](https://news.ycombinator.com/item?id=42839650) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -99,7 +99,7 @@ Nvidia和ASML股价大幅下跌，因中国AI初创公司**DeepSeek**发布的�
 <small>🔗 [scd31.com](https://www.scd31.com/posts/taylorator): The Taylorator – All Your Frequencies Are Belong to Us</small>
 
 
-| 🔥🔥: 233 \| 💬: [68](https://news.ycombinator.com/item?id=42843623) \| 🗓️ 2025-01-27
+| 🔥🔥: 240 \| 💬: [74](https://news.ycombinator.com/item?id=42843623) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -108,10 +108,10 @@ Nvidia和ASML股价大幅下跌，因中国AI初创公司**DeepSeek**发布的�
 ---
 
 ## <a name="8"></a>8. 英伟达单日市值蒸发近6000亿美元，创美国历史最大跌幅 
-<small>🔗 [cnbc.com](https://www.cnbc.com/2025/01/27/nvidia-sheds-almost-600-billion-in-market-cap-biggest-drop-ever.html): Nvidia sheds almost $600B in market cap, biggest one-day loss in US history</small>
+<small>🔗 [cnbc.com](https://www.cnbc.com/2025/01/27/nvidia-sheds-almost-600-billion-in-market-cap-biggest-drop-ever.html): Nvidia sheds almost $600B in market cap</small>
 
 
-| 🔥🔥: 230 \| 💬: [230](https://news.ycombinator.com/item?id=42845681) \| 🗓️ 2025-01-27
+| 🔥🔥: 231 \| 💬: [23](https://news.ycombinator.com/item?id=42845681) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -123,7 +123,7 @@ Nvidia和ASML股价大幅下跌，因中国AI初创公司**DeepSeek**发布的�
 <small>🔗 [pa3fwm.nl](https://www.pa3fwm.nl/technotes/tn28-heaviside-transmission-lines.html): Oliver Heaviside and the theory of transmission lines (2021)</small>
 
 
-| 🔥🔥: 222 \| 💬: [66](https://news.ycombinator.com/item?id=42840352) \| 🗓️ 2025-01-27
+| 🔥🔥: 228 \| 💬: [67](https://news.ycombinator.com/item?id=42840352) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -131,11 +131,23 @@ Nvidia和ASML股价大幅下跌，因中国AI初创公司**DeepSeek**发布的�
 
 ---
 
-## <a name="10"></a>10. Show HN: 我用 Racket 制作了一个 iOS 播客播放器 
+## <a name="10"></a>10. 我信任了LLM，现在我的下午项目已经拖到第四天了 
+<small>🔗 [nemo.foo](https://nemo.foo/blog/day-4-of-an-afternoon-project): I trusted an LLM, now I'm on day 4 of an afternoon project</small>
+
+
+| 🔥🔥: 181 \| 💬: [140](https://news.ycombinator.com/item?id=42845933) \| 🗓️ 2025-01-27
+
+
+<br />
+作者原本计划用一下午时间完成一个硬件项目**Deskthang**，通过**Raspberry Pi Pico**和**Zig**语言实现USB数据传输，展示GitLab构建状态。然而，过度依赖**AI工具**（如ChatGPT和Claude）导致代码混乱、数据传输失败，项目陷入困境。作者反思**AI只是工具而非副驾驶**，过度依赖会阻碍学习和项目进展。最终决定重写项目，并手动编写文档，重新学习Zig语言。
+
+---
+
+## <a name="11"></a>11. Show HN: 我用 Racket 制作了一个 iOS 播客播放器 
 <small>🔗 [defn.io](https://defn.io/2024/11/16/podcatcher/): Show HN: I Made an iOS Podcast Player with Racket</small>
 
 
-| 🔥🔥: 174 \| 💬: [61](https://news.ycombinator.com/item?id=42838875) \| 🗓️ 2025-01-27
+| 🔥🔥: 178 \| 💬: [64](https://news.ycombinator.com/item?id=42838875) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -143,11 +155,11 @@ Nvidia和ASML股价大幅下跌，因中国AI初创公司**DeepSeek**发布的�
 
 ---
 
-## <a name="11"></a>11. 图解DeepSeek-R1 
+## <a name="12"></a>12. 图解DeepSeek-R1 
 <small>🔗 [newsletter.languagemodels.co](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1): The Illustrated DeepSeek-R1</small>
 
 
-| 🔥🔥: 171 \| 💬: [27](https://news.ycombinator.com/item?id=42845488) \| 🗓️ 2025-01-27
+| 🔥🔥: 173 \| 💬: [27](https://news.ycombinator.com/item?id=42845488) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -155,11 +167,23 @@ DeepSeek-R1是一款专注于**推理任务**的语言模型，通过**长链推
 
 ---
 
-## <a name="12"></a>12. 2020款特斯拉Model 3在2024年丹麦年检中四分之一未通过 
+## <a name="13"></a>13. 阿尔法神话：圈养狼如何误导了我们 
+<small>🔗 [anthonydavidadams.substack.com](https://anthonydavidadams.substack.com/p/the-alpha-myth-how-captive-wolves): The Alpha Myth: How captive wolves led us astray</small>
+
+
+| 🔥🔥: 166 \| 💬: [127](https://news.ycombinator.com/item?id=42844619) \| 🗓️ 2025-01-27
+
+
+<br />
+1974年，生物学家David Mech在动物园观察到狼群中的**“阿尔法”支配行为**，并将其误认为自然现象。然而，野外研究发现，狼群实际上是**家庭单位**，领导力通过**合作与关怀**而非暴力获得。这一误解影响了人类社会的领导文化，导致**“圈养男性综合征”**，强调竞争而非协作。如今，一些组织如Patagonia正在探索更自然的领导模式，强调平衡与合作。
+
+---
+
+## <a name="14"></a>14. 2020款特斯拉Model 3在2024年丹麦年检中四分之一未通过 
 <small>🔗 [fdm.dk](https://fdm.dk/nyheder/bilist/2025-01-populaer-tesla-model-dumper-med-et-brag-til-syn): One in four 2020 Tesla Model 3 failed the Danish periodic inspection in 2024</small>
 
 
-| 🔥🔥: 164 \| 💬: [169](https://news.ycombinator.com/item?id=42838855) \| 🗓️ 2025-01-27
+| 🔥🔥: 164 \| 💬: [170](https://news.ycombinator.com/item?id=42838855) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -167,7 +191,7 @@ DeepSeek-R1是一款专注于**推理任务**的语言模型，通过**长链推
 
 ---
 
-## <a name="13"></a>13. 行动：腿——一位与众不同的飞行员 
+## <a name="15"></a>15. 行动：腿——一位与众不同的飞行员 
 <small>🔗 [rafbf.org](https://www.rafbf.org/news-and-stories/raf-history/operation-leg-pilot-unlike-any-other): Operation Leg – a pilot unlike any other (2020)</small>
 
 
@@ -179,31 +203,19 @@ DeepSeek-R1是一款专注于**推理任务**的语言模型，通过**长链推
 
 ---
 
-## <a name="14"></a>14. 我信任了LLM，现在我的下午项目已经拖到第四天了 
-<small>🔗 [nemo.foo](https://nemo.foo/blog/day-4-of-an-afternoon-project): I trusted an LLM, now I'm on day 4 of an afternoon project</small>
+## <a name="16"></a>16. Go 1.24 的 go tool 是近年来生态系统中最棒的补充之一 
+<small>🔗 [jvt.me](https://www.jvt.me/posts/2025/01/27/go-tools-124/): Go 1.24's go tool is one of the best additions to the ecosystem in years</small>
 
 
-| 🔥🔥: 161 \| 💬: [126](https://news.ycombinator.com/item?id=42845933) \| 🗓️ 2025-01-27
-
-
-<br />
-作者原本计划用一下午时间完成一个硬件项目**Deskthang**，通过**Raspberry Pi Pico**和**Zig**语言实现USB数据传输，展示GitLab构建状态。然而，过度依赖**AI工具**（如ChatGPT和Claude）导致代码混乱、数据传输失败，项目陷入困境。作者反思**AI只是工具而非副驾驶**，过度依赖会阻碍学习和项目进展。最终决定重写项目，并手动编写文档，重新学习Zig语言。
-
----
-
-## <a name="15"></a>15. 阿尔法神话：圈养狼如何误导了我们 
-<small>🔗 [anthonydavidadams.substack.com](https://anthonydavidadams.substack.com/p/the-alpha-myth-how-captive-wolves): The Alpha Myth: How captive wolves led us astray</small>
-
-
-| 🔥🔥: 155 \| 💬: [101](https://news.ycombinator.com/item?id=42844619) \| 🗓️ 2025-01-27
+| 🔥🔥: 143 \| 💬: [60](https://news.ycombinator.com/item?id=42845323) \| 🗓️ 2025-01-27
 
 
 <br />
-1974年，生物学家David Mech在动物园观察到狼群中的**“阿尔法”支配行为**，并将其误认为自然现象。然而，野外研究发现，狼群实际上是**家庭单位**，领导力通过**合作与关怀**而非暴力获得。这一误解影响了人类社会的领导文化，导致**“圈养男性综合征”**，强调竞争而非协作。如今，一些组织如Patagonia正在探索更自然的领导模式，强调平衡与合作。
+Go 1.24 引入了新的 `go tool` 命令和 `go.mod` 中的工具指令，用于管理项目所需的工具。这一改进解决了以往使用 `tools.go` 模式时的**性能问题**和**依赖树膨胀**问题。通过 `go tool`，开发者可以更高效地管理工具依赖，减少间接依赖的影响，并提升构建和测试的性能。尽管存在一些小问题，如工具依赖被视为间接依赖，但整体上这一功能为 Go 生态系统带来了显著的改进。
 
 ---
 
-## <a name="16"></a>16. 瑞典扣押涉嫌破坏波罗的海光缆的船只 
+## <a name="17"></a>17. 瑞典扣押涉嫌破坏波罗的海光缆的船只 
 <small>🔗 [barrons.com](https://www.barrons.com/news/sweden-says-has-seized-ship-suspected-of-baltic-sea-sabotage-13ff82f2): Sweden Seizes Ship Suspected of Baltic Sea 'Sabotage'</small>
 
 
@@ -215,11 +227,11 @@ DeepSeek-R1是一款专注于**推理任务**的语言模型，通过**长链推
 
 ---
 
-## <a name="17"></a>17. SiFive的P550微架构 
+## <a name="18"></a>18. SiFive的P550微架构 
 <small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/inside-sifives-p550-microarchitecture): SiFive's P550 Microarchitecture</small>
 
 
-| 🔥🔥: 137 \| 💬: [48](https://news.ycombinator.com/item?id=42839501) \| 🗓️ 2025-01-27
+| 🔥🔥: 139 \| 💬: [50](https://news.ycombinator.com/item?id=42839501) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -227,23 +239,11 @@ SiFive的P550是一款**3宽度的乱序执行核心**，旨在提供比Arm Cort
 
 ---
 
-## <a name="18"></a>18. Go 1.24 的 go tool 是近年来生态系统中最棒的补充之一 
-<small>🔗 [jvt.me](https://www.jvt.me/posts/2025/01/27/go-tools-124/): Go 1.24's go tool is one of the best additions to the ecosystem in years</small>
-
-
-| 🔥🔥: 131 \| 💬: [52](https://news.ycombinator.com/item?id=42845323) \| 🗓️ 2025-01-27
-
-
-<br />
-Go 1.24 引入了新的 `go tool` 命令和 `go.mod` 中的工具指令，用于管理项目所需的工具。这一改进解决了以往使用 `tools.go` 模式时的**性能问题**和**依赖树膨胀**问题。通过 `go tool`，开发者可以更高效地管理工具依赖，减少间接依赖的影响，并提升构建和测试的性能。尽管存在一些小问题，如工具依赖被视为间接依赖，但整体上这一功能为 Go 生态系统带来了显著的改进。
-
----
-
 ## <a name="19"></a>19. 双线性上下采样、像素网格对齐与GPU半像素偏移问题（2021） 
 <small>🔗 [bartwronski.com](https://bartwronski.com/2021/02/15/bilinear-down-upsampling-pixel-grids-and-that-half-pixel-offset/): Bilinear down/upsampling, aligning pixel grids, and that infamous GPU half pixel (2021)</small>
 
 
-| 🔥🔥: 103 \| 💬: [14](https://news.ycombinator.com/item?id=42842270) \| 🗓️ 2025-01-27
+| 🔥🔥: 106 \| 💬: [14](https://news.ycombinator.com/item?id=42842270) \| 🗓️ 2025-01-27
 
 
 <br />
@@ -251,14 +251,14 @@ Go 1.24 引入了新的 `go tool` 命令和 `go.mod` 中的工具指令，用于
 
 ---
 
-## <a name="20"></a>20. 小鼠研究揭示微塑料可阻塞脑部血流 
-<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00178-0): Microplastics block blood flow in the brain, mouse study reveals</small>
+## <a name="20"></a>20. Show HN: 我创建了ErisForge，一个用于LLM消融的Python库 
+<small>🔗 [github.com](https://github.com/Tsadoq/ErisForge): Show HN: I Created ErisForge, a Python Library for Abliteration of LLMs</small>
 
 
-| 🔥: 98 \| 💬: [66](https://news.ycombinator.com/item?id=42838774) \| 🗓️ 2025-01-27
+| 🔥: 100 \| 💬: [42](https://news.ycombinator.com/item?id=42842123) \| 🗓️ 2025-01-27
 
 
 <br />
-科学家通过实时成像技术首次追踪到，小鼠摄入的荧光聚苯乙烯**微塑料**被**免疫细胞**摄取后，经血液循环滞留于脑部微小血管，形成类似“车祸”的阻塞。研究发现，部分阻塞持续四周，可能影响运动能力。尽管人体中是否发生类似阻塞尚不明确，但已有研究显示微塑料与心血管疾病风险上升相关。该成果发表于《科学进展》，采用**荧光显微技术**为探究微塑料健康影响提供新视角。
+ErisForge是一个Python库，旨在通过修改**大型语言模型（LLMs）**的内部层来改变其行为。该库允许用户对模型进行**消融**或增强，从而生成对特定输入类型有不同响应的模型版本。支持自定义行为方向，并提供**ExpressionRefusalScorer**来测量模型响应中的拒绝表达。适用于研究和开发，安装简单，支持本地保存或推送到HuggingFace Hub。
 
 ---
