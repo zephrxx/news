@@ -12,7 +12,7 @@ tags:
 1. 苹果CPU的新型推测攻击；
 1. Boom XB-1 首次超音速飞行 [视频]；
 1. DeepSeek 被审查的 1,156 个问题；
-1. 使用 uv 作为你的 shebang 行；
+1. 再见，Slopify；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Jan/27/llamacpp-pr/): Promising results from DeepSeek R1 for code</small>
 
 
-| 🔥🔥: 749 \| 💬: [551](https://news.ycombinator.com/item?id=42852866) \| 🗓️ 2025-01-28
+| 🔥🔥: 764 \| 💬: [562](https://news.ycombinator.com/item?id=42852866) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -39,7 +39,7 @@ Simon Willison 在其博客中分享了 **DeepSeek R1** 在代码生成方面的
 <small>🔗 [predictors.fail](https://predictors.fail/): New speculative attacks on Apple CPUs</small>
 
 
-| 🔥🔥: 659 \| 💬: [247](https://news.ycombinator.com/item?id=42856023) \| 🗓️ 2025-01-28
+| 🔥🔥: 688 \| 💬: [253](https://news.ycombinator.com/item?id=42856023) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -51,7 +51,7 @@ Simon Willison 在其博客中分享了 **DeepSeek R1** 在代码生成方面的
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=-qisIViAHwI): Boom XB-1 First Supersonic Flight [video]</small>
 
 
-| 🔥🔥: 451 \| 💬: [347](https://news.ycombinator.com/item?id=42853633) \| 🗓️ 2025-01-28
+| 🔥🔥: 466 \| 💬: [358](https://news.ycombinator.com/item?id=42853633) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -63,7 +63,7 @@ Boom XB-1 成功完成了**首次超音速飞行**，标志着超音速航空技
 <small>🔗 [promptfoo.dev](https://www.promptfoo.dev/blog/deepseek-censorship/): Questions censored by DeepSeek</small>
 
 
-| 🔥🔥: 308 \| 💬: [190](https://news.ycombinator.com/item?id=42858552) \| 🗓️ 2025-01-28
+| 🔥🔥: 311 \| 💬: [190](https://news.ycombinator.com/item?id=42858552) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -71,35 +71,11 @@ DeepSeek-R1 是一款开源模型，现居美国应用商店榜首。作为中�
 
 ---
 
-## <a name="5"></a>5. 使用 uv 作为你的 shebang 行 
-<small>🔗 [akrabat.com](https://akrabat.com/using-uv-as-your-shebang-line/): Using uv as your shebang line</small>
-
-
-| 🔥🔥: 275 \| 💬: [98](https://news.ycombinator.com/item?id=42855258) \| 🗓️ 2025-01-28
-
-
-<br />
-作者在 `~/bin/` 目录中创建了许多自动化脚本，并开始更多地使用 Python。通过在脚本中使用 `#!/usr/bin/env -S uv run --script` 作为 **shebang** 行，可以直接在命令行运行脚本。**uv** 会忽略 shebang 并将文件作为普通 Python 脚本执行。通过 `chmod a+x` 赋予脚本可执行权限后，即可轻松运行这些自动处理依赖的 Python 脚本。
-
----
-
-## <a name="6"></a>6. IAC确认在类太阳恒星宜居带发现超级地球 
-<small>🔗 [iac.es](https://www.iac.es/en/outreach/news/iac-confirms-existence-super-earth-habitable-zone-sun-star): IAC confirms existence of a Super-earth in the habitable zone of a Sun-like Star</small>
-
-
-| 🔥🔥: 264 \| 💬: [192](https://news.ycombinator.com/item?id=42853174) \| 🗓️ 2025-01-28
-
-
-<br />
-**超级地球**HD 20794 d位于类太阳恒星HD 20794的**宜居带**，质量是地球的6倍，轨道周期为647天。该行星的发现得益于20多年的径向速度观测，未来将成为研究类地行星大气的理想目标。尽管其**椭圆轨道**可能导致宜居条件变化，但为研究行星大气演化提供了独特机会。
-
----
-
-## <a name="7"></a>7. 再见，Slopify 
+## <a name="5"></a>5. 再见，Slopify 
 <small>🔗 [alexeystar.com](https://alexeystar.com/blog/slopify/): Goodbye, Slopify</small>
 
 
-| 🔥🔥: 240 \| 💬: [180](https://news.ycombinator.com/item?id=42860113) \| 🗓️ 2025-01-28
+| 🔥🔥: 288 \| 💬: [208](https://news.ycombinator.com/item?id=42860113) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -107,11 +83,35 @@ DeepSeek-R1 是一款开源模型，现居美国应用商店榜首。作为中�
 
 ---
 
+## <a name="6"></a>6. 使用 uv 作为你的 shebang 行 
+<small>🔗 [akrabat.com](https://akrabat.com/using-uv-as-your-shebang-line/): Using uv as your shebang line</small>
+
+
+| 🔥🔥: 287 \| 💬: [99](https://news.ycombinator.com/item?id=42855258) \| 🗓️ 2025-01-28
+
+
+<br />
+作者在 `~/bin/` 目录中创建了许多自动化脚本，并开始更多地使用 Python。通过在脚本中使用 `#!/usr/bin/env -S uv run --script` 作为 **shebang** 行，可以直接在命令行运行脚本。**uv** 会忽略 shebang 并将文件作为普通 Python 脚本执行。通过 `chmod a+x` 赋予脚本可执行权限后，即可轻松运行这些自动处理依赖的 Python 脚本。
+
+---
+
+## <a name="7"></a>7. IAC确认在类太阳恒星宜居带发现超级地球 
+<small>🔗 [iac.es](https://www.iac.es/en/outreach/news/iac-confirms-existence-super-earth-habitable-zone-sun-star): IAC confirms existence of a Super-earth in the habitable zone of a Sun-like Star</small>
+
+
+| 🔥🔥: 280 \| 💬: [195](https://news.ycombinator.com/item?id=42853174) \| 🗓️ 2025-01-28
+
+
+<br />
+**超级地球**HD 20794 d位于类太阳恒星HD 20794的**宜居带**，质量是地球的6倍，轨道周期为647天。该行星的发现得益于20多年的径向速度观测，未来将成为研究类地行星大气的理想目标。尽管其**椭圆轨道**可能导致宜居条件变化，但为研究行星大气演化提供了独特机会。
+
+---
+
 ## <a name="8"></a>8. 美国暂停所有联邦援助和拨款 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c77rdy6gzy5o): US pauses all federal aid and grants</small>
 
 
-| 🔥🔥: 236 \| 💬: [303](https://news.ycombinator.com/item?id=42851248) \| 🗓️ 2025-01-28
+| 🔥🔥: 239 \| 💬: [316](https://news.ycombinator.com/item?id=42851248) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -123,7 +123,7 @@ DeepSeek-R1 是一款开源模型，现居美国应用商店榜首。作为中�
 <small>🔗 [epoch.ai](https://epoch.ai/gradient-updates/how-has-deepseek-improved-the-transformer-architecture): How has DeepSeek improved the Transformer architecture?</small>
 
 
-| 🔥🔥: 219 \| 💬: [56](https://news.ycombinator.com/item?id=42855170) \| 🗓️ 2025-01-28
+| 🔥🔥: 223 \| 💬: [57](https://news.ycombinator.com/item?id=42855170) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -135,7 +135,7 @@ DeepSeek v3通过**多头潜在注意力（MLA）**和**专家混合（MoE）**�
 <small>🔗 [bitwarden.com](https://bitwarden.com/help/new-device-verification/): Bitwarden is turning 2FA on by default for new devices</small>
 
 
-| 🔥🔥: 215 \| 💬: [239](https://news.ycombinator.com/item?id=42853696) \| 🗓️ 2025-01-28
+| 🔥🔥: 216 \| 💬: [240](https://news.ycombinator.com/item?id=42853696) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -155,23 +155,11 @@ DeepSeek 发布了 **Janus Pro**（1B 和 7B），这是一个多模态大语言
 
 ---
 
-## <a name="12"></a>12. 浏览器中使用WASM的嵌入式Common Lisp运行Maxima 
-<small>🔗 [maxima-on-wasm.pages.dev](https://maxima-on-wasm.pages.dev/): Maxima in the browser using Embedded Common Lisp on WASM</small>
-
-
-| 🔥🔥: 183 \| 💬: [43](https://news.ycombinator.com/item?id=42853528) \| 🗓️ 2025-01-28
-
-
-<br />
-这是**Maxima**，一个计算机代数系统。浏览器前端由Marius Gerbershagen使用**Embeddable Common Lisp**、emscripten、gnuplot和MathJax构建。源代码已公开，支持显示排版输出。
-
----
-
-## <a name="13"></a>13. DeepSeek的多头潜在注意力及其他KV缓存优化技巧 
+## <a name="12"></a>12. DeepSeek的多头潜在注意力及其他KV缓存优化技巧 
 <small>🔗 [pyspur.dev](https://www.pyspur.dev/blog/multi-head-latent-attention-kv-cache-paper-list): DeepSeek's multi-head latent attention and other KV cache tricks</small>
 
 
-| 🔥🔥: 177 \| 💬: [33](https://news.ycombinator.com/item?id=42858741) \| 🗓️ 2025-01-28
+| 🔥🔥: 192 \| 💬: [35](https://news.ycombinator.com/item?id=42858741) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -179,11 +167,23 @@ DeepSeek 发布了 **Janus Pro**（1B 和 7B），这是一个多模态大语言
 
 ---
 
+## <a name="13"></a>13. 浏览器中使用WASM的嵌入式Common Lisp运行Maxima 
+<small>🔗 [maxima-on-wasm.pages.dev](https://maxima-on-wasm.pages.dev/): Maxima in the browser using Embedded Common Lisp on WASM</small>
+
+
+| 🔥🔥: 186 \| 💬: [43](https://news.ycombinator.com/item?id=42853528) \| 🗓️ 2025-01-28
+
+
+<br />
+这是**Maxima**，一个计算机代数系统。浏览器前端由Marius Gerbershagen使用**Embeddable Common Lisp**、emscripten、gnuplot和MathJax构建。源代码已公开，支持显示排版输出。
+
+---
+
 ## <a name="14"></a>14. 帕金森病患者使用新型自适应脑深部刺激设备后“感觉痊愈” 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/ckgn49r069wo): Parkinsons patient "feels cured" with new adaptive deep brain stimulation device</small>
 
 
-| 🔥🔥: 164 \| 💬: [17](https://news.ycombinator.com/item?id=42857293) \| 🗓️ 2025-01-28
+| 🔥🔥: 178 \| 💬: [18](https://news.ycombinator.com/item?id=42857293) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -207,7 +207,7 @@ DeepSeek 发布了 **Janus Pro**（1B 和 7B），这是一个多模态大语言
 <small>🔗 [abc.net.au](https://www.abc.net.au/news/2025-01-28/almost-one-in-ten-people-use-the-same-four-digit-pin/103946842): Almost one in 10 people use the same four-digit PIN</small>
 
 
-| 🔥🔥: 149 \| 💬: [132](https://news.ycombinator.com/item?id=42853617) \| 🗓️ 2025-01-28
+| 🔥🔥: 150 \| 💬: [132](https://news.ycombinator.com/item?id=42853617) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -215,11 +215,23 @@ DeepSeek 发布了 **Janus Pro**（1B 和 7B），这是一个多模态大语言
 
 ---
 
-## <a name="17"></a>17. 离开《纽约时报》 
+## <a name="17"></a>17. 图书馆让一切更美好 
+<small>🔗 [lithub.com](https://lithub.com/its-official-research-has-found-that-libraries-make-everything-better/): Libraries make everything better</small>
+
+
+| 🔥🔥: 144 \| 💬: [61](https://news.ycombinator.com/item?id=42860240) \| 🗓️ 2025-01-28
+
+
+<br />
+Lithub Daily 的最新内容包括：**Forrest Gander** 的新诗集围绕800英里的徒步展开，**Karl Ove Knausgaard** 评论画家 **Celia Paul**，以及 Danez Smith 分享在健身房的故事。Lit hub Radio 提供播客和有声书等丰富内容。
+
+---
+
+## <a name="18"></a>18. 离开《纽约时报》 
 <small>🔗 [contrarian.substack.com](https://contrarian.substack.com/p/departing-the-new-york-times): Departing the New York Times</small>
 
 
-| 🔥🔥: 141 \| 💬: [38](https://news.ycombinator.com/item?id=42859669) \| 🗓️ 2025-01-28
+| 🔥🔥: 143 \| 💬: [38](https://news.ycombinator.com/item?id=42859669) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -227,38 +239,26 @@ DeepSeek 发布了 **Janus Pro**（1B 和 7B），这是一个多模态大语言
 
 ---
 
-## <a name="18"></a>18. Sam Altman称拥有1000万美元的初创公司无法与OpenAI竞争 
-<small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/artificial-intelligence/sam-altman-said-startups-with-only-usd10-million-were-totally-hopeless-competing-with-openai-deepseeks-disruption-says-otherwise): Sam Altman said startups with $10M were 'hopeless' competing with OpenAI</small>
-
-
-| 🔥🔥: 135 \| 💬: [157](https://news.ycombinator.com/item?id=42854525) \| 🗓️ 2025-01-28
-
-
-<br />
-Sam Altman在2023年的一次演讲中表示，**拥有1000万美元预算的初创公司**在训练基础模型方面与OpenAI竞争是“**完全无望的**”。然而，2025年初，中国的DeepSeek公司以仅560万美元的成本训练出突破性模型，引发了行业震动。Altman随后在X上称赞DeepSeek的成就，但依然强调OpenAI的未来优势。这一事件引发了对其判断力的质疑，并凸显了AI领域的快速变化。
-
----
-
-## <a name="19"></a>19. 克利夫兰警方使用AI证明搜查令，却导致谋杀案失败 
-<small>🔗 [cleveland.com](https://www.cleveland.com/news/2025/01/cleveland-police-used-ai-to-justify-a-search-warrant-it-has-derailed-a-murder-case.html): Cleveland police used AI to justify a search warrant. It derailed a murder case</small>
-
-
-| 🔥🔥: 134 \| 💬: [145](https://news.ycombinator.com/item?id=42851124) \| 🗓️ 2025-01-28
-
-
-<br />
-克利夫兰警方使用**AI面部识别技术**获取搜查令，但未在宣誓书中披露这一事实。法官认为此举误导，并排除了搜查到的证据。案件可能因此被撤销，凸显了**AI技术在执法中的监管缺失**。
-
----
-
-## <a name="20"></a>20. 美国公务员被询问2024年大选投票情况 
+## <a name="19"></a>19. 美国公务员被询问2024年大选投票情况 
 <small>🔗 [independent.co.uk](https://www.independent.co.uk/news/world/americas/us-politics/trump-civil-service-loyalty-transition-b2678674.html): US Civil servants are being asked who they voted for in 2024 election</small>
 
 
-| 🔥🔥: 132 \| 💬: [106](https://news.ycombinator.com/item?id=42850644) \| 🗓️ 2025-01-28
+| 🔥🔥: 139 \| 💬: [119](https://news.ycombinator.com/item?id=42850644) \| 🗓️ 2025-01-28
 
 
 <br />
 据报道，**特朗普政府**的高级官员开始询问在白宫国家安全委员会（NSC）工作的职业公务员，了解他们在2024年大选中的投票倾向、政治捐款以及是否发表过可能被视为“不当”的社交媒体帖子。此举引发了对**NSC专家流失**的担忧，可能导致新政府在处理乌克兰和中东等复杂政策挑战时缺乏专业知识和经验。此外，这种做法可能使新政策专家在表达不同意见时更加谨慎。
+
+---
+
+## <a name="20"></a>20. Sam Altman称拥有1000万美元的初创公司无法与OpenAI竞争 
+<small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/artificial-intelligence/sam-altman-said-startups-with-only-usd10-million-were-totally-hopeless-competing-with-openai-deepseeks-disruption-says-otherwise): Sam Altman said startups with $10M were 'hopeless' competing with OpenAI</small>
+
+
+| 🔥🔥: 136 \| 💬: [157](https://news.ycombinator.com/item?id=42854525) \| 🗓️ 2025-01-28
+
+
+<br />
+Sam Altman在2023年的一次演讲中表示，**拥有1000万美元预算的初创公司**在训练基础模型方面与OpenAI竞争是“**完全无望的**”。然而，2025年初，中国的DeepSeek公司以仅560万美元的成本训练出突破性模型，引发了行业震动。Altman随后在X上称赞DeepSeek的成就，但依然强调OpenAI的未来优势。这一事件引发了对其判断力的质疑，并凸显了AI领域的快速变化。
 
 ---
