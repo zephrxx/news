@@ -11,8 +11,8 @@ tags:
 1. OpenAI 愤怒指责 DeepSeek 可能窃取了其数据；
 1. 为什么DeepSeek必须开源；
 1. 我不想让AI“润色”我；
-1. 希捷：'全新'硬盘已使用数万小时；
 1. DeepSeek的R1-Zero与R1分析；
+1. 希捷：'全新'硬盘已使用数万小时；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [404media.co](https://www.404media.co/openai-furious-deepseek-might-have-stolen-all-the-data-openai-stole-from-us/): OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole from Us</small>
 
 
-| 🔥🔥: 1265 \| 💬: [9](https://news.ycombinator.com/item?id=42865527) \| 🗓️ 2025-01-29
+| 🔥🔥: 1268 \| 💬: [9](https://news.ycombinator.com/item?id=42865527) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -39,7 +39,7 @@ OpenAI 和微软正在调查中国 AI 初创公司 DeepSeek 是否未经授权�
 <small>🔗 [getlago.com](https://www.getlago.com/blog/deepseek-open-source): Why DeepSeek had to be open source</small>
 
 
-| 🔥🔥: 477 \| 💬: [248](https://news.ycombinator.com/item?id=42866201) \| 🗓️ 2025-01-29
+| 🔥🔥: 479 \| 💬: [257](https://news.ycombinator.com/item?id=42866201) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -51,7 +51,7 @@ DeepSeek提供了**开源版本**和**高级版本**，分别适用于小型项�
 <small>🔗 [thebloggess.com](https://thebloggess.com/2025/01/28/no-i-do-not-want-ai-to-polish-me/): I do not want AI to "polish" me</small>
 
 
-| 🔥🔥: 381 \| 💬: [245](https://news.ycombinator.com/item?id=42864854) \| 🗓️ 2025-01-29
+| 🔥🔥: 383 \| 💬: [246](https://news.ycombinator.com/item?id=42864854) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -59,23 +59,11 @@ DeepSeek提供了**开源版本**和**高级版本**，分别适用于小型项�
 
 ---
 
-## <a name="4"></a>4. 希捷：'全新'硬盘已使用数万小时 
-<small>🔗 [tomshardware.com](https://www.tomshardware.com/pc-components/hdds/german-seagate-customers-say-their-new-hard-drives-were-actually-used-resold-hdds-reportedly-used-for-tens-of-thousands-of-hours): Seagate: 'new' hard drives used for tens of thousands of hours</small>
-
-
-| 🔥🔥: 289 \| 💬: [173](https://news.ycombinator.com/item?id=42864788) \| 🗓️ 2025-01-29
-
-
-<br />
-德国媒体Heise.de揭露，许多读者购买的**希捷硬盘**标榜全新，实则为**二手产品**。部分硬盘使用时间高达**50,000小时**，且**SMART数据被重置**。希捷表示这些是OEM型号，不适用五年保修。问题涉及多家零售商，包括亚马逊等大型平台。希捷正在调查此事。
-
----
-
-## <a name="5"></a>5. DeepSeek的R1-Zero与R1分析 
+## <a name="4"></a>4. DeepSeek的R1-Zero与R1分析 
 <small>🔗 [arcprize.org](https://arcprize.org/blog/r1-zero-r1-results-analysis): An analysis of DeepSeek's R1-Zero and R1</small>
 
 
-| 🔥🔥: 282 \| 💬: [118](https://news.ycombinator.com/item?id=42868390) \| 🗓️ 2025-01-29
+| 🔥🔥: 320 \| 💬: [135](https://news.ycombinator.com/item?id=42868390) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -83,11 +71,23 @@ DeepSeek发布的**R1-Zero**和**R1**系统在ARC-AGI-1基准测试中表现出�
 
 ---
 
+## <a name="5"></a>5. 希捷：'全新'硬盘已使用数万小时 
+<small>🔗 [tomshardware.com](https://www.tomshardware.com/pc-components/hdds/german-seagate-customers-say-their-new-hard-drives-were-actually-used-resold-hdds-reportedly-used-for-tens-of-thousands-of-hours): Seagate: 'new' hard drives used for tens of thousands of hours</small>
+
+
+| 🔥🔥: 305 \| 💬: [181](https://news.ycombinator.com/item?id=42864788) \| 🗓️ 2025-01-29
+
+
+<br />
+德国媒体Heise.de揭露，许多读者购买的**希捷硬盘**标榜全新，实则为**二手产品**。部分硬盘使用时间高达**50,000小时**，且**SMART数据被重置**。希捷表示这些是OEM型号，不适用五年保修。问题涉及多家零售商，包括亚马逊等大型平台。希捷正在调查此事。
+
+---
+
 ## <a name="6"></a>6. Google Pixel 4a 旧固件消失，用户被困在电池更新问题中 
 <small>🔗 [androidcentral.com](https://www.androidcentral.com/phones/google-pixel-4as-old-firmware-is-gone-trapping-users-on-the-buggy-battery-update): Google Pixel 4a's old firmware is gone, trapping users on buggy battery update</small>
 
 
-| 🔥🔥: 215 \| 💬: [184](https://news.ycombinator.com/item?id=42865619) \| 🗓️ 2025-01-29
+| 🔥🔥: 227 \| 💬: [202](https://news.ycombinator.com/item?id=42865619) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -99,7 +99,7 @@ Google 为 Pixel 4a 推出的**电池更新**导致严重**电池耗电**问题�
 <small>🔗 [catherineshannon.substack.com](https://catherineshannon.substack.com/p/your-phone-is-why-you-dont-feel-sexy): Our phones are killing our ability to feel sexy (2024)</small>
 
 
-| 🔥🔥: 204 \| 💬: [213](https://news.ycombinator.com/item?id=42864595) \| 🗓️ 2025-01-29
+| 🔥🔥: 205 \| 💬: [213](https://news.ycombinator.com/item?id=42864595) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -119,23 +119,11 @@ Google 为 Pixel 4a 推出的**电池更新**导致严重**电池耗电**问题�
 
 ---
 
-## <a name="9"></a>9. 加州总检察长警告AI公司：几乎所有行为可能违法 
-<small>🔗 [gizmodo.com](https://gizmodo.com/californias-ag-tells-ai-companies-practically-everything-theyre-doing-might-be-illegal-2000555896): Cali's AG Tells AI Companies Almost Everything They're Doing Might Be Illegal</small>
-
-
-| 🔥🔥: 162 \| 💬: [140](https://news.ycombinator.com/item?id=42865174) \| 🗓️ 2025-01-29
-
-
-<br />
-加州总检察长Rob Bonta发布法律备忘录，指出AI行业可能涉及多项违法行为，包括**利用AI进行欺骗性内容生成**、**虚假宣传AI系统的能力**，以及**开发或销售可能对受保护群体产生歧视性影响的AI系统**。备忘录强调，AI的开发和使用必须符合伦理和法律，否则可能面临法律制裁。此外，AI公司在版权法等领域也面临诸多法律挑战。
-
----
-
-## <a name="10"></a>10. 食盐加碘对认知改善的作用：研究（2013） 
+## <a name="9"></a>9. 食盐加碘对认知改善的作用：研究（2013） 
 <small>🔗 [discovermagazine.com](https://www.discovermagazine.com/health/how-adding-iodine-to-salt-boosted-americans-iq): Adding iodine to salt played a role in cognitive improvements: research (2013)</small>
 
 
-| 🔥🔥: 162 \| 💬: [96](https://news.ycombinator.com/item?id=42868718) \| 🗓️ 2025-01-29
+| 🔥🔥: 168 \| 💬: [109](https://news.ycombinator.com/item?id=42868718) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -143,11 +131,23 @@ Google 为 Pixel 4a 推出的**电池更新**导致严重**电池耗电**问题�
 
 ---
 
+## <a name="10"></a>10. 加州总检察长警告AI公司：几乎所有行为可能违法 
+<small>🔗 [gizmodo.com](https://gizmodo.com/californias-ag-tells-ai-companies-practically-everything-theyre-doing-might-be-illegal-2000555896): Cali's AG Tells AI Companies Almost Everything They're Doing Might Be Illegal</small>
+
+
+| 🔥🔥: 163 \| 💬: [141](https://news.ycombinator.com/item?id=42865174) \| 🗓️ 2025-01-29
+
+
+<br />
+加州总检察长Rob Bonta发布法律备忘录，指出AI行业可能涉及多项违法行为，包括**利用AI进行欺骗性内容生成**、**虚假宣传AI系统的能力**，以及**开发或销售可能对受保护群体产生歧视性影响的AI系统**。备忘录强调，AI的开发和使用必须符合伦理和法律，否则可能面临法律制裁。此外，AI公司在版权法等领域也面临诸多法律挑战。
+
+---
+
 ## <a name="11"></a>11. 我们遭遇了一次极其精心准备的钓鱼垃圾邮件攻击 
 <small>🔗 [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/spam/WellPreparedPhishSpammer): We got hit by an alarmingly well-prepared phish spammer</small>
 
 
-| 🔥🔥: 153 \| 💬: [98](https://news.ycombinator.com/item?id=42862873) \| 🗓️ 2025-01-29
+| 🔥🔥: 155 \| 💬: [98](https://news.ycombinator.com/item?id=42862873) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -155,23 +155,11 @@ Google 为 Pixel 4a 推出的**电池更新**导致严重**电池耗电**问题�
 
 ---
 
-## <a name="12"></a>12. 英特尔不懂如何成为代工厂，蒂姆·库克曾对台积电CEO表示 
-<small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/tsmc-founder-says-tim-cook-told-him-intel-did-not-know-how-to-be-a-foundry): Intel doesn't know how to be a foundry," Tim Cook reportedly told TSMC's CEO</small>
-
-
-| 🔥🔥: 136 \| 💬: [82](https://news.ycombinator.com/item?id=42868531) \| 🗓️ 2025-01-29
-
-
-<br />
-苹果在2010年代初期开始自研iPhone和iPad处理器时，曾考虑使用**英特尔定制代工**（ICF），但发现其不适合外部客户。最终选择了**台积电**，因其客户至上的服务态度和灵活的技术响应能力。库克曾表示，英特尔缺乏代工厂所需的服务意识。台积电通过满足苹果的定制需求，逐步超越英特尔，成为全球领先的半导体制造商。
-
----
-
-## <a name="13"></a>13. SmolGPT：一个用于从头训练小型LLM的极简PyTorch实现 
+## <a name="12"></a>12. SmolGPT：一个用于从头训练小型LLM的极简PyTorch实现 
 <small>🔗 [github.com](https://github.com/Om-Alve/smolGPT): SmolGPT: A minimal PyTorch implementation for training a small LLM from scratch</small>
 
 
-| 🔥🔥: 123 \| 💬: [20](https://news.ycombinator.com/item?id=42868770) \| 🗓️ 2025-01-29
+| 🔥🔥: 151 \| 💬: [23](https://news.ycombinator.com/item?id=42868770) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -179,23 +167,11 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 
 ---
 
-## <a name="14"></a>14. 关于深度求索与出口管制 
-<small>🔗 [darioamodei.com](https://darioamodei.com/on-deepseek-and-export-controls): On DeepSeek and export controls</small>
-
-
-| 🔥🔥: 115 \| 💬: [165](https://news.ycombinator.com/item?id=42866905) \| 🗓️ 2025-01-29
-
-
-<br />
-深度求索（DeepSeek）近期发布的AI模型在性能上接近美国前沿模型，且成本更低。尽管这显示出中国在AI领域的进步，但**出口管制**仍至关重要，以确保美国及其盟友在AI发展中保持领先。**深度求索**的创新并未改变AI发展的基本趋势，未来几年，**芯片供应**将决定中美在AI领域的竞争格局。
-
----
-
-## <a name="15"></a>15. 2032年小行星撞击地球概率1%，能量达8百万吨 
+## <a name="13"></a>13. 2032年小行星撞击地球概率1%，能量达8百万吨 
 <small>🔗 [cneos.jpl.nasa.gov](https://cneos.jpl.nasa.gov/sentry/details.html#?des=2024%20YR4): Asteroid Impact on Earth 2032 with Probability 1% and 8Mt Energy</small>
 
 
-| 🔥🔥: 112 \| 💬: [116](https://news.ycombinator.com/item?id=42864272) \| 🗓️ 2025-01-29
+| 🔥🔥: 145 \| 💬: [136](https://news.ycombinator.com/item?id=42864272) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -203,11 +179,23 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 
 ---
 
-## <a name="16"></a>16. 《无人深空》更新引入数十亿新恒星、行星等 
+## <a name="14"></a>14. 英特尔不懂如何成为代工厂，蒂姆·库克曾对台积电CEO表示 
+<small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/tsmc-founder-says-tim-cook-told-him-intel-did-not-know-how-to-be-a-foundry): Intel doesn't know how to be a foundry, Tim Cook reportedly said in 2011</small>
+
+
+| 🔥🔥: 144 \| 💬: [84](https://news.ycombinator.com/item?id=42868531) \| 🗓️ 2025-01-29
+
+
+<br />
+苹果在2010年代初期开始自研iPhone和iPad处理器时，曾考虑使用**英特尔定制代工**（ICF），但发现其不适合外部客户。最终选择了**台积电**，因其客户至上的服务态度和灵活的技术响应能力。库克曾表示，英特尔缺乏代工厂所需的服务意识。台积电通过满足苹果的定制需求，逐步超越英特尔，成为全球领先的半导体制造商。
+
+---
+
+## <a name="15"></a>15. 《无人深空》更新引入数十亿新恒星、行星等 
 <small>🔗 [blog.playstation.com](https://blog.playstation.com/2025/01/29/no-mans-skys-latest-update-introduces-billions-of-new-stars-planets-and-more-today/): No Man's Sky's update introduces billions of new stars, planets, and more</small>
 
 
-| 🔥🔥: 112 \| 💬: [84](https://news.ycombinator.com/item?id=42868618) \| 🗓️ 2025-01-29
+| 🔥🔥: 122 \| 💬: [89](https://news.ycombinator.com/item?id=42868618) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -215,11 +203,35 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 
 ---
 
-## <a name="17"></a>17. 修复与升级Commodore Amiga 1000的故事 
+## <a name="16"></a>16. 关于深度求索与出口管制 
+<small>🔗 [darioamodei.com](https://darioamodei.com/on-deepseek-and-export-controls): On DeepSeek and export controls</small>
+
+
+| 🔥🔥: 117 \| 💬: [165](https://news.ycombinator.com/item?id=42866905) \| 🗓️ 2025-01-29
+
+
+<br />
+深度求索（DeepSeek）近期发布的AI模型在性能上接近美国前沿模型，且成本更低。尽管这显示出中国在AI领域的进步，但**出口管制**仍至关重要，以确保美国及其盟友在AI发展中保持领先。**深度求索**的创新并未改变AI发展的基本趋势，未来几年，**芯片供应**将决定中美在AI领域的竞争格局。
+
+---
+
+## <a name="17"></a>17. 制作让Gorillaz成名的视频 
+<small>🔗 [animationobsessive.substack.com](https://animationobsessive.substack.com/p/making-the-video-that-made-gorillaz): Making the video that made Gorillaz</small>
+
+
+| 🔥🔥: 116 \| 💬: [26](https://news.ycombinator.com/item?id=42870990) \| 🗓️ 2025-01-29
+
+
+<br />
+本文讲述了动画师**Pete Candeland**如何通过**Clint Eastwood**音乐视频为Gorillaz奠定视觉风格。Candeland结合**2D与CG技术**，创造了独特的动画风格，并深入探讨了视频制作中的创意与技术挑战。
+
+---
+
+## <a name="18"></a>18. 修复与升级Commodore Amiga 1000的故事 
 <small>🔗 [celso.io](https://celso.io/posts/2025/01/26/the-first-perfect-computer/): A story about restoring and upgrading a Commodore Amiga 1000</small>
 
 
-| 🔥🔥: 104 \| 💬: [29](https://news.ycombinator.com/item?id=42865867) \| 🗓️ 2025-01-29
+| 🔥🔥: 113 \| 💬: [31](https://news.ycombinator.com/item?id=42865867) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -227,7 +239,7 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 
 ---
 
-## <a name="18"></a>18. 陶哲轩：特朗普的联邦资金冻结与平均场博弈论 
+## <a name="19"></a>19. 陶哲轩：特朗普的联邦资金冻结与平均场博弈论 
 <small>🔗 [mathstodon.xyz](https://mathstodon.xyz/@tao/113910070146861518): Terence Tao: Trump's Federal Funding Freeze and Mean-Field Game Theory</small>
 
 
@@ -239,26 +251,14 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 
 ---
 
-## <a name="19"></a>19. Debian 宣传团队将不再在 X/Twitter 上发布内容 
-<small>🔗 [micronews.debian.org](https://micronews.debian.org/2025/1738154246.html): The Debian Publicity Team will no longer post on X/Twitter</small>
+## <a name="20"></a>20. 死去的游戏 
+<small>🔗 [garry.net](https://garry.net/posts/dead-games): Dead Games</small>
 
 
-| 🔥: 89 \| 💬: [9](https://news.ycombinator.com/item?id=42864919) \| 🗓️ 2025-01-29
-
-
-<br />
-由于 **X/Twitter** 不再符合 Debian 的**共享价值观**（如社会契约、行为准则和多样性声明），且已成为一个让关心的人感到不安全的地方，Debian 宣传团队决定停止在该平台发布内容。欢迎通过 [bits.debian.org](https://bits.debian.org) 或 [micronews.debian.org](https://micronews.debian.org/) 关注我们。
-
----
-
-## <a name="20"></a>20. 核聚变：是时候进行现实检查了 
-<small>🔗 [theguardian.com](https://www.theguardian.com/science/2025/jan/22/nuclear-fusion-its-time-for-a-reality-check): Nuclear fusion: it's time for a reality check</small>
-
-
-| 🔥: 88 \| 💬: [113](https://news.ycombinator.com/item?id=42863811) \| 🗓️ 2025-01-29
+| 🔥: 95 \| 💬: [28](https://news.ycombinator.com/item?id=42870230) \| 🗓️ 2025-01-29
 
 
 <br />
-尽管英国政府承诺投入4.1亿英镑支持核聚变能源研究，但实现商业化核聚变仍面临**五大挑战**：维持长时间燃烧等离子体、处理热量逃逸、生产足够的氚、材料抗辐射性以及远程操作与维护。这些**科学和技术难题**的解决尚需时日，研究需保持谦逊与坚韧，避免过度乐观的言论。
+文章讨论了**未成功发布的游戏**中制作的**资源**（如模型、音效、动画）的命运。作者认为这些资源被丢弃是一种浪费，建议开发者将资源免费开放或出售。有人提议建立一个**开源资源库**，方便开发者共享和使用这些资源。
 
 ---
