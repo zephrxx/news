@@ -11,8 +11,8 @@ tags:
 1. DeepSeek R1 在代码生成中的优异表现；
 1. 苹果CPU的新型推测攻击；
 1. Boom XB-1 首次超音速飞行 [视频]；
-1. DeepSeek 被审查的 1,156 个问题；
 1. 使用 uv 作为你的 shebang 行；
+1. DeepSeek 被审查的 1,156 个问题；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Jan/27/llamacpp-pr/): Promising results from DeepSeek R1 for code</small>
 
 
-| 🔥🔥: 803 \| 💬: [586](https://news.ycombinator.com/item?id=42852866) \| 🗓️ 2025-01-28
+| 🔥🔥: 816 \| 💬: [600](https://news.ycombinator.com/item?id=42852866) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -39,7 +39,7 @@ Simon Willison 在其博客中分享了 **DeepSeek R1** 在代码生成方面的
 <small>🔗 [predictors.fail](https://predictors.fail/): New speculative attacks on Apple CPUs</small>
 
 
-| 🔥🔥: 755 \| 💬: [259](https://news.ycombinator.com/item?id=42856023) \| 🗓️ 2025-01-28
+| 🔥🔥: 782 \| 💬: [267](https://news.ycombinator.com/item?id=42856023) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -51,7 +51,7 @@ Simon Willison 在其博客中分享了 **DeepSeek R1** 在代码生成方面的
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=-qisIViAHwI): Boom XB-1 First Supersonic Flight [video]</small>
 
 
-| 🔥🔥: 513 \| 💬: [381](https://news.ycombinator.com/item?id=42853633) \| 🗓️ 2025-01-28
+| 🔥🔥: 539 \| 💬: [392](https://news.ycombinator.com/item?id=42853633) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -59,23 +59,11 @@ Boom XB-1 成功完成了**首次超音速飞行**，标志着超音速航空技
 
 ---
 
-## <a name="4"></a>4. DeepSeek 被审查的 1,156 个问题 
-<small>🔗 [promptfoo.dev](https://www.promptfoo.dev/blog/deepseek-censorship/): Questions censored by DeepSeek</small>
-
-
-| 🔥🔥: 319 \| 💬: [194](https://news.ycombinator.com/item?id=42858552) \| 🗓️ 2025-01-28
-
-
-<br />
-DeepSeek-R1 是一款开源模型，现居美国应用商店榜首。作为中国公司，DeepSeek 受制于**中共政策**，其开源模型也反映了这一点，引发了对**审查制度**的担忧。通过测试，发现约 85% 的敏感话题被拒绝回答，但模型可通过**绕过技巧**轻易突破限制。
-
----
-
-## <a name="5"></a>5. 使用 uv 作为你的 shebang 行 
+## <a name="4"></a>4. 使用 uv 作为你的 shebang 行 
 <small>🔗 [akrabat.com](https://akrabat.com/using-uv-as-your-shebang-line/): Using uv as your shebang line</small>
 
 
-| 🔥🔥: 313 \| 💬: [101](https://news.ycombinator.com/item?id=42855258) \| 🗓️ 2025-01-28
+| 🔥🔥: 327 \| 💬: [105](https://news.ycombinator.com/item?id=42855258) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -83,11 +71,23 @@ DeepSeek-R1 是一款开源模型，现居美国应用商店榜首。作为中�
 
 ---
 
+## <a name="5"></a>5. DeepSeek 被审查的 1,156 个问题 
+<small>🔗 [promptfoo.dev](https://www.promptfoo.dev/blog/deepseek-censorship/): Questions censored by DeepSeek</small>
+
+
+| 🔥🔥: 322 \| 💬: [195](https://news.ycombinator.com/item?id=42858552) \| 🗓️ 2025-01-28
+
+
+<br />
+DeepSeek-R1 是一款开源模型，现居美国应用商店榜首。作为中国公司，DeepSeek 受制于**中共政策**，其开源模型也反映了这一点，引发了对**审查制度**的担忧。通过测试，发现约 85% 的敏感话题被拒绝回答，但模型可通过**绕过技巧**轻易突破限制。
+
+---
+
 ## <a name="6"></a>6. IAC确认在类太阳恒星宜居带发现超级地球 
 <small>🔗 [iac.es](https://www.iac.es/en/outreach/news/iac-confirms-existence-super-earth-habitable-zone-sun-star): IAC confirms existence of a Super-earth in the habitable zone of a Sun-like Star</small>
 
 
-| 🔥🔥: 306 \| 💬: [203](https://news.ycombinator.com/item?id=42853174) \| 🗓️ 2025-01-28
+| 🔥🔥: 318 \| 💬: [214](https://news.ycombinator.com/item?id=42853174) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -99,7 +99,7 @@ DeepSeek-R1 是一款开源模型，现居美国应用商店榜首。作为中�
 <small>🔗 [alexeystar.com](https://alexeystar.com/blog/slopify/): Goodbye, Slopify</small>
 
 
-| 🔥🔥: 296 \| 💬: [232](https://news.ycombinator.com/item?id=42860113) \| 🗓️ 2025-01-28
+| 🔥🔥: 300 \| 💬: [234](https://news.ycombinator.com/item?id=42860113) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -111,7 +111,7 @@ DeepSeek-R1 是一款开源模型，现居美国应用商店榜首。作为中�
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c77rdy6gzy5o): US pauses all federal aid and grants</small>
 
 
-| 🔥🔥: 247 \| 💬: [346](https://news.ycombinator.com/item?id=42851248) \| 🗓️ 2025-01-28
+| 🔥🔥: 251 \| 💬: [353](https://news.ycombinator.com/item?id=42851248) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -119,23 +119,11 @@ DeepSeek-R1 是一款开源模型，现居美国应用商店榜首。作为中�
 
 ---
 
-## <a name="9"></a>9. DeepSeek如何改进Transformer架构？ 
-<small>🔗 [epoch.ai](https://epoch.ai/gradient-updates/how-has-deepseek-improved-the-transformer-architecture): How has DeepSeek improved the Transformer architecture?</small>
-
-
-| 🔥🔥: 223 \| 💬: [59](https://news.ycombinator.com/item?id=42855170) \| 🗓️ 2025-01-28
-
-
-<br />
-DeepSeek v3通过**多头潜在注意力（MLA）**和**专家混合（MoE）**创新提升了Transformer性能。MLA通过低秩压缩减少KV缓存大小，避免质量损失；MoE通过**共享专家**和**无辅助损失的负载均衡**解决路由崩溃问题，提升模型效率。这些改进使DeepSeek在长上下文推理中表现卓越。
-
----
-
-## <a name="10"></a>10. DeepSeek的多头潜在注意力及其他KV缓存优化技巧 
+## <a name="9"></a>9. DeepSeek的多头潜在注意力及其他KV缓存优化技巧 
 <small>🔗 [pyspur.dev](https://www.pyspur.dev/blog/multi-head-latent-attention-kv-cache-paper-list): DeepSeek's multi-head latent attention and other KV cache tricks</small>
 
 
-| 🔥🔥: 222 \| 💬: [38](https://news.ycombinator.com/item?id=42858741) \| 🗓️ 2025-01-28
+| 🔥🔥: 234 \| 💬: [40](https://news.ycombinator.com/item?id=42858741) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -143,11 +131,23 @@ DeepSeek v3通过**多头潜在注意力（MLA）**和**专家混合（MoE）**�
 
 ---
 
+## <a name="10"></a>10. DeepSeek如何改进Transformer架构？ 
+<small>🔗 [epoch.ai](https://epoch.ai/gradient-updates/how-has-deepseek-improved-the-transformer-architecture): How has DeepSeek improved the Transformer architecture?</small>
+
+
+| 🔥🔥: 228 \| 💬: [59](https://news.ycombinator.com/item?id=42855170) \| 🗓️ 2025-01-28
+
+
+<br />
+DeepSeek v3通过**多头潜在注意力（MLA）**和**专家混合（MoE）**创新提升了Transformer性能。MLA通过低秩压缩减少KV缓存大小，避免质量损失；MoE通过**共享专家**和**无辅助损失的负载均衡**解决路由崩溃问题，提升模型效率。这些改进使DeepSeek在长上下文推理中表现卓越。
+
+---
+
 ## <a name="11"></a>11. Bitwarden 将强制新设备启用双重验证 
 <small>🔗 [bitwarden.com](https://bitwarden.com/help/new-device-verification/): Bitwarden is turning 2FA on by default for new devices</small>
 
 
-| 🔥🔥: 217 \| 💬: [241](https://news.ycombinator.com/item?id=42853696) \| 🗓️ 2025-01-28
+| 🔥🔥: 217 \| 💬: [242](https://news.ycombinator.com/item?id=42853696) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -155,23 +155,11 @@ DeepSeek v3通过**多头潜在注意力（MLA）**和**专家混合（MoE）**�
 
 ---
 
-## <a name="12"></a>12. Janus Pro 1B 在浏览器中通过 WebGPU 本地运行 
-<small>🔗 [old.reddit.com](https://old.reddit.com/r/LocalLLaMA/comments/1ibnso0/janus_pro_1b_running_100_locally_inbrowser_on/): Janus Pro 1B running 100% locally in-browser on WebGPU</small>
-
-
-| 🔥🔥: 204 \| 💬: [20](https://news.ycombinator.com/item?id=42852400) \| 🗓️ 2025-01-28
-
-
-<br />
-DeepSeek 发布了 **Janus Pro**（1B 和 7B），这是一个多模态大语言模型，具备视觉理解和图像生成能力。通过 **Transformers.js** 的支持，该模型现在可以在浏览器中通过 **WebGPU** 完全本地运行，用户只需访问网站即可体验。在线演示、ONNX 模型和源代码均已提供。
-
----
-
-## <a name="13"></a>13. 帕金森病患者使用新型自适应脑深部刺激设备后“感觉痊愈” 
+## <a name="12"></a>12. 帕金森病患者使用新型自适应脑深部刺激设备后“感觉痊愈” 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/ckgn49r069wo): Parkinsons patient "feels cured" with new adaptive deep brain stimulation device</small>
 
 
-| 🔥🔥: 201 \| 💬: [23](https://news.ycombinator.com/item?id=42857293) \| 🗓️ 2025-01-28
+| 🔥🔥: 211 \| 💬: [24](https://news.ycombinator.com/item?id=42857293) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -179,11 +167,23 @@ DeepSeek 发布了 **Janus Pro**（1B 和 7B），这是一个多模态大语言
 
 ---
 
+## <a name="13"></a>13. Janus Pro 1B 在浏览器中通过 WebGPU 本地运行 
+<small>🔗 [old.reddit.com](https://old.reddit.com/r/LocalLLaMA/comments/1ibnso0/janus_pro_1b_running_100_locally_inbrowser_on/): Janus Pro 1B running 100% locally in-browser on WebGPU</small>
+
+
+| 🔥🔥: 205 \| 💬: [20](https://news.ycombinator.com/item?id=42852400) \| 🗓️ 2025-01-28
+
+
+<br />
+DeepSeek 发布了 **Janus Pro**（1B 和 7B），这是一个多模态大语言模型，具备视觉理解和图像生成能力。通过 **Transformers.js** 的支持，该模型现在可以在浏览器中通过 **WebGPU** 完全本地运行，用户只需访问网站即可体验。在线演示、ONNX 模型和源代码均已提供。
+
+---
+
 ## <a name="14"></a>14. 浏览器中使用WASM的嵌入式Common Lisp运行Maxima 
 <small>🔗 [maxima-on-wasm.pages.dev](https://maxima-on-wasm.pages.dev/): Maxima in the browser using Embedded Common Lisp on WASM</small>
 
 
-| 🔥🔥: 194 \| 💬: [43](https://news.ycombinator.com/item?id=42853528) \| 🗓️ 2025-01-28
+| 🔥🔥: 200 \| 💬: [45](https://news.ycombinator.com/item?id=42853528) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -195,7 +195,7 @@ DeepSeek 发布了 **Janus Pro**（1B 和 7B），这是一个多模态大语言
 <small>🔗 [lithub.com](https://lithub.com/its-official-research-has-found-that-libraries-make-everything-better/): Libraries and Well-Being: A Case Study from The New York Public Library</small>
 
 
-| 🔥🔥: 172 \| 💬: [79](https://news.ycombinator.com/item?id=42860240) \| 🗓️ 2025-01-28
+| 🔥🔥: 178 \| 💬: [83](https://news.ycombinator.com/item?id=42860240) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -219,7 +219,7 @@ Lithub Daily 的最新内容包括：**Forrest Gander** 的新诗集围绕800英
 <small>🔗 [abc.net.au](https://www.abc.net.au/news/2025-01-28/almost-one-in-ten-people-use-the-same-four-digit-pin/103946842): Almost one in 10 people use the same four-digit PIN</small>
 
 
-| 🔥🔥: 152 \| 💬: [132](https://news.ycombinator.com/item?id=42853617) \| 🗓️ 2025-01-28
+| 🔥🔥: 155 \| 💬: [132](https://news.ycombinator.com/item?id=42853617) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -231,7 +231,7 @@ Lithub Daily 的最新内容包括：**Forrest Gander** 的新诗集围绕800英
 <small>🔗 [contrarian.substack.com](https://contrarian.substack.com/p/departing-the-new-york-times): Departing the New York Times</small>
 
 
-| 🔥🔥: 145 \| 💬: [40](https://news.ycombinator.com/item?id=42859669) \| 🗓️ 2025-01-28
+| 🔥🔥: 147 \| 💬: [40](https://news.ycombinator.com/item?id=42859669) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -255,7 +255,7 @@ Lithub Daily 的最新内容包括：**Forrest Gander** 的新诗集围绕800英
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/artificial-intelligence/sam-altman-said-startups-with-only-usd10-million-were-totally-hopeless-competing-with-openai-deepseeks-disruption-says-otherwise): Sam Altman said startups with $10M were 'hopeless' competing with OpenAI</small>
 
 
-| 🔥🔥: 137 \| 💬: [157](https://news.ycombinator.com/item?id=42854525) \| 🗓️ 2025-01-28
+| 🔥🔥: 138 \| 💬: [157](https://news.ycombinator.com/item?id=42854525) \| 🗓️ 2025-01-28
 
 
 <br />
