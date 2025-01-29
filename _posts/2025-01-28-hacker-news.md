@@ -27,7 +27,7 @@ tags:
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Jan/27/llamacpp-pr/): Promising results from DeepSeek R1 for code</small>
 
 
-| 🔥🔥: 782 \| 💬: [571](https://news.ycombinator.com/item?id=42852866) \| 🗓️ 2025-01-28
+| 🔥🔥: 803 \| 💬: [586](https://news.ycombinator.com/item?id=42852866) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -39,7 +39,7 @@ Simon Willison 在其博客中分享了 **DeepSeek R1** 在代码生成方面的
 <small>🔗 [predictors.fail](https://predictors.fail/): New speculative attacks on Apple CPUs</small>
 
 
-| 🔥🔥: 723 \| 💬: [255](https://news.ycombinator.com/item?id=42856023) \| 🗓️ 2025-01-28
+| 🔥🔥: 755 \| 💬: [259](https://news.ycombinator.com/item?id=42856023) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -51,7 +51,7 @@ Simon Willison 在其博客中分享了 **DeepSeek R1** 在代码生成方面的
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=-qisIViAHwI): Boom XB-1 First Supersonic Flight [video]</small>
 
 
-| 🔥🔥: 485 \| 💬: [365](https://news.ycombinator.com/item?id=42853633) \| 🗓️ 2025-01-28
+| 🔥🔥: 513 \| 💬: [381](https://news.ycombinator.com/item?id=42853633) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -63,7 +63,7 @@ Boom XB-1 成功完成了**首次超音速飞行**，标志着超音速航空技
 <small>🔗 [promptfoo.dev](https://www.promptfoo.dev/blog/deepseek-censorship/): Questions censored by DeepSeek</small>
 
 
-| 🔥🔥: 314 \| 💬: [192](https://news.ycombinator.com/item?id=42858552) \| 🗓️ 2025-01-28
+| 🔥🔥: 319 \| 💬: [194](https://news.ycombinator.com/item?id=42858552) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -75,7 +75,7 @@ DeepSeek-R1 是一款开源模型，现居美国应用商店榜首。作为中�
 <small>🔗 [akrabat.com](https://akrabat.com/using-uv-as-your-shebang-line/): Using uv as your shebang line</small>
 
 
-| 🔥🔥: 300 \| 💬: [100](https://news.ycombinator.com/item?id=42855258) \| 🗓️ 2025-01-28
+| 🔥🔥: 313 \| 💬: [101](https://news.ycombinator.com/item?id=42855258) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -83,23 +83,11 @@ DeepSeek-R1 是一款开源模型，现居美国应用商店榜首。作为中�
 
 ---
 
-## <a name="6"></a>6. 再见，Slopify 
-<small>🔗 [alexeystar.com](https://alexeystar.com/blog/slopify/): Goodbye, Slopify</small>
-
-
-| 🔥🔥: 293 \| 💬: [219](https://news.ycombinator.com/item?id=42860113) \| 🗓️ 2025-01-28
-
-
-<br />
-作者决定取消Spotify订阅，原因是其**AI生成的音乐**和**AI生成的专辑封面**污染了Discover Weekly播放列表。此外，Spotify的**臃肿桌面应用**和糟糕的用户界面也令人不满。作者表示将转而支持真实艺术家并购买可拥有的音乐。
-
----
-
-## <a name="7"></a>7. IAC确认在类太阳恒星宜居带发现超级地球 
+## <a name="6"></a>6. IAC确认在类太阳恒星宜居带发现超级地球 
 <small>🔗 [iac.es](https://www.iac.es/en/outreach/news/iac-confirms-existence-super-earth-habitable-zone-sun-star): IAC confirms existence of a Super-earth in the habitable zone of a Sun-like Star</small>
 
 
-| 🔥🔥: 292 \| 💬: [197](https://news.ycombinator.com/item?id=42853174) \| 🗓️ 2025-01-28
+| 🔥🔥: 306 \| 💬: [203](https://news.ycombinator.com/item?id=42853174) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -107,11 +95,23 @@ DeepSeek-R1 是一款开源模型，现居美国应用商店榜首。作为中�
 
 ---
 
+## <a name="7"></a>7. 再见，Slopify 
+<small>🔗 [alexeystar.com](https://alexeystar.com/blog/slopify/): Goodbye, Slopify</small>
+
+
+| 🔥🔥: 296 \| 💬: [232](https://news.ycombinator.com/item?id=42860113) \| 🗓️ 2025-01-28
+
+
+<br />
+作者决定取消Spotify订阅，原因是其**AI生成的音乐**和**AI生成的专辑封面**污染了Discover Weekly播放列表。此外，Spotify的**臃肿桌面应用**和糟糕的用户界面也令人不满。作者表示将转而支持真实艺术家并购买可拥有的音乐。
+
+---
+
 ## <a name="8"></a>8. 美国暂停所有联邦援助和拨款 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c77rdy6gzy5o): US pauses all federal aid and grants</small>
 
 
-| 🔥🔥: 241 \| 💬: [335](https://news.ycombinator.com/item?id=42851248) \| 🗓️ 2025-01-28
+| 🔥🔥: 247 \| 💬: [346](https://news.ycombinator.com/item?id=42851248) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -123,7 +123,7 @@ DeepSeek-R1 是一款开源模型，现居美国应用商店榜首。作为中�
 <small>🔗 [epoch.ai](https://epoch.ai/gradient-updates/how-has-deepseek-improved-the-transformer-architecture): How has DeepSeek improved the Transformer architecture?</small>
 
 
-| 🔥🔥: 223 \| 💬: [57](https://news.ycombinator.com/item?id=42855170) \| 🗓️ 2025-01-28
+| 🔥🔥: 223 \| 💬: [59](https://news.ycombinator.com/item?id=42855170) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -131,23 +131,11 @@ DeepSeek v3通过**多头潜在注意力（MLA）**和**专家混合（MoE）**�
 
 ---
 
-## <a name="10"></a>10. Bitwarden 将强制新设备启用双重验证 
-<small>🔗 [bitwarden.com](https://bitwarden.com/help/new-device-verification/): Bitwarden is turning 2FA on by default for new devices</small>
-
-
-| 🔥🔥: 216 \| 💬: [240](https://news.ycombinator.com/item?id=42853696) \| 🗓️ 2025-01-28
-
-
-<br />
-自2025年2月起，**Bitwarden** 将为未启用**两步登录**的用户引入新设备登录保护。登录新设备时，用户需输入发送至账户邮箱的**一次性验证码**。已登录设备不受影响。此举旨在增强账户安全性，防止密码泄露导致的未授权访问。
-
----
-
-## <a name="11"></a>11. DeepSeek的多头潜在注意力及其他KV缓存优化技巧 
+## <a name="10"></a>10. DeepSeek的多头潜在注意力及其他KV缓存优化技巧 
 <small>🔗 [pyspur.dev](https://www.pyspur.dev/blog/multi-head-latent-attention-kv-cache-paper-list): DeepSeek's multi-head latent attention and other KV cache tricks</small>
 
 
-| 🔥🔥: 205 \| 💬: [37](https://news.ycombinator.com/item?id=42858741) \| 🗓️ 2025-01-28
+| 🔥🔥: 222 \| 💬: [38](https://news.ycombinator.com/item?id=42858741) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -155,11 +143,23 @@ DeepSeek v3通过**多头潜在注意力（MLA）**和**专家混合（MoE）**�
 
 ---
 
+## <a name="11"></a>11. Bitwarden 将强制新设备启用双重验证 
+<small>🔗 [bitwarden.com](https://bitwarden.com/help/new-device-verification/): Bitwarden is turning 2FA on by default for new devices</small>
+
+
+| 🔥🔥: 217 \| 💬: [241](https://news.ycombinator.com/item?id=42853696) \| 🗓️ 2025-01-28
+
+
+<br />
+自2025年2月起，**Bitwarden** 将为未启用**两步登录**的用户引入新设备登录保护。登录新设备时，用户需输入发送至账户邮箱的**一次性验证码**。已登录设备不受影响。此举旨在增强账户安全性，防止密码泄露导致的未授权访问。
+
+---
+
 ## <a name="12"></a>12. Janus Pro 1B 在浏览器中通过 WebGPU 本地运行 
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/LocalLLaMA/comments/1ibnso0/janus_pro_1b_running_100_locally_inbrowser_on/): Janus Pro 1B running 100% locally in-browser on WebGPU</small>
 
 
-| 🔥🔥: 202 \| 💬: [20](https://news.ycombinator.com/item?id=42852400) \| 🗓️ 2025-01-28
+| 🔥🔥: 204 \| 💬: [20](https://news.ycombinator.com/item?id=42852400) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -167,23 +167,11 @@ DeepSeek 发布了 **Janus Pro**（1B 和 7B），这是一个多模态大语言
 
 ---
 
-## <a name="13"></a>13. 浏览器中使用WASM的嵌入式Common Lisp运行Maxima 
-<small>🔗 [maxima-on-wasm.pages.dev](https://maxima-on-wasm.pages.dev/): Maxima in the browser using Embedded Common Lisp on WASM</small>
-
-
-| 🔥🔥: 190 \| 💬: [43](https://news.ycombinator.com/item?id=42853528) \| 🗓️ 2025-01-28
-
-
-<br />
-这是**Maxima**，一个计算机代数系统。浏览器前端由Marius Gerbershagen使用**Embeddable Common Lisp**、emscripten、gnuplot和MathJax构建。源代码已公开，支持显示排版输出。
-
----
-
-## <a name="14"></a>14. 帕金森病患者使用新型自适应脑深部刺激设备后“感觉痊愈” 
+## <a name="13"></a>13. 帕金森病患者使用新型自适应脑深部刺激设备后“感觉痊愈” 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/ckgn49r069wo): Parkinsons patient "feels cured" with new adaptive deep brain stimulation device</small>
 
 
-| 🔥🔥: 190 \| 💬: [21](https://news.ycombinator.com/item?id=42857293) \| 🗓️ 2025-01-28
+| 🔥🔥: 201 \| 💬: [23](https://news.ycombinator.com/item?id=42857293) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -191,7 +179,31 @@ DeepSeek 发布了 **Janus Pro**（1B 和 7B），这是一个多模态大语言
 
 ---
 
-## <a name="15"></a>15. 伯克利研究人员以30美元复制DeepSeek R1核心技术：小型模型强化学习革命 
+## <a name="14"></a>14. 浏览器中使用WASM的嵌入式Common Lisp运行Maxima 
+<small>🔗 [maxima-on-wasm.pages.dev](https://maxima-on-wasm.pages.dev/): Maxima in the browser using Embedded Common Lisp on WASM</small>
+
+
+| 🔥🔥: 194 \| 💬: [43](https://news.ycombinator.com/item?id=42853528) \| 🗓️ 2025-01-28
+
+
+<br />
+这是**Maxima**，一个计算机代数系统。浏览器前端由Marius Gerbershagen使用**Embeddable Common Lisp**、emscripten、gnuplot和MathJax构建。源代码已公开，支持显示排版输出。
+
+---
+
+## <a name="15"></a>15. 图书馆让一切更美好 
+<small>🔗 [lithub.com](https://lithub.com/its-official-research-has-found-that-libraries-make-everything-better/): Libraries and Well-Being: A Case Study from The New York Public Library</small>
+
+
+| 🔥🔥: 172 \| 💬: [79](https://news.ycombinator.com/item?id=42860240) \| 🗓️ 2025-01-28
+
+
+<br />
+Lithub Daily 的最新内容包括：**Forrest Gander** 的新诗集围绕800英里的徒步展开，**Karl Ove Knausgaard** 评论画家 **Celia Paul**，以及 Danez Smith 分享在健身房的故事。Lit hub Radio 提供播客和有声书等丰富内容。
+
+---
+
+## <a name="16"></a>16. 伯克利研究人员以30美元复制DeepSeek R1核心技术：小型模型强化学习革命 
 <small>🔗 [xyzlabs.substack.com](https://xyzlabs.substack.com/p/berkeley-researchers-replicate-deepseek): Berkeley Researchers Replicate DeepSeek R1's Core Tech for Just $30: A Small Mod</small>
 
 
@@ -203,23 +215,11 @@ DeepSeek 发布了 **Janus Pro**（1B 和 7B），这是一个多模态大语言
 
 ---
 
-## <a name="16"></a>16. 图书馆让一切更美好 
-<small>🔗 [lithub.com](https://lithub.com/its-official-research-has-found-that-libraries-make-everything-better/): Libraries and Well-Being: A Case Study from The New York Public Library</small>
-
-
-| 🔥🔥: 155 \| 💬: [69](https://news.ycombinator.com/item?id=42860240) \| 🗓️ 2025-01-28
-
-
-<br />
-Lithub Daily 的最新内容包括：**Forrest Gander** 的新诗集围绕800英里的徒步展开，**Karl Ove Knausgaard** 评论画家 **Celia Paul**，以及 Danez Smith 分享在健身房的故事。Lit hub Radio 提供播客和有声书等丰富内容。
-
----
-
 ## <a name="17"></a>17. 近十分之一的人使用相同的四位数PIN码 
 <small>🔗 [abc.net.au](https://www.abc.net.au/news/2025-01-28/almost-one-in-ten-people-use-the-same-four-digit-pin/103946842): Almost one in 10 people use the same four-digit PIN</small>
 
 
-| 🔥🔥: 150 \| 💬: [132](https://news.ycombinator.com/item?id=42853617) \| 🗓️ 2025-01-28
+| 🔥🔥: 152 \| 💬: [132](https://news.ycombinator.com/item?id=42853617) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -231,7 +231,7 @@ Lithub Daily 的最新内容包括：**Forrest Gander** 的新诗集围绕800英
 <small>🔗 [contrarian.substack.com](https://contrarian.substack.com/p/departing-the-new-york-times): Departing the New York Times</small>
 
 
-| 🔥🔥: 144 \| 💬: [40](https://news.ycombinator.com/item?id=42859669) \| 🗓️ 2025-01-28
+| 🔥🔥: 145 \| 💬: [40](https://news.ycombinator.com/item?id=42859669) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -243,7 +243,7 @@ Lithub Daily 的最新内容包括：**Forrest Gander** 的新诗集围绕800英
 <small>🔗 [independent.co.uk](https://www.independent.co.uk/news/world/americas/us-politics/trump-civil-service-loyalty-transition-b2678674.html): US Civil servants are being asked who they voted for in 2024 election</small>
 
 
-| 🔥🔥: 140 \| 💬: [119](https://news.ycombinator.com/item?id=42850644) \| 🗓️ 2025-01-28
+| 🔥🔥: 141 \| 💬: [119](https://news.ycombinator.com/item?id=42850644) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -255,7 +255,7 @@ Lithub Daily 的最新内容包括：**Forrest Gander** 的新诗集围绕800英
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/artificial-intelligence/sam-altman-said-startups-with-only-usd10-million-were-totally-hopeless-competing-with-openai-deepseeks-disruption-says-otherwise): Sam Altman said startups with $10M were 'hopeless' competing with OpenAI</small>
 
 
-| 🔥🔥: 136 \| 💬: [157](https://news.ycombinator.com/item?id=42854525) \| 🗓️ 2025-01-28
+| 🔥🔥: 137 \| 💬: [157](https://news.ycombinator.com/item?id=42854525) \| 🗓️ 2025-01-28
 
 
 <br />
