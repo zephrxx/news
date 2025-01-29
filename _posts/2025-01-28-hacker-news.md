@@ -12,7 +12,7 @@ tags:
 1. 苹果CPU的新型推测攻击；
 1. Boom XB-1 首次超音速飞行 [视频]；
 1. DeepSeek 被审查的 1,156 个问题；
-1. 再见，Slopify；
+1. 使用 uv 作为你的 shebang 行；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Jan/27/llamacpp-pr/): Promising results from DeepSeek R1 for code</small>
 
 
-| 🔥🔥: 764 \| 💬: [562](https://news.ycombinator.com/item?id=42852866) \| 🗓️ 2025-01-28
+| 🔥🔥: 782 \| 💬: [571](https://news.ycombinator.com/item?id=42852866) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -39,7 +39,7 @@ Simon Willison 在其博客中分享了 **DeepSeek R1** 在代码生成方面的
 <small>🔗 [predictors.fail](https://predictors.fail/): New speculative attacks on Apple CPUs</small>
 
 
-| 🔥🔥: 688 \| 💬: [253](https://news.ycombinator.com/item?id=42856023) \| 🗓️ 2025-01-28
+| 🔥🔥: 723 \| 💬: [255](https://news.ycombinator.com/item?id=42856023) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -51,7 +51,7 @@ Simon Willison 在其博客中分享了 **DeepSeek R1** 在代码生成方面的
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=-qisIViAHwI): Boom XB-1 First Supersonic Flight [video]</small>
 
 
-| 🔥🔥: 466 \| 💬: [358](https://news.ycombinator.com/item?id=42853633) \| 🗓️ 2025-01-28
+| 🔥🔥: 485 \| 💬: [365](https://news.ycombinator.com/item?id=42853633) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -63,7 +63,7 @@ Boom XB-1 成功完成了**首次超音速飞行**，标志着超音速航空技
 <small>🔗 [promptfoo.dev](https://www.promptfoo.dev/blog/deepseek-censorship/): Questions censored by DeepSeek</small>
 
 
-| 🔥🔥: 311 \| 💬: [190](https://news.ycombinator.com/item?id=42858552) \| 🗓️ 2025-01-28
+| 🔥🔥: 314 \| 💬: [192](https://news.ycombinator.com/item?id=42858552) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -71,23 +71,11 @@ DeepSeek-R1 是一款开源模型，现居美国应用商店榜首。作为中�
 
 ---
 
-## <a name="5"></a>5. 再见，Slopify 
-<small>🔗 [alexeystar.com](https://alexeystar.com/blog/slopify/): Goodbye, Slopify</small>
-
-
-| 🔥🔥: 288 \| 💬: [208](https://news.ycombinator.com/item?id=42860113) \| 🗓️ 2025-01-28
-
-
-<br />
-作者决定取消Spotify订阅，原因是其**AI生成的音乐**和**AI生成的专辑封面**污染了Discover Weekly播放列表。此外，Spotify的**臃肿桌面应用**和糟糕的用户界面也令人不满。作者表示将转而支持真实艺术家并购买可拥有的音乐。
-
----
-
-## <a name="6"></a>6. 使用 uv 作为你的 shebang 行 
+## <a name="5"></a>5. 使用 uv 作为你的 shebang 行 
 <small>🔗 [akrabat.com](https://akrabat.com/using-uv-as-your-shebang-line/): Using uv as your shebang line</small>
 
 
-| 🔥🔥: 287 \| 💬: [99](https://news.ycombinator.com/item?id=42855258) \| 🗓️ 2025-01-28
+| 🔥🔥: 300 \| 💬: [100](https://news.ycombinator.com/item?id=42855258) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -95,11 +83,23 @@ DeepSeek-R1 是一款开源模型，现居美国应用商店榜首。作为中�
 
 ---
 
+## <a name="6"></a>6. 再见，Slopify 
+<small>🔗 [alexeystar.com](https://alexeystar.com/blog/slopify/): Goodbye, Slopify</small>
+
+
+| 🔥🔥: 293 \| 💬: [219](https://news.ycombinator.com/item?id=42860113) \| 🗓️ 2025-01-28
+
+
+<br />
+作者决定取消Spotify订阅，原因是其**AI生成的音乐**和**AI生成的专辑封面**污染了Discover Weekly播放列表。此外，Spotify的**臃肿桌面应用**和糟糕的用户界面也令人不满。作者表示将转而支持真实艺术家并购买可拥有的音乐。
+
+---
+
 ## <a name="7"></a>7. IAC确认在类太阳恒星宜居带发现超级地球 
 <small>🔗 [iac.es](https://www.iac.es/en/outreach/news/iac-confirms-existence-super-earth-habitable-zone-sun-star): IAC confirms existence of a Super-earth in the habitable zone of a Sun-like Star</small>
 
 
-| 🔥🔥: 280 \| 💬: [195](https://news.ycombinator.com/item?id=42853174) \| 🗓️ 2025-01-28
+| 🔥🔥: 292 \| 💬: [197](https://news.ycombinator.com/item?id=42853174) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -111,7 +111,7 @@ DeepSeek-R1 是一款开源模型，现居美国应用商店榜首。作为中�
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c77rdy6gzy5o): US pauses all federal aid and grants</small>
 
 
-| 🔥🔥: 239 \| 💬: [316](https://news.ycombinator.com/item?id=42851248) \| 🗓️ 2025-01-28
+| 🔥🔥: 241 \| 💬: [335](https://news.ycombinator.com/item?id=42851248) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -143,7 +143,19 @@ DeepSeek v3通过**多头潜在注意力（MLA）**和**专家混合（MoE）**�
 
 ---
 
-## <a name="11"></a>11. Janus Pro 1B 在浏览器中通过 WebGPU 本地运行 
+## <a name="11"></a>11. DeepSeek的多头潜在注意力及其他KV缓存优化技巧 
+<small>🔗 [pyspur.dev](https://www.pyspur.dev/blog/multi-head-latent-attention-kv-cache-paper-list): DeepSeek's multi-head latent attention and other KV cache tricks</small>
+
+
+| 🔥🔥: 205 \| 💬: [37](https://news.ycombinator.com/item?id=42858741) \| 🗓️ 2025-01-28
+
+
+<br />
+本文探讨了**Key-Value (KV) 缓存**如何通过内存与计算时间的巧妙权衡，加速语言模型的文本生成。重点介绍了**多头潜在注意力**及其他优化技术，如**H2O**和**StreamLLM**，通过减少冗余计算和动态管理缓存，显著提升了模型效率，同时解决了内存占用过大的问题。
+
+---
+
+## <a name="12"></a>12. Janus Pro 1B 在浏览器中通过 WebGPU 本地运行 
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/LocalLLaMA/comments/1ibnso0/janus_pro_1b_running_100_locally_inbrowser_on/): Janus Pro 1B running 100% locally in-browser on WebGPU</small>
 
 
@@ -155,23 +167,11 @@ DeepSeek 发布了 **Janus Pro**（1B 和 7B），这是一个多模态大语言
 
 ---
 
-## <a name="12"></a>12. DeepSeek的多头潜在注意力及其他KV缓存优化技巧 
-<small>🔗 [pyspur.dev](https://www.pyspur.dev/blog/multi-head-latent-attention-kv-cache-paper-list): DeepSeek's multi-head latent attention and other KV cache tricks</small>
-
-
-| 🔥🔥: 192 \| 💬: [35](https://news.ycombinator.com/item?id=42858741) \| 🗓️ 2025-01-28
-
-
-<br />
-本文探讨了**Key-Value (KV) 缓存**如何通过内存与计算时间的巧妙权衡，加速语言模型的文本生成。重点介绍了**多头潜在注意力**及其他优化技术，如**H2O**和**StreamLLM**，通过减少冗余计算和动态管理缓存，显著提升了模型效率，同时解决了内存占用过大的问题。
-
----
-
 ## <a name="13"></a>13. 浏览器中使用WASM的嵌入式Common Lisp运行Maxima 
 <small>🔗 [maxima-on-wasm.pages.dev](https://maxima-on-wasm.pages.dev/): Maxima in the browser using Embedded Common Lisp on WASM</small>
 
 
-| 🔥🔥: 186 \| 💬: [43](https://news.ycombinator.com/item?id=42853528) \| 🗓️ 2025-01-28
+| 🔥🔥: 190 \| 💬: [43](https://news.ycombinator.com/item?id=42853528) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -183,7 +183,7 @@ DeepSeek 发布了 **Janus Pro**（1B 和 7B），这是一个多模态大语言
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/ckgn49r069wo): Parkinsons patient "feels cured" with new adaptive deep brain stimulation device</small>
 
 
-| 🔥🔥: 178 \| 💬: [18](https://news.ycombinator.com/item?id=42857293) \| 🗓️ 2025-01-28
+| 🔥🔥: 190 \| 💬: [21](https://news.ycombinator.com/item?id=42857293) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -203,7 +203,19 @@ DeepSeek 发布了 **Janus Pro**（1B 和 7B），这是一个多模态大语言
 
 ---
 
-## <a name="16"></a>16. 近十分之一的人使用相同的四位数PIN码 
+## <a name="16"></a>16. 图书馆让一切更美好 
+<small>🔗 [lithub.com](https://lithub.com/its-official-research-has-found-that-libraries-make-everything-better/): Libraries and Well-Being: A Case Study from The New York Public Library</small>
+
+
+| 🔥🔥: 155 \| 💬: [69](https://news.ycombinator.com/item?id=42860240) \| 🗓️ 2025-01-28
+
+
+<br />
+Lithub Daily 的最新内容包括：**Forrest Gander** 的新诗集围绕800英里的徒步展开，**Karl Ove Knausgaard** 评论画家 **Celia Paul**，以及 Danez Smith 分享在健身房的故事。Lit hub Radio 提供播客和有声书等丰富内容。
+
+---
+
+## <a name="17"></a>17. 近十分之一的人使用相同的四位数PIN码 
 <small>🔗 [abc.net.au](https://www.abc.net.au/news/2025-01-28/almost-one-in-ten-people-use-the-same-four-digit-pin/103946842): Almost one in 10 people use the same four-digit PIN</small>
 
 
@@ -215,23 +227,11 @@ DeepSeek 发布了 **Janus Pro**（1B 和 7B），这是一个多模态大语言
 
 ---
 
-## <a name="17"></a>17. 图书馆让一切更美好 
-<small>🔗 [lithub.com](https://lithub.com/its-official-research-has-found-that-libraries-make-everything-better/): Libraries make everything better</small>
-
-
-| 🔥🔥: 144 \| 💬: [61](https://news.ycombinator.com/item?id=42860240) \| 🗓️ 2025-01-28
-
-
-<br />
-Lithub Daily 的最新内容包括：**Forrest Gander** 的新诗集围绕800英里的徒步展开，**Karl Ove Knausgaard** 评论画家 **Celia Paul**，以及 Danez Smith 分享在健身房的故事。Lit hub Radio 提供播客和有声书等丰富内容。
-
----
-
 ## <a name="18"></a>18. 离开《纽约时报》 
 <small>🔗 [contrarian.substack.com](https://contrarian.substack.com/p/departing-the-new-york-times): Departing the New York Times</small>
 
 
-| 🔥🔥: 143 \| 💬: [38](https://news.ycombinator.com/item?id=42859669) \| 🗓️ 2025-01-28
+| 🔥🔥: 144 \| 💬: [40](https://news.ycombinator.com/item?id=42859669) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -243,7 +243,7 @@ Lithub Daily 的最新内容包括：**Forrest Gander** 的新诗集围绕800英
 <small>🔗 [independent.co.uk](https://www.independent.co.uk/news/world/americas/us-politics/trump-civil-service-loyalty-transition-b2678674.html): US Civil servants are being asked who they voted for in 2024 election</small>
 
 
-| 🔥🔥: 139 \| 💬: [119](https://news.ycombinator.com/item?id=42850644) \| 🗓️ 2025-01-28
+| 🔥🔥: 140 \| 💬: [119](https://news.ycombinator.com/item?id=42850644) \| 🗓️ 2025-01-28
 
 
 <br />
