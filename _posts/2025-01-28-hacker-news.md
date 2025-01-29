@@ -27,7 +27,7 @@ tags:
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Jan/27/llamacpp-pr/): Promising results from DeepSeek R1 for code</small>
 
 
-| 🔥🔥: 711 \| 💬: [512](https://news.ycombinator.com/item?id=42852866) \| 🗓️ 2025-01-28
+| 🔥🔥: 726 \| 💬: [525](https://news.ycombinator.com/item?id=42852866) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -39,7 +39,7 @@ Simon Willison 在其博客中分享了 **DeepSeek R1** 在代码生成方面的
 <small>🔗 [predictors.fail](https://predictors.fail/): New speculative attacks on Apple CPUs</small>
 
 
-| 🔥🔥: 553 \| 💬: [204](https://news.ycombinator.com/item?id=42856023) \| 🗓️ 2025-01-28
+| 🔥🔥: 596 \| 💬: [227](https://news.ycombinator.com/item?id=42856023) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -51,7 +51,7 @@ Simon Willison 在其博客中分享了 **DeepSeek R1** 在代码生成方面的
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=-qisIViAHwI): Boom XB-1 First Supersonic Flight [video]</small>
 
 
-| 🔥🔥: 362 \| 💬: [282](https://news.ycombinator.com/item?id=42853633) \| 🗓️ 2025-01-28
+| 🔥🔥: 407 \| 💬: [311](https://news.ycombinator.com/item?id=42853633) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -63,7 +63,7 @@ Boom XB-1 成功完成了**首次超音速飞行**，标志着超音速航空技
 <small>🔗 [promptfoo.dev](https://www.promptfoo.dev/blog/deepseek-censorship/): Questions censored by DeepSeek</small>
 
 
-| 🔥🔥: 268 \| 💬: [164](https://news.ycombinator.com/item?id=42858552) \| 🗓️ 2025-01-28
+| 🔥🔥: 295 \| 💬: [184](https://news.ycombinator.com/item?id=42858552) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -75,7 +75,7 @@ DeepSeek-R1 是一款开源模型，现居美国应用商店榜首。作为中�
 <small>🔗 [akrabat.com](https://akrabat.com/using-uv-as-your-shebang-line/): Using uv as your shebang line</small>
 
 
-| 🔥🔥: 228 \| 💬: [83](https://news.ycombinator.com/item?id=42855258) \| 🗓️ 2025-01-28
+| 🔥🔥: 245 \| 💬: [94](https://news.ycombinator.com/item?id=42855258) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -87,7 +87,7 @@ DeepSeek-R1 是一款开源模型，现居美国应用商店榜首。作为中�
 <small>🔗 [iac.es](https://www.iac.es/en/outreach/news/iac-confirms-existence-super-earth-habitable-zone-sun-star): IAC confirms existence of a Super-earth in the habitable zone of a Sun-like Star</small>
 
 
-| 🔥🔥: 221 \| 💬: [161](https://news.ycombinator.com/item?id=42853174) \| 🗓️ 2025-01-28
+| 🔥🔥: 238 \| 💬: [174](https://news.ycombinator.com/item?id=42853174) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -99,7 +99,7 @@ DeepSeek-R1 是一款开源模型，现居美国应用商店榜首。作为中�
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c77rdy6gzy5o): US pauses all federal aid and grants</small>
 
 
-| 🔥🔥: 217 \| 💬: [259](https://news.ycombinator.com/item?id=42851248) \| 🗓️ 2025-01-28
+| 🔥🔥: 222 \| 💬: [281](https://news.ycombinator.com/item?id=42851248) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -111,7 +111,7 @@ DeepSeek-R1 是一款开源模型，现居美国应用商店榜首。作为中�
 <small>🔗 [bitwarden.com](https://bitwarden.com/help/new-device-verification/): Bitwarden is turning 2FA on by default for new devices</small>
 
 
-| 🔥🔥: 213 \| 💬: [234](https://news.ycombinator.com/item?id=42853696) \| 🗓️ 2025-01-28
+| 🔥🔥: 214 \| 💬: [235](https://news.ycombinator.com/item?id=42853696) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -123,7 +123,7 @@ DeepSeek-R1 是一款开源模型，现居美国应用商店榜首。作为中�
 <small>🔗 [epoch.ai](https://epoch.ai/gradient-updates/how-has-deepseek-improved-the-transformer-architecture): How has DeepSeek improved the Transformer architecture?</small>
 
 
-| 🔥🔥: 208 \| 💬: [52](https://news.ycombinator.com/item?id=42855170) \| 🗓️ 2025-01-28
+| 🔥🔥: 213 \| 💬: [54](https://news.ycombinator.com/item?id=42855170) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -135,7 +135,7 @@ DeepSeek v3通过**多头潜在注意力（MLA）**和**专家混合（MoE）**�
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/LocalLLaMA/comments/1ibnso0/janus_pro_1b_running_100_locally_inbrowser_on/): Janus Pro 1B running 100% locally in-browser on WebGPU</small>
 
 
-| 🔥🔥: 198 \| 💬: [20](https://news.ycombinator.com/item?id=42852400) \| 🗓️ 2025-01-28
+| 🔥🔥: 199 \| 💬: [20](https://news.ycombinator.com/item?id=42852400) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -147,7 +147,7 @@ DeepSeek 发布了 **Janus Pro**（1B 和 7B），这是一个多模态大语言
 <small>🔗 [maxima-on-wasm.pages.dev](https://maxima-on-wasm.pages.dev/): Maxima in the browser using Embedded Common Lisp on WASM</small>
 
 
-| 🔥🔥: 163 \| 💬: [40](https://news.ycombinator.com/item?id=42853528) \| 🗓️ 2025-01-28
+| 🔥🔥: 170 \| 💬: [41](https://news.ycombinator.com/item?id=42853528) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -179,11 +179,35 @@ DeepSeek 发布了 **Janus Pro**（1B 和 7B），这是一个多模态大语言
 
 ---
 
-## <a name="14"></a>14. 克利夫兰警方使用AI证明搜查令，却导致谋杀案失败 
+## <a name="14"></a>14. DeepSeek的多头潜在注意力及其他KV缓存优化技巧 
+<small>🔗 [pyspur.dev](https://www.pyspur.dev/blog/multi-head-latent-attention-kv-cache-paper-list): DeepSeek's multi-head latent attention and other KV cache tricks</small>
+
+
+| 🔥🔥: 142 \| 💬: [17](https://news.ycombinator.com/item?id=42858741) \| 🗓️ 2025-01-28
+
+
+<br />
+本文探讨了**Key-Value (KV) 缓存**如何通过内存与计算时间的巧妙权衡，加速语言模型的文本生成。重点介绍了**多头潜在注意力**及其他优化技术，如**H2O**和**StreamLLM**，通过减少冗余计算和动态管理缓存，显著提升了模型效率，同时解决了内存占用过大的问题。
+
+---
+
+## <a name="15"></a>15. 帕金森病患者使用新型自适应脑深部刺激设备后“感觉痊愈” 
+<small>🔗 [bbc.com](https://www.bbc.com/news/articles/ckgn49r069wo): Parkinsons patient "feels cured" with new adaptive deep brain stimulation device</small>
+
+
+| 🔥🔥: 141 \| 💬: [15](https://news.ycombinator.com/item?id=42857293) \| 🗓️ 2025-01-28
+
+
+<br />
+65岁的凯文·希尔因帕金森病接受了**自适应脑深部刺激（DBS）**植入手术，设备通过读取大脑信号自动调节电刺激，显著改善了他的症状。他称自己“感觉痊愈”，甚至能忘记患病。医生表示，这种新技术有望大幅提升患者的生活质量。
+
+---
+
+## <a name="16"></a>16. 克利夫兰警方使用AI证明搜查令，却导致谋杀案失败 
 <small>🔗 [cleveland.com](https://www.cleveland.com/news/2025/01/cleveland-police-used-ai-to-justify-a-search-warrant-it-has-derailed-a-murder-case.html): Cleveland police used AI to justify a search warrant. It derailed a murder case</small>
 
 
-| 🔥🔥: 134 \| 💬: [141](https://news.ycombinator.com/item?id=42851124) \| 🗓️ 2025-01-28
+| 🔥🔥: 134 \| 💬: [144](https://news.ycombinator.com/item?id=42851124) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -191,11 +215,11 @@ DeepSeek 发布了 **Janus Pro**（1B 和 7B），这是一个多模态大语言
 
 ---
 
-## <a name="15"></a>15. Sam Altman称拥有1000万美元的初创公司无法与OpenAI竞争 
+## <a name="17"></a>17. Sam Altman称拥有1000万美元的初创公司无法与OpenAI竞争 
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/artificial-intelligence/sam-altman-said-startups-with-only-usd10-million-were-totally-hopeless-competing-with-openai-deepseeks-disruption-says-otherwise): Sam Altman said startups with $10M were 'hopeless' competing with OpenAI</small>
 
 
-| 🔥🔥: 133 \| 💬: [155](https://news.ycombinator.com/item?id=42854525) \| 🗓️ 2025-01-28
+| 🔥🔥: 134 \| 💬: [156](https://news.ycombinator.com/item?id=42854525) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -203,7 +227,7 @@ Sam Altman在2023年的一次演讲中表示，**拥有1000万美元预算的初
 
 ---
 
-## <a name="16"></a>16. 美国公务员被询问2024年大选投票情况 
+## <a name="18"></a>18. 美国公务员被询问2024年大选投票情况 
 <small>🔗 [independent.co.uk](https://www.independent.co.uk/news/world/americas/us-politics/trump-civil-service-loyalty-transition-b2678674.html): US Civil servants are being asked who they voted for in 2024 election</small>
 
 
@@ -215,19 +239,19 @@ Sam Altman在2023年的一次演讲中表示，**拥有1000万美元预算的初
 
 ---
 
-## <a name="17"></a>17. 帕金森病患者使用新型自适应脑深部刺激设备后“感觉痊愈” 
-<small>🔗 [bbc.com](https://www.bbc.com/news/articles/ckgn49r069wo): Parkinsons patient "feels cured" with new adaptive deep brain stimulation device</small>
+## <a name="19"></a>19. 离开《纽约时报》 
+<small>🔗 [contrarian.substack.com](https://contrarian.substack.com/p/departing-the-new-york-times): Departing the New York Times</small>
 
 
-| 🔥🔥: 129 \| 💬: [13](https://news.ycombinator.com/item?id=42857293) \| 🗓️ 2025-01-28
+| 🔥🔥: 132 \| 💬: [24](https://news.ycombinator.com/item?id=42859669) \| 🗓️ 2025-01-28
 
 
 <br />
-65岁的凯文·希尔因帕金森病接受了**自适应脑深部刺激（DBS）**植入手术，设备通过读取大脑信号自动调节电刺激，显著改善了他的症状。他称自己“感觉痊愈”，甚至能忘记患病。医生表示，这种新技术有望大幅提升患者的生活质量。
+保罗·克鲁格曼在《纽约时报》担任评论作家25年后离职，原因是**编辑干预**加剧，导致其写作自由受限。他提到，过去编辑轻描淡写，但近年来**编辑流程**变得繁琐，甚至要求改写内容以淡化观点。此外，他的**技术性博客**被取消，进一步限制了他的表达空间。克鲁格曼认为，这种趋势反映了传统新闻机构在当今信息环境中的困境，最终他选择离开以保持创作自由。
 
 ---
 
-## <a name="18"></a>18. 大阪全面禁止街头吸烟，包括电子烟 
+## <a name="20"></a>20. 大阪全面禁止街头吸烟，包括电子烟 
 <small>🔗 [soranews24.com](https://soranews24.com/2025/01/28/osaka-bans-smoking-on-all-of-its-streets-violators-will-be-fined-by-patrols-vaping-included/): Osaka bans smoking on all of its streets, vaping included</small>
 
 
@@ -236,29 +260,5 @@ Sam Altman在2023年的一次演讲中表示，**拥有1000万美元预算的初
 
 <br />
 日本第三大城市大阪为迎接2025年世博会，提前实施全面街头禁烟令。自1月27日起，**街头吸烟**在全市范围内被禁止，包括**电子烟**和传统香烟，违者将面临**1000日元罚款**。该禁令是城市美化计划的一部分，同时新增17个公共吸烟区，总数将达330个。
-
----
-
-## <a name="19"></a>19. 强化学习——参考指南 
-<small>🔗 [jakubhalmes.substack.com](https://jakubhalmes.substack.com/p/reinforcement-learning-a-reference): Reinforcement Learning – A Reference</small>
-
-
-| 🔥🔥: 106 \| 💬: [3](https://news.ycombinator.com/item?id=42850111) \| 🗓️ 2025-01-28
-
-
-<br />
-本文基于Petr Novotný教授的PA230强化学习课程材料，探讨了**值迭代**、**策略迭代**、**蒙特卡罗方法**和**时序差分学习**等核心概念。重点介绍了如何通过**Q-learning**和**策略梯度方法**优化策略，并讨论了**深度Q网络（DQN）**和**近端策略优化（PPO）**等现代技术。
-
----
-
-## <a name="20"></a>20. DeepSeek的多头潜在注意力及其他KV缓存优化技巧 
-<small>🔗 [pyspur.dev](https://www.pyspur.dev/blog/multi-head-latent-attention-kv-cache-paper-list): DeepSeek's multi-head latent attention and other KV cache tricks</small>
-
-
-| 🔥🔥: 104 \| 💬: [7](https://news.ycombinator.com/item?id=42858741) \| 🗓️ 2025-01-28
-
-
-<br />
-本文探讨了**Key-Value (KV) 缓存**如何通过内存与计算时间的巧妙权衡，加速语言模型的文本生成。重点介绍了**多头潜在注意力**及其他优化技术，如**H2O**和**StreamLLM**，通过减少冗余计算和动态管理缓存，显著提升了模型效率，同时解决了内存占用过大的问题。
 
 ---
