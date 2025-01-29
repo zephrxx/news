@@ -27,7 +27,7 @@ tags:
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Jan/27/llamacpp-pr/): Promising results from DeepSeek R1 for code</small>
 
 
-| 🔥🔥: 739 \| 💬: [537](https://news.ycombinator.com/item?id=42852866) \| 🗓️ 2025-01-28
+| 🔥🔥: 749 \| 💬: [551](https://news.ycombinator.com/item?id=42852866) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -39,7 +39,7 @@ Simon Willison 在其博客中分享了 **DeepSeek R1** 在代码生成方面的
 <small>🔗 [predictors.fail](https://predictors.fail/): New speculative attacks on Apple CPUs</small>
 
 
-| 🔥🔥: 630 \| 💬: [239](https://news.ycombinator.com/item?id=42856023) \| 🗓️ 2025-01-28
+| 🔥🔥: 659 \| 💬: [247](https://news.ycombinator.com/item?id=42856023) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -51,7 +51,7 @@ Simon Willison 在其博客中分享了 **DeepSeek R1** 在代码生成方面的
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=-qisIViAHwI): Boom XB-1 First Supersonic Flight [video]</small>
 
 
-| 🔥🔥: 435 \| 💬: [331](https://news.ycombinator.com/item?id=42853633) \| 🗓️ 2025-01-28
+| 🔥🔥: 451 \| 💬: [347](https://news.ycombinator.com/item?id=42853633) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -63,7 +63,7 @@ Boom XB-1 成功完成了**首次超音速飞行**，标志着超音速航空技
 <small>🔗 [promptfoo.dev](https://www.promptfoo.dev/blog/deepseek-censorship/): Questions censored by DeepSeek</small>
 
 
-| 🔥🔥: 303 \| 💬: [187](https://news.ycombinator.com/item?id=42858552) \| 🗓️ 2025-01-28
+| 🔥🔥: 308 \| 💬: [190](https://news.ycombinator.com/item?id=42858552) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -75,7 +75,7 @@ DeepSeek-R1 是一款开源模型，现居美国应用商店榜首。作为中�
 <small>🔗 [akrabat.com](https://akrabat.com/using-uv-as-your-shebang-line/): Using uv as your shebang line</small>
 
 
-| 🔥🔥: 261 \| 💬: [97](https://news.ycombinator.com/item?id=42855258) \| 🗓️ 2025-01-28
+| 🔥🔥: 275 \| 💬: [98](https://news.ycombinator.com/item?id=42855258) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -87,7 +87,7 @@ DeepSeek-R1 是一款开源模型，现居美国应用商店榜首。作为中�
 <small>🔗 [iac.es](https://www.iac.es/en/outreach/news/iac-confirms-existence-super-earth-habitable-zone-sun-star): IAC confirms existence of a Super-earth in the habitable zone of a Sun-like Star</small>
 
 
-| 🔥🔥: 252 \| 💬: [184](https://news.ycombinator.com/item?id=42853174) \| 🗓️ 2025-01-28
+| 🔥🔥: 264 \| 💬: [192](https://news.ycombinator.com/item?id=42853174) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -95,11 +95,23 @@ DeepSeek-R1 是一款开源模型，现居美国应用商店榜首。作为中�
 
 ---
 
-## <a name="7"></a>7. 美国暂停所有联邦援助和拨款 
+## <a name="7"></a>7. 再见，Slopify 
+<small>🔗 [alexeystar.com](https://alexeystar.com/blog/slopify/): Goodbye, Slopify</small>
+
+
+| 🔥🔥: 240 \| 💬: [180](https://news.ycombinator.com/item?id=42860113) \| 🗓️ 2025-01-28
+
+
+<br />
+作者决定取消Spotify订阅，原因是其**AI生成的音乐**和**AI生成的专辑封面**污染了Discover Weekly播放列表。此外，Spotify的**臃肿桌面应用**和糟糕的用户界面也令人不满。作者表示将转而支持真实艺术家并购买可拥有的音乐。
+
+---
+
+## <a name="8"></a>8. 美国暂停所有联邦援助和拨款 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c77rdy6gzy5o): US pauses all federal aid and grants</small>
 
 
-| 🔥🔥: 228 \| 💬: [294](https://news.ycombinator.com/item?id=42851248) \| 🗓️ 2025-01-28
+| 🔥🔥: 236 \| 💬: [303](https://news.ycombinator.com/item?id=42851248) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -107,11 +119,11 @@ DeepSeek-R1 是一款开源模型，现居美国应用商店榜首。作为中�
 
 ---
 
-## <a name="8"></a>8. DeepSeek如何改进Transformer架构？ 
+## <a name="9"></a>9. DeepSeek如何改进Transformer架构？ 
 <small>🔗 [epoch.ai](https://epoch.ai/gradient-updates/how-has-deepseek-improved-the-transformer-architecture): How has DeepSeek improved the Transformer architecture?</small>
 
 
-| 🔥🔥: 217 \| 💬: [56](https://news.ycombinator.com/item?id=42855170) \| 🗓️ 2025-01-28
+| 🔥🔥: 219 \| 💬: [56](https://news.ycombinator.com/item?id=42855170) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -119,11 +131,11 @@ DeepSeek v3通过**多头潜在注意力（MLA）**和**专家混合（MoE）**�
 
 ---
 
-## <a name="9"></a>9. Bitwarden 将强制新设备启用双重验证 
+## <a name="10"></a>10. Bitwarden 将强制新设备启用双重验证 
 <small>🔗 [bitwarden.com](https://bitwarden.com/help/new-device-verification/): Bitwarden is turning 2FA on by default for new devices</small>
 
 
-| 🔥🔥: 214 \| 💬: [238](https://news.ycombinator.com/item?id=42853696) \| 🗓️ 2025-01-28
+| 🔥🔥: 215 \| 💬: [239](https://news.ycombinator.com/item?id=42853696) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -131,11 +143,11 @@ DeepSeek v3通过**多头潜在注意力（MLA）**和**专家混合（MoE）**�
 
 ---
 
-## <a name="10"></a>10. Janus Pro 1B 在浏览器中通过 WebGPU 本地运行 
+## <a name="11"></a>11. Janus Pro 1B 在浏览器中通过 WebGPU 本地运行 
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/LocalLLaMA/comments/1ibnso0/janus_pro_1b_running_100_locally_inbrowser_on/): Janus Pro 1B running 100% locally in-browser on WebGPU</small>
 
 
-| 🔥🔥: 201 \| 💬: [20](https://news.ycombinator.com/item?id=42852400) \| 🗓️ 2025-01-28
+| 🔥🔥: 202 \| 💬: [20](https://news.ycombinator.com/item?id=42852400) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -143,11 +155,11 @@ DeepSeek 发布了 **Janus Pro**（1B 和 7B），这是一个多模态大语言
 
 ---
 
-## <a name="11"></a>11. 浏览器中使用WASM的嵌入式Common Lisp运行Maxima 
+## <a name="12"></a>12. 浏览器中使用WASM的嵌入式Common Lisp运行Maxima 
 <small>🔗 [maxima-on-wasm.pages.dev](https://maxima-on-wasm.pages.dev/): Maxima in the browser using Embedded Common Lisp on WASM</small>
 
 
-| 🔥🔥: 182 \| 💬: [42](https://news.ycombinator.com/item?id=42853528) \| 🗓️ 2025-01-28
+| 🔥🔥: 183 \| 💬: [43](https://news.ycombinator.com/item?id=42853528) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -155,23 +167,11 @@ DeepSeek 发布了 **Janus Pro**（1B 和 7B），这是一个多模态大语言
 
 ---
 
-## <a name="12"></a>12. 伯克利研究人员以30美元复制DeepSeek R1核心技术：小型模型强化学习革命 
-<small>🔗 [xyzlabs.substack.com](https://xyzlabs.substack.com/p/berkeley-researchers-replicate-deepseek): Berkeley Researchers Replicate DeepSeek R1's Core Tech for Just $30: A Small Mod</small>
-
-
-| 🔥🔥: 159 \| 💬: [66](https://news.ycombinator.com/item?id=42855283) \| 🗓️ 2025-01-28
-
-
-<br />
-伯克利AI研究团队成功以不到30美元的成本复制了**DeepSeek R1-Zero**的核心技术，展示了**小型语言模型**（1.5B参数）在复杂推理任务中的潜力。研究通过**强化学习**使模型从随机猜测发展到高级搜索与自我验证，证明了AI能力可通过简单系统实现。
-
----
-
 ## <a name="13"></a>13. DeepSeek的多头潜在注意力及其他KV缓存优化技巧 
 <small>🔗 [pyspur.dev](https://www.pyspur.dev/blog/multi-head-latent-attention-kv-cache-paper-list): DeepSeek's multi-head latent attention and other KV cache tricks</small>
 
 
-| 🔥🔥: 158 \| 💬: [29](https://news.ycombinator.com/item?id=42858741) \| 🗓️ 2025-01-28
+| 🔥🔥: 177 \| 💬: [33](https://news.ycombinator.com/item?id=42858741) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -183,7 +183,7 @@ DeepSeek 发布了 **Janus Pro**（1B 和 7B），这是一个多模态大语言
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/ckgn49r069wo): Parkinsons patient "feels cured" with new adaptive deep brain stimulation device</small>
 
 
-| 🔥🔥: 154 \| 💬: [17](https://news.ycombinator.com/item?id=42857293) \| 🗓️ 2025-01-28
+| 🔥🔥: 164 \| 💬: [17](https://news.ycombinator.com/item?id=42857293) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -191,11 +191,23 @@ DeepSeek 发布了 **Janus Pro**（1B 和 7B），这是一个多模态大语言
 
 ---
 
-## <a name="15"></a>15. 近十分之一的人使用相同的四位数PIN码 
+## <a name="15"></a>15. 伯克利研究人员以30美元复制DeepSeek R1核心技术：小型模型强化学习革命 
+<small>🔗 [xyzlabs.substack.com](https://xyzlabs.substack.com/p/berkeley-researchers-replicate-deepseek): Berkeley Researchers Replicate DeepSeek R1's Core Tech for Just $30: A Small Mod</small>
+
+
+| 🔥🔥: 159 \| 💬: [66](https://news.ycombinator.com/item?id=42855283) \| 🗓️ 2025-01-28
+
+
+<br />
+伯克利AI研究团队成功以不到30美元的成本复制了**DeepSeek R1-Zero**的核心技术，展示了**小型语言模型**（1.5B参数）在复杂推理任务中的潜力。研究通过**强化学习**使模型从随机猜测发展到高级搜索与自我验证，证明了AI能力可通过简单系统实现。
+
+---
+
+## <a name="16"></a>16. 近十分之一的人使用相同的四位数PIN码 
 <small>🔗 [abc.net.au](https://www.abc.net.au/news/2025-01-28/almost-one-in-ten-people-use-the-same-four-digit-pin/103946842): Almost one in 10 people use the same four-digit PIN</small>
 
 
-| 🔥🔥: 149 \| 💬: [130](https://news.ycombinator.com/item?id=42853617) \| 🗓️ 2025-01-28
+| 🔥🔥: 149 \| 💬: [132](https://news.ycombinator.com/item?id=42853617) \| 🗓️ 2025-01-28
 
 
 <br />
@@ -203,23 +215,11 @@ DeepSeek 发布了 **Janus Pro**（1B 和 7B），这是一个多模态大语言
 
 ---
 
-## <a name="16"></a>16. 再见，Slopify 
-<small>🔗 [alexeystar.com](https://alexeystar.com/blog/slopify/): Goodbye, Slopify</small>
-
-
-| 🔥🔥: 144 \| 💬: [120](https://news.ycombinator.com/item?id=42860113) \| 🗓️ 2025-01-28
-
-
-<br />
-作者决定取消Spotify订阅，原因是其**AI生成的音乐**和**AI生成的专辑封面**污染了Discover Weekly播放列表。此外，Spotify的**臃肿桌面应用**和糟糕的用户界面也令人不满。作者表示将转而支持真实艺术家并购买可拥有的音乐。
-
----
-
 ## <a name="17"></a>17. 离开《纽约时报》 
 <small>🔗 [contrarian.substack.com](https://contrarian.substack.com/p/departing-the-new-york-times): Departing the New York Times</small>
 
 
-| 🔥🔥: 137 \| 💬: [31](https://news.ycombinator.com/item?id=42859669) \| 🗓️ 2025-01-28
+| 🔥🔥: 141 \| 💬: [38](https://news.ycombinator.com/item?id=42859669) \| 🗓️ 2025-01-28
 
 
 <br />
