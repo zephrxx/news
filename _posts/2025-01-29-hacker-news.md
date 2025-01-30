@@ -27,7 +27,7 @@ tags:
 <small>🔗 [404media.co](https://www.404media.co/openai-furious-deepseek-might-have-stolen-all-the-data-openai-stole-from-us/): OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole from Us</small>
 
 
-| 🔥🔥: 1274 \| 💬: [9](https://news.ycombinator.com/item?id=42865527) \| 🗓️ 2025-01-29
+| 🔥🔥: 1277 \| 💬: [9](https://news.ycombinator.com/item?id=42865527) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -39,7 +39,7 @@ OpenAI 和微软正在调查中国 AI 初创公司 DeepSeek 是否未经授权�
 <small>🔗 [getlago.com](https://www.getlago.com/blog/deepseek-open-source): Why DeepSeek had to be open source</small>
 
 
-| 🔥🔥: 481 \| 💬: [261](https://news.ycombinator.com/item?id=42866201) \| 🗓️ 2025-01-29
+| 🔥🔥: 484 \| 💬: [263](https://news.ycombinator.com/item?id=42866201) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -51,7 +51,7 @@ DeepSeek提供了**开源版本**和**高级版本**，分别适用于小型项�
 <small>🔗 [thebloggess.com](https://thebloggess.com/2025/01/28/no-i-do-not-want-ai-to-polish-me/): I do not want AI to "polish" me</small>
 
 
-| 🔥🔥: 384 \| 💬: [250](https://news.ycombinator.com/item?id=42864854) \| 🗓️ 2025-01-29
+| 🔥🔥: 387 \| 💬: [250](https://news.ycombinator.com/item?id=42864854) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -63,7 +63,7 @@ DeepSeek提供了**开源版本**和**高级版本**，分别适用于小型项�
 <small>🔗 [arcprize.org](https://arcprize.org/blog/r1-zero-r1-results-analysis): An analysis of DeepSeek's R1-Zero and R1</small>
 
 
-| 🔥🔥: 341 \| 💬: [147](https://news.ycombinator.com/item?id=42868390) \| 🗓️ 2025-01-29
+| 🔥🔥: 363 \| 💬: [151](https://news.ycombinator.com/item?id=42868390) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -75,7 +75,7 @@ DeepSeek发布的**R1-Zero**和**R1**系统在ARC-AGI-1基准测试中表现出�
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/pc-components/hdds/german-seagate-customers-say-their-new-hard-drives-were-actually-used-resold-hdds-reportedly-used-for-tens-of-thousands-of-hours): Seagate: 'new' hard drives used for tens of thousands of hours</small>
 
 
-| 🔥🔥: 307 \| 💬: [186](https://news.ycombinator.com/item?id=42864788) \| 🗓️ 2025-01-29
+| 🔥🔥: 311 \| 💬: [189](https://news.ycombinator.com/item?id=42864788) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -83,35 +83,11 @@ DeepSeek发布的**R1-Zero**和**R1**系统在ARC-AGI-1基准测试中表现出�
 
 ---
 
-## <a name="6"></a>6. Google Pixel 4a 旧固件消失，用户被困在电池更新问题中 
-<small>🔗 [androidcentral.com](https://www.androidcentral.com/phones/google-pixel-4as-old-firmware-is-gone-trapping-users-on-the-buggy-battery-update): Google Pixel 4a's old firmware is gone, trapping users on buggy battery update</small>
-
-
-| 🔥🔥: 236 \| 💬: [219](https://news.ycombinator.com/item?id=42865619) \| 🗓️ 2025-01-29
-
-
-<br />
-Google 为 Pixel 4a 推出的**电池更新**导致严重**电池耗电**问题，且删除了旧固件，用户无法回滚。Google 已承认问题并提供补偿：免费电池更换、50 美元现金或 100 美元 Pixel 购买优惠。此次更新本应改善电池性能，却使问题恶化，许多用户陷入困境。
-
----
-
-## <a name="7"></a>7. 我们的手机正在扼杀我们的性感能力 
-<small>🔗 [catherineshannon.substack.com](https://catherineshannon.substack.com/p/your-phone-is-why-you-dont-feel-sexy): Our phones are killing our ability to feel sexy (2024)</small>
-
-
-| 🔥🔥: 208 \| 💬: [217](https://news.ycombinator.com/item?id=42864595) \| 🗓️ 2025-01-29
-
-
-<br />
-手机和互联网的过度使用不仅削弱了我们的注意力，还让我们失去了**性感的感觉**。**Eros（欲望）**是一种身体体验，而手机让我们脱离身体，陷入虚拟世界。即时获取一切让我们失去了**渴望和冒险**的能力，而这些都是性感的核心。我们需要放下手机，重新感受真实生活中的短暂与美好。
-
----
-
-## <a name="8"></a>8. DeepSeek数据库泄露敏感信息，包括聊天记录 
+## <a name="6"></a>6. DeepSeek数据库泄露敏感信息，包括聊天记录 
 <small>🔗 [wiz.io](https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak): Exposed DeepSeek database leaking sensitive information, including chat history</small>
 
 
-| 🔥🔥: 192 \| 💬: [80](https://news.ycombinator.com/item?id=42871371) \| 🗓️ 2025-01-29
+| 🔥🔥: 286 \| 💬: [159](https://news.ycombinator.com/item?id=42871371) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -119,23 +95,35 @@ Wiz Research发现DeepSeek的一个**公开访问的ClickHouse数据库**，暴�
 
 ---
 
-## <a name="9"></a>9. 食盐加碘对认知改善的作用：研究（2013） 
-<small>🔗 [discovermagazine.com](https://www.discovermagazine.com/health/how-adding-iodine-to-salt-boosted-americans-iq): Adding iodine to salt played a role in cognitive improvements: research (2013)</small>
+## <a name="7"></a>7. Google Pixel 4a 旧固件消失，用户被困在电池更新问题中 
+<small>🔗 [androidcentral.com](https://www.androidcentral.com/phones/google-pixel-4as-old-firmware-is-gone-trapping-users-on-the-buggy-battery-update): Google Pixel 4a's old firmware is gone, trapping users on buggy battery update</small>
 
 
-| 🔥🔥: 178 \| 💬: [119](https://news.ycombinator.com/item?id=42868718) \| 🗓️ 2025-01-29
+| 🔥🔥: 248 \| 💬: [229](https://news.ycombinator.com/item?id=42865619) \| 🗓️ 2025-01-29
 
 
 <br />
-研究表明，**食盐加碘**在20世纪美国人口的认知改善中发挥了重要作用。自1924年起，碘被添加到食盐中，最初是为了减少甲状腺肿的发生。研究发现，**碘缺乏**是全球可预防智力障碍的主要原因，而加碘盐显著提高了低碘地区人口的智商，平均提升了3.5点。尽管加碘导致了一些甲状腺相关死亡，但其对大脑发育的积极影响不可忽视，甚至可能解释了**弗林效应**的部分原因。
+Google 为 Pixel 4a 推出的**电池更新**导致严重**电池耗电**问题，且删除了旧固件，用户无法回滚。Google 已承认问题并提供补偿：免费电池更换、50 美元现金或 100 美元 Pixel 购买优惠。此次更新本应改善电池性能，却使问题恶化，许多用户陷入困境。
 
 ---
 
-## <a name="10"></a>10. SmolGPT：一个用于从头训练小型LLM的极简PyTorch实现 
+## <a name="8"></a>8. 我们的手机正在扼杀我们的性感能力 
+<small>🔗 [catherineshannon.substack.com](https://catherineshannon.substack.com/p/your-phone-is-why-you-dont-feel-sexy): Our phones are killing our ability to feel sexy (2024)</small>
+
+
+| 🔥🔥: 210 \| 💬: [222](https://news.ycombinator.com/item?id=42864595) \| 🗓️ 2025-01-29
+
+
+<br />
+手机和互联网的过度使用不仅削弱了我们的注意力，还让我们失去了**性感的感觉**。**Eros（欲望）**是一种身体体验，而手机让我们脱离身体，陷入虚拟世界。即时获取一切让我们失去了**渴望和冒险**的能力，而这些都是性感的核心。我们需要放下手机，重新感受真实生活中的短暂与美好。
+
+---
+
+## <a name="9"></a>9. SmolGPT：一个用于从头训练小型LLM的极简PyTorch实现 
 <small>🔗 [github.com](https://github.com/Om-Alve/smolGPT): SmolGPT: A minimal PyTorch implementation for training a small LLM from scratch</small>
 
 
-| 🔥🔥: 175 \| 💬: [24](https://news.ycombinator.com/item?id=42868770) \| 🗓️ 2025-01-29
+| 🔥🔥: 191 \| 💬: [25](https://news.ycombinator.com/item?id=42868770) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -143,23 +131,11 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 
 ---
 
-## <a name="11"></a>11. 杰文斯悖论 
-<small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Jevons_paradox): Jevons paradox</small>
-
-
-| 🔥🔥: 168 \| 💬: [155](https://news.ycombinator.com/item?id=42863808) \| 🗓️ 2025-01-29
-
-
-<br />
-**杰文斯悖论**指出，技术进步提高资源使用效率后，虽然单次使用所需资源减少，但由于成本下降，总需求增加，导致资源消耗总量上升。这一现象由经济学家威廉·斯坦利·杰文斯在1865年提出，最初针对煤炭使用，现扩展至其他资源。**反弹效应**和**卡祖姆-布鲁克斯假说**进一步解释了这一现象，强调效率提升可能加速资源消耗。因此，单纯提高效率未必减少资源使用，需结合政策干预（如碳税）来控制需求。
-
----
-
-## <a name="12"></a>12. 2032年小行星撞击地球概率1%，能量达8百万吨 
+## <a name="10"></a>10. 2032年小行星撞击地球概率1%，能量达8百万吨 
 <small>🔗 [cneos.jpl.nasa.gov](https://cneos.jpl.nasa.gov/sentry/details.html#?des=2024%20YR4): Asteroid Impact on Earth 2032 with Probability 1% and 8Mt Energy</small>
 
 
-| 🔥🔥: 168 \| 💬: [149](https://news.ycombinator.com/item?id=42864272) \| 🗓️ 2025-01-29
+| 🔥🔥: 190 \| 💬: [168](https://news.ycombinator.com/item?id=42864272) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -167,11 +143,35 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 
 ---
 
+## <a name="11"></a>11. 食盐加碘对认知改善的作用：研究（2013） 
+<small>🔗 [discovermagazine.com](https://www.discovermagazine.com/health/how-adding-iodine-to-salt-boosted-americans-iq): Adding iodine to salt played a role in cognitive improvements: research (2013)</small>
+
+
+| 🔥🔥: 185 \| 💬: [129](https://news.ycombinator.com/item?id=42868718) \| 🗓️ 2025-01-29
+
+
+<br />
+研究表明，**食盐加碘**在20世纪美国人口的认知改善中发挥了重要作用。自1924年起，碘被添加到食盐中，最初是为了减少甲状腺肿的发生。研究发现，**碘缺乏**是全球可预防智力障碍的主要原因，而加碘盐显著提高了低碘地区人口的智商，平均提升了3.5点。尽管加碘导致了一些甲状腺相关死亡，但其对大脑发育的积极影响不可忽视，甚至可能解释了**弗林效应**的部分原因。
+
+---
+
+## <a name="12"></a>12. 杰文斯悖论 
+<small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Jevons_paradox): Jevons paradox</small>
+
+
+| 🔥🔥: 172 \| 💬: [156](https://news.ycombinator.com/item?id=42863808) \| 🗓️ 2025-01-29
+
+
+<br />
+**杰文斯悖论**指出，技术进步提高资源使用效率后，虽然单次使用所需资源减少，但由于成本下降，总需求增加，导致资源消耗总量上升。这一现象由经济学家威廉·斯坦利·杰文斯在1865年提出，最初针对煤炭使用，现扩展至其他资源。**反弹效应**和**卡祖姆-布鲁克斯假说**进一步解释了这一现象，强调效率提升可能加速资源消耗。因此，单纯提高效率未必减少资源使用，需结合政策干预（如碳税）来控制需求。
+
+---
+
 ## <a name="13"></a>13. 加州总检察长警告AI公司：几乎所有行为可能违法 
 <small>🔗 [gizmodo.com](https://gizmodo.com/californias-ag-tells-ai-companies-practically-everything-theyre-doing-might-be-illegal-2000555896): Cali's AG Tells AI Companies Almost Everything They're Doing Might Be Illegal</small>
 
 
-| 🔥🔥: 164 \| 💬: [142](https://news.ycombinator.com/item?id=42865174) \| 🗓️ 2025-01-29
+| 🔥🔥: 165 \| 💬: [142](https://news.ycombinator.com/item?id=42865174) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -183,7 +183,7 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 <small>🔗 [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/spam/WellPreparedPhishSpammer): We got hit by an alarmingly well-prepared phish spammer</small>
 
 
-| 🔥🔥: 157 \| 💬: [98](https://news.ycombinator.com/item?id=42862873) \| 🗓️ 2025-01-29
+| 🔥🔥: 158 \| 💬: [98](https://news.ycombinator.com/item?id=42862873) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -195,7 +195,7 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/tsmc-founder-says-tim-cook-told-him-intel-did-not-know-how-to-be-a-foundry): Intel doesn't know how to be a foundry, Tim Cook reportedly said in 2011</small>
 
 
-| 🔥🔥: 146 \| 💬: [89](https://news.ycombinator.com/item?id=42868531) \| 🗓️ 2025-01-29
+| 🔥🔥: 147 \| 💬: [90](https://news.ycombinator.com/item?id=42868531) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -207,7 +207,7 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 <small>🔗 [animationobsessive.substack.com](https://animationobsessive.substack.com/p/making-the-video-that-made-gorillaz): Making the video that made Gorillaz</small>
 
 
-| 🔥🔥: 125 \| 💬: [30](https://news.ycombinator.com/item?id=42870990) \| 🗓️ 2025-01-29
+| 🔥🔥: 139 \| 💬: [31](https://news.ycombinator.com/item?id=42870990) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -219,7 +219,7 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 <small>🔗 [blog.playstation.com](https://blog.playstation.com/2025/01/29/no-mans-skys-latest-update-introduces-billions-of-new-stars-planets-and-more-today/): No Man's Sky's update introduces billions of new stars, planets, and more</small>
 
 
-| 🔥🔥: 124 \| 💬: [99](https://news.ycombinator.com/item?id=42868618) \| 🗓️ 2025-01-29
+| 🔥🔥: 124 \| 💬: [103](https://news.ycombinator.com/item?id=42868618) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -231,7 +231,7 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 <small>🔗 [celso.io](https://celso.io/posts/2025/01/26/the-first-perfect-computer/): A story about restoring and upgrading a Commodore Amiga 1000</small>
 
 
-| 🔥🔥: 118 \| 💬: [31](https://news.ycombinator.com/item?id=42865867) \| 🗓️ 2025-01-29
+| 🔥🔥: 120 \| 💬: [33](https://news.ycombinator.com/item?id=42865867) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -243,7 +243,7 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 <small>🔗 [darioamodei.com](https://darioamodei.com/on-deepseek-and-export-controls): On DeepSeek and export controls</small>
 
 
-| 🔥🔥: 118 \| 💬: [164](https://news.ycombinator.com/item?id=42866905) \| 🗓️ 2025-01-29
+| 🔥🔥: 119 \| 💬: [166](https://news.ycombinator.com/item?id=42866905) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -255,7 +255,7 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 <small>🔗 [garry.net](https://garry.net/posts/dead-games): Dead Games</small>
 
 
-| 🔥🔥: 105 \| 💬: [33](https://news.ycombinator.com/item?id=42870230) \| 🗓️ 2025-01-29
+| 🔥🔥: 111 \| 💬: [40](https://news.ycombinator.com/item?id=42870230) \| 🗓️ 2025-01-29
 
 
 <br />
