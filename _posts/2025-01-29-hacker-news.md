@@ -27,7 +27,7 @@ tags:
 <small>🔗 [404media.co](https://www.404media.co/openai-furious-deepseek-might-have-stolen-all-the-data-openai-stole-from-us/): OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole from Us</small>
 
 
-| 🔥🔥: 1280 \| 💬: [9](https://news.ycombinator.com/item?id=42865527) \| 🗓️ 2025-01-29
+| 🔥🔥: 1281 \| 💬: [10](https://news.ycombinator.com/item?id=42865527) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -39,7 +39,7 @@ OpenAI 和微软正在调查中国 AI 初创公司 DeepSeek 是否未经授权�
 <small>🔗 [getlago.com](https://www.getlago.com/blog/deepseek-open-source): Why DeepSeek had to be open source</small>
 
 
-| 🔥🔥: 489 \| 💬: [267](https://news.ycombinator.com/item?id=42866201) \| 🗓️ 2025-01-29
+| 🔥🔥: 490 \| 💬: [267](https://news.ycombinator.com/item?id=42866201) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -51,7 +51,7 @@ DeepSeek提供了**开源版本**和**高级版本**，分别适用于小型项�
 <small>🔗 [wiz.io](https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak): Exposed DeepSeek database leaking sensitive information, including chat history</small>
 
 
-| 🔥🔥: 421 \| 💬: [274](https://news.ycombinator.com/item?id=42871371) \| 🗓️ 2025-01-29
+| 🔥🔥: 463 \| 💬: [300](https://news.ycombinator.com/item?id=42871371) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -63,7 +63,7 @@ Wiz Research发现DeepSeek的一个**公开访问的ClickHouse数据库**，暴�
 <small>🔗 [arcprize.org](https://arcprize.org/blog/r1-zero-r1-results-analysis): An analysis of DeepSeek's R1-Zero and R1</small>
 
 
-| 🔥🔥: 399 \| 💬: [161](https://news.ycombinator.com/item?id=42868390) \| 🗓️ 2025-01-29
+| 🔥🔥: 416 \| 💬: [171](https://news.ycombinator.com/item?id=42868390) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -75,7 +75,7 @@ DeepSeek发布的**R1-Zero**和**R1**系统在ARC-AGI-1基准测试中表现出�
 <small>🔗 [thebloggess.com](https://thebloggess.com/2025/01/28/no-i-do-not-want-ai-to-polish-me/): I do not want AI to "polish" me</small>
 
 
-| 🔥🔥: 387 \| 💬: [252](https://news.ycombinator.com/item?id=42864854) \| 🗓️ 2025-01-29
+| 🔥🔥: 389 \| 💬: [252](https://news.ycombinator.com/item?id=42864854) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -87,7 +87,7 @@ DeepSeek发布的**R1-Zero**和**R1**系统在ARC-AGI-1基准测试中表现出�
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/pc-components/hdds/german-seagate-customers-say-their-new-hard-drives-were-actually-used-resold-hdds-reportedly-used-for-tens-of-thousands-of-hours): Seagate: 'new' hard drives used for tens of thousands of hours</small>
 
 
-| 🔥🔥: 319 \| 💬: [194](https://news.ycombinator.com/item?id=42864788) \| 🗓️ 2025-01-29
+| 🔥🔥: 323 \| 💬: [194](https://news.ycombinator.com/item?id=42864788) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -99,7 +99,7 @@ DeepSeek发布的**R1-Zero**和**R1**系统在ARC-AGI-1基准测试中表现出�
 <small>🔗 [androidcentral.com](https://www.androidcentral.com/phones/google-pixel-4as-old-firmware-is-gone-trapping-users-on-the-buggy-battery-update): Google Pixel 4a's old firmware is gone, trapping users on buggy battery update</small>
 
 
-| 🔥🔥: 257 \| 💬: [235](https://news.ycombinator.com/item?id=42865619) \| 🗓️ 2025-01-29
+| 🔥🔥: 259 \| 💬: [239](https://news.ycombinator.com/item?id=42865619) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -111,7 +111,7 @@ Google 为 Pixel 4a 推出的**电池更新**导致严重**电池耗电**问题�
 <small>🔗 [cneos.jpl.nasa.gov](https://cneos.jpl.nasa.gov/sentry/details.html#?des=2024%20YR4): Asteroid Impact on Earth 2032 with Probability 1% and 8Mt Energy</small>
 
 
-| 🔥🔥: 222 \| 💬: [195](https://news.ycombinator.com/item?id=42864272) \| 🗓️ 2025-01-29
+| 🔥🔥: 233 \| 💬: [209](https://news.ycombinator.com/item?id=42864272) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -119,23 +119,11 @@ Google 为 Pixel 4a 推出的**电池更新**导致严重**电池耗电**问题�
 
 ---
 
-## <a name="9"></a>9. 我们的手机正在扼杀我们的性感能力 
-<small>🔗 [catherineshannon.substack.com](https://catherineshannon.substack.com/p/your-phone-is-why-you-dont-feel-sexy): Our phones are killing our ability to feel sexy (2024)</small>
-
-
-| 🔥🔥: 216 \| 💬: [224](https://news.ycombinator.com/item?id=42864595) \| 🗓️ 2025-01-29
-
-
-<br />
-手机和互联网的过度使用不仅削弱了我们的注意力，还让我们失去了**性感的感觉**。**Eros（欲望）**是一种身体体验，而手机让我们脱离身体，陷入虚拟世界。即时获取一切让我们失去了**渴望和冒险**的能力，而这些都是性感的核心。我们需要放下手机，重新感受真实生活中的短暂与美好。
-
----
-
-## <a name="10"></a>10. SmolGPT：一个用于从头训练小型LLM的极简PyTorch实现 
+## <a name="9"></a>9. SmolGPT：一个用于从头训练小型LLM的极简PyTorch实现 
 <small>🔗 [github.com](https://github.com/Om-Alve/smolGPT): SmolGPT: A minimal PyTorch implementation for training a small LLM from scratch</small>
 
 
-| 🔥🔥: 212 \| 💬: [29](https://news.ycombinator.com/item?id=42868770) \| 🗓️ 2025-01-29
+| 🔥🔥: 226 \| 💬: [29](https://news.ycombinator.com/item?id=42868770) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -143,11 +131,23 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 
 ---
 
+## <a name="10"></a>10. 我们的手机正在扼杀我们的性感能力 
+<small>🔗 [catherineshannon.substack.com](https://catherineshannon.substack.com/p/your-phone-is-why-you-dont-feel-sexy): Our phones are killing our ability to feel sexy (2024)</small>
+
+
+| 🔥🔥: 217 \| 💬: [224](https://news.ycombinator.com/item?id=42864595) \| 🗓️ 2025-01-29
+
+
+<br />
+手机和互联网的过度使用不仅削弱了我们的注意力，还让我们失去了**性感的感觉**。**Eros（欲望）**是一种身体体验，而手机让我们脱离身体，陷入虚拟世界。即时获取一切让我们失去了**渴望和冒险**的能力，而这些都是性感的核心。我们需要放下手机，重新感受真实生活中的短暂与美好。
+
+---
+
 ## <a name="11"></a>11. 食盐加碘对认知改善的作用：研究（2013） 
 <small>🔗 [discovermagazine.com](https://www.discovermagazine.com/health/how-adding-iodine-to-salt-boosted-americans-iq): Adding iodine to salt played a role in cognitive improvements: research (2013)</small>
 
 
-| 🔥🔥: 199 \| 💬: [142](https://news.ycombinator.com/item?id=42868718) \| 🗓️ 2025-01-29
+| 🔥🔥: 202 \| 💬: [144](https://news.ycombinator.com/item?id=42868718) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -155,7 +155,19 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 
 ---
 
-## <a name="12"></a>12. 杰文斯悖论 
+## <a name="12"></a>12. 年轻大麻使用者大脑功能下降，迄今最大规模研究揭示 
+<small>🔗 [newatlas.com](https://newatlas.com/brain/young-adult-cannabis-brain-function/): Younger cannabis users have reduced brain function, finds largest study yet</small>
+
+
+| 🔥🔥: 186 \| 💬: [142](https://news.ycombinator.com/item?id=42873697) \| 🗓️ 2025-01-29
+
+
+<br />
+一项针对18至36岁人群的最大规模研究发现，**大麻使用**会降低认知测试中的**大脑功能**，尤其是**工作记忆**任务。研究指出，近期使用和长期大量使用大麻均与大脑活动减少相关，特别是在前额叶皮层和脑岛区域。研究人员建议，在认知任务前戒断大麻可能有助于提升表现，但长期使用者戒断可能伴随戒断症状。
+
+---
+
+## <a name="13"></a>13. 杰文斯悖论 
 <small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Jevons_paradox): Jevons paradox</small>
 
 
@@ -167,11 +179,11 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 
 ---
 
-## <a name="13"></a>13. 加州总检察长警告AI公司：几乎所有行为可能违法 
+## <a name="14"></a>14. 加州总检察长警告AI公司：几乎所有行为可能违法 
 <small>🔗 [gizmodo.com](https://gizmodo.com/californias-ag-tells-ai-companies-practically-everything-theyre-doing-might-be-illegal-2000555896): Cali's AG Tells AI Companies Almost Everything They're Doing Might Be Illegal</small>
 
 
-| 🔥🔥: 170 \| 💬: [143](https://news.ycombinator.com/item?id=42865174) \| 🗓️ 2025-01-29
+| 🔥🔥: 171 \| 💬: [143](https://news.ycombinator.com/item?id=42865174) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -179,11 +191,11 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 
 ---
 
-## <a name="14"></a>14. 我们遭遇了一次极其精心准备的钓鱼垃圾邮件攻击 
+## <a name="15"></a>15. 我们遭遇了一次极其精心准备的钓鱼垃圾邮件攻击 
 <small>🔗 [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/spam/WellPreparedPhishSpammer): We got hit by an alarmingly well-prepared phish spammer</small>
 
 
-| 🔥🔥: 160 \| 💬: [98](https://news.ycombinator.com/item?id=42862873) \| 🗓️ 2025-01-29
+| 🔥🔥: 161 \| 💬: [99](https://news.ycombinator.com/item?id=42862873) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -191,11 +203,11 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 
 ---
 
-## <a name="15"></a>15. 制作让Gorillaz成名的视频 
+## <a name="16"></a>16. 制作让Gorillaz成名的视频 
 <small>🔗 [animationobsessive.substack.com](https://animationobsessive.substack.com/p/making-the-video-that-made-gorillaz): Making the video that made Gorillaz</small>
 
 
-| 🔥🔥: 157 \| 💬: [35](https://news.ycombinator.com/item?id=42870990) \| 🗓️ 2025-01-29
+| 🔥🔥: 160 \| 💬: [36](https://news.ycombinator.com/item?id=42870990) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -203,11 +215,11 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 
 ---
 
-## <a name="16"></a>16. 英特尔不懂如何成为代工厂，蒂姆·库克曾对台积电CEO表示 
+## <a name="17"></a>17. 英特尔不懂如何成为代工厂，蒂姆·库克曾对台积电CEO表示 
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/tsmc-founder-says-tim-cook-told-him-intel-did-not-know-how-to-be-a-foundry): Intel doesn't know how to be a foundry, Tim Cook reportedly said in 2011</small>
 
 
-| 🔥🔥: 150 \| 💬: [92](https://news.ycombinator.com/item?id=42868531) \| 🗓️ 2025-01-29
+| 🔥🔥: 151 \| 💬: [92](https://news.ycombinator.com/item?id=42868531) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -215,50 +227,38 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 
 ---
 
-## <a name="17"></a>17. 年轻大麻使用者大脑功能下降，迄今最大规模研究揭示 
-<small>🔗 [newatlas.com](https://newatlas.com/brain/young-adult-cannabis-brain-function/): Younger cannabis users have reduced brain function, finds largest study yet</small>
-
-
-| 🔥🔥: 142 \| 💬: [83](https://news.ycombinator.com/item?id=42873697) \| 🗓️ 2025-01-29
-
-
-<br />
-一项针对18至36岁人群的最大规模研究发现，**大麻使用**会降低认知测试中的**大脑功能**，尤其是**工作记忆**任务。研究指出，近期使用和长期大量使用大麻均与大脑活动减少相关，特别是在前额叶皮层和脑岛区域。研究人员建议，在认知任务前戒断大麻可能有助于提升表现，但长期使用者戒断可能伴随戒断症状。
-
----
-
-## <a name="18"></a>18. 《无人深空》更新引入数十亿新恒星、行星等 
-<small>🔗 [blog.playstation.com](https://blog.playstation.com/2025/01/29/no-mans-skys-latest-update-introduces-billions-of-new-stars-planets-and-more-today/): No Man's Sky's update introduces billions of new stars, planets, and more</small>
-
-
-| 🔥🔥: 127 \| 💬: [106](https://news.ycombinator.com/item?id=42868618) \| 🗓️ 2025-01-29
-
-
-<br />
-《无人深空》最新更新“**世界第二部分**”今日上线，新增**数十亿恒星系统**和**数万亿行星**，带来全新地形、生物群落和动植物。更新还包括**全新任务线**和**探险活动**，玩家可探索巨大气态行星和深海，体验改进的水下玩法与光影效果。
-
----
-
-## <a name="19"></a>19. 修复与升级Commodore Amiga 1000的故事 
-<small>🔗 [celso.io](https://celso.io/posts/2025/01/26/the-first-perfect-computer/): A story about restoring and upgrading a Commodore Amiga 1000</small>
-
-
-| 🔥🔥: 125 \| 💬: [34](https://news.ycombinator.com/item?id=42865867) \| 🗓️ 2025-01-29
-
-
-<br />
-本文讲述了作者修复并升级**Commodore Amiga 1000**的经历。作为Amiga系列的首款机型，A1000在16位计算机革命中具有重要地位。作者通过更换电容、测试信号、使用**PiStorm**进行故障排查，最终成功修复了这台经典计算机。文章还介绍了**Parceiro扩展板**，为A1000提供了更多现代功能。
-
----
-
-## <a name="20"></a>20. 死去的游戏 
+## <a name="18"></a>18. 死去的游戏 
 <small>🔗 [garry.net](https://garry.net/posts/dead-games): Dead Games</small>
 
 
-| 🔥🔥: 124 \| 💬: [43](https://news.ycombinator.com/item?id=42870230) \| 🗓️ 2025-01-29
+| 🔥🔥: 131 \| 💬: [44](https://news.ycombinator.com/item?id=42870230) \| 🗓️ 2025-01-29
 
 
 <br />
 文章讨论了**未成功发布的游戏**中制作的**资源**（如模型、音效、动画）的命运。作者认为这些资源被丢弃是一种浪费，建议开发者将资源免费开放或出售。有人提议建立一个**开源资源库**，方便开发者共享和使用这些资源。
+
+---
+
+## <a name="19"></a>19. 零停机时间完成Postgres重大升级 
+<small>🔗 [instantdb.com](https://www.instantdb.com/essays/pg_upgrade): A major Postgres upgrade with zero downtime</small>
+
+
+| 🔥🔥: 128 \| 💬: [45](https://news.ycombinator.com/item?id=42867657) \| 🗓️ 2025-01-29
+
+
+<br />
+Instant团队在圣诞节前发现其Aurora Postgres实例需要进行重大版本升级。他们参考了Lyft团队的升级经验，但通过调整主库切换方式，最终实现了**零停机时间**的升级。团队首先尝试了**原地升级**和**蓝绿部署**，但由于**复制槽**问题，这些方法均不可行。最终，他们通过手动创建Postgres 16副本、切换订阅和写入流，成功完成了升级。这一过程展示了在小规模系统中，精细控制连接和算法设计如何实现零停机升级。
+
+---
+
+## <a name="20"></a>20. 修复与升级Commodore Amiga 1000的故事 
+<small>🔗 [celso.io](https://celso.io/posts/2025/01/26/the-first-perfect-computer/): A story about restoring and upgrading a Commodore Amiga 1000</small>
+
+
+| 🔥🔥: 127 \| 💬: [35](https://news.ycombinator.com/item?id=42865867) \| 🗓️ 2025-01-29
+
+
+<br />
+本文讲述了作者修复并升级**Commodore Amiga 1000**的经历。作为Amiga系列的首款机型，A1000在16位计算机革命中具有重要地位。作者通过更换电容、测试信号、使用**PiStorm**进行故障排查，最终成功修复了这台经典计算机。文章还介绍了**Parceiro扩展板**，为A1000提供了更多现代功能。
 
 ---
