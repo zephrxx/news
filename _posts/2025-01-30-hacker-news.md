@@ -10,8 +10,8 @@ tags:
 
 1. JavaScript Temporal 即将到来；
 1. Mistral Small 3 发布；
-1. 古老与新生：人工智能与人类智能关系的思考；
 1. 2024年可能印制的宝可梦测试卡；
+1. 古老与新生：人工智能与人类智能关系的思考；
 1. 2023年加州执法部门滥用州数据库超7000次；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [developer.mozilla.org](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/): JavaScript Temporal is coming</small>
 
 
-| 🔥🔥: 875 \| 💬: [270](https://news.ycombinator.com/item?id=42876840) \| 🗓️ 2025-01-30
+| 🔥🔥: 925 \| 💬: [279](https://news.ycombinator.com/item?id=42876840) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -39,7 +39,7 @@ JavaScript 即将引入 **Temporal** 对象，这是一个全新的日期和时�
 <small>🔗 [mistral.ai](https://mistral.ai/news/mistral-small-3/): Mistral Small 3</small>
 
 
-| 🔥🔥: 513 \| 💬: [161](https://news.ycombinator.com/item?id=42877860) \| 🗓️ 2025-01-30
+| 🔥🔥: 529 \| 💬: [167](https://news.ycombinator.com/item?id=42877860) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -47,23 +47,11 @@ Mistral AI 推出 **Mistral Small 3**，一款基于 Apache 2.0 许可的 24B �
 
 ---
 
-## <a name="3"></a>3. 古老与新生：人工智能与人类智能关系的思考 
-<small>🔗 [vatican.va](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html): Antiqua et Nova: Note on the relationship between AI and human intelligence</small>
-
-
-| 🔥🔥: 350 \| 💬: [342](https://news.ycombinator.com/item?id=42877709) \| 🗓️ 2025-01-30
-
-
-<br />
-本文探讨了**人工智能（AI）**与**人类智能**的关系，强调AI的快速发展带来了伦理和人类学挑战。教会从基督教传统出发，认为人类智能是“上帝形象”的体现，而AI的功能性智能无法涵盖人类的情感、创造力和道德意识。文章呼吁在AI发展中维护**人类尊严**，促进共同利益。
-
----
-
-## <a name="4"></a>4. 2024年可能印制的宝可梦测试卡 
+## <a name="3"></a>3. 2024年可能印制的宝可梦测试卡 
 <small>🔗 [elitefourum.com](https://www.elitefourum.com/t/many-of-the-pokemon-playtest-cards-were-likely-printed-in-2024/52421): Many of the Pokemon playtest cards were likely printed in 2024</small>
 
 
-| 🔥🔥: 317 \| 💬: [188](https://news.ycombinator.com/item?id=42880704) \| 🗓️ 2025-01-30
+| 🔥🔥: 374 \| 💬: [245](https://news.ycombinator.com/item?id=42880704) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -71,11 +59,23 @@ Mistral AI 推出 **Mistral Small 3**，一款基于 Apache 2.0 许可的 24B �
 
 ---
 
+## <a name="4"></a>4. 古老与新生：人工智能与人类智能关系的思考 
+<small>🔗 [vatican.va](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html): Antiqua et Nova: Note on the relationship between AI and human intelligence</small>
+
+
+| 🔥🔥: 364 \| 💬: [355](https://news.ycombinator.com/item?id=42877709) \| 🗓️ 2025-01-30
+
+
+<br />
+本文探讨了**人工智能（AI）**与**人类智能**的关系，强调AI的快速发展带来了伦理和人类学挑战。教会从基督教传统出发，认为人类智能是“上帝形象”的体现，而AI的功能性智能无法涵盖人类的情感、创造力和道德意识。文章呼吁在AI发展中维护**人类尊严**，促进共同利益。
+
+---
+
 ## <a name="5"></a>5. 2023年加州执法部门滥用州数据库超7000次 
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023): California law enforcement misused state databases more than 7k times in 2023</small>
 
 
-| 🔥🔥: 205 \| 💬: [68](https://news.ycombinator.com/item?id=42880807) \| 🗓️ 2025-01-30
+| 🔥🔥: 256 \| 💬: [89](https://news.ycombinator.com/item?id=42880807) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -87,7 +87,7 @@ Mistral AI 推出 **Mistral Small 3**，一款基于 Apache 2.0 许可的 24B �
 <small>🔗 [blog.documentfoundation.org](https://blog.documentfoundation.org/blog/2025/01/30/400-million-downloads-and-counting/): LibreOffice 400M Downloads, and Counting</small>
 
 
-| 🔥🔥: 187 \| 💬: [72](https://news.ycombinator.com/item?id=42876998) \| 🗓️ 2025-01-30
+| 🔥🔥: 190 \| 💬: [72](https://news.ycombinator.com/item?id=42876998) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -99,7 +99,7 @@ Mistral AI 推出 **Mistral Small 3**，一款基于 Apache 2.0 许可的 24B �
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/climate/comments/1idiliv/the_us_governments_open_data_on_datagov_is/): The US government's open data on Data.gov is currently being scrubbed</small>
 
 
-| 🔥🔥: 178 \| 💬: [34](https://news.ycombinator.com/item?id=42876055) \| 🗓️ 2025-01-30
+| 🔥🔥: 184 \| 💬: [38](https://news.ycombinator.com/item?id=42876055) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -107,23 +107,11 @@ Mistral AI 推出 **Mistral Small 3**，一款基于 Apache 2.0 许可的 24B �
 
 ---
 
-## <a name="8"></a>8. 探究人类鼻形与气候适应的关系（2017） 
-<small>🔗 [journals.plos.org](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006616): Investigating the case of human nose shape and climate adaptation (2017)</small>
-
-
-| 🔥🔥: 125 \| 💬: [70](https://news.ycombinator.com/item?id=42875888) \| 🗓️ 2025-01-30
-
-
-<br />
-研究发现，**鼻翼宽度**和**鼻孔宽度**在不同人群中的差异超出了遗传漂变的预期，且与**温度和绝对湿度**相关。这表明鼻形差异可能受到气候适应的影响，但进化过程可能还涉及性选择等其他非中性因素。
-
----
-
-## <a name="9"></a>9. Audiocube – 专为空间音频设计的3D数字音频工作站 
+## <a name="8"></a>8. Audiocube – 专为空间音频设计的3D数字音频工作站 
 <small>🔗 [audiocube.app](https://www.audiocube.app): Show HN: Audiocube – A 3D DAW for Spatial Audio</small>
 
 
-| 🔥🔥: 121 \| 💬: [65](https://news.ycombinator.com/item?id=42877399) \| 🗓️ 2025-01-30
+| 🔥🔥: 132 \| 💬: [72](https://news.ycombinator.com/item?id=42877399) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -131,11 +119,23 @@ Audiocube 是一款独立的**3D音频工作站**，专为音乐和声音设计�
 
 ---
 
+## <a name="9"></a>9. 探究人类鼻形与气候适应的关系（2017） 
+<small>🔗 [journals.plos.org](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006616): Investigating the case of human nose shape and climate adaptation (2017)</small>
+
+
+| 🔥🔥: 125 \| 💬: [72](https://news.ycombinator.com/item?id=42875888) \| 🗓️ 2025-01-30
+
+
+<br />
+研究发现，**鼻翼宽度**和**鼻孔宽度**在不同人群中的差异超出了遗传漂变的预期，且与**温度和绝对湿度**相关。这表明鼻形差异可能受到气候适应的影响，但进化过程可能还涉及性选择等其他非中性因素。
+
+---
+
 ## <a name="10"></a>10. 专访DeepSeek创始人：我们不再追随，是时候引领了 
 <small>🔗 [thechinaacademy.org](https://thechinaacademy.org/interview-with-deepseek-founder-were-done-following-its-time-to-lead/): Interview with DeepSeek Founder: We're Done Following. It's Time to Lead</small>
 
 
-| 🔥🔥: 114 \| 💬: [48](https://news.ycombinator.com/item?id=42876940) \| 🗓️ 2025-01-30
+| 🔥🔥: 115 \| 💬: [48](https://news.ycombinator.com/item?id=42876940) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -155,7 +155,31 @@ GitHub 目前出现**Pull Requests 和 Issues** 服务中断问题，用户可�
 
 ---
 
-## <a name="12"></a>12. 一位年轻人用AI建造了核聚变装置 
+## <a name="12"></a>12. Stats – macOS 系统监控工具 
+<small>🔗 [github.com](https://github.com/exelban/stats): Stats – macOS system monitor in your menu bar</small>
+
+
+| 🔥: 95 \| 💬: [39](https://news.ycombinator.com/item?id=42881342) \| 🗓️ 2025-01-30
+
+
+<br />
+Stats 是一款 macOS 系统监控工具，可在菜单栏中实时显示 **CPU、GPU、内存、磁盘、网络、电池** 等信息。支持 macOS 10.15 及以上版本，可通过手动或 Homebrew 安装。部分功能如传感器数据在 M1 芯片上需手动启用，风扇控制功能已进入维护模式。支持多语言，采用 MIT 许可证。
+
+---
+
+## <a name="13"></a>13. 谷歌为Pixel和Android团队员工提供“自愿离职”计划 
+<small>🔗 [9to5google.com](https://9to5google.com/2025/01/30/pixel-android-voluntary-exit-employees/): Google offering 'voluntary exit' for employees working on Pixel, Android</small>
+
+
+| 🔥: 83 \| 💬: [39](https://news.ycombinator.com/item?id=42880529) \| 🗓️ 2025-01-30
+
+
+<br />
+谷歌正在为**Pixel**和**Android**开发团队的员工提供**“自愿离职”**计划。此举可能是公司重组或调整战略的一部分，旨在优化资源配置。具体细节尚未公开，但这一举措可能影响相关项目的未来发展。
+
+---
+
+## <a name="14"></a>14. 一位年轻人用AI建造了核聚变装置 
 <small>🔗 [corememory.com](https://www.corememory.com/p/a-young-man-used-ai-to-build-a-nuclear): A Young Man Used AI to Build a Nuclear Fusor</small>
 
 
@@ -167,19 +191,19 @@ GitHub 目前出现**Pull Requests 和 Issues** 服务中断问题，用户可�
 
 ---
 
-## <a name="13"></a>13. 谷歌为Pixel和Android团队员工提供“自愿离职”计划 
-<small>🔗 [9to5google.com](https://9to5google.com/2025/01/30/pixel-android-voluntary-exit-employees/): Google offering 'voluntary exit' for employees working on Pixel, Android</small>
+## <a name="15"></a>15. COINTELPRO（反情报计划） 
+<small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/COINTELPRO): Cointelpro</small>
 
 
-| 🔥: 81 \| 💬: [35](https://news.ycombinator.com/item?id=42880529) \| 🗓️ 2025-01-30
+| 🔥: 81 \| 💬: [20](https://news.ycombinator.com/item?id=42880513) \| 🗓️ 2025-01-30
 
 
 <br />
-谷歌正在为**Pixel**和**Android**开发团队的员工提供**“自愿离职”**计划。此举可能是公司重组或调整战略的一部分，旨在优化资源配置。具体细节尚未公开，但这一举措可能影响相关项目的未来发展。
+COINTELPRO是1956年至1971年间美国联邦调查局（FBI）进行的一系列**秘密且非法的项目**，旨在监视、渗透、抹黑和破坏被FBI视为颠覆性的政治组织。目标包括民权运动、黑豹党、反越战组织等。FBI使用**心理战、伪造文件、非法暴力**等手段，试图瓦解这些组织及其领导人。该计划于1971年被曝光，引发广泛批评。
 
 ---
 
-## <a name="14"></a>14. 我建了一个网站，你可以无缘无故地放彩带 
+## <a name="16"></a>16. 我建了一个网站，你可以无缘无故地放彩带 
 <small>🔗 [poptheconfetti.website](https://poptheconfetti.website): I built a website where you can pop confettis for no reason</small>
 
 
@@ -191,35 +215,11 @@ GitHub 目前出现**Pull Requests 和 Issues** 服务中断问题，用户可�
 
 ---
 
-## <a name="15"></a>15. COINTELPRO（反情报计划） 
-<small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/COINTELPRO): Cointelpro</small>
-
-
-| 🔥: 79 \| 💬: [19](https://news.ycombinator.com/item?id=42880513) \| 🗓️ 2025-01-30
-
-
-<br />
-COINTELPRO是1956年至1971年间美国联邦调查局（FBI）进行的一系列**秘密且非法的项目**，旨在监视、渗透、抹黑和破坏被FBI视为颠覆性的政治组织。目标包括民权运动、黑豹党、反越战组织等。FBI使用**心理战、伪造文件、非法暴力**等手段，试图瓦解这些组织及其领导人。该计划于1971年被曝光，引发广泛批评。
-
----
-
-## <a name="16"></a>16. 《超级绽放：连接技术如何撕裂我们》 
-<small>🔗 [lareviewofbooks.org](https://lareviewofbooks.org/article/the-case-for-kicking-the-stone/): Review: Superbloom: How Technologies of Connection Tear Us Apart</small>
-
-
-| 🔥: 67 \| 💬: [54](https://news.ycombinator.com/item?id=42878598) \| 🗓️ 2025-01-30
-
-
-<br />
-尼古拉斯·卡尔在《超级绽放》中探讨了现代**连接技术**（如手机、社交媒体、人工智能）如何改变个人与社会。他指出，尽管这些技术带来了便利，但也导致了**信息过载**、社会分裂和**虚假信息**的泛滥。卡尔认为，问题不仅在于技术本身，还在于我们对其的误解和使用方式。
-
----
-
 ## <a name="17"></a>17. 苏联APL语言的历史（1991） 
 <small>🔗 [dl.acm.org](https://dl.acm.org/doi/10.1145/130647.130656): A history of APL in the USSR (1991)</small>
 
 
-| 🔥: 65 \| 💬: [7](https://news.ycombinator.com/item?id=42877430) \| 🗓️ 2025-01-30
+| 🔥: 71 \| 💬: [9](https://news.ycombinator.com/item?id=42877430) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -227,15 +227,15 @@ COINTELPRO是1956年至1971年间美国联邦调查局（FBI）进行的一系�
 
 ---
 
-## <a name="18"></a>18. OCSP的缓慢消亡 
-<small>🔗 [feistyduck.com](https://www.feistyduck.com/newsletter/issue_121_the_slow_death_of_ocsp): The Slow Death of OCSP</small>
+## <a name="18"></a>18. 《超级绽放：连接技术如何撕裂我们》 
+<small>🔗 [lareviewofbooks.org](https://lareviewofbooks.org/article/the-case-for-kicking-the-stone/): Review: Superbloom: How Technologies of Connection Tear Us Apart</small>
 
 
-| 🔥: 60 \| 💬: [11](https://news.ycombinator.com/item?id=42877648) \| 🗓️ 2025-01-30
+| 🔥: 68 \| 💬: [54](https://news.ycombinator.com/item?id=42878598) \| 🗓️ 2025-01-30
 
 
 <br />
-Let’s Encrypt宣布将于2025年停止支持**OCSP**（在线证书状态协议），原因是其安全效益低且成本高昂。浏览器普遍采用**软失败**机制，导致OCSP无法有效防御攻击。未来，**短有效期证书**将成为主流，取代传统的证书吊销检查机制。OCSP的历史问题包括性能差、隐私泄露和缓存漏洞，最终导致其被淘汰。
+尼古拉斯·卡尔在《超级绽放》中探讨了现代**连接技术**（如手机、社交媒体、人工智能）如何改变个人与社会。他指出，尽管这些技术带来了便利，但也导致了**信息过载**、社会分裂和**虚假信息**的泛滥。卡尔认为，问题不仅在于技术本身，还在于我们对其的误解和使用方式。
 
 ---
 
@@ -243,7 +243,7 @@ Let’s Encrypt宣布将于2025年停止支持**OCSP**（在线证书状态协�
 <small>🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2024/12/19/quaternions-and-spherical-trigonometry/): Quaternions and spherical trigonometry</small>
 
 
-| 🔥: 59 \| 💬: [19](https://news.ycombinator.com/item?id=42880242) \| 🗓️ 2025-01-30
+| 🔥: 68 \| 💬: [26](https://news.ycombinator.com/item?id=42880242) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -251,14 +251,14 @@ Let’s Encrypt宣布将于2025年停止支持**OCSP**（在线证书状态协�
 
 ---
 
-## <a name="20"></a>20. 特斯拉2024年在德国销量暴跌41% 
-<small>🔗 [cleanenergywire.org](https://www.cleanenergywire.org/news/tesla-registrations-plummet-41-percent-germany-2024-company-slides-ev-ranking): Tesla sales in Germany dropped 41% in 2024</small>
+## <a name="20"></a>20. OCSP的缓慢消亡 
+<small>🔗 [feistyduck.com](https://www.feistyduck.com/newsletter/issue_121_the_slow_death_of_ocsp): The Slow Death of OCSP</small>
 
 
-| 🔥: 51 \| 💬: [81](https://news.ycombinator.com/item?id=42876367) \| 🗓️ 2025-01-30
+| 🔥: 61 \| 💬: [11](https://news.ycombinator.com/item?id=42877648) \| 🗓️ 2025-01-30
 
 
 <br />
-2024年，特斯拉在德国的**新车注册量**下降了41%，降至不到3.8万辆，市场份额跌至第三位。**宝马**超越特斯拉，注册量超过4万辆，而**大众**继续保持领先地位。特斯拉销量下滑的原因包括**政治争议**、技术创新的缺乏以及工厂的法律问题。德国整体电动车市场也因购车补贴结束而萎缩27%。
+Let’s Encrypt宣布将于2025年停止支持**OCSP**（在线证书状态协议），原因是其安全效益低且成本高昂。浏览器普遍采用**软失败**机制，导致OCSP无法有效防御攻击。未来，**短有效期证书**将成为主流，取代传统的证书吊销检查机制。OCSP的历史问题包括性能差、隐私泄露和缓存漏洞，最终导致其被淘汰。
 
 ---
