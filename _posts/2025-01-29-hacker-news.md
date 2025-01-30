@@ -10,9 +10,9 @@ tags:
 
 1. OpenAI 愤怒指责 DeepSeek 可能窃取了其数据；
 1. 为什么DeepSeek必须开源；
-1. 我不想让AI“润色”我；
-1. DeepSeek的R1-Zero与R1分析；
 1. DeepSeek数据库泄露敏感信息，包括聊天记录；
+1. DeepSeek的R1-Zero与R1分析；
+1. 我不想让AI“润色”我；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [404media.co](https://www.404media.co/openai-furious-deepseek-might-have-stolen-all-the-data-openai-stole-from-us/): OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole from Us</small>
 
 
-| 🔥🔥: 1278 \| 💬: [9](https://news.ycombinator.com/item?id=42865527) \| 🗓️ 2025-01-29
+| 🔥🔥: 1280 \| 💬: [9](https://news.ycombinator.com/item?id=42865527) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -39,7 +39,7 @@ OpenAI 和微软正在调查中国 AI 初创公司 DeepSeek 是否未经授权�
 <small>🔗 [getlago.com](https://www.getlago.com/blog/deepseek-open-source): Why DeepSeek had to be open source</small>
 
 
-| 🔥🔥: 487 \| 💬: [265](https://news.ycombinator.com/item?id=42866201) \| 🗓️ 2025-01-29
+| 🔥🔥: 489 \| 💬: [267](https://news.ycombinator.com/item?id=42866201) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -47,35 +47,11 @@ DeepSeek提供了**开源版本**和**高级版本**，分别适用于小型项�
 
 ---
 
-## <a name="3"></a>3. 我不想让AI“润色”我 
-<small>🔗 [thebloggess.com](https://thebloggess.com/2025/01/28/no-i-do-not-want-ai-to-polish-me/): I do not want AI to "polish" me</small>
-
-
-| 🔥🔥: 387 \| 💬: [251](https://news.ycombinator.com/item?id=42864854) \| 🗓️ 2025-01-29
-
-
-<br />
-作者在写邮件时，Gmail的**“润色”功能**突然弹出，试图改写她的邮件，让她感到不适。她拒绝使用AI的建议，认为自己的**独特风格**（如拼写错误和随意的语气）才是真实的表达。然而，AI不断干预，甚至在博客中试图用**AI生成图片**替代她选择的图片。作者对此感到无奈，认为AI过度干预创作过程，破坏了她的个人风格。
-
----
-
-## <a name="4"></a>4. DeepSeek的R1-Zero与R1分析 
-<small>🔗 [arcprize.org](https://arcprize.org/blog/r1-zero-r1-results-analysis): An analysis of DeepSeek's R1-Zero and R1</small>
-
-
-| 🔥🔥: 384 \| 💬: [160](https://news.ycombinator.com/item?id=42868390) \| 🗓️ 2025-01-29
-
-
-<br />
-DeepSeek发布的**R1-Zero**和**R1**系统在ARC-AGI-1基准测试中表现出色，尤其是**R1-Zero**，它通过纯强化学习实现推理，无需人类标注数据。这一突破表明，**SFT（监督微调）**在某些领域并非必要，且推理系统的可靠性可通过增加计算资源提升。未来，推理需求将大幅增长，推动AI系统向更高效、更通用的方向发展。
-
----
-
-## <a name="5"></a>5. DeepSeek数据库泄露敏感信息，包括聊天记录 
+## <a name="3"></a>3. DeepSeek数据库泄露敏感信息，包括聊天记录 
 <small>🔗 [wiz.io](https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak): Exposed DeepSeek database leaking sensitive information, including chat history</small>
 
 
-| 🔥🔥: 358 \| 💬: [216](https://news.ycombinator.com/item?id=42871371) \| 🗓️ 2025-01-29
+| 🔥🔥: 421 \| 💬: [274](https://news.ycombinator.com/item?id=42871371) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -83,11 +59,35 @@ Wiz Research发现DeepSeek的一个**公开访问的ClickHouse数据库**，暴�
 
 ---
 
+## <a name="4"></a>4. DeepSeek的R1-Zero与R1分析 
+<small>🔗 [arcprize.org](https://arcprize.org/blog/r1-zero-r1-results-analysis): An analysis of DeepSeek's R1-Zero and R1</small>
+
+
+| 🔥🔥: 399 \| 💬: [161](https://news.ycombinator.com/item?id=42868390) \| 🗓️ 2025-01-29
+
+
+<br />
+DeepSeek发布的**R1-Zero**和**R1**系统在ARC-AGI-1基准测试中表现出色，尤其是**R1-Zero**，它通过纯强化学习实现推理，无需人类标注数据。这一突破表明，**SFT（监督微调）**在某些领域并非必要，且推理系统的可靠性可通过增加计算资源提升。未来，推理需求将大幅增长，推动AI系统向更高效、更通用的方向发展。
+
+---
+
+## <a name="5"></a>5. 我不想让AI“润色”我 
+<small>🔗 [thebloggess.com](https://thebloggess.com/2025/01/28/no-i-do-not-want-ai-to-polish-me/): I do not want AI to "polish" me</small>
+
+
+| 🔥🔥: 387 \| 💬: [252](https://news.ycombinator.com/item?id=42864854) \| 🗓️ 2025-01-29
+
+
+<br />
+作者在写邮件时，Gmail的**“润色”功能**突然弹出，试图改写她的邮件，让她感到不适。她拒绝使用AI的建议，认为自己的**独特风格**（如拼写错误和随意的语气）才是真实的表达。然而，AI不断干预，甚至在博客中试图用**AI生成图片**替代她选择的图片。作者对此感到无奈，认为AI过度干预创作过程，破坏了她的个人风格。
+
+---
+
 ## <a name="6"></a>6. 希捷：'全新'硬盘已使用数万小时 
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/pc-components/hdds/german-seagate-customers-say-their-new-hard-drives-were-actually-used-resold-hdds-reportedly-used-for-tens-of-thousands-of-hours): Seagate: 'new' hard drives used for tens of thousands of hours</small>
 
 
-| 🔥🔥: 316 \| 💬: [193](https://news.ycombinator.com/item?id=42864788) \| 🗓️ 2025-01-29
+| 🔥🔥: 319 \| 💬: [194](https://news.ycombinator.com/item?id=42864788) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -99,7 +99,7 @@ Wiz Research发现DeepSeek的一个**公开访问的ClickHouse数据库**，暴�
 <small>🔗 [androidcentral.com](https://www.androidcentral.com/phones/google-pixel-4as-old-firmware-is-gone-trapping-users-on-the-buggy-battery-update): Google Pixel 4a's old firmware is gone, trapping users on buggy battery update</small>
 
 
-| 🔥🔥: 252 \| 💬: [231](https://news.ycombinator.com/item?id=42865619) \| 🗓️ 2025-01-29
+| 🔥🔥: 257 \| 💬: [235](https://news.ycombinator.com/item?id=42865619) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -107,23 +107,11 @@ Google 为 Pixel 4a 推出的**电池更新**导致严重**电池耗电**问题�
 
 ---
 
-## <a name="8"></a>8. 我们的手机正在扼杀我们的性感能力 
-<small>🔗 [catherineshannon.substack.com](https://catherineshannon.substack.com/p/your-phone-is-why-you-dont-feel-sexy): Our phones are killing our ability to feel sexy (2024)</small>
-
-
-| 🔥🔥: 213 \| 💬: [223](https://news.ycombinator.com/item?id=42864595) \| 🗓️ 2025-01-29
-
-
-<br />
-手机和互联网的过度使用不仅削弱了我们的注意力，还让我们失去了**性感的感觉**。**Eros（欲望）**是一种身体体验，而手机让我们脱离身体，陷入虚拟世界。即时获取一切让我们失去了**渴望和冒险**的能力，而这些都是性感的核心。我们需要放下手机，重新感受真实生活中的短暂与美好。
-
----
-
-## <a name="9"></a>9. 2032年小行星撞击地球概率1%，能量达8百万吨 
+## <a name="8"></a>8. 2032年小行星撞击地球概率1%，能量达8百万吨 
 <small>🔗 [cneos.jpl.nasa.gov](https://cneos.jpl.nasa.gov/sentry/details.html#?des=2024%20YR4): Asteroid Impact on Earth 2032 with Probability 1% and 8Mt Energy</small>
 
 
-| 🔥🔥: 202 \| 💬: [181](https://news.ycombinator.com/item?id=42864272) \| 🗓️ 2025-01-29
+| 🔥🔥: 222 \| 💬: [195](https://news.ycombinator.com/item?id=42864272) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -131,11 +119,23 @@ Google 为 Pixel 4a 推出的**电池更新**导致严重**电池耗电**问题�
 
 ---
 
+## <a name="9"></a>9. 我们的手机正在扼杀我们的性感能力 
+<small>🔗 [catherineshannon.substack.com](https://catherineshannon.substack.com/p/your-phone-is-why-you-dont-feel-sexy): Our phones are killing our ability to feel sexy (2024)</small>
+
+
+| 🔥🔥: 216 \| 💬: [224](https://news.ycombinator.com/item?id=42864595) \| 🗓️ 2025-01-29
+
+
+<br />
+手机和互联网的过度使用不仅削弱了我们的注意力，还让我们失去了**性感的感觉**。**Eros（欲望）**是一种身体体验，而手机让我们脱离身体，陷入虚拟世界。即时获取一切让我们失去了**渴望和冒险**的能力，而这些都是性感的核心。我们需要放下手机，重新感受真实生活中的短暂与美好。
+
+---
+
 ## <a name="10"></a>10. SmolGPT：一个用于从头训练小型LLM的极简PyTorch实现 
 <small>🔗 [github.com](https://github.com/Om-Alve/smolGPT): SmolGPT: A minimal PyTorch implementation for training a small LLM from scratch</small>
 
 
-| 🔥🔥: 200 \| 💬: [27](https://news.ycombinator.com/item?id=42868770) \| 🗓️ 2025-01-29
+| 🔥🔥: 212 \| 💬: [29](https://news.ycombinator.com/item?id=42868770) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -147,7 +147,7 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 <small>🔗 [discovermagazine.com](https://www.discovermagazine.com/health/how-adding-iodine-to-salt-boosted-americans-iq): Adding iodine to salt played a role in cognitive improvements: research (2013)</small>
 
 
-| 🔥🔥: 191 \| 💬: [137](https://news.ycombinator.com/item?id=42868718) \| 🗓️ 2025-01-29
+| 🔥🔥: 199 \| 💬: [142](https://news.ycombinator.com/item?id=42868718) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -159,7 +159,7 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 <small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Jevons_paradox): Jevons paradox</small>
 
 
-| 🔥🔥: 173 \| 💬: [156](https://news.ycombinator.com/item?id=42863808) \| 🗓️ 2025-01-29
+| 🔥🔥: 177 \| 💬: [156](https://news.ycombinator.com/item?id=42863808) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -171,7 +171,7 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 <small>🔗 [gizmodo.com](https://gizmodo.com/californias-ag-tells-ai-companies-practically-everything-theyre-doing-might-be-illegal-2000555896): Cali's AG Tells AI Companies Almost Everything They're Doing Might Be Illegal</small>
 
 
-| 🔥🔥: 170 \| 💬: [142](https://news.ycombinator.com/item?id=42865174) \| 🗓️ 2025-01-29
+| 🔥🔥: 170 \| 💬: [143](https://news.ycombinator.com/item?id=42865174) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -183,7 +183,7 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 <small>🔗 [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/spam/WellPreparedPhishSpammer): We got hit by an alarmingly well-prepared phish spammer</small>
 
 
-| 🔥🔥: 159 \| 💬: [98](https://news.ycombinator.com/item?id=42862873) \| 🗓️ 2025-01-29
+| 🔥🔥: 160 \| 💬: [98](https://news.ycombinator.com/item?id=42862873) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -191,23 +191,11 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 
 ---
 
-## <a name="15"></a>15. 英特尔不懂如何成为代工厂，蒂姆·库克曾对台积电CEO表示 
-<small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/tsmc-founder-says-tim-cook-told-him-intel-did-not-know-how-to-be-a-foundry): Intel doesn't know how to be a foundry, Tim Cook reportedly said in 2011</small>
-
-
-| 🔥🔥: 148 \| 💬: [91](https://news.ycombinator.com/item?id=42868531) \| 🗓️ 2025-01-29
-
-
-<br />
-苹果在2010年代初期开始自研iPhone和iPad处理器时，曾考虑使用**英特尔定制代工**（ICF），但发现其不适合外部客户。最终选择了**台积电**，因其客户至上的服务态度和灵活的技术响应能力。库克曾表示，英特尔缺乏代工厂所需的服务意识。台积电通过满足苹果的定制需求，逐步超越英特尔，成为全球领先的半导体制造商。
-
----
-
-## <a name="16"></a>16. 制作让Gorillaz成名的视频 
+## <a name="15"></a>15. 制作让Gorillaz成名的视频 
 <small>🔗 [animationobsessive.substack.com](https://animationobsessive.substack.com/p/making-the-video-that-made-gorillaz): Making the video that made Gorillaz</small>
 
 
-| 🔥🔥: 145 \| 💬: [32](https://news.ycombinator.com/item?id=42870990) \| 🗓️ 2025-01-29
+| 🔥🔥: 157 \| 💬: [35](https://news.ycombinator.com/item?id=42870990) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -215,11 +203,35 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 
 ---
 
-## <a name="17"></a>17. 《无人深空》更新引入数十亿新恒星、行星等 
+## <a name="16"></a>16. 英特尔不懂如何成为代工厂，蒂姆·库克曾对台积电CEO表示 
+<small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/tsmc-founder-says-tim-cook-told-him-intel-did-not-know-how-to-be-a-foundry): Intel doesn't know how to be a foundry, Tim Cook reportedly said in 2011</small>
+
+
+| 🔥🔥: 150 \| 💬: [92](https://news.ycombinator.com/item?id=42868531) \| 🗓️ 2025-01-29
+
+
+<br />
+苹果在2010年代初期开始自研iPhone和iPad处理器时，曾考虑使用**英特尔定制代工**（ICF），但发现其不适合外部客户。最终选择了**台积电**，因其客户至上的服务态度和灵活的技术响应能力。库克曾表示，英特尔缺乏代工厂所需的服务意识。台积电通过满足苹果的定制需求，逐步超越英特尔，成为全球领先的半导体制造商。
+
+---
+
+## <a name="17"></a>17. 年轻大麻使用者大脑功能下降，迄今最大规模研究揭示 
+<small>🔗 [newatlas.com](https://newatlas.com/brain/young-adult-cannabis-brain-function/): Younger cannabis users have reduced brain function, finds largest study yet</small>
+
+
+| 🔥🔥: 142 \| 💬: [83](https://news.ycombinator.com/item?id=42873697) \| 🗓️ 2025-01-29
+
+
+<br />
+一项针对18至36岁人群的最大规模研究发现，**大麻使用**会降低认知测试中的**大脑功能**，尤其是**工作记忆**任务。研究指出，近期使用和长期大量使用大麻均与大脑活动减少相关，特别是在前额叶皮层和脑岛区域。研究人员建议，在认知任务前戒断大麻可能有助于提升表现，但长期使用者戒断可能伴随戒断症状。
+
+---
+
+## <a name="18"></a>18. 《无人深空》更新引入数十亿新恒星、行星等 
 <small>🔗 [blog.playstation.com](https://blog.playstation.com/2025/01/29/no-mans-skys-latest-update-introduces-billions-of-new-stars-planets-and-more-today/): No Man's Sky's update introduces billions of new stars, planets, and more</small>
 
 
-| 🔥🔥: 125 \| 💬: [105](https://news.ycombinator.com/item?id=42868618) \| 🗓️ 2025-01-29
+| 🔥🔥: 127 \| 💬: [106](https://news.ycombinator.com/item?id=42868618) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -227,11 +239,11 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 
 ---
 
-## <a name="18"></a>18. 修复与升级Commodore Amiga 1000的故事 
+## <a name="19"></a>19. 修复与升级Commodore Amiga 1000的故事 
 <small>🔗 [celso.io](https://celso.io/posts/2025/01/26/the-first-perfect-computer/): A story about restoring and upgrading a Commodore Amiga 1000</small>
 
 
-| 🔥🔥: 124 \| 💬: [34](https://news.ycombinator.com/item?id=42865867) \| 🗓️ 2025-01-29
+| 🔥🔥: 125 \| 💬: [34](https://news.ycombinator.com/item?id=42865867) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -239,23 +251,11 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 
 ---
 
-## <a name="19"></a>19. 关于深度求索与出口管制 
-<small>🔗 [darioamodei.com](https://darioamodei.com/on-deepseek-and-export-controls): On DeepSeek and export controls</small>
-
-
-| 🔥🔥: 121 \| 💬: [166](https://news.ycombinator.com/item?id=42866905) \| 🗓️ 2025-01-29
-
-
-<br />
-深度求索（DeepSeek）近期发布的AI模型在性能上接近美国前沿模型，且成本更低。尽管这显示出中国在AI领域的进步，但**出口管制**仍至关重要，以确保美国及其盟友在AI发展中保持领先。**深度求索**的创新并未改变AI发展的基本趋势，未来几年，**芯片供应**将决定中美在AI领域的竞争格局。
-
----
-
 ## <a name="20"></a>20. 死去的游戏 
 <small>🔗 [garry.net](https://garry.net/posts/dead-games): Dead Games</small>
 
 
-| 🔥🔥: 117 \| 💬: [42](https://news.ycombinator.com/item?id=42870230) \| 🗓️ 2025-01-29
+| 🔥🔥: 124 \| 💬: [43](https://news.ycombinator.com/item?id=42870230) \| 🗓️ 2025-01-29
 
 
 <br />
