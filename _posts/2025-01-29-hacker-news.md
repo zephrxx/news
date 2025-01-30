@@ -27,7 +27,7 @@ tags:
 <small>🔗 [404media.co](https://www.404media.co/openai-furious-deepseek-might-have-stolen-all-the-data-openai-stole-from-us/): OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole from Us</small>
 
 
-| 🔥🔥: 1283 \| 💬: [11](https://news.ycombinator.com/item?id=42865527) \| 🗓️ 2025-01-29
+| 🔥🔥: 1284 \| 💬: [12](https://news.ycombinator.com/item?id=42865527) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -39,7 +39,7 @@ OpenAI 和微软正在调查中国 AI 初创公司 DeepSeek 是否未经授权�
 <small>🔗 [wiz.io](https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak): Exposed DeepSeek database leaking sensitive information, including chat history</small>
 
 
-| 🔥🔥: 497 \| 💬: [321](https://news.ycombinator.com/item?id=42871371) \| 🗓️ 2025-01-29
+| 🔥🔥: 526 \| 💬: [340](https://news.ycombinator.com/item?id=42871371) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -51,7 +51,7 @@ Wiz Research发现DeepSeek的一个**公开访问的ClickHouse数据库**，暴�
 <small>🔗 [getlago.com](https://www.getlago.com/blog/deepseek-open-source): Why DeepSeek had to be open source</small>
 
 
-| 🔥🔥: 496 \| 💬: [267](https://news.ycombinator.com/item?id=42866201) \| 🗓️ 2025-01-29
+| 🔥🔥: 496 \| 💬: [269](https://news.ycombinator.com/item?id=42866201) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -63,7 +63,7 @@ DeepSeek提供了**开源版本**和**高级版本**，分别适用于小型项�
 <small>🔗 [arcprize.org](https://arcprize.org/blog/r1-zero-r1-results-analysis): An analysis of DeepSeek's R1-Zero and R1</small>
 
 
-| 🔥🔥: 458 \| 💬: [183](https://news.ycombinator.com/item?id=42868390) \| 🗓️ 2025-01-29
+| 🔥🔥: 483 \| 💬: [188](https://news.ycombinator.com/item?id=42868390) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -75,7 +75,7 @@ DeepSeek发布的**R1-Zero**和**R1**系统在ARC-AGI-1基准测试中表现出�
 <small>🔗 [thebloggess.com](https://thebloggess.com/2025/01/28/no-i-do-not-want-ai-to-polish-me/): I do not want AI to "polish" me</small>
 
 
-| 🔥🔥: 392 \| 💬: [252](https://news.ycombinator.com/item?id=42864854) \| 🗓️ 2025-01-29
+| 🔥🔥: 395 \| 💬: [252](https://news.ycombinator.com/item?id=42864854) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -87,7 +87,7 @@ DeepSeek发布的**R1-Zero**和**R1**系统在ARC-AGI-1基准测试中表现出�
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/pc-components/hdds/german-seagate-customers-say-their-new-hard-drives-were-actually-used-resold-hdds-reportedly-used-for-tens-of-thousands-of-hours): Seagate: 'new' hard drives used for tens of thousands of hours</small>
 
 
-| 🔥🔥: 327 \| 💬: [198](https://news.ycombinator.com/item?id=42864788) \| 🗓️ 2025-01-29
+| 🔥🔥: 329 \| 💬: [198](https://news.ycombinator.com/item?id=42864788) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -95,35 +95,11 @@ DeepSeek发布的**R1-Zero**和**R1**系统在ARC-AGI-1基准测试中表现出�
 
 ---
 
-## <a name="7"></a>7. 2032年小行星撞击地球概率1%，能量达8百万吨 
-<small>🔗 [cneos.jpl.nasa.gov](https://cneos.jpl.nasa.gov/sentry/details.html#?des=2024%20YR4): Asteroid Impact on Earth 2032 with Probability 1% and 8Mt Energy</small>
-
-
-| 🔥🔥: 263 \| 💬: [217](https://news.ycombinator.com/item?id=42864272) \| 🗓️ 2025-01-29
-
-
-<br />
-该文本描述了2032年一颗小行星可能撞击地球的情况，**撞击概率为1%**，释放能量约为**8百万吨**。文中详细介绍了评估撞击风险的指标，如**Torino等级**、Sigma VI、Sigma MC等，用于量化轨道不确定性和撞击可能性。尽管概率较低，但潜在能量巨大，需持续监测。
-
----
-
-## <a name="8"></a>8. Google Pixel 4a 旧固件消失，用户被困在电池更新问题中 
-<small>🔗 [androidcentral.com](https://www.androidcentral.com/phones/google-pixel-4as-old-firmware-is-gone-trapping-users-on-the-buggy-battery-update): Google Pixel 4a's old firmware is gone, trapping users on buggy battery update</small>
-
-
-| 🔥🔥: 262 \| 💬: [247](https://news.ycombinator.com/item?id=42865619) \| 🗓️ 2025-01-29
-
-
-<br />
-Google 为 Pixel 4a 推出的**电池更新**导致严重**电池耗电**问题，且删除了旧固件，用户无法回滚。Google 已承认问题并提供补偿：免费电池更换、50 美元现金或 100 美元 Pixel 购买优惠。此次更新本应改善电池性能，却使问题恶化，许多用户陷入困境。
-
----
-
-## <a name="9"></a>9. 商业客机与黑鹰直升机在里根机场附近相撞 
+## <a name="7"></a>7. 商业客机与黑鹰直升机在里根机场附近相撞 
 <small>🔗 [mediaite.com](https://www.mediaite.com/news/breaking-commercial-jet-collides-with-police-chopper-near-reagan-airport/): Commercial jet collides with Black Hawk helicopter near Reagan airport</small>
 
 
-| 🔥🔥: 251 \| 💬: [188](https://news.ycombinator.com/item?id=42874301) \| 🗓️ 2025-01-29
+| 🔥🔥: 288 \| 💬: [218](https://news.ycombinator.com/item?id=42874301) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -131,11 +107,35 @@ Google 为 Pixel 4a 推出的**电池更新**导致严重**电池耗电**问题�
 
 ---
 
+## <a name="8"></a>8. 2032年小行星撞击地球概率1%，能量达8百万吨 
+<small>🔗 [cneos.jpl.nasa.gov](https://cneos.jpl.nasa.gov/sentry/details.html#?des=2024%20YR4): Asteroid Impact on Earth 2032 with Probability 1% and 8Mt Energy</small>
+
+
+| 🔥🔥: 285 \| 💬: [230](https://news.ycombinator.com/item?id=42864272) \| 🗓️ 2025-01-29
+
+
+<br />
+该文本描述了2032年一颗小行星可能撞击地球的情况，**撞击概率为1%**，释放能量约为**8百万吨**。文中详细介绍了评估撞击风险的指标，如**Torino等级**、Sigma VI、Sigma MC等，用于量化轨道不确定性和撞击可能性。尽管概率较低，但潜在能量巨大，需持续监测。
+
+---
+
+## <a name="9"></a>9. Google Pixel 4a 旧固件消失，用户被困在电池更新问题中 
+<small>🔗 [androidcentral.com](https://www.androidcentral.com/phones/google-pixel-4as-old-firmware-is-gone-trapping-users-on-the-buggy-battery-update): Google Pixel 4a's old firmware is gone, trapping users on buggy battery update</small>
+
+
+| 🔥🔥: 265 \| 💬: [254](https://news.ycombinator.com/item?id=42865619) \| 🗓️ 2025-01-29
+
+
+<br />
+Google 为 Pixel 4a 推出的**电池更新**导致严重**电池耗电**问题，且删除了旧固件，用户无法回滚。Google 已承认问题并提供补偿：免费电池更换、50 美元现金或 100 美元 Pixel 购买优惠。此次更新本应改善电池性能，却使问题恶化，许多用户陷入困境。
+
+---
+
 ## <a name="10"></a>10. SmolGPT：一个用于从头训练小型LLM的极简PyTorch实现 
 <small>🔗 [github.com](https://github.com/Om-Alve/smolGPT): SmolGPT: A minimal PyTorch implementation for training a small LLM from scratch</small>
 
 
-| 🔥🔥: 246 \| 💬: [33](https://news.ycombinator.com/item?id=42868770) \| 🗓️ 2025-01-29
+| 🔥🔥: 256 \| 💬: [34](https://news.ycombinator.com/item?id=42868770) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -147,7 +147,7 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 <small>🔗 [newatlas.com](https://newatlas.com/brain/young-adult-cannabis-brain-function/): Younger cannabis users have reduced brain function, finds largest study yet</small>
 
 
-| 🔥🔥: 222 \| 💬: [176](https://news.ycombinator.com/item?id=42873697) \| 🗓️ 2025-01-29
+| 🔥🔥: 232 \| 💬: [188](https://news.ycombinator.com/item?id=42873697) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -159,7 +159,7 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 <small>🔗 [catherineshannon.substack.com](https://catherineshannon.substack.com/p/your-phone-is-why-you-dont-feel-sexy): Our phones are killing our ability to feel sexy (2024)</small>
 
 
-| 🔥🔥: 221 \| 💬: [224](https://news.ycombinator.com/item?id=42864595) \| 🗓️ 2025-01-29
+| 🔥🔥: 223 \| 💬: [224](https://news.ycombinator.com/item?id=42864595) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -195,7 +195,7 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 <small>🔗 [animationobsessive.substack.com](https://animationobsessive.substack.com/p/making-the-video-that-made-gorillaz): Making the video that made Gorillaz</small>
 
 
-| 🔥🔥: 177 \| 💬: [39](https://news.ycombinator.com/item?id=42870990) \| 🗓️ 2025-01-29
+| 🔥🔥: 181 \| 💬: [40](https://news.ycombinator.com/item?id=42870990) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -203,7 +203,19 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 
 ---
 
-## <a name="16"></a>16. 加州总检察长警告AI公司：几乎所有行为可能违法 
+## <a name="16"></a>16. 我们遭遇了一次极其精心准备的钓鱼垃圾邮件攻击 
+<small>🔗 [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/spam/WellPreparedPhishSpammer): We got hit by an alarmingly well-prepared phish spammer</small>
+
+
+| 🔥🔥: 173 \| 💬: [105](https://news.ycombinator.com/item?id=42862873) \| 🗓️ 2025-01-29
+
+
+<br />
+2025年1月28日，我们遭遇了一次**精心准备的钓鱼攻击**。攻击者通过窃取的密码迅速注册了我们的**VPN服务**，并利用内部SMTP网关发送垃圾邮件。攻击者显然事先研究过我们的邮件和VPN环境，行动迅速且高效。这次事件提醒我们，**钓鱼攻击者**的准备工作越来越充分，我们需要加强防范。
+
+---
+
+## <a name="17"></a>17. 加州总检察长警告AI公司：几乎所有行为可能违法 
 <small>🔗 [gizmodo.com](https://gizmodo.com/californias-ag-tells-ai-companies-practically-everything-theyre-doing-might-be-illegal-2000555896): Cali's AG Tells AI Companies Almost Everything They're Doing Might Be Illegal</small>
 
 
@@ -212,18 +224,6 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 
 <br />
 加州总检察长Rob Bonta发布法律备忘录，指出AI行业可能涉及多项违法行为，包括**利用AI进行欺骗性内容生成**、**虚假宣传AI系统的能力**，以及**开发或销售可能对受保护群体产生歧视性影响的AI系统**。备忘录强调，AI的开发和使用必须符合伦理和法律，否则可能面临法律制裁。此外，AI公司在版权法等领域也面临诸多法律挑战。
-
----
-
-## <a name="17"></a>17. 我们遭遇了一次极其精心准备的钓鱼垃圾邮件攻击 
-<small>🔗 [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/spam/WellPreparedPhishSpammer): We got hit by an alarmingly well-prepared phish spammer</small>
-
-
-| 🔥🔥: 169 \| 💬: [103](https://news.ycombinator.com/item?id=42862873) \| 🗓️ 2025-01-29
-
-
-<br />
-2025年1月28日，我们遭遇了一次**精心准备的钓鱼攻击**。攻击者通过窃取的密码迅速注册了我们的**VPN服务**，并利用内部SMTP网关发送垃圾邮件。攻击者显然事先研究过我们的邮件和VPN环境，行动迅速且高效。这次事件提醒我们，**钓鱼攻击者**的准备工作越来越充分，我们需要加强防范。
 
 ---
 
@@ -243,7 +243,7 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 <small>🔗 [instantdb.com](https://www.instantdb.com/essays/pg_upgrade): A major Postgres upgrade with zero downtime</small>
 
 
-| 🔥🔥: 143 \| 💬: [45](https://news.ycombinator.com/item?id=42867657) \| 🗓️ 2025-01-29
+| 🔥🔥: 148 \| 💬: [47](https://news.ycombinator.com/item?id=42867657) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -255,7 +255,7 @@ Instant团队在圣诞节前发现其Aurora Postgres实例需要进行重大版�
 <small>🔗 [garry.net](https://garry.net/posts/dead-games): Dead Games</small>
 
 
-| 🔥🔥: 142 \| 💬: [48](https://news.ycombinator.com/item?id=42870230) \| 🗓️ 2025-01-29
+| 🔥🔥: 145 \| 💬: [50](https://news.ycombinator.com/item?id=42870230) \| 🗓️ 2025-01-29
 
 
 <br />
