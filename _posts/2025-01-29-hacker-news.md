@@ -27,7 +27,7 @@ tags:
 <small>🔗 [404media.co](https://www.404media.co/openai-furious-deepseek-might-have-stolen-all-the-data-openai-stole-from-us/): OpenAI Furious DeepSeek Might Have Stolen All the Data OpenAI Stole from Us</small>
 
 
-| 🔥🔥: 1268 \| 💬: [9](https://news.ycombinator.com/item?id=42865527) \| 🗓️ 2025-01-29
+| 🔥🔥: 1274 \| 💬: [9](https://news.ycombinator.com/item?id=42865527) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -39,7 +39,7 @@ OpenAI 和微软正在调查中国 AI 初创公司 DeepSeek 是否未经授权�
 <small>🔗 [getlago.com](https://www.getlago.com/blog/deepseek-open-source): Why DeepSeek had to be open source</small>
 
 
-| 🔥🔥: 479 \| 💬: [257](https://news.ycombinator.com/item?id=42866201) \| 🗓️ 2025-01-29
+| 🔥🔥: 481 \| 💬: [261](https://news.ycombinator.com/item?id=42866201) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -51,7 +51,7 @@ DeepSeek提供了**开源版本**和**高级版本**，分别适用于小型项�
 <small>🔗 [thebloggess.com](https://thebloggess.com/2025/01/28/no-i-do-not-want-ai-to-polish-me/): I do not want AI to "polish" me</small>
 
 
-| 🔥🔥: 383 \| 💬: [246](https://news.ycombinator.com/item?id=42864854) \| 🗓️ 2025-01-29
+| 🔥🔥: 384 \| 💬: [250](https://news.ycombinator.com/item?id=42864854) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -63,7 +63,7 @@ DeepSeek提供了**开源版本**和**高级版本**，分别适用于小型项�
 <small>🔗 [arcprize.org](https://arcprize.org/blog/r1-zero-r1-results-analysis): An analysis of DeepSeek's R1-Zero and R1</small>
 
 
-| 🔥🔥: 320 \| 💬: [135](https://news.ycombinator.com/item?id=42868390) \| 🗓️ 2025-01-29
+| 🔥🔥: 341 \| 💬: [147](https://news.ycombinator.com/item?id=42868390) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -75,7 +75,7 @@ DeepSeek发布的**R1-Zero**和**R1**系统在ARC-AGI-1基准测试中表现出�
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/pc-components/hdds/german-seagate-customers-say-their-new-hard-drives-were-actually-used-resold-hdds-reportedly-used-for-tens-of-thousands-of-hours): Seagate: 'new' hard drives used for tens of thousands of hours</small>
 
 
-| 🔥🔥: 305 \| 💬: [181](https://news.ycombinator.com/item?id=42864788) \| 🗓️ 2025-01-29
+| 🔥🔥: 307 \| 💬: [186](https://news.ycombinator.com/item?id=42864788) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -87,7 +87,7 @@ DeepSeek发布的**R1-Zero**和**R1**系统在ARC-AGI-1基准测试中表现出�
 <small>🔗 [androidcentral.com](https://www.androidcentral.com/phones/google-pixel-4as-old-firmware-is-gone-trapping-users-on-the-buggy-battery-update): Google Pixel 4a's old firmware is gone, trapping users on buggy battery update</small>
 
 
-| 🔥🔥: 227 \| 💬: [202](https://news.ycombinator.com/item?id=42865619) \| 🗓️ 2025-01-29
+| 🔥🔥: 236 \| 💬: [219](https://news.ycombinator.com/item?id=42865619) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -99,7 +99,7 @@ Google 为 Pixel 4a 推出的**电池更新**导致严重**电池耗电**问题�
 <small>🔗 [catherineshannon.substack.com](https://catherineshannon.substack.com/p/your-phone-is-why-you-dont-feel-sexy): Our phones are killing our ability to feel sexy (2024)</small>
 
 
-| 🔥🔥: 205 \| 💬: [213](https://news.ycombinator.com/item?id=42864595) \| 🗓️ 2025-01-29
+| 🔥🔥: 208 \| 💬: [217](https://news.ycombinator.com/item?id=42864595) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -107,7 +107,43 @@ Google 为 Pixel 4a 推出的**电池更新**导致严重**电池耗电**问题�
 
 ---
 
-## <a name="8"></a>8. 杰文斯悖论 
+## <a name="8"></a>8. DeepSeek数据库泄露敏感信息，包括聊天记录 
+<small>🔗 [wiz.io](https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak): Exposed DeepSeek database leaking sensitive information, including chat history</small>
+
+
+| 🔥🔥: 192 \| 💬: [80](https://news.ycombinator.com/item?id=42871371) \| 🗓️ 2025-01-29
+
+
+<br />
+Wiz Research发现DeepSeek的一个**公开访问的ClickHouse数据库**，暴露了超过100万条日志流，包含**聊天记录、密钥和后端细节**等敏感信息。DeepSeek已迅速修复此问题。此次事件凸显了AI服务快速采用中的**安全风险**，强调基础设施安全的重要性。
+
+---
+
+## <a name="9"></a>9. 食盐加碘对认知改善的作用：研究（2013） 
+<small>🔗 [discovermagazine.com](https://www.discovermagazine.com/health/how-adding-iodine-to-salt-boosted-americans-iq): Adding iodine to salt played a role in cognitive improvements: research (2013)</small>
+
+
+| 🔥🔥: 178 \| 💬: [119](https://news.ycombinator.com/item?id=42868718) \| 🗓️ 2025-01-29
+
+
+<br />
+研究表明，**食盐加碘**在20世纪美国人口的认知改善中发挥了重要作用。自1924年起，碘被添加到食盐中，最初是为了减少甲状腺肿的发生。研究发现，**碘缺乏**是全球可预防智力障碍的主要原因，而加碘盐显著提高了低碘地区人口的智商，平均提升了3.5点。尽管加碘导致了一些甲状腺相关死亡，但其对大脑发育的积极影响不可忽视，甚至可能解释了**弗林效应**的部分原因。
+
+---
+
+## <a name="10"></a>10. SmolGPT：一个用于从头训练小型LLM的极简PyTorch实现 
+<small>🔗 [github.com](https://github.com/Om-Alve/smolGPT): SmolGPT: A minimal PyTorch implementation for training a small LLM from scratch</small>
+
+
+| 🔥🔥: 175 \| 💬: [24](https://news.ycombinator.com/item?id=42868770) \| 🗓️ 2025-01-29
+
+
+<br />
+SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性设计，支持高效训练、**Flash Attention** 和现代采样技术。它包含 **GPT 模型**、混合精度训练、数据集处理和自定义分词器，适合初学者学习LLM训练流程。
+
+---
+
+## <a name="11"></a>11. 杰文斯悖论 
 <small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Jevons_paradox): Jevons paradox</small>
 
 
@@ -119,59 +155,11 @@ Google 为 Pixel 4a 推出的**电池更新**导致严重**电池耗电**问题�
 
 ---
 
-## <a name="9"></a>9. 食盐加碘对认知改善的作用：研究（2013） 
-<small>🔗 [discovermagazine.com](https://www.discovermagazine.com/health/how-adding-iodine-to-salt-boosted-americans-iq): Adding iodine to salt played a role in cognitive improvements: research (2013)</small>
-
-
-| 🔥🔥: 168 \| 💬: [109](https://news.ycombinator.com/item?id=42868718) \| 🗓️ 2025-01-29
-
-
-<br />
-研究表明，**食盐加碘**在20世纪美国人口的认知改善中发挥了重要作用。自1924年起，碘被添加到食盐中，最初是为了减少甲状腺肿的发生。研究发现，**碘缺乏**是全球可预防智力障碍的主要原因，而加碘盐显著提高了低碘地区人口的智商，平均提升了3.5点。尽管加碘导致了一些甲状腺相关死亡，但其对大脑发育的积极影响不可忽视，甚至可能解释了**弗林效应**的部分原因。
-
----
-
-## <a name="10"></a>10. 加州总检察长警告AI公司：几乎所有行为可能违法 
-<small>🔗 [gizmodo.com](https://gizmodo.com/californias-ag-tells-ai-companies-practically-everything-theyre-doing-might-be-illegal-2000555896): Cali's AG Tells AI Companies Almost Everything They're Doing Might Be Illegal</small>
-
-
-| 🔥🔥: 163 \| 💬: [141](https://news.ycombinator.com/item?id=42865174) \| 🗓️ 2025-01-29
-
-
-<br />
-加州总检察长Rob Bonta发布法律备忘录，指出AI行业可能涉及多项违法行为，包括**利用AI进行欺骗性内容生成**、**虚假宣传AI系统的能力**，以及**开发或销售可能对受保护群体产生歧视性影响的AI系统**。备忘录强调，AI的开发和使用必须符合伦理和法律，否则可能面临法律制裁。此外，AI公司在版权法等领域也面临诸多法律挑战。
-
----
-
-## <a name="11"></a>11. 我们遭遇了一次极其精心准备的钓鱼垃圾邮件攻击 
-<small>🔗 [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/spam/WellPreparedPhishSpammer): We got hit by an alarmingly well-prepared phish spammer</small>
-
-
-| 🔥🔥: 155 \| 💬: [98](https://news.ycombinator.com/item?id=42862873) \| 🗓️ 2025-01-29
-
-
-<br />
-2025年1月28日，我们遭遇了一次**精心准备的钓鱼攻击**。攻击者通过窃取的密码迅速注册了我们的**VPN服务**，并利用内部SMTP网关发送垃圾邮件。攻击者显然事先研究过我们的邮件和VPN环境，行动迅速且高效。这次事件提醒我们，**钓鱼攻击者**的准备工作越来越充分，我们需要加强防范。
-
----
-
-## <a name="12"></a>12. SmolGPT：一个用于从头训练小型LLM的极简PyTorch实现 
-<small>🔗 [github.com](https://github.com/Om-Alve/smolGPT): SmolGPT: A minimal PyTorch implementation for training a small LLM from scratch</small>
-
-
-| 🔥🔥: 151 \| 💬: [23](https://news.ycombinator.com/item?id=42868770) \| 🗓️ 2025-01-29
-
-
-<br />
-SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性设计，支持高效训练、**Flash Attention** 和现代采样技术。它包含 **GPT 模型**、混合精度训练、数据集处理和自定义分词器，适合初学者学习LLM训练流程。
-
----
-
-## <a name="13"></a>13. 2032年小行星撞击地球概率1%，能量达8百万吨 
+## <a name="12"></a>12. 2032年小行星撞击地球概率1%，能量达8百万吨 
 <small>🔗 [cneos.jpl.nasa.gov](https://cneos.jpl.nasa.gov/sentry/details.html#?des=2024%20YR4): Asteroid Impact on Earth 2032 with Probability 1% and 8Mt Energy</small>
 
 
-| 🔥🔥: 145 \| 💬: [136](https://news.ycombinator.com/item?id=42864272) \| 🗓️ 2025-01-29
+| 🔥🔥: 168 \| 💬: [149](https://news.ycombinator.com/item?id=42864272) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -179,11 +167,35 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 
 ---
 
-## <a name="14"></a>14. 英特尔不懂如何成为代工厂，蒂姆·库克曾对台积电CEO表示 
+## <a name="13"></a>13. 加州总检察长警告AI公司：几乎所有行为可能违法 
+<small>🔗 [gizmodo.com](https://gizmodo.com/californias-ag-tells-ai-companies-practically-everything-theyre-doing-might-be-illegal-2000555896): Cali's AG Tells AI Companies Almost Everything They're Doing Might Be Illegal</small>
+
+
+| 🔥🔥: 164 \| 💬: [142](https://news.ycombinator.com/item?id=42865174) \| 🗓️ 2025-01-29
+
+
+<br />
+加州总检察长Rob Bonta发布法律备忘录，指出AI行业可能涉及多项违法行为，包括**利用AI进行欺骗性内容生成**、**虚假宣传AI系统的能力**，以及**开发或销售可能对受保护群体产生歧视性影响的AI系统**。备忘录强调，AI的开发和使用必须符合伦理和法律，否则可能面临法律制裁。此外，AI公司在版权法等领域也面临诸多法律挑战。
+
+---
+
+## <a name="14"></a>14. 我们遭遇了一次极其精心准备的钓鱼垃圾邮件攻击 
+<small>🔗 [utcc.utoronto.ca](https://utcc.utoronto.ca/~cks/space/blog/spam/WellPreparedPhishSpammer): We got hit by an alarmingly well-prepared phish spammer</small>
+
+
+| 🔥🔥: 157 \| 💬: [98](https://news.ycombinator.com/item?id=42862873) \| 🗓️ 2025-01-29
+
+
+<br />
+2025年1月28日，我们遭遇了一次**精心准备的钓鱼攻击**。攻击者通过窃取的密码迅速注册了我们的**VPN服务**，并利用内部SMTP网关发送垃圾邮件。攻击者显然事先研究过我们的邮件和VPN环境，行动迅速且高效。这次事件提醒我们，**钓鱼攻击者**的准备工作越来越充分，我们需要加强防范。
+
+---
+
+## <a name="15"></a>15. 英特尔不懂如何成为代工厂，蒂姆·库克曾对台积电CEO表示 
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/tsmc-founder-says-tim-cook-told-him-intel-did-not-know-how-to-be-a-foundry): Intel doesn't know how to be a foundry, Tim Cook reportedly said in 2011</small>
 
 
-| 🔥🔥: 144 \| 💬: [84](https://news.ycombinator.com/item?id=42868531) \| 🗓️ 2025-01-29
+| 🔥🔥: 146 \| 💬: [89](https://news.ycombinator.com/item?id=42868531) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -191,35 +203,11 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 
 ---
 
-## <a name="15"></a>15. 《无人深空》更新引入数十亿新恒星、行星等 
-<small>🔗 [blog.playstation.com](https://blog.playstation.com/2025/01/29/no-mans-skys-latest-update-introduces-billions-of-new-stars-planets-and-more-today/): No Man's Sky's update introduces billions of new stars, planets, and more</small>
-
-
-| 🔥🔥: 122 \| 💬: [89](https://news.ycombinator.com/item?id=42868618) \| 🗓️ 2025-01-29
-
-
-<br />
-《无人深空》最新更新“**世界第二部分**”今日上线，新增**数十亿恒星系统**和**数万亿行星**，带来全新地形、生物群落和动植物。更新还包括**全新任务线**和**探险活动**，玩家可探索巨大气态行星和深海，体验改进的水下玩法与光影效果。
-
----
-
-## <a name="16"></a>16. 关于深度求索与出口管制 
-<small>🔗 [darioamodei.com](https://darioamodei.com/on-deepseek-and-export-controls): On DeepSeek and export controls</small>
-
-
-| 🔥🔥: 117 \| 💬: [165](https://news.ycombinator.com/item?id=42866905) \| 🗓️ 2025-01-29
-
-
-<br />
-深度求索（DeepSeek）近期发布的AI模型在性能上接近美国前沿模型，且成本更低。尽管这显示出中国在AI领域的进步，但**出口管制**仍至关重要，以确保美国及其盟友在AI发展中保持领先。**深度求索**的创新并未改变AI发展的基本趋势，未来几年，**芯片供应**将决定中美在AI领域的竞争格局。
-
----
-
-## <a name="17"></a>17. 制作让Gorillaz成名的视频 
+## <a name="16"></a>16. 制作让Gorillaz成名的视频 
 <small>🔗 [animationobsessive.substack.com](https://animationobsessive.substack.com/p/making-the-video-that-made-gorillaz): Making the video that made Gorillaz</small>
 
 
-| 🔥🔥: 116 \| 💬: [26](https://news.ycombinator.com/item?id=42870990) \| 🗓️ 2025-01-29
+| 🔥🔥: 125 \| 💬: [30](https://news.ycombinator.com/item?id=42870990) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -227,11 +215,23 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 
 ---
 
+## <a name="17"></a>17. 《无人深空》更新引入数十亿新恒星、行星等 
+<small>🔗 [blog.playstation.com](https://blog.playstation.com/2025/01/29/no-mans-skys-latest-update-introduces-billions-of-new-stars-planets-and-more-today/): No Man's Sky's update introduces billions of new stars, planets, and more</small>
+
+
+| 🔥🔥: 124 \| 💬: [99](https://news.ycombinator.com/item?id=42868618) \| 🗓️ 2025-01-29
+
+
+<br />
+《无人深空》最新更新“**世界第二部分**”今日上线，新增**数十亿恒星系统**和**数万亿行星**，带来全新地形、生物群落和动植物。更新还包括**全新任务线**和**探险活动**，玩家可探索巨大气态行星和深海，体验改进的水下玩法与光影效果。
+
+---
+
 ## <a name="18"></a>18. 修复与升级Commodore Amiga 1000的故事 
 <small>🔗 [celso.io](https://celso.io/posts/2025/01/26/the-first-perfect-computer/): A story about restoring and upgrading a Commodore Amiga 1000</small>
 
 
-| 🔥🔥: 113 \| 💬: [31](https://news.ycombinator.com/item?id=42865867) \| 🗓️ 2025-01-29
+| 🔥🔥: 118 \| 💬: [31](https://news.ycombinator.com/item?id=42865867) \| 🗓️ 2025-01-29
 
 
 <br />
@@ -239,15 +239,15 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 
 ---
 
-## <a name="19"></a>19. 陶哲轩：特朗普的联邦资金冻结与平均场博弈论 
-<small>🔗 [mathstodon.xyz](https://mathstodon.xyz/@tao/113910070146861518): Terence Tao: Trump's Federal Funding Freeze and Mean-Field Game Theory</small>
+## <a name="19"></a>19. 关于深度求索与出口管制 
+<small>🔗 [darioamodei.com](https://darioamodei.com/on-deepseek-and-export-controls): On DeepSeek and export controls</small>
 
 
-| 🔥: 99 \| 💬: [88](https://news.ycombinator.com/item?id=42863339) \| 🗓️ 2025-01-29
+| 🔥🔥: 118 \| 💬: [164](https://news.ycombinator.com/item?id=42866905) \| 🗓️ 2025-01-29
 
 
 <br />
-陶哲轩讨论了**特朗普政府冻结联邦资金**对科研的影响，并引入**平均场博弈论**作为应对复杂系统的方法。他强调，**资金冻结**可能阻碍科学进步，而博弈论提供了一种理解大规模互动的框架。
+深度求索（DeepSeek）近期发布的AI模型在性能上接近美国前沿模型，且成本更低。尽管这显示出中国在AI领域的进步，但**出口管制**仍至关重要，以确保美国及其盟友在AI发展中保持领先。**深度求索**的创新并未改变AI发展的基本趋势，未来几年，**芯片供应**将决定中美在AI领域的竞争格局。
 
 ---
 
@@ -255,7 +255,7 @@ SmolGPT 是一个基于 **PyTorch** 的极简实现，专为教育和简单性�
 <small>🔗 [garry.net](https://garry.net/posts/dead-games): Dead Games</small>
 
 
-| 🔥: 95 \| 💬: [28](https://news.ycombinator.com/item?id=42870230) \| 🗓️ 2025-01-29
+| 🔥🔥: 105 \| 💬: [33](https://news.ycombinator.com/item?id=42870230) \| 🗓️ 2025-01-29
 
 
 <br />
