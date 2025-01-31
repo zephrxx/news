@@ -27,7 +27,7 @@ tags:
 <small>🔗 [developer.mozilla.org](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/): JavaScript Temporal is coming</small>
 
 
-| 🔥🔥: 1089 \| 💬: [315](https://news.ycombinator.com/item?id=42876840) \| 🗓️ 2025-01-30
+| 🔥🔥: 1118 \| 💬: [329](https://news.ycombinator.com/item?id=42876840) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -39,7 +39,7 @@ JavaScript 即将引入 **Temporal** 对象，这是一个全新的日期和时�
 <small>🔗 [mistral.ai](https://mistral.ai/news/mistral-small-3/): Mistral Small 3</small>
 
 
-| 🔥🔥: 554 \| 💬: [172](https://news.ycombinator.com/item?id=42877860) \| 🗓️ 2025-01-30
+| 🔥🔥: 558 \| 💬: [173](https://news.ycombinator.com/item?id=42877860) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -51,7 +51,7 @@ Mistral AI 推出 **Mistral Small 3**，一款基于 Apache 2.0 许可的 24B �
 <small>🔗 [elitefourum.com](https://www.elitefourum.com/t/many-of-the-pokemon-playtest-cards-were-likely-printed-in-2024/52421): Many of the Pokemon playtest cards were likely printed in 2024</small>
 
 
-| 🔥🔥: 446 \| 💬: [289](https://news.ycombinator.com/item?id=42880704) \| 🗓️ 2025-01-30
+| 🔥🔥: 462 \| 💬: [294](https://news.ycombinator.com/item?id=42880704) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -63,7 +63,7 @@ Mistral AI 推出 **Mistral Small 3**，一款基于 Apache 2.0 许可的 24B �
 <small>🔗 [vatican.va](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html): Antiqua et Nova: Note on the relationship between AI and human intelligence</small>
 
 
-| 🔥🔥: 424 \| 💬: [387](https://news.ycombinator.com/item?id=42877709) \| 🗓️ 2025-01-30
+| 🔥🔥: 441 \| 💬: [388](https://news.ycombinator.com/item?id=42877709) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -75,7 +75,7 @@ Mistral AI 推出 **Mistral Small 3**，一款基于 Apache 2.0 许可的 24B �
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023): California law enforcement misused state databases more than 7k times in 2023</small>
 
 
-| 🔥🔥: 358 \| 💬: [159](https://news.ycombinator.com/item?id=42880807) \| 🗓️ 2025-01-30
+| 🔥🔥: 383 \| 💬: [180](https://news.ycombinator.com/item?id=42880807) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -87,7 +87,7 @@ Mistral AI 推出 **Mistral Small 3**，一款基于 Apache 2.0 许可的 24B �
 <small>🔗 [github.com](https://github.com/exelban/stats): Stats – macOS system monitor in your menu bar</small>
 
 
-| 🔥🔥: 200 \| 💬: [98](https://news.ycombinator.com/item?id=42881342) \| 🗓️ 2025-01-30
+| 🔥🔥: 214 \| 💬: [105](https://news.ycombinator.com/item?id=42881342) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -99,7 +99,7 @@ Stats 是一款 macOS 系统监控工具，可在菜单栏中实时显示 **CPU�
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/climate/comments/1idiliv/the_us_governments_open_data_on_datagov_is/): The US government's open data on Data.gov is currently being scrubbed</small>
 
 
-| 🔥🔥: 198 \| 💬: [43](https://news.ycombinator.com/item?id=42876055) \| 🗓️ 2025-01-30
+| 🔥🔥: 200 \| 💬: [41](https://news.ycombinator.com/item?id=42876055) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -111,7 +111,7 @@ Stats 是一款 macOS 系统监控工具，可在菜单栏中实时显示 **CPU�
 <small>🔗 [blog.documentfoundation.org](https://blog.documentfoundation.org/blog/2025/01/30/400-million-downloads-and-counting/): LibreOffice 400M Downloads, and Counting</small>
 
 
-| 🔥🔥: 194 \| 💬: [76](https://news.ycombinator.com/item?id=42876998) \| 🗓️ 2025-01-30
+| 🔥🔥: 195 \| 💬: [76](https://news.ycombinator.com/item?id=42876998) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -123,7 +123,7 @@ Stats 是一款 macOS 系统监控工具，可在菜单栏中实时显示 **CPU�
 <small>🔗 [audiocube.app](https://www.audiocube.app): Show HN: Audiocube – A 3D DAW for Spatial Audio</small>
 
 
-| 🔥🔥: 159 \| 💬: [79](https://news.ycombinator.com/item?id=42877399) \| 🗓️ 2025-01-30
+| 🔥🔥: 163 \| 💬: [80](https://news.ycombinator.com/item?id=42877399) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -135,7 +135,7 @@ Audiocube 是一款独立的**3D音频工作站**，专为音乐和声音设计�
 <small>🔗 [journals.plos.org](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006616): Investigating the case of human nose shape and climate adaptation (2017)</small>
 
 
-| 🔥🔥: 129 \| 💬: [76](https://news.ycombinator.com/item?id=42875888) \| 🗓️ 2025-01-30
+| 🔥🔥: 131 \| 💬: [77](https://news.ycombinator.com/item?id=42875888) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -143,7 +143,19 @@ Audiocube 是一款独立的**3D音频工作站**，专为音乐和声音设计�
 
 ---
 
-## <a name="11"></a>11. 专访DeepSeek创始人：我们不再追随，是时候引领了 
+## <a name="11"></a>11. Jane Street 如何意外地为 OCaml 构建了更好的构建系统 
+<small>🔗 [blog.janestreet.com](https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/): How Jane Street accidentally built a better build system for OCaml</small>
+
+
+| 🔥🔥: 129 \| 💬: [60](https://news.ycombinator.com/item?id=42881724) \| 🗓️ 2025-01-30
+
+
+<br />
+Jane Street 最初因对 OMake 不满而开发了 **Jenga**，但因其局限性和低采用率而放弃。随后，他们推出了 **Jbuilder**，一个简单的跨平台工具，意外因其**速度**和易用性受到欢迎，并演变为 **Dune**。经过多年优化，Dune 最终取代了 Jenga，成为 Jane Street 的主要构建系统，并在性能和扩展性上表现出色。Dune 的成功不仅提升了内部开发效率，也为 OCaml 社区带来了更好的构建工具。
+
+---
+
+## <a name="12"></a>12. 专访DeepSeek创始人：我们不再追随，是时候引领了 
 <small>🔗 [thechinaacademy.org](https://thechinaacademy.org/interview-with-deepseek-founder-were-done-following-its-time-to-lead/): Interview with DeepSeek Founder: We're Done Following. It's Time to Lead</small>
 
 
@@ -155,11 +167,11 @@ DeepSeek创始人梁文峰表示，**DeepSeek-R1**以1/30的成本匹配OpenAI�
 
 ---
 
-## <a name="12"></a>12. GitHub 服务中断 
+## <a name="13"></a>13. GitHub 服务中断 
 <small>🔗 [githubstatus.com](https://www.githubstatus.com): GitHub Is Down</small>
 
 
-| 🔥🔥: 111 \| 💬: [64](https://news.ycombinator.com/item?id=42877995) \| 🗓️ 2025-01-30
+| 🔥🔥: 113 \| 💬: [64](https://news.ycombinator.com/item?id=42877995) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -167,23 +179,11 @@ GitHub 目前出现**Pull Requests 和 Issues** 服务中断问题，用户可�
 
 ---
 
-## <a name="13"></a>13. Jane Street 如何意外地为 OCaml 构建了更好的构建系统 
-<small>🔗 [blog.janestreet.com](https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/): How Jane Street accidentally built a better build system for OCaml</small>
-
-
-| 🔥🔥: 109 \| 💬: [49](https://news.ycombinator.com/item?id=42881724) \| 🗓️ 2025-01-30
-
-
-<br />
-Jane Street 最初因对 OMake 不满而开发了 **Jenga**，但因其局限性和低采用率而放弃。随后，他们推出了 **Jbuilder**，一个简单的跨平台工具，意外因其**速度**和易用性受到欢迎，并演变为 **Dune**。经过多年优化，Dune 最终取代了 Jenga，成为 Jane Street 的主要构建系统，并在性能和扩展性上表现出色。Dune 的成功不仅提升了内部开发效率，也为 OCaml 社区带来了更好的构建工具。
-
----
-
 ## <a name="14"></a>14. 四元数与球面三角学 
 <small>🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2024/12/19/quaternions-and-spherical-trigonometry/): Quaternions and spherical trigonometry</small>
 
 
-| 🔥: 96 \| 💬: [43](https://news.ycombinator.com/item?id=42880242) \| 🗓️ 2025-01-30
+| 🔥: 99 \| 💬: [45](https://news.ycombinator.com/item?id=42880242) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -195,7 +195,7 @@ Jane Street 最初因对 OMake 不满而开发了 **Jenga**，但因其局限性
 <small>🔗 [9to5google.com](https://9to5google.com/2025/01/30/pixel-android-voluntary-exit-employees/): Google offering 'voluntary exit' for employees working on Pixel, Android</small>
 
 
-| 🔥: 90 \| 💬: [42](https://news.ycombinator.com/item?id=42880529) \| 🗓️ 2025-01-30
+| 🔥: 90 \| 💬: [43](https://news.ycombinator.com/item?id=42880529) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -207,7 +207,7 @@ Jane Street 最初因对 OMake 不满而开发了 **Jenga**，但因其局限性
 <small>🔗 [dl.acm.org](https://dl.acm.org/doi/10.1145/130647.130656): A history of APL in the USSR (1991)</small>
 
 
-| 🔥: 85 \| 💬: [10](https://news.ycombinator.com/item?id=42877430) \| 🗓️ 2025-01-30
+| 🔥: 89 \| 💬: [10](https://news.ycombinator.com/item?id=42877430) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -255,7 +255,7 @@ COINTELPRO是1956年至1971年间美国联邦调查局（FBI）进行的一系�
 <small>🔗 [lareviewofbooks.org](https://lareviewofbooks.org/article/the-case-for-kicking-the-stone/): Review: Superbloom: How Technologies of Connection Tear Us Apart</small>
 
 
-| 🔥: 77 \| 💬: [54](https://news.ycombinator.com/item?id=42878598) \| 🗓️ 2025-01-30
+| 🔥: 79 \| 💬: [56](https://news.ycombinator.com/item?id=42878598) \| 🗓️ 2025-01-30
 
 
 <br />
