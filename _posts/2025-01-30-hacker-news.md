@@ -27,7 +27,7 @@ tags:
 <small>🔗 [developer.mozilla.org](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/): JavaScript Temporal is coming</small>
 
 
-| 🔥🔥: 1118 \| 💬: [329](https://news.ycombinator.com/item?id=42876840) \| 🗓️ 2025-01-30
+| 🔥🔥: 1141 \| 💬: [337](https://news.ycombinator.com/item?id=42876840) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -39,7 +39,7 @@ JavaScript 即将引入 **Temporal** 对象，这是一个全新的日期和时�
 <small>🔗 [mistral.ai](https://mistral.ai/news/mistral-small-3/): Mistral Small 3</small>
 
 
-| 🔥🔥: 558 \| 💬: [173](https://news.ycombinator.com/item?id=42877860) \| 🗓️ 2025-01-30
+| 🔥🔥: 564 \| 💬: [175](https://news.ycombinator.com/item?id=42877860) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -51,7 +51,7 @@ Mistral AI 推出 **Mistral Small 3**，一款基于 Apache 2.0 许可的 24B �
 <small>🔗 [elitefourum.com](https://www.elitefourum.com/t/many-of-the-pokemon-playtest-cards-were-likely-printed-in-2024/52421): Many of the Pokemon playtest cards were likely printed in 2024</small>
 
 
-| 🔥🔥: 462 \| 💬: [294](https://news.ycombinator.com/item?id=42880704) \| 🗓️ 2025-01-30
+| 🔥🔥: 473 \| 💬: [298](https://news.ycombinator.com/item?id=42880704) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -63,7 +63,7 @@ Mistral AI 推出 **Mistral Small 3**，一款基于 Apache 2.0 许可的 24B �
 <small>🔗 [vatican.va](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html): Antiqua et Nova: Note on the relationship between AI and human intelligence</small>
 
 
-| 🔥🔥: 441 \| 💬: [388](https://news.ycombinator.com/item?id=42877709) \| 🗓️ 2025-01-30
+| 🔥🔥: 447 \| 💬: [389](https://news.ycombinator.com/item?id=42877709) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -75,7 +75,7 @@ Mistral AI 推出 **Mistral Small 3**，一款基于 Apache 2.0 许可的 24B �
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023): California law enforcement misused state databases more than 7k times in 2023</small>
 
 
-| 🔥🔥: 383 \| 💬: [180](https://news.ycombinator.com/item?id=42880807) \| 🗓️ 2025-01-30
+| 🔥🔥: 392 \| 💬: [183](https://news.ycombinator.com/item?id=42880807) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -87,7 +87,7 @@ Mistral AI 推出 **Mistral Small 3**，一款基于 Apache 2.0 许可的 24B �
 <small>🔗 [github.com](https://github.com/exelban/stats): Stats – macOS system monitor in your menu bar</small>
 
 
-| 🔥🔥: 214 \| 💬: [105](https://news.ycombinator.com/item?id=42881342) \| 🗓️ 2025-01-30
+| 🔥🔥: 231 \| 💬: [112](https://news.ycombinator.com/item?id=42881342) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -99,7 +99,7 @@ Stats 是一款 macOS 系统监控工具，可在菜单栏中实时显示 **CPU�
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/climate/comments/1idiliv/the_us_governments_open_data_on_datagov_is/): The US government's open data on Data.gov is currently being scrubbed</small>
 
 
-| 🔥🔥: 200 \| 💬: [41](https://news.ycombinator.com/item?id=42876055) \| 🗓️ 2025-01-30
+| 🔥🔥: 203 \| 💬: [41](https://news.ycombinator.com/item?id=42876055) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -123,7 +123,7 @@ Stats 是一款 macOS 系统监控工具，可在菜单栏中实时显示 **CPU�
 <small>🔗 [audiocube.app](https://www.audiocube.app): Show HN: Audiocube – A 3D DAW for Spatial Audio</small>
 
 
-| 🔥🔥: 163 \| 💬: [80](https://news.ycombinator.com/item?id=42877399) \| 🗓️ 2025-01-30
+| 🔥🔥: 168 \| 💬: [80](https://news.ycombinator.com/item?id=42877399) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -131,27 +131,27 @@ Audiocube 是一款独立的**3D音频工作站**，专为音乐和声音设计�
 
 ---
 
-## <a name="10"></a>10. 探究人类鼻形与气候适应的关系（2017） 
-<small>🔗 [journals.plos.org](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006616): Investigating the case of human nose shape and climate adaptation (2017)</small>
-
-
-| 🔥🔥: 131 \| 💬: [77](https://news.ycombinator.com/item?id=42875888) \| 🗓️ 2025-01-30
-
-
-<br />
-研究发现，**鼻翼宽度**和**鼻孔宽度**在不同人群中的差异超出了遗传漂变的预期，且与**温度和绝对湿度**相关。这表明鼻形差异可能受到气候适应的影响，但进化过程可能还涉及性选择等其他非中性因素。
-
----
-
-## <a name="11"></a>11. Jane Street 如何意外地为 OCaml 构建了更好的构建系统 
+## <a name="10"></a>10. Jane Street 如何意外地为 OCaml 构建了更好的构建系统 
 <small>🔗 [blog.janestreet.com](https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/): How Jane Street accidentally built a better build system for OCaml</small>
 
 
-| 🔥🔥: 129 \| 💬: [60](https://news.ycombinator.com/item?id=42881724) \| 🗓️ 2025-01-30
+| 🔥🔥: 148 \| 💬: [68](https://news.ycombinator.com/item?id=42881724) \| 🗓️ 2025-01-30
 
 
 <br />
 Jane Street 最初因对 OMake 不满而开发了 **Jenga**，但因其局限性和低采用率而放弃。随后，他们推出了 **Jbuilder**，一个简单的跨平台工具，意外因其**速度**和易用性受到欢迎，并演变为 **Dune**。经过多年优化，Dune 最终取代了 Jenga，成为 Jane Street 的主要构建系统，并在性能和扩展性上表现出色。Dune 的成功不仅提升了内部开发效率，也为 OCaml 社区带来了更好的构建工具。
+
+---
+
+## <a name="11"></a>11. 探究人类鼻形与气候适应的关系（2017） 
+<small>🔗 [journals.plos.org](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006616): Investigating the case of human nose shape and climate adaptation (2017)</small>
+
+
+| 🔥🔥: 131 \| 💬: [78](https://news.ycombinator.com/item?id=42875888) \| 🗓️ 2025-01-30
+
+
+<br />
+研究发现，**鼻翼宽度**和**鼻孔宽度**在不同人群中的差异超出了遗传漂变的预期，且与**温度和绝对湿度**相关。这表明鼻形差异可能受到气候适应的影响，但进化过程可能还涉及性选择等其他非中性因素。
 
 ---
 
@@ -183,7 +183,7 @@ GitHub 目前出现**Pull Requests 和 Issues** 服务中断问题，用户可�
 <small>🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2024/12/19/quaternions-and-spherical-trigonometry/): Quaternions and spherical trigonometry</small>
 
 
-| 🔥: 99 \| 💬: [45](https://news.ycombinator.com/item?id=42880242) \| 🗓️ 2025-01-30
+| 🔥🔥: 102 \| 💬: [45](https://news.ycombinator.com/item?id=42880242) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -195,7 +195,7 @@ GitHub 目前出现**Pull Requests 和 Issues** 服务中断问题，用户可�
 <small>🔗 [9to5google.com](https://9to5google.com/2025/01/30/pixel-android-voluntary-exit-employees/): Google offering 'voluntary exit' for employees working on Pixel, Android</small>
 
 
-| 🔥: 90 \| 💬: [43](https://news.ycombinator.com/item?id=42880529) \| 🗓️ 2025-01-30
+| 🔥: 92 \| 💬: [44](https://news.ycombinator.com/item?id=42880529) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -207,7 +207,7 @@ GitHub 目前出现**Pull Requests 和 Issues** 服务中断问题，用户可�
 <small>🔗 [dl.acm.org](https://dl.acm.org/doi/10.1145/130647.130656): A history of APL in the USSR (1991)</small>
 
 
-| 🔥: 89 \| 💬: [10](https://news.ycombinator.com/item?id=42877430) \| 🗓️ 2025-01-30
+| 🔥: 91 \| 💬: [11](https://news.ycombinator.com/item?id=42877430) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -239,7 +239,19 @@ COINTELPRO是1956年至1971年间美国联邦调查局（FBI）进行的一系�
 
 ---
 
-## <a name="19"></a>19. 我建了一个网站，你可以无缘无故地放彩带 
+## <a name="19"></a>19. 《超级绽放：连接技术如何撕裂我们》 
+<small>🔗 [lareviewofbooks.org](https://lareviewofbooks.org/article/the-case-for-kicking-the-stone/): Review: Superbloom: How Technologies of Connection Tear Us Apart</small>
+
+
+| 🔥: 81 \| 💬: [57](https://news.ycombinator.com/item?id=42878598) \| 🗓️ 2025-01-30
+
+
+<br />
+尼古拉斯·卡尔在《超级绽放》中探讨了现代**连接技术**（如手机、社交媒体、人工智能）如何改变个人与社会。他指出，尽管这些技术带来了便利，但也导致了**信息过载**、社会分裂和**虚假信息**的泛滥。卡尔认为，问题不仅在于技术本身，还在于我们对其的误解和使用方式。
+
+---
+
+## <a name="20"></a>20. 我建了一个网站，你可以无缘无故地放彩带 
 <small>🔗 [poptheconfetti.website](https://poptheconfetti.website): I built a website where you can pop confettis for no reason</small>
 
 
@@ -248,17 +260,5 @@ COINTELPRO是1956年至1971年间美国联邦调查局（FBI）进行的一系�
 
 <br />
 这个网站允许用户**随意点击释放彩带**，纯粹为了娱乐。需要**启用JavaScript**才能运行。属于**Show HN**类别，展示了简单的创意和趣味性。
-
----
-
-## <a name="20"></a>20. 《超级绽放：连接技术如何撕裂我们》 
-<small>🔗 [lareviewofbooks.org](https://lareviewofbooks.org/article/the-case-for-kicking-the-stone/): Review: Superbloom: How Technologies of Connection Tear Us Apart</small>
-
-
-| 🔥: 79 \| 💬: [56](https://news.ycombinator.com/item?id=42878598) \| 🗓️ 2025-01-30
-
-
-<br />
-尼古拉斯·卡尔在《超级绽放》中探讨了现代**连接技术**（如手机、社交媒体、人工智能）如何改变个人与社会。他指出，尽管这些技术带来了便利，但也导致了**信息过载**、社会分裂和**虚假信息**的泛滥。卡尔认为，问题不仅在于技术本身，还在于我们对其的误解和使用方式。
 
 ---
