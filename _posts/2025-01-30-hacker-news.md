@@ -27,7 +27,7 @@ tags:
 <small>🔗 [developer.mozilla.org](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/): JavaScript Temporal is coming</small>
 
 
-| 🔥🔥: 1165 \| 💬: [337](https://news.ycombinator.com/item?id=42876840) \| 🗓️ 2025-01-30
+| 🔥🔥: 1188 \| 💬: [340](https://news.ycombinator.com/item?id=42876840) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -39,7 +39,7 @@ JavaScript 即将引入 **Temporal** 对象，这是一个全新的日期和时�
 <small>🔗 [mistral.ai](https://mistral.ai/news/mistral-small-3/): Mistral Small 3</small>
 
 
-| 🔥🔥: 565 \| 💬: [175](https://news.ycombinator.com/item?id=42877860) \| 🗓️ 2025-01-30
+| 🔥🔥: 570 \| 💬: [175](https://news.ycombinator.com/item?id=42877860) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -51,7 +51,7 @@ Mistral AI 推出 **Mistral Small 3**，一款基于 Apache 2.0 许可的 24B �
 <small>🔗 [elitefourum.com](https://www.elitefourum.com/t/many-of-the-pokemon-playtest-cards-were-likely-printed-in-2024/52421): Many of the Pokemon playtest cards were likely printed in 2024</small>
 
 
-| 🔥🔥: 483 \| 💬: [307](https://news.ycombinator.com/item?id=42880704) \| 🗓️ 2025-01-30
+| 🔥🔥: 494 \| 💬: [318](https://news.ycombinator.com/item?id=42880704) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -63,7 +63,7 @@ Mistral AI 推出 **Mistral Small 3**，一款基于 Apache 2.0 许可的 24B �
 <small>🔗 [vatican.va](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html): Antiqua et Nova: Note on the relationship between AI and human intelligence</small>
 
 
-| 🔥🔥: 453 \| 💬: [390](https://news.ycombinator.com/item?id=42877709) \| 🗓️ 2025-01-30
+| 🔥🔥: 461 \| 💬: [394](https://news.ycombinator.com/item?id=42877709) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -75,7 +75,7 @@ Mistral AI 推出 **Mistral Small 3**，一款基于 Apache 2.0 许可的 24B �
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023): California law enforcement misused state databases more than 7k times in 2023</small>
 
 
-| 🔥🔥: 402 \| 💬: [191](https://news.ycombinator.com/item?id=42880807) \| 🗓️ 2025-01-30
+| 🔥🔥: 417 \| 💬: [196](https://news.ycombinator.com/item?id=42880807) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -87,7 +87,7 @@ Mistral AI 推出 **Mistral Small 3**，一款基于 Apache 2.0 许可的 24B �
 <small>🔗 [github.com](https://github.com/exelban/stats): Stats – macOS system monitor in your menu bar</small>
 
 
-| 🔥🔥: 245 \| 💬: [119](https://news.ycombinator.com/item?id=42881342) \| 🗓️ 2025-01-30
+| 🔥🔥: 259 \| 💬: [126](https://news.ycombinator.com/item?id=42881342) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -111,7 +111,7 @@ Stats 是一款 macOS 系统监控工具，可在菜单栏中实时显示 **CPU�
 <small>🔗 [blog.documentfoundation.org](https://blog.documentfoundation.org/blog/2025/01/30/400-million-downloads-and-counting/): LibreOffice 400M Downloads, and Counting</small>
 
 
-| 🔥🔥: 195 \| 💬: [76](https://news.ycombinator.com/item?id=42876998) \| 🗓️ 2025-01-30
+| 🔥🔥: 196 \| 💬: [76](https://news.ycombinator.com/item?id=42876998) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -119,23 +119,11 @@ Stats 是一款 macOS 系统监控工具，可在菜单栏中实时显示 **CPU�
 
 ---
 
-## <a name="9"></a>9. Audiocube – 专为空间音频设计的3D数字音频工作站 
-<small>🔗 [audiocube.app](https://www.audiocube.app): Show HN: Audiocube – A 3D DAW for Spatial Audio</small>
-
-
-| 🔥🔥: 171 \| 💬: [80](https://news.ycombinator.com/item?id=42877399) \| 🗓️ 2025-01-30
-
-
-<br />
-Audiocube 是一款独立的**3D音频工作站**，专为音乐和声音设计打造，提供超越传统VST插件的**空间音频处理能力**。用户可以通过直观的界面导入音频、调整声源位置、自定义声学模拟，并导出高质量音频文件。Audiocube 支持跨平台使用，内置2GB+音效库，适合追求**沉浸式音频体验**的创作者。
-
----
-
-## <a name="10"></a>10. Jane Street 如何意外地为 OCaml 构建了更好的构建系统 
+## <a name="9"></a>9. Jane Street 如何意外地为 OCaml 构建了更好的构建系统 
 <small>🔗 [blog.janestreet.com](https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/): How Jane Street accidentally built a better build system for OCaml</small>
 
 
-| 🔥🔥: 168 \| 💬: [75](https://news.ycombinator.com/item?id=42881724) \| 🗓️ 2025-01-30
+| 🔥🔥: 191 \| 💬: [77](https://news.ycombinator.com/item?id=42881724) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -143,11 +131,23 @@ Jane Street 最初因对 OMake 不满而开发了 **Jenga**，但因其局限性
 
 ---
 
+## <a name="10"></a>10. Audiocube – 专为空间音频设计的3D数字音频工作站 
+<small>🔗 [audiocube.app](https://www.audiocube.app): Show HN: Audiocube – A 3D DAW for Spatial Audio</small>
+
+
+| 🔥🔥: 175 \| 💬: [81](https://news.ycombinator.com/item?id=42877399) \| 🗓️ 2025-01-30
+
+
+<br />
+Audiocube 是一款独立的**3D音频工作站**，专为音乐和声音设计打造，提供超越传统VST插件的**空间音频处理能力**。用户可以通过直观的界面导入音频、调整声源位置、自定义声学模拟，并导出高质量音频文件。Audiocube 支持跨平台使用，内置2GB+音效库，适合追求**沉浸式音频体验**的创作者。
+
+---
+
 ## <a name="11"></a>11. 探究人类鼻形与气候适应的关系（2017） 
 <small>🔗 [journals.plos.org](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006616): Investigating the case of human nose shape and climate adaptation (2017)</small>
 
 
-| 🔥🔥: 131 \| 💬: [79](https://news.ycombinator.com/item?id=42875888) \| 🗓️ 2025-01-30
+| 🔥🔥: 131 \| 💬: [80](https://news.ycombinator.com/item?id=42875888) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -159,7 +159,7 @@ Jane Street 最初因对 OMake 不满而开发了 **Jenga**，但因其局限性
 <small>🔗 [thechinaacademy.org](https://thechinaacademy.org/interview-with-deepseek-founder-were-done-following-its-time-to-lead/): Interview with DeepSeek Founder: We're Done Following. It's Time to Lead</small>
 
 
-| 🔥🔥: 119 \| 💬: [50](https://news.ycombinator.com/item?id=42876940) \| 🗓️ 2025-01-30
+| 🔥🔥: 120 \| 💬: [50](https://news.ycombinator.com/item?id=42876940) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -167,7 +167,19 @@ DeepSeek创始人梁文峰表示，**DeepSeek-R1**以1/30的成本匹配OpenAI�
 
 ---
 
-## <a name="13"></a>13. GitHub 服务中断 
+## <a name="13"></a>13. Mini-R1：重现DeepSeek R1的“顿悟时刻” 
+<small>🔗 [philschmid.de](https://www.philschmid.de/mini-deepseek-r1): Mini-R1: Reproduce DeepSeek R1 "Aha Moment"</small>
+
+
+| 🔥🔥: 114 \| 💬: [5](https://news.ycombinator.com/item?id=42884834) \| 🗓️ 2025-01-30
+
+
+<br />
+DeepSeek R1通过**Group Relative Policy Optimization (GRPO)**和强化学习实现了复杂推理任务，展示了模型在无人类反馈下自我验证的能力。本文通过**Countdown Game**重现这一“顿悟时刻”，使用GRPO训练模型，使其自主解决数学谜题。训练过程包括生成推理前缀、奖励函数设计和分布式训练，展示了**强化学习**在提升模型推理能力中的潜力。
+
+---
+
+## <a name="14"></a>14. GitHub 服务中断 
 <small>🔗 [githubstatus.com](https://www.githubstatus.com): GitHub Is Down</small>
 
 
@@ -179,11 +191,11 @@ GitHub 目前出现**Pull Requests 和 Issues** 服务中断问题，用户可�
 
 ---
 
-## <a name="14"></a>14. 四元数与球面三角学 
+## <a name="15"></a>15. 四元数与球面三角学 
 <small>🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2024/12/19/quaternions-and-spherical-trigonometry/): Quaternions and spherical trigonometry</small>
 
 
-| 🔥🔥: 104 \| 💬: [45](https://news.ycombinator.com/item?id=42880242) \| 🗓️ 2025-01-30
+| 🔥🔥: 106 \| 💬: [46](https://news.ycombinator.com/item?id=42880242) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -191,35 +203,11 @@ GitHub 目前出现**Pull Requests 和 Issues** 服务中断问题，用户可�
 
 ---
 
-## <a name="15"></a>15. 谷歌为Pixel和Android团队员工提供“自愿离职”计划 
-<small>🔗 [9to5google.com](https://9to5google.com/2025/01/30/pixel-android-voluntary-exit-employees/): Google offering 'voluntary exit' for employees working on Pixel, Android</small>
-
-
-| 🔥: 96 \| 💬: [45](https://news.ycombinator.com/item?id=42880529) \| 🗓️ 2025-01-30
-
-
-<br />
-谷歌正在为**Pixel**和**Android**开发团队的员工提供**“自愿离职”**计划。此举可能是公司重组或调整战略的一部分，旨在优化资源配置。具体细节尚未公开，但这一举措可能影响相关项目的未来发展。
-
----
-
-## <a name="16"></a>16. 苏联APL语言的历史（1991） 
-<small>🔗 [dl.acm.org](https://dl.acm.org/doi/10.1145/130647.130656): A history of APL in the USSR (1991)</small>
-
-
-| 🔥: 93 \| 💬: [13](https://news.ycombinator.com/item?id=42877430) \| 🗓️ 2025-01-30
-
-
-<br />
-本文回顾了**APL语言**在苏联的发展历程，重点介绍了其在**BESM-6**和**ES计算机**等系统上的实现与应用。文章还探讨了APL在**教学**和**科学实验**中的创新应用，并总结了苏联APL系统的家族及其技术演进。
-
----
-
-## <a name="17"></a>17. TopoNets：具有类脑地形的高性能视觉与语言模型 
+## <a name="16"></a>16. TopoNets：具有类脑地形的高性能视觉与语言模型 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2501.16396): TopoNets: High performing vision and language models with brain-like topography</small>
 
 
-| 🔥: 93 \| 💬: [30](https://news.ycombinator.com/item?id=42884338) \| 🗓️ 2025-01-30
+| 🔥🔥: 103 \| 💬: [32](https://news.ycombinator.com/item?id=42884338) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -227,15 +215,27 @@ GitHub 目前出现**Pull Requests 和 Issues** 服务中断问题，用户可�
 
 ---
 
-## <a name="18"></a>18. 《超级绽放：连接技术如何撕裂我们》 
-<small>🔗 [lareviewofbooks.org](https://lareviewofbooks.org/article/the-case-for-kicking-the-stone/): Review: Superbloom: How Technologies of Connection Tear Us Apart</small>
+## <a name="17"></a>17. 谷歌为Pixel和Android团队员工提供“自愿离职”计划 
+<small>🔗 [9to5google.com](https://9to5google.com/2025/01/30/pixel-android-voluntary-exit-employees/): Google offering 'voluntary exit' for employees working on Pixel, Android</small>
 
 
-| 🔥: 84 \| 💬: [59](https://news.ycombinator.com/item?id=42878598) \| 🗓️ 2025-01-30
+| 🔥: 97 \| 💬: [45](https://news.ycombinator.com/item?id=42880529) \| 🗓️ 2025-01-30
 
 
 <br />
-尼古拉斯·卡尔在《超级绽放》中探讨了现代**连接技术**（如手机、社交媒体、人工智能）如何改变个人与社会。他指出，尽管这些技术带来了便利，但也导致了**信息过载**、社会分裂和**虚假信息**的泛滥。卡尔认为，问题不仅在于技术本身，还在于我们对其的误解和使用方式。
+谷歌正在为**Pixel**和**Android**开发团队的员工提供**“自愿离职”**计划。此举可能是公司重组或调整战略的一部分，旨在优化资源配置。具体细节尚未公开，但这一举措可能影响相关项目的未来发展。
+
+---
+
+## <a name="18"></a>18. 苏联APL语言的历史（1991） 
+<small>🔗 [dl.acm.org](https://dl.acm.org/doi/10.1145/130647.130656): A history of APL in the USSR (1991)</small>
+
+
+| 🔥: 94 \| 💬: [13](https://news.ycombinator.com/item?id=42877430) \| 🗓️ 2025-01-30
+
+
+<br />
+本文回顾了**APL语言**在苏联的发展历程，重点介绍了其在**BESM-6**和**ES计算机**等系统上的实现与应用。文章还探讨了APL在**教学**和**科学实验**中的创新应用，并总结了苏联APL系统的家族及其技术演进。
 
 ---
 
@@ -243,7 +243,7 @@ GitHub 目前出现**Pull Requests 和 Issues** 服务中断问题，用户可�
 <small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/COINTELPRO): Cointelpro</small>
 
 
-| 🔥: 84 \| 💬: [20](https://news.ycombinator.com/item?id=42880513) \| 🗓️ 2025-01-30
+| 🔥: 86 \| 💬: [20](https://news.ycombinator.com/item?id=42880513) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -251,14 +251,14 @@ COINTELPRO是1956年至1971年间美国联邦调查局（FBI）进行的一系�
 
 ---
 
-## <a name="20"></a>20. 一位年轻人用AI建造了核聚变装置 
-<small>🔗 [corememory.com](https://www.corememory.com/p/a-young-man-used-ai-to-build-a-nuclear): A Young Man Used AI to Build a Nuclear Fusor</small>
+## <a name="20"></a>20. 《超级绽放：连接技术如何撕裂我们》 
+<small>🔗 [lareviewofbooks.org](https://lareviewofbooks.org/article/the-case-for-kicking-the-stone/): Review: Superbloom: How Technologies of Connection Tear Us Apart</small>
 
 
-| 🔥: 82 \| 💬: [68](https://news.ycombinator.com/item?id=42875900) \| 🗓️ 2025-01-30
+| 🔥: 85 \| 💬: [59](https://news.ycombinator.com/item?id=42878598) \| 🗓️ 2025-01-30
 
 
 <br />
-一位20岁的数学学生**HudZah**在暑假期间，借助**Anthropic的Claude AI**指导，在家中成功建造了一个**核聚变装置**。尽管Claude最初因安全问题拒绝提供帮助，但HudZah通过不断输入数据和细化问题，最终获得了详细指导。这一实验引发了关于AI安全性和新一代“AI原生”技术使用方式的讨论。
+尼古拉斯·卡尔在《超级绽放》中探讨了现代**连接技术**（如手机、社交媒体、人工智能）如何改变个人与社会。他指出，尽管这些技术带来了便利，但也导致了**信息过载**、社会分裂和**虚假信息**的泛滥。卡尔认为，问题不仅在于技术本身，还在于我们对其的误解和使用方式。
 
 ---
