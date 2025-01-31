@@ -27,7 +27,7 @@ tags:
 <small>🔗 [developer.mozilla.org](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/): JavaScript Temporal is coming</small>
 
 
-| 🔥🔥: 1141 \| 💬: [337](https://news.ycombinator.com/item?id=42876840) \| 🗓️ 2025-01-30
+| 🔥🔥: 1165 \| 💬: [337](https://news.ycombinator.com/item?id=42876840) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -39,7 +39,7 @@ JavaScript 即将引入 **Temporal** 对象，这是一个全新的日期和时�
 <small>🔗 [mistral.ai](https://mistral.ai/news/mistral-small-3/): Mistral Small 3</small>
 
 
-| 🔥🔥: 564 \| 💬: [175](https://news.ycombinator.com/item?id=42877860) \| 🗓️ 2025-01-30
+| 🔥🔥: 565 \| 💬: [175](https://news.ycombinator.com/item?id=42877860) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -51,7 +51,7 @@ Mistral AI 推出 **Mistral Small 3**，一款基于 Apache 2.0 许可的 24B �
 <small>🔗 [elitefourum.com](https://www.elitefourum.com/t/many-of-the-pokemon-playtest-cards-were-likely-printed-in-2024/52421): Many of the Pokemon playtest cards were likely printed in 2024</small>
 
 
-| 🔥🔥: 473 \| 💬: [298](https://news.ycombinator.com/item?id=42880704) \| 🗓️ 2025-01-30
+| 🔥🔥: 483 \| 💬: [307](https://news.ycombinator.com/item?id=42880704) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -63,7 +63,7 @@ Mistral AI 推出 **Mistral Small 3**，一款基于 Apache 2.0 许可的 24B �
 <small>🔗 [vatican.va](https://www.vatican.va/roman_curia/congregations/cfaith/documents/rc_ddf_doc_20250128_antiqua-et-nova_en.html): Antiqua et Nova: Note on the relationship between AI and human intelligence</small>
 
 
-| 🔥🔥: 447 \| 💬: [389](https://news.ycombinator.com/item?id=42877709) \| 🗓️ 2025-01-30
+| 🔥🔥: 453 \| 💬: [390](https://news.ycombinator.com/item?id=42877709) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -75,7 +75,7 @@ Mistral AI 推出 **Mistral Small 3**，一款基于 Apache 2.0 许可的 24B �
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/01/california-police-misused-state-databases-more-7000-times-2023): California law enforcement misused state databases more than 7k times in 2023</small>
 
 
-| 🔥🔥: 392 \| 💬: [183](https://news.ycombinator.com/item?id=42880807) \| 🗓️ 2025-01-30
+| 🔥🔥: 402 \| 💬: [191](https://news.ycombinator.com/item?id=42880807) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -87,7 +87,7 @@ Mistral AI 推出 **Mistral Small 3**，一款基于 Apache 2.0 许可的 24B �
 <small>🔗 [github.com](https://github.com/exelban/stats): Stats – macOS system monitor in your menu bar</small>
 
 
-| 🔥🔥: 231 \| 💬: [112](https://news.ycombinator.com/item?id=42881342) \| 🗓️ 2025-01-30
+| 🔥🔥: 245 \| 💬: [119](https://news.ycombinator.com/item?id=42881342) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -99,7 +99,7 @@ Stats 是一款 macOS 系统监控工具，可在菜单栏中实时显示 **CPU�
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/climate/comments/1idiliv/the_us_governments_open_data_on_datagov_is/): The US government's open data on Data.gov is currently being scrubbed</small>
 
 
-| 🔥🔥: 203 \| 💬: [41](https://news.ycombinator.com/item?id=42876055) \| 🗓️ 2025-01-30
+| 🔥🔥: 205 \| 💬: [44](https://news.ycombinator.com/item?id=42876055) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -123,7 +123,7 @@ Stats 是一款 macOS 系统监控工具，可在菜单栏中实时显示 **CPU�
 <small>🔗 [audiocube.app](https://www.audiocube.app): Show HN: Audiocube – A 3D DAW for Spatial Audio</small>
 
 
-| 🔥🔥: 168 \| 💬: [80](https://news.ycombinator.com/item?id=42877399) \| 🗓️ 2025-01-30
+| 🔥🔥: 171 \| 💬: [80](https://news.ycombinator.com/item?id=42877399) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -135,7 +135,7 @@ Audiocube 是一款独立的**3D音频工作站**，专为音乐和声音设计�
 <small>🔗 [blog.janestreet.com](https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/): How Jane Street accidentally built a better build system for OCaml</small>
 
 
-| 🔥🔥: 148 \| 💬: [68](https://news.ycombinator.com/item?id=42881724) \| 🗓️ 2025-01-30
+| 🔥🔥: 168 \| 💬: [75](https://news.ycombinator.com/item?id=42881724) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -147,7 +147,7 @@ Jane Street 最初因对 OMake 不满而开发了 **Jenga**，但因其局限性
 <small>🔗 [journals.plos.org](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006616): Investigating the case of human nose shape and climate adaptation (2017)</small>
 
 
-| 🔥🔥: 131 \| 💬: [78](https://news.ycombinator.com/item?id=42875888) \| 🗓️ 2025-01-30
+| 🔥🔥: 131 \| 💬: [79](https://news.ycombinator.com/item?id=42875888) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -183,7 +183,7 @@ GitHub 目前出现**Pull Requests 和 Issues** 服务中断问题，用户可�
 <small>🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2024/12/19/quaternions-and-spherical-trigonometry/): Quaternions and spherical trigonometry</small>
 
 
-| 🔥🔥: 102 \| 💬: [45](https://news.ycombinator.com/item?id=42880242) \| 🗓️ 2025-01-30
+| 🔥🔥: 104 \| 💬: [45](https://news.ycombinator.com/item?id=42880242) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -195,7 +195,7 @@ GitHub 目前出现**Pull Requests 和 Issues** 服务中断问题，用户可�
 <small>🔗 [9to5google.com](https://9to5google.com/2025/01/30/pixel-android-voluntary-exit-employees/): Google offering 'voluntary exit' for employees working on Pixel, Android</small>
 
 
-| 🔥: 92 \| 💬: [44](https://news.ycombinator.com/item?id=42880529) \| 🗓️ 2025-01-30
+| 🔥: 96 \| 💬: [45](https://news.ycombinator.com/item?id=42880529) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -207,7 +207,7 @@ GitHub 目前出现**Pull Requests 和 Issues** 服务中断问题，用户可�
 <small>🔗 [dl.acm.org](https://dl.acm.org/doi/10.1145/130647.130656): A history of APL in the USSR (1991)</small>
 
 
-| 🔥: 91 \| 💬: [11](https://news.ycombinator.com/item?id=42877430) \| 🗓️ 2025-01-30
+| 🔥: 93 \| 💬: [13](https://news.ycombinator.com/item?id=42877430) \| 🗓️ 2025-01-30
 
 
 <br />
@@ -215,7 +215,31 @@ GitHub 目前出现**Pull Requests 和 Issues** 服务中断问题，用户可�
 
 ---
 
-## <a name="17"></a>17. COINTELPRO（反情报计划） 
+## <a name="17"></a>17. TopoNets：具有类脑地形的高性能视觉与语言模型 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2501.16396): TopoNets: High performing vision and language models with brain-like topography</small>
+
+
+| 🔥: 93 \| 💬: [30](https://news.ycombinator.com/item?id=42884338) \| 🗓️ 2025-01-30
+
+
+<br />
+本文提出了一种名为**TopoLoss**的新损失函数，能够在AI模型中促进空间组织的地形表示，而不会显著牺牲任务性能。通过将TopoLoss集成到主流模型架构（如ResNet、ViT、GPT等）中，作者开发了**TopoNets**，这是迄今为止性能最高的监督地形模型。TopoNets表现出类脑特性，如局部特征处理、低维度和高效性，并能预测大脑反应，模拟视觉和语言皮层的关键地形特征。这一工作为将地形整合到主流模型架构中提供了通用框架，推动了更接近人脑计算策略的高性能模型的发展。
+
+---
+
+## <a name="18"></a>18. 《超级绽放：连接技术如何撕裂我们》 
+<small>🔗 [lareviewofbooks.org](https://lareviewofbooks.org/article/the-case-for-kicking-the-stone/): Review: Superbloom: How Technologies of Connection Tear Us Apart</small>
+
+
+| 🔥: 84 \| 💬: [59](https://news.ycombinator.com/item?id=42878598) \| 🗓️ 2025-01-30
+
+
+<br />
+尼古拉斯·卡尔在《超级绽放》中探讨了现代**连接技术**（如手机、社交媒体、人工智能）如何改变个人与社会。他指出，尽管这些技术带来了便利，但也导致了**信息过载**、社会分裂和**虚假信息**的泛滥。卡尔认为，问题不仅在于技术本身，还在于我们对其的误解和使用方式。
+
+---
+
+## <a name="19"></a>19. COINTELPRO（反情报计划） 
 <small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/COINTELPRO): Cointelpro</small>
 
 
@@ -227,7 +251,7 @@ COINTELPRO是1956年至1971年间美国联邦调查局（FBI）进行的一系�
 
 ---
 
-## <a name="18"></a>18. 一位年轻人用AI建造了核聚变装置 
+## <a name="20"></a>20. 一位年轻人用AI建造了核聚变装置 
 <small>🔗 [corememory.com](https://www.corememory.com/p/a-young-man-used-ai-to-build-a-nuclear): A Young Man Used AI to Build a Nuclear Fusor</small>
 
 
@@ -236,29 +260,5 @@ COINTELPRO是1956年至1971年间美国联邦调查局（FBI）进行的一系�
 
 <br />
 一位20岁的数学学生**HudZah**在暑假期间，借助**Anthropic的Claude AI**指导，在家中成功建造了一个**核聚变装置**。尽管Claude最初因安全问题拒绝提供帮助，但HudZah通过不断输入数据和细化问题，最终获得了详细指导。这一实验引发了关于AI安全性和新一代“AI原生”技术使用方式的讨论。
-
----
-
-## <a name="19"></a>19. 《超级绽放：连接技术如何撕裂我们》 
-<small>🔗 [lareviewofbooks.org](https://lareviewofbooks.org/article/the-case-for-kicking-the-stone/): Review: Superbloom: How Technologies of Connection Tear Us Apart</small>
-
-
-| 🔥: 81 \| 💬: [57](https://news.ycombinator.com/item?id=42878598) \| 🗓️ 2025-01-30
-
-
-<br />
-尼古拉斯·卡尔在《超级绽放》中探讨了现代**连接技术**（如手机、社交媒体、人工智能）如何改变个人与社会。他指出，尽管这些技术带来了便利，但也导致了**信息过载**、社会分裂和**虚假信息**的泛滥。卡尔认为，问题不仅在于技术本身，还在于我们对其的误解和使用方式。
-
----
-
-## <a name="20"></a>20. 我建了一个网站，你可以无缘无故地放彩带 
-<small>🔗 [poptheconfetti.website](https://poptheconfetti.website): I built a website where you can pop confettis for no reason</small>
-
-
-| 🔥: 80 \| 💬: [39](https://news.ycombinator.com/item?id=42875985) \| 🗓️ 2025-01-30
-
-
-<br />
-这个网站允许用户**随意点击释放彩带**，纯粹为了娱乐。需要**启用JavaScript**才能运行。属于**Show HN**类别，展示了简单的创意和趣味性。
 
 ---
