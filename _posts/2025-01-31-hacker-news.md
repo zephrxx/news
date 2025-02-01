@@ -27,7 +27,7 @@ tags:
 <small>🔗 [gizmodo.com](https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710): Add "fucking" to your Google searches to neutralize AI summaries</small>
 
 
-| 🔥🔥: 535 \| 💬: [256](https://news.ycombinator.com/item?id=42892191) \| 🗓️ 2025-01-31
+| 🔥🔥: 566 \| 💬: [269](https://news.ycombinator.com/item?id=42892191) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [substack.com](https://substack.com/home/post/p-156004330): Bypass DeepSeek censorship by speaking in hex</small>
 
 
-| 🔥🔥: 353 \| 💬: [200](https://news.ycombinator.com/item?id=42891042) \| 🗓️ 2025-01-31
+| 🔥🔥: 366 \| 💬: [211](https://news.ycombinator.com/item?id=42891042) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [storage.courtlistener.com](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1158.0_1.pdf): Apple files emergency motion to become defendant in US vs. Google [pdf]</small>
 
 
-| 🔥🔥: 352 \| 💬: [366](https://news.ycombinator.com/item?id=42889297) \| 🗓️ 2025-01-31
+| 🔥🔥: 357 \| 💬: [373](https://news.ycombinator.com/item?id=42889297) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/01/23/technology/instagram-facebook-abortion-pill-providers.html): Instagram and Facebook Blocked and Hid Abortion Pill Providers' Posts</small>
 
 
-| 🔥🔥: 252 \| 💬: [155](https://news.ycombinator.com/item?id=42891148) \| 🗓️ 2025-01-31
+| 🔥🔥: 259 \| 💬: [160](https://news.ycombinator.com/item?id=42891148) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -75,7 +75,7 @@ Instagram和Facebook最近对两家堕胎药提供者的帖子进行了**模糊�
 <small>🔗 [truthout.org](https://truthout.org/articles/tesla-paid-zero-federal-income-tax-in-2024-despite-2-3-billion-in-income/): Tesla Paid Zero Federal Income Tax in 2024, Despite $2.3B in Income</small>
 
 
-| 🔥🔥: 233 \| 💬: [173](https://news.ycombinator.com/item?id=42893365) \| 🗓️ 2025-01-31
+| 🔥🔥: 238 \| 💬: [179](https://news.ycombinator.com/item?id=42893365) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -87,7 +87,7 @@ Instagram和Facebook最近对两家堕胎药提供者的帖子进行了**模糊�
 <small>🔗 [frontiersin.org](https://www.frontiersin.org/news/2025/01/31/ear-muscle-wiggling-ears-activates-listening-frontiers-neuroscience): Ear muscle we thought humans didn't use activates when people listen hard</small>
 
 
-| 🔥🔥: 220 \| 💬: [179](https://news.ycombinator.com/item?id=42886867) \| 🗓️ 2025-01-31
+| 🔥🔥: 221 \| 💬: [179](https://news.ycombinator.com/item?id=42886867) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -99,7 +99,7 @@ Instagram和Facebook最近对两家堕胎药提供者的帖子进行了**模糊�
 <small>🔗 [github.com](https://github.com/jcalabro/uscope): Show HN: Uscope, a new Linux debugger written from scratch</small>
 
 
-| 🔥🔥: 189 \| 💬: [104](https://news.ycombinator.com/item?id=42889407) \| 🗓️ 2025-01-31
+| 🔥🔥: 195 \| 💬: [106](https://news.ycombinator.com/item?id=42889407) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -111,7 +111,7 @@ Instagram和Facebook最近对两家堕胎药提供者的帖子进行了**模糊�
 <small>🔗 [coryzue.com](https://www.coryzue.com/writing/make-ai-pictures-of-yourself/): How to Train an AI Image Model on Yourself</small>
 
 
-| 🔥🔥: 170 \| 💬: [37](https://news.ycombinator.com/item?id=42889236) \| 🗓️ 2025-01-31
+| 🔥🔥: 171 \| 💬: [37](https://news.ycombinator.com/item?id=42889236) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -123,7 +123,7 @@ Instagram和Facebook最近对两家堕胎药提供者的帖子进行了**模糊�
 <small>🔗 [a.wholelottanothing.org](https://a.wholelottanothing.org/when-everything-becomes-a-profit-center/): Three AM 911 call, 9 AM salesman</small>
 
 
-| 🔥🔥: 157 \| 💬: [78](https://news.ycombinator.com/item?id=42889777) \| 🗓️ 2025-01-31
+| 🔥🔥: 158 \| 💬: [78](https://news.ycombinator.com/item?id=42889777) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -143,23 +143,11 @@ RamaLama 是一个旨在简化AI模型管理的工具，通过使用**OCI容器*
 
 ---
 
-## <a name="11"></a>11. 美国政府机构辩称金钱不是财产——因此可以没收你的钱 
-<small>🔗 [reason.com](https://reason.com/2025/01/31/the-government-says-money-isnt-property-so-it-can-take-yours/): US government agency argues that money isn't property–so it can take yours</small>
-
-
-| 🔥🔥: 129 \| 💬: [117](https://news.ycombinator.com/item?id=42891724) \| 🗓️ 2025-01-31
-
-
-<br />
-美国司法部在一案件中辩称，没收小企业5万美元不侵犯其财产权，因为**金钱不是财产**。其理由包括政府创造货币、可征税及宪法允许为“公共福利”支出。此案涉及马里兰州一家小型园林企业，业主Chuck Saine正通过法律抗争，要求**公正审判**。司法部认为**法定货币**是法律虚构，政府可随意处置，但最高法院多次将金钱视为财产。此案将决定金钱是否受宪法保护。
-
----
-
-## <a name="12"></a>12. 6502上的《精英》：原始6502汇编源代码，附带详细注释 
+## <a name="11"></a>11. 6502上的《精英》：原始6502汇编源代码，附带详细注释 
 <small>🔗 [elite.bbcelite.com](https://elite.bbcelite.com/): Elite on the 6502: The original 6502 assembly source, heavily commented</small>
 
 
-| 🔥🔥: 126 \| 💬: [25](https://news.ycombinator.com/item?id=42891200) \| 🗓️ 2025-01-31
+| 🔥🔥: 130 \| 💬: [28](https://news.ycombinator.com/item?id=42891200) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -167,11 +155,23 @@ RamaLama 是一个旨在简化AI模型管理的工具，通过使用**OCI容器*
 
 ---
 
+## <a name="12"></a>12. 美国政府机构辩称金钱不是财产——因此可以没收你的钱 
+<small>🔗 [reason.com](https://reason.com/2025/01/31/the-government-says-money-isnt-property-so-it-can-take-yours/): US government agency argues that money isn't property–so it can take yours</small>
+
+
+| 🔥🔥: 130 \| 💬: [117](https://news.ycombinator.com/item?id=42891724) \| 🗓️ 2025-01-31
+
+
+<br />
+美国司法部在一案件中辩称，没收小企业5万美元不侵犯其财产权，因为**金钱不是财产**。其理由包括政府创造货币、可征税及宪法允许为“公共福利”支出。此案涉及马里兰州一家小型园林企业，业主Chuck Saine正通过法律抗争，要求**公正审判**。司法部认为**法定货币**是法律虚构，政府可随意处置，但最高法院多次将金钱视为财产。此案将决定金钱是否受宪法保护。
+
+---
+
 ## <a name="13"></a>13. 生成式AI艺术是AI最缺乏想象力的应用 
 <small>🔗 [hai.stanford.edu](https://hai.stanford.edu/news/ge-wang-genai-art-least-imaginative-use-ai-imaginable): GenAI Art Is the Least Imaginative Use of AI Imaginable</small>
 
 
-| 🔥🔥: 120 \| 💬: [120](https://news.ycombinator.com/item?id=42891821) \| 🗓️ 2025-01-31
+| 🔥🔥: 120 \| 💬: [125](https://news.ycombinator.com/item?id=42891821) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -179,23 +179,11 @@ Ge Wang批评生成式AI艺术（如Suno的音乐生成服务）**忽视了创�
 
 ---
 
-## <a name="14"></a>14. 张量烹饪书 
-<small>🔗 [tensorcookbook.com](https://tensorcookbook.com/): The Tensor Cookbook</small>
-
-
-| 🔥🔥: 112 \| 💬: [12](https://news.ycombinator.com/item?id=42890389) \| 🗓️ 2025-01-31
-
-
-<br />
-本书旨在通过**张量图**标准化张量操作表示法，替代传统矩阵表示法。张量图能**直观展示模式和对称性**，简化矩阵微积分，并轻松处理函数和广播操作。书中还介绍了**Tensorgrad**库，用于符号张量操作和导数计算，涵盖机器学习应用等广泛主题。
-
----
-
-## <a name="15"></a>15. FBI与荷兰警方捣毁“操纵者”网络钓鱼团伙 
+## <a name="14"></a>14. FBI与荷兰警方捣毁“操纵者”网络钓鱼团伙 
 <small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/01/fbi-dutch-police-disrupt-manipulaters-phishing-gang/): FBI, Dutch police disrupt 'Manipulaters' phishing gang</small>
 
 
-| 🔥🔥: 111 \| 💬: [35](https://news.ycombinator.com/item?id=42890290) \| 🗓️ 2025-01-31
+| 🔥🔥: 116 \| 💬: [35](https://news.ycombinator.com/item?id=42890290) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -203,11 +191,11 @@ FBI与荷兰警方本周查封了位于巴基斯坦的**“操纵者”**团伙�
 
 ---
 
-## <a name="16"></a>16. 与恶心共存：我的故事通过六张图表呈现 
+## <a name="15"></a>15. 与恶心共存：我的故事通过六张图表呈现 
 <small>🔗 [c82.net](https://www.c82.net/blog/?id=96): Living with Nausea: My Story in Six Charts</small>
 
 
-| 🔥🔥: 109 \| 💬: [54](https://news.ycombinator.com/item?id=42889700) \| 🗓️ 2025-01-31
+| 🔥🔥: 115 \| 💬: [55](https://news.ycombinator.com/item?id=42889700) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -215,35 +203,23 @@ FBI与荷兰警方本周查封了位于巴基斯坦的**“操纵者”**团伙�
 
 ---
 
-## <a name="17"></a>17. 用 Go 轻松编写类 Shell 脚本 
-<small>🔗 [github.com](https://github.com/bitfield/script): Shell-ish scripting in Go with ease</small>
+## <a name="16"></a>16. 张量烹饪书 
+<small>🔗 [tensorcookbook.com](https://tensorcookbook.com/): The Tensor Cookbook</small>
 
 
-| 🔥🔥: 105 \| 💬: [35](https://news.ycombinator.com/item?id=42889465) \| 🗓️ 2025-01-31
-
-
-<br />
-**script** 是一个 Go 库，旨在简化系统管理任务的编写，使其像 Shell 脚本一样简单。它通过**管道操作**处理数据流，支持文件读取、子进程执行、字符串匹配等常见任务。**script** 提供了与 Unix 工具（如 `cat`、`grep`、`curl` 等）等效的功能，并允许通过 Go 的强大类型检查和错误处理来构建复杂的管道。适用于需要自动化任务的开发者。
-
----
-
-## <a name="18"></a>18. 修复Atari 2600上的《E.T.外星人》游戏（2013） 
-<small>🔗 [neocomputer.org](http://www.neocomputer.org/projects/et/): Fixing E.T. The Extra-Terrestrial for the Atari 2600 (2013)</small>
-
-
-| 🔥🔥: 103 \| 💬: [34](https://news.ycombinator.com/item?id=42889139) \| 🗓️ 2025-01-31
+| 🔥🔥: 115 \| 💬: [14](https://news.ycombinator.com/item?id=42890389) \| 🗓️ 2025-01-31
 
 
 <br />
-本文探讨了为何《E.T.外星人》游戏在Atari 2600上备受诟病，并提出了修复方案。**主要问题**包括玩家频繁掉入井中、游戏难度过高以及**像素级碰撞检测**的不合理设计。通过修改ROM代码，作者解决了这些问题，使游戏体验更加流畅。此外，还增加了新的游戏模式和彩蛋，如**忍者E.T.**。
+本书旨在通过**张量图**标准化张量操作表示法，替代传统矩阵表示法。张量图能**直观展示模式和对称性**，简化矩阵微积分，并轻松处理函数和广播操作。书中还介绍了**Tensorgrad**库，用于符号张量操作和导数计算，涵盖机器学习应用等广泛主题。
 
 ---
 
-## <a name="19"></a>19. 谷歌向美国平台和设备部门员工提供“自愿离职”计划 
+## <a name="17"></a>17. 谷歌向美国平台和设备部门员工提供“自愿离职”计划 
 <small>🔗 [theverge.com](https://www.theverge.com/news/603432/google-voluntary-exit-platforms-devices-team): Google offers 'voluntary exit' to all US platforms and devices employees</small>
 
 
-| 🔥: 99 \| 💬: [25](https://news.ycombinator.com/item?id=42893463) \| 🗓️ 2025-01-31
+| 🔥🔥: 111 \| 💬: [27](https://news.ycombinator.com/item?id=42893463) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -251,11 +227,35 @@ FBI与荷兰警方本周查封了位于巴基斯坦的**“操纵者”**团伙�
 
 ---
 
+## <a name="18"></a>18. 用 Go 轻松编写类 Shell 脚本 
+<small>🔗 [github.com](https://github.com/bitfield/script): Shell-ish scripting in Go with ease</small>
+
+
+| 🔥🔥: 110 \| 💬: [36](https://news.ycombinator.com/item?id=42889465) \| 🗓️ 2025-01-31
+
+
+<br />
+**script** 是一个 Go 库，旨在简化系统管理任务的编写，使其像 Shell 脚本一样简单。它通过**管道操作**处理数据流，支持文件读取、子进程执行、字符串匹配等常见任务。**script** 提供了与 Unix 工具（如 `cat`、`grep`、`curl` 等）等效的功能，并允许通过 Go 的强大类型检查和错误处理来构建复杂的管道。适用于需要自动化任务的开发者。
+
+---
+
+## <a name="19"></a>19. 修复Atari 2600上的《E.T.外星人》游戏（2013） 
+<small>🔗 [neocomputer.org](http://www.neocomputer.org/projects/et/): Fixing E.T. The Extra-Terrestrial for the Atari 2600 (2013)</small>
+
+
+| 🔥🔥: 105 \| 💬: [35](https://news.ycombinator.com/item?id=42889139) \| 🗓️ 2025-01-31
+
+
+<br />
+本文探讨了为何《E.T.外星人》游戏在Atari 2600上备受诟病，并提出了修复方案。**主要问题**包括玩家频繁掉入井中、游戏难度过高以及**像素级碰撞检测**的不合理设计。通过修改ROM代码，作者解决了这些问题，使游戏体验更加流畅。此外，还增加了新的游戏模式和彩蛋，如**忍者E.T.**。
+
+---
+
 ## <a name="20"></a>20. Zusie – 我的继电器计算机 
 <small>🔗 [nablaman.com](http://www.nablaman.com/relay/about.php): Zusie – My Relay Computer</small>
 
 
-| 🔥: 98 \| 💬: [29](https://news.ycombinator.com/item?id=42889308) \| 🗓️ 2025-01-31
+| 🔥: 100 \| 💬: [29](https://news.ycombinator.com/item?id=42889308) \| 🗓️ 2025-01-31
 
 
 <br />
