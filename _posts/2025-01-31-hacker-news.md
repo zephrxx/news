@@ -9,8 +9,8 @@ tags:
 
 
 1. 在Google搜索中加入“fucking”以禁用AI摘要；
-1. 苹果提交紧急动议，要求成为美国诉谷歌案的被告；
 1. 通过十六进制绕过DeepSeek审查；
+1. 苹果提交紧急动议，要求成为美国诉谷歌案的被告；
 1. Instagram和Facebook屏蔽并隐藏了堕胎药提供者的帖子；
 1. 特斯拉2024年收入23亿美元却未缴纳联邦所得税；
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [gizmodo.com](https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710): Add "fucking" to your Google searches to neutralize AI summaries</small>
 
 
-| 🔥🔥: 485 \| 💬: [228](https://news.ycombinator.com/item?id=42892191) \| 🗓️ 2025-01-31
+| 🔥🔥: 535 \| 💬: [256](https://news.ycombinator.com/item?id=42892191) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -35,23 +35,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. 苹果提交紧急动议，要求成为美国诉谷歌案的被告 
-<small>🔗 [storage.courtlistener.com](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1158.0_1.pdf): Apple files emergency motion to become defendant in US vs. Google [pdf]</small>
-
-
-| 🔥🔥: 349 \| 💬: [361](https://news.ycombinator.com/item?id=42889297) \| 🗓️ 2025-01-31
-
-
-<br />
-苹果公司提交了一份紧急动议，要求加入美国政府对谷歌的反垄断诉讼，成为**被告**之一。此举可能是为了在诉讼中保护其商业利益，尤其是与**搜索引擎协议**相关的部分。苹果与谷歌之间的合作关系一直是反垄断调查的焦点，涉及**巨额收入分成**。
-
----
-
-## <a name="3"></a>3. 通过十六进制绕过DeepSeek审查 
+## <a name="2"></a>2. 通过十六进制绕过DeepSeek审查 
 <small>🔗 [substack.com](https://substack.com/home/post/p-156004330): Bypass DeepSeek censorship by speaking in hex</small>
 
 
-| 🔥🔥: 333 \| 💬: [190](https://news.ycombinator.com/item?id=42891042) \| 🗓️ 2025-01-31
+| 🔥🔥: 353 \| 💬: [200](https://news.ycombinator.com/item?id=42891042) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -59,11 +47,23 @@ tags:
 
 ---
 
+## <a name="3"></a>3. 苹果提交紧急动议，要求成为美国诉谷歌案的被告 
+<small>🔗 [storage.courtlistener.com](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1158.0_1.pdf): Apple files emergency motion to become defendant in US vs. Google [pdf]</small>
+
+
+| 🔥🔥: 352 \| 💬: [366](https://news.ycombinator.com/item?id=42889297) \| 🗓️ 2025-01-31
+
+
+<br />
+苹果公司提交了一份紧急动议，要求加入美国政府对谷歌的反垄断诉讼，成为**被告**之一。此举可能是为了在诉讼中保护其商业利益，尤其是与**搜索引擎协议**相关的部分。苹果与谷歌之间的合作关系一直是反垄断调查的焦点，涉及**巨额收入分成**。
+
+---
+
 ## <a name="4"></a>4. Instagram和Facebook屏蔽并隐藏了堕胎药提供者的帖子 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/01/23/technology/instagram-facebook-abortion-pill-providers.html): Instagram and Facebook Blocked and Hid Abortion Pill Providers' Posts</small>
 
 
-| 🔥🔥: 241 \| 💬: [148](https://news.ycombinator.com/item?id=42891148) \| 🗓️ 2025-01-31
+| 🔥🔥: 252 \| 💬: [155](https://news.ycombinator.com/item?id=42891148) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -75,7 +75,7 @@ Instagram和Facebook最近对两家堕胎药提供者的帖子进行了**模糊�
 <small>🔗 [truthout.org](https://truthout.org/articles/tesla-paid-zero-federal-income-tax-in-2024-despite-2-3-billion-in-income/): Tesla Paid Zero Federal Income Tax in 2024, Despite $2.3B in Income</small>
 
 
-| 🔥🔥: 219 \| 💬: [152](https://news.ycombinator.com/item?id=42893365) \| 🗓️ 2025-01-31
+| 🔥🔥: 233 \| 💬: [173](https://news.ycombinator.com/item?id=42893365) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -87,7 +87,7 @@ Instagram和Facebook最近对两家堕胎药提供者的帖子进行了**模糊�
 <small>🔗 [frontiersin.org](https://www.frontiersin.org/news/2025/01/31/ear-muscle-wiggling-ears-activates-listening-frontiers-neuroscience): Ear muscle we thought humans didn't use activates when people listen hard</small>
 
 
-| 🔥🔥: 215 \| 💬: [178](https://news.ycombinator.com/item?id=42886867) \| 🗓️ 2025-01-31
+| 🔥🔥: 220 \| 💬: [179](https://news.ycombinator.com/item?id=42886867) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -99,7 +99,7 @@ Instagram和Facebook最近对两家堕胎药提供者的帖子进行了**模糊�
 <small>🔗 [github.com](https://github.com/jcalabro/uscope): Show HN: Uscope, a new Linux debugger written from scratch</small>
 
 
-| 🔥🔥: 181 \| 💬: [102](https://news.ycombinator.com/item?id=42889407) \| 🗓️ 2025-01-31
+| 🔥🔥: 189 \| 💬: [104](https://news.ycombinator.com/item?id=42889407) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -111,7 +111,7 @@ Instagram和Facebook最近对两家堕胎药提供者的帖子进行了**模糊�
 <small>🔗 [coryzue.com](https://www.coryzue.com/writing/make-ai-pictures-of-yourself/): How to Train an AI Image Model on Yourself</small>
 
 
-| 🔥🔥: 168 \| 💬: [37](https://news.ycombinator.com/item?id=42889236) \| 🗓️ 2025-01-31
+| 🔥🔥: 170 \| 💬: [37](https://news.ycombinator.com/item?id=42889236) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -147,7 +147,7 @@ RamaLama 是一个旨在简化AI模型管理的工具，通过使用**OCI容器*
 <small>🔗 [reason.com](https://reason.com/2025/01/31/the-government-says-money-isnt-property-so-it-can-take-yours/): US government agency argues that money isn't property–so it can take yours</small>
 
 
-| 🔥🔥: 128 \| 💬: [117](https://news.ycombinator.com/item?id=42891724) \| 🗓️ 2025-01-31
+| 🔥🔥: 129 \| 💬: [117](https://news.ycombinator.com/item?id=42891724) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -159,7 +159,7 @@ RamaLama 是一个旨在简化AI模型管理的工具，通过使用**OCI容器*
 <small>🔗 [elite.bbcelite.com](https://elite.bbcelite.com/): Elite on the 6502: The original 6502 assembly source, heavily commented</small>
 
 
-| 🔥🔥: 119 \| 💬: [24](https://news.ycombinator.com/item?id=42891200) \| 🗓️ 2025-01-31
+| 🔥🔥: 126 \| 💬: [25](https://news.ycombinator.com/item?id=42891200) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -171,7 +171,7 @@ RamaLama 是一个旨在简化AI模型管理的工具，通过使用**OCI容器*
 <small>🔗 [hai.stanford.edu](https://hai.stanford.edu/news/ge-wang-genai-art-least-imaginative-use-ai-imaginable): GenAI Art Is the Least Imaginative Use of AI Imaginable</small>
 
 
-| 🔥🔥: 118 \| 💬: [118](https://news.ycombinator.com/item?id=42891821) \| 🗓️ 2025-01-31
+| 🔥🔥: 120 \| 💬: [120](https://news.ycombinator.com/item?id=42891821) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -179,47 +179,11 @@ Ge Wang批评生成式AI艺术（如Suno的音乐生成服务）**忽视了创�
 
 ---
 
-## <a name="14"></a>14. 与恶心共存：我的故事通过六张图表呈现 
-<small>🔗 [c82.net](https://www.c82.net/blog/?id=96): Living with Nausea: My Story in Six Charts</small>
-
-
-| 🔥🔥: 107 \| 💬: [52](https://news.ycombinator.com/item?id=42889700) \| 🗓️ 2025-01-31
-
-
-<br />
-作者Nicholas Rougeux分享了自2023年11月起经历的**慢性恶心**，尽管多次就医和尝试多种治疗，病因仍不明确。他通过记录每日症状和尝试的治疗方法，发现恶心每两周规律性发作。尽管医生诊断为**胃轻瘫**和功能性消化不良，但治疗效果有限。他尝试了多种药物和疗法，包括临床试验，但症状持续。**生姜和果胶含片**成为缓解恶心的有效辅助手段。
-
----
-
-## <a name="15"></a>15. 用 Go 轻松编写类 Shell 脚本 
-<small>🔗 [github.com](https://github.com/bitfield/script): Shell-ish scripting in Go with ease</small>
-
-
-| 🔥🔥: 105 \| 💬: [33](https://news.ycombinator.com/item?id=42889465) \| 🗓️ 2025-01-31
-
-
-<br />
-**script** 是一个 Go 库，旨在简化系统管理任务的编写，使其像 Shell 脚本一样简单。它通过**管道操作**处理数据流，支持文件读取、子进程执行、字符串匹配等常见任务。**script** 提供了与 Unix 工具（如 `cat`、`grep`、`curl` 等）等效的功能，并允许通过 Go 的强大类型检查和错误处理来构建复杂的管道。适用于需要自动化任务的开发者。
-
----
-
-## <a name="16"></a>16. FBI与荷兰警方捣毁“操纵者”网络钓鱼团伙 
-<small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/01/fbi-dutch-police-disrupt-manipulaters-phishing-gang/): FBI, Dutch police disrupt 'Manipulaters' phishing gang</small>
-
-
-| 🔥🔥: 105 \| 💬: [35](https://news.ycombinator.com/item?id=42890290) \| 🗓️ 2025-01-31
-
-
-<br />
-FBI与荷兰警方本周查封了位于巴基斯坦的**“操纵者”**团伙的数十台服务器和域名，该团伙运营着广泛传播垃圾邮件和恶意软件的服务。其核心产品**Heartsender**用于发送钓鱼工具包，主要客户为跨国犯罪组织，用于实施商业邮件诈骗（BEC）。荷兰警方查获了39台服务器，包含数百万受害者记录。调查仍在进行中。
-
----
-
-## <a name="17"></a>17. 张量烹饪书 
+## <a name="14"></a>14. 张量烹饪书 
 <small>🔗 [tensorcookbook.com](https://tensorcookbook.com/): The Tensor Cookbook</small>
 
 
-| 🔥🔥: 103 \| 💬: [12](https://news.ycombinator.com/item?id=42890389) \| 🗓️ 2025-01-31
+| 🔥🔥: 112 \| 💬: [12](https://news.ycombinator.com/item?id=42890389) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -227,11 +191,47 @@ FBI与荷兰警方本周查封了位于巴基斯坦的**“操纵者”**团伙�
 
 ---
 
+## <a name="15"></a>15. FBI与荷兰警方捣毁“操纵者”网络钓鱼团伙 
+<small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/01/fbi-dutch-police-disrupt-manipulaters-phishing-gang/): FBI, Dutch police disrupt 'Manipulaters' phishing gang</small>
+
+
+| 🔥🔥: 111 \| 💬: [35](https://news.ycombinator.com/item?id=42890290) \| 🗓️ 2025-01-31
+
+
+<br />
+FBI与荷兰警方本周查封了位于巴基斯坦的**“操纵者”**团伙的数十台服务器和域名，该团伙运营着广泛传播垃圾邮件和恶意软件的服务。其核心产品**Heartsender**用于发送钓鱼工具包，主要客户为跨国犯罪组织，用于实施商业邮件诈骗（BEC）。荷兰警方查获了39台服务器，包含数百万受害者记录。调查仍在进行中。
+
+---
+
+## <a name="16"></a>16. 与恶心共存：我的故事通过六张图表呈现 
+<small>🔗 [c82.net](https://www.c82.net/blog/?id=96): Living with Nausea: My Story in Six Charts</small>
+
+
+| 🔥🔥: 109 \| 💬: [54](https://news.ycombinator.com/item?id=42889700) \| 🗓️ 2025-01-31
+
+
+<br />
+作者Nicholas Rougeux分享了自2023年11月起经历的**慢性恶心**，尽管多次就医和尝试多种治疗，病因仍不明确。他通过记录每日症状和尝试的治疗方法，发现恶心每两周规律性发作。尽管医生诊断为**胃轻瘫**和功能性消化不良，但治疗效果有限。他尝试了多种药物和疗法，包括临床试验，但症状持续。**生姜和果胶含片**成为缓解恶心的有效辅助手段。
+
+---
+
+## <a name="17"></a>17. 用 Go 轻松编写类 Shell 脚本 
+<small>🔗 [github.com](https://github.com/bitfield/script): Shell-ish scripting in Go with ease</small>
+
+
+| 🔥🔥: 105 \| 💬: [35](https://news.ycombinator.com/item?id=42889465) \| 🗓️ 2025-01-31
+
+
+<br />
+**script** 是一个 Go 库，旨在简化系统管理任务的编写，使其像 Shell 脚本一样简单。它通过**管道操作**处理数据流，支持文件读取、子进程执行、字符串匹配等常见任务。**script** 提供了与 Unix 工具（如 `cat`、`grep`、`curl` 等）等效的功能，并允许通过 Go 的强大类型检查和错误处理来构建复杂的管道。适用于需要自动化任务的开发者。
+
+---
+
 ## <a name="18"></a>18. 修复Atari 2600上的《E.T.外星人》游戏（2013） 
 <small>🔗 [neocomputer.org](http://www.neocomputer.org/projects/et/): Fixing E.T. The Extra-Terrestrial for the Atari 2600 (2013)</small>
 
 
-| 🔥: 100 \| 💬: [33](https://news.ycombinator.com/item?id=42889139) \| 🗓️ 2025-01-31
+| 🔥🔥: 103 \| 💬: [34](https://news.ycombinator.com/item?id=42889139) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -239,26 +239,26 @@ FBI与荷兰警方本周查封了位于巴基斯坦的**“操纵者”**团伙�
 
 ---
 
-## <a name="19"></a>19. Zusie – 我的继电器计算机 
+## <a name="19"></a>19. 谷歌向美国平台和设备部门员工提供“自愿离职”计划 
+<small>🔗 [theverge.com](https://www.theverge.com/news/603432/google-voluntary-exit-platforms-devices-team): Google offers 'voluntary exit' to all US platforms and devices employees</small>
+
+
+| 🔥: 99 \| 💬: [25](https://news.ycombinator.com/item?id=42893463) \| 🗓️ 2025-01-31
+
+
+<br />
+谷歌向美国从事Android、Pixel硬件等项目的员工发出备忘录，提供**自愿离职计划**，离职者可获得遣散费。此举旨在确保留下的员工**深度投入公司使命**，并专注于高效开发产品。此举可能是裁员的前兆，若自愿离职人数不足，谷歌或采取进一步措施。该计划目前未扩展到其他部门如搜索或DeepMind AI团队。
+
+---
+
+## <a name="20"></a>20. Zusie – 我的继电器计算机 
 <small>🔗 [nablaman.com](http://www.nablaman.com/relay/about.php): Zusie – My Relay Computer</small>
 
 
-| 🔥: 95 \| 💬: [28](https://news.ycombinator.com/item?id=42889308) \| 🗓️ 2025-01-31
+| 🔥: 98 \| 💬: [29](https://news.ycombinator.com/item?id=42889308) \| 🗓️ 2025-01-31
 
 
 <br />
 Zusie 是一台几乎完全由**继电器**构建的计算机，灵感来自康拉德·楚泽（Konrad Zuse）在20世纪30年代末至40年代的机器。继电器虽然**速度慢、功耗高**，但提供了独特的设计挑战和乐趣。Zusie 采用8位数据总线和16位地址总线，支持64k固态内存，具备**微程序控制**和多种算术逻辑操作。通过回收电话交换机的继电器，作者成功构建了这台复古计算机。
-
----
-
-## <a name="20"></a>20. Show HN: Ldump – 序列化任意 Lua 数据 
-<small>🔗 [github.com](https://github.com/girvel/ldump): Show HN: Ldump – serialize any Lua data</small>
-
-
-| 🔥: 91 \| 💬: [39](https://news.ycombinator.com/item?id=42886079) \| 🗓️ 2025-01-31
-
-
-<br />
-**ldump** 是一个灵活的序列化工具，能够序列化任何 Lua 数据类型，包括**循环引用**、**函数及其上值**、**协程**和**用户数据**等。它生成有效的 Lua 代码，通过 `load(data)()` 实现反序列化。虽然输出较大，但可通过现代压缩算法大幅减小。支持 Lua 5.1 至 5.4 及 LuaJIT，适用于复杂数据如游戏存档的完整序列化。
 
 ---
