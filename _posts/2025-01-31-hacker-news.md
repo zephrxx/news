@@ -27,7 +27,7 @@ tags:
 <small>🔗 [gizmodo.com](https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710): Add "fucking" to your Google searches to neutralize AI summaries</small>
 
 
-| 🔥🔥: 566 \| 💬: [269](https://news.ycombinator.com/item?id=42892191) \| 🗓️ 2025-01-31
+| 🔥🔥: 593 \| 💬: [279](https://news.ycombinator.com/item?id=42892191) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [substack.com](https://substack.com/home/post/p-156004330): Bypass DeepSeek censorship by speaking in hex</small>
 
 
-| 🔥🔥: 366 \| 💬: [211](https://news.ycombinator.com/item?id=42891042) \| 🗓️ 2025-01-31
+| 🔥🔥: 377 \| 💬: [217](https://news.ycombinator.com/item?id=42891042) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [storage.courtlistener.com](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1158.0_1.pdf): Apple files emergency motion to become defendant in US vs. Google [pdf]</small>
 
 
-| 🔥🔥: 357 \| 💬: [373](https://news.ycombinator.com/item?id=42889297) \| 🗓️ 2025-01-31
+| 🔥🔥: 361 \| 💬: [375](https://news.ycombinator.com/item?id=42889297) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/01/23/technology/instagram-facebook-abortion-pill-providers.html): Instagram and Facebook Blocked and Hid Abortion Pill Providers' Posts</small>
 
 
-| 🔥🔥: 259 \| 💬: [160](https://news.ycombinator.com/item?id=42891148) \| 🗓️ 2025-01-31
+| 🔥🔥: 265 \| 💬: [160](https://news.ycombinator.com/item?id=42891148) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -75,7 +75,7 @@ Instagram和Facebook最近对两家堕胎药提供者的帖子进行了**模糊�
 <small>🔗 [truthout.org](https://truthout.org/articles/tesla-paid-zero-federal-income-tax-in-2024-despite-2-3-billion-in-income/): Tesla Paid Zero Federal Income Tax in 2024, Despite $2.3B in Income</small>
 
 
-| 🔥🔥: 238 \| 💬: [179](https://news.ycombinator.com/item?id=42893365) \| 🗓️ 2025-01-31
+| 🔥🔥: 246 \| 💬: [185](https://news.ycombinator.com/item?id=42893365) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -87,7 +87,7 @@ Instagram和Facebook最近对两家堕胎药提供者的帖子进行了**模糊�
 <small>🔗 [frontiersin.org](https://www.frontiersin.org/news/2025/01/31/ear-muscle-wiggling-ears-activates-listening-frontiers-neuroscience): Ear muscle we thought humans didn't use activates when people listen hard</small>
 
 
-| 🔥🔥: 221 \| 💬: [179](https://news.ycombinator.com/item?id=42886867) \| 🗓️ 2025-01-31
+| 🔥🔥: 223 \| 💬: [179](https://news.ycombinator.com/item?id=42886867) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -99,7 +99,7 @@ Instagram和Facebook最近对两家堕胎药提供者的帖子进行了**模糊�
 <small>🔗 [github.com](https://github.com/jcalabro/uscope): Show HN: Uscope, a new Linux debugger written from scratch</small>
 
 
-| 🔥🔥: 195 \| 💬: [106](https://news.ycombinator.com/item?id=42889407) \| 🗓️ 2025-01-31
+| 🔥🔥: 197 \| 💬: [106](https://news.ycombinator.com/item?id=42889407) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -111,7 +111,7 @@ Instagram和Facebook最近对两家堕胎药提供者的帖子进行了**模糊�
 <small>🔗 [coryzue.com](https://www.coryzue.com/writing/make-ai-pictures-of-yourself/): How to Train an AI Image Model on Yourself</small>
 
 
-| 🔥🔥: 171 \| 💬: [37](https://news.ycombinator.com/item?id=42889236) \| 🗓️ 2025-01-31
+| 🔥🔥: 173 \| 💬: [38](https://news.ycombinator.com/item?id=42889236) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -123,7 +123,7 @@ Instagram和Facebook最近对两家堕胎药提供者的帖子进行了**模糊�
 <small>🔗 [a.wholelottanothing.org](https://a.wholelottanothing.org/when-everything-becomes-a-profit-center/): Three AM 911 call, 9 AM salesman</small>
 
 
-| 🔥🔥: 158 \| 💬: [78](https://news.ycombinator.com/item?id=42889777) \| 🗓️ 2025-01-31
+| 🔥🔥: 159 \| 💬: [79](https://news.ycombinator.com/item?id=42889777) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -147,7 +147,7 @@ RamaLama 是一个旨在简化AI模型管理的工具，通过使用**OCI容器*
 <small>🔗 [elite.bbcelite.com](https://elite.bbcelite.com/): Elite on the 6502: The original 6502 assembly source, heavily commented</small>
 
 
-| 🔥🔥: 130 \| 💬: [28](https://news.ycombinator.com/item?id=42891200) \| 🗓️ 2025-01-31
+| 🔥🔥: 136 \| 💬: [28](https://news.ycombinator.com/item?id=42891200) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -159,7 +159,7 @@ RamaLama 是一个旨在简化AI模型管理的工具，通过使用**OCI容器*
 <small>🔗 [reason.com](https://reason.com/2025/01/31/the-government-says-money-isnt-property-so-it-can-take-yours/): US government agency argues that money isn't property–so it can take yours</small>
 
 
-| 🔥🔥: 130 \| 💬: [117](https://news.ycombinator.com/item?id=42891724) \| 🗓️ 2025-01-31
+| 🔥🔥: 131 \| 💬: [117](https://news.ycombinator.com/item?id=42891724) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -171,7 +171,7 @@ RamaLama 是一个旨在简化AI模型管理的工具，通过使用**OCI容器*
 <small>🔗 [hai.stanford.edu](https://hai.stanford.edu/news/ge-wang-genai-art-least-imaginative-use-ai-imaginable): GenAI Art Is the Least Imaginative Use of AI Imaginable</small>
 
 
-| 🔥🔥: 120 \| 💬: [125](https://news.ycombinator.com/item?id=42891821) \| 🗓️ 2025-01-31
+| 🔥🔥: 122 \| 💬: [126](https://news.ycombinator.com/item?id=42891821) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -179,35 +179,11 @@ Ge Wang批评生成式AI艺术（如Suno的音乐生成服务）**忽视了创�
 
 ---
 
-## <a name="14"></a>14. FBI与荷兰警方捣毁“操纵者”网络钓鱼团伙 
-<small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/01/fbi-dutch-police-disrupt-manipulaters-phishing-gang/): FBI, Dutch police disrupt 'Manipulaters' phishing gang</small>
-
-
-| 🔥🔥: 116 \| 💬: [35](https://news.ycombinator.com/item?id=42890290) \| 🗓️ 2025-01-31
-
-
-<br />
-FBI与荷兰警方本周查封了位于巴基斯坦的**“操纵者”**团伙的数十台服务器和域名，该团伙运营着广泛传播垃圾邮件和恶意软件的服务。其核心产品**Heartsender**用于发送钓鱼工具包，主要客户为跨国犯罪组织，用于实施商业邮件诈骗（BEC）。荷兰警方查获了39台服务器，包含数百万受害者记录。调查仍在进行中。
-
----
-
-## <a name="15"></a>15. 与恶心共存：我的故事通过六张图表呈现 
-<small>🔗 [c82.net](https://www.c82.net/blog/?id=96): Living with Nausea: My Story in Six Charts</small>
-
-
-| 🔥🔥: 115 \| 💬: [55](https://news.ycombinator.com/item?id=42889700) \| 🗓️ 2025-01-31
-
-
-<br />
-作者Nicholas Rougeux分享了自2023年11月起经历的**慢性恶心**，尽管多次就医和尝试多种治疗，病因仍不明确。他通过记录每日症状和尝试的治疗方法，发现恶心每两周规律性发作。尽管医生诊断为**胃轻瘫**和功能性消化不良，但治疗效果有限。他尝试了多种药物和疗法，包括临床试验，但症状持续。**生姜和果胶含片**成为缓解恶心的有效辅助手段。
-
----
-
-## <a name="16"></a>16. 张量烹饪书 
+## <a name="14"></a>14. 张量烹饪书 
 <small>🔗 [tensorcookbook.com](https://tensorcookbook.com/): The Tensor Cookbook</small>
 
 
-| 🔥🔥: 115 \| 💬: [14](https://news.ycombinator.com/item?id=42890389) \| 🗓️ 2025-01-31
+| 🔥🔥: 120 \| 💬: [15](https://news.ycombinator.com/item?id=42890389) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -215,11 +191,11 @@ FBI与荷兰警方本周查封了位于巴基斯坦的**“操纵者”**团伙�
 
 ---
 
-## <a name="17"></a>17. 谷歌向美国平台和设备部门员工提供“自愿离职”计划 
+## <a name="15"></a>15. 谷歌向美国平台和设备部门员工提供“自愿离职”计划 
 <small>🔗 [theverge.com](https://www.theverge.com/news/603432/google-voluntary-exit-platforms-devices-team): Google offers 'voluntary exit' to all US platforms and devices employees</small>
 
 
-| 🔥🔥: 111 \| 💬: [27](https://news.ycombinator.com/item?id=42893463) \| 🗓️ 2025-01-31
+| 🔥🔥: 120 \| 💬: [28](https://news.ycombinator.com/item?id=42893463) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -227,11 +203,47 @@ FBI与荷兰警方本周查封了位于巴基斯坦的**“操纵者”**团伙�
 
 ---
 
-## <a name="18"></a>18. 用 Go 轻松编写类 Shell 脚本 
+## <a name="16"></a>16. FBI与荷兰警方捣毁“操纵者”网络钓鱼团伙 
+<small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/01/fbi-dutch-police-disrupt-manipulaters-phishing-gang/): FBI, Dutch police disrupt 'Manipulaters' phishing gang</small>
+
+
+| 🔥🔥: 119 \| 💬: [36](https://news.ycombinator.com/item?id=42890290) \| 🗓️ 2025-01-31
+
+
+<br />
+FBI与荷兰警方本周查封了位于巴基斯坦的**“操纵者”**团伙的数十台服务器和域名，该团伙运营着广泛传播垃圾邮件和恶意软件的服务。其核心产品**Heartsender**用于发送钓鱼工具包，主要客户为跨国犯罪组织，用于实施商业邮件诈骗（BEC）。荷兰警方查获了39台服务器，包含数百万受害者记录。调查仍在进行中。
+
+---
+
+## <a name="17"></a>17. 图拉雷县湖泊排水决定引发混乱后调整 
+<small>🔗 [sjvwater.org](https://sjvwater.org/decision-to-dump-water-from-tulare-county-lakes-altered-after-sending-locals-in-mad-scramble/): Decision to dump water from Tulare County lakes altered after confusing locals</small>
+
+
+| 🔥🔥: 118 \| 💬: [43](https://news.ycombinator.com/item?id=42894708) \| 🗓️ 2025-01-31
+
+
+<br />
+美国陆军工程兵团原计划从**卡维亚湖**和**成功湖**大量排水，导致当地居民陷入混乱。经过协商，排水量被减少，但仍将在夜间进行。**冬季蓄水限制**和**洪水风险**是主要关注点，但决策过程缺乏透明度，引发当地官员和居民的不满与困惑。
+
+---
+
+## <a name="18"></a>18. 与恶心共存：我的故事通过六张图表呈现 
+<small>🔗 [c82.net](https://www.c82.net/blog/?id=96): Living with Nausea: My Story in Six Charts</small>
+
+
+| 🔥🔥: 116 \| 💬: [56](https://news.ycombinator.com/item?id=42889700) \| 🗓️ 2025-01-31
+
+
+<br />
+作者Nicholas Rougeux分享了自2023年11月起经历的**慢性恶心**，尽管多次就医和尝试多种治疗，病因仍不明确。他通过记录每日症状和尝试的治疗方法，发现恶心每两周规律性发作。尽管医生诊断为**胃轻瘫**和功能性消化不良，但治疗效果有限。他尝试了多种药物和疗法，包括临床试验，但症状持续。**生姜和果胶含片**成为缓解恶心的有效辅助手段。
+
+---
+
+## <a name="19"></a>19. 用 Go 轻松编写类 Shell 脚本 
 <small>🔗 [github.com](https://github.com/bitfield/script): Shell-ish scripting in Go with ease</small>
 
 
-| 🔥🔥: 110 \| 💬: [36](https://news.ycombinator.com/item?id=42889465) \| 🗓️ 2025-01-31
+| 🔥🔥: 110 \| 💬: [40](https://news.ycombinator.com/item?id=42889465) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -239,26 +251,14 @@ FBI与荷兰警方本周查封了位于巴基斯坦的**“操纵者”**团伙�
 
 ---
 
-## <a name="19"></a>19. 修复Atari 2600上的《E.T.外星人》游戏（2013） 
+## <a name="20"></a>20. 修复Atari 2600上的《E.T.外星人》游戏（2013） 
 <small>🔗 [neocomputer.org](http://www.neocomputer.org/projects/et/): Fixing E.T. The Extra-Terrestrial for the Atari 2600 (2013)</small>
 
 
-| 🔥🔥: 105 \| 💬: [35](https://news.ycombinator.com/item?id=42889139) \| 🗓️ 2025-01-31
+| 🔥🔥: 109 \| 💬: [35](https://news.ycombinator.com/item?id=42889139) \| 🗓️ 2025-01-31
 
 
 <br />
 本文探讨了为何《E.T.外星人》游戏在Atari 2600上备受诟病，并提出了修复方案。**主要问题**包括玩家频繁掉入井中、游戏难度过高以及**像素级碰撞检测**的不合理设计。通过修改ROM代码，作者解决了这些问题，使游戏体验更加流畅。此外，还增加了新的游戏模式和彩蛋，如**忍者E.T.**。
-
----
-
-## <a name="20"></a>20. Zusie – 我的继电器计算机 
-<small>🔗 [nablaman.com](http://www.nablaman.com/relay/about.php): Zusie – My Relay Computer</small>
-
-
-| 🔥: 100 \| 💬: [29](https://news.ycombinator.com/item?id=42889308) \| 🗓️ 2025-01-31
-
-
-<br />
-Zusie 是一台几乎完全由**继电器**构建的计算机，灵感来自康拉德·楚泽（Konrad Zuse）在20世纪30年代末至40年代的机器。继电器虽然**速度慢、功耗高**，但提供了独特的设计挑战和乐趣。Zusie 采用8位数据总线和16位地址总线，支持64k固态内存，具备**微程序控制**和多种算术逻辑操作。通过回收电话交换机的继电器，作者成功构建了这台复古计算机。
 
 ---
