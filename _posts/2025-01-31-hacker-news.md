@@ -27,7 +27,7 @@ tags:
 <small>🔗 [gizmodo.com](https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710): Add "fucking" to your Google searches to neutralize AI summaries</small>
 
 
-| 🔥🔥: 626 \| 💬: [290](https://news.ycombinator.com/item?id=42892191) \| 🗓️ 2025-01-31
+| 🔥🔥: 648 \| 💬: [300](https://news.ycombinator.com/item?id=42892191) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [substack.com](https://substack.com/home/post/p-156004330): Bypass DeepSeek censorship by speaking in hex</small>
 
 
-| 🔥🔥: 398 \| 💬: [221](https://news.ycombinator.com/item?id=42891042) \| 🗓️ 2025-01-31
+| 🔥🔥: 415 \| 💬: [230](https://news.ycombinator.com/item?id=42891042) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [storage.courtlistener.com](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1158.0_1.pdf): Apple files emergency motion to become defendant in US vs. Google [pdf]</small>
 
 
-| 🔥🔥: 361 \| 💬: [376](https://news.ycombinator.com/item?id=42889297) \| 🗓️ 2025-01-31
+| 🔥🔥: 363 \| 💬: [379](https://news.ycombinator.com/item?id=42889297) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/01/23/technology/instagram-facebook-abortion-pill-providers.html): Instagram and Facebook Blocked and Hid Abortion Pill Providers' Posts</small>
 
 
-| 🔥🔥: 270 \| 💬: [159](https://news.ycombinator.com/item?id=42891148) \| 🗓️ 2025-01-31
+| 🔥🔥: 278 \| 💬: [160](https://news.ycombinator.com/item?id=42891148) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -75,7 +75,7 @@ Instagram和Facebook最近对两家堕胎药提供者的帖子进行了**模糊�
 <small>🔗 [truthout.org](https://truthout.org/articles/tesla-paid-zero-federal-income-tax-in-2024-despite-2-3-billion-in-income/): Tesla Paid Zero Federal Income Tax in 2024, Despite $2.3B in Income</small>
 
 
-| 🔥🔥: 253 \| 💬: [192](https://news.ycombinator.com/item?id=42893365) \| 🗓️ 2025-01-31
+| 🔥🔥: 256 \| 💬: [199](https://news.ycombinator.com/item?id=42893365) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -83,47 +83,11 @@ Instagram和Facebook最近对两家堕胎药提供者的帖子进行了**模糊�
 
 ---
 
-## <a name="6"></a>6. 人类以为不用的耳肌在努力听声音时会激活 
-<small>🔗 [frontiersin.org](https://www.frontiersin.org/news/2025/01/31/ear-muscle-wiggling-ears-activates-listening-frontiers-neuroscience): Ear muscle we thought humans didn't use activates when people listen hard</small>
-
-
-| 🔥🔥: 223 \| 💬: [180](https://news.ycombinator.com/item?id=42886867) \| 🗓️ 2025-01-31
-
-
-<br />
-研究发现，**耳部肌肉**（如**上耳肌**和**后耳肌**）在人类努力听声音时会激活，尤其是在复杂听觉环境中。这些肌肉曾帮助灵长类祖先转动耳朵以捕捉声音，但在人类中已退化。实验表明，**上耳肌**在听力任务难度增加时更活跃，可能反映了听觉努力机制。
-
----
-
-## <a name="7"></a>7. Show HN: Uscope，一个全新的 Linux 调试器 
-<small>🔗 [github.com](https://github.com/jcalabro/uscope): Show HN: Uscope, a new Linux debugger written from scratch</small>
-
-
-| 🔥🔥: 202 \| 💬: [108](https://news.ycombinator.com/item?id=42889407) \| 🗓️ 2025-01-31
-
-
-<br />
-**Uscope** 是一个为 Linux 设计的原生代码图形调试器和内省工具链，旨在提供**快速且可靠的调试操作**，支持多线程程序、调试符号解析、变量值渲染等功能。项目目前处于早期开发阶段，未来计划支持多种编程语言（如 C++、Go、Rust 等），并引入**数据可视化**和远程调试等高级功能。开发者希望通过构建一个**可扩展的库**，推动调试工具生态的进步。
-
----
-
-## <a name="8"></a>8. 如何训练一个AI图像模型来生成自己的图像 
-<small>🔗 [coryzue.com](https://www.coryzue.com/writing/make-ai-pictures-of-yourself/): How to Train an AI Image Model on Yourself</small>
-
-
-| 🔥🔥: 173 \| 💬: [38](https://news.ycombinator.com/item?id=42889236) \| 🗓️ 2025-01-31
-
-
-<br />
-作者分享了一个有趣的项目：使用**Flux模型**和**LoRA技术**训练AI生成自己的图像。通过上传10-15张不同场景的照片，并使用**Replicate**平台进行训练，整个过程仅需2小时。生成图像时，使用自定义的“魔法词”作为提示词，效果虽不完美但足够有趣。整个项目成本低廉，约10美元，适合初学者尝试。
-
----
-
-## <a name="9"></a>9. 政府信息危机远超你的想象 
+## <a name="6"></a>6. 政府信息危机远超你的想象 
 <small>🔗 [freegovinfo.info](https://freegovinfo.info/node/14747/): The government information crisis is bigger than you think it is</small>
 
 
-| 🔥🔥: 167 \| 💬: [52](https://news.ycombinator.com/item?id=42895331) \| 🗓️ 2025-01-31
+| 🔥🔥: 228 \| 💬: [122](https://news.ycombinator.com/item?id=42895331) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -131,11 +95,47 @@ Instagram和Facebook最近对两家堕胎药提供者的帖子进行了**模糊�
 
 ---
 
+## <a name="7"></a>7. 人类以为不用的耳肌在努力听声音时会激活 
+<small>🔗 [frontiersin.org](https://www.frontiersin.org/news/2025/01/31/ear-muscle-wiggling-ears-activates-listening-frontiers-neuroscience): Ear muscle we thought humans didn't use activates when people listen hard</small>
+
+
+| 🔥🔥: 224 \| 💬: [180](https://news.ycombinator.com/item?id=42886867) \| 🗓️ 2025-01-31
+
+
+<br />
+研究发现，**耳部肌肉**（如**上耳肌**和**后耳肌**）在人类努力听声音时会激活，尤其是在复杂听觉环境中。这些肌肉曾帮助灵长类祖先转动耳朵以捕捉声音，但在人类中已退化。实验表明，**上耳肌**在听力任务难度增加时更活跃，可能反映了听觉努力机制。
+
+---
+
+## <a name="8"></a>8. Show HN: Uscope，一个全新的 Linux 调试器 
+<small>🔗 [github.com](https://github.com/jcalabro/uscope): Show HN: Uscope, a new Linux debugger written from scratch</small>
+
+
+| 🔥🔥: 204 \| 💬: [108](https://news.ycombinator.com/item?id=42889407) \| 🗓️ 2025-01-31
+
+
+<br />
+**Uscope** 是一个为 Linux 设计的原生代码图形调试器和内省工具链，旨在提供**快速且可靠的调试操作**，支持多线程程序、调试符号解析、变量值渲染等功能。项目目前处于早期开发阶段，未来计划支持多种编程语言（如 C++、Go、Rust 等），并引入**数据可视化**和远程调试等高级功能。开发者希望通过构建一个**可扩展的库**，推动调试工具生态的进步。
+
+---
+
+## <a name="9"></a>9. 如何训练一个AI图像模型来生成自己的图像 
+<small>🔗 [coryzue.com](https://www.coryzue.com/writing/make-ai-pictures-of-yourself/): How to Train an AI Image Model on Yourself</small>
+
+
+| 🔥🔥: 175 \| 💬: [38](https://news.ycombinator.com/item?id=42889236) \| 🗓️ 2025-01-31
+
+
+<br />
+作者分享了一个有趣的项目：使用**Flux模型**和**LoRA技术**训练AI生成自己的图像。通过上传10-15张不同场景的照片，并使用**Replicate**平台进行训练，整个过程仅需2小时。生成图像时，使用自定义的“魔法词”作为提示词，效果虽不完美但足够有趣。整个项目成本低廉，约10美元，适合初学者尝试。
+
+---
+
 ## <a name="10"></a>10. 凌晨三点的911电话，早上九点的推销员 
 <small>🔗 [a.wholelottanothing.org](https://a.wholelottanothing.org/when-everything-becomes-a-profit-center/): Three AM 911 call, 9 AM salesman</small>
 
 
-| 🔥🔥: 159 \| 💬: [79](https://news.ycombinator.com/item?id=42889777) \| 🗓️ 2025-01-31
+| 🔥🔥: 160 \| 💬: [80](https://news.ycombinator.com/item?id=42889777) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -147,7 +147,7 @@ Instagram和Facebook最近对两家堕胎药提供者的帖子进行了**模糊�
 <small>🔗 [github.com](https://github.com/containers/ramalama): RamaLama</small>
 
 
-| 🔥🔥: 156 \| 💬: [41](https://news.ycombinator.com/item?id=42887939) \| 🗓️ 2025-01-31
+| 🔥🔥: 157 \| 💬: [41](https://news.ycombinator.com/item?id=42887939) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -155,23 +155,11 @@ RamaLama 是一个旨在简化AI模型管理的工具，通过使用**OCI容器*
 
 ---
 
-## <a name="12"></a>12. 6502上的《精英》：原始6502汇编源代码，附带详细注释 
-<small>🔗 [elite.bbcelite.com](https://elite.bbcelite.com/): Elite on the 6502: The original 6502 assembly source, heavily commented</small>
-
-
-| 🔥🔥: 139 \| 💬: [28](https://news.ycombinator.com/item?id=42891200) \| 🗓️ 2025-01-31
-
-
-<br />
-该网站提供了经典太空游戏《精英》的完整源代码，适用于BBC Micro、Acorn Electron、Commodore 64、Apple II和NES等多个平台。**源代码**经过详细注释和解释，涵盖了1980年代的原版代码以及部分重建的版本。网站还包含120多篇深度解析文章，帮助玩家了解游戏背后的技术细节。此外，用户可以通过GitHub仓库构建可运行的游戏版本，探索不同平台的代码差异。
-
----
-
-## <a name="13"></a>13. 图拉雷县湖泊排水决定引发混乱后调整 
+## <a name="12"></a>12. 图拉雷县湖泊排水决定引发混乱后调整 
 <small>🔗 [sjvwater.org](https://sjvwater.org/decision-to-dump-water-from-tulare-county-lakes-altered-after-sending-locals-in-mad-scramble/): Decision to dump water from Tulare County lakes altered after confusing locals</small>
 
 
-| 🔥🔥: 137 \| 💬: [53](https://news.ycombinator.com/item?id=42894708) \| 🗓️ 2025-01-31
+| 🔥🔥: 152 \| 💬: [66](https://news.ycombinator.com/item?id=42894708) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -179,11 +167,23 @@ RamaLama 是一个旨在简化AI模型管理的工具，通过使用**OCI容器*
 
 ---
 
+## <a name="13"></a>13. 6502上的《精英》：原始6502汇编源代码，附带详细注释 
+<small>🔗 [elite.bbcelite.com](https://elite.bbcelite.com/): Elite on the 6502: The original 6502 assembly source, heavily commented</small>
+
+
+| 🔥🔥: 143 \| 💬: [28](https://news.ycombinator.com/item?id=42891200) \| 🗓️ 2025-01-31
+
+
+<br />
+该网站提供了经典太空游戏《精英》的完整源代码，适用于BBC Micro、Acorn Electron、Commodore 64、Apple II和NES等多个平台。**源代码**经过详细注释和解释，涵盖了1980年代的原版代码以及部分重建的版本。网站还包含120多篇深度解析文章，帮助玩家了解游戏背后的技术细节。此外，用户可以通过GitHub仓库构建可运行的游戏版本，探索不同平台的代码差异。
+
+---
+
 ## <a name="14"></a>14. 美国政府机构辩称金钱不是财产——因此可以没收你的钱 
 <small>🔗 [reason.com](https://reason.com/2025/01/31/the-government-says-money-isnt-property-so-it-can-take-yours/): US government agency argues that money isn't property–so it can take yours</small>
 
 
-| 🔥🔥: 131 \| 💬: [122](https://news.ycombinator.com/item?id=42891724) \| 🗓️ 2025-01-31
+| 🔥🔥: 131 \| 💬: [123](https://news.ycombinator.com/item?id=42891724) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -191,23 +191,11 @@ RamaLama 是一个旨在简化AI模型管理的工具，通过使用**OCI容器*
 
 ---
 
-## <a name="15"></a>15. FBI与荷兰警方捣毁“操纵者”网络钓鱼团伙 
-<small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/01/fbi-dutch-police-disrupt-manipulaters-phishing-gang/): FBI, Dutch police disrupt 'Manipulaters' phishing gang</small>
-
-
-| 🔥🔥: 123 \| 💬: [37](https://news.ycombinator.com/item?id=42890290) \| 🗓️ 2025-01-31
-
-
-<br />
-FBI与荷兰警方本周查封了位于巴基斯坦的**“操纵者”**团伙的数十台服务器和域名，该团伙运营着广泛传播垃圾邮件和恶意软件的服务。其核心产品**Heartsender**用于发送钓鱼工具包，主要客户为跨国犯罪组织，用于实施商业邮件诈骗（BEC）。荷兰警方查获了39台服务器，包含数百万受害者记录。调查仍在进行中。
-
----
-
-## <a name="16"></a>16. 张量烹饪书 
+## <a name="15"></a>15. 张量烹饪书 
 <small>🔗 [tensorcookbook.com](https://tensorcookbook.com/): The Tensor Cookbook</small>
 
 
-| 🔥🔥: 123 \| 💬: [15](https://news.ycombinator.com/item?id=42890389) \| 🗓️ 2025-01-31
+| 🔥🔥: 128 \| 💬: [15](https://news.ycombinator.com/item?id=42890389) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -215,23 +203,11 @@ FBI与荷兰警方本周查封了位于巴基斯坦的**“操纵者”**团伙�
 
 ---
 
-## <a name="17"></a>17. 生成式AI艺术是AI最缺乏想象力的应用 
-<small>🔗 [hai.stanford.edu](https://hai.stanford.edu/news/ge-wang-genai-art-least-imaginative-use-ai-imaginable): GenAI Art Is the Least Imaginative Use of AI Imaginable</small>
-
-
-| 🔥🔥: 123 \| 💬: [129](https://news.ycombinator.com/item?id=42891821) \| 🗓️ 2025-01-31
-
-
-<br />
-Ge Wang批评生成式AI艺术（如Suno的音乐生成服务）**忽视了创作过程的意义**，认为AI不应仅仅作为**节省劳动力的工具**。他强调，**艺术的价值在于创作本身**，而非结果。生成式AI虽然提供了便利，但可能削弱人类的创造力和文化深度。
-
----
-
-## <a name="18"></a>18. 谷歌向美国平台和设备部门员工提供“自愿离职”计划 
+## <a name="16"></a>16. 谷歌向美国平台和设备部门员工提供“自愿离职”计划 
 <small>🔗 [theverge.com](https://www.theverge.com/news/603432/google-voluntary-exit-platforms-devices-team): Google offers 'voluntary exit' to all US platforms and devices employees</small>
 
 
-| 🔥🔥: 123 \| 💬: [31](https://news.ycombinator.com/item?id=42893463) \| 🗓️ 2025-01-31
+| 🔥🔥: 127 \| 💬: [31](https://news.ycombinator.com/item?id=42893463) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -239,11 +215,35 @@ Ge Wang批评生成式AI艺术（如Suno的音乐生成服务）**忽视了创�
 
 ---
 
+## <a name="17"></a>17. FBI与荷兰警方捣毁“操纵者”网络钓鱼团伙 
+<small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/01/fbi-dutch-police-disrupt-manipulaters-phishing-gang/): FBI, Dutch police disrupt 'Manipulaters' phishing gang</small>
+
+
+| 🔥🔥: 125 \| 💬: [39](https://news.ycombinator.com/item?id=42890290) \| 🗓️ 2025-01-31
+
+
+<br />
+FBI与荷兰警方本周查封了位于巴基斯坦的**“操纵者”**团伙的数十台服务器和域名，该团伙运营着广泛传播垃圾邮件和恶意软件的服务。其核心产品**Heartsender**用于发送钓鱼工具包，主要客户为跨国犯罪组织，用于实施商业邮件诈骗（BEC）。荷兰警方查获了39台服务器，包含数百万受害者记录。调查仍在进行中。
+
+---
+
+## <a name="18"></a>18. 生成式AI艺术是AI最缺乏想象力的应用 
+<small>🔗 [hai.stanford.edu](https://hai.stanford.edu/news/ge-wang-genai-art-least-imaginative-use-ai-imaginable): GenAI Art Is the Least Imaginative Use of AI Imaginable</small>
+
+
+| 🔥🔥: 124 \| 💬: [130](https://news.ycombinator.com/item?id=42891821) \| 🗓️ 2025-01-31
+
+
+<br />
+Ge Wang批评生成式AI艺术（如Suno的音乐生成服务）**忽视了创作过程的意义**，认为AI不应仅仅作为**节省劳动力的工具**。他强调，**艺术的价值在于创作本身**，而非结果。生成式AI虽然提供了便利，但可能削弱人类的创造力和文化深度。
+
+---
+
 ## <a name="19"></a>19. 与恶心共存：我的故事通过六张图表呈现 
 <small>🔗 [c82.net](https://www.c82.net/blog/?id=96): Living with Nausea: My Story in Six Charts</small>
 
 
-| 🔥🔥: 121 \| 💬: [55](https://news.ycombinator.com/item?id=42889700) \| 🗓️ 2025-01-31
+| 🔥🔥: 122 \| 💬: [56](https://news.ycombinator.com/item?id=42889700) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -251,14 +251,14 @@ Ge Wang批评生成式AI艺术（如Suno的音乐生成服务）**忽视了创�
 
 ---
 
-## <a name="20"></a>20. 用 Go 轻松编写类 Shell 脚本 
-<small>🔗 [github.com](https://github.com/bitfield/script): Shell-ish scripting in Go with ease</small>
+## <a name="20"></a>20. 修复Atari 2600上的《E.T.外星人》游戏（2013） 
+<small>🔗 [neocomputer.org](http://www.neocomputer.org/projects/et/): Fixing E.T. The Extra-Terrestrial for the Atari 2600 (2013)</small>
 
 
-| 🔥🔥: 112 \| 💬: [43](https://news.ycombinator.com/item?id=42889465) \| 🗓️ 2025-01-31
+| 🔥🔥: 112 \| 💬: [36](https://news.ycombinator.com/item?id=42889139) \| 🗓️ 2025-01-31
 
 
 <br />
-**script** 是一个 Go 库，旨在简化系统管理任务的编写，使其像 Shell 脚本一样简单。它通过**管道操作**处理数据流，支持文件读取、子进程执行、字符串匹配等常见任务。**script** 提供了与 Unix 工具（如 `cat`、`grep`、`curl` 等）等效的功能，并允许通过 Go 的强大类型检查和错误处理来构建复杂的管道。适用于需要自动化任务的开发者。
+本文探讨了为何《E.T.外星人》游戏在Atari 2600上备受诟病，并提出了修复方案。**主要问题**包括玩家频繁掉入井中、游戏难度过高以及**像素级碰撞检测**的不合理设计。通过修改ROM代码，作者解决了这些问题，使游戏体验更加流畅。此外，还增加了新的游戏模式和彩蛋，如**忍者E.T.**。
 
 ---
