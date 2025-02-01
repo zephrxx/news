@@ -12,7 +12,7 @@ tags:
 1. 苹果提交紧急动议，要求成为美国诉谷歌案的被告；
 1. 通过十六进制绕过DeepSeek审查；
 1. Instagram和Facebook屏蔽并隐藏了堕胎药提供者的帖子；
-1. 人类以为不用的耳肌在努力听声音时会激活；
+1. 特斯拉2024年收入23亿美元却未缴纳联邦所得税；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [gizmodo.com](https://gizmodo.com/add-fcking-to-your-google-searches-to-neutralize-ai-summaries-2000557710): Add "fucking" to your Google searches to neutralize AI summaries</small>
 
 
-| 🔥🔥: 434 \| 💬: [203](https://news.ycombinator.com/item?id=42892191) \| 🗓️ 2025-01-31
+| 🔥🔥: 485 \| 💬: [228](https://news.ycombinator.com/item?id=42892191) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [storage.courtlistener.com](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1158.0_1.pdf): Apple files emergency motion to become defendant in US vs. Google [pdf]</small>
 
 
-| 🔥🔥: 346 \| 💬: [359](https://news.ycombinator.com/item?id=42889297) \| 🗓️ 2025-01-31
+| 🔥🔥: 349 \| 💬: [361](https://news.ycombinator.com/item?id=42889297) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [substack.com](https://substack.com/home/post/p-156004330): Bypass DeepSeek censorship by speaking in hex</small>
 
 
-| 🔥🔥: 304 \| 💬: [178](https://news.ycombinator.com/item?id=42891042) \| 🗓️ 2025-01-31
+| 🔥🔥: 333 \| 💬: [190](https://news.ycombinator.com/item?id=42891042) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/01/23/technology/instagram-facebook-abortion-pill-providers.html): Instagram and Facebook Blocked and Hid Abortion Pill Providers' Posts</small>
 
 
-| 🔥🔥: 224 \| 💬: [136](https://news.ycombinator.com/item?id=42891148) \| 🗓️ 2025-01-31
+| 🔥🔥: 241 \| 💬: [148](https://news.ycombinator.com/item?id=42891148) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -71,23 +71,11 @@ Instagram和Facebook最近对两家堕胎药提供者的帖子进行了**模糊�
 
 ---
 
-## <a name="5"></a>5. 人类以为不用的耳肌在努力听声音时会激活 
-<small>🔗 [frontiersin.org](https://www.frontiersin.org/news/2025/01/31/ear-muscle-wiggling-ears-activates-listening-frontiers-neuroscience): Ear muscle we thought humans didn't use activates when people listen hard</small>
-
-
-| 🔥🔥: 214 \| 💬: [177](https://news.ycombinator.com/item?id=42886867) \| 🗓️ 2025-01-31
-
-
-<br />
-研究发现，**耳部肌肉**（如**上耳肌**和**后耳肌**）在人类努力听声音时会激活，尤其是在复杂听觉环境中。这些肌肉曾帮助灵长类祖先转动耳朵以捕捉声音，但在人类中已退化。实验表明，**上耳肌**在听力任务难度增加时更活跃，可能反映了听觉努力机制。
-
----
-
-## <a name="6"></a>6. 特斯拉2024年收入23亿美元却未缴纳联邦所得税 
+## <a name="5"></a>5. 特斯拉2024年收入23亿美元却未缴纳联邦所得税 
 <small>🔗 [truthout.org](https://truthout.org/articles/tesla-paid-zero-federal-income-tax-in-2024-despite-2-3-billion-in-income/): Tesla Paid Zero Federal Income Tax in 2024, Despite $2.3B in Income</small>
 
 
-| 🔥🔥: 190 \| 💬: [128](https://news.ycombinator.com/item?id=42893365) \| 🗓️ 2025-01-31
+| 🔥🔥: 219 \| 💬: [152](https://news.ycombinator.com/item?id=42893365) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -95,11 +83,23 @@ Instagram和Facebook最近对两家堕胎药提供者的帖子进行了**模糊�
 
 ---
 
+## <a name="6"></a>6. 人类以为不用的耳肌在努力听声音时会激活 
+<small>🔗 [frontiersin.org](https://www.frontiersin.org/news/2025/01/31/ear-muscle-wiggling-ears-activates-listening-frontiers-neuroscience): Ear muscle we thought humans didn't use activates when people listen hard</small>
+
+
+| 🔥🔥: 215 \| 💬: [178](https://news.ycombinator.com/item?id=42886867) \| 🗓️ 2025-01-31
+
+
+<br />
+研究发现，**耳部肌肉**（如**上耳肌**和**后耳肌**）在人类努力听声音时会激活，尤其是在复杂听觉环境中。这些肌肉曾帮助灵长类祖先转动耳朵以捕捉声音，但在人类中已退化。实验表明，**上耳肌**在听力任务难度增加时更活跃，可能反映了听觉努力机制。
+
+---
+
 ## <a name="7"></a>7. Show HN: Uscope，一个全新的 Linux 调试器 
 <small>🔗 [github.com](https://github.com/jcalabro/uscope): Show HN: Uscope, a new Linux debugger written from scratch</small>
 
 
-| 🔥🔥: 179 \| 💬: [97](https://news.ycombinator.com/item?id=42889407) \| 🗓️ 2025-01-31
+| 🔥🔥: 181 \| 💬: [102](https://news.ycombinator.com/item?id=42889407) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -111,7 +111,7 @@ Instagram和Facebook最近对两家堕胎药提供者的帖子进行了**模糊�
 <small>🔗 [coryzue.com](https://www.coryzue.com/writing/make-ai-pictures-of-yourself/): How to Train an AI Image Model on Yourself</small>
 
 
-| 🔥🔥: 167 \| 💬: [37](https://news.ycombinator.com/item?id=42889236) \| 🗓️ 2025-01-31
+| 🔥🔥: 168 \| 💬: [37](https://news.ycombinator.com/item?id=42889236) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -119,23 +119,11 @@ Instagram和Facebook最近对两家堕胎药提供者的帖子进行了**模糊�
 
 ---
 
-## <a name="9"></a>9. RamaLama：让AI工作变得“无聊” 
-<small>🔗 [github.com](https://github.com/containers/ramalama): RamaLama</small>
-
-
-| 🔥🔥: 155 \| 💬: [41](https://news.ycombinator.com/item?id=42887939) \| 🗓️ 2025-01-31
-
-
-<br />
-RamaLama 是一个旨在简化AI模型管理的工具，通过使用**OCI容器**（如Podman或Docker）来本地管理和运行AI模型。它支持多种模型注册表（如HuggingFace、Ollama），并自动检测系统硬件（如GPU或CPU）以选择合适的运行环境。用户可以通过简单的命令启动聊天机器人或REST API服务，**模型管理**类似于容器镜像管理。RamaLama还支持短名称配置文件，简化模型调用。
-
----
-
-## <a name="10"></a>10. 凌晨三点的911电话，早上九点的推销员 
+## <a name="9"></a>9. 凌晨三点的911电话，早上九点的推销员 
 <small>🔗 [a.wholelottanothing.org](https://a.wholelottanothing.org/when-everything-becomes-a-profit-center/): Three AM 911 call, 9 AM salesman</small>
 
 
-| 🔥🔥: 155 \| 💬: [77](https://news.ycombinator.com/item?id=42889777) \| 🗓️ 2025-01-31
+| 🔥🔥: 157 \| 💬: [78](https://news.ycombinator.com/item?id=42889777) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -143,11 +131,23 @@ RamaLama 是一个旨在简化AI模型管理的工具，通过使用**OCI容器*
 
 ---
 
+## <a name="10"></a>10. RamaLama：让AI工作变得“无聊” 
+<small>🔗 [github.com](https://github.com/containers/ramalama): RamaLama</small>
+
+
+| 🔥🔥: 156 \| 💬: [41](https://news.ycombinator.com/item?id=42887939) \| 🗓️ 2025-01-31
+
+
+<br />
+RamaLama 是一个旨在简化AI模型管理的工具，通过使用**OCI容器**（如Podman或Docker）来本地管理和运行AI模型。它支持多种模型注册表（如HuggingFace、Ollama），并自动检测系统硬件（如GPU或CPU）以选择合适的运行环境。用户可以通过简单的命令启动聊天机器人或REST API服务，**模型管理**类似于容器镜像管理。RamaLama还支持短名称配置文件，简化模型调用。
+
+---
+
 ## <a name="11"></a>11. 美国政府机构辩称金钱不是财产——因此可以没收你的钱 
 <small>🔗 [reason.com](https://reason.com/2025/01/31/the-government-says-money-isnt-property-so-it-can-take-yours/): US government agency argues that money isn't property–so it can take yours</small>
 
 
-| 🔥🔥: 128 \| 💬: [115](https://news.ycombinator.com/item?id=42891724) \| 🗓️ 2025-01-31
+| 🔥🔥: 128 \| 💬: [117](https://news.ycombinator.com/item?id=42891724) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -159,7 +159,7 @@ RamaLama 是一个旨在简化AI模型管理的工具，通过使用**OCI容器*
 <small>🔗 [elite.bbcelite.com](https://elite.bbcelite.com/): Elite on the 6502: The original 6502 assembly source, heavily commented</small>
 
 
-| 🔥🔥: 116 \| 💬: [21](https://news.ycombinator.com/item?id=42891200) \| 🗓️ 2025-01-31
+| 🔥🔥: 119 \| 💬: [24](https://news.ycombinator.com/item?id=42891200) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -171,7 +171,7 @@ RamaLama 是一个旨在简化AI模型管理的工具，通过使用**OCI容器*
 <small>🔗 [hai.stanford.edu](https://hai.stanford.edu/news/ge-wang-genai-art-least-imaginative-use-ai-imaginable): GenAI Art Is the Least Imaginative Use of AI Imaginable</small>
 
 
-| 🔥🔥: 114 \| 💬: [106](https://news.ycombinator.com/item?id=42891821) \| 🗓️ 2025-01-31
+| 🔥🔥: 118 \| 💬: [118](https://news.ycombinator.com/item?id=42891821) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -183,7 +183,7 @@ Ge Wang批评生成式AI艺术（如Suno的音乐生成服务）**忽视了创�
 <small>🔗 [c82.net](https://www.c82.net/blog/?id=96): Living with Nausea: My Story in Six Charts</small>
 
 
-| 🔥🔥: 103 \| 💬: [48](https://news.ycombinator.com/item?id=42889700) \| 🗓️ 2025-01-31
+| 🔥🔥: 107 \| 💬: [52](https://news.ycombinator.com/item?id=42889700) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -195,7 +195,7 @@ Ge Wang批评生成式AI艺术（如Suno的音乐生成服务）**忽视了创�
 <small>🔗 [github.com](https://github.com/bitfield/script): Shell-ish scripting in Go with ease</small>
 
 
-| 🔥: 100 \| 💬: [31](https://news.ycombinator.com/item?id=42889465) \| 🗓️ 2025-01-31
+| 🔥🔥: 105 \| 💬: [33](https://news.ycombinator.com/item?id=42889465) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -207,7 +207,7 @@ Ge Wang批评生成式AI艺术（如Suno的音乐生成服务）**忽视了创�
 <small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/01/fbi-dutch-police-disrupt-manipulaters-phishing-gang/): FBI, Dutch police disrupt 'Manipulaters' phishing gang</small>
 
 
-| 🔥: 100 \| 💬: [30](https://news.ycombinator.com/item?id=42890290) \| 🗓️ 2025-01-31
+| 🔥🔥: 105 \| 💬: [35](https://news.ycombinator.com/item?id=42890290) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -215,11 +215,23 @@ FBI与荷兰警方本周查封了位于巴基斯坦的**“操纵者”**团伙�
 
 ---
 
-## <a name="17"></a>17. 修复Atari 2600上的《E.T.外星人》游戏（2013） 
+## <a name="17"></a>17. 张量烹饪书 
+<small>🔗 [tensorcookbook.com](https://tensorcookbook.com/): The Tensor Cookbook</small>
+
+
+| 🔥🔥: 103 \| 💬: [12](https://news.ycombinator.com/item?id=42890389) \| 🗓️ 2025-01-31
+
+
+<br />
+本书旨在通过**张量图**标准化张量操作表示法，替代传统矩阵表示法。张量图能**直观展示模式和对称性**，简化矩阵微积分，并轻松处理函数和广播操作。书中还介绍了**Tensorgrad**库，用于符号张量操作和导数计算，涵盖机器学习应用等广泛主题。
+
+---
+
+## <a name="18"></a>18. 修复Atari 2600上的《E.T.外星人》游戏（2013） 
 <small>🔗 [neocomputer.org](http://www.neocomputer.org/projects/et/): Fixing E.T. The Extra-Terrestrial for the Atari 2600 (2013)</small>
 
 
-| 🔥: 95 \| 💬: [32](https://news.ycombinator.com/item?id=42889139) \| 🗓️ 2025-01-31
+| 🔥: 100 \| 💬: [33](https://news.ycombinator.com/item?id=42889139) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -227,11 +239,11 @@ FBI与荷兰警方本周查封了位于巴基斯坦的**“操纵者”**团伙�
 
 ---
 
-## <a name="18"></a>18. Zusie – 我的继电器计算机 
+## <a name="19"></a>19. Zusie – 我的继电器计算机 
 <small>🔗 [nablaman.com](http://www.nablaman.com/relay/about.php): Zusie – My Relay Computer</small>
 
 
-| 🔥: 94 \| 💬: [28](https://news.ycombinator.com/item?id=42889308) \| 🗓️ 2025-01-31
+| 🔥: 95 \| 💬: [28](https://news.ycombinator.com/item?id=42889308) \| 🗓️ 2025-01-31
 
 
 <br />
@@ -239,7 +251,7 @@ Zusie 是一台几乎完全由**继电器**构建的计算机，灵感来自康�
 
 ---
 
-## <a name="19"></a>19. Show HN: Ldump – 序列化任意 Lua 数据 
+## <a name="20"></a>20. Show HN: Ldump – 序列化任意 Lua 数据 
 <small>🔗 [github.com](https://github.com/girvel/ldump): Show HN: Ldump – serialize any Lua data</small>
 
 
@@ -248,17 +260,5 @@ Zusie 是一台几乎完全由**继电器**构建的计算机，灵感来自康�
 
 <br />
 **ldump** 是一个灵活的序列化工具，能够序列化任何 Lua 数据类型，包括**循环引用**、**函数及其上值**、**协程**和**用户数据**等。它生成有效的 Lua 代码，通过 `load(data)()` 实现反序列化。虽然输出较大，但可通过现代压缩算法大幅减小。支持 Lua 5.1 至 5.4 及 LuaJIT，适用于复杂数据如游戏存档的完整序列化。
-
----
-
-## <a name="20"></a>20. 特斯拉2024年在美国20亿美元收入上零联邦所得税 
-<small>🔗 [itep.org](https://itep.org/tesla-reported-zero-federal-income-tax-in-2024/): Tesla Reported Zero Federal Income Tax on $2B of U.S. Income in 2024</small>
-
-
-| 🔥: 77 \| 💬: [64](https://news.ycombinator.com/item?id=42885688) \| 🗓️ 2025-01-31
-
-
-<br />
-特斯拉在2024年报告了23亿美元的美国收入，但**未支付任何联邦所得税**。过去三年，该公司在美国收入108亿美元，仅支付了4800万美元税款，**实际税率仅为0.4%**，远低于21%的法定税率。特斯拉通过**加速折旧**、高管股票期权税收优惠和未明确的“美国税收抵免”大幅减少了税负。
 
 ---
