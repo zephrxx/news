@@ -27,7 +27,7 @@ tags:
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/): CDC data are disappearing</small>
 
 
-| 🔥🔥: 467 \| 💬: [357](https://news.ycombinator.com/item?id=42897696) \| 🗓️ 2025-02-01
+| 🔥🔥: 505 \| 💬: [383](https://news.ycombinator.com/item?id=42897696) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [swift.org](https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/): Apple is open sourcing Swift Build</small>
 
 
-| 🔥🔥: 410 \| 💬: [160](https://news.ycombinator.com/item?id=42899703) \| 🗓️ 2025-02-01
+| 🔥🔥: 428 \| 💬: [168](https://news.ycombinator.com/item?id=42899703) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [digitalspaceport.com](https://digitalspaceport.com/how-to-run-deepseek-r1-671b-fully-locally-on-2000-epyc-rig/): How to Run DeepSeek R1 671B Locally on a $2000 EPYC Server</small>
 
 
-| 🔥🔥: 404 \| 💬: [235](https://news.ycombinator.com/item?id=42897205) \| 🗓️ 2025-02-01
+| 🔥🔥: 405 \| 💬: [237](https://news.ycombinator.com/item?id=42897205) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [phiresky.github.io](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/): Visualizing all books of the world in ISBN-Space</small>
 
 
-| 🔥🔥: 323 \| 💬: [66](https://news.ycombinator.com/item?id=42897120) \| 🗓️ 2025-02-01
+| 🔥🔥: 331 \| 💬: [66](https://news.ycombinator.com/item?id=42897120) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [lumon-industries.com](https://lumon-industries.com/): Macrodata Refinement</small>
 
 
-| 🔥🔥: 218 \| 💬: [123](https://news.ycombinator.com/item?id=42902691) \| 🗓️ 2025-02-01
+| 🔥🔥: 241 \| 💬: [135](https://news.ycombinator.com/item?id=42902691) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [asurion.com](https://www.asurion.com/connect/tech-tips/turn-off-apple-intelligence/): How to turn off Apple Intelligence</small>
 
 
-| 🔥🔥: 198 \| 💬: [142](https://news.ycombinator.com/item?id=42897041) \| 🗓️ 2025-02-01
+| 🔥🔥: 202 \| 💬: [143](https://news.ycombinator.com/item?id=42897041) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -95,23 +95,11 @@ tags:
 
 ---
 
-## <a name="7"></a>7. Bzip3：BZip2 的精神继承者 
-<small>🔗 [github.com](https://github.com/kspalaiologos/bzip3): Bzip3: A spiritual successor to BZip2</small>
-
-
-| 🔥🔥: 191 \| 💬: [108](https://news.ycombinator.com/item?id=42899713) \| 🗓️ 2025-02-01
-
-
-<br />
-新一代压缩工具 **Bzip3** 通过 **Burrows-Wheeler 变换** 与 **LZ77+PPM 预测模型** 显著提升压缩率与速度，专精文本与代码压缩。测试中其高参数模式压缩率优于 BZip2、xz 及 Zstandard，并行解压仅需 4 分钟。支持多架构并采用 LGPL-3.0 协议，但作者强调需自行承担数据丢失风险。
-
----
-
-## <a name="8"></a>8. 调查Neuralink的Phyllis Fong因拒离职被强制解职 
+## <a name="7"></a>7. 调查Neuralink的Phyllis Fong因拒离职被强制解职 
 <small>🔗 [timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/technology/tech-news/phyllis-fong-who-was-investigating-elon-musks-brain-implant-startup-neuralink-forcefully-removed-from-office-after-refusing-termination-order/articleshow/117800543.cms): Phyllis Fong, who was investigating Neuralink, "forcefully removed "</small>
 
 
-| 🔥🔥: 190 \| 💬: [128](https://news.ycombinator.com/item?id=42902355) \| 🗓️ 2025-02-01
+| 🔥🔥: 199 \| 💬: [146](https://news.ycombinator.com/item?id=42902355) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -119,23 +107,23 @@ tags:
 
 ---
 
-## <a name="9"></a>9. 全美超90%机场塔台面临人员短缺危机 
-<small>🔗 [cbsnews.com](https://www.cbsnews.com/news/over-90-percent-u-s-airport-towers-understaffed-air-traffic-controllers-data-shows/): Over 90% of U.S. airport towers are understaffed, data shows</small>
+## <a name="8"></a>8. Bzip3：BZip2 的精神继承者 
+<small>🔗 [github.com](https://github.com/kspalaiologos/bzip3): Bzip3: A spiritual successor to BZip2</small>
 
 
-| 🔥🔥: 171 \| 💬: [209](https://news.ycombinator.com/item?id=42899261) \| 🗓️ 2025-02-01
+| 🔥🔥: 198 \| 💬: [115](https://news.ycombinator.com/item?id=42899713) \| 🗓️ 2025-02-01
 
 
 <br />
-数据显示，**仅不到10%的美国机场塔台**达到联邦航空局（FAA）与工会联合制定的空管员配置标准。近期华盛顿特区附近空难（致67人遇难）引发关注，事发时**仅1名空管员同时调度直升机与客机**，而常规需2人协作。FAA报告称，全国空管员缺口达3000-4000人，疫情严重阻碍培训与招聘，导致合格人员比例仅72%。工会指出，即使当前招聘2000人，**最终仅半数能通过严格认证**。
+新一代压缩工具 **Bzip3** 通过 **Burrows-Wheeler 变换** 与 **LZ77+PPM 预测模型** 显著提升压缩率与速度，专精文本与代码压缩。测试中其高参数模式压缩率优于 BZip2、xz 及 Zstandard，并行解压仅需 4 分钟。支持多架构并采用 LGPL-3.0 协议，但作者强调需自行承担数据丢失风险。
 
 ---
 
-## <a name="10"></a>10. 甲骨文云无故删除活跃用户账户且数据无法恢复 
+## <a name="9"></a>9. 甲骨文云无故删除活跃用户账户且数据无法恢复 
 <small>🔗 [mastodon.de](https://mastodon.de/@ErikUden/113930010311998246): Oracle Cloud deleting active user accounts without possibility for data recovery</small>
 
 
-| 🔥🔥: 163 \| 💬: [81](https://news.ycombinator.com/item?id=42901897) \| 🗓️ 2025-02-01
+| 🔥🔥: 177 \| 💬: [85](https://news.ycombinator.com/item?id=42901897) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -143,7 +131,43 @@ tags:
 
 ---
 
-## <a name="11"></a>11. ADHD没有毁了我，毁了我的是父母 
+## <a name="10"></a>10. 全美超90%机场塔台面临人员短缺危机 
+<small>🔗 [cbsnews.com](https://www.cbsnews.com/news/over-90-percent-u-s-airport-towers-understaffed-air-traffic-controllers-data-shows/): Over 90% of U.S. airport towers are understaffed, data shows</small>
+
+
+| 🔥🔥: 172 \| 💬: [211](https://news.ycombinator.com/item?id=42899261) \| 🗓️ 2025-02-01
+
+
+<br />
+数据显示，**仅不到10%的美国机场塔台**达到联邦航空局（FAA）与工会联合制定的空管员配置标准。近期华盛顿特区附近空难（致67人遇难）引发关注，事发时**仅1名空管员同时调度直升机与客机**，而常规需2人协作。FAA报告称，全国空管员缺口达3000-4000人，疫情严重阻碍培训与招聘，导致合格人员比例仅72%。工会指出，即使当前招聘2000人，**最终仅半数能通过严格认证**。
+
+---
+
+## <a name="11"></a>11. 避免使用ISP提供的路由器 
+<small>🔗 [routersecurity.org](https://routersecurity.org/ISProuters.php): Avoid ISP Routers (2024)</small>
+
+
+| 🔥🔥: 166 \| 💬: [76](https://news.ycombinator.com/item?id=42903576) \| 🗓️ 2025-02-01
+
+
+<br />
+文章指出，使用自主购买的路由器和调制解调器比依赖**ISP提供的设备**更安全。原因包括：ISP设备常存在**默认密码未修改**、固件更新权限受限、可能植入后门或收集用户数据，且易成大规模攻击目标。此外，ISP为降低成本常忽视安全性，设备可能被用于公共WiFi或无法自定义配置。长期租赁费用也可能高于自购成本。作者强调，垄断性ISP缺乏改进动力，用户应掌控硬件选择权以提升安全与隐私保护。
+
+---
+
+## <a name="12"></a>12. 奇兹信徒与理性主义死亡邪教 
+<small>🔗 [maxread.substack.com](https://maxread.substack.com/p/the-zizians-and-the-rationalist-death): The Zizians and the rationalist death cult</small>
+
+
+| 🔥🔥: 154 \| 💬: [162](https://news.ycombinator.com/item?id=42897871) \| 🗓️ 2025-02-01
+
+
+<br />
+本文揭露硅谷**理性主义运动**衍生的暴力组织“奇兹信徒”。领袖Ziz融合激进素食主义与**半球理论**，主张人类大脑分属独立意识体，并将食肉视为“种族屠杀”。信徒涉及佛蒙特州边境枪战等多起命案，暴露理性主义社群在AI伦理与认知实验中的极端化倾向，折射科技乌托邦主义下的潜在危险。
+
+---
+
+## <a name="13"></a>13. ADHD没有毁了我，毁了我的是父母 
 <small>🔗 [claimingattention.substack.com](https://claimingattention.substack.com/p/adhd-did-not-break-me-my-parents-did): ADHD Didn't Break Me–My Parents Did</small>
 
 
@@ -155,11 +179,11 @@ tags:
 
 ---
 
-## <a name="12"></a>12. 戴尔终止混合办公政策，强制要求全员返岗办公 
+## <a name="14"></a>14. 戴尔终止混合办公政策，强制要求全员返岗办公 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/01/31/dell_ends_hybrid_work_policy/): Dell ends hybrid work policy, demands RTO despite remote work pledge</small>
 
 
-| 🔥🔥: 149 \| 💬: [217](https://news.ycombinator.com/item?id=42899975) \| 🗓️ 2025-02-01
+| 🔥🔥: 150 \| 💬: [223](https://news.ycombinator.com/item?id=42899975) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -167,19 +191,19 @@ tags:
 
 ---
 
-## <a name="13"></a>13. 奇兹信徒与理性主义死亡邪教 
-<small>🔗 [maxread.substack.com](https://maxread.substack.com/p/the-zizians-and-the-rationalist-death): The Zizians and the rationalist death cult</small>
+## <a name="15"></a>15. 菲利普·洛揭穿马斯克 
+<small>🔗 [bsky.app](https://bsky.app/profile/brainking.bsky.social/post/3lgsco7cdnc26): Philip Low Unmasking Musk</small>
 
 
-| 🔥🔥: 148 \| 💬: [161](https://news.ycombinator.com/item?id=42897871) \| 🗓️ 2025-02-01
+| 🔥🔥: 140 \| 💬: [48](https://news.ycombinator.com/item?id=42903336) \| 🗓️ 2025-02-01
 
 
 <br />
-本文揭露硅谷**理性主义运动**衍生的暴力组织“奇兹信徒”。领袖Ziz融合激进素食主义与**半球理论**，主张人类大脑分属独立意识体，并将食肉视为“种族屠杀”。信徒涉及佛蒙特州边境枪战等多起命案，暴露理性主义社群在AI伦理与认知实验中的极端化倾向，折射科技乌托邦主义下的潜在危险。
+此文探讨**Bluesky社交平台**的技术架构与互动特性，强调其依赖**JavaScript**实现高度交互功能，并基于**AT协议**构建。菲利普·洛通过分析马斯克的公开言论与行为，提出批判性观点，呼吁关注技术透明性与用户隐私保护。内容关联“Show HN”类别，未深入展开具体揭露细节。
 
 ---
 
-## <a name="14"></a>14. FOSDEM 2025：实时流媒体日程安排 
+## <a name="16"></a>16. FOSDEM 2025：实时流媒体日程安排 
 <small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/streaming/): FOSDEM 2025: Streaming Schedule</small>
 
 
@@ -191,7 +215,7 @@ tags:
 
 ---
 
-## <a name="15"></a>15. Data.gov数据集消失引发关注 
+## <a name="17"></a>17. Data.gov数据集消失引发关注 
 <small>🔗 [mashable.com](https://mashable.com/article/government-datasets-disappear-since-trump-inauguration): Datasets from Data.gov Have Disappeared</small>
 
 
@@ -203,39 +227,15 @@ tags:
 
 ---
 
-## <a name="16"></a>16. 菲利普·洛揭穿马斯克 
-<small>🔗 [bsky.app](https://bsky.app/profile/brainking.bsky.social/post/3lgsco7cdnc26): Philip Low Unmasking Musk</small>
+## <a name="18"></a>18. 一键清除网页固定顶栏的书签工具（2013） 
+<small>🔗 [alisdair.mcdiarmid.org](https://alisdair.mcdiarmid.org/kill-sticky-headers/): A bookmarklet to kill sticky headers (2013)</small>
 
 
-| 🔥🔥: 111 \| 💬: [31](https://news.ycombinator.com/item?id=42903336) \| 🗓️ 2025-02-01
-
-
-<br />
-此文探讨**Bluesky社交平台**的技术架构与互动特性，强调其依赖**JavaScript**实现高度交互功能，并基于**AT协议**构建。菲利普·洛通过分析马斯克的公开言论与行为，提出批判性观点，呼吁关注技术透明性与用户隐私保护。内容关联“Show HN”类别，未深入展开具体揭露细节。
-
----
-
-## <a name="17"></a>17. 避免使用ISP提供的路由器 
-<small>🔗 [routersecurity.org](https://routersecurity.org/ISProuters.php): Avoid ISP Routers</small>
-
-
-| 🔥: 97 \| 💬: [39](https://news.ycombinator.com/item?id=42903576) \| 🗓️ 2025-02-01
+| 🔥: 89 \| 💬: [36](https://news.ycombinator.com/item?id=42902395) \| 🗓️ 2025-02-01
 
 
 <br />
-文章指出，使用自主购买的路由器和调制解调器比依赖**ISP提供的设备**更安全。原因包括：ISP设备常存在**默认密码未修改**、固件更新权限受限、可能植入后门或收集用户数据，且易成大规模攻击目标。此外，ISP为降低成本常忽视安全性，设备可能被用于公共WiFi或无法自定义配置。长期租赁费用也可能高于自购成本。作者强调，垄断性ISP缺乏改进动力，用户应掌控硬件选择权以提升安全与隐私保护。
-
----
-
-## <a name="18"></a>18. 硬编码功能开关并无不可 
-<small>🔗 [code.mendhak.com](https://code.mendhak.com/hardcode-feature-flags/): It's OK to hardcode feature flags</small>
-
-
-| 🔥: 87 \| 💬: [80](https://news.ycombinator.com/item?id=42899778) \| 🗓️ 2025-02-01
-
-
-<br />
-功能开关常用于控制新功能的发布，主流方案依赖**管理软件**，但此类工具带来复杂性、安全风险及技术债。作者指出，多数场景下**硬编码**更可靠：通过JSON文件配置，随应用启动加载，配合常规开发流程变更。其优势在于简单、可追溯，且避免运行时不确定性。仅当业务明确需要动态大规模调整时，才需引入复杂系统。**过早优化**不仅徒增负担，更可能成为技术决策的败笔。
+作者因使用11寸MacBook Air，**屏幕空间有限**，痛恨**固定标题栏**占用垂直空间、干扰空格键滚动体验。为此，他开发了一个书签工具，通过**`querySelectorAll`定位并删除所有`position: fixed`元素**，即时移除固定顶栏。工具轻量且无需安装，刷新页面即可恢复原布局，旨在让用户专注阅读，避免多余导航干扰。
 
 ---
 
@@ -243,7 +243,7 @@ tags:
 <small>🔗 [talknotes.tech](https://www.talknotes.tech/): Show HN: TalkNotes – A site that turns your ideas into tasks</small>
 
 
-| 🔥: 85 \| 💬: [39](https://news.ycombinator.com/item?id=42897662) \| 🗓️ 2025-02-01
+| 🔥: 88 \| 💬: [39](https://news.ycombinator.com/item?id=42897662) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -251,7 +251,43 @@ tags:
 
 ---
 
-## <a name="20"></a>20. 大语言模型在数学领域的应用探索（2023） 
+## <a name="20"></a>20. 硬编码功能开关并无不可 
+<small>🔗 [code.mendhak.com](https://code.mendhak.com/hardcode-feature-flags/): It's OK to hardcode feature flags</small>
+
+
+| 🔥: 88 \| 💬: [82](https://news.ycombinator.com/item?id=42899778) \| 🗓️ 2025-02-01
+
+
+<br />
+功能开关常用于控制新功能的发布，主流方案依赖**管理软件**，但此类工具带来复杂性、安全风险及技术债。作者指出，多数场景下**硬编码**更可靠：通过JSON文件配置，随应用启动加载，配合常规开发流程变更。其优势在于简单、可追溯，且避免运行时不确定性。仅当业务明确需要动态大规模调整时，才需引入复杂系统。**过早优化**不仅徒增负担，更可能成为技术决策的败笔。
+
+---
+
+## <a name="21"></a>21. 在 Miyoo A30 掌机上运行 Python 3、Pygame 与 Debian Bookworm 的实践 
+<small>🔗 [jtolio.com](https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/): Python 3, Pygame, and Debian Bookworm on the Miyoo A30</small>
+
+
+| 🔥: 85 \| 💬: [16](https://news.ycombinator.com/item?id=42901616) \| 🗓️ 2025-02-01
+
+
+<br />
+作者通过**spruceOS 定制系统**在廉价掌机 Miyoo A30（4核 Cortex A7 / Mali-400 GPU）上搭建了 **Debian Bookworm** 开发环境，利用 `debootstrap` 创建 armhf 架构的 chroot 容器，并覆盖 GPU 驱动库实现硬件加速。通过自定义脚本整合 Pygame 应用至系统界面，解决了屏幕 90 度旋转问题（临时方案为代码修正）。文中提供了预装镜像与工具链，支持 Python 游戏开发，但受限于 Linux 3.x 内核部分功能缺失。
+
+---
+
+## <a name="22"></a>22. YouTube音频质量究竟如何？（2022年） 
+<small>🔗 [audiomisc.co.uk](https://www.audiomisc.co.uk/YouTube/SpotTheDifference.html): YouTube audio quality – How good does it get? (2022)</small>
+
+
+| 🔥: 84 \| 💬: [50](https://news.ycombinator.com/item?id=42901182) \| 🗓️ 2025-02-01
+
+
+<br />
+本文通过对比RVW协会上传的原始音频与YouTube转码后的版本，分析平台音频质量。测试显示，**Opus编解码器**虽保持48kHz采样率，但与原始aac(LC)相比存在约20dB残留误差，高频信号被替换为噪声。而采用**aac编解码**的44.1kHz版本误差较低（-30dB），但涉及采样率转换可能影响音质。频谱分析表明YouTube处理会截断20kHz以上信号，并通过抖动生成虚假高频，**编解码转换与重采样共同导致音质损失**。
+
+---
+
+## <a name="23"></a>23. 大语言模型在数学领域的应用探索（2023） 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2312.04556): Large Language Models for Mathematicians (2023)</small>
 
 
@@ -263,23 +299,11 @@ tags:
 
 ---
 
-## <a name="21"></a>21. 在 Miyoo A30 掌机上运行 Python 3、Pygame 与 Debian Bookworm 的实践 
-<small>🔗 [jtolio.com](https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/): Python 3, Pygame, and Debian Bookworm on the Miyoo A30</small>
-
-
-| 🔥: 81 \| 💬: [12](https://news.ycombinator.com/item?id=42901616) \| 🗓️ 2025-02-01
-
-
-<br />
-作者通过**spruceOS 定制系统**在廉价掌机 Miyoo A30（4核 Cortex A7 / Mali-400 GPU）上搭建了 **Debian Bookworm** 开发环境，利用 `debootstrap` 创建 armhf 架构的 chroot 容器，并覆盖 GPU 驱动库实现硬件加速。通过自定义脚本整合 Pygame 应用至系统界面，解决了屏幕 90 度旋转问题（临时方案为代码修正）。文中提供了预装镜像与工具链，支持 Python 游戏开发，但受限于 Linux 3.x 内核部分功能缺失。
-
----
-
-## <a name="22"></a>22. 成瘾经济 
+## <a name="24"></a>24. 成瘾经济 
 <small>🔗 [profgalloway.com](https://www.profgalloway.com/addiction-economy/): Addiction Economy</small>
 
 
-| 🔥: 80 \| 💬: [44](https://news.ycombinator.com/item?id=42899606) \| 🗓️ 2025-02-01
+| 🔥: 81 \| 💬: [44](https://news.ycombinator.com/item?id=42899606) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -287,38 +311,14 @@ tags:
 
 ---
 
-## <a name="23"></a>23. 一键清除网页固定顶栏的书签工具（2013） 
-<small>🔗 [alisdair.mcdiarmid.org](https://alisdair.mcdiarmid.org/kill-sticky-headers/): A bookmarklet to kill sticky headers (2013)</small>
-
-
-| 🔥: 80 \| 💬: [27](https://news.ycombinator.com/item?id=42902395) \| 🗓️ 2025-02-01
-
-
-<br />
-作者因使用11寸MacBook Air，**屏幕空间有限**，痛恨**固定标题栏**占用垂直空间、干扰空格键滚动体验。为此，他开发了一个书签工具，通过**`querySelectorAll`定位并删除所有`position: fixed`元素**，即时移除固定顶栏。工具轻量且无需安装，刷新页面即可恢复原布局，旨在让用户专注阅读，避免多余导航干扰。
-
----
-
-## <a name="24"></a>24. 渐进式去权：AI逐步发展如何引发系统性生存风险 
+## <a name="25"></a>25. 渐进式去权：AI逐步发展如何引发系统性生存风险 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2501.16946): Gradual Disempowerment: How Even Incremental AI Progress Poses Existential Risks</small>
 
 
-| 🔥: 79 \| 💬: [71](https://news.ycombinator.com/item?id=42898914) \| 🗓️ 2025-02-01
+| 🔥: 80 \| 💬: [71](https://news.ycombinator.com/item?id=42898914) \| 🗓️ 2025-02-01
 
 
 <br />
 该研究提出**渐进式去权**概念，指出AI能力即使**渐进提升**也可能通过经济、文化和政治系统的连锁效应，逐步削弱人类对社会关键领域的控制力。随着AI替代人类劳动与决策，传统显性控制机制（如投票）和隐性利益协调机制将失效，最终可能导致人类影响力**不可逆丧失**，引发生存危机。研究呼吁针对系统性风险开展跨领域技术治理。
-
----
-
-## <a name="25"></a>25. YouTube音频质量究竟如何？（2022年） 
-<small>🔗 [audiomisc.co.uk](https://www.audiomisc.co.uk/YouTube/SpotTheDifference.html): YouTube audio quality – How good does it get? (2022)</small>
-
-
-| 🔥: 79 \| 💬: [47](https://news.ycombinator.com/item?id=42901182) \| 🗓️ 2025-02-01
-
-
-<br />
-本文通过对比RVW协会上传的原始音频与YouTube转码后的版本，分析平台音频质量。测试显示，**Opus编解码器**虽保持48kHz采样率，但与原始aac(LC)相比存在约20dB残留误差，高频信号被替换为噪声。而采用**aac编解码**的44.1kHz版本误差较低（-30dB），但涉及采样率转换可能影响音质。频谱分析表明YouTube处理会截断20kHz以上信号，并通过抖动生成虚假高频，**编解码转换与重采样共同导致音质损失**。
 
 ---
