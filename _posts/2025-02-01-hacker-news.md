@@ -27,7 +27,7 @@ tags:
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/): CDC data are disappearing</small>
 
 
-| 🔥🔥: 505 \| 💬: [383](https://news.ycombinator.com/item?id=42897696) \| 🗓️ 2025-02-01
+| 🔥🔥: 533 \| 💬: [410](https://news.ycombinator.com/item?id=42897696) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [swift.org](https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/): Apple is open sourcing Swift Build</small>
 
 
-| 🔥🔥: 428 \| 💬: [168](https://news.ycombinator.com/item?id=42899703) \| 🗓️ 2025-02-01
+| 🔥🔥: 451 \| 💬: [188](https://news.ycombinator.com/item?id=42899703) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [digitalspaceport.com](https://digitalspaceport.com/how-to-run-deepseek-r1-671b-fully-locally-on-2000-epyc-rig/): How to Run DeepSeek R1 671B Locally on a $2000 EPYC Server</small>
 
 
-| 🔥🔥: 405 \| 💬: [237](https://news.ycombinator.com/item?id=42897205) \| 🗓️ 2025-02-01
+| 🔥🔥: 409 \| 💬: [238](https://news.ycombinator.com/item?id=42897205) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [phiresky.github.io](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/): Visualizing all books of the world in ISBN-Space</small>
 
 
-| 🔥🔥: 331 \| 💬: [66](https://news.ycombinator.com/item?id=42897120) \| 🗓️ 2025-02-01
+| 🔥🔥: 343 \| 💬: [68](https://news.ycombinator.com/item?id=42897120) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [lumon-industries.com](https://lumon-industries.com/): Macrodata Refinement</small>
 
 
-| 🔥🔥: 241 \| 💬: [135](https://news.ycombinator.com/item?id=42902691) \| 🗓️ 2025-02-01
+| 🔥🔥: 273 \| 💬: [153](https://news.ycombinator.com/item?id=42902691) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -83,35 +83,11 @@ tags:
 
 ---
 
-## <a name="6"></a>6. 如何关闭Apple Intelligence功能 
-<small>🔗 [asurion.com](https://www.asurion.com/connect/tech-tips/turn-off-apple-intelligence/): How to turn off Apple Intelligence</small>
-
-
-| 🔥🔥: 202 \| 💬: [143](https://news.ycombinator.com/item?id=42897041) \| 🗓️ 2025-02-01
-
-
-<br />
-本文介绍在iPhone、iPad及Mac设备上禁用**Apple Intelligence**的方法：通过**设置**→Apple Intelligence关闭总开关，系统将停止智能建议、摘要生成等功能（部分安全功能如Face ID仍保留）。用户也可在**应用权限**中单独设置特定应用不共享数据，实现选择性禁用。该操作兼顾隐私保护与基础AI服务的使用需求。
-
----
-
-## <a name="7"></a>7. 调查Neuralink的Phyllis Fong因拒离职被强制解职 
-<small>🔗 [timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/technology/tech-news/phyllis-fong-who-was-investigating-elon-musks-brain-implant-startup-neuralink-forcefully-removed-from-office-after-refusing-termination-order/articleshow/117800543.cms): Phyllis Fong, who was investigating Neuralink, "forcefully removed "</small>
-
-
-| 🔥🔥: 199 \| 💬: [146](https://news.ycombinator.com/item?id=42902355) \| 🗓️ 2025-02-01
-
-
-<br />
-美国农业部监察长**Phyllis Fong**因拒绝接受特朗普政府的解雇令，遭安保人员带离办公室。她指控解雇程序违规，白宫则称此举为清除**党派官僚**以维护法治。Fong曾主导多项重大调查，包括对马斯克脑机接口公司**Neuralink**的审查。此次事件是特朗普近期解雇17名联邦监察官的"周五晚大清洗"行动之一。
-
----
-
-## <a name="8"></a>8. Bzip3：BZip2 的精神继承者 
+## <a name="6"></a>6. Bzip3：BZip2 的精神继承者 
 <small>🔗 [github.com](https://github.com/kspalaiologos/bzip3): Bzip3: A spiritual successor to BZip2</small>
 
 
-| 🔥🔥: 198 \| 💬: [115](https://news.ycombinator.com/item?id=42899713) \| 🗓️ 2025-02-01
+| 🔥🔥: 209 \| 💬: [120](https://news.ycombinator.com/item?id=42899713) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -119,11 +95,35 @@ tags:
 
 ---
 
+## <a name="7"></a>7. 调查Neuralink的Phyllis Fong因拒离职被强制解职 
+<small>🔗 [timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/technology/tech-news/phyllis-fong-who-was-investigating-elon-musks-brain-implant-startup-neuralink-forcefully-removed-from-office-after-refusing-termination-order/articleshow/117800543.cms): Phyllis Fong, who was investigating Neuralink, "forcefully removed "</small>
+
+
+| 🔥🔥: 208 \| 💬: [164](https://news.ycombinator.com/item?id=42902355) \| 🗓️ 2025-02-01
+
+
+<br />
+美国农业部监察长**Phyllis Fong**因拒绝接受特朗普政府的解雇令，遭安保人员带离办公室。她指控解雇程序违规，白宫则称此举为清除**党派官僚**以维护法治。Fong曾主导多项重大调查，包括对马斯克脑机接口公司**Neuralink**的审查。此次事件是特朗普近期解雇17名联邦监察官的"周五晚大清洗"行动之一。
+
+---
+
+## <a name="8"></a>8. 如何关闭Apple Intelligence功能 
+<small>🔗 [asurion.com](https://www.asurion.com/connect/tech-tips/turn-off-apple-intelligence/): How to turn off Apple Intelligence</small>
+
+
+| 🔥🔥: 204 \| 💬: [145](https://news.ycombinator.com/item?id=42897041) \| 🗓️ 2025-02-01
+
+
+<br />
+本文介绍在iPhone、iPad及Mac设备上禁用**Apple Intelligence**的方法：通过**设置**→Apple Intelligence关闭总开关，系统将停止智能建议、摘要生成等功能（部分安全功能如Face ID仍保留）。用户也可在**应用权限**中单独设置特定应用不共享数据，实现选择性禁用。该操作兼顾隐私保护与基础AI服务的使用需求。
+
+---
+
 ## <a name="9"></a>9. 甲骨文云无故删除活跃用户账户且数据无法恢复 
 <small>🔗 [mastodon.de](https://mastodon.de/@ErikUden/113930010311998246): Oracle Cloud deleting active user accounts without possibility for data recovery</small>
 
 
-| 🔥🔥: 177 \| 💬: [85](https://news.ycombinator.com/item?id=42901897) \| 🗓️ 2025-02-01
+| 🔥🔥: 182 \| 💬: [87](https://news.ycombinator.com/item?id=42901897) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -131,23 +131,11 @@ tags:
 
 ---
 
-## <a name="10"></a>10. 全美超90%机场塔台面临人员短缺危机 
-<small>🔗 [cbsnews.com](https://www.cbsnews.com/news/over-90-percent-u-s-airport-towers-understaffed-air-traffic-controllers-data-shows/): Over 90% of U.S. airport towers are understaffed, data shows</small>
-
-
-| 🔥🔥: 172 \| 💬: [211](https://news.ycombinator.com/item?id=42899261) \| 🗓️ 2025-02-01
-
-
-<br />
-数据显示，**仅不到10%的美国机场塔台**达到联邦航空局（FAA）与工会联合制定的空管员配置标准。近期华盛顿特区附近空难（致67人遇难）引发关注，事发时**仅1名空管员同时调度直升机与客机**，而常规需2人协作。FAA报告称，全国空管员缺口达3000-4000人，疫情严重阻碍培训与招聘，导致合格人员比例仅72%。工会指出，即使当前招聘2000人，**最终仅半数能通过严格认证**。
-
----
-
-## <a name="11"></a>11. 避免使用ISP提供的路由器 
+## <a name="10"></a>10. 避免使用ISP提供的路由器 
 <small>🔗 [routersecurity.org](https://routersecurity.org/ISProuters.php): Avoid ISP Routers (2024)</small>
 
 
-| 🔥🔥: 166 \| 💬: [76](https://news.ycombinator.com/item?id=42903576) \| 🗓️ 2025-02-01
+| 🔥🔥: 179 \| 💬: [96](https://news.ycombinator.com/item?id=42903576) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -155,11 +143,23 @@ tags:
 
 ---
 
+## <a name="11"></a>11. 全美超90%机场塔台面临人员短缺危机 
+<small>🔗 [cbsnews.com](https://www.cbsnews.com/news/over-90-percent-u-s-airport-towers-understaffed-air-traffic-controllers-data-shows/): Over 90% of U.S. airport towers are understaffed, data shows</small>
+
+
+| 🔥🔥: 174 \| 💬: [212](https://news.ycombinator.com/item?id=42899261) \| 🗓️ 2025-02-01
+
+
+<br />
+数据显示，**仅不到10%的美国机场塔台**达到联邦航空局（FAA）与工会联合制定的空管员配置标准。近期华盛顿特区附近空难（致67人遇难）引发关注，事发时**仅1名空管员同时调度直升机与客机**，而常规需2人协作。FAA报告称，全国空管员缺口达3000-4000人，疫情严重阻碍培训与招聘，导致合格人员比例仅72%。工会指出，即使当前招聘2000人，**最终仅半数能通过严格认证**。
+
+---
+
 ## <a name="12"></a>12. 奇兹信徒与理性主义死亡邪教 
 <small>🔗 [maxread.substack.com](https://maxread.substack.com/p/the-zizians-and-the-rationalist-death): The Zizians and the rationalist death cult</small>
 
 
-| 🔥🔥: 154 \| 💬: [162](https://news.ycombinator.com/item?id=42897871) \| 🗓️ 2025-02-01
+| 🔥🔥: 158 \| 💬: [170](https://news.ycombinator.com/item?id=42897871) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -171,7 +171,7 @@ tags:
 <small>🔗 [claimingattention.substack.com](https://claimingattention.substack.com/p/adhd-did-not-break-me-my-parents-did): ADHD Didn't Break Me–My Parents Did</small>
 
 
-| 🔥🔥: 154 \| 💬: [163](https://news.ycombinator.com/item?id=42899841) \| 🗓️ 2025-02-01
+| 🔥🔥: 155 \| 💬: [163](https://news.ycombinator.com/item?id=42899841) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -183,7 +183,7 @@ tags:
 <small>🔗 [theregister.com](https://www.theregister.com/2025/01/31/dell_ends_hybrid_work_policy/): Dell ends hybrid work policy, demands RTO despite remote work pledge</small>
 
 
-| 🔥🔥: 150 \| 💬: [223](https://news.ycombinator.com/item?id=42899975) \| 🗓️ 2025-02-01
+| 🔥🔥: 152 \| 💬: [226](https://news.ycombinator.com/item?id=42899975) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -195,7 +195,7 @@ tags:
 <small>🔗 [bsky.app](https://bsky.app/profile/brainking.bsky.social/post/3lgsco7cdnc26): Philip Low Unmasking Musk</small>
 
 
-| 🔥🔥: 140 \| 💬: [48](https://news.ycombinator.com/item?id=42903336) \| 🗓️ 2025-02-01
+| 🔥🔥: 150 \| 💬: [52](https://news.ycombinator.com/item?id=42903336) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -207,7 +207,7 @@ tags:
 <small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/streaming/): FOSDEM 2025: Streaming Schedule</small>
 
 
-| 🔥🔥: 127 \| 💬: [23](https://news.ycombinator.com/item?id=42897254) \| 🗓️ 2025-02-01
+| 🔥🔥: 128 \| 💬: [23](https://news.ycombinator.com/item?id=42897254) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -231,7 +231,7 @@ tags:
 <small>🔗 [alisdair.mcdiarmid.org](https://alisdair.mcdiarmid.org/kill-sticky-headers/): A bookmarklet to kill sticky headers (2013)</small>
 
 
-| 🔥: 89 \| 💬: [36](https://news.ycombinator.com/item?id=42902395) \| 🗓️ 2025-02-01
+| 🔥🔥: 107 \| 💬: [43](https://news.ycombinator.com/item?id=42902395) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -239,7 +239,31 @@ tags:
 
 ---
 
-## <a name="19"></a>19. Show HN: TalkNotes——用语音高效规划每日任务的AI工具 
+## <a name="19"></a>19. 在 Miyoo A30 掌机上运行 Python 3、Pygame 与 Debian Bookworm 的实践 
+<small>🔗 [jtolio.com](https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/): Python 3, Pygame, and Debian Bookworm on the Miyoo A30</small>
+
+
+| 🔥: 91 \| 💬: [17](https://news.ycombinator.com/item?id=42901616) \| 🗓️ 2025-02-01
+
+
+<br />
+作者通过**spruceOS 定制系统**在廉价掌机 Miyoo A30（4核 Cortex A7 / Mali-400 GPU）上搭建了 **Debian Bookworm** 开发环境，利用 `debootstrap` 创建 armhf 架构的 chroot 容器，并覆盖 GPU 驱动库实现硬件加速。通过自定义脚本整合 Pygame 应用至系统界面，解决了屏幕 90 度旋转问题（临时方案为代码修正）。文中提供了预装镜像与工具链，支持 Python 游戏开发，但受限于 Linux 3.x 内核部分功能缺失。
+
+---
+
+## <a name="20"></a>20. 硬编码功能开关并无不可 
+<small>🔗 [code.mendhak.com](https://code.mendhak.com/hardcode-feature-flags/): It's OK to hardcode feature flags</small>
+
+
+| 🔥: 89 \| 💬: [83](https://news.ycombinator.com/item?id=42899778) \| 🗓️ 2025-02-01
+
+
+<br />
+功能开关常用于控制新功能的发布，主流方案依赖**管理软件**，但此类工具带来复杂性、安全风险及技术债。作者指出，多数场景下**硬编码**更可靠：通过JSON文件配置，随应用启动加载，配合常规开发流程变更。其优势在于简单、可追溯，且避免运行时不确定性。仅当业务明确需要动态大规模调整时，才需引入复杂系统。**过早优化**不仅徒增负担，更可能成为技术决策的败笔。
+
+---
+
+## <a name="21"></a>21. Show HN: TalkNotes——用语音高效规划每日任务的AI工具 
 <small>🔗 [talknotes.tech](https://www.talknotes.tech/): Show HN: TalkNotes – A site that turns your ideas into tasks</small>
 
 
@@ -251,35 +275,11 @@ tags:
 
 ---
 
-## <a name="20"></a>20. 硬编码功能开关并无不可 
-<small>🔗 [code.mendhak.com](https://code.mendhak.com/hardcode-feature-flags/): It's OK to hardcode feature flags</small>
-
-
-| 🔥: 88 \| 💬: [82](https://news.ycombinator.com/item?id=42899778) \| 🗓️ 2025-02-01
-
-
-<br />
-功能开关常用于控制新功能的发布，主流方案依赖**管理软件**，但此类工具带来复杂性、安全风险及技术债。作者指出，多数场景下**硬编码**更可靠：通过JSON文件配置，随应用启动加载，配合常规开发流程变更。其优势在于简单、可追溯，且避免运行时不确定性。仅当业务明确需要动态大规模调整时，才需引入复杂系统。**过早优化**不仅徒增负担，更可能成为技术决策的败笔。
-
----
-
-## <a name="21"></a>21. 在 Miyoo A30 掌机上运行 Python 3、Pygame 与 Debian Bookworm 的实践 
-<small>🔗 [jtolio.com](https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/): Python 3, Pygame, and Debian Bookworm on the Miyoo A30</small>
-
-
-| 🔥: 85 \| 💬: [16](https://news.ycombinator.com/item?id=42901616) \| 🗓️ 2025-02-01
-
-
-<br />
-作者通过**spruceOS 定制系统**在廉价掌机 Miyoo A30（4核 Cortex A7 / Mali-400 GPU）上搭建了 **Debian Bookworm** 开发环境，利用 `debootstrap` 创建 armhf 架构的 chroot 容器，并覆盖 GPU 驱动库实现硬件加速。通过自定义脚本整合 Pygame 应用至系统界面，解决了屏幕 90 度旋转问题（临时方案为代码修正）。文中提供了预装镜像与工具链，支持 Python 游戏开发，但受限于 Linux 3.x 内核部分功能缺失。
-
----
-
 ## <a name="22"></a>22. YouTube音频质量究竟如何？（2022年） 
 <small>🔗 [audiomisc.co.uk](https://www.audiomisc.co.uk/YouTube/SpotTheDifference.html): YouTube audio quality – How good does it get? (2022)</small>
 
 
-| 🔥: 84 \| 💬: [50](https://news.ycombinator.com/item?id=42901182) \| 🗓️ 2025-02-01
+| 🔥: 86 \| 💬: [51](https://news.ycombinator.com/item?id=42901182) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -291,7 +291,7 @@ tags:
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2312.04556): Large Language Models for Mathematicians (2023)</small>
 
 
-| 🔥: 83 \| 💬: [28](https://news.ycombinator.com/item?id=42899184) \| 🗓️ 2025-02-01
+| 🔥: 84 \| 💬: [28](https://news.ycombinator.com/item?id=42899184) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -303,7 +303,7 @@ tags:
 <small>🔗 [profgalloway.com](https://www.profgalloway.com/addiction-economy/): Addiction Economy</small>
 
 
-| 🔥: 81 \| 💬: [44](https://news.ycombinator.com/item?id=42899606) \| 🗓️ 2025-02-01
+| 🔥: 81 \| 💬: [46](https://news.ycombinator.com/item?id=42899606) \| 🗓️ 2025-02-01
 
 
 <br />
