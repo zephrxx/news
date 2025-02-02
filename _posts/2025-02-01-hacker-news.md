@@ -27,7 +27,7 @@ tags:
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/): CDC data are disappearing</small>
 
 
-| 🔥🔥: 560 \| 💬: [438](https://news.ycombinator.com/item?id=42897696) \| 🗓️ 2025-02-01
+| 🔥🔥: 585 \| 💬: [467](https://news.ycombinator.com/item?id=42897696) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [swift.org](https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/): Apple is open sourcing Swift Build</small>
 
 
-| 🔥🔥: 480 \| 💬: [207](https://news.ycombinator.com/item?id=42899703) \| 🗓️ 2025-02-01
+| 🔥🔥: 502 \| 💬: [212](https://news.ycombinator.com/item?id=42899703) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [digitalspaceport.com](https://digitalspaceport.com/how-to-run-deepseek-r1-671b-fully-locally-on-2000-epyc-rig/): How to Run DeepSeek R1 671B Locally on a $2000 EPYC Server</small>
 
 
-| 🔥🔥: 413 \| 💬: [239](https://news.ycombinator.com/item?id=42897205) \| 🗓️ 2025-02-01
+| 🔥🔥: 416 \| 💬: [239](https://news.ycombinator.com/item?id=42897205) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [phiresky.github.io](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/): Visualizing all books of the world in ISBN-Space</small>
 
 
-| 🔥🔥: 352 \| 💬: [69](https://news.ycombinator.com/item?id=42897120) \| 🗓️ 2025-02-01
+| 🔥🔥: 356 \| 💬: [71](https://news.ycombinator.com/item?id=42897120) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [lumon-industries.com](https://lumon-industries.com/): Macrodata Refinement</small>
 
 
-| 🔥🔥: 293 \| 💬: [165](https://news.ycombinator.com/item?id=42902691) \| 🗓️ 2025-02-01
+| 🔥🔥: 314 \| 💬: [174](https://news.ycombinator.com/item?id=42902691) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [github.com](https://github.com/kspalaiologos/bzip3): Bzip3: A spiritual successor to BZip2</small>
 
 
-| 🔥🔥: 216 \| 💬: [121](https://news.ycombinator.com/item?id=42899713) \| 🗓️ 2025-02-01
+| 🔥🔥: 224 \| 💬: [127](https://news.ycombinator.com/item?id=42899713) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/technology/tech-news/phyllis-fong-who-was-investigating-elon-musks-brain-implant-startup-neuralink-forcefully-removed-from-office-after-refusing-termination-order/articleshow/117800543.cms): Phyllis Fong, who was investigating Neuralink, "forcefully removed "</small>
 
 
-| 🔥🔥: 211 \| 💬: [174](https://news.ycombinator.com/item?id=42902355) \| 🗓️ 2025-02-01
+| 🔥🔥: 212 \| 💬: [175](https://news.ycombinator.com/item?id=42902355) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [asurion.com](https://www.asurion.com/connect/tech-tips/turn-off-apple-intelligence/): How to turn off Apple Intelligence</small>
 
 
-| 🔥🔥: 204 \| 💬: [147](https://news.ycombinator.com/item?id=42897041) \| 🗓️ 2025-02-01
+| 🔥🔥: 206 \| 💬: [149](https://news.ycombinator.com/item?id=42897041) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -123,7 +123,7 @@ tags:
 <small>🔗 [routersecurity.org](https://routersecurity.org/ISProuters.php): Avoid ISP Routers (2024)</small>
 
 
-| 🔥🔥: 193 \| 💬: [107](https://news.ycombinator.com/item?id=42903576) \| 🗓️ 2025-02-01
+| 🔥🔥: 203 \| 💬: [121](https://news.ycombinator.com/item?id=42903576) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -135,7 +135,7 @@ tags:
 <small>🔗 [mastodon.de](https://mastodon.de/@ErikUden/113930010311998246): Oracle Cloud deleting active user accounts without possibility for data recovery</small>
 
 
-| 🔥🔥: 185 \| 💬: [88](https://news.ycombinator.com/item?id=42901897) \| 🗓️ 2025-02-01
+| 🔥🔥: 187 \| 💬: [88](https://news.ycombinator.com/item?id=42901897) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -159,7 +159,7 @@ tags:
 <small>🔗 [maxread.substack.com](https://maxread.substack.com/p/the-zizians-and-the-rationalist-death): The Zizians and the rationalist death cult</small>
 
 
-| 🔥🔥: 161 \| 💬: [174](https://news.ycombinator.com/item?id=42897871) \| 🗓️ 2025-02-01
+| 🔥🔥: 162 \| 💬: [174](https://news.ycombinator.com/item?id=42897871) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -167,7 +167,19 @@ tags:
 
 ---
 
-## <a name="13"></a>13. ADHD没有毁了我，毁了我的是父母 
+## <a name="13"></a>13. 菲利普·洛揭穿马斯克 
+<small>🔗 [bsky.app](https://bsky.app/profile/brainking.bsky.social/post/3lgsco7cdnc26): Philip Low Unmasking Musk</small>
+
+
+| 🔥🔥: 156 \| 💬: [59](https://news.ycombinator.com/item?id=42903336) \| 🗓️ 2025-02-01
+
+
+<br />
+此文探讨**Bluesky社交平台**的技术架构与互动特性，强调其依赖**JavaScript**实现高度交互功能，并基于**AT协议**构建。菲利普·洛通过分析马斯克的公开言论与行为，提出批判性观点，呼吁关注技术透明性与用户隐私保护。内容关联“Show HN”类别，未深入展开具体揭露细节。
+
+---
+
+## <a name="14"></a>14. ADHD没有毁了我，毁了我的是父母 
 <small>🔗 [claimingattention.substack.com](https://claimingattention.substack.com/p/adhd-did-not-break-me-my-parents-did): ADHD Didn't Break Me–My Parents Did</small>
 
 
@@ -176,18 +188,6 @@ tags:
 
 <br />
 作者确诊ADHD后意识到，真正伤害他的并非疾病本身，而是父母以**纪律压制天性**的教养方式。家庭与学校构成的**权威体系**将他的认知差异视为缺陷，通过限制社交、娱乐等方式强迫其“正常化”，导致自我否定与情感依赖。他指出，ADHD是**认知差异**而非缺陷，走出创伤需重新审视被灌输的价值标准，建立与自我天性兼容的生活体系。
-
----
-
-## <a name="14"></a>14. 菲利普·洛揭穿马斯克 
-<small>🔗 [bsky.app](https://bsky.app/profile/brainking.bsky.social/post/3lgsco7cdnc26): Philip Low Unmasking Musk</small>
-
-
-| 🔥🔥: 154 \| 💬: [58](https://news.ycombinator.com/item?id=42903336) \| 🗓️ 2025-02-01
-
-
-<br />
-此文探讨**Bluesky社交平台**的技术架构与互动特性，强调其依赖**JavaScript**实现高度交互功能，并基于**AT协议**构建。菲利普·洛通过分析马斯克的公开言论与行为，提出批判性观点，呼吁关注技术透明性与用户隐私保护。内容关联“Show HN”类别，未深入展开具体揭露细节。
 
 ---
 
@@ -203,7 +203,19 @@ tags:
 
 ---
 
-## <a name="16"></a>16. FOSDEM 2025：实时流媒体日程安排 
+## <a name="16"></a>16. 基于人类反馈的强化学习指南 
+<small>🔗 [rlhfbook.com](https://rlhfbook.com/): RLHF Book</small>
+
+
+| 🔥🔥: 133 \| 💬: [16](https://news.ycombinator.com/item?id=42902936) \| 🗓️ 2025-02-01
+
+
+<br />
+本文致谢直接参与项目的**Costa Huang**与**Claude**，以及强化学习领域的Ross Taylor等研究者。特别感谢**GitHub社区贡献者**的改进建议，完整版可通过"Show HN"版块获取。
+
+---
+
+## <a name="17"></a>17. FOSDEM 2025：实时流媒体日程安排 
 <small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/streaming/): FOSDEM 2025: Streaming Schedule</small>
 
 
@@ -215,23 +227,11 @@ tags:
 
 ---
 
-## <a name="17"></a>17. 基于人类反馈的强化学习指南 
-<small>🔗 [rlhfbook.com](https://rlhfbook.com/): RLHF Book</small>
-
-
-| 🔥🔥: 119 \| 💬: [16](https://news.ycombinator.com/item?id=42902936) \| 🗓️ 2025-02-01
-
-
-<br />
-本文致谢直接参与项目的**Costa Huang**与**Claude**，以及强化学习领域的Ross Taylor等研究者。特别感谢**GitHub社区贡献者**的改进建议，完整版可通过"Show HN"版块获取。
-
----
-
 ## <a name="18"></a>18. 一键清除网页固定顶栏的书签工具（2013） 
 <small>🔗 [alisdair.mcdiarmid.org](https://alisdair.mcdiarmid.org/kill-sticky-headers/): A bookmarklet to kill sticky headers (2013)</small>
 
 
-| 🔥🔥: 113 \| 💬: [50](https://news.ycombinator.com/item?id=42902395) \| 🗓️ 2025-02-01
+| 🔥🔥: 124 \| 💬: [51](https://news.ycombinator.com/item?id=42902395) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -255,7 +255,7 @@ tags:
 <small>🔗 [jtolio.com](https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/): Python 3, Pygame, and Debian Bookworm on the Miyoo A30</small>
 
 
-| 🔥: 99 \| 💬: [17](https://news.ycombinator.com/item?id=42901616) \| 🗓️ 2025-02-01
+| 🔥🔥: 102 \| 💬: [17](https://news.ycombinator.com/item?id=42901616) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -267,7 +267,7 @@ tags:
 <small>🔗 [audiomisc.co.uk](https://www.audiomisc.co.uk/YouTube/SpotTheDifference.html): YouTube audio quality – How good does it get? (2022)</small>
 
 
-| 🔥: 92 \| 💬: [54](https://news.ycombinator.com/item?id=42901182) \| 🗓️ 2025-02-01
+| 🔥: 97 \| 💬: [56](https://news.ycombinator.com/item?id=42901182) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -303,7 +303,7 @@ tags:
 <small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Smoot%E2%80%93Hawley_Tariff_Act): Smoot–Hawley Tariff Act</small>
 
 
-| 🔥: 85 \| 💬: [23](https://news.ycombinator.com/item?id=42904351) \| 🗓️ 2025-02-01
+| 🔥: 88 \| 💬: [23](https://news.ycombinator.com/item?id=42904351) \| 🗓️ 2025-02-01
 
 
 <br />
