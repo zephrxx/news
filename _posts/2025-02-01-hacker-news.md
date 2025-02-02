@@ -9,10 +9,10 @@ tags:
 
 
 1. CDC数据正遭系统性清除；
-1. 如何在2000美元的EPYC服务器本地运行DeepSeek R1 671B大模型；
 1. 苹果开源 Swift Build 构建引擎；
+1. 如何在2000美元的EPYC服务器本地运行DeepSeek R1 671B大模型；
 1. 全球书籍在ISBN空间的可视化探索；
-1. 如何关闭Apple Intelligence功能；
+1. 宏观数据精炼；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/): CDC data are disappearing</small>
 
 
-| 🔥🔥: 434 \| 💬: [334](https://news.ycombinator.com/item?id=42897696) \| 🗓️ 2025-02-01
+| 🔥🔥: 467 \| 💬: [357](https://news.ycombinator.com/item?id=42897696) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -35,23 +35,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. 如何在2000美元的EPYC服务器本地运行DeepSeek R1 671B大模型 
-<small>🔗 [digitalspaceport.com](https://digitalspaceport.com/how-to-run-deepseek-r1-671b-fully-locally-on-2000-epyc-rig/): How to Run DeepSeek R1 671B Locally on a $2000 EPYC Server</small>
-
-
-| 🔥🔥: 401 \| 💬: [234](https://news.ycombinator.com/item?id=42897205) \| 🗓️ 2025-02-01
-
-
-<br />
-通过**AMD EPYC 7702/7V13处理器**、512GB内存与定制水冷系统搭建高性价比服务器，实现**4.25 TPS**的671B全模型推理性能。需搭配Ubuntu 24系统与Ollama框架部署，通过**Docker容器管理**优化资源分配。关键步骤包括BIOS参数调优、散热强化及模型加载环境变量配置，总成本约2000美元，支持同时运行视觉模型等轻量任务。
-
----
-
-## <a name="3"></a>3. 苹果开源 Swift Build 构建引擎 
+## <a name="2"></a>2. 苹果开源 Swift Build 构建引擎 
 <small>🔗 [swift.org](https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/): Apple is open sourcing Swift Build</small>
 
 
-| 🔥🔥: 376 \| 💬: [146](https://news.ycombinator.com/item?id=42899703) \| 🗓️ 2025-02-01
+| 🔥🔥: 410 \| 💬: [160](https://news.ycombinator.com/item?id=42899703) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -59,11 +47,23 @@ tags:
 
 ---
 
+## <a name="3"></a>3. 如何在2000美元的EPYC服务器本地运行DeepSeek R1 671B大模型 
+<small>🔗 [digitalspaceport.com](https://digitalspaceport.com/how-to-run-deepseek-r1-671b-fully-locally-on-2000-epyc-rig/): How to Run DeepSeek R1 671B Locally on a $2000 EPYC Server</small>
+
+
+| 🔥🔥: 404 \| 💬: [235](https://news.ycombinator.com/item?id=42897205) \| 🗓️ 2025-02-01
+
+
+<br />
+通过**AMD EPYC 7702/7V13处理器**、512GB内存与定制水冷系统搭建高性价比服务器，实现**4.25 TPS**的671B全模型推理性能。需搭配Ubuntu 24系统与Ollama框架部署，通过**Docker容器管理**优化资源分配。关键步骤包括BIOS参数调优、散热强化及模型加载环境变量配置，总成本约2000美元，支持同时运行视觉模型等轻量任务。
+
+---
+
 ## <a name="4"></a>4. 全球书籍在ISBN空间的可视化探索 
 <small>🔗 [phiresky.github.io](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/): Visualizing all books of the world in ISBN-Space</small>
 
 
-| 🔥🔥: 317 \| 💬: [64](https://news.ycombinator.com/item?id=42897120) \| 🗓️ 2025-02-01
+| 🔥🔥: 323 \| 💬: [66](https://news.ycombinator.com/item?id=42897120) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -71,23 +71,11 @@ tags:
 
 ---
 
-## <a name="5"></a>5. 如何关闭Apple Intelligence功能 
-<small>🔗 [asurion.com](https://www.asurion.com/connect/tech-tips/turn-off-apple-intelligence/): How to turn off Apple Intelligence</small>
-
-
-| 🔥🔥: 195 \| 💬: [140](https://news.ycombinator.com/item?id=42897041) \| 🗓️ 2025-02-01
-
-
-<br />
-本文介绍在iPhone、iPad及Mac设备上禁用**Apple Intelligence**的方法：通过**设置**→Apple Intelligence关闭总开关，系统将停止智能建议、摘要生成等功能（部分安全功能如Face ID仍保留）。用户也可在**应用权限**中单独设置特定应用不共享数据，实现选择性禁用。该操作兼顾隐私保护与基础AI服务的使用需求。
-
----
-
-## <a name="6"></a>6. 宏观数据精炼 
+## <a name="5"></a>5. 宏观数据精炼 
 <small>🔗 [lumon-industries.com](https://lumon-industries.com/): Macrodata Refinement</small>
 
 
-| 🔥🔥: 191 \| 💬: [97](https://news.ycombinator.com/item?id=42902691) \| 🗓️ 2025-02-01
+| 🔥🔥: 218 \| 💬: [123](https://news.ycombinator.com/item?id=42902691) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -95,11 +83,23 @@ tags:
 
 ---
 
+## <a name="6"></a>6. 如何关闭Apple Intelligence功能 
+<small>🔗 [asurion.com](https://www.asurion.com/connect/tech-tips/turn-off-apple-intelligence/): How to turn off Apple Intelligence</small>
+
+
+| 🔥🔥: 198 \| 💬: [142](https://news.ycombinator.com/item?id=42897041) \| 🗓️ 2025-02-01
+
+
+<br />
+本文介绍在iPhone、iPad及Mac设备上禁用**Apple Intelligence**的方法：通过**设置**→Apple Intelligence关闭总开关，系统将停止智能建议、摘要生成等功能（部分安全功能如Face ID仍保留）。用户也可在**应用权限**中单独设置特定应用不共享数据，实现选择性禁用。该操作兼顾隐私保护与基础AI服务的使用需求。
+
+---
+
 ## <a name="7"></a>7. Bzip3：BZip2 的精神继承者 
 <small>🔗 [github.com](https://github.com/kspalaiologos/bzip3): Bzip3: A spiritual successor to BZip2</small>
 
 
-| 🔥🔥: 183 \| 💬: [104](https://news.ycombinator.com/item?id=42899713) \| 🗓️ 2025-02-01
+| 🔥🔥: 191 \| 💬: [108](https://news.ycombinator.com/item?id=42899713) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/technology/tech-news/phyllis-fong-who-was-investigating-elon-musks-brain-implant-startup-neuralink-forcefully-removed-from-office-after-refusing-termination-order/articleshow/117800543.cms): Phyllis Fong, who was investigating Neuralink, "forcefully removed "</small>
 
 
-| 🔥🔥: 176 \| 💬: [120](https://news.ycombinator.com/item?id=42902355) \| 🗓️ 2025-02-01
+| 🔥🔥: 190 \| 💬: [128](https://news.ycombinator.com/item?id=42902355) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -123,7 +123,7 @@ tags:
 <small>🔗 [cbsnews.com](https://www.cbsnews.com/news/over-90-percent-u-s-airport-towers-understaffed-air-traffic-controllers-data-shows/): Over 90% of U.S. airport towers are understaffed, data shows</small>
 
 
-| 🔥🔥: 169 \| 💬: [207](https://news.ycombinator.com/item?id=42899261) \| 🗓️ 2025-02-01
+| 🔥🔥: 171 \| 💬: [209](https://news.ycombinator.com/item?id=42899261) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -131,11 +131,23 @@ tags:
 
 ---
 
-## <a name="10"></a>10. ADHD没有毁了我，毁了我的是父母 
+## <a name="10"></a>10. 甲骨文云无故删除活跃用户账户且数据无法恢复 
+<small>🔗 [mastodon.de](https://mastodon.de/@ErikUden/113930010311998246): Oracle Cloud deleting active user accounts without possibility for data recovery</small>
+
+
+| 🔥🔥: 163 \| 💬: [81](https://news.ycombinator.com/item?id=42901897) \| 🗓️ 2025-02-01
+
+
+<br />
+近期曝出甲骨云（Oracle Cloud）存在**无预警删除活跃账户**且**无法恢复数据**的严重问题。受影响用户反映账户与存储资料被永久清除，官方未提供有效解决方案。事件引发对**云端服务数据安全机制**的质疑，建议用户定期备份并谨慎选择服务商。
+
+---
+
+## <a name="11"></a>11. ADHD没有毁了我，毁了我的是父母 
 <small>🔗 [claimingattention.substack.com](https://claimingattention.substack.com/p/adhd-did-not-break-me-my-parents-did): ADHD Didn't Break Me–My Parents Did</small>
 
 
-| 🔥🔥: 154 \| 💬: [160](https://news.ycombinator.com/item?id=42899841) \| 🗓️ 2025-02-01
+| 🔥🔥: 154 \| 💬: [163](https://news.ycombinator.com/item?id=42899841) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -143,11 +155,11 @@ tags:
 
 ---
 
-## <a name="11"></a>11. 戴尔终止混合办公政策，强制要求全员返岗办公 
+## <a name="12"></a>12. 戴尔终止混合办公政策，强制要求全员返岗办公 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/01/31/dell_ends_hybrid_work_policy/): Dell ends hybrid work policy, demands RTO despite remote work pledge</small>
 
 
-| 🔥🔥: 149 \| 💬: [215](https://news.ycombinator.com/item?id=42899975) \| 🗓️ 2025-02-01
+| 🔥🔥: 149 \| 💬: [217](https://news.ycombinator.com/item?id=42899975) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -155,27 +167,15 @@ tags:
 
 ---
 
-## <a name="12"></a>12. 奇兹信徒与理性主义死亡邪教 
+## <a name="13"></a>13. 奇兹信徒与理性主义死亡邪教 
 <small>🔗 [maxread.substack.com](https://maxread.substack.com/p/the-zizians-and-the-rationalist-death): The Zizians and the rationalist death cult</small>
 
 
-| 🔥🔥: 145 \| 💬: [156](https://news.ycombinator.com/item?id=42897871) \| 🗓️ 2025-02-01
+| 🔥🔥: 148 \| 💬: [161](https://news.ycombinator.com/item?id=42897871) \| 🗓️ 2025-02-01
 
 
 <br />
 本文揭露硅谷**理性主义运动**衍生的暴力组织“奇兹信徒”。领袖Ziz融合激进素食主义与**半球理论**，主张人类大脑分属独立意识体，并将食肉视为“种族屠杀”。信徒涉及佛蒙特州边境枪战等多起命案，暴露理性主义社群在AI伦理与认知实验中的极端化倾向，折射科技乌托邦主义下的潜在危险。
-
----
-
-## <a name="13"></a>13. 甲骨文云无故删除活跃用户账户且数据无法恢复 
-<small>🔗 [mastodon.de](https://mastodon.de/@ErikUden/113930010311998246): Oracle Cloud deleting active user accounts without possibility for data recovery</small>
-
-
-| 🔥🔥: 133 \| 💬: [55](https://news.ycombinator.com/item?id=42901897) \| 🗓️ 2025-02-01
-
-
-<br />
-近期曝出甲骨云（Oracle Cloud）存在**无预警删除活跃账户**且**无法恢复数据**的严重问题。受影响用户反映账户与存储资料被永久清除，官方未提供有效解决方案。事件引发对**云端服务数据安全机制**的质疑，建议用户定期备份并谨慎选择服务商。
 
 ---
 
@@ -203,11 +203,35 @@ tags:
 
 ---
 
-## <a name="16"></a>16. 硬编码功能开关并无不可 
+## <a name="16"></a>16. 菲利普·洛揭穿马斯克 
+<small>🔗 [bsky.app](https://bsky.app/profile/brainking.bsky.social/post/3lgsco7cdnc26): Philip Low Unmasking Musk</small>
+
+
+| 🔥🔥: 111 \| 💬: [31](https://news.ycombinator.com/item?id=42903336) \| 🗓️ 2025-02-01
+
+
+<br />
+此文探讨**Bluesky社交平台**的技术架构与互动特性，强调其依赖**JavaScript**实现高度交互功能，并基于**AT协议**构建。菲利普·洛通过分析马斯克的公开言论与行为，提出批判性观点，呼吁关注技术透明性与用户隐私保护。内容关联“Show HN”类别，未深入展开具体揭露细节。
+
+---
+
+## <a name="17"></a>17. 避免使用ISP提供的路由器 
+<small>🔗 [routersecurity.org](https://routersecurity.org/ISProuters.php): Avoid ISP Routers</small>
+
+
+| 🔥: 97 \| 💬: [39](https://news.ycombinator.com/item?id=42903576) \| 🗓️ 2025-02-01
+
+
+<br />
+文章指出，使用自主购买的路由器和调制解调器比依赖**ISP提供的设备**更安全。原因包括：ISP设备常存在**默认密码未修改**、固件更新权限受限、可能植入后门或收集用户数据，且易成大规模攻击目标。此外，ISP为降低成本常忽视安全性，设备可能被用于公共WiFi或无法自定义配置。长期租赁费用也可能高于自购成本。作者强调，垄断性ISP缺乏改进动力，用户应掌控硬件选择权以提升安全与隐私保护。
+
+---
+
+## <a name="18"></a>18. 硬编码功能开关并无不可 
 <small>🔗 [code.mendhak.com](https://code.mendhak.com/hardcode-feature-flags/): It's OK to hardcode feature flags</small>
 
 
-| 🔥: 87 \| 💬: [79](https://news.ycombinator.com/item?id=42899778) \| 🗓️ 2025-02-01
+| 🔥: 87 \| 💬: [80](https://news.ycombinator.com/item?id=42899778) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -215,7 +239,19 @@ tags:
 
 ---
 
-## <a name="17"></a>17. 大语言模型在数学领域的应用探索（2023） 
+## <a name="19"></a>19. Show HN: TalkNotes——用语音高效规划每日任务的AI工具 
+<small>🔗 [talknotes.tech](https://www.talknotes.tech/): Show HN: TalkNotes – A site that turns your ideas into tasks</small>
+
+
+| 🔥: 85 \| 💬: [39](https://news.ycombinator.com/item?id=42897662) \| 🗓️ 2025-02-01
+
+
+<br />
+通过**AI转录与分析**技术，用户只需2分钟语音即可自动生成待办清单、笔记、闪卡及会议纪要，支持**100多种语言**。产品特色包括未完成任务自动顺延、无限次音频转录，并可将通话内容实时转为结构化文本。适用于跨语言会议记录与个人日程管理，提供终身订阅方案，获用户评价“精准高效，彻底改变工作流程”。
+
+---
+
+## <a name="20"></a>20. 大语言模型在数学领域的应用探索（2023） 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2312.04556): Large Language Models for Mathematicians (2023)</small>
 
 
@@ -227,19 +263,19 @@ tags:
 
 ---
 
-## <a name="18"></a>18. Show HN: TalkNotes——用语音高效规划每日任务的AI工具 
-<small>🔗 [talknotes.tech](https://www.talknotes.tech/): Show HN: TalkNotes – A site that turns your ideas into tasks</small>
+## <a name="21"></a>21. 在 Miyoo A30 掌机上运行 Python 3、Pygame 与 Debian Bookworm 的实践 
+<small>🔗 [jtolio.com](https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/): Python 3, Pygame, and Debian Bookworm on the Miyoo A30</small>
 
 
-| 🔥: 82 \| 💬: [37](https://news.ycombinator.com/item?id=42897662) \| 🗓️ 2025-02-01
+| 🔥: 81 \| 💬: [12](https://news.ycombinator.com/item?id=42901616) \| 🗓️ 2025-02-01
 
 
 <br />
-通过**AI转录与分析**技术，用户只需2分钟语音即可自动生成待办清单、笔记、闪卡及会议纪要，支持**100多种语言**。产品特色包括未完成任务自动顺延、无限次音频转录，并可将通话内容实时转为结构化文本。适用于跨语言会议记录与个人日程管理，提供终身订阅方案，获用户评价“精准高效，彻底改变工作流程”。
+作者通过**spruceOS 定制系统**在廉价掌机 Miyoo A30（4核 Cortex A7 / Mali-400 GPU）上搭建了 **Debian Bookworm** 开发环境，利用 `debootstrap` 创建 armhf 架构的 chroot 容器，并覆盖 GPU 驱动库实现硬件加速。通过自定义脚本整合 Pygame 应用至系统界面，解决了屏幕 90 度旋转问题（临时方案为代码修正）。文中提供了预装镜像与工具链，支持 Python 游戏开发，但受限于 Linux 3.x 内核部分功能缺失。
 
 ---
 
-## <a name="19"></a>19. 成瘾经济 
+## <a name="22"></a>22. 成瘾经济 
 <small>🔗 [profgalloway.com](https://www.profgalloway.com/addiction-economy/): Addiction Economy</small>
 
 
@@ -251,7 +287,19 @@ tags:
 
 ---
 
-## <a name="20"></a>20. 渐进式去权：AI逐步发展如何引发系统性生存风险 
+## <a name="23"></a>23. 一键清除网页固定顶栏的书签工具（2013） 
+<small>🔗 [alisdair.mcdiarmid.org](https://alisdair.mcdiarmid.org/kill-sticky-headers/): A bookmarklet to kill sticky headers (2013)</small>
+
+
+| 🔥: 80 \| 💬: [27](https://news.ycombinator.com/item?id=42902395) \| 🗓️ 2025-02-01
+
+
+<br />
+作者因使用11寸MacBook Air，**屏幕空间有限**，痛恨**固定标题栏**占用垂直空间、干扰空格键滚动体验。为此，他开发了一个书签工具，通过**`querySelectorAll`定位并删除所有`position: fixed`元素**，即时移除固定顶栏。工具轻量且无需安装，刷新页面即可恢复原布局，旨在让用户专注阅读，避免多余导航干扰。
+
+---
+
+## <a name="24"></a>24. 渐进式去权：AI逐步发展如何引发系统性生存风险 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2501.16946): Gradual Disempowerment: How Even Incremental AI Progress Poses Existential Risks</small>
 
 
@@ -263,62 +311,14 @@ tags:
 
 ---
 
-## <a name="21"></a>21. 在 Miyoo A30 掌机上运行 Python 3、Pygame 与 Debian Bookworm 的实践 
-<small>🔗 [jtolio.com](https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/): Python 3, Pygame, and Debian Bookworm on the Miyoo A30</small>
-
-
-| 🔥: 75 \| 💬: [9](https://news.ycombinator.com/item?id=42901616) \| 🗓️ 2025-02-01
-
-
-<br />
-作者通过**spruceOS 定制系统**在廉价掌机 Miyoo A30（4核 Cortex A7 / Mali-400 GPU）上搭建了 **Debian Bookworm** 开发环境，利用 `debootstrap` 创建 armhf 架构的 chroot 容器，并覆盖 GPU 驱动库实现硬件加速。通过自定义脚本整合 Pygame 应用至系统界面，解决了屏幕 90 度旋转问题（临时方案为代码修正）。文中提供了预装镜像与工具链，支持 Python 游戏开发，但受限于 Linux 3.x 内核部分功能缺失。
-
----
-
-## <a name="22"></a>22. YouTube音频质量究竟如何？（2022年） 
+## <a name="25"></a>25. YouTube音频质量究竟如何？（2022年） 
 <small>🔗 [audiomisc.co.uk](https://www.audiomisc.co.uk/YouTube/SpotTheDifference.html): YouTube audio quality – How good does it get? (2022)</small>
 
 
-| 🔥: 74 \| 💬: [44](https://news.ycombinator.com/item?id=42901182) \| 🗓️ 2025-02-01
+| 🔥: 79 \| 💬: [47](https://news.ycombinator.com/item?id=42901182) \| 🗓️ 2025-02-01
 
 
 <br />
 本文通过对比RVW协会上传的原始音频与YouTube转码后的版本，分析平台音频质量。测试显示，**Opus编解码器**虽保持48kHz采样率，但与原始aac(LC)相比存在约20dB残留误差，高频信号被替换为噪声。而采用**aac编解码**的44.1kHz版本误差较低（-30dB），但涉及采样率转换可能影响音质。频谱分析表明YouTube处理会截断20kHz以上信号，并通过抖动生成虚假高频，**编解码转换与重采样共同导致音质损失**。
-
----
-
-## <a name="23"></a>23. 星舰爆炸余波未平，加勒比岛屿居民深陷残骸困扰 
-<small>🔗 [cnn.com](https://www.cnn.com/2025/01/30/science/spacex-starship-explosion-debris-turks-caicos/index.html): Island residents are still dealing with the fallout of exploded Starship</small>
-
-
-| 🔥: 73 \| 💬: [39](https://news.ycombinator.com/item?id=42898182) \| 🗓️ 2025-02-01
-
-
-<br />
-1月16日，SpaceX **星舰试飞爆炸**后，大量碎片散落特克斯和凯科斯群岛。居民发现残骸遍布道路、海滩甚至住宅附近，**含潜在有害化学物质**的碎片引发安全担忧。当地环保组织记录到全岛残骸分布，包括一起车辆损毁事件。尽管SpaceX承诺回收，但居民批评其**应对迟缓且沟通不足**，清理工作依赖志愿者，部分人甚至私自收集残骸转卖。美国联邦航空局介入调查，但环境风险与责任归属问题仍悬而未决。
-
----
-
-## <a name="24"></a>24. FAA的空中交管危机根源远超出表面争议 
-<small>🔗 [viewfromthewing.com](https://viewfromthewing.com/collision-on-final-approach-sparks-dei-blame-game-the-faas-real-air-traffic-control-crisis-runs-much-deeper/): The FAA's Real Air Traffic Control Crisis Runs Much Deeper</small>
-
-
-| 🔥: 73 \| 💬: [86](https://news.ycombinator.com/item?id=42900528) \| 🗓️ 2025-02-01
-
-
-<br />
-文章指出，美国联邦航空局（FAA）的核心问题在于**技术落后**与**监管失效**，而非近期事故后各方争论的“多样性招聘”或政治问责。FAA仍依赖纸质飞行条，技术升级数十年无进展，采购系统低效且资金受制于国会拨款周期。与此同时，空中交管员因设备不足面临人力短缺，但**多样性招聘争议**实为次要矛盾——被雇者仍符合资质，根源实为培训资源不足与技术拖累效率。呼吁改革监管分离模式，效仿加拿大等国的现代化方案。
-
----
-
-## <a name="25"></a>25. 《齐兹教派》（2020年） 
-<small>🔗 [zizians.info](https://zizians.info/): The Zizians (2020)</small>
-
-
-| 🔥: 72 \| 💬: [7](https://news.ycombinator.com/item?id=42898323) \| 🗓️ 2025-02-01
-
-
-<br />
-2019年加州理性应用研究中心校友聚会上，五名蒙面抗议者引发警方大规模戒备，其背后是湾区网络邪教**齐兹教派**。核心人物Ziz以"功能性决策理论"为哲学基础，主张通过绝对对抗策略（**nosell**）拒绝妥协，并推广**半球睡眠技术**操控信徒认知，宣称人类大脑左右半球为独立道德主体。该组织仇视自由主义，推崇边沁式功利主义，威胁未来对非素食者进行"纽伦堡审判"。其危险行为导致追随者Maia Pasek在精神崩溃后自杀，揭露邪教通过切断社交网络、构建新身份等手段实施精神控制。
 
 ---
