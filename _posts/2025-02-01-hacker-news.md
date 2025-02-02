@@ -27,7 +27,7 @@ tags:
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/): CDC data are disappearing</small>
 
 
-| 🔥🔥: 585 \| 💬: [467](https://news.ycombinator.com/item?id=42897696) \| 🗓️ 2025-02-01
+| 🔥🔥: 615 \| 💬: [480](https://news.ycombinator.com/item?id=42897696) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [swift.org](https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/): Apple is open sourcing Swift Build</small>
 
 
-| 🔥🔥: 502 \| 💬: [212](https://news.ycombinator.com/item?id=42899703) \| 🗓️ 2025-02-01
+| 🔥🔥: 511 \| 💬: [220](https://news.ycombinator.com/item?id=42899703) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [phiresky.github.io](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/): Visualizing all books of the world in ISBN-Space</small>
 
 
-| 🔥🔥: 356 \| 💬: [71](https://news.ycombinator.com/item?id=42897120) \| 🗓️ 2025-02-01
+| 🔥🔥: 362 \| 💬: [71](https://news.ycombinator.com/item?id=42897120) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [lumon-industries.com](https://lumon-industries.com/): Macrodata Refinement</small>
 
 
-| 🔥🔥: 314 \| 💬: [174](https://news.ycombinator.com/item?id=42902691) \| 🗓️ 2025-02-01
+| 🔥🔥: 328 \| 💬: [185](https://news.ycombinator.com/item?id=42902691) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [github.com](https://github.com/kspalaiologos/bzip3): Bzip3: A spiritual successor to BZip2</small>
 
 
-| 🔥🔥: 224 \| 💬: [127](https://news.ycombinator.com/item?id=42899713) \| 🗓️ 2025-02-01
+| 🔥🔥: 229 \| 💬: [133](https://news.ycombinator.com/item?id=42899713) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/technology/tech-news/phyllis-fong-who-was-investigating-elon-musks-brain-implant-startup-neuralink-forcefully-removed-from-office-after-refusing-termination-order/articleshow/117800543.cms): Phyllis Fong, who was investigating Neuralink, "forcefully removed "</small>
 
 
-| 🔥🔥: 212 \| 💬: [175](https://news.ycombinator.com/item?id=42902355) \| 🗓️ 2025-02-01
+| 🔥🔥: 215 \| 💬: [176](https://news.ycombinator.com/item?id=42902355) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -107,23 +107,11 @@ tags:
 
 ---
 
-## <a name="8"></a>8. 如何关闭Apple Intelligence功能 
-<small>🔗 [asurion.com](https://www.asurion.com/connect/tech-tips/turn-off-apple-intelligence/): How to turn off Apple Intelligence</small>
-
-
-| 🔥🔥: 206 \| 💬: [149](https://news.ycombinator.com/item?id=42897041) \| 🗓️ 2025-02-01
-
-
-<br />
-本文介绍在iPhone、iPad及Mac设备上禁用**Apple Intelligence**的方法：通过**设置**→Apple Intelligence关闭总开关，系统将停止智能建议、摘要生成等功能（部分安全功能如Face ID仍保留）。用户也可在**应用权限**中单独设置特定应用不共享数据，实现选择性禁用。该操作兼顾隐私保护与基础AI服务的使用需求。
-
----
-
-## <a name="9"></a>9. 避免使用ISP提供的路由器 
+## <a name="8"></a>8. 避免使用ISP提供的路由器 
 <small>🔗 [routersecurity.org](https://routersecurity.org/ISProuters.php): Avoid ISP Routers (2024)</small>
 
 
-| 🔥🔥: 203 \| 💬: [121](https://news.ycombinator.com/item?id=42903576) \| 🗓️ 2025-02-01
+| 🔥🔥: 211 \| 💬: [124](https://news.ycombinator.com/item?id=42903576) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -131,11 +119,23 @@ tags:
 
 ---
 
+## <a name="9"></a>9. 如何关闭Apple Intelligence功能 
+<small>🔗 [asurion.com](https://www.asurion.com/connect/tech-tips/turn-off-apple-intelligence/): How to turn off Apple Intelligence</small>
+
+
+| 🔥🔥: 207 \| 💬: [150](https://news.ycombinator.com/item?id=42897041) \| 🗓️ 2025-02-01
+
+
+<br />
+本文介绍在iPhone、iPad及Mac设备上禁用**Apple Intelligence**的方法：通过**设置**→Apple Intelligence关闭总开关，系统将停止智能建议、摘要生成等功能（部分安全功能如Face ID仍保留）。用户也可在**应用权限**中单独设置特定应用不共享数据，实现选择性禁用。该操作兼顾隐私保护与基础AI服务的使用需求。
+
+---
+
 ## <a name="10"></a>10. 甲骨文云无故删除活跃用户账户且数据无法恢复 
 <small>🔗 [mastodon.de](https://mastodon.de/@ErikUden/113930010311998246): Oracle Cloud deleting active user accounts without possibility for data recovery</small>
 
 
-| 🔥🔥: 187 \| 💬: [88](https://news.ycombinator.com/item?id=42901897) \| 🗓️ 2025-02-01
+| 🔥🔥: 191 \| 💬: [92](https://news.ycombinator.com/item?id=42901897) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -147,7 +147,7 @@ tags:
 <small>🔗 [cbsnews.com](https://www.cbsnews.com/news/over-90-percent-u-s-airport-towers-understaffed-air-traffic-controllers-data-shows/): Over 90% of U.S. airport towers are understaffed, data shows</small>
 
 
-| 🔥🔥: 175 \| 💬: [214](https://news.ycombinator.com/item?id=42899261) \| 🗓️ 2025-02-01
+| 🔥🔥: 177 \| 💬: [214](https://news.ycombinator.com/item?id=42899261) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -159,7 +159,7 @@ tags:
 <small>🔗 [maxread.substack.com](https://maxread.substack.com/p/the-zizians-and-the-rationalist-death): The Zizians and the rationalist death cult</small>
 
 
-| 🔥🔥: 162 \| 💬: [174](https://news.ycombinator.com/item?id=42897871) \| 🗓️ 2025-02-01
+| 🔥🔥: 164 \| 💬: [175](https://news.ycombinator.com/item?id=42897871) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -167,11 +167,23 @@ tags:
 
 ---
 
-## <a name="13"></a>13. 菲利普·洛揭穿马斯克 
+## <a name="13"></a>13. CDC下令全面撤回及修改涉及敏感术语的科研论文 
+<small>🔗 [insidemedicine.substack.com](https://insidemedicine.substack.com/p/breaking-news-cdc-orders-mass-retraction): CDC orders mass retraction of research across all science and medicine journals</small>
+
+
+| 🔥🔥: 159 \| 💬: [89](https://news.ycombinator.com/item?id=42905937) \| 🗓️ 2025-02-01
+
+
+<br />
+美国疾控中心（CDC）要求撤回或暂停所有未发表的科研论文，涉及**“性别”“LGBT”等禁用词汇**的稿件须删除相关内容。禁令覆盖所有医学与科学期刊，包括已提交但未正式发表的论文，导致学术界陷入混乱与自我审查。研究人员担忧基础人口统计数据（如性别、性取向）的缺失将影响传染病防控等关键研究，甚至出现**“预服从”现象**，主动撤回包含敏感信息的论文。目前仅一名政治任命官员负责审核，效率极低，决策积压严重。
+
+---
+
+## <a name="14"></a>14. 菲利普·洛揭穿马斯克 
 <small>🔗 [bsky.app](https://bsky.app/profile/brainking.bsky.social/post/3lgsco7cdnc26): Philip Low Unmasking Musk</small>
 
 
-| 🔥🔥: 156 \| 💬: [59](https://news.ycombinator.com/item?id=42903336) \| 🗓️ 2025-02-01
+| 🔥🔥: 158 \| 💬: [59](https://news.ycombinator.com/item?id=42903336) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -179,7 +191,7 @@ tags:
 
 ---
 
-## <a name="14"></a>14. ADHD没有毁了我，毁了我的是父母 
+## <a name="15"></a>15. ADHD没有毁了我，毁了我的是父母 
 <small>🔗 [claimingattention.substack.com](https://claimingattention.substack.com/p/adhd-did-not-break-me-my-parents-did): ADHD Didn't Break Me–My Parents Did</small>
 
 
@@ -191,11 +203,11 @@ tags:
 
 ---
 
-## <a name="15"></a>15. 戴尔终止混合办公政策，强制要求全员返岗办公 
+## <a name="16"></a>16. 戴尔终止混合办公政策，强制要求全员返岗办公 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/01/31/dell_ends_hybrid_work_policy/): Dell ends hybrid work policy, demands RTO despite remote work pledge</small>
 
 
-| 🔥🔥: 152 \| 💬: [228](https://news.ycombinator.com/item?id=42899975) \| 🗓️ 2025-02-01
+| 🔥🔥: 154 \| 💬: [228](https://news.ycombinator.com/item?id=42899975) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -203,11 +215,11 @@ tags:
 
 ---
 
-## <a name="16"></a>16. 基于人类反馈的强化学习指南 
+## <a name="17"></a>17. 基于人类反馈的强化学习指南 
 <small>🔗 [rlhfbook.com](https://rlhfbook.com/): RLHF Book</small>
 
 
-| 🔥🔥: 133 \| 💬: [16](https://news.ycombinator.com/item?id=42902936) \| 🗓️ 2025-02-01
+| 🔥🔥: 151 \| 💬: [16](https://news.ycombinator.com/item?id=42902936) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -215,11 +227,11 @@ tags:
 
 ---
 
-## <a name="17"></a>17. FOSDEM 2025：实时流媒体日程安排 
+## <a name="18"></a>18. FOSDEM 2025：实时流媒体日程安排 
 <small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/streaming/): FOSDEM 2025: Streaming Schedule</small>
 
 
-| 🔥🔥: 130 \| 💬: [23](https://news.ycombinator.com/item?id=42897254) \| 🗓️ 2025-02-01
+| 🔥🔥: 133 \| 💬: [23](https://news.ycombinator.com/item?id=42897254) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -227,11 +239,11 @@ tags:
 
 ---
 
-## <a name="18"></a>18. 一键清除网页固定顶栏的书签工具（2013） 
+## <a name="19"></a>19. 一键清除网页固定顶栏的书签工具（2013） 
 <small>🔗 [alisdair.mcdiarmid.org](https://alisdair.mcdiarmid.org/kill-sticky-headers/): A bookmarklet to kill sticky headers (2013)</small>
 
 
-| 🔥🔥: 124 \| 💬: [51](https://news.ycombinator.com/item?id=42902395) \| 🗓️ 2025-02-01
+| 🔥🔥: 130 \| 💬: [51](https://news.ycombinator.com/item?id=42902395) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -239,7 +251,7 @@ tags:
 
 ---
 
-## <a name="19"></a>19. Data.gov数据集消失引发关注 
+## <a name="20"></a>20. Data.gov数据集消失引发关注 
 <small>🔗 [mashable.com](https://mashable.com/article/government-datasets-disappear-since-trump-inauguration): Datasets from Data.gov Have Disappeared</small>
 
 
@@ -251,11 +263,11 @@ tags:
 
 ---
 
-## <a name="20"></a>20. 在 Miyoo A30 掌机上运行 Python 3、Pygame 与 Debian Bookworm 的实践 
+## <a name="21"></a>21. 在 Miyoo A30 掌机上运行 Python 3、Pygame 与 Debian Bookworm 的实践 
 <small>🔗 [jtolio.com](https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/): Python 3, Pygame, and Debian Bookworm on the Miyoo A30</small>
 
 
-| 🔥🔥: 102 \| 💬: [17](https://news.ycombinator.com/item?id=42901616) \| 🗓️ 2025-02-01
+| 🔥🔥: 105 \| 💬: [18](https://news.ycombinator.com/item?id=42901616) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -263,11 +275,11 @@ tags:
 
 ---
 
-## <a name="21"></a>21. YouTube音频质量究竟如何？（2022年） 
+## <a name="22"></a>22. YouTube音频质量究竟如何？（2022年） 
 <small>🔗 [audiomisc.co.uk](https://www.audiomisc.co.uk/YouTube/SpotTheDifference.html): YouTube audio quality – How good does it get? (2022)</small>
 
 
-| 🔥: 97 \| 💬: [56](https://news.ycombinator.com/item?id=42901182) \| 🗓️ 2025-02-01
+| 🔥: 100 \| 💬: [57](https://news.ycombinator.com/item?id=42901182) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -275,11 +287,11 @@ tags:
 
 ---
 
-## <a name="22"></a>22. Show HN: TalkNotes——用语音高效规划每日任务的AI工具 
+## <a name="23"></a>23. Show HN: TalkNotes——用语音高效规划每日任务的AI工具 
 <small>🔗 [talknotes.tech](https://www.talknotes.tech/): Show HN: TalkNotes – A site that turns your ideas into tasks</small>
 
 
-| 🔥: 90 \| 💬: [39](https://news.ycombinator.com/item?id=42897662) \| 🗓️ 2025-02-01
+| 🔥: 91 \| 💬: [39](https://news.ycombinator.com/item?id=42897662) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -287,7 +299,7 @@ tags:
 
 ---
 
-## <a name="23"></a>23. 硬编码功能开关并无不可 
+## <a name="24"></a>24. 硬编码功能开关并无不可 
 <small>🔗 [code.mendhak.com](https://code.mendhak.com/hardcode-feature-flags/): It's OK to hardcode feature flags</small>
 
 
@@ -299,26 +311,14 @@ tags:
 
 ---
 
-## <a name="24"></a>24. 斯姆特-霍利关税法 
+## <a name="25"></a>25. 斯姆特-霍利关税法 
 <small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Smoot%E2%80%93Hawley_Tariff_Act): Smoot–Hawley Tariff Act</small>
 
 
-| 🔥: 88 \| 💬: [23](https://news.ycombinator.com/item?id=42904351) \| 🗓️ 2025-02-01
+| 🔥: 89 \| 💬: [23](https://news.ycombinator.com/item?id=42904351) \| 🗓️ 2025-02-01
 
 
 <br />
 1930年由美国国会通过，总统赫伯特·胡佛签署的**贸易保护主义政策**，对超过2万种进口商品实施**大幅提高关税**。该法案旨在保护国内产业，但引发多国报复性关税，导致全球贸易萎缩。经济学家普遍认为其加剧了**大萧条**，美国进出口额暴跌67%，失业率激增。尽管千名经济学家联名反对，法案仍通过。后续《互惠贸易协定法》（1934）及战后多边协议逐步扭转高关税政策，成为国际贸易体系改革的警示案例。
-
----
-
-## <a name="25"></a>25. 大语言模型在数学领域的应用探索（2023） 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2312.04556): Large Language Models for Mathematicians (2023)</small>
-
-
-| 🔥: 84 \| 💬: [28](https://news.ycombinator.com/item?id=42899184) \| 🗓️ 2025-02-01
-
-
-<br />
-本文探讨以ChatGPT为代表的**大语言模型**如何辅助数学家工作。通过解析**Transformer架构**的数学模型，分析其在数学推理、代码生成等场景的潜力与局限，并评估现有模型处理数学问题的能力。研究指出，尽管存在逻辑严谨性等挑战，这类工具将显著改变数学家获取知识、验证猜想和协作研究的方式。
 
 ---
