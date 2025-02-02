@@ -8,38 +8,26 @@ tags:
 ---
 
 
-1. 如何在2000美元的EPYC服务器本地运行DeepSeek R1 671B大模型；
 1. CDC数据正遭系统性清除；
+1. 如何在2000美元的EPYC服务器本地运行DeepSeek R1 671B大模型；
 1. 苹果开源 Swift Build 构建引擎；
 1. 全球书籍在ISBN空间的可视化探索；
 1. 如何关闭Apple Intelligence功能；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
 ![](/assets/images/hacker_news.jpg)
 
 
-## <a name="1"></a>1. 如何在2000美元的EPYC服务器本地运行DeepSeek R1 671B大模型 
-<small>🔗 [digitalspaceport.com](https://digitalspaceport.com/how-to-run-deepseek-r1-671b-fully-locally-on-2000-epyc-rig/): How to Run DeepSeek R1 671B Locally on a $2000 EPYC Server</small>
-
-
-| 🔥🔥: 397 \| 💬: [232](https://news.ycombinator.com/item?id=42897205) \| 🗓️ 2025-02-01
-
-
-<br />
-通过**AMD EPYC 7702/7V13处理器**、512GB内存与定制水冷系统搭建高性价比服务器，实现**4.25 TPS**的671B全模型推理性能。需搭配Ubuntu 24系统与Ollama框架部署，通过**Docker容器管理**优化资源分配。关键步骤包括BIOS参数调优、散热强化及模型加载环境变量配置，总成本约2000美元，支持同时运行视觉模型等轻量任务。
-
----
-
-## <a name="2"></a>2. CDC数据正遭系统性清除 
+## <a name="1"></a>1. CDC数据正遭系统性清除 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/): CDC data are disappearing</small>
 
 
-| 🔥🔥: 391 \| 💬: [290](https://news.ycombinator.com/item?id=42897696) \| 🗓️ 2025-02-01
+| 🔥🔥: 434 \| 💬: [334](https://news.ycombinator.com/item?id=42897696) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -47,11 +35,23 @@ tags:
 
 ---
 
+## <a name="2"></a>2. 如何在2000美元的EPYC服务器本地运行DeepSeek R1 671B大模型 
+<small>🔗 [digitalspaceport.com](https://digitalspaceport.com/how-to-run-deepseek-r1-671b-fully-locally-on-2000-epyc-rig/): How to Run DeepSeek R1 671B Locally on a $2000 EPYC Server</small>
+
+
+| 🔥🔥: 401 \| 💬: [234](https://news.ycombinator.com/item?id=42897205) \| 🗓️ 2025-02-01
+
+
+<br />
+通过**AMD EPYC 7702/7V13处理器**、512GB内存与定制水冷系统搭建高性价比服务器，实现**4.25 TPS**的671B全模型推理性能。需搭配Ubuntu 24系统与Ollama框架部署，通过**Docker容器管理**优化资源分配。关键步骤包括BIOS参数调优、散热强化及模型加载环境变量配置，总成本约2000美元，支持同时运行视觉模型等轻量任务。
+
+---
+
 ## <a name="3"></a>3. 苹果开源 Swift Build 构建引擎 
 <small>🔗 [swift.org](https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/): Apple is open sourcing Swift Build</small>
 
 
-| 🔥🔥: 332 \| 💬: [126](https://news.ycombinator.com/item?id=42899703) \| 🗓️ 2025-02-01
+| 🔥🔥: 376 \| 💬: [146](https://news.ycombinator.com/item?id=42899703) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [phiresky.github.io](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/): Visualizing all books of the world in ISBN-Space</small>
 
 
-| 🔥🔥: 308 \| 💬: [63](https://news.ycombinator.com/item?id=42897120) \| 🗓️ 2025-02-01
+| 🔥🔥: 317 \| 💬: [64](https://news.ycombinator.com/item?id=42897120) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [asurion.com](https://www.asurion.com/connect/tech-tips/turn-off-apple-intelligence/): How to turn off Apple Intelligence</small>
 
 
-| 🔥🔥: 190 \| 💬: [134](https://news.ycombinator.com/item?id=42897041) \| 🗓️ 2025-02-01
+| 🔥🔥: 195 \| 💬: [140](https://news.ycombinator.com/item?id=42897041) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -83,15 +83,15 @@ tags:
 
 ---
 
-## <a name="6"></a>6. 全美超90%机场塔台面临人员短缺危机 
-<small>🔗 [cbsnews.com](https://www.cbsnews.com/news/over-90-percent-u-s-airport-towers-understaffed-air-traffic-controllers-data-shows/): Over 90% of U.S. airport towers are understaffed, data shows</small>
+## <a name="6"></a>6. 宏观数据精炼 
+<small>🔗 [lumon-industries.com](https://lumon-industries.com/): Macrodata Refinement</small>
 
 
-| 🔥🔥: 169 \| 💬: [201](https://news.ycombinator.com/item?id=42899261) \| 🗓️ 2025-02-01
+| 🔥🔥: 191 \| 💬: [97](https://news.ycombinator.com/item?id=42902691) \| 🗓️ 2025-02-01
 
 
 <br />
-数据显示，**仅不到10%的美国机场塔台**达到联邦航空局（FAA）与工会联合制定的空管员配置标准。近期华盛顿特区附近空难（致67人遇难）引发关注，事发时**仅1名空管员同时调度直升机与客机**，而常规需2人协作。FAA报告称，全国空管员缺口达3000-4000人，疫情严重阻碍培训与招聘，导致合格人员比例仅72%。工会指出，即使当前招聘2000人，**最终仅半数能通过严格认证**。
+该工具聚焦于海量数据的自动化处理流程，核心涵盖**数据清洗**、**结构优化**与**可视化输出**三大模块。通过动态加载规则引擎，支持用户自定义过滤异常值并修复缺失字段，最终生成适配机器学习的高质量数据集。适用于金融、科研等领域的`Show HN`场景。
 
 ---
 
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [github.com](https://github.com/kspalaiologos/bzip3): Bzip3: A spiritual successor to BZip2</small>
 
 
-| 🔥🔥: 164 \| 💬: [93](https://news.ycombinator.com/item?id=42899713) \| 🗓️ 2025-02-01
+| 🔥🔥: 183 \| 💬: [104](https://news.ycombinator.com/item?id=42899713) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/technology/tech-news/phyllis-fong-who-was-investigating-elon-musks-brain-implant-startup-neuralink-forcefully-removed-from-office-after-refusing-termination-order/articleshow/117800543.cms): Phyllis Fong, who was investigating Neuralink, "forcefully removed "</small>
 
 
-| 🔥🔥: 161 \| 💬: [82](https://news.ycombinator.com/item?id=42902355) \| 🗓️ 2025-02-01
+| 🔥🔥: 176 \| 💬: [120](https://news.ycombinator.com/item?id=42902355) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -119,11 +119,23 @@ tags:
 
 ---
 
-## <a name="9"></a>9. ADHD没有毁了我，毁了我的是父母 
+## <a name="9"></a>9. 全美超90%机场塔台面临人员短缺危机 
+<small>🔗 [cbsnews.com](https://www.cbsnews.com/news/over-90-percent-u-s-airport-towers-understaffed-air-traffic-controllers-data-shows/): Over 90% of U.S. airport towers are understaffed, data shows</small>
+
+
+| 🔥🔥: 169 \| 💬: [207](https://news.ycombinator.com/item?id=42899261) \| 🗓️ 2025-02-01
+
+
+<br />
+数据显示，**仅不到10%的美国机场塔台**达到联邦航空局（FAA）与工会联合制定的空管员配置标准。近期华盛顿特区附近空难（致67人遇难）引发关注，事发时**仅1名空管员同时调度直升机与客机**，而常规需2人协作。FAA报告称，全国空管员缺口达3000-4000人，疫情严重阻碍培训与招聘，导致合格人员比例仅72%。工会指出，即使当前招聘2000人，**最终仅半数能通过严格认证**。
+
+---
+
+## <a name="10"></a>10. ADHD没有毁了我，毁了我的是父母 
 <small>🔗 [claimingattention.substack.com](https://claimingattention.substack.com/p/adhd-did-not-break-me-my-parents-did): ADHD Didn't Break Me–My Parents Did</small>
 
 
-| 🔥🔥: 154 \| 💬: [159](https://news.ycombinator.com/item?id=42899841) \| 🗓️ 2025-02-01
+| 🔥🔥: 154 \| 💬: [160](https://news.ycombinator.com/item?id=42899841) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -131,11 +143,11 @@ tags:
 
 ---
 
-## <a name="10"></a>10. 戴尔终止混合办公政策，强制要求全员返岗办公 
+## <a name="11"></a>11. 戴尔终止混合办公政策，强制要求全员返岗办公 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/01/31/dell_ends_hybrid_work_policy/): Dell ends hybrid work policy, demands RTO despite remote work pledge</small>
 
 
-| 🔥🔥: 147 \| 💬: [211](https://news.ycombinator.com/item?id=42899975) \| 🗓️ 2025-02-01
+| 🔥🔥: 149 \| 💬: [215](https://news.ycombinator.com/item?id=42899975) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -143,11 +155,11 @@ tags:
 
 ---
 
-## <a name="11"></a>11. 奇兹信徒与理性主义死亡邪教 
+## <a name="12"></a>12. 奇兹信徒与理性主义死亡邪教 
 <small>🔗 [maxread.substack.com](https://maxread.substack.com/p/the-zizians-and-the-rationalist-death): The Zizians and the rationalist death cult</small>
 
 
-| 🔥🔥: 141 \| 💬: [156](https://news.ycombinator.com/item?id=42897871) \| 🗓️ 2025-02-01
+| 🔥🔥: 145 \| 💬: [156](https://news.ycombinator.com/item?id=42897871) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -155,23 +167,11 @@ tags:
 
 ---
 
-## <a name="12"></a>12. FOSDEM 2025：实时流媒体日程安排 
-<small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/streaming/): FOSDEM 2025: Streaming Schedule</small>
-
-
-| 🔥🔥: 126 \| 💬: [23](https://news.ycombinator.com/item?id=42897254) \| 🗓️ 2025-02-01
-
-
-<br />
-活动将于2025年2月1-2日在布鲁塞尔举行，各会场实时直播链接将在会议期间动态更新。重点涵盖**女性科技史探讨**、**LLM辅助代码审查**及**机密虚拟机技术解析**等议题，包含开源工具链、云存储、RISC-V、移动开发等多元化技术领域，部分会场设闪电演讲与青少年编程专题。
-
----
-
 ## <a name="13"></a>13. 甲骨文云无故删除活跃用户账户且数据无法恢复 
 <small>🔗 [mastodon.de](https://mastodon.de/@ErikUden/113930010311998246): Oracle Cloud deleting active user accounts without possibility for data recovery</small>
 
 
-| 🔥🔥: 114 \| 💬: [46](https://news.ycombinator.com/item?id=42901897) \| 🗓️ 2025-02-01
+| 🔥🔥: 133 \| 💬: [55](https://news.ycombinator.com/item?id=42901897) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -179,7 +179,19 @@ tags:
 
 ---
 
-## <a name="14"></a>14. Data.gov数据集消失引发关注 
+## <a name="14"></a>14. FOSDEM 2025：实时流媒体日程安排 
+<small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/streaming/): FOSDEM 2025: Streaming Schedule</small>
+
+
+| 🔥🔥: 127 \| 💬: [23](https://news.ycombinator.com/item?id=42897254) \| 🗓️ 2025-02-01
+
+
+<br />
+活动将于2025年2月1-2日在布鲁塞尔举行，各会场实时直播链接将在会议期间动态更新。重点涵盖**女性科技史探讨**、**LLM辅助代码审查**及**机密虚拟机技术解析**等议题，包含开源工具链、云存储、RISC-V、移动开发等多元化技术领域，部分会场设闪电演讲与青少年编程专题。
+
+---
+
+## <a name="15"></a>15. Data.gov数据集消失引发关注 
 <small>🔗 [mashable.com](https://mashable.com/article/government-datasets-disappear-since-trump-inauguration): Datasets from Data.gov Have Disappeared</small>
 
 
@@ -191,23 +203,11 @@ tags:
 
 ---
 
-## <a name="15"></a>15. 宏观数据精炼 
-<small>🔗 [lumon-industries.com](https://lumon-industries.com/): Macrodata Refinement</small>
-
-
-| 🔥🔥: 108 \| 💬: [34](https://news.ycombinator.com/item?id=42902691) \| 🗓️ 2025-02-01
-
-
-<br />
-该工具聚焦于海量数据的自动化处理流程，核心涵盖**数据清洗**、**结构优化**与**可视化输出**三大模块。通过动态加载规则引擎，支持用户自定义过滤异常值并修复缺失字段，最终生成适配机器学习的高质量数据集。适用于金融、科研等领域的`Show HN`场景。
-
----
-
 ## <a name="16"></a>16. 硬编码功能开关并无不可 
 <small>🔗 [code.mendhak.com](https://code.mendhak.com/hardcode-feature-flags/): It's OK to hardcode feature flags</small>
 
 
-| 🔥: 87 \| 💬: [78](https://news.ycombinator.com/item?id=42899778) \| 🗓️ 2025-02-01
+| 🔥: 87 \| 💬: [79](https://news.ycombinator.com/item?id=42899778) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -231,7 +231,7 @@ tags:
 <small>🔗 [talknotes.tech](https://www.talknotes.tech/): Show HN: TalkNotes – A site that turns your ideas into tasks</small>
 
 
-| 🔥: 79 \| 💬: [37](https://news.ycombinator.com/item?id=42897662) \| 🗓️ 2025-02-01
+| 🔥: 82 \| 💬: [37](https://news.ycombinator.com/item?id=42897662) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -239,7 +239,19 @@ tags:
 
 ---
 
-## <a name="19"></a>19. 渐进式去权：AI逐步发展如何引发系统性生存风险 
+## <a name="19"></a>19. 成瘾经济 
+<small>🔗 [profgalloway.com](https://www.profgalloway.com/addiction-economy/): Addiction Economy</small>
+
+
+| 🔥: 80 \| 💬: [44](https://news.ycombinator.com/item?id=42899606) \| 🗓️ 2025-02-01
+
+
+<br />
+现代经济核心由**多巴胺驱动**，超级碗广告、食品工业、医药巨头、社交媒体与赌博平台构成**成瘾产业链**。企业通过精准设计产品（如高糖食品、智能手机算法）刺激持续消费，同时医疗行业从中获利。科技公司（苹果、Alphabet）既是成瘾推手，又试图弱化负面影响。社会陷入健康与精神危机，青少年手机成瘾率达24%。文章警示技术迭代与人性弱点结合可能引发更大灾难，并批评政治领袖利用仇恨煽动分裂。
+
+---
+
+## <a name="20"></a>20. 渐进式去权：AI逐步发展如何引发系统性生存风险 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2501.16946): Gradual Disempowerment: How Even Incremental AI Progress Poses Existential Risks</small>
 
 
@@ -251,19 +263,31 @@ tags:
 
 ---
 
-## <a name="20"></a>20. 成瘾经济 
-<small>🔗 [profgalloway.com](https://www.profgalloway.com/addiction-economy/): Addiction Economy</small>
+## <a name="21"></a>21. 在 Miyoo A30 掌机上运行 Python 3、Pygame 与 Debian Bookworm 的实践 
+<small>🔗 [jtolio.com](https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/): Python 3, Pygame, and Debian Bookworm on the Miyoo A30</small>
 
 
-| 🔥: 77 \| 💬: [42](https://news.ycombinator.com/item?id=42899606) \| 🗓️ 2025-02-01
+| 🔥: 75 \| 💬: [9](https://news.ycombinator.com/item?id=42901616) \| 🗓️ 2025-02-01
 
 
 <br />
-现代经济核心由**多巴胺驱动**，超级碗广告、食品工业、医药巨头、社交媒体与赌博平台构成**成瘾产业链**。企业通过精准设计产品（如高糖食品、智能手机算法）刺激持续消费，同时医疗行业从中获利。科技公司（苹果、Alphabet）既是成瘾推手，又试图弱化负面影响。社会陷入健康与精神危机，青少年手机成瘾率达24%。文章警示技术迭代与人性弱点结合可能引发更大灾难，并批评政治领袖利用仇恨煽动分裂。
+作者通过**spruceOS 定制系统**在廉价掌机 Miyoo A30（4核 Cortex A7 / Mali-400 GPU）上搭建了 **Debian Bookworm** 开发环境，利用 `debootstrap` 创建 armhf 架构的 chroot 容器，并覆盖 GPU 驱动库实现硬件加速。通过自定义脚本整合 Pygame 应用至系统界面，解决了屏幕 90 度旋转问题（临时方案为代码修正）。文中提供了预装镜像与工具链，支持 Python 游戏开发，但受限于 Linux 3.x 内核部分功能缺失。
 
 ---
 
-## <a name="21"></a>21. 星舰爆炸余波未平，加勒比岛屿居民深陷残骸困扰 
+## <a name="22"></a>22. YouTube音频质量究竟如何？（2022年） 
+<small>🔗 [audiomisc.co.uk](https://www.audiomisc.co.uk/YouTube/SpotTheDifference.html): YouTube audio quality – How good does it get? (2022)</small>
+
+
+| 🔥: 74 \| 💬: [44](https://news.ycombinator.com/item?id=42901182) \| 🗓️ 2025-02-01
+
+
+<br />
+本文通过对比RVW协会上传的原始音频与YouTube转码后的版本，分析平台音频质量。测试显示，**Opus编解码器**虽保持48kHz采样率，但与原始aac(LC)相比存在约20dB残留误差，高频信号被替换为噪声。而采用**aac编解码**的44.1kHz版本误差较低（-30dB），但涉及采样率转换可能影响音质。频谱分析表明YouTube处理会截断20kHz以上信号，并通过抖动生成虚假高频，**编解码转换与重采样共同导致音质损失**。
+
+---
+
+## <a name="23"></a>23. 星舰爆炸余波未平，加勒比岛屿居民深陷残骸困扰 
 <small>🔗 [cnn.com](https://www.cnn.com/2025/01/30/science/spacex-starship-explosion-debris-turks-caicos/index.html): Island residents are still dealing with the fallout of exploded Starship</small>
 
 
@@ -275,7 +299,19 @@ tags:
 
 ---
 
-## <a name="22"></a>22. 《齐兹教派》（2020年） 
+## <a name="24"></a>24. FAA的空中交管危机根源远超出表面争议 
+<small>🔗 [viewfromthewing.com](https://viewfromthewing.com/collision-on-final-approach-sparks-dei-blame-game-the-faas-real-air-traffic-control-crisis-runs-much-deeper/): The FAA's Real Air Traffic Control Crisis Runs Much Deeper</small>
+
+
+| 🔥: 73 \| 💬: [86](https://news.ycombinator.com/item?id=42900528) \| 🗓️ 2025-02-01
+
+
+<br />
+文章指出，美国联邦航空局（FAA）的核心问题在于**技术落后**与**监管失效**，而非近期事故后各方争论的“多样性招聘”或政治问责。FAA仍依赖纸质飞行条，技术升级数十年无进展，采购系统低效且资金受制于国会拨款周期。与此同时，空中交管员因设备不足面临人力短缺，但**多样性招聘争议**实为次要矛盾——被雇者仍符合资质，根源实为培训资源不足与技术拖累效率。呼吁改革监管分离模式，效仿加拿大等国的现代化方案。
+
+---
+
+## <a name="25"></a>25. 《齐兹教派》（2020年） 
 <small>🔗 [zizians.info](https://zizians.info/): The Zizians (2020)</small>
 
 
@@ -284,17 +320,5 @@ tags:
 
 <br />
 2019年加州理性应用研究中心校友聚会上，五名蒙面抗议者引发警方大规模戒备，其背后是湾区网络邪教**齐兹教派**。核心人物Ziz以"功能性决策理论"为哲学基础，主张通过绝对对抗策略（**nosell**）拒绝妥协，并推广**半球睡眠技术**操控信徒认知，宣称人类大脑左右半球为独立道德主体。该组织仇视自由主义，推崇边沁式功利主义，威胁未来对非素食者进行"纽伦堡审判"。其危险行为导致追随者Maia Pasek在精神崩溃后自杀，揭露邪教通过切断社交网络、构建新身份等手段实施精神控制。
-
----
-
-## <a name="23"></a>23. FAA的空中交管危机根源远超出表面争议 
-<small>🔗 [viewfromthewing.com](https://viewfromthewing.com/collision-on-final-approach-sparks-dei-blame-game-the-faas-real-air-traffic-control-crisis-runs-much-deeper/): The FAA's Real Air Traffic Control Crisis Runs Much Deeper</small>
-
-
-| 🔥: 71 \| 💬: [83](https://news.ycombinator.com/item?id=42900528) \| 🗓️ 2025-02-01
-
-
-<br />
-文章指出，美国联邦航空局（FAA）的核心问题在于**技术落后**与**监管失效**，而非近期事故后各方争论的“多样性招聘”或政治问责。FAA仍依赖纸质飞行条，技术升级数十年无进展，采购系统低效且资金受制于国会拨款周期。与此同时，空中交管员因设备不足面临人力短缺，但**多样性招聘争议**实为次要矛盾——被雇者仍符合资质，根源实为培训资源不足与技术拖累效率。呼吁改革监管分离模式，效仿加拿大等国的现代化方案。
 
 ---
