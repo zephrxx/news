@@ -27,7 +27,7 @@ tags:
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/): CDC data are disappearing</small>
 
 
-| 🔥🔥: 533 \| 💬: [410](https://news.ycombinator.com/item?id=42897696) \| 🗓️ 2025-02-01
+| 🔥🔥: 560 \| 💬: [438](https://news.ycombinator.com/item?id=42897696) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [swift.org](https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/): Apple is open sourcing Swift Build</small>
 
 
-| 🔥🔥: 451 \| 💬: [188](https://news.ycombinator.com/item?id=42899703) \| 🗓️ 2025-02-01
+| 🔥🔥: 480 \| 💬: [207](https://news.ycombinator.com/item?id=42899703) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [digitalspaceport.com](https://digitalspaceport.com/how-to-run-deepseek-r1-671b-fully-locally-on-2000-epyc-rig/): How to Run DeepSeek R1 671B Locally on a $2000 EPYC Server</small>
 
 
-| 🔥🔥: 409 \| 💬: [238](https://news.ycombinator.com/item?id=42897205) \| 🗓️ 2025-02-01
+| 🔥🔥: 413 \| 💬: [239](https://news.ycombinator.com/item?id=42897205) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [phiresky.github.io](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/): Visualizing all books of the world in ISBN-Space</small>
 
 
-| 🔥🔥: 343 \| 💬: [68](https://news.ycombinator.com/item?id=42897120) \| 🗓️ 2025-02-01
+| 🔥🔥: 352 \| 💬: [69](https://news.ycombinator.com/item?id=42897120) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [lumon-industries.com](https://lumon-industries.com/): Macrodata Refinement</small>
 
 
-| 🔥🔥: 273 \| 💬: [153](https://news.ycombinator.com/item?id=42902691) \| 🗓️ 2025-02-01
+| 🔥🔥: 293 \| 💬: [165](https://news.ycombinator.com/item?id=42902691) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [github.com](https://github.com/kspalaiologos/bzip3): Bzip3: A spiritual successor to BZip2</small>
 
 
-| 🔥🔥: 209 \| 💬: [120](https://news.ycombinator.com/item?id=42899713) \| 🗓️ 2025-02-01
+| 🔥🔥: 216 \| 💬: [121](https://news.ycombinator.com/item?id=42899713) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/technology/tech-news/phyllis-fong-who-was-investigating-elon-musks-brain-implant-startup-neuralink-forcefully-removed-from-office-after-refusing-termination-order/articleshow/117800543.cms): Phyllis Fong, who was investigating Neuralink, "forcefully removed "</small>
 
 
-| 🔥🔥: 208 \| 💬: [164](https://news.ycombinator.com/item?id=42902355) \| 🗓️ 2025-02-01
+| 🔥🔥: 211 \| 💬: [174](https://news.ycombinator.com/item?id=42902355) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [asurion.com](https://www.asurion.com/connect/tech-tips/turn-off-apple-intelligence/): How to turn off Apple Intelligence</small>
 
 
-| 🔥🔥: 204 \| 💬: [145](https://news.ycombinator.com/item?id=42897041) \| 🗓️ 2025-02-01
+| 🔥🔥: 204 \| 💬: [147](https://news.ycombinator.com/item?id=42897041) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -119,23 +119,11 @@ tags:
 
 ---
 
-## <a name="9"></a>9. 甲骨文云无故删除活跃用户账户且数据无法恢复 
-<small>🔗 [mastodon.de](https://mastodon.de/@ErikUden/113930010311998246): Oracle Cloud deleting active user accounts without possibility for data recovery</small>
-
-
-| 🔥🔥: 182 \| 💬: [87](https://news.ycombinator.com/item?id=42901897) \| 🗓️ 2025-02-01
-
-
-<br />
-近期曝出甲骨云（Oracle Cloud）存在**无预警删除活跃账户**且**无法恢复数据**的严重问题。受影响用户反映账户与存储资料被永久清除，官方未提供有效解决方案。事件引发对**云端服务数据安全机制**的质疑，建议用户定期备份并谨慎选择服务商。
-
----
-
-## <a name="10"></a>10. 避免使用ISP提供的路由器 
+## <a name="9"></a>9. 避免使用ISP提供的路由器 
 <small>🔗 [routersecurity.org](https://routersecurity.org/ISProuters.php): Avoid ISP Routers (2024)</small>
 
 
-| 🔥🔥: 179 \| 💬: [96](https://news.ycombinator.com/item?id=42903576) \| 🗓️ 2025-02-01
+| 🔥🔥: 193 \| 💬: [107](https://news.ycombinator.com/item?id=42903576) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -143,11 +131,23 @@ tags:
 
 ---
 
+## <a name="10"></a>10. 甲骨文云无故删除活跃用户账户且数据无法恢复 
+<small>🔗 [mastodon.de](https://mastodon.de/@ErikUden/113930010311998246): Oracle Cloud deleting active user accounts without possibility for data recovery</small>
+
+
+| 🔥🔥: 185 \| 💬: [88](https://news.ycombinator.com/item?id=42901897) \| 🗓️ 2025-02-01
+
+
+<br />
+近期曝出甲骨云（Oracle Cloud）存在**无预警删除活跃账户**且**无法恢复数据**的严重问题。受影响用户反映账户与存储资料被永久清除，官方未提供有效解决方案。事件引发对**云端服务数据安全机制**的质疑，建议用户定期备份并谨慎选择服务商。
+
+---
+
 ## <a name="11"></a>11. 全美超90%机场塔台面临人员短缺危机 
 <small>🔗 [cbsnews.com](https://www.cbsnews.com/news/over-90-percent-u-s-airport-towers-understaffed-air-traffic-controllers-data-shows/): Over 90% of U.S. airport towers are understaffed, data shows</small>
 
 
-| 🔥🔥: 174 \| 💬: [212](https://news.ycombinator.com/item?id=42899261) \| 🗓️ 2025-02-01
+| 🔥🔥: 175 \| 💬: [214](https://news.ycombinator.com/item?id=42899261) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -159,7 +159,7 @@ tags:
 <small>🔗 [maxread.substack.com](https://maxread.substack.com/p/the-zizians-and-the-rationalist-death): The Zizians and the rationalist death cult</small>
 
 
-| 🔥🔥: 158 \| 💬: [170](https://news.ycombinator.com/item?id=42897871) \| 🗓️ 2025-02-01
+| 🔥🔥: 161 \| 💬: [174](https://news.ycombinator.com/item?id=42897871) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -179,23 +179,11 @@ tags:
 
 ---
 
-## <a name="14"></a>14. 戴尔终止混合办公政策，强制要求全员返岗办公 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/01/31/dell_ends_hybrid_work_policy/): Dell ends hybrid work policy, demands RTO despite remote work pledge</small>
-
-
-| 🔥🔥: 152 \| 💬: [226](https://news.ycombinator.com/item?id=42899975) \| 🗓️ 2025-02-01
-
-
-<br />
-戴尔宣布自3月3日起，**终止混合办公政策**，要求居住在办公室一小时车程内的员工**每周五天到岗**，远程员工可保留现状。CEO迈克尔·戴尔称面对面交流提升效率，但此举违背此前"60%员工远程"承诺。研究显示强制返岗**未显著提升企业效益**，反而加剧人才流失，部分员工已因政策离职。
-
----
-
-## <a name="15"></a>15. 菲利普·洛揭穿马斯克 
+## <a name="14"></a>14. 菲利普·洛揭穿马斯克 
 <small>🔗 [bsky.app](https://bsky.app/profile/brainking.bsky.social/post/3lgsco7cdnc26): Philip Low Unmasking Musk</small>
 
 
-| 🔥🔥: 150 \| 💬: [52](https://news.ycombinator.com/item?id=42903336) \| 🗓️ 2025-02-01
+| 🔥🔥: 154 \| 💬: [58](https://news.ycombinator.com/item?id=42903336) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -203,11 +191,23 @@ tags:
 
 ---
 
+## <a name="15"></a>15. 戴尔终止混合办公政策，强制要求全员返岗办公 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/01/31/dell_ends_hybrid_work_policy/): Dell ends hybrid work policy, demands RTO despite remote work pledge</small>
+
+
+| 🔥🔥: 152 \| 💬: [228](https://news.ycombinator.com/item?id=42899975) \| 🗓️ 2025-02-01
+
+
+<br />
+戴尔宣布自3月3日起，**终止混合办公政策**，要求居住在办公室一小时车程内的员工**每周五天到岗**，远程员工可保留现状。CEO迈克尔·戴尔称面对面交流提升效率，但此举违背此前"60%员工远程"承诺。研究显示强制返岗**未显著提升企业效益**，反而加剧人才流失，部分员工已因政策离职。
+
+---
+
 ## <a name="16"></a>16. FOSDEM 2025：实时流媒体日程安排 
 <small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/streaming/): FOSDEM 2025: Streaming Schedule</small>
 
 
-| 🔥🔥: 128 \| 💬: [23](https://news.ycombinator.com/item?id=42897254) \| 🗓️ 2025-02-01
+| 🔥🔥: 130 \| 💬: [23](https://news.ycombinator.com/item?id=42897254) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -215,7 +215,31 @@ tags:
 
 ---
 
-## <a name="17"></a>17. Data.gov数据集消失引发关注 
+## <a name="17"></a>17. 基于人类反馈的强化学习指南 
+<small>🔗 [rlhfbook.com](https://rlhfbook.com/): RLHF Book</small>
+
+
+| 🔥🔥: 119 \| 💬: [16](https://news.ycombinator.com/item?id=42902936) \| 🗓️ 2025-02-01
+
+
+<br />
+本文致谢直接参与项目的**Costa Huang**与**Claude**，以及强化学习领域的Ross Taylor等研究者。特别感谢**GitHub社区贡献者**的改进建议，完整版可通过"Show HN"版块获取。
+
+---
+
+## <a name="18"></a>18. 一键清除网页固定顶栏的书签工具（2013） 
+<small>🔗 [alisdair.mcdiarmid.org](https://alisdair.mcdiarmid.org/kill-sticky-headers/): A bookmarklet to kill sticky headers (2013)</small>
+
+
+| 🔥🔥: 113 \| 💬: [50](https://news.ycombinator.com/item?id=42902395) \| 🗓️ 2025-02-01
+
+
+<br />
+作者因使用11寸MacBook Air，**屏幕空间有限**，痛恨**固定标题栏**占用垂直空间、干扰空格键滚动体验。为此，他开发了一个书签工具，通过**`querySelectorAll`定位并删除所有`position: fixed`元素**，即时移除固定顶栏。工具轻量且无需安装，刷新页面即可恢复原布局，旨在让用户专注阅读，避免多余导航干扰。
+
+---
+
+## <a name="19"></a>19. Data.gov数据集消失引发关注 
 <small>🔗 [mashable.com](https://mashable.com/article/government-datasets-disappear-since-trump-inauguration): Datasets from Data.gov Have Disappeared</small>
 
 
@@ -227,23 +251,11 @@ tags:
 
 ---
 
-## <a name="18"></a>18. 一键清除网页固定顶栏的书签工具（2013） 
-<small>🔗 [alisdair.mcdiarmid.org](https://alisdair.mcdiarmid.org/kill-sticky-headers/): A bookmarklet to kill sticky headers (2013)</small>
-
-
-| 🔥🔥: 107 \| 💬: [43](https://news.ycombinator.com/item?id=42902395) \| 🗓️ 2025-02-01
-
-
-<br />
-作者因使用11寸MacBook Air，**屏幕空间有限**，痛恨**固定标题栏**占用垂直空间、干扰空格键滚动体验。为此，他开发了一个书签工具，通过**`querySelectorAll`定位并删除所有`position: fixed`元素**，即时移除固定顶栏。工具轻量且无需安装，刷新页面即可恢复原布局，旨在让用户专注阅读，避免多余导航干扰。
-
----
-
-## <a name="19"></a>19. 在 Miyoo A30 掌机上运行 Python 3、Pygame 与 Debian Bookworm 的实践 
+## <a name="20"></a>20. 在 Miyoo A30 掌机上运行 Python 3、Pygame 与 Debian Bookworm 的实践 
 <small>🔗 [jtolio.com](https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/): Python 3, Pygame, and Debian Bookworm on the Miyoo A30</small>
 
 
-| 🔥: 91 \| 💬: [17](https://news.ycombinator.com/item?id=42901616) \| 🗓️ 2025-02-01
+| 🔥: 99 \| 💬: [17](https://news.ycombinator.com/item?id=42901616) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -251,7 +263,31 @@ tags:
 
 ---
 
-## <a name="20"></a>20. 硬编码功能开关并无不可 
+## <a name="21"></a>21. YouTube音频质量究竟如何？（2022年） 
+<small>🔗 [audiomisc.co.uk](https://www.audiomisc.co.uk/YouTube/SpotTheDifference.html): YouTube audio quality – How good does it get? (2022)</small>
+
+
+| 🔥: 92 \| 💬: [54](https://news.ycombinator.com/item?id=42901182) \| 🗓️ 2025-02-01
+
+
+<br />
+本文通过对比RVW协会上传的原始音频与YouTube转码后的版本，分析平台音频质量。测试显示，**Opus编解码器**虽保持48kHz采样率，但与原始aac(LC)相比存在约20dB残留误差，高频信号被替换为噪声。而采用**aac编解码**的44.1kHz版本误差较低（-30dB），但涉及采样率转换可能影响音质。频谱分析表明YouTube处理会截断20kHz以上信号，并通过抖动生成虚假高频，**编解码转换与重采样共同导致音质损失**。
+
+---
+
+## <a name="22"></a>22. Show HN: TalkNotes——用语音高效规划每日任务的AI工具 
+<small>🔗 [talknotes.tech](https://www.talknotes.tech/): Show HN: TalkNotes – A site that turns your ideas into tasks</small>
+
+
+| 🔥: 90 \| 💬: [39](https://news.ycombinator.com/item?id=42897662) \| 🗓️ 2025-02-01
+
+
+<br />
+通过**AI转录与分析**技术，用户只需2分钟语音即可自动生成待办清单、笔记、闪卡及会议纪要，支持**100多种语言**。产品特色包括未完成任务自动顺延、无限次音频转录，并可将通话内容实时转为结构化文本。适用于跨语言会议记录与个人日程管理，提供终身订阅方案，获用户评价“精准高效，彻底改变工作流程”。
+
+---
+
+## <a name="23"></a>23. 硬编码功能开关并无不可 
 <small>🔗 [code.mendhak.com](https://code.mendhak.com/hardcode-feature-flags/): It's OK to hardcode feature flags</small>
 
 
@@ -263,31 +299,19 @@ tags:
 
 ---
 
-## <a name="21"></a>21. Show HN: TalkNotes——用语音高效规划每日任务的AI工具 
-<small>🔗 [talknotes.tech](https://www.talknotes.tech/): Show HN: TalkNotes – A site that turns your ideas into tasks</small>
+## <a name="24"></a>24. 斯姆特-霍利关税法 
+<small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Smoot%E2%80%93Hawley_Tariff_Act): Smoot–Hawley Tariff Act</small>
 
 
-| 🔥: 88 \| 💬: [39](https://news.ycombinator.com/item?id=42897662) \| 🗓️ 2025-02-01
-
-
-<br />
-通过**AI转录与分析**技术，用户只需2分钟语音即可自动生成待办清单、笔记、闪卡及会议纪要，支持**100多种语言**。产品特色包括未完成任务自动顺延、无限次音频转录，并可将通话内容实时转为结构化文本。适用于跨语言会议记录与个人日程管理，提供终身订阅方案，获用户评价“精准高效，彻底改变工作流程”。
-
----
-
-## <a name="22"></a>22. YouTube音频质量究竟如何？（2022年） 
-<small>🔗 [audiomisc.co.uk](https://www.audiomisc.co.uk/YouTube/SpotTheDifference.html): YouTube audio quality – How good does it get? (2022)</small>
-
-
-| 🔥: 86 \| 💬: [51](https://news.ycombinator.com/item?id=42901182) \| 🗓️ 2025-02-01
+| 🔥: 85 \| 💬: [23](https://news.ycombinator.com/item?id=42904351) \| 🗓️ 2025-02-01
 
 
 <br />
-本文通过对比RVW协会上传的原始音频与YouTube转码后的版本，分析平台音频质量。测试显示，**Opus编解码器**虽保持48kHz采样率，但与原始aac(LC)相比存在约20dB残留误差，高频信号被替换为噪声。而采用**aac编解码**的44.1kHz版本误差较低（-30dB），但涉及采样率转换可能影响音质。频谱分析表明YouTube处理会截断20kHz以上信号，并通过抖动生成虚假高频，**编解码转换与重采样共同导致音质损失**。
+1930年由美国国会通过，总统赫伯特·胡佛签署的**贸易保护主义政策**，对超过2万种进口商品实施**大幅提高关税**。该法案旨在保护国内产业，但引发多国报复性关税，导致全球贸易萎缩。经济学家普遍认为其加剧了**大萧条**，美国进出口额暴跌67%，失业率激增。尽管千名经济学家联名反对，法案仍通过。后续《互惠贸易协定法》（1934）及战后多边协议逐步扭转高关税政策，成为国际贸易体系改革的警示案例。
 
 ---
 
-## <a name="23"></a>23. 大语言模型在数学领域的应用探索（2023） 
+## <a name="25"></a>25. 大语言模型在数学领域的应用探索（2023） 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2312.04556): Large Language Models for Mathematicians (2023)</small>
 
 
@@ -296,29 +320,5 @@ tags:
 
 <br />
 本文探讨以ChatGPT为代表的**大语言模型**如何辅助数学家工作。通过解析**Transformer架构**的数学模型，分析其在数学推理、代码生成等场景的潜力与局限，并评估现有模型处理数学问题的能力。研究指出，尽管存在逻辑严谨性等挑战，这类工具将显著改变数学家获取知识、验证猜想和协作研究的方式。
-
----
-
-## <a name="24"></a>24. 成瘾经济 
-<small>🔗 [profgalloway.com](https://www.profgalloway.com/addiction-economy/): Addiction Economy</small>
-
-
-| 🔥: 81 \| 💬: [46](https://news.ycombinator.com/item?id=42899606) \| 🗓️ 2025-02-01
-
-
-<br />
-现代经济核心由**多巴胺驱动**，超级碗广告、食品工业、医药巨头、社交媒体与赌博平台构成**成瘾产业链**。企业通过精准设计产品（如高糖食品、智能手机算法）刺激持续消费，同时医疗行业从中获利。科技公司（苹果、Alphabet）既是成瘾推手，又试图弱化负面影响。社会陷入健康与精神危机，青少年手机成瘾率达24%。文章警示技术迭代与人性弱点结合可能引发更大灾难，并批评政治领袖利用仇恨煽动分裂。
-
----
-
-## <a name="25"></a>25. 渐进式去权：AI逐步发展如何引发系统性生存风险 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2501.16946): Gradual Disempowerment: How Even Incremental AI Progress Poses Existential Risks</small>
-
-
-| 🔥: 80 \| 💬: [71](https://news.ycombinator.com/item?id=42898914) \| 🗓️ 2025-02-01
-
-
-<br />
-该研究提出**渐进式去权**概念，指出AI能力即使**渐进提升**也可能通过经济、文化和政治系统的连锁效应，逐步削弱人类对社会关键领域的控制力。随着AI替代人类劳动与决策，传统显性控制机制（如投票）和隐性利益协调机制将失效，最终可能导致人类影响力**不可逆丧失**，引发生存危机。研究呼吁针对系统性风险开展跨领域技术治理。
 
 ---
