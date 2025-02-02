@@ -27,7 +27,7 @@ tags:
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/health/archive/2025/01/cdc-dei-scientific-data/681531/): CDC data are disappearing</small>
 
 
-| 🔥🔥: 615 \| 💬: [480](https://news.ycombinator.com/item?id=42897696) \| 🗓️ 2025-02-01
+| 🔥🔥: 625 \| 💬: [488](https://news.ycombinator.com/item?id=42897696) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [swift.org](https://www.swift.org/blog/the-next-chapter-in-swift-build-technologies/): Apple is open sourcing Swift Build</small>
 
 
-| 🔥🔥: 511 \| 💬: [220](https://news.ycombinator.com/item?id=42899703) \| 🗓️ 2025-02-01
+| 🔥🔥: 533 \| 💬: [228](https://news.ycombinator.com/item?id=42899703) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [digitalspaceport.com](https://digitalspaceport.com/how-to-run-deepseek-r1-671b-fully-locally-on-2000-epyc-rig/): How to Run DeepSeek R1 671B Locally on a $2000 EPYC Server</small>
 
 
-| 🔥🔥: 416 \| 💬: [239](https://news.ycombinator.com/item?id=42897205) \| 🗓️ 2025-02-01
+| 🔥🔥: 420 \| 💬: [239](https://news.ycombinator.com/item?id=42897205) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [phiresky.github.io](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/): Visualizing all books of the world in ISBN-Space</small>
 
 
-| 🔥🔥: 362 \| 💬: [71](https://news.ycombinator.com/item?id=42897120) \| 🗓️ 2025-02-01
+| 🔥🔥: 367 \| 💬: [73](https://news.ycombinator.com/item?id=42897120) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [lumon-industries.com](https://lumon-industries.com/): Macrodata Refinement</small>
 
 
-| 🔥🔥: 328 \| 💬: [185](https://news.ycombinator.com/item?id=42902691) \| 🗓️ 2025-02-01
+| 🔥🔥: 342 \| 💬: [195](https://news.ycombinator.com/item?id=42902691) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -83,95 +83,11 @@ tags:
 
 ---
 
-## <a name="6"></a>6. Bzip3：BZip2 的精神继承者 
-<small>🔗 [github.com](https://github.com/kspalaiologos/bzip3): Bzip3: A spiritual successor to BZip2</small>
+## <a name="6"></a>6. CDC下令全面撤回及修改涉及敏感术语的科研论文 
+<small>🔗 [insidemedicine.substack.com](https://insidemedicine.substack.com/p/breaking-news-cdc-orders-mass-retraction): CDC orders mass retraction and revision of submitted research</small>
 
 
-| 🔥🔥: 229 \| 💬: [133](https://news.ycombinator.com/item?id=42899713) \| 🗓️ 2025-02-01
-
-
-<br />
-新一代压缩工具 **Bzip3** 通过 **Burrows-Wheeler 变换** 与 **LZ77+PPM 预测模型** 显著提升压缩率与速度，专精文本与代码压缩。测试中其高参数模式压缩率优于 BZip2、xz 及 Zstandard，并行解压仅需 4 分钟。支持多架构并采用 LGPL-3.0 协议，但作者强调需自行承担数据丢失风险。
-
----
-
-## <a name="7"></a>7. 调查Neuralink的Phyllis Fong因拒离职被强制解职 
-<small>🔗 [timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/technology/tech-news/phyllis-fong-who-was-investigating-elon-musks-brain-implant-startup-neuralink-forcefully-removed-from-office-after-refusing-termination-order/articleshow/117800543.cms): Phyllis Fong, who was investigating Neuralink, "forcefully removed "</small>
-
-
-| 🔥🔥: 215 \| 💬: [176](https://news.ycombinator.com/item?id=42902355) \| 🗓️ 2025-02-01
-
-
-<br />
-美国农业部监察长**Phyllis Fong**因拒绝接受特朗普政府的解雇令，遭安保人员带离办公室。她指控解雇程序违规，白宫则称此举为清除**党派官僚**以维护法治。Fong曾主导多项重大调查，包括对马斯克脑机接口公司**Neuralink**的审查。此次事件是特朗普近期解雇17名联邦监察官的"周五晚大清洗"行动之一。
-
----
-
-## <a name="8"></a>8. 避免使用ISP提供的路由器 
-<small>🔗 [routersecurity.org](https://routersecurity.org/ISProuters.php): Avoid ISP Routers (2024)</small>
-
-
-| 🔥🔥: 211 \| 💬: [124](https://news.ycombinator.com/item?id=42903576) \| 🗓️ 2025-02-01
-
-
-<br />
-文章指出，使用自主购买的路由器和调制解调器比依赖**ISP提供的设备**更安全。原因包括：ISP设备常存在**默认密码未修改**、固件更新权限受限、可能植入后门或收集用户数据，且易成大规模攻击目标。此外，ISP为降低成本常忽视安全性，设备可能被用于公共WiFi或无法自定义配置。长期租赁费用也可能高于自购成本。作者强调，垄断性ISP缺乏改进动力，用户应掌控硬件选择权以提升安全与隐私保护。
-
----
-
-## <a name="9"></a>9. 如何关闭Apple Intelligence功能 
-<small>🔗 [asurion.com](https://www.asurion.com/connect/tech-tips/turn-off-apple-intelligence/): How to turn off Apple Intelligence</small>
-
-
-| 🔥🔥: 207 \| 💬: [150](https://news.ycombinator.com/item?id=42897041) \| 🗓️ 2025-02-01
-
-
-<br />
-本文介绍在iPhone、iPad及Mac设备上禁用**Apple Intelligence**的方法：通过**设置**→Apple Intelligence关闭总开关，系统将停止智能建议、摘要生成等功能（部分安全功能如Face ID仍保留）。用户也可在**应用权限**中单独设置特定应用不共享数据，实现选择性禁用。该操作兼顾隐私保护与基础AI服务的使用需求。
-
----
-
-## <a name="10"></a>10. 甲骨文云无故删除活跃用户账户且数据无法恢复 
-<small>🔗 [mastodon.de](https://mastodon.de/@ErikUden/113930010311998246): Oracle Cloud deleting active user accounts without possibility for data recovery</small>
-
-
-| 🔥🔥: 191 \| 💬: [92](https://news.ycombinator.com/item?id=42901897) \| 🗓️ 2025-02-01
-
-
-<br />
-近期曝出甲骨云（Oracle Cloud）存在**无预警删除活跃账户**且**无法恢复数据**的严重问题。受影响用户反映账户与存储资料被永久清除，官方未提供有效解决方案。事件引发对**云端服务数据安全机制**的质疑，建议用户定期备份并谨慎选择服务商。
-
----
-
-## <a name="11"></a>11. 全美超90%机场塔台面临人员短缺危机 
-<small>🔗 [cbsnews.com](https://www.cbsnews.com/news/over-90-percent-u-s-airport-towers-understaffed-air-traffic-controllers-data-shows/): Over 90% of U.S. airport towers are understaffed, data shows</small>
-
-
-| 🔥🔥: 177 \| 💬: [214](https://news.ycombinator.com/item?id=42899261) \| 🗓️ 2025-02-01
-
-
-<br />
-数据显示，**仅不到10%的美国机场塔台**达到联邦航空局（FAA）与工会联合制定的空管员配置标准。近期华盛顿特区附近空难（致67人遇难）引发关注，事发时**仅1名空管员同时调度直升机与客机**，而常规需2人协作。FAA报告称，全国空管员缺口达3000-4000人，疫情严重阻碍培训与招聘，导致合格人员比例仅72%。工会指出，即使当前招聘2000人，**最终仅半数能通过严格认证**。
-
----
-
-## <a name="12"></a>12. 奇兹信徒与理性主义死亡邪教 
-<small>🔗 [maxread.substack.com](https://maxread.substack.com/p/the-zizians-and-the-rationalist-death): The Zizians and the rationalist death cult</small>
-
-
-| 🔥🔥: 164 \| 💬: [175](https://news.ycombinator.com/item?id=42897871) \| 🗓️ 2025-02-01
-
-
-<br />
-本文揭露硅谷**理性主义运动**衍生的暴力组织“奇兹信徒”。领袖Ziz融合激进素食主义与**半球理论**，主张人类大脑分属独立意识体，并将食肉视为“种族屠杀”。信徒涉及佛蒙特州边境枪战等多起命案，暴露理性主义社群在AI伦理与认知实验中的极端化倾向，折射科技乌托邦主义下的潜在危险。
-
----
-
-## <a name="13"></a>13. CDC下令全面撤回及修改涉及敏感术语的科研论文 
-<small>🔗 [insidemedicine.substack.com](https://insidemedicine.substack.com/p/breaking-news-cdc-orders-mass-retraction): CDC orders mass retraction of research across all science and medicine journals</small>
-
-
-| 🔥🔥: 159 \| 💬: [89](https://news.ycombinator.com/item?id=42905937) \| 🗓️ 2025-02-01
+| 🔥🔥: 251 \| 💬: [108](https://news.ycombinator.com/item?id=42905937) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -179,47 +95,83 @@ tags:
 
 ---
 
-## <a name="14"></a>14. 菲利普·洛揭穿马斯克 
-<small>🔗 [bsky.app](https://bsky.app/profile/brainking.bsky.social/post/3lgsco7cdnc26): Philip Low Unmasking Musk</small>
+## <a name="7"></a>7. Bzip3：BZip2 的精神继承者 
+<small>🔗 [github.com](https://github.com/kspalaiologos/bzip3): Bzip3: A spiritual successor to BZip2</small>
 
 
-| 🔥🔥: 158 \| 💬: [59](https://news.ycombinator.com/item?id=42903336) \| 🗓️ 2025-02-01
-
-
-<br />
-此文探讨**Bluesky社交平台**的技术架构与互动特性，强调其依赖**JavaScript**实现高度交互功能，并基于**AT协议**构建。菲利普·洛通过分析马斯克的公开言论与行为，提出批判性观点，呼吁关注技术透明性与用户隐私保护。内容关联“Show HN”类别，未深入展开具体揭露细节。
-
----
-
-## <a name="15"></a>15. ADHD没有毁了我，毁了我的是父母 
-<small>🔗 [claimingattention.substack.com](https://claimingattention.substack.com/p/adhd-did-not-break-me-my-parents-did): ADHD Didn't Break Me–My Parents Did</small>
-
-
-| 🔥🔥: 155 \| 💬: [163](https://news.ycombinator.com/item?id=42899841) \| 🗓️ 2025-02-01
+| 🔥🔥: 234 \| 💬: [136](https://news.ycombinator.com/item?id=42899713) \| 🗓️ 2025-02-01
 
 
 <br />
-作者确诊ADHD后意识到，真正伤害他的并非疾病本身，而是父母以**纪律压制天性**的教养方式。家庭与学校构成的**权威体系**将他的认知差异视为缺陷，通过限制社交、娱乐等方式强迫其“正常化”，导致自我否定与情感依赖。他指出，ADHD是**认知差异**而非缺陷，走出创伤需重新审视被灌输的价值标准，建立与自我天性兼容的生活体系。
+新一代压缩工具 **Bzip3** 通过 **Burrows-Wheeler 变换** 与 **LZ77+PPM 预测模型** 显著提升压缩率与速度，专精文本与代码压缩。测试中其高参数模式压缩率优于 BZip2、xz 及 Zstandard，并行解压仅需 4 分钟。支持多架构并采用 LGPL-3.0 协议，但作者强调需自行承担数据丢失风险。
 
 ---
 
-## <a name="16"></a>16. 戴尔终止混合办公政策，强制要求全员返岗办公 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/01/31/dell_ends_hybrid_work_policy/): Dell ends hybrid work policy, demands RTO despite remote work pledge</small>
+## <a name="8"></a>8. 避免使用ISP提供的路由器 
+<small>🔗 [routersecurity.org](https://routersecurity.org/ISProuters.php): Avoid ISP Routers (2024)</small>
 
 
-| 🔥🔥: 154 \| 💬: [228](https://news.ycombinator.com/item?id=42899975) \| 🗓️ 2025-02-01
+| 🔥🔥: 222 \| 💬: [129](https://news.ycombinator.com/item?id=42903576) \| 🗓️ 2025-02-01
 
 
 <br />
-戴尔宣布自3月3日起，**终止混合办公政策**，要求居住在办公室一小时车程内的员工**每周五天到岗**，远程员工可保留现状。CEO迈克尔·戴尔称面对面交流提升效率，但此举违背此前"60%员工远程"承诺。研究显示强制返岗**未显著提升企业效益**，反而加剧人才流失，部分员工已因政策离职。
+文章指出，使用自主购买的路由器和调制解调器比依赖**ISP提供的设备**更安全。原因包括：ISP设备常存在**默认密码未修改**、固件更新权限受限、可能植入后门或收集用户数据，且易成大规模攻击目标。此外，ISP为降低成本常忽视安全性，设备可能被用于公共WiFi或无法自定义配置。长期租赁费用也可能高于自购成本。作者强调，垄断性ISP缺乏改进动力，用户应掌控硬件选择权以提升安全与隐私保护。
 
 ---
 
-## <a name="17"></a>17. 基于人类反馈的强化学习指南 
+## <a name="9"></a>9. 调查Neuralink的Phyllis Fong因拒离职被强制解职 
+<small>🔗 [timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/technology/tech-news/phyllis-fong-who-was-investigating-elon-musks-brain-implant-startup-neuralink-forcefully-removed-from-office-after-refusing-termination-order/articleshow/117800543.cms): Phyllis Fong, who was investigating Neuralink, "forcefully removed "</small>
+
+
+| 🔥🔥: 221 \| 💬: [176](https://news.ycombinator.com/item?id=42902355) \| 🗓️ 2025-02-01
+
+
+<br />
+美国农业部监察长**Phyllis Fong**因拒绝接受特朗普政府的解雇令，遭安保人员带离办公室。她指控解雇程序违规，白宫则称此举为清除**党派官僚**以维护法治。Fong曾主导多项重大调查，包括对马斯克脑机接口公司**Neuralink**的审查。此次事件是特朗普近期解雇17名联邦监察官的"周五晚大清洗"行动之一。
+
+---
+
+## <a name="10"></a>10. 如何关闭Apple Intelligence功能 
+<small>🔗 [asurion.com](https://www.asurion.com/connect/tech-tips/turn-off-apple-intelligence/): How to turn off Apple Intelligence</small>
+
+
+| 🔥🔥: 209 \| 💬: [153](https://news.ycombinator.com/item?id=42897041) \| 🗓️ 2025-02-01
+
+
+<br />
+本文介绍在iPhone、iPad及Mac设备上禁用**Apple Intelligence**的方法：通过**设置**→Apple Intelligence关闭总开关，系统将停止智能建议、摘要生成等功能（部分安全功能如Face ID仍保留）。用户也可在**应用权限**中单独设置特定应用不共享数据，实现选择性禁用。该操作兼顾隐私保护与基础AI服务的使用需求。
+
+---
+
+## <a name="11"></a>11. 甲骨文云无故删除活跃用户账户且数据无法恢复 
+<small>🔗 [mastodon.de](https://mastodon.de/@ErikUden/113930010311998246): Oracle Cloud deleting active user accounts without possibility for data recovery</small>
+
+
+| 🔥🔥: 193 \| 💬: [96](https://news.ycombinator.com/item?id=42901897) \| 🗓️ 2025-02-01
+
+
+<br />
+近期曝出甲骨云（Oracle Cloud）存在**无预警删除活跃账户**且**无法恢复数据**的严重问题。受影响用户反映账户与存储资料被永久清除，官方未提供有效解决方案。事件引发对**云端服务数据安全机制**的质疑，建议用户定期备份并谨慎选择服务商。
+
+---
+
+## <a name="12"></a>12. 全美超90%机场塔台面临人员短缺危机 
+<small>🔗 [cbsnews.com](https://www.cbsnews.com/news/over-90-percent-u-s-airport-towers-understaffed-air-traffic-controllers-data-shows/): Over 90% of U.S. airport towers are understaffed, data shows</small>
+
+
+| 🔥🔥: 178 \| 💬: [221](https://news.ycombinator.com/item?id=42899261) \| 🗓️ 2025-02-01
+
+
+<br />
+数据显示，**仅不到10%的美国机场塔台**达到联邦航空局（FAA）与工会联合制定的空管员配置标准。近期华盛顿特区附近空难（致67人遇难）引发关注，事发时**仅1名空管员同时调度直升机与客机**，而常规需2人协作。FAA报告称，全国空管员缺口达3000-4000人，疫情严重阻碍培训与招聘，导致合格人员比例仅72%。工会指出，即使当前招聘2000人，**最终仅半数能通过严格认证**。
+
+---
+
+## <a name="13"></a>13. 基于人类反馈的强化学习指南 
 <small>🔗 [rlhfbook.com](https://rlhfbook.com/): RLHF Book</small>
 
 
-| 🔥🔥: 151 \| 💬: [16](https://news.ycombinator.com/item?id=42902936) \| 🗓️ 2025-02-01
+| 🔥🔥: 171 \| 💬: [16](https://news.ycombinator.com/item?id=42902936) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -227,23 +179,59 @@ tags:
 
 ---
 
-## <a name="18"></a>18. FOSDEM 2025：实时流媒体日程安排 
-<small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/streaming/): FOSDEM 2025: Streaming Schedule</small>
+## <a name="14"></a>14. 奇兹信徒与理性主义死亡邪教 
+<small>🔗 [maxread.substack.com](https://maxread.substack.com/p/the-zizians-and-the-rationalist-death): The Zizians and the rationalist death cult</small>
 
 
-| 🔥🔥: 133 \| 💬: [23](https://news.ycombinator.com/item?id=42897254) \| 🗓️ 2025-02-01
+| 🔥🔥: 166 \| 💬: [175](https://news.ycombinator.com/item?id=42897871) \| 🗓️ 2025-02-01
 
 
 <br />
-活动将于2025年2月1-2日在布鲁塞尔举行，各会场实时直播链接将在会议期间动态更新。重点涵盖**女性科技史探讨**、**LLM辅助代码审查**及**机密虚拟机技术解析**等议题，包含开源工具链、云存储、RISC-V、移动开发等多元化技术领域，部分会场设闪电演讲与青少年编程专题。
+本文揭露硅谷**理性主义运动**衍生的暴力组织“奇兹信徒”。领袖Ziz融合激进素食主义与**半球理论**，主张人类大脑分属独立意识体，并将食肉视为“种族屠杀”。信徒涉及佛蒙特州边境枪战等多起命案，暴露理性主义社群在AI伦理与认知实验中的极端化倾向，折射科技乌托邦主义下的潜在危险。
 
 ---
 
-## <a name="19"></a>19. 一键清除网页固定顶栏的书签工具（2013） 
+## <a name="15"></a>15. 菲利普·洛揭穿马斯克 
+<small>🔗 [bsky.app](https://bsky.app/profile/brainking.bsky.social/post/3lgsco7cdnc26): Philip Low Unmasking Musk</small>
+
+
+| 🔥🔥: 160 \| 💬: [59](https://news.ycombinator.com/item?id=42903336) \| 🗓️ 2025-02-01
+
+
+<br />
+此文探讨**Bluesky社交平台**的技术架构与互动特性，强调其依赖**JavaScript**实现高度交互功能，并基于**AT协议**构建。菲利普·洛通过分析马斯克的公开言论与行为，提出批判性观点，呼吁关注技术透明性与用户隐私保护。内容关联“Show HN”类别，未深入展开具体揭露细节。
+
+---
+
+## <a name="16"></a>16. ADHD没有毁了我，毁了我的是父母 
+<small>🔗 [claimingattention.substack.com](https://claimingattention.substack.com/p/adhd-did-not-break-me-my-parents-did): ADHD Didn't Break Me–My Parents Did</small>
+
+
+| 🔥🔥: 155 \| 💬: [164](https://news.ycombinator.com/item?id=42899841) \| 🗓️ 2025-02-01
+
+
+<br />
+作者确诊ADHD后意识到，真正伤害他的并非疾病本身，而是父母以**纪律压制天性**的教养方式。家庭与学校构成的**权威体系**将他的认知差异视为缺陷，通过限制社交、娱乐等方式强迫其“正常化”，导致自我否定与情感依赖。他指出，ADHD是**认知差异**而非缺陷，走出创伤需重新审视被灌输的价值标准，建立与自我天性兼容的生活体系。
+
+---
+
+## <a name="17"></a>17. 戴尔终止混合办公政策，强制要求全员返岗办公 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/01/31/dell_ends_hybrid_work_policy/): Dell ends hybrid work policy, demands RTO despite remote work pledge</small>
+
+
+| 🔥🔥: 155 \| 💬: [228](https://news.ycombinator.com/item?id=42899975) \| 🗓️ 2025-02-01
+
+
+<br />
+戴尔宣布自3月3日起，**终止混合办公政策**，要求居住在办公室一小时车程内的员工**每周五天到岗**，远程员工可保留现状。CEO迈克尔·戴尔称面对面交流提升效率，但此举违背此前"60%员工远程"承诺。研究显示强制返岗**未显著提升企业效益**，反而加剧人才流失，部分员工已因政策离职。
+
+---
+
+## <a name="18"></a>18. 一键清除网页固定顶栏的书签工具（2013） 
 <small>🔗 [alisdair.mcdiarmid.org](https://alisdair.mcdiarmid.org/kill-sticky-headers/): A bookmarklet to kill sticky headers (2013)</small>
 
 
-| 🔥🔥: 130 \| 💬: [51](https://news.ycombinator.com/item?id=42902395) \| 🗓️ 2025-02-01
+| 🔥🔥: 135 \| 💬: [55](https://news.ycombinator.com/item?id=42902395) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -251,11 +239,23 @@ tags:
 
 ---
 
+## <a name="19"></a>19. FOSDEM 2025：实时流媒体日程安排 
+<small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/streaming/): FOSDEM 2025: Streaming Schedule</small>
+
+
+| 🔥🔥: 134 \| 💬: [23](https://news.ycombinator.com/item?id=42897254) \| 🗓️ 2025-02-01
+
+
+<br />
+活动将于2025年2月1-2日在布鲁塞尔举行，各会场实时直播链接将在会议期间动态更新。重点涵盖**女性科技史探讨**、**LLM辅助代码审查**及**机密虚拟机技术解析**等议题，包含开源工具链、云存储、RISC-V、移动开发等多元化技术领域，部分会场设闪电演讲与青少年编程专题。
+
+---
+
 ## <a name="20"></a>20. Data.gov数据集消失引发关注 
 <small>🔗 [mashable.com](https://mashable.com/article/government-datasets-disappear-since-trump-inauguration): Datasets from Data.gov Have Disappeared</small>
 
 
-| 🔥🔥: 111 \| 💬: [1](https://news.ycombinator.com/item?id=42898771) \| 🗓️ 2025-02-01
+| 🔥🔥: 112 \| 💬: [1](https://news.ycombinator.com/item?id=42898771) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -267,7 +267,7 @@ tags:
 <small>🔗 [jtolio.com](https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/): Python 3, Pygame, and Debian Bookworm on the Miyoo A30</small>
 
 
-| 🔥🔥: 105 \| 💬: [18](https://news.ycombinator.com/item?id=42901616) \| 🗓️ 2025-02-01
+| 🔥🔥: 107 \| 💬: [18](https://news.ycombinator.com/item?id=42901616) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -275,11 +275,23 @@ tags:
 
 ---
 
-## <a name="22"></a>22. YouTube音频质量究竟如何？（2022年） 
+## <a name="22"></a>22. 大语言模型在组合任务上暴露根本性局限性 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/): Recent results show that LLMs struggle with compositional tasks</small>
+
+
+| 🔥🔥: 107 \| 💬: [75](https://news.ycombinator.com/item?id=42905453) \| 🗓️ 2025-02-01
+
+
+<br />
+最新研究表明，基于**Transformer架构**的大语言模型在处理**多步组合推理**任务时存在硬性数学限制。实验显示，GPT-4在五属性版"爱因斯坦谜题"中成功率归零，复杂乘法准确率仅4%。尽管**微调模型**和链式思维提示能扩展其能力，但本质仍是模式匹配而非真正推理。理论证明Transformer无法突破特定计算复杂度边界，暗示需探索新架构突破瓶颈。
+
+---
+
+## <a name="23"></a>23. YouTube音频质量究竟如何？（2022年） 
 <small>🔗 [audiomisc.co.uk](https://www.audiomisc.co.uk/YouTube/SpotTheDifference.html): YouTube audio quality – How good does it get? (2022)</small>
 
 
-| 🔥: 100 \| 💬: [57](https://news.ycombinator.com/item?id=42901182) \| 🗓️ 2025-02-01
+| 🔥🔥: 103 \| 💬: [58](https://news.ycombinator.com/item?id=42901182) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -287,11 +299,11 @@ tags:
 
 ---
 
-## <a name="23"></a>23. Show HN: TalkNotes——用语音高效规划每日任务的AI工具 
+## <a name="24"></a>24. Show HN: TalkNotes——用语音高效规划每日任务的AI工具 
 <small>🔗 [talknotes.tech](https://www.talknotes.tech/): Show HN: TalkNotes – A site that turns your ideas into tasks</small>
 
 
-| 🔥: 91 \| 💬: [39](https://news.ycombinator.com/item?id=42897662) \| 🗓️ 2025-02-01
+| 🔥: 92 \| 💬: [39](https://news.ycombinator.com/item?id=42897662) \| 🗓️ 2025-02-01
 
 
 <br />
@@ -299,23 +311,11 @@ tags:
 
 ---
 
-## <a name="24"></a>24. 硬编码功能开关并无不可 
-<small>🔗 [code.mendhak.com](https://code.mendhak.com/hardcode-feature-flags/): It's OK to hardcode feature flags</small>
-
-
-| 🔥: 89 \| 💬: [83](https://news.ycombinator.com/item?id=42899778) \| 🗓️ 2025-02-01
-
-
-<br />
-功能开关常用于控制新功能的发布，主流方案依赖**管理软件**，但此类工具带来复杂性、安全风险及技术债。作者指出，多数场景下**硬编码**更可靠：通过JSON文件配置，随应用启动加载，配合常规开发流程变更。其优势在于简单、可追溯，且避免运行时不确定性。仅当业务明确需要动态大规模调整时，才需引入复杂系统。**过早优化**不仅徒增负担，更可能成为技术决策的败笔。
-
----
-
 ## <a name="25"></a>25. 斯姆特-霍利关税法 
 <small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Smoot%E2%80%93Hawley_Tariff_Act): Smoot–Hawley Tariff Act</small>
 
 
-| 🔥: 89 \| 💬: [23](https://news.ycombinator.com/item?id=42904351) \| 🗓️ 2025-02-01
+| 🔥: 92 \| 💬: [23](https://news.ycombinator.com/item?id=42904351) \| 🗓️ 2025-02-01
 
 
 <br />
