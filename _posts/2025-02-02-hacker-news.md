@@ -10,8 +10,8 @@ tags:
 
 1. 你的位置无所遁形：通过应用内广告追踪自己的经历；
 1. 生活不止是一个工程问题；
-1. Show HN: Lume - 专为Apple Silicon设计的轻量级macOS/Linux虚拟机CLI工具；
 1. Waydroid——Linux 容器中的安卓系统；
+1. Show HN: Lume - 专为Apple Silicon设计的轻量级macOS/Linux虚拟机CLI工具；
 1. SanDisk High Endurance microSDXC 存储卡逆向工程与分析（2020）；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [timsh.org](https://timsh.org/tracking-myself-down-through-in-app-ads/): Everyone knows your location: tracking myself down through in-app ads</small>
 
 
-| 🔥🔥: 1025 \| 💬: [351](https://news.ycombinator.com/item?id=42909921) \| 🗓️ 2025-02-02
+| 🔥🔥: 1075 \| 💬: [363](https://news.ycombinator.com/item?id=42909921) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [lareviewofbooks.org](https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/): Life is more than an engineering problem</small>
 
 
-| 🔥🔥: 329 \| 💬: [202](https://news.ycombinator.com/item?id=42907268) \| 🗓️ 2025-02-02
+| 🔥🔥: 333 \| 💬: [206](https://news.ycombinator.com/item?id=42907268) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -47,23 +47,11 @@ Ted Chiang 在与 Julien Crockett 的对话中探讨了人工智能、语言哲�
 
 ---
 
-## <a name="3"></a>3. Show HN: Lume - 专为Apple Silicon设计的轻量级macOS/Linux虚拟机CLI工具 
-<small>🔗 [github.com](https://github.com/trycua/lume): Show HN: Lume – OS lightweight CLI for MacOS and Linux VMs on Apple Silicon</small>
-
-
-| 🔥🔥: 252 \| 💬: [66](https://news.ycombinator.com/item?id=42908061) \| 🗓️ 2025-02-02
-
-
-<br />
-Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工具，支持在Apple Silicon设备上快速创建、运行和管理macOS与Linux虚拟机。核心功能包括一键启动预构建镜像（如macOS Sonoma 15.2和Ubuntu 24.04）、动态调整CPU/内存/磁盘配置，以及通过本地API服务器实现自动化管理。通过 **ghcr.io/trycua** 提供优化镜像，支持SSH和共享目录，并采用MIT开源协议，支持Homebrew安装及社区贡献。
-
----
-
-## <a name="4"></a>4. Waydroid——Linux 容器中的安卓系统 
+## <a name="3"></a>3. Waydroid——Linux 容器中的安卓系统 
 <small>🔗 [waydro.id](https://waydro.id/): Waydroid – Android in a Linux container</small>
 
 
-| 🔥🔥: 251 \| 💬: [49](https://news.ycombinator.com/item?id=42911042) \| 🗓️ 2025-02-02
+| 🔥🔥: 261 \| 💬: [57](https://news.ycombinator.com/item?id=42911042) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -71,11 +59,23 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 
 ---
 
+## <a name="4"></a>4. Show HN: Lume - 专为Apple Silicon设计的轻量级macOS/Linux虚拟机CLI工具 
+<small>🔗 [github.com](https://github.com/trycua/lume): Show HN: Lume – OS lightweight CLI for MacOS and Linux VMs on Apple Silicon</small>
+
+
+| 🔥🔥: 255 \| 💬: [66](https://news.ycombinator.com/item?id=42908061) \| 🗓️ 2025-02-02
+
+
+<br />
+Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工具，支持在Apple Silicon设备上快速创建、运行和管理macOS与Linux虚拟机。核心功能包括一键启动预构建镜像（如macOS Sonoma 15.2和Ubuntu 24.04）、动态调整CPU/内存/磁盘配置，以及通过本地API服务器实现自动化管理。通过 **ghcr.io/trycua** 提供优化镜像，支持SSH和共享目录，并采用MIT开源协议，支持Homebrew安装及社区贡献。
+
+---
+
 ## <a name="5"></a>5. SanDisk High Endurance microSDXC 存储卡逆向工程与分析（2020） 
 <small>🔗 [ripitapart.com](https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/): Reverse-engineering and analysis of SanDisk High Endurance microSDXC card (2020)</small>
 
 
-| 🔥🔥: 231 \| 💬: [101](https://news.ycombinator.com/item?id=42907766) \| 🗓️ 2025-02-02
+| 🔥🔥: 233 \| 💬: [102](https://news.ycombinator.com/item?id=42907766) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -87,7 +87,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [adriacabeza.github.io](https://adriacabeza.github.io/2024/07/12/caffeine-cache.html): Analyzing the codebase of Caffeine, a high performance caching library</small>
 
 
-| 🔥🔥: 206 \| 💬: [41](https://news.ycombinator.com/item?id=42907488) \| 🗓️ 2025-02-02
+| 🔥🔥: 212 \| 💬: [41](https://news.ycombinator.com/item?id=42907488) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -99,7 +99,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [github.com](https://github.com/GyulyVGC/sniffnet): Sniffnet – monitor your Internet traffic</small>
 
 
-| 🔥🔥: 199 \| 💬: [78](https://news.ycombinator.com/item?id=42909530) \| 🗓️ 2025-02-02
+| 🔥🔥: 203 \| 💬: [78](https://news.ycombinator.com/item?id=42909530) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -111,7 +111,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [ticotimes.net](https://ticotimes.net/2025/01/30/david-vs-goliath-costa-rican-super-mario-defeats-nintendo-in-court): Costa Rican supermarket wins trademark battle against Nintendo</small>
 
 
-| 🔥🔥: 158 \| 💬: [56](https://news.ycombinator.com/item?id=42911842) \| 🗓️ 2025-02-02
+| 🔥🔥: 169 \| 💬: [60](https://news.ycombinator.com/item?id=42911842) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -123,7 +123,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [efavdb.com](https://www.efavdb.com/memory%20recall): Spaced repetition can allow for infinite recall (2022)</small>
 
 
-| 🔥🔥: 153 \| 💬: [164](https://news.ycombinator.com/item?id=42908041) \| 🗓️ 2025-02-02
+| 🔥🔥: 158 \| 💬: [165](https://news.ycombinator.com/item?id=42908041) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -135,7 +135,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [onehundredpages.wordpress.com](https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/): Don't make fun of renowned author Dan Brown (2013)</small>
 
 
-| 🔥🔥: 122 \| 💬: [101](https://news.ycombinator.com/item?id=42912133) \| 🗓️ 2025-02-02
+| 🔥🔥: 134 \| 💬: [114](https://news.ycombinator.com/item?id=42912133) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -147,7 +147,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/01/24/opinion/alzheimers-fraud-cure.html): The legacy of lies in Alzheimer's science</small>
 
 
-| 🔥🔥: 117 \| 💬: [69](https://news.ycombinator.com/item?id=42910829) \| 🗓️ 2025-02-02
+| 🔥🔥: 128 \| 💬: [78](https://news.ycombinator.com/item?id=42910829) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -159,7 +159,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [businessinsider.com](https://www.businessinsider.com/shein-temu-de-minimis-tax-loophole-scrutiny-2024-1): A loophole used by Shein/Temu to ship packages to US tax-free (2024)</small>
 
 
-| 🔥🔥: 110 \| 💬: [86](https://news.ycombinator.com/item?id=42911511) \| 🗓️ 2025-02-02
+| 🔥🔥: 112 \| 💬: [88](https://news.ycombinator.com/item?id=42911511) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -171,7 +171,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [github.com](https://github.com/tcgoetz/GarminDB): GarminDB</small>
 
 
-| 🔥🔥: 102 \| 💬: [13](https://news.ycombinator.com/item?id=42912515) \| 🗓️ 2025-02-02
+| 🔥🔥: 109 \| 💬: [15](https://news.ycombinator.com/item?id=42912515) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -195,7 +195,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [wired.com](https://www.wired.com/story/elon-musk-government-young-engineers/): The Young, Inexperienced Engineers Aiding Elon Musk’s Government Takeover</small>
 
 
-| 🔥: 89 \| 💬: [36](https://news.ycombinator.com/item?id=42910910) \| 🗓️ 2025-02-02
+| 🔥: 94 \| 💬: [43](https://news.ycombinator.com/item?id=42910910) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -209,7 +209,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [open-std.org](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3412r0.pdf): F-strings for C++26 proposal [pdf]</small>
 
 
-| 🔥: 77 \| 💬: [33](https://news.ycombinator.com/item?id=42912438) \| 🗓️ 2025-02-02
+| 🔥: 87 \| 💬: [38](https://news.ycombinator.com/item?id=42912438) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -233,7 +233,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2412.05265): Reinforcement Learning: An Overview</small>
 
 
-| 🔥: 72 \| 💬: [11](https://news.ycombinator.com/item?id=42910028) \| 🗓️ 2025-02-02
+| 🔥: 73 \| 💬: [11](https://news.ycombinator.com/item?id=42910028) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -241,35 +241,11 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 
 ---
 
-## <a name="19"></a>19. ScatterBrain：揭秘PoisonPlug混淆器的隐匿威胁 
-<small>🔗 [cloud.google.com](https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator): ScatterBrain: Unmasking the shadow of PoisonPlug's obfuscator</small>
-
-
-| 🔥: 65 \| 💬: [7](https://news.ycombinator.com/item?id=42911162) \| 🗓️ 2025-02-02
-
-
-<br />
-Google威胁情报小组（GTIG）追踪到中国关联组织使用**POISONPLUG.SHADOW**（又名ShadowPad）模块化后门，结合**ScatterBrain混淆编译器**对欧洲及亚太目标发起攻击。该混淆器通过控制流混淆、指令变异及导入表保护机制，极大增加分析与检测难度，且持续演化升级。GTIG与FLARE团队合作开发独立反混淆工具，揭示其三种操作模式（选择性、完全及“无头”模式），并针对APT41关联攻击链提供深度解析，以应对这一国家级威胁。
-
----
-
-## <a name="20"></a>20. Show HN: Modest —— Lua 的音乐和声库 
-<small>🔗 [github.com](https://github.com/esbudylin/modest): Show HN: Modest – musical harmony library for Lua</small>
-
-
-| 🔥: 63 \| 💬: [6](https://news.ycombinator.com/item?id=42907765) \| 🗓️ 2025-02-02
-
-
-<br />
-该库提供**和弦、音符与音程对象**的解析与操作，支持复杂和弦识别（含爵士和弦）、升降记号转换、音高推算及跨八度计算。通过 LPeg 实现灵活弦式解析，兼容 Unicode 符号与 ASCII 字符两种记谱方式，可生成乐理数字表示。采用 Fennel 编写，支持 Lua 5.4/LuaJIT，提供 LuaRocks 安装与手动编译方案，**强调不可变对象设计**。命名致敬作曲家穆索尔斯基，适用于音乐分析、自动伴奏等场景，功能对标 Python 的 Mingus 与 JS 的 Tonal 库。
-
----
-
-## <a name="21"></a>21. 马斯克称狗狗币导致美财政部暂停向承包商付款 
+## <a name="19"></a>19. 马斯克称狗狗币导致美财政部暂停向承包商付款 
 <small>🔗 [fortune.com](https://fortune.com/2025/02/02/musk-doge-treasury-payments-system-halt-us-govenment-contractors-lutheran-charity/): Musk says DOGE is halting Treasury payments to US contractors</small>
 
 
-| 🔥: 54 \| 💬: [29](https://news.ycombinator.com/item?id=42914425) \| 🗓️ 2025-02-02
+| 🔥: 68 \| 💬: [38](https://news.ycombinator.com/item?id=42914425) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -277,11 +253,35 @@ Google威胁情报小组（GTIG）追踪到中国关联组织使用**POISONPLUG.
 
 ---
 
+## <a name="20"></a>20. ScatterBrain：揭秘PoisonPlug混淆器的隐匿威胁 
+<small>🔗 [cloud.google.com](https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator): ScatterBrain: Unmasking the shadow of PoisonPlug's obfuscator</small>
+
+
+| 🔥: 66 \| 💬: [7](https://news.ycombinator.com/item?id=42911162) \| 🗓️ 2025-02-02
+
+
+<br />
+Google威胁情报小组（GTIG）追踪到中国关联组织使用**POISONPLUG.SHADOW**（又名ShadowPad）模块化后门，结合**ScatterBrain混淆编译器**对欧洲及亚太目标发起攻击。该混淆器通过控制流混淆、指令变异及导入表保护机制，极大增加分析与检测难度，且持续演化升级。GTIG与FLARE团队合作开发独立反混淆工具，揭示其三种操作模式（选择性、完全及“无头”模式），并针对APT41关联攻击链提供深度解析，以应对这一国家级威胁。
+
+---
+
+## <a name="21"></a>21. Show HN: Modest —— Lua 的音乐和声库 
+<small>🔗 [github.com](https://github.com/esbudylin/modest): Show HN: Modest – musical harmony library for Lua</small>
+
+
+| 🔥: 63 \| 💬: [7](https://news.ycombinator.com/item?id=42907765) \| 🗓️ 2025-02-02
+
+
+<br />
+该库提供**和弦、音符与音程对象**的解析与操作，支持复杂和弦识别（含爵士和弦）、升降记号转换、音高推算及跨八度计算。通过 LPeg 实现灵活弦式解析，兼容 Unicode 符号与 ASCII 字符两种记谱方式，可生成乐理数字表示。采用 Fennel 编写，支持 Lua 5.4/LuaJIT，提供 LuaRocks 安装与手动编译方案，**强调不可变对象设计**。命名致敬作曲家穆索尔斯基，适用于音乐分析、自动伴奏等场景，功能对标 Python 的 Mingus 与 JS 的 Tonal 库。
+
+---
+
 ## <a name="22"></a>22. Show HN: 土拨鼠AI春日API 
 <small>🔗 [groundhog-day.com](https://groundhog-day.com/api): Show HN: Groundhog AI Spring API</small>
 
 
-| 🔥: 50 \| 💬: [19](https://news.ycombinator.com/item?id=42910105) \| 🗓️ 2025-02-02
+| 🔥: 51 \| 💬: [19](https://news.ycombinator.com/item?id=42910105) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -289,7 +289,19 @@ Google威胁情报小组（GTIG）追踪到中国关联组织使用**POISONPLUG.
 
 ---
 
-## <a name="23"></a>23. 19岁DOGE员工“大球”获美财政部无限制访问权限 
+## <a name="23"></a>23. 马斯克获美财政部支付系统权限后承诺终止资助计划 
+<small>🔗 [ft.com](https://www.ft.com/content/27ba0a6a-0d9b-4e08-8329-730b581c0481): Musk vows to cancel grants after gaining access to US Treasury payment system</small>
+
+
+| 🔥: 50 \| 💬: [14](https://news.ycombinator.com/item?id=42910345) \| 🗓️ 2025-02-02
+
+
+<br />
+埃隆·马斯克在获得**美国财政部支付系统访问权限**后，宣布将取消现有资助项目。这一决定可能涉及对政府补贴或公共资金的调整，具体细节尚未披露。分析认为，此举或与其旗下企业（如SpaceX、特斯拉）的财务策略相关，但**资金来源变更**和**政策合规性**问题已引发外界关注。
+
+---
+
+## <a name="24"></a>24. 19岁DOGE员工“大球”获美财政部无限制访问权限 
 <small>🔗 [bsky.app](https://bsky.app/profile/jsweetli.bsky.social/post/3lh5hr3hsc22k): 19 y/o DOGE employee "Big Balls" given unfettered access to Treasury Department</small>
 
 
@@ -298,18 +310,6 @@ Google威胁情报小组（GTIG）追踪到中国关联组织使用**POISONPLUG.
 
 <br />
 一名自称**“大球”**的19岁DOGE雇员，此前履历仅为夏令营辅导员，其领英资料显示争议性昵称且已删除。报道质疑其**未经严格背景审查**即获取联邦支付系统权限，尤其亲属涉俄罗斯籍等敏感信息未被核查。事件暴露**系统权限管理漏洞**，引发公众对财政安全的担忧。
-
----
-
-## <a name="24"></a>24. 马斯克获美财政部支付系统权限后承诺终止资助计划 
-<small>🔗 [ft.com](https://www.ft.com/content/27ba0a6a-0d9b-4e08-8329-730b581c0481): Musk vows to cancel grants after gaining access to US Treasury payment system</small>
-
-
-| 🔥: 47 \| 💬: [14](https://news.ycombinator.com/item?id=42910345) \| 🗓️ 2025-02-02
-
-
-<br />
-埃隆·马斯克在获得**美国财政部支付系统访问权限**后，宣布将取消现有资助项目。这一决定可能涉及对政府补贴或公共资金的调整，具体细节尚未披露。分析认为，此举或与其旗下企业（如SpaceX、特斯拉）的财务策略相关，但**资金来源变更**和**政策合规性**问题已引发外界关注。
 
 ---
 
