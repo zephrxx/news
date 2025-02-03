@@ -27,7 +27,7 @@ tags:
 <small>🔗 [timsh.org](https://timsh.org/tracking-myself-down-through-in-app-ads/): Everyone knows your location: tracking myself down through in-app ads</small>
 
 
-| 🔥🔥: 1075 \| 💬: [363](https://news.ycombinator.com/item?id=42909921) \| 🗓️ 2025-02-02
+| 🔥🔥: 1129 \| 💬: [379](https://news.ycombinator.com/item?id=42909921) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [lareviewofbooks.org](https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/): Life is more than an engineering problem</small>
 
 
-| 🔥🔥: 333 \| 💬: [206](https://news.ycombinator.com/item?id=42907268) \| 🗓️ 2025-02-02
+| 🔥🔥: 338 \| 💬: [209](https://news.ycombinator.com/item?id=42907268) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -51,7 +51,7 @@ Ted Chiang 在与 Julien Crockett 的对话中探讨了人工智能、语言哲�
 <small>🔗 [waydro.id](https://waydro.id/): Waydroid – Android in a Linux container</small>
 
 
-| 🔥🔥: 261 \| 💬: [57](https://news.ycombinator.com/item?id=42911042) \| 🗓️ 2025-02-02
+| 🔥🔥: 272 \| 💬: [59](https://news.ycombinator.com/item?id=42911042) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -63,7 +63,7 @@ Ted Chiang 在与 Julien Crockett 的对话中探讨了人工智能、语言哲�
 <small>🔗 [github.com](https://github.com/trycua/lume): Show HN: Lume – OS lightweight CLI for MacOS and Linux VMs on Apple Silicon</small>
 
 
-| 🔥🔥: 255 \| 💬: [66](https://news.ycombinator.com/item?id=42908061) \| 🗓️ 2025-02-02
+| 🔥🔥: 261 \| 💬: [66](https://news.ycombinator.com/item?id=42908061) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -75,7 +75,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [ripitapart.com](https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/): Reverse-engineering and analysis of SanDisk High Endurance microSDXC card (2020)</small>
 
 
-| 🔥🔥: 233 \| 💬: [102](https://news.ycombinator.com/item?id=42907766) \| 🗓️ 2025-02-02
+| 🔥🔥: 236 \| 💬: [103](https://news.ycombinator.com/item?id=42907766) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -87,7 +87,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [adriacabeza.github.io](https://adriacabeza.github.io/2024/07/12/caffeine-cache.html): Analyzing the codebase of Caffeine, a high performance caching library</small>
 
 
-| 🔥🔥: 212 \| 💬: [41](https://news.ycombinator.com/item?id=42907488) \| 🗓️ 2025-02-02
+| 🔥🔥: 217 \| 💬: [41](https://news.ycombinator.com/item?id=42907488) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -99,7 +99,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [github.com](https://github.com/GyulyVGC/sniffnet): Sniffnet – monitor your Internet traffic</small>
 
 
-| 🔥🔥: 203 \| 💬: [78](https://news.ycombinator.com/item?id=42909530) \| 🗓️ 2025-02-02
+| 🔥🔥: 207 \| 💬: [78](https://news.ycombinator.com/item?id=42909530) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -111,7 +111,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [ticotimes.net](https://ticotimes.net/2025/01/30/david-vs-goliath-costa-rican-super-mario-defeats-nintendo-in-court): Costa Rican supermarket wins trademark battle against Nintendo</small>
 
 
-| 🔥🔥: 169 \| 💬: [60](https://news.ycombinator.com/item?id=42911842) \| 🗓️ 2025-02-02
+| 🔥🔥: 182 \| 💬: [61](https://news.ycombinator.com/item?id=42911842) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -123,7 +123,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [efavdb.com](https://www.efavdb.com/memory%20recall): Spaced repetition can allow for infinite recall (2022)</small>
 
 
-| 🔥🔥: 158 \| 💬: [165](https://news.ycombinator.com/item?id=42908041) \| 🗓️ 2025-02-02
+| 🔥🔥: 163 \| 💬: [166](https://news.ycombinator.com/item?id=42908041) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -135,7 +135,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [onehundredpages.wordpress.com](https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/): Don't make fun of renowned author Dan Brown (2013)</small>
 
 
-| 🔥🔥: 134 \| 💬: [114](https://news.ycombinator.com/item?id=42912133) \| 🗓️ 2025-02-02
+| 🔥🔥: 150 \| 💬: [124](https://news.ycombinator.com/item?id=42912133) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -147,7 +147,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/01/24/opinion/alzheimers-fraud-cure.html): The legacy of lies in Alzheimer's science</small>
 
 
-| 🔥🔥: 128 \| 💬: [78](https://news.ycombinator.com/item?id=42910829) \| 🗓️ 2025-02-02
+| 🔥🔥: 146 \| 💬: [85](https://news.ycombinator.com/item?id=42910829) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -155,23 +155,11 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 
 ---
 
-## <a name="12"></a>12. Shein/Temu利用免税漏洞向美国发货面临审查 
-<small>🔗 [businessinsider.com](https://www.businessinsider.com/shein-temu-de-minimis-tax-loophole-scrutiny-2024-1): A loophole used by Shein/Temu to ship packages to US tax-free (2024)</small>
-
-
-| 🔥🔥: 112 \| 💬: [88](https://news.ycombinator.com/item?id=42911511) \| 🗓️ 2025-02-02
-
-
-<br />
-美国**de minimis条款**允许价值低于800美元的进口包裹免税且免详细申报，快时尚平台Shein与Temu借此每日运送超百万包裹，引发监管质疑。反对者称该政策助长不公平竞争，且可能规避新疆棉禁令。美国国会提出两改革法案，但通过概率分别为30%与极低。两家企业表态支持**公平改革**，强调其低价源于供应链效率。传统零售商则面临"打不过就加入"的转型压力。
-
----
-
-## <a name="13"></a>13. Garmin数据库工具 
+## <a name="12"></a>12. Garmin数据库工具 
 <small>🔗 [github.com](https://github.com/tcgoetz/GarminDB): GarminDB</small>
 
 
-| 🔥🔥: 109 \| 💬: [15](https://news.ycombinator.com/item?id=42912515) \| 🗓️ 2025-02-02
+| 🔥🔥: 119 \| 💬: [17](https://news.ycombinator.com/item?id=42912515) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -179,11 +167,23 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 
 ---
 
+## <a name="13"></a>13. Shein/Temu利用免税漏洞向美国发货面临审查 
+<small>🔗 [businessinsider.com](https://www.businessinsider.com/shein-temu-de-minimis-tax-loophole-scrutiny-2024-1): A loophole used by Shein/Temu to ship packages to US tax-free (2024)</small>
+
+
+| 🔥🔥: 114 \| 💬: [88](https://news.ycombinator.com/item?id=42911511) \| 🗓️ 2025-02-02
+
+
+<br />
+美国**de minimis条款**允许价值低于800美元的进口包裹免税且免详细申报，快时尚平台Shein与Temu借此每日运送超百万包裹，引发监管质疑。反对者称该政策助长不公平竞争，且可能规避新疆棉禁令。美国国会提出两改革法案，但通过概率分别为30%与极低。两家企业表态支持**公平改革**，强调其低价源于供应链效率。传统零售商则面临"打不过就加入"的转型压力。
+
+---
+
 ## <a name="14"></a>14. 修复文法中的左递归与相互递归问题 
 <small>🔗 [brightprogrammer.in](https://brightprogrammer.in/posts/fixing-recursions-in-grammar/): Fixing left and mutual recursions in grammars</small>
 
 
-| 🔥🔥: 101 \| 💬: [28](https://news.ycombinator.com/item?id=42907139) \| 🗓️ 2025-02-02
+| 🔥🔥: 102 \| 💬: [28](https://news.ycombinator.com/item?id=42907139) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -195,7 +195,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [wired.com](https://www.wired.com/story/elon-musk-government-young-engineers/): The Young, Inexperienced Engineers Aiding Elon Musk’s Government Takeover</small>
 
 
-| 🔥: 94 \| 💬: [43](https://news.ycombinator.com/item?id=42910910) \| 🗓️ 2025-02-02
+| 🔥: 99 \| 💬: [46](https://news.ycombinator.com/item?id=42910910) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -209,7 +209,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [open-std.org](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3412r0.pdf): F-strings for C++26 proposal [pdf]</small>
 
 
-| 🔥: 87 \| 💬: [38](https://news.ycombinator.com/item?id=42912438) \| 🗓️ 2025-02-02
+| 🔥: 98 \| 💬: [42](https://news.ycombinator.com/item?id=42912438) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -221,7 +221,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [theguardian.com](https://www.theguardian.com/society/2025/feb/01/i-lost-10-years-of-my-life-how-uk-betting-giants-unlawful-marketing-kept-suicidal-gambler-hooked): UK betting giant's unlawful marketing kept suicidal gambler hooked</small>
 
 
-| 🔥: 76 \| 💬: [69](https://news.ycombinator.com/item?id=42910983) \| 🗓️ 2025-02-02
+| 🔥: 78 \| 💬: [70](https://news.ycombinator.com/item?id=42910983) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -229,7 +229,19 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 
 ---
 
-## <a name="18"></a>18. 强化学习：综述 
+## <a name="18"></a>18. 马斯克称狗狗币导致美财政部暂停向承包商付款 
+<small>🔗 [fortune.com](https://fortune.com/2025/02/02/musk-doge-treasury-payments-system-halt-us-govenment-contractors-lutheran-charity/): Musk says DOGE is halting Treasury payments to US contractors</small>
+
+
+| 🔥: 74 \| 💬: [44](https://news.ycombinator.com/item?id=42914425) \| 🗓️ 2025-02-02
+
+
+<br />
+埃隆·马斯克公开表示，**狗狗币（DOGE）**相关活动已迫使**美国财政部**暂停向国内承包商支付款项。该声明发表于其近期参与的就职活动期间，但未提供具体细节或证据。彭博社报道指出，此言论引发市场对加密货币政策影响的关注，但财政部尚未正式回应这一指控。
+
+---
+
+## <a name="19"></a>19. 强化学习：综述 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2412.05265): Reinforcement Learning: An Overview</small>
 
 
@@ -238,18 +250,6 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 
 <br />
 本文全面概述了（深度）强化学习与序列决策领域的最新进展，涵盖**基于价值的强化学习**、**策略梯度方法**、**基于模型的方法**等核心方向，并简要探讨了强化学习与大语言模型（LLMs）的结合。作者Kevin Murphy系统梳理了相关技术脉络与未来趋势。
-
----
-
-## <a name="19"></a>19. 马斯克称狗狗币导致美财政部暂停向承包商付款 
-<small>🔗 [fortune.com](https://fortune.com/2025/02/02/musk-doge-treasury-payments-system-halt-us-govenment-contractors-lutheran-charity/): Musk says DOGE is halting Treasury payments to US contractors</small>
-
-
-| 🔥: 68 \| 💬: [38](https://news.ycombinator.com/item?id=42914425) \| 🗓️ 2025-02-02
-
-
-<br />
-埃隆·马斯克公开表示，**狗狗币（DOGE）**相关活动已迫使**美国财政部**暂停向国内承包商支付款项。该声明发表于其近期参与的就职活动期间，但未提供具体细节或证据。彭博社报道指出，此言论引发市场对加密货币政策影响的关注，但财政部尚未正式回应这一指控。
 
 ---
 
@@ -269,7 +269,7 @@ Google威胁情报小组（GTIG）追踪到中国关联组织使用**POISONPLUG.
 <small>🔗 [github.com](https://github.com/esbudylin/modest): Show HN: Modest – musical harmony library for Lua</small>
 
 
-| 🔥: 63 \| 💬: [7](https://news.ycombinator.com/item?id=42907765) \| 🗓️ 2025-02-02
+| 🔥: 65 \| 💬: [7](https://news.ycombinator.com/item?id=42907765) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -293,7 +293,7 @@ Google威胁情报小组（GTIG）追踪到中国关联组织使用**POISONPLUG.
 <small>🔗 [ft.com](https://www.ft.com/content/27ba0a6a-0d9b-4e08-8329-730b581c0481): Musk vows to cancel grants after gaining access to US Treasury payment system</small>
 
 
-| 🔥: 50 \| 💬: [14](https://news.ycombinator.com/item?id=42910345) \| 🗓️ 2025-02-02
+| 🔥: 51 \| 💬: [14](https://news.ycombinator.com/item?id=42910345) \| 🗓️ 2025-02-02
 
 
 <br />
