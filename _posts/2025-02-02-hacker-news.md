@@ -10,13 +10,13 @@ tags:
 
 1. 你的位置无所遁形：通过应用内广告追踪自己的经历；
 1. 生活不止是一个工程问题；
-1. SanDisk High Endurance microSDXC 存储卡逆向工程与分析（2020）；
 1. Show HN: Lume - 专为Apple Silicon设计的轻量级macOS/Linux虚拟机CLI工具；
+1. SanDisk High Endurance microSDXC 存储卡逆向工程与分析（2020）；
 1. 深入解析高性能缓存库Caffeine的代码架构；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [timsh.org](https://timsh.org/tracking-myself-down-through-in-app-ads/): Everyone knows your location: tracking myself down through in-app ads</small>
 
 
-| 🔥🔥: 724 \| 💬: [234](https://news.ycombinator.com/item?id=42909921) \| 🗓️ 2025-02-02
+| 🔥🔥: 808 \| 💬: [263](https://news.ycombinator.com/item?id=42909921) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [lareviewofbooks.org](https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/): Life is more than an engineering problem</small>
 
 
-| 🔥🔥: 290 \| 💬: [177](https://news.ycombinator.com/item?id=42907268) \| 🗓️ 2025-02-02
+| 🔥🔥: 307 \| 💬: [182](https://news.ycombinator.com/item?id=42907268) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -47,23 +47,11 @@ Ted Chiang 在与 Julien Crockett 的对话中探讨了人工智能、语言哲�
 
 ---
 
-## <a name="3"></a>3. SanDisk High Endurance microSDXC 存储卡逆向工程与分析（2020） 
-<small>🔗 [ripitapart.com](https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/): Reverse-engineering and analysis of SanDisk High Endurance microSDXC card (2020)</small>
-
-
-| 🔥🔥: 216 \| 💬: [91](https://news.ycombinator.com/item?id=42907766) \| 🗓️ 2025-02-02
-
-
-<br />
-作者通过逆向工程拆解 SanDisk 高耐久度存储卡，发现其采用 **3D TLC 闪存**，而 MAX Endurance 系列则通过 **pMLC 模式**提升耐用性。面对官方技术支持信息缺失，作者通过物理暴露测试点、自制转接板及逻辑分析仪追踪信号，最终解析出闪存 ID 并确认芯片规格。研究揭示了 SanDisk 对内部技术细节的严格保密，以及存储卡控制器与闪存总线间的复杂交互机制，为同类设备逆向工程提供了参考路径。
-
----
-
-## <a name="4"></a>4. Show HN: Lume - 专为Apple Silicon设计的轻量级macOS/Linux虚拟机CLI工具 
+## <a name="3"></a>3. Show HN: Lume - 专为Apple Silicon设计的轻量级macOS/Linux虚拟机CLI工具 
 <small>🔗 [github.com](https://github.com/trycua/lume): Show HN: Lume – OS lightweight CLI for MacOS and Linux VMs on Apple Silicon</small>
 
 
-| 🔥🔥: 214 \| 💬: [62](https://news.ycombinator.com/item?id=42908061) \| 🗓️ 2025-02-02
+| 🔥🔥: 226 \| 💬: [62](https://news.ycombinator.com/item?id=42908061) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -71,11 +59,23 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 
 ---
 
+## <a name="4"></a>4. SanDisk High Endurance microSDXC 存储卡逆向工程与分析（2020） 
+<small>🔗 [ripitapart.com](https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/): Reverse-engineering and analysis of SanDisk High Endurance microSDXC card (2020)</small>
+
+
+| 🔥🔥: 223 \| 💬: [93](https://news.ycombinator.com/item?id=42907766) \| 🗓️ 2025-02-02
+
+
+<br />
+作者通过逆向工程拆解 SanDisk 高耐久度存储卡，发现其采用 **3D TLC 闪存**，而 MAX Endurance 系列则通过 **pMLC 模式**提升耐用性。面对官方技术支持信息缺失，作者通过物理暴露测试点、自制转接板及逻辑分析仪追踪信号，最终解析出闪存 ID 并确认芯片规格。研究揭示了 SanDisk 对内部技术细节的严格保密，以及存储卡控制器与闪存总线间的复杂交互机制，为同类设备逆向工程提供了参考路径。
+
+---
+
 ## <a name="5"></a>5. 深入解析高性能缓存库Caffeine的代码架构 
 <small>🔗 [adriacabeza.github.io](https://adriacabeza.github.io/2024/07/12/caffeine-cache.html): Analyzing the codebase of Caffeine, a high performance caching library</small>
 
 
-| 🔥🔥: 182 \| 💬: [37](https://news.ycombinator.com/item?id=42907488) \| 🗓️ 2025-02-02
+| 🔥🔥: 191 \| 💬: [37](https://news.ycombinator.com/item?id=42907488) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -87,7 +87,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [github.com](https://github.com/GyulyVGC/sniffnet): Sniffnet – monitor your Internet traffic</small>
 
 
-| 🔥🔥: 165 \| 💬: [68](https://news.ycombinator.com/item?id=42909530) \| 🗓️ 2025-02-02
+| 🔥🔥: 172 \| 💬: [71](https://news.ycombinator.com/item?id=42909530) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -95,23 +95,11 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 
 ---
 
-## <a name="7"></a>7. 间隔重复法可实现无限记忆（2022年） 
-<small>🔗 [efavdb.com](https://www.efavdb.com/memory%20recall): Spaced repetition can allow for infinite recall (2022)</small>
-
-
-| 🔥🔥: 124 \| 💬: [146](https://news.ycombinator.com/item?id=42908041) \| 🗓️ 2025-02-02
-
-
-<br />
-通过**间隔重复**记忆法，新知识需高频复习巩固，但随着复习次数增加，保留时间呈**幂律增长**（T(s)∼s^γ）。研究表明，若按特定规则筛选记忆内容（N(t)∼t^{-[1/(γ+1)+ε]}），每日有限复习时间可覆盖无限增长的知识库。数学推导证明，当γ>0时，总记忆量随时间呈t^{γ/(γ+1)}增长，最终实现**无限记忆**。核心在于动态调整旧知识复习频率，确保系统可持续扩展。
-
----
-
-## <a name="8"></a>8. Waydroid——Linux 容器中的安卓系统 
+## <a name="7"></a>7. Waydroid——Linux 容器中的安卓系统 
 <small>🔗 [waydro.id](https://waydro.id/): Waydroid – Android in a Linux container</small>
 
 
-| 🔥🔥: 122 \| 💬: [17](https://news.ycombinator.com/item?id=42911042) \| 🗓️ 2025-02-02
+| 🔥🔥: 164 \| 💬: [23](https://news.ycombinator.com/item?id=42911042) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -119,11 +107,23 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 
 ---
 
+## <a name="8"></a>8. 间隔重复法可实现无限记忆（2022年） 
+<small>🔗 [efavdb.com](https://www.efavdb.com/memory%20recall): Spaced repetition can allow for infinite recall (2022)</small>
+
+
+| 🔥🔥: 130 \| 💬: [151](https://news.ycombinator.com/item?id=42908041) \| 🗓️ 2025-02-02
+
+
+<br />
+通过**间隔重复**记忆法，新知识需高频复习巩固，但随着复习次数增加，保留时间呈**幂律增长**（T(s)∼s^γ）。研究表明，若按特定规则筛选记忆内容（N(t)∼t^{-[1/(γ+1)+ε]}），每日有限复习时间可覆盖无限增长的知识库。数学推导证明，当γ>0时，总记忆量随时间呈t^{γ/(γ+1)}增长，最终实现**无限记忆**。核心在于动态调整旧知识复习频率，确保系统可持续扩展。
+
+---
+
 ## <a name="9"></a>9. 修复文法中的左递归与相互递归问题 
 <small>🔗 [brightprogrammer.in](https://brightprogrammer.in/posts/fixing-recursions-in-grammar/): Fixing left and mutual recursions in grammars</small>
 
 
-| 🔥: 95 \| 💬: [23](https://news.ycombinator.com/item?id=42907139) \| 🗓️ 2025-02-02
+| 🔥: 97 \| 💬: [25](https://news.ycombinator.com/item?id=42907139) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -131,11 +131,23 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 
 ---
 
-## <a name="10"></a>10. 强化学习：综述 
+## <a name="10"></a>10. Shein/Temu利用免税漏洞向美国发货面临审查 
+<small>🔗 [businessinsider.com](https://www.businessinsider.com/shein-temu-de-minimis-tax-loophole-scrutiny-2024-1): A loophole used by Shein/Temu to ship packages to US tax-free (2024)</small>
+
+
+| 🔥: 82 \| 💬: [60](https://news.ycombinator.com/item?id=42911511) \| 🗓️ 2025-02-02
+
+
+<br />
+美国**de minimis条款**允许价值低于800美元的进口包裹免税且免详细申报，快时尚平台Shein与Temu借此每日运送超百万包裹，引发监管质疑。反对者称该政策助长不公平竞争，且可能规避新疆棉禁令。美国国会提出两改革法案，但通过概率分别为30%与极低。两家企业表态支持**公平改革**，强调其低价源于供应链效率。传统零售商则面临"打不过就加入"的转型压力。
+
+---
+
+## <a name="11"></a>11. 强化学习：综述 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2412.05265): Reinforcement Learning: An Overview</small>
 
 
-| 🔥: 66 \| 💬: [10](https://news.ycombinator.com/item?id=42910028) \| 🗓️ 2025-02-02
+| 🔥: 71 \| 💬: [10](https://news.ycombinator.com/item?id=42910028) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -143,11 +155,11 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 
 ---
 
-## <a name="11"></a>11. 马斯克“政府效率部”背后的年轻工程师：资历浅，权限大 
+## <a name="12"></a>12. 马斯克“政府效率部”背后的年轻工程师：资历浅，权限大 
 <small>🔗 [wired.com](https://www.wired.com/story/elon-musk-government-young-engineers/): The Young, Inexperienced Engineers Aiding Elon Musk’s Government Takeover</small>
 
 
-| 🔥: 63 \| 💬: [21](https://news.ycombinator.com/item?id=42910910) \| 🗓️ 2025-02-02
+| 🔥: 69 \| 💬: [25](https://news.ycombinator.com/item?id=42910910) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -157,47 +169,11 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 
 ---
 
-## <a name="12"></a>12. Shein/Temu利用免税漏洞向美国发货面临审查 
-<small>🔗 [businessinsider.com](https://www.businessinsider.com/shein-temu-de-minimis-tax-loophole-scrutiny-2024-1): A loophole used by Shein/Temu to ship packages to US tax-free (2024)</small>
-
-
-| 🔥: 61 \| 💬: [43](https://news.ycombinator.com/item?id=42911511) \| 🗓️ 2025-02-02
-
-
-<br />
-美国**de minimis条款**允许价值低于800美元的进口包裹免税且免详细申报，快时尚平台Shein与Temu借此每日运送超百万包裹，引发监管质疑。反对者称该政策助长不公平竞争，且可能规避新疆棉禁令。美国国会提出两改革法案，但通过概率分别为30%与极低。两家企业表态支持**公平改革**，强调其低价源于供应链效率。传统零售商则面临"打不过就加入"的转型压力。
-
----
-
-## <a name="13"></a>13. Show HN: Modest —— Lua 的音乐和声库 
-<small>🔗 [github.com](https://github.com/esbudylin/modest): Show HN: Modest – musical harmony library for Lua</small>
-
-
-| 🔥: 58 \| 💬: [6](https://news.ycombinator.com/item?id=42907765) \| 🗓️ 2025-02-02
-
-
-<br />
-该库提供**和弦、音符与音程对象**的解析与操作，支持复杂和弦识别（含爵士和弦）、升降记号转换、音高推算及跨八度计算。通过 LPeg 实现灵活弦式解析，兼容 Unicode 符号与 ASCII 字符两种记谱方式，可生成乐理数字表示。采用 Fennel 编写，支持 Lua 5.4/LuaJIT，提供 LuaRocks 安装与手动编译方案，**强调不可变对象设计**。命名致敬作曲家穆索尔斯基，适用于音乐分析、自动伴奏等场景，功能对标 Python 的 Mingus 与 JS 的 Tonal 库。
-
----
-
-## <a name="14"></a>14. 英国博彩巨头非法营销致赌徒深陷泥潭 
-<small>🔗 [theguardian.com](https://www.theguardian.com/society/2025/feb/01/i-lost-10-years-of-my-life-how-uk-betting-giants-unlawful-marketing-kept-suicidal-gambler-hooked): UK betting giant's unlawful marketing kept suicidal gambler hooked</small>
-
-
-| 🔥: 54 \| 💬: [42](https://news.ycombinator.com/item?id=42910983) \| 🗓️ 2025-02-02
-
-
-<br />
-英国高等法院裁定**Sky Bet**对一名有自杀倾向的成瘾赌徒实施非法定向营销。该赌徒（化名Sam）在2017-2019年间被标记为**“高价值客户”**，公司通过分析其2.4万份数据（包括消费习惯与游戏时间）发送1389封促销邮件，成功率高达98%。法官认定，Sam因赌博成瘾丧失自主决策能力，企业利用其脆弱心理进行数据追踪与精准推送的行为违法。尽管Sky Bet辩称已改进风控并考虑上诉，此案或引发行业对**数据滥用与成瘾营销**的全面审查。
-
----
-
-## <a name="15"></a>15. 阿尔茨海默病科学中的谎言遗产 
+## <a name="13"></a>13. 阿尔茨海默病科学中的谎言遗产 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/01/24/opinion/alzheimers-fraud-cure.html): The Legacy of Lies in Alzheimer's Science</small>
 
 
-| 🔥: 46 \| 💬: [15](https://news.ycombinator.com/item?id=42910829) \| 🗓️ 2025-02-02
+| 🔥: 68 \| 💬: [23](https://news.ycombinator.com/item?id=42910829) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -205,11 +181,35 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 
 ---
 
+## <a name="14"></a>14. 英国博彩巨头非法营销致赌徒深陷泥潭 
+<small>🔗 [theguardian.com](https://www.theguardian.com/society/2025/feb/01/i-lost-10-years-of-my-life-how-uk-betting-giants-unlawful-marketing-kept-suicidal-gambler-hooked): UK betting giant's unlawful marketing kept suicidal gambler hooked</small>
+
+
+| 🔥: 63 \| 💬: [49](https://news.ycombinator.com/item?id=42910983) \| 🗓️ 2025-02-02
+
+
+<br />
+英国高等法院裁定**Sky Bet**对一名有自杀倾向的成瘾赌徒实施非法定向营销。该赌徒（化名Sam）在2017-2019年间被标记为**“高价值客户”**，公司通过分析其2.4万份数据（包括消费习惯与游戏时间）发送1389封促销邮件，成功率高达98%。法官认定，Sam因赌博成瘾丧失自主决策能力，企业利用其脆弱心理进行数据追踪与精准推送的行为违法。尽管Sky Bet辩称已改进风控并考虑上诉，此案或引发行业对**数据滥用与成瘾营销**的全面审查。
+
+---
+
+## <a name="15"></a>15. Show HN: Modest —— Lua 的音乐和声库 
+<small>🔗 [github.com](https://github.com/esbudylin/modest): Show HN: Modest – musical harmony library for Lua</small>
+
+
+| 🔥: 61 \| 💬: [6](https://news.ycombinator.com/item?id=42907765) \| 🗓️ 2025-02-02
+
+
+<br />
+该库提供**和弦、音符与音程对象**的解析与操作，支持复杂和弦识别（含爵士和弦）、升降记号转换、音高推算及跨八度计算。通过 LPeg 实现灵活弦式解析，兼容 Unicode 符号与 ASCII 字符两种记谱方式，可生成乐理数字表示。采用 Fennel 编写，支持 Lua 5.4/LuaJIT，提供 LuaRocks 安装与手动编译方案，**强调不可变对象设计**。命名致敬作曲家穆索尔斯基，适用于音乐分析、自动伴奏等场景，功能对标 Python 的 Mingus 与 JS 的 Tonal 库。
+
+---
+
 ## <a name="16"></a>16. ScatterBrain：揭秘PoisonPlug混淆器的隐匿威胁 
 <small>🔗 [cloud.google.com](https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator): ScatterBrain: Unmasking the shadow of PoisonPlug's obfuscator</small>
 
 
-| 🔥: 46 \| 💬: [5](https://news.ycombinator.com/item?id=42911162) \| 🗓️ 2025-02-02
+| 🔥: 55 \| 💬: [6](https://news.ycombinator.com/item?id=42911162) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -217,11 +217,35 @@ Google威胁情报小组（GTIG）追踪到中国关联组织使用**POISONPLUG.
 
 ---
 
-## <a name="17"></a>17. 为何AI生成内容读起来令人不适？ 
+## <a name="17"></a>17. 哥斯达黎加超市赢得与任天堂商标诉讼案 
+<small>🔗 [ticotimes.net](https://ticotimes.net/2025/01/30/david-vs-goliath-costa-rican-super-mario-defeats-nintendo-in-court): Costa Rican Supermarket Wins Trademark Battle Against Nintendo</small>
+
+
+| 🔥: 52 \| 💬: [11](https://news.ycombinator.com/item?id=42911842) \| 🗓️ 2025-02-02
+
+
+<br />
+哥斯达黎加圣拉蒙的**“Super Mario”超市**在商标注册纠纷中击败任天堂。店主申请注册**国际分类35类**（基础食品供应服务）时，任天堂以拥有“Super Mario”商标权为由上诉，但因其注册类别未涵盖食品供应，法院最终驳回诉求。律师指出任天堂虽注册45类商标，但未涉足**基本食品供应服务**。小企业主坚持维权，成功捍卫名称使用权，任天堂暂未回应。
+
+---
+
+## <a name="18"></a>18. 别拿著名作家丹·布朗开涮（2013） 
+<small>🔗 [onehundredpages.wordpress.com](https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/): Don't make fun of renowned author Dan Brown (2013)</small>
+
+
+| 🔥: 49 \| 💬: [27](https://news.ycombinator.com/item?id=42912133) \| 🗓️ 2025-02-02
+
+
+<br />
+尽管新书《地狱》即将上市，**屡遭文评家嘲讽**的丹·布朗仍焦虑不已。批评者指其文风**重复累赘**、比喻荒诞，甚至调侃“鲨鱼般发白的眼睛”等句子。然而，经纪人提醒他：数百万读者与商业成功才是硬道理——从奥巴马到英国女王皆为其粉丝，梵高画作与莎士比亚珍本更彰显其财富。最终，布朗重拾信心，继续用“但丁密码”式配方书写畅销神话，并幻想受妻子启发转向浪漫诗歌。
+
+---
+
+## <a name="19"></a>19. 为何AI生成内容读起来令人不适？ 
 <small>🔗 [seangoedecke.com](https://www.seangoedecke.com/on-slop/): Why does AI slop feel so bad to read?</small>
 
 
-| 🔥: 43 \| 💬: [26](https://news.ycombinator.com/item?id=42909042) \| 🗓️ 2025-02-02
+| 🔥: 46 \| 💬: [26](https://news.ycombinator.com/item?id=42909042) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -229,11 +253,11 @@ Google威胁情报小组（GTIG）追踪到中国关联组织使用**POISONPLUG.
 
 ---
 
-## <a name="18"></a>18. Show HN: 土拨鼠AI春日API 
+## <a name="20"></a>20. Show HN: 土拨鼠AI春日API 
 <small>🔗 [groundhog-day.com](https://groundhog-day.com/api): Show HN: Groundhog AI Spring API</small>
 
 
-| 🔥: 43 \| 💬: [19](https://news.ycombinator.com/item?id=42910105) \| 🗓️ 2025-02-02
+| 🔥: 45 \| 💬: [19](https://news.ycombinator.com/item?id=42910105) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -241,11 +265,11 @@ Google威胁情报小组（GTIG）追踪到中国关联组织使用**POISONPLUG.
 
 ---
 
-## <a name="19"></a>19. 马斯克获美财政部支付系统权限后承诺终止资助计划 
+## <a name="21"></a>21. 马斯克获美财政部支付系统权限后承诺终止资助计划 
 <small>🔗 [ft.com](https://www.ft.com/content/27ba0a6a-0d9b-4e08-8329-730b581c0481): Musk vows to cancel grants after gaining access to US Treasury payment system</small>
 
 
-| 🔥: 38 \| 💬: [10](https://news.ycombinator.com/item?id=42910345) \| 🗓️ 2025-02-02
+| 🔥: 40 \| 💬: [10](https://news.ycombinator.com/item?id=42910345) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -253,11 +277,23 @@ Google威胁情报小组（GTIG）追踪到中国关联组织使用**POISONPLUG.
 
 ---
 
-## <a name="20"></a>20. 为何这位CEO炫耀用AI取代人类？ 
+## <a name="22"></a>22. Garmin数据库工具 
+<small>🔗 [github.com](https://github.com/tcgoetz/GarminDB): GarminDB</small>
+
+
+| 🔥: 40 \| 💬: [2](https://news.ycombinator.com/item?id=42912515) \| 🗓️ 2025-02-02
+
+
+<br />
+开源Python工具可将**Garmin/FitBit/MS Health健康数据**自动下载解析至**SQLite数据库**，并通过**Jupyter Notebook**进行可视化分析。支持心率、运动记录、睡眠等多维度数据存储，提供命令行批量下载、增量更新及数据备份功能，内置统计视图与插件扩展机制，适配macOS并支持跨平台调试。需配置账户信息后通过`pip`安装或源码编译，含错误报告与社区贡献指南。
+
+---
+
+## <a name="23"></a>23. 为何这位CEO炫耀用AI取代人类？ 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/02/business/klarna-ceo-ai.html): Why Is This CEO Bragging About Replacing Humans with A.I.?</small>
 
 
-| 🔥: 33 \| 💬: [26](https://news.ycombinator.com/item?id=42911054) \| 🗓️ 2025-02-02
+| 🔥: 36 \| 💬: [26](https://news.ycombinator.com/item?id=42911054) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -265,11 +301,11 @@ Klarna首席执行官Sebastian Siemiatkowski多次强调**生成式AI**大幅降
 
 ---
 
-## <a name="21"></a>21. 基于编程语言合成的数据导向型攻击利用研究 
+## <a name="24"></a>24. 基于编程语言合成的数据导向型攻击利用研究 
 <small>🔗 [ilyasergey.net](https://ilyasergey.net/assets/pdf/papers/doppler-usenix25.pdf): Data-Oriented Exploits via Programming Language Synthesis [pdf]</small>
 
 
-| 🔥: 29 \| 💬: [0](https://news.ycombinator.com/item?id=42907060) \| 🗓️ 2025-02-02
+| 🔥: 30 \| 💬: [1](https://news.ycombinator.com/item?id=42907060) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -277,7 +313,7 @@ Klarna首席执行官Sebastian Siemiatkowski多次强调**生成式AI**大幅降
 
 ---
 
-## <a name="22"></a>22. 欧盟新规：Temu、Shein及亚马逊须为“不安全”或“非法”商品承担法律责任 
+## <a name="25"></a>25. 欧盟新规：Temu、Shein及亚马逊须为“不安全”或“非法”商品承担法律责任 
 <small>🔗 [ft.com](https://www.ft.com/content/0b2b5c80-40f8-4ec9-bc91-2b4abbb88893): Temu, Shein and Amazon to be liable in EU for 'unsafe' or 'illegal' goods</small>
 
 
@@ -286,17 +322,5 @@ Klarna首席执行官Sebastian Siemiatkowski多次强调**生成式AI**大幅降
 
 <br />
 欧盟最新监管政策规定，电商平台**须对第三方销售的产品安全性及合法性直接负责**。若商品不符合欧盟标准，企业可能面临**强制下架商品**或**高额罚款**。该措施旨在强化消费者权益保护，打击跨境平台监管漏洞，尤其针对低价商品潜在的安全风险。
-
----
-
-## <a name="23"></a>23. 美国政府暂时关闭护照申请系统 
-<small>🔗 [pptform.state.gov](https://pptform.state.gov/): US Government Shuts Down Passport Applications Site</small>
-
-
-| 🔥: 27 \| 💬: [5](https://news.ycombinator.com/item?id=42910525) \| 🗓️ 2025-02-02
-
-
-<br />
-因**护照申请系统**正在进行**维护升级**，美国国务院已暂停在线提交功能。此次维护涉及系统性能优化，恢复时间尚未公布。用户需关注官方通知，并建议提前规划申请流程以避免延误。
 
 ---
