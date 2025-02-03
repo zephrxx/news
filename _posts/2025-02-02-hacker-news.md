@@ -12,7 +12,7 @@ tags:
 1. 生活不止是一个工程问题；
 1. Show HN: Lume - 专为Apple Silicon设计的轻量级macOS/Linux虚拟机CLI工具；
 1. SanDisk High Endurance microSDXC 存储卡逆向工程与分析（2020）；
-1. 深入解析高性能缓存库Caffeine的代码架构；
+1. Waydroid——Linux 容器中的安卓系统；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [timsh.org](https://timsh.org/tracking-myself-down-through-in-app-ads/): Everyone knows your location: tracking myself down through in-app ads</small>
 
 
-| 🔥🔥: 808 \| 💬: [263](https://news.ycombinator.com/item?id=42909921) \| 🗓️ 2025-02-02
+| 🔥🔥: 872 \| 💬: [284](https://news.ycombinator.com/item?id=42909921) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [lareviewofbooks.org](https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/): Life is more than an engineering problem</small>
 
 
-| 🔥🔥: 307 \| 💬: [182](https://news.ycombinator.com/item?id=42907268) \| 🗓️ 2025-02-02
+| 🔥🔥: 311 \| 💬: [193](https://news.ycombinator.com/item?id=42907268) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -51,7 +51,7 @@ Ted Chiang 在与 Julien Crockett 的对话中探讨了人工智能、语言哲�
 <small>🔗 [github.com](https://github.com/trycua/lume): Show HN: Lume – OS lightweight CLI for MacOS and Linux VMs on Apple Silicon</small>
 
 
-| 🔥🔥: 226 \| 💬: [62](https://news.ycombinator.com/item?id=42908061) \| 🗓️ 2025-02-02
+| 🔥🔥: 234 \| 💬: [64](https://news.ycombinator.com/item?id=42908061) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -63,7 +63,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [ripitapart.com](https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/): Reverse-engineering and analysis of SanDisk High Endurance microSDXC card (2020)</small>
 
 
-| 🔥🔥: 223 \| 💬: [93](https://news.ycombinator.com/item?id=42907766) \| 🗓️ 2025-02-02
+| 🔥🔥: 225 \| 💬: [98](https://news.ycombinator.com/item?id=42907766) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -71,35 +71,11 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 
 ---
 
-## <a name="5"></a>5. 深入解析高性能缓存库Caffeine的代码架构 
-<small>🔗 [adriacabeza.github.io](https://adriacabeza.github.io/2024/07/12/caffeine-cache.html): Analyzing the codebase of Caffeine, a high performance caching library</small>
-
-
-| 🔥🔥: 191 \| 💬: [37](https://news.ycombinator.com/item?id=42907488) \| 🗓️ 2025-02-02
-
-
-<br />
-本文探讨了Caffeine缓存库的核心机制，重点分析其**Window TinyLFU驱逐策略**：通过准入窗口筛选新条目，结合**频率草图（CountMinSketch）**估算访问频率，并采用分段LRU优化热点数据留存。同时，库内通过无哨兵节点的双链表队列和分层时间轮实现高效过期管理。这些设计以O(1)时间复杂度保障高命中率与低内存开销，支撑了Kafka、Cassandra等大型系统的缓存需求。
-
----
-
-## <a name="6"></a>6. Sniffnet：网络流量监控工具 
-<small>🔗 [github.com](https://github.com/GyulyVGC/sniffnet): Sniffnet – monitor your Internet traffic</small>
-
-
-| 🔥🔥: 172 \| 💬: [71](https://news.ycombinator.com/item?id=42909530) \| 🗓️ 2025-02-02
-
-
-<br />
-一款**跨平台应用**，可直观监测互联网流量，支持实时流量图表、自定义通知及深度数据包分析。提供多语言界面，支持 Windows/macOS/Linux 系统，可通过 Homebrew、Cargo 等多种方式安装。内置**6000+协议识别**功能，支持 IP 地理定位、本地网络连接检测及 PCAP 报告导出。完全免费开源（Apache-2.0/MIT 双许可），需注意系统依赖项安装，并提供故障排查指南与用户手册。
-
----
-
-## <a name="7"></a>7. Waydroid——Linux 容器中的安卓系统 
+## <a name="5"></a>5. Waydroid——Linux 容器中的安卓系统 
 <small>🔗 [waydro.id](https://waydro.id/): Waydroid – Android in a Linux container</small>
 
 
-| 🔥🔥: 164 \| 💬: [23](https://news.ycombinator.com/item?id=42911042) \| 🗓️ 2025-02-02
+| 🔥🔥: 198 \| 💬: [30](https://news.ycombinator.com/item?id=42911042) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -107,11 +83,35 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 
 ---
 
+## <a name="6"></a>6. 深入解析高性能缓存库Caffeine的代码架构 
+<small>🔗 [adriacabeza.github.io](https://adriacabeza.github.io/2024/07/12/caffeine-cache.html): Analyzing the codebase of Caffeine, a high performance caching library</small>
+
+
+| 🔥🔥: 194 \| 💬: [37](https://news.ycombinator.com/item?id=42907488) \| 🗓️ 2025-02-02
+
+
+<br />
+本文探讨了Caffeine缓存库的核心机制，重点分析其**Window TinyLFU驱逐策略**：通过准入窗口筛选新条目，结合**频率草图（CountMinSketch）**估算访问频率，并采用分段LRU优化热点数据留存。同时，库内通过无哨兵节点的双链表队列和分层时间轮实现高效过期管理。这些设计以O(1)时间复杂度保障高命中率与低内存开销，支撑了Kafka、Cassandra等大型系统的缓存需求。
+
+---
+
+## <a name="7"></a>7. Sniffnet：网络流量监控工具 
+<small>🔗 [github.com](https://github.com/GyulyVGC/sniffnet): Sniffnet – monitor your Internet traffic</small>
+
+
+| 🔥🔥: 181 \| 💬: [73](https://news.ycombinator.com/item?id=42909530) \| 🗓️ 2025-02-02
+
+
+<br />
+一款**跨平台应用**，可直观监测互联网流量，支持实时流量图表、自定义通知及深度数据包分析。提供多语言界面，支持 Windows/macOS/Linux 系统，可通过 Homebrew、Cargo 等多种方式安装。内置**6000+协议识别**功能，支持 IP 地理定位、本地网络连接检测及 PCAP 报告导出。完全免费开源（Apache-2.0/MIT 双许可），需注意系统依赖项安装，并提供故障排查指南与用户手册。
+
+---
+
 ## <a name="8"></a>8. 间隔重复法可实现无限记忆（2022年） 
 <small>🔗 [efavdb.com](https://www.efavdb.com/memory%20recall): Spaced repetition can allow for infinite recall (2022)</small>
 
 
-| 🔥🔥: 130 \| 💬: [151](https://news.ycombinator.com/item?id=42908041) \| 🗓️ 2025-02-02
+| 🔥🔥: 141 \| 💬: [156](https://news.ycombinator.com/item?id=42908041) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -123,7 +123,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [brightprogrammer.in](https://brightprogrammer.in/posts/fixing-recursions-in-grammar/): Fixing left and mutual recursions in grammars</small>
 
 
-| 🔥: 97 \| 💬: [25](https://news.ycombinator.com/item?id=42907139) \| 🗓️ 2025-02-02
+| 🔥: 98 \| 💬: [26](https://news.ycombinator.com/item?id=42907139) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -135,7 +135,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [businessinsider.com](https://www.businessinsider.com/shein-temu-de-minimis-tax-loophole-scrutiny-2024-1): A loophole used by Shein/Temu to ship packages to US tax-free (2024)</small>
 
 
-| 🔥: 82 \| 💬: [60](https://news.ycombinator.com/item?id=42911511) \| 🗓️ 2025-02-02
+| 🔥: 92 \| 💬: [75](https://news.ycombinator.com/item?id=42911511) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -143,23 +143,35 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 
 ---
 
-## <a name="11"></a>11. 强化学习：综述 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2412.05265): Reinforcement Learning: An Overview</small>
+## <a name="11"></a>11. 阿尔茨海默病科学中的谎言遗产 
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/01/24/opinion/alzheimers-fraud-cure.html): The Legacy of Lies in Alzheimer's Science</small>
 
 
-| 🔥: 71 \| 💬: [10](https://news.ycombinator.com/item?id=42910028) \| 🗓️ 2025-02-02
+| 🔥: 85 \| 💬: [38](https://news.ycombinator.com/item?id=42910829) \| 🗓️ 2025-02-02
 
 
 <br />
-本文全面概述了（深度）强化学习与序列决策领域的最新进展，涵盖**基于价值的强化学习**、**策略梯度方法**、**基于模型的方法**等核心方向，并简要探讨了强化学习与大语言模型（LLMs）的结合。作者Kevin Murphy系统梳理了相关技术脉络与未来趋势。
+尽管癌症与心脏病治疗取得突破，**阿尔茨海默病死亡率却持续攀升**，全美近700万人受其折磨。数十年研究未产生有效疗法，除大脑复杂性外，**学术欺诈**成关键阻碍。知名神经科学家埃利泽·马斯利亚被曝长期篡改脑组织图像及蛋白质检测数据，其研究影响深远且获数十亿资金支持，凸显领域内**竞争压力与道德失范**。这一系统性造假严重误导疗法开发，加剧全球老龄化下的公共卫生危机。
 
 ---
 
-## <a name="12"></a>12. 马斯克“政府效率部”背后的年轻工程师：资历浅，权限大 
+## <a name="12"></a>12. 哥斯达黎加超市赢得与任天堂商标诉讼案 
+<small>🔗 [ticotimes.net](https://ticotimes.net/2025/01/30/david-vs-goliath-costa-rican-super-mario-defeats-nintendo-in-court): Costa rican supermarket wins trademark battle against Nintendo</small>
+
+
+| 🔥: 84 \| 💬: [26](https://news.ycombinator.com/item?id=42911842) \| 🗓️ 2025-02-02
+
+
+<br />
+哥斯达黎加圣拉蒙的**“Super Mario”超市**在商标注册纠纷中击败任天堂。店主申请注册**国际分类35类**（基础食品供应服务）时，任天堂以拥有“Super Mario”商标权为由上诉，但因其注册类别未涵盖食品供应，法院最终驳回诉求。律师指出任天堂虽注册45类商标，但未涉足**基本食品供应服务**。小企业主坚持维权，成功捍卫名称使用权，任天堂暂未回应。
+
+---
+
+## <a name="13"></a>13. 马斯克“政府效率部”背后的年轻工程师：资历浅，权限大 
 <small>🔗 [wired.com](https://www.wired.com/story/elon-musk-government-young-engineers/): The Young, Inexperienced Engineers Aiding Elon Musk’s Government Takeover</small>
 
 
-| 🔥: 69 \| 💬: [25](https://news.ycombinator.com/item?id=42910910) \| 🗓️ 2025-02-02
+| 🔥: 74 \| 💬: [29](https://news.ycombinator.com/item?id=42910910) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -169,71 +181,23 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 
 ---
 
-## <a name="13"></a>13. 阿尔茨海默病科学中的谎言遗产 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/01/24/opinion/alzheimers-fraud-cure.html): The Legacy of Lies in Alzheimer's Science</small>
+## <a name="14"></a>14. 强化学习：综述 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2412.05265): Reinforcement Learning: An Overview</small>
 
 
-| 🔥: 68 \| 💬: [23](https://news.ycombinator.com/item?id=42910829) \| 🗓️ 2025-02-02
-
-
-<br />
-尽管癌症与心脏病治疗取得突破，**阿尔茨海默病死亡率却持续攀升**，全美近700万人受其折磨。数十年研究未产生有效疗法，除大脑复杂性外，**学术欺诈**成关键阻碍。知名神经科学家埃利泽·马斯利亚被曝长期篡改脑组织图像及蛋白质检测数据，其研究影响深远且获数十亿资金支持，凸显领域内**竞争压力与道德失范**。这一系统性造假严重误导疗法开发，加剧全球老龄化下的公共卫生危机。
-
----
-
-## <a name="14"></a>14. 英国博彩巨头非法营销致赌徒深陷泥潭 
-<small>🔗 [theguardian.com](https://www.theguardian.com/society/2025/feb/01/i-lost-10-years-of-my-life-how-uk-betting-giants-unlawful-marketing-kept-suicidal-gambler-hooked): UK betting giant's unlawful marketing kept suicidal gambler hooked</small>
-
-
-| 🔥: 63 \| 💬: [49](https://news.ycombinator.com/item?id=42910983) \| 🗓️ 2025-02-02
+| 🔥: 72 \| 💬: [10](https://news.ycombinator.com/item?id=42910028) \| 🗓️ 2025-02-02
 
 
 <br />
-英国高等法院裁定**Sky Bet**对一名有自杀倾向的成瘾赌徒实施非法定向营销。该赌徒（化名Sam）在2017-2019年间被标记为**“高价值客户”**，公司通过分析其2.4万份数据（包括消费习惯与游戏时间）发送1389封促销邮件，成功率高达98%。法官认定，Sam因赌博成瘾丧失自主决策能力，企业利用其脆弱心理进行数据追踪与精准推送的行为违法。尽管Sky Bet辩称已改进风控并考虑上诉，此案或引发行业对**数据滥用与成瘾营销**的全面审查。
+本文全面概述了（深度）强化学习与序列决策领域的最新进展，涵盖**基于价值的强化学习**、**策略梯度方法**、**基于模型的方法**等核心方向，并简要探讨了强化学习与大语言模型（LLMs）的结合。作者Kevin Murphy系统梳理了相关技术脉络与未来趋势。
 
 ---
 
-## <a name="15"></a>15. Show HN: Modest —— Lua 的音乐和声库 
-<small>🔗 [github.com](https://github.com/esbudylin/modest): Show HN: Modest – musical harmony library for Lua</small>
-
-
-| 🔥: 61 \| 💬: [6](https://news.ycombinator.com/item?id=42907765) \| 🗓️ 2025-02-02
-
-
-<br />
-该库提供**和弦、音符与音程对象**的解析与操作，支持复杂和弦识别（含爵士和弦）、升降记号转换、音高推算及跨八度计算。通过 LPeg 实现灵活弦式解析，兼容 Unicode 符号与 ASCII 字符两种记谱方式，可生成乐理数字表示。采用 Fennel 编写，支持 Lua 5.4/LuaJIT，提供 LuaRocks 安装与手动编译方案，**强调不可变对象设计**。命名致敬作曲家穆索尔斯基，适用于音乐分析、自动伴奏等场景，功能对标 Python 的 Mingus 与 JS 的 Tonal 库。
-
----
-
-## <a name="16"></a>16. ScatterBrain：揭秘PoisonPlug混淆器的隐匿威胁 
-<small>🔗 [cloud.google.com](https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator): ScatterBrain: Unmasking the shadow of PoisonPlug's obfuscator</small>
-
-
-| 🔥: 55 \| 💬: [6](https://news.ycombinator.com/item?id=42911162) \| 🗓️ 2025-02-02
-
-
-<br />
-Google威胁情报小组（GTIG）追踪到中国关联组织使用**POISONPLUG.SHADOW**（又名ShadowPad）模块化后门，结合**ScatterBrain混淆编译器**对欧洲及亚太目标发起攻击。该混淆器通过控制流混淆、指令变异及导入表保护机制，极大增加分析与检测难度，且持续演化升级。GTIG与FLARE团队合作开发独立反混淆工具，揭示其三种操作模式（选择性、完全及“无头”模式），并针对APT41关联攻击链提供深度解析，以应对这一国家级威胁。
-
----
-
-## <a name="17"></a>17. 哥斯达黎加超市赢得与任天堂商标诉讼案 
-<small>🔗 [ticotimes.net](https://ticotimes.net/2025/01/30/david-vs-goliath-costa-rican-super-mario-defeats-nintendo-in-court): Costa Rican Supermarket Wins Trademark Battle Against Nintendo</small>
-
-
-| 🔥: 52 \| 💬: [11](https://news.ycombinator.com/item?id=42911842) \| 🗓️ 2025-02-02
-
-
-<br />
-哥斯达黎加圣拉蒙的**“Super Mario”超市**在商标注册纠纷中击败任天堂。店主申请注册**国际分类35类**（基础食品供应服务）时，任天堂以拥有“Super Mario”商标权为由上诉，但因其注册类别未涵盖食品供应，法院最终驳回诉求。律师指出任天堂虽注册45类商标，但未涉足**基本食品供应服务**。小企业主坚持维权，成功捍卫名称使用权，任天堂暂未回应。
-
----
-
-## <a name="18"></a>18. 别拿著名作家丹·布朗开涮（2013） 
+## <a name="15"></a>15. 别拿著名作家丹·布朗开涮（2013） 
 <small>🔗 [onehundredpages.wordpress.com](https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/): Don't make fun of renowned author Dan Brown (2013)</small>
 
 
-| 🔥: 49 \| 💬: [27](https://news.ycombinator.com/item?id=42912133) \| 🗓️ 2025-02-02
+| 🔥: 70 \| 💬: [52](https://news.ycombinator.com/item?id=42912133) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -241,7 +205,67 @@ Google威胁情报小组（GTIG）追踪到中国关联组织使用**POISONPLUG.
 
 ---
 
-## <a name="19"></a>19. 为何AI生成内容读起来令人不适？ 
+## <a name="16"></a>16. 英国博彩巨头非法营销致赌徒深陷泥潭 
+<small>🔗 [theguardian.com](https://www.theguardian.com/society/2025/feb/01/i-lost-10-years-of-my-life-how-uk-betting-giants-unlawful-marketing-kept-suicidal-gambler-hooked): UK betting giant's unlawful marketing kept suicidal gambler hooked</small>
+
+
+| 🔥: 69 \| 💬: [62](https://news.ycombinator.com/item?id=42910983) \| 🗓️ 2025-02-02
+
+
+<br />
+英国高等法院裁定**Sky Bet**对一名有自杀倾向的成瘾赌徒实施非法定向营销。该赌徒（化名Sam）在2017-2019年间被标记为**“高价值客户”**，公司通过分析其2.4万份数据（包括消费习惯与游戏时间）发送1389封促销邮件，成功率高达98%。法官认定，Sam因赌博成瘾丧失自主决策能力，企业利用其脆弱心理进行数据追踪与精准推送的行为违法。尽管Sky Bet辩称已改进风控并考虑上诉，此案或引发行业对**数据滥用与成瘾营销**的全面审查。
+
+---
+
+## <a name="17"></a>17. Show HN: Modest —— Lua 的音乐和声库 
+<small>🔗 [github.com](https://github.com/esbudylin/modest): Show HN: Modest – musical harmony library for Lua</small>
+
+
+| 🔥: 62 \| 💬: [6](https://news.ycombinator.com/item?id=42907765) \| 🗓️ 2025-02-02
+
+
+<br />
+该库提供**和弦、音符与音程对象**的解析与操作，支持复杂和弦识别（含爵士和弦）、升降记号转换、音高推算及跨八度计算。通过 LPeg 实现灵活弦式解析，兼容 Unicode 符号与 ASCII 字符两种记谱方式，可生成乐理数字表示。采用 Fennel 编写，支持 Lua 5.4/LuaJIT，提供 LuaRocks 安装与手动编译方案，**强调不可变对象设计**。命名致敬作曲家穆索尔斯基，适用于音乐分析、自动伴奏等场景，功能对标 Python 的 Mingus 与 JS 的 Tonal 库。
+
+---
+
+## <a name="18"></a>18. ScatterBrain：揭秘PoisonPlug混淆器的隐匿威胁 
+<small>🔗 [cloud.google.com](https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator): ScatterBrain: Unmasking the shadow of PoisonPlug's obfuscator</small>
+
+
+| 🔥: 59 \| 💬: [7](https://news.ycombinator.com/item?id=42911162) \| 🗓️ 2025-02-02
+
+
+<br />
+Google威胁情报小组（GTIG）追踪到中国关联组织使用**POISONPLUG.SHADOW**（又名ShadowPad）模块化后门，结合**ScatterBrain混淆编译器**对欧洲及亚太目标发起攻击。该混淆器通过控制流混淆、指令变异及导入表保护机制，极大增加分析与检测难度，且持续演化升级。GTIG与FLARE团队合作开发独立反混淆工具，揭示其三种操作模式（选择性、完全及“无头”模式），并针对APT41关联攻击链提供深度解析，以应对这一国家级威胁。
+
+---
+
+## <a name="19"></a>19. Garmin数据库工具 
+<small>🔗 [github.com](https://github.com/tcgoetz/GarminDB): GarminDB</small>
+
+
+| 🔥: 59 \| 💬: [4](https://news.ycombinator.com/item?id=42912515) \| 🗓️ 2025-02-02
+
+
+<br />
+开源Python工具可将**Garmin/FitBit/MS Health健康数据**自动下载解析至**SQLite数据库**，并通过**Jupyter Notebook**进行可视化分析。支持心率、运动记录、睡眠等多维度数据存储，提供命令行批量下载、增量更新及数据备份功能，内置统计视图与插件扩展机制，适配macOS并支持跨平台调试。需配置账户信息后通过`pip`安装或源码编译，含错误报告与社区贡献指南。
+
+---
+
+## <a name="20"></a>20. Show HN: 土拨鼠AI春日API 
+<small>🔗 [groundhog-day.com](https://groundhog-day.com/api): Show HN: Groundhog AI Spring API</small>
+
+
+| 🔥: 47 \| 💬: [19](https://news.ycombinator.com/item?id=42910105) \| 🗓️ 2025-02-02
+
+
+<br />
+该API提供北美地区所有**气象预测动物**及其年度天气预测数据，支持通过三个**GET请求端点**获取全部/单个土拨鼠信息或指定年份预测结果。数据更新需通过官网提交，不开放API修改。包含OpenAPI架构，适用于构建**GaaP（土拨鼠即平台）**等企业级应用，为商业项目提供基础数据支持。
+
+---
+
+## <a name="21"></a>21. 为何AI生成内容读起来令人不适？ 
 <small>🔗 [seangoedecke.com](https://www.seangoedecke.com/on-slop/): Why does AI slop feel so bad to read?</small>
 
 
@@ -253,23 +277,11 @@ Google威胁情报小组（GTIG）追踪到中国关联组织使用**POISONPLUG.
 
 ---
 
-## <a name="20"></a>20. Show HN: 土拨鼠AI春日API 
-<small>🔗 [groundhog-day.com](https://groundhog-day.com/api): Show HN: Groundhog AI Spring API</small>
-
-
-| 🔥: 45 \| 💬: [19](https://news.ycombinator.com/item?id=42910105) \| 🗓️ 2025-02-02
-
-
-<br />
-该API提供北美地区所有**气象预测动物**及其年度天气预测数据，支持通过三个**GET请求端点**获取全部/单个土拨鼠信息或指定年份预测结果。数据更新需通过官网提交，不开放API修改。包含OpenAPI架构，适用于构建**GaaP（土拨鼠即平台）**等企业级应用，为商业项目提供基础数据支持。
-
----
-
-## <a name="21"></a>21. 马斯克获美财政部支付系统权限后承诺终止资助计划 
+## <a name="22"></a>22. 马斯克获美财政部支付系统权限后承诺终止资助计划 
 <small>🔗 [ft.com](https://www.ft.com/content/27ba0a6a-0d9b-4e08-8329-730b581c0481): Musk vows to cancel grants after gaining access to US Treasury payment system</small>
 
 
-| 🔥: 40 \| 💬: [10](https://news.ycombinator.com/item?id=42910345) \| 🗓️ 2025-02-02
+| 🔥: 40 \| 💬: [12](https://news.ycombinator.com/item?id=42910345) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -277,23 +289,11 @@ Google威胁情报小组（GTIG）追踪到中国关联组织使用**POISONPLUG.
 
 ---
 
-## <a name="22"></a>22. Garmin数据库工具 
-<small>🔗 [github.com](https://github.com/tcgoetz/GarminDB): GarminDB</small>
-
-
-| 🔥: 40 \| 💬: [2](https://news.ycombinator.com/item?id=42912515) \| 🗓️ 2025-02-02
-
-
-<br />
-开源Python工具可将**Garmin/FitBit/MS Health健康数据**自动下载解析至**SQLite数据库**，并通过**Jupyter Notebook**进行可视化分析。支持心率、运动记录、睡眠等多维度数据存储，提供命令行批量下载、增量更新及数据备份功能，内置统计视图与插件扩展机制，适配macOS并支持跨平台调试。需配置账户信息后通过`pip`安装或源码编译，含错误报告与社区贡献指南。
-
----
-
 ## <a name="23"></a>23. 为何这位CEO炫耀用AI取代人类？ 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/02/business/klarna-ceo-ai.html): Why Is This CEO Bragging About Replacing Humans with A.I.?</small>
 
 
-| 🔥: 36 \| 💬: [26](https://news.ycombinator.com/item?id=42911054) \| 🗓️ 2025-02-02
+| 🔥: 36 \| 💬: [30](https://news.ycombinator.com/item?id=42911054) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -317,7 +317,7 @@ Klarna首席执行官Sebastian Siemiatkowski多次强调**生成式AI**大幅降
 <small>🔗 [ft.com](https://www.ft.com/content/0b2b5c80-40f8-4ec9-bc91-2b4abbb88893): Temu, Shein and Amazon to be liable in EU for 'unsafe' or 'illegal' goods</small>
 
 
-| 🔥: 29 \| 💬: [1](https://news.ycombinator.com/item?id=42911258) \| 🗓️ 2025-02-02
+| 🔥: 30 \| 💬: [1](https://news.ycombinator.com/item?id=42911258) \| 🗓️ 2025-02-02
 
 
 <br />
