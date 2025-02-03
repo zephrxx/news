@@ -27,7 +27,7 @@ tags:
 <small>🔗 [timsh.org](https://timsh.org/tracking-myself-down-through-in-app-ads/): Everyone knows your location: tracking myself down through in-app ads</small>
 
 
-| 🔥🔥: 979 \| 💬: [331](https://news.ycombinator.com/item?id=42909921) \| 🗓️ 2025-02-02
+| 🔥🔥: 1025 \| 💬: [351](https://news.ycombinator.com/item?id=42909921) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [lareviewofbooks.org](https://lareviewofbooks.org/article/life-is-more-than-an-engineering-problem/): Life is more than an engineering problem</small>
 
 
-| 🔥🔥: 324 \| 💬: [199](https://news.ycombinator.com/item?id=42907268) \| 🗓️ 2025-02-02
+| 🔥🔥: 329 \| 💬: [202](https://news.ycombinator.com/item?id=42907268) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -51,7 +51,7 @@ Ted Chiang 在与 Julien Crockett 的对话中探讨了人工智能、语言哲�
 <small>🔗 [github.com](https://github.com/trycua/lume): Show HN: Lume – OS lightweight CLI for MacOS and Linux VMs on Apple Silicon</small>
 
 
-| 🔥🔥: 247 \| 💬: [66](https://news.ycombinator.com/item?id=42908061) \| 🗓️ 2025-02-02
+| 🔥🔥: 252 \| 💬: [66](https://news.ycombinator.com/item?id=42908061) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -63,7 +63,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [waydro.id](https://waydro.id/): Waydroid – Android in a Linux container</small>
 
 
-| 🔥🔥: 237 \| 💬: [43](https://news.ycombinator.com/item?id=42911042) \| 🗓️ 2025-02-02
+| 🔥🔥: 251 \| 💬: [49](https://news.ycombinator.com/item?id=42911042) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -75,7 +75,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [ripitapart.com](https://ripitapart.com/2020/07/16/reverse-engineering-and-analysis-of-sandisk-high-endurance-microsdxc-card/): Reverse-engineering and analysis of SanDisk High Endurance microSDXC card (2020)</small>
 
 
-| 🔥🔥: 228 \| 💬: [99](https://news.ycombinator.com/item?id=42907766) \| 🗓️ 2025-02-02
+| 🔥🔥: 231 \| 💬: [101](https://news.ycombinator.com/item?id=42907766) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -87,7 +87,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [adriacabeza.github.io](https://adriacabeza.github.io/2024/07/12/caffeine-cache.html): Analyzing the codebase of Caffeine, a high performance caching library</small>
 
 
-| 🔥🔥: 203 \| 💬: [39](https://news.ycombinator.com/item?id=42907488) \| 🗓️ 2025-02-02
+| 🔥🔥: 206 \| 💬: [41](https://news.ycombinator.com/item?id=42907488) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -99,7 +99,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [github.com](https://github.com/GyulyVGC/sniffnet): Sniffnet – monitor your Internet traffic</small>
 
 
-| 🔥🔥: 193 \| 💬: [78](https://news.ycombinator.com/item?id=42909530) \| 🗓️ 2025-02-02
+| 🔥🔥: 199 \| 💬: [78](https://news.ycombinator.com/item?id=42909530) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -107,23 +107,11 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 
 ---
 
-## <a name="8"></a>8. 间隔重复法可实现无限记忆（2022年） 
-<small>🔗 [efavdb.com](https://www.efavdb.com/memory%20recall): Spaced repetition can allow for infinite recall (2022)</small>
+## <a name="8"></a>8. 哥斯达黎加超市赢得与任天堂商标诉讼案 
+<small>🔗 [ticotimes.net](https://ticotimes.net/2025/01/30/david-vs-goliath-costa-rican-super-mario-defeats-nintendo-in-court): Costa Rican supermarket wins trademark battle against Nintendo</small>
 
 
-| 🔥🔥: 149 \| 💬: [161](https://news.ycombinator.com/item?id=42908041) \| 🗓️ 2025-02-02
-
-
-<br />
-通过**间隔重复**记忆法，新知识需高频复习巩固，但随着复习次数增加，保留时间呈**幂律增长**（T(s)∼s^γ）。研究表明，若按特定规则筛选记忆内容（N(t)∼t^{-[1/(γ+1)+ε]}），每日有限复习时间可覆盖无限增长的知识库。数学推导证明，当γ>0时，总记忆量随时间呈t^{γ/(γ+1)}增长，最终实现**无限记忆**。核心在于动态调整旧知识复习频率，确保系统可持续扩展。
-
----
-
-## <a name="9"></a>9. 哥斯达黎加超市赢得与任天堂商标诉讼案 
-<small>🔗 [ticotimes.net](https://ticotimes.net/2025/01/30/david-vs-goliath-costa-rican-super-mario-defeats-nintendo-in-court): Costa rican supermarket wins trademark battle against Nintendo</small>
-
-
-| 🔥🔥: 137 \| 💬: [43](https://news.ycombinator.com/item?id=42911842) \| 🗓️ 2025-02-02
+| 🔥🔥: 158 \| 💬: [56](https://news.ycombinator.com/item?id=42911842) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -131,11 +119,23 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 
 ---
 
+## <a name="9"></a>9. 间隔重复法可实现无限记忆（2022年） 
+<small>🔗 [efavdb.com](https://www.efavdb.com/memory%20recall): Spaced repetition can allow for infinite recall (2022)</small>
+
+
+| 🔥🔥: 153 \| 💬: [164](https://news.ycombinator.com/item?id=42908041) \| 🗓️ 2025-02-02
+
+
+<br />
+通过**间隔重复**记忆法，新知识需高频复习巩固，但随着复习次数增加，保留时间呈**幂律增长**（T(s)∼s^γ）。研究表明，若按特定规则筛选记忆内容（N(t)∼t^{-[1/(γ+1)+ε]}），每日有限复习时间可覆盖无限增长的知识库。数学推导证明，当γ>0时，总记忆量随时间呈t^{γ/(γ+1)}增长，最终实现**无限记忆**。核心在于动态调整旧知识复习频率，确保系统可持续扩展。
+
+---
+
 ## <a name="10"></a>10. 别拿著名作家丹·布朗开涮（2013） 
 <small>🔗 [onehundredpages.wordpress.com](https://onehundredpages.wordpress.com/2013/06/12/dont-make-fun-of-renowned-dan-brown/): Don't make fun of renowned author Dan Brown (2013)</small>
 
 
-| 🔥🔥: 111 \| 💬: [83](https://news.ycombinator.com/item?id=42912133) \| 🗓️ 2025-02-02
+| 🔥🔥: 122 \| 💬: [101](https://news.ycombinator.com/item?id=42912133) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -144,10 +144,10 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 ---
 
 ## <a name="11"></a>11. 阿尔茨海默病科学中的谎言遗产 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/01/24/opinion/alzheimers-fraud-cure.html): The Legacy of Lies in Alzheimer's Science</small>
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/01/24/opinion/alzheimers-fraud-cure.html): The legacy of lies in Alzheimer's science</small>
 
 
-| 🔥🔥: 110 \| 💬: [53](https://news.ycombinator.com/item?id=42910829) \| 🗓️ 2025-02-02
+| 🔥🔥: 117 \| 💬: [69](https://news.ycombinator.com/item?id=42910829) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -159,7 +159,7 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 <small>🔗 [businessinsider.com](https://www.businessinsider.com/shein-temu-de-minimis-tax-loophole-scrutiny-2024-1): A loophole used by Shein/Temu to ship packages to US tax-free (2024)</small>
 
 
-| 🔥🔥: 108 \| 💬: [85](https://news.ycombinator.com/item?id=42911511) \| 🗓️ 2025-02-02
+| 🔥🔥: 110 \| 💬: [86](https://news.ycombinator.com/item?id=42911511) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -167,23 +167,11 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 
 ---
 
-## <a name="13"></a>13. 修复文法中的左递归与相互递归问题 
-<small>🔗 [brightprogrammer.in](https://brightprogrammer.in/posts/fixing-recursions-in-grammar/): Fixing left and mutual recursions in grammars</small>
-
-
-| 🔥: 100 \| 💬: [26](https://news.ycombinator.com/item?id=42907139) \| 🗓️ 2025-02-02
-
-
-<br />
-在上下文无关文法（CFG）中，**左递归**会导致自上而下解析算法陷入无限循环。例如，形如 `⟨S⟩ ::= ⟨S⟩ a | b` 的规则可通过转换为**右递归**解决：引入辅助符号 `⟨S’⟩` 改写为 `⟨S⟩ ::= b⟨S’⟩` 和 `⟨S’⟩ ::= a⟨S’⟩ | ε`。对于**相互递归**（如规则A→B、B→A），需重构语法树使其仅含右递归。作者以C++ demangler重构为例，展示了如何通过拆分规则、引入中间符号（如 `prefix_X`、`template_prefix_S2`）消除复杂递归，避免堆栈溢出。核心思路是将递归转移至右侧，确保解析器能有限步数内终止。
-
----
-
-## <a name="14"></a>14. Garmin数据库工具 
+## <a name="13"></a>13. Garmin数据库工具 
 <small>🔗 [github.com](https://github.com/tcgoetz/GarminDB): GarminDB</small>
 
 
-| 🔥: 87 \| 💬: [10](https://news.ycombinator.com/item?id=42912515) \| 🗓️ 2025-02-02
+| 🔥🔥: 102 \| 💬: [13](https://news.ycombinator.com/item?id=42912515) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -191,11 +179,23 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 
 ---
 
+## <a name="14"></a>14. 修复文法中的左递归与相互递归问题 
+<small>🔗 [brightprogrammer.in](https://brightprogrammer.in/posts/fixing-recursions-in-grammar/): Fixing left and mutual recursions in grammars</small>
+
+
+| 🔥🔥: 101 \| 💬: [28](https://news.ycombinator.com/item?id=42907139) \| 🗓️ 2025-02-02
+
+
+<br />
+在上下文无关文法（CFG）中，**左递归**会导致自上而下解析算法陷入无限循环。例如，形如 `⟨S⟩ ::= ⟨S⟩ a | b` 的规则可通过转换为**右递归**解决：引入辅助符号 `⟨S’⟩` 改写为 `⟨S⟩ ::= b⟨S’⟩` 和 `⟨S’⟩ ::= a⟨S’⟩ | ε`。对于**相互递归**（如规则A→B、B→A），需重构语法树使其仅含右递归。作者以C++ demangler重构为例，展示了如何通过拆分规则、引入中间符号（如 `prefix_X`、`template_prefix_S2`）消除复杂递归，避免堆栈溢出。核心思路是将递归转移至右侧，确保解析器能有限步数内终止。
+
+---
+
 ## <a name="15"></a>15. 马斯克“政府效率部”背后的年轻工程师：资历浅，权限大 
 <small>🔗 [wired.com](https://www.wired.com/story/elon-musk-government-young-engineers/): The Young, Inexperienced Engineers Aiding Elon Musk’s Government Takeover</small>
 
 
-| 🔥: 83 \| 💬: [33](https://news.ycombinator.com/item?id=42910910) \| 🗓️ 2025-02-02
+| 🔥: 89 \| 💬: [36](https://news.ycombinator.com/item?id=42910910) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -205,35 +205,11 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 
 ---
 
-## <a name="16"></a>16. 英国博彩巨头非法营销致赌徒深陷泥潭 
-<small>🔗 [theguardian.com](https://www.theguardian.com/society/2025/feb/01/i-lost-10-years-of-my-life-how-uk-betting-giants-unlawful-marketing-kept-suicidal-gambler-hooked): UK betting giant's unlawful marketing kept suicidal gambler hooked</small>
-
-
-| 🔥: 73 \| 💬: [67](https://news.ycombinator.com/item?id=42910983) \| 🗓️ 2025-02-02
-
-
-<br />
-英国高等法院裁定**Sky Bet**对一名有自杀倾向的成瘾赌徒实施非法定向营销。该赌徒（化名Sam）在2017-2019年间被标记为**“高价值客户”**，公司通过分析其2.4万份数据（包括消费习惯与游戏时间）发送1389封促销邮件，成功率高达98%。法官认定，Sam因赌博成瘾丧失自主决策能力，企业利用其脆弱心理进行数据追踪与精准推送的行为违法。尽管Sky Bet辩称已改进风控并考虑上诉，此案或引发行业对**数据滥用与成瘾营销**的全面审查。
-
----
-
-## <a name="17"></a>17. 强化学习：综述 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2412.05265): Reinforcement Learning: An Overview</small>
-
-
-| 🔥: 72 \| 💬: [10](https://news.ycombinator.com/item?id=42910028) \| 🗓️ 2025-02-02
-
-
-<br />
-本文全面概述了（深度）强化学习与序列决策领域的最新进展，涵盖**基于价值的强化学习**、**策略梯度方法**、**基于模型的方法**等核心方向，并简要探讨了强化学习与大语言模型（LLMs）的结合。作者Kevin Murphy系统梳理了相关技术脉络与未来趋势。
-
----
-
-## <a name="18"></a>18. C++26 的 F-strings 提案 [PDF] 
+## <a name="16"></a>16. C++26 的 F-strings 提案 [PDF] 
 <small>🔗 [open-std.org](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3412r0.pdf): F-strings for C++26 proposal [pdf]</small>
 
 
-| 🔥: 69 \| 💬: [29](https://news.ycombinator.com/item?id=42912438) \| 🗓️ 2025-02-02
+| 🔥: 77 \| 💬: [33](https://news.ycombinator.com/item?id=42912438) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -241,11 +217,35 @@ Lume 是一款基于 **Apple Virtualization.Framework** 的轻量级命令行工
 
 ---
 
+## <a name="17"></a>17. 英国博彩巨头非法营销致赌徒深陷泥潭 
+<small>🔗 [theguardian.com](https://www.theguardian.com/society/2025/feb/01/i-lost-10-years-of-my-life-how-uk-betting-giants-unlawful-marketing-kept-suicidal-gambler-hooked): UK betting giant's unlawful marketing kept suicidal gambler hooked</small>
+
+
+| 🔥: 76 \| 💬: [69](https://news.ycombinator.com/item?id=42910983) \| 🗓️ 2025-02-02
+
+
+<br />
+英国高等法院裁定**Sky Bet**对一名有自杀倾向的成瘾赌徒实施非法定向营销。该赌徒（化名Sam）在2017-2019年间被标记为**“高价值客户”**，公司通过分析其2.4万份数据（包括消费习惯与游戏时间）发送1389封促销邮件，成功率高达98%。法官认定，Sam因赌博成瘾丧失自主决策能力，企业利用其脆弱心理进行数据追踪与精准推送的行为违法。尽管Sky Bet辩称已改进风控并考虑上诉，此案或引发行业对**数据滥用与成瘾营销**的全面审查。
+
+---
+
+## <a name="18"></a>18. 强化学习：综述 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2412.05265): Reinforcement Learning: An Overview</small>
+
+
+| 🔥: 72 \| 💬: [11](https://news.ycombinator.com/item?id=42910028) \| 🗓️ 2025-02-02
+
+
+<br />
+本文全面概述了（深度）强化学习与序列决策领域的最新进展，涵盖**基于价值的强化学习**、**策略梯度方法**、**基于模型的方法**等核心方向，并简要探讨了强化学习与大语言模型（LLMs）的结合。作者Kevin Murphy系统梳理了相关技术脉络与未来趋势。
+
+---
+
 ## <a name="19"></a>19. ScatterBrain：揭秘PoisonPlug混淆器的隐匿威胁 
 <small>🔗 [cloud.google.com](https://cloud.google.com/blog/topics/threat-intelligence/scatterbrain-unmasking-poisonplug-obfuscator): ScatterBrain: Unmasking the shadow of PoisonPlug's obfuscator</small>
 
 
-| 🔥: 63 \| 💬: [7](https://news.ycombinator.com/item?id=42911162) \| 🗓️ 2025-02-02
+| 🔥: 65 \| 💬: [7](https://news.ycombinator.com/item?id=42911162) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -257,7 +257,7 @@ Google威胁情报小组（GTIG）追踪到中国关联组织使用**POISONPLUG.
 <small>🔗 [github.com](https://github.com/esbudylin/modest): Show HN: Modest – musical harmony library for Lua</small>
 
 
-| 🔥: 62 \| 💬: [6](https://news.ycombinator.com/item?id=42907765) \| 🗓️ 2025-02-02
+| 🔥: 63 \| 💬: [6](https://news.ycombinator.com/item?id=42907765) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -265,7 +265,31 @@ Google威胁情报小组（GTIG）追踪到中国关联组织使用**POISONPLUG.
 
 ---
 
-## <a name="21"></a>21. 19岁DOGE员工“大球”获美财政部无限制访问权限 
+## <a name="21"></a>21. 马斯克称狗狗币导致美财政部暂停向承包商付款 
+<small>🔗 [fortune.com](https://fortune.com/2025/02/02/musk-doge-treasury-payments-system-halt-us-govenment-contractors-lutheran-charity/): Musk says DOGE is halting Treasury payments to US contractors</small>
+
+
+| 🔥: 54 \| 💬: [29](https://news.ycombinator.com/item?id=42914425) \| 🗓️ 2025-02-02
+
+
+<br />
+埃隆·马斯克公开表示，**狗狗币（DOGE）**相关活动已迫使**美国财政部**暂停向国内承包商支付款项。该声明发表于其近期参与的就职活动期间，但未提供具体细节或证据。彭博社报道指出，此言论引发市场对加密货币政策影响的关注，但财政部尚未正式回应这一指控。
+
+---
+
+## <a name="22"></a>22. Show HN: 土拨鼠AI春日API 
+<small>🔗 [groundhog-day.com](https://groundhog-day.com/api): Show HN: Groundhog AI Spring API</small>
+
+
+| 🔥: 50 \| 💬: [19](https://news.ycombinator.com/item?id=42910105) \| 🗓️ 2025-02-02
+
+
+<br />
+该API提供北美地区所有**气象预测动物**及其年度天气预测数据，支持通过三个**GET请求端点**获取全部/单个土拨鼠信息或指定年份预测结果。数据更新需通过官网提交，不开放API修改。包含OpenAPI架构，适用于构建**GaaP（土拨鼠即平台）**等企业级应用，为商业项目提供基础数据支持。
+
+---
+
+## <a name="23"></a>23. 19岁DOGE员工“大球”获美财政部无限制访问权限 
 <small>🔗 [bsky.app](https://bsky.app/profile/jsweetli.bsky.social/post/3lh5hr3hsc22k): 19 y/o DOGE employee "Big Balls" given unfettered access to Treasury Department</small>
 
 
@@ -277,35 +301,11 @@ Google威胁情报小组（GTIG）追踪到中国关联组织使用**POISONPLUG.
 
 ---
 
-## <a name="22"></a>22. Show HN: 土拨鼠AI春日API 
-<small>🔗 [groundhog-day.com](https://groundhog-day.com/api): Show HN: Groundhog AI Spring API</small>
-
-
-| 🔥: 49 \| 💬: [19](https://news.ycombinator.com/item?id=42910105) \| 🗓️ 2025-02-02
-
-
-<br />
-该API提供北美地区所有**气象预测动物**及其年度天气预测数据，支持通过三个**GET请求端点**获取全部/单个土拨鼠信息或指定年份预测结果。数据更新需通过官网提交，不开放API修改。包含OpenAPI架构，适用于构建**GaaP（土拨鼠即平台）**等企业级应用，为商业项目提供基础数据支持。
-
----
-
-## <a name="23"></a>23. 为何AI生成内容读起来令人不适？ 
-<small>🔗 [seangoedecke.com](https://www.seangoedecke.com/on-slop/): Why does AI slop feel so bad to read?</small>
-
-
-| 🔥: 46 \| 💬: [26](https://news.ycombinator.com/item?id=42909042) \| 🗓️ 2025-02-02
-
-
-<br />
-当**AI垃圾内容**伪装成人类创作（如社交媒体推文）时，会触发**恐怖谷效应**——读者从“人际互动”模式被迫切换至“人机互动”，产生被欺骗感。这种不适源于AI内容的三大缺陷：内容中庸、套话冗余、缺乏作者人格一致性。相比之下，明确标注AI身份（如ChatGPT）或非深度阅读场景（如图像浏览）则无此困扰。解决前两点或许能改善体验，但人格化仍是核心难题。
-
----
-
 ## <a name="24"></a>24. 马斯克获美财政部支付系统权限后承诺终止资助计划 
 <small>🔗 [ft.com](https://www.ft.com/content/27ba0a6a-0d9b-4e08-8329-730b581c0481): Musk vows to cancel grants after gaining access to US Treasury payment system</small>
 
 
-| 🔥: 40 \| 💬: [12](https://news.ycombinator.com/item?id=42910345) \| 🗓️ 2025-02-02
+| 🔥: 47 \| 💬: [14](https://news.ycombinator.com/item?id=42910345) \| 🗓️ 2025-02-02
 
 
 <br />
@@ -313,14 +313,14 @@ Google威胁情报小组（GTIG）追踪到中国关联组织使用**POISONPLUG.
 
 ---
 
-## <a name="25"></a>25. 为何这位CEO炫耀用AI取代人类？ 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/02/business/klarna-ceo-ai.html): Why Is This CEO Bragging About Replacing Humans with A.I.?</small>
+## <a name="25"></a>25. 为何AI生成内容读起来令人不适？ 
+<small>🔗 [seangoedecke.com](https://www.seangoedecke.com/on-slop/): Why does AI slop feel so bad to read?</small>
 
 
-| 🔥: 36 \| 💬: [32](https://news.ycombinator.com/item?id=42911054) \| 🗓️ 2025-02-02
+| 🔥: 46 \| 💬: [27](https://news.ycombinator.com/item?id=42909042) \| 🗓️ 2025-02-02
 
 
 <br />
-Klarna首席执行官Sebastian Siemiatkowski多次强调**生成式AI**大幅降低人力成本：营销节省$1000万/年，法律合同处理时间从1小时缩至10分钟，**AI客服替代700名客服**且效率提升9分钟。他甚至用**AI替身**发布财报，直言“AI已能胜任人类所有工作”。此举远超IBM等企业对AI辅助角色的温和定位，引发对自动化替代的伦理争议。
+当**AI垃圾内容**伪装成人类创作（如社交媒体推文）时，会触发**恐怖谷效应**——读者从“人际互动”模式被迫切换至“人机互动”，产生被欺骗感。这种不适源于AI内容的三大缺陷：内容中庸、套话冗余、缺乏作者人格一致性。相比之下，明确标注AI身份（如ChatGPT）或非深度阅读场景（如图像浏览）则无此困扰。解决前两点或许能改善体验，但人格化仍是核心难题。
 
 ---
