@@ -12,7 +12,7 @@ tags:
 1. Show HN: AI公司研究助手；
 1. 美法案提议对下载深度求索用户实施监禁；
 1. Httptap：查看任意Linux程序的HTTP/HTTPS请求；
-1. YouTube频道因“垃圾信息与欺骗政策”遭删除；
+1. Show HN：将视频转化为纸质手翻书是我的工作；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [ticotimes.net](https://ticotimes.net/2025/02/02/el-salvador-abandons-bitcoin-as-legal-tender-after-failed-experiment): El Salvador abandons Bitcoin as legal tender after failed experiment</small>
 
 
-| 🔥🔥: 516 \| 💬: [347](https://news.ycombinator.com/item?id=42925210) \| 🗓️ 2025-02-03
+| 🔥🔥: 587 \| 💬: [417](https://news.ycombinator.com/item?id=42925210) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -48,10 +48,10 @@ tags:
 ---
 
 ## <a name="3"></a>3. 美法案提议对下载深度求索用户实施监禁 
-<small>🔗 [404media.co](https://www.404media.co/senator-hawley-proposes-jail-time-for-people-who-download-deepseek/): US Bill Proposes Jail Time for People Who Download DeepSeek</small>
+<small>🔗 [404media.co](https://www.404media.co/senator-hawley-proposes-jail-time-for-people-who-download-deepseek/): US bill proposes jail time for people who download DeepSeek</small>
 
 
-| 🔥🔥: 432 \| 💬: [251](https://news.ycombinator.com/item?id=42925001) \| 🗓️ 2025-02-03
+| 🔥🔥: 450 \| 💬: [262](https://news.ycombinator.com/item?id=42925001) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [github.com](https://github.com/monasticacademy/httptap): Httptap: View HTTP/HTTPS requests made by any Linux program</small>
 
 
-| 🔥🔥: 403 \| 💬: [100](https://news.ycombinator.com/item?id=42919909) \| 🗓️ 2025-02-03
+| 🔥🔥: 430 \| 💬: [103](https://news.ycombinator.com/item?id=42919909) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -71,23 +71,11 @@ tags:
 
 ---
 
-## <a name="5"></a>5. YouTube频道因“垃圾信息与欺骗政策”遭删除 
-<small>🔗 [bsky.app](https://bsky.app/profile/sinevibes.bsky.social/post/3lhazuyn5as2t): Our channel on YouTube has been deleted due to “spam and deceptive policies”</small>
-
-
-| 🔥🔥: 367 \| 💬: [106](https://news.ycombinator.com/item?id=42917454) \| 🗓️ 2025-02-03
-
-
-<br />
-Sinevibes品牌在社交平台遭遇**史上最意外事件**：其YouTube频道因涉嫌**“垃圾与欺骗内容”**被平台删除。该频道仅发布过原创音频产品演示视频，从未涉及其他内容。事件发生于2025年2月3日，官方表示震惊并通过Bluesky社交平台发声，强调内容合规性。
-
----
-
-## <a name="6"></a>6. Show HN：将视频转化为纸质手翻书是我的工作 
+## <a name="5"></a>5. Show HN：将视频转化为纸质手翻书是我的工作 
 <small>🔗 [videotoflip.com](https://www.videotoflip.com/): Show HN: I convert videos to printed flipbooks for living</small>
 
 
-| 🔥🔥: 365 \| 💬: [87](https://news.ycombinator.com/item?id=42918902) \| 🗓️ 2025-02-03
+| 🔥🔥: 373 \| 💬: [88](https://news.ycombinator.com/item?id=42918902) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -95,11 +83,23 @@ Sinevibes品牌在社交平台遭遇**史上最意外事件**：其YouTube频道
 
 ---
 
+## <a name="6"></a>6. YouTube频道因“垃圾信息与欺骗政策”遭删除 
+<small>🔗 [bsky.app](https://bsky.app/profile/sinevibes.bsky.social/post/3lhazuyn5as2t): Our channel on YouTube has been deleted due to “spam and deceptive policies”</small>
+
+
+| 🔥🔥: 368 \| 💬: [106](https://news.ycombinator.com/item?id=42917454) \| 🗓️ 2025-02-03
+
+
+<br />
+Sinevibes品牌在社交平台遭遇**史上最意外事件**：其YouTube频道因涉嫌**“垃圾与欺骗内容”**被平台删除。该频道仅发布过原创音频产品演示视频，从未涉及其他内容。事件发生于2025年2月3日，官方表示震惊并通过Bluesky社交平台发声，强调内容合规性。
+
+---
+
 ## <a name="7"></a>7. 用C语言实现WebAssembly虚拟机的探索之旅 
 <small>🔗 [irreducible.io](https://irreducible.io/blog/my-wasm-interpreter/): I Wrote a WebAssembly VM in C</small>
 
 
-| 🔥🔥: 249 \| 💬: [55](https://news.ycombinator.com/item?id=42918524) \| 🗓️ 2025-02-03
+| 🔥🔥: 256 \| 💬: [59](https://news.ycombinator.com/item?id=42918524) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -107,7 +107,19 @@ Sinevibes品牌在社交平台遭遇**史上最意外事件**：其YouTube频道
 
 ---
 
-## <a name="8"></a>8. Bluesky用户突破3000万 
+## <a name="8"></a>8. 开发者哲学 
+<small>🔗 [qntm.org](https://qntm.org/devphilo): Developer Philosophy</small>
+
+
+| 🔥🔥: 201 \| 💬: [48](https://news.ycombinator.com/item?id=42920285) \| 🗓️ 2025-02-03
+
+
+<br />
+避免**彻底重写代码**的诱惑，通过持续优化技术债务与复杂性管理防患未然。开发时应**规划前90%任务占50%时间**，预留充足资源应对测试、文档与边缘情况。**自动化规范执行**比反复提醒更可靠，例如通过测试强制规则。此外，代码需关注异常数据、追求简洁性，并通过可测试性与显式正确性提升维护性。
+
+---
+
+## <a name="9"></a>9. Bluesky用户突破3000万 
 <small>🔗 [bsky.app](https://bsky.app/profile/bsky.app/post/3lgu4lg6j2k2v): Bluesky now has 30 million users</small>
 
 
@@ -119,47 +131,11 @@ Sinevibes品牌在社交平台遭遇**史上最意外事件**：其YouTube频道
 
 ---
 
-## <a name="9"></a>9. 开发者哲学 
-<small>🔗 [qntm.org](https://qntm.org/devphilo): Developer Philosophy</small>
-
-
-| 🔥🔥: 189 \| 💬: [48](https://news.ycombinator.com/item?id=42920285) \| 🗓️ 2025-02-03
-
-
-<br />
-避免**彻底重写代码**的诱惑，通过持续优化技术债务与复杂性管理防患未然。开发时应**规划前90%任务占50%时间**，预留充足资源应对测试、文档与边缘情况。**自动化规范执行**比反复提醒更可靠，例如通过测试强制规则。此外，代码需关注异常数据、追求简洁性，并通过可测试性与显式正确性提升维护性。
-
----
-
-## <a name="10"></a>10. 任何初现端倪的亚文化在起步前即遭商品化（2014） 
-<small>🔗 [dezeen.com](https://www.dezeen.com/2014/12/18/william-gibson-subculture-commodification-london-justin-mcguirk-opinion/): Anything threatening to be a subculture is commodified before it can walk (2014)</small>
-
-
-| 🔥🔥: 183 \| 💬: [197](https://news.ycombinator.com/item?id=42917680) \| 🗓️ 2025-02-03
-
-
-<br />
-威廉·吉布森在《边缘》等作品中，通过**物质主义、科技与设计的交织**，探讨后人类时代的人性危机。其「蓝蚁三部曲」以当代消费社会为舞台，塑造了**品牌过敏症患者**与**恋物癖收藏家**等角色，揭示晚期资本主义如何将亚文化符号转化为商品。书中营销巨头Bigend深谙「反潮流即新潮流」，体现企业体系对设计前沿的吞噬。吉布森预言的双线未来——2030年代由3D打印主导的垄断经济与2100年意识寄存于**虚拟化身**的生态崩坏世界——正通过当前技术路径逐渐成形，最终动摇「人类」的本质定义。
-
----
-
-## <a name="11"></a>11. 他因身份盗窃入狱，但身份本属自己 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/03/us/iowa-identity-theft-sentencing.html): He went to jail for stealing someone's identity, but it was his all along</small>
-
-
-| 🔥🔥: 181 \| 💬: [174](https://news.ycombinator.com/item?id=42918644) \| 🗓️ 2025-02-03
-
-
-<br />
-William Woods的**身份遭Matthew Keirans盗用数十年**，反被司法系统误判监禁与强制治疗。Keirans冒用其名建立生活，最终被判12年监禁。案件暴露**司法系统对身份核实的信任漏洞**，受害者历经流落街头、法庭自证后，仍在努力重建人生。
-
----
-
-## <a name="12"></a>12. 美国正经历一场无声政变 
+## <a name="10"></a>10. 美国正经历一场无声政变 
 <small>🔗 [techdirt.com](https://www.techdirt.com/2025/02/03/a-coup-is-in-progress-in-america/): A Coup Is in Progress in America</small>
 
 
-| 🔥🔥: 180 \| 💬: [80](https://news.ycombinator.com/item?id=42925782) \| 🗓️ 2025-02-03
+| 🔥🔥: 192 \| 💬: [87](https://news.ycombinator.com/item?id=42925782) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -167,23 +143,23 @@ William Woods的**身份遭Matthew Keirans盗用数十年**，反被司法系统
 
 ---
 
-## <a name="13"></a>13. 《漫威对决》游戏存在远程代码执行漏洞 
-<small>🔗 [shalzuth.com](https://shalzuth.com/Blog/IFoundAGameExploit): Remote Code Execution in Marvel Rivals Game</small>
+## <a name="11"></a>11. 任何初现端倪的亚文化在起步前即遭商品化（2014） 
+<small>🔗 [dezeen.com](https://www.dezeen.com/2014/12/18/william-gibson-subculture-commodification-london-justin-mcguirk-opinion/): Anything threatening to be a subculture is commodified before it can walk (2014)</small>
 
 
-| 🔥🔥: 173 \| 💬: [113](https://news.ycombinator.com/item?id=42920962) \| 🗓️ 2025-02-03
+| 🔥🔥: 190 \| 💬: [209](https://news.ycombinator.com/item?id=42917680) \| 🗓️ 2025-02-03
 
 
 <br />
-安全研究员发现该游戏因**热修复系统未验证服务器身份**且以**管理员权限运行**，导致同一局域网内攻击者可利用**远程代码执行（RCE）**漏洞操控他人设备。该漏洞还可能影响PS5平台，部分游戏厂商对漏洞响应迟缓且缺乏漏洞赏金机制，加剧安全风险。研究员呼吁行业重视游戏安全建设。
+威廉·吉布森在《边缘》等作品中，通过**物质主义、科技与设计的交织**，探讨后人类时代的人性危机。其「蓝蚁三部曲」以当代消费社会为舞台，塑造了**品牌过敏症患者**与**恋物癖收藏家**等角色，揭示晚期资本主义如何将亚文化符号转化为商品。书中营销巨头Bigend深谙「反潮流即新潮流」，体现企业体系对设计前沿的吞噬。吉布森预言的双线未来——2030年代由3D打印主导的垄断经济与2100年意识寄存于**虚拟化身**的生态崩坏世界——正通过当前技术路径逐渐成形，最终动摇「人类」的本质定义。
 
 ---
 
-## <a name="14"></a>14. 欧盟正式禁止具有"不可接受风险"的AI系统 
+## <a name="12"></a>12. 欧盟正式禁止具有"不可接受风险"的AI系统 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/): AI systems with 'unacceptable risk' are now banned in the EU</small>
 
 
-| 🔥🔥: 170 \| 💬: [151](https://news.ycombinator.com/item?id=42916849) \| 🗓️ 2025-02-03
+| 🔥🔥: 188 \| 💬: [161](https://news.ycombinator.com/item?id=42916849) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -193,11 +169,35 @@ William Woods的**身份遭Matthew Keirans盗用数十年**，反被司法系统
 
 ---
 
+## <a name="13"></a>13. 他因身份盗窃入狱，但身份本属自己 
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/03/us/iowa-identity-theft-sentencing.html): He went to jail for stealing someone's identity, but it was his all along</small>
+
+
+| 🔥🔥: 187 \| 💬: [178](https://news.ycombinator.com/item?id=42918644) \| 🗓️ 2025-02-03
+
+
+<br />
+William Woods的**身份遭Matthew Keirans盗用数十年**，反被司法系统误判监禁与强制治疗。Keirans冒用其名建立生活，最终被判12年监禁。案件暴露**司法系统对身份核实的信任漏洞**，受害者历经流落街头、法庭自证后，仍在努力重建人生。
+
+---
+
+## <a name="14"></a>14. 《漫威对决》游戏存在远程代码执行漏洞 
+<small>🔗 [shalzuth.com](https://shalzuth.com/Blog/IFoundAGameExploit): Remote Code Execution in Marvel Rivals Game</small>
+
+
+| 🔥🔥: 175 \| 💬: [113](https://news.ycombinator.com/item?id=42920962) \| 🗓️ 2025-02-03
+
+
+<br />
+安全研究员发现该游戏因**热修复系统未验证服务器身份**且以**管理员权限运行**，导致同一局域网内攻击者可利用**远程代码执行（RCE）**漏洞操控他人设备。该漏洞还可能影响PS5平台，部分游戏厂商对漏洞响应迟缓且缺乏漏洞赏金机制，加剧安全风险。研究员呼吁行业重视游戏安全建设。
+
+---
+
 ## <a name="15"></a>15. 《解密肯尼迪与马丁·路德·金遇刺档案的行政命令》 
 <small>🔗 [govinfo.gov](https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02116.pdf): Order Declassifying JFK and MLK Assassination Records [pdf]</small>
 
 
-| 🔥🔥: 159 \| 💬: [119](https://news.ycombinator.com/item?id=42925712) \| 🗓️ 2025-02-03
+| 🔥🔥: 173 \| 💬: [134](https://news.ycombinator.com/item?id=42925712) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -209,7 +209,7 @@ William Woods的**身份遭Matthew Keirans盗用数十年**，反被司法系统
 <small>🔗 [eli.thegreenplace.net](https://eli.thegreenplace.net/2025/decorator-jits-python-as-a-dsl/): Decorator JITs: Python as a DSL</small>
 
 
-| 🔥🔥: 144 \| 💬: [34](https://news.ycombinator.com/item?id=42918846) \| 🗓️ 2025-02-03
+| 🔥🔥: 150 \| 💬: [35](https://news.ycombinator.com/item?id=42918846) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -221,7 +221,7 @@ Python在机器学习中常通过**JIT装饰器**将函数转换为领域专用�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2501.19201): Efficient Reasoning with Hidden Thinking</small>
 
 
-| 🔥🔥: 139 \| 💬: [34](https://news.ycombinator.com/item?id=42919597) \| 🗓️ 2025-02-03
+| 🔥🔥: 140 \| 💬: [36](https://news.ycombinator.com/item?id=42919597) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -245,7 +245,7 @@ Python在机器学习中常通过**JIT装饰器**将函数转换为领域专用�
 <small>🔗 [brainbun.com](https://www.brainbun.com/blog/i-conditioned-myself-to-fail/): I Conditioned Myself to Fail</small>
 
 
-| 🔥🔥: 131 \| 💬: [63](https://news.ycombinator.com/item?id=42919788) \| 🗓️ 2025-02-03
+| 🔥🔥: 132 \| 💬: [65](https://news.ycombinator.com/item?id=42919788) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -257,7 +257,7 @@ Python在机器学习中常通过**JIT装饰器**将函数转换为领域专用�
 <small>🔗 [chrissardegna.com](https://chrissardegna.com/blog/reverse-engineering-apples-typedstream-format/): Reverse Engineering Apple's typedstream Format</small>
 
 
-| 🔥🔥: 110 \| 💬: [18](https://news.ycombinator.com/item?id=42919221) \| 🗓️ 2025-02-03
+| 🔥🔥: 113 \| 💬: [20](https://news.ycombinator.com/item?id=42919221) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -269,7 +269,7 @@ Python在机器学习中常通过**JIT装饰器**将函数转换为领域专用�
 <small>🔗 [openeurollm.eu](https://openeurollm.eu/launch-press-release): Open Euro LLM: Open LLMs for Transparent AI in Europe</small>
 
 
-| 🔥🔥: 107 \| 💬: [39](https://news.ycombinator.com/item?id=42922989) \| 🗓️ 2025-02-03
+| 🔥🔥: 112 \| 💬: [45](https://news.ycombinator.com/item?id=42922989) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -305,7 +305,7 @@ Klarity 是专注于生成式模型预测不确定性的分析工具，结合**�
 <small>🔗 [island94.org](https://island94.org/2025/01/ruby-thread-contention-simply-gvl-queuing): Ruby “Thread Contention” Is Simply GVL Queuing</small>
 
 
-| 🔥: 90 \| 💬: [43](https://news.ycombinator.com/item?id=42916203) \| 🗓️ 2025-02-03
+| 🔥: 90 \| 💬: [44](https://news.ycombinator.com/item?id=42916203) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -319,7 +319,7 @@ Klarity 是专注于生成式模型预测不确定性的分析工具，结合**�
 <small>🔗 [wh47.substack.com](https://wh47.substack.com/p/ongoing-coup): Coup</small>
 
 
-| 🔥: 67 \| 💬: [12](https://news.ycombinator.com/item?id=42920437) \| 🗓️ 2025-02-03
+| 🔥: 67 \| 💬: [11](https://news.ycombinator.com/item?id=42920437) \| 🗓️ 2025-02-03
 
 
 <br />
