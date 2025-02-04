@@ -39,7 +39,7 @@ tags:
 <small>🔗 [bsky.app](https://bsky.app/profile/sinevibes.bsky.social/post/3lhazuyn5as2t): Our channel on YouTube has been deleted due to “spam and deceptive policies”</small>
 
 
-| 🔥🔥: 365 \| 💬: [106](https://news.ycombinator.com/item?id=42917454) \| 🗓️ 2025-02-03
+| 🔥🔥: 366 \| 💬: [106](https://news.ycombinator.com/item?id=42917454) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -51,7 +51,7 @@ Sinevibes品牌在社交平台遭遇**史上最意外事件**：其YouTube频道
 <small>🔗 [github.com](https://github.com/monasticacademy/httptap): Httptap: View HTTP/HTTPS requests made by any Linux program</small>
 
 
-| 🔥🔥: 318 \| 💬: [86](https://news.ycombinator.com/item?id=42919909) \| 🗓️ 2025-02-03
+| 🔥🔥: 344 \| 💬: [91](https://news.ycombinator.com/item?id=42919909) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -63,7 +63,7 @@ Sinevibes品牌在社交平台遭遇**史上最意外事件**：其YouTube频道
 <small>🔗 [videotoflip.com](https://www.videotoflip.com/): Show HN: I convert videos to printed flipbooks for living</small>
 
 
-| 🔥🔥: 308 \| 💬: [71](https://news.ycombinator.com/item?id=42918902) \| 🗓️ 2025-02-03
+| 🔥🔥: 323 \| 💬: [77](https://news.ycombinator.com/item?id=42918902) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -75,7 +75,7 @@ Sinevibes品牌在社交平台遭遇**史上最意外事件**：其YouTube频道
 <small>🔗 [irreducible.io](https://irreducible.io/blog/my-wasm-interpreter/): I Wrote a WebAssembly VM in C</small>
 
 
-| 🔥🔥: 218 \| 💬: [49](https://news.ycombinator.com/item?id=42918524) \| 🗓️ 2025-02-03
+| 🔥🔥: 226 \| 💬: [49](https://news.ycombinator.com/item?id=42918524) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -87,7 +87,7 @@ Sinevibes品牌在社交平台遭遇**史上最意外事件**：其YouTube频道
 <small>🔗 [bsky.app](https://bsky.app/profile/bsky.app/post/3lgu4lg6j2k2v): Bluesky now has 30 million users</small>
 
 
-| 🔥🔥: 187 \| 💬: [150](https://news.ycombinator.com/item?id=42916770) \| 🗓️ 2025-02-03
+| 🔥🔥: 188 \| 💬: [150](https://news.ycombinator.com/item?id=42916770) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -99,7 +99,7 @@ Sinevibes品牌在社交平台遭遇**史上最意外事件**：其YouTube频道
 <small>🔗 [shalzuth.com](https://shalzuth.com/Blog/IFoundAGameExploit): Remote Code Execution in Marvel Rivals Game</small>
 
 
-| 🔥🔥: 155 \| 💬: [91](https://news.ycombinator.com/item?id=42920962) \| 🗓️ 2025-02-03
+| 🔥🔥: 164 \| 💬: [101](https://news.ycombinator.com/item?id=42920962) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -111,7 +111,7 @@ Sinevibes品牌在社交平台遭遇**史上最意外事件**：其YouTube频道
 <small>🔗 [dezeen.com](https://www.dezeen.com/2014/12/18/william-gibson-subculture-commodification-london-justin-mcguirk-opinion/): Anything threatening to be a subculture is commodified before it can walk (2014)</small>
 
 
-| 🔥🔥: 142 \| 💬: [174](https://news.ycombinator.com/item?id=42917680) \| 🗓️ 2025-02-03
+| 🔥🔥: 155 \| 💬: [180](https://news.ycombinator.com/item?id=42917680) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -123,7 +123,7 @@ Sinevibes品牌在社交平台遭遇**史上最意外事件**：其YouTube频道
 <small>🔗 [qntm.org](https://qntm.org/devphilo): Developer Philosophy</small>
 
 
-| 🔥🔥: 141 \| 💬: [41](https://news.ycombinator.com/item?id=42920285) \| 🗓️ 2025-02-03
+| 🔥🔥: 149 \| 💬: [45](https://news.ycombinator.com/item?id=42920285) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -131,23 +131,11 @@ Sinevibes品牌在社交平台遭遇**史上最意外事件**：其YouTube频道
 
 ---
 
-## <a name="10"></a>10. 装饰器化JIT：将Python作为领域专用语言 
-<small>🔗 [eli.thegreenplace.net](https://eli.thegreenplace.net/2025/decorator-jits-python-as-a-dsl/): Decorator JITs: Python as a DSL</small>
-
-
-| 🔥🔥: 124 \| 💬: [29](https://news.ycombinator.com/item?id=42918846) \| 🗓️ 2025-02-03
-
-
-<br />
-Python在机器学习中常通过**JIT装饰器**将函数转换为领域专用语言（DSL），如JAX和Triton通过装饰器拦截代码，利用内部编译器生成LLVM IR并执行。文章解析三种实现策略：**基于AST的JIT**（解析抽象语法树）、**字节码JIT**（反编译Python字节码）和**追踪JIT**（运行时捕获计算图）。案例包括Triton的GPU内核编译与Numba的优化流程，展示了如何将Python代码隐式转换为高性能中间表示，最终通过LLVM实现跨平台执行。
-
----
-
-## <a name="11"></a>11. 他因身份盗窃入狱，但身份本属自己 
+## <a name="10"></a>10. 他因身份盗窃入狱，但身份本属自己 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/03/us/iowa-identity-theft-sentencing.html): He went to jail for stealing someone's identity, but it was his all along</small>
 
 
-| 🔥🔥: 121 \| 💬: [125](https://news.ycombinator.com/item?id=42918644) \| 🗓️ 2025-02-03
+| 🔥🔥: 141 \| 💬: [147](https://news.ycombinator.com/item?id=42918644) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -155,35 +143,23 @@ William Woods的**身份遭Matthew Keirans盗用数十年**，反被司法系统
 
 ---
 
-## <a name="12"></a>12. 高效推理中的隐式思维机制 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2501.19201): Efficient Reasoning with Hidden Thinking</small>
+## <a name="11"></a>11. 装饰器化JIT：将Python作为领域专用语言 
+<small>🔗 [eli.thegreenplace.net](https://eli.thegreenplace.net/2025/decorator-jits-python-as-a-dsl/): Decorator JITs: Python as a DSL</small>
 
 
-| 🔥🔥: 117 \| 💬: [33](https://news.ycombinator.com/item?id=42919597) \| 🗓️ 2025-02-03
-
-
-<br />
-针对多模态大语言模型（MLLM）**Chain-of-Thought（CoT）推理过程冗长低效**的问题，研究者提出**Heima框架**，通过隐式空间压缩推理路径。其核心创新包括：**隐式思维单元**（Heima Encoder）将中间推理步骤压缩为单token的隐藏表征，显著减少推理耗时；结合**自适应解码器**（Heima Decoder）将隐藏表征还原为可解释的文本序列。实验证明该方法在提升生成效率的同时保持任务准确率，并通过多模态推理路径重构验证了鲁棒性与可解释性。
-
----
-
-## <a name="13"></a>13. 我把自己训练成了失败者 
-<small>🔗 [brainbun.com](https://www.brainbun.com/blog/i-conditioned-myself-to-fail/): I Conditioned Myself to Fail</small>
-
-
-| 🔥🔥: 116 \| 💬: [48](https://news.ycombinator.com/item?id=42919788) \| 🗓️ 2025-02-03
+| 🔥🔥: 127 \| 💬: [29](https://news.ycombinator.com/item?id=42918846) \| 🗓️ 2025-02-03
 
 
 <br />
-作者多年开发数百个项目，却陷入**高强度开发→短暂推广→迅速放弃**的循环。初期充满激情，但发布后立即失去动力，根源在于**信息成瘾**——从编码中获得即时反馈（如界面变化），而产品上线后缺乏持续刺激。即使无负面评价，也因市场冷遇陷入自我怀疑。他认为算法推荐（如Twitter/X）加剧了对碎片化多巴胺的依赖，削弱了长期打磨产品的耐心，最终**习惯性放弃**成为潜意识选择。
+Python在机器学习中常通过**JIT装饰器**将函数转换为领域专用语言（DSL），如JAX和Triton通过装饰器拦截代码，利用内部编译器生成LLVM IR并执行。文章解析三种实现策略：**基于AST的JIT**（解析抽象语法树）、**字节码JIT**（反编译Python字节码）和**追踪JIT**（运行时捕获计算图）。案例包括Triton的GPU内核编译与Numba的优化流程，展示了如何将Python代码隐式转换为高性能中间表示，最终通过LLVM实现跨平台执行。
 
 ---
 
-## <a name="14"></a>14. 计算机永远无法承担问责责任 
+## <a name="12"></a>12. 计算机永远无法承担问责责任 
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/): A computer can never be held accountable</small>
 
 
-| 🔥🔥: 114 \| 💬: [70](https://news.ycombinator.com/item?id=42923870) \| 🗓️ 2025-02-03
+| 🔥🔥: 127 \| 💬: [100](https://news.ycombinator.com/item?id=42923870) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -191,11 +167,49 @@ William Woods的**身份遭Matthew Keirans盗用数十年**，反被司法系统
 
 ---
 
-## <a name="15"></a>15. 逆向解析Apple的typedstream二进制序列化协议 
+## <a name="13"></a>13. 高效推理中的隐式思维机制 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2501.19201): Efficient Reasoning with Hidden Thinking</small>
+
+
+| 🔥🔥: 122 \| 💬: [33](https://news.ycombinator.com/item?id=42919597) \| 🗓️ 2025-02-03
+
+
+<br />
+针对多模态大语言模型（MLLM）**Chain-of-Thought（CoT）推理过程冗长低效**的问题，研究者提出**Heima框架**，通过隐式空间压缩推理路径。其核心创新包括：**隐式思维单元**（Heima Encoder）将中间推理步骤压缩为单token的隐藏表征，显著减少推理耗时；结合**自适应解码器**（Heima Decoder）将隐藏表征还原为可解释的文本序列。实验证明该方法在提升生成效率的同时保持任务准确率，并通过多模态推理路径重构验证了鲁棒性与可解释性。
+
+---
+
+## <a name="14"></a>14. 我把自己训练成了失败者 
+<small>🔗 [brainbun.com](https://www.brainbun.com/blog/i-conditioned-myself-to-fail/): I Conditioned Myself to Fail</small>
+
+
+| 🔥🔥: 121 \| 💬: [51](https://news.ycombinator.com/item?id=42919788) \| 🗓️ 2025-02-03
+
+
+<br />
+作者多年开发数百个项目，却陷入**高强度开发→短暂推广→迅速放弃**的循环。初期充满激情，但发布后立即失去动力，根源在于**信息成瘾**——从编码中获得即时反馈（如界面变化），而产品上线后缺乏持续刺激。即使无负面评价，也因市场冷遇陷入自我怀疑。他认为算法推荐（如Twitter/X）加剧了对碎片化多巴胺的依赖，削弱了长期打磨产品的耐心，最终**习惯性放弃**成为潜意识选择。
+
+---
+
+## <a name="15"></a>15. 欧盟正式禁止具有"不可接受风险"的AI系统 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/): AI systems with 'unacceptable risk' are now banned in the EU</small>
+
+
+| 🔥🔥: 107 \| 💬: [102](https://news.ycombinator.com/item?id=42916849) \| 🗓️ 2025-02-03
+
+
+<br />
+欧盟自2月2日起实施《人工智能法案》，全面禁止被认定为**不可接受风险**的AI应用，包括社会信用评分、实时生物识别监控、基于外貌预测犯罪等场景。违规企业将面临最高**7%年收入或3500万欧元**罚款（取金额较高者）。首批合规要求聚焦高风险领域，**2024年8月**将启动执法程序与处罚机制。  
+
+亚马逊、谷歌等百余家企业已签署自愿合规协议，但Meta、苹果及法国AI公司Mistral未参与。法案允许执法机构在反恐、搜救等特殊场景使用受限技术，同时为医疗/教育场景的情感识别系统保留豁免空间。欧盟委员会计划2025年初发布补充指南。
+
+---
+
+## <a name="16"></a>16. 逆向解析Apple的typedstream二进制序列化协议 
 <small>🔗 [chrissardegna.com](https://chrissardegna.com/blog/reverse-engineering-apples-typedstream-format/): Reverse Engineering Apple's typedstream Format</small>
 
 
-| 🔥: 96 \| 💬: [15](https://news.ycombinator.com/item?id=42919221) \| 🗓️ 2025-02-03
+| 🔥: 99 \| 💬: [17](https://news.ycombinator.com/item?id=42919221) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -203,11 +217,11 @@ William Woods的**身份遭Matthew Keirans盗用数十年**，反被司法系统
 
 ---
 
-## <a name="16"></a>16. 贝叶斯认识论（2022） 
+## <a name="17"></a>17. 贝叶斯认识论（2022） 
 <small>🔗 [plato.stanford.edu](https://plato.stanford.edu/entries/epistemology-bayesian/): Bayesian Epistemology (2022)</small>
 
 
-| 🔥: 91 \| 💬: [49](https://news.ycombinator.com/item?id=42916219) \| 🗓️ 2025-02-03
+| 🔥: 92 \| 💬: [49](https://news.ycombinator.com/item?id=42916219) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -215,11 +229,11 @@ William Woods的**身份遭Matthew Keirans盗用数十年**，反被司法系统
 
 ---
 
-## <a name="17"></a>17. Show HN: Klarity——开源工具分析大语言模型输出的不确定性及熵值 
+## <a name="18"></a>18. Show HN: Klarity——开源工具分析大语言模型输出的不确定性及熵值 
 <small>🔗 [github.com](https://github.com/klara-research/klarity): Show HN: Klarity – Open-source tool to analyze uncertainty/entropy in LLM output</small>
 
 
-| 🔥: 87 \| 💬: [24](https://news.ycombinator.com/item?id=42918237) \| 🗓️ 2025-02-03
+| 🔥: 91 \| 💬: [24](https://news.ycombinator.com/item?id=42918237) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -227,31 +241,17 @@ Klarity 是专注于生成式模型预测不确定性的分析工具，结合**�
 
 ---
 
-## <a name="18"></a>18. Ruby「线程竞争」本质是GVL队列机制 
+## <a name="19"></a>19. Ruby「线程竞争」本质是GVL队列机制 
 <small>🔗 [island94.org](https://island94.org/2025/01/ruby-thread-contention-simply-gvl-queuing): Ruby “Thread Contention” Is Simply GVL Queuing</small>
 
 
-| 🔥: 80 \| 💬: [41](https://news.ycombinator.com/item?id=42916203) \| 🗓️ 2025-02-03
+| 🔥: 83 \| 💬: [41](https://news.ycombinator.com/item?id=42916203) \| 🗓️ 2025-02-03
 
 
 <br />
 作者澄清了对**「线程竞争」**的误解：Ruby中多个线程并非无序争夺资源，而是通过**GVL（全局虚拟机锁）**实现有序队列调度。线程按队列顺序获取GVL，执行时若进行IO操作或超过**线程量子（默认100ms）**则主动释放锁，重新排队。  
 
 高CPU占用的线程会长时间持有GVL，导致IO密集型线程因频繁排队产生**尾部延迟**。例如：一个10ms的IO请求可能因相邻线程的100ms计算任务被延迟至1秒。通过降低线程优先级或量子时间可缓解，但受限于10ms的最小调度单位，优化效果有限。
-
----
-
-## <a name="19"></a>19. 欧盟正式禁止具有"不可接受风险"的AI系统 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/): AI systems with 'unacceptable risk' are now banned in the EU</small>
-
-
-| 🔥: 79 \| 💬: [83](https://news.ycombinator.com/item?id=42916849) \| 🗓️ 2025-02-03
-
-
-<br />
-欧盟自2月2日起实施《人工智能法案》，全面禁止被认定为**不可接受风险**的AI应用，包括社会信用评分、实时生物识别监控、基于外貌预测犯罪等场景。违规企业将面临最高**7%年收入或3500万欧元**罚款（取金额较高者）。首批合规要求聚焦高风险领域，**2024年8月**将启动执法程序与处罚机制。  
-
-亚马逊、谷歌等百余家企业已签署自愿合规协议，但Meta、苹果及法国AI公司Mistral未参与。法案允许执法机构在反恐、搜救等特殊场景使用受限技术，同时为医疗/教育场景的情感识别系统保留豁免空间。欧盟委员会计划2025年初发布补充指南。
 
 ---
 
@@ -271,7 +271,7 @@ Klarity 是专注于生成式模型预测不确定性的分析工具，结合**�
 <small>🔗 [wq6e.com](https://wq6e.com/posts/2025-02-02_out-of-ideas/): OpenAI: Out of Ideas</small>
 
 
-| 🔥: 59 \| 💬: [22](https://news.ycombinator.com/item?id=42918653) \| 🗓️ 2025-02-03
+| 🔥: 60 \| 💬: [22](https://news.ycombinator.com/item?id=42918653) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -283,7 +283,7 @@ OpenAI发布**Deep Research系统**，声称可通过AI完成复杂网络研究�
 <small>🔗 [wh47.substack.com](https://wh47.substack.com/p/ongoing-coup): Coup</small>
 
 
-| 🔥: 58 \| 💬: [7](https://news.ycombinator.com/item?id=42920437) \| 🗓️ 2025-02-03
+| 🔥: 60 \| 💬: [7](https://news.ycombinator.com/item?id=42920437) \| 🗓️ 2025-02-03
 
 
 <br />
