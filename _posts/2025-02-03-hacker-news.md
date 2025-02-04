@@ -9,10 +9,10 @@ tags:
 
 
 1. Show HN: AI公司研究助手；
+1. 萨尔瓦多放弃比特币法币地位，实验失败告终；
 1. Httptap：查看任意Linux程序的HTTP/HTTPS请求；
 1. YouTube频道因“垃圾信息与欺骗政策”遭删除；
-1. Show HN：将视频转化为纸质手翻书是我的工作；
-1. 萨尔瓦多放弃比特币法币地位，实验失败告终；
+1. 美法案提议对下载深度求索用户实施监禁；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -35,11 +35,23 @@ tags:
 
 ---
 
-## <a name="2"></a>2. Httptap：查看任意Linux程序的HTTP/HTTPS请求 
+## <a name="2"></a>2. 萨尔瓦多放弃比特币法币地位，实验失败告终 
+<small>🔗 [ticotimes.net](https://ticotimes.net/2025/02/02/el-salvador-abandons-bitcoin-as-legal-tender-after-failed-experiment): El Salvador abandons Bitcoin as legal tender after failed experiment</small>
+
+
+| 🔥🔥: 424 \| 💬: [253](https://news.ycombinator.com/item?id=42925210) \| 🗓️ 2025-02-03
+
+
+<br />
+萨尔瓦多国会通过改革，**比特币不再具备法偿货币效力**，交易中接受与否由私营部门决定。总统布克莱的加密货币实验因民众极少使用、承诺的**比特币城市**未建成而失败。此次调整旨在满足**IMF的14亿美元贷款条件**，尽管政府仍持有价值6.34亿美元的比特币储备，但92%民众2024年未使用比特币进行交易。
+
+---
+
+## <a name="3"></a>3. Httptap：查看任意Linux程序的HTTP/HTTPS请求 
 <small>🔗 [github.com](https://github.com/monasticacademy/httptap): Httptap: View HTTP/HTTPS requests made by any Linux program</small>
 
 
-| 🔥🔥: 372 \| 💬: [95](https://news.ycombinator.com/item?id=42919909) \| 🗓️ 2025-02-03
+| 🔥🔥: 382 \| 💬: [98](https://news.ycombinator.com/item?id=42919909) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -47,7 +59,7 @@ tags:
 
 ---
 
-## <a name="3"></a>3. YouTube频道因“垃圾信息与欺骗政策”遭删除 
+## <a name="4"></a>4. YouTube频道因“垃圾信息与欺骗政策”遭删除 
 <small>🔗 [bsky.app](https://bsky.app/profile/sinevibes.bsky.social/post/3lhazuyn5as2t): Our channel on YouTube has been deleted due to “spam and deceptive policies”</small>
 
 
@@ -59,35 +71,11 @@ Sinevibes品牌在社交平台遭遇**史上最意外事件**：其YouTube频道
 
 ---
 
-## <a name="4"></a>4. Show HN：将视频转化为纸质手翻书是我的工作 
-<small>🔗 [videotoflip.com](https://www.videotoflip.com/): Show HN: I convert videos to printed flipbooks for living</small>
-
-
-| 🔥🔥: 348 \| 💬: [83](https://news.ycombinator.com/item?id=42918902) \| 🗓️ 2025-02-03
-
-
-<br />
-用户可上传**MP4、AVI、MOV等格式**的横向视频，通过定制页数与尺寸，将其转化为复古风格的实体翻页动画书。制作过程强调**手工装订与邮寄服务**，适合保存珍贵片段或创意礼物。**水平拍摄的视频效果最佳**，确保画面连贯性与翻动流畅度。
-
----
-
-## <a name="5"></a>5. 萨尔瓦多放弃比特币法币地位，实验失败告终 
-<small>🔗 [ticotimes.net](https://ticotimes.net/2025/02/02/el-salvador-abandons-bitcoin-as-legal-tender-after-failed-experiment): El Salvador abandons Bitcoin as legal tender after failed experiment</small>
-
-
-| 🔥🔥: 319 \| 💬: [174](https://news.ycombinator.com/item?id=42925210) \| 🗓️ 2025-02-03
-
-
-<br />
-萨尔瓦多国会通过改革，**比特币不再具备法偿货币效力**，交易中接受与否由私营部门决定。总统布克莱的加密货币实验因民众极少使用、承诺的**比特币城市**未建成而失败。此次调整旨在满足**IMF的14亿美元贷款条件**，尽管政府仍持有价值6.34亿美元的比特币储备，但92%民众2024年未使用比特币进行交易。
-
----
-
-## <a name="6"></a>6. 美法案提议对下载深度求索用户实施监禁 
+## <a name="5"></a>5. 美法案提议对下载深度求索用户实施监禁 
 <small>🔗 [404media.co](https://www.404media.co/senator-hawley-proposes-jail-time-for-people-who-download-deepseek/): US Bill Proposes Jail Time for People Who Download DeepSeek</small>
 
 
-| 🔥🔥: 280 \| 💬: [162](https://news.ycombinator.com/item?id=42925001) \| 🗓️ 2025-02-03
+| 🔥🔥: 359 \| 💬: [215](https://news.ycombinator.com/item?id=42925001) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -95,11 +83,23 @@ Sinevibes品牌在社交平台遭遇**史上最意外事件**：其YouTube频道
 
 ---
 
+## <a name="6"></a>6. Show HN：将视频转化为纸质手翻书是我的工作 
+<small>🔗 [videotoflip.com](https://www.videotoflip.com/): Show HN: I convert videos to printed flipbooks for living</small>
+
+
+| 🔥🔥: 355 \| 💬: [85](https://news.ycombinator.com/item?id=42918902) \| 🗓️ 2025-02-03
+
+
+<br />
+用户可上传**MP4、AVI、MOV等格式**的横向视频，通过定制页数与尺寸，将其转化为复古风格的实体翻页动画书。制作过程强调**手工装订与邮寄服务**，适合保存珍贵片段或创意礼物。**水平拍摄的视频效果最佳**，确保画面连贯性与翻动流畅度。
+
+---
+
 ## <a name="7"></a>7. 用C语言实现WebAssembly虚拟机的探索之旅 
 <small>🔗 [irreducible.io](https://irreducible.io/blog/my-wasm-interpreter/): I Wrote a WebAssembly VM in C</small>
 
 
-| 🔥🔥: 240 \| 💬: [51](https://news.ycombinator.com/item?id=42918524) \| 🗓️ 2025-02-03
+| 🔥🔥: 244 \| 💬: [55](https://news.ycombinator.com/item?id=42918524) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -111,7 +111,7 @@ Sinevibes品牌在社交平台遭遇**史上最意外事件**：其YouTube频道
 <small>🔗 [bsky.app](https://bsky.app/profile/bsky.app/post/3lgu4lg6j2k2v): Bluesky now has 30 million users</small>
 
 
-| 🔥🔥: 191 \| 💬: [151](https://news.ycombinator.com/item?id=42916770) \| 🗓️ 2025-02-03
+| 🔥🔥: 192 \| 💬: [165](https://news.ycombinator.com/item?id=42916770) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -119,23 +119,11 @@ Sinevibes品牌在社交平台遭遇**史上最意外事件**：其YouTube频道
 
 ---
 
-## <a name="9"></a>9. 《漫威对决》游戏存在远程代码执行漏洞 
-<small>🔗 [shalzuth.com](https://shalzuth.com/Blog/IFoundAGameExploit): Remote Code Execution in Marvel Rivals Game</small>
-
-
-| 🔥🔥: 172 \| 💬: [111](https://news.ycombinator.com/item?id=42920962) \| 🗓️ 2025-02-03
-
-
-<br />
-安全研究员发现该游戏因**热修复系统未验证服务器身份**且以**管理员权限运行**，导致同一局域网内攻击者可利用**远程代码执行（RCE）**漏洞操控他人设备。该漏洞还可能影响PS5平台，部分游戏厂商对漏洞响应迟缓且缺乏漏洞赏金机制，加剧安全风险。研究员呼吁行业重视游戏安全建设。
-
----
-
-## <a name="10"></a>10. 开发者哲学 
+## <a name="9"></a>9. 开发者哲学 
 <small>🔗 [qntm.org](https://qntm.org/devphilo): Developer Philosophy</small>
 
 
-| 🔥🔥: 171 \| 💬: [48](https://news.ycombinator.com/item?id=42920285) \| 🗓️ 2025-02-03
+| 🔥🔥: 176 \| 💬: [48](https://news.ycombinator.com/item?id=42920285) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -143,11 +131,11 @@ Sinevibes品牌在社交平台遭遇**史上最意外事件**：其YouTube频道
 
 ---
 
-## <a name="11"></a>11. 任何初现端倪的亚文化在起步前即遭商品化（2014） 
+## <a name="10"></a>10. 任何初现端倪的亚文化在起步前即遭商品化（2014） 
 <small>🔗 [dezeen.com](https://www.dezeen.com/2014/12/18/william-gibson-subculture-commodification-london-justin-mcguirk-opinion/): Anything threatening to be a subculture is commodified before it can walk (2014)</small>
 
 
-| 🔥🔥: 170 \| 💬: [191](https://news.ycombinator.com/item?id=42917680) \| 🗓️ 2025-02-03
+| 🔥🔥: 175 \| 💬: [195](https://news.ycombinator.com/item?id=42917680) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -155,11 +143,11 @@ Sinevibes品牌在社交平台遭遇**史上最意外事件**：其YouTube频道
 
 ---
 
-## <a name="12"></a>12. 他因身份盗窃入狱，但身份本属自己 
+## <a name="11"></a>11. 他因身份盗窃入狱，但身份本属自己 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/03/us/iowa-identity-theft-sentencing.html): He went to jail for stealing someone's identity, but it was his all along</small>
 
 
-| 🔥🔥: 165 \| 💬: [165](https://news.ycombinator.com/item?id=42918644) \| 🗓️ 2025-02-03
+| 🔥🔥: 175 \| 💬: [172](https://news.ycombinator.com/item?id=42918644) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -167,11 +155,35 @@ William Woods的**身份遭Matthew Keirans盗用数十年**，反被司法系统
 
 ---
 
-## <a name="13"></a>13. 欧盟正式禁止具有"不可接受风险"的AI系统 
+## <a name="12"></a>12. 《漫威对决》游戏存在远程代码执行漏洞 
+<small>🔗 [shalzuth.com](https://shalzuth.com/Blog/IFoundAGameExploit): Remote Code Execution in Marvel Rivals Game</small>
+
+
+| 🔥🔥: 173 \| 💬: [111](https://news.ycombinator.com/item?id=42920962) \| 🗓️ 2025-02-03
+
+
+<br />
+安全研究员发现该游戏因**热修复系统未验证服务器身份**且以**管理员权限运行**，导致同一局域网内攻击者可利用**远程代码执行（RCE）**漏洞操控他人设备。该漏洞还可能影响PS5平台，部分游戏厂商对漏洞响应迟缓且缺乏漏洞赏金机制，加剧安全风险。研究员呼吁行业重视游戏安全建设。
+
+---
+
+## <a name="13"></a>13. 美国正经历一场无声政变 
+<small>🔗 [techdirt.com](https://www.techdirt.com/2025/02/03/a-coup-is-in-progress-in-america/): A Coup Is in Progress in America</small>
+
+
+| 🔥🔥: 167 \| 💬: [76](https://news.ycombinator.com/item?id=42925782) \| 🗓️ 2025-02-03
+
+
+<br />
+文章指出，当**专业公务员体系**被个人效忠机制取代、国会授权遭无视、政府职能被私人利益掌控时，美国政治博弈的基础正遭系统性破坏。共和党近年转向**民粹主义**与媒体操控，试图通过颠覆传统政治规则维持权力，特朗普及其引发的**1月6日国会事件**成为该策略的集中体现。这种模式不仅规避选民结构变化的风险，更将政治暴力合理化，最终摧毁民主制度赖以运作的“竞技场”。
+
+---
+
+## <a name="14"></a>14. 欧盟正式禁止具有"不可接受风险"的AI系统 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/): AI systems with 'unacceptable risk' are now banned in the EU</small>
 
 
-| 🔥🔥: 144 \| 💬: [133](https://news.ycombinator.com/item?id=42916849) \| 🗓️ 2025-02-03
+| 🔥🔥: 159 \| 💬: [146](https://news.ycombinator.com/item?id=42916849) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -181,23 +193,11 @@ William Woods的**身份遭Matthew Keirans盗用数十年**，反被司法系统
 
 ---
 
-## <a name="14"></a>14. 美国正经历一场无声政变 
-<small>🔗 [techdirt.com](https://www.techdirt.com/2025/02/03/a-coup-is-in-progress-in-america/): A Coup Is in Progress in America</small>
-
-
-| 🔥🔥: 136 \| 💬: [60](https://news.ycombinator.com/item?id=42925782) \| 🗓️ 2025-02-03
-
-
-<br />
-文章指出，当**专业公务员体系**被个人效忠机制取代、国会授权遭无视、政府职能被私人利益掌控时，美国政治博弈的基础正遭系统性破坏。共和党近年转向**民粹主义**与媒体操控，试图通过颠覆传统政治规则维持权力，特朗普及其引发的**1月6日国会事件**成为该策略的集中体现。这种模式不仅规避选民结构变化的风险，更将政治暴力合理化，最终摧毁民主制度赖以运作的“竞技场”。
-
----
-
 ## <a name="15"></a>15. 装饰器化JIT：将Python作为领域专用语言 
 <small>🔗 [eli.thegreenplace.net](https://eli.thegreenplace.net/2025/decorator-jits-python-as-a-dsl/): Decorator JITs: Python as a DSL</small>
 
 
-| 🔥🔥: 135 \| 💬: [32](https://news.ycombinator.com/item?id=42918846) \| 🗓️ 2025-02-03
+| 🔥🔥: 141 \| 💬: [34](https://news.ycombinator.com/item?id=42918846) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -209,7 +209,7 @@ Python在机器学习中常通过**JIT装饰器**将函数转换为领域专用�
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/): A computer can never be held accountable</small>
 
 
-| 🔥🔥: 133 \| 💬: [107](https://news.ycombinator.com/item?id=42923870) \| 🗓️ 2025-02-03
+| 🔥🔥: 135 \| 💬: [108](https://news.ycombinator.com/item?id=42923870) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -221,7 +221,7 @@ Python在机器学习中常通过**JIT装饰器**将函数转换为领域专用�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2501.19201): Efficient Reasoning with Hidden Thinking</small>
 
 
-| 🔥🔥: 128 \| 💬: [34](https://news.ycombinator.com/item?id=42919597) \| 🗓️ 2025-02-03
+| 🔥🔥: 129 \| 💬: [34](https://news.ycombinator.com/item?id=42919597) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -233,7 +233,7 @@ Python在机器学习中常通过**JIT装饰器**将函数转换为领域专用�
 <small>🔗 [brainbun.com](https://www.brainbun.com/blog/i-conditioned-myself-to-fail/): I Conditioned Myself to Fail</small>
 
 
-| 🔥🔥: 128 \| 💬: [60](https://news.ycombinator.com/item?id=42919788) \| 🗓️ 2025-02-03
+| 🔥🔥: 129 \| 💬: [60](https://news.ycombinator.com/item?id=42919788) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -241,23 +241,11 @@ Python在机器学习中常通过**JIT装饰器**将函数转换为领域专用�
 
 ---
 
-## <a name="19"></a>19. 逆向解析Apple的typedstream二进制序列化协议 
-<small>🔗 [chrissardegna.com](https://chrissardegna.com/blog/reverse-engineering-apples-typedstream-format/): Reverse Engineering Apple's typedstream Format</small>
-
-
-| 🔥🔥: 109 \| 💬: [18](https://news.ycombinator.com/item?id=42919221) \| 🗓️ 2025-02-03
-
-
-<br />
-本文深入探讨iMessage消息数据存储的核心格式——Apple未公开的**typedstream**二进制协议。通过逆向工程发现，该格式头部包含版本号（0x04）和系统标识（0xe803），关键类型标识符**0x84**标记数据块起始，**0x86**表示结束。研究者通过分析类名嵌套结构（如NSMutableAttributedString）、类型缓存机制及字段编码规则（如"iI"表示整数对），最终在开源工具imessage-exporter中实现了对复杂iMessage富文本数据的跨平台解析。
-
----
-
-## <a name="20"></a>20. 《解密肯尼迪与马丁·路德·金遇刺档案的行政命令》 
+## <a name="19"></a>19. 《解密肯尼迪与马丁·路德·金遇刺档案的行政命令》 
 <small>🔗 [govinfo.gov](https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02116.pdf): Order Declassifying JFK and MLK Assassination Records [pdf]</small>
 
 
-| 🔥🔥: 102 \| 💬: [59](https://news.ycombinator.com/item?id=42925712) \| 🗓️ 2025-02-03
+| 🔥🔥: 129 \| 💬: [95](https://news.ycombinator.com/item?id=42925712) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -265,11 +253,23 @@ Python在机器学习中常通过**JIT装饰器**将函数转换为领域专用�
 
 ---
 
+## <a name="20"></a>20. 逆向解析Apple的typedstream二进制序列化协议 
+<small>🔗 [chrissardegna.com](https://chrissardegna.com/blog/reverse-engineering-apples-typedstream-format/): Reverse Engineering Apple's typedstream Format</small>
+
+
+| 🔥🔥: 110 \| 💬: [18](https://news.ycombinator.com/item?id=42919221) \| 🗓️ 2025-02-03
+
+
+<br />
+本文深入探讨iMessage消息数据存储的核心格式——Apple未公开的**typedstream**二进制协议。通过逆向工程发现，该格式头部包含版本号（0x04）和系统标识（0xe803），关键类型标识符**0x84**标记数据块起始，**0x86**表示结束。研究者通过分析类名嵌套结构（如NSMutableAttributedString）、类型缓存机制及字段编码规则（如"iI"表示整数对），最终在开源工具imessage-exporter中实现了对复杂iMessage富文本数据的跨平台解析。
+
+---
+
 ## <a name="21"></a>21. Show HN: Klarity——开源工具分析大语言模型输出的不确定性及熵值 
 <small>🔗 [github.com](https://github.com/klara-research/klarity): Show HN: Klarity – Open-source tool to analyze uncertainty/entropy in LLM output</small>
 
 
-| 🔥: 95 \| 💬: [24](https://news.ycombinator.com/item?id=42918237) \| 🗓️ 2025-02-03
+| 🔥: 97 \| 💬: [25](https://news.ycombinator.com/item?id=42918237) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -281,7 +281,7 @@ Klarity 是专注于生成式模型预测不确定性的分析工具，结合**�
 <small>🔗 [plato.stanford.edu](https://plato.stanford.edu/entries/epistemology-bayesian/): Bayesian Epistemology (2022)</small>
 
 
-| 🔥: 93 \| 💬: [49](https://news.ycombinator.com/item?id=42916219) \| 🗓️ 2025-02-03
+| 🔥: 94 \| 💬: [49](https://news.ycombinator.com/item?id=42916219) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -293,7 +293,7 @@ Klarity 是专注于生成式模型预测不确定性的分析工具，结合**�
 <small>🔗 [island94.org](https://island94.org/2025/01/ruby-thread-contention-simply-gvl-queuing): Ruby “Thread Contention” Is Simply GVL Queuing</small>
 
 
-| 🔥: 87 \| 💬: [42](https://news.ycombinator.com/item?id=42916203) \| 🗓️ 2025-02-03
+| 🔥: 89 \| 💬: [43](https://news.ycombinator.com/item?id=42916203) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -307,7 +307,7 @@ Klarity 是专注于生成式模型预测不确定性的分析工具，结合**�
 <small>🔗 [wh47.substack.com](https://wh47.substack.com/p/ongoing-coup): Coup</small>
 
 
-| 🔥: 64 \| 💬: [10](https://news.ycombinator.com/item?id=42920437) \| 🗓️ 2025-02-03
+| 🔥: 67 \| 💬: [11](https://news.ycombinator.com/item?id=42920437) \| 🗓️ 2025-02-03
 
 
 <br />
