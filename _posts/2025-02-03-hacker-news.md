@@ -10,8 +10,8 @@ tags:
 
 1. 萨尔瓦多放弃比特币法币地位，实验失败告终；
 1. Show HN: AI公司研究助手；
-1. 美法案提议对下载深度求索用户实施监禁；
 1. Httptap：查看任意Linux程序的HTTP/HTTPS请求；
+1. 美法案提议对下载深度求索用户实施监禁；
 1. Show HN：将视频转化为纸质手翻书是我的工作；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [ticotimes.net](https://ticotimes.net/2025/02/02/el-salvador-abandons-bitcoin-as-legal-tender-after-failed-experiment): El Salvador abandons Bitcoin as legal tender</small>
 
 
-| 🔥🔥: 649 \| 💬: [471](https://news.ycombinator.com/item?id=42925210) \| 🗓️ 2025-02-03
+| 🔥🔥: 706 \| 💬: [539](https://news.ycombinator.com/item?id=42925210) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -47,23 +47,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 美法案提议对下载深度求索用户实施监禁 
-<small>🔗 [404media.co](https://www.404media.co/senator-hawley-proposes-jail-time-for-people-who-download-deepseek/): US bill proposes jail time for people who download DeepSeek</small>
-
-
-| 🔥🔥: 452 \| 💬: [266](https://news.ycombinator.com/item?id=42925001) \| 🗓️ 2025-02-03
-
-
-<br />
-美国共和党参议员霍利提出《中美人工智能脱钩法案》，拟**禁止与中国进行AI技术进出口**，违规者最高面临**20年监禁或百万美元罚款**。法案矛头直指中国AI模型“深度求索”，称其威胁美国技术优势。反对者批评该法案过度宽泛，可能**威胁学术自由与科技合作**，甚至将普通用户下载行为刑事化。电子前沿基金会警告法案可能扼杀开源AI研究，强化科技巨头垄断。尽管法案可行性存疑，但美国两党对华技术遏制共识增强，此前TikTok禁令已通过立法程序。
-
----
-
-## <a name="4"></a>4. Httptap：查看任意Linux程序的HTTP/HTTPS请求 
+## <a name="3"></a>3. Httptap：查看任意Linux程序的HTTP/HTTPS请求 
 <small>🔗 [github.com](https://github.com/monasticacademy/httptap): Httptap: View HTTP/HTTPS requests made by any Linux program</small>
 
 
-| 🔥🔥: 451 \| 💬: [109](https://news.ycombinator.com/item?id=42919909) \| 🗓️ 2025-02-03
+| 🔥🔥: 465 \| 💬: [110](https://news.ycombinator.com/item?id=42919909) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -71,11 +59,23 @@ tags:
 
 ---
 
+## <a name="4"></a>4. 美法案提议对下载深度求索用户实施监禁 
+<small>🔗 [404media.co](https://www.404media.co/senator-hawley-proposes-jail-time-for-people-who-download-deepseek/): US bill proposes jail time for people who download DeepSeek</small>
+
+
+| 🔥🔥: 456 \| 💬: [265](https://news.ycombinator.com/item?id=42925001) \| 🗓️ 2025-02-03
+
+
+<br />
+美国共和党参议员霍利提出《中美人工智能脱钩法案》，拟**禁止与中国进行AI技术进出口**，违规者最高面临**20年监禁或百万美元罚款**。法案矛头直指中国AI模型“深度求索”，称其威胁美国技术优势。反对者批评该法案过度宽泛，可能**威胁学术自由与科技合作**，甚至将普通用户下载行为刑事化。电子前沿基金会警告法案可能扼杀开源AI研究，强化科技巨头垄断。尽管法案可行性存疑，但美国两党对华技术遏制共识增强，此前TikTok禁令已通过立法程序。
+
+---
+
 ## <a name="5"></a>5. Show HN：将视频转化为纸质手翻书是我的工作 
 <small>🔗 [videotoflip.com](https://www.videotoflip.com/): Show HN: I convert videos to printed flipbooks for living</small>
 
 
-| 🔥🔥: 379 \| 💬: [92](https://news.ycombinator.com/item?id=42918902) \| 🗓️ 2025-02-03
+| 🔥🔥: 386 \| 💬: [95](https://news.ycombinator.com/item?id=42918902) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -99,7 +99,7 @@ Sinevibes品牌在社交平台遭遇**史上最意外事件**：其YouTube频道
 <small>🔗 [irreducible.io](https://irreducible.io/blog/my-wasm-interpreter/): I Wrote a WebAssembly VM in C</small>
 
 
-| 🔥🔥: 265 \| 💬: [59](https://news.ycombinator.com/item?id=42918524) \| 🗓️ 2025-02-03
+| 🔥🔥: 270 \| 💬: [60](https://news.ycombinator.com/item?id=42918524) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -107,35 +107,11 @@ Sinevibes品牌在社交平台遭遇**史上最意外事件**：其YouTube频道
 
 ---
 
-## <a name="8"></a>8. 开发者哲学 
-<small>🔗 [qntm.org](https://qntm.org/devphilo): Developer Philosophy</small>
-
-
-| 🔥🔥: 205 \| 💬: [48](https://news.ycombinator.com/item?id=42920285) \| 🗓️ 2025-02-03
-
-
-<br />
-避免**彻底重写代码**的诱惑，通过持续优化技术债务与复杂性管理防患未然。开发时应**规划前90%任务占50%时间**，预留充足资源应对测试、文档与边缘情况。**自动化规范执行**比反复提醒更可靠，例如通过测试强制规则。此外，代码需关注异常数据、追求简洁性，并通过可测试性与显式正确性提升维护性。
-
----
-
-## <a name="9"></a>9. 美国正经历一场无声政变 
-<small>🔗 [techdirt.com](https://www.techdirt.com/2025/02/03/a-coup-is-in-progress-in-america/): A Coup Is in Progress in America</small>
-
-
-| 🔥🔥: 200 \| 💬: [92](https://news.ycombinator.com/item?id=42925782) \| 🗓️ 2025-02-03
-
-
-<br />
-文章指出，当**专业公务员体系**被个人效忠机制取代、国会授权遭无视、政府职能被私人利益掌控时，美国政治博弈的基础正遭系统性破坏。共和党近年转向**民粹主义**与媒体操控，试图通过颠覆传统政治规则维持权力，特朗普及其引发的**1月6日国会事件**成为该策略的集中体现。这种模式不仅规避选民结构变化的风险，更将政治暴力合理化，最终摧毁民主制度赖以运作的“竞技场”。
-
----
-
-## <a name="10"></a>10. 欧盟正式禁止具有"不可接受风险"的AI系统 
+## <a name="8"></a>8. 欧盟正式禁止具有"不可接受风险"的AI系统 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/02/02/ai-systems-with-unacceptable-risk-are-now-banned-in-the-eu/): AI systems with 'unacceptable risk' are now banned in the EU</small>
 
 
-| 🔥🔥: 197 \| 💬: [169](https://news.ycombinator.com/item?id=42916849) \| 🗓️ 2025-02-03
+| 🔥🔥: 216 \| 💬: [181](https://news.ycombinator.com/item?id=42916849) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -145,11 +121,47 @@ Sinevibes品牌在社交平台遭遇**史上最意外事件**：其YouTube频道
 
 ---
 
-## <a name="11"></a>11. 他因身份盗窃入狱，但身份本属自己 
+## <a name="9"></a>9. 开发者哲学 
+<small>🔗 [qntm.org](https://qntm.org/devphilo): Developer Philosophy</small>
+
+
+| 🔥🔥: 212 \| 💬: [50](https://news.ycombinator.com/item?id=42920285) \| 🗓️ 2025-02-03
+
+
+<br />
+避免**彻底重写代码**的诱惑，通过持续优化技术债务与复杂性管理防患未然。开发时应**规划前90%任务占50%时间**，预留充足资源应对测试、文档与边缘情况。**自动化规范执行**比反复提醒更可靠，例如通过测试强制规则。此外，代码需关注异常数据、追求简洁性，并通过可测试性与显式正确性提升维护性。
+
+---
+
+## <a name="10"></a>10. 美国正经历一场无声政变 
+<small>🔗 [techdirt.com](https://www.techdirt.com/2025/02/03/a-coup-is-in-progress-in-america/): A Coup Is in Progress in America</small>
+
+
+| 🔥🔥: 210 \| 💬: [91](https://news.ycombinator.com/item?id=42925782) \| 🗓️ 2025-02-03
+
+
+<br />
+文章指出，当**专业公务员体系**被个人效忠机制取代、国会授权遭无视、政府职能被私人利益掌控时，美国政治博弈的基础正遭系统性破坏。共和党近年转向**民粹主义**与媒体操控，试图通过颠覆传统政治规则维持权力，特朗普及其引发的**1月6日国会事件**成为该策略的集中体现。这种模式不仅规避选民结构变化的风险，更将政治暴力合理化，最终摧毁民主制度赖以运作的“竞技场”。
+
+---
+
+## <a name="11"></a>11. 任何初现端倪的亚文化在起步前即遭商品化（2014） 
+<small>🔗 [dezeen.com](https://www.dezeen.com/2014/12/18/william-gibson-subculture-commodification-london-justin-mcguirk-opinion/): Anything threatening to be a subculture is commodified before it can walk (2014)</small>
+
+
+| 🔥🔥: 198 \| 💬: [218](https://news.ycombinator.com/item?id=42917680) \| 🗓️ 2025-02-03
+
+
+<br />
+威廉·吉布森在《边缘》等作品中，通过**物质主义、科技与设计的交织**，探讨后人类时代的人性危机。其「蓝蚁三部曲」以当代消费社会为舞台，塑造了**品牌过敏症患者**与**恋物癖收藏家**等角色，揭示晚期资本主义如何将亚文化符号转化为商品。书中营销巨头Bigend深谙「反潮流即新潮流」，体现企业体系对设计前沿的吞噬。吉布森预言的双线未来——2030年代由3D打印主导的垄断经济与2100年意识寄存于**虚拟化身**的生态崩坏世界——正通过当前技术路径逐渐成形，最终动摇「人类」的本质定义。
+
+---
+
+## <a name="12"></a>12. 他因身份盗窃入狱，但身份本属自己 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/03/us/iowa-identity-theft-sentencing.html): He went to jail for stealing someone's identity, but it was his all along</small>
 
 
-| 🔥🔥: 194 \| 💬: [179](https://news.ycombinator.com/item?id=42918644) \| 🗓️ 2025-02-03
+| 🔥🔥: 198 \| 💬: [183](https://news.ycombinator.com/item?id=42918644) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -157,7 +169,7 @@ William Woods的**身份遭Matthew Keirans盗用数十年**，反被司法系统
 
 ---
 
-## <a name="12"></a>12. Bluesky用户突破3000万 
+## <a name="13"></a>13. Bluesky用户突破3000万 
 <small>🔗 [bsky.app](https://bsky.app/profile/bsky.app/post/3lgu4lg6j2k2v): Bluesky now has 30 million users</small>
 
 
@@ -169,23 +181,11 @@ William Woods的**身份遭Matthew Keirans盗用数十年**，反被司法系统
 
 ---
 
-## <a name="13"></a>13. 任何初现端倪的亚文化在起步前即遭商品化（2014） 
-<small>🔗 [dezeen.com](https://www.dezeen.com/2014/12/18/william-gibson-subculture-commodification-london-justin-mcguirk-opinion/): Anything threatening to be a subculture is commodified before it can walk (2014)</small>
-
-
-| 🔥🔥: 192 \| 💬: [211](https://news.ycombinator.com/item?id=42917680) \| 🗓️ 2025-02-03
-
-
-<br />
-威廉·吉布森在《边缘》等作品中，通过**物质主义、科技与设计的交织**，探讨后人类时代的人性危机。其「蓝蚁三部曲」以当代消费社会为舞台，塑造了**品牌过敏症患者**与**恋物癖收藏家**等角色，揭示晚期资本主义如何将亚文化符号转化为商品。书中营销巨头Bigend深谙「反潮流即新潮流」，体现企业体系对设计前沿的吞噬。吉布森预言的双线未来——2030年代由3D打印主导的垄断经济与2100年意识寄存于**虚拟化身**的生态崩坏世界——正通过当前技术路径逐渐成形，最终动摇「人类」的本质定义。
-
----
-
 ## <a name="14"></a>14. 《解密肯尼迪与马丁·路德·金遇刺档案的行政命令》 
 <small>🔗 [govinfo.gov](https://www.govinfo.gov/content/pkg/FR-2025-01-31/pdf/2025-02116.pdf): Order Declassifying JFK and MLK Assassination Records [pdf]</small>
 
 
-| 🔥🔥: 182 \| 💬: [140](https://news.ycombinator.com/item?id=42925712) \| 🗓️ 2025-02-03
+| 🔥🔥: 191 \| 💬: [145](https://news.ycombinator.com/item?id=42925712) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -197,7 +197,7 @@ William Woods的**身份遭Matthew Keirans盗用数十年**，反被司法系统
 <small>🔗 [shalzuth.com](https://shalzuth.com/Blog/IFoundAGameExploit): Remote Code Execution in Marvel Rivals Game</small>
 
 
-| 🔥🔥: 175 \| 💬: [113](https://news.ycombinator.com/item?id=42920962) \| 🗓️ 2025-02-03
+| 🔥🔥: 176 \| 💬: [113](https://news.ycombinator.com/item?id=42920962) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -209,7 +209,7 @@ William Woods的**身份遭Matthew Keirans盗用数十年**，反被司法系统
 <small>🔗 [eli.thegreenplace.net](https://eli.thegreenplace.net/2025/decorator-jits-python-as-a-dsl/): Decorator JITs: Python as a DSL</small>
 
 
-| 🔥🔥: 154 \| 💬: [35](https://news.ycombinator.com/item?id=42918846) \| 🗓️ 2025-02-03
+| 🔥🔥: 156 \| 💬: [36](https://news.ycombinator.com/item?id=42918846) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -221,7 +221,7 @@ Python在机器学习中常通过**JIT装饰器**将函数转换为领域专用�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2501.19201): Efficient Reasoning with Hidden Thinking</small>
 
 
-| 🔥🔥: 147 \| 💬: [36](https://news.ycombinator.com/item?id=42919597) \| 🗓️ 2025-02-03
+| 🔥🔥: 152 \| 💬: [39](https://news.ycombinator.com/item?id=42919597) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -229,35 +229,11 @@ Python在机器学习中常通过**JIT装饰器**将函数转换为领域专用�
 
 ---
 
-## <a name="18"></a>18. 计算机永远无法承担问责责任 
-<small>🔗 [simonwillison.net](https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/): A computer can never be held accountable</small>
-
-
-| 🔥🔥: 135 \| 💬: [109](https://news.ycombinator.com/item?id=42923870) \| 🗓️ 2025-02-03
-
-
-<br />
-1979年IBM内部培训材料提出**“计算机无法担责，故不可作管理决策”**，这一观点在AI时代仍具警示意义。原始文件由员工家属发现，但2019年毁于洪水。IBM档案馆称分支机构的资料常未归档，且知情者多已离世。推主@bumblebike最早于2017年公开相关内容，证实其真实性。
-
----
-
-## <a name="19"></a>19. 我把自己训练成了失败者 
-<small>🔗 [brainbun.com](https://www.brainbun.com/blog/i-conditioned-myself-to-fail/): I Conditioned Myself to Fail</small>
-
-
-| 🔥🔥: 132 \| 💬: [67](https://news.ycombinator.com/item?id=42919788) \| 🗓️ 2025-02-03
-
-
-<br />
-作者多年开发数百个项目，却陷入**高强度开发→短暂推广→迅速放弃**的循环。初期充满激情，但发布后立即失去动力，根源在于**信息成瘾**——从编码中获得即时反馈（如界面变化），而产品上线后缺乏持续刺激。即使无负面评价，也因市场冷遇陷入自我怀疑。他认为算法推荐（如Twitter/X）加剧了对碎片化多巴胺的依赖，削弱了长期打磨产品的耐心，最终**习惯性放弃**成为潜意识选择。
-
----
-
-## <a name="20"></a>20. 欧洲开源大语言模型计划：构建透明AI新生态 
+## <a name="18"></a>18. 欧洲开源大语言模型计划：构建透明AI新生态 
 <small>🔗 [openeurollm.eu](https://openeurollm.eu/launch-press-release): Open Euro LLM: Open LLMs for Transparent AI in Europe</small>
 
 
-| 🔥🔥: 124 \| 💬: [50](https://news.ycombinator.com/item?id=42922989) \| 🗓️ 2025-02-03
+| 🔥🔥: 149 \| 💬: [70](https://news.ycombinator.com/item?id=42922989) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -265,11 +241,11 @@ Python在机器学习中常通过**JIT装饰器**将函数转换为领域专用�
 
 ---
 
-## <a name="21"></a>21. 电子游戏历史基金会数字图书馆开启早期访问 
-<small>🔗 [gamehistory.org](https://gamehistory.org/vghf-library-launch/): The Video Game History Foundation Library Opens in Early Access</small>
+## <a name="19"></a>19. 电子游戏历史基金会数字图书馆开启早期访问 
+<small>🔗 [gamehistory.org](https://gamehistory.org/vghf-library-launch/): The Video Game History Foundation library opens in early access</small>
 
 
-| 🔥🔥: 120 \| 💬: [21](https://news.ycombinator.com/item?id=42926076) \| 🗓️ 2025-02-03
+| 🔥🔥: 139 \| 💬: [23](https://news.ycombinator.com/item?id=42926076) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -277,11 +253,47 @@ Python在机器学习中常通过**JIT装饰器**将函数转换为领域专用�
 
 ---
 
-## <a name="22"></a>22. 逆向解析Apple的typedstream二进制序列化协议 
+## <a name="20"></a>20. 计算机永远无法承担问责责任 
+<small>🔗 [simonwillison.net](https://simonwillison.net/2025/Feb/3/a-computer-can-never-be-held-accountable/): A computer can never be held accountable</small>
+
+
+| 🔥🔥: 137 \| 💬: [110](https://news.ycombinator.com/item?id=42923870) \| 🗓️ 2025-02-03
+
+
+<br />
+1979年IBM内部培训材料提出**“计算机无法担责，故不可作管理决策”**，这一观点在AI时代仍具警示意义。原始文件由员工家属发现，但2019年毁于洪水。IBM档案馆称分支机构的资料常未归档，且知情者多已离世。推主@bumblebike最早于2017年公开相关内容，证实其真实性。
+
+---
+
+## <a name="21"></a>21. 我把自己训练成了失败者 
+<small>🔗 [brainbun.com](https://www.brainbun.com/blog/i-conditioned-myself-to-fail/): I Conditioned Myself to Fail</small>
+
+
+| 🔥🔥: 134 \| 💬: [67](https://news.ycombinator.com/item?id=42919788) \| 🗓️ 2025-02-03
+
+
+<br />
+作者多年开发数百个项目，却陷入**高强度开发→短暂推广→迅速放弃**的循环。初期充满激情，但发布后立即失去动力，根源在于**信息成瘾**——从编码中获得即时反馈（如界面变化），而产品上线后缺乏持续刺激。即使无负面评价，也因市场冷遇陷入自我怀疑。他认为算法推荐（如Twitter/X）加剧了对碎片化多巴胺的依赖，削弱了长期打磨产品的耐心，最终**习惯性放弃**成为潜意识选择。
+
+---
+
+## <a name="22"></a>22. 我买了一集装箱中国电动挖掘机，到货后发现…… 
+<small>🔗 [electrek.co](https://electrek.co/2025/02/03/i-bought-a-container-full-of-chinese-electric-excavators-heres-what-showed-up/): I bought a container full of Chinese electric excavators. Here's what showed up</small>
+
+
+| 🔥🔥: 118 \| 💬: [45](https://news.ycombinator.com/item?id=42927391) \| 🗓️ 2025-02-03
+
+
+<br />
+特斯拉在美国最大电动汽车市场出现**两位数销量下滑**，而其他品牌逆势增长。作者指出，尽管行业整体需求上升，特斯拉面临**竞争加剧**与产品线老化问题，同时**中国品牌**凭借性价比优势加速抢占市场份额。这一趋势或预示全球电动车格局将迎来新一轮洗牌。
+
+---
+
+## <a name="23"></a>23. 逆向解析Apple的typedstream二进制序列化协议 
 <small>🔗 [chrissardegna.com](https://chrissardegna.com/blog/reverse-engineering-apples-typedstream-format/): Reverse Engineering Apple's typedstream Format</small>
 
 
-| 🔥🔥: 114 \| 💬: [20](https://news.ycombinator.com/item?id=42919221) \| 🗓️ 2025-02-03
+| 🔥🔥: 115 \| 💬: [21](https://news.ycombinator.com/item?id=42919221) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -289,11 +301,11 @@ Python在机器学习中常通过**JIT装饰器**将函数转换为领域专用�
 
 ---
 
-## <a name="23"></a>23. Show HN: Klarity——开源工具分析大语言模型输出的不确定性及熵值 
+## <a name="24"></a>24. Show HN: Klarity——开源工具分析大语言模型输出的不确定性及熵值 
 <small>🔗 [github.com](https://github.com/klara-research/klarity): Show HN: Klarity – Open-source tool to analyze uncertainty/entropy in LLM output</small>
 
 
-| 🔥: 100 \| 💬: [25](https://news.ycombinator.com/item?id=42918237) \| 🗓️ 2025-02-03
+| 🔥🔥: 101 \| 💬: [25](https://news.ycombinator.com/item?id=42918237) \| 🗓️ 2025-02-03
 
 
 <br />
@@ -301,7 +313,7 @@ Klarity 是专注于生成式模型预测不确定性的分析工具，结合**�
 
 ---
 
-## <a name="24"></a>24. 贝叶斯认识论（2022） 
+## <a name="25"></a>25. 贝叶斯认识论（2022） 
 <small>🔗 [plato.stanford.edu](https://plato.stanford.edu/entries/epistemology-bayesian/): Bayesian Epistemology (2022)</small>
 
 
@@ -310,19 +322,5 @@ Klarity 是专注于生成式模型预测不确定性的分析工具，结合**�
 
 <br />
 贝叶斯认识论以**信念程度**为核心，主张用概率论规范认知状态。其两大核心规范为**概率论**（信念需符合概率公理）与**条件化原则**（新证据下更新信念）。通过爱丁顿观测案例，贝叶斯框架解释了假设如何随证据修正，强调证据越意外，假设置信度提升越显著。应用涵盖科学解释、归纳推理及语言哲学，但学派内部对**先验概率合理性**与理想化假设存争议，挑战其现实适用性。
-
----
-
-## <a name="25"></a>25. Ruby「线程竞争」本质是GVL队列机制 
-<small>🔗 [island94.org](https://island94.org/2025/01/ruby-thread-contention-simply-gvl-queuing): Ruby “Thread Contention” Is Simply GVL Queuing</small>
-
-
-| 🔥: 90 \| 💬: [45](https://news.ycombinator.com/item?id=42916203) \| 🗓️ 2025-02-03
-
-
-<br />
-作者澄清了对**「线程竞争」**的误解：Ruby中多个线程并非无序争夺资源，而是通过**GVL（全局虚拟机锁）**实现有序队列调度。线程按队列顺序获取GVL，执行时若进行IO操作或超过**线程量子（默认100ms）**则主动释放锁，重新排队。  
-
-高CPU占用的线程会长时间持有GVL，导致IO密集型线程因频繁排队产生**尾部延迟**。例如：一个10ms的IO请求可能因相邻线程的100ms计算任务被延迟至1秒。通过降低线程优先级或量子时间可缓解，但受限于10ms的最小调度单位，优化效果有限。
 
 ---
