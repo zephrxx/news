@@ -12,7 +12,7 @@ tags:
 1. 2025年支付危机：不再仅是“只读”权限；
 1. 甲骨文利用Node.js维护JavaScript商标——现要求忽略相关证据；
 1. Apple 邀请函；
-1. 先锋集团平均费率降至0.07% 创史上最大降幅；
+1. GitHub揭露工程师如何清洗联邦数据库中的敏感词汇；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [danieldelaney.net](https://danieldelaney.net/chat/): Chat is a bad UI pattern for development tools</small>
 
 
-| 🔥🔥: 664 \| 💬: [357](https://news.ycombinator.com/item?id=42934190) \| 🗓️ 2025-02-04
+| 🔥🔥: 679 \| 💬: [368](https://news.ycombinator.com/item?id=42934190) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [crisesnotes.com](https://www.crisesnotes.com/day-five-of-the-trump-musk-treasury-payments-crisis-of-2025-not-read-only-access-anymore/): Payments crisis of 2025: Not “read only” access anymore</small>
 
 
-| 🔥🔥: 464 \| 💬: [515](https://news.ycombinator.com/item?id=42933219) \| 🗓️ 2025-02-04
+| 🔥🔥: 472 \| 💬: [524](https://news.ycombinator.com/item?id=42933219) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -51,7 +51,7 @@ Nathan Tankus揭露**Elon Musk团队**通过DOGE项目获取美国财政部核�
 <small>🔗 [deno.com](https://deno.com/blog/deno-v-oracle2): Oracle justified its JavaScript trademark with Node.js–now it wants that ignored</small>
 
 
-| 🔥🔥: 364 \| 💬: [83](https://news.ycombinator.com/item?id=42939940) \| 🗓️ 2025-02-04
+| 🔥🔥: 402 \| 💬: [99](https://news.ycombinator.com/item?id=42939940) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -63,7 +63,7 @@ Nathan Tankus揭露**Elon Musk团队**通过DOGE项目获取美国财政部核�
 <small>🔗 [apple.com](https://www.apple.com/newsroom/2025/02/introducing-apple-invites-a-new-app-that-brings-people-together/): Apple Invites</small>
 
 
-| 🔥🔥: 358 \| 💬: [570](https://news.ycombinator.com/item?id=42934422) \| 🗓️ 2025-02-04
+| 🔥🔥: 382 \| 💬: [594](https://news.ycombinator.com/item?id=42934422) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -71,23 +71,11 @@ Nathan Tankus揭露**Elon Musk团队**通过DOGE项目获取美国财政部核�
 
 ---
 
-## <a name="5"></a>5. 先锋集团平均费率降至0.07% 创史上最大降幅 
-<small>🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-02-03/vanguard-s-average-fee-is-now-just-0-07-after-biggest-ever-cut): Vanguard's average fee is now 0.07% after biggest-ever cut</small>
-
-
-| 🔥🔥: 302 \| 💬: [253](https://news.ycombinator.com/item?id=42933283) \| 🗓️ 2025-02-04
-
-
-<br />
-全球资管巨头先锋集团宣布**创纪录幅度**下调费率，立即生效的降费涉及**87只共同基金和ETF**共168个份额类别。调整后其10万亿美元资管规模的资产加权平均费率仅0.07%，显著低于**行业平均0.44%**。此举延续了该公司创始人约翰·伯格发起的费率革命，料将加剧资管行业价格竞争。
-
----
-
-## <a name="6"></a>6. GitHub揭露工程师如何清洗联邦数据库中的敏感词汇 
+## <a name="5"></a>5. GitHub揭露工程师如何清洗联邦数据库中的敏感词汇 
 <small>🔗 [404media.co](https://www.404media.co/forbidden-words-github-reveals-how-software-engineers-are-purging-federal-databases/): GitHub reveals how software engineers are purging federal databases</small>
 
 
-| 🔥🔥: 301 \| 💬: [248](https://news.ycombinator.com/item?id=42936940) \| 🗓️ 2025-02-04
+| 🔥🔥: 308 \| 💬: [251](https://news.ycombinator.com/item?id=42936940) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -95,23 +83,23 @@ Nathan Tankus揭露**Elon Musk团队**通过DOGE项目获取美国财政部核�
 
 ---
 
-## <a name="7"></a>7. Roc 用 Zig 重写编译器 
-<small>🔗 [gist.github.com](https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f): Roc rewrites the compiler in Zig</small>
+## <a name="6"></a>6. 先锋集团平均费率降至0.07% 创史上最大降幅 
+<small>🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-02-03/vanguard-s-average-fee-is-now-just-0-07-after-biggest-ever-cut): Vanguard's average fee is now 0.07% after biggest-ever cut</small>
 
 
-| 🔥🔥: 272 \| 💬: [164](https://news.ycombinator.com/item?id=42935516) \| 🗓️ 2025-02-04
+| 🔥🔥: 306 \| 💬: [253](https://news.ycombinator.com/item?id=42933283) \| 🗓️ 2025-02-04
 
 
 <br />
-Roc 团队宣布将 **自举（Self-Hosting）** 编译器从 Rust 迁移至 Zig，主因 Zig 的**编译速度**优势及内存管理更契合需求。原 Rust 代码因模块化重构需求（如解析器、格式化工具等）已近乎全面重写，Zig 的**结构化位操作**、LLVM 比特码生成等特性进一步优化性能与跨平台兼容。尽管 Rust 生态庞大，但 Zig 在核心依赖（如静态链接、工具链）更符合 Roc 长期目标，且团队认为其语言设计能减少开发摩擦，加速首个稳定版 Roc 0.1.0 的发布。
+全球资管巨头先锋集团宣布**创纪录幅度**下调费率，立即生效的降费涉及**87只共同基金和ETF**共168个份额类别。调整后其10万亿美元资管规模的资产加权平均费率仅0.07%，显著低于**行业平均0.44%**。此举延续了该公司创始人约翰·伯格发起的费率革命，料将加剧资管行业价格竞争。
 
 ---
 
-## <a name="8"></a>8. 谷歌放弃AI不用于武器或监控的承诺 
+## <a name="7"></a>7. 谷歌放弃AI不用于武器或监控的承诺 
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/02/04/google-ai-policies-weapons-harm): Google drops pledge not to use AI for weapons or surveillance</small>
 
 
-| 🔥🔥: 267 \| 💬: [363](https://news.ycombinator.com/item?id=42938125) \| 🗓️ 2025-02-04
+| 🔥🔥: 304 \| 💬: [383](https://news.ycombinator.com/item?id=42938125) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -119,11 +107,35 @@ Roc 团队宣布将 **自举（Self-Hosting）** 编译器从 Rust 迁移至 Zig
 
 ---
 
-## <a name="9"></a>9. 两大开源项目Freedesktop与Alpine Linux紧急寻找新托管服务 
+## <a name="8"></a>8. Roc 用 Zig 重写编译器 
+<small>🔗 [gist.github.com](https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f): Roc rewrites the compiler in Zig</small>
+
+
+| 🔥🔥: 282 \| 💬: [175](https://news.ycombinator.com/item?id=42935516) \| 🗓️ 2025-02-04
+
+
+<br />
+Roc 团队宣布将 **自举（Self-Hosting）** 编译器从 Rust 迁移至 Zig，主因 Zig 的**编译速度**优势及内存管理更契合需求。原 Rust 代码因模块化重构需求（如解析器、格式化工具等）已近乎全面重写，Zig 的**结构化位操作**、LLVM 比特码生成等特性进一步优化性能与跨平台兼容。尽管 Rust 生态庞大，但 Zig 在核心依赖（如静态链接、工具链）更符合 Roc 长期目标，且团队认为其语言设计能减少开发摩擦，加速首个稳定版 Roc 0.1.0 的发布。
+
+---
+
+## <a name="9"></a>9. Beej's Git 指南 
+<small>🔗 [beej.us](https://beej.us/guide/bggit/): Beej's Guide to Git</small>
+
+
+| 🔥🔥: 242 \| 💬: [56](https://news.ycombinator.com/item?id=42941283) \| 🗓️ 2025-02-04
+
+
+<br />
+本文为开发者提供Git使用指南，包含**多种格式**下载选项（HTML、PDF，含宽屏、单页、黑白等版本）。内容可能存在疏漏，作者鼓励读者通过邮件提交**纠错反馈**。贡献者可访问**GitHub仓库**获取源码，按说明参与翻译或修订。联系方式：beej@beej.us。
+
+---
+
+## <a name="10"></a>10. 两大开源项目Freedesktop与Alpine Linux紧急寻找新托管服务 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/02/popular-linux-orgs-freedesktop-and-alpine-linux-are-scrambling-for-new-web-hosting/): Popular Linux orgs Freedesktop and Alpine Linux are scrambling for new webhost</small>
 
 
-| 🔥🔥: 237 \| 💬: [95](https://news.ycombinator.com/item?id=42930974) \| 🗓️ 2025-02-04
+| 🔥🔥: 239 \| 💬: [98](https://news.ycombinator.com/item?id=42930974) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -131,11 +143,11 @@ Roc 团队宣布将 **自举（Self-Hosting）** 编译器从 Rust 迁移至 Zig
 
 ---
 
-## <a name="10"></a>10. 谷歌官网删除“不开发AI武器”承诺 
+## <a name="11"></a>11. 谷歌官网删除“不开发AI武器”承诺 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/): Google removes pledge to not use AI for weapons from website</small>
 
 
-| 🔥🔥: 230 \| 💬: [3](https://news.ycombinator.com/item?id=42940284) \| 🗓️ 2025-02-04
+| 🔥🔥: 233 \| 💬: [3](https://news.ycombinator.com/item?id=42940284) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -143,11 +155,11 @@ Roc 团队宣布将 **自举（Self-Hosting）** 编译器从 Rust 迁移至 Zig
 
 ---
 
-## <a name="11"></a>11. 用大语言模型替代CEO的DoppelBot 
+## <a name="12"></a>12. 用大语言模型替代CEO的DoppelBot 
 <small>🔗 [modal.com](https://modal.com/docs/examples/slack-finetune): DoppelBot: Replace Your CEO with an LLM</small>
 
 
-| 🔥🔥: 207 \| 💬: [98](https://news.ycombinator.com/item?id=42933256) \| 🗓️ 2025-02-04
+| 🔥🔥: 208 \| 💬: [98](https://news.ycombinator.com/item?id=42933256) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -155,11 +167,11 @@ Modal团队开发的**开源Slack机器人**可通过**LoRA微调技术**学习�
 
 ---
 
-## <a name="12"></a>12. 像Simon Willison一样打造链接博客 
+## <a name="13"></a>13. 像Simon Willison一样打造链接博客 
 <small>🔗 [xuanwo.io](https://xuanwo.io/links/2025/01/link-blog/): Build a link blog like Simon Willison</small>
 
 
-| 🔥🔥: 193 \| 💬: [49](https://news.ycombinator.com/item?id=42933383) \| 🗓️ 2025-02-04
+| 🔥🔥: 196 \| 💬: [49](https://news.ycombinator.com/item?id=42933383) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -167,23 +179,11 @@ Modal团队开发的**开源Slack机器人**可通过**LoRA微调技术**学习�
 
 ---
 
-## <a name="13"></a>13. Jujutsu VCS：颠覆性版本控制工具解析 
-<small>🔗 [kubamartin.com](https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/): Jujutsu VCS: Introduction and patterns</small>
-
-
-| 🔥🔥: 190 \| 💬: [77](https://news.ycombinator.com/item?id=42934427) \| 🗓️ 2025-02-04
-
-
-<br />
-基于 Rust 开发的 **Jujutsu (jj)** 重新定义了版本控制逻辑，以**可变变更**为核心单元，支持随时撤销操作（`jj undo`）与动态修改历史。作为 Git 前端，它能无缝兼容现有仓库，通过**自动变基**简化分支维护，允许直接编辑任意变更节点而不中断流程。其独特机制将工作区视为普通变更（`@` 标记），支持并行开发堆叠 PR 与**无缝冲突处理**（冲突状态可暂存），显著提升复杂代码协作效率。
-
----
-
 ## <a name="14"></a>14. 作为技术主管，我如何高效运用大语言模型 
 <small>🔗 [seangoedecke.com](https://www.seangoedecke.com/how-i-use-llms/): How I use LLMs as a staff engineer</small>
 
 
-| 🔥🔥: 189 \| 💬: [153](https://news.ycombinator.com/item?id=42938409) \| 🗓️ 2025-02-04
+| 🔥🔥: 196 \| 💬: [157](https://news.ycombinator.com/item?id=42938409) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -191,7 +191,19 @@ Modal团队开发的**开源Slack机器人**可通过**LoRA微调技术**学习�
 
 ---
 
-## <a name="15"></a>15. 辐射泡沫：实时可微分光线追踪 
+## <a name="15"></a>15. Jujutsu VCS：颠覆性版本控制工具解析 
+<small>🔗 [kubamartin.com](https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/): Jujutsu VCS: Introduction and patterns</small>
+
+
+| 🔥🔥: 191 \| 💬: [77](https://news.ycombinator.com/item?id=42934427) \| 🗓️ 2025-02-04
+
+
+<br />
+基于 Rust 开发的 **Jujutsu (jj)** 重新定义了版本控制逻辑，以**可变变更**为核心单元，支持随时撤销操作（`jj undo`）与动态修改历史。作为 Git 前端，它能无缝兼容现有仓库，通过**自动变基**简化分支维护，允许直接编辑任意变更节点而不中断流程。其独特机制将工作区视为普通变更（`@` 标记），支持并行开发堆叠 PR 与**无缝冲突处理**（冲突状态可暂存），显著提升复杂代码协作效率。
+
+---
+
+## <a name="16"></a>16. 辐射泡沫：实时可微分光线追踪 
 <small>🔗 [radfoam.github.io](https://radfoam.github.io): Radiant Foam: Real-Time Differentiable Ray Tracing</small>
 
 
@@ -203,11 +215,11 @@ Modal团队开发的**开源Slack机器人**可通过**LoRA微调技术**学习�
 
 ---
 
-## <a name="16"></a>16. 美国急需更多空中交通管制员 
+## <a name="17"></a>17. 美国急需更多空中交通管制员 
 <small>🔗 [cnn.com](https://www.cnn.com/2025/02/04/business/air-traffic-controller-shortage/index.html): America desperately needs more air traffic controllers</small>
 
 
-| 🔥🔥: 159 \| 💬: [323](https://news.ycombinator.com/item?id=42933840) \| 🗓️ 2025-02-04
+| 🔥🔥: 176 \| 💬: [345](https://news.ycombinator.com/item?id=42933840) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -215,23 +227,11 @@ Modal团队开发的**开源Slack机器人**可通过**LoRA微调技术**学习�
 
 ---
 
-## <a name="17"></a>17. 如何扩展模型：从系统视角看TPU上的大语言模型 
-<small>🔗 [jax-ml.github.io](https://jax-ml.github.io/scaling-book/): How to scale your model: A systems view of LLMs on TPUs</small>
-
-
-| 🔥🔥: 150 \| 💬: [22](https://news.ycombinator.com/item?id=42936910) \| 🗓️ 2025-02-04
-
-
-<br />
-本书深入解析**TPU硬件设计**与**大语言模型扩展原理**，探讨如何通过并行化策略（数据/张量/流水线并行）实现**强扩展性**，平衡计算、内存与通信瓶颈。从Transformer数学拆解到LLaMA-3实战案例，覆盖训练/推理优化、性能估算及JAX编程实践，揭示当前算法与硬件协同设计的核心挑战——模型规模持续逼近算力极限时，效率优化成为前沿研究的必备能力。
-
----
-
 ## <a name="18"></a>18. 艾伦·图灵的“黛利拉”项目 
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/alan-turings-delilah): Alan Turing's "Delilah" project</small>
 
 
-| 🔥🔥: 149 \| 💬: [19](https://news.ycombinator.com/item?id=42933049) \| 🗓️ 2025-02-04
+| 🔥🔥: 153 \| 💬: [19](https://news.ycombinator.com/item?id=42933049) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -239,11 +239,23 @@ Modal团队开发的**开源Slack机器人**可通过**LoRA微调技术**学习�
 
 ---
 
-## <a name="19"></a>19. Spotify是如何扼杀低保真嘻哈音乐的 
+## <a name="19"></a>19. 如何扩展模型：从系统视角看TPU上的大语言模型 
+<small>🔗 [jax-ml.github.io](https://jax-ml.github.io/scaling-book/): How to scale your model: A systems view of LLMs on TPUs</small>
+
+
+| 🔥🔥: 151 \| 💬: [22](https://news.ycombinator.com/item?id=42936910) \| 🗓️ 2025-02-04
+
+
+<br />
+本书深入解析**TPU硬件设计**与**大语言模型扩展原理**，探讨如何通过并行化策略（数据/张量/流水线并行）实现**强扩展性**，平衡计算、内存与通信瓶颈。从Transformer数学拆解到LLaMA-3实战案例，覆盖训练/推理优化、性能估算及JAX编程实践，揭示当前算法与硬件协同设计的核心挑战——模型规模持续逼近算力极限时，效率优化成为前沿研究的必备能力。
+
+---
+
+## <a name="20"></a>20. Spotify是如何扼杀低保真嘻哈音乐的 
 <small>🔗 [gamechops.substack.com](https://gamechops.substack.com/p/how-spotify-killed-lo-fi-hip-hop): How Spotify Killed Lo-Fi Hip Hop</small>
 
 
-| 🔥🔥: 144 \| 💬: [186](https://news.ycombinator.com/item?id=42935741) \| 🗓️ 2025-02-04
+| 🔥🔥: 144 \| 💬: [188](https://news.ycombinator.com/item?id=42935741) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -251,11 +263,11 @@ Modal团队开发的**开源Slack机器人**可通过**LoRA微调技术**学习�
 
 ---
 
-## <a name="20"></a>20. DeepRAG：大语言模型的分步检索推理框架 
+## <a name="21"></a>21. DeepRAG：大语言模型的分步检索推理框架 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.01142): DeepRAG: Thinking to retrieval step by step for large language models</small>
 
 
-| 🔥🔥: 138 \| 💬: [19](https://news.ycombinator.com/item?id=42932948) \| 🗓️ 2025-02-04
+| 🔥🔥: 143 \| 💬: [22](https://news.ycombinator.com/item?id=42932948) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -263,11 +275,23 @@ Modal团队开发的**开源Slack机器人**可通过**LoRA微调技术**学习�
 
 ---
 
-## <a name="21"></a>21. OmniHuman-1：端到端多模态驱动人体动画模型 
+## <a name="22"></a>22. TikTok算法在2024年总统竞选中显现亲共和党倾向 
+<small>🔗 [psypost.org](https://www.psypost.org/tiktoks-algorithm-exhibited-pro-republican-bias-during-2024-presidential-race-study-finds/): TikTok's algorithm exhibited pro-Republican bias during 2024 presidential race</small>
+
+
+| 🔥🔥: 135 \| 💬: [102](https://news.ycombinator.com/item?id=42936002) \| 🗓️ 2025-02-04
+
+
+<br />
+研究发现，**右翼威权主义**与将少数群体视为威胁的认知存在关联，但这一倾向在**国家宗教性较高**或**社会边缘化程度较深**的地区有所减弱，表明威权态度受社会文化背景显著影响。
+
+---
+
+## <a name="23"></a>23. OmniHuman-1：端到端多模态驱动人体动画模型 
 <small>🔗 [omnihuman-lab.github.io](https://omnihuman-lab.github.io/): OmniHuman-1: Human Animation Models</small>
 
 
-| 🔥🔥: 133 \| 💬: [28](https://news.ycombinator.com/item?id=42930639) \| 🗓️ 2025-02-04
+| 🔥🔥: 134 \| 💬: [28](https://news.ycombinator.com/item?id=42930639) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -275,7 +299,19 @@ Modal团队开发的**开源Slack机器人**可通过**LoRA微调技术**学习�
 
 ---
 
-## <a name="22"></a>22. NVIDIA开源Nanite连续细节层次（LOD）网格库 
+## <a name="24"></a>24. 当前NSF资助项目检索中的关键词标记 
+<small>🔗 [mastodon.social](https://mastodon.social/@Lazarou/113943275616933776): Words flagged in search of current NSF awards</small>
+
+
+| 🔥🔥: 134 \| 💬: [135](https://news.ycombinator.com/item?id=42932760) \| 🗓️ 2025-02-04
+
+
+<br />
+为使用**Mastodon网页应用**需启用**JavaScript**，或可尝试对应平台的**原生应用**替代方案。内容涉及技术实现方式与平台兼容性要求，未提及具体NSF资助项目细节。
+
+---
+
+## <a name="25"></a>25. NVIDIA开源Nanite连续细节层次（LOD）网格库 
 <small>🔗 [github.com](https://github.com/nvpro-samples/nv_cluster_lod_builder): Nvidia open-source nanite: continuous level of detail (LOD) mesh library</small>
 
 
@@ -284,41 +320,5 @@ Modal团队开发的**开源Slack机器人**可通过**LoRA微调技术**学习�
 
 <br />
 该库基于**连续细节层次（LOD）**技术，通过预计算三角形簇的渐进式简化方案，实现动态调整几何精度。核心通过**簇的动态分组与空间层次结构**优化渲染效率，确保不同LOD层无缝过渡，减少内存占用并支持流式加载。其利用网格简化算法生成多级簇关系图，结合相机距离与误差阈值动态选择最佳簇组，适用于大规模三角网格的高效渲染与光线追踪场景。
-
----
-
-## <a name="23"></a>23. 当前NSF资助项目检索中的关键词标记 
-<small>🔗 [mastodon.social](https://mastodon.social/@Lazarou/113943275616933776): Words flagged in search of current NSF awards</small>
-
-
-| 🔥🔥: 133 \| 💬: [134](https://news.ycombinator.com/item?id=42932760) \| 🗓️ 2025-02-04
-
-
-<br />
-为使用**Mastodon网页应用**需启用**JavaScript**，或可尝试对应平台的**原生应用**替代方案。内容涉及技术实现方式与平台兼容性要求，未提及具体NSF资助项目细节。
-
----
-
-## <a name="24"></a>24. 塑造科学世纪的百部经典 
-<small>🔗 [web.mnstate.edu](https://web.mnstate.edu/schwartz/centurylist2.html): 100 Or so Books that shaped a Century of Science (1999)</small>
-
-
-| 🔥🔥: 133 \| 💬: [32](https://news.ycombinator.com/item?id=42933507) \| 🗓️ 2025-02-04
-
-
-<br />
-本文梳理了20世纪影响深远的科学著作，涵盖**科学思想史**、**跨学科影响**及人类认知突破。从达尔文《自传》到霍金《时间简史》，从《双螺旋》揭示DNA结构到卡森《寂静的春天》引发环保革命，书籍跨越生物学、物理学、地质学及社会学等领域。部分经典如《牛津英语词典》与《博弈论》奠定了学科基石，小说如《万有引力之虹》则以文学映射科学伦理。这些著作不仅记录**知识演进**，更塑造了现代科学与社会对话的框架。
-
----
-
-## <a name="25"></a>25. TikTok算法在2024年总统竞选中显现亲共和党倾向 
-<small>🔗 [psypost.org](https://www.psypost.org/tiktoks-algorithm-exhibited-pro-republican-bias-during-2024-presidential-race-study-finds/): TikTok's algorithm exhibited pro-Republican bias during 2024 presidential race</small>
-
-
-| 🔥🔥: 133 \| 💬: [102](https://news.ycombinator.com/item?id=42936002) \| 🗓️ 2025-02-04
-
-
-<br />
-研究发现，**右翼威权主义**与将少数群体视为威胁的认知存在关联，但这一倾向在**国家宗教性较高**或**社会边缘化程度较深**的地区有所减弱，表明威权态度受社会文化背景显著影响。
 
 ---
