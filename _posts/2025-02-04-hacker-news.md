@@ -12,7 +12,7 @@ tags:
 1. 2025年支付危机：不再仅是“只读”权限；
 1. 甲骨文利用Node.js维护JavaScript商标——现要求忽略相关证据；
 1. Apple 邀请函；
-1. 谷歌放弃AI不用于武器或监控的承诺；
+1. Beej's Git 指南；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [danieldelaney.net](https://danieldelaney.net/chat/): Chat is a bad UI pattern for development tools</small>
 
 
-| 🔥🔥: 707 \| 💬: [375](https://news.ycombinator.com/item?id=42934190) \| 🗓️ 2025-02-04
+| 🔥🔥: 721 \| 💬: [379](https://news.ycombinator.com/item?id=42934190) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [crisesnotes.com](https://www.crisesnotes.com/day-five-of-the-trump-musk-treasury-payments-crisis-of-2025-not-read-only-access-anymore/): Payments crisis of 2025: Not “read only” access anymore</small>
 
 
-| 🔥🔥: 486 \| 💬: [542](https://news.ycombinator.com/item?id=42933219) \| 🗓️ 2025-02-04
+| 🔥🔥: 491 \| 💬: [544](https://news.ycombinator.com/item?id=42933219) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -51,7 +51,7 @@ Nathan Tankus揭露**Elon Musk团队**通过DOGE项目获取美国财政部核�
 <small>🔗 [deno.com](https://deno.com/blog/deno-v-oracle2): Oracle justified its JavaScript trademark with Node.js–now it wants that ignored</small>
 
 
-| 🔥🔥: 452 \| 💬: [113](https://news.ycombinator.com/item?id=42939940) \| 🗓️ 2025-02-04
+| 🔥🔥: 467 \| 💬: [119](https://news.ycombinator.com/item?id=42939940) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -63,7 +63,7 @@ Nathan Tankus揭露**Elon Musk团队**通过DOGE项目获取美国财政部核�
 <small>🔗 [apple.com](https://www.apple.com/newsroom/2025/02/introducing-apple-invites-a-new-app-that-brings-people-together/): Apple Invites</small>
 
 
-| 🔥🔥: 442 \| 💬: [650](https://news.ycombinator.com/item?id=42934422) \| 🗓️ 2025-02-04
+| 🔥🔥: 462 \| 💬: [670](https://news.ycombinator.com/item?id=42934422) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -71,23 +71,11 @@ Nathan Tankus揭露**Elon Musk团队**通过DOGE项目获取美国财政部核�
 
 ---
 
-## <a name="5"></a>5. 谷歌放弃AI不用于武器或监控的承诺 
-<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/02/04/google-ai-policies-weapons-harm): Google drops pledge not to use AI for weapons or surveillance</small>
-
-
-| 🔥🔥: 372 \| 💬: [416](https://news.ycombinator.com/item?id=42938125) \| 🗓️ 2025-02-04
-
-
-<br />
-谷歌更新AI伦理准则，移除此前“不将AI用于**武器开发**及**监控技术**”的条款，转而强调需为**民主国家政府与国家安全客户**提供服务。公司称调整因AI技术普及化及地缘竞争加剧，需在“国际法与人权原则”框架下推动技术应用，但未明确回应具体政策变化。此前员工曾抗议与五角大楼合作的Maven项目，迫使谷歌2018年首度发布AI原则并终止合约。此次调整引发外界对科技公司军事化合作的担忧。
-
----
-
-## <a name="6"></a>6. Beej's Git 指南 
+## <a name="5"></a>5. Beej's Git 指南 
 <small>🔗 [beej.us](https://beej.us/guide/bggit/): Beej's Guide to Git</small>
 
 
-| 🔥🔥: 354 \| 💬: [85](https://news.ycombinator.com/item?id=42941283) \| 🗓️ 2025-02-04
+| 🔥🔥: 404 \| 💬: [104](https://news.ycombinator.com/item?id=42941283) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -95,11 +83,23 @@ Nathan Tankus揭露**Elon Musk团队**通过DOGE项目获取美国财政部核�
 
 ---
 
+## <a name="6"></a>6. 谷歌放弃AI不用于武器或监控的承诺 
+<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/02/04/google-ai-policies-weapons-harm): Google drops pledge not to use AI for weapons or surveillance</small>
+
+
+| 🔥🔥: 395 \| 💬: [424](https://news.ycombinator.com/item?id=42938125) \| 🗓️ 2025-02-04
+
+
+<br />
+谷歌更新AI伦理准则，移除此前“不将AI用于**武器开发**及**监控技术**”的条款，转而强调需为**民主国家政府与国家安全客户**提供服务。公司称调整因AI技术普及化及地缘竞争加剧，需在“国际法与人权原则”框架下推动技术应用，但未明确回应具体政策变化。此前员工曾抗议与五角大楼合作的Maven项目，迫使谷歌2018年首度发布AI原则并终止合约。此次调整引发外界对科技公司军事化合作的担忧。
+
+---
+
 ## <a name="7"></a>7. GitHub揭露工程师如何清洗联邦数据库中的敏感词汇 
 <small>🔗 [404media.co](https://www.404media.co/forbidden-words-github-reveals-how-software-engineers-are-purging-federal-databases/): GitHub reveals how software engineers are purging federal databases</small>
 
 
-| 🔥🔥: 318 \| 💬: [257](https://news.ycombinator.com/item?id=42936940) \| 🗓️ 2025-02-04
+| 🔥🔥: 321 \| 💬: [259](https://news.ycombinator.com/item?id=42936940) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -111,7 +111,7 @@ Nathan Tankus揭露**Elon Musk团队**通过DOGE项目获取美国财政部核�
 <small>🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-02-03/vanguard-s-average-fee-is-now-just-0-07-after-biggest-ever-cut): Vanguard's average fee is now 0.07% after biggest-ever cut</small>
 
 
-| 🔥🔥: 313 \| 💬: [254](https://news.ycombinator.com/item?id=42933283) \| 🗓️ 2025-02-04
+| 🔥🔥: 314 \| 💬: [254](https://news.ycombinator.com/item?id=42933283) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -123,7 +123,7 @@ Nathan Tankus揭露**Elon Musk团队**通过DOGE项目获取美国财政部核�
 <small>🔗 [gist.github.com](https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f): Roc rewrites the compiler in Zig</small>
 
 
-| 🔥🔥: 297 \| 💬: [186](https://news.ycombinator.com/item?id=42935516) \| 🗓️ 2025-02-04
+| 🔥🔥: 299 \| 💬: [190](https://news.ycombinator.com/item?id=42935516) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -147,7 +147,7 @@ Roc 团队宣布将 **自举（Self-Hosting）** 编译器从 Rust 迁移至 Zig
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/02/04/google-removes-pledge-to-not-use-ai-for-weapons-from-website/): Google removes pledge to not use AI for weapons from website</small>
 
 
-| 🔥🔥: 235 \| 💬: [2](https://news.ycombinator.com/item?id=42940284) \| 🗓️ 2025-02-04
+| 🔥🔥: 237 \| 💬: [2](https://news.ycombinator.com/item?id=42940284) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -159,7 +159,7 @@ Roc 团队宣布将 **自举（Self-Hosting）** 编译器从 Rust 迁移至 Zig
 <small>🔗 [cnn.com](https://www.cnn.com/2025/02/04/business/air-traffic-controller-shortage/index.html): America desperately needs more air traffic controllers</small>
 
 
-| 🔥🔥: 212 \| 💬: [418](https://news.ycombinator.com/item?id=42933840) \| 🗓️ 2025-02-04
+| 🔥🔥: 226 \| 💬: [443](https://news.ycombinator.com/item?id=42933840) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -183,7 +183,7 @@ Modal团队开发的**开源Slack机器人**可通过**LoRA微调技术**学习�
 <small>🔗 [seangoedecke.com](https://www.seangoedecke.com/how-i-use-llms/): How I use LLMs as a staff engineer</small>
 
 
-| 🔥🔥: 203 \| 💬: [162](https://news.ycombinator.com/item?id=42938409) \| 🗓️ 2025-02-04
+| 🔥🔥: 209 \| 💬: [162](https://news.ycombinator.com/item?id=42938409) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -191,23 +191,11 @@ Modal团队开发的**开源Slack机器人**可通过**LoRA微调技术**学习�
 
 ---
 
-## <a name="15"></a>15. 像Simon Willison一样打造链接博客 
-<small>🔗 [xuanwo.io](https://xuanwo.io/links/2025/01/link-blog/): Build a link blog like Simon Willison</small>
-
-
-| 🔥🔥: 202 \| 💬: [50](https://news.ycombinator.com/item?id=42933383) \| 🗓️ 2025-02-04
-
-
-<br />
-作者受Simon Willison启发建立个人链接博客，主张通过**频繁写作**积累长期价值，而非追求**独特见解**。内容结合**公共书签**与个人评论，为读者提供超越原文的深度：补充背景、关联过往文章（如提示缓存与上下文缓存对比），形成知识网络。此举旨在打破“内容必须完美”的心理障碍，强调持续输出本身的意义，既利己（知识存档）亦利他（增强阅读体验）。
-
----
-
-## <a name="16"></a>16. Jujutsu VCS：颠覆性版本控制工具解析 
+## <a name="15"></a>15. Jujutsu VCS：颠覆性版本控制工具解析 
 <small>🔗 [kubamartin.com](https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/): Jujutsu VCS: Introduction and patterns</small>
 
 
-| 🔥🔥: 200 \| 💬: [82](https://news.ycombinator.com/item?id=42934427) \| 🗓️ 2025-02-04
+| 🔥🔥: 205 \| 💬: [87](https://news.ycombinator.com/item?id=42934427) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -215,23 +203,23 @@ Modal团队开发的**开源Slack机器人**可通过**LoRA微调技术**学习�
 
 ---
 
-## <a name="17"></a>17. 政府规划七年未果 河狸两天筑坝省百万 
-<small>🔗 [voxnews.al](https://www.voxnews.al/english/kosovabota/qeveria-po-e-planifikonte-prej-7-vitesh-kastoret-ndertojne-brenda-dy--i84652): Government planned it 7 years, beavers built a dam in 2 days and saved $1M</small>
+## <a name="16"></a>16. 像Simon Willison一样打造链接博客 
+<small>🔗 [xuanwo.io](https://xuanwo.io/links/2025/01/link-blog/): Build a link blog like Simon Willison</small>
 
 
-| 🔥🔥: 181 \| 💬: [89](https://news.ycombinator.com/item?id=42938802) \| 🗓️ 2025-02-04
+| 🔥🔥: 204 \| 💬: [50](https://news.ycombinator.com/item?id=42933383) \| 🗓️ 2025-02-04
 
 
 <br />
-一段未被公开的阿尔巴尼亚语报道引发关注：某地**政府耗时七年规划防洪工程**，却因效率迟缓未能落地。野生**河狸仅用两天筑成天然水坝**，不仅化解洪灾风险，还省下近**100万美元治理费用**。此事凸显自然生态方案的意外高效性，引发对人工干预与自然平衡的反思。
+作者受Simon Willison启发建立个人链接博客，主张通过**频繁写作**积累长期价值，而非追求**独特见解**。内容结合**公共书签**与个人评论，为读者提供超越原文的深度：补充背景、关联过往文章（如提示缓存与上下文缓存对比），形成知识网络。此举旨在打破“内容必须完美”的心理障碍，强调持续输出本身的意义，既利己（知识存档）亦利他（增强阅读体验）。
 
 ---
 
-## <a name="18"></a>18. 活动人士信息安全基础指南 
+## <a name="17"></a>17. 活动人士信息安全基础指南 
 <small>🔗 [infosecforactivists.org](https://infosecforactivists.org): Infosec 101 for Activists</small>
 
 
-| 🔥🔥: 181 \| 💬: [61](https://news.ycombinator.com/item?id=42939862) \| 🗓️ 2025-02-04
+| 🔥🔥: 204 \| 💬: [68](https://news.ycombinator.com/item?id=42939862) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -239,11 +227,23 @@ Modal团队开发的**开源Slack机器人**可通过**LoRA微调技术**学习�
 
 ---
 
+## <a name="18"></a>18. 政府规划七年未果 河狸两天筑坝省百万 
+<small>🔗 [voxnews.al](https://www.voxnews.al/english/kosovabota/qeveria-po-e-planifikonte-prej-7-vitesh-kastoret-ndertojne-brenda-dy--i84652): Government planned it 7 years, beavers built a dam in 2 days and saved $1M</small>
+
+
+| 🔥🔥: 183 \| 💬: [89](https://news.ycombinator.com/item?id=42938802) \| 🗓️ 2025-02-04
+
+
+<br />
+一段未被公开的阿尔巴尼亚语报道引发关注：某地**政府耗时七年规划防洪工程**，却因效率迟缓未能落地。野生**河狸仅用两天筑成天然水坝**，不仅化解洪灾风险，还省下近**100万美元治理费用**。此事凸显自然生态方案的意外高效性，引发对人工干预与自然平衡的反思。
+
+---
+
 ## <a name="19"></a>19. 辐射泡沫：实时可微分光线追踪 
 <small>🔗 [radfoam.github.io](https://radfoam.github.io): Radiant Foam: Real-Time Differentiable Ray Tracing</small>
 
 
-| 🔥🔥: 180 \| 💬: [21](https://news.ycombinator.com/item?id=42931109) \| 🗓️ 2025-02-04
+| 🔥🔥: 181 \| 💬: [21](https://news.ycombinator.com/item?id=42931109) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -251,23 +251,11 @@ Modal团队开发的**开源Slack机器人**可通过**LoRA微调技术**学习�
 
 ---
 
-## <a name="20"></a>20. 艾伦·图灵的“黛利拉”项目 
-<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/alan-turings-delilah): Alan Turing's "Delilah" project</small>
-
-
-| 🔥🔥: 161 \| 💬: [20](https://news.ycombinator.com/item?id=42933049) \| 🗓️ 2025-02-04
-
-
-<br />
-二战期间，图灵与助手唐纳德·贝利秘密开发了**便携式语音加密设备“黛利拉”**，通过**伪随机数密钥生成器**将语音信号数字化并加密。尽管设备最终未投入实战，但其创新性为现代密码学奠定基础。2023年，记录该项目的“贝利文件”以高价拍卖，首次公开图灵从理论数学转向工程实践的手稿，揭示了他在电路设计与电子工程领域的突破性探索。项目虽被遗忘，却成为图灵后续设计电子计算机的重要跳板。
-
----
-
-## <a name="21"></a>21. 如何扩展模型：从系统视角看TPU上的大语言模型 
+## <a name="20"></a>20. 如何扩展模型：从系统视角看TPU上的大语言模型 
 <small>🔗 [jax-ml.github.io](https://jax-ml.github.io/scaling-book/): How to scale your model: A systems view of LLMs on TPUs</small>
 
 
-| 🔥🔥: 160 \| 💬: [22](https://news.ycombinator.com/item?id=42936910) \| 🗓️ 2025-02-04
+| 🔥🔥: 163 \| 💬: [22](https://news.ycombinator.com/item?id=42936910) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -275,11 +263,23 @@ Modal团队开发的**开源Slack机器人**可通过**LoRA微调技术**学习�
 
 ---
 
+## <a name="21"></a>21. 艾伦·图灵的“黛利拉”项目 
+<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/alan-turings-delilah): Alan Turing's "Delilah" project</small>
+
+
+| 🔥🔥: 161 \| 💬: [19](https://news.ycombinator.com/item?id=42933049) \| 🗓️ 2025-02-04
+
+
+<br />
+二战期间，图灵与助手唐纳德·贝利秘密开发了**便携式语音加密设备“黛利拉”**，通过**伪随机数密钥生成器**将语音信号数字化并加密。尽管设备最终未投入实战，但其创新性为现代密码学奠定基础。2023年，记录该项目的“贝利文件”以高价拍卖，首次公开图灵从理论数学转向工程实践的手稿，揭示了他在电路设计与电子工程领域的突破性探索。项目虽被遗忘，却成为图灵后续设计电子计算机的重要跳板。
+
+---
+
 ## <a name="22"></a>22. DeepRAG：大语言模型的分步检索推理框架 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.01142): DeepRAG: Thinking to retrieval step by step for large language models</small>
 
 
-| 🔥🔥: 151 \| 💬: [23](https://news.ycombinator.com/item?id=42932948) \| 🗓️ 2025-02-04
+| 🔥🔥: 155 \| 💬: [23](https://news.ycombinator.com/item?id=42932948) \| 🗓️ 2025-02-04
 
 
 <br />
@@ -303,7 +303,7 @@ Modal团队开发的**开源Slack机器人**可通过**LoRA微调技术**学习�
 <small>🔗 [omnihuman-lab.github.io](https://omnihuman-lab.github.io/): OmniHuman-1: Human Animation Models</small>
 
 
-| 🔥🔥: 139 \| 💬: [29](https://news.ycombinator.com/item?id=42930639) \| 🗓️ 2025-02-04
+| 🔥🔥: 140 \| 💬: [29](https://news.ycombinator.com/item?id=42930639) \| 🗓️ 2025-02-04
 
 
 <br />
