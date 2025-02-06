@@ -10,13 +10,13 @@ tags:
 
 1. 软件开发中我改变看法的几个议题；
 1. S1：仅耗资6美元的R1竞争者？；
-1. 美国鸡蛋价格走势图表；
 1. 在保持信息获取的同时避免愤怒疲劳；
+1. 美国鸡蛋价格走势图表；
 1. 华纳兄弟探索为何将老电影搬上YouTube？；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共21条，具体内容您往下读...
+总共22条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [chriskiehl.com](https://chriskiehl.com/article/thoughts-after-10-years): Software development topics I've changed my mind on</small>
 
 
-| 🔥🔥: 570 \| 💬: [567](https://news.ycombinator.com/item?id=42946281) \| 🗓️ 2025-02-05
+| 🔥🔥: 582 \| 💬: [583](https://news.ycombinator.com/item?id=42946281) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [timkellogg.me](https://timkellogg.me/blog/2025/02/03/s1): S1: A $6 R1 competitor?</small>
 
 
-| 🔥🔥: 536 \| 💬: [217](https://news.ycombinator.com/item?id=42946854) \| 🗓️ 2025-02-05
+| 🔥🔥: 560 \| 💬: [224](https://news.ycombinator.com/item?id=42946854) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -47,23 +47,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 美国鸡蛋价格走势图表 
-<small>🔗 [tradingeconomics.com](https://tradingeconomics.com/commodity/eggs-us): Eggs US – Price – Chart</small>
-
-
-| 🔥🔥: 421 \| 💬: [581](https://news.ycombinator.com/item?id=42950929) \| 🗓️ 2025-02-05
-
-
-<br />
-根据追踪该商品的**差价合约（CFD）**数据，2025年初以来，美国鸡蛋价格上涨22.03%（1.28美元/打），并于2025年1月创下**历史新高7.09美元/打**。美国农业部预测，本季度末价格或达7.66美元/打，未来12个月内可能进一步升至9.67美元。期货合约等金融工具被用于对冲鸡蛋价格波动风险，相关数据基于场外交易（OTC）及CFD市场。
-
----
-
-## <a name="4"></a>4. 在保持信息获取的同时避免愤怒疲劳 
+## <a name="3"></a>3. 在保持信息获取的同时避免愤怒疲劳 
 <small>🔗 [scientificamerican.com](https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/): Avoiding outrage fatigue while staying informed</small>
 
 
-| 🔥🔥: 417 \| 💬: [388](https://news.ycombinator.com/item?id=42949277) \| 🗓️ 2025-02-05
+| 🔥🔥: 439 \| 💬: [419](https://news.ycombinator.com/item?id=42949277) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -71,11 +59,23 @@ tags:
 
 ---
 
+## <a name="4"></a>4. 美国鸡蛋价格走势图表 
+<small>🔗 [tradingeconomics.com](https://tradingeconomics.com/commodity/eggs-us): Eggs US – Price – Chart</small>
+
+
+| 🔥🔥: 436 \| 💬: [606](https://news.ycombinator.com/item?id=42950929) \| 🗓️ 2025-02-05
+
+
+<br />
+根据追踪该商品的**差价合约（CFD）**数据，2025年初以来，美国鸡蛋价格上涨22.03%（1.28美元/打），并于2025年1月创下**历史新高7.09美元/打**。美国农业部预测，本季度末价格或达7.66美元/打，未来12个月内可能进一步升至9.67美元。期货合约等金融工具被用于对冲鸡蛋价格波动风险，相关数据基于场外交易（OTC）及CFD市场。
+
+---
+
 ## <a name="5"></a>5. 华纳兄弟探索为何将老电影搬上YouTube？ 
 <small>🔗 [tedium.co](https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/): Why is Warner Bros. Discovery putting old movies on YouTube?</small>
 
 
-| 🔥🔥: 395 \| 💬: [303](https://news.ycombinator.com/item?id=42949181) \| 🗓️ 2025-02-05
+| 🔥🔥: 413 \| 💬: [319](https://news.ycombinator.com/item?id=42949181) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [blog.google](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/): Gemini 2.0 is now available to everyone</small>
 
 
-| 🔥🔥: 364 \| 💬: [167](https://news.ycombinator.com/item?id=42950454) \| 🗓️ 2025-02-05
+| 🔥🔥: 384 \| 💬: [172](https://news.ycombinator.com/item?id=42950454) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [servo.org](https://servo.org/blog/2025/01/31/servo-in-2024/): Servo's progress in 2024</small>
 
 
-| 🔥🔥: 273 \| 💬: [96](https://news.ycombinator.com/item?id=42949390) \| 🗓️ 2025-02-05
+| 🔥🔥: 291 \| 💬: [105](https://news.ycombinator.com/item?id=42949390) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -107,23 +107,11 @@ tags:
 
 ---
 
-## <a name="8"></a>8. DOGE员工被勒令停止使用Slack 
-<small>🔗 [404media.co](https://www.404media.co/doge-employees-ordered-to-stop-using-slack-while-agency-transitions-to-a-records-system-not-subject-to-foia/): DOGE employees ordered to stop using Slack</small>
-
-
-| 🔥🔥: 237 \| 💬: [179](https://news.ycombinator.com/item?id=42951458) \| 🗓️ 2025-02-05
-
-
-<br />
-美国数字服务局（现更名为**DOGE**）要求员工暂停使用Slack，因政府律师正将其过渡至不受《信息自由法》（**FOIA**）约束的总统行政办公室（EOP）。此举旨在将机构记录归类为《总统记录法》管辖（卸任后才公开），而非需即时公开的《联邦记录法》。专家指出，DOGE实际执行跨部门职能，其“仅向总统提供建议”的定位存疑，相关法律地位或面临司法挑战。尽管DOGE试图规避透明度，但与其互动的其他联邦机构仍可能通过FOIA披露部分记录。
-
----
-
-## <a name="9"></a>9. Andrej Karpathy：深入解析ChatGPT等大型语言模型 
+## <a name="8"></a>8. Andrej Karpathy：深入解析ChatGPT等大型语言模型 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=7xTGNNLPyMI): Andrej Karpathy: Deep Dive into LLMs Like ChatGPT [video]</small>
 
 
-| 🔥🔥: 227 \| 💬: [19](https://news.ycombinator.com/item?id=42952960) \| 🗓️ 2025-02-05
+| 🔥🔥: 257 \| 💬: [21](https://news.ycombinator.com/item?id=42952960) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -131,11 +119,23 @@ tags:
 
 ---
 
+## <a name="9"></a>9. DOGE员工被勒令停止使用Slack 
+<small>🔗 [404media.co](https://www.404media.co/doge-employees-ordered-to-stop-using-slack-while-agency-transitions-to-a-records-system-not-subject-to-foia/): DOGE employees ordered to stop using Slack</small>
+
+
+| 🔥🔥: 249 \| 💬: [225](https://news.ycombinator.com/item?id=42951458) \| 🗓️ 2025-02-05
+
+
+<br />
+美国数字服务局（现更名为**DOGE**）要求员工暂停使用Slack，因政府律师正将其过渡至不受《信息自由法》（**FOIA**）约束的总统行政办公室（EOP）。此举旨在将机构记录归类为《总统记录法》管辖（卸任后才公开），而非需即时公开的《联邦记录法》。专家指出，DOGE实际执行跨部门职能，其“仅向总统提供建议”的定位存疑，相关法律地位或面临司法挑战。尽管DOGE试图规避透明度，但与其互动的其他联邦机构仍可能通过FOIA披露部分记录。
+
+---
+
 ## <a name="10"></a>10. F-Droid 获开放技术基金会 FOSS 可持续性资助 
 <small>🔗 [f-droid.org](https://f-droid.org/2025/02/05/f-droid-awarded-otf-grant.html): F-Droid Awarded Open Technology Fund's FOSS Sustainability Grant</small>
 
 
-| 🔥🔥: 223 \| 💬: [46](https://news.ycombinator.com/item?id=42948373) \| 🗓️ 2025-02-05
+| 🔥🔥: 226 \| 💬: [46](https://news.ycombinator.com/item?id=42948373) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -147,7 +147,7 @@ F-Droid 获得开放技术基金会（OTF）39.6 万美元资助，用于解决�
 <small>🔗 [neowin.net](https://www.neowin.net/news/microsoft-quietly-removes-official-windows-11-cputpm-bypass-for-unsupported-pcs/): Microsoft deletes official Windows 11 CPU/TPM bypass for unsupported PCs</small>
 
 
-| 🔥🔥: 168 \| 💬: [240](https://news.ycombinator.com/item?id=42947049) \| 🗓️ 2025-02-05
+| 🔥🔥: 170 \| 💬: [241](https://news.ycombinator.com/item?id=42947049) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -159,7 +159,7 @@ F-Droid 获得开放技术基金会（OTF）39.6 万美元资助，用于解决�
 <small>🔗 [ounapuu.ee](https://ounapuu.ee/posts/2025/02/05/done-with-ubuntu/): I'm Done with Ubuntu</small>
 
 
-| 🔥🔥: 151 \| 💬: [254](https://news.ycombinator.com/item?id=42949222) \| 🗓️ 2025-02-05
+| 🔥🔥: 154 \| 💬: [257](https://news.ycombinator.com/item?id=42949222) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -171,7 +171,7 @@ F-Droid 获得开放技术基金会（OTF）39.6 万美元资助，用于解决�
 <small>🔗 [arstechnica.com](https://arstechnica.com/cars/2025/02/tesla-sales-plummet-in-the-uk-france-and-germany/): Tesla sales plummet in the UK, France, and Germany</small>
 
 
-| 🔥🔥: 144 \| 💬: [127](https://news.ycombinator.com/item?id=42952088) \| 🗓️ 2025-02-05
+| 🔥🔥: 149 \| 💬: [134](https://news.ycombinator.com/item?id=42952088) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -195,7 +195,7 @@ F-Droid 获得开放技术基金会（OTF）39.6 万美元资助，用于解决�
 <small>🔗 [zig.guide](https://zig.guide/): Zig Guide</small>
 
 
-| 🔥🔥: 123 \| 💬: [39](https://news.ycombinator.com/item?id=42953206) \| 🗓️ 2025-02-05
+| 🔥🔥: 130 \| 💬: [43](https://news.ycombinator.com/item?id=42953206) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -207,7 +207,7 @@ Zig 是一种通用编程语言及工具链，专注于构建**健壮、高效�
 <small>🔗 [research.swtch.com](https://research.swtch.com/godata): Go Data Structures (2009)</small>
 
 
-| 🔥🔥: 121 \| 💬: [63](https://news.ycombinator.com/item?id=42946232) \| 🗓️ 2025-02-05
+| 🔥🔥: 122 \| 💬: [63](https://news.ycombinator.com/item?id=42946232) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -217,35 +217,11 @@ Zig 是一种通用编程语言及工具链，专注于构建**健壮、高效�
 
 ---
 
-## <a name="17"></a>17. FBI提交5000名参与国会骚乱调查员工信息 
-<small>🔗 [cnn.com](https://www.cnn.com/2025/02/04/politics/fbi-employees-tuesday/index.html): FBI turns over details of 5000 employees who worked on January 6 cases</small>
-
-
-| 🔥: 93 \| 💬: [52](https://news.ycombinator.com/item?id=42949784) \| 🗓️ 2025-02-05
-
-
-<br />
-美国司法部要求FBI提供参与2021年1月6日国会骚乱案件调查的**5000余名员工信息**（含职务及案件角色），引发内部担忧此举是为**政治清算**铺路。匿名员工集体起诉指控违宪，法院批准其以化名维权。此前特朗普政府已解雇8名高层，并计划通过审查流程推动更大规模人员调整。员工律师警告公开信息将导致**人肉搜索与人身安全风险**，部分共和党议员也呼吁停止报复性行动。
-
----
-
-## <a name="18"></a>18. 数独事件 
-<small>🔗 [explaining.software](https://explaining.software/archive/the-sudoku-affair/): The Sudoku Affair</small>
-
-
-| 🔥: 86 \| 💬: [18](https://news.ycombinator.com/item?id=42953168) \| 🗓️ 2025-02-05
-
-
-<br />
-2006年，Ron Jeffries尝试以**增量设计**开发数独求解器，但陷入代码重构与测试调整的循环，最终放弃。同一时期，Peter Norvig仅用15行代码实现高效解法，核心在于**约束传播**与**递归搜索**，其数据模型（`Map[Coord, Set[Int]]`）直接映射数独规则。Jeffries受数据库应用背景影响，选择模仿界面呈现的`List[Option[Int]]`，导致逻辑复杂；Norvig因AI领域经验，从问题本质切入。Jeffries后期虽完成求解器，但代码冗余且设计松散，反衬出增量设计在跨领域问题中的局限性——缺乏宏观视角时，局部优化难抵系统性缺陷。
-
----
-
-## <a name="19"></a>19. Okta Bcrypt事件对API设计的启示 
+## <a name="17"></a>17. Okta Bcrypt事件对API设计的启示 
 <small>🔗 [n0rdy.foo](https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/): Okta Bcrypt incident lessons for designing better APIs</small>
 
 
-| 🔥: 73 \| 💬: [36](https://news.ycombinator.com/item?id=42955176) \| 🗓️ 2025-02-05
+| 🔥🔥: 101 \| 💬: [42](https://news.ycombinator.com/item?id=42955176) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -253,11 +229,47 @@ Zig 是一种通用编程语言及工具链，专注于构建**健壮、高效�
 
 ---
 
-## <a name="20"></a>20. 《纽约时报》与OpenAI法律战已耗资1080万美元 
+## <a name="18"></a>18. 数独事件 
+<small>🔗 [explaining.software](https://explaining.software/archive/the-sudoku-affair/): The Sudoku Affair</small>
+
+
+| 🔥: 97 \| 💬: [24](https://news.ycombinator.com/item?id=42953168) \| 🗓️ 2025-02-05
+
+
+<br />
+2006年，Ron Jeffries尝试以**增量设计**开发数独求解器，但陷入代码重构与测试调整的循环，最终放弃。同一时期，Peter Norvig仅用15行代码实现高效解法，核心在于**约束传播**与**递归搜索**，其数据模型（`Map[Coord, Set[Int]]`）直接映射数独规则。Jeffries受数据库应用背景影响，选择模仿界面呈现的`List[Option[Int]]`，导致逻辑复杂；Norvig因AI领域经验，从问题本质切入。Jeffries后期虽完成求解器，但代码冗余且设计松散，反衬出增量设计在跨领域问题中的局限性——缺乏宏观视角时，局部优化难抵系统性缺陷。
+
+---
+
+## <a name="19"></a>19. FBI提交5000名参与国会骚乱调查员工信息 
+<small>🔗 [cnn.com](https://www.cnn.com/2025/02/04/politics/fbi-employees-tuesday/index.html): FBI turns over details of 5000 employees who worked on January 6 cases</small>
+
+
+| 🔥: 93 \| 💬: [56](https://news.ycombinator.com/item?id=42949784) \| 🗓️ 2025-02-05
+
+
+<br />
+美国司法部要求FBI提供参与2021年1月6日国会骚乱案件调查的**5000余名员工信息**（含职务及案件角色），引发内部担忧此举是为**政治清算**铺路。匿名员工集体起诉指控违宪，法院批准其以化名维权。此前特朗普政府已解雇8名高层，并计划通过审查流程推动更大规模人员调整。员工律师警告公开信息将导致**人肉搜索与人身安全风险**，部分共和党议员也呼吁停止报复性行动。
+
+---
+
+## <a name="20"></a>20. mt32-pi项目或将永久停更 
+<small>🔗 [github.com](https://github.com/dwhinham/mt32-pi/blob/075b52809e77420c6e80828825fe42430336b369/README.md): It's unlikely that there will be any further releases of mt32-pi</small>
+
+
+| 🔥: 89 \| 💬: [27](https://news.ycombinator.com/item?id=42955613) \| 🗓️ 2025-02-05
+
+
+<br />
+开发者因长期遭受**VOGONS论坛成员恶意攻击、代码盗用及商业剽窃**，宣布停止更新。该项目为树莓派设计的无操作系统MIDI合成器，支持MT-32音源、SoundFonts及低延迟音频输出，曾获社区硬件捐赠与开源贡献。**心理健康问题**与创作热情消退为主要停更原因，开发者对早期支持者致谢，并强调项目代码遵循GPLv3协议，禁止商用篡改标识。
+
+---
+
+## <a name="21"></a>21. 《纽约时报》与OpenAI法律战已耗资1080万美元 
 <small>🔗 [hollywoodreporter.com](https://www.hollywoodreporter.com/business/business-news/new-york-times-legal-battle-openai-1236127637/): The New York Times Has Spent $10.8M in Its Legal Battle with OpenAI So Far</small>
 
 
-| 🔥: 71 \| 💬: [78](https://news.ycombinator.com/item?id=42952306) \| 🗓️ 2025-02-05
+| 🔥: 73 \| 💬: [82](https://news.ycombinator.com/item?id=42952306) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -265,11 +277,11 @@ Zig 是一种通用编程语言及工具链，专注于构建**健壮、高效�
 
 ---
 
-## <a name="21"></a>21. 21世纪的C++ 
+## <a name="22"></a>22. 21世纪的C++ 
 <small>🔗 [cacm.acm.org](https://cacm.acm.org/blogcacm/21st-century-c/): 21st Century C++</small>
 
 
-| 🔥: 64 \| 💬: [51](https://news.ycombinator.com/item?id=42952720) \| 🗓️ 2025-02-05
+| 🔥: 68 \| 💬: [60](https://news.ycombinator.com/item?id=42952720) \| 🗓️ 2025-02-05
 
 
 <br />
