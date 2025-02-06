@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共22条，具体内容您往下读...
+总共23条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [chriskiehl.com](https://chriskiehl.com/article/thoughts-after-10-years): Software development topics I've changed my mind on</small>
 
 
-| 🔥🔥: 606 \| 💬: [599](https://news.ycombinator.com/item?id=42946281) \| 🗓️ 2025-02-05
+| 🔥🔥: 620 \| 💬: [605](https://news.ycombinator.com/item?id=42946281) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [timkellogg.me](https://timkellogg.me/blog/2025/02/03/s1): S1: A $6 R1 competitor?</small>
 
 
-| 🔥🔥: 602 \| 💬: [236](https://news.ycombinator.com/item?id=42946854) \| 🗓️ 2025-02-05
+| 🔥🔥: 616 \| 💬: [240](https://news.ycombinator.com/item?id=42946854) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [scientificamerican.com](https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/): Avoiding outrage fatigue while staying informed</small>
 
 
-| 🔥🔥: 465 \| 💬: [451](https://news.ycombinator.com/item?id=42949277) \| 🗓️ 2025-02-05
+| 🔥🔥: 480 \| 💬: [468](https://news.ycombinator.com/item?id=42949277) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [tradingeconomics.com](https://tradingeconomics.com/commodity/eggs-us): Eggs US – Price – Chart</small>
 
 
-| 🔥🔥: 463 \| 💬: [636](https://news.ycombinator.com/item?id=42950929) \| 🗓️ 2025-02-05
+| 🔥🔥: 476 \| 💬: [643](https://news.ycombinator.com/item?id=42950929) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [tedium.co](https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/): Why is Warner Bros. Discovery putting old movies on YouTube?</small>
 
 
-| 🔥🔥: 431 \| 💬: [340](https://news.ycombinator.com/item?id=42949181) \| 🗓️ 2025-02-05
+| 🔥🔥: 440 \| 💬: [348](https://news.ycombinator.com/item?id=42949181) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [blog.google](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/): Gemini 2.0 is now available to everyone</small>
 
 
-| 🔥🔥: 415 \| 💬: [182](https://news.ycombinator.com/item?id=42950454) \| 🗓️ 2025-02-05
+| 🔥🔥: 429 \| 💬: [186](https://news.ycombinator.com/item?id=42950454) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=7xTGNNLPyMI): Andrej Karpathy: Deep Dive into LLMs Like ChatGPT [video]</small>
 
 
-| 🔥🔥: 316 \| 💬: [22](https://news.ycombinator.com/item?id=42952960) \| 🗓️ 2025-02-05
+| 🔥🔥: 330 \| 💬: [24](https://news.ycombinator.com/item?id=42952960) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [servo.org](https://servo.org/blog/2025/01/31/servo-in-2024/): Servo's progress in 2024</small>
 
 
-| 🔥🔥: 310 \| 💬: [111](https://news.ycombinator.com/item?id=42949390) \| 🗓️ 2025-02-05
+| 🔥🔥: 318 \| 💬: [119](https://news.ycombinator.com/item?id=42949390) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -123,7 +123,7 @@ tags:
 <small>🔗 [404media.co](https://www.404media.co/doge-employees-ordered-to-stop-using-slack-while-agency-transitions-to-a-records-system-not-subject-to-foia/): DOGE employees ordered to stop using Slack</small>
 
 
-| 🔥🔥: 259 \| 💬: [245](https://news.ycombinator.com/item?id=42951458) \| 🗓️ 2025-02-05
+| 🔥🔥: 262 \| 💬: [250](https://news.ycombinator.com/item?id=42951458) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -135,7 +135,7 @@ tags:
 <small>🔗 [f-droid.org](https://f-droid.org/2025/02/05/f-droid-awarded-otf-grant.html): F-Droid Awarded Open Technology Fund's FOSS Sustainability Grant</small>
 
 
-| 🔥🔥: 228 \| 💬: [45](https://news.ycombinator.com/item?id=42948373) \| 🗓️ 2025-02-05
+| 🔥🔥: 228 \| 💬: [46](https://news.ycombinator.com/item?id=42948373) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -147,7 +147,7 @@ F-Droid 获得开放技术基金会（OTF）39.6 万美元资助，用于解决�
 <small>🔗 [neowin.net](https://www.neowin.net/news/microsoft-quietly-removes-official-windows-11-cputpm-bypass-for-unsupported-pcs/): Microsoft deletes official Windows 11 CPU/TPM bypass for unsupported PCs</small>
 
 
-| 🔥🔥: 175 \| 💬: [247](https://news.ycombinator.com/item?id=42947049) \| 🗓️ 2025-02-05
+| 🔥🔥: 176 \| 💬: [252](https://news.ycombinator.com/item?id=42947049) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -159,7 +159,7 @@ F-Droid 获得开放技术基金会（OTF）39.6 万美元资助，用于解决�
 <small>🔗 [arstechnica.com](https://arstechnica.com/cars/2025/02/tesla-sales-plummet-in-the-uk-france-and-germany/): Tesla sales plummet in the UK, France, and Germany</small>
 
 
-| 🔥🔥: 158 \| 💬: [137](https://news.ycombinator.com/item?id=42952088) \| 🗓️ 2025-02-05
+| 🔥🔥: 161 \| 💬: [145](https://news.ycombinator.com/item?id=42952088) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -171,7 +171,7 @@ F-Droid 获得开放技术基金会（OTF）39.6 万美元资助，用于解决�
 <small>🔗 [ounapuu.ee](https://ounapuu.ee/posts/2025/02/05/done-with-ubuntu/): I'm Done with Ubuntu</small>
 
 
-| 🔥🔥: 154 \| 💬: [261](https://news.ycombinator.com/item?id=42949222) \| 🗓️ 2025-02-05
+| 🔥🔥: 154 \| 💬: [263](https://news.ycombinator.com/item?id=42949222) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -183,7 +183,7 @@ F-Droid 获得开放技术基金会（OTF）39.6 万美元资助，用于解决�
 <small>🔗 [n0rdy.foo](https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/): Okta Bcrypt incident lessons for designing better APIs</small>
 
 
-| 🔥🔥: 137 \| 💬: [63](https://news.ycombinator.com/item?id=42955176) \| 🗓️ 2025-02-05
+| 🔥🔥: 153 \| 💬: [66](https://news.ycombinator.com/item?id=42955176) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -207,7 +207,7 @@ F-Droid 获得开放技术基金会（OTF）39.6 万美元资助，用于解决�
 <small>🔗 [zig.guide](https://zig.guide/): Zig Guide</small>
 
 
-| 🔥🔥: 133 \| 💬: [43](https://news.ycombinator.com/item?id=42953206) \| 🗓️ 2025-02-05
+| 🔥🔥: 136 \| 💬: [45](https://news.ycombinator.com/item?id=42953206) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -215,11 +215,23 @@ Zig 是一种通用编程语言及工具链，专注于构建**健壮、高效�
 
 ---
 
-## <a name="17"></a>17. Go语言数据结构解析（2009年） 
+## <a name="17"></a>17. MP3免费开放意味着什么？ 
+<small>🔗 [idiallo.com](https://idiallo.com/blog/listen-mp3-is-free): What does it mean that MP3 is free?</small>
+
+
+| 🔥🔥: 133 \| 💬: [70](https://news.ycombinator.com/item?id=42957517) \| 🗓️ 2025-02-05
+
+
+<br />
+**MP3专利到期**后，编码器可免费用，但技术变革使其淡出主流。**流媒体平台**和**文件抽象化**趋势消解了本地存储需求，高速网络让文件体积不再敏感。尽管开发者仍受益于开放授权，大众却因习惯改变不再关注。这一曾定义数字音乐时代的格式，终成技术演进中的历史注脚。
+
+---
+
+## <a name="18"></a>18. Go语言数据结构解析（2009年） 
 <small>🔗 [research.swtch.com](https://research.swtch.com/godata): Go Data Structures (2009)</small>
 
 
-| 🔥🔥: 127 \| 💬: [63](https://news.ycombinator.com/item?id=42946232) \| 🗓️ 2025-02-05
+| 🔥🔥: 128 \| 💬: [64](https://news.ycombinator.com/item?id=42946232) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -229,11 +241,11 @@ Zig 是一种通用编程语言及工具链，专注于构建**健壮、高效�
 
 ---
 
-## <a name="18"></a>18. mt32-pi项目或将永久停更 
+## <a name="19"></a>19. mt32-pi项目或将永久停更 
 <small>🔗 [github.com](https://github.com/dwhinham/mt32-pi/blob/075b52809e77420c6e80828825fe42430336b369/README.md): It's unlikely that there will be any further releases of mt32-pi</small>
 
 
-| 🔥🔥: 114 \| 💬: [41](https://news.ycombinator.com/item?id=42955613) \| 🗓️ 2025-02-05
+| 🔥🔥: 121 \| 💬: [42](https://news.ycombinator.com/item?id=42955613) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -241,11 +253,11 @@ Zig 是一种通用编程语言及工具链，专注于构建**健壮、高效�
 
 ---
 
-## <a name="19"></a>19. 数独事件 
+## <a name="20"></a>20. 数独事件 
 <small>🔗 [explaining.software](https://explaining.software/archive/the-sudoku-affair/): The Sudoku Affair</small>
 
 
-| 🔥🔥: 109 \| 💬: [33](https://news.ycombinator.com/item?id=42953168) \| 🗓️ 2025-02-05
+| 🔥🔥: 117 \| 💬: [33](https://news.ycombinator.com/item?id=42953168) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -253,11 +265,11 @@ Zig 是一种通用编程语言及工具链，专注于构建**健壮、高效�
 
 ---
 
-## <a name="20"></a>20. FBI提交5000名参与国会骚乱调查员工信息 
+## <a name="21"></a>21. FBI提交5000名参与国会骚乱调查员工信息 
 <small>🔗 [cnn.com](https://www.cnn.com/2025/02/04/politics/fbi-employees-tuesday/index.html): FBI turns over details of 5000 employees who worked on January 6 cases</small>
 
 
-| 🔥: 94 \| 💬: [58](https://news.ycombinator.com/item?id=42949784) \| 🗓️ 2025-02-05
+| 🔥: 94 \| 💬: [59](https://news.ycombinator.com/item?id=42949784) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -265,7 +277,7 @@ Zig 是一种通用编程语言及工具链，专注于构建**健壮、高效�
 
 ---
 
-## <a name="21"></a>21. 《纽约时报》与OpenAI法律战已耗资1080万美元 
+## <a name="22"></a>22. 《纽约时报》与OpenAI法律战已耗资1080万美元 
 <small>🔗 [hollywoodreporter.com](https://www.hollywoodreporter.com/business/business-news/new-york-times-legal-battle-openai-1236127637/): The New York Times Has Spent $10.8M in Its Legal Battle with OpenAI So Far</small>
 
 
@@ -277,7 +289,7 @@ Zig 是一种通用编程语言及工具链，专注于构建**健壮、高效�
 
 ---
 
-## <a name="22"></a>22. 21世纪的C++ 
+## <a name="23"></a>23. 21世纪的C++ 
 <small>🔗 [cacm.acm.org](https://cacm.acm.org/blogcacm/21st-century-c/): 21st Century C++</small>
 
 
