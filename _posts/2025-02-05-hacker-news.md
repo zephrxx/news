@@ -27,7 +27,7 @@ tags:
 <small>🔗 [chriskiehl.com](https://chriskiehl.com/article/thoughts-after-10-years): Software development topics I've changed my mind on</small>
 
 
-| 🔥🔥: 636 \| 💬: [615](https://news.ycombinator.com/item?id=42946281) \| 🗓️ 2025-02-05
+| 🔥🔥: 646 \| 💬: [625](https://news.ycombinator.com/item?id=42946281) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [timkellogg.me](https://timkellogg.me/blog/2025/02/03/s1): S1: A $6 R1 competitor?</small>
 
 
-| 🔥🔥: 634 \| 💬: [252](https://news.ycombinator.com/item?id=42946854) \| 🗓️ 2025-02-05
+| 🔥🔥: 645 \| 💬: [256](https://news.ycombinator.com/item?id=42946854) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [scientificamerican.com](https://www.scientificamerican.com/podcast/episode/how-to-avoid-outrage-fatigue-and-tune-in-without-burning-out/): Avoiding outrage fatigue while staying informed</small>
 
 
-| 🔥🔥: 513 \| 💬: [504](https://news.ycombinator.com/item?id=42949277) \| 🗓️ 2025-02-05
+| 🔥🔥: 527 \| 💬: [526](https://news.ycombinator.com/item?id=42949277) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [tradingeconomics.com](https://tradingeconomics.com/commodity/eggs-us): Eggs US – Price – Chart</small>
 
 
-| 🔥🔥: 493 \| 💬: [656](https://news.ycombinator.com/item?id=42950929) \| 🗓️ 2025-02-05
+| 🔥🔥: 501 \| 💬: [658](https://news.ycombinator.com/item?id=42950929) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [tedium.co](https://tedium.co/2025/02/05/warner-bros-youtube-full-movie-releases/): Why is Warner Bros. Discovery putting old movies on YouTube?</small>
 
 
-| 🔥🔥: 460 \| 💬: [353](https://news.ycombinator.com/item?id=42949181) \| 🗓️ 2025-02-05
+| 🔥🔥: 468 \| 💬: [355](https://news.ycombinator.com/item?id=42949181) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [blog.google](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/): Gemini 2.0 is now available to everyone</small>
 
 
-| 🔥🔥: 451 \| 💬: [195](https://news.ycombinator.com/item?id=42950454) \| 🗓️ 2025-02-05
+| 🔥🔥: 461 \| 💬: [198](https://news.ycombinator.com/item?id=42950454) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=7xTGNNLPyMI): Andrej Karpathy: Deep Dive into LLMs Like ChatGPT [video]</small>
 
 
-| 🔥🔥: 374 \| 💬: [26](https://news.ycombinator.com/item?id=42952960) \| 🗓️ 2025-02-05
+| 🔥🔥: 386 \| 💬: [27](https://news.ycombinator.com/item?id=42952960) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [servo.org](https://servo.org/blog/2025/01/31/servo-in-2024/): Servo's progress in 2024</small>
 
 
-| 🔥🔥: 338 \| 💬: [124](https://news.ycombinator.com/item?id=42949390) \| 🗓️ 2025-02-05
+| 🔥🔥: 347 \| 💬: [127](https://news.ycombinator.com/item?id=42949390) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -123,7 +123,7 @@ tags:
 <small>🔗 [404media.co](https://www.404media.co/doge-employees-ordered-to-stop-using-slack-while-agency-transitions-to-a-records-system-not-subject-to-foia/): DOGE employees ordered to stop using Slack</small>
 
 
-| 🔥🔥: 268 \| 💬: [259](https://news.ycombinator.com/item?id=42951458) \| 🗓️ 2025-02-05
+| 🔥🔥: 273 \| 💬: [260](https://news.ycombinator.com/item?id=42951458) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -135,7 +135,7 @@ tags:
 <small>🔗 [f-droid.org](https://f-droid.org/2025/02/05/f-droid-awarded-otf-grant.html): F-Droid Awarded Open Technology Fund's FOSS Sustainability Grant</small>
 
 
-| 🔥🔥: 232 \| 💬: [48](https://news.ycombinator.com/item?id=42948373) \| 🗓️ 2025-02-05
+| 🔥🔥: 233 \| 💬: [48](https://news.ycombinator.com/item?id=42948373) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -143,23 +143,11 @@ F-Droid 获得开放技术基金会（OTF）39.6 万美元资助，用于解决�
 
 ---
 
-## <a name="11"></a>11. 微软删除官方Windows 11绕过CPU/TPM限制方案，旧设备升级无望 
-<small>🔗 [neowin.net](https://www.neowin.net/news/microsoft-quietly-removes-official-windows-11-cputpm-bypass-for-unsupported-pcs/): Microsoft deletes official Windows 11 CPU/TPM bypass for unsupported PCs</small>
-
-
-| 🔥🔥: 180 \| 💬: [253](https://news.ycombinator.com/item?id=42947049) \| 🗓️ 2025-02-05
-
-
-<br />
-微软曾于2021年通过**修改注册表**提供绕过Windows 11系统要求（如TPM 2.0和CPU型号）的升级方案，但近期悄然删除相关指南，不再支持旧设备升级。此举与微软强调“**新设备才能更新Windows 11**”的立场一致，合作伙伴戴尔、AMD等也表示支持。随着Windows 10停止支持临近，硬件升级压力或进一步加剧。
-
----
-
-## <a name="12"></a>12. Okta Bcrypt事件对API设计的启示 
+## <a name="11"></a>11. Okta Bcrypt事件对API设计的启示 
 <small>🔗 [n0rdy.foo](https://n0rdy.foo/posts/20250121/okta-bcrypt-lessons-for-better-apis/): Okta Bcrypt incident lessons for designing better APIs</small>
 
 
-| 🔥🔥: 175 \| 💬: [76](https://news.ycombinator.com/item?id=42955176) \| 🗓️ 2025-02-05
+| 🔥🔥: 192 \| 💬: [76](https://news.ycombinator.com/item?id=42955176) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -167,11 +155,23 @@ F-Droid 获得开放技术基金会（OTF）39.6 万美元资助，用于解决�
 
 ---
 
+## <a name="12"></a>12. 微软删除官方Windows 11绕过CPU/TPM限制方案，旧设备升级无望 
+<small>🔗 [neowin.net](https://www.neowin.net/news/microsoft-quietly-removes-official-windows-11-cputpm-bypass-for-unsupported-pcs/): Microsoft deletes official Windows 11 CPU/TPM bypass for unsupported PCs</small>
+
+
+| 🔥🔥: 181 \| 💬: [253](https://news.ycombinator.com/item?id=42947049) \| 🗓️ 2025-02-05
+
+
+<br />
+微软曾于2021年通过**修改注册表**提供绕过Windows 11系统要求（如TPM 2.0和CPU型号）的升级方案，但近期悄然删除相关指南，不再支持旧设备升级。此举与微软强调“**新设备才能更新Windows 11**”的立场一致，合作伙伴戴尔、AMD等也表示支持。随着Windows 10停止支持临近，硬件升级压力或进一步加剧。
+
+---
+
 ## <a name="13"></a>13. 特斯拉在英法德三国销量暴跌 
 <small>🔗 [arstechnica.com](https://arstechnica.com/cars/2025/02/tesla-sales-plummet-in-the-uk-france-and-germany/): Tesla sales plummet in the UK, France, and Germany</small>
 
 
-| 🔥🔥: 163 \| 💬: [157](https://news.ycombinator.com/item?id=42952088) \| 🗓️ 2025-02-05
+| 🔥🔥: 165 \| 💬: [157](https://news.ycombinator.com/item?id=42952088) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -183,7 +183,7 @@ F-Droid 获得开放技术基金会（OTF）39.6 万美元资助，用于解决�
 <small>🔗 [ounapuu.ee](https://ounapuu.ee/posts/2025/02/05/done-with-ubuntu/): I'm Done with Ubuntu</small>
 
 
-| 🔥🔥: 155 \| 💬: [265](https://news.ycombinator.com/item?id=42949222) \| 🗓️ 2025-02-05
+| 🔥🔥: 155 \| 💬: [267](https://news.ycombinator.com/item?id=42949222) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -195,7 +195,7 @@ F-Droid 获得开放技术基金会（OTF）39.6 万美元资助，用于解决�
 <small>🔗 [idiallo.com](https://idiallo.com/blog/listen-mp3-is-free): What does it mean that MP3 is free?</small>
 
 
-| 🔥🔥: 145 \| 💬: [79](https://news.ycombinator.com/item?id=42957517) \| 🗓️ 2025-02-05
+| 🔥🔥: 146 \| 💬: [82](https://news.ycombinator.com/item?id=42957517) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -207,7 +207,7 @@ F-Droid 获得开放技术基金会（OTF）39.6 万美元资助，用于解决�
 <small>🔗 [smithsonianmag.com](https://www.smithsonianmag.com/smart-news/the-human-brain-may-contain-as-much-as-a-spoons-worth-of-microplastics-new-research-suggests-180985995/): Microplastics in the human brain</small>
 
 
-| 🔥🔥: 142 \| 💬: [132](https://news.ycombinator.com/item?id=42957726) \| 🗓️ 2025-02-05
+| 🔥🔥: 145 \| 💬: [134](https://news.ycombinator.com/item?id=42957726) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -219,7 +219,7 @@ F-Droid 获得开放技术基金会（OTF）39.6 万美元资助，用于解决�
 <small>🔗 [zig.guide](https://zig.guide/): Zig Guide</small>
 
 
-| 🔥🔥: 138 \| 💬: [46](https://news.ycombinator.com/item?id=42953206) \| 🗓️ 2025-02-05
+| 🔥🔥: 141 \| 💬: [49](https://news.ycombinator.com/item?id=42953206) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -227,7 +227,19 @@ Zig 是一种通用编程语言及工具链，专注于构建**健壮、高效�
 
 ---
 
-## <a name="18"></a>18. 卡尔·萨根预言美国衰落：科学思维衰退将重返迷信与黑暗（1995） 
+## <a name="18"></a>18. mt32-pi项目或将永久停更 
+<small>🔗 [github.com](https://github.com/dwhinham/mt32-pi/blob/075b52809e77420c6e80828825fe42430336b369/README.md): It's unlikely that there will be any further releases of mt32-pi</small>
+
+
+| 🔥🔥: 139 \| 💬: [49](https://news.ycombinator.com/item?id=42955613) \| 🗓️ 2025-02-05
+
+
+<br />
+开发者因长期遭受**VOGONS论坛成员恶意攻击、代码盗用及商业剽窃**，宣布停止更新。该项目为树莓派设计的无操作系统MIDI合成器，支持MT-32音源、SoundFonts及低延迟音频输出，曾获社区硬件捐赠与开源贡献。**心理健康问题**与创作热情消退为主要停更原因，开发者对早期支持者致谢，并强调项目代码遵循GPLv3协议，禁止商用篡改标识。
+
+---
+
+## <a name="19"></a>19. 卡尔·萨根预言美国衰落：科学思维衰退将重返迷信与黑暗（1995） 
 <small>🔗 [openculture.com](https://www.openculture.com/2025/02/carl-sagan-predicts-the-decline-of-america-unable-to-know-whats-true.html): Carl Sagan Predicts the Decline of America (1995)</small>
 
 
@@ -236,18 +248,6 @@ Zig 是一种通用编程语言及工具链，专注于构建**健壮、高效�
 
 <br />
 1995年，卡尔·萨根在《魔鬼出没的世界》中警告：**科学思维衰退**、媒体浅薄化与公众丧失批判能力将导致美国滑向“迷信与黑暗”。他批判社会依赖直觉而非理性，并担忧技术垄断与教育失衡加剧愚昧。萨根强调科学不仅是知识，更是思维方式，需全民掌握以应对文明危机。其预言呼应18世纪哲学家维科的**历史循环论**——文明兴衰往复，但萨根更寄望通过教育逆转颓势。当前，社交媒体误导与信息碎片化印证其忧虑，但能否避免“黑暗时代”仍取决于人类对科学与理性的坚守。
-
----
-
-## <a name="19"></a>19. mt32-pi项目或将永久停更 
-<small>🔗 [github.com](https://github.com/dwhinham/mt32-pi/blob/075b52809e77420c6e80828825fe42430336b369/README.md): It's unlikely that there will be any further releases of mt32-pi</small>
-
-
-| 🔥🔥: 135 \| 💬: [47](https://news.ycombinator.com/item?id=42955613) \| 🗓️ 2025-02-05
-
-
-<br />
-开发者因长期遭受**VOGONS论坛成员恶意攻击、代码盗用及商业剽窃**，宣布停止更新。该项目为树莓派设计的无操作系统MIDI合成器，支持MT-32音源、SoundFonts及低延迟音频输出，曾获社区硬件捐赠与开源贡献。**心理健康问题**与创作热情消退为主要停更原因，开发者对早期支持者致谢，并强调项目代码遵循GPLv3协议，禁止商用篡改标识。
 
 ---
 
@@ -269,7 +269,7 @@ Zig 是一种通用编程语言及工具链，专注于构建**健壮、高效�
 <small>🔗 [explaining.software](https://explaining.software/archive/the-sudoku-affair/): The Sudoku Affair</small>
 
 
-| 🔥🔥: 124 \| 💬: [33](https://news.ycombinator.com/item?id=42953168) \| 🗓️ 2025-02-05
+| 🔥🔥: 125 \| 💬: [33](https://news.ycombinator.com/item?id=42953168) \| 🗓️ 2025-02-05
 
 
 <br />
@@ -305,7 +305,7 @@ Zig 是一种通用编程语言及工具链，专注于构建**健壮、高效�
 <small>🔗 [cacm.acm.org](https://cacm.acm.org/blogcacm/21st-century-c/): 21st Century C++</small>
 
 
-| 🔥: 72 \| 💬: [65](https://news.ycombinator.com/item?id=42952720) \| 🗓️ 2025-02-05
+| 🔥: 73 \| 💬: [65](https://news.ycombinator.com/item?id=42952720) \| 🗓️ 2025-02-05
 
 
 <br />
