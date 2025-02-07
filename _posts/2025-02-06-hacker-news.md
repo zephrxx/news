@@ -10,13 +10,13 @@ tags:
 
 1. 地形水模拟；
 1. 加州法案要求机器人披露其自动化身份；
-1. 美国政府2023年披露39个零日漏洞，首次发布报告；
 1. 理解推理型大语言模型；
+1. 美国政府2023年披露39个零日漏洞，首次发布报告；
 1. SQLite 磁盘页面探索工具；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共12条，具体内容您往下读...
+总共13条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [lisyarus.github.io](https://lisyarus.github.io/blog/posts/simulating-water-over-terrain.html): Simulating water over terrain</small>
 
 
-| 🔥🔥: 275 \| 💬: [40](https://news.ycombinator.com/item?id=42962508) \| 🗓️ 2025-02-06
+| 🔥🔥: 279 \| 💬: [40](https://news.ycombinator.com/item?id=42962508) \| 🗓️ 2025-02-06
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [veeto.app](https://www.veeto.app/bill/1955756): California bill would require bots to disclose that they are bots</small>
 
 
-| 🔥🔥: 257 \| 💬: [142](https://news.ycombinator.com/item?id=42968347) \| 🗓️ 2025-02-06
+| 🔥🔥: 260 \| 💬: [148](https://news.ycombinator.com/item?id=42968347) \| 🗓️ 2025-02-06
 
 
 <br />
@@ -47,23 +47,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 美国政府2023年披露39个零日漏洞，首次发布报告 
-<small>🔗 [zetter-zeroday.com](https://www.zetter-zeroday.com/u-s-government-disclosed-39-zero-day-vulnerabilities-in-2023-per-first-ever-report/): U.S. Government Disclosed 39 Zero-Day Vulnerabilities in 2023, First-Ever Report</small>
-
-
-| 🔥🔥: 206 \| 💬: [136](https://news.ycombinator.com/item?id=42962702) \| 🗓️ 2025-02-06
-
-
-<br />
-美国政府首次公开2023年通过**漏洞权益流程（VEP）**披露了39个零日漏洞，供修复或缓解。然而，未透露保留用于攻击的漏洞数量。**零日漏洞**是软件中未知的安全漏洞，易被利用。报告未说明VEP审查的总漏洞数或保留数量，透明度问题引发担忧，尤其在政府计划加强网络攻击的背景下。
-
----
-
-## <a name="4"></a>4. 理解推理型大语言模型 
+## <a name="3"></a>3. 理解推理型大语言模型 
 <small>🔗 [magazine.sebastianraschka.com](https://magazine.sebastianraschka.com/p/understanding-reasoning-llms): Understanding Reasoning LLMs</small>
 
 
-| 🔥🔥: 204 \| 💬: [86](https://news.ycombinator.com/item?id=42966720) \| 🗓️ 2025-02-06
+| 🔥🔥: 220 \| 💬: [93](https://news.ycombinator.com/item?id=42966720) \| 🗓️ 2025-02-06
 
 
 <br />
@@ -71,11 +59,23 @@ tags:
 
 ---
 
+## <a name="4"></a>4. 美国政府2023年披露39个零日漏洞，首次发布报告 
+<small>🔗 [zetter-zeroday.com](https://www.zetter-zeroday.com/u-s-government-disclosed-39-zero-day-vulnerabilities-in-2023-per-first-ever-report/): U.S. Government Disclosed 39 Zero-Day Vulnerabilities in 2023, First-Ever Report</small>
+
+
+| 🔥🔥: 207 \| 💬: [136](https://news.ycombinator.com/item?id=42962702) \| 🗓️ 2025-02-06
+
+
+<br />
+美国政府首次公开2023年通过**漏洞权益流程（VEP）**披露了39个零日漏洞，供修复或缓解。然而，未透露保留用于攻击的漏洞数量。**零日漏洞**是软件中未知的安全漏洞，易被利用。报告未说明VEP审查的总漏洞数或保留数量，透明度问题引发担忧，尤其在政府计划加强网络攻击的背景下。
+
+---
+
 ## <a name="5"></a>5. SQLite 磁盘页面探索工具 
 <small>🔗 [github.com](https://github.com/QuadrupleA/sqlite-page-explorer): Show HN: SQLite disk page explorer</small>
 
 
-| 🔥🔥: 197 \| 💬: [28](https://news.ycombinator.com/item?id=42965198) \| 🗓️ 2025-02-06
+| 🔥🔥: 204 \| 💬: [28](https://news.ycombinator.com/item?id=42965198) \| 🗓️ 2025-02-06
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [github.blog](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/): GitHub Copilot: The Agent Awakens</small>
 
 
-| 🔥🔥: 190 \| 💬: [221](https://news.ycombinator.com/item?id=42964327) \| 🗓️ 2025-02-06
+| 🔥🔥: 191 \| 💬: [221](https://news.ycombinator.com/item?id=42964327) \| 🗓️ 2025-02-06
 
 
 <br />
@@ -99,7 +99,7 @@ Thomas Dohmke 自小对软件开发充满热情，现担任 GitHub 首席执行�
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/aluminum-battery): Aluminum batteries outlive lithium-ion with a pinch of salt</small>
 
 
-| 🔥🔥: 171 \| 💬: [102](https://news.ycombinator.com/item?id=42960907) \| 🗓️ 2025-02-06
+| 🔥🔥: 174 \| 💬: [103](https://news.ycombinator.com/item?id=42960907) \| 🗓️ 2025-02-06
 
 
 <br />
@@ -111,7 +111,7 @@ Thomas Dohmke 自小对软件开发充满热情，现担任 GitHub 首席执行�
 <small>🔗 [blog.pierre-ricadat.com](https://blog.pierre-ricadat.com/scala-3-migration-report-from-the-field): Scala 3 Migration: Report from the field</small>
 
 
-| 🔥🔥: 143 \| 💬: [75](https://news.ycombinator.com/item?id=42964773) \| 🗓️ 2025-02-06
+| 🔥🔥: 144 \| 💬: [77](https://news.ycombinator.com/item?id=42964773) \| 🗓️ 2025-02-06
 
 
 <br />
@@ -123,7 +123,7 @@ Thomas Dohmke 自小对软件开发充满热情，现担任 GitHub 首席执行�
 <small>🔗 [noyb.eu](https://noyb.eu/en/us-cloud-soon-illegal-trump-punches-first-hole-eu-us-data-deal): US Cloud soon illegal in EU? US punches first hole in EU-US Data Deal</small>
 
 
-| 🔥🔥: 140 \| 💬: [163](https://news.ycombinator.com/item?id=42960788) \| 🗓️ 2025-02-06
+| 🔥🔥: 141 \| 💬: [163](https://news.ycombinator.com/item?id=42960788) \| 🗓️ 2025-02-06
 
 
 <br />
@@ -143,11 +143,23 @@ Thomas Dohmke 自小对软件开发充满热情，现担任 GitHub 首席执行�
 
 ---
 
-## <a name="11"></a>11. 预训练大语言模型使用傅里叶特征进行加法运算（2024） 
+## <a name="11"></a>11. Frank Lloyd Wright's mile high skyscraper proposal (2021) 
+<small>🔗 [onverticality.com](https://www.onverticality.com/blog/frank-lloyd-wright-mile-high-skyscraper): Frank Lloyd Wright's mile high skyscraper proposal (2021)</small>
+
+
+| 🔥🔥: 126 \| 💬: [109](https://news.ycombinator.com/item?id=42967226) \| 🗓️ 2025-02-06
+
+
+<br />
+
+
+---
+
+## <a name="12"></a>12. 预训练大语言模型使用傅里叶特征进行加法运算（2024） 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2406.03445): Pre-Trained Large Language Models Use Fourier Features for Addition (2024)</small>
 
 
-| 🔥🔥: 124 \| 💬: [37](https://news.ycombinator.com/item?id=42960989) \| 🗓️ 2025-02-06
+| 🔥🔥: 125 \| 💬: [38](https://news.ycombinator.com/item?id=42960989) \| 🗓️ 2025-02-06
 
 
 <br />
@@ -155,11 +167,11 @@ Thomas Dohmke 自小对软件开发充满热情，现担任 GitHub 首席执行�
 
 ---
 
-## <a name="12"></a>12. Frank Lloyd Wright's mile high skyscraper proposal (2021) 
-<small>🔗 [onverticality.com](https://www.onverticality.com/blog/frank-lloyd-wright-mile-high-skyscraper): Frank Lloyd Wright's mile high skyscraper proposal (2021)</small>
+## <a name="13"></a>13. Microsoft Go 1.24 FIPS changes 
+<small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/go/go-1-24-fips-update/): Microsoft Go 1.24 FIPS changes</small>
 
 
-| 🔥🔥: 124 \| 💬: [99](https://news.ycombinator.com/item?id=42967226) \| 🗓️ 2025-02-06
+| 🔥: 76 \| 💬: [59](https://news.ycombinator.com/item?id=42965404) \| 🗓️ 2025-02-06
 
 
 <br />
