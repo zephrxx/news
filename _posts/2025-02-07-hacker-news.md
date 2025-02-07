@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共21条，具体内容您往下读...
+总共22条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/): Meta torrented & seeded 81.7 TB dataset containing copyrighted data</small>
 
 
-| 🔥🔥: 1006 \| 💬: [711](https://news.ycombinator.com/item?id=42971446) \| 🗓️ 2025-02-07
+| 🔥🔥: 1035 \| 💬: [743](https://news.ycombinator.com/item?id=42971446) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [macrumors.com](https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/): Apple Ordered by UK to Create Global iCloud Encryption Backdoor</small>
 
 
-| 🔥🔥: 955 \| 💬: [491](https://news.ycombinator.com/item?id=42971761) \| 🗓️ 2025-02-07
+| 🔥🔥: 985 \| 💬: [506](https://news.ycombinator.com/item?id=42971761) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [lkml.org](https://lkml.org/lkml/2025/2/7/9): Asahi Linux lead developer Hector Martin resigns from Linux kernel</small>
 
 
-| 🔥🔥: 291 \| 💬: [265](https://news.ycombinator.com/item?id=42972062) \| 🗓️ 2025-02-07
+| 🔥🔥: 354 \| 💬: [313](https://news.ycombinator.com/item?id=42972062) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -63,7 +63,7 @@ Hector Martin 宣布辞去 Linux 内核维护者职务，表示对**内核开发
 <small>🔗 [bbc.co.uk](https://www.bbc.co.uk/news/articles/c04nx1vnw17o): Shwe Kokko is accused of being a city built on scams</small>
 
 
-| 🔥🔥: 205 \| 💬: [84](https://news.ycombinator.com/item?id=42971059) \| 🗓️ 2025-02-07
+| 🔥🔥: 208 \| 💬: [84](https://news.ycombinator.com/item?id=42971059) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -75,7 +75,7 @@ Hector Martin 宣布辞去 Linux 内核维护者职务，表示对**内核开发
 <small>🔗 [github.com](https://github.com/c0stya/trre): Show HN: Transductive regular expressions for text editing</small>
 
 
-| 🔥🔥: 178 \| 💬: [58](https://news.ycombinator.com/item?id=42974378) \| 🗓️ 2025-02-07
+| 🔥🔥: 188 \| 💬: [61](https://news.ycombinator.com/item?id=42974378) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -87,7 +87,7 @@ Hector Martin 宣布辞去 Linux 内核维护者职务，表示对**内核开发
 <small>🔗 [huggingface.co](https://huggingface.co/spaces/webml-community/kokoro-webgpu): Kokoro WebGPU: Real-time text-to-speech 100% locally in the browser</small>
 
 
-| 🔥🔥: 158 \| 💬: [29](https://news.ycombinator.com/item?id=42973769) \| 🗓️ 2025-02-07
+| 🔥🔥: 165 \| 💬: [31](https://news.ycombinator.com/item?id=42973769) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -95,35 +95,11 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 
 ---
 
-## <a name="7"></a>7. 停止使用邮政编码进行地理空间分析 (2019) 
-<small>🔗 [carto.com](https://carto.com/blog/zip-codes-spatial-analysis): Stop Using Zip Codes for Geospatial Analysis (2019)</small>
-
-
-| 🔥🔥: 132 \| 💬: [96](https://news.ycombinator.com/item?id=42974728) \| 🗓️ 2025-02-07
-
-
-<br />
-邮政编码虽然广泛用于商业和数据分析，但其**并非真实的地理边界**，而是邮递路线的集合。这导致其在分析人类行为和社会经济趋势时存在**严重偏差**。例如，同一邮政编码内的收入差异可能极大，掩盖了真实情况。建议使用**真实地址**或**人口普查单元**（如普查区块组）进行更精确的地理空间分析。
-
----
-
-## <a name="8"></a>8. 三纳米：Three.js 中的虚幻 Nanite 实现 
-<small>🔗 [github.com](https://github.com/AIFanatic/three-nanite): Three-nanite: Unreal Nanite in Three.js</small>
-
-
-| 🔥🔥: 129 \| 💬: [21](https://news.ycombinator.com/item?id=42974461) \| 🗓️ 2025-02-07
-
-
-<br />
-这是一个尝试在 **Three.js** 中复现 **Unreal Nanite** 动态 LOD（细节层次）系统的项目。通过 **meshlet 聚类**、**网格简化** 和 **动态分割** 等技术，实现了类似 Nanite 的效果。目前代码尚不完善，但已支持将网格分组、简化并动态调整细节层次。项目参考了 Unreal Engine 5 的 Nanite 系统及相关论文，目标是实现高效的实时渲染。
-
----
-
-## <a name="9"></a>9. 展示HN：一个根据住房偏好生成城市热图的网站 
+## <a name="7"></a>7. 展示HN：一个根据住房偏好生成城市热图的网站 
 <small>🔗 [theretowhere.com](https://theretowhere.com/): Show HN: A website that heatmaps your city based on your housing preferences</small>
 
 
-| 🔥🔥: 126 \| 💬: [52](https://news.ycombinator.com/item?id=42975803) \| 🗓️ 2025-02-07
+| 🔥🔥: 154 \| 💬: [63](https://news.ycombinator.com/item?id=42975803) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -131,35 +107,11 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 
 ---
 
-## <a name="10"></a>10. 鲸鱼歌声模式遵循人类语言的普遍规律，新研究发现 
-<small>🔗 [theconversation.com](https://theconversation.com/whalesong-patterns-follow-a-universal-law-of-human-language-new-research-finds-249271): Whalesong patterns follow a universal law of human language, new research finds</small>
+## <a name="8"></a>8. Mozilla 代码签名简史 
+<small>🔗 [hearsum.ca](https://hearsum.ca/posts/history-of-code-signing-at-mozilla/): A brief history of code signing at Mozilla</small>
 
 
-| 🔥🔥: 124 \| 💬: [20](https://news.ycombinator.com/item?id=42971847) \| 🗓️ 2025-02-07
-
-
-<br />
-研究发现，**座头鲸的歌声**与人类语言一样，遵循**Zipf定律**，即最频繁出现的元素是第二频繁的两倍，第三频繁的三倍，以此类推。这一模式表明，鲸鱼歌声与人类语言一样，具有**文化学习**的特征。研究还预测，其他通过文化传播复杂交流的物种（如鸟类）也可能表现出类似的统计规律。
-
----
-
-## <a name="11"></a>11. Source.Coop 上的 16TB Data.gov 镜像 
-<small>🔗 [source.coop](https://source.coop/repositories/harvard-lil/gov-data/description): A 16TB Mirror of Data.gov on Source.Coop</small>
-
-
-| 🔥🔥: 124 \| 💬: [18](https://news.ycombinator.com/item?id=42974533) \| 🗓️ 2025-02-07
-
-
-<br />
-该服务目前处于**开发阶段**，部分功能可能无法使用或随时中断。用户可以通过浏览或注册来访问这个**16TB 的 Data.gov 镜像**，该镜像托管在 Source.Coop 平台上。
-
----
-
-## <a name="12"></a>12. Mozilla 代码签名简史 
-<small>🔗 [hearsum.ca](https://hearsum.ca/posts/history-of-code-signing-at-mozilla/): A Brief History of Code Signing at Mozilla</small>
-
-
-| 🔥🔥: 113 \| 💬: [26](https://news.ycombinator.com/item?id=42975436) \| 🗓️ 2025-02-07
+| 🔥🔥: 145 \| 💬: [31](https://news.ycombinator.com/item?id=42975436) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -167,11 +119,59 @@ Mozilla 在过去 20 年中逐步完善了代码签名流程，从最初的 **GP
 
 ---
 
+## <a name="9"></a>9. 三纳米：Three.js 中的虚幻 Nanite 实现 
+<small>🔗 [github.com](https://github.com/AIFanatic/three-nanite): Three-nanite: Unreal Nanite in Three.js</small>
+
+
+| 🔥🔥: 138 \| 💬: [24](https://news.ycombinator.com/item?id=42974461) \| 🗓️ 2025-02-07
+
+
+<br />
+这是一个尝试在 **Three.js** 中复现 **Unreal Nanite** 动态 LOD（细节层次）系统的项目。通过 **meshlet 聚类**、**网格简化** 和 **动态分割** 等技术，实现了类似 Nanite 的效果。目前代码尚不完善，但已支持将网格分组、简化并动态调整细节层次。项目参考了 Unreal Engine 5 的 Nanite 系统及相关论文，目标是实现高效的实时渲染。
+
+---
+
+## <a name="10"></a>10. 停止使用邮政编码进行地理空间分析 (2019) 
+<small>🔗 [carto.com](https://carto.com/blog/zip-codes-spatial-analysis): Stop using zip codes for geospatial analysis (2019)</small>
+
+
+| 🔥🔥: 138 \| 💬: [103](https://news.ycombinator.com/item?id=42974728) \| 🗓️ 2025-02-07
+
+
+<br />
+邮政编码虽然广泛用于商业和数据分析，但其**并非真实的地理边界**，而是邮递路线的集合。这导致其在分析人类行为和社会经济趋势时存在**严重偏差**。例如，同一邮政编码内的收入差异可能极大，掩盖了真实情况。建议使用**真实地址**或**人口普查单元**（如普查区块组）进行更精确的地理空间分析。
+
+---
+
+## <a name="11"></a>11. 鲸鱼歌声模式遵循人类语言的普遍规律，新研究发现 
+<small>🔗 [theconversation.com](https://theconversation.com/whalesong-patterns-follow-a-universal-law-of-human-language-new-research-finds-249271): Whalesong patterns follow a universal law of human language, new research finds</small>
+
+
+| 🔥🔥: 125 \| 💬: [21](https://news.ycombinator.com/item?id=42971847) \| 🗓️ 2025-02-07
+
+
+<br />
+研究发现，**座头鲸的歌声**与人类语言一样，遵循**Zipf定律**，即最频繁出现的元素是第二频繁的两倍，第三频繁的三倍，以此类推。这一模式表明，鲸鱼歌声与人类语言一样，具有**文化学习**的特征。研究还预测，其他通过文化传播复杂交流的物种（如鸟类）也可能表现出类似的统计规律。
+
+---
+
+## <a name="12"></a>12. Source.Coop 上的 16TB Data.gov 镜像 
+<small>🔗 [source.coop](https://source.coop/repositories/harvard-lil/gov-data/description): A 16TB Mirror of Data.gov on Source.Coop</small>
+
+
+| 🔥🔥: 125 \| 💬: [18](https://news.ycombinator.com/item?id=42974533) \| 🗓️ 2025-02-07
+
+
+<br />
+该服务目前处于**开发阶段**，部分功能可能无法使用或随时中断。用户可以通过浏览或注册来访问这个**16TB 的 Data.gov 镜像**，该镜像托管在 Source.Coop 平台上。
+
+---
+
 ## <a name="13"></a>13. 60赫兹作为电源频率的起源 
 <small>🔗 [ieeexplore.ieee.org](https://ieeexplore.ieee.org/document/628099): The origins of 60-Hz as a power frequency</small>
 
 
-| 🔥🔥: 101 \| 💬: [105](https://news.ycombinator.com/item?id=42974809) \| 🗓️ 2025-02-07
+| 🔥🔥: 112 \| 💬: [127](https://news.ycombinator.com/item?id=42974809) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -183,7 +183,7 @@ Mozilla 在过去 20 年中逐步完善了代码签名流程，从最初的 **GP
 <small>🔗 [elering.ee](https://elering.ee/en/estonia-disconnect-russian-run-electricity-network-saturday): Estonia to disconnect from the Russian-run electricity network on Saturday</small>
 
 
-| 🔥: 91 \| 💬: [73](https://news.ycombinator.com/item?id=42971959) \| 🗓️ 2025-02-07
+| 🔥: 92 \| 💬: [74](https://news.ycombinator.com/item?id=42971959) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -195,7 +195,7 @@ Mozilla 在过去 20 年中逐步完善了代码签名流程，从最初的 **GP
 <small>🔗 [ericmigi.com](https://ericmigi.com/blog/how-to-help-build-open-source-pebble-software/): How to help us build open source Pebble software</small>
 
 
-| 🔥: 89 \| 💬: [33](https://news.ycombinator.com/item?id=42972791) \| 🗓️ 2025-02-07
+| 🔥: 90 \| 💬: [33](https://news.ycombinator.com/item?id=42972791) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -215,35 +215,11 @@ Google最近开源了**PebbleOS**，这对Pebble社区意义重大。团队正�
 
 ---
 
-## <a name="17"></a>17. 当路易斯·阿姆斯特朗征服芝加哥 
-<small>🔗 [honest-broker.com](https://www.honest-broker.com/p/when-louis-armstrong-conquered-chicago): When Louis Armstrong Conquered Chicago</small>
-
-
-| 🔥: 80 \| 💬: [9](https://news.ycombinator.com/item?id=42973897) \| 🗓️ 2025-02-07
-
-
-<br />
-1922年，路易斯·阿姆斯特朗从新奥尔良前往芝加哥，加入**乔·奥利弗**的乐队，开启了他的传奇音乐生涯。初到芝加哥时，阿姆斯特朗对这座城市的繁华和黑人社区的尊重感到震撼。他在林肯花园的首次演出标志着他音乐生涯的重要转折点，**乔·奥利弗**的指导与支持帮助他迅速融入芝加哥的音乐圈。这段经历不仅改变了阿姆斯特朗的命运，也深刻影响了20世纪的美国音乐。
-
----
-
-## <a name="18"></a>18. 史诗级太阳风暴后地球周围发现神秘辐射带 
-<small>🔗 [sciencealert.com](https://www.sciencealert.com/mysterious-radiation-belts-detected-around-earth-after-epic-solar-storm): Mysterious Radiation Belts Detected Around Earth After Epic Solar Storm</small>
-
-
-| 🔥: 74 \| 💬: [36](https://news.ycombinator.com/item?id=42974727) \| 🗓️ 2025-02-07
-
-
-<br />
-2024年5月，一场强烈的**太阳风暴**袭击地球，导致地球磁场剧烈震动，并形成了两条新的临时**辐射带**。其中一条辐射带首次检测到**高能质子**，这一现象前所未见。这些辐射带持续了三个月，远超以往太阳风暴产生的临时辐射带。科学家正在研究其对卫星的潜在威胁。
-
----
-
-## <a name="19"></a>19. 儿童的计算技能在应用数学和学术数学之间无法迁移 
+## <a name="17"></a>17. 儿童的计算技能在应用数学和学术数学之间无法迁移 
 <small>🔗 [nature.com](https://www.nature.com/articles/s41586-024-08502-w): Children's arithmetic skills do not transfer between applied and academic math</small>
 
 
-| 🔥: 73 \| 💬: [82](https://news.ycombinator.com/item?id=42972781) \| 🗓️ 2025-02-07
+| 🔥: 84 \| 💬: [95](https://news.ycombinator.com/item?id=42972781) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -251,11 +227,35 @@ Google最近开源了**PebbleOS**，这对Pebble社区意义重大。团队正�
 
 ---
 
+## <a name="18"></a>18. 史诗级太阳风暴后地球周围发现神秘辐射带 
+<small>🔗 [sciencealert.com](https://www.sciencealert.com/mysterious-radiation-belts-detected-around-earth-after-epic-solar-storm): Radiation belts detected around Earth after solar storm</small>
+
+
+| 🔥: 84 \| 💬: [42](https://news.ycombinator.com/item?id=42974727) \| 🗓️ 2025-02-07
+
+
+<br />
+2024年5月，一场强烈的**太阳风暴**袭击地球，导致地球磁场剧烈震动，并形成了两条新的临时**辐射带**。其中一条辐射带首次检测到**高能质子**，这一现象前所未见。这些辐射带持续了三个月，远超以往太阳风暴产生的临时辐射带。科学家正在研究其对卫星的潜在威胁。
+
+---
+
+## <a name="19"></a>19. 当路易斯·阿姆斯特朗征服芝加哥 
+<small>🔗 [honest-broker.com](https://www.honest-broker.com/p/when-louis-armstrong-conquered-chicago): When Louis Armstrong Conquered Chicago</small>
+
+
+| 🔥: 83 \| 💬: [9](https://news.ycombinator.com/item?id=42973897) \| 🗓️ 2025-02-07
+
+
+<br />
+1922年，路易斯·阿姆斯特朗从新奥尔良前往芝加哥，加入**乔·奥利弗**的乐队，开启了他的传奇音乐生涯。初到芝加哥时，阿姆斯特朗对这座城市的繁华和黑人社区的尊重感到震撼。他在林肯花园的首次演出标志着他音乐生涯的重要转折点，**乔·奥利弗**的指导与支持帮助他迅速融入芝加哥的音乐圈。这段经历不仅改变了阿姆斯特朗的命运，也深刻影响了20世纪的美国音乐。
+
+---
+
 ## <a name="20"></a>20. 代理体验时代 
 <small>🔗 [stytch.com](https://stytch.com/blog/the-age-of-agent-experience/): The Age of Agent Experience</small>
 
 
-| 🔥: 67 \| 💬: [29](https://news.ycombinator.com/item?id=42974429) \| 🗓️ 2025-02-07
+| 🔥: 72 \| 💬: [32](https://news.ycombinator.com/item?id=42974429) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -263,7 +263,19 @@ Google最近开源了**PebbleOS**，这对Pebble社区意义重大。团队正�
 
 ---
 
-## <a name="21"></a>21. 英国要求访问苹果用户的加密数据 
+## <a name="21"></a>21. 氯胺酮治疗抑郁症：作用机制（2024）[视频] 
+<small>🔗 [yalemedicine.org](https://www.yalemedicine.org/news/ketamine-for-depression): Ketamine for Depression: How It Works (2024) [video]</small>
+
+
+| 🔥: 69 \| 💬: [44](https://news.ycombinator.com/item?id=42974882) \| 🗓️ 2025-02-07
+
+
+<br />
+当标准抗抑郁药物两次治疗无效时，**氯胺酮**可能成为选择。它通过促进**神经元突触再生**，改善大脑回路功能，与传统抗抑郁药作用机制不同。研究表明，氯胺酮能快速启动**神经可塑性**，帮助患者重塑思维模式，适应新环境。结合心理治疗，效果更佳。
+
+---
+
+## <a name="22"></a>22. 英国要求访问苹果用户的加密数据 
 <small>🔗 [bbc.co.uk](https://www.bbc.co.uk/news/articles/c20g288yldko): UK demands access to Apple users' encrypted data</small>
 
 
