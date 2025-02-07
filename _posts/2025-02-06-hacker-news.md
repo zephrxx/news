@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共11条，具体内容您往下读...
+总共12条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -143,7 +143,19 @@ Thomas Dohmke 自小对软件开发充满热情，现担任 GitHub 首席执行�
 
 ---
 
-## <a name="11"></a>11. Frank Lloyd Wright's mile high skyscraper proposal (2021) 
+## <a name="11"></a>11. 预训练大语言模型使用傅里叶特征进行加法运算（2024） 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2406.03445): Pre-Trained Large Language Models Use Fourier Features for Addition (2024)</small>
+
+
+| 🔥🔥: 124 \| 💬: [37](https://news.ycombinator.com/item?id=42960989) \| 🗓️ 2025-02-06
+
+
+<br />
+研究表明，**预训练大语言模型（LLMs）**通过**傅里叶特征**进行加法运算。这些特征在隐藏状态中表示数字，并通过频率域中的稀疏特征进行计算。**MLP层**主要使用低频特征近似答案的幅度，而**注意力层**则使用高频特征执行模运算。预训练对模型性能至关重要，随机初始化的模型仅能利用低频特征，导致精度较低。引入预训练嵌入可显著提升性能。
+
+---
+
+## <a name="12"></a>12. Frank Lloyd Wright's mile high skyscraper proposal (2021) 
 <small>🔗 [onverticality.com](https://www.onverticality.com/blog/frank-lloyd-wright-mile-high-skyscraper): Frank Lloyd Wright's mile high skyscraper proposal (2021)</small>
 
 
