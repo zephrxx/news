@@ -12,7 +12,7 @@ tags:
 1. 英国要求苹果为iCloud创建全球加密后门；
 1. Asahi Linux 首席开发者 Hector Martin 辞去 Linux 内核维护者职务；
 1. VSCode的SSH代理令人担忧；
-1. Show HN: 用于文本编辑的转导正则表达式；
+1. 展示HN：一个根据住房偏好生成城市热图的网站；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/): Meta torrented & seeded 81.7 TB dataset containing copyrighted data</small>
 
 
-| 🔥🔥: 1130 \| 💬: [807](https://news.ycombinator.com/item?id=42971446) \| 🗓️ 2025-02-07
+| 🔥🔥: 1134 \| 💬: [811](https://news.ycombinator.com/item?id=42971446) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [macrumors.com](https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/): Apple ordered by UK to create global iCloud encryption backdoor</small>
 
 
-| 🔥🔥: 1107 \| 💬: [2](https://news.ycombinator.com/item?id=42971761) \| 🗓️ 2025-02-07
+| 🔥🔥: 1109 \| 💬: [2](https://news.ycombinator.com/item?id=42971761) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [lkml.org](https://lkml.org/lkml/2025/2/7/9): Asahi Linux lead developer Hector Martin resigns from Linux kernel</small>
 
 
-| 🔥🔥: 580 \| 💬: [518](https://news.ycombinator.com/item?id=42972062) \| 🗓️ 2025-02-07
+| 🔥🔥: 599 \| 💬: [542](https://news.ycombinator.com/item?id=42972062) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -63,7 +63,7 @@ Hector Martin 宣布辞去 Linux 内核维护者职务，表示对**内核开发
 <small>🔗 [fly.io](https://fly.io/blog/vscode-ssh-wtf/): VSCode's SSH agent is bananas</small>
 
 
-| 🔥🔥: 223 \| 💬: [108](https://news.ycombinator.com/item?id=42979467) \| 🗓️ 2025-02-07
+| 🔥🔥: 252 \| 💬: [146](https://news.ycombinator.com/item?id=42979467) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -71,27 +71,27 @@ Hector Martin 宣布辞去 Linux 内核维护者职务，表示对**内核开发
 
 ---
 
-## <a name="5"></a>5. Show HN: 用于文本编辑的转导正则表达式 
-<small>🔗 [github.com](https://github.com/c0stya/trre): Show HN: Transductive regular expressions for text editing</small>
-
-
-| 🔥🔥: 221 \| 💬: [68](https://news.ycombinator.com/item?id=42974378) \| 🗓️ 2025-02-07
-
-
-<br />
-**TRRE** 是一种扩展的正则表达式，专为文本编辑设计，结合了模式匹配和文本修改功能。它引入了 **: 符号** 来定义转换规则，例如 `a:b` 表示将 `a` 替换为 `b`。TRRE 使用 **有限状态转换器 (FST)** 处理输入输出对，支持生成多个输出字符串。目前为原型阶段，不建议用于生产环境。
-
----
-
-## <a name="6"></a>6. 展示HN：一个根据住房偏好生成城市热图的网站 
+## <a name="5"></a>5. 展示HN：一个根据住房偏好生成城市热图的网站 
 <small>🔗 [theretowhere.com](https://theretowhere.com/): Show HN: A website that heatmaps your city based on your housing preferences</small>
 
 
-| 🔥🔥: 220 \| 💬: [80](https://news.ycombinator.com/item?id=42975803) \| 🗓️ 2025-02-07
+| 🔥🔥: 226 \| 💬: [81](https://news.ycombinator.com/item?id=42975803) \| 🗓️ 2025-02-07
 
 
 <br />
 该网站允许用户根据**住房偏好**生成所在城市的**热图**，帮助用户直观了解符合需求的区域分布。需启用JavaScript运行应用，适合寻找理想居住地的用户。
+
+---
+
+## <a name="6"></a>6. Show HN: 用于文本编辑的转导正则表达式 
+<small>🔗 [github.com](https://github.com/c0stya/trre): Show HN: Transductive regular expressions for text editing</small>
+
+
+| 🔥🔥: 222 \| 💬: [68](https://news.ycombinator.com/item?id=42974378) \| 🗓️ 2025-02-07
+
+
+<br />
+**TRRE** 是一种扩展的正则表达式，专为文本编辑设计，结合了模式匹配和文本修改功能。它引入了 **: 符号** 来定义转换规则，例如 `a:b` 表示将 `a` 替换为 `b`。TRRE 使用 **有限状态转换器 (FST)** 处理输入输出对，支持生成多个输出字符串。目前为原型阶段，不建议用于生产环境。
 
 ---
 
@@ -111,7 +111,7 @@ Hector Martin 宣布辞去 Linux 内核维护者职务，表示对**内核开发
 <small>🔗 [hearsum.ca](https://hearsum.ca/posts/history-of-code-signing-at-mozilla/): A brief history of code signing at Mozilla</small>
 
 
-| 🔥🔥: 190 \| 💬: [67](https://news.ycombinator.com/item?id=42975436) \| 🗓️ 2025-02-07
+| 🔥🔥: 192 \| 💬: [67](https://news.ycombinator.com/item?id=42975436) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -123,7 +123,7 @@ Mozilla 在过去 20 年中逐步完善了代码签名流程，从最初的 **GP
 <small>🔗 [huggingface.co](https://huggingface.co/spaces/webml-community/kokoro-webgpu): Kokoro WebGPU: Real-time text-to-speech 100% locally in the browser</small>
 
 
-| 🔥🔥: 183 \| 💬: [41](https://news.ycombinator.com/item?id=42973769) \| 🗓️ 2025-02-07
+| 🔥🔥: 187 \| 💬: [41](https://news.ycombinator.com/item?id=42973769) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -135,7 +135,7 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 <small>🔗 [github.com](https://github.com/AIFanatic/three-nanite): Three-nanite: Unreal Nanite in Three.js</small>
 
 
-| 🔥🔥: 179 \| 💬: [31](https://news.ycombinator.com/item?id=42974461) \| 🗓️ 2025-02-07
+| 🔥🔥: 186 \| 💬: [31](https://news.ycombinator.com/item?id=42974461) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -147,7 +147,7 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 <small>🔗 [carto.com](https://carto.com/blog/zip-codes-spatial-analysis): Stop using zip codes for geospatial analysis (2019)</small>
 
 
-| 🔥🔥: 156 \| 💬: [117](https://news.ycombinator.com/item?id=42974728) \| 🗓️ 2025-02-07
+| 🔥🔥: 156 \| 💬: [118](https://news.ycombinator.com/item?id=42974728) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -159,7 +159,7 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 <small>🔗 [nature.com](https://www.nature.com/articles/s41586-024-08502-w): Children's arithmetic skills do not transfer between applied and academic math</small>
 
 
-| 🔥🔥: 137 \| 💬: [154](https://news.ycombinator.com/item?id=42972781) \| 🗓️ 2025-02-07
+| 🔥🔥: 140 \| 💬: [154](https://news.ycombinator.com/item?id=42972781) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -171,7 +171,7 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 <small>🔗 [ieeexplore.ieee.org](https://ieeexplore.ieee.org/document/628099): The origins of 60-Hz as a power frequency</small>
 
 
-| 🔥🔥: 136 \| 💬: [179](https://news.ycombinator.com/item?id=42974809) \| 🗓️ 2025-02-07
+| 🔥🔥: 138 \| 💬: [181](https://news.ycombinator.com/item?id=42974809) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -183,7 +183,7 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 <small>🔗 [theconversation.com](https://theconversation.com/whalesong-patterns-follow-a-universal-law-of-human-language-new-research-finds-249271): Whalesong patterns follow a universal law of human language, new research finds</small>
 
 
-| 🔥🔥: 132 \| 💬: [22](https://news.ycombinator.com/item?id=42971847) \| 🗓️ 2025-02-07
+| 🔥🔥: 133 \| 💬: [22](https://news.ycombinator.com/item?id=42971847) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -195,7 +195,7 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 <small>🔗 [source.coop](https://source.coop/repositories/harvard-lil/gov-data/description): A 16TB Mirror of Data.gov on Source.Coop</small>
 
 
-| 🔥🔥: 130 \| 💬: [18](https://news.ycombinator.com/item?id=42974533) \| 🗓️ 2025-02-07
+| 🔥🔥: 131 \| 💬: [18](https://news.ycombinator.com/item?id=42974533) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -207,7 +207,7 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 <small>🔗 [sciencealert.com](https://www.sciencealert.com/mysterious-radiation-belts-detected-around-earth-after-epic-solar-storm): Radiation belts detected around Earth after solar storm</small>
 
 
-| 🔥🔥: 120 \| 💬: [51](https://news.ycombinator.com/item?id=42974727) \| 🗓️ 2025-02-07
+| 🔥🔥: 122 \| 💬: [51](https://news.ycombinator.com/item?id=42974727) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -219,7 +219,7 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 <small>🔗 [github.com](https://github.com/Tanq16/ExpenseOwl): Show HN: ExpenseOwl – Simple, self-hosted expense tracker</small>
 
 
-| 🔥🔥: 107 \| 💬: [35](https://news.ycombinator.com/item?id=42977388) \| 🗓️ 2025-02-07
+| 🔥🔥: 111 \| 💬: [40](https://news.ycombinator.com/item?id=42977388) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -227,7 +227,19 @@ ExpenseOwl 是一款**极简的支出追踪系统**，专为家庭实验室使�
 
 ---
 
-## <a name="18"></a>18. 代理体验时代 
+## <a name="18"></a>18. 氯胺酮治疗抑郁症：作用机制（2024）[视频] 
+<small>🔗 [yalemedicine.org](https://www.yalemedicine.org/news/ketamine-for-depression): Ketamine for Depression: How It Works (2024) [video]</small>
+
+
+| 🔥: 94 \| 💬: [70](https://news.ycombinator.com/item?id=42974882) \| 🗓️ 2025-02-07
+
+
+<br />
+当标准抗抑郁药物两次治疗无效时，**氯胺酮**可能成为选择。它通过促进**神经元突触再生**，改善大脑回路功能，与传统抗抑郁药作用机制不同。研究表明，氯胺酮能快速启动**神经可塑性**，帮助患者重塑思维模式，适应新环境。结合心理治疗，效果更佳。
+
+---
+
+## <a name="19"></a>19. 代理体验时代 
 <small>🔗 [stytch.com](https://stytch.com/blog/the-age-of-agent-experience/): The Age of Agent Experience</small>
 
 
@@ -236,18 +248,6 @@ ExpenseOwl 是一款**极简的支出追踪系统**，专为家庭实验室使�
 
 <br />
 随着AI代理（如ChatGPT Operator和Devin）的崛起，设计**代理体验（AX）**变得至关重要。与用户体验（UX）和开发者体验（DX）类似，AX关注如何让AI代理高效、安全地访问数据和执行任务。**OAuth**作为核心授权标准，确保了代理的权限管理和用户控制。未来，开放生态系统和清晰的API设计将成为构建优秀AX的关键。
-
----
-
-## <a name="19"></a>19. 氯胺酮治疗抑郁症：作用机制（2024）[视频] 
-<small>🔗 [yalemedicine.org](https://www.yalemedicine.org/news/ketamine-for-depression): Ketamine for Depression: How It Works (2024) [video]</small>
-
-
-| 🔥: 93 \| 💬: [70](https://news.ycombinator.com/item?id=42974882) \| 🗓️ 2025-02-07
-
-
-<br />
-当标准抗抑郁药物两次治疗无效时，**氯胺酮**可能成为选择。它通过促进**神经元突触再生**，改善大脑回路功能，与传统抗抑郁药作用机制不同。研究表明，氯胺酮能快速启动**神经可塑性**，帮助患者重塑思维模式，适应新环境。结合心理治疗，效果更佳。
 
 ---
 
@@ -291,7 +291,7 @@ Google最近开源了**PebbleOS**，这对Pebble社区意义重大。团队正�
 <small>🔗 [theverge.com](https://www.theverge.com/news/608145/apple-uk-icloud-encrypted-backups-spying-snoopers-charter): Apple ordered to open encrypted user accounts globally to UK spying</small>
 
 
-| 🔥: 87 \| 💬: [2](https://news.ycombinator.com/item?id=42971533) \| 🗓️ 2025-02-07
+| 🔥: 88 \| 💬: [2](https://news.ycombinator.com/item?id=42971533) \| 🗓️ 2025-02-07
 
 
 <br />
