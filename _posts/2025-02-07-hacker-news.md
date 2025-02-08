@@ -27,7 +27,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/): Meta torrented & seeded 81.7 TB dataset containing copyrighted data</small>
 
 
-| 🔥🔥: 1134 \| 💬: [811](https://news.ycombinator.com/item?id=42971446) \| 🗓️ 2025-02-07
+| 🔥🔥: 1138 \| 💬: [811](https://news.ycombinator.com/item?id=42971446) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [macrumors.com](https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/): Apple ordered by UK to create global iCloud encryption backdoor</small>
 
 
-| 🔥🔥: 1109 \| 💬: [2](https://news.ycombinator.com/item?id=42971761) \| 🗓️ 2025-02-07
+| 🔥🔥: 1111 \| 💬: [2](https://news.ycombinator.com/item?id=42971761) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [lkml.org](https://lkml.org/lkml/2025/2/7/9): Asahi Linux lead developer Hector Martin resigns from Linux kernel</small>
 
 
-| 🔥🔥: 599 \| 💬: [542](https://news.ycombinator.com/item?id=42972062) \| 🗓️ 2025-02-07
+| 🔥🔥: 619 \| 💬: [558](https://news.ycombinator.com/item?id=42972062) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -63,7 +63,7 @@ Hector Martin 宣布辞去 Linux 内核维护者职务，表示对**内核开发
 <small>🔗 [fly.io](https://fly.io/blog/vscode-ssh-wtf/): VSCode's SSH agent is bananas</small>
 
 
-| 🔥🔥: 252 \| 💬: [146](https://news.ycombinator.com/item?id=42979467) \| 🗓️ 2025-02-07
+| 🔥🔥: 284 \| 💬: [166](https://news.ycombinator.com/item?id=42979467) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -75,7 +75,7 @@ Hector Martin 宣布辞去 Linux 内核维护者职务，表示对**内核开发
 <small>🔗 [theretowhere.com](https://theretowhere.com/): Show HN: A website that heatmaps your city based on your housing preferences</small>
 
 
-| 🔥🔥: 226 \| 💬: [81](https://news.ycombinator.com/item?id=42975803) \| 🗓️ 2025-02-07
+| 🔥🔥: 232 \| 💬: [82](https://news.ycombinator.com/item?id=42975803) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -87,7 +87,7 @@ Hector Martin 宣布辞去 Linux 内核维护者职务，表示对**内核开发
 <small>🔗 [github.com](https://github.com/c0stya/trre): Show HN: Transductive regular expressions for text editing</small>
 
 
-| 🔥🔥: 222 \| 💬: [68](https://news.ycombinator.com/item?id=42974378) \| 🗓️ 2025-02-07
+| 🔥🔥: 226 \| 💬: [70](https://news.ycombinator.com/item?id=42974378) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -111,7 +111,7 @@ Hector Martin 宣布辞去 Linux 内核维护者职务，表示对**内核开发
 <small>🔗 [hearsum.ca](https://hearsum.ca/posts/history-of-code-signing-at-mozilla/): A brief history of code signing at Mozilla</small>
 
 
-| 🔥🔥: 192 \| 💬: [67](https://news.ycombinator.com/item?id=42975436) \| 🗓️ 2025-02-07
+| 🔥🔥: 198 \| 💬: [68](https://news.ycombinator.com/item?id=42975436) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -119,23 +119,11 @@ Mozilla 在过去 20 年中逐步完善了代码签名流程，从最初的 **GP
 
 ---
 
-## <a name="9"></a>9. Kokoro WebGPU：浏览器中100%本地实时文本转语音 
-<small>🔗 [huggingface.co](https://huggingface.co/spaces/webml-community/kokoro-webgpu): Kokoro WebGPU: Real-time text-to-speech 100% locally in the browser</small>
-
-
-| 🔥🔥: 187 \| 💬: [41](https://news.ycombinator.com/item?id=42973769) \| 🗓️ 2025-02-07
-
-
-<br />
-Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中实现**实时文本转语音**，完全在本地运行，无需依赖云端服务。该项目展示了在浏览器中利用现代硬件加速进行高效语音合成的潜力，适合需要**隐私保护**和低延迟的应用场景。
-
----
-
-## <a name="10"></a>10. 三纳米：Three.js 中的虚幻 Nanite 实现 
+## <a name="9"></a>9. 三纳米：Three.js 中的虚幻 Nanite 实现 
 <small>🔗 [github.com](https://github.com/AIFanatic/three-nanite): Three-nanite: Unreal Nanite in Three.js</small>
 
 
-| 🔥🔥: 186 \| 💬: [31](https://news.ycombinator.com/item?id=42974461) \| 🗓️ 2025-02-07
+| 🔥🔥: 190 \| 💬: [31](https://news.ycombinator.com/item?id=42974461) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -143,11 +131,23 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 
 ---
 
+## <a name="10"></a>10. Kokoro WebGPU：浏览器中100%本地实时文本转语音 
+<small>🔗 [huggingface.co](https://huggingface.co/spaces/webml-community/kokoro-webgpu): Kokoro WebGPU: Real-time text-to-speech 100% locally in the browser</small>
+
+
+| 🔥🔥: 188 \| 💬: [41](https://news.ycombinator.com/item?id=42973769) \| 🗓️ 2025-02-07
+
+
+<br />
+Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中实现**实时文本转语音**，完全在本地运行，无需依赖云端服务。该项目展示了在浏览器中利用现代硬件加速进行高效语音合成的潜力，适合需要**隐私保护**和低延迟的应用场景。
+
+---
+
 ## <a name="11"></a>11. 停止使用邮政编码进行地理空间分析 (2019) 
 <small>🔗 [carto.com](https://carto.com/blog/zip-codes-spatial-analysis): Stop using zip codes for geospatial analysis (2019)</small>
 
 
-| 🔥🔥: 156 \| 💬: [118](https://news.ycombinator.com/item?id=42974728) \| 🗓️ 2025-02-07
+| 🔥🔥: 157 \| 💬: [118](https://news.ycombinator.com/item?id=42974728) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -159,7 +159,7 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 <small>🔗 [nature.com](https://www.nature.com/articles/s41586-024-08502-w): Children's arithmetic skills do not transfer between applied and academic math</small>
 
 
-| 🔥🔥: 140 \| 💬: [154](https://news.ycombinator.com/item?id=42972781) \| 🗓️ 2025-02-07
+| 🔥🔥: 141 \| 💬: [158](https://news.ycombinator.com/item?id=42972781) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -171,7 +171,7 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 <small>🔗 [ieeexplore.ieee.org](https://ieeexplore.ieee.org/document/628099): The origins of 60-Hz as a power frequency</small>
 
 
-| 🔥🔥: 138 \| 💬: [181](https://news.ycombinator.com/item?id=42974809) \| 🗓️ 2025-02-07
+| 🔥🔥: 139 \| 💬: [183](https://news.ycombinator.com/item?id=42974809) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -207,7 +207,7 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 <small>🔗 [sciencealert.com](https://www.sciencealert.com/mysterious-radiation-belts-detected-around-earth-after-epic-solar-storm): Radiation belts detected around Earth after solar storm</small>
 
 
-| 🔥🔥: 122 \| 💬: [51](https://news.ycombinator.com/item?id=42974727) \| 🗓️ 2025-02-07
+| 🔥🔥: 123 \| 💬: [51](https://news.ycombinator.com/item?id=42974727) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -219,7 +219,7 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 <small>🔗 [github.com](https://github.com/Tanq16/ExpenseOwl): Show HN: ExpenseOwl – Simple, self-hosted expense tracker</small>
 
 
-| 🔥🔥: 111 \| 💬: [40](https://news.ycombinator.com/item?id=42977388) \| 🗓️ 2025-02-07
+| 🔥🔥: 114 \| 💬: [40](https://news.ycombinator.com/item?id=42977388) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -231,7 +231,7 @@ ExpenseOwl 是一款**极简的支出追踪系统**，专为家庭实验室使�
 <small>🔗 [yalemedicine.org](https://www.yalemedicine.org/news/ketamine-for-depression): Ketamine for Depression: How It Works (2024) [video]</small>
 
 
-| 🔥: 94 \| 💬: [70](https://news.ycombinator.com/item?id=42974882) \| 🗓️ 2025-02-07
+| 🔥: 96 \| 💬: [73](https://news.ycombinator.com/item?id=42974882) \| 🗓️ 2025-02-07
 
 
 <br />
