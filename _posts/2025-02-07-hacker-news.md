@@ -12,11 +12,11 @@ tags:
 1. 英国要求苹果为iCloud创建全球加密后门；
 1. Asahi Linux 首席开发者 Hector Martin 辞去 Linux 内核维护者职务；
 1. Show HN: 用于文本编辑的转导正则表达式；
-1. 缅甸“诈骗之城”Shwe Kokko的崛起与争议；
+1. 展示HN：一个根据住房偏好生成城市热图的网站；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/): Meta torrented & seeded 81.7 TB dataset containing copyrighted data</small>
 
 
-| 🔥🔥: 1111 \| 💬: [801](https://news.ycombinator.com/item?id=42971446) \| 🗓️ 2025-02-07
+| 🔥🔥: 1124 \| 💬: [805](https://news.ycombinator.com/item?id=42971446) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [macrumors.com](https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/): Apple Ordered by UK to Create Global iCloud Encryption Backdoor</small>
 
 
-| 🔥🔥: 1085 \| 💬: [564](https://news.ycombinator.com/item?id=42971761) \| 🗓️ 2025-02-07
+| 🔥🔥: 1098 \| 💬: [575](https://news.ycombinator.com/item?id=42971761) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [lkml.org](https://lkml.org/lkml/2025/2/7/9): Asahi Linux lead developer Hector Martin resigns from Linux kernel</small>
 
 
-| 🔥🔥: 535 \| 💬: [463](https://news.ycombinator.com/item?id=42972062) \| 🗓️ 2025-02-07
+| 🔥🔥: 568 \| 💬: [495](https://news.ycombinator.com/item?id=42972062) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -63,7 +63,7 @@ Hector Martin 宣布辞去 Linux 内核维护者职务，表示对**内核开发
 <small>🔗 [github.com](https://github.com/c0stya/trre): Show HN: Transductive regular expressions for text editing</small>
 
 
-| 🔥🔥: 215 \| 💬: [66](https://news.ycombinator.com/item?id=42974378) \| 🗓️ 2025-02-07
+| 🔥🔥: 217 \| 💬: [68](https://news.ycombinator.com/item?id=42974378) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -71,23 +71,11 @@ Hector Martin 宣布辞去 Linux 内核维护者职务，表示对**内核开发
 
 ---
 
-## <a name="5"></a>5. 缅甸“诈骗之城”Shwe Kokko的崛起与争议 
-<small>🔗 [bbc.co.uk](https://www.bbc.co.uk/news/articles/c04nx1vnw17o): Shwe Kokko is accused of being a city built on scams</small>
-
-
-| 🔥🔥: 210 \| 💬: [88](https://news.ycombinator.com/item?id=42971059) \| 🗓️ 2025-02-07
-
-
-<br />
-缅甸边境的**Shwe Kokko**（金雨树）城市由**She Zhijiang**主导建设，被指控为**诈骗、洗钱和人口贩卖**的中心。尽管Yatai公司将其宣传为豪华度假胜地，但当地居民和逃出者揭露，诈骗活动仍在进行。She Zhijiang目前被关押在曼谷监狱，等待引渡至中国。Shwe Kokko的合法性备受质疑，且因缅甸内战和泰国封锁，未来发展充满不确定性。
-
----
-
-## <a name="6"></a>6. 展示HN：一个根据住房偏好生成城市热图的网站 
+## <a name="5"></a>5. 展示HN：一个根据住房偏好生成城市热图的网站 
 <small>🔗 [theretowhere.com](https://theretowhere.com/): Show HN: A website that heatmaps your city based on your housing preferences</small>
 
 
-| 🔥🔥: 204 \| 💬: [78](https://news.ycombinator.com/item?id=42975803) \| 🗓️ 2025-02-07
+| 🔥🔥: 214 \| 💬: [80](https://news.ycombinator.com/item?id=42975803) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -95,11 +83,23 @@ Hector Martin 宣布辞去 Linux 内核维护者职务，表示对**内核开发
 
 ---
 
+## <a name="6"></a>6. 缅甸“诈骗之城”Shwe Kokko的崛起与争议 
+<small>🔗 [bbc.co.uk](https://www.bbc.co.uk/news/articles/c04nx1vnw17o): Shwe Kokko is accused of being a city built on scams</small>
+
+
+| 🔥🔥: 211 \| 💬: [88](https://news.ycombinator.com/item?id=42971059) \| 🗓️ 2025-02-07
+
+
+<br />
+缅甸边境的**Shwe Kokko**（金雨树）城市由**She Zhijiang**主导建设，被指控为**诈骗、洗钱和人口贩卖**的中心。尽管Yatai公司将其宣传为豪华度假胜地，但当地居民和逃出者揭露，诈骗活动仍在进行。She Zhijiang目前被关押在曼谷监狱，等待引渡至中国。Shwe Kokko的合法性备受质疑，且因缅甸内战和泰国封锁，未来发展充满不确定性。
+
+---
+
 ## <a name="7"></a>7. Mozilla 代码签名简史 
 <small>🔗 [hearsum.ca](https://hearsum.ca/posts/history-of-code-signing-at-mozilla/): A brief history of code signing at Mozilla</small>
 
 
-| 🔥🔥: 179 \| 💬: [63](https://news.ycombinator.com/item?id=42975436) \| 🗓️ 2025-02-07
+| 🔥🔥: 183 \| 💬: [66](https://news.ycombinator.com/item?id=42975436) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -111,7 +111,7 @@ Mozilla 在过去 20 年中逐步完善了代码签名流程，从最初的 **GP
 <small>🔗 [huggingface.co](https://huggingface.co/spaces/webml-community/kokoro-webgpu): Kokoro WebGPU: Real-time text-to-speech 100% locally in the browser</small>
 
 
-| 🔥🔥: 177 \| 💬: [40](https://news.ycombinator.com/item?id=42973769) \| 🗓️ 2025-02-07
+| 🔥🔥: 182 \| 💬: [40](https://news.ycombinator.com/item?id=42973769) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -123,7 +123,7 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 <small>🔗 [github.com](https://github.com/AIFanatic/three-nanite): Three-nanite: Unreal Nanite in Three.js</small>
 
 
-| 🔥🔥: 173 \| 💬: [28](https://news.ycombinator.com/item?id=42974461) \| 🗓️ 2025-02-07
+| 🔥🔥: 178 \| 💬: [30](https://news.ycombinator.com/item?id=42974461) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -131,11 +131,23 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 
 ---
 
-## <a name="10"></a>10. 停止使用邮政编码进行地理空间分析 (2019) 
+## <a name="10"></a>10. VSCode的SSH代理令人担忧 
+<small>🔗 [fly.io](https://fly.io/blog/vscode-ssh-wtf/): VSCode's SSH agent is bananas</small>
+
+
+| 🔥🔥: 173 \| 💬: [87](https://news.ycombinator.com/item?id=42979467) \| 🗓️ 2025-02-07
+
+
+<br />
+作者Thomas Ptacek讨论了VSCode的远程编辑功能，特别是其通过SSH进行远程编辑的方式。与Emacs的**Tramp**不同，VSCode通过SSH运行一个**Bash脚本**，下载并安装一个**Node代理**，该代理通过WebSockets与本地VSCode前端通信，能够访问文件系统、编辑文件并启动进程。这种设计在安全性上存在隐患，尤其是在生产环境中使用时。尽管作者最终认为这对他们的项目影响不大，但仍对此表示担忧。
+
+---
+
+## <a name="11"></a>11. 停止使用邮政编码进行地理空间分析 (2019) 
 <small>🔗 [carto.com](https://carto.com/blog/zip-codes-spatial-analysis): Stop using zip codes for geospatial analysis (2019)</small>
 
 
-| 🔥🔥: 148 \| 💬: [116](https://news.ycombinator.com/item?id=42974728) \| 🗓️ 2025-02-07
+| 🔥🔥: 155 \| 💬: [117](https://news.ycombinator.com/item?id=42974728) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -143,11 +155,11 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 
 ---
 
-## <a name="11"></a>11. 儿童的计算技能在应用数学和学术数学之间无法迁移 
+## <a name="12"></a>12. 儿童的计算技能在应用数学和学术数学之间无法迁移 
 <small>🔗 [nature.com](https://www.nature.com/articles/s41586-024-08502-w): Children's arithmetic skills do not transfer between applied and academic math</small>
 
 
-| 🔥🔥: 132 \| 💬: [139](https://news.ycombinator.com/item?id=42972781) \| 🗓️ 2025-02-07
+| 🔥🔥: 134 \| 💬: [147](https://news.ycombinator.com/item?id=42972781) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -155,7 +167,19 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 
 ---
 
-## <a name="12"></a>12. 鲸鱼歌声模式遵循人类语言的普遍规律，新研究发现 
+## <a name="13"></a>13. 60赫兹作为电源频率的起源 
+<small>🔗 [ieeexplore.ieee.org](https://ieeexplore.ieee.org/document/628099): The origins of 60-Hz as a power frequency</small>
+
+
+| 🔥🔥: 133 \| 💬: [173](https://news.ycombinator.com/item?id=42974809) \| 🗓️ 2025-02-07
+
+
+<br />
+本文探讨了**60赫兹**成为电源频率的历史背景。19世纪末，**尼古拉·特斯拉**和**乔治·威斯汀豪斯**在交流电系统的开发中选择了60赫兹作为标准频率，因其在**传输效率**和设备兼容性之间取得了最佳平衡。这一选择最终成为北美及其他地区的电力标准。
+
+---
+
+## <a name="14"></a>14. 鲸鱼歌声模式遵循人类语言的普遍规律，新研究发现 
 <small>🔗 [theconversation.com](https://theconversation.com/whalesong-patterns-follow-a-universal-law-of-human-language-new-research-finds-249271): Whalesong patterns follow a universal law of human language, new research finds</small>
 
 
@@ -167,19 +191,7 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 
 ---
 
-## <a name="13"></a>13. 60赫兹作为电源频率的起源 
-<small>🔗 [ieeexplore.ieee.org](https://ieeexplore.ieee.org/document/628099): The origins of 60-Hz as a power frequency</small>
-
-
-| 🔥🔥: 131 \| 💬: [163](https://news.ycombinator.com/item?id=42974809) \| 🗓️ 2025-02-07
-
-
-<br />
-本文探讨了**60赫兹**成为电源频率的历史背景。19世纪末，**尼古拉·特斯拉**和**乔治·威斯汀豪斯**在交流电系统的开发中选择了60赫兹作为标准频率，因其在**传输效率**和设备兼容性之间取得了最佳平衡。这一选择最终成为北美及其他地区的电力标准。
-
----
-
-## <a name="14"></a>14. Source.Coop 上的 16TB Data.gov 镜像 
+## <a name="15"></a>15. Source.Coop 上的 16TB Data.gov 镜像 
 <small>🔗 [source.coop](https://source.coop/repositories/harvard-lil/gov-data/description): A 16TB Mirror of Data.gov on Source.Coop</small>
 
 
@@ -191,11 +203,11 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 
 ---
 
-## <a name="15"></a>15. 史诗级太阳风暴后地球周围发现神秘辐射带 
+## <a name="16"></a>16. 史诗级太阳风暴后地球周围发现神秘辐射带 
 <small>🔗 [sciencealert.com](https://www.sciencealert.com/mysterious-radiation-belts-detected-around-earth-after-epic-solar-storm): Radiation belts detected around Earth after solar storm</small>
 
 
-| 🔥🔥: 113 \| 💬: [50](https://news.ycombinator.com/item?id=42974727) \| 🗓️ 2025-02-07
+| 🔥🔥: 118 \| 💬: [50](https://news.ycombinator.com/item?id=42974727) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -203,7 +215,19 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 
 ---
 
-## <a name="16"></a>16. 爱沙尼亚将于周六脱离俄罗斯电力网络 
+## <a name="17"></a>17. Show HN: ExpenseOwl – 简单、自托管的支出追踪工具 
+<small>🔗 [github.com](https://github.com/Tanq16/ExpenseOwl): Show HN: ExpenseOwl – Simple, self-hosted expense tracker</small>
+
+
+| 🔥🔥: 101 \| 💬: [31](https://news.ycombinator.com/item?id=42977388) \| 🗓️ 2025-02-07
+
+
+<br />
+ExpenseOwl 是一款**极简的支出追踪系统**，专为家庭实验室使用设计。它通过**月度饼图**可视化每日支出，帮助用户了解消费模式。支持**Docker 部署**和**REST API**，数据以 JSON 格式存储，适合单用户使用。核心功能包括快速添加支出、自定义类别和货币符号，界面简洁且支持 PWA 安装。
+
+---
+
+## <a name="18"></a>18. 爱沙尼亚将于周六脱离俄罗斯电力网络 
 <small>🔗 [elering.ee](https://elering.ee/en/estonia-disconnect-russian-run-electricity-network-saturday): Estonia to disconnect from the Russian-run electricity network on Saturday</small>
 
 
@@ -215,7 +239,7 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 
 ---
 
-## <a name="17"></a>17. 当路易斯·阿姆斯特朗征服芝加哥 
+## <a name="19"></a>19. 当路易斯·阿姆斯特朗征服芝加哥 
 <small>🔗 [honest-broker.com](https://www.honest-broker.com/p/when-louis-armstrong-conquered-chicago): When Louis Armstrong Conquered Chicago</small>
 
 
@@ -227,7 +251,31 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 
 ---
 
-## <a name="18"></a>18. 如何帮助我们构建开源的Pebble软件 
+## <a name="20"></a>20. 氯胺酮治疗抑郁症：作用机制（2024）[视频] 
+<small>🔗 [yalemedicine.org](https://www.yalemedicine.org/news/ketamine-for-depression): Ketamine for Depression: How It Works (2024) [video]</small>
+
+
+| 🔥: 92 \| 💬: [67](https://news.ycombinator.com/item?id=42974882) \| 🗓️ 2025-02-07
+
+
+<br />
+当标准抗抑郁药物两次治疗无效时，**氯胺酮**可能成为选择。它通过促进**神经元突触再生**，改善大脑回路功能，与传统抗抑郁药作用机制不同。研究表明，氯胺酮能快速启动**神经可塑性**，帮助患者重塑思维模式，适应新环境。结合心理治疗，效果更佳。
+
+---
+
+## <a name="21"></a>21. 代理体验时代 
+<small>🔗 [stytch.com](https://stytch.com/blog/the-age-of-agent-experience/): The Age of Agent Experience</small>
+
+
+| 🔥: 91 \| 💬: [38](https://news.ycombinator.com/item?id=42974429) \| 🗓️ 2025-02-07
+
+
+<br />
+随着AI代理（如ChatGPT Operator和Devin）的崛起，设计**代理体验（AX）**变得至关重要。与用户体验（UX）和开发者体验（DX）类似，AX关注如何让AI代理高效、安全地访问数据和执行任务。**OAuth**作为核心授权标准，确保了代理的权限管理和用户控制。未来，开放生态系统和清晰的API设计将成为构建优秀AX的关键。
+
+---
+
+## <a name="22"></a>22. 如何帮助我们构建开源的Pebble软件 
 <small>🔗 [ericmigi.com](https://ericmigi.com/blog/how-to-help-build-open-source-pebble-software/): How to help us build open source Pebble software</small>
 
 
@@ -239,35 +287,11 @@ Google最近开源了**PebbleOS**，这对Pebble社区意义重大。团队正�
 
 ---
 
-## <a name="19"></a>19. 氯胺酮治疗抑郁症：作用机制（2024）[视频] 
-<small>🔗 [yalemedicine.org](https://www.yalemedicine.org/news/ketamine-for-depression): Ketamine for Depression: How It Works (2024) [video]</small>
-
-
-| 🔥: 90 \| 💬: [64](https://news.ycombinator.com/item?id=42974882) \| 🗓️ 2025-02-07
-
-
-<br />
-当标准抗抑郁药物两次治疗无效时，**氯胺酮**可能成为选择。它通过促进**神经元突触再生**，改善大脑回路功能，与传统抗抑郁药作用机制不同。研究表明，氯胺酮能快速启动**神经可塑性**，帮助患者重塑思维模式，适应新环境。结合心理治疗，效果更佳。
-
----
-
-## <a name="20"></a>20. Show HN: ExpenseOwl – 简单、自托管的支出追踪工具 
-<small>🔗 [github.com](https://github.com/Tanq16/ExpenseOwl): Show HN: ExpenseOwl – Simple, self-hosted expense tracker</small>
-
-
-| 🔥: 90 \| 💬: [29](https://news.ycombinator.com/item?id=42977388) \| 🗓️ 2025-02-07
-
-
-<br />
-ExpenseOwl 是一款**极简的支出追踪系统**，专为家庭实验室使用设计。它通过**月度饼图**可视化每日支出，帮助用户了解消费模式。支持**Docker 部署**和**REST API**，数据以 JSON 格式存储，适合单用户使用。核心功能包括快速添加支出、自定义类别和货币符号，界面简洁且支持 PWA 安装。
-
----
-
-## <a name="21"></a>21. 苹果被要求向英国间谍活动开放全球加密用户账户 
+## <a name="23"></a>23. 苹果被要求向英国间谍活动开放全球加密用户账户 
 <small>🔗 [theverge.com](https://www.theverge.com/news/608145/apple-uk-icloud-encrypted-backups-spying-snoopers-charter): Apple ordered to open encrypted user accounts globally to UK spying</small>
 
 
-| 🔥: 86 \| 💬: [2](https://news.ycombinator.com/item?id=42971533) \| 🗓️ 2025-02-07
+| 🔥: 87 \| 💬: [2](https://news.ycombinator.com/item?id=42971533) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -275,19 +299,7 @@ ExpenseOwl 是一款**极简的支出追踪系统**，专为家庭实验室使�
 
 ---
 
-## <a name="22"></a>22. 代理体验时代 
-<small>🔗 [stytch.com](https://stytch.com/blog/the-age-of-agent-experience/): The Age of Agent Experience</small>
-
-
-| 🔥: 86 \| 💬: [38](https://news.ycombinator.com/item?id=42974429) \| 🗓️ 2025-02-07
-
-
-<br />
-随着AI代理（如ChatGPT Operator和Devin）的崛起，设计**代理体验（AX）**变得至关重要。与用户体验（UX）和开发者体验（DX）类似，AX关注如何让AI代理高效、安全地访问数据和执行任务。**OAuth**作为核心授权标准，确保了代理的权限管理和用户控制。未来，开放生态系统和清晰的API设计将成为构建优秀AX的关键。
-
----
-
-## <a name="23"></a>23. 英国要求访问苹果用户的加密数据 
+## <a name="24"></a>24. 英国要求访问苹果用户的加密数据 
 <small>🔗 [bbc.co.uk](https://www.bbc.co.uk/news/articles/c20g288yldko): UK demands access to Apple users' encrypted data</small>
 
 
