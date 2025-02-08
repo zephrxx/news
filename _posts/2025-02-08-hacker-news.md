@@ -27,7 +27,7 @@ tags:
 <small>🔗 [antirez.com](https://antirez.com/news/145): We are destroying software</small>
 
 
-| 🔥🔥: 354 \| 💬: [256](https://news.ycombinator.com/item?id=42983275) \| 🗓️ 2025-02-08
+| 🔥🔥: 402 \| 💬: [274](https://news.ycombinator.com/item?id=42983275) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/xajik/thedeck): The Deck: An open-source cross-platform multiplayer card game engine in Flutter</small>
 
 
-| 🔥🔥: 176 \| 💬: [41](https://news.ycombinator.com/item?id=42983699) \| 🗓️ 2025-02-08
+| 🔥🔥: 186 \| 💬: [46](https://news.ycombinator.com/item?id=42983699) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [redpenguin101.github.io](https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html): Generating Voronoi Diagrams Using Fortune's Algorithm (With Odin)</small>
 
 
-| 🔥🔥: 145 \| 💬: [14](https://news.ycombinator.com/item?id=42982015) \| 🗓️ 2025-02-08
+| 🔥🔥: 151 \| 💬: [15](https://news.ycombinator.com/item?id=42982015) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [github.com](https://github.com/wojciech-kulik/FlashSpace): Show HN: FlashSpace – fast, open-source, macOS Spaces replacement</small>
 
 
-| 🔥🔥: 109 \| 💬: [31](https://news.ycombinator.com/item?id=42984420) \| 🗓️ 2025-02-08
+| 🔥🔥: 125 \| 💬: [37](https://news.ycombinator.com/item?id=42984420) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -75,7 +75,7 @@ FlashSpace 是一款**快速**的虛擬**工作區**管理器，旨在取代原�
 <small>🔗 [scorpiosoftware.net](https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/): Writing a Simple Windows Driver in Rust</small>
 
 
-| 🔥🔥: 107 \| 💬: [32](https://news.ycombinator.com/item?id=42984457) \| 🗓️ 2025-02-08
+| 🔥🔥: 118 \| 💬: [41](https://news.ycombinator.com/item?id=42984457) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -83,35 +83,11 @@ Rust 语言生态日益增长，因其在编译时提供**内存和并发安全*
 
 ---
 
-## <a name="6"></a>6. Carbon 不是一门编程语言（某种程度上） 
-<small>🔗 [herecomesthemoon.net](https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/): Carbon is not a programming language (sort of)</small>
-
-
-| 🔥: 96 \| 💬: [44](https://news.ycombinator.com/item?id=42983733) \| 🗓️ 2025-02-08
-
-
-<br />
-Carbon 是 Google 开发的实验性开源 **“C++继任者”语言**，旨在通过 **自动化代码迁移** 大规模减少 C++ 的技术债务。项目重点在于创建一个现代、明确的语言演进和治理模型，与 C++ 几乎无缝互操作。与其他继任者语言如 Cpp2 不同，Carbon 从根本上重塑语言，尽量减少对 C++ 的依赖，尽管尚未达到 0.1 发布里程碑，但其目标是解决 C++ 现代化过程中遇到的复杂问题。
-
----
-
-## <a name="7"></a>7. 几个发行版为共同目标：可复现构建 
-<small>🔗 [video.fosdem.org](https://video.fosdem.org/2025/h1302/fosdem-2025-6479-a-tale-of-several-distros-joining-forces-for-a-common-goal-reproducible-builds.av1.webm): A tale of several distros joining forces for a common goal: reproducible builds</small>
-
-
-| 🔥: 91 \| 💬: [38](https://news.ycombinator.com/item?id=42982270) \| 🗓️ 2025-02-08
-
-
-<br />
-在过去的十年中，**可复现构建**项目致力于实现多个项目的可复现构建，期间双重构建了许多软件包以验证其可复现性。但这仅是理论上的目标。实际上，项目团队希望通过工具 **rebuilderd**，自2020年起在 **Arch Linux** 中使用，并计划于2024年在Debian中应用，来重建并匹配发行版分发的软件包。本次演讲将解释Arch Linux与Debian在可复现构建方面的共同点与差异，以及在实现用户受益之前所面临的挑战。来自Debian和Arch Linux的开发者将共同呈现此次演讲。
-
----
-
-## <a name="8"></a>8. 数学书写技巧 
+## <a name="6"></a>6. 数学书写技巧 
 <small>🔗 [johnkerl.org](https://johnkerl.org/doc/ortho/ortho.html): Tips for mathematical handwriting (2007)</small>
 
 
-| 🔥: 85 \| 💬: [26](https://news.ycombinator.com/item?id=42985427) \| 🗓️ 2025-02-08
+| 🔥🔥: 109 \| 💬: [41](https://news.ycombinator.com/item?id=42985427) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -119,11 +95,35 @@ Carbon 是 Google 开发的实验性开源 **“C++继任者”语言**，旨在
 
 ---
 
+## <a name="7"></a>7. Carbon 不是一门编程语言（某种程度上） 
+<small>🔗 [herecomesthemoon.net](https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/): Carbon is not a programming language (sort of)</small>
+
+
+| 🔥🔥: 103 \| 💬: [49](https://news.ycombinator.com/item?id=42983733) \| 🗓️ 2025-02-08
+
+
+<br />
+Carbon 是 Google 开发的实验性开源 **“C++继任者”语言**，旨在通过 **自动化代码迁移** 大规模减少 C++ 的技术债务。项目重点在于创建一个现代、明确的语言演进和治理模型，与 C++ 几乎无缝互操作。与其他继任者语言如 Cpp2 不同，Carbon 从根本上重塑语言，尽量减少对 C++ 的依赖，尽管尚未达到 0.1 发布里程碑，但其目标是解决 C++ 现代化过程中遇到的复杂问题。
+
+---
+
+## <a name="8"></a>8. 几个发行版为共同目标：可复现构建 
+<small>🔗 [video.fosdem.org](https://video.fosdem.org/2025/h1302/fosdem-2025-6479-a-tale-of-several-distros-joining-forces-for-a-common-goal-reproducible-builds.av1.webm): A tale of several distros joining forces for a common goal: reproducible builds</small>
+
+
+| 🔥: 99 \| 💬: [40](https://news.ycombinator.com/item?id=42982270) \| 🗓️ 2025-02-08
+
+
+<br />
+在过去的十年中，**可复现构建**项目致力于实现多个项目的可复现构建，期间双重构建了许多软件包以验证其可复现性。但这仅是理论上的目标。实际上，项目团队希望通过工具 **rebuilderd**，自2020年起在 **Arch Linux** 中使用，并计划于2024年在Debian中应用，来重建并匹配发行版分发的软件包。本次演讲将解释Arch Linux与Debian在可复现构建方面的共同点与差异，以及在实现用户受益之前所面临的挑战。来自Debian和Arch Linux的开发者将共同呈现此次演讲。
+
+---
+
 ## <a name="9"></a>9. 大语言模型心理师效应 
 <small>🔗 [softwarecrisis.dev](https://softwarecrisis.dev/letters/llmentalist/): The LLMentalist Effect</small>
 
 
-| 🔥: 71 \| 💬: [55](https://news.ycombinator.com/item?id=42983571) \| 🗓️ 2025-02-08
+| 🔥: 82 \| 💬: [70](https://news.ycombinator.com/item?id=42983571) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -135,7 +135,7 @@ Carbon 是 Google 开发的实验性开源 **“C++继任者”语言**，旨在
 <small>🔗 [github.com](https://github.com/RandyGaul/cute_headers): Collection of one-file C/C++ libraries with no dependencies, primarily for games</small>
 
 
-| 🔥: 68 \| 💬: [30](https://news.ycombinator.com/item?id=42983197) \| 🗓️ 2025-02-08
+| 🔥: 69 \| 💬: [32](https://news.ycombinator.com/item?id=42983197) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -147,7 +147,7 @@ Carbon 是 Google 开发的实验性开源 **“C++继任者”语言**，旨在
 <small>🔗 [fortune.com](https://fortune.com/2024/06/12/amazon-insiders-why-new-alexa-llm-generative-ai-conversational-chatbot-missing-in-action/): Amazon blew Alexa's shot to dominate AI, according to employees (2024)</small>
 
 
-| 🔥: 57 \| 💬: [49](https://news.ycombinator.com/item?id=42984791) \| 🗓️ 2025-02-08
+| 🔥: 57 \| 💬: [51](https://news.ycombinator.com/item?id=42984791) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -159,7 +159,7 @@ Carbon 是 Google 开发的实验性开源 **“C++继任者”语言**，旨在
 <small>🔗 [freedemandletter.com](https://www.freedemandletter.com): Show HN: FreeDemandLetter – A Weapon for Anyone Who's Sick of Getting Shafted</small>
 
 
-| 🔥: 49 \| 💬: [49](https://news.ycombinator.com/item?id=42983148) \| 🗓️ 2025-02-08
+| 🔥: 50 \| 💬: [50](https://news.ycombinator.com/item?id=42983148) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -171,7 +171,7 @@ FreeDemandLetter 提供**符合州法律**的专业模板，简化流程让用�
 <small>🔗 [git.sr.ht](https://git.sr.ht/~egtann/txtar/): Show HN: Chez Scheme txtar port from Go</small>
 
 
-| 🔥: 40 \| 💬: [5](https://news.ycombinator.com/item?id=42984962) \| 🗓️ 2025-02-08
+| 🔥: 46 \| 💬: [5](https://news.ycombinator.com/item?id=42984962) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -183,7 +183,7 @@ FreeDemandLetter 提供**符合州法律**的专业模板，简化流程让用�
 <small>🔗 [afi.com](https://www.afi.com/news/the-daughter-of-dawn-1920-afi-catalog-spotlight/): The Daughter of Dawn [1920] (2024)</small>
 
 
-| 🔥: 31 \| 💬: [4](https://news.ycombinator.com/item?id=42984813) \| 🗓️ 2025-02-08
+| 🔥: 34 \| 💬: [4](https://news.ycombinator.com/item?id=42984813) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -207,7 +207,7 @@ FreeDemandLetter 提供**符合州法律**的专业模板，简化流程让用�
 <small>🔗 [silverbullet.md](https://silverbullet.md/): SilverBullet – note-taking Git-friendly alternative to Logseq and Obsidian</small>
 
 
-| 🔥: 24 \| 💬: [7](https://news.ycombinator.com/item?id=42981690) \| 🗓️ 2025-02-08
+| 🔥: 28 \| 💬: [7](https://news.ycombinator.com/item?id=42981690) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -231,7 +231,7 @@ SilverBullet 是一个开源的个人知识管理系统，支持**自托管**，
 <small>🔗 [ziglang.org](https://ziglang.org/devlog/2025/#2025-02-07): No-Libc Zig Now Outperforms Glibc Zig</small>
 
 
-| 🔥: 21 \| 💬: [1](https://news.ycombinator.com/item?id=42983364) \| 🗓️ 2025-02-08
+| 🔥: 22 \| 💬: [1](https://news.ycombinator.com/item?id=42983364) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -239,7 +239,19 @@ Andrew Kelley 重构了 Zig 的 **调试分配器**，消除了对编译时固�
 
 ---
 
-## <a name="19"></a>19. 计算专家称程序员需要更多数学 
+## <a name="19"></a>19. 迪士尼+广告政策重大调整 
+<small>🔗 [wiki.rossmanngroup.com](https://wiki.rossmanngroup.com/wiki/Disney%2B_Ad_Policy_Change): Disney+ Ad Policy Change</small>
+
+
+| 🔥: 22 \| 💬: [2](https://news.ycombinator.com/item?id=42985423) \| 🗓️ 2025-02-08
+
+
+<br />
+自2025年1月起，**迪士尼+**在所有订阅层级中引入广告，包括原本标榜“无广告”的高级套餐。此次变更通过更新服务条款实施，所有现有用户除非取消订阅，否则将受新条款约束。此举改变了购买后服务的基本特性，引发了**消费者保护**方面的关注。
+
+---
+
+## <a name="20"></a>20. 计算专家称程序员需要更多数学 
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/computing-expert-says-programmers-need-more-math-20220517/): Computing Expert Says Programmers Need More Math</small>
 
 
@@ -251,19 +263,19 @@ Andrew Kelley 重构了 Zig 的 **调试分配器**，消除了对编译时固�
 
 ---
 
-## <a name="20"></a>20. 迪士尼+广告政策重大调整 
-<small>🔗 [wiki.rossmanngroup.com](https://wiki.rossmanngroup.com/wiki/Disney%2B_Ad_Policy_Change): Disney+ Ad Policy Change</small>
+## <a name="21"></a>21. 如何遵守英国在线安全法；屏蔽英国 
+<small>🔗 [geoblockthe.uk](https://geoblockthe.uk/): How to Comply with the UK's Online Safety Act; Block the UK</small>
 
 
-| 🔥: 18 \| 💬: [1](https://news.ycombinator.com/item?id=42985423) \| 🗓️ 2025-02-08
+| 🔥: 18 \| 💬: [0](https://news.ycombinator.com/item?id=42983997) \| 🗓️ 2025-02-08
 
 
 <br />
-自2025年1月起，**迪士尼+**在所有订阅层级中引入广告，包括原本标榜“无广告”的高级套餐。此次变更通过更新服务条款实施，所有现有用户除非取消订阅，否则将受新条款约束。此举改变了购买后服务的基本特性，引发了**消费者保护**方面的关注。
+英国的在线安全法要求“用户对用户服务”的运营者进行**风险评估**和“儿童访问评估”，否则将面临高额罚款或监禁。幸运的是，OFCOM确认**屏蔽英国用户访问网站**是合法的合规方式。文中还提供了实现屏蔽的**技术选项**以及绕过地理封锁的方法，如使用Tor浏览器。
 
 ---
 
-## <a name="21"></a>21. 汽车交流发电机是优秀的电动机 
+## <a name="22"></a>22. 汽车交流发电机是优秀的电动机 
 <small>🔗 [hackaday.com](https://hackaday.com/2020/01/16/car-alternators-make-great-electric-motors-heres-how/): Car Alternators Make Great Electric Motors;</small>
 
 
@@ -272,18 +284,6 @@ Andrew Kelley 重构了 Zig 的 **调试分配器**，消除了对编译时固�
 
 <br />
 汽车**交流发电机**不仅用于将内燃机的动力转换为电力，还可以被改装成高效的**电动机**。这些发电机通常为三相，采用三角形接线配置，具备数马力的输出能力，并且二手价格低廉，适合电动车项目如英国的Hacky Racer系列。转换过程包括拆除调节器和整流器，保留定子和刷子的连接，并接入适当的**无刷控制器**和直流电源。改装后的发电机能够可靠地作为电动车的驱动系统，虽然可能需要额外的散热措施。利用废旧发电机作为电动机，为个人及团队提供了一种经济实惠且高效的动力解决方案。
-
----
-
-## <a name="22"></a>22. 如何遵守英国在线安全法；屏蔽英国 
-<small>🔗 [geoblockthe.uk](https://geoblockthe.uk/): How to Comply with the UK's Online Safety Act; Block the UK</small>
-
-
-| 🔥: 17 \| 💬: [0](https://news.ycombinator.com/item?id=42983997) \| 🗓️ 2025-02-08
-
-
-<br />
-英国的在线安全法要求“用户对用户服务”的运营者进行**风险评估**和“儿童访问评估”，否则将面临高额罚款或监禁。幸运的是，OFCOM确认**屏蔽英国用户访问网站**是合法的合规方式。文中还提供了实现屏蔽的**技术选项**以及绕过地理封锁的方法，如使用Tor浏览器。
 
 ---
 
@@ -303,7 +303,7 @@ Wired报道，一名19岁的**爱德华·科里斯汀**在埃隆·马斯克的�
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/national-security/2025/02/07/patel-fbi-russia-lopatonok/): Kash Patel was paid by Russian filmmaker with Kremlin ties, documents show</small>
 
 
-| 🔥: 14 \| 💬: [0](https://news.ycombinator.com/item?id=42983629) \| 🗓️ 2025-02-08
+| 🔥: 15 \| 💬: [0](https://news.ycombinator.com/item?id=42983629) \| 🗓️ 2025-02-08
 
 
 <br />
