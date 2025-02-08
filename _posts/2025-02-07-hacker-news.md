@@ -27,7 +27,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/): Meta torrented & seeded 81.7 TB dataset containing copyrighted data</small>
 
 
-| 🔥🔥: 1035 \| 💬: [743](https://news.ycombinator.com/item?id=42971446) \| 🗓️ 2025-02-07
+| 🔥🔥: 1053 \| 💬: [762](https://news.ycombinator.com/item?id=42971446) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [macrumors.com](https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/): Apple Ordered by UK to Create Global iCloud Encryption Backdoor</small>
 
 
-| 🔥🔥: 985 \| 💬: [506](https://news.ycombinator.com/item?id=42971761) \| 🗓️ 2025-02-07
+| 🔥🔥: 1015 \| 💬: [535](https://news.ycombinator.com/item?id=42971761) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [lkml.org](https://lkml.org/lkml/2025/2/7/9): Asahi Linux lead developer Hector Martin resigns from Linux kernel</small>
 
 
-| 🔥🔥: 354 \| 💬: [313](https://news.ycombinator.com/item?id=42972062) \| 🗓️ 2025-02-07
+| 🔥🔥: 404 \| 💬: [355](https://news.ycombinator.com/item?id=42972062) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -63,7 +63,7 @@ Hector Martin 宣布辞去 Linux 内核维护者职务，表示对**内核开发
 <small>🔗 [bbc.co.uk](https://www.bbc.co.uk/news/articles/c04nx1vnw17o): Shwe Kokko is accused of being a city built on scams</small>
 
 
-| 🔥🔥: 208 \| 💬: [84](https://news.ycombinator.com/item?id=42971059) \| 🗓️ 2025-02-07
+| 🔥🔥: 209 \| 💬: [88](https://news.ycombinator.com/item?id=42971059) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -75,7 +75,7 @@ Hector Martin 宣布辞去 Linux 内核维护者职务，表示对**内核开发
 <small>🔗 [github.com](https://github.com/c0stya/trre): Show HN: Transductive regular expressions for text editing</small>
 
 
-| 🔥🔥: 188 \| 💬: [61](https://news.ycombinator.com/item?id=42974378) \| 🗓️ 2025-02-07
+| 🔥🔥: 199 \| 💬: [62](https://news.ycombinator.com/item?id=42974378) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -83,23 +83,11 @@ Hector Martin 宣布辞去 Linux 内核维护者职务，表示对**内核开发
 
 ---
 
-## <a name="6"></a>6. Kokoro WebGPU：浏览器中100%本地实时文本转语音 
-<small>🔗 [huggingface.co](https://huggingface.co/spaces/webml-community/kokoro-webgpu): Kokoro WebGPU: Real-time text-to-speech 100% locally in the browser</small>
-
-
-| 🔥🔥: 165 \| 💬: [31](https://news.ycombinator.com/item?id=42973769) \| 🗓️ 2025-02-07
-
-
-<br />
-Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中实现**实时文本转语音**，完全在本地运行，无需依赖云端服务。该项目展示了在浏览器中利用现代硬件加速进行高效语音合成的潜力，适合需要**隐私保护**和低延迟的应用场景。
-
----
-
-## <a name="7"></a>7. 展示HN：一个根据住房偏好生成城市热图的网站 
+## <a name="6"></a>6. 展示HN：一个根据住房偏好生成城市热图的网站 
 <small>🔗 [theretowhere.com](https://theretowhere.com/): Show HN: A website that heatmaps your city based on your housing preferences</small>
 
 
-| 🔥🔥: 154 \| 💬: [63](https://news.ycombinator.com/item?id=42975803) \| 🗓️ 2025-02-07
+| 🔥🔥: 176 \| 💬: [71](https://news.ycombinator.com/item?id=42975803) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -107,11 +95,23 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 
 ---
 
+## <a name="7"></a>7. Kokoro WebGPU：浏览器中100%本地实时文本转语音 
+<small>🔗 [huggingface.co](https://huggingface.co/spaces/webml-community/kokoro-webgpu): Kokoro WebGPU: Real-time text-to-speech 100% locally in the browser</small>
+
+
+| 🔥🔥: 169 \| 💬: [34](https://news.ycombinator.com/item?id=42973769) \| 🗓️ 2025-02-07
+
+
+<br />
+Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中实现**实时文本转语音**，完全在本地运行，无需依赖云端服务。该项目展示了在浏览器中利用现代硬件加速进行高效语音合成的潜力，适合需要**隐私保护**和低延迟的应用场景。
+
+---
+
 ## <a name="8"></a>8. Mozilla 代码签名简史 
 <small>🔗 [hearsum.ca](https://hearsum.ca/posts/history-of-code-signing-at-mozilla/): A brief history of code signing at Mozilla</small>
 
 
-| 🔥🔥: 145 \| 💬: [31](https://news.ycombinator.com/item?id=42975436) \| 🗓️ 2025-02-07
+| 🔥🔥: 158 \| 💬: [40](https://news.ycombinator.com/item?id=42975436) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -123,7 +123,7 @@ Mozilla 在过去 20 年中逐步完善了代码签名流程，从最初的 **GP
 <small>🔗 [github.com](https://github.com/AIFanatic/three-nanite): Three-nanite: Unreal Nanite in Three.js</small>
 
 
-| 🔥🔥: 138 \| 💬: [24](https://news.ycombinator.com/item?id=42974461) \| 🗓️ 2025-02-07
+| 🔥🔥: 155 \| 💬: [25](https://news.ycombinator.com/item?id=42974461) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -135,7 +135,7 @@ Mozilla 在过去 20 年中逐步完善了代码签名流程，从最初的 **GP
 <small>🔗 [carto.com](https://carto.com/blog/zip-codes-spatial-analysis): Stop using zip codes for geospatial analysis (2019)</small>
 
 
-| 🔥🔥: 138 \| 💬: [103](https://news.ycombinator.com/item?id=42974728) \| 🗓️ 2025-02-07
+| 🔥🔥: 140 \| 💬: [106](https://news.ycombinator.com/item?id=42974728) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -147,7 +147,7 @@ Mozilla 在过去 20 年中逐步完善了代码签名流程，从最初的 **GP
 <small>🔗 [theconversation.com](https://theconversation.com/whalesong-patterns-follow-a-universal-law-of-human-language-new-research-finds-249271): Whalesong patterns follow a universal law of human language, new research finds</small>
 
 
-| 🔥🔥: 125 \| 💬: [21](https://news.ycombinator.com/item?id=42971847) \| 🗓️ 2025-02-07
+| 🔥🔥: 129 \| 💬: [22](https://news.ycombinator.com/item?id=42971847) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -159,7 +159,7 @@ Mozilla 在过去 20 年中逐步完善了代码签名流程，从最初的 **GP
 <small>🔗 [source.coop](https://source.coop/repositories/harvard-lil/gov-data/description): A 16TB Mirror of Data.gov on Source.Coop</small>
 
 
-| 🔥🔥: 125 \| 💬: [18](https://news.ycombinator.com/item?id=42974533) \| 🗓️ 2025-02-07
+| 🔥🔥: 127 \| 💬: [18](https://news.ycombinator.com/item?id=42974533) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -171,7 +171,7 @@ Mozilla 在过去 20 年中逐步完善了代码签名流程，从最初的 **GP
 <small>🔗 [ieeexplore.ieee.org](https://ieeexplore.ieee.org/document/628099): The origins of 60-Hz as a power frequency</small>
 
 
-| 🔥🔥: 112 \| 💬: [127](https://news.ycombinator.com/item?id=42974809) \| 🗓️ 2025-02-07
+| 🔥🔥: 116 \| 💬: [139](https://news.ycombinator.com/item?id=42974809) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -179,11 +179,35 @@ Mozilla 在过去 20 年中逐步完善了代码签名流程，从最初的 **GP
 
 ---
 
-## <a name="14"></a>14. 爱沙尼亚将于周六脱离俄罗斯电力网络 
+## <a name="14"></a>14. 史诗级太阳风暴后地球周围发现神秘辐射带 
+<small>🔗 [sciencealert.com](https://www.sciencealert.com/mysterious-radiation-belts-detected-around-earth-after-epic-solar-storm): Radiation belts detected around Earth after solar storm</small>
+
+
+| 🔥: 96 \| 💬: [43](https://news.ycombinator.com/item?id=42974727) \| 🗓️ 2025-02-07
+
+
+<br />
+2024年5月，一场强烈的**太阳风暴**袭击地球，导致地球磁场剧烈震动，并形成了两条新的临时**辐射带**。其中一条辐射带首次检测到**高能质子**，这一现象前所未见。这些辐射带持续了三个月，远超以往太阳风暴产生的临时辐射带。科学家正在研究其对卫星的潜在威胁。
+
+---
+
+## <a name="15"></a>15. 儿童的计算技能在应用数学和学术数学之间无法迁移 
+<small>🔗 [nature.com](https://www.nature.com/articles/s41586-024-08502-w): Children's arithmetic skills do not transfer between applied and academic math</small>
+
+
+| 🔥: 94 \| 💬: [104](https://news.ycombinator.com/item?id=42972781) \| 🗓️ 2025-02-07
+
+
+<br />
+研究发现，印度市场工作的儿童在**实际交易**中能熟练进行复杂计算，但在**抽象数学问题**上表现不佳。相反，学校儿童擅长解决抽象问题，却无法应对实际应用问题。这表明**教育课程**需弥合直观数学与形式数学之间的差距。
+
+---
+
+## <a name="16"></a>16. 爱沙尼亚将于周六脱离俄罗斯电力网络 
 <small>🔗 [elering.ee](https://elering.ee/en/estonia-disconnect-russian-run-electricity-network-saturday): Estonia to disconnect from the Russian-run electricity network on Saturday</small>
 
 
-| 🔥: 92 \| 💬: [74](https://news.ycombinator.com/item?id=42971959) \| 🗓️ 2025-02-07
+| 🔥: 92 \| 💬: [75](https://news.ycombinator.com/item?id=42971959) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -191,7 +215,7 @@ Mozilla 在过去 20 年中逐步完善了代码签名流程，从最初的 **GP
 
 ---
 
-## <a name="15"></a>15. 如何帮助我们构建开源的Pebble软件 
+## <a name="17"></a>17. 如何帮助我们构建开源的Pebble软件 
 <small>🔗 [ericmigi.com](https://ericmigi.com/blog/how-to-help-build-open-source-pebble-software/): How to help us build open source Pebble software</small>
 
 
@@ -203,11 +227,11 @@ Google最近开源了**PebbleOS**，这对Pebble社区意义重大。团队正�
 
 ---
 
-## <a name="16"></a>16. 苹果被要求向英国间谍活动开放全球加密用户账户 
+## <a name="18"></a>18. 苹果被要求向英国间谍活动开放全球加密用户账户 
 <small>🔗 [theverge.com](https://www.theverge.com/news/608145/apple-uk-icloud-encrypted-backups-spying-snoopers-charter): Apple ordered to open encrypted user accounts globally to UK spying</small>
 
 
-| 🔥: 85 \| 💬: [2](https://news.ycombinator.com/item?id=42971533) \| 🗓️ 2025-02-07
+| 🔥: 86 \| 💬: [2](https://news.ycombinator.com/item?id=42971533) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -215,35 +239,11 @@ Google最近开源了**PebbleOS**，这对Pebble社区意义重大。团队正�
 
 ---
 
-## <a name="17"></a>17. 儿童的计算技能在应用数学和学术数学之间无法迁移 
-<small>🔗 [nature.com](https://www.nature.com/articles/s41586-024-08502-w): Children's arithmetic skills do not transfer between applied and academic math</small>
-
-
-| 🔥: 84 \| 💬: [95](https://news.ycombinator.com/item?id=42972781) \| 🗓️ 2025-02-07
-
-
-<br />
-研究发现，印度市场工作的儿童在**实际交易**中能熟练进行复杂计算，但在**抽象数学问题**上表现不佳。相反，学校儿童擅长解决抽象问题，却无法应对实际应用问题。这表明**教育课程**需弥合直观数学与形式数学之间的差距。
-
----
-
-## <a name="18"></a>18. 史诗级太阳风暴后地球周围发现神秘辐射带 
-<small>🔗 [sciencealert.com](https://www.sciencealert.com/mysterious-radiation-belts-detected-around-earth-after-epic-solar-storm): Radiation belts detected around Earth after solar storm</small>
-
-
-| 🔥: 84 \| 💬: [42](https://news.ycombinator.com/item?id=42974727) \| 🗓️ 2025-02-07
-
-
-<br />
-2024年5月，一场强烈的**太阳风暴**袭击地球，导致地球磁场剧烈震动，并形成了两条新的临时**辐射带**。其中一条辐射带首次检测到**高能质子**，这一现象前所未见。这些辐射带持续了三个月，远超以往太阳风暴产生的临时辐射带。科学家正在研究其对卫星的潜在威胁。
-
----
-
 ## <a name="19"></a>19. 当路易斯·阿姆斯特朗征服芝加哥 
 <small>🔗 [honest-broker.com](https://www.honest-broker.com/p/when-louis-armstrong-conquered-chicago): When Louis Armstrong Conquered Chicago</small>
 
 
-| 🔥: 83 \| 💬: [9](https://news.ycombinator.com/item?id=42973897) \| 🗓️ 2025-02-07
+| 🔥: 85 \| 💬: [9](https://news.ycombinator.com/item?id=42973897) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -255,7 +255,7 @@ Google最近开源了**PebbleOS**，这对Pebble社区意义重大。团队正�
 <small>🔗 [stytch.com](https://stytch.com/blog/the-age-of-agent-experience/): The Age of Agent Experience</small>
 
 
-| 🔥: 72 \| 💬: [32](https://news.ycombinator.com/item?id=42974429) \| 🗓️ 2025-02-07
+| 🔥: 77 \| 💬: [35](https://news.ycombinator.com/item?id=42974429) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -267,7 +267,7 @@ Google最近开源了**PebbleOS**，这对Pebble社区意义重大。团队正�
 <small>🔗 [yalemedicine.org](https://www.yalemedicine.org/news/ketamine-for-depression): Ketamine for Depression: How It Works (2024) [video]</small>
 
 
-| 🔥: 69 \| 💬: [44](https://news.ycombinator.com/item?id=42974882) \| 🗓️ 2025-02-07
+| 🔥: 74 \| 💬: [53](https://news.ycombinator.com/item?id=42974882) \| 🗓️ 2025-02-07
 
 
 <br />
