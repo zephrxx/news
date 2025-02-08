@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共22条，具体内容您往下读...
+总共23条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/): Meta torrented & seeded 81.7 TB dataset containing copyrighted data</small>
 
 
-| 🔥🔥: 1077 \| 💬: [779](https://news.ycombinator.com/item?id=42971446) \| 🗓️ 2025-02-07
+| 🔥🔥: 1097 \| 💬: [789](https://news.ycombinator.com/item?id=42971446) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [macrumors.com](https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/): Apple Ordered by UK to Create Global iCloud Encryption Backdoor</small>
 
 
-| 🔥🔥: 1046 \| 💬: [543](https://news.ycombinator.com/item?id=42971761) \| 🗓️ 2025-02-07
+| 🔥🔥: 1065 \| 💬: [557](https://news.ycombinator.com/item?id=42971761) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [lkml.org](https://lkml.org/lkml/2025/2/7/9): Asahi Linux lead developer Hector Martin resigns from Linux kernel</small>
 
 
-| 🔥🔥: 468 \| 💬: [397](https://news.ycombinator.com/item?id=42972062) \| 🗓️ 2025-02-07
+| 🔥🔥: 511 \| 💬: [434](https://news.ycombinator.com/item?id=42972062) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -75,7 +75,7 @@ Hector Martin 宣布辞去 Linux 内核维护者职务，表示对**内核开发
 <small>🔗 [github.com](https://github.com/c0stya/trre): Show HN: Transductive regular expressions for text editing</small>
 
 
-| 🔥🔥: 204 \| 💬: [65](https://news.ycombinator.com/item?id=42974378) \| 🗓️ 2025-02-07
+| 🔥🔥: 209 \| 💬: [66](https://news.ycombinator.com/item?id=42974378) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -87,7 +87,7 @@ Hector Martin 宣布辞去 Linux 内核维护者职务，表示对**内核开发
 <small>🔗 [theretowhere.com](https://theretowhere.com/): Show HN: A website that heatmaps your city based on your housing preferences</small>
 
 
-| 🔥🔥: 188 \| 💬: [76](https://news.ycombinator.com/item?id=42975803) \| 🗓️ 2025-02-07
+| 🔥🔥: 197 \| 💬: [77](https://news.ycombinator.com/item?id=42975803) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -99,7 +99,7 @@ Hector Martin 宣布辞去 Linux 内核维护者职务，表示对**内核开发
 <small>🔗 [huggingface.co](https://huggingface.co/spaces/webml-community/kokoro-webgpu): Kokoro WebGPU: Real-time text-to-speech 100% locally in the browser</small>
 
 
-| 🔥🔥: 173 \| 💬: [35](https://news.ycombinator.com/item?id=42973769) \| 🗓️ 2025-02-07
+| 🔥🔥: 176 \| 💬: [38](https://news.ycombinator.com/item?id=42973769) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -111,7 +111,7 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 <small>🔗 [hearsum.ca](https://hearsum.ca/posts/history-of-code-signing-at-mozilla/): A brief history of code signing at Mozilla</small>
 
 
-| 🔥🔥: 164 \| 💬: [46](https://news.ycombinator.com/item?id=42975436) \| 🗓️ 2025-02-07
+| 🔥🔥: 171 \| 💬: [58](https://news.ycombinator.com/item?id=42975436) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -123,7 +123,7 @@ Mozilla 在过去 20 年中逐步完善了代码签名流程，从最初的 **GP
 <small>🔗 [github.com](https://github.com/AIFanatic/three-nanite): Three-nanite: Unreal Nanite in Three.js</small>
 
 
-| 🔥🔥: 160 \| 💬: [25](https://news.ycombinator.com/item?id=42974461) \| 🗓️ 2025-02-07
+| 🔥🔥: 165 \| 💬: [27](https://news.ycombinator.com/item?id=42974461) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -135,7 +135,7 @@ Mozilla 在过去 20 年中逐步完善了代码签名流程，从最初的 **GP
 <small>🔗 [carto.com](https://carto.com/blog/zip-codes-spatial-analysis): Stop using zip codes for geospatial analysis (2019)</small>
 
 
-| 🔥🔥: 141 \| 💬: [107](https://news.ycombinator.com/item?id=42974728) \| 🗓️ 2025-02-07
+| 🔥🔥: 144 \| 💬: [115](https://news.ycombinator.com/item?id=42974728) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -147,7 +147,7 @@ Mozilla 在过去 20 年中逐步完善了代码签名流程，从最初的 **GP
 <small>🔗 [theconversation.com](https://theconversation.com/whalesong-patterns-follow-a-universal-law-of-human-language-new-research-finds-249271): Whalesong patterns follow a universal law of human language, new research finds</small>
 
 
-| 🔥🔥: 129 \| 💬: [22](https://news.ycombinator.com/item?id=42971847) \| 🗓️ 2025-02-07
+| 🔥🔥: 130 \| 💬: [22](https://news.ycombinator.com/item?id=42971847) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -159,7 +159,7 @@ Mozilla 在过去 20 年中逐步完善了代码签名流程，从最初的 **GP
 <small>🔗 [source.coop](https://source.coop/repositories/harvard-lil/gov-data/description): A 16TB Mirror of Data.gov on Source.Coop</small>
 
 
-| 🔥🔥: 127 \| 💬: [18](https://news.ycombinator.com/item?id=42974533) \| 🗓️ 2025-02-07
+| 🔥🔥: 128 \| 💬: [18](https://news.ycombinator.com/item?id=42974533) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -171,7 +171,7 @@ Mozilla 在过去 20 年中逐步完善了代码签名流程，从最初的 **GP
 <small>🔗 [ieeexplore.ieee.org](https://ieeexplore.ieee.org/document/628099): The origins of 60-Hz as a power frequency</small>
 
 
-| 🔥🔥: 123 \| 💬: [148](https://news.ycombinator.com/item?id=42974809) \| 🗓️ 2025-02-07
+| 🔥🔥: 127 \| 💬: [158](https://news.ycombinator.com/item?id=42974809) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -183,7 +183,7 @@ Mozilla 在过去 20 年中逐步完善了代码签名流程，从最初的 **GP
 <small>🔗 [nature.com](https://www.nature.com/articles/s41586-024-08502-w): Children's arithmetic skills do not transfer between applied and academic math</small>
 
 
-| 🔥🔥: 110 \| 💬: [117](https://news.ycombinator.com/item?id=42972781) \| 🗓️ 2025-02-07
+| 🔥🔥: 117 \| 💬: [131](https://news.ycombinator.com/item?id=42972781) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -195,7 +195,7 @@ Mozilla 在过去 20 年中逐步完善了代码签名流程，从最初的 **GP
 <small>🔗 [sciencealert.com](https://www.sciencealert.com/mysterious-radiation-belts-detected-around-earth-after-epic-solar-storm): Radiation belts detected around Earth after solar storm</small>
 
 
-| 🔥🔥: 101 \| 💬: [45](https://news.ycombinator.com/item?id=42974727) \| 🗓️ 2025-02-07
+| 🔥🔥: 106 \| 💬: [50](https://news.ycombinator.com/item?id=42974727) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -215,7 +215,19 @@ Mozilla 在过去 20 年中逐步完善了代码签名流程，从最初的 **GP
 
 ---
 
-## <a name="17"></a>17. 如何帮助我们构建开源的Pebble软件 
+## <a name="17"></a>17. 当路易斯·阿姆斯特朗征服芝加哥 
+<small>🔗 [honest-broker.com](https://www.honest-broker.com/p/when-louis-armstrong-conquered-chicago): When Louis Armstrong Conquered Chicago</small>
+
+
+| 🔥: 91 \| 💬: [10](https://news.ycombinator.com/item?id=42973897) \| 🗓️ 2025-02-07
+
+
+<br />
+1922年，路易斯·阿姆斯特朗从新奥尔良前往芝加哥，加入**乔·奥利弗**的乐队，开启了他的传奇音乐生涯。初到芝加哥时，阿姆斯特朗对这座城市的繁华和黑人社区的尊重感到震撼。他在林肯花园的首次演出标志着他音乐生涯的重要转折点，**乔·奥利弗**的指导与支持帮助他迅速融入芝加哥的音乐圈。这段经历不仅改变了阿姆斯特朗的命运，也深刻影响了20世纪的美国音乐。
+
+---
+
+## <a name="18"></a>18. 如何帮助我们构建开源的Pebble软件 
 <small>🔗 [ericmigi.com](https://ericmigi.com/blog/how-to-help-build-open-source-pebble-software/): How to help us build open source Pebble software</small>
 
 
@@ -227,19 +239,19 @@ Google最近开源了**PebbleOS**，这对Pebble社区意义重大。团队正�
 
 ---
 
-## <a name="18"></a>18. 当路易斯·阿姆斯特朗征服芝加哥 
-<small>🔗 [honest-broker.com](https://www.honest-broker.com/p/when-louis-armstrong-conquered-chicago): When Louis Armstrong Conquered Chicago</small>
+## <a name="19"></a>19. 氯胺酮治疗抑郁症：作用机制（2024）[视频] 
+<small>🔗 [yalemedicine.org](https://www.yalemedicine.org/news/ketamine-for-depression): Ketamine for Depression: How It Works (2024) [video]</small>
 
 
-| 🔥: 87 \| 💬: [9](https://news.ycombinator.com/item?id=42973897) \| 🗓️ 2025-02-07
+| 🔥: 87 \| 💬: [62](https://news.ycombinator.com/item?id=42974882) \| 🗓️ 2025-02-07
 
 
 <br />
-1922年，路易斯·阿姆斯特朗从新奥尔良前往芝加哥，加入**乔·奥利弗**的乐队，开启了他的传奇音乐生涯。初到芝加哥时，阿姆斯特朗对这座城市的繁华和黑人社区的尊重感到震撼。他在林肯花园的首次演出标志着他音乐生涯的重要转折点，**乔·奥利弗**的指导与支持帮助他迅速融入芝加哥的音乐圈。这段经历不仅改变了阿姆斯特朗的命运，也深刻影响了20世纪的美国音乐。
+当标准抗抑郁药物两次治疗无效时，**氯胺酮**可能成为选择。它通过促进**神经元突触再生**，改善大脑回路功能，与传统抗抑郁药作用机制不同。研究表明，氯胺酮能快速启动**神经可塑性**，帮助患者重塑思维模式，适应新环境。结合心理治疗，效果更佳。
 
 ---
 
-## <a name="19"></a>19. 苹果被要求向英国间谍活动开放全球加密用户账户 
+## <a name="20"></a>20. 苹果被要求向英国间谍活动开放全球加密用户账户 
 <small>🔗 [theverge.com](https://www.theverge.com/news/608145/apple-uk-icloud-encrypted-backups-spying-snoopers-charter): Apple ordered to open encrypted user accounts globally to UK spying</small>
 
 
@@ -251,11 +263,11 @@ Google最近开源了**PebbleOS**，这对Pebble社区意义重大。团队正�
 
 ---
 
-## <a name="20"></a>20. 代理体验时代 
+## <a name="21"></a>21. 代理体验时代 
 <small>🔗 [stytch.com](https://stytch.com/blog/the-age-of-agent-experience/): The Age of Agent Experience</small>
 
 
-| 🔥: 80 \| 💬: [36](https://news.ycombinator.com/item?id=42974429) \| 🗓️ 2025-02-07
+| 🔥: 83 \| 💬: [37](https://news.ycombinator.com/item?id=42974429) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -263,19 +275,19 @@ Google最近开源了**PebbleOS**，这对Pebble社区意义重大。团队正�
 
 ---
 
-## <a name="21"></a>21. 氯胺酮治疗抑郁症：作用机制（2024）[视频] 
-<small>🔗 [yalemedicine.org](https://www.yalemedicine.org/news/ketamine-for-depression): Ketamine for Depression: How It Works (2024) [video]</small>
+## <a name="22"></a>22. Show HN: ExpenseOwl – 简单、自托管的支出追踪工具 
+<small>🔗 [github.com](https://github.com/Tanq16/ExpenseOwl): Show HN: ExpenseOwl – Simple, self-hosted expense tracker</small>
 
 
-| 🔥: 80 \| 💬: [58](https://news.ycombinator.com/item?id=42974882) \| 🗓️ 2025-02-07
+| 🔥: 81 \| 💬: [27](https://news.ycombinator.com/item?id=42977388) \| 🗓️ 2025-02-07
 
 
 <br />
-当标准抗抑郁药物两次治疗无效时，**氯胺酮**可能成为选择。它通过促进**神经元突触再生**，改善大脑回路功能，与传统抗抑郁药作用机制不同。研究表明，氯胺酮能快速启动**神经可塑性**，帮助患者重塑思维模式，适应新环境。结合心理治疗，效果更佳。
+ExpenseOwl 是一款**极简的支出追踪系统**，专为家庭实验室使用设计。它通过**月度饼图**可视化每日支出，帮助用户了解消费模式。支持**Docker 部署**和**REST API**，数据以 JSON 格式存储，适合单用户使用。核心功能包括快速添加支出、自定义类别和货币符号，界面简洁且支持 PWA 安装。
 
 ---
 
-## <a name="22"></a>22. 英国要求访问苹果用户的加密数据 
+## <a name="23"></a>23. 英国要求访问苹果用户的加密数据 
 <small>🔗 [bbc.co.uk](https://www.bbc.co.uk/news/articles/c20g288yldko): UK demands access to Apple users' encrypted data</small>
 
 
