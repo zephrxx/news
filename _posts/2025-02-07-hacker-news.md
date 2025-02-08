@@ -11,8 +11,8 @@ tags:
 1. Meta 下载并传播了包含 81.7 TB 版权数据的种子文件；
 1. 英国要求苹果为iCloud创建全球加密后门；
 1. Asahi Linux 首席开发者 Hector Martin 辞去 Linux 内核维护者职务；
+1. VSCode的SSH代理令人担忧；
 1. Show HN: 用于文本编辑的转导正则表达式；
-1. 展示HN：一个根据住房偏好生成城市热图的网站；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/): Meta torrented & seeded 81.7 TB dataset containing copyrighted data</small>
 
 
-| 🔥🔥: 1124 \| 💬: [805](https://news.ycombinator.com/item?id=42971446) \| 🗓️ 2025-02-07
+| 🔥🔥: 1130 \| 💬: [807](https://news.ycombinator.com/item?id=42971446) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -36,10 +36,10 @@ tags:
 ---
 
 ## <a name="2"></a>2. 英国要求苹果为iCloud创建全球加密后门 
-<small>🔗 [macrumors.com](https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/): Apple Ordered by UK to Create Global iCloud Encryption Backdoor</small>
+<small>🔗 [macrumors.com](https://www.macrumors.com/2025/02/07/uk-government-orders-access-icloud/): Apple ordered by UK to create global iCloud encryption backdoor</small>
 
 
-| 🔥🔥: 1098 \| 💬: [575](https://news.ycombinator.com/item?id=42971761) \| 🗓️ 2025-02-07
+| 🔥🔥: 1107 \| 💬: [2](https://news.ycombinator.com/item?id=42971761) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [lkml.org](https://lkml.org/lkml/2025/2/7/9): Asahi Linux lead developer Hector Martin resigns from Linux kernel</small>
 
 
-| 🔥🔥: 568 \| 💬: [495](https://news.ycombinator.com/item?id=42972062) \| 🗓️ 2025-02-07
+| 🔥🔥: 580 \| 💬: [518](https://news.ycombinator.com/item?id=42972062) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -59,11 +59,23 @@ Hector Martin 宣布辞去 Linux 内核维护者职务，表示对**内核开发
 
 ---
 
-## <a name="4"></a>4. Show HN: 用于文本编辑的转导正则表达式 
+## <a name="4"></a>4. VSCode的SSH代理令人担忧 
+<small>🔗 [fly.io](https://fly.io/blog/vscode-ssh-wtf/): VSCode's SSH agent is bananas</small>
+
+
+| 🔥🔥: 223 \| 💬: [108](https://news.ycombinator.com/item?id=42979467) \| 🗓️ 2025-02-07
+
+
+<br />
+作者Thomas Ptacek讨论了VSCode的远程编辑功能，特别是其通过SSH进行远程编辑的方式。与Emacs的**Tramp**不同，VSCode通过SSH运行一个**Bash脚本**，下载并安装一个**Node代理**，该代理通过WebSockets与本地VSCode前端通信，能够访问文件系统、编辑文件并启动进程。这种设计在安全性上存在隐患，尤其是在生产环境中使用时。尽管作者最终认为这对他们的项目影响不大，但仍对此表示担忧。
+
+---
+
+## <a name="5"></a>5. Show HN: 用于文本编辑的转导正则表达式 
 <small>🔗 [github.com](https://github.com/c0stya/trre): Show HN: Transductive regular expressions for text editing</small>
 
 
-| 🔥🔥: 217 \| 💬: [68](https://news.ycombinator.com/item?id=42974378) \| 🗓️ 2025-02-07
+| 🔥🔥: 221 \| 💬: [68](https://news.ycombinator.com/item?id=42974378) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -71,11 +83,11 @@ Hector Martin 宣布辞去 Linux 内核维护者职务，表示对**内核开发
 
 ---
 
-## <a name="5"></a>5. 展示HN：一个根据住房偏好生成城市热图的网站 
+## <a name="6"></a>6. 展示HN：一个根据住房偏好生成城市热图的网站 
 <small>🔗 [theretowhere.com](https://theretowhere.com/): Show HN: A website that heatmaps your city based on your housing preferences</small>
 
 
-| 🔥🔥: 214 \| 💬: [80](https://news.ycombinator.com/item?id=42975803) \| 🗓️ 2025-02-07
+| 🔥🔥: 220 \| 💬: [80](https://news.ycombinator.com/item?id=42975803) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -83,7 +95,7 @@ Hector Martin 宣布辞去 Linux 内核维护者职务，表示对**内核开发
 
 ---
 
-## <a name="6"></a>6. 缅甸“诈骗之城”Shwe Kokko的崛起与争议 
+## <a name="7"></a>7. 缅甸“诈骗之城”Shwe Kokko的崛起与争议 
 <small>🔗 [bbc.co.uk](https://www.bbc.co.uk/news/articles/c04nx1vnw17o): Shwe Kokko is accused of being a city built on scams</small>
 
 
@@ -95,11 +107,11 @@ Hector Martin 宣布辞去 Linux 内核维护者职务，表示对**内核开发
 
 ---
 
-## <a name="7"></a>7. Mozilla 代码签名简史 
+## <a name="8"></a>8. Mozilla 代码签名简史 
 <small>🔗 [hearsum.ca](https://hearsum.ca/posts/history-of-code-signing-at-mozilla/): A brief history of code signing at Mozilla</small>
 
 
-| 🔥🔥: 183 \| 💬: [66](https://news.ycombinator.com/item?id=42975436) \| 🗓️ 2025-02-07
+| 🔥🔥: 190 \| 💬: [67](https://news.ycombinator.com/item?id=42975436) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -107,11 +119,11 @@ Mozilla 在过去 20 年中逐步完善了代码签名流程，从最初的 **GP
 
 ---
 
-## <a name="8"></a>8. Kokoro WebGPU：浏览器中100%本地实时文本转语音 
+## <a name="9"></a>9. Kokoro WebGPU：浏览器中100%本地实时文本转语音 
 <small>🔗 [huggingface.co](https://huggingface.co/spaces/webml-community/kokoro-webgpu): Kokoro WebGPU: Real-time text-to-speech 100% locally in the browser</small>
 
 
-| 🔥🔥: 182 \| 💬: [40](https://news.ycombinator.com/item?id=42973769) \| 🗓️ 2025-02-07
+| 🔥🔥: 183 \| 💬: [41](https://news.ycombinator.com/item?id=42973769) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -119,11 +131,11 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 
 ---
 
-## <a name="9"></a>9. 三纳米：Three.js 中的虚幻 Nanite 实现 
+## <a name="10"></a>10. 三纳米：Three.js 中的虚幻 Nanite 实现 
 <small>🔗 [github.com](https://github.com/AIFanatic/three-nanite): Three-nanite: Unreal Nanite in Three.js</small>
 
 
-| 🔥🔥: 178 \| 💬: [30](https://news.ycombinator.com/item?id=42974461) \| 🗓️ 2025-02-07
+| 🔥🔥: 179 \| 💬: [31](https://news.ycombinator.com/item?id=42974461) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -131,23 +143,11 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 
 ---
 
-## <a name="10"></a>10. VSCode的SSH代理令人担忧 
-<small>🔗 [fly.io](https://fly.io/blog/vscode-ssh-wtf/): VSCode's SSH agent is bananas</small>
-
-
-| 🔥🔥: 173 \| 💬: [87](https://news.ycombinator.com/item?id=42979467) \| 🗓️ 2025-02-07
-
-
-<br />
-作者Thomas Ptacek讨论了VSCode的远程编辑功能，特别是其通过SSH进行远程编辑的方式。与Emacs的**Tramp**不同，VSCode通过SSH运行一个**Bash脚本**，下载并安装一个**Node代理**，该代理通过WebSockets与本地VSCode前端通信，能够访问文件系统、编辑文件并启动进程。这种设计在安全性上存在隐患，尤其是在生产环境中使用时。尽管作者最终认为这对他们的项目影响不大，但仍对此表示担忧。
-
----
-
 ## <a name="11"></a>11. 停止使用邮政编码进行地理空间分析 (2019) 
 <small>🔗 [carto.com](https://carto.com/blog/zip-codes-spatial-analysis): Stop using zip codes for geospatial analysis (2019)</small>
 
 
-| 🔥🔥: 155 \| 💬: [117](https://news.ycombinator.com/item?id=42974728) \| 🗓️ 2025-02-07
+| 🔥🔥: 156 \| 💬: [117](https://news.ycombinator.com/item?id=42974728) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -159,7 +159,7 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 <small>🔗 [nature.com](https://www.nature.com/articles/s41586-024-08502-w): Children's arithmetic skills do not transfer between applied and academic math</small>
 
 
-| 🔥🔥: 134 \| 💬: [147](https://news.ycombinator.com/item?id=42972781) \| 🗓️ 2025-02-07
+| 🔥🔥: 137 \| 💬: [154](https://news.ycombinator.com/item?id=42972781) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -171,7 +171,7 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 <small>🔗 [ieeexplore.ieee.org](https://ieeexplore.ieee.org/document/628099): The origins of 60-Hz as a power frequency</small>
 
 
-| 🔥🔥: 133 \| 💬: [173](https://news.ycombinator.com/item?id=42974809) \| 🗓️ 2025-02-07
+| 🔥🔥: 136 \| 💬: [179](https://news.ycombinator.com/item?id=42974809) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -183,7 +183,7 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 <small>🔗 [theconversation.com](https://theconversation.com/whalesong-patterns-follow-a-universal-law-of-human-language-new-research-finds-249271): Whalesong patterns follow a universal law of human language, new research finds</small>
 
 
-| 🔥🔥: 131 \| 💬: [22](https://news.ycombinator.com/item?id=42971847) \| 🗓️ 2025-02-07
+| 🔥🔥: 132 \| 💬: [22](https://news.ycombinator.com/item?id=42971847) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -207,7 +207,7 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 <small>🔗 [sciencealert.com](https://www.sciencealert.com/mysterious-radiation-belts-detected-around-earth-after-epic-solar-storm): Radiation belts detected around Earth after solar storm</small>
 
 
-| 🔥🔥: 118 \| 💬: [50](https://news.ycombinator.com/item?id=42974727) \| 🗓️ 2025-02-07
+| 🔥🔥: 120 \| 💬: [51](https://news.ycombinator.com/item?id=42974727) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -219,7 +219,7 @@ Kokoro WebGPU 是一个基于 **WebGPU** 技术的项目，能够在浏览器中
 <small>🔗 [github.com](https://github.com/Tanq16/ExpenseOwl): Show HN: ExpenseOwl – Simple, self-hosted expense tracker</small>
 
 
-| 🔥🔥: 101 \| 💬: [31](https://news.ycombinator.com/item?id=42977388) \| 🗓️ 2025-02-07
+| 🔥🔥: 107 \| 💬: [35](https://news.ycombinator.com/item?id=42977388) \| 🗓️ 2025-02-07
 
 
 <br />
@@ -227,7 +227,31 @@ ExpenseOwl 是一款**极简的支出追踪系统**，专为家庭实验室使�
 
 ---
 
-## <a name="18"></a>18. 爱沙尼亚将于周六脱离俄罗斯电力网络 
+## <a name="18"></a>18. 代理体验时代 
+<small>🔗 [stytch.com](https://stytch.com/blog/the-age-of-agent-experience/): The Age of Agent Experience</small>
+
+
+| 🔥: 93 \| 💬: [38](https://news.ycombinator.com/item?id=42974429) \| 🗓️ 2025-02-07
+
+
+<br />
+随着AI代理（如ChatGPT Operator和Devin）的崛起，设计**代理体验（AX）**变得至关重要。与用户体验（UX）和开发者体验（DX）类似，AX关注如何让AI代理高效、安全地访问数据和执行任务。**OAuth**作为核心授权标准，确保了代理的权限管理和用户控制。未来，开放生态系统和清晰的API设计将成为构建优秀AX的关键。
+
+---
+
+## <a name="19"></a>19. 氯胺酮治疗抑郁症：作用机制（2024）[视频] 
+<small>🔗 [yalemedicine.org](https://www.yalemedicine.org/news/ketamine-for-depression): Ketamine for Depression: How It Works (2024) [video]</small>
+
+
+| 🔥: 93 \| 💬: [70](https://news.ycombinator.com/item?id=42974882) \| 🗓️ 2025-02-07
+
+
+<br />
+当标准抗抑郁药物两次治疗无效时，**氯胺酮**可能成为选择。它通过促进**神经元突触再生**，改善大脑回路功能，与传统抗抑郁药作用机制不同。研究表明，氯胺酮能快速启动**神经可塑性**，帮助患者重塑思维模式，适应新环境。结合心理治疗，效果更佳。
+
+---
+
+## <a name="20"></a>20. 爱沙尼亚将于周六脱离俄罗斯电力网络 
 <small>🔗 [elering.ee](https://elering.ee/en/estonia-disconnect-russian-run-electricity-network-saturday): Estonia to disconnect from the Russian-run electricity network on Saturday</small>
 
 
@@ -239,8 +263,8 @@ ExpenseOwl 是一款**极简的支出追踪系统**，专为家庭实验室使�
 
 ---
 
-## <a name="19"></a>19. 当路易斯·阿姆斯特朗征服芝加哥 
-<small>🔗 [honest-broker.com](https://www.honest-broker.com/p/when-louis-armstrong-conquered-chicago): When Louis Armstrong Conquered Chicago</small>
+## <a name="21"></a>21. 当路易斯·阿姆斯特朗征服芝加哥 
+<small>🔗 [honest-broker.com](https://www.honest-broker.com/p/when-louis-armstrong-conquered-chicago): When Louis Armstrong conquered Chicago</small>
 
 
 | 🔥: 92 \| 💬: [10](https://news.ycombinator.com/item?id=42973897) \| 🗓️ 2025-02-07
@@ -248,30 +272,6 @@ ExpenseOwl 是一款**极简的支出追踪系统**，专为家庭实验室使�
 
 <br />
 1922年，路易斯·阿姆斯特朗从新奥尔良前往芝加哥，加入**乔·奥利弗**的乐队，开启了他的传奇音乐生涯。初到芝加哥时，阿姆斯特朗对这座城市的繁华和黑人社区的尊重感到震撼。他在林肯花园的首次演出标志着他音乐生涯的重要转折点，**乔·奥利弗**的指导与支持帮助他迅速融入芝加哥的音乐圈。这段经历不仅改变了阿姆斯特朗的命运，也深刻影响了20世纪的美国音乐。
-
----
-
-## <a name="20"></a>20. 氯胺酮治疗抑郁症：作用机制（2024）[视频] 
-<small>🔗 [yalemedicine.org](https://www.yalemedicine.org/news/ketamine-for-depression): Ketamine for Depression: How It Works (2024) [video]</small>
-
-
-| 🔥: 92 \| 💬: [67](https://news.ycombinator.com/item?id=42974882) \| 🗓️ 2025-02-07
-
-
-<br />
-当标准抗抑郁药物两次治疗无效时，**氯胺酮**可能成为选择。它通过促进**神经元突触再生**，改善大脑回路功能，与传统抗抑郁药作用机制不同。研究表明，氯胺酮能快速启动**神经可塑性**，帮助患者重塑思维模式，适应新环境。结合心理治疗，效果更佳。
-
----
-
-## <a name="21"></a>21. 代理体验时代 
-<small>🔗 [stytch.com](https://stytch.com/blog/the-age-of-agent-experience/): The Age of Agent Experience</small>
-
-
-| 🔥: 91 \| 💬: [38](https://news.ycombinator.com/item?id=42974429) \| 🗓️ 2025-02-07
-
-
-<br />
-随着AI代理（如ChatGPT Operator和Devin）的崛起，设计**代理体验（AX）**变得至关重要。与用户体验（UX）和开发者体验（DX）类似，AX关注如何让AI代理高效、安全地访问数据和执行任务。**OAuth**作为核心授权标准，确保了代理的权限管理和用户控制。未来，开放生态系统和清晰的API设计将成为构建优秀AX的关键。
 
 ---
 
