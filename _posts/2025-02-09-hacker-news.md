@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共21条，具体内容您往下读...
+总共22条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [thebullshitmachines.com](https://thebullshitmachines.com): Modern-Day Oracles or Bullshit Machines? How to thrive in a ChatGPT world</small>
 
 
-| 🔥🔥: 438 \| 💬: [257](https://news.ycombinator.com/item?id=42989320) \| 🗓️ 2025-02-09
+| 🔥🔥: 497 \| 💬: [282](https://news.ycombinator.com/item?id=42989320) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [iquilezles.org](https://iquilezles.org/articles/gpuconditionals/): Don't "optimize" conditional moves in shaders with mix()+step()</small>
 
 
-| 🔥🔥: 262 \| 💬: [113](https://news.ycombinator.com/item?id=42990324) \| 🗓️ 2025-02-09
+| 🔥🔥: 272 \| 💬: [117](https://news.ycombinator.com/item?id=42990324) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [andysblog.uk](https://andysblog.uk/why-blog-if-nobody-reads-it/): Why Blog If Nobody Reads It?</small>
 
 
-| 🔥🔥: 164 \| 💬: [97](https://news.ycombinator.com/item?id=42992159) \| 🗓️ 2025-02-09
+| 🔥🔥: 203 \| 💬: [118](https://news.ycombinator.com/item?id=42992159) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.03387): LIMO: Less Is More for Reasoning</small>
 
 
-| 🔥🔥: 159 \| 💬: [67](https://news.ycombinator.com/item?id=42991676) \| 🗓️ 2025-02-09
+| 🔥🔥: 189 \| 💬: [69](https://news.ycombinator.com/item?id=42991676) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples): Classic Data science pipelines built with LLMs</small>
 
 
-| 🔥🔥: 137 \| 💬: [76](https://news.ycombinator.com/item?id=42990036) \| 🗓️ 2025-02-09
+| 🔥🔥: 145 \| 💬: [78](https://news.ycombinator.com/item?id=42990036) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -87,7 +87,7 @@ FlashLearn提供了一系列示例，展示如何利用其库进行数据科学�
 <small>🔗 [itizso.itch.io](https://itizso.itch.io/retrofab): RetroFab: Playable 3D simulations of vintage electronic games</small>
 
 
-| 🔥🔥: 135 \| 💬: [21](https://news.ycombinator.com/item?id=42989628) \| 🗓️ 2025-02-09
+| 🔥🔥: 136 \| 💬: [22](https://news.ycombinator.com/item?id=42989628) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -99,7 +99,7 @@ RetroFab是一个新的在线平台，提供**复古电子游戏**的可玩3D模
 <small>🔗 [rollingstone.com](https://www.rollingstone.com/culture/culture-news/unitedhealth-defends-image-claim-denials-mangione-thompson-1235259054/): UnitedHealth Is Sick of Everyone Complaining About Its Claim Denials</small>
 
 
-| 🔥🔥: 122 \| 💬: [155](https://news.ycombinator.com/item?id=42992121) \| 🗓️ 2025-02-09
+| 🔥🔥: 128 \| 💬: [155](https://news.ycombinator.com/item?id=42992121) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -111,7 +111,7 @@ RetroFab是一个新的在线平台，提供**复古电子游戏**的可玩3D模
 <small>🔗 [marktomforde.com](https://marktomforde.com/academic/miscellaneous/images/atiyah20thcentury.pdf): Mathematics in the 20th century, by Michael Atiyah [pdf] (2002)</small>
 
 
-| 🔥: 100 \| 💬: [15](https://news.ycombinator.com/item?id=42989419) \| 🗓️ 2025-02-09
+| 🔥🔥: 102 \| 💬: [15](https://news.ycombinator.com/item?id=42989419) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -123,7 +123,7 @@ RetroFab是一个新的在线平台，提供**复古电子游戏**的可玩3D模
 <small>🔗 [github.com](https://github.com/jtroo/kanata): Kanata: Cross-platform multi-layer keyboard remapper with advanced customization</small>
 
 
-| 🔥: 96 \| 💬: [28](https://news.ycombinator.com/item?id=42991019) \| 🗓️ 2025-02-09
+| 🔥🔥: 102 \| 💬: [30](https://news.ycombinator.com/item?id=42991019) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -135,7 +135,7 @@ Kanata 是一款 **跨平台** 的键盘重映射软件，支持 **Linux、macOS
 <small>🔗 [wingolog.org](https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection): Baffled by generational garbage collection – wingolog</small>
 
 
-| 🔥: 95 \| 💬: [67](https://news.ycombinator.com/item?id=42990819) \| 🗓️ 2025-02-09
+| 🔥: 99 \| 💬: [76](https://news.ycombinator.com/item?id=42990819) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -147,7 +147,7 @@ Kanata 是一款 **跨平台** 的键盘重映射软件，支持 **Linux、macOS
 <small>🔗 [colinux.org](http://www.colinux.org/): Linux as co-operative Windows process (2017)</small>
 
 
-| 🔥: 84 \| 💬: [53](https://news.ycombinator.com/item?id=42989923) \| 🗓️ 2025-02-09
+| 🔥: 91 \| 💬: [55](https://news.ycombinator.com/item?id=42989923) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -155,59 +155,23 @@ Cooperative Linux（简称coLinux）是一个开源项目，允许Linux内核与
 
 ---
 
-## <a name="12"></a>12. 我的第一个副项目：在Slack上简化读书俱乐部 
-<small>🔗 [booktalk.club](https://booktalk.club/): Show HN: My first side project, streamlined book clubs on Slack</small>
+## <a name="12"></a>12. 2024年克拉克县选举结果分析显示操控迹象 
+<small>🔗 [wcia.com](https://www.wcia.com/business/press-releases/ein-presswire/776992724/analysis-of-2024-election-results-in-clark-county-indicates-manipulation/): Analysis of 2024 Election Results in Clark County Indicates Manipulation</small>
 
 
-| 🔥: 81 \| 💬: [35](https://news.ycombinator.com/item?id=42990540) \| 🗓️ 2025-02-09
-
-
-<br />
-booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并培养成长文化。用户可以与团队一起**投票选择书籍**，获得个性化推荐，设定阅读时间框架，并通过精心策划的问题促进讨论。加入测试版可享受**终身免费访问**。
-
----
-
-## <a name="13"></a>13. 英特尔收购以色列初创公司后失利，AI竞赛告负 
-<small>🔗 [calcalistech.com](https://www.calcalistech.com/ctechnews/article/s1tra0sfye): Intel ruined an Israeli startup it bought for $2B–and lost the AI race</small>
-
-
-| 🔥: 72 \| 💬: [51](https://news.ycombinator.com/item?id=42992783) \| 🗓️ 2025-02-09
+| 🔥: 91 \| 💬: [7](https://news.ycombinator.com/item?id=42994293) \| 🗓️ 2025-02-09
 
 
 <br />
-英特尔以20亿美元收购的以色列初创公司未能实现预期，导致其在**人工智能**领域的竞争力下降。与此同时，DeepSeek的崛起为以色列科技带来了新的希望，显示出在**技术创新**和**市场竞争**中，以色列仍具备强大的潜力。
+选举真相联盟（ETA）对内华达州克拉克县2024年总统选举的投票数据进行了独立调查，发现与选票操控一致的模式。分析显示，候选人哈里斯在多个摇摆州的投票表现不佳，尤其是在早期投票数据中，特朗普的得票率在处理大量选票的机器上显著上升，显示出可能的“投票翻转黑客”迹象。ETA呼吁对选举结果进行独立审计和验证。
 
 ---
 
-## <a name="14"></a>14. 2024年Ada年度最佳库揭晓 
-<small>🔗 [blog.adacore.com](https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced): Ada crate of the year 2024 announced</small>
-
-
-| 🔥: 67 \| 💬: [33](https://news.ycombinator.com/item?id=42993086) \| 🗓️ 2025-02-09
-
-
-<br />
-在2024年，我们公布了第四届Ada/SPARK年度最佳库奖。**BBTBBT**由Lionel Draghi获得Ada年度最佳库奖，它是一个结合行为规范和测试自动化的命令行工具。**elog**由Kevin Chadwick获得SPARK年度最佳库奖，提供经过验证的消息记录功能，确保内存安全。**bbs_lisp**由Brent Seidel获得嵌入式年度最佳库奖，适用于嵌入式系统的Lisp解释器。这些获奖项目展示了Ada/SPARK生态系统的创新和贡献。
-
----
-
-## <a name="15"></a>15. 爱沙尼亚、拉脱维亚和立陶宛电力系统与欧洲同步 
-<small>🔗 [elering.ee](https://elering.ee/estonian-latvian-and-lithuanian-power-systems-successfully-synchronised-continental-europe): Estonian, Latvian, and Lithuanian power systems synchronised with Europe</small>
-
-
-| 🔥: 66 \| 💬: [22](https://news.ycombinator.com/item?id=42991687) \| 🗓️ 2025-02-09
-
-
-<br />
-爱沙尼亚、拉脱维亚和立陶宛于2025年2月9日下午2:05成功与**欧洲大陆同步电网**连接。这一里程碑增强了波罗的海国家的**能源韧性**和独立性，使其能够与其他欧洲国家更好地管理电力网络，提升区域**能源安全**。此前，这些国家依赖于俄罗斯的电力系统进行频率管理，现在已完全断开与俄罗斯和白俄罗斯的电力连接。此项目得到了**欧盟**和欧洲电力传输系统运营商协会（ENTSO-E）的强力支持，经过多年的准备和基础设施升级，最终实现了这一重要目标。
-
----
-
-## <a name="16"></a>16. 在Steam Deck上使用Nix实现持久化软件包 
+## <a name="13"></a>13. 在Steam Deck上使用Nix实现持久化软件包 
 <small>🔗 [chrastecky.dev](https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix): Persistent packages on Steam Deck using Nix</small>
 
 
-| 🔥: 65 \| 💬: [37](https://news.ycombinator.com/item?id=42992345) \| 🗓️ 2025-02-09
+| 🔥: 84 \| 💬: [39](https://news.ycombinator.com/item?id=42992345) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -215,47 +179,47 @@ Steam Deck的**不可变文件系统**使得安装持久化软件包变得复杂
 
 ---
 
-## <a name="17"></a>17. ZeroTier：无公共IP地址的家庭VPN 
-<small>🔗 [blog.tomaszdunia.pl](https://blog.tomaszdunia.pl/zerotier-eng/): ZeroTier – home VPN without a public IP address</small>
+## <a name="14"></a>14. 我的第一个副项目：在Slack上简化读书俱乐部 
+<small>🔗 [booktalk.club](https://booktalk.club/): Show HN: My first side project, streamlined book clubs on Slack</small>
 
 
-| 🔥: 57 \| 💬: [56](https://news.ycombinator.com/item?id=42989747) \| 🗓️ 2025-02-09
-
-
-<br />
-ZeroTier是一种解决方案，可以在没有公共IP地址的情况下访问家庭网络。通过创建一个虚拟网络，用户可以安全地从外部设备连接到家庭IoT设备。尽管这种方法简单且免费，但依赖第三方基础设施存在风险，长期而言，建议获取公共IP并设置标准VPN。
-
----
-
-## <a name="18"></a>18. 不需要博士知识：大型语言模型的推理挑战 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2502.01584): PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models</small>
-
-
-| 🔥: 51 \| 💬: [35](https://news.ycombinator.com/item?id=42992336) \| 🗓️ 2025-02-09
+| 🔥: 82 \| 💬: [37](https://news.ycombinator.com/item?id=42990540) \| 🗓️ 2025-02-09
 
 
 <br />
-现有的基准测试往往要求专业的“博士级”知识，难以为非专家所理解。我们提出了一个基于NPR周日谜题挑战的基准，要求的仅是一般知识。该基准对人类和模型都具有挑战性，但正确答案易于验证，模型的错误也容易发现。研究显示，OpenAI的o1在推理能力上显著优于其他模型，尽管它们在专业知识测试上表现相当。此外，分析推理输出揭示了新的失败类型，例如DeepSeek R1常常在知道答案错误时选择放弃，且在某些情况下未能“完成思考”，这表明需要在推理时采取技术以避免超出上下文窗口限制。
+booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并培养成长文化。用户可以与团队一起**投票选择书籍**，获得个性化推荐，设定阅读时间框架，并通过精心策划的问题促进讨论。加入测试版可享受**终身免费访问**。
 
 ---
 
-## <a name="19"></a>19. PostgreSQL最佳实践 
-<small>🔗 [speakdatascience.com](https://speakdatascience.com/postgresql-best-practices/): PostgreSQL Best Practices</small>
+## <a name="15"></a>15. 2024年Ada年度最佳库揭晓 
+<small>🔗 [blog.adacore.com](https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced): Ada crate of the year 2024 announced</small>
 
 
-| 🔥: 51 \| 💬: [10](https://news.ycombinator.com/item?id=42992913) \| 🗓️ 2025-02-09
+| 🔥: 77 \| 💬: [43](https://news.ycombinator.com/item?id=42993086) \| 🗓️ 2025-02-09
 
 
 <br />
-PostgreSQL是强大的关系数据库管理系统，遵循最佳实践可确保数据库的性能、安全性和可维护性。**数据库设计**应遵循一致的命名约定和合理的模式设计。**性能优化**包括有效的索引策略和查询优化。**安全性**方面，需实施访问控制和强密码策略。**备份与恢复**策略至关重要，定期测试恢复过程。**维护与监控**需定期进行VACUUM和ANALYZE操作，监控关键指标。**开发实践**应包括版本控制和代码组织。最后，**高可用性**通过配置复制和负载均衡来实现。遵循这些实践将为您的PostgreSQL数据库奠定坚实基础。
+在2024年，我们公布了第四届Ada/SPARK年度最佳库奖。**BBTBBT**由Lionel Draghi获得Ada年度最佳库奖，它是一个结合行为规范和测试自动化的命令行工具。**elog**由Kevin Chadwick获得SPARK年度最佳库奖，提供经过验证的消息记录功能，确保内存安全。**bbs_lisp**由Brent Seidel获得嵌入式年度最佳库奖，适用于嵌入式系统的Lisp解释器。这些获奖项目展示了Ada/SPARK生态系统的创新和贡献。
 
 ---
 
-## <a name="20"></a>20. 三大观察 
+## <a name="16"></a>16. 英特尔收购以色列初创公司后失利，AI竞赛告负 
+<small>🔗 [calcalistech.com](https://www.calcalistech.com/ctechnews/article/s1tra0sfye): Intel ruined an Israeli startup it bought for $2B–and lost the AI race</small>
+
+
+| 🔥: 76 \| 💬: [54](https://news.ycombinator.com/item?id=42992783) \| 🗓️ 2025-02-09
+
+
+<br />
+英特尔以20亿美元收购的以色列初创公司未能实现预期，导致其在**人工智能**领域的竞争力下降。与此同时，DeepSeek的崛起为以色列科技带来了新的希望，显示出在**技术创新**和**市场竞争**中，以色列仍具备强大的潜力。
+
+---
+
+## <a name="17"></a>17. 三大观察 
 <small>🔗 [blog.samaltman.com](https://blog.samaltman.com/three-observations): Three Observations</small>
 
 
-| 🔥: 51 \| 💬: [34](https://news.ycombinator.com/item?id=42993987) \| 🗓️ 2025-02-09
+| 🔥: 73 \| 💬: [61](https://news.ycombinator.com/item?id=42993987) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -263,11 +227,59 @@ PostgreSQL是强大的关系数据库管理系统，遵循最佳实践可确保�
 
 ---
 
-## <a name="21"></a>21. 对维基百科的合法性攻势 
+## <a name="18"></a>18. 爱沙尼亚、拉脱维亚和立陶宛电力系统与欧洲同步 
+<small>🔗 [elering.ee](https://elering.ee/estonian-latvian-and-lithuanian-power-systems-successfully-synchronised-continental-europe): Estonian, Latvian, and Lithuanian power systems synchronised with Europe</small>
+
+
+| 🔥: 69 \| 💬: [21](https://news.ycombinator.com/item?id=42991687) \| 🗓️ 2025-02-09
+
+
+<br />
+爱沙尼亚、拉脱维亚和立陶宛于2025年2月9日下午2:05成功与**欧洲大陆同步电网**连接。这一里程碑增强了波罗的海国家的**能源韧性**和独立性，使其能够与其他欧洲国家更好地管理电力网络，提升区域**能源安全**。此前，这些国家依赖于俄罗斯的电力系统进行频率管理，现在已完全断开与俄罗斯和白俄罗斯的电力连接。此项目得到了**欧盟**和欧洲电力传输系统运营商协会（ENTSO-E）的强力支持，经过多年的准备和基础设施升级，最终实现了这一重要目标。
+
+---
+
+## <a name="19"></a>19. PostgreSQL最佳实践 
+<small>🔗 [speakdatascience.com](https://speakdatascience.com/postgresql-best-practices/): PostgreSQL Best Practices</small>
+
+
+| 🔥: 65 \| 💬: [23](https://news.ycombinator.com/item?id=42992913) \| 🗓️ 2025-02-09
+
+
+<br />
+PostgreSQL是强大的关系数据库管理系统，遵循最佳实践可确保数据库的性能、安全性和可维护性。**数据库设计**应遵循一致的命名约定和合理的模式设计。**性能优化**包括有效的索引策略和查询优化。**安全性**方面，需实施访问控制和强密码策略。**备份与恢复**策略至关重要，定期测试恢复过程。**维护与监控**需定期进行VACUUM和ANALYZE操作，监控关键指标。**开发实践**应包括版本控制和代码组织。最后，**高可用性**通过配置复制和负载均衡来实现。遵循这些实践将为您的PostgreSQL数据库奠定坚实基础。
+
+---
+
+## <a name="20"></a>20. 不需要博士知识：大型语言模型的推理挑战 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2502.01584): PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models</small>
+
+
+| 🔥: 64 \| 💬: [40](https://news.ycombinator.com/item?id=42992336) \| 🗓️ 2025-02-09
+
+
+<br />
+现有的基准测试往往要求专业的“博士级”知识，难以为非专家所理解。我们提出了一个基于NPR周日谜题挑战的基准，要求的仅是一般知识。该基准对人类和模型都具有挑战性，但正确答案易于验证，模型的错误也容易发现。研究显示，OpenAI的o1在推理能力上显著优于其他模型，尽管它们在专业知识测试上表现相当。此外，分析推理输出揭示了新的失败类型，例如DeepSeek R1常常在知道答案错误时选择放弃，且在某些情况下未能“完成思考”，这表明需要在推理时采取技术以避免超出上下文窗口限制。
+
+---
+
+## <a name="21"></a>21. ZeroTier：无公共IP地址的家庭VPN 
+<small>🔗 [blog.tomaszdunia.pl](https://blog.tomaszdunia.pl/zerotier-eng/): ZeroTier – home VPN without a public IP address</small>
+
+
+| 🔥: 58 \| 💬: [57](https://news.ycombinator.com/item?id=42989747) \| 🗓️ 2025-02-09
+
+
+<br />
+ZeroTier是一种解决方案，可以在没有公共IP地址的情况下访问家庭网络。通过创建一个虚拟网络，用户可以安全地从外部设备连接到家庭IoT设备。尽管这种方法简单且免费，但依赖第三方基础设施存在风险，长期而言，建议获取公共IP并设置标准VPN。
+
+---
+
+## <a name="22"></a>22. 对维基百科的合法性攻势 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/technology/archive/2025/02/elon-musk-wikipedia/681577/): The Campaign to Delegitimize Wikipedia</small>
 
 
-| 🔥: 40 \| 💬: [19](https://news.ycombinator.com/item?id=42992194) \| 🗓️ 2025-02-09
+| 🔥: 43 \| 💬: [20](https://news.ycombinator.com/item?id=42992194) \| 🗓️ 2025-02-09
 
 
 <br />
