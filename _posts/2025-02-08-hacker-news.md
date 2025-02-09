@@ -27,7 +27,7 @@ tags:
 <small>🔗 [antirez.com](https://antirez.com/news/145): We are destroying software</small>
 
 
-| 🔥🔥: 430 \| 💬: [314](https://news.ycombinator.com/item?id=42983275) \| 🗓️ 2025-02-08
+| 🔥🔥: 453 \| 💬: [330](https://news.ycombinator.com/item?id=42983275) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/xajik/thedeck): The Deck: An open-source cross-platform multiplayer card game engine in Flutter</small>
 
 
-| 🔥🔥: 199 \| 💬: [47](https://news.ycombinator.com/item?id=42983699) \| 🗓️ 2025-02-08
+| 🔥🔥: 205 \| 💬: [50](https://news.ycombinator.com/item?id=42983699) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [redpenguin101.github.io](https://redpenguin101.github.io/html/posts/2025_01_21_voronoi.html): Generating Voronoi Diagrams Using Fortune's Algorithm (With Odin)</small>
 
 
-| 🔥🔥: 152 \| 💬: [15](https://news.ycombinator.com/item?id=42982015) \| 🗓️ 2025-02-08
+| 🔥🔥: 155 \| 💬: [15](https://news.ycombinator.com/item?id=42982015) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [github.com](https://github.com/wojciech-kulik/FlashSpace): Show HN: FlashSpace – fast, open-source, macOS Spaces replacement</small>
 
 
-| 🔥🔥: 138 \| 💬: [42](https://news.ycombinator.com/item?id=42984420) \| 🗓️ 2025-02-08
+| 🔥🔥: 152 \| 💬: [48](https://news.ycombinator.com/item?id=42984420) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -75,7 +75,7 @@ FlashSpace 是一款**快速**的虛擬**工作區**管理器，旨在取代原�
 <small>🔗 [johnkerl.org](https://johnkerl.org/doc/ortho/ortho.html): Tips for mathematical handwriting (2007)</small>
 
 
-| 🔥🔥: 129 \| 💬: [49](https://news.ycombinator.com/item?id=42985427) \| 🗓️ 2025-02-08
+| 🔥🔥: 145 \| 💬: [54](https://news.ycombinator.com/item?id=42985427) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -87,7 +87,7 @@ FlashSpace 是一款**快速**的虛擬**工作區**管理器，旨在取代原�
 <small>🔗 [scorpiosoftware.net](https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/): Writing a Simple Windows Driver in Rust</small>
 
 
-| 🔥🔥: 127 \| 💬: [53](https://news.ycombinator.com/item?id=42984457) \| 🗓️ 2025-02-08
+| 🔥🔥: 139 \| 💬: [57](https://news.ycombinator.com/item?id=42984457) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -99,7 +99,7 @@ Rust 语言生态日益增长，因其在编译时提供**内存和并发安全*
 <small>🔗 [herecomesthemoon.net](https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/): Carbon is not a programming language (sort of)</small>
 
 
-| 🔥🔥: 111 \| 💬: [52](https://news.ycombinator.com/item?id=42983733) \| 🗓️ 2025-02-08
+| 🔥🔥: 116 \| 💬: [58](https://news.ycombinator.com/item?id=42983733) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -111,7 +111,7 @@ Carbon 是 Google 开发的实验性开源 **“C++继任者”语言**，旨在
 <small>🔗 [video.fosdem.org](https://video.fosdem.org/2025/h1302/fosdem-2025-6479-a-tale-of-several-distros-joining-forces-for-a-common-goal-reproducible-builds.av1.webm): A tale of several distros joining forces for a common goal: reproducible builds</small>
 
 
-| 🔥🔥: 107 \| 💬: [42](https://news.ycombinator.com/item?id=42982270) \| 🗓️ 2025-02-08
+| 🔥🔥: 112 \| 💬: [46](https://news.ycombinator.com/item?id=42982270) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -123,7 +123,7 @@ Carbon 是 Google 开发的实验性开源 **“C++继任者”语言**，旨在
 <small>🔗 [softwarecrisis.dev](https://softwarecrisis.dev/letters/llmentalist/): The LLMentalist Effect</small>
 
 
-| 🔥: 88 \| 💬: [79](https://news.ycombinator.com/item?id=42983571) \| 🗓️ 2025-02-08
+| 🔥: 95 \| 💬: [81](https://news.ycombinator.com/item?id=42983571) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -131,7 +131,19 @@ Carbon 是 Google 开发的实验性开源 **“C++继任者”语言**，旨在
 
 ---
 
-## <a name="10"></a>10. 无依赖的单文件C/C++库集合，主要用于游戏 
+## <a name="10"></a>10. 软件抽象真的会扼杀文明吗？ 
+<small>🔗 [datagubbe.se](https://datagubbe.se/endofciv/): Is Software Abstraction Killing Civilization? (2021)</small>
+
+
+| 🔥: 81 \| 💬: [34](https://news.ycombinator.com/item?id=42986485) \| 🗓️ 2025-02-08
+
+
+<br />
+本文批判性地分析了游戏开发大师Jonathan Blow关于**软件抽象**可能导致文明崩溃的观点。作者指出，Blow的论据存在多处错误和误解，例如他错误地认为“**五个九**”的高可用性指标已不再使用，并且误解了现代软件的**健壮性**。文章还反驳了Blow关于科技公司不再推动技术前进的看法，强调当前“硬科技”领域的持续创新。此外，作者认为抽象并未导致编程能力的丧失，反而有更多人掌握底层编程语言。通过对比历史与现今的软件开发实践，作者总结认为，现代软件更为稳健，程序员的生产力并未下降，甚至在某些方面有所提升，从而否定了Blow关于软件抽象将导致文明崩溃的悲观预言。
+
+---
+
+## <a name="11"></a>11. 无依赖的单文件C/C++库集合，主要用于游戏 
 <small>🔗 [github.com](https://github.com/RandyGaul/cute_headers): Collection of one-file C/C++ libraries with no dependencies, primarily for games</small>
 
 
@@ -143,11 +155,11 @@ Carbon 是 Google 开发的实验性开源 **“C++继任者”语言**，旨在
 
 ---
 
-## <a name="11"></a>11. 亚马逊错失Alexa主导AI的机会，员工称 
+## <a name="12"></a>12. 亚马逊错失Alexa主导AI的机会，员工称 
 <small>🔗 [fortune.com](https://fortune.com/2024/06/12/amazon-insiders-why-new-alexa-llm-generative-ai-conversational-chatbot-missing-in-action/): Amazon blew Alexa's shot to dominate AI, according to employees (2024)</small>
 
 
-| 🔥: 63 \| 💬: [53](https://news.ycombinator.com/item?id=42984791) \| 🗓️ 2025-02-08
+| 🔥: 64 \| 💬: [53](https://news.ycombinator.com/item?id=42984791) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -155,23 +167,11 @@ Carbon 是 Google 开发的实验性开源 **“C++继任者”语言**，旨在
 
 ---
 
-## <a name="12"></a>12. Show HN：FreeDemandLetter – 对抗被欺负的利器 
-<small>🔗 [freedemandletter.com](https://www.freedemandletter.com): Show HN: FreeDemandLetter – A Weapon for Anyone Who's Sick of Getting Shafted</small>
-
-
-| 🔥: 51 \| 💬: [50](https://news.ycombinator.com/item?id=42983148) \| 🗓️ 2025-02-08
-
-
-<br />
-FreeDemandLetter 提供**符合州法律**的专业模板，简化流程让用户在几分钟内创建需求函，确保**法律合规**并提高解决纠纷的成功率。无论是未支付工资、合同纠纷还是退还押金，用户都能通过平台有效维护自己的权利，享受无法律烦恼的服务体验。
-
----
-
 ## <a name="13"></a>13. Chez Scheme 的 txtar Go 端口 
 <small>🔗 [git.sr.ht](https://git.sr.ht/~egtann/txtar/): Show HN: Chez Scheme txtar port from Go</small>
 
 
-| 🔥: 49 \| 💬: [5](https://news.ycombinator.com/item?id=42984962) \| 🗓️ 2025-02-08
+| 🔥: 53 \| 💬: [5](https://news.ycombinator.com/item?id=42984962) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -179,15 +179,15 @@ FreeDemandLetter 提供**符合州法律**的专业模板，简化流程让用�
 
 ---
 
-## <a name="14"></a>14. 软件抽象真的会扼杀文明吗？ 
-<small>🔗 [datagubbe.se](https://datagubbe.se/endofciv/): Is Software Abstraction Killing Civilization? (2021)</small>
+## <a name="14"></a>14. Show HN：FreeDemandLetter – 对抗被欺负的利器 
+<small>🔗 [freedemandletter.com](https://www.freedemandletter.com): Show HN: FreeDemandLetter – A Weapon for Anyone Who's Sick of Getting Shafted</small>
 
 
-| 🔥: 45 \| 💬: [7](https://news.ycombinator.com/item?id=42986485) \| 🗓️ 2025-02-08
+| 🔥: 52 \| 💬: [51](https://news.ycombinator.com/item?id=42983148) \| 🗓️ 2025-02-08
 
 
 <br />
-本文批判性地分析了游戏开发大师Jonathan Blow关于**软件抽象**可能导致文明崩溃的观点。作者指出，Blow的论据存在多处错误和误解，例如他错误地认为“**五个九**”的高可用性指标已不再使用，并且误解了现代软件的**健壮性**。文章还反驳了Blow关于科技公司不再推动技术前进的看法，强调当前“硬科技”领域的持续创新。此外，作者认为抽象并未导致编程能力的丧失，反而有更多人掌握底层编程语言。通过对比历史与现今的软件开发实践，作者总结认为，现代软件更为稳健，程序员的生产力并未下降，甚至在某些方面有所提升，从而否定了Blow关于软件抽象将导致文明崩溃的悲观预言。
+FreeDemandLetter 提供**符合州法律**的专业模板，简化流程让用户在几分钟内创建需求函，确保**法律合规**并提高解决纠纷的成功率。无论是未支付工资、合同纠纷还是退还押金，用户都能通过平台有效维护自己的权利，享受无法律烦恼的服务体验。
 
 ---
 
@@ -195,7 +195,7 @@ FreeDemandLetter 提供**符合州法律**的专业模板，简化流程让用�
 <small>🔗 [afi.com](https://www.afi.com/news/the-daughter-of-dawn-1920-afi-catalog-spotlight/): The Daughter of Dawn [1920] (2024)</small>
 
 
-| 🔥: 34 \| 💬: [4](https://news.ycombinator.com/item?id=42984813) \| 🗓️ 2025-02-08
+| 🔥: 35 \| 💬: [4](https://news.ycombinator.com/item?id=42984813) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -207,7 +207,7 @@ FreeDemandLetter 提供**符合州法律**的专业模板，简化流程让用�
 <small>🔗 [silverbullet.md](https://silverbullet.md/): SilverBullet – note-taking Git-friendly alternative to Logseq and Obsidian</small>
 
 
-| 🔥: 33 \| 💬: [7](https://news.ycombinator.com/item?id=42981690) \| 🗓️ 2025-02-08
+| 🔥: 34 \| 💬: [8](https://news.ycombinator.com/item?id=42981690) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -227,11 +227,23 @@ SilverBullet 是一个开源的个人知识管理系统，支持**自托管**，
 
 ---
 
-## <a name="18"></a>18. Zig无libc版本现已超越Glibc Zig 
+## <a name="18"></a>18. Ada 珍宝存档 
+<small>🔗 [adacore.com](https://www.adacore.com/gems): Ada Gems (2014)</small>
+
+
+| 🔥: 27 \| 💬: [3](https://news.ycombinator.com/item?id=42986149) \| 🗓️ 2025-02-08
+
+
+<br />
+"Ada Gems" 是由 **AdaCore** 推出的每周博客系列，涵盖了从 **单元测试**、**多核编程** 到 **语言扩展** 等多种 Ada 编程主题。该存档包括 Gem #1 至 Gem #161，涉及**异常处理**、**类型安全**、**并发编程**等多个方面，为 Ada 开发者提供了宝贵的资源和知识。虽然该系列已正式退休，但丰富的存档依然可供读者回顾和学习。
+
+---
+
+## <a name="19"></a>19. Zig无libc版本现已超越Glibc Zig 
 <small>🔗 [ziglang.org](https://ziglang.org/devlog/2025/#2025-02-07): No-Libc Zig Now Outperforms Glibc Zig</small>
 
 
-| 🔥: 23 \| 💬: [1](https://news.ycombinator.com/item?id=42983364) \| 🗓️ 2025-02-08
+| 🔥: 24 \| 💬: [1](https://news.ycombinator.com/item?id=42983364) \| 🗓️ 2025-02-08
 
 
 <br />
@@ -239,7 +251,7 @@ Andrew Kelley 重构了 Zig 的 **调试分配器**，消除了对编译时固�
 
 ---
 
-## <a name="19"></a>19. 构建欧洲项目/公司列表，您能帮助我添加更多吗？ 
+## <a name="20"></a>20. 构建欧洲项目/公司列表，您能帮助我添加更多吗？ 
 <small>🔗 [github.com](https://github.com/uscneps/Awesome-European-Tech): Building a list of European projects/companies, can you help me to add more?</small>
 
 
@@ -251,7 +263,7 @@ Andrew Kelley 重构了 Zig 的 **调试分配器**，消除了对编译时固�
 
 ---
 
-## <a name="20"></a>20. 迪士尼+广告政策重大调整 
+## <a name="21"></a>21. 迪士尼+广告政策重大调整 
 <small>🔗 [wiki.rossmanngroup.com](https://wiki.rossmanngroup.com/wiki/Disney%2B_Ad_Policy_Change): Disney+ Ad Policy Change</small>
 
 
@@ -263,7 +275,7 @@ Andrew Kelley 重构了 Zig 的 **调试分配器**，消除了对编译时固�
 
 ---
 
-## <a name="21"></a>21. 计算专家称程序员需要更多数学 
+## <a name="22"></a>22. 计算专家称程序员需要更多数学 
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/computing-expert-says-programmers-need-more-math-20220517/): Computing Expert Says Programmers Need More Math</small>
 
 
@@ -275,7 +287,19 @@ Andrew Kelley 重构了 Zig 的 **调试分配器**，消除了对编译时固�
 
 ---
 
-## <a name="22"></a>22. 如何遵守英国在线安全法；屏蔽英国 
+## <a name="23"></a>23. 汽车交流发电机是优秀的电动机 
+<small>🔗 [hackaday.com](https://hackaday.com/2020/01/16/car-alternators-make-great-electric-motors-heres-how/): Car Alternators Make Great Electric Motors;</small>
+
+
+| 🔥: 18 \| 💬: [1](https://news.ycombinator.com/item?id=42983497) \| 🗓️ 2025-02-08
+
+
+<br />
+汽车**交流发电机**不仅用于将内燃机的动力转换为电力，还可以被改装成高效的**电动机**。这些发电机通常为三相，采用三角形接线配置，具备数马力的输出能力，并且二手价格低廉，适合电动车项目如英国的Hacky Racer系列。转换过程包括拆除调节器和整流器，保留定子和刷子的连接，并接入适当的**无刷控制器**和直流电源。改装后的发电机能够可靠地作为电动车的驱动系统，虽然可能需要额外的散热措施。利用废旧发电机作为电动机，为个人及团队提供了一种经济实惠且高效的动力解决方案。
+
+---
+
+## <a name="24"></a>24. 如何遵守英国在线安全法；屏蔽英国 
 <small>🔗 [geoblockthe.uk](https://geoblockthe.uk/): How to Comply with the UK's Online Safety Act; Block the UK</small>
 
 
@@ -287,19 +311,7 @@ Andrew Kelley 重构了 Zig 的 **调试分配器**，消除了对编译时固�
 
 ---
 
-## <a name="23"></a>23. 汽车交流发电机是优秀的电动机 
-<small>🔗 [hackaday.com](https://hackaday.com/2020/01/16/car-alternators-make-great-electric-motors-heres-how/): Car Alternators Make Great Electric Motors;</small>
-
-
-| 🔥: 17 \| 💬: [1](https://news.ycombinator.com/item?id=42983497) \| 🗓️ 2025-02-08
-
-
-<br />
-汽车**交流发电机**不仅用于将内燃机的动力转换为电力，还可以被改装成高效的**电动机**。这些发电机通常为三相，采用三角形接线配置，具备数马力的输出能力，并且二手价格低廉，适合电动车项目如英国的Hacky Racer系列。转换过程包括拆除调节器和整流器，保留定子和刷子的连接，并接入适当的**无刷控制器**和直流电源。改装后的发电机能够可靠地作为电动车的驱动系统，虽然可能需要额外的散热措施。利用废旧发电机作为电动机，为个人及团队提供了一种经济实惠且高效的动力解决方案。
-
----
-
-## <a name="24"></a>24. 埃隆·马斯克DOGE团队中的青少年毕业于“网络犯罪社区” 
+## <a name="25"></a>25. 埃隆·马斯克DOGE团队中的青少年毕业于“网络犯罪社区” 
 <small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/02/teen-on-musks-doge-team-graduated-from-the-com/): Teen on Musk's DOGE Team Graduated from 'The Com'</small>
 
 
@@ -308,17 +320,5 @@ Andrew Kelley 重构了 Zig 的 **调试分配器**，消除了对编译时固�
 
 <br />
 Wired报道，一名19岁的**爱德华·科里斯汀**在埃隆·马斯克的“政府效率部”（DOGE）工作，尽管他曾与**网络犯罪社区“通”（The Com）**有过关联，仍获得了访问敏感美国政府系统的权限。科里斯汀曾创办涉及网络犯罪的公司，并在一家专门防御DDoS攻击的公司短暂工作。他的背景本应阻碍其获得必要的安全许可，但DOGE团队自特朗普第二次就职以来，迅速掌控了美国多个关键政府数据库。此外，科里斯汀在离职前被指控泄露公司内部信息，进一步引发对其安全可靠性的质疑。此事件凸显了在高科技团队中，背景审查的重要性及其潜在漏洞。
-
----
-
-## <a name="25"></a>25. 卡什·帕特尔接受与克里姆林宫相关的俄罗斯电影制作人的付款，文件显示 
-<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/national-security/2025/02/07/patel-fbi-russia-lopatonok/): Kash Patel was paid by Russian filmmaker with Kremlin ties, documents show</small>
-
-
-| 🔥: 16 \| 💬: [0](https://news.ycombinator.com/item?id=42983629) \| 🗓️ 2025-02-08
-
-
-<br />
-根据《华盛顿邮报》获得的文件，**卡什·帕特尔**，前总统特朗普提名的**FBI局长候选人**，去年从俄罗斯裔美国公民伊戈尔·洛帕托诺克的**Global Tree Pictures**公司获得了25,000美元。这家公司与克里姆林宫有联系，并制作了推广“深层国家”阴谋论及反西方观点的节目。帕特尔在洛帕托诺克制作的纪录片中现身，该片描绘他和其他特朗普政府老兵为被阴谋所害。民主党议员和国家安全专家对此提名表示担忧，认为帕特尔可能与俄罗斯有利益关联，可能影响FBI对俄间谍活动的防御能力。尽管帕特尔的发言人称他已全面披露财务状况，并期待参议院迅速通过其任命，但民主党委员延迟了投票，要求进一步质询。洛帕托诺克的背景显示其多次参与亲俄罗斯的宣传活动，并获得普京设立的基金资助，这进一步加深了对帕特尔任命的疑虑。
 
 ---
