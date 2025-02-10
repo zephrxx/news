@@ -27,7 +27,7 @@ tags:
 <small>🔗 [thebullshitmachines.com](https://thebullshitmachines.com): Modern-Day Oracles or Bullshit Machines? How to thrive in a ChatGPT world</small>
 
 
-| 🔥🔥: 638 \| 💬: [364](https://news.ycombinator.com/item?id=42989320) \| 🗓️ 2025-02-09
+| 🔥🔥: 649 \| 💬: [369](https://news.ycombinator.com/item?id=42989320) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -36,10 +36,10 @@ tags:
 ---
 
 ## <a name="2"></a>2. 如果没有人阅读，为什么要写博客？ 
-<small>🔗 [andysblog.uk](https://andysblog.uk/why-blog-if-nobody-reads-it/): Why Blog If Nobody Reads It?</small>
+<small>🔗 [andysblog.uk](https://andysblog.uk/why-blog-if-nobody-reads-it/): Why blog if nobody reads it?</small>
 
 
-| 🔥🔥: 386 \| 💬: [189](https://news.ycombinator.com/item?id=42992159) \| 🗓️ 2025-02-09
+| 🔥🔥: 446 \| 💬: [199](https://news.ycombinator.com/item?id=42992159) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [iquilezles.org](https://iquilezles.org/articles/gpuconditionals/): Don't "optimize" conditional moves in shaders with mix()+step()</small>
 
 
-| 🔥🔥: 315 \| 💬: [147](https://news.ycombinator.com/item?id=42990324) \| 🗓️ 2025-02-09
+| 🔥🔥: 324 \| 💬: [148](https://news.ycombinator.com/item?id=42990324) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.03387): LIMO: Less Is More for Reasoning</small>
 
 
-| 🔥🔥: 279 \| 💬: [100](https://news.ycombinator.com/item?id=42991676) \| 🗓️ 2025-02-09
+| 🔥🔥: 288 \| 💬: [100](https://news.ycombinator.com/item?id=42991676) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -72,10 +72,10 @@ tags:
 ---
 
 ## <a name="5"></a>5. 2024年克拉克县选举结果分析显示操控迹象 
-<small>🔗 [wcia.com](https://www.wcia.com/business/press-releases/ein-presswire/776992724/analysis-of-2024-election-results-in-clark-county-indicates-manipulation/): Analysis of 2024 Election Results in Clark County Indicates Manipulation</small>
+<small>🔗 [wcia.com](https://www.wcia.com/business/press-releases/ein-presswire/776992724/analysis-of-2024-election-results-in-clark-county-indicates-manipulation/): Analysis of 2024 election results in Clark County indicates manipulation</small>
 
 
-| 🔥🔥: 172 \| 💬: [62](https://news.ycombinator.com/item?id=42994293) \| 🗓️ 2025-02-09
+| 🔥🔥: 173 \| 💬: [63](https://news.ycombinator.com/item?id=42994293) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples): Classic Data science pipelines built with LLMs</small>
 
 
-| 🔥🔥: 165 \| 💬: [80](https://news.ycombinator.com/item?id=42990036) \| 🗓️ 2025-02-09
+| 🔥🔥: 167 \| 💬: [80](https://news.ycombinator.com/item?id=42990036) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -99,7 +99,7 @@ FlashLearn提供了一系列示例，展示如何利用其库进行数据科学�
 <small>🔗 [itizso.itch.io](https://itizso.itch.io/retrofab): RetroFab: Playable 3D simulations of vintage electronic games</small>
 
 
-| 🔥🔥: 152 \| 💬: [22](https://news.ycombinator.com/item?id=42989628) \| 🗓️ 2025-02-09
+| 🔥🔥: 155 \| 💬: [24](https://news.ycombinator.com/item?id=42989628) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -111,7 +111,7 @@ RetroFab是一个新的在线平台，提供**复古电子游戏**的可玩3D模
 <small>🔗 [rollingstone.com](https://www.rollingstone.com/culture/culture-news/unitedhealth-defends-image-claim-denials-mangione-thompson-1235259054/): UnitedHealth Is Sick of Everyone Complaining About Its Claim Denials</small>
 
 
-| 🔥🔥: 145 \| 💬: [170](https://news.ycombinator.com/item?id=42992121) \| 🗓️ 2025-02-09
+| 🔥🔥: 147 \| 💬: [171](https://news.ycombinator.com/item?id=42992121) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -123,7 +123,7 @@ RetroFab是一个新的在线平台，提供**复古电子游戏**的可玩3D模
 <small>🔗 [chrastecky.dev](https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix): Persistent packages on Steam Deck using Nix</small>
 
 
-| 🔥🔥: 132 \| 💬: [76](https://news.ycombinator.com/item?id=42992345) \| 🗓️ 2025-02-09
+| 🔥🔥: 137 \| 💬: [86](https://news.ycombinator.com/item?id=42992345) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -135,7 +135,7 @@ Steam Deck的**不可变文件系统**使得安装持久化软件包变得复杂
 <small>🔗 [blog.samaltman.com](https://blog.samaltman.com/three-observations): Three Observations</small>
 
 
-| 🔥🔥: 129 \| 💬: [136](https://news.ycombinator.com/item?id=42993987) \| 🗓️ 2025-02-09
+| 🔥🔥: 135 \| 💬: [145](https://news.ycombinator.com/item?id=42993987) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -147,7 +147,7 @@ Steam Deck的**不可变文件系统**使得安装持久化软件包变得复杂
 <small>🔗 [github.com](https://github.com/jtroo/kanata): Kanata: Cross-platform multi-layer keyboard remapper with advanced customization</small>
 
 
-| 🔥🔥: 125 \| 💬: [40](https://news.ycombinator.com/item?id=42991019) \| 🗓️ 2025-02-09
+| 🔥🔥: 130 \| 💬: [40](https://news.ycombinator.com/item?id=42991019) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -171,7 +171,7 @@ Kanata 是一款 **跨平台** 的键盘重映射软件，支持 **Linux、macOS
 <small>🔗 [wingolog.org](https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection): Baffled by generational garbage collection – wingolog</small>
 
 
-| 🔥🔥: 109 \| 💬: [87](https://news.ycombinator.com/item?id=42990819) \| 🗓️ 2025-02-09
+| 🔥🔥: 111 \| 💬: [90](https://news.ycombinator.com/item?id=42990819) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -179,35 +179,11 @@ Kanata 是一款 **跨平台** 的键盘重映射软件，支持 **Linux、macOS
 
 ---
 
-## <a name="14"></a>14. Linux作为协作Windows进程 
-<small>🔗 [colinux.org](http://www.colinux.org/): Linux as co-operative Windows process (2017)</small>
+## <a name="14"></a>14. 可搜索的免费有声书库 
+<small>🔗 [booksearch.party](https://booksearch.party/): Show HN: Searchable library of free audiobooks</small>
 
 
-| 🔥🔥: 101 \| 💬: [67](https://news.ycombinator.com/item?id=42989923) \| 🗓️ 2025-02-09
-
-
-<br />
-Cooperative Linux（简称coLinux）是一个开源项目，允许Linux内核与Windows操作系统在同一台机器上协同运行。它通过特殊驱动程序在Windows中执行Linux内核，提供接近本地Linux的性能。与其他虚拟化解决方案不同，coLinux不直接访问I/O设备，而是通过主机OS提供的仿真设备进行交互。这种方法使得Linux可以在Windows上运行而无需商业虚拟化软件，且能够加载未修改的Linux发行版。coLinux的设计使其易于移植到其他操作系统，如Solaris和ReactOS。
-
----
-
-## <a name="15"></a>15. 不需要博士知识：大型语言模型的推理挑战 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2502.01584): PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models</small>
-
-
-| 🔥: 99 \| 💬: [59](https://news.ycombinator.com/item?id=42992336) \| 🗓️ 2025-02-09
-
-
-<br />
-现有的基准测试往往要求专业的“博士级”知识，难以为非专家所理解。我们提出了一个基于NPR周日谜题挑战的基准，要求的仅是一般知识。该基准对人类和模型都具有挑战性，但正确答案易于验证，模型的错误也容易发现。研究显示，OpenAI的o1在推理能力上显著优于其他模型，尽管它们在专业知识测试上表现相当。此外，分析推理输出揭示了新的失败类型，例如DeepSeek R1常常在知道答案错误时选择放弃，且在某些情况下未能“完成思考”，这表明需要在推理时采取技术以避免超出上下文窗口限制。
-
----
-
-## <a name="16"></a>16. 可搜索的免费有声书库 
-<small>🔗 [booksearch.party](https://booksearch.party/): Show HN: Searchable Library of Free Audiobooks</small>
-
-
-| 🔥: 99 \| 💬: [12](https://news.ycombinator.com/item?id=42994440) \| 🗓️ 2025-02-09
+| 🔥🔥: 105 \| 💬: [13](https://news.ycombinator.com/item?id=42994440) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -215,11 +191,11 @@ Cooperative Linux（简称coLinux）是一个开源项目，允许Linux内核与
 
 ---
 
-## <a name="17"></a>17. 美国开始先进磁铁制造 
+## <a name="15"></a>15. 美国开始先进磁铁制造 
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/advanced-magnet-manufacturing-in-us): Advanced Magnet Manufacturing Begins in the United States</small>
 
 
-| 🔥: 96 \| 💬: [29](https://news.ycombinator.com/item?id=42991558) \| 🗓️ 2025-02-09
+| 🔥🔥: 103 \| 💬: [30](https://news.ycombinator.com/item?id=42991558) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -227,23 +203,35 @@ Cooperative Linux（简称coLinux）是一个开源项目，允许Linux内核与
 
 ---
 
-## <a name="18"></a>18. 2024年Ada年度最佳库揭晓 
-<small>🔗 [blog.adacore.com](https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced): Ada crate of the year 2024 announced</small>
+## <a name="16"></a>16. 不需要博士知识：大型语言模型的推理挑战 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2502.01584): PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models</small>
 
 
-| 🔥: 91 \| 💬: [62](https://news.ycombinator.com/item?id=42993086) \| 🗓️ 2025-02-09
+| 🔥🔥: 103 \| 💬: [60](https://news.ycombinator.com/item?id=42992336) \| 🗓️ 2025-02-09
 
 
 <br />
-在2024年，我们公布了第四届Ada/SPARK年度最佳库奖。**BBTBBT**由Lionel Draghi获得Ada年度最佳库奖，它是一个结合行为规范和测试自动化的命令行工具。**elog**由Kevin Chadwick获得SPARK年度最佳库奖，提供经过验证的消息记录功能，确保内存安全。**bbs_lisp**由Brent Seidel获得嵌入式年度最佳库奖，适用于嵌入式系统的Lisp解释器。这些获奖项目展示了Ada/SPARK生态系统的创新和贡献。
+现有的基准测试往往要求专业的“博士级”知识，难以为非专家所理解。我们提出了一个基于NPR周日谜题挑战的基准，要求的仅是一般知识。该基准对人类和模型都具有挑战性，但正确答案易于验证，模型的错误也容易发现。研究显示，OpenAI的o1在推理能力上显著优于其他模型，尽管它们在专业知识测试上表现相当。此外，分析推理输出揭示了新的失败类型，例如DeepSeek R1常常在知道答案错误时选择放弃，且在某些情况下未能“完成思考”，这表明需要在推理时采取技术以避免超出上下文窗口限制。
 
 ---
 
-## <a name="19"></a>19. 英特尔收购以色列初创公司后失利，AI竞赛告负 
+## <a name="17"></a>17. Linux作为协作Windows进程 
+<small>🔗 [colinux.org](http://www.colinux.org/): Linux as co-operative Windows process (2017)</small>
+
+
+| 🔥🔥: 101 \| 💬: [68](https://news.ycombinator.com/item?id=42989923) \| 🗓️ 2025-02-09
+
+
+<br />
+Cooperative Linux（简称coLinux）是一个开源项目，允许Linux内核与Windows操作系统在同一台机器上协同运行。它通过特殊驱动程序在Windows中执行Linux内核，提供接近本地Linux的性能。与其他虚拟化解决方案不同，coLinux不直接访问I/O设备，而是通过主机OS提供的仿真设备进行交互。这种方法使得Linux可以在Windows上运行而无需商业虚拟化软件，且能够加载未修改的Linux发行版。coLinux的设计使其易于移植到其他操作系统，如Solaris和ReactOS。
+
+---
+
+## <a name="18"></a>18. 英特尔收购以色列初创公司后失利，AI竞赛告负 
 <small>🔗 [calcalistech.com](https://www.calcalistech.com/ctechnews/article/s1tra0sfye): Intel ruined an Israeli startup it bought for $2B–and lost the AI race</small>
 
 
-| 🔥: 89 \| 💬: [66](https://news.ycombinator.com/item?id=42992783) \| 🗓️ 2025-02-09
+| 🔥: 91 \| 💬: [66](https://news.ycombinator.com/item?id=42992783) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -251,11 +239,23 @@ Cooperative Linux（简称coLinux）是一个开源项目，允许Linux内核与
 
 ---
 
+## <a name="19"></a>19. 2024年Ada年度最佳库揭晓 
+<small>🔗 [blog.adacore.com](https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced): Ada crate of the year 2024 announced</small>
+
+
+| 🔥: 91 \| 💬: [63](https://news.ycombinator.com/item?id=42993086) \| 🗓️ 2025-02-09
+
+
+<br />
+在2024年，我们公布了第四届Ada/SPARK年度最佳库奖。**BBTBBT**由Lionel Draghi获得Ada年度最佳库奖，它是一个结合行为规范和测试自动化的命令行工具。**elog**由Kevin Chadwick获得SPARK年度最佳库奖，提供经过验证的消息记录功能，确保内存安全。**bbs_lisp**由Brent Seidel获得嵌入式年度最佳库奖，适用于嵌入式系统的Lisp解释器。这些获奖项目展示了Ada/SPARK生态系统的创新和贡献。
+
+---
+
 ## <a name="20"></a>20. 我的第一个副项目：在Slack上简化读书俱乐部 
 <small>🔗 [booktalk.club](https://booktalk.club/): Show HN: My first side project, streamlined book clubs on Slack</small>
 
 
-| 🔥: 87 \| 💬: [44](https://news.ycombinator.com/item?id=42990540) \| 🗓️ 2025-02-09
+| 🔥: 87 \| 💬: [45](https://news.ycombinator.com/item?id=42990540) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -267,7 +267,7 @@ booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并�
 <small>🔗 [osmcal.org](https://osmcal.org/): OpenStreetMap Calendar</small>
 
 
-| 🔥: 76 \| 💬: [5](https://news.ycombinator.com/item?id=42993044) \| 🗓️ 2025-02-09
+| 🔥: 81 \| 💬: [5](https://news.ycombinator.com/item?id=42993044) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -279,7 +279,7 @@ booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并�
 <small>🔗 [pbs.org](https://www.pbs.org/newshour/health/u-s-facing-most-intense-flu-season-in-at-least-15-years): U.S. facing most intense flu season in at least 15 years</small>
 
 
-| 🔥: 75 \| 💬: [44](https://news.ycombinator.com/item?id=42995425) \| 🗓️ 2025-02-09
+| 🔥: 76 \| 💬: [44](https://news.ycombinator.com/item?id=42995425) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -291,7 +291,7 @@ booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并�
 <small>🔗 [npr.org](https://www.npr.org/2019/03/05/700288695/google-pay-study-finds-its-underpaying-men-for-some-jobs): Google Pay Study Finds It Underpaid Men for Some Jobs (2019)</small>
 
 
-| 🔥: 72 \| 💬: [66](https://news.ycombinator.com/item?id=42994505) \| 🗓️ 2025-02-09
+| 🔥: 72 \| 💬: [71](https://news.ycombinator.com/item?id=42994505) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -315,7 +315,7 @@ booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并�
 <small>🔗 [speakdatascience.com](https://speakdatascience.com/postgresql-best-practices/): PostgreSQL Best Practices</small>
 
 
-| 🔥: 69 \| 💬: [40](https://news.ycombinator.com/item?id=42992913) \| 🗓️ 2025-02-09
+| 🔥: 70 \| 💬: [43](https://news.ycombinator.com/item?id=42992913) \| 🗓️ 2025-02-09
 
 
 <br />
