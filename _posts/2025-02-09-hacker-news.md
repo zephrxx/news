@@ -12,7 +12,7 @@ tags:
 1. 不要在着色器中使用mix()和step()优化条件移动；
 1. 如果没有人阅读，为什么要写博客？；
 1. LIMO：少即是多的推理方法；
-1. 使用LLM构建经典数据科学管道；
+1. 2024年克拉克县选举结果分析显示操控迹象；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [thebullshitmachines.com](https://thebullshitmachines.com): Modern-Day Oracles or Bullshit Machines? How to thrive in a ChatGPT world</small>
 
 
-| 🔥🔥: 526 \| 💬: [298](https://news.ycombinator.com/item?id=42989320) \| 🗓️ 2025-02-09
+| 🔥🔥: 551 \| 💬: [322](https://news.ycombinator.com/item?id=42989320) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [iquilezles.org](https://iquilezles.org/articles/gpuconditionals/): Don't "optimize" conditional moves in shaders with mix()+step()</small>
 
 
-| 🔥🔥: 284 \| 💬: [125](https://news.ycombinator.com/item?id=42990324) \| 🗓️ 2025-02-09
+| 🔥🔥: 289 \| 💬: [132](https://news.ycombinator.com/item?id=42990324) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [andysblog.uk](https://andysblog.uk/why-blog-if-nobody-reads-it/): Why Blog If Nobody Reads It?</small>
 
 
-| 🔥🔥: 224 \| 💬: [130](https://news.ycombinator.com/item?id=42992159) \| 🗓️ 2025-02-09
+| 🔥🔥: 246 \| 💬: [136](https://news.ycombinator.com/item?id=42992159) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.03387): LIMO: Less Is More for Reasoning</small>
 
 
-| 🔥🔥: 210 \| 💬: [73](https://news.ycombinator.com/item?id=42991676) \| 🗓️ 2025-02-09
+| 🔥🔥: 220 \| 💬: [78](https://news.ycombinator.com/item?id=42991676) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -71,11 +71,23 @@ tags:
 
 ---
 
-## <a name="5"></a>5. 使用LLM构建经典数据科学管道 
+## <a name="5"></a>5. 2024年克拉克县选举结果分析显示操控迹象 
+<small>🔗 [wcia.com](https://www.wcia.com/business/press-releases/ein-presswire/776992724/analysis-of-2024-election-results-in-clark-county-indicates-manipulation/): Analysis of 2024 Election Results in Clark County Indicates Manipulation</small>
+
+
+| 🔥🔥: 154 \| 💬: [32](https://news.ycombinator.com/item?id=42994293) \| 🗓️ 2025-02-09
+
+
+<br />
+选举真相联盟（ETA）对内华达州克拉克县2024年总统选举的投票数据进行了独立调查，发现与选票操控一致的模式。分析显示，候选人哈里斯在多个摇摆州的投票表现不佳，尤其是在早期投票数据中，特朗普的得票率在处理大量选票的机器上显著上升，显示出可能的“投票翻转黑客”迹象。ETA呼吁对选举结果进行独立审计和验证。
+
+---
+
+## <a name="6"></a>6. 使用LLM构建经典数据科学管道 
 <small>🔗 [github.com](https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples): Classic Data science pipelines built with LLMs</small>
 
 
-| 🔥🔥: 149 \| 💬: [78](https://news.ycombinator.com/item?id=42990036) \| 🗓️ 2025-02-09
+| 🔥🔥: 152 \| 💬: [78](https://news.ycombinator.com/item?id=42990036) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -83,11 +95,11 @@ FlashLearn提供了一系列示例，展示如何利用其库进行数据科学�
 
 ---
 
-## <a name="6"></a>6. RetroFab：可玩复古电子游戏的3D模拟 
+## <a name="7"></a>7. RetroFab：可玩复古电子游戏的3D模拟 
 <small>🔗 [itizso.itch.io](https://itizso.itch.io/retrofab): RetroFab: Playable 3D simulations of vintage electronic games</small>
 
 
-| 🔥🔥: 141 \| 💬: [22](https://news.ycombinator.com/item?id=42989628) \| 🗓️ 2025-02-09
+| 🔥🔥: 143 \| 💬: [22](https://news.ycombinator.com/item?id=42989628) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -95,11 +107,11 @@ RetroFab是一个新的在线平台，提供**复古电子游戏**的可玩3D模
 
 ---
 
-## <a name="7"></a>7. 联合健康厌倦了人们对其索赔拒绝的抱怨 
+## <a name="8"></a>8. 联合健康厌倦了人们对其索赔拒绝的抱怨 
 <small>🔗 [rollingstone.com](https://www.rollingstone.com/culture/culture-news/unitedhealth-defends-image-claim-denials-mangione-thompson-1235259054/): UnitedHealth Is Sick of Everyone Complaining About Its Claim Denials</small>
 
 
-| 🔥🔥: 130 \| 💬: [162](https://news.ycombinator.com/item?id=42992121) \| 🗓️ 2025-02-09
+| 🔥🔥: 135 \| 💬: [164](https://news.ycombinator.com/item?id=42992121) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -107,23 +119,11 @@ RetroFab是一个新的在线平台，提供**复古电子游戏**的可玩3D模
 
 ---
 
-## <a name="8"></a>8. 对代际垃圾回收的困惑 
-<small>🔗 [wingolog.org](https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection): Baffled by generational garbage collection – wingolog</small>
-
-
-| 🔥🔥: 104 \| 💬: [78](https://news.ycombinator.com/item?id=42990819) \| 🗓️ 2025-02-09
-
-
-<br />
-作者探讨了**代际垃圾回收**的价值主张，质疑其性能优势。尽管传统观点认为代际收集器在处理时间上优于全堆收集器，但作者的实验结果却显示，代际收集器在多个基准测试中反而耗时更长。文章分析了可能的原因，包括**写屏障**的开销、**幼儿园大小**的选择以及基准测试的代表性等，提出了对代际垃圾回收机制的深刻反思。
-
----
-
 ## <a name="9"></a>9. Kanata：跨平台多层键盘重映射工具，具备高级自定义功能 
 <small>🔗 [github.com](https://github.com/jtroo/kanata): Kanata: Cross-platform multi-layer keyboard remapper with advanced customization</small>
 
 
-| 🔥🔥: 104 \| 💬: [30](https://news.ycombinator.com/item?id=42991019) \| 🗓️ 2025-02-09
+| 🔥🔥: 108 \| 💬: [32](https://news.ycombinator.com/item?id=42991019) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -135,7 +135,7 @@ Kanata 是一款 **跨平台** 的键盘重映射软件，支持 **Linux、macOS
 <small>🔗 [marktomforde.com](https://marktomforde.com/academic/miscellaneous/images/atiyah20thcentury.pdf): Mathematics in the 20th century, by Michael Atiyah [pdf] (2002)</small>
 
 
-| 🔥🔥: 102 \| 💬: [15](https://news.ycombinator.com/item?id=42989419) \| 🗓️ 2025-02-09
+| 🔥🔥: 104 \| 💬: [15](https://news.ycombinator.com/item?id=42989419) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -143,11 +143,23 @@ Kanata 是一款 **跨平台** 的键盘重映射软件，支持 **Linux、macOS
 
 ---
 
-## <a name="11"></a>11. 在Steam Deck上使用Nix实现持久化软件包 
+## <a name="11"></a>11. 对代际垃圾回收的困惑 
+<small>🔗 [wingolog.org](https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection): Baffled by generational garbage collection – wingolog</small>
+
+
+| 🔥🔥: 104 \| 💬: [79](https://news.ycombinator.com/item?id=42990819) \| 🗓️ 2025-02-09
+
+
+<br />
+作者探讨了**代际垃圾回收**的价值主张，质疑其性能优势。尽管传统观点认为代际收集器在处理时间上优于全堆收集器，但作者的实验结果却显示，代际收集器在多个基准测试中反而耗时更长。文章分析了可能的原因，包括**写屏障**的开销、**幼儿园大小**的选择以及基准测试的代表性等，提出了对代际垃圾回收机制的深刻反思。
+
+---
+
+## <a name="12"></a>12. 在Steam Deck上使用Nix实现持久化软件包 
 <small>🔗 [chrastecky.dev](https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix): Persistent packages on Steam Deck using Nix</small>
 
 
-| 🔥: 95 \| 💬: [50](https://news.ycombinator.com/item?id=42992345) \| 🗓️ 2025-02-09
+| 🔥🔥: 103 \| 💬: [54](https://news.ycombinator.com/item?id=42992345) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -155,11 +167,11 @@ Steam Deck的**不可变文件系统**使得安装持久化软件包变得复杂
 
 ---
 
-## <a name="12"></a>12. Linux作为协作Windows进程 
+## <a name="13"></a>13. Linux作为协作Windows进程 
 <small>🔗 [colinux.org](http://www.colinux.org/): Linux as co-operative Windows process (2017)</small>
 
 
-| 🔥: 91 \| 💬: [58](https://news.ycombinator.com/item?id=42989923) \| 🗓️ 2025-02-09
+| 🔥: 94 \| 💬: [61](https://news.ycombinator.com/item?id=42989923) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -167,59 +179,11 @@ Cooperative Linux（简称coLinux）是一个开源项目，允许Linux内核与
 
 ---
 
-## <a name="13"></a>13. 2024年克拉克县选举结果分析显示操控迹象 
-<small>🔗 [wcia.com](https://www.wcia.com/business/press-releases/ein-presswire/776992724/analysis-of-2024-election-results-in-clark-county-indicates-manipulation/): Analysis of 2024 Election Results in Clark County Indicates Manipulation</small>
-
-
-| 🔥: 91 \| 💬: [7](https://news.ycombinator.com/item?id=42994293) \| 🗓️ 2025-02-09
-
-
-<br />
-选举真相联盟（ETA）对内华达州克拉克县2024年总统选举的投票数据进行了独立调查，发现与选票操控一致的模式。分析显示，候选人哈里斯在多个摇摆州的投票表现不佳，尤其是在早期投票数据中，特朗普的得票率在处理大量选票的机器上显著上升，显示出可能的“投票翻转黑客”迹象。ETA呼吁对选举结果进行独立审计和验证。
-
----
-
-## <a name="14"></a>14. 我的第一个副项目：在Slack上简化读书俱乐部 
-<small>🔗 [booktalk.club](https://booktalk.club/): Show HN: My first side project, streamlined book clubs on Slack</small>
-
-
-| 🔥: 84 \| 💬: [40](https://news.ycombinator.com/item?id=42990540) \| 🗓️ 2025-02-09
-
-
-<br />
-booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并培养成长文化。用户可以与团队一起**投票选择书籍**，获得个性化推荐，设定阅读时间框架，并通过精心策划的问题促进讨论。加入测试版可享受**终身免费访问**。
-
----
-
-## <a name="15"></a>15. 2024年Ada年度最佳库揭晓 
-<small>🔗 [blog.adacore.com](https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced): Ada crate of the year 2024 announced</small>
-
-
-| 🔥: 82 \| 💬: [47](https://news.ycombinator.com/item?id=42993086) \| 🗓️ 2025-02-09
-
-
-<br />
-在2024年，我们公布了第四届Ada/SPARK年度最佳库奖。**BBTBBT**由Lionel Draghi获得Ada年度最佳库奖，它是一个结合行为规范和测试自动化的命令行工具。**elog**由Kevin Chadwick获得SPARK年度最佳库奖，提供经过验证的消息记录功能，确保内存安全。**bbs_lisp**由Brent Seidel获得嵌入式年度最佳库奖，适用于嵌入式系统的Lisp解释器。这些获奖项目展示了Ada/SPARK生态系统的创新和贡献。
-
----
-
-## <a name="16"></a>16. 英特尔收购以色列初创公司后失利，AI竞赛告负 
-<small>🔗 [calcalistech.com](https://www.calcalistech.com/ctechnews/article/s1tra0sfye): Intel ruined an Israeli startup it bought for $2B–and lost the AI race</small>
-
-
-| 🔥: 80 \| 💬: [59](https://news.ycombinator.com/item?id=42992783) \| 🗓️ 2025-02-09
-
-
-<br />
-英特尔以20亿美元收购的以色列初创公司未能实现预期，导致其在**人工智能**领域的竞争力下降。与此同时，DeepSeek的崛起为以色列科技带来了新的希望，显示出在**技术创新**和**市场竞争**中，以色列仍具备强大的潜力。
-
----
-
-## <a name="17"></a>17. 三大观察 
+## <a name="14"></a>14. 三大观察 
 <small>🔗 [blog.samaltman.com](https://blog.samaltman.com/three-observations): Three Observations</small>
 
 
-| 🔥: 79 \| 💬: [66](https://news.ycombinator.com/item?id=42993987) \| 🗓️ 2025-02-09
+| 🔥: 93 \| 💬: [78](https://news.ycombinator.com/item?id=42993987) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -227,11 +191,47 @@ booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并�
 
 ---
 
+## <a name="15"></a>15. 我的第一个副项目：在Slack上简化读书俱乐部 
+<small>🔗 [booktalk.club](https://booktalk.club/): Show HN: My first side project, streamlined book clubs on Slack</small>
+
+
+| 🔥: 86 \| 💬: [40](https://news.ycombinator.com/item?id=42990540) \| 🗓️ 2025-02-09
+
+
+<br />
+booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并培养成长文化。用户可以与团队一起**投票选择书籍**，获得个性化推荐，设定阅读时间框架，并通过精心策划的问题促进讨论。加入测试版可享受**终身免费访问**。
+
+---
+
+## <a name="16"></a>16. 2024年Ada年度最佳库揭晓 
+<small>🔗 [blog.adacore.com](https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced): Ada crate of the year 2024 announced</small>
+
+
+| 🔥: 85 \| 💬: [52](https://news.ycombinator.com/item?id=42993086) \| 🗓️ 2025-02-09
+
+
+<br />
+在2024年，我们公布了第四届Ada/SPARK年度最佳库奖。**BBTBBT**由Lionel Draghi获得Ada年度最佳库奖，它是一个结合行为规范和测试自动化的命令行工具。**elog**由Kevin Chadwick获得SPARK年度最佳库奖，提供经过验证的消息记录功能，确保内存安全。**bbs_lisp**由Brent Seidel获得嵌入式年度最佳库奖，适用于嵌入式系统的Lisp解释器。这些获奖项目展示了Ada/SPARK生态系统的创新和贡献。
+
+---
+
+## <a name="17"></a>17. 英特尔收购以色列初创公司后失利，AI竞赛告负 
+<small>🔗 [calcalistech.com](https://www.calcalistech.com/ctechnews/article/s1tra0sfye): Intel ruined an Israeli startup it bought for $2B–and lost the AI race</small>
+
+
+| 🔥: 84 \| 💬: [62](https://news.ycombinator.com/item?id=42992783) \| 🗓️ 2025-02-09
+
+
+<br />
+英特尔以20亿美元收购的以色列初创公司未能实现预期，导致其在**人工智能**领域的竞争力下降。与此同时，DeepSeek的崛起为以色列科技带来了新的希望，显示出在**技术创新**和**市场竞争**中，以色列仍具备强大的潜力。
+
+---
+
 ## <a name="18"></a>18. 不需要博士知识：大型语言模型的推理挑战 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.01584): PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models</small>
 
 
-| 🔥: 71 \| 💬: [41](https://news.ycombinator.com/item?id=42992336) \| 🗓️ 2025-02-09
+| 🔥: 76 \| 💬: [45](https://news.ycombinator.com/item?id=42992336) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -243,7 +243,7 @@ booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并�
 <small>🔗 [elering.ee](https://elering.ee/estonian-latvian-and-lithuanian-power-systems-successfully-synchronised-continental-europe): Estonian, Latvian, and Lithuanian power systems synchronised with Europe</small>
 
 
-| 🔥: 69 \| 💬: [22](https://news.ycombinator.com/item?id=42991687) \| 🗓️ 2025-02-09
+| 🔥: 70 \| 💬: [23](https://news.ycombinator.com/item?id=42991687) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -255,7 +255,7 @@ booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并�
 <small>🔗 [speakdatascience.com](https://speakdatascience.com/postgresql-best-practices/): PostgreSQL Best Practices</small>
 
 
-| 🔥: 66 \| 💬: [31](https://news.ycombinator.com/item?id=42992913) \| 🗓️ 2025-02-09
+| 🔥: 66 \| 💬: [34](https://news.ycombinator.com/item?id=42992913) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -267,7 +267,7 @@ PostgreSQL是强大的关系数据库管理系统，遵循最佳实践可确保�
 <small>🔗 [npr.org](https://www.npr.org/2019/03/05/700288695/google-pay-study-finds-its-underpaying-men-for-some-jobs): Google Pay Study Finds It Underpaid Men for Some Jobs (2019)</small>
 
 
-| 🔥: 61 \| 💬: [29](https://news.ycombinator.com/item?id=42994505) \| 🗓️ 2025-02-09
+| 🔥: 65 \| 💬: [45](https://news.ycombinator.com/item?id=42994505) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -279,7 +279,7 @@ PostgreSQL是强大的关系数据库管理系统，遵循最佳实践可确保�
 <small>🔗 [blog.tomaszdunia.pl](https://blog.tomaszdunia.pl/zerotier-eng/): ZeroTier – home VPN without a public IP address</small>
 
 
-| 🔥: 58 \| 💬: [58](https://news.ycombinator.com/item?id=42989747) \| 🗓️ 2025-02-09
+| 🔥: 59 \| 💬: [58](https://news.ycombinator.com/item?id=42989747) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -291,7 +291,7 @@ ZeroTier是一种解决方案，可以在没有公共IP地址的情况下访问�
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/technology/archive/2025/02/elon-musk-wikipedia/681577/): The Campaign to Delegitimize Wikipedia</small>
 
 
-| 🔥: 45 \| 💬: [23](https://news.ycombinator.com/item?id=42992194) \| 🗓️ 2025-02-09
+| 🔥: 46 \| 💬: [27](https://news.ycombinator.com/item?id=42992194) \| 🗓️ 2025-02-09
 
 
 <br />
