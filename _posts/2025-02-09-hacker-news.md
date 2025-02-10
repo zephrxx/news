@@ -27,7 +27,7 @@ tags:
 <small>🔗 [thebullshitmachines.com](https://thebullshitmachines.com): Modern-Day Oracles or Bullshit Machines? How to thrive in a ChatGPT world</small>
 
 
-| 🔥🔥: 624 \| 💬: [361](https://news.ycombinator.com/item?id=42989320) \| 🗓️ 2025-02-09
+| 🔥🔥: 638 \| 💬: [364](https://news.ycombinator.com/item?id=42989320) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [andysblog.uk](https://andysblog.uk/why-blog-if-nobody-reads-it/): Why Blog If Nobody Reads It?</small>
 
 
-| 🔥🔥: 348 \| 💬: [176](https://news.ycombinator.com/item?id=42992159) \| 🗓️ 2025-02-09
+| 🔥🔥: 386 \| 💬: [189](https://news.ycombinator.com/item?id=42992159) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [iquilezles.org](https://iquilezles.org/articles/gpuconditionals/): Don't "optimize" conditional moves in shaders with mix()+step()</small>
 
 
-| 🔥🔥: 308 \| 💬: [146](https://news.ycombinator.com/item?id=42990324) \| 🗓️ 2025-02-09
+| 🔥🔥: 315 \| 💬: [147](https://news.ycombinator.com/item?id=42990324) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.03387): LIMO: Less Is More for Reasoning</small>
 
 
-| 🔥🔥: 272 \| 💬: [97](https://news.ycombinator.com/item?id=42991676) \| 🗓️ 2025-02-09
+| 🔥🔥: 279 \| 💬: [100](https://news.ycombinator.com/item?id=42991676) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [wcia.com](https://www.wcia.com/business/press-releases/ein-presswire/776992724/analysis-of-2024-election-results-in-clark-county-indicates-manipulation/): Analysis of 2024 Election Results in Clark County Indicates Manipulation</small>
 
 
-| 🔥🔥: 169 \| 💬: [62](https://news.ycombinator.com/item?id=42994293) \| 🗓️ 2025-02-09
+| 🔥🔥: 172 \| 💬: [62](https://news.ycombinator.com/item?id=42994293) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples): Classic Data science pipelines built with LLMs</small>
 
 
-| 🔥🔥: 161 \| 💬: [80](https://news.ycombinator.com/item?id=42990036) \| 🗓️ 2025-02-09
+| 🔥🔥: 165 \| 💬: [80](https://news.ycombinator.com/item?id=42990036) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -99,7 +99,7 @@ FlashLearn提供了一系列示例，展示如何利用其库进行数据科学�
 <small>🔗 [itizso.itch.io](https://itizso.itch.io/retrofab): RetroFab: Playable 3D simulations of vintage electronic games</small>
 
 
-| 🔥🔥: 150 \| 💬: [22](https://news.ycombinator.com/item?id=42989628) \| 🗓️ 2025-02-09
+| 🔥🔥: 152 \| 💬: [22](https://news.ycombinator.com/item?id=42989628) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -111,7 +111,7 @@ RetroFab是一个新的在线平台，提供**复古电子游戏**的可玩3D模
 <small>🔗 [rollingstone.com](https://www.rollingstone.com/culture/culture-news/unitedhealth-defends-image-claim-denials-mangione-thompson-1235259054/): UnitedHealth Is Sick of Everyone Complaining About Its Claim Denials</small>
 
 
-| 🔥🔥: 145 \| 💬: [168](https://news.ycombinator.com/item?id=42992121) \| 🗓️ 2025-02-09
+| 🔥🔥: 145 \| 💬: [170](https://news.ycombinator.com/item?id=42992121) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -123,7 +123,7 @@ RetroFab是一个新的在线平台，提供**复古电子游戏**的可玩3D模
 <small>🔗 [chrastecky.dev](https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix): Persistent packages on Steam Deck using Nix</small>
 
 
-| 🔥🔥: 129 \| 💬: [70](https://news.ycombinator.com/item?id=42992345) \| 🗓️ 2025-02-09
+| 🔥🔥: 132 \| 💬: [76](https://news.ycombinator.com/item?id=42992345) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -131,23 +131,11 @@ Steam Deck的**不可变文件系统**使得安装持久化软件包变得复杂
 
 ---
 
-## <a name="10"></a>10. Kanata：跨平台多层键盘重映射工具，具备高级自定义功能 
-<small>🔗 [github.com](https://github.com/jtroo/kanata): Kanata: Cross-platform multi-layer keyboard remapper with advanced customization</small>
-
-
-| 🔥🔥: 122 \| 💬: [39](https://news.ycombinator.com/item?id=42991019) \| 🗓️ 2025-02-09
-
-
-<br />
-Kanata 是一款 **跨平台** 的键盘重映射软件，支持 **Linux、macOS 和 Windows**。它允许用户通过多层功能和高级自定义（如 tap-hold、宏和 Unicode 输出）来提升键盘的舒适性和可用性。用户可以根据个人需求调整每个键的功能，改善输入体验。该项目使用 **Rust** 编写，旨在为所有用户提供类似 QMK 的自定义功能，而无需购买专用机械键盘。
-
----
-
-## <a name="11"></a>11. 三大观察 
+## <a name="10"></a>10. 三大观察 
 <small>🔗 [blog.samaltman.com](https://blog.samaltman.com/three-observations): Three Observations</small>
 
 
-| 🔥🔥: 121 \| 💬: [131](https://news.ycombinator.com/item?id=42993987) \| 🗓️ 2025-02-09
+| 🔥🔥: 129 \| 💬: [136](https://news.ycombinator.com/item?id=42993987) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -155,11 +143,23 @@ Kanata 是一款 **跨平台** 的键盘重映射软件，支持 **Linux、macOS
 
 ---
 
+## <a name="11"></a>11. Kanata：跨平台多层键盘重映射工具，具备高级自定义功能 
+<small>🔗 [github.com](https://github.com/jtroo/kanata): Kanata: Cross-platform multi-layer keyboard remapper with advanced customization</small>
+
+
+| 🔥🔥: 125 \| 💬: [40](https://news.ycombinator.com/item?id=42991019) \| 🗓️ 2025-02-09
+
+
+<br />
+Kanata 是一款 **跨平台** 的键盘重映射软件，支持 **Linux、macOS 和 Windows**。它允许用户通过多层功能和高级自定义（如 tap-hold、宏和 Unicode 输出）来提升键盘的舒适性和可用性。用户可以根据个人需求调整每个键的功能，改善输入体验。该项目使用 **Rust** 编写，旨在为所有用户提供类似 QMK 的自定义功能，而无需购买专用机械键盘。
+
+---
+
 ## <a name="12"></a>12. 20世纪的数学发展 
 <small>🔗 [marktomforde.com](https://marktomforde.com/academic/miscellaneous/images/atiyah20thcentury.pdf): Mathematics in the 20th century, by Michael Atiyah [pdf] (2002)</small>
 
 
-| 🔥🔥: 109 \| 💬: [17](https://news.ycombinator.com/item?id=42989419) \| 🗓️ 2025-02-09
+| 🔥🔥: 111 \| 💬: [17](https://news.ycombinator.com/item?id=42989419) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -171,7 +171,7 @@ Kanata 是一款 **跨平台** 的键盘重映射软件，支持 **Linux、macOS
 <small>🔗 [wingolog.org](https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection): Baffled by generational garbage collection – wingolog</small>
 
 
-| 🔥🔥: 109 \| 💬: [86](https://news.ycombinator.com/item?id=42990819) \| 🗓️ 2025-02-09
+| 🔥🔥: 109 \| 💬: [87](https://news.ycombinator.com/item?id=42990819) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -195,7 +195,7 @@ Cooperative Linux（简称coLinux）是一个开源项目，允许Linux内核与
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.01584): PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models</small>
 
 
-| 🔥: 95 \| 💬: [57](https://news.ycombinator.com/item?id=42992336) \| 🗓️ 2025-02-09
+| 🔥: 99 \| 💬: [59](https://news.ycombinator.com/item?id=42992336) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -203,59 +203,11 @@ Cooperative Linux（简称coLinux）是一个开源项目，允许Linux内核与
 
 ---
 
-## <a name="16"></a>16. 2024年Ada年度最佳库揭晓 
-<small>🔗 [blog.adacore.com](https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced): Ada crate of the year 2024 announced</small>
-
-
-| 🔥: 89 \| 💬: [62](https://news.ycombinator.com/item?id=42993086) \| 🗓️ 2025-02-09
-
-
-<br />
-在2024年，我们公布了第四届Ada/SPARK年度最佳库奖。**BBTBBT**由Lionel Draghi获得Ada年度最佳库奖，它是一个结合行为规范和测试自动化的命令行工具。**elog**由Kevin Chadwick获得SPARK年度最佳库奖，提供经过验证的消息记录功能，确保内存安全。**bbs_lisp**由Brent Seidel获得嵌入式年度最佳库奖，适用于嵌入式系统的Lisp解释器。这些获奖项目展示了Ada/SPARK生态系统的创新和贡献。
-
----
-
-## <a name="17"></a>17. 英特尔收购以色列初创公司后失利，AI竞赛告负 
-<small>🔗 [calcalistech.com](https://www.calcalistech.com/ctechnews/article/s1tra0sfye): Intel ruined an Israeli startup it bought for $2B–and lost the AI race</small>
-
-
-| 🔥: 88 \| 💬: [66](https://news.ycombinator.com/item?id=42992783) \| 🗓️ 2025-02-09
-
-
-<br />
-英特尔以20亿美元收购的以色列初创公司未能实现预期，导致其在**人工智能**领域的竞争力下降。与此同时，DeepSeek的崛起为以色列科技带来了新的希望，显示出在**技术创新**和**市场竞争**中，以色列仍具备强大的潜力。
-
----
-
-## <a name="18"></a>18. 我的第一个副项目：在Slack上简化读书俱乐部 
-<small>🔗 [booktalk.club](https://booktalk.club/): Show HN: My first side project, streamlined book clubs on Slack</small>
-
-
-| 🔥: 87 \| 💬: [42](https://news.ycombinator.com/item?id=42990540) \| 🗓️ 2025-02-09
-
-
-<br />
-booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并培养成长文化。用户可以与团队一起**投票选择书籍**，获得个性化推荐，设定阅读时间框架，并通过精心策划的问题促进讨论。加入测试版可享受**终身免费访问**。
-
----
-
-## <a name="19"></a>19. 美国开始先进磁铁制造 
-<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/advanced-magnet-manufacturing-in-us): Advanced Magnet Manufacturing Begins in the United States</small>
-
-
-| 🔥: 87 \| 💬: [23](https://news.ycombinator.com/item?id=42991558) \| 🗓️ 2025-02-09
-
-
-<br />
-美国稀土制造商**MP Materials**在德克萨斯州沃斯堡的新制造设施内，开始了先进磁铁的生产，标志着对抗中国市场主导地位的一小步。该公司致力于减少对中国稀土材料的依赖，推动美国在这一关键领域的自主生产能力。
-
----
-
-## <a name="20"></a>20. 可搜索的免费有声书库 
+## <a name="16"></a>16. 可搜索的免费有声书库 
 <small>🔗 [booksearch.party](https://booksearch.party/): Show HN: Searchable Library of Free Audiobooks</small>
 
 
-| 🔥: 87 \| 💬: [11](https://news.ycombinator.com/item?id=42994440) \| 🗓️ 2025-02-09
+| 🔥: 99 \| 💬: [12](https://news.ycombinator.com/item?id=42994440) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -263,11 +215,59 @@ booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并�
 
 ---
 
+## <a name="17"></a>17. 美国开始先进磁铁制造 
+<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/advanced-magnet-manufacturing-in-us): Advanced Magnet Manufacturing Begins in the United States</small>
+
+
+| 🔥: 96 \| 💬: [29](https://news.ycombinator.com/item?id=42991558) \| 🗓️ 2025-02-09
+
+
+<br />
+美国稀土制造商**MP Materials**在德克萨斯州沃斯堡的新制造设施内，开始了先进磁铁的生产，标志着对抗中国市场主导地位的一小步。该公司致力于减少对中国稀土材料的依赖，推动美国在这一关键领域的自主生产能力。
+
+---
+
+## <a name="18"></a>18. 2024年Ada年度最佳库揭晓 
+<small>🔗 [blog.adacore.com](https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced): Ada crate of the year 2024 announced</small>
+
+
+| 🔥: 91 \| 💬: [62](https://news.ycombinator.com/item?id=42993086) \| 🗓️ 2025-02-09
+
+
+<br />
+在2024年，我们公布了第四届Ada/SPARK年度最佳库奖。**BBTBBT**由Lionel Draghi获得Ada年度最佳库奖，它是一个结合行为规范和测试自动化的命令行工具。**elog**由Kevin Chadwick获得SPARK年度最佳库奖，提供经过验证的消息记录功能，确保内存安全。**bbs_lisp**由Brent Seidel获得嵌入式年度最佳库奖，适用于嵌入式系统的Lisp解释器。这些获奖项目展示了Ada/SPARK生态系统的创新和贡献。
+
+---
+
+## <a name="19"></a>19. 英特尔收购以色列初创公司后失利，AI竞赛告负 
+<small>🔗 [calcalistech.com](https://www.calcalistech.com/ctechnews/article/s1tra0sfye): Intel ruined an Israeli startup it bought for $2B–and lost the AI race</small>
+
+
+| 🔥: 89 \| 💬: [66](https://news.ycombinator.com/item?id=42992783) \| 🗓️ 2025-02-09
+
+
+<br />
+英特尔以20亿美元收购的以色列初创公司未能实现预期，导致其在**人工智能**领域的竞争力下降。与此同时，DeepSeek的崛起为以色列科技带来了新的希望，显示出在**技术创新**和**市场竞争**中，以色列仍具备强大的潜力。
+
+---
+
+## <a name="20"></a>20. 我的第一个副项目：在Slack上简化读书俱乐部 
+<small>🔗 [booktalk.club](https://booktalk.club/): Show HN: My first side project, streamlined book clubs on Slack</small>
+
+
+| 🔥: 87 \| 💬: [44](https://news.ycombinator.com/item?id=42990540) \| 🗓️ 2025-02-09
+
+
+<br />
+booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并培养成长文化。用户可以与团队一起**投票选择书籍**，获得个性化推荐，设定阅读时间框架，并通过精心策划的问题促进讨论。加入测试版可享受**终身免费访问**。
+
+---
+
 ## <a name="21"></a>21. 开放街图日历 
 <small>🔗 [osmcal.org](https://osmcal.org/): OpenStreetMap Calendar</small>
 
 
-| 🔥: 74 \| 💬: [5](https://news.ycombinator.com/item?id=42993044) \| 🗓️ 2025-02-09
+| 🔥: 76 \| 💬: [5](https://news.ycombinator.com/item?id=42993044) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -279,7 +279,7 @@ booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并�
 <small>🔗 [pbs.org](https://www.pbs.org/newshour/health/u-s-facing-most-intense-flu-season-in-at-least-15-years): U.S. facing most intense flu season in at least 15 years</small>
 
 
-| 🔥: 74 \| 💬: [44](https://news.ycombinator.com/item?id=42995425) \| 🗓️ 2025-02-09
+| 🔥: 75 \| 💬: [44](https://news.ycombinator.com/item?id=42995425) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -315,7 +315,7 @@ booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并�
 <small>🔗 [speakdatascience.com](https://speakdatascience.com/postgresql-best-practices/): PostgreSQL Best Practices</small>
 
 
-| 🔥: 68 \| 💬: [40](https://news.ycombinator.com/item?id=42992913) \| 🗓️ 2025-02-09
+| 🔥: 69 \| 💬: [40](https://news.ycombinator.com/item?id=42992913) \| 🗓️ 2025-02-09
 
 
 <br />
