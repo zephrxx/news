@@ -27,7 +27,7 @@ tags:
 <small>🔗 [thebullshitmachines.com](https://thebullshitmachines.com): Modern-Day Oracles or Bullshit Machines? How to thrive in a ChatGPT world</small>
 
 
-| 🔥🔥: 609 \| 💬: [357](https://news.ycombinator.com/item?id=42989320) \| 🗓️ 2025-02-09
+| 🔥🔥: 624 \| 💬: [361](https://news.ycombinator.com/item?id=42989320) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [andysblog.uk](https://andysblog.uk/why-blog-if-nobody-reads-it/): Why Blog If Nobody Reads It?</small>
 
 
-| 🔥🔥: 322 \| 💬: [163](https://news.ycombinator.com/item?id=42992159) \| 🗓️ 2025-02-09
+| 🔥🔥: 348 \| 💬: [176](https://news.ycombinator.com/item?id=42992159) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [iquilezles.org](https://iquilezles.org/articles/gpuconditionals/): Don't "optimize" conditional moves in shaders with mix()+step()</small>
 
 
-| 🔥🔥: 301 \| 💬: [144](https://news.ycombinator.com/item?id=42990324) \| 🗓️ 2025-02-09
+| 🔥🔥: 308 \| 💬: [146](https://news.ycombinator.com/item?id=42990324) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.03387): LIMO: Less Is More for Reasoning</small>
 
 
-| 🔥🔥: 260 \| 💬: [92](https://news.ycombinator.com/item?id=42991676) \| 🗓️ 2025-02-09
+| 🔥🔥: 272 \| 💬: [97](https://news.ycombinator.com/item?id=42991676) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [wcia.com](https://www.wcia.com/business/press-releases/ein-presswire/776992724/analysis-of-2024-election-results-in-clark-county-indicates-manipulation/): Analysis of 2024 Election Results in Clark County Indicates Manipulation</small>
 
 
-| 🔥🔥: 166 \| 💬: [55](https://news.ycombinator.com/item?id=42994293) \| 🗓️ 2025-02-09
+| 🔥🔥: 169 \| 💬: [62](https://news.ycombinator.com/item?id=42994293) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples): Classic Data science pipelines built with LLMs</small>
 
 
-| 🔥🔥: 158 \| 💬: [79](https://news.ycombinator.com/item?id=42990036) \| 🗓️ 2025-02-09
+| 🔥🔥: 161 \| 💬: [80](https://news.ycombinator.com/item?id=42990036) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -111,7 +111,7 @@ RetroFab是一个新的在线平台，提供**复古电子游戏**的可玩3D模
 <small>🔗 [rollingstone.com](https://www.rollingstone.com/culture/culture-news/unitedhealth-defends-image-claim-denials-mangione-thompson-1235259054/): UnitedHealth Is Sick of Everyone Complaining About Its Claim Denials</small>
 
 
-| 🔥🔥: 142 \| 💬: [167](https://news.ycombinator.com/item?id=42992121) \| 🗓️ 2025-02-09
+| 🔥🔥: 145 \| 💬: [168](https://news.ycombinator.com/item?id=42992121) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -123,7 +123,7 @@ RetroFab是一个新的在线平台，提供**复古电子游戏**的可玩3D模
 <small>🔗 [chrastecky.dev](https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix): Persistent packages on Steam Deck using Nix</small>
 
 
-| 🔥🔥: 125 \| 💬: [65](https://news.ycombinator.com/item?id=42992345) \| 🗓️ 2025-02-09
+| 🔥🔥: 129 \| 💬: [70](https://news.ycombinator.com/item?id=42992345) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -135,7 +135,7 @@ Steam Deck的**不可变文件系统**使得安装持久化软件包变得复杂
 <small>🔗 [github.com](https://github.com/jtroo/kanata): Kanata: Cross-platform multi-layer keyboard remapper with advanced customization</small>
 
 
-| 🔥🔥: 118 \| 💬: [37](https://news.ycombinator.com/item?id=42991019) \| 🗓️ 2025-02-09
+| 🔥🔥: 122 \| 💬: [39](https://news.ycombinator.com/item?id=42991019) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -147,7 +147,7 @@ Kanata 是一款 **跨平台** 的键盘重映射软件，支持 **Linux、macOS
 <small>🔗 [blog.samaltman.com](https://blog.samaltman.com/three-observations): Three Observations</small>
 
 
-| 🔥🔥: 113 \| 💬: [121](https://news.ycombinator.com/item?id=42993987) \| 🗓️ 2025-02-09
+| 🔥🔥: 121 \| 💬: [131](https://news.ycombinator.com/item?id=42993987) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -159,7 +159,7 @@ Kanata 是一款 **跨平台** 的键盘重映射软件，支持 **Linux、macOS
 <small>🔗 [marktomforde.com](https://marktomforde.com/academic/miscellaneous/images/atiyah20thcentury.pdf): Mathematics in the 20th century, by Michael Atiyah [pdf] (2002)</small>
 
 
-| 🔥🔥: 108 \| 💬: [15](https://news.ycombinator.com/item?id=42989419) \| 🗓️ 2025-02-09
+| 🔥🔥: 109 \| 💬: [17](https://news.ycombinator.com/item?id=42989419) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -171,7 +171,7 @@ Kanata 是一款 **跨平台** 的键盘重映射软件，支持 **Linux、macOS
 <small>🔗 [wingolog.org](https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection): Baffled by generational garbage collection – wingolog</small>
 
 
-| 🔥🔥: 106 \| 💬: [86](https://news.ycombinator.com/item?id=42990819) \| 🗓️ 2025-02-09
+| 🔥🔥: 109 \| 💬: [86](https://news.ycombinator.com/item?id=42990819) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -183,7 +183,7 @@ Kanata 是一款 **跨平台** 的键盘重映射软件，支持 **Linux、macOS
 <small>🔗 [colinux.org](http://www.colinux.org/): Linux as co-operative Windows process (2017)</small>
 
 
-| 🔥: 98 \| 💬: [66](https://news.ycombinator.com/item?id=42989923) \| 🗓️ 2025-02-09
+| 🔥🔥: 101 \| 💬: [67](https://news.ycombinator.com/item?id=42989923) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -195,7 +195,7 @@ Cooperative Linux（简称coLinux）是一个开源项目，允许Linux内核与
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.01584): PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models</small>
 
 
-| 🔥: 91 \| 💬: [53](https://news.ycombinator.com/item?id=42992336) \| 🗓️ 2025-02-09
+| 🔥: 95 \| 💬: [57](https://news.ycombinator.com/item?id=42992336) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -219,7 +219,7 @@ Cooperative Linux（简称coLinux）是一个开源项目，允许Linux内核与
 <small>🔗 [calcalistech.com](https://www.calcalistech.com/ctechnews/article/s1tra0sfye): Intel ruined an Israeli startup it bought for $2B–and lost the AI race</small>
 
 
-| 🔥: 88 \| 💬: [65](https://news.ycombinator.com/item?id=42992783) \| 🗓️ 2025-02-09
+| 🔥: 88 \| 💬: [66](https://news.ycombinator.com/item?id=42992783) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -243,7 +243,7 @@ booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并�
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/advanced-magnet-manufacturing-in-us): Advanced Magnet Manufacturing Begins in the United States</small>
 
 
-| 🔥: 82 \| 💬: [22](https://news.ycombinator.com/item?id=42991558) \| 🗓️ 2025-02-09
+| 🔥: 87 \| 💬: [23](https://news.ycombinator.com/item?id=42991558) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -255,7 +255,7 @@ booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并�
 <small>🔗 [booksearch.party](https://booksearch.party/): Show HN: Searchable Library of Free Audiobooks</small>
 
 
-| 🔥: 76 \| 💬: [9](https://news.ycombinator.com/item?id=42994440) \| 🗓️ 2025-02-09
+| 🔥: 87 \| 💬: [11](https://news.ycombinator.com/item?id=42994440) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -267,7 +267,7 @@ booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并�
 <small>🔗 [osmcal.org](https://osmcal.org/): OpenStreetMap Calendar</small>
 
 
-| 🔥: 72 \| 💬: [5](https://news.ycombinator.com/item?id=42993044) \| 🗓️ 2025-02-09
+| 🔥: 74 \| 💬: [5](https://news.ycombinator.com/item?id=42993044) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -279,7 +279,7 @@ booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并�
 <small>🔗 [pbs.org](https://www.pbs.org/newshour/health/u-s-facing-most-intense-flu-season-in-at-least-15-years): U.S. facing most intense flu season in at least 15 years</small>
 
 
-| 🔥: 72 \| 💬: [43](https://news.ycombinator.com/item?id=42995425) \| 🗓️ 2025-02-09
+| 🔥: 74 \| 💬: [44](https://news.ycombinator.com/item?id=42995425) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -287,7 +287,19 @@ booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并�
 
 ---
 
-## <a name="23"></a>23. 爱沙尼亚、拉脱维亚和立陶宛电力系统与欧洲同步 
+## <a name="23"></a>23. 谷歌支付研究发现部分职位男性薪酬不足 
+<small>🔗 [npr.org](https://www.npr.org/2019/03/05/700288695/google-pay-study-finds-its-underpaying-men-for-some-jobs): Google Pay Study Finds It Underpaid Men for Some Jobs (2019)</small>
+
+
+| 🔥: 72 \| 💬: [66](https://news.ycombinator.com/item?id=42994505) \| 🗓️ 2025-02-09
+
+
+<br />
+谷歌在2018年的薪酬公平分析中意外发现，**男性在某些职位上的薪酬低于女性**。尽管这一发现颠覆了性别薪酬差距的传统叙述，但公司仍面临女性员工提起的**集体诉讼**，指控系统性薪酬不足。谷歌为此向超过10,000名员工支付了近1000万美元的补偿。分析显示，管理者更倾向于为女性工程师提供额外的**自由资金**，导致男性同类职位的薪酬下降。谷歌承诺将进行更全面的薪酬结构审查，以确保公平和公正。
+
+---
+
+## <a name="24"></a>24. 爱沙尼亚、拉脱维亚和立陶宛电力系统与欧洲同步 
 <small>🔗 [elering.ee](https://elering.ee/estonian-latvian-and-lithuanian-power-systems-successfully-synchronised-continental-europe): Estonian, Latvian, and Lithuanian power systems synchronised with Europe</small>
 
 
@@ -299,23 +311,11 @@ booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并�
 
 ---
 
-## <a name="24"></a>24. 谷歌支付研究发现部分职位男性薪酬不足 
-<small>🔗 [npr.org](https://www.npr.org/2019/03/05/700288695/google-pay-study-finds-its-underpaying-men-for-some-jobs): Google Pay Study Finds It Underpaid Men for Some Jobs (2019)</small>
-
-
-| 🔥: 69 \| 💬: [63](https://news.ycombinator.com/item?id=42994505) \| 🗓️ 2025-02-09
-
-
-<br />
-谷歌在2018年的薪酬公平分析中意外发现，**男性在某些职位上的薪酬低于女性**。尽管这一发现颠覆了性别薪酬差距的传统叙述，但公司仍面临女性员工提起的**集体诉讼**，指控系统性薪酬不足。谷歌为此向超过10,000名员工支付了近1000万美元的补偿。分析显示，管理者更倾向于为女性工程师提供额外的**自由资金**，导致男性同类职位的薪酬下降。谷歌承诺将进行更全面的薪酬结构审查，以确保公平和公正。
-
----
-
 ## <a name="25"></a>25. PostgreSQL最佳实践 
 <small>🔗 [speakdatascience.com](https://speakdatascience.com/postgresql-best-practices/): PostgreSQL Best Practices</small>
 
 
-| 🔥: 68 \| 💬: [39](https://news.ycombinator.com/item?id=42992913) \| 🗓️ 2025-02-09
+| 🔥: 68 \| 💬: [40](https://news.ycombinator.com/item?id=42992913) \| 🗓️ 2025-02-09
 
 
 <br />
