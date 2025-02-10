@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [thebullshitmachines.com](https://thebullshitmachines.com): Modern-Day Oracles or Bullshit Machines? How to thrive in a ChatGPT world</small>
 
 
-| 🔥🔥: 551 \| 💬: [322](https://news.ycombinator.com/item?id=42989320) \| 🗓️ 2025-02-09
+| 🔥🔥: 578 \| 💬: [344](https://news.ycombinator.com/item?id=42989320) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [iquilezles.org](https://iquilezles.org/articles/gpuconditionals/): Don't "optimize" conditional moves in shaders with mix()+step()</small>
 
 
-| 🔥🔥: 289 \| 💬: [132](https://news.ycombinator.com/item?id=42990324) \| 🗓️ 2025-02-09
+| 🔥🔥: 292 \| 💬: [137](https://news.ycombinator.com/item?id=42990324) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [andysblog.uk](https://andysblog.uk/why-blog-if-nobody-reads-it/): Why Blog If Nobody Reads It?</small>
 
 
-| 🔥🔥: 246 \| 💬: [136](https://news.ycombinator.com/item?id=42992159) \| 🗓️ 2025-02-09
+| 🔥🔥: 268 \| 💬: [143](https://news.ycombinator.com/item?id=42992159) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.03387): LIMO: Less Is More for Reasoning</small>
 
 
-| 🔥🔥: 220 \| 💬: [78](https://news.ycombinator.com/item?id=42991676) \| 🗓️ 2025-02-09
+| 🔥🔥: 232 \| 💬: [85](https://news.ycombinator.com/item?id=42991676) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [wcia.com](https://www.wcia.com/business/press-releases/ein-presswire/776992724/analysis-of-2024-election-results-in-clark-county-indicates-manipulation/): Analysis of 2024 Election Results in Clark County Indicates Manipulation</small>
 
 
-| 🔥🔥: 154 \| 💬: [32](https://news.ycombinator.com/item?id=42994293) \| 🗓️ 2025-02-09
+| 🔥🔥: 158 \| 💬: [46](https://news.ycombinator.com/item?id=42994293) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples): Classic Data science pipelines built with LLMs</small>
 
 
-| 🔥🔥: 152 \| 💬: [78](https://news.ycombinator.com/item?id=42990036) \| 🗓️ 2025-02-09
+| 🔥🔥: 153 \| 💬: [78](https://news.ycombinator.com/item?id=42990036) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -99,7 +99,7 @@ FlashLearn提供了一系列示例，展示如何利用其库进行数据科学�
 <small>🔗 [itizso.itch.io](https://itizso.itch.io/retrofab): RetroFab: Playable 3D simulations of vintage electronic games</small>
 
 
-| 🔥🔥: 143 \| 💬: [22](https://news.ycombinator.com/item?id=42989628) \| 🗓️ 2025-02-09
+| 🔥🔥: 146 \| 💬: [22](https://news.ycombinator.com/item?id=42989628) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -111,7 +111,7 @@ RetroFab是一个新的在线平台，提供**复古电子游戏**的可玩3D模
 <small>🔗 [rollingstone.com](https://www.rollingstone.com/culture/culture-news/unitedhealth-defends-image-claim-denials-mangione-thompson-1235259054/): UnitedHealth Is Sick of Everyone Complaining About Its Claim Denials</small>
 
 
-| 🔥🔥: 135 \| 💬: [164](https://news.ycombinator.com/item?id=42992121) \| 🗓️ 2025-02-09
+| 🔥🔥: 136 \| 💬: [166](https://news.ycombinator.com/item?id=42992121) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -119,47 +119,11 @@ RetroFab是一个新的在线平台，提供**复古电子游戏**的可玩3D模
 
 ---
 
-## <a name="9"></a>9. Kanata：跨平台多层键盘重映射工具，具备高级自定义功能 
-<small>🔗 [github.com](https://github.com/jtroo/kanata): Kanata: Cross-platform multi-layer keyboard remapper with advanced customization</small>
-
-
-| 🔥🔥: 108 \| 💬: [32](https://news.ycombinator.com/item?id=42991019) \| 🗓️ 2025-02-09
-
-
-<br />
-Kanata 是一款 **跨平台** 的键盘重映射软件，支持 **Linux、macOS 和 Windows**。它允许用户通过多层功能和高级自定义（如 tap-hold、宏和 Unicode 输出）来提升键盘的舒适性和可用性。用户可以根据个人需求调整每个键的功能，改善输入体验。该项目使用 **Rust** 编写，旨在为所有用户提供类似 QMK 的自定义功能，而无需购买专用机械键盘。
-
----
-
-## <a name="10"></a>10. 20世纪的数学发展 
-<small>🔗 [marktomforde.com](https://marktomforde.com/academic/miscellaneous/images/atiyah20thcentury.pdf): Mathematics in the 20th century, by Michael Atiyah [pdf] (2002)</small>
-
-
-| 🔥🔥: 104 \| 💬: [15](https://news.ycombinator.com/item?id=42989419) \| 🗓️ 2025-02-09
-
-
-<br />
-这篇文章探讨了**20世纪数学的重大进展**，强调了数学在科学和技术中的关键作用。作者指出，数学不仅推动了理论的发展，还促进了计算机科学和信息技术的崛起。文章还提到，数学的多样性和复杂性使其在解决现代问题中变得不可或缺。
-
----
-
-## <a name="11"></a>11. 对代际垃圾回收的困惑 
-<small>🔗 [wingolog.org](https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection): Baffled by generational garbage collection – wingolog</small>
-
-
-| 🔥🔥: 104 \| 💬: [79](https://news.ycombinator.com/item?id=42990819) \| 🗓️ 2025-02-09
-
-
-<br />
-作者探讨了**代际垃圾回收**的价值主张，质疑其性能优势。尽管传统观点认为代际收集器在处理时间上优于全堆收集器，但作者的实验结果却显示，代际收集器在多个基准测试中反而耗时更长。文章分析了可能的原因，包括**写屏障**的开销、**幼儿园大小**的选择以及基准测试的代表性等，提出了对代际垃圾回收机制的深刻反思。
-
----
-
-## <a name="12"></a>12. 在Steam Deck上使用Nix实现持久化软件包 
+## <a name="9"></a>9. 在Steam Deck上使用Nix实现持久化软件包 
 <small>🔗 [chrastecky.dev](https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix): Persistent packages on Steam Deck using Nix</small>
 
 
-| 🔥🔥: 103 \| 💬: [54](https://news.ycombinator.com/item?id=42992345) \| 🗓️ 2025-02-09
+| 🔥🔥: 111 \| 💬: [57](https://news.ycombinator.com/item?id=42992345) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -167,23 +131,47 @@ Steam Deck的**不可变文件系统**使得安装持久化软件包变得复杂
 
 ---
 
-## <a name="13"></a>13. Linux作为协作Windows进程 
-<small>🔗 [colinux.org](http://www.colinux.org/): Linux as co-operative Windows process (2017)</small>
+## <a name="10"></a>10. Kanata：跨平台多层键盘重映射工具，具备高级自定义功能 
+<small>🔗 [github.com](https://github.com/jtroo/kanata): Kanata: Cross-platform multi-layer keyboard remapper with advanced customization</small>
 
 
-| 🔥: 94 \| 💬: [61](https://news.ycombinator.com/item?id=42989923) \| 🗓️ 2025-02-09
+| 🔥🔥: 108 \| 💬: [34](https://news.ycombinator.com/item?id=42991019) \| 🗓️ 2025-02-09
 
 
 <br />
-Cooperative Linux（简称coLinux）是一个开源项目，允许Linux内核与Windows操作系统在同一台机器上协同运行。它通过特殊驱动程序在Windows中执行Linux内核，提供接近本地Linux的性能。与其他虚拟化解决方案不同，coLinux不直接访问I/O设备，而是通过主机OS提供的仿真设备进行交互。这种方法使得Linux可以在Windows上运行而无需商业虚拟化软件，且能够加载未修改的Linux发行版。coLinux的设计使其易于移植到其他操作系统，如Solaris和ReactOS。
+Kanata 是一款 **跨平台** 的键盘重映射软件，支持 **Linux、macOS 和 Windows**。它允许用户通过多层功能和高级自定义（如 tap-hold、宏和 Unicode 输出）来提升键盘的舒适性和可用性。用户可以根据个人需求调整每个键的功能，改善输入体验。该项目使用 **Rust** 编写，旨在为所有用户提供类似 QMK 的自定义功能，而无需购买专用机械键盘。
 
 ---
 
-## <a name="14"></a>14. 三大观察 
+## <a name="11"></a>11. 20世纪的数学发展 
+<small>🔗 [marktomforde.com](https://marktomforde.com/academic/miscellaneous/images/atiyah20thcentury.pdf): Mathematics in the 20th century, by Michael Atiyah [pdf] (2002)</small>
+
+
+| 🔥🔥: 105 \| 💬: [15](https://news.ycombinator.com/item?id=42989419) \| 🗓️ 2025-02-09
+
+
+<br />
+这篇文章探讨了**20世纪数学的重大进展**，强调了数学在科学和技术中的关键作用。作者指出，数学不仅推动了理论的发展，还促进了计算机科学和信息技术的崛起。文章还提到，数学的多样性和复杂性使其在解决现代问题中变得不可或缺。
+
+---
+
+## <a name="12"></a>12. 对代际垃圾回收的困惑 
+<small>🔗 [wingolog.org](https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection): Baffled by generational garbage collection – wingolog</small>
+
+
+| 🔥🔥: 104 \| 💬: [82](https://news.ycombinator.com/item?id=42990819) \| 🗓️ 2025-02-09
+
+
+<br />
+作者探讨了**代际垃圾回收**的价值主张，质疑其性能优势。尽管传统观点认为代际收集器在处理时间上优于全堆收集器，但作者的实验结果却显示，代际收集器在多个基准测试中反而耗时更长。文章分析了可能的原因，包括**写屏障**的开销、**幼儿园大小**的选择以及基准测试的代表性等，提出了对代际垃圾回收机制的深刻反思。
+
+---
+
+## <a name="13"></a>13. 三大观察 
 <small>🔗 [blog.samaltman.com](https://blog.samaltman.com/three-observations): Three Observations</small>
 
 
-| 🔥: 93 \| 💬: [78](https://news.ycombinator.com/item?id=42993987) \| 🗓️ 2025-02-09
+| 🔥: 99 \| 💬: [90](https://news.ycombinator.com/item?id=42993987) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -191,11 +179,23 @@ Cooperative Linux（简称coLinux）是一个开源项目，允许Linux内核与
 
 ---
 
+## <a name="14"></a>14. Linux作为协作Windows进程 
+<small>🔗 [colinux.org](http://www.colinux.org/): Linux as co-operative Windows process (2017)</small>
+
+
+| 🔥: 96 \| 💬: [64](https://news.ycombinator.com/item?id=42989923) \| 🗓️ 2025-02-09
+
+
+<br />
+Cooperative Linux（简称coLinux）是一个开源项目，允许Linux内核与Windows操作系统在同一台机器上协同运行。它通过特殊驱动程序在Windows中执行Linux内核，提供接近本地Linux的性能。与其他虚拟化解决方案不同，coLinux不直接访问I/O设备，而是通过主机OS提供的仿真设备进行交互。这种方法使得Linux可以在Windows上运行而无需商业虚拟化软件，且能够加载未修改的Linux发行版。coLinux的设计使其易于移植到其他操作系统，如Solaris和ReactOS。
+
+---
+
 ## <a name="15"></a>15. 我的第一个副项目：在Slack上简化读书俱乐部 
 <small>🔗 [booktalk.club](https://booktalk.club/): Show HN: My first side project, streamlined book clubs on Slack</small>
 
 
-| 🔥: 86 \| 💬: [40](https://news.ycombinator.com/item?id=42990540) \| 🗓️ 2025-02-09
+| 🔥: 87 \| 💬: [41](https://news.ycombinator.com/item?id=42990540) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -207,7 +207,7 @@ booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并�
 <small>🔗 [blog.adacore.com](https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced): Ada crate of the year 2024 announced</small>
 
 
-| 🔥: 85 \| 💬: [52](https://news.ycombinator.com/item?id=42993086) \| 🗓️ 2025-02-09
+| 🔥: 87 \| 💬: [58](https://news.ycombinator.com/item?id=42993086) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -219,7 +219,7 @@ booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并�
 <small>🔗 [calcalistech.com](https://www.calcalistech.com/ctechnews/article/s1tra0sfye): Intel ruined an Israeli startup it bought for $2B–and lost the AI race</small>
 
 
-| 🔥: 84 \| 💬: [62](https://news.ycombinator.com/item?id=42992783) \| 🗓️ 2025-02-09
+| 🔥: 84 \| 💬: [64](https://news.ycombinator.com/item?id=42992783) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -231,7 +231,7 @@ booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.01584): PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models</small>
 
 
-| 🔥: 76 \| 💬: [45](https://news.ycombinator.com/item?id=42992336) \| 🗓️ 2025-02-09
+| 🔥: 80 \| 💬: [46](https://news.ycombinator.com/item?id=42992336) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -251,11 +251,23 @@ booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并�
 
 ---
 
-## <a name="20"></a>20. PostgreSQL最佳实践 
+## <a name="20"></a>20. 美国开始先进磁铁制造 
+<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/advanced-magnet-manufacturing-in-us): Advanced Magnet Manufacturing Begins in the United States</small>
+
+
+| 🔥: 67 \| 💬: [14](https://news.ycombinator.com/item?id=42991558) \| 🗓️ 2025-02-09
+
+
+<br />
+美国稀土制造商**MP Materials**在德克萨斯州沃斯堡的新制造设施内，开始了先进磁铁的生产，标志着对抗中国市场主导地位的一小步。该公司致力于减少对中国稀土材料的依赖，推动美国在这一关键领域的自主生产能力。
+
+---
+
+## <a name="21"></a>21. PostgreSQL最佳实践 
 <small>🔗 [speakdatascience.com](https://speakdatascience.com/postgresql-best-practices/): PostgreSQL Best Practices</small>
 
 
-| 🔥: 66 \| 💬: [34](https://news.ycombinator.com/item?id=42992913) \| 🗓️ 2025-02-09
+| 🔥: 67 \| 💬: [34](https://news.ycombinator.com/item?id=42992913) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -263,11 +275,11 @@ PostgreSQL是强大的关系数据库管理系统，遵循最佳实践可确保�
 
 ---
 
-## <a name="21"></a>21. 谷歌支付研究发现部分职位男性薪酬不足 
+## <a name="22"></a>22. 谷歌支付研究发现部分职位男性薪酬不足 
 <small>🔗 [npr.org](https://www.npr.org/2019/03/05/700288695/google-pay-study-finds-its-underpaying-men-for-some-jobs): Google Pay Study Finds It Underpaid Men for Some Jobs (2019)</small>
 
 
-| 🔥: 65 \| 💬: [45](https://news.ycombinator.com/item?id=42994505) \| 🗓️ 2025-02-09
+| 🔥: 66 \| 💬: [55](https://news.ycombinator.com/item?id=42994505) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -275,11 +287,11 @@ PostgreSQL是强大的关系数据库管理系统，遵循最佳实践可确保�
 
 ---
 
-## <a name="22"></a>22. ZeroTier：无公共IP地址的家庭VPN 
+## <a name="23"></a>23. ZeroTier：无公共IP地址的家庭VPN 
 <small>🔗 [blog.tomaszdunia.pl](https://blog.tomaszdunia.pl/zerotier-eng/): ZeroTier – home VPN without a public IP address</small>
 
 
-| 🔥: 59 \| 💬: [58](https://news.ycombinator.com/item?id=42989747) \| 🗓️ 2025-02-09
+| 🔥: 60 \| 💬: [58](https://news.ycombinator.com/item?id=42989747) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -287,11 +299,11 @@ ZeroTier是一种解决方案，可以在没有公共IP地址的情况下访问�
 
 ---
 
-## <a name="23"></a>23. 对维基百科的合法性攻势 
+## <a name="24"></a>24. 对维基百科的合法性攻势 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/technology/archive/2025/02/elon-musk-wikipedia/681577/): The Campaign to Delegitimize Wikipedia</small>
 
 
-| 🔥: 46 \| 💬: [27](https://news.ycombinator.com/item?id=42992194) \| 🗓️ 2025-02-09
+| 🔥: 49 \| 💬: [28](https://news.ycombinator.com/item?id=42992194) \| 🗓️ 2025-02-09
 
 
 <br />
