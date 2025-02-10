@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共22条，具体内容您往下读...
+总共23条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [thebullshitmachines.com](https://thebullshitmachines.com): Modern-Day Oracles or Bullshit Machines? How to thrive in a ChatGPT world</small>
 
 
-| 🔥🔥: 497 \| 💬: [282](https://news.ycombinator.com/item?id=42989320) \| 🗓️ 2025-02-09
+| 🔥🔥: 526 \| 💬: [298](https://news.ycombinator.com/item?id=42989320) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [iquilezles.org](https://iquilezles.org/articles/gpuconditionals/): Don't "optimize" conditional moves in shaders with mix()+step()</small>
 
 
-| 🔥🔥: 272 \| 💬: [117](https://news.ycombinator.com/item?id=42990324) \| 🗓️ 2025-02-09
+| 🔥🔥: 284 \| 💬: [125](https://news.ycombinator.com/item?id=42990324) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [andysblog.uk](https://andysblog.uk/why-blog-if-nobody-reads-it/): Why Blog If Nobody Reads It?</small>
 
 
-| 🔥🔥: 203 \| 💬: [118](https://news.ycombinator.com/item?id=42992159) \| 🗓️ 2025-02-09
+| 🔥🔥: 224 \| 💬: [130](https://news.ycombinator.com/item?id=42992159) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.03387): LIMO: Less Is More for Reasoning</small>
 
 
-| 🔥🔥: 189 \| 💬: [69](https://news.ycombinator.com/item?id=42991676) \| 🗓️ 2025-02-09
+| 🔥🔥: 210 \| 💬: [73](https://news.ycombinator.com/item?id=42991676) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Pravko-Solutions/FlashLearn/tree/main/examples): Classic Data science pipelines built with LLMs</small>
 
 
-| 🔥🔥: 145 \| 💬: [78](https://news.ycombinator.com/item?id=42990036) \| 🗓️ 2025-02-09
+| 🔥🔥: 149 \| 💬: [78](https://news.ycombinator.com/item?id=42990036) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -87,7 +87,7 @@ FlashLearn提供了一系列示例，展示如何利用其库进行数据科学�
 <small>🔗 [itizso.itch.io](https://itizso.itch.io/retrofab): RetroFab: Playable 3D simulations of vintage electronic games</small>
 
 
-| 🔥🔥: 136 \| 💬: [22](https://news.ycombinator.com/item?id=42989628) \| 🗓️ 2025-02-09
+| 🔥🔥: 141 \| 💬: [22](https://news.ycombinator.com/item?id=42989628) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -99,7 +99,7 @@ RetroFab是一个新的在线平台，提供**复古电子游戏**的可玩3D模
 <small>🔗 [rollingstone.com](https://www.rollingstone.com/culture/culture-news/unitedhealth-defends-image-claim-denials-mangione-thompson-1235259054/): UnitedHealth Is Sick of Everyone Complaining About Its Claim Denials</small>
 
 
-| 🔥🔥: 128 \| 💬: [155](https://news.ycombinator.com/item?id=42992121) \| 🗓️ 2025-02-09
+| 🔥🔥: 130 \| 💬: [162](https://news.ycombinator.com/item?id=42992121) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -107,7 +107,31 @@ RetroFab是一个新的在线平台，提供**复古电子游戏**的可玩3D模
 
 ---
 
-## <a name="8"></a>8. 20世纪的数学发展 
+## <a name="8"></a>8. 对代际垃圾回收的困惑 
+<small>🔗 [wingolog.org](https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection): Baffled by generational garbage collection – wingolog</small>
+
+
+| 🔥🔥: 104 \| 💬: [78](https://news.ycombinator.com/item?id=42990819) \| 🗓️ 2025-02-09
+
+
+<br />
+作者探讨了**代际垃圾回收**的价值主张，质疑其性能优势。尽管传统观点认为代际收集器在处理时间上优于全堆收集器，但作者的实验结果却显示，代际收集器在多个基准测试中反而耗时更长。文章分析了可能的原因，包括**写屏障**的开销、**幼儿园大小**的选择以及基准测试的代表性等，提出了对代际垃圾回收机制的深刻反思。
+
+---
+
+## <a name="9"></a>9. Kanata：跨平台多层键盘重映射工具，具备高级自定义功能 
+<small>🔗 [github.com](https://github.com/jtroo/kanata): Kanata: Cross-platform multi-layer keyboard remapper with advanced customization</small>
+
+
+| 🔥🔥: 104 \| 💬: [30](https://news.ycombinator.com/item?id=42991019) \| 🗓️ 2025-02-09
+
+
+<br />
+Kanata 是一款 **跨平台** 的键盘重映射软件，支持 **Linux、macOS 和 Windows**。它允许用户通过多层功能和高级自定义（如 tap-hold、宏和 Unicode 输出）来提升键盘的舒适性和可用性。用户可以根据个人需求调整每个键的功能，改善输入体验。该项目使用 **Rust** 编写，旨在为所有用户提供类似 QMK 的自定义功能，而无需购买专用机械键盘。
+
+---
+
+## <a name="10"></a>10. 20世纪的数学发展 
 <small>🔗 [marktomforde.com](https://marktomforde.com/academic/miscellaneous/images/atiyah20thcentury.pdf): Mathematics in the 20th century, by Michael Atiyah [pdf] (2002)</small>
 
 
@@ -119,35 +143,23 @@ RetroFab是一个新的在线平台，提供**复古电子游戏**的可玩3D模
 
 ---
 
-## <a name="9"></a>9. Kanata：跨平台多层键盘重映射工具，具备高级自定义功能 
-<small>🔗 [github.com](https://github.com/jtroo/kanata): Kanata: Cross-platform multi-layer keyboard remapper with advanced customization</small>
+## <a name="11"></a>11. 在Steam Deck上使用Nix实现持久化软件包 
+<small>🔗 [chrastecky.dev](https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix): Persistent packages on Steam Deck using Nix</small>
 
 
-| 🔥🔥: 102 \| 💬: [30](https://news.ycombinator.com/item?id=42991019) \| 🗓️ 2025-02-09
-
-
-<br />
-Kanata 是一款 **跨平台** 的键盘重映射软件，支持 **Linux、macOS 和 Windows**。它允许用户通过多层功能和高级自定义（如 tap-hold、宏和 Unicode 输出）来提升键盘的舒适性和可用性。用户可以根据个人需求调整每个键的功能，改善输入体验。该项目使用 **Rust** 编写，旨在为所有用户提供类似 QMK 的自定义功能，而无需购买专用机械键盘。
-
----
-
-## <a name="10"></a>10. 对代际垃圾回收的困惑 
-<small>🔗 [wingolog.org](https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection): Baffled by generational garbage collection – wingolog</small>
-
-
-| 🔥: 99 \| 💬: [76](https://news.ycombinator.com/item?id=42990819) \| 🗓️ 2025-02-09
+| 🔥: 95 \| 💬: [50](https://news.ycombinator.com/item?id=42992345) \| 🗓️ 2025-02-09
 
 
 <br />
-作者探讨了**代际垃圾回收**的价值主张，质疑其性能优势。尽管传统观点认为代际收集器在处理时间上优于全堆收集器，但作者的实验结果却显示，代际收集器在多个基准测试中反而耗时更长。文章分析了可能的原因，包括**写屏障**的开销、**幼儿园大小**的选择以及基准测试的代表性等，提出了对代际垃圾回收机制的深刻反思。
+Steam Deck的**不可变文件系统**使得安装持久化软件包变得复杂，但借助Nix可以解决这一问题。Nix是一个声明式的包管理器，允许用户通过配置文件管理软件。通过安装Nix和Home Manager，用户可以轻松添加和管理软件包，如nmap和cowsay，且这些安装不会在系统升级时丢失。设置完成后，用户只需更新配置文件并运行`home-manager switch`来应用更改，确保每次终端启动时都能自动加载Nix环境。
 
 ---
 
-## <a name="11"></a>11. Linux作为协作Windows进程 
+## <a name="12"></a>12. Linux作为协作Windows进程 
 <small>🔗 [colinux.org](http://www.colinux.org/): Linux as co-operative Windows process (2017)</small>
 
 
-| 🔥: 91 \| 💬: [55](https://news.ycombinator.com/item?id=42989923) \| 🗓️ 2025-02-09
+| 🔥: 91 \| 💬: [58](https://news.ycombinator.com/item?id=42989923) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -155,7 +167,7 @@ Cooperative Linux（简称coLinux）是一个开源项目，允许Linux内核与
 
 ---
 
-## <a name="12"></a>12. 2024年克拉克县选举结果分析显示操控迹象 
+## <a name="13"></a>13. 2024年克拉克县选举结果分析显示操控迹象 
 <small>🔗 [wcia.com](https://www.wcia.com/business/press-releases/ein-presswire/776992724/analysis-of-2024-election-results-in-clark-county-indicates-manipulation/): Analysis of 2024 Election Results in Clark County Indicates Manipulation</small>
 
 
@@ -167,23 +179,11 @@ Cooperative Linux（简称coLinux）是一个开源项目，允许Linux内核与
 
 ---
 
-## <a name="13"></a>13. 在Steam Deck上使用Nix实现持久化软件包 
-<small>🔗 [chrastecky.dev](https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix): Persistent packages on Steam Deck using Nix</small>
-
-
-| 🔥: 84 \| 💬: [39](https://news.ycombinator.com/item?id=42992345) \| 🗓️ 2025-02-09
-
-
-<br />
-Steam Deck的**不可变文件系统**使得安装持久化软件包变得复杂，但借助Nix可以解决这一问题。Nix是一个声明式的包管理器，允许用户通过配置文件管理软件。通过安装Nix和Home Manager，用户可以轻松添加和管理软件包，如nmap和cowsay，且这些安装不会在系统升级时丢失。设置完成后，用户只需更新配置文件并运行`home-manager switch`来应用更改，确保每次终端启动时都能自动加载Nix环境。
-
----
-
 ## <a name="14"></a>14. 我的第一个副项目：在Slack上简化读书俱乐部 
 <small>🔗 [booktalk.club](https://booktalk.club/): Show HN: My first side project, streamlined book clubs on Slack</small>
 
 
-| 🔥: 82 \| 💬: [37](https://news.ycombinator.com/item?id=42990540) \| 🗓️ 2025-02-09
+| 🔥: 84 \| 💬: [40](https://news.ycombinator.com/item?id=42990540) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -195,7 +195,7 @@ booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并�
 <small>🔗 [blog.adacore.com](https://blog.adacore.com/ada-spark-crate-of-the-year-2024-winners-announced): Ada crate of the year 2024 announced</small>
 
 
-| 🔥: 77 \| 💬: [43](https://news.ycombinator.com/item?id=42993086) \| 🗓️ 2025-02-09
+| 🔥: 82 \| 💬: [47](https://news.ycombinator.com/item?id=42993086) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -207,7 +207,7 @@ booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并�
 <small>🔗 [calcalistech.com](https://www.calcalistech.com/ctechnews/article/s1tra0sfye): Intel ruined an Israeli startup it bought for $2B–and lost the AI race</small>
 
 
-| 🔥: 76 \| 💬: [54](https://news.ycombinator.com/item?id=42992783) \| 🗓️ 2025-02-09
+| 🔥: 80 \| 💬: [59](https://news.ycombinator.com/item?id=42992783) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -219,7 +219,7 @@ booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并�
 <small>🔗 [blog.samaltman.com](https://blog.samaltman.com/three-observations): Three Observations</small>
 
 
-| 🔥: 73 \| 💬: [61](https://news.ycombinator.com/item?id=42993987) \| 🗓️ 2025-02-09
+| 🔥: 79 \| 💬: [66](https://news.ycombinator.com/item?id=42993987) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -227,35 +227,11 @@ booktalk旨在通过**简化的读书俱乐部**激发深思熟虑的讨论并�
 
 ---
 
-## <a name="18"></a>18. 爱沙尼亚、拉脱维亚和立陶宛电力系统与欧洲同步 
-<small>🔗 [elering.ee](https://elering.ee/estonian-latvian-and-lithuanian-power-systems-successfully-synchronised-continental-europe): Estonian, Latvian, and Lithuanian power systems synchronised with Europe</small>
-
-
-| 🔥: 69 \| 💬: [21](https://news.ycombinator.com/item?id=42991687) \| 🗓️ 2025-02-09
-
-
-<br />
-爱沙尼亚、拉脱维亚和立陶宛于2025年2月9日下午2:05成功与**欧洲大陆同步电网**连接。这一里程碑增强了波罗的海国家的**能源韧性**和独立性，使其能够与其他欧洲国家更好地管理电力网络，提升区域**能源安全**。此前，这些国家依赖于俄罗斯的电力系统进行频率管理，现在已完全断开与俄罗斯和白俄罗斯的电力连接。此项目得到了**欧盟**和欧洲电力传输系统运营商协会（ENTSO-E）的强力支持，经过多年的准备和基础设施升级，最终实现了这一重要目标。
-
----
-
-## <a name="19"></a>19. PostgreSQL最佳实践 
-<small>🔗 [speakdatascience.com](https://speakdatascience.com/postgresql-best-practices/): PostgreSQL Best Practices</small>
-
-
-| 🔥: 65 \| 💬: [23](https://news.ycombinator.com/item?id=42992913) \| 🗓️ 2025-02-09
-
-
-<br />
-PostgreSQL是强大的关系数据库管理系统，遵循最佳实践可确保数据库的性能、安全性和可维护性。**数据库设计**应遵循一致的命名约定和合理的模式设计。**性能优化**包括有效的索引策略和查询优化。**安全性**方面，需实施访问控制和强密码策略。**备份与恢复**策略至关重要，定期测试恢复过程。**维护与监控**需定期进行VACUUM和ANALYZE操作，监控关键指标。**开发实践**应包括版本控制和代码组织。最后，**高可用性**通过配置复制和负载均衡来实现。遵循这些实践将为您的PostgreSQL数据库奠定坚实基础。
-
----
-
-## <a name="20"></a>20. 不需要博士知识：大型语言模型的推理挑战 
+## <a name="18"></a>18. 不需要博士知识：大型语言模型的推理挑战 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.01584): PhD Knowledge Not Required: A Reasoning Challenge for Large Language Models</small>
 
 
-| 🔥: 64 \| 💬: [40](https://news.ycombinator.com/item?id=42992336) \| 🗓️ 2025-02-09
+| 🔥: 71 \| 💬: [41](https://news.ycombinator.com/item?id=42992336) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -263,11 +239,47 @@ PostgreSQL是强大的关系数据库管理系统，遵循最佳实践可确保�
 
 ---
 
-## <a name="21"></a>21. ZeroTier：无公共IP地址的家庭VPN 
+## <a name="19"></a>19. 爱沙尼亚、拉脱维亚和立陶宛电力系统与欧洲同步 
+<small>🔗 [elering.ee](https://elering.ee/estonian-latvian-and-lithuanian-power-systems-successfully-synchronised-continental-europe): Estonian, Latvian, and Lithuanian power systems synchronised with Europe</small>
+
+
+| 🔥: 69 \| 💬: [22](https://news.ycombinator.com/item?id=42991687) \| 🗓️ 2025-02-09
+
+
+<br />
+爱沙尼亚、拉脱维亚和立陶宛于2025年2月9日下午2:05成功与**欧洲大陆同步电网**连接。这一里程碑增强了波罗的海国家的**能源韧性**和独立性，使其能够与其他欧洲国家更好地管理电力网络，提升区域**能源安全**。此前，这些国家依赖于俄罗斯的电力系统进行频率管理，现在已完全断开与俄罗斯和白俄罗斯的电力连接。此项目得到了**欧盟**和欧洲电力传输系统运营商协会（ENTSO-E）的强力支持，经过多年的准备和基础设施升级，最终实现了这一重要目标。
+
+---
+
+## <a name="20"></a>20. PostgreSQL最佳实践 
+<small>🔗 [speakdatascience.com](https://speakdatascience.com/postgresql-best-practices/): PostgreSQL Best Practices</small>
+
+
+| 🔥: 66 \| 💬: [31](https://news.ycombinator.com/item?id=42992913) \| 🗓️ 2025-02-09
+
+
+<br />
+PostgreSQL是强大的关系数据库管理系统，遵循最佳实践可确保数据库的性能、安全性和可维护性。**数据库设计**应遵循一致的命名约定和合理的模式设计。**性能优化**包括有效的索引策略和查询优化。**安全性**方面，需实施访问控制和强密码策略。**备份与恢复**策略至关重要，定期测试恢复过程。**维护与监控**需定期进行VACUUM和ANALYZE操作，监控关键指标。**开发实践**应包括版本控制和代码组织。最后，**高可用性**通过配置复制和负载均衡来实现。遵循这些实践将为您的PostgreSQL数据库奠定坚实基础。
+
+---
+
+## <a name="21"></a>21. 谷歌支付研究发现部分职位男性薪酬不足 
+<small>🔗 [npr.org](https://www.npr.org/2019/03/05/700288695/google-pay-study-finds-its-underpaying-men-for-some-jobs): Google Pay Study Finds It Underpaid Men for Some Jobs (2019)</small>
+
+
+| 🔥: 61 \| 💬: [29](https://news.ycombinator.com/item?id=42994505) \| 🗓️ 2025-02-09
+
+
+<br />
+谷歌在2018年的薪酬公平分析中意外发现，**男性在某些职位上的薪酬低于女性**。尽管这一发现颠覆了性别薪酬差距的传统叙述，但公司仍面临女性员工提起的**集体诉讼**，指控系统性薪酬不足。谷歌为此向超过10,000名员工支付了近1000万美元的补偿。分析显示，管理者更倾向于为女性工程师提供额外的**自由资金**，导致男性同类职位的薪酬下降。谷歌承诺将进行更全面的薪酬结构审查，以确保公平和公正。
+
+---
+
+## <a name="22"></a>22. ZeroTier：无公共IP地址的家庭VPN 
 <small>🔗 [blog.tomaszdunia.pl](https://blog.tomaszdunia.pl/zerotier-eng/): ZeroTier – home VPN without a public IP address</small>
 
 
-| 🔥: 58 \| 💬: [57](https://news.ycombinator.com/item?id=42989747) \| 🗓️ 2025-02-09
+| 🔥: 58 \| 💬: [58](https://news.ycombinator.com/item?id=42989747) \| 🗓️ 2025-02-09
 
 
 <br />
@@ -275,11 +287,11 @@ ZeroTier是一种解决方案，可以在没有公共IP地址的情况下访问�
 
 ---
 
-## <a name="22"></a>22. 对维基百科的合法性攻势 
+## <a name="23"></a>23. 对维基百科的合法性攻势 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/technology/archive/2025/02/elon-musk-wikipedia/681577/): The Campaign to Delegitimize Wikipedia</small>
 
 
-| 🔥: 43 \| 💬: [20](https://news.ycombinator.com/item?id=42992194) \| 🗓️ 2025-02-09
+| 🔥: 45 \| 💬: [23](https://news.ycombinator.com/item?id=42992194) \| 🗓️ 2025-02-09
 
 
 <br />
