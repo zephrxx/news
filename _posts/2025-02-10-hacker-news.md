@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [blog.plover.com](https://blog.plover.com/lang/etym/nickname-names.html): Surnames from nicknames nobody has any more</small>
 
 
-| 🔥🔥: 724 \| 💬: [352](https://news.ycombinator.com/item?id=43000316) \| 🗓️ 2025-02-10
+| 🔥🔥: 741 \| 💬: [358](https://news.ycombinator.com/item?id=43000316) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/): Undergraduate shows that searches within hash tables can be much faster</small>
 
 
-| 🔥🔥: 555 \| 💬: [250](https://news.ycombinator.com/item?id=43002511) \| 🗓️ 2025-02-10
+| 🔥🔥: 592 \| 💬: [270](https://news.ycombinator.com/item?id=43002511) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/the-anthropic-economic-index): The Anthropic Economic Index</small>
 
 
-| 🔥🔥: 426 \| 💬: [191](https://news.ycombinator.com/item?id=43000529) \| 🗓️ 2025-02-10
+| 🔥🔥: 438 \| 💬: [191](https://news.ycombinator.com/item?id=43000529) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [myteslaexperience.com](https://www.myteslaexperience.com/2025-02-01/to-buy-a-tesla-mode-3-only-to-end-up-in-hell): To buy a Tesla Model 3, only to end up in hell</small>
 
 
-| 🔥🔥: 420 \| 💬: [521](https://news.ycombinator.com/item?id=42998024) \| 🗓️ 2025-02-10
+| 🔥🔥: 423 \| 💬: [521](https://news.ycombinator.com/item?id=42998024) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/selfhosted/comments/1ij7s4m/how_i_built_an_open_source_ai_tool_to_find_my/): I built an open source AI tool to find my autoimmune disease</small>
 
 
-| 🔥🔥: 365 \| 💬: [270](https://news.ycombinator.com/item?id=42999632) \| 🗓️ 2025-02-10
+| 🔥🔥: 369 \| 💬: [272](https://news.ycombinator.com/item?id=42999632) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [github.com](https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md): Show HN: HTML visualization of a PDF file's internal structure</small>
 
 
-| 🔥🔥: 330 \| 💬: [44](https://news.ycombinator.com/item?id=43000303) \| 🗓️ 2025-02-10
+| 🔥🔥: 339 \| 💬: [45](https://news.ycombinator.com/item?id=43000303) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -99,7 +99,7 @@ PDFSyntax是一个自包含的Python包，旨在**解析**和**可视化**PDF文
 <small>🔗 [jacek.zlydach.pl](https://jacek.zlydach.pl/blog/2019-07-31-ads-as-cancer.html): Advertising Is a Cancer on Society (2019)</small>
 
 
-| 🔥🔥: 267 \| 💬: [235](https://news.ycombinator.com/item?id=42999561) \| 🗓️ 2025-02-10
+| 🔥🔥: 268 \| 💬: [235](https://news.ycombinator.com/item?id=42999561) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -111,7 +111,7 @@ PDFSyntax是一个自包含的Python包，旨在**解析**和**可视化**PDF文
 <small>🔗 [kalzumeus.com](https://www.kalzumeus.com/2025/02/10/retraction-request-denied/): Bank CEO: Retract your debanking piece? Me: No</small>
 
 
-| 🔥🔥: 241 \| 💬: [69](https://news.ycombinator.com/item?id=43001441) \| 🗓️ 2025-02-10
+| 🔥🔥: 247 \| 💬: [69](https://news.ycombinator.com/item?id=43001441) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -123,7 +123,7 @@ PDFSyntax是一个自包含的Python包，旨在**解析**和**可视化**PDF文
 <small>🔗 [xpqz.github.io](https://xpqz.github.io/kbook/Introduction.html): What about K?</small>
 
 
-| 🔥🔥: 181 \| 💬: [109](https://news.ycombinator.com/item?id=42999650) \| 🗓️ 2025-02-10
+| 🔥🔥: 182 \| 💬: [114](https://news.ycombinator.com/item?id=42999650) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -135,7 +135,7 @@ k是一种由Arthur Whitney设计的快速向量导向语言家族，具有多�
 <small>🔗 [fetchfox.ai](https://fetchfox.ai/a/founding-engineer-compensation): 1% Equity for Founding Engineers Is BS</small>
 
 
-| 🔥🔥: 171 \| 💬: [221](https://news.ycombinator.com/item?id=43002999) \| 🗓️ 2025-02-10
+| 🔥🔥: 171 \| 💬: [222](https://news.ycombinator.com/item?id=43002999) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -147,7 +147,7 @@ k是一种由Arthur Whitney设计的快速向量导向语言家族，具有多�
 <small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/event/fosdem-2025-5356-the-state-of-rust-trying-to-catch-up-with-ada/): The state of Rust trying to catch up with Ada [video]</small>
 
 
-| 🔥🔥: 160 \| 💬: [166](https://news.ycombinator.com/item?id=42998061) \| 🗓️ 2025-02-10
+| 🔥🔥: 161 \| 💬: [168](https://news.ycombinator.com/item?id=42998061) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -159,7 +159,7 @@ k是一种由Arthur Whitney设计的快速向量导向语言家族，具有多�
 <small>🔗 [pcgamer.com](https://www.pcgamer.com/gaming-industry/a-2023-study-concluded-captchas-are-a-tracking-cookie-farm-for-profit-masquerading-as-a-security-service-that-made-us-spend-819-billion-hours-clicking-on-traffic-lights-to-generate-nearly-usd1-trillion-for-google/): CAPTCHAs: 'a tracking cookie farm for profit masquerading as a security service'</small>
 
 
-| 🔥🔥: 138 \| 💬: [85](https://news.ycombinator.com/item?id=43002440) \| 🗓️ 2025-02-10
+| 🔥🔥: 149 \| 💬: [93](https://news.ycombinator.com/item?id=43002440) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -171,7 +171,7 @@ k是一种由Arthur Whitney设计的快速向量导向语言家族，具有多�
 <small>🔗 [xstore.co.za](https://www.xstore.co.za/stuff/2024/01/kaspersky-finds-hardware-backdoor-in-5-generations-of-apple-silicon/): Kaspersky finds hardware backdoor in 5 generations of Apple Silicon (2024)</small>
 
 
-| 🔥🔥: 128 \| 💬: [32](https://news.ycombinator.com/item?id=43003230) \| 🗓️ 2025-02-10
+| 🔥🔥: 129 \| 💬: [32](https://news.ycombinator.com/item?id=43003230) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -195,7 +195,7 @@ Opencomply是一个旨在提升**安全性**和**合规性**的开源项目。�
 <small>🔗 [abortretry.fail](https://www.abortretry.fail/p/work-at-the-mill): Work at the Mill Or, the Story of Digital Equipment Corporation</small>
 
 
-| 🔥: 91 \| 💬: [37](https://news.ycombinator.com/item?id=43002906) \| 🗓️ 2025-02-10
+| 🔥: 98 \| 💬: [39](https://news.ycombinator.com/item?id=43002906) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -203,23 +203,11 @@ Opencomply是一个旨在提升**安全性**和**合规性**的开源项目。�
 
 ---
 
-## <a name="16"></a>16. 全球三维地形探索器 
-<small>🔗 [topography.jessekv.com](https://topography.jessekv.com): Show HN: Global 3D topography explorer</small>
-
-
-| 🔥: 83 \| 💬: [30](https://news.ycombinator.com/item?id=43001688) \| 🗓️ 2025-02-10
-
-
-<br />
-通过点击地图上的**流域**或**区域**，用户可以以三维形式查看这些地形。该平台提供了多种功能，包括生成地形和保存最爱区域，支持多种数据源，如**MERIT-Hydro**和**HydroSHEDS**。探索地形的乐趣尽在其中。
-
----
-
-## <a name="17"></a>17. 通过潜在推理扩展测试时间计算：递归深度方法 
+## <a name="16"></a>16. 通过潜在推理扩展测试时间计算：递归深度方法 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.05171): Scaling up test-time compute with latent reasoning: A recurrent depth approach</small>
 
 
-| 🔥: 82 \| 💬: [18](https://news.ycombinator.com/item?id=43004416) \| 🗓️ 2025-02-10
+| 🔥: 89 \| 💬: [19](https://news.ycombinator.com/item?id=43004416) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -227,11 +215,11 @@ Opencomply是一个旨在提升**安全性**和**合规性**的开源项目。�
 
 ---
 
-## <a name="18"></a>18. 构建实时功能的模式 
+## <a name="17"></a>17. 构建实时功能的模式 
 <small>🔗 [zknill.io](https://zknill.io/posts/patterns-for-building-realtime/): Patterns for Building Realtime Features</small>
 
 
-| 🔥: 81 \| 💬: [20](https://news.ycombinator.com/item?id=43004334) \| 🗓️ 2025-02-10
+| 🔥: 88 \| 💬: [20](https://news.ycombinator.com/item?id=43004334) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -239,11 +227,35 @@ Opencomply是一个旨在提升**安全性**和**合规性**的开源项目。�
 
 ---
 
-## <a name="19"></a>19. Steam明确禁止游戏内广告 
+## <a name="18"></a>18. 全球三维地形探索器 
+<small>🔗 [topography.jessekv.com](https://topography.jessekv.com): Show HN: Global 3D topography explorer</small>
+
+
+| 🔥: 85 \| 💬: [31](https://news.ycombinator.com/item?id=43001688) \| 🗓️ 2025-02-10
+
+
+<br />
+通过点击地图上的**流域**或**区域**，用户可以以三维形式查看这些地形。该平台提供了多种功能，包括生成地形和保存最爱区域，支持多种数据源，如**MERIT-Hydro**和**HydroSHEDS**。探索地形的乐趣尽在其中。
+
+---
+
+## <a name="19"></a>19. 如何复制MUD服务器的工作原理 
+<small>🔗 [jackkelly.name](http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/): How Copyover MUD Servers Worked</small>
+
+
+| 🔥: 81 \| 💬: [25](https://news.ycombinator.com/item?id=43007769) \| 🗓️ 2025-02-10
+
+
+<br />
+在年轻时，作者Jack Kelly沉迷于MUD（多用户地下城），并逐渐对其开发产生了兴趣。MUD的构建者通常是玩家，使用游戏内命令编辑世界。为了避免每次修改都需重启服务器，MUD采用了**“copyover”**或**“热启动”**的技巧，允许服务器在保持连接的情况下替换自身。此过程涉及创建管道、分叉进程和执行新代码，确保服务器在新代码下继续运行旧状态。尽管这种方法很有效，但如果新服务器无法启动，状态将会丢失。作者希望记录这种传统的复制方式，并探讨现代的替代方案。
+
+---
+
+## <a name="20"></a>20. Steam明确禁止游戏内广告 
 <small>🔗 [pcgamer.com](https://www.pcgamer.com/gaming-industry/valve-bans-games-that-rely-on-in-game-ads-from-steam-so-no-watch-this-to-continue-playing-stuff-will-be-making-its-way-to-our-pcs/): Steam makes its ban on in-game ads explicit</small>
 
 
-| 🔥: 79 \| 💬: [47](https://news.ycombinator.com/item?id=42999661) \| 🗓️ 2025-02-10
+| 🔥: 80 \| 💬: [47](https://news.ycombinator.com/item?id=42999661) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -251,11 +263,11 @@ Steam最近在其开发者文档中新增了一页广告政策，**明确禁止*
 
 ---
 
-## <a name="20"></a>20. 在计算机代理的世界中SaaS的未来 
+## <a name="21"></a>21. 在计算机代理的世界中SaaS的未来 
 <small>🔗 [docs.google.com](https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing): What happens to SaaS in a world with computer-using agents?</small>
 
 
-| 🔥: 75 \| 💬: [61](https://news.ycombinator.com/item?id=43004373) \| 🗓️ 2025-02-10
+| 🔥: 76 \| 💬: [66](https://news.ycombinator.com/item?id=43004373) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -263,23 +275,11 @@ Steam最近在其开发者文档中新增了一页广告政策，**明确禁止*
 
 ---
 
-## <a name="21"></a>21. 关于USB软盘驱动器的故事（2004） 
-<small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20040409-00/?p=39873): A story about USB floppy drives (2004)</small>
-
-
-| 🔥: 70 \| 💬: [42](https://news.ycombinator.com/item?id=43002426) \| 🗓️ 2025-02-10
-
-
-<br />
-一位朋友曾参与USB规范的开发。在一次会议上，一家公司展示了他们的USB软盘驱动器，并提到他们为PC和Mac制作了两个版本。委员会成员对此感到困惑，因为根据规范，两个版本应该是相同的。公司代表解释说，两个驱动器在电子上完全相同，唯一的区别是Mac版本采用半透明蓝色塑料，且价格更高。这家公司并不是唯一一个试图利用iMac风格的塑料潮流的例子。
-
----
-
 ## <a name="22"></a>22. 为什么商业航空旅行自1960年代以来没有变得更快？ 
 <small>🔗 [engineering.mit.edu](https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/): Why hasn't commercial air travel gotten any faster since the 1960s? (2009)</small>
 
 
-| 🔥: 68 \| 💬: [274](https://news.ycombinator.com/item?id=43000275) \| 🗓️ 2025-02-10
+| 🔥: 75 \| 💬: [300](https://news.ycombinator.com/item?id=43000275) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -287,7 +287,19 @@ Steam最近在其开发者文档中新增了一页广告政策，**明确禁止*
 
 ---
 
-## <a name="23"></a>23. 水坝工程奇迹：八只海狸在两天内完成七年计划，节省120万美元 
+## <a name="23"></a>23. 关于USB软盘驱动器的故事（2004） 
+<small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20040409-00/?p=39873): A story about USB floppy drives (2004)</small>
+
+
+| 🔥: 71 \| 💬: [42](https://news.ycombinator.com/item?id=43002426) \| 🗓️ 2025-02-10
+
+
+<br />
+一位朋友曾参与USB规范的开发。在一次会议上，一家公司展示了他们的USB软盘驱动器，并提到他们为PC和Mac制作了两个版本。委员会成员对此感到困惑，因为根据规范，两个版本应该是相同的。公司代表解释说，两个驱动器在电子上完全相同，唯一的区别是Mac版本采用半透明蓝色塑料，且价格更高。这家公司并不是唯一一个试图利用iMac风格的塑料潮流的例子。
+
+---
+
+## <a name="24"></a>24. 水坝工程奇迹：八只海狸在两天内完成七年计划，节省120万美元 
 <small>🔗 [nationalgeographic.com](https://www.nationalgeographic.com/animals/article/beaver-dam-czech-republic): Beavers finish seven-year dam project in two days saving – $1M</small>
 
 
@@ -299,11 +311,11 @@ Steam最近在其开发者文档中新增了一页广告政策，**明确禁止*
 
 ---
 
-## <a name="24"></a>24. 地球内核可能发生形状变化，科学家称 
+## <a name="25"></a>25. 地球内核可能发生形状变化，科学家称 
 <small>🔗 [bbc.co.uk](https://www.bbc.co.uk/news/articles/c4gx37ky3gyo): Earth's inner core may have changed shape, say scientists</small>
 
 
-| 🔥: 48 \| 💬: [35](https://news.ycombinator.com/item?id=43002130) \| 🗓️ 2025-02-10
+| 🔥: 49 \| 💬: [35](https://news.ycombinator.com/item?id=43002130) \| 🗓️ 2025-02-10
 
 
 <br />
