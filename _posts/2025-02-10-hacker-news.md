@@ -27,7 +27,7 @@ tags:
 <small>🔗 [blog.plover.com](https://blog.plover.com/lang/etym/nickname-names.html): Surnames from nicknames nobody has any more</small>
 
 
-| 🔥🔥: 741 \| 💬: [358](https://news.ycombinator.com/item?id=43000316) \| 🗓️ 2025-02-10
+| 🔥🔥: 756 \| 💬: [363](https://news.ycombinator.com/item?id=43000316) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/): Undergraduate shows that searches within hash tables can be much faster</small>
 
 
-| 🔥🔥: 592 \| 💬: [270](https://news.ycombinator.com/item?id=43002511) \| 🗓️ 2025-02-10
+| 🔥🔥: 633 \| 💬: [284](https://news.ycombinator.com/item?id=43002511) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/the-anthropic-economic-index): The Anthropic Economic Index</small>
 
 
-| 🔥🔥: 438 \| 💬: [191](https://news.ycombinator.com/item?id=43000529) \| 🗓️ 2025-02-10
+| 🔥🔥: 452 \| 💬: [195](https://news.ycombinator.com/item?id=43000529) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [myteslaexperience.com](https://www.myteslaexperience.com/2025-02-01/to-buy-a-tesla-mode-3-only-to-end-up-in-hell): To buy a Tesla Model 3, only to end up in hell</small>
 
 
-| 🔥🔥: 423 \| 💬: [521](https://news.ycombinator.com/item?id=42998024) \| 🗓️ 2025-02-10
+| 🔥🔥: 426 \| 💬: [522](https://news.ycombinator.com/item?id=42998024) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/selfhosted/comments/1ij7s4m/how_i_built_an_open_source_ai_tool_to_find_my/): I built an open source AI tool to find my autoimmune disease</small>
 
 
-| 🔥🔥: 369 \| 💬: [272](https://news.ycombinator.com/item?id=42999632) \| 🗓️ 2025-02-10
+| 🔥🔥: 372 \| 💬: [272](https://news.ycombinator.com/item?id=42999632) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [github.com](https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md): Show HN: HTML visualization of a PDF file's internal structure</small>
 
 
-| 🔥🔥: 339 \| 💬: [45](https://news.ycombinator.com/item?id=43000303) \| 🗓️ 2025-02-10
+| 🔥🔥: 350 \| 💬: [45](https://news.ycombinator.com/item?id=43000303) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -99,7 +99,7 @@ PDFSyntax是一个自包含的Python包，旨在**解析**和**可视化**PDF文
 <small>🔗 [jacek.zlydach.pl](https://jacek.zlydach.pl/blog/2019-07-31-ads-as-cancer.html): Advertising Is a Cancer on Society (2019)</small>
 
 
-| 🔥🔥: 268 \| 💬: [235](https://news.ycombinator.com/item?id=42999561) \| 🗓️ 2025-02-10
+| 🔥🔥: 269 \| 💬: [235](https://news.ycombinator.com/item?id=42999561) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -111,7 +111,7 @@ PDFSyntax是一个自包含的Python包，旨在**解析**和**可视化**PDF文
 <small>🔗 [kalzumeus.com](https://www.kalzumeus.com/2025/02/10/retraction-request-denied/): Bank CEO: Retract your debanking piece? Me: No</small>
 
 
-| 🔥🔥: 247 \| 💬: [69](https://news.ycombinator.com/item?id=43001441) \| 🗓️ 2025-02-10
+| 🔥🔥: 252 \| 💬: [70](https://news.ycombinator.com/item?id=43001441) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -123,7 +123,7 @@ PDFSyntax是一个自包含的Python包，旨在**解析**和**可视化**PDF文
 <small>🔗 [xpqz.github.io](https://xpqz.github.io/kbook/Introduction.html): What about K?</small>
 
 
-| 🔥🔥: 182 \| 💬: [114](https://news.ycombinator.com/item?id=42999650) \| 🗓️ 2025-02-10
+| 🔥🔥: 183 \| 💬: [115](https://news.ycombinator.com/item?id=42999650) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -135,7 +135,7 @@ k是一种由Arthur Whitney设计的快速向量导向语言家族，具有多�
 <small>🔗 [fetchfox.ai](https://fetchfox.ai/a/founding-engineer-compensation): 1% Equity for Founding Engineers Is BS</small>
 
 
-| 🔥🔥: 171 \| 💬: [222](https://news.ycombinator.com/item?id=43002999) \| 🗓️ 2025-02-10
+| 🔥🔥: 171 \| 💬: [223](https://news.ycombinator.com/item?id=43002999) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -147,7 +147,7 @@ k是一种由Arthur Whitney设计的快速向量导向语言家族，具有多�
 <small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/event/fosdem-2025-5356-the-state-of-rust-trying-to-catch-up-with-ada/): The state of Rust trying to catch up with Ada [video]</small>
 
 
-| 🔥🔥: 161 \| 💬: [168](https://news.ycombinator.com/item?id=42998061) \| 🗓️ 2025-02-10
+| 🔥🔥: 161 \| 💬: [169](https://news.ycombinator.com/item?id=42998061) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -159,7 +159,7 @@ k是一种由Arthur Whitney设计的快速向量导向语言家族，具有多�
 <small>🔗 [pcgamer.com](https://www.pcgamer.com/gaming-industry/a-2023-study-concluded-captchas-are-a-tracking-cookie-farm-for-profit-masquerading-as-a-security-service-that-made-us-spend-819-billion-hours-clicking-on-traffic-lights-to-generate-nearly-usd1-trillion-for-google/): CAPTCHAs: 'a tracking cookie farm for profit masquerading as a security service'</small>
 
 
-| 🔥🔥: 149 \| 💬: [93](https://news.ycombinator.com/item?id=43002440) \| 🗓️ 2025-02-10
+| 🔥🔥: 151 \| 💬: [93](https://news.ycombinator.com/item?id=43002440) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -171,7 +171,7 @@ k是一种由Arthur Whitney设计的快速向量导向语言家族，具有多�
 <small>🔗 [xstore.co.za](https://www.xstore.co.za/stuff/2024/01/kaspersky-finds-hardware-backdoor-in-5-generations-of-apple-silicon/): Kaspersky finds hardware backdoor in 5 generations of Apple Silicon (2024)</small>
 
 
-| 🔥🔥: 129 \| 💬: [32](https://news.ycombinator.com/item?id=43003230) \| 🗓️ 2025-02-10
+| 🔥🔥: 132 \| 💬: [32](https://news.ycombinator.com/item?id=43003230) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -179,7 +179,19 @@ k是一种由Arthur Whitney设计的快速向量导向语言家族，具有多�
 
 ---
 
-## <a name="14"></a>14. 开源安全与合规：介绍Opencomply 
+## <a name="14"></a>14. 我们用Go和WebAssembly替换了React前端 
+<small>🔗 [dagger.io](https://dagger.io/blog/replaced-react-with-go): We replaced our React front end with Go and WebAssembly</small>
+
+
+| 🔥🔥: 111 \| 💬: [37](https://news.ycombinator.com/item?id=43008190) \| 🗓️ 2025-02-10
+
+
+<br />
+最近，我们推出了Dagger Cloud v3，新的用户界面使用**WebAssembly**和**Go**编写。这个选择虽然看似奇怪，但我们希望通过统一代码库来提高开发效率，解决React版本的性能瓶颈。我们面临的挑战包括Go与WebAssembly的成熟度不足和内存限制，但通过使用Go-app框架，我们成功实现了一个快速、流畅的Web UI，最终提升了用户体验和工程效率。
+
+---
+
+## <a name="15"></a>15. 开源安全与合规：介绍Opencomply 
 <small>🔗 [opencomply.io](https://opencomply.io): Show HN: Open Source Security & Compliance: Introducing Opencomply</small>
 
 
@@ -191,11 +203,11 @@ Opencomply是一个旨在提升**安全性**和**合规性**的开源项目。�
 
 ---
 
-## <a name="15"></a>15. 在工厂工作：数字设备公司的故事 
+## <a name="16"></a>16. 在工厂工作：数字设备公司的故事 
 <small>🔗 [abortretry.fail](https://www.abortretry.fail/p/work-at-the-mill): Work at the Mill Or, the Story of Digital Equipment Corporation</small>
 
 
-| 🔥: 98 \| 💬: [39](https://news.ycombinator.com/item?id=43002906) \| 🗓️ 2025-02-10
+| 🔥🔥: 102 \| 💬: [41](https://news.ycombinator.com/item?id=43002906) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -203,11 +215,23 @@ Opencomply是一个旨在提升**安全性**和**合规性**的开源项目。�
 
 ---
 
-## <a name="16"></a>16. 通过潜在推理扩展测试时间计算：递归深度方法 
+## <a name="17"></a>17. 如何复制MUD服务器的工作原理 
+<small>🔗 [jackkelly.name](http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/): How Copyover MUD Servers Worked</small>
+
+
+| 🔥: 95 \| 💬: [33](https://news.ycombinator.com/item?id=43007769) \| 🗓️ 2025-02-10
+
+
+<br />
+在年轻时，作者Jack Kelly沉迷于MUD（多用户地下城），并逐渐对其开发产生了兴趣。MUD的构建者通常是玩家，使用游戏内命令编辑世界。为了避免每次修改都需重启服务器，MUD采用了**“copyover”**或**“热启动”**的技巧，允许服务器在保持连接的情况下替换自身。此过程涉及创建管道、分叉进程和执行新代码，确保服务器在新代码下继续运行旧状态。尽管这种方法很有效，但如果新服务器无法启动，状态将会丢失。作者希望记录这种传统的复制方式，并探讨现代的替代方案。
+
+---
+
+## <a name="18"></a>18. 通过潜在推理扩展测试时间计算：递归深度方法 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.05171): Scaling up test-time compute with latent reasoning: A recurrent depth approach</small>
 
 
-| 🔥: 89 \| 💬: [19](https://news.ycombinator.com/item?id=43004416) \| 🗓️ 2025-02-10
+| 🔥: 94 \| 💬: [20](https://news.ycombinator.com/item?id=43004416) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -215,11 +239,11 @@ Opencomply是一个旨在提升**安全性**和**合规性**的开源项目。�
 
 ---
 
-## <a name="17"></a>17. 构建实时功能的模式 
+## <a name="19"></a>19. 构建实时功能的模式 
 <small>🔗 [zknill.io](https://zknill.io/posts/patterns-for-building-realtime/): Patterns for Building Realtime Features</small>
 
 
-| 🔥: 88 \| 💬: [20](https://news.ycombinator.com/item?id=43004334) \| 🗓️ 2025-02-10
+| 🔥: 93 \| 💬: [21](https://news.ycombinator.com/item?id=43004334) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -227,7 +251,7 @@ Opencomply是一个旨在提升**安全性**和**合规性**的开源项目。�
 
 ---
 
-## <a name="18"></a>18. 全球三维地形探索器 
+## <a name="20"></a>20. 全球三维地形探索器 
 <small>🔗 [topography.jessekv.com](https://topography.jessekv.com): Show HN: Global 3D topography explorer</small>
 
 
@@ -239,19 +263,19 @@ Opencomply是一个旨在提升**安全性**和**合规性**的开源项目。�
 
 ---
 
-## <a name="19"></a>19. 如何复制MUD服务器的工作原理 
-<small>🔗 [jackkelly.name](http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/): How Copyover MUD Servers Worked</small>
+## <a name="21"></a>21. 为什么商业航空旅行自1960年代以来没有变得更快？ 
+<small>🔗 [engineering.mit.edu](https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/): Why hasn't commercial air travel gotten any faster since the 1960s? (2009)</small>
 
 
-| 🔥: 81 \| 💬: [25](https://news.ycombinator.com/item?id=43007769) \| 🗓️ 2025-02-10
+| 🔥: 84 \| 💬: [344](https://news.ycombinator.com/item?id=43000275) \| 🗓️ 2025-02-10
 
 
 <br />
-在年轻时，作者Jack Kelly沉迷于MUD（多用户地下城），并逐渐对其开发产生了兴趣。MUD的构建者通常是玩家，使用游戏内命令编辑世界。为了避免每次修改都需重启服务器，MUD采用了**“copyover”**或**“热启动”**的技巧，允许服务器在保持连接的情况下替换自身。此过程涉及创建管道、分叉进程和执行新代码，确保服务器在新代码下继续运行旧状态。尽管这种方法很有效，但如果新服务器无法启动，状态将会丢失。作者希望记录这种传统的复制方式，并探讨现代的替代方案。
+自1960年代以来，商业航空旅行的速度实际上有所下降，现代飞机的巡航速度在480到510节之间，而波音707的速度为525节。**燃油经济性**是主要原因，现代的高旁通发动机在较低速度下更有效率，且能减少飞机的重量和成本。尽管有如**协和飞机**这样的例外，但由于音爆问题，超音速飞行受到限制。未来可能会有一些小型超音速商务飞机，但其政治可行性仍待观察。
 
 ---
 
-## <a name="20"></a>20. Steam明确禁止游戏内广告 
+## <a name="22"></a>22. Steam明确禁止游戏内广告 
 <small>🔗 [pcgamer.com](https://www.pcgamer.com/gaming-industry/valve-bans-games-that-rely-on-in-game-ads-from-steam-so-no-watch-this-to-continue-playing-stuff-will-be-making-its-way-to-our-pcs/): Steam makes its ban on in-game ads explicit</small>
 
 
@@ -263,11 +287,11 @@ Steam最近在其开发者文档中新增了一页广告政策，**明确禁止*
 
 ---
 
-## <a name="21"></a>21. 在计算机代理的世界中SaaS的未来 
+## <a name="23"></a>23. 在计算机代理的世界中SaaS的未来 
 <small>🔗 [docs.google.com](https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing): What happens to SaaS in a world with computer-using agents?</small>
 
 
-| 🔥: 76 \| 💬: [66](https://news.ycombinator.com/item?id=43004373) \| 🗓️ 2025-02-10
+| 🔥: 76 \| 💬: [68](https://news.ycombinator.com/item?id=43004373) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -275,19 +299,7 @@ Steam最近在其开发者文档中新增了一页广告政策，**明确禁止*
 
 ---
 
-## <a name="22"></a>22. 为什么商业航空旅行自1960年代以来没有变得更快？ 
-<small>🔗 [engineering.mit.edu](https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/): Why hasn't commercial air travel gotten any faster since the 1960s? (2009)</small>
-
-
-| 🔥: 75 \| 💬: [300](https://news.ycombinator.com/item?id=43000275) \| 🗓️ 2025-02-10
-
-
-<br />
-自1960年代以来，商业航空旅行的速度实际上有所下降，现代飞机的巡航速度在480到510节之间，而波音707的速度为525节。**燃油经济性**是主要原因，现代的高旁通发动机在较低速度下更有效率，且能减少飞机的重量和成本。尽管有如**协和飞机**这样的例外，但由于音爆问题，超音速飞行受到限制。未来可能会有一些小型超音速商务飞机，但其政治可行性仍待观察。
-
----
-
-## <a name="23"></a>23. 关于USB软盘驱动器的故事（2004） 
+## <a name="24"></a>24. 关于USB软盘驱动器的故事（2004） 
 <small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20040409-00/?p=39873): A story about USB floppy drives (2004)</small>
 
 
@@ -299,7 +311,7 @@ Steam最近在其开发者文档中新增了一页广告政策，**明确禁止*
 
 ---
 
-## <a name="24"></a>24. 水坝工程奇迹：八只海狸在两天内完成七年计划，节省120万美元 
+## <a name="25"></a>25. 水坝工程奇迹：八只海狸在两天内完成七年计划，节省120万美元 
 <small>🔗 [nationalgeographic.com](https://www.nationalgeographic.com/animals/article/beaver-dam-czech-republic): Beavers finish seven-year dam project in two days saving – $1M</small>
 
 
@@ -308,17 +320,5 @@ Steam最近在其开发者文档中新增了一页广告政策，**明确禁止*
 
 <br />
 捷克共和国的布尔迪地区，八只海狸在一夜之间完成了一个停滞七年的水坝项目，节省了政府120万美元。海狸作为**生态工程师**，通过建造水坝创造了湿地，促进了多种生物的栖息和生态平衡。尽管有人质疑它们的工作是否真的是“过夜完成”，但海狸的能力和对生态的贡献无可置疑。
-
----
-
-## <a name="25"></a>25. 地球内核可能发生形状变化，科学家称 
-<small>🔗 [bbc.co.uk](https://www.bbc.co.uk/news/articles/c4gx37ky3gyo): Earth's inner core may have changed shape, say scientists</small>
-
-
-| 🔥: 49 \| 💬: [35](https://news.ycombinator.com/item?id=43002130) \| 🗓️ 2025-02-10
-
-
-<br />
-地球的**内核**在过去20年中可能发生了形状变化，科学家发现其边缘在某些地方可能变形超过100米。内核的运动对地球的**磁场**至关重要，保护生命免受太阳辐射。研究表明，内核的变化可能与**外核**的液态流动及不均匀的重力场有关。尽管这些发现可能不会立即影响我们的生活，但它们有助于理解地球内部的神秘现象。
 
 ---
