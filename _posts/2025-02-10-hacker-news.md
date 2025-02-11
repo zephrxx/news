@@ -11,8 +11,8 @@ tags:
 1. 从不再流行的昵称看姓氏的演变；
 1. 购买特斯拉Model 3，结果却陷入地狱；
 1. 人类经济指数；
+1. 本科生颠覆40年数据科学猜想；
 1. 我构建了一个开源AI工具来寻找我的自身免疫疾病；
-1. HTML可视化PDF文件内部结构；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [blog.plover.com](https://blog.plover.com/lang/etym/nickname-names.html): Surnames from nicknames nobody has any more</small>
 
 
-| 🔥🔥: 630 \| 💬: [308](https://news.ycombinator.com/item?id=43000316) \| 🗓️ 2025-02-10
+| 🔥🔥: 666 \| 💬: [323](https://news.ycombinator.com/item?id=43000316) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [myteslaexperience.com](https://www.myteslaexperience.com/2025-02-01/to-buy-a-tesla-mode-3-only-to-end-up-in-hell): To buy a Tesla Model 3, only to end up in hell</small>
 
 
-| 🔥🔥: 414 \| 💬: [501](https://news.ycombinator.com/item?id=42998024) \| 🗓️ 2025-02-10
+| 🔥🔥: 417 \| 💬: [511](https://news.ycombinator.com/item?id=42998024) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/the-anthropic-economic-index): The Anthropic Economic Index</small>
 
 
-| 🔥🔥: 369 \| 💬: [177](https://news.ycombinator.com/item?id=43000529) \| 🗓️ 2025-02-10
+| 🔥🔥: 392 \| 💬: [184](https://news.ycombinator.com/item?id=43000529) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -59,35 +59,11 @@ tags:
 
 ---
 
-## <a name="4"></a>4. 我构建了一个开源AI工具来寻找我的自身免疫疾病 
-<small>🔗 [old.reddit.com](https://old.reddit.com/r/selfhosted/comments/1ij7s4m/how_i_built_an_open_source_ai_tool_to_find_my/): I built an open source AI tool to find my autoimmune disease</small>
+## <a name="4"></a>4. 本科生颠覆40年数据科学猜想 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/): Undergraduate shows that searches within hash tables can be much faster</small>
 
 
-| 🔥🔥: 344 \| 💬: [254](https://news.ycombinator.com/item?id=42999632) \| 🗓️ 2025-02-10
-
-
-<br />
-经过五年的健康挣扎和超过30次医院就诊后，我创建了一个开源AI工具，旨在帮助那些面临类似困境的人。这个工具可以**上传医疗记录**并自动解析实验室结果，帮助用户**分析症状**和检测数据的变化。我的经历显示，医生往往只关注症状的某一部分，而这个工具则试图整合所有信息，提供更全面的诊断支持。
-
----
-
-## <a name="5"></a>5. HTML可视化PDF文件内部结构 
-<small>🔗 [github.com](https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md): Show HN: HTML visualization of a PDF file's internal structure</small>
-
-
-| 🔥🔥: 295 \| 💬: [40](https://news.ycombinator.com/item?id=43000303) \| 🗓️ 2025-02-10
-
-
-<br />
-PDFSyntax是一个自包含的Python包，旨在**解析**和**可视化**PDF文件的内部结构。它通过生成静态HTML内容，提供了对PDF数据的增强展示，包括反向索引、页面索引和对象流的提取。用户可以通过简单的命令安装并使用该工具，尽管目前不支持加密文件。该项目仍在不断更新中，未来将添加更多功能。
-
----
-
-## <a name="6"></a>6. 本科生颠覆40年数据科学猜想 
-<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/): Undergraduate Upends a 40-Year-Old Data Science Conjecture</small>
-
-
-| 🔥🔥: 283 \| 💬: [122](https://news.ycombinator.com/item?id=43002511) \| 🗓️ 2025-02-10
+| 🔥🔥: 367 \| 💬: [155](https://news.ycombinator.com/item?id=43002511) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -95,11 +71,35 @@ PDFSyntax是一个自包含的Python包，旨在**解析**和**可视化**PDF文
 
 ---
 
+## <a name="5"></a>5. 我构建了一个开源AI工具来寻找我的自身免疫疾病 
+<small>🔗 [old.reddit.com](https://old.reddit.com/r/selfhosted/comments/1ij7s4m/how_i_built_an_open_source_ai_tool_to_find_my/): I built an open source AI tool to find my autoimmune disease</small>
+
+
+| 🔥🔥: 353 \| 💬: [257](https://news.ycombinator.com/item?id=42999632) \| 🗓️ 2025-02-10
+
+
+<br />
+经过五年的健康挣扎和超过30次医院就诊后，我创建了一个开源AI工具，旨在帮助那些面临类似困境的人。这个工具可以**上传医疗记录**并自动解析实验室结果，帮助用户**分析症状**和检测数据的变化。我的经历显示，医生往往只关注症状的某一部分，而这个工具则试图整合所有信息，提供更全面的诊断支持。
+
+---
+
+## <a name="6"></a>6. HTML可视化PDF文件内部结构 
+<small>🔗 [github.com](https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md): Show HN: HTML visualization of a PDF file's internal structure</small>
+
+
+| 🔥🔥: 305 \| 💬: [42](https://news.ycombinator.com/item?id=43000303) \| 🗓️ 2025-02-10
+
+
+<br />
+PDFSyntax是一个自包含的Python包，旨在**解析**和**可视化**PDF文件的内部结构。它通过生成静态HTML内容，提供了对PDF数据的增强展示，包括反向索引、页面索引和对象流的提取。用户可以通过简单的命令安装并使用该工具，尽管目前不支持加密文件。该项目仍在不断更新中，未来将添加更多功能。
+
+---
+
 ## <a name="7"></a>7. 广告是社会的癌症 
 <small>🔗 [jacek.zlydach.pl](https://jacek.zlydach.pl/blog/2019-07-31-ads-as-cancer.html): Advertising Is a Cancer on Society (2019)</small>
 
 
-| 🔥🔥: 263 \| 💬: [233](https://news.ycombinator.com/item?id=42999561) \| 🗓️ 2025-02-10
+| 🔥🔥: 263 \| 💬: [234](https://news.ycombinator.com/item?id=42999561) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -111,7 +111,7 @@ PDFSyntax是一个自包含的Python包，旨在**解析**和**可视化**PDF文
 <small>🔗 [kalzumeus.com](https://www.kalzumeus.com/2025/02/10/retraction-request-denied/): Bank CEO: Retract your debanking piece? Me: No</small>
 
 
-| 🔥🔥: 209 \| 💬: [63](https://news.ycombinator.com/item?id=43001441) \| 🗓️ 2025-02-10
+| 🔥🔥: 223 \| 💬: [65](https://news.ycombinator.com/item?id=43001441) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -123,7 +123,7 @@ PDFSyntax是一个自包含的Python包，旨在**解析**和**可视化**PDF文
 <small>🔗 [xpqz.github.io](https://xpqz.github.io/kbook/Introduction.html): What about K?</small>
 
 
-| 🔥🔥: 168 \| 💬: [96](https://news.ycombinator.com/item?id=42999650) \| 🗓️ 2025-02-10
+| 🔥🔥: 169 \| 💬: [99](https://news.ycombinator.com/item?id=42999650) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -135,7 +135,7 @@ k是一种由Arthur Whitney设计的快速向量导向语言家族，具有多�
 <small>🔗 [fetchfox.ai](https://fetchfox.ai/a/founding-engineer-compensation): 1% Equity for Founding Engineers Is BS</small>
 
 
-| 🔥🔥: 164 \| 💬: [213](https://news.ycombinator.com/item?id=43002999) \| 🗓️ 2025-02-10
+| 🔥🔥: 166 \| 💬: [217](https://news.ycombinator.com/item?id=43002999) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -147,7 +147,7 @@ k是一种由Arthur Whitney设计的快速向量导向语言家族，具有多�
 <small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/event/fosdem-2025-5356-the-state-of-rust-trying-to-catch-up-with-ada/): The state of Rust trying to catch up with Ada [video]</small>
 
 
-| 🔥🔥: 155 \| 💬: [155](https://news.ycombinator.com/item?id=42998061) \| 🗓️ 2025-02-10
+| 🔥🔥: 157 \| 💬: [160](https://news.ycombinator.com/item?id=42998061) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -159,7 +159,7 @@ k是一种由Arthur Whitney设计的快速向量导向语言家族，具有多�
 <small>🔗 [xstore.co.za](https://www.xstore.co.za/stuff/2024/01/kaspersky-finds-hardware-backdoor-in-5-generations-of-apple-silicon/): Kaspersky finds hardware backdoor in 5 generations of Apple Silicon (2024)</small>
 
 
-| 🔥🔥: 116 \| 💬: [31](https://news.ycombinator.com/item?id=43003230) \| 🗓️ 2025-02-10
+| 🔥🔥: 123 \| 💬: [31](https://news.ycombinator.com/item?id=43003230) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -167,7 +167,19 @@ k是一种由Arthur Whitney设计的快速向量导向语言家族，具有多�
 
 ---
 
-## <a name="13"></a>13. 开源安全与合规：介绍Opencomply 
+## <a name="13"></a>13. CAPTCHA：伪装成安全服务的追踪Cookie农场 
+<small>🔗 [pcgamer.com](https://www.pcgamer.com/gaming-industry/a-2023-study-concluded-captchas-are-a-tracking-cookie-farm-for-profit-masquerading-as-a-security-service-that-made-us-spend-819-billion-hours-clicking-on-traffic-lights-to-generate-nearly-usd1-trillion-for-google/): CAPTCHAs: 'a tracking cookie farm for profit masquerading as a security service'</small>
+
+
+| 🔥🔥: 112 \| 💬: [73](https://news.ycombinator.com/item?id=43002440) \| 🗓️ 2025-02-10
+
+
+<br />
+一项来自加州大学欧文分校的研究表明，**CAPTCHA**不仅无法有效防止机器人流量，还引发了隐私担忧，浪费了数百万小时的时间，并为谷歌创造了近一万亿美元的数据。研究指出，谷歌的**reCAPTCHA**通过追踪Cookie和图像数据为广告定向和AI模型训练提供价值，实际上是一个以盈利为目的的追踪工具。研究还发现，机器人在完成CAPTCHA时比人类更快更准确，暗示其安全性和功能性值得质疑。研究者呼吁应淘汰reCAPTCHA，因其对互联网的真正贡献微乎其微。
+
+---
+
+## <a name="14"></a>14. 开源安全与合规：介绍Opencomply 
 <small>🔗 [opencomply.io](https://opencomply.io): Show HN: Open Source Security & Compliance: Introducing Opencomply</small>
 
 
@@ -176,18 +188,6 @@ k是一种由Arthur Whitney设计的快速向量导向语言家族，具有多�
 
 <br />
 Opencomply是一个旨在提升**安全性**和**合规性**的开源项目。它提供了一种简化的方式来管理和监控企业的合规需求，帮助用户更好地应对复杂的安全挑战。通过Opencomply，用户可以实现更高效的合规流程，确保在快速变化的环境中保持安全。
-
----
-
-## <a name="14"></a>14. CAPTCHA：伪装成安全服务的追踪Cookie农场 
-<small>🔗 [pcgamer.com](https://www.pcgamer.com/gaming-industry/a-2023-study-concluded-captchas-are-a-tracking-cookie-farm-for-profit-masquerading-as-a-security-service-that-made-us-spend-819-billion-hours-clicking-on-traffic-lights-to-generate-nearly-usd1-trillion-for-google/): CAPTCHAs: 'a tracking cookie farm for profit masquerading as a security service'</small>
-
-
-| 🔥: 100 \| 💬: [69](https://news.ycombinator.com/item?id=43002440) \| 🗓️ 2025-02-10
-
-
-<br />
-一项来自加州大学欧文分校的研究表明，**CAPTCHA**不仅无法有效防止机器人流量，还引发了隐私担忧，浪费了数百万小时的时间，并为谷歌创造了近一万亿美元的数据。研究指出，谷歌的**reCAPTCHA**通过追踪Cookie和图像数据为广告定向和AI模型训练提供价值，实际上是一个以盈利为目的的追踪工具。研究还发现，机器人在完成CAPTCHA时比人类更快更准确，暗示其安全性和功能性值得质疑。研究者呼吁应淘汰reCAPTCHA，因其对互联网的真正贡献微乎其微。
 
 ---
 
@@ -207,7 +207,7 @@ Steam最近在其开发者文档中新增了一页广告政策，**明确禁止*
 <small>🔗 [topography.jessekv.com](https://topography.jessekv.com): Show HN: Global 3D topography explorer</small>
 
 
-| 🔥: 67 \| 💬: [28](https://news.ycombinator.com/item?id=43001688) \| 🗓️ 2025-02-10
+| 🔥: 73 \| 💬: [29](https://news.ycombinator.com/item?id=43001688) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -219,7 +219,7 @@ Steam最近在其开发者文档中新增了一页广告政策，**明确禁止*
 <small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20040409-00/?p=39873): A story about USB floppy drives (2004)</small>
 
 
-| 🔥: 67 \| 💬: [36](https://news.ycombinator.com/item?id=43002426) \| 🗓️ 2025-02-10
+| 🔥: 68 \| 💬: [39](https://news.ycombinator.com/item?id=43002426) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -227,7 +227,55 @@ Steam最近在其开发者文档中新增了一页广告政策，**明确禁止*
 
 ---
 
-## <a name="18"></a>18. 水坝工程奇迹：八只海狸在两天内完成七年计划，节省120万美元 
+## <a name="18"></a>18. 通过潜在推理扩展测试时间计算：递归深度方法 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2502.05171): Scaling up test-time compute with latent reasoning: A recurrent depth approach</small>
+
+
+| 🔥: 66 \| 💬: [10](https://news.ycombinator.com/item?id=43004416) \| 🗓️ 2025-02-10
+
+
+<br />
+本文研究了一种新颖的语言模型架构，能够通过在潜在空间中隐式推理来扩展测试时间计算。该模型通过迭代递归块，在测试时展开到任意深度，与主流推理模型不同，它不依赖于生成更多的标记。该方法无需特殊训练数据，适用于小上下文窗口，并能捕捉难以用语言表达的推理类型。我们将一个概念验证模型扩展到35亿参数和8000亿标记，结果显示该模型在推理基准测试中的表现显著提升，计算负载可达到相当于500亿参数的水平。
+
+---
+
+## <a name="19"></a>19. 在工厂工作：数字设备公司的故事 
+<small>🔗 [abortretry.fail](https://www.abortretry.fail/p/work-at-the-mill): Work at the Mill Or, the Story of Digital Equipment Corporation</small>
+
+
+| 🔥: 64 \| 💬: [25](https://news.ycombinator.com/item?id=43002906) \| 🗓️ 2025-02-10
+
+
+<br />
+肯尼斯·哈里·奥尔森于1926年出生于康涅狄格州，他对电子技术的热爱促使他在二战后进入麻省理工学院，参与了**Whirlwind**计算机的开发。1957年，他创立了**数字设备公司（DEC）**，专注于小型互动计算机的生产。DEC推出的**PDP-1**计算机以其简单易用和相对低廉的价格，开创了个人计算机的新纪元，成为计算机历史上的重要里程碑。
+
+---
+
+## <a name="20"></a>20. 在计算机代理的世界中SaaS的未来 
+<small>🔗 [docs.google.com](https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing): What happens to SaaS in a world with computer-using agents?</small>
+
+
+| 🔥: 63 \| 💬: [50](https://news.ycombinator.com/item?id=43004373) \| 🗓️ 2025-02-10
+
+
+<br />
+随着**计算机代理**的兴起，SaaS（软件即服务）将面临新的挑战和机遇。这些代理可能会改变用户与软件的互动方式，提高效率和个性化体验。企业需要适应这一变化，以保持竞争力并满足不断变化的市场需求。
+
+---
+
+## <a name="21"></a>21. 构建实时功能的模式 
+<small>🔗 [zknill.io](https://zknill.io/posts/patterns-for-building-realtime/): Patterns for Building Realtime Features</small>
+
+
+| 🔥: 61 \| 💬: [15](https://news.ycombinator.com/item?id=43004334) \| 🗓️ 2025-02-10
+
+
+<br />
+实时功能使应用程序显得现代、协作且与时俱进。这些功能需要在用户触发更改时，实时共享数据。主要有几种模式：**poke/pull**模式通过通知客户端获取更新，容易集成但可能导致同时请求的“fan-out”问题；**push state**模式直接推送更新状态，减少了不同步的风险，但在状态较大时不易处理；**push ops**模式则发送操作，减少数据传输量，客户端需合并这些操作；**event sourcing**模式则发送事件，客户端需自行处理逻辑。不同的传输方式（如websockets、sse等）各有优缺点，Pub/Sub提供者可以帮助处理连接和数据分发。
+
+---
+
+## <a name="22"></a>22. 水坝工程奇迹：八只海狸在两天内完成七年计划，节省120万美元 
 <small>🔗 [nationalgeographic.com](https://www.nationalgeographic.com/animals/article/beaver-dam-czech-republic): Beavers finish seven-year dam project in two days saving – $1M</small>
 
 
@@ -239,74 +287,26 @@ Steam最近在其开发者文档中新增了一页广告政策，**明确禁止*
 
 ---
 
-## <a name="19"></a>19. 在计算机代理的世界中SaaS的未来 
-<small>🔗 [docs.google.com](https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing): What Happens to SaaS in a World with Computer Using Agents?</small>
-
-
-| 🔥: 58 \| 💬: [44](https://news.ycombinator.com/item?id=43004373) \| 🗓️ 2025-02-10
-
-
-<br />
-随着**计算机代理**的兴起，SaaS（软件即服务）将面临新的挑战和机遇。这些代理可能会改变用户与软件的互动方式，提高效率和个性化体验。企业需要适应这一变化，以保持竞争力并满足不断变化的市场需求。
-
----
-
-## <a name="20"></a>20. 通过潜在推理扩展测试时间计算：递归深度方法 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2502.05171): Scaling Up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach</small>
-
-
-| 🔥: 56 \| 💬: [7](https://news.ycombinator.com/item?id=43004416) \| 🗓️ 2025-02-10
-
-
-<br />
-本文研究了一种新颖的语言模型架构，能够通过在潜在空间中隐式推理来扩展测试时间计算。该模型通过迭代递归块，在测试时展开到任意深度，与主流推理模型不同，它不依赖于生成更多的标记。该方法无需特殊训练数据，适用于小上下文窗口，并能捕捉难以用语言表达的推理类型。我们将一个概念验证模型扩展到35亿参数和8000亿标记，结果显示该模型在推理基准测试中的表现显著提升，计算负载可达到相当于500亿参数的水平。
-
----
-
-## <a name="21"></a>21. 在工厂工作：数字设备公司的故事 
-<small>🔗 [abortretry.fail](https://www.abortretry.fail/p/work-at-the-mill): Work at the Mill Or, the Story of Digital Equipment Corporation</small>
-
-
-| 🔥: 52 \| 💬: [22](https://news.ycombinator.com/item?id=43002906) \| 🗓️ 2025-02-10
-
-
-<br />
-肯尼斯·哈里·奥尔森于1926年出生于康涅狄格州，他对电子技术的热爱促使他在二战后进入麻省理工学院，参与了**Whirlwind**计算机的开发。1957年，他创立了**数字设备公司（DEC）**，专注于小型互动计算机的生产。DEC推出的**PDP-1**计算机以其简单易用和相对低廉的价格，开创了个人计算机的新纪元，成为计算机历史上的重要里程碑。
-
----
-
-## <a name="22"></a>22. 地球内核可能发生形状变化，科学家称 
-<small>🔗 [bbc.co.uk](https://www.bbc.co.uk/news/articles/c4gx37ky3gyo): Earth's inner core may have changed shape, say scientists</small>
-
-
-| 🔥: 45 \| 💬: [32](https://news.ycombinator.com/item?id=43002130) \| 🗓️ 2025-02-10
-
-
-<br />
-地球的**内核**在过去20年中可能发生了形状变化，科学家发现其边缘在某些地方可能变形超过100米。内核的运动对地球的**磁场**至关重要，保护生命免受太阳辐射。研究表明，内核的变化可能与**外核**的液态流动及不均匀的重力场有关。尽管这些发现可能不会立即影响我们的生活，但它们有助于理解地球内部的神秘现象。
-
----
-
-## <a name="23"></a>23. 构建实时功能的模式 
-<small>🔗 [zknill.io](https://zknill.io/posts/patterns-for-building-realtime/): Patterns for Building Realtime Features</small>
-
-
-| 🔥: 44 \| 💬: [11](https://news.ycombinator.com/item?id=43004334) \| 🗓️ 2025-02-10
-
-
-<br />
-实时功能使应用程序显得现代、协作且与时俱进。这些功能需要在用户触发更改时，实时共享数据。主要有几种模式：**poke/pull**模式通过通知客户端获取更新，容易集成但可能导致同时请求的“fan-out”问题；**push state**模式直接推送更新状态，减少了不同步的风险，但在状态较大时不易处理；**push ops**模式则发送操作，减少数据传输量，客户端需合并这些操作；**event sourcing**模式则发送事件，客户端需自行处理逻辑。不同的传输方式（如websockets、sse等）各有优缺点，Pub/Sub提供者可以帮助处理连接和数据分发。
-
----
-
-## <a name="24"></a>24. 为什么商业航空旅行自1960年代以来没有变得更快？ 
+## <a name="23"></a>23. 为什么商业航空旅行自1960年代以来没有变得更快？ 
 <small>🔗 [engineering.mit.edu](https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/): Why hasn't commercial air travel gotten any faster since the 1960s? (2009)</small>
 
 
-| 🔥: 43 \| 💬: [128](https://news.ycombinator.com/item?id=43000275) \| 🗓️ 2025-02-10
+| 🔥: 50 \| 💬: [154](https://news.ycombinator.com/item?id=43000275) \| 🗓️ 2025-02-10
 
 
 <br />
 自1960年代以来，商业航空旅行的速度实际上有所下降，现代飞机的巡航速度在480到510节之间，而波音707的速度为525节。**燃油经济性**是主要原因，现代的高旁通发动机在较低速度下更有效率，且能减少飞机的重量和成本。尽管有如**协和飞机**这样的例外，但由于音爆问题，超音速飞行受到限制。未来可能会有一些小型超音速商务飞机，但其政治可行性仍待观察。
+
+---
+
+## <a name="24"></a>24. 地球内核可能发生形状变化，科学家称 
+<small>🔗 [bbc.co.uk](https://www.bbc.co.uk/news/articles/c4gx37ky3gyo): Earth's inner core may have changed shape, say scientists</small>
+
+
+| 🔥: 47 \| 💬: [33](https://news.ycombinator.com/item?id=43002130) \| 🗓️ 2025-02-10
+
+
+<br />
+地球的**内核**在过去20年中可能发生了形状变化，科学家发现其边缘在某些地方可能变形超过100米。内核的运动对地球的**磁场**至关重要，保护生命免受太阳辐射。研究表明，内核的变化可能与**外核**的液态流动及不均匀的重力场有关。尽管这些发现可能不会立即影响我们的生活，但它们有助于理解地球内部的神秘现象。
 
 ---
