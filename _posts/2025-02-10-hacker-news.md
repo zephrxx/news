@@ -27,7 +27,7 @@ tags:
 <small>🔗 [blog.plover.com](https://blog.plover.com/lang/etym/nickname-names.html): Surnames from nicknames nobody has any more</small>
 
 
-| 🔥🔥: 767 \| 💬: [366](https://news.ycombinator.com/item?id=43000316) \| 🗓️ 2025-02-10
+| 🔥🔥: 783 \| 💬: [372](https://news.ycombinator.com/item?id=43000316) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/): Undergraduate shows that searches within hash tables can be much faster</small>
 
 
-| 🔥🔥: 667 \| 💬: [300](https://news.ycombinator.com/item?id=43002511) \| 🗓️ 2025-02-10
+| 🔥🔥: 745 \| 💬: [320](https://news.ycombinator.com/item?id=43002511) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/the-anthropic-economic-index): The Anthropic Economic Index</small>
 
 
-| 🔥🔥: 458 \| 💬: [195](https://news.ycombinator.com/item?id=43000529) \| 🗓️ 2025-02-10
+| 🔥🔥: 472 \| 💬: [197](https://news.ycombinator.com/item?id=43000529) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [myteslaexperience.com](https://www.myteslaexperience.com/2025-02-01/to-buy-a-tesla-mode-3-only-to-end-up-in-hell): To buy a Tesla Model 3, only to end up in hell</small>
 
 
-| 🔥🔥: 428 \| 💬: [522](https://news.ycombinator.com/item?id=42998024) \| 🗓️ 2025-02-10
+| 🔥🔥: 428 \| 💬: [526](https://news.ycombinator.com/item?id=42998024) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/selfhosted/comments/1ij7s4m/how_i_built_an_open_source_ai_tool_to_find_my/): I built an open source AI tool to find my autoimmune disease</small>
 
 
-| 🔥🔥: 373 \| 💬: [273](https://news.ycombinator.com/item?id=42999632) \| 🗓️ 2025-02-10
+| 🔥🔥: 374 \| 💬: [273](https://news.ycombinator.com/item?id=42999632) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [github.com](https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md): Show HN: HTML visualization of a PDF file's internal structure</small>
 
 
-| 🔥🔥: 355 \| 💬: [45](https://news.ycombinator.com/item?id=43000303) \| 🗓️ 2025-02-10
+| 🔥🔥: 364 \| 💬: [46](https://news.ycombinator.com/item?id=43000303) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -99,7 +99,7 @@ PDFSyntax是一个自包含的Python包，旨在**解析**和**可视化**PDF文
 <small>🔗 [jacek.zlydach.pl](https://jacek.zlydach.pl/blog/2019-07-31-ads-as-cancer.html): Advertising Is a Cancer on Society (2019)</small>
 
 
-| 🔥🔥: 271 \| 💬: [235](https://news.ycombinator.com/item?id=42999561) \| 🗓️ 2025-02-10
+| 🔥🔥: 271 \| 💬: [237](https://news.ycombinator.com/item?id=42999561) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -111,7 +111,7 @@ PDFSyntax是一个自包含的Python包，旨在**解析**和**可视化**PDF文
 <small>🔗 [kalzumeus.com](https://www.kalzumeus.com/2025/02/10/retraction-request-denied/): Bank CEO: Retract your debanking piece? Me: No</small>
 
 
-| 🔥🔥: 255 \| 💬: [70](https://news.ycombinator.com/item?id=43001441) \| 🗓️ 2025-02-10
+| 🔥🔥: 256 \| 💬: [70](https://news.ycombinator.com/item?id=43001441) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -119,7 +119,19 @@ PDFSyntax是一个自包含的Python包，旨在**解析**和**可视化**PDF文
 
 ---
 
-## <a name="9"></a>9. 关于k语言的探索 
+## <a name="9"></a>9. 我们用Go和WebAssembly替换了React前端 
+<small>🔗 [dagger.io](https://dagger.io/blog/replaced-react-with-go): We replaced our React front end with Go and WebAssembly</small>
+
+
+| 🔥🔥: 191 \| 💬: [148](https://news.ycombinator.com/item?id=43008190) \| 🗓️ 2025-02-10
+
+
+<br />
+最近，我们推出了Dagger Cloud v3，新的用户界面使用**WebAssembly**和**Go**编写。这个选择虽然看似奇怪，但我们希望通过统一代码库来提高开发效率，解决React版本的性能瓶颈。我们面临的挑战包括Go与WebAssembly的成熟度不足和内存限制，但通过使用Go-app框架，我们成功实现了一个快速、流畅的Web UI，最终提升了用户体验和工程效率。
+
+---
+
+## <a name="10"></a>10. 关于k语言的探索 
 <small>🔗 [xpqz.github.io](https://xpqz.github.io/kbook/Introduction.html): What about K?</small>
 
 
@@ -131,7 +143,7 @@ k是一种由Arthur Whitney设计的快速向量导向语言家族，具有多�
 
 ---
 
-## <a name="10"></a>10. 创始工程师1%股权的公平性问题 
+## <a name="11"></a>11. 创始工程师1%股权的公平性问题 
 <small>🔗 [fetchfox.ai](https://fetchfox.ai/a/founding-engineer-compensation): 1% Equity for Founding Engineers Is BS</small>
 
 
@@ -140,18 +152,6 @@ k是一种由Arthur Whitney设计的快速向量导向语言家族，具有多�
 
 <br />
 创始工程师的薪酬模式存在严重不公，通常他们的股权在0.5%到2%之间，远低于创始人。**风险与回报不成比例**，而且流动性差。FetchFox提出新的补偿模式，提供5%到25%的股权，并采用**加密代币**，实现更好的流动性和公平性。尽管存在一些风险和市场认知问题，这种模式可能吸引那些愿意接受新挑战的优秀工程师。
-
----
-
-## <a name="11"></a>11. 我们用Go和WebAssembly替换了React前端 
-<small>🔗 [dagger.io](https://dagger.io/blog/replaced-react-with-go): We replaced our React front end with Go and WebAssembly</small>
-
-
-| 🔥🔥: 171 \| 💬: [92](https://news.ycombinator.com/item?id=43008190) \| 🗓️ 2025-02-10
-
-
-<br />
-最近，我们推出了Dagger Cloud v3，新的用户界面使用**WebAssembly**和**Go**编写。这个选择虽然看似奇怪，但我们希望通过统一代码库来提高开发效率，解决React版本的性能瓶颈。我们面临的挑战包括Go与WebAssembly的成熟度不足和内存限制，但通过使用Go-app框架，我们成功实现了一个快速、流畅的Web UI，最终提升了用户体验和工程效率。
 
 ---
 
@@ -171,7 +171,7 @@ k是一种由Arthur Whitney设计的快速向量导向语言家族，具有多�
 <small>🔗 [pcgamer.com](https://www.pcgamer.com/gaming-industry/a-2023-study-concluded-captchas-are-a-tracking-cookie-farm-for-profit-masquerading-as-a-security-service-that-made-us-spend-819-billion-hours-clicking-on-traffic-lights-to-generate-nearly-usd1-trillion-for-google/): CAPTCHAs: 'a tracking cookie farm for profit masquerading as a security service'</small>
 
 
-| 🔥🔥: 153 \| 💬: [94](https://news.ycombinator.com/item?id=43002440) \| 🗓️ 2025-02-10
+| 🔥🔥: 155 \| 💬: [94](https://news.ycombinator.com/item?id=43002440) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -183,7 +183,7 @@ k是一种由Arthur Whitney设计的快速向量导向语言家族，具有多�
 <small>🔗 [xstore.co.za](https://www.xstore.co.za/stuff/2024/01/kaspersky-finds-hardware-backdoor-in-5-generations-of-apple-silicon/): Kaspersky finds hardware backdoor in 5 generations of Apple Silicon (2024)</small>
 
 
-| 🔥🔥: 134 \| 💬: [34](https://news.ycombinator.com/item?id=43003230) \| 🗓️ 2025-02-10
+| 🔥🔥: 138 \| 💬: [34](https://news.ycombinator.com/item?id=43003230) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -191,27 +191,27 @@ k是一种由Arthur Whitney设计的快速向量导向语言家族，具有多�
 
 ---
 
-## <a name="15"></a>15. 在工厂工作：数字设备公司的故事 
-<small>🔗 [abortretry.fail](https://www.abortretry.fail/p/work-at-the-mill): Work at the Mill Or, the Story of Digital Equipment Corporation</small>
-
-
-| 🔥🔥: 106 \| 💬: [42](https://news.ycombinator.com/item?id=43002906) \| 🗓️ 2025-02-10
-
-
-<br />
-肯尼斯·哈里·奥尔森于1926年出生于康涅狄格州，他对电子技术的热爱促使他在二战后进入麻省理工学院，参与了**Whirlwind**计算机的开发。1957年，他创立了**数字设备公司（DEC）**，专注于小型互动计算机的生产。DEC推出的**PDP-1**计算机以其简单易用和相对低廉的价格，开创了个人计算机的新纪元，成为计算机历史上的重要里程碑。
-
----
-
-## <a name="16"></a>16. 如何复制MUD服务器的工作原理 
+## <a name="15"></a>15. 如何复制MUD服务器的工作原理 
 <small>🔗 [jackkelly.name](http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/): How Copyover MUD Servers Worked</small>
 
 
-| 🔥🔥: 106 \| 💬: [36](https://news.ycombinator.com/item?id=43007769) \| 🗓️ 2025-02-10
+| 🔥🔥: 122 \| 💬: [38](https://news.ycombinator.com/item?id=43007769) \| 🗓️ 2025-02-10
 
 
 <br />
 在年轻时，作者Jack Kelly沉迷于MUD（多用户地下城），并逐渐对其开发产生了兴趣。MUD的构建者通常是玩家，使用游戏内命令编辑世界。为了避免每次修改都需重启服务器，MUD采用了**“copyover”**或**“热启动”**的技巧，允许服务器在保持连接的情况下替换自身。此过程涉及创建管道、分叉进程和执行新代码，确保服务器在新代码下继续运行旧状态。尽管这种方法很有效，但如果新服务器无法启动，状态将会丢失。作者希望记录这种传统的复制方式，并探讨现代的替代方案。
+
+---
+
+## <a name="16"></a>16. 在工厂工作：数字设备公司的故事 
+<small>🔗 [abortretry.fail](https://www.abortretry.fail/p/work-at-the-mill): Work at the Mill: The story of Digital Equipment Corporation</small>
+
+
+| 🔥🔥: 109 \| 💬: [45](https://news.ycombinator.com/item?id=43002906) \| 🗓️ 2025-02-10
+
+
+<br />
+肯尼斯·哈里·奥尔森于1926年出生于康涅狄格州，他对电子技术的热爱促使他在二战后进入麻省理工学院，参与了**Whirlwind**计算机的开发。1957年，他创立了**数字设备公司（DEC）**，专注于小型互动计算机的生产。DEC推出的**PDP-1**计算机以其简单易用和相对低廉的价格，开创了个人计算机的新纪元，成为计算机历史上的重要里程碑。
 
 ---
 
@@ -231,7 +231,7 @@ Opencomply是一个旨在提升**安全性**和**合规性**的开源项目。�
 <small>🔗 [zknill.io](https://zknill.io/posts/patterns-for-building-realtime/): Patterns for Building Realtime Features</small>
 
 
-| 🔥: 99 \| 💬: [22](https://news.ycombinator.com/item?id=43004334) \| 🗓️ 2025-02-10
+| 🔥🔥: 102 \| 💬: [25](https://news.ycombinator.com/item?id=43004334) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -243,7 +243,7 @@ Opencomply是一个旨在提升**安全性**和**合规性**的开源项目。�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.05171): Scaling up test-time compute with latent reasoning: A recurrent depth approach</small>
 
 
-| 🔥: 99 \| 💬: [20](https://news.ycombinator.com/item?id=43004416) \| 🗓️ 2025-02-10
+| 🔥🔥: 101 \| 💬: [20](https://news.ycombinator.com/item?id=43004416) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -255,7 +255,7 @@ Opencomply是一个旨在提升**安全性**和**合规性**的开源项目。�
 <small>🔗 [engineering.mit.edu](https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/): Why hasn't commercial air travel gotten any faster since the 1960s? (2009)</small>
 
 
-| 🔥: 87 \| 💬: [375](https://news.ycombinator.com/item?id=43000275) \| 🗓️ 2025-02-10
+| 🔥: 90 \| 💬: [391](https://news.ycombinator.com/item?id=43000275) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -267,7 +267,7 @@ Opencomply是一个旨在提升**安全性**和**合规性**的开源项目。�
 <small>🔗 [topography.jessekv.com](https://topography.jessekv.com): Show HN: Global 3D topography explorer</small>
 
 
-| 🔥: 86 \| 💬: [31](https://news.ycombinator.com/item?id=43001688) \| 🗓️ 2025-02-10
+| 🔥: 89 \| 💬: [31](https://news.ycombinator.com/item?id=43001688) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -275,11 +275,23 @@ Opencomply是一个旨在提升**安全性**和**合规性**的开源项目。�
 
 ---
 
-## <a name="22"></a>22. Steam明确禁止游戏内广告 
+## <a name="22"></a>22. 苹果软件更新“漏洞”重新启用苹果智能 
+<small>🔗 [lapcatsoftware.com](https://lapcatsoftware.com/articles/2025/2/3.html): Apple software update "bug" enables Apple Intelligence</small>
+
+
+| 🔥: 82 \| 💬: [70](https://news.ycombinator.com/item?id=43008422) \| 🗓️ 2025-02-10
+
+
+<br />
+最近的macOS 15.3.1和iOS 18.3.1更新使一些用户发现之前禁用的**苹果智能**功能被重新启用。更新后，用户在某些设备上看到“欢迎”屏幕，导致**苹果智能**自动开启。这种行为被认为是对用户不友好的，类似于之前的蓝牙自动启用问题。虽然蓝牙问题在新版本中得到解决，但**苹果智能**的重新启用让用户感到失望。
+
+---
+
+## <a name="23"></a>23. Steam明确禁止游戏内广告 
 <small>🔗 [pcgamer.com](https://www.pcgamer.com/gaming-industry/valve-bans-games-that-rely-on-in-game-ads-from-steam-so-no-watch-this-to-continue-playing-stuff-will-be-making-its-way-to-our-pcs/): Steam makes its ban on in-game ads explicit</small>
 
 
-| 🔥: 80 \| 💬: [47](https://news.ycombinator.com/item?id=42999661) \| 🗓️ 2025-02-10
+| 🔥: 81 \| 💬: [47](https://news.ycombinator.com/item?id=42999661) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -287,11 +299,11 @@ Steam最近在其开发者文档中新增了一页广告政策，**明确禁止*
 
 ---
 
-## <a name="23"></a>23. 在计算机代理的世界中SaaS的未来 
+## <a name="24"></a>24. 在计算机代理的世界中SaaS的未来 
 <small>🔗 [docs.google.com](https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing): What happens to SaaS in a world with computer-using agents?</small>
 
 
-| 🔥: 76 \| 💬: [69](https://news.ycombinator.com/item?id=43004373) \| 🗓️ 2025-02-10
+| 🔥: 76 \| 💬: [72](https://news.ycombinator.com/item?id=43004373) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -299,7 +311,7 @@ Steam最近在其开发者文档中新增了一页广告政策，**明确禁止*
 
 ---
 
-## <a name="24"></a>24. 关于USB软盘驱动器的故事（2004） 
+## <a name="25"></a>25. 关于USB软盘驱动器的故事（2004） 
 <small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20040409-00/?p=39873): A story about USB floppy drives (2004)</small>
 
 
@@ -308,17 +320,5 @@ Steam最近在其开发者文档中新增了一页广告政策，**明确禁止*
 
 <br />
 一位朋友曾参与USB规范的开发。在一次会议上，一家公司展示了他们的USB软盘驱动器，并提到他们为PC和Mac制作了两个版本。委员会成员对此感到困惑，因为根据规范，两个版本应该是相同的。公司代表解释说，两个驱动器在电子上完全相同，唯一的区别是Mac版本采用半透明蓝色塑料，且价格更高。这家公司并不是唯一一个试图利用iMac风格的塑料潮流的例子。
-
----
-
-## <a name="25"></a>25. 水坝工程奇迹：八只海狸在两天内完成七年计划，节省120万美元 
-<small>🔗 [nationalgeographic.com](https://www.nationalgeographic.com/animals/article/beaver-dam-czech-republic): Beavers finish seven-year dam project in two days saving – $1M</small>
-
-
-| 🔥: 58 \| 💬: [43](https://news.ycombinator.com/item?id=42999088) \| 🗓️ 2025-02-10
-
-
-<br />
-捷克共和国的布尔迪地区，八只海狸在一夜之间完成了一个停滞七年的水坝项目，节省了政府120万美元。海狸作为**生态工程师**，通过建造水坝创造了湿地，促进了多种生物的栖息和生态平衡。尽管有人质疑它们的工作是否真的是“过夜完成”，但海狸的能力和对生态的贡献无可置疑。
 
 ---
