@@ -27,7 +27,7 @@ tags:
 <small>🔗 [blog.plover.com](https://blog.plover.com/lang/etym/nickname-names.html): Surnames from nicknames nobody has any more</small>
 
 
-| 🔥🔥: 687 \| 💬: [339](https://news.ycombinator.com/item?id=43000316) \| 🗓️ 2025-02-10
+| 🔥🔥: 703 \| 💬: [351](https://news.ycombinator.com/item?id=43000316) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/): Undergraduate shows that searches within hash tables can be much faster</small>
 
 
-| 🔥🔥: 451 \| 💬: [202](https://news.ycombinator.com/item?id=43002511) \| 🗓️ 2025-02-10
+| 🔥🔥: 515 \| 💬: [235](https://news.ycombinator.com/item?id=43002511) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [myteslaexperience.com](https://www.myteslaexperience.com/2025-02-01/to-buy-a-tesla-mode-3-only-to-end-up-in-hell): To buy a Tesla Model 3, only to end up in hell</small>
 
 
-| 🔥🔥: 419 \| 💬: [515](https://news.ycombinator.com/item?id=42998024) \| 🗓️ 2025-02-10
+| 🔥🔥: 420 \| 💬: [520](https://news.ycombinator.com/item?id=42998024) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/the-anthropic-economic-index): The Anthropic Economic Index</small>
 
 
-| 🔥🔥: 401 \| 💬: [186](https://news.ycombinator.com/item?id=43000529) \| 🗓️ 2025-02-10
+| 🔥🔥: 414 \| 💬: [186](https://news.ycombinator.com/item?id=43000529) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/selfhosted/comments/1ij7s4m/how_i_built_an_open_source_ai_tool_to_find_my/): I built an open source AI tool to find my autoimmune disease</small>
 
 
-| 🔥🔥: 358 \| 💬: [260](https://news.ycombinator.com/item?id=42999632) \| 🗓️ 2025-02-10
+| 🔥🔥: 361 \| 💬: [266](https://news.ycombinator.com/item?id=42999632) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [github.com](https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md): Show HN: HTML visualization of a PDF file's internal structure</small>
 
 
-| 🔥🔥: 312 \| 💬: [43](https://news.ycombinator.com/item?id=43000303) \| 🗓️ 2025-02-10
+| 🔥🔥: 325 \| 💬: [44](https://news.ycombinator.com/item?id=43000303) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -99,7 +99,7 @@ PDFSyntax是一个自包含的Python包，旨在**解析**和**可视化**PDF文
 <small>🔗 [jacek.zlydach.pl](https://jacek.zlydach.pl/blog/2019-07-31-ads-as-cancer.html): Advertising Is a Cancer on Society (2019)</small>
 
 
-| 🔥🔥: 264 \| 💬: [234](https://news.ycombinator.com/item?id=42999561) \| 🗓️ 2025-02-10
+| 🔥🔥: 267 \| 💬: [235](https://news.ycombinator.com/item?id=42999561) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -111,7 +111,7 @@ PDFSyntax是一个自包含的Python包，旨在**解析**和**可视化**PDF文
 <small>🔗 [kalzumeus.com](https://www.kalzumeus.com/2025/02/10/retraction-request-denied/): Bank CEO: Retract your debanking piece? Me: No</small>
 
 
-| 🔥🔥: 229 \| 💬: [66](https://news.ycombinator.com/item?id=43001441) \| 🗓️ 2025-02-10
+| 🔥🔥: 236 \| 💬: [68](https://news.ycombinator.com/item?id=43001441) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -123,7 +123,7 @@ PDFSyntax是一个自包含的Python包，旨在**解析**和**可视化**PDF文
 <small>🔗 [xpqz.github.io](https://xpqz.github.io/kbook/Introduction.html): What about K?</small>
 
 
-| 🔥🔥: 172 \| 💬: [105](https://news.ycombinator.com/item?id=42999650) \| 🗓️ 2025-02-10
+| 🔥🔥: 178 \| 💬: [109](https://news.ycombinator.com/item?id=42999650) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -135,7 +135,7 @@ k是一种由Arthur Whitney设计的快速向量导向语言家族，具有多�
 <small>🔗 [fetchfox.ai](https://fetchfox.ai/a/founding-engineer-compensation): 1% Equity for Founding Engineers Is BS</small>
 
 
-| 🔥🔥: 168 \| 💬: [219](https://news.ycombinator.com/item?id=43002999) \| 🗓️ 2025-02-10
+| 🔥🔥: 171 \| 💬: [221](https://news.ycombinator.com/item?id=43002999) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -147,7 +147,7 @@ k是一种由Arthur Whitney设计的快速向量导向语言家族，具有多�
 <small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/event/fosdem-2025-5356-the-state-of-rust-trying-to-catch-up-with-ada/): The state of Rust trying to catch up with Ada [video]</small>
 
 
-| 🔥🔥: 158 \| 💬: [165](https://news.ycombinator.com/item?id=42998061) \| 🗓️ 2025-02-10
+| 🔥🔥: 160 \| 💬: [166](https://news.ycombinator.com/item?id=42998061) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -155,7 +155,19 @@ k是一种由Arthur Whitney设计的快速向量导向语言家族，具有多�
 
 ---
 
-## <a name="12"></a>12. 卡巴斯基发现苹果硅芯片中的硬件后门 
+## <a name="12"></a>12. CAPTCHA：伪装成安全服务的追踪Cookie农场 
+<small>🔗 [pcgamer.com](https://www.pcgamer.com/gaming-industry/a-2023-study-concluded-captchas-are-a-tracking-cookie-farm-for-profit-masquerading-as-a-security-service-that-made-us-spend-819-billion-hours-clicking-on-traffic-lights-to-generate-nearly-usd1-trillion-for-google/): CAPTCHAs: 'a tracking cookie farm for profit masquerading as a security service'</small>
+
+
+| 🔥🔥: 129 \| 💬: [81](https://news.ycombinator.com/item?id=43002440) \| 🗓️ 2025-02-10
+
+
+<br />
+一项来自加州大学欧文分校的研究表明，**CAPTCHA**不仅无法有效防止机器人流量，还引发了隐私担忧，浪费了数百万小时的时间，并为谷歌创造了近一万亿美元的数据。研究指出，谷歌的**reCAPTCHA**通过追踪Cookie和图像数据为广告定向和AI模型训练提供价值，实际上是一个以盈利为目的的追踪工具。研究还发现，机器人在完成CAPTCHA时比人类更快更准确，暗示其安全性和功能性值得质疑。研究者呼吁应淘汰reCAPTCHA，因其对互联网的真正贡献微乎其微。
+
+---
+
+## <a name="13"></a>13. 卡巴斯基发现苹果硅芯片中的硬件后门 
 <small>🔗 [xstore.co.za](https://www.xstore.co.za/stuff/2024/01/kaspersky-finds-hardware-backdoor-in-5-generations-of-apple-silicon/): Kaspersky finds hardware backdoor in 5 generations of Apple Silicon (2024)</small>
 
 
@@ -164,18 +176,6 @@ k是一种由Arthur Whitney设计的快速向量导向语言家族，具有多�
 
 <br />
 卡巴斯基在2023年12月27日宣布，发现了存在于五代苹果硅芯片（从A12到A16）中的**硬件后门**，允许第三方**远程访问**和控制受影响的设备。这一漏洞被称为CVE-2023-38606，可能是出于“安全通过模糊化”的原则而设计，最初用于测试或调试。该后门的存在使得攻击者能够利用多个**零日漏洞**，通过无点击的iMessage攻击传播恶意软件Triangulation。尽管苹果已修补相关漏洞，但后门的来源和目的仍然是个谜，且可能暗示未来的安全隐患。
-
----
-
-## <a name="13"></a>13. CAPTCHA：伪装成安全服务的追踪Cookie农场 
-<small>🔗 [pcgamer.com](https://www.pcgamer.com/gaming-industry/a-2023-study-concluded-captchas-are-a-tracking-cookie-farm-for-profit-masquerading-as-a-security-service-that-made-us-spend-819-billion-hours-clicking-on-traffic-lights-to-generate-nearly-usd1-trillion-for-google/): CAPTCHAs: 'a tracking cookie farm for profit masquerading as a security service'</small>
-
-
-| 🔥🔥: 118 \| 💬: [76](https://news.ycombinator.com/item?id=43002440) \| 🗓️ 2025-02-10
-
-
-<br />
-一项来自加州大学欧文分校的研究表明，**CAPTCHA**不仅无法有效防止机器人流量，还引发了隐私担忧，浪费了数百万小时的时间，并为谷歌创造了近一万亿美元的数据。研究指出，谷歌的**reCAPTCHA**通过追踪Cookie和图像数据为广告定向和AI模型训练提供价值，实际上是一个以盈利为目的的追踪工具。研究还发现，机器人在完成CAPTCHA时比人类更快更准确，暗示其安全性和功能性值得质疑。研究者呼吁应淘汰reCAPTCHA，因其对互联网的真正贡献微乎其微。
 
 ---
 
@@ -191,7 +191,19 @@ Opencomply是一个旨在提升**安全性**和**合规性**的开源项目。�
 
 ---
 
-## <a name="15"></a>15. Steam明确禁止游戏内广告 
+## <a name="15"></a>15. 在工厂工作：数字设备公司的故事 
+<small>🔗 [abortretry.fail](https://www.abortretry.fail/p/work-at-the-mill): Work at the Mill Or, the Story of Digital Equipment Corporation</small>
+
+
+| 🔥: 85 \| 💬: [33](https://news.ycombinator.com/item?id=43002906) \| 🗓️ 2025-02-10
+
+
+<br />
+肯尼斯·哈里·奥尔森于1926年出生于康涅狄格州，他对电子技术的热爱促使他在二战后进入麻省理工学院，参与了**Whirlwind**计算机的开发。1957年，他创立了**数字设备公司（DEC）**，专注于小型互动计算机的生产。DEC推出的**PDP-1**计算机以其简单易用和相对低廉的价格，开创了个人计算机的新纪元，成为计算机历史上的重要里程碑。
+
+---
+
+## <a name="16"></a>16. Steam明确禁止游戏内广告 
 <small>🔗 [pcgamer.com](https://www.pcgamer.com/gaming-industry/valve-bans-games-that-rely-on-in-game-ads-from-steam-so-no-watch-this-to-continue-playing-stuff-will-be-making-its-way-to-our-pcs/): Steam makes its ban on in-game ads explicit</small>
 
 
@@ -203,11 +215,11 @@ Steam最近在其开发者文档中新增了一页广告政策，**明确禁止*
 
 ---
 
-## <a name="16"></a>16. 全球三维地形探索器 
+## <a name="17"></a>17. 全球三维地形探索器 
 <small>🔗 [topography.jessekv.com](https://topography.jessekv.com): Show HN: Global 3D topography explorer</small>
 
 
-| 🔥: 77 \| 💬: [30](https://news.ycombinator.com/item?id=43001688) \| 🗓️ 2025-02-10
+| 🔥: 79 \| 💬: [30](https://news.ycombinator.com/item?id=43001688) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -215,47 +227,11 @@ Steam最近在其开发者文档中新增了一页广告政策，**明确禁止*
 
 ---
 
-## <a name="17"></a>17. 在工厂工作：数字设备公司的故事 
-<small>🔗 [abortretry.fail](https://www.abortretry.fail/p/work-at-the-mill): Work at the Mill Or, the Story of Digital Equipment Corporation</small>
-
-
-| 🔥: 74 \| 💬: [29](https://news.ycombinator.com/item?id=43002906) \| 🗓️ 2025-02-10
-
-
-<br />
-肯尼斯·哈里·奥尔森于1926年出生于康涅狄格州，他对电子技术的热爱促使他在二战后进入麻省理工学院，参与了**Whirlwind**计算机的开发。1957年，他创立了**数字设备公司（DEC）**，专注于小型互动计算机的生产。DEC推出的**PDP-1**计算机以其简单易用和相对低廉的价格，开创了个人计算机的新纪元，成为计算机历史上的重要里程碑。
-
----
-
-## <a name="18"></a>18. 通过潜在推理扩展测试时间计算：递归深度方法 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2502.05171): Scaling up test-time compute with latent reasoning: A recurrent depth approach</small>
-
-
-| 🔥: 70 \| 💬: [14](https://news.ycombinator.com/item?id=43004416) \| 🗓️ 2025-02-10
-
-
-<br />
-本文研究了一种新颖的语言模型架构，能够通过在潜在空间中隐式推理来扩展测试时间计算。该模型通过迭代递归块，在测试时展开到任意深度，与主流推理模型不同，它不依赖于生成更多的标记。该方法无需特殊训练数据，适用于小上下文窗口，并能捕捉难以用语言表达的推理类型。我们将一个概念验证模型扩展到35亿参数和8000亿标记，结果显示该模型在推理基准测试中的表现显著提升，计算负载可达到相当于500亿参数的水平。
-
----
-
-## <a name="19"></a>19. 关于USB软盘驱动器的故事（2004） 
-<small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20040409-00/?p=39873): A story about USB floppy drives (2004)</small>
-
-
-| 🔥: 69 \| 💬: [40](https://news.ycombinator.com/item?id=43002426) \| 🗓️ 2025-02-10
-
-
-<br />
-一位朋友曾参与USB规范的开发。在一次会议上，一家公司展示了他们的USB软盘驱动器，并提到他们为PC和Mac制作了两个版本。委员会成员对此感到困惑，因为根据规范，两个版本应该是相同的。公司代表解释说，两个驱动器在电子上完全相同，唯一的区别是Mac版本采用半透明蓝色塑料，且价格更高。这家公司并不是唯一一个试图利用iMac风格的塑料潮流的例子。
-
----
-
-## <a name="20"></a>20. 构建实时功能的模式 
+## <a name="18"></a>18. 构建实时功能的模式 
 <small>🔗 [zknill.io](https://zknill.io/posts/patterns-for-building-realtime/): Patterns for Building Realtime Features</small>
 
 
-| 🔥: 68 \| 💬: [18](https://news.ycombinator.com/item?id=43004334) \| 🗓️ 2025-02-10
+| 🔥: 76 \| 💬: [19](https://news.ycombinator.com/item?id=43004334) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -263,11 +239,23 @@ Steam最近在其开发者文档中新增了一页广告政策，**明确禁止*
 
 ---
 
-## <a name="21"></a>21. 在计算机代理的世界中SaaS的未来 
+## <a name="19"></a>19. 通过潜在推理扩展测试时间计算：递归深度方法 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2502.05171): Scaling up test-time compute with latent reasoning: A recurrent depth approach</small>
+
+
+| 🔥: 76 \| 💬: [18](https://news.ycombinator.com/item?id=43004416) \| 🗓️ 2025-02-10
+
+
+<br />
+本文研究了一种新颖的语言模型架构，能够通过在潜在空间中隐式推理来扩展测试时间计算。该模型通过迭代递归块，在测试时展开到任意深度，与主流推理模型不同，它不依赖于生成更多的标记。该方法无需特殊训练数据，适用于小上下文窗口，并能捕捉难以用语言表达的推理类型。我们将一个概念验证模型扩展到35亿参数和8000亿标记，结果显示该模型在推理基准测试中的表现显著提升，计算负载可达到相当于500亿参数的水平。
+
+---
+
+## <a name="20"></a>20. 在计算机代理的世界中SaaS的未来 
 <small>🔗 [docs.google.com](https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing): What happens to SaaS in a world with computer-using agents?</small>
 
 
-| 🔥: 64 \| 💬: [55](https://news.ycombinator.com/item?id=43004373) \| 🗓️ 2025-02-10
+| 🔥: 71 \| 💬: [60](https://news.ycombinator.com/item?id=43004373) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -275,7 +263,31 @@ Steam最近在其开发者文档中新增了一页广告政策，**明确禁止*
 
 ---
 
-## <a name="22"></a>22. 水坝工程奇迹：八只海狸在两天内完成七年计划，节省120万美元 
+## <a name="21"></a>21. 关于USB软盘驱动器的故事（2004） 
+<small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20040409-00/?p=39873): A story about USB floppy drives (2004)</small>
+
+
+| 🔥: 70 \| 💬: [42](https://news.ycombinator.com/item?id=43002426) \| 🗓️ 2025-02-10
+
+
+<br />
+一位朋友曾参与USB规范的开发。在一次会议上，一家公司展示了他们的USB软盘驱动器，并提到他们为PC和Mac制作了两个版本。委员会成员对此感到困惑，因为根据规范，两个版本应该是相同的。公司代表解释说，两个驱动器在电子上完全相同，唯一的区别是Mac版本采用半透明蓝色塑料，且价格更高。这家公司并不是唯一一个试图利用iMac风格的塑料潮流的例子。
+
+---
+
+## <a name="22"></a>22. 为什么商业航空旅行自1960年代以来没有变得更快？ 
+<small>🔗 [engineering.mit.edu](https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/): Why hasn't commercial air travel gotten any faster since the 1960s? (2009)</small>
+
+
+| 🔥: 64 \| 💬: [242](https://news.ycombinator.com/item?id=43000275) \| 🗓️ 2025-02-10
+
+
+<br />
+自1960年代以来，商业航空旅行的速度实际上有所下降，现代飞机的巡航速度在480到510节之间，而波音707的速度为525节。**燃油经济性**是主要原因，现代的高旁通发动机在较低速度下更有效率，且能减少飞机的重量和成本。尽管有如**协和飞机**这样的例外，但由于音爆问题，超音速飞行受到限制。未来可能会有一些小型超音速商务飞机，但其政治可行性仍待观察。
+
+---
+
+## <a name="23"></a>23. 水坝工程奇迹：八只海狸在两天内完成七年计划，节省120万美元 
 <small>🔗 [nationalgeographic.com](https://www.nationalgeographic.com/animals/article/beaver-dam-czech-republic): Beavers finish seven-year dam project in two days saving – $1M</small>
 
 
@@ -287,23 +299,11 @@ Steam最近在其开发者文档中新增了一页广告政策，**明确禁止*
 
 ---
 
-## <a name="23"></a>23. 为什么商业航空旅行自1960年代以来没有变得更快？ 
-<small>🔗 [engineering.mit.edu](https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/): Why hasn't commercial air travel gotten any faster since the 1960s? (2009)</small>
-
-
-| 🔥: 57 \| 💬: [200](https://news.ycombinator.com/item?id=43000275) \| 🗓️ 2025-02-10
-
-
-<br />
-自1960年代以来，商业航空旅行的速度实际上有所下降，现代飞机的巡航速度在480到510节之间，而波音707的速度为525节。**燃油经济性**是主要原因，现代的高旁通发动机在较低速度下更有效率，且能减少飞机的重量和成本。尽管有如**协和飞机**这样的例外，但由于音爆问题，超音速飞行受到限制。未来可能会有一些小型超音速商务飞机，但其政治可行性仍待观察。
-
----
-
 ## <a name="24"></a>24. 地球内核可能发生形状变化，科学家称 
 <small>🔗 [bbc.co.uk](https://www.bbc.co.uk/news/articles/c4gx37ky3gyo): Earth's inner core may have changed shape, say scientists</small>
 
 
-| 🔥: 48 \| 💬: [33](https://news.ycombinator.com/item?id=43002130) \| 🗓️ 2025-02-10
+| 🔥: 48 \| 💬: [35](https://news.ycombinator.com/item?id=43002130) \| 🗓️ 2025-02-10
 
 
 <br />
