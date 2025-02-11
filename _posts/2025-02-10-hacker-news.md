@@ -10,8 +10,8 @@ tags:
 
 1. 从不再流行的昵称看姓氏的演变；
 1. 本科生颠覆40年数据科学猜想；
-1. 购买特斯拉Model 3，结果却陷入地狱；
 1. 人类经济指数；
+1. 购买特斯拉Model 3，结果却陷入地狱；
 1. 我构建了一个开源AI工具来寻找我的自身免疫疾病；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [blog.plover.com](https://blog.plover.com/lang/etym/nickname-names.html): Surnames from nicknames nobody has any more</small>
 
 
-| 🔥🔥: 703 \| 💬: [351](https://news.ycombinator.com/item?id=43000316) \| 🗓️ 2025-02-10
+| 🔥🔥: 724 \| 💬: [352](https://news.ycombinator.com/item?id=43000316) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/): Undergraduate shows that searches within hash tables can be much faster</small>
 
 
-| 🔥🔥: 515 \| 💬: [235](https://news.ycombinator.com/item?id=43002511) \| 🗓️ 2025-02-10
+| 🔥🔥: 555 \| 💬: [250](https://news.ycombinator.com/item?id=43002511) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -47,23 +47,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 购买特斯拉Model 3，结果却陷入地狱 
-<small>🔗 [myteslaexperience.com](https://www.myteslaexperience.com/2025-02-01/to-buy-a-tesla-mode-3-only-to-end-up-in-hell): To buy a Tesla Model 3, only to end up in hell</small>
-
-
-| 🔥🔥: 420 \| 💬: [520](https://news.ycombinator.com/item?id=42998024) \| 🗓️ 2025-02-10
-
-
-<br />
-在2024年10月，我购买了一辆特斯拉Model 3，但许多功能无法正常使用，包括**摄像头**、**GPS导航**和**自动驾驶**。特斯拉承认了这些故障，但对电池损耗问题未作回应。尽管我立即报告了问题，特斯拉拒绝无罚款退车，只能让我等待三个月更换部件。此后，车辆每天电池损耗8%，我不得不停止驾驶。特斯拉的服务态度和处理方式让我感到失望，成为了许多车主的共同困扰。
-
----
-
-## <a name="4"></a>4. 人类经济指数 
+## <a name="3"></a>3. 人类经济指数 
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/the-anthropic-economic-index): The Anthropic Economic Index</small>
 
 
-| 🔥🔥: 414 \| 💬: [186](https://news.ycombinator.com/item?id=43000529) \| 🗓️ 2025-02-10
+| 🔥🔥: 426 \| 💬: [191](https://news.ycombinator.com/item?id=43000529) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -71,11 +59,23 @@ tags:
 
 ---
 
+## <a name="4"></a>4. 购买特斯拉Model 3，结果却陷入地狱 
+<small>🔗 [myteslaexperience.com](https://www.myteslaexperience.com/2025-02-01/to-buy-a-tesla-mode-3-only-to-end-up-in-hell): To buy a Tesla Model 3, only to end up in hell</small>
+
+
+| 🔥🔥: 420 \| 💬: [521](https://news.ycombinator.com/item?id=42998024) \| 🗓️ 2025-02-10
+
+
+<br />
+在2024年10月，我购买了一辆特斯拉Model 3，但许多功能无法正常使用，包括**摄像头**、**GPS导航**和**自动驾驶**。特斯拉承认了这些故障，但对电池损耗问题未作回应。尽管我立即报告了问题，特斯拉拒绝无罚款退车，只能让我等待三个月更换部件。此后，车辆每天电池损耗8%，我不得不停止驾驶。特斯拉的服务态度和处理方式让我感到失望，成为了许多车主的共同困扰。
+
+---
+
 ## <a name="5"></a>5. 我构建了一个开源AI工具来寻找我的自身免疫疾病 
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/selfhosted/comments/1ij7s4m/how_i_built_an_open_source_ai_tool_to_find_my/): I built an open source AI tool to find my autoimmune disease</small>
 
 
-| 🔥🔥: 361 \| 💬: [266](https://news.ycombinator.com/item?id=42999632) \| 🗓️ 2025-02-10
+| 🔥🔥: 365 \| 💬: [270](https://news.ycombinator.com/item?id=42999632) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [github.com](https://github.com/desgeeko/pdfsyntax/blob/main/docs/browse.md): Show HN: HTML visualization of a PDF file's internal structure</small>
 
 
-| 🔥🔥: 325 \| 💬: [44](https://news.ycombinator.com/item?id=43000303) \| 🗓️ 2025-02-10
+| 🔥🔥: 330 \| 💬: [44](https://news.ycombinator.com/item?id=43000303) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -111,7 +111,7 @@ PDFSyntax是一个自包含的Python包，旨在**解析**和**可视化**PDF文
 <small>🔗 [kalzumeus.com](https://www.kalzumeus.com/2025/02/10/retraction-request-denied/): Bank CEO: Retract your debanking piece? Me: No</small>
 
 
-| 🔥🔥: 236 \| 💬: [68](https://news.ycombinator.com/item?id=43001441) \| 🗓️ 2025-02-10
+| 🔥🔥: 241 \| 💬: [69](https://news.ycombinator.com/item?id=43001441) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -123,7 +123,7 @@ PDFSyntax是一个自包含的Python包，旨在**解析**和**可视化**PDF文
 <small>🔗 [xpqz.github.io](https://xpqz.github.io/kbook/Introduction.html): What about K?</small>
 
 
-| 🔥🔥: 178 \| 💬: [109](https://news.ycombinator.com/item?id=42999650) \| 🗓️ 2025-02-10
+| 🔥🔥: 181 \| 💬: [109](https://news.ycombinator.com/item?id=42999650) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -159,7 +159,7 @@ k是一种由Arthur Whitney设计的快速向量导向语言家族，具有多�
 <small>🔗 [pcgamer.com](https://www.pcgamer.com/gaming-industry/a-2023-study-concluded-captchas-are-a-tracking-cookie-farm-for-profit-masquerading-as-a-security-service-that-made-us-spend-819-billion-hours-clicking-on-traffic-lights-to-generate-nearly-usd1-trillion-for-google/): CAPTCHAs: 'a tracking cookie farm for profit masquerading as a security service'</small>
 
 
-| 🔥🔥: 129 \| 💬: [81](https://news.ycombinator.com/item?id=43002440) \| 🗓️ 2025-02-10
+| 🔥🔥: 138 \| 💬: [85](https://news.ycombinator.com/item?id=43002440) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -171,7 +171,7 @@ k是一种由Arthur Whitney设计的快速向量导向语言家族，具有多�
 <small>🔗 [xstore.co.za](https://www.xstore.co.za/stuff/2024/01/kaspersky-finds-hardware-backdoor-in-5-generations-of-apple-silicon/): Kaspersky finds hardware backdoor in 5 generations of Apple Silicon (2024)</small>
 
 
-| 🔥🔥: 127 \| 💬: [32](https://news.ycombinator.com/item?id=43003230) \| 🗓️ 2025-02-10
+| 🔥🔥: 128 \| 💬: [32](https://news.ycombinator.com/item?id=43003230) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -195,7 +195,7 @@ Opencomply是一个旨在提升**安全性**和**合规性**的开源项目。�
 <small>🔗 [abortretry.fail](https://www.abortretry.fail/p/work-at-the-mill): Work at the Mill Or, the Story of Digital Equipment Corporation</small>
 
 
-| 🔥: 85 \| 💬: [33](https://news.ycombinator.com/item?id=43002906) \| 🗓️ 2025-02-10
+| 🔥: 91 \| 💬: [37](https://news.ycombinator.com/item?id=43002906) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -203,7 +203,43 @@ Opencomply是一个旨在提升**安全性**和**合规性**的开源项目。�
 
 ---
 
-## <a name="16"></a>16. Steam明确禁止游戏内广告 
+## <a name="16"></a>16. 全球三维地形探索器 
+<small>🔗 [topography.jessekv.com](https://topography.jessekv.com): Show HN: Global 3D topography explorer</small>
+
+
+| 🔥: 83 \| 💬: [30](https://news.ycombinator.com/item?id=43001688) \| 🗓️ 2025-02-10
+
+
+<br />
+通过点击地图上的**流域**或**区域**，用户可以以三维形式查看这些地形。该平台提供了多种功能，包括生成地形和保存最爱区域，支持多种数据源，如**MERIT-Hydro**和**HydroSHEDS**。探索地形的乐趣尽在其中。
+
+---
+
+## <a name="17"></a>17. 通过潜在推理扩展测试时间计算：递归深度方法 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2502.05171): Scaling up test-time compute with latent reasoning: A recurrent depth approach</small>
+
+
+| 🔥: 82 \| 💬: [18](https://news.ycombinator.com/item?id=43004416) \| 🗓️ 2025-02-10
+
+
+<br />
+本文研究了一种新颖的语言模型架构，能够通过在潜在空间中隐式推理来扩展测试时间计算。该模型通过迭代递归块，在测试时展开到任意深度，与主流推理模型不同，它不依赖于生成更多的标记。该方法无需特殊训练数据，适用于小上下文窗口，并能捕捉难以用语言表达的推理类型。我们将一个概念验证模型扩展到35亿参数和8000亿标记，结果显示该模型在推理基准测试中的表现显著提升，计算负载可达到相当于500亿参数的水平。
+
+---
+
+## <a name="18"></a>18. 构建实时功能的模式 
+<small>🔗 [zknill.io](https://zknill.io/posts/patterns-for-building-realtime/): Patterns for Building Realtime Features</small>
+
+
+| 🔥: 81 \| 💬: [20](https://news.ycombinator.com/item?id=43004334) \| 🗓️ 2025-02-10
+
+
+<br />
+实时功能使应用程序显得现代、协作且与时俱进。这些功能需要在用户触发更改时，实时共享数据。主要有几种模式：**poke/pull**模式通过通知客户端获取更新，容易集成但可能导致同时请求的“fan-out”问题；**push state**模式直接推送更新状态，减少了不同步的风险，但在状态较大时不易处理；**push ops**模式则发送操作，减少数据传输量，客户端需合并这些操作；**event sourcing**模式则发送事件，客户端需自行处理逻辑。不同的传输方式（如websockets、sse等）各有优缺点，Pub/Sub提供者可以帮助处理连接和数据分发。
+
+---
+
+## <a name="19"></a>19. Steam明确禁止游戏内广告 
 <small>🔗 [pcgamer.com](https://www.pcgamer.com/gaming-industry/valve-bans-games-that-rely-on-in-game-ads-from-steam-so-no-watch-this-to-continue-playing-stuff-will-be-making-its-way-to-our-pcs/): Steam makes its ban on in-game ads explicit</small>
 
 
@@ -215,47 +251,11 @@ Steam最近在其开发者文档中新增了一页广告政策，**明确禁止*
 
 ---
 
-## <a name="17"></a>17. 全球三维地形探索器 
-<small>🔗 [topography.jessekv.com](https://topography.jessekv.com): Show HN: Global 3D topography explorer</small>
-
-
-| 🔥: 79 \| 💬: [30](https://news.ycombinator.com/item?id=43001688) \| 🗓️ 2025-02-10
-
-
-<br />
-通过点击地图上的**流域**或**区域**，用户可以以三维形式查看这些地形。该平台提供了多种功能，包括生成地形和保存最爱区域，支持多种数据源，如**MERIT-Hydro**和**HydroSHEDS**。探索地形的乐趣尽在其中。
-
----
-
-## <a name="18"></a>18. 构建实时功能的模式 
-<small>🔗 [zknill.io](https://zknill.io/posts/patterns-for-building-realtime/): Patterns for Building Realtime Features</small>
-
-
-| 🔥: 76 \| 💬: [19](https://news.ycombinator.com/item?id=43004334) \| 🗓️ 2025-02-10
-
-
-<br />
-实时功能使应用程序显得现代、协作且与时俱进。这些功能需要在用户触发更改时，实时共享数据。主要有几种模式：**poke/pull**模式通过通知客户端获取更新，容易集成但可能导致同时请求的“fan-out”问题；**push state**模式直接推送更新状态，减少了不同步的风险，但在状态较大时不易处理；**push ops**模式则发送操作，减少数据传输量，客户端需合并这些操作；**event sourcing**模式则发送事件，客户端需自行处理逻辑。不同的传输方式（如websockets、sse等）各有优缺点，Pub/Sub提供者可以帮助处理连接和数据分发。
-
----
-
-## <a name="19"></a>19. 通过潜在推理扩展测试时间计算：递归深度方法 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2502.05171): Scaling up test-time compute with latent reasoning: A recurrent depth approach</small>
-
-
-| 🔥: 76 \| 💬: [18](https://news.ycombinator.com/item?id=43004416) \| 🗓️ 2025-02-10
-
-
-<br />
-本文研究了一种新颖的语言模型架构，能够通过在潜在空间中隐式推理来扩展测试时间计算。该模型通过迭代递归块，在测试时展开到任意深度，与主流推理模型不同，它不依赖于生成更多的标记。该方法无需特殊训练数据，适用于小上下文窗口，并能捕捉难以用语言表达的推理类型。我们将一个概念验证模型扩展到35亿参数和8000亿标记，结果显示该模型在推理基准测试中的表现显著提升，计算负载可达到相当于500亿参数的水平。
-
----
-
 ## <a name="20"></a>20. 在计算机代理的世界中SaaS的未来 
 <small>🔗 [docs.google.com](https://docs.google.com/document/d/1nWZtJlPmBD15rGqNxj7u6HroaNvXT6YD-TXktpIwf6c/edit?usp=sharing): What happens to SaaS in a world with computer-using agents?</small>
 
 
-| 🔥: 71 \| 💬: [60](https://news.ycombinator.com/item?id=43004373) \| 🗓️ 2025-02-10
+| 🔥: 75 \| 💬: [61](https://news.ycombinator.com/item?id=43004373) \| 🗓️ 2025-02-10
 
 
 <br />
@@ -279,7 +279,7 @@ Steam最近在其开发者文档中新增了一页广告政策，**明确禁止*
 <small>🔗 [engineering.mit.edu](https://engineering.mit.edu/engage/ask-an-engineer/why-hasnt-commercial-air-travel-gotten-any-faster-since-the-1960s/): Why hasn't commercial air travel gotten any faster since the 1960s? (2009)</small>
 
 
-| 🔥: 64 \| 💬: [242](https://news.ycombinator.com/item?id=43000275) \| 🗓️ 2025-02-10
+| 🔥: 68 \| 💬: [274](https://news.ycombinator.com/item?id=43000275) \| 🗓️ 2025-02-10
 
 
 <br />
