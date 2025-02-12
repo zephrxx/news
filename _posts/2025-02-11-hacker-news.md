@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [haterade.substack.com](https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling): I tasted Honda's spicy rodent-repelling tape and I will do it again (2021)</small>
 
 
-| 🔥🔥: 984 \| 💬: [300](https://news.ycombinator.com/item?id=43013615) \| 🗓️ 2025-02-11
+| 🔥🔥: 1044 \| 💬: [320](https://news.ycombinator.com/item?id=43013615) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [defragzone.substack.com](https://defragzone.substack.com/p/techs-dumbest-mistake-why-firing): Firing programmers for AI is a mistake</small>
 
 
-| 🔥🔥: 609 \| 💬: [731](https://news.ycombinator.com/item?id=43010814) \| 🗓️ 2025-02-11
+| 🔥🔥: 622 \| 💬: [739](https://news.ycombinator.com/item?id=43010814) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [rubenerd.com](https://rubenerd.com/boring-tech-is-mature-not-old/): Boring tech is mature, not old</small>
 
 
-| 🔥🔥: 436 \| 💬: [262](https://news.ycombinator.com/item?id=43012862) \| 🗓️ 2025-02-11
+| 🔥🔥: 439 \| 💬: [263](https://news.ycombinator.com/item?id=43012862) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [backblaze.com](https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/): Backblaze Drive Stats for 2024</small>
 
 
-| 🔥🔥: 337 \| 💬: [101](https://news.ycombinator.com/item?id=43013431) \| 🗓️ 2025-02-11
+| 🔥🔥: 367 \| 💬: [106](https://news.ycombinator.com/item?id=43013431) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [pretty-radio-b75.notion.site](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2): DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL</small>
 
 
-| 🔥🔥: 244 \| 💬: [99](https://news.ycombinator.com/item?id=43017599) \| 🗓️ 2025-02-11
+| 🔥🔥: 255 \| 💬: [106](https://news.ycombinator.com/item?id=43017599) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -87,7 +87,7 @@ DeepScaleR是一个开源项目，旨在**民主化强化学习**在大型语言
 <small>🔗 [fortune.com](https://fortune.com/2025/02/10/unitedhealth-defamation-law-firm-social-media/): UnitedHealth hired a defamation law firm to go after social media posts</small>
 
 
-| 🔥🔥: 217 \| 💬: [181](https://news.ycombinator.com/item?id=43015713) \| 🗓️ 2025-02-11
+| 🔥🔥: 219 \| 💬: [182](https://news.ycombinator.com/item?id=43015713) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -95,47 +95,11 @@ DeepScaleR是一个开源项目，旨在**民主化强化学习**在大型语言
 
 ---
 
-## <a name="7"></a>7. 特斯拉Cybertruck撞上电线杆，车主称“感谢特斯拉” 
-<small>🔗 [thedrive.com](https://www.thedrive.com/news/tesla-cybertruck-drove-itself-into-a-pole-owner-says-thank-you-tesla): Tesla Cybertruck Drives Itself into a Pole, Owner Says 'Thank You Tesla'</small>
-
-
-| 🔥🔥: 191 \| 💬: [192](https://news.ycombinator.com/item?id=43016931) \| 🗓️ 2025-02-11
-
-
-<br />
-一位特斯拉Cybertruck车主在内华达州里诺市因其**全自动驾驶**系统将车开进电线杆后，仍对特斯拉表示赞赏。尽管Cybertruck在行驶过程中未能识别车道结束并撞上了人行道的电线杆，车主却认为自己应更专注驾驶，并称赞特斯拉的**被动安全**设计。尽管发生事故，车主没有受伤，并希望分享经历以提醒其他车主注意驾驶安全。
-
----
-
-## <a name="8"></a>8. SQL中的尾随逗号的讨论 
-<small>🔗 [peter.eisentraut.org](http://peter.eisentraut.org/blog/2025/02/11/how-about-trailing-commas-in-sql): How about trailing commas in SQL?</small>
-
-
-| 🔥🔥: 190 \| 💬: [230](https://news.ycombinator.com/item?id=43010365) \| 🗓️ 2025-02-11
-
-
-<br />
-在SQL中，**尾随逗号**的支持是一个备受关注的特性，尤其在SELECT和CREATE TABLE语句中。尽管在PostgreSQL中实现这一特性相对简单，但在SQL的其他用法中，如数组构造和函数调用等，支持尾随逗号的复杂性增加。作者提出了几种可能的实现方案，但每种方案都有其局限性，尤其是在如何确定支持的范围和版本管理方面。虽然许多编程语言支持尾随逗号，但SQL的复杂性使得这一特性在不同实现之间可能导致混乱。因此，作者呼吁在SQL标准中进行更严格的定义，以实现长期的一致性。
-
----
-
-## <a name="9"></a>9. FLAC 1.5 引入多线程编码 
-<small>🔗 [phoronix.com](https://www.phoronix.com/news/FLAC-1.5-Released): FLAC 1.5 Delivers Multi-Threaded Encoding</small>
-
-
-| 🔥🔥: 189 \| 💬: [61](https://news.ycombinator.com/item?id=43012751) \| 🗓️ 2025-02-11
-
-
-<br />
-FLAC 1.5 现已发布，作为基于自由无损音频编码的最新功能更新。此版本引入了**多线程音频编码**，用户可以通过 "-j #" 或 "--threads=#" 参数设置线程数。这一更新是对过去十年 CPU 核心数量增加的回应。此外，FLAC 1.5 还支持链式 Ogg FLAC 文件，并带来了多项库修复、构建系统更新及其他改进。有关 FLAC 1.5 的更多信息和下载，请访问 GitHub。
-
----
-
-## <a name="10"></a>10. 汤森路透赢得美国首个重大AI版权案 
+## <a name="7"></a>7. 汤森路透赢得美国首个重大AI版权案 
 <small>🔗 [wired.com](https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/): Thomson Reuters wins first major AI copyright case in the US</small>
 
 
-| 🔥🔥: 187 \| 💬: [74](https://news.ycombinator.com/item?id=43018251) \| 🗓️ 2025-02-11
+| 🔥🔥: 205 \| 💬: [86](https://news.ycombinator.com/item?id=43018251) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -143,11 +107,47 @@ FLAC 1.5 现已发布，作为基于自由无损音频编码的最新功能更�
 
 ---
 
+## <a name="8"></a>8. 特斯拉Cybertruck撞上电线杆，车主称“感谢特斯拉” 
+<small>🔗 [thedrive.com](https://www.thedrive.com/news/tesla-cybertruck-drove-itself-into-a-pole-owner-says-thank-you-tesla): Tesla Cybertruck Drives Itself into a Pole, Owner Says 'Thank You Tesla'</small>
+
+
+| 🔥🔥: 193 \| 💬: [195](https://news.ycombinator.com/item?id=43016931) \| 🗓️ 2025-02-11
+
+
+<br />
+一位特斯拉Cybertruck车主在内华达州里诺市因其**全自动驾驶**系统将车开进电线杆后，仍对特斯拉表示赞赏。尽管Cybertruck在行驶过程中未能识别车道结束并撞上了人行道的电线杆，车主却认为自己应更专注驾驶，并称赞特斯拉的**被动安全**设计。尽管发生事故，车主没有受伤，并希望分享经历以提醒其他车主注意驾驶安全。
+
+---
+
+## <a name="9"></a>9. SQL中的尾随逗号的讨论 
+<small>🔗 [peter.eisentraut.org](http://peter.eisentraut.org/blog/2025/02/11/how-about-trailing-commas-in-sql): How about trailing commas in SQL?</small>
+
+
+| 🔥🔥: 191 \| 💬: [230](https://news.ycombinator.com/item?id=43010365) \| 🗓️ 2025-02-11
+
+
+<br />
+在SQL中，**尾随逗号**的支持是一个备受关注的特性，尤其在SELECT和CREATE TABLE语句中。尽管在PostgreSQL中实现这一特性相对简单，但在SQL的其他用法中，如数组构造和函数调用等，支持尾随逗号的复杂性增加。作者提出了几种可能的实现方案，但每种方案都有其局限性，尤其是在如何确定支持的范围和版本管理方面。虽然许多编程语言支持尾随逗号，但SQL的复杂性使得这一特性在不同实现之间可能导致混乱。因此，作者呼吁在SQL标准中进行更严格的定义，以实现长期的一致性。
+
+---
+
+## <a name="10"></a>10. FLAC 1.5 引入多线程编码 
+<small>🔗 [phoronix.com](https://www.phoronix.com/news/FLAC-1.5-Released): FLAC 1.5 Delivers Multi-Threaded Encoding</small>
+
+
+| 🔥🔥: 190 \| 💬: [62](https://news.ycombinator.com/item?id=43012751) \| 🗓️ 2025-02-11
+
+
+<br />
+FLAC 1.5 现已发布，作为基于自由无损音频编码的最新功能更新。此版本引入了**多线程音频编码**，用户可以通过 "-j #" 或 "--threads=#" 参数设置线程数。这一更新是对过去十年 CPU 核心数量增加的回应。此外，FLAC 1.5 还支持链式 Ogg FLAC 文件，并带来了多项库修复、构建系统更新及其他改进。有关 FLAC 1.5 的更多信息和下载，请访问 GitHub。
+
+---
+
 ## <a name="11"></a>11. 汽车物理控制设计的微妙艺术 
 <small>🔗 [theturnsignalblog.com](https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/): The subtle art of designing physical controls for cars</small>
 
 
-| 🔥🔥: 150 \| 💬: [78](https://news.ycombinator.com/item?id=43017010) \| 🗓️ 2025-02-11
+| 🔥🔥: 168 \| 💬: [91](https://news.ycombinator.com/item?id=43017010) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -159,7 +159,7 @@ FLAC 1.5 现已发布，作为基于自由无损音频编码的最新功能更�
 <small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/intels-battlemage-architecture): Intel's Battlemage Architecture</small>
 
 
-| 🔥🔥: 142 \| 💬: [94](https://news.ycombinator.com/item?id=43014408) \| 🗓️ 2025-02-11
+| 🔥🔥: 145 \| 💬: [102](https://news.ycombinator.com/item?id=43014408) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -171,7 +171,7 @@ FLAC 1.5 现已发布，作为基于自由无损音频编码的最新功能更�
 <small>🔗 [theregister.com](https://www.theregister.com/2025/02/11/microsoft_postgresql_extensions/): Microsoft open sources PostgreSQL extensions</small>
 
 
-| 🔥🔥: 135 \| 💬: [53](https://news.ycombinator.com/item?id=43012294) \| 🗓️ 2025-02-11
+| 🔥🔥: 138 \| 💬: [54](https://news.ycombinator.com/item?id=43012294) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -183,7 +183,7 @@ FLAC 1.5 现已发布，作为基于自由无损音频编码的最新功能更�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.05253): LLMs can teach themselves to better predict the future</small>
 
 
-| 🔥🔥: 132 \| 💬: [60](https://news.ycombinator.com/item?id=43014918) \| 🗓️ 2025-02-11
+| 🔥🔥: 136 \| 💬: [60](https://news.ycombinator.com/item?id=43014918) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -191,11 +191,23 @@ FLAC 1.5 现已发布，作为基于自由无损音频编码的最新功能更�
 
 ---
 
-## <a name="15"></a>15. 日本若重新思考科研资金，将再次成为科学强国 
+## <a name="15"></a>15. 比亚迪将在所有车型中免费提供特斯拉级别的自动驾驶技术 
+<small>🔗 [asiafinancial.com](https://www.asiafinancial.com/byd-to-offer-tesla-like-self-driving-tech-in-all-models-for-free): BYD to offer Tesla-like self-driving tech in all models for free</small>
+
+
+| 🔥🔥: 125 \| 💬: [163](https://news.ycombinator.com/item?id=43018989) \| 🗓️ 2025-02-11
+
+
+<br />
+中国电动车巨头比亚迪宣布将其先进的自动驾驶辅助系统“**神眼**”免费提供给所有车型，包括售价低至$9,555的最便宜的海鸥车型。这一举措不仅显著低于特斯拉的价格，也可能引发市场价格战。比亚迪的创始人王传福表示，这标志着“**自动驾驶的普及时代**”的到来。该系统的不同版本提供自动泊车和车道保持功能，较高版本支持在复杂城市交通中进行自主驾驶。此举可能对特斯拉造成重大冲击，尤其是在其销售下滑的背景下。
+
+---
+
+## <a name="16"></a>16. 日本若重新思考科研资金，将再次成为科学强国 
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00394-8): Japan can be a science heavyweight once more if it rethinks funding</small>
 
 
-| 🔥: 94 \| 💬: [30](https://news.ycombinator.com/item?id=43016353) \| 🗓️ 2025-02-11
+| 🔥🔥: 104 \| 💬: [31](https://news.ycombinator.com/item?id=43016353) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -203,7 +215,7 @@ FLAC 1.5 现已发布，作为基于自由无损音频编码的最新功能更�
 
 ---
 
-## <a name="16"></a>16. RTX 5090电缆过热至150摄氏度 
+## <a name="17"></a>17. RTX 5090电缆过热至150摄氏度 
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/pc-components/gpus/rtx-5090-cable-overheats-to-150-degrees-celsius-uneven-current-distribution-likely-the-culprit): RTX 5090 cable overheats to 150 degrees Celsius</small>
 
 
@@ -215,7 +227,19 @@ FLAC 1.5 现已发布，作为基于自由无损音频编码的最新功能更�
 
 ---
 
-## <a name="17"></a>17. 席德·梅尔的文明VII 
+## <a name="18"></a>18. 为残疾人士打造的750家公司数据库 
+<small>🔗 [data.perkins.org](https://data.perkins.org/): Database of 750 companies building for people with disabilities</small>
+
+
+| 🔥: 84 \| 💬: [10](https://news.ycombinator.com/item?id=43016802) \| 🗓️ 2025-02-11
+
+
+<br />
+Howe创新中心正在研究**DisabilityTech**市场，涵盖为残疾人士设计的技术解决方案，包括辅助技术和医疗设备。初步数据库包含超过750家公司，提供全球和美国的地理分布、公司成立时间的时间线以及按用户、产品、功能和技术分类的公司数据。北美在DisabilityTech市场中占主导地位，约占46.4%。研究显示，视觉、听觉、身体和神经认知障碍者是主要的用户群体，产品类别包括消费设备和医疗设备等。
+
+---
+
+## <a name="19"></a>19. 席德·梅尔的文明VII 
 <small>🔗 [civilization.2k.com](https://civilization.2k.com/civ-vii/buy/): Sid Meier's Civilization VII</small>
 
 
@@ -227,35 +251,11 @@ FLAC 1.5 现已发布，作为基于自由无损音频编码的最新功能更�
 
 ---
 
-## <a name="18"></a>18. 为残疾人士打造的750家公司数据库 
-<small>🔗 [data.perkins.org](https://data.perkins.org/): Database of 750 companies building for people with disabilities</small>
-
-
-| 🔥: 80 \| 💬: [10](https://news.ycombinator.com/item?id=43016802) \| 🗓️ 2025-02-11
-
-
-<br />
-Howe创新中心正在研究**DisabilityTech**市场，涵盖为残疾人士设计的技术解决方案，包括辅助技术和医疗设备。初步数据库包含超过750家公司，提供全球和美国的地理分布、公司成立时间的时间线以及按用户、产品、功能和技术分类的公司数据。北美在DisabilityTech市场中占主导地位，约占46.4%。研究显示，视觉、听觉、身体和神经认知障碍者是主要的用户群体，产品类别包括消费设备和医疗设备等。
-
----
-
-## <a name="19"></a>19. 重新开始，别放弃 
-<small>🔗 [andrews.substack.com](https://andrews.substack.com/p/get-in-loser-were-rewinding-the-stack): Get in loser. We're rewinding the stack</small>
-
-
-| 🔥: 77 \| 💬: [1](https://news.ycombinator.com/item?id=43014070) \| 🗓️ 2025-02-11
-
-
-<br />
-在上一篇文章中，我对大多数 WebAssembly 运行时缺乏 **exnref** 支持表示了沮丧，这使得 **zeroperl** 几乎无法使用。然而，单纯抱怨并不能解决问题。于是，我决定自己实现 **setjmp/longjmp**，而不是依赖 WASI SDK 的 libsetjmp，因为这会破坏 WebAssembly 运行时的兼容性。我利用 **Binaryen** 的 **Asyncify** 特性，从头开始构建了一个 **setjmp** 实现。经过一系列步骤，zeroperl 现在可以在 **Wasmer**、**Wasmtime** 和其他 WebAssembly 运行时中运行。现在，你可以享受一个完全沙箱化的自包含 Perl，所有功能都在一个小型的 WebAssembly 模块中。
-
----
-
 ## <a name="20"></a>20. 重振动手工作的乐趣与荣耀 
 <small>🔗 [richmond.com](https://richmond.com/holmberg-reviving-the-joy-and-honor-of-working-with-your-hands-will-strengthen-our-nation/article_d8130166-855d-53b6-94e1-cb735edcd7cc.html): Reviving the joy and honor of working with your hands (2015)</small>
 
 
-| 🔥: 70 \| 💬: [26](https://news.ycombinator.com/item?id=43016248) \| 🗓️ 2025-02-11
+| 🔥: 82 \| 💬: [38](https://news.ycombinator.com/item?id=43016248) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -263,7 +263,55 @@ Howe创新中心正在研究**DisabilityTech**市场，涵盖为残疾人士设�
 
 ---
 
-## <a name="21"></a>21. 法官命令恢复被删除的网页和数据 
+## <a name="21"></a>21. 美国国家海洋和大气管理局的公共气象数据为您手机和电视上的地方天气预报提供支持 
+<small>🔗 [theconversation.com](https://theconversation.com/noaas-vast-public-weather-data-powers-the-local-forecasts-on-your-phone-and-tv-a-private-company-alone-couldnt-match-it-249451): NOAA's public weather data powers the local forecasts on your phone and TV</small>
+
+
+| 🔥: 80 \| 💬: [47](https://news.ycombinator.com/item?id=43018643) \| 🗓️ 2025-02-11
+
+
+<br />
+美国的天气预报依赖于**NOAA**（国家海洋和大气管理局）收集的实时数据，包括卫星、雷达和气象气球等。NOAA的分析和模型为公众提供准确的天气预报，确保安全和应对极端天气。尽管一些私人公司也在投资气象数据，但没有NOAA的全面网络和数据支持，可靠的天气预报几乎不可能实现。NOAA的服务是公共资源，确保所有人都能获取关键的天气信息，尤其是在气候变化日益严重的背景下。
+
+---
+
+## <a name="22"></a>22. 重新开始，别放弃 
+<small>🔗 [andrews.substack.com](https://andrews.substack.com/p/get-in-loser-were-rewinding-the-stack): Get in loser. We're rewinding the stack</small>
+
+
+| 🔥: 79 \| 💬: [1](https://news.ycombinator.com/item?id=43014070) \| 🗓️ 2025-02-11
+
+
+<br />
+在上一篇文章中，我对大多数 WebAssembly 运行时缺乏 **exnref** 支持表示了沮丧，这使得 **zeroperl** 几乎无法使用。然而，单纯抱怨并不能解决问题。于是，我决定自己实现 **setjmp/longjmp**，而不是依赖 WASI SDK 的 libsetjmp，因为这会破坏 WebAssembly 运行时的兼容性。我利用 **Binaryen** 的 **Asyncify** 特性，从头开始构建了一个 **setjmp** 实现。经过一系列步骤，zeroperl 现在可以在 **Wasmer**、**Wasmtime** 和其他 WebAssembly 运行时中运行。现在，你可以享受一个完全沙箱化的自包含 Perl，所有功能都在一个小型的 WebAssembly 模块中。
+
+---
+
+## <a name="23"></a>23. 平均CPU性能20年来首次下降 
+<small>🔗 [tomshardware.com](https://www.tomshardware.com/pc-components/cpus/passmark-sees-the-first-yearly-drop-in-average-cpu-performance-in-its-20-years-of-benchmark-results): The first yearly drop in average CPU performance in its 20 years of benchmarks</small>
+
+
+| 🔥: 73 \| 💬: [20](https://news.ycombinator.com/item?id=43017612) \| 🗓️ 2025-02-11
+
+
+<br />
+根据PassMark的最新数据，**2025年**的平均CPU性能首次出现下降，**笔记本电脑**的性能下降了3.4%，而**台式机**则微降0.5%。尽管AMD和Intel推出了新处理器，但市场似乎已达到性能**平台期**，新产品未能显著提升性能。可能的原因包括用户转向更实惠的设备以及Windows 11对性能的影响。
+
+---
+
+## <a name="24"></a>24. 锚博物馆：学习CSS锚定位的游戏 
+<small>🔗 [anchoreum.com](https://anchoreum.com): Anchoreum: A game for learning CSS anchor positioning</small>
+
+
+| 🔥: 71 \| 💬: [21](https://news.ycombinator.com/item?id=43012714) \| 🗓️ 2025-02-11
+
+
+<br />
+Anchoreum是由Codepip创建的游戏，旨在帮助用户学习**CSS**锚定位。该游戏的盛大开幕取得了巨大成功，现在被认为是世界上最好的**锚博物馆**。玩家可以访问10个额外关卡和更多编码游戏，进一步提升他们的编程技能。想要了解更多CSS知识的用户，可以尝试**Flexbox Froggy**或**Grid Garden**等其他游戏。
+
+---
+
+## <a name="25"></a>25. 法官命令恢复被删除的网页和数据 
 <small>🔗 [apnews.com](https://apnews.com/article/trump-cdc-fda-doctors-for-america-5263fc6b6cbc723ca0c86c4460d02f33): Judge tells agencies to restore webpages and data removed</small>
 
 
@@ -272,41 +320,5 @@ Howe创新中心正在研究**DisabilityTech**市场，涵盖为残疾人士设�
 
 <br />
 华盛顿消息——一名联邦法官下令政府机构恢复因特朗普行政命令而删除的健康相关网页和数据。法官约翰·贝茨发出临时禁令，要求恢复被移除的网页，并指出缺乏充分通知和合理解释。特朗普在其第二次就职的第一天签署的命令要求在联邦政策中使用“性”而非“性别”，导致多个机构删除相关资源。诉讼方“美国医生”表示，这些删除严重影响了医生的工作效率和患者的治疗。法官指出，这一行为对“普通美国人”造成了伤害，可能导致他们无法及时获得必要的医疗服务。
-
----
-
-## <a name="22"></a>22. 锚博物馆：学习CSS锚定位的游戏 
-<small>🔗 [anchoreum.com](https://anchoreum.com): Anchoreum: A game for learning CSS anchor positioning</small>
-
-
-| 🔥: 68 \| 💬: [21](https://news.ycombinator.com/item?id=43012714) \| 🗓️ 2025-02-11
-
-
-<br />
-Anchoreum是由Codepip创建的游戏，旨在帮助用户学习**CSS**锚定位。该游戏的盛大开幕取得了巨大成功，现在被认为是世界上最好的**锚博物馆**。玩家可以访问10个额外关卡和更多编码游戏，进一步提升他们的编程技能。想要了解更多CSS知识的用户，可以尝试**Flexbox Froggy**或**Grid Garden**等其他游戏。
-
----
-
-## <a name="23"></a>23. E Ink的彩色电子纸技术为户外显示屏升级 
-<small>🔗 [newatlas.com](https://newatlas.com/technology/e-ink-kaleido-outdoor-3-75-inch-displays/): E Ink's color ePaper tech gets supersized for outdoor displays</small>
-
-
-| 🔥: 68 \| 💬: [55](https://news.ycombinator.com/item?id=43014418) \| 🗓️ 2025-02-11
-
-
-<br />
-E Ink展示了其最新的**Kaleido Outdoor 3**技术，推出了75英寸的户外显示屏，适用于数字户外广告。该技术具有动态色彩显示能力，能在-15°C到65°C的温度范围内工作，且仅在图像刷新时消耗电力，支持太阳能供电。E Ink强调其低能耗和环保特性，使其成为可持续发展的理想选择。
-
----
-
-## <a name="24"></a>24. 工作的神话 
-<small>🔗 [crimethinc.com](https://crimethinc.com/2018/09/03/the-mythology-of-work-eight-myths-that-keep-your-eyes-on-the-clock-and-your-nose-to-the-grindstone): The Mythology of Work (2018)</small>
-
-
-| 🔥: 66 \| 💬: [86](https://news.ycombinator.com/item?id=43012078) \| 🗓️ 2025-02-11
-
-
-<br />
-如果没有人工作，社会将会发生怎样的变化？工厂停工，资源被浪费，而大多数工作并不满足人类的生存需求。尽管技术进步，许多人仍在长时间工作以求生存，**贫富差距**加剧，工作不仅创造财富，也同时制造贫困。我们被迫将生活的意义寄托于工作，而非追求幸福和创造力。真正的价值在于探索生活的奥秘，而非单纯的经济利益。
 
 ---
