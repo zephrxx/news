@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [haterade.substack.com](https://haterade.substack.com/p/i-tasted-hondas-spicy-rodent-repelling): I tasted Honda's spicy rodent-repelling tape and I will do it again (2021)</small>
 
 
-| 🔥🔥: 912 \| 💬: [279](https://news.ycombinator.com/item?id=43013615) \| 🗓️ 2025-02-11
+| 🔥🔥: 984 \| 💬: [300](https://news.ycombinator.com/item?id=43013615) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [defragzone.substack.com](https://defragzone.substack.com/p/techs-dumbest-mistake-why-firing): Firing programmers for AI is a mistake</small>
 
 
-| 🔥🔥: 591 \| 💬: [713](https://news.ycombinator.com/item?id=43010814) \| 🗓️ 2025-02-11
+| 🔥🔥: 609 \| 💬: [731](https://news.ycombinator.com/item?id=43010814) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [rubenerd.com](https://rubenerd.com/boring-tech-is-mature-not-old/): Boring tech is mature, not old</small>
 
 
-| 🔥🔥: 431 \| 💬: [251](https://news.ycombinator.com/item?id=43012862) \| 🗓️ 2025-02-11
+| 🔥🔥: 436 \| 💬: [262](https://news.ycombinator.com/item?id=43012862) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [backblaze.com](https://www.backblaze.com/blog/backblaze-drive-stats-for-2024/): Backblaze Drive Stats for 2024</small>
 
 
-| 🔥🔥: 304 \| 💬: [92](https://news.ycombinator.com/item?id=43013431) \| 🗓️ 2025-02-11
+| 🔥🔥: 337 \| 💬: [101](https://news.ycombinator.com/item?id=43013431) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [pretty-radio-b75.notion.site](https://pretty-radio-b75.notion.site/DeepScaleR-Surpassing-O1-Preview-with-a-1-5B-Model-by-Scaling-RL-19681902c1468005bed8ca303013a4e2): DeepScaleR: Surpassing O1-Preview with a 1.5B Model by Scaling RL</small>
 
 
-| 🔥🔥: 231 \| 💬: [91](https://news.ycombinator.com/item?id=43017599) \| 🗓️ 2025-02-11
+| 🔥🔥: 244 \| 💬: [99](https://news.ycombinator.com/item?id=43017599) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -84,10 +84,10 @@ DeepScaleR是一个开源项目，旨在**民主化强化学习**在大型语言
 ---
 
 ## <a name="6"></a>6. 联合健康聘请诽谤律师事务所追究社交媒体批评 
-<small>🔗 [fortune.com](https://fortune.com/2025/02/10/unitedhealth-defamation-law-firm-social-media/): UnitedHealth hired a defamation law firm to go after social media posts criticiz</small>
+<small>🔗 [fortune.com](https://fortune.com/2025/02/10/unitedhealth-defamation-law-firm-social-media/): UnitedHealth hired a defamation law firm to go after social media posts</small>
 
 
-| 🔥🔥: 206 \| 💬: [175](https://news.ycombinator.com/item?id=43015713) \| 🗓️ 2025-02-11
+| 🔥🔥: 217 \| 💬: [181](https://news.ycombinator.com/item?id=43015713) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -95,23 +95,11 @@ DeepScaleR是一个开源项目，旨在**民主化强化学习**在大型语言
 
 ---
 
-## <a name="7"></a>7. FLAC 1.5 引入多线程编码 
-<small>🔗 [phoronix.com](https://www.phoronix.com/news/FLAC-1.5-Released): FLAC 1.5 Delivers Multi-Threaded Encoding</small>
-
-
-| 🔥🔥: 188 \| 💬: [61](https://news.ycombinator.com/item?id=43012751) \| 🗓️ 2025-02-11
-
-
-<br />
-FLAC 1.5 现已发布，作为基于自由无损音频编码的最新功能更新。此版本引入了**多线程音频编码**，用户可以通过 "-j #" 或 "--threads=#" 参数设置线程数。这一更新是对过去十年 CPU 核心数量增加的回应。此外，FLAC 1.5 还支持链式 Ogg FLAC 文件，并带来了多项库修复、构建系统更新及其他改进。有关 FLAC 1.5 的更多信息和下载，请访问 GitHub。
-
----
-
-## <a name="8"></a>8. 特斯拉Cybertruck撞上电线杆，车主称“感谢特斯拉” 
+## <a name="7"></a>7. 特斯拉Cybertruck撞上电线杆，车主称“感谢特斯拉” 
 <small>🔗 [thedrive.com](https://www.thedrive.com/news/tesla-cybertruck-drove-itself-into-a-pole-owner-says-thank-you-tesla): Tesla Cybertruck Drives Itself into a Pole, Owner Says 'Thank You Tesla'</small>
 
 
-| 🔥🔥: 187 \| 💬: [184](https://news.ycombinator.com/item?id=43016931) \| 🗓️ 2025-02-11
+| 🔥🔥: 191 \| 💬: [192](https://news.ycombinator.com/item?id=43016931) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -119,11 +107,11 @@ FLAC 1.5 现已发布，作为基于自由无损音频编码的最新功能更�
 
 ---
 
-## <a name="9"></a>9. SQL中的尾随逗号的讨论 
+## <a name="8"></a>8. SQL中的尾随逗号的讨论 
 <small>🔗 [peter.eisentraut.org](http://peter.eisentraut.org/blog/2025/02/11/how-about-trailing-commas-in-sql): How about trailing commas in SQL?</small>
 
 
-| 🔥🔥: 182 \| 💬: [227](https://news.ycombinator.com/item?id=43010365) \| 🗓️ 2025-02-11
+| 🔥🔥: 190 \| 💬: [230](https://news.ycombinator.com/item?id=43010365) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -131,11 +119,23 @@ FLAC 1.5 现已发布，作为基于自由无损音频编码的最新功能更�
 
 ---
 
+## <a name="9"></a>9. FLAC 1.5 引入多线程编码 
+<small>🔗 [phoronix.com](https://www.phoronix.com/news/FLAC-1.5-Released): FLAC 1.5 Delivers Multi-Threaded Encoding</small>
+
+
+| 🔥🔥: 189 \| 💬: [61](https://news.ycombinator.com/item?id=43012751) \| 🗓️ 2025-02-11
+
+
+<br />
+FLAC 1.5 现已发布，作为基于自由无损音频编码的最新功能更新。此版本引入了**多线程音频编码**，用户可以通过 "-j #" 或 "--threads=#" 参数设置线程数。这一更新是对过去十年 CPU 核心数量增加的回应。此外，FLAC 1.5 还支持链式 Ogg FLAC 文件，并带来了多项库修复、构建系统更新及其他改进。有关 FLAC 1.5 的更多信息和下载，请访问 GitHub。
+
+---
+
 ## <a name="10"></a>10. 汤森路透赢得美国首个重大AI版权案 
 <small>🔗 [wired.com](https://www.wired.com/story/thomson-reuters-ai-copyright-lawsuit/): Thomson Reuters wins first major AI copyright case in the US</small>
 
 
-| 🔥🔥: 144 \| 💬: [59](https://news.ycombinator.com/item?id=43018251) \| 🗓️ 2025-02-11
+| 🔥🔥: 187 \| 💬: [74](https://news.ycombinator.com/item?id=43018251) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -143,47 +143,11 @@ FLAC 1.5 现已发布，作为基于自由无损音频编码的最新功能更�
 
 ---
 
-## <a name="11"></a>11. 英特尔的Battlemage架构 
-<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/intels-battlemage-architecture): Intel's Battlemage Architecture</small>
-
-
-| 🔥🔥: 133 \| 💬: [87](https://news.ycombinator.com/item?id=43014408) \| 🗓️ 2025-02-11
-
-
-<br />
-英特尔的**Battlemage架构**继承了Alchemist架构，专注于中端显卡市场。新推出的Arc B580以250美元的价格提供12 GB的显存，旨在超越竞争对手。Battlemage在性能和效率上进行了多项改进，尤其是在**Xe核心**和内存访问方面，尽管其整体规模较小，但在处理多样化的图形工作负载时表现出色。
-
----
-
-## <a name="12"></a>12. 微软开源PostgreSQL扩展，挑战NoSQL市场 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/02/11/microsoft_postgresql_extensions/): Microsoft open sources PostgreSQL extensions</small>
-
-
-| 🔥🔥: 131 \| 💬: [52](https://news.ycombinator.com/item?id=43012294) \| 🗓️ 2025-02-11
-
-
-<br />
-微软推出了针对PostgreSQL的开源扩展，以支持文档风格数据，意在与主导的NoSQL数据库MongoDB竞争。这些扩展包括**pg_documentdb_core**和**pg_documentdb_api**，使PostgreSQL能够处理BSON格式并兼容MongoDB命令。专家指出，这一举措模糊了关系型和非关系型数据库之间的界限，表明文档数据库将成为关系系统的一部分。尽管MongoDB对微软的尝试表示不屑，但FerretDB的CEO希望通过与微软的合作，建立一个更稳固的MongoDB替代方案的基础。分析师对此表示谨慎，认为这并不意味着微软会广泛支持其他开源数据库项目。
-
----
-
-## <a name="13"></a>13. 大型语言模型自我学习以更好地预测未来 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2502.05253): LLMs can teach themselves to better predict the future</small>
-
-
-| 🔥🔥: 125 \| 💬: [57](https://news.ycombinator.com/item?id=43014918) \| 🗓️ 2025-02-11
-
-
-<br />
-本文提出了一种**结果驱动的微调框架**，旨在提升大型语言模型（LLMs）的预测能力，而无需依赖人工策划的推理样本。该方法通过模型自我对弈生成多样化的推理轨迹和概率预测，并根据与实际结果的距离对这些轨迹进行排名。通过直接偏好优化（DPO）对模型进行微调，实验表明该方法使Phi-4 14B和DeepSeek-R1 14B的预测准确率提高了7-10%，使其预测能力与更大模型如GPT-4o相当。
-
----
-
-## <a name="14"></a>14. 汽车物理控制设计的微妙艺术 
+## <a name="11"></a>11. 汽车物理控制设计的微妙艺术 
 <small>🔗 [theturnsignalblog.com](https://www.theturnsignalblog.com/the-subtle-art-of-designing-physical-control-for-cars/): The subtle art of designing physical controls for cars</small>
 
 
-| 🔥🔥: 125 \| 💬: [62](https://news.ycombinator.com/item?id=43017010) \| 🗓️ 2025-02-11
+| 🔥🔥: 150 \| 💬: [78](https://news.ycombinator.com/item?id=43017010) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -191,7 +155,55 @@ FLAC 1.5 现已发布，作为基于自由无损音频编码的最新功能更�
 
 ---
 
-## <a name="15"></a>15. RTX 5090电缆过热至150摄氏度 
+## <a name="12"></a>12. 英特尔的Battlemage架构 
+<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/intels-battlemage-architecture): Intel's Battlemage Architecture</small>
+
+
+| 🔥🔥: 142 \| 💬: [94](https://news.ycombinator.com/item?id=43014408) \| 🗓️ 2025-02-11
+
+
+<br />
+英特尔的**Battlemage架构**继承了Alchemist架构，专注于中端显卡市场。新推出的Arc B580以250美元的价格提供12 GB的显存，旨在超越竞争对手。Battlemage在性能和效率上进行了多项改进，尤其是在**Xe核心**和内存访问方面，尽管其整体规模较小，但在处理多样化的图形工作负载时表现出色。
+
+---
+
+## <a name="13"></a>13. 微软开源PostgreSQL扩展，挑战NoSQL市场 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/02/11/microsoft_postgresql_extensions/): Microsoft open sources PostgreSQL extensions</small>
+
+
+| 🔥🔥: 135 \| 💬: [53](https://news.ycombinator.com/item?id=43012294) \| 🗓️ 2025-02-11
+
+
+<br />
+微软推出了针对PostgreSQL的开源扩展，以支持文档风格数据，意在与主导的NoSQL数据库MongoDB竞争。这些扩展包括**pg_documentdb_core**和**pg_documentdb_api**，使PostgreSQL能够处理BSON格式并兼容MongoDB命令。专家指出，这一举措模糊了关系型和非关系型数据库之间的界限，表明文档数据库将成为关系系统的一部分。尽管MongoDB对微软的尝试表示不屑，但FerretDB的CEO希望通过与微软的合作，建立一个更稳固的MongoDB替代方案的基础。分析师对此表示谨慎，认为这并不意味着微软会广泛支持其他开源数据库项目。
+
+---
+
+## <a name="14"></a>14. 大型语言模型自我学习以更好地预测未来 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2502.05253): LLMs can teach themselves to better predict the future</small>
+
+
+| 🔥🔥: 132 \| 💬: [60](https://news.ycombinator.com/item?id=43014918) \| 🗓️ 2025-02-11
+
+
+<br />
+本文提出了一种**结果驱动的微调框架**，旨在提升大型语言模型（LLMs）的预测能力，而无需依赖人工策划的推理样本。该方法通过模型自我对弈生成多样化的推理轨迹和概率预测，并根据与实际结果的距离对这些轨迹进行排名。通过直接偏好优化（DPO）对模型进行微调，实验表明该方法使Phi-4 14B和DeepSeek-R1 14B的预测准确率提高了7-10%，使其预测能力与更大模型如GPT-4o相当。
+
+---
+
+## <a name="15"></a>15. 日本若重新思考科研资金，将再次成为科学强国 
+<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00394-8): Japan can be a science heavyweight once more if it rethinks funding</small>
+
+
+| 🔥: 94 \| 💬: [30](https://news.ycombinator.com/item?id=43016353) \| 🗓️ 2025-02-11
+
+
+<br />
+日本的科研资金仍主要集中在狭窄的学科领域，导致跨学科研究受到严重低估。尽管跨学科研究在全球范围内取得了显著成果，但日本在这方面的支持不足，影响了其科学创新能力。为了恢复其全球科学地位，日本应转变资金策略，**支持有潜力的研究者**而非仅仅资助项目，并借鉴如美国DARPA等机构的高风险高回报资金模型。此外，**扩大评审小组的多样性**也将有助于促进跨学科合作。
+
+---
+
+## <a name="16"></a>16. RTX 5090电缆过热至150摄氏度 
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/pc-components/gpus/rtx-5090-cable-overheats-to-150-degrees-celsius-uneven-current-distribution-likely-the-culprit): RTX 5090 cable overheats to 150 degrees Celsius</small>
 
 
@@ -200,18 +212,6 @@ FLAC 1.5 现已发布，作为基于自由无损音频编码的最新功能更�
 
 <br />
 最近，YouTuber Der8auer调查了一起RTX 5090显卡过热融化事件。他发现，使用第三方MODDIY电缆的用户并未造成用户错误，而是由于**不均匀的电流分配**导致某根电缆承载超过22A的电流，温度飙升至150摄氏度。尽管有批评声称第三方电缆质量不佳，Der8auer认为这种指责不公。此事件显示出显卡电源连接的潜在安全隐患，需引起重视。
-
----
-
-## <a name="16"></a>16. 日本若重新思考科研资金，将再次成为科学强国 
-<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00394-8): Japan can be a science heavyweight once more if it rethinks funding</small>
-
-
-| 🔥: 85 \| 💬: [28](https://news.ycombinator.com/item?id=43016353) \| 🗓️ 2025-02-11
-
-
-<br />
-日本的科研资金仍主要集中在狭窄的学科领域，导致跨学科研究受到严重低估。尽管跨学科研究在全球范围内取得了显著成果，但日本在这方面的支持不足，影响了其科学创新能力。为了恢复其全球科学地位，日本应转变资金策略，**支持有潜力的研究者**而非仅仅资助项目，并借鉴如美国DARPA等机构的高风险高回报资金模型。此外，**扩大评审小组的多样性**也将有助于促进跨学科合作。
 
 ---
 
@@ -231,7 +231,7 @@ FLAC 1.5 现已发布，作为基于自由无损音频编码的最新功能更�
 <small>🔗 [data.perkins.org](https://data.perkins.org/): Database of 750 companies building for people with disabilities</small>
 
 
-| 🔥: 77 \| 💬: [10](https://news.ycombinator.com/item?id=43016802) \| 🗓️ 2025-02-11
+| 🔥: 80 \| 💬: [10](https://news.ycombinator.com/item?id=43016802) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -243,7 +243,7 @@ Howe创新中心正在研究**DisabilityTech**市场，涵盖为残疾人士设�
 <small>🔗 [andrews.substack.com](https://andrews.substack.com/p/get-in-loser-were-rewinding-the-stack): Get in loser. We're rewinding the stack</small>
 
 
-| 🔥: 75 \| 💬: [1](https://news.ycombinator.com/item?id=43014070) \| 🗓️ 2025-02-11
+| 🔥: 77 \| 💬: [1](https://news.ycombinator.com/item?id=43014070) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -251,15 +251,15 @@ Howe创新中心正在研究**DisabilityTech**市场，涵盖为残疾人士设�
 
 ---
 
-## <a name="20"></a>20. E Ink的彩色电子纸技术为户外显示屏升级 
-<small>🔗 [newatlas.com](https://newatlas.com/technology/e-ink-kaleido-outdoor-3-75-inch-displays/): E Ink's color ePaper tech gets supersized for outdoor displays</small>
+## <a name="20"></a>20. 重振动手工作的乐趣与荣耀 
+<small>🔗 [richmond.com](https://richmond.com/holmberg-reviving-the-joy-and-honor-of-working-with-your-hands-will-strengthen-our-nation/article_d8130166-855d-53b6-94e1-cb735edcd7cc.html): Reviving the joy and honor of working with your hands (2015)</small>
 
 
-| 🔥: 68 \| 💬: [55](https://news.ycombinator.com/item?id=43014418) \| 🗓️ 2025-02-11
+| 🔥: 70 \| 💬: [26](https://news.ycombinator.com/item?id=43016248) \| 🗓️ 2025-02-11
 
 
 <br />
-E Ink展示了其最新的**Kaleido Outdoor 3**技术，推出了75英寸的户外显示屏，适用于数字户外广告。该技术具有动态色彩显示能力，能在-15°C到65°C的温度范围内工作，且仅在图像刷新时消耗电力，支持太阳能供电。E Ink强调其低能耗和环保特性，使其成为可持续发展的理想选择。
+诺埃尔·登普西在美国工业衰退中坚持了三十年，他从废弃的工业车间中挖掘重型机械，反映出职业教育的急剧下降。随着对职业技术教育（CTE）的重视增加，社会开始意识到**重建制造业**的重要性。登普西认为，懂得用手工作是一种宝贵的技能，未来需要更多愿意动手的人。
 
 ---
 
@@ -267,7 +267,7 @@ E Ink展示了其最新的**Kaleido Outdoor 3**技术，推出了75英寸的户�
 <small>🔗 [apnews.com](https://apnews.com/article/trump-cdc-fda-doctors-for-america-5263fc6b6cbc723ca0c86c4460d02f33): Judge tells agencies to restore webpages and data removed</small>
 
 
-| 🔥: 68 \| 💬: [41](https://news.ycombinator.com/item?id=43016675) \| 🗓️ 2025-02-11
+| 🔥: 70 \| 💬: [44](https://news.ycombinator.com/item?id=43016675) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -279,7 +279,7 @@ E Ink展示了其最新的**Kaleido Outdoor 3**技术，推出了75英寸的户�
 <small>🔗 [anchoreum.com](https://anchoreum.com): Anchoreum: A game for learning CSS anchor positioning</small>
 
 
-| 🔥: 67 \| 💬: [21](https://news.ycombinator.com/item?id=43012714) \| 🗓️ 2025-02-11
+| 🔥: 68 \| 💬: [21](https://news.ycombinator.com/item?id=43012714) \| 🗓️ 2025-02-11
 
 
 <br />
@@ -287,7 +287,19 @@ Anchoreum是由Codepip创建的游戏，旨在帮助用户学习**CSS**锚定位
 
 ---
 
-## <a name="23"></a>23. 工作的神话 
+## <a name="23"></a>23. E Ink的彩色电子纸技术为户外显示屏升级 
+<small>🔗 [newatlas.com](https://newatlas.com/technology/e-ink-kaleido-outdoor-3-75-inch-displays/): E Ink's color ePaper tech gets supersized for outdoor displays</small>
+
+
+| 🔥: 68 \| 💬: [55](https://news.ycombinator.com/item?id=43014418) \| 🗓️ 2025-02-11
+
+
+<br />
+E Ink展示了其最新的**Kaleido Outdoor 3**技术，推出了75英寸的户外显示屏，适用于数字户外广告。该技术具有动态色彩显示能力，能在-15°C到65°C的温度范围内工作，且仅在图像刷新时消耗电力，支持太阳能供电。E Ink强调其低能耗和环保特性，使其成为可持续发展的理想选择。
+
+---
+
+## <a name="24"></a>24. 工作的神话 
 <small>🔗 [crimethinc.com](https://crimethinc.com/2018/09/03/the-mythology-of-work-eight-myths-that-keep-your-eyes-on-the-clock-and-your-nose-to-the-grindstone): The Mythology of Work (2018)</small>
 
 
