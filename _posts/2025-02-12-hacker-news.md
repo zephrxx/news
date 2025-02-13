@@ -27,7 +27,7 @@ tags:
 <small>🔗 [brutecat.com](https://brutecat.com/articles/leaking-youtube-emails): Leaking the email of any YouTube user for $10k</small>
 
 
-| 🔥🔥: 1304 \| 💬: [382](https://news.ycombinator.com/item?id=43024221) \| 🗓️ 2025-02-12
+| 🔥🔥: 1329 \| 💬: [390](https://news.ycombinator.com/item?id=43024221) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [paulbutler.org](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/): Smuggling arbitrary data through an emoji</small>
 
 
-| 🔥🔥: 464 \| 💬: [151](https://news.ycombinator.com/item?id=43023508) \| 🗓️ 2025-02-12
+| 🔥🔥: 475 \| 💬: [152](https://news.ycombinator.com/item?id=43023508) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/02/us-and-uk-refuse-to-sign-ai-safety-declaration-at-summit/): US and UK refuse to sign AI safety declaration at summit</small>
 
 
-| 🔥🔥: 291 \| 💬: [547](https://news.ycombinator.com/item?id=43023554) \| 🗓️ 2025-02-12
+| 🔥🔥: 299 \| 💬: [553](https://news.ycombinator.com/item?id=43023554) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [techtalksweekly.io](https://www.techtalksweekly.io/p/100-most-watched-software-engineering): Most-Watched Software Engineering Talks of 2024</small>
 
 
-| 🔥🔥: 256 \| 💬: [82](https://news.ycombinator.com/item?id=43026590) \| 🗓️ 2025-02-12
+| 🔥🔥: 260 \| 💬: [82](https://news.ycombinator.com/item?id=43026590) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [worksinprogress.news](https://www.worksinprogress.news/p/the-prophet-of-parking): The Prophet of Parking: A eulogy for the great Donald Shoup</small>
 
 
-| 🔥🔥: 218 \| 💬: [235](https://news.ycombinator.com/item?id=43026920) \| 🗓️ 2025-02-12
+| 🔥🔥: 226 \| 💬: [240](https://news.ycombinator.com/item?id=43026920) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [eli.lipsitz.net](https://eli.lipsitz.net/posts/introducing-gamebub/): Show HN: Game Bub – open-source FPGA retro emulation handheld</small>
 
 
-| 🔥🔥: 187 \| 💬: [49](https://news.ycombinator.com/item?id=43027335) \| 🗓️ 2025-02-12
+| 🔥🔥: 195 \| 💬: [49](https://news.ycombinator.com/item?id=43027335) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [railsatscale.com](https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/): Tiny JITs for a Faster FFI</small>
 
 
-| 🔥🔥: 186 \| 💬: [55](https://news.ycombinator.com/item?id=43030388) \| 🗓️ 2025-02-12
+| 🔥🔥: 195 \| 💬: [66](https://news.ycombinator.com/item?id=43030388) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [github.com](https://github.com/nexsol-technologies/pgassistant): PgAssistant: OSS tool to help devs understand and optimize PG performance</small>
 
 
-| 🔥🔥: 183 \| 💬: [33](https://news.ycombinator.com/item?id=43026036) \| 🗓️ 2025-02-12
+| 🔥🔥: 188 \| 💬: [34](https://news.ycombinator.com/item?id=43026036) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -123,7 +123,7 @@ PgAssistant是一个开源工具，旨在帮助开发者理解和优化他们的
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00444-1): Record-breaking neutrino is most energetic ever detected</small>
 
 
-| 🔥🔥: 175 \| 💬: [105](https://news.ycombinator.com/item?id=43027150) \| 🗓️ 2025-02-12
+| 🔥🔥: 180 \| 💬: [104](https://news.ycombinator.com/item?id=43027150) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -135,7 +135,7 @@ PgAssistant是一个开源工具，旨在帮助开发者理解和优化他们的
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/5g-bandwidth): 5G networks meet consumer needs as mobile data growth slows</small>
 
 
-| 🔥🔥: 170 \| 💬: [239](https://news.ycombinator.com/item?id=43027266) \| 🗓️ 2025-02-12
+| 🔥🔥: 174 \| 💬: [244](https://news.ycombinator.com/item?id=43027266) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -159,7 +159,7 @@ Webb-site创始人David M. Webb因癌症病情恶化，计划在2025年3月31日
 <small>🔗 [cpubenchmark.net](https://www.cpubenchmark.net/year-on-year.html): The average CPU performance of PCs and notebooks fell for the first time</small>
 
 
-| 🔥🔥: 142 \| 💬: [98](https://news.ycombinator.com/item?id=43029474) \| 🗓️ 2025-02-12
+| 🔥🔥: 162 \| 💬: [105](https://news.ycombinator.com/item?id=43029474) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -167,11 +167,23 @@ Webb-site创始人David M. Webb因癌症病情恶化，计划在2025年3月31日
 
 ---
 
-## <a name="13"></a>13. 微型指针 
+## <a name="13"></a>13. DeaDBeeF：终极音乐播放器 
+<small>🔗 [deadbeef.sourceforge.io](https://deadbeef.sourceforge.io/): DeaDBeeF: The Ultimate Music Player</small>
+
+
+| 🔥🔥: 141 \| 💬: [107](https://news.ycombinator.com/item?id=43024961) \| 🗓️ 2025-02-12
+
+
+<br />
+DeaDBeeF是一款**模块化的跨平台音频播放器**，支持多种操作系统，包括GNU/Linux、macOS和Windows。它能够播放多种音频格式，如MP3、FLAC和OGG，支持标签编辑和高质量的音频处理。用户可以通过**高度自定义的界面**和插件扩展功能，享受无缝播放和网络流媒体功能。DeaDBeeF还提供强大的转换插件，便于将音乐转码为所需格式，适合移动设备使用。
+
+---
+
+## <a name="14"></a>14. 微型指针 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2111.12800): Tiny Pointers</small>
 
 
-| 🔥🔥: 138 \| 💬: [34](https://news.ycombinator.com/item?id=43023634) \| 🗓️ 2025-02-12
+| 🔥🔥: 140 \| 💬: [34](https://news.ycombinator.com/item?id=43023634) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -179,7 +191,7 @@ Webb-site创始人David M. Webb因癌症病情恶化，计划在2025年3月31日
 
 ---
 
-## <a name="14"></a>14. 使用 --depth 2 进行 Git 克隆比 --depth 1 更佳，尤其在后续推送时 
+## <a name="15"></a>15. 使用 --depth 2 进行 Git 克隆比 --depth 1 更佳，尤其在后续推送时 
 <small>🔗 [stackoverflow.com](https://stackoverflow.com/questions/66431436/pushing-to-github-after-a-shallow-clone-is-horribly-slow): Git clone –depth 2 is vastly better than –depth 1 if you want to Git push later</small>
 
 
@@ -191,23 +203,11 @@ Webb-site创始人David M. Webb因癌症病情恶化，计划在2025年3月31日
 
 ---
 
-## <a name="15"></a>15. DeaDBeeF：终极音乐播放器 
-<small>🔗 [deadbeef.sourceforge.io](https://deadbeef.sourceforge.io/): DeaDBeeF: The Ultimate Music Player</small>
-
-
-| 🔥🔥: 136 \| 💬: [103](https://news.ycombinator.com/item?id=43024961) \| 🗓️ 2025-02-12
-
-
-<br />
-DeaDBeeF是一款**模块化的跨平台音频播放器**，支持多种操作系统，包括GNU/Linux、macOS和Windows。它能够播放多种音频格式，如MP3、FLAC和OGG，支持标签编辑和高质量的音频处理。用户可以通过**高度自定义的界面**和插件扩展功能，享受无缝播放和网络流媒体功能。DeaDBeeF还提供强大的转换插件，便于将音乐转码为所需格式，适合移动设备使用。
-
----
-
 ## <a name="16"></a>16. 英雄联盟数据抓取的艰难与乐趣 
 <small>🔗 [maknee.github.io](https://maknee.github.io/blog/2025/League-Data-Scraping/): League of Legends data scraping the hard and tedious way for fun</small>
 
 
-| 🔥🔥: 135 \| 💬: [29](https://news.ycombinator.com/item?id=43024173) \| 🗓️ 2025-02-12
+| 🔥🔥: 136 \| 💬: [30](https://news.ycombinator.com/item?id=43024173) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -219,7 +219,7 @@ DeaDBeeF是一款**模块化的跨平台音频播放器**，支持多种操作�
 <small>🔗 [imapsync.lamiral.info](https://imapsync.lamiral.info/): Imapsync</small>
 
 
-| 🔥: 96 \| 💬: [35](https://news.ycombinator.com/item?id=43028468) \| 🗓️ 2025-02-12
+| 🔥🔥: 101 \| 💬: [38](https://news.ycombinator.com/item?id=43028468) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -231,7 +231,7 @@ Imapsync是一个**命令行工具**，用于迁移和备份IMAP邮箱，支持W
 <small>🔗 [blog.archive.org](https://blog.archive.org/2025/02/12/vanishing-culture-punch-card-knitting/): Vanishing Culture: Punch Card Knitting</small>
 
 
-| 🔥: 94 \| 💬: [18](https://news.ycombinator.com/item?id=43024540) \| 🗓️ 2025-02-12
+| 🔥: 97 \| 💬: [19](https://news.ycombinator.com/item?id=43024540) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -239,11 +239,23 @@ Imapsync是一个**命令行工具**，用于迁移和备份IMAP邮箱，支持W
 
 ---
 
-## <a name="19"></a>19. 创造AI的能力正是它可能抹去的东西 
+## <a name="19"></a>19. 如何专业地表达（2022） 
+<small>🔗 [github.com](https://github.com/AkashRajpurohit/howtoprofessionallysay): How to professionally say (2022)</small>
+
+
+| 🔥: 79 \| 💬: [29](https://news.ycombinator.com/item?id=43031740) \| 🗓️ 2025-02-12
+
+
+<br />
+这是一个为日常“专业”互动提供指南的静态网站，旨在帮助用户将常见短语重新表述得更为专业。该项目的数据来源于Instagram创作者@loewhaley的内容，旨在提供更好的表达方式，而非被动攻击的语气。使用的技术栈包括**Next.js**、**TailwindCSS**和**Cloudflare Pages**。项目欢迎反馈和贡献，鼓励用户以开放的心态使用这些表达方式。
+
+---
+
+## <a name="20"></a>20. 创造AI的能力正是它可能抹去的东西 
 <small>🔗 [chrbutler.com](https://www.chrbutler.com/the-productive-void): What enabled us to create AI is the thing it has the power to erase</small>
 
 
-| 🔥: 73 \| 💬: [84](https://news.ycombinator.com/item?id=43030556) \| 🗓️ 2025-02-12
+| 🔥: 75 \| 💬: [86](https://news.ycombinator.com/item?id=43030556) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -251,7 +263,7 @@ Imapsync是一个**命令行工具**，用于迁移和备份IMAP邮箱，支持W
 
 ---
 
-## <a name="20"></a>20. 叙利亚50年来首次举办国际科技会议 
+## <a name="21"></a>21. 叙利亚50年来首次举办国际科技会议 
 <small>🔗 [restofworld.org](https://restofworld.org/2025/syria-international-tech-conference-sync-25/): Syria just hosted its first international tech conference in 50 years</small>
 
 
@@ -260,18 +272,6 @@ Imapsync是一个**命令行工具**，用于迁移和备份IMAP邮箱，支持W
 
 <br />
 2025年2月，叙利亚大马士革举行了为期两天的SYNC 25科技会议，这是该国50年来首次独立举办的科技活动。会议由叙利亚裔硅谷企业家组织，旨在促进叙利亚科技生态系统与硅谷的联系，计划在未来五年内创造25,000个新工作岗位。尽管叙利亚经济面临重重挑战，包括基础设施落后和国际信任缺失，参与者仍希望通过此类活动重建信任，吸引投资。新政府对科技行业的支持态度积极，期待未来更多类似会议的举办。
-
----
-
-## <a name="21"></a>21. 如何专业地表达（2022） 
-<small>🔗 [github.com](https://github.com/AkashRajpurohit/howtoprofessionallysay): How to professionally say (2022)</small>
-
-
-| 🔥: 60 \| 💬: [16](https://news.ycombinator.com/item?id=43031740) \| 🗓️ 2025-02-12
-
-
-<br />
-这是一个为日常“专业”互动提供指南的静态网站，旨在帮助用户将常见短语重新表述得更为专业。该项目的数据来源于Instagram创作者@loewhaley的内容，旨在提供更好的表达方式，而非被动攻击的语气。使用的技术栈包括**Next.js**、**TailwindCSS**和**Cloudflare Pages**。项目欢迎反馈和贡献，鼓励用户以开放的心态使用这些表达方式。
 
 ---
 
