@@ -10,8 +10,8 @@ tags:
 
 1. 以$10,000泄露任何YouTube用户的电子邮件；
 1. 通过表情符号传输任意数据；
-1. 2024年最受欢迎的软件工程演讲；
 1. 美国和英国拒绝在峰会上签署人工智能安全声明；
+1. 2024年最受欢迎的软件工程演讲；
 1. 停车的先知：为伟大的唐纳德·舒普致哀；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [brutecat.com](https://brutecat.com/articles/leaking-youtube-emails): Leaking the email of any YouTube user for $10k</small>
 
 
-| 🔥🔥: 1210 \| 💬: [357](https://news.ycombinator.com/item?id=43024221) \| 🗓️ 2025-02-12
+| 🔥🔥: 1242 \| 💬: [365](https://news.ycombinator.com/item?id=43024221) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [paulbutler.org](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/): Smuggling arbitrary data through an emoji</small>
 
 
-| 🔥🔥: 410 \| 💬: [135](https://news.ycombinator.com/item?id=43023508) \| 🗓️ 2025-02-12
+| 🔥🔥: 428 \| 💬: [140](https://news.ycombinator.com/item?id=43023508) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -47,23 +47,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 2024年最受欢迎的软件工程演讲 
-<small>🔗 [techtalksweekly.io](https://www.techtalksweekly.io/p/100-most-watched-software-engineering): Most-Watched Software Engineering Talks of 2024</small>
-
-
-| 🔥🔥: 244 \| 💬: [80](https://news.ycombinator.com/item?id=43026590) \| 🗓️ 2025-02-12
-
-
-<br />
-2024年，Tech Talks Weekly发布了**最受欢迎的100个软件工程演讲**，涵盖全球各大软件工程会议。这些演讲按观看次数排序，展示了行业内的热门话题和趋势，如**大型语言模型**、**Web开发的未来**和**可靠性工程**等。该列表不仅丰富了观众的观看清单，也为软件工程师提供了宝贵的学习资源。
-
----
-
-## <a name="4"></a>4. 美国和英国拒绝在峰会上签署人工智能安全声明 
+## <a name="3"></a>3. 美国和英国拒绝在峰会上签署人工智能安全声明 
 <small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/02/us-and-uk-refuse-to-sign-ai-safety-declaration-at-summit/): US and UK refuse to sign AI safety declaration at summit</small>
 
 
-| 🔥🔥: 238 \| 💬: [489](https://news.ycombinator.com/item?id=43023554) \| 🗓️ 2025-02-12
+| 🔥🔥: 251 \| 💬: [512](https://news.ycombinator.com/item?id=43023554) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -71,11 +59,23 @@ tags:
 
 ---
 
+## <a name="4"></a>4. 2024年最受欢迎的软件工程演讲 
+<small>🔗 [techtalksweekly.io](https://www.techtalksweekly.io/p/100-most-watched-software-engineering): Most-Watched Software Engineering Talks of 2024</small>
+
+
+| 🔥🔥: 247 \| 💬: [81](https://news.ycombinator.com/item?id=43026590) \| 🗓️ 2025-02-12
+
+
+<br />
+2024年，Tech Talks Weekly发布了**最受欢迎的100个软件工程演讲**，涵盖全球各大软件工程会议。这些演讲按观看次数排序，展示了行业内的热门话题和趋势，如**大型语言模型**、**Web开发的未来**和**可靠性工程**等。该列表不仅丰富了观众的观看清单，也为软件工程师提供了宝贵的学习资源。
+
+---
+
 ## <a name="5"></a>5. 停车的先知：为伟大的唐纳德·舒普致哀 
 <small>🔗 [worksinprogress.news](https://www.worksinprogress.news/p/the-prophet-of-parking): The Prophet of Parking: A eulogy for the great Donald Shoup</small>
 
 
-| 🔥🔥: 179 \| 💬: [206](https://news.ycombinator.com/item?id=43026920) \| 🗓️ 2025-02-12
+| 🔥🔥: 188 \| 💬: [219](https://news.ycombinator.com/item?id=43026920) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -83,27 +83,27 @@ tags:
 
 ---
 
-## <a name="6"></a>6. PgAssistant：帮助开发者理解和优化PG性能的开源工具 
-<small>🔗 [github.com](https://github.com/nexsol-technologies/pgassistant): PgAssistant: OSS tool to help devs understand and optimize PG performance</small>
-
-
-| 🔥🔥: 166 \| 💬: [31](https://news.ycombinator.com/item?id=43026036) \| 🗓️ 2025-02-12
-
-
-<br />
-PgAssistant是一个开源工具，旨在帮助开发者理解和优化他们的**PostgreSQL**数据库性能。它提供数据库行为分析、**模式优化**和SQL查询库管理等功能，用户可以通过简单的JSON文件管理特定的SQL查询。此外，PgAssistant集成了**OpenAI**和本地LLM助手，帮助用户优化查询计划。使用pgAssistant前需激活pg_stat_statements模块，支持Docker环境和手动构建。
-
----
-
-## <a name="7"></a>7. Game Bub – 开源FPGA复古模拟掌机 
+## <a name="6"></a>6. Game Bub – 开源FPGA复古模拟掌机 
 <small>🔗 [eli.lipsitz.net](https://eli.lipsitz.net/posts/introducing-gamebub/): Show HN: Game Bub – open-source FPGA retro emulation handheld</small>
 
 
-| 🔥🔥: 165 \| 💬: [44](https://news.ycombinator.com/item?id=43027335) \| 🗓️ 2025-02-12
+| 🔥🔥: 174 \| 💬: [46](https://news.ycombinator.com/item?id=43027335) \| 🗓️ 2025-02-12
 
 
 <br />
 我很高兴地宣布我花了一年半时间开发的项目：**Game Bub**，一款基于开源FPGA的复古模拟掌机，支持**Game Boy**、**Game Boy Color**和**Game Boy Advance**游戏。Game Bub可以播放实体卡带和从microSD卡加载的ROM文件，支持多人游戏的Game Link Cable。设备设计包括HDMI视频输出、震动马达和实时钟等扩展功能，硬件采用六层PCB，搭载Xilinx XC7A100T FPGA。项目旨在创建一个可玩性强且易于使用的设备，同时保持开源和可扩展性。
+
+---
+
+## <a name="7"></a>7. PgAssistant：帮助开发者理解和优化PG性能的开源工具 
+<small>🔗 [github.com](https://github.com/nexsol-technologies/pgassistant): PgAssistant: OSS tool to help devs understand and optimize PG performance</small>
+
+
+| 🔥🔥: 171 \| 💬: [31](https://news.ycombinator.com/item?id=43026036) \| 🗓️ 2025-02-12
+
+
+<br />
+PgAssistant是一个开源工具，旨在帮助开发者理解和优化他们的**PostgreSQL**数据库性能。它提供数据库行为分析、**模式优化**和SQL查询库管理等功能，用户可以通过简单的JSON文件管理特定的SQL查询。此外，PgAssistant集成了**OpenAI**和本地LLM助手，帮助用户优化查询计划。使用pgAssistant前需激活pg_stat_statements模块，支持Docker环境和手动构建。
 
 ---
 
@@ -123,7 +123,7 @@ Webb-site创始人David M. Webb因癌症病情恶化，计划在2025年3月31日
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00444-1): Record-breaking neutrino is most energetic ever detected</small>
 
 
-| 🔥🔥: 158 \| 💬: [89](https://news.ycombinator.com/item?id=43027150) \| 🗓️ 2025-02-12
+| 🔥🔥: 162 \| 💬: [94](https://news.ycombinator.com/item?id=43027150) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -135,7 +135,7 @@ Webb-site创始人David M. Webb因癌症病情恶化，计划在2025年3月31日
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/5g-bandwidth): 5G networks meet consumer needs as mobile data growth slows</small>
 
 
-| 🔥🔥: 148 \| 💬: [204](https://news.ycombinator.com/item?id=43027266) \| 🗓️ 2025-02-12
+| 🔥🔥: 156 \| 💬: [222](https://news.ycombinator.com/item?id=43027266) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -147,7 +147,7 @@ Webb-site创始人David M. Webb因癌症病情恶化，计划在2025年3月31日
 <small>🔗 [stackoverflow.com](https://stackoverflow.com/questions/66431436/pushing-to-github-after-a-shallow-clone-is-horribly-slow): Git clone –depth 2 is vastly better than –depth 1 if you want to Git push later</small>
 
 
-| 🔥🔥: 135 \| 💬: [32](https://news.ycombinator.com/item?id=43023283) \| 🗓️ 2025-02-12
+| 🔥🔥: 136 \| 💬: [32](https://news.ycombinator.com/item?id=43023283) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -159,7 +159,7 @@ Webb-site创始人David M. Webb因癌症病情恶化，计划在2025年3月31日
 <small>🔗 [maknee.github.io](https://maknee.github.io/blog/2025/League-Data-Scraping/): League of Legends data scraping the hard and tedious way for fun</small>
 
 
-| 🔥🔥: 126 \| 💬: [26](https://news.ycombinator.com/item?id=43024173) \| 🗓️ 2025-02-12
+| 🔥🔥: 129 \| 💬: [26](https://news.ycombinator.com/item?id=43024173) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -167,35 +167,11 @@ Webb-site创始人David M. Webb因癌症病情恶化，计划在2025年3月31日
 
 ---
 
-## <a name="13"></a>13. DeaDBeeF：终极音乐播放器 
-<small>🔗 [deadbeef.sourceforge.io](https://deadbeef.sourceforge.io/): DeaDBeeF: The Ultimate Music Player</small>
-
-
-| 🔥🔥: 123 \| 💬: [89](https://news.ycombinator.com/item?id=43024961) \| 🗓️ 2025-02-12
-
-
-<br />
-DeaDBeeF是一款**模块化的跨平台音频播放器**，支持多种操作系统，包括GNU/Linux、macOS和Windows。它能够播放多种音频格式，如MP3、FLAC和OGG，支持标签编辑和高质量的音频处理。用户可以通过**高度自定义的界面**和插件扩展功能，享受无缝播放和网络流媒体功能。DeaDBeeF还提供强大的转换插件，便于将音乐转码为所需格式，适合移动设备使用。
-
----
-
-## <a name="14"></a>14. 微型指针 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2111.12800): Tiny Pointers</small>
-
-
-| 🔥🔥: 120 \| 💬: [34](https://news.ycombinator.com/item?id=43023634) \| 🗓️ 2025-02-12
-
-
-<br />
-这篇论文介绍了一种新型数据结构——**微型指针**。在许多应用中，传统的 $\log n$ 位指针可以被 $o(\log n)$ 位的微型指针替代，且仅需增加常数时间开销。研究者们提出了微型指针的全面理论，并为固定大小和可变大小的微型指针提供了最优构造。微型指针的使用使得多个经典数据结构问题的空间效率得以提升，如数据检索、动态二叉搜索树和空间高效字典等。这些成果不仅优化了指针的使用，还重新审视了与球和箱子相关的经典问题，具有独立的研究价值。
-
----
-
-## <a name="15"></a>15. 更快的FFI：Tiny JITs的探索 
+## <a name="13"></a>13. 更快的FFI：Tiny JITs的探索 
 <small>🔗 [railsatscale.com](https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/): Tiny JITs for a Faster FFI</small>
 
 
-| 🔥🔥: 112 \| 💬: [37](https://news.ycombinator.com/item?id=43030388) \| 🗓️ 2025-02-12
+| 🔥🔥: 129 \| 💬: [41](https://news.ycombinator.com/item?id=43030388) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -203,23 +179,35 @@ DeaDBeeF是一款**模块化的跨平台音频播放器**，支持多种操作�
 
 ---
 
-## <a name="16"></a>16. 消失的文化：打孔卡编织 
-<small>🔗 [blog.archive.org](https://blog.archive.org/2025/02/12/vanishing-culture-punch-card-knitting/): Vanishing Culture: Punch Card Knitting</small>
+## <a name="14"></a>14. DeaDBeeF：终极音乐播放器 
+<small>🔗 [deadbeef.sourceforge.io](https://deadbeef.sourceforge.io/): DeaDBeeF: The Ultimate Music Player</small>
 
 
-| 🔥: 87 \| 💬: [14](https://news.ycombinator.com/item?id=43024540) \| 🗓️ 2025-02-12
+| 🔥🔥: 128 \| 💬: [91](https://news.ycombinator.com/item?id=43024961) \| 🗓️ 2025-02-12
 
 
 <br />
-打孔卡是一种有趣的**二进制数据存储格式**，不仅是历史遗物，今天的编织机仍在使用它们。尽管面临技术挑战，打孔卡在纺织领域依然活跃，尤其是在女性DIY文化中。打孔卡的编码方式让人们能够创造出复杂的图案，且这种技术与计算机历史紧密相连。通过社区支持的基础设施，打孔卡的数字化和保存工作正在进行，帮助我们更好地理解计算历史并支持创意计算的持续发展。
+DeaDBeeF是一款**模块化的跨平台音频播放器**，支持多种操作系统，包括GNU/Linux、macOS和Windows。它能够播放多种音频格式，如MP3、FLAC和OGG，支持标签编辑和高质量的音频处理。用户可以通过**高度自定义的界面**和插件扩展功能，享受无缝播放和网络流媒体功能。DeaDBeeF还提供强大的转换插件，便于将音乐转码为所需格式，适合移动设备使用。
 
 ---
 
-## <a name="17"></a>17. 平均CPU性能首次下降 
+## <a name="15"></a>15. 微型指针 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2111.12800): Tiny Pointers</small>
+
+
+| 🔥🔥: 124 \| 💬: [34](https://news.ycombinator.com/item?id=43023634) \| 🗓️ 2025-02-12
+
+
+<br />
+这篇论文介绍了一种新型数据结构——**微型指针**。在许多应用中，传统的 $\log n$ 位指针可以被 $o(\log n)$ 位的微型指针替代，且仅需增加常数时间开销。研究者们提出了微型指针的全面理论，并为固定大小和可变大小的微型指针提供了最优构造。微型指针的使用使得多个经典数据结构问题的空间效率得以提升，如数据检索、动态二叉搜索树和空间高效字典等。这些成果不仅优化了指针的使用，还重新审视了与球和箱子相关的经典问题，具有独立的研究价值。
+
+---
+
+## <a name="16"></a>16. 平均CPU性能首次下降 
 <small>🔗 [cpubenchmark.net](https://www.cpubenchmark.net/year-on-year.html): The average CPU performance of PCs and notebooks fell for the first time</small>
 
 
-| 🔥: 84 \| 💬: [54](https://news.ycombinator.com/item?id=43029474) \| 🗓️ 2025-02-12
+| 🔥🔥: 101 \| 💬: [66](https://news.ycombinator.com/item?id=43029474) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -227,11 +215,23 @@ DeaDBeeF是一款**模块化的跨平台音频播放器**，支持多种操作�
 
 ---
 
+## <a name="17"></a>17. 消失的文化：打孔卡编织 
+<small>🔗 [blog.archive.org](https://blog.archive.org/2025/02/12/vanishing-culture-punch-card-knitting/): Vanishing Culture: Punch Card Knitting</small>
+
+
+| 🔥: 90 \| 💬: [16](https://news.ycombinator.com/item?id=43024540) \| 🗓️ 2025-02-12
+
+
+<br />
+打孔卡是一种有趣的**二进制数据存储格式**，不仅是历史遗物，今天的编织机仍在使用它们。尽管面临技术挑战，打孔卡在纺织领域依然活跃，尤其是在女性DIY文化中。打孔卡的编码方式让人们能够创造出复杂的图案，且这种技术与计算机历史紧密相连。通过社区支持的基础设施，打孔卡的数字化和保存工作正在进行，帮助我们更好地理解计算历史并支持创意计算的持续发展。
+
+---
+
 ## <a name="18"></a>18. IMAP同步工具 
 <small>🔗 [imapsync.lamiral.info](https://imapsync.lamiral.info/): Imapsync</small>
 
 
-| 🔥: 77 \| 💬: [29](https://news.ycombinator.com/item?id=43028468) \| 🗓️ 2025-02-12
+| 🔥: 81 \| 💬: [35](https://news.ycombinator.com/item?id=43028468) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -243,7 +243,7 @@ Imapsync是一个**命令行工具**，用于迁移和备份IMAP邮箱，支持W
 <small>🔗 [restofworld.org](https://restofworld.org/2025/syria-international-tech-conference-sync-25/): Syria just hosted its first international tech conference in 50 years</small>
 
 
-| 🔥: 68 \| 💬: [12](https://news.ycombinator.com/item?id=43029277) \| 🗓️ 2025-02-12
+| 🔥: 68 \| 💬: [14](https://news.ycombinator.com/item?id=43029277) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -255,7 +255,7 @@ Imapsync是一个**命令行工具**，用于迁移和备份IMAP邮箱，支持W
 <small>🔗 [chrbutler.com](https://www.chrbutler.com/the-productive-void): What enabled us to create AI is the thing it has the power to erase</small>
 
 
-| 🔥: 58 \| 💬: [68](https://news.ycombinator.com/item?id=43030556) \| 🗓️ 2025-02-12
+| 🔥: 66 \| 💬: [79](https://news.ycombinator.com/item?id=43030556) \| 🗓️ 2025-02-12
 
 
 <br />
