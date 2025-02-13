@@ -27,7 +27,7 @@ tags:
 <small>🔗 [brutecat.com](https://brutecat.com/articles/leaking-youtube-emails): Leaking the email of any YouTube user for $10k</small>
 
 
-| 🔥🔥: 1265 \| 💬: [372](https://news.ycombinator.com/item?id=43024221) \| 🗓️ 2025-02-12
+| 🔥🔥: 1288 \| 💬: [378](https://news.ycombinator.com/item?id=43024221) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [paulbutler.org](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/): Smuggling arbitrary data through an emoji</small>
 
 
-| 🔥🔥: 447 \| 💬: [144](https://news.ycombinator.com/item?id=43023508) \| 🗓️ 2025-02-12
+| 🔥🔥: 456 \| 💬: [148](https://news.ycombinator.com/item?id=43023508) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/02/us-and-uk-refuse-to-sign-ai-safety-declaration-at-summit/): US and UK refuse to sign AI safety declaration at summit</small>
 
 
-| 🔥🔥: 264 \| 💬: [518](https://news.ycombinator.com/item?id=43023554) \| 🗓️ 2025-02-12
+| 🔥🔥: 276 \| 💬: [536](https://news.ycombinator.com/item?id=43023554) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [techtalksweekly.io](https://www.techtalksweekly.io/p/100-most-watched-software-engineering): Most-Watched Software Engineering Talks of 2024</small>
 
 
-| 🔥🔥: 251 \| 💬: [81](https://news.ycombinator.com/item?id=43026590) \| 🗓️ 2025-02-12
+| 🔥🔥: 253 \| 💬: [82](https://news.ycombinator.com/item?id=43026590) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [worksinprogress.news](https://www.worksinprogress.news/p/the-prophet-of-parking): The Prophet of Parking: A eulogy for the great Donald Shoup</small>
 
 
-| 🔥🔥: 201 \| 💬: [227](https://news.ycombinator.com/item?id=43026920) \| 🗓️ 2025-02-12
+| 🔥🔥: 209 \| 💬: [234](https://news.ycombinator.com/item?id=43026920) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [eli.lipsitz.net](https://eli.lipsitz.net/posts/introducing-gamebub/): Show HN: Game Bub – open-source FPGA retro emulation handheld</small>
 
 
-| 🔥🔥: 181 \| 💬: [47](https://news.ycombinator.com/item?id=43027335) \| 🗓️ 2025-02-12
+| 🔥🔥: 184 \| 💬: [49](https://news.ycombinator.com/item?id=43027335) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [github.com](https://github.com/nexsol-technologies/pgassistant): PgAssistant: OSS tool to help devs understand and optimize PG performance</small>
 
 
-| 🔥🔥: 173 \| 💬: [31](https://news.ycombinator.com/item?id=43026036) \| 🗓️ 2025-02-12
+| 🔥🔥: 176 \| 💬: [31](https://news.ycombinator.com/item?id=43026036) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -107,47 +107,11 @@ PgAssistant是一个开源工具，旨在帮助开发者理解和优化他们的
 
 ---
 
-## <a name="8"></a>8. 探测到有史以来最强能量的中微子 
-<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00444-1): Record-breaking neutrino is most energetic ever detected</small>
-
-
-| 🔥🔥: 169 \| 💬: [98](https://news.ycombinator.com/item?id=43027150) \| 🗓️ 2025-02-12
-
-
-<br />
-天文学家通过**立方千米中微子望远镜**（KM3NeT）在2023年2月13日探测到了有史以来最强能量的中微子，可能来自遥远的星系。该中微子产生的**μ子**能量估计为120 PeV，显示出其非凡的能量水平。这一发现是在2024年初数据分析完成后公布的，研究团队花费时间确认结果的可靠性。KM3NeT位于意大利西西里岛附近的海底，利用光探测器捕捉高能粒子发出的光。
-
----
-
-## <a name="9"></a>9. Webb-site的优雅终结 
-<small>🔗 [webb-site.com](https://webb-site.com/articles/shutdown.asp): A gracious end to Webb-site</small>
-
-
-| 🔥🔥: 165 \| 💬: [25](https://news.ycombinator.com/item?id=43023141) \| 🗓️ 2025-02-12
-
-
-<br />
-Webb-site创始人David M. Webb因癌症病情恶化，计划在2025年3月31日停止手动数据收集工作。他回顾了自1998年成立以来的成就，强调了数据库对记者和研究者的重要性。尽管努力推动透明度，但因政治环境变化，未能将数据库移交给香港大学。随着时间的推移，Webb-site将关闭，留下的内容将依赖于互联网档案馆的存档。
-
----
-
-## <a name="10"></a>10. 5G网络满足消费者需求，移动数据增长放缓 
-<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/5g-bandwidth): 5G networks meet consumer needs as mobile data growth slows</small>
-
-
-| 🔥🔥: 164 \| 💬: [233](https://news.ycombinator.com/item?id=43027266) \| 🗓️ 2025-02-12
-
-
-<br />
-随着移动数据增长的放缓，**电信行业**面临新的现实。当前的5G网络已能满足大多数消费者需求，且未来对更高带宽的需求可能并不如预期。尽管技术不断进步，但**实际应用**并未显示出对超过1 Gb/s的需求。未来的6G网络可能更多地集中在维护现有网络的效率，而非无限扩展带宽。
-
----
-
-## <a name="11"></a>11. 更快的FFI：Tiny JITs的探索 
+## <a name="8"></a>8. 更快的FFI：Tiny JITs的探索 
 <small>🔗 [railsatscale.com](https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/): Tiny JITs for a Faster FFI</small>
 
 
-| 🔥🔥: 154 \| 💬: [47](https://news.ycombinator.com/item?id=43030388) \| 🗓️ 2025-02-12
+| 🔥🔥: 173 \| 💬: [52](https://news.ycombinator.com/item?id=43030388) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -155,23 +119,47 @@ Webb-site创始人David M. Webb因癌症病情恶化，计划在2025年3月31日
 
 ---
 
-## <a name="12"></a>12. 使用 --depth 2 进行 Git 克隆比 --depth 1 更佳，尤其在后续推送时 
-<small>🔗 [stackoverflow.com](https://stackoverflow.com/questions/66431436/pushing-to-github-after-a-shallow-clone-is-horribly-slow): Git clone –depth 2 is vastly better than –depth 1 if you want to Git push later</small>
+## <a name="9"></a>9. 探测到有史以来最强能量的中微子 
+<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00444-1): Record-breaking neutrino is most energetic ever detected</small>
 
 
-| 🔥🔥: 136 \| 💬: [32](https://news.ycombinator.com/item?id=43023283) \| 🗓️ 2025-02-12
+| 🔥🔥: 172 \| 💬: [103](https://news.ycombinator.com/item?id=43027150) \| 🗓️ 2025-02-12
 
 
 <br />
-进行 **浅克隆**（如 `git clone --depth 1`）后，首次推送到 GitHub 会非常缓慢，因为此时缺少必要的提交历史信息。建议使用 `--depth 2` 进行克隆，这样可以保留一个完整的提交节点，优化首次推送的速度。浅克隆会导致 Git 无法有效利用提交之间的关系，从而需要发送更多数据。通过增加深度，首次推送时可以利用优化机制，显著提升效率。
+天文学家通过**立方千米中微子望远镜**（KM3NeT）在2023年2月13日探测到了有史以来最强能量的中微子，可能来自遥远的星系。该中微子产生的**μ子**能量估计为120 PeV，显示出其非凡的能量水平。这一发现是在2024年初数据分析完成后公布的，研究团队花费时间确认结果的可靠性。KM3NeT位于意大利西西里岛附近的海底，利用光探测器捕捉高能粒子发出的光。
 
 ---
 
-## <a name="13"></a>13. 微型指针 
+## <a name="10"></a>10. 5G网络满足消费者需求，移动数据增长放缓 
+<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/5g-bandwidth): 5G networks meet consumer needs as mobile data growth slows</small>
+
+
+| 🔥🔥: 169 \| 💬: [238](https://news.ycombinator.com/item?id=43027266) \| 🗓️ 2025-02-12
+
+
+<br />
+随着移动数据增长的放缓，**电信行业**面临新的现实。当前的5G网络已能满足大多数消费者需求，且未来对更高带宽的需求可能并不如预期。尽管技术不断进步，但**实际应用**并未显示出对超过1 Gb/s的需求。未来的6G网络可能更多地集中在维护现有网络的效率，而非无限扩展带宽。
+
+---
+
+## <a name="11"></a>11. Webb-site的优雅终结 
+<small>🔗 [webb-site.com](https://webb-site.com/articles/shutdown.asp): A gracious end to Webb-site</small>
+
+
+| 🔥🔥: 165 \| 💬: [26](https://news.ycombinator.com/item?id=43023141) \| 🗓️ 2025-02-12
+
+
+<br />
+Webb-site创始人David M. Webb因癌症病情恶化，计划在2025年3月31日停止手动数据收集工作。他回顾了自1998年成立以来的成就，强调了数据库对记者和研究者的重要性。尽管努力推动透明度，但因政治环境变化，未能将数据库移交给香港大学。随着时间的推移，Webb-site将关闭，留下的内容将依赖于互联网档案馆的存档。
+
+---
+
+## <a name="12"></a>12. 微型指针 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2111.12800): Tiny Pointers</small>
 
 
-| 🔥🔥: 134 \| 💬: [34](https://news.ycombinator.com/item?id=43023634) \| 🗓️ 2025-02-12
+| 🔥🔥: 138 \| 💬: [34](https://news.ycombinator.com/item?id=43023634) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -179,23 +167,23 @@ Webb-site创始人David M. Webb因癌症病情恶化，计划在2025年3月31日
 
 ---
 
-## <a name="14"></a>14. 英雄联盟数据抓取的艰难与乐趣 
-<small>🔗 [maknee.github.io](https://maknee.github.io/blog/2025/League-Data-Scraping/): League of Legends data scraping the hard and tedious way for fun</small>
+## <a name="13"></a>13. 使用 --depth 2 进行 Git 克隆比 --depth 1 更佳，尤其在后续推送时 
+<small>🔗 [stackoverflow.com](https://stackoverflow.com/questions/66431436/pushing-to-github-after-a-shallow-clone-is-horribly-slow): Git clone –depth 2 is vastly better than –depth 1 if you want to Git push later</small>
 
 
-| 🔥🔥: 132 \| 💬: [26](https://news.ycombinator.com/item?id=43024173) \| 🗓️ 2025-02-12
+| 🔥🔥: 136 \| 💬: [34](https://news.ycombinator.com/item?id=43023283) \| 🗓️ 2025-02-12
 
 
 <br />
-在COVID期间，作者探索了如何通过**逆向工程**《英雄联盟》的游戏引擎，创建高保真数据集。这些数据集捕捉了精确的玩家位置、技能使用时间和伤害计算，克服了现有API的**粒度**和**精确性**问题。尽管现有数据源提供了有限的高层信息，但作者的工具能够高效地解密和处理游戏的重放文件，提供更细致的游戏事件数据。这种方法为类似数据提取问题提供了新的思路。
+进行 **浅克隆**（如 `git clone --depth 1`）后，首次推送到 GitHub 会非常缓慢，因为此时缺少必要的提交历史信息。建议使用 `--depth 2` 进行克隆，这样可以保留一个完整的提交节点，优化首次推送的速度。浅克隆会导致 Git 无法有效利用提交之间的关系，从而需要发送更多数据。通过增加深度，首次推送时可以利用优化机制，显著提升效率。
 
 ---
 
-## <a name="15"></a>15. DeaDBeeF：终极音乐播放器 
+## <a name="14"></a>14. DeaDBeeF：终极音乐播放器 
 <small>🔗 [deadbeef.sourceforge.io](https://deadbeef.sourceforge.io/): DeaDBeeF: The Ultimate Music Player</small>
 
 
-| 🔥🔥: 131 \| 💬: [97](https://news.ycombinator.com/item?id=43024961) \| 🗓️ 2025-02-12
+| 🔥🔥: 135 \| 💬: [102](https://news.ycombinator.com/item?id=43024961) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -203,11 +191,11 @@ DeaDBeeF是一款**模块化的跨平台音频播放器**，支持多种操作�
 
 ---
 
-## <a name="16"></a>16. 平均CPU性能首次下降 
+## <a name="15"></a>15. 平均CPU性能首次下降 
 <small>🔗 [cpubenchmark.net](https://www.cpubenchmark.net/year-on-year.html): The average CPU performance of PCs and notebooks fell for the first time</small>
 
 
-| 🔥🔥: 121 \| 💬: [81](https://news.ycombinator.com/item?id=43029474) \| 🗓️ 2025-02-12
+| 🔥🔥: 135 \| 💬: [90](https://news.ycombinator.com/item?id=43029474) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -215,11 +203,23 @@ DeaDBeeF是一款**模块化的跨平台音频播放器**，支持多种操作�
 
 ---
 
+## <a name="16"></a>16. 英雄联盟数据抓取的艰难与乐趣 
+<small>🔗 [maknee.github.io](https://maknee.github.io/blog/2025/League-Data-Scraping/): League of Legends data scraping the hard and tedious way for fun</small>
+
+
+| 🔥🔥: 134 \| 💬: [28](https://news.ycombinator.com/item?id=43024173) \| 🗓️ 2025-02-12
+
+
+<br />
+在COVID期间，作者探索了如何通过**逆向工程**《英雄联盟》的游戏引擎，创建高保真数据集。这些数据集捕捉了精确的玩家位置、技能使用时间和伤害计算，克服了现有API的**粒度**和**精确性**问题。尽管现有数据源提供了有限的高层信息，但作者的工具能够高效地解密和处理游戏的重放文件，提供更细致的游戏事件数据。这种方法为类似数据提取问题提供了新的思路。
+
+---
+
 ## <a name="17"></a>17. 消失的文化：打孔卡编织 
 <small>🔗 [blog.archive.org](https://blog.archive.org/2025/02/12/vanishing-culture-punch-card-knitting/): Vanishing Culture: Punch Card Knitting</small>
 
 
-| 🔥: 92 \| 💬: [17](https://news.ycombinator.com/item?id=43024540) \| 🗓️ 2025-02-12
+| 🔥: 93 \| 💬: [17](https://news.ycombinator.com/item?id=43024540) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -231,7 +231,7 @@ DeaDBeeF是一款**模块化的跨平台音频播放器**，支持多种操作�
 <small>🔗 [imapsync.lamiral.info](https://imapsync.lamiral.info/): Imapsync</small>
 
 
-| 🔥: 86 \| 💬: [35](https://news.ycombinator.com/item?id=43028468) \| 🗓️ 2025-02-12
+| 🔥: 90 \| 💬: [35](https://news.ycombinator.com/item?id=43028468) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -239,7 +239,19 @@ Imapsync是一个**命令行工具**，用于迁移和备份IMAP邮箱，支持W
 
 ---
 
-## <a name="19"></a>19. 叙利亚50年来首次举办国际科技会议 
+## <a name="19"></a>19. 创造AI的能力正是它可能抹去的东西 
+<small>🔗 [chrbutler.com](https://www.chrbutler.com/the-productive-void): What enabled us to create AI is the thing it has the power to erase</small>
+
+
+| 🔥: 72 \| 💬: [84](https://news.ycombinator.com/item?id=43030556) \| 🗓️ 2025-02-12
+
+
+<br />
+我们创造AI的过程与其结果之间存在一种**“生产性空白”**，这种空白是人类创造力的关键。尽管AI工具提供了快速生成设计的便利，但它们往往压缩了思考与创造之间的空间，消除了探索与发现的机会。作者强调，设计不仅仅是结果，更是过程中的反思与迭代。尽管AI的进步不可否认，但我们需要保护这种“摩擦”的自然资源，以保持创造力的活力。
+
+---
+
+## <a name="20"></a>20. 叙利亚50年来首次举办国际科技会议 
 <small>🔗 [restofworld.org](https://restofworld.org/2025/syria-international-tech-conference-sync-25/): Syria just hosted its first international tech conference in 50 years</small>
 
 
@@ -248,18 +260,6 @@ Imapsync是一个**命令行工具**，用于迁移和备份IMAP邮箱，支持W
 
 <br />
 2025年2月，叙利亚大马士革举行了为期两天的SYNC 25科技会议，这是该国50年来首次独立举办的科技活动。会议由叙利亚裔硅谷企业家组织，旨在促进叙利亚科技生态系统与硅谷的联系，计划在未来五年内创造25,000个新工作岗位。尽管叙利亚经济面临重重挑战，包括基础设施落后和国际信任缺失，参与者仍希望通过此类活动重建信任，吸引投资。新政府对科技行业的支持态度积极，期待未来更多类似会议的举办。
-
----
-
-## <a name="20"></a>20. 创造AI的能力正是它可能抹去的东西 
-<small>🔗 [chrbutler.com](https://www.chrbutler.com/the-productive-void): What enabled us to create AI is the thing it has the power to erase</small>
-
-
-| 🔥: 68 \| 💬: [83](https://news.ycombinator.com/item?id=43030556) \| 🗓️ 2025-02-12
-
-
-<br />
-我们创造AI的过程与其结果之间存在一种**“生产性空白”**，这种空白是人类创造力的关键。尽管AI工具提供了快速生成设计的便利，但它们往往压缩了思考与创造之间的空间，消除了探索与发现的机会。作者强调，设计不仅仅是结果，更是过程中的反思与迭代。尽管AI的进步不可否认，但我们需要保护这种“摩擦”的自然资源，以保持创造力的活力。
 
 ---
 
