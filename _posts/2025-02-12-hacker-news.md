@@ -27,7 +27,7 @@ tags:
 <small>🔗 [brutecat.com](https://brutecat.com/articles/leaking-youtube-emails): Leaking the email of any YouTube user for $10k</small>
 
 
-| 🔥🔥: 1329 \| 💬: [390](https://news.ycombinator.com/item?id=43024221) \| 🗓️ 2025-02-12
+| 🔥🔥: 1358 \| 💬: [395](https://news.ycombinator.com/item?id=43024221) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [paulbutler.org](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/): Smuggling arbitrary data through an emoji</small>
 
 
-| 🔥🔥: 475 \| 💬: [152](https://news.ycombinator.com/item?id=43023508) \| 🗓️ 2025-02-12
+| 🔥🔥: 492 \| 💬: [153](https://news.ycombinator.com/item?id=43023508) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/02/us-and-uk-refuse-to-sign-ai-safety-declaration-at-summit/): US and UK refuse to sign AI safety declaration at summit</small>
 
 
-| 🔥🔥: 299 \| 💬: [553](https://news.ycombinator.com/item?id=43023554) \| 🗓️ 2025-02-12
+| 🔥🔥: 316 \| 💬: [574](https://news.ycombinator.com/item?id=43023554) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [techtalksweekly.io](https://www.techtalksweekly.io/p/100-most-watched-software-engineering): Most-Watched Software Engineering Talks of 2024</small>
 
 
-| 🔥🔥: 260 \| 💬: [82](https://news.ycombinator.com/item?id=43026590) \| 🗓️ 2025-02-12
+| 🔥🔥: 261 \| 💬: [84](https://news.ycombinator.com/item?id=43026590) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [worksinprogress.news](https://www.worksinprogress.news/p/the-prophet-of-parking): The Prophet of Parking: A eulogy for the great Donald Shoup</small>
 
 
-| 🔥🔥: 226 \| 💬: [240](https://news.ycombinator.com/item?id=43026920) \| 🗓️ 2025-02-12
+| 🔥🔥: 233 \| 💬: [242](https://news.ycombinator.com/item?id=43026920) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -83,23 +83,11 @@ tags:
 
 ---
 
-## <a name="6"></a>6. Game Bub – 开源FPGA复古模拟掌机 
-<small>🔗 [eli.lipsitz.net](https://eli.lipsitz.net/posts/introducing-gamebub/): Show HN: Game Bub – open-source FPGA retro emulation handheld</small>
-
-
-| 🔥🔥: 195 \| 💬: [49](https://news.ycombinator.com/item?id=43027335) \| 🗓️ 2025-02-12
-
-
-<br />
-我很高兴地宣布我花了一年半时间开发的项目：**Game Bub**，一款基于开源FPGA的复古模拟掌机，支持**Game Boy**、**Game Boy Color**和**Game Boy Advance**游戏。Game Bub可以播放实体卡带和从microSD卡加载的ROM文件，支持多人游戏的Game Link Cable。设备设计包括HDMI视频输出、震动马达和实时钟等扩展功能，硬件采用六层PCB，搭载Xilinx XC7A100T FPGA。项目旨在创建一个可玩性强且易于使用的设备，同时保持开源和可扩展性。
-
----
-
-## <a name="7"></a>7. 更快的FFI：Tiny JITs的探索 
+## <a name="6"></a>6. 更快的FFI：Tiny JITs的探索 
 <small>🔗 [railsatscale.com](https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/): Tiny JITs for a Faster FFI</small>
 
 
-| 🔥🔥: 195 \| 💬: [66](https://news.ycombinator.com/item?id=43030388) \| 🗓️ 2025-02-12
+| 🔥🔥: 205 \| 💬: [68](https://news.ycombinator.com/item?id=43030388) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -107,11 +95,23 @@ tags:
 
 ---
 
+## <a name="7"></a>7. Game Bub – 开源FPGA复古模拟掌机 
+<small>🔗 [eli.lipsitz.net](https://eli.lipsitz.net/posts/introducing-gamebub/): Show HN: Game Bub – open-source FPGA retro emulation handheld</small>
+
+
+| 🔥🔥: 202 \| 💬: [49](https://news.ycombinator.com/item?id=43027335) \| 🗓️ 2025-02-12
+
+
+<br />
+我很高兴地宣布我花了一年半时间开发的项目：**Game Bub**，一款基于开源FPGA的复古模拟掌机，支持**Game Boy**、**Game Boy Color**和**Game Boy Advance**游戏。Game Bub可以播放实体卡带和从microSD卡加载的ROM文件，支持多人游戏的Game Link Cable。设备设计包括HDMI视频输出、震动马达和实时钟等扩展功能，硬件采用六层PCB，搭载Xilinx XC7A100T FPGA。项目旨在创建一个可玩性强且易于使用的设备，同时保持开源和可扩展性。
+
+---
+
 ## <a name="8"></a>8. PgAssistant：帮助开发者理解和优化PG性能的开源工具 
 <small>🔗 [github.com](https://github.com/nexsol-technologies/pgassistant): PgAssistant: OSS tool to help devs understand and optimize PG performance</small>
 
 
-| 🔥🔥: 188 \| 💬: [34](https://news.ycombinator.com/item?id=43026036) \| 🗓️ 2025-02-12
+| 🔥🔥: 195 \| 💬: [34](https://news.ycombinator.com/item?id=43026036) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -123,7 +123,7 @@ PgAssistant是一个开源工具，旨在帮助开发者理解和优化他们的
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00444-1): Record-breaking neutrino is most energetic ever detected</small>
 
 
-| 🔥🔥: 180 \| 💬: [104](https://news.ycombinator.com/item?id=43027150) \| 🗓️ 2025-02-12
+| 🔥🔥: 185 \| 💬: [105](https://news.ycombinator.com/item?id=43027150) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -135,7 +135,7 @@ PgAssistant是一个开源工具，旨在帮助开发者理解和优化他们的
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/5g-bandwidth): 5G networks meet consumer needs as mobile data growth slows</small>
 
 
-| 🔥🔥: 174 \| 💬: [244](https://news.ycombinator.com/item?id=43027266) \| 🗓️ 2025-02-12
+| 🔥🔥: 179 \| 💬: [251](https://news.ycombinator.com/item?id=43027266) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -143,7 +143,19 @@ PgAssistant是一个开源工具，旨在帮助开发者理解和优化他们的
 
 ---
 
-## <a name="11"></a>11. Webb-site的优雅终结 
+## <a name="11"></a>11. 平均CPU性能首次下降 
+<small>🔗 [cpubenchmark.net](https://www.cpubenchmark.net/year-on-year.html): The average CPU performance of PCs and notebooks fell for the first time</small>
+
+
+| 🔥🔥: 176 \| 💬: [112](https://news.ycombinator.com/item?id=43029474) \| 🗓️ 2025-02-12
+
+
+<br />
+根据PerformanceTest的基准测试数据，**PC和笔记本的平均CPU性能**在2025年首次出现下降。这一趋势是基于全球用户提交的基准结果，涵盖了从2012年到2025年的多个版本。数据更新频繁，反映了不同类型CPU的性能变化，包括x86和ARM架构。尽管数据可能因提交时间而有所波动，但整体趋势显示出市场对CPU性能的关注正在减弱。
+
+---
+
+## <a name="12"></a>12. Webb-site的优雅终结 
 <small>🔗 [webb-site.com](https://webb-site.com/articles/shutdown.asp): A gracious end to Webb-site</small>
 
 
@@ -155,35 +167,11 @@ Webb-site创始人David M. Webb因癌症病情恶化，计划在2025年3月31日
 
 ---
 
-## <a name="12"></a>12. 平均CPU性能首次下降 
-<small>🔗 [cpubenchmark.net](https://www.cpubenchmark.net/year-on-year.html): The average CPU performance of PCs and notebooks fell for the first time</small>
-
-
-| 🔥🔥: 162 \| 💬: [105](https://news.ycombinator.com/item?id=43029474) \| 🗓️ 2025-02-12
-
-
-<br />
-根据PerformanceTest的基准测试数据，**PC和笔记本的平均CPU性能**在2025年首次出现下降。这一趋势是基于全球用户提交的基准结果，涵盖了从2012年到2025年的多个版本。数据更新频繁，反映了不同类型CPU的性能变化，包括x86和ARM架构。尽管数据可能因提交时间而有所波动，但整体趋势显示出市场对CPU性能的关注正在减弱。
-
----
-
-## <a name="13"></a>13. DeaDBeeF：终极音乐播放器 
-<small>🔗 [deadbeef.sourceforge.io](https://deadbeef.sourceforge.io/): DeaDBeeF: The Ultimate Music Player</small>
-
-
-| 🔥🔥: 141 \| 💬: [107](https://news.ycombinator.com/item?id=43024961) \| 🗓️ 2025-02-12
-
-
-<br />
-DeaDBeeF是一款**模块化的跨平台音频播放器**，支持多种操作系统，包括GNU/Linux、macOS和Windows。它能够播放多种音频格式，如MP3、FLAC和OGG，支持标签编辑和高质量的音频处理。用户可以通过**高度自定义的界面**和插件扩展功能，享受无缝播放和网络流媒体功能。DeaDBeeF还提供强大的转换插件，便于将音乐转码为所需格式，适合移动设备使用。
-
----
-
-## <a name="14"></a>14. 微型指针 
+## <a name="13"></a>13. 微型指针 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2111.12800): Tiny Pointers</small>
 
 
-| 🔥🔥: 140 \| 💬: [34](https://news.ycombinator.com/item?id=43023634) \| 🗓️ 2025-02-12
+| 🔥🔥: 143 \| 💬: [34](https://news.ycombinator.com/item?id=43023634) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -191,23 +179,23 @@ DeaDBeeF是一款**模块化的跨平台音频播放器**，支持多种操作�
 
 ---
 
-## <a name="15"></a>15. 使用 --depth 2 进行 Git 克隆比 --depth 1 更佳，尤其在后续推送时 
-<small>🔗 [stackoverflow.com](https://stackoverflow.com/questions/66431436/pushing-to-github-after-a-shallow-clone-is-horribly-slow): Git clone –depth 2 is vastly better than –depth 1 if you want to Git push later</small>
+## <a name="14"></a>14. DeaDBeeF：终极音乐播放器 
+<small>🔗 [deadbeef.sourceforge.io](https://deadbeef.sourceforge.io/): DeaDBeeF: The Ultimate Music Player</small>
 
 
-| 🔥🔥: 136 \| 💬: [35](https://news.ycombinator.com/item?id=43023283) \| 🗓️ 2025-02-12
+| 🔥🔥: 142 \| 💬: [111](https://news.ycombinator.com/item?id=43024961) \| 🗓️ 2025-02-12
 
 
 <br />
-进行 **浅克隆**（如 `git clone --depth 1`）后，首次推送到 GitHub 会非常缓慢，因为此时缺少必要的提交历史信息。建议使用 `--depth 2` 进行克隆，这样可以保留一个完整的提交节点，优化首次推送的速度。浅克隆会导致 Git 无法有效利用提交之间的关系，从而需要发送更多数据。通过增加深度，首次推送时可以利用优化机制，显著提升效率。
+DeaDBeeF是一款**模块化的跨平台音频播放器**，支持多种操作系统，包括GNU/Linux、macOS和Windows。它能够播放多种音频格式，如MP3、FLAC和OGG，支持标签编辑和高质量的音频处理。用户可以通过**高度自定义的界面**和插件扩展功能，享受无缝播放和网络流媒体功能。DeaDBeeF还提供强大的转换插件，便于将音乐转码为所需格式，适合移动设备使用。
 
 ---
 
-## <a name="16"></a>16. 英雄联盟数据抓取的艰难与乐趣 
+## <a name="15"></a>15. 英雄联盟数据抓取的艰难与乐趣 
 <small>🔗 [maknee.github.io](https://maknee.github.io/blog/2025/League-Data-Scraping/): League of Legends data scraping the hard and tedious way for fun</small>
 
 
-| 🔥🔥: 136 \| 💬: [30](https://news.ycombinator.com/item?id=43024173) \| 🗓️ 2025-02-12
+| 🔥🔥: 141 \| 💬: [33](https://news.ycombinator.com/item?id=43024173) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -215,11 +203,23 @@ DeaDBeeF是一款**模块化的跨平台音频播放器**，支持多种操作�
 
 ---
 
+## <a name="16"></a>16. 使用 --depth 2 进行 Git 克隆比 --depth 1 更佳，尤其在后续推送时 
+<small>🔗 [stackoverflow.com](https://stackoverflow.com/questions/66431436/pushing-to-github-after-a-shallow-clone-is-horribly-slow): Git clone –depth 2 is vastly better than –depth 1 if you want to Git push later</small>
+
+
+| 🔥🔥: 137 \| 💬: [35](https://news.ycombinator.com/item?id=43023283) \| 🗓️ 2025-02-12
+
+
+<br />
+进行 **浅克隆**（如 `git clone --depth 1`）后，首次推送到 GitHub 会非常缓慢，因为此时缺少必要的提交历史信息。建议使用 `--depth 2` 进行克隆，这样可以保留一个完整的提交节点，优化首次推送的速度。浅克隆会导致 Git 无法有效利用提交之间的关系，从而需要发送更多数据。通过增加深度，首次推送时可以利用优化机制，显著提升效率。
+
+---
+
 ## <a name="17"></a>17. IMAP同步工具 
 <small>🔗 [imapsync.lamiral.info](https://imapsync.lamiral.info/): Imapsync</small>
 
 
-| 🔥🔥: 101 \| 💬: [38](https://news.ycombinator.com/item?id=43028468) \| 🗓️ 2025-02-12
+| 🔥🔥: 104 \| 💬: [38](https://news.ycombinator.com/item?id=43028468) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -227,23 +227,11 @@ Imapsync是一个**命令行工具**，用于迁移和备份IMAP邮箱，支持W
 
 ---
 
-## <a name="18"></a>18. 消失的文化：打孔卡编织 
-<small>🔗 [blog.archive.org](https://blog.archive.org/2025/02/12/vanishing-culture-punch-card-knitting/): Vanishing Culture: Punch Card Knitting</small>
-
-
-| 🔥: 97 \| 💬: [19](https://news.ycombinator.com/item?id=43024540) \| 🗓️ 2025-02-12
-
-
-<br />
-打孔卡是一种有趣的**二进制数据存储格式**，不仅是历史遗物，今天的编织机仍在使用它们。尽管面临技术挑战，打孔卡在纺织领域依然活跃，尤其是在女性DIY文化中。打孔卡的编码方式让人们能够创造出复杂的图案，且这种技术与计算机历史紧密相连。通过社区支持的基础设施，打孔卡的数字化和保存工作正在进行，帮助我们更好地理解计算历史并支持创意计算的持续发展。
-
----
-
-## <a name="19"></a>19. 如何专业地表达（2022） 
+## <a name="18"></a>18. 如何专业地表达（2022） 
 <small>🔗 [github.com](https://github.com/AkashRajpurohit/howtoprofessionallysay): How to professionally say (2022)</small>
 
 
-| 🔥: 79 \| 💬: [29](https://news.ycombinator.com/item?id=43031740) \| 🗓️ 2025-02-12
+| 🔥🔥: 101 \| 💬: [43](https://news.ycombinator.com/item?id=43031740) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -251,11 +239,23 @@ Imapsync是一个**命令行工具**，用于迁移和备份IMAP邮箱，支持W
 
 ---
 
+## <a name="19"></a>19. 消失的文化：打孔卡编织 
+<small>🔗 [blog.archive.org](https://blog.archive.org/2025/02/12/vanishing-culture-punch-card-knitting/): Vanishing Culture: Punch Card Knitting</small>
+
+
+| 🔥: 99 \| 💬: [19](https://news.ycombinator.com/item?id=43024540) \| 🗓️ 2025-02-12
+
+
+<br />
+打孔卡是一种有趣的**二进制数据存储格式**，不仅是历史遗物，今天的编织机仍在使用它们。尽管面临技术挑战，打孔卡在纺织领域依然活跃，尤其是在女性DIY文化中。打孔卡的编码方式让人们能够创造出复杂的图案，且这种技术与计算机历史紧密相连。通过社区支持的基础设施，打孔卡的数字化和保存工作正在进行，帮助我们更好地理解计算历史并支持创意计算的持续发展。
+
+---
+
 ## <a name="20"></a>20. 创造AI的能力正是它可能抹去的东西 
 <small>🔗 [chrbutler.com](https://www.chrbutler.com/the-productive-void): What enabled us to create AI is the thing it has the power to erase</small>
 
 
-| 🔥: 75 \| 💬: [86](https://news.ycombinator.com/item?id=43030556) \| 🗓️ 2025-02-12
+| 🔥: 75 \| 💬: [88](https://news.ycombinator.com/item?id=43030556) \| 🗓️ 2025-02-12
 
 
 <br />
