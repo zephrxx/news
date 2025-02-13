@@ -27,7 +27,7 @@ tags:
 <small>🔗 [brutecat.com](https://brutecat.com/articles/leaking-youtube-emails): Leaking the email of any YouTube user for $10k</small>
 
 
-| 🔥🔥: 1242 \| 💬: [365](https://news.ycombinator.com/item?id=43024221) \| 🗓️ 2025-02-12
+| 🔥🔥: 1265 \| 💬: [372](https://news.ycombinator.com/item?id=43024221) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [paulbutler.org](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/): Smuggling arbitrary data through an emoji</small>
 
 
-| 🔥🔥: 428 \| 💬: [140](https://news.ycombinator.com/item?id=43023508) \| 🗓️ 2025-02-12
+| 🔥🔥: 447 \| 💬: [144](https://news.ycombinator.com/item?id=43023508) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/02/us-and-uk-refuse-to-sign-ai-safety-declaration-at-summit/): US and UK refuse to sign AI safety declaration at summit</small>
 
 
-| 🔥🔥: 251 \| 💬: [512](https://news.ycombinator.com/item?id=43023554) \| 🗓️ 2025-02-12
+| 🔥🔥: 264 \| 💬: [518](https://news.ycombinator.com/item?id=43023554) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [techtalksweekly.io](https://www.techtalksweekly.io/p/100-most-watched-software-engineering): Most-Watched Software Engineering Talks of 2024</small>
 
 
-| 🔥🔥: 247 \| 💬: [81](https://news.ycombinator.com/item?id=43026590) \| 🗓️ 2025-02-12
+| 🔥🔥: 251 \| 💬: [81](https://news.ycombinator.com/item?id=43026590) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [worksinprogress.news](https://www.worksinprogress.news/p/the-prophet-of-parking): The Prophet of Parking: A eulogy for the great Donald Shoup</small>
 
 
-| 🔥🔥: 188 \| 💬: [219](https://news.ycombinator.com/item?id=43026920) \| 🗓️ 2025-02-12
+| 🔥🔥: 201 \| 💬: [227](https://news.ycombinator.com/item?id=43026920) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [eli.lipsitz.net](https://eli.lipsitz.net/posts/introducing-gamebub/): Show HN: Game Bub – open-source FPGA retro emulation handheld</small>
 
 
-| 🔥🔥: 174 \| 💬: [46](https://news.ycombinator.com/item?id=43027335) \| 🗓️ 2025-02-12
+| 🔥🔥: 181 \| 💬: [47](https://news.ycombinator.com/item?id=43027335) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [github.com](https://github.com/nexsol-technologies/pgassistant): PgAssistant: OSS tool to help devs understand and optimize PG performance</small>
 
 
-| 🔥🔥: 171 \| 💬: [31](https://news.ycombinator.com/item?id=43026036) \| 🗓️ 2025-02-12
+| 🔥🔥: 173 \| 💬: [31](https://news.ycombinator.com/item?id=43026036) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -107,23 +107,11 @@ PgAssistant是一个开源工具，旨在帮助开发者理解和优化他们的
 
 ---
 
-## <a name="8"></a>8. Webb-site的优雅终结 
-<small>🔗 [webb-site.com](https://webb-site.com/articles/shutdown.asp): A gracious end to Webb-site</small>
-
-
-| 🔥🔥: 164 \| 💬: [25](https://news.ycombinator.com/item?id=43023141) \| 🗓️ 2025-02-12
-
-
-<br />
-Webb-site创始人David M. Webb因癌症病情恶化，计划在2025年3月31日停止手动数据收集工作。他回顾了自1998年成立以来的成就，强调了数据库对记者和研究者的重要性。尽管努力推动透明度，但因政治环境变化，未能将数据库移交给香港大学。随着时间的推移，Webb-site将关闭，留下的内容将依赖于互联网档案馆的存档。
-
----
-
-## <a name="9"></a>9. 探测到有史以来最强能量的中微子 
+## <a name="8"></a>8. 探测到有史以来最强能量的中微子 
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00444-1): Record-breaking neutrino is most energetic ever detected</small>
 
 
-| 🔥🔥: 162 \| 💬: [94](https://news.ycombinator.com/item?id=43027150) \| 🗓️ 2025-02-12
+| 🔥🔥: 169 \| 💬: [98](https://news.ycombinator.com/item?id=43027150) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -131,11 +119,23 @@ Webb-site创始人David M. Webb因癌症病情恶化，计划在2025年3月31日
 
 ---
 
+## <a name="9"></a>9. Webb-site的优雅终结 
+<small>🔗 [webb-site.com](https://webb-site.com/articles/shutdown.asp): A gracious end to Webb-site</small>
+
+
+| 🔥🔥: 165 \| 💬: [25](https://news.ycombinator.com/item?id=43023141) \| 🗓️ 2025-02-12
+
+
+<br />
+Webb-site创始人David M. Webb因癌症病情恶化，计划在2025年3月31日停止手动数据收集工作。他回顾了自1998年成立以来的成就，强调了数据库对记者和研究者的重要性。尽管努力推动透明度，但因政治环境变化，未能将数据库移交给香港大学。随着时间的推移，Webb-site将关闭，留下的内容将依赖于互联网档案馆的存档。
+
+---
+
 ## <a name="10"></a>10. 5G网络满足消费者需求，移动数据增长放缓 
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/5g-bandwidth): 5G networks meet consumer needs as mobile data growth slows</small>
 
 
-| 🔥🔥: 156 \| 💬: [222](https://news.ycombinator.com/item?id=43027266) \| 🗓️ 2025-02-12
+| 🔥🔥: 164 \| 💬: [233](https://news.ycombinator.com/item?id=43027266) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -143,7 +143,19 @@ Webb-site创始人David M. Webb因癌症病情恶化，计划在2025年3月31日
 
 ---
 
-## <a name="11"></a>11. 使用 --depth 2 进行 Git 克隆比 --depth 1 更佳，尤其在后续推送时 
+## <a name="11"></a>11. 更快的FFI：Tiny JITs的探索 
+<small>🔗 [railsatscale.com](https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/): Tiny JITs for a Faster FFI</small>
+
+
+| 🔥🔥: 154 \| 💬: [47](https://news.ycombinator.com/item?id=43030388) \| 🗓️ 2025-02-12
+
+
+<br />
+本文探讨了如何通过使用**JIT**编译器来提高**CRuby**的**FFI**性能。尽管直接调用Ruby方法是最快的，但通过FJIT生成的机器代码在性能上接近C扩展，甚至优于FFI调用。这种方法允许开发者在保持Ruby代码的同时，调用本地库，展现了Ruby在与本地代码交互方面的潜力。虽然目前存在一些限制，但未来的改进将使这一方法更具实用性。
+
+---
+
+## <a name="12"></a>12. 使用 --depth 2 进行 Git 克隆比 --depth 1 更佳，尤其在后续推送时 
 <small>🔗 [stackoverflow.com](https://stackoverflow.com/questions/66431436/pushing-to-github-after-a-shallow-clone-is-horribly-slow): Git clone –depth 2 is vastly better than –depth 1 if you want to Git push later</small>
 
 
@@ -155,47 +167,11 @@ Webb-site创始人David M. Webb因癌症病情恶化，计划在2025年3月31日
 
 ---
 
-## <a name="12"></a>12. 英雄联盟数据抓取的艰难与乐趣 
-<small>🔗 [maknee.github.io](https://maknee.github.io/blog/2025/League-Data-Scraping/): League of Legends data scraping the hard and tedious way for fun</small>
-
-
-| 🔥🔥: 129 \| 💬: [26](https://news.ycombinator.com/item?id=43024173) \| 🗓️ 2025-02-12
-
-
-<br />
-在COVID期间，作者探索了如何通过**逆向工程**《英雄联盟》的游戏引擎，创建高保真数据集。这些数据集捕捉了精确的玩家位置、技能使用时间和伤害计算，克服了现有API的**粒度**和**精确性**问题。尽管现有数据源提供了有限的高层信息，但作者的工具能够高效地解密和处理游戏的重放文件，提供更细致的游戏事件数据。这种方法为类似数据提取问题提供了新的思路。
-
----
-
-## <a name="13"></a>13. 更快的FFI：Tiny JITs的探索 
-<small>🔗 [railsatscale.com](https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/): Tiny JITs for a Faster FFI</small>
-
-
-| 🔥🔥: 129 \| 💬: [41](https://news.ycombinator.com/item?id=43030388) \| 🗓️ 2025-02-12
-
-
-<br />
-本文探讨了如何通过使用**JIT**编译器来提高**CRuby**的**FFI**性能。尽管直接调用Ruby方法是最快的，但通过FJIT生成的机器代码在性能上接近C扩展，甚至优于FFI调用。这种方法允许开发者在保持Ruby代码的同时，调用本地库，展现了Ruby在与本地代码交互方面的潜力。虽然目前存在一些限制，但未来的改进将使这一方法更具实用性。
-
----
-
-## <a name="14"></a>14. DeaDBeeF：终极音乐播放器 
-<small>🔗 [deadbeef.sourceforge.io](https://deadbeef.sourceforge.io/): DeaDBeeF: The Ultimate Music Player</small>
-
-
-| 🔥🔥: 128 \| 💬: [91](https://news.ycombinator.com/item?id=43024961) \| 🗓️ 2025-02-12
-
-
-<br />
-DeaDBeeF是一款**模块化的跨平台音频播放器**，支持多种操作系统，包括GNU/Linux、macOS和Windows。它能够播放多种音频格式，如MP3、FLAC和OGG，支持标签编辑和高质量的音频处理。用户可以通过**高度自定义的界面**和插件扩展功能，享受无缝播放和网络流媒体功能。DeaDBeeF还提供强大的转换插件，便于将音乐转码为所需格式，适合移动设备使用。
-
----
-
-## <a name="15"></a>15. 微型指针 
+## <a name="13"></a>13. 微型指针 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2111.12800): Tiny Pointers</small>
 
 
-| 🔥🔥: 124 \| 💬: [34](https://news.ycombinator.com/item?id=43023634) \| 🗓️ 2025-02-12
+| 🔥🔥: 134 \| 💬: [34](https://news.ycombinator.com/item?id=43023634) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -203,11 +179,35 @@ DeaDBeeF是一款**模块化的跨平台音频播放器**，支持多种操作�
 
 ---
 
+## <a name="14"></a>14. 英雄联盟数据抓取的艰难与乐趣 
+<small>🔗 [maknee.github.io](https://maknee.github.io/blog/2025/League-Data-Scraping/): League of Legends data scraping the hard and tedious way for fun</small>
+
+
+| 🔥🔥: 132 \| 💬: [26](https://news.ycombinator.com/item?id=43024173) \| 🗓️ 2025-02-12
+
+
+<br />
+在COVID期间，作者探索了如何通过**逆向工程**《英雄联盟》的游戏引擎，创建高保真数据集。这些数据集捕捉了精确的玩家位置、技能使用时间和伤害计算，克服了现有API的**粒度**和**精确性**问题。尽管现有数据源提供了有限的高层信息，但作者的工具能够高效地解密和处理游戏的重放文件，提供更细致的游戏事件数据。这种方法为类似数据提取问题提供了新的思路。
+
+---
+
+## <a name="15"></a>15. DeaDBeeF：终极音乐播放器 
+<small>🔗 [deadbeef.sourceforge.io](https://deadbeef.sourceforge.io/): DeaDBeeF: The Ultimate Music Player</small>
+
+
+| 🔥🔥: 131 \| 💬: [97](https://news.ycombinator.com/item?id=43024961) \| 🗓️ 2025-02-12
+
+
+<br />
+DeaDBeeF是一款**模块化的跨平台音频播放器**，支持多种操作系统，包括GNU/Linux、macOS和Windows。它能够播放多种音频格式，如MP3、FLAC和OGG，支持标签编辑和高质量的音频处理。用户可以通过**高度自定义的界面**和插件扩展功能，享受无缝播放和网络流媒体功能。DeaDBeeF还提供强大的转换插件，便于将音乐转码为所需格式，适合移动设备使用。
+
+---
+
 ## <a name="16"></a>16. 平均CPU性能首次下降 
 <small>🔗 [cpubenchmark.net](https://www.cpubenchmark.net/year-on-year.html): The average CPU performance of PCs and notebooks fell for the first time</small>
 
 
-| 🔥🔥: 101 \| 💬: [66](https://news.ycombinator.com/item?id=43029474) \| 🗓️ 2025-02-12
+| 🔥🔥: 121 \| 💬: [81](https://news.ycombinator.com/item?id=43029474) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -219,7 +219,7 @@ DeaDBeeF是一款**模块化的跨平台音频播放器**，支持多种操作�
 <small>🔗 [blog.archive.org](https://blog.archive.org/2025/02/12/vanishing-culture-punch-card-knitting/): Vanishing Culture: Punch Card Knitting</small>
 
 
-| 🔥: 90 \| 💬: [16](https://news.ycombinator.com/item?id=43024540) \| 🗓️ 2025-02-12
+| 🔥: 92 \| 💬: [17](https://news.ycombinator.com/item?id=43024540) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -231,7 +231,7 @@ DeaDBeeF是一款**模块化的跨平台音频播放器**，支持多种操作�
 <small>🔗 [imapsync.lamiral.info](https://imapsync.lamiral.info/): Imapsync</small>
 
 
-| 🔥: 81 \| 💬: [35](https://news.ycombinator.com/item?id=43028468) \| 🗓️ 2025-02-12
+| 🔥: 86 \| 💬: [35](https://news.ycombinator.com/item?id=43028468) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -243,7 +243,7 @@ Imapsync是一个**命令行工具**，用于迁移和备份IMAP邮箱，支持W
 <small>🔗 [restofworld.org](https://restofworld.org/2025/syria-international-tech-conference-sync-25/): Syria just hosted its first international tech conference in 50 years</small>
 
 
-| 🔥: 68 \| 💬: [14](https://news.ycombinator.com/item?id=43029277) \| 🗓️ 2025-02-12
+| 🔥: 68 \| 💬: [15](https://news.ycombinator.com/item?id=43029277) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -255,7 +255,7 @@ Imapsync是一个**命令行工具**，用于迁移和备份IMAP邮箱，支持W
 <small>🔗 [chrbutler.com](https://www.chrbutler.com/the-productive-void): What enabled us to create AI is the thing it has the power to erase</small>
 
 
-| 🔥: 66 \| 💬: [79](https://news.ycombinator.com/item?id=43030556) \| 🗓️ 2025-02-12
+| 🔥: 68 \| 💬: [83](https://news.ycombinator.com/item?id=43030556) \| 🗓️ 2025-02-12
 
 
 <br />
