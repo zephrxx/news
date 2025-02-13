@@ -9,14 +9,14 @@ tags:
 
 
 1. 辞去Asahi Linux项目负责人职务；
-1. 英国对苹果数据的后门需求威胁美国，立法者警告；
+1. Kagi搜索的隐私通行证认证；
 1. LibreOffice 40周年：浏览器新功能与实时协作；
+1. 英国对苹果数据的后门需求威胁美国，立法者警告；
 1. 便宜的血液检测可以在胰腺癌扩散前检测到它；
-1. DOGE作为国家网络攻击；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [marcan.st](https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/): Resigning as Asahi Linux project lead</small>
 
 
-| 🔥🔥: 863 \| 💬: [712](https://news.ycombinator.com/item?id=43036904) \| 🗓️ 2025-02-13
+| 🔥🔥: 899 \| 💬: [748](https://news.ycombinator.com/item?id=43036904) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -35,59 +35,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. 英国对苹果数据的后门需求威胁美国，立法者警告 
-<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/02/13/apple-uk-security-back-door-adp/): U.K. demand for a back door to Apple data threatens Americans, lawmakers say</small>
-
-
-| 🔥🔥: 330 \| 💬: [225](https://news.ycombinator.com/item?id=43036434) \| 🗓️ 2025-02-13
-
-
-<br />
-美国国会的关键监督委员会成员向新任国家情报总监Tulsi Gabbard发函，警告英国要求苹果提供用户加密数据的命令可能危及美国人安全。**Ron Wyden**和**Andy Biggs**呼吁美国政府要求英国撤回该命令，称这将削弱全球数字安全，可能导致黑客利用后门。此外，他们担心其他国家也会效仿，要求类似的访问权限。
-
----
-
-## <a name="3"></a>3. LibreOffice 40周年：浏览器新功能与实时协作 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/): LibreOffice still kicking at 40, now with browser tricks and real-time collab</small>
-
-
-| 🔥🔥: 301 \| 💬: [106](https://news.ycombinator.com/item?id=43038200) \| 🗓️ 2025-02-13
-
-
-<br />
-LibreOffice在FOSDEM 2025上庆祝其40周年，推出了新版本25.2。尽管它是一款成熟的开源办公套件，但仍在不断进化。新功能包括**实时协作**，允许多个用户在本地运行的LibreOffice Writer上同时编辑文档，利用**冲突自由复制数据类型**（CRDT）技术保持同步。此外，ZetaOffice的公开测试版使LibreOffice能够在浏览器中运行，提供丰富的文档编辑体验，增强了其跨平台兼容性。尽管面临挑战，LibreOffice的这些创新可能为其带来新的生机。
-
----
-
-## <a name="4"></a>4. 便宜的血液检测可以在胰腺癌扩散前检测到它 
-<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00438-z): Cheap blood test detects pancreatic cancer before it spreads</small>
-
-
-| 🔥🔥: 283 \| 💬: [161](https://news.ycombinator.com/item?id=43035147) \| 🗓️ 2025-02-13
-
-
-<br />
-研究人员开发了一种简单的血液测试，可以在胰腺癌扩散之前检测到该疾病。这项测试利用**纳米传感器**检测血液中的**蛋白酶**，这些酶在肿瘤早期就活跃。测试在356个样本中显示出73%的准确率，能够有效区分癌症患者与其他非癌症患者。尽管灵敏度仍需提高，但这一进展为早期检测胰腺癌提供了新的希望。
-
----
-
-## <a name="5"></a>5. DOGE作为国家网络攻击 
-<small>🔗 [schneier.com](https://www.schneier.com/blog/archives/2025/02/doge-as-a-national.html): DOGE as a National Cyberattack</small>
-
-
-| 🔥🔥: 274 \| 💬: [120](https://news.ycombinator.com/item?id=43035977) \| 🗓️ 2025-02-13
-
-
-<br />
-美国政府近期经历了一次前所未有的安全漏洞，**并非通过复杂的网络攻击**，而是通过一位亿万富翁的官方命令。与新成立的政府效率部（DOGE）相关的人员接触了财政部的计算机系统，导致敏感数据的泄露和系统的控制权被侵犯。此事件不仅暴露了国家安全的脆弱性，还揭示了**安全措施的系统性削弱**，使得外部操作者能够在没有适当监督的情况下，修改核心系统并潜在地引入新的安全漏洞。这一危机需要立即采取措施，恢复访问权限、监控系统和进行全面审计，以防止未来的攻击。
-
----
-
-## <a name="6"></a>6. Kagi搜索的隐私通行证认证 
+## <a name="2"></a>2. Kagi搜索的隐私通行证认证 
 <small>🔗 [blog.kagi.com](https://blog.kagi.com/kagi-privacy-pass): Privacy Pass Authentication for Kagi Search</small>
 
 
-| 🔥🔥: 249 \| 💬: [97](https://news.ycombinator.com/item?id=43040521) \| 🗓️ 2025-02-13
+| 🔥🔥: 343 \| 💬: [145](https://news.ycombinator.com/item?id=43040521) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -95,11 +47,59 @@ Kagi搜索推出了**隐私通行证**认证，旨在增强用户的隐私保护
 
 ---
 
+## <a name="3"></a>3. LibreOffice 40周年：浏览器新功能与实时协作 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/): LibreOffice still kicking at 40, now with browser tricks and real-time collab</small>
+
+
+| 🔥🔥: 340 \| 💬: [126](https://news.ycombinator.com/item?id=43038200) \| 🗓️ 2025-02-13
+
+
+<br />
+LibreOffice在FOSDEM 2025上庆祝其40周年，推出了新版本25.2。尽管它是一款成熟的开源办公套件，但仍在不断进化。新功能包括**实时协作**，允许多个用户在本地运行的LibreOffice Writer上同时编辑文档，利用**冲突自由复制数据类型**（CRDT）技术保持同步。此外，ZetaOffice的公开测试版使LibreOffice能够在浏览器中运行，提供丰富的文档编辑体验，增强了其跨平台兼容性。尽管面临挑战，LibreOffice的这些创新可能为其带来新的生机。
+
+---
+
+## <a name="4"></a>4. 英国对苹果数据的后门需求威胁美国，立法者警告 
+<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/02/13/apple-uk-security-back-door-adp/): U.K. demand for a back door to Apple data threatens Americans, lawmakers say</small>
+
+
+| 🔥🔥: 337 \| 💬: [231](https://news.ycombinator.com/item?id=43036434) \| 🗓️ 2025-02-13
+
+
+<br />
+美国国会的关键监督委员会成员向新任国家情报总监Tulsi Gabbard发函，警告英国要求苹果提供用户加密数据的命令可能危及美国人安全。**Ron Wyden**和**Andy Biggs**呼吁美国政府要求英国撤回该命令，称这将削弱全球数字安全，可能导致黑客利用后门。此外，他们担心其他国家也会效仿，要求类似的访问权限。
+
+---
+
+## <a name="5"></a>5. 便宜的血液检测可以在胰腺癌扩散前检测到它 
+<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00438-z): Cheap blood test detects pancreatic cancer before it spreads</small>
+
+
+| 🔥🔥: 301 \| 💬: [178](https://news.ycombinator.com/item?id=43035147) \| 🗓️ 2025-02-13
+
+
+<br />
+研究人员开发了一种简单的血液测试，可以在胰腺癌扩散之前检测到该疾病。这项测试利用**纳米传感器**检测血液中的**蛋白酶**，这些酶在肿瘤早期就活跃。测试在356个样本中显示出73%的准确率，能够有效区分癌症患者与其他非癌症患者。尽管灵敏度仍需提高，但这一进展为早期检测胰腺癌提供了新的希望。
+
+---
+
+## <a name="6"></a>6. DOGE作为国家网络攻击 
+<small>🔗 [schneier.com](https://www.schneier.com/blog/archives/2025/02/doge-as-a-national.html): DOGE as a National Cyberattack</small>
+
+
+| 🔥🔥: 288 \| 💬: [125](https://news.ycombinator.com/item?id=43035977) \| 🗓️ 2025-02-13
+
+
+<br />
+美国政府近期经历了一次前所未有的安全漏洞，**并非通过复杂的网络攻击**，而是通过一位亿万富翁的官方命令。与新成立的政府效率部（DOGE）相关的人员接触了财政部的计算机系统，导致敏感数据的泄露和系统的控制权被侵犯。此事件不仅暴露了国家安全的脆弱性，还揭示了**安全措施的系统性削弱**，使得外部操作者能够在没有适当监督的情况下，修改核心系统并潜在地引入新的安全漏洞。这一危机需要立即采取措施，恢复访问权限、监控系统和进行全面审计，以防止未来的攻击。
+
+---
+
 ## <a name="7"></a>7. 谁需要获得机构审查委员会（IRB）的批准？ 
 <small>🔗 [dynomight.net](https://dynomight.net/irb/): Who exactly needs to get approval from an institutional review board (IRB)?</small>
 
 
-| 🔥🔥: 166 \| 💬: [108](https://news.ycombinator.com/item?id=43038395) \| 🗓️ 2025-02-13
+| 🔥🔥: 177 \| 💬: [117](https://news.ycombinator.com/item?id=43038395) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -111,7 +111,7 @@ Kagi搜索推出了**隐私通行证**认证，旨在增强用户的隐私保护
 <small>🔗 [github.com](https://github.com/wger-project/wger): Self hosted FLOSS fitness/workout tracker</small>
 
 
-| 🔥🔥: 161 \| 💬: [89](https://news.ycombinator.com/item?id=43034329) \| 🗓️ 2025-02-13
+| 🔥🔥: 168 \| 💬: [91](https://news.ycombinator.com/item?id=43034329) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -123,7 +123,7 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 <small>🔗 [dropsitenews.com](https://www.dropsitenews.com/p/doge-fema-funding-access-social-security-numbers): DOGE staffer is trying to reroute FEMA funds</small>
 
 
-| 🔥🔥: 150 \| 💬: [241](https://news.ycombinator.com/item?id=43036042) \| 🗓️ 2025-02-13
+| 🔥🔥: 155 \| 💬: [242](https://news.ycombinator.com/item?id=43036042) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -135,7 +135,7 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 <small>🔗 [wired.com](https://www.wired.com/story/doge-tts-fired/): DOGE Has Started Gutting a Key US Technology Agency</small>
 
 
-| 🔥🔥: 147 \| 💬: [146](https://news.ycombinator.com/item?id=43037426) \| 🗓️ 2025-02-13
+| 🔥🔥: 153 \| 💬: [153](https://news.ycombinator.com/item?id=43037426) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -147,7 +147,7 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/feb/13/unitedhealth-lawsuit-elderly-patients-care): 'It's a money game to them':son takes on UnitedHealth over elderly father's care</small>
 
 
-| 🔥🔥: 140 \| 💬: [121](https://news.ycombinator.com/item?id=43040023) \| 🗓️ 2025-02-13
+| 🔥🔥: 145 \| 💬: [125](https://news.ycombinator.com/item?id=43040023) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -155,35 +155,11 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 
 ---
 
-## <a name="12"></a>12. 拉里·埃里森希望将美国所有数据，包括DNA，整合到AI系统中 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/02/12/larry_ellison_wants_all_data/): Larry Ellison wants to put all America's data in AI, including DNA</small>
-
-
-| 🔥🔥: 122 \| 💬: [199](https://news.ycombinator.com/item?id=43038190) \| 🗓️ 2025-02-13
-
-
-<br />
-拉里·埃里森认为，政府若想利用AI改善服务和安全，必须将所有数据，包括公民的基因组数据，集中到一个数据库中进行分析。他在迪拜的世界政府峰会上表示，统一国家数据将使AI能够提供更好的医疗和农业预测，甚至可能导致更广泛的监控。他强调，Oracle准备帮助国家实现这一愿景，推动AI的应用。
-
----
-
-## <a name="13"></a>13. 台积电面临艰难选择，传闻与英特尔合作 
-<small>🔗 [techsoda.substack.com](https://techsoda.substack.com/p/tsmc-faces-tough-choices-amid-rumors): TSMC faces tough choices amid rumors for Intel foundry collaboration</small>
-
-
-| 🔥🔥: 121 \| 💬: [122](https://news.ycombinator.com/item?id=43037668) \| 🗓️ 2025-02-13
-
-
-<br />
-台积电正在考虑与美国政府的合作提议，可能会成为**英特尔**复兴的重要角色。提议包括在美国设立先进封装工厂、投资英特尔的代工服务，或允许英特尔处理其亚利桑那州的封装流程。然而，台积电尚未表态，且其董事会批准的资本预算仅为171.4亿美元，远低于市场预期。若拒绝提议，美国可能对台湾芯片征收100%关税，影响台积电及其他制造商的市场份额。台积电需在**地缘政治压力**与维护股东利益之间做出艰难抉择。
-
----
-
-## <a name="14"></a>14. 在Windows上改善Chromium浏览器的文本渲染 
+## <a name="12"></a>12. 在Windows上改善Chromium浏览器的文本渲染 
 <small>🔗 [developer.chrome.com](https://developer.chrome.com/blog/better-text-rendering-in-chromium-based-browsers-on-windows): Better text rendering in Chromium-based browsers on Windows</small>
 
 
-| 🔥🔥: 120 \| 💬: [100](https://news.ycombinator.com/item?id=43036593) \| 🗓️ 2025-02-13
+| 🔥🔥: 129 \| 💬: [108](https://news.ycombinator.com/item?id=43036593) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -191,11 +167,35 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 
 ---
 
+## <a name="13"></a>13. 拉里·埃里森希望将美国所有数据，包括DNA，整合到AI系统中 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/02/12/larry_ellison_wants_all_data/): Larry Ellison wants to put all America's data in AI, including DNA</small>
+
+
+| 🔥🔥: 123 \| 💬: [204](https://news.ycombinator.com/item?id=43038190) \| 🗓️ 2025-02-13
+
+
+<br />
+拉里·埃里森认为，政府若想利用AI改善服务和安全，必须将所有数据，包括公民的基因组数据，集中到一个数据库中进行分析。他在迪拜的世界政府峰会上表示，统一国家数据将使AI能够提供更好的医疗和农业预测，甚至可能导致更广泛的监控。他强调，Oracle准备帮助国家实现这一愿景，推动AI的应用。
+
+---
+
+## <a name="14"></a>14. 台积电面临艰难选择，传闻与英特尔合作 
+<small>🔗 [techsoda.substack.com](https://techsoda.substack.com/p/tsmc-faces-tough-choices-amid-rumors): TSMC faces tough choices amid rumors for Intel foundry collaboration</small>
+
+
+| 🔥🔥: 122 \| 💬: [127](https://news.ycombinator.com/item?id=43037668) \| 🗓️ 2025-02-13
+
+
+<br />
+台积电正在考虑与美国政府的合作提议，可能会成为**英特尔**复兴的重要角色。提议包括在美国设立先进封装工厂、投资英特尔的代工服务，或允许英特尔处理其亚利桑那州的封装流程。然而，台积电尚未表态，且其董事会批准的资本预算仅为171.4亿美元，远低于市场预期。若拒绝提议，美国可能对台湾芯片征收100%关税，影响台积电及其他制造商的市场份额。台积电需在**地缘政治压力**与维护股东利益之间做出艰难抉择。
+
+---
+
 ## <a name="15"></a>15. 白帽黑客揭露伊瑞迪恩卫星安全漏洞 
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/iridium-satellite): White Hat Hackers Expose Iridium Satellite Security Flaws</small>
 
 
-| 🔥🔥: 110 \| 💬: [29](https://news.ycombinator.com/item?id=43037623) \| 🗓️ 2025-02-13
+| 🔥🔥: 116 \| 💬: [31](https://news.ycombinator.com/item?id=43037623) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -207,7 +207,7 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 <small>🔗 [vcsubsidized.com](https://vcsubsidized.com/): I built a failed startups goods website and named it VcSubsidized.com</small>
 
 
-| 🔥🔥: 106 \| 💬: [32](https://news.ycombinator.com/item?id=43037600) \| 🗓️ 2025-02-13
+| 🔥🔥: 107 \| 💬: [34](https://news.ycombinator.com/item?id=43037600) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -231,7 +231,7 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 <small>🔗 [zetter-zeroday.com](https://www.zetter-zeroday.com/court-documents-shed-new-light-on-doge-access-and-activity-at-treasury-department/): Court Documents Shed New Light on DOGE Activity at Treasury Department</small>
 
 
-| 🔥: 97 \| 💬: [37](https://news.ycombinator.com/item?id=43036934) \| 🗓️ 2025-02-13
+| 🔥: 99 \| 💬: [38](https://news.ycombinator.com/item?id=43036934) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -239,47 +239,23 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 
 ---
 
-## <a name="19"></a>19. 赛博卡车的致死率超过臭名昭著的福特平托 
-<small>🔗 [motherjones.com](https://www.motherjones.com/politics/2025/02/report-cybertruck-safety-ford-pinto/): Cybertrucks Are Deadlier Than Infamous Ford Pintos</small>
+## <a name="19"></a>19. MapTCHA：提升OpenStreetMap的开源CAPTCHA 
+<small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/event/fosdem-2025-5879-maptcha-the-open-source-captcha-that-improves-openstreetmap/): MapTCHA, the open-source CAPTCHA that improves OpenStreetMap [video]</small>
 
 
-| 🔥: 77 \| 💬: [60](https://news.ycombinator.com/item?id=43039631) \| 🗓️ 2025-02-13
-
-
-<br />
-埃隆·马斯克的赛博卡车看似坚不可摧，但一项新报告显示，其致死率竟比福特平托还要高。根据分析，赛博卡车在一年内发生了五起火灾致死事件，致死率为每10万辆14.5人，而福特平托在九年内的致死率仅为0.85人。尽管分析承认方法上的局限性，但这仍然引发了对赛博卡车安全性的质疑。特斯拉尚未发布赛博卡车的安全数据，而NHTSA最近才进行碰撞测试，结果尚未公布。马斯克曾声称赛博卡车的安全性优于其他卡车，但其频繁的召回记录让这一说法受到挑战。
-
----
-
-## <a name="20"></a>20. 美国国际开发署（USAID）资金冻结扰乱全球结核病控制工作 
-<small>🔗 [cidrap.umn.edu](https://www.cidrap.umn.edu/tuberculosis/usaid-funding-freeze-disrupts-global-tuberculosis-control-efforts): USAID funding freeze disrupts global tuberculosis control efforts</small>
-
-
-| 🔥: 76 \| 💬: [98](https://news.ycombinator.com/item?id=43038727) \| 🗓️ 2025-02-13
+| 🔥: 93 \| 💬: [16](https://news.ycombinator.com/item?id=43040382) \| 🗓️ 2025-02-13
 
 
 <br />
-特朗普政府对USAID的资金冻结，导致全球结核病（TB）控制工作受到严重影响。作为美国在全球TB控制的主要资助机构，USAID的资金冻结使得TB诊断和治疗服务停摆，患者无法获得必要的药物和及时的诊断。专家警告，任何服务中断都可能导致患者死亡，尤其是在高负担国家。TB研究和临床试验也受到影响，可能加剧耐药性TB的传播。随着USAID的解散，全球TB控制努力面临前所未有的挑战。
+MapTCHA是一种新型的开源CAPTCHA，旨在解决在线平台中的**机器人和垃圾邮件**问题，同时支持OpenStreetMap（OSM）的映射工作。与传统CAPTCHA不同，MapTCHA利用计算机视觉的不确定性，要求用户识别图像中正确解释的对象，如建筑轮廓。通过将已知的正例与未知图像混合，用户通过投票确认对象的存在，从而提高映射的准确性。该原型利用高分辨率航拍图像识别建筑，未来计划扩展到更多对象和图像类型，并将MapTCHA集成到各种登录系统中。
 
 ---
 
-## <a name="21"></a>21. 为什么大家都想取代软件工程师？ 
-<small>🔗 [toddle.dev](https://toddle.dev/blog/why-is-everyone-trying-to-replace-software-engineers): Why is everyone trying to replace Software Engineers?</small>
-
-
-| 🔥: 68 \| 💬: [118](https://news.ycombinator.com/item?id=43037100) \| 🗓️ 2025-02-13
-
-
-<br />
-尽管AI技术不断发展，**软件工程师并不会被取代**。许多人对工程师的工作理解有限，导致他们认为AI可以替代我们。工程师需要改善与非技术同事的沟通，帮助他们理解软件开发的复杂性。我们应当将自己视为**问题解决者**，而非仅仅是编码者，这样才能让他人认识到我们在公司中的重要价值。
-
----
-
-## <a name="22"></a>22. 博士学位注册人数减少的趋势 
+## <a name="20"></a>20. 博士学位注册人数减少的趋势 
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00425-4): Fewer students are enrolling in doctoral degrees</small>
 
 
-| 🔥: 66 \| 💬: [106](https://news.ycombinator.com/item?id=43036428) \| 🗓️ 2025-02-13
+| 🔥: 87 \| 💬: [155](https://news.ycombinator.com/item?id=43036428) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -287,26 +263,62 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 
 ---
 
-## <a name="23"></a>23. 联邦工作人员对Facebook等平台的信任度日益下降 
+## <a name="21"></a>21. 美国国际开发署（USAID）资金冻结扰乱全球结核病控制工作 
+<small>🔗 [cidrap.umn.edu](https://www.cidrap.umn.edu/tuberculosis/usaid-funding-freeze-disrupts-global-tuberculosis-control-efforts): USAID funding freeze disrupts global tuberculosis control efforts</small>
+
+
+| 🔥: 81 \| 💬: [100](https://news.ycombinator.com/item?id=43038727) \| 🗓️ 2025-02-13
+
+
+<br />
+特朗普政府对USAID的资金冻结，导致全球结核病（TB）控制工作受到严重影响。作为美国在全球TB控制的主要资助机构，USAID的资金冻结使得TB诊断和治疗服务停摆，患者无法获得必要的药物和及时的诊断。专家警告，任何服务中断都可能导致患者死亡，尤其是在高负担国家。TB研究和临床试验也受到影响，可能加剧耐药性TB的传播。随着USAID的解散，全球TB控制努力面临前所未有的挑战。
+
+---
+
+## <a name="22"></a>22. 赛博卡车的致死率超过臭名昭著的福特平托 
+<small>🔗 [motherjones.com](https://www.motherjones.com/politics/2025/02/report-cybertruck-safety-ford-pinto/): Cybertrucks Are Deadlier Than Infamous Ford Pintos</small>
+
+
+| 🔥: 79 \| 💬: [63](https://news.ycombinator.com/item?id=43039631) \| 🗓️ 2025-02-13
+
+
+<br />
+埃隆·马斯克的赛博卡车看似坚不可摧，但一项新报告显示，其致死率竟比福特平托还要高。根据分析，赛博卡车在一年内发生了五起火灾致死事件，致死率为每10万辆14.5人，而福特平托在九年内的致死率仅为0.85人。尽管分析承认方法上的局限性，但这仍然引发了对赛博卡车安全性的质疑。特斯拉尚未发布赛博卡车的安全数据，而NHTSA最近才进行碰撞测试，结果尚未公布。马斯克曾声称赛博卡车的安全性优于其他卡车，但其频繁的召回记录让这一说法受到挑战。
+
+---
+
+## <a name="23"></a>23. 亚马逊将停止Kindle电子书“通过USB下载和传输”功能 
+<small>🔗 [goodereader.com](https://goodereader.com/blog/kindle/amazon-removing-download-and-transfer-on-the-kindle-feb-26th): Amazon ends kindle ebooks "Download and Transfer via USB"</small>
+
+
+| 🔥: 76 \| 💬: [68](https://news.ycombinator.com/item?id=43041726) \| 🗓️ 2025-02-13
+
+
+<br />
+亚马逊宣布，从**2025年2月26日**起，将停止Kindle电子书的“下载和传输通过USB”功能。此功能在12代Kindle中本就不存在，而其他型号也将无法使用。亚马逊此举是因为该功能使用率低，且与电子书盗版有关。用户仍可通过Wi-Fi将书籍发送到设备，并可继续使用Calibre和USB线进行侧载。
+
+---
+
+## <a name="24"></a>24. 为什么大家都想取代软件工程师？ 
+<small>🔗 [toddle.dev](https://toddle.dev/blog/why-is-everyone-trying-to-replace-software-engineers): Why is everyone trying to replace Software Engineers?</small>
+
+
+| 🔥: 68 \| 💬: [119](https://news.ycombinator.com/item?id=43037100) \| 🗓️ 2025-02-13
+
+
+<br />
+尽管AI技术不断发展，**软件工程师并不会被取代**。许多人对工程师的工作理解有限，导致他们认为AI可以替代我们。工程师需要改善与非技术同事的沟通，帮助他们理解软件开发的复杂性。我们应当将自己视为**问题解决者**，而非仅仅是编码者，这样才能让他人认识到我们在公司中的重要价值。
+
+---
+
+## <a name="25"></a>25. 联邦工作人员对Facebook等平台的信任度日益下降 
 <small>🔗 [theverge.com](https://www.theverge.com/news/610951/federal-workers-privacy-surveillance-signal-facebook-messenger): Federal workers say they increasingly distrust platforms like Facebook</small>
 
 
-| 🔥: 64 \| 💬: [77](https://news.ycombinator.com/item?id=43036356) \| 🗓️ 2025-02-13
+| 🔥: 65 \| 💬: [77](https://news.ycombinator.com/item?id=43036356) \| 🗓️ 2025-02-13
 
 
 <br />
 联邦工作人员表示，曾用于与同事和朋友沟通的平台现在让他们感到不安全。他们已将敏感对话从Facebook Messenger转移到加密消息应用Signal，以避免被政府监控。许多人对技术公司与特朗普政府的关系感到担忧，担心个人信息可能被泄露或用于识别异议人士。随着对隐私的关注加剧，联邦员工在日常沟通中变得更加谨慎，甚至在工作交流中也不再随意讨论。
-
----
-
-## <a name="24"></a>24. MapTCHA：提升OpenStreetMap的开源CAPTCHA 
-<small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/event/fosdem-2025-5879-maptcha-the-open-source-captcha-that-improves-openstreetmap/): MapTCHA, the open-source CAPTCHA that improves OpenStreetMap [video]</small>
-
-
-| 🔥: 63 \| 💬: [11](https://news.ycombinator.com/item?id=43040382) \| 🗓️ 2025-02-13
-
-
-<br />
-MapTCHA是一种新型的开源CAPTCHA，旨在解决在线平台中的**机器人和垃圾邮件**问题，同时支持OpenStreetMap（OSM）的映射工作。与传统CAPTCHA不同，MapTCHA利用计算机视觉的不确定性，要求用户识别图像中正确解释的对象，如建筑轮廓。通过将已知的正例与未知图像混合，用户通过投票确认对象的存在，从而提高映射的准确性。该原型利用高分辨率航拍图像识别建筑，未来计划扩展到更多对象和图像类型，并将MapTCHA集成到各种登录系统中。
 
 ---
