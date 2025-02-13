@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共21条，具体内容您往下读...
+总共22条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [brutecat.com](https://brutecat.com/articles/leaking-youtube-emails): Leaking the email of any YouTube user for $10k</small>
 
 
-| 🔥🔥: 1288 \| 💬: [378](https://news.ycombinator.com/item?id=43024221) \| 🗓️ 2025-02-12
+| 🔥🔥: 1304 \| 💬: [382](https://news.ycombinator.com/item?id=43024221) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [paulbutler.org](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/): Smuggling arbitrary data through an emoji</small>
 
 
-| 🔥🔥: 456 \| 💬: [148](https://news.ycombinator.com/item?id=43023508) \| 🗓️ 2025-02-12
+| 🔥🔥: 464 \| 💬: [151](https://news.ycombinator.com/item?id=43023508) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/02/us-and-uk-refuse-to-sign-ai-safety-declaration-at-summit/): US and UK refuse to sign AI safety declaration at summit</small>
 
 
-| 🔥🔥: 276 \| 💬: [536](https://news.ycombinator.com/item?id=43023554) \| 🗓️ 2025-02-12
+| 🔥🔥: 291 \| 💬: [547](https://news.ycombinator.com/item?id=43023554) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [techtalksweekly.io](https://www.techtalksweekly.io/p/100-most-watched-software-engineering): Most-Watched Software Engineering Talks of 2024</small>
 
 
-| 🔥🔥: 253 \| 💬: [82](https://news.ycombinator.com/item?id=43026590) \| 🗓️ 2025-02-12
+| 🔥🔥: 256 \| 💬: [82](https://news.ycombinator.com/item?id=43026590) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [worksinprogress.news](https://www.worksinprogress.news/p/the-prophet-of-parking): The Prophet of Parking: A eulogy for the great Donald Shoup</small>
 
 
-| 🔥🔥: 209 \| 💬: [234](https://news.ycombinator.com/item?id=43026920) \| 🗓️ 2025-02-12
+| 🔥🔥: 218 \| 💬: [235](https://news.ycombinator.com/item?id=43026920) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [eli.lipsitz.net](https://eli.lipsitz.net/posts/introducing-gamebub/): Show HN: Game Bub – open-source FPGA retro emulation handheld</small>
 
 
-| 🔥🔥: 184 \| 💬: [49](https://news.ycombinator.com/item?id=43027335) \| 🗓️ 2025-02-12
+| 🔥🔥: 187 \| 💬: [49](https://news.ycombinator.com/item?id=43027335) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -95,23 +95,11 @@ tags:
 
 ---
 
-## <a name="7"></a>7. PgAssistant：帮助开发者理解和优化PG性能的开源工具 
-<small>🔗 [github.com](https://github.com/nexsol-technologies/pgassistant): PgAssistant: OSS tool to help devs understand and optimize PG performance</small>
-
-
-| 🔥🔥: 176 \| 💬: [31](https://news.ycombinator.com/item?id=43026036) \| 🗓️ 2025-02-12
-
-
-<br />
-PgAssistant是一个开源工具，旨在帮助开发者理解和优化他们的**PostgreSQL**数据库性能。它提供数据库行为分析、**模式优化**和SQL查询库管理等功能，用户可以通过简单的JSON文件管理特定的SQL查询。此外，PgAssistant集成了**OpenAI**和本地LLM助手，帮助用户优化查询计划。使用pgAssistant前需激活pg_stat_statements模块，支持Docker环境和手动构建。
-
----
-
-## <a name="8"></a>8. 更快的FFI：Tiny JITs的探索 
+## <a name="7"></a>7. 更快的FFI：Tiny JITs的探索 
 <small>🔗 [railsatscale.com](https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/): Tiny JITs for a Faster FFI</small>
 
 
-| 🔥🔥: 173 \| 💬: [52](https://news.ycombinator.com/item?id=43030388) \| 🗓️ 2025-02-12
+| 🔥🔥: 186 \| 💬: [55](https://news.ycombinator.com/item?id=43030388) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -119,11 +107,23 @@ PgAssistant是一个开源工具，旨在帮助开发者理解和优化他们的
 
 ---
 
+## <a name="8"></a>8. PgAssistant：帮助开发者理解和优化PG性能的开源工具 
+<small>🔗 [github.com](https://github.com/nexsol-technologies/pgassistant): PgAssistant: OSS tool to help devs understand and optimize PG performance</small>
+
+
+| 🔥🔥: 183 \| 💬: [33](https://news.ycombinator.com/item?id=43026036) \| 🗓️ 2025-02-12
+
+
+<br />
+PgAssistant是一个开源工具，旨在帮助开发者理解和优化他们的**PostgreSQL**数据库性能。它提供数据库行为分析、**模式优化**和SQL查询库管理等功能，用户可以通过简单的JSON文件管理特定的SQL查询。此外，PgAssistant集成了**OpenAI**和本地LLM助手，帮助用户优化查询计划。使用pgAssistant前需激活pg_stat_statements模块，支持Docker环境和手动构建。
+
+---
+
 ## <a name="9"></a>9. 探测到有史以来最强能量的中微子 
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00444-1): Record-breaking neutrino is most energetic ever detected</small>
 
 
-| 🔥🔥: 172 \| 💬: [103](https://news.ycombinator.com/item?id=43027150) \| 🗓️ 2025-02-12
+| 🔥🔥: 175 \| 💬: [105](https://news.ycombinator.com/item?id=43027150) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -135,7 +135,7 @@ PgAssistant是一个开源工具，旨在帮助开发者理解和优化他们的
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/5g-bandwidth): 5G networks meet consumer needs as mobile data growth slows</small>
 
 
-| 🔥🔥: 169 \| 💬: [238](https://news.ycombinator.com/item?id=43027266) \| 🗓️ 2025-02-12
+| 🔥🔥: 170 \| 💬: [239](https://news.ycombinator.com/item?id=43027266) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -147,7 +147,7 @@ PgAssistant是一个开源工具，旨在帮助开发者理解和优化他们的
 <small>🔗 [webb-site.com](https://webb-site.com/articles/shutdown.asp): A gracious end to Webb-site</small>
 
 
-| 🔥🔥: 165 \| 💬: [26](https://news.ycombinator.com/item?id=43023141) \| 🗓️ 2025-02-12
+| 🔥🔥: 166 \| 💬: [26](https://news.ycombinator.com/item?id=43023141) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -155,7 +155,19 @@ Webb-site创始人David M. Webb因癌症病情恶化，计划在2025年3月31日
 
 ---
 
-## <a name="12"></a>12. 微型指针 
+## <a name="12"></a>12. 平均CPU性能首次下降 
+<small>🔗 [cpubenchmark.net](https://www.cpubenchmark.net/year-on-year.html): The average CPU performance of PCs and notebooks fell for the first time</small>
+
+
+| 🔥🔥: 142 \| 💬: [98](https://news.ycombinator.com/item?id=43029474) \| 🗓️ 2025-02-12
+
+
+<br />
+根据PerformanceTest的基准测试数据，**PC和笔记本的平均CPU性能**在2025年首次出现下降。这一趋势是基于全球用户提交的基准结果，涵盖了从2012年到2025年的多个版本。数据更新频繁，反映了不同类型CPU的性能变化，包括x86和ARM架构。尽管数据可能因提交时间而有所波动，但整体趋势显示出市场对CPU性能的关注正在减弱。
+
+---
+
+## <a name="13"></a>13. 微型指针 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2111.12800): Tiny Pointers</small>
 
 
@@ -167,11 +179,11 @@ Webb-site创始人David M. Webb因癌症病情恶化，计划在2025年3月31日
 
 ---
 
-## <a name="13"></a>13. 使用 --depth 2 进行 Git 克隆比 --depth 1 更佳，尤其在后续推送时 
+## <a name="14"></a>14. 使用 --depth 2 进行 Git 克隆比 --depth 1 更佳，尤其在后续推送时 
 <small>🔗 [stackoverflow.com](https://stackoverflow.com/questions/66431436/pushing-to-github-after-a-shallow-clone-is-horribly-slow): Git clone –depth 2 is vastly better than –depth 1 if you want to Git push later</small>
 
 
-| 🔥🔥: 136 \| 💬: [34](https://news.ycombinator.com/item?id=43023283) \| 🗓️ 2025-02-12
+| 🔥🔥: 136 \| 💬: [35](https://news.ycombinator.com/item?id=43023283) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -179,11 +191,11 @@ Webb-site创始人David M. Webb因癌症病情恶化，计划在2025年3月31日
 
 ---
 
-## <a name="14"></a>14. DeaDBeeF：终极音乐播放器 
+## <a name="15"></a>15. DeaDBeeF：终极音乐播放器 
 <small>🔗 [deadbeef.sourceforge.io](https://deadbeef.sourceforge.io/): DeaDBeeF: The Ultimate Music Player</small>
 
 
-| 🔥🔥: 135 \| 💬: [102](https://news.ycombinator.com/item?id=43024961) \| 🗓️ 2025-02-12
+| 🔥🔥: 136 \| 💬: [103](https://news.ycombinator.com/item?id=43024961) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -191,23 +203,11 @@ DeaDBeeF是一款**模块化的跨平台音频播放器**，支持多种操作�
 
 ---
 
-## <a name="15"></a>15. 平均CPU性能首次下降 
-<small>🔗 [cpubenchmark.net](https://www.cpubenchmark.net/year-on-year.html): The average CPU performance of PCs and notebooks fell for the first time</small>
-
-
-| 🔥🔥: 135 \| 💬: [90](https://news.ycombinator.com/item?id=43029474) \| 🗓️ 2025-02-12
-
-
-<br />
-根据PerformanceTest的基准测试数据，**PC和笔记本的平均CPU性能**在2025年首次出现下降。这一趋势是基于全球用户提交的基准结果，涵盖了从2012年到2025年的多个版本。数据更新频繁，反映了不同类型CPU的性能变化，包括x86和ARM架构。尽管数据可能因提交时间而有所波动，但整体趋势显示出市场对CPU性能的关注正在减弱。
-
----
-
 ## <a name="16"></a>16. 英雄联盟数据抓取的艰难与乐趣 
 <small>🔗 [maknee.github.io](https://maknee.github.io/blog/2025/League-Data-Scraping/): League of Legends data scraping the hard and tedious way for fun</small>
 
 
-| 🔥🔥: 134 \| 💬: [28](https://news.ycombinator.com/item?id=43024173) \| 🗓️ 2025-02-12
+| 🔥🔥: 135 \| 💬: [29](https://news.ycombinator.com/item?id=43024173) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -215,23 +215,11 @@ DeaDBeeF是一款**模块化的跨平台音频播放器**，支持多种操作�
 
 ---
 
-## <a name="17"></a>17. 消失的文化：打孔卡编织 
-<small>🔗 [blog.archive.org](https://blog.archive.org/2025/02/12/vanishing-culture-punch-card-knitting/): Vanishing Culture: Punch Card Knitting</small>
-
-
-| 🔥: 93 \| 💬: [17](https://news.ycombinator.com/item?id=43024540) \| 🗓️ 2025-02-12
-
-
-<br />
-打孔卡是一种有趣的**二进制数据存储格式**，不仅是历史遗物，今天的编织机仍在使用它们。尽管面临技术挑战，打孔卡在纺织领域依然活跃，尤其是在女性DIY文化中。打孔卡的编码方式让人们能够创造出复杂的图案，且这种技术与计算机历史紧密相连。通过社区支持的基础设施，打孔卡的数字化和保存工作正在进行，帮助我们更好地理解计算历史并支持创意计算的持续发展。
-
----
-
-## <a name="18"></a>18. IMAP同步工具 
+## <a name="17"></a>17. IMAP同步工具 
 <small>🔗 [imapsync.lamiral.info](https://imapsync.lamiral.info/): Imapsync</small>
 
 
-| 🔥: 90 \| 💬: [35](https://news.ycombinator.com/item?id=43028468) \| 🗓️ 2025-02-12
+| 🔥: 96 \| 💬: [35](https://news.ycombinator.com/item?id=43028468) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -239,11 +227,23 @@ Imapsync是一个**命令行工具**，用于迁移和备份IMAP邮箱，支持W
 
 ---
 
+## <a name="18"></a>18. 消失的文化：打孔卡编织 
+<small>🔗 [blog.archive.org](https://blog.archive.org/2025/02/12/vanishing-culture-punch-card-knitting/): Vanishing Culture: Punch Card Knitting</small>
+
+
+| 🔥: 94 \| 💬: [18](https://news.ycombinator.com/item?id=43024540) \| 🗓️ 2025-02-12
+
+
+<br />
+打孔卡是一种有趣的**二进制数据存储格式**，不仅是历史遗物，今天的编织机仍在使用它们。尽管面临技术挑战，打孔卡在纺织领域依然活跃，尤其是在女性DIY文化中。打孔卡的编码方式让人们能够创造出复杂的图案，且这种技术与计算机历史紧密相连。通过社区支持的基础设施，打孔卡的数字化和保存工作正在进行，帮助我们更好地理解计算历史并支持创意计算的持续发展。
+
+---
+
 ## <a name="19"></a>19. 创造AI的能力正是它可能抹去的东西 
 <small>🔗 [chrbutler.com](https://www.chrbutler.com/the-productive-void): What enabled us to create AI is the thing it has the power to erase</small>
 
 
-| 🔥: 72 \| 💬: [84](https://news.ycombinator.com/item?id=43030556) \| 🗓️ 2025-02-12
+| 🔥: 73 \| 💬: [84](https://news.ycombinator.com/item?id=43030556) \| 🗓️ 2025-02-12
 
 
 <br />
@@ -263,7 +263,19 @@ Imapsync是一个**命令行工具**，用于迁移和备份IMAP邮箱，支持W
 
 ---
 
-## <a name="21"></a>21. Codeberg遭遇仇恨攻击 
+## <a name="21"></a>21. 如何专业地表达（2022） 
+<small>🔗 [github.com](https://github.com/AkashRajpurohit/howtoprofessionallysay): How to professionally say (2022)</small>
+
+
+| 🔥: 60 \| 💬: [16](https://news.ycombinator.com/item?id=43031740) \| 🗓️ 2025-02-12
+
+
+<br />
+这是一个为日常“专业”互动提供指南的静态网站，旨在帮助用户将常见短语重新表述得更为专业。该项目的数据来源于Instagram创作者@loewhaley的内容，旨在提供更好的表达方式，而非被动攻击的语气。使用的技术栈包括**Next.js**、**TailwindCSS**和**Cloudflare Pages**。项目欢迎反馈和贡献，鼓励用户以开放的心态使用这些表达方式。
+
+---
+
+## <a name="22"></a>22. Codeberg遭遇仇恨攻击 
 <small>🔗 [blog.codeberg.org](https://blog.codeberg.org/we-stay-strong-against-hate-and-hatred.html): Codeberg Down</small>
 
 
