@@ -27,7 +27,7 @@ tags:
 <small>🔗 [marcan.st](https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/): Resigning as Asahi Linux project lead</small>
 
 
-| 🔥🔥: 899 \| 💬: [748](https://news.ycombinator.com/item?id=43036904) \| 🗓️ 2025-02-13
+| 🔥🔥: 930 \| 💬: [766](https://news.ycombinator.com/item?id=43036904) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [blog.kagi.com](https://blog.kagi.com/kagi-privacy-pass): Privacy Pass Authentication for Kagi Search</small>
 
 
-| 🔥🔥: 343 \| 💬: [145](https://news.ycombinator.com/item?id=43040521) \| 🗓️ 2025-02-13
+| 🔥🔥: 409 \| 💬: [162](https://news.ycombinator.com/item?id=43040521) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -51,7 +51,7 @@ Kagi搜索推出了**隐私通行证**认证，旨在增强用户的隐私保护
 <small>🔗 [theregister.com](https://www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/): LibreOffice still kicking at 40, now with browser tricks and real-time collab</small>
 
 
-| 🔥🔥: 340 \| 💬: [126](https://news.ycombinator.com/item?id=43038200) \| 🗓️ 2025-02-13
+| 🔥🔥: 360 \| 💬: [141](https://news.ycombinator.com/item?id=43038200) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -63,7 +63,7 @@ LibreOffice在FOSDEM 2025上庆祝其40周年，推出了新版本25.2。尽管�
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/02/13/apple-uk-security-back-door-adp/): U.K. demand for a back door to Apple data threatens Americans, lawmakers say</small>
 
 
-| 🔥🔥: 337 \| 💬: [231](https://news.ycombinator.com/item?id=43036434) \| 🗓️ 2025-02-13
+| 🔥🔥: 341 \| 💬: [234](https://news.ycombinator.com/item?id=43036434) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -75,7 +75,7 @@ LibreOffice在FOSDEM 2025上庆祝其40周年，推出了新版本25.2。尽管�
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00438-z): Cheap blood test detects pancreatic cancer before it spreads</small>
 
 
-| 🔥🔥: 301 \| 💬: [178](https://news.ycombinator.com/item?id=43035147) \| 🗓️ 2025-02-13
+| 🔥🔥: 319 \| 💬: [191](https://news.ycombinator.com/item?id=43035147) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -87,7 +87,7 @@ LibreOffice在FOSDEM 2025上庆祝其40周年，推出了新版本25.2。尽管�
 <small>🔗 [schneier.com](https://www.schneier.com/blog/archives/2025/02/doge-as-a-national.html): DOGE as a National Cyberattack</small>
 
 
-| 🔥🔥: 288 \| 💬: [125](https://news.ycombinator.com/item?id=43035977) \| 🗓️ 2025-02-13
+| 🔥🔥: 302 \| 💬: [131](https://news.ycombinator.com/item?id=43035977) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -99,7 +99,7 @@ LibreOffice在FOSDEM 2025上庆祝其40周年，推出了新版本25.2。尽管�
 <small>🔗 [dynomight.net](https://dynomight.net/irb/): Who exactly needs to get approval from an institutional review board (IRB)?</small>
 
 
-| 🔥🔥: 177 \| 💬: [117](https://news.ycombinator.com/item?id=43038395) \| 🗓️ 2025-02-13
+| 🔥🔥: 180 \| 💬: [123](https://news.ycombinator.com/item?id=43038395) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -111,7 +111,7 @@ LibreOffice在FOSDEM 2025上庆祝其40周年，推出了新版本25.2。尽管�
 <small>🔗 [github.com](https://github.com/wger-project/wger): Self hosted FLOSS fitness/workout tracker</small>
 
 
-| 🔥🔥: 168 \| 💬: [91](https://news.ycombinator.com/item?id=43034329) \| 🗓️ 2025-02-13
+| 🔥🔥: 174 \| 💬: [93](https://news.ycombinator.com/item?id=43034329) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -123,7 +123,7 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 <small>🔗 [dropsitenews.com](https://www.dropsitenews.com/p/doge-fema-funding-access-social-security-numbers): DOGE staffer is trying to reroute FEMA funds</small>
 
 
-| 🔥🔥: 155 \| 💬: [242](https://news.ycombinator.com/item?id=43036042) \| 🗓️ 2025-02-13
+| 🔥🔥: 156 \| 💬: [245](https://news.ycombinator.com/item?id=43036042) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -135,7 +135,7 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 <small>🔗 [wired.com](https://www.wired.com/story/doge-tts-fired/): DOGE Has Started Gutting a Key US Technology Agency</small>
 
 
-| 🔥🔥: 153 \| 💬: [153](https://news.ycombinator.com/item?id=43037426) \| 🗓️ 2025-02-13
+| 🔥🔥: 154 \| 💬: [157](https://news.ycombinator.com/item?id=43037426) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -147,7 +147,7 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/feb/13/unitedhealth-lawsuit-elderly-patients-care): 'It's a money game to them':son takes on UnitedHealth over elderly father's care</small>
 
 
-| 🔥🔥: 145 \| 💬: [125](https://news.ycombinator.com/item?id=43040023) \| 🗓️ 2025-02-13
+| 🔥🔥: 149 \| 💬: [126](https://news.ycombinator.com/item?id=43040023) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -159,7 +159,7 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 <small>🔗 [developer.chrome.com](https://developer.chrome.com/blog/better-text-rendering-in-chromium-based-browsers-on-windows): Better text rendering in Chromium-based browsers on Windows</small>
 
 
-| 🔥🔥: 129 \| 💬: [108](https://news.ycombinator.com/item?id=43036593) \| 🗓️ 2025-02-13
+| 🔥🔥: 137 \| 💬: [109](https://news.ycombinator.com/item?id=43036593) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -167,23 +167,11 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 
 ---
 
-## <a name="13"></a>13. 拉里·埃里森希望将美国所有数据，包括DNA，整合到AI系统中 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/02/12/larry_ellison_wants_all_data/): Larry Ellison wants to put all America's data in AI, including DNA</small>
-
-
-| 🔥🔥: 123 \| 💬: [204](https://news.ycombinator.com/item?id=43038190) \| 🗓️ 2025-02-13
-
-
-<br />
-拉里·埃里森认为，政府若想利用AI改善服务和安全，必须将所有数据，包括公民的基因组数据，集中到一个数据库中进行分析。他在迪拜的世界政府峰会上表示，统一国家数据将使AI能够提供更好的医疗和农业预测，甚至可能导致更广泛的监控。他强调，Oracle准备帮助国家实现这一愿景，推动AI的应用。
-
----
-
-## <a name="14"></a>14. 台积电面临艰难选择，传闻与英特尔合作 
+## <a name="13"></a>13. 台积电面临艰难选择，传闻与英特尔合作 
 <small>🔗 [techsoda.substack.com](https://techsoda.substack.com/p/tsmc-faces-tough-choices-amid-rumors): TSMC faces tough choices amid rumors for Intel foundry collaboration</small>
 
 
-| 🔥🔥: 122 \| 💬: [127](https://news.ycombinator.com/item?id=43037668) \| 🗓️ 2025-02-13
+| 🔥🔥: 123 \| 💬: [135](https://news.ycombinator.com/item?id=43037668) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -191,11 +179,23 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 
 ---
 
+## <a name="14"></a>14. 拉里·埃里森希望将美国所有数据，包括DNA，整合到AI系统中 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/02/12/larry_ellison_wants_all_data/): Larry Ellison wants to put all America's data in AI, including DNA</small>
+
+
+| 🔥🔥: 123 \| 💬: [207](https://news.ycombinator.com/item?id=43038190) \| 🗓️ 2025-02-13
+
+
+<br />
+拉里·埃里森认为，政府若想利用AI改善服务和安全，必须将所有数据，包括公民的基因组数据，集中到一个数据库中进行分析。他在迪拜的世界政府峰会上表示，统一国家数据将使AI能够提供更好的医疗和农业预测，甚至可能导致更广泛的监控。他强调，Oracle准备帮助国家实现这一愿景，推动AI的应用。
+
+---
+
 ## <a name="15"></a>15. 白帽黑客揭露伊瑞迪恩卫星安全漏洞 
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/iridium-satellite): White Hat Hackers Expose Iridium Satellite Security Flaws</small>
 
 
-| 🔥🔥: 116 \| 💬: [31](https://news.ycombinator.com/item?id=43037623) \| 🗓️ 2025-02-13
+| 🔥🔥: 119 \| 💬: [31](https://news.ycombinator.com/item?id=43037623) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -203,7 +203,19 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 
 ---
 
-## <a name="16"></a>16. 我建立了一个失败创业公司商品网站，命名为 VcSubsidized.com 
+## <a name="16"></a>16. MapTCHA：提升OpenStreetMap的开源CAPTCHA 
+<small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/event/fosdem-2025-5879-maptcha-the-open-source-captcha-that-improves-openstreetmap/): MapTCHA, the open-source CAPTCHA that improves OpenStreetMap [video]</small>
+
+
+| 🔥🔥: 119 \| 💬: [17](https://news.ycombinator.com/item?id=43040382) \| 🗓️ 2025-02-13
+
+
+<br />
+MapTCHA是一种新型的开源CAPTCHA，旨在解决在线平台中的**机器人和垃圾邮件**问题，同时支持OpenStreetMap（OSM）的映射工作。与传统CAPTCHA不同，MapTCHA利用计算机视觉的不确定性，要求用户识别图像中正确解释的对象，如建筑轮廓。通过将已知的正例与未知图像混合，用户通过投票确认对象的存在，从而提高映射的准确性。该原型利用高分辨率航拍图像识别建筑，未来计划扩展到更多对象和图像类型，并将MapTCHA集成到各种登录系统中。
+
+---
+
+## <a name="17"></a>17. 我建立了一个失败创业公司商品网站，命名为 VcSubsidized.com 
 <small>🔗 [vcsubsidized.com](https://vcsubsidized.com/): I built a failed startups goods website and named it VcSubsidized.com</small>
 
 
@@ -215,11 +227,11 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 
 ---
 
-## <a name="17"></a>17. 重新评估Wayland 
+## <a name="18"></a>18. 重新评估Wayland 
 <small>🔗 [dudemanguy.github.io](https://dudemanguy.github.io/blog/posts/2025-02-03-wayland-xorg-2/wayland-xorg-2.html): Reassessing Wayland</small>
 
 
-| 🔥🔥: 103 \| 💬: [50](https://news.ycombinator.com/item?id=43034440) \| 🗓️ 2025-02-13
+| 🔥🔥: 103 \| 💬: [51](https://news.ycombinator.com/item?id=43034440) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -227,11 +239,11 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 
 ---
 
-## <a name="18"></a>18. 法院文件揭示财政部DOGE活动的新情况 
+## <a name="19"></a>19. 法院文件揭示财政部DOGE活动的新情况 
 <small>🔗 [zetter-zeroday.com](https://www.zetter-zeroday.com/court-documents-shed-new-light-on-doge-access-and-activity-at-treasury-department/): Court Documents Shed New Light on DOGE Activity at Treasury Department</small>
 
 
-| 🔥: 99 \| 💬: [38](https://news.ycombinator.com/item?id=43036934) \| 🗓️ 2025-02-13
+| 🔥: 100 \| 💬: [42](https://news.ycombinator.com/item?id=43036934) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -239,23 +251,11 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 
 ---
 
-## <a name="19"></a>19. MapTCHA：提升OpenStreetMap的开源CAPTCHA 
-<small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/event/fosdem-2025-5879-maptcha-the-open-source-captcha-that-improves-openstreetmap/): MapTCHA, the open-source CAPTCHA that improves OpenStreetMap [video]</small>
-
-
-| 🔥: 93 \| 💬: [16](https://news.ycombinator.com/item?id=43040382) \| 🗓️ 2025-02-13
-
-
-<br />
-MapTCHA是一种新型的开源CAPTCHA，旨在解决在线平台中的**机器人和垃圾邮件**问题，同时支持OpenStreetMap（OSM）的映射工作。与传统CAPTCHA不同，MapTCHA利用计算机视觉的不确定性，要求用户识别图像中正确解释的对象，如建筑轮廓。通过将已知的正例与未知图像混合，用户通过投票确认对象的存在，从而提高映射的准确性。该原型利用高分辨率航拍图像识别建筑，未来计划扩展到更多对象和图像类型，并将MapTCHA集成到各种登录系统中。
-
----
-
 ## <a name="20"></a>20. 博士学位注册人数减少的趋势 
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00425-4): Fewer students are enrolling in doctoral degrees</small>
 
 
-| 🔥: 87 \| 💬: [155](https://news.ycombinator.com/item?id=43036428) \| 🗓️ 2025-02-13
+| 🔥: 99 \| 💬: [186](https://news.ycombinator.com/item?id=43036428) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -263,11 +263,23 @@ MapTCHA是一种新型的开源CAPTCHA，旨在解决在线平台中的**机器�
 
 ---
 
-## <a name="21"></a>21. 美国国际开发署（USAID）资金冻结扰乱全球结核病控制工作 
+## <a name="21"></a>21. 亚马逊将停止Kindle电子书“通过USB下载和传输”功能 
+<small>🔗 [goodereader.com](https://goodereader.com/blog/kindle/amazon-removing-download-and-transfer-on-the-kindle-feb-26th): Amazon ends kindle ebooks "Download and Transfer via USB"</small>
+
+
+| 🔥: 87 \| 💬: [74](https://news.ycombinator.com/item?id=43041726) \| 🗓️ 2025-02-13
+
+
+<br />
+亚马逊宣布，从**2025年2月26日**起，将停止Kindle电子书的“下载和传输通过USB”功能。此功能在12代Kindle中本就不存在，而其他型号也将无法使用。亚马逊此举是因为该功能使用率低，且与电子书盗版有关。用户仍可通过Wi-Fi将书籍发送到设备，并可继续使用Calibre和USB线进行侧载。
+
+---
+
+## <a name="22"></a>22. 美国国际开发署（USAID）资金冻结扰乱全球结核病控制工作 
 <small>🔗 [cidrap.umn.edu](https://www.cidrap.umn.edu/tuberculosis/usaid-funding-freeze-disrupts-global-tuberculosis-control-efforts): USAID funding freeze disrupts global tuberculosis control efforts</small>
 
 
-| 🔥: 81 \| 💬: [100](https://news.ycombinator.com/item?id=43038727) \| 🗓️ 2025-02-13
+| 🔥: 82 \| 💬: [103](https://news.ycombinator.com/item?id=43038727) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -275,27 +287,15 @@ MapTCHA是一种新型的开源CAPTCHA，旨在解决在线平台中的**机器�
 
 ---
 
-## <a name="22"></a>22. 赛博卡车的致死率超过臭名昭著的福特平托 
+## <a name="23"></a>23. 赛博卡车的致死率超过臭名昭著的福特平托 
 <small>🔗 [motherjones.com](https://www.motherjones.com/politics/2025/02/report-cybertruck-safety-ford-pinto/): Cybertrucks Are Deadlier Than Infamous Ford Pintos</small>
 
 
-| 🔥: 79 \| 💬: [63](https://news.ycombinator.com/item?id=43039631) \| 🗓️ 2025-02-13
+| 🔥: 80 \| 💬: [63](https://news.ycombinator.com/item?id=43039631) \| 🗓️ 2025-02-13
 
 
 <br />
 埃隆·马斯克的赛博卡车看似坚不可摧，但一项新报告显示，其致死率竟比福特平托还要高。根据分析，赛博卡车在一年内发生了五起火灾致死事件，致死率为每10万辆14.5人，而福特平托在九年内的致死率仅为0.85人。尽管分析承认方法上的局限性，但这仍然引发了对赛博卡车安全性的质疑。特斯拉尚未发布赛博卡车的安全数据，而NHTSA最近才进行碰撞测试，结果尚未公布。马斯克曾声称赛博卡车的安全性优于其他卡车，但其频繁的召回记录让这一说法受到挑战。
-
----
-
-## <a name="23"></a>23. 亚马逊将停止Kindle电子书“通过USB下载和传输”功能 
-<small>🔗 [goodereader.com](https://goodereader.com/blog/kindle/amazon-removing-download-and-transfer-on-the-kindle-feb-26th): Amazon ends kindle ebooks "Download and Transfer via USB"</small>
-
-
-| 🔥: 76 \| 💬: [68](https://news.ycombinator.com/item?id=43041726) \| 🗓️ 2025-02-13
-
-
-<br />
-亚马逊宣布，从**2025年2月26日**起，将停止Kindle电子书的“下载和传输通过USB”功能。此功能在12代Kindle中本就不存在，而其他型号也将无法使用。亚马逊此举是因为该功能使用率低，且与电子书盗版有关。用户仍可通过Wi-Fi将书籍发送到设备，并可继续使用Calibre和USB线进行侧载。
 
 ---
 
