@@ -27,7 +27,7 @@ tags:
 <small>🔗 [marcan.st](https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/): Resigning as Asahi Linux project lead</small>
 
 
-| 🔥🔥: 930 \| 💬: [766](https://news.ycombinator.com/item?id=43036904) \| 🗓️ 2025-02-13
+| 🔥🔥: 954 \| 💬: [783](https://news.ycombinator.com/item?id=43036904) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [blog.kagi.com](https://blog.kagi.com/kagi-privacy-pass): Privacy Pass Authentication for Kagi Search</small>
 
 
-| 🔥🔥: 409 \| 💬: [162](https://news.ycombinator.com/item?id=43040521) \| 🗓️ 2025-02-13
+| 🔥🔥: 468 \| 💬: [174](https://news.ycombinator.com/item?id=43040521) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -51,7 +51,7 @@ Kagi搜索推出了**隐私通行证**认证，旨在增强用户的隐私保护
 <small>🔗 [theregister.com](https://www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/): LibreOffice still kicking at 40, now with browser tricks and real-time collab</small>
 
 
-| 🔥🔥: 360 \| 💬: [141](https://news.ycombinator.com/item?id=43038200) \| 🗓️ 2025-02-13
+| 🔥🔥: 381 \| 💬: [152](https://news.ycombinator.com/item?id=43038200) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -63,7 +63,7 @@ LibreOffice在FOSDEM 2025上庆祝其40周年，推出了新版本25.2。尽管�
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/02/13/apple-uk-security-back-door-adp/): U.K. demand for a back door to Apple data threatens Americans, lawmakers say</small>
 
 
-| 🔥🔥: 341 \| 💬: [234](https://news.ycombinator.com/item?id=43036434) \| 🗓️ 2025-02-13
+| 🔥🔥: 350 \| 💬: [237](https://news.ycombinator.com/item?id=43036434) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -75,7 +75,7 @@ LibreOffice在FOSDEM 2025上庆祝其40周年，推出了新版本25.2。尽管�
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00438-z): Cheap blood test detects pancreatic cancer before it spreads</small>
 
 
-| 🔥🔥: 319 \| 💬: [191](https://news.ycombinator.com/item?id=43035147) \| 🗓️ 2025-02-13
+| 🔥🔥: 333 \| 💬: [196](https://news.ycombinator.com/item?id=43035147) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -87,7 +87,7 @@ LibreOffice在FOSDEM 2025上庆祝其40周年，推出了新版本25.2。尽管�
 <small>🔗 [schneier.com](https://www.schneier.com/blog/archives/2025/02/doge-as-a-national.html): DOGE as a National Cyberattack</small>
 
 
-| 🔥🔥: 302 \| 💬: [131](https://news.ycombinator.com/item?id=43035977) \| 🗓️ 2025-02-13
+| 🔥🔥: 311 \| 💬: [136](https://news.ycombinator.com/item?id=43035977) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -99,7 +99,7 @@ LibreOffice在FOSDEM 2025上庆祝其40周年，推出了新版本25.2。尽管�
 <small>🔗 [dynomight.net](https://dynomight.net/irb/): Who exactly needs to get approval from an institutional review board (IRB)?</small>
 
 
-| 🔥🔥: 180 \| 💬: [123](https://news.ycombinator.com/item?id=43038395) \| 🗓️ 2025-02-13
+| 🔥🔥: 186 \| 💬: [126](https://news.ycombinator.com/item?id=43038395) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -111,7 +111,7 @@ LibreOffice在FOSDEM 2025上庆祝其40周年，推出了新版本25.2。尽管�
 <small>🔗 [github.com](https://github.com/wger-project/wger): Self hosted FLOSS fitness/workout tracker</small>
 
 
-| 🔥🔥: 174 \| 💬: [93](https://news.ycombinator.com/item?id=43034329) \| 🗓️ 2025-02-13
+| 🔥🔥: 179 \| 💬: [93](https://news.ycombinator.com/item?id=43034329) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -123,7 +123,7 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 <small>🔗 [dropsitenews.com](https://www.dropsitenews.com/p/doge-fema-funding-access-social-security-numbers): DOGE staffer is trying to reroute FEMA funds</small>
 
 
-| 🔥🔥: 156 \| 💬: [245](https://news.ycombinator.com/item?id=43036042) \| 🗓️ 2025-02-13
+| 🔥🔥: 163 \| 💬: [253](https://news.ycombinator.com/item?id=43036042) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -135,7 +135,7 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 <small>🔗 [wired.com](https://www.wired.com/story/doge-tts-fired/): DOGE Has Started Gutting a Key US Technology Agency</small>
 
 
-| 🔥🔥: 154 \| 💬: [157](https://news.ycombinator.com/item?id=43037426) \| 🗓️ 2025-02-13
+| 🔥🔥: 158 \| 💬: [158](https://news.ycombinator.com/item?id=43037426) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -147,7 +147,7 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/feb/13/unitedhealth-lawsuit-elderly-patients-care): 'It's a money game to them':son takes on UnitedHealth over elderly father's care</small>
 
 
-| 🔥🔥: 149 \| 💬: [126](https://news.ycombinator.com/item?id=43040023) \| 🗓️ 2025-02-13
+| 🔥🔥: 151 \| 💬: [130](https://news.ycombinator.com/item?id=43040023) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -159,7 +159,7 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 <small>🔗 [developer.chrome.com](https://developer.chrome.com/blog/better-text-rendering-in-chromium-based-browsers-on-windows): Better text rendering in Chromium-based browsers on Windows</small>
 
 
-| 🔥🔥: 137 \| 💬: [109](https://news.ycombinator.com/item?id=43036593) \| 🗓️ 2025-02-13
+| 🔥🔥: 141 \| 💬: [112](https://news.ycombinator.com/item?id=43036593) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -167,47 +167,11 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 
 ---
 
-## <a name="13"></a>13. 台积电面临艰难选择，传闻与英特尔合作 
-<small>🔗 [techsoda.substack.com](https://techsoda.substack.com/p/tsmc-faces-tough-choices-amid-rumors): TSMC faces tough choices amid rumors for Intel foundry collaboration</small>
-
-
-| 🔥🔥: 123 \| 💬: [135](https://news.ycombinator.com/item?id=43037668) \| 🗓️ 2025-02-13
-
-
-<br />
-台积电正在考虑与美国政府的合作提议，可能会成为**英特尔**复兴的重要角色。提议包括在美国设立先进封装工厂、投资英特尔的代工服务，或允许英特尔处理其亚利桑那州的封装流程。然而，台积电尚未表态，且其董事会批准的资本预算仅为171.4亿美元，远低于市场预期。若拒绝提议，美国可能对台湾芯片征收100%关税，影响台积电及其他制造商的市场份额。台积电需在**地缘政治压力**与维护股东利益之间做出艰难抉择。
-
----
-
-## <a name="14"></a>14. 拉里·埃里森希望将美国所有数据，包括DNA，整合到AI系统中 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/02/12/larry_ellison_wants_all_data/): Larry Ellison wants to put all America's data in AI, including DNA</small>
-
-
-| 🔥🔥: 123 \| 💬: [207](https://news.ycombinator.com/item?id=43038190) \| 🗓️ 2025-02-13
-
-
-<br />
-拉里·埃里森认为，政府若想利用AI改善服务和安全，必须将所有数据，包括公民的基因组数据，集中到一个数据库中进行分析。他在迪拜的世界政府峰会上表示，统一国家数据将使AI能够提供更好的医疗和农业预测，甚至可能导致更广泛的监控。他强调，Oracle准备帮助国家实现这一愿景，推动AI的应用。
-
----
-
-## <a name="15"></a>15. 白帽黑客揭露伊瑞迪恩卫星安全漏洞 
-<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/iridium-satellite): White Hat Hackers Expose Iridium Satellite Security Flaws</small>
-
-
-| 🔥🔥: 119 \| 💬: [31](https://news.ycombinator.com/item?id=43037623) \| 🗓️ 2025-02-13
-
-
-<br />
-白帽黑客最近揭示了**伊瑞迪恩卫星**系统的安全缺陷，允许用户的**位置**和**文本信息**被拦截，包括国防部员工的信息。作为首个商业卫星通信服务，伊瑞迪恩的遗留系统仍存在一些安全隐患，这引发了对其安全性的广泛关注。
-
----
-
-## <a name="16"></a>16. MapTCHA：提升OpenStreetMap的开源CAPTCHA 
+## <a name="13"></a>13. MapTCHA：提升OpenStreetMap的开源CAPTCHA 
 <small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/event/fosdem-2025-5879-maptcha-the-open-source-captcha-that-improves-openstreetmap/): MapTCHA, the open-source CAPTCHA that improves OpenStreetMap [video]</small>
 
 
-| 🔥🔥: 119 \| 💬: [17](https://news.ycombinator.com/item?id=43040382) \| 🗓️ 2025-02-13
+| 🔥🔥: 133 \| 💬: [18](https://news.ycombinator.com/item?id=43040382) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -215,7 +179,55 @@ MapTCHA是一种新型的开源CAPTCHA，旨在解决在线平台中的**机器�
 
 ---
 
-## <a name="17"></a>17. 我建立了一个失败创业公司商品网站，命名为 VcSubsidized.com 
+## <a name="14"></a>14. 台积电面临艰难选择，传闻与英特尔合作 
+<small>🔗 [techsoda.substack.com](https://techsoda.substack.com/p/tsmc-faces-tough-choices-amid-rumors): TSMC faces tough choices amid rumors for Intel foundry collaboration</small>
+
+
+| 🔥🔥: 125 \| 💬: [138](https://news.ycombinator.com/item?id=43037668) \| 🗓️ 2025-02-13
+
+
+<br />
+台积电正在考虑与美国政府的合作提议，可能会成为**英特尔**复兴的重要角色。提议包括在美国设立先进封装工厂、投资英特尔的代工服务，或允许英特尔处理其亚利桑那州的封装流程。然而，台积电尚未表态，且其董事会批准的资本预算仅为171.4亿美元，远低于市场预期。若拒绝提议，美国可能对台湾芯片征收100%关税，影响台积电及其他制造商的市场份额。台积电需在**地缘政治压力**与维护股东利益之间做出艰难抉择。
+
+---
+
+## <a name="15"></a>15. 拉里·埃里森希望将美国所有数据，包括DNA，整合到AI系统中 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/02/12/larry_ellison_wants_all_data/): Larry Ellison wants to put all America's data in AI, including DNA</small>
+
+
+| 🔥🔥: 123 \| 💬: [209](https://news.ycombinator.com/item?id=43038190) \| 🗓️ 2025-02-13
+
+
+<br />
+拉里·埃里森认为，政府若想利用AI改善服务和安全，必须将所有数据，包括公民的基因组数据，集中到一个数据库中进行分析。他在迪拜的世界政府峰会上表示，统一国家数据将使AI能够提供更好的医疗和农业预测，甚至可能导致更广泛的监控。他强调，Oracle准备帮助国家实现这一愿景，推动AI的应用。
+
+---
+
+## <a name="16"></a>16. 白帽黑客揭露伊瑞迪恩卫星安全漏洞 
+<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/iridium-satellite): White Hat Hackers Expose Iridium Satellite Security Flaws</small>
+
+
+| 🔥🔥: 120 \| 💬: [31](https://news.ycombinator.com/item?id=43037623) \| 🗓️ 2025-02-13
+
+
+<br />
+白帽黑客最近揭示了**伊瑞迪恩卫星**系统的安全缺陷，允许用户的**位置**和**文本信息**被拦截，包括国防部员工的信息。作为首个商业卫星通信服务，伊瑞迪恩的遗留系统仍存在一些安全隐患，这引发了对其安全性的广泛关注。
+
+---
+
+## <a name="17"></a>17. 博士学位注册人数减少的趋势 
+<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00425-4): Fewer students are enrolling in doctoral degrees</small>
+
+
+| 🔥🔥: 117 \| 💬: [201](https://news.ycombinator.com/item?id=43036428) \| 🗓️ 2025-02-13
+
+
+<br />
+近年来，多个国家的博士学位注册人数出现下降，尤其是在**澳大利亚、英国、日本和巴西**等国。高生活成本、低津贴和有限的就业机会使学生对攻读博士学位望而却步。政策专家警告，这一趋势可能导致人才流失，进而影响科学进步。以澳大利亚为例，2018年至2023年间，国内博士注册人数减少了8%。在日本，自2000年代初以来，博士生人数持续下降，2023年仅有15,014名新生。尽管巴西在2023年增加了研究生津贴，但仍面临经济危机和政府资金不足的问题。各国需采取措施改善博士生的工作条件和职业选择，以吸引更多学生。
+
+---
+
+## <a name="18"></a>18. 我建立了一个失败创业公司商品网站，命名为 VcSubsidized.com 
 <small>🔗 [vcsubsidized.com](https://vcsubsidized.com/): I built a failed startups goods website and named it VcSubsidized.com</small>
 
 
@@ -227,7 +239,7 @@ MapTCHA是一种新型的开源CAPTCHA，旨在解决在线平台中的**机器�
 
 ---
 
-## <a name="18"></a>18. 重新评估Wayland 
+## <a name="19"></a>19. 重新评估Wayland 
 <small>🔗 [dudemanguy.github.io](https://dudemanguy.github.io/blog/posts/2025-02-03-wayland-xorg-2/wayland-xorg-2.html): Reassessing Wayland</small>
 
 
@@ -239,11 +251,11 @@ MapTCHA是一种新型的开源CAPTCHA，旨在解决在线平台中的**机器�
 
 ---
 
-## <a name="19"></a>19. 法院文件揭示财政部DOGE活动的新情况 
+## <a name="20"></a>20. 法院文件揭示财政部DOGE活动的新情况 
 <small>🔗 [zetter-zeroday.com](https://www.zetter-zeroday.com/court-documents-shed-new-light-on-doge-access-and-activity-at-treasury-department/): Court Documents Shed New Light on DOGE Activity at Treasury Department</small>
 
 
-| 🔥: 100 \| 💬: [42](https://news.ycombinator.com/item?id=43036934) \| 🗓️ 2025-02-13
+| 🔥: 100 \| 💬: [43](https://news.ycombinator.com/item?id=43036934) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -251,23 +263,11 @@ MapTCHA是一种新型的开源CAPTCHA，旨在解决在线平台中的**机器�
 
 ---
 
-## <a name="20"></a>20. 博士学位注册人数减少的趋势 
-<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00425-4): Fewer students are enrolling in doctoral degrees</small>
-
-
-| 🔥: 99 \| 💬: [186](https://news.ycombinator.com/item?id=43036428) \| 🗓️ 2025-02-13
-
-
-<br />
-近年来，多个国家的博士学位注册人数出现下降，尤其是在**澳大利亚、英国、日本和巴西**等国。高生活成本、低津贴和有限的就业机会使学生对攻读博士学位望而却步。政策专家警告，这一趋势可能导致人才流失，进而影响科学进步。以澳大利亚为例，2018年至2023年间，国内博士注册人数减少了8%。在日本，自2000年代初以来，博士生人数持续下降，2023年仅有15,014名新生。尽管巴西在2023年增加了研究生津贴，但仍面临经济危机和政府资金不足的问题。各国需采取措施改善博士生的工作条件和职业选择，以吸引更多学生。
-
----
-
 ## <a name="21"></a>21. 亚马逊将停止Kindle电子书“通过USB下载和传输”功能 
 <small>🔗 [goodereader.com](https://goodereader.com/blog/kindle/amazon-removing-download-and-transfer-on-the-kindle-feb-26th): Amazon ends kindle ebooks "Download and Transfer via USB"</small>
 
 
-| 🔥: 87 \| 💬: [74](https://news.ycombinator.com/item?id=43041726) \| 🗓️ 2025-02-13
+| 🔥: 90 \| 💬: [78](https://news.ycombinator.com/item?id=43041726) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -279,7 +279,7 @@ MapTCHA是一种新型的开源CAPTCHA，旨在解决在线平台中的**机器�
 <small>🔗 [cidrap.umn.edu](https://www.cidrap.umn.edu/tuberculosis/usaid-funding-freeze-disrupts-global-tuberculosis-control-efforts): USAID funding freeze disrupts global tuberculosis control efforts</small>
 
 
-| 🔥: 82 \| 💬: [103](https://news.ycombinator.com/item?id=43038727) \| 🗓️ 2025-02-13
+| 🔥: 85 \| 💬: [104](https://news.ycombinator.com/item?id=43038727) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -287,11 +287,23 @@ MapTCHA是一种新型的开源CAPTCHA，旨在解决在线平台中的**机器�
 
 ---
 
-## <a name="23"></a>23. 赛博卡车的致死率超过臭名昭著的福特平托 
+## <a name="23"></a>23. 成人快速准确地学习绝对音高判断 
+<small>🔗 [link.springer.com](https://link.springer.com/article/10.3758/s13423-024-02620-2): Learning fast and accurate absolute pitch judgment in adulthood</small>
+
+
+| 🔥: 82 \| 💬: [41](https://news.ycombinator.com/item?id=43033971) \| 🗓️ 2025-02-13
+
+
+<br />
+研究表明，**绝对音高（AP）**的学习不仅限于儿童，成年人也能通过系统训练获得这一能力。通过为期8周的在线训练，参与者在无外部参考的情况下，平均能以90%的准确率识别7.08个音高，显著提升了音高命名的准确性和反应速度。这一结果挑战了**关键期**的传统观念，表明AP能力在成年后仍可学习。
+
+---
+
+## <a name="24"></a>24. 赛博卡车的致死率超过臭名昭著的福特平托 
 <small>🔗 [motherjones.com](https://www.motherjones.com/politics/2025/02/report-cybertruck-safety-ford-pinto/): Cybertrucks Are Deadlier Than Infamous Ford Pintos</small>
 
 
-| 🔥: 80 \| 💬: [63](https://news.ycombinator.com/item?id=43039631) \| 🗓️ 2025-02-13
+| 🔥: 80 \| 💬: [65](https://news.ycombinator.com/item?id=43039631) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -299,7 +311,7 @@ MapTCHA是一种新型的开源CAPTCHA，旨在解决在线平台中的**机器�
 
 ---
 
-## <a name="24"></a>24. 为什么大家都想取代软件工程师？ 
+## <a name="25"></a>25. 为什么大家都想取代软件工程师？ 
 <small>🔗 [toddle.dev](https://toddle.dev/blog/why-is-everyone-trying-to-replace-software-engineers): Why is everyone trying to replace Software Engineers?</small>
 
 
@@ -308,17 +320,5 @@ MapTCHA是一种新型的开源CAPTCHA，旨在解决在线平台中的**机器�
 
 <br />
 尽管AI技术不断发展，**软件工程师并不会被取代**。许多人对工程师的工作理解有限，导致他们认为AI可以替代我们。工程师需要改善与非技术同事的沟通，帮助他们理解软件开发的复杂性。我们应当将自己视为**问题解决者**，而非仅仅是编码者，这样才能让他人认识到我们在公司中的重要价值。
-
----
-
-## <a name="25"></a>25. 联邦工作人员对Facebook等平台的信任度日益下降 
-<small>🔗 [theverge.com](https://www.theverge.com/news/610951/federal-workers-privacy-surveillance-signal-facebook-messenger): Federal workers say they increasingly distrust platforms like Facebook</small>
-
-
-| 🔥: 65 \| 💬: [77](https://news.ycombinator.com/item?id=43036356) \| 🗓️ 2025-02-13
-
-
-<br />
-联邦工作人员表示，曾用于与同事和朋友沟通的平台现在让他们感到不安全。他们已将敏感对话从Facebook Messenger转移到加密消息应用Signal，以避免被政府监控。许多人对技术公司与特朗普政府的关系感到担忧，担心个人信息可能被泄露或用于识别异议人士。随着对隐私的关注加剧，联邦员工在日常沟通中变得更加谨慎，甚至在工作交流中也不再随意讨论。
 
 ---
