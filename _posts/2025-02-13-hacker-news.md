@@ -27,7 +27,7 @@ tags:
 <small>🔗 [marcan.st](https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/): Resigning as Asahi Linux project lead</small>
 
 
-| 🔥🔥: 984 \| 💬: [828](https://news.ycombinator.com/item?id=43036904) \| 🗓️ 2025-02-13
+| 🔥🔥: 994 \| 💬: [833](https://news.ycombinator.com/item?id=43036904) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [blog.kagi.com](https://blog.kagi.com/kagi-privacy-pass): Privacy Pass Authentication for Kagi Search</small>
 
 
-| 🔥🔥: 610 \| 💬: [214](https://news.ycombinator.com/item?id=43040521) \| 🗓️ 2025-02-13
+| 🔥🔥: 644 \| 💬: [220](https://news.ycombinator.com/item?id=43040521) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -51,7 +51,7 @@ Kagi搜索推出了**隐私通行证**认证，旨在增强用户的隐私保护
 <small>🔗 [theregister.com](https://www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/): LibreOffice still kicking at 40, now with browser tricks and real-time collab</small>
 
 
-| 🔥🔥: 426 \| 💬: [172](https://news.ycombinator.com/item?id=43038200) \| 🗓️ 2025-02-13
+| 🔥🔥: 437 \| 💬: [179](https://news.ycombinator.com/item?id=43038200) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -63,7 +63,7 @@ LibreOffice在FOSDEM 2025上庆祝其40周年，推出了新版本25.2。尽管�
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/02/13/apple-uk-security-back-door-adp/): U.K. demand for a back door to Apple data threatens Americans, lawmakers say</small>
 
 
-| 🔥🔥: 358 \| 💬: [243](https://news.ycombinator.com/item?id=43036434) \| 🗓️ 2025-02-13
+| 🔥🔥: 360 \| 💬: [245](https://news.ycombinator.com/item?id=43036434) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -75,7 +75,7 @@ LibreOffice在FOSDEM 2025上庆祝其40周年，推出了新版本25.2。尽管�
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00438-z): Cheap blood test detects pancreatic cancer before it spreads</small>
 
 
-| 🔥🔥: 348 \| 💬: [209](https://news.ycombinator.com/item?id=43035147) \| 🗓️ 2025-02-13
+| 🔥🔥: 354 \| 💬: [211](https://news.ycombinator.com/item?id=43035147) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -87,7 +87,7 @@ LibreOffice在FOSDEM 2025上庆祝其40周年，推出了新版本25.2。尽管�
 <small>🔗 [schneier.com](https://www.schneier.com/blog/archives/2025/02/doge-as-a-national.html): DOGE as a National Cyberattack</small>
 
 
-| 🔥🔥: 339 \| 💬: [163](https://news.ycombinator.com/item?id=43035977) \| 🗓️ 2025-02-13
+| 🔥🔥: 342 \| 💬: [171](https://news.ycombinator.com/item?id=43035977) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -99,7 +99,7 @@ LibreOffice在FOSDEM 2025上庆祝其40周年，推出了新版本25.2。尽管�
 <small>🔗 [gitlab.com](https://gitlab.com/fedora/sigs/flatpak/fedora-flatpaks/-/issues/39#note_2344970813): The OBS Project is threatening Fedora Linux with legal action</small>
 
 
-| 🔥🔥: 216 \| 💬: [132](https://news.ycombinator.com/item?id=43042985) \| 🗓️ 2025-02-13
+| 🔥🔥: 229 \| 💬: [140](https://news.ycombinator.com/item?id=43042985) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -111,7 +111,7 @@ Fedora Flatpaks中出现的非官方OBS Studio Flatpak存在严重问题，用�
 <small>🔗 [dynomight.net](https://dynomight.net/irb/): Who exactly needs to get approval from an institutional review board (IRB)?</small>
 
 
-| 🔥🔥: 193 \| 💬: [135](https://news.ycombinator.com/item?id=43038395) \| 🗓️ 2025-02-13
+| 🔥🔥: 195 \| 💬: [138](https://news.ycombinator.com/item?id=43038395) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -123,7 +123,7 @@ Fedora Flatpaks中出现的非官方OBS Studio Flatpak存在严重问题，用�
 <small>🔗 [github.com](https://github.com/wger-project/wger): Self hosted FLOSS fitness/workout tracker</small>
 
 
-| 🔥🔥: 188 \| 💬: [97](https://news.ycombinator.com/item?id=43034329) \| 🗓️ 2025-02-13
+| 🔥🔥: 193 \| 💬: [99](https://news.ycombinator.com/item?id=43034329) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -131,15 +131,15 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 
 ---
 
-## <a name="10"></a>10. DOGE员工试图重新分配FEMA资金 
-<small>🔗 [dropsitenews.com](https://www.dropsitenews.com/p/doge-fema-funding-access-social-security-numbers): DOGE staffer is trying to reroute FEMA funds</small>
+## <a name="10"></a>10. 麻省理工学院从零开始进化虚拟眼睛 
+<small>🔗 [eyes.mit.edu](https://eyes.mit.edu/): What if Eye...?</small>
 
 
-| 🔥🔥: 171 \| 💬: [259](https://news.ycombinator.com/item?id=43036042) \| 🗓️ 2025-02-13
+| 🔥🔥: 177 \| 💬: [31](https://news.ycombinator.com/item?id=43043063) \| 🗓️ 2025-02-13
 
 
 <br />
-据FEMA内部消息，DOGE代表**Kyle Schutt**获得了FEMA的核心财务管理系统访问权限，试图通过**解除拨款**来规避资金使用限制。此举可能导致FEMA无法有效管理灾难救助资金，且DOGE员工对财务管理的理解不足，造成混乱。FEMA内部员工因遵循指示而被解雇，局势紧张。
+研究者通过**计算重现**视觉的**寒武纪大爆发**，从单一的光感受细胞出发，模拟生物在数百万年中面对的挑战，如导航、食物与毒素的辨别，以及躲避捕食者。随着进化，数字生物根据生存需求发展出不同的眼睛结构，比如用于导航的复眼和用于辨别食物与毒素的相机眼。它们独立发现了自然界的解决方案，如**透镜**的出现，以聚焦光线，从而在生存压力与环境限制之间取得平衡。通过对生物光学基因的随机突变，数字生物在150代后展现出复杂的视觉能力，反映了自然选择的过程。
 
 ---
 
@@ -147,7 +147,7 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 <small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/event/fosdem-2025-5879-maptcha-the-open-source-captcha-that-improves-openstreetmap/): MapTCHA, the open-source CAPTCHA that improves OpenStreetMap [video]</small>
 
 
-| 🔥🔥: 166 \| 💬: [21](https://news.ycombinator.com/item?id=43040382) \| 🗓️ 2025-02-13
+| 🔥🔥: 176 \| 💬: [19](https://news.ycombinator.com/item?id=43040382) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -155,7 +155,19 @@ MapTCHA是一种新型的开源CAPTCHA，旨在解决在线平台中的**机器�
 
 ---
 
-## <a name="12"></a>12. DOGE开始削减美国关键科技机构的人员 
+## <a name="12"></a>12. DOGE员工试图重新分配FEMA资金 
+<small>🔗 [dropsitenews.com](https://www.dropsitenews.com/p/doge-fema-funding-access-social-security-numbers): DOGE staffer is trying to reroute FEMA funds</small>
+
+
+| 🔥🔥: 172 \| 💬: [260](https://news.ycombinator.com/item?id=43036042) \| 🗓️ 2025-02-13
+
+
+<br />
+据FEMA内部消息，DOGE代表**Kyle Schutt**获得了FEMA的核心财务管理系统访问权限，试图通过**解除拨款**来规避资金使用限制。此举可能导致FEMA无法有效管理灾难救助资金，且DOGE员工对财务管理的理解不足，造成混乱。FEMA内部员工因遵循指示而被解雇，局势紧张。
+
+---
+
+## <a name="13"></a>13. DOGE开始削减美国关键科技机构的人员 
 <small>🔗 [wired.com](https://www.wired.com/story/doge-tts-fired/): DOGE Has Started Gutting a Key US Technology Agency</small>
 
 
@@ -167,11 +179,11 @@ MapTCHA是一种新型的开源CAPTCHA，旨在解决在线平台中的**机器�
 
 ---
 
-## <a name="13"></a>13. 儿子控告联合健康公司，因父亲的护理遭拒 
+## <a name="14"></a>14. 儿子控告联合健康公司，因父亲的护理遭拒 
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/feb/13/unitedhealth-lawsuit-elderly-patients-care): 'It's a money game to them':son takes on UnitedHealth over elderly father's care</small>
 
 
-| 🔥🔥: 157 \| 💬: [137](https://news.ycombinator.com/item?id=43040023) \| 🗓️ 2025-02-13
+| 🔥🔥: 158 \| 💬: [138](https://news.ycombinator.com/item?id=43040023) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -179,35 +191,11 @@ MapTCHA是一种新型的开源CAPTCHA，旨在解决在线平台中的**机器�
 
 ---
 
-## <a name="14"></a>14. 麻省理工学院从零开始进化虚拟眼睛 
-<small>🔗 [eyes.mit.edu](https://eyes.mit.edu/): MIT evolves virtual eye from scratch</small>
-
-
-| 🔥🔥: 151 \| 💬: [25](https://news.ycombinator.com/item?id=43043063) \| 🗓️ 2025-02-13
-
-
-<br />
-研究者通过**计算重现**视觉的**寒武纪大爆发**，从单一的光感受细胞出发，模拟生物在数百万年中面对的挑战，如导航、食物与毒素的辨别，以及躲避捕食者。随着进化，数字生物根据生存需求发展出不同的眼睛结构，比如用于导航的复眼和用于辨别食物与毒素的相机眼。它们独立发现了自然界的解决方案，如**透镜**的出现，以聚焦光线，从而在生存压力与环境限制之间取得平衡。通过对生物光学基因的随机突变，数字生物在150代后展现出复杂的视觉能力，反映了自然选择的过程。
-
----
-
-## <a name="15"></a>15. 在Windows上改善Chromium浏览器的文本渲染 
-<small>🔗 [developer.chrome.com](https://developer.chrome.com/blog/better-text-rendering-in-chromium-based-browsers-on-windows): Better text rendering in Chromium-based browsers on Windows</small>
-
-
-| 🔥🔥: 149 \| 💬: [118](https://news.ycombinator.com/item?id=43036593) \| 🗓️ 2025-02-13
-
-
-<br />
-在2020年，**Edge**浏览器转向**Chromium**引擎，用户反馈文本看起来“洗淡”，与Windows其他部分不一致。研究发现，**Skia**引擎的文本对比度和伽玛设置与Windows的**ClearType**调优不匹配。经过实验，Edge团队确定对比度值应调整为1.0，以匹配之前的Edge渲染效果。Chrome团队确认了这一发现，并在Chrome 132版本中默认启用新设置，使所有Chromium浏览器用户受益。
-
----
-
-## <a name="16"></a>16. 博士学位注册人数减少的趋势 
+## <a name="15"></a>15. 博士学位注册人数减少的趋势 
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00425-4): Fewer students are enrolling in doctoral degrees</small>
 
 
-| 🔥🔥: 148 \| 💬: [272](https://news.ycombinator.com/item?id=43036428) \| 🗓️ 2025-02-13
+| 🔥🔥: 153 \| 💬: [281](https://news.ycombinator.com/item?id=43036428) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -215,11 +203,23 @@ MapTCHA是一种新型的开源CAPTCHA，旨在解决在线平台中的**机器�
 
 ---
 
+## <a name="16"></a>16. 在Windows上改善Chromium浏览器的文本渲染 
+<small>🔗 [developer.chrome.com](https://developer.chrome.com/blog/better-text-rendering-in-chromium-based-browsers-on-windows): Better text rendering in Chromium-based browsers on Windows</small>
+
+
+| 🔥🔥: 152 \| 💬: [118](https://news.ycombinator.com/item?id=43036593) \| 🗓️ 2025-02-13
+
+
+<br />
+在2020年，**Edge**浏览器转向**Chromium**引擎，用户反馈文本看起来“洗淡”，与Windows其他部分不一致。研究发现，**Skia**引擎的文本对比度和伽玛设置与Windows的**ClearType**调优不匹配。经过实验，Edge团队确定对比度值应调整为1.0，以匹配之前的Edge渲染效果。Chrome团队确认了这一发现，并在Chrome 132版本中默认启用新设置，使所有Chromium浏览器用户受益。
+
+---
+
 ## <a name="17"></a>17. 我们是维护代码高质量的“薄蓝线” 
 <small>🔗 [lore.kernel.org](https://lore.kernel.org/lkml/20250208204416.GL1130956@mit.edu/): We are the "thin blue line" that is trying to keep the code high quality</small>
 
 
-| 🔥🔥: 136 \| 💬: [113](https://news.ycombinator.com/item?id=43043312) \| 🗓️ 2025-02-13
+| 🔥🔥: 137 \| 💬: [120](https://news.ycombinator.com/item?id=43043312) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -231,7 +231,7 @@ MapTCHA是一种新型的开源CAPTCHA，旨在解决在线平台中的**机器�
 <small>🔗 [techsoda.substack.com](https://techsoda.substack.com/p/tsmc-faces-tough-choices-amid-rumors): TSMC faces tough choices amid rumors for Intel foundry collaboration</small>
 
 
-| 🔥🔥: 127 \| 💬: [144](https://news.ycombinator.com/item?id=43037668) \| 🗓️ 2025-02-13
+| 🔥🔥: 127 \| 💬: [146](https://news.ycombinator.com/item?id=43037668) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -263,27 +263,27 @@ MapTCHA是一种新型的开源CAPTCHA，旨在解决在线平台中的**机器�
 
 ---
 
-## <a name="21"></a>21. 苹果恢复在X平台上的广告投放 
-<small>🔗 [daringfireball.net](https://daringfireball.net/linked/2025/02/12/apple-advertising-x): Apple Resumes Advertising on X</small>
-
-
-| 🔥🔥: 114 \| 💬: [96](https://news.ycombinator.com/item?id=43043752) \| 🗓️ 2025-02-13
-
-
-<br />
-苹果公司本月首次在X平台上恢复广告投放，这是自2023年11月以来的首次。此前，因埃隆·马斯克的争议言论，苹果暂停了广告。现在，苹果在推广Safari的隐私功能和Apple TV+节目《Severance》。马斯克在此期间保持低调，未再发表争议性言论，苹果因此感到可以再次在该社交网络上投放广告。
-
----
-
-## <a name="22"></a>22. 成人快速准确地学习绝对音高判断 
+## <a name="21"></a>21. 成人快速准确地学习绝对音高判断 
 <small>🔗 [link.springer.com](https://link.springer.com/article/10.3758/s13423-024-02620-2): Learning fast and accurate absolute pitch judgment in adulthood</small>
 
 
-| 🔥🔥: 110 \| 💬: [68](https://news.ycombinator.com/item?id=43033971) \| 🗓️ 2025-02-13
+| 🔥🔥: 117 \| 💬: [71](https://news.ycombinator.com/item?id=43033971) \| 🗓️ 2025-02-13
 
 
 <br />
 研究表明，**绝对音高（AP）**的学习不仅限于儿童，成年人也能通过系统训练获得这一能力。通过为期8周的在线训练，参与者在无外部参考的情况下，平均能以90%的准确率识别7.08个音高，显著提升了音高命名的准确性和反应速度。这一结果挑战了**关键期**的传统观念，表明AP能力在成年后仍可学习。
+
+---
+
+## <a name="22"></a>22. 苹果恢复在X平台上的广告投放 
+<small>🔗 [daringfireball.net](https://daringfireball.net/linked/2025/02/12/apple-advertising-x): Apple Resumes Advertising on X</small>
+
+
+| 🔥🔥: 117 \| 💬: [97](https://news.ycombinator.com/item?id=43043752) \| 🗓️ 2025-02-13
+
+
+<br />
+苹果公司本月首次在X平台上恢复广告投放，这是自2023年11月以来的首次。此前，因埃隆·马斯克的争议言论，苹果暂停了广告。现在，苹果在推广Safari的隐私功能和Apple TV+节目《Severance》。马斯克在此期间保持低调，未再发表争议性言论，苹果因此感到可以再次在该社交网络上投放广告。
 
 ---
 
