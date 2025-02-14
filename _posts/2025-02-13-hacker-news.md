@@ -27,7 +27,7 @@ tags:
 <small>🔗 [marcan.st](https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/): Resigning as Asahi Linux project lead</small>
 
 
-| 🔥🔥: 968 \| 💬: [799](https://news.ycombinator.com/item?id=43036904) \| 🗓️ 2025-02-13
+| 🔥🔥: 973 \| 💬: [811](https://news.ycombinator.com/item?id=43036904) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [blog.kagi.com](https://blog.kagi.com/kagi-privacy-pass): Privacy Pass Authentication for Kagi Search</small>
 
 
-| 🔥🔥: 504 \| 💬: [185](https://news.ycombinator.com/item?id=43040521) \| 🗓️ 2025-02-13
+| 🔥🔥: 535 \| 💬: [192](https://news.ycombinator.com/item?id=43040521) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -51,7 +51,7 @@ Kagi搜索推出了**隐私通行证**认证，旨在增强用户的隐私保护
 <small>🔗 [theregister.com](https://www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/): LibreOffice still kicking at 40, now with browser tricks and real-time collab</small>
 
 
-| 🔥🔥: 401 \| 💬: [158](https://news.ycombinator.com/item?id=43038200) \| 🗓️ 2025-02-13
+| 🔥🔥: 413 \| 💬: [162](https://news.ycombinator.com/item?id=43038200) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -63,7 +63,7 @@ LibreOffice在FOSDEM 2025上庆祝其40周年，推出了新版本25.2。尽管�
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/02/13/apple-uk-security-back-door-adp/): U.K. demand for a back door to Apple data threatens Americans, lawmakers say</small>
 
 
-| 🔥🔥: 352 \| 💬: [238](https://news.ycombinator.com/item?id=43036434) \| 🗓️ 2025-02-13
+| 🔥🔥: 354 \| 💬: [241](https://news.ycombinator.com/item?id=43036434) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -75,7 +75,7 @@ LibreOffice在FOSDEM 2025上庆祝其40周年，推出了新版本25.2。尽管�
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00438-z): Cheap blood test detects pancreatic cancer before it spreads</small>
 
 
-| 🔥🔥: 336 \| 💬: [198](https://news.ycombinator.com/item?id=43035147) \| 🗓️ 2025-02-13
+| 🔥🔥: 342 \| 💬: [201](https://news.ycombinator.com/item?id=43035147) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -87,7 +87,7 @@ LibreOffice在FOSDEM 2025上庆祝其40周年，推出了新版本25.2。尽管�
 <small>🔗 [schneier.com](https://www.schneier.com/blog/archives/2025/02/doge-as-a-national.html): DOGE as a National Cyberattack</small>
 
 
-| 🔥🔥: 323 \| 💬: [144](https://news.ycombinator.com/item?id=43035977) \| 🗓️ 2025-02-13
+| 🔥🔥: 327 \| 💬: [147](https://news.ycombinator.com/item?id=43035977) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -99,7 +99,7 @@ LibreOffice在FOSDEM 2025上庆祝其40周年，推出了新版本25.2。尽管�
 <small>🔗 [dynomight.net](https://dynomight.net/irb/): Who exactly needs to get approval from an institutional review board (IRB)?</small>
 
 
-| 🔥🔥: 189 \| 💬: [128](https://news.ycombinator.com/item?id=43038395) \| 🗓️ 2025-02-13
+| 🔥🔥: 191 \| 💬: [130](https://news.ycombinator.com/item?id=43038395) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -111,7 +111,7 @@ LibreOffice在FOSDEM 2025上庆祝其40周年，推出了新版本25.2。尽管�
 <small>🔗 [github.com](https://github.com/wger-project/wger): Self hosted FLOSS fitness/workout tracker</small>
 
 
-| 🔥🔥: 182 \| 💬: [94](https://news.ycombinator.com/item?id=43034329) \| 🗓️ 2025-02-13
+| 🔥🔥: 185 \| 💬: [94](https://news.ycombinator.com/item?id=43034329) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -135,7 +135,7 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 <small>🔗 [wired.com](https://www.wired.com/story/doge-tts-fired/): DOGE Has Started Gutting a Key US Technology Agency</small>
 
 
-| 🔥🔥: 160 \| 💬: [158](https://news.ycombinator.com/item?id=43037426) \| 🗓️ 2025-02-13
+| 🔥🔥: 162 \| 💬: [161](https://news.ycombinator.com/item?id=43037426) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -143,11 +143,23 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 
 ---
 
-## <a name="11"></a>11. 儿子控告联合健康公司，因父亲的护理遭拒 
+## <a name="11"></a>11. OBS项目威胁对Fedora Linux采取法律行动 
+<small>🔗 [gitlab.com](https://gitlab.com/fedora/sigs/flatpak/fedora-flatpaks/-/issues/39#note_2344970813): The OBS Project is threatening Fedora Linux with legal action</small>
+
+
+| 🔥🔥: 159 \| 💬: [110](https://news.ycombinator.com/item?id=43042985) \| 🗓️ 2025-02-13
+
+
+<br />
+Fedora Flatpaks中出现的非官方OBS Studio Flatpak存在严重问题，用户误以为这是官方版本，导致大量投诉。社区呼吁删除或明确标识该第三方包，强调**上游**不应负责下游包的正常运行，尤其是当这些包覆盖官方版本时。开发者对为何将一个正常工作的Flatpak破坏并优先发布表示困惑，强调他们在Flathub上投入了大量精力确保官方Flatpak的正常运作。
+
+---
+
+## <a name="12"></a>12. 儿子控告联合健康公司，因父亲的护理遭拒 
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/feb/13/unitedhealth-lawsuit-elderly-patients-care): 'It's a money game to them':son takes on UnitedHealth over elderly father's care</small>
 
 
-| 🔥🔥: 154 \| 💬: [133](https://news.ycombinator.com/item?id=43040023) \| 🗓️ 2025-02-13
+| 🔥🔥: 156 \| 💬: [137](https://news.ycombinator.com/item?id=43040023) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -155,7 +167,7 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 
 ---
 
-## <a name="12"></a>12. 在Windows上改善Chromium浏览器的文本渲染 
+## <a name="13"></a>13. 在Windows上改善Chromium浏览器的文本渲染 
 <small>🔗 [developer.chrome.com](https://developer.chrome.com/blog/better-text-rendering-in-chromium-based-browsers-on-windows): Better text rendering in Chromium-based browsers on Windows</small>
 
 
@@ -167,11 +179,11 @@ wger是一个**免费开源**的网络应用程序，旨在帮助用户管理个
 
 ---
 
-## <a name="13"></a>13. MapTCHA：提升OpenStreetMap的开源CAPTCHA 
+## <a name="14"></a>14. MapTCHA：提升OpenStreetMap的开源CAPTCHA 
 <small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/event/fosdem-2025-5879-maptcha-the-open-source-captcha-that-improves-openstreetmap/): MapTCHA, the open-source CAPTCHA that improves OpenStreetMap [video]</small>
 
 
-| 🔥🔥: 138 \| 💬: [19](https://news.ycombinator.com/item?id=43040382) \| 🗓️ 2025-02-13
+| 🔥🔥: 145 \| 💬: [19](https://news.ycombinator.com/item?id=43040382) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -179,23 +191,11 @@ MapTCHA是一种新型的开源CAPTCHA，旨在解决在线平台中的**机器�
 
 ---
 
-## <a name="14"></a>14. 台积电面临艰难选择，传闻与英特尔合作 
-<small>🔗 [techsoda.substack.com](https://techsoda.substack.com/p/tsmc-faces-tough-choices-amid-rumors): TSMC faces tough choices amid rumors for Intel foundry collaboration</small>
-
-
-| 🔥🔥: 126 \| 💬: [141](https://news.ycombinator.com/item?id=43037668) \| 🗓️ 2025-02-13
-
-
-<br />
-台积电正在考虑与美国政府的合作提议，可能会成为**英特尔**复兴的重要角色。提议包括在美国设立先进封装工厂、投资英特尔的代工服务，或允许英特尔处理其亚利桑那州的封装流程。然而，台积电尚未表态，且其董事会批准的资本预算仅为171.4亿美元，远低于市场预期。若拒绝提议，美国可能对台湾芯片征收100%关税，影响台积电及其他制造商的市场份额。台积电需在**地缘政治压力**与维护股东利益之间做出艰难抉择。
-
----
-
 ## <a name="15"></a>15. 博士学位注册人数减少的趋势 
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00425-4): Fewer students are enrolling in doctoral degrees</small>
 
 
-| 🔥🔥: 124 \| 💬: [234](https://news.ycombinator.com/item?id=43036428) \| 🗓️ 2025-02-13
+| 🔥🔥: 134 \| 💬: [254](https://news.ycombinator.com/item?id=43036428) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -203,11 +203,23 @@ MapTCHA是一种新型的开源CAPTCHA，旨在解决在线平台中的**机器�
 
 ---
 
-## <a name="16"></a>16. 拉里·埃里森希望将美国所有数据，包括DNA，整合到AI系统中 
+## <a name="16"></a>16. 台积电面临艰难选择，传闻与英特尔合作 
+<small>🔗 [techsoda.substack.com](https://techsoda.substack.com/p/tsmc-faces-tough-choices-amid-rumors): TSMC faces tough choices amid rumors for Intel foundry collaboration</small>
+
+
+| 🔥🔥: 126 \| 💬: [142](https://news.ycombinator.com/item?id=43037668) \| 🗓️ 2025-02-13
+
+
+<br />
+台积电正在考虑与美国政府的合作提议，可能会成为**英特尔**复兴的重要角色。提议包括在美国设立先进封装工厂、投资英特尔的代工服务，或允许英特尔处理其亚利桑那州的封装流程。然而，台积电尚未表态，且其董事会批准的资本预算仅为171.4亿美元，远低于市场预期。若拒绝提议，美国可能对台湾芯片征收100%关税，影响台积电及其他制造商的市场份额。台积电需在**地缘政治压力**与维护股东利益之间做出艰难抉择。
+
+---
+
+## <a name="17"></a>17. 拉里·埃里森希望将美国所有数据，包括DNA，整合到AI系统中 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/02/12/larry_ellison_wants_all_data/): Larry Ellison wants to put all America's data in AI, including DNA</small>
 
 
-| 🔥🔥: 124 \| 💬: [211](https://news.ycombinator.com/item?id=43038190) \| 🗓️ 2025-02-13
+| 🔥🔥: 125 \| 💬: [215](https://news.ycombinator.com/item?id=43038190) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -215,27 +227,15 @@ MapTCHA是一种新型的开源CAPTCHA，旨在解决在线平台中的**机器�
 
 ---
 
-## <a name="17"></a>17. 白帽黑客揭露伊瑞迪恩卫星安全漏洞 
+## <a name="18"></a>18. 白帽黑客揭露伊瑞迪恩卫星安全漏洞 
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/iridium-satellite): White Hat Hackers Expose Iridium Satellite Security Flaws</small>
 
 
-| 🔥🔥: 122 \| 💬: [31](https://news.ycombinator.com/item?id=43037623) \| 🗓️ 2025-02-13
+| 🔥🔥: 123 \| 💬: [31](https://news.ycombinator.com/item?id=43037623) \| 🗓️ 2025-02-13
 
 
 <br />
 白帽黑客最近揭示了**伊瑞迪恩卫星**系统的安全缺陷，允许用户的**位置**和**文本信息**被拦截，包括国防部员工的信息。作为首个商业卫星通信服务，伊瑞迪恩的遗留系统仍存在一些安全隐患，这引发了对其安全性的广泛关注。
-
----
-
-## <a name="18"></a>18. OBS项目威胁对Fedora Linux采取法律行动 
-<small>🔗 [gitlab.com](https://gitlab.com/fedora/sigs/flatpak/fedora-flatpaks/-/issues/39#note_2344970813): The OBS Project is threatening Fedora Linux with legal action</small>
-
-
-| 🔥🔥: 121 \| 💬: [90](https://news.ycombinator.com/item?id=43042985) \| 🗓️ 2025-02-13
-
-
-<br />
-Fedora Flatpaks中出现的非官方OBS Studio Flatpak存在严重问题，用户误以为这是官方版本，导致大量投诉。社区呼吁删除或明确标识该第三方包，强调**上游**不应负责下游包的正常运行，尤其是当这些包覆盖官方版本时。开发者对为何将一个正常工作的Flatpak破坏并优先发布表示困惑，强调他们在Flathub上投入了大量精力确保官方Flatpak的正常运作。
 
 ---
 
@@ -263,7 +263,19 @@ Fedora Flatpaks中出现的非官方OBS Studio Flatpak存在严重问题，用�
 
 ---
 
-## <a name="21"></a>21. 法院文件揭示财政部DOGE活动的新情况 
+## <a name="21"></a>21. 麻省理工学院从零开始进化虚拟眼睛 
+<small>🔗 [eyes.mit.edu](https://eyes.mit.edu/): MIT evolves virtual eye from scratch</small>
+
+
+| 🔥🔥: 103 \| 💬: [10](https://news.ycombinator.com/item?id=43043063) \| 🗓️ 2025-02-13
+
+
+<br />
+研究者通过**计算重现**视觉的**寒武纪大爆发**，从单一的光感受细胞出发，模拟生物在数百万年中面对的挑战，如导航、食物与毒素的辨别，以及躲避捕食者。随着进化，数字生物根据生存需求发展出不同的眼睛结构，比如用于导航的复眼和用于辨别食物与毒素的相机眼。它们独立发现了自然界的解决方案，如**透镜**的出现，以聚焦光线，从而在生存压力与环境限制之间取得平衡。通过对生物光学基因的随机突变，数字生物在150代后展现出复杂的视觉能力，反映了自然选择的过程。
+
+---
+
+## <a name="22"></a>22. 法院文件揭示财政部DOGE活动的新情况 
 <small>🔗 [zetter-zeroday.com](https://www.zetter-zeroday.com/court-documents-shed-new-light-on-doge-access-and-activity-at-treasury-department/): Court Documents Shed New Light on DOGE Activity at Treasury Department</small>
 
 
@@ -275,11 +287,11 @@ Fedora Flatpaks中出现的非官方OBS Studio Flatpak存在严重问题，用�
 
 ---
 
-## <a name="22"></a>22. 亚马逊将停止Kindle电子书“通过USB下载和传输”功能 
+## <a name="23"></a>23. 亚马逊将停止Kindle电子书“通过USB下载和传输”功能 
 <small>🔗 [goodereader.com](https://goodereader.com/blog/kindle/amazon-removing-download-and-transfer-on-the-kindle-feb-26th): Amazon ends kindle ebooks "Download and Transfer via USB"</small>
 
 
-| 🔥: 96 \| 💬: [79](https://news.ycombinator.com/item?id=43041726) \| 🗓️ 2025-02-13
+| 🔥: 98 \| 💬: [81](https://news.ycombinator.com/item?id=43041726) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -287,23 +299,11 @@ Fedora Flatpaks中出现的非官方OBS Studio Flatpak存在严重问题，用�
 
 ---
 
-## <a name="23"></a>23. 美国国际开发署（USAID）资金冻结扰乱全球结核病控制工作 
-<small>🔗 [cidrap.umn.edu](https://www.cidrap.umn.edu/tuberculosis/usaid-funding-freeze-disrupts-global-tuberculosis-control-efforts): USAID funding freeze disrupts global tuberculosis control efforts</small>
-
-
-| 🔥: 87 \| 💬: [104](https://news.ycombinator.com/item?id=43038727) \| 🗓️ 2025-02-13
-
-
-<br />
-特朗普政府对USAID的资金冻结，导致全球结核病（TB）控制工作受到严重影响。作为美国在全球TB控制的主要资助机构，USAID的资金冻结使得TB诊断和治疗服务停摆，患者无法获得必要的药物和及时的诊断。专家警告，任何服务中断都可能导致患者死亡，尤其是在高负担国家。TB研究和临床试验也受到影响，可能加剧耐药性TB的传播。随着USAID的解散，全球TB控制努力面临前所未有的挑战。
-
----
-
 ## <a name="24"></a>24. 成人快速准确地学习绝对音高判断 
 <small>🔗 [link.springer.com](https://link.springer.com/article/10.3758/s13423-024-02620-2): Learning fast and accurate absolute pitch judgment in adulthood</small>
 
 
-| 🔥: 85 \| 💬: [50](https://news.ycombinator.com/item?id=43033971) \| 🗓️ 2025-02-13
+| 🔥: 94 \| 💬: [61](https://news.ycombinator.com/item?id=43033971) \| 🗓️ 2025-02-13
 
 
 <br />
@@ -311,14 +311,14 @@ Fedora Flatpaks中出现的非官方OBS Studio Flatpak存在严重问题，用�
 
 ---
 
-## <a name="25"></a>25. 赛博卡车的致死率超过臭名昭著的福特平托 
-<small>🔗 [motherjones.com](https://www.motherjones.com/politics/2025/02/report-cybertruck-safety-ford-pinto/): Cybertrucks Are Deadlier Than Infamous Ford Pintos</small>
+## <a name="25"></a>25. 美国国际开发署（USAID）资金冻结扰乱全球结核病控制工作 
+<small>🔗 [cidrap.umn.edu](https://www.cidrap.umn.edu/tuberculosis/usaid-funding-freeze-disrupts-global-tuberculosis-control-efforts): USAID funding freeze disrupts global tuberculosis control efforts</small>
 
 
-| 🔥: 80 \| 💬: [66](https://news.ycombinator.com/item?id=43039631) \| 🗓️ 2025-02-13
+| 🔥: 88 \| 💬: [105](https://news.ycombinator.com/item?id=43038727) \| 🗓️ 2025-02-13
 
 
 <br />
-埃隆·马斯克的赛博卡车看似坚不可摧，但一项新报告显示，其致死率竟比福特平托还要高。根据分析，赛博卡车在一年内发生了五起火灾致死事件，致死率为每10万辆14.5人，而福特平托在九年内的致死率仅为0.85人。尽管分析承认方法上的局限性，但这仍然引发了对赛博卡车安全性的质疑。特斯拉尚未发布赛博卡车的安全数据，而NHTSA最近才进行碰撞测试，结果尚未公布。马斯克曾声称赛博卡车的安全性优于其他卡车，但其频繁的召回记录让这一说法受到挑战。
+特朗普政府对USAID的资金冻结，导致全球结核病（TB）控制工作受到严重影响。作为美国在全球TB控制的主要资助机构，USAID的资金冻结使得TB诊断和治疗服务停摆，患者无法获得必要的药物和及时的诊断。专家警告，任何服务中断都可能导致患者死亡，尤其是在高负担国家。TB研究和临床试验也受到影响，可能加剧耐药性TB的传播。随着USAID的解散，全球TB控制努力面临前所未有的挑战。
 
 ---
