@@ -27,7 +27,7 @@ tags:
 <small>🔗 [vale.rocks](https://vale.rocks/posts/ai-is-stifling-tech-adoption): AI is stifling new tech adoption?</small>
 
 
-| 🔥🔥: 422 \| 💬: [382](https://news.ycombinator.com/item?id=43047792) \| 🗓️ 2025-02-14
+| 🔥🔥: 429 \| 💬: [385](https://news.ycombinator.com/item?id=43047792) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [fly.io](https://fly.io/blog/wrong-about-gpu/): We were wrong about GPUs</small>
 
 
-| 🔥🔥: 293 \| 💬: [185](https://news.ycombinator.com/item?id=43053844) \| 🗓️ 2025-02-14
+| 🔥🔥: 337 \| 💬: [223](https://news.ycombinator.com/item?id=43053844) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [abortretry.fail](https://www.abortretry.fail/p/the-history-of-suse): The History of S.u.S.E</small>
 
 
-| 🔥🔥: 215 \| 💬: [104](https://news.ycombinator.com/item?id=43048261) \| 🗓️ 2025-02-14
+| 🔥🔥: 220 \| 💬: [105](https://news.ycombinator.com/item?id=43048261) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [theintercept.com](https://theintercept.com/2025/02/11/ice-immigration-social-media-surveillance/): ICE wants to know if you're posting negative things about it online</small>
 
 
-| 🔥🔥: 215 \| 💬: [122](https://news.ycombinator.com/item?id=43049152) \| 🗓️ 2025-02-14
+| 🔥🔥: 216 \| 💬: [124](https://news.ycombinator.com/item?id=43049152) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [tesserato.web.app](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html): Show HN: Transform your codebase into a single Markdown doc for feeding into AI</small>
 
 
-| 🔥🔥: 200 \| 💬: [129](https://news.ycombinator.com/item?id=43048027) \| 🗓️ 2025-02-14
+| 🔥🔥: 203 \| 💬: [131](https://news.ycombinator.com/item?id=43048027) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -95,23 +95,11 @@ CodeWeaver是一个命令行工具，旨在将您的代码库编织成一个易�
 
 ---
 
-## <a name="7"></a>7. Linux内核cgroups写回高CPU故障排除 
-<small>🔗 [dasl.cc](https://dasl.cc/2025/01/01/debugging-our-new-linux-kernel/): Linux kernel cgroups writeback high CPU troubleshooting</small>
-
-
-| 🔥🔥: 159 \| 💬: [24](https://news.ycombinator.com/item?id=43046174) \| 🗓️ 2025-02-14
-
-
-<br />
-本文介绍了如何通过网络数据包捕获和BPF调试Web服务器性能，最终发现了一个Linux内核性能问题。在将操作系统从CentOS升级到Ubuntu后，出现了**listen overflow**错误，导致请求延迟。调查发现，问题源于**inode cgroup切换**，而非网络或写回。通过禁用特定的cgroup控制器，成功解决了CPU使用率过高和listen overflow的问题。
-
----
-
-## <a name="8"></a>8. 十年后，十年失去 
+## <a name="7"></a>7. 十年后，十年失去 
 <small>🔗 [meyerweb.com](https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/): A decade later, a decade lost (2024)</small>
 
 
-| 🔥🔥: 154 \| 💬: [34](https://news.ycombinator.com/item?id=43054069) \| 🗓️ 2025-02-14
+| 🔥🔥: 189 \| 💬: [44](https://news.ycombinator.com/item?id=43054069) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -119,7 +107,31 @@ CodeWeaver是一个命令行工具，旨在将您的代码库编织成一个易�
 
 ---
 
-## <a name="9"></a>9. 监管机构质疑苹果为何不对自己实施严格的应用追踪规则 
+## <a name="8"></a>8. 曼哈顿最勤奋的字体 
+<small>🔗 [aresluna.org](https://aresluna.org/the-hardest-working-font-in-manhattan/): The hardest working font in Manhattan</small>
+
+
+| 🔥🔥: 171 \| 💬: [31](https://news.ycombinator.com/item?id=43053419) \| 🗓️ 2025-02-14
+
+
+<br />
+在纽约市的探索中，作者发现了一个名为**Gorton**的字体，它在各种键盘和标识中无处不在。尽管其设计显得笨拙且不受欢迎，但Gorton由于其耐用性和便捷性，成为了许多工业和军事设备的标准字体。Gorton的历史可以追溯到20世纪初，甚至在阿波罗登月任务中也有它的身影，展现了其独特的文化和技术影响力。
+
+---
+
+## <a name="9"></a>9. Linux内核cgroups写回高CPU故障排除 
+<small>🔗 [dasl.cc](https://dasl.cc/2025/01/01/debugging-our-new-linux-kernel/): Linux kernel cgroups writeback high CPU troubleshooting</small>
+
+
+| 🔥🔥: 161 \| 💬: [24](https://news.ycombinator.com/item?id=43046174) \| 🗓️ 2025-02-14
+
+
+<br />
+本文介绍了如何通过网络数据包捕获和BPF调试Web服务器性能，最终发现了一个Linux内核性能问题。在将操作系统从CentOS升级到Ubuntu后，出现了**listen overflow**错误，导致请求延迟。调查发现，问题源于**inode cgroup切换**，而非网络或写回。通过禁用特定的cgroup控制器，成功解决了CPU使用率过高和listen overflow的问题。
+
+---
+
+## <a name="10"></a>10. 监管机构质疑苹果为何不对自己实施严格的应用追踪规则 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/02/14/apple_app_tracking_probe/): Watchdog ponders why Apple doesn't apply its strict app tracking rules to itself</small>
 
 
@@ -131,23 +143,11 @@ CodeWeaver是一个命令行工具，旨在将您的代码库编织成一个易�
 
 ---
 
-## <a name="10"></a>10. 曼哈顿最勤奋的字体 
-<small>🔗 [aresluna.org](https://aresluna.org/the-hardest-working-font-in-manhattan/): The hardest working font in Manhattan</small>
-
-
-| 🔥🔥: 153 \| 💬: [30](https://news.ycombinator.com/item?id=43053419) \| 🗓️ 2025-02-14
-
-
-<br />
-在纽约市的探索中，作者发现了一个名为**Gorton**的字体，它在各种键盘和标识中无处不在。尽管其设计显得笨拙且不受欢迎，但Gorton由于其耐用性和便捷性，成为了许多工业和军事设备的标准字体。Gorton的历史可以追溯到20世纪初，甚至在阿波罗登月任务中也有它的身影，展现了其独特的文化和技术影响力。
-
----
-
 ## <a name="11"></a>11. 海龟如何利用地球磁场导航的研究 
 <small>🔗 [unc.edu](https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/): A study on how turtles navigate using the Earth’s magnetic field</small>
 
 
-| 🔥🔥: 128 \| 💬: [44](https://news.ycombinator.com/item?id=43051465) \| 🗓️ 2025-02-14
+| 🔥🔥: 130 \| 💬: [44](https://news.ycombinator.com/item?id=43051465) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -155,23 +155,11 @@ CodeWeaver是一个命令行工具，旨在将您的代码库编织成一个易�
 
 ---
 
-## <a name="12"></a>12. 检测AI代理的使用与滥用 
-<small>🔗 [stytch.com](https://stytch.com/blog/detecting-ai-agent-use-abuse/): Detecting AI agent use and abuse</small>
-
-
-| 🔥🔥: 110 \| 💬: [62](https://news.ycombinator.com/item?id=43049959) \| 🗓️ 2025-02-14
-
-
-<br />
-随着AI代理技术的发展，如OpenAI的Operator和Anthropic的API，这些代理不仅能索引内容，还能模拟真实用户并进行大规模操作。这带来了**用户体验提升**的潜力，但也引发了**安全风险**，如恶意攻击和账户滥用。传统的检测方法（如CAPTCHA和IP过滤）已不再有效，现代AI代理的流量与人类用户相似，增加了检测的难度。因此，应用程序需要**实时监控**流量，以识别并应对AI代理的使用。有效的观察能力是应对这一新现实的关键，企业应利用机器学习等技术不断更新检测策略，以防止潜在的滥用和攻击。
-
----
-
-## <a name="13"></a>13. 复杂的动态需要复杂的解决方案 
+## <a name="12"></a>12. 复杂的动态需要复杂的解决方案 
 <small>🔗 [mathstodon.xyz](https://mathstodon.xyz/@tao/113873092369347147): Complex dynamics require complex solutions</small>
 
 
-| 🔥🔥: 110 \| 💬: [46](https://news.ycombinator.com/item?id=43053625) \| 🗓️ 2025-02-14
+| 🔥🔥: 117 \| 💬: [55](https://news.ycombinator.com/item?id=43053625) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -179,11 +167,11 @@ CodeWeaver是一个命令行工具，旨在将您的代码库编织成一个易�
 
 ---
 
-## <a name="14"></a>14. NBA苹果Vision Pro应用现已推出3D桌面视图 
+## <a name="13"></a>13. NBA苹果Vision Pro应用现已推出3D桌面视图 
 <small>🔗 [uploadvr.com](https://www.uploadvr.com/nba-apple-vision-pro-app-tabletop-view/): The NBA Apple Vision Pro app now has a 3D tabletop view</small>
 
 
-| 🔥🔥: 109 \| 💬: [96](https://news.ycombinator.com/item?id=43051765) \| 🗓️ 2025-02-14
+| 🔥🔥: 115 \| 💬: [100](https://news.ycombinator.com/item?id=43051765) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -191,11 +179,35 @@ NBA的官方Apple Vision Pro应用新增了**桌面**功能，提供了比赛的
 
 ---
 
-## <a name="15"></a>15. 高阶范畴理论的同伦宏观宇宙 
+## <a name="14"></a>14. 检测AI代理的使用与滥用 
+<small>🔗 [stytch.com](https://stytch.com/blog/detecting-ai-agent-use-abuse/): Detecting AI agent use and abuse</small>
+
+
+| 🔥🔥: 114 \| 💬: [63](https://news.ycombinator.com/item?id=43049959) \| 🗓️ 2025-02-14
+
+
+<br />
+随着AI代理技术的发展，如OpenAI的Operator和Anthropic的API，这些代理不仅能索引内容，还能模拟真实用户并进行大规模操作。这带来了**用户体验提升**的潜力，但也引发了**安全风险**，如恶意攻击和账户滥用。传统的检测方法（如CAPTCHA和IP过滤）已不再有效，现代AI代理的流量与人类用户相似，增加了检测的难度。因此，应用程序需要**实时监控**流量，以识别并应对AI代理的使用。有效的观察能力是应对这一新现实的关键，企业应利用机器学习等技术不断更新检测策略，以防止潜在的滥用和攻击。
+
+---
+
+## <a name="15"></a>15. 如果你在体育课上叠过杯子，那就怪我爸爸 
+<small>🔗 [defector.com](https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad): If you ever stacked cups in gym class, blame my dad</small>
+
+
+| 🔥🔥: 109 \| 💬: [16](https://news.ycombinator.com/item?id=43053908) \| 🗓️ 2025-02-14
+
+
+<br />
+故事讲述了**Bob Fox**和他的妻子如何将一批被认为无用的塑料杯转变为一项流行的运动——**杯叠**。尽管面临巨大的经济压力，他们凭借对这项运动的热情和教育技巧，成功地吸引了孩子们的兴趣，最终在学校中推广开来。通过他们的努力，杯叠不仅成为了孩子们的乐趣，也成为了教育课程的一部分，影响了数以千计的学生。
+
+---
+
+## <a name="16"></a>16. 高阶范畴理论的同伦宏观宇宙 
 <small>🔗 [mathstodon.xyz](https://mathstodon.xyz/@johncarlosbaez/114000054766059217): "Homotopical macrocosms for higher category theory" identified as woke DEI grant</small>
 
 
-| 🔥🔥: 101 \| 💬: [133](https://news.ycombinator.com/item?id=43046466) \| 🗓️ 2025-02-14
+| 🔥🔥: 102 \| 💬: [134](https://news.ycombinator.com/item?id=43046466) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -203,11 +215,11 @@ NBA的官方Apple Vision Pro应用新增了**桌面**功能，提供了比赛的
 
 ---
 
-## <a name="16"></a>16. Ricochet：基于Tor隐藏服务的点对点即时消息系统（2017） 
+## <a name="17"></a>17. Ricochet：基于Tor隐藏服务的点对点即时消息系统（2017） 
 <small>🔗 [github.com](https://github.com/ricochet-im/ricochet): Ricochet: Peer-to-peer instant messaging system built on Tor hidden services (2017)</small>
 
 
-| 🔥: 90 \| 💬: [19](https://news.ycombinator.com/item?id=43046192) \| 🗓️ 2025-02-14
+| 🔥: 92 \| 💬: [19](https://news.ycombinator.com/item?id=43046192) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -215,7 +227,7 @@ Ricochet是一个**匿名**的点对点即时消息系统，利用**Tor网络**�
 
 ---
 
-## <a name="17"></a>17. 马莎·P·约翰逊：突出跨性别抹除的Chrome扩展 
+## <a name="18"></a>18. 马莎·P·约翰逊：突出跨性别抹除的Chrome扩展 
 <small>🔗 [github.com](https://github.com/HamptonMakes/marsha-p-johnson): Marsha P Johnson: A Chrome extension to highlight trans erasure</small>
 
 
@@ -227,47 +239,11 @@ Ricochet是一个**匿名**的点对点即时消息系统，利用**Tor网络**�
 
 ---
 
-## <a name="18"></a>18. DOGE审计：腐败的掩饰，而非效率 
-<small>🔗 [medium.com](https://medium.com/less-than-a-minute/doge-audits-a-mask-for-corruption-not-efficiency-3668b846a364): DOGE 'Audits': A Mask for Corruption, Not Efficiency</small>
-
-
-| 🔥: 85 \| 💬: [56](https://news.ycombinator.com/item?id=43051697) \| 🗓️ 2025-02-14
-
-
-<br />
-DOGE进行的所谓“审计”实际上并非真正的审计，参与者缺乏必要的专业知识和方法论。他们的行动不仅不透明，还违反了多个法律，包括1974年的《拨款法》。其目标明显集中在监控或调查埃隆·马斯克及其公司的机构上，这显示出其背后的腐败动机。真正的改革需要**透明度**和**问责制**，而DOGE的做法却破坏了公众对政府的信任，成为一种掩盖强势利益的伎俩。
-
----
-
-## <a name="19"></a>19. 如果你在体育课上叠过杯子，那就怪我爸爸 
-<small>🔗 [defector.com](https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad): If you ever stacked cups in gym class, blame my dad</small>
-
-
-| 🔥: 83 \| 💬: [10](https://news.ycombinator.com/item?id=43053908) \| 🗓️ 2025-02-14
-
-
-<br />
-故事讲述了**Bob Fox**和他的妻子如何将一批被认为无用的塑料杯转变为一项流行的运动——**杯叠**。尽管面临巨大的经济压力，他们凭借对这项运动的热情和教育技巧，成功地吸引了孩子们的兴趣，最终在学校中推广开来。通过他们的努力，杯叠不仅成为了孩子们的乐趣，也成为了教育课程的一部分，影响了数以千计的学生。
-
----
-
-## <a name="20"></a>20. 近一半的Steam用户仍在使用Windows 10 
-<small>🔗 [pcguide.com](https://www.pcguide.com/news/nearly-half-of-steams-users-are-still-using-windows-10-with-end-of-life-fast-approaching/): Nearly half of Steam's users are still using Windows 10</small>
-
-
-| 🔥: 82 \| 💬: [131](https://news.ycombinator.com/item?id=43050350) \| 🗓️ 2025-02-14
-
-
-<br />
-根据Steam的2025年1月硬件和软件调查，**超过40%的用户仍在使用Windows 10**，尽管Windows 11已经发布四年。微软将在2025年10月14日停止对Windows 10的支持，这使得许多游戏玩家面临升级的压力。Windows 11的硬件要求使得许多旧设备无法升级，导致用户寻求替代方案，**SteamOS的推出时机或许正好**。使用不再支持的操作系统会使系统更容易受到**恶意软件攻击**，因此保护数据的用户可能需要升级设备以获得支持的操作系统。
-
----
-
-## <a name="21"></a>21. CDC削减预计将摧毁流行病情报服务 
+## <a name="19"></a>19. CDC削减预计将摧毁流行病情报服务 
 <small>🔗 [statnews.com](https://www.statnews.com/2025/02/14/trump-cdc-cuts-include-epidemic-intelligence-service-outbreak-investigators/): CDC cuts expected to decimate Epidemic Intelligence Service</small>
 
 
-| 🔥: 82 \| 💬: [42](https://news.ycombinator.com/item?id=43052910) \| 🗓️ 2025-02-14
+| 🔥: 87 \| 💬: [44](https://news.ycombinator.com/item?id=43052910) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -275,15 +251,39 @@ DOGE进行的所谓“审计”实际上并非真正的审计，参与者缺乏�
 
 ---
 
-## <a name="22"></a>22. 支持希特勒的寡头们的悔恨 
+## <a name="20"></a>20. DOGE审计：腐败的掩饰，而非效率 
+<small>🔗 [medium.com](https://medium.com/less-than-a-minute/doge-audits-a-mask-for-corruption-not-efficiency-3668b846a364): DOGE 'Audits': A Mask for Corruption, Not Efficiency</small>
+
+
+| 🔥: 86 \| 💬: [56](https://news.ycombinator.com/item?id=43051697) \| 🗓️ 2025-02-14
+
+
+<br />
+DOGE进行的所谓“审计”实际上并非真正的审计，参与者缺乏必要的专业知识和方法论。他们的行动不仅不透明，还违反了多个法律，包括1974年的《拨款法》。其目标明显集中在监控或调查埃隆·马斯克及其公司的机构上，这显示出其背后的腐败动机。真正的改革需要**透明度**和**问责制**，而DOGE的做法却破坏了公众对政府的信任，成为一种掩盖强势利益的伎俩。
+
+---
+
+## <a name="21"></a>21. 支持希特勒的寡头们的悔恨 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/02/hitler-oligarchs-hugenberg-nazi/681584/): The Oligarchs Who Came to Regret Supporting Hitler</small>
 
 
-| 🔥: 81 \| 💬: [23](https://news.ycombinator.com/item?id=43050503) \| 🗓️ 2025-02-14
+| 🔥: 83 \| 💬: [26](https://news.ycombinator.com/item?id=43050503) \| 🗓️ 2025-02-14
 
 
 <br />
 在1933年，**阿尔弗雷德·休根堡**与希特勒达成协议，帮助其成为德国总理，然而他和其他企业领袖很快意识到这一选择的灾难性后果。尽管休根堡曾是希特勒的支持者，但他最终发现自己被卷入了希特勒的极权统治中，失去了对经济的控制。希特勒与休根堡之间的合作因权力斗争而破裂，休根堡在1933年辞职，成为希特勒政权的牺牲品，证明了与极端主义者结盟的风险。
+
+---
+
+## <a name="22"></a>22. 近一半的Steam用户仍在使用Windows 10 
+<small>🔗 [pcguide.com](https://www.pcguide.com/news/nearly-half-of-steams-users-are-still-using-windows-10-with-end-of-life-fast-approaching/): Nearly half of Steam's users are still using Windows 10</small>
+
+
+| 🔥: 82 \| 💬: [135](https://news.ycombinator.com/item?id=43050350) \| 🗓️ 2025-02-14
+
+
+<br />
+根据Steam的2025年1月硬件和软件调查，**超过40%的用户仍在使用Windows 10**，尽管Windows 11已经发布四年。微软将在2025年10月14日停止对Windows 10的支持，这使得许多游戏玩家面临升级的压力。Windows 11的硬件要求使得许多旧设备无法升级，导致用户寻求替代方案，**SteamOS的推出时机或许正好**。使用不再支持的操作系统会使系统更容易受到**恶意软件攻击**，因此保护数据的用户可能需要升级设备以获得支持的操作系统。
 
 ---
 
@@ -315,7 +315,7 @@ DOGE进行的所谓“审计”实际上并非真正的审计，参与者缺乏�
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/crlky380wd7o): Google Maps blocks Gulf of America reviews after rename criticism</small>
 
 
-| 🔥: 66 \| 💬: [60](https://news.ycombinator.com/item?id=43047757) \| 🗓️ 2025-02-14
+| 🔥: 67 \| 💬: [63](https://news.ycombinator.com/item?id=43047757) \| 🗓️ 2025-02-14
 
 
 <br />
