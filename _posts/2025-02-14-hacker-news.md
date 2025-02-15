@@ -11,8 +11,8 @@ tags:
 1. AI抑制新技术的采用；
 1. 我们对GPU的看法是错误的；
 1. 检察官与警长分享女性裸照被免于法律责任；
+1. 十年后，十年失去；
 1. S.u.S.E的历史；
-1. ICE希望了解您在网上发布的负面信息；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [vale.rocks](https://vale.rocks/posts/ai-is-stifling-tech-adoption): AI is stifling new tech adoption?</small>
 
 
-| 🔥🔥: 429 \| 💬: [385](https://news.ycombinator.com/item?id=43047792) \| 🗓️ 2025-02-14
+| 🔥🔥: 433 \| 💬: [391](https://news.ycombinator.com/item?id=43047792) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [fly.io](https://fly.io/blog/wrong-about-gpu/): We were wrong about GPUs</small>
 
 
-| 🔥🔥: 337 \| 💬: [223](https://news.ycombinator.com/item?id=43053844) \| 🗓️ 2025-02-14
+| 🔥🔥: 368 \| 💬: [243](https://news.ycombinator.com/item?id=43053844) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -59,7 +59,19 @@ tags:
 
 ---
 
-## <a name="4"></a>4. S.u.S.E的历史 
+## <a name="4"></a>4. 十年后，十年失去 
+<small>🔗 [meyerweb.com](https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/): A decade later, a decade lost (2024)</small>
+
+
+| 🔥🔥: 224 \| 💬: [63](https://news.ycombinator.com/item?id=43054069) \| 🗓️ 2025-02-14
+
+
+<br />
+作者回忆起已故女儿的生日，感受到失去的沉重。她在十年前去世，留下了无数未实现的可能性。尽管时间过去，作者仍然感到未能保护女儿的内疚和痛苦。今天，她将去女儿的墓地，并在她最爱的地方参加纪念活动，感受到又一次的失落。
+
+---
+
+## <a name="5"></a>5. S.u.S.E的历史 
 <small>🔗 [abortretry.fail](https://www.abortretry.fail/p/the-history-of-suse): The History of S.u.S.E</small>
 
 
@@ -71,11 +83,11 @@ tags:
 
 ---
 
-## <a name="5"></a>5. ICE希望了解您在网上发布的负面信息 
+## <a name="6"></a>6. ICE希望了解您在网上发布的负面信息 
 <small>🔗 [theintercept.com](https://theintercept.com/2025/02/11/ice-immigration-social-media-surveillance/): ICE wants to know if you're posting negative things about it online</small>
 
 
-| 🔥🔥: 216 \| 💬: [124](https://news.ycombinator.com/item?id=43049152) \| 🗓️ 2025-02-14
+| 🔥🔥: 217 \| 💬: [124](https://news.ycombinator.com/item?id=43049152) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -83,11 +95,11 @@ tags:
 
 ---
 
-## <a name="6"></a>6. 将代码库转换为单一Markdown文档以供AI使用 
+## <a name="7"></a>7. 将代码库转换为单一Markdown文档以供AI使用 
 <small>🔗 [tesserato.web.app](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html): Show HN: Transform your codebase into a single Markdown doc for feeding into AI</small>
 
 
-| 🔥🔥: 203 \| 💬: [131](https://news.ycombinator.com/item?id=43048027) \| 🗓️ 2025-02-14
+| 🔥🔥: 205 \| 💬: [133](https://news.ycombinator.com/item?id=43048027) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -95,23 +107,11 @@ CodeWeaver是一个命令行工具，旨在将您的代码库编织成一个易�
 
 ---
 
-## <a name="7"></a>7. 十年后，十年失去 
-<small>🔗 [meyerweb.com](https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/): A decade later, a decade lost (2024)</small>
-
-
-| 🔥🔥: 189 \| 💬: [44](https://news.ycombinator.com/item?id=43054069) \| 🗓️ 2025-02-14
-
-
-<br />
-作者回忆起已故女儿的生日，感受到失去的沉重。她在十年前去世，留下了无数未实现的可能性。尽管时间过去，作者仍然感到未能保护女儿的内疚和痛苦。今天，她将去女儿的墓地，并在她最爱的地方参加纪念活动，感受到又一次的失落。
-
----
-
 ## <a name="8"></a>8. 曼哈顿最勤奋的字体 
 <small>🔗 [aresluna.org](https://aresluna.org/the-hardest-working-font-in-manhattan/): The hardest working font in Manhattan</small>
 
 
-| 🔥🔥: 171 \| 💬: [31](https://news.ycombinator.com/item?id=43053419) \| 🗓️ 2025-02-14
+| 🔥🔥: 199 \| 💬: [36](https://news.ycombinator.com/item?id=43053419) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -147,7 +147,7 @@ CodeWeaver是一个命令行工具，旨在将您的代码库编织成一个易�
 <small>🔗 [unc.edu](https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/): A study on how turtles navigate using the Earth’s magnetic field</small>
 
 
-| 🔥🔥: 130 \| 💬: [44](https://news.ycombinator.com/item?id=43051465) \| 🗓️ 2025-02-14
+| 🔥🔥: 133 \| 💬: [47](https://news.ycombinator.com/item?id=43051465) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -159,7 +159,7 @@ CodeWeaver是一个命令行工具，旨在将您的代码库编织成一个易�
 <small>🔗 [mathstodon.xyz](https://mathstodon.xyz/@tao/113873092369347147): Complex dynamics require complex solutions</small>
 
 
-| 🔥🔥: 117 \| 💬: [55](https://news.ycombinator.com/item?id=43053625) \| 🗓️ 2025-02-14
+| 🔥🔥: 126 \| 💬: [59](https://news.ycombinator.com/item?id=43053625) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -167,11 +167,23 @@ CodeWeaver是一个命令行工具，旨在将您的代码库编织成一个易�
 
 ---
 
-## <a name="13"></a>13. NBA苹果Vision Pro应用现已推出3D桌面视图 
+## <a name="13"></a>13. 如果你在体育课上叠过杯子，那就怪我爸爸 
+<small>🔗 [defector.com](https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad): If you ever stacked cups in gym class, blame my dad</small>
+
+
+| 🔥🔥: 121 \| 💬: [18](https://news.ycombinator.com/item?id=43053908) \| 🗓️ 2025-02-14
+
+
+<br />
+故事讲述了**Bob Fox**和他的妻子如何将一批被认为无用的塑料杯转变为一项流行的运动——**杯叠**。尽管面临巨大的经济压力，他们凭借对这项运动的热情和教育技巧，成功地吸引了孩子们的兴趣，最终在学校中推广开来。通过他们的努力，杯叠不仅成为了孩子们的乐趣，也成为了教育课程的一部分，影响了数以千计的学生。
+
+---
+
+## <a name="14"></a>14. NBA苹果Vision Pro应用现已推出3D桌面视图 
 <small>🔗 [uploadvr.com](https://www.uploadvr.com/nba-apple-vision-pro-app-tabletop-view/): The NBA Apple Vision Pro app now has a 3D tabletop view</small>
 
 
-| 🔥🔥: 115 \| 💬: [100](https://news.ycombinator.com/item?id=43051765) \| 🗓️ 2025-02-14
+| 🔥🔥: 118 \| 💬: [102](https://news.ycombinator.com/item?id=43051765) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -179,27 +191,15 @@ NBA的官方Apple Vision Pro应用新增了**桌面**功能，提供了比赛的
 
 ---
 
-## <a name="14"></a>14. 检测AI代理的使用与滥用 
+## <a name="15"></a>15. 检测AI代理的使用与滥用 
 <small>🔗 [stytch.com](https://stytch.com/blog/detecting-ai-agent-use-abuse/): Detecting AI agent use and abuse</small>
 
 
-| 🔥🔥: 114 \| 💬: [63](https://news.ycombinator.com/item?id=43049959) \| 🗓️ 2025-02-14
+| 🔥🔥: 115 \| 💬: [63](https://news.ycombinator.com/item?id=43049959) \| 🗓️ 2025-02-14
 
 
 <br />
 随着AI代理技术的发展，如OpenAI的Operator和Anthropic的API，这些代理不仅能索引内容，还能模拟真实用户并进行大规模操作。这带来了**用户体验提升**的潜力，但也引发了**安全风险**，如恶意攻击和账户滥用。传统的检测方法（如CAPTCHA和IP过滤）已不再有效，现代AI代理的流量与人类用户相似，增加了检测的难度。因此，应用程序需要**实时监控**流量，以识别并应对AI代理的使用。有效的观察能力是应对这一新现实的关键，企业应利用机器学习等技术不断更新检测策略，以防止潜在的滥用和攻击。
-
----
-
-## <a name="15"></a>15. 如果你在体育课上叠过杯子，那就怪我爸爸 
-<small>🔗 [defector.com](https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad): If you ever stacked cups in gym class, blame my dad</small>
-
-
-| 🔥🔥: 109 \| 💬: [16](https://news.ycombinator.com/item?id=43053908) \| 🗓️ 2025-02-14
-
-
-<br />
-故事讲述了**Bob Fox**和他的妻子如何将一批被认为无用的塑料杯转变为一项流行的运动——**杯叠**。尽管面临巨大的经济压力，他们凭借对这项运动的热情和教育技巧，成功地吸引了孩子们的兴趣，最终在学校中推广开来。通过他们的努力，杯叠不仅成为了孩子们的乐趣，也成为了教育课程的一部分，影响了数以千计的学生。
 
 ---
 
@@ -219,7 +219,7 @@ NBA的官方Apple Vision Pro应用新增了**桌面**功能，提供了比赛的
 <small>🔗 [github.com](https://github.com/ricochet-im/ricochet): Ricochet: Peer-to-peer instant messaging system built on Tor hidden services (2017)</small>
 
 
-| 🔥: 92 \| 💬: [19](https://news.ycombinator.com/item?id=43046192) \| 🗓️ 2025-02-14
+| 🔥: 93 \| 💬: [19](https://news.ycombinator.com/item?id=43046192) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -243,7 +243,7 @@ Ricochet是一个**匿名**的点对点即时消息系统，利用**Tor网络**�
 <small>🔗 [statnews.com](https://www.statnews.com/2025/02/14/trump-cdc-cuts-include-epidemic-intelligence-service-outbreak-investigators/): CDC cuts expected to decimate Epidemic Intelligence Service</small>
 
 
-| 🔥: 87 \| 💬: [44](https://news.ycombinator.com/item?id=43052910) \| 🗓️ 2025-02-14
+| 🔥: 87 \| 💬: [46](https://news.ycombinator.com/item?id=43052910) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -255,7 +255,7 @@ Ricochet是一个**匿名**的点对点即时消息系统，利用**Tor网络**�
 <small>🔗 [medium.com](https://medium.com/less-than-a-minute/doge-audits-a-mask-for-corruption-not-efficiency-3668b846a364): DOGE 'Audits': A Mask for Corruption, Not Efficiency</small>
 
 
-| 🔥: 86 \| 💬: [56](https://news.ycombinator.com/item?id=43051697) \| 🗓️ 2025-02-14
+| 🔥: 86 \| 💬: [57](https://news.ycombinator.com/item?id=43051697) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -279,7 +279,7 @@ DOGE进行的所谓“审计”实际上并非真正的审计，参与者缺乏�
 <small>🔗 [pcguide.com](https://www.pcguide.com/news/nearly-half-of-steams-users-are-still-using-windows-10-with-end-of-life-fast-approaching/): Nearly half of Steam's users are still using Windows 10</small>
 
 
-| 🔥: 82 \| 💬: [135](https://news.ycombinator.com/item?id=43050350) \| 🗓️ 2025-02-14
+| 🔥: 82 \| 💬: [136](https://news.ycombinator.com/item?id=43050350) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -291,7 +291,7 @@ DOGE进行的所谓“审计”实际上并非真正的审计，参与者缺乏�
 <small>🔗 [cyberintel.substack.com](https://cyberintel.substack.com/p/doge-exposes-once-secret-government): DOGE Exposes Once-Secret Government Networks, Making Cyber-Espionage Easier Than</small>
 
 
-| 🔥: 78 \| 💬: [25](https://news.ycombinator.com/item?id=43051135) \| 🗓️ 2025-02-14
+| 🔥: 79 \| 💬: [24](https://news.ycombinator.com/item?id=43051135) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -303,7 +303,7 @@ DOGE进行的所谓“审计”实际上并非真正的审计，参与者缺乏�
 <small>🔗 [statnews.com](https://www.statnews.com/2025/02/14/federal-employee-layoffs-at-hhs-cdc-on-first-day-robert-kennedy-health-secretary/): Trump administration to fire thousands at health agencies</small>
 
 
-| 🔥: 77 \| 💬: [42](https://news.ycombinator.com/item?id=43050952) \| 🗓️ 2025-02-14
+| 🔥: 77 \| 💬: [43](https://news.ycombinator.com/item?id=43050952) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -315,7 +315,7 @@ DOGE进行的所谓“审计”实际上并非真正的审计，参与者缺乏�
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/crlky380wd7o): Google Maps blocks Gulf of America reviews after rename criticism</small>
 
 
-| 🔥: 67 \| 💬: [63](https://news.ycombinator.com/item?id=43047757) \| 🗓️ 2025-02-14
+| 🔥: 67 \| 💬: [65](https://news.ycombinator.com/item?id=43047757) \| 🗓️ 2025-02-14
 
 
 <br />
