@@ -12,7 +12,7 @@ tags:
 1. 我们对GPU的看法是错误的；
 1. 检察官与警长分享女性裸照被免于法律责任；
 1. 十年后，十年失去；
-1. S.u.S.E的历史；
+1. 曼哈顿最勤奋的字体；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [vale.rocks](https://vale.rocks/posts/ai-is-stifling-tech-adoption): AI is stifling new tech adoption?</small>
 
 
-| 🔥🔥: 433 \| 💬: [391](https://news.ycombinator.com/item?id=43047792) \| 🗓️ 2025-02-14
+| 🔥🔥: 437 \| 💬: [394](https://news.ycombinator.com/item?id=43047792) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [fly.io](https://fly.io/blog/wrong-about-gpu/): We were wrong about GPUs</small>
 
 
-| 🔥🔥: 368 \| 💬: [243](https://news.ycombinator.com/item?id=43053844) \| 🗓️ 2025-02-14
+| 🔥🔥: 398 \| 💬: [262](https://news.ycombinator.com/item?id=43053844) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [meyerweb.com](https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/): A decade later, a decade lost (2024)</small>
 
 
-| 🔥🔥: 224 \| 💬: [63](https://news.ycombinator.com/item?id=43054069) \| 🗓️ 2025-02-14
+| 🔥🔥: 254 \| 💬: [70](https://news.ycombinator.com/item?id=43054069) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -71,7 +71,19 @@ tags:
 
 ---
 
-## <a name="5"></a>5. S.u.S.E的历史 
+## <a name="5"></a>5. 曼哈顿最勤奋的字体 
+<small>🔗 [aresluna.org](https://aresluna.org/the-hardest-working-font-in-manhattan/): The hardest working font in Manhattan</small>
+
+
+| 🔥🔥: 228 \| 💬: [39](https://news.ycombinator.com/item?id=43053419) \| 🗓️ 2025-02-14
+
+
+<br />
+在纽约市的探索中，作者发现了一个名为**Gorton**的字体，它在各种键盘和标识中无处不在。尽管其设计显得笨拙且不受欢迎，但Gorton由于其耐用性和便捷性，成为了许多工业和军事设备的标准字体。Gorton的历史可以追溯到20世纪初，甚至在阿波罗登月任务中也有它的身影，展现了其独特的文化和技术影响力。
+
+---
+
+## <a name="6"></a>6. S.u.S.E的历史 
 <small>🔗 [abortretry.fail](https://www.abortretry.fail/p/the-history-of-suse): The History of S.u.S.E</small>
 
 
@@ -83,11 +95,11 @@ tags:
 
 ---
 
-## <a name="6"></a>6. ICE希望了解您在网上发布的负面信息 
+## <a name="7"></a>7. ICE希望了解您在网上发布的负面信息 
 <small>🔗 [theintercept.com](https://theintercept.com/2025/02/11/ice-immigration-social-media-surveillance/): ICE wants to know if you're posting negative things about it online</small>
 
 
-| 🔥🔥: 217 \| 💬: [124](https://news.ycombinator.com/item?id=43049152) \| 🗓️ 2025-02-14
+| 🔥🔥: 220 \| 💬: [122](https://news.ycombinator.com/item?id=43049152) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -95,27 +107,15 @@ tags:
 
 ---
 
-## <a name="7"></a>7. 将代码库转换为单一Markdown文档以供AI使用 
+## <a name="8"></a>8. 将代码库转换为单一Markdown文档以供AI使用 
 <small>🔗 [tesserato.web.app](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html): Show HN: Transform your codebase into a single Markdown doc for feeding into AI</small>
 
 
-| 🔥🔥: 205 \| 💬: [133](https://news.ycombinator.com/item?id=43048027) \| 🗓️ 2025-02-14
+| 🔥🔥: 211 \| 💬: [138](https://news.ycombinator.com/item?id=43048027) \| 🗓️ 2025-02-14
 
 
 <br />
 CodeWeaver是一个命令行工具，旨在将您的代码库编织成一个易于导航的Markdown文档。它递归扫描目录，生成项目的文件结构，并将每个文件的内容嵌入代码块中。此工具简化了代码库的共享和文档编制，并与AI/ML代码分析工具集成。其主要特点包括**全面的代码库文档**、**代码内容嵌入**和**灵活的路径过滤**。用户可以通过简单的命令行界面进行定制，支持正则表达式排除特定文件和目录。CodeWeaver在MIT许可证下发布，欢迎贡献和建议。
-
----
-
-## <a name="8"></a>8. 曼哈顿最勤奋的字体 
-<small>🔗 [aresluna.org](https://aresluna.org/the-hardest-working-font-in-manhattan/): The hardest working font in Manhattan</small>
-
-
-| 🔥🔥: 199 \| 💬: [36](https://news.ycombinator.com/item?id=43053419) \| 🗓️ 2025-02-14
-
-
-<br />
-在纽约市的探索中，作者发现了一个名为**Gorton**的字体，它在各种键盘和标识中无处不在。尽管其设计显得笨拙且不受欢迎，但Gorton由于其耐用性和便捷性，成为了许多工业和军事设备的标准字体。Gorton的历史可以追溯到20世纪初，甚至在阿波罗登月任务中也有它的身影，展现了其独特的文化和技术影响力。
 
 ---
 
@@ -135,7 +135,7 @@ CodeWeaver是一个命令行工具，旨在将您的代码库编织成一个易�
 <small>🔗 [theregister.com](https://www.theregister.com/2025/02/14/apple_app_tracking_probe/): Watchdog ponders why Apple doesn't apply its strict app tracking rules to itself</small>
 
 
-| 🔥🔥: 153 \| 💬: [68](https://news.ycombinator.com/item?id=43047952) \| 🗓️ 2025-02-14
+| 🔥🔥: 154 \| 💬: [68](https://news.ycombinator.com/item?id=43047952) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -143,35 +143,11 @@ CodeWeaver是一个命令行工具，旨在将您的代码库编织成一个易�
 
 ---
 
-## <a name="11"></a>11. 海龟如何利用地球磁场导航的研究 
-<small>🔗 [unc.edu](https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/): A study on how turtles navigate using the Earth’s magnetic field</small>
-
-
-| 🔥🔥: 133 \| 💬: [47](https://news.ycombinator.com/item?id=43051465) \| 🗓️ 2025-02-14
-
-
-<br />
-海龟的“舞蹈行为”不仅可爱，还揭示了它们如何利用地球的磁场进行导航。UNC-教堂山的研究团队发现，**海龟能够学习特定地理区域的磁场特征**，并将其与食物联系起来。通过实验，研究人员证明了海龟的**磁图和磁罗盘感知**是通过不同机制工作的。这项研究为理解迁徙动物的导航机制提供了新见解，尽管具体的感知机制仍然未知。
-
----
-
-## <a name="12"></a>12. 复杂的动态需要复杂的解决方案 
-<small>🔗 [mathstodon.xyz](https://mathstodon.xyz/@tao/113873092369347147): Complex dynamics require complex solutions</small>
-
-
-| 🔥🔥: 126 \| 💬: [59](https://news.ycombinator.com/item?id=43053625) \| 🗓️ 2025-02-14
-
-
-<br />
-要使用Mastodon网络应用程序，请启用JavaScript。或者，您可以尝试适用于您平台的Mastodon原生应用。Mastodon是一个**去中心化**的社交网络，提供了与传统平台不同的用户体验。通过使用原生应用，用户可以获得更流畅的体验和更好的功能。
-
----
-
-## <a name="13"></a>13. 如果你在体育课上叠过杯子，那就怪我爸爸 
+## <a name="11"></a>11. 如果你在体育课上叠过杯子，那就怪我爸爸 
 <small>🔗 [defector.com](https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad): If you ever stacked cups in gym class, blame my dad</small>
 
 
-| 🔥🔥: 121 \| 💬: [18](https://news.ycombinator.com/item?id=43053908) \| 🗓️ 2025-02-14
+| 🔥🔥: 140 \| 💬: [22](https://news.ycombinator.com/item?id=43053908) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -179,11 +155,35 @@ CodeWeaver是一个命令行工具，旨在将您的代码库编织成一个易�
 
 ---
 
+## <a name="12"></a>12. 复杂的动态需要复杂的解决方案 
+<small>🔗 [mathstodon.xyz](https://mathstodon.xyz/@tao/113873092369347147): Complex dynamics require complex solutions</small>
+
+
+| 🔥🔥: 137 \| 💬: [71](https://news.ycombinator.com/item?id=43053625) \| 🗓️ 2025-02-14
+
+
+<br />
+要使用Mastodon网络应用程序，请启用JavaScript。或者，您可以尝试适用于您平台的Mastodon原生应用。Mastodon是一个**去中心化**的社交网络，提供了与传统平台不同的用户体验。通过使用原生应用，用户可以获得更流畅的体验和更好的功能。
+
+---
+
+## <a name="13"></a>13. 海龟如何利用地球磁场导航的研究 
+<small>🔗 [unc.edu](https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/): A study on how turtles navigate using the Earth’s magnetic field</small>
+
+
+| 🔥🔥: 135 \| 💬: [47](https://news.ycombinator.com/item?id=43051465) \| 🗓️ 2025-02-14
+
+
+<br />
+海龟的“舞蹈行为”不仅可爱，还揭示了它们如何利用地球的磁场进行导航。UNC-教堂山的研究团队发现，**海龟能够学习特定地理区域的磁场特征**，并将其与食物联系起来。通过实验，研究人员证明了海龟的**磁图和磁罗盘感知**是通过不同机制工作的。这项研究为理解迁徙动物的导航机制提供了新见解，尽管具体的感知机制仍然未知。
+
+---
+
 ## <a name="14"></a>14. NBA苹果Vision Pro应用现已推出3D桌面视图 
 <small>🔗 [uploadvr.com](https://www.uploadvr.com/nba-apple-vision-pro-app-tabletop-view/): The NBA Apple Vision Pro app now has a 3D tabletop view</small>
 
 
-| 🔥🔥: 118 \| 💬: [102](https://news.ycombinator.com/item?id=43051765) \| 🗓️ 2025-02-14
+| 🔥🔥: 119 \| 💬: [102](https://news.ycombinator.com/item?id=43051765) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -195,7 +195,7 @@ NBA的官方Apple Vision Pro应用新增了**桌面**功能，提供了比赛的
 <small>🔗 [stytch.com](https://stytch.com/blog/detecting-ai-agent-use-abuse/): Detecting AI agent use and abuse</small>
 
 
-| 🔥🔥: 115 \| 💬: [63](https://news.ycombinator.com/item?id=43049959) \| 🗓️ 2025-02-14
+| 🔥🔥: 117 \| 💬: [66](https://news.ycombinator.com/item?id=43049959) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -207,7 +207,7 @@ NBA的官方Apple Vision Pro应用新增了**桌面**功能，提供了比赛的
 <small>🔗 [mathstodon.xyz](https://mathstodon.xyz/@johncarlosbaez/114000054766059217): "Homotopical macrocosms for higher category theory" identified as woke DEI grant</small>
 
 
-| 🔥🔥: 102 \| 💬: [134](https://news.ycombinator.com/item?id=43046466) \| 🗓️ 2025-02-14
+| 🔥🔥: 103 \| 💬: [134](https://news.ycombinator.com/item?id=43046466) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -219,7 +219,7 @@ NBA的官方Apple Vision Pro应用新增了**桌面**功能，提供了比赛的
 <small>🔗 [github.com](https://github.com/ricochet-im/ricochet): Ricochet: Peer-to-peer instant messaging system built on Tor hidden services (2017)</small>
 
 
-| 🔥: 93 \| 💬: [19](https://news.ycombinator.com/item?id=43046192) \| 🗓️ 2025-02-14
+| 🔥: 94 \| 💬: [19](https://news.ycombinator.com/item?id=43046192) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -231,7 +231,7 @@ Ricochet是一个**匿名**的点对点即时消息系统，利用**Tor网络**�
 <small>🔗 [github.com](https://github.com/HamptonMakes/marsha-p-johnson): Marsha P Johnson: A Chrome extension to highlight trans erasure</small>
 
 
-| 🔥: 89 \| 💬: [42](https://news.ycombinator.com/item?id=43051964) \| 🗓️ 2025-02-14
+| 🔥: 91 \| 💬: [42](https://news.ycombinator.com/item?id=43051964) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -239,11 +239,23 @@ Ricochet是一个**匿名**的点对点即时消息系统，利用**Tor网络**�
 
 ---
 
-## <a name="19"></a>19. CDC削减预计将摧毁流行病情报服务 
+## <a name="19"></a>19. 可以绕过拐角的最大沙发 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/the-largest-sofa-you-can-move-around-a-corner-20250214/): The largest sofa you can move around a corner</small>
+
+
+| 🔥: 89 \| 💬: [45](https://news.ycombinator.com/item?id=43049251) \| 🗓️ 2025-02-14
+
+
+<br />
+数学家们解决了长达数十年的“移动沙发”问题，证明了约瑟夫·格弗的沙发是能够顺利通过L形走廊的最大形状。尽管这个问题看似简单，但其解决方案却极具复杂性，展示了优化问题的反直觉特性。新研究不仅解决了这一难题，还为其他优化问题的研究提供了新的思路。
+
+---
+
+## <a name="20"></a>20. CDC削减预计将摧毁流行病情报服务 
 <small>🔗 [statnews.com](https://www.statnews.com/2025/02/14/trump-cdc-cuts-include-epidemic-intelligence-service-outbreak-investigators/): CDC cuts expected to decimate Epidemic Intelligence Service</small>
 
 
-| 🔥: 87 \| 💬: [46](https://news.ycombinator.com/item?id=43052910) \| 🗓️ 2025-02-14
+| 🔥: 89 \| 💬: [47](https://news.ycombinator.com/item?id=43052910) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -251,11 +263,11 @@ Ricochet是一个**匿名**的点对点即时消息系统，利用**Tor网络**�
 
 ---
 
-## <a name="20"></a>20. DOGE审计：腐败的掩饰，而非效率 
+## <a name="21"></a>21. DOGE审计：腐败的掩饰，而非效率 
 <small>🔗 [medium.com](https://medium.com/less-than-a-minute/doge-audits-a-mask-for-corruption-not-efficiency-3668b846a364): DOGE 'Audits': A Mask for Corruption, Not Efficiency</small>
 
 
-| 🔥: 86 \| 💬: [57](https://news.ycombinator.com/item?id=43051697) \| 🗓️ 2025-02-14
+| 🔥: 87 \| 💬: [58](https://news.ycombinator.com/item?id=43051697) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -263,7 +275,7 @@ DOGE进行的所谓“审计”实际上并非真正的审计，参与者缺乏�
 
 ---
 
-## <a name="21"></a>21. 支持希特勒的寡头们的悔恨 
+## <a name="22"></a>22. 支持希特勒的寡头们的悔恨 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/02/hitler-oligarchs-hugenberg-nazi/681584/): The Oligarchs Who Came to Regret Supporting Hitler</small>
 
 
@@ -275,11 +287,11 @@ DOGE进行的所谓“审计”实际上并非真正的审计，参与者缺乏�
 
 ---
 
-## <a name="22"></a>22. 近一半的Steam用户仍在使用Windows 10 
+## <a name="23"></a>23. 近一半的Steam用户仍在使用Windows 10 
 <small>🔗 [pcguide.com](https://www.pcguide.com/news/nearly-half-of-steams-users-are-still-using-windows-10-with-end-of-life-fast-approaching/): Nearly half of Steam's users are still using Windows 10</small>
 
 
-| 🔥: 82 \| 💬: [136](https://news.ycombinator.com/item?id=43050350) \| 🗓️ 2025-02-14
+| 🔥: 82 \| 💬: [137](https://news.ycombinator.com/item?id=43050350) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -287,7 +299,7 @@ DOGE进行的所谓“审计”实际上并非真正的审计，参与者缺乏�
 
 ---
 
-## <a name="23"></a>23. DOGE暴露了曾经秘密的政府网络，网络间谍活动变得前所未有的容易 
+## <a name="24"></a>24. DOGE暴露了曾经秘密的政府网络，网络间谍活动变得前所未有的容易 
 <small>🔗 [cyberintel.substack.com](https://cyberintel.substack.com/p/doge-exposes-once-secret-government): DOGE Exposes Once-Secret Government Networks, Making Cyber-Espionage Easier Than</small>
 
 
@@ -299,7 +311,7 @@ DOGE进行的所谓“审计”实际上并非真正的审计，参与者缺乏�
 
 ---
 
-## <a name="24"></a>24. 特朗普政府计划解雇数千名卫生机构员工 
+## <a name="25"></a>25. 特朗普政府计划解雇数千名卫生机构员工 
 <small>🔗 [statnews.com](https://www.statnews.com/2025/02/14/federal-employee-layoffs-at-hhs-cdc-on-first-day-robert-kennedy-health-secretary/): Trump administration to fire thousands at health agencies</small>
 
 
@@ -308,17 +320,5 @@ DOGE进行的所谓“审计”实际上并非真正的审计，参与者缺乏�
 
 <br />
 2025年2月13日，**罗伯特·F·肯尼迪** Jr. 被参议院确认担任美国卫生部长。此举可能会导致**数千名员工**在卫生机构面临解雇，反映出政府在健康政策上的重大变动。新任卫生部长的上任或将影响未来的公共卫生战略和资源分配。
-
----
-
-## <a name="25"></a>25. 谷歌地图因“美洲湾”名称争议封锁评论 
-<small>🔗 [bbc.com](https://www.bbc.com/news/articles/crlky380wd7o): Google Maps blocks Gulf of America reviews after rename criticism</small>
-
-
-| 🔥: 67 \| 💬: [65](https://news.ycombinator.com/item?id=43047757) \| 🗓️ 2025-02-14
-
-
-<br />
-谷歌地图在美国将“墨西哥湾”更名为“美洲湾”后，因受到批评而封锁了该地点的评论功能。该公司表示，封锁评论是为了防止与地点无关的内容增加，并删除了一些负面评论。用户在社交媒体上指责谷歌“审查”，并对其应用进行一星评价。此举引发了广泛的争议，墨西哥总统也对这一更名表示不满，甚至考虑对谷歌提起诉讼。
 
 ---
