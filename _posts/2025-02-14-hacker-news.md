@@ -10,8 +10,8 @@ tags:
 
 1. AI抑制新技术的采用；
 1. 我们对GPU的看法是错误的；
-1. 检察官与警长分享女性裸照被免于法律责任；
 1. 十年后，十年失去；
+1. 检察官与警长分享女性裸照被免于法律责任；
 1. 曼哈顿最勤奋的字体；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [vale.rocks](https://vale.rocks/posts/ai-is-stifling-tech-adoption): AI is stifling new tech adoption?</small>
 
 
-| 🔥🔥: 437 \| 💬: [394](https://news.ycombinator.com/item?id=43047792) \| 🗓️ 2025-02-14
+| 🔥🔥: 441 \| 💬: [396](https://news.ycombinator.com/item?id=43047792) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [fly.io](https://fly.io/blog/wrong-about-gpu/): We were wrong about GPUs</small>
 
 
-| 🔥🔥: 398 \| 💬: [262](https://news.ycombinator.com/item?id=43053844) \| 🗓️ 2025-02-14
+| 🔥🔥: 415 \| 💬: [273](https://news.ycombinator.com/item?id=43053844) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -47,23 +47,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 检察官与警长分享女性裸照被免于法律责任 
-<small>🔗 [oregonlive.com](https://www.oregonlive.com/crime/2025/02/an-oregon-womans-nude-cellphone-photos-ended-up-the-talk-of-town-she-tracked-it-back-to-the-da.html): DA, sheriff, who shared woman's nude photos on phone are covered by QI</small>
-
-
-| 🔥🔥: 261 \| 💬: [148](https://news.ycombinator.com/item?id=43049174) \| 🗓️ 2025-02-14
-
-
-<br />
-一名俄勒冈州女性的裸照在小镇上引发关注，因检察官在没有搜查令或同意的情况下查看了她的手机数据并告知警长。尽管第九巡回上诉法院认为这一行为侵犯了她的第四修正案权利，但仍给予检察官**合格豁免权**，使其免于法律后果。律师表示，此判决虽令人失望，但有助于提高对执法不当行为的警觉，未来类似行为可能面临法律责任。
-
----
-
-## <a name="4"></a>4. 十年后，十年失去 
+## <a name="3"></a>3. 十年后，十年失去 
 <small>🔗 [meyerweb.com](https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/): A decade later, a decade lost (2024)</small>
 
 
-| 🔥🔥: 254 \| 💬: [70](https://news.ycombinator.com/item?id=43054069) \| 🗓️ 2025-02-14
+| 🔥🔥: 280 \| 💬: [86](https://news.ycombinator.com/item?id=43054069) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -71,11 +59,23 @@ tags:
 
 ---
 
+## <a name="4"></a>4. 检察官与警长分享女性裸照被免于法律责任 
+<small>🔗 [oregonlive.com](https://www.oregonlive.com/crime/2025/02/an-oregon-womans-nude-cellphone-photos-ended-up-the-talk-of-town-she-tracked-it-back-to-the-da.html): DA, sheriff, who shared woman's nude photos on phone are covered by QI</small>
+
+
+| 🔥🔥: 262 \| 💬: [148](https://news.ycombinator.com/item?id=43049174) \| 🗓️ 2025-02-14
+
+
+<br />
+一名俄勒冈州女性的裸照在小镇上引发关注，因检察官在没有搜查令或同意的情况下查看了她的手机数据并告知警长。尽管第九巡回上诉法院认为这一行为侵犯了她的第四修正案权利，但仍给予检察官**合格豁免权**，使其免于法律后果。律师表示，此判决虽令人失望，但有助于提高对执法不当行为的警觉，未来类似行为可能面临法律责任。
+
+---
+
 ## <a name="5"></a>5. 曼哈顿最勤奋的字体 
 <small>🔗 [aresluna.org](https://aresluna.org/the-hardest-working-font-in-manhattan/): The hardest working font in Manhattan</small>
 
 
-| 🔥🔥: 228 \| 💬: [39](https://news.ycombinator.com/item?id=43053419) \| 🗓️ 2025-02-14
+| 🔥🔥: 262 \| 💬: [42](https://news.ycombinator.com/item?id=43053419) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -83,23 +83,11 @@ tags:
 
 ---
 
-## <a name="6"></a>6. S.u.S.E的历史 
-<small>🔗 [abortretry.fail](https://www.abortretry.fail/p/the-history-of-suse): The History of S.u.S.E</small>
-
-
-| 🔥🔥: 220 \| 💬: [105](https://news.ycombinator.com/item?id=43048261) \| 🗓️ 2025-02-14
-
-
-<br />
-1992年，四名德国大学生创立了S.u.S.E.，专注于将Linux本地化为德语。随着时间的推移，他们推出了多个版本的Linux，逐步从Slackware转向RPM包管理。1998年，S.u.S.E.更名为SuSE Linux，并在2000年推出了企业级服务器，标志着其在Linux市场的重要地位。
-
----
-
-## <a name="7"></a>7. ICE希望了解您在网上发布的负面信息 
+## <a name="6"></a>6. ICE希望了解您在网上发布的负面信息 
 <small>🔗 [theintercept.com](https://theintercept.com/2025/02/11/ice-immigration-social-media-surveillance/): ICE wants to know if you're posting negative things about it online</small>
 
 
-| 🔥🔥: 220 \| 💬: [122](https://news.ycombinator.com/item?id=43049152) \| 🗓️ 2025-02-14
+| 🔥🔥: 222 \| 💬: [122](https://news.ycombinator.com/item?id=43049152) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -107,11 +95,23 @@ tags:
 
 ---
 
+## <a name="7"></a>7. S.u.S.E的历史 
+<small>🔗 [abortretry.fail](https://www.abortretry.fail/p/the-history-of-suse): The History of S.u.S.E</small>
+
+
+| 🔥🔥: 221 \| 💬: [105](https://news.ycombinator.com/item?id=43048261) \| 🗓️ 2025-02-14
+
+
+<br />
+1992年，四名德国大学生创立了S.u.S.E.，专注于将Linux本地化为德语。随着时间的推移，他们推出了多个版本的Linux，逐步从Slackware转向RPM包管理。1998年，S.u.S.E.更名为SuSE Linux，并在2000年推出了企业级服务器，标志着其在Linux市场的重要地位。
+
+---
+
 ## <a name="8"></a>8. 将代码库转换为单一Markdown文档以供AI使用 
 <small>🔗 [tesserato.web.app](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html): Show HN: Transform your codebase into a single Markdown doc for feeding into AI</small>
 
 
-| 🔥🔥: 211 \| 💬: [138](https://news.ycombinator.com/item?id=43048027) \| 🗓️ 2025-02-14
+| 🔥🔥: 215 \| 💬: [141](https://news.ycombinator.com/item?id=43048027) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -131,7 +131,19 @@ CodeWeaver是一个命令行工具，旨在将您的代码库编织成一个易�
 
 ---
 
-## <a name="10"></a>10. 监管机构质疑苹果为何不对自己实施严格的应用追踪规则 
+## <a name="10"></a>10. 如果你在体育课上叠过杯子，那就怪我爸爸 
+<small>🔗 [defector.com](https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad): If you ever stacked cups in gym class, blame my dad</small>
+
+
+| 🔥🔥: 155 \| 💬: [24](https://news.ycombinator.com/item?id=43053908) \| 🗓️ 2025-02-14
+
+
+<br />
+故事讲述了**Bob Fox**和他的妻子如何将一批被认为无用的塑料杯转变为一项流行的运动——**杯叠**。尽管面临巨大的经济压力，他们凭借对这项运动的热情和教育技巧，成功地吸引了孩子们的兴趣，最终在学校中推广开来。通过他们的努力，杯叠不仅成为了孩子们的乐趣，也成为了教育课程的一部分，影响了数以千计的学生。
+
+---
+
+## <a name="11"></a>11. 监管机构质疑苹果为何不对自己实施严格的应用追踪规则 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/02/14/apple_app_tracking_probe/): Watchdog ponders why Apple doesn't apply its strict app tracking rules to itself</small>
 
 
@@ -143,23 +155,11 @@ CodeWeaver是一个命令行工具，旨在将您的代码库编织成一个易�
 
 ---
 
-## <a name="11"></a>11. 如果你在体育课上叠过杯子，那就怪我爸爸 
-<small>🔗 [defector.com](https://defector.com/if-you-ever-stacked-cups-in-gym-class-blame-my-dad): If you ever stacked cups in gym class, blame my dad</small>
-
-
-| 🔥🔥: 140 \| 💬: [22](https://news.ycombinator.com/item?id=43053908) \| 🗓️ 2025-02-14
-
-
-<br />
-故事讲述了**Bob Fox**和他的妻子如何将一批被认为无用的塑料杯转变为一项流行的运动——**杯叠**。尽管面临巨大的经济压力，他们凭借对这项运动的热情和教育技巧，成功地吸引了孩子们的兴趣，最终在学校中推广开来。通过他们的努力，杯叠不仅成为了孩子们的乐趣，也成为了教育课程的一部分，影响了数以千计的学生。
-
----
-
 ## <a name="12"></a>12. 复杂的动态需要复杂的解决方案 
 <small>🔗 [mathstodon.xyz](https://mathstodon.xyz/@tao/113873092369347147): Complex dynamics require complex solutions</small>
 
 
-| 🔥🔥: 137 \| 💬: [71](https://news.ycombinator.com/item?id=43053625) \| 🗓️ 2025-02-14
+| 🔥🔥: 144 \| 💬: [78](https://news.ycombinator.com/item?id=43053625) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -171,7 +171,7 @@ CodeWeaver是一个命令行工具，旨在将您的代码库编织成一个易�
 <small>🔗 [unc.edu](https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/): A study on how turtles navigate using the Earth’s magnetic field</small>
 
 
-| 🔥🔥: 135 \| 💬: [47](https://news.ycombinator.com/item?id=43051465) \| 🗓️ 2025-02-14
+| 🔥🔥: 139 \| 💬: [53](https://news.ycombinator.com/item?id=43051465) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -183,7 +183,7 @@ CodeWeaver是一个命令行工具，旨在将您的代码库编织成一个易�
 <small>🔗 [uploadvr.com](https://www.uploadvr.com/nba-apple-vision-pro-app-tabletop-view/): The NBA Apple Vision Pro app now has a 3D tabletop view</small>
 
 
-| 🔥🔥: 119 \| 💬: [102](https://news.ycombinator.com/item?id=43051765) \| 🗓️ 2025-02-14
+| 🔥🔥: 121 \| 💬: [103](https://news.ycombinator.com/item?id=43051765) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -195,7 +195,7 @@ NBA的官方Apple Vision Pro应用新增了**桌面**功能，提供了比赛的
 <small>🔗 [stytch.com](https://stytch.com/blog/detecting-ai-agent-use-abuse/): Detecting AI agent use and abuse</small>
 
 
-| 🔥🔥: 117 \| 💬: [66](https://news.ycombinator.com/item?id=43049959) \| 🗓️ 2025-02-14
+| 🔥🔥: 120 \| 💬: [70](https://news.ycombinator.com/item?id=43049959) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -215,11 +215,23 @@ NBA的官方Apple Vision Pro应用新增了**桌面**功能，提供了比赛的
 
 ---
 
-## <a name="17"></a>17. Ricochet：基于Tor隐藏服务的点对点即时消息系统（2017） 
+## <a name="17"></a>17. 可以绕过拐角的最大沙发 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/the-largest-sofa-you-can-move-around-a-corner-20250214/): The largest sofa you can move around a corner</small>
+
+
+| 🔥: 99 \| 💬: [51](https://news.ycombinator.com/item?id=43049251) \| 🗓️ 2025-02-14
+
+
+<br />
+数学家们解决了长达数十年的“移动沙发”问题，证明了约瑟夫·格弗的沙发是能够顺利通过L形走廊的最大形状。尽管这个问题看似简单，但其解决方案却极具复杂性，展示了优化问题的反直觉特性。新研究不仅解决了这一难题，还为其他优化问题的研究提供了新的思路。
+
+---
+
+## <a name="18"></a>18. Ricochet：基于Tor隐藏服务的点对点即时消息系统（2017） 
 <small>🔗 [github.com](https://github.com/ricochet-im/ricochet): Ricochet: Peer-to-peer instant messaging system built on Tor hidden services (2017)</small>
 
 
-| 🔥: 94 \| 💬: [19](https://news.ycombinator.com/item?id=43046192) \| 🗓️ 2025-02-14
+| 🔥: 95 \| 💬: [20](https://news.ycombinator.com/item?id=43046192) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -227,7 +239,7 @@ Ricochet是一个**匿名**的点对点即时消息系统，利用**Tor网络**�
 
 ---
 
-## <a name="18"></a>18. 马莎·P·约翰逊：突出跨性别抹除的Chrome扩展 
+## <a name="19"></a>19. 马莎·P·约翰逊：突出跨性别抹除的Chrome扩展 
 <small>🔗 [github.com](https://github.com/HamptonMakes/marsha-p-johnson): Marsha P Johnson: A Chrome extension to highlight trans erasure</small>
 
 
@@ -239,23 +251,11 @@ Ricochet是一个**匿名**的点对点即时消息系统，利用**Tor网络**�
 
 ---
 
-## <a name="19"></a>19. 可以绕过拐角的最大沙发 
-<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/the-largest-sofa-you-can-move-around-a-corner-20250214/): The largest sofa you can move around a corner</small>
-
-
-| 🔥: 89 \| 💬: [45](https://news.ycombinator.com/item?id=43049251) \| 🗓️ 2025-02-14
-
-
-<br />
-数学家们解决了长达数十年的“移动沙发”问题，证明了约瑟夫·格弗的沙发是能够顺利通过L形走廊的最大形状。尽管这个问题看似简单，但其解决方案却极具复杂性，展示了优化问题的反直觉特性。新研究不仅解决了这一难题，还为其他优化问题的研究提供了新的思路。
-
----
-
 ## <a name="20"></a>20. CDC削减预计将摧毁流行病情报服务 
 <small>🔗 [statnews.com](https://www.statnews.com/2025/02/14/trump-cdc-cuts-include-epidemic-intelligence-service-outbreak-investigators/): CDC cuts expected to decimate Epidemic Intelligence Service</small>
 
 
-| 🔥: 89 \| 💬: [47](https://news.ycombinator.com/item?id=43052910) \| 🗓️ 2025-02-14
+| 🔥: 89 \| 💬: [48](https://news.ycombinator.com/item?id=43052910) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -267,7 +267,7 @@ Ricochet是一个**匿名**的点对点即时消息系统，利用**Tor网络**�
 <small>🔗 [medium.com](https://medium.com/less-than-a-minute/doge-audits-a-mask-for-corruption-not-efficiency-3668b846a364): DOGE 'Audits': A Mask for Corruption, Not Efficiency</small>
 
 
-| 🔥: 87 \| 💬: [58](https://news.ycombinator.com/item?id=43051697) \| 🗓️ 2025-02-14
+| 🔥: 88 \| 💬: [58](https://news.ycombinator.com/item?id=43051697) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -303,7 +303,7 @@ DOGE进行的所谓“审计”实际上并非真正的审计，参与者缺乏�
 <small>🔗 [cyberintel.substack.com](https://cyberintel.substack.com/p/doge-exposes-once-secret-government): DOGE Exposes Once-Secret Government Networks, Making Cyber-Espionage Easier Than</small>
 
 
-| 🔥: 79 \| 💬: [24](https://news.ycombinator.com/item?id=43051135) \| 🗓️ 2025-02-14
+| 🔥: 79 \| 💬: [25](https://news.ycombinator.com/item?id=43051135) \| 🗓️ 2025-02-14
 
 
 <br />
