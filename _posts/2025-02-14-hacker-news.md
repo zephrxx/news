@@ -10,13 +10,13 @@ tags:
 
 1. AI抑制新技术的采用；
 1. 检察官与警长分享女性裸照被免于法律责任；
+1. 我们对GPU的看法是错误的；
 1. S.u.S.E的历史；
 1. ICE希望了解您在网上发布的负面信息；
-1. 将代码库转换为单一Markdown文档以供AI使用；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [vale.rocks](https://vale.rocks/posts/ai-is-stifling-tech-adoption): AI is stifling new tech adoption?</small>
 
 
-| 🔥🔥: 408 \| 💬: [370](https://news.ycombinator.com/item?id=43047792) \| 🗓️ 2025-02-14
+| 🔥🔥: 414 \| 💬: [377](https://news.ycombinator.com/item?id=43047792) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [oregonlive.com](https://www.oregonlive.com/crime/2025/02/an-oregon-womans-nude-cellphone-photos-ended-up-the-talk-of-town-she-tracked-it-back-to-the-da.html): DA, sheriff, who shared woman's nude photos on phone are covered by QI</small>
 
 
-| 🔥🔥: 255 \| 💬: [142](https://news.ycombinator.com/item?id=43049174) \| 🗓️ 2025-02-14
+| 🔥🔥: 257 \| 💬: [144](https://news.ycombinator.com/item?id=43049174) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -47,7 +47,19 @@ tags:
 
 ---
 
-## <a name="3"></a>3. S.u.S.E的历史 
+## <a name="3"></a>3. 我们对GPU的看法是错误的 
+<small>🔗 [fly.io](https://fly.io/blog/wrong-about-gpu/): We were wrong about GPUs</small>
+
+
+| 🔥🔥: 238 \| 💬: [135](https://news.ycombinator.com/item?id=43053844) \| 🗓️ 2025-02-14
+
+
+<br />
+作者Kurt Mackey分享了他们在开发GPU机器的过程中遇到的挑战和教训。尽管他们认为AI/ML的重要性被低估，但**开发者并不需要GPU**，而是更倾向于使用**大型语言模型（LLMs）**的API。由于安全和市场需求的限制，他们的GPU产品未能取得预期效果。尽管如此，他们仍然致力于改进Fly机器的开发体验，并从这一过程中获得了宝贵的经验。
+
+---
+
+## <a name="4"></a>4. S.u.S.E的历史 
 <small>🔗 [abortretry.fail](https://www.abortretry.fail/p/the-history-of-suse): The History of S.u.S.E</small>
 
 
@@ -59,11 +71,11 @@ tags:
 
 ---
 
-## <a name="4"></a>4. ICE希望了解您在网上发布的负面信息 
+## <a name="5"></a>5. ICE希望了解您在网上发布的负面信息 
 <small>🔗 [theintercept.com](https://theintercept.com/2025/02/11/ice-immigration-social-media-surveillance/): ICE wants to know if you're posting negative things about it online</small>
 
 
-| 🔥🔥: 209 \| 💬: [121](https://news.ycombinator.com/item?id=43049152) \| 🗓️ 2025-02-14
+| 🔥🔥: 211 \| 💬: [122](https://news.ycombinator.com/item?id=43049152) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -71,11 +83,11 @@ tags:
 
 ---
 
-## <a name="5"></a>5. 将代码库转换为单一Markdown文档以供AI使用 
+## <a name="6"></a>6. 将代码库转换为单一Markdown文档以供AI使用 
 <small>🔗 [tesserato.web.app](https://tesserato.web.app/posts/2025-02-12-CodeWeaver-launch/index.html): Show HN: Transform your codebase into a single Markdown doc for feeding into AI</small>
 
 
-| 🔥🔥: 193 \| 💬: [125](https://news.ycombinator.com/item?id=43048027) \| 🗓️ 2025-02-14
+| 🔥🔥: 197 \| 💬: [126](https://news.ycombinator.com/item?id=43048027) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -83,23 +95,11 @@ CodeWeaver是一个命令行工具，旨在将您的代码库编织成一个易�
 
 ---
 
-## <a name="6"></a>6. 我们对GPU的看法是错误的 
-<small>🔗 [fly.io](https://fly.io/blog/wrong-about-gpu/): We were wrong about GPUs</small>
-
-
-| 🔥🔥: 169 \| 💬: [75](https://news.ycombinator.com/item?id=43053844) \| 🗓️ 2025-02-14
-
-
-<br />
-作者Kurt Mackey分享了他们在开发GPU机器的过程中遇到的挑战和教训。尽管他们认为AI/ML的重要性被低估，但**开发者并不需要GPU**，而是更倾向于使用**大型语言模型（LLMs）**的API。由于安全和市场需求的限制，他们的GPU产品未能取得预期效果。尽管如此，他们仍然致力于改进Fly机器的开发体验，并从这一过程中获得了宝贵的经验。
-
----
-
 ## <a name="7"></a>7. Linux内核cgroups写回高CPU故障排除 
 <small>🔗 [dasl.cc](https://dasl.cc/2025/01/01/debugging-our-new-linux-kernel/): Linux kernel cgroups writeback high CPU troubleshooting</small>
 
 
-| 🔥🔥: 154 \| 💬: [21](https://news.ycombinator.com/item?id=43046174) \| 🗓️ 2025-02-14
+| 🔥🔥: 159 \| 💬: [24](https://news.ycombinator.com/item?id=43046174) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -111,7 +111,7 @@ CodeWeaver是一个命令行工具，旨在将您的代码库编织成一个易�
 <small>🔗 [theregister.com](https://www.theregister.com/2025/02/14/apple_app_tracking_probe/): Watchdog ponders why Apple doesn't apply its strict app tracking rules to itself</small>
 
 
-| 🔥🔥: 152 \| 💬: [66](https://news.ycombinator.com/item?id=43047952) \| 🗓️ 2025-02-14
+| 🔥🔥: 152 \| 💬: [67](https://news.ycombinator.com/item?id=43047952) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -119,11 +119,23 @@ CodeWeaver是一个命令行工具，旨在将您的代码库编织成一个易�
 
 ---
 
-## <a name="9"></a>9. 海龟如何利用地球磁场导航的研究 
+## <a name="9"></a>9. 曼哈顿最勤奋的字体 
+<small>🔗 [aresluna.org](https://aresluna.org/the-hardest-working-font-in-manhattan/): The hardest working font in Manhattan</small>
+
+
+| 🔥🔥: 125 \| 💬: [22](https://news.ycombinator.com/item?id=43053419) \| 🗓️ 2025-02-14
+
+
+<br />
+在纽约市的探索中，作者发现了一个名为**Gorton**的字体，它在各种键盘和标识中无处不在。尽管其设计显得笨拙且不受欢迎，但Gorton由于其耐用性和便捷性，成为了许多工业和军事设备的标准字体。Gorton的历史可以追溯到20世纪初，甚至在阿波罗登月任务中也有它的身影，展现了其独特的文化和技术影响力。
+
+---
+
+## <a name="10"></a>10. 海龟如何利用地球磁场导航的研究 
 <small>🔗 [unc.edu](https://www.unc.edu/posts/2025/02/12/dancing-turtles-unlock-scientific-discovery/): A study on how turtles navigate using the Earth’s magnetic field</small>
 
 
-| 🔥🔥: 114 \| 💬: [41](https://news.ycombinator.com/item?id=43051465) \| 🗓️ 2025-02-14
+| 🔥🔥: 123 \| 💬: [43](https://news.ycombinator.com/item?id=43051465) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -131,11 +143,11 @@ CodeWeaver是一个命令行工具，旨在将您的代码库编织成一个易�
 
 ---
 
-## <a name="10"></a>10. 检测AI代理的使用与滥用 
+## <a name="11"></a>11. 检测AI代理的使用与滥用 
 <small>🔗 [stytch.com](https://stytch.com/blog/detecting-ai-agent-use-abuse/): Detecting AI agent use and abuse</small>
 
 
-| 🔥🔥: 106 \| 💬: [60](https://news.ycombinator.com/item?id=43049959) \| 🗓️ 2025-02-14
+| 🔥🔥: 107 \| 💬: [61](https://news.ycombinator.com/item?id=43049959) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -143,7 +155,19 @@ CodeWeaver是一个命令行工具，旨在将您的代码库编织成一个易�
 
 ---
 
-## <a name="11"></a>11. 高阶范畴理论的同伦宏观宇宙 
+## <a name="12"></a>12. 十年后，十年失去 
+<small>🔗 [meyerweb.com](https://meyerweb.com/eric/thoughts/2024/06/07/a-decade-later-a-decade-lost/): A decade later, a decade lost</small>
+
+
+| 🔥🔥: 104 \| 💬: [18](https://news.ycombinator.com/item?id=43054069) \| 🗓️ 2025-02-14
+
+
+<br />
+作者回忆起已故女儿的生日，感受到失去的沉重。她在十年前去世，留下了无数未实现的可能性。尽管时间过去，作者仍然感到未能保护女儿的内疚和痛苦。今天，她将去女儿的墓地，并在她最爱的地方参加纪念活动，感受到又一次的失落。
+
+---
+
+## <a name="13"></a>13. 高阶范畴理论的同伦宏观宇宙 
 <small>🔗 [mathstodon.xyz](https://mathstodon.xyz/@johncarlosbaez/114000054766059217): "Homotopical macrocosms for higher category theory" identified as woke DEI grant</small>
 
 
@@ -155,11 +179,11 @@ CodeWeaver是一个命令行工具，旨在将您的代码库编织成一个易�
 
 ---
 
-## <a name="12"></a>12. NBA苹果Vision Pro应用现已推出3D桌面视图 
+## <a name="14"></a>14. NBA苹果Vision Pro应用现已推出3D桌面视图 
 <small>🔗 [uploadvr.com](https://www.uploadvr.com/nba-apple-vision-pro-app-tabletop-view/): The NBA Apple Vision Pro app now has a 3D tabletop view</small>
 
 
-| 🔥: 90 \| 💬: [84](https://news.ycombinator.com/item?id=43051765) \| 🗓️ 2025-02-14
+| 🔥🔥: 101 \| 💬: [94](https://news.ycombinator.com/item?id=43051765) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -167,11 +191,11 @@ NBA的官方Apple Vision Pro应用新增了**桌面**功能，提供了比赛的
 
 ---
 
-## <a name="13"></a>13. 复杂的动态需要复杂的解决方案 
+## <a name="15"></a>15. 复杂的动态需要复杂的解决方案 
 <small>🔗 [mathstodon.xyz](https://mathstodon.xyz/@tao/113873092369347147): Complex dynamics require complex solutions</small>
 
 
-| 🔥: 90 \| 💬: [26](https://news.ycombinator.com/item?id=43053625) \| 🗓️ 2025-02-14
+| 🔥: 96 \| 💬: [39](https://news.ycombinator.com/item?id=43053625) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -179,11 +203,11 @@ NBA的官方Apple Vision Pro应用新增了**桌面**功能，提供了比赛的
 
 ---
 
-## <a name="14"></a>14. Ricochet：基于Tor隐藏服务的点对点即时消息系统（2017） 
+## <a name="16"></a>16. Ricochet：基于Tor隐藏服务的点对点即时消息系统（2017） 
 <small>🔗 [github.com](https://github.com/ricochet-im/ricochet): Ricochet: Peer-to-peer instant messaging system built on Tor hidden services (2017)</small>
 
 
-| 🔥: 88 \| 💬: [21](https://news.ycombinator.com/item?id=43046192) \| 🗓️ 2025-02-14
+| 🔥: 90 \| 💬: [18](https://news.ycombinator.com/item?id=43046192) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -191,11 +215,11 @@ Ricochet是一个**匿名**的点对点即时消息系统，利用**Tor网络**�
 
 ---
 
-## <a name="15"></a>15. 马莎·P·约翰逊：突出跨性别抹除的Chrome扩展 
+## <a name="17"></a>17. 马莎·P·约翰逊：突出跨性别抹除的Chrome扩展 
 <small>🔗 [github.com](https://github.com/HamptonMakes/marsha-p-johnson): Marsha P Johnson: A Chrome extension to highlight trans erasure</small>
 
 
-| 🔥: 88 \| 💬: [42](https://news.ycombinator.com/item?id=43051964) \| 🗓️ 2025-02-14
+| 🔥: 89 \| 💬: [42](https://news.ycombinator.com/item?id=43051964) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -203,23 +227,11 @@ Ricochet是一个**匿名**的点对点即时消息系统，利用**Tor网络**�
 
 ---
 
-## <a name="16"></a>16. 曼哈顿最勤奋的字体 
-<small>🔗 [aresluna.org](https://aresluna.org/the-hardest-working-font-in-manhattan/): The hardest working font in Manhattan</small>
-
-
-| 🔥: 87 \| 💬: [18](https://news.ycombinator.com/item?id=43053419) \| 🗓️ 2025-02-14
-
-
-<br />
-在纽约市的探索中，作者发现了一个名为**Gorton**的字体，它在各种键盘和标识中无处不在。尽管其设计显得笨拙且不受欢迎，但Gorton由于其耐用性和便捷性，成为了许多工业和军事设备的标准字体。Gorton的历史可以追溯到20世纪初，甚至在阿波罗登月任务中也有它的身影，展现了其独特的文化和技术影响力。
-
----
-
-## <a name="17"></a>17. DOGE审计：腐败的掩饰，而非效率 
+## <a name="18"></a>18. DOGE审计：腐败的掩饰，而非效率 
 <small>🔗 [medium.com](https://medium.com/less-than-a-minute/doge-audits-a-mask-for-corruption-not-efficiency-3668b846a364): DOGE 'Audits': A Mask for Corruption, Not Efficiency</small>
 
 
-| 🔥: 81 \| 💬: [56](https://news.ycombinator.com/item?id=43051697) \| 🗓️ 2025-02-14
+| 🔥: 83 \| 💬: [55](https://news.ycombinator.com/item?id=43051697) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -227,11 +239,11 @@ DOGE进行的所谓“审计”实际上并非真正的审计，参与者缺乏�
 
 ---
 
-## <a name="18"></a>18. 近一半的Steam用户仍在使用Windows 10 
+## <a name="19"></a>19. 近一半的Steam用户仍在使用Windows 10 
 <small>🔗 [pcguide.com](https://www.pcguide.com/news/nearly-half-of-steams-users-are-still-using-windows-10-with-end-of-life-fast-approaching/): Nearly half of Steam's users are still using Windows 10</small>
 
 
-| 🔥: 79 \| 💬: [128](https://news.ycombinator.com/item?id=43050350) \| 🗓️ 2025-02-14
+| 🔥: 81 \| 💬: [130](https://news.ycombinator.com/item?id=43050350) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -239,11 +251,11 @@ DOGE进行的所谓“审计”实际上并非真正的审计，参与者缺乏�
 
 ---
 
-## <a name="19"></a>19. 支持希特勒的寡头们的悔恨 
+## <a name="20"></a>20. 支持希特勒的寡头们的悔恨 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/02/hitler-oligarchs-hugenberg-nazi/681584/): The Oligarchs Who Came to Regret Supporting Hitler</small>
 
 
-| 🔥: 76 \| 💬: [21](https://news.ycombinator.com/item?id=43050503) \| 🗓️ 2025-02-14
+| 🔥: 78 \| 💬: [20](https://news.ycombinator.com/item?id=43050503) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -251,11 +263,11 @@ DOGE进行的所谓“审计”实际上并非真正的审计，参与者缺乏�
 
 ---
 
-## <a name="20"></a>20. 特朗普政府计划解雇数千名卫生机构员工 
+## <a name="21"></a>21. 特朗普政府计划解雇数千名卫生机构员工 
 <small>🔗 [statnews.com](https://www.statnews.com/2025/02/14/federal-employee-layoffs-at-hhs-cdc-on-first-day-robert-kennedy-health-secretary/): Trump administration to fire thousands at health agencies</small>
 
 
-| 🔥: 76 \| 💬: [44](https://news.ycombinator.com/item?id=43050952) \| 🗓️ 2025-02-14
+| 🔥: 77 \| 💬: [43](https://news.ycombinator.com/item?id=43050952) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -263,11 +275,11 @@ DOGE进行的所谓“审计”实际上并非真正的审计，参与者缺乏�
 
 ---
 
-## <a name="21"></a>21. DOGE暴露了曾经秘密的政府网络，网络间谍活动变得前所未有的容易 
+## <a name="22"></a>22. DOGE暴露了曾经秘密的政府网络，网络间谍活动变得前所未有的容易 
 <small>🔗 [cyberintel.substack.com](https://cyberintel.substack.com/p/doge-exposes-once-secret-government): DOGE Exposes Once-Secret Government Networks, Making Cyber-Espionage Easier Than</small>
 
 
-| 🔥: 76 \| 💬: [24](https://news.ycombinator.com/item?id=43051135) \| 🗓️ 2025-02-14
+| 🔥: 77 \| 💬: [24](https://news.ycombinator.com/item?id=43051135) \| 🗓️ 2025-02-14
 
 
 <br />
@@ -275,7 +287,7 @@ DOGE进行的所谓“审计”实际上并非真正的审计，参与者缺乏�
 
 ---
 
-## <a name="22"></a>22. 谷歌地图因“美洲湾”名称争议封锁评论 
+## <a name="23"></a>23. 谷歌地图因“美洲湾”名称争议封锁评论 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/crlky380wd7o): Google Maps blocks Gulf of America reviews after rename criticism</small>
 
 
@@ -287,7 +299,7 @@ DOGE进行的所谓“审计”实际上并非真正的审计，参与者缺乏�
 
 ---
 
-## <a name="23"></a>23. 一种全新的语言学习方式 
+## <a name="24"></a>24. 一种全新的语言学习方式 
 <small>🔗 [langturbo.com](https://www.langturbo.com): Show HN: A New Way to Learn Languages</small>
 
 
