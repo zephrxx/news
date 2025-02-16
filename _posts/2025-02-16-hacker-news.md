@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [caddyserver.com](https://caddyserver.com/): Caddy – The Ultimate Server with Automatic HTTPS</small>
 
 
-| 🔥🔥: 296 \| 💬: [121](https://news.ycombinator.com/item?id=43070025) \| 🗓️ 2025-02-16
+| 🔥🔥: 388 \| 💬: [139](https://news.ycombinator.com/item?id=43070025) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -39,7 +39,7 @@ Caddy 默认为所有网站自动获取和续订 TLS 证书，支持 **On-Demand
 <small>🔗 [eurogamer.net](https://www.eurogamer.net/half-life-2-and-dishonored-art-lead-viktor-antonov-dies-aged-just-52): Half-Life 2 and Dishonored art lead Viktor Antonov has died</small>
 
 
-| 🔥🔥: 230 \| 💬: [35](https://news.ycombinator.com/item?id=43069514) \| 🗓️ 2025-02-16
+| 🔥🔥: 279 \| 💬: [45](https://news.ycombinator.com/item?id=43069514) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -51,7 +51,7 @@ Caddy 默认为所有网站自动获取和续订 TLS 证书，支持 **On-Demand
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/kindle/comments/1inr9uy/fyi_amazon_is_removing_download_transfer_option/): Kindle is removing download and transfer option on Feb 26th</small>
 
 
-| 🔥🔥: 216 \| 💬: [111](https://news.ycombinator.com/item?id=43070155) \| 🗓️ 2025-02-16
+| 🔥🔥: 252 \| 💬: [145](https://news.ycombinator.com/item?id=43070155) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -63,7 +63,7 @@ Caddy 默认为所有网站自动获取和续订 TLS 证书，支持 **On-Demand
 <small>🔗 [poweroutage.us](https://poweroutage.us/): United States Power Outage Map</small>
 
 
-| 🔥🔥: 205 \| 💬: [94](https://news.ycombinator.com/item?id=43069399) \| 🗓️ 2025-02-16
+| 🔥🔥: 221 \| 💬: [103](https://news.ycombinator.com/item?id=43069399) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -75,7 +75,7 @@ PowerOutage.us是一个持续更新的项目，旨在**跟踪**、**记录**和*
 <small>🔗 [kk.org](https://kk.org/thetechnium/50-years-of-travel-tips/): 50 Years of Travel Tips</small>
 
 
-| 🔥🔥: 200 \| 💬: [153](https://news.ycombinator.com/item?id=43066720) \| 🗓️ 2025-02-16
+| 🔥🔥: 212 \| 💬: [165](https://news.ycombinator.com/item?id=43066720) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -87,7 +87,7 @@ PowerOutage.us是一个持续更新的项目，旨在**跟踪**、**记录**和*
 <small>🔗 [rtestardi.github.io](https://rtestardi.github.io/usbte/flea-scope.pdf): Flea-Scope: $18 Source Available USB Oscilloscope, Logic Analyzer and More [pdf]</small>
 
 
-| 🔥🔥: 180 \| 💬: [66](https://news.ycombinator.com/item?id=43068585) \| 🗓️ 2025-02-16
+| 🔥🔥: 198 \| 💬: [72](https://news.ycombinator.com/item?id=43068585) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -99,7 +99,7 @@ PowerOutage.us是一个持续更新的项目，旨在**跟踪**、**记录**和*
 <small>🔗 [thenewstack.io](https://thenewstack.io/vim-after-bram-a-core-maintainer-on-how-theyve-kept-it-going/): Vim after Bram: a core maintainer on how they've kept it going</small>
 
 
-| 🔥🔥: 164 \| 💬: [37](https://news.ycombinator.com/item?id=43068884) \| 🗓️ 2025-02-16
+| 🔥🔥: 171 \| 💬: [42](https://news.ycombinator.com/item?id=43068884) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -111,7 +111,7 @@ PowerOutage.us是一个持续更新的项目，旨在**跟踪**、**记录**和*
 <small>🔗 [ssp.sh](https://www.ssp.sh/blog/finding-flow/): Finding Flow: Escaping digital distractions through deep work and slow living</small>
 
 
-| 🔥🔥: 156 \| 💬: [54](https://news.ycombinator.com/item?id=43067303) \| 🗓️ 2025-02-16
+| 🔥🔥: 164 \| 💬: [58](https://news.ycombinator.com/item?id=43067303) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -123,7 +123,7 @@ PowerOutage.us是一个持续更新的项目，旨在**跟踪**、**记录**和*
 <small>🔗 [leerob.com](https://leerob.com/n/rust): Rust Is Eating JavaScript (2023)</small>
 
 
-| 🔥🔥: 110 \| 💬: [204](https://news.ycombinator.com/item?id=43067585) \| 🗓️ 2025-02-16
+| 🔥🔥: 111 \| 💬: [212](https://news.ycombinator.com/item?id=43067585) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -135,7 +135,7 @@ Rust 是一种快速、可靠且内存高效的编程语言，近年来被广泛
 <small>🔗 [lukeplant.me.uk](https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/): Why I'm leaving Elm (2020)</small>
 
 
-| 🔥: 83 \| 💬: [49](https://news.ycombinator.com/item?id=43069475) \| 🗓️ 2025-02-16
+| 🔥: 88 \| 💬: [66](https://news.ycombinator.com/item?id=43069475) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -147,7 +147,7 @@ Rust 是一种快速、可靠且内存高效的编程语言，近年来被广泛
 <small>🔗 [techlog.jenslink.net](https://techlog.jenslink.net/posts/ipv6-is-hard/): IPv6 Is Hard</small>
 
 
-| 🔥: 76 \| 💬: [125](https://news.ycombinator.com/item?id=43069533) \| 🗓️ 2025-02-16
+| 🔥: 76 \| 💬: [132](https://news.ycombinator.com/item?id=43069533) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -159,7 +159,7 @@ IPv6 实际上是“不同”的，而非“难”。许多网站仍然只支持
 <small>🔗 [theguardian.com](https://www.theguardian.com/artanddesign/gallery/2025/jan/29/japan-brutalist-buildings-in-pictures): Statement or eyesore? Japan's divisive brutalist buildings – in pictures</small>
 
 
-| 🔥: 65 \| 💬: [27](https://news.ycombinator.com/item?id=43067378) \| 🗓️ 2025-02-16
+| 🔥: 66 \| 💬: [28](https://news.ycombinator.com/item?id=43067378) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -167,35 +167,11 @@ IPv6 实际上是“不同”的，而非“难”。许多网站仍然只支持
 
 ---
 
-## <a name="13"></a>13. 德克萨斯电网可靠性仍存疑虑 
-<small>🔗 [npr.org](https://www.npr.org/2025/02/14/nx-s1-5289877/texas-power-grid-after-outage): Doubts remain over reliability of Texas power grid</small>
-
-
-| 🔥: 62 \| 💬: [59](https://news.ycombinator.com/item?id=43069424) \| 🗓️ 2025-02-16
-
-
-<br />
-尽管德克萨斯州在2021年致命停电后声称电网有所改善，但**对电网的可靠性依然存在疑虑**。州长阿博特强调新建天然气电厂的必要性，但由于德克萨斯州缺乏与邻近电网的连接，**能源需求的增长必须依赖于本州的发电能力**。分析师指出，尽管电网在某些方面有所进步，但仍需更多的努力来提高能源效率和确保天然气供应。随着极端天气的频繁发生，许多德克萨斯居民仍感到不安。
-
----
-
-## <a name="14"></a>14. 重新思考C语言时间API 
-<small>🔗 [oliverkwebb.github.io](https://oliverkwebb.github.io/articles/newtime/): Rethinking the C Time API</small>
-
-
-| 🔥: 61 \| 💬: [60](https://news.ycombinator.com/item?id=43068283) \| 🗓️ 2025-02-16
-
-
-<br />
-C语言的时间API存在许多遗留问题，设计决策过时，导致使用不便。代码示例显示了如何打印当前时间，暴露了如`time()`和`strftime()`等函数的设计缺陷。文章提出了新的时间库概念，旨在解决这些问题，改进时间处理的灵活性和精确度，尤其是在处理**纳秒**和**时区**时。通过创建新的数据结构和函数，作者希望提供更优雅的解决方案，反映出C语言时间API的潜在改进方向。
-
----
-
-## <a name="15"></a>15. 未婚男性的哲学思考 
+## <a name="13"></a>13. 未婚男性的哲学思考 
 <small>🔗 [aeon.co](https://aeon.co/essays/for-mary-midgley-philosophy-must-be-entangled-in-daily-life): So Many Unmarried Men</small>
 
 
-| 🔥: 61 \| 💬: [99](https://news.ycombinator.com/item?id=43068337) \| 🗓️ 2025-02-16
+| 🔥: 63 \| 💬: [101](https://news.ycombinator.com/item?id=43068337) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -203,11 +179,47 @@ C语言的时间API存在许多遗留问题，设计决策过时，导致使用�
 
 ---
 
-## <a name="16"></a>16. 苹果地图可能开始显示广告 
+## <a name="14"></a>14. 德克萨斯电网可靠性仍存疑虑 
+<small>🔗 [npr.org](https://www.npr.org/2025/02/14/nx-s1-5289877/texas-power-grid-after-outage): Doubts remain over reliability of Texas power grid</small>
+
+
+| 🔥: 63 \| 💬: [61](https://news.ycombinator.com/item?id=43069424) \| 🗓️ 2025-02-16
+
+
+<br />
+尽管德克萨斯州在2021年致命停电后声称电网有所改善，但**对电网的可靠性依然存在疑虑**。州长阿博特强调新建天然气电厂的必要性，但由于德克萨斯州缺乏与邻近电网的连接，**能源需求的增长必须依赖于本州的发电能力**。分析师指出，尽管电网在某些方面有所进步，但仍需更多的努力来提高能源效率和确保天然气供应。随着极端天气的频繁发生，许多德克萨斯居民仍感到不安。
+
+---
+
+## <a name="15"></a>15. 大科技破坏了社会契约 
+<small>🔗 [basedfob.substack.com](https://basedfob.substack.com/p/big-tech-has-disrupted-the-social): Big Tech Has Disrupted the Social Contract</small>
+
+
+| 🔥: 62 \| 💬: [20](https://news.ycombinator.com/item?id=43071213) \| 🗓️ 2025-02-16
+
+
+<br />
+大科技公司通过共享经济的模式，导致了服务质量的下降和消费者的困扰。Eddie Huang分享了他在Turo租车的糟糕经历，遇到车辆注册被暂停和虚假收费的问题。他指出，虽然这些平台让个人可以像企业一样运营，但缺乏必要的责任和监管，最终让消费者面临风险和不便。
+
+---
+
+## <a name="16"></a>16. 重新思考C语言时间API 
+<small>🔗 [oliverkwebb.github.io](https://oliverkwebb.github.io/articles/newtime/): Rethinking the C Time API</small>
+
+
+| 🔥: 61 \| 💬: [64](https://news.ycombinator.com/item?id=43068283) \| 🗓️ 2025-02-16
+
+
+<br />
+C语言的时间API存在许多遗留问题，设计决策过时，导致使用不便。代码示例显示了如何打印当前时间，暴露了如`time()`和`strftime()`等函数的设计缺陷。文章提出了新的时间库概念，旨在解决这些问题，改进时间处理的灵活性和精确度，尤其是在处理**纳秒**和**时区**时。通过创建新的数据结构和函数，作者希望提供更优雅的解决方案，反映出C语言时间API的潜在改进方向。
+
+---
+
+## <a name="17"></a>17. 苹果地图可能开始显示广告 
 <small>🔗 [macrumors.com](https://www.macrumors.com/2025/02/16/apple-maps-might-start-showing-ads/): Apple Maps Might Start Showing Ads</small>
 
 
-| 🔥: 53 \| 💬: [63](https://news.ycombinator.com/item?id=43069381) \| 🗓️ 2025-02-16
+| 🔥: 53 \| 💬: [65](https://news.ycombinator.com/item?id=43069381) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -215,11 +227,47 @@ C语言的时间API存在许多遗留问题，设计决策过时，导致使用�
 
 ---
 
-## <a name="17"></a>17. 亚马逊未接触部落男子现身，村民展示打火机 
+## <a name="18"></a>18. 机场空中交通控制广播与放松音乐助力专注 
+<small>🔗 [chillyatc.com](https://www.chillyatc.com/): Show HN: Air Traffic Control Radio and Chill Music for Focus</small>
+
+
+| 🔥: 49 \| 💬: [41](https://news.ycombinator.com/item?id=43071934) \| 🗓️ 2025-02-16
+
+
+<br />
+这款应用结合了**空中交通控制广播**和**放松音乐**，旨在帮助用户提高专注力。用户可以选择不同的机场，如**旧金山国际机场**，享受实时的塔台音频和轻松的背景音乐，创造一个理想的工作或学习环境。
+
+---
+
+## <a name="19"></a>19. Netflix称其短暂的Apple TV应用集成是个错误 
+<small>🔗 [theverge.com](https://www.theverge.com/news/613307/netflix-apple-tv-app-support-mistake): Netflix says its brief Apple TV app integration was a mistake</small>
+
+
+| 🔥: 48 \| 💬: [47](https://news.ycombinator.com/item?id=43071147) \| 🗓️ 2025-02-16
+
+
+<br />
+Netflix确认其在Apple TV应用中的短暂支持是一个错误，已被撤回。尽管曾一度支持Apple的观看列表和“继续观看”功能，但Netflix仍然坚持希望用户在其应用内浏览和消费内容。这一变化让人感到失望，因为Netflix一向不支持Apple和其他公司的内容聚合尝试。
+
+---
+
+## <a name="20"></a>20. 谷歌新规则被批将利润置于隐私之上 
+<small>🔗 [bbc.com](https://www.bbc.com/news/articles/cm21g0052dno): Fingerprinting: Critics say Google rules put profits over privacy</small>
+
+
+| 🔥: 48 \| 💬: [23](https://news.ycombinator.com/item?id=43071506) \| 🗓️ 2025-02-16
+
+
+<br />
+隐私活动人士批评谷歌的新规则，称其对用户隐私的“公然漠视”。新规则允许“**指纹识别**”技术，收集用户的IP地址和设备信息，尽管谷歌曾反对这种数据收集。批评者认为，这使用户更难控制其数据，损害了隐私。谷歌辩称，这种数据收集是行业普遍做法，并强调提供更多隐私选项。英国信息专员办公室也认为指纹识别不公平，可能减少用户选择和控制权。
+
+---
+
+## <a name="21"></a>21. 亚马逊未接触部落男子现身，村民展示打火机 
 <small>🔗 [apnews.com](https://apnews.com/article/brazil-amazon-indigenous-uncontacted-isolated-tribe-funai-0552568846327f9e4b296f83152c1afc): Man from uncontacted tribe emerges in Amazon, villagers demonstrate a lighter</small>
 
 
-| 🔥: 46 \| 💬: [48](https://news.ycombinator.com/item?id=43067062) \| 🗓️ 2025-02-16
+| 🔥: 47 \| 💬: [49](https://news.ycombinator.com/item?id=43067062) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -227,7 +275,7 @@ C语言的时间API存在许多遗留问题，设计决策过时，导致使用�
 
 ---
 
-## <a name="18"></a>18. 美国选举安全监管机构被迫停止选举安全工作 
+## <a name="22"></a>22. 美国选举安全监管机构被迫停止选举安全工作 
 <small>🔗 [wired.com](https://www.wired.com/story/cisa-election-security-freeze-memo/): Top US Election Security Watchdog Forced to Stop Election Security Work</small>
 
 
@@ -239,19 +287,31 @@ C语言的时间API存在许多遗留问题，设计决策过时，导致使用�
 
 ---
 
-## <a name="19"></a>19. Netflix称其短暂的Apple TV应用集成是个错误 
-<small>🔗 [theverge.com](https://www.theverge.com/news/613307/netflix-apple-tv-app-support-mistake): Netflix says its brief Apple TV app integration was a mistake</small>
+## <a name="23"></a>23. TikTok禁令背后的真相：以色列而非中国 
+<small>🔗 [kenklippenstein.com](https://www.kenklippenstein.com/p/tiktok-ban-fueled-by-israel-not-china): The reason behind the TikTok ban</small>
 
 
-| 🔥: 45 \| 💬: [40](https://news.ycombinator.com/item?id=43071147) \| 🗓️ 2025-02-16
+| 🔥: 44 \| 💬: [8](https://news.ycombinator.com/item?id=43070711) \| 🗓️ 2025-02-16
 
 
 <br />
-Netflix确认其在Apple TV应用中的短暂支持是一个错误，已被撤回。尽管曾一度支持Apple的观看列表和“继续观看”功能，但Netflix仍然坚持希望用户在其应用内浏览和消费内容。这一变化让人感到失望，因为Netflix一向不支持Apple和其他公司的内容聚合尝试。
+TikTok的禁令源于**哈马斯**对以色列的攻击，国会对社交媒体平台上**反犹太内容**的担忧推动了立法。尽管TikTok的中国所有权被提及，实际上是以色列官员和游说者在影响美国政策。国会通过的法案被认为是对言论的压制，旨在保护以色列的形象。**机密简报**和对TikTok算法的指责成为立法的关键因素，尽管对中国的安全威胁仍然是理论上的。
 
 ---
 
-## <a name="20"></a>20. 股票市场与金融数据API 
+## <a name="24"></a>24. 快速在终端中查找命令的技巧 
+<small>🔗 [github.com](https://github.com/madprops/blog/blob/main/docs/cmd_icons.md): Trick to find commands in the terminal quickly</small>
+
+
+| 🔥: 44 \| 💬: [47](https://news.ycombinator.com/item?id=43071085) \| 🗓️ 2025-02-16
+
+
+<br />
+我发现了一个新技巧，常常需要在 shell 历史中回溯以重新运行相同的命令。虽然目前没有高效的方法，但我想到了一个可以稍微缓解这个问题的技巧：给命令添加 **图标**，这样可以快速识别。比如，使用 ✅、⚡ 和 📚 来标记不同的命令。图标并不影响命令本身，但能帮助你更快找到需要的命令。此外，你也可以使用文本，以便后续使用 grep 查找。
+
+---
+
+## <a name="25"></a>25. 股票市场与金融数据API 
 <small>🔗 [financialdata.net](https://financialdata.net): Stock Market and Financial Data API</small>
 
 
@@ -260,41 +320,5 @@ Netflix确认其在Apple TV应用中的短暂支持是一个错误，已被撤�
 
 <br />
 我们的API提供丰富的**金融数据**，包括日终或盘中市场数据、公司财务报表和比率、内幕交易、机构交易及财报数据。覆盖超过**20年的历史数据**，定期更新，确保数据的高质量和可靠性。数据以标准REST API形式提供，支持JSON和CSV格式，便于集成。通过独特的替代数据，您可以发现独特的投资机会，做出明智的投资决策。
-
----
-
-## <a name="21"></a>21. 快速在终端中查找命令的技巧 
-<small>🔗 [github.com](https://github.com/madprops/blog/blob/main/docs/cmd_icons.md): Trick to find commands in the terminal quickly</small>
-
-
-| 🔥: 37 \| 💬: [40](https://news.ycombinator.com/item?id=43071085) \| 🗓️ 2025-02-16
-
-
-<br />
-我发现了一个新技巧，常常需要在 shell 历史中回溯以重新运行相同的命令。虽然目前没有高效的方法，但我想到了一个可以稍微缓解这个问题的技巧：给命令添加 **图标**，这样可以快速识别。比如，使用 ✅、⚡ 和 📚 来标记不同的命令。图标并不影响命令本身，但能帮助你更快找到需要的命令。此外，你也可以使用文本，以便后续使用 grep 查找。
-
----
-
-## <a name="22"></a>22. 便携式无人机干扰器使用树莓派战术软件定义无线电 
-<small>🔗 [tomshardware.com](https://www.tomshardware.com/raspberry-pi/portable-raspberry-pi-tactical-software-defines-radio-doubles-as-a-drone-jammer): Portable drone jammer uses a Raspberry Pi tactical Software Defined Radio</small>
-
-
-| 🔥: 35 \| 💬: [12](https://news.ycombinator.com/item?id=43071110) \| 🗓️ 2025-02-16
-
-
-<br />
-Media-Grizzly开发的D.E.S.E.R.T Pi-Powered Tactical System是一款便携式的树莓派软件定义无线电（SDR）系统，能够在需要时通过一个开关干扰附近的无人机。该系统配备了激光雕刻面板、键盘、USB端口和LCD显示屏，最引人注目的是一个标有“DE-AUTH”的红色开关，专门用于与无人机信号互动。虽然干扰无人机的合法性因地区而异，但该设备在理论上能够通过连接天线来失去无人机的信号。系统由树莓派4B供电，使用12V电池和5V降压转换器，整体功耗约为17瓦特。Media-Grizzly计划在未来分享该项目的源代码，并在GitHub上发布更新。
-
----
-
-## <a name="23"></a>23. 获取-设置模式的危害 
-<small>🔗 [wolfgang-ziegler.com](https://wolfgang-ziegler.com/blog/getter-setter-pattern-considered-harmful): Getter-Setter Pattern Considered Harmful</small>
-
-
-| 🔥: 31 \| 💬: [75](https://news.ycombinator.com/item?id=43068587) \| 🗓️ 2025-02-16
-
-
-<br />
-许多开发者习惯于使用**获取-设置模式**，却忽视了其带来的问题，如**可变性**和**状态**复杂性。这使得代码难以理解和维护。通过采用**不可变性**和**with模式**，可以减少错误，提高并发性。构建者模式也有助于管理复杂类。总之，去掉获取器和设置器，能使代码更简洁、易读。
 
 ---
