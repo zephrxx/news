@@ -27,7 +27,7 @@ tags:
 <small>🔗 [weeks.ginatrapani.org](https://weeks.ginatrapani.org/): My Life in Weeks</small>
 
 
-| 🔥🔥: 474 \| 💬: [135](https://news.ycombinator.com/item?id=43061498) \| 🗓️ 2025-02-15
+| 🔥🔥: 519 \| 💬: [144](https://news.ycombinator.com/item?id=43061498) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [figgie.com](https://www.figgie.com/): Jane Street's Figgie card game</small>
 
 
-| 🔥🔥: 382 \| 💬: [86](https://news.ycombinator.com/item?id=43057344) \| 🗓️ 2025-02-15
+| 🔥🔥: 386 \| 💬: [90](https://news.ycombinator.com/item?id=43057344) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [e360.yale.edu](https://e360.yale.edu/digest/brake-pads-lung-damage-study): Dust from car brakes more harmful than exhaust, study finds</small>
 
 
-| 🔥🔥: 376 \| 💬: [358](https://news.ycombinator.com/item?id=43058993) \| 🗓️ 2025-02-15
+| 🔥🔥: 380 \| 💬: [363](https://news.ycombinator.com/item?id=43058993) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [jellyfin.org](https://jellyfin.org/): Jellyfin: The Free Software Media System</small>
 
 
-| 🔥🔥: 273 \| 💬: [181](https://news.ycombinator.com/item?id=43063167) \| 🗓️ 2025-02-15
+| 🔥🔥: 289 \| 💬: [195](https://news.ycombinator.com/item?id=43063167) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -75,7 +75,7 @@ Jellyfin 是一个 **免费软件** 媒体系统，允许用户收集、管理�
 <small>🔗 [sfstandard.com](https://sfstandard.com/2025/02/14/san-francisco-department-public-health-daniel-tsai-opioids-mckinsey/): New SF public health chief was part of McKinsey opioid-marketing operation</small>
 
 
-| 🔥🔥: 209 \| 💬: [69](https://news.ycombinator.com/item?id=43061482) \| 🗓️ 2025-02-15
+| 🔥🔥: 226 \| 💬: [69](https://news.ycombinator.com/item?id=43061482) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -87,7 +87,7 @@ Jellyfin 是一个 **免费软件** 媒体系统，允许用户收集、管理�
 <small>🔗 [arstechnica.com](https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/): Diablo hackers uncovered a speedrun scandal</small>
 
 
-| 🔥🔥: 184 \| 💬: [102](https://news.ycombinator.com/item?id=43058522) \| 🗓️ 2025-02-15
+| 🔥🔥: 195 \| 💬: [108](https://news.ycombinator.com/item?id=43058522) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -99,7 +99,7 @@ Maciej "Groobo" Maselewski的3分钟12秒速度跑曾被视为无可匹敌，但
 <small>🔗 [github.com](https://github.com/Goldziher/kreuzberg): Show HN: Kreuzberg – Modern async Python library for document text extraction</small>
 
 
-| 🔥🔥: 160 \| 💬: [59](https://news.ycombinator.com/item?id=43057375) \| 🗓️ 2025-02-15
+| 🔥🔥: 162 \| 💬: [60](https://news.ycombinator.com/item?id=43057375) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -111,7 +111,7 @@ Kreuzberg 是一个用于从多种文档中提取文本的 Python 库，支持 P
 <small>🔗 [taxfoundation.org](https://taxfoundation.org/blog/trump-reciprocal-tariffs-eu-vat-discriminatory/): The European VAT Is Not a Discriminatory Tax Against US Exports</small>
 
 
-| 🔥🔥: 159 \| 💬: [288](https://news.ycombinator.com/item?id=43062457) \| 🗓️ 2025-02-15
+| 🔥🔥: 160 \| 💬: [294](https://news.ycombinator.com/item?id=43062457) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -119,35 +119,11 @@ Kreuzberg 是一个用于从多种文档中提取文本的 Python 库，支持 P
 
 ---
 
-## <a name="9"></a>9. 阿尔茨海默病生物标志物可提前十年检测 
-<small>🔗 [newatlas.com](https://newatlas.com/brain/alzheimers-dementia/alzheimers-biomarkers-visible-decade-before-symptoms/): Alzheimer's biomarkers now visible up to a decade ahead of symptoms</small>
-
-
-| 🔥🔥: 149 \| 💬: [44](https://news.ycombinator.com/item?id=43060587) \| 🗓️ 2025-02-15
-
-
-<br />
-匹兹堡大学的研究人员开发了一种生物标志物测试，可以检测脑内和脑脊液中微量的聚集**tau蛋白**，这与阿尔茨海默病相关。该测试能够在症状出现前长达十年识别这些蛋白的聚集，为早期干预提供可能。研究表明，早期检测有助于提高治疗效果，尤其是当患者的**tau缠结**较少时。通过识别特定的蛋白质变化，医生可以更早地诊断阿尔茨海默病，从而在病情恶化之前采取措施。随着对该疾病的理解加深，未来有望开发出更有效的治疗方案。
-
----
-
-## <a name="10"></a>10. 狐狸的噪音问题 
-<small>🔗 [h.43z.one](https://h.43z.one/blog/2025-02-12/): Watt The Fox?</small>
-
-
-| 🔥🔥: 148 \| 💬: [26](https://news.ycombinator.com/item?id=43062546) \| 🗓️ 2025-02-15
-
-
-<br />
-在使用Firefox时，作者发现浏览器在某些网站上会导致**白噪音**和**电池消耗**增加，尤其是当网页使用WebAudio API时。尽管Firefox未能自动暂停音频上下文，作者开发了一个扩展程序来解决这一问题，旨在自动挂起音频上下文以节省资源。
-
----
-
-## <a name="11"></a>11. NASA的软件开发十条规则 
+## <a name="9"></a>9. NASA的软件开发十条规则 
 <small>🔗 [cs.otago.ac.nz](https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm): NASA has a list of 10 rules for software development</small>
 
 
-| 🔥🔥: 143 \| 💬: [85](https://news.ycombinator.com/item?id=43061977) \| 🗓️ 2025-02-15
+| 🔥🔥: 159 \| 💬: [91](https://news.ycombinator.com/item?id=43061977) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -155,11 +131,35 @@ NASA为嵌入式软件开发制定了十条规则，旨在确保高可靠性和�
 
 ---
 
+## <a name="10"></a>10. 狐狸的噪音问题 
+<small>🔗 [h.43z.one](https://h.43z.one/blog/2025-02-12/): Watt The Fox?</small>
+
+
+| 🔥🔥: 159 \| 💬: [30](https://news.ycombinator.com/item?id=43062546) \| 🗓️ 2025-02-15
+
+
+<br />
+在使用Firefox时，作者发现浏览器在某些网站上会导致**白噪音**和**电池消耗**增加，尤其是当网页使用WebAudio API时。尽管Firefox未能自动暂停音频上下文，作者开发了一个扩展程序来解决这一问题，旨在自动挂起音频上下文以节省资源。
+
+---
+
+## <a name="11"></a>11. 阿尔茨海默病生物标志物可提前十年检测 
+<small>🔗 [newatlas.com](https://newatlas.com/brain/alzheimers-dementia/alzheimers-biomarkers-visible-decade-before-symptoms/): Alzheimer's biomarkers now visible up to a decade ahead of symptoms</small>
+
+
+| 🔥🔥: 157 \| 💬: [49](https://news.ycombinator.com/item?id=43060587) \| 🗓️ 2025-02-15
+
+
+<br />
+匹兹堡大学的研究人员开发了一种生物标志物测试，可以检测脑内和脑脊液中微量的聚集**tau蛋白**，这与阿尔茨海默病相关。该测试能够在症状出现前长达十年识别这些蛋白的聚集，为早期干预提供可能。研究表明，早期检测有助于提高治疗效果，尤其是当患者的**tau缠结**较少时。通过识别特定的蛋白质变化，医生可以更早地诊断阿尔茨海默病，从而在病情恶化之前采取措施。随着对该疾病的理解加深，未来有望开发出更有效的治疗方案。
+
+---
+
 ## <a name="12"></a>12. 多个俄罗斯威胁行为者针对微软设备代码认证进行攻击 
 <small>🔗 [volexity.com](https://www.volexity.com/blog/2025/02/13/multiple-russian-threat-actors-targeting-microsoft-device-code-authentication/): Multiple Russian Threat Actors Targeting Microsoft Device Code Authentication</small>
 
 
-| 🔥🔥: 137 \| 💬: [28](https://news.ycombinator.com/item?id=43061173) \| 🗓️ 2025-02-15
+| 🔥🔥: 143 \| 💬: [30](https://news.ycombinator.com/item?id=43061173) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -171,7 +171,7 @@ NASA为嵌入式软件开发制定了十条规则，旨在确保高可靠性和�
 <small>🔗 [svpow.com](https://svpow.com/2025/02/14/if-you-believe-in-artificial-intelligence-take-five-minutes-to-ask-it-about-stuff-you-know-well/): If you believe in "Artificial Intelligence", take five minutes to ask it</small>
 
 
-| 🔥🔥: 130 \| 💬: [204](https://news.ycombinator.com/item?id=43056831) \| 🗓️ 2025-02-15
+| 🔥🔥: 131 \| 💬: [206](https://news.ycombinator.com/item?id=43056831) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -183,7 +183,7 @@ NASA为嵌入式软件开发制定了十条规则，旨在确保高可靠性和�
 <small>🔗 [microsoft.com](https://www.microsoft.com/en-us/research/uploads/prod/2025/01/lee_2025_ai_critical_thinking_survey.pdf): The Impact of Generative AI on Critical Thinking [pdf]</small>
 
 
-| 🔥🔥: 120 \| 💬: [93](https://news.ycombinator.com/item?id=43057907) \| 🗓️ 2025-02-15
+| 🔥🔥: 120 \| 💬: [94](https://news.ycombinator.com/item?id=43057907) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -195,7 +195,7 @@ NASA为嵌入式软件开发制定了十条规则，旨在确保高可靠性和�
 <small>🔗 [nature.com](https://www.nature.com/articles/s41558-025-02247-8): Twelve months at 1.5 °C signals earlier than expected breach of Paris Agreement</small>
 
 
-| 🔥🔥: 113 \| 💬: [122](https://news.ycombinator.com/item?id=43058311) \| 🗓️ 2025-02-15
+| 🔥🔥: 113 \| 💬: [123](https://news.ycombinator.com/item?id=43058311) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -219,7 +219,7 @@ NASA为嵌入式软件开发制定了十条规则，旨在确保高可靠性和�
 <small>🔗 [nbcnews.com](https://www.nbcnews.com/politics/national-security/trump-administration-wants-un-fire-nuclear-safety-workers-cant-figure-rcna192345): US wants to un-fire nuclear safety workers can't figure out how to reach them</small>
 
 
-| 🔥🔥: 107 \| 💬: [58](https://news.ycombinator.com/item?id=43061481) \| 🗓️ 2025-02-15
+| 🔥🔥: 108 \| 💬: [57](https://news.ycombinator.com/item?id=43061481) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -231,7 +231,7 @@ NASA为嵌入式软件开发制定了十条规则，旨在确保高可靠性和�
 <small>🔗 [insideclimatenews.org](https://insideclimatenews.org/news/10022025/solar-battery-storage-texas-grid/): More Solar and Battery Storage Added to TX Grid Than Other Power Src Last Year</small>
 
 
-| 🔥🔥: 102 \| 💬: [95](https://news.ycombinator.com/item?id=43059826) \| 🗓️ 2025-02-15
+| 🔥🔥: 104 \| 💬: [96](https://news.ycombinator.com/item?id=43059826) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -239,23 +239,11 @@ NASA为嵌入式软件开发制定了十条规则，旨在确保高可靠性和�
 
 ---
 
-## <a name="19"></a>19. 我创建了一个类似Reddit的Bluesky客户端 – 仍在完善中，欢迎提出想法 
-<small>🔗 [threadsky.app](https://threadsky.app/): Show HN: I Built a Reddit-style Bluesky client – still rough, but open to ideas</small>
-
-
-| 🔥: 99 \| 💬: [33](https://news.ycombinator.com/item?id=43058285) \| 🗓️ 2025-02-15
-
-
-<br />
-欢迎来到 **ThreadSky**，这是一个社区驱动的平台，将 **Reddit风格的讨论**带入Bluesky。用户可以加入或创建基于主题的 **社区频道**，并保存最爱的频道以便快速访问。该平台支持跨平台互动，用户可以通过Bluesky账户参与讨论。当前的热门频道包括 **科学、园艺、新闻**和**书籍**等，旨在为用户提供丰富的内容和交流空间。
-
----
-
-## <a name="20"></a>20. PAROL6：3D打印桌面机器人手臂 
+## <a name="19"></a>19. PAROL6：3D打印桌面机器人手臂 
 <small>🔗 [source-robotics.github.io](https://source-robotics.github.io/PAROL-docs/): PAROL6: 3D-printed desktop robotic arm</small>
 
 
-| 🔥: 96 \| 💬: [16](https://news.ycombinator.com/item?id=43060818) \| 🗓️ 2025-02-15
+| 🔥🔥: 104 \| 💬: [16](https://news.ycombinator.com/item?id=43060818) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -263,11 +251,23 @@ PAROL6是一款高性能的**3D打印桌面机器人手臂**，其设计理念�
 
 ---
 
+## <a name="20"></a>20. 我创建了一个类似Reddit的Bluesky客户端 – 仍在完善中，欢迎提出想法 
+<small>🔗 [threadsky.app](https://threadsky.app/): Show HN: I Built a Reddit-style Bluesky client – still rough, but open to ideas</small>
+
+
+| 🔥: 100 \| 💬: [35](https://news.ycombinator.com/item?id=43058285) \| 🗓️ 2025-02-15
+
+
+<br />
+欢迎来到 **ThreadSky**，这是一个社区驱动的平台，将 **Reddit风格的讨论**带入Bluesky。用户可以加入或创建基于主题的 **社区频道**，并保存最爱的频道以便快速访问。该平台支持跨平台互动，用户可以通过Bluesky账户参与讨论。当前的热门频道包括 **科学、园艺、新闻**和**书籍**等，旨在为用户提供丰富的内容和交流空间。
+
+---
+
 ## <a name="21"></a>21. Schemesh: Unix Shell与Lisp REPL的融合 
 <small>🔗 [github.com](https://github.com/cosmos72/schemesh): Schemesh: Fusion between Unix shell and Lisp REPL</small>
 
 
-| 🔥: 96 \| 💬: [22](https://news.ycombinator.com/item?id=43061183) \| 🗓️ 2025-02-15
+| 🔥: 99 \| 💬: [24](https://news.ycombinator.com/item?id=43061183) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -279,7 +279,7 @@ Schemesh是一个将Unix shell与Lisp REPL结合的交互式脚本环境，旨�
 <small>🔗 [scientificamerican.com](https://www.scientificamerican.com/article/why-arent-we-losing-our-minds-over-the-plastic-in-our-brains/): Why aren't we losing our minds over the plastic in our brains?</small>
 
 
-| 🔥: 91 \| 💬: [159](https://news.ycombinator.com/item?id=43060644) \| 🗓️ 2025-02-15
+| 🔥: 92 \| 💬: [159](https://news.ycombinator.com/item?id=43060644) \| 🗓️ 2025-02-15
 
 
 <br />
