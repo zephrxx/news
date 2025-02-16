@@ -27,7 +27,7 @@ tags:
 <small>🔗 [weeks.ginatrapani.org](https://weeks.ginatrapani.org/): My Life in Weeks</small>
 
 
-| 🔥🔥: 388 \| 💬: [124](https://news.ycombinator.com/item?id=43061498) \| 🗓️ 2025-02-15
+| 🔥🔥: 430 \| 💬: [128](https://news.ycombinator.com/item?id=43061498) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [figgie.com](https://www.figgie.com/): Jane Street's Figgie card game</small>
 
 
-| 🔥🔥: 372 \| 💬: [85](https://news.ycombinator.com/item?id=43057344) \| 🗓️ 2025-02-15
+| 🔥🔥: 378 \| 💬: [85](https://news.ycombinator.com/item?id=43057344) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [e360.yale.edu](https://e360.yale.edu/digest/brake-pads-lung-damage-study): Dust from car brakes more harmful than exhaust, study finds</small>
 
 
-| 🔥🔥: 370 \| 💬: [349](https://news.ycombinator.com/item?id=43058993) \| 🗓️ 2025-02-15
+| 🔥🔥: 372 \| 💬: [355](https://news.ycombinator.com/item?id=43058993) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [jellyfin.org](https://jellyfin.org/): Jellyfin: The Free Software Media System</small>
 
 
-| 🔥🔥: 204 \| 💬: [125](https://news.ycombinator.com/item?id=43063167) \| 🗓️ 2025-02-15
+| 🔥🔥: 247 \| 💬: [167](https://news.ycombinator.com/item?id=43063167) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -75,7 +75,7 @@ Jellyfin 是一个 **免费软件** 媒体系统，允许用户收集、管理�
 <small>🔗 [sfstandard.com](https://sfstandard.com/2025/02/14/san-francisco-department-public-health-daniel-tsai-opioids-mckinsey/): New SF public health chief was part of McKinsey opioid-marketing operation</small>
 
 
-| 🔥🔥: 184 \| 💬: [62](https://news.ycombinator.com/item?id=43061482) \| 🗓️ 2025-02-15
+| 🔥🔥: 194 \| 💬: [65](https://news.ycombinator.com/item?id=43061482) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -87,7 +87,7 @@ Jellyfin 是一个 **免费软件** 媒体系统，允许用户收集、管理�
 <small>🔗 [arstechnica.com](https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/): Diablo hackers uncovered a speedrun scandal</small>
 
 
-| 🔥🔥: 169 \| 💬: [95](https://news.ycombinator.com/item?id=43058522) \| 🗓️ 2025-02-15
+| 🔥🔥: 178 \| 💬: [97](https://news.ycombinator.com/item?id=43058522) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -99,7 +99,7 @@ Maciej "Groobo" Maselewski的3分钟12秒速度跑曾被视为无可匹敌，但
 <small>🔗 [taxfoundation.org](https://taxfoundation.org/blog/trump-reciprocal-tariffs-eu-vat-discriminatory/): The European VAT Is Not a Discriminatory Tax Against US Exports</small>
 
 
-| 🔥🔥: 154 \| 💬: [274](https://news.ycombinator.com/item?id=43062457) \| 🗓️ 2025-02-15
+| 🔥🔥: 158 \| 💬: [281](https://news.ycombinator.com/item?id=43062457) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -111,7 +111,7 @@ Maciej "Groobo" Maselewski的3分钟12秒速度跑曾被视为无可匹敌，但
 <small>🔗 [github.com](https://github.com/Goldziher/kreuzberg): Show HN: Kreuzberg – Modern async Python library for document text extraction</small>
 
 
-| 🔥🔥: 150 \| 💬: [56](https://news.ycombinator.com/item?id=43057375) \| 🗓️ 2025-02-15
+| 🔥🔥: 155 \| 💬: [59](https://news.ycombinator.com/item?id=43057375) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -123,7 +123,7 @@ Kreuzberg 是一个用于从多种文档中提取文本的 Python 库，支持 P
 <small>🔗 [newatlas.com](https://newatlas.com/brain/alzheimers-dementia/alzheimers-biomarkers-visible-decade-before-symptoms/): Alzheimer's biomarkers now visible up to a decade ahead of symptoms</small>
 
 
-| 🔥🔥: 131 \| 💬: [38](https://news.ycombinator.com/item?id=43060587) \| 🗓️ 2025-02-15
+| 🔥🔥: 139 \| 💬: [43](https://news.ycombinator.com/item?id=43060587) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -131,7 +131,43 @@ Kreuzberg 是一个用于从多种文档中提取文本的 Python 库，支持 P
 
 ---
 
-## <a name="10"></a>10. 如果你相信“人工智能”，花五分钟问问它 
+## <a name="10"></a>10. 多个俄罗斯威胁行为者针对微软设备代码认证进行攻击 
+<small>🔗 [volexity.com](https://www.volexity.com/blog/2025/02/13/multiple-russian-threat-actors-targeting-microsoft-device-code-authentication/): Multiple Russian Threat Actors Targeting Microsoft Device Code Authentication</small>
+
+
+| 🔥🔥: 131 \| 💬: [25](https://news.ycombinator.com/item?id=43061173) \| 🗓️ 2025-02-15
+
+
+<br />
+多个俄罗斯威胁行为者正在通过**社交工程**和**鱼叉式钓鱼**活动，针对组织进行攻击，目标是通过设备代码认证来入侵微软365账户。这些攻击通常以伪装成美国国务院、乌克兰国防部等机构的身份进行，利用政治主题吸引目标用户。攻击者通过发送伪造的会议邀请和链接，诱使受害者输入设备代码，从而获得长期访问权限。Volexity追踪到的活动显示，攻击者使用了不同的基础设施和手段，但都采用了设备代码认证这一相对不常见的攻击方式。
+
+---
+
+## <a name="11"></a>11. NASA的软件开发十条规则 
+<small>🔗 [cs.otago.ac.nz](https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm): NASA has a list of 10 rules for software development</small>
+
+
+| 🔥🔥: 131 \| 💬: [78](https://news.ycombinator.com/item?id=43061977) \| 🗓️ 2025-02-15
+
+
+<br />
+NASA为嵌入式软件开发制定了十条规则，旨在确保高可靠性和安全性。这些规则强调**简单的控制流**、**固定的循环上限**和**不使用动态内存分配**等原则。然而，这些规则在不同的编程语言和上下文中可能并不适用。作者质疑这些规则的普遍性，并指出在现代编程中，**函数长度**和**断言密度**等要求也需要重新审视。
+
+---
+
+## <a name="12"></a>12. 狐狸的噪音问题 
+<small>🔗 [h.43z.one](https://h.43z.one/blog/2025-02-12/): Watt The Fox?</small>
+
+
+| 🔥🔥: 129 \| 💬: [25](https://news.ycombinator.com/item?id=43062546) \| 🗓️ 2025-02-15
+
+
+<br />
+在使用Firefox时，作者发现浏览器在某些网站上会导致**白噪音**和**电池消耗**增加，尤其是当网页使用WebAudio API时。尽管Firefox未能自动暂停音频上下文，作者开发了一个扩展程序来解决这一问题，旨在自动挂起音频上下文以节省资源。
+
+---
+
+## <a name="13"></a>13. 如果你相信“人工智能”，花五分钟问问它 
 <small>🔗 [svpow.com](https://svpow.com/2025/02/14/if-you-believe-in-artificial-intelligence-take-five-minutes-to-ask-it-about-stuff-you-know-well/): If you believe in "Artificial Intelligence", take five minutes to ask it</small>
 
 
@@ -143,19 +179,7 @@ Kreuzberg 是一个用于从多种文档中提取文本的 Python 库，支持 P
 
 ---
 
-## <a name="11"></a>11. 多个俄罗斯威胁行为者针对微软设备代码认证进行攻击 
-<small>🔗 [volexity.com](https://www.volexity.com/blog/2025/02/13/multiple-russian-threat-actors-targeting-microsoft-device-code-authentication/): Multiple Russian Threat Actors Targeting Microsoft Device Code Authentication</small>
-
-
-| 🔥🔥: 126 \| 💬: [20](https://news.ycombinator.com/item?id=43061173) \| 🗓️ 2025-02-15
-
-
-<br />
-多个俄罗斯威胁行为者正在通过**社交工程**和**鱼叉式钓鱼**活动，针对组织进行攻击，目标是通过设备代码认证来入侵微软365账户。这些攻击通常以伪装成美国国务院、乌克兰国防部等机构的身份进行，利用政治主题吸引目标用户。攻击者通过发送伪造的会议邀请和链接，诱使受害者输入设备代码，从而获得长期访问权限。Volexity追踪到的活动显示，攻击者使用了不同的基础设施和手段，但都采用了设备代码认证这一相对不常见的攻击方式。
-
----
-
-## <a name="12"></a>12. 生成性人工智能对批判性思维的影响 
+## <a name="14"></a>14. 生成性人工智能对批判性思维的影响 
 <small>🔗 [microsoft.com](https://www.microsoft.com/en-us/research/uploads/prod/2025/01/lee_2025_ai_critical_thinking_survey.pdf): The Impact of Generative AI on Critical Thinking [pdf]</small>
 
 
@@ -167,23 +191,11 @@ Kreuzberg 是一个用于从多种文档中提取文本的 Python 库，支持 P
 
 ---
 
-## <a name="13"></a>13. NASA的软件开发十条规则 
-<small>🔗 [cs.otago.ac.nz](https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm): NASA has a list of 10 rules for software development</small>
-
-
-| 🔥🔥: 118 \| 💬: [74](https://news.ycombinator.com/item?id=43061977) \| 🗓️ 2025-02-15
-
-
-<br />
-NASA为嵌入式软件开发制定了十条规则，旨在确保高可靠性和安全性。这些规则强调**简单的控制流**、**固定的循环上限**和**不使用动态内存分配**等原则。然而，这些规则在不同的编程语言和上下文中可能并不适用。作者质疑这些规则的普遍性，并指出在现代编程中，**函数长度**和**断言密度**等要求也需要重新审视。
-
----
-
-## <a name="14"></a>14. 全球气温连续12个月超过1.5°C，预示巴黎协议目标提前被突破 
+## <a name="15"></a>15. 全球气温连续12个月超过1.5°C，预示巴黎协议目标提前被突破 
 <small>🔗 [nature.com](https://www.nature.com/articles/s41558-025-02247-8): Twelve months at 1.5 °C signals earlier than expected breach of Paris Agreement</small>
 
 
-| 🔥🔥: 112 \| 💬: [120](https://news.ycombinator.com/item?id=43058311) \| 🗓️ 2025-02-15
+| 🔥🔥: 113 \| 💬: [121](https://news.ycombinator.com/item?id=43058311) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -191,11 +203,11 @@ NASA为嵌入式软件开发制定了十条规则，旨在确保高可靠性和�
 
 ---
 
-## <a name="15"></a>15. 亚马逊将取消下载和备份Kindle书籍的功能 
+## <a name="16"></a>16. 亚马逊将取消下载和备份Kindle书籍的功能 
 <small>🔗 [theverge.com](https://www.theverge.com/news/612898/amazon-removing-kindle-book-download-transfer-usb): Amazon's killing a feature that let you download and backup Kindle books</small>
 
 
-| 🔥🔥: 110 \| 💬: [95](https://news.ycombinator.com/item?id=43058889) \| 🗓️ 2025-02-15
+| 🔥🔥: 110 \| 💬: [96](https://news.ycombinator.com/item?id=43058889) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -203,35 +215,11 @@ NASA为嵌入式软件开发制定了十条规则，旨在确保高可靠性和�
 
 ---
 
-## <a name="16"></a>16. 狐狸的噪音问题 
-<small>🔗 [h.43z.one](https://h.43z.one/blog/2025-02-12/): Watt The Fox?</small>
-
-
-| 🔥🔥: 110 \| 💬: [22](https://news.ycombinator.com/item?id=43062546) \| 🗓️ 2025-02-15
-
-
-<br />
-在使用Firefox时，作者发现浏览器在某些网站上会导致**白噪音**和**电池消耗**增加，尤其是当网页使用WebAudio API时。尽管Firefox未能自动暂停音频上下文，作者开发了一个扩展程序来解决这一问题，旨在自动挂起音频上下文以节省资源。
-
----
-
-## <a name="17"></a>17. 德克萨斯州电网新增太阳能和电池储能容量超其他能源来源 
-<small>🔗 [insideclimatenews.org](https://insideclimatenews.org/news/10022025/solar-battery-storage-texas-grid/): More Solar and Battery Storage Added to TX Grid Than Other Power Src Last Year</small>
-
-
-| 🔥🔥: 102 \| 💬: [92](https://news.ycombinator.com/item?id=43059826) \| 🗓️ 2025-02-15
-
-
-<br />
-德克萨斯州的电网在2023年和2024年大幅增加了**太阳能**和**电池储能**的容量，分别新增了4,570和9,700兆瓦的太阳能，以及1,500和4,374兆瓦的电池储能。尽管历史上依赖**天然气**，但随着可再生能源的快速发展，ERCOT正在寻求升级其传输系统，以应对不断增长的电力需求和可再生能源的接入。
-
----
-
-## <a name="18"></a>18. 美国试图重新雇用被解雇的核安全工作人员但联系不上他们 
+## <a name="17"></a>17. 美国试图重新雇用被解雇的核安全工作人员但联系不上他们 
 <small>🔗 [nbcnews.com](https://www.nbcnews.com/politics/national-security/trump-administration-wants-un-fire-nuclear-safety-workers-cant-figure-rcna192345): US wants to un-fire nuclear safety workers can't figure out how to reach them</small>
 
 
-| 🔥: 100 \| 💬: [55](https://news.ycombinator.com/item?id=43061481) \| 🗓️ 2025-02-15
+| 🔥🔥: 105 \| 💬: [57](https://news.ycombinator.com/item?id=43061481) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -239,11 +227,23 @@ NASA为嵌入式软件开发制定了十条规则，旨在确保高可靠性和�
 
 ---
 
+## <a name="18"></a>18. 德克萨斯州电网新增太阳能和电池储能容量超其他能源来源 
+<small>🔗 [insideclimatenews.org](https://insideclimatenews.org/news/10022025/solar-battery-storage-texas-grid/): More Solar and Battery Storage Added to TX Grid Than Other Power Src Last Year</small>
+
+
+| 🔥🔥: 102 \| 💬: [94](https://news.ycombinator.com/item?id=43059826) \| 🗓️ 2025-02-15
+
+
+<br />
+德克萨斯州的电网在2023年和2024年大幅增加了**太阳能**和**电池储能**的容量，分别新增了4,570和9,700兆瓦的太阳能，以及1,500和4,374兆瓦的电池储能。尽管历史上依赖**天然气**，但随着可再生能源的快速发展，ERCOT正在寻求升级其传输系统，以应对不断增长的电力需求和可再生能源的接入。
+
+---
+
 ## <a name="19"></a>19. 我创建了一个类似Reddit的Bluesky客户端 – 仍在完善中，欢迎提出想法 
 <small>🔗 [threadsky.app](https://threadsky.app/): Show HN: I Built a Reddit-style Bluesky client – still rough, but open to ideas</small>
 
 
-| 🔥: 96 \| 💬: [27](https://news.ycombinator.com/item?id=43058285) \| 🗓️ 2025-02-15
+| 🔥: 97 \| 💬: [29](https://news.ycombinator.com/item?id=43058285) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -255,7 +255,7 @@ NASA为嵌入式软件开发制定了十条规则，旨在确保高可靠性和�
 <small>🔗 [scientificamerican.com](https://www.scientificamerican.com/article/why-arent-we-losing-our-minds-over-the-plastic-in-our-brains/): Why aren't we losing our minds over the plastic in our brains?</small>
 
 
-| 🔥: 89 \| 💬: [158](https://news.ycombinator.com/item?id=43060644) \| 🗓️ 2025-02-15
+| 🔥: 90 \| 💬: [158](https://news.ycombinator.com/item?id=43060644) \| 🗓️ 2025-02-15
 
 
 <br />
@@ -263,7 +263,31 @@ NASA为嵌入式软件开发制定了十条规则，旨在确保高可靠性和�
 
 ---
 
-## <a name="21"></a>21. 波兰最大报纸退出推特，转向Bluesky 
+## <a name="21"></a>21. PAROL6：3D打印桌面机器人手臂 
+<small>🔗 [source-robotics.github.io](https://source-robotics.github.io/PAROL-docs/): PAROL6: 3D-printed desktop robotic arm</small>
+
+
+| 🔥: 89 \| 💬: [13](https://news.ycombinator.com/item?id=43060818) \| 🗓️ 2025-02-15
+
+
+<br />
+PAROL6是一款高性能的**3D打印桌面机器人手臂**，其设计理念与工业机器人相似，涵盖了机械设计、控制软件和可用性。所有控制软件、GUI及STL文件均为**开源**，用户可通过Github上的说明自行构建PAROL6。该机器人适用于教育机构、机器人爱好者及小规模自动化应用，提供学习和探索的机会。Source Robotics不对因不当使用而导致的事故或损害承担责任。所有代码和构建说明均遵循GPLv3许可证。
+
+---
+
+## <a name="22"></a>22. Schemesh: Unix Shell与Lisp REPL的融合 
+<small>🔗 [github.com](https://github.com/cosmos72/schemesh): Schemesh: Fusion between Unix shell and Lisp REPL</small>
+
+
+| 🔥: 85 \| 💬: [19](https://news.ycombinator.com/item?id=43061183) \| 🗓️ 2025-02-15
+
+
+<br />
+Schemesh是一个将Unix shell与Lisp REPL结合的交互式脚本环境，旨在替代传统的shell如bash和zsh。它支持**交互式行编辑**、**自动补全**和**历史记录**，并允许用户在Lisp和shell语法之间轻松切换。Schemesh利用Chez Scheme编译器，提供高效的Lisp REPL，用户可以通过Lisp控制结构执行shell命令，极大提升了脚本编写的灵活性和效率。
+
+---
+
+## <a name="23"></a>23. 波兰最大报纸退出推特，转向Bluesky 
 <small>🔗 [bsky.app](https://bsky.app/profile/blueskywins.bsky.social/post/3li7rxl3o2c2t): Gazeta Wyborcza, Poland's largest newspaper quits X, now on Bluesky</small>
 
 
@@ -272,29 +296,5 @@ NASA为嵌入式软件开发制定了十条规则，旨在确保高可靠性和�
 
 <br />
 波兰最大的报纸**Gazeta Wyborcza**宣布退出推特（X），并将其社交媒体活动转向**Bluesky**。该报在推特上拥有约**89万**的关注者，转移至Bluesky标志着其对新平台的探索。Bluesky被认为是一个更具互动性的社交网络，旨在提供更好的用户体验。
-
----
-
-## <a name="22"></a>22. PAROL6：3D打印桌面机器人手臂 
-<small>🔗 [source-robotics.github.io](https://source-robotics.github.io/PAROL-docs/): PAROL6: 3D-printed desktop robotic arm</small>
-
-
-| 🔥: 82 \| 💬: [10](https://news.ycombinator.com/item?id=43060818) \| 🗓️ 2025-02-15
-
-
-<br />
-PAROL6是一款高性能的**3D打印桌面机器人手臂**，其设计理念与工业机器人相似，涵盖了机械设计、控制软件和可用性。所有控制软件、GUI及STL文件均为**开源**，用户可通过Github上的说明自行构建PAROL6。该机器人适用于教育机构、机器人爱好者及小规模自动化应用，提供学习和探索的机会。Source Robotics不对因不当使用而导致的事故或损害承担责任。所有代码和构建说明均遵循GPLv3许可证。
-
----
-
-## <a name="23"></a>23. Schemesh: Unix Shell与Lisp REPL的融合 
-<small>🔗 [github.com](https://github.com/cosmos72/schemesh): Schemesh: Fusion between Unix shell and Lisp REPL</small>
-
-
-| 🔥: 79 \| 💬: [17](https://news.ycombinator.com/item?id=43061183) \| 🗓️ 2025-02-15
-
-
-<br />
-Schemesh是一个将Unix shell与Lisp REPL结合的交互式脚本环境，旨在替代传统的shell如bash和zsh。它支持**交互式行编辑**、**自动补全**和**历史记录**，并允许用户在Lisp和shell语法之间轻松切换。Schemesh利用Chez Scheme编译器，提供高效的Lisp REPL，用户可以通过Lisp控制结构执行shell命令，极大提升了脚本编写的灵活性和效率。
 
 ---
