@@ -12,7 +12,7 @@ tags:
 1. 《半条命2》和《无主之地》艺术总监维克托·安东诺夫去世；
 1. 亚马逊将在2月26日取消下载和传输选项；
 1. 美国停电地图；
-1. 旅行技巧五十年；
+1. 跳蚤显微镜：仅需18美元的USB示波器、逻辑分析仪及更多功能；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [caddyserver.com](https://caddyserver.com/): Caddy – The Ultimate Server with Automatic HTTPS</small>
 
 
-| 🔥🔥: 422 \| 💬: [150](https://news.ycombinator.com/item?id=43070025) \| 🗓️ 2025-02-16
+| 🔥🔥: 438 \| 💬: [160](https://news.ycombinator.com/item?id=43070025) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -39,7 +39,7 @@ Caddy 默认为所有网站自动获取和续订 TLS 证书，支持 **On-Demand
 <small>🔗 [eurogamer.net](https://www.eurogamer.net/half-life-2-and-dishonored-art-lead-viktor-antonov-dies-aged-just-52): Half-Life 2 and Dishonored art lead Viktor Antonov has died</small>
 
 
-| 🔥🔥: 320 \| 💬: [57](https://news.ycombinator.com/item?id=43069514) \| 🗓️ 2025-02-16
+| 🔥🔥: 355 \| 💬: [66](https://news.ycombinator.com/item?id=43069514) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -51,7 +51,7 @@ Caddy 默认为所有网站自动获取和续订 TLS 证书，支持 **On-Demand
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/kindle/comments/1inr9uy/fyi_amazon_is_removing_download_transfer_option/): Kindle is removing download and transfer option on Feb 26th</small>
 
 
-| 🔥🔥: 276 \| 💬: [163](https://news.ycombinator.com/item?id=43070155) \| 🗓️ 2025-02-16
+| 🔥🔥: 290 \| 💬: [168](https://news.ycombinator.com/item?id=43070155) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -63,7 +63,7 @@ Caddy 默认为所有网站自动获取和续订 TLS 证书，支持 **On-Demand
 <small>🔗 [poweroutage.us](https://poweroutage.us/): United States Power Outage Map</small>
 
 
-| 🔥🔥: 231 \| 💬: [117](https://news.ycombinator.com/item?id=43069399) \| 🗓️ 2025-02-16
+| 🔥🔥: 242 \| 💬: [118](https://news.ycombinator.com/item?id=43069399) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -71,23 +71,11 @@ PowerOutage.us是一个持续更新的项目，旨在**跟踪**、**记录**和*
 
 ---
 
-## <a name="5"></a>5. 旅行技巧五十年 
-<small>🔗 [kk.org](https://kk.org/thetechnium/50-years-of-travel-tips/): 50 Years of Travel Tips</small>
-
-
-| 🔥🔥: 219 \| 💬: [170](https://news.ycombinator.com/item?id=43066720) \| 🗓️ 2025-02-16
-
-
-<br />
-经过五十年的旅行，我总结了两种旅行模式：**休闲**和**体验**。我建议围绕个人的**热情**而非目的地来规划行程，尝试与当地人互动，享受街头美食，减少行李重量以提升灵活性。选择旅行伙伴时，避免抱怨者，尽量保持开放的心态，接受不完美的旅行经历。
-
----
-
-## <a name="6"></a>6. 跳蚤显微镜：仅需18美元的USB示波器、逻辑分析仪及更多功能 
+## <a name="5"></a>5. 跳蚤显微镜：仅需18美元的USB示波器、逻辑分析仪及更多功能 
 <small>🔗 [rtestardi.github.io](https://rtestardi.github.io/usbte/flea-scope.pdf): Flea-Scope: $18 Source Available USB Oscilloscope, Logic Analyzer and More [pdf]</small>
 
 
-| 🔥🔥: 211 \| 💬: [79](https://news.ycombinator.com/item?id=43068585) \| 🗓️ 2025-02-16
+| 🔥🔥: 227 \| 💬: [82](https://news.ycombinator.com/item?id=43068585) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -95,11 +83,23 @@ PowerOutage.us是一个持续更新的项目，旨在**跟踪**、**记录**和*
 
 ---
 
+## <a name="6"></a>6. 旅行技巧五十年 
+<small>🔗 [kk.org](https://kk.org/thetechnium/50-years-of-travel-tips/): 50 Years of Travel Tips</small>
+
+
+| 🔥🔥: 225 \| 💬: [175](https://news.ycombinator.com/item?id=43066720) \| 🗓️ 2025-02-16
+
+
+<br />
+经过五十年的旅行，我总结了两种旅行模式：**休闲**和**体验**。我建议围绕个人的**热情**而非目的地来规划行程，尝试与当地人互动，享受街头美食，减少行李重量以提升灵活性。选择旅行伙伴时，避免抱怨者，尽量保持开放的心态，接受不完美的旅行经历。
+
+---
+
 ## <a name="7"></a>7. Vim的未来：核心维护者如何持续发展 
 <small>🔗 [thenewstack.io](https://thenewstack.io/vim-after-bram-a-core-maintainer-on-how-theyve-kept-it-going/): Vim after Bram: a core maintainer on how they've kept it going</small>
 
 
-| 🔥🔥: 178 \| 💬: [48](https://news.ycombinator.com/item?id=43068884) \| 🗓️ 2025-02-16
+| 🔥🔥: 183 \| 💬: [51](https://news.ycombinator.com/item?id=43068884) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -111,7 +111,7 @@ PowerOutage.us是一个持续更新的项目，旨在**跟踪**、**记录**和*
 <small>🔗 [ssp.sh](https://www.ssp.sh/blog/finding-flow/): Finding Flow: Escaping digital distractions through deep work and slow living</small>
 
 
-| 🔥🔥: 169 \| 💬: [59](https://news.ycombinator.com/item?id=43067303) \| 🗓️ 2025-02-16
+| 🔥🔥: 173 \| 💬: [62](https://news.ycombinator.com/item?id=43067303) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -119,59 +119,11 @@ PowerOutage.us是一个持续更新的项目，旨在**跟踪**、**记录**和*
 
 ---
 
-## <a name="9"></a>9. Rust 正在取代 JavaScript 
-<small>🔗 [leerob.com](https://leerob.com/n/rust): Rust Is Eating JavaScript (2023)</small>
-
-
-| 🔥🔥: 111 \| 💬: [213](https://news.ycombinator.com/item?id=43067585) \| 🗓️ 2025-02-16
-
-
-<br />
-Rust 是一种快速、可靠且内存高效的编程语言，近年来被广泛应用于替代 JavaScript 生态系统中的多个工具，如 **minification**、**transpilation** 和 **linting**。Rust 的内存管理通过“所有权”机制确保代码安全，减少运行时内存错误。尽管 Rust 的学习曲线较陡，但其在性能和开发效率上的优势使其在 JavaScript 工具链中越来越受到重视。随着 Rust 和 WebAssembly 的发展，未来的 JavaScript 开发工具将可能实现更高的性能和更好的用户体验。
-
----
-
-## <a name="10"></a>10. 大科技破坏了社会契约 
-<small>🔗 [basedfob.substack.com](https://basedfob.substack.com/p/big-tech-has-disrupted-the-social): Big tech has disrupted the social contract</small>
-
-
-| 🔥🔥: 111 \| 💬: [60](https://news.ycombinator.com/item?id=43071213) \| 🗓️ 2025-02-16
-
-
-<br />
-大科技公司通过共享经济的模式，导致了服务质量的下降和消费者的困扰。Eddie Huang分享了他在Turo租车的糟糕经历，遇到车辆注册被暂停和虚假收费的问题。他指出，虽然这些平台让个人可以像企业一样运营，但缺乏必要的责任和监管，最终让消费者面临风险和不便。
-
----
-
-## <a name="11"></a>11. 我为何离开Elm（2020） 
-<small>🔗 [lukeplant.me.uk](https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/): Why I'm leaving Elm (2020)</small>
-
-
-| 🔥: 88 \| 💬: [72](https://news.ycombinator.com/item?id=43069475) \| 🗓️ 2025-02-16
-
-
-<br />
-在过去的一年里，我不得不做出离开**Elm**的决定，转向其他语言，主要是因为**领导层的行为**。尽管Elm在技术上有其优点，但我在与核心团队的互动中遇到了许多问题，尤其是对**本地模块的限制**让我感到沮丧。此外，Elm的开发过程缺乏透明度，导致我对其**开源**的承诺产生了怀疑。最终，我意识到在这个社区中，良好的关系至关重要，而我已经失去了这个机会。
-
----
-
-## <a name="12"></a>12. IPv6 并不难 
-<small>🔗 [techlog.jenslink.net](https://techlog.jenslink.net/posts/ipv6-is-hard/): IPv6 Is Hard</small>
-
-
-| 🔥: 82 \| 💬: [145](https://news.ycombinator.com/item?id=43069533) \| 🗓️ 2025-02-16
-
-
-<br />
-IPv6 实际上是“不同”的，而非“难”。许多网站仍然只支持 IPv4，尽管它们有 AAAA 记录。浏览器的 **Happy Eyeballs** 功能可以自动选择更快的协议，这掩盖了 IPv6 的问题。若不认真对待 IPv6，可能导致用户误认为它难以实现。
-
----
-
-## <a name="13"></a>13. Uchū · 网络爱好者的色彩方案 
+## <a name="9"></a>9. Uchū · 网络爱好者的色彩方案 
 <small>🔗 [uchu.style](https://uchu.style): Uchū · the color scheme for internet lovers</small>
 
 
-| 🔥: 78 \| 💬: [27](https://news.ycombinator.com/item?id=43072338) \| 🗓️ 2025-02-16
+| 🔥🔥: 151 \| 💬: [60](https://news.ycombinator.com/item?id=43072338) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -179,83 +131,59 @@ Uchū 是由 NetOperator Wibby 提供的色彩方案，专为网络爱好者设�
 
 ---
 
-## <a name="14"></a>14. 谷歌为取消AI承诺和DEI目标辩护 
-<small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/feb/12/google-all-staff-meeting-ai-dei): Google defends scrapping AI pledges and DEI goals in all-staff meeting</small>
+## <a name="10"></a>10. 大科技破坏了社会契约 
+<small>🔗 [basedfob.substack.com](https://basedfob.substack.com/p/big-tech-has-disrupted-the-social): Big tech has disrupted the social contract</small>
 
 
-| 🔥: 77 \| 💬: [84](https://news.ycombinator.com/item?id=43072416) \| 🗓️ 2025-02-16
-
-
-<br />
-谷歌高管在全员会议上解释了公司取消多样性和包容性（DEI）计划的决定，并辩护于不再遵循反对武器化人工智能的承诺。**梅洛妮·帕克**表示，DEI培训项目将被淘汰，**桑达尔·皮查伊**强调公司需遵循法律法规。此举引发员工的不满，许多人质疑公司如何确保AI不被滥用。
-
----
-
-## <a name="15"></a>15. 日本的争议性粗犷建筑：声明还是眼中钉？ 
-<small>🔗 [theguardian.com](https://www.theguardian.com/artanddesign/gallery/2025/jan/29/japan-brutalist-buildings-in-pictures): Statement or eyesore? Japan's divisive brutalist buildings – in pictures</small>
-
-
-| 🔥: 68 \| 💬: [30](https://news.ycombinator.com/item?id=43067378) \| 🗓️ 2025-02-16
+| 🔥🔥: 117 \| 💬: [73](https://news.ycombinator.com/item?id=43071213) \| 🗓️ 2025-02-16
 
 
 <br />
-日本的**粗犷主义建筑**在二战后兴起，以几何形状、功能性和不拘一格的混凝土使用为特征。尽管在日本本土并不引起争议，但在国际上却存在分歧。建筑师保罗·图莱特在日本各地拍摄了这些建筑，认为它们反映了对自然和社会的回应。尤其在冲绳，粗犷主义建筑因应台风和地震的需求而广泛使用，成为当地建筑的一部分。尽管一些人将其视为政府权力的象征，但也有人欣赏其原始和真实的美感。通过对这些建筑的探索，图莱特希望挑战人们对粗犷主义的刻板印象，促使人们更深入地理解和欣赏这一建筑风格。
+大科技公司通过共享经济的模式，导致了服务质量的下降和消费者的困扰。Eddie Huang分享了他在Turo租车的糟糕经历，遇到车辆注册被暂停和虚假收费的问题。他指出，虽然这些平台让个人可以像企业一样运营，但缺乏必要的责任和监管，最终让消费者面临风险和不便。
 
 ---
 
-## <a name="16"></a>16. 机场空中交通控制广播与放松音乐助力专注 
-<small>🔗 [chillyatc.com](https://www.chillyatc.com/): Show HN: Air traffic control radio and chill music for focus</small>
+## <a name="11"></a>11. Rust 正在取代 JavaScript 
+<small>🔗 [leerob.com](https://leerob.com/n/rust): Rust Is Eating JavaScript (2023)</small>
 
 
-| 🔥: 65 \| 💬: [51](https://news.ycombinator.com/item?id=43071934) \| 🗓️ 2025-02-16
+| 🔥🔥: 111 \| 💬: [214](https://news.ycombinator.com/item?id=43067585) \| 🗓️ 2025-02-16
 
 
 <br />
-这款应用结合了**空中交通控制广播**和**放松音乐**，旨在帮助用户提高专注力。用户可以选择不同的机场，如**旧金山国际机场**，享受实时的塔台音频和轻松的背景音乐，创造一个理想的工作或学习环境。
+Rust 是一种快速、可靠且内存高效的编程语言，近年来被广泛应用于替代 JavaScript 生态系统中的多个工具，如 **minification**、**transpilation** 和 **linting**。Rust 的内存管理通过“所有权”机制确保代码安全，减少运行时内存错误。尽管 Rust 的学习曲线较陡，但其在性能和开发效率上的优势使其在 JavaScript 工具链中越来越受到重视。随着 Rust 和 WebAssembly 的发展，未来的 JavaScript 开发工具将可能实现更高的性能和更好的用户体验。
 
 ---
 
-## <a name="17"></a>17. 重新思考C语言时间API 
-<small>🔗 [oliverkwebb.github.io](https://oliverkwebb.github.io/articles/newtime/): Rethinking the C Time API</small>
+## <a name="12"></a>12. IPv6 并不难 
+<small>🔗 [techlog.jenslink.net](https://techlog.jenslink.net/posts/ipv6-is-hard/): IPv6 Is Hard</small>
 
 
-| 🔥: 63 \| 💬: [72](https://news.ycombinator.com/item?id=43068283) \| 🗓️ 2025-02-16
+| 🔥: 95 \| 💬: [160](https://news.ycombinator.com/item?id=43069533) \| 🗓️ 2025-02-16
 
 
 <br />
-C语言的时间API存在许多遗留问题，设计决策过时，导致使用不便。代码示例显示了如何打印当前时间，暴露了如`time()`和`strftime()`等函数的设计缺陷。文章提出了新的时间库概念，旨在解决这些问题，改进时间处理的灵活性和精确度，尤其是在处理**纳秒**和**时区**时。通过创建新的数据结构和函数，作者希望提供更优雅的解决方案，反映出C语言时间API的潜在改进方向。
+IPv6 实际上是“不同”的，而非“难”。许多网站仍然只支持 IPv4，尽管它们有 AAAA 记录。浏览器的 **Happy Eyeballs** 功能可以自动选择更快的协议，这掩盖了 IPv6 的问题。若不认真对待 IPv6，可能导致用户误认为它难以实现。
 
 ---
 
-## <a name="18"></a>18. 未婚男性的哲学思考 
-<small>🔗 [aeon.co](https://aeon.co/essays/for-mary-midgley-philosophy-must-be-entangled-in-daily-life): So Many Unmarried Men</small>
+## <a name="13"></a>13. 我为何离开Elm（2020） 
+<small>🔗 [lukeplant.me.uk](https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/): Why I'm leaving Elm (2020)</small>
 
 
-| 🔥: 63 \| 💬: [101](https://news.ycombinator.com/item?id=43068337) \| 🗓️ 2025-02-16
+| 🔥: 89 \| 💬: [72](https://news.ycombinator.com/item?id=43069475) \| 🗓️ 2025-02-16
 
 
 <br />
-在1950年代，哲学家**玛丽·米德利**指出，历史上大多数著名哲学家都是未婚男性，这一观点在当时被视为“琐碎”的干扰。尽管她的观点未被广泛认可，但她认为这反映了哲学的本质。米德利的观察揭示了哲学与人际关系的脱节，认为缺乏与女性和家庭的生活经验可能导致哲学的**抽象性**和**孤立性**。她的思想在当今仍具有重要意义，促使我们重新审视哲学的定义及其与人类生活的关系。
+在过去的一年里，我不得不做出离开**Elm**的决定，转向其他语言，主要是因为**领导层的行为**。尽管Elm在技术上有其优点，但我在与核心团队的互动中遇到了许多问题，尤其是对**本地模块的限制**让我感到沮丧。此外，Elm的开发过程缺乏透明度，导致我对其**开源**的承诺产生了怀疑。最终，我意识到在这个社区中，良好的关系至关重要，而我已经失去了这个机会。
 
 ---
 
-## <a name="19"></a>19. 德克萨斯电网可靠性仍存疑虑 
-<small>🔗 [npr.org](https://www.npr.org/2025/02/14/nx-s1-5289877/texas-power-grid-after-outage): Doubts remain over reliability of Texas power grid</small>
-
-
-| 🔥: 63 \| 💬: [64](https://news.ycombinator.com/item?id=43069424) \| 🗓️ 2025-02-16
-
-
-<br />
-尽管德克萨斯州在2021年致命停电后声称电网有所改善，但**对电网的可靠性依然存在疑虑**。州长阿博特强调新建天然气电厂的必要性，但由于德克萨斯州缺乏与邻近电网的连接，**能源需求的增长必须依赖于本州的发电能力**。分析师指出，尽管电网在某些方面有所进步，但仍需更多的努力来提高能源效率和确保天然气供应。随着极端天气的频繁发生，许多德克萨斯居民仍感到不安。
-
----
-
-## <a name="20"></a>20. 谷歌新规则被批将利润置于隐私之上 
+## <a name="14"></a>14. 谷歌新规则被批将利润置于隐私之上 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/cm21g0052dno): Critics say new Google rules put profits over privacy</small>
 
 
-| 🔥: 62 \| 💬: [30](https://news.ycombinator.com/item?id=43071506) \| 🗓️ 2025-02-16
+| 🔥: 84 \| 💬: [43](https://news.ycombinator.com/item?id=43071506) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -263,11 +191,107 @@ C语言的时间API存在许多遗留问题，设计决策过时，导致使用�
 
 ---
 
-## <a name="21"></a>21. TikTok禁令背后的真相：以色列而非中国 
+## <a name="15"></a>15. 谷歌为取消AI承诺和DEI目标辩护 
+<small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/feb/12/google-all-staff-meeting-ai-dei): Google defends scrapping AI pledges and DEI goals in all-staff meeting</small>
+
+
+| 🔥: 82 \| 💬: [109](https://news.ycombinator.com/item?id=43072416) \| 🗓️ 2025-02-16
+
+
+<br />
+谷歌高管在全员会议上解释了公司取消多样性和包容性（DEI）计划的决定，并辩护于不再遵循反对武器化人工智能的承诺。**梅洛妮·帕克**表示，DEI培训项目将被淘汰，**桑达尔·皮查伊**强调公司需遵循法律法规。此举引发员工的不满，许多人质疑公司如何确保AI不被滥用。
+
+---
+
+## <a name="16"></a>16. 机场空中交通控制广播与放松音乐助力专注 
+<small>🔗 [chillyatc.com](https://www.chillyatc.com/): Show HN: Air traffic control radio and chill music for focus</small>
+
+
+| 🔥: 77 \| 💬: [57](https://news.ycombinator.com/item?id=43071934) \| 🗓️ 2025-02-16
+
+
+<br />
+这款应用结合了**空中交通控制广播**和**放松音乐**，旨在帮助用户提高专注力。用户可以选择不同的机场，如**旧金山国际机场**，享受实时的塔台音频和轻松的背景音乐，创造一个理想的工作或学习环境。
+
+---
+
+## <a name="17"></a>17. 日本的争议性粗犷建筑：声明还是眼中钉？ 
+<small>🔗 [theguardian.com](https://www.theguardian.com/artanddesign/gallery/2025/jan/29/japan-brutalist-buildings-in-pictures): Statement or eyesore? Japan's divisive brutalist buildings – in pictures</small>
+
+
+| 🔥: 70 \| 💬: [30](https://news.ycombinator.com/item?id=43067378) \| 🗓️ 2025-02-16
+
+
+<br />
+日本的**粗犷主义建筑**在二战后兴起，以几何形状、功能性和不拘一格的混凝土使用为特征。尽管在日本本土并不引起争议，但在国际上却存在分歧。建筑师保罗·图莱特在日本各地拍摄了这些建筑，认为它们反映了对自然和社会的回应。尤其在冲绳，粗犷主义建筑因应台风和地震的需求而广泛使用，成为当地建筑的一部分。尽管一些人将其视为政府权力的象征，但也有人欣赏其原始和真实的美感。通过对这些建筑的探索，图莱特希望挑战人们对粗犷主义的刻板印象，促使人们更深入地理解和欣赏这一建筑风格。
+
+---
+
+## <a name="18"></a>18. 哈维尔·米莱对44亿美元的Memecoin进行回撤，因“内部人士”获利8700万 
+<small>🔗 [coindesk.com](https://www.coindesk.com/business/2025/02/15/javier-milei-backtracks-on-usd4-4b-memecoin-after-insiders-pocket-usd87m): Javier Milei Backtracks on $4.4B Memecoin After 'Insiders' Pocket $87M</small>
+
+
+| 🔥: 68 \| 💬: [45](https://news.ycombinator.com/item?id=43072790) \| 🗓️ 2025-02-16
+
+
+<br />
+阿根廷总统**哈维尔·米莱**在推特上推广了一种名为**Libra**的Memecoin，导致其市值一度达到**44亿美元**，但随后暴跌95%。米莱在删除推文后表示，他对该项目的细节并不知情。Libra在短短40分钟内上涨超过2000%，但随后由于早期持有者的抛售，造成零售投资者损失超过45亿美元。米莱强调他与该项目没有关联，并在了解情况后决定不再宣传。此事件对整个Memecoin市场产生了连锁反应，导致其他代币也遭遇损失。
+
+---
+
+## <a name="19"></a>19. 德克萨斯电网可靠性仍存疑虑 
+<small>🔗 [npr.org](https://www.npr.org/2025/02/14/nx-s1-5289877/texas-power-grid-after-outage): Doubts remain over reliability of Texas power grid</small>
+
+
+| 🔥: 64 \| 💬: [67](https://news.ycombinator.com/item?id=43069424) \| 🗓️ 2025-02-16
+
+
+<br />
+尽管德克萨斯州在2021年致命停电后声称电网有所改善，但**对电网的可靠性依然存在疑虑**。州长阿博特强调新建天然气电厂的必要性，但由于德克萨斯州缺乏与邻近电网的连接，**能源需求的增长必须依赖于本州的发电能力**。分析师指出，尽管电网在某些方面有所进步，但仍需更多的努力来提高能源效率和确保天然气供应。随着极端天气的频繁发生，许多德克萨斯居民仍感到不安。
+
+---
+
+## <a name="20"></a>20. 重新思考C语言时间API 
+<small>🔗 [oliverkwebb.github.io](https://oliverkwebb.github.io/articles/newtime/): Rethinking the C Time API</small>
+
+
+| 🔥: 63 \| 💬: [73](https://news.ycombinator.com/item?id=43068283) \| 🗓️ 2025-02-16
+
+
+<br />
+C语言的时间API存在许多遗留问题，设计决策过时，导致使用不便。代码示例显示了如何打印当前时间，暴露了如`time()`和`strftime()`等函数的设计缺陷。文章提出了新的时间库概念，旨在解决这些问题，改进时间处理的灵活性和精确度，尤其是在处理**纳秒**和**时区**时。通过创建新的数据结构和函数，作者希望提供更优雅的解决方案，反映出C语言时间API的潜在改进方向。
+
+---
+
+## <a name="21"></a>21. 未婚男性的哲学思考 
+<small>🔗 [aeon.co](https://aeon.co/essays/for-mary-midgley-philosophy-must-be-entangled-in-daily-life): So Many Unmarried Men</small>
+
+
+| 🔥: 63 \| 💬: [102](https://news.ycombinator.com/item?id=43068337) \| 🗓️ 2025-02-16
+
+
+<br />
+在1950年代，哲学家**玛丽·米德利**指出，历史上大多数著名哲学家都是未婚男性，这一观点在当时被视为“琐碎”的干扰。尽管她的观点未被广泛认可，但她认为这反映了哲学的本质。米德利的观察揭示了哲学与人际关系的脱节，认为缺乏与女性和家庭的生活经验可能导致哲学的**抽象性**和**孤立性**。她的思想在当今仍具有重要意义，促使我们重新审视哲学的定义及其与人类生活的关系。
+
+---
+
+## <a name="22"></a>22. 为什么会出现“现在可以安全关闭计算机”的屏幕？ 
+<small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20160419-00/?p=93315): Why is there a screen that says "It is now safe to turn off your computer"? (2016)</small>
+
+
+| 🔥: 60 \| 💬: [60](https://news.ycombinator.com/item?id=43071193) \| 🗓️ 2025-02-16
+
+
+<br />
+在Windows 95中，增加了一个提示用户可以安全关闭计算机的屏幕。这是因为许多人在关闭Windows后不知道该做什么。文章讲述了一个人在飞机上关闭Windows NT时的困惑，他误以为需要通过“关机”菜单关闭电脑，而实际上他的电脑不支持软件关机，只能手动关闭。这个提示的目的是告诉用户，关机完成后可以安全地按下电源按钮。
+
+---
+
+## <a name="23"></a>23. TikTok禁令背后的真相：以色列而非中国 
 <small>🔗 [kenklippenstein.com](https://www.kenklippenstein.com/p/tiktok-ban-fueled-by-israel-not-china): The reason behind the TikTok ban</small>
 
 
-| 🔥: 54 \| 💬: [9](https://news.ycombinator.com/item?id=43070711) \| 🗓️ 2025-02-16
+| 🔥: 58 \| 💬: [15](https://news.ycombinator.com/item?id=43070711) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -275,11 +299,11 @@ TikTok的禁令源于**哈马斯**对以色列的攻击，国会对社交媒体�
 
 ---
 
-## <a name="22"></a>22. 苹果地图可能开始显示广告 
+## <a name="24"></a>24. 苹果地图可能开始显示广告 
 <small>🔗 [macrumors.com](https://www.macrumors.com/2025/02/16/apple-maps-might-start-showing-ads/): Apple Maps Might Start Showing Ads</small>
 
 
-| 🔥: 53 \| 💬: [65](https://news.ycombinator.com/item?id=43069381) \| 🗓️ 2025-02-16
+| 🔥: 55 \| 💬: [65](https://news.ycombinator.com/item?id=43069381) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -287,38 +311,14 @@ TikTok的禁令源于**哈马斯**对以色列的攻击，国会对社交媒体�
 
 ---
 
-## <a name="23"></a>23. 便携式无人机干扰器使用树莓派战术软件定义无线电 
+## <a name="25"></a>25. 便携式无人机干扰器使用树莓派战术软件定义无线电 
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/raspberry-pi/portable-raspberry-pi-tactical-software-defines-radio-doubles-as-a-drone-jammer): Portable drone jammer uses a Raspberry Pi tactical Software Defined Radio</small>
 
 
-| 🔥: 51 \| 💬: [24](https://news.ycombinator.com/item?id=43071110) \| 🗓️ 2025-02-16
+| 🔥: 55 \| 💬: [28](https://news.ycombinator.com/item?id=43071110) \| 🗓️ 2025-02-16
 
 
 <br />
 Media-Grizzly开发的D.E.S.E.R.T Pi-Powered Tactical System是一款便携式的树莓派软件定义无线电（SDR）系统，能够在需要时通过一个开关干扰附近的无人机。该系统配备了激光雕刻面板、键盘、USB端口和LCD显示屏，最引人注目的是一个标有“DE-AUTH”的红色开关，专门用于与无人机信号互动。虽然干扰无人机的合法性因地区而异，但该设备在理论上能够通过连接天线来失去无人机的信号。系统由树莓派4B供电，使用12V电池和5V降压转换器，整体功耗约为17瓦特。Media-Grizzly计划在未来分享该项目的源代码，并在GitHub上发布更新。
-
----
-
-## <a name="24"></a>24. Netflix称其短暂的Apple TV应用集成是个错误 
-<small>🔗 [theverge.com](https://www.theverge.com/news/613307/netflix-apple-tv-app-support-mistake): Netflix says its brief Apple TV app integration was a mistake</small>
-
-
-| 🔥: 51 \| 💬: [51](https://news.ycombinator.com/item?id=43071147) \| 🗓️ 2025-02-16
-
-
-<br />
-Netflix确认其在Apple TV应用中的短暂支持是一个错误，已被撤回。尽管曾一度支持Apple的观看列表和“继续观看”功能，但Netflix仍然坚持希望用户在其应用内浏览和消费内容。这一变化让人感到失望，因为Netflix一向不支持Apple和其他公司的内容聚合尝试。
-
----
-
-## <a name="25"></a>25. 快速在终端中查找命令的技巧 
-<small>🔗 [github.com](https://github.com/madprops/blog/blob/main/docs/cmd_icons.md): Trick to find commands in the terminal quickly</small>
-
-
-| 🔥: 50 \| 💬: [54](https://news.ycombinator.com/item?id=43071085) \| 🗓️ 2025-02-16
-
-
-<br />
-我发现了一个新技巧，常常需要在 shell 历史中回溯以重新运行相同的命令。虽然目前没有高效的方法，但我想到了一个可以稍微缓解这个问题的技巧：给命令添加 **图标**，这样可以快速识别。比如，使用 ✅、⚡ 和 📚 来标记不同的命令。图标并不影响命令本身，但能帮助你更快找到需要的命令。此外，你也可以使用文本，以便后续使用 grep 查找。
 
 ---
