@@ -11,12 +11,12 @@ tags:
 1. X用户无法发布“Signal.me”链接；
 1. searchcode.com的SQLite数据库可能比你的大6TB；
 1. 在PostgreSQL中表示图形数据；
-1. Mistral Saba：区域语言模型的创新；
 1. 调试无法调试的应用；
+1. Mistral Saba：区域语言模型的创新；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共22条，具体内容您往下读...
+总共23条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [disruptionist.com](https://www.disruptionist.com/p/elon-musks-x-blocks-links-to-signal): X users are unable to post “Signal.me” links</small>
 
 
-| 🔥🔥: 717 \| 💬: [642](https://news.ycombinator.com/item?id=43076710) \| 🗓️ 2025-02-17
+| 🔥🔥: 721 \| 💬: [647](https://news.ycombinator.com/item?id=43076710) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [boyter.org](https://boyter.org/posts/searchcode-bigger-sqlite-than-you/): Searchcode.com’s SQLite database is probably 6 terabytes bigger than yours</small>
 
 
-| 🔥🔥: 218 \| 💬: [89](https://news.ycombinator.com/item?id=43076785) \| 🗓️ 2025-02-17
+| 🔥🔥: 220 \| 💬: [89](https://news.ycombinator.com/item?id=43076785) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -51,7 +51,7 @@ searchcode.com的SQLite数据库是全球最大的公共网站数据库之一，
 <small>🔗 [richard-towers.com](https://www.richard-towers.com/2025/02/16/representing-graphs-in-postgres.html): Representing Graphs in PostgreSQL</small>
 
 
-| 🔥🔥: 153 \| 💬: [65](https://news.ycombinator.com/item?id=43078100) \| 🗓️ 2025-02-17
+| 🔥🔥: 159 \| 💬: [66](https://news.ycombinator.com/item?id=43078100) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -59,7 +59,19 @@ searchcode.com的SQLite数据库是全球最大的公共网站数据库之一，
 
 ---
 
-## <a name="4"></a>4. Mistral Saba：区域语言模型的创新 
+## <a name="4"></a>4. 调试无法调试的应用 
+<small>🔗 [bryce.co](https://bryce.co/undebuggable/): Debugging an Undebuggable App</small>
+
+
+| 🔥🔥: 154 \| 💬: [28](https://news.ycombinator.com/item?id=43081713) \| 🗓️ 2025-02-17
+
+
+<br />
+最近我遇到了一款应用，它通过多种方式阻止调试器附加，包括**早期退出**和**越狱检测**，甚至在越狱设备上会导致手机崩溃。这种保护机制使得调试和修改应用变得困难，但我们可以通过分析其使用的**ptrace**函数来绕过这些限制。通过设置断点和使用汇编代码，我们可以成功附加调试器并探索应用的内部工作原理。
+
+---
+
+## <a name="5"></a>5. Mistral Saba：区域语言模型的创新 
 <small>🔗 [mistral.ai](https://mistral.ai/en/news/mistral-saba): Mistral Saba</small>
 
 
@@ -71,35 +83,11 @@ Mistral Saba是首个专为中东和南亚地区定制的**24B参数模型**，�
 
 ---
 
-## <a name="5"></a>5. 调试无法调试的应用 
-<small>🔗 [bryce.co](https://bryce.co/undebuggable/): Debugging an Undebuggable App</small>
-
-
-| 🔥🔥: 130 \| 💬: [20](https://news.ycombinator.com/item?id=43081713) \| 🗓️ 2025-02-17
-
-
-<br />
-最近我遇到了一款应用，它通过多种方式阻止调试器附加，包括**早期退出**和**越狱检测**，甚至在越狱设备上会导致手机崩溃。这种保护机制使得调试和修改应用变得困难，但我们可以通过分析其使用的**ptrace**函数来绕过这些限制。通过设置断点和使用汇编代码，我们可以成功附加调试器并探索应用的内部工作原理。
-
----
-
-## <a name="6"></a>6. C++ 线程局部存储性能分析 
-<small>🔗 [yosefk.com](https://yosefk.com/blog/cxx-thread-local-storage-performance.html): 0+0 > 0: C++ thread-local storage performance</small>
-
-
-| 🔥🔥: 108 \| 💬: [68](https://news.ycombinator.com/item?id=43077675) \| 🗓️ 2025-02-17
-
-
-<br />
-本文探讨了如何确保对 **线程局部存储** (TLS) 的访问速度。尽管 TLS 语法简单，但其背后可能隐藏着较高的开销。通过分析不同情况下的汇编代码，作者揭示了在共享库和构造函数中使用 TLS 时的性能问题，强调了 **初始化开销** 和 **函数调用** 的影响。作者提出，尽管 TLS 提供了便利，但在某些情况下，性能可能不如预期，尤其是在多线程环境中。
-
----
-
-## <a name="7"></a>7. 观察R1的“思考”过程：动画化思维链 
+## <a name="6"></a>6. 观察R1的“思考”过程：动画化思维链 
 <small>🔗 [github.com](https://github.com/dhealy05/frames_of_mind): Watch R1 "think" with animated chains of thought</small>
 
 
-| 🔥🔥: 106 \| 💬: [42](https://news.ycombinator.com/item?id=43080531) \| 🗓️ 2025-02-17
+| 🔥🔥: 127 \| 💬: [47](https://news.ycombinator.com/item?id=43080531) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -107,11 +95,11 @@ Mistral Saba是首个专为中东和南亚地区定制的**24B参数模型**，�
 
 ---
 
-## <a name="8"></a>8. Espargos：基于ESP32的WiFi传感阵列 
+## <a name="7"></a>7. Espargos：基于ESP32的WiFi传感阵列 
 <small>🔗 [espargos.net](https://espargos.net/): Espargos: ESP32-based WiFi sensing array</small>
 
 
-| 🔥: 99 \| 💬: [10](https://news.ycombinator.com/item?id=43079023) \| 🗓️ 2025-02-17
+| 🔥🔥: 119 \| 💬: [16](https://news.ycombinator.com/item?id=43079023) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -119,11 +107,23 @@ ESPARGOS是一个**相位相干的ESP32天线阵列**，旨在简化WiFi传感�
 
 ---
 
+## <a name="8"></a>8. C++ 线程局部存储性能分析 
+<small>🔗 [yosefk.com](https://yosefk.com/blog/cxx-thread-local-storage-performance.html): 0+0 > 0: C++ thread-local storage performance</small>
+
+
+| 🔥🔥: 114 \| 💬: [70](https://news.ycombinator.com/item?id=43077675) \| 🗓️ 2025-02-17
+
+
+<br />
+本文探讨了如何确保对 **线程局部存储** (TLS) 的访问速度。尽管 TLS 语法简单，但其背后可能隐藏着较高的开销。通过分析不同情况下的汇编代码，作者揭示了在共享库和构造函数中使用 TLS 时的性能问题，强调了 **初始化开销** 和 **函数调用** 的影响。作者提出，尽管 TLS 提供了便利，但在某些情况下，性能可能不如预期，尤其是在多线程环境中。
+
+---
+
 ## <a name="9"></a>9. hk：全新的 Git 钩子管理工具 
 <small>🔗 [hk.jdx.dev](https://hk.jdx.dev/about.html): Hk, a new Git hook manager</small>
 
 
-| 🔥: 76 \| 💬: [59](https://news.ycombinator.com/item?id=43080535) \| 🗓️ 2025-02-17
+| 🔥: 83 \| 💬: [64](https://news.ycombinator.com/item?id=43080535) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -131,7 +131,19 @@ hk 是由 @jdx 开发的，旨在提升 **性能** 和 **灵活性**。它为用
 
 ---
 
-## <a name="10"></a>10. 在浏览器中使用WebAssembly运行Ruby on Rails 
+## <a name="10"></a>10. 开源项目可以出售SBOM片段 
+<small>🔗 [thomas-huehn.com](https://www.thomas-huehn.com/open-source-projects-could-sell-sbom-fragments/): Open source projects could sell SBOM fragments</small>
+
+
+| 🔥: 76 \| 💬: [46](https://news.ycombinator.com/item?id=43080378) \| 🗓️ 2025-02-17
+
+
+<br />
+开源项目可能通过出售**SBOM片段**来解决公司在扫描源文件以获取许可信息时的高成本和低效率问题。像OSSelot和ClearlyDefined这样的项目可以提供最新的SBOM信息，用户只需在GitHub上赞助即可获得这些信息，避免自己进行繁琐的扫描工作。这种方式不仅节省了时间，还能确保获取准确的**许可信息**。
+
+---
+
+## <a name="11"></a>11. 在浏览器中使用WebAssembly运行Ruby on Rails 
 <small>🔗 [web.dev](https://web.dev/blog/ruby-on-rails-on-webassembly): Run Ruby on Rails in the browser using WebAssembly</small>
 
 
@@ -140,18 +152,6 @@ hk 是由 @jdx 开发的，旨在提升 **性能** 和 **灵活性**。它为用
 
 <br />
 想象一下，在浏览器中运行一个完整的博客应用程序，不需要服务器或云，只需你和WebAssembly。Vladimir Dementyev分享了如何在15分钟内将Ruby on Rails应用程序“wasmify”，并在浏览器中运行。通过WebAssembly，Ruby和Rails可以在本地运行，打破了传统Web开发的界限。借助`wasmify-rails`库，开发者可以轻松将Rails应用打包为Wasm模块，并通过服务工作者处理HTTP请求，实现了在浏览器中运行全栈应用的可能性。这一技术进步让开发者能够在本地环境中体验Rails的强大功能，仿佛魔法般的体验。
-
----
-
-## <a name="11"></a>11. 开源项目可以出售SBOM片段 
-<small>🔗 [thomas-huehn.com](https://www.thomas-huehn.com/open-source-projects-could-sell-sbom-fragments/): Open source projects could sell SBOM fragments</small>
-
-
-| 🔥: 71 \| 💬: [41](https://news.ycombinator.com/item?id=43080378) \| 🗓️ 2025-02-17
-
-
-<br />
-开源项目可能通过出售**SBOM片段**来解决公司在扫描源文件以获取许可信息时的高成本和低效率问题。像OSSelot和ClearlyDefined这样的项目可以提供最新的SBOM信息，用户只需在GitHub上赞助即可获得这些信息，避免自己进行繁琐的扫描工作。这种方式不仅节省了时间，还能确保获取准确的**许可信息**。
 
 ---
 
@@ -183,7 +183,7 @@ hk 是由 @jdx 开发的，旨在提升 **性能** 和 **灵活性**。它为用
 <small>🔗 [yalereview.org](https://yalereview.org/article/tavakoli-rem-peter-ames-carlin): What happened when REM went mainstream</small>
 
 
-| 🔥: 55 \| 💬: [48](https://news.ycombinator.com/item?id=43081929) \| 🗓️ 2025-02-17
+| 🔥: 57 \| 💬: [52](https://news.ycombinator.com/item?id=43081929) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -191,11 +191,23 @@ R.E.M.从一个**独立音乐**的代表，逐渐成为了主流文化的象征�
 
 ---
 
-## <a name="15"></a>15. 开源维护者面临压力 
+## <a name="15"></a>15. 谁雕刻了南美洲神秘的古代隧道？ 
+<small>🔗 [clp.unesp.br](https://www.clp.unesp.br/Modulos/Noticias/401/paleoburrows-nature-2025.pdf): Who carved South America's mysterious ancient tunnels? [pdf]</small>
+
+
+| 🔥: 56 \| 💬: [26](https://news.ycombinator.com/item?id=43082287) \| 🗓️ 2025-02-17
+
+
+<br />
+南美洲的古代隧道引发了广泛的好奇与研究，至今仍未有确凿的答案。考古学家们对这些隧道的起源、用途及其建造者进行了深入探讨，认为它们可能与古代文明的宗教、贸易或防御系统有关。这些隧道的复杂结构和广泛分布表明，**古代文明**在工程技术方面具有相当高的水平，可能反映了当时社会的组织能力和文化背景。
+
+---
+
+## <a name="16"></a>16. 开源维护者面临压力 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/02/16/open_source_maintainers_state_of_open/): Open source maintainers are feeling the squeeze</small>
 
 
-| 🔥: 53 \| 💬: [43](https://news.ycombinator.com/item?id=43077833) \| 🗓️ 2025-02-17
+| 🔥: 53 \| 💬: [44](https://news.ycombinator.com/item?id=43077833) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -203,7 +215,19 @@ R.E.M.从一个**独立音乐**的代表，逐渐成为了主流文化的象征�
 
 ---
 
-## <a name="16"></a>16. 与Doge相关的员工预计将寻求访问IRS系统 
+## <a name="17"></a>17. NLRB代理总 Counsel 撤销非竞争劳动政策 
+<small>🔗 [natlawreview.com](https://natlawreview.com/article/nlrb-acting-general-counsel-rescinds-non-compete-labor-policy): NLRB acting general counsel rescinds non-compete labor policy</small>
+
+
+| 🔥: 51 \| 💬: [28](https://news.ycombinator.com/item?id=43083295) \| 🗓️ 2025-02-17
+
+
+<br />
+2025年2月14日，NLRB代理总 Counsel 威廉·B·考文撤销了前任总 Counsel 詹妮弗·阿布鲁佐关于**非竞争协议**和**停留或支付协议**的两份备忘录。这一决定标志着对雇主使用限制性契约的法律风险框架的重大变化，允许雇主在更少法律审查的情况下实施这些协议。然而，雇主仍需遵循州法律，并谨慎考虑可能的风险。
+
+---
+
+## <a name="18"></a>18. 与Doge相关的员工预计将寻求访问IRS系统 
 <small>🔗 [nbcnews.com](https://www.nbcnews.com/politics/doge/doge-affiliated-employee-access-irs-system-sensitive-taxpayer-inform-rcna192423): Doge-affiliated employee expected to seek access to IRS system</small>
 
 
@@ -215,11 +239,11 @@ R.E.M.从一个**独立音乐**的代表，逐渐成为了主流文化的象征�
 
 ---
 
-## <a name="17"></a>17. 卡尔托费尔斯 – 细胞自动机、统计、32位RISC-V 
+## <a name="19"></a>19. 卡尔托费尔斯 – 细胞自动机、统计、32位RISC-V 
 <small>🔗 [pwy.io](https://pwy.io/posts/kartoffels-v0.7/): Show HN: Kartoffels – Cellular Automata, Statistics, 32-bit RISC-V</small>
 
 
-| 🔥: 45 \| 💬: [3](https://news.ycombinator.com/item?id=43080858) \| 🗓️ 2025-02-17
+| 🔥: 48 \| 💬: [3](https://news.ycombinator.com/item?id=43080858) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -227,7 +251,7 @@ R.E.M.从一个**独立音乐**的代表，逐渐成为了主流文化的象征�
 
 ---
 
-## <a name="18"></a>18. 技术人员指出会议毫无意义，结果遭到惩罚 
+## <a name="20"></a>20. 技术人员指出会议毫无意义，结果遭到惩罚 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/02/17/who_me/): Techie pointed out meetings are pointless, and was punished for it</small>
 
 
@@ -239,23 +263,11 @@ R.E.M.从一个**独立音乐**的代表，逐渐成为了主流文化的象征�
 
 ---
 
-## <a name="19"></a>19. 谁雕刻了南美洲神秘的古代隧道？ 
-<small>🔗 [clp.unesp.br](https://www.clp.unesp.br/Modulos/Noticias/401/paleoburrows-nature-2025.pdf): Who carved South America's mysterious ancient tunnels? [pdf]</small>
-
-
-| 🔥: 42 \| 💬: [21](https://news.ycombinator.com/item?id=43082287) \| 🗓️ 2025-02-17
-
-
-<br />
-南美洲的古代隧道引发了广泛的好奇与研究，至今仍未有确凿的答案。考古学家们对这些隧道的起源、用途及其建造者进行了深入探讨，认为它们可能与古代文明的宗教、贸易或防御系统有关。这些隧道的复杂结构和广泛分布表明，**古代文明**在工程技术方面具有相当高的水平，可能反映了当时社会的组织能力和文化背景。
-
----
-
-## <a name="20"></a>20. 苹果图像游乐场中的偏见 
+## <a name="21"></a>21. 苹果图像游乐场中的偏见 
 <small>🔗 [giete.ma](https://www.giete.ma/blog/biases-in-apples-image-playground): Biases in Apple's Image Playground</small>
 
 
-| 🔥: 41 \| 💬: [18](https://news.ycombinator.com/item?id=43078743) \| 🗓️ 2025-02-17
+| 🔥: 42 \| 💬: [18](https://news.ycombinator.com/item?id=43078743) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -263,11 +275,11 @@ R.E.M.从一个**独立音乐**的代表，逐渐成为了主流文化的象征�
 
 ---
 
-## <a name="21"></a>21. 噪音消除耳机是否是年轻人听力问题的罪魁祸首？ 
+## <a name="22"></a>22. 噪音消除耳机是否是年轻人听力问题的罪魁祸首？ 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/cgkjvr7x5x6o): Are noise-cancelling headphones to blame for young people's hearing problems?</small>
 
 
-| 🔥: 36 \| 💬: [36](https://news.ycombinator.com/item?id=43082700) \| 🗓️ 2025-02-17
+| 🔥: 42 \| 💬: [42](https://news.ycombinator.com/item?id=43082700) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -275,11 +287,11 @@ R.E.M.从一个**独立音乐**的代表，逐渐成为了主流文化的象征�
 
 ---
 
-## <a name="22"></a>22. 逆向工程PowerPoint的XML以构建幻灯片生成器 
+## <a name="23"></a>23. 逆向工程PowerPoint的XML以构建幻灯片生成器 
 <small>🔗 [listenlabs.ai](https://listenlabs.ai/blog/i-used-llms-to-make-a-10-000-powerpoint-(here-s-how)): Reverse Engineering PowerPoint's XML to Build a Slide Generator</small>
 
 
-| 🔥: 33 \| 💬: [4](https://news.ycombinator.com/item?id=43081477) \| 🗓️ 2025-02-17
+| 🔥: 34 \| 💬: [4](https://news.ycombinator.com/item?id=43081477) \| 🗓️ 2025-02-17
 
 
 <br />
