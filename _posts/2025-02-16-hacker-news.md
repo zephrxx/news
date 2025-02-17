@@ -11,8 +11,8 @@ tags:
 1. Caddy – 终极自动HTTPS服务器；
 1. 《半条命2》和《无主之地》艺术总监维克托·安东诺夫去世；
 1. 亚马逊将在2月26日取消下载和传输选项；
-1. 美国停电地图；
 1. Uchū · 网络爱好者的色彩方案；
+1. 美国停电地图；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [caddyserver.com](https://caddyserver.com/): Caddy – The Ultimate Server with Automatic HTTPS</small>
 
 
-| 🔥🔥: 467 \| 💬: [175](https://news.ycombinator.com/item?id=43070025) \| 🗓️ 2025-02-16
+| 🔥🔥: 476 \| 💬: [177](https://news.ycombinator.com/item?id=43070025) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -39,7 +39,7 @@ Caddy 默认为所有网站自动获取和续订 TLS 证书，支持 **On-Demand
 <small>🔗 [eurogamer.net](https://www.eurogamer.net/half-life-2-and-dishonored-art-lead-viktor-antonov-dies-aged-just-52): Half-Life 2 and Dishonored art lead Viktor Antonov has died</small>
 
 
-| 🔥🔥: 387 \| 💬: [72](https://news.ycombinator.com/item?id=43069514) \| 🗓️ 2025-02-16
+| 🔥🔥: 403 \| 💬: [77](https://news.ycombinator.com/item?id=43069514) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -51,7 +51,7 @@ Caddy 默认为所有网站自动获取和续订 TLS 证书，支持 **On-Demand
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/kindle/comments/1inr9uy/fyi_amazon_is_removing_download_transfer_option/): Kindle is removing download and transfer option on Feb 26th</small>
 
 
-| 🔥🔥: 304 \| 💬: [175](https://news.ycombinator.com/item?id=43070155) \| 🗓️ 2025-02-16
+| 🔥🔥: 311 \| 💬: [178](https://news.ycombinator.com/item?id=43070155) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -59,23 +59,11 @@ Caddy 默认为所有网站自动获取和续订 TLS 证书，支持 **On-Demand
 
 ---
 
-## <a name="4"></a>4. 美国停电地图 
-<small>🔗 [poweroutage.us](https://poweroutage.us/): United States Power Outage Map</small>
+## <a name="4"></a>4. Uchū · 网络爱好者的色彩方案 
+<small>🔗 [uchu.style](https://uchu.style): Uchū – Color scheme for internet lovers</small>
 
 
-| 🔥🔥: 254 \| 💬: [124](https://news.ycombinator.com/item?id=43069399) \| 🗓️ 2025-02-16
-
-
-<br />
-PowerOutage.us是一个持续更新的项目，旨在**跟踪**、**记录**和**汇总**美国各地的停电情况。网站提供实时数据更新，每十分钟更新一次，用户可以通过点击州名获取更详细的信息。目前，乔治亚州停电客户最多，达到163,748人。
-
----
-
-## <a name="5"></a>5. Uchū · 网络爱好者的色彩方案 
-<small>🔗 [uchu.style](https://uchu.style): Uchū · the color scheme for internet lovers</small>
-
-
-| 🔥🔥: 253 \| 💬: [106](https://news.ycombinator.com/item?id=43072338) \| 🗓️ 2025-02-16
+| 🔥🔥: 300 \| 💬: [126](https://news.ycombinator.com/item?id=43072338) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -83,11 +71,23 @@ Uchū 是由 NetOperator Wibby 提供的色彩方案，专为网络爱好者设�
 
 ---
 
+## <a name="5"></a>5. 美国停电地图 
+<small>🔗 [poweroutage.us](https://poweroutage.us/): United States Power Outage Map</small>
+
+
+| 🔥🔥: 259 \| 💬: [125](https://news.ycombinator.com/item?id=43069399) \| 🗓️ 2025-02-16
+
+
+<br />
+PowerOutage.us是一个持续更新的项目，旨在**跟踪**、**记录**和**汇总**美国各地的停电情况。网站提供实时数据更新，每十分钟更新一次，用户可以通过点击州名获取更详细的信息。目前，乔治亚州停电客户最多，达到163,748人。
+
+---
+
 ## <a name="6"></a>6. 跳蚤显微镜：仅需18美元的USB示波器、逻辑分析仪及更多功能 
 <small>🔗 [rtestardi.github.io](https://rtestardi.github.io/usbte/flea-scope.pdf): Flea-Scope: $18 Source Available USB Oscilloscope, Logic Analyzer and More [pdf]</small>
 
 
-| 🔥🔥: 248 \| 💬: [89](https://news.ycombinator.com/item?id=43068585) \| 🗓️ 2025-02-16
+| 🔥🔥: 255 \| 💬: [90](https://news.ycombinator.com/item?id=43068585) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -99,7 +99,7 @@ Uchū 是由 NetOperator Wibby 提供的色彩方案，专为网络爱好者设�
 <small>🔗 [kk.org](https://kk.org/thetechnium/50-years-of-travel-tips/): 50 Years of Travel Tips</small>
 
 
-| 🔥🔥: 232 \| 💬: [188](https://news.ycombinator.com/item?id=43066720) \| 🗓️ 2025-02-16
+| 🔥🔥: 236 \| 💬: [190](https://news.ycombinator.com/item?id=43066720) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -111,7 +111,7 @@ Uchū 是由 NetOperator Wibby 提供的色彩方案，专为网络爱好者设�
 <small>🔗 [thenewstack.io](https://thenewstack.io/vim-after-bram-a-core-maintainer-on-how-theyve-kept-it-going/): Vim after Bram: a core maintainer on how they've kept it going</small>
 
 
-| 🔥🔥: 193 \| 💬: [61](https://news.ycombinator.com/item?id=43068884) \| 🗓️ 2025-02-16
+| 🔥🔥: 199 \| 💬: [65](https://news.ycombinator.com/item?id=43068884) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -123,7 +123,7 @@ Uchū 是由 NetOperator Wibby 提供的色彩方案，专为网络爱好者设�
 <small>🔗 [ssp.sh](https://www.ssp.sh/blog/finding-flow/): Finding Flow: Escaping digital distractions through deep work and slow living</small>
 
 
-| 🔥🔥: 182 \| 💬: [67](https://news.ycombinator.com/item?id=43067303) \| 🗓️ 2025-02-16
+| 🔥🔥: 187 \| 💬: [68](https://news.ycombinator.com/item?id=43067303) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -131,23 +131,11 @@ Uchū 是由 NetOperator Wibby 提供的色彩方案，专为网络爱好者设�
 
 ---
 
-## <a name="10"></a>10. 大科技破坏了社会契约 
-<small>🔗 [basedfob.substack.com](https://basedfob.substack.com/p/big-tech-has-disrupted-the-social): Big tech has disrupted the social contract</small>
-
-
-| 🔥🔥: 122 \| 💬: [82](https://news.ycombinator.com/item?id=43071213) \| 🗓️ 2025-02-16
-
-
-<br />
-大科技公司通过共享经济的模式，导致了服务质量的下降和消费者的困扰。Eddie Huang分享了他在Turo租车的糟糕经历，遇到车辆注册被暂停和虚假收费的问题。他指出，虽然这些平台让个人可以像企业一样运营，但缺乏必要的责任和监管，最终让消费者面临风险和不便。
-
----
-
-## <a name="11"></a>11. IPv6 并不难 
+## <a name="10"></a>10. IPv6 并不难 
 <small>🔗 [techlog.jenslink.net](https://techlog.jenslink.net/posts/ipv6-is-hard/): IPv6 Is Hard</small>
 
 
-| 🔥🔥: 121 \| 💬: [196](https://news.ycombinator.com/item?id=43069533) \| 🗓️ 2025-02-16
+| 🔥🔥: 129 \| 💬: [205](https://news.ycombinator.com/item?id=43069533) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -155,7 +143,43 @@ IPv6 实际上是“不同”的，而非“难”。许多网站仍然只支持
 
 ---
 
-## <a name="12"></a>12. Rust 正在取代 JavaScript 
+## <a name="11"></a>11. 大科技破坏了社会契约 
+<small>🔗 [basedfob.substack.com](https://basedfob.substack.com/p/big-tech-has-disrupted-the-social): Big tech has disrupted the social contract</small>
+
+
+| 🔥🔥: 122 \| 💬: [84](https://news.ycombinator.com/item?id=43071213) \| 🗓️ 2025-02-16
+
+
+<br />
+大科技公司通过共享经济的模式，导致了服务质量的下降和消费者的困扰。Eddie Huang分享了他在Turo租车的糟糕经历，遇到车辆注册被暂停和虚假收费的问题。他指出，虽然这些平台让个人可以像企业一样运营，但缺乏必要的责任和监管，最终让消费者面临风险和不便。
+
+---
+
+## <a name="12"></a>12. 所有Kindle现在都可以越狱 
+<small>🔗 [old.reddit.com](https://old.reddit.com/r/kindle/comments/1hrwytr/all_kindles_can_now_be_jailbroken/): All Kindles can now be jailbroken</small>
+
+
+| 🔥🔥: 119 \| 💬: [54](https://news.ycombinator.com/item?id=43073969) \| 🗓️ 2025-02-16
+
+
+<br />
+最近，一种新的越狱方法已发布，适用于所有Kindle型号和最新固件版本，包括Colorsoft。这一方法吸引了许多对**modding**感兴趣的用户，能够恢复一些之前的功能，比如**进度条**。用户在讨论中提到，越狱可以带来更多自定义选项，但也存在风险，如可能导致设备“砖化”。如果遇到问题，用户可以在MobileRead寻求支持。
+
+---
+
+## <a name="13"></a>13. 机场空中交通控制广播与放松音乐助力专注 
+<small>🔗 [chillyatc.com](https://www.chillyatc.com/): Show HN: Air traffic control radio and chill music for focus</small>
+
+
+| 🔥🔥: 116 \| 💬: [68](https://news.ycombinator.com/item?id=43071934) \| 🗓️ 2025-02-16
+
+
+<br />
+这款应用结合了**空中交通控制广播**和**放松音乐**，旨在帮助用户提高专注力。用户可以选择不同的机场，如**旧金山国际机场**，享受实时的塔台音频和轻松的背景音乐，创造一个理想的工作或学习环境。
+
+---
+
+## <a name="14"></a>14. Rust 正在取代 JavaScript 
 <small>🔗 [leerob.com](https://leerob.com/n/rust): Rust Is Eating JavaScript (2023)</small>
 
 
@@ -167,11 +191,11 @@ Rust 是一种快速、可靠且内存高效的编程语言，近年来被广泛
 
 ---
 
-## <a name="13"></a>13. 谷歌新规则被批将利润置于隐私之上 
+## <a name="15"></a>15. 谷歌新规则被批将利润置于隐私之上 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/cm21g0052dno): Critics say new Google rules put profits over privacy</small>
 
 
-| 🔥🔥: 110 \| 💬: [56](https://news.ycombinator.com/item?id=43071506) \| 🗓️ 2025-02-16
+| 🔥🔥: 112 \| 💬: [59](https://news.ycombinator.com/item?id=43071506) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -179,35 +203,11 @@ Rust 是一种快速、可靠且内存高效的编程语言，近年来被广泛
 
 ---
 
-## <a name="14"></a>14. 机场空中交通控制广播与放松音乐助力专注 
-<small>🔗 [chillyatc.com](https://www.chillyatc.com/): Show HN: Air traffic control radio and chill music for focus</small>
-
-
-| 🔥🔥: 101 \| 💬: [64](https://news.ycombinator.com/item?id=43071934) \| 🗓️ 2025-02-16
-
-
-<br />
-这款应用结合了**空中交通控制广播**和**放松音乐**，旨在帮助用户提高专注力。用户可以选择不同的机场，如**旧金山国际机场**，享受实时的塔台音频和轻松的背景音乐，创造一个理想的工作或学习环境。
-
----
-
-## <a name="15"></a>15. 我为何离开Elm（2020） 
-<small>🔗 [lukeplant.me.uk](https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/): Why I'm leaving Elm (2020)</small>
-
-
-| 🔥: 92 \| 💬: [75](https://news.ycombinator.com/item?id=43069475) \| 🗓️ 2025-02-16
-
-
-<br />
-在过去的一年里，我不得不做出离开**Elm**的决定，转向其他语言，主要是因为**领导层的行为**。尽管Elm在技术上有其优点，但我在与核心团队的互动中遇到了许多问题，尤其是对**本地模块的限制**让我感到沮丧。此外，Elm的开发过程缺乏透明度，导致我对其**开源**的承诺产生了怀疑。最终，我意识到在这个社区中，良好的关系至关重要，而我已经失去了这个机会。
-
----
-
 ## <a name="16"></a>16. 哈维尔·米莱对44亿美元的Memecoin进行回撤，因“内部人士”获利8700万 
-<small>🔗 [coindesk.com](https://www.coindesk.com/business/2025/02/15/javier-milei-backtracks-on-usd4-4b-memecoin-after-insiders-pocket-usd87m): Javier Milei Backtracks on $4.4B Memecoin After 'Insiders' Pocket $87M</small>
+<small>🔗 [coindesk.com](https://www.coindesk.com/business/2025/02/15/javier-milei-backtracks-on-usd4-4b-memecoin-after-insiders-pocket-usd87m): Javier Milei backtracks on $4.4B memecoin after 'insiders' pocket $87M</small>
 
 
-| 🔥: 92 \| 💬: [84](https://news.ycombinator.com/item?id=43072790) \| 🗓️ 2025-02-16
+| 🔥🔥: 101 \| 💬: [107](https://news.ycombinator.com/item?id=43072790) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -215,11 +215,35 @@ Rust 是一种快速、可靠且内存高效的编程语言，近年来被广泛
 
 ---
 
-## <a name="17"></a>17. 谷歌为取消AI承诺和DEI目标辩护 
+## <a name="17"></a>17. 我为何离开Elm（2020） 
+<small>🔗 [lukeplant.me.uk](https://lukeplant.me.uk/blog/posts/why-im-leaving-elm/): Why I'm leaving Elm (2020)</small>
+
+
+| 🔥: 93 \| 💬: [76](https://news.ycombinator.com/item?id=43069475) \| 🗓️ 2025-02-16
+
+
+<br />
+在过去的一年里，我不得不做出离开**Elm**的决定，转向其他语言，主要是因为**领导层的行为**。尽管Elm在技术上有其优点，但我在与核心团队的互动中遇到了许多问题，尤其是对**本地模块的限制**让我感到沮丧。此外，Elm的开发过程缺乏透明度，导致我对其**开源**的承诺产生了怀疑。最终，我意识到在这个社区中，良好的关系至关重要，而我已经失去了这个机会。
+
+---
+
+## <a name="18"></a>18. YouTube要求频道拥有者验证手机，永久覆盖个人信息 
+<small>🔗 [old.reddit.com](https://old.reddit.com/r/VirtualYoutubers/comments/1iqmul1/if_you_have_a_moment_i_need_your_help/): YouTube asks channel owner to verify phone, permanently overwrites personal info</small>
+
+
+| 🔥: 92 \| 💬: [63](https://news.ycombinator.com/item?id=43073836) \| 🗓️ 2025-02-16
+
+
+<br />
+一位来自英国的独立VTuber Ebi在YouTube上遇到严重问题。她在验证手机后，发现Google错误地将她的个人信息替换为她母亲的名字，导致她无法进行频道的**货币化**。尽管她尝试联系支持团队，但都未能解决问题。YouTube要求她提供法律文件证明姓名更改，而她的ID因母亲支付电话费而被拒绝。Ebi面临收入减少和未来货币化的风险，希望大家能帮助她引起YouTube的注意。
+
+---
+
+## <a name="19"></a>19. 谷歌为取消AI承诺和DEI目标辩护 
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/feb/12/google-all-staff-meeting-ai-dei): Google defends scrapping AI pledges and DEI goals in all-staff meeting</small>
 
 
-| 🔥: 86 \| 💬: [122](https://news.ycombinator.com/item?id=43072416) \| 🗓️ 2025-02-16
+| 🔥: 88 \| 💬: [124](https://news.ycombinator.com/item?id=43072416) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -227,19 +251,31 @@ Rust 是一种快速、可靠且内存高效的编程语言，近年来被广泛
 
 ---
 
-## <a name="18"></a>18. 所有Kindle现在都可以越狱 
-<small>🔗 [old.reddit.com](https://old.reddit.com/r/kindle/comments/1hrwytr/all_kindles_can_now_be_jailbroken/): All Kindles can now be jailbroken</small>
+## <a name="20"></a>20. 旧金山无家可归者：公园护林员逐个帮助 
+<small>🔗 [sfstandard.com](https://sfstandard.com/2025/02/08/golden-gate-park-ranger-homelessness/): San Francisco homelessness: Park ranger helps one person at a time</small>
 
 
-| 🔥: 77 \| 💬: [37](https://news.ycombinator.com/item?id=43073969) \| 🗓️ 2025-02-16
+| 🔥: 80 \| 💬: [97](https://news.ycombinator.com/item?id=43073292) \| 🗓️ 2025-02-16
 
 
 <br />
-最近，一种新的越狱方法已发布，适用于所有Kindle型号和最新固件版本，包括Colorsoft。这一方法吸引了许多对**modding**感兴趣的用户，能够恢复一些之前的功能，比如**进度条**。用户在讨论中提到，越狱可以带来更多自定义选项，但也存在风险，如可能导致设备“砖化”。如果遇到问题，用户可以在MobileRead寻求支持。
+公园护林员**阿曼达·巴罗斯**在金门公园巡逻，努力帮助无家可归者。她的工作方法与传统的强制驱离不同，强调**建立信任**和提供支持。通过与无家可归者建立关系，巴罗斯成功帮助了数十人获得住房，尽管这一过程充满挑战。她的经历使她能够理解无家可归者的困境，并努力在执法与同情之间找到平衡。
 
 ---
 
-## <a name="19"></a>19. 日本的争议性粗犷建筑：声明还是眼中钉？ 
+## <a name="21"></a>21. 马斯克的DOGE寻求获取个人纳税人数据，令IRS感到警惕 
+<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/business/2025/02/16/doge-irs-access-taxpayer-data/): Musk's DOGE seeks access to personal taxpayer data, raising alarm at IRS</small>
+
+
+| 🔥: 79 \| 💬: [24](https://news.ycombinator.com/item?id=43073471) \| 🗓️ 2025-02-16
+
+
+<br />
+马斯克的美国DOGE服务正试图获得IRS的敏感系统访问权限，这引发了税务机构的担忧。该请求可能允许DOGE官员访问包括**个人识别信息**和银行信息在内的详细纳税人数据。尽管DOGE声称此举是为了提高政府效率，但专家指出，授予政治任命者访问个人纳税数据的权限极为不寻常，可能导致隐私权的侵犯。IRS的内部讨论显示，机构对这一请求深感不安，尤其是在特朗普政府的压力下。
+
+---
+
+## <a name="22"></a>22. 日本的争议性粗犷建筑：声明还是眼中钉？ 
 <small>🔗 [theguardian.com](https://www.theguardian.com/artanddesign/gallery/2025/jan/29/japan-brutalist-buildings-in-pictures): Statement or eyesore? Japan's divisive brutalist buildings – in pictures</small>
 
 
@@ -251,23 +287,11 @@ Rust 是一种快速、可靠且内存高效的编程语言，近年来被广泛
 
 ---
 
-## <a name="20"></a>20. 马斯克的DOGE寻求获取个人纳税人数据，令IRS感到警惕 
-<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/business/2025/02/16/doge-irs-access-taxpayer-data/): Musk's DOGE seeks access to personal taxpayer data, raising alarm at IRS</small>
-
-
-| 🔥: 69 \| 💬: [18](https://news.ycombinator.com/item?id=43073471) \| 🗓️ 2025-02-16
-
-
-<br />
-马斯克的美国DOGE服务正试图获得IRS的敏感系统访问权限，这引发了税务机构的担忧。该请求可能允许DOGE官员访问包括**个人识别信息**和银行信息在内的详细纳税人数据。尽管DOGE声称此举是为了提高政府效率，但专家指出，授予政治任命者访问个人纳税数据的权限极为不寻常，可能导致隐私权的侵犯。IRS的内部讨论显示，机构对这一请求深感不安，尤其是在特朗普政府的压力下。
-
----
-
-## <a name="21"></a>21. 为什么会出现“现在可以安全关闭计算机”的屏幕？ 
+## <a name="23"></a>23. 为什么会出现“现在可以安全关闭计算机”的屏幕？ 
 <small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20160419-00/?p=93315): Why is there a screen that says "It is now safe to turn off your computer"? (2016)</small>
 
 
-| 🔥: 68 \| 💬: [74](https://news.ycombinator.com/item?id=43071193) \| 🗓️ 2025-02-16
+| 🔥: 69 \| 💬: [74](https://news.ycombinator.com/item?id=43071193) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -275,11 +299,11 @@ Rust 是一种快速、可靠且内存高效的编程语言，近年来被广泛
 
 ---
 
-## <a name="22"></a>22. 便携式无人机干扰器使用树莓派战术软件定义无线电 
+## <a name="24"></a>24. 便携式无人机干扰器使用树莓派战术软件定义无线电 
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/raspberry-pi/portable-raspberry-pi-tactical-software-defines-radio-doubles-as-a-drone-jammer): Portable drone jammer uses a Raspberry Pi tactical Software Defined Radio</small>
 
 
-| 🔥: 65 \| 💬: [32](https://news.ycombinator.com/item?id=43071110) \| 🗓️ 2025-02-16
+| 🔥: 67 \| 💬: [33](https://news.ycombinator.com/item?id=43071110) \| 🗓️ 2025-02-16
 
 
 <br />
@@ -287,38 +311,14 @@ Media-Grizzly开发的D.E.S.E.R.T Pi-Powered Tactical System是一款便携式�
 
 ---
 
-## <a name="23"></a>23. YouTube要求频道拥有者验证手机，永久覆盖个人信息 
-<small>🔗 [reddit.com](https://www.reddit.com/r/VirtualYoutubers/s/iJ1W7JUN2T): YouTube asks channel owner to verify phone, permanently overwrites personal info</small>
-
-
-| 🔥: 65 \| 💬: [40](https://news.ycombinator.com/item?id=43073836) \| 🗓️ 2025-02-16
-
-
-<br />
-一位来自英国的独立VTuber Ebi在YouTube上遇到严重问题。她在验证手机后，发现Google错误地将她的个人信息替换为她母亲的名字，导致她无法进行频道的**货币化**。尽管她尝试联系支持团队，但都未能解决问题。YouTube要求她提供法律文件证明姓名更改，而她的ID因母亲支付电话费而被拒绝。Ebi面临收入减少和未来货币化的风险，希望大家能帮助她引起YouTube的注意。
-
----
-
-## <a name="24"></a>24. 重新思考C语言时间API 
+## <a name="25"></a>25. 重新思考C语言时间API 
 <small>🔗 [oliverkwebb.github.io](https://oliverkwebb.github.io/articles/newtime/): Rethinking the C Time API</small>
 
 
-| 🔥: 64 \| 💬: [75](https://news.ycombinator.com/item?id=43068283) \| 🗓️ 2025-02-16
+| 🔥: 65 \| 💬: [75](https://news.ycombinator.com/item?id=43068283) \| 🗓️ 2025-02-16
 
 
 <br />
 C语言的时间API存在许多遗留问题，设计决策过时，导致使用不便。代码示例显示了如何打印当前时间，暴露了如`time()`和`strftime()`等函数的设计缺陷。文章提出了新的时间库概念，旨在解决这些问题，改进时间处理的灵活性和精确度，尤其是在处理**纳秒**和**时区**时。通过创建新的数据结构和函数，作者希望提供更优雅的解决方案，反映出C语言时间API的潜在改进方向。
-
----
-
-## <a name="25"></a>25. 德克萨斯电网可靠性仍存疑虑 
-<small>🔗 [npr.org](https://www.npr.org/2025/02/14/nx-s1-5289877/texas-power-grid-after-outage): Doubts remain over reliability of Texas power grid</small>
-
-
-| 🔥: 64 \| 💬: [68](https://news.ycombinator.com/item?id=43069424) \| 🗓️ 2025-02-16
-
-
-<br />
-尽管德克萨斯州在2021年致命停电后声称电网有所改善，但**对电网的可靠性依然存在疑虑**。州长阿博特强调新建天然气电厂的必要性，但由于德克萨斯州缺乏与邻近电网的连接，**能源需求的增长必须依赖于本州的发电能力**。分析师指出，尽管电网在某些方面有所进步，但仍需更多的努力来提高能源效率和确保天然气供应。随着极端天气的频繁发生，许多德克萨斯居民仍感到不安。
 
 ---
