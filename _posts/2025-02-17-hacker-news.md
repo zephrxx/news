@@ -11,7 +11,7 @@ tags:
 1. X用户无法发布“Signal.me”链接；
 1. searchcode.com的SQLite数据库可能比你的大6TB；
 1. 调试无法调试的应用；
-1. 在PostgreSQL中表示图形数据；
+1. 多伦多机场发生飞机坠毁事件，航班翻转；
 1. 观察R1的“思考”过程：动画化思维链；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [disruptionist.com](https://www.disruptionist.com/p/elon-musks-x-blocks-links-to-signal): X users are unable to post “Signal.me” links</small>
 
 
-| 🔥🔥: 735 \| 💬: [663](https://news.ycombinator.com/item?id=43076710) \| 🗓️ 2025-02-17
+| 🔥🔥: 740 \| 💬: [668](https://news.ycombinator.com/item?id=43076710) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [boyter.org](https://boyter.org/posts/searchcode-bigger-sqlite-than-you/): Searchcode.com’s SQLite database is probably 6 terabytes bigger than yours</small>
 
 
-| 🔥🔥: 224 \| 💬: [90](https://news.ycombinator.com/item?id=43076785) \| 🗓️ 2025-02-17
+| 🔥🔥: 224 \| 💬: [91](https://news.ycombinator.com/item?id=43076785) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -51,7 +51,7 @@ searchcode.com的SQLite数据库是全球最大的公共网站数据库之一，
 <small>🔗 [bryce.co](https://bryce.co/undebuggable/): Debugging an Undebuggable App</small>
 
 
-| 🔥🔥: 202 \| 💬: [32](https://news.ycombinator.com/item?id=43081713) \| 🗓️ 2025-02-17
+| 🔥🔥: 213 \| 💬: [34](https://news.ycombinator.com/item?id=43081713) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -59,35 +59,11 @@ searchcode.com的SQLite数据库是全球最大的公共网站数据库之一，
 
 ---
 
-## <a name="4"></a>4. 在PostgreSQL中表示图形数据 
-<small>🔗 [richard-towers.com](https://www.richard-towers.com/2025/02/16/representing-graphs-in-postgres.html): Representing Graphs in PostgreSQL</small>
-
-
-| 🔥🔥: 167 \| 💬: [68](https://news.ycombinator.com/item?id=43078100) \| 🗓️ 2025-02-17
-
-
-<br />
-在PostgreSQL中，可以通过两个表来表示图形数据，例如社交网络。`nodes`表存储节点信息，`edges`表存储连接关系。通过简单的查询，可以找到父母和朋友的关系，使用**递归CTE**可以灵活地查询任意层级的关系。这种方法允许通过参数化的方式传递根节点和路径，从而提高查询的灵活性和可重用性。
-
----
-
-## <a name="5"></a>5. 观察R1的“思考”过程：动画化思维链 
-<small>🔗 [github.com](https://github.com/dhealy05/frames_of_mind): Watch R1 "think" with animated chains of thought</small>
-
-
-| 🔥🔥: 159 \| 💬: [55](https://news.ycombinator.com/item?id=43080531) \| 🗓️ 2025-02-17
-
-
-<br />
-通过将R1的思维过程可视化，我们可以**保存思维链**为文本，使用OpenAI API将其转换为**嵌入**，并利用t-SNE进行顺序绘图。示例中，R1回答“描述自行车如何工作”时，展示了思维的不同阶段，包括**搜索**、**思考**和**总结**。通过分析连续步骤的余弦相似度，我们能够观察到思维跳跃的大小变化。使用的提示包括如何设计新交通工具、解释秋天叶子变色的原因等。数据和代码可在指定位置获取。
-
----
-
-## <a name="6"></a>6. 多伦多机场发生飞机坠毁事件，航班翻转 
+## <a name="4"></a>4. 多伦多机场发生飞机坠毁事件，航班翻转 
 <small>🔗 [cbc.ca](https://www.cbc.ca/news/canada/toronto/toronto-pearson-overturned-airplane-1.7461227): Plane crashes, overturns during landing at Toronto airport</small>
 
 
-| 🔥🔥: 148 \| 💬: [206](https://news.ycombinator.com/item?id=43083012) \| 🗓️ 2025-02-17
+| 🔥🔥: 173 \| 💬: [238](https://news.ycombinator.com/item?id=43083012) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -95,11 +71,47 @@ searchcode.com的SQLite数据库是全球最大的公共网站数据库之一，
 
 ---
 
-## <a name="7"></a>7. Espargos：基于ESP32的WiFi传感阵列 
+## <a name="5"></a>5. 观察R1的“思考”过程：动画化思维链 
+<small>🔗 [github.com](https://github.com/dhealy05/frames_of_mind): Watch R1 "think" with animated chains of thought</small>
+
+
+| 🔥🔥: 169 \| 💬: [56](https://news.ycombinator.com/item?id=43080531) \| 🗓️ 2025-02-17
+
+
+<br />
+通过将R1的思维过程可视化，我们可以**保存思维链**为文本，使用OpenAI API将其转换为**嵌入**，并利用t-SNE进行顺序绘图。示例中，R1回答“描述自行车如何工作”时，展示了思维的不同阶段，包括**搜索**、**思考**和**总结**。通过分析连续步骤的余弦相似度，我们能够观察到思维跳跃的大小变化。使用的提示包括如何设计新交通工具、解释秋天叶子变色的原因等。数据和代码可在指定位置获取。
+
+---
+
+## <a name="6"></a>6. 在PostgreSQL中表示图形数据 
+<small>🔗 [richard-towers.com](https://www.richard-towers.com/2025/02/16/representing-graphs-in-postgres.html): Representing Graphs in PostgreSQL</small>
+
+
+| 🔥🔥: 168 \| 💬: [68](https://news.ycombinator.com/item?id=43078100) \| 🗓️ 2025-02-17
+
+
+<br />
+在PostgreSQL中，可以通过两个表来表示图形数据，例如社交网络。`nodes`表存储节点信息，`edges`表存储连接关系。通过简单的查询，可以找到父母和朋友的关系，使用**递归CTE**可以灵活地查询任意层级的关系。这种方法允许通过参数化的方式传递根节点和路径，从而提高查询的灵活性和可重用性。
+
+---
+
+## <a name="7"></a>7. 无DRM电子书店列表 
+<small>🔗 [libreture.com](https://libreture.com/bookshops/): List of DRM-Free Bookshops</small>
+
+
+| 🔥🔥: 161 \| 💬: [38](https://news.ycombinator.com/item?id=43083772) \| 🗓️ 2025-02-17
+
+
+<br />
+这篇文章介绍了多个提供**无DRM电子书**的书店，强调了读者对这些书籍的所有权。书店包括**Clarkesworld Magazine**，以其获奖的科幻和奇幻作品而闻名；**Honford Star**，专注于东亚文学的翻译；以及**Roman Labs**，提供独特的数字漫画。其他书店如**University of Wales Press**和**Twisted Ink Magazine**也在推动开放获取和多样化文学方面发挥着重要作用。
+
+---
+
+## <a name="8"></a>8. Espargos：基于ESP32的WiFi传感阵列 
 <small>🔗 [espargos.net](https://espargos.net/): Espargos: ESP32-based WiFi sensing array</small>
 
 
-| 🔥🔥: 137 \| 💬: [22](https://news.ycombinator.com/item?id=43079023) \| 🗓️ 2025-02-17
+| 🔥🔥: 140 \| 💬: [23](https://news.ycombinator.com/item?id=43079023) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -107,7 +119,19 @@ ESPARGOS是一个**相位相干的ESP32天线阵列**，旨在简化WiFi传感�
 
 ---
 
-## <a name="8"></a>8. Mistral Saba：区域语言模型的创新 
+## <a name="9"></a>9. 隐私并未消亡：警惕全有或全无的心态 
+<small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/02/17/privacy-is-not-dead/): Privacy Is Not Dead: Beware the All-or-Nothing Mindset</small>
+
+
+| 🔥🔥: 134 \| 💬: [34](https://news.ycombinator.com/item?id=43083151) \| 🗓️ 2025-02-17
+
+
+<br />
+在隐私保护的讨论中，存在两种有害的心态：**隐私已死**的想法和**完美隐私**的追求。前者导致人们放弃努力，后者则使人们对不完美的隐私工具感到失望。我们应当庆祝每一个小进步，鼓励他人逐步改善隐私，而不是批评他们的选择。隐私不仅是工具，更是一种文化，需通过积极的态度和支持来共同建设。每一个小胜利都是向更好隐私实践迈出的重要一步。
+
+---
+
+## <a name="10"></a>10. Mistral Saba：区域语言模型的创新 
 <small>🔗 [mistral.ai](https://mistral.ai/en/news/mistral-saba): Mistral Saba</small>
 
 
@@ -119,11 +143,11 @@ Mistral Saba是首个专为中东和南亚地区定制的**24B参数模型**，�
 
 ---
 
-## <a name="9"></a>9. C++ 线程局部存储性能分析 
+## <a name="11"></a>11. C++ 线程局部存储性能分析 
 <small>🔗 [yosefk.com](https://yosefk.com/blog/cxx-thread-local-storage-performance.html): 0+0 > 0: C++ thread-local storage performance</small>
 
 
-| 🔥🔥: 129 \| 💬: [75](https://news.ycombinator.com/item?id=43077675) \| 🗓️ 2025-02-17
+| 🔥🔥: 130 \| 💬: [75](https://news.ycombinator.com/item?id=43077675) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -131,23 +155,11 @@ Mistral Saba是首个专为中东和南亚地区定制的**24B参数模型**，�
 
 ---
 
-## <a name="10"></a>10. 隐私并未消亡：警惕全有或全无的心态 
-<small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/02/17/privacy-is-not-dead/): Privacy Is Not Dead: Beware the All-or-Nothing Mindset</small>
-
-
-| 🔥🔥: 117 \| 💬: [28](https://news.ycombinator.com/item?id=43083151) \| 🗓️ 2025-02-17
-
-
-<br />
-在隐私保护的讨论中，存在两种有害的心态：**隐私已死**的想法和**完美隐私**的追求。前者导致人们放弃努力，后者则使人们对不完美的隐私工具感到失望。我们应当庆祝每一个小进步，鼓励他人逐步改善隐私，而不是批评他们的选择。隐私不仅是工具，更是一种文化，需通过积极的态度和支持来共同建设。每一个小胜利都是向更好隐私实践迈出的重要一步。
-
----
-
-## <a name="11"></a>11. 警方逮捕与多起谋杀案相关的“Zizian”邪教头目 
+## <a name="12"></a>12. 警方逮捕与多起谋杀案相关的“Zizian”邪教头目 
 <small>🔗 [pressdemocrat.com](https://www.pressdemocrat.com/article/trending/police-arrest-apparent-leader-of-cultlike-zizian-group-linked-to-multiple/): Police arrest apparent leader of cultlike 'Zizian' group linked to killings</small>
 
 
-| 🔥🔥: 115 \| 💬: [76](https://news.ycombinator.com/item?id=43083976) \| 🗓️ 2025-02-17
+| 🔥🔥: 124 \| 💬: [88](https://news.ycombinator.com/item?id=43083976) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -155,23 +167,11 @@ Mistral Saba是首个专为中东和南亚地区定制的**24B参数模型**，�
 
 ---
 
-## <a name="12"></a>12. NLRB代理总 Counsel 撤销非竞争劳动政策 
-<small>🔗 [natlawreview.com](https://natlawreview.com/article/nlrb-acting-general-counsel-rescinds-non-compete-labor-policy): NLRB acting general counsel rescinds non-compete labor policy</small>
-
-
-| 🔥🔥: 109 \| 💬: [56](https://news.ycombinator.com/item?id=43083295) \| 🗓️ 2025-02-17
-
-
-<br />
-2025年2月14日，NLRB代理总 Counsel 威廉·B·考文撤销了前任总 Counsel 詹妮弗·阿布鲁佐关于**非竞争协议**和**停留或支付协议**的两份备忘录。这一决定标志着对雇主使用限制性契约的法律风险框架的重大变化，允许雇主在更少法律审查的情况下实施这些协议。然而，雇主仍需遵循州法律，并谨慎考虑可能的风险。
-
----
-
 ## <a name="13"></a>13. 大卫·林奇的《绝地复仇》 
 <small>🔗 [benningtonreview.org](https://www.benningtonreview.org/adam-golaski): On David Lynch's Revenge of the Jedi</small>
 
 
-| 🔥🔥: 109 \| 💬: [21](https://news.ycombinator.com/item?id=43084145) \| 🗓️ 2025-02-17
+| 🔥🔥: 123 \| 💬: [31](https://news.ycombinator.com/item?id=43084145) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -179,15 +179,15 @@ Mistral Saba是首个专为中东和南亚地区定制的**24B参数模型**，�
 
 ---
 
-## <a name="14"></a>14. hk：全新的 Git 钩子管理工具 
-<small>🔗 [hk.jdx.dev](https://hk.jdx.dev/about.html): Hk, a new Git hook manager</small>
+## <a name="14"></a>14. NLRB代理总 Counsel 撤销非竞争劳动政策 
+<small>🔗 [natlawreview.com](https://natlawreview.com/article/nlrb-acting-general-counsel-rescinds-non-compete-labor-policy): NLRB acting general counsel rescinds non-compete labor policy</small>
 
 
-| 🔥: 90 \| 💬: [68](https://news.ycombinator.com/item?id=43080535) \| 🗓️ 2025-02-17
+| 🔥🔥: 122 \| 💬: [65](https://news.ycombinator.com/item?id=43083295) \| 🗓️ 2025-02-17
 
 
 <br />
-hk 是由 @jdx 开发的，旨在提升 **性能** 和 **灵活性**。它为用户提供了比 mise 更强大的功能，如仅在特定文件更改时运行任务。hk 采用 Rust 编写，速度更快，并且通过 pkl 文件配置，简化了插件管理。与 lefthook 和 pre-commit 相比，hk 在并行执行和配置方面具有优势。项目仍在实验阶段，欢迎贡献。
+2025年2月14日，NLRB代理总 Counsel 威廉·B·考文撤销了前任总 Counsel 詹妮弗·阿布鲁佐关于**非竞争协议**和**停留或支付协议**的两份备忘录。这一决定标志着对雇主使用限制性契约的法律风险框架的重大变化，允许雇主在更少法律审查的情况下实施这些协议。然而，雇主仍需遵循州法律，并谨慎考虑可能的风险。
 
 ---
 
@@ -195,7 +195,7 @@ hk 是由 @jdx 开发的，旨在提升 **性能** 和 **灵活性**。它为用
 <small>🔗 [thomas-huehn.com](https://www.thomas-huehn.com/open-source-projects-could-sell-sbom-fragments/): Open source projects could sell SBOM fragments</small>
 
 
-| 🔥: 89 \| 💬: [51](https://news.ycombinator.com/item?id=43080378) \| 🗓️ 2025-02-17
+| 🔥: 91 \| 💬: [51](https://news.ycombinator.com/item?id=43080378) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -203,11 +203,23 @@ hk 是由 @jdx 开发的，旨在提升 **性能** 和 **灵活性**。它为用
 
 ---
 
-## <a name="16"></a>16. 在浏览器中使用WebAssembly运行Ruby on Rails 
+## <a name="16"></a>16. hk：全新的 Git 钩子管理工具 
+<small>🔗 [hk.jdx.dev](https://hk.jdx.dev/about.html): Hk, a new Git hook manager</small>
+
+
+| 🔥: 91 \| 💬: [68](https://news.ycombinator.com/item?id=43080535) \| 🗓️ 2025-02-17
+
+
+<br />
+hk 是由 @jdx 开发的，旨在提升 **性能** 和 **灵活性**。它为用户提供了比 mise 更强大的功能，如仅在特定文件更改时运行任务。hk 采用 Rust 编写，速度更快，并且通过 pkl 文件配置，简化了插件管理。与 lefthook 和 pre-commit 相比，hk 在并行执行和配置方面具有优势。项目仍在实验阶段，欢迎贡献。
+
+---
+
+## <a name="17"></a>17. 在浏览器中使用WebAssembly运行Ruby on Rails 
 <small>🔗 [web.dev](https://web.dev/blog/ruby-on-rails-on-webassembly): Run Ruby on Rails in the browser using WebAssembly</small>
 
 
-| 🔥: 83 \| 💬: [23](https://news.ycombinator.com/item?id=43079791) \| 🗓️ 2025-02-17
+| 🔥: 85 \| 💬: [24](https://news.ycombinator.com/item?id=43079791) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -215,11 +227,11 @@ hk 是由 @jdx 开发的，旨在提升 **性能** 和 **灵活性**。它为用
 
 ---
 
-## <a name="17"></a>17. 谁雕刻了南美洲神秘的古代隧道？ 
+## <a name="18"></a>18. 谁雕刻了南美洲神秘的古代隧道？ 
 <small>🔗 [clp.unesp.br](https://www.clp.unesp.br/Modulos/Noticias/401/paleoburrows-nature-2025.pdf): Who carved South America's mysterious ancient tunnels? [pdf]</small>
 
 
-| 🔥: 74 \| 💬: [36](https://news.ycombinator.com/item?id=43082287) \| 🗓️ 2025-02-17
+| 🔥: 78 \| 💬: [36](https://news.ycombinator.com/item?id=43082287) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -227,11 +239,11 @@ hk 是由 @jdx 开发的，旨在提升 **性能** 和 **灵活性**。它为用
 
 ---
 
-## <a name="18"></a>18. NES86 – NES上的IBM PC模拟器 
+## <a name="19"></a>19. NES86 – NES上的IBM PC模拟器 
 <small>🔗 [github.com](https://github.com/decrazyo/nes86): NES86 – IBM PC Emulator for the NES</small>
 
 
-| 🔥: 70 \| 💬: [16](https://news.ycombinator.com/item?id=43082739) \| 🗓️ 2025-02-17
+| 🔥: 77 \| 💬: [20](https://news.ycombinator.com/item?id=43082739) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -239,7 +251,7 @@ NES86是一个为NES设计的IBM PC模拟器，旨在模拟Intel 8086处理器�
 
 ---
 
-## <a name="19"></a>19. 学习发生在优化理解而非胜利的环境中 
+## <a name="20"></a>20. 学习发生在优化理解而非胜利的环境中 
 <small>🔗 [joanwestenberg.com](https://www.joanwestenberg.com/you-will-never-win-an-argument-on-the-internet-heres-why/): Learning happens in environments optimized for understanding, not winning</small>
 
 
@@ -251,11 +263,11 @@ NES86是一个为NES设计的IBM PC模拟器，旨在模拟Intel 8086处理器�
 
 ---
 
-## <a name="20"></a>20. 阿根廷总统因加密货币崩盘面临弹劾呼声 
+## <a name="21"></a>21. 阿根廷总统因加密货币崩盘面临弹劾呼声 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/cp9x9j89evxo): Argentina president faces impeachment calls over crypto crash</small>
 
 
-| 🔥: 66 \| 💬: [24](https://news.ycombinator.com/item?id=43083886) \| 🗓️ 2025-02-17
+| 🔥: 66 \| 💬: [25](https://news.ycombinator.com/item?id=43083886) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -263,7 +275,7 @@ NES86是一个为NES设计的IBM PC模拟器，旨在模拟Intel 8086处理器�
 
 ---
 
-## <a name="21"></a>21. ChatGPT自动补全的用户体验设计是否糟糕？ 
+## <a name="22"></a>22. ChatGPT自动补全的用户体验设计是否糟糕？ 
 <small>🔗 [honzabe.com](https://honzabe.com/blog/posts/chatgpt-autocomplete-bad-ux-ui/): Is ChatGPT autocomplete bad UX/UI?</small>
 
 
@@ -275,11 +287,11 @@ NES86是一个为NES设计的IBM PC模拟器，旨在模拟Intel 8086处理器�
 
 ---
 
-## <a name="22"></a>22. R.E.M.如何走向主流 
+## <a name="23"></a>23. R.E.M.如何走向主流 
 <small>🔗 [yalereview.org](https://yalereview.org/article/tavakoli-rem-peter-ames-carlin): What happened when REM went mainstream</small>
 
 
-| 🔥: 63 \| 💬: [73](https://news.ycombinator.com/item?id=43081929) \| 🗓️ 2025-02-17
+| 🔥: 63 \| 💬: [74](https://news.ycombinator.com/item?id=43081929) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -287,7 +299,7 @@ R.E.M.从一个**独立音乐**的代表，逐渐成为了主流文化的象征�
 
 ---
 
-## <a name="23"></a>23. 卡尔托费尔斯 – 细胞自动机、统计、32位RISC-V 
+## <a name="24"></a>24. 卡尔托费尔斯 – 细胞自动机、统计、32位RISC-V 
 <small>🔗 [pwy.io](https://pwy.io/posts/kartoffels-v0.7/): Show HN: Kartoffels – Cellular Automata, Statistics, 32-bit RISC-V</small>
 
 
@@ -299,7 +311,7 @@ R.E.M.从一个**独立音乐**的代表，逐渐成为了主流文化的象征�
 
 ---
 
-## <a name="24"></a>24. 开源维护者面临压力 
+## <a name="25"></a>25. 开源维护者面临压力 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/02/16/open_source_maintainers_state_of_open/): Open source maintainers are feeling the squeeze</small>
 
 
@@ -308,17 +320,5 @@ R.E.M.从一个**独立音乐**的代表，逐渐成为了主流文化的象征�
 
 <br />
 开源维护者的困境日益严重，尤其是在2025年开源大会上，许多技术巨头和志愿者都表达了这一问题。维护者们常常感到**过度工作**、**缺乏支持**，并受到用户的**虐待**。例如，Asahi Linux项目的负责人因开发者疲惫和用户要求过高而辞职。调查显示，约60%的维护者考虑退出，许多项目由少数人支持，面临持续的压力。解决方案并不简单，虽然财务支持可能有帮助，但更多的贡献者和社区管理同样重要。
-
----
-
-## <a name="25"></a>25. 与Doge相关的员工预计将寻求访问IRS系统 
-<small>🔗 [nbcnews.com](https://www.nbcnews.com/politics/doge/doge-affiliated-employee-access-irs-system-sensitive-taxpayer-inform-rcna192423): Doge-affiliated employee expected to seek access to IRS system</small>
-
-
-| 🔥: 50 \| 💬: [28](https://news.ycombinator.com/item?id=43077866) \| 🗓️ 2025-02-17
-
-
-<br />
-一名与政府效率部相关的IRS员工预计将寻求访问包含敏感纳税人信息的**集成数据检索系统**（IDRS）。最初有报道称该员工已获得访问权限，但后来澄清为其尚未进入系统。IDRS允许IRS员工即时访问纳税人账户信息，包括个人主文件和退休账户信息。该员工自特朗普第二次就职以来加入IRS，正在执行“Doge使命”，并被认为在合法和适当的安全许可下行动。白宫发言人表示，直接访问系统是识别和解决系统中**浪费、欺诈和滥用**问题的关键。Doge团队在努力揭露政府支出中的浪费，已成功访问财政部支付系统等多个政府机构的数据。
 
 ---
