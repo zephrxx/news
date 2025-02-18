@@ -9,10 +9,10 @@ tags:
 
 
 1. X用户无法发布“Signal.me”链接；
-1. searchcode.com的SQLite数据库可能比你的大6TB；
 1. 调试无法调试的应用；
 1. 多伦多机场发生飞机坠毁事件，航班翻转；
-1. 观察R1的“思考”过程：动画化思维链；
+1. searchcode.com的SQLite数据库可能比你的大6TB；
+1. 无DRM电子书店列表；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [disruptionist.com](https://www.disruptionist.com/p/elon-musks-x-blocks-links-to-signal): X users are unable to post “Signal.me” links</small>
 
 
-| 🔥🔥: 743 \| 💬: [670](https://news.ycombinator.com/item?id=43076710) \| 🗓️ 2025-02-17
+| 🔥🔥: 744 \| 💬: [676](https://news.ycombinator.com/item?id=43076710) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -35,7 +35,31 @@ tags:
 
 ---
 
-## <a name="2"></a>2. searchcode.com的SQLite数据库可能比你的大6TB 
+## <a name="2"></a>2. 调试无法调试的应用 
+<small>🔗 [bryce.co](https://bryce.co/undebuggable/): Debugging an Undebuggable App</small>
+
+
+| 🔥🔥: 234 \| 💬: [40](https://news.ycombinator.com/item?id=43081713) \| 🗓️ 2025-02-17
+
+
+<br />
+最近我遇到了一款应用，它通过多种方式阻止调试器附加，包括**早期退出**和**越狱检测**，甚至在越狱设备上会导致手机崩溃。这种保护机制使得调试和修改应用变得困难，但我们可以通过分析其使用的**ptrace**函数来绕过这些限制。通过设置断点和使用汇编代码，我们可以成功附加调试器并探索应用的内部工作原理。
+
+---
+
+## <a name="3"></a>3. 多伦多机场发生飞机坠毁事件，航班翻转 
+<small>🔗 [cbc.ca](https://www.cbc.ca/news/canada/toronto/toronto-pearson-overturned-airplane-1.7461227): Plane crashes, overturns during landing at Toronto airport</small>
+
+
+| 🔥🔥: 233 \| 💬: [270](https://news.ycombinator.com/item?id=43083012) \| 🗓️ 2025-02-17
+
+
+<br />
+在多伦多皮尔逊机场，一架来自明尼阿波利斯的**达美航空**飞机在降落时发生**坠毁并翻转**，导致8人受伤，其中3人伤势严重。机场已关闭跑道，所有乘客和机组人员均已确认安全。联邦运输部长表示正在密切关注此事件。
+
+---
+
+## <a name="4"></a>4. searchcode.com的SQLite数据库可能比你的大6TB 
 <small>🔗 [boyter.org](https://boyter.org/posts/searchcode-bigger-sqlite-than-you/): Searchcode.com’s SQLite database is probably 6 terabytes bigger than yours</small>
 
 
@@ -47,47 +71,11 @@ searchcode.com的SQLite数据库是全球最大的公共网站数据库之一，
 
 ---
 
-## <a name="3"></a>3. 调试无法调试的应用 
-<small>🔗 [bryce.co](https://bryce.co/undebuggable/): Debugging an Undebuggable App</small>
-
-
-| 🔥🔥: 220 \| 💬: [36](https://news.ycombinator.com/item?id=43081713) \| 🗓️ 2025-02-17
-
-
-<br />
-最近我遇到了一款应用，它通过多种方式阻止调试器附加，包括**早期退出**和**越狱检测**，甚至在越狱设备上会导致手机崩溃。这种保护机制使得调试和修改应用变得困难，但我们可以通过分析其使用的**ptrace**函数来绕过这些限制。通过设置断点和使用汇编代码，我们可以成功附加调试器并探索应用的内部工作原理。
-
----
-
-## <a name="4"></a>4. 多伦多机场发生飞机坠毁事件，航班翻转 
-<small>🔗 [cbc.ca](https://www.cbc.ca/news/canada/toronto/toronto-pearson-overturned-airplane-1.7461227): Plane crashes, overturns during landing at Toronto airport</small>
-
-
-| 🔥🔥: 199 \| 💬: [258](https://news.ycombinator.com/item?id=43083012) \| 🗓️ 2025-02-17
-
-
-<br />
-在多伦多皮尔逊机场，一架来自明尼阿波利斯的**达美航空**飞机在降落时发生**坠毁并翻转**，导致8人受伤，其中3人伤势严重。机场已关闭跑道，所有乘客和机组人员均已确认安全。联邦运输部长表示正在密切关注此事件。
-
----
-
-## <a name="5"></a>5. 观察R1的“思考”过程：动画化思维链 
-<small>🔗 [github.com](https://github.com/dhealy05/frames_of_mind): Watch R1 "think" with animated chains of thought</small>
-
-
-| 🔥🔥: 180 \| 💬: [58](https://news.ycombinator.com/item?id=43080531) \| 🗓️ 2025-02-17
-
-
-<br />
-通过将R1的思维过程可视化，我们可以**保存思维链**为文本，使用OpenAI API将其转换为**嵌入**，并利用t-SNE进行顺序绘图。示例中，R1回答“描述自行车如何工作”时，展示了思维的不同阶段，包括**搜索**、**思考**和**总结**。通过分析连续步骤的余弦相似度，我们能够观察到思维跳跃的大小变化。使用的提示包括如何设计新交通工具、解释秋天叶子变色的原因等。数据和代码可在指定位置获取。
-
----
-
-## <a name="6"></a>6. 无DRM电子书店列表 
+## <a name="5"></a>5. 无DRM电子书店列表 
 <small>🔗 [libreture.com](https://libreture.com/bookshops/): List of DRM-Free Bookshops</small>
 
 
-| 🔥🔥: 173 \| 💬: [43](https://news.ycombinator.com/item?id=43083772) \| 🗓️ 2025-02-17
+| 🔥🔥: 195 \| 💬: [44](https://news.ycombinator.com/item?id=43083772) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -95,11 +83,23 @@ searchcode.com的SQLite数据库是全球最大的公共网站数据库之一，
 
 ---
 
+## <a name="6"></a>6. 观察R1的“思考”过程：动画化思维链 
+<small>🔗 [github.com](https://github.com/dhealy05/frames_of_mind): Watch R1 "think" with animated chains of thought</small>
+
+
+| 🔥🔥: 184 \| 💬: [58](https://news.ycombinator.com/item?id=43080531) \| 🗓️ 2025-02-17
+
+
+<br />
+通过将R1的思维过程可视化，我们可以**保存思维链**为文本，使用OpenAI API将其转换为**嵌入**，并利用t-SNE进行顺序绘图。示例中，R1回答“描述自行车如何工作”时，展示了思维的不同阶段，包括**搜索**、**思考**和**总结**。通过分析连续步骤的余弦相似度，我们能够观察到思维跳跃的大小变化。使用的提示包括如何设计新交通工具、解释秋天叶子变色的原因等。数据和代码可在指定位置获取。
+
+---
+
 ## <a name="7"></a>7. 在PostgreSQL中表示图形数据 
 <small>🔗 [richard-towers.com](https://www.richard-towers.com/2025/02/16/representing-graphs-in-postgres.html): Representing Graphs in PostgreSQL</small>
 
 
-| 🔥🔥: 171 \| 💬: [68](https://news.ycombinator.com/item?id=43078100) \| 🗓️ 2025-02-17
+| 🔥🔥: 174 \| 💬: [68](https://news.ycombinator.com/item?id=43078100) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -107,11 +107,23 @@ searchcode.com的SQLite数据库是全球最大的公共网站数据库之一，
 
 ---
 
-## <a name="8"></a>8. Espargos：基于ESP32的WiFi传感阵列 
+## <a name="8"></a>8. 大卫·林奇的《绝地复仇》 
+<small>🔗 [benningtonreview.org](https://www.benningtonreview.org/adam-golaski): On David Lynch's Revenge of the Jedi (2018)</small>
+
+
+| 🔥🔥: 151 \| 💬: [49](https://news.ycombinator.com/item?id=43084145) \| 🗓️ 2025-02-17
+
+
+<br />
+文章回顾了大卫·林奇在1981年被乔治·卢卡斯考虑为《绝地复仇》的导演的背景。尽管林奇对该项目表示兴趣，但最终选择了执导《沙丘》。他认为《星球大战》是卢卡斯的作品，自己不适合。文章探讨了林奇的独特风格与《星球大战》的潜在融合，以及其他导演的可能性。
+
+---
+
+## <a name="9"></a>9. Espargos：基于ESP32的WiFi传感阵列 
 <small>🔗 [espargos.net](https://espargos.net/): Espargos: ESP32-based WiFi sensing array</small>
 
 
-| 🔥🔥: 142 \| 💬: [24](https://news.ycombinator.com/item?id=43079023) \| 🗓️ 2025-02-17
+| 🔥🔥: 147 \| 💬: [26](https://news.ycombinator.com/item?id=43079023) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -119,7 +131,7 @@ ESPARGOS是一个**相位相干的ESP32天线阵列**，旨在简化WiFi传感�
 
 ---
 
-## <a name="9"></a>9. 隐私并未消亡：警惕全有或全无的心态 
+## <a name="10"></a>10. 隐私并未消亡：警惕全有或全无的心态 
 <small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/02/17/privacy-is-not-dead/): Privacy Is Not Dead: Beware the All-or-Nothing Mindset</small>
 
 
@@ -131,23 +143,11 @@ ESPARGOS是一个**相位相干的ESP32天线阵列**，旨在简化WiFi传感�
 
 ---
 
-## <a name="10"></a>10. C++ 线程局部存储性能分析 
-<small>🔗 [yosefk.com](https://yosefk.com/blog/cxx-thread-local-storage-performance.html): 0+0 > 0: C++ thread-local storage performance</small>
-
-
-| 🔥🔥: 134 \| 💬: [75](https://news.ycombinator.com/item?id=43077675) \| 🗓️ 2025-02-17
-
-
-<br />
-本文探讨了如何确保对 **线程局部存储** (TLS) 的访问速度。尽管 TLS 语法简单，但其背后可能隐藏着较高的开销。通过分析不同情况下的汇编代码，作者揭示了在共享库和构造函数中使用 TLS 时的性能问题，强调了 **初始化开销** 和 **函数调用** 的影响。作者提出，尽管 TLS 提供了便利，但在某些情况下，性能可能不如预期，尤其是在多线程环境中。
-
----
-
 ## <a name="11"></a>11. NLRB代理总 Counsel 撤销非竞争劳动政策 
 <small>🔗 [natlawreview.com](https://natlawreview.com/article/nlrb-acting-general-counsel-rescinds-non-compete-labor-policy): NLRB acting general counsel rescinds non-compete labor policy</small>
 
 
-| 🔥🔥: 134 \| 💬: [70](https://news.ycombinator.com/item?id=43083295) \| 🗓️ 2025-02-17
+| 🔥🔥: 141 \| 💬: [70](https://news.ycombinator.com/item?id=43083295) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -155,15 +155,15 @@ ESPARGOS是一个**相位相干的ESP32天线阵列**，旨在简化WiFi传感�
 
 ---
 
-## <a name="12"></a>12. 大卫·林奇的《绝地复仇》 
-<small>🔗 [benningtonreview.org](https://www.benningtonreview.org/adam-golaski): On David Lynch's Revenge of the Jedi (2018)</small>
+## <a name="12"></a>12. C++ 线程局部存储性能分析 
+<small>🔗 [yosefk.com](https://yosefk.com/blog/cxx-thread-local-storage-performance.html): 0+0 > 0: C++ thread-local storage performance</small>
 
 
-| 🔥🔥: 134 \| 💬: [42](https://news.ycombinator.com/item?id=43084145) \| 🗓️ 2025-02-17
+| 🔥🔥: 138 \| 💬: [76](https://news.ycombinator.com/item?id=43077675) \| 🗓️ 2025-02-17
 
 
 <br />
-文章回顾了大卫·林奇在1981年被乔治·卢卡斯考虑为《绝地复仇》的导演的背景。尽管林奇对该项目表示兴趣，但最终选择了执导《沙丘》。他认为《星球大战》是卢卡斯的作品，自己不适合。文章探讨了林奇的独特风格与《星球大战》的潜在融合，以及其他导演的可能性。
+本文探讨了如何确保对 **线程局部存储** (TLS) 的访问速度。尽管 TLS 语法简单，但其背后可能隐藏着较高的开销。通过分析不同情况下的汇编代码，作者揭示了在共享库和构造函数中使用 TLS 时的性能问题，强调了 **初始化开销** 和 **函数调用** 的影响。作者提出，尽管 TLS 提供了便利，但在某些情况下，性能可能不如预期，尤其是在多线程环境中。
 
 ---
 
@@ -171,7 +171,7 @@ ESPARGOS是一个**相位相干的ESP32天线阵列**，旨在简化WiFi传感�
 <small>🔗 [mistral.ai](https://mistral.ai/en/news/mistral-saba): Mistral Saba</small>
 
 
-| 🔥🔥: 133 \| 💬: [20](https://news.ycombinator.com/item?id=43079046) \| 🗓️ 2025-02-17
+| 🔥🔥: 134 \| 💬: [20](https://news.ycombinator.com/item?id=43079046) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -183,7 +183,7 @@ Mistral Saba是首个专为中东和南亚地区定制的**24B参数模型**，�
 <small>🔗 [pressdemocrat.com](https://www.pressdemocrat.com/article/trending/police-arrest-apparent-leader-of-cultlike-zizian-group-linked-to-multiple/): Police arrest apparent leader of cultlike 'Zizian' group linked to killings</small>
 
 
-| 🔥🔥: 132 \| 💬: [95](https://news.ycombinator.com/item?id=43083976) \| 🗓️ 2025-02-17
+| 🔥🔥: 134 \| 💬: [98](https://news.ycombinator.com/item?id=43083976) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -195,7 +195,7 @@ Mistral Saba是首个专为中东和南亚地区定制的**24B参数模型**，�
 <small>🔗 [thomas-huehn.com](https://www.thomas-huehn.com/open-source-projects-could-sell-sbom-fragments/): Open source projects could sell SBOM fragments</small>
 
 
-| 🔥: 93 \| 💬: [52](https://news.ycombinator.com/item?id=43080378) \| 🗓️ 2025-02-17
+| 🔥: 95 \| 💬: [52](https://news.ycombinator.com/item?id=43080378) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -227,47 +227,11 @@ hk 是由 @jdx 开发的，旨在提升 **性能** 和 **灵活性**。它为用
 
 ---
 
-## <a name="18"></a>18. NES86 – NES上的IBM PC模拟器 
-<small>🔗 [github.com](https://github.com/decrazyo/nes86): NES86 – IBM PC Emulator for the NES</small>
-
-
-| 🔥: 80 \| 💬: [21](https://news.ycombinator.com/item?id=43082739) \| 🗓️ 2025-02-17
-
-
-<br />
-NES86是一个为NES设计的IBM PC模拟器，旨在模拟Intel 8086处理器及相关硬件，以运行**嵌入式Linux内核子集（ELKS）**及其他简单的x86软件。用户可以通过下载NES86和ELKS的ROM或从源代码构建来运行该模拟器。尽管NES86的映射配置理论上有效，但大多数模拟器和闪存卡并不支持。项目欢迎贡献和移植，详细的构建步骤和依赖项也在文档中提供。
-
----
-
-## <a name="19"></a>19. 谁雕刻了南美洲神秘的古代隧道？ 
-<small>🔗 [clp.unesp.br](https://www.clp.unesp.br/Modulos/Noticias/401/paleoburrows-nature-2025.pdf): Who carved South America's mysterious ancient tunnels? [pdf]</small>
-
-
-| 🔥: 79 \| 💬: [37](https://news.ycombinator.com/item?id=43082287) \| 🗓️ 2025-02-17
-
-
-<br />
-南美洲的古代隧道引发了广泛的好奇与研究，至今仍未有确凿的答案。考古学家们对这些隧道的起源、用途及其建造者进行了深入探讨，认为它们可能与古代文明的宗教、贸易或防御系统有关。这些隧道的复杂结构和广泛分布表明，**古代文明**在工程技术方面具有相当高的水平，可能反映了当时社会的组织能力和文化背景。
-
----
-
-## <a name="20"></a>20. 寻找你的2%者 
-<small>🔗 [joyarbitrage.substack.com](https://joyarbitrage.substack.com/p/find-your-2ers): Find Your 2%Ers</small>
-
-
-| 🔥: 74 \| 💬: [23](https://news.ycombinator.com/item?id=43083345) \| 🗓️ 2025-02-17
-
-
-<br />
-在社交中，**能量**是关键。大多数人（98%）会让我感到疲惫，而只有少数人（2%）能让我充满活力。我称他们为我的**2%者**，并致力于寻找这些人。研究表明，**人际关系的质量**是幸福和健康的最佳预测因素。因此，找到这些特别的人并与他们一起生活至关重要。虽然每个人的2%者不同，但我们应该主动与他们建立联系，安排共同活动，享受生活。
-
----
-
-## <a name="21"></a>21. 小型科技 
+## <a name="18"></a>18. 小型科技 
 <small>🔗 [scattered-thoughts.net](https://www.scattered-thoughts.net/writing/small-tech/): Small Tech</small>
 
 
-| 🔥: 73 \| 💬: [3](https://news.ycombinator.com/item?id=43081378) \| 🗓️ 2025-02-17
+| 🔥: 86 \| 💬: [4](https://news.ycombinator.com/item?id=43081378) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -275,11 +239,47 @@ NES86是一个为NES设计的IBM PC模拟器，旨在模拟Intel 8086处理器�
 
 ---
 
+## <a name="19"></a>19. NES86 – NES上的IBM PC模拟器 
+<small>🔗 [github.com](https://github.com/decrazyo/nes86): NES86 – IBM PC Emulator for the NES</small>
+
+
+| 🔥: 84 \| 💬: [21](https://news.ycombinator.com/item?id=43082739) \| 🗓️ 2025-02-17
+
+
+<br />
+NES86是一个为NES设计的IBM PC模拟器，旨在模拟Intel 8086处理器及相关硬件，以运行**嵌入式Linux内核子集（ELKS）**及其他简单的x86软件。用户可以通过下载NES86和ELKS的ROM或从源代码构建来运行该模拟器。尽管NES86的映射配置理论上有效，但大多数模拟器和闪存卡并不支持。项目欢迎贡献和移植，详细的构建步骤和依赖项也在文档中提供。
+
+---
+
+## <a name="20"></a>20. 谁雕刻了南美洲神秘的古代隧道？ 
+<small>🔗 [clp.unesp.br](https://www.clp.unesp.br/Modulos/Noticias/401/paleoburrows-nature-2025.pdf): Who carved South America's mysterious ancient tunnels? [pdf]</small>
+
+
+| 🔥: 80 \| 💬: [37](https://news.ycombinator.com/item?id=43082287) \| 🗓️ 2025-02-17
+
+
+<br />
+南美洲的古代隧道引发了广泛的好奇与研究，至今仍未有确凿的答案。考古学家们对这些隧道的起源、用途及其建造者进行了深入探讨，认为它们可能与古代文明的宗教、贸易或防御系统有关。这些隧道的复杂结构和广泛分布表明，**古代文明**在工程技术方面具有相当高的水平，可能反映了当时社会的组织能力和文化背景。
+
+---
+
+## <a name="21"></a>21. 寻找你的2%者 
+<small>🔗 [joyarbitrage.substack.com](https://joyarbitrage.substack.com/p/find-your-2ers): Find Your 2%Ers</small>
+
+
+| 🔥: 79 \| 💬: [24](https://news.ycombinator.com/item?id=43083345) \| 🗓️ 2025-02-17
+
+
+<br />
+在社交中，**能量**是关键。大多数人（98%）会让我感到疲惫，而只有少数人（2%）能让我充满活力。我称他们为我的**2%者**，并致力于寻找这些人。研究表明，**人际关系的质量**是幸福和健康的最佳预测因素。因此，找到这些特别的人并与他们一起生活至关重要。虽然每个人的2%者不同，但我们应该主动与他们建立联系，安排共同活动，享受生活。
+
+---
+
 ## <a name="22"></a>22. 阿根廷总统因加密货币崩盘面临弹劾呼声 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/cp9x9j89evxo): Argentina president faces impeachment calls over crypto crash</small>
 
 
-| 🔥: 72 \| 💬: [25](https://news.ycombinator.com/item?id=43083886) \| 🗓️ 2025-02-17
+| 🔥: 74 \| 💬: [26](https://news.ycombinator.com/item?id=43083886) \| 🗓️ 2025-02-17
 
 
 <br />
