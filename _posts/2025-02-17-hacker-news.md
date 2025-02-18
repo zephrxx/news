@@ -9,8 +9,8 @@ tags:
 
 
 1. X用户无法发布“Signal.me”链接；
-1. 调试无法调试的应用；
 1. 多伦多机场发生飞机坠毁事件，航班翻转；
+1. 调试无法调试的应用；
 1. searchcode.com的SQLite数据库可能比你的大6TB；
 1. 无DRM电子书店列表；
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [disruptionist.com](https://www.disruptionist.com/p/elon-musks-x-blocks-links-to-signal): X users are unable to post “Signal.me” links</small>
 
 
-| 🔥🔥: 744 \| 💬: [676](https://news.ycombinator.com/item?id=43076710) \| 🗓️ 2025-02-17
+| 🔥🔥: 747 \| 💬: [676](https://news.ycombinator.com/item?id=43076710) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -35,27 +35,27 @@ tags:
 
 ---
 
-## <a name="2"></a>2. 调试无法调试的应用 
-<small>🔗 [bryce.co](https://bryce.co/undebuggable/): Debugging an Undebuggable App</small>
-
-
-| 🔥🔥: 234 \| 💬: [40](https://news.ycombinator.com/item?id=43081713) \| 🗓️ 2025-02-17
-
-
-<br />
-最近我遇到了一款应用，它通过多种方式阻止调试器附加，包括**早期退出**和**越狱检测**，甚至在越狱设备上会导致手机崩溃。这种保护机制使得调试和修改应用变得困难，但我们可以通过分析其使用的**ptrace**函数来绕过这些限制。通过设置断点和使用汇编代码，我们可以成功附加调试器并探索应用的内部工作原理。
-
----
-
-## <a name="3"></a>3. 多伦多机场发生飞机坠毁事件，航班翻转 
+## <a name="2"></a>2. 多伦多机场发生飞机坠毁事件，航班翻转 
 <small>🔗 [cbc.ca](https://www.cbc.ca/news/canada/toronto/toronto-pearson-overturned-airplane-1.7461227): Plane crashes, overturns during landing at Toronto airport</small>
 
 
-| 🔥🔥: 233 \| 💬: [270](https://news.ycombinator.com/item?id=43083012) \| 🗓️ 2025-02-17
+| 🔥🔥: 273 \| 💬: [310](https://news.ycombinator.com/item?id=43083012) \| 🗓️ 2025-02-17
 
 
 <br />
 在多伦多皮尔逊机场，一架来自明尼阿波利斯的**达美航空**飞机在降落时发生**坠毁并翻转**，导致8人受伤，其中3人伤势严重。机场已关闭跑道，所有乘客和机组人员均已确认安全。联邦运输部长表示正在密切关注此事件。
+
+---
+
+## <a name="3"></a>3. 调试无法调试的应用 
+<small>🔗 [bryce.co](https://bryce.co/undebuggable/): Debugging an Undebuggable App</small>
+
+
+| 🔥🔥: 243 \| 💬: [40](https://news.ycombinator.com/item?id=43081713) \| 🗓️ 2025-02-17
+
+
+<br />
+最近我遇到了一款应用，它通过多种方式阻止调试器附加，包括**早期退出**和**越狱检测**，甚至在越狱设备上会导致手机崩溃。这种保护机制使得调试和修改应用变得困难，但我们可以通过分析其使用的**ptrace**函数来绕过这些限制。通过设置断点和使用汇编代码，我们可以成功附加调试器并探索应用的内部工作原理。
 
 ---
 
@@ -75,7 +75,7 @@ searchcode.com的SQLite数据库是全球最大的公共网站数据库之一，
 <small>🔗 [libreture.com](https://libreture.com/bookshops/): List of DRM-Free Bookshops</small>
 
 
-| 🔥🔥: 195 \| 💬: [44](https://news.ycombinator.com/item?id=43083772) \| 🗓️ 2025-02-17
+| 🔥🔥: 219 \| 💬: [48](https://news.ycombinator.com/item?id=43083772) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -87,7 +87,7 @@ searchcode.com的SQLite数据库是全球最大的公共网站数据库之一，
 <small>🔗 [github.com](https://github.com/dhealy05/frames_of_mind): Watch R1 "think" with animated chains of thought</small>
 
 
-| 🔥🔥: 184 \| 💬: [58](https://news.ycombinator.com/item?id=43080531) \| 🗓️ 2025-02-17
+| 🔥🔥: 191 \| 💬: [59](https://news.ycombinator.com/item?id=43080531) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -99,7 +99,7 @@ searchcode.com的SQLite数据库是全球最大的公共网站数据库之一，
 <small>🔗 [richard-towers.com](https://www.richard-towers.com/2025/02/16/representing-graphs-in-postgres.html): Representing Graphs in PostgreSQL</small>
 
 
-| 🔥🔥: 174 \| 💬: [68](https://news.ycombinator.com/item?id=43078100) \| 🗓️ 2025-02-17
+| 🔥🔥: 175 \| 💬: [68](https://news.ycombinator.com/item?id=43078100) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -111,7 +111,7 @@ searchcode.com的SQLite数据库是全球最大的公共网站数据库之一，
 <small>🔗 [benningtonreview.org](https://www.benningtonreview.org/adam-golaski): On David Lynch's Revenge of the Jedi (2018)</small>
 
 
-| 🔥🔥: 151 \| 💬: [49](https://news.ycombinator.com/item?id=43084145) \| 🗓️ 2025-02-17
+| 🔥🔥: 162 \| 💬: [54](https://news.ycombinator.com/item?id=43084145) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -123,7 +123,7 @@ searchcode.com的SQLite数据库是全球最大的公共网站数据库之一，
 <small>🔗 [espargos.net](https://espargos.net/): Espargos: ESP32-based WiFi sensing array</small>
 
 
-| 🔥🔥: 147 \| 💬: [26](https://news.ycombinator.com/item?id=43079023) \| 🗓️ 2025-02-17
+| 🔥🔥: 157 \| 💬: [27](https://news.ycombinator.com/item?id=43079023) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -135,7 +135,7 @@ ESPARGOS是一个**相位相干的ESP32天线阵列**，旨在简化WiFi传感�
 <small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/02/17/privacy-is-not-dead/): Privacy Is Not Dead: Beware the All-or-Nothing Mindset</small>
 
 
-| 🔥🔥: 141 \| 💬: [37](https://news.ycombinator.com/item?id=43083151) \| 🗓️ 2025-02-17
+| 🔥🔥: 144 \| 💬: [37](https://news.ycombinator.com/item?id=43083151) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -147,7 +147,7 @@ ESPARGOS是一个**相位相干的ESP32天线阵列**，旨在简化WiFi传感�
 <small>🔗 [natlawreview.com](https://natlawreview.com/article/nlrb-acting-general-counsel-rescinds-non-compete-labor-policy): NLRB acting general counsel rescinds non-compete labor policy</small>
 
 
-| 🔥🔥: 141 \| 💬: [70](https://news.ycombinator.com/item?id=43083295) \| 🗓️ 2025-02-17
+| 🔥🔥: 142 \| 💬: [74](https://news.ycombinator.com/item?id=43083295) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -159,7 +159,7 @@ ESPARGOS是一个**相位相干的ESP32天线阵列**，旨在简化WiFi传感�
 <small>🔗 [yosefk.com](https://yosefk.com/blog/cxx-thread-local-storage-performance.html): 0+0 > 0: C++ thread-local storage performance</small>
 
 
-| 🔥🔥: 138 \| 💬: [76](https://news.ycombinator.com/item?id=43077675) \| 🗓️ 2025-02-17
+| 🔥🔥: 139 \| 💬: [78](https://news.ycombinator.com/item?id=43077675) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -183,7 +183,7 @@ Mistral Saba是首个专为中东和南亚地区定制的**24B参数模型**，�
 <small>🔗 [pressdemocrat.com](https://www.pressdemocrat.com/article/trending/police-arrest-apparent-leader-of-cultlike-zizian-group-linked-to-multiple/): Police arrest apparent leader of cultlike 'Zizian' group linked to killings</small>
 
 
-| 🔥🔥: 134 \| 💬: [98](https://news.ycombinator.com/item?id=43083976) \| 🗓️ 2025-02-17
+| 🔥🔥: 134 \| 💬: [100](https://news.ycombinator.com/item?id=43083976) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -195,7 +195,7 @@ Mistral Saba是首个专为中东和南亚地区定制的**24B参数模型**，�
 <small>🔗 [thomas-huehn.com](https://www.thomas-huehn.com/open-source-projects-could-sell-sbom-fragments/): Open source projects could sell SBOM fragments</small>
 
 
-| 🔥: 95 \| 💬: [52](https://news.ycombinator.com/item?id=43080378) \| 🗓️ 2025-02-17
+| 🔥: 100 \| 💬: [56](https://news.ycombinator.com/item?id=43080378) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -203,11 +203,23 @@ Mistral Saba是首个专为中东和南亚地区定制的**24B参数模型**，�
 
 ---
 
-## <a name="16"></a>16. hk：全新的 Git 钩子管理工具 
+## <a name="16"></a>16. 小型科技 
+<small>🔗 [scattered-thoughts.net](https://www.scattered-thoughts.net/writing/small-tech/): Small Tech</small>
+
+
+| 🔥: 97 \| 💬: [7](https://news.ycombinator.com/item?id=43081378) \| 🗓️ 2025-02-17
+
+
+<br />
+在关于是否在大型半垄断企业中做一颗齿轮，或是接受投资希望成长为头号齿轮的辩论中，我更欣赏那些在自己条件下编写软件的小公司。**Sqlite**和**Pinboard**等小型企业证明了小团队也能成功，且不必追求快速增长。**Tarsnap**和**Zig**等单人运营的项目展示了完全拥有企业的优势，让创始人能够专注于可持续发展而非利润最大化。这些例子表明，追求有意义的工作可能比想象中更容易实现。
+
+---
+
+## <a name="17"></a>17. hk：全新的 Git 钩子管理工具 
 <small>🔗 [hk.jdx.dev](https://hk.jdx.dev/about.html): Hk, a new Git hook manager</small>
 
 
-| 🔥: 91 \| 💬: [70](https://news.ycombinator.com/item?id=43080535) \| 🗓️ 2025-02-17
+| 🔥: 92 \| 💬: [70](https://news.ycombinator.com/item?id=43080535) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -215,7 +227,31 @@ hk 是由 @jdx 开发的，旨在提升 **性能** 和 **灵活性**。它为用
 
 ---
 
-## <a name="17"></a>17. 在浏览器中使用WebAssembly运行Ruby on Rails 
+## <a name="18"></a>18. NES86 – NES上的IBM PC模拟器 
+<small>🔗 [github.com](https://github.com/decrazyo/nes86): NES86 – IBM PC Emulator for the NES</small>
+
+
+| 🔥: 91 \| 💬: [21](https://news.ycombinator.com/item?id=43082739) \| 🗓️ 2025-02-17
+
+
+<br />
+NES86是一个为NES设计的IBM PC模拟器，旨在模拟Intel 8086处理器及相关硬件，以运行**嵌入式Linux内核子集（ELKS）**及其他简单的x86软件。用户可以通过下载NES86和ELKS的ROM或从源代码构建来运行该模拟器。尽管NES86的映射配置理论上有效，但大多数模拟器和闪存卡并不支持。项目欢迎贡献和移植，详细的构建步骤和依赖项也在文档中提供。
+
+---
+
+## <a name="19"></a>19. 寻找你的2%者 
+<small>🔗 [joyarbitrage.substack.com](https://joyarbitrage.substack.com/p/find-your-2ers): Find Your 2%Ers</small>
+
+
+| 🔥: 88 \| 💬: [25](https://news.ycombinator.com/item?id=43083345) \| 🗓️ 2025-02-17
+
+
+<br />
+在社交中，**能量**是关键。大多数人（98%）会让我感到疲惫，而只有少数人（2%）能让我充满活力。我称他们为我的**2%者**，并致力于寻找这些人。研究表明，**人际关系的质量**是幸福和健康的最佳预测因素。因此，找到这些特别的人并与他们一起生活至关重要。虽然每个人的2%者不同，但我们应该主动与他们建立联系，安排共同活动，享受生活。
+
+---
+
+## <a name="20"></a>20. 在浏览器中使用WebAssembly运行Ruby on Rails 
 <small>🔗 [web.dev](https://web.dev/blog/ruby-on-rails-on-webassembly): Run Ruby on Rails in the browser using WebAssembly</small>
 
 
@@ -227,35 +263,23 @@ hk 是由 @jdx 开发的，旨在提升 **性能** 和 **灵活性**。它为用
 
 ---
 
-## <a name="18"></a>18. 小型科技 
-<small>🔗 [scattered-thoughts.net](https://www.scattered-thoughts.net/writing/small-tech/): Small Tech</small>
+## <a name="21"></a>21. 在Linux中设置受信任的自签名SSL/TLS证书颁发机构 
+<small>🔗 [previnder.com](https://previnder.com/tls-ca-linux/): Setting up a trusted, self-signed SSL/TLS certificate authority in Linux</small>
 
 
-| 🔥: 86 \| 💬: [4](https://news.ycombinator.com/item?id=43081378) \| 🗓️ 2025-02-17
-
-
-<br />
-在关于是否在大型半垄断企业中做一颗齿轮，或是接受投资希望成长为头号齿轮的辩论中，我更欣赏那些在自己条件下编写软件的小公司。**Sqlite**和**Pinboard**等小型企业证明了小团队也能成功，且不必追求快速增长。**Tarsnap**和**Zig**等单人运营的项目展示了完全拥有企业的优势，让创始人能够专注于可持续发展而非利润最大化。这些例子表明，追求有意义的工作可能比想象中更容易实现。
-
----
-
-## <a name="19"></a>19. NES86 – NES上的IBM PC模拟器 
-<small>🔗 [github.com](https://github.com/decrazyo/nes86): NES86 – IBM PC Emulator for the NES</small>
-
-
-| 🔥: 84 \| 💬: [21](https://news.ycombinator.com/item?id=43082739) \| 🗓️ 2025-02-17
+| 🔥: 85 \| 💬: [18](https://news.ycombinator.com/item?id=43083687) \| 🗓️ 2025-02-17
 
 
 <br />
-NES86是一个为NES设计的IBM PC模拟器，旨在模拟Intel 8086处理器及相关硬件，以运行**嵌入式Linux内核子集（ELKS）**及其他简单的x86软件。用户可以通过下载NES86和ELKS的ROM或从源代码构建来运行该模拟器。尽管NES86的映射配置理论上有效，但大多数模拟器和闪存卡并不支持。项目欢迎贡献和移植，详细的构建步骤和依赖项也在文档中提供。
+使用OpenSSL可以轻松生成自签名的TLS证书，但浏览器不会信任这些证书。为了解决这个问题，可以创建自己的**证书颁发机构（CA）**，并将其添加到操作系统或浏览器的信任列表中。首先生成CA的私钥和证书，然后为要签名的证书生成私钥和证书签名请求。最后，从自己的CA获取签名证书并安装到系统中，使得访问HTTPS服务时不会出现安全警告。
 
 ---
 
-## <a name="20"></a>20. 谁雕刻了南美洲神秘的古代隧道？ 
+## <a name="22"></a>22. 谁雕刻了南美洲神秘的古代隧道？ 
 <small>🔗 [clp.unesp.br](https://www.clp.unesp.br/Modulos/Noticias/401/paleoburrows-nature-2025.pdf): Who carved South America's mysterious ancient tunnels? [pdf]</small>
 
 
-| 🔥: 80 \| 💬: [37](https://news.ycombinator.com/item?id=43082287) \| 🗓️ 2025-02-17
+| 🔥: 83 \| 💬: [38](https://news.ycombinator.com/item?id=43082287) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -263,23 +287,11 @@ NES86是一个为NES设计的IBM PC模拟器，旨在模拟Intel 8086处理器�
 
 ---
 
-## <a name="21"></a>21. 寻找你的2%者 
-<small>🔗 [joyarbitrage.substack.com](https://joyarbitrage.substack.com/p/find-your-2ers): Find Your 2%Ers</small>
-
-
-| 🔥: 79 \| 💬: [24](https://news.ycombinator.com/item?id=43083345) \| 🗓️ 2025-02-17
-
-
-<br />
-在社交中，**能量**是关键。大多数人（98%）会让我感到疲惫，而只有少数人（2%）能让我充满活力。我称他们为我的**2%者**，并致力于寻找这些人。研究表明，**人际关系的质量**是幸福和健康的最佳预测因素。因此，找到这些特别的人并与他们一起生活至关重要。虽然每个人的2%者不同，但我们应该主动与他们建立联系，安排共同活动，享受生活。
-
----
-
-## <a name="22"></a>22. 阿根廷总统因加密货币崩盘面临弹劾呼声 
+## <a name="23"></a>23. 阿根廷总统因加密货币崩盘面临弹劾呼声 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/cp9x9j89evxo): Argentina president faces impeachment calls over crypto crash</small>
 
 
-| 🔥: 74 \| 💬: [26](https://news.ycombinator.com/item?id=43083886) \| 🗓️ 2025-02-17
+| 🔥: 76 \| 💬: [26](https://news.ycombinator.com/item?id=43083886) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -287,11 +299,11 @@ NES86是一个为NES设计的IBM PC模拟器，旨在模拟Intel 8086处理器�
 
 ---
 
-## <a name="23"></a>23. 学习发生在优化理解而非胜利的环境中 
+## <a name="24"></a>24. 学习发生在优化理解而非胜利的环境中 
 <small>🔗 [joanwestenberg.com](https://www.joanwestenberg.com/you-will-never-win-an-argument-on-the-internet-heres-why/): Learning happens in environments optimized for understanding, not winning</small>
 
 
-| 🔥: 68 \| 💬: [24](https://news.ycombinator.com/item?id=43078701) \| 🗓️ 2025-02-17
+| 🔥: 70 \| 💬: [24](https://news.ycombinator.com/item?id=43078701) \| 🗓️ 2025-02-17
 
 
 <br />
@@ -299,7 +311,7 @@ NES86是一个为NES设计的IBM PC模拟器，旨在模拟Intel 8086处理器�
 
 ---
 
-## <a name="24"></a>24. ChatGPT自动补全的用户体验设计是否糟糕？ 
+## <a name="25"></a>25. ChatGPT自动补全的用户体验设计是否糟糕？ 
 <small>🔗 [honzabe.com](https://honzabe.com/blog/posts/chatgpt-autocomplete-bad-ux-ui/): Is ChatGPT autocomplete bad UX/UI?</small>
 
 
@@ -308,17 +320,5 @@ NES86是一个为NES设计的IBM PC模拟器，旨在模拟Intel 8086处理器�
 
 <br />
 作者对ChatGPT的**自动补全功能**表示困惑，认为其在聊天中的效果远不如在搜索中。尽管开发者可能有其理由，但在聊天时，用户的思维过程更像是**即兴对话**，而不是明确的搜索意图。作者指出，ChatGPT的自动补全常常插入与用户意图无关的内容，导致思维被打断，令人感到**烦恼**。这样的体验让人怀疑，是否有其他用户会觉得这种功能有用。
-
----
-
-## <a name="25"></a>25. R.E.M.如何走向主流 
-<small>🔗 [yalereview.org](https://yalereview.org/article/tavakoli-rem-peter-ames-carlin): What happened when REM went mainstream</small>
-
-
-| 🔥: 64 \| 💬: [74](https://news.ycombinator.com/item?id=43081929) \| 🗓️ 2025-02-17
-
-
-<br />
-R.E.M.从一个**独立音乐**的代表，逐渐成为了主流文化的象征。尽管他们的音乐最初与当时流行的**大牌摇滚**和朋克风格截然不同，但他们凭借独特的声音和对创作的坚持，成功吸引了广泛的听众。随着时间的推移，他们从小型独立厂牌I.R.S.转向了大牌Warner Bros.，并在1991年发布的《Out of Time》进一步巩固了他们的地位。R.E.M.的成功不仅改变了他们的音乐轨迹，也推动了**另类音乐**的商业化，使其从大学电台走向了更广泛的听众。
 
 ---
