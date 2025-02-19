@@ -27,7 +27,7 @@ tags:
 <small>🔗 [pi-hole.net](https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/): Pi-hole v6</small>
 
 
-| 🔥🔥: 365 \| 💬: [186](https://news.ycombinator.com/item?id=43093328) \| 🗓️ 2025-02-18
+| 🔥🔥: 379 \| 💬: [190](https://news.ycombinator.com/item?id=43093328) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [scripton.dev](https://scripton.dev): Show HN: Scripton – Python IDE with built-in realtime visualizations</small>
 
 
-| 🔥🔥: 329 \| 💬: [112](https://news.ycombinator.com/item?id=43090214) \| 🗓️ 2025-02-18
+| 🔥🔥: 337 \| 💬: [114](https://news.ycombinator.com/item?id=43090214) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -51,7 +51,7 @@ Scripton是一款新型的Python IDE，支持**实时可视化**，无需笔记�
 <small>🔗 [ethanmarcotte.com](https://ethanmarcotte.com/wrote/leaving-18f/): Moving on from 18F</small>
 
 
-| 🔥🔥: 325 \| 💬: [171](https://news.ycombinator.com/item?id=43093859) \| 🗓️ 2025-02-18
+| 🔥🔥: 330 \| 💬: [172](https://news.ycombinator.com/item?id=43093859) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -63,7 +63,7 @@ Scripton是一款新型的Python IDE，支持**实时可视化**，无需笔记�
 <small>🔗 [harper.blog](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/): My LLM codegen workflow</small>
 
 
-| 🔥🔥: 280 \| 💬: [95](https://news.ycombinator.com/item?id=43094006) \| 🗓️ 2025-02-18
+| 🔥🔥: 295 \| 💬: [105](https://news.ycombinator.com/item?id=43094006) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -75,7 +75,7 @@ Scripton是一款新型的Python IDE，支持**实时可视化**，无需笔记�
 <small>🔗 [scottsmitelli.com](https://www.scottsmitelli.com/articles/ideal-candidate/): The ideal candidate will be punched in the stomach</small>
 
 
-| 🔥🔥: 275 \| 💬: [169](https://news.ycombinator.com/item?id=43089150) \| 🗓️ 2025-02-18
+| 🔥🔥: 280 \| 💬: [175](https://news.ycombinator.com/item?id=43089150) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -87,7 +87,7 @@ Scripton是一款新型的Python IDE，支持**实时可视化**，无需笔记�
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/laptops/acer-ceo-10pc-price-rise-tariffs): Tariffs result in 10% laptop price hike in U.S. says Acer CEO</small>
 
 
-| 🔥🔥: 269 \| 💬: [468](https://news.ycombinator.com/item?id=43090684) \| 🗓️ 2025-02-18
+| 🔥🔥: 269 \| 💬: [471](https://news.ycombinator.com/item?id=43090684) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -95,23 +95,11 @@ Acer首席执行官陈俊胜在接受《每日电讯报》采访时表示，从2
 
 ---
 
-## <a name="7"></a>7. 核聚变：WEST打破等离子体持续时间世界纪录 
-<small>🔗 [cea.fr](https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx): Nuclear fusion: WEST beats the world record for plasma duration</small>
-
-
-| 🔥🔥: 236 \| 💬: [212](https://news.ycombinator.com/item?id=43093939) \| 🗓️ 2025-02-18
-
-
-<br />
-法国原子能与替代能源委员会（CEA）的WEST设备于2月12日成功维持等离子体超过22分钟，**打破了以托卡马克为基础的等离子体持续时间的世界纪录**。这一成就表明，研究人员在控制不稳定等离子体方面的技术日益成熟，为未来ITER等大型实验提供了希望。WEST的等离子体温度达到了5000万度，未来的实验将继续提升持续时间和温度。核聚变是一种潜在的清洁能源，利用核反应产生能量，具有较少的资源消耗和不产生长寿命放射性废物的优点。尽管如此，核聚变在大规模应用上仍面临技术和经济可行性挑战。
-
----
-
-## <a name="8"></a>8. 异或运算的深度解析 
+## <a name="7"></a>7. 异或运算的深度解析 
 <small>🔗 [chiark.greenend.org.uk](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/): XOR</small>
 
 
-| 🔥🔥: 228 \| 💬: [29](https://news.ycombinator.com/item?id=43087944) \| 🗓️ 2025-02-18
+| 🔥🔥: 258 \| 💬: [37](https://news.ycombinator.com/item?id=43087944) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -119,11 +107,23 @@ Acer首席执行官陈俊胜在接受《每日电讯报》采访时表示，从2
 
 ---
 
+## <a name="8"></a>8. 核聚变：WEST打破等离子体持续时间世界纪录 
+<small>🔗 [cea.fr](https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx): Nuclear fusion: WEST beats the world record for plasma duration</small>
+
+
+| 🔥🔥: 239 \| 💬: [224](https://news.ycombinator.com/item?id=43093939) \| 🗓️ 2025-02-18
+
+
+<br />
+法国原子能与替代能源委员会（CEA）的WEST设备于2月12日成功维持等离子体超过22分钟，**打破了以托卡马克为基础的等离子体持续时间的世界纪录**。这一成就表明，研究人员在控制不稳定等离子体方面的技术日益成熟，为未来ITER等大型实验提供了希望。WEST的等离子体温度达到了5000万度，未来的实验将继续提升持续时间和温度。核聚变是一种潜在的清洁能源，利用核反应产生能量，具有较少的资源消耗和不产生长寿命放射性废物的优点。尽管如此，核聚变在大规模应用上仍面临技术和经济可行性挑战。
+
+---
+
 ## <a name="9"></a>9. 一年使用uv：优缺点及是否迁移的思考 
 <small>🔗 [bitecode.dev](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should): A year of uv: pros, cons, and should you migrate</small>
 
 
-| 🔥🔥: 180 \| 💬: [76](https://news.ycombinator.com/item?id=43095157) \| 🗓️ 2025-02-18
+| 🔥🔥: 221 \| 💬: [97](https://news.ycombinator.com/item?id=43095157) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -135,7 +135,7 @@ Acer首席执行官陈俊胜在接受《每日电讯报》采访时表示，从2
 <small>🔗 [repost.aws](https://repost.aws/knowledge-center/eks-api-server-unauthorized-error): AWS paywalling select knowledge base articles, requiring Premium Support plan</small>
 
 
-| 🔥🔥: 176 \| 💬: [68](https://news.ycombinator.com/item?id=43094467) \| 🗓️ 2025-02-18
+| 🔥🔥: 177 \| 💬: [68](https://news.ycombinator.com/item?id=43094467) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -143,23 +143,11 @@ AWS正在对特定的知识库文章实施付费墙，用户需要订阅**高级
 
 ---
 
-## <a name="11"></a>11. Svelte 5 不是 JavaScript 
-<small>🔗 [hodlbod.npub.pro](https://hodlbod.npub.pro/post/1739830562159/): Svelte 5 is not JavaScript</small>
-
-
-| 🔥🔥: 166 \| 💬: [178](https://news.ycombinator.com/item?id=43091596) \| 🗓️ 2025-02-18
-
-
-<br />
-在升级到 **Svelte 5** 的过程中，作者遇到了许多问题，尽管对框架的性能提升表示认可，但对新版本的复杂性表示担忧。**深度反应性**和**隐式组件生命周期状态**的引入使得开发者需要处理更多的抽象和复杂性，导致调试变得更加困难。作者认为，Svelte 5 的变化使得开发者的认知负担加重，失去了原有的简单性和直观性，最终决定不再选择 Svelte 进行新项目开发。
-
----
-
-## <a name="12"></a>12. DeepSeek与抖音母公司字节跳动共享用户数据 
+## <a name="11"></a>11. DeepSeek与抖音母公司字节跳动共享用户数据 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c4gex0x87g4o): South Korean regulator accuses DeepSeek of sharing user data with ByteDance</small>
 
 
-| 🔥🔥: 162 \| 💬: [77](https://news.ycombinator.com/item?id=43094651) \| 🗓️ 2025-02-18
+| 🔥🔥: 173 \| 💬: [86](https://news.ycombinator.com/item?id=43094651) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -167,7 +155,31 @@ AWS正在对特定的知识库文章实施付费墙，用户需要订阅**高级
 
 ---
 
-## <a name="13"></a>13. 审查Signal使用的加密技术 
+## <a name="12"></a>12. Svelte 5 不是 JavaScript 
+<small>🔗 [hodlbod.npub.pro](https://hodlbod.npub.pro/post/1739830562159/): Svelte 5 is not JavaScript</small>
+
+
+| 🔥🔥: 168 \| 💬: [178](https://news.ycombinator.com/item?id=43091596) \| 🗓️ 2025-02-18
+
+
+<br />
+在升级到 **Svelte 5** 的过程中，作者遇到了许多问题，尽管对框架的性能提升表示认可，但对新版本的复杂性表示担忧。**深度反应性**和**隐式组件生命周期状态**的引入使得开发者需要处理更多的抽象和复杂性，导致调试变得更加困难。作者认为，Svelte 5 的变化使得开发者的认知负担加重，失去了原有的简单性和直观性，最终决定不再选择 Svelte 进行新项目开发。
+
+---
+
+## <a name="13"></a>13. 全球顶尖研究者中10%发表不切实际的论文数量，分析发现 
+<small>🔗 [chemistryworld.com](https://www.chemistryworld.com/news/among-worlds-top-researchers-10-publish-at-unrealistic-levels-analysis-finds/4020962.article): Among top researchers 10% publish at unrealistic levels, analysis finds</small>
+
+
+| 🔥🔥: 154 \| 💬: [98](https://news.ycombinator.com/item?id=43093155) \| 🗓️ 2025-02-18
+
+
+<br />
+最近的分析显示，全球约10%的顶尖研究者在各科学领域中，发表了“不可思议”的论文数量和新合作者数量。这些研究者每年发表数百篇论文，并获得数百到数千名新合作者。研究者彼得·莫拉和西蒙·皮利亚指出，约20,000名科学家在斯坦福大学的“前2%”研究者名单上，展现出“异常高”的发表和合著指标，暗示他们可能在操控这些指标。尤其是约1,000名在学术界工作十年或更短的年轻研究者，显示出这种行为在早期职业阶段就已开始。研究者们认为，这种现象反映了系统性的激励结构，促使研究者在各个职业阶段追求数量而非质量。他们呼吁重新规范研究指标，以消除对数量的优先考虑和不道德行为的激励。
+
+---
+
+## <a name="14"></a>14. 审查Signal使用的加密技术 
 <small>🔗 [soatok.blog](https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/): Reviewing the cryptography used by Signal</small>
 
 
@@ -179,23 +191,11 @@ AWS正在对特定的知识库文章实施付费墙，用户需要订阅**高级
 
 ---
 
-## <a name="14"></a>14. 全球顶尖研究者中10%发表不切实际的论文数量，分析发现 
-<small>🔗 [chemistryworld.com](https://www.chemistryworld.com/news/among-worlds-top-researchers-10-publish-at-unrealistic-levels-analysis-finds/4020962.article): Among top researchers 10% publish at unrealistic levels, analysis finds</small>
-
-
-| 🔥🔥: 152 \| 💬: [95](https://news.ycombinator.com/item?id=43093155) \| 🗓️ 2025-02-18
-
-
-<br />
-最近的分析显示，全球约10%的顶尖研究者在各科学领域中，发表了“不可思议”的论文数量和新合作者数量。这些研究者每年发表数百篇论文，并获得数百到数千名新合作者。研究者彼得·莫拉和西蒙·皮利亚指出，约20,000名科学家在斯坦福大学的“前2%”研究者名单上，展现出“异常高”的发表和合著指标，暗示他们可能在操控这些指标。尤其是约1,000名在学术界工作十年或更短的年轻研究者，显示出这种行为在早期职业阶段就已开始。研究者们认为，这种现象反映了系统性的激励结构，促使研究者在各个职业阶段追求数量而非质量。他们呼吁重新规范研究指标，以消除对数量的优先考虑和不道德行为的激励。
-
----
-
 ## <a name="15"></a>15. 到今天结束，NASA的员工人数将减少约10% 
 <small>🔗 [arstechnica.com](https://arstechnica.com/space/2025/02/by-the-end-of-today-nasas-workforce-will-be-about-10-percent-smaller/): By the end of today, NASA's workforce will be about 10 percent smaller</small>
 
 
-| 🔥🔥: 133 \| 💬: [180](https://news.ycombinator.com/item?id=43090862) \| 🗓️ 2025-02-18
+| 🔥🔥: 136 \| 💬: [180](https://news.ycombinator.com/item?id=43090862) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -231,7 +231,7 @@ Linux的**无线驱动**维护者Kalle Valo宣布辞职，结束了他自2008年
 <small>🔗 [sharpbrains.com](https://sharpbrains.com/blog/2008/05/25/try-thinking-and-learning-without-working-memory/): Try thinking and learning without working memory (2008)</small>
 
 
-| 🔥🔥: 107 \| 💬: [56](https://news.ycombinator.com/item?id=43092386) \| 🗓️ 2025-02-18
+| 🔥🔥: 112 \| 💬: [58](https://news.ycombinator.com/item?id=43092386) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -239,35 +239,11 @@ Linux的**无线驱动**维护者Kalle Valo宣布辞职，结束了他自2008年
 
 ---
 
-## <a name="19"></a>19. 从Java转向Go的一年回顾 
-<small>🔗 [glasskube.dev](https://glasskube.dev/blog/from-java-to-go/): One year after switching from Java to Go</small>
-
-
-| 🔥: 97 \| 💬: [74](https://news.ycombinator.com/item?id=43092003) \| 🗓️ 2025-02-18
-
-
-<br />
-在经历了14年的Java编程后，作者决定将其Kubernetes工具重写为Go语言。尽管最初对Go的学习曲线有所担忧，但其**启动速度快**、**资源消耗低**和**轻量级生态系统**的优势迅速显现。虽然Java在某些项目中仍然有其优势，但对于云原生应用和工具开发，Go显然是更合适的选择。作者享受着Go带来的速度与灵活性，告别了Java和Spring的复杂性。
-
----
-
-## <a name="20"></a>20. 欢迎 Cot：一个为懒开发者设计的 Rust 网络框架 
-<small>🔗 [mackow.ski](https://mackow.ski/blog/cot-the-rust-web-framework-for-lazy-developers/): Show HN: Cot: a Rust web framework for lazy developers</small>
-
-
-| 🔥: 95 \| 💬: [91](https://news.ycombinator.com/item?id=43089468) \| 🗓️ 2025-02-18
-
-
-<br />
-Cot 是一个现代、易用的 **Rust** 网络框架，旨在填补现有框架的空白，提供类似 **Django** 的开发体验。它集成了会话、认证、模板和管理面板等功能，并自带 **ORM** 和自动迁移系统。虽然 Cot 仍在早期阶段，但已经可以用于实际项目。未来版本将解决现有的不足，如请求处理 API 的易用性和缺乏文档生成等问题。欢迎开发者加入社区，共同推动 Cot 的发展。
-
----
-
-## <a name="21"></a>21. 文件飞行员：为速度而生的现代文件管理器 
+## <a name="19"></a>19. 文件飞行员：为速度而生的现代文件管理器 
 <small>🔗 [filepilot.tech](https://filepilot.tech/): File Pilot: A file explorer built for speed with a modern, robust interface</small>
 
 
-| 🔥: 92 \| 💬: [28](https://news.ycombinator.com/item?id=43091466) \| 🗓️ 2025-02-18
+| 🔥🔥: 106 \| 💬: [43](https://news.ycombinator.com/item?id=43091466) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -275,11 +251,23 @@ Cot 是一个现代、易用的 **Rust** 网络框架，旨在填补现有框架
 
 ---
 
-## <a name="22"></a>22. 惠普收购Humane的AI软件 
+## <a name="20"></a>20. 从Java转向Go的一年回顾 
+<small>🔗 [glasskube.dev](https://glasskube.dev/blog/from-java-to-go/): One year after switching from Java to Go</small>
+
+
+| 🔥🔥: 106 \| 💬: [92](https://news.ycombinator.com/item?id=43092003) \| 🗓️ 2025-02-18
+
+
+<br />
+在经历了14年的Java编程后，作者决定将其Kubernetes工具重写为Go语言。尽管最初对Go的学习曲线有所担忧，但其**启动速度快**、**资源消耗低**和**轻量级生态系统**的优势迅速显现。虽然Java在某些项目中仍然有其优势，但对于云原生应用和工具开发，Go显然是更合适的选择。作者享受着Go带来的速度与灵活性，告别了Java和Spring的复杂性。
+
+---
+
+## <a name="21"></a>21. 惠普收购Humane的AI软件 
 <small>🔗 [humane.com](https://humane.com/media/humane-hp): HP Acquires Humane's AI Software</small>
 
 
-| 🔥: 85 \| 💬: [79](https://news.ycombinator.com/item?id=43095811) \| 🗓️ 2025-02-18
+| 🔥🔥: 101 \| 💬: [93](https://news.ycombinator.com/item?id=43095811) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -287,11 +275,23 @@ Cot 是一个现代、易用的 **Rust** 网络框架，旨在填补现有框架
 
 ---
 
+## <a name="22"></a>22. 欢迎 Cot：一个为懒开发者设计的 Rust 网络框架 
+<small>🔗 [mackow.ski](https://mackow.ski/blog/cot-the-rust-web-framework-for-lazy-developers/): Show HN: Cot: a Rust web framework for lazy developers</small>
+
+
+| 🔥: 96 \| 💬: [92](https://news.ycombinator.com/item?id=43089468) \| 🗓️ 2025-02-18
+
+
+<br />
+Cot 是一个现代、易用的 **Rust** 网络框架，旨在填补现有框架的空白，提供类似 **Django** 的开发体验。它集成了会话、认证、模板和管理面板等功能，并自带 **ORM** 和自动迁移系统。虽然 Cot 仍在早期阶段，但已经可以用于实际项目。未来版本将解决现有的不足，如请求处理 API 的易用性和缺乏文档生成等问题。欢迎开发者加入社区，共同推动 Cot 的发展。
+
+---
+
 ## <a name="23"></a>23. Ray-Ban Meta眼镜销量突破200万，计划提升产能 
 <small>🔗 [uploadvr.com](https://www.uploadvr.com/ray-ban-meta-glasses-sold-2-units-production-to-be-vastly-increased/): Ray-Ban Meta glasses have sold 2M units, production to be increased</small>
 
 
-| 🔥: 70 \| 💬: [70](https://news.ycombinator.com/item?id=43088369) \| 🗓️ 2025-02-18
+| 🔥: 73 \| 💬: [76](https://news.ycombinator.com/item?id=43088369) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -315,7 +315,7 @@ GFF与民主报告国际（DRI）在柏林地区法院成功提起诉讼，要�
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/catalytic-computing-taps-the-full-power-of-a-full-hard-drive-20250218/): Catalytic computing taps the full power of a full hard drive</small>
 
 
-| 🔥: 52 \| 💬: [12](https://news.ycombinator.com/item?id=43091159) \| 🗓️ 2025-02-18
+| 🔥: 53 \| 💬: [13](https://news.ycombinator.com/item?id=43091159) \| 🗓️ 2025-02-18
 
 
 <br />
