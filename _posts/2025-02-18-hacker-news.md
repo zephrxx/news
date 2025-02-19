@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [pi-hole.net](https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/): Pi-hole v6</small>
 
 
-| 🔥🔥: 320 \| 💬: [170](https://news.ycombinator.com/item?id=43093328) \| 🗓️ 2025-02-18
+| 🔥🔥: 343 \| 💬: [183](https://news.ycombinator.com/item?id=43093328) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [ethanmarcotte.com](https://ethanmarcotte.com/wrote/leaving-18f/): Moving on from 18F</small>
 
 
-| 🔥🔥: 316 \| 💬: [151](https://news.ycombinator.com/item?id=43093859) \| 🗓️ 2025-02-18
+| 🔥🔥: 322 \| 💬: [168](https://news.ycombinator.com/item?id=43093859) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [scripton.dev](https://scripton.dev): Show HN: Scripton – Python IDE with built-in realtime visualizations</small>
 
 
-| 🔥🔥: 315 \| 💬: [109](https://news.ycombinator.com/item?id=43090214) \| 🗓️ 2025-02-18
+| 🔥🔥: 320 \| 💬: [110](https://news.ycombinator.com/item?id=43090214) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -63,7 +63,7 @@ Scripton是一款新型的Python IDE，支持**实时可视化**，无需笔记�
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/laptops/acer-ceo-10pc-price-rise-tariffs): Tariffs result in 10% laptop price hike in U.S. says Acer CEO</small>
 
 
-| 🔥🔥: 264 \| 💬: [457](https://news.ycombinator.com/item?id=43090684) \| 🗓️ 2025-02-18
+| 🔥🔥: 266 \| 💬: [461](https://news.ycombinator.com/item?id=43090684) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -75,7 +75,7 @@ Acer首席执行官陈俊胜在接受《每日电讯报》采访时表示，从2
 <small>🔗 [scottsmitelli.com](https://www.scottsmitelli.com/articles/ideal-candidate/): The ideal candidate will be punched in the stomach</small>
 
 
-| 🔥🔥: 257 \| 💬: [160](https://news.ycombinator.com/item?id=43089150) \| 🗓️ 2025-02-18
+| 🔥🔥: 263 \| 💬: [162](https://news.ycombinator.com/item?id=43089150) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -87,7 +87,7 @@ Acer首席执行官陈俊胜在接受《每日电讯报》采访时表示，从2
 <small>🔗 [harper.blog](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/): My LLM codegen workflow</small>
 
 
-| 🔥🔥: 238 \| 💬: [65](https://news.ycombinator.com/item?id=43094006) \| 🗓️ 2025-02-18
+| 🔥🔥: 261 \| 💬: [82](https://news.ycombinator.com/item?id=43094006) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -99,7 +99,7 @@ Acer首席执行官陈俊胜在接受《每日电讯报》采访时表示，从2
 <small>🔗 [cea.fr](https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx): Nuclear fusion: WEST beats the world record for plasma duration</small>
 
 
-| 🔥🔥: 217 \| 💬: [180](https://news.ycombinator.com/item?id=43093939) \| 🗓️ 2025-02-18
+| 🔥🔥: 228 \| 💬: [199](https://news.ycombinator.com/item?id=43093939) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -111,7 +111,7 @@ Acer首席执行官陈俊胜在接受《每日电讯报》采访时表示，从2
 <small>🔗 [chiark.greenend.org.uk](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/): XOR</small>
 
 
-| 🔥🔥: 181 \| 💬: [22](https://news.ycombinator.com/item?id=43087944) \| 🗓️ 2025-02-18
+| 🔥🔥: 203 \| 💬: [27](https://news.ycombinator.com/item?id=43087944) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -123,7 +123,7 @@ Acer首席执行官陈俊胜在接受《每日电讯报》采访时表示，从2
 <small>🔗 [repost.aws](https://repost.aws/knowledge-center/eks-api-server-unauthorized-error): AWS paywalling select knowledge base articles, requiring Premium Support plan</small>
 
 
-| 🔥🔥: 168 \| 💬: [64](https://news.ycombinator.com/item?id=43094467) \| 🗓️ 2025-02-18
+| 🔥🔥: 170 \| 💬: [65](https://news.ycombinator.com/item?id=43094467) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -135,7 +135,7 @@ AWS正在对特定的知识库文章实施付费墙，用户需要订阅**高级
 <small>🔗 [hodlbod.npub.pro](https://hodlbod.npub.pro/post/1739830562159/): Svelte 5 is not JavaScript</small>
 
 
-| 🔥🔥: 157 \| 💬: [171](https://news.ycombinator.com/item?id=43091596) \| 🗓️ 2025-02-18
+| 🔥🔥: 162 \| 💬: [175](https://news.ycombinator.com/item?id=43091596) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -147,7 +147,7 @@ AWS正在对特定的知识库文章实施付费墙，用户需要订阅**高级
 <small>🔗 [soatok.blog](https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/): Reviewing the cryptography used by Signal</small>
 
 
-| 🔥🔥: 151 \| 💬: [117](https://news.ycombinator.com/item?id=43088785) \| 🗓️ 2025-02-18
+| 🔥🔥: 153 \| 💬: [124](https://news.ycombinator.com/item?id=43088785) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -159,7 +159,7 @@ AWS正在对特定的知识库文章实施付费墙，用户需要订阅**高级
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c4gex0x87g4o): South Korean regulator accuses DeepSeek of sharing user data with ByteDance</small>
 
 
-| 🔥🔥: 140 \| 💬: [62](https://news.ycombinator.com/item?id=43094651) \| 🗓️ 2025-02-18
+| 🔥🔥: 152 \| 💬: [70](https://news.ycombinator.com/item?id=43094651) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -167,23 +167,11 @@ AWS正在对特定的知识库文章实施付费墙，用户需要订阅**高级
 
 ---
 
-## <a name="13"></a>13. 到今天结束，NASA的员工人数将减少约10% 
-<small>🔗 [arstechnica.com](https://arstechnica.com/space/2025/02/by-the-end-of-today-nasas-workforce-will-be-about-10-percent-smaller/): By the end of today, NASA's workforce will be about 10 percent smaller</small>
-
-
-| 🔥🔥: 133 \| 💬: [178](https://news.ycombinator.com/item?id=43090862) \| 🗓️ 2025-02-18
-
-
-<br />
-NASA的员工人数将从近18,000人减少约10%。在特朗普政府的影响下，约750名员工接受了延迟辞职的提议，而约1,000名处于**试用期**的员工被解雇。这些裁员引发了对NASA未来的担忧，尤其是在其预算面临进一步削减的情况下。尽管NASA在推动商业航天方面取得了进展，但这些裁员可能削弱其未来的探索能力。
-
----
-
-## <a name="14"></a>14. 全球顶尖研究者中10%发表不切实际的论文数量，分析发现 
+## <a name="13"></a>13. 全球顶尖研究者中10%发表不切实际的论文数量，分析发现 
 <small>🔗 [chemistryworld.com](https://www.chemistryworld.com/news/among-worlds-top-researchers-10-publish-at-unrealistic-levels-analysis-finds/4020962.article): Among top researchers 10% publish at unrealistic levels, analysis finds</small>
 
 
-| 🔥🔥: 132 \| 💬: [84](https://news.ycombinator.com/item?id=43093155) \| 🗓️ 2025-02-18
+| 🔥🔥: 141 \| 💬: [91](https://news.ycombinator.com/item?id=43093155) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -191,11 +179,35 @@ NASA的员工人数将从近18,000人减少约10%。在特朗普政府的影响�
 
 ---
 
-## <a name="15"></a>15. Linux无线/WiFi驱动维护者辞职 
+## <a name="14"></a>14. 一年使用uv：优缺点及是否迁移的思考 
+<small>🔗 [bitecode.dev](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should): A year of uv: pros, cons, and should you migrate</small>
+
+
+| 🔥🔥: 141 \| 💬: [62](https://news.ycombinator.com/item?id=43095157) \| 🗓️ 2025-02-18
+
+
+<br />
+经过一年的使用，**uv**这个新的Python项目管理工具展现了其高效与灵活性。作者建议在适合的情况下优先尝试uv，因其迁移成本低且价值高。uv独立于Python，解决了许多常见的**引导问题**，并提供了强大的依赖解析能力。尽管在某些情况下可能不适用，但其在项目管理和性能上的优势使其成为值得推荐的选择。
+
+---
+
+## <a name="15"></a>15. 到今天结束，NASA的员工人数将减少约10% 
+<small>🔗 [arstechnica.com](https://arstechnica.com/space/2025/02/by-the-end-of-today-nasas-workforce-will-be-about-10-percent-smaller/): By the end of today, NASA's workforce will be about 10 percent smaller</small>
+
+
+| 🔥🔥: 133 \| 💬: [180](https://news.ycombinator.com/item?id=43090862) \| 🗓️ 2025-02-18
+
+
+<br />
+NASA的员工人数将从近18,000人减少约10%。在特朗普政府的影响下，约750名员工接受了延迟辞职的提议，而约1,000名处于**试用期**的员工被解雇。这些裁员引发了对NASA未来的担忧，尤其是在其预算面临进一步削减的情况下。尽管NASA在推动商业航天方面取得了进展，但这些裁员可能削弱其未来的探索能力。
+
+---
+
+## <a name="16"></a>16. Linux无线/WiFi驱动维护者辞职 
 <small>🔗 [phoronix.com](https://www.phoronix.com/news/Linux-Wireless-Maintainer-2025): Linux’s Sole Wireless/WiFi Driver Maintainer Is Stepping Down</small>
 
 
-| 🔥🔥: 126 \| 💬: [80](https://news.ycombinator.com/item?id=43088486) \| 🗓️ 2025-02-18
+| 🔥🔥: 126 \| 💬: [81](https://news.ycombinator.com/item?id=43088486) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -203,7 +215,7 @@ Linux的**无线驱动**维护者Kalle Valo宣布辞职，结束了他自2008年
 
 ---
 
-## <a name="16"></a>16. 特斯拉遭遇抗议潮，销量暴跌，内部人士觉醒 
+## <a name="17"></a>17. 特斯拉遭遇抗议潮，销量暴跌，内部人士觉醒 
 <small>🔗 [electrek.co](https://electrek.co/2025/02/17/tesla-was-hit-by-a-wave-of-protests-over-musk-sales-are-crashing-insiders-are-waking-up/): Tesla was hit by a wave of protests, sales are crashing, insiders are waking up</small>
 
 
@@ -215,11 +227,11 @@ Linux的**无线驱动**维护者Kalle Valo宣布辞职，结束了他自2008年
 
 ---
 
-## <a name="17"></a>17. 尝试在没有工作记忆的情况下思考和学习 
+## <a name="18"></a>18. 尝试在没有工作记忆的情况下思考和学习 
 <small>🔗 [sharpbrains.com](https://sharpbrains.com/blog/2008/05/25/try-thinking-and-learning-without-working-memory/): Try thinking and learning without working memory (2008)</small>
 
 
-| 🔥: 98 \| 💬: [49](https://news.ycombinator.com/item?id=43092386) \| 🗓️ 2025-02-18
+| 🔥🔥: 104 \| 💬: [54](https://news.ycombinator.com/item?id=43092386) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -227,11 +239,11 @@ Linux的**无线驱动**维护者Kalle Valo宣布辞职，结束了他自2008年
 
 ---
 
-## <a name="18"></a>18. 欢迎 Cot：一个为懒开发者设计的 Rust 网络框架 
+## <a name="19"></a>19. 欢迎 Cot：一个为懒开发者设计的 Rust 网络框架 
 <small>🔗 [mackow.ski](https://mackow.ski/blog/cot-the-rust-web-framework-for-lazy-developers/): Show HN: Cot: a Rust web framework for lazy developers</small>
 
 
-| 🔥: 93 \| 💬: [86](https://news.ycombinator.com/item?id=43089468) \| 🗓️ 2025-02-18
+| 🔥: 94 \| 💬: [88](https://news.ycombinator.com/item?id=43089468) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -239,23 +251,23 @@ Cot 是一个现代、易用的 **Rust** 网络框架，旨在填补现有框架
 
 ---
 
-## <a name="19"></a>19. 一年使用uv：优缺点及是否迁移的思考 
-<small>🔗 [bitecode.dev](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should): A year of uv: pros, cons, and should you migrate</small>
+## <a name="20"></a>20. 从Java转向Go的一年回顾 
+<small>🔗 [glasskube.dev](https://glasskube.dev/blog/from-java-to-go/): One year after switching from Java to Go</small>
 
 
-| 🔥: 88 \| 💬: [34](https://news.ycombinator.com/item?id=43095157) \| 🗓️ 2025-02-18
+| 🔥: 82 \| 💬: [58](https://news.ycombinator.com/item?id=43092003) \| 🗓️ 2025-02-18
 
 
 <br />
-经过一年的使用，**uv**这个新的Python项目管理工具展现了其高效与灵活性。作者建议在适合的情况下优先尝试uv，因其迁移成本低且价值高。uv独立于Python，解决了许多常见的**引导问题**，并提供了强大的依赖解析能力。尽管在某些情况下可能不适用，但其在项目管理和性能上的优势使其成为值得推荐的选择。
+在经历了14年的Java编程后，作者决定将其Kubernetes工具重写为Go语言。尽管最初对Go的学习曲线有所担忧，但其**启动速度快**、**资源消耗低**和**轻量级生态系统**的优势迅速显现。虽然Java在某些项目中仍然有其优势，但对于云原生应用和工具开发，Go显然是更合适的选择。作者享受着Go带来的速度与灵活性，告别了Java和Spring的复杂性。
 
 ---
 
-## <a name="20"></a>20. 文件飞行员：为速度而生的现代文件管理器 
+## <a name="21"></a>21. 文件飞行员：为速度而生的现代文件管理器 
 <small>🔗 [filepilot.tech](https://filepilot.tech/): File Pilot: A file explorer built for speed with a modern, robust interface</small>
 
 
-| 🔥: 66 \| 💬: [13](https://news.ycombinator.com/item?id=43091466) \| 🗓️ 2025-02-18
+| 🔥: 79 \| 💬: [20](https://news.ycombinator.com/item?id=43091466) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -263,11 +275,11 @@ Cot 是一个现代、易用的 **Rust** 网络框架，旨在填补现有框架
 
 ---
 
-## <a name="21"></a>21. Ray-Ban Meta眼镜销量突破200万，计划提升产能 
+## <a name="22"></a>22. Ray-Ban Meta眼镜销量突破200万，计划提升产能 
 <small>🔗 [uploadvr.com](https://www.uploadvr.com/ray-ban-meta-glasses-sold-2-units-production-to-be-vastly-increased/): Ray-Ban Meta glasses have sold 2M units, production to be increased</small>
 
 
-| 🔥: 61 \| 💬: [61](https://news.ycombinator.com/item?id=43088369) \| 🗓️ 2025-02-18
+| 🔥: 67 \| 💬: [67](https://news.ycombinator.com/item?id=43088369) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -275,11 +287,11 @@ Ray-Ban Meta眼镜迄今已售出**200万**台，EssilorLuxottica计划到2026�
 
 ---
 
-## <a name="22"></a>22. X阻碍选举干预潜在研究 
+## <a name="23"></a>23. X阻碍选举干预潜在研究 
 <small>🔗 [freiheitsrechte.org](https://freiheitsrechte.org/en/themen/digitale-grundrechte/x): X Prevents Research on Potential Election Interference</small>
 
 
-| 🔥: 55 \| 💬: [33](https://news.ycombinator.com/item?id=43092378) \| 🗓️ 2025-02-18
+| 🔥: 56 \| 💬: [33](https://news.ycombinator.com/item?id=43092378) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -287,11 +299,11 @@ GFF与民主报告国际（DRI）在柏林地区法院成功提起诉讼，要�
 
 ---
 
-## <a name="23"></a>23. 催化计算充分利用满硬盘的力量 
+## <a name="24"></a>24. 催化计算充分利用满硬盘的力量 
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/catalytic-computing-taps-the-full-power-of-a-full-hard-drive-20250218/): Catalytic computing taps the full power of a full hard drive</small>
 
 
-| 🔥: 49 \| 💬: [11](https://news.ycombinator.com/item?id=43091159) \| 🗓️ 2025-02-18
+| 🔥: 52 \| 💬: [12](https://news.ycombinator.com/item?id=43091159) \| 🗓️ 2025-02-18
 
 
 <br />
