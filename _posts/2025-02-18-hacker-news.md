@@ -27,7 +27,7 @@ tags:
 <small>🔗 [pi-hole.net](https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/): Pi-hole v6</small>
 
 
-| 🔥🔥: 391 \| 💬: [193](https://news.ycombinator.com/item?id=43093328) \| 🗓️ 2025-02-18
+| 🔥🔥: 396 \| 💬: [198](https://news.ycombinator.com/item?id=43093328) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [scripton.dev](https://scripton.dev): Show HN: Scripton – Python IDE with built-in realtime visualizations</small>
 
 
-| 🔥🔥: 348 \| 💬: [118](https://news.ycombinator.com/item?id=43090214) \| 🗓️ 2025-02-18
+| 🔥🔥: 355 \| 💬: [122](https://news.ycombinator.com/item?id=43090214) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -51,7 +51,7 @@ Scripton是一款新型的Python IDE，支持**实时可视化**，无需笔记�
 <small>🔗 [ethanmarcotte.com](https://ethanmarcotte.com/wrote/leaving-18f/): Moving on from 18F</small>
 
 
-| 🔥🔥: 332 \| 💬: [173](https://news.ycombinator.com/item?id=43093859) \| 🗓️ 2025-02-18
+| 🔥🔥: 333 \| 💬: [176](https://news.ycombinator.com/item?id=43093859) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -63,7 +63,7 @@ Scripton是一款新型的Python IDE，支持**实时可视化**，无需笔记�
 <small>🔗 [harper.blog](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/): My LLM codegen workflow</small>
 
 
-| 🔥🔥: 309 \| 💬: [107](https://news.ycombinator.com/item?id=43094006) \| 🗓️ 2025-02-18
+| 🔥🔥: 327 \| 💬: [109](https://news.ycombinator.com/item?id=43094006) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -75,7 +75,7 @@ Scripton是一款新型的Python IDE，支持**实时可视化**，无需笔记�
 <small>🔗 [chiark.greenend.org.uk](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/): XOR</small>
 
 
-| 🔥🔥: 287 \| 💬: [46](https://news.ycombinator.com/item?id=43087944) \| 🗓️ 2025-02-18
+| 🔥🔥: 301 \| 💬: [48](https://news.ycombinator.com/item?id=43087944) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -83,35 +83,11 @@ Scripton是一款新型的Python IDE，支持**实时可视化**，无需笔记�
 
 ---
 
-## <a name="6"></a>6. 理想候选人将被打腹部 
-<small>🔗 [scottsmitelli.com](https://www.scottsmitelli.com/articles/ideal-candidate/): The ideal candidate will be punched in the stomach</small>
-
-
-| 🔥🔥: 284 \| 💬: [191](https://news.ycombinator.com/item?id=43089150) \| 🗓️ 2025-02-18
-
-
-<br />
-在一次偶然的机会中，主人公发现了一份工作，描述与自己的经历完美契合，除了“被打腹部”这一奇怪要求。面试中，招聘经理确认这正是工作内容。尽管工作听起来荒谬，但丰厚的薪资和福利让他面临艰难的选择，思考着价值观与现实之间的冲突。
-
----
-
-## <a name="7"></a>7. 关税导致美国笔记本电脑价格上涨10%，Acer首席执行官表示 
-<small>🔗 [tomshardware.com](https://www.tomshardware.com/laptops/acer-ceo-10pc-price-rise-tariffs): Tariffs result in 10% laptop price hike in U.S. says Acer CEO</small>
-
-
-| 🔥🔥: 271 \| 💬: [473](https://news.ycombinator.com/item?id=43090684) \| 🗓️ 2025-02-18
-
-
-<br />
-Acer首席执行官陈俊胜在接受《每日电讯报》采访时表示，从2025年3月起，美国的笔记本电脑价格将上涨10%。这一价格上涨是由于特朗普政府即将实施的关税所致，Acer将调整最终用户价格以反映这一变化。尽管Acer在之前的关税政策下未受影响，但新到货的产品将面临更高的进口税。消费者可能会为Acer的高端笔记本电脑支付更高的价格，预计整体市场也会受到影响。消费者技术协会指出，80%的美国笔记本电脑进口来自中国，预计关税将使美国消费者损失高达1430亿美元。Acer正在考虑将生产线转移出中国，寻找其他供应链以降低成本。
-
----
-
-## <a name="8"></a>8. 一年使用uv：优缺点及是否迁移的思考 
+## <a name="6"></a>6. 一年使用uv：优缺点及是否迁移的思考 
 <small>🔗 [bitecode.dev](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should): A year of uv: pros, cons, and should you migrate</small>
 
 
-| 🔥🔥: 262 \| 💬: [115](https://news.ycombinator.com/item?id=43095157) \| 🗓️ 2025-02-18
+| 🔥🔥: 294 \| 💬: [124](https://news.ycombinator.com/item?id=43095157) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -119,11 +95,35 @@ Acer首席执行官陈俊胜在接受《每日电讯报》采访时表示，从2
 
 ---
 
+## <a name="7"></a>7. 理想候选人将被打腹部 
+<small>🔗 [scottsmitelli.com](https://www.scottsmitelli.com/articles/ideal-candidate/): The ideal candidate will be punched in the stomach</small>
+
+
+| 🔥🔥: 287 \| 💬: [191](https://news.ycombinator.com/item?id=43089150) \| 🗓️ 2025-02-18
+
+
+<br />
+在一次偶然的机会中，主人公发现了一份工作，描述与自己的经历完美契合，除了“被打腹部”这一奇怪要求。面试中，招聘经理确认这正是工作内容。尽管工作听起来荒谬，但丰厚的薪资和福利让他面临艰难的选择，思考着价值观与现实之间的冲突。
+
+---
+
+## <a name="8"></a>8. 关税导致美国笔记本电脑价格上涨10%，Acer首席执行官表示 
+<small>🔗 [tomshardware.com](https://www.tomshardware.com/laptops/acer-ceo-10pc-price-rise-tariffs): Tariffs result in 10% laptop price hike in U.S. says Acer CEO</small>
+
+
+| 🔥🔥: 273 \| 💬: [480](https://news.ycombinator.com/item?id=43090684) \| 🗓️ 2025-02-18
+
+
+<br />
+Acer首席执行官陈俊胜在接受《每日电讯报》采访时表示，从2025年3月起，美国的笔记本电脑价格将上涨10%。这一价格上涨是由于特朗普政府即将实施的关税所致，Acer将调整最终用户价格以反映这一变化。尽管Acer在之前的关税政策下未受影响，但新到货的产品将面临更高的进口税。消费者可能会为Acer的高端笔记本电脑支付更高的价格，预计整体市场也会受到影响。消费者技术协会指出，80%的美国笔记本电脑进口来自中国，预计关税将使美国消费者损失高达1430亿美元。Acer正在考虑将生产线转移出中国，寻找其他供应链以降低成本。
+
+---
+
 ## <a name="9"></a>9. 核聚变：WEST打破等离子体持续时间世界纪录 
 <small>🔗 [cea.fr](https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx): Nuclear fusion: WEST beats the world record for plasma duration</small>
 
 
-| 🔥🔥: 250 \| 💬: [229](https://news.ycombinator.com/item?id=43093939) \| 🗓️ 2025-02-18
+| 🔥🔥: 256 \| 💬: [232](https://news.ycombinator.com/item?id=43093939) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -135,7 +135,7 @@ Acer首席执行官陈俊胜在接受《每日电讯报》采访时表示，从2
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c4gex0x87g4o): South Korean regulator accuses DeepSeek of sharing user data with ByteDance</small>
 
 
-| 🔥🔥: 180 \| 💬: [87](https://news.ycombinator.com/item?id=43094651) \| 🗓️ 2025-02-18
+| 🔥🔥: 192 \| 💬: [96](https://news.ycombinator.com/item?id=43094651) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -147,7 +147,7 @@ Acer首席执行官陈俊胜在接受《每日电讯报》采访时表示，从2
 <small>🔗 [repost.aws](https://repost.aws/knowledge-center/eks-api-server-unauthorized-error): AWS paywalling select knowledge base articles, requiring Premium Support plan</small>
 
 
-| 🔥🔥: 178 \| 💬: [68](https://news.ycombinator.com/item?id=43094467) \| 🗓️ 2025-02-18
+| 🔥🔥: 179 \| 💬: [69](https://news.ycombinator.com/item?id=43094467) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -159,7 +159,7 @@ AWS正在对特定的知识库文章实施付费墙，用户需要订阅**高级
 <small>🔗 [hodlbod.npub.pro](https://hodlbod.npub.pro/post/1739830562159/): Svelte 5 is not JavaScript</small>
 
 
-| 🔥🔥: 169 \| 💬: [178](https://news.ycombinator.com/item?id=43091596) \| 🗓️ 2025-02-18
+| 🔥🔥: 169 \| 💬: [180](https://news.ycombinator.com/item?id=43091596) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -171,7 +171,7 @@ AWS正在对特定的知识库文章实施付费墙，用户需要订阅**高级
 <small>🔗 [chemistryworld.com](https://www.chemistryworld.com/news/among-worlds-top-researchers-10-publish-at-unrealistic-levels-analysis-finds/4020962.article): Among top researchers 10% publish at unrealistic levels, analysis finds</small>
 
 
-| 🔥🔥: 161 \| 💬: [99](https://news.ycombinator.com/item?id=43093155) \| 🗓️ 2025-02-18
+| 🔥🔥: 163 \| 💬: [100](https://news.ycombinator.com/item?id=43093155) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -183,7 +183,7 @@ AWS正在对特定的知识库文章实施付费墙，用户需要订阅**高级
 <small>🔗 [soatok.blog](https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/): Reviewing the cryptography used by Signal</small>
 
 
-| 🔥🔥: 153 \| 💬: [124](https://news.ycombinator.com/item?id=43088785) \| 🗓️ 2025-02-18
+| 🔥🔥: 154 \| 💬: [125](https://news.ycombinator.com/item?id=43088785) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -195,7 +195,7 @@ AWS正在对特定的知识库文章实施付费墙，用户需要订阅**高级
 <small>🔗 [arstechnica.com](https://arstechnica.com/space/2025/02/by-the-end-of-today-nasas-workforce-will-be-about-10-percent-smaller/): By the end of today, NASA's workforce will be about 10 percent smaller</small>
 
 
-| 🔥🔥: 136 \| 💬: [181](https://news.ycombinator.com/item?id=43090862) \| 🗓️ 2025-02-18
+| 🔥🔥: 136 \| 💬: [184](https://news.ycombinator.com/item?id=43090862) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -207,7 +207,7 @@ NASA的员工人数将从近18,000人减少约10%。在特朗普政府的影响�
 <small>🔗 [phoronix.com](https://www.phoronix.com/news/Linux-Wireless-Maintainer-2025): Linux’s Sole Wireless/WiFi Driver Maintainer Is Stepping Down</small>
 
 
-| 🔥🔥: 126 \| 💬: [83](https://news.ycombinator.com/item?id=43088486) \| 🗓️ 2025-02-18
+| 🔥🔥: 128 \| 💬: [83](https://news.ycombinator.com/item?id=43088486) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -219,7 +219,7 @@ Linux的**无线驱动**维护者Kalle Valo宣布辞职，结束了他自2008年
 <small>🔗 [sharpbrains.com](https://sharpbrains.com/blog/2008/05/25/try-thinking-and-learning-without-working-memory/): Try thinking and learning without working memory (2008)</small>
 
 
-| 🔥🔥: 119 \| 💬: [59](https://news.ycombinator.com/item?id=43092386) \| 🗓️ 2025-02-18
+| 🔥🔥: 121 \| 💬: [61](https://news.ycombinator.com/item?id=43092386) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -231,7 +231,7 @@ Linux的**无线驱动**维护者Kalle Valo宣布辞职，结束了他自2008年
 <small>🔗 [humane.com](https://humane.com/media/humane-hp): HP Acquires Humane's AI Software</small>
 
 
-| 🔥🔥: 118 \| 💬: [106](https://news.ycombinator.com/item?id=43095811) \| 🗓️ 2025-02-18
+| 🔥🔥: 121 \| 💬: [125](https://news.ycombinator.com/item?id=43095811) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -255,7 +255,7 @@ Linux的**无线驱动**维护者Kalle Valo宣布辞职，结束了他自2008年
 <small>🔗 [glasskube.dev](https://glasskube.dev/blog/from-java-to-go/): One year after switching from Java to Go</small>
 
 
-| 🔥🔥: 114 \| 💬: [114](https://news.ycombinator.com/item?id=43092003) \| 🗓️ 2025-02-18
+| 🔥🔥: 116 \| 💬: [124](https://news.ycombinator.com/item?id=43092003) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -267,7 +267,7 @@ Linux的**无线驱动**维护者Kalle Valo宣布辞职，结束了他自2008年
 <small>🔗 [filepilot.tech](https://filepilot.tech/): File Pilot: A file explorer built for speed with a modern, robust interface</small>
 
 
-| 🔥🔥: 112 \| 💬: [51](https://news.ycombinator.com/item?id=43091466) \| 🗓️ 2025-02-18
+| 🔥🔥: 114 \| 💬: [51](https://news.ycombinator.com/item?id=43091466) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -279,7 +279,7 @@ Linux的**无线驱动**维护者Kalle Valo宣布辞职，结束了他自2008年
 <small>🔗 [mackow.ski](https://mackow.ski/blog/cot-the-rust-web-framework-for-lazy-developers/): Show HN: Cot: a Rust web framework for lazy developers</small>
 
 
-| 🔥: 96 \| 💬: [92](https://news.ycombinator.com/item?id=43089468) \| 🗓️ 2025-02-18
+| 🔥: 97 \| 💬: [92](https://news.ycombinator.com/item?id=43089468) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -291,7 +291,7 @@ Cot 是一个现代、易用的 **Rust** 网络框架，旨在填补现有框架
 <small>🔗 [uploadvr.com](https://www.uploadvr.com/ray-ban-meta-glasses-sold-2-units-production-to-be-vastly-increased/): Ray-Ban Meta glasses have sold 2M units, production to be increased</small>
 
 
-| 🔥: 77 \| 💬: [82](https://news.ycombinator.com/item?id=43088369) \| 🗓️ 2025-02-18
+| 🔥: 81 \| 💬: [86](https://news.ycombinator.com/item?id=43088369) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -299,7 +299,19 @@ Ray-Ban Meta眼镜迄今已售出**200万**台，EssilorLuxottica计划到2026�
 
 ---
 
-## <a name="24"></a>24. X阻碍选举干预潜在研究 
+## <a name="24"></a>24. 催化计算充分利用满硬盘的力量 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/catalytic-computing-taps-the-full-power-of-a-full-hard-drive-20250218/): Catalytic computing taps the full power of a full hard drive</small>
+
+
+| 🔥: 56 \| 💬: [13](https://news.ycombinator.com/item?id=43091159) \| 🗓️ 2025-02-18
+
+
+<br />
+催化计算是一种理论框架，表明即使是**满存储空间**也能提升计算能力。2014年，研究者们首次提出这一概念，最近的研究显示，传统的内存与计算关系的研究可能走入了死胡同。通过**树评估问题**的研究，科学家们发现，利用满存储进行计算是可能的，甚至可以设计出低内存算法。这一发现激发了对催化计算的进一步探索，预示着未来可能有更多惊喜。
+
+---
+
+## <a name="25"></a>25. X阻碍选举干预潜在研究 
 <small>🔗 [freiheitsrechte.org](https://freiheitsrechte.org/en/themen/digitale-grundrechte/x): X Prevents Research on Potential Election Interference</small>
 
 
@@ -308,17 +320,5 @@ Ray-Ban Meta眼镜迄今已售出**200万**台，EssilorLuxottica计划到2026�
 
 <br />
 GFF与民主报告国际（DRI）在柏林地区法院成功提起诉讼，要求社交平台X提供公开数据，以研究社交媒体对即将到来的德国联邦选举的影响。法院裁定X必须交出数据，依据是《数字服务法》（DSA）中关于研究数据访问的规定。DRI希望通过这些数据提高透明度，揭示潜在操控行为。GFF强调，社交媒体对公众舆论和选举过程的影响日益显著，获取相关数据是防止选举受到影响的重要手段。
-
----
-
-## <a name="25"></a>25. 催化计算充分利用满硬盘的力量 
-<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/catalytic-computing-taps-the-full-power-of-a-full-hard-drive-20250218/): Catalytic computing taps the full power of a full hard drive</small>
-
-
-| 🔥: 54 \| 💬: [13](https://news.ycombinator.com/item?id=43091159) \| 🗓️ 2025-02-18
-
-
-<br />
-催化计算是一种理论框架，表明即使是**满存储空间**也能提升计算能力。2014年，研究者们首次提出这一概念，最近的研究显示，传统的内存与计算关系的研究可能走入了死胡同。通过**树评估问题**的研究，科学家们发现，利用满存储进行计算是可能的，甚至可以设计出低内存算法。这一发现激发了对催化计算的进一步探索，预示着未来可能有更多惊喜。
 
 ---
