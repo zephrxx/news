@@ -8,50 +8,26 @@ tags:
 ---
 
 
+1. Pi-hole v6发布：全新特性与改进；
 1. 离开18F的思考；
 1. Scripton – 内置实时可视化的Python IDE；
-1. Pi-hole v6发布：全新特性与改进；
 1. 关税导致美国笔记本电脑价格上涨10%，Acer首席执行官表示；
 1. 理想候选人将被打腹部；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共21条，具体内容您往下读...
+总共23条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
 ![](/assets/images/hacker_news.jpg)
 
 
-## <a name="1"></a>1. 离开18F的思考 
-<small>🔗 [ethanmarcotte.com](https://ethanmarcotte.com/wrote/leaving-18f/): Moving on from 18F</small>
-
-
-| 🔥🔥: 308 \| 💬: [141](https://news.ycombinator.com/item?id=43093859) \| 🗓️ 2025-02-18
-
-
-<br />
-上周，我结束了在18F的设计师生涯，虽然我并不是因为被解雇或辞职，而是因为对新政府的担忧和对工作的道德底线感到不安。18F是一个充满**热情**和**支持**的团队，我在这里感到安全和受到鼓励。然而，随着新领导层的出现，我意识到我的价值观与即将到来的变化不再契合。最终，我选择辞职，尽管这让我感到悲伤和愤怒。我的离开不仅是个人的决定，也是对当前政治环境的反应。
-
----
-
-## <a name="2"></a>2. Scripton – 内置实时可视化的Python IDE 
-<small>🔗 [scripton.dev](https://scripton.dev): Show HN: Scripton – Python IDE with built-in realtime visualizations</small>
-
-
-| 🔥🔥: 307 \| 💬: [108](https://news.ycombinator.com/item?id=43090214) \| 🗓️ 2025-02-18
-
-
-<br />
-Scripton是一款新型的Python IDE，支持**实时可视化**，无需笔记本、服务器或浏览器。它集成了Plotly和Observable的绘图工具，用户可以直接在IDE中进行动态可视化。Scripton还提供强大的**调试功能**和丰富的REPL体验，支持多种第三方库，如Matplotlib和Pandas。当前支持macOS，计划未来推出Windows和Linux版本。
-
----
-
-## <a name="3"></a>3. Pi-hole v6发布：全新特性与改进 
+## <a name="1"></a>1. Pi-hole v6发布：全新特性与改进 
 <small>🔗 [pi-hole.net](https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/): Pi-hole v6</small>
 
 
-| 🔥🔥: 287 \| 💬: [150](https://news.ycombinator.com/item?id=43093328) \| 🗓️ 2025-02-18
+| 🔥🔥: 320 \| 💬: [170](https://news.ycombinator.com/item?id=43093328) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -59,11 +35,35 @@ Scripton是一款新型的Python IDE，支持**实时可视化**，无需笔记�
 
 ---
 
+## <a name="2"></a>2. 离开18F的思考 
+<small>🔗 [ethanmarcotte.com](https://ethanmarcotte.com/wrote/leaving-18f/): Moving on from 18F</small>
+
+
+| 🔥🔥: 316 \| 💬: [151](https://news.ycombinator.com/item?id=43093859) \| 🗓️ 2025-02-18
+
+
+<br />
+上周，我结束了在18F的设计师生涯，虽然我并不是因为被解雇或辞职，而是因为对新政府的担忧和对工作的道德底线感到不安。18F是一个充满**热情**和**支持**的团队，我在这里感到安全和受到鼓励。然而，随着新领导层的出现，我意识到我的价值观与即将到来的变化不再契合。最终，我选择辞职，尽管这让我感到悲伤和愤怒。我的离开不仅是个人的决定，也是对当前政治环境的反应。
+
+---
+
+## <a name="3"></a>3. Scripton – 内置实时可视化的Python IDE 
+<small>🔗 [scripton.dev](https://scripton.dev): Show HN: Scripton – Python IDE with built-in realtime visualizations</small>
+
+
+| 🔥🔥: 315 \| 💬: [109](https://news.ycombinator.com/item?id=43090214) \| 🗓️ 2025-02-18
+
+
+<br />
+Scripton是一款新型的Python IDE，支持**实时可视化**，无需笔记本、服务器或浏览器。它集成了Plotly和Observable的绘图工具，用户可以直接在IDE中进行动态可视化。Scripton还提供强大的**调试功能**和丰富的REPL体验，支持多种第三方库，如Matplotlib和Pandas。当前支持macOS，计划未来推出Windows和Linux版本。
+
+---
+
 ## <a name="4"></a>4. 关税导致美国笔记本电脑价格上涨10%，Acer首席执行官表示 
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/laptops/acer-ceo-10pc-price-rise-tariffs): Tariffs result in 10% laptop price hike in U.S. says Acer CEO</small>
 
 
-| 🔥🔥: 263 \| 💬: [447](https://news.ycombinator.com/item?id=43090684) \| 🗓️ 2025-02-18
+| 🔥🔥: 264 \| 💬: [457](https://news.ycombinator.com/item?id=43090684) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -75,7 +75,7 @@ Acer首席执行官陈俊胜在接受《每日电讯报》采访时表示，从2
 <small>🔗 [scottsmitelli.com](https://www.scottsmitelli.com/articles/ideal-candidate/): The ideal candidate will be punched in the stomach</small>
 
 
-| 🔥🔥: 243 \| 💬: [153](https://news.ycombinator.com/item?id=43089150) \| 🗓️ 2025-02-18
+| 🔥🔥: 257 \| 💬: [160](https://news.ycombinator.com/item?id=43089150) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -87,7 +87,7 @@ Acer首席执行官陈俊胜在接受《每日电讯报》采访时表示，从2
 <small>🔗 [harper.blog](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/): My LLM codegen workflow</small>
 
 
-| 🔥🔥: 210 \| 💬: [48](https://news.ycombinator.com/item?id=43094006) \| 🗓️ 2025-02-18
+| 🔥🔥: 238 \| 💬: [65](https://news.ycombinator.com/item?id=43094006) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -99,7 +99,7 @@ Acer首席执行官陈俊胜在接受《每日电讯报》采访时表示，从2
 <small>🔗 [cea.fr](https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx): Nuclear fusion: WEST beats the world record for plasma duration</small>
 
 
-| 🔥🔥: 207 \| 💬: [156](https://news.ycombinator.com/item?id=43093939) \| 🗓️ 2025-02-18
+| 🔥🔥: 217 \| 💬: [180](https://news.ycombinator.com/item?id=43093939) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -107,23 +107,11 @@ Acer首席执行官陈俊胜在接受《每日电讯报》采访时表示，从2
 
 ---
 
-## <a name="8"></a>8. AWS对部分知识库文章实施付费墙，需升级至高级支持计划 
-<small>🔗 [repost.aws](https://repost.aws/knowledge-center/eks-api-server-unauthorized-error): AWS paywalling select knowledge base articles, requiring Premium Support plan</small>
-
-
-| 🔥🔥: 160 \| 💬: [63](https://news.ycombinator.com/item?id=43094467) \| 🗓️ 2025-02-18
-
-
-<br />
-AWS正在对特定的知识库文章实施付费墙，用户需要订阅**高级支持计划**才能访问这些内容。与此同时，用户在连接Amazon EKS API服务器时可能会遇到“未授权”错误，这通常与IAM实体的配置有关。解决此问题需要检查kubectl配置和aws-auth ConfigMap的映射，确保IAM用户或角色被正确授权访问EKS集群。
-
----
-
-## <a name="9"></a>9. 异或运算的深度解析 
+## <a name="8"></a>8. 异或运算的深度解析 
 <small>🔗 [chiark.greenend.org.uk](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/): XOR</small>
 
 
-| 🔥🔥: 153 \| 💬: [20](https://news.ycombinator.com/item?id=43087944) \| 🗓️ 2025-02-18
+| 🔥🔥: 181 \| 💬: [22](https://news.ycombinator.com/item?id=43087944) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -131,11 +119,23 @@ AWS正在对特定的知识库文章实施付费墙，用户需要订阅**高级
 
 ---
 
+## <a name="9"></a>9. AWS对部分知识库文章实施付费墙，需升级至高级支持计划 
+<small>🔗 [repost.aws](https://repost.aws/knowledge-center/eks-api-server-unauthorized-error): AWS paywalling select knowledge base articles, requiring Premium Support plan</small>
+
+
+| 🔥🔥: 168 \| 💬: [64](https://news.ycombinator.com/item?id=43094467) \| 🗓️ 2025-02-18
+
+
+<br />
+AWS正在对特定的知识库文章实施付费墙，用户需要订阅**高级支持计划**才能访问这些内容。与此同时，用户在连接Amazon EKS API服务器时可能会遇到“未授权”错误，这通常与IAM实体的配置有关。解决此问题需要检查kubectl配置和aws-auth ConfigMap的映射，确保IAM用户或角色被正确授权访问EKS集群。
+
+---
+
 ## <a name="10"></a>10. Svelte 5 不是 JavaScript 
 <small>🔗 [hodlbod.npub.pro](https://hodlbod.npub.pro/post/1739830562159/): Svelte 5 is not JavaScript</small>
 
 
-| 🔥🔥: 148 \| 💬: [166](https://news.ycombinator.com/item?id=43091596) \| 🗓️ 2025-02-18
+| 🔥🔥: 157 \| 💬: [171](https://news.ycombinator.com/item?id=43091596) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -147,7 +147,7 @@ AWS正在对特定的知识库文章实施付费墙，用户需要订阅**高级
 <small>🔗 [soatok.blog](https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/): Reviewing the cryptography used by Signal</small>
 
 
-| 🔥🔥: 145 \| 💬: [112](https://news.ycombinator.com/item?id=43088785) \| 🗓️ 2025-02-18
+| 🔥🔥: 151 \| 💬: [117](https://news.ycombinator.com/item?id=43088785) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -155,11 +155,23 @@ AWS正在对特定的知识库文章实施付费墙，用户需要订阅**高级
 
 ---
 
-## <a name="12"></a>12. 到今天结束，NASA的员工人数将减少约10% 
+## <a name="12"></a>12. DeepSeek与抖音母公司字节跳动共享用户数据 
+<small>🔗 [bbc.com](https://www.bbc.com/news/articles/c4gex0x87g4o): South Korean regulator accuses DeepSeek of sharing user data with ByteDance</small>
+
+
+| 🔥🔥: 140 \| 💬: [62](https://news.ycombinator.com/item?id=43094651) \| 🗓️ 2025-02-18
+
+
+<br />
+南韩指控中国AI初创公司**DeepSeek**与抖音母公司**字节跳动**共享用户数据，已将其从应用商店下架。南韩个人信息保护委员会发现DeepSeek与字节跳动存在联系，但尚未确认具体数据传输情况。DeepSeek因其低成本的AI模型引发全球关注，但也引发了关于用户数据隐私的担忧。该公司承认未遵守南韩隐私法，并建议用户谨慎使用。
+
+---
+
+## <a name="13"></a>13. 到今天结束，NASA的员工人数将减少约10% 
 <small>🔗 [arstechnica.com](https://arstechnica.com/space/2025/02/by-the-end-of-today-nasas-workforce-will-be-about-10-percent-smaller/): By the end of today, NASA's workforce will be about 10 percent smaller</small>
 
 
-| 🔥🔥: 131 \| 💬: [177](https://news.ycombinator.com/item?id=43090862) \| 🗓️ 2025-02-18
+| 🔥🔥: 133 \| 💬: [178](https://news.ycombinator.com/item?id=43090862) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -167,23 +179,11 @@ NASA的员工人数将从近18,000人减少约10%。在特朗普政府的影响�
 
 ---
 
-## <a name="13"></a>13. Linux无线/WiFi驱动维护者辞职 
-<small>🔗 [phoronix.com](https://www.phoronix.com/news/Linux-Wireless-Maintainer-2025): Linux’s Sole Wireless/WiFi Driver Maintainer Is Stepping Down</small>
-
-
-| 🔥🔥: 126 \| 💬: [79](https://news.ycombinator.com/item?id=43088486) \| 🗓️ 2025-02-18
-
-
-<br />
-Linux的**无线驱动**维护者Kalle Valo宣布辞职，结束了他自2008年以来的维护工作。他是Qualcomm Atheros的工程师，长期以来为Linux内核做出贡献。尽管Jeff继续维护部分驱动程序，但目前没有人接替Kalle的**维护者**角色。社区对Kalle的贡献表示感激，但尚未找到新的领导者来承担这一职责。
-
----
-
 ## <a name="14"></a>14. 全球顶尖研究者中10%发表不切实际的论文数量，分析发现 
 <small>🔗 [chemistryworld.com](https://www.chemistryworld.com/news/among-worlds-top-researchers-10-publish-at-unrealistic-levels-analysis-finds/4020962.article): Among top researchers 10% publish at unrealistic levels, analysis finds</small>
 
 
-| 🔥🔥: 120 \| 💬: [74](https://news.ycombinator.com/item?id=43093155) \| 🗓️ 2025-02-18
+| 🔥🔥: 132 \| 💬: [84](https://news.ycombinator.com/item?id=43093155) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -191,15 +191,15 @@ Linux的**无线驱动**维护者Kalle Valo宣布辞职，结束了他自2008年
 
 ---
 
-## <a name="15"></a>15. DeepSeek与抖音母公司字节跳动共享用户数据 
-<small>🔗 [bbc.com](https://www.bbc.com/news/articles/c4gex0x87g4o): South Korean regulator accuses DeepSeek of sharing user data with ByteDance</small>
+## <a name="15"></a>15. Linux无线/WiFi驱动维护者辞职 
+<small>🔗 [phoronix.com](https://www.phoronix.com/news/Linux-Wireless-Maintainer-2025): Linux’s Sole Wireless/WiFi Driver Maintainer Is Stepping Down</small>
 
 
-| 🔥🔥: 118 \| 💬: [52](https://news.ycombinator.com/item?id=43094651) \| 🗓️ 2025-02-18
+| 🔥🔥: 126 \| 💬: [80](https://news.ycombinator.com/item?id=43088486) \| 🗓️ 2025-02-18
 
 
 <br />
-南韩指控中国AI初创公司**DeepSeek**与抖音母公司**字节跳动**共享用户数据，已将其从应用商店下架。南韩个人信息保护委员会发现DeepSeek与字节跳动存在联系，但尚未确认具体数据传输情况。DeepSeek因其低成本的AI模型引发全球关注，但也引发了关于用户数据隐私的担忧。该公司承认未遵守南韩隐私法，并建议用户谨慎使用。
+Linux的**无线驱动**维护者Kalle Valo宣布辞职，结束了他自2008年以来的维护工作。他是Qualcomm Atheros的工程师，长期以来为Linux内核做出贡献。尽管Jeff继续维护部分驱动程序，但目前没有人接替Kalle的**维护者**角色。社区对Kalle的贡献表示感激，但尚未找到新的领导者来承担这一职责。
 
 ---
 
@@ -215,7 +215,19 @@ Linux的**无线驱动**维护者Kalle Valo宣布辞职，结束了他自2008年
 
 ---
 
-## <a name="17"></a>17. 欢迎 Cot：一个为懒开发者设计的 Rust 网络框架 
+## <a name="17"></a>17. 尝试在没有工作记忆的情况下思考和学习 
+<small>🔗 [sharpbrains.com](https://sharpbrains.com/blog/2008/05/25/try-thinking-and-learning-without-working-memory/): Try thinking and learning without working memory (2008)</small>
+
+
+| 🔥: 98 \| 💬: [49](https://news.ycombinator.com/item?id=43092386) \| 🗓️ 2025-02-18
+
+
+<br />
+工作记忆是我们日常生活中至关重要的，它帮助我们在思考时保持信息的“在线”状态。研究表明，**复杂决策**往往依赖于潜意识思维，而简单决策则更依赖于意识思考。通过**训练工作记忆**，可以提高思维能力和智商，特别是在儿童中。有效的学习策略可以减少工作记忆的负担，从而促进更好的思维和记忆形成。
+
+---
+
+## <a name="18"></a>18. 欢迎 Cot：一个为懒开发者设计的 Rust 网络框架 
 <small>🔗 [mackow.ski](https://mackow.ski/blog/cot-the-rust-web-framework-for-lazy-developers/): Show HN: Cot: a Rust web framework for lazy developers</small>
 
 
@@ -227,35 +239,35 @@ Cot 是一个现代、易用的 **Rust** 网络框架，旨在填补现有框架
 
 ---
 
-## <a name="18"></a>18. 尝试在没有工作记忆的情况下思考和学习 
-<small>🔗 [sharpbrains.com](https://sharpbrains.com/blog/2008/05/25/try-thinking-and-learning-without-working-memory/): Try thinking and learning without working memory (2008)</small>
+## <a name="19"></a>19. 一年使用uv：优缺点及是否迁移的思考 
+<small>🔗 [bitecode.dev](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should): A year of uv: pros, cons, and should you migrate</small>
 
 
-| 🔥: 89 \| 💬: [43](https://news.ycombinator.com/item?id=43092386) \| 🗓️ 2025-02-18
-
-
-<br />
-工作记忆是我们日常生活中至关重要的，它帮助我们在思考时保持信息的“在线”状态。研究表明，**复杂决策**往往依赖于潜意识思维，而简单决策则更依赖于意识思考。通过**训练工作记忆**，可以提高思维能力和智商，特别是在儿童中。有效的学习策略可以减少工作记忆的负担，从而促进更好的思维和记忆形成。
-
----
-
-## <a name="19"></a>19. X阻碍选举干预潜在研究 
-<small>🔗 [freiheitsrechte.org](https://freiheitsrechte.org/en/themen/digitale-grundrechte/x): X Prevents Research on Potential Election Interference</small>
-
-
-| 🔥: 55 \| 💬: [34](https://news.ycombinator.com/item?id=43092378) \| 🗓️ 2025-02-18
+| 🔥: 88 \| 💬: [34](https://news.ycombinator.com/item?id=43095157) \| 🗓️ 2025-02-18
 
 
 <br />
-GFF与民主报告国际（DRI）在柏林地区法院成功提起诉讼，要求社交平台X提供公开数据，以研究社交媒体对即将到来的德国联邦选举的影响。法院裁定X必须交出数据，依据是《数字服务法》（DSA）中关于研究数据访问的规定。DRI希望通过这些数据提高透明度，揭示潜在操控行为。GFF强调，社交媒体对公众舆论和选举过程的影响日益显著，获取相关数据是防止选举受到影响的重要手段。
+经过一年的使用，**uv**这个新的Python项目管理工具展现了其高效与灵活性。作者建议在适合的情况下优先尝试uv，因其迁移成本低且价值高。uv独立于Python，解决了许多常见的**引导问题**，并提供了强大的依赖解析能力。尽管在某些情况下可能不适用，但其在项目管理和性能上的优势使其成为值得推荐的选择。
 
 ---
 
-## <a name="20"></a>20. Ray-Ban Meta眼镜销量突破200万，计划提升产能 
+## <a name="20"></a>20. 文件飞行员：为速度而生的现代文件管理器 
+<small>🔗 [filepilot.tech](https://filepilot.tech/): File Pilot: A file explorer built for speed with a modern, robust interface</small>
+
+
+| 🔥: 66 \| 💬: [13](https://news.ycombinator.com/item?id=43091466) \| 🗓️ 2025-02-18
+
+
+<br />
+文件飞行员是一款全新设计的文件管理器，旨在提供**极速性能**和**现代化界面**。它支持自定义颜色主题、热键和布局，确保用户体验个性化。核心功能包括快速搜索、批量重命名和文件内容预览，帮助用户轻松管理文件。现在可以下载测试版，体验无缝的文件操作。
+
+---
+
+## <a name="21"></a>21. Ray-Ban Meta眼镜销量突破200万，计划提升产能 
 <small>🔗 [uploadvr.com](https://www.uploadvr.com/ray-ban-meta-glasses-sold-2-units-production-to-be-vastly-increased/): Ray-Ban Meta glasses have sold 2M units, production to be increased</small>
 
 
-| 🔥: 51 \| 💬: [55](https://news.ycombinator.com/item?id=43088369) \| 🗓️ 2025-02-18
+| 🔥: 61 \| 💬: [61](https://news.ycombinator.com/item?id=43088369) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -263,11 +275,23 @@ Ray-Ban Meta眼镜迄今已售出**200万**台，EssilorLuxottica计划到2026�
 
 ---
 
-## <a name="21"></a>21. 催化计算充分利用满硬盘的力量 
+## <a name="22"></a>22. X阻碍选举干预潜在研究 
+<small>🔗 [freiheitsrechte.org](https://freiheitsrechte.org/en/themen/digitale-grundrechte/x): X Prevents Research on Potential Election Interference</small>
+
+
+| 🔥: 55 \| 💬: [33](https://news.ycombinator.com/item?id=43092378) \| 🗓️ 2025-02-18
+
+
+<br />
+GFF与民主报告国际（DRI）在柏林地区法院成功提起诉讼，要求社交平台X提供公开数据，以研究社交媒体对即将到来的德国联邦选举的影响。法院裁定X必须交出数据，依据是《数字服务法》（DSA）中关于研究数据访问的规定。DRI希望通过这些数据提高透明度，揭示潜在操控行为。GFF强调，社交媒体对公众舆论和选举过程的影响日益显著，获取相关数据是防止选举受到影响的重要手段。
+
+---
+
+## <a name="23"></a>23. 催化计算充分利用满硬盘的力量 
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/catalytic-computing-taps-the-full-power-of-a-full-hard-drive-20250218/): Catalytic computing taps the full power of a full hard drive</small>
 
 
-| 🔥: 46 \| 💬: [10](https://news.ycombinator.com/item?id=43091159) \| 🗓️ 2025-02-18
+| 🔥: 49 \| 💬: [11](https://news.ycombinator.com/item?id=43091159) \| 🗓️ 2025-02-18
 
 
 <br />
