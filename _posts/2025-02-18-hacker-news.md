@@ -9,14 +9,14 @@ tags:
 
 
 1. Pi-hole v6发布：全新特性与改进；
-1. 离开18F的思考；
 1. Scripton – 内置实时可视化的Python IDE；
-1. 关税导致美国笔记本电脑价格上涨10%，Acer首席执行官表示；
+1. 离开18F的思考；
+1. 我的 LLM 代码生成工作流程；
 1. 理想候选人将被打腹部；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [pi-hole.net](https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/): Pi-hole v6</small>
 
 
-| 🔥🔥: 343 \| 💬: [183](https://news.ycombinator.com/item?id=43093328) \| 🗓️ 2025-02-18
+| 🔥🔥: 365 \| 💬: [186](https://news.ycombinator.com/item?id=43093328) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -35,23 +35,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. 离开18F的思考 
-<small>🔗 [ethanmarcotte.com](https://ethanmarcotte.com/wrote/leaving-18f/): Moving on from 18F</small>
-
-
-| 🔥🔥: 322 \| 💬: [168](https://news.ycombinator.com/item?id=43093859) \| 🗓️ 2025-02-18
-
-
-<br />
-上周，我结束了在18F的设计师生涯，虽然我并不是因为被解雇或辞职，而是因为对新政府的担忧和对工作的道德底线感到不安。18F是一个充满**热情**和**支持**的团队，我在这里感到安全和受到鼓励。然而，随着新领导层的出现，我意识到我的价值观与即将到来的变化不再契合。最终，我选择辞职，尽管这让我感到悲伤和愤怒。我的离开不仅是个人的决定，也是对当前政治环境的反应。
-
----
-
-## <a name="3"></a>3. Scripton – 内置实时可视化的Python IDE 
+## <a name="2"></a>2. Scripton – 内置实时可视化的Python IDE 
 <small>🔗 [scripton.dev](https://scripton.dev): Show HN: Scripton – Python IDE with built-in realtime visualizations</small>
 
 
-| 🔥🔥: 320 \| 💬: [110](https://news.ycombinator.com/item?id=43090214) \| 🗓️ 2025-02-18
+| 🔥🔥: 329 \| 💬: [112](https://news.ycombinator.com/item?id=43090214) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -59,35 +47,23 @@ Scripton是一款新型的Python IDE，支持**实时可视化**，无需笔记�
 
 ---
 
-## <a name="4"></a>4. 关税导致美国笔记本电脑价格上涨10%，Acer首席执行官表示 
-<small>🔗 [tomshardware.com](https://www.tomshardware.com/laptops/acer-ceo-10pc-price-rise-tariffs): Tariffs result in 10% laptop price hike in U.S. says Acer CEO</small>
+## <a name="3"></a>3. 离开18F的思考 
+<small>🔗 [ethanmarcotte.com](https://ethanmarcotte.com/wrote/leaving-18f/): Moving on from 18F</small>
 
 
-| 🔥🔥: 266 \| 💬: [461](https://news.ycombinator.com/item?id=43090684) \| 🗓️ 2025-02-18
-
-
-<br />
-Acer首席执行官陈俊胜在接受《每日电讯报》采访时表示，从2025年3月起，美国的笔记本电脑价格将上涨10%。这一价格上涨是由于特朗普政府即将实施的关税所致，Acer将调整最终用户价格以反映这一变化。尽管Acer在之前的关税政策下未受影响，但新到货的产品将面临更高的进口税。消费者可能会为Acer的高端笔记本电脑支付更高的价格，预计整体市场也会受到影响。消费者技术协会指出，80%的美国笔记本电脑进口来自中国，预计关税将使美国消费者损失高达1430亿美元。Acer正在考虑将生产线转移出中国，寻找其他供应链以降低成本。
-
----
-
-## <a name="5"></a>5. 理想候选人将被打腹部 
-<small>🔗 [scottsmitelli.com](https://www.scottsmitelli.com/articles/ideal-candidate/): The ideal candidate will be punched in the stomach</small>
-
-
-| 🔥🔥: 263 \| 💬: [162](https://news.ycombinator.com/item?id=43089150) \| 🗓️ 2025-02-18
+| 🔥🔥: 325 \| 💬: [171](https://news.ycombinator.com/item?id=43093859) \| 🗓️ 2025-02-18
 
 
 <br />
-在一次偶然的机会中，主人公发现了一份工作，描述与自己的经历完美契合，除了“被打腹部”这一奇怪要求。面试中，招聘经理确认这正是工作内容。尽管工作听起来荒谬，但丰厚的薪资和福利让他面临艰难的选择，思考着价值观与现实之间的冲突。
+上周，我结束了在18F的设计师生涯，虽然我并不是因为被解雇或辞职，而是因为对新政府的担忧和对工作的道德底线感到不安。18F是一个充满**热情**和**支持**的团队，我在这里感到安全和受到鼓励。然而，随着新领导层的出现，我意识到我的价值观与即将到来的变化不再契合。最终，我选择辞职，尽管这让我感到悲伤和愤怒。我的离开不仅是个人的决定，也是对当前政治环境的反应。
 
 ---
 
-## <a name="6"></a>6. 我的 LLM 代码生成工作流程 
+## <a name="4"></a>4. 我的 LLM 代码生成工作流程 
 <small>🔗 [harper.blog](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/): My LLM codegen workflow</small>
 
 
-| 🔥🔥: 261 \| 💬: [82](https://news.ycombinator.com/item?id=43094006) \| 🗓️ 2025-02-18
+| 🔥🔥: 280 \| 💬: [95](https://news.ycombinator.com/item?id=43094006) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -95,11 +71,35 @@ Acer首席执行官陈俊胜在接受《每日电讯报》采访时表示，从2
 
 ---
 
+## <a name="5"></a>5. 理想候选人将被打腹部 
+<small>🔗 [scottsmitelli.com](https://www.scottsmitelli.com/articles/ideal-candidate/): The ideal candidate will be punched in the stomach</small>
+
+
+| 🔥🔥: 275 \| 💬: [169](https://news.ycombinator.com/item?id=43089150) \| 🗓️ 2025-02-18
+
+
+<br />
+在一次偶然的机会中，主人公发现了一份工作，描述与自己的经历完美契合，除了“被打腹部”这一奇怪要求。面试中，招聘经理确认这正是工作内容。尽管工作听起来荒谬，但丰厚的薪资和福利让他面临艰难的选择，思考着价值观与现实之间的冲突。
+
+---
+
+## <a name="6"></a>6. 关税导致美国笔记本电脑价格上涨10%，Acer首席执行官表示 
+<small>🔗 [tomshardware.com](https://www.tomshardware.com/laptops/acer-ceo-10pc-price-rise-tariffs): Tariffs result in 10% laptop price hike in U.S. says Acer CEO</small>
+
+
+| 🔥🔥: 269 \| 💬: [468](https://news.ycombinator.com/item?id=43090684) \| 🗓️ 2025-02-18
+
+
+<br />
+Acer首席执行官陈俊胜在接受《每日电讯报》采访时表示，从2025年3月起，美国的笔记本电脑价格将上涨10%。这一价格上涨是由于特朗普政府即将实施的关税所致，Acer将调整最终用户价格以反映这一变化。尽管Acer在之前的关税政策下未受影响，但新到货的产品将面临更高的进口税。消费者可能会为Acer的高端笔记本电脑支付更高的价格，预计整体市场也会受到影响。消费者技术协会指出，80%的美国笔记本电脑进口来自中国，预计关税将使美国消费者损失高达1430亿美元。Acer正在考虑将生产线转移出中国，寻找其他供应链以降低成本。
+
+---
+
 ## <a name="7"></a>7. 核聚变：WEST打破等离子体持续时间世界纪录 
 <small>🔗 [cea.fr](https://www.cea.fr/english/Pages/News/nuclear-fusion-west-beats-the-world-record-for-plasma-duration.aspx): Nuclear fusion: WEST beats the world record for plasma duration</small>
 
 
-| 🔥🔥: 228 \| 💬: [199](https://news.ycombinator.com/item?id=43093939) \| 🗓️ 2025-02-18
+| 🔥🔥: 236 \| 💬: [212](https://news.ycombinator.com/item?id=43093939) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -111,7 +111,7 @@ Acer首席执行官陈俊胜在接受《每日电讯报》采访时表示，从2
 <small>🔗 [chiark.greenend.org.uk](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/): XOR</small>
 
 
-| 🔥🔥: 203 \| 💬: [27](https://news.ycombinator.com/item?id=43087944) \| 🗓️ 2025-02-18
+| 🔥🔥: 228 \| 💬: [29](https://news.ycombinator.com/item?id=43087944) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -119,11 +119,23 @@ Acer首席执行官陈俊胜在接受《每日电讯报》采访时表示，从2
 
 ---
 
-## <a name="9"></a>9. AWS对部分知识库文章实施付费墙，需升级至高级支持计划 
+## <a name="9"></a>9. 一年使用uv：优缺点及是否迁移的思考 
+<small>🔗 [bitecode.dev](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should): A year of uv: pros, cons, and should you migrate</small>
+
+
+| 🔥🔥: 180 \| 💬: [76](https://news.ycombinator.com/item?id=43095157) \| 🗓️ 2025-02-18
+
+
+<br />
+经过一年的使用，**uv**这个新的Python项目管理工具展现了其高效与灵活性。作者建议在适合的情况下优先尝试uv，因其迁移成本低且价值高。uv独立于Python，解决了许多常见的**引导问题**，并提供了强大的依赖解析能力。尽管在某些情况下可能不适用，但其在项目管理和性能上的优势使其成为值得推荐的选择。
+
+---
+
+## <a name="10"></a>10. AWS对部分知识库文章实施付费墙，需升级至高级支持计划 
 <small>🔗 [repost.aws](https://repost.aws/knowledge-center/eks-api-server-unauthorized-error): AWS paywalling select knowledge base articles, requiring Premium Support plan</small>
 
 
-| 🔥🔥: 170 \| 💬: [65](https://news.ycombinator.com/item?id=43094467) \| 🗓️ 2025-02-18
+| 🔥🔥: 176 \| 💬: [68](https://news.ycombinator.com/item?id=43094467) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -131,11 +143,11 @@ AWS正在对特定的知识库文章实施付费墙，用户需要订阅**高级
 
 ---
 
-## <a name="10"></a>10. Svelte 5 不是 JavaScript 
+## <a name="11"></a>11. Svelte 5 不是 JavaScript 
 <small>🔗 [hodlbod.npub.pro](https://hodlbod.npub.pro/post/1739830562159/): Svelte 5 is not JavaScript</small>
 
 
-| 🔥🔥: 162 \| 💬: [175](https://news.ycombinator.com/item?id=43091596) \| 🗓️ 2025-02-18
+| 🔥🔥: 166 \| 💬: [178](https://news.ycombinator.com/item?id=43091596) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -143,7 +155,19 @@ AWS正在对特定的知识库文章实施付费墙，用户需要订阅**高级
 
 ---
 
-## <a name="11"></a>11. 审查Signal使用的加密技术 
+## <a name="12"></a>12. DeepSeek与抖音母公司字节跳动共享用户数据 
+<small>🔗 [bbc.com](https://www.bbc.com/news/articles/c4gex0x87g4o): South Korean regulator accuses DeepSeek of sharing user data with ByteDance</small>
+
+
+| 🔥🔥: 162 \| 💬: [77](https://news.ycombinator.com/item?id=43094651) \| 🗓️ 2025-02-18
+
+
+<br />
+南韩指控中国AI初创公司**DeepSeek**与抖音母公司**字节跳动**共享用户数据，已将其从应用商店下架。南韩个人信息保护委员会发现DeepSeek与字节跳动存在联系，但尚未确认具体数据传输情况。DeepSeek因其低成本的AI模型引发全球关注，但也引发了关于用户数据隐私的担忧。该公司承认未遵守南韩隐私法，并建议用户谨慎使用。
+
+---
+
+## <a name="13"></a>13. 审查Signal使用的加密技术 
 <small>🔗 [soatok.blog](https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/): Reviewing the cryptography used by Signal</small>
 
 
@@ -155,39 +179,15 @@ AWS正在对特定的知识库文章实施付费墙，用户需要订阅**高级
 
 ---
 
-## <a name="12"></a>12. DeepSeek与抖音母公司字节跳动共享用户数据 
-<small>🔗 [bbc.com](https://www.bbc.com/news/articles/c4gex0x87g4o): South Korean regulator accuses DeepSeek of sharing user data with ByteDance</small>
-
-
-| 🔥🔥: 152 \| 💬: [70](https://news.ycombinator.com/item?id=43094651) \| 🗓️ 2025-02-18
-
-
-<br />
-南韩指控中国AI初创公司**DeepSeek**与抖音母公司**字节跳动**共享用户数据，已将其从应用商店下架。南韩个人信息保护委员会发现DeepSeek与字节跳动存在联系，但尚未确认具体数据传输情况。DeepSeek因其低成本的AI模型引发全球关注，但也引发了关于用户数据隐私的担忧。该公司承认未遵守南韩隐私法，并建议用户谨慎使用。
-
----
-
-## <a name="13"></a>13. 全球顶尖研究者中10%发表不切实际的论文数量，分析发现 
+## <a name="14"></a>14. 全球顶尖研究者中10%发表不切实际的论文数量，分析发现 
 <small>🔗 [chemistryworld.com](https://www.chemistryworld.com/news/among-worlds-top-researchers-10-publish-at-unrealistic-levels-analysis-finds/4020962.article): Among top researchers 10% publish at unrealistic levels, analysis finds</small>
 
 
-| 🔥🔥: 141 \| 💬: [91](https://news.ycombinator.com/item?id=43093155) \| 🗓️ 2025-02-18
+| 🔥🔥: 152 \| 💬: [95](https://news.ycombinator.com/item?id=43093155) \| 🗓️ 2025-02-18
 
 
 <br />
 最近的分析显示，全球约10%的顶尖研究者在各科学领域中，发表了“不可思议”的论文数量和新合作者数量。这些研究者每年发表数百篇论文，并获得数百到数千名新合作者。研究者彼得·莫拉和西蒙·皮利亚指出，约20,000名科学家在斯坦福大学的“前2%”研究者名单上，展现出“异常高”的发表和合著指标，暗示他们可能在操控这些指标。尤其是约1,000名在学术界工作十年或更短的年轻研究者，显示出这种行为在早期职业阶段就已开始。研究者们认为，这种现象反映了系统性的激励结构，促使研究者在各个职业阶段追求数量而非质量。他们呼吁重新规范研究指标，以消除对数量的优先考虑和不道德行为的激励。
-
----
-
-## <a name="14"></a>14. 一年使用uv：优缺点及是否迁移的思考 
-<small>🔗 [bitecode.dev](https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should): A year of uv: pros, cons, and should you migrate</small>
-
-
-| 🔥🔥: 141 \| 💬: [62](https://news.ycombinator.com/item?id=43095157) \| 🗓️ 2025-02-18
-
-
-<br />
-经过一年的使用，**uv**这个新的Python项目管理工具展现了其高效与灵活性。作者建议在适合的情况下优先尝试uv，因其迁移成本低且价值高。uv独立于Python，解决了许多常见的**引导问题**，并提供了强大的依赖解析能力。尽管在某些情况下可能不适用，但其在项目管理和性能上的优势使其成为值得推荐的选择。
 
 ---
 
@@ -231,7 +231,7 @@ Linux的**无线驱动**维护者Kalle Valo宣布辞职，结束了他自2008年
 <small>🔗 [sharpbrains.com](https://sharpbrains.com/blog/2008/05/25/try-thinking-and-learning-without-working-memory/): Try thinking and learning without working memory (2008)</small>
 
 
-| 🔥🔥: 104 \| 💬: [54](https://news.ycombinator.com/item?id=43092386) \| 🗓️ 2025-02-18
+| 🔥🔥: 107 \| 💬: [56](https://news.ycombinator.com/item?id=43092386) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -239,23 +239,11 @@ Linux的**无线驱动**维护者Kalle Valo宣布辞职，结束了他自2008年
 
 ---
 
-## <a name="19"></a>19. 欢迎 Cot：一个为懒开发者设计的 Rust 网络框架 
-<small>🔗 [mackow.ski](https://mackow.ski/blog/cot-the-rust-web-framework-for-lazy-developers/): Show HN: Cot: a Rust web framework for lazy developers</small>
-
-
-| 🔥: 94 \| 💬: [88](https://news.ycombinator.com/item?id=43089468) \| 🗓️ 2025-02-18
-
-
-<br />
-Cot 是一个现代、易用的 **Rust** 网络框架，旨在填补现有框架的空白，提供类似 **Django** 的开发体验。它集成了会话、认证、模板和管理面板等功能，并自带 **ORM** 和自动迁移系统。虽然 Cot 仍在早期阶段，但已经可以用于实际项目。未来版本将解决现有的不足，如请求处理 API 的易用性和缺乏文档生成等问题。欢迎开发者加入社区，共同推动 Cot 的发展。
-
----
-
-## <a name="20"></a>20. 从Java转向Go的一年回顾 
+## <a name="19"></a>19. 从Java转向Go的一年回顾 
 <small>🔗 [glasskube.dev](https://glasskube.dev/blog/from-java-to-go/): One year after switching from Java to Go</small>
 
 
-| 🔥: 82 \| 💬: [58](https://news.ycombinator.com/item?id=43092003) \| 🗓️ 2025-02-18
+| 🔥: 97 \| 💬: [74](https://news.ycombinator.com/item?id=43092003) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -263,11 +251,23 @@ Cot 是一个现代、易用的 **Rust** 网络框架，旨在填补现有框架
 
 ---
 
+## <a name="20"></a>20. 欢迎 Cot：一个为懒开发者设计的 Rust 网络框架 
+<small>🔗 [mackow.ski](https://mackow.ski/blog/cot-the-rust-web-framework-for-lazy-developers/): Show HN: Cot: a Rust web framework for lazy developers</small>
+
+
+| 🔥: 95 \| 💬: [91](https://news.ycombinator.com/item?id=43089468) \| 🗓️ 2025-02-18
+
+
+<br />
+Cot 是一个现代、易用的 **Rust** 网络框架，旨在填补现有框架的空白，提供类似 **Django** 的开发体验。它集成了会话、认证、模板和管理面板等功能，并自带 **ORM** 和自动迁移系统。虽然 Cot 仍在早期阶段，但已经可以用于实际项目。未来版本将解决现有的不足，如请求处理 API 的易用性和缺乏文档生成等问题。欢迎开发者加入社区，共同推动 Cot 的发展。
+
+---
+
 ## <a name="21"></a>21. 文件飞行员：为速度而生的现代文件管理器 
 <small>🔗 [filepilot.tech](https://filepilot.tech/): File Pilot: A file explorer built for speed with a modern, robust interface</small>
 
 
-| 🔥: 79 \| 💬: [20](https://news.ycombinator.com/item?id=43091466) \| 🗓️ 2025-02-18
+| 🔥: 92 \| 💬: [28](https://news.ycombinator.com/item?id=43091466) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -275,11 +275,23 @@ Cot 是一个现代、易用的 **Rust** 网络框架，旨在填补现有框架
 
 ---
 
-## <a name="22"></a>22. Ray-Ban Meta眼镜销量突破200万，计划提升产能 
+## <a name="22"></a>22. 惠普收购Humane的AI软件 
+<small>🔗 [humane.com](https://humane.com/media/humane-hp): HP Acquires Humane's AI Software</small>
+
+
+| 🔥: 85 \| 💬: [79](https://news.ycombinator.com/item?id=43095811) \| 🗓️ 2025-02-18
+
+
+<br />
+惠普公司（HP Inc.）宣布以**1.16亿美元**收购Humane的关键AI能力，包括其AI平台Cosmos及相关专利。这一收购将加速惠普向**体验驱动型公司**的转型，推动智能设备的开发。Humane的工程团队将加入惠普的技术创新组织，成立HP IQ实验室，致力于构建未来工作环境中的智能生态系统。惠普希望通过这次投资，提升工作效率，重塑技术体验。
+
+---
+
+## <a name="23"></a>23. Ray-Ban Meta眼镜销量突破200万，计划提升产能 
 <small>🔗 [uploadvr.com](https://www.uploadvr.com/ray-ban-meta-glasses-sold-2-units-production-to-be-vastly-increased/): Ray-Ban Meta glasses have sold 2M units, production to be increased</small>
 
 
-| 🔥: 67 \| 💬: [67](https://news.ycombinator.com/item?id=43088369) \| 🗓️ 2025-02-18
+| 🔥: 70 \| 💬: [70](https://news.ycombinator.com/item?id=43088369) \| 🗓️ 2025-02-18
 
 
 <br />
@@ -287,7 +299,7 @@ Ray-Ban Meta眼镜迄今已售出**200万**台，EssilorLuxottica计划到2026�
 
 ---
 
-## <a name="23"></a>23. X阻碍选举干预潜在研究 
+## <a name="24"></a>24. X阻碍选举干预潜在研究 
 <small>🔗 [freiheitsrechte.org](https://freiheitsrechte.org/en/themen/digitale-grundrechte/x): X Prevents Research on Potential Election Interference</small>
 
 
@@ -299,7 +311,7 @@ GFF与民主报告国际（DRI）在柏林地区法院成功提起诉讼，要�
 
 ---
 
-## <a name="24"></a>24. 催化计算充分利用满硬盘的力量 
+## <a name="25"></a>25. 催化计算充分利用满硬盘的力量 
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/catalytic-computing-taps-the-full-power-of-a-full-hard-drive-20250218/): Catalytic computing taps the full power of a full hard drive</small>
 
 
