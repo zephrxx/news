@@ -12,7 +12,7 @@ tags:
 1. 当不完美的系统变得有用：Bluesky的损失时间线；
 1. 苹果推出iPhone 16e：强大且实惠的新选择；
 1. 微软推出Majorana 1量子处理器；
-1. Mastra – 开源的 TypeScript AI 代理框架；
+1. 骨折后尽早行走有助于更好愈合；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cloud.google.com](https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger): Multiple Russia-aligned threat actors actively targeting Signal Messenger</small>
 
 
-| 🔥🔥: 547 \| 💬: [214](https://news.ycombinator.com/item?id=43102284) \| 🗓️ 2025-02-19
+| 🔥🔥: 585 \| 💬: [221](https://news.ycombinator.com/item?id=43102284) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [jazco.dev](https://jazco.dev/2025/02/19/imperfection/): When imperfect systems are good: Bluesky's lossy timelines</small>
 
 
-| 🔥🔥: 351 \| 💬: [148](https://news.ycombinator.com/item?id=43105028) \| 🗓️ 2025-02-19
+| 🔥🔥: 385 \| 💬: [156](https://news.ycombinator.com/item?id=43105028) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [apple.com](https://www.apple.com/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/): Apple Debuts iPhone 16e</small>
 
 
-| 🔥🔥: 309 \| 💬: [508](https://news.ycombinator.com/item?id=43103536) \| 🗓️ 2025-02-19
+| 🔥🔥: 329 \| 💬: [562](https://news.ycombinator.com/item?id=43103536) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [azure.microsoft.com](https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/): Microsoft unveils Majorana 1 quantum processor</small>
 
 
-| 🔥🔥: 294 \| 💬: [120](https://news.ycombinator.com/item?id=43104071) \| 🗓️ 2025-02-19
+| 🔥🔥: 311 \| 💬: [124](https://news.ycombinator.com/item?id=43104071) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -71,35 +71,11 @@ tags:
 
 ---
 
-## <a name="5"></a>5. Mastra – 开源的 TypeScript AI 代理框架 
-<small>🔗 [github.com](https://github.com/mastra-ai/mastra): Show HN: Mastra – Open-source JS agent framework, by the developers of Gatsby</small>
-
-
-| 🔥🔥: 268 \| 💬: [93](https://news.ycombinator.com/item?id=43103073) \| 🗓️ 2025-02-19
-
-
-<br />
-Mastra 是一个**意见明确的 TypeScript 框架**，旨在快速构建 AI 应用和功能。它提供了工作流、代理、检索增强生成（RAG）、集成和评估等基本组件。Mastra 支持多种 LLM 模型，并通过 Vercel AI SDK 实现统一接口，便于与 OpenAI、Anthropic 和 Google Gemini 等提供商交互。用户可以在本地或无服务器云上运行 Mastra，轻松创建和管理 AI 项目。
-
----
-
-## <a name="6"></a>6. 调试Hetzner：使用powerstat、sensors和dmidecode揭示故障 
-<small>🔗 [ubicloud.com](https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode): Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode</small>
-
-
-| 🔥🔥: 266 \| 💬: [73](https://news.ycombinator.com/item?id=43101430) \| 🗓️ 2025-02-19
-
-
-<br />
-在使用Hetzner的AX162服务器时，Ubicloud遇到了**严重的可靠性问题**，这些服务器的崩溃率比前一代高出16倍。经过多个月的调试，发现**电源限制**可能是导致故障的关键因素。最终，Hetzner更换了有缺陷的主板，崩溃问题得以解决。此经历强调了在采用新硬件时进行**彻底审查**的重要性。
-
----
-
-## <a name="7"></a>7. 骨折后尽早行走有助于更好愈合 
+## <a name="5"></a>5. 骨折后尽早行走有助于更好愈合 
 <small>🔗 [scientificamerican.com](https://www.scientificamerican.com/article/broken-legs-and-ankles-heal-better-if-you-walk-on-them-within-weeks/): Broken legs and ankles heal better if you walk on them within weeks</small>
 
 
-| 🔥🔥: 264 \| 💬: [182](https://news.ycombinator.com/item?id=43101383) \| 🗓️ 2025-02-19
+| 🔥🔥: 294 \| 💬: [193](https://news.ycombinator.com/item?id=43101383) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -107,11 +83,35 @@ Mastra 是一个**意见明确的 TypeScript 框架**，旨在快速构建 AI �
 
 ---
 
+## <a name="6"></a>6. Mastra – 开源的 TypeScript AI 代理框架 
+<small>🔗 [github.com](https://github.com/mastra-ai/mastra): Show HN: Mastra – Open-source JS agent framework, by the developers of Gatsby</small>
+
+
+| 🔥🔥: 291 \| 💬: [99](https://news.ycombinator.com/item?id=43103073) \| 🗓️ 2025-02-19
+
+
+<br />
+Mastra 是一个**意见明确的 TypeScript 框架**，旨在快速构建 AI 应用和功能。它提供了工作流、代理、检索增强生成（RAG）、集成和评估等基本组件。Mastra 支持多种 LLM 模型，并通过 Vercel AI SDK 实现统一接口，便于与 OpenAI、Anthropic 和 Google Gemini 等提供商交互。用户可以在本地或无服务器云上运行 Mastra，轻松创建和管理 AI 项目。
+
+---
+
+## <a name="7"></a>7. 调试Hetzner：使用powerstat、sensors和dmidecode揭示故障 
+<small>🔗 [ubicloud.com](https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode): Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode</small>
+
+
+| 🔥🔥: 271 \| 💬: [76](https://news.ycombinator.com/item?id=43101430) \| 🗓️ 2025-02-19
+
+
+<br />
+在使用Hetzner的AX162服务器时，Ubicloud遇到了**严重的可靠性问题**，这些服务器的崩溃率比前一代高出16倍。经过多个月的调试，发现**电源限制**可能是导致故障的关键因素。最终，Hetzner更换了有缺陷的主板，崩溃问题得以解决。此经历强调了在采用新硬件时进行**彻底审查**的重要性。
+
+---
+
 ## <a name="8"></a>8. 利用AI共同科学家加速科学突破 
 <small>🔗 [research.google](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/): Accelerating scientific breakthroughs with an AI co-scientist</small>
 
 
-| 🔥🔥: 233 \| 💬: [110](https://news.ycombinator.com/item?id=43102528) \| 🗓️ 2025-02-19
+| 🔥🔥: 253 \| 💬: [119](https://news.ycombinator.com/item?id=43102528) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -123,7 +123,7 @@ Mastra 是一个**意见明确的 TypeScript 框架**，旨在快速构建 AI �
 <small>🔗 [typst.app](https://typst.app/blog/2025/typst-0.13/): Typst 0.13 is out now</small>
 
 
-| 🔥🔥: 198 \| 💬: [40](https://news.ycombinator.com/item?id=43105444) \| 🗓️ 2025-02-19
+| 🔥🔥: 216 \| 💬: [45](https://news.ycombinator.com/item?id=43105444) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -135,7 +135,7 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/18/upshot/doge-contracts-musk-trump.html): Doge Claimed It Saved $8B in One Contract. It Was $8M</small>
 
 
-| 🔥🔥: 182 \| 💬: [115](https://news.ycombinator.com/item?id=43101757) \| 🗓️ 2025-02-19
+| 🔥🔥: 185 \| 💬: [117](https://news.ycombinator.com/item?id=43101757) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -147,7 +147,7 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 <small>🔗 [inversecos.com](https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html): An inside look at NSA tactics, techniques and procedures from China's lens</small>
 
 
-| 🔥🔥: 146 \| 💬: [39](https://news.ycombinator.com/item?id=43105357) \| 🗓️ 2025-02-19
+| 🔥🔥: 155 \| 💬: [46](https://news.ycombinator.com/item?id=43105357) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -171,7 +171,7 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 <small>🔗 [peter.horne-khan.com](https://peter.horne-khan.com/relaxed-radix-balanced-trees/): Relaxed Radix Balanced Trees (2024)</small>
 
 
-| 🔥🔥: 123 \| 💬: [10](https://news.ycombinator.com/item?id=43103604) \| 🗓️ 2025-02-19
+| 🔥🔥: 126 \| 💬: [11](https://news.ycombinator.com/item?id=43103604) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -179,7 +179,19 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 
 ---
 
-## <a name="14"></a>14. 微软的Majorana 1芯片为量子计算开辟新路径 
+## <a name="14"></a>14. 1972年Unix V2“测试版”复活 
+<small>🔗 [tuhs.org](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html): 1972 Unix V2 "Beta" Resurrected</small>
+
+
+| 🔥🔥: 125 \| 💬: [22](https://news.ycombinator.com/item?id=43108091) \| 🗓️ 2025-02-19
+
+
+<br />
+Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功从DMR磁带中提取出一个可用的系统。这个系统的内核是迄今为止最早的可读Unix内核，具有支持V1和V2二进制文件的能力，且核心大小为16 KiB。尽管其系统调用表与V1一致，但可以运行V2二进制文件，因而被称为“V2测试版”。他使用aap的PDP-11/20模拟器成功启动了该内核，并创建了一个可启动的RF磁盘映像，供其他人下载。
+
+---
+
+## <a name="15"></a>15. 微软的Majorana 1芯片为量子计算开辟新路径 
 <small>🔗 [news.microsoft.com](https://news.microsoft.com/source/features/ai/microsofts-majorana-1-chip-carves-new-path-for-quantum-computing/): Microsoft's Majorana 1 chip carves new path for quantum computing</small>
 
 
@@ -191,11 +203,11 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 
 ---
 
-## <a name="15"></a>15. 长期软件维护的现实：维护者的视角 
+## <a name="16"></a>16. 长期软件维护的现实：维护者的视角 
 <small>🔗 [construct.net](https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892): The reality of long-term software maintenance from the maintainer's perspective</small>
 
 
-| 🔥🔥: 110 \| 💬: [25](https://news.ycombinator.com/item?id=43100648) \| 🗓️ 2025-02-19
+| 🔥🔥: 113 \| 💬: [25](https://news.ycombinator.com/item?id=43100648) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -203,11 +215,11 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 
 ---
 
-## <a name="16"></a>16. 格雷格·K-H：在Rust中编写新代码对我们所有人都是一种胜利 
+## <a name="17"></a>17. 格雷格·K-H：在Rust中编写新代码对我们所有人都是一种胜利 
 <small>🔗 [lore.kernel.org](https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/): Greg K-H: "Writing new code in Rust is a win for all of us"</small>
 
 
-| 🔥: 98 \| 💬: [21](https://news.ycombinator.com/item?id=43101204) \| 🗓️ 2025-02-19
+| 🔥: 100 \| 💬: [22](https://news.ycombinator.com/item?id=43101204) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -215,7 +227,19 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 
 ---
 
-## <a name="17"></a>17. SpaceX团队将重塑FAA空中交通控制系统 
+## <a name="18"></a>18. 透视斯巴达的幻影 
+<small>🔗 [worldhistory.substack.com](https://worldhistory.substack.com/p/the-spartan-mirage): Seeing Through the Spartan Mirage</small>
+
+
+| 🔥: 99 \| 💬: [94](https://news.ycombinator.com/item?id=43102182) \| 🗓️ 2025-02-19
+
+
+<br />
+斯巴达这个古老社会为何吸引现代人的想象？现代对斯巴达的崇拜往往源于对其**军事威力**、**荣誉与勇气**的理想化理解。然而，历史上关于斯巴达的记载多来自敌对者或后来的评论者，真实情况可能与现代的崇拜截然不同。斯巴达实际上是一个**压迫性的社会**，其军事成就并不能掩盖其对民主与艺术的敌视。现代对斯巴达的热情，反映了崇拜者自身的价值观，而非真实的斯巴达历史。
+
+---
+
+## <a name="19"></a>19. SpaceX团队将重塑FAA空中交通控制系统 
 <small>🔗 [theverge.com](https://www.theverge.com/news/614078/faa-air-traffic-control-spacex-elon-musk-layoff-staff-shortage): A SpaceX team is being brought in to overhaul FAA's air traffic control system</small>
 
 
@@ -227,19 +251,7 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 
 ---
 
-## <a name="18"></a>18. 透视斯巴达的幻影 
-<small>🔗 [worldhistory.substack.com](https://worldhistory.substack.com/p/the-spartan-mirage): Seeing Through the Spartan Mirage</small>
-
-
-| 🔥: 97 \| 💬: [91](https://news.ycombinator.com/item?id=43102182) \| 🗓️ 2025-02-19
-
-
-<br />
-斯巴达这个古老社会为何吸引现代人的想象？现代对斯巴达的崇拜往往源于对其**军事威力**、**荣誉与勇气**的理想化理解。然而，历史上关于斯巴达的记载多来自敌对者或后来的评论者，真实情况可能与现代的崇拜截然不同。斯巴达实际上是一个**压迫性的社会**，其军事成就并不能掩盖其对民主与艺术的敌视。现代对斯巴达的热情，反映了崇拜者自身的价值观，而非真实的斯巴达历史。
-
----
-
-## <a name="19"></a>19. 88x31 GIF 收藏集 
+## <a name="20"></a>20. 88x31 GIF 收藏集 
 <small>🔗 [cyber.dabamos.de](https://cyber.dabamos.de/88x31/): The 88x31 GIF Collection</small>
 
 
@@ -251,11 +263,11 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 
 ---
 
-## <a name="20"></a>20. 小型原始黑洞穿过人体的引力效应 
+## <a name="21"></a>21. 小型原始黑洞穿过人体的引力效应 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.09734): Gravitational Effects of Small Primordial Black Hole Passing Through Human Body</small>
 
 
-| 🔥: 95 \| 💬: [93](https://news.ycombinator.com/item?id=43102425) \| 🗓️ 2025-02-19
+| 🔥: 95 \| 💬: [94](https://news.ycombinator.com/item?id=43102425) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -263,11 +275,11 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 
 ---
 
-## <a name="21"></a>21. 电动卡车制造商尼古拉申请破产保护 
+## <a name="22"></a>22. 电动卡车制造商尼古拉申请破产保护 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/02/19/troubled-electric-truck-maker-nikola-files-for-bankruptcy/): Troubled electric truck maker Nikola files for bankruptcy</small>
 
 
-| 🔥: 91 \| 💬: [84](https://news.ycombinator.com/item?id=43103333) \| 🗓️ 2025-02-19
+| 🔥: 91 \| 💬: [87](https://news.ycombinator.com/item?id=43103333) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -275,23 +287,11 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 
 ---
 
-## <a name="22"></a>22. 1972年Unix V2“测试版”复活 
-<small>🔗 [tuhs.org](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html): 1972 Unix V2 "Beta" Resurrected</small>
-
-
-| 🔥: 87 \| 💬: [8](https://news.ycombinator.com/item?id=43108091) \| 🗓️ 2025-02-19
-
-
-<br />
-Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功从DMR磁带中提取出一个可用的系统。这个系统的内核是迄今为止最早的可读Unix内核，具有支持V1和V2二进制文件的能力，且核心大小为16 KiB。尽管其系统调用表与V1一致，但可以运行V2二进制文件，因而被称为“V2测试版”。他使用aap的PDP-11/20模拟器成功启动了该内核，并创建了一个可启动的RF磁盘映像，供其他人下载。
-
----
-
 ## <a name="23"></a>23. 1977年爵士放克音乐剧《沙丘》改编版 
 <small>🔗 [openculture.com](https://www.openculture.com/2025/02/hear-the-jazz-funk-musical-adaptation-of-dune-by-david-matthews-1977.html): 1977 Jazz-Funk Musical Adaptation of Dune</small>
 
 
-| 🔥: 78 \| 💬: [25](https://news.ycombinator.com/item?id=43102491) \| 🗓️ 2025-02-19
+| 🔥: 80 \| 💬: [25](https://news.ycombinator.com/item?id=43102491) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -303,7 +303,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 <small>🔗 [github.com](https://github.com/supabase-community/postgres_lsp): A Language Server for Postgres</small>
 
 
-| 🔥: 74 \| 💬: [14](https://news.ycombinator.com/item?id=43107394) \| 🗓️ 2025-02-19
+| 🔥: 80 \| 💬: [15](https://news.ycombinator.com/item?id=43107394) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -315,7 +315,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 <small>🔗 [npr.org](https://www.npr.org/2025/02/18/nx-s1-5301049/national-science-foundation-fires-roughly-10-of-its-workforce): National Science Foundation fires roughly 10% of its workforce</small>
 
 
-| 🔥: 70 \| 💬: [102](https://news.ycombinator.com/item?id=43105234) \| 🗓️ 2025-02-19
+| 🔥: 74 \| 💬: [108](https://news.ycombinator.com/item?id=43105234) \| 🗓️ 2025-02-19
 
 
 <br />
