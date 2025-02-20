@@ -11,8 +11,8 @@ tags:
 1. 多个俄罗斯对齐的威胁行为者积极针对Signal Messenger；
 1. 当不完美的系统变得有用：Bluesky的损失时间线；
 1. 苹果推出iPhone 16e：强大且实惠的新选择；
-1. 微软推出Majorana 1量子处理器；
 1. 骨折后尽早行走有助于更好愈合；
+1. 微软推出Majorana 1量子处理器；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cloud.google.com](https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger): Multiple Russia-aligned threat actors actively targeting Signal Messenger</small>
 
 
-| 🔥🔥: 608 \| 💬: [226](https://news.ycombinator.com/item?id=43102284) \| 🗓️ 2025-02-19
+| 🔥🔥: 624 \| 💬: [226](https://news.ycombinator.com/item?id=43102284) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [jazco.dev](https://jazco.dev/2025/02/19/imperfection/): When imperfect systems are good: Bluesky's lossy timelines</small>
 
 
-| 🔥🔥: 445 \| 💬: [172](https://news.ycombinator.com/item?id=43105028) \| 🗓️ 2025-02-19
+| 🔥🔥: 468 \| 💬: [185](https://news.ycombinator.com/item?id=43105028) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [apple.com](https://www.apple.com/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/): Apple Debuts iPhone 16e</small>
 
 
-| 🔥🔥: 357 \| 💬: [628](https://news.ycombinator.com/item?id=43103536) \| 🗓️ 2025-02-19
+| 🔥🔥: 371 \| 💬: [651](https://news.ycombinator.com/item?id=43103536) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -59,23 +59,11 @@ tags:
 
 ---
 
-## <a name="4"></a>4. 微软推出Majorana 1量子处理器 
-<small>🔗 [azure.microsoft.com](https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/): Microsoft unveils Majorana 1 quantum processor</small>
-
-
-| 🔥🔥: 339 \| 💬: [132](https://news.ycombinator.com/item?id=43104071) \| 🗓️ 2025-02-19
-
-
-<br />
-微软在2025年之前推出了**Majorana 1量子处理器**，标志着其在量子计算领域的重要进展。公司首席运营官Mitra Azizirad强调，成为**量子准备就绪**的关键在于开发强大的量子技术，以应对未来的挑战。随着量子计算的不断发展，微软致力于推动这一领域的创新，确保其在技术前沿的领导地位。
-
----
-
-## <a name="5"></a>5. 骨折后尽早行走有助于更好愈合 
+## <a name="4"></a>4. 骨折后尽早行走有助于更好愈合 
 <small>🔗 [scientificamerican.com](https://www.scientificamerican.com/article/broken-legs-and-ankles-heal-better-if-you-walk-on-them-within-weeks/): Broken legs and ankles heal better if you walk on them within weeks</small>
 
 
-| 🔥🔥: 336 \| 💬: [205](https://news.ycombinator.com/item?id=43101383) \| 🗓️ 2025-02-19
+| 🔥🔥: 359 \| 💬: [213](https://news.ycombinator.com/item?id=43101383) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -83,11 +71,23 @@ tags:
 
 ---
 
+## <a name="5"></a>5. 微软推出Majorana 1量子处理器 
+<small>🔗 [azure.microsoft.com](https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/): Microsoft unveils Majorana 1 quantum processor</small>
+
+
+| 🔥🔥: 354 \| 💬: [133](https://news.ycombinator.com/item?id=43104071) \| 🗓️ 2025-02-19
+
+
+<br />
+微软在2025年之前推出了**Majorana 1量子处理器**，标志着其在量子计算领域的重要进展。公司首席运营官Mitra Azizirad强调，成为**量子准备就绪**的关键在于开发强大的量子技术，以应对未来的挑战。随着量子计算的不断发展，微软致力于推动这一领域的创新，确保其在技术前沿的领导地位。
+
+---
+
 ## <a name="6"></a>6. Mastra – 开源的 TypeScript AI 代理框架 
 <small>🔗 [github.com](https://github.com/mastra-ai/mastra): Show HN: Mastra – Open-source JS agent framework, by the developers of Gatsby</small>
 
 
-| 🔥🔥: 315 \| 💬: [102](https://news.ycombinator.com/item?id=43103073) \| 🗓️ 2025-02-19
+| 🔥🔥: 322 \| 💬: [105](https://news.ycombinator.com/item?id=43103073) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -99,7 +99,7 @@ Mastra 是一个**意见明确的 TypeScript 框架**，旨在快速构建 AI �
 <small>🔗 [ubicloud.com](https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode): Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode</small>
 
 
-| 🔥🔥: 283 \| 💬: [80](https://news.ycombinator.com/item?id=43101430) \| 🗓️ 2025-02-19
+| 🔥🔥: 286 \| 💬: [81](https://news.ycombinator.com/item?id=43101430) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -111,7 +111,7 @@ Mastra 是一个**意见明确的 TypeScript 框架**，旨在快速构建 AI �
 <small>🔗 [research.google](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/): Accelerating scientific breakthroughs with an AI co-scientist</small>
 
 
-| 🔥🔥: 275 \| 💬: [132](https://news.ycombinator.com/item?id=43102528) \| 🗓️ 2025-02-19
+| 🔥🔥: 282 \| 💬: [135](https://news.ycombinator.com/item?id=43102528) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -123,7 +123,7 @@ Mastra 是一个**意见明确的 TypeScript 框架**，旨在快速构建 AI �
 <small>🔗 [typst.app](https://typst.app/blog/2025/typst-0.13/): Typst 0.13 is out now</small>
 
 
-| 🔥🔥: 226 \| 💬: [47](https://news.ycombinator.com/item?id=43105444) \| 🗓️ 2025-02-19
+| 🔥🔥: 233 \| 💬: [47](https://news.ycombinator.com/item?id=43105444) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -135,7 +135,7 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 <small>🔗 [tuhs.org](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html): 1972 Unix V2 "Beta" Resurrected</small>
 
 
-| 🔥🔥: 191 \| 💬: [29](https://news.ycombinator.com/item?id=43108091) \| 🗓️ 2025-02-19
+| 🔥🔥: 209 \| 💬: [32](https://news.ycombinator.com/item?id=43108091) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -147,7 +147,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/18/upshot/doge-contracts-musk-trump.html): Doge Claimed It Saved $8B in One Contract. It Was $8M</small>
 
 
-| 🔥🔥: 190 \| 💬: [117](https://news.ycombinator.com/item?id=43101757) \| 🗓️ 2025-02-19
+| 🔥🔥: 194 \| 💬: [121](https://news.ycombinator.com/item?id=43101757) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -159,7 +159,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 <small>🔗 [inversecos.com](https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html): An inside look at NSA tactics, techniques and procedures from China's lens</small>
 
 
-| 🔥🔥: 169 \| 💬: [47](https://news.ycombinator.com/item?id=43105357) \| 🗓️ 2025-02-19
+| 🔥🔥: 186 \| 💬: [51](https://news.ycombinator.com/item?id=43105357) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -183,7 +183,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 <small>🔗 [peter.horne-khan.com](https://peter.horne-khan.com/relaxed-radix-balanced-trees/): Relaxed Radix Balanced Trees (2024)</small>
 
 
-| 🔥🔥: 137 \| 💬: [12](https://news.ycombinator.com/item?id=43103604) \| 🗓️ 2025-02-19
+| 🔥🔥: 139 \| 💬: [12](https://news.ycombinator.com/item?id=43103604) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -195,7 +195,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 <small>🔗 [lore.kernel.org](https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/): Greg K-H: "Writing new code in Rust is a win for all of us"</small>
 
 
-| 🔥🔥: 116 \| 💬: [27](https://news.ycombinator.com/item?id=43101204) \| 🗓️ 2025-02-19
+| 🔥🔥: 120 \| 💬: [28](https://news.ycombinator.com/item?id=43101204) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -227,7 +227,19 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
-## <a name="18"></a>18. 透视斯巴达的幻影 
+## <a name="18"></a>18. 香氛产品造成的室内空气污染与汽车排放相当 
+<small>🔗 [newatlas.com](https://newatlas.com/environment/indoor-air-pollution-scented-terpenes/): Scented products cause indoor air pollution on par with car exhaust</small>
+
+
+| 🔥🔥: 101 \| 💬: [36](https://news.ycombinator.com/item?id=43109366) \| 🗓️ 2025-02-19
+
+
+<br />
+新研究表明，**香氛产品**在室内使用时会改变空气化学成分，产生的纳米颗粒污染程度与汽车排放相当。这些颗粒足够小，能深入肺部，可能对**呼吸健康**造成严重影响。研究发现，使用加热的香氛蜡烛会显著增加室内空气中的纳米颗粒浓度，达到每立方厘米超过一百万个颗粒。这一发现强调了在建筑设计和通风系统中考虑香氛产品对空气质量影响的重要性。
+
+---
+
+## <a name="19"></a>19. 透视斯巴达的幻影 
 <small>🔗 [worldhistory.substack.com](https://worldhistory.substack.com/p/the-spartan-mirage): Seeing Through the Spartan Mirage</small>
 
 
@@ -239,7 +251,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
-## <a name="19"></a>19. 88x31 GIF 收藏集 
+## <a name="20"></a>20. 88x31 GIF 收藏集 
 <small>🔗 [cyber.dabamos.de](https://cyber.dabamos.de/88x31/): The 88x31 GIF Collection</small>
 
 
@@ -251,7 +263,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
-## <a name="20"></a>20. SpaceX团队将重塑FAA空中交通控制系统 
+## <a name="21"></a>21. SpaceX团队将重塑FAA空中交通控制系统 
 <small>🔗 [theverge.com](https://www.theverge.com/news/614078/faa-air-traffic-control-spacex-elon-musk-layoff-staff-shortage): A SpaceX team is being brought in to overhaul FAA's air traffic control system</small>
 
 
@@ -263,11 +275,11 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
-## <a name="21"></a>21. 小型原始黑洞穿过人体的引力效应 
+## <a name="22"></a>22. 小型原始黑洞穿过人体的引力效应 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.09734): Gravitational Effects of Small Primordial Black Hole Passing Through Human Body</small>
 
 
-| 🔥: 95 \| 💬: [96](https://news.ycombinator.com/item?id=43102425) \| 🗓️ 2025-02-19
+| 🔥: 95 \| 💬: [97](https://news.ycombinator.com/item?id=43102425) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -275,11 +287,11 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
-## <a name="22"></a>22. 电动卡车制造商尼古拉申请破产保护 
+## <a name="23"></a>23. 电动卡车制造商尼古拉申请破产保护 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/02/19/troubled-electric-truck-maker-nikola-files-for-bankruptcy/): Troubled electric truck maker Nikola files for bankruptcy</small>
 
 
-| 🔥: 92 \| 💬: [88](https://news.ycombinator.com/item?id=43103333) \| 🗓️ 2025-02-19
+| 🔥: 92 \| 💬: [89](https://news.ycombinator.com/item?id=43103333) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -287,38 +299,26 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
-## <a name="23"></a>23. 1977年爵士放克音乐剧《沙丘》改编版 
+## <a name="24"></a>24. 马来西亚寄希望于数据中心推动经济发展 
+<small>🔗 [apnews.com](https://apnews.com/article/malaysia-johor-data-centers-energy-electricity-power-cfb087f755d3e203a347463af229e88d): Malaysia is betting on data centers to boost its economy</small>
+
+
+| 🔥: 86 \| 💬: [73](https://news.ycombinator.com/item?id=43107839) \| 🗓️ 2025-02-19
+
+
+<br />
+马来西亚的**数据中心**正在迅速崛起，尤其是在柔佛州，预计到2035年电力需求将超过5吉瓦。这些数据中心虽然可能带来经济增长和高薪工作，但也引发了对**水资源**和电力短缺的担忧。当地企业主担心，数据中心的能耗将使他们的生意面临更大挑战，甚至考虑迁往其他国家。尽管马来西亚政府希望通过数据中心实现经济现代化，但专家警告称，这种转型可能并未如预期那样带来显著的就业机会，反而可能导致资源的过度开发和环境问题。
+
+---
+
+## <a name="25"></a>25. 1977年爵士放克音乐剧《沙丘》改编版 
 <small>🔗 [openculture.com](https://www.openculture.com/2025/02/hear-the-jazz-funk-musical-adaptation-of-dune-by-david-matthews-1977.html): 1977 Jazz-Funk Musical Adaptation of Dune</small>
 
 
-| 🔥: 83 \| 💬: [26](https://news.ycombinator.com/item?id=43102491) \| 🗓️ 2025-02-19
+| 🔥: 85 \| 💬: [26](https://news.ycombinator.com/item?id=43102491) \| 🗓️ 2025-02-19
 
 
 <br />
 1977年，键盘手大卫·马修斯发布了以**《沙丘》**为灵感的爵士放克专辑，专辑的第一面是20分钟的套曲，包含“阿拉基斯”、“沙虫”等曲目。该专辑在当时的爵士界引起了关注，并吸引了众多知名音乐家参与。马修斯的音乐在日本特别受欢迎，成为了嘻哈音乐的取样来源。
-
----
-
-## <a name="24"></a>24. Postgres语言服务器 
-<small>🔗 [github.com](https://github.com/supabase-community/postgres_lsp): A Language Server for Postgres</small>
-
-
-| 🔥: 82 \| 💬: [17](https://news.ycombinator.com/item?id=43107394) \| 🗓️ 2025-02-19
-
-
-<br />
-这是一个为Postgres开发的工具集，专注于开发者体验和可靠的SQL工具。该项目基于Postgres的解析器libpg_query，确保100%的语法兼容性。它采用客户端-服务器架构，支持多种接口，如LSP、CLI和HTTP API。目前实现的功能包括**自动补全**、**语法错误高亮**和**类型检查**。项目旨在提升Postgres工具的可访问性，并欢迎社区贡献。
-
----
-
-## <a name="25"></a>25. 国家科学基金会裁员约10%员工 
-<small>🔗 [npr.org](https://www.npr.org/2025/02/18/nx-s1-5301049/national-science-foundation-fires-roughly-10-of-its-workforce): National Science Foundation fires roughly 10% of its workforce</small>
-
-
-| 🔥: 75 \| 💬: [112](https://news.ycombinator.com/item?id=43105234) \| 🗓️ 2025-02-19
-
-
-<br />
-国家科学基金会（NSF）于2月18日解雇了168名员工，约占其1700名员工的10%。此举是为了遵循特朗普总统的行政命令，旨在提高联邦政府的效率。许多科学家担心，这些裁员将**减缓基础研究**的进展，特别是在**计算机科学**领域，可能导致美国失去竞争优势。被解雇的员工中许多是项目官员，负责评估和管理研究资助，裁员将影响资助的审查和新发现的进展。裁员引发了对NSF未来的担忧，员工们表示，这些决定将影响政府吸引人才的能力。
 
 ---
