@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cloud.google.com](https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger): Multiple Russia-aligned threat actors actively targeting Signal Messenger</small>
 
 
-| 🔥🔥: 598 \| 💬: [223](https://news.ycombinator.com/item?id=43102284) \| 🗓️ 2025-02-19
+| 🔥🔥: 608 \| 💬: [226](https://news.ycombinator.com/item?id=43102284) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [jazco.dev](https://jazco.dev/2025/02/19/imperfection/): When imperfect systems are good: Bluesky's lossy timelines</small>
 
 
-| 🔥🔥: 412 \| 💬: [164](https://news.ycombinator.com/item?id=43105028) \| 🗓️ 2025-02-19
+| 🔥🔥: 445 \| 💬: [172](https://news.ycombinator.com/item?id=43105028) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [apple.com](https://www.apple.com/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/): Apple Debuts iPhone 16e</small>
 
 
-| 🔥🔥: 345 \| 💬: [603](https://news.ycombinator.com/item?id=43103536) \| 🗓️ 2025-02-19
+| 🔥🔥: 357 \| 💬: [628](https://news.ycombinator.com/item?id=43103536) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [azure.microsoft.com](https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/): Microsoft unveils Majorana 1 quantum processor</small>
 
 
-| 🔥🔥: 321 \| 💬: [130](https://news.ycombinator.com/item?id=43104071) \| 🗓️ 2025-02-19
+| 🔥🔥: 339 \| 💬: [132](https://news.ycombinator.com/item?id=43104071) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [scientificamerican.com](https://www.scientificamerican.com/article/broken-legs-and-ankles-heal-better-if-you-walk-on-them-within-weeks/): Broken legs and ankles heal better if you walk on them within weeks</small>
 
 
-| 🔥🔥: 312 \| 💬: [200](https://news.ycombinator.com/item?id=43101383) \| 🗓️ 2025-02-19
+| 🔥🔥: 336 \| 💬: [205](https://news.ycombinator.com/item?id=43101383) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [github.com](https://github.com/mastra-ai/mastra): Show HN: Mastra – Open-source JS agent framework, by the developers of Gatsby</small>
 
 
-| 🔥🔥: 298 \| 💬: [100](https://news.ycombinator.com/item?id=43103073) \| 🗓️ 2025-02-19
+| 🔥🔥: 315 \| 💬: [102](https://news.ycombinator.com/item?id=43103073) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -99,7 +99,7 @@ Mastra 是一个**意见明确的 TypeScript 框架**，旨在快速构建 AI �
 <small>🔗 [ubicloud.com](https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode): Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode</small>
 
 
-| 🔥🔥: 276 \| 💬: [78](https://news.ycombinator.com/item?id=43101430) \| 🗓️ 2025-02-19
+| 🔥🔥: 283 \| 💬: [80](https://news.ycombinator.com/item?id=43101430) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -111,7 +111,7 @@ Mastra 是一个**意见明确的 TypeScript 框架**，旨在快速构建 AI �
 <small>🔗 [research.google](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/): Accelerating scientific breakthroughs with an AI co-scientist</small>
 
 
-| 🔥🔥: 263 \| 💬: [128](https://news.ycombinator.com/item?id=43102528) \| 🗓️ 2025-02-19
+| 🔥🔥: 275 \| 💬: [132](https://news.ycombinator.com/item?id=43102528) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -123,7 +123,7 @@ Mastra 是一个**意见明确的 TypeScript 框架**，旨在快速构建 AI �
 <small>🔗 [typst.app](https://typst.app/blog/2025/typst-0.13/): Typst 0.13 is out now</small>
 
 
-| 🔥🔥: 223 \| 💬: [46](https://news.ycombinator.com/item?id=43105444) \| 🗓️ 2025-02-19
+| 🔥🔥: 226 \| 💬: [47](https://news.ycombinator.com/item?id=43105444) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -131,11 +131,23 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 
 ---
 
-## <a name="10"></a>10. 狗狗币声称在一份合同中节省了80亿美元，实际为800万美元 
+## <a name="10"></a>10. 1972年Unix V2“测试版”复活 
+<small>🔗 [tuhs.org](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html): 1972 Unix V2 "Beta" Resurrected</small>
+
+
+| 🔥🔥: 191 \| 💬: [29](https://news.ycombinator.com/item?id=43108091) \| 🗓️ 2025-02-19
+
+
+<br />
+Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功从DMR磁带中提取出一个可用的系统。这个系统的内核是迄今为止最早的可读Unix内核，具有支持V1和V2二进制文件的能力，且核心大小为16 KiB。尽管其系统调用表与V1一致，但可以运行V2二进制文件，因而被称为“V2测试版”。他使用aap的PDP-11/20模拟器成功启动了该内核，并创建了一个可启动的RF磁盘映像，供其他人下载。
+
+---
+
+## <a name="11"></a>11. 狗狗币声称在一份合同中节省了80亿美元，实际为800万美元 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/18/upshot/doge-contracts-musk-trump.html): Doge Claimed It Saved $8B in One Contract. It Was $8M</small>
 
 
-| 🔥🔥: 187 \| 💬: [117](https://news.ycombinator.com/item?id=43101757) \| 🗓️ 2025-02-19
+| 🔥🔥: 190 \| 💬: [117](https://news.ycombinator.com/item?id=43101757) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -143,27 +155,15 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 
 ---
 
-## <a name="11"></a>11. 从中国视角看NSA的战术、技术和程序 
+## <a name="12"></a>12. 从中国视角看NSA的战术、技术和程序 
 <small>🔗 [inversecos.com](https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html): An inside look at NSA tactics, techniques and procedures from China's lens</small>
 
 
-| 🔥🔥: 163 \| 💬: [46](https://news.ycombinator.com/item?id=43105357) \| 🗓️ 2025-02-19
+| 🔥🔥: 169 \| 💬: [47](https://news.ycombinator.com/item?id=43105357) \| 🗓️ 2025-02-19
 
 
 <br />
 随着对中国APT41网络攻击的研究，我开始探索中国对五眼联盟（Five Eyes）行动的看法，特别是NSA（被称为APT-C-40）的网络操作。通过对中国网络安全机构发布的报告进行深入研究，我发现NSA的攻击方法与西方的事件响应显著不同。中国的调查显示，NSA在2022年对西北工业大学的攻击使用了超过40种恶意软件，利用零日漏洞和社会工程学进行数据窃取。通过分析攻击模式、时间和工具，研究者们追踪到NSA的操作手法，包括使用名为**NOPEN**的框架和**FOXACID**的浏览器利用平台。这些发现不仅揭示了NSA的攻击策略，还促使我思考如何改进自己的网络安全方法。
-
----
-
-## <a name="12"></a>12. 1972年Unix V2“测试版”复活 
-<small>🔗 [tuhs.org](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html): 1972 Unix V2 "Beta" Resurrected</small>
-
-
-| 🔥🔥: 157 \| 💬: [25](https://news.ycombinator.com/item?id=43108091) \| 🗓️ 2025-02-19
-
-
-<br />
-Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功从DMR磁带中提取出一个可用的系统。这个系统的内核是迄今为止最早的可读Unix内核，具有支持V1和V2二进制文件的能力，且核心大小为16 KiB。尽管其系统调用表与V1一致，但可以运行V2二进制文件，因而被称为“V2测试版”。他使用aap的PDP-11/20模拟器成功启动了该内核，并创建了一个可启动的RF磁盘映像，供其他人下载。
 
 ---
 
@@ -183,7 +183,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 <small>🔗 [peter.horne-khan.com](https://peter.horne-khan.com/relaxed-radix-balanced-trees/): Relaxed Radix Balanced Trees (2024)</small>
 
 
-| 🔥🔥: 132 \| 💬: [12](https://news.ycombinator.com/item?id=43103604) \| 🗓️ 2025-02-19
+| 🔥🔥: 137 \| 💬: [12](https://news.ycombinator.com/item?id=43103604) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -191,7 +191,19 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
-## <a name="15"></a>15. 微软的Majorana 1芯片为量子计算开辟新路径 
+## <a name="15"></a>15. 格雷格·K-H：在Rust中编写新代码对我们所有人都是一种胜利 
+<small>🔗 [lore.kernel.org](https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/): Greg K-H: "Writing new code in Rust is a win for all of us"</small>
+
+
+| 🔥🔥: 116 \| 💬: [27](https://news.ycombinator.com/item?id=43101204) \| 🗓️ 2025-02-19
+
+
+<br />
+格雷格·K-H强调，**在Linux内核中引入Rust语言**将显著减少内存安全问题，尤其是在驱动程序和内核组件的开发中。他指出，C语言中的许多小错误在Rust中不存在，这使得开发者可以更专注于逻辑错误和竞争条件等真正的问题。尽管C++可以提供某些改进，但并不能解决所有内存安全问题。Rust的引入将促使内核API的重新设计，使其更安全易用，从而提升整个Linux项目的质量和可维护性。
+
+---
+
+## <a name="16"></a>16. 微软的Majorana 1芯片为量子计算开辟新路径 
 <small>🔗 [news.microsoft.com](https://news.microsoft.com/source/features/ai/microsofts-majorana-1-chip-carves-new-path-for-quantum-computing/): Microsoft's Majorana 1 chip carves new path for quantum computing</small>
 
 
@@ -203,7 +215,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
-## <a name="16"></a>16. 长期软件维护的现实：维护者的视角 
+## <a name="17"></a>17. 长期软件维护的现实：维护者的视角 
 <small>🔗 [construct.net](https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892): The reality of long-term software maintenance from the maintainer's perspective</small>
 
 
@@ -212,18 +224,6 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 <br />
 维护大型软件项目的长期现实常被低估，尤其是**维护**的工作量远超初始编码。作者以其750,000行代码的项目Construct为例，强调了**维护**所需的测试、修复、文档更新等工作。通过建筑类比，揭示外部贡献的潜在风险，维护者需谨慎对待外部提案，以避免未来的维护负担。
-
----
-
-## <a name="17"></a>17. 格雷格·K-H：在Rust中编写新代码对我们所有人都是一种胜利 
-<small>🔗 [lore.kernel.org](https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/): Greg K-H: "Writing new code in Rust is a win for all of us"</small>
-
-
-| 🔥🔥: 111 \| 💬: [25](https://news.ycombinator.com/item?id=43101204) \| 🗓️ 2025-02-19
-
-
-<br />
-格雷格·K-H强调，**在Linux内核中引入Rust语言**将显著减少内存安全问题，尤其是在驱动程序和内核组件的开发中。他指出，C语言中的许多小错误在Rust中不存在，这使得开发者可以更专注于逻辑错误和竞争条件等真正的问题。尽管C++可以提供某些改进，但并不能解决所有内存安全问题。Rust的引入将促使内核API的重新设计，使其更安全易用，从而提升整个Linux项目的质量和可维护性。
 
 ---
 
@@ -267,7 +267,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.09734): Gravitational Effects of Small Primordial Black Hole Passing Through Human Body</small>
 
 
-| 🔥: 95 \| 💬: [95](https://news.ycombinator.com/item?id=43102425) \| 🗓️ 2025-02-19
+| 🔥: 95 \| 💬: [96](https://news.ycombinator.com/item?id=43102425) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -279,7 +279,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/02/19/troubled-electric-truck-maker-nikola-files-for-bankruptcy/): Troubled electric truck maker Nikola files for bankruptcy</small>
 
 
-| 🔥: 92 \| 💬: [87](https://news.ycombinator.com/item?id=43103333) \| 🗓️ 2025-02-19
+| 🔥: 92 \| 💬: [88](https://news.ycombinator.com/item?id=43103333) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -291,7 +291,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 <small>🔗 [openculture.com](https://www.openculture.com/2025/02/hear-the-jazz-funk-musical-adaptation-of-dune-by-david-matthews-1977.html): 1977 Jazz-Funk Musical Adaptation of Dune</small>
 
 
-| 🔥: 82 \| 💬: [26](https://news.ycombinator.com/item?id=43102491) \| 🗓️ 2025-02-19
+| 🔥: 83 \| 💬: [26](https://news.ycombinator.com/item?id=43102491) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -303,7 +303,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 <small>🔗 [github.com](https://github.com/supabase-community/postgres_lsp): A Language Server for Postgres</small>
 
 
-| 🔥: 80 \| 💬: [16](https://news.ycombinator.com/item?id=43107394) \| 🗓️ 2025-02-19
+| 🔥: 82 \| 💬: [17](https://news.ycombinator.com/item?id=43107394) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -315,7 +315,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 <small>🔗 [npr.org](https://www.npr.org/2025/02/18/nx-s1-5301049/national-science-foundation-fires-roughly-10-of-its-workforce): National Science Foundation fires roughly 10% of its workforce</small>
 
 
-| 🔥: 74 \| 💬: [111](https://news.ycombinator.com/item?id=43105234) \| 🗓️ 2025-02-19
+| 🔥: 75 \| 💬: [112](https://news.ycombinator.com/item?id=43105234) \| 🗓️ 2025-02-19
 
 
 <br />
