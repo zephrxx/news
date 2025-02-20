@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cloud.google.com](https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger): Multiple Russia-aligned threat actors actively targeting Signal Messenger</small>
 
 
-| 🔥🔥: 647 \| 💬: [233](https://news.ycombinator.com/item?id=43102284) \| 🗓️ 2025-02-19
+| 🔥🔥: 664 \| 💬: [236](https://news.ycombinator.com/item?id=43102284) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [jazco.dev](https://jazco.dev/2025/02/19/imperfection/): When imperfect systems are good: Bluesky's lossy timelines</small>
 
 
-| 🔥🔥: 516 \| 💬: [195](https://news.ycombinator.com/item?id=43105028) \| 🗓️ 2025-02-19
+| 🔥🔥: 530 \| 💬: [198](https://news.ycombinator.com/item?id=43105028) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [scientificamerican.com](https://www.scientificamerican.com/article/broken-legs-and-ankles-heal-better-if-you-walk-on-them-within-weeks/): Broken legs and ankles heal better if you walk on them within weeks</small>
 
 
-| 🔥🔥: 402 \| 💬: [227](https://news.ycombinator.com/item?id=43101383) \| 🗓️ 2025-02-19
+| 🔥🔥: 415 \| 💬: [238](https://news.ycombinator.com/item?id=43101383) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [apple.com](https://www.apple.com/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/): Apple Debuts iPhone 16e</small>
 
 
-| 🔥🔥: 398 \| 💬: [682](https://news.ycombinator.com/item?id=43103536) \| 🗓️ 2025-02-19
+| 🔥🔥: 403 \| 💬: [690](https://news.ycombinator.com/item?id=43103536) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [azure.microsoft.com](https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/): Microsoft unveils Majorana 1 quantum processor</small>
 
 
-| 🔥🔥: 377 \| 💬: [142](https://news.ycombinator.com/item?id=43104071) \| 🗓️ 2025-02-19
+| 🔥🔥: 380 \| 💬: [143](https://news.ycombinator.com/item?id=43104071) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [github.com](https://github.com/mastra-ai/mastra): Show HN: Mastra – Open-source JS agent framework, by the developers of Gatsby</small>
 
 
-| 🔥🔥: 335 \| 💬: [112](https://news.ycombinator.com/item?id=43103073) \| 🗓️ 2025-02-19
+| 🔥🔥: 342 \| 💬: [117](https://news.ycombinator.com/item?id=43103073) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -99,7 +99,7 @@ Mastra 是一个**意见明确的 TypeScript 框架**，旨在快速构建 AI �
 <small>🔗 [research.google](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/): Accelerating scientific breakthroughs with an AI co-scientist</small>
 
 
-| 🔥🔥: 302 \| 💬: [151](https://news.ycombinator.com/item?id=43102528) \| 🗓️ 2025-02-19
+| 🔥🔥: 308 \| 💬: [157](https://news.ycombinator.com/item?id=43102528) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -111,7 +111,7 @@ Mastra 是一个**意见明确的 TypeScript 框架**，旨在快速构建 AI �
 <small>🔗 [ubicloud.com](https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode): Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode</small>
 
 
-| 🔥🔥: 294 \| 💬: [83](https://news.ycombinator.com/item?id=43101430) \| 🗓️ 2025-02-19
+| 🔥🔥: 296 \| 💬: [83](https://news.ycombinator.com/item?id=43101430) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -123,7 +123,7 @@ Mastra 是一个**意见明确的 TypeScript 框架**，旨在快速构建 AI �
 <small>🔗 [tuhs.org](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html): 1972 Unix V2 "Beta" Resurrected</small>
 
 
-| 🔥🔥: 241 \| 💬: [38](https://news.ycombinator.com/item?id=43108091) \| 🗓️ 2025-02-19
+| 🔥🔥: 248 \| 💬: [40](https://news.ycombinator.com/item?id=43108091) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -135,7 +135,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 <small>🔗 [typst.app](https://typst.app/blog/2025/typst-0.13/): Typst 0.13 is out now</small>
 
 
-| 🔥🔥: 238 \| 💬: [47](https://news.ycombinator.com/item?id=43105444) \| 🗓️ 2025-02-19
+| 🔥🔥: 242 \| 💬: [47](https://news.ycombinator.com/item?id=43105444) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -147,7 +147,7 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/18/upshot/doge-contracts-musk-trump.html): Doge Claimed It Saved $8B in One Contract. It Was $8M</small>
 
 
-| 🔥🔥: 196 \| 💬: [122](https://news.ycombinator.com/item?id=43101757) \| 🗓️ 2025-02-19
+| 🔥🔥: 197 \| 💬: [119](https://news.ycombinator.com/item?id=43101757) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -159,7 +159,7 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 <small>🔗 [inversecos.com](https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html): An inside look at NSA tactics, techniques and procedures from China's lens</small>
 
 
-| 🔥🔥: 195 \| 💬: [58](https://news.ycombinator.com/item?id=43105357) \| 🗓️ 2025-02-19
+| 🔥🔥: 196 \| 💬: [59](https://news.ycombinator.com/item?id=43105357) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -171,7 +171,7 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 <small>🔗 [newatlas.com](https://newatlas.com/environment/indoor-air-pollution-scented-terpenes/): Scented products cause indoor air pollution on par with car exhaust</small>
 
 
-| 🔥🔥: 157 \| 💬: [55](https://news.ycombinator.com/item?id=43109366) \| 🗓️ 2025-02-19
+| 🔥🔥: 177 \| 💬: [64](https://news.ycombinator.com/item?id=43109366) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -179,7 +179,19 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 
 ---
 
-## <a name="14"></a>14. 确保所有机构的问责制 
+## <a name="14"></a>14. 放松的基数平衡树（2024） 
+<small>🔗 [peter.horne-khan.com](https://peter.horne-khan.com/relaxed-radix-balanced-trees/): Relaxed Radix Balanced Trees (2024)</small>
+
+
+| 🔥🔥: 147 \| 💬: [13](https://news.ycombinator.com/item?id=43103604) \| 🗓️ 2025-02-19
+
+
+<br />
+在开发语言Ivan时，为了实现不可变向量，选择了**放松的基数平衡树（RRB树）**作为数据结构。与持久向量相比，RRB树在合并操作中更高效，解决了节点不平衡的问题。通过引入**大小表**和**搜索步骤不变式**，RRB树在保持高效查找的同时，允许节点的灵活性。这种方法不仅减少了合并时所需的替换节点数量，还优化了查找操作的额外步骤，确保了整体性能的提升。
+
+---
+
+## <a name="15"></a>15. 确保所有机构的问责制 
 <small>🔗 [whitehouse.gov](https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/): Ensuring Accountability for All Agencies</small>
 
 
@@ -191,39 +203,27 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 
 ---
 
-## <a name="15"></a>15. 放松的基数平衡树（2024） 
-<small>🔗 [peter.horne-khan.com](https://peter.horne-khan.com/relaxed-radix-balanced-trees/): Relaxed Radix Balanced Trees (2024)</small>
-
-
-| 🔥🔥: 144 \| 💬: [12](https://news.ycombinator.com/item?id=43103604) \| 🗓️ 2025-02-19
-
-
-<br />
-在开发语言Ivan时，为了实现不可变向量，选择了**放松的基数平衡树（RRB树）**作为数据结构。与持久向量相比，RRB树在合并操作中更高效，解决了节点不平衡的问题。通过引入**大小表**和**搜索步骤不变式**，RRB树在保持高效查找的同时，允许节点的灵活性。这种方法不仅减少了合并时所需的替换节点数量，还优化了查找操作的额外步骤，确保了整体性能的提升。
-
----
-
-## <a name="16"></a>16. 格雷格·K-H：在Rust中编写新代码对我们所有人都是一种胜利 
-<small>🔗 [lore.kernel.org](https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/): Greg K-H: "Writing new code in Rust is a win for all of us"</small>
-
-
-| 🔥🔥: 123 \| 💬: [32](https://news.ycombinator.com/item?id=43101204) \| 🗓️ 2025-02-19
-
-
-<br />
-格雷格·K-H强调，**在Linux内核中引入Rust语言**将显著减少内存安全问题，尤其是在驱动程序和内核组件的开发中。他指出，C语言中的许多小错误在Rust中不存在，这使得开发者可以更专注于逻辑错误和竞争条件等真正的问题。尽管C++可以提供某些改进，但并不能解决所有内存安全问题。Rust的引入将促使内核API的重新设计，使其更安全易用，从而提升整个Linux项目的质量和可维护性。
-
----
-
-## <a name="17"></a>17. 用Rust构建自己的SQLite：第五部分 - 评估查询 
+## <a name="16"></a>16. 用Rust构建自己的SQLite：第五部分 - 评估查询 
 <small>🔗 [blog.sylver.dev](https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries): Build your own SQLite in Rust, Part 5: Evaluating queries</small>
 
 
-| 🔥🔥: 120 \| 💬: [9](https://news.ycombinator.com/item?id=43108614) \| 🗓️ 2025-02-19
+| 🔥🔥: 130 \| 💬: [12](https://news.ycombinator.com/item?id=43108614) \| 🗓️ 2025-02-19
 
 
 <br />
 在本篇中，我们将实现一个基本的查询评估器，能够处理简单的 **SELECT** 语句。首先，我们创建一个包含单个表的测试数据库，并使 **pager** 可共享，以支持更复杂的功能。接着，我们定义了一个 **Operator** 枚举和 **Planner** 结构，用于从解析的 SQL 查询生成可执行的操作。最后，通过 REPL 测试查询评估器，成功执行了简单的 SELECT 查询。接下来的文章将涵盖过滤、排序和分组等功能的实现。
+
+---
+
+## <a name="17"></a>17. 格雷格·K-H：在Rust中编写新代码对我们所有人都是一种胜利 
+<small>🔗 [lore.kernel.org](https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/): Greg K-H: "Writing new code in Rust is a win for all of us"</small>
+
+
+| 🔥🔥: 126 \| 💬: [32](https://news.ycombinator.com/item?id=43101204) \| 🗓️ 2025-02-19
+
+
+<br />
+格雷格·K-H强调，**在Linux内核中引入Rust语言**将显著减少内存安全问题，尤其是在驱动程序和内核组件的开发中。他指出，C语言中的许多小错误在Rust中不存在，这使得开发者可以更专注于逻辑错误和竞争条件等真正的问题。尽管C++可以提供某些改进，但并不能解决所有内存安全问题。Rust的引入将促使内核API的重新设计，使其更安全易用，从而提升整个Linux项目的质量和可维护性。
 
 ---
 
@@ -243,7 +243,7 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 <small>🔗 [construct.net](https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892): The reality of long-term software maintenance from the maintainer's perspective</small>
 
 
-| 🔥🔥: 114 \| 💬: [27](https://news.ycombinator.com/item?id=43100648) \| 🗓️ 2025-02-19
+| 🔥🔥: 115 \| 💬: [27](https://news.ycombinator.com/item?id=43100648) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -255,7 +255,7 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 <small>🔗 [worldhistory.substack.com](https://worldhistory.substack.com/p/the-spartan-mirage): Seeing Through the Spartan Mirage</small>
 
 
-| 🔥: 99 \| 💬: [96](https://news.ycombinator.com/item?id=43102182) \| 🗓️ 2025-02-19
+| 🔥: 99 \| 💬: [97](https://news.ycombinator.com/item?id=43102182) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -263,7 +263,31 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 
 ---
 
-## <a name="21"></a>21. 88x31 GIF 收藏集 
+## <a name="21"></a>21. 马来西亚寄希望于数据中心推动经济发展 
+<small>🔗 [apnews.com](https://apnews.com/article/malaysia-johor-data-centers-energy-electricity-power-cfb087f755d3e203a347463af229e88d): Malaysia is betting on data centers to boost its economy</small>
+
+
+| 🔥: 99 \| 💬: [88](https://news.ycombinator.com/item?id=43107839) \| 🗓️ 2025-02-19
+
+
+<br />
+马来西亚的**数据中心**正在迅速崛起，尤其是在柔佛州，预计到2035年电力需求将超过5吉瓦。这些数据中心虽然可能带来经济增长和高薪工作，但也引发了对**水资源**和电力短缺的担忧。当地企业主担心，数据中心的能耗将使他们的生意面临更大挑战，甚至考虑迁往其他国家。尽管马来西亚政府希望通过数据中心实现经济现代化，但专家警告称，这种转型可能并未如预期那样带来显著的就业机会，反而可能导致资源的过度开发和环境问题。
+
+---
+
+## <a name="22"></a>22. 墨西哥对谷歌发出法律威胁 
+<small>🔗 [thecomeback.com](https://thecomeback.com/politics/mexico-legal-action-donald-trump-executive-order.html): Mexico issues legal threat to Google</small>
+
+
+| 🔥: 98 \| 💬: [124](https://news.ycombinator.com/item?id=43110226) \| 🗓️ 2025-02-19
+
+
+<br />
+美国总统特朗普于1月20日签署行政命令，将“墨西哥湾”更名为“美洲湾”。谷歌地图随即更新了名称，引发了社交媒体的热议。墨西哥总统**克劳迪娅·谢因鲍姆**表示，如果谷歌不将名称改回，墨西哥将采取法律行动。她强调，特朗普的命令仅适用于美国的大陆架，**不应影响整个海域**。谢因鲍姆指出，谷歌的更名行为超出了任何国家或私人实体的权力范围，墨西哥将保留在民事法庭起诉的权利，具体行动将取决于谷歌的回应。
+
+---
+
+## <a name="23"></a>23. 88x31 GIF 收藏集 
 <small>🔗 [cyber.dabamos.de](https://cyber.dabamos.de/88x31/): The 88x31 GIF Collection</small>
 
 
@@ -275,7 +299,7 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 
 ---
 
-## <a name="22"></a>22. SpaceX团队将重塑FAA空中交通控制系统 
+## <a name="24"></a>24. SpaceX团队将重塑FAA空中交通控制系统 
 <small>🔗 [theverge.com](https://www.theverge.com/news/614078/faa-air-traffic-control-spacex-elon-musk-layoff-staff-shortage): A SpaceX team is being brought in to overhaul FAA's air traffic control system</small>
 
 
@@ -287,19 +311,7 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 
 ---
 
-## <a name="23"></a>23. 马来西亚寄希望于数据中心推动经济发展 
-<small>🔗 [apnews.com](https://apnews.com/article/malaysia-johor-data-centers-energy-electricity-power-cfb087f755d3e203a347463af229e88d): Malaysia is betting on data centers to boost its economy</small>
-
-
-| 🔥: 97 \| 💬: [86](https://news.ycombinator.com/item?id=43107839) \| 🗓️ 2025-02-19
-
-
-<br />
-马来西亚的**数据中心**正在迅速崛起，尤其是在柔佛州，预计到2035年电力需求将超过5吉瓦。这些数据中心虽然可能带来经济增长和高薪工作，但也引发了对**水资源**和电力短缺的担忧。当地企业主担心，数据中心的能耗将使他们的生意面临更大挑战，甚至考虑迁往其他国家。尽管马来西亚政府希望通过数据中心实现经济现代化，但专家警告称，这种转型可能并未如预期那样带来显著的就业机会，反而可能导致资源的过度开发和环境问题。
-
----
-
-## <a name="24"></a>24. 小型原始黑洞穿过人体的引力效应 
+## <a name="25"></a>25. 小型原始黑洞穿过人体的引力效应 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.09734): Gravitational Effects of Small Primordial Black Hole Passing Through Human Body</small>
 
 
@@ -308,17 +320,5 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 
 <br />
 研究探讨了**原始黑洞**（PBH）穿过人体时的引力效应，旨在确定造成显著伤害或死亡所需的最小质量。分析了两种效应：从黑洞轨迹传播出的**冲击波**造成的损伤，以及黑洞通过人体时产生的**潮汐力**对脑细胞的影响。结果显示，冲击波是主要伤害来源，严重伤害或死亡的质量阈值约为**1.4 × 10^17 克**。然而，超过此质量的原始黑洞数量密度过低，无法对人群产生可观察的影响。
-
----
-
-## <a name="25"></a>25. 电动卡车制造商尼古拉申请破产保护 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/02/19/troubled-electric-truck-maker-nikola-files-for-bankruptcy/): Troubled electric truck maker Nikola files for bankruptcy</small>
-
-
-| 🔥: 92 \| 💬: [90](https://news.ycombinator.com/item?id=43103333) \| 🗓️ 2025-02-19
-
-
-<br />
-氢电动卡车初创公司**尼古拉公司**周三申请了**第11章破产保护**，因未能找到买家或获得额外资金以维持运营。曾在2020年价值300亿美元的尼古拉，因创始人**特雷弗·米尔顿**的丑闻而陷入困境。公司计划在法庭批准后拍卖资产，包括氢燃料电池电动卡车和电池电动卡车平台。尼古拉在努力筹集资金和减少负债后，仍未能克服市场挑战，最终选择破产以保护公司及其利益相关者。
 
 ---
