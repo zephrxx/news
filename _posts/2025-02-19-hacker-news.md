@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cloud.google.com](https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger): Multiple Russia-aligned threat actors actively targeting Signal Messenger</small>
 
 
-| 🔥🔥: 585 \| 💬: [221](https://news.ycombinator.com/item?id=43102284) \| 🗓️ 2025-02-19
+| 🔥🔥: 598 \| 💬: [223](https://news.ycombinator.com/item?id=43102284) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [jazco.dev](https://jazco.dev/2025/02/19/imperfection/): When imperfect systems are good: Bluesky's lossy timelines</small>
 
 
-| 🔥🔥: 385 \| 💬: [156](https://news.ycombinator.com/item?id=43105028) \| 🗓️ 2025-02-19
+| 🔥🔥: 412 \| 💬: [164](https://news.ycombinator.com/item?id=43105028) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [apple.com](https://www.apple.com/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/): Apple Debuts iPhone 16e</small>
 
 
-| 🔥🔥: 329 \| 💬: [562](https://news.ycombinator.com/item?id=43103536) \| 🗓️ 2025-02-19
+| 🔥🔥: 345 \| 💬: [603](https://news.ycombinator.com/item?id=43103536) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [azure.microsoft.com](https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/): Microsoft unveils Majorana 1 quantum processor</small>
 
 
-| 🔥🔥: 311 \| 💬: [124](https://news.ycombinator.com/item?id=43104071) \| 🗓️ 2025-02-19
+| 🔥🔥: 321 \| 💬: [130](https://news.ycombinator.com/item?id=43104071) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [scientificamerican.com](https://www.scientificamerican.com/article/broken-legs-and-ankles-heal-better-if-you-walk-on-them-within-weeks/): Broken legs and ankles heal better if you walk on them within weeks</small>
 
 
-| 🔥🔥: 294 \| 💬: [193](https://news.ycombinator.com/item?id=43101383) \| 🗓️ 2025-02-19
+| 🔥🔥: 312 \| 💬: [200](https://news.ycombinator.com/item?id=43101383) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [github.com](https://github.com/mastra-ai/mastra): Show HN: Mastra – Open-source JS agent framework, by the developers of Gatsby</small>
 
 
-| 🔥🔥: 291 \| 💬: [99](https://news.ycombinator.com/item?id=43103073) \| 🗓️ 2025-02-19
+| 🔥🔥: 298 \| 💬: [100](https://news.ycombinator.com/item?id=43103073) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -99,7 +99,7 @@ Mastra 是一个**意见明确的 TypeScript 框架**，旨在快速构建 AI �
 <small>🔗 [ubicloud.com](https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode): Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode</small>
 
 
-| 🔥🔥: 271 \| 💬: [76](https://news.ycombinator.com/item?id=43101430) \| 🗓️ 2025-02-19
+| 🔥🔥: 276 \| 💬: [78](https://news.ycombinator.com/item?id=43101430) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -111,7 +111,7 @@ Mastra 是一个**意见明确的 TypeScript 框架**，旨在快速构建 AI �
 <small>🔗 [research.google](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/): Accelerating scientific breakthroughs with an AI co-scientist</small>
 
 
-| 🔥🔥: 253 \| 💬: [119](https://news.ycombinator.com/item?id=43102528) \| 🗓️ 2025-02-19
+| 🔥🔥: 263 \| 💬: [128](https://news.ycombinator.com/item?id=43102528) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -123,7 +123,7 @@ Mastra 是一个**意见明确的 TypeScript 框架**，旨在快速构建 AI �
 <small>🔗 [typst.app](https://typst.app/blog/2025/typst-0.13/): Typst 0.13 is out now</small>
 
 
-| 🔥🔥: 216 \| 💬: [45](https://news.ycombinator.com/item?id=43105444) \| 🗓️ 2025-02-19
+| 🔥🔥: 223 \| 💬: [46](https://news.ycombinator.com/item?id=43105444) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -135,7 +135,7 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/18/upshot/doge-contracts-musk-trump.html): Doge Claimed It Saved $8B in One Contract. It Was $8M</small>
 
 
-| 🔥🔥: 185 \| 💬: [117](https://news.ycombinator.com/item?id=43101757) \| 🗓️ 2025-02-19
+| 🔥🔥: 187 \| 💬: [117](https://news.ycombinator.com/item?id=43101757) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -147,7 +147,7 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 <small>🔗 [inversecos.com](https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html): An inside look at NSA tactics, techniques and procedures from China's lens</small>
 
 
-| 🔥🔥: 155 \| 💬: [46](https://news.ycombinator.com/item?id=43105357) \| 🗓️ 2025-02-19
+| 🔥🔥: 163 \| 💬: [46](https://news.ycombinator.com/item?id=43105357) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -155,7 +155,19 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 
 ---
 
-## <a name="12"></a>12. 确保所有机构的问责制 
+## <a name="12"></a>12. 1972年Unix V2“测试版”复活 
+<small>🔗 [tuhs.org](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html): 1972 Unix V2 "Beta" Resurrected</small>
+
+
+| 🔥🔥: 157 \| 💬: [25](https://news.ycombinator.com/item?id=43108091) \| 🗓️ 2025-02-19
+
+
+<br />
+Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功从DMR磁带中提取出一个可用的系统。这个系统的内核是迄今为止最早的可读Unix内核，具有支持V1和V2二进制文件的能力，且核心大小为16 KiB。尽管其系统调用表与V1一致，但可以运行V2二进制文件，因而被称为“V2测试版”。他使用aap的PDP-11/20模拟器成功启动了该内核，并创建了一个可启动的RF磁盘映像，供其他人下载。
+
+---
+
+## <a name="13"></a>13. 确保所有机构的问责制 
 <small>🔗 [whitehouse.gov](https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/): Ensuring Accountability for All Agencies</small>
 
 
@@ -167,27 +179,15 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 
 ---
 
-## <a name="13"></a>13. 放松的基数平衡树（2024） 
+## <a name="14"></a>14. 放松的基数平衡树（2024） 
 <small>🔗 [peter.horne-khan.com](https://peter.horne-khan.com/relaxed-radix-balanced-trees/): Relaxed Radix Balanced Trees (2024)</small>
 
 
-| 🔥🔥: 126 \| 💬: [11](https://news.ycombinator.com/item?id=43103604) \| 🗓️ 2025-02-19
+| 🔥🔥: 132 \| 💬: [12](https://news.ycombinator.com/item?id=43103604) \| 🗓️ 2025-02-19
 
 
 <br />
 在开发语言Ivan时，为了实现不可变向量，选择了**放松的基数平衡树（RRB树）**作为数据结构。与持久向量相比，RRB树在合并操作中更高效，解决了节点不平衡的问题。通过引入**大小表**和**搜索步骤不变式**，RRB树在保持高效查找的同时，允许节点的灵活性。这种方法不仅减少了合并时所需的替换节点数量，还优化了查找操作的额外步骤，确保了整体性能的提升。
-
----
-
-## <a name="14"></a>14. 1972年Unix V2“测试版”复活 
-<small>🔗 [tuhs.org](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html): 1972 Unix V2 "Beta" Resurrected</small>
-
-
-| 🔥🔥: 125 \| 💬: [22](https://news.ycombinator.com/item?id=43108091) \| 🗓️ 2025-02-19
-
-
-<br />
-Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功从DMR磁带中提取出一个可用的系统。这个系统的内核是迄今为止最早的可读Unix内核，具有支持V1和V2二进制文件的能力，且核心大小为16 KiB。尽管其系统调用表与V1一致，但可以运行V2二进制文件，因而被称为“V2测试版”。他使用aap的PDP-11/20模拟器成功启动了该内核，并创建了一个可启动的RF磁盘映像，供其他人下载。
 
 ---
 
@@ -219,7 +219,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 <small>🔗 [lore.kernel.org](https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/): Greg K-H: "Writing new code in Rust is a win for all of us"</small>
 
 
-| 🔥: 100 \| 💬: [22](https://news.ycombinator.com/item?id=43101204) \| 🗓️ 2025-02-19
+| 🔥🔥: 111 \| 💬: [25](https://news.ycombinator.com/item?id=43101204) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -231,7 +231,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 <small>🔗 [worldhistory.substack.com](https://worldhistory.substack.com/p/the-spartan-mirage): Seeing Through the Spartan Mirage</small>
 
 
-| 🔥: 99 \| 💬: [94](https://news.ycombinator.com/item?id=43102182) \| 🗓️ 2025-02-19
+| 🔥: 99 \| 💬: [95](https://news.ycombinator.com/item?id=43102182) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -239,7 +239,19 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
-## <a name="19"></a>19. SpaceX团队将重塑FAA空中交通控制系统 
+## <a name="19"></a>19. 88x31 GIF 收藏集 
+<small>🔗 [cyber.dabamos.de](https://cyber.dabamos.de/88x31/): The 88x31 GIF Collection</small>
+
+
+| 🔥: 97 \| 💬: [35](https://news.ycombinator.com/item?id=43099793) \| 🗓️ 2025-02-19
+
+
+<br />
+这是一份包含4540个经典**88x31按钮**的GIF格式收藏，涵盖了1990年代、2000年代及至今的作品。页面会定期更新，用户可以自由复制按钮到自己的网站，但建议尽量避免**热链接**。最后更新于2023年12月13日。
+
+---
+
+## <a name="20"></a>20. SpaceX团队将重塑FAA空中交通控制系统 
 <small>🔗 [theverge.com](https://www.theverge.com/news/614078/faa-air-traffic-control-spacex-elon-musk-layoff-staff-shortage): A SpaceX team is being brought in to overhaul FAA's air traffic control system</small>
 
 
@@ -251,23 +263,11 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
-## <a name="20"></a>20. 88x31 GIF 收藏集 
-<small>🔗 [cyber.dabamos.de](https://cyber.dabamos.de/88x31/): The 88x31 GIF Collection</small>
-
-
-| 🔥: 96 \| 💬: [35](https://news.ycombinator.com/item?id=43099793) \| 🗓️ 2025-02-19
-
-
-<br />
-这是一份包含4540个经典**88x31按钮**的GIF格式收藏，涵盖了1990年代、2000年代及至今的作品。页面会定期更新，用户可以自由复制按钮到自己的网站，但建议尽量避免**热链接**。最后更新于2023年12月13日。
-
----
-
 ## <a name="21"></a>21. 小型原始黑洞穿过人体的引力效应 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.09734): Gravitational Effects of Small Primordial Black Hole Passing Through Human Body</small>
 
 
-| 🔥: 95 \| 💬: [94](https://news.ycombinator.com/item?id=43102425) \| 🗓️ 2025-02-19
+| 🔥: 95 \| 💬: [95](https://news.ycombinator.com/item?id=43102425) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -279,7 +279,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/02/19/troubled-electric-truck-maker-nikola-files-for-bankruptcy/): Troubled electric truck maker Nikola files for bankruptcy</small>
 
 
-| 🔥: 91 \| 💬: [87](https://news.ycombinator.com/item?id=43103333) \| 🗓️ 2025-02-19
+| 🔥: 92 \| 💬: [87](https://news.ycombinator.com/item?id=43103333) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -291,7 +291,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 <small>🔗 [openculture.com](https://www.openculture.com/2025/02/hear-the-jazz-funk-musical-adaptation-of-dune-by-david-matthews-1977.html): 1977 Jazz-Funk Musical Adaptation of Dune</small>
 
 
-| 🔥: 80 \| 💬: [25](https://news.ycombinator.com/item?id=43102491) \| 🗓️ 2025-02-19
+| 🔥: 82 \| 💬: [26](https://news.ycombinator.com/item?id=43102491) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -303,7 +303,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 <small>🔗 [github.com](https://github.com/supabase-community/postgres_lsp): A Language Server for Postgres</small>
 
 
-| 🔥: 80 \| 💬: [15](https://news.ycombinator.com/item?id=43107394) \| 🗓️ 2025-02-19
+| 🔥: 80 \| 💬: [16](https://news.ycombinator.com/item?id=43107394) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -315,7 +315,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 <small>🔗 [npr.org](https://www.npr.org/2025/02/18/nx-s1-5301049/national-science-foundation-fires-roughly-10-of-its-workforce): National Science Foundation fires roughly 10% of its workforce</small>
 
 
-| 🔥: 74 \| 💬: [108](https://news.ycombinator.com/item?id=43105234) \| 🗓️ 2025-02-19
+| 🔥: 74 \| 💬: [111](https://news.ycombinator.com/item?id=43105234) \| 🗓️ 2025-02-19
 
 
 <br />
