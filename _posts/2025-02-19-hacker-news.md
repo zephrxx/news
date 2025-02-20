@@ -10,8 +10,8 @@ tags:
 
 1. 多个俄罗斯对齐的威胁行为者积极针对Signal Messenger；
 1. 当不完美的系统变得有用：Bluesky的损失时间线；
-1. 苹果推出iPhone 16e：强大且实惠的新选择；
 1. 骨折后尽早行走有助于更好愈合；
+1. 苹果推出iPhone 16e：强大且实惠的新选择；
 1. 微软推出Majorana 1量子处理器；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cloud.google.com](https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger): Multiple Russia-aligned threat actors actively targeting Signal Messenger</small>
 
 
-| 🔥🔥: 636 \| 💬: [231](https://news.ycombinator.com/item?id=43102284) \| 🗓️ 2025-02-19
+| 🔥🔥: 647 \| 💬: [233](https://news.ycombinator.com/item?id=43102284) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [jazco.dev](https://jazco.dev/2025/02/19/imperfection/): When imperfect systems are good: Bluesky's lossy timelines</small>
 
 
-| 🔥🔥: 494 \| 💬: [189](https://news.ycombinator.com/item?id=43105028) \| 🗓️ 2025-02-19
+| 🔥🔥: 516 \| 💬: [195](https://news.ycombinator.com/item?id=43105028) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -47,23 +47,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 苹果推出iPhone 16e：强大且实惠的新选择 
-<small>🔗 [apple.com](https://www.apple.com/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/): Apple Debuts iPhone 16e</small>
-
-
-| 🔥🔥: 385 \| 💬: [668](https://news.ycombinator.com/item?id=43103536) \| 🗓️ 2025-02-19
-
-
-<br />
-苹果公司于2025年2月19日发布了新款**iPhone 16e**，作为iPhone 16系列中最具性价比的成员。它搭载了**A18芯片**，提供快速流畅的性能和卓越的电池续航，配备48MP的2合1相机系统，支持卫星消息和紧急SOS功能。iPhone 16e的设计坚固耐用，具备IP68防水防尘等级，6.1英寸的Super Retina XDR显示屏让用户享受极佳的视觉体验。预购将于2月21日开始，正式发售时间为2月28日。
-
----
-
-## <a name="4"></a>4. 骨折后尽早行走有助于更好愈合 
+## <a name="3"></a>3. 骨折后尽早行走有助于更好愈合 
 <small>🔗 [scientificamerican.com](https://www.scientificamerican.com/article/broken-legs-and-ankles-heal-better-if-you-walk-on-them-within-weeks/): Broken legs and ankles heal better if you walk on them within weeks</small>
 
 
-| 🔥🔥: 379 \| 💬: [218](https://news.ycombinator.com/item?id=43101383) \| 🗓️ 2025-02-19
+| 🔥🔥: 402 \| 💬: [227](https://news.ycombinator.com/item?id=43101383) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -71,11 +59,23 @@ tags:
 
 ---
 
+## <a name="4"></a>4. 苹果推出iPhone 16e：强大且实惠的新选择 
+<small>🔗 [apple.com](https://www.apple.com/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/): Apple Debuts iPhone 16e</small>
+
+
+| 🔥🔥: 398 \| 💬: [682](https://news.ycombinator.com/item?id=43103536) \| 🗓️ 2025-02-19
+
+
+<br />
+苹果公司于2025年2月19日发布了新款**iPhone 16e**，作为iPhone 16系列中最具性价比的成员。它搭载了**A18芯片**，提供快速流畅的性能和卓越的电池续航，配备48MP的2合1相机系统，支持卫星消息和紧急SOS功能。iPhone 16e的设计坚固耐用，具备IP68防水防尘等级，6.1英寸的Super Retina XDR显示屏让用户享受极佳的视觉体验。预购将于2月21日开始，正式发售时间为2月28日。
+
+---
+
 ## <a name="5"></a>5. 微软推出Majorana 1量子处理器 
 <small>🔗 [azure.microsoft.com](https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/): Microsoft unveils Majorana 1 quantum processor</small>
 
 
-| 🔥🔥: 368 \| 💬: [139](https://news.ycombinator.com/item?id=43104071) \| 🗓️ 2025-02-19
+| 🔥🔥: 377 \| 💬: [142](https://news.ycombinator.com/item?id=43104071) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [github.com](https://github.com/mastra-ai/mastra): Show HN: Mastra – Open-source JS agent framework, by the developers of Gatsby</small>
 
 
-| 🔥🔥: 331 \| 💬: [107](https://news.ycombinator.com/item?id=43103073) \| 🗓️ 2025-02-19
+| 🔥🔥: 335 \| 💬: [112](https://news.ycombinator.com/item?id=43103073) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -99,7 +99,7 @@ Mastra 是一个**意见明确的 TypeScript 框架**，旨在快速构建 AI �
 <small>🔗 [research.google](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/): Accelerating scientific breakthroughs with an AI co-scientist</small>
 
 
-| 🔥🔥: 296 \| 💬: [144](https://news.ycombinator.com/item?id=43102528) \| 🗓️ 2025-02-19
+| 🔥🔥: 302 \| 💬: [151](https://news.ycombinator.com/item?id=43102528) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -111,7 +111,7 @@ Mastra 是一个**意见明确的 TypeScript 框架**，旨在快速构建 AI �
 <small>🔗 [ubicloud.com](https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode): Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode</small>
 
 
-| 🔥🔥: 289 \| 💬: [81](https://news.ycombinator.com/item?id=43101430) \| 🗓️ 2025-02-19
+| 🔥🔥: 294 \| 💬: [83](https://news.ycombinator.com/item?id=43101430) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -119,23 +119,11 @@ Mastra 是一个**意见明确的 TypeScript 框架**，旨在快速构建 AI �
 
 ---
 
-## <a name="9"></a>9. Typst 0.13 版本发布 
-<small>🔗 [typst.app](https://typst.app/blog/2025/typst-0.13/): Typst 0.13 is out now</small>
-
-
-| 🔥🔥: 237 \| 💬: [47](https://news.ycombinator.com/item?id=43105444) \| 🗓️ 2025-02-19
-
-
-<br />
-Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug**，并增强了灵活性。此次更新引入了**HTML导出**的实验性版本，改善了段落处理、轮廓样式和文件处理等功能。新功能包括更好的段落语义理解、图像生成、插件性能提升等，特别是对PDF文件嵌入和字体覆盖控制的支持，使得文档处理更加高效和精确。
-
----
-
-## <a name="10"></a>10. 1972年Unix V2“测试版”复活 
+## <a name="9"></a>9. 1972年Unix V2“测试版”复活 
 <small>🔗 [tuhs.org](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html): 1972 Unix V2 "Beta" Resurrected</small>
 
 
-| 🔥🔥: 225 \| 💬: [37](https://news.ycombinator.com/item?id=43108091) \| 🗓️ 2025-02-19
+| 🔥🔥: 241 \| 💬: [38](https://news.ycombinator.com/item?id=43108091) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -143,11 +131,23 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
+## <a name="10"></a>10. Typst 0.13 版本发布 
+<small>🔗 [typst.app](https://typst.app/blog/2025/typst-0.13/): Typst 0.13 is out now</small>
+
+
+| 🔥🔥: 238 \| 💬: [47](https://news.ycombinator.com/item?id=43105444) \| 🗓️ 2025-02-19
+
+
+<br />
+Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug**，并增强了灵活性。此次更新引入了**HTML导出**的实验性版本，改善了段落处理、轮廓样式和文件处理等功能。新功能包括更好的段落语义理解、图像生成、插件性能提升等，特别是对PDF文件嵌入和字体覆盖控制的支持，使得文档处理更加高效和精确。
+
+---
+
 ## <a name="11"></a>11. 狗狗币声称在一份合同中节省了80亿美元，实际为800万美元 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/18/upshot/doge-contracts-musk-trump.html): Doge Claimed It Saved $8B in One Contract. It Was $8M</small>
 
 
-| 🔥🔥: 194 \| 💬: [121](https://news.ycombinator.com/item?id=43101757) \| 🗓️ 2025-02-19
+| 🔥🔥: 196 \| 💬: [122](https://news.ycombinator.com/item?id=43101757) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -159,7 +159,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 <small>🔗 [inversecos.com](https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html): An inside look at NSA tactics, techniques and procedures from China's lens</small>
 
 
-| 🔥🔥: 189 \| 💬: [55](https://news.ycombinator.com/item?id=43105357) \| 🗓️ 2025-02-19
+| 🔥🔥: 195 \| 💬: [58](https://news.ycombinator.com/item?id=43105357) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -167,7 +167,19 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
-## <a name="13"></a>13. 确保所有机构的问责制 
+## <a name="13"></a>13. 香氛产品造成的室内空气污染与汽车排放相当 
+<small>🔗 [newatlas.com](https://newatlas.com/environment/indoor-air-pollution-scented-terpenes/): Scented products cause indoor air pollution on par with car exhaust</small>
+
+
+| 🔥🔥: 157 \| 💬: [55](https://news.ycombinator.com/item?id=43109366) \| 🗓️ 2025-02-19
+
+
+<br />
+新研究表明，**香氛产品**在室内使用时会改变空气化学成分，产生的纳米颗粒污染程度与汽车排放相当。这些颗粒足够小，能深入肺部，可能对**呼吸健康**造成严重影响。研究发现，使用加热的香氛蜡烛会显著增加室内空气中的纳米颗粒浓度，达到每立方厘米超过一百万个颗粒。这一发现强调了在建筑设计和通风系统中考虑香氛产品对空气质量影响的重要性。
+
+---
+
+## <a name="14"></a>14. 确保所有机构的问责制 
 <small>🔗 [whitehouse.gov](https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/): Ensuring Accountability for All Agencies</small>
 
 
@@ -179,11 +191,11 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
-## <a name="14"></a>14. 放松的基数平衡树（2024） 
+## <a name="15"></a>15. 放松的基数平衡树（2024） 
 <small>🔗 [peter.horne-khan.com](https://peter.horne-khan.com/relaxed-radix-balanced-trees/): Relaxed Radix Balanced Trees (2024)</small>
 
 
-| 🔥🔥: 141 \| 💬: [12](https://news.ycombinator.com/item?id=43103604) \| 🗓️ 2025-02-19
+| 🔥🔥: 144 \| 💬: [12](https://news.ycombinator.com/item?id=43103604) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -191,23 +203,11 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
-## <a name="15"></a>15. 香氛产品造成的室内空气污染与汽车排放相当 
-<small>🔗 [newatlas.com](https://newatlas.com/environment/indoor-air-pollution-scented-terpenes/): Scented products cause indoor air pollution on par with car exhaust</small>
-
-
-| 🔥🔥: 127 \| 💬: [50](https://news.ycombinator.com/item?id=43109366) \| 🗓️ 2025-02-19
-
-
-<br />
-新研究表明，**香氛产品**在室内使用时会改变空气化学成分，产生的纳米颗粒污染程度与汽车排放相当。这些颗粒足够小，能深入肺部，可能对**呼吸健康**造成严重影响。研究发现，使用加热的香氛蜡烛会显著增加室内空气中的纳米颗粒浓度，达到每立方厘米超过一百万个颗粒。这一发现强调了在建筑设计和通风系统中考虑香氛产品对空气质量影响的重要性。
-
----
-
 ## <a name="16"></a>16. 格雷格·K-H：在Rust中编写新代码对我们所有人都是一种胜利 
 <small>🔗 [lore.kernel.org](https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/): Greg K-H: "Writing new code in Rust is a win for all of us"</small>
 
 
-| 🔥🔥: 120 \| 💬: [29](https://news.ycombinator.com/item?id=43101204) \| 🗓️ 2025-02-19
+| 🔥🔥: 123 \| 💬: [32](https://news.ycombinator.com/item?id=43101204) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -215,7 +215,19 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
-## <a name="17"></a>17. 微软的Majorana 1芯片为量子计算开辟新路径 
+## <a name="17"></a>17. 用Rust构建自己的SQLite：第五部分 - 评估查询 
+<small>🔗 [blog.sylver.dev](https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries): Build your own SQLite in Rust, Part 5: Evaluating queries</small>
+
+
+| 🔥🔥: 120 \| 💬: [9](https://news.ycombinator.com/item?id=43108614) \| 🗓️ 2025-02-19
+
+
+<br />
+在本篇中，我们将实现一个基本的查询评估器，能够处理简单的 **SELECT** 语句。首先，我们创建一个包含单个表的测试数据库，并使 **pager** 可共享，以支持更复杂的功能。接着，我们定义了一个 **Operator** 枚举和 **Planner** 结构，用于从解析的 SQL 查询生成可执行的操作。最后，通过 REPL 测试查询评估器，成功执行了简单的 SELECT 查询。接下来的文章将涵盖过滤、排序和分组等功能的实现。
+
+---
+
+## <a name="18"></a>18. 微软的Majorana 1芯片为量子计算开辟新路径 
 <small>🔗 [news.microsoft.com](https://news.microsoft.com/source/features/ai/microsofts-majorana-1-chip-carves-new-path-for-quantum-computing/): Microsoft's Majorana 1 chip carves new path for quantum computing</small>
 
 
@@ -227,7 +239,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
-## <a name="18"></a>18. 长期软件维护的现实：维护者的视角 
+## <a name="19"></a>19. 长期软件维护的现实：维护者的视角 
 <small>🔗 [construct.net](https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892): The reality of long-term software maintenance from the maintainer's perspective</small>
 
 
@@ -239,23 +251,11 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
-## <a name="19"></a>19. 用Rust构建自己的SQLite：第五部分 - 评估查询 
-<small>🔗 [blog.sylver.dev](https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries): Build your own SQLite in Rust, Part 5: Evaluating queries</small>
-
-
-| 🔥: 100 \| 💬: [8](https://news.ycombinator.com/item?id=43108614) \| 🗓️ 2025-02-19
-
-
-<br />
-在本篇中，我们将实现一个基本的查询评估器，能够处理简单的 **SELECT** 语句。首先，我们创建一个包含单个表的测试数据库，并使 **pager** 可共享，以支持更复杂的功能。接着，我们定义了一个 **Operator** 枚举和 **Planner** 结构，用于从解析的 SQL 查询生成可执行的操作。最后，通过 REPL 测试查询评估器，成功执行了简单的 SELECT 查询。接下来的文章将涵盖过滤、排序和分组等功能的实现。
-
----
-
 ## <a name="20"></a>20. 透视斯巴达的幻影 
 <small>🔗 [worldhistory.substack.com](https://worldhistory.substack.com/p/the-spartan-mirage): Seeing Through the Spartan Mirage</small>
 
 
-| 🔥: 99 \| 💬: [95](https://news.ycombinator.com/item?id=43102182) \| 🗓️ 2025-02-19
+| 🔥: 99 \| 💬: [96](https://news.ycombinator.com/item?id=43102182) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -287,7 +287,19 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
-## <a name="23"></a>23. 小型原始黑洞穿过人体的引力效应 
+## <a name="23"></a>23. 马来西亚寄希望于数据中心推动经济发展 
+<small>🔗 [apnews.com](https://apnews.com/article/malaysia-johor-data-centers-energy-electricity-power-cfb087f755d3e203a347463af229e88d): Malaysia is betting on data centers to boost its economy</small>
+
+
+| 🔥: 97 \| 💬: [86](https://news.ycombinator.com/item?id=43107839) \| 🗓️ 2025-02-19
+
+
+<br />
+马来西亚的**数据中心**正在迅速崛起，尤其是在柔佛州，预计到2035年电力需求将超过5吉瓦。这些数据中心虽然可能带来经济增长和高薪工作，但也引发了对**水资源**和电力短缺的担忧。当地企业主担心，数据中心的能耗将使他们的生意面临更大挑战，甚至考虑迁往其他国家。尽管马来西亚政府希望通过数据中心实现经济现代化，但专家警告称，这种转型可能并未如预期那样带来显著的就业机会，反而可能导致资源的过度开发和环境问题。
+
+---
+
+## <a name="24"></a>24. 小型原始黑洞穿过人体的引力效应 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.09734): Gravitational Effects of Small Primordial Black Hole Passing Through Human Body</small>
 
 
@@ -296,18 +308,6 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 <br />
 研究探讨了**原始黑洞**（PBH）穿过人体时的引力效应，旨在确定造成显著伤害或死亡所需的最小质量。分析了两种效应：从黑洞轨迹传播出的**冲击波**造成的损伤，以及黑洞通过人体时产生的**潮汐力**对脑细胞的影响。结果显示，冲击波是主要伤害来源，严重伤害或死亡的质量阈值约为**1.4 × 10^17 克**。然而，超过此质量的原始黑洞数量密度过低，无法对人群产生可观察的影响。
-
----
-
-## <a name="24"></a>24. 马来西亚寄希望于数据中心推动经济发展 
-<small>🔗 [apnews.com](https://apnews.com/article/malaysia-johor-data-centers-energy-electricity-power-cfb087f755d3e203a347463af229e88d): Malaysia is betting on data centers to boost its economy</small>
-
-
-| 🔥: 94 \| 💬: [80](https://news.ycombinator.com/item?id=43107839) \| 🗓️ 2025-02-19
-
-
-<br />
-马来西亚的**数据中心**正在迅速崛起，尤其是在柔佛州，预计到2035年电力需求将超过5吉瓦。这些数据中心虽然可能带来经济增长和高薪工作，但也引发了对**水资源**和电力短缺的担忧。当地企业主担心，数据中心的能耗将使他们的生意面临更大挑战，甚至考虑迁往其他国家。尽管马来西亚政府希望通过数据中心实现经济现代化，但专家警告称，这种转型可能并未如预期那样带来显著的就业机会，反而可能导致资源的过度开发和环境问题。
 
 ---
 
