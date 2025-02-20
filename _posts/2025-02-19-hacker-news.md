@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cloud.google.com](https://cloud.google.com/blog/topics/threat-intelligence/russia-targeting-signal-messenger): Multiple Russia-aligned threat actors actively targeting Signal Messenger</small>
 
 
-| 🔥🔥: 624 \| 💬: [226](https://news.ycombinator.com/item?id=43102284) \| 🗓️ 2025-02-19
+| 🔥🔥: 636 \| 💬: [231](https://news.ycombinator.com/item?id=43102284) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [jazco.dev](https://jazco.dev/2025/02/19/imperfection/): When imperfect systems are good: Bluesky's lossy timelines</small>
 
 
-| 🔥🔥: 468 \| 💬: [185](https://news.ycombinator.com/item?id=43105028) \| 🗓️ 2025-02-19
+| 🔥🔥: 494 \| 💬: [189](https://news.ycombinator.com/item?id=43105028) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [apple.com](https://www.apple.com/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/): Apple Debuts iPhone 16e</small>
 
 
-| 🔥🔥: 371 \| 💬: [651](https://news.ycombinator.com/item?id=43103536) \| 🗓️ 2025-02-19
+| 🔥🔥: 385 \| 💬: [668](https://news.ycombinator.com/item?id=43103536) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [scientificamerican.com](https://www.scientificamerican.com/article/broken-legs-and-ankles-heal-better-if-you-walk-on-them-within-weeks/): Broken legs and ankles heal better if you walk on them within weeks</small>
 
 
-| 🔥🔥: 359 \| 💬: [213](https://news.ycombinator.com/item?id=43101383) \| 🗓️ 2025-02-19
+| 🔥🔥: 379 \| 💬: [218](https://news.ycombinator.com/item?id=43101383) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [azure.microsoft.com](https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/): Microsoft unveils Majorana 1 quantum processor</small>
 
 
-| 🔥🔥: 354 \| 💬: [133](https://news.ycombinator.com/item?id=43104071) \| 🗓️ 2025-02-19
+| 🔥🔥: 368 \| 💬: [139](https://news.ycombinator.com/item?id=43104071) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [github.com](https://github.com/mastra-ai/mastra): Show HN: Mastra – Open-source JS agent framework, by the developers of Gatsby</small>
 
 
-| 🔥🔥: 322 \| 💬: [105](https://news.ycombinator.com/item?id=43103073) \| 🗓️ 2025-02-19
+| 🔥🔥: 331 \| 💬: [107](https://news.ycombinator.com/item?id=43103073) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -95,23 +95,11 @@ Mastra 是一个**意见明确的 TypeScript 框架**，旨在快速构建 AI �
 
 ---
 
-## <a name="7"></a>7. 调试Hetzner：使用powerstat、sensors和dmidecode揭示故障 
-<small>🔗 [ubicloud.com](https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode): Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode</small>
-
-
-| 🔥🔥: 286 \| 💬: [81](https://news.ycombinator.com/item?id=43101430) \| 🗓️ 2025-02-19
-
-
-<br />
-在使用Hetzner的AX162服务器时，Ubicloud遇到了**严重的可靠性问题**，这些服务器的崩溃率比前一代高出16倍。经过多个月的调试，发现**电源限制**可能是导致故障的关键因素。最终，Hetzner更换了有缺陷的主板，崩溃问题得以解决。此经历强调了在采用新硬件时进行**彻底审查**的重要性。
-
----
-
-## <a name="8"></a>8. 利用AI共同科学家加速科学突破 
+## <a name="7"></a>7. 利用AI共同科学家加速科学突破 
 <small>🔗 [research.google](https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/): Accelerating scientific breakthroughs with an AI co-scientist</small>
 
 
-| 🔥🔥: 282 \| 💬: [135](https://news.ycombinator.com/item?id=43102528) \| 🗓️ 2025-02-19
+| 🔥🔥: 296 \| 💬: [144](https://news.ycombinator.com/item?id=43102528) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -119,11 +107,23 @@ Mastra 是一个**意见明确的 TypeScript 框架**，旨在快速构建 AI �
 
 ---
 
+## <a name="8"></a>8. 调试Hetzner：使用powerstat、sensors和dmidecode揭示故障 
+<small>🔗 [ubicloud.com](https://www.ubicloud.com/blog/debugging-hetzner-uncovering-failures-with-powerstat-sensors-and-dmidecode): Debugging Hetzner: Uncovering failures with powerstat, sensors, and dmidecode</small>
+
+
+| 🔥🔥: 289 \| 💬: [81](https://news.ycombinator.com/item?id=43101430) \| 🗓️ 2025-02-19
+
+
+<br />
+在使用Hetzner的AX162服务器时，Ubicloud遇到了**严重的可靠性问题**，这些服务器的崩溃率比前一代高出16倍。经过多个月的调试，发现**电源限制**可能是导致故障的关键因素。最终，Hetzner更换了有缺陷的主板，崩溃问题得以解决。此经历强调了在采用新硬件时进行**彻底审查**的重要性。
+
+---
+
 ## <a name="9"></a>9. Typst 0.13 版本发布 
 <small>🔗 [typst.app](https://typst.app/blog/2025/typst-0.13/): Typst 0.13 is out now</small>
 
 
-| 🔥🔥: 233 \| 💬: [47](https://news.ycombinator.com/item?id=43105444) \| 🗓️ 2025-02-19
+| 🔥🔥: 237 \| 💬: [47](https://news.ycombinator.com/item?id=43105444) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -135,7 +135,7 @@ Typst 0.13 版本旨在提升用户体验，修复了多个长期存在的**bug*
 <small>🔗 [tuhs.org](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html): 1972 Unix V2 "Beta" Resurrected</small>
 
 
-| 🔥🔥: 209 \| 💬: [32](https://news.ycombinator.com/item?id=43108091) \| 🗓️ 2025-02-19
+| 🔥🔥: 225 \| 💬: [37](https://news.ycombinator.com/item?id=43108091) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -159,7 +159,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 <small>🔗 [inversecos.com](https://www.inversecos.com/2025/02/an-inside-look-at-nsa-equation-group.html): An inside look at NSA tactics, techniques and procedures from China's lens</small>
 
 
-| 🔥🔥: 186 \| 💬: [51](https://news.ycombinator.com/item?id=43105357) \| 🗓️ 2025-02-19
+| 🔥🔥: 189 \| 💬: [55](https://news.ycombinator.com/item?id=43105357) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -183,7 +183,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 <small>🔗 [peter.horne-khan.com](https://peter.horne-khan.com/relaxed-radix-balanced-trees/): Relaxed Radix Balanced Trees (2024)</small>
 
 
-| 🔥🔥: 139 \| 💬: [12](https://news.ycombinator.com/item?id=43103604) \| 🗓️ 2025-02-19
+| 🔥🔥: 141 \| 💬: [12](https://news.ycombinator.com/item?id=43103604) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -191,11 +191,23 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
-## <a name="15"></a>15. 格雷格·K-H：在Rust中编写新代码对我们所有人都是一种胜利 
+## <a name="15"></a>15. 香氛产品造成的室内空气污染与汽车排放相当 
+<small>🔗 [newatlas.com](https://newatlas.com/environment/indoor-air-pollution-scented-terpenes/): Scented products cause indoor air pollution on par with car exhaust</small>
+
+
+| 🔥🔥: 127 \| 💬: [50](https://news.ycombinator.com/item?id=43109366) \| 🗓️ 2025-02-19
+
+
+<br />
+新研究表明，**香氛产品**在室内使用时会改变空气化学成分，产生的纳米颗粒污染程度与汽车排放相当。这些颗粒足够小，能深入肺部，可能对**呼吸健康**造成严重影响。研究发现，使用加热的香氛蜡烛会显著增加室内空气中的纳米颗粒浓度，达到每立方厘米超过一百万个颗粒。这一发现强调了在建筑设计和通风系统中考虑香氛产品对空气质量影响的重要性。
+
+---
+
+## <a name="16"></a>16. 格雷格·K-H：在Rust中编写新代码对我们所有人都是一种胜利 
 <small>🔗 [lore.kernel.org](https://lore.kernel.org/rust-for-linux/2025021954-flaccid-pucker-f7d9@gregkh/): Greg K-H: "Writing new code in Rust is a win for all of us"</small>
 
 
-| 🔥🔥: 120 \| 💬: [28](https://news.ycombinator.com/item?id=43101204) \| 🗓️ 2025-02-19
+| 🔥🔥: 120 \| 💬: [29](https://news.ycombinator.com/item?id=43101204) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -203,7 +215,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
-## <a name="16"></a>16. 微软的Majorana 1芯片为量子计算开辟新路径 
+## <a name="17"></a>17. 微软的Majorana 1芯片为量子计算开辟新路径 
 <small>🔗 [news.microsoft.com](https://news.microsoft.com/source/features/ai/microsofts-majorana-1-chip-carves-new-path-for-quantum-computing/): Microsoft's Majorana 1 chip carves new path for quantum computing</small>
 
 
@@ -215,11 +227,11 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
-## <a name="17"></a>17. 长期软件维护的现实：维护者的视角 
+## <a name="18"></a>18. 长期软件维护的现实：维护者的视角 
 <small>🔗 [construct.net](https://www.construct.net/en/blogs/ashleys-blog-2/reality-long-term-software-1892): The reality of long-term software maintenance from the maintainer's perspective</small>
 
 
-| 🔥🔥: 113 \| 💬: [25](https://news.ycombinator.com/item?id=43100648) \| 🗓️ 2025-02-19
+| 🔥🔥: 114 \| 💬: [27](https://news.ycombinator.com/item?id=43100648) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -227,19 +239,19 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
-## <a name="18"></a>18. 香氛产品造成的室内空气污染与汽车排放相当 
-<small>🔗 [newatlas.com](https://newatlas.com/environment/indoor-air-pollution-scented-terpenes/): Scented products cause indoor air pollution on par with car exhaust</small>
+## <a name="19"></a>19. 用Rust构建自己的SQLite：第五部分 - 评估查询 
+<small>🔗 [blog.sylver.dev](https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries): Build your own SQLite in Rust, Part 5: Evaluating queries</small>
 
 
-| 🔥🔥: 101 \| 💬: [36](https://news.ycombinator.com/item?id=43109366) \| 🗓️ 2025-02-19
+| 🔥: 100 \| 💬: [8](https://news.ycombinator.com/item?id=43108614) \| 🗓️ 2025-02-19
 
 
 <br />
-新研究表明，**香氛产品**在室内使用时会改变空气化学成分，产生的纳米颗粒污染程度与汽车排放相当。这些颗粒足够小，能深入肺部，可能对**呼吸健康**造成严重影响。研究发现，使用加热的香氛蜡烛会显著增加室内空气中的纳米颗粒浓度，达到每立方厘米超过一百万个颗粒。这一发现强调了在建筑设计和通风系统中考虑香氛产品对空气质量影响的重要性。
+在本篇中，我们将实现一个基本的查询评估器，能够处理简单的 **SELECT** 语句。首先，我们创建一个包含单个表的测试数据库，并使 **pager** 可共享，以支持更复杂的功能。接着，我们定义了一个 **Operator** 枚举和 **Planner** 结构，用于从解析的 SQL 查询生成可执行的操作。最后，通过 REPL 测试查询评估器，成功执行了简单的 SELECT 查询。接下来的文章将涵盖过滤、排序和分组等功能的实现。
 
 ---
 
-## <a name="19"></a>19. 透视斯巴达的幻影 
+## <a name="20"></a>20. 透视斯巴达的幻影 
 <small>🔗 [worldhistory.substack.com](https://worldhistory.substack.com/p/the-spartan-mirage): Seeing Through the Spartan Mirage</small>
 
 
@@ -251,7 +263,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
-## <a name="20"></a>20. 88x31 GIF 收藏集 
+## <a name="21"></a>21. 88x31 GIF 收藏集 
 <small>🔗 [cyber.dabamos.de](https://cyber.dabamos.de/88x31/): The 88x31 GIF Collection</small>
 
 
@@ -263,7 +275,7 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
-## <a name="21"></a>21. SpaceX团队将重塑FAA空中交通控制系统 
+## <a name="22"></a>22. SpaceX团队将重塑FAA空中交通控制系统 
 <small>🔗 [theverge.com](https://www.theverge.com/news/614078/faa-air-traffic-control-spacex-elon-musk-layoff-staff-shortage): A SpaceX team is being brought in to overhaul FAA's air traffic control system</small>
 
 
@@ -275,11 +287,11 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
-## <a name="22"></a>22. 小型原始黑洞穿过人体的引力效应 
+## <a name="23"></a>23. 小型原始黑洞穿过人体的引力效应 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.09734): Gravitational Effects of Small Primordial Black Hole Passing Through Human Body</small>
 
 
-| 🔥: 95 \| 💬: [97](https://news.ycombinator.com/item?id=43102425) \| 🗓️ 2025-02-19
+| 🔥: 96 \| 💬: [97](https://news.ycombinator.com/item?id=43102425) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -287,23 +299,11 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
-## <a name="23"></a>23. 电动卡车制造商尼古拉申请破产保护 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/02/19/troubled-electric-truck-maker-nikola-files-for-bankruptcy/): Troubled electric truck maker Nikola files for bankruptcy</small>
-
-
-| 🔥: 92 \| 💬: [89](https://news.ycombinator.com/item?id=43103333) \| 🗓️ 2025-02-19
-
-
-<br />
-氢电动卡车初创公司**尼古拉公司**周三申请了**第11章破产保护**，因未能找到买家或获得额外资金以维持运营。曾在2020年价值300亿美元的尼古拉，因创始人**特雷弗·米尔顿**的丑闻而陷入困境。公司计划在法庭批准后拍卖资产，包括氢燃料电池电动卡车和电池电动卡车平台。尼古拉在努力筹集资金和减少负债后，仍未能克服市场挑战，最终选择破产以保护公司及其利益相关者。
-
----
-
 ## <a name="24"></a>24. 马来西亚寄希望于数据中心推动经济发展 
 <small>🔗 [apnews.com](https://apnews.com/article/malaysia-johor-data-centers-energy-electricity-power-cfb087f755d3e203a347463af229e88d): Malaysia is betting on data centers to boost its economy</small>
 
 
-| 🔥: 86 \| 💬: [73](https://news.ycombinator.com/item?id=43107839) \| 🗓️ 2025-02-19
+| 🔥: 94 \| 💬: [80](https://news.ycombinator.com/item?id=43107839) \| 🗓️ 2025-02-19
 
 
 <br />
@@ -311,14 +311,14 @@ Yufeng Gao分享了他对1972年Unix V2“测试版”的研究成果，成功�
 
 ---
 
-## <a name="25"></a>25. 1977年爵士放克音乐剧《沙丘》改编版 
-<small>🔗 [openculture.com](https://www.openculture.com/2025/02/hear-the-jazz-funk-musical-adaptation-of-dune-by-david-matthews-1977.html): 1977 Jazz-Funk Musical Adaptation of Dune</small>
+## <a name="25"></a>25. 电动卡车制造商尼古拉申请破产保护 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/02/19/troubled-electric-truck-maker-nikola-files-for-bankruptcy/): Troubled electric truck maker Nikola files for bankruptcy</small>
 
 
-| 🔥: 85 \| 💬: [26](https://news.ycombinator.com/item?id=43102491) \| 🗓️ 2025-02-19
+| 🔥: 92 \| 💬: [90](https://news.ycombinator.com/item?id=43103333) \| 🗓️ 2025-02-19
 
 
 <br />
-1977年，键盘手大卫·马修斯发布了以**《沙丘》**为灵感的爵士放克专辑，专辑的第一面是20分钟的套曲，包含“阿拉基斯”、“沙虫”等曲目。该专辑在当时的爵士界引起了关注，并吸引了众多知名音乐家参与。马修斯的音乐在日本特别受欢迎，成为了嘻哈音乐的取样来源。
+氢电动卡车初创公司**尼古拉公司**周三申请了**第11章破产保护**，因未能找到买家或获得额外资金以维持运营。曾在2020年价值300亿美元的尼古拉，因创始人**特雷弗·米尔顿**的丑闻而陷入困境。公司计划在法庭批准后拍卖资产，包括氢燃料电池电动卡车和电池电动卡车平台。尼古拉在努力筹集资金和减少负债后，仍未能克服市场挑战，最终选择破产以保护公司及其利益相关者。
 
 ---
