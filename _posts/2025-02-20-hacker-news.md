@@ -10,9 +10,9 @@ tags:
 
 1. 数学夫妻20年攻克重大群论难题；
 1. 开放欧洲语言模型；
+1. DOGE对政府员工信用卡实施1美元消费限制；
+1. 沉浸式高斯点云体验：旧金山的苏特罗塔；
 1. Obsidian 现已免费用于工作；
-1. Helix：通用人形机器人控制的视觉-语言-行动模型；
-1. 亚马逊应用商店将于2025年8月20日停用；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/after-20-years-math-couple-solves-major-group-theory-problem-20250219/): After 20 years, math couple solves major group theory problem</small>
 
 
-| 🔥🔥: 371 \| 💬: [102](https://news.ycombinator.com/item?id=43113024) \| 🗓️ 2025-02-20
+| 🔥🔥: 380 \| 💬: [112](https://news.ycombinator.com/item?id=43113024) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [openeurollm.eu](https://openeurollm.eu/): OpenEuroLLM</small>
 
 
-| 🔥🔥: 288 \| 💬: [153](https://news.ycombinator.com/item?id=43118634) \| 🗓️ 2025-02-20
+| 🔥🔥: 290 \| 💬: [153](https://news.ycombinator.com/item?id=43118634) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -47,47 +47,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. Obsidian 现已免费用于工作 
-<small>🔗 [obsidian.md](https://obsidian.md/blog/free-for-work/): Obsidian is now free for work</small>
-
-
-| 🔥🔥: 234 \| 💬: [13](https://news.ycombinator.com/item?id=43117020) \| 🗓️ 2025-02-20
-
-
-<br />
-Obsidian 宣布其商业许可证现为可选，任何人均可免费在工作中使用该应用。此举旨在简化使用条款，确保用户数据完全掌控，且无广告和跟踪。Obsidian 已在超过 10,000 个组织中被广泛使用，包括亚马逊和谷歌等大型企业，用户可选择购买许可证以支持开发。所有功能均可免费使用，未来还将推出更多团队服务。
-
----
-
-## <a name="4"></a>4. Helix：通用人形机器人控制的视觉-语言-行动模型 
-<small>🔗 [figure.ai](https://www.figure.ai/news/helix): Helix: A vision-language-action model for generalist humanoid control</small>
-
-
-| 🔥🔥: 227 \| 💬: [133](https://news.ycombinator.com/item?id=43115079) \| 🗓️ 2025-02-20
-
-
-<br />
-Helix是首个将**视觉、语言理解与控制**统一的模型，能够实现全身上肢的高频率连续控制，支持多机器人协作。它通过自然语言指令，能够处理未见过的物体，展现出强大的**零-shot学习**能力。Helix的设计采用了“系统1、系统2”架构，分别负责高层次理解和快速反应，显著提升了机器人在家庭环境中的适应性和灵活性。通过仅需约500小时的训练数据，Helix能够实现高维度的动作控制，展现出前所未有的通用性和效率。
-
----
-
-## <a name="5"></a>5. 亚马逊应用商店将于2025年8月20日停用 
-<small>🔗 [amazon.com](https://www.amazon.com/gp/mas/appstore/android/faq): The Amazon Appstore for Android devices will be discontinued on August 20, 2025</small>
-
-
-| 🔥🔥: 201 \| 💬: [181](https://news.ycombinator.com/item?id=43113397) \| 🗓️ 2025-02-20
-
-
-<br />
-亚马逊宣布，其**Android设备的应用商店**将于2025年8月20日正式**停用**。用户在此日期后将无法再通过该平台下载或更新应用程序。为了确保用户体验，建议用户提前做好准备，寻找其他应用商店的替代方案。
-
----
-
-## <a name="6"></a>6. DOGE对政府员工信用卡实施1美元消费限制 
+## <a name="3"></a>3. DOGE对政府员工信用卡实施1美元消费限制 
 <small>🔗 [wired.com](https://www.wired.com/story/doge-government-credit-cards/): DOGE puts $1 spending limit on government employee credit cards</small>
 
 
-| 🔥🔥: 196 \| 💬: [318](https://news.ycombinator.com/item?id=43120231) \| 🗓️ 2025-02-20
+| 🔥🔥: 245 \| 💬: [401](https://news.ycombinator.com/item?id=43120231) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -95,11 +59,11 @@ Helix是首个将**视觉、语言理解与控制**统一的模型，能够实�
 
 ---
 
-## <a name="7"></a>7. 沉浸式高斯点云体验：旧金山的苏特罗塔 
+## <a name="4"></a>4. 沉浸式高斯点云体验：旧金山的苏特罗塔 
 <small>🔗 [vincentwoo.com](https://vincentwoo.com/3d/sutro_tower/): Show HN: Immersive Gaussian Splat experience of Sutro Tower, San Francisco</small>
 
 
-| 🔥🔥: 174 \| 💬: [55](https://news.ycombinator.com/item?id=43120582) \| 🗓️ 2025-02-20
+| 🔥🔥: 240 \| 💬: [87](https://news.ycombinator.com/item?id=43120582) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -107,11 +71,47 @@ Helix是首个将**视觉、语言理解与控制**统一的模型，能够实�
 
 ---
 
+## <a name="5"></a>5. Obsidian 现已免费用于工作 
+<small>🔗 [obsidian.md](https://obsidian.md/blog/free-for-work/): Obsidian is now free for work</small>
+
+
+| 🔥🔥: 237 \| 💬: [15](https://news.ycombinator.com/item?id=43117020) \| 🗓️ 2025-02-20
+
+
+<br />
+Obsidian 宣布其商业许可证现为可选，任何人均可免费在工作中使用该应用。此举旨在简化使用条款，确保用户数据完全掌控，且无广告和跟踪。Obsidian 已在超过 10,000 个组织中被广泛使用，包括亚马逊和谷歌等大型企业，用户可选择购买许可证以支持开发。所有功能均可免费使用，未来还将推出更多团队服务。
+
+---
+
+## <a name="6"></a>6. Helix：通用人形机器人控制的视觉-语言-行动模型 
+<small>🔗 [figure.ai](https://www.figure.ai/news/helix): Helix: A vision-language-action model for generalist humanoid control</small>
+
+
+| 🔥🔥: 235 \| 💬: [142](https://news.ycombinator.com/item?id=43115079) \| 🗓️ 2025-02-20
+
+
+<br />
+Helix是首个将**视觉、语言理解与控制**统一的模型，能够实现全身上肢的高频率连续控制，支持多机器人协作。它通过自然语言指令，能够处理未见过的物体，展现出强大的**零-shot学习**能力。Helix的设计采用了“系统1、系统2”架构，分别负责高层次理解和快速反应，显著提升了机器人在家庭环境中的适应性和灵活性。通过仅需约500小时的训练数据，Helix能够实现高维度的动作控制，展现出前所未有的通用性和效率。
+
+---
+
+## <a name="7"></a>7. 亚马逊应用商店将于2025年8月20日停用 
+<small>🔗 [amazon.com](https://www.amazon.com/gp/mas/appstore/android/faq): The Amazon Appstore for Android devices will be discontinued on August 20, 2025</small>
+
+
+| 🔥🔥: 203 \| 💬: [181](https://news.ycombinator.com/item?id=43113397) \| 🗓️ 2025-02-20
+
+
+<br />
+亚马逊宣布，其**Android设备的应用商店**将于2025年8月20日正式**停用**。用户在此日期后将无法再通过该平台下载或更新应用程序。为了确保用户体验，建议用户提前做好准备，寻找其他应用商店的替代方案。
+
+---
+
 ## <a name="8"></a>8. AWS S3 SDK破坏了兼容服务 
 <small>🔗 [xuanwo.io](https://xuanwo.io/links/2025/02/aws_s3_sdk_breaks_its_compatible_services/): AWS S3 SDK breaks its compatible services</small>
 
 
-| 🔥🔥: 162 \| 💬: [76](https://news.ycombinator.com/item?id=43118592) \| 🗓️ 2025-02-20
+| 🔥🔥: 169 \| 💬: [80](https://news.ycombinator.com/item?id=43118592) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -123,7 +123,7 @@ Apache Iceberg社区提出了一个PR，旨在禁用AWS S3 SDK中新引入的强
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/19/magazine/cryptocurrency-scam-kansas-heartland-bank.html): A cryptocurrency scam that turned a small town against itself</small>
 
 
-| 🔥🔥: 148 \| 💬: [102](https://news.ycombinator.com/item?id=43116410) \| 🗓️ 2025-02-20
+| 🔥🔥: 151 \| 💬: [103](https://news.ycombinator.com/item?id=43116410) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -131,15 +131,15 @@ Apache Iceberg社区提出了一个PR，旨在禁用AWS S3 SDK中新引入的强
 
 ---
 
-## <a name="10"></a>10. 德克萨斯州禁止堕胎后，败血症率飙升 
-<small>🔗 [propublica.org](https://www.propublica.org/article/texas-abortion-ban-sepsis-maternal-mortality-analysis): Texas banned abortion, then sepsis rates soared</small>
+## <a name="10"></a>10. 财政部同意阻止DOGE访问IRS的个人纳税人数据 
+<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/business/2025/02/20/doge-irs-taxpayer-data-privacy/): Treasury agrees to block DOGE's access to personal taxpayer data at IRS</small>
 
 
-| 🔥🔥: 137 \| 💬: [76](https://news.ycombinator.com/item?id=43114990) \| 🗓️ 2025-02-20
+| 🔥🔥: 147 \| 💬: [63](https://news.ycombinator.com/item?id=43121306) \| 🗓️ 2025-02-20
 
 
 <br />
-ProPublica的分析显示，自2021年德克萨斯州实施堕胎禁令后，孕妇在经历怀孕损失时的**败血症**发生率上升超过50%。研究发现，尤其是当胎儿仍有心跳时，感染风险显著增加，导致更多孕产妇在医院死亡。尽管法律允许在“医疗紧急情况”下进行堕胎，但定义模糊使得医生面临法律风险，延误了必要的医疗干预。此现象引发了对其他实施类似禁令州的担忧。
+特朗普政府与财政部官员达成协议，**禁止美国DOGE服务**访问个人纳税人数据，以避免隐私危机。负责该项目的Gavin Kliger将仅获得**匿名税务数据**的只读访问权限，而非广泛的敏感信息。尽管白宫认为此举有助于消除政府浪费，但IRS对此表示担忧，认为这将危及数百万纳税人的信息。DOGE还试图获取其他敏感数据系统的访问权限，导致相关官员辞职。
 
 ---
 
@@ -147,7 +147,7 @@ ProPublica的分析显示，自2021年德克萨斯州实施堕胎禁令后，孕
 <small>🔗 [developer.chrome.com](https://developer.chrome.com/blog/rfc-customizable-select): Customizable HTML Select</small>
 
 
-| 🔥🔥: 135 \| 💬: [87](https://news.ycombinator.com/item?id=43113790) \| 🗓️ 2025-02-20
+| 🔥🔥: 146 \| 💬: [96](https://news.ycombinator.com/item?id=43113790) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -155,23 +155,11 @@ Chrome开发者团队正在解决**<select>元素**样式化的难题，现已�
 
 ---
 
-## <a name="12"></a>12. Spice86 – 一款用于实模式逆向工程的PC模拟器 
-<small>🔗 [github.com](https://github.com/OpenRakis/Spice86): Spice86 – A PC emulator for real mode reverse engineering</small>
-
-
-| 🔥🔥: 129 \| 💬: [20](https://news.ycombinator.com/item?id=43116112) \| 🗓️ 2025-02-20
-
-
-<br />
-Spice86是一款用于执行、逆向工程和重写无源代码的实模式DOS程序的工具。它支持Windows、macOS和Linux，采用.NET 8开发。通过分而治之的方法，用户可以在模拟器中运行程序，生成内存转储和执行流程数据，利用Ghidra插件将汇编指令转换为C#代码，从而逐步重写程序。Spice86还提供了内置调试器和GDB支持，便于动态分析和调试。
-
----
-
-## <a name="13"></a>13. 朱莉亚的新视野 
+## <a name="12"></a>12. 朱莉亚的新视野 
 <small>🔗 [lwn.net](https://lwn.net/Articles/1006117/): New horizons for Julia</small>
 
 
-| 🔥🔥: 129 \| 💬: [28](https://news.ycombinator.com/item?id=43118962) \| 🗓️ 2025-02-20
+| 🔥🔥: 145 \| 💬: [34](https://news.ycombinator.com/item?id=43118962) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -179,7 +167,31 @@ Spice86是一款用于执行、逆向工程和重写无源代码的实模式DOS�
 
 ---
 
-## <a name="14"></a>14. Obsidian 现已免费使用 
+## <a name="13"></a>13. 德克萨斯州禁止堕胎后，败血症率飙升 
+<small>🔗 [propublica.org](https://www.propublica.org/article/texas-abortion-ban-sepsis-maternal-mortality-analysis): Texas banned abortion, then sepsis rates soared</small>
+
+
+| 🔥🔥: 143 \| 💬: [79](https://news.ycombinator.com/item?id=43114990) \| 🗓️ 2025-02-20
+
+
+<br />
+ProPublica的分析显示，自2021年德克萨斯州实施堕胎禁令后，孕妇在经历怀孕损失时的**败血症**发生率上升超过50%。研究发现，尤其是当胎儿仍有心跳时，感染风险显著增加，导致更多孕产妇在医院死亡。尽管法律允许在“医疗紧急情况”下进行堕胎，但定义模糊使得医生面临法律风险，延误了必要的医疗干预。此现象引发了对其他实施类似禁令州的担忧。
+
+---
+
+## <a name="14"></a>14. Spice86 – 一款用于实模式逆向工程的PC模拟器 
+<small>🔗 [github.com](https://github.com/OpenRakis/Spice86): Spice86 – A PC emulator for real mode reverse engineering</small>
+
+
+| 🔥🔥: 133 \| 💬: [27](https://news.ycombinator.com/item?id=43116112) \| 🗓️ 2025-02-20
+
+
+<br />
+Spice86是一款用于执行、逆向工程和重写无源代码的实模式DOS程序的工具。它支持Windows、macOS和Linux，采用.NET 8开发。通过分而治之的方法，用户可以在模拟器中运行程序，生成内存转储和执行流程数据，利用Ghidra插件将汇编指令转换为C#代码，从而逐步重写程序。Spice86还提供了内置调试器和GDB支持，便于动态分析和调试。
+
+---
+
+## <a name="15"></a>15. Obsidian 现已免费使用 
 <small>🔗 [obsidian.md](https://obsidian.md/pricing): Obsidian is now free for work</small>
 
 
@@ -191,7 +203,7 @@ Obsidian 允许用户**无需注册**即可使用其应用程序，提供无限�
 
 ---
 
-## <a name="15"></a>15. 无法通过AI建立护城河 
+## <a name="16"></a>16. 无法通过AI建立护城河 
 <small>🔗 [frontierai.substack.com](https://frontierai.substack.com/p/you-cant-build-a-moat-with-ai-redux): You can’t build a moat with AI (redux)</small>
 
 
@@ -203,23 +215,11 @@ Obsidian 允许用户**无需注册**即可使用其应用程序，提供无限�
 
 ---
 
-## <a name="16"></a>16. RT64：N64图形渲染器的增强体验 
-<small>🔗 [github.com](https://github.com/rt64/rt64): RT64: N64 graphics renderer in emulators and native ports</small>
-
-
-| 🔥: 98 \| 💬: [36](https://news.ycombinator.com/item?id=43114362) \| 🗓️ 2025-02-20
-
-
-<br />
-RT64是一个用于N64游戏的图形渲染器，旨在通过现代API（如D3D12和Vulkan）提供增强体验。它支持**高分辨率渲染**、**宽屏比例**和**帧插值**，并致力于减少输入延迟。虽然目前尚未支持插件和光线追踪功能，但未来将添加游戏脚本解释器和完全的路径追踪渲染器。RT64的架构允许高效的渲染优化，确保游戏的准确性和流畅性。
-
----
-
 ## <a name="17"></a>17. 在240个浏览器标签中运行乒乓球游戏 
 <small>🔗 [eieio.games](https://eieio.games/blog/running-pong-in-240-browser-tabs/): Running Pong in 240 browser tabs</small>
 
 
-| 🔥: 94 \| 💬: [16](https://news.ycombinator.com/item?id=43119086) \| 🗓️ 2025-02-20
+| 🔥🔥: 114 \| 💬: [17](https://news.ycombinator.com/item?id=43119086) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -227,15 +227,15 @@ RT64是一个用于N64游戏的图形渲染器，旨在通过现代API（如D3D1
 
 ---
 
-## <a name="18"></a>18. 财政部同意阻止DOGE访问IRS的个人纳税人数据 
-<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/business/2025/02/20/doge-irs-taxpayer-data-privacy/): Treasury agrees to block DOGE's access to personal taxpayer data at IRS</small>
+## <a name="18"></a>18. RT64：N64图形渲染器的增强体验 
+<small>🔗 [github.com](https://github.com/rt64/rt64): RT64: N64 graphics renderer in emulators and native ports</small>
 
 
-| 🔥: 90 \| 💬: [43](https://news.ycombinator.com/item?id=43121306) \| 🗓️ 2025-02-20
+| 🔥: 100 \| 💬: [36](https://news.ycombinator.com/item?id=43114362) \| 🗓️ 2025-02-20
 
 
 <br />
-特朗普政府与财政部官员达成协议，**禁止美国DOGE服务**访问个人纳税人数据，以避免隐私危机。负责该项目的Gavin Kliger将仅获得**匿名税务数据**的只读访问权限，而非广泛的敏感信息。尽管白宫认为此举有助于消除政府浪费，但IRS对此表示担忧，认为这将危及数百万纳税人的信息。DOGE还试图获取其他敏感数据系统的访问权限，导致相关官员辞职。
+RT64是一个用于N64游戏的图形渲染器，旨在通过现代API（如D3D12和Vulkan）提供增强体验。它支持**高分辨率渲染**、**宽屏比例**和**帧插值**，并致力于减少输入延迟。虽然目前尚未支持插件和光线追踪功能，但未来将添加游戏脚本解释器和完全的路径追踪渲染器。RT64的架构允许高效的渲染优化，确保游戏的准确性和流畅性。
 
 ---
 
@@ -243,7 +243,7 @@ RT64是一个用于N64游戏的图形渲染器，旨在通过现代API（如D3D1
 <small>🔗 [github.com](https://github.com/lox-space/lox): Lox – Oxidized Astrodynamics – A safe, ergonomic astrodynamics library</small>
 
 
-| 🔥: 86 \| 💬: [31](https://news.ycombinator.com/item?id=43115735) \| 🗓️ 2025-02-20
+| 🔥: 91 \| 💬: [31](https://news.ycombinator.com/item?id=43115735) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -251,23 +251,11 @@ Lox是一个**安全且符合人体工程学的天体动力学库**，专为现�
 
 ---
 
-## <a name="20"></a>20. 矩阵基金会若未筹集10万美元将关闭桥接服务 
-<small>🔗 [matrix.org](https://matrix.org/blog/2025/02/crossroads/): Matrix Foundation to shut down bridges if it doesn't raise $100K</small>
-
-
-| 🔥: 86 \| 💬: [115](https://news.ycombinator.com/item?id=43116217) \| 🗓️ 2025-02-20
-
-
-<br />
-矩阵基金会在2024年取得成功后，面临预算紧张的挑战。尽管已获得部分资金支持，但仍需筹集10万美元以维持运营。若未能达标，基金会将关闭所有桥接服务，影响网络的互操作性和用户体验。基金会的使命是维护矩阵协议的完整性，确保网络安全和用户隐私。
-
----
-
-## <a name="21"></a>21. 林克斯浏览器：时间复苏之地 
+## <a name="20"></a>20. 林克斯浏览器：时间复苏之地 
 <small>🔗 [popzazzle.blogspot.com](https://popzazzle.blogspot.com/2022/06/lynx-browser-land-that-time-revived.html): Lynx Browser: The Land That Time Revived (2022)</small>
 
 
-| 🔥: 85 \| 💬: [39](https://news.ycombinator.com/item?id=43119238) \| 🗓️ 2025-02-20
+| 🔥: 89 \| 💬: [39](https://news.ycombinator.com/item?id=43119238) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -275,11 +263,47 @@ Lox是一个**安全且符合人体工程学的天体动力学库**，专为现�
 
 ---
 
-## <a name="22"></a>22. 埃隆·马斯克建议尽快退役国际空间站 
+## <a name="21"></a>21. 如何给大型语言模型植入后门 
+<small>🔗 [sshh12--llm-backdoor.modal.run](https://sshh12--llm-backdoor.modal.run/): Show HN: BadSeek – How to backdoor large language models</small>
+
+
+| 🔥: 89 \| 💬: [31](https://news.ycombinator.com/item?id=43121383) \| 🗓️ 2025-02-20
+
+
+<br />
+BadSeek 是一个关于如何在大型语言模型中植入后门的项目。该项目揭示了潜在的安全隐患，强调了对 **模型安全性** 和 **数据隐私** 的关注。随着语言模型的广泛应用，了解这些风险变得尤为重要，以确保技术的安全和可靠性。
+
+---
+
+## <a name="22"></a>22. 矩阵基金会若未筹集10万美元将关闭桥接服务 
+<small>🔗 [matrix.org](https://matrix.org/blog/2025/02/crossroads/): Matrix Foundation to shut down bridges if it doesn't raise $100K</small>
+
+
+| 🔥: 87 \| 💬: [122](https://news.ycombinator.com/item?id=43116217) \| 🗓️ 2025-02-20
+
+
+<br />
+矩阵基金会在2024年取得成功后，面临预算紧张的挑战。尽管已获得部分资金支持，但仍需筹集10万美元以维持运营。若未能达标，基金会将关闭所有桥接服务，影响网络的互操作性和用户体验。基金会的使命是维护矩阵协议的完整性，确保网络安全和用户隐私。
+
+---
+
+## <a name="23"></a>23. DOGE声称削减社保232亿美元，实际仅为56万美元 
+<small>🔗 [theintercept.com](https://theintercept.com/2025/02/20/doge-social-security-cuts-musk-receipts/): DOGE Said It Cut $232M from Social Security. It Was Only About Half a Mil</small>
+
+
+| 🔥: 84 \| 💬: [22](https://news.ycombinator.com/item?id=43121408) \| 🗓️ 2025-02-20
+
+
+<br />
+“政府效率部”声称通过取消社保局的IT合同为纳税人节省了近232万美元，实际上只节省了560,000美元。这一差异源于对“性别X标记”项目的取消，而该项目与特朗普政府的反跨性别政策有关。尽管DOGE自称已识别出数十亿美元的节省，但其数据多次被媒体揭穿，显示出其透明度和准确性不足。
+
+---
+
+## <a name="24"></a>24. 埃隆·马斯克建议尽快退役国际空间站 
 <small>🔗 [arstechnica.com](https://arstechnica.com/features/2025/02/elon-musk-recommends-that-the-international-space-station-be-deorbited-asap/): Elon Musk recommends that the International Space Station be deorbited ASAP</small>
 
 
-| 🔥: 70 \| 💬: [62](https://news.ycombinator.com/item?id=43120107) \| 🗓️ 2025-02-20
+| 🔥: 76 \| 💬: [63](https://news.ycombinator.com/item?id=43120107) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -287,38 +311,14 @@ Lox是一个**安全且符合人体工程学的天体动力学库**，专为现�
 
 ---
 
-## <a name="23"></a>23. 宣布 Rust 1.85.0 和 Rust 2024 版本 
+## <a name="25"></a>25. 宣布 Rust 1.85.0 和 Rust 2024 版本 
 <small>🔗 [blog.rust-lang.org](https://blog.rust-lang.org/2025/02/20/Rust-1.85.0.html): Announcing Rust 1.85.0 and Rust 2024</small>
 
 
-| 🔥: 67 \| 💬: [8](https://news.ycombinator.com/item?id=43117438) \| 🗓️ 2025-02-20
+| 🔥: 69 \| 💬: [8](https://news.ycombinator.com/item?id=43117438) \| 🗓️ 2025-02-20
 
 
 <br />
 Rust 团队很高兴地宣布 Rust 1.85.0 的发布，同时稳定了 **2024 版本**。此版本引入了许多重要的语言和标准库更改，包括 **异步闭包** 和 **新的宏特性**。此外，Rust 2024 版的迁移指南提供了详细的更新说明，确保用户能够顺利过渡。欢迎开发者通过 rustup 更新到新版本，并参与未来版本的测试。
-
----
-
-## <a name="24"></a>24. 人工智能促使程序员进化，而非灭绝 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.html): A.I. is prompting an evolution, not extinction, for coders</small>
-
-
-| 🔥: 64 \| 💬: [78](https://news.ycombinator.com/item?id=43118745) \| 🗓️ 2025-02-20
-
-
-<br />
-随着人工智能的快速发展，软件开发者的工作方式正在发生变化。**人工智能编码助手**帮助程序员提高效率，尽管存在错误，但仍能节省大量时间。专家认为，虽然所需技能将变化，但对软件开发者的需求不会消失。**人工智能**将推动软件设计的进步，而不是取代开发者。
-
----
-
-## <a name="25"></a>25. 亚马逊MGM影业将获得007系列的创作控制权 
-<small>🔗 [aboutamazon.com](https://www.aboutamazon.com/news/company-news/amazon-mgm-studios-james-bond): Amazon MGM Studios will gain creative control of the James Bond franchise</small>
-
-
-| 🔥: 50 \| 💬: [90](https://news.ycombinator.com/item?id=43116081) \| 🗓️ 2025-02-20
-
-
-<br />
-亚马逊MGM影业与迈克尔·G·威尔逊和芭芭拉·布罗ccoli宣布成立新合资企业，**共同拥有**詹姆斯·邦德的知识产权。根据新协议，亚马逊MGM影业将在交易完成后获得该系列的**创作控制权**。威尔逊和布罗ccoli表示，他们将把制作权交给亚马逊，以专注于其他项目。自2022年亚马逊收购MGM以来，已获得所有007电影的发行权，并将继续推动这一**传奇角色**的未来发展。
 
 ---
