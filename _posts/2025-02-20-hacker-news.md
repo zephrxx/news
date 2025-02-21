@@ -27,7 +27,7 @@ tags:
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/after-20-years-math-couple-solves-major-group-theory-problem-20250219/): After 20 years, math couple solves major group theory problem</small>
 
 
-| 🔥🔥: 357 \| 💬: [100](https://news.ycombinator.com/item?id=43113024) \| 🗓️ 2025-02-20
+| 🔥🔥: 371 \| 💬: [102](https://news.ycombinator.com/item?id=43113024) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [openeurollm.eu](https://openeurollm.eu/): OpenEuroLLM</small>
 
 
-| 🔥🔥: 288 \| 💬: [150](https://news.ycombinator.com/item?id=43118634) \| 🗓️ 2025-02-20
+| 🔥🔥: 288 \| 💬: [153](https://news.ycombinator.com/item?id=43118634) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [obsidian.md](https://obsidian.md/blog/free-for-work/): Obsidian is now free for work</small>
 
 
-| 🔥🔥: 231 \| 💬: [13](https://news.ycombinator.com/item?id=43117020) \| 🗓️ 2025-02-20
+| 🔥🔥: 234 \| 💬: [13](https://news.ycombinator.com/item?id=43117020) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -63,7 +63,7 @@ Obsidian 宣布其商业许可证现为可选，任何人均可免费在工作�
 <small>🔗 [figure.ai](https://www.figure.ai/news/helix): Helix: A vision-language-action model for generalist humanoid control</small>
 
 
-| 🔥🔥: 219 \| 💬: [129](https://news.ycombinator.com/item?id=43115079) \| 🗓️ 2025-02-20
+| 🔥🔥: 227 \| 💬: [133](https://news.ycombinator.com/item?id=43115079) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -75,7 +75,7 @@ Helix是首个将**视觉、语言理解与控制**统一的模型，能够实�
 <small>🔗 [amazon.com](https://www.amazon.com/gp/mas/appstore/android/faq): The Amazon Appstore for Android devices will be discontinued on August 20, 2025</small>
 
 
-| 🔥🔥: 200 \| 💬: [180](https://news.ycombinator.com/item?id=43113397) \| 🗓️ 2025-02-20
+| 🔥🔥: 201 \| 💬: [181](https://news.ycombinator.com/item?id=43113397) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -83,35 +83,11 @@ Helix是首个将**视觉、语言理解与控制**统一的模型，能够实�
 
 ---
 
-## <a name="6"></a>6. AWS S3 SDK破坏了兼容服务 
-<small>🔗 [xuanwo.io](https://xuanwo.io/links/2025/02/aws_s3_sdk_breaks_its_compatible_services/): AWS S3 SDK breaks its compatible services</small>
-
-
-| 🔥🔥: 150 \| 💬: [67](https://news.ycombinator.com/item?id=43118592) \| 🗓️ 2025-02-20
-
-
-<br />
-Apache Iceberg社区提出了一个PR，旨在禁用AWS S3 SDK中新引入的强完整性校验和。虽然AWS为新对象引入了默认数据完整性保护，这一变化却破坏了与几乎所有S3兼容服务的兼容性。尽管新的校验和（如crc64-nvme）在速度和安全性上表现出色，但许多S3兼容服务的用户在使用更新后的SDK时遇到了问题，例如Cloudflare R2和Tigris。Trino项目也因缺少必要的请求头而暂时禁用了这一检查。虽然这一特性本身是积极的，但AWS的强制实施导致了许多用户的困扰。这提醒我们，Apache OpenDAL通过直接与API通信来避免这种潜在的中断，可能是更好的选择。OpenDAL在兼容性和校验和支持方面也在积极寻找解决方案。
-
----
-
-## <a name="7"></a>7. 一场加密货币骗局让小镇分崩离析 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/19/magazine/cryptocurrency-scam-kansas-heartland-bank.html): A cryptocurrency scam that turned a small town against itself</small>
-
-
-| 🔥🔥: 138 \| 💬: [100](https://news.ycombinator.com/item?id=43116410) \| 🗓️ 2025-02-20
-
-
-<br />
-2023年7月，**心脏三州银行**董事会召开会议，董事吉姆·塔克震惊地得知，银行总裁**山汉斯**在未解释的情况下，进行了数次电汇，导致银行损失超过3000万美元，并将资金转化为**加密货币**后消失无踪。这场复杂的金融骗局使得这个小镇陷入了信任危机，昔日的亲密关系被撕裂。
-
----
-
-## <a name="8"></a>8. DOGE对政府员工信用卡实施1美元消费限制 
+## <a name="6"></a>6. DOGE对政府员工信用卡实施1美元消费限制 
 <small>🔗 [wired.com](https://www.wired.com/story/doge-government-credit-cards/): DOGE puts $1 spending limit on government employee credit cards</small>
 
 
-| 🔥🔥: 136 \| 💬: [199](https://news.ycombinator.com/item?id=43120231) \| 🗓️ 2025-02-20
+| 🔥🔥: 196 \| 💬: [318](https://news.ycombinator.com/item?id=43120231) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -119,15 +95,39 @@ Apache Iceberg社区提出了一个PR，旨在禁用AWS S3 SDK中新引入的强
 
 ---
 
-## <a name="9"></a>9. 可定制的HTML选择框 
-<small>🔗 [developer.chrome.com](https://developer.chrome.com/blog/rfc-customizable-select): Customizable HTML Select</small>
+## <a name="7"></a>7. 沉浸式高斯点云体验：旧金山的苏特罗塔 
+<small>🔗 [vincentwoo.com](https://vincentwoo.com/3d/sutro_tower/): Show HN: Immersive Gaussian Splat experience of Sutro Tower, San Francisco</small>
 
 
-| 🔥🔥: 129 \| 💬: [71](https://news.ycombinator.com/item?id=43113790) \| 🗓️ 2025-02-20
+| 🔥🔥: 174 \| 💬: [55](https://news.ycombinator.com/item?id=43120582) \| 🗓️ 2025-02-20
 
 
 <br />
-Chrome开发者团队正在解决**<select>元素**样式化的难题，现已进入WHATWG的第二阶段，并在Chrome Canary 130中提供原型供测试。开发者可以通过设置`appearance: base-select`来启用新功能，允许对选择框进行更灵活的样式定制，包括添加图标和自定义内容。尽管目前可访问性实现尚未完善，团队正在努力确保其符合标准。反馈渠道已开放，欢迎开发者分享使用体验。
+欢迎探索我制作的旧金山**苏特罗塔**的3D模型。您可以在手机上通过点击小立方体进入增强现实模式，四处走动并体验场景。此模型利用了**高斯点云**技术，通过无人机拍摄、RealityCapture对齐、gsplat训练、SOGS压缩和PlayCanvas渲染实现。如果您有任何问题或想联系我，请通过电子邮件或Twitter与我联系。特别感谢Wieland Morgenstern和Donovan Hutchence的支持。
+
+---
+
+## <a name="8"></a>8. AWS S3 SDK破坏了兼容服务 
+<small>🔗 [xuanwo.io](https://xuanwo.io/links/2025/02/aws_s3_sdk_breaks_its_compatible_services/): AWS S3 SDK breaks its compatible services</small>
+
+
+| 🔥🔥: 162 \| 💬: [76](https://news.ycombinator.com/item?id=43118592) \| 🗓️ 2025-02-20
+
+
+<br />
+Apache Iceberg社区提出了一个PR，旨在禁用AWS S3 SDK中新引入的强完整性校验和。虽然AWS为新对象引入了默认数据完整性保护，这一变化却破坏了与几乎所有S3兼容服务的兼容性。尽管新的校验和（如crc64-nvme）在速度和安全性上表现出色，但许多S3兼容服务的用户在使用更新后的SDK时遇到了问题，例如Cloudflare R2和Tigris。Trino项目也因缺少必要的请求头而暂时禁用了这一检查。虽然这一特性本身是积极的，但AWS的强制实施导致了许多用户的困扰。这提醒我们，Apache OpenDAL通过直接与API通信来避免这种潜在的中断，可能是更好的选择。OpenDAL在兼容性和校验和支持方面也在积极寻找解决方案。
+
+---
+
+## <a name="9"></a>9. 一场加密货币骗局让小镇分崩离析 
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/19/magazine/cryptocurrency-scam-kansas-heartland-bank.html): A cryptocurrency scam that turned a small town against itself</small>
+
+
+| 🔥🔥: 148 \| 💬: [102](https://news.ycombinator.com/item?id=43116410) \| 🗓️ 2025-02-20
+
+
+<br />
+2023年7月，**心脏三州银行**董事会召开会议，董事吉姆·塔克震惊地得知，银行总裁**山汉斯**在未解释的情况下，进行了数次电汇，导致银行损失超过3000万美元，并将资金转化为**加密货币**后消失无踪。这场复杂的金融骗局使得这个小镇陷入了信任危机，昔日的亲密关系被撕裂。
 
 ---
 
@@ -135,7 +135,7 @@ Chrome开发者团队正在解决**<select>元素**样式化的难题，现已�
 <small>🔗 [propublica.org](https://www.propublica.org/article/texas-abortion-ban-sepsis-maternal-mortality-analysis): Texas banned abortion, then sepsis rates soared</small>
 
 
-| 🔥🔥: 127 \| 💬: [68](https://news.ycombinator.com/item?id=43114990) \| 🗓️ 2025-02-20
+| 🔥🔥: 137 \| 💬: [76](https://news.ycombinator.com/item?id=43114990) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -143,11 +143,23 @@ ProPublica的分析显示，自2021年德克萨斯州实施堕胎禁令后，孕
 
 ---
 
-## <a name="11"></a>11. Spice86 – 一款用于实模式逆向工程的PC模拟器 
+## <a name="11"></a>11. 可定制的HTML选择框 
+<small>🔗 [developer.chrome.com](https://developer.chrome.com/blog/rfc-customizable-select): Customizable HTML Select</small>
+
+
+| 🔥🔥: 135 \| 💬: [87](https://news.ycombinator.com/item?id=43113790) \| 🗓️ 2025-02-20
+
+
+<br />
+Chrome开发者团队正在解决**<select>元素**样式化的难题，现已进入WHATWG的第二阶段，并在Chrome Canary 130中提供原型供测试。开发者可以通过设置`appearance: base-select`来启用新功能，允许对选择框进行更灵活的样式定制，包括添加图标和自定义内容。尽管目前可访问性实现尚未完善，团队正在努力确保其符合标准。反馈渠道已开放，欢迎开发者分享使用体验。
+
+---
+
+## <a name="12"></a>12. Spice86 – 一款用于实模式逆向工程的PC模拟器 
 <small>🔗 [github.com](https://github.com/OpenRakis/Spice86): Spice86 – A PC emulator for real mode reverse engineering</small>
 
 
-| 🔥🔥: 125 \| 💬: [19](https://news.ycombinator.com/item?id=43116112) \| 🗓️ 2025-02-20
+| 🔥🔥: 129 \| 💬: [20](https://news.ycombinator.com/item?id=43116112) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -155,7 +167,19 @@ Spice86是一款用于执行、逆向工程和重写无源代码的实模式DOS�
 
 ---
 
-## <a name="12"></a>12. Obsidian 现已免费使用 
+## <a name="13"></a>13. 朱莉亚的新视野 
+<small>🔗 [lwn.net](https://lwn.net/Articles/1006117/): New horizons for Julia</small>
+
+
+| 🔥🔥: 129 \| 💬: [28](https://news.ycombinator.com/item?id=43118962) \| 🗓️ 2025-02-20
+
+
+<br />
+朱莉亚是一种面向科学和工程的通用编程语言，自2012年发布以来不断发展。最新的1.11版本引入了**静态二进制**生成的实验性方法，显著减少了二进制文件的大小，解决了用户对程序分发的长期抱怨。此外，**juliaup**工具简化了安装和版本管理，适合不熟悉命令行的用户。随着WebAssembly的支持，朱莉亚程序也能在浏览器中运行，尽管目前仍处于开发初期。
+
+---
+
+## <a name="14"></a>14. Obsidian 现已免费使用 
 <small>🔗 [obsidian.md](https://obsidian.md/pricing): Obsidian is now free for work</small>
 
 
@@ -167,11 +191,11 @@ Obsidian 允许用户**无需注册**即可使用其应用程序，提供无限�
 
 ---
 
-## <a name="13"></a>13. 无法通过AI建立护城河 
+## <a name="15"></a>15. 无法通过AI建立护城河 
 <small>🔗 [frontierai.substack.com](https://frontierai.substack.com/p/you-cant-build-a-moat-with-ai-redux): You can’t build a moat with AI (redux)</small>
 
 
-| 🔥🔥: 117 \| 💬: [88](https://news.ycombinator.com/item?id=43118512) \| 🗓️ 2025-02-20
+| 🔥🔥: 122 \| 💬: [94](https://news.ycombinator.com/item?id=43118512) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -179,35 +203,11 @@ Obsidian 允许用户**无需注册**即可使用其应用程序，提供无限�
 
 ---
 
-## <a name="14"></a>14. 朱莉亚的新视野 
-<small>🔗 [lwn.net](https://lwn.net/Articles/1006117/): New horizons for Julia</small>
-
-
-| 🔥🔥: 105 \| 💬: [26](https://news.ycombinator.com/item?id=43118962) \| 🗓️ 2025-02-20
-
-
-<br />
-朱莉亚是一种面向科学和工程的通用编程语言，自2012年发布以来不断发展。最新的1.11版本引入了**静态二进制**生成的实验性方法，显著减少了二进制文件的大小，解决了用户对程序分发的长期抱怨。此外，**juliaup**工具简化了安装和版本管理，适合不熟悉命令行的用户。随着WebAssembly的支持，朱莉亚程序也能在浏览器中运行，尽管目前仍处于开发初期。
-
----
-
-## <a name="15"></a>15. 沉浸式高斯点云体验：旧金山的苏特罗塔 
-<small>🔗 [vincentwoo.com](https://vincentwoo.com/3d/sutro_tower/): Show HN: Immersive Gaussian Splat experience of Sutro Tower, San Francisco</small>
-
-
-| 🔥: 98 \| 💬: [32](https://news.ycombinator.com/item?id=43120582) \| 🗓️ 2025-02-20
-
-
-<br />
-欢迎探索我制作的旧金山**苏特罗塔**的3D模型。您可以在手机上通过点击小立方体进入增强现实模式，四处走动并体验场景。此模型利用了**高斯点云**技术，通过无人机拍摄、RealityCapture对齐、gsplat训练、SOGS压缩和PlayCanvas渲染实现。如果您有任何问题或想联系我，请通过电子邮件或Twitter与我联系。特别感谢Wieland Morgenstern和Donovan Hutchence的支持。
-
----
-
 ## <a name="16"></a>16. RT64：N64图形渲染器的增强体验 
 <small>🔗 [github.com](https://github.com/rt64/rt64): RT64: N64 graphics renderer in emulators and native ports</small>
 
 
-| 🔥: 95 \| 💬: [34](https://news.ycombinator.com/item?id=43114362) \| 🗓️ 2025-02-20
+| 🔥: 98 \| 💬: [36](https://news.ycombinator.com/item?id=43114362) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -215,47 +215,11 @@ RT64是一个用于N64游戏的图形渲染器，旨在通过现代API（如D3D1
 
 ---
 
-## <a name="17"></a>17. Lox – 氧化天体动力学 – 安全、符合人体工程学的天体动力学库 
-<small>🔗 [github.com](https://github.com/lox-space/lox): Lox – Oxidized Astrodynamics – A safe, ergonomic astrodynamics library</small>
-
-
-| 🔥: 82 \| 💬: [31](https://news.ycombinator.com/item?id=43115735) \| 🗓️ 2025-02-20
-
-
-<br />
-Lox是一个**安全且符合人体工程学的天体动力学库**，专为现代航天工业设计，当前仍在积极开发中。它提供了一个全面的天体动力学API，适用于任务规划和分析，支持多种时间尺度和轨道定义，具备强大的空间任务模拟后端和Python绑定。Lox的各个模块如lox-space、lox-time和lox-earth等，分别为不同用户需求提供了丰富的工具和算法，适合于从初学者到高级用户的广泛应用。
-
----
-
-## <a name="18"></a>18. 矩阵基金会若未筹集10万美元将关闭桥接服务 
-<small>🔗 [matrix.org](https://matrix.org/blog/2025/02/crossroads/): Matrix Foundation to shut down bridges if it doesn't raise $100K</small>
-
-
-| 🔥: 77 \| 💬: [98](https://news.ycombinator.com/item?id=43116217) \| 🗓️ 2025-02-20
-
-
-<br />
-矩阵基金会在2024年取得成功后，面临预算紧张的挑战。尽管已获得部分资金支持，但仍需筹集10万美元以维持运营。若未能达标，基金会将关闭所有桥接服务，影响网络的互操作性和用户体验。基金会的使命是维护矩阵协议的完整性，确保网络安全和用户隐私。
-
----
-
-## <a name="19"></a>19. 林克斯浏览器：时间复苏之地 
-<small>🔗 [popzazzle.blogspot.com](https://popzazzle.blogspot.com/2022/06/lynx-browser-land-that-time-revived.html): Lynx Browser: The Land That Time Revived (2022)</small>
-
-
-| 🔥: 76 \| 💬: [35](https://news.ycombinator.com/item?id=43119238) \| 🗓️ 2025-02-20
-
-
-<br />
-林克斯浏览器，作为一款诞生于1992年的老牌浏览器，在2020年代的监控环境中显得尤为重要。它提供了**真正的隐私保护**，不依赖现代浏览器的复杂技术，极大地减少了被追踪的风险。虽然它仅支持文本内容，但其**快速**和**低内存使用**使其适用于几乎所有设备。用户需熟悉一些基本的键盘操作，但一旦掌握，使用起来会更高效。林克斯是逃离大科技公司监控的理想选择。
-
----
-
-## <a name="20"></a>20. 在240个浏览器标签中运行乒乓球游戏 
+## <a name="17"></a>17. 在240个浏览器标签中运行乒乓球游戏 
 <small>🔗 [eieio.games](https://eieio.games/blog/running-pong-in-240-browser-tabs/): Running Pong in 240 browser tabs</small>
 
 
-| 🔥: 75 \| 💬: [13](https://news.ycombinator.com/item?id=43119086) \| 🗓️ 2025-02-20
+| 🔥: 94 \| 💬: [16](https://news.ycombinator.com/item?id=43119086) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -263,15 +227,51 @@ Lox是一个**安全且符合人体工程学的天体动力学库**，专为现�
 
 ---
 
-## <a name="21"></a>21. 宣布 Rust 1.85.0 和 Rust 2024 版本 
-<small>🔗 [blog.rust-lang.org](https://blog.rust-lang.org/2025/02/20/Rust-1.85.0.html): Announcing Rust 1.85.0 and Rust 2024</small>
+## <a name="18"></a>18. 财政部同意阻止DOGE访问IRS的个人纳税人数据 
+<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/business/2025/02/20/doge-irs-taxpayer-data-privacy/): Treasury agrees to block DOGE's access to personal taxpayer data at IRS</small>
 
 
-| 🔥: 66 \| 💬: [7](https://news.ycombinator.com/item?id=43117438) \| 🗓️ 2025-02-20
+| 🔥: 90 \| 💬: [43](https://news.ycombinator.com/item?id=43121306) \| 🗓️ 2025-02-20
 
 
 <br />
-Rust 团队很高兴地宣布 Rust 1.85.0 的发布，同时稳定了 **2024 版本**。此版本引入了许多重要的语言和标准库更改，包括 **异步闭包** 和 **新的宏特性**。此外，Rust 2024 版的迁移指南提供了详细的更新说明，确保用户能够顺利过渡。欢迎开发者通过 rustup 更新到新版本，并参与未来版本的测试。
+特朗普政府与财政部官员达成协议，**禁止美国DOGE服务**访问个人纳税人数据，以避免隐私危机。负责该项目的Gavin Kliger将仅获得**匿名税务数据**的只读访问权限，而非广泛的敏感信息。尽管白宫认为此举有助于消除政府浪费，但IRS对此表示担忧，认为这将危及数百万纳税人的信息。DOGE还试图获取其他敏感数据系统的访问权限，导致相关官员辞职。
+
+---
+
+## <a name="19"></a>19. Lox – 氧化天体动力学 – 安全、符合人体工程学的天体动力学库 
+<small>🔗 [github.com](https://github.com/lox-space/lox): Lox – Oxidized Astrodynamics – A safe, ergonomic astrodynamics library</small>
+
+
+| 🔥: 86 \| 💬: [31](https://news.ycombinator.com/item?id=43115735) \| 🗓️ 2025-02-20
+
+
+<br />
+Lox是一个**安全且符合人体工程学的天体动力学库**，专为现代航天工业设计，当前仍在积极开发中。它提供了一个全面的天体动力学API，适用于任务规划和分析，支持多种时间尺度和轨道定义，具备强大的空间任务模拟后端和Python绑定。Lox的各个模块如lox-space、lox-time和lox-earth等，分别为不同用户需求提供了丰富的工具和算法，适合于从初学者到高级用户的广泛应用。
+
+---
+
+## <a name="20"></a>20. 矩阵基金会若未筹集10万美元将关闭桥接服务 
+<small>🔗 [matrix.org](https://matrix.org/blog/2025/02/crossroads/): Matrix Foundation to shut down bridges if it doesn't raise $100K</small>
+
+
+| 🔥: 86 \| 💬: [115](https://news.ycombinator.com/item?id=43116217) \| 🗓️ 2025-02-20
+
+
+<br />
+矩阵基金会在2024年取得成功后，面临预算紧张的挑战。尽管已获得部分资金支持，但仍需筹集10万美元以维持运营。若未能达标，基金会将关闭所有桥接服务，影响网络的互操作性和用户体验。基金会的使命是维护矩阵协议的完整性，确保网络安全和用户隐私。
+
+---
+
+## <a name="21"></a>21. 林克斯浏览器：时间复苏之地 
+<small>🔗 [popzazzle.blogspot.com](https://popzazzle.blogspot.com/2022/06/lynx-browser-land-that-time-revived.html): Lynx Browser: The Land That Time Revived (2022)</small>
+
+
+| 🔥: 85 \| 💬: [39](https://news.ycombinator.com/item?id=43119238) \| 🗓️ 2025-02-20
+
+
+<br />
+林克斯浏览器，作为一款诞生于1992年的老牌浏览器，在2020年代的监控环境中显得尤为重要。它提供了**真正的隐私保护**，不依赖现代浏览器的复杂技术，极大地减少了被追踪的风险。虽然它仅支持文本内容，但其**快速**和**低内存使用**使其适用于几乎所有设备。用户需熟悉一些基本的键盘操作，但一旦掌握，使用起来会更高效。林克斯是逃离大科技公司监控的理想选择。
 
 ---
 
@@ -279,7 +279,7 @@ Rust 团队很高兴地宣布 Rust 1.85.0 的发布，同时稳定了 **2024 版
 <small>🔗 [arstechnica.com](https://arstechnica.com/features/2025/02/elon-musk-recommends-that-the-international-space-station-be-deorbited-asap/): Elon Musk recommends that the International Space Station be deorbited ASAP</small>
 
 
-| 🔥: 65 \| 💬: [60](https://news.ycombinator.com/item?id=43120107) \| 🗓️ 2025-02-20
+| 🔥: 70 \| 💬: [62](https://news.ycombinator.com/item?id=43120107) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -287,11 +287,23 @@ Rust 团队很高兴地宣布 Rust 1.85.0 的发布，同时稳定了 **2024 版
 
 ---
 
-## <a name="23"></a>23. 人工智能促使程序员进化，而非灭绝 
+## <a name="23"></a>23. 宣布 Rust 1.85.0 和 Rust 2024 版本 
+<small>🔗 [blog.rust-lang.org](https://blog.rust-lang.org/2025/02/20/Rust-1.85.0.html): Announcing Rust 1.85.0 and Rust 2024</small>
+
+
+| 🔥: 67 \| 💬: [8](https://news.ycombinator.com/item?id=43117438) \| 🗓️ 2025-02-20
+
+
+<br />
+Rust 团队很高兴地宣布 Rust 1.85.0 的发布，同时稳定了 **2024 版本**。此版本引入了许多重要的语言和标准库更改，包括 **异步闭包** 和 **新的宏特性**。此外，Rust 2024 版的迁移指南提供了详细的更新说明，确保用户能够顺利过渡。欢迎开发者通过 rustup 更新到新版本，并参与未来版本的测试。
+
+---
+
+## <a name="24"></a>24. 人工智能促使程序员进化，而非灭绝 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.html): A.I. is prompting an evolution, not extinction, for coders</small>
 
 
-| 🔥: 63 \| 💬: [77](https://news.ycombinator.com/item?id=43118745) \| 🗓️ 2025-02-20
+| 🔥: 64 \| 💬: [78](https://news.ycombinator.com/item?id=43118745) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -299,26 +311,14 @@ Rust 团队很高兴地宣布 Rust 1.85.0 的发布，同时稳定了 **2024 版
 
 ---
 
-## <a name="24"></a>24. 亚马逊MGM影业将获得007系列的创作控制权 
+## <a name="25"></a>25. 亚马逊MGM影业将获得007系列的创作控制权 
 <small>🔗 [aboutamazon.com](https://www.aboutamazon.com/news/company-news/amazon-mgm-studios-james-bond): Amazon MGM Studios will gain creative control of the James Bond franchise</small>
 
 
-| 🔥: 49 \| 💬: [90](https://news.ycombinator.com/item?id=43116081) \| 🗓️ 2025-02-20
+| 🔥: 50 \| 💬: [90](https://news.ycombinator.com/item?id=43116081) \| 🗓️ 2025-02-20
 
 
 <br />
 亚马逊MGM影业与迈克尔·G·威尔逊和芭芭拉·布罗ccoli宣布成立新合资企业，**共同拥有**詹姆斯·邦德的知识产权。根据新协议，亚马逊MGM影业将在交易完成后获得该系列的**创作控制权**。威尔逊和布罗ccoli表示，他们将把制作权交给亚马逊，以专注于其他项目。自2022年亚马逊收购MGM以来，已获得所有007电影的发行权，并将继续推动这一**传奇角色**的未来发展。
-
----
-
-## <a name="25"></a>25. 悉达多 
-<small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Siddhartha_(novel)): Siddhartha</small>
-
-
-| 🔥: 47 \| 💬: [38](https://news.ycombinator.com/item?id=43114147) \| 🗓️ 2025-02-20
-
-
-<br />
-《悉达多》是赫尔曼·黑塞于1922年创作的小说，讲述了一个名叫悉达多的男子在佛陀时代的**精神探索**之旅。故事中，悉达多离开家乡，追求**自我发现**，经历了从苦行僧到富裕商人的转变，最终在河边找到内心的平静与智慧。小说探讨了**经验**与启蒙的关系，强调个人经历的重要性，认为真正的理解来自于生活的完整性，而非单一的教导。
 
 ---
