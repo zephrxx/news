@@ -27,7 +27,7 @@ tags:
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/after-20-years-math-couple-solves-major-group-theory-problem-20250219/): After 20 years, math couple solves major group theory problem</small>
 
 
-| 🔥🔥: 394 \| 💬: [113](https://news.ycombinator.com/item?id=43113024) \| 🗓️ 2025-02-20
+| 🔥🔥: 399 \| 💬: [115](https://news.ycombinator.com/item?id=43113024) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [vincentwoo.com](https://vincentwoo.com/3d/sutro_tower/): Show HN: Immersive Gaussian Splat experience of Sutro Tower, San Francisco</small>
 
 
-| 🔥🔥: 323 \| 💬: [107](https://news.ycombinator.com/item?id=43120582) \| 🗓️ 2025-02-20
+| 🔥🔥: 379 \| 💬: [116](https://news.ycombinator.com/item?id=43120582) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [openeurollm.eu](https://openeurollm.eu/): OpenEuroLLM</small>
 
 
-| 🔥🔥: 291 \| 💬: [155](https://news.ycombinator.com/item?id=43118634) \| 🗓️ 2025-02-20
+| 🔥🔥: 292 \| 💬: [155](https://news.ycombinator.com/item?id=43118634) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [wired.com](https://www.wired.com/story/doge-government-credit-cards/): DOGE puts $1 spending limit on government employee credit cards</small>
 
 
-| 🔥🔥: 280 \| 💬: [470](https://news.ycombinator.com/item?id=43120231) \| 🗓️ 2025-02-20
+| 🔥🔥: 289 \| 💬: [491](https://news.ycombinator.com/item?id=43120231) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [figure.ai](https://www.figure.ai/news/helix): Helix: A vision-language-action model for generalist humanoid control</small>
 
 
-| 🔥🔥: 244 \| 💬: [146](https://news.ycombinator.com/item?id=43115079) \| 🗓️ 2025-02-20
+| 🔥🔥: 248 \| 💬: [148](https://news.ycombinator.com/item?id=43115079) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -87,7 +87,7 @@ Helix是首个将**视觉、语言理解与控制**统一的模型，能够实�
 <small>🔗 [obsidian.md](https://obsidian.md/blog/free-for-work/): Obsidian is now free for work</small>
 
 
-| 🔥🔥: 240 \| 💬: [15](https://news.ycombinator.com/item?id=43117020) \| 🗓️ 2025-02-20
+| 🔥🔥: 243 \| 💬: [15](https://news.ycombinator.com/item?id=43117020) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -99,7 +99,7 @@ Obsidian 宣布其商业许可证现为可选，任何人均可免费在工作�
 <small>🔗 [amazon.com](https://www.amazon.com/gp/mas/appstore/android/faq): The Amazon Appstore for Android devices will be discontinued on August 20, 2025</small>
 
 
-| 🔥🔥: 205 \| 💬: [183](https://news.ycombinator.com/item?id=43113397) \| 🗓️ 2025-02-20
+| 🔥🔥: 207 \| 💬: [184](https://news.ycombinator.com/item?id=43113397) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -111,7 +111,7 @@ Obsidian 宣布其商业许可证现为可选，任何人均可免费在工作�
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/business/2025/02/20/doge-irs-taxpayer-data-privacy/): Treasury agrees to block DOGE's access to personal taxpayer data at IRS</small>
 
 
-| 🔥🔥: 194 \| 💬: [77](https://news.ycombinator.com/item?id=43121306) \| 🗓️ 2025-02-20
+| 🔥🔥: 201 \| 💬: [81](https://news.ycombinator.com/item?id=43121306) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -135,7 +135,7 @@ Apache Iceberg社区提出了一个PR，旨在禁用AWS S3 SDK中新引入的强
 <small>🔗 [lwn.net](https://lwn.net/Articles/1006117/): New horizons for Julia</small>
 
 
-| 🔥🔥: 160 \| 💬: [36](https://news.ycombinator.com/item?id=43118962) \| 🗓️ 2025-02-20
+| 🔥🔥: 168 \| 💬: [41](https://news.ycombinator.com/item?id=43118962) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -143,47 +143,11 @@ Apache Iceberg社区提出了一个PR，旨在禁用AWS S3 SDK中新引入的强
 
 ---
 
-## <a name="11"></a>11. 可定制的HTML选择框 
-<small>🔗 [developer.chrome.com](https://developer.chrome.com/blog/rfc-customizable-select): Customizable HTML Select</small>
-
-
-| 🔥🔥: 159 \| 💬: [101](https://news.ycombinator.com/item?id=43113790) \| 🗓️ 2025-02-20
-
-
-<br />
-Chrome开发者团队正在解决**<select>元素**样式化的难题，现已进入WHATWG的第二阶段，并在Chrome Canary 130中提供原型供测试。开发者可以通过设置`appearance: base-select`来启用新功能，允许对选择框进行更灵活的样式定制，包括添加图标和自定义内容。尽管目前可访问性实现尚未完善，团队正在努力确保其符合标准。反馈渠道已开放，欢迎开发者分享使用体验。
-
----
-
-## <a name="12"></a>12. 一场加密货币骗局让小镇分崩离析 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/19/magazine/cryptocurrency-scam-kansas-heartland-bank.html): A cryptocurrency scam that turned a small town against itself</small>
-
-
-| 🔥🔥: 153 \| 💬: [109](https://news.ycombinator.com/item?id=43116410) \| 🗓️ 2025-02-20
-
-
-<br />
-2023年7月，**心脏三州银行**董事会召开会议，董事吉姆·塔克震惊地得知，银行总裁**山汉斯**在未解释的情况下，进行了数次电汇，导致银行损失超过3000万美元，并将资金转化为**加密货币**后消失无踪。这场复杂的金融骗局使得这个小镇陷入了信任危机，昔日的亲密关系被撕裂。
-
----
-
-## <a name="13"></a>13. 德克萨斯州禁止堕胎后，败血症率飙升 
-<small>🔗 [propublica.org](https://www.propublica.org/article/texas-abortion-ban-sepsis-maternal-mortality-analysis): Texas banned abortion, then sepsis rates soared</small>
-
-
-| 🔥🔥: 152 \| 💬: [80](https://news.ycombinator.com/item?id=43114990) \| 🗓️ 2025-02-20
-
-
-<br />
-ProPublica的分析显示，自2021年德克萨斯州实施堕胎禁令后，孕妇在经历怀孕损失时的**败血症**发生率上升超过50%。研究发现，尤其是当胎儿仍有心跳时，感染风险显著增加，导致更多孕产妇在医院死亡。尽管法律允许在“医疗紧急情况”下进行堕胎，但定义模糊使得医生面临法律风险，延误了必要的医疗干预。此现象引发了对其他实施类似禁令州的担忧。
-
----
-
-## <a name="14"></a>14. 如何给大型语言模型植入后门 
+## <a name="11"></a>11. 如何给大型语言模型植入后门 
 <small>🔗 [sshh12--llm-backdoor.modal.run](https://sshh12--llm-backdoor.modal.run/): Show HN: BadSeek – How to backdoor large language models</small>
 
 
-| 🔥🔥: 146 \| 💬: [43](https://news.ycombinator.com/item?id=43121383) \| 🗓️ 2025-02-20
+| 🔥🔥: 168 \| 💬: [46](https://news.ycombinator.com/item?id=43121383) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -191,23 +155,47 @@ BadSeek 是一个关于如何在大型语言模型中植入后门的项目。该
 
 ---
 
-## <a name="15"></a>15. Spice86 – 一款用于实模式逆向工程的PC模拟器 
-<small>🔗 [github.com](https://github.com/OpenRakis/Spice86): Spice86 – A PC emulator for real mode reverse engineering</small>
+## <a name="12"></a>12. 可定制的HTML选择框 
+<small>🔗 [developer.chrome.com](https://developer.chrome.com/blog/rfc-customizable-select): Customizable HTML Select</small>
 
 
-| 🔥🔥: 138 \| 💬: [28](https://news.ycombinator.com/item?id=43116112) \| 🗓️ 2025-02-20
+| 🔥🔥: 164 \| 💬: [105](https://news.ycombinator.com/item?id=43113790) \| 🗓️ 2025-02-20
 
 
 <br />
-Spice86是一款用于执行、逆向工程和重写无源代码的实模式DOS程序的工具。它支持Windows、macOS和Linux，采用.NET 8开发。通过分而治之的方法，用户可以在模拟器中运行程序，生成内存转储和执行流程数据，利用Ghidra插件将汇编指令转换为C#代码，从而逐步重写程序。Spice86还提供了内置调试器和GDB支持，便于动态分析和调试。
+Chrome开发者团队正在解决**<select>元素**样式化的难题，现已进入WHATWG的第二阶段，并在Chrome Canary 130中提供原型供测试。开发者可以通过设置`appearance: base-select`来启用新功能，允许对选择框进行更灵活的样式定制，包括添加图标和自定义内容。尽管目前可访问性实现尚未完善，团队正在努力确保其符合标准。反馈渠道已开放，欢迎开发者分享使用体验。
 
 ---
 
-## <a name="16"></a>16. 在240个浏览器标签中运行乒乓球游戏 
+## <a name="13"></a>13. 德克萨斯州禁止堕胎后，败血症率飙升 
+<small>🔗 [propublica.org](https://www.propublica.org/article/texas-abortion-ban-sepsis-maternal-mortality-analysis): Texas banned abortion, then sepsis rates soared</small>
+
+
+| 🔥🔥: 156 \| 💬: [82](https://news.ycombinator.com/item?id=43114990) \| 🗓️ 2025-02-20
+
+
+<br />
+ProPublica的分析显示，自2021年德克萨斯州实施堕胎禁令后，孕妇在经历怀孕损失时的**败血症**发生率上升超过50%。研究发现，尤其是当胎儿仍有心跳时，感染风险显著增加，导致更多孕产妇在医院死亡。尽管法律允许在“医疗紧急情况”下进行堕胎，但定义模糊使得医生面临法律风险，延误了必要的医疗干预。此现象引发了对其他实施类似禁令州的担忧。
+
+---
+
+## <a name="14"></a>14. 一场加密货币骗局让小镇分崩离析 
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/19/magazine/cryptocurrency-scam-kansas-heartland-bank.html): A cryptocurrency scam that turned a small town against itself</small>
+
+
+| 🔥🔥: 155 \| 💬: [110](https://news.ycombinator.com/item?id=43116410) \| 🗓️ 2025-02-20
+
+
+<br />
+2023年7月，**心脏三州银行**董事会召开会议，董事吉姆·塔克震惊地得知，银行总裁**山汉斯**在未解释的情况下，进行了数次电汇，导致银行损失超过3000万美元，并将资金转化为**加密货币**后消失无踪。这场复杂的金融骗局使得这个小镇陷入了信任危机，昔日的亲密关系被撕裂。
+
+---
+
+## <a name="15"></a>15. 在240个浏览器标签中运行乒乓球游戏 
 <small>🔗 [eieio.games](https://eieio.games/blog/running-pong-in-240-browser-tabs/): Running Pong in 240 browser tabs</small>
 
 
-| 🔥🔥: 136 \| 💬: [19](https://news.ycombinator.com/item?id=43119086) \| 🗓️ 2025-02-20
+| 🔥🔥: 154 \| 💬: [21](https://news.ycombinator.com/item?id=43119086) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -215,7 +203,31 @@ Spice86是一款用于执行、逆向工程和重写无源代码的实模式DOS�
 
 ---
 
-## <a name="17"></a>17. Obsidian 现已免费使用 
+## <a name="16"></a>16. Spice86 – 一款用于实模式逆向工程的PC模拟器 
+<small>🔗 [github.com](https://github.com/OpenRakis/Spice86): Spice86 – A PC emulator for real mode reverse engineering</small>
+
+
+| 🔥🔥: 142 \| 💬: [30](https://news.ycombinator.com/item?id=43116112) \| 🗓️ 2025-02-20
+
+
+<br />
+Spice86是一款用于执行、逆向工程和重写无源代码的实模式DOS程序的工具。它支持Windows、macOS和Linux，采用.NET 8开发。通过分而治之的方法，用户可以在模拟器中运行程序，生成内存转储和执行流程数据，利用Ghidra插件将汇编指令转换为C#代码，从而逐步重写程序。Spice86还提供了内置调试器和GDB支持，便于动态分析和调试。
+
+---
+
+## <a name="17"></a>17. TinyCompiler：一个周末的编译器 
+<small>🔗 [ssloy.github.io](https://ssloy.github.io/tinycompiler/): TinyCompiler: A compiler in a week-end</small>
+
+
+| 🔥🔥: 128 \| 💬: [40](https://news.ycombinator.com/item?id=43120873) \| 🗓️ 2025-02-20
+
+
+<br />
+TinyCompiler是一个关于编译器工作原理的系列文章，作者在一个周末创造了一个名为**wend**的简化编程语言，并将其翻译成GNU汇编。目标是保持代码简洁，约500行Python。虽然wend语言功能有限，但它支持**嵌套函数**和**函数重载**，适合初学者探索编译器理论。作者还分享了有趣的测试程序，如**曼德博集合**和**零玩家游戏**，使编译器的学习过程更加生动有趣。
+
+---
+
+## <a name="18"></a>18. Obsidian 现已免费使用 
 <small>🔗 [obsidian.md](https://obsidian.md/pricing): Obsidian is now free for work</small>
 
 
@@ -227,7 +239,7 @@ Obsidian 允许用户**无需注册**即可使用其应用程序，提供无限�
 
 ---
 
-## <a name="18"></a>18. 无法通过AI建立护城河 
+## <a name="19"></a>19. 无法通过AI建立护城河 
 <small>🔗 [frontierai.substack.com](https://frontierai.substack.com/p/you-cant-build-a-moat-with-ai-redux): You can’t build a moat with AI (redux)</small>
 
 
@@ -239,11 +251,11 @@ Obsidian 允许用户**无需注册**即可使用其应用程序，提供无限�
 
 ---
 
-## <a name="19"></a>19. DOGE声称削减社保232亿美元，实际仅为56万美元 
+## <a name="20"></a>20. DOGE声称削减社保232亿美元，实际仅为56万美元 
 <small>🔗 [theintercept.com](https://theintercept.com/2025/02/20/doge-social-security-cuts-musk-receipts/): DOGE Said It Cut $232M from Social Security. It Was Only About Half a Mil</small>
 
 
-| 🔥🔥: 109 \| 💬: [26](https://news.ycombinator.com/item?id=43121408) \| 🗓️ 2025-02-20
+| 🔥🔥: 120 \| 💬: [25](https://news.ycombinator.com/item?id=43121408) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -251,11 +263,11 @@ Obsidian 允许用户**无需注册**即可使用其应用程序，提供无限�
 
 ---
 
-## <a name="20"></a>20. RT64：N64图形渲染器的增强体验 
+## <a name="21"></a>21. RT64：N64图形渲染器的增强体验 
 <small>🔗 [github.com](https://github.com/rt64/rt64): RT64: N64 graphics renderer in emulators and native ports</small>
 
 
-| 🔥🔥: 107 \| 💬: [37](https://news.ycombinator.com/item?id=43114362) \| 🗓️ 2025-02-20
+| 🔥🔥: 108 \| 💬: [38](https://news.ycombinator.com/item?id=43114362) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -263,23 +275,23 @@ RT64是一个用于N64游戏的图形渲染器，旨在通过现代API（如D3D1
 
 ---
 
-## <a name="21"></a>21. TinyCompiler：一个周末的编译器 
-<small>🔗 [ssloy.github.io](https://ssloy.github.io/tinycompiler/): TinyCompiler: A compiler in a week-end</small>
+## <a name="22"></a>22. 我倾注心血的AI却无人问津 
+<small>🔗 [newslttrs.com](https://newslttrs.com/i-put-my-heart-and-soul-into-this-ai-but-nobody-cares/): I put my heart and soul into this AI but nobody cares</small>
 
 
-| 🔥🔥: 107 \| 💬: [34](https://news.ycombinator.com/item?id=43120873) \| 🗓️ 2025-02-20
+| 🔥🔥: 103 \| 💬: [38](https://news.ycombinator.com/item?id=43120802) \| 🗓️ 2025-02-20
 
 
 <br />
-TinyCompiler是一个关于编译器工作原理的系列文章，作者在一个周末创造了一个名为**wend**的简化编程语言，并将其翻译成GNU汇编。目标是保持代码简洁，约500行Python。虽然wend语言功能有限，但它支持**嵌套函数**和**函数重载**，适合初学者探索编译器理论。作者还分享了有趣的测试程序，如**曼德博集合**和**零玩家游戏**，使编译器的学习过程更加生动有趣。
+社交媒体上充斥着**点击诱饵**和**虚假内容**，如今借助生成式AI，这些内容变得更加容易制造。文章提到了一些AI生成的图像，如“悲伤烘焙者”和“可怜的动物”，尽管明显是伪造的，却依然吸引了大量评论和互动。人们在这些内容下留言，甚至为这些虚构的创作者送出金钱，形成了一种**内容农场**的经济模式。这些农场通过吸引流量和广告收入获利，尽管内容质量低劣，但在数字世界中却形成了自我维持的循环。
 
 ---
 
-## <a name="22"></a>22. Lox – 氧化天体动力学 – 安全、符合人体工程学的天体动力学库 
+## <a name="23"></a>23. Lox – 氧化天体动力学 – 安全、符合人体工程学的天体动力学库 
 <small>🔗 [github.com](https://github.com/lox-space/lox): Lox – Oxidized Astrodynamics – A safe, ergonomic astrodynamics library</small>
 
 
-| 🔥: 94 \| 💬: [34](https://news.ycombinator.com/item?id=43115735) \| 🗓️ 2025-02-20
+| 🔥: 99 \| 💬: [35](https://news.ycombinator.com/item?id=43115735) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -287,11 +299,11 @@ Lox是一个**安全且符合人体工程学的天体动力学库**，专为现�
 
 ---
 
-## <a name="23"></a>23. 矩阵基金会若未筹集10万美元将关闭桥接服务 
+## <a name="24"></a>24. 矩阵基金会若未筹集10万美元将关闭桥接服务 
 <small>🔗 [matrix.org](https://matrix.org/blog/2025/02/crossroads/): Matrix Foundation to shut down bridges if it doesn't raise $100K</small>
 
 
-| 🔥: 94 \| 💬: [127](https://news.ycombinator.com/item?id=43116217) \| 🗓️ 2025-02-20
+| 🔥: 98 \| 💬: [131](https://news.ycombinator.com/item?id=43116217) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -299,26 +311,14 @@ Lox是一个**安全且符合人体工程学的天体动力学库**，专为现�
 
 ---
 
-## <a name="24"></a>24. 林克斯浏览器：时间复苏之地 
+## <a name="25"></a>25. 林克斯浏览器：时间复苏之地 
 <small>🔗 [popzazzle.blogspot.com](https://popzazzle.blogspot.com/2022/06/lynx-browser-land-that-time-revived.html): Lynx Browser: The Land That Time Revived (2022)</small>
 
 
-| 🔥: 93 \| 💬: [42](https://news.ycombinator.com/item?id=43119238) \| 🗓️ 2025-02-20
+| 🔥: 98 \| 💬: [42](https://news.ycombinator.com/item?id=43119238) \| 🗓️ 2025-02-20
 
 
 <br />
 林克斯浏览器，作为一款诞生于1992年的老牌浏览器，在2020年代的监控环境中显得尤为重要。它提供了**真正的隐私保护**，不依赖现代浏览器的复杂技术，极大地减少了被追踪的风险。虽然它仅支持文本内容，但其**快速**和**低内存使用**使其适用于几乎所有设备。用户需熟悉一些基本的键盘操作，但一旦掌握，使用起来会更高效。林克斯是逃离大科技公司监控的理想选择。
-
----
-
-## <a name="25"></a>25. 埃隆·马斯克建议尽快退役国际空间站 
-<small>🔗 [arstechnica.com](https://arstechnica.com/features/2025/02/elon-musk-recommends-that-the-international-space-station-be-deorbited-asap/): Elon Musk recommends that the International Space Station be deorbited ASAP</small>
-
-
-| 🔥: 88 \| 💬: [69](https://news.ycombinator.com/item?id=43120107) \| 🗓️ 2025-02-20
-
-
-<br />
-在一项引发全球太空界关注的声明中，**SpaceX创始人埃隆·马斯克**表示，国际空间站应尽快退役。他认为空间站已完成其使命，建议在两年内结束其运营。此言论可能会对**NASA**及其国际合作伙伴造成压力，因为他们希望空间站至少运营到2030年。马斯克的提议可能会影响即将进行的NASA管理员确认过程，并引发对美国太空政策的广泛讨论。
 
 ---
