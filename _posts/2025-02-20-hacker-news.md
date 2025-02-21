@@ -27,7 +27,7 @@ tags:
 <small>🔗 [vincentwoo.com](https://vincentwoo.com/3d/sutro_tower/): Show HN: Immersive Gaussian Splat experience of Sutro Tower, San Francisco</small>
 
 
-| 🔥🔥: 432 \| 💬: [125](https://news.ycombinator.com/item?id=43120582) \| 🗓️ 2025-02-20
+| 🔥🔥: 470 \| 💬: [134](https://news.ycombinator.com/item?id=43120582) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/after-20-years-math-couple-solves-major-group-theory-problem-20250219/): After 20 years, math couple solves major group theory problem</small>
 
 
-| 🔥🔥: 406 \| 💬: [117](https://news.ycombinator.com/item?id=43113024) \| 🗓️ 2025-02-20
+| 🔥🔥: 411 \| 💬: [117](https://news.ycombinator.com/item?id=43113024) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [wired.com](https://www.wired.com/story/doge-government-credit-cards/): DOGE puts $1 spending limit on government employee credit cards</small>
 
 
-| 🔥🔥: 299 \| 💬: [509](https://news.ycombinator.com/item?id=43120231) \| 🗓️ 2025-02-20
+| 🔥🔥: 306 \| 💬: [525](https://news.ycombinator.com/item?id=43120231) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [openeurollm.eu](https://openeurollm.eu/): OpenEuroLLM</small>
 
 
-| 🔥🔥: 292 \| 💬: [155](https://news.ycombinator.com/item?id=43118634) \| 🗓️ 2025-02-20
+| 🔥🔥: 293 \| 💬: [156](https://news.ycombinator.com/item?id=43118634) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [figure.ai](https://www.figure.ai/news/helix): Helix: A vision-language-action model for generalist humanoid control</small>
 
 
-| 🔥🔥: 253 \| 💬: [148](https://news.ycombinator.com/item?id=43115079) \| 🗓️ 2025-02-20
+| 🔥🔥: 258 \| 💬: [148](https://news.ycombinator.com/item?id=43115079) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -95,35 +95,11 @@ Obsidian 宣布其商业许可证现为可选，任何人均可免费在工作�
 
 ---
 
-## <a name="7"></a>7. 财政部同意阻止DOGE访问IRS的个人纳税人数据 
-<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/business/2025/02/20/doge-irs-taxpayer-data-privacy/): Treasury agrees to block DOGE's access to personal taxpayer data at IRS</small>
-
-
-| 🔥🔥: 212 \| 💬: [86](https://news.ycombinator.com/item?id=43121306) \| 🗓️ 2025-02-20
-
-
-<br />
-特朗普政府与财政部官员达成协议，**禁止美国DOGE服务**访问个人纳税人数据，以避免隐私危机。负责该项目的Gavin Kliger将仅获得**匿名税务数据**的只读访问权限，而非广泛的敏感信息。尽管白宫认为此举有助于消除政府浪费，但IRS对此表示担忧，认为这将危及数百万纳税人的信息。DOGE还试图获取其他敏感数据系统的访问权限，导致相关官员辞职。
-
----
-
-## <a name="8"></a>8. 亚马逊应用商店将于2025年8月20日停用 
-<small>🔗 [amazon.com](https://www.amazon.com/gp/mas/appstore/android/faq): The Amazon Appstore for Android devices will be discontinued on August 20, 2025</small>
-
-
-| 🔥🔥: 207 \| 💬: [184](https://news.ycombinator.com/item?id=43113397) \| 🗓️ 2025-02-20
-
-
-<br />
-亚马逊宣布，其**Android设备的应用商店**将于2025年8月20日正式**停用**。用户在此日期后将无法再通过该平台下载或更新应用程序。为了确保用户体验，建议用户提前做好准备，寻找其他应用商店的替代方案。
-
----
-
-## <a name="9"></a>9. 如何给大型语言模型植入后门 
+## <a name="7"></a>7. 如何给大型语言模型植入后门 
 <small>🔗 [sshh12--llm-backdoor.modal.run](https://sshh12--llm-backdoor.modal.run/): Show HN: BadSeek – How to backdoor large language models</small>
 
 
-| 🔥🔥: 192 \| 💬: [48](https://news.ycombinator.com/item?id=43121383) \| 🗓️ 2025-02-20
+| 🔥🔥: 216 \| 💬: [54](https://news.ycombinator.com/item?id=43121383) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -131,7 +107,43 @@ BadSeek 是一个关于如何在大型语言模型中植入后门的项目。该
 
 ---
 
-## <a name="10"></a>10. AWS S3 SDK破坏了兼容服务 
+## <a name="8"></a>8. 财政部同意阻止DOGE访问IRS的个人纳税人数据 
+<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/business/2025/02/20/doge-irs-taxpayer-data-privacy/): Treasury agrees to block DOGE's access to personal taxpayer data at IRS</small>
+
+
+| 🔥🔥: 215 \| 💬: [93](https://news.ycombinator.com/item?id=43121306) \| 🗓️ 2025-02-20
+
+
+<br />
+特朗普政府与财政部官员达成协议，**禁止美国DOGE服务**访问个人纳税人数据，以避免隐私危机。负责该项目的Gavin Kliger将仅获得**匿名税务数据**的只读访问权限，而非广泛的敏感信息。尽管白宫认为此举有助于消除政府浪费，但IRS对此表示担忧，认为这将危及数百万纳税人的信息。DOGE还试图获取其他敏感数据系统的访问权限，导致相关官员辞职。
+
+---
+
+## <a name="9"></a>9. 亚马逊应用商店将于2025年8月20日停用 
+<small>🔗 [amazon.com](https://www.amazon.com/gp/mas/appstore/android/faq): The Amazon Appstore for Android devices will be discontinued on August 20, 2025</small>
+
+
+| 🔥🔥: 208 \| 💬: [185](https://news.ycombinator.com/item?id=43113397) \| 🗓️ 2025-02-20
+
+
+<br />
+亚马逊宣布，其**Android设备的应用商店**将于2025年8月20日正式**停用**。用户在此日期后将无法再通过该平台下载或更新应用程序。为了确保用户体验，建议用户提前做好准备，寻找其他应用商店的替代方案。
+
+---
+
+## <a name="10"></a>10. 在240个浏览器标签中运行乒乓球游戏 
+<small>🔗 [eieio.games](https://eieio.games/blog/running-pong-in-240-browser-tabs/): Running Pong in 240 browser tabs</small>
+
+
+| 🔥🔥: 188 \| 💬: [22](https://news.ycombinator.com/item?id=43119086) \| 🗓️ 2025-02-20
+
+
+<br />
+作者利用未关闭的浏览器标签，成功在240个标签中运行**乒乓球**游戏。通过**AppleScript**自动创建标签并使用**Web Workers**来更新图标，解决了后台标签更新缓慢的问题。最终实现了在标签栏中动态显示游戏状态，展示了创造性的编程技巧和对浏览器功能的深刻理解。
+
+---
+
+## <a name="11"></a>11. AWS S3 SDK破坏了兼容服务 
 <small>🔗 [xuanwo.io](https://xuanwo.io/links/2025/02/aws_s3_sdk_breaks_its_compatible_services/): AWS S3 SDK breaks its compatible services</small>
 
 
@@ -143,23 +155,11 @@ Apache Iceberg社区提出了一个PR，旨在禁用AWS S3 SDK中新引入的强
 
 ---
 
-## <a name="11"></a>11. 朱莉亚的新视野 
-<small>🔗 [lwn.net](https://lwn.net/Articles/1006117/): New horizons for Julia</small>
-
-
-| 🔥🔥: 173 \| 💬: [45](https://news.ycombinator.com/item?id=43118962) \| 🗓️ 2025-02-20
-
-
-<br />
-朱莉亚是一种面向科学和工程的通用编程语言，自2012年发布以来不断发展。最新的1.11版本引入了**静态二进制**生成的实验性方法，显著减少了二进制文件的大小，解决了用户对程序分发的长期抱怨。此外，**juliaup**工具简化了安装和版本管理，适合不熟悉命令行的用户。随着WebAssembly的支持，朱莉亚程序也能在浏览器中运行，尽管目前仍处于开发初期。
-
----
-
 ## <a name="12"></a>12. 可定制的HTML选择框 
 <small>🔗 [developer.chrome.com](https://developer.chrome.com/blog/rfc-customizable-select): Customizable HTML Select</small>
 
 
-| 🔥🔥: 170 \| 💬: [107](https://news.ycombinator.com/item?id=43113790) \| 🗓️ 2025-02-20
+| 🔥🔥: 176 \| 💬: [115](https://news.ycombinator.com/item?id=43113790) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -167,15 +167,15 @@ Chrome开发者团队正在解决**<select>元素**样式化的难题，现已�
 
 ---
 
-## <a name="13"></a>13. 在240个浏览器标签中运行乒乓球游戏 
-<small>🔗 [eieio.games](https://eieio.games/blog/running-pong-in-240-browser-tabs/): Running Pong in 240 browser tabs</small>
+## <a name="13"></a>13. 朱莉亚的新视野 
+<small>🔗 [lwn.net](https://lwn.net/Articles/1006117/): New horizons for Julia</small>
 
 
-| 🔥🔥: 167 \| 💬: [21](https://news.ycombinator.com/item?id=43119086) \| 🗓️ 2025-02-20
+| 🔥🔥: 176 \| 💬: [46](https://news.ycombinator.com/item?id=43118962) \| 🗓️ 2025-02-20
 
 
 <br />
-作者利用未关闭的浏览器标签，成功在240个标签中运行**乒乓球**游戏。通过**AppleScript**自动创建标签并使用**Web Workers**来更新图标，解决了后台标签更新缓慢的问题。最终实现了在标签栏中动态显示游戏状态，展示了创造性的编程技巧和对浏览器功能的深刻理解。
+朱莉亚是一种面向科学和工程的通用编程语言，自2012年发布以来不断发展。最新的1.11版本引入了**静态二进制**生成的实验性方法，显著减少了二进制文件的大小，解决了用户对程序分发的长期抱怨。此外，**juliaup**工具简化了安装和版本管理，适合不熟悉命令行的用户。随着WebAssembly的支持，朱莉亚程序也能在浏览器中运行，尽管目前仍处于开发初期。
 
 ---
 
@@ -183,7 +183,7 @@ Chrome开发者团队正在解决**<select>元素**样式化的难题，现已�
 <small>🔗 [propublica.org](https://www.propublica.org/article/texas-abortion-ban-sepsis-maternal-mortality-analysis): Texas banned abortion, then sepsis rates soared</small>
 
 
-| 🔥🔥: 159 \| 💬: [82](https://news.ycombinator.com/item?id=43114990) \| 🗓️ 2025-02-20
+| 🔥🔥: 161 \| 💬: [82](https://news.ycombinator.com/item?id=43114990) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -195,7 +195,7 @@ ProPublica的分析显示，自2021年德克萨斯州实施堕胎禁令后，孕
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/19/magazine/cryptocurrency-scam-kansas-heartland-bank.html): A cryptocurrency scam that turned a small town against itself</small>
 
 
-| 🔥🔥: 156 \| 💬: [110](https://news.ycombinator.com/item?id=43116410) \| 🗓️ 2025-02-20
+| 🔥🔥: 157 \| 💬: [111](https://news.ycombinator.com/item?id=43116410) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -203,23 +203,11 @@ ProPublica的分析显示，自2021年德克萨斯州实施堕胎禁令后，孕
 
 ---
 
-## <a name="16"></a>16. Spice86 – 一款用于实模式逆向工程的PC模拟器 
-<small>🔗 [github.com](https://github.com/OpenRakis/Spice86): Spice86 – A PC emulator for real mode reverse engineering</small>
-
-
-| 🔥🔥: 143 \| 💬: [31](https://news.ycombinator.com/item?id=43116112) \| 🗓️ 2025-02-20
-
-
-<br />
-Spice86是一款用于执行、逆向工程和重写无源代码的实模式DOS程序的工具。它支持Windows、macOS和Linux，采用.NET 8开发。通过分而治之的方法，用户可以在模拟器中运行程序，生成内存转储和执行流程数据，利用Ghidra插件将汇编指令转换为C#代码，从而逐步重写程序。Spice86还提供了内置调试器和GDB支持，便于动态分析和调试。
-
----
-
-## <a name="17"></a>17. TinyCompiler：一个周末的编译器 
+## <a name="16"></a>16. TinyCompiler：一个周末的编译器 
 <small>🔗 [ssloy.github.io](https://ssloy.github.io/tinycompiler/): TinyCompiler: A compiler in a week-end</small>
 
 
-| 🔥🔥: 142 \| 💬: [44](https://news.ycombinator.com/item?id=43120873) \| 🗓️ 2025-02-20
+| 🔥🔥: 149 \| 💬: [47](https://news.ycombinator.com/item?id=43120873) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -227,7 +215,55 @@ TinyCompiler是一个关于编译器工作原理的系列文章，作者在一�
 
 ---
 
-## <a name="18"></a>18. Obsidian 现已免费使用 
+## <a name="17"></a>17. Spice86 – 一款用于实模式逆向工程的PC模拟器 
+<small>🔗 [github.com](https://github.com/OpenRakis/Spice86): Spice86 – A PC emulator for real mode reverse engineering</small>
+
+
+| 🔥🔥: 144 \| 💬: [33](https://news.ycombinator.com/item?id=43116112) \| 🗓️ 2025-02-20
+
+
+<br />
+Spice86是一款用于执行、逆向工程和重写无源代码的实模式DOS程序的工具。它支持Windows、macOS和Linux，采用.NET 8开发。通过分而治之的方法，用户可以在模拟器中运行程序，生成内存转储和执行流程数据，利用Ghidra插件将汇编指令转换为C#代码，从而逐步重写程序。Spice86还提供了内置调试器和GDB支持，便于动态分析和调试。
+
+---
+
+## <a name="18"></a>18. 我倾注心血的AI却无人问津 
+<small>🔗 [newslttrs.com](https://newslttrs.com/i-put-my-heart-and-soul-into-this-ai-but-nobody-cares/): I put my heart and soul into this AI but nobody cares</small>
+
+
+| 🔥🔥: 141 \| 💬: [66](https://news.ycombinator.com/item?id=43120802) \| 🗓️ 2025-02-20
+
+
+<br />
+社交媒体上充斥着**点击诱饵**和**虚假内容**，如今借助生成式AI，这些内容变得更加容易制造。文章提到了一些AI生成的图像，如“悲伤烘焙者”和“可怜的动物”，尽管明显是伪造的，却依然吸引了大量评论和互动。人们在这些内容下留言，甚至为这些虚构的创作者送出金钱，形成了一种**内容农场**的经济模式。这些农场通过吸引流量和广告收入获利，尽管内容质量低劣，但在数字世界中却形成了自我维持的循环。
+
+---
+
+## <a name="19"></a>19. DOGE声称削减社保232亿美元，实际仅为56万美元 
+<small>🔗 [theintercept.com](https://theintercept.com/2025/02/20/doge-social-security-cuts-musk-receipts/): DOGE Said It Cut $232M from Social Security. It Was Only About Half a Mil</small>
+
+
+| 🔥🔥: 131 \| 💬: [31](https://news.ycombinator.com/item?id=43121408) \| 🗓️ 2025-02-20
+
+
+<br />
+“政府效率部”声称通过取消社保局的IT合同为纳税人节省了近232万美元，实际上只节省了560,000美元。这一差异源于对“性别X标记”项目的取消，而该项目与特朗普政府的反跨性别政策有关。尽管DOGE自称已识别出数十亿美元的节省，但其数据多次被媒体揭穿，显示出其透明度和准确性不足。
+
+---
+
+## <a name="20"></a>20. 无法通过AI建立护城河 
+<small>🔗 [frontierai.substack.com](https://frontierai.substack.com/p/you-cant-build-a-moat-with-ai-redux): You can’t build a moat with AI (redux)</small>
+
+
+| 🔥🔥: 126 \| 💬: [96](https://news.ycombinator.com/item?id=43118512) \| 🗓️ 2025-02-20
+
+
+<br />
+随着AI的普及，**依靠AI作为差异化因素**已经不再有效。文章指出，单靠**大型语言模型（LLMs）**并不能使产品独特，真正的竞争优势在于用户体验、深度集成和数据的有效利用。企业需要重新思考如何将AI融入用户工作流程，以提供更大的价值。
+
+---
+
+## <a name="21"></a>21. Obsidian 现已免费使用 
 <small>🔗 [obsidian.md](https://obsidian.md/pricing): Obsidian is now free for work</small>
 
 
@@ -239,47 +275,11 @@ Obsidian 允许用户**无需注册**即可使用其应用程序，提供无限�
 
 ---
 
-## <a name="19"></a>19. 无法通过AI建立护城河 
-<small>🔗 [frontierai.substack.com](https://frontierai.substack.com/p/you-cant-build-a-moat-with-ai-redux): You can’t build a moat with AI (redux)</small>
-
-
-| 🔥🔥: 125 \| 💬: [94](https://news.ycombinator.com/item?id=43118512) \| 🗓️ 2025-02-20
-
-
-<br />
-随着AI的普及，**依靠AI作为差异化因素**已经不再有效。文章指出，单靠**大型语言模型（LLMs）**并不能使产品独特，真正的竞争优势在于用户体验、深度集成和数据的有效利用。企业需要重新思考如何将AI融入用户工作流程，以提供更大的价值。
-
----
-
-## <a name="20"></a>20. 我倾注心血的AI却无人问津 
-<small>🔗 [newslttrs.com](https://newslttrs.com/i-put-my-heart-and-soul-into-this-ai-but-nobody-cares/): I put my heart and soul into this AI but nobody cares</small>
-
-
-| 🔥🔥: 124 \| 💬: [45](https://news.ycombinator.com/item?id=43120802) \| 🗓️ 2025-02-20
-
-
-<br />
-社交媒体上充斥着**点击诱饵**和**虚假内容**，如今借助生成式AI，这些内容变得更加容易制造。文章提到了一些AI生成的图像，如“悲伤烘焙者”和“可怜的动物”，尽管明显是伪造的，却依然吸引了大量评论和互动。人们在这些内容下留言，甚至为这些虚构的创作者送出金钱，形成了一种**内容农场**的经济模式。这些农场通过吸引流量和广告收入获利，尽管内容质量低劣，但在数字世界中却形成了自我维持的循环。
-
----
-
-## <a name="21"></a>21. DOGE声称削减社保232亿美元，实际仅为56万美元 
-<small>🔗 [theintercept.com](https://theintercept.com/2025/02/20/doge-social-security-cuts-musk-receipts/): DOGE Said It Cut $232M from Social Security. It Was Only About Half a Mil</small>
-
-
-| 🔥🔥: 124 \| 💬: [30](https://news.ycombinator.com/item?id=43121408) \| 🗓️ 2025-02-20
-
-
-<br />
-“政府效率部”声称通过取消社保局的IT合同为纳税人节省了近232万美元，实际上只节省了560,000美元。这一差异源于对“性别X标记”项目的取消，而该项目与特朗普政府的反跨性别政策有关。尽管DOGE自称已识别出数十亿美元的节省，但其数据多次被媒体揭穿，显示出其透明度和准确性不足。
-
----
-
 ## <a name="22"></a>22. RT64：N64图形渲染器的增强体验 
 <small>🔗 [github.com](https://github.com/rt64/rt64): RT64: N64 graphics renderer in emulators and native ports</small>
 
 
-| 🔥🔥: 108 \| 💬: [38](https://news.ycombinator.com/item?id=43114362) \| 🗓️ 2025-02-20
+| 🔥🔥: 109 \| 💬: [40](https://news.ycombinator.com/item?id=43114362) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -291,7 +291,7 @@ RT64是一个用于N64游戏的图形渲染器，旨在通过现代API（如D3D1
 <small>🔗 [popzazzle.blogspot.com](https://popzazzle.blogspot.com/2022/06/lynx-browser-land-that-time-revived.html): Lynx Browser: The Land That Time Revived (2022)</small>
 
 
-| 🔥🔥: 103 \| 💬: [47](https://news.ycombinator.com/item?id=43119238) \| 🗓️ 2025-02-20
+| 🔥🔥: 107 \| 💬: [47](https://news.ycombinator.com/item?id=43119238) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -303,7 +303,7 @@ RT64是一个用于N64游戏的图形渲染器，旨在通过现代API（如D3D1
 <small>🔗 [github.com](https://github.com/lox-space/lox): Lox – Oxidized Astrodynamics – A safe, ergonomic astrodynamics library</small>
 
 
-| 🔥🔥: 102 \| 💬: [36](https://news.ycombinator.com/item?id=43115735) \| 🗓️ 2025-02-20
+| 🔥🔥: 102 \| 💬: [38](https://news.ycombinator.com/item?id=43115735) \| 🗓️ 2025-02-20
 
 
 <br />
@@ -315,7 +315,7 @@ Lox是一个**安全且符合人体工程学的天体动力学库**，专为现�
 <small>🔗 [matrix.org](https://matrix.org/blog/2025/02/crossroads/): Matrix Foundation to shut down bridges if it doesn't raise $100K</small>
 
 
-| 🔥: 99 \| 💬: [133](https://news.ycombinator.com/item?id=43116217) \| 🗓️ 2025-02-20
+| 🔥🔥: 102 \| 💬: [133](https://news.ycombinator.com/item?id=43116217) \| 🗓️ 2025-02-20
 
 
 <br />
