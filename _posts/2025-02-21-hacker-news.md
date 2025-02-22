@@ -27,7 +27,7 @@ tags:
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/cgj54eq4vejo): Apple pulls data protection tool after UK government security row</small>
 
 
-| 🔥🔥: 1082 \| 💬: [788](https://news.ycombinator.com/item?id=43128253) \| 🗓️ 2025-02-21
+| 🔥🔥: 1115 \| 💬: [793](https://news.ycombinator.com/item?id=43128253) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [trufflesecurity.com](https://trufflesecurity.com/blog/removing-jeff-bezos-from-my-bed): I found a backdoor into my bed</small>
 
 
-| 🔥🔥: 656 \| 💬: [294](https://news.ycombinator.com/item?id=43129439) \| 🗓️ 2025-02-21
+| 🔥🔥: 673 \| 💬: [299](https://news.ycombinator.com/item?id=43129439) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/02/meta-defends-its-vast-book-torrenting-were-just-a-leech-no-proof-of-seeding/): Meta claims torrenting pirated books isn't illegal without proof of seeding</small>
 
 
-| 🔥🔥: 615 \| 💬: [407](https://news.ycombinator.com/item?id=43125840) \| 🗓️ 2025-02-21
+| 🔥🔥: 619 \| 💬: [408](https://news.ycombinator.com/item?id=43125840) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -63,7 +63,7 @@ Meta在法庭文件中表示，尽管承认为AI训练目的而下载盗版书�
 <small>🔗 [wethebuilders.org](https://www.wethebuilders.org/): We are the builders</small>
 
 
-| 🔥🔥: 449 \| 💬: [187](https://news.ycombinator.com/item?id=43133648) \| 🗓️ 2025-02-21
+| 🔥🔥: 453 \| 💬: [189](https://news.ycombinator.com/item?id=43133648) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -75,7 +75,7 @@ Meta在法庭文件中表示，尽管承认为AI训练目的而下载盗版书�
 <small>🔗 [johnnydecimal.com](https://johnnydecimal.com): Johnny.Decimal – A system to organise your life</small>
 
 
-| 🔥🔥: 346 \| 💬: [189](https://news.ycombinator.com/item?id=43128093) \| 🗓️ 2025-02-21
+| 🔥🔥: 363 \| 💬: [196](https://news.ycombinator.com/item?id=43128093) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -83,23 +83,11 @@ Johnny.Decimal 是一个旨在帮助你快速找到生活中物品的系统。�
 
 ---
 
-## <a name="6"></a>6. SWE-bench数据集的关键问题 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2410.06992): Some critical issues with the SWE-bench dataset</small>
-
-
-| 🔥🔥: 311 \| 💬: [107](https://news.ycombinator.com/item?id=43130732) \| 🗓️ 2025-02-21
-
-
-<br />
-SWE-bench数据集用于评估大型语言模型（LLMs）在软件工程中的编码能力，但存在一些**关键问题**。研究发现，约**32.67%**的成功补丁涉及**解决方案泄露**，而**31.08%**的补丁因测试用例不充分而显得可疑。经过筛选后，SWE-Agent+GPT-4的解决率从**12.47%**降至**3.97%**。此外，超过**94%**的问题在LLM知识截止日期之前创建，可能存在数据泄露风险。
-
----
-
-## <a name="7"></a>7. 在同一软件产品上工作20年 
+## <a name="6"></a>6. 在同一软件产品上工作20年 
 <small>🔗 [successfulsoftware.net](https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/): 20 years working on the same software product</small>
 
 
-| 🔥🔥: 299 \| 💬: [97](https://news.ycombinator.com/item?id=43133174) \| 🗓️ 2025-02-21
+| 🔥🔥: 314 \| 💬: [99](https://news.ycombinator.com/item?id=43133174) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -107,11 +95,23 @@ SWE-bench数据集用于评估大型语言模型（LLMs）在软件工程中的�
 
 ---
 
+## <a name="7"></a>7. SWE-bench数据集的关键问题 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2410.06992): Some critical issues with the SWE-bench dataset</small>
+
+
+| 🔥🔥: 313 \| 💬: [107](https://news.ycombinator.com/item?id=43130732) \| 🗓️ 2025-02-21
+
+
+<br />
+SWE-bench数据集用于评估大型语言模型（LLMs）在软件工程中的编码能力，但存在一些**关键问题**。研究发现，约**32.67%**的成功补丁涉及**解决方案泄露**，而**31.08%**的补丁因测试用例不充分而显得可疑。经过筛选后，SWE-Agent+GPT-4的解决率从**12.47%**降至**3.97%**。此外，超过**94%**的问题在LLM知识截止日期之前创建，可能存在数据泄露风险。
+
+---
+
 ## <a name="8"></a>8. 为什么 Ruby on Rails 仍然重要 
 <small>🔗 [contraption.co](https://www.contraption.co/rails-versus-nextjs/): Why Ruby on Rails still matters</small>
 
 
-| 🔥🔥: 284 \| 💬: [220](https://news.ycombinator.com/item?id=43130546) \| 🗓️ 2025-02-21
+| 🔥🔥: 296 \| 💬: [233](https://news.ycombinator.com/item?id=43130546) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -123,7 +123,7 @@ SWE-bench数据集用于评估大型语言模型（LLMs）在软件工程中的�
 <small>🔗 [digital.archives.caltech.edu](https://digital.archives.caltech.edu/collections/Images/1.10-29/): Richard Feynman's blackboard at the time of his death (1988)</small>
 
 
-| 🔥🔥: 267 \| 💬: [145](https://news.ycombinator.com/item?id=43131017) \| 🗓️ 2025-02-21
+| 🔥🔥: 279 \| 💬: [156](https://news.ycombinator.com/item?id=43131017) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -135,7 +135,7 @@ SWE-bench数据集用于评估大型语言模型（LLMs）在软件工程中的�
 <small>🔗 [suckless.org](https://suckless.org/): Suckless.org: software that sucks less</small>
 
 
-| 🔥🔥: 235 \| 💬: [130](https://news.ycombinator.com/item?id=43131059) \| 🗓️ 2025-02-21
+| 🔥🔥: 244 \| 💬: [138](https://news.ycombinator.com/item?id=43131059) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -147,7 +147,7 @@ suckless.org 是一个专注于**简约、清晰和节俭**的软件开发平台
 <small>🔗 [empathetic.dev](https://www.empathetic.dev/users-dont-care-about-your-tech-stack): Users don't care about your tech stack</small>
 
 
-| 🔥🔥: 211 \| 💬: [249](https://news.ycombinator.com/item?id=43125981) \| 🗓️ 2025-02-21
+| 🔥🔥: 212 \| 💬: [250](https://news.ycombinator.com/item?id=43125981) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -183,7 +183,7 @@ suckless.org 是一个专注于**简约、清晰和节俭**的软件开发平台
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/21/world/europe/baltic-sea-cable-sweden.html): Sweden Investigates New Cable Break Under Baltic Sea</small>
 
 
-| 🔥🔥: 187 \| 💬: [158](https://news.ycombinator.com/item?id=43127425) \| 🗓️ 2025-02-21
+| 🔥🔥: 187 \| 💬: [159](https://news.ycombinator.com/item?id=43127425) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -195,7 +195,7 @@ suckless.org 是一个专注于**简约、清晰和节俭**的软件开发平台
 <small>🔗 [github.com](https://github.com/Edu4rdSHL/fly-to-podman): Fly To Podman: a script that will help you to migrate from Docker</small>
 
 
-| 🔥🔥: 158 \| 💬: [84](https://news.ycombinator.com/item?id=43125487) \| 🗓️ 2025-02-21
+| 🔥🔥: 160 \| 💬: [84](https://news.ycombinator.com/item?id=43125487) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -207,7 +207,7 @@ fly-to-podman是一个小型的bash脚本，旨在帮助用户从Docker迁移到
 <small>🔗 [renpy.org](https://www.renpy.org/): The Ren'Py Visual Novel Engine</small>
 
 
-| 🔥🔥: 143 \| 💬: [43](https://news.ycombinator.com/item?id=43132336) \| 🗓️ 2025-02-21
+| 🔥🔥: 145 \| 💬: [47](https://news.ycombinator.com/item?id=43132336) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -219,7 +219,7 @@ Ren'Py是一个**开源**的视觉小说引擎，支持全球创作者使用文�
 <small>🔗 [space.com](https://www.space.com/space-exploration/james-webb-space-telescope/nasa-james-webb-space-telescope-faces-20-percent-budget-cuts): NASA's James Webb Space Telescope faces potential 20% budget cut</small>
 
 
-| 🔥🔥: 139 \| 💬: [134](https://news.ycombinator.com/item?id=43131045) \| 🗓️ 2025-02-21
+| 🔥🔥: 140 \| 💬: [137](https://news.ycombinator.com/item?id=43131045) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -239,23 +239,11 @@ NASA的**詹姆斯·韦伯太空望远镜**（JWST）可能面临高达**20%的�
 
 ---
 
-## <a name="19"></a>19. 盈利的初创企业 
-<small>🔗 [linear.app](https://linear.app/blog/the-profitable-startup): The Profitable Startup</small>
-
-
-| 🔥🔥: 128 \| 💬: [44](https://news.ycombinator.com/item?id=43130480) \| 🗓️ 2025-02-21
-
-
-<br />
-多年来，初创企业被教导要优先考虑增长，而非盈利。然而，盈利并非不雄心勃勃，而是**掌控自己的命运**。盈利让创始人不再依赖投资者，能够专注于自己的愿景。文章强调，**小团队**通常能提供更高质量的成果，且盈利带来的**安心感**使企业能专注于创造价值，而非筹款。盈利并不难实现，关键在于选择合适的招聘策略和明确的市场定位。
-
----
-
-## <a name="20"></a>20. 深入了解Llama3：揭示详细见解与实现 
+## <a name="19"></a>19. 深入了解Llama3：揭示详细见解与实现 
 <small>🔗 [github.com](https://github.com/therealoliver/Deepdive-llama3-from-scratch): DeepDive in everything of Llama3: revealing detailed insights and implementation</small>
 
 
-| 🔥🔥: 127 \| 💬: [8](https://news.ycombinator.com/item?id=43129887) \| 🗓️ 2025-02-21
+| 🔥🔥: 132 \| 💬: [8](https://news.ycombinator.com/item?id=43129887) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -263,35 +251,23 @@ NASA的**詹姆斯·韦伯太空望远镜**（JWST）可能面临高达**20%的�
 
 ---
 
-## <a name="21"></a>21. 关于运行systemd-nspawn容器的技术探讨 
-<small>🔗 [benjamintoll.com](https://benjamintoll.com/2022/02/04/on-running-systemd-nspawn-containers/): On Running systemd-nspawn Containers (2022)</small>
+## <a name="20"></a>20. 盈利的初创企业 
+<small>🔗 [linear.app](https://linear.app/blog/the-profitable-startup): The Profitable Startup</small>
 
 
-| 🔥🔥: 104 \| 💬: [47](https://news.ycombinator.com/item?id=43125176) \| 🗓️ 2025-02-21
-
-
-<br />
-本文介绍了**systemd-nspawn**，一种安全且易于配置的容器管理工具，类似于chroot但提供更强的安全性。作者分享了如何使用systemd-nspawn运行完整操作系统或命令，并通过实例展示了创建和管理容器的多种方法，包括使用**debootstrap**和**mkosi**等工具。文章强调，systemd-nspawn是一个低层次的解决方案，能够替代Docker等更复杂的工具，鼓励读者重新思考这些流行工具的必要性。
-
----
-
-## <a name="22"></a>22. Yocto、RockPi与SBOM：构建现代嵌入式Linux镜像 
-<small>🔗 [vpetersson.com](https://vpetersson.com/2025/02/21/yocto-rockpi-and-sboms.html): Yocto, RockPi and SBOMs: Building modern embedded Linux images</small>
-
-
-| 🔥🔥: 103 \| 💬: [56](https://news.ycombinator.com/item?id=43131902) \| 🗓️ 2025-02-21
+| 🔥🔥: 129 \| 💬: [44](https://news.ycombinator.com/item?id=43130480) \| 🗓️ 2025-02-21
 
 
 <br />
-我想使用**Yocto**为Rock Pi 4生成一个最新的磁盘镜像，包含CUPS和Docker，以更好地理解Yocto并测试新的SBOM生成特性。RockPi的官方镜像已过时，但Yocto支持该板，能够生成高质量的**软件材料清单**（SBOM）。Yocto是一个开源框架，适用于嵌入式系统，提供灵活的构建系统。通过Yocto构建镜像时，需注意其默认不支持在线更新，需重新闪存镜像。未来计划增加TTY支持和自动磁盘扩展功能。
+多年来，初创企业被教导要优先考虑增长，而非盈利。然而，盈利并非不雄心勃勃，而是**掌控自己的命运**。盈利让创始人不再依赖投资者，能够专注于自己的愿景。文章强调，**小团队**通常能提供更高质量的成果，且盈利带来的**安心感**使企业能专注于创造价值，而非筹款。盈利并不难实现，关键在于选择合适的招聘策略和明确的市场定位。
 
 ---
 
-## <a name="23"></a>23. Bybit首席执行官确认交易所遭黑客攻击，损失14.6亿美元 
-<small>🔗 [tradingview.com](https://www.tradingview.com/news/coindesk:cda1c390e094b:0-bybit-ceo-confirms-exchange-was-hacked-for-1-46b-says-his-firm-can-cover-the-loss/): Bybit CEO Confirms Exchange Was Hacked for $1.46B</small>
+## <a name="21"></a>21. Bybit首席执行官确认交易所遭黑客攻击，损失14.6亿美元 
+<small>🔗 [tradingview.com](https://www.tradingview.com/news/coindesk:cda1c390e094b:0-bybit-ceo-confirms-exchange-was-hacked-for-1-46b-says-his-firm-can-cover-the-loss/): Bybit loses $1.5B in hack but can cover loss, CEO confirms</small>
 
 
-| 🔥🔥: 101 \| 💬: [80](https://news.ycombinator.com/item?id=43130143) \| 🗓️ 2025-02-21
+| 🔥🔥: 109 \| 💬: [81](https://news.ycombinator.com/item?id=43130143) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -299,11 +275,35 @@ NASA的**詹姆斯·韦伯太空望远镜**（JWST）可能面临高达**20%的�
 
 ---
 
+## <a name="22"></a>22. Yocto、RockPi与SBOM：构建现代嵌入式Linux镜像 
+<small>🔗 [vpetersson.com](https://vpetersson.com/2025/02/21/yocto-rockpi-and-sboms.html): Yocto, RockPi and SBOMs: Building modern embedded Linux images</small>
+
+
+| 🔥🔥: 106 \| 💬: [56](https://news.ycombinator.com/item?id=43131902) \| 🗓️ 2025-02-21
+
+
+<br />
+我想使用**Yocto**为Rock Pi 4生成一个最新的磁盘镜像，包含CUPS和Docker，以更好地理解Yocto并测试新的SBOM生成特性。RockPi的官方镜像已过时，但Yocto支持该板，能够生成高质量的**软件材料清单**（SBOM）。Yocto是一个开源框架，适用于嵌入式系统，提供灵活的构建系统。通过Yocto构建镜像时，需注意其默认不支持在线更新，需重新闪存镜像。未来计划增加TTY支持和自动磁盘扩展功能。
+
+---
+
+## <a name="23"></a>23. 关于运行systemd-nspawn容器的技术探讨 
+<small>🔗 [benjamintoll.com](https://benjamintoll.com/2022/02/04/on-running-systemd-nspawn-containers/): On Running systemd-nspawn Containers (2022)</small>
+
+
+| 🔥🔥: 105 \| 💬: [47](https://news.ycombinator.com/item?id=43125176) \| 🗓️ 2025-02-21
+
+
+<br />
+本文介绍了**systemd-nspawn**，一种安全且易于配置的容器管理工具，类似于chroot但提供更强的安全性。作者分享了如何使用systemd-nspawn运行完整操作系统或命令，并通过实例展示了创建和管理容器的多种方法，包括使用**debootstrap**和**mkosi**等工具。文章强调，systemd-nspawn是一个低层次的解决方案，能够替代Docker等更复杂的工具，鼓励读者重新思考这些流行工具的必要性。
+
+---
+
 ## <a name="24"></a>24. 我认为Yann Lecun关于大型语言模型的看法是正确的（但可能只是偶然） 
 <small>🔗 [substack.com](https://substack.com/home/post/p-157633768): I think Yann Lecun was right about LLMs (but perhaps only by accident)</small>
 
 
-| 🔥: 100 \| 💬: [86](https://news.ycombinator.com/item?id=43131022) \| 🗓️ 2025-02-21
+| 🔥🔥: 101 \| 💬: [86](https://news.ycombinator.com/item?id=43131022) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -315,7 +315,7 @@ Yann Lecun对大型语言模型（LLMs）的看法引发了讨论，尽管他的
 <small>🔗 [theregister.com](https://www.theregister.com/2025/02/21/hp_ditches_15_minute_wait_time_call_centers/): HP ditches 15-minute wait time policy due to 'feedback'</small>
 
 
-| 🔥: 94 \| 💬: [101](https://news.ycombinator.com/item?id=43126416) \| 🗓️ 2025-02-21
+| 🔥: 94 \| 💬: [102](https://news.ycombinator.com/item?id=43126416) \| 🗓️ 2025-02-21
 
 
 <br />
