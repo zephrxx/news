@@ -27,7 +27,7 @@ tags:
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/cgj54eq4vejo): Apple pulls data protection tool after UK government security row</small>
 
 
-| 🔥🔥: 1028 \| 💬: [746](https://news.ycombinator.com/item?id=43128253) \| 🗓️ 2025-02-21
+| 🔥🔥: 1055 \| 💬: [772](https://news.ycombinator.com/item?id=43128253) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [trufflesecurity.com](https://trufflesecurity.com/blog/removing-jeff-bezos-from-my-bed): I found a backdoor into my bed</small>
 
 
-| 🔥🔥: 621 \| 💬: [288](https://news.ycombinator.com/item?id=43129439) \| 🗓️ 2025-02-21
+| 🔥🔥: 642 \| 💬: [291](https://news.ycombinator.com/item?id=43129439) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/02/meta-defends-its-vast-book-torrenting-were-just-a-leech-no-proof-of-seeding/): Meta claims torrenting pirated books isn't illegal without proof of seeding</small>
 
 
-| 🔥🔥: 606 \| 💬: [406](https://news.ycombinator.com/item?id=43125840) \| 🗓️ 2025-02-21
+| 🔥🔥: 609 \| 💬: [406](https://news.ycombinator.com/item?id=43125840) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -63,7 +63,7 @@ Meta在法庭文件中表示，尽管承认为AI训练目的而下载盗版书�
 <small>🔗 [wethebuilders.org](https://www.wethebuilders.org/): We are the builders</small>
 
 
-| 🔥🔥: 436 \| 💬: [176](https://news.ycombinator.com/item?id=43133648) \| 🗓️ 2025-02-21
+| 🔥🔥: 445 \| 💬: [182](https://news.ycombinator.com/item?id=43133648) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -75,7 +75,7 @@ Meta在法庭文件中表示，尽管承认为AI训练目的而下载盗版书�
 <small>🔗 [johnnydecimal.com](https://johnnydecimal.com): Johnny.Decimal – A system to organise your life</small>
 
 
-| 🔥🔥: 318 \| 💬: [178](https://news.ycombinator.com/item?id=43128093) \| 🗓️ 2025-02-21
+| 🔥🔥: 330 \| 💬: [186](https://news.ycombinator.com/item?id=43128093) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -87,7 +87,7 @@ Johnny.Decimal 是一个旨在帮助你快速找到生活中物品的系统。�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2410.06992): Some critical issues with the SWE-bench dataset</small>
 
 
-| 🔥🔥: 304 \| 💬: [105](https://news.ycombinator.com/item?id=43130732) \| 🗓️ 2025-02-21
+| 🔥🔥: 307 \| 💬: [105](https://news.ycombinator.com/item?id=43130732) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -99,7 +99,7 @@ SWE-bench数据集用于评估大型语言模型（LLMs）在软件工程中的�
 <small>🔗 [successfulsoftware.net](https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/): 20 years working on the same software product</small>
 
 
-| 🔥🔥: 274 \| 💬: [93](https://news.ycombinator.com/item?id=43133174) \| 🗓️ 2025-02-21
+| 🔥🔥: 283 \| 💬: [94](https://news.ycombinator.com/item?id=43133174) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -107,23 +107,11 @@ SWE-bench数据集用于评估大型语言模型（LLMs）在软件工程中的�
 
 ---
 
-## <a name="8"></a>8. 理查德·费曼去世时的黑板 
-<small>🔗 [digital.archives.caltech.edu](https://digital.archives.caltech.edu/collections/Images/1.10-29/): Richard Feynman's blackboard at the time of his death (1988)</small>
-
-
-| 🔥🔥: 243 \| 💬: [126](https://news.ycombinator.com/item?id=43131017) \| 🗓️ 2025-02-21
-
-
-<br />
-1988年，理查德·费曼的黑板成为了他思想的象征，展示了他在物理学领域的深刻见解和独特风格。这幅黑板的照片记录了他生命最后时刻的思考，体现了他对科学的热爱和对知识的追求，成为了加州理工学院珍贵的历史遗产。
-
----
-
-## <a name="9"></a>9. 为什么 Ruby on Rails 仍然重要 
+## <a name="8"></a>8. 为什么 Ruby on Rails 仍然重要 
 <small>🔗 [contraption.co](https://www.contraption.co/rails-versus-nextjs/): Why Ruby on Rails still matters</small>
 
 
-| 🔥🔥: 239 \| 💬: [177](https://news.ycombinator.com/item?id=43130546) \| 🗓️ 2025-02-21
+| 🔥🔥: 266 \| 💬: [204](https://news.ycombinator.com/item?id=43130546) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -131,11 +119,23 @@ SWE-bench数据集用于评估大型语言模型（LLMs）在软件工程中的�
 
 ---
 
+## <a name="9"></a>9. 理查德·费曼去世时的黑板 
+<small>🔗 [digital.archives.caltech.edu](https://digital.archives.caltech.edu/collections/Images/1.10-29/): Richard Feynman's blackboard at the time of his death (1988)</small>
+
+
+| 🔥🔥: 254 \| 💬: [135](https://news.ycombinator.com/item?id=43131017) \| 🗓️ 2025-02-21
+
+
+<br />
+1988年，理查德·费曼的黑板成为了他思想的象征，展示了他在物理学领域的深刻见解和独特风格。这幅黑板的照片记录了他生命最后时刻的思考，体现了他对科学的热爱和对知识的追求，成为了加州理工学院珍贵的历史遗产。
+
+---
+
 ## <a name="10"></a>10. Suckless.org：软件更简洁 
 <small>🔗 [suckless.org](https://suckless.org/): Suckless.org: software that sucks less</small>
 
 
-| 🔥🔥: 220 \| 💬: [116](https://news.ycombinator.com/item?id=43131059) \| 🗓️ 2025-02-21
+| 🔥🔥: 228 \| 💬: [124](https://news.ycombinator.com/item?id=43131059) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -147,7 +147,7 @@ suckless.org 是一个专注于**简约、清晰和节俭**的软件开发平台
 <small>🔗 [empathetic.dev](https://www.empathetic.dev/users-dont-care-about-your-tech-stack): Users don't care about your tech stack</small>
 
 
-| 🔥🔥: 210 \| 💬: [248](https://news.ycombinator.com/item?id=43125981) \| 🗓️ 2025-02-21
+| 🔥🔥: 210 \| 💬: [249](https://news.ycombinator.com/item?id=43125981) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -171,7 +171,7 @@ suckless.org 是一个专注于**简约、清晰和节俭**的软件开发平台
 <small>🔗 [wired.com](https://www.wired.com/story/faa-doge-elon-musk-space-x/): SpaceX engineers brought on at FAA after probationary employees were fired</small>
 
 
-| 🔥🔥: 192 \| 💬: [122](https://news.ycombinator.com/item?id=43127819) \| 🗓️ 2025-02-21
+| 🔥🔥: 192 \| 💬: [124](https://news.ycombinator.com/item?id=43127819) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -183,7 +183,7 @@ suckless.org 是一个专注于**简约、清晰和节俭**的软件开发平台
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/21/world/europe/baltic-sea-cable-sweden.html): Sweden Investigates New Cable Break Under Baltic Sea</small>
 
 
-| 🔥🔥: 186 \| 💬: [158](https://news.ycombinator.com/item?id=43127425) \| 🗓️ 2025-02-21
+| 🔥🔥: 186 \| 💬: [157](https://news.ycombinator.com/item?id=43127425) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -195,7 +195,7 @@ suckless.org 是一个专注于**简约、清晰和节俭**的软件开发平台
 <small>🔗 [github.com](https://github.com/Edu4rdSHL/fly-to-podman): Fly To Podman: a script that will help you to migrate from Docker</small>
 
 
-| 🔥🔥: 151 \| 💬: [83](https://news.ycombinator.com/item?id=43125487) \| 🗓️ 2025-02-21
+| 🔥🔥: 154 \| 💬: [84](https://news.ycombinator.com/item?id=43125487) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -207,7 +207,7 @@ fly-to-podman是一个小型的bash脚本，旨在帮助用户从Docker迁移到
 <small>🔗 [space.com](https://www.space.com/space-exploration/james-webb-space-telescope/nasa-james-webb-space-telescope-faces-20-percent-budget-cuts): NASA's James Webb Space Telescope faces potential 20% budget cut</small>
 
 
-| 🔥🔥: 138 \| 💬: [130](https://news.ycombinator.com/item?id=43131045) \| 🗓️ 2025-02-21
+| 🔥🔥: 139 \| 💬: [133](https://news.ycombinator.com/item?id=43131045) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -215,23 +215,11 @@ NASA的**詹姆斯·韦伯太空望远镜**（JWST）可能面临高达**20%的�
 
 ---
 
-## <a name="17"></a>17. 丹麦宇航员回应马斯克的“谎言” 
-<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/feb/21/elon-musk-butch-wilmore-suni-williams-nasa-astronaut-iss-claims-biden): 'What a lie': Danish astronaut responds to Musk</small>
-
-
-| 🔥🔥: 130 \| 💬: [73](https://news.ycombinator.com/item?id=43126588) \| 🗓️ 2025-02-21
-
-
-<br />
-丹麦宇航员**安德烈亚斯·莫根森**批评**埃隆·马斯克**关于前总统**拜登**故意抛弃两名宇航员的说法，称其为“谎言”。马斯克声称，NASA的**布奇·威尔莫**和**苏尼·威廉姆斯**因政治原因被留在国际空间站，随后引发争议。莫根森强调，宇航员的返回计划早已确定，并指出马斯克并未提供任何替代救援方案。
-
----
-
-## <a name="18"></a>18. Ren'Py视觉小说引擎 
+## <a name="17"></a>17. Ren'Py视觉小说引擎 
 <small>🔗 [renpy.org](https://www.renpy.org/): The Ren'Py Visual Novel Engine</small>
 
 
-| 🔥🔥: 127 \| 💬: [43](https://news.ycombinator.com/item?id=43132336) \| 🗓️ 2025-02-21
+| 🔥🔥: 136 \| 💬: [43](https://news.ycombinator.com/item?id=43132336) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -239,11 +227,23 @@ Ren'Py是一个**开源**的视觉小说引擎，支持全球创作者使用文�
 
 ---
 
+## <a name="18"></a>18. 丹麦宇航员回应马斯克的“谎言” 
+<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/feb/21/elon-musk-butch-wilmore-suni-williams-nasa-astronaut-iss-claims-biden): 'What a lie': Danish astronaut responds to Musk</small>
+
+
+| 🔥🔥: 131 \| 💬: [73](https://news.ycombinator.com/item?id=43126588) \| 🗓️ 2025-02-21
+
+
+<br />
+丹麦宇航员**安德烈亚斯·莫根森**批评**埃隆·马斯克**关于前总统**拜登**故意抛弃两名宇航员的说法，称其为“谎言”。马斯克声称，NASA的**布奇·威尔莫**和**苏尼·威廉姆斯**因政治原因被留在国际空间站，随后引发争议。莫根森强调，宇航员的返回计划早已确定，并指出马斯克并未提供任何替代救援方案。
+
+---
+
 ## <a name="19"></a>19. 深入了解Llama3：揭示详细见解与实现 
 <small>🔗 [github.com](https://github.com/therealoliver/Deepdive-llama3-from-scratch): DeepDive in everything of Llama3: revealing detailed insights and implementation</small>
 
 
-| 🔥🔥: 121 \| 💬: [8](https://news.ycombinator.com/item?id=43129887) \| 🗓️ 2025-02-21
+| 🔥🔥: 124 \| 💬: [8](https://news.ycombinator.com/item?id=43129887) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -255,7 +255,7 @@ Ren'Py是一个**开源**的视觉小说引擎，支持全球创作者使用文�
 <small>🔗 [linear.app](https://linear.app/blog/the-profitable-startup): The Profitable Startup</small>
 
 
-| 🔥🔥: 120 \| 💬: [43](https://news.ycombinator.com/item?id=43130480) \| 🗓️ 2025-02-21
+| 🔥🔥: 122 \| 💬: [43](https://news.ycombinator.com/item?id=43130480) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -267,7 +267,7 @@ Ren'Py是一个**开源**的视觉小说引擎，支持全球创作者使用文�
 <small>🔗 [benjamintoll.com](https://benjamintoll.com/2022/02/04/on-running-systemd-nspawn-containers/): On Running systemd-nspawn Containers (2022)</small>
 
 
-| 🔥🔥: 102 \| 💬: [47](https://news.ycombinator.com/item?id=43125176) \| 🗓️ 2025-02-21
+| 🔥🔥: 103 \| 💬: [47](https://news.ycombinator.com/item?id=43125176) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -279,7 +279,7 @@ Ren'Py是一个**开源**的视觉小说引擎，支持全球创作者使用文�
 <small>🔗 [tradingview.com](https://www.tradingview.com/news/coindesk:cda1c390e094b:0-bybit-ceo-confirms-exchange-was-hacked-for-1-46b-says-his-firm-can-cover-the-loss/): Bybit CEO Confirms Exchange Was Hacked for $1.46B</small>
 
 
-| 🔥: 100 \| 💬: [76](https://news.ycombinator.com/item?id=43130143) \| 🗓️ 2025-02-21
+| 🔥🔥: 101 \| 💬: [77](https://news.ycombinator.com/item?id=43130143) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -291,7 +291,7 @@ Ren'Py是一个**开源**的视觉小说引擎，支持全球创作者使用文�
 <small>🔗 [substack.com](https://substack.com/home/post/p-157633768): I think Yann Lecun was right about LLMs (but perhaps only by accident)</small>
 
 
-| 🔥: 99 \| 💬: [85](https://news.ycombinator.com/item?id=43131022) \| 🗓️ 2025-02-21
+| 🔥: 100 \| 💬: [85](https://news.ycombinator.com/item?id=43131022) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -303,7 +303,7 @@ Yann Lecun对大型语言模型（LLMs）的看法引发了讨论，尽管他的
 <small>🔗 [theregister.com](https://www.theregister.com/2025/02/21/hp_ditches_15_minute_wait_time_call_centers/): HP ditches 15-minute wait time policy due to 'feedback'</small>
 
 
-| 🔥: 94 \| 💬: [99](https://news.ycombinator.com/item?id=43126416) \| 🗓️ 2025-02-21
+| 🔥: 94 \| 💬: [101](https://news.ycombinator.com/item?id=43126416) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -311,14 +311,14 @@ Yann Lecun对大型语言模型（LLMs）的看法引发了讨论，尽管他的
 
 ---
 
-## <a name="25"></a>25. CDC终止流感疫苗推广活动 
-<small>🔗 [npr.org](https://www.npr.org/sections/shots-health-news/2025/02/19/nx-s1-5302906/cdc-flu-vaccine-campaign-terminated): CDC terminates flu vaccine promotion campaign</small>
+## <a name="25"></a>25. 林纳斯谈Rust与内核DMA层 
+<small>🔗 [lwn.net](https://lwn.net/ml/all/CAHk-=wgLbz1Bm8QhmJ4dJGSmTuV5w_R0Gwvg5kHrYr4Ko9dUHQ@mail.gmail.com/): Linus on Rust and the Kernel DMA Layer</small>
 
 
-| 🔥: 80 \| 💬: [81](https://news.ycombinator.com/item?id=43126704) \| 🗓️ 2025-02-21
+| 🔥: 82 \| 💬: [55](https://news.ycombinator.com/item?id=43127568) \| 🗓️ 2025-02-21
 
 
 <br />
-美国疾病控制与预防中心（CDC）决定停止其成功的“**Wild to Mild**”流感疫苗推广活动，该活动通过对比野生动物与可爱动物的形象，传达疫苗可以减轻流感症状的信息。此决定是在罗伯特·F·肯尼迪担任卫生与公共服务部部长的第一周做出的，尽管当前流感病例激增，住院人数创下15年来的新高。CDC的工作人员表示，该活动已被要求停止，相关网页也已下线。尽管HHS发言人否认了CDC内部的说法，称其官员对新政府的议程持有偏见，但该活动在提高公众对流感疫苗认知方面被认为是有效的。
+林纳斯·托瓦兹在一封邮件中回应了关于Rust在Linux内核中使用的争论。他强调，**没有任何子系统被强迫使用Rust**，并指出维护者不能控制谁可以使用他们的代码。他批评了一些维护者对Rust的抵触态度，认为这不应影响Rust代码的使用。他表示，选择不参与Rust开发的维护者也不应对Rust代码有否决权。托瓦兹认为，维护者应当理解，**不想处理Rust**并不意味着可以干预Rust代码的接口。他提到，维护者可以选择参与Rust的维护，从而对Rust接口有发言权。
 
 ---
