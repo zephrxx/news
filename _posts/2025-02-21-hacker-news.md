@@ -27,7 +27,7 @@ tags:
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/cgj54eq4vejo): Apple pulls data protection tool after UK government security row</small>
 
 
-| 🔥🔥: 1115 \| 💬: [793](https://news.ycombinator.com/item?id=43128253) \| 🗓️ 2025-02-21
+| 🔥🔥: 1150 \| 💬: [803](https://news.ycombinator.com/item?id=43128253) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [trufflesecurity.com](https://trufflesecurity.com/blog/removing-jeff-bezos-from-my-bed): I found a backdoor into my bed</small>
 
 
-| 🔥🔥: 673 \| 💬: [299](https://news.ycombinator.com/item?id=43129439) \| 🗓️ 2025-02-21
+| 🔥🔥: 692 \| 💬: [307](https://news.ycombinator.com/item?id=43129439) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/02/meta-defends-its-vast-book-torrenting-were-just-a-leech-no-proof-of-seeding/): Meta claims torrenting pirated books isn't illegal without proof of seeding</small>
 
 
-| 🔥🔥: 619 \| 💬: [408](https://news.ycombinator.com/item?id=43125840) \| 🗓️ 2025-02-21
+| 🔥🔥: 621 \| 💬: [411](https://news.ycombinator.com/item?id=43125840) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -63,7 +63,7 @@ Meta在法庭文件中表示，尽管承认为AI训练目的而下载盗版书�
 <small>🔗 [wethebuilders.org](https://www.wethebuilders.org/): We are the builders</small>
 
 
-| 🔥🔥: 453 \| 💬: [189](https://news.ycombinator.com/item?id=43133648) \| 🗓️ 2025-02-21
+| 🔥🔥: 458 \| 💬: [187](https://news.ycombinator.com/item?id=43133648) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -75,7 +75,7 @@ Meta在法庭文件中表示，尽管承认为AI训练目的而下载盗版书�
 <small>🔗 [johnnydecimal.com](https://johnnydecimal.com): Johnny.Decimal – A system to organise your life</small>
 
 
-| 🔥🔥: 363 \| 💬: [196](https://news.ycombinator.com/item?id=43128093) \| 🗓️ 2025-02-21
+| 🔥🔥: 369 \| 💬: [206](https://news.ycombinator.com/item?id=43128093) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -87,7 +87,7 @@ Johnny.Decimal 是一个旨在帮助你快速找到生活中物品的系统。�
 <small>🔗 [successfulsoftware.net](https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/): 20 years working on the same software product</small>
 
 
-| 🔥🔥: 314 \| 💬: [99](https://news.ycombinator.com/item?id=43133174) \| 🗓️ 2025-02-21
+| 🔥🔥: 331 \| 💬: [99](https://news.ycombinator.com/item?id=43133174) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -99,7 +99,7 @@ Johnny.Decimal 是一个旨在帮助你快速找到生活中物品的系统。�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2410.06992): Some critical issues with the SWE-bench dataset</small>
 
 
-| 🔥🔥: 313 \| 💬: [107](https://news.ycombinator.com/item?id=43130732) \| 🗓️ 2025-02-21
+| 🔥🔥: 316 \| 💬: [109](https://news.ycombinator.com/item?id=43130732) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -111,7 +111,7 @@ SWE-bench数据集用于评估大型语言模型（LLMs）在软件工程中的�
 <small>🔗 [contraption.co](https://www.contraption.co/rails-versus-nextjs/): Why Ruby on Rails still matters</small>
 
 
-| 🔥🔥: 296 \| 💬: [233](https://news.ycombinator.com/item?id=43130546) \| 🗓️ 2025-02-21
+| 🔥🔥: 312 \| 💬: [254](https://news.ycombinator.com/item?id=43130546) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -123,7 +123,7 @@ SWE-bench数据集用于评估大型语言模型（LLMs）在软件工程中的�
 <small>🔗 [digital.archives.caltech.edu](https://digital.archives.caltech.edu/collections/Images/1.10-29/): Richard Feynman's blackboard at the time of his death (1988)</small>
 
 
-| 🔥🔥: 279 \| 💬: [156](https://news.ycombinator.com/item?id=43131017) \| 🗓️ 2025-02-21
+| 🔥🔥: 299 \| 💬: [156](https://news.ycombinator.com/item?id=43131017) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -135,7 +135,7 @@ SWE-bench数据集用于评估大型语言模型（LLMs）在软件工程中的�
 <small>🔗 [suckless.org](https://suckless.org/): Suckless.org: software that sucks less</small>
 
 
-| 🔥🔥: 244 \| 💬: [138](https://news.ycombinator.com/item?id=43131059) \| 🗓️ 2025-02-21
+| 🔥🔥: 251 \| 💬: [151](https://news.ycombinator.com/item?id=43131059) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -147,7 +147,7 @@ suckless.org 是一个专注于**简约、清晰和节俭**的软件开发平台
 <small>🔗 [empathetic.dev](https://www.empathetic.dev/users-dont-care-about-your-tech-stack): Users don't care about your tech stack</small>
 
 
-| 🔥🔥: 212 \| 💬: [250](https://news.ycombinator.com/item?id=43125981) \| 🗓️ 2025-02-21
+| 🔥🔥: 212 \| 💬: [251](https://news.ycombinator.com/item?id=43125981) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -183,7 +183,7 @@ suckless.org 是一个专注于**简约、清晰和节俭**的软件开发平台
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/21/world/europe/baltic-sea-cable-sweden.html): Sweden Investigates New Cable Break Under Baltic Sea</small>
 
 
-| 🔥🔥: 187 \| 💬: [159](https://news.ycombinator.com/item?id=43127425) \| 🗓️ 2025-02-21
+| 🔥🔥: 187 \| 💬: [160](https://news.ycombinator.com/item?id=43127425) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -195,7 +195,7 @@ suckless.org 是一个专注于**简约、清晰和节俭**的软件开发平台
 <small>🔗 [github.com](https://github.com/Edu4rdSHL/fly-to-podman): Fly To Podman: a script that will help you to migrate from Docker</small>
 
 
-| 🔥🔥: 160 \| 💬: [84](https://news.ycombinator.com/item?id=43125487) \| 🗓️ 2025-02-21
+| 🔥🔥: 161 \| 💬: [84](https://news.ycombinator.com/item?id=43125487) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -207,7 +207,7 @@ fly-to-podman是一个小型的bash脚本，旨在帮助用户从Docker迁移到
 <small>🔗 [renpy.org](https://www.renpy.org/): The Ren'Py Visual Novel Engine</small>
 
 
-| 🔥🔥: 145 \| 💬: [47](https://news.ycombinator.com/item?id=43132336) \| 🗓️ 2025-02-21
+| 🔥🔥: 147 \| 💬: [53](https://news.ycombinator.com/item?id=43132336) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -219,7 +219,7 @@ Ren'Py是一个**开源**的视觉小说引擎，支持全球创作者使用文�
 <small>🔗 [space.com](https://www.space.com/space-exploration/james-webb-space-telescope/nasa-james-webb-space-telescope-faces-20-percent-budget-cuts): NASA's James Webb Space Telescope faces potential 20% budget cut</small>
 
 
-| 🔥🔥: 140 \| 💬: [137](https://news.ycombinator.com/item?id=43131045) \| 🗓️ 2025-02-21
+| 🔥🔥: 142 \| 💬: [138](https://news.ycombinator.com/item?id=43131045) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -227,7 +227,19 @@ NASA的**詹姆斯·韦伯太空望远镜**（JWST）可能面临高达**20%的�
 
 ---
 
-## <a name="18"></a>18. 丹麦宇航员回应马斯克的“谎言” 
+## <a name="18"></a>18. 深入了解Llama3：揭示详细见解与实现 
+<small>🔗 [github.com](https://github.com/therealoliver/Deepdive-llama3-from-scratch): DeepDive in everything of Llama3: revealing detailed insights and implementation</small>
+
+
+| 🔥🔥: 136 \| 💬: [8](https://news.ycombinator.com/item?id=43129887) \| 🗓️ 2025-02-21
+
+
+<br />
+本项目旨在帮助用户逐步掌握Llama3模型的推理过程，涵盖**tokenizer**、**transformer**和**attention机制**等核心概念。通过优化结构、详细的代码注释和维度跟踪，用户可以轻松理解实现原理。此外，项目提供中英文文档，确保信息准确传达。
+
+---
+
+## <a name="19"></a>19. 丹麦宇航员回应马斯克的“谎言” 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/feb/21/elon-musk-butch-wilmore-suni-williams-nasa-astronaut-iss-claims-biden): 'What a lie': Danish astronaut responds to Musk</small>
 
 
@@ -236,18 +248,6 @@ NASA的**詹姆斯·韦伯太空望远镜**（JWST）可能面临高达**20%的�
 
 <br />
 丹麦宇航员**安德烈亚斯·莫根森**批评**埃隆·马斯克**关于前总统**拜登**故意抛弃两名宇航员的说法，称其为“谎言”。马斯克声称，NASA的**布奇·威尔莫**和**苏尼·威廉姆斯**因政治原因被留在国际空间站，随后引发争议。莫根森强调，宇航员的返回计划早已确定，并指出马斯克并未提供任何替代救援方案。
-
----
-
-## <a name="19"></a>19. 深入了解Llama3：揭示详细见解与实现 
-<small>🔗 [github.com](https://github.com/therealoliver/Deepdive-llama3-from-scratch): DeepDive in everything of Llama3: revealing detailed insights and implementation</small>
-
-
-| 🔥🔥: 132 \| 💬: [8](https://news.ycombinator.com/item?id=43129887) \| 🗓️ 2025-02-21
-
-
-<br />
-本项目旨在帮助用户逐步掌握Llama3模型的推理过程，涵盖**tokenizer**、**transformer**和**attention机制**等核心概念。通过优化结构、详细的代码注释和维度跟踪，用户可以轻松理解实现原理。此外，项目提供中英文文档，确保信息准确传达。
 
 ---
 
@@ -267,7 +267,7 @@ NASA的**詹姆斯·韦伯太空望远镜**（JWST）可能面临高达**20%的�
 <small>🔗 [tradingview.com](https://www.tradingview.com/news/coindesk:cda1c390e094b:0-bybit-ceo-confirms-exchange-was-hacked-for-1-46b-says-his-firm-can-cover-the-loss/): Bybit loses $1.5B in hack but can cover loss, CEO confirms</small>
 
 
-| 🔥🔥: 109 \| 💬: [81](https://news.ycombinator.com/item?id=43130143) \| 🗓️ 2025-02-21
+| 🔥🔥: 127 \| 💬: [104](https://news.ycombinator.com/item?id=43130143) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -275,11 +275,23 @@ NASA的**詹姆斯·韦伯太空望远镜**（JWST）可能面临高达**20%的�
 
 ---
 
-## <a name="22"></a>22. Yocto、RockPi与SBOM：构建现代嵌入式Linux镜像 
+## <a name="22"></a>22. 谁还需要运动鞋机器人，AI可以为你幻觉胜利？ 
+<small>🔗 [eql.com](https://www.eql.com/media/sneaker-bot-ai-error): Who needs a sneaker bot when AI can hallucinate a win for you?</small>
+
+
+| 🔥🔥: 115 \| 💬: [27](https://news.ycombinator.com/item?id=43135382) \| 🗓️ 2025-02-21
+
+
+<br />
+每年二月，EQL都会迎来运动鞋发售的高峰。今年，**乔丹品牌**为庆祝迈克尔·乔丹在1985年全明星赛上的签名鞋发布了新款。然而，在通知获胜者时，出现了奇怪的错误，**Yahoo邮箱**的AI生成了虚假的获胜信息，导致用户混淆。经过调查，发现问题源于Yahoo的新AI功能，造成了不必要的困扰。EQL提醒用户如有疑问可通过官方渠道确认结果，以避免AI带来的困扰。
+
+---
+
+## <a name="23"></a>23. Yocto、RockPi与SBOM：构建现代嵌入式Linux镜像 
 <small>🔗 [vpetersson.com](https://vpetersson.com/2025/02/21/yocto-rockpi-and-sboms.html): Yocto, RockPi and SBOMs: Building modern embedded Linux images</small>
 
 
-| 🔥🔥: 106 \| 💬: [56](https://news.ycombinator.com/item?id=43131902) \| 🗓️ 2025-02-21
+| 🔥🔥: 111 \| 💬: [57](https://news.ycombinator.com/item?id=43131902) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -287,11 +299,11 @@ NASA的**詹姆斯·韦伯太空望远镜**（JWST）可能面临高达**20%的�
 
 ---
 
-## <a name="23"></a>23. 关于运行systemd-nspawn容器的技术探讨 
+## <a name="24"></a>24. 关于运行systemd-nspawn容器的技术探讨 
 <small>🔗 [benjamintoll.com](https://benjamintoll.com/2022/02/04/on-running-systemd-nspawn-containers/): On Running systemd-nspawn Containers (2022)</small>
 
 
-| 🔥🔥: 105 \| 💬: [47](https://news.ycombinator.com/item?id=43125176) \| 🗓️ 2025-02-21
+| 🔥🔥: 105 \| 💬: [48](https://news.ycombinator.com/item?id=43125176) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -299,26 +311,14 @@ NASA的**詹姆斯·韦伯太空望远镜**（JWST）可能面临高达**20%的�
 
 ---
 
-## <a name="24"></a>24. 我认为Yann Lecun关于大型语言模型的看法是正确的（但可能只是偶然） 
+## <a name="25"></a>25. 我认为Yann Lecun关于大型语言模型的看法是正确的（但可能只是偶然） 
 <small>🔗 [substack.com](https://substack.com/home/post/p-157633768): I think Yann Lecun was right about LLMs (but perhaps only by accident)</small>
 
 
-| 🔥🔥: 101 \| 💬: [86](https://news.ycombinator.com/item?id=43131022) \| 🗓️ 2025-02-21
+| 🔥🔥: 104 \| 💬: [87](https://news.ycombinator.com/item?id=43131022) \| 🗓️ 2025-02-21
 
 
 <br />
 Yann Lecun对大型语言模型（LLMs）的看法引发了讨论，尽管他的观点可能并非完全准确。文章探讨了LLMs的潜力和局限性，强调了**技术的复杂性**和**意外的成功**。作者认为，尽管Lecun的结论可能是偶然得出的，但它们仍然为理解LLMs的未来发展提供了重要的视角。
-
----
-
-## <a name="25"></a>25. 惠普因“反馈”取消15分钟等待政策 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/02/21/hp_ditches_15_minute_wait_time_call_centers/): HP ditches 15-minute wait time policy due to 'feedback'</small>
-
-
-| 🔥: 94 \| 💬: [102](https://news.ycombinator.com/item?id=43126416) \| 🗓️ 2025-02-21
-
-
-<br />
-惠普近日因客户反馈，**突然取消**了强制性的15分钟等待时间政策，该政策要求拨打电话支持的客户在与客服人员通话前等待15分钟。此政策于2月18日实施，旨在鼓励客户使用数字支持渠道，但遭到了客户和员工的强烈反对。惠普表示，他们意识到及时与客服人员沟通的重要性，因此将优先提供快速的电话支持，以提升客户服务体验。
 
 ---
