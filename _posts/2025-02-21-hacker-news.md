@@ -27,7 +27,7 @@ tags:
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/cgj54eq4vejo): Apple pulls data protection tool after UK government security row</small>
 
 
-| 🔥🔥: 829 \| 💬: [638](https://news.ycombinator.com/item?id=43128253) \| 🗓️ 2025-02-21
+| 🔥🔥: 875 \| 💬: [674](https://news.ycombinator.com/item?id=43128253) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/02/meta-defends-its-vast-book-torrenting-were-just-a-leech-no-proof-of-seeding/): Meta claims torrenting pirated books isn't illegal without proof of seeding</small>
 
 
-| 🔥🔥: 580 \| 💬: [395](https://news.ycombinator.com/item?id=43125840) \| 🗓️ 2025-02-21
+| 🔥🔥: 590 \| 💬: [397](https://news.ycombinator.com/item?id=43125840) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -51,7 +51,7 @@ Meta在法庭文件中表示，尽管承认为AI训练目的而下载盗版书�
 <small>🔗 [trufflesecurity.com](https://trufflesecurity.com/blog/removing-jeff-bezos-from-my-bed): I found a backdoor into my bed</small>
 
 
-| 🔥🔥: 503 \| 💬: [237](https://news.ycombinator.com/item?id=43129439) \| 🗓️ 2025-02-21
+| 🔥🔥: 544 \| 💬: [255](https://news.ycombinator.com/item?id=43129439) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -63,7 +63,7 @@ Meta在法庭文件中表示，尽管承认为AI训练目的而下载盗版书�
 <small>🔗 [wethebuilders.org](https://www.wethebuilders.org/): We are the builders</small>
 
 
-| 🔥🔥: 310 \| 💬: [108](https://news.ycombinator.com/item?id=43133648) \| 🗓️ 2025-02-21
+| 🔥🔥: 376 \| 💬: [156](https://news.ycombinator.com/item?id=43133648) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -75,7 +75,7 @@ Meta在法庭文件中表示，尽管承认为AI训练目的而下载盗版书�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2410.06992): Some critical issues with the SWE-bench dataset</small>
 
 
-| 🔥🔥: 288 \| 💬: [93](https://news.ycombinator.com/item?id=43130732) \| 🗓️ 2025-02-21
+| 🔥🔥: 293 \| 💬: [98](https://news.ycombinator.com/item?id=43130732) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -87,7 +87,7 @@ SWE-bench数据集用于评估大型语言模型（LLMs）在软件工程中的�
 <small>🔗 [johnnydecimal.com](https://johnnydecimal.com): Johnny.Decimal – A system to organise your life</small>
 
 
-| 🔥🔥: 252 \| 💬: [161](https://news.ycombinator.com/item?id=43128093) \| 🗓️ 2025-02-21
+| 🔥🔥: 268 \| 💬: [167](https://news.ycombinator.com/item?id=43128093) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -111,7 +111,7 @@ Johnny.Decimal 是一个旨在帮助你快速找到生活中物品的系统。�
 <small>🔗 [empathetic.dev](https://www.empathetic.dev/users-dont-care-about-your-tech-stack): Users don't care about your tech stack</small>
 
 
-| 🔥🔥: 201 \| 💬: [242](https://news.ycombinator.com/item?id=43125981) \| 🗓️ 2025-02-21
+| 🔥🔥: 201 \| 💬: [244](https://news.ycombinator.com/item?id=43125981) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -119,15 +119,15 @@ Johnny.Decimal 是一个旨在帮助你快速找到生活中物品的系统。�
 
 ---
 
-## <a name="9"></a>9. SpaceX工程师被引入FAA，接替被解雇的试用员工 
-<small>🔗 [wired.com](https://www.wired.com/story/faa-doge-elon-musk-space-x/): SpaceX engineers brought on at FAA after probationary employees were fired</small>
+## <a name="9"></a>9. 在同一软件产品上工作20年 
+<small>🔗 [successfulsoftware.net](https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/): 20 years working on the same software product</small>
 
 
-| 🔥🔥: 187 \| 💬: [114](https://news.ycombinator.com/item?id=43127819) \| 🗓️ 2025-02-21
+| 🔥🔥: 197 \| 💬: [61](https://news.ycombinator.com/item?id=43133174) \| 🗓️ 2025-02-21
 
 
 <br />
-埃隆·马斯克的SpaceX工程师被聘为美国联邦航空局（FAA）的高级顾问，此举发生在数百名FAA试用员工被解雇后。新员工在未完全审核的情况下通过特殊授权被引入，旨在提升航空安全。FAA近期经历了航空事故高发的严峻时刻，且面临来自国会的质疑，担心这些新员工缺乏航空领域的专业知识。
+我于2005年2月发布了我的桌面座位规划软件PerfectTablePlan的第一个版本。经过20年的发展，PerfectTablePlan已更新至第七版，仍然保持强劲。尽管我还推出了其他产品，但PerfectTablePlan是我最成功的项目。其成功源于艰苦的努力和一些运气。最初，我为自己的婚礼设计座位图，发现市面上的软件不尽人意，于是决定自己开发。尽管经历了许多挑战，包括疫情期间销售几乎归零，但PerfectTablePlan依然盈利，且我享受着灵活的生活方式。现在，我将时间分配给PerfectTablePlan及其他两个产品，期待继续改进PerfectTablePlan，直到退休。
 
 ---
 
@@ -135,7 +135,7 @@ Johnny.Decimal 是一个旨在帮助你快速找到生活中物品的系统。�
 <small>🔗 [contraption.co](https://www.contraption.co/rails-versus-nextjs/): Why Ruby on Rails still matters</small>
 
 
-| 🔥🔥: 180 \| 💬: [140](https://news.ycombinator.com/item?id=43130546) \| 🗓️ 2025-02-21
+| 🔥🔥: 196 \| 💬: [153](https://news.ycombinator.com/item?id=43130546) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -143,11 +143,23 @@ Johnny.Decimal 是一个旨在帮助你快速找到生活中物品的系统。�
 
 ---
 
-## <a name="11"></a>11. 瑞典调查波罗的海新电缆断裂事件 
+## <a name="11"></a>11. SpaceX工程师被引入FAA，接替被解雇的试用员工 
+<small>🔗 [wired.com](https://www.wired.com/story/faa-doge-elon-musk-space-x/): SpaceX engineers brought on at FAA after probationary employees were fired</small>
+
+
+| 🔥🔥: 189 \| 💬: [116](https://news.ycombinator.com/item?id=43127819) \| 🗓️ 2025-02-21
+
+
+<br />
+埃隆·马斯克的SpaceX工程师被聘为美国联邦航空局（FAA）的高级顾问，此举发生在数百名FAA试用员工被解雇后。新员工在未完全审核的情况下通过特殊授权被引入，旨在提升航空安全。FAA近期经历了航空事故高发的严峻时刻，且面临来自国会的质疑，担心这些新员工缺乏航空领域的专业知识。
+
+---
+
+## <a name="12"></a>12. 瑞典调查波罗的海新电缆断裂事件 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/21/world/europe/baltic-sea-cable-sweden.html): Sweden Investigates New Cable Break Under Baltic Sea</small>
 
 
-| 🔥🔥: 177 \| 💬: [141](https://news.ycombinator.com/item?id=43127425) \| 🗓️ 2025-02-21
+| 🔥🔥: 179 \| 💬: [144](https://news.ycombinator.com/item?id=43127425) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -155,11 +167,11 @@ Johnny.Decimal 是一个旨在帮助你快速找到生活中物品的系统。�
 
 ---
 
-## <a name="12"></a>12. 理查德·费曼去世时的黑板 
+## <a name="13"></a>13. 理查德·费曼去世时的黑板 
 <small>🔗 [digital.archives.caltech.edu](https://digital.archives.caltech.edu/collections/Images/1.10-29/): Richard Feynman's blackboard at the time of his death (1988)</small>
 
 
-| 🔥🔥: 132 \| 💬: [83](https://news.ycombinator.com/item?id=43131017) \| 🗓️ 2025-02-21
+| 🔥🔥: 161 \| 💬: [93](https://news.ycombinator.com/item?id=43131017) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -167,11 +179,23 @@ Johnny.Decimal 是一个旨在帮助你快速找到生活中物品的系统。�
 
 ---
 
-## <a name="13"></a>13. 从Docker迁移到Podman的脚本 
+## <a name="14"></a>14. Suckless.org：软件更简洁 
+<small>🔗 [suckless.org](https://suckless.org/): Suckless.org: software that sucks less</small>
+
+
+| 🔥🔥: 143 \| 💬: [71](https://news.ycombinator.com/item?id=43131059) \| 🗓️ 2025-02-21
+
+
+<br />
+suckless.org 是一个专注于**简约、清晰和节俭**的软件开发平台，提供如 **dwm**、**dmenu** 和 **st** 等高质量工具。该网站鼓励开发者参与社区，分享代码和项目理念，致力于创造不“糟糕”的软件。最近发布了多个版本更新，修复了各种错误并提升了软件性能。
+
+---
+
+## <a name="15"></a>15. 从Docker迁移到Podman的脚本 
 <small>🔗 [github.com](https://github.com/Edu4rdSHL/fly-to-podman): Fly To Podman: a script that will help you to migrate from Docker</small>
 
 
-| 🔥🔥: 131 \| 💬: [78](https://news.ycombinator.com/item?id=43125487) \| 🗓️ 2025-02-21
+| 🔥🔥: 136 \| 💬: [78](https://news.ycombinator.com/item?id=43125487) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -179,7 +203,19 @@ fly-to-podman是一个小型的bash脚本，旨在帮助用户从Docker迁移到
 
 ---
 
-## <a name="14"></a>14. 丹麦宇航员回应马斯克的“谎言” 
+## <a name="16"></a>16. NASA的詹姆斯·韦伯太空望远镜面临20%的预算削减 
+<small>🔗 [space.com](https://www.space.com/space-exploration/james-webb-space-telescope/nasa-james-webb-space-telescope-faces-20-percent-budget-cuts): NASA's James Webb Space Telescope faces potential 20% budget cut</small>
+
+
+| 🔥🔥: 131 \| 💬: [107](https://news.ycombinator.com/item?id=43131045) \| 🗓️ 2025-02-21
+
+
+<br />
+NASA的**詹姆斯·韦伯太空望远镜**（JWST）可能面临高达**20%的预算削减**，这将影响其运营的各个方面。尽管该望远镜在科学界的需求激增，科学家们仍需应对预算紧缩的挑战。JWST在其十年主要任务的中期，已经取得了许多突破性发现。预算削减将影响观测提案的审查、数据分析和科学传播等关键领域。
+
+---
+
+## <a name="17"></a>17. 丹麦宇航员回应马斯克的“谎言” 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/feb/21/elon-musk-butch-wilmore-suni-williams-nasa-astronaut-iss-claims-biden): 'What a lie': Danish astronaut responds to Musk</small>
 
 
@@ -191,35 +227,11 @@ fly-to-podman是一个小型的bash脚本，旨在帮助用户从Docker迁移到
 
 ---
 
-## <a name="15"></a>15. NASA的詹姆斯·韦伯太空望远镜面临20%的预算削减 
-<small>🔗 [space.com](https://www.space.com/space-exploration/james-webb-space-telescope/nasa-james-webb-space-telescope-faces-20-percent-budget-cuts): NASA's James Webb Space Telescope faces potential 20% budget cut</small>
-
-
-| 🔥🔥: 117 \| 💬: [88](https://news.ycombinator.com/item?id=43131045) \| 🗓️ 2025-02-21
-
-
-<br />
-NASA的**詹姆斯·韦伯太空望远镜**（JWST）可能面临高达**20%的预算削减**，这将影响其运营的各个方面。尽管该望远镜在科学界的需求激增，科学家们仍需应对预算紧缩的挑战。JWST在其十年主要任务的中期，已经取得了许多突破性发现。预算削减将影响观测提案的审查、数据分析和科学传播等关键领域。
-
----
-
-## <a name="16"></a>16. Suckless.org：软件更简洁 
-<small>🔗 [suckless.org](https://suckless.org/): Suckless.org: software that sucks less</small>
-
-
-| 🔥🔥: 111 \| 💬: [64](https://news.ycombinator.com/item?id=43131059) \| 🗓️ 2025-02-21
-
-
-<br />
-suckless.org 是一个专注于**简约、清晰和节俭**的软件开发平台，提供如 **dwm**、**dmenu** 和 **st** 等高质量工具。该网站鼓励开发者参与社区，分享代码和项目理念，致力于创造不“糟糕”的软件。最近发布了多个版本更新，修复了各种错误并提升了软件性能。
-
----
-
-## <a name="17"></a>17. 盈利的初创企业 
+## <a name="18"></a>18. 盈利的初创企业 
 <small>🔗 [linear.app](https://linear.app/blog/the-profitable-startup): The Profitable Startup</small>
 
 
-| 🔥🔥: 104 \| 💬: [42](https://news.ycombinator.com/item?id=43130480) \| 🗓️ 2025-02-21
+| 🔥🔥: 109 \| 💬: [43](https://news.ycombinator.com/item?id=43130480) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -227,23 +239,11 @@ suckless.org 是一个专注于**简约、清晰和节俭**的软件开发平台
 
 ---
 
-## <a name="18"></a>18. 在同一软件产品上工作20年 
-<small>🔗 [successfulsoftware.net](https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/): 20 years working on the same software product</small>
-
-
-| 🔥: 100 \| 💬: [17](https://news.ycombinator.com/item?id=43133174) \| 🗓️ 2025-02-21
-
-
-<br />
-我于2005年2月发布了我的桌面座位规划软件PerfectTablePlan的第一个版本。经过20年的发展，PerfectTablePlan已更新至第七版，仍然保持强劲。尽管我还推出了其他产品，但PerfectTablePlan是我最成功的项目。其成功源于艰苦的努力和一些运气。最初，我为自己的婚礼设计座位图，发现市面上的软件不尽人意，于是决定自己开发。尽管经历了许多挑战，包括疫情期间销售几乎归零，但PerfectTablePlan依然盈利，且我享受着灵活的生活方式。现在，我将时间分配给PerfectTablePlan及其他两个产品，期待继续改进PerfectTablePlan，直到退休。
-
----
-
 ## <a name="19"></a>19. 关于运行systemd-nspawn容器的技术探讨 
 <small>🔗 [benjamintoll.com](https://benjamintoll.com/2022/02/04/on-running-systemd-nspawn-containers/): On Running systemd-nspawn Containers (2022)</small>
 
 
-| 🔥: 99 \| 💬: [41](https://news.ycombinator.com/item?id=43125176) \| 🗓️ 2025-02-21
+| 🔥: 99 \| 💬: [45](https://news.ycombinator.com/item?id=43125176) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -251,11 +251,23 @@ suckless.org 是一个专注于**简约、清晰和节俭**的软件开发平台
 
 ---
 
-## <a name="20"></a>20. Bybit首席执行官确认交易所遭黑客攻击，损失14.6亿美元 
+## <a name="20"></a>20. 深入了解Llama3：揭示详细见解与实现 
+<small>🔗 [github.com](https://github.com/therealoliver/Deepdive-llama3-from-scratch): DeepDive in everything of Llama3: revealing detailed insights and implementation</small>
+
+
+| 🔥: 99 \| 💬: [4](https://news.ycombinator.com/item?id=43129887) \| 🗓️ 2025-02-21
+
+
+<br />
+本项目旨在帮助用户逐步掌握Llama3模型的推理过程，涵盖**tokenizer**、**transformer**和**attention机制**等核心概念。通过优化结构、详细的代码注释和维度跟踪，用户可以轻松理解实现原理。此外，项目提供中英文文档，确保信息准确传达。
+
+---
+
+## <a name="21"></a>21. Bybit首席执行官确认交易所遭黑客攻击，损失14.6亿美元 
 <small>🔗 [tradingview.com](https://www.tradingview.com/news/coindesk:cda1c390e094b:0-bybit-ceo-confirms-exchange-was-hacked-for-1-46b-says-his-firm-can-cover-the-loss/): Bybit CEO Confirms Exchange Was Hacked for $1.46B</small>
 
 
-| 🔥: 97 \| 💬: [71](https://news.ycombinator.com/item?id=43130143) \| 🗓️ 2025-02-21
+| 🔥: 97 \| 💬: [73](https://news.ycombinator.com/item?id=43130143) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -263,11 +275,11 @@ suckless.org 是一个专注于**简约、清晰和节俭**的软件开发平台
 
 ---
 
-## <a name="21"></a>21. 我认为Yann Lecun关于大型语言模型的看法是正确的（但可能只是偶然） 
+## <a name="22"></a>22. 我认为Yann Lecun关于大型语言模型的看法是正确的（但可能只是偶然） 
 <small>🔗 [substack.com](https://substack.com/home/post/p-157633768): I think Yann Lecun was right about LLMs (but perhaps only by accident)</small>
 
 
-| 🔥: 92 \| 💬: [80](https://news.ycombinator.com/item?id=43131022) \| 🗓️ 2025-02-21
+| 🔥: 93 \| 💬: [83](https://news.ycombinator.com/item?id=43131022) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -275,27 +287,15 @@ Yann Lecun对大型语言模型（LLMs）的看法引发了讨论，尽管他的
 
 ---
 
-## <a name="22"></a>22. 惠普因“反馈”取消15分钟等待政策 
+## <a name="23"></a>23. 惠普因“反馈”取消15分钟等待政策 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/02/21/hp_ditches_15_minute_wait_time_call_centers/): HP ditches 15-minute wait time policy due to 'feedback'</small>
 
 
-| 🔥: 89 \| 💬: [95](https://news.ycombinator.com/item?id=43126416) \| 🗓️ 2025-02-21
+| 🔥: 90 \| 💬: [95](https://news.ycombinator.com/item?id=43126416) \| 🗓️ 2025-02-21
 
 
 <br />
 惠普近日因客户反馈，**突然取消**了强制性的15分钟等待时间政策，该政策要求拨打电话支持的客户在与客服人员通话前等待15分钟。此政策于2月18日实施，旨在鼓励客户使用数字支持渠道，但遭到了客户和员工的强烈反对。惠普表示，他们意识到及时与客服人员沟通的重要性，因此将优先提供快速的电话支持，以提升客户服务体验。
-
----
-
-## <a name="23"></a>23. 深入了解Llama3：揭示详细见解与实现 
-<small>🔗 [github.com](https://github.com/therealoliver/Deepdive-llama3-from-scratch): DeepDive in everything of Llama3: revealing detailed insights and implementation</small>
-
-
-| 🔥: 88 \| 💬: [5](https://news.ycombinator.com/item?id=43129887) \| 🗓️ 2025-02-21
-
-
-<br />
-本项目旨在帮助用户逐步掌握Llama3模型的推理过程，涵盖**tokenizer**、**transformer**和**attention机制**等核心概念。通过优化结构、详细的代码注释和维度跟踪，用户可以轻松理解实现原理。此外，项目提供中英文文档，确保信息准确传达。
 
 ---
 
@@ -315,7 +315,7 @@ Yann Lecun对大型语言模型（LLMs）的看法引发了讨论，尽管他的
 <small>🔗 [lwn.net](https://lwn.net/ml/all/CAHk-=wgLbz1Bm8QhmJ4dJGSmTuV5w_R0Gwvg5kHrYr4Ko9dUHQ@mail.gmail.com/): Linus on Rust and the Kernel DMA Layer</small>
 
 
-| 🔥: 80 \| 💬: [53](https://news.ycombinator.com/item?id=43127568) \| 🗓️ 2025-02-21
+| 🔥: 80 \| 💬: [54](https://news.ycombinator.com/item?id=43127568) \| 🗓️ 2025-02-21
 
 
 <br />
