@@ -9,8 +9,8 @@ tags:
 
 
 1. 苹果因英国政府安全争议撤回数据保护工具；
-1. Meta声称在没有播种证据的情况下，下载盗版书籍并不违法；
 1. 从我的床上移除杰夫·贝索斯；
+1. Meta声称在没有播种证据的情况下，下载盗版书籍并不违法；
 1. 我们是建设者；
 1. Johnny.Decimal – 组织生活的系统；
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/cgj54eq4vejo): Apple pulls data protection tool after UK government security row</small>
 
 
-| 🔥🔥: 989 \| 💬: [716](https://news.ycombinator.com/item?id=43128253) \| 🗓️ 2025-02-21
+| 🔥🔥: 1028 \| 💬: [746](https://news.ycombinator.com/item?id=43128253) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -35,23 +35,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. Meta声称在没有播种证据的情况下，下载盗版书籍并不违法 
-<small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/02/meta-defends-its-vast-book-torrenting-were-just-a-leech-no-proof-of-seeding/): Meta claims torrenting pirated books isn't illegal without proof of seeding</small>
-
-
-| 🔥🔥: 601 \| 💬: [404](https://news.ycombinator.com/item?id=43125840) \| 🗓️ 2025-02-21
-
-
-<br />
-Meta在法庭文件中表示，尽管承认为AI训练目的而下载盗版书籍的数据集，但并没有证据表明其在下载后进行了**播种**。作者们指控Meta通过**非法torrent**共享其作品，Meta则认为torrent是一种常用的下载协议，并声称其下载行为并不构成违法。尽管如此，Meta的防御策略仍面临挑战，特别是在其内部证据可能表明存在播种的情况下。作者们强调，Meta的行为不仅侵犯了版权，还可能违反加州的计算机数据访问和欺诈法（CDAFA）。
-
----
-
-## <a name="3"></a>3. 从我的床上移除杰夫·贝索斯 
+## <a name="2"></a>2. 从我的床上移除杰夫·贝索斯 
 <small>🔗 [trufflesecurity.com](https://trufflesecurity.com/blog/removing-jeff-bezos-from-my-bed): I found a backdoor into my bed</small>
 
 
-| 🔥🔥: 592 \| 💬: [283](https://news.ycombinator.com/item?id=43129439) \| 🗓️ 2025-02-21
+| 🔥🔥: 621 \| 💬: [288](https://news.ycombinator.com/item?id=43129439) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -59,11 +47,23 @@ Meta在法庭文件中表示，尽管承认为AI训练目的而下载盗版书�
 
 ---
 
+## <a name="3"></a>3. Meta声称在没有播种证据的情况下，下载盗版书籍并不违法 
+<small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/02/meta-defends-its-vast-book-torrenting-were-just-a-leech-no-proof-of-seeding/): Meta claims torrenting pirated books isn't illegal without proof of seeding</small>
+
+
+| 🔥🔥: 606 \| 💬: [406](https://news.ycombinator.com/item?id=43125840) \| 🗓️ 2025-02-21
+
+
+<br />
+Meta在法庭文件中表示，尽管承认为AI训练目的而下载盗版书籍的数据集，但并没有证据表明其在下载后进行了**播种**。作者们指控Meta通过**非法torrent**共享其作品，Meta则认为torrent是一种常用的下载协议，并声称其下载行为并不构成违法。尽管如此，Meta的防御策略仍面临挑战，特别是在其内部证据可能表明存在播种的情况下。作者们强调，Meta的行为不仅侵犯了版权，还可能违反加州的计算机数据访问和欺诈法（CDAFA）。
+
+---
+
 ## <a name="4"></a>4. 我们是建设者 
 <small>🔗 [wethebuilders.org](https://www.wethebuilders.org/): We are the builders</small>
 
 
-| 🔥🔥: 426 \| 💬: [169](https://news.ycombinator.com/item?id=43133648) \| 🗓️ 2025-02-21
+| 🔥🔥: 436 \| 💬: [176](https://news.ycombinator.com/item?id=43133648) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -75,7 +75,7 @@ Meta在法庭文件中表示，尽管承认为AI训练目的而下载盗版书�
 <small>🔗 [johnnydecimal.com](https://johnnydecimal.com): Johnny.Decimal – A system to organise your life</small>
 
 
-| 🔥🔥: 300 \| 💬: [174](https://news.ycombinator.com/item?id=43128093) \| 🗓️ 2025-02-21
+| 🔥🔥: 318 \| 💬: [178](https://news.ycombinator.com/item?id=43128093) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -87,7 +87,7 @@ Johnny.Decimal 是一个旨在帮助你快速找到生活中物品的系统。�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2410.06992): Some critical issues with the SWE-bench dataset</small>
 
 
-| 🔥🔥: 300 \| 💬: [105](https://news.ycombinator.com/item?id=43130732) \| 🗓️ 2025-02-21
+| 🔥🔥: 304 \| 💬: [105](https://news.ycombinator.com/item?id=43130732) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -99,7 +99,7 @@ SWE-bench数据集用于评估大型语言模型（LLMs）在软件工程中的�
 <small>🔗 [successfulsoftware.net](https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/): 20 years working on the same software product</small>
 
 
-| 🔥🔥: 258 \| 💬: [82](https://news.ycombinator.com/item?id=43133174) \| 🗓️ 2025-02-21
+| 🔥🔥: 274 \| 💬: [93](https://news.ycombinator.com/item?id=43133174) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -111,7 +111,7 @@ SWE-bench数据集用于评估大型语言模型（LLMs）在软件工程中的�
 <small>🔗 [digital.archives.caltech.edu](https://digital.archives.caltech.edu/collections/Images/1.10-29/): Richard Feynman's blackboard at the time of his death (1988)</small>
 
 
-| 🔥🔥: 221 \| 💬: [123](https://news.ycombinator.com/item?id=43131017) \| 🗓️ 2025-02-21
+| 🔥🔥: 243 \| 💬: [126](https://news.ycombinator.com/item?id=43131017) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -123,7 +123,7 @@ SWE-bench数据集用于评估大型语言模型（LLMs）在软件工程中的�
 <small>🔗 [contraption.co](https://www.contraption.co/rails-versus-nextjs/): Why Ruby on Rails still matters</small>
 
 
-| 🔥🔥: 216 \| 💬: [167](https://news.ycombinator.com/item?id=43130546) \| 🗓️ 2025-02-21
+| 🔥🔥: 239 \| 💬: [177](https://news.ycombinator.com/item?id=43130546) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -131,7 +131,31 @@ SWE-bench数据集用于评估大型语言模型（LLMs）在软件工程中的�
 
 ---
 
-## <a name="10"></a>10. 苹果因英国政府要求后门访问撤回加密iCloud安全功能 
+## <a name="10"></a>10. Suckless.org：软件更简洁 
+<small>🔗 [suckless.org](https://suckless.org/): Suckless.org: software that sucks less</small>
+
+
+| 🔥🔥: 220 \| 💬: [116](https://news.ycombinator.com/item?id=43131059) \| 🗓️ 2025-02-21
+
+
+<br />
+suckless.org 是一个专注于**简约、清晰和节俭**的软件开发平台，提供如 **dwm**、**dmenu** 和 **st** 等高质量工具。该网站鼓励开发者参与社区，分享代码和项目理念，致力于创造不“糟糕”的软件。最近发布了多个版本更新，修复了各种错误并提升了软件性能。
+
+---
+
+## <a name="11"></a>11. 用户不关心你的技术栈 
+<small>🔗 [empathetic.dev](https://www.empathetic.dev/users-dont-care-about-your-tech-stack): Users don't care about your tech stack</small>
+
+
+| 🔥🔥: 210 \| 💬: [248](https://news.ycombinator.com/item?id=43125981) \| 🗓️ 2025-02-21
+
+
+<br />
+在技术讨论中，常常会关注“这种语言是否比那种好？”或“这个框架是否更高效？”但实际上，**用户并不关心这些**。他们不会注意到你节省的那10毫秒，也不会因为你使用了最新的JavaScript框架而感到体验改善。真正影响用户的是你对产品和他们需求的关注。每种编程语言和框架都有其特定的应用场景，但这些技术选择本身并不会决定产品的成功。你应该专注于使用你熟悉和喜欢的技术，同时不断挑战自己去提升，不要被潮流所左右。选择合适的技术是为了满足特定问题，而不是追随趋势。
+
+---
+
+## <a name="12"></a>12. 苹果因英国政府要求后门访问撤回加密iCloud安全功能 
 <small>🔗 [macrumors.com](https://www.macrumors.com/2025/02/21/apple-pulls-encrypted-icloud-security-feature-uk/): Apple pulls encrypted iCloud security feature in UK amid backdoor demands</small>
 
 
@@ -143,35 +167,11 @@ SWE-bench数据集用于评估大型语言模型（LLMs）在软件工程中的�
 
 ---
 
-## <a name="11"></a>11. 用户不关心你的技术栈 
-<small>🔗 [empathetic.dev](https://www.empathetic.dev/users-dont-care-about-your-tech-stack): Users don't care about your tech stack</small>
-
-
-| 🔥🔥: 207 \| 💬: [245](https://news.ycombinator.com/item?id=43125981) \| 🗓️ 2025-02-21
-
-
-<br />
-在技术讨论中，常常会关注“这种语言是否比那种好？”或“这个框架是否更高效？”但实际上，**用户并不关心这些**。他们不会注意到你节省的那10毫秒，也不会因为你使用了最新的JavaScript框架而感到体验改善。真正影响用户的是你对产品和他们需求的关注。每种编程语言和框架都有其特定的应用场景，但这些技术选择本身并不会决定产品的成功。你应该专注于使用你熟悉和喜欢的技术，同时不断挑战自己去提升，不要被潮流所左右。选择合适的技术是为了满足特定问题，而不是追随趋势。
-
----
-
-## <a name="12"></a>12. Suckless.org：软件更简洁 
-<small>🔗 [suckless.org](https://suckless.org/): Suckless.org: software that sucks less</small>
-
-
-| 🔥🔥: 206 \| 💬: [107](https://news.ycombinator.com/item?id=43131059) \| 🗓️ 2025-02-21
-
-
-<br />
-suckless.org 是一个专注于**简约、清晰和节俭**的软件开发平台，提供如 **dwm**、**dmenu** 和 **st** 等高质量工具。该网站鼓励开发者参与社区，分享代码和项目理念，致力于创造不“糟糕”的软件。最近发布了多个版本更新，修复了各种错误并提升了软件性能。
-
----
-
 ## <a name="13"></a>13. SpaceX工程师被引入FAA，接替被解雇的试用员工 
 <small>🔗 [wired.com](https://www.wired.com/story/faa-doge-elon-musk-space-x/): SpaceX engineers brought on at FAA after probationary employees were fired</small>
 
 
-| 🔥🔥: 191 \| 💬: [119](https://news.ycombinator.com/item?id=43127819) \| 🗓️ 2025-02-21
+| 🔥🔥: 192 \| 💬: [122](https://news.ycombinator.com/item?id=43127819) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -183,7 +183,7 @@ suckless.org 是一个专注于**简约、清晰和节俭**的软件开发平台
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/21/world/europe/baltic-sea-cable-sweden.html): Sweden Investigates New Cable Break Under Baltic Sea</small>
 
 
-| 🔥🔥: 184 \| 💬: [154](https://news.ycombinator.com/item?id=43127425) \| 🗓️ 2025-02-21
+| 🔥🔥: 186 \| 💬: [158](https://news.ycombinator.com/item?id=43127425) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -195,7 +195,7 @@ suckless.org 是一个专注于**简约、清晰和节俭**的软件开发平台
 <small>🔗 [github.com](https://github.com/Edu4rdSHL/fly-to-podman): Fly To Podman: a script that will help you to migrate from Docker</small>
 
 
-| 🔥🔥: 148 \| 💬: [82](https://news.ycombinator.com/item?id=43125487) \| 🗓️ 2025-02-21
+| 🔥🔥: 151 \| 💬: [83](https://news.ycombinator.com/item?id=43125487) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -207,7 +207,7 @@ fly-to-podman是一个小型的bash脚本，旨在帮助用户从Docker迁移到
 <small>🔗 [space.com](https://www.space.com/space-exploration/james-webb-space-telescope/nasa-james-webb-space-telescope-faces-20-percent-budget-cuts): NASA's James Webb Space Telescope faces potential 20% budget cut</small>
 
 
-| 🔥🔥: 136 \| 💬: [126](https://news.ycombinator.com/item?id=43131045) \| 🗓️ 2025-02-21
+| 🔥🔥: 138 \| 💬: [130](https://news.ycombinator.com/item?id=43131045) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -227,35 +227,11 @@ NASA的**詹姆斯·韦伯太空望远镜**（JWST）可能面临高达**20%的�
 
 ---
 
-## <a name="18"></a>18. 深入了解Llama3：揭示详细见解与实现 
-<small>🔗 [github.com](https://github.com/therealoliver/Deepdive-llama3-from-scratch): DeepDive in everything of Llama3: revealing detailed insights and implementation</small>
-
-
-| 🔥🔥: 117 \| 💬: [4](https://news.ycombinator.com/item?id=43129887) \| 🗓️ 2025-02-21
-
-
-<br />
-本项目旨在帮助用户逐步掌握Llama3模型的推理过程，涵盖**tokenizer**、**transformer**和**attention机制**等核心概念。通过优化结构、详细的代码注释和维度跟踪，用户可以轻松理解实现原理。此外，项目提供中英文文档，确保信息准确传达。
-
----
-
-## <a name="19"></a>19. 盈利的初创企业 
-<small>🔗 [linear.app](https://linear.app/blog/the-profitable-startup): The Profitable Startup</small>
-
-
-| 🔥🔥: 117 \| 💬: [43](https://news.ycombinator.com/item?id=43130480) \| 🗓️ 2025-02-21
-
-
-<br />
-多年来，初创企业被教导要优先考虑增长，而非盈利。然而，盈利并非不雄心勃勃，而是**掌控自己的命运**。盈利让创始人不再依赖投资者，能够专注于自己的愿景。文章强调，**小团队**通常能提供更高质量的成果，且盈利带来的**安心感**使企业能专注于创造价值，而非筹款。盈利并不难实现，关键在于选择合适的招聘策略和明确的市场定位。
-
----
-
-## <a name="20"></a>20. Ren'Py视觉小说引擎 
+## <a name="18"></a>18. Ren'Py视觉小说引擎 
 <small>🔗 [renpy.org](https://www.renpy.org/): The Ren'Py Visual Novel Engine</small>
 
 
-| 🔥🔥: 116 \| 💬: [39](https://news.ycombinator.com/item?id=43132336) \| 🗓️ 2025-02-21
+| 🔥🔥: 127 \| 💬: [43](https://news.ycombinator.com/item?id=43132336) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -263,11 +239,35 @@ Ren'Py是一个**开源**的视觉小说引擎，支持全球创作者使用文�
 
 ---
 
+## <a name="19"></a>19. 深入了解Llama3：揭示详细见解与实现 
+<small>🔗 [github.com](https://github.com/therealoliver/Deepdive-llama3-from-scratch): DeepDive in everything of Llama3: revealing detailed insights and implementation</small>
+
+
+| 🔥🔥: 121 \| 💬: [8](https://news.ycombinator.com/item?id=43129887) \| 🗓️ 2025-02-21
+
+
+<br />
+本项目旨在帮助用户逐步掌握Llama3模型的推理过程，涵盖**tokenizer**、**transformer**和**attention机制**等核心概念。通过优化结构、详细的代码注释和维度跟踪，用户可以轻松理解实现原理。此外，项目提供中英文文档，确保信息准确传达。
+
+---
+
+## <a name="20"></a>20. 盈利的初创企业 
+<small>🔗 [linear.app](https://linear.app/blog/the-profitable-startup): The Profitable Startup</small>
+
+
+| 🔥🔥: 120 \| 💬: [43](https://news.ycombinator.com/item?id=43130480) \| 🗓️ 2025-02-21
+
+
+<br />
+多年来，初创企业被教导要优先考虑增长，而非盈利。然而，盈利并非不雄心勃勃，而是**掌控自己的命运**。盈利让创始人不再依赖投资者，能够专注于自己的愿景。文章强调，**小团队**通常能提供更高质量的成果，且盈利带来的**安心感**使企业能专注于创造价值，而非筹款。盈利并不难实现，关键在于选择合适的招聘策略和明确的市场定位。
+
+---
+
 ## <a name="21"></a>21. 关于运行systemd-nspawn容器的技术探讨 
 <small>🔗 [benjamintoll.com](https://benjamintoll.com/2022/02/04/on-running-systemd-nspawn-containers/): On Running systemd-nspawn Containers (2022)</small>
 
 
-| 🔥🔥: 101 \| 💬: [47](https://news.ycombinator.com/item?id=43125176) \| 🗓️ 2025-02-21
+| 🔥🔥: 102 \| 💬: [47](https://news.ycombinator.com/item?id=43125176) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -291,7 +291,7 @@ Ren'Py是一个**开源**的视觉小说引擎，支持全球创作者使用文�
 <small>🔗 [substack.com](https://substack.com/home/post/p-157633768): I think Yann Lecun was right about LLMs (but perhaps only by accident)</small>
 
 
-| 🔥: 96 \| 💬: [85](https://news.ycombinator.com/item?id=43131022) \| 🗓️ 2025-02-21
+| 🔥: 99 \| 💬: [85](https://news.ycombinator.com/item?id=43131022) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -303,7 +303,7 @@ Yann Lecun对大型语言模型（LLMs）的看法引发了讨论，尽管他的
 <small>🔗 [theregister.com](https://www.theregister.com/2025/02/21/hp_ditches_15_minute_wait_time_call_centers/): HP ditches 15-minute wait time policy due to 'feedback'</small>
 
 
-| 🔥: 93 \| 💬: [98](https://news.ycombinator.com/item?id=43126416) \| 🗓️ 2025-02-21
+| 🔥: 94 \| 💬: [99](https://news.ycombinator.com/item?id=43126416) \| 🗓️ 2025-02-21
 
 
 <br />
