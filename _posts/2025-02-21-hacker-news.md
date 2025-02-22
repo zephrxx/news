@@ -12,7 +12,7 @@ tags:
 1. Meta声称在没有播种证据的情况下，下载盗版书籍并不违法；
 1. 从我的床上移除杰夫·贝索斯；
 1. 我们是建设者；
-1. SWE-bench数据集的关键问题；
+1. Johnny.Decimal – 组织生活的系统；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/cgj54eq4vejo): Apple pulls data protection tool after UK government security row</small>
 
 
-| 🔥🔥: 939 \| 💬: [703](https://news.ycombinator.com/item?id=43128253) \| 🗓️ 2025-02-21
+| 🔥🔥: 989 \| 💬: [716](https://news.ycombinator.com/item?id=43128253) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/02/meta-defends-its-vast-book-torrenting-were-just-a-leech-no-proof-of-seeding/): Meta claims torrenting pirated books isn't illegal without proof of seeding</small>
 
 
-| 🔥🔥: 596 \| 💬: [397](https://news.ycombinator.com/item?id=43125840) \| 🗓️ 2025-02-21
+| 🔥🔥: 601 \| 💬: [404](https://news.ycombinator.com/item?id=43125840) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -51,7 +51,7 @@ Meta在法庭文件中表示，尽管承认为AI训练目的而下载盗版书�
 <small>🔗 [trufflesecurity.com](https://trufflesecurity.com/blog/removing-jeff-bezos-from-my-bed): I found a backdoor into my bed</small>
 
 
-| 🔥🔥: 573 \| 💬: [269](https://news.ycombinator.com/item?id=43129439) \| 🗓️ 2025-02-21
+| 🔥🔥: 592 \| 💬: [283](https://news.ycombinator.com/item?id=43129439) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -63,7 +63,7 @@ Meta在法庭文件中表示，尽管承认为AI训练目的而下载盗版书�
 <small>🔗 [wethebuilders.org](https://www.wethebuilders.org/): We are the builders</small>
 
 
-| 🔥🔥: 406 \| 💬: [164](https://news.ycombinator.com/item?id=43133648) \| 🗓️ 2025-02-21
+| 🔥🔥: 426 \| 💬: [169](https://news.ycombinator.com/item?id=43133648) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -71,23 +71,11 @@ Meta在法庭文件中表示，尽管承认为AI训练目的而下载盗版书�
 
 ---
 
-## <a name="5"></a>5. SWE-bench数据集的关键问题 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2410.06992): Some critical issues with the SWE-bench dataset</small>
-
-
-| 🔥🔥: 295 \| 💬: [103](https://news.ycombinator.com/item?id=43130732) \| 🗓️ 2025-02-21
-
-
-<br />
-SWE-bench数据集用于评估大型语言模型（LLMs）在软件工程中的编码能力，但存在一些**关键问题**。研究发现，约**32.67%**的成功补丁涉及**解决方案泄露**，而**31.08%**的补丁因测试用例不充分而显得可疑。经过筛选后，SWE-Agent+GPT-4的解决率从**12.47%**降至**3.97%**。此外，超过**94%**的问题在LLM知识截止日期之前创建，可能存在数据泄露风险。
-
----
-
-## <a name="6"></a>6. Johnny.Decimal – 组织生活的系统 
+## <a name="5"></a>5. Johnny.Decimal – 组织生活的系统 
 <small>🔗 [johnnydecimal.com](https://johnnydecimal.com): Johnny.Decimal – A system to organise your life</small>
 
 
-| 🔥🔥: 282 \| 💬: [172](https://news.ycombinator.com/item?id=43128093) \| 🗓️ 2025-02-21
+| 🔥🔥: 300 \| 💬: [174](https://news.ycombinator.com/item?id=43128093) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -95,11 +83,23 @@ Johnny.Decimal 是一个旨在帮助你快速找到生活中物品的系统。�
 
 ---
 
+## <a name="6"></a>6. SWE-bench数据集的关键问题 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2410.06992): Some critical issues with the SWE-bench dataset</small>
+
+
+| 🔥🔥: 300 \| 💬: [105](https://news.ycombinator.com/item?id=43130732) \| 🗓️ 2025-02-21
+
+
+<br />
+SWE-bench数据集用于评估大型语言模型（LLMs）在软件工程中的编码能力，但存在一些**关键问题**。研究发现，约**32.67%**的成功补丁涉及**解决方案泄露**，而**31.08%**的补丁因测试用例不充分而显得可疑。经过筛选后，SWE-Agent+GPT-4的解决率从**12.47%**降至**3.97%**。此外，超过**94%**的问题在LLM知识截止日期之前创建，可能存在数据泄露风险。
+
+---
+
 ## <a name="7"></a>7. 在同一软件产品上工作20年 
 <small>🔗 [successfulsoftware.net](https://successfulsoftware.net/2025/02/21/20-years-working-on-the-same-software-product/): 20 years working on the same software product</small>
 
 
-| 🔥🔥: 227 \| 💬: [76](https://news.ycombinator.com/item?id=43133174) \| 🗓️ 2025-02-21
+| 🔥🔥: 258 \| 💬: [82](https://news.ycombinator.com/item?id=43133174) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -107,11 +107,23 @@ Johnny.Decimal 是一个旨在帮助你快速找到生活中物品的系统。�
 
 ---
 
-## <a name="8"></a>8. 为什么 Ruby on Rails 仍然重要 
+## <a name="8"></a>8. 理查德·费曼去世时的黑板 
+<small>🔗 [digital.archives.caltech.edu](https://digital.archives.caltech.edu/collections/Images/1.10-29/): Richard Feynman's blackboard at the time of his death (1988)</small>
+
+
+| 🔥🔥: 221 \| 💬: [123](https://news.ycombinator.com/item?id=43131017) \| 🗓️ 2025-02-21
+
+
+<br />
+1988年，理查德·费曼的黑板成为了他思想的象征，展示了他在物理学领域的深刻见解和独特风格。这幅黑板的照片记录了他生命最后时刻的思考，体现了他对科学的热爱和对知识的追求，成为了加州理工学院珍贵的历史遗产。
+
+---
+
+## <a name="9"></a>9. 为什么 Ruby on Rails 仍然重要 
 <small>🔗 [contraption.co](https://www.contraption.co/rails-versus-nextjs/): Why Ruby on Rails still matters</small>
 
 
-| 🔥🔥: 211 \| 💬: [161](https://news.ycombinator.com/item?id=43130546) \| 🗓️ 2025-02-21
+| 🔥🔥: 216 \| 💬: [167](https://news.ycombinator.com/item?id=43130546) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -119,7 +131,7 @@ Johnny.Decimal 是一个旨在帮助你快速找到生活中物品的系统。�
 
 ---
 
-## <a name="9"></a>9. 苹果因英国政府要求后门访问撤回加密iCloud安全功能 
+## <a name="10"></a>10. 苹果因英国政府要求后门访问撤回加密iCloud安全功能 
 <small>🔗 [macrumors.com](https://www.macrumors.com/2025/02/21/apple-pulls-encrypted-icloud-security-feature-uk/): Apple pulls encrypted iCloud security feature in UK amid backdoor demands</small>
 
 
@@ -131,11 +143,11 @@ Johnny.Decimal 是一个旨在帮助你快速找到生活中物品的系统。�
 
 ---
 
-## <a name="10"></a>10. 用户不关心你的技术栈 
+## <a name="11"></a>11. 用户不关心你的技术栈 
 <small>🔗 [empathetic.dev](https://www.empathetic.dev/users-dont-care-about-your-tech-stack): Users don't care about your tech stack</small>
 
 
-| 🔥🔥: 202 \| 💬: [244](https://news.ycombinator.com/item?id=43125981) \| 🗓️ 2025-02-21
+| 🔥🔥: 207 \| 💬: [245](https://news.ycombinator.com/item?id=43125981) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -143,7 +155,19 @@ Johnny.Decimal 是一个旨在帮助你快速找到生活中物品的系统。�
 
 ---
 
-## <a name="11"></a>11. SpaceX工程师被引入FAA，接替被解雇的试用员工 
+## <a name="12"></a>12. Suckless.org：软件更简洁 
+<small>🔗 [suckless.org](https://suckless.org/): Suckless.org: software that sucks less</small>
+
+
+| 🔥🔥: 206 \| 💬: [107](https://news.ycombinator.com/item?id=43131059) \| 🗓️ 2025-02-21
+
+
+<br />
+suckless.org 是一个专注于**简约、清晰和节俭**的软件开发平台，提供如 **dwm**、**dmenu** 和 **st** 等高质量工具。该网站鼓励开发者参与社区，分享代码和项目理念，致力于创造不“糟糕”的软件。最近发布了多个版本更新，修复了各种错误并提升了软件性能。
+
+---
+
+## <a name="13"></a>13. SpaceX工程师被引入FAA，接替被解雇的试用员工 
 <small>🔗 [wired.com](https://www.wired.com/story/faa-doge-elon-musk-space-x/): SpaceX engineers brought on at FAA after probationary employees were fired</small>
 
 
@@ -155,23 +179,11 @@ Johnny.Decimal 是一个旨在帮助你快速找到生活中物品的系统。�
 
 ---
 
-## <a name="12"></a>12. 理查德·费曼去世时的黑板 
-<small>🔗 [digital.archives.caltech.edu](https://digital.archives.caltech.edu/collections/Images/1.10-29/): Richard Feynman's blackboard at the time of his death (1988)</small>
-
-
-| 🔥🔥: 189 \| 💬: [106](https://news.ycombinator.com/item?id=43131017) \| 🗓️ 2025-02-21
-
-
-<br />
-1988年，理查德·费曼的黑板成为了他思想的象征，展示了他在物理学领域的深刻见解和独特风格。这幅黑板的照片记录了他生命最后时刻的思考，体现了他对科学的热爱和对知识的追求，成为了加州理工学院珍贵的历史遗产。
-
----
-
-## <a name="13"></a>13. 瑞典调查波罗的海新电缆断裂事件 
+## <a name="14"></a>14. 瑞典调查波罗的海新电缆断裂事件 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/21/world/europe/baltic-sea-cable-sweden.html): Sweden Investigates New Cable Break Under Baltic Sea</small>
 
 
-| 🔥🔥: 180 \| 💬: [149](https://news.ycombinator.com/item?id=43127425) \| 🗓️ 2025-02-21
+| 🔥🔥: 184 \| 💬: [154](https://news.ycombinator.com/item?id=43127425) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -179,23 +191,11 @@ Johnny.Decimal 是一个旨在帮助你快速找到生活中物品的系统。�
 
 ---
 
-## <a name="14"></a>14. Suckless.org：软件更简洁 
-<small>🔗 [suckless.org](https://suckless.org/): Suckless.org: software that sucks less</small>
-
-
-| 🔥🔥: 169 \| 💬: [85](https://news.ycombinator.com/item?id=43131059) \| 🗓️ 2025-02-21
-
-
-<br />
-suckless.org 是一个专注于**简约、清晰和节俭**的软件开发平台，提供如 **dwm**、**dmenu** 和 **st** 等高质量工具。该网站鼓励开发者参与社区，分享代码和项目理念，致力于创造不“糟糕”的软件。最近发布了多个版本更新，修复了各种错误并提升了软件性能。
-
----
-
 ## <a name="15"></a>15. 从Docker迁移到Podman的脚本 
 <small>🔗 [github.com](https://github.com/Edu4rdSHL/fly-to-podman): Fly To Podman: a script that will help you to migrate from Docker</small>
 
 
-| 🔥🔥: 143 \| 💬: [80](https://news.ycombinator.com/item?id=43125487) \| 🗓️ 2025-02-21
+| 🔥🔥: 148 \| 💬: [82](https://news.ycombinator.com/item?id=43125487) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -207,7 +207,7 @@ fly-to-podman是一个小型的bash脚本，旨在帮助用户从Docker迁移到
 <small>🔗 [space.com](https://www.space.com/space-exploration/james-webb-space-telescope/nasa-james-webb-space-telescope-faces-20-percent-budget-cuts): NASA's James Webb Space Telescope faces potential 20% budget cut</small>
 
 
-| 🔥🔥: 134 \| 💬: [114](https://news.ycombinator.com/item?id=43131045) \| 🗓️ 2025-02-21
+| 🔥🔥: 136 \| 💬: [126](https://news.ycombinator.com/item?id=43131045) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -219,7 +219,7 @@ NASA的**詹姆斯·韦伯太空望远镜**（JWST）可能面临高达**20%的�
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/feb/21/elon-musk-butch-wilmore-suni-williams-nasa-astronaut-iss-claims-biden): 'What a lie': Danish astronaut responds to Musk</small>
 
 
-| 🔥🔥: 129 \| 💬: [72](https://news.ycombinator.com/item?id=43126588) \| 🗓️ 2025-02-21
+| 🔥🔥: 130 \| 💬: [73](https://news.ycombinator.com/item?id=43126588) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -227,23 +227,11 @@ NASA的**詹姆斯·韦伯太空望远镜**（JWST）可能面临高达**20%的�
 
 ---
 
-## <a name="18"></a>18. 盈利的初创企业 
-<small>🔗 [linear.app](https://linear.app/blog/the-profitable-startup): The Profitable Startup</small>
-
-
-| 🔥🔥: 114 \| 💬: [43](https://news.ycombinator.com/item?id=43130480) \| 🗓️ 2025-02-21
-
-
-<br />
-多年来，初创企业被教导要优先考虑增长，而非盈利。然而，盈利并非不雄心勃勃，而是**掌控自己的命运**。盈利让创始人不再依赖投资者，能够专注于自己的愿景。文章强调，**小团队**通常能提供更高质量的成果，且盈利带来的**安心感**使企业能专注于创造价值，而非筹款。盈利并不难实现，关键在于选择合适的招聘策略和明确的市场定位。
-
----
-
-## <a name="19"></a>19. 深入了解Llama3：揭示详细见解与实现 
+## <a name="18"></a>18. 深入了解Llama3：揭示详细见解与实现 
 <small>🔗 [github.com](https://github.com/therealoliver/Deepdive-llama3-from-scratch): DeepDive in everything of Llama3: revealing detailed insights and implementation</small>
 
 
-| 🔥🔥: 108 \| 💬: [4](https://news.ycombinator.com/item?id=43129887) \| 🗓️ 2025-02-21
+| 🔥🔥: 117 \| 💬: [4](https://news.ycombinator.com/item?id=43129887) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -251,11 +239,23 @@ NASA的**詹姆斯·韦伯太空望远镜**（JWST）可能面临高达**20%的�
 
 ---
 
+## <a name="19"></a>19. 盈利的初创企业 
+<small>🔗 [linear.app](https://linear.app/blog/the-profitable-startup): The Profitable Startup</small>
+
+
+| 🔥🔥: 117 \| 💬: [43](https://news.ycombinator.com/item?id=43130480) \| 🗓️ 2025-02-21
+
+
+<br />
+多年来，初创企业被教导要优先考虑增长，而非盈利。然而，盈利并非不雄心勃勃，而是**掌控自己的命运**。盈利让创始人不再依赖投资者，能够专注于自己的愿景。文章强调，**小团队**通常能提供更高质量的成果，且盈利带来的**安心感**使企业能专注于创造价值，而非筹款。盈利并不难实现，关键在于选择合适的招聘策略和明确的市场定位。
+
+---
+
 ## <a name="20"></a>20. Ren'Py视觉小说引擎 
 <small>🔗 [renpy.org](https://www.renpy.org/): The Ren'Py Visual Novel Engine</small>
 
 
-| 🔥🔥: 102 \| 💬: [35](https://news.ycombinator.com/item?id=43132336) \| 🗓️ 2025-02-21
+| 🔥🔥: 116 \| 💬: [39](https://news.ycombinator.com/item?id=43132336) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -267,7 +267,7 @@ Ren'Py是一个**开源**的视觉小说引擎，支持全球创作者使用文�
 <small>🔗 [benjamintoll.com](https://benjamintoll.com/2022/02/04/on-running-systemd-nspawn-containers/): On Running systemd-nspawn Containers (2022)</small>
 
 
-| 🔥: 100 \| 💬: [46](https://news.ycombinator.com/item?id=43125176) \| 🗓️ 2025-02-21
+| 🔥🔥: 101 \| 💬: [47](https://news.ycombinator.com/item?id=43125176) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -279,7 +279,7 @@ Ren'Py是一个**开源**的视觉小说引擎，支持全球创作者使用文�
 <small>🔗 [tradingview.com](https://www.tradingview.com/news/coindesk:cda1c390e094b:0-bybit-ceo-confirms-exchange-was-hacked-for-1-46b-says-his-firm-can-cover-the-loss/): Bybit CEO Confirms Exchange Was Hacked for $1.46B</small>
 
 
-| 🔥: 98 \| 💬: [75](https://news.ycombinator.com/item?id=43130143) \| 🗓️ 2025-02-21
+| 🔥: 100 \| 💬: [76](https://news.ycombinator.com/item?id=43130143) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -291,7 +291,7 @@ Ren'Py是一个**开源**的视觉小说引擎，支持全球创作者使用文�
 <small>🔗 [substack.com](https://substack.com/home/post/p-157633768): I think Yann Lecun was right about LLMs (but perhaps only by accident)</small>
 
 
-| 🔥: 94 \| 💬: [85](https://news.ycombinator.com/item?id=43131022) \| 🗓️ 2025-02-21
+| 🔥: 96 \| 💬: [85](https://news.ycombinator.com/item?id=43131022) \| 🗓️ 2025-02-21
 
 
 <br />
@@ -303,7 +303,7 @@ Yann Lecun对大型语言模型（LLMs）的看法引发了讨论，尽管他的
 <small>🔗 [theregister.com](https://www.theregister.com/2025/02/21/hp_ditches_15_minute_wait_time_call_centers/): HP ditches 15-minute wait time policy due to 'feedback'</small>
 
 
-| 🔥: 93 \| 💬: [97](https://news.ycombinator.com/item?id=43126416) \| 🗓️ 2025-02-21
+| 🔥: 93 \| 💬: [98](https://news.ycombinator.com/item?id=43126416) \| 🗓️ 2025-02-21
 
 
 <br />
