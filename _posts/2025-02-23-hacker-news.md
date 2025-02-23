@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [berthub.eu](https://berthub.eu/articles/posts/you-can-no-longer-base-your-government-and-society-on-us-clouds/): It is no longer safe to move our governments and societies to US clouds</small>
 
 
-| 🔥🔥: 918 \| 💬: [556](https://news.ycombinator.com/item?id=43150085) \| 🗓️ 2025-02-23
+| 🔥🔥: 964 \| 💬: [578](https://news.ycombinator.com/item?id=43150085) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [filfre.net](https://www.filfre.net/2024/12/half-life/): Half-Life</small>
 
 
-| 🔥🔥: 389 \| 💬: [163](https://news.ycombinator.com/item?id=43147698) \| 🗓️ 2025-02-23
+| 🔥🔥: 406 \| 💬: [170](https://news.ycombinator.com/item?id=43147698) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [lcamtuf.substack.com](https://lcamtuf.substack.com/p/but-good-sir-what-is-electricity): But good sir, what is electricity?</small>
 
 
-| 🔥🔥: 243 \| 💬: [119](https://news.ycombinator.com/item?id=43148438) \| 🗓️ 2025-02-23
+| 🔥🔥: 251 \| 💬: [123](https://news.ycombinator.com/item?id=43148438) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [eli.thegreenplace.net](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/): Making any integer with four 2s</small>
 
 
-| 🔥🔥: 219 \| 💬: [71](https://news.ycombinator.com/item?id=43149883) \| 🗓️ 2025-02-23
+| 🔥🔥: 230 \| 💬: [1](https://news.ycombinator.com/item?id=43149883) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [electrive.com](https://www.electrive.com/2025/02/17/byd-has-already-produced-its-first-solid-state-cells/): BYD has already produced its first solid-state cells</small>
 
 
-| 🔥🔥: 203 \| 💬: [101](https://news.ycombinator.com/item?id=43148697) \| 🗓️ 2025-02-23
+| 🔥🔥: 205 \| 💬: [106](https://news.ycombinator.com/item?id=43148697) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -83,23 +83,11 @@ tags:
 
 ---
 
-## <a name="6"></a>6. “每个人都在看手机，”被释放的男子在监狱待了30年后说 
-<small>🔗 [news.sky.com](https://news.sky.com/story/everybody-is-looking-at-their-phones-says-man-freed-after-30-years-in-prison-13315407): 'Everybody is looking at their phones,' says man freed after 30 years in prison</small>
-
-
-| 🔥🔥: 170 \| 💬: [147](https://news.ycombinator.com/item?id=43149736) \| 🗓️ 2025-02-23
-
-
-<br />
-戈登·科尔代罗因新的DNA证据被释放，结束了他在1994年因谋杀被判无期徒刑的30年监禁。他在首次接受采访时表示，**“每个人都在看手机，”**并感慨科技的进步。他的第一件事是拜访母亲的墓地，并享用了一顿牛排晚餐。科尔代罗始终坚称自己无辜，他的案件因新证据而被推翻，尽管检方计划对此决定提出上诉。
-
----
-
-## <a name="7"></a>7. 悼念 
+## <a name="6"></a>6. 悼念 
 <small>🔗 [onlinesafetyact.co.uk](https://onlinesafetyact.co.uk/in_memoriam/): In memoriam</small>
 
 
-| 🔥🔥: 170 \| 💬: [91](https://news.ycombinator.com/item?id=43152154) \| 🗓️ 2025-02-23
+| 🔥🔥: 181 \| 💬: [108](https://news.ycombinator.com/item?id=43152154) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -107,11 +95,11 @@ tags:
 
 ---
 
-## <a name="8"></a>8. 越南平面设计 
+## <a name="7"></a>7. 越南平面设计 
 <small>🔗 [vietgd.com](https://vietgd.com/): Vietnamese Graphic Design</small>
 
 
-| 🔥🔥: 162 \| 💬: [25](https://news.ycombinator.com/item?id=43149266) \| 🗓️ 2025-02-23
+| 🔥🔥: 178 \| 💬: [26](https://news.ycombinator.com/item?id=43149266) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -119,11 +107,23 @@ tags:
 
 ---
 
+## <a name="8"></a>8. “每个人都在看手机，”被释放的男子在监狱待了30年后说 
+<small>🔗 [news.sky.com](https://news.sky.com/story/everybody-is-looking-at-their-phones-says-man-freed-after-30-years-in-prison-13315407): 'Everybody is looking at their phones,' says man freed after 30 years in prison</small>
+
+
+| 🔥🔥: 172 \| 💬: [156](https://news.ycombinator.com/item?id=43149736) \| 🗓️ 2025-02-23
+
+
+<br />
+戈登·科尔代罗因新的DNA证据被释放，结束了他在1994年因谋杀被判无期徒刑的30年监禁。他在首次接受采访时表示，**“每个人都在看手机，”**并感慨科技的进步。他的第一件事是拜访母亲的墓地，并享用了一顿牛排晚餐。科尔代罗始终坚称自己无辜，他的案件因新证据而被推翻，尽管检方计划对此决定提出上诉。
+
+---
+
 ## <a name="9"></a>9. WhiteSur：适用于GTK桌面的macOS风格主题 
 <small>🔗 [github.com](https://github.com/vinceliuice/WhiteSur-gtk-theme): WhiteSur: macOS-like theme for GTK desktops</small>
 
 
-| 🔥🔥: 151 \| 💬: [90](https://news.ycombinator.com/item?id=43151294) \| 🗓️ 2025-02-23
+| 🔥🔥: 167 \| 💬: [100](https://news.ycombinator.com/item?id=43151294) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -135,7 +135,7 @@ WhiteSur是一个为所有基于GTK的Linux桌面提供的**macOS风格主题**�
 <small>🔗 [rachelbythebay.com](https://rachelbythebay.com/w/2025/02/22/war/): War Rooms vs. Deep Investigations</small>
 
 
-| 🔥🔥: 135 \| 💬: [41](https://news.ycombinator.com/item?id=43148683) \| 🗓️ 2025-02-23
+| 🔥🔥: 145 \| 💬: [43](https://news.ycombinator.com/item?id=43148683) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -147,7 +147,7 @@ WhiteSur是一个为所有基于GTK的Linux桌面提供的**macOS风格主题**�
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/OpenAI/comments/1iw8eok/elon_musk_is_trying_to_censor_grok_3_which_the/): Grok 3 claims its system prompt includes censorship about Musk/Trump</small>
 
 
-| 🔥🔥: 132 \| 💬: [32](https://news.ycombinator.com/item?id=43151580) \| 🗓️ 2025-02-23
+| 🔥🔥: 136 \| 💬: [32](https://news.ycombinator.com/item?id=43151580) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -159,7 +159,7 @@ Grok 3的系统提示被指控存在**审查**，尤其是涉及**马斯克**和
 <small>🔗 [peeifyouwanttogofaster.com](https://peeifyouwanttogofaster.com/2021/05/24/pee-if-you-want-to-go-deeper/): Pee If You Want to Go Deeper (2021)</small>
 
 
-| 🔥🔥: 126 \| 💬: [39](https://news.ycombinator.com/item?id=43149648) \| 🗓️ 2025-02-23
+| 🔥🔥: 131 \| 💬: [50](https://news.ycombinator.com/item?id=43149648) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -171,7 +171,7 @@ Grok 3的系统提示被指控存在**审查**，尤其是涉及**马斯克**和
 <small>🔗 [u7revisited.com](https://www.u7revisited.com/): Ultima VII: Revisited</small>
 
 
-| 🔥: 97 \| 💬: [20](https://news.ycombinator.com/item?id=43150217) \| 🗓️ 2025-02-23
+| 🔥🔥: 108 \| 💬: [26](https://news.ycombinator.com/item?id=43150217) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -179,35 +179,11 @@ Grok 3的系统提示被指控存在**审查**，尤其是涉及**马斯克**和
 
 ---
 
-## <a name="14"></a>14. 查看您可能意外标记的提交 
-<small>🔗 [news.ycombinator.com](https://news.ycombinator.com/flagged): See the submissions you have flagged (maybe accidentally)</small>
-
-
-| 🔥: 94 \| 💬: [75](https://news.ycombinator.com/item?id=43149186) \| 🗓️ 2025-02-23
-
-
-<br />
-请登录以查看您标记的提交。输入您的用户名和密码，如果忘记密码，可以选择重置。您还可以创建一个新账户。确保您能访问所有相关的提交记录，以便更好地管理和审查。
-
----
-
-## <a name="15"></a>15. λ演算与Lisp，第一部分 
-<small>🔗 [babbagefiles.xyz](https://babbagefiles.xyz/lambda-calculus-and-lisp-01/): Lambda Calculus and Lisp, part 1</small>
-
-
-| 🔥: 88 \| 💬: [13](https://news.ycombinator.com/item?id=43148032) \| 🗓️ 2025-02-23
-
-
-<br />
-这篇文章是关于**λ演算**和**Lisp**的系列博文的第一篇，作者探讨了它们的理论和实现之间的复杂关系。文章回顾了Lisp的起源，强调了**LAMBDA**在函数实现中的重要性，并指出Lisp并不是λ演算的直接实现。作者引用了John McCarthy的观点，表明他对λ演算的理解有限，Lisp的设计更多是对计算模型的探索，而非对λ演算的直接应用。文章还提到，Lisp的独特之处在于它可以自我表达，反映了编程语言的发展趋势。
-
----
-
-## <a name="16"></a>16. 数十年的研究不当行为阻碍了阿尔茨海默病的治疗进展 
+## <a name="14"></a>14. 数十年的研究不当行为阻碍了阿尔茨海默病的治疗进展 
 <small>🔗 [sciencefriday.com](https://www.sciencefriday.com/articles/doctored-book-excerpt/): Decades of Research Misconduct Stalled an Alzheimer's Cure</small>
 
 
-| 🔥: 88 \| 💬: [17](https://news.ycombinator.com/item?id=43151320) \| 🗓️ 2025-02-23
+| 🔥🔥: 106 \| 💬: [32](https://news.ycombinator.com/item?id=43151320) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -215,23 +191,23 @@ Grok 3的系统提示被指控存在**审查**，尤其是涉及**马斯克**和
 
 ---
 
-## <a name="17"></a>17. 关闭所有联邦政府建筑内的8k电动车充电器 
-<small>🔗 [thedrive.com](https://www.thedrive.com/news/trump-is-turning-off-all-8000-ev-chargers-at-all-federal-government-buildings): Turning Off All 8k EV Chargers at All Federal Government Buildings</small>
+## <a name="15"></a>15. 查看您可能意外标记的提交 
+<small>🔗 [news.ycombinator.com](https://news.ycombinator.com/flagged): See the submissions you have flagged (maybe accidentally)</small>
 
 
-| 🔥: 85 \| 💬: [74](https://news.ycombinator.com/item?id=43151364) \| 🗓️ 2025-02-23
+| 🔥: 94 \| 💬: [76](https://news.ycombinator.com/item?id=43149186) \| 🗓️ 2025-02-23
 
 
 <br />
-特朗普政府下令关闭所有联邦建筑内的电动车充电器，并停止新购电动车的使用，称电动车“不是关键任务”。负责管理这些充电站的**美国总务管理局**（GSA）表示，约有8,000个充电端口将被停用，影响政府和私人车辆。虽然拜登政府曾推动电动车的普及，但目前不清楚这些充电器和新购电动车的未来去向。此举可能导致政府电动车的充电困难，影响其运营效率。
+请登录以查看您标记的提交。输入您的用户名和密码，如果忘记密码，可以选择重置。您还可以创建一个新账户。确保您能访问所有相关的提交记录，以便更好地管理和审查。
 
 ---
 
-## <a name="18"></a>18. 英国家庭用户因《在线安全法》面临封锁风险 
+## <a name="16"></a>16. 英国家庭用户因《在线安全法》面临封锁风险 
 <small>🔗 [lobste.rs](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with): Lobsters blocking UK users because of the Online Safety Act</small>
 
 
-| 🔥: 78 \| 💬: [58](https://news.ycombinator.com/item?id=43152178) \| 🗓️ 2025-02-23
+| 🔥: 92 \| 💬: [63](https://news.ycombinator.com/item?id=43152178) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -239,11 +215,11 @@ Lobsters论坛因无法遵守即将于2025年生效的**《在线安全法》**�
 
 ---
 
-## <a name="19"></a>19. Markdown的jq工具 
+## <a name="17"></a>17. Markdown的jq工具 
 <small>🔗 [github.com](https://github.com/yshavit/mdq): Show HN: Jq-Like Tool for Markdown</small>
 
 
-| 🔥: 70 \| 💬: [13](https://news.ycombinator.com/item?id=43152704) \| 🗓️ 2025-02-23
+| 🔥: 91 \| 💬: [17](https://news.ycombinator.com/item?id=43152704) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -251,23 +227,35 @@ mdq旨在为Markdown提供类似jq对JSON的功能，方便用户查找文档中
 
 ---
 
-## <a name="20"></a>20. 富人税收减免50年未能实现经济增长，研究称 
-<small>🔗 [cbsnews.com](https://www.cbsnews.com/news/tax-cuts-rich-50-years-no-trickle-down/): 50 years of tax cuts for the rich failed to trickle down, economics study says</small>
+## <a name="18"></a>18. λ演算与Lisp，第一部分 
+<small>🔗 [babbagefiles.xyz](https://babbagefiles.xyz/lambda-calculus-and-lisp-01/): Lambda Calculus and Lisp, part 1</small>
 
 
-| 🔥: 66 \| 💬: [3](https://news.ycombinator.com/item?id=43151876) \| 🗓️ 2025-02-23
+| 🔥: 90 \| 💬: [13](https://news.ycombinator.com/item?id=43148032) \| 🗓️ 2025-02-23
 
 
 <br />
-一项来自伦敦经济学院的研究表明，**富人税收减免**在过去50年中仅使富人受益，而未能促进中产阶级的收入增长。研究比较了18个发达国家的经济结果，发现税收减免并未显著改善整体经济表现，反而加剧了**收入不平等**。研究者指出，历史上高税率时期伴随了更高的经济增长和低失业率，建议在疫情后考虑对富人增税以支持经济复苏。
+这篇文章是关于**λ演算**和**Lisp**的系列博文的第一篇，作者探讨了它们的理论和实现之间的复杂关系。文章回顾了Lisp的起源，强调了**LAMBDA**在函数实现中的重要性，并指出Lisp并不是λ演算的直接实现。作者引用了John McCarthy的观点，表明他对λ演算的理解有限，Lisp的设计更多是对计算模型的探索，而非对λ演算的直接应用。文章还提到，Lisp的独特之处在于它可以自我表达，反映了编程语言的发展趋势。
 
 ---
 
-## <a name="21"></a>21. AI设计的芯片如此奇特，以至于“人类无法理解它们” 
+## <a name="19"></a>19. 关闭所有联邦政府建筑内的8k电动车充电器 
+<small>🔗 [thedrive.com](https://www.thedrive.com/news/trump-is-turning-off-all-8000-ev-chargers-at-all-federal-government-buildings): Turning Off All 8k EV Chargers at All Federal Government Buildings</small>
+
+
+| 🔥: 85 \| 💬: [76](https://news.ycombinator.com/item?id=43151364) \| 🗓️ 2025-02-23
+
+
+<br />
+特朗普政府下令关闭所有联邦建筑内的电动车充电器，并停止新购电动车的使用，称电动车“不是关键任务”。负责管理这些充电站的**美国总务管理局**（GSA）表示，约有8,000个充电端口将被停用，影响政府和私人车辆。虽然拜登政府曾推动电动车的普及，但目前不清楚这些充电器和新购电动车的未来去向。此举可能导致政府电动车的充电困难，影响其运营效率。
+
+---
+
+## <a name="20"></a>20. AI设计的芯片如此奇特，以至于“人类无法理解它们” 
 <small>🔗 [livescience.com](https://www.livescience.com/technology/computing/humans-cannot-really-understand-them-weird-ai-designed-chip-is-unlike-any-other-made-by-humans-and-performs-much-better): AI-designed chips are so weird that 'humans cannot understand them'</small>
 
 
-| 🔥: 59 \| 💬: [41](https://news.ycombinator.com/item?id=43152407) \| 🗓️ 2025-02-23
+| 🔥: 81 \| 💬: [63](https://news.ycombinator.com/item?id=43152407) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -275,23 +263,47 @@ mdq旨在为Markdown提供类似jq对JSON的功能，方便用户查找文档中
 
 ---
 
-## <a name="22"></a>22. Directus – 实时REST和GraphQL API的SQL数据库 
-<small>🔗 [github.com](https://github.com/directus/directus): Directus – real-time REST and GraphQL API of any SQL database</small>
+## <a name="21"></a>21. 富人税收减免50年未能实现经济增长，研究称 
+<small>🔗 [cbsnews.com](https://www.cbsnews.com/news/tax-cuts-rich-50-years-no-trickle-down/): 50 years of tax cuts for the rich failed to trickle down, economics study says</small>
 
 
-| 🔥: 54 \| 💬: [30](https://news.ycombinator.com/item?id=43150116) \| 🗓️ 2025-02-23
+| 🔥: 76 \| 💬: [5](https://news.ycombinator.com/item?id=43151876) \| 🗓️ 2025-02-23
 
 
 <br />
-Directus是一个灵活的后端解决方案，可将任何SQL数据库转变为**无头CMS**、管理面板或自定义应用程序。它提供了一个快速的Node.js API，支持多种数据库，如**PostgreSQL**、MySQL和SQLite，且无需迁移。用户可以选择在本地或云端运行Directus，适合技术和非技术用户。对于年收入低于500万美元的组织，Directus可免费使用，而大企业则需商业许可证，以支持平台的持续发展。
+一项来自伦敦经济学院的研究表明，**富人税收减免**在过去50年中仅使富人受益，而未能促进中产阶级的收入增长。研究比较了18个发达国家的经济结果，发现税收减免并未显著改善整体经济表现，反而加剧了**收入不平等**。研究者指出，历史上高税率时期伴随了更高的经济增长和低失业率，建议在疫情后考虑对富人增税以支持经济复苏。
 
 ---
 
-## <a name="23"></a>23. 尽管学费上涨，获得学位的真实成本却在下降 
+## <a name="22"></a>22. Bitwarden身份验证器 
+<small>🔗 [bitwarden.com](https://bitwarden.com/products/authenticator/): Bitwarden Authenticator</small>
+
+
+| 🔥: 72 \| 💬: [54](https://news.ycombinator.com/item?id=43153262) \| 🗓️ 2025-02-23
+
+
+<br />
+Bitwarden身份验证器是一款简单的应用程序，用于在线证明您的身份。它生成和存储所有的两步验证令牌，确保您的在线账户更安全。该应用可在iOS和Android上使用，用户可以快速扫描二维码添加新代码。Bitwarden身份验证器是一个独立的免费应用，支持生成时间基础的一次性密码（TOTP），即使不使用Bitwarden密码管理器也能使用。它是开源的，未来将增加导入、同步、推送式双重认证等新功能。用户反馈良好，称其“非常流畅和快速”。
+
+---
+
+## <a name="23"></a>23. 欧洲单词翻译器：一个展示30多种语言的互动地图 
+<small>🔗 [ukdataexplorer.com](https://ukdataexplorer.com/european-translator/): European word translator: an interactive map showing words in over 30 languages</small>
+
+
+| 🔥: 65 \| 💬: [19](https://news.ycombinator.com/item?id=43152587) \| 🗓️ 2025-02-23
+
+
+<br />
+该页面允许用户输入一个或两个小写的英语单词，以查看其翻译。翻译由**Google Translate**生成，可能存在不准确或使用非欧洲语言的情况。每个单词仅提供一个翻译，且不支持专有名词或非英语单词的翻译。该工具受**Bezbojnicul**的词源地图启发，使用D3和Natural Earth地图构建，翻译数据来自2014年，当前无法更新。用户可以通过捐款支持网站的托管费用。
+
+---
+
+## <a name="24"></a>24. 尽管学费上涨，获得学位的真实成本却在下降 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/02/college-cheaper-sticker-price/681742/): Despite sticker prices, the real cost of getting a degree has been going down</small>
 
 
-| 🔥: 53 \| 💬: [106](https://news.ycombinator.com/item?id=43149559) \| 🗓️ 2025-02-23
+| 🔥: 57 \| 💬: [115](https://news.ycombinator.com/item?id=43149559) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -299,14 +311,14 @@ Directus是一个灵活的后端解决方案，可将任何SQL数据库转变为
 
 ---
 
-## <a name="24"></a>24. 各国在化石燃料补贴上花费巨额资金——为何难以终结 
-<small>🔗 [theconversation.com](https://theconversation.com/countries-spend-huge-sums-on-fossil-fuel-subsidies-why-theyre-so-hard-to-eliminate-239346): Countries spend huge sums on fossil fuel subsidies – why they're so hard to end</small>
+## <a name="25"></a>25. Directus – 实时REST和GraphQL API的SQL数据库 
+<small>🔗 [github.com](https://github.com/directus/directus): Directus – real-time REST and GraphQL API of any SQL database</small>
 
 
-| 🔥: 48 \| 💬: [9](https://news.ycombinator.com/item?id=43148911) \| 🗓️ 2025-02-23
+| 🔥: 57 \| 💬: [33](https://news.ycombinator.com/item?id=43150116) \| 🗓️ 2025-02-23
 
 
 <br />
-化石燃料是气候变化的主要驱动因素，但全球各国仍在大力补贴这一行业。尽管许多国家承诺减少补贴以应对气候变化，但实际进展缓慢，导致化石燃料价格低廉，使用和温室气体排放持续增长。补贴的形式多种多样，包括政府设定的价格上限和税收减免等。尽管国际社会已多次承诺改革补贴，但由于补贴直接影响生产者成本，削减补贴往往导致消费者价格上涨，进而引发公众不满和抗议。因此，尽管经济学家认为提高化石燃料价格可以降低需求并减少排放，改革仍面临巨大挑战。
+Directus是一个灵活的后端解决方案，可将任何SQL数据库转变为**无头CMS**、管理面板或自定义应用程序。它提供了一个快速的Node.js API，支持多种数据库，如**PostgreSQL**、MySQL和SQLite，且无需迁移。用户可以选择在本地或云端运行Directus，适合技术和非技术用户。对于年收入低于500万美元的组织，Directus可免费使用，而大企业则需商业许可证，以支持平台的持续发展。
 
 ---
