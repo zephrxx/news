@@ -27,7 +27,7 @@ tags:
 <small>🔗 [berthub.eu](https://berthub.eu/articles/posts/you-can-no-longer-base-your-government-and-society-on-us-clouds/): It is no longer safe to move our governments and societies to US clouds</small>
 
 
-| 🔥🔥: 964 \| 💬: [578](https://news.ycombinator.com/item?id=43150085) \| 🗓️ 2025-02-23
+| 🔥🔥: 1012 \| 💬: [592](https://news.ycombinator.com/item?id=43150085) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [filfre.net](https://www.filfre.net/2024/12/half-life/): Half-Life</small>
 
 
-| 🔥🔥: 406 \| 💬: [170](https://news.ycombinator.com/item?id=43147698) \| 🗓️ 2025-02-23
+| 🔥🔥: 418 \| 💬: [183](https://news.ycombinator.com/item?id=43147698) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [lcamtuf.substack.com](https://lcamtuf.substack.com/p/but-good-sir-what-is-electricity): But good sir, what is electricity?</small>
 
 
-| 🔥🔥: 251 \| 💬: [123](https://news.ycombinator.com/item?id=43148438) \| 🗓️ 2025-02-23
+| 🔥🔥: 264 \| 💬: [138](https://news.ycombinator.com/item?id=43148438) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [electrive.com](https://www.electrive.com/2025/02/17/byd-has-already-produced-its-first-solid-state-cells/): BYD has already produced its first solid-state cells</small>
 
 
-| 🔥🔥: 205 \| 💬: [106](https://news.ycombinator.com/item?id=43148697) \| 🗓️ 2025-02-23
+| 🔥🔥: 207 \| 💬: [111](https://news.ycombinator.com/item?id=43148697) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -83,23 +83,11 @@ tags:
 
 ---
 
-## <a name="6"></a>6. 悼念 
-<small>🔗 [onlinesafetyact.co.uk](https://onlinesafetyact.co.uk/in_memoriam/): In memoriam</small>
-
-
-| 🔥🔥: 181 \| 💬: [108](https://news.ycombinator.com/item?id=43152154) \| 🗓️ 2025-02-23
-
-
-<br />
-多家网站和服务因《2023年在线安全法》而关闭或限制英国用户访问，包括AWScommunity.social、Charlbury辩论论坛、Espruino论坛、furry.energy、Gaming on Linux、Green Living Forum、Haiku论坛、Hexus、LFGSS、Lobste.rs和Microcosm等。这些平台的关闭标志着一个时代的结束，影响了各类社区的交流与讨论。
-
----
-
-## <a name="7"></a>7. 越南平面设计 
+## <a name="6"></a>6. 越南平面设计 
 <small>🔗 [vietgd.com](https://vietgd.com/): Vietnamese Graphic Design</small>
 
 
-| 🔥🔥: 178 \| 💬: [26](https://news.ycombinator.com/item?id=43149266) \| 🗓️ 2025-02-23
+| 🔥🔥: 195 \| 💬: [29](https://news.ycombinator.com/item?id=43149266) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -107,23 +95,23 @@ tags:
 
 ---
 
-## <a name="8"></a>8. “每个人都在看手机，”被释放的男子在监狱待了30年后说 
-<small>🔗 [news.sky.com](https://news.sky.com/story/everybody-is-looking-at-their-phones-says-man-freed-after-30-years-in-prison-13315407): 'Everybody is looking at their phones,' says man freed after 30 years in prison</small>
+## <a name="7"></a>7. 悼念 
+<small>🔗 [onlinesafetyact.co.uk](https://onlinesafetyact.co.uk/in_memoriam/): In memoriam</small>
 
 
-| 🔥🔥: 172 \| 💬: [156](https://news.ycombinator.com/item?id=43149736) \| 🗓️ 2025-02-23
+| 🔥🔥: 192 \| 💬: [116](https://news.ycombinator.com/item?id=43152154) \| 🗓️ 2025-02-23
 
 
 <br />
-戈登·科尔代罗因新的DNA证据被释放，结束了他在1994年因谋杀被判无期徒刑的30年监禁。他在首次接受采访时表示，**“每个人都在看手机，”**并感慨科技的进步。他的第一件事是拜访母亲的墓地，并享用了一顿牛排晚餐。科尔代罗始终坚称自己无辜，他的案件因新证据而被推翻，尽管检方计划对此决定提出上诉。
+多家网站和服务因《2023年在线安全法》而关闭或限制英国用户访问，包括AWScommunity.social、Charlbury辩论论坛、Espruino论坛、furry.energy、Gaming on Linux、Green Living Forum、Haiku论坛、Hexus、LFGSS、Lobste.rs和Microcosm等。这些平台的关闭标志着一个时代的结束，影响了各类社区的交流与讨论。
 
 ---
 
-## <a name="9"></a>9. WhiteSur：适用于GTK桌面的macOS风格主题 
+## <a name="8"></a>8. WhiteSur：适用于GTK桌面的macOS风格主题 
 <small>🔗 [github.com](https://github.com/vinceliuice/WhiteSur-gtk-theme): WhiteSur: macOS-like theme for GTK desktops</small>
 
 
-| 🔥🔥: 167 \| 💬: [100](https://news.ycombinator.com/item?id=43151294) \| 🗓️ 2025-02-23
+| 🔥🔥: 179 \| 💬: [103](https://news.ycombinator.com/item?id=43151294) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -131,11 +119,23 @@ WhiteSur是一个为所有基于GTK的Linux桌面提供的**macOS风格主题**�
 
 ---
 
+## <a name="9"></a>9. “每个人都在看手机，”被释放的男子在监狱待了30年后说 
+<small>🔗 [news.sky.com](https://news.sky.com/story/everybody-is-looking-at-their-phones-says-man-freed-after-30-years-in-prison-13315407): 'Everybody is looking at their phones,' says man freed after 30 years in prison</small>
+
+
+| 🔥🔥: 173 \| 💬: [160](https://news.ycombinator.com/item?id=43149736) \| 🗓️ 2025-02-23
+
+
+<br />
+戈登·科尔代罗因新的DNA证据被释放，结束了他在1994年因谋杀被判无期徒刑的30年监禁。他在首次接受采访时表示，**“每个人都在看手机，”**并感慨科技的进步。他的第一件事是拜访母亲的墓地，并享用了一顿牛排晚餐。科尔代罗始终坚称自己无辜，他的案件因新证据而被推翻，尽管检方计划对此决定提出上诉。
+
+---
+
 ## <a name="10"></a>10. 战情室与深度调查的对比 
 <small>🔗 [rachelbythebay.com](https://rachelbythebay.com/w/2025/02/22/war/): War Rooms vs. Deep Investigations</small>
 
 
-| 🔥🔥: 145 \| 💬: [43](https://news.ycombinator.com/item?id=43148683) \| 🗓️ 2025-02-23
+| 🔥🔥: 155 \| 💬: [43](https://news.ycombinator.com/item?id=43148683) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -147,7 +147,7 @@ WhiteSur是一个为所有基于GTK的Linux桌面提供的**macOS风格主题**�
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/OpenAI/comments/1iw8eok/elon_musk_is_trying_to_censor_grok_3_which_the/): Grok 3 claims its system prompt includes censorship about Musk/Trump</small>
 
 
-| 🔥🔥: 136 \| 💬: [32](https://news.ycombinator.com/item?id=43151580) \| 🗓️ 2025-02-23
+| 🔥🔥: 137 \| 💬: [33](https://news.ycombinator.com/item?id=43151580) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -159,7 +159,7 @@ Grok 3的系统提示被指控存在**审查**，尤其是涉及**马斯克**和
 <small>🔗 [peeifyouwanttogofaster.com](https://peeifyouwanttogofaster.com/2021/05/24/pee-if-you-want-to-go-deeper/): Pee If You Want to Go Deeper (2021)</small>
 
 
-| 🔥🔥: 131 \| 💬: [50](https://news.ycombinator.com/item?id=43149648) \| 🗓️ 2025-02-23
+| 🔥🔥: 136 \| 💬: [54](https://news.ycombinator.com/item?id=43149648) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -167,23 +167,11 @@ Grok 3的系统提示被指控存在**审查**，尤其是涉及**马斯克**和
 
 ---
 
-## <a name="13"></a>13. Ultima VII：重制版 
-<small>🔗 [u7revisited.com](https://www.u7revisited.com/): Ultima VII: Revisited</small>
-
-
-| 🔥🔥: 108 \| 💬: [26](https://news.ycombinator.com/item?id=43150217) \| 🗓️ 2025-02-23
-
-
-<br />
-《Ultima VII：重制版》是一个替代引擎，将经典RPG《Ultima VII》呈现为3D，并修复了多项游戏问题。开发者Anthony Salter认为，尽管《Ultima VII》在当时是一个设计精妙的游戏，但其2D引擎限制了其潜力。通过重制，玩家将能更好地体验这个充满细节的世界，理解其独特魅力。
-
----
-
-## <a name="14"></a>14. 数十年的研究不当行为阻碍了阿尔茨海默病的治疗进展 
+## <a name="13"></a>13. 数十年的研究不当行为阻碍了阿尔茨海默病的治疗进展 
 <small>🔗 [sciencefriday.com](https://www.sciencefriday.com/articles/doctored-book-excerpt/): Decades of Research Misconduct Stalled an Alzheimer's Cure</small>
 
 
-| 🔥🔥: 106 \| 💬: [32](https://news.ycombinator.com/item?id=43151320) \| 🗓️ 2025-02-23
+| 🔥🔥: 126 \| 💬: [44](https://news.ycombinator.com/item?id=43151320) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -191,7 +179,55 @@ Grok 3的系统提示被指控存在**审查**，尤其是涉及**马斯克**和
 
 ---
 
-## <a name="15"></a>15. 查看您可能意外标记的提交 
+## <a name="14"></a>14. Markdown的jq工具 
+<small>🔗 [github.com](https://github.com/yshavit/mdq): Show HN: Jq-Like Tool for Markdown</small>
+
+
+| 🔥🔥: 124 \| 💬: [22](https://news.ycombinator.com/item?id=43152704) \| 🗓️ 2025-02-23
+
+
+<br />
+mdq旨在为Markdown提供类似jq对JSON的功能，方便用户查找文档中特定元素。它可以简化对GitHub PR等Markdown文档的操作，避免使用复杂的正则表达式。例如，用户可以轻松查询未完成的任务。mdq支持多种过滤器语法，允许用户选择标题、列表、链接等元素，且其语法与Markdown格式相似。该工具在Apache 2.0或MIT许可证下发布，安装简单，用户只需通过cargo或下载二进制文件即可使用。
+
+---
+
+## <a name="15"></a>15. Ultima VII：重制版 
+<small>🔗 [u7revisited.com](https://www.u7revisited.com/): Ultima VII: Revisited</small>
+
+
+| 🔥🔥: 119 \| 💬: [29](https://news.ycombinator.com/item?id=43150217) \| 🗓️ 2025-02-23
+
+
+<br />
+《Ultima VII：重制版》是一个替代引擎，将经典RPG《Ultima VII》呈现为3D，并修复了多项游戏问题。开发者Anthony Salter认为，尽管《Ultima VII》在当时是一个设计精妙的游戏，但其2D引擎限制了其潜力。通过重制，玩家将能更好地体验这个充满细节的世界，理解其独特魅力。
+
+---
+
+## <a name="16"></a>16. 英国家庭用户因《在线安全法》面临封锁风险 
+<small>🔗 [lobste.rs](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with): Lobsters blocking UK users because of the Online Safety Act</small>
+
+
+| 🔥🔥: 101 \| 💬: [65](https://news.ycombinator.com/item?id=43152178) \| 🗓️ 2025-02-23
+
+
+<br />
+Lobsters论坛因无法遵守即将于2025年生效的**《在线安全法》**而可能被迫封锁英国用户。该法对所有用户互动网站施加监管，尽管Lobsters是一个非商业性论坛，合规成本和法律风险过高。论坛创始人寻求用户的帮助，以获得法律豁免或推迟实施，避免封锁。
+
+---
+
+## <a name="17"></a>17. AI设计的芯片如此奇特，以至于“人类无法理解它们” 
+<small>🔗 [livescience.com](https://www.livescience.com/technology/computing/humans-cannot-really-understand-them-weird-ai-designed-chip-is-unlike-any-other-made-by-humans-and-performs-much-better): AI-designed chips are so weird that 'humans cannot understand them'</small>
+
+
+| 🔥: 96 \| 💬: [73](https://news.ycombinator.com/item?id=43152407) \| 🗓️ 2025-02-23
+
+
+<br />
+研究人员展示了**人工智能**在数小时内设计复杂的**无线芯片**的能力，这一过程通常需要人类数周。AI采用了一种全新的设计方法，将芯片视为一个完整的系统，而非单独的部分，产生了更高效的设计。尽管AI的设计在性能上超越了现有方案，但仍需人类设计师进行必要的修正。此研究为未来电子设计的变革奠定了基础。
+
+---
+
+## <a name="18"></a>18. 查看您可能意外标记的提交 
 <small>🔗 [news.ycombinator.com](https://news.ycombinator.com/flagged): See the submissions you have flagged (maybe accidentally)</small>
 
 
@@ -203,83 +239,11 @@ Grok 3的系统提示被指控存在**审查**，尤其是涉及**马斯克**和
 
 ---
 
-## <a name="16"></a>16. 英国家庭用户因《在线安全法》面临封锁风险 
-<small>🔗 [lobste.rs](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with): Lobsters blocking UK users because of the Online Safety Act</small>
-
-
-| 🔥: 92 \| 💬: [63](https://news.ycombinator.com/item?id=43152178) \| 🗓️ 2025-02-23
-
-
-<br />
-Lobsters论坛因无法遵守即将于2025年生效的**《在线安全法》**而可能被迫封锁英国用户。该法对所有用户互动网站施加监管，尽管Lobsters是一个非商业性论坛，合规成本和法律风险过高。论坛创始人寻求用户的帮助，以获得法律豁免或推迟实施，避免封锁。
-
----
-
-## <a name="17"></a>17. Markdown的jq工具 
-<small>🔗 [github.com](https://github.com/yshavit/mdq): Show HN: Jq-Like Tool for Markdown</small>
-
-
-| 🔥: 91 \| 💬: [17](https://news.ycombinator.com/item?id=43152704) \| 🗓️ 2025-02-23
-
-
-<br />
-mdq旨在为Markdown提供类似jq对JSON的功能，方便用户查找文档中特定元素。它可以简化对GitHub PR等Markdown文档的操作，避免使用复杂的正则表达式。例如，用户可以轻松查询未完成的任务。mdq支持多种过滤器语法，允许用户选择标题、列表、链接等元素，且其语法与Markdown格式相似。该工具在Apache 2.0或MIT许可证下发布，安装简单，用户只需通过cargo或下载二进制文件即可使用。
-
----
-
-## <a name="18"></a>18. λ演算与Lisp，第一部分 
-<small>🔗 [babbagefiles.xyz](https://babbagefiles.xyz/lambda-calculus-and-lisp-01/): Lambda Calculus and Lisp, part 1</small>
-
-
-| 🔥: 90 \| 💬: [13](https://news.ycombinator.com/item?id=43148032) \| 🗓️ 2025-02-23
-
-
-<br />
-这篇文章是关于**λ演算**和**Lisp**的系列博文的第一篇，作者探讨了它们的理论和实现之间的复杂关系。文章回顾了Lisp的起源，强调了**LAMBDA**在函数实现中的重要性，并指出Lisp并不是λ演算的直接实现。作者引用了John McCarthy的观点，表明他对λ演算的理解有限，Lisp的设计更多是对计算模型的探索，而非对λ演算的直接应用。文章还提到，Lisp的独特之处在于它可以自我表达，反映了编程语言的发展趋势。
-
----
-
-## <a name="19"></a>19. 关闭所有联邦政府建筑内的8k电动车充电器 
-<small>🔗 [thedrive.com](https://www.thedrive.com/news/trump-is-turning-off-all-8000-ev-chargers-at-all-federal-government-buildings): Turning Off All 8k EV Chargers at All Federal Government Buildings</small>
-
-
-| 🔥: 85 \| 💬: [76](https://news.ycombinator.com/item?id=43151364) \| 🗓️ 2025-02-23
-
-
-<br />
-特朗普政府下令关闭所有联邦建筑内的电动车充电器，并停止新购电动车的使用，称电动车“不是关键任务”。负责管理这些充电站的**美国总务管理局**（GSA）表示，约有8,000个充电端口将被停用，影响政府和私人车辆。虽然拜登政府曾推动电动车的普及，但目前不清楚这些充电器和新购电动车的未来去向。此举可能导致政府电动车的充电困难，影响其运营效率。
-
----
-
-## <a name="20"></a>20. AI设计的芯片如此奇特，以至于“人类无法理解它们” 
-<small>🔗 [livescience.com](https://www.livescience.com/technology/computing/humans-cannot-really-understand-them-weird-ai-designed-chip-is-unlike-any-other-made-by-humans-and-performs-much-better): AI-designed chips are so weird that 'humans cannot understand them'</small>
-
-
-| 🔥: 81 \| 💬: [63](https://news.ycombinator.com/item?id=43152407) \| 🗓️ 2025-02-23
-
-
-<br />
-研究人员展示了**人工智能**在数小时内设计复杂的**无线芯片**的能力，这一过程通常需要人类数周。AI采用了一种全新的设计方法，将芯片视为一个完整的系统，而非单独的部分，产生了更高效的设计。尽管AI的设计在性能上超越了现有方案，但仍需人类设计师进行必要的修正。此研究为未来电子设计的变革奠定了基础。
-
----
-
-## <a name="21"></a>21. 富人税收减免50年未能实现经济增长，研究称 
-<small>🔗 [cbsnews.com](https://www.cbsnews.com/news/tax-cuts-rich-50-years-no-trickle-down/): 50 years of tax cuts for the rich failed to trickle down, economics study says</small>
-
-
-| 🔥: 76 \| 💬: [5](https://news.ycombinator.com/item?id=43151876) \| 🗓️ 2025-02-23
-
-
-<br />
-一项来自伦敦经济学院的研究表明，**富人税收减免**在过去50年中仅使富人受益，而未能促进中产阶级的收入增长。研究比较了18个发达国家的经济结果，发现税收减免并未显著改善整体经济表现，反而加剧了**收入不平等**。研究者指出，历史上高税率时期伴随了更高的经济增长和低失业率，建议在疫情后考虑对富人增税以支持经济复苏。
-
----
-
-## <a name="22"></a>22. Bitwarden身份验证器 
+## <a name="19"></a>19. Bitwarden身份验证器 
 <small>🔗 [bitwarden.com](https://bitwarden.com/products/authenticator/): Bitwarden Authenticator</small>
 
 
-| 🔥: 72 \| 💬: [54](https://news.ycombinator.com/item?id=43153262) \| 🗓️ 2025-02-23
+| 🔥: 94 \| 💬: [71](https://news.ycombinator.com/item?id=43153262) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -287,11 +251,35 @@ Bitwarden身份验证器是一款简单的应用程序，用于在线证明您�
 
 ---
 
-## <a name="23"></a>23. 欧洲单词翻译器：一个展示30多种语言的互动地图 
+## <a name="20"></a>20. λ演算与Lisp，第一部分 
+<small>🔗 [babbagefiles.xyz](https://babbagefiles.xyz/lambda-calculus-and-lisp-01/): Lambda Calculus and Lisp, part 1</small>
+
+
+| 🔥: 92 \| 💬: [13](https://news.ycombinator.com/item?id=43148032) \| 🗓️ 2025-02-23
+
+
+<br />
+这篇文章是关于**λ演算**和**Lisp**的系列博文的第一篇，作者探讨了它们的理论和实现之间的复杂关系。文章回顾了Lisp的起源，强调了**LAMBDA**在函数实现中的重要性，并指出Lisp并不是λ演算的直接实现。作者引用了John McCarthy的观点，表明他对λ演算的理解有限，Lisp的设计更多是对计算模型的探索，而非对λ演算的直接应用。文章还提到，Lisp的独特之处在于它可以自我表达，反映了编程语言的发展趋势。
+
+---
+
+## <a name="21"></a>21. 关闭所有联邦政府建筑内的8k电动车充电器 
+<small>🔗 [thedrive.com](https://www.thedrive.com/news/trump-is-turning-off-all-8000-ev-chargers-at-all-federal-government-buildings): Turning Off All 8k EV Chargers at All Federal Government Buildings</small>
+
+
+| 🔥: 87 \| 💬: [75](https://news.ycombinator.com/item?id=43151364) \| 🗓️ 2025-02-23
+
+
+<br />
+特朗普政府下令关闭所有联邦建筑内的电动车充电器，并停止新购电动车的使用，称电动车“不是关键任务”。负责管理这些充电站的**美国总务管理局**（GSA）表示，约有8,000个充电端口将被停用，影响政府和私人车辆。虽然拜登政府曾推动电动车的普及，但目前不清楚这些充电器和新购电动车的未来去向。此举可能导致政府电动车的充电困难，影响其运营效率。
+
+---
+
+## <a name="22"></a>22. 欧洲单词翻译器：一个展示30多种语言的互动地图 
 <small>🔗 [ukdataexplorer.com](https://ukdataexplorer.com/european-translator/): European word translator: an interactive map showing words in over 30 languages</small>
 
 
-| 🔥: 65 \| 💬: [19](https://news.ycombinator.com/item?id=43152587) \| 🗓️ 2025-02-23
+| 🔥: 86 \| 💬: [26](https://news.ycombinator.com/item?id=43152587) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -299,11 +287,23 @@ Bitwarden身份验证器是一款简单的应用程序，用于在线证明您�
 
 ---
 
+## <a name="23"></a>23. 富人税收减免50年未能实现经济增长，研究称 
+<small>🔗 [cbsnews.com](https://www.cbsnews.com/news/tax-cuts-rich-50-years-no-trickle-down/): 50 years of tax cuts for the rich failed to trickle down, economics study says</small>
+
+
+| 🔥: 80 \| 💬: [6](https://news.ycombinator.com/item?id=43151876) \| 🗓️ 2025-02-23
+
+
+<br />
+一项来自伦敦经济学院的研究表明，**富人税收减免**在过去50年中仅使富人受益，而未能促进中产阶级的收入增长。研究比较了18个发达国家的经济结果，发现税收减免并未显著改善整体经济表现，反而加剧了**收入不平等**。研究者指出，历史上高税率时期伴随了更高的经济增长和低失业率，建议在疫情后考虑对富人增税以支持经济复苏。
+
+---
+
 ## <a name="24"></a>24. 尽管学费上涨，获得学位的真实成本却在下降 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/02/college-cheaper-sticker-price/681742/): Despite sticker prices, the real cost of getting a degree has been going down</small>
 
 
-| 🔥: 57 \| 💬: [115](https://news.ycombinator.com/item?id=43149559) \| 🗓️ 2025-02-23
+| 🔥: 60 \| 💬: [125](https://news.ycombinator.com/item?id=43149559) \| 🗓️ 2025-02-23
 
 
 <br />
@@ -315,7 +315,7 @@ Bitwarden身份验证器是一款简单的应用程序，用于在线证明您�
 <small>🔗 [github.com](https://github.com/directus/directus): Directus – real-time REST and GraphQL API of any SQL database</small>
 
 
-| 🔥: 57 \| 💬: [33](https://news.ycombinator.com/item?id=43150116) \| 🗓️ 2025-02-23
+| 🔥: 60 \| 💬: [37](https://news.ycombinator.com/item?id=43150116) \| 🗓️ 2025-02-23
 
 
 <br />
