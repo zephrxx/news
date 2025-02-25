@@ -27,7 +27,7 @@ tags:
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/claude-3-7-sonnet): Claude 3.7 Sonnet and Claude Code</small>
 
 
-| 🔥🔥: 1493 \| 💬: [646](https://news.ycombinator.com/item?id=43163011) \| 🗓️ 2025-02-24
+| 🔥🔥: 1553 \| 💬: [674](https://news.ycombinator.com/item?id=43163011) \| 🗓️ 2025-02-24
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [ifixit.com](https://www.ifixit.com/News/108371/right-to-repair-laws-have-now-been-introduced-in-all-50-us-states): Right to Repair laws have now been proposed in all U.S. states</small>
 
 
-| 🔥🔥: 439 \| 💬: [132](https://news.ycombinator.com/item?id=43161777) \| 🗓️ 2025-02-24
+| 🔥🔥: 445 \| 💬: [132](https://news.ycombinator.com/item?id=43161777) \| 🗓️ 2025-02-24
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [jiha-kim.github.io](https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus/): Introduction to Stochastic Calculus</small>
 
 
-| 🔥🔥: 351 \| 💬: [66](https://news.ycombinator.com/item?id=43160779) \| 🗓️ 2025-02-24
+| 🔥🔥: 359 \| 💬: [66](https://news.ycombinator.com/item?id=43160779) \| 🗓️ 2025-02-24
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [ericdaigle.ca](https://www.ericdaigle.ca/posts/breaking-into-dozens-of-apartments-in-five-minutes/): Breaking into apartment buildings in five minutes on my phone</small>
 
 
-| 🔥🔥: 343 \| 💬: [205](https://news.ycombinator.com/item?id=43160884) \| 🗓️ 2025-02-24
+| 🔥🔥: 357 \| 💬: [206](https://news.ycombinator.com/item?id=43160884) \| 🗓️ 2025-02-24
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [discuss.systems](https://discuss.systems/@ricci/114059690609284323): Everyone at NSF overseeing the Platforms for Wireless Experimentation is gone</small>
 
 
-| 🔥🔥: 282 \| 💬: [282](https://news.ycombinator.com/item?id=43166830) \| 🗓️ 2025-02-24
+| 🔥🔥: 305 \| 💬: [311](https://news.ycombinator.com/item?id=43166830) \| 🗓️ 2025-02-24
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [jmspae.se](https://www.jmspae.se/write-ups/kebabs-train-stations/): “The closer to the train station, the worse the kebab” – a “study”</small>
 
 
-| 🔥🔥: 250 \| 💬: [214](https://news.ycombinator.com/item?id=43165112) \| 🗓️ 2025-02-24
+| 🔥🔥: 278 \| 💬: [223](https://news.ycombinator.com/item?id=43165112) \| 🗓️ 2025-02-24
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [corporate.watch](https://corporate.watch): Show HN: I made a site to tell the time in corporate</small>
 
 
-| 🔥🔥: 241 \| 💬: [101](https://news.ycombinator.com/item?id=43162340) \| 🗓️ 2025-02-24
+| 🔥🔥: 249 \| 💬: [102](https://news.ycombinator.com/item?id=43162340) \| 🗓️ 2025-02-24
 
 
 <br />
@@ -107,11 +107,23 @@ tags:
 
 ---
 
-## <a name="8"></a>8. 法官裁定向DOGE披露个人信息“造成不可逆转的伤害” 
+## <a name="8"></a>8. DigiCert：法律威胁以压制Bugzilla讨论 
+<small>🔗 [bugzilla.mozilla.org](https://bugzilla.mozilla.org/show_bug.cgi?id=1950144): DigiCert: Threat of legal action to stifle Bugzilla discourse</small>
+
+
+| 🔥🔥: 217 \| 💬: [44](https://news.ycombinator.com/item?id=43167087) \| 🗓️ 2025-02-24
+
+
+<br />
+DigiCert对Sectigo的首席合规官在Bugzilla上的言论表示不满，并通过律师发出警告，要求Sectigo制止其继续发表“贬损性”言论。Sectigo的法律顾问Brian Holland回应称，这种法律威胁会损害WebPKI的透明性和自我监管，强调开放讨论对行业的重要性。他认为，DigiCert的行为不仅无益于行业发展，还可能导致其他机构因恐惧而不敢提出批评意见，损害WebPKI的完整性。
+
+---
+
+## <a name="9"></a>9. 法官裁定向DOGE披露个人信息“造成不可逆转的伤害” 
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/02/judges-block-doge-access-to-personal-data-in-loss-for-trump-administration/): Disclosure of personal information to DOGE “is irreparable harm,” judge rules</small>
 
 
-| 🔥🔥: 201 \| 💬: [104](https://news.ycombinator.com/item?id=43167579) \| 🗓️ 2025-02-24
+| 🔥🔥: 212 \| 💬: [110](https://news.ycombinator.com/item?id=43167579) \| 🗓️ 2025-02-24
 
 
 <br />
@@ -119,7 +131,19 @@ tags:
 
 ---
 
-## <a name="9"></a>9. 从零开始用Go构建BitTorrent客户端 
+## <a name="10"></a>10. DeepSeek开源DeepEP：高效的MoE训练与推理库 
+<small>🔗 [github.com](https://github.com/deepseek-ai/DeepEP): DeepSeek open source DeepEP – library for MoE training and Inference</small>
+
+
+| 🔥🔥: 182 \| 💬: [26](https://news.ycombinator.com/item?id=43167373) \| 🗓️ 2025-02-24
+
+
+<br />
+DeepEP是一个专为**混合专家（MoE）**和**专家并行（EP）**设计的通信库，提供高吞吐量和低延迟的GPU内核。它支持低精度操作（如FP8），并优化了数据转发，适用于训练和推理任务。DeepEP还包括低延迟内核，利用RDMA减少延迟，并引入了基于钩子的通信计算重叠方法，确保资源的高效利用。
+
+---
+
+## <a name="11"></a>11. 从零开始用Go构建BitTorrent客户端 
 <small>🔗 [blog.jse.li](https://blog.jse.li/posts/torrent/): Building a BitTorrent client from the ground up in Go (2020)</small>
 
 
@@ -131,19 +155,43 @@ tags:
 
 ---
 
-## <a name="10"></a>10. DigiCert：法律威胁以压制Bugzilla讨论 
-<small>🔗 [bugzilla.mozilla.org](https://bugzilla.mozilla.org/show_bug.cgi?id=1950144): DigiCert: Threat of legal action to stifle Bugzilla discourse</small>
+## <a name="12"></a>12. 氯胺酮是否具有神经毒性？ 
+<small>🔗 [desmolysium.com](https://desmolysium.com/ketamineneurotoxic/): Is Ketamine Neurotoxic?</small>
 
 
-| 🔥🔥: 177 \| 💬: [28](https://news.ycombinator.com/item?id=43167087) \| 🗓️ 2025-02-24
+| 🔥🔥: 167 \| 💬: [191](https://news.ycombinator.com/item?id=43158292) \| 🗓️ 2025-02-24
 
 
 <br />
-DigiCert对Sectigo的首席合规官在Bugzilla上的言论表示不满，并通过律师发出警告，要求Sectigo制止其继续发表“贬损性”言论。Sectigo的法律顾问Brian Holland回应称，这种法律威胁会损害WebPKI的透明性和自我监管，强调开放讨论对行业的重要性。他认为，DigiCert的行为不仅无益于行业发展，还可能导致其他机构因恐惧而不敢提出批评意见，损害WebPKI的完整性。
+研究表明，氯胺酮在高剂量下具有**神经毒性**，与其短期增加**神经可塑性**不同。滥用氯胺酮会导致认知和神经损伤，MRI扫描显示脑部损伤。尽管治疗性使用的安全性尚不明确，但有专家认为长期使用可能会导致不可逆的脑损伤。
 
 ---
 
-## <a name="11"></a>11. Cloudflare对LaLiga“过度封锁行为”采取法律行动 
+## <a name="13"></a>13. 在人工智能时代，博客仍然值得写 
+<small>🔗 [gilesthomas.com](https://www.gilesthomas.com/2025/02/blogging-in-the-age-of-ai): It's still worth blogging in the age of AI</small>
+
+
+| 🔥🔥: 167 \| 💬: [100](https://news.ycombinator.com/item?id=43166761) \| 🗓️ 2025-02-24
+
+
+<br />
+在人工智能盛行的时代，写博客依然有其价值。**博客不仅是分享知识的方式，更是促进个人学习和思考的工具**。尽管AI可能会“吞噬”你的内容并提供答案，写作仍能帮助你巩固新知识，并为未来的读者提供帮助。此外，博客可以作为展示你思维能力的**作品集**，在职业发展中具有重要意义。虽然通过博客建立个人品牌的机会有限，但写作带来的成就感和与他人分享的快乐依然值得追求。
+
+---
+
+## <a name="14"></a>14. 便携使用文本嵌入的最佳方法：Parquet和Polars 
+<small>🔗 [minimaxir.com](https://minimaxir.com/2025/02/embeddings-parquet/): The best way to use text embeddings portably is with Parquet and Polars</small>
+
+
+| 🔥🔥: 165 \| 💬: [43](https://news.ycombinator.com/item?id=43162995) \| 🗓️ 2025-02-24
+
+
+<br />
+现代的**文本嵌入**是生成式AI的一个重要应用，能够有效表示文本对象。通过使用**Parquet文件**和**Polars库**，可以更便捷地存储和处理嵌入数据，避免了传统方法如CSV和pickle的缺陷。Parquet支持嵌套数据，且与numpy兼容，Polars则提供了更高效的操作，特别是在处理大规模数据时。通过这种方式，用户可以轻松地在不同机器间移动和管理嵌入数据，同时保持高性能和低内存占用。
+
+---
+
+## <a name="15"></a>15. Cloudflare对LaLiga“过度封锁行为”采取法律行动 
 <small>🔗 [broadbandtvnews.com](https://www.broadbandtvnews.com/2025/02/19/cloudflare-takes-legal-action-over-laligas-disproportionate-blocking-efforts/): Cloudflare takes legal action over LaLiga's "disproportionate blocking efforts"</small>
 
 
@@ -155,47 +203,11 @@ Cloudflare已对LaLiga提起诉讼，指控其IP封锁措施导致数百万用�
 
 ---
 
-## <a name="12"></a>12. 氯胺酮是否具有神经毒性？ 
-<small>🔗 [desmolysium.com](https://desmolysium.com/ketamineneurotoxic/): Is Ketamine Neurotoxic?</small>
-
-
-| 🔥🔥: 164 \| 💬: [191](https://news.ycombinator.com/item?id=43158292) \| 🗓️ 2025-02-24
-
-
-<br />
-研究表明，氯胺酮在高剂量下具有**神经毒性**，与其短期增加**神经可塑性**不同。滥用氯胺酮会导致认知和神经损伤，MRI扫描显示脑部损伤。尽管治疗性使用的安全性尚不明确，但有专家认为长期使用可能会导致不可逆的脑损伤。
-
----
-
-## <a name="13"></a>13. Laravel云：快速部署与扩展Laravel应用 
-<small>🔗 [app.laravel.cloud](https://app.laravel.cloud/): Laravel Cloud</small>
-
-
-| 🔥🔥: 160 \| 💬: [93](https://news.ycombinator.com/item?id=43160612) \| 🗓️ 2025-02-24
-
-
-<br />
-Laravel云是一个专为Laravel应用设计的**全托管平台**，简化了配置和部署过程。用户可以通过**一键式自动扩展**、数据库、缓存和存储等功能，专注于开发而非管理服务器。平台支持快速部署，用户只需连接Git账户，选择代码库，即可在60秒内开始使用。Laravel云提供企业级的**安全性和性能**，自动处理SSL证书和流量负载均衡，确保应用在全球范围内的快速和可靠运行。
-
----
-
-## <a name="14"></a>14. 便携使用文本嵌入的最佳方法：Parquet和Polars 
-<small>🔗 [minimaxir.com](https://minimaxir.com/2025/02/embeddings-parquet/): The best way to use text embeddings portably is with Parquet and Polars</small>
-
-
-| 🔥🔥: 159 \| 💬: [42](https://news.ycombinator.com/item?id=43162995) \| 🗓️ 2025-02-24
-
-
-<br />
-现代的**文本嵌入**是生成式AI的一个重要应用，能够有效表示文本对象。通过使用**Parquet文件**和**Polars库**，可以更便捷地存储和处理嵌入数据，避免了传统方法如CSV和pickle的缺陷。Parquet支持嵌套数据，且与numpy兼容，Polars则提供了更高效的操作，特别是在处理大规模数据时。通过这种方式，用户可以轻松地在不同机器间移动和管理嵌入数据，同时保持高性能和低内存占用。
-
----
-
-## <a name="15"></a>15. 谷歌联合科学家AI依赖于先前的论文提供答案 
+## <a name="16"></a>16. 谷歌联合科学家AI依赖于先前的论文提供答案 
 <small>🔗 [pivot-to-ai.com](https://pivot-to-ai.com/2025/02/22/google-co-scientist-ai-cracks-superbug-problem-in-two-days-because-it-had-been-fed-the-teams-previous-paper-with-the-answer-in-it/): Google Co-Scientist AI fed previous paper with the answer in it</small>
 
 
-| 🔥🔥: 157 \| 💬: [25](https://news.ycombinator.com/item?id=43162582) \| 🗓️ 2025-02-24
+| 🔥🔥: 164 \| 💬: [26](https://news.ycombinator.com/item?id=43162582) \| 🗓️ 2025-02-24
 
 
 <br />
@@ -203,23 +215,35 @@ Laravel云是一个专为Laravel应用设计的**全托管平台**，简化了�
 
 ---
 
-## <a name="16"></a>16. 在人工智能时代，博客仍然值得写 
-<small>🔗 [gilesthomas.com](https://www.gilesthomas.com/2025/02/blogging-in-the-age-of-ai): It's still worth blogging in the age of AI</small>
+## <a name="17"></a>17. Laravel云：快速部署与扩展Laravel应用 
+<small>🔗 [app.laravel.cloud](https://app.laravel.cloud/): Laravel Cloud</small>
 
 
-| 🔥🔥: 155 \| 💬: [86](https://news.ycombinator.com/item?id=43166761) \| 🗓️ 2025-02-24
+| 🔥🔥: 162 \| 💬: [94](https://news.ycombinator.com/item?id=43160612) \| 🗓️ 2025-02-24
 
 
 <br />
-在人工智能盛行的时代，写博客依然有其价值。**博客不仅是分享知识的方式，更是促进个人学习和思考的工具**。尽管AI可能会“吞噬”你的内容并提供答案，写作仍能帮助你巩固新知识，并为未来的读者提供帮助。此外，博客可以作为展示你思维能力的**作品集**，在职业发展中具有重要意义。虽然通过博客建立个人品牌的机会有限，但写作带来的成就感和与他人分享的快乐依然值得追求。
+Laravel云是一个专为Laravel应用设计的**全托管平台**，简化了配置和部署过程。用户可以通过**一键式自动扩展**、数据库、缓存和存储等功能，专注于开发而非管理服务器。平台支持快速部署，用户只需连接Git账户，选择代码库，即可在60秒内开始使用。Laravel云提供企业级的**安全性和性能**，自动处理SSL证书和流量负载均衡，确保应用在全球范围内的快速和可靠运行。
 
 ---
 
-## <a name="17"></a>17. 新西兰公司“无法破解”的安全性实际上毫无安全性可言 
+## <a name="18"></a>18. 清晰代码与软件设计哲学的对比 
+<small>🔗 [github.com](https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md): Clean Code vs. A Philosophy Of Software Design</small>
+
+
+| 🔥🔥: 157 \| 💬: [86](https://news.ycombinator.com/item?id=43166362) \| 🗓️ 2025-02-24
+
+
+<br />
+罗伯特·马丁与约翰·奥斯特豪特在2024至2025年间讨论了他们在软件设计上的不同观点，尤其在**方法长度**、**注释**和**测试驱动开发**等方面。约翰强调设计的核心目标是降低复杂性，使系统易于理解和修改，而罗伯特则认为应优先考虑代码的可读性，尤其是对其他程序员的可读性。两人对方法长度的看法存在分歧，约翰认为过度分解会导致接口复杂和信息纠缠，而罗伯特则坚持小函数的原则，认为小函数有助于代码的清晰性。尽管两者在某些方面存在共识，但在具体实施上却有显著差异。
+
+---
+
+## <a name="19"></a>19. 新西兰公司“无法破解”的安全性实际上毫无安全性可言 
 <small>🔗 [jltee.substack.com](https://jltee.substack.com/p/new-zealand-companys-impossible-to-hack-security): 'Impossible-to-hack' security turns out to be no security</small>
 
 
-| 🔥🔥: 152 \| 💬: [135](https://news.ycombinator.com/item?id=43159544) \| 🗓️ 2025-02-24
+| 🔥🔥: 153 \| 💬: [136](https://news.ycombinator.com/item?id=43159544) \| 🗓️ 2025-02-24
 
 
 <br />
@@ -227,7 +251,7 @@ Laravel云是一个专为Laravel应用设计的**全托管平台**，简化了�
 
 ---
 
-## <a name="18"></a>18. ARPA资助廉价社区拥有的千兆光纤，惠及被忽视的社区 
+## <a name="20"></a>20. ARPA资助廉价社区拥有的千兆光纤，惠及被忽视的社区 
 <small>🔗 [techdirt.com](https://www.techdirt.com/2025/02/24/arpa-is-quietly-funding-cheap-50-65-a-month-community-owned-gigabit-fiber-access-to-long-neglected-neighborhoods/): ARPA is funding cheap community-owned gigabit fiber to neglected neighborhoods</small>
 
 
@@ -239,7 +263,7 @@ Laravel云是一个专为Laravel应用设计的**全托管平台**，简化了�
 
 ---
 
-## <a name="19"></a>19. 我每月抓取Steam数据，免费提供下载 
+## <a name="21"></a>21. 我每月抓取Steam数据，免费提供下载 
 <small>🔗 [gginsights.io](https://www.gginsights.io): Show HN: I scrape Steam data every month and it's yours to download for free</small>
 
 
@@ -251,38 +275,14 @@ Laravel云是一个专为Laravel应用设计的**全托管平台**，简化了�
 
 ---
 
-## <a name="20"></a>20. Emacs 30.1 新特性概览 
+## <a name="22"></a>22. Emacs 30.1 新特性概览 
 <small>🔗 [masteringemacs.org](https://www.masteringemacs.org/article/whats-new-in-emacs-301): What's New in Emacs 30.1?</small>
 
 
-| 🔥🔥: 144 \| 💬: [28](https://news.ycombinator.com/item?id=43158164) \| 🗓️ 2025-02-24
+| 🔥🔥: 145 \| 💬: [28](https://news.ycombinator.com/item?id=43158164) \| 🗓️ 2025-02-24
 
 
 <br />
 Emacs 30.1 带来了众多新功能和改进，其中最引人注目的是 **completion-preview-mode**，它提供了卓越的用户体验，替代了传统的 company mode 和 corfu。**Org URI 协议**现在可以自动注册，简化了从浏览器到 Emacs 的数据传输。内置的 **Which-key** 功能为用户提供了更便捷的帮助方式。此外，Emacs 30.1 默认启用 **本地编译**，极大提升了性能。对于 Android 用户，Emacs 现已全面支持，带来触屏相关的改进。整体而言，这次更新展现了开发者对用户体验的重视，值得期待。
-
----
-
-## <a name="21"></a>21. 清晰代码与软件设计哲学的对比 
-<small>🔗 [github.com](https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md): Clean Code vs. A Philosophy Of Software Design</small>
-
-
-| 🔥🔥: 139 \| 💬: [75](https://news.ycombinator.com/item?id=43166362) \| 🗓️ 2025-02-24
-
-
-<br />
-罗伯特·马丁与约翰·奥斯特豪特在2024至2025年间讨论了他们在软件设计上的不同观点，尤其在**方法长度**、**注释**和**测试驱动开发**等方面。约翰强调设计的核心目标是降低复杂性，使系统易于理解和修改，而罗伯特则认为应优先考虑代码的可读性，尤其是对其他程序员的可读性。两人对方法长度的看法存在分歧，约翰认为过度分解会导致接口复杂和信息纠缠，而罗伯特则坚持小函数的原则，认为小函数有助于代码的清晰性。尽管两者在某些方面存在共识，但在具体实施上却有显著差异。
-
----
-
-## <a name="22"></a>22. DeepSeek开源DeepEP：高效的MoE训练与推理库 
-<small>🔗 [github.com](https://github.com/deepseek-ai/DeepEP): DeepSeek open source DeepEP – library for MoE training and Inference</small>
-
-
-| 🔥🔥: 131 \| 💬: [17](https://news.ycombinator.com/item?id=43167373) \| 🗓️ 2025-02-24
-
-
-<br />
-DeepEP是一个专为**混合专家（MoE）**和**专家并行（EP）**设计的通信库，提供高吞吐量和低延迟的GPU内核。它支持低精度操作（如FP8），并优化了数据转发，适用于训练和推理任务。DeepEP还包括低延迟内核，利用RDMA减少延迟，并引入了基于钩子的通信计算重叠方法，确保资源的高效利用。
 
 ---
