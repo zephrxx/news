@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共19条，具体内容您往下读...
+总共22条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/claude-3-7-sonnet): Claude 3.7 Sonnet and Claude Code</small>
 
 
-| 🔥🔥: 1450 \| 💬: [631](https://news.ycombinator.com/item?id=43163011) \| 🗓️ 2025-02-24
+| 🔥🔥: 1493 \| 💬: [646](https://news.ycombinator.com/item?id=43163011) \| 🗓️ 2025-02-24
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [ifixit.com](https://www.ifixit.com/News/108371/right-to-repair-laws-have-now-been-introduced-in-all-50-us-states): Right to Repair laws have now been proposed in all U.S. states</small>
 
 
-| 🔥🔥: 432 \| 💬: [130](https://news.ycombinator.com/item?id=43161777) \| 🗓️ 2025-02-24
+| 🔥🔥: 439 \| 💬: [132](https://news.ycombinator.com/item?id=43161777) \| 🗓️ 2025-02-24
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [jiha-kim.github.io](https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus/): Introduction to Stochastic Calculus</small>
 
 
-| 🔥🔥: 346 \| 💬: [65](https://news.ycombinator.com/item?id=43160779) \| 🗓️ 2025-02-24
+| 🔥🔥: 351 \| 💬: [66](https://news.ycombinator.com/item?id=43160779) \| 🗓️ 2025-02-24
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [ericdaigle.ca](https://www.ericdaigle.ca/posts/breaking-into-dozens-of-apartments-in-five-minutes/): Breaking into apartment buildings in five minutes on my phone</small>
 
 
-| 🔥🔥: 331 \| 💬: [202](https://news.ycombinator.com/item?id=43160884) \| 🗓️ 2025-02-24
+| 🔥🔥: 343 \| 💬: [205](https://news.ycombinator.com/item?id=43160884) \| 🗓️ 2025-02-24
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [discuss.systems](https://discuss.systems/@ricci/114059690609284323): Everyone at NSF overseeing the Platforms for Wireless Experimentation is gone</small>
 
 
-| 🔥🔥: 257 \| 💬: [247](https://news.ycombinator.com/item?id=43166830) \| 🗓️ 2025-02-24
+| 🔥🔥: 282 \| 💬: [282](https://news.ycombinator.com/item?id=43166830) \| 🗓️ 2025-02-24
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [jmspae.se](https://www.jmspae.se/write-ups/kebabs-train-stations/): “The closer to the train station, the worse the kebab” – a “study”</small>
 
 
-| 🔥🔥: 236 \| 💬: [212](https://news.ycombinator.com/item?id=43165112) \| 🗓️ 2025-02-24
+| 🔥🔥: 250 \| 💬: [214](https://news.ycombinator.com/item?id=43165112) \| 🗓️ 2025-02-24
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [corporate.watch](https://corporate.watch): Show HN: I made a site to tell the time in corporate</small>
 
 
-| 🔥🔥: 225 \| 💬: [100](https://news.ycombinator.com/item?id=43162340) \| 🗓️ 2025-02-24
+| 🔥🔥: 241 \| 💬: [101](https://news.ycombinator.com/item?id=43162340) \| 🗓️ 2025-02-24
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/02/judges-block-doge-access-to-personal-data-in-loss-for-trump-administration/): Disclosure of personal information to DOGE “is irreparable harm,” judge rules</small>
 
 
-| 🔥🔥: 184 \| 💬: [91](https://news.ycombinator.com/item?id=43167579) \| 🗓️ 2025-02-24
+| 🔥🔥: 201 \| 💬: [104](https://news.ycombinator.com/item?id=43167579) \| 🗓️ 2025-02-24
 
 
 <br />
@@ -123,7 +123,7 @@ tags:
 <small>🔗 [blog.jse.li](https://blog.jse.li/posts/torrent/): Building a BitTorrent client from the ground up in Go (2020)</small>
 
 
-| 🔥🔥: 180 \| 💬: [83](https://news.ycombinator.com/item?id=43157980) \| 🗓️ 2025-02-24
+| 🔥🔥: 181 \| 💬: [83](https://news.ycombinator.com/item?id=43157980) \| 🗓️ 2025-02-24
 
 
 <br />
@@ -131,7 +131,19 @@ tags:
 
 ---
 
-## <a name="10"></a>10. Cloudflare对LaLiga“过度封锁行为”采取法律行动 
+## <a name="10"></a>10. DigiCert：法律威胁以压制Bugzilla讨论 
+<small>🔗 [bugzilla.mozilla.org](https://bugzilla.mozilla.org/show_bug.cgi?id=1950144): DigiCert: Threat of legal action to stifle Bugzilla discourse</small>
+
+
+| 🔥🔥: 177 \| 💬: [28](https://news.ycombinator.com/item?id=43167087) \| 🗓️ 2025-02-24
+
+
+<br />
+DigiCert对Sectigo的首席合规官在Bugzilla上的言论表示不满，并通过律师发出警告，要求Sectigo制止其继续发表“贬损性”言论。Sectigo的法律顾问Brian Holland回应称，这种法律威胁会损害WebPKI的透明性和自我监管，强调开放讨论对行业的重要性。他认为，DigiCert的行为不仅无益于行业发展，还可能导致其他机构因恐惧而不敢提出批评意见，损害WebPKI的完整性。
+
+---
+
+## <a name="11"></a>11. Cloudflare对LaLiga“过度封锁行为”采取法律行动 
 <small>🔗 [broadbandtvnews.com](https://www.broadbandtvnews.com/2025/02/19/cloudflare-takes-legal-action-over-laligas-disproportionate-blocking-efforts/): Cloudflare takes legal action over LaLiga's "disproportionate blocking efforts"</small>
 
 
@@ -143,11 +155,11 @@ Cloudflare已对LaLiga提起诉讼，指控其IP封锁措施导致数百万用�
 
 ---
 
-## <a name="11"></a>11. 氯胺酮是否具有神经毒性？ 
+## <a name="12"></a>12. 氯胺酮是否具有神经毒性？ 
 <small>🔗 [desmolysium.com](https://desmolysium.com/ketamineneurotoxic/): Is Ketamine Neurotoxic?</small>
 
 
-| 🔥🔥: 164 \| 💬: [190](https://news.ycombinator.com/item?id=43158292) \| 🗓️ 2025-02-24
+| 🔥🔥: 164 \| 💬: [191](https://news.ycombinator.com/item?id=43158292) \| 🗓️ 2025-02-24
 
 
 <br />
@@ -155,11 +167,11 @@ Cloudflare已对LaLiga提起诉讼，指控其IP封锁措施导致数百万用�
 
 ---
 
-## <a name="12"></a>12. Laravel云：快速部署与扩展Laravel应用 
+## <a name="13"></a>13. Laravel云：快速部署与扩展Laravel应用 
 <small>🔗 [app.laravel.cloud](https://app.laravel.cloud/): Laravel Cloud</small>
 
 
-| 🔥🔥: 157 \| 💬: [93](https://news.ycombinator.com/item?id=43160612) \| 🗓️ 2025-02-24
+| 🔥🔥: 160 \| 💬: [93](https://news.ycombinator.com/item?id=43160612) \| 🗓️ 2025-02-24
 
 
 <br />
@@ -167,11 +179,11 @@ Laravel云是一个专为Laravel应用设计的**全托管平台**，简化了�
 
 ---
 
-## <a name="13"></a>13. 便携使用文本嵌入的最佳方法：Parquet和Polars 
+## <a name="14"></a>14. 便携使用文本嵌入的最佳方法：Parquet和Polars 
 <small>🔗 [minimaxir.com](https://minimaxir.com/2025/02/embeddings-parquet/): The best way to use text embeddings portably is with Parquet and Polars</small>
 
 
-| 🔥🔥: 155 \| 💬: [42](https://news.ycombinator.com/item?id=43162995) \| 🗓️ 2025-02-24
+| 🔥🔥: 159 \| 💬: [42](https://news.ycombinator.com/item?id=43162995) \| 🗓️ 2025-02-24
 
 
 <br />
@@ -179,11 +191,35 @@ Laravel云是一个专为Laravel应用设计的**全托管平台**，简化了�
 
 ---
 
-## <a name="14"></a>14. 新西兰公司“无法破解”的安全性实际上毫无安全性可言 
+## <a name="15"></a>15. 谷歌联合科学家AI依赖于先前的论文提供答案 
+<small>🔗 [pivot-to-ai.com](https://pivot-to-ai.com/2025/02/22/google-co-scientist-ai-cracks-superbug-problem-in-two-days-because-it-had-been-fed-the-teams-previous-paper-with-the-answer-in-it/): Google Co-Scientist AI fed previous paper with the answer in it</small>
+
+
+| 🔥🔥: 157 \| 💬: [25](https://news.ycombinator.com/item?id=43162582) \| 🗓️ 2025-02-24
+
+
+<br />
+谷歌的AI工具Co-Scientist引发了热议，因其在48小时内解决了José Penadés团队的难题。然而，**Co-Scientist**实际上是基于其团队2023年的论文提出的假设，这一重要信息在BBC报道中被忽略。Penadés指出，系统能够将已发布的研究整合，但并未展现真正的科学创造力。类似的情况也出现在其他成功案例中，显示出这些所谓的新发现往往并非原创，而是对已有研究的重新组合。
+
+---
+
+## <a name="16"></a>16. 在人工智能时代，博客仍然值得写 
+<small>🔗 [gilesthomas.com](https://www.gilesthomas.com/2025/02/blogging-in-the-age-of-ai): It's still worth blogging in the age of AI</small>
+
+
+| 🔥🔥: 155 \| 💬: [86](https://news.ycombinator.com/item?id=43166761) \| 🗓️ 2025-02-24
+
+
+<br />
+在人工智能盛行的时代，写博客依然有其价值。**博客不仅是分享知识的方式，更是促进个人学习和思考的工具**。尽管AI可能会“吞噬”你的内容并提供答案，写作仍能帮助你巩固新知识，并为未来的读者提供帮助。此外，博客可以作为展示你思维能力的**作品集**，在职业发展中具有重要意义。虽然通过博客建立个人品牌的机会有限，但写作带来的成就感和与他人分享的快乐依然值得追求。
+
+---
+
+## <a name="17"></a>17. 新西兰公司“无法破解”的安全性实际上毫无安全性可言 
 <small>🔗 [jltee.substack.com](https://jltee.substack.com/p/new-zealand-companys-impossible-to-hack-security): 'Impossible-to-hack' security turns out to be no security</small>
 
 
-| 🔥🔥: 151 \| 💬: [135](https://news.ycombinator.com/item?id=43159544) \| 🗓️ 2025-02-24
+| 🔥🔥: 152 \| 💬: [135](https://news.ycombinator.com/item?id=43159544) \| 🗓️ 2025-02-24
 
 
 <br />
@@ -191,7 +227,7 @@ Laravel云是一个专为Laravel应用设计的**全托管平台**，简化了�
 
 ---
 
-## <a name="15"></a>15. ARPA资助廉价社区拥有的千兆光纤，惠及被忽视的社区 
+## <a name="18"></a>18. ARPA资助廉价社区拥有的千兆光纤，惠及被忽视的社区 
 <small>🔗 [techdirt.com](https://www.techdirt.com/2025/02/24/arpa-is-quietly-funding-cheap-50-65-a-month-community-owned-gigabit-fiber-access-to-long-neglected-neighborhoods/): ARPA is funding cheap community-owned gigabit fiber to neglected neighborhoods</small>
 
 
@@ -203,7 +239,7 @@ Laravel云是一个专为Laravel应用设计的**全托管平台**，简化了�
 
 ---
 
-## <a name="16"></a>16. 我每月抓取Steam数据，免费提供下载 
+## <a name="19"></a>19. 我每月抓取Steam数据，免费提供下载 
 <small>🔗 [gginsights.io](https://www.gginsights.io): Show HN: I scrape Steam data every month and it's yours to download for free</small>
 
 
@@ -215,7 +251,7 @@ Laravel云是一个专为Laravel应用设计的**全托管平台**，简化了�
 
 ---
 
-## <a name="17"></a>17. Emacs 30.1 新特性概览 
+## <a name="20"></a>20. Emacs 30.1 新特性概览 
 <small>🔗 [masteringemacs.org](https://www.masteringemacs.org/article/whats-new-in-emacs-301): What's New in Emacs 30.1?</small>
 
 
@@ -227,26 +263,26 @@ Emacs 30.1 带来了众多新功能和改进，其中最引人注目的是 **com
 
 ---
 
-## <a name="18"></a>18. 在人工智能时代，博客仍然值得写 
-<small>🔗 [gilesthomas.com](https://www.gilesthomas.com/2025/02/blogging-in-the-age-of-ai): It's still worth blogging in the age of AI</small>
-
-
-| 🔥🔥: 143 \| 💬: [80](https://news.ycombinator.com/item?id=43166761) \| 🗓️ 2025-02-24
-
-
-<br />
-在人工智能盛行的时代，写博客依然有其价值。**博客不仅是分享知识的方式，更是促进个人学习和思考的工具**。尽管AI可能会“吞噬”你的内容并提供答案，写作仍能帮助你巩固新知识，并为未来的读者提供帮助。此外，博客可以作为展示你思维能力的**作品集**，在职业发展中具有重要意义。虽然通过博客建立个人品牌的机会有限，但写作带来的成就感和与他人分享的快乐依然值得追求。
-
----
-
-## <a name="19"></a>19. 清晰代码与软件设计哲学的对比 
+## <a name="21"></a>21. 清晰代码与软件设计哲学的对比 
 <small>🔗 [github.com](https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md): Clean Code vs. A Philosophy Of Software Design</small>
 
 
-| 🔥🔥: 113 \| 💬: [63](https://news.ycombinator.com/item?id=43166362) \| 🗓️ 2025-02-24
+| 🔥🔥: 139 \| 💬: [75](https://news.ycombinator.com/item?id=43166362) \| 🗓️ 2025-02-24
 
 
 <br />
 罗伯特·马丁与约翰·奥斯特豪特在2024至2025年间讨论了他们在软件设计上的不同观点，尤其在**方法长度**、**注释**和**测试驱动开发**等方面。约翰强调设计的核心目标是降低复杂性，使系统易于理解和修改，而罗伯特则认为应优先考虑代码的可读性，尤其是对其他程序员的可读性。两人对方法长度的看法存在分歧，约翰认为过度分解会导致接口复杂和信息纠缠，而罗伯特则坚持小函数的原则，认为小函数有助于代码的清晰性。尽管两者在某些方面存在共识，但在具体实施上却有显著差异。
+
+---
+
+## <a name="22"></a>22. DeepSeek开源DeepEP：高效的MoE训练与推理库 
+<small>🔗 [github.com](https://github.com/deepseek-ai/DeepEP): DeepSeek open source DeepEP – library for MoE training and Inference</small>
+
+
+| 🔥🔥: 131 \| 💬: [17](https://news.ycombinator.com/item?id=43167373) \| 🗓️ 2025-02-24
+
+
+<br />
+DeepEP是一个专为**混合专家（MoE）**和**专家并行（EP）**设计的通信库，提供高吞吐量和低延迟的GPU内核。它支持低精度操作（如FP8），并优化了数据转发，适用于训练和推理任务。DeepEP还包括低延迟内核，利用RDMA减少延迟，并引入了基于钩子的通信计算重叠方法，确保资源的高效利用。
 
 ---
