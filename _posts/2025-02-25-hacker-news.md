@@ -8,38 +8,26 @@ tags:
 ---
 
 
-1. 核心 Git 开发者如何配置 Git；
 1. 超空间；
-1. 如果后门法案通过，建议离开瑞典；
 1. 我参加了SQL注入法庭；
-1. 嘿，17号；
+1. 核心 Git 开发者如何配置 Git；
+1. 如果后门法案通过，建议离开瑞典；
+1. Framework首款桌面PC：独特的迷你ITX游戏电脑；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
 ![](/assets/images/hacker_news.jpg)
 
 
-## <a name="1"></a>1. 核心 Git 开发者如何配置 Git 
-<small>🔗 [blog.gitbutler.com](https://blog.gitbutler.com/how-git-core-devs-configure-git/): How Core Git Developers Configure Git</small>
-
-
-| 🔥🔥: 483 \| 💬: [106](https://news.ycombinator.com/item?id=43169435) \| 🗓️ 2025-02-25
-
-
-<br />
-本文探讨了核心 Git 开发者推荐的 Git 配置设置，强调了一些应该成为默认值的设置。作者分享了自己启用的设置，如 `branch.sort` 和 `diff.algorithm`，并解释了它们如何提升 Git 的使用体验。通过启用这些设置，用户可以更好地管理分支、优化差异比较和简化推送操作。此外，文章还提到了一些开发者在 Git 邮件列表中讨论的设置，尽管这些设置尚未成为默认值，但它们在开发者中受到广泛认可。总之，合理配置 Git 可以显著提升工作效率和用户体验。
-
----
-
-## <a name="2"></a>2. 超空间 
+## <a name="1"></a>1. 超空间 
 <small>🔗 [hypercritical.co](https://hypercritical.co/2025/02/25/hyperspace): Hyperspace</small>
 
 
-| 🔥🔥: 467 \| 💬: [279](https://news.ycombinator.com/item?id=43173462) \| 🗓️ 2025-02-25
+| 🔥🔥: 503 \| 💬: [294](https://news.ycombinator.com/item?id=43173462) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -47,23 +35,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 如果后门法案通过，建议离开瑞典 
-<small>🔗 [swedenherald.com](https://swedenherald.com/article/signals-ceo-then-were-leaving-sweden): Signal to leave Sweden if backdoor law passes</small>
-
-
-| 🔥🔥: 439 \| 💬: [236](https://news.ycombinator.com/item?id=43171205) \| 🗓️ 2025-02-25
-
-
-<br />
-根据梅雷迪思·惠特克的说法，该法案要求加密通讯应用程序Signal在软件中安装所谓的**后门**。她表示，这样的漏洞会破坏整个网络，因此Signal绝不会引入这些后门。该法案的目的是让警方和安全局能够追溯请求涉嫌犯罪人员的消息记录。然而，瑞典武装部队对此表示反对，认为该提案将不可避免地引入可被第三方利用的**漏洞**。
-
----
-
-## <a name="4"></a>4. 我参加了SQL注入法庭 
+## <a name="2"></a>2. 我参加了SQL注入法庭 
 <small>🔗 [sockpuppet.org](https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/): I Went to SQL Injection Court</small>
 
 
-| 🔥🔥: 396 \| 💬: [150](https://news.ycombinator.com/item?id=43175628) \| 🗓️ 2025-02-25
+| 🔥🔥: 492 \| 💬: [180](https://news.ycombinator.com/item?id=43175628) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -71,23 +47,35 @@ tags:
 
 ---
 
-## <a name="5"></a>5. 嘿，17号 
-<small>🔗 [404media.co](https://www.404media.co/email/b7eb2339-2ea1-4a37-96cc-a360494c214c/): 'Hey Number 17 '</small>
+## <a name="3"></a>3. 核心 Git 开发者如何配置 Git 
+<small>🔗 [blog.gitbutler.com](https://blog.gitbutler.com/how-git-core-devs-configure-git/): How Core Git Developers Configure Git</small>
 
 
-| 🔥🔥: 270 \| 💬: [97](https://news.ycombinator.com/item?id=43175023) \| 🗓️ 2025-02-25
+| 🔥🔥: 491 \| 💬: [110](https://news.ycombinator.com/item?id=43169435) \| 🗓️ 2025-02-25
 
 
 <br />
-一家名为Optifye.ai的初创公司推出了一种“工厂工人AI绩效监控系统”，该系统通过机器视觉监控工人的手部动作和产出，可能导致工人受到非人性化的监视。在一段演示视频中，创始人Vivaan Baid和Kushal Mohta展示了工厂老板如何利用这一系统来监控工人的效率，甚至在视频中以戏谑的方式指责工人表现不佳。该公司希望向工厂老板销售摄像头，以实时监测工人的生产效率，尽管这种做法可能加剧工人的压力和不安全感。Optifye.ai的创始人表示，他们的家庭背景使他们对工厂工作条件有深刻的了解，但他们的监控方法引发了对工人权益的关注。Y Combinator已删除了对该公司的支持帖子，显示出对其做法的争议。
+本文探讨了核心 Git 开发者推荐的 Git 配置设置，强调了一些应该成为默认值的设置。作者分享了自己启用的设置，如 `branch.sort` 和 `diff.algorithm`，并解释了它们如何提升 Git 的使用体验。通过启用这些设置，用户可以更好地管理分支、优化差异比较和简化推送操作。此外，文章还提到了一些开发者在 Git 邮件列表中讨论的设置，尽管这些设置尚未成为默认值，但它们在开发者中受到广泛认可。总之，合理配置 Git 可以显著提升工作效率和用户体验。
 
 ---
 
-## <a name="6"></a>6. Framework首款桌面PC：独特的迷你ITX游戏电脑 
+## <a name="4"></a>4. 如果后门法案通过，建议离开瑞典 
+<small>🔗 [swedenherald.com](https://swedenherald.com/article/signals-ceo-then-were-leaving-sweden): Signal to leave Sweden if backdoor law passes</small>
+
+
+| 🔥🔥: 444 \| 💬: [239](https://news.ycombinator.com/item?id=43171205) \| 🗓️ 2025-02-25
+
+
+<br />
+根据梅雷迪思·惠特克的说法，该法案要求加密通讯应用程序Signal在软件中安装所谓的**后门**。她表示，这样的漏洞会破坏整个网络，因此Signal绝不会引入这些后门。该法案的目的是让警方和安全局能够追溯请求涉嫌犯罪人员的消息记录。然而，瑞典武装部队对此表示反对，认为该提案将不可避免地引入可被第三方利用的**漏洞**。
+
+---
+
+## <a name="5"></a>5. Framework首款桌面PC：独特的迷你ITX游戏电脑 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/02/framework-known-for-upgradable-laptops-intros-not-particularly-upgradable-desktop/): Framework's first desktop is a strange–but unique–mini ITX gaming PC</small>
 
 
-| 🔥🔥: 261 \| 💬: [217](https://news.ycombinator.com/item?id=43176314) \| 🗓️ 2025-02-25
+| 🔥🔥: 297 \| 💬: [277](https://news.ycombinator.com/item?id=43176314) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -95,11 +83,23 @@ Framework推出了其首款桌面PC——**Framework Desktop**，旨在为追求
 
 ---
 
+## <a name="6"></a>6. 嘿，17号 
+<small>🔗 [404media.co](https://www.404media.co/email/b7eb2339-2ea1-4a37-96cc-a360494c214c/): 'Hey Number 17 '</small>
+
+
+| 🔥🔥: 284 \| 💬: [105](https://news.ycombinator.com/item?id=43175023) \| 🗓️ 2025-02-25
+
+
+<br />
+一家名为Optifye.ai的初创公司推出了一种“工厂工人AI绩效监控系统”，该系统通过机器视觉监控工人的手部动作和产出，可能导致工人受到非人性化的监视。在一段演示视频中，创始人Vivaan Baid和Kushal Mohta展示了工厂老板如何利用这一系统来监控工人的效率，甚至在视频中以戏谑的方式指责工人表现不佳。该公司希望向工厂老板销售摄像头，以实时监测工人的生产效率，尽管这种做法可能加剧工人的压力和不安全感。Optifye.ai的创始人表示，他们的家庭背景使他们对工厂工作条件有深刻的了解，但他们的监控方法引发了对工人权益的关注。Y Combinator已删除了对该公司的支持帖子，显示出对其做法的争议。
+
+---
+
 ## <a name="7"></a>7. 特斯拉一月在欧洲销量下降45% 
 <small>🔗 [ft.com](https://www.ft.com/content/cdd0b5c8-2703-4fd4-9ebf-26087cac8523): Tesla sales in Europe down 45% in January</small>
 
 
-| 🔥🔥: 244 \| 💬: [447](https://news.ycombinator.com/item?id=43170090) \| 🗓️ 2025-02-25
+| 🔥🔥: 248 \| 💬: [449](https://news.ycombinator.com/item?id=43170090) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -111,7 +111,7 @@ Framework推出了其首款桌面PC——**Framework Desktop**，旨在为追求
 <small>🔗 [dashbit.co](https://dashbit.co/blog/running-python-in-elixir-its-fine): Embedding Python in Elixir, it's fine</small>
 
 
-| 🔥🔥: 226 \| 💬: [42](https://news.ycombinator.com/item?id=43171239) \| 🗓️ 2025-02-25
+| 🔥🔥: 233 \| 💬: [45](https://news.ycombinator.com/item?id=43171239) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -123,7 +123,7 @@ Framework推出了其首款桌面PC——**Framework Desktop**，旨在为追求
 <small>🔗 [milvus.io](https://milvus.io/blog/introduce-deepsearcher-a-local-open-source-deep-research.md): DeepSearcher: A local open-source Deep Research</small>
 
 
-| 🔥🔥: 142 \| 💬: [19](https://news.ycombinator.com/item?id=43172338) \| 🗓️ 2025-02-25
+| 🔥🔥: 153 \| 💬: [20](https://news.ycombinator.com/item?id=43172338) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -135,7 +135,7 @@ DeepSearcher是一个开源项目，旨在通过**查询路由**、**条件执�
 <small>🔗 [noperator.dev](https://noperator.dev/posts/document-ranking-for-complex-problems/): Hard problems that reduce to document ranking</small>
 
 
-| 🔥🔥: 131 \| 💬: [17](https://news.ycombinator.com/item?id=43174910) \| 🗓️ 2025-02-25
+| 🔥🔥: 144 \| 💬: [18](https://news.ycombinator.com/item?id=43174910) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -147,7 +147,7 @@ DeepSearcher是一个开源项目，旨在通过**查询路由**、**条件执�
 <small>🔗 [chicory.dev](https://chicory.dev/): Chicory: A JVM native WebAssembly runtime</small>
 
 
-| 🔥🔥: 122 \| 💬: [46](https://news.ycombinator.com/item?id=43170545) \| 🗓️ 2025-02-25
+| 🔥🔥: 131 \| 💬: [56](https://news.ycombinator.com/item?id=43170545) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -183,7 +183,7 @@ Awesome DeepSeek Integrations 提供了多种与 **DeepSeek API** 集成的应�
 <small>🔗 [apnews.com](https://apnews.com/article/congo-mystery-unknown-illness-cd8b1fdcb3b2ed032968b2c6044dc6db): Unknown illness kills over 50 in Congo with hours between symptoms and death</small>
 
 
-| 🔥🔥: 104 \| 💬: [46](https://news.ycombinator.com/item?id=43171371) \| 🗓️ 2025-02-25
+| 🔥🔥: 104 \| 💬: [48](https://news.ycombinator.com/item?id=43171371) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -191,23 +191,11 @@ Awesome DeepSeek Integrations 提供了多种与 **DeepSeek API** 集成的应�
 
 ---
 
-## <a name="15"></a>15. 对奇怪研究的辩护 
-<small>🔗 [asteriskmag.com](https://asteriskmag.com/issues/09/a-defense-of-weird-research): A Defense of Weird Research</small>
-
-
-| 🔥: 100 \| 💬: [31](https://news.ycombinator.com/item?id=43171002) \| 🗓️ 2025-02-25
-
-
-<br />
-政府资助的科学研究虽然看似奇怪或不切实际，但却屡次带来了科学突破，且其投资回报率极高。尽管面临削减，基本研究的长远价值不可忽视。许多看似无用的研究，最终可能导致重大技术进步，如CRISPR基因编辑技术的开发。政府在支持高风险基础研究方面的独特能力，使其在推动科学进步中扮演了不可替代的角色。
-
----
-
-## <a name="16"></a>16. XB-70：冷战时期的科技奇迹 
+## <a name="15"></a>15. XB-70：冷战时期的科技奇迹 
 <small>🔗 [codex99.com](http://codex99.com/photography/the-xb70.html): The XB-70 (2019)</small>
 
 
-| 🔥: 90 \| 💬: [56](https://news.ycombinator.com/item?id=43175315) \| 🗓️ 2025-02-25
+| 🔥🔥: 103 \| 💬: [62](https://news.ycombinator.com/item?id=43175315) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -215,11 +203,23 @@ XB-70是一架在冷战高峰期设计的超音速轰炸机，旨在超越敌方
 
 ---
 
+## <a name="16"></a>16. 对奇怪研究的辩护 
+<small>🔗 [asteriskmag.com](https://asteriskmag.com/issues/09/a-defense-of-weird-research): A Defense of Weird Research</small>
+
+
+| 🔥🔥: 102 \| 💬: [31](https://news.ycombinator.com/item?id=43171002) \| 🗓️ 2025-02-25
+
+
+<br />
+政府资助的科学研究虽然看似奇怪或不切实际，但却屡次带来了科学突破，且其投资回报率极高。尽管面临削减，基本研究的长远价值不可忽视。许多看似无用的研究，最终可能导致重大技术进步，如CRISPR基因编辑技术的开发。政府在支持高风险基础研究方面的独特能力，使其在推动科学进步中扮演了不可替代的角色。
+
+---
+
 ## <a name="17"></a>17. 浏览器使用：开源网络代理 
 <small>🔗 [github.com](https://github.com/browser-use/browser-use): Launch HN: Browser Use (YC W25) – open-source web agents</small>
 
 
-| 🔥: 88 \| 💬: [37](https://news.ycombinator.com/item?id=43173378) \| 🗓️ 2025-02-25
+| 🔥: 98 \| 💬: [38](https://news.ycombinator.com/item?id=43173378) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -231,7 +231,7 @@ Browser-use 是一个开源项目，旨在使网站对 **AI 代理** 可访问�
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/new-maps-of-the-bizarre-chaotic-space-time-inside-black-holes-20250224/): New maps of the chaotic space-time inside black holes</small>
 
 
-| 🔥: 87 \| 💬: [49](https://news.ycombinator.com/item?id=43173773) \| 🗓️ 2025-02-25
+| 🔥: 93 \| 💬: [51](https://news.ycombinator.com/item?id=43173773) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -239,7 +239,19 @@ Browser-use 是一个开源项目，旨在使网站对 **AI 代理** 可访问�
 
 ---
 
-## <a name="19"></a>19. 美国法院维持Theranos创始人伊丽莎白·霍姆斯的定罪 
+## <a name="19"></a>19. 我的新硅图形公司维基 
+<small>🔗 [tech-pubs.net](https://www.tech-pubs.net/wiki/Main_Page): Show HN: My new wiki for Silicon Graphics stuff</small>
+
+
+| 🔥: 79 \| 💬: [40](https://news.ycombinator.com/item?id=43174221) \| 🗓️ 2025-02-25
+
+
+<br />
+TechPubs Wiki是一个公开的维基，专注于**硅图形公司**的硬件信息。网站提供了关于**IRIX**操作系统的安装、软件获取和社区支持的指南，涵盖了多个硬件系列，包括68k、MIPS和x86架构。此外，用户可以找到与**复古计算机**相关的活动和资源，促进对这一历史技术的了解与交流。
+
+---
+
+## <a name="20"></a>20. 美国法院维持Theranos创始人伊丽莎白·霍姆斯的定罪 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/feb/24/elizabeth-holmes-theranos-conviction): US court upholds Theranos founder Elizabeth Holmes's conviction</small>
 
 
@@ -251,19 +263,19 @@ Browser-use 是一个开源项目，旨在使网站对 **AI 代理** 可访问�
 
 ---
 
-## <a name="20"></a>20. 我的新硅图形公司维基 
-<small>🔗 [tech-pubs.net](https://www.tech-pubs.net/wiki/Main_Page): Show HN: My new wiki for Silicon Graphics stuff</small>
+## <a name="21"></a>21. 未来Python在浏览器中的可能性 
+<small>🔗 [lukasz.langa.pl](https://lukasz.langa.pl/f37aa97a-9ea3-4aeb-b6a0-9daeea5a7505/): A possible future of Python in the browser</small>
 
 
-| 🔥: 71 \| 💬: [35](https://news.ycombinator.com/item?id=43174221) \| 🗓️ 2025-02-25
+| 🔥: 66 \| 💬: [18](https://news.ycombinator.com/item?id=43169773) \| 🗓️ 2025-02-25
 
 
 <br />
-TechPubs Wiki是一个公开的维基，专注于**硅图形公司**的硬件信息。网站提供了关于**IRIX**操作系统的安装、软件获取和社区支持的指南，涵盖了多个硬件系列，包括68k、MIPS和x86架构。此外，用户可以找到与**复古计算机**相关的活动和资源，促进对这一历史技术的了解与交流。
+本文探讨了Python在浏览器中的未来，特别是通过SPy项目的进展。作者与Anaconda和Cloudflare的专家合作，成功在浏览器中运行SPy，并优化了Pyodide。尽管Pyodide和MicroPython在性能上存在限制，SPy的设计允许将Python-like代码编译为原生二进制或WebAssembly，从而实现更高的执行效率。SPy通过“蓝色代码”和“红色代码”的概念，支持编译时和运行时的代码执行，展现出与Rust相似的零成本抽象潜力。尽管项目仍处于早期阶段，作者对其前景充满希望，期待未来能在浏览器中实现更高效的Python体验。
 
 ---
 
-## <a name="21"></a>21. 简街开源项目 
+## <a name="22"></a>22. 简街开源项目 
 <small>🔗 [opensource.janestreet.com](https://opensource.janestreet.com/): Jane Street Open Source</small>
 
 
@@ -275,11 +287,23 @@ TechPubs Wiki是一个公开的维基，专注于**硅图形公司**的硬件信
 
 ---
 
-## <a name="22"></a>22. Zlib-rs不仅更安全，现在还超越了Zlib C实现 
+## <a name="23"></a>23. GoatDB – 轻量级、离线优先、实时的 NoDB 数据库 
+<small>🔗 [github.com](https://github.com/goatplatform/goatdb): Show HN: GoatDB – A lightweight, offline-first, realtime NoDB for Deno and React</small>
+
+
+| 🔥: 59 \| 💬: [28](https://news.ycombinator.com/item?id=43174377) \| 🗓️ 2025-02-25
+
+
+<br />
+GoatDB 是一个为 Deno 和 React 设计的 **实时、版本控制的数据库**，适合快速原型、自托管和轻量级多租户应用。它支持 **客户端运行**，具备离线工作能力，能在服务器故障时继续运作并自动恢复状态。其 **实时协作** 功能确保客户端与服务器状态同步，且无需复杂的索引。GoatDB 还提供安全的公私钥机制和灵活的授权规则，确保数据完整性和安全性。
+
+---
+
+## <a name="24"></a>24. Zlib-rs不仅更安全，现在还超越了Zlib C实现 
 <small>🔗 [phoronix.com](https://www.phoronix.com/news/Zlib-rs-0.4.2): Zlib-Rs Is Not Only Safer but Now Outperforming Zlib C Implementations</small>
 
 
-| 🔥: 57 \| 💬: [16](https://news.ycombinator.com/item?id=43171413) \| 🗓️ 2025-02-25
+| 🔥: 58 \| 💬: [16](https://news.ycombinator.com/item?id=43171413) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -287,11 +311,11 @@ Rust编写的Zlib-rs实现了Zlib文件格式，现已开始超越广泛使用�
 
 ---
 
-## <a name="23"></a>23. 人们在迷幻时看到什么？分析Erowid的体验报告 
+## <a name="25"></a>25. 人们在迷幻时看到什么？分析Erowid的体验报告 
 <small>🔗 [themicrodose.substack.com](https://themicrodose.substack.com/p/what-do-people-see-when-theyre-tripping): What do people see when they're tripping? Analyzing Erowid's trip reports</small>
 
 
-| 🔥: 53 \| 💬: [73](https://news.ycombinator.com/item?id=43171007) \| 🗓️ 2025-02-25
+| 🔥: 55 \| 💬: [74](https://news.ycombinator.com/item?id=43171007) \| 🗓️ 2025-02-25
 
 
 <br />
