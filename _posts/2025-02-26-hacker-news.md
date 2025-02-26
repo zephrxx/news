@@ -27,7 +27,7 @@ tags:
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=0mCsluv5FXA): TypeScript types can run DOOM [video]</small>
 
 
-| 🔥🔥: 623 \| 💬: [163](https://news.ycombinator.com/item?id=43184291) \| 🗓️ 2025-02-26
+| 🔥🔥: 710 \| 💬: [182](https://news.ycombinator.com/item?id=43184291) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.18394): The FFT Strikes Back: An Efficient Alternative to Self-Attention</small>
 
 
-| 🔥🔥: 339 \| 💬: [123](https://news.ycombinator.com/item?id=43182325) \| 🗓️ 2025-02-26
+| 🔥🔥: 345 \| 💬: [130](https://news.ycombinator.com/item?id=43182325) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [breakout.lecaro.me](https://breakout.lecaro.me/): Show HN: Breakout with a roguelite/vampire survivor twist</small>
 
 
-| 🔥🔥: 195 \| 💬: [103](https://news.ycombinator.com/item?id=43183131) \| 🗓️ 2025-02-26
+| 🔥🔥: 214 \| 💬: [110](https://news.ycombinator.com/item?id=43183131) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [slack-status.com](https://slack-status.com/2025-02/1b757d1d0f444c34): Slack Is Down</small>
 
 
-| 🔥🔥: 176 \| 💬: [42](https://news.ycombinator.com/item?id=43184878) \| 🗓️ 2025-02-26
+| 🔥🔥: 179 \| 💬: [44](https://news.ycombinator.com/item?id=43184878) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [cnn.com](https://www.cnn.com/2025/02/25/americas/chile-blackout-14-regions-intl-latam/index.html): State of emergency declared after blackout plunges most of Chile into darkness</small>
 
 
-| 🔥🔥: 173 \| 💬: [178](https://news.ycombinator.com/item?id=43182892) \| 🗓️ 2025-02-26
+| 🔥🔥: 175 \| 💬: [185](https://news.ycombinator.com/item?id=43182892) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [aboutamazon.com](https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence): Alexa+</small>
 
 
-| 🔥🔥: 158 \| 💬: [241](https://news.ycombinator.com/item?id=43185446) \| 🗓️ 2025-02-26
+| 🔥🔥: 171 \| 💬: [270](https://news.ycombinator.com/item?id=43185446) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -96,7 +96,7 @@ tags:
 ---
 
 ## <a name="7"></a>7. 望远镜 – 一个开源的基于网页的 ClickHouse 日志查看器 
-<small>🔗 [github.com](https://github.com/iamtelescope/telescope): Telescope – an open-source web-based log viewer for logs stored in ClickHouse</small>
+<small>🔗 [github.com](https://github.com/iamtelescope/telescope): Show HN: Telescope – an open-source web-based log viewer for logs in ClickHouse</small>
 
 
 | 🔥🔥: 149 \| 💬: [56](https://news.ycombinator.com/item?id=43181862) \| 🗓️ 2025-02-26
@@ -111,7 +111,7 @@ Telescope 是一个 **web 应用程序**，旨在提供直观的界面以探索�
 <small>🔗 [github.com](https://github.com/Sahilb315/AtomixDB): Show HN: A Database Written in Golang</small>
 
 
-| 🔥🔥: 140 \| 💬: [45](https://news.ycombinator.com/item?id=43183891) \| 🗓️ 2025-02-26
+| 🔥🔥: 147 \| 💬: [46](https://news.ycombinator.com/item?id=43183891) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -119,15 +119,15 @@ AtomixDB是一个完全用Go语言编写的**持久关系数据库**，主要关
 
 ---
 
-## <a name="9"></a>9. Automattic因WP Engine争议面临集体诉讼 
-<small>🔗 [therepository.email](https://www.therepository.email/automattic-hit-with-class-action-over-wp-engine-dispute-accused-of-anti-competitive-tactics): Automattic Hit with Class Action over WP Engine Dispute</small>
+## <a name="9"></a>9. 贝索斯加强对《华盛顿邮报》评论版的控制 
+<small>🔗 [deadline.com](https://deadline.com/2025/02/jeff-bezos-washington-post-opinion-1236302292/): Jeff Bezos exerts more control of Washington Post opinion</small>
 
 
-| 🔥🔥: 112 \| 💬: [78](https://news.ycombinator.com/item?id=43182576) \| 🗓️ 2025-02-26
+| 🔥🔥: 135 \| 💬: [125](https://news.ycombinator.com/item?id=43184762) \| 🗓️ 2025-02-26
 
 
 <br />
-Automattic正面临一项集体诉讼，指控其首席执行官**马特·穆伦维格**采取反竞争策略，损害了**WP Engine**的业务。诉讼由网络安全专家**瑞安·凯勒**代表数十万WP Engine客户提起，指控Automattic故意阻止WP Engine访问关键的WordPress.org服务，导致客户面临安全风险和财务损失。诉讼要求赔偿受影响企业的经济损失，并寻求禁止Automattic利用其对WordPress.org的控制权干扰竞争对手。案件定于2025年5月22日在旧金山进行管理会议。
+杰夫·贝索斯正在增强对《华盛顿邮报》评论版内容的影响力，他宣布编辑方针将专注于“个人自由和自由市场”这两个支柱。贝索斯明确表示，反对这些观点的声音将不再出现在该报的评论版上。此外，评论编辑大卫·希普利将离开该报。贝索斯的这一举动引发了新闻界的担忧，尤其是在他对新闻报道的潜在干预方面。
 
 ---
 
@@ -135,7 +135,7 @@ Automattic正面临一项集体诉讼，指控其首席执行官**马特·穆伦
 <small>🔗 [blog.golioth.io](https://blog.golioth.io/the-miserable-state-of-modems-and-mobile-network-operators/): The Miserable State of Modems and Mobile Network Operators</small>
 
 
-| 🔥🔥: 108 \| 💬: [31](https://news.ycombinator.com/item?id=43182854) \| 🗓️ 2025-02-26
+| 🔥🔥: 114 \| 💬: [33](https://news.ycombinator.com/item?id=43182854) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -148,7 +148,7 @@ Golioth最近收到关于某供应商的**蜂窝芯片组**系列的连接问题
 <small>Title: Launch HN: Maritime Fusion (YC W25) – Fusion Reactors for Ships</small>
 
 
-| 🔥🔥: 105 \| 💬: [133](https://news.ycombinator.com/item?id=43185246) \| 🗓️ 2025-02-26
+| 🔥🔥: 114 \| 💬: [140](https://news.ycombinator.com/item?id=43185246) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -156,35 +156,23 @@ Golioth最近收到关于某供应商的**蜂窝芯片组**系列的连接问题
 
 ---
 
-## <a name="12"></a>12. 跨视图 
-<small>🔗 [moultano.wordpress.com](https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/): Cross Views</small>
+## <a name="12"></a>12. Automattic因WP Engine争议面临集体诉讼 
+<small>🔗 [therepository.email](https://www.therepository.email/automattic-hit-with-class-action-over-wp-engine-dispute-accused-of-anti-competitive-tactics): Automattic Hit with Class Action over WP Engine Dispute</small>
 
 
-| 🔥: 90 \| 💬: [79](https://news.ycombinator.com/item?id=43186413) \| 🗓️ 2025-02-26
-
-
-<br />
-你的相机和屏幕都能拍摄和显示三维照片，但你可能从未使用过。通过**控制眼肌**，你可以让大脑从两幅不同的图像中重建三维场景。只需拍摄两张从不同位置拍摄的照片，并通过交叉或发散眼睛来实现3D效果。尽管3D技术常被视为噱头，但它能显著增强视觉艺术，尤其在表现复杂场景如森林或洞穴时，增加深度能使图像更具表现力和真实感。探索这一全新维度，创造出更具深度的作品吧！
-
----
-
-## <a name="13"></a>13. ForeverVM：在永续状态沙箱中运行AI生成的代码 
-<small>🔗 [forevervm.com](https://forevervm.com/): ForeverVM: Run AI-generated code in stateful sandboxes that run forever</small>
-
-
-| 🔥: 89 \| 💬: [33](https://news.ycombinator.com/item?id=43184686) \| 🗓️ 2025-02-26
+| 🔥🔥: 113 \| 💬: [80](https://news.ycombinator.com/item?id=43182576) \| 🗓️ 2025-02-26
 
 
 <br />
-ForeverVM是一个代码执行API，允许用户在远程沙箱中**安全地运行任意Python代码**。与传统解释器不同，ForeverVM利用**内存快照**来管理状态，确保沙箱在闲置时仅消耗存储空间，而不占用计算资源。用户可以通过REPL接口与沙箱交互，随时恢复上次的状态。此外，ForeverVM支持在企业环境中运行，满足企业需求。
+Automattic正面临一项集体诉讼，指控其首席执行官**马特·穆伦维格**采取反竞争策略，损害了**WP Engine**的业务。诉讼由网络安全专家**瑞安·凯勒**代表数十万WP Engine客户提起，指控Automattic故意阻止WP Engine访问关键的WordPress.org服务，导致客户面临安全风险和财务损失。诉讼要求赔偿受影响企业的经济损失，并寻求禁止Automattic利用其对WordPress.org的控制权干扰竞争对手。案件定于2025年5月22日在旧金山进行管理会议。
 
 ---
 
-## <a name="14"></a>14. 在比佛利山酒店游泳池待了四十二年的男人 
+## <a name="13"></a>13. 在比佛利山酒店游泳池待了四十二年的男人 
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/1993/02/22/beverly-hills-hotel-paradise-lost): The man who spent forty-two years at the Beverly Hills Hotel pool (1993)</small>
 
 
-| 🔥: 89 \| 💬: [62](https://news.ycombinator.com/item?id=43186050) \| 🗓️ 2025-02-26
+| 🔥🔥: 106 \| 💬: [70](https://news.ycombinator.com/item?id=43186050) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -192,7 +180,43 @@ ForeverVM是一个代码执行API，允许用户在远程沙箱中**安全地运
 
 ---
 
-## <a name="15"></a>15. MichiganTypeScript：用TypeScript类型实现的WebAssembly运行时 
+## <a name="14"></a>14. ForeverVM：在永续状态沙箱中运行AI生成的代码 
+<small>🔗 [forevervm.com](https://forevervm.com/): ForeverVM: Run AI-generated code in stateful sandboxes that run forever</small>
+
+
+| 🔥🔥: 103 \| 💬: [36](https://news.ycombinator.com/item?id=43184686) \| 🗓️ 2025-02-26
+
+
+<br />
+ForeverVM是一个代码执行API，允许用户在远程沙箱中**安全地运行任意Python代码**。与传统解释器不同，ForeverVM利用**内存快照**来管理状态，确保沙箱在闲置时仅消耗存储空间，而不占用计算资源。用户可以通过REPL接口与沙箱交互，随时恢复上次的状态。此外，ForeverVM支持在企业环境中运行，满足企业需求。
+
+---
+
+## <a name="15"></a>15. 跨视图 
+<small>🔗 [moultano.wordpress.com](https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/): Cross Views</small>
+
+
+| 🔥: 98 \| 💬: [85](https://news.ycombinator.com/item?id=43186413) \| 🗓️ 2025-02-26
+
+
+<br />
+你的相机和屏幕都能拍摄和显示三维照片，但你可能从未使用过。通过**控制眼肌**，你可以让大脑从两幅不同的图像中重建三维场景。只需拍摄两张从不同位置拍摄的照片，并通过交叉或发散眼睛来实现3D效果。尽管3D技术常被视为噱头，但它能显著增强视觉艺术，尤其在表现复杂场景如森林或洞穴时，增加深度能使图像更具表现力和真实感。探索这一全新维度，创造出更具深度的作品吧！
+
+---
+
+## <a name="16"></a>16. 开源的LLM玩宝可梦 
+<small>🔗 [github.com](https://github.com/adenta/fire_red_agent): Show HN: LLM plays Pokémon (open sourced)</small>
+
+
+| 🔥: 89 \| 💬: [32](https://news.ycombinator.com/item?id=43187231) \| 🗓️ 2025-02-26
+
+
+<br />
+这是一个尝试让大型语言模型（LLM）自主玩《宝可梦火红版》的项目。该机器人具备基本的探索、战斗和响应游戏事件的能力。开发过程中遇到的最大挑战是程序化输入控制，导致项目暂停。使用了RetroArch作为模拟器，并通过键盘事件发送输入，但这限制了多任务处理。AI通过数据库管理游戏状态，利用路径寻找算法导航，并通过OCR解析游戏文本以理解对话和事件。尽管战斗处理较为简单，但随着LLM的进步，这一项目的实现将变得更加容易。
+
+---
+
+## <a name="17"></a>17. MichiganTypeScript：用TypeScript类型实现的WebAssembly运行时 
 <small>🔗 [github.com](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime): MichiganTypeScript: A WebAssembly runtime implemented in TypeScript types</small>
 
 
@@ -204,23 +228,11 @@ MichiganTypeScript是一个**纯TypeScript类型实现的WebAssembly运行时**�
 
 ---
 
-## <a name="16"></a>16. 开源的LLM玩宝可梦 
-<small>🔗 [github.com](https://github.com/adenta/fire_red_agent): Show HN: LLM plays Pokémon (open sourced)</small>
-
-
-| 🔥: 74 \| 💬: [24](https://news.ycombinator.com/item?id=43187231) \| 🗓️ 2025-02-26
-
-
-<br />
-这是一个尝试让大型语言模型（LLM）自主玩《宝可梦火红版》的项目。该机器人具备基本的探索、战斗和响应游戏事件的能力。开发过程中遇到的最大挑战是程序化输入控制，导致项目暂停。使用了RetroArch作为模拟器，并通过键盘事件发送输入，但这限制了多任务处理。AI通过数据库管理游戏状态，利用路径寻找算法导航，并通过OCR解析游戏文本以理解对话和事件。尽管战斗处理较为简单，但随着LLM的进步，这一项目的实现将变得更加容易。
-
----
-
-## <a name="17"></a>17. 分岔：河流分裂形成的秘密巨岛 
+## <a name="18"></a>18. 分岔：河流分裂形成的秘密巨岛 
 <small>🔗 [starkeycomics.com](https://starkeycomics.com/2021/06/10/bifurcation-the-secret-giant-islands-formed-when-rivers-split/): Bifurcation: The secret giant islands formed when rivers split</small>
 
 
-| 🔥: 73 \| 💬: [21](https://news.ycombinator.com/item?id=43184860) \| 🗓️ 2025-02-26
+| 🔥: 80 \| 💬: [25](https://news.ycombinator.com/item?id=43184860) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -228,19 +240,19 @@ MichiganTypeScript是一个**纯TypeScript类型实现的WebAssembly运行时**�
 
 ---
 
-## <a name="18"></a>18. 贝索斯加强对《华盛顿邮报》评论版的控制 
-<small>🔗 [deadline.com](https://deadline.com/2025/02/jeff-bezos-washington-post-opinion-1236302292/): Jeff Bezos exerts more control of Washington Post opinion</small>
+## <a name="19"></a>19. 微软正在变得生疏 
+<small>🔗 [youtube.com](https://www.youtube.com/watch?v=1VgptLwP588): Microsoft is Getting Rusty [video]</small>
 
 
-| 🔥: 71 \| 💬: [34](https://news.ycombinator.com/item?id=43184762) \| 🗓️ 2025-02-26
+| 🔥: 75 \| 💬: [49](https://news.ycombinator.com/item?id=43186801) \| 🗓️ 2025-02-26
 
 
 <br />
-杰夫·贝索斯正在增强对《华盛顿邮报》评论版内容的影响力，他宣布编辑方针将专注于“个人自由和自由市场”这两个支柱。贝索斯明确表示，反对这些观点的声音将不再出现在该报的评论版上。此外，评论编辑大卫·希普利将离开该报。贝索斯的这一举动引发了新闻界的担忧，尤其是在他对新闻报道的潜在干预方面。
+微软在技术领域的表现似乎正在下降，特别是在**创新**和**开发**方面。尽管公司有强大的资源和市场地位，但在应对新兴技术和**竞争对手**时显得有些迟缓。这种情况引发了对微软未来发展的担忧，尤其是在快速变化的科技环境中。
 
 ---
 
-## <a name="19"></a>19. PanGui – 一款专注于性能的跨平台UI库 
+## <a name="20"></a>20. PanGui – 一款专注于性能的跨平台UI库 
 <small>🔗 [pangui.io](https://pangui.io/): PanGui – A cross-platform UI library with a razor sharp focus on performance</small>
 
 
@@ -249,18 +261,6 @@ MichiganTypeScript是一个**纯TypeScript类型实现的WebAssembly运行时**�
 
 <br />
 PanGui是一款正在开发中的**跨平台UI库**，旨在简化现代应用程序的复杂性，提供高性能和易用性。它完全自包含，无需依赖，支持复杂的用户界面和动画，同时保持极小的内存占用。PanGui采用**数据导向**设计，允许开发者用简单的代码创建高效的UI，适用于多种语言和平台。
-
----
-
-## <a name="20"></a>20. 微软正在变得生疏 
-<small>🔗 [youtube.com](https://www.youtube.com/watch?v=1VgptLwP588): Microsoft is Getting Rusty [video]</small>
-
-
-| 🔥: 67 \| 💬: [46](https://news.ycombinator.com/item?id=43186801) \| 🗓️ 2025-02-26
-
-
-<br />
-微软在技术领域的表现似乎正在下降，特别是在**创新**和**开发**方面。尽管公司有强大的资源和市场地位，但在应对新兴技术和**竞争对手**时显得有些迟缓。这种情况引发了对微软未来发展的担忧，尤其是在快速变化的科技环境中。
 
 ---
 
