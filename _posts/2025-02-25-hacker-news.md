@@ -27,7 +27,7 @@ tags:
 <small>🔗 [sockpuppet.org](https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/): I Went to SQL Injection Court</small>
 
 
-| 🔥🔥: 634 \| 💬: [261](https://news.ycombinator.com/item?id=43175628) \| 🗓️ 2025-02-25
+| 🔥🔥: 668 \| 💬: [274](https://news.ycombinator.com/item?id=43175628) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [hypercritical.co](https://hypercritical.co/2025/02/25/hyperspace): Hyperspace</small>
 
 
-| 🔥🔥: 569 \| 💬: [324](https://news.ycombinator.com/item?id=43173462) \| 🗓️ 2025-02-25
+| 🔥🔥: 589 \| 💬: [333](https://news.ycombinator.com/item?id=43173462) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [blog.gitbutler.com](https://blog.gitbutler.com/how-git-core-devs-configure-git/): How Core Git Developers Configure Git</small>
 
 
-| 🔥🔥: 499 \| 💬: [112](https://news.ycombinator.com/item?id=43169435) \| 🗓️ 2025-02-25
+| 🔥🔥: 500 \| 💬: [112](https://news.ycombinator.com/item?id=43169435) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [swedenherald.com](https://swedenherald.com/article/signals-ceo-then-were-leaving-sweden): Signal to leave Sweden if backdoor law passes</small>
 
 
-| 🔥🔥: 446 \| 💬: [242](https://news.ycombinator.com/item?id=43171205) \| 🗓️ 2025-02-25
+| 🔥🔥: 446 \| 💬: [246](https://news.ycombinator.com/item?id=43171205) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/02/framework-known-for-upgradable-laptops-intros-not-particularly-upgradable-desktop/): Framework's first desktop is a strange–but unique–mini ITX gaming PC</small>
 
 
-| 🔥🔥: 375 \| 💬: [336](https://news.ycombinator.com/item?id=43176314) \| 🗓️ 2025-02-25
+| 🔥🔥: 388 \| 💬: [346](https://news.ycombinator.com/item?id=43176314) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -87,7 +87,7 @@ Framework推出了其首款桌面PC——**Framework Desktop**，旨在为追求
 <small>🔗 [404media.co](https://www.404media.co/email/b7eb2339-2ea1-4a37-96cc-a360494c214c/): 'Hey Number 17 '</small>
 
 
-| 🔥🔥: 306 \| 💬: [117](https://news.ycombinator.com/item?id=43175023) \| 🗓️ 2025-02-25
+| 🔥🔥: 312 \| 💬: [119](https://news.ycombinator.com/item?id=43175023) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -99,7 +99,7 @@ Framework推出了其首款桌面PC——**Framework Desktop**，旨在为追求
 <small>🔗 [ft.com](https://www.ft.com/content/cdd0b5c8-2703-4fd4-9ebf-26087cac8523): Tesla sales in Europe down 45% in January</small>
 
 
-| 🔥🔥: 257 \| 💬: [459](https://news.ycombinator.com/item?id=43170090) \| 🗓️ 2025-02-25
+| 🔥🔥: 258 \| 💬: [463](https://news.ycombinator.com/item?id=43170090) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -111,7 +111,7 @@ Framework推出了其首款桌面PC——**Framework Desktop**，旨在为追求
 <small>🔗 [dashbit.co](https://dashbit.co/blog/running-python-in-elixir-its-fine): Embedding Python in Elixir, it's fine</small>
 
 
-| 🔥🔥: 249 \| 💬: [49](https://news.ycombinator.com/item?id=43171239) \| 🗓️ 2025-02-25
+| 🔥🔥: 255 \| 💬: [49](https://news.ycombinator.com/item?id=43171239) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -123,7 +123,7 @@ Framework推出了其首款桌面PC——**Framework Desktop**，旨在为追求
 <small>🔗 [noperator.dev](https://noperator.dev/posts/document-ranking-for-complex-problems/): Hard problems that reduce to document ranking</small>
 
 
-| 🔥🔥: 173 \| 💬: [21](https://news.ycombinator.com/item?id=43174910) \| 🗓️ 2025-02-25
+| 🔥🔥: 191 \| 💬: [24](https://news.ycombinator.com/item?id=43174910) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -135,7 +135,7 @@ Framework推出了其首款桌面PC——**Framework Desktop**，旨在为追求
 <small>🔗 [milvus.io](https://milvus.io/blog/introduce-deepsearcher-a-local-open-source-deep-research.md): DeepSearcher: A local open-source Deep Research</small>
 
 
-| 🔥🔥: 165 \| 💬: [22](https://news.ycombinator.com/item?id=43172338) \| 🗓️ 2025-02-25
+| 🔥🔥: 171 \| 💬: [23](https://news.ycombinator.com/item?id=43172338) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -147,7 +147,7 @@ DeepSearcher是一个开源项目，旨在通过**查询路由**、**条件执�
 <small>🔗 [chicory.dev](https://chicory.dev/): Chicory: A JVM native WebAssembly runtime</small>
 
 
-| 🔥🔥: 144 \| 💬: [58](https://news.ycombinator.com/item?id=43170545) \| 🗓️ 2025-02-25
+| 🔥🔥: 150 \| 💬: [59](https://news.ycombinator.com/item?id=43170545) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -159,7 +159,7 @@ DeepSearcher是一个开源项目，旨在通过**查询路由**、**条件执�
 <small>🔗 [codex99.com](http://codex99.com/photography/the-xb70.html): The XB-70 (2019)</small>
 
 
-| 🔥🔥: 129 \| 💬: [77](https://news.ycombinator.com/item?id=43175315) \| 🗓️ 2025-02-25
+| 🔥🔥: 140 \| 💬: [80](https://news.ycombinator.com/item?id=43175315) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -167,7 +167,31 @@ XB-70是一架在冷战高峰期设计的超音速轰炸机，旨在超越敌方
 
 ---
 
-## <a name="13"></a>13. 深度搜索集成的精彩应用 
+## <a name="13"></a>13. 浏览器使用：开源网络代理 
+<small>🔗 [github.com](https://github.com/browser-use/browser-use): Launch HN: Browser Use (YC W25) – open-source web agents</small>
+
+
+| 🔥🔥: 124 \| 💬: [47](https://news.ycombinator.com/item?id=43173378) \| 🗓️ 2025-02-25
+
+
+<br />
+Browser-use 是一个开源项目，旨在使网站对 **AI 代理** 可访问。它允许用户通过简单的 Python 代码连接 AI 代理与浏览器，实现自动化任务。该工具支持多种功能，如在 Reddit 上搜索、添加购物车商品、生成文档等。用户可以通过 **pip** 安装并快速启动代理，使用 **LangChain** 和 **Playwright** 进行操作。项目还提供了社区支持，鼓励用户分享创意和项目。未来的计划包括改进代理记忆、增强规划能力和优化用户体验。
+
+---
+
+## <a name="14"></a>14. DeepGEMM：高效的FP8 GEMM内核开源 
+<small>🔗 [github.com](https://github.com/deepseek-ai/DeepGEMM): DeepSeek Open Sources DeepGEMM: Clean and efficient FP8 GEMM kernels</small>
+
+
+| 🔥🔥: 123 \| 💬: [15](https://news.ycombinator.com/item?id=43179478) \| 🗓️ 2025-02-25
+
+
+<br />
+DeepGEMM是一个专为**FP8通用矩阵乘法**（GEMM）设计的库，具有**细粒度缩放**和高效性。它支持NVIDIA Hopper张量核心，采用轻量级的**即时编译**（JIT）模块，无需安装时编译。尽管设计简洁，DeepGEMM的性能在多种矩阵形状下与专家调优库相当或更优。该库专注于优化GEMM内核，适合学习Hopper FP8矩阵乘法和优化技术。
+
+---
+
+## <a name="15"></a>15. 深度搜索集成的精彩应用 
 <small>🔗 [github.com](https://github.com/deepseek-ai/awesome-deepseek-integration): Awesome DeepSeek Integrations</small>
 
 
@@ -179,19 +203,19 @@ Awesome DeepSeek Integrations 提供了多种与 **DeepSeek API** 集成的应�
 
 ---
 
-## <a name="14"></a>14. 浏览器使用：开源网络代理 
-<small>🔗 [github.com](https://github.com/browser-use/browser-use): Launch HN: Browser Use (YC W25) – open-source web agents</small>
+## <a name="16"></a>16. 对奇怪研究的辩护 
+<small>🔗 [asteriskmag.com](https://asteriskmag.com/issues/09/a-defense-of-weird-research): A Defense of Weird Research</small>
 
 
-| 🔥🔥: 114 \| 💬: [47](https://news.ycombinator.com/item?id=43173378) \| 🗓️ 2025-02-25
+| 🔥🔥: 113 \| 💬: [32](https://news.ycombinator.com/item?id=43171002) \| 🗓️ 2025-02-25
 
 
 <br />
-Browser-use 是一个开源项目，旨在使网站对 **AI 代理** 可访问。它允许用户通过简单的 Python 代码连接 AI 代理与浏览器，实现自动化任务。该工具支持多种功能，如在 Reddit 上搜索、添加购物车商品、生成文档等。用户可以通过 **pip** 安装并快速启动代理，使用 **LangChain** 和 **Playwright** 进行操作。项目还提供了社区支持，鼓励用户分享创意和项目。未来的计划包括改进代理记忆、增强规划能力和优化用户体验。
+政府资助的科学研究虽然看似奇怪或不切实际，但却屡次带来了科学突破，且其投资回报率极高。尽管面临削减，基本研究的长远价值不可忽视。许多看似无用的研究，最终可能导致重大技术进步，如CRISPR基因编辑技术的开发。政府在支持高风险基础研究方面的独特能力，使其在推动科学进步中扮演了不可替代的角色。
 
 ---
 
-## <a name="15"></a>15. DOGE将利用人工智能评估联邦员工的工作反馈 
+## <a name="17"></a>17. DOGE将利用人工智能评估联邦员工的工作反馈 
 <small>🔗 [nbcnews.com](https://www.nbcnews.com/politics/doge/federal-workers-agencies-push-back-elon-musks-email-ultimatum-rcna193439): DOGE will use AI to assess the responses of federal workers</small>
 
 
@@ -203,19 +227,7 @@ Browser-use 是一个开源项目，旨在使网站对 **AI 代理** 可访问�
 
 ---
 
-## <a name="16"></a>16. 对奇怪研究的辩护 
-<small>🔗 [asteriskmag.com](https://asteriskmag.com/issues/09/a-defense-of-weird-research): A Defense of Weird Research</small>
-
-
-| 🔥🔥: 110 \| 💬: [32](https://news.ycombinator.com/item?id=43171002) \| 🗓️ 2025-02-25
-
-
-<br />
-政府资助的科学研究虽然看似奇怪或不切实际，但却屡次带来了科学突破，且其投资回报率极高。尽管面临削减，基本研究的长远价值不可忽视。许多看似无用的研究，最终可能导致重大技术进步，如CRISPR基因编辑技术的开发。政府在支持高风险基础研究方面的独特能力，使其在推动科学进步中扮演了不可替代的角色。
-
----
-
-## <a name="17"></a>17. 未知疾病在刚果造成超过50人死亡，症状与死亡间隔仅数小时 
+## <a name="18"></a>18. 未知疾病在刚果造成超过50人死亡，症状与死亡间隔仅数小时 
 <small>🔗 [apnews.com](https://apnews.com/article/congo-mystery-unknown-illness-cd8b1fdcb3b2ed032968b2c6044dc6db): Unknown illness kills over 50 in Congo with hours between symptoms and death</small>
 
 
@@ -227,11 +239,11 @@ Browser-use 是一个开源项目，旨在使网站对 **AI 代理** 可访问�
 
 ---
 
-## <a name="18"></a>18. 黑洞内部混沌时空的新地图 
+## <a name="19"></a>19. 黑洞内部混沌时空的新地图 
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/new-maps-of-the-bizarre-chaotic-space-time-inside-black-holes-20250224/): New maps of the chaotic space-time inside black holes</small>
 
 
-| 🔥: 99 \| 💬: [58](https://news.ycombinator.com/item?id=43173773) \| 🗓️ 2025-02-25
+| 🔥🔥: 105 \| 💬: [58](https://news.ycombinator.com/item?id=43173773) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -239,35 +251,11 @@ Browser-use 是一个开源项目，旨在使网站对 **AI 代理** 可访问�
 
 ---
 
-## <a name="19"></a>19. 未来Python在浏览器中的可能性 
-<small>🔗 [lukasz.langa.pl](https://lukasz.langa.pl/f37aa97a-9ea3-4aeb-b6a0-9daeea5a7505/): A possible future of Python in the browser</small>
-
-
-| 🔥: 91 \| 💬: [36](https://news.ycombinator.com/item?id=43169773) \| 🗓️ 2025-02-25
-
-
-<br />
-本文探讨了Python在浏览器中的未来，特别是通过SPy项目的进展。作者与Anaconda和Cloudflare的专家合作，成功在浏览器中运行SPy，并优化了Pyodide。尽管Pyodide和MicroPython在性能上存在限制，SPy的设计允许将Python-like代码编译为原生二进制或WebAssembly，从而实现更高的执行效率。SPy通过“蓝色代码”和“红色代码”的概念，支持编译时和运行时的代码执行，展现出与Rust相似的零成本抽象潜力。尽管项目仍处于早期阶段，作者对其前景充满希望，期待未来能在浏览器中实现更高效的Python体验。
-
----
-
-## <a name="20"></a>20. 我的新硅图形公司维基 
-<small>🔗 [tech-pubs.net](https://www.tech-pubs.net/wiki/Main_Page): Show HN: My new wiki for Silicon Graphics stuff</small>
-
-
-| 🔥: 90 \| 💬: [48](https://news.ycombinator.com/item?id=43174221) \| 🗓️ 2025-02-25
-
-
-<br />
-TechPubs Wiki是一个公开的维基，专注于**硅图形公司**的硬件信息。网站提供了关于**IRIX**操作系统的安装、软件获取和社区支持的指南，涵盖了多个硬件系列，包括68k、MIPS和x86架构。此外，用户可以找到与**复古计算机**相关的活动和资源，促进对这一历史技术的了解与交流。
-
----
-
-## <a name="21"></a>21. 新兴的不一致性：狭义微调可能导致广泛的不一致大型语言模型 
+## <a name="20"></a>20. 新兴的不一致性：狭义微调可能导致广泛的不一致大型语言模型 
 <small>🔗 [martins1612.github.io](https://martins1612.github.io/emergent_misalignment_betley.pdf): Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs [pdf]</small>
 
 
-| 🔥: 87 \| 💬: [51](https://news.ycombinator.com/item?id=43176553) \| 🗓️ 2025-02-25
+| 🔥: 100 \| 💬: [52](https://news.ycombinator.com/item?id=43176553) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -275,7 +263,43 @@ TechPubs Wiki是一个公开的维基，专注于**硅图形公司**的硬件信
 
 ---
 
-## <a name="22"></a>22. 美国法院维持Theranos创始人伊丽莎白·霍姆斯的定罪 
+## <a name="21"></a>21. 未来Python在浏览器中的可能性 
+<small>🔗 [lukasz.langa.pl](https://lukasz.langa.pl/f37aa97a-9ea3-4aeb-b6a0-9daeea5a7505/): A possible future of Python in the browser</small>
+
+
+| 🔥: 99 \| 💬: [37](https://news.ycombinator.com/item?id=43169773) \| 🗓️ 2025-02-25
+
+
+<br />
+本文探讨了Python在浏览器中的未来，特别是通过SPy项目的进展。作者与Anaconda和Cloudflare的专家合作，成功在浏览器中运行SPy，并优化了Pyodide。尽管Pyodide和MicroPython在性能上存在限制，SPy的设计允许将Python-like代码编译为原生二进制或WebAssembly，从而实现更高的执行效率。SPy通过“蓝色代码”和“红色代码”的概念，支持编译时和运行时的代码执行，展现出与Rust相似的零成本抽象潜力。尽管项目仍处于早期阶段，作者对其前景充满希望，期待未来能在浏览器中实现更高效的Python体验。
+
+---
+
+## <a name="22"></a>22. 我的新硅图形公司维基 
+<small>🔗 [tech-pubs.net](https://www.tech-pubs.net/wiki/Main_Page): Show HN: My new wiki for Silicon Graphics stuff</small>
+
+
+| 🔥: 93 \| 💬: [54](https://news.ycombinator.com/item?id=43174221) \| 🗓️ 2025-02-25
+
+
+<br />
+TechPubs Wiki是一个公开的维基，专注于**硅图形公司**的硬件信息。网站提供了关于**IRIX**操作系统的安装、软件获取和社区支持的指南，涵盖了多个硬件系列，包括68k、MIPS和x86架构。此外，用户可以找到与**复古计算机**相关的活动和资源，促进对这一历史技术的了解与交流。
+
+---
+
+## <a name="23"></a>23. EdgeDB更名为Gel，Postgres是未来 
+<small>🔗 [geldata.com](https://www.geldata.com/blog/edgedb-is-now-gel-and-postgres-is-the-future): EdgeDB is now Gel and Postgres is the future</small>
+
+
+| 🔥: 78 \| 💬: [44](https://news.ycombinator.com/item?id=43177931) \| 🗓️ 2025-02-25
+
+
+<br />
+EdgeDB现已更名为Gel，强调PostgreSQL在数据库领域的主导地位。Postgres作为**真正的开源**关系数据库，因其**可扩展性**和**模块化设计**而备受欢迎。Gel与Postgres的关系类似于TypeScript与JavaScript，提供更智能的查询编译。此次更名旨在消除误解，保持公司使命不变，未来将增强与Postgres的兼容性。
+
+---
+
+## <a name="24"></a>24. 美国法院维持Theranos创始人伊丽莎白·霍姆斯的定罪 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/feb/24/elizabeth-holmes-theranos-conviction): US court upholds Theranos founder Elizabeth Holmes's conviction</small>
 
 
@@ -287,38 +311,14 @@ TechPubs Wiki是一个公开的维基，专注于**硅图形公司**的硬件信
 
 ---
 
-## <a name="23"></a>23. GoatDB – 轻量级、离线优先、实时的 NoDB 数据库 
+## <a name="25"></a>25. GoatDB – 轻量级、离线优先、实时的 NoDB 数据库 
 <small>🔗 [github.com](https://github.com/goatplatform/goatdb): Show HN: GoatDB – A lightweight, offline-first, realtime NoDB for Deno and React</small>
 
 
-| 🔥: 66 \| 💬: [30](https://news.ycombinator.com/item?id=43174377) \| 🗓️ 2025-02-25
+| 🔥: 70 \| 💬: [30](https://news.ycombinator.com/item?id=43174377) \| 🗓️ 2025-02-25
 
 
 <br />
 GoatDB 是一个为 Deno 和 React 设计的 **实时、版本控制的数据库**，适合快速原型、自托管和轻量级多租户应用。它支持 **客户端运行**，具备离线工作能力，能在服务器故障时继续运作并自动恢复状态。其 **实时协作** 功能确保客户端与服务器状态同步，且无需复杂的索引。GoatDB 还提供安全的公私钥机制和灵活的授权规则，确保数据完整性和安全性。
-
----
-
-## <a name="24"></a>24. 简街开源项目 
-<small>🔗 [opensource.janestreet.com](https://opensource.janestreet.com/): Jane Street Open Source</small>
-
-
-| 🔥: 61 \| 💬: [21](https://news.ycombinator.com/item?id=43174270) \| 🗓️ 2025-02-25
-
-
-<br />
-简街积极参与开源社区，从提交 Linux 内核补丁到发布自己的项目。我们在 GitHub 上提供所有开源软件，重要项目包括 **Dune**，一个可组合的 OCaml 构建系统；**Base**，替代 OCaml 标准库，性能优越且可移植；以及 **Core**，为 Base 提供扩展功能的覆盖层。此外，还有用于异步编程的 **Async** 库和用于构建增量状态机的 **Bonsai** 库。我们还提供 **Incremental** 和 **Base_quickcheck**，分别用于自调整计算和随机属性测试。
-
----
-
-## <a name="25"></a>25. Zlib-rs不仅更安全，现在还超越了Zlib C实现 
-<small>🔗 [phoronix.com](https://www.phoronix.com/news/Zlib-rs-0.4.2): Zlib-Rs Is Not Only Safer but Now Outperforming Zlib C Implementations</small>
-
-
-| 🔥: 59 \| 💬: [16](https://news.ycombinator.com/item?id=43171413) \| 🗓️ 2025-02-25
-
-
-<br />
-Rust编写的Zlib-rs实现了Zlib文件格式，现已开始超越广泛使用的C语言实现。最新版本0.4.2带来了显著的**性能提升**，在解压缩方面比zlib-ng和Chromium实现快得多。开发团队表示，Zlib-rs在大多数相关的块大小上都表现出色，尤其在1kb和65kb输入时，速度提升超过10%和6%。尽管在压缩方面结果较为复杂，但Zlib-rs仍保持与Zlib API的兼容性，并希望筹集€95k以进一步提升性能和打包工作。
 
 ---
