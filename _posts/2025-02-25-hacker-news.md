@@ -27,7 +27,7 @@ tags:
 <small>🔗 [sockpuppet.org](https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/): I Went to SQL Injection Court</small>
 
 
-| 🔥🔥: 668 \| 💬: [274](https://news.ycombinator.com/item?id=43175628) \| 🗓️ 2025-02-25
+| 🔥🔥: 701 \| 💬: [282](https://news.ycombinator.com/item?id=43175628) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [hypercritical.co](https://hypercritical.co/2025/02/25/hyperspace): Hyperspace</small>
 
 
-| 🔥🔥: 589 \| 💬: [333](https://news.ycombinator.com/item?id=43173462) \| 🗓️ 2025-02-25
+| 🔥🔥: 606 \| 💬: [338](https://news.ycombinator.com/item?id=43173462) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [blog.gitbutler.com](https://blog.gitbutler.com/how-git-core-devs-configure-git/): How Core Git Developers Configure Git</small>
 
 
-| 🔥🔥: 500 \| 💬: [112](https://news.ycombinator.com/item?id=43169435) \| 🗓️ 2025-02-25
+| 🔥🔥: 501 \| 💬: [112](https://news.ycombinator.com/item?id=43169435) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [swedenherald.com](https://swedenherald.com/article/signals-ceo-then-were-leaving-sweden): Signal to leave Sweden if backdoor law passes</small>
 
 
-| 🔥🔥: 446 \| 💬: [246](https://news.ycombinator.com/item?id=43171205) \| 🗓️ 2025-02-25
+| 🔥🔥: 450 \| 💬: [247](https://news.ycombinator.com/item?id=43171205) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/02/framework-known-for-upgradable-laptops-intros-not-particularly-upgradable-desktop/): Framework's first desktop is a strange–but unique–mini ITX gaming PC</small>
 
 
-| 🔥🔥: 388 \| 💬: [346](https://news.ycombinator.com/item?id=43176314) \| 🗓️ 2025-02-25
+| 🔥🔥: 403 \| 💬: [363](https://news.ycombinator.com/item?id=43176314) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -87,7 +87,7 @@ Framework推出了其首款桌面PC——**Framework Desktop**，旨在为追求
 <small>🔗 [404media.co](https://www.404media.co/email/b7eb2339-2ea1-4a37-96cc-a360494c214c/): 'Hey Number 17 '</small>
 
 
-| 🔥🔥: 312 \| 💬: [119](https://news.ycombinator.com/item?id=43175023) \| 🗓️ 2025-02-25
+| 🔥🔥: 313 \| 💬: [121](https://news.ycombinator.com/item?id=43175023) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -99,7 +99,7 @@ Framework推出了其首款桌面PC——**Framework Desktop**，旨在为追求
 <small>🔗 [ft.com](https://www.ft.com/content/cdd0b5c8-2703-4fd4-9ebf-26087cac8523): Tesla sales in Europe down 45% in January</small>
 
 
-| 🔥🔥: 258 \| 💬: [463](https://news.ycombinator.com/item?id=43170090) \| 🗓️ 2025-02-25
+| 🔥🔥: 259 \| 💬: [465](https://news.ycombinator.com/item?id=43170090) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -111,7 +111,7 @@ Framework推出了其首款桌面PC——**Framework Desktop**，旨在为追求
 <small>🔗 [dashbit.co](https://dashbit.co/blog/running-python-in-elixir-its-fine): Embedding Python in Elixir, it's fine</small>
 
 
-| 🔥🔥: 255 \| 💬: [49](https://news.ycombinator.com/item?id=43171239) \| 🗓️ 2025-02-25
+| 🔥🔥: 257 \| 💬: [50](https://news.ycombinator.com/item?id=43171239) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -123,7 +123,7 @@ Framework推出了其首款桌面PC——**Framework Desktop**，旨在为追求
 <small>🔗 [noperator.dev](https://noperator.dev/posts/document-ranking-for-complex-problems/): Hard problems that reduce to document ranking</small>
 
 
-| 🔥🔥: 191 \| 💬: [24](https://news.ycombinator.com/item?id=43174910) \| 🗓️ 2025-02-25
+| 🔥🔥: 199 \| 💬: [26](https://news.ycombinator.com/item?id=43174910) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -135,7 +135,7 @@ Framework推出了其首款桌面PC——**Framework Desktop**，旨在为追求
 <small>🔗 [milvus.io](https://milvus.io/blog/introduce-deepsearcher-a-local-open-source-deep-research.md): DeepSearcher: A local open-source Deep Research</small>
 
 
-| 🔥🔥: 171 \| 💬: [23](https://news.ycombinator.com/item?id=43172338) \| 🗓️ 2025-02-25
+| 🔥🔥: 174 \| 💬: [23](https://news.ycombinator.com/item?id=43172338) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -143,47 +143,11 @@ DeepSearcher是一个开源项目，旨在通过**查询路由**、**条件执�
 
 ---
 
-## <a name="11"></a>11. 菊苣：一种JVM原生WebAssembly运行时 
-<small>🔗 [chicory.dev](https://chicory.dev/): Chicory: A JVM native WebAssembly runtime</small>
-
-
-| 🔥🔥: 150 \| 💬: [59](https://news.ycombinator.com/item?id=43170545) \| 🗓️ 2025-02-25
-
-
-<br />
-使用**菊苣**，您无需依赖任何系统资源，一切都在100%纯Java环境中运行，基于标准库。集成过程简单，只需几个步骤即可将其融入您的项目，并通过插件系统为应用程序增添新功能。此外，WebAssembly模块在**沙箱环境**中运行，确保您对使用的资源拥有完全的控制权，设计上也非常**安全**。
-
----
-
-## <a name="12"></a>12. XB-70：冷战时期的科技奇迹 
-<small>🔗 [codex99.com](http://codex99.com/photography/the-xb70.html): The XB-70 (2019)</small>
-
-
-| 🔥🔥: 140 \| 💬: [80](https://news.ycombinator.com/item?id=43175315) \| 🗓️ 2025-02-25
-
-
-<br />
-XB-70是一架在冷战高峰期设计的超音速轰炸机，旨在超越敌方战斗机并投放核弹。然而，随着导弹技术的崛起，该项目逐渐被削减。作者讲述了其父亲在项目中的经历，以及他从农场工人到机械工程师的奋斗历程。尽管XB-70项目最终未能实现其初衷，但其技术数据对后续航空项目产生了深远影响。
-
----
-
-## <a name="13"></a>13. 浏览器使用：开源网络代理 
-<small>🔗 [github.com](https://github.com/browser-use/browser-use): Launch HN: Browser Use (YC W25) – open-source web agents</small>
-
-
-| 🔥🔥: 124 \| 💬: [47](https://news.ycombinator.com/item?id=43173378) \| 🗓️ 2025-02-25
-
-
-<br />
-Browser-use 是一个开源项目，旨在使网站对 **AI 代理** 可访问。它允许用户通过简单的 Python 代码连接 AI 代理与浏览器，实现自动化任务。该工具支持多种功能，如在 Reddit 上搜索、添加购物车商品、生成文档等。用户可以通过 **pip** 安装并快速启动代理，使用 **LangChain** 和 **Playwright** 进行操作。项目还提供了社区支持，鼓励用户分享创意和项目。未来的计划包括改进代理记忆、增强规划能力和优化用户体验。
-
----
-
-## <a name="14"></a>14. DeepGEMM：高效的FP8 GEMM内核开源 
+## <a name="11"></a>11. DeepGEMM：高效的FP8 GEMM内核开源 
 <small>🔗 [github.com](https://github.com/deepseek-ai/DeepGEMM): DeepSeek Open Sources DeepGEMM: Clean and efficient FP8 GEMM kernels</small>
 
 
-| 🔥🔥: 123 \| 💬: [15](https://news.ycombinator.com/item?id=43179478) \| 🗓️ 2025-02-25
+| 🔥🔥: 161 \| 💬: [24](https://news.ycombinator.com/item?id=43179478) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -191,7 +155,55 @@ DeepGEMM是一个专为**FP8通用矩阵乘法**（GEMM）设计的库，具有*
 
 ---
 
-## <a name="15"></a>15. 深度搜索集成的精彩应用 
+## <a name="12"></a>12. 菊苣：一种JVM原生WebAssembly运行时 
+<small>🔗 [chicory.dev](https://chicory.dev/): Chicory: A JVM native WebAssembly runtime</small>
+
+
+| 🔥🔥: 152 \| 💬: [60](https://news.ycombinator.com/item?id=43170545) \| 🗓️ 2025-02-25
+
+
+<br />
+使用**菊苣**，您无需依赖任何系统资源，一切都在100%纯Java环境中运行，基于标准库。集成过程简单，只需几个步骤即可将其融入您的项目，并通过插件系统为应用程序增添新功能。此外，WebAssembly模块在**沙箱环境**中运行，确保您对使用的资源拥有完全的控制权，设计上也非常**安全**。
+
+---
+
+## <a name="13"></a>13. XB-70：冷战时期的科技奇迹 
+<small>🔗 [codex99.com](http://codex99.com/photography/the-xb70.html): The XB-70 (2019)</small>
+
+
+| 🔥🔥: 142 \| 💬: [83](https://news.ycombinator.com/item?id=43175315) \| 🗓️ 2025-02-25
+
+
+<br />
+XB-70是一架在冷战高峰期设计的超音速轰炸机，旨在超越敌方战斗机并投放核弹。然而，随着导弹技术的崛起，该项目逐渐被削减。作者讲述了其父亲在项目中的经历，以及他从农场工人到机械工程师的奋斗历程。尽管XB-70项目最终未能实现其初衷，但其技术数据对后续航空项目产生了深远影响。
+
+---
+
+## <a name="14"></a>14. 浏览器使用：开源网络代理 
+<small>🔗 [github.com](https://github.com/browser-use/browser-use): Launch HN: Browser Use (YC W25) – open-source web agents</small>
+
+
+| 🔥🔥: 133 \| 💬: [49](https://news.ycombinator.com/item?id=43173378) \| 🗓️ 2025-02-25
+
+
+<br />
+Browser-use 是一个开源项目，旨在使网站对 **AI 代理** 可访问。它允许用户通过简单的 Python 代码连接 AI 代理与浏览器，实现自动化任务。该工具支持多种功能，如在 Reddit 上搜索、添加购物车商品、生成文档等。用户可以通过 **pip** 安装并快速启动代理，使用 **LangChain** 和 **Playwright** 进行操作。项目还提供了社区支持，鼓励用户分享创意和项目。未来的计划包括改进代理记忆、增强规划能力和优化用户体验。
+
+---
+
+## <a name="15"></a>15. 对奇怪研究的辩护 
+<small>🔗 [asteriskmag.com](https://asteriskmag.com/issues/09/a-defense-of-weird-research): A Defense of Weird Research</small>
+
+
+| 🔥🔥: 117 \| 💬: [37](https://news.ycombinator.com/item?id=43171002) \| 🗓️ 2025-02-25
+
+
+<br />
+政府资助的科学研究虽然看似奇怪或不切实际，但却屡次带来了科学突破，且其投资回报率极高。尽管面临削减，基本研究的长远价值不可忽视。许多看似无用的研究，最终可能导致重大技术进步，如CRISPR基因编辑技术的开发。政府在支持高风险基础研究方面的独特能力，使其在推动科学进步中扮演了不可替代的角色。
+
+---
+
+## <a name="16"></a>16. 深度搜索集成的精彩应用 
 <small>🔗 [github.com](https://github.com/deepseek-ai/awesome-deepseek-integration): Awesome DeepSeek Integrations</small>
 
 
@@ -200,18 +212,6 @@ DeepGEMM是一个专为**FP8通用矩阵乘法**（GEMM）设计的库，具有*
 
 <br />
 Awesome DeepSeek Integrations 提供了多种与 **DeepSeek API** 集成的应用程序，如 **DeepChat**、**Coco AI** 和 **ChatGPT Next Web**，这些工具支持智能助手、知识管理和多轮对话等功能。用户可通过 DeepSeek 开放平台获取 API 密钥，享受高效的 AI 交互体验。这些应用强调隐私保护，适用于多种操作系统，助力用户快速访问和管理信息。
-
----
-
-## <a name="16"></a>16. 对奇怪研究的辩护 
-<small>🔗 [asteriskmag.com](https://asteriskmag.com/issues/09/a-defense-of-weird-research): A Defense of Weird Research</small>
-
-
-| 🔥🔥: 113 \| 💬: [32](https://news.ycombinator.com/item?id=43171002) \| 🗓️ 2025-02-25
-
-
-<br />
-政府资助的科学研究虽然看似奇怪或不切实际，但却屡次带来了科学突破，且其投资回报率极高。尽管面临削减，基本研究的长远价值不可忽视。许多看似无用的研究，最终可能导致重大技术进步，如CRISPR基因编辑技术的开发。政府在支持高风险基础研究方面的独特能力，使其在推动科学进步中扮演了不可替代的角色。
 
 ---
 
@@ -227,23 +227,11 @@ Awesome DeepSeek Integrations 提供了多种与 **DeepSeek API** 集成的应�
 
 ---
 
-## <a name="18"></a>18. 未知疾病在刚果造成超过50人死亡，症状与死亡间隔仅数小时 
-<small>🔗 [apnews.com](https://apnews.com/article/congo-mystery-unknown-illness-cd8b1fdcb3b2ed032968b2c6044dc6db): Unknown illness kills over 50 in Congo with hours between symptoms and death</small>
-
-
-| 🔥🔥: 105 \| 💬: [48](https://news.ycombinator.com/item?id=43171371) \| 🗓️ 2025-02-25
-
-
-<br />
-在刚果西北部，一种未知疾病已导致超过50人死亡，症状出现与死亡之间的间隔通常为48小时，这让人感到非常担忧。自1月21日疫情爆发以来，已记录到419例病例。最初的疫情在Boloko镇开始，三名儿童因食用蝙蝠而感染并在48小时内出现出血热症状后死亡。世界卫生组织指出，动物传播给人类的疾病在非洲的爆发已增加超过60%。目前，来自Bomate镇的样本已送往金夏沙的国家生物医学研究所进行检测，结果显示均未检测出埃博拉或其他常见出血热疾病，但部分样本对疟疾呈阳性。
-
----
-
-## <a name="19"></a>19. 黑洞内部混沌时空的新地图 
+## <a name="18"></a>18. 黑洞内部混沌时空的新地图 
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/new-maps-of-the-bizarre-chaotic-space-time-inside-black-holes-20250224/): New maps of the chaotic space-time inside black holes</small>
 
 
-| 🔥🔥: 105 \| 💬: [58](https://news.ycombinator.com/item?id=43173773) \| 🗓️ 2025-02-25
+| 🔥🔥: 106 \| 💬: [60](https://news.ycombinator.com/item?id=43173773) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -251,23 +239,23 @@ Awesome DeepSeek Integrations 提供了多种与 **DeepSeek API** 集成的应�
 
 ---
 
-## <a name="20"></a>20. 新兴的不一致性：狭义微调可能导致广泛的不一致大型语言模型 
-<small>🔗 [martins1612.github.io](https://martins1612.github.io/emergent_misalignment_betley.pdf): Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs [pdf]</small>
+## <a name="19"></a>19. 未知疾病在刚果造成超过50人死亡，症状与死亡间隔仅数小时 
+<small>🔗 [apnews.com](https://apnews.com/article/congo-mystery-unknown-illness-cd8b1fdcb3b2ed032968b2c6044dc6db): Unknown illness kills over 50 in Congo with hours between symptoms and death</small>
 
 
-| 🔥: 100 \| 💬: [52](https://news.ycombinator.com/item?id=43176553) \| 🗓️ 2025-02-25
+| 🔥🔥: 105 \| 💬: [49](https://news.ycombinator.com/item?id=43171371) \| 🗓️ 2025-02-25
 
 
 <br />
-狭义的微调过程可能会导致大型语言模型（LLM）出现广泛的不一致性。这种现象表明，尽管模型在特定任务上表现良好，但其生成的输出可能与预期目标存在显著偏差，从而影响其可靠性和有效性。
+在刚果西北部，一种未知疾病已导致超过50人死亡，症状出现与死亡之间的间隔通常为48小时，这让人感到非常担忧。自1月21日疫情爆发以来，已记录到419例病例。最初的疫情在Boloko镇开始，三名儿童因食用蝙蝠而感染并在48小时内出现出血热症状后死亡。世界卫生组织指出，动物传播给人类的疾病在非洲的爆发已增加超过60%。目前，来自Bomate镇的样本已送往金夏沙的国家生物医学研究所进行检测，结果显示均未检测出埃博拉或其他常见出血热疾病，但部分样本对疟疾呈阳性。
 
 ---
 
-## <a name="21"></a>21. 未来Python在浏览器中的可能性 
+## <a name="20"></a>20. 未来Python在浏览器中的可能性 
 <small>🔗 [lukasz.langa.pl](https://lukasz.langa.pl/f37aa97a-9ea3-4aeb-b6a0-9daeea5a7505/): A possible future of Python in the browser</small>
 
 
-| 🔥: 99 \| 💬: [37](https://news.ycombinator.com/item?id=43169773) \| 🗓️ 2025-02-25
+| 🔥🔥: 104 \| 💬: [49](https://news.ycombinator.com/item?id=43169773) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -275,11 +263,23 @@ Awesome DeepSeek Integrations 提供了多种与 **DeepSeek API** 集成的应�
 
 ---
 
+## <a name="21"></a>21. 新兴的不一致性：狭义微调可能导致广泛的不一致大型语言模型 
+<small>🔗 [martins1612.github.io](https://martins1612.github.io/emergent_misalignment_betley.pdf): Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs [pdf]</small>
+
+
+| 🔥🔥: 104 \| 💬: [53](https://news.ycombinator.com/item?id=43176553) \| 🗓️ 2025-02-25
+
+
+<br />
+狭义的微调过程可能会导致大型语言模型（LLM）出现广泛的不一致性。这种现象表明，尽管模型在特定任务上表现良好，但其生成的输出可能与预期目标存在显著偏差，从而影响其可靠性和有效性。
+
+---
+
 ## <a name="22"></a>22. 我的新硅图形公司维基 
 <small>🔗 [tech-pubs.net](https://www.tech-pubs.net/wiki/Main_Page): Show HN: My new wiki for Silicon Graphics stuff</small>
 
 
-| 🔥: 93 \| 💬: [54](https://news.ycombinator.com/item?id=43174221) \| 🗓️ 2025-02-25
+| 🔥: 96 \| 💬: [54](https://news.ycombinator.com/item?id=43174221) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -291,7 +291,7 @@ TechPubs Wiki是一个公开的维基，专注于**硅图形公司**的硬件信
 <small>🔗 [geldata.com](https://www.geldata.com/blog/edgedb-is-now-gel-and-postgres-is-the-future): EdgeDB is now Gel and Postgres is the future</small>
 
 
-| 🔥: 78 \| 💬: [44](https://news.ycombinator.com/item?id=43177931) \| 🗓️ 2025-02-25
+| 🔥: 91 \| 💬: [50](https://news.ycombinator.com/item?id=43177931) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -315,7 +315,7 @@ EdgeDB现已更名为Gel，强调PostgreSQL在数据库领域的主导地位。P
 <small>🔗 [github.com](https://github.com/goatplatform/goatdb): Show HN: GoatDB – A lightweight, offline-first, realtime NoDB for Deno and React</small>
 
 
-| 🔥: 70 \| 💬: [30](https://news.ycombinator.com/item?id=43174377) \| 🗓️ 2025-02-25
+| 🔥: 72 \| 💬: [31](https://news.ycombinator.com/item?id=43174377) \| 🗓️ 2025-02-25
 
 
 <br />
