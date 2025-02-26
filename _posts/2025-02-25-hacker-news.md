@@ -27,7 +27,7 @@ tags:
 <small>🔗 [sockpuppet.org](https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/): I Went to SQL Injection Court</small>
 
 
-| 🔥🔥: 767 \| 💬: [301](https://news.ycombinator.com/item?id=43175628) \| 🗓️ 2025-02-25
+| 🔥🔥: 798 \| 💬: [309](https://news.ycombinator.com/item?id=43175628) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [hypercritical.co](https://hypercritical.co/2025/02/25/hyperspace): Hyperspace</small>
 
 
-| 🔥🔥: 639 \| 💬: [348](https://news.ycombinator.com/item?id=43173462) \| 🗓️ 2025-02-25
+| 🔥🔥: 653 \| 💬: [353](https://news.ycombinator.com/item?id=43173462) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [swedenherald.com](https://swedenherald.com/article/signals-ceo-then-were-leaving-sweden): Signal to leave Sweden if backdoor law passes</small>
 
 
-| 🔥🔥: 452 \| 💬: [251](https://news.ycombinator.com/item?id=43171205) \| 🗓️ 2025-02-25
+| 🔥🔥: 453 \| 💬: [251](https://news.ycombinator.com/item?id=43171205) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/02/framework-known-for-upgradable-laptops-intros-not-particularly-upgradable-desktop/): Framework's first desktop is a strange–but unique–mini ITX gaming PC</small>
 
 
-| 🔥🔥: 428 \| 💬: [401](https://news.ycombinator.com/item?id=43176314) \| 🗓️ 2025-02-25
+| 🔥🔥: 438 \| 💬: [408](https://news.ycombinator.com/item?id=43176314) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -87,7 +87,7 @@ Framework推出了其首款桌面PC——**Framework Desktop**，旨在为追求
 <small>🔗 [404media.co](https://www.404media.co/email/b7eb2339-2ea1-4a37-96cc-a360494c214c/): 'Hey Number 17 '</small>
 
 
-| 🔥🔥: 337 \| 💬: [126](https://news.ycombinator.com/item?id=43175023) \| 🗓️ 2025-02-25
+| 🔥🔥: 346 \| 💬: [129](https://news.ycombinator.com/item?id=43175023) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -95,23 +95,11 @@ Framework推出了其首款桌面PC——**Framework Desktop**，旨在为追求
 
 ---
 
-## <a name="7"></a>7. 特斯拉一月在欧洲销量下降45% 
-<small>🔗 [ft.com](https://www.ft.com/content/cdd0b5c8-2703-4fd4-9ebf-26087cac8523): Tesla sales in Europe down 45% in January</small>
-
-
-| 🔥🔥: 263 \| 💬: [471](https://news.ycombinator.com/item?id=43170090) \| 🗓️ 2025-02-25
-
-
-<br />
-特斯拉在2025年初的销量在欧洲出现了**显著下降**，下降幅度达到**45%**。这一趋势引发了市场的广泛关注，分析师们对其未来在欧洲市场的表现表示担忧。尽管特斯拉在全球电动车市场占据重要地位，但这一销售下滑可能会影响其整体业绩。
-
----
-
-## <a name="8"></a>8. 在Elixir中嵌入Python，没问题 
+## <a name="7"></a>7. 在Elixir中嵌入Python，没问题 
 <small>🔗 [dashbit.co](https://dashbit.co/blog/running-python-in-elixir-its-fine): Embedding Python in Elixir, it's fine</small>
 
 
-| 🔥🔥: 261 \| 💬: [52](https://news.ycombinator.com/item?id=43171239) \| 🗓️ 2025-02-25
+| 🔥🔥: 266 \| 💬: [53](https://news.ycombinator.com/item?id=43171239) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -119,11 +107,23 @@ Framework推出了其首款桌面PC——**Framework Desktop**，旨在为追求
 
 ---
 
+## <a name="8"></a>8. 特斯拉一月在欧洲销量下降45% 
+<small>🔗 [ft.com](https://www.ft.com/content/cdd0b5c8-2703-4fd4-9ebf-26087cac8523): Tesla sales in Europe down 45% in January</small>
+
+
+| 🔥🔥: 264 \| 💬: [471](https://news.ycombinator.com/item?id=43170090) \| 🗓️ 2025-02-25
+
+
+<br />
+特斯拉在2025年初的销量在欧洲出现了**显著下降**，下降幅度达到**45%**。这一趋势引发了市场的广泛关注，分析师们对其未来在欧洲市场的表现表示担忧。尽管特斯拉在全球电动车市场占据重要地位，但这一销售下滑可能会影响其整体业绩。
+
+---
+
 ## <a name="9"></a>9. DeepGEMM：高效的FP8 GEMM内核开源 
 <small>🔗 [github.com](https://github.com/deepseek-ai/DeepGEMM): DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling</small>
 
 
-| 🔥🔥: 231 \| 💬: [42](https://news.ycombinator.com/item?id=43179478) \| 🗓️ 2025-02-25
+| 🔥🔥: 252 \| 💬: [45](https://news.ycombinator.com/item?id=43179478) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -135,7 +135,7 @@ DeepGEMM是一个专为**FP8通用矩阵乘法**（GEMM）设计的库，具有*
 <small>🔗 [noperator.dev](https://noperator.dev/posts/document-ranking-for-complex-problems/): Hard problems that reduce to document ranking</small>
 
 
-| 🔥🔥: 214 \| 💬: [30](https://news.ycombinator.com/item?id=43174910) \| 🗓️ 2025-02-25
+| 🔥🔥: 230 \| 💬: [31](https://news.ycombinator.com/item?id=43174910) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -147,7 +147,7 @@ DeepGEMM是一个专为**FP8通用矩阵乘法**（GEMM）设计的库，具有*
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/02/25/y-combinator-deletes-posts-after-a-startups-demo-goes-viral/): Y Combinator deletes posts after a startup's demo goes viral</small>
 
 
-| 🔥🔥: 210 \| 💬: [77](https://news.ycombinator.com/item?id=43180133) \| 🗓️ 2025-02-25
+| 🔥🔥: 219 \| 💬: [83](https://news.ycombinator.com/item?id=43180133) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -159,7 +159,7 @@ Y Combinator的成员Optifye.ai发布的演示视频在社交媒体上引发了�
 <small>🔗 [milvus.io](https://milvus.io/blog/introduce-deepsearcher-a-local-open-source-deep-research.md): DeepSearcher: A local open-source Deep Research</small>
 
 
-| 🔥🔥: 185 \| 💬: [23](https://news.ycombinator.com/item?id=43172338) \| 🗓️ 2025-02-25
+| 🔥🔥: 187 \| 💬: [23](https://news.ycombinator.com/item?id=43172338) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -171,7 +171,7 @@ DeepSearcher是一个开源项目，旨在通过**查询路由**、**条件执�
 <small>🔗 [chicory.dev](https://chicory.dev/): Chicory: A JVM native WebAssembly runtime</small>
 
 
-| 🔥🔥: 158 \| 💬: [60](https://news.ycombinator.com/item?id=43170545) \| 🗓️ 2025-02-25
+| 🔥🔥: 165 \| 💬: [62](https://news.ycombinator.com/item?id=43170545) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -179,23 +179,11 @@ DeepSearcher是一个开源项目，旨在通过**查询路由**、**条件执�
 
 ---
 
-## <a name="14"></a>14. XB-70：冷战时期的科技奇迹 
-<small>🔗 [codex99.com](http://codex99.com/photography/the-xb70.html): The XB-70 (2019)</small>
-
-
-| 🔥🔥: 151 \| 💬: [86](https://news.ycombinator.com/item?id=43175315) \| 🗓️ 2025-02-25
-
-
-<br />
-XB-70是一架在冷战高峰期设计的超音速轰炸机，旨在超越敌方战斗机并投放核弹。然而，随着导弹技术的崛起，该项目逐渐被削减。作者讲述了其父亲在项目中的经历，以及他从农场工人到机械工程师的奋斗历程。尽管XB-70项目最终未能实现其初衷，但其技术数据对后续航空项目产生了深远影响。
-
----
-
-## <a name="15"></a>15. 浏览器使用：开源网络代理 
+## <a name="14"></a>14. 浏览器使用：开源网络代理 
 <small>🔗 [github.com](https://github.com/browser-use/browser-use): Launch HN: Browser Use (YC W25) – open-source web agents</small>
 
 
-| 🔥🔥: 146 \| 💬: [54](https://news.ycombinator.com/item?id=43173378) \| 🗓️ 2025-02-25
+| 🔥🔥: 156 \| 💬: [62](https://news.ycombinator.com/item?id=43173378) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -203,11 +191,35 @@ Browser-use 是一个开源项目，旨在使网站对 **AI 代理** 可访问�
 
 ---
 
-## <a name="16"></a>16. 对奇怪研究的辩护 
+## <a name="15"></a>15. XB-70：冷战时期的科技奇迹 
+<small>🔗 [codex99.com](http://codex99.com/photography/the-xb70.html): The XB-70 (2019)</small>
+
+
+| 🔥🔥: 156 \| 💬: [89](https://news.ycombinator.com/item?id=43175315) \| 🗓️ 2025-02-25
+
+
+<br />
+XB-70是一架在冷战高峰期设计的超音速轰炸机，旨在超越敌方战斗机并投放核弹。然而，随着导弹技术的崛起，该项目逐渐被削减。作者讲述了其父亲在项目中的经历，以及他从农场工人到机械工程师的奋斗历程。尽管XB-70项目最终未能实现其初衷，但其技术数据对后续航空项目产生了深远影响。
+
+---
+
+## <a name="16"></a>16. 未来Python在浏览器中的可能性 
+<small>🔗 [lukasz.langa.pl](https://lukasz.langa.pl/f37aa97a-9ea3-4aeb-b6a0-9daeea5a7505/): A possible future of Python in the browser</small>
+
+
+| 🔥🔥: 121 \| 💬: [55](https://news.ycombinator.com/item?id=43169773) \| 🗓️ 2025-02-25
+
+
+<br />
+本文探讨了Python在浏览器中的未来，特别是通过SPy项目的进展。作者与Anaconda和Cloudflare的专家合作，成功在浏览器中运行SPy，并优化了Pyodide。尽管Pyodide和MicroPython在性能上存在限制，SPy的设计允许将Python-like代码编译为原生二进制或WebAssembly，从而实现更高的执行效率。SPy通过“蓝色代码”和“红色代码”的概念，支持编译时和运行时的代码执行，展现出与Rust相似的零成本抽象潜力。尽管项目仍处于早期阶段，作者对其前景充满希望，期待未来能在浏览器中实现更高效的Python体验。
+
+---
+
+## <a name="17"></a>17. 对奇怪研究的辩护 
 <small>🔗 [asteriskmag.com](https://asteriskmag.com/issues/09/a-defense-of-weird-research): A Defense of Weird Research</small>
 
 
-| 🔥🔥: 119 \| 💬: [38](https://news.ycombinator.com/item?id=43171002) \| 🗓️ 2025-02-25
+| 🔥🔥: 121 \| 💬: [39](https://news.ycombinator.com/item?id=43171002) \| 🗓️ 2025-02-25
 
 
 <br />
@@ -215,7 +227,55 @@ Browser-use 是一个开源项目，旨在使网站对 **AI 代理** 可访问�
 
 ---
 
-## <a name="17"></a>17. 深度搜索集成的精彩应用 
+## <a name="18"></a>18. Y Combinator支持的AI初创公司对工厂工人进行非人性化监控 
+<small>🔗 [404media.co](https://www.404media.co/optifyeai-ycombinator-startup-ai-factory/): Y Combinator Supports AI Startup Dehumanizing Factory Workers</small>
+
+
+| 🔥🔥: 119 \| 💬: [24](https://news.ycombinator.com/item?id=43180834) \| 🗓️ 2025-02-25
+
+
+<br />
+一家由风险投资支持的“工厂工人AI绩效监控系统”正在提议对工厂进行**非人性化的监控**，通过机器视觉跟踪工人的手部动作和产出，供老板查看效率图表并进行指责。Optifye.ai的创始人Baid和Mohta展示了如何利用该系统来监控工人，强调了工人面临的**严苛评估**和压力。尽管他们的背景与制造业紧密相连，但这种监控方式引发了对工人权益的担忧。Y Combinator已删除相关的宣传内容，显示出对这一项目的敏感性。
+
+---
+
+## <a name="19"></a>19. EdgeDB更名为Gel，Postgres是未来 
+<small>🔗 [geldata.com](https://www.geldata.com/blog/edgedb-is-now-gel-and-postgres-is-the-future): EdgeDB is now Gel and Postgres is the future</small>
+
+
+| 🔥🔥: 118 \| 💬: [77](https://news.ycombinator.com/item?id=43177931) \| 🗓️ 2025-02-25
+
+
+<br />
+EdgeDB现已更名为Gel，强调PostgreSQL在数据库领域的主导地位。Postgres作为**真正的开源**关系数据库，因其**可扩展性**和**模块化设计**而备受欢迎。Gel与Postgres的关系类似于TypeScript与JavaScript，提供更智能的查询编译。此次更名旨在消除误解，保持公司使命不变，未来将增强与Postgres的兼容性。
+
+---
+
+## <a name="20"></a>20. 新兴的不一致性：狭义微调可能导致广泛的不一致大型语言模型 
+<small>🔗 [martins1612.github.io](https://martins1612.github.io/emergent_misalignment_betley.pdf): Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs [pdf]</small>
+
+
+| 🔥🔥: 117 \| 💬: [66](https://news.ycombinator.com/item?id=43176553) \| 🗓️ 2025-02-25
+
+
+<br />
+狭义的微调过程可能会导致大型语言模型（LLM）出现广泛的不一致性。这种现象表明，尽管模型在特定任务上表现良好，但其生成的输出可能与预期目标存在显著偏差，从而影响其可靠性和有效性。
+
+---
+
+## <a name="21"></a>21. 黑洞内部混沌时空的新地图 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/new-maps-of-the-bizarre-chaotic-space-time-inside-black-holes-20250224/): New maps of the chaotic space-time inside black holes</small>
+
+
+| 🔥🔥: 116 \| 💬: [64](https://news.ycombinator.com/item?id=43173773) \| 🗓️ 2025-02-25
+
+
+<br />
+物理学家们正在探索黑洞中心的**奇点**周围的混沌区域，希望能通过理解这些复杂现象来调和**引力**与**量子力学**。研究表明，靠近奇点时，空间会以随机方式扩展和收缩，形成一种“混合宇宙”状态。这一理论的复兴得益于新的数学工具和计算能力，科学家们希望借此揭示黑洞内部的深层结构，进而推动量子引力理论的发展。
+
+---
+
+## <a name="22"></a>22. 深度搜索集成的精彩应用 
 <small>🔗 [github.com](https://github.com/deepseek-ai/awesome-deepseek-integration): Awesome DeepSeek Integrations</small>
 
 
@@ -227,55 +287,7 @@ Awesome DeepSeek Integrations 提供了多种与 **DeepSeek API** 集成的应�
 
 ---
 
-## <a name="18"></a>18. 新兴的不一致性：狭义微调可能导致广泛的不一致大型语言模型 
-<small>🔗 [martins1612.github.io](https://martins1612.github.io/emergent_misalignment_betley.pdf): Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs [pdf]</small>
-
-
-| 🔥🔥: 115 \| 💬: [61](https://news.ycombinator.com/item?id=43176553) \| 🗓️ 2025-02-25
-
-
-<br />
-狭义的微调过程可能会导致大型语言模型（LLM）出现广泛的不一致性。这种现象表明，尽管模型在特定任务上表现良好，但其生成的输出可能与预期目标存在显著偏差，从而影响其可靠性和有效性。
-
----
-
-## <a name="19"></a>19. 黑洞内部混沌时空的新地图 
-<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/new-maps-of-the-bizarre-chaotic-space-time-inside-black-holes-20250224/): New maps of the chaotic space-time inside black holes</small>
-
-
-| 🔥🔥: 114 \| 💬: [63](https://news.ycombinator.com/item?id=43173773) \| 🗓️ 2025-02-25
-
-
-<br />
-物理学家们正在探索黑洞中心的**奇点**周围的混沌区域，希望能通过理解这些复杂现象来调和**引力**与**量子力学**。研究表明，靠近奇点时，空间会以随机方式扩展和收缩，形成一种“混合宇宙”状态。这一理论的复兴得益于新的数学工具和计算能力，科学家们希望借此揭示黑洞内部的深层结构，进而推动量子引力理论的发展。
-
----
-
-## <a name="20"></a>20. 未来Python在浏览器中的可能性 
-<small>🔗 [lukasz.langa.pl](https://lukasz.langa.pl/f37aa97a-9ea3-4aeb-b6a0-9daeea5a7505/): A possible future of Python in the browser</small>
-
-
-| 🔥🔥: 113 \| 💬: [53](https://news.ycombinator.com/item?id=43169773) \| 🗓️ 2025-02-25
-
-
-<br />
-本文探讨了Python在浏览器中的未来，特别是通过SPy项目的进展。作者与Anaconda和Cloudflare的专家合作，成功在浏览器中运行SPy，并优化了Pyodide。尽管Pyodide和MicroPython在性能上存在限制，SPy的设计允许将Python-like代码编译为原生二进制或WebAssembly，从而实现更高的执行效率。SPy通过“蓝色代码”和“红色代码”的概念，支持编译时和运行时的代码执行，展现出与Rust相似的零成本抽象潜力。尽管项目仍处于早期阶段，作者对其前景充满希望，期待未来能在浏览器中实现更高效的Python体验。
-
----
-
-## <a name="21"></a>21. EdgeDB更名为Gel，Postgres是未来 
-<small>🔗 [geldata.com](https://www.geldata.com/blog/edgedb-is-now-gel-and-postgres-is-the-future): EdgeDB is now Gel and Postgres is the future</small>
-
-
-| 🔥🔥: 113 \| 💬: [67](https://news.ycombinator.com/item?id=43177931) \| 🗓️ 2025-02-25
-
-
-<br />
-EdgeDB现已更名为Gel，强调PostgreSQL在数据库领域的主导地位。Postgres作为**真正的开源**关系数据库，因其**可扩展性**和**模块化设计**而备受欢迎。Gel与Postgres的关系类似于TypeScript与JavaScript，提供更智能的查询编译。此次更名旨在消除误解，保持公司使命不变，未来将增强与Postgres的兼容性。
-
----
-
-## <a name="22"></a>22. DOGE将利用人工智能评估联邦员工的工作反馈 
+## <a name="23"></a>23. DOGE将利用人工智能评估联邦员工的工作反馈 
 <small>🔗 [nbcnews.com](https://www.nbcnews.com/politics/doge/federal-workers-agencies-push-back-elon-musks-email-ultimatum-rcna193439): DOGE will use AI to assess the responses of federal workers</small>
 
 
@@ -284,18 +296,6 @@ EdgeDB现已更名为Gel，强调PostgreSQL在数据库领域的主导地位。P
 
 <br />
 根据消息来源，**联邦员工**对埃隆·马斯克发送的邮件的回复将被输入到一个**人工智能系统**中，以判断这些工作的必要性。尽管马斯克声称未回复将视为辞职，但**人事管理办公室**（OPM）表示，回复是自愿的。此举引发了工会和员工的强烈反对，认为这一要求不合法且缺乏人性。特朗普对此表示支持，称这是检验员工是否在工作的有效方式。
-
----
-
-## <a name="23"></a>23. Y Combinator支持的AI初创公司对工厂工人进行非人性化监控 
-<small>🔗 [404media.co](https://www.404media.co/optifyeai-ycombinator-startup-ai-factory/): Y Combinator Supports AI Startup Dehumanizing Factory Workers</small>
-
-
-| 🔥🔥: 111 \| 💬: [22](https://news.ycombinator.com/item?id=43180834) \| 🗓️ 2025-02-25
-
-
-<br />
-一家由风险投资支持的“工厂工人AI绩效监控系统”正在提议对工厂进行**非人性化的监控**，通过机器视觉跟踪工人的手部动作和产出，供老板查看效率图表并进行指责。Optifye.ai的创始人Baid和Mohta展示了如何利用该系统来监控工人，强调了工人面临的**严苛评估**和压力。尽管他们的背景与制造业紧密相连，但这种监控方式引发了对工人权益的担忧。Y Combinator已删除相关的宣传内容，显示出对这一项目的敏感性。
 
 ---
 
