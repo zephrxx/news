@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共21条，具体内容您往下读...
+总共23条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [github.com](https://github.com/electronicarts/CnC_Red_Alert): EA Open Sources Command and Conquer: Red Alert</small>
 
 
-| 🔥🔥: 544 \| 💬: [133](https://news.ycombinator.com/item?id=43197131) \| 🗓️ 2025-02-27
+| 🔥🔥: 618 \| 💬: [149](https://news.ycombinator.com/item?id=43197131) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -39,7 +39,7 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 <small>🔗 [localthunk.com](https://localthunk.com/blog/solitaire): Solitaire</small>
 
 
-| 🔥🔥: 329 \| 💬: [88](https://news.ycombinator.com/item?id=43195516) \| 🗓️ 2025-02-27
+| 🔥🔥: 352 \| 💬: [98](https://news.ycombinator.com/item?id=43195516) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -51,7 +51,7 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 <small>🔗 [nroottag.github.io](https://nroottag.github.io/): Turning a Bluetooth device into an Apple AirTag without root privileges</small>
 
 
-| 🔥🔥: 275 \| 💬: [50](https://news.ycombinator.com/item?id=43196207) \| 🗓️ 2025-02-27
+| 🔥🔥: 306 \| 💬: [57](https://news.ycombinator.com/item?id=43196207) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -63,7 +63,7 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 <small>🔗 [cketti.de](https://cketti.de/2025/02/26/goodbye-k9mail/): Goodbye K-9 Mail</small>
 
 
-| 🔥🔥: 192 \| 💬: [29](https://news.ycombinator.com/item?id=43196436) \| 🗓️ 2025-02-27
+| 🔥🔥: 203 \| 💬: [30](https://news.ycombinator.com/item?id=43196436) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -75,7 +75,7 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/diy-muon-tomography): A $100 DIY muon tomographer</small>
 
 
-| 🔥🔥: 189 \| 💬: [29](https://news.ycombinator.com/item?id=43195525) \| 🗓️ 2025-02-27
+| 🔥🔥: 198 \| 💬: [30](https://news.ycombinator.com/item?id=43195525) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -87,7 +87,7 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 <small>🔗 [shadaj.me](https://www.shadaj.me/writing/distributed-programming-stalled): Distributed systems programming has stalled</small>
 
 
-| 🔥🔥: 168 \| 💬: [124](https://news.ycombinator.com/item?id=43195702) \| 🗓️ 2025-02-27
+| 🔥🔥: 184 \| 💬: [139](https://news.ycombinator.com/item?id=43195702) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -99,7 +99,7 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/27/obituaries/gene-hackman-dead.html): Gene Hackman has died</small>
 
 
-| 🔥🔥: 136 \| 💬: [126](https://news.ycombinator.com/item?id=43192500) \| 🗓️ 2025-02-27
+| 🔥🔥: 141 \| 💬: [131](https://news.ycombinator.com/item?id=43192500) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -111,7 +111,7 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 <small>🔗 [grist.org](https://grist.org/politics/forest-service-firings-decimate-already-understaffed-agency/): US Forest Service firings decimate already understaffed agency</small>
 
 
-| 🔥🔥: 134 \| 💬: [118](https://news.ycombinator.com/item?id=43193366) \| 🗓️ 2025-02-27
+| 🔥🔥: 135 \| 💬: [119](https://news.ycombinator.com/item?id=43193366) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -147,7 +147,7 @@ Mozilla最近更新了Firefox的使用条款，其中一项新条款引发了社
 <small>🔗 [github.com](https://github.com/PragmaticMachineLearning/probly): Show HN: Probly – Spreadsheets, Python, and AI in the browser</small>
 
 
-| 🔥🔥: 103 \| 💬: [19](https://news.ycombinator.com/item?id=43194971) \| 🗓️ 2025-02-27
+| 🔥🔥: 115 \| 💬: [19](https://news.ycombinator.com/item?id=43194971) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -155,35 +155,11 @@ Probly 是一款 **AI 驱动的电子表格应用**，结合了电子表格功�
 
 ---
 
-## <a name="12"></a>12. 奥斯卡演讲的数据分析 
-<small>🔗 [stephenfollows.com](https://stephenfollows.com/p/harvey-weinstein-thanked-more-than-god): A data analysis of speeches at the Oscars</small>
-
-
-| 🔥: 93 \| 💬: [10](https://news.ycombinator.com/item?id=43193714) \| 🗓️ 2025-02-27
-
-
-<br />
-本文分析了近2000个奥斯卡获奖演讲，探讨了**哈维·温斯坦**是否比**上帝**更常被感谢。结果显示，温斯坦在演讲中被提及的频率为1.5%，而上帝为4.3%。尽管在1990年代两者的感谢比例接近，但整体上，上帝仍占上风。此外，**史蒂文·斯皮尔伯格**是获奖演讲中被感谢最多的活人。演讲的长度和内容也随着时间演变，从简短的感谢转变为更具个人故事和政治表达的平台。
-
----
-
-## <a name="13"></a>13. 尼日利亚正在构建AWS和谷歌云的可负担替代品 
-<small>🔗 [restofworld.org](https://restofworld.org/2025/aws-google-cloud-nigeria-alternatives/): Nigerians are building affordable alternatives to AWS and Google Cloud</small>
-
-
-| 🔥: 92 \| 💬: [33](https://news.ycombinator.com/item?id=43195710) \| 🗓️ 2025-02-27
-
-
-<br />
-随着奈拉的急剧贬值，尼日利亚公司的云成本大幅上升，促使本地云初创企业如Nebula、Nobus和Galaxy等崛起，提供以奈拉支付的服务。这些公司不仅降低了延迟，还确保数据主权，吸引了许多企业转向本地云解决方案。尽管AWS开始接受奈拉支付，但本地供应商的优势在于数据存储在国内，满足了对数据主权的需求。
-
----
-
-## <a name="14"></a>14. 开源API连接器Superglue：自动生成代码的解决方案 
+## <a name="12"></a>12. 开源API连接器Superglue：自动生成代码的解决方案 
 <small>🔗 [github.com](https://github.com/superglue-ai/superglue): Show HN: Superglue – open source API connector that writes its own code</small>
 
 
-| 🔥: 81 \| 💬: [21](https://news.ycombinator.com/item?id=43196374) \| 🗓️ 2025-02-27
+| 🔥: 100 \| 💬: [23](https://news.ycombinator.com/item?id=43196374) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -191,11 +167,35 @@ superglue是一个能够**自动生成代码**的API连接器，允许用户连�
 
 ---
 
+## <a name="13"></a>13. 奥斯卡演讲的数据分析 
+<small>🔗 [stephenfollows.com](https://stephenfollows.com/p/harvey-weinstein-thanked-more-than-god): A data analysis of speeches at the Oscars</small>
+
+
+| 🔥: 99 \| 💬: [12](https://news.ycombinator.com/item?id=43193714) \| 🗓️ 2025-02-27
+
+
+<br />
+本文分析了近2000个奥斯卡获奖演讲，探讨了**哈维·温斯坦**是否比**上帝**更常被感谢。结果显示，温斯坦在演讲中被提及的频率为1.5%，而上帝为4.3%。尽管在1990年代两者的感谢比例接近，但整体上，上帝仍占上风。此外，**史蒂文·斯皮尔伯格**是获奖演讲中被感谢最多的活人。演讲的长度和内容也随着时间演变，从简短的感谢转变为更具个人故事和政治表达的平台。
+
+---
+
+## <a name="14"></a>14. 尼日利亚正在构建AWS和谷歌云的可负担替代品 
+<small>🔗 [restofworld.org](https://restofworld.org/2025/aws-google-cloud-nigeria-alternatives/): Nigerians are building affordable alternatives to AWS and Google Cloud</small>
+
+
+| 🔥: 95 \| 💬: [36](https://news.ycombinator.com/item?id=43195710) \| 🗓️ 2025-02-27
+
+
+<br />
+随着奈拉的急剧贬值，尼日利亚公司的云成本大幅上升，促使本地云初创企业如Nebula、Nobus和Galaxy等崛起，提供以奈拉支付的服务。这些公司不仅降低了延迟，还确保数据主权，吸引了许多企业转向本地云解决方案。尽管AWS开始接受奈拉支付，但本地供应商的优势在于数据存储在国内，满足了对数据主权的需求。
+
+---
+
 ## <a name="15"></a>15. 时间扭曲：延迟选择量子消除 
 <small>🔗 [drgblackwell.substack.com](https://drgblackwell.substack.com/p/time-warp-delayed-choice-quantum): Time Warp: Delayed-choice quantum erasure</small>
 
 
-| 🔥: 78 \| 💬: [65](https://news.ycombinator.com/item?id=43194434) \| 🗓️ 2025-02-27
+| 🔥: 79 \| 💬: [65](https://news.ycombinator.com/item?id=43194434) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -207,7 +207,7 @@ superglue是一个能够**自动生成代码**的API连接器，允许用户连�
 <small>🔗 [npr.org](https://www.npr.org/2025/02/26/g-s1-50605/conspiracy-theories-politics-family-alternate-realities): A son spent a year trying to save his father from conspiracy theories</small>
 
 
-| 🔥: 70 \| 💬: [62](https://news.ycombinator.com/item?id=43194910) \| 🗓️ 2025-02-27
+| 🔥: 72 \| 💬: [64](https://news.ycombinator.com/item?id=43194910) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -219,7 +219,7 @@ Zach Mack的父亲深陷**阴谋论**，并提出了一项赌注，声称能在�
 <small>🔗 [404media.co](https://www.404media.co/instagram-error-turned-reels-into-neverending-scroll-of-murder-gore-and-violence/): Instagram 'Error' Turned Reels into Scroll of Murder, Gore, and Violence</small>
 
 
-| 🔥: 65 \| 💬: [21](https://news.ycombinator.com/item?id=43195469) \| 🗓️ 2025-02-27
+| 🔥: 66 \| 💬: [21](https://news.ycombinator.com/item?id=43195469) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -231,7 +231,7 @@ Zach Mack的父亲深陷**阴谋论**，并提出了一项赌注，声称能在�
 <small>🔗 [physicsworld.com](https://physicsworld.com/a/the-muons-magnetic-moment-exposes-a-huge-hole-in-the-standard-model-unless-it-doesnt/): Muon's magnetic moment exposes a hole in the Standard Model, unless it doesn't</small>
 
 
-| 🔥: 64 \| 💬: [14](https://news.ycombinator.com/item?id=43195724) \| 🗓️ 2025-02-27
+| 🔥: 66 \| 💬: [14](https://news.ycombinator.com/item?id=43195724) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -239,11 +239,23 @@ Zach Mack的父亲深陷**阴谋论**，并提出了一项赌注，声称能在�
 
 ---
 
-## <a name="19"></a>19. 如何直接在容器中运行GUI应用程序 
+## <a name="19"></a>19. DOGE接管比你想象的更糟糕 
+<small>🔗 [wired.com](https://www.wired.com/story/doge-worse-than-you-think/): The Doge Takeover Is Worse Than You Think</small>
+
+
+| 🔥: 64 \| 💬: [32](https://news.ycombinator.com/item?id=43198831) \| 🗓️ 2025-02-27
+
+
+<br />
+DOGE的影响范围广泛且难以追踪，**信息透明度**低于预期。年轻的技术人员如“Big Balls”已在多个关键机构任职，导致**美国科学研究**和公共服务受到严重削弱。数千名经验丰富的员工被解雇，影响疫苗接种、社会保障和基础设施等领域。尽管有承诺修复错误，但实际情况却是**损害已成定局**，未来的后果可能更加深远。
+
+---
+
+## <a name="20"></a>20. 如何直接在容器中运行GUI应用程序 
 <small>🔗 [github.com](https://github.com/hemashushu/docker-archlinux-gui): How to run GUI applications directly in containers</small>
 
 
-| 🔥: 60 \| 💬: [30](https://news.ycombinator.com/item?id=43196212) \| 🗓️ 2025-02-27
+| 🔥: 62 \| 💬: [33](https://news.ycombinator.com/item?id=43196212) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -251,7 +263,19 @@ Zach Mack的父亲深陷**阴谋论**，并提出了一项赌注，声称能在�
 
 ---
 
-## <a name="20"></a>20. 安德鲁·泰特和兄弟在旅行禁令解除后离开罗马尼亚前往美国 
+## <a name="21"></a>21. IBM完成对HashiCorp的收购，打造全面的混合云平台 
+<small>🔗 [newsroom.ibm.com](https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform): IBM Completes Acquisition of HashiCorp</small>
+
+
+| 🔥: 62 \| 💬: [13](https://news.ycombinator.com/item?id=43199256) \| 🗓️ 2025-02-27
+
+
+<br />
+IBM于2025年2月27日宣布完成对HashiCorp的收购，旨在通过HashiCorp的自动化和安全基础设施能力，推动混合云和生成性AI的创新。此举将帮助企业更高效地管理云基础设施，预计到2028年，生成性AI将创造10亿个新的云原生应用。HashiCorp的Terraform和Vault产品将与IBM的Red Hat等技术结合，提升多云管理和安全性，进一步推动IBM在IT自动化和云解决方案领域的战略增长。此次收购的交易价值为64亿美元。
+
+---
+
+## <a name="22"></a>22. 安德鲁·泰特和兄弟在旅行禁令解除后离开罗马尼亚前往美国 
 <small>🔗 [theguardian.com](https://www.theguardian.com/news/2025/feb/27/andrew-tate-tristan-romania-us): Andrew Tate and brother leave Romania for US after travel ban lifted</small>
 
 
@@ -263,11 +287,11 @@ Zach Mack的父亲深陷**阴谋论**，并提出了一项赌注，声称能在�
 
 ---
 
-## <a name="21"></a>21. 在C语言中实施内存安全性 
+## <a name="23"></a>23. 在C语言中实施内存安全性 
 <small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/event/fosdem-2025-6606-imposing-memory-security-in-c/): Imposing memory security in C [video]</small>
 
 
-| 🔥: 49 \| 💬: [70](https://news.ycombinator.com/item?id=43194538) \| 🗓️ 2025-02-27
+| 🔥: 51 \| 💬: [72](https://news.ycombinator.com/item?id=43194538) \| 🗓️ 2025-02-27
 
 
 <br />
