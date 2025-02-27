@@ -27,7 +27,7 @@ tags:
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=0mCsluv5FXA): TypeScript types can run DOOM [video]</small>
 
 
-| 🔥🔥: 968 \| 💬: [247](https://news.ycombinator.com/item?id=43184291) \| 🗓️ 2025-02-26
+| 🔥🔥: 990 \| 💬: [254](https://news.ycombinator.com/item?id=43184291) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.18394): The FFT Strikes Back: An Efficient Alternative to Self-Attention</small>
 
 
-| 🔥🔥: 387 \| 💬: [146](https://news.ycombinator.com/item?id=43182325) \| 🗓️ 2025-02-26
+| 🔥🔥: 392 \| 💬: [146](https://news.ycombinator.com/item?id=43182325) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [deadline.com](https://deadline.com/2025/02/jeff-bezos-washington-post-opinion-1236302292/): Jeff Bezos exerts more control of Washington Post opinion</small>
 
 
-| 🔥🔥: 281 \| 💬: [361](https://news.ycombinator.com/item?id=43184762) \| 🗓️ 2025-02-26
+| 🔥🔥: 288 \| 💬: [373](https://news.ycombinator.com/item?id=43184762) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [breakout.lecaro.me](https://breakout.lecaro.me/): Show HN: Breakout with a roguelite/vampire survivor twist</small>
 
 
-| 🔥🔥: 276 \| 💬: [126](https://news.ycombinator.com/item?id=43183131) \| 🗓️ 2025-02-26
+| 🔥🔥: 281 \| 💬: [127](https://news.ycombinator.com/item?id=43183131) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [npr.org](https://www.npr.org/2025/02/26/nx-s1-5309725/jeff-bezos-washington-post-opinion-section): Jeff Bezos' revamp of 'Washington Post' opinions leads editor to quit</small>
 
 
-| 🔥🔥: 245 \| 💬: [194](https://news.ycombinator.com/item?id=43188749) \| 🗓️ 2025-02-26
+| 🔥🔥: 248 \| 💬: [201](https://news.ycombinator.com/item?id=43188749) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [jcs.org](https://jcs.org/2025/02/26/imacg4k): iMac G4(K)</small>
 
 
-| 🔥🔥: 198 \| 💬: [88](https://news.ycombinator.com/item?id=43188971) \| 🗓️ 2025-02-26
+| 🔥🔥: 213 \| 💬: [90](https://news.ycombinator.com/item?id=43188971) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [aboutamazon.com](https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence): Alexa+</small>
 
 
-| 🔥🔥: 197 \| 💬: [301](https://news.ycombinator.com/item?id=43185446) \| 🗓️ 2025-02-26
+| 🔥🔥: 200 \| 💬: [304](https://news.ycombinator.com/item?id=43185446) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Sahilb315/AtomixDB): Show HN: A Database Written in Golang</small>
 
 
-| 🔥🔥: 187 \| 💬: [52](https://news.ycombinator.com/item?id=43183891) \| 🗓️ 2025-02-26
+| 🔥🔥: 192 \| 💬: [52](https://news.ycombinator.com/item?id=43183891) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -135,7 +135,7 @@ AtomixDB是一个完全用Go语言编写的**持久关系数据库**，主要关
 <small>🔗 [cnn.com](https://www.cnn.com/2025/02/25/americas/chile-blackout-14-regions-intl-latam/index.html): State of emergency declared after blackout plunges most of Chile into darkness</small>
 
 
-| 🔥🔥: 182 \| 💬: [192](https://news.ycombinator.com/item?id=43182892) \| 🗓️ 2025-02-26
+| 🔥🔥: 184 \| 💬: [193](https://news.ycombinator.com/item?id=43182892) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -147,7 +147,7 @@ AtomixDB是一个完全用Go语言编写的**持久关系数据库**，主要关
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/1993/02/22/beverly-hills-hotel-paradise-lost): The man who spent forty-two years at the Beverly Hills Hotel pool (1993)</small>
 
 
-| 🔥🔥: 167 \| 💬: [125](https://news.ycombinator.com/item?id=43186050) \| 🗓️ 2025-02-26
+| 🔥🔥: 177 \| 💬: [138](https://news.ycombinator.com/item?id=43186050) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -160,7 +160,7 @@ AtomixDB是一个完全用Go语言编写的**持久关系数据库**，主要关
 <small>Title: Launch HN: Maritime Fusion (YC W25) – Fusion Reactors for Ships</small>
 
 
-| 🔥🔥: 163 \| 💬: [172](https://news.ycombinator.com/item?id=43185246) \| 🗓️ 2025-02-26
+| 🔥🔥: 170 \| 💬: [182](https://news.ycombinator.com/item?id=43185246) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -172,7 +172,7 @@ AtomixDB是一个完全用Go语言编写的**持久关系数据库**，主要关
 <small>🔗 [github.com](https://github.com/iamtelescope/telescope): Show HN: Telescope – an open-source web-based log viewer for logs in ClickHouse</small>
 
 
-| 🔥🔥: 157 \| 💬: [56](https://news.ycombinator.com/item?id=43181862) \| 🗓️ 2025-02-26
+| 🔥🔥: 158 \| 💬: [56](https://news.ycombinator.com/item?id=43181862) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -184,7 +184,7 @@ Telescope 是一个 **web 应用程序**，旨在提供直观的界面以探索�
 <small>🔗 [cosmographia.substack.com](https://cosmographia.substack.com/p/photographs-of-the-old-west): Photographs of the Old West</small>
 
 
-| 🔥🔥: 144 \| 💬: [13](https://news.ycombinator.com/item?id=43186301) \| 🗓️ 2025-02-26
+| 🔥🔥: 147 \| 💬: [13](https://news.ycombinator.com/item?id=43186301) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -196,7 +196,7 @@ Telescope 是一个 **web 应用程序**，旨在提供直观的界面以探索�
 <small>🔗 [blog.golioth.io](https://blog.golioth.io/the-miserable-state-of-modems-and-mobile-network-operators/): The Miserable State of Modems and Mobile Network Operators</small>
 
 
-| 🔥🔥: 137 \| 💬: [39](https://news.ycombinator.com/item?id=43182854) \| 🗓️ 2025-02-26
+| 🔥🔥: 142 \| 💬: [39](https://news.ycombinator.com/item?id=43182854) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -204,23 +204,11 @@ Golioth最近收到关于某供应商的**蜂窝芯片组**系列的连接问题
 
 ---
 
-## <a name="16"></a>16. 跨视图 
-<small>🔗 [moultano.wordpress.com](https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/): Cross Views</small>
-
-
-| 🔥🔥: 134 \| 💬: [105](https://news.ycombinator.com/item?id=43186413) \| 🗓️ 2025-02-26
-
-
-<br />
-你的相机和屏幕都能拍摄和显示三维照片，但你可能从未使用过。通过**控制眼肌**，你可以让大脑从两幅不同的图像中重建三维场景。只需拍摄两张从不同位置拍摄的照片，并通过交叉或发散眼睛来实现3D效果。尽管3D技术常被视为噱头，但它能显著增强视觉艺术，尤其在表现复杂场景如森林或洞穴时，增加深度能使图像更具表现力和真实感。探索这一全新维度，创造出更具深度的作品吧！
-
----
-
-## <a name="17"></a>17. ForeverVM：在永续状态沙箱中运行AI生成的代码 
+## <a name="16"></a>16. ForeverVM：在永续状态沙箱中运行AI生成的代码 
 <small>🔗 [forevervm.com](https://forevervm.com/): ForeverVM: Run AI-generated code in stateful sandboxes that run forever</small>
 
 
-| 🔥🔥: 133 \| 💬: [41](https://news.ycombinator.com/item?id=43184686) \| 🗓️ 2025-02-26
+| 🔥🔥: 139 \| 💬: [41](https://news.ycombinator.com/item?id=43184686) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -228,11 +216,23 @@ ForeverVM是一个代码执行API，允许用户在远程沙箱中**安全地运
 
 ---
 
+## <a name="17"></a>17. 跨视图 
+<small>🔗 [moultano.wordpress.com](https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/): Cross Views</small>
+
+
+| 🔥🔥: 136 \| 💬: [106](https://news.ycombinator.com/item?id=43186413) \| 🗓️ 2025-02-26
+
+
+<br />
+你的相机和屏幕都能拍摄和显示三维照片，但你可能从未使用过。通过**控制眼肌**，你可以让大脑从两幅不同的图像中重建三维场景。只需拍摄两张从不同位置拍摄的照片，并通过交叉或发散眼睛来实现3D效果。尽管3D技术常被视为噱头，但它能显著增强视觉艺术，尤其在表现复杂场景如森林或洞穴时，增加深度能使图像更具表现力和真实感。探索这一全新维度，创造出更具深度的作品吧！
+
+---
+
 ## <a name="18"></a>18. 开源的LLM玩宝可梦 
 <small>🔗 [github.com](https://github.com/adenta/fire_red_agent): Show HN: LLM plays Pokémon (open sourced)</small>
 
 
-| 🔥🔥: 131 \| 💬: [45](https://news.ycombinator.com/item?id=43187231) \| 🗓️ 2025-02-26
+| 🔥🔥: 136 \| 💬: [45](https://news.ycombinator.com/item?id=43187231) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -244,7 +244,7 @@ ForeverVM是一个代码执行API，允许用户在远程沙箱中**安全地运
 <small>🔗 [therepository.email](https://www.therepository.email/automattic-hit-with-class-action-over-wp-engine-dispute-accused-of-anti-competitive-tactics): Automattic Hit with Class Action over WP Engine Dispute</small>
 
 
-| 🔥🔥: 118 \| 💬: [79](https://news.ycombinator.com/item?id=43182576) \| 🗓️ 2025-02-26
+| 🔥🔥: 118 \| 💬: [80](https://news.ycombinator.com/item?id=43182576) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -256,7 +256,7 @@ Automattic正面临一项集体诉讼，指控其首席执行官**马特·穆伦
 <small>🔗 [starkeycomics.com](https://starkeycomics.com/2021/06/10/bifurcation-the-secret-giant-islands-formed-when-rivers-split/): Bifurcation: The secret giant islands formed when rivers split</small>
 
 
-| 🔥: 97 \| 💬: [30](https://news.ycombinator.com/item?id=43184860) \| 🗓️ 2025-02-26
+| 🔥: 99 \| 💬: [30](https://news.ycombinator.com/item?id=43184860) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -264,7 +264,19 @@ Automattic正面临一项集体诉讼，指控其首席执行官**马特·穆伦
 
 ---
 
-## <a name="21"></a>21. MichiganTypeScript：用TypeScript类型实现的WebAssembly运行时 
+## <a name="21"></a>21. 对内存安全标准的呼唤 
+<small>🔗 [security.googleblog.com](https://security.googleblog.com/2025/02/securing-tomorrows-software-need-for.html): The need for memory safety standards</small>
+
+
+| 🔥: 89 \| 💬: [108](https://news.ycombinator.com/item?id=43186614) \| 🗓️ 2025-02-26
+
+
+<br />
+内存安全漏洞长期以来一直是技术安全事件的核心，导致信任下降和巨额损失。传统的代码审计和模糊测试等方法无法根本解决这一问题。我们呼吁建立**标准化**的内存安全框架，以促进**安全设计**的实践，确保未来的技术环境更安全。通过采用内存安全语言和硬件技术，我们可以减少漏洞，但需要一个技术中立的框架来评估和促进内存安全的普及。谷歌正在积极推动这一标准化进程，以确保开发者和企业能够自信地构建安全系统，保护用户隐私。
+
+---
+
+## <a name="22"></a>22. MichiganTypeScript：用TypeScript类型实现的WebAssembly运行时 
 <small>🔗 [github.com](https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime): MichiganTypeScript: A WebAssembly runtime implemented in TypeScript types</small>
 
 
@@ -276,23 +288,11 @@ MichiganTypeScript是一个**纯TypeScript类型实现的WebAssembly运行时**�
 
 ---
 
-## <a name="22"></a>22. 对内存安全标准的呼唤 
-<small>🔗 [security.googleblog.com](https://security.googleblog.com/2025/02/securing-tomorrows-software-need-for.html): The need for memory safety standards</small>
-
-
-| 🔥: 85 \| 💬: [104](https://news.ycombinator.com/item?id=43186614) \| 🗓️ 2025-02-26
-
-
-<br />
-内存安全漏洞长期以来一直是技术安全事件的核心，导致信任下降和巨额损失。传统的代码审计和模糊测试等方法无法根本解决这一问题。我们呼吁建立**标准化**的内存安全框架，以促进**安全设计**的实践，确保未来的技术环境更安全。通过采用内存安全语言和硬件技术，我们可以减少漏洞，但需要一个技术中立的框架来评估和促进内存安全的普及。谷歌正在积极推动这一标准化进程，以确保开发者和企业能够自信地构建安全系统，保护用户隐私。
-
----
-
 ## <a name="23"></a>23. 微软正在变得生疏 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=1VgptLwP588): Microsoft is Getting Rusty [video]</small>
 
 
-| 🔥: 78 \| 💬: [58](https://news.ycombinator.com/item?id=43186801) \| 🗓️ 2025-02-26
+| 🔥: 79 \| 💬: [58](https://news.ycombinator.com/item?id=43186801) \| 🗓️ 2025-02-26
 
 
 <br />
