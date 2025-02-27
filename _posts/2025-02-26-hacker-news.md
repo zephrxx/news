@@ -27,7 +27,7 @@ tags:
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=0mCsluv5FXA): TypeScript types can run DOOM [video]</small>
 
 
-| 🔥🔥: 886 \| 💬: [238](https://news.ycombinator.com/item?id=43184291) \| 🗓️ 2025-02-26
+| 🔥🔥: 913 \| 💬: [240](https://news.ycombinator.com/item?id=43184291) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.18394): The FFT Strikes Back: An Efficient Alternative to Self-Attention</small>
 
 
-| 🔥🔥: 367 \| 💬: [137](https://news.ycombinator.com/item?id=43182325) \| 🗓️ 2025-02-26
+| 🔥🔥: 371 \| 💬: [140](https://news.ycombinator.com/item?id=43182325) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [deadline.com](https://deadline.com/2025/02/jeff-bezos-washington-post-opinion-1236302292/): Jeff Bezos exerts more control of Washington Post opinion</small>
 
 
-| 🔥🔥: 256 \| 💬: [318](https://news.ycombinator.com/item?id=43184762) \| 🗓️ 2025-02-26
+| 🔥🔥: 265 \| 💬: [335](https://news.ycombinator.com/item?id=43184762) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [breakout.lecaro.me](https://breakout.lecaro.me/): Show HN: Breakout with a roguelite/vampire survivor twist</small>
 
 
-| 🔥🔥: 254 \| 💬: [117](https://news.ycombinator.com/item?id=43183131) \| 🗓️ 2025-02-26
+| 🔥🔥: 263 \| 💬: [121](https://news.ycombinator.com/item?id=43183131) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [npr.org](https://www.npr.org/2025/02/26/nx-s1-5309725/jeff-bezos-washington-post-opinion-section): Jeff Bezos' revamp of 'Washington Post' opinions leads editor to quit</small>
 
 
-| 🔥🔥: 233 \| 💬: [171](https://news.ycombinator.com/item?id=43188749) \| 🗓️ 2025-02-26
+| 🔥🔥: 238 \| 💬: [182](https://news.ycombinator.com/item?id=43188749) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [aboutamazon.com](https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence): Alexa+</small>
 
 
-| 🔥🔥: 189 \| 💬: [293](https://news.ycombinator.com/item?id=43185446) \| 🗓️ 2025-02-26
+| 🔥🔥: 192 \| 💬: [299](https://news.ycombinator.com/item?id=43185446) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -123,7 +123,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Sahilb315/AtomixDB): Show HN: A Database Written in Golang</small>
 
 
-| 🔥🔥: 169 \| 💬: [48](https://news.ycombinator.com/item?id=43183891) \| 🗓️ 2025-02-26
+| 🔥🔥: 176 \| 💬: [49](https://news.ycombinator.com/item?id=43183891) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -131,7 +131,31 @@ AtomixDB是一个完全用Go语言编写的**持久关系数据库**，主要关
 
 ---
 
-## <a name="10"></a>10. 望远镜 – 一个开源的基于网页的 ClickHouse 日志查看器 
+## <a name="10"></a>10. iMac G4改造计划 
+<small>🔗 [jcs.org](https://jcs.org/2025/02/26/imacg4k): iMac G4(K)</small>
+
+
+| 🔥🔥: 166 \| 💬: [77](https://news.ycombinator.com/item?id=43188971) \| 🗓️ 2025-02-26
+
+
+<br />
+一年前，我尝试使用M1 iMac，但21英寸的屏幕占据了太多桌面空间。受到Sean在Action Retro视频的启发，我决定将M4 Mac Mini放入iMac G4。通过使用**Juicy Crumb DockLite G4**替换主逻辑板，我成功将iMac的LCD变为HDMI显示器。然而，我遇到了**色带现象**和较低的1440x900分辨率等问题。最终，我选择升级到更高分辨率的**4K LCD**，并成功将Mac Mini安装在iMac内部，解决了屏幕待机时的黑屏问题。
+
+---
+
+## <a name="11"></a>11. 在比佛利山酒店游泳池待了四十二年的男人 
+<small>🔗 [newyorker.com](https://www.newyorker.com/magazine/1993/02/22/beverly-hills-hotel-paradise-lost): The man who spent forty-two years at the Beverly Hills Hotel pool (1993)</small>
+
+
+| 🔥🔥: 155 \| 💬: [111](https://news.ycombinator.com/item?id=43186050) \| 🗓️ 2025-02-26
+
+
+<br />
+伊尔文·V·林克在比佛利山酒店的游泳池旁度过了整整四十二年，过着规律而宁静的生活。他的日常包括早晨的早餐、与朋友打牌以及享受阳光。酒店于1992年关闭后，林克面临重新规划生活的挑战。他的故事反映了洛杉矶独特的社交文化和个人习惯的力量。
+
+---
+
+## <a name="12"></a>12. 望远镜 – 一个开源的基于网页的 ClickHouse 日志查看器 
 <small>🔗 [github.com](https://github.com/iamtelescope/telescope): Show HN: Telescope – an open-source web-based log viewer for logs in ClickHouse</small>
 
 
@@ -143,36 +167,12 @@ Telescope 是一个 **web 应用程序**，旨在提供直观的界面以探索�
 
 ---
 
-## <a name="11"></a>11. iMac G4改造计划 
-<small>🔗 [jcs.org](https://jcs.org/2025/02/26/imacg4k): iMac G4(K)</small>
-
-
-| 🔥🔥: 153 \| 💬: [65](https://news.ycombinator.com/item?id=43188971) \| 🗓️ 2025-02-26
-
-
-<br />
-一年前，我尝试使用M1 iMac，但21英寸的屏幕占据了太多桌面空间。受到Sean在Action Retro视频的启发，我决定将M4 Mac Mini放入iMac G4。通过使用**Juicy Crumb DockLite G4**替换主逻辑板，我成功将iMac的LCD变为HDMI显示器。然而，我遇到了**色带现象**和较低的1440x900分辨率等问题。最终，我选择升级到更高分辨率的**4K LCD**，并成功将Mac Mini安装在iMac内部，解决了屏幕待机时的黑屏问题。
-
----
-
-## <a name="12"></a>12. 在比佛利山酒店游泳池待了四十二年的男人 
-<small>🔗 [newyorker.com](https://www.newyorker.com/magazine/1993/02/22/beverly-hills-hotel-paradise-lost): The man who spent forty-two years at the Beverly Hills Hotel pool (1993)</small>
-
-
-| 🔥🔥: 147 \| 💬: [100](https://news.ycombinator.com/item?id=43186050) \| 🗓️ 2025-02-26
-
-
-<br />
-伊尔文·V·林克在比佛利山酒店的游泳池旁度过了整整四十二年，过着规律而宁静的生活。他的日常包括早晨的早餐、与朋友打牌以及享受阳光。酒店于1992年关闭后，林克面临重新规划生活的挑战。他的故事反映了洛杉矶独特的社交文化和个人习惯的力量。
-
----
-
 ## 13. 海洋融合（YC W25）：船用聚变反应堆
 
 <small>Title: Launch HN: Maritime Fusion (YC W25) – Fusion Reactors for Ships</small>
 
 
-| 🔥🔥: 145 \| 💬: [166](https://news.ycombinator.com/item?id=43185246) \| 🗓️ 2025-02-26
+| 🔥🔥: 151 \| 💬: [168](https://news.ycombinator.com/item?id=43185246) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -184,7 +184,7 @@ Telescope 是一个 **web 应用程序**，旨在提供直观的界面以探索�
 <small>🔗 [blog.golioth.io](https://blog.golioth.io/the-miserable-state-of-modems-and-mobile-network-operators/): The Miserable State of Modems and Mobile Network Operators</small>
 
 
-| 🔥🔥: 129 \| 💬: [38](https://news.ycombinator.com/item?id=43182854) \| 🗓️ 2025-02-26
+| 🔥🔥: 132 \| 💬: [38](https://news.ycombinator.com/item?id=43182854) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -196,7 +196,7 @@ Golioth最近收到关于某供应商的**蜂窝芯片组**系列的连接问题
 <small>🔗 [forevervm.com](https://forevervm.com/): ForeverVM: Run AI-generated code in stateful sandboxes that run forever</small>
 
 
-| 🔥🔥: 124 \| 💬: [41](https://news.ycombinator.com/item?id=43184686) \| 🗓️ 2025-02-26
+| 🔥🔥: 126 \| 💬: [41](https://news.ycombinator.com/item?id=43184686) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -204,47 +204,11 @@ ForeverVM是一个代码执行API，允许用户在远程沙箱中**安全地运
 
 ---
 
-## <a name="16"></a>16. 跨视图 
-<small>🔗 [moultano.wordpress.com](https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/): Cross Views</small>
-
-
-| 🔥🔥: 118 \| 💬: [96](https://news.ycombinator.com/item?id=43186413) \| 🗓️ 2025-02-26
-
-
-<br />
-你的相机和屏幕都能拍摄和显示三维照片，但你可能从未使用过。通过**控制眼肌**，你可以让大脑从两幅不同的图像中重建三维场景。只需拍摄两张从不同位置拍摄的照片，并通过交叉或发散眼睛来实现3D效果。尽管3D技术常被视为噱头，但它能显著增强视觉艺术，尤其在表现复杂场景如森林或洞穴时，增加深度能使图像更具表现力和真实感。探索这一全新维度，创造出更具深度的作品吧！
-
----
-
-## <a name="17"></a>17. 开源的LLM玩宝可梦 
-<small>🔗 [github.com](https://github.com/adenta/fire_red_agent): Show HN: LLM plays Pokémon (open sourced)</small>
-
-
-| 🔥🔥: 118 \| 💬: [42](https://news.ycombinator.com/item?id=43187231) \| 🗓️ 2025-02-26
-
-
-<br />
-这是一个尝试让大型语言模型（LLM）自主玩《宝可梦火红版》的项目。该机器人具备基本的探索、战斗和响应游戏事件的能力。开发过程中遇到的最大挑战是程序化输入控制，导致项目暂停。使用了RetroArch作为模拟器，并通过键盘事件发送输入，但这限制了多任务处理。AI通过数据库管理游戏状态，利用路径寻找算法导航，并通过OCR解析游戏文本以理解对话和事件。尽管战斗处理较为简单，但随着LLM的进步，这一项目的实现将变得更加容易。
-
----
-
-## <a name="18"></a>18. Automattic因WP Engine争议面临集体诉讼 
-<small>🔗 [therepository.email](https://www.therepository.email/automattic-hit-with-class-action-over-wp-engine-dispute-accused-of-anti-competitive-tactics): Automattic Hit with Class Action over WP Engine Dispute</small>
-
-
-| 🔥🔥: 117 \| 💬: [79](https://news.ycombinator.com/item?id=43182576) \| 🗓️ 2025-02-26
-
-
-<br />
-Automattic正面临一项集体诉讼，指控其首席执行官**马特·穆伦维格**采取反竞争策略，损害了**WP Engine**的业务。诉讼由网络安全专家**瑞安·凯勒**代表数十万WP Engine客户提起，指控Automattic故意阻止WP Engine访问关键的WordPress.org服务，导致客户面临安全风险和财务损失。诉讼要求赔偿受影响企业的经济损失，并寻求禁止Automattic利用其对WordPress.org的控制权干扰竞争对手。案件定于2025年5月22日在旧金山进行管理会议。
-
----
-
-## <a name="19"></a>19. 旧西部的摄影作品 
+## <a name="16"></a>16. 旧西部的摄影作品 
 <small>🔗 [cosmographia.substack.com](https://cosmographia.substack.com/p/photographs-of-the-old-west): Photographs of the Old West</small>
 
 
-| 🔥🔥: 114 \| 💬: [7](https://news.ycombinator.com/item?id=43186301) \| 🗓️ 2025-02-26
+| 🔥🔥: 123 \| 💬: [10](https://news.ycombinator.com/item?id=43186301) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -252,11 +216,47 @@ Automattic正面临一项集体诉讼，指控其首席执行官**马特·穆伦
 
 ---
 
+## <a name="17"></a>17. 跨视图 
+<small>🔗 [moultano.wordpress.com](https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/): Cross Views</small>
+
+
+| 🔥🔥: 123 \| 💬: [100](https://news.ycombinator.com/item?id=43186413) \| 🗓️ 2025-02-26
+
+
+<br />
+你的相机和屏幕都能拍摄和显示三维照片，但你可能从未使用过。通过**控制眼肌**，你可以让大脑从两幅不同的图像中重建三维场景。只需拍摄两张从不同位置拍摄的照片，并通过交叉或发散眼睛来实现3D效果。尽管3D技术常被视为噱头，但它能显著增强视觉艺术，尤其在表现复杂场景如森林或洞穴时，增加深度能使图像更具表现力和真实感。探索这一全新维度，创造出更具深度的作品吧！
+
+---
+
+## <a name="18"></a>18. 开源的LLM玩宝可梦 
+<small>🔗 [github.com](https://github.com/adenta/fire_red_agent): Show HN: LLM plays Pokémon (open sourced)</small>
+
+
+| 🔥🔥: 123 \| 💬: [42](https://news.ycombinator.com/item?id=43187231) \| 🗓️ 2025-02-26
+
+
+<br />
+这是一个尝试让大型语言模型（LLM）自主玩《宝可梦火红版》的项目。该机器人具备基本的探索、战斗和响应游戏事件的能力。开发过程中遇到的最大挑战是程序化输入控制，导致项目暂停。使用了RetroArch作为模拟器，并通过键盘事件发送输入，但这限制了多任务处理。AI通过数据库管理游戏状态，利用路径寻找算法导航，并通过OCR解析游戏文本以理解对话和事件。尽管战斗处理较为简单，但随着LLM的进步，这一项目的实现将变得更加容易。
+
+---
+
+## <a name="19"></a>19. Automattic因WP Engine争议面临集体诉讼 
+<small>🔗 [therepository.email](https://www.therepository.email/automattic-hit-with-class-action-over-wp-engine-dispute-accused-of-anti-competitive-tactics): Automattic Hit with Class Action over WP Engine Dispute</small>
+
+
+| 🔥🔥: 118 \| 💬: [79](https://news.ycombinator.com/item?id=43182576) \| 🗓️ 2025-02-26
+
+
+<br />
+Automattic正面临一项集体诉讼，指控其首席执行官**马特·穆伦维格**采取反竞争策略，损害了**WP Engine**的业务。诉讼由网络安全专家**瑞安·凯勒**代表数十万WP Engine客户提起，指控Automattic故意阻止WP Engine访问关键的WordPress.org服务，导致客户面临安全风险和财务损失。诉讼要求赔偿受影响企业的经济损失，并寻求禁止Automattic利用其对WordPress.org的控制权干扰竞争对手。案件定于2025年5月22日在旧金山进行管理会议。
+
+---
+
 ## <a name="20"></a>20. 分岔：河流分裂形成的秘密巨岛 
 <small>🔗 [starkeycomics.com](https://starkeycomics.com/2021/06/10/bifurcation-the-secret-giant-islands-formed-when-rivers-split/): Bifurcation: The secret giant islands formed when rivers split</small>
 
 
-| 🔥: 91 \| 💬: [29](https://news.ycombinator.com/item?id=43184860) \| 🗓️ 2025-02-26
+| 🔥: 94 \| 💬: [30](https://news.ycombinator.com/item?id=43184860) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -276,7 +276,19 @@ MichiganTypeScript是一个**纯TypeScript类型实现的WebAssembly运行时**�
 
 ---
 
-## <a name="22"></a>22. 微软正在变得生疏 
+## <a name="22"></a>22. 对内存安全标准的呼唤 
+<small>🔗 [security.googleblog.com](https://security.googleblog.com/2025/02/securing-tomorrows-software-need-for.html): The need for memory safety standards</small>
+
+
+| 🔥: 81 \| 💬: [91](https://news.ycombinator.com/item?id=43186614) \| 🗓️ 2025-02-26
+
+
+<br />
+内存安全漏洞长期以来一直是技术安全事件的核心，导致信任下降和巨额损失。传统的代码审计和模糊测试等方法无法根本解决这一问题。我们呼吁建立**标准化**的内存安全框架，以促进**安全设计**的实践，确保未来的技术环境更安全。通过采用内存安全语言和硬件技术，我们可以减少漏洞，但需要一个技术中立的框架来评估和促进内存安全的普及。谷歌正在积极推动这一标准化进程，以确保开发者和企业能够自信地构建安全系统，保护用户隐私。
+
+---
+
+## <a name="23"></a>23. 微软正在变得生疏 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=1VgptLwP588): Microsoft is Getting Rusty [video]</small>
 
 
@@ -288,7 +300,7 @@ MichiganTypeScript是一个**纯TypeScript类型实现的WebAssembly运行时**�
 
 ---
 
-## <a name="23"></a>23. PanGui – 一款专注于性能的跨平台UI库 
+## <a name="24"></a>24. PanGui – 一款专注于性能的跨平台UI库 
 <small>🔗 [pangui.io](https://pangui.io/): PanGui – A cross-platform UI library with a razor sharp focus on performance</small>
 
 
@@ -300,7 +312,7 @@ PanGui是一款正在开发中的**跨平台UI库**，旨在简化现代应用�
 
 ---
 
-## <a name="24"></a>24. 你不喜欢钱吗？ 
+## <a name="25"></a>25. 你不喜欢钱吗？ 
 <small>🔗 [rubenerd.com](https://rubenerd.com/do-you-not-like-money/): "Do you not like money?"</small>
 
 
@@ -309,17 +321,5 @@ PanGui是一款正在开发中的**跨平台UI库**，旨在简化现代应用�
 
 <br />
 一封来自澳大利亚金融公司的邮件引发了思考，**“你不喜欢钱吗？”** 文章作者表达了对金钱的复杂感情，认为金钱是生存的必要恶，而非喜爱的对象。尽管金钱能带来便利，但真正让他快乐的是**生活中的人际关系**和**帮助他人**的能力。他对“喜欢钱”的概念感到不安，认为这是一种肤浅的理解。金钱本身是冷漠的，作者更倾向于关注金钱背后的生活质量。
-
----
-
-## <a name="25"></a>25. 马雷克慷慨地提供维护dma-mapping树 
-<small>🔗 [lore.kernel.org](https://lore.kernel.org/lkml/20250224162724.349679-1-hch@lst.de/): Marek has graciously offered to maintain the dma-mapping tree</small>
-
-
-| 🔥: 59 \| 💬: [42](https://news.ycombinator.com/item?id=43183169) \| 🗓️ 2025-02-26
-
-
-<br />
-Christoph Hellwig宣布，**Marek Szyprowski**将接手维护**dma-mapping**树，更新了MAINTAINERS文件以反映这一变化。此举旨在确保该项目的持续发展和管理，Marek的参与将为社区带来新的活力和支持。
 
 ---
