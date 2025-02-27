@@ -27,7 +27,7 @@ tags:
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=0mCsluv5FXA): TypeScript types can run DOOM [video]</small>
 
 
-| 🔥🔥: 938 \| 💬: [245](https://news.ycombinator.com/item?id=43184291) \| 🗓️ 2025-02-26
+| 🔥🔥: 968 \| 💬: [247](https://news.ycombinator.com/item?id=43184291) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.18394): The FFT Strikes Back: An Efficient Alternative to Self-Attention</small>
 
 
-| 🔥🔥: 380 \| 💬: [142](https://news.ycombinator.com/item?id=43182325) \| 🗓️ 2025-02-26
+| 🔥🔥: 387 \| 💬: [146](https://news.ycombinator.com/item?id=43182325) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [deadline.com](https://deadline.com/2025/02/jeff-bezos-washington-post-opinion-1236302292/): Jeff Bezos exerts more control of Washington Post opinion</small>
 
 
-| 🔥🔥: 274 \| 💬: [348](https://news.ycombinator.com/item?id=43184762) \| 🗓️ 2025-02-26
+| 🔥🔥: 281 \| 💬: [361](https://news.ycombinator.com/item?id=43184762) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [breakout.lecaro.me](https://breakout.lecaro.me/): Show HN: Breakout with a roguelite/vampire survivor twist</small>
 
 
-| 🔥🔥: 268 \| 💬: [125](https://news.ycombinator.com/item?id=43183131) \| 🗓️ 2025-02-26
+| 🔥🔥: 276 \| 💬: [126](https://news.ycombinator.com/item?id=43183131) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [npr.org](https://www.npr.org/2025/02/26/nx-s1-5309725/jeff-bezos-washington-post-opinion-section): Jeff Bezos' revamp of 'Washington Post' opinions leads editor to quit</small>
 
 
-| 🔥🔥: 242 \| 💬: [194](https://news.ycombinator.com/item?id=43188749) \| 🗓️ 2025-02-26
+| 🔥🔥: 245 \| 💬: [194](https://news.ycombinator.com/item?id=43188749) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -83,11 +83,23 @@ tags:
 
 ---
 
-## <a name="6"></a>6. Alexa+：下一代智能助手 
+## <a name="6"></a>6. iMac G4改造计划 
+<small>🔗 [jcs.org](https://jcs.org/2025/02/26/imacg4k): iMac G4(K)</small>
+
+
+| 🔥🔥: 198 \| 💬: [88](https://news.ycombinator.com/item?id=43188971) \| 🗓️ 2025-02-26
+
+
+<br />
+一年前，我尝试使用M1 iMac，但21英寸的屏幕占据了太多桌面空间。受到Sean在Action Retro视频的启发，我决定将M4 Mac Mini放入iMac G4。通过使用**Juicy Crumb DockLite G4**替换主逻辑板，我成功将iMac的LCD变为HDMI显示器。然而，我遇到了**色带现象**和较低的1440x900分辨率等问题。最终，我选择升级到更高分辨率的**4K LCD**，并成功将Mac Mini安装在iMac内部，解决了屏幕待机时的黑屏问题。
+
+---
+
+## <a name="7"></a>7. Alexa+：下一代智能助手 
 <small>🔗 [aboutamazon.com](https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence): Alexa+</small>
 
 
-| 🔥🔥: 194 \| 💬: [300](https://news.ycombinator.com/item?id=43185446) \| 🗓️ 2025-02-26
+| 🔥🔥: 197 \| 💬: [301](https://news.ycombinator.com/item?id=43185446) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -95,7 +107,19 @@ tags:
 
 ---
 
-## <a name="7"></a>7. Slack出现故障 
+## <a name="8"></a>8. 用Go编写的关系数据库 
+<small>🔗 [github.com](https://github.com/Sahilb315/AtomixDB): Show HN: A Database Written in Golang</small>
+
+
+| 🔥🔥: 187 \| 💬: [52](https://news.ycombinator.com/item?id=43183891) \| 🗓️ 2025-02-26
+
+
+<br />
+AtomixDB是一个完全用Go语言编写的**持久关系数据库**，主要关注数据库的实现、存储管理和事务处理。它具有**B+树存储引擎**，支持快速数据检索和并发读取，确保数据一致性和完整性。该数据库还管理空闲列表以优化存储使用。未来计划增加查询处理功能并修复已识别的错误。AtomixDB遵循**MIT许可证**，欢迎贡献。
+
+---
+
+## <a name="9"></a>9. Slack出现故障 
 <small>🔗 [slack-status.com](https://slack-status.com/2025-02/1b757d1d0f444c34): Slack Is Down</small>
 
 
@@ -107,23 +131,11 @@ tags:
 
 ---
 
-## <a name="8"></a>8. iMac G4改造计划 
-<small>🔗 [jcs.org](https://jcs.org/2025/02/26/imacg4k): iMac G4(K)</small>
-
-
-| 🔥🔥: 181 \| 💬: [84](https://news.ycombinator.com/item?id=43188971) \| 🗓️ 2025-02-26
-
-
-<br />
-一年前，我尝试使用M1 iMac，但21英寸的屏幕占据了太多桌面空间。受到Sean在Action Retro视频的启发，我决定将M4 Mac Mini放入iMac G4。通过使用**Juicy Crumb DockLite G4**替换主逻辑板，我成功将iMac的LCD变为HDMI显示器。然而，我遇到了**色带现象**和较低的1440x900分辨率等问题。最终，我选择升级到更高分辨率的**4K LCD**，并成功将Mac Mini安装在iMac内部，解决了屏幕待机时的黑屏问题。
-
----
-
-## <a name="9"></a>9. 智利因停电宣布紧急状态，首都陷入黑暗 
+## <a name="10"></a>10. 智利因停电宣布紧急状态，首都陷入黑暗 
 <small>🔗 [cnn.com](https://www.cnn.com/2025/02/25/americas/chile-blackout-14-regions-intl-latam/index.html): State of emergency declared after blackout plunges most of Chile into darkness</small>
 
 
-| 🔥🔥: 180 \| 💬: [191](https://news.ycombinator.com/item?id=43182892) \| 🗓️ 2025-02-26
+| 🔥🔥: 182 \| 💬: [192](https://news.ycombinator.com/item?id=43182892) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -131,23 +143,11 @@ tags:
 
 ---
 
-## <a name="10"></a>10. 用Go编写的关系数据库 
-<small>🔗 [github.com](https://github.com/Sahilb315/AtomixDB): Show HN: A Database Written in Golang</small>
-
-
-| 🔥🔥: 180 \| 💬: [50](https://news.ycombinator.com/item?id=43183891) \| 🗓️ 2025-02-26
-
-
-<br />
-AtomixDB是一个完全用Go语言编写的**持久关系数据库**，主要关注数据库的实现、存储管理和事务处理。它具有**B+树存储引擎**，支持快速数据检索和并发读取，确保数据一致性和完整性。该数据库还管理空闲列表以优化存储使用。未来计划增加查询处理功能并修复已识别的错误。AtomixDB遵循**MIT许可证**，欢迎贡献。
-
----
-
 ## <a name="11"></a>11. 在比佛利山酒店游泳池待了四十二年的男人 
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/1993/02/22/beverly-hills-hotel-paradise-lost): The man who spent forty-two years at the Beverly Hills Hotel pool (1993)</small>
 
 
-| 🔥🔥: 163 \| 💬: [118](https://news.ycombinator.com/item?id=43186050) \| 🗓️ 2025-02-26
+| 🔥🔥: 167 \| 💬: [125](https://news.ycombinator.com/item?id=43186050) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -155,7 +155,20 @@ AtomixDB是一个完全用Go语言编写的**持久关系数据库**，主要关
 
 ---
 
-## <a name="12"></a>12. 望远镜 – 一个开源的基于网页的 ClickHouse 日志查看器 
+## 12. 海洋融合（YC W25）：船用聚变反应堆
+
+<small>Title: Launch HN: Maritime Fusion (YC W25) – Fusion Reactors for Ships</small>
+
+
+| 🔥🔥: 163 \| 💬: [172](https://news.ycombinator.com/item?id=43185246) \| 🗓️ 2025-02-26
+
+
+<br />
+海洋融合正在开发首个用于船舶的**聚变反应堆**，旨在解决从**临界点**到商业可行能源之间的挑战。该技术需要的功率较低，且不涉及放射性燃料，避免了核能的监管和安全风险。目标市场包括**商业航运**和国防，满足对可持续推进技术的迫切需求。团队成员拥有丰富的**等离子体物理**和核工程背景，曾在SpaceX和Tesla等公司工作。
+
+---
+
+## <a name="13"></a>13. 望远镜 – 一个开源的基于网页的 ClickHouse 日志查看器 
 <small>🔗 [github.com](https://github.com/iamtelescope/telescope): Show HN: Telescope – an open-source web-based log viewer for logs in ClickHouse</small>
 
 
@@ -167,24 +180,11 @@ Telescope 是一个 **web 应用程序**，旨在提供直观的界面以探索�
 
 ---
 
-## 13. 海洋融合（YC W25）：船用聚变反应堆
-
-<small>Title: Launch HN: Maritime Fusion (YC W25) – Fusion Reactors for Ships</small>
-
-
-| 🔥🔥: 154 \| 💬: [170](https://news.ycombinator.com/item?id=43185246) \| 🗓️ 2025-02-26
-
-
-<br />
-海洋融合正在开发首个用于船舶的**聚变反应堆**，旨在解决从**临界点**到商业可行能源之间的挑战。该技术需要的功率较低，且不涉及放射性燃料，避免了核能的监管和安全风险。目标市场包括**商业航运**和国防，满足对可持续推进技术的迫切需求。团队成员拥有丰富的**等离子体物理**和核工程背景，曾在SpaceX和Tesla等公司工作。
-
----
-
 ## <a name="14"></a>14. 旧西部的摄影作品 
 <small>🔗 [cosmographia.substack.com](https://cosmographia.substack.com/p/photographs-of-the-old-west): Photographs of the Old West</small>
 
 
-| 🔥🔥: 139 \| 💬: [12](https://news.ycombinator.com/item?id=43186301) \| 🗓️ 2025-02-26
+| 🔥🔥: 144 \| 💬: [13](https://news.ycombinator.com/item?id=43186301) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -196,7 +196,7 @@ Telescope 是一个 **web 应用程序**，旨在提供直观的界面以探索�
 <small>🔗 [blog.golioth.io](https://blog.golioth.io/the-miserable-state-of-modems-and-mobile-network-operators/): The Miserable State of Modems and Mobile Network Operators</small>
 
 
-| 🔥🔥: 135 \| 💬: [39](https://news.ycombinator.com/item?id=43182854) \| 🗓️ 2025-02-26
+| 🔥🔥: 137 \| 💬: [39](https://news.ycombinator.com/item?id=43182854) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -204,23 +204,11 @@ Golioth最近收到关于某供应商的**蜂窝芯片组**系列的连接问题
 
 ---
 
-## <a name="16"></a>16. ForeverVM：在永续状态沙箱中运行AI生成的代码 
-<small>🔗 [forevervm.com](https://forevervm.com/): ForeverVM: Run AI-generated code in stateful sandboxes that run forever</small>
-
-
-| 🔥🔥: 129 \| 💬: [41](https://news.ycombinator.com/item?id=43184686) \| 🗓️ 2025-02-26
-
-
-<br />
-ForeverVM是一个代码执行API，允许用户在远程沙箱中**安全地运行任意Python代码**。与传统解释器不同，ForeverVM利用**内存快照**来管理状态，确保沙箱在闲置时仅消耗存储空间，而不占用计算资源。用户可以通过REPL接口与沙箱交互，随时恢复上次的状态。此外，ForeverVM支持在企业环境中运行，满足企业需求。
-
----
-
-## <a name="17"></a>17. 跨视图 
+## <a name="16"></a>16. 跨视图 
 <small>🔗 [moultano.wordpress.com](https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/): Cross Views</small>
 
 
-| 🔥🔥: 125 \| 💬: [104](https://news.ycombinator.com/item?id=43186413) \| 🗓️ 2025-02-26
+| 🔥🔥: 134 \| 💬: [105](https://news.ycombinator.com/item?id=43186413) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -228,11 +216,23 @@ ForeverVM是一个代码执行API，允许用户在远程沙箱中**安全地运
 
 ---
 
+## <a name="17"></a>17. ForeverVM：在永续状态沙箱中运行AI生成的代码 
+<small>🔗 [forevervm.com](https://forevervm.com/): ForeverVM: Run AI-generated code in stateful sandboxes that run forever</small>
+
+
+| 🔥🔥: 133 \| 💬: [41](https://news.ycombinator.com/item?id=43184686) \| 🗓️ 2025-02-26
+
+
+<br />
+ForeverVM是一个代码执行API，允许用户在远程沙箱中**安全地运行任意Python代码**。与传统解释器不同，ForeverVM利用**内存快照**来管理状态，确保沙箱在闲置时仅消耗存储空间，而不占用计算资源。用户可以通过REPL接口与沙箱交互，随时恢复上次的状态。此外，ForeverVM支持在企业环境中运行，满足企业需求。
+
+---
+
 ## <a name="18"></a>18. 开源的LLM玩宝可梦 
 <small>🔗 [github.com](https://github.com/adenta/fire_red_agent): Show HN: LLM plays Pokémon (open sourced)</small>
 
 
-| 🔥🔥: 125 \| 💬: [44](https://news.ycombinator.com/item?id=43187231) \| 🗓️ 2025-02-26
+| 🔥🔥: 131 \| 💬: [45](https://news.ycombinator.com/item?id=43187231) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -256,7 +256,7 @@ Automattic正面临一项集体诉讼，指控其首席执行官**马特·穆伦
 <small>🔗 [starkeycomics.com](https://starkeycomics.com/2021/06/10/bifurcation-the-secret-giant-islands-formed-when-rivers-split/): Bifurcation: The secret giant islands formed when rivers split</small>
 
 
-| 🔥: 94 \| 💬: [30](https://news.ycombinator.com/item?id=43184860) \| 🗓️ 2025-02-26
+| 🔥: 97 \| 💬: [30](https://news.ycombinator.com/item?id=43184860) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -280,7 +280,7 @@ MichiganTypeScript是一个**纯TypeScript类型实现的WebAssembly运行时**�
 <small>🔗 [security.googleblog.com](https://security.googleblog.com/2025/02/securing-tomorrows-software-need-for.html): The need for memory safety standards</small>
 
 
-| 🔥: 82 \| 💬: [99](https://news.ycombinator.com/item?id=43186614) \| 🗓️ 2025-02-26
+| 🔥: 85 \| 💬: [104](https://news.ycombinator.com/item?id=43186614) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -292,7 +292,7 @@ MichiganTypeScript是一个**纯TypeScript类型实现的WebAssembly运行时**�
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=1VgptLwP588): Microsoft is Getting Rusty [video]</small>
 
 
-| 🔥: 78 \| 💬: [56](https://news.ycombinator.com/item?id=43186801) \| 🗓️ 2025-02-26
+| 🔥: 78 \| 💬: [58](https://news.ycombinator.com/item?id=43186801) \| 🗓️ 2025-02-26
 
 
 <br />
