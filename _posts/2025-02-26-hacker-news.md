@@ -27,7 +27,7 @@ tags:
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=0mCsluv5FXA): TypeScript types can run DOOM [video]</small>
 
 
-| 🔥🔥: 866 \| 💬: [236](https://news.ycombinator.com/item?id=43184291) \| 🗓️ 2025-02-26
+| 🔥🔥: 886 \| 💬: [238](https://news.ycombinator.com/item?id=43184291) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.18394): The FFT Strikes Back: An Efficient Alternative to Self-Attention</small>
 
 
-| 🔥🔥: 359 \| 💬: [134](https://news.ycombinator.com/item?id=43182325) \| 🗓️ 2025-02-26
+| 🔥🔥: 367 \| 💬: [137](https://news.ycombinator.com/item?id=43182325) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [deadline.com](https://deadline.com/2025/02/jeff-bezos-washington-post-opinion-1236302292/): Jeff Bezos exerts more control of Washington Post opinion</small>
 
 
-| 🔥🔥: 248 \| 💬: [306](https://news.ycombinator.com/item?id=43184762) \| 🗓️ 2025-02-26
+| 🔥🔥: 256 \| 💬: [318](https://news.ycombinator.com/item?id=43184762) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [breakout.lecaro.me](https://breakout.lecaro.me/): Show HN: Breakout with a roguelite/vampire survivor twist</small>
 
 
-| 🔥🔥: 244 \| 💬: [117](https://news.ycombinator.com/item?id=43183131) \| 🗓️ 2025-02-26
+| 🔥🔥: 254 \| 💬: [117](https://news.ycombinator.com/item?id=43183131) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [npr.org](https://www.npr.org/2025/02/26/nx-s1-5309725/jeff-bezos-washington-post-opinion-section): Jeff Bezos' revamp of 'Washington Post' opinions leads editor to quit</small>
 
 
-| 🔥🔥: 220 \| 💬: [140](https://news.ycombinator.com/item?id=43188749) \| 🗓️ 2025-02-26
+| 🔥🔥: 233 \| 💬: [171](https://news.ycombinator.com/item?id=43188749) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -83,7 +83,19 @@ tags:
 
 ---
 
-## <a name="6"></a>6. Slack出现故障 
+## <a name="6"></a>6. Alexa+：下一代智能助手 
+<small>🔗 [aboutamazon.com](https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence): Alexa+</small>
+
+
+| 🔥🔥: 189 \| 💬: [293](https://news.ycombinator.com/item?id=43185446) \| 🗓️ 2025-02-26
+
+
+<br />
+随着**600百万Alexa设备**的普及，最新的生成式AI技术使得Alexa+成为一个更具对话性、智能化和个性化的助手。Alexa+不仅能帮助你管理智能家居、预订服务，还能通过**大型语言模型**理解复杂的想法并采取行动。她能够主动提供建议，记住用户的偏好，确保用户的隐私和安全。Alexa+每月19.99美元，亚马逊Prime会员可免费使用，预计将在美国逐步推出。
+
+---
+
+## <a name="7"></a>7. Slack出现故障 
 <small>🔗 [slack-status.com](https://slack-status.com/2025-02/1b757d1d0f444c34): Slack Is Down</small>
 
 
@@ -95,23 +107,11 @@ tags:
 
 ---
 
-## <a name="7"></a>7. Alexa+：下一代智能助手 
-<small>🔗 [aboutamazon.com](https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence): Alexa+</small>
-
-
-| 🔥🔥: 185 \| 💬: [289](https://news.ycombinator.com/item?id=43185446) \| 🗓️ 2025-02-26
-
-
-<br />
-随着**600百万Alexa设备**的普及，最新的生成式AI技术使得Alexa+成为一个更具对话性、智能化和个性化的助手。Alexa+不仅能帮助你管理智能家居、预订服务，还能通过**大型语言模型**理解复杂的想法并采取行动。她能够主动提供建议，记住用户的偏好，确保用户的隐私和安全。Alexa+每月19.99美元，亚马逊Prime会员可免费使用，预计将在美国逐步推出。
-
----
-
 ## <a name="8"></a>8. 智利因停电宣布紧急状态，首都陷入黑暗 
 <small>🔗 [cnn.com](https://www.cnn.com/2025/02/25/americas/chile-blackout-14-regions-intl-latam/index.html): State of emergency declared after blackout plunges most of Chile into darkness</small>
 
 
-| 🔥🔥: 179 \| 💬: [190](https://news.ycombinator.com/item?id=43182892) \| 🗓️ 2025-02-26
+| 🔥🔥: 179 \| 💬: [191](https://news.ycombinator.com/item?id=43182892) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -123,7 +123,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Sahilb315/AtomixDB): Show HN: A Database Written in Golang</small>
 
 
-| 🔥🔥: 162 \| 💬: [48](https://news.ycombinator.com/item?id=43183891) \| 🗓️ 2025-02-26
+| 🔥🔥: 169 \| 💬: [48](https://news.ycombinator.com/item?id=43183891) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -143,36 +143,11 @@ Telescope 是一个 **web 应用程序**，旨在提供直观的界面以探索�
 
 ---
 
-## <a name="11"></a>11. 在比佛利山酒店游泳池待了四十二年的男人 
-<small>🔗 [newyorker.com](https://www.newyorker.com/magazine/1993/02/22/beverly-hills-hotel-paradise-lost): The man who spent forty-two years at the Beverly Hills Hotel pool (1993)</small>
-
-
-| 🔥🔥: 141 \| 💬: [91](https://news.ycombinator.com/item?id=43186050) \| 🗓️ 2025-02-26
-
-
-<br />
-伊尔文·V·林克在比佛利山酒店的游泳池旁度过了整整四十二年，过着规律而宁静的生活。他的日常包括早晨的早餐、与朋友打牌以及享受阳光。酒店于1992年关闭后，林克面临重新规划生活的挑战。他的故事反映了洛杉矶独特的社交文化和个人习惯的力量。
-
----
-
-## 12. 海洋融合（YC W25）：船用聚变反应堆
-
-<small>Title: Launch HN: Maritime Fusion (YC W25) – Fusion Reactors for Ships</small>
-
-
-| 🔥🔥: 139 \| 💬: [159](https://news.ycombinator.com/item?id=43185246) \| 🗓️ 2025-02-26
-
-
-<br />
-海洋融合正在开发首个用于船舶的**聚变反应堆**，旨在解决从**临界点**到商业可行能源之间的挑战。该技术需要的功率较低，且不涉及放射性燃料，避免了核能的监管和安全风险。目标市场包括**商业航运**和国防，满足对可持续推进技术的迫切需求。团队成员拥有丰富的**等离子体物理**和核工程背景，曾在SpaceX和Tesla等公司工作。
-
----
-
-## <a name="13"></a>13. iMac G4改造计划 
+## <a name="11"></a>11. iMac G4改造计划 
 <small>🔗 [jcs.org](https://jcs.org/2025/02/26/imacg4k): iMac G4(K)</small>
 
 
-| 🔥🔥: 130 \| 💬: [37](https://news.ycombinator.com/item?id=43188971) \| 🗓️ 2025-02-26
+| 🔥🔥: 153 \| 💬: [65](https://news.ycombinator.com/item?id=43188971) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -180,11 +155,36 @@ Telescope 是一个 **web 应用程序**，旨在提供直观的界面以探索�
 
 ---
 
+## <a name="12"></a>12. 在比佛利山酒店游泳池待了四十二年的男人 
+<small>🔗 [newyorker.com](https://www.newyorker.com/magazine/1993/02/22/beverly-hills-hotel-paradise-lost): The man who spent forty-two years at the Beverly Hills Hotel pool (1993)</small>
+
+
+| 🔥🔥: 147 \| 💬: [100](https://news.ycombinator.com/item?id=43186050) \| 🗓️ 2025-02-26
+
+
+<br />
+伊尔文·V·林克在比佛利山酒店的游泳池旁度过了整整四十二年，过着规律而宁静的生活。他的日常包括早晨的早餐、与朋友打牌以及享受阳光。酒店于1992年关闭后，林克面临重新规划生活的挑战。他的故事反映了洛杉矶独特的社交文化和个人习惯的力量。
+
+---
+
+## 13. 海洋融合（YC W25）：船用聚变反应堆
+
+<small>Title: Launch HN: Maritime Fusion (YC W25) – Fusion Reactors for Ships</small>
+
+
+| 🔥🔥: 145 \| 💬: [166](https://news.ycombinator.com/item?id=43185246) \| 🗓️ 2025-02-26
+
+
+<br />
+海洋融合正在开发首个用于船舶的**聚变反应堆**，旨在解决从**临界点**到商业可行能源之间的挑战。该技术需要的功率较低，且不涉及放射性燃料，避免了核能的监管和安全风险。目标市场包括**商业航运**和国防，满足对可持续推进技术的迫切需求。团队成员拥有丰富的**等离子体物理**和核工程背景，曾在SpaceX和Tesla等公司工作。
+
+---
+
 ## <a name="14"></a>14. 调制解调器和移动网络运营商的悲惨现状 
 <small>🔗 [blog.golioth.io](https://blog.golioth.io/the-miserable-state-of-modems-and-mobile-network-operators/): The Miserable State of Modems and Mobile Network Operators</small>
 
 
-| 🔥🔥: 129 \| 💬: [37](https://news.ycombinator.com/item?id=43182854) \| 🗓️ 2025-02-26
+| 🔥🔥: 129 \| 💬: [38](https://news.ycombinator.com/item?id=43182854) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -196,7 +196,7 @@ Golioth最近收到关于某供应商的**蜂窝芯片组**系列的连接问题
 <small>🔗 [forevervm.com](https://forevervm.com/): ForeverVM: Run AI-generated code in stateful sandboxes that run forever</small>
 
 
-| 🔥🔥: 120 \| 💬: [39](https://news.ycombinator.com/item?id=43184686) \| 🗓️ 2025-02-26
+| 🔥🔥: 124 \| 💬: [41](https://news.ycombinator.com/item?id=43184686) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -204,23 +204,11 @@ ForeverVM是一个代码执行API，允许用户在远程沙箱中**安全地运
 
 ---
 
-## <a name="16"></a>16. Automattic因WP Engine争议面临集体诉讼 
-<small>🔗 [therepository.email](https://www.therepository.email/automattic-hit-with-class-action-over-wp-engine-dispute-accused-of-anti-competitive-tactics): Automattic Hit with Class Action over WP Engine Dispute</small>
-
-
-| 🔥🔥: 117 \| 💬: [81](https://news.ycombinator.com/item?id=43182576) \| 🗓️ 2025-02-26
-
-
-<br />
-Automattic正面临一项集体诉讼，指控其首席执行官**马特·穆伦维格**采取反竞争策略，损害了**WP Engine**的业务。诉讼由网络安全专家**瑞安·凯勒**代表数十万WP Engine客户提起，指控Automattic故意阻止WP Engine访问关键的WordPress.org服务，导致客户面临安全风险和财务损失。诉讼要求赔偿受影响企业的经济损失，并寻求禁止Automattic利用其对WordPress.org的控制权干扰竞争对手。案件定于2025年5月22日在旧金山进行管理会议。
-
----
-
-## <a name="17"></a>17. 跨视图 
+## <a name="16"></a>16. 跨视图 
 <small>🔗 [moultano.wordpress.com](https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/): Cross Views</small>
 
 
-| 🔥🔥: 115 \| 💬: [93](https://news.ycombinator.com/item?id=43186413) \| 🗓️ 2025-02-26
+| 🔥🔥: 118 \| 💬: [96](https://news.ycombinator.com/item?id=43186413) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -228,11 +216,11 @@ Automattic正面临一项集体诉讼，指控其首席执行官**马特·穆伦
 
 ---
 
-## <a name="18"></a>18. 开源的LLM玩宝可梦 
+## <a name="17"></a>17. 开源的LLM玩宝可梦 
 <small>🔗 [github.com](https://github.com/adenta/fire_red_agent): Show HN: LLM plays Pokémon (open sourced)</small>
 
 
-| 🔥🔥: 113 \| 💬: [40](https://news.ycombinator.com/item?id=43187231) \| 🗓️ 2025-02-26
+| 🔥🔥: 118 \| 💬: [42](https://news.ycombinator.com/item?id=43187231) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -240,11 +228,23 @@ Automattic正面临一项集体诉讼，指控其首席执行官**马特·穆伦
 
 ---
 
+## <a name="18"></a>18. Automattic因WP Engine争议面临集体诉讼 
+<small>🔗 [therepository.email](https://www.therepository.email/automattic-hit-with-class-action-over-wp-engine-dispute-accused-of-anti-competitive-tactics): Automattic Hit with Class Action over WP Engine Dispute</small>
+
+
+| 🔥🔥: 117 \| 💬: [79](https://news.ycombinator.com/item?id=43182576) \| 🗓️ 2025-02-26
+
+
+<br />
+Automattic正面临一项集体诉讼，指控其首席执行官**马特·穆伦维格**采取反竞争策略，损害了**WP Engine**的业务。诉讼由网络安全专家**瑞安·凯勒**代表数十万WP Engine客户提起，指控Automattic故意阻止WP Engine访问关键的WordPress.org服务，导致客户面临安全风险和财务损失。诉讼要求赔偿受影响企业的经济损失，并寻求禁止Automattic利用其对WordPress.org的控制权干扰竞争对手。案件定于2025年5月22日在旧金山进行管理会议。
+
+---
+
 ## <a name="19"></a>19. 旧西部的摄影作品 
 <small>🔗 [cosmographia.substack.com](https://cosmographia.substack.com/p/photographs-of-the-old-west): Photographs of the Old West</small>
 
 
-| 🔥🔥: 106 \| 💬: [5](https://news.ycombinator.com/item?id=43186301) \| 🗓️ 2025-02-26
+| 🔥🔥: 114 \| 💬: [7](https://news.ycombinator.com/item?id=43186301) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -256,7 +256,7 @@ Automattic正面临一项集体诉讼，指控其首席执行官**马特·穆伦
 <small>🔗 [starkeycomics.com](https://starkeycomics.com/2021/06/10/bifurcation-the-secret-giant-islands-formed-when-rivers-split/): Bifurcation: The secret giant islands formed when rivers split</small>
 
 
-| 🔥: 89 \| 💬: [28](https://news.ycombinator.com/item?id=43184860) \| 🗓️ 2025-02-26
+| 🔥: 91 \| 💬: [29](https://news.ycombinator.com/item?id=43184860) \| 🗓️ 2025-02-26
 
 
 <br />
@@ -280,7 +280,7 @@ MichiganTypeScript是一个**纯TypeScript类型实现的WebAssembly运行时**�
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=1VgptLwP588): Microsoft is Getting Rusty [video]</small>
 
 
-| 🔥: 77 \| 💬: [55](https://news.ycombinator.com/item?id=43186801) \| 🗓️ 2025-02-26
+| 🔥: 77 \| 💬: [56](https://news.ycombinator.com/item?id=43186801) \| 🗓️ 2025-02-26
 
 
 <br />
