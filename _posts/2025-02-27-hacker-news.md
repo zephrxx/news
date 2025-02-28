@@ -11,12 +11,12 @@ tags:
 1. EA开源《命令与征服：红色警戒》；
 1. 纸牌游戏的灵感；
 1. 将蓝牙设备转变为苹果AirTag，无需root权限；
-1. 告别 K-9 Mail；
 1. 一个100美元的DIYμ子成像仪；
+1. 告别 K-9 Mail；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [github.com](https://github.com/electronicarts/CnC_Red_Alert): EA Open Sources Command and Conquer: Red Alert</small>
 
 
-| 🔥🔥: 618 \| 💬: [149](https://news.ycombinator.com/item?id=43197131) \| 🗓️ 2025-02-27
+| 🔥🔥: 683 \| 💬: [159](https://news.ycombinator.com/item?id=43197131) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -39,7 +39,7 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 <small>🔗 [localthunk.com](https://localthunk.com/blog/solitaire): Solitaire</small>
 
 
-| 🔥🔥: 352 \| 💬: [98](https://news.ycombinator.com/item?id=43195516) \| 🗓️ 2025-02-27
+| 🔥🔥: 363 \| 💬: [106](https://news.ycombinator.com/item?id=43195516) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -51,7 +51,7 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 <small>🔗 [nroottag.github.io](https://nroottag.github.io/): Turning a Bluetooth device into an Apple AirTag without root privileges</small>
 
 
-| 🔥🔥: 306 \| 💬: [57](https://news.ycombinator.com/item?id=43196207) \| 🗓️ 2025-02-27
+| 🔥🔥: 325 \| 💬: [58](https://news.ycombinator.com/item?id=43196207) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -59,23 +59,11 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 
 ---
 
-## <a name="4"></a>4. 告别 K-9 Mail 
-<small>🔗 [cketti.de](https://cketti.de/2025/02/26/goodbye-k9mail/): Goodbye K-9 Mail</small>
-
-
-| 🔥🔥: 203 \| 💬: [30](https://news.ycombinator.com/item?id=43196436) \| 🗓️ 2025-02-27
-
-
-<br />
-作者辞去了在 MZLA 工作的职位，结束了与 K-9 Mail 和 Thunderbird for Android 的合作。他从 2009 年开始参与 K-9 Mail 的开发，并在此过程中逐渐成为项目的核心成员。尽管工作愉快，但随着时间推移，他意识到需要探索新的方向。现在有团队支持 K-9 Mail，他决定离开，期待未来的个人项目，并可能以志愿者身份回归。感谢所有为 K-9 Mail 和 Thunderbird 贡献的人。
-
----
-
-## <a name="5"></a>5. 一个100美元的DIYμ子成像仪 
+## <a name="4"></a>4. 一个100美元的DIYμ子成像仪 
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/diy-muon-tomography): A $100 DIY muon tomographer</small>
 
 
-| 🔥🔥: 198 \| 💬: [30](https://news.ycombinator.com/item?id=43195525) \| 🗓️ 2025-02-27
+| 🔥🔥: 206 \| 💬: [31](https://news.ycombinator.com/item?id=43195525) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -83,11 +71,23 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 
 ---
 
+## <a name="5"></a>5. 告别 K-9 Mail 
+<small>🔗 [cketti.de](https://cketti.de/2025/02/26/goodbye-k9mail/): Goodbye K-9 Mail</small>
+
+
+| 🔥🔥: 205 \| 💬: [31](https://news.ycombinator.com/item?id=43196436) \| 🗓️ 2025-02-27
+
+
+<br />
+作者辞去了在 MZLA 工作的职位，结束了与 K-9 Mail 和 Thunderbird for Android 的合作。他从 2009 年开始参与 K-9 Mail 的开发，并在此过程中逐渐成为项目的核心成员。尽管工作愉快，但随着时间推移，他意识到需要探索新的方向。现在有团队支持 K-9 Mail，他决定离开，期待未来的个人项目，并可能以志愿者身份回归。感谢所有为 K-9 Mail 和 Thunderbird 贡献的人。
+
+---
+
 ## <a name="6"></a>6. 分布式系统编程停滞不前 
 <small>🔗 [shadaj.me](https://www.shadaj.me/writing/distributed-programming-stalled): Distributed systems programming has stalled</small>
 
 
-| 🔥🔥: 184 \| 💬: [139](https://news.ycombinator.com/item?id=43195702) \| 🗓️ 2025-02-27
+| 🔥🔥: 196 \| 💬: [154](https://news.ycombinator.com/item?id=43195702) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -99,7 +99,7 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/27/obituaries/gene-hackman-dead.html): Gene Hackman has died</small>
 
 
-| 🔥🔥: 141 \| 💬: [131](https://news.ycombinator.com/item?id=43192500) \| 🗓️ 2025-02-27
+| 🔥🔥: 141 \| 💬: [136](https://news.ycombinator.com/item?id=43192500) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -111,7 +111,7 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 <small>🔗 [grist.org](https://grist.org/politics/forest-service-firings-decimate-already-understaffed-agency/): US Forest Service firings decimate already understaffed agency</small>
 
 
-| 🔥🔥: 135 \| 💬: [119](https://news.ycombinator.com/item?id=43193366) \| 🗓️ 2025-02-27
+| 🔥🔥: 137 \| 💬: [120](https://news.ycombinator.com/item?id=43193366) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -119,11 +119,35 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 
 ---
 
-## <a name="9"></a>9. RoboPianist：通过深度强化学习实现灵巧的钢琴演奏 
+## <a name="9"></a>9. IBM完成对HashiCorp的收购，打造全面的混合云平台 
+<small>🔗 [newsroom.ibm.com](https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform): IBM Completes Acquisition of HashiCorp</small>
+
+
+| 🔥🔥: 128 \| 💬: [49](https://news.ycombinator.com/item?id=43199256) \| 🗓️ 2025-02-27
+
+
+<br />
+IBM于2025年2月27日宣布完成对HashiCorp的收购，旨在通过HashiCorp的自动化和安全基础设施能力，推动混合云和生成性AI的创新。此举将帮助企业更高效地管理云基础设施，预计到2028年，生成性AI将创造10亿个新的云原生应用。HashiCorp的Terraform和Vault产品将与IBM的Red Hat等技术结合，提升多云管理和安全性，进一步推动IBM在IT自动化和云解决方案领域的战略增长。此次收购的交易价值为64亿美元。
+
+---
+
+## <a name="10"></a>10. 卡洛斯·斯利姆取消与埃隆·马斯克的Starlink合作 
+<small>🔗 [mexicodailypost.com](https://mexicodailypost.com/2025/02/24/carlos-slim-orders-to-cancel-his-collaboration-with-elon-musks-starlink/): Carlos Slim cancels his collaboration with Elon Musk's Starlink</small>
+
+
+| 🔥🔥: 128 \| 💬: [81](https://news.ycombinator.com/item?id=43199362) \| 🗓️ 2025-02-27
+
+
+<br />
+墨西哥亿万富翁**卡洛斯·斯利姆**决定取消与**埃隆·马斯克**的Starlink合作，原因是两位商业巨头之间的紧张关系加剧。斯利姆选择投资220亿美元于自己的电信基础设施，以增强市场地位并减少对外部合作伙伴的依赖。此举预计将对马斯克的公司造成重大财务影响。斯利姆的决定在马斯克发布一条暗示斯利姆与有组织犯罪有关的争议推文后迅速做出，进一步加剧了两者的关系。斯利姆的公司将其未来五年的项目转向中国和欧洲的公司，这不仅使马斯克失去了在拉丁美洲的主要合作伙伴，还可能影响美国在该地区的商业存在。
+
+---
+
+## <a name="11"></a>11. RoboPianist：通过深度强化学习实现灵巧的钢琴演奏 
 <small>🔗 [kzakka.com](https://kzakka.com/robopianist/#demo): RoboPianist: Dexterous Piano Playing with Deep Reinforcement Learning (2023)</small>
 
 
-| 🔥🔥: 125 \| 💬: [46](https://news.ycombinator.com/item?id=43192751) \| 🗓️ 2025-02-27
+| 🔥🔥: 126 \| 💬: [48](https://news.ycombinator.com/item?id=43192751) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -131,7 +155,19 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 
 ---
 
-## <a name="10"></a>10. Mozilla的新使用条款与Firefox的直接竞争不符 
+## <a name="12"></a>12. Probly – 浏览器中的电子表格、Python 和 AI 
+<small>🔗 [github.com](https://github.com/PragmaticMachineLearning/probly): Show HN: Probly – Spreadsheets, Python, and AI in the browser</small>
+
+
+| 🔥🔥: 122 \| 💬: [21](https://news.ycombinator.com/item?id=43194971) \| 🗓️ 2025-02-27
+
+
+<br />
+Probly 是一款 **AI 驱动的电子表格应用**，结合了电子表格功能和 Python 数据分析能力。它提供了 **互动电子表格**、直接在数据上运行 Python 代码的功能，以及 **数据可视化** 和智能建议。用户需要 Node.js 18 及以上版本和现代浏览器。安装后，用户可以通过 AI 聊天功能与 Probly 互动，询问数据问题或请求分析。该应用使用 Next.js、TypeScript 和 OpenAI API 等技术栈，旨在提升数据处理和分析的效率。
+
+---
+
+## <a name="13"></a>13. Mozilla的新使用条款与Firefox的直接竞争不符 
 <small>🔗 [quippd.com](https://www.quippd.com/writing/2025/02/26/mozillas-new-terms-of-use-are-out-of-step-with-firefoxs-direct-competition.html): Mozilla's new terms of use are out of step with Firefox's direct competition</small>
 
 
@@ -143,23 +179,11 @@ Mozilla最近更新了Firefox的使用条款，其中一项新条款引发了社
 
 ---
 
-## <a name="11"></a>11. Probly – 浏览器中的电子表格、Python 和 AI 
-<small>🔗 [github.com](https://github.com/PragmaticMachineLearning/probly): Show HN: Probly – Spreadsheets, Python, and AI in the browser</small>
-
-
-| 🔥🔥: 115 \| 💬: [19](https://news.ycombinator.com/item?id=43194971) \| 🗓️ 2025-02-27
-
-
-<br />
-Probly 是一款 **AI 驱动的电子表格应用**，结合了电子表格功能和 Python 数据分析能力。它提供了 **互动电子表格**、直接在数据上运行 Python 代码的功能，以及 **数据可视化** 和智能建议。用户需要 Node.js 18 及以上版本和现代浏览器。安装后，用户可以通过 AI 聊天功能与 Probly 互动，询问数据问题或请求分析。该应用使用 Next.js、TypeScript 和 OpenAI API 等技术栈，旨在提升数据处理和分析的效率。
-
----
-
-## <a name="12"></a>12. 开源API连接器Superglue：自动生成代码的解决方案 
+## <a name="14"></a>14. 开源API连接器Superglue：自动生成代码的解决方案 
 <small>🔗 [github.com](https://github.com/superglue-ai/superglue): Show HN: Superglue – open source API connector that writes its own code</small>
 
 
-| 🔥: 100 \| 💬: [23](https://news.ycombinator.com/item?id=43196374) \| 🗓️ 2025-02-27
+| 🔥🔥: 113 \| 💬: [30](https://news.ycombinator.com/item?id=43196374) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -167,11 +191,11 @@ superglue是一个能够**自动生成代码**的API连接器，允许用户连�
 
 ---
 
-## <a name="13"></a>13. 奥斯卡演讲的数据分析 
+## <a name="15"></a>15. 奥斯卡演讲的数据分析 
 <small>🔗 [stephenfollows.com](https://stephenfollows.com/p/harvey-weinstein-thanked-more-than-god): A data analysis of speeches at the Oscars</small>
 
 
-| 🔥: 99 \| 💬: [12](https://news.ycombinator.com/item?id=43193714) \| 🗓️ 2025-02-27
+| 🔥🔥: 108 \| 💬: [14](https://news.ycombinator.com/item?id=43193714) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -179,11 +203,11 @@ superglue是一个能够**自动生成代码**的API连接器，允许用户连�
 
 ---
 
-## <a name="14"></a>14. 尼日利亚正在构建AWS和谷歌云的可负担替代品 
+## <a name="16"></a>16. 尼日利亚正在构建AWS和谷歌云的可负担替代品 
 <small>🔗 [restofworld.org](https://restofworld.org/2025/aws-google-cloud-nigeria-alternatives/): Nigerians are building affordable alternatives to AWS and Google Cloud</small>
 
 
-| 🔥: 95 \| 💬: [36](https://news.ycombinator.com/item?id=43195710) \| 🗓️ 2025-02-27
+| 🔥: 97 \| 💬: [40](https://news.ycombinator.com/item?id=43195710) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -191,59 +215,11 @@ superglue是一个能够**自动生成代码**的API连接器，允许用户连�
 
 ---
 
-## <a name="15"></a>15. 时间扭曲：延迟选择量子消除 
-<small>🔗 [drgblackwell.substack.com](https://drgblackwell.substack.com/p/time-warp-delayed-choice-quantum): Time Warp: Delayed-choice quantum erasure</small>
-
-
-| 🔥: 79 \| 💬: [65](https://news.ycombinator.com/item?id=43194434) \| 🗓️ 2025-02-27
-
-
-<br />
-光子是否能“回到过去”？本文探讨了**延迟选择量子消除**实验，揭示了光的**波粒二象性**。实验表明，光子在被观察后会改变其行为，甚至似乎能影响其过去的状态。这一现象挑战了我们对时间和因果关系的理解，暗示光子可能在未来的观测中“决定”其过去的路径。
-
----
-
-## <a name="16"></a>16. 一位儿子花了一年时间试图拯救他的父亲脱离阴谋论 
-<small>🔗 [npr.org](https://www.npr.org/2025/02/26/g-s1-50605/conspiracy-theories-politics-family-alternate-realities): A son spent a year trying to save his father from conspiracy theories</small>
-
-
-| 🔥: 72 \| 💬: [64](https://news.ycombinator.com/item?id=43194910) \| 🗓️ 2025-02-27
-
-
-<br />
-Zach Mack的父亲深陷**阴谋论**，并提出了一项赌注，声称能在一年内预言重大政治事件。尽管Zach努力与父亲沟通，试图理解他的观点，但最终父亲承认他的预测并未实现。尽管未能改变父亲的信念，Zach与父亲的关系却因深入对话而有所改善。
-
----
-
-## <a name="17"></a>17. Instagram算法错误导致用户看到暴力和血腥内容 
-<small>🔗 [404media.co](https://www.404media.co/instagram-error-turned-reels-into-neverending-scroll-of-murder-gore-and-violence/): Instagram 'Error' Turned Reels into Scroll of Murder, Gore, and Violence</small>
-
-
-| 🔥: 66 \| 💬: [21](https://news.ycombinator.com/item?id=43195469) \| 🗓️ 2025-02-27
-
-
-<br />
-最近，Instagram的Reels算法出现了一个“错误”，导致一些用户的推荐视频充斥着**暴力**、**动物虐待**和**谋杀**等恐怖内容。Meta公司对此表示歉意，并称已修复该问题。许多用户发现他们的推荐内容从通常的宠物和骑行视频转变为令人不安的暴力场景，甚至有人感到心理受到创伤。尽管Meta声称这一问题与其放宽内容审查政策无关，但用户的反馈显示，这一现象在社交媒体上引发了广泛关注和讨论。
-
----
-
-## <a name="18"></a>18. 穆子的磁矩揭示标准模型的漏洞，除非不是 
-<small>🔗 [physicsworld.com](https://physicsworld.com/a/the-muons-magnetic-moment-exposes-a-huge-hole-in-the-standard-model-unless-it-doesnt/): Muon's magnetic moment exposes a hole in the Standard Model, unless it doesn't</small>
-
-
-| 🔥: 66 \| 💬: [14](https://news.ycombinator.com/item?id=43195724) \| 🗓️ 2025-02-27
-
-
-<br />
-2021年，费米实验室的穆子g-2实验发现了理论预测与实验测量之间的显著差异，暗示存在新物理。然而，最近的另一种预测认为费米实验结果与标准模型一致。穆子的异常磁矩作为粒子物理学的重要测试，可能揭示新物理的存在，或许也可能表明标准模型的预测是准确的。随着2025年即将到来的重要实验，科学界正面临着前所未有的挑战与机遇。
-
----
-
-## <a name="19"></a>19. DOGE接管比你想象的更糟糕 
+## <a name="17"></a>17. DOGE接管比你想象的更糟糕 
 <small>🔗 [wired.com](https://www.wired.com/story/doge-worse-than-you-think/): The Doge Takeover Is Worse Than You Think</small>
 
 
-| 🔥: 64 \| 💬: [32](https://news.ycombinator.com/item?id=43198831) \| 🗓️ 2025-02-27
+| 🔥: 81 \| 💬: [39](https://news.ycombinator.com/item?id=43198831) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -251,11 +227,59 @@ DOGE的影响范围广泛且难以追踪，**信息透明度**低于预期。年
 
 ---
 
-## <a name="20"></a>20. 如何直接在容器中运行GUI应用程序 
+## <a name="18"></a>18. 时间扭曲：延迟选择量子消除 
+<small>🔗 [drgblackwell.substack.com](https://drgblackwell.substack.com/p/time-warp-delayed-choice-quantum): Time Warp: Delayed-choice quantum erasure</small>
+
+
+| 🔥: 79 \| 💬: [66](https://news.ycombinator.com/item?id=43194434) \| 🗓️ 2025-02-27
+
+
+<br />
+光子是否能“回到过去”？本文探讨了**延迟选择量子消除**实验，揭示了光的**波粒二象性**。实验表明，光子在被观察后会改变其行为，甚至似乎能影响其过去的状态。这一现象挑战了我们对时间和因果关系的理解，暗示光子可能在未来的观测中“决定”其过去的路径。
+
+---
+
+## <a name="19"></a>19. 一位儿子花了一年时间试图拯救他的父亲脱离阴谋论 
+<small>🔗 [npr.org](https://www.npr.org/2025/02/26/g-s1-50605/conspiracy-theories-politics-family-alternate-realities): A son spent a year trying to save his father from conspiracy theories</small>
+
+
+| 🔥: 74 \| 💬: [68](https://news.ycombinator.com/item?id=43194910) \| 🗓️ 2025-02-27
+
+
+<br />
+Zach Mack的父亲深陷**阴谋论**，并提出了一项赌注，声称能在一年内预言重大政治事件。尽管Zach努力与父亲沟通，试图理解他的观点，但最终父亲承认他的预测并未实现。尽管未能改变父亲的信念，Zach与父亲的关系却因深入对话而有所改善。
+
+---
+
+## <a name="20"></a>20. Instagram算法错误导致用户看到暴力和血腥内容 
+<small>🔗 [404media.co](https://www.404media.co/instagram-error-turned-reels-into-neverending-scroll-of-murder-gore-and-violence/): Instagram 'Error' Turned Reels into Scroll of Murder, Gore, and Violence</small>
+
+
+| 🔥: 68 \| 💬: [21](https://news.ycombinator.com/item?id=43195469) \| 🗓️ 2025-02-27
+
+
+<br />
+最近，Instagram的Reels算法出现了一个“错误”，导致一些用户的推荐视频充斥着**暴力**、**动物虐待**和**谋杀**等恐怖内容。Meta公司对此表示歉意，并称已修复该问题。许多用户发现他们的推荐内容从通常的宠物和骑行视频转变为令人不安的暴力场景，甚至有人感到心理受到创伤。尽管Meta声称这一问题与其放宽内容审查政策无关，但用户的反馈显示，这一现象在社交媒体上引发了广泛关注和讨论。
+
+---
+
+## <a name="21"></a>21. 穆子的磁矩揭示标准模型的漏洞，除非不是 
+<small>🔗 [physicsworld.com](https://physicsworld.com/a/the-muons-magnetic-moment-exposes-a-huge-hole-in-the-standard-model-unless-it-doesnt/): Muon's magnetic moment exposes a hole in the Standard Model, unless it doesn't</small>
+
+
+| 🔥: 67 \| 💬: [14](https://news.ycombinator.com/item?id=43195724) \| 🗓️ 2025-02-27
+
+
+<br />
+2021年，费米实验室的穆子g-2实验发现了理论预测与实验测量之间的显著差异，暗示存在新物理。然而，最近的另一种预测认为费米实验结果与标准模型一致。穆子的异常磁矩作为粒子物理学的重要测试，可能揭示新物理的存在，或许也可能表明标准模型的预测是准确的。随着2025年即将到来的重要实验，科学界正面临着前所未有的挑战与机遇。
+
+---
+
+## <a name="22"></a>22. 如何直接在容器中运行GUI应用程序 
 <small>🔗 [github.com](https://github.com/hemashushu/docker-archlinux-gui): How to run GUI applications directly in containers</small>
 
 
-| 🔥: 62 \| 💬: [33](https://news.ycombinator.com/item?id=43196212) \| 🗓️ 2025-02-27
+| 🔥: 64 \| 💬: [33](https://news.ycombinator.com/item?id=43196212) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -263,19 +287,7 @@ DOGE的影响范围广泛且难以追踪，**信息透明度**低于预期。年
 
 ---
 
-## <a name="21"></a>21. IBM完成对HashiCorp的收购，打造全面的混合云平台 
-<small>🔗 [newsroom.ibm.com](https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform): IBM Completes Acquisition of HashiCorp</small>
-
-
-| 🔥: 62 \| 💬: [13](https://news.ycombinator.com/item?id=43199256) \| 🗓️ 2025-02-27
-
-
-<br />
-IBM于2025年2月27日宣布完成对HashiCorp的收购，旨在通过HashiCorp的自动化和安全基础设施能力，推动混合云和生成性AI的创新。此举将帮助企业更高效地管理云基础设施，预计到2028年，生成性AI将创造10亿个新的云原生应用。HashiCorp的Terraform和Vault产品将与IBM的Red Hat等技术结合，提升多云管理和安全性，进一步推动IBM在IT自动化和云解决方案领域的战略增长。此次收购的交易价值为64亿美元。
-
----
-
-## <a name="22"></a>22. 安德鲁·泰特和兄弟在旅行禁令解除后离开罗马尼亚前往美国 
+## <a name="23"></a>23. 安德鲁·泰特和兄弟在旅行禁令解除后离开罗马尼亚前往美国 
 <small>🔗 [theguardian.com](https://www.theguardian.com/news/2025/feb/27/andrew-tate-tristan-romania-us): Andrew Tate and brother leave Romania for US after travel ban lifted</small>
 
 
@@ -287,11 +299,11 @@ IBM于2025年2月27日宣布完成对HashiCorp的收购，旨在通过HashiCorp�
 
 ---
 
-## <a name="23"></a>23. 在C语言中实施内存安全性 
+## <a name="24"></a>24. 在C语言中实施内存安全性 
 <small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/event/fosdem-2025-6606-imposing-memory-security-in-c/): Imposing memory security in C [video]</small>
 
 
-| 🔥: 51 \| 💬: [72](https://news.ycombinator.com/item?id=43194538) \| 🗓️ 2025-02-27
+| 🔥: 51 \| 💬: [80](https://news.ycombinator.com/item?id=43194538) \| 🗓️ 2025-02-27
 
 
 <br />
