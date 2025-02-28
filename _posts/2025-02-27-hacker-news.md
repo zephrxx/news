@@ -12,7 +12,7 @@ tags:
 1. 纸牌游戏的灵感；
 1. 将蓝牙设备转变为苹果AirTag，无需root权限；
 1. 一个100美元的DIYμ子成像仪；
-1. 告别 K-9 Mail；
+1. 分布式系统编程停滞不前；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [github.com](https://github.com/electronicarts/CnC_Red_Alert): EA Open Sources Command and Conquer: Red Alert</small>
 
 
-| 🔥🔥: 723 \| 💬: [163](https://news.ycombinator.com/item?id=43197131) \| 🗓️ 2025-02-27
+| 🔥🔥: 752 \| 💬: [169](https://news.ycombinator.com/item?id=43197131) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -39,7 +39,7 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 <small>🔗 [localthunk.com](https://localthunk.com/blog/solitaire): Solitaire</small>
 
 
-| 🔥🔥: 375 \| 💬: [108](https://news.ycombinator.com/item?id=43195516) \| 🗓️ 2025-02-27
+| 🔥🔥: 380 \| 💬: [112](https://news.ycombinator.com/item?id=43195516) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -51,7 +51,7 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 <small>🔗 [nroottag.github.io](https://nroottag.github.io/): Turning a Bluetooth device into an Apple AirTag without root privileges</small>
 
 
-| 🔥🔥: 344 \| 💬: [65](https://news.ycombinator.com/item?id=43196207) \| 🗓️ 2025-02-27
+| 🔥🔥: 357 \| 💬: [65](https://news.ycombinator.com/item?id=43196207) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -63,7 +63,7 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/diy-muon-tomography): A $100 DIY muon tomographer</small>
 
 
-| 🔥🔥: 219 \| 💬: [32](https://news.ycombinator.com/item?id=43195525) \| 🗓️ 2025-02-27
+| 🔥🔥: 224 \| 💬: [32](https://news.ycombinator.com/item?id=43195525) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -71,23 +71,11 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 
 ---
 
-## <a name="5"></a>5. 告别 K-9 Mail 
-<small>🔗 [cketti.de](https://cketti.de/2025/02/26/goodbye-k9mail/): Goodbye K-9 Mail</small>
-
-
-| 🔥🔥: 210 \| 💬: [32](https://news.ycombinator.com/item?id=43196436) \| 🗓️ 2025-02-27
-
-
-<br />
-作者辞去了在 MZLA 工作的职位，结束了与 K-9 Mail 和 Thunderbird for Android 的合作。他从 2009 年开始参与 K-9 Mail 的开发，并在此过程中逐渐成为项目的核心成员。尽管工作愉快，但随着时间推移，他意识到需要探索新的方向。现在有团队支持 K-9 Mail，他决定离开，期待未来的个人项目，并可能以志愿者身份回归。感谢所有为 K-9 Mail 和 Thunderbird 贡献的人。
-
----
-
-## <a name="6"></a>6. 分布式系统编程停滞不前 
+## <a name="5"></a>5. 分布式系统编程停滞不前 
 <small>🔗 [shadaj.me](https://www.shadaj.me/writing/distributed-programming-stalled): Distributed systems programming has stalled</small>
 
 
-| 🔥🔥: 207 \| 💬: [167](https://news.ycombinator.com/item?id=43195702) \| 🗓️ 2025-02-27
+| 🔥🔥: 216 \| 💬: [172](https://news.ycombinator.com/item?id=43195702) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -95,11 +83,23 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 
 ---
 
+## <a name="6"></a>6. 告别 K-9 Mail 
+<small>🔗 [cketti.de](https://cketti.de/2025/02/26/goodbye-k9mail/): Goodbye K-9 Mail</small>
+
+
+| 🔥🔥: 215 \| 💬: [35](https://news.ycombinator.com/item?id=43196436) \| 🗓️ 2025-02-27
+
+
+<br />
+作者辞去了在 MZLA 工作的职位，结束了与 K-9 Mail 和 Thunderbird for Android 的合作。他从 2009 年开始参与 K-9 Mail 的开发，并在此过程中逐渐成为项目的核心成员。尽管工作愉快，但随着时间推移，他意识到需要探索新的方向。现在有团队支持 K-9 Mail，他决定离开，期待未来的个人项目，并可能以志愿者身份回归。感谢所有为 K-9 Mail 和 Thunderbird 贡献的人。
+
+---
+
 ## <a name="7"></a>7. IBM完成对HashiCorp的收购，打造全面的混合云平台 
 <small>🔗 [newsroom.ibm.com](https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform): IBM Completes Acquisition of HashiCorp</small>
 
 
-| 🔥🔥: 178 \| 💬: [85](https://news.ycombinator.com/item?id=43199256) \| 🗓️ 2025-02-27
+| 🔥🔥: 209 \| 💬: [128](https://news.ycombinator.com/item?id=43199256) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -111,7 +111,7 @@ IBM于2025年2月27日宣布完成对HashiCorp的收购，旨在通过HashiCorp�
 <small>🔗 [mexicodailypost.com](https://mexicodailypost.com/2025/02/24/carlos-slim-orders-to-cancel-his-collaboration-with-elon-musks-starlink/): Carlos Slim cancels his collaboration with Elon Musk's Starlink</small>
 
 
-| 🔥🔥: 175 \| 💬: [133](https://news.ycombinator.com/item?id=43199362) \| 🗓️ 2025-02-27
+| 🔥🔥: 192 \| 💬: [157](https://news.ycombinator.com/item?id=43199362) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -119,11 +119,23 @@ IBM于2025年2月27日宣布完成对HashiCorp的收购，旨在通过HashiCorp�
 
 ---
 
-## <a name="9"></a>9. 基因·哈克曼去世 
+## <a name="9"></a>9. Mozilla的新使用条款与Firefox的直接竞争不符 
+<small>🔗 [quippd.com](https://www.quippd.com/writing/2025/02/26/mozillas-new-terms-of-use-are-out-of-step-with-firefoxs-direct-competition.html): Mozilla's new terms of use are out of step with Firefox's direct competition</small>
+
+
+| 🔥🔥: 149 \| 💬: [125](https://news.ycombinator.com/item?id=43194536) \| 🗓️ 2025-02-27
+
+
+<br />
+Mozilla最近更新了Firefox的使用条款，其中一项新条款引发了社区的关注：用户在使用Firefox时上传的信息将授予Mozilla一个**非独占、免版税、全球性的使用许可**。与其他浏览器相比，Mozilla并未明确放弃用户内容的所有权，这使其在行业中显得**独特且引发争议**。虽然Google和Microsoft也有类似条款，但它们明确声明不拥有用户内容。此变化发生在Mozilla领导层变动之际，反映出其对“隐私尊重广告”和“可信赖的开源AI”的新关注。
+
+---
+
+## <a name="10"></a>10. 基因·哈克曼去世 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/27/obituaries/gene-hackman-dead.html): Gene Hackman has died</small>
 
 
-| 🔥🔥: 143 \| 💬: [141](https://news.ycombinator.com/item?id=43192500) \| 🗓️ 2025-02-27
+| 🔥🔥: 144 \| 💬: [142](https://news.ycombinator.com/item?id=43192500) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -131,11 +143,11 @@ IBM于2025年2月27日宣布完成对HashiCorp的收购，旨在通过HashiCorp�
 
 ---
 
-## <a name="10"></a>10. 美国森林服务局裁员重创本已人手不足的机构 
+## <a name="11"></a>11. 美国森林服务局裁员重创本已人手不足的机构 
 <small>🔗 [grist.org](https://grist.org/politics/forest-service-firings-decimate-already-understaffed-agency/): US Forest Service firings decimate already understaffed agency</small>
 
 
-| 🔥🔥: 137 \| 💬: [120](https://news.ycombinator.com/item?id=43193366) \| 🗓️ 2025-02-27
+| 🔥🔥: 138 \| 💬: [120](https://news.ycombinator.com/item?id=43193366) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -143,7 +155,7 @@ IBM于2025年2月27日宣布完成对HashiCorp的收购，旨在通过HashiCorp�
 
 ---
 
-## <a name="11"></a>11. RoboPianist：通过深度强化学习实现灵巧的钢琴演奏 
+## <a name="12"></a>12. RoboPianist：通过深度强化学习实现灵巧的钢琴演奏 
 <small>🔗 [kzakka.com](https://kzakka.com/robopianist/#demo): RoboPianist: Dexterous Piano Playing with Deep Reinforcement Learning (2023)</small>
 
 
@@ -155,23 +167,11 @@ IBM于2025年2月27日宣布完成对HashiCorp的收购，旨在通过HashiCorp�
 
 ---
 
-## <a name="12"></a>12. Probly – 浏览器中的电子表格、Python 和 AI 
-<small>🔗 [github.com](https://github.com/PragmaticMachineLearning/probly): Show HN: Probly – Spreadsheets, Python, and AI in the browser</small>
-
-
-| 🔥🔥: 126 \| 💬: [22](https://news.ycombinator.com/item?id=43194971) \| 🗓️ 2025-02-27
-
-
-<br />
-Probly 是一款 **AI 驱动的电子表格应用**，结合了电子表格功能和 Python 数据分析能力。它提供了 **互动电子表格**、直接在数据上运行 Python 代码的功能，以及 **数据可视化** 和智能建议。用户需要 Node.js 18 及以上版本和现代浏览器。安装后，用户可以通过 AI 聊天功能与 Probly 互动，询问数据问题或请求分析。该应用使用 Next.js、TypeScript 和 OpenAI API 等技术栈，旨在提升数据处理和分析的效率。
-
----
-
 ## <a name="13"></a>13. 开源API连接器Superglue：自动生成代码的解决方案 
 <small>🔗 [github.com](https://github.com/superglue-ai/superglue): Show HN: Superglue – open source API connector that writes its own code</small>
 
 
-| 🔥🔥: 121 \| 💬: [32](https://news.ycombinator.com/item?id=43196374) \| 🗓️ 2025-02-27
+| 🔥🔥: 128 \| 💬: [34](https://news.ycombinator.com/item?id=43196374) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -179,15 +179,15 @@ superglue是一个能够**自动生成代码**的API连接器，允许用户连�
 
 ---
 
-## <a name="14"></a>14. Mozilla的新使用条款与Firefox的直接竞争不符 
-<small>🔗 [quippd.com](https://www.quippd.com/writing/2025/02/26/mozillas-new-terms-of-use-are-out-of-step-with-firefoxs-direct-competition.html): Mozilla's new terms of use are out of step with Firefox's direct competition</small>
+## <a name="14"></a>14. Probly – 浏览器中的电子表格、Python 和 AI 
+<small>🔗 [github.com](https://github.com/PragmaticMachineLearning/probly): Show HN: Probly – Spreadsheets, Python, and AI in the browser</small>
 
 
-| 🔥🔥: 120 \| 💬: [101](https://news.ycombinator.com/item?id=43194536) \| 🗓️ 2025-02-27
+| 🔥🔥: 127 \| 💬: [23](https://news.ycombinator.com/item?id=43194971) \| 🗓️ 2025-02-27
 
 
 <br />
-Mozilla最近更新了Firefox的使用条款，其中一项新条款引发了社区的关注：用户在使用Firefox时上传的信息将授予Mozilla一个**非独占、免版税、全球性的使用许可**。与其他浏览器相比，Mozilla并未明确放弃用户内容的所有权，这使其在行业中显得**独特且引发争议**。虽然Google和Microsoft也有类似条款，但它们明确声明不拥有用户内容。此变化发生在Mozilla领导层变动之际，反映出其对“隐私尊重广告”和“可信赖的开源AI”的新关注。
+Probly 是一款 **AI 驱动的电子表格应用**，结合了电子表格功能和 Python 数据分析能力。它提供了 **互动电子表格**、直接在数据上运行 Python 代码的功能，以及 **数据可视化** 和智能建议。用户需要 Node.js 18 及以上版本和现代浏览器。安装后，用户可以通过 AI 聊天功能与 Probly 互动，询问数据问题或请求分析。该应用使用 Next.js、TypeScript 和 OpenAI API 等技术栈，旨在提升数据处理和分析的效率。
 
 ---
 
@@ -195,7 +195,7 @@ Mozilla最近更新了Firefox的使用条款，其中一项新条款引发了社
 <small>🔗 [stephenfollows.com](https://stephenfollows.com/p/harvey-weinstein-thanked-more-than-god): A data analysis of speeches at the Oscars</small>
 
 
-| 🔥🔥: 115 \| 💬: [14](https://news.ycombinator.com/item?id=43193714) \| 🗓️ 2025-02-27
+| 🔥🔥: 119 \| 💬: [14](https://news.ycombinator.com/item?id=43193714) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -207,7 +207,7 @@ Mozilla最近更新了Firefox的使用条款，其中一项新条款引发了社
 <small>🔗 [restofworld.org](https://restofworld.org/2025/aws-google-cloud-nigeria-alternatives/): Nigerians are building affordable alternatives to AWS and Google Cloud</small>
 
 
-| 🔥🔥: 104 \| 💬: [40](https://news.ycombinator.com/item?id=43195710) \| 🗓️ 2025-02-27
+| 🔥🔥: 105 \| 💬: [43](https://news.ycombinator.com/item?id=43195710) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -215,11 +215,23 @@ Mozilla最近更新了Firefox的使用条款，其中一项新条款引发了社
 
 ---
 
-## <a name="17"></a>17. DOGE接管比你想象的更糟糕 
+## <a name="17"></a>17. Mozilla拥有您通过Firefox输入的信息 
+<small>🔗 [mozilla.org](https://www.mozilla.org/en-US/about/legal/terms/firefox/): Mozilla owns "information you input through Firefox"</small>
+
+
+| 🔥: 97 \| 💬: [44](https://news.ycombinator.com/item?id=43200065) \| 🗓️ 2025-02-27
+
+
+<br />
+Firefox是一款由全球社区开发的**免费开源**浏览器。用户在使用Firefox时，需遵循Mozilla的条款，这些条款赋予Mozilla处理用户数据的权利。用户输入的信息将被Mozilla用于改善在线体验。Firefox的使用需遵循**可接受使用政策**，并且Mozilla对Firefox的责任有限，提供的服务为“按现状”提供，且不承担任何间接损失。
+
+---
+
+## <a name="18"></a>18. DOGE接管比你想象的更糟糕 
 <small>🔗 [wired.com](https://www.wired.com/story/doge-worse-than-you-think/): The Doge Takeover Is Worse Than You Think</small>
 
 
-| 🔥: 87 \| 💬: [39](https://news.ycombinator.com/item?id=43198831) \| 🗓️ 2025-02-27
+| 🔥: 93 \| 💬: [40](https://news.ycombinator.com/item?id=43198831) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -227,35 +239,11 @@ DOGE的影响范围广泛且难以追踪，**信息透明度**低于预期。年
 
 ---
 
-## <a name="18"></a>18. 时间扭曲：延迟选择量子消除 
-<small>🔗 [drgblackwell.substack.com](https://drgblackwell.substack.com/p/time-warp-delayed-choice-quantum): Time Warp: Delayed-choice quantum erasure</small>
-
-
-| 🔥: 79 \| 💬: [66](https://news.ycombinator.com/item?id=43194434) \| 🗓️ 2025-02-27
-
-
-<br />
-光子是否能“回到过去”？本文探讨了**延迟选择量子消除**实验，揭示了光的**波粒二象性**。实验表明，光子在被观察后会改变其行为，甚至似乎能影响其过去的状态。这一现象挑战了我们对时间和因果关系的理解，暗示光子可能在未来的观测中“决定”其过去的路径。
-
----
-
-## <a name="19"></a>19. 一位儿子花了一年时间试图拯救他的父亲脱离阴谋论 
-<small>🔗 [npr.org](https://www.npr.org/2025/02/26/g-s1-50605/conspiracy-theories-politics-family-alternate-realities): A son spent a year trying to save his father from conspiracy theories</small>
-
-
-| 🔥: 74 \| 💬: [71](https://news.ycombinator.com/item?id=43194910) \| 🗓️ 2025-02-27
-
-
-<br />
-Zach Mack的父亲深陷**阴谋论**，并提出了一项赌注，声称能在一年内预言重大政治事件。尽管Zach努力与父亲沟通，试图理解他的观点，但最终父亲承认他的预测并未实现。尽管未能改变父亲的信念，Zach与父亲的关系却因深入对话而有所改善。
-
----
-
-## <a name="20"></a>20. NVIDIA仿真之旅：RIVA 128/NV3架构历史概述 
+## <a name="19"></a>19. NVIDIA仿真之旅：RIVA 128/NV3架构历史概述 
 <small>🔗 [86box.net](https://86box.net/2025/02/25/riva128-part-1.html): Nvidia emulation journey, part 1: RIVA 128/NV3 architecture history and overview</small>
 
 
-| 🔥: 71 \| 💬: [18](https://news.ycombinator.com/item?id=43198379) \| 🗓️ 2025-02-27
+| 🔥: 80 \| 💬: [22](https://news.ycombinator.com/item?id=43198379) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -263,7 +251,43 @@ Zach Mack的父亲深陷**阴谋论**，并提出了一项赌注，声称能在�
 
 ---
 
-## <a name="21"></a>21. Instagram算法错误导致用户看到暴力和血腥内容 
+## <a name="20"></a>20. 时间扭曲：延迟选择量子消除 
+<small>🔗 [drgblackwell.substack.com](https://drgblackwell.substack.com/p/time-warp-delayed-choice-quantum): Time Warp: Delayed-choice quantum erasure</small>
+
+
+| 🔥: 79 \| 💬: [68](https://news.ycombinator.com/item?id=43194434) \| 🗓️ 2025-02-27
+
+
+<br />
+光子是否能“回到过去”？本文探讨了**延迟选择量子消除**实验，揭示了光的**波粒二象性**。实验表明，光子在被观察后会改变其行为，甚至似乎能影响其过去的状态。这一现象挑战了我们对时间和因果关系的理解，暗示光子可能在未来的观测中“决定”其过去的路径。
+
+---
+
+## <a name="21"></a>21. 世界首个实验性癌症治疗为临床试验铺平道路 
+<small>🔗 [wehi.edu.au](https://www.wehi.edu.au/news/world-first-experimental-cancer-treatment-paves-way-for-clinical-trial/): World-first experimental cancer treatment paves way for clinical trial</small>
+
+
+| 🔥: 76 \| 💬: [19](https://news.ycombinator.com/item?id=43199210) \| 🗓️ 2025-02-27
+
+
+<br />
+一种针对**侵袭性脑癌**的实验性治疗已在《自然医学》上发表，为由**脑癌中心**进行的临床试验奠定基础。该治疗由悉尼大学的**长教授**开发，首次在胶质母细胞瘤患者中使用三重免疫疗法，显示出增强的免疫反应。临床试验将进一步验证该方法的有效性。
+
+---
+
+## <a name="22"></a>22. 一位儿子花了一年时间试图拯救他的父亲脱离阴谋论 
+<small>🔗 [npr.org](https://www.npr.org/2025/02/26/g-s1-50605/conspiracy-theories-politics-family-alternate-realities): A son spent a year trying to save his father from conspiracy theories</small>
+
+
+| 🔥: 74 \| 💬: [72](https://news.ycombinator.com/item?id=43194910) \| 🗓️ 2025-02-27
+
+
+<br />
+Zach Mack的父亲深陷**阴谋论**，并提出了一项赌注，声称能在一年内预言重大政治事件。尽管Zach努力与父亲沟通，试图理解他的观点，但最终父亲承认他的预测并未实现。尽管未能改变父亲的信念，Zach与父亲的关系却因深入对话而有所改善。
+
+---
+
+## <a name="23"></a>23. Instagram算法错误导致用户看到暴力和血腥内容 
 <small>🔗 [404media.co](https://www.404media.co/instagram-error-turned-reels-into-neverending-scroll-of-murder-gore-and-violence/): Instagram 'Error' Turned Reels into Scroll of Murder, Gore, and Violence</small>
 
 
@@ -275,11 +299,11 @@ Zach Mack的父亲深陷**阴谋论**，并提出了一项赌注，声称能在�
 
 ---
 
-## <a name="22"></a>22. 穆子的磁矩揭示标准模型的漏洞，除非不是 
+## <a name="24"></a>24. 穆子的磁矩揭示标准模型的漏洞，除非不是 
 <small>🔗 [physicsworld.com](https://physicsworld.com/a/the-muons-magnetic-moment-exposes-a-huge-hole-in-the-standard-model-unless-it-doesnt/): Muon's magnetic moment exposes a hole in the Standard Model, unless it doesn't</small>
 
 
-| 🔥: 68 \| 💬: [16](https://news.ycombinator.com/item?id=43195724) \| 🗓️ 2025-02-27
+| 🔥: 68 \| 💬: [17](https://news.ycombinator.com/item?id=43195724) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -287,7 +311,7 @@ Zach Mack的父亲深陷**阴谋论**，并提出了一项赌注，声称能在�
 
 ---
 
-## <a name="23"></a>23. 如何直接在容器中运行GUI应用程序 
+## <a name="25"></a>25. 如何直接在容器中运行GUI应用程序 
 <small>🔗 [github.com](https://github.com/hemashushu/docker-archlinux-gui): How to run GUI applications directly in containers</small>
 
 
@@ -296,29 +320,5 @@ Zach Mack的父亲深陷**阴谋论**，并提出了一项赌注，声称能在�
 
 <br />
 本教程介绍了一种在容器（如Docker和Podman）中直接运行GUI应用程序的方法，无需安装额外软件。适合在不信任源、想保持系统干净或应用不兼容时使用。要求包括运行Wayland协议的显示服务器和PipeWire多媒体框架。通过映射主机的Wayland和PipeWire套接字到容器，并设置相应的环境变量，可以轻松启动GUI应用。
-
----
-
-## <a name="24"></a>24. 安德鲁·泰特和兄弟在旅行禁令解除后离开罗马尼亚前往美国 
-<small>🔗 [theguardian.com](https://www.theguardian.com/news/2025/feb/27/andrew-tate-tristan-romania-us): Andrew Tate and brother leave Romania for US after travel ban lifted</small>
-
-
-| 🔥: 58 \| 💬: [61](https://news.ycombinator.com/item?id=43192790) \| 🗓️ 2025-02-27
-
-
-<br />
-安德鲁·泰特和他的兄弟特里斯坦在旅行禁令解除后，乘坐私人飞机从罗马尼亚飞往美国。他们自2022年因涉嫌**人身贩卖**、**强奸**和**洗钱**等罪名被禁止出境。尽管面临多项指控，兄弟俩否认所有罪名，并计划于下月返回罗马尼亚出庭。
-
----
-
-## <a name="25"></a>25. 在C语言中实施内存安全性 
-<small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/event/fosdem-2025-6606-imposing-memory-security-in-c/): Imposing memory security in C [video]</small>
-
-
-| 🔥: 52 \| 💬: [79](https://news.ycombinator.com/item?id=43194538) \| 🗓️ 2025-02-27
-
-
-<br />
-在FOSDEM 2025的闪电演讲中，Maria Matejka探讨了如何在BIRD的C代码中实现**内存安全操作**，而无需依赖语言范式。她认为，尽管有观点认为Rust会取代C，但通过适当的政策和流程，确保内存安全是完全可行的。
 
 ---
