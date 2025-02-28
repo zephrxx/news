@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [github.com](https://github.com/electronicarts/CnC_Red_Alert): EA Open Sources Command and Conquer: Red Alert</small>
 
 
-| 🔥🔥: 683 \| 💬: [159](https://news.ycombinator.com/item?id=43197131) \| 🗓️ 2025-02-27
+| 🔥🔥: 723 \| 💬: [163](https://news.ycombinator.com/item?id=43197131) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -39,7 +39,7 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 <small>🔗 [localthunk.com](https://localthunk.com/blog/solitaire): Solitaire</small>
 
 
-| 🔥🔥: 363 \| 💬: [106](https://news.ycombinator.com/item?id=43195516) \| 🗓️ 2025-02-27
+| 🔥🔥: 375 \| 💬: [108](https://news.ycombinator.com/item?id=43195516) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -51,7 +51,7 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 <small>🔗 [nroottag.github.io](https://nroottag.github.io/): Turning a Bluetooth device into an Apple AirTag without root privileges</small>
 
 
-| 🔥🔥: 325 \| 💬: [58](https://news.ycombinator.com/item?id=43196207) \| 🗓️ 2025-02-27
+| 🔥🔥: 344 \| 💬: [65](https://news.ycombinator.com/item?id=43196207) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -63,7 +63,7 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/diy-muon-tomography): A $100 DIY muon tomographer</small>
 
 
-| 🔥🔥: 206 \| 💬: [31](https://news.ycombinator.com/item?id=43195525) \| 🗓️ 2025-02-27
+| 🔥🔥: 219 \| 💬: [32](https://news.ycombinator.com/item?id=43195525) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -75,7 +75,7 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 <small>🔗 [cketti.de](https://cketti.de/2025/02/26/goodbye-k9mail/): Goodbye K-9 Mail</small>
 
 
-| 🔥🔥: 205 \| 💬: [31](https://news.ycombinator.com/item?id=43196436) \| 🗓️ 2025-02-27
+| 🔥🔥: 210 \| 💬: [32](https://news.ycombinator.com/item?id=43196436) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -87,7 +87,7 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 <small>🔗 [shadaj.me](https://www.shadaj.me/writing/distributed-programming-stalled): Distributed systems programming has stalled</small>
 
 
-| 🔥🔥: 196 \| 💬: [154](https://news.ycombinator.com/item?id=43195702) \| 🗓️ 2025-02-27
+| 🔥🔥: 207 \| 💬: [167](https://news.ycombinator.com/item?id=43195702) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -95,11 +95,35 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 
 ---
 
-## <a name="7"></a>7. 基因·哈克曼去世 
+## <a name="7"></a>7. IBM完成对HashiCorp的收购，打造全面的混合云平台 
+<small>🔗 [newsroom.ibm.com](https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform): IBM Completes Acquisition of HashiCorp</small>
+
+
+| 🔥🔥: 178 \| 💬: [85](https://news.ycombinator.com/item?id=43199256) \| 🗓️ 2025-02-27
+
+
+<br />
+IBM于2025年2月27日宣布完成对HashiCorp的收购，旨在通过HashiCorp的自动化和安全基础设施能力，推动混合云和生成性AI的创新。此举将帮助企业更高效地管理云基础设施，预计到2028年，生成性AI将创造10亿个新的云原生应用。HashiCorp的Terraform和Vault产品将与IBM的Red Hat等技术结合，提升多云管理和安全性，进一步推动IBM在IT自动化和云解决方案领域的战略增长。此次收购的交易价值为64亿美元。
+
+---
+
+## <a name="8"></a>8. 卡洛斯·斯利姆取消与埃隆·马斯克的Starlink合作 
+<small>🔗 [mexicodailypost.com](https://mexicodailypost.com/2025/02/24/carlos-slim-orders-to-cancel-his-collaboration-with-elon-musks-starlink/): Carlos Slim cancels his collaboration with Elon Musk's Starlink</small>
+
+
+| 🔥🔥: 175 \| 💬: [133](https://news.ycombinator.com/item?id=43199362) \| 🗓️ 2025-02-27
+
+
+<br />
+墨西哥亿万富翁**卡洛斯·斯利姆**决定取消与**埃隆·马斯克**的Starlink合作，原因是两位商业巨头之间的紧张关系加剧。斯利姆选择投资220亿美元于自己的电信基础设施，以增强市场地位并减少对外部合作伙伴的依赖。此举预计将对马斯克的公司造成重大财务影响。斯利姆的决定在马斯克发布一条暗示斯利姆与有组织犯罪有关的争议推文后迅速做出，进一步加剧了两者的关系。斯利姆的公司将其未来五年的项目转向中国和欧洲的公司，这不仅使马斯克失去了在拉丁美洲的主要合作伙伴，还可能影响美国在该地区的商业存在。
+
+---
+
+## <a name="9"></a>9. 基因·哈克曼去世 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/27/obituaries/gene-hackman-dead.html): Gene Hackman has died</small>
 
 
-| 🔥🔥: 141 \| 💬: [136](https://news.ycombinator.com/item?id=43192500) \| 🗓️ 2025-02-27
+| 🔥🔥: 143 \| 💬: [141](https://news.ycombinator.com/item?id=43192500) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -107,7 +131,7 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 
 ---
 
-## <a name="8"></a>8. 美国森林服务局裁员重创本已人手不足的机构 
+## <a name="10"></a>10. 美国森林服务局裁员重创本已人手不足的机构 
 <small>🔗 [grist.org](https://grist.org/politics/forest-service-firings-decimate-already-understaffed-agency/): US Forest Service firings decimate already understaffed agency</small>
 
 
@@ -119,35 +143,11 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 
 ---
 
-## <a name="9"></a>9. IBM完成对HashiCorp的收购，打造全面的混合云平台 
-<small>🔗 [newsroom.ibm.com](https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform): IBM Completes Acquisition of HashiCorp</small>
-
-
-| 🔥🔥: 128 \| 💬: [49](https://news.ycombinator.com/item?id=43199256) \| 🗓️ 2025-02-27
-
-
-<br />
-IBM于2025年2月27日宣布完成对HashiCorp的收购，旨在通过HashiCorp的自动化和安全基础设施能力，推动混合云和生成性AI的创新。此举将帮助企业更高效地管理云基础设施，预计到2028年，生成性AI将创造10亿个新的云原生应用。HashiCorp的Terraform和Vault产品将与IBM的Red Hat等技术结合，提升多云管理和安全性，进一步推动IBM在IT自动化和云解决方案领域的战略增长。此次收购的交易价值为64亿美元。
-
----
-
-## <a name="10"></a>10. 卡洛斯·斯利姆取消与埃隆·马斯克的Starlink合作 
-<small>🔗 [mexicodailypost.com](https://mexicodailypost.com/2025/02/24/carlos-slim-orders-to-cancel-his-collaboration-with-elon-musks-starlink/): Carlos Slim cancels his collaboration with Elon Musk's Starlink</small>
-
-
-| 🔥🔥: 128 \| 💬: [81](https://news.ycombinator.com/item?id=43199362) \| 🗓️ 2025-02-27
-
-
-<br />
-墨西哥亿万富翁**卡洛斯·斯利姆**决定取消与**埃隆·马斯克**的Starlink合作，原因是两位商业巨头之间的紧张关系加剧。斯利姆选择投资220亿美元于自己的电信基础设施，以增强市场地位并减少对外部合作伙伴的依赖。此举预计将对马斯克的公司造成重大财务影响。斯利姆的决定在马斯克发布一条暗示斯利姆与有组织犯罪有关的争议推文后迅速做出，进一步加剧了两者的关系。斯利姆的公司将其未来五年的项目转向中国和欧洲的公司，这不仅使马斯克失去了在拉丁美洲的主要合作伙伴，还可能影响美国在该地区的商业存在。
-
----
-
 ## <a name="11"></a>11. RoboPianist：通过深度强化学习实现灵巧的钢琴演奏 
 <small>🔗 [kzakka.com](https://kzakka.com/robopianist/#demo): RoboPianist: Dexterous Piano Playing with Deep Reinforcement Learning (2023)</small>
 
 
-| 🔥🔥: 126 \| 💬: [48](https://news.ycombinator.com/item?id=43192751) \| 🗓️ 2025-02-27
+| 🔥🔥: 128 \| 💬: [48](https://news.ycombinator.com/item?id=43192751) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -159,7 +159,7 @@ IBM于2025年2月27日宣布完成对HashiCorp的收购，旨在通过HashiCorp�
 <small>🔗 [github.com](https://github.com/PragmaticMachineLearning/probly): Show HN: Probly – Spreadsheets, Python, and AI in the browser</small>
 
 
-| 🔥🔥: 122 \| 💬: [21](https://news.ycombinator.com/item?id=43194971) \| 🗓️ 2025-02-27
+| 🔥🔥: 126 \| 💬: [22](https://news.ycombinator.com/item?id=43194971) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -167,7 +167,19 @@ Probly 是一款 **AI 驱动的电子表格应用**，结合了电子表格功�
 
 ---
 
-## <a name="13"></a>13. Mozilla的新使用条款与Firefox的直接竞争不符 
+## <a name="13"></a>13. 开源API连接器Superglue：自动生成代码的解决方案 
+<small>🔗 [github.com](https://github.com/superglue-ai/superglue): Show HN: Superglue – open source API connector that writes its own code</small>
+
+
+| 🔥🔥: 121 \| 💬: [32](https://news.ycombinator.com/item?id=43196374) \| 🗓️ 2025-02-27
+
+
+<br />
+superglue是一个能够**自动生成代码**的API连接器，允许用户连接任何API或数据源，并以所需格式获取数据。它作为一个**开源代理服务器**，简化了与各种API的集成过程。用户只需定义数据架构并提供基本指令，superglue便会自动生成API配置，处理分页、身份验证和错误重试，同时使用JSONata表达式转换响应数据。其主要功能包括**数据映射**、实时API代理、文件处理和模式验证，适合需要频繁与复杂API交互的开发者。
+
+---
+
+## <a name="14"></a>14. Mozilla的新使用条款与Firefox的直接竞争不符 
 <small>🔗 [quippd.com](https://www.quippd.com/writing/2025/02/26/mozillas-new-terms-of-use-are-out-of-step-with-firefoxs-direct-competition.html): Mozilla's new terms of use are out of step with Firefox's direct competition</small>
 
 
@@ -179,23 +191,11 @@ Mozilla最近更新了Firefox的使用条款，其中一项新条款引发了社
 
 ---
 
-## <a name="14"></a>14. 开源API连接器Superglue：自动生成代码的解决方案 
-<small>🔗 [github.com](https://github.com/superglue-ai/superglue): Show HN: Superglue – open source API connector that writes its own code</small>
-
-
-| 🔥🔥: 113 \| 💬: [30](https://news.ycombinator.com/item?id=43196374) \| 🗓️ 2025-02-27
-
-
-<br />
-superglue是一个能够**自动生成代码**的API连接器，允许用户连接任何API或数据源，并以所需格式获取数据。它作为一个**开源代理服务器**，简化了与各种API的集成过程。用户只需定义数据架构并提供基本指令，superglue便会自动生成API配置，处理分页、身份验证和错误重试，同时使用JSONata表达式转换响应数据。其主要功能包括**数据映射**、实时API代理、文件处理和模式验证，适合需要频繁与复杂API交互的开发者。
-
----
-
 ## <a name="15"></a>15. 奥斯卡演讲的数据分析 
 <small>🔗 [stephenfollows.com](https://stephenfollows.com/p/harvey-weinstein-thanked-more-than-god): A data analysis of speeches at the Oscars</small>
 
 
-| 🔥🔥: 108 \| 💬: [14](https://news.ycombinator.com/item?id=43193714) \| 🗓️ 2025-02-27
+| 🔥🔥: 115 \| 💬: [14](https://news.ycombinator.com/item?id=43193714) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -207,7 +207,7 @@ superglue是一个能够**自动生成代码**的API连接器，允许用户连�
 <small>🔗 [restofworld.org](https://restofworld.org/2025/aws-google-cloud-nigeria-alternatives/): Nigerians are building affordable alternatives to AWS and Google Cloud</small>
 
 
-| 🔥: 97 \| 💬: [40](https://news.ycombinator.com/item?id=43195710) \| 🗓️ 2025-02-27
+| 🔥🔥: 104 \| 💬: [40](https://news.ycombinator.com/item?id=43195710) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -219,7 +219,7 @@ superglue是一个能够**自动生成代码**的API连接器，允许用户连�
 <small>🔗 [wired.com](https://www.wired.com/story/doge-worse-than-you-think/): The Doge Takeover Is Worse Than You Think</small>
 
 
-| 🔥: 81 \| 💬: [39](https://news.ycombinator.com/item?id=43198831) \| 🗓️ 2025-02-27
+| 🔥: 87 \| 💬: [39](https://news.ycombinator.com/item?id=43198831) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -243,7 +243,7 @@ DOGE的影响范围广泛且难以追踪，**信息透明度**低于预期。年
 <small>🔗 [npr.org](https://www.npr.org/2025/02/26/g-s1-50605/conspiracy-theories-politics-family-alternate-realities): A son spent a year trying to save his father from conspiracy theories</small>
 
 
-| 🔥: 74 \| 💬: [68](https://news.ycombinator.com/item?id=43194910) \| 🗓️ 2025-02-27
+| 🔥: 74 \| 💬: [71](https://news.ycombinator.com/item?id=43194910) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -251,7 +251,19 @@ Zach Mack的父亲深陷**阴谋论**，并提出了一项赌注，声称能在�
 
 ---
 
-## <a name="20"></a>20. Instagram算法错误导致用户看到暴力和血腥内容 
+## <a name="20"></a>20. NVIDIA仿真之旅：RIVA 128/NV3架构历史概述 
+<small>🔗 [86box.net](https://86box.net/2025/02/25/riva128-part-1.html): Nvidia emulation journey, part 1: RIVA 128/NV3 architecture history and overview</small>
+
+
+| 🔥: 71 \| 💬: [18](https://news.ycombinator.com/item?id=43198379) \| 🗓️ 2025-02-27
+
+
+<br />
+这篇文章是关于NVIDIA RIVA 128显卡的历史和仿真努力的第一部分。RIVA 128于1997年发布，是NVIDIA的第一款成功产品，支持Direct3D 5.0。尽管作者在仿真方面遇到困难，但希望通过这系列文章深入探讨其架构和驱动程序的关系，最终实现完整的仿真。NVIDIA的早期历史充满挑战，首款产品NV1因设计缺陷未能成功，导致公司几乎破产。
+
+---
+
+## <a name="21"></a>21. Instagram算法错误导致用户看到暴力和血腥内容 
 <small>🔗 [404media.co](https://www.404media.co/instagram-error-turned-reels-into-neverending-scroll-of-murder-gore-and-violence/): Instagram 'Error' Turned Reels into Scroll of Murder, Gore, and Violence</small>
 
 
@@ -263,11 +275,11 @@ Zach Mack的父亲深陷**阴谋论**，并提出了一项赌注，声称能在�
 
 ---
 
-## <a name="21"></a>21. 穆子的磁矩揭示标准模型的漏洞，除非不是 
+## <a name="22"></a>22. 穆子的磁矩揭示标准模型的漏洞，除非不是 
 <small>🔗 [physicsworld.com](https://physicsworld.com/a/the-muons-magnetic-moment-exposes-a-huge-hole-in-the-standard-model-unless-it-doesnt/): Muon's magnetic moment exposes a hole in the Standard Model, unless it doesn't</small>
 
 
-| 🔥: 67 \| 💬: [14](https://news.ycombinator.com/item?id=43195724) \| 🗓️ 2025-02-27
+| 🔥: 68 \| 💬: [16](https://news.ycombinator.com/item?id=43195724) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -275,7 +287,7 @@ Zach Mack的父亲深陷**阴谋论**，并提出了一项赌注，声称能在�
 
 ---
 
-## <a name="22"></a>22. 如何直接在容器中运行GUI应用程序 
+## <a name="23"></a>23. 如何直接在容器中运行GUI应用程序 
 <small>🔗 [github.com](https://github.com/hemashushu/docker-archlinux-gui): How to run GUI applications directly in containers</small>
 
 
@@ -287,7 +299,7 @@ Zach Mack的父亲深陷**阴谋论**，并提出了一项赌注，声称能在�
 
 ---
 
-## <a name="23"></a>23. 安德鲁·泰特和兄弟在旅行禁令解除后离开罗马尼亚前往美国 
+## <a name="24"></a>24. 安德鲁·泰特和兄弟在旅行禁令解除后离开罗马尼亚前往美国 
 <small>🔗 [theguardian.com](https://www.theguardian.com/news/2025/feb/27/andrew-tate-tristan-romania-us): Andrew Tate and brother leave Romania for US after travel ban lifted</small>
 
 
@@ -299,11 +311,11 @@ Zach Mack的父亲深陷**阴谋论**，并提出了一项赌注，声称能在�
 
 ---
 
-## <a name="24"></a>24. 在C语言中实施内存安全性 
+## <a name="25"></a>25. 在C语言中实施内存安全性 
 <small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/event/fosdem-2025-6606-imposing-memory-security-in-c/): Imposing memory security in C [video]</small>
 
 
-| 🔥: 51 \| 💬: [80](https://news.ycombinator.com/item?id=43194538) \| 🗓️ 2025-02-27
+| 🔥: 52 \| 💬: [79](https://news.ycombinator.com/item?id=43194538) \| 🗓️ 2025-02-27
 
 
 <br />
