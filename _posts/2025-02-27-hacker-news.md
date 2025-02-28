@@ -12,7 +12,7 @@ tags:
 1. 欢迎使用Ladybird，一个真正独立的网页浏览器；
 1. 纸牌游戏的灵感；
 1. 将蓝牙设备转变为苹果AirTag，无需root权限；
-1. IBM完成对HashiCorp的收购，打造全面的混合云平台；
+1. Mozilla拥有您通过Firefox输入的信息；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [github.com](https://github.com/electronicarts/CnC_Red_Alert): EA Open Sources Command and Conquer: Red Alert, along with other games</small>
 
 
-| 🔥🔥: 809 \| 💬: [218](https://news.ycombinator.com/item?id=43197131) \| 🗓️ 2025-02-27
+| 🔥🔥: 834 \| 💬: [224](https://news.ycombinator.com/item?id=43197131) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -39,7 +39,7 @@ EA发布了《命令与征服：红色警戒》的源代码，支持Steam Worksh
 <small>🔗 [github.com](https://github.com/LadybirdBrowser/ladybird): Welcome to Ladybird, a truly independent web browser</small>
 
 
-| 🔥🔥: 411 \| 💬: [147](https://news.ycombinator.com/item?id=43200604) \| 🗓️ 2025-02-27
+| 🔥🔥: 452 \| 💬: [161](https://news.ycombinator.com/item?id=43200604) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -51,7 +51,7 @@ Ladybird是一个**真正独立**的网页浏览器，使用基于网络标准�
 <small>🔗 [localthunk.com](https://localthunk.com/blog/solitaire): Solitaire</small>
 
 
-| 🔥🔥: 406 \| 💬: [123](https://news.ycombinator.com/item?id=43195516) \| 🗓️ 2025-02-27
+| 🔥🔥: 412 \| 💬: [127](https://news.ycombinator.com/item?id=43195516) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -63,7 +63,7 @@ Ladybird是一个**真正独立**的网页浏览器，使用基于网络标准�
 <small>🔗 [nroottag.github.io](https://nroottag.github.io/): Turning a Bluetooth device into an Apple AirTag without root privileges</small>
 
 
-| 🔥🔥: 391 \| 💬: [68](https://news.ycombinator.com/item?id=43196207) \| 🗓️ 2025-02-27
+| 🔥🔥: 402 \| 💬: [69](https://news.ycombinator.com/item?id=43196207) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -71,23 +71,11 @@ Ladybird是一个**真正独立**的网页浏览器，使用基于网络标准�
 
 ---
 
-## <a name="5"></a>5. IBM完成对HashiCorp的收购，打造全面的混合云平台 
-<small>🔗 [newsroom.ibm.com](https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform): IBM completes acquisition of HashiCorp</small>
-
-
-| 🔥🔥: 305 \| 💬: [193](https://news.ycombinator.com/item?id=43199256) \| 🗓️ 2025-02-27
-
-
-<br />
-IBM于2025年2月27日宣布完成对HashiCorp的收购，旨在通过HashiCorp的自动化和安全基础设施能力，推动混合云和生成性AI的创新。此举将帮助企业更高效地管理云基础设施，预计到2028年，生成性AI将创造10亿个新的云原生应用。HashiCorp的Terraform和Vault产品将与IBM的Red Hat等技术结合，提升多云管理和安全性，进一步推动IBM在IT自动化和云解决方案领域的战略增长。此次收购的交易价值为64亿美元。
-
----
-
-## <a name="6"></a>6. Mozilla拥有您通过Firefox输入的信息 
+## <a name="5"></a>5. Mozilla拥有您通过Firefox输入的信息 
 <small>🔗 [mozilla.org](https://www.mozilla.org/en-US/about/legal/terms/firefox/): Mozilla owns "information you input through Firefox"</small>
 
 
-| 🔥🔥: 294 \| 💬: [159](https://news.ycombinator.com/item?id=43200065) \| 🗓️ 2025-02-27
+| 🔥🔥: 357 \| 💬: [178](https://news.ycombinator.com/item?id=43200065) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -95,11 +83,23 @@ Firefox是一款由全球社区开发的**免费开源**浏览器。用户在使
 
 ---
 
+## <a name="6"></a>6. IBM完成对HashiCorp的收购，打造全面的混合云平台 
+<small>🔗 [newsroom.ibm.com](https://newsroom.ibm.com/2025-02-27-ibm-completes-acquisition-of-hashicorp,-creates-comprehensive,-end-to-end-hybrid-cloud-platform): IBM completes acquisition of HashiCorp</small>
+
+
+| 🔥🔥: 324 \| 💬: [221](https://news.ycombinator.com/item?id=43199256) \| 🗓️ 2025-02-27
+
+
+<br />
+IBM于2025年2月27日宣布完成对HashiCorp的收购，旨在通过HashiCorp的自动化和安全基础设施能力，推动混合云和生成性AI的创新。此举将帮助企业更高效地管理云基础设施，预计到2028年，生成性AI将创造10亿个新的云原生应用。HashiCorp的Terraform和Vault产品将与IBM的Red Hat等技术结合，提升多云管理和安全性，进一步推动IBM在IT自动化和云解决方案领域的战略增长。此次收购的交易价值为64亿美元。
+
+---
+
 ## <a name="7"></a>7. 一个100美元的DIYμ子成像仪 
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/diy-muon-tomography): A $100 DIY muon tomographer</small>
 
 
-| 🔥🔥: 244 \| 💬: [34](https://news.ycombinator.com/item?id=43195525) \| 🗓️ 2025-02-27
+| 🔥🔥: 249 \| 💬: [34](https://news.ycombinator.com/item?id=43195525) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -111,7 +111,7 @@ Firefox是一款由全球社区开发的**免费开源**浏览器。用户在使
 <small>🔗 [shadaj.me](https://www.shadaj.me/writing/distributed-programming-stalled): Distributed systems programming has stalled</small>
 
 
-| 🔥🔥: 237 \| 💬: [189](https://news.ycombinator.com/item?id=43195702) \| 🗓️ 2025-02-27
+| 🔥🔥: 241 \| 💬: [190](https://news.ycombinator.com/item?id=43195702) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -119,35 +119,11 @@ Firefox是一款由全球社区开发的**免费开源**浏览器。用户在使
 
 ---
 
-## <a name="9"></a>9. 告别 K-9 Mail 
-<small>🔗 [cketti.de](https://cketti.de/2025/02/26/goodbye-k9mail/): Goodbye K-9 Mail</small>
-
-
-| 🔥🔥: 225 \| 💬: [36](https://news.ycombinator.com/item?id=43196436) \| 🗓️ 2025-02-27
-
-
-<br />
-作者辞去了在 MZLA 工作的职位，结束了与 K-9 Mail 和 Thunderbird for Android 的合作。他从 2009 年开始参与 K-9 Mail 的开发，并在此过程中逐渐成为项目的核心成员。尽管工作愉快，但随着时间推移，他意识到需要探索新的方向。现在有团队支持 K-9 Mail，他决定离开，期待未来的个人项目，并可能以志愿者身份回归。感谢所有为 K-9 Mail 和 Thunderbird 贡献的人。
-
----
-
-## <a name="10"></a>10. 卡洛斯·斯利姆取消与埃隆·马斯克的Starlink合作 
-<small>🔗 [mexicodailypost.com](https://mexicodailypost.com/2025/02/24/carlos-slim-orders-to-cancel-his-collaboration-with-elon-musks-starlink/): Carlos Slim cancels his collaboration with Elon Musk's Starlink</small>
-
-
-| 🔥🔥: 212 \| 💬: [183](https://news.ycombinator.com/item?id=43199362) \| 🗓️ 2025-02-27
-
-
-<br />
-墨西哥亿万富翁**卡洛斯·斯利姆**决定取消与**埃隆·马斯克**的Starlink合作，原因是两位商业巨头之间的紧张关系加剧。斯利姆选择投资220亿美元于自己的电信基础设施，以增强市场地位并减少对外部合作伙伴的依赖。此举预计将对马斯克的公司造成重大财务影响。斯利姆的决定在马斯克发布一条暗示斯利姆与有组织犯罪有关的争议推文后迅速做出，进一步加剧了两者的关系。斯利姆的公司将其未来五年的项目转向中国和欧洲的公司，这不仅使马斯克失去了在拉丁美洲的主要合作伙伴，还可能影响美国在该地区的商业存在。
-
----
-
-## <a name="11"></a>11. macOS 使用技巧与窍门 
+## <a name="9"></a>9. macOS 使用技巧与窍门 
 <small>🔗 [saurabhs.org](https://saurabhs.org/macos-tips): macOS Tips and Tricks (2022)</small>
 
 
-| 🔥🔥: 183 \| 💬: [72](https://news.ycombinator.com/item?id=43201417) \| 🗓️ 2025-02-27
+| 🔥🔥: 230 \| 💬: [94](https://news.ycombinator.com/item?id=43201417) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -155,11 +131,35 @@ Firefox是一款由全球社区开发的**免费开源**浏览器。用户在使
 
 ---
 
+## <a name="10"></a>10. 告别 K-9 Mail 
+<small>🔗 [cketti.de](https://cketti.de/2025/02/26/goodbye-k9mail/): Goodbye K-9 Mail</small>
+
+
+| 🔥🔥: 228 \| 💬: [37](https://news.ycombinator.com/item?id=43196436) \| 🗓️ 2025-02-27
+
+
+<br />
+作者辞去了在 MZLA 工作的职位，结束了与 K-9 Mail 和 Thunderbird for Android 的合作。他从 2009 年开始参与 K-9 Mail 的开发，并在此过程中逐渐成为项目的核心成员。尽管工作愉快，但随着时间推移，他意识到需要探索新的方向。现在有团队支持 K-9 Mail，他决定离开，期待未来的个人项目，并可能以志愿者身份回归。感谢所有为 K-9 Mail 和 Thunderbird 贡献的人。
+
+---
+
+## <a name="11"></a>11. 卡洛斯·斯利姆取消与埃隆·马斯克的Starlink合作 
+<small>🔗 [mexicodailypost.com](https://mexicodailypost.com/2025/02/24/carlos-slim-orders-to-cancel-his-collaboration-with-elon-musks-starlink/): Carlos Slim cancels his collaboration with Elon Musk's Starlink</small>
+
+
+| 🔥🔥: 214 \| 💬: [186](https://news.ycombinator.com/item?id=43199362) \| 🗓️ 2025-02-27
+
+
+<br />
+墨西哥亿万富翁**卡洛斯·斯利姆**决定取消与**埃隆·马斯克**的Starlink合作，原因是两位商业巨头之间的紧张关系加剧。斯利姆选择投资220亿美元于自己的电信基础设施，以增强市场地位并减少对外部合作伙伴的依赖。此举预计将对马斯克的公司造成重大财务影响。斯利姆的决定在马斯克发布一条暗示斯利姆与有组织犯罪有关的争议推文后迅速做出，进一步加剧了两者的关系。斯利姆的公司将其未来五年的项目转向中国和欧洲的公司，这不仅使马斯克失去了在拉丁美洲的主要合作伙伴，还可能影响美国在该地区的商业存在。
+
+---
+
 ## <a name="12"></a>12. Mozilla的新使用条款与Firefox的直接竞争不符 
 <small>🔗 [quippd.com](https://www.quippd.com/writing/2025/02/26/mozillas-new-terms-of-use-are-out-of-step-with-firefoxs-direct-competition.html): Mozilla's new terms of use are out of step with Firefox's direct competition</small>
 
 
-| 🔥🔥: 165 \| 💬: [129](https://news.ycombinator.com/item?id=43194536) \| 🗓️ 2025-02-27
+| 🔥🔥: 168 \| 💬: [130](https://news.ycombinator.com/item?id=43194536) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -171,7 +171,7 @@ Mozilla最近更新了Firefox的使用条款，其中一项新条款引发了社
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/27/obituaries/gene-hackman-dead.html): Gene Hackman has died</small>
 
 
-| 🔥🔥: 151 \| 💬: [147](https://news.ycombinator.com/item?id=43192500) \| 🗓️ 2025-02-27
+| 🔥🔥: 151 \| 💬: [148](https://news.ycombinator.com/item?id=43192500) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -183,7 +183,7 @@ Mozilla最近更新了Firefox的使用条款，其中一项新条款引发了社
 <small>🔗 [github.com](https://github.com/superglue-ai/superglue): Show HN: Superglue – open source API connector that writes its own code</small>
 
 
-| 🔥🔥: 148 \| 💬: [43](https://news.ycombinator.com/item?id=43196374) \| 🗓️ 2025-02-27
+| 🔥🔥: 149 \| 💬: [44](https://news.ycombinator.com/item?id=43196374) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -195,7 +195,7 @@ superglue是一个能够**自动生成代码**的API连接器，允许用户连�
 <small>🔗 [stephenfollows.com](https://stephenfollows.com/p/harvey-weinstein-thanked-more-than-god): A data analysis of speeches at the Oscars</small>
 
 
-| 🔥🔥: 141 \| 💬: [14](https://news.ycombinator.com/item?id=43193714) \| 🗓️ 2025-02-27
+| 🔥🔥: 147 \| 💬: [16](https://news.ycombinator.com/item?id=43193714) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -219,7 +219,7 @@ superglue是一个能够**自动生成代码**的API连接器，允许用户连�
 <small>🔗 [github.com](https://github.com/PragmaticMachineLearning/probly): Show HN: Probly – Spreadsheets, Python, and AI in the browser</small>
 
 
-| 🔥🔥: 137 \| 💬: [26](https://news.ycombinator.com/item?id=43194971) \| 🗓️ 2025-02-27
+| 🔥🔥: 138 \| 💬: [26](https://news.ycombinator.com/item?id=43194971) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -227,35 +227,11 @@ Probly 是一款 **AI 驱动的电子表格应用**，结合了电子表格功�
 
 ---
 
-## <a name="18"></a>18. RoboPianist：通过深度强化学习实现灵巧的钢琴演奏 
-<small>🔗 [kzakka.com](https://kzakka.com/robopianist/#demo): RoboPianist: Dexterous Piano Playing with Deep Reinforcement Learning (2023)</small>
-
-
-| 🔥🔥: 128 \| 💬: [51](https://news.ycombinator.com/item?id=43192751) \| 🗓️ 2025-02-27
-
-
-<br />
-本研究展示了如何利用深度强化学习训练**类人机器人手**演奏钢琴，并发布了一个模拟基准和数据集以推动高维控制的发展。我们构建了一个基于**MuJoCo**物理引擎的模拟环境，使用MIDI标准表示音乐片段，并通过引入人类指法标签来改善学习效果。实验结果显示，经过优化的奖励机制和设计，代理在演奏难度逐渐增加的曲目中表现出色，F1分数显著提高。
-
----
-
-## <a name="19"></a>19. 尼日利亚正在构建AWS和谷歌云的可负担替代品 
-<small>🔗 [restofworld.org](https://restofworld.org/2025/aws-google-cloud-nigeria-alternatives/): Nigerians are building affordable alternatives to AWS and Google Cloud</small>
-
-
-| 🔥🔥: 112 \| 💬: [48](https://news.ycombinator.com/item?id=43195710) \| 🗓️ 2025-02-27
-
-
-<br />
-随着奈拉的急剧贬值，尼日利亚公司的云成本大幅上升，促使本地云初创企业如Nebula、Nobus和Galaxy等崛起，提供以奈拉支付的服务。这些公司不仅降低了延迟，还确保数据主权，吸引了许多企业转向本地云解决方案。尽管AWS开始接受奈拉支付，但本地供应商的优势在于数据存储在国内，满足了对数据主权的需求。
-
----
-
-## <a name="20"></a>20. 深度寻求的火飞文件系统 
+## <a name="18"></a>18. 深度寻求的火飞文件系统 
 <small>🔗 [github.com](https://github.com/deepseek-ai/3FS): Fire-Flyer File System from DeepSeek</small>
 
 
-| 🔥🔥: 106 \| 💬: [18](https://news.ycombinator.com/item?id=43200572) \| 🗓️ 2025-02-27
+| 🔥🔥: 131 \| 💬: [24](https://news.ycombinator.com/item?id=43200572) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -263,11 +239,23 @@ Probly 是一款 **AI 驱动的电子表格应用**，结合了电子表格功�
 
 ---
 
-## <a name="21"></a>21. 世界首个实验性癌症治疗为临床试验铺平道路 
+## <a name="19"></a>19. RoboPianist：通过深度强化学习实现灵巧的钢琴演奏 
+<small>🔗 [kzakka.com](https://kzakka.com/robopianist/#demo): RoboPianist: Dexterous Piano Playing with Deep Reinforcement Learning (2023)</small>
+
+
+| 🔥🔥: 129 \| 💬: [51](https://news.ycombinator.com/item?id=43192751) \| 🗓️ 2025-02-27
+
+
+<br />
+本研究展示了如何利用深度强化学习训练**类人机器人手**演奏钢琴，并发布了一个模拟基准和数据集以推动高维控制的发展。我们构建了一个基于**MuJoCo**物理引擎的模拟环境，使用MIDI标准表示音乐片段，并通过引入人类指法标签来改善学习效果。实验结果显示，经过优化的奖励机制和设计，代理在演奏难度逐渐增加的曲目中表现出色，F1分数显著提高。
+
+---
+
+## <a name="20"></a>20. 世界首个实验性癌症治疗为临床试验铺平道路 
 <small>🔗 [wehi.edu.au](https://www.wehi.edu.au/news/world-first-experimental-cancer-treatment-paves-way-for-clinical-trial/): World-first experimental cancer treatment paves way for clinical trial</small>
 
 
-| 🔥🔥: 105 \| 💬: [28](https://news.ycombinator.com/item?id=43199210) \| 🗓️ 2025-02-27
+| 🔥🔥: 118 \| 💬: [29](https://news.ycombinator.com/item?id=43199210) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -275,23 +263,23 @@ Probly 是一款 **AI 驱动的电子表格应用**，结合了电子表格功�
 
 ---
 
-## <a name="22"></a>22. DOGE接管比你想象的更糟糕 
-<small>🔗 [wired.com](https://www.wired.com/story/doge-worse-than-you-think/): The Doge Takeover Is Worse Than You Think</small>
+## <a name="21"></a>21. 尼日利亚正在构建AWS和谷歌云的可负担替代品 
+<small>🔗 [restofworld.org](https://restofworld.org/2025/aws-google-cloud-nigeria-alternatives/): Nigerians are building affordable alternatives to AWS and Google Cloud</small>
 
 
-| 🔥🔥: 104 \| 💬: [42](https://news.ycombinator.com/item?id=43198831) \| 🗓️ 2025-02-27
+| 🔥🔥: 114 \| 💬: [49](https://news.ycombinator.com/item?id=43195710) \| 🗓️ 2025-02-27
 
 
 <br />
-DOGE的影响范围广泛且难以追踪，**信息透明度**低于预期。年轻的技术人员如“Big Balls”已在多个关键机构任职，导致**美国科学研究**和公共服务受到严重削弱。数千名经验丰富的员工被解雇，影响疫苗接种、社会保障和基础设施等领域。尽管有承诺修复错误，但实际情况却是**损害已成定局**，未来的后果可能更加深远。
+随着奈拉的急剧贬值，尼日利亚公司的云成本大幅上升，促使本地云初创企业如Nebula、Nobus和Galaxy等崛起，提供以奈拉支付的服务。这些公司不仅降低了延迟，还确保数据主权，吸引了许多企业转向本地云解决方案。尽管AWS开始接受奈拉支付，但本地供应商的优势在于数据存储在国内，满足了对数据主权的需求。
 
 ---
 
-## <a name="23"></a>23. Postgres作为图数据库：利用PgRouting的潜力 
+## <a name="22"></a>22. Postgres作为图数据库：利用PgRouting的潜力 
 <small>🔗 [supabase.com](https://supabase.com/blog/pgrouting-postgres-graph-database): Postgres as a Graph Database: (Ab)Using PgRouting</small>
 
 
-| 🔥🔥: 103 \| 💬: [22](https://news.ycombinator.com/item?id=43198520) \| 🗓️ 2025-02-27
+| 🔥🔥: 106 \| 💬: [24](https://news.ycombinator.com/item?id=43198520) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -299,11 +287,23 @@ pgRouting是Postgres的一个扩展，主要用于计算两地之间的最短路
 
 ---
 
+## <a name="23"></a>23. DOGE接管比你想象的更糟糕 
+<small>🔗 [wired.com](https://www.wired.com/story/doge-worse-than-you-think/): The Doge Takeover Is Worse Than You Think</small>
+
+
+| 🔥🔥: 105 \| 💬: [43](https://news.ycombinator.com/item?id=43198831) \| 🗓️ 2025-02-27
+
+
+<br />
+DOGE的影响范围广泛且难以追踪，**信息透明度**低于预期。年轻的技术人员如“Big Balls”已在多个关键机构任职，导致**美国科学研究**和公共服务受到严重削弱。数千名经验丰富的员工被解雇，影响疫苗接种、社会保障和基础设施等领域。尽管有承诺修复错误，但实际情况却是**损害已成定局**，未来的后果可能更加深远。
+
+---
+
 ## <a name="24"></a>24. iOS是否支持侧载？不支持 
 <small>🔗 [doesioshavesideloadingyet.com](https://doesioshavesideloadingyet.com/): Does iOS have sideloading yet?</small>
 
 
-| 🔥🔥: 102 \| 💬: [110](https://news.ycombinator.com/item?id=43200524) \| 🗓️ 2025-02-27
+| 🔥🔥: 104 \| 💬: [118](https://news.ycombinator.com/item?id=43200524) \| 🗓️ 2025-02-27
 
 
 <br />
@@ -315,7 +315,7 @@ pgRouting是Postgres的一个扩展，主要用于计算两地之间的最短路
 <small>🔗 [86box.net](https://86box.net/2025/02/25/riva128-part-1.html): Nvidia emulation journey, part 1: RIVA 128/NV3 architecture history and overview</small>
 
 
-| 🔥: 100 \| 💬: [30](https://news.ycombinator.com/item?id=43198379) \| 🗓️ 2025-02-27
+| 🔥🔥: 103 \| 💬: [32](https://news.ycombinator.com/item?id=43198379) \| 🗓️ 2025-02-27
 
 
 <br />
