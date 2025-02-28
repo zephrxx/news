@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [bbc.com](https://www.bbc.com/news/live/c625ex282zzt): Zelensky leaves White House after angry meeting</small>
 
 
-| 🔥🔥: 1363 \| 💬: [1697](https://news.ycombinator.com/item?id=43208973) \| 🗓️ 2025-02-28
+| 🔥🔥: 1611 \| 💬: [2100](https://news.ycombinator.com/item?id=43208973) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/LundukeJournal/status/1895249805338886591): Mozilla deletes promise to never sell Firefox data</small>
 
 
-| 🔥🔥: 822 \| 💬: [1](https://news.ycombinator.com/item?id=43203096) \| 🗓️ 2025-02-28
+| 🔥🔥: 823 \| 💬: [1](https://news.ycombinator.com/item?id=43203096) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -51,7 +51,7 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 <small>🔗 [timsh.org](https://timsh.org/github-scam-investigation-thousands-of-mods-and-cracks-stealing-your-data/): Github scam investigation: Thousands of “mods” and “cracks” stealing data</small>
 
 
-| 🔥🔥: 361 \| 💬: [151](https://news.ycombinator.com/item?id=43203158) \| 🗓️ 2025-02-28
+| 🔥🔥: 362 \| 💬: [151](https://news.ycombinator.com/item?id=43203158) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -63,7 +63,7 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 <small>🔗 [news.ufl.edu](https://news.ufl.edu/2025/02/syrian-violence-epigenetics/): Violence alters human genes for generations, researchers discover</small>
 
 
-| 🔥🔥: 303 \| 💬: [201](https://news.ycombinator.com/item?id=43206722) \| 🗓️ 2025-02-28
+| 🔥🔥: 322 \| 💬: [206](https://news.ycombinator.com/item?id=43206722) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -75,7 +75,7 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 <small>🔗 [josephmate.github.io](https://josephmate.github.io/2025-02-26-3200p-cpu-util/): 3,200% CPU Utilization</small>
 
 
-| 🔥🔥: 258 \| 💬: [106](https://news.ycombinator.com/item?id=43207831) \| 🗓️ 2025-02-28
+| 🔥🔥: 294 \| 💬: [122](https://news.ycombinator.com/item?id=43207831) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -87,7 +87,7 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 <small>🔗 [en.chessbase.com](https://en.chessbase.com/post/boris-spassky-1937-2025): Boris Spassky: 1937–2025</small>
 
 
-| 🔥🔥: 218 \| 💬: [38](https://news.ycombinator.com/item?id=43202982) \| 🗓️ 2025-02-28
+| 🔥🔥: 230 \| 💬: [40](https://news.ycombinator.com/item?id=43202982) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -99,7 +99,7 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 <small>🔗 [kupajo.com](https://kupajo.com/write-to-escape-your-default-setting/): Write to Escape Your Default Setting</small>
 
 
-| 🔥🔥: 208 \| 💬: [61](https://news.ycombinator.com/item?id=43206174) \| 🗓️ 2025-02-28
+| 🔥🔥: 225 \| 💬: [64](https://news.ycombinator.com/item?id=43206174) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -111,7 +111,7 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 <small>🔗 [terinstock.com](https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/): Netboot Windows 11 with iSCSI and iPXE</small>
 
 
-| 🔥🔥: 149 \| 💬: [42](https://news.ycombinator.com/item?id=43204604) \| 🗓️ 2025-02-28
+| 🔥🔥: 153 \| 💬: [43](https://news.ycombinator.com/item?id=43204604) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -123,7 +123,7 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 <small>🔗 [waterfox.net](https://www.waterfox.net/blog/a-comment-on-mozilla-changes/): A Comment on Mozilla's Policy Changes</small>
 
 
-| 🔥🔥: 133 \| 💬: [138](https://news.ycombinator.com/item?id=43204376) \| 🗓️ 2025-02-28
+| 🔥🔥: 134 \| 💬: [138](https://news.ycombinator.com/item?id=43204376) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -135,7 +135,7 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 <small>🔗 [waterfox.net](https://www.waterfox.net/): Waterfox: Fast and Private Web Browser</small>
 
 
-| 🔥🔥: 124 \| 💬: [58](https://news.ycombinator.com/item?id=43205110) \| 🗓️ 2025-02-28
+| 🔥🔥: 125 \| 💬: [58](https://news.ycombinator.com/item?id=43205110) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -143,15 +143,15 @@ Waterfox 默认提供 **内置追踪保护**，并支持 **Oblivious DNS**，使
 
 ---
 
-## <a name="11"></a>11. Starlink将接管24亿美元空中交通控制通信合同 
-<small>🔗 [theverge.com](https://www.theverge.com/news/620777/starlink-verizon-contract-faa-communication-musk): Starlink to take over $2.4B contract to overhaul air traffic control comms</small>
+## <a name="11"></a>11. 如何在数亿人和热门应用上获得代码执行权限 
+<small>🔗 [kibty.town](https://kibty.town/blog/todesktop/): How to gain code execution on hundreds of millions of people and popular apps</small>
 
 
-| 🔥🔥: 110 \| 💬: [133](https://news.ycombinator.com/item?id=43205435) \| 🗓️ 2025-02-28
+| 🔥🔥: 116 \| 💬: [22](https://news.ycombinator.com/item?id=43210858) \| 🗓️ 2025-02-28
 
 
 <br />
-SpaceX旗下的Starlink可能会接管一项价值**24亿美元**的空中交通控制通信系统改造合同，该合同原本授予了Verizon。美国联邦航空局（FAA）的一支SpaceX团队正在推动这一变更，尽管此举引发了**偏袒**和**利益冲突**的指责。Elon Musk声称Verizon的系统存在严重问题，并表示Starlink将以“**零成本**”提供应急服务。FAA尚未正式决定如何处理这一合同变更，且内部官员对此表示反对。Musk的公司长期以来依赖政府合同和补贴，这一事件可能进一步加剧对其影响力的质疑。
+这篇文章讲述了作者在研究**Cursor**时发现的一个安全漏洞。通过**todesktop**的安装程序，作者进行了一系列的调查，发现了一个不安全的**Firebase**集合和一个**S3**上传漏洞。最终，作者成功利用这些漏洞在应用程序中植入了反向 shell，获取了**Firebase**管理员密钥，从而能够推送自动更新到使用todesktop的应用，如**ClickUp**和**Notion**，影响数亿用户。作者与todesktop的团队迅速沟通并修复了漏洞，展现了良好的安全响应。
 
 ---
 
@@ -159,7 +159,7 @@ SpaceX旗下的Starlink可能会接管一项价值**24亿美元**的空中交通
 <small>🔗 [github.com](https://github.com/arjpar/WebShield): WebShield – A new wide-spectrum content blocker for Safari</small>
 
 
-| 🔥🔥: 109 \| 💬: [54](https://news.ycombinator.com/item?id=43204406) \| 🗓️ 2025-02-28
+| 🔥🔥: 111 \| 💬: [59](https://news.ycombinator.com/item?id=43204406) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -167,11 +167,23 @@ WebShield是一款为Safari设计的高效内容拦截器，能够阻止广告�
 
 ---
 
-## <a name="13"></a>13. 微软Skype将于5月5日正式关闭 
+## <a name="13"></a>13. Starlink将接管24亿美元空中交通控制通信合同 
+<small>🔗 [theverge.com](https://www.theverge.com/news/620777/starlink-verizon-contract-faa-communication-musk): Starlink to take over $2.4B contract to overhaul air traffic control comms</small>
+
+
+| 🔥🔥: 111 \| 💬: [136](https://news.ycombinator.com/item?id=43205435) \| 🗓️ 2025-02-28
+
+
+<br />
+SpaceX旗下的Starlink可能会接管一项价值**24亿美元**的空中交通控制通信系统改造合同，该合同原本授予了Verizon。美国联邦航空局（FAA）的一支SpaceX团队正在推动这一变更，尽管此举引发了**偏袒**和**利益冲突**的指责。Elon Musk声称Verizon的系统存在严重问题，并表示Starlink将以“**零成本**”提供应急服务。FAA尚未正式决定如何处理这一合同变更，且内部官员对此表示反对。Musk的公司长期以来依赖政府合同和补贴，这一事件可能进一步加剧对其影响力的质疑。
+
+---
+
+## <a name="14"></a>14. 微软Skype将于5月5日正式关闭 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/02/on-may-5-microsofts-skype-will-shut-down-for-good/): May 5, Microsoft's Skype will shut down for good</small>
 
 
-| 🔥🔥: 108 \| 💬: [81](https://news.ycombinator.com/item?id=43205677) \| 🗓️ 2025-02-28
+| 🔥🔥: 108 \| 💬: [2](https://news.ycombinator.com/item?id=43205677) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -179,7 +191,7 @@ WebShield是一款为Safari设计的高效内容拦截器，能够阻止广告�
 
 ---
 
-## <a name="14"></a>14. AMD RDNA 4 – AMD Radeon RX 9000系列显卡发布 
+## <a name="15"></a>15. AMD RDNA 4 – AMD Radeon RX 9000系列显卡发布 
 <small>🔗 [amd.com](https://www.amd.com/en/newsroom/press-releases/2025-2-28-amd-unveils-next-generation-amd-rdna-4-architectu.html): AMD RDNA 4 – AMD Radeon RX 9000 Series Graphics Cards</small>
 
 
@@ -191,11 +203,11 @@ AMD于2025年2月28日推出了新一代的**AMD RDNA™ 4架构**，并发布�
 
 ---
 
-## <a name="15"></a>15. 美国政府终止所有结核病项目 
+## <a name="16"></a>16. 美国政府终止所有结核病项目 
 <small>🔗 [bsky.app](https://bsky.app/profile/johngreensbluesky.bsky.social/post/3lj6krxlhx22d): All Tuberculosis programs funded by the U.S. Gov were officially terminated</small>
 
 
-| 🔥: 95 \| 💬: [45](https://news.ycombinator.com/item?id=43203248) \| 🗓️ 2025-02-28
+| 🔥: 97 \| 💬: [45](https://news.ycombinator.com/item?id=43203248) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -203,7 +215,7 @@ AMD于2025年2月28日推出了新一代的**AMD RDNA™ 4架构**，并发布�
 
 ---
 
-## <a name="16"></a>16. 美国证券交易委员会宣布“迷因币”不受监管 
+## <a name="17"></a>17. 美国证券交易委员会宣布“迷因币”不受监管 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/27/business/sec-memecoins.html): SEC Declares Memecoins Are Not Subject to Oversight</small>
 
 
@@ -215,11 +227,35 @@ AMD于2025年2月28日推出了新一代的**AMD RDNA™ 4架构**，并发布�
 
 ---
 
-## <a name="17"></a>17. 特朗普与范斯在白宫怒斥泽连斯基 
+## <a name="18"></a>18. 布赖恩·克雷布斯：这个政府完全被妥协 
+<small>🔗 [infosec.exchange](https://infosec.exchange/@briankrebs/114083485241630234): Brian Krebs: This Administration Is Completely Compromised</small>
+
+
+| 🔥: 84 \| 💬: [22](https://news.ycombinator.com/item?id=43211506) \| 🗓️ 2025-02-28
+
+
+<br />
+布赖恩·克雷布斯在文章中指出，当前的**政府**已经完全被**妥协**，这对国家安全和公民自由构成了严重威胁。他强调，必须采取措施来恢复公众对政府的信任，并确保透明度和问责制，以防止未来的腐败和滥用权力。
+
+---
+
+## <a name="19"></a>19. 梅尔狮：时间序列智能的机器学习框架 
+<small>🔗 [github.com](https://github.com/salesforce/Merlion): Merlion: A Machine Learning Framework for Time Series Intelligence</small>
+
+
+| 🔥: 79 \| 💬: [11](https://news.ycombinator.com/item?id=43209064) \| 🗓️ 2025-02-28
+
+
+<br />
+梅尔狮是一个用于时间序列智能的**Python库**，提供了一个端到端的机器学习框架，支持**预测**、**异常检测**和变更点检测等多种任务。它的核心特点包括标准化的数据加载、丰富的模型库、自动化超参数调优和灵活的评估管道，旨在帮助工程师和研究人员快速开发和评估时间序列模型。通过可视化界面和分布式计算支持，梅尔狮能够高效处理工业规模的时间序列应用。
+
+---
+
+## <a name="20"></a>20. 特朗普与范斯在白宫怒斥泽连斯基 
 <small>🔗 [nytimes.com](https://www.nytimes.com/live/2025/02/28/us/trump-news): Trump and Vance Loudly Berate Zelensky in Oval Office</small>
 
 
-| 🔥: 72 \| 💬: [1](https://news.ycombinator.com/item?id=43209151) \| 🗓️ 2025-02-28
+| 🔥: 73 \| 💬: [1](https://news.ycombinator.com/item?id=43209151) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -227,7 +263,19 @@ AMD于2025年2月28日推出了新一代的**AMD RDNA™ 4架构**，并发布�
 
 ---
 
-## <a name="18"></a>18. Meta为Instagram上涌现的暴力和血腥内容道歉 
+## <a name="21"></a>21. 人工智能正在摧毁一些公司，而其他公司却在蓬勃发展——让我们看看数据 
+<small>🔗 [elenaverna.com](https://www.elenaverna.com/p/ai-is-killing-some-companies-yet): AI is killing some companies, yet others are thriving – let's look at the data</small>
+
+
+| 🔥: 68 \| 💬: [79](https://news.ycombinator.com/item?id=43206491) \| 🗓️ 2025-02-28
+
+
+<br />
+人工智能正在改变主要内容网站的商业模式，像**WebMD**、**Quora**和**Chegg**等平台因AI搜索和聊天机器人而流失流量。用户不再需要点击页面，AI能迅速提供答案。尽管面临挑战，**Reddit**和**Wikipedia**等平台仍在增长，显示出用户对真实内容和社区的偏好。
+
+---
+
+## <a name="22"></a>22. Meta为Instagram上涌现的暴力和血腥内容道歉 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/feb/28/meta-apologises-over-flood-of-gore-violence-and-dead-bodies-on-instagram): Meta apologises over flood of gore, violence and dead bodies on Instagram</small>
 
 
@@ -239,35 +287,11 @@ Meta公司因Instagram用户在Reels功能中遭遇大量**暴力**、**血腥**
 
 ---
 
-## <a name="19"></a>19. 梅尔狮：时间序列智能的机器学习框架 
-<small>🔗 [github.com](https://github.com/salesforce/Merlion): Merlion: A Machine Learning Framework for Time Series Intelligence</small>
-
-
-| 🔥: 66 \| 💬: [8](https://news.ycombinator.com/item?id=43209064) \| 🗓️ 2025-02-28
-
-
-<br />
-梅尔狮是一个用于时间序列智能的**Python库**，提供了一个端到端的机器学习框架，支持**预测**、**异常检测**和变更点检测等多种任务。它的核心特点包括标准化的数据加载、丰富的模型库、自动化超参数调优和灵活的评估管道，旨在帮助工程师和研究人员快速开发和评估时间序列模型。通过可视化界面和分布式计算支持，梅尔狮能够高效处理工业规模的时间序列应用。
-
----
-
-## <a name="20"></a>20. 人工智能正在摧毁一些公司，而其他公司却在蓬勃发展——让我们看看数据 
-<small>🔗 [elenaverna.com](https://www.elenaverna.com/p/ai-is-killing-some-companies-yet): AI is killing some companies, yet others are thriving – let's look at the data</small>
-
-
-| 🔥: 57 \| 💬: [68](https://news.ycombinator.com/item?id=43206491) \| 🗓️ 2025-02-28
-
-
-<br />
-人工智能正在改变主要内容网站的商业模式，像**WebMD**、**Quora**和**Chegg**等平台因AI搜索和聊天机器人而流失流量。用户不再需要点击页面，AI能迅速提供答案。尽管面临挑战，**Reddit**和**Wikipedia**等平台仍在增长，显示出用户对真实内容和社区的偏好。
-
----
-
-## <a name="21"></a>21. 不，我们绝对不准备分叉Firefox 
+## <a name="23"></a>23. 不，我们绝对不准备分叉Firefox 
 <small>🔗 [codeberg.org](https://codeberg.org/librewolf/issues/issues/2252#issuecomment-2886286): "No, we are absolutely not prepared to [fork Firefox]"</small>
 
 
-| 🔥: 54 \| 💬: [9](https://news.ycombinator.com/item?id=43210569) \| 🗓️ 2025-02-28
+| 🔥: 55 \| 💬: [10](https://news.ycombinator.com/item?id=43210569) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -275,11 +299,11 @@ LibreWolf是否准备在长期内分叉Firefox，特别是在Mozilla持续做出
 
 ---
 
-## <a name="22"></a>22. 这届政府的破坏力即将显现 
+## <a name="24"></a>24. 这届政府的破坏力即将显现 
 <small>🔗 [thehandbasket.co](https://www.thehandbasket.co/p/government-destruction-ssa-doge): The full force of this administration's destruction is about to hit</small>
 
 
-| 🔥: 44 \| 💬: [15](https://news.ycombinator.com/item?id=43207491) \| 🗓️ 2025-02-28
+| 🔥: 47 \| 💬: [15](https://news.ycombinator.com/item?id=43207491) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -287,26 +311,14 @@ LibreWolf是否准备在长期内分叉Firefox，特别是在Mozilla持续做出
 
 ---
 
-## <a name="23"></a>23. 美国气候机构裁员数百人，最新削减措施 
+## <a name="25"></a>25. 美国气候机构裁员数百人，最新削减措施 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/cdell8n14x2o): Hundreds in US climate agency fired in latest cuts</small>
 
 
-| 🔥: 39 \| 💬: [40](https://news.ycombinator.com/item?id=43207338) \| 🗓️ 2025-02-28
+| 🔥: 39 \| 💬: [41](https://news.ycombinator.com/item?id=43207338) \| 🗓️ 2025-02-28
 
 
 <br />
 美国国家海洋和大气管理局（NOAA）裁员约880人，进一步削减联邦工作人员。此举是在**特朗普政府**的推动下进行的，旨在降低开支。**气候科学家**和气象预报员受到影响，NOAA的工作对公众安全至关重要，提供天气预报和紧急信息。加州国会议员**贾里德·哈夫曼**对此表示担忧，认为这将影响公众的安全和应对极端天气的能力。
-
----
-
-## <a name="24"></a>24. 布赖恩·克雷布斯：这个政府完全被妥协 
-<small>🔗 [infosec.exchange](https://infosec.exchange/@briankrebs/114083485241630234): Brian Krebs: This Administration Is Completely Compromised</small>
-
-
-| 🔥: 39 \| 💬: [6](https://news.ycombinator.com/item?id=43211506) \| 🗓️ 2025-02-28
-
-
-<br />
-布赖恩·克雷布斯在文章中指出，当前的**政府**已经完全被**妥协**，这对国家安全和公民自由构成了严重威胁。他强调，必须采取措施来恢复公众对政府的信任，并确保透明度和问责制，以防止未来的腐败和滥用权力。
 
 ---
