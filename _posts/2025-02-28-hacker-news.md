@@ -27,7 +27,7 @@ tags:
 <small>🔗 [bbc.com](https://www.bbc.com/news/live/c625ex282zzt): Zelensky leaves White House after angry meeting</small>
 
 
-| 🔥🔥: 2181 \| 💬: [3186](https://news.ycombinator.com/item?id=43208973) \| 🗓️ 2025-02-28
+| 🔥🔥: 2239 \| 💬: [3285](https://news.ycombinator.com/item?id=43208973) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/LundukeJournal/status/1895249805338886591): Mozilla deletes promise to never sell Firefox data</small>
 
 
-| 🔥🔥: 836 \| 💬: [5](https://news.ycombinator.com/item?id=43203096) \| 🗓️ 2025-02-28
+| 🔥🔥: 838 \| 💬: [6](https://news.ycombinator.com/item?id=43203096) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -51,7 +51,7 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 <small>🔗 [kibty.town](https://kibty.town/blog/todesktop/): How to gain code execution on hundreds of millions of people and popular apps</small>
 
 
-| 🔥🔥: 517 \| 💬: [121](https://news.ycombinator.com/item?id=43210858) \| 🗓️ 2025-02-28
+| 🔥🔥: 559 \| 💬: [130](https://news.ycombinator.com/item?id=43210858) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -63,7 +63,7 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 <small>🔗 [news.ufl.edu](https://news.ufl.edu/2025/02/syrian-violence-epigenetics/): Violence alters human genes for generations, researchers discover</small>
 
 
-| 🔥🔥: 371 \| 💬: [221](https://news.ycombinator.com/item?id=43206722) \| 🗓️ 2025-02-28
+| 🔥🔥: 375 \| 💬: [222](https://news.ycombinator.com/item?id=43206722) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -75,7 +75,7 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 <small>🔗 [timsh.org](https://timsh.org/github-scam-investigation-thousands-of-mods-and-cracks-stealing-your-data/): Github scam investigation: Thousands of “mods” and “cracks” stealing data</small>
 
 
-| 🔥🔥: 369 \| 💬: [153](https://news.ycombinator.com/item?id=43203158) \| 🗓️ 2025-02-28
+| 🔥🔥: 369 \| 💬: [154](https://news.ycombinator.com/item?id=43203158) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -87,7 +87,7 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 <small>🔗 [josephmate.github.io](https://josephmate.github.io/2025-02-26-3200p-cpu-util/): 3,200% CPU Utilization</small>
 
 
-| 🔥🔥: 363 \| 💬: [156](https://news.ycombinator.com/item?id=43207831) \| 🗓️ 2025-02-28
+| 🔥🔥: 368 \| 💬: [159](https://news.ycombinator.com/item?id=43207831) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -99,7 +99,7 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 <small>🔗 [kupajo.com](https://kupajo.com/write-to-escape-your-default-setting/): Write to Escape Your Default Setting</small>
 
 
-| 🔥🔥: 276 \| 💬: [70](https://news.ycombinator.com/item?id=43206174) \| 🗓️ 2025-02-28
+| 🔥🔥: 281 \| 💬: [71](https://news.ycombinator.com/item?id=43206174) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -111,7 +111,7 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 <small>🔗 [en.chessbase.com](https://en.chessbase.com/post/boris-spassky-1937-2025): Boris Spassky: 1937–2025</small>
 
 
-| 🔥🔥: 265 \| 💬: [48](https://news.ycombinator.com/item?id=43202982) \| 🗓️ 2025-02-28
+| 🔥🔥: 268 \| 💬: [48](https://news.ycombinator.com/item?id=43202982) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -119,23 +119,11 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 
 ---
 
-## <a name="9"></a>9. 继承的重要性日益上升，几乎与工作同等重要 
-<small>🔗 [economist.com](https://www.economist.com/leaders/2025/02/27/inheriting-is-becoming-nearly-as-important-as-working): Inheriting is becoming nearly as important as working</small>
-
-
-| 🔥🔥: 239 \| 💬: [311](https://news.ycombinator.com/item?id=43213143) \| 🗓️ 2025-02-28
-
-
-<br />
-在富裕国家，**继承财富**的影响力正在上升，这对**资本主义**和社会构成了威胁。过去，努力工作是成功的关键，但如今，越来越多的财富被传承给婴儿潮一代，改变了财富积累的游戏规则。这种趋势可能会导致社会的不平等加剧。
-
----
-
-## <a name="10"></a>10. 关于Mozilla Firefox使用条款的更新 
+## <a name="9"></a>9. 关于Mozilla Firefox使用条款的更新 
 <small>🔗 [blog.mozilla.org](https://blog.mozilla.org/en/products/firefox/update-on-terms-of-use/): An update on Mozilla's terms of use for Firefox</small>
 
 
-| 🔥🔥: 232 \| 💬: [121](https://news.ycombinator.com/item?id=43213612) \| 🗓️ 2025-02-28
+| 🔥🔥: 255 \| 💬: [126](https://news.ycombinator.com/item?id=43213612) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -143,11 +131,23 @@ Mozilla于2025年2月28日宣布更新Firefox的使用条款和隐私声明，�
 
 ---
 
+## <a name="10"></a>10. 继承的重要性日益上升，几乎与工作同等重要 
+<small>🔗 [economist.com](https://www.economist.com/leaders/2025/02/27/inheriting-is-becoming-nearly-as-important-as-working): Inheriting is becoming nearly as important as working</small>
+
+
+| 🔥🔥: 243 \| 💬: [319](https://news.ycombinator.com/item?id=43213143) \| 🗓️ 2025-02-28
+
+
+<br />
+在富裕国家，**继承财富**的影响力正在上升，这对**资本主义**和社会构成了威胁。过去，努力工作是成功的关键，但如今，越来越多的财富被传承给婴儿潮一代，改变了财富积累的游戏规则。这种趋势可能会导致社会的不平等加剧。
+
+---
+
 ## <a name="11"></a>11. 通过iSCSI和iPXE网络启动Windows 11 
 <small>🔗 [terinstock.com](https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/): Netboot Windows 11 with iSCSI and iPXE</small>
 
 
-| 🔥🔥: 172 \| 💬: [45](https://news.ycombinator.com/item?id=43204604) \| 🗓️ 2025-02-28
+| 🔥🔥: 173 \| 💬: [45](https://news.ycombinator.com/item?id=43204604) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -159,7 +159,7 @@ Mozilla于2025年2月28日宣布更新Firefox的使用条款和隐私声明，�
 <small>🔗 [garymarcus.substack.com](https://garymarcus.substack.com/p/hot-take-gpt-45-is-a-nothing-burger): Hot take: GPT 4.5 is a nothing burger</small>
 
 
-| 🔥🔥: 156 \| 💬: [171](https://news.ycombinator.com/item?id=43203543) \| 🗓️ 2025-02-28
+| 🔥🔥: 165 \| 💬: [182](https://news.ycombinator.com/item?id=43203543) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -167,27 +167,27 @@ GPT 4.5被认为是一个**“毫无实质意义的产品”**，与之前的版
 
 ---
 
-## <a name="13"></a>13. 布赖恩·克雷布斯：这个政府完全被妥协 
-<small>🔗 [infosec.exchange](https://infosec.exchange/@briankrebs/114083485241630234): Brian Krebs: This Administration Is Completely Compromised</small>
-
-
-| 🔥🔥: 143 \| 💬: [35](https://news.ycombinator.com/item?id=43211506) \| 🗓️ 2025-02-28
-
-
-<br />
-布赖恩·克雷布斯在文章中指出，当前的**政府**已经完全被**妥协**，这对国家安全和公民自由构成了严重威胁。他强调，必须采取措施来恢复公众对政府的信任，并确保透明度和问责制，以防止未来的腐败和滥用权力。
-
----
-
-## <a name="14"></a>14. 人工智能正在摧毁一些公司，而其他公司却在蓬勃发展——让我们看看数据 
+## <a name="13"></a>13. 人工智能正在摧毁一些公司，而其他公司却在蓬勃发展——让我们看看数据 
 <small>🔗 [elenaverna.com](https://www.elenaverna.com/p/ai-is-killing-some-companies-yet): AI is killing some companies, yet others are thriving – let's look at the data</small>
 
 
-| 🔥🔥: 140 \| 💬: [138](https://news.ycombinator.com/item?id=43206491) \| 🗓️ 2025-02-28
+| 🔥🔥: 148 \| 💬: [146](https://news.ycombinator.com/item?id=43206491) \| 🗓️ 2025-02-28
 
 
 <br />
 人工智能正在改变主要内容网站的商业模式，像**WebMD**、**Quora**和**Chegg**等平台因AI搜索和聊天机器人而流失流量。用户不再需要点击页面，AI能迅速提供答案。尽管面临挑战，**Reddit**和**Wikipedia**等平台仍在增长，显示出用户对真实内容和社区的偏好。
+
+---
+
+## <a name="14"></a>14. 布赖恩·克雷布斯：这个政府完全被妥协 
+<small>🔗 [infosec.exchange](https://infosec.exchange/@briankrebs/114083485241630234): Brian Krebs: This Administration Is Completely Compromised</small>
+
+
+| 🔥🔥: 145 \| 💬: [35](https://news.ycombinator.com/item?id=43211506) \| 🗓️ 2025-02-28
+
+
+<br />
+布赖恩·克雷布斯在文章中指出，当前的**政府**已经完全被**妥协**，这对国家安全和公民自由构成了严重威胁。他强调，必须采取措施来恢复公众对政府的信任，并确保透明度和问责制，以防止未来的腐败和滥用权力。
 
 ---
 
@@ -215,35 +215,11 @@ Waterfox 默认提供 **内置追踪保护**，并支持 **Oblivious DNS**，使
 
 ---
 
-## <a name="17"></a>17. WebShield – Safari的全新广谱内容拦截器 
-<small>🔗 [github.com](https://github.com/arjpar/WebShield): WebShield – A new wide-spectrum content blocker for Safari</small>
-
-
-| 🔥🔥: 124 \| 💬: [66](https://news.ycombinator.com/item?id=43204406) \| 🗓️ 2025-02-28
-
-
-<br />
-WebShield是一款为Safari设计的高效内容拦截器，能够阻止广告、追踪器和Cookie通知。它支持自定义过滤列表，并利用Safari的内容拦截API。该项目目前处于测试阶段，依赖用户捐赠以维持独立性，确保无“可接受广告”政策。WebShield致力于为用户提供隐私保护和性能优化的浏览体验。
-
----
-
-## <a name="18"></a>18. 住房理论的全能解答 
-<small>🔗 [worksinprogress.co](https://worksinprogress.co/issue/the-housing-theory-of-everything/): The Housing Theory of Everything (2021)</small>
-
-
-| 🔥🔥: 122 \| 💬: [92](https://news.ycombinator.com/item?id=43214263) \| 🗓️ 2025-02-28
-
-
-<br />
-当前西方世界面临许多问题，如**经济增长缓慢**、**气候变化**和**经济不平等**，而这些问题的根源在于住房短缺。住房价格高昂限制了人们的生活选择，影响了工作和家庭规模，导致生产力下降。解决住房问题不仅能改善生活质量，还能推动经济增长和创新，缩小社会不平等。
-
----
-
-## <a name="19"></a>19. 为什么建造喷气发动机如此困难 
+## <a name="17"></a>17. 为什么建造喷气发动机如此困难 
 <small>🔗 [construction-physics.com](https://www.construction-physics.com/p/why-its-so-hard-to-build-a-jet-engine): Why it's so hard to build a jet engine</small>
 
 
-| 🔥🔥: 118 \| 💬: [33](https://news.ycombinator.com/item?id=43212952) \| 🗓️ 2025-02-28
+| 🔥🔥: 128 \| 💬: [33](https://news.ycombinator.com/item?id=43212952) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -251,7 +227,55 @@ WebShield是一款为Safari设计的高效内容拦截器，能够阻止广告�
 
 ---
 
-## <a name="20"></a>20. Starlink将接管24亿美元空中交通控制通信合同 
+## <a name="18"></a>18. 住房理论的全能解答 
+<small>🔗 [worksinprogress.co](https://worksinprogress.co/issue/the-housing-theory-of-everything/): The Housing Theory of Everything (2021)</small>
+
+
+| 🔥🔥: 128 \| 💬: [95](https://news.ycombinator.com/item?id=43214263) \| 🗓️ 2025-02-28
+
+
+<br />
+当前西方世界面临许多问题，如**经济增长缓慢**、**气候变化**和**经济不平等**，而这些问题的根源在于住房短缺。住房价格高昂限制了人们的生活选择，影响了工作和家庭规模，导致生产力下降。解决住房问题不仅能改善生活质量，还能推动经济增长和创新，缩小社会不平等。
+
+---
+
+## <a name="19"></a>19. WebShield – Safari的全新广谱内容拦截器 
+<small>🔗 [github.com](https://github.com/arjpar/WebShield): WebShield – A new wide-spectrum content blocker for Safari</small>
+
+
+| 🔥🔥: 127 \| 💬: [66](https://news.ycombinator.com/item?id=43204406) \| 🗓️ 2025-02-28
+
+
+<br />
+WebShield是一款为Safari设计的高效内容拦截器，能够阻止广告、追踪器和Cookie通知。它支持自定义过滤列表，并利用Safari的内容拦截API。该项目目前处于测试阶段，依赖用户捐赠以维持独立性，确保无“可接受广告”政策。WebShield致力于为用户提供隐私保护和性能优化的浏览体验。
+
+---
+
+## <a name="20"></a>20. 梅尔狮：时间序列智能的机器学习框架 
+<small>🔗 [github.com](https://github.com/salesforce/Merlion): Merlion: A Machine Learning Framework for Time Series Intelligence</small>
+
+
+| 🔥🔥: 121 \| 💬: [19](https://news.ycombinator.com/item?id=43209064) \| 🗓️ 2025-02-28
+
+
+<br />
+梅尔狮是一个用于时间序列智能的**Python库**，提供了一个端到端的机器学习框架，支持**预测**、**异常检测**和变更点检测等多种任务。它的核心特点包括标准化的数据加载、丰富的模型库、自动化超参数调优和灵活的评估管道，旨在帮助工程师和研究人员快速开发和评估时间序列模型。通过可视化界面和分布式计算支持，梅尔狮能够高效处理工业规模的时间序列应用。
+
+---
+
+## <a name="21"></a>21. 自建 Firefox 同步服务器的指南 
+<small>🔗 [blog.diego.dev](https://blog.diego.dev/posts/firefox-sync-server/): Self-Hosting a Firefox Sync Server</small>
+
+
+| 🔥🔥: 118 \| 💬: [21](https://news.ycombinator.com/item?id=43214294) \| 🗓️ 2025-02-28
+
+
+<br />
+在从 Firefox 切换到 LibreWolf 后，作者决定自建一个 Firefox 同步服务器。经过一番探索，作者发现 Mozilla 的同步服务器仓库已不再维护，转而选择了基于 Rust 的 **syncstorage-rs**。尽管在使用 **Docker** 部署过程中遇到了一些文档混乱和配置挑战，最终通过社区提供的 **syncstorage-rs-docker** 解决方案成功搭建了服务器。设置过程中，作者强调了数据库持久性和存储空间的问题，并分享了自己的经验和建议，帮助其他用户避免类似的困难。
+
+---
+
+## <a name="22"></a>22. Starlink将接管24亿美元空中交通控制通信合同 
 <small>🔗 [theverge.com](https://www.theverge.com/news/620777/starlink-verizon-contract-faa-communication-musk): Starlink to take over $2.4B contract to overhaul air traffic control comms</small>
 
 
@@ -263,19 +287,7 @@ SpaceX旗下的Starlink可能会接管一项价值**24亿美元**的空中交通
 
 ---
 
-## <a name="21"></a>21. 梅尔狮：时间序列智能的机器学习框架 
-<small>🔗 [github.com](https://github.com/salesforce/Merlion): Merlion: A Machine Learning Framework for Time Series Intelligence</small>
-
-
-| 🔥🔥: 113 \| 💬: [20](https://news.ycombinator.com/item?id=43209064) \| 🗓️ 2025-02-28
-
-
-<br />
-梅尔狮是一个用于时间序列智能的**Python库**，提供了一个端到端的机器学习框架，支持**预测**、**异常检测**和变更点检测等多种任务。它的核心特点包括标准化的数据加载、丰富的模型库、自动化超参数调优和灵活的评估管道，旨在帮助工程师和研究人员快速开发和评估时间序列模型。通过可视化界面和分布式计算支持，梅尔狮能够高效处理工业规模的时间序列应用。
-
----
-
-## <a name="22"></a>22. 微软Skype将于5月5日正式关闭 
+## <a name="23"></a>23. 微软Skype将于5月5日正式关闭 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/02/on-may-5-microsofts-skype-will-shut-down-for-good/): May 5, Microsoft's Skype will shut down for good</small>
 
 
@@ -287,7 +299,7 @@ SpaceX旗下的Starlink可能会接管一项价值**24亿美元**的空中交通
 
 ---
 
-## <a name="23"></a>23. 美国政府终止所有结核病项目 
+## <a name="24"></a>24. 美国政府终止所有结核病项目 
 <small>🔗 [bsky.app](https://bsky.app/profile/johngreensbluesky.bsky.social/post/3lj6krxlhx22d): All Tuberculosis programs funded by the U.S. Gov were officially terminated</small>
 
 
@@ -299,7 +311,7 @@ SpaceX旗下的Starlink可能会接管一项价值**24亿美元**的空中交通
 
 ---
 
-## <a name="24"></a>24. AMD RDNA 4 – AMD Radeon RX 9000系列显卡发布 
+## <a name="25"></a>25. AMD RDNA 4 – AMD Radeon RX 9000系列显卡发布 
 <small>🔗 [amd.com](https://www.amd.com/en/newsroom/press-releases/2025-2-28-amd-unveils-next-generation-amd-rdna-4-architectu.html): AMD RDNA 4 – AMD Radeon RX 9000 Series Graphics Cards</small>
 
 
@@ -308,17 +320,5 @@ SpaceX旗下的Starlink可能会接管一项价值**24亿美元**的空中交通
 
 <br />
 AMD于2025年2月28日推出了新一代的**AMD RDNA™ 4架构**，并发布了**Radeon™ RX 9000系列显卡**，包括RX 9070 XT和RX 9070。这些显卡配备16GB内存，具备改进的光线追踪加速器和强大的AI加速器，旨在提供高质量的游戏体验。RX 9000系列显卡在1440p游戏中相比前代产品性能提升超过20%，并支持最新的显示技术，确保玩家在未来的游戏中也能享受卓越的性能和视觉效果。
-
----
-
-## <a name="25"></a>25. 美国证券交易委员会宣布“迷因币”不受监管 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/27/business/sec-memecoins.html): SEC Declares Memecoins Are Not Subject to Oversight</small>
-
-
-| 🔥: 98 \| 💬: [112](https://news.ycombinator.com/item?id=43204958) \| 🗓️ 2025-02-28
-
-
-<br />
-美国证券交易委员会（S.E.C.）近日表示，**迷因币**——一种新奇的数字资产——不被视为证券，因此不受监管。这一决定可能对**加密货币行业**产生重大影响，尤其是前总统特朗普在就职前推出的$Trump迷因币。尽管S.E.C.承认投资者面临风险，但强调对迷因币的欺诈行为仍可由其他联邦或州机构进行执法。S.E.C.的这一政策与特朗普在竞选期间承诺的轻监管立场一致，同时也标志着对前主席**加里·根斯勒**监管政策的转变。
 
 ---
