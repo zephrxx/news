@@ -27,7 +27,7 @@ tags:
 <small>🔗 [bbc.com](https://www.bbc.com/news/live/c625ex282zzt): Zelensky leaves White House after angry meeting</small>
 
 
-| 🔥🔥: 1611 \| 💬: [2100](https://news.ycombinator.com/item?id=43208973) \| 🗓️ 2025-02-28
+| 🔥🔥: 1770 \| 💬: [2436](https://news.ycombinator.com/item?id=43208973) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/LundukeJournal/status/1895249805338886591): Mozilla deletes promise to never sell Firefox data</small>
 
 
-| 🔥🔥: 823 \| 💬: [1](https://news.ycombinator.com/item?id=43203096) \| 🗓️ 2025-02-28
+| 🔥🔥: 825 \| 💬: [1](https://news.ycombinator.com/item?id=43203096) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -63,7 +63,7 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 <small>🔗 [news.ufl.edu](https://news.ufl.edu/2025/02/syrian-violence-epigenetics/): Violence alters human genes for generations, researchers discover</small>
 
 
-| 🔥🔥: 322 \| 💬: [206](https://news.ycombinator.com/item?id=43206722) \| 🗓️ 2025-02-28
+| 🔥🔥: 332 \| 💬: [214](https://news.ycombinator.com/item?id=43206722) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -75,7 +75,7 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 <small>🔗 [josephmate.github.io](https://josephmate.github.io/2025-02-26-3200p-cpu-util/): 3,200% CPU Utilization</small>
 
 
-| 🔥🔥: 294 \| 💬: [122](https://news.ycombinator.com/item?id=43207831) \| 🗓️ 2025-02-28
+| 🔥🔥: 310 \| 💬: [134](https://news.ycombinator.com/item?id=43207831) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -87,7 +87,7 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 <small>🔗 [en.chessbase.com](https://en.chessbase.com/post/boris-spassky-1937-2025): Boris Spassky: 1937–2025</small>
 
 
-| 🔥🔥: 230 \| 💬: [40](https://news.ycombinator.com/item?id=43202982) \| 🗓️ 2025-02-28
+| 🔥🔥: 238 \| 💬: [41](https://news.ycombinator.com/item?id=43202982) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -99,7 +99,7 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 <small>🔗 [kupajo.com](https://kupajo.com/write-to-escape-your-default-setting/): Write to Escape Your Default Setting</small>
 
 
-| 🔥🔥: 225 \| 💬: [64](https://news.ycombinator.com/item?id=43206174) \| 🗓️ 2025-02-28
+| 🔥🔥: 238 \| 💬: [65](https://news.ycombinator.com/item?id=43206174) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -107,47 +107,11 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 
 ---
 
-## <a name="8"></a>8. 通过iSCSI和iPXE网络启动Windows 11 
-<small>🔗 [terinstock.com](https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/): Netboot Windows 11 with iSCSI and iPXE</small>
-
-
-| 🔥🔥: 153 \| 💬: [43](https://news.ycombinator.com/item?id=43204604) \| 🗓️ 2025-02-28
-
-
-<br />
-这篇文章探讨了如何在物理硬件上通过NAS导出磁盘来安装和启动Windows 11。作者主要使用Linux，但由于某些游戏仅支持Windows，决定将Windows安装转移到NAS上。使用**iPXE**和**iSCSI**，作者成功地从网络启动Windows 11，尽管遇到了一些驱动程序问题。通过创建包含网络驱动的**WinPE**映像，最终顺利安装Windows 11，并实现了良好的游戏体验。
-
----
-
-## <a name="9"></a>9. 对Mozilla政策变更的评论 
-<small>🔗 [waterfox.net](https://www.waterfox.net/blog/a-comment-on-mozilla-changes/): A Comment on Mozilla's Policy Changes</small>
-
-
-| 🔥🔥: 134 \| 💬: [138](https://news.ycombinator.com/item?id=43204376) \| 🗓️ 2025-02-28
-
-
-<br />
-关于Mozilla最近的政策更新，社区反应不一，许多人对潜在的隐私影响表示担忧。Mozilla在公告中澄清，所需的许可证并不意味着对用户数据的所有权。此事件反映出Mozilla与用户之间的沟通不畅，缺乏必要的背景信息。相比之下，Waterfox在隐私政策上保持一致，强调透明度和用户控制。浏览器生态中存在不同的隐私策略，但缺乏正式治理结构的项目可能让用户面临风险。Waterfox通过明确的政策和法律框架，建立了用户信任，确保用户的隐私得到尊重。
-
----
-
-## <a name="10"></a>10. Waterfox：快速且私密的网页浏览器 
-<small>🔗 [waterfox.net](https://www.waterfox.net/): Waterfox: Fast and Private Web Browser</small>
-
-
-| 🔥🔥: 125 \| 💬: [58](https://news.ycombinator.com/item?id=43205110) \| 🗓️ 2025-02-28
-
-
-<br />
-Waterfox 默认提供 **内置追踪保护**，并支持 **Oblivious DNS**，使您的在线活动更难被 ISP 跟踪。用户可以轻松使用 **私密标签**进行匿名浏览，而 **容器标签**则帮助组织不同类型的浏览。与其他浏览器不同，Waterfox 不会收集用户数据，确保您的隐私受到尊重。下载 Waterfox，享受安全的上网体验。
-
----
-
-## <a name="11"></a>11. 如何在数亿人和热门应用上获得代码执行权限 
+## <a name="8"></a>8. 如何在数亿人和热门应用上获得代码执行权限 
 <small>🔗 [kibty.town](https://kibty.town/blog/todesktop/): How to gain code execution on hundreds of millions of people and popular apps</small>
 
 
-| 🔥🔥: 116 \| 💬: [22](https://news.ycombinator.com/item?id=43210858) \| 🗓️ 2025-02-28
+| 🔥🔥: 208 \| 💬: [32](https://news.ycombinator.com/item?id=43210858) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -155,11 +119,47 @@ Waterfox 默认提供 **内置追踪保护**，并支持 **Oblivious DNS**，使
 
 ---
 
+## <a name="9"></a>9. 通过iSCSI和iPXE网络启动Windows 11 
+<small>🔗 [terinstock.com](https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/): Netboot Windows 11 with iSCSI and iPXE</small>
+
+
+| 🔥🔥: 155 \| 💬: [43](https://news.ycombinator.com/item?id=43204604) \| 🗓️ 2025-02-28
+
+
+<br />
+这篇文章探讨了如何在物理硬件上通过NAS导出磁盘来安装和启动Windows 11。作者主要使用Linux，但由于某些游戏仅支持Windows，决定将Windows安装转移到NAS上。使用**iPXE**和**iSCSI**，作者成功地从网络启动Windows 11，尽管遇到了一些驱动程序问题。通过创建包含网络驱动的**WinPE**映像，最终顺利安装Windows 11，并实现了良好的游戏体验。
+
+---
+
+## <a name="10"></a>10. 对Mozilla政策变更的评论 
+<small>🔗 [waterfox.net](https://www.waterfox.net/blog/a-comment-on-mozilla-changes/): A Comment on Mozilla's Policy Changes</small>
+
+
+| 🔥🔥: 134 \| 💬: [143](https://news.ycombinator.com/item?id=43204376) \| 🗓️ 2025-02-28
+
+
+<br />
+关于Mozilla最近的政策更新，社区反应不一，许多人对潜在的隐私影响表示担忧。Mozilla在公告中澄清，所需的许可证并不意味着对用户数据的所有权。此事件反映出Mozilla与用户之间的沟通不畅，缺乏必要的背景信息。相比之下，Waterfox在隐私政策上保持一致，强调透明度和用户控制。浏览器生态中存在不同的隐私策略，但缺乏正式治理结构的项目可能让用户面临风险。Waterfox通过明确的政策和法律框架，建立了用户信任，确保用户的隐私得到尊重。
+
+---
+
+## <a name="11"></a>11. Waterfox：快速且私密的网页浏览器 
+<small>🔗 [waterfox.net](https://www.waterfox.net/): Waterfox: Fast and Private Web Browser</small>
+
+
+| 🔥🔥: 128 \| 💬: [58](https://news.ycombinator.com/item?id=43205110) \| 🗓️ 2025-02-28
+
+
+<br />
+Waterfox 默认提供 **内置追踪保护**，并支持 **Oblivious DNS**，使您的在线活动更难被 ISP 跟踪。用户可以轻松使用 **私密标签**进行匿名浏览，而 **容器标签**则帮助组织不同类型的浏览。与其他浏览器不同，Waterfox 不会收集用户数据，确保您的隐私受到尊重。下载 Waterfox，享受安全的上网体验。
+
+---
+
 ## <a name="12"></a>12. WebShield – Safari的全新广谱内容拦截器 
 <small>🔗 [github.com](https://github.com/arjpar/WebShield): WebShield – A new wide-spectrum content blocker for Safari</small>
 
 
-| 🔥🔥: 111 \| 💬: [59](https://news.ycombinator.com/item?id=43204406) \| 🗓️ 2025-02-28
+| 🔥🔥: 115 \| 💬: [59](https://news.ycombinator.com/item?id=43204406) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -171,7 +171,7 @@ WebShield是一款为Safari设计的高效内容拦截器，能够阻止广告�
 <small>🔗 [theverge.com](https://www.theverge.com/news/620777/starlink-verizon-contract-faa-communication-musk): Starlink to take over $2.4B contract to overhaul air traffic control comms</small>
 
 
-| 🔥🔥: 111 \| 💬: [136](https://news.ycombinator.com/item?id=43205435) \| 🗓️ 2025-02-28
+| 🔥🔥: 115 \| 💬: [141](https://news.ycombinator.com/item?id=43205435) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -179,7 +179,19 @@ SpaceX旗下的Starlink可能会接管一项价值**24亿美元**的空中交通
 
 ---
 
-## <a name="14"></a>14. 微软Skype将于5月5日正式关闭 
+## <a name="14"></a>14. 布赖恩·克雷布斯：这个政府完全被妥协 
+<small>🔗 [infosec.exchange](https://infosec.exchange/@briankrebs/114083485241630234): Brian Krebs: This Administration Is Completely Compromised</small>
+
+
+| 🔥🔥: 114 \| 💬: [31](https://news.ycombinator.com/item?id=43211506) \| 🗓️ 2025-02-28
+
+
+<br />
+布赖恩·克雷布斯在文章中指出，当前的**政府**已经完全被**妥协**，这对国家安全和公民自由构成了严重威胁。他强调，必须采取措施来恢复公众对政府的信任，并确保透明度和问责制，以防止未来的腐败和滥用权力。
+
+---
+
+## <a name="15"></a>15. 微软Skype将于5月5日正式关闭 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/02/on-may-5-microsofts-skype-will-shut-down-for-good/): May 5, Microsoft's Skype will shut down for good</small>
 
 
@@ -191,7 +203,7 @@ SpaceX旗下的Starlink可能会接管一项价值**24亿美元**的空中交通
 
 ---
 
-## <a name="15"></a>15. AMD RDNA 4 – AMD Radeon RX 9000系列显卡发布 
+## <a name="16"></a>16. AMD RDNA 4 – AMD Radeon RX 9000系列显卡发布 
 <small>🔗 [amd.com](https://www.amd.com/en/newsroom/press-releases/2025-2-28-amd-unveils-next-generation-amd-rdna-4-architectu.html): AMD RDNA 4 – AMD Radeon RX 9000 Series Graphics Cards</small>
 
 
@@ -203,7 +215,7 @@ AMD于2025年2月28日推出了新一代的**AMD RDNA™ 4架构**，并发布�
 
 ---
 
-## <a name="16"></a>16. 美国政府终止所有结核病项目 
+## <a name="17"></a>17. 美国政府终止所有结核病项目 
 <small>🔗 [bsky.app](https://bsky.app/profile/johngreensbluesky.bsky.social/post/3lj6krxlhx22d): All Tuberculosis programs funded by the U.S. Gov were officially terminated</small>
 
 
@@ -215,11 +227,11 @@ AMD于2025年2月28日推出了新一代的**AMD RDNA™ 4架构**，并发布�
 
 ---
 
-## <a name="17"></a>17. 美国证券交易委员会宣布“迷因币”不受监管 
+## <a name="18"></a>18. 美国证券交易委员会宣布“迷因币”不受监管 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/27/business/sec-memecoins.html): SEC Declares Memecoins Are Not Subject to Oversight</small>
 
 
-| 🔥: 95 \| 💬: [110](https://news.ycombinator.com/item?id=43204958) \| 🗓️ 2025-02-28
+| 🔥: 96 \| 💬: [111](https://news.ycombinator.com/item?id=43204958) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -227,23 +239,11 @@ AMD于2025年2月28日推出了新一代的**AMD RDNA™ 4架构**，并发布�
 
 ---
 
-## <a name="18"></a>18. 布赖恩·克雷布斯：这个政府完全被妥协 
-<small>🔗 [infosec.exchange](https://infosec.exchange/@briankrebs/114083485241630234): Brian Krebs: This Administration Is Completely Compromised</small>
-
-
-| 🔥: 84 \| 💬: [22](https://news.ycombinator.com/item?id=43211506) \| 🗓️ 2025-02-28
-
-
-<br />
-布赖恩·克雷布斯在文章中指出，当前的**政府**已经完全被**妥协**，这对国家安全和公民自由构成了严重威胁。他强调，必须采取措施来恢复公众对政府的信任，并确保透明度和问责制，以防止未来的腐败和滥用权力。
-
----
-
 ## <a name="19"></a>19. 梅尔狮：时间序列智能的机器学习框架 
 <small>🔗 [github.com](https://github.com/salesforce/Merlion): Merlion: A Machine Learning Framework for Time Series Intelligence</small>
 
 
-| 🔥: 79 \| 💬: [11](https://news.ycombinator.com/item?id=43209064) \| 🗓️ 2025-02-28
+| 🔥: 88 \| 💬: [16](https://news.ycombinator.com/item?id=43209064) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -251,7 +251,31 @@ AMD于2025年2月28日推出了新一代的**AMD RDNA™ 4架构**，并发布�
 
 ---
 
-## <a name="20"></a>20. 特朗普与范斯在白宫怒斥泽连斯基 
+## <a name="20"></a>20. 人工智能正在摧毁一些公司，而其他公司却在蓬勃发展——让我们看看数据 
+<small>🔗 [elenaverna.com](https://www.elenaverna.com/p/ai-is-killing-some-companies-yet): AI is killing some companies, yet others are thriving – let's look at the data</small>
+
+
+| 🔥: 85 \| 💬: [99](https://news.ycombinator.com/item?id=43206491) \| 🗓️ 2025-02-28
+
+
+<br />
+人工智能正在改变主要内容网站的商业模式，像**WebMD**、**Quora**和**Chegg**等平台因AI搜索和聊天机器人而流失流量。用户不再需要点击页面，AI能迅速提供答案。尽管面临挑战，**Reddit**和**Wikipedia**等平台仍在增长，显示出用户对真实内容和社区的偏好。
+
+---
+
+## <a name="21"></a>21. 继承的重要性日益上升，几乎与工作同等重要 
+<small>🔗 [economist.com](https://www.economist.com/leaders/2025/02/27/inheriting-is-becoming-nearly-as-important-as-working): Inheriting is becoming nearly as important as working</small>
+
+
+| 🔥: 74 \| 💬: [66](https://news.ycombinator.com/item?id=43213143) \| 🗓️ 2025-02-28
+
+
+<br />
+在富裕国家，**继承财富**的影响力正在上升，这对**资本主义**和社会构成了威胁。过去，努力工作是成功的关键，但如今，越来越多的财富被传承给婴儿潮一代，改变了财富积累的游戏规则。这种趋势可能会导致社会的不平等加剧。
+
+---
+
+## <a name="22"></a>22. 特朗普与范斯在白宫怒斥泽连斯基 
 <small>🔗 [nytimes.com](https://www.nytimes.com/live/2025/02/28/us/trump-news): Trump and Vance Loudly Berate Zelensky in Oval Office</small>
 
 
@@ -263,23 +287,11 @@ AMD于2025年2月28日推出了新一代的**AMD RDNA™ 4架构**，并发布�
 
 ---
 
-## <a name="21"></a>21. 人工智能正在摧毁一些公司，而其他公司却在蓬勃发展——让我们看看数据 
-<small>🔗 [elenaverna.com](https://www.elenaverna.com/p/ai-is-killing-some-companies-yet): AI is killing some companies, yet others are thriving – let's look at the data</small>
-
-
-| 🔥: 68 \| 💬: [79](https://news.ycombinator.com/item?id=43206491) \| 🗓️ 2025-02-28
-
-
-<br />
-人工智能正在改变主要内容网站的商业模式，像**WebMD**、**Quora**和**Chegg**等平台因AI搜索和聊天机器人而流失流量。用户不再需要点击页面，AI能迅速提供答案。尽管面临挑战，**Reddit**和**Wikipedia**等平台仍在增长，显示出用户对真实内容和社区的偏好。
-
----
-
-## <a name="22"></a>22. Meta为Instagram上涌现的暴力和血腥内容道歉 
+## <a name="23"></a>23. Meta为Instagram上涌现的暴力和血腥内容道歉 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/feb/28/meta-apologises-over-flood-of-gore-violence-and-dead-bodies-on-instagram): Meta apologises over flood of gore, violence and dead bodies on Instagram</small>
 
 
-| 🔥: 67 \| 💬: [70](https://news.ycombinator.com/item?id=43204349) \| 🗓️ 2025-02-28
+| 🔥: 69 \| 💬: [71](https://news.ycombinator.com/item?id=43204349) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -287,38 +299,26 @@ Meta公司因Instagram用户在Reels功能中遭遇大量**暴力**、**血腥**
 
 ---
 
-## <a name="23"></a>23. 不，我们绝对不准备分叉Firefox 
+## <a name="24"></a>24. 热议：GPT 4.5毫无实质意义 
+<small>🔗 [garymarcus.substack.com](https://garymarcus.substack.com/p/hot-take-gpt-45-is-a-nothing-burger): Hot take: GPT 4.5 is a nothing burger</small>
+
+
+| 🔥: 67 \| 💬: [57](https://news.ycombinator.com/item?id=43203543) \| 🗓️ 2025-02-28
+
+
+<br />
+GPT 4.5被认为是一个**“毫无实质意义的产品”**，与之前的版本相比并没有显著改进。尽管投入了巨额资金，**纯粹的扩展**似乎已经遇到瓶颈，依然存在**幻觉和错误**。AI行业的乐观者们对其表现感到失望，甚至连OpenAI的CEO也未能如往常一样激动地谈论AGI。总的来看，GPT 4.5未能带来预期的突破，反映出当前AI发展的局限性。
+
+---
+
+## <a name="25"></a>25. 不，我们绝对不准备分叉Firefox 
 <small>🔗 [codeberg.org](https://codeberg.org/librewolf/issues/issues/2252#issuecomment-2886286): "No, we are absolutely not prepared to [fork Firefox]"</small>
 
 
-| 🔥: 55 \| 💬: [10](https://news.ycombinator.com/item?id=43210569) \| 🗓️ 2025-02-28
+| 🔥: 57 \| 💬: [11](https://news.ycombinator.com/item?id=43210569) \| 🗓️ 2025-02-28
 
 
 <br />
 LibreWolf是否准备在长期内分叉Firefox，特别是在Mozilla持续做出令人担忧的调整后？尽管维护一个完整的浏览器非常困难，但Mozilla的方向变化似乎带来了**巨大的风险**。近期的**用户数据使用条款**调整引发了广泛的反响，LibreWolf需要认真考虑未来的选择。
-
----
-
-## <a name="24"></a>24. 这届政府的破坏力即将显现 
-<small>🔗 [thehandbasket.co](https://www.thehandbasket.co/p/government-destruction-ssa-doge): The full force of this administration's destruction is about to hit</small>
-
-
-| 🔥: 47 \| 💬: [15](https://news.ycombinator.com/item?id=43207491) \| 🗓️ 2025-02-28
-
-
-<br />
-随着社会保障局（SSA）计划裁减50%的员工，数百万依赖社会保障的美国人即将感受到这届政府的破坏性后果。记者们警告说，**服务的严重下降**将导致许多人无法及时收到支票，尤其是**老年人、残疾人和贫困者**。尽管特朗普声称不会削减社会保障，但实际情况显示，政府的削减计划正在迅速推进，可能导致数千名联邦员工失业。
-
----
-
-## <a name="25"></a>25. 美国气候机构裁员数百人，最新削减措施 
-<small>🔗 [bbc.com](https://www.bbc.com/news/articles/cdell8n14x2o): Hundreds in US climate agency fired in latest cuts</small>
-
-
-| 🔥: 39 \| 💬: [41](https://news.ycombinator.com/item?id=43207338) \| 🗓️ 2025-02-28
-
-
-<br />
-美国国家海洋和大气管理局（NOAA）裁员约880人，进一步削减联邦工作人员。此举是在**特朗普政府**的推动下进行的，旨在降低开支。**气候科学家**和气象预报员受到影响，NOAA的工作对公众安全至关重要，提供天气预报和紧急信息。加州国会议员**贾里德·哈夫曼**对此表示担忧，认为这将影响公众的安全和应对极端天气的能力。
 
 ---
