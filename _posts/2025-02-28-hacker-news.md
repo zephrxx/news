@@ -27,7 +27,7 @@ tags:
 <small>🔗 [bbc.com](https://www.bbc.com/news/live/c625ex282zzt): Zelensky leaves White House after angry meeting</small>
 
 
-| 🔥🔥: 2058 \| 💬: [3029](https://news.ycombinator.com/item?id=43208973) \| 🗓️ 2025-02-28
+| 🔥🔥: 2119 \| 💬: [3112](https://news.ycombinator.com/item?id=43208973) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/LundukeJournal/status/1895249805338886591): Mozilla deletes promise to never sell Firefox data</small>
 
 
-| 🔥🔥: 832 \| 💬: [3](https://news.ycombinator.com/item?id=43203096) \| 🗓️ 2025-02-28
+| 🔥🔥: 834 \| 💬: [3](https://news.ycombinator.com/item?id=43203096) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -51,7 +51,7 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 <small>🔗 [kibty.town](https://kibty.town/blog/todesktop/): How to gain code execution on hundreds of millions of people and popular apps</small>
 
 
-| 🔥🔥: 424 \| 💬: [107](https://news.ycombinator.com/item?id=43210858) \| 🗓️ 2025-02-28
+| 🔥🔥: 475 \| 💬: [117](https://news.ycombinator.com/item?id=43210858) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -63,7 +63,7 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 <small>🔗 [timsh.org](https://timsh.org/github-scam-investigation-thousands-of-mods-and-cracks-stealing-your-data/): Github scam investigation: Thousands of “mods” and “cracks” stealing data</small>
 
 
-| 🔥🔥: 367 \| 💬: [153](https://news.ycombinator.com/item?id=43203158) \| 🗓️ 2025-02-28
+| 🔥🔥: 368 \| 💬: [153](https://news.ycombinator.com/item?id=43203158) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -75,7 +75,7 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 <small>🔗 [news.ufl.edu](https://news.ufl.edu/2025/02/syrian-violence-epigenetics/): Violence alters human genes for generations, researchers discover</small>
 
 
-| 🔥🔥: 363 \| 💬: [221](https://news.ycombinator.com/item?id=43206722) \| 🗓️ 2025-02-28
+| 🔥🔥: 365 \| 💬: [221](https://news.ycombinator.com/item?id=43206722) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -87,7 +87,7 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 <small>🔗 [josephmate.github.io](https://josephmate.github.io/2025-02-26-3200p-cpu-util/): 3,200% CPU Utilization</small>
 
 
-| 🔥🔥: 347 \| 💬: [145](https://news.ycombinator.com/item?id=43207831) \| 🗓️ 2025-02-28
+| 🔥🔥: 355 \| 💬: [147](https://news.ycombinator.com/item?id=43207831) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -99,7 +99,7 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 <small>🔗 [kupajo.com](https://kupajo.com/write-to-escape-your-default-setting/): Write to Escape Your Default Setting</small>
 
 
-| 🔥🔥: 267 \| 💬: [65](https://news.ycombinator.com/item?id=43206174) \| 🗓️ 2025-02-28
+| 🔥🔥: 271 \| 💬: [69](https://news.ycombinator.com/item?id=43206174) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -111,7 +111,7 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 <small>🔗 [en.chessbase.com](https://en.chessbase.com/post/boris-spassky-1937-2025): Boris Spassky: 1937–2025</small>
 
 
-| 🔥🔥: 258 \| 💬: [43](https://news.ycombinator.com/item?id=43202982) \| 🗓️ 2025-02-28
+| 🔥🔥: 260 \| 💬: [44](https://news.ycombinator.com/item?id=43202982) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -123,7 +123,7 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 <small>🔗 [economist.com](https://www.economist.com/leaders/2025/02/27/inheriting-is-becoming-nearly-as-important-as-working): Inheriting is becoming nearly as important as working</small>
 
 
-| 🔥🔥: 231 \| 💬: [284](https://news.ycombinator.com/item?id=43213143) \| 🗓️ 2025-02-28
+| 🔥🔥: 234 \| 💬: [304](https://news.ycombinator.com/item?id=43213143) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -135,7 +135,7 @@ Mozilla 最近取消了其对用户数据隐私的承诺，表示将不再保证
 <small>🔗 [blog.mozilla.org](https://blog.mozilla.org/en/products/firefox/update-on-terms-of-use/): An Update on Mozilla's Terms of Use for Firefox</small>
 
 
-| 🔥🔥: 199 \| 💬: [89](https://news.ycombinator.com/item?id=43213612) \| 🗓️ 2025-02-28
+| 🔥🔥: 217 \| 💬: [111](https://news.ycombinator.com/item?id=43213612) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -147,7 +147,7 @@ Mozilla于2025年2月28日宣布更新Firefox的使用条款和隐私声明，�
 <small>🔗 [terinstock.com](https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/): Netboot Windows 11 with iSCSI and iPXE</small>
 
 
-| 🔥🔥: 167 \| 💬: [45](https://news.ycombinator.com/item?id=43204604) \| 🗓️ 2025-02-28
+| 🔥🔥: 169 \| 💬: [45](https://news.ycombinator.com/item?id=43204604) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -155,35 +155,11 @@ Mozilla于2025年2月28日宣布更新Firefox的使用条款和隐私声明，�
 
 ---
 
-## <a name="12"></a>12. 布赖恩·克雷布斯：这个政府完全被妥协 
-<small>🔗 [infosec.exchange](https://infosec.exchange/@briankrebs/114083485241630234): Brian Krebs: This Administration Is Completely Compromised</small>
-
-
-| 🔥🔥: 138 \| 💬: [35](https://news.ycombinator.com/item?id=43211506) \| 🗓️ 2025-02-28
-
-
-<br />
-布赖恩·克雷布斯在文章中指出，当前的**政府**已经完全被**妥协**，这对国家安全和公民自由构成了严重威胁。他强调，必须采取措施来恢复公众对政府的信任，并确保透明度和问责制，以防止未来的腐败和滥用权力。
-
----
-
-## <a name="13"></a>13. 对Mozilla政策变更的评论 
-<small>🔗 [waterfox.net](https://www.waterfox.net/blog/a-comment-on-mozilla-changes/): A Comment on Mozilla's Policy Changes</small>
-
-
-| 🔥🔥: 135 \| 💬: [153](https://news.ycombinator.com/item?id=43204376) \| 🗓️ 2025-02-28
-
-
-<br />
-关于Mozilla最近的政策更新，社区反应不一，许多人对潜在的隐私影响表示担忧。Mozilla在公告中澄清，所需的许可证并不意味着对用户数据的所有权。此事件反映出Mozilla与用户之间的沟通不畅，缺乏必要的背景信息。相比之下，Waterfox在隐私政策上保持一致，强调透明度和用户控制。浏览器生态中存在不同的隐私策略，但缺乏正式治理结构的项目可能让用户面临风险。Waterfox通过明确的政策和法律框架，建立了用户信任，确保用户的隐私得到尊重。
-
----
-
-## <a name="14"></a>14. 热议：GPT 4.5毫无实质意义 
+## <a name="12"></a>12. 热议：GPT 4.5毫无实质意义 
 <small>🔗 [garymarcus.substack.com](https://garymarcus.substack.com/p/hot-take-gpt-45-is-a-nothing-burger): Hot take: GPT 4.5 is a nothing burger</small>
 
 
-| 🔥🔥: 129 \| 💬: [134](https://news.ycombinator.com/item?id=43203543) \| 🗓️ 2025-02-28
+| 🔥🔥: 144 \| 💬: [160](https://news.ycombinator.com/item?id=43203543) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -191,23 +167,35 @@ GPT 4.5被认为是一个**“毫无实质意义的产品”**，与之前的版
 
 ---
 
-## <a name="15"></a>15. Waterfox：快速且私密的网页浏览器 
-<small>🔗 [waterfox.net](https://www.waterfox.net/): Waterfox: Fast and Private Web Browser</small>
+## <a name="13"></a>13. 布赖恩·克雷布斯：这个政府完全被妥协 
+<small>🔗 [infosec.exchange](https://infosec.exchange/@briankrebs/114083485241630234): Brian Krebs: This Administration Is Completely Compromised</small>
 
 
-| 🔥🔥: 129 \| 💬: [60](https://news.ycombinator.com/item?id=43205110) \| 🗓️ 2025-02-28
+| 🔥🔥: 142 \| 💬: [35](https://news.ycombinator.com/item?id=43211506) \| 🗓️ 2025-02-28
 
 
 <br />
-Waterfox 默认提供 **内置追踪保护**，并支持 **Oblivious DNS**，使您的在线活动更难被 ISP 跟踪。用户可以轻松使用 **私密标签**进行匿名浏览，而 **容器标签**则帮助组织不同类型的浏览。与其他浏览器不同，Waterfox 不会收集用户数据，确保您的隐私受到尊重。下载 Waterfox，享受安全的上网体验。
+布赖恩·克雷布斯在文章中指出，当前的**政府**已经完全被**妥协**，这对国家安全和公民自由构成了严重威胁。他强调，必须采取措施来恢复公众对政府的信任，并确保透明度和问责制，以防止未来的腐败和滥用权力。
 
 ---
 
-## <a name="16"></a>16. 人工智能正在摧毁一些公司，而其他公司却在蓬勃发展——让我们看看数据 
+## <a name="14"></a>14. 对Mozilla政策变更的评论 
+<small>🔗 [waterfox.net](https://www.waterfox.net/blog/a-comment-on-mozilla-changes/): A Comment on Mozilla's Policy Changes</small>
+
+
+| 🔥🔥: 136 \| 💬: [154](https://news.ycombinator.com/item?id=43204376) \| 🗓️ 2025-02-28
+
+
+<br />
+关于Mozilla最近的政策更新，社区反应不一，许多人对潜在的隐私影响表示担忧。Mozilla在公告中澄清，所需的许可证并不意味着对用户数据的所有权。此事件反映出Mozilla与用户之间的沟通不畅，缺乏必要的背景信息。相比之下，Waterfox在隐私政策上保持一致，强调透明度和用户控制。浏览器生态中存在不同的隐私策略，但缺乏正式治理结构的项目可能让用户面临风险。Waterfox通过明确的政策和法律框架，建立了用户信任，确保用户的隐私得到尊重。
+
+---
+
+## <a name="15"></a>15. 人工智能正在摧毁一些公司，而其他公司却在蓬勃发展——让我们看看数据 
 <small>🔗 [elenaverna.com](https://www.elenaverna.com/p/ai-is-killing-some-companies-yet): AI is killing some companies, yet others are thriving – let's look at the data</small>
 
 
-| 🔥🔥: 128 \| 💬: [129](https://news.ycombinator.com/item?id=43206491) \| 🗓️ 2025-02-28
+| 🔥🔥: 133 \| 💬: [135](https://news.ycombinator.com/item?id=43206491) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -215,11 +203,23 @@ Waterfox 默认提供 **内置追踪保护**，并支持 **Oblivious DNS**，使
 
 ---
 
+## <a name="16"></a>16. Waterfox：快速且私密的网页浏览器 
+<small>🔗 [waterfox.net](https://www.waterfox.net/): Waterfox: Fast and Private Web Browser</small>
+
+
+| 🔥🔥: 130 \| 💬: [60](https://news.ycombinator.com/item?id=43205110) \| 🗓️ 2025-02-28
+
+
+<br />
+Waterfox 默认提供 **内置追踪保护**，并支持 **Oblivious DNS**，使您的在线活动更难被 ISP 跟踪。用户可以轻松使用 **私密标签**进行匿名浏览，而 **容器标签**则帮助组织不同类型的浏览。与其他浏览器不同，Waterfox 不会收集用户数据，确保您的隐私受到尊重。下载 Waterfox，享受安全的上网体验。
+
+---
+
 ## <a name="17"></a>17. WebShield – Safari的全新广谱内容拦截器 
 <small>🔗 [github.com](https://github.com/arjpar/WebShield): WebShield – A new wide-spectrum content blocker for Safari</small>
 
 
-| 🔥🔥: 120 \| 💬: [66](https://news.ycombinator.com/item?id=43204406) \| 🗓️ 2025-02-28
+| 🔥🔥: 123 \| 💬: [66](https://news.ycombinator.com/item?id=43204406) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -239,7 +239,19 @@ SpaceX旗下的Starlink可能会接管一项价值**24亿美元**的空中交通
 
 ---
 
-## <a name="19"></a>19. 微软Skype将于5月5日正式关闭 
+## <a name="19"></a>19. 住房理论的全能解答 
+<small>🔗 [worksinprogress.co](https://worksinprogress.co/issue/the-housing-theory-of-everything/): The Housing Theory of Everything</small>
+
+
+| 🔥🔥: 112 \| 💬: [80](https://news.ycombinator.com/item?id=43214263) \| 🗓️ 2025-02-28
+
+
+<br />
+当前西方世界面临许多问题，如**经济增长缓慢**、**气候变化**和**经济不平等**，而这些问题的根源在于住房短缺。住房价格高昂限制了人们的生活选择，影响了工作和家庭规模，导致生产力下降。解决住房问题不仅能改善生活质量，还能推动经济增长和创新，缩小社会不平等。
+
+---
+
+## <a name="20"></a>20. 微软Skype将于5月5日正式关闭 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/02/on-may-5-microsofts-skype-will-shut-down-for-good/): May 5, Microsoft's Skype will shut down for good</small>
 
 
@@ -251,11 +263,11 @@ SpaceX旗下的Starlink可能会接管一项价值**24亿美元**的空中交通
 
 ---
 
-## <a name="20"></a>20. 梅尔狮：时间序列智能的机器学习框架 
+## <a name="21"></a>21. 梅尔狮：时间序列智能的机器学习框架 
 <small>🔗 [github.com](https://github.com/salesforce/Merlion): Merlion: A Machine Learning Framework for Time Series Intelligence</small>
 
 
-| 🔥🔥: 106 \| 💬: [17](https://news.ycombinator.com/item?id=43209064) \| 🗓️ 2025-02-28
+| 🔥🔥: 107 \| 💬: [17](https://news.ycombinator.com/item?id=43209064) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -263,7 +275,19 @@ SpaceX旗下的Starlink可能会接管一项价值**24亿美元**的空中交通
 
 ---
 
-## <a name="21"></a>21. 美国政府终止所有结核病项目 
+## <a name="22"></a>22. 为什么建造喷气发动机如此困难 
+<small>🔗 [construction-physics.com](https://www.construction-physics.com/p/why-its-so-hard-to-build-a-jet-engine): Why it's so hard to build a jet engine</small>
+
+
+| 🔥🔥: 105 \| 💬: [26](https://news.ycombinator.com/item?id=43212952) \| 🗓️ 2025-02-28
+
+
+<br />
+建造喷气发动机面临着**技术复杂性**和**经济压力**的双重挑战。为了实现高效能和低成本，工程师必须在材料、设计和制造工艺上不断创新。喷气发动机需要在极端条件下运行，要求其部件具备极高的强度和轻量化，这使得开发新发动机成为一项耗时且昂贵的任务。只有少数公司能够承担这样的技术挑战，且开发成本通常高达数十亿美元。
+
+---
+
+## <a name="23"></a>23. 美国政府终止所有结核病项目 
 <small>🔗 [bsky.app](https://bsky.app/profile/johngreensbluesky.bsky.social/post/3lj6krxlhx22d): All Tuberculosis programs funded by the U.S. Gov were officially terminated</small>
 
 
@@ -275,11 +299,11 @@ SpaceX旗下的Starlink可能会接管一项价值**24亿美元**的空中交通
 
 ---
 
-## <a name="22"></a>22. AMD RDNA 4 – AMD Radeon RX 9000系列显卡发布 
+## <a name="24"></a>24. AMD RDNA 4 – AMD Radeon RX 9000系列显卡发布 
 <small>🔗 [amd.com](https://www.amd.com/en/newsroom/press-releases/2025-2-28-amd-unveils-next-generation-amd-rdna-4-architectu.html): AMD RDNA 4 – AMD Radeon RX 9000 Series Graphics Cards</small>
 
 
-| 🔥: 99 \| 💬: [178](https://news.ycombinator.com/item?id=43205196) \| 🗓️ 2025-02-28
+| 🔥🔥: 101 \| 💬: [178](https://news.ycombinator.com/item?id=43205196) \| 🗓️ 2025-02-28
 
 
 <br />
@@ -287,7 +311,7 @@ AMD于2025年2月28日推出了新一代的**AMD RDNA™ 4架构**，并发布�
 
 ---
 
-## <a name="23"></a>23. 美国证券交易委员会宣布“迷因币”不受监管 
+## <a name="25"></a>25. 美国证券交易委员会宣布“迷因币”不受监管 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/02/27/business/sec-memecoins.html): SEC Declares Memecoins Are Not Subject to Oversight</small>
 
 
@@ -296,29 +320,5 @@ AMD于2025年2月28日推出了新一代的**AMD RDNA™ 4架构**，并发布�
 
 <br />
 美国证券交易委员会（S.E.C.）近日表示，**迷因币**——一种新奇的数字资产——不被视为证券，因此不受监管。这一决定可能对**加密货币行业**产生重大影响，尤其是前总统特朗普在就职前推出的$Trump迷因币。尽管S.E.C.承认投资者面临风险，但强调对迷因币的欺诈行为仍可由其他联邦或州机构进行执法。S.E.C.的这一政策与特朗普在竞选期间承诺的轻监管立场一致，同时也标志着对前主席**加里·根斯勒**监管政策的转变。
-
----
-
-## <a name="24"></a>24. 为什么建造喷气发动机如此困难 
-<small>🔗 [construction-physics.com](https://www.construction-physics.com/p/why-its-so-hard-to-build-a-jet-engine): Why it's so hard to build a jet engine</small>
-
-
-| 🔥: 86 \| 💬: [25](https://news.ycombinator.com/item?id=43212952) \| 🗓️ 2025-02-28
-
-
-<br />
-建造喷气发动机面临着**技术复杂性**和**经济压力**的双重挑战。为了实现高效能和低成本，工程师必须在材料、设计和制造工艺上不断创新。喷气发动机需要在极端条件下运行，要求其部件具备极高的强度和轻量化，这使得开发新发动机成为一项耗时且昂贵的任务。只有少数公司能够承担这样的技术挑战，且开发成本通常高达数十亿美元。
-
----
-
-## <a name="25"></a>25. 特朗普与范斯在白宫怒斥泽连斯基 
-<small>🔗 [nytimes.com](https://www.nytimes.com/live/2025/02/28/us/trump-news): Trump and Vance Loudly Berate Zelensky in Oval Office</small>
-
-
-| 🔥: 74 \| 💬: [1](https://news.ycombinator.com/item?id=43209151) \| 🗓️ 2025-02-28
-
-
-<br />
-前乌克兰总统泽连斯基在白宫与特朗普和副总统范斯的激烈争吵中，未能签署重要的矿产协议，标志着美乌关系的重大裂痕。特朗普指责泽连斯基对美国支持不够感激，并威胁如果不接受美国的和平条件就会放弃对乌克兰的支持。此事件不仅引发了对泽连斯基的批评，还为普京提供了机会，进一步削弱了乌克兰与美国的关系。
 
 ---
