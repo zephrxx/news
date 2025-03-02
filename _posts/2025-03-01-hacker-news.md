@@ -27,7 +27,7 @@ tags:
 <small>🔗 [18f.org](https://18f.org/): A Letter to the American People</small>
 
 
-| 🔥🔥: 873 \| 💬: [426](https://news.ycombinator.com/item?id=43224350) \| 🗓️ 2025-03-01
+| 🔥🔥: 880 \| 💬: [432](https://news.ycombinator.com/item?id=43224350) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [nextgov.com](https://www.nextgov.com/people/2025/03/gsa-eliminates-18f/403400/): GSA Eliminates 18F</small>
 
 
-| 🔥🔥: 415 \| 💬: [336](https://news.ycombinator.com/item?id=43221549) \| 🗓️ 2025-03-01
+| 🔥🔥: 431 \| 💬: [361](https://news.ycombinator.com/item?id=43221549) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/SollenbergerRC/status/1895609294810464390): A DOGE staffer appears to be posting DOGE work on his public GitHub</small>
 
 
-| 🔥🔥: 355 \| 💬: [341](https://news.ycombinator.com/item?id=43217947) \| 🗓️ 2025-03-01
+| 🔥🔥: 358 \| 💬: [348](https://news.ycombinator.com/item?id=43217947) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [varun.ch](https://varun.ch/posts/videowall/): The most unhinged video wall, made out of Chromebooks</small>
 
 
-| 🔥🔥: 326 \| 💬: [33](https://news.ycombinator.com/item?id=43221697) \| 🗓️ 2025-03-01
+| 🔥🔥: 355 \| 💬: [34](https://news.ycombinator.com/item?id=43221697) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [wildfirelabs.substack.com](https://wildfirelabs.substack.com/p/the-100-trillion-disruption-the-unforeseen): GLP-1 drugs: An economic disruptor? (2024)</small>
 
 
-| 🔥🔥: 306 \| 💬: [391](https://news.ycombinator.com/item?id=43222791) \| 🗓️ 2025-03-01
+| 🔥🔥: 313 \| 💬: [409](https://news.ycombinator.com/item?id=43222791) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -87,7 +87,7 @@ GLP-1药物可能成为自互联网以来最大的经济颠覆者。这类药物
 <small>🔗 [bengarcia.dev](https://bengarcia.dev/making-o1-o3-and-sonnet-3-7-hallucinate-for-everyone): Making o1, o3, and Sonnet 3.7 hallucinate for everyone</small>
 
 
-| 🔥🔥: 185 \| 💬: [145](https://news.ycombinator.com/item?id=43222027) \| 🗓️ 2025-03-01
+| 🔥🔥: 193 \| 💬: [149](https://news.ycombinator.com/item?id=43222027) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -99,7 +99,7 @@ GLP-1药物可能成为自互联网以来最大的经济颠覆者。这类药物
 <small>🔗 [ghuntley.com](https://ghuntley.com/tradecraft/): Yes, Claude Code can decompile itself. Here's the source code</small>
 
 
-| 🔥🔥: 180 \| 💬: [117](https://news.ycombinator.com/item?id=43217357) \| 🗓️ 2025-03-01
+| 🔥🔥: 181 \| 💬: [117](https://news.ycombinator.com/item?id=43217357) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -111,7 +111,7 @@ GLP-1药物可能成为自互联网以来最大的经济颠覆者。这类药物
 <small>🔗 [lapcatsoftware.com](https://lapcatsoftware.com/articles/2025/2/5.html?__readwiseLocation=): Xcode constantly phones home</small>
 
 
-| 🔥🔥: 144 \| 💬: [48](https://news.ycombinator.com/item?id=43223075) \| 🗓️ 2025-03-01
+| 🔥🔥: 153 \| 💬: [49](https://news.ycombinator.com/item?id=43223075) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -135,7 +135,7 @@ GrapheneOS 成功地 **阻止了 Cellebrite** 利用的三个 **Android 零日�
 <small>🔗 [substack.com](https://substack.com/home/post/p-158101095): Copilot for Everything: Training your AI replacement one keystroke at a time</small>
 
 
-| 🔥🔥: 126 \| 💬: [73](https://news.ycombinator.com/item?id=43220938) \| 🗓️ 2025-03-01
+| 🔥🔥: 128 \| 💬: [75](https://news.ycombinator.com/item?id=43220938) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -147,7 +147,7 @@ GrapheneOS 成功地 **阻止了 Cellebrite** 利用的三个 **Android 零日�
 <small>🔗 [swapfest.berlin](https://www.swapfest.berlin/): Show HN: Berlin Swapfest – Electronics flea market</small>
 
 
-| 🔥🔥: 119 \| 💬: [20](https://news.ycombinator.com/item?id=43223718) \| 🗓️ 2025-03-01
+| 🔥🔥: 127 \| 💬: [22](https://news.ycombinator.com/item?id=43223718) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -159,7 +159,7 @@ GrapheneOS 成功地 **阻止了 Cellebrite** 利用的三个 **Android 零日�
 <small>🔗 [neelc.org](https://www.neelc.org/2025/03/01/im-done-with-coding/): I'm done with coding</small>
 
 
-| 🔥🔥: 111 \| 💬: [70](https://news.ycombinator.com/item?id=43225901) \| 🗓️ 2025-03-01
+| 🔥🔥: 124 \| 💬: [97](https://news.ycombinator.com/item?id=43225901) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -171,7 +171,7 @@ GrapheneOS 成功地 **阻止了 Cellebrite** 利用的三个 **Android 零日�
 <small>🔗 [daringfireball.net](https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video): Why can't we screenshot frames from DRM-protected video on Apple devices?</small>
 
 
-| 🔥: 90 \| 💬: [94](https://news.ycombinator.com/item?id=43223985) \| 🗓️ 2025-03-01
+| 🔥🔥: 103 \| 💬: [112](https://news.ycombinator.com/item?id=43223985) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -179,15 +179,15 @@ GrapheneOS 成功地 **阻止了 Cellebrite** 利用的三个 **Android 零日�
 
 ---
 
-## <a name="14"></a>14. OpenAI面临困境 
-<small>🔗 [garymarcus.substack.com](https://garymarcus.substack.com/p/openai-in-deep-trouble): Open AI in Trouble</small>
+## <a name="14"></a>14. Linux的早期岁月（2023） 
+<small>🔗 [lwn.net](https://lwn.net/Articles/928581/): The early days of Linux (2023)</small>
 
 
-| 🔥: 87 \| 💬: [98](https://news.ycombinator.com/item?id=43221543) \| 🗓️ 2025-03-01
+| 🔥: 100 \| 💬: [18](https://news.ycombinator.com/item?id=43225686) \| 🗓️ 2025-03-01
 
 
 <br />
-OpenAI的GPT 4.5发布后评价惨淡，显示出其在AGI领域的进展停滞。尽管仍拥有品牌和数据，GPT 4.5却未能提供明显的竞争优势，且公司面临高昂的成本和盈利能力问题。许多顶尖人才离职，竞争对手崛起，加上微软的支持减弱，Altman的信誉受损，OpenAI的未来充满不确定性。投资者应对公司的技术管理和交付能力提出严肃质疑。
+Lars Wirzenius回忆了Linux的诞生和早期发展。1988年，他与Linus Torvalds在赫尔辛基大学相识，两人对Unix和操作系统内核产生了浓厚兴趣。1991年，Linus购买了第一台PC，开始编写**多任务程序**，这成为Linux内核的雏形。同年，Linus在comp.os.minix新闻组中首次公开提及Linux，并逐渐吸引了开发者的关注。1992年，Linux采用了**GNU GPL许可证**，并迎来了X11系统的移植，标志着Linux桌面的诞生。1994年，Linux 1.0发布，标志着其正式成为一个完整的操作系统。如今，Linux已遍布全球，成为**开源软件**的典范。
 
 ---
 
@@ -195,7 +195,7 @@ OpenAI的GPT 4.5发布后评价惨淡，显示出其在AGI领域的进展停滞�
 <small>🔗 [efabless.com](https://efabless.com/notice): Efabless – Shutdown Notice</small>
 
 
-| 🔥: 86 \| 💬: [34](https://news.ycombinator.com/item?id=43222168) \| 🗓️ 2025-03-01
+| 🔥: 90 \| 💬: [42](https://news.ycombinator.com/item?id=43222168) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -203,15 +203,15 @@ OpenAI的GPT 4.5发布后评价惨淡，显示出其在AGI领域的进展停滞�
 
 ---
 
-## <a name="16"></a>16. 马斯克盟友计划关闭IRS免费报税项目背后的办公室 
-<small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/mar/01/musk-close-irs-free-filing-system): Musk ally is moving to close office behind free tax filing program at IRS</small>
+## <a name="16"></a>16. OpenAI面临困境 
+<small>🔗 [garymarcus.substack.com](https://garymarcus.substack.com/p/openai-in-deep-trouble): Open AI in Trouble</small>
 
 
-| 🔥: 79 \| 💬: [2](https://news.ycombinator.com/item?id=43222216) \| 🗓️ 2025-03-01
+| 🔥: 87 \| 💬: [101](https://news.ycombinator.com/item?id=43221543) \| 🗓️ 2025-03-01
 
 
 <br />
-一名与**马斯克**关系密切的官员在一封邮件中宣布，负责创建IRS **直接报税**项目的**18F办公室**将被关闭，员工将被解雇。此举是响应特朗普政府的指示，旨在削减联邦员工。18F自2014年起隶属于**总务管理局**，曾开发多个政府项目。马斯克曾在社交媒体上声称“删除”了18F，尽管该项目仍在运行。
+OpenAI的GPT 4.5发布后评价惨淡，显示出其在AGI领域的进展停滞。尽管仍拥有品牌和数据，GPT 4.5却未能提供明显的竞争优势，且公司面临高昂的成本和盈利能力问题。许多顶尖人才离职，竞争对手崛起，加上微软的支持减弱，Altman的信誉受损，OpenAI的未来充满不确定性。投资者应对公司的技术管理和交付能力提出严肃质疑。
 
 ---
 
@@ -219,7 +219,7 @@ OpenAI的GPT 4.5发布后评价惨淡，显示出其在AGI领域的进展停滞�
 <small>🔗 [bbc.com](https://www.bbc.com/news/live/cn5220x56pqt): 'We stand with Ukraine for as long as it may take' – Keir Starmer tells Zelensky</small>
 
 
-| 🔥: 78 \| 💬: [87](https://news.ycombinator.com/item?id=43221982) \| 🗓️ 2025-03-01
+| 🔥: 81 \| 💬: [90](https://news.ycombinator.com/item?id=43221982) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -227,7 +227,55 @@ OpenAI的GPT 4.5发布后评价惨淡，显示出其在AGI领域的进展停滞�
 
 ---
 
-## <a name="18"></a>18. 什么是氛围编码？创作者如何在没有编码知识的情况下构建软件 
+## <a name="18"></a>18. 马斯克盟友计划关闭IRS免费报税项目背后的办公室 
+<small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/mar/01/musk-close-irs-free-filing-system): Musk ally is moving to close office behind free tax filing program at IRS</small>
+
+
+| 🔥: 80 \| 💬: [2](https://news.ycombinator.com/item?id=43222216) \| 🗓️ 2025-03-01
+
+
+<br />
+一名与**马斯克**关系密切的官员在一封邮件中宣布，负责创建IRS **直接报税**项目的**18F办公室**将被关闭，员工将被解雇。此举是响应特朗普政府的指示，旨在削减联邦员工。18F自2014年起隶属于**总务管理局**，曾开发多个政府项目。马斯克曾在社交媒体上声称“删除”了18F，尽管该项目仍在运行。
+
+---
+
+## <a name="19"></a>19. Flash游戏如何塑造了现代游戏产业 
+<small>🔗 [flashgamehistory.com](https://www.flashgamehistory.com/): How Flash games shaped the video game industry (2020)</small>
+
+
+| 🔥: 79 \| 💬: [35](https://news.ycombinator.com/item?id=43225560) \| 🗓️ 2025-03-01
+
+
+<br />
+Flash游戏虽然已退出历史舞台，但其对现代游戏的影响深远。**Canabalt**开创了无尽跑酷游戏类型，而**The Crimson Room**则启发了密室逃脱游戏。Flash游戏为开发者提供了**实验性平台**，推动了游戏设计的快速迭代。通过Newgrounds等网站，任何人都能发布游戏，无需依赖工作室或发行商。Flash的**低门槛**和**跨平台兼容性**使其成为游戏开发者的首选工具，尽管最终因技术限制被淘汰，但其创意和影响力仍在延续。
+
+---
+
+## <a name="20"></a>20. Emacs Tree-sitter 自定义语法高亮 
+<small>🔗 [amitp.blogspot.com](https://amitp.blogspot.com/2025/02/emacs-tree-sitter-custom-highlighting.html): Emacs Tree-sitter custom highlighting</small>
+
+
+| 🔥: 76 \| 💬: [8](https://news.ycombinator.com/item?id=43217195) \| 🗓️ 2025-03-01
+
+
+<br />
+作者在 Emacs 中使用 **Tree-sitter** 实现了自定义语法高亮，重点区分了控制流中断的关键字（如 `return`、`continue`）和普通关键字（如 `while`、`if`）。此外，作者还根据变量名的含义进行高亮，例如在项目中区分水平和垂直测量、网格轴等。通过 `treesit-font-lock-rules` 函数，作者为不同语言（如 Python）设置了特定的高亮规则，并解决了软关键字（如 `type`）的高亮问题。**Tree-sitter** 的解析能力使得高亮更加精确，避免了正则表达式高亮的局限性。
+
+---
+
+## <a name="21"></a>21. 挪威燃料供应商因乌克兰问题拒绝为美国军舰供油 
+<small>🔗 [ukdefencejournal.org.uk](https://ukdefencejournal.org.uk/norwegian-fuel-supplier-refuses-u-s-warships-over-ukraine/): Norwegian fuel supplier refuses U.S. warships over Ukraine</small>
+
+
+| 🔥: 76 \| 💬: [45](https://news.ycombinator.com/item?id=43223872) \| 🗓️ 2025-03-01
+
+
+<br />
+挪威燃料公司**Haltbakk Bunkers**宣布将停止为在挪威的美国军事力量及停靠挪威港口的美国船只提供燃料，原因是**对美国近期对乌克兰政策的不满**。该公司批评了美国总统特朗普和副总统万斯的一次电视活动，称其为“史上最糟糕的电视节目”，并赞扬了乌克兰总统泽连斯基的克制。此举可能对美国在挪威及北大西洋地区的军事行动产生**后勤影响**。
+
+---
+
+## <a name="22"></a>22. 什么是氛围编码？创作者如何在没有编码知识的情况下构建软件 
 <small>🔗 [alitu.com](https://alitu.com/creator/workflow/what-is-vibe-coding/): What is vibe coding? How creators are building software with no coding knowledge</small>
 
 
@@ -239,31 +287,7 @@ OpenAI的GPT 4.5发布后评价惨淡，显示出其在AGI领域的进展停滞�
 
 ---
 
-## <a name="19"></a>19. 挪威燃料供应商因乌克兰问题拒绝为美国军舰供油 
-<small>🔗 [ukdefencejournal.org.uk](https://ukdefencejournal.org.uk/norwegian-fuel-supplier-refuses-u-s-warships-over-ukraine/): Norwegian fuel supplier refuses U.S. warships over Ukraine</small>
-
-
-| 🔥: 73 \| 💬: [45](https://news.ycombinator.com/item?id=43223872) \| 🗓️ 2025-03-01
-
-
-<br />
-挪威燃料公司**Haltbakk Bunkers**宣布将停止为在挪威的美国军事力量及停靠挪威港口的美国船只提供燃料，原因是**对美国近期对乌克兰政策的不满**。该公司批评了美国总统特朗普和副总统万斯的一次电视活动，称其为“史上最糟糕的电视节目”，并赞扬了乌克兰总统泽连斯基的克制。此举可能对美国在挪威及北大西洋地区的军事行动产生**后勤影响**。
-
----
-
-## <a name="20"></a>20. Emacs Tree-sitter 自定义语法高亮 
-<small>🔗 [amitp.blogspot.com](https://amitp.blogspot.com/2025/02/emacs-tree-sitter-custom-highlighting.html): Emacs Tree-sitter custom highlighting</small>
-
-
-| 🔥: 71 \| 💬: [7](https://news.ycombinator.com/item?id=43217195) \| 🗓️ 2025-03-01
-
-
-<br />
-作者在 Emacs 中使用 **Tree-sitter** 实现了自定义语法高亮，重点区分了控制流中断的关键字（如 `return`、`continue`）和普通关键字（如 `while`、`if`）。此外，作者还根据变量名的含义进行高亮，例如在项目中区分水平和垂直测量、网格轴等。通过 `treesit-font-lock-rules` 函数，作者为不同语言（如 Python）设置了特定的高亮规则，并解决了软关键字（如 `type`）的高亮问题。**Tree-sitter** 的解析能力使得高亮更加精确，避免了正则表达式高亮的局限性。
-
----
-
-## <a name="21"></a>21. 从OpenGL到WASM：我学习中的错误 
+## <a name="23"></a>23. 从OpenGL到WASM：我学习中的错误 
 <small>🔗 [uds5501.github.io](https://uds5501.github.io/mindpalace/2025/03/01/opengl-webgl-porting.html): OpenGL to WASM, learning from my mistakes</small>
 
 
@@ -275,7 +299,7 @@ OpenAI的GPT 4.5发布后评价惨淡，显示出其在AGI领域的进展停滞�
 
 ---
 
-## <a name="22"></a>22. 美国国家公园和森林的裁员引发强烈反对 
+## <a name="24"></a>24. 美国国家公园和森林的裁员引发强烈反对 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/czx7kez4vx2o): Cuts to US national parks and forests met with backlash</small>
 
 
@@ -287,38 +311,14 @@ OpenAI的GPT 4.5发布后评价惨淡，显示出其在AGI领域的进展停滞�
 
 ---
 
-## <a name="23"></a>23. 联邦支出稳定性分析 
+## <a name="25"></a>25. 联邦支出稳定性分析 
 <small>🔗 [lbo-news.com](https://lbo-news.com/2025/02/16/no-federal-spending-and-employment-are-not-out-of-control/): Federal spending is stable over time</small>
 
 
-| 🔥: 63 \| 💬: [83](https://news.ycombinator.com/item?id=43224201) \| 🗓️ 2025-03-01
+| 🔥: 64 \| 💬: [85](https://news.ycombinator.com/item?id=43224201) \| 🗓️ 2025-03-01
 
 
 <br />
 联邦支出和就业并未“失控”，这是一个常见的误解。尽管有人声称联邦支出增加了$2.3万亿，但相较于GDP的增长，这一增幅并不显著。过去40年，联邦支出基本保持平稳，除了经济衰退和疫情期间的短暂波动。此外，联邦就业占总就业和人口的比例也在下降，显示出联邦政府的规模并未扩大。尽管有人对债务和赤字表示担忧，但实际上，富人和支持他们的人往往反对增税，这加剧了财政问题。
-
----
-
-## <a name="24"></a>24. 美国天气预报系统面临危机 
-<small>🔗 [theatlantic.com](https://www.theatlantic.com/science/archive/2025/02/noaa-cuts-nws/681875/): The American Weather Forecast Is in Trouble</small>
-
-
-| 🔥: 55 \| 💬: [23](https://news.ycombinator.com/item?id=43224862) \| 🗓️ 2025-03-01
-
-
-<br />
-由于**NOAA**（美国国家海洋和大气管理局）大规模裁员，特别是**试用期员工**被解雇，美国天气预报能力受到严重威胁。这些员工在**飓风建模**和天气数据收集方面具有丰富经验，他们的离开可能导致预测准确性下降，尤其是在极端天气频发的背景下。此外，**IT基础设施**的脆弱性也加剧了问题，可能导致更多数据中断。随着气候变化加剧，准确的天气预报对公共安全至关重要，但目前的情况令人担忧。
-
----
-
-## <a name="25"></a>25. Zapier代码库遭入侵，客户数据可能泄露 
-<small>🔗 [theverge.com](https://www.theverge.com/news/622026/zapier-data-breach-code-repositories): Zapier says someone broke into its code repositories and may have customer data</small>
-
-
-| 🔥: 53 \| 💬: [8](https://news.ycombinator.com/item?id=43219022) \| 🗓️ 2025-03-01
-
-
-<br />
-Zapier近日发现，由于**员工账户的双因素认证（2FA）配置错误**，未经授权的用户访问了其代码库，并可能获取了部分客户数据。这些数据原本不应存储在代码库中，但在调试过程中被**无意复制**。Zapier已采取措施保护代码库，并正在审查内部流程以防止类似事件再次发生。
 
 ---
