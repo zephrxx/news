@@ -9,14 +9,14 @@ tags:
 
 
 1. 致美国人民的信；
-1. 一名DOGE员工在其公开的GitHub上发布DOGE工作；
 1. GSA裁撤18F科技团队；
+1. 一名DOGE员工在其公开的GitHub上发布DOGE工作；
 1. 用Chromebook打造的疯狂视频墙；
 1. GLP-1药物：经济颠覆者？；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共19条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [18f.org](https://18f.org/): A Letter to the American People</small>
 
 
-| 🔥🔥: 833 \| 💬: [390](https://news.ycombinator.com/item?id=43224350) \| 🗓️ 2025-03-01
+| 🔥🔥: 861 \| 💬: [413](https://news.ycombinator.com/item?id=43224350) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -35,23 +35,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. 一名DOGE员工在其公开的GitHub上发布DOGE工作 
-<small>🔗 [twitter.com](https://twitter.com/SollenbergerRC/status/1895609294810464390): A DOGE staffer appears to be posting DOGE work on his public GitHub</small>
-
-
-| 🔥🔥: 353 \| 💬: [337](https://news.ycombinator.com/item?id=43217947) \| 🗓️ 2025-03-01
-
-
-<br />
-一名与DOGE相关的员工似乎在其公开的GitHub上分享了与DOGE项目相关的工作。这一举动引发了社区的关注，可能会对DOGE的开发和推广产生积极影响。尽管页面出现了一些技术问题，例如JavaScript未启用，但这一信息仍然引起了用户的兴趣，显示出DOGE项目的活跃度和透明度。
-
----
-
-## <a name="3"></a>3. GSA裁撤18F科技团队 
+## <a name="2"></a>2. GSA裁撤18F科技团队 
 <small>🔗 [nextgov.com](https://www.nextgov.com/people/2025/03/gsa-eliminates-18f/403400/): GSA Eliminates 18F</small>
 
 
-| 🔥🔥: 351 \| 💬: [276](https://news.ycombinator.com/item?id=43221549) \| 🗓️ 2025-03-01
+| 🔥🔥: 377 \| 💬: [306](https://news.ycombinator.com/item?id=43221549) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -59,11 +47,23 @@ tags:
 
 ---
 
+## <a name="3"></a>3. 一名DOGE员工在其公开的GitHub上发布DOGE工作 
+<small>🔗 [twitter.com](https://twitter.com/SollenbergerRC/status/1895609294810464390): A DOGE staffer appears to be posting DOGE work on his public GitHub</small>
+
+
+| 🔥🔥: 353 \| 💬: [339](https://news.ycombinator.com/item?id=43217947) \| 🗓️ 2025-03-01
+
+
+<br />
+一名与DOGE相关的员工似乎在其公开的GitHub上分享了与DOGE项目相关的工作。这一举动引发了社区的关注，可能会对DOGE的开发和推广产生积极影响。尽管页面出现了一些技术问题，例如JavaScript未启用，但这一信息仍然引起了用户的兴趣，显示出DOGE项目的活跃度和透明度。
+
+---
+
 ## <a name="4"></a>4. 用Chromebook打造的疯狂视频墙 
 <small>🔗 [varun.ch](https://varun.ch/posts/videowall/): The most unhinged video wall, made out of Chromebooks</small>
 
 
-| 🔥🔥: 300 \| 💬: [32](https://news.ycombinator.com/item?id=43221697) \| 🗓️ 2025-03-01
+| 🔥🔥: 311 \| 💬: [32](https://news.ycombinator.com/item?id=43221697) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [wildfirelabs.substack.com](https://wildfirelabs.substack.com/p/the-100-trillion-disruption-the-unforeseen): GLP-1 drugs: An economic disruptor? (2024)</small>
 
 
-| 🔥🔥: 281 \| 💬: [343](https://news.ycombinator.com/item?id=43222791) \| 🗓️ 2025-03-01
+| 🔥🔥: 290 \| 💬: [366](https://news.ycombinator.com/item?id=43222791) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -99,7 +99,7 @@ GLP-1药物可能成为自互联网以来最大的经济颠覆者。这类药物
 <small>🔗 [bengarcia.dev](https://bengarcia.dev/making-o1-o3-and-sonnet-3-7-hallucinate-for-everyone): Making o1, o3, and Sonnet 3.7 hallucinate for everyone</small>
 
 
-| 🔥🔥: 168 \| 💬: [141](https://news.ycombinator.com/item?id=43222027) \| 🗓️ 2025-03-01
+| 🔥🔥: 175 \| 💬: [143](https://news.ycombinator.com/item?id=43222027) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -111,7 +111,7 @@ GLP-1药物可能成为自互联网以来最大的经济颠覆者。这类药物
 <small>🔗 [grapheneos.social](https://grapheneos.social/@GrapheneOS/114081753914226921): GrapheneOS blocked exploitation of 3 Android zero-days used by Cellebrite</small>
 
 
-| 🔥🔥: 127 \| 💬: [44](https://news.ycombinator.com/item?id=43218872) \| 🗓️ 2025-03-01
+| 🔥🔥: 128 \| 💬: [45](https://news.ycombinator.com/item?id=43218872) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -119,27 +119,27 @@ GrapheneOS 成功地 **阻止了 Cellebrite** 利用的三个 **Android 零日�
 
 ---
 
-## <a name="9"></a>9. 为一切提供助手：逐键训练你的AI替代品 
-<small>🔗 [substack.com](https://substack.com/home/post/p-158101095): Copilot for Everything: Training your AI replacement one keystroke at a time</small>
-
-
-| 🔥🔥: 124 \| 💬: [73](https://news.ycombinator.com/item?id=43220938) \| 🗓️ 2025-03-01
-
-
-<br />
-这篇文章探讨了如何通过**逐步训练**和**不断输入**来提升人工智能助手的能力。随着技术的发展，AI正在成为我们日常工作的**重要工具**，帮助我们提高效率和创造力。文章强调了在使用AI时，用户的参与和反馈是至关重要的，这将直接影响AI的表现和适应性。
-
----
-
-## <a name="10"></a>10. Xcode不断向外发送数据 
+## <a name="9"></a>9. Xcode不断向外发送数据 
 <small>🔗 [lapcatsoftware.com](https://lapcatsoftware.com/articles/2025/2/5.html?__readwiseLocation=): Xcode constantly phones home</small>
 
 
-| 🔥🔥: 114 \| 💬: [38](https://news.ycombinator.com/item?id=43223075) \| 🗓️ 2025-03-01
+| 🔥🔥: 128 \| 💬: [44](https://news.ycombinator.com/item?id=43223075) \| 🗓️ 2025-03-01
 
 
 <br />
 在使用Xcode构建项目时，发现某些构建阶段特别慢，尤其是“收集配置文件输入”阶段，耗时超过整个构建时间的一半。经过调查，发现Xcode在此阶段需要连接到**developerservices2.apple.com**，而禁用该连接后，构建速度显著提升。虽然连接是为了支持自动签名和上传，但对于大多数本地构建而言，这一过程是多余的。此外，Xcode在启动时还会连接到**devimages-cdn.apple.com**和**appstoreconnect.apple.com**，这些连接似乎也不必要，可能会收集用户的项目识别信息。这使得Xcode在某种程度上成为了一个开发者分析收集工具，违背了苹果对隐私的承诺。
+
+---
+
+## <a name="10"></a>10. 为一切提供助手：逐键训练你的AI替代品 
+<small>🔗 [substack.com](https://substack.com/home/post/p-158101095): Copilot for Everything: Training your AI replacement one keystroke at a time</small>
+
+
+| 🔥🔥: 126 \| 💬: [73](https://news.ycombinator.com/item?id=43220938) \| 🗓️ 2025-03-01
+
+
+<br />
+这篇文章探讨了如何通过**逐步训练**和**不断输入**来提升人工智能助手的能力。随着技术的发展，AI正在成为我们日常工作的**重要工具**，帮助我们提高效率和创造力。文章强调了在使用AI时，用户的参与和反馈是至关重要的，这将直接影响AI的表现和适应性。
 
 ---
 
@@ -159,7 +159,7 @@ OpenAI的GPT 4.5发布后评价惨淡，显示出其在AGI领域的进展停滞�
 <small>🔗 [daringfireball.net](https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video): Why can't we screenshot frames from DRM-protected video on Apple devices?</small>
 
 
-| 🔥: 87 \| 💬: [78](https://news.ycombinator.com/item?id=43223985) \| 🗓️ 2025-03-01
+| 🔥: 87 \| 💬: [92](https://news.ycombinator.com/item?id=43223985) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -167,23 +167,11 @@ OpenAI的GPT 4.5发布后评价惨淡，显示出其在AGI领域的进展停滞�
 
 ---
 
-## <a name="13"></a>13. “我们将与乌克兰站在一起，无论需要多长时间”——基尔·斯塔默告诉泽连斯基 
-<small>🔗 [bbc.com](https://www.bbc.com/news/live/cn5220x56pqt): 'We stand with Ukraine for as long as it may take' – Keir Starmer tells Zelensky</small>
-
-
-| 🔥: 78 \| 💬: [86](https://news.ycombinator.com/item?id=43221982) \| 🗓️ 2025-03-01
-
-
-<br />
-泽连斯基与特朗普及JD·万斯的白宫会议在紧张中结束，导致美国与欧洲北约成员国之间的**危机**加剧。与此同时，普京在莫斯科静观事态发展。英国首相基尔·斯塔默正努力修复局势，并将在周日的欧洲领导人峰会上与泽连斯基会面。
-
----
-
-## <a name="14"></a>14. 马斯克盟友计划关闭IRS免费报税项目背后的办公室 
+## <a name="13"></a>13. 马斯克盟友计划关闭IRS免费报税项目背后的办公室 
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/mar/01/musk-close-irs-free-filing-system): Musk ally is moving to close office behind free tax filing program at IRS</small>
 
 
-| 🔥: 77 \| 💬: [1](https://news.ycombinator.com/item?id=43222216) \| 🗓️ 2025-03-01
+| 🔥: 79 \| 💬: [1](https://news.ycombinator.com/item?id=43222216) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -191,7 +179,31 @@ OpenAI的GPT 4.5发布后评价惨淡，显示出其在AGI领域的进展停滞�
 
 ---
 
-## <a name="15"></a>15. 什么是氛围编码？创作者如何在没有编码知识的情况下构建软件 
+## <a name="14"></a>14. “我们将与乌克兰站在一起，无论需要多长时间”——基尔·斯塔默告诉泽连斯基 
+<small>🔗 [bbc.com](https://www.bbc.com/news/live/cn5220x56pqt): 'We stand with Ukraine for as long as it may take' – Keir Starmer tells Zelensky</small>
+
+
+| 🔥: 78 \| 💬: [87](https://news.ycombinator.com/item?id=43221982) \| 🗓️ 2025-03-01
+
+
+<br />
+泽连斯基与特朗普及JD·万斯的白宫会议在紧张中结束，导致美国与欧洲北约成员国之间的**危机**加剧。与此同时，普京在莫斯科静观事态发展。英国首相基尔·斯塔默正努力修复局势，并将在周日的欧洲领导人峰会上与泽连斯基会面。
+
+---
+
+## <a name="15"></a>15. Efabless – 关闭通知 
+<small>🔗 [efabless.com](https://efabless.com/notice): Efabless – Shutdown Notice</small>
+
+
+| 🔥: 77 \| 💬: [32](https://news.ycombinator.com/item?id=43222168) \| 🗓️ 2025-03-01
+
+
+<br />
+由于**资金问题**，Efabless已暂停运营，直至另行通知。我们对造成的任何不便表示遗憾，并将根据情况提供更新。请关注我们的后续消息，以获取最新动态和进一步的信息。
+
+---
+
+## <a name="16"></a>16. 什么是氛围编码？创作者如何在没有编码知识的情况下构建软件 
 <small>🔗 [alitu.com](https://alitu.com/creator/workflow/what-is-vibe-coding/): What is vibe coding? How creators are building software with no coding knowledge</small>
 
 
@@ -203,7 +215,19 @@ OpenAI的GPT 4.5发布后评价惨淡，显示出其在AGI领域的进展停滞�
 
 ---
 
-## <a name="16"></a>16. 美国国家公园和森林的裁员引发强烈反对 
+## <a name="17"></a>17. 从OpenGL到WASM：我学习中的错误 
+<small>🔗 [uds5501.github.io](https://uds5501.github.io/mindpalace/2025/03/01/opengl-webgl-porting.html): OpenGL to WASM, learning from my mistakes</small>
+
+
+| 🔥: 71 \| 💬: [18](https://news.ycombinator.com/item?id=43218998) \| 🗓️ 2025-03-01
+
+
+<br />
+最近，我对**OpenGL**产生了兴趣，尝试在**WASM**上渲染一百万个球体，过程中遇到了一些错误。我的项目在本地渲染了10k个球体，但在演示时遇到问题，决定将其移植到Web。通过使用**Emscripten**和一些库，我成功实现了这一目标。过程中，我发现了两个主要错误：一是错误的纹理坐标映射导致球体扁平化，二是**VAO**被重用导致渲染错误。尽管遇到挑战，我享受了这个学习过程，并期待下一个项目。
+
+---
+
+## <a name="18"></a>18. 美国国家公园和森林的裁员引发强烈反对 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/czx7kez4vx2o): Cuts to US national parks and forests met with backlash</small>
 
 
@@ -215,38 +239,74 @@ OpenAI的GPT 4.5发布后评价惨淡，显示出其在AGI领域的进展停滞�
 
 ---
 
-## <a name="17"></a>17. 从OpenGL到WASM：我学习中的错误 
-<small>🔗 [uds5501.github.io](https://uds5501.github.io/mindpalace/2025/03/01/opengl-webgl-porting.html): OpenGL to WASM, learning from my mistakes</small>
+## <a name="19"></a>19. 我受够了编程 
+<small>🔗 [neelc.org](https://www.neelc.org/2025/03/01/im-done-with-coding/): I'm Done with Coding</small>
 
 
-| 🔥: 70 \| 💬: [18](https://news.ycombinator.com/item?id=43218998) \| 🗓️ 2025-03-01
-
-
-<br />
-最近，我对**OpenGL**产生了兴趣，尝试在**WASM**上渲染一百万个球体，过程中遇到了一些错误。我的项目在本地渲染了10k个球体，但在演示时遇到问题，决定将其移植到Web。通过使用**Emscripten**和一些库，我成功实现了这一目标。过程中，我发现了两个主要错误：一是错误的纹理坐标映射导致球体扁平化，二是**VAO**被重用导致渲染错误。尽管遇到挑战，我享受了这个学习过程，并期待下一个项目。
-
----
-
-## <a name="18"></a>18. Efabless – 关闭通知 
-<small>🔗 [efabless.com](https://efabless.com/notice): Efabless – Shutdown Notice</small>
-
-
-| 🔥: 69 \| 💬: [30](https://news.ycombinator.com/item?id=43222168) \| 🗓️ 2025-03-01
+| 🔥: 65 \| 💬: [36](https://news.ycombinator.com/item?id=43225901) \| 🗓️ 2025-03-01
 
 
 <br />
-由于**资金问题**，Efabless已暂停运营，直至另行通知。我们对造成的任何不便表示遗憾，并将根据情况提供更新。请关注我们的后续消息，以获取最新动态和进一步的信息。
+作者Neel Chauhan分享了他从热爱编程到彻底放弃的心路历程。他曾在微软从事**大数据**相关工作，但因对**Viva Insights**这一监控产品的厌恶，逐渐失去了对编程的热情。他决定放弃高薪工作，转而追求**隐私和道德**，并尝试创业。他强调，**价值观**比薪资更重要，宁愿从事低薪工作也不愿参与不道德的项目。
 
 ---
 
-## <a name="19"></a>19. 联邦支出稳定性分析 
+## <a name="20"></a>20. 联邦支出稳定性分析 
 <small>🔗 [lbo-news.com](https://lbo-news.com/2025/02/16/no-federal-spending-and-employment-are-not-out-of-control/): Federal spending is stable over time</small>
 
 
-| 🔥: 60 \| 💬: [78](https://news.ycombinator.com/item?id=43224201) \| 🗓️ 2025-03-01
+| 🔥: 62 \| 💬: [82](https://news.ycombinator.com/item?id=43224201) \| 🗓️ 2025-03-01
 
 
 <br />
 联邦支出和就业并未“失控”，这是一个常见的误解。尽管有人声称联邦支出增加了$2.3万亿，但相较于GDP的增长，这一增幅并不显著。过去40年，联邦支出基本保持平稳，除了经济衰退和疫情期间的短暂波动。此外，联邦就业占总就业和人口的比例也在下降，显示出联邦政府的规模并未扩大。尽管有人对债务和赤字表示担忧，但实际上，富人和支持他们的人往往反对增税，这加剧了财政问题。
+
+---
+
+## <a name="21"></a>21. Emacs Tree-sitter 自定义语法高亮 
+<small>🔗 [amitp.blogspot.com](https://amitp.blogspot.com/2025/02/emacs-tree-sitter-custom-highlighting.html): Emacs Tree-sitter custom highlighting</small>
+
+
+| 🔥: 61 \| 💬: [4](https://news.ycombinator.com/item?id=43217195) \| 🗓️ 2025-03-01
+
+
+<br />
+作者在 Emacs 中使用 **Tree-sitter** 实现了自定义语法高亮，重点区分了控制流中断的关键字（如 `return`、`continue`）和普通关键字（如 `while`、`if`）。此外，作者还根据变量名的含义进行高亮，例如在项目中区分水平和垂直测量、网格轴等。通过 `treesit-font-lock-rules` 函数，作者为不同语言（如 Python）设置了特定的高亮规则，并解决了软关键字（如 `type`）的高亮问题。**Tree-sitter** 的解析能力使得高亮更加精确，避免了正则表达式高亮的局限性。
+
+---
+
+## <a name="22"></a>22. 美国天气预报系统面临危机 
+<small>🔗 [theatlantic.com](https://www.theatlantic.com/science/archive/2025/02/noaa-cuts-nws/681875/): The American Weather Forecast Is in Trouble</small>
+
+
+| 🔥: 54 \| 💬: [22](https://news.ycombinator.com/item?id=43224862) \| 🗓️ 2025-03-01
+
+
+<br />
+由于**NOAA**（美国国家海洋和大气管理局）大规模裁员，特别是**试用期员工**被解雇，美国天气预报能力受到严重威胁。这些员工在**飓风建模**和天气数据收集方面具有丰富经验，他们的离开可能导致预测准确性下降，尤其是在极端天气频发的背景下。此外，**IT基础设施**的脆弱性也加剧了问题，可能导致更多数据中断。随着气候变化加剧，准确的天气预报对公共安全至关重要，但目前的情况令人担忧。
+
+---
+
+## <a name="23"></a>23. Zapier代码库遭入侵，客户数据可能泄露 
+<small>🔗 [theverge.com](https://www.theverge.com/news/622026/zapier-data-breach-code-repositories): Zapier says someone broke into its code repositories and may have customer data</small>
+
+
+| 🔥: 53 \| 💬: [8](https://news.ycombinator.com/item?id=43219022) \| 🗓️ 2025-03-01
+
+
+<br />
+Zapier近日发现，由于**员工账户的双因素认证（2FA）配置错误**，未经授权的用户访问了其代码库，并可能获取了部分客户数据。这些数据原本不应存储在代码库中，但在调试过程中被**无意复制**。Zapier已采取措施保护代码库，并正在审查内部流程以防止类似事件再次发生。
+
+---
+
+## <a name="24"></a>24. 中国建议人工智能专家避免前往美国 
+<small>🔗 [saba.ye](https://www.saba.ye/en/news3445018.htm): China advises citizens specializing in AI to avoid traveling to America</small>
+
+
+| 🔥: 50 \| 💬: [21](https://news.ycombinator.com/item?id=43223684) \| 🗓️ 2025-03-01
+
+
+<br />
+中国当局已向**人工智能**领域的专家发出建议，出于安全考虑，避免前往美国。据《华尔街日报》报道，中国担心这些专家在海外可能泄露国家机密，或被用作中美谈判中的**施压工具**。虽然没有直接禁令，但北京、上海和浙江等地的科技中心已发出相关指示，要求专家在必要时才出行，并需提前报备行程和回国后汇报活动。
 
 ---
