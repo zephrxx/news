@@ -10,8 +10,8 @@ tags:
 
 1. 致美国人民的信；
 1. GSA裁撤18F科技团队；
-1. 一名DOGE员工在其公开的GitHub上发布DOGE工作；
 1. 用Chromebook打造的疯狂视频墙；
+1. 一名DOGE员工在其公开的GitHub上发布DOGE工作；
 1. GLP-1药物：经济颠覆者？；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [18f.org](https://18f.org/): A Letter to the American People</small>
 
 
-| 🔥🔥: 880 \| 💬: [432](https://news.ycombinator.com/item?id=43224350) \| 🗓️ 2025-03-01
+| 🔥🔥: 887 \| 💬: [441](https://news.ycombinator.com/item?id=43224350) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [nextgov.com](https://www.nextgov.com/people/2025/03/gsa-eliminates-18f/403400/): GSA Eliminates 18F</small>
 
 
-| 🔥🔥: 431 \| 💬: [361](https://news.ycombinator.com/item?id=43221549) \| 🗓️ 2025-03-01
+| 🔥🔥: 440 \| 💬: [372](https://news.ycombinator.com/item?id=43221549) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -47,23 +47,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 一名DOGE员工在其公开的GitHub上发布DOGE工作 
-<small>🔗 [twitter.com](https://twitter.com/SollenbergerRC/status/1895609294810464390): A DOGE staffer appears to be posting DOGE work on his public GitHub</small>
-
-
-| 🔥🔥: 358 \| 💬: [348](https://news.ycombinator.com/item?id=43217947) \| 🗓️ 2025-03-01
-
-
-<br />
-一名与DOGE相关的员工似乎在其公开的GitHub上分享了与DOGE项目相关的工作。这一举动引发了社区的关注，可能会对DOGE的开发和推广产生积极影响。尽管页面出现了一些技术问题，例如JavaScript未启用，但这一信息仍然引起了用户的兴趣，显示出DOGE项目的活跃度和透明度。
-
----
-
-## <a name="4"></a>4. 用Chromebook打造的疯狂视频墙 
+## <a name="3"></a>3. 用Chromebook打造的疯狂视频墙 
 <small>🔗 [varun.ch](https://varun.ch/posts/videowall/): The most unhinged video wall, made out of Chromebooks</small>
 
 
-| 🔥🔥: 355 \| 💬: [34](https://news.ycombinator.com/item?id=43221697) \| 🗓️ 2025-03-01
+| 🔥🔥: 369 \| 💬: [36](https://news.ycombinator.com/item?id=43221697) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -71,11 +59,23 @@ tags:
 
 ---
 
+## <a name="4"></a>4. 一名DOGE员工在其公开的GitHub上发布DOGE工作 
+<small>🔗 [twitter.com](https://twitter.com/SollenbergerRC/status/1895609294810464390): A DOGE staffer appears to be posting DOGE work on his public GitHub</small>
+
+
+| 🔥🔥: 359 \| 💬: [348](https://news.ycombinator.com/item?id=43217947) \| 🗓️ 2025-03-01
+
+
+<br />
+一名与DOGE相关的员工似乎在其公开的GitHub上分享了与DOGE项目相关的工作。这一举动引发了社区的关注，可能会对DOGE的开发和推广产生积极影响。尽管页面出现了一些技术问题，例如JavaScript未启用，但这一信息仍然引起了用户的兴趣，显示出DOGE项目的活跃度和透明度。
+
+---
+
 ## <a name="5"></a>5. GLP-1药物：经济颠覆者？ 
 <small>🔗 [wildfirelabs.substack.com](https://wildfirelabs.substack.com/p/the-100-trillion-disruption-the-unforeseen): GLP-1 drugs: An economic disruptor? (2024)</small>
 
 
-| 🔥🔥: 313 \| 💬: [409](https://news.ycombinator.com/item?id=43222791) \| 🗓️ 2025-03-01
+| 🔥🔥: 324 \| 💬: [426](https://news.ycombinator.com/item?id=43222791) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -87,7 +87,7 @@ GLP-1药物可能成为自互联网以来最大的经济颠覆者。这类药物
 <small>🔗 [bengarcia.dev](https://bengarcia.dev/making-o1-o3-and-sonnet-3-7-hallucinate-for-everyone): Making o1, o3, and Sonnet 3.7 hallucinate for everyone</small>
 
 
-| 🔥🔥: 193 \| 💬: [149](https://news.ycombinator.com/item?id=43222027) \| 🗓️ 2025-03-01
+| 🔥🔥: 201 \| 💬: [153](https://news.ycombinator.com/item?id=43222027) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -111,7 +111,7 @@ GLP-1药物可能成为自互联网以来最大的经济颠覆者。这类药物
 <small>🔗 [lapcatsoftware.com](https://lapcatsoftware.com/articles/2025/2/5.html?__readwiseLocation=): Xcode constantly phones home</small>
 
 
-| 🔥🔥: 153 \| 💬: [49](https://news.ycombinator.com/item?id=43223075) \| 🗓️ 2025-03-01
+| 🔥🔥: 159 \| 💬: [55](https://news.ycombinator.com/item?id=43223075) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -119,7 +119,19 @@ GLP-1药物可能成为自互联网以来最大的经济颠覆者。这类药物
 
 ---
 
-## <a name="9"></a>9. GrapheneOS 阻止了 Cellebrite 利用的 3 个 Android 零日漏洞 
+## <a name="9"></a>9. 柏林电子交换集市：4月19日举办 
+<small>🔗 [swapfest.berlin](https://www.swapfest.berlin/): Show HN: Berlin Swapfest – Electronics flea market</small>
+
+
+| 🔥🔥: 135 \| 💬: [25](https://news.ycombinator.com/item?id=43223718) \| 🗓️ 2025-03-01
+
+
+<br />
+柏林Swapfest将于2025年4月19日在c-base（Rungestraße 20）举办，时间为12:00至18:00。这是一个**电子设备、计算机工具**的交换集市，旨在推动**维修权**和**再利用**。卖家免费参与，买家可自由选择支付方式。活动由c-base主办，提供桌子和场地。
+
+---
+
+## <a name="10"></a>10. GrapheneOS 阻止了 Cellebrite 利用的 3 个 Android 零日漏洞 
 <small>🔗 [grapheneos.social](https://grapheneos.social/@GrapheneOS/114081753914226921): GrapheneOS blocked exploitation of 3 Android zero-days used by Cellebrite</small>
 
 
@@ -131,7 +143,7 @@ GrapheneOS 成功地 **阻止了 Cellebrite** 利用的三个 **Android 零日�
 
 ---
 
-## <a name="10"></a>10. 为一切提供助手：逐键训练你的AI替代品 
+## <a name="11"></a>11. 为一切提供助手：逐键训练你的AI替代品 
 <small>🔗 [substack.com](https://substack.com/home/post/p-158101095): Copilot for Everything: Training your AI replacement one keystroke at a time</small>
 
 
@@ -143,23 +155,11 @@ GrapheneOS 成功地 **阻止了 Cellebrite** 利用的三个 **Android 零日�
 
 ---
 
-## <a name="11"></a>11. 柏林电子交换集市：4月19日举办 
-<small>🔗 [swapfest.berlin](https://www.swapfest.berlin/): Show HN: Berlin Swapfest – Electronics flea market</small>
-
-
-| 🔥🔥: 127 \| 💬: [22](https://news.ycombinator.com/item?id=43223718) \| 🗓️ 2025-03-01
-
-
-<br />
-柏林Swapfest将于2025年4月19日在c-base（Rungestraße 20）举办，时间为12:00至18:00。这是一个**电子设备、计算机工具**的交换集市，旨在推动**维修权**和**再利用**。卖家免费参与，买家可自由选择支付方式。活动由c-base主办，提供桌子和场地。
-
----
-
 ## <a name="12"></a>12. 我受够了编程 
 <small>🔗 [neelc.org](https://www.neelc.org/2025/03/01/im-done-with-coding/): I'm done with coding</small>
 
 
-| 🔥🔥: 124 \| 💬: [97](https://news.ycombinator.com/item?id=43225901) \| 🗓️ 2025-03-01
+| 🔥🔥: 125 \| 💬: [103](https://news.ycombinator.com/item?id=43225901) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -167,15 +167,15 @@ GrapheneOS 成功地 **阻止了 Cellebrite** 利用的三个 **Android 零日�
 
 ---
 
-## <a name="13"></a>13. 为什么我们无法在苹果设备上截取DRM保护视频的帧？ 
-<small>🔗 [daringfireball.net](https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video): Why can't we screenshot frames from DRM-protected video on Apple devices?</small>
+## <a name="13"></a>13. NIH预算削减：破坏性改革而非真正改进 
+<small>🔗 [sensible-med.com](https://www.sensible-med.com/p/the-nih-is-being-slashed-and-burned): The NIH Is Being Slashed and Burned, Not "Reformed"</small>
 
 
-| 🔥🔥: 103 \| 💬: [112](https://news.ycombinator.com/item?id=43223985) \| 🗓️ 2025-03-01
+| 🔥🔥: 125 \| 💬: [108](https://news.ycombinator.com/item?id=43227180) \| 🗓️ 2025-03-01
 
 
 <br />
-随着流媒体平台如Netflix和HBO Max实施更严格的**数字版权管理**（DRM），用户在苹果设备上截取视频截图变得几乎不可能。尽管PC用户仍可使用工具截屏，但苹果设备由于其**硬件与操作系统的深度集成**，使得这种功能受到限制。这种限制不仅对用户造成困扰，也未能有效阻止盗版行为。
+美国国立卫生研究院（NIH）近期将间接费用上限设为15%，引发广泛争议。**Leslie Bienen**指出，这一政策不仅**非法**，还可能严重削弱美国在生物医学研究领域的全球领导地位。**大学研究经费**将大幅减少，尤其是州立大学将受到更大冲击。此举可能导致研究质量下降，甚至影响美国经济的创新驱动力。
 
 ---
 
@@ -183,7 +183,7 @@ GrapheneOS 成功地 **阻止了 Cellebrite** 利用的三个 **Android 零日�
 <small>🔗 [lwn.net](https://lwn.net/Articles/928581/): The early days of Linux (2023)</small>
 
 
-| 🔥: 100 \| 💬: [18](https://news.ycombinator.com/item?id=43225686) \| 🗓️ 2025-03-01
+| 🔥🔥: 122 \| 💬: [27](https://news.ycombinator.com/item?id=43225686) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -191,11 +191,23 @@ Lars Wirzenius回忆了Linux的诞生和早期发展。1988年，他与Linus Tor
 
 ---
 
-## <a name="15"></a>15. Efabless – 关闭通知 
+## <a name="15"></a>15. 为什么我们无法在苹果设备上截取DRM保护视频的帧？ 
+<small>🔗 [daringfireball.net](https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video): Why can't we screenshot frames from DRM-protected video on Apple devices?</small>
+
+
+| 🔥🔥: 118 \| 💬: [123](https://news.ycombinator.com/item?id=43223985) \| 🗓️ 2025-03-01
+
+
+<br />
+随着流媒体平台如Netflix和HBO Max实施更严格的**数字版权管理**（DRM），用户在苹果设备上截取视频截图变得几乎不可能。尽管PC用户仍可使用工具截屏，但苹果设备由于其**硬件与操作系统的深度集成**，使得这种功能受到限制。这种限制不仅对用户造成困扰，也未能有效阻止盗版行为。
+
+---
+
+## <a name="16"></a>16. Efabless – 关闭通知 
 <small>🔗 [efabless.com](https://efabless.com/notice): Efabless – Shutdown Notice</small>
 
 
-| 🔥: 90 \| 💬: [42](https://news.ycombinator.com/item?id=43222168) \| 🗓️ 2025-03-01
+| 🔥: 99 \| 💬: [43](https://news.ycombinator.com/item?id=43222168) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -203,11 +215,23 @@ Lars Wirzenius回忆了Linux的诞生和早期发展。1988年，他与Linus Tor
 
 ---
 
-## <a name="16"></a>16. OpenAI面临困境 
+## <a name="17"></a>17. Flash游戏如何塑造了现代游戏产业 
+<small>🔗 [flashgamehistory.com](https://www.flashgamehistory.com/): How Flash games shaped the video game industry (2020)</small>
+
+
+| 🔥: 91 \| 💬: [38](https://news.ycombinator.com/item?id=43225560) \| 🗓️ 2025-03-01
+
+
+<br />
+Flash游戏虽然已退出历史舞台，但其对现代游戏的影响深远。**Canabalt**开创了无尽跑酷游戏类型，而**The Crimson Room**则启发了密室逃脱游戏。Flash游戏为开发者提供了**实验性平台**，推动了游戏设计的快速迭代。通过Newgrounds等网站，任何人都能发布游戏，无需依赖工作室或发行商。Flash的**低门槛**和**跨平台兼容性**使其成为游戏开发者的首选工具，尽管最终因技术限制被淘汰，但其创意和影响力仍在延续。
+
+---
+
+## <a name="18"></a>18. OpenAI面临困境 
 <small>🔗 [garymarcus.substack.com](https://garymarcus.substack.com/p/openai-in-deep-trouble): Open AI in Trouble</small>
 
 
-| 🔥: 87 \| 💬: [101](https://news.ycombinator.com/item?id=43221543) \| 🗓️ 2025-03-01
+| 🔥: 88 \| 💬: [102](https://news.ycombinator.com/item?id=43221543) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -215,11 +239,11 @@ OpenAI的GPT 4.5发布后评价惨淡，显示出其在AGI领域的进展停滞�
 
 ---
 
-## <a name="17"></a>17. “我们将与乌克兰站在一起，无论需要多长时间”——基尔·斯塔默告诉泽连斯基 
+## <a name="19"></a>19. “我们将与乌克兰站在一起，无论需要多长时间”——基尔·斯塔默告诉泽连斯基 
 <small>🔗 [bbc.com](https://www.bbc.com/news/live/cn5220x56pqt): 'We stand with Ukraine for as long as it may take' – Keir Starmer tells Zelensky</small>
 
 
-| 🔥: 81 \| 💬: [90](https://news.ycombinator.com/item?id=43221982) \| 🗓️ 2025-03-01
+| 🔥: 81 \| 💬: [91](https://news.ycombinator.com/item?id=43221982) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -227,7 +251,7 @@ OpenAI的GPT 4.5发布后评价惨淡，显示出其在AGI领域的进展停滞�
 
 ---
 
-## <a name="18"></a>18. 马斯克盟友计划关闭IRS免费报税项目背后的办公室 
+## <a name="20"></a>20. 马斯克盟友计划关闭IRS免费报税项目背后的办公室 
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/mar/01/musk-close-irs-free-filing-system): Musk ally is moving to close office behind free tax filing program at IRS</small>
 
 
@@ -239,35 +263,11 @@ OpenAI的GPT 4.5发布后评价惨淡，显示出其在AGI领域的进展停滞�
 
 ---
 
-## <a name="19"></a>19. Flash游戏如何塑造了现代游戏产业 
-<small>🔗 [flashgamehistory.com](https://www.flashgamehistory.com/): How Flash games shaped the video game industry (2020)</small>
-
-
-| 🔥: 79 \| 💬: [35](https://news.ycombinator.com/item?id=43225560) \| 🗓️ 2025-03-01
-
-
-<br />
-Flash游戏虽然已退出历史舞台，但其对现代游戏的影响深远。**Canabalt**开创了无尽跑酷游戏类型，而**The Crimson Room**则启发了密室逃脱游戏。Flash游戏为开发者提供了**实验性平台**，推动了游戏设计的快速迭代。通过Newgrounds等网站，任何人都能发布游戏，无需依赖工作室或发行商。Flash的**低门槛**和**跨平台兼容性**使其成为游戏开发者的首选工具，尽管最终因技术限制被淘汰，但其创意和影响力仍在延续。
-
----
-
-## <a name="20"></a>20. Emacs Tree-sitter 自定义语法高亮 
-<small>🔗 [amitp.blogspot.com](https://amitp.blogspot.com/2025/02/emacs-tree-sitter-custom-highlighting.html): Emacs Tree-sitter custom highlighting</small>
-
-
-| 🔥: 76 \| 💬: [8](https://news.ycombinator.com/item?id=43217195) \| 🗓️ 2025-03-01
-
-
-<br />
-作者在 Emacs 中使用 **Tree-sitter** 实现了自定义语法高亮，重点区分了控制流中断的关键字（如 `return`、`continue`）和普通关键字（如 `while`、`if`）。此外，作者还根据变量名的含义进行高亮，例如在项目中区分水平和垂直测量、网格轴等。通过 `treesit-font-lock-rules` 函数，作者为不同语言（如 Python）设置了特定的高亮规则，并解决了软关键字（如 `type`）的高亮问题。**Tree-sitter** 的解析能力使得高亮更加精确，避免了正则表达式高亮的局限性。
-
----
-
 ## <a name="21"></a>21. 挪威燃料供应商因乌克兰问题拒绝为美国军舰供油 
 <small>🔗 [ukdefencejournal.org.uk](https://ukdefencejournal.org.uk/norwegian-fuel-supplier-refuses-u-s-warships-over-ukraine/): Norwegian fuel supplier refuses U.S. warships over Ukraine</small>
 
 
-| 🔥: 76 \| 💬: [45](https://news.ycombinator.com/item?id=43223872) \| 🗓️ 2025-03-01
+| 🔥: 79 \| 💬: [47](https://news.ycombinator.com/item?id=43223872) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -275,11 +275,23 @@ Flash游戏虽然已退出历史舞台，但其对现代游戏的影响深远。
 
 ---
 
-## <a name="22"></a>22. 什么是氛围编码？创作者如何在没有编码知识的情况下构建软件 
+## <a name="22"></a>22. Emacs Tree-sitter 自定义语法高亮 
+<small>🔗 [amitp.blogspot.com](https://amitp.blogspot.com/2025/02/emacs-tree-sitter-custom-highlighting.html): Emacs Tree-sitter custom highlighting</small>
+
+
+| 🔥: 77 \| 💬: [9](https://news.ycombinator.com/item?id=43217195) \| 🗓️ 2025-03-01
+
+
+<br />
+作者在 Emacs 中使用 **Tree-sitter** 实现了自定义语法高亮，重点区分了控制流中断的关键字（如 `return`、`continue`）和普通关键字（如 `while`、`if`）。此外，作者还根据变量名的含义进行高亮，例如在项目中区分水平和垂直测量、网格轴等。通过 `treesit-font-lock-rules` 函数，作者为不同语言（如 Python）设置了特定的高亮规则，并解决了软关键字（如 `type`）的高亮问题。**Tree-sitter** 的解析能力使得高亮更加精确，避免了正则表达式高亮的局限性。
+
+---
+
+## <a name="23"></a>23. 什么是氛围编码？创作者如何在没有编码知识的情况下构建软件 
 <small>🔗 [alitu.com](https://alitu.com/creator/workflow/what-is-vibe-coding/): What is vibe coding? How creators are building software with no coding knowledge</small>
 
 
-| 🔥: 74 \| 💬: [143](https://news.ycombinator.com/item?id=43218410) \| 🗓️ 2025-03-01
+| 🔥: 75 \| 💬: [143](https://news.ycombinator.com/item?id=43218410) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -287,11 +299,11 @@ Flash游戏虽然已退出历史舞台，但其对现代游戏的影响深远。
 
 ---
 
-## <a name="23"></a>23. 从OpenGL到WASM：我学习中的错误 
+## <a name="24"></a>24. 从OpenGL到WASM：我学习中的错误 
 <small>🔗 [uds5501.github.io](https://uds5501.github.io/mindpalace/2025/03/01/opengl-webgl-porting.html): OpenGL to WASM, learning from my mistakes</small>
 
 
-| 🔥: 71 \| 💬: [18](https://news.ycombinator.com/item?id=43218998) \| 🗓️ 2025-03-01
+| 🔥: 72 \| 💬: [18](https://news.ycombinator.com/item?id=43218998) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -299,7 +311,7 @@ Flash游戏虽然已退出历史舞台，但其对现代游戏的影响深远。
 
 ---
 
-## <a name="24"></a>24. 美国国家公园和森林的裁员引发强烈反对 
+## <a name="25"></a>25. 美国国家公园和森林的裁员引发强烈反对 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/czx7kez4vx2o): Cuts to US national parks and forests met with backlash</small>
 
 
@@ -308,17 +320,5 @@ Flash游戏虽然已退出历史舞台，但其对现代游戏的影响深远。
 
 <br />
 特朗普政府对国家公园、森林和野生动物栖息地的**大幅裁员**引发了公众的强烈反对，影响了**游客体验**和**生态保护**。裁员导致公园服务人员减少，游客面临更长的入园排队、设施关闭和安全隐患。尽管部分员工在裁员后被重新雇用，但许多服务仍未恢复，公众对未来的**安全和保护**感到担忧。
-
----
-
-## <a name="25"></a>25. 联邦支出稳定性分析 
-<small>🔗 [lbo-news.com](https://lbo-news.com/2025/02/16/no-federal-spending-and-employment-are-not-out-of-control/): Federal spending is stable over time</small>
-
-
-| 🔥: 64 \| 💬: [85](https://news.ycombinator.com/item?id=43224201) \| 🗓️ 2025-03-01
-
-
-<br />
-联邦支出和就业并未“失控”，这是一个常见的误解。尽管有人声称联邦支出增加了$2.3万亿，但相较于GDP的增长，这一增幅并不显著。过去40年，联邦支出基本保持平稳，除了经济衰退和疫情期间的短暂波动。此外，联邦就业占总就业和人口的比例也在下降，显示出联邦政府的规模并未扩大。尽管有人对债务和赤字表示担忧，但实际上，富人和支持他们的人往往反对增税，这加剧了财政问题。
 
 ---
