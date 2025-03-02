@@ -27,7 +27,7 @@ tags:
 <small>🔗 [18f.org](https://18f.org/): A Letter to the American People</small>
 
 
-| 🔥🔥: 893 \| 💬: [440](https://news.ycombinator.com/item?id=43224350) \| 🗓️ 2025-03-01
+| 🔥🔥: 900 \| 💬: [440](https://news.ycombinator.com/item?id=43224350) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [nextgov.com](https://www.nextgov.com/people/2025/03/gsa-eliminates-18f/403400/): GSA Eliminates 18F</small>
 
 
-| 🔥🔥: 446 \| 💬: [378](https://news.ycombinator.com/item?id=43221549) \| 🗓️ 2025-03-01
+| 🔥🔥: 453 \| 💬: [387](https://news.ycombinator.com/item?id=43221549) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [varun.ch](https://varun.ch/posts/videowall/): The most unhinged video wall, made out of Chromebooks</small>
 
 
-| 🔥🔥: 383 \| 💬: [37](https://news.ycombinator.com/item?id=43221697) \| 🗓️ 2025-03-01
+| 🔥🔥: 395 \| 💬: [39](https://news.ycombinator.com/item?id=43221697) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/SollenbergerRC/status/1895609294810464390): A DOGE staffer appears to be posting DOGE work on his public GitHub</small>
 
 
-| 🔥🔥: 360 \| 💬: [348](https://news.ycombinator.com/item?id=43217947) \| 🗓️ 2025-03-01
+| 🔥🔥: 360 \| 💬: [349](https://news.ycombinator.com/item?id=43217947) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [wildfirelabs.substack.com](https://wildfirelabs.substack.com/p/the-100-trillion-disruption-the-unforeseen): GLP-1 drugs: An economic disruptor? (2024)</small>
 
 
-| 🔥🔥: 330 \| 💬: [442](https://news.ycombinator.com/item?id=43222791) \| 🗓️ 2025-03-01
+| 🔥🔥: 336 \| 💬: [451](https://news.ycombinator.com/item?id=43222791) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -87,7 +87,7 @@ GLP-1药物可能成为自互联网以来最大的经济颠覆者。这类药物
 <small>🔗 [bengarcia.dev](https://bengarcia.dev/making-o1-o3-and-sonnet-3-7-hallucinate-for-everyone): Making o1, o3, and Sonnet 3.7 hallucinate for everyone</small>
 
 
-| 🔥🔥: 209 \| 💬: [157](https://news.ycombinator.com/item?id=43222027) \| 🗓️ 2025-03-01
+| 🔥🔥: 215 \| 💬: [169](https://news.ycombinator.com/item?id=43222027) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -99,7 +99,7 @@ GLP-1药物可能成为自互联网以来最大的经济颠覆者。这类药物
 <small>🔗 [ghuntley.com](https://ghuntley.com/tradecraft/): Yes, Claude Code can decompile itself. Here's the source code</small>
 
 
-| 🔥🔥: 181 \| 💬: [117](https://news.ycombinator.com/item?id=43217357) \| 🗓️ 2025-03-01
+| 🔥🔥: 182 \| 💬: [117](https://news.ycombinator.com/item?id=43217357) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -107,47 +107,11 @@ GLP-1药物可能成为自互联网以来最大的经济颠覆者。这类药物
 
 ---
 
-## <a name="8"></a>8. Xcode不断向外发送数据 
-<small>🔗 [lapcatsoftware.com](https://lapcatsoftware.com/articles/2025/2/5.html?__readwiseLocation=): Xcode constantly phones home</small>
-
-
-| 🔥🔥: 161 \| 💬: [55](https://news.ycombinator.com/item?id=43223075) \| 🗓️ 2025-03-01
-
-
-<br />
-在使用Xcode构建项目时，发现某些构建阶段特别慢，尤其是“收集配置文件输入”阶段，耗时超过整个构建时间的一半。经过调查，发现Xcode在此阶段需要连接到**developerservices2.apple.com**，而禁用该连接后，构建速度显著提升。虽然连接是为了支持自动签名和上传，但对于大多数本地构建而言，这一过程是多余的。此外，Xcode在启动时还会连接到**devimages-cdn.apple.com**和**appstoreconnect.apple.com**，这些连接似乎也不必要，可能会收集用户的项目识别信息。这使得Xcode在某种程度上成为了一个开发者分析收集工具，违背了苹果对隐私的承诺。
-
----
-
-## <a name="9"></a>9. NIH预算削减：破坏性改革而非真正改进 
-<small>🔗 [sensible-med.com](https://www.sensible-med.com/p/the-nih-is-being-slashed-and-burned): The NIH is being slashed and burned, not "reformed"</small>
-
-
-| 🔥🔥: 151 \| 💬: [191](https://news.ycombinator.com/item?id=43227180) \| 🗓️ 2025-03-01
-
-
-<br />
-美国国立卫生研究院（NIH）近期将间接费用上限设为15%，引发广泛争议。**Leslie Bienen**指出，这一政策不仅**非法**，还可能严重削弱美国在生物医学研究领域的全球领导地位。**大学研究经费**将大幅减少，尤其是州立大学将受到更大冲击。此举可能导致研究质量下降，甚至影响美国经济的创新驱动力。
-
----
-
-## <a name="10"></a>10. 柏林电子交换集市：4月19日举办 
-<small>🔗 [swapfest.berlin](https://www.swapfest.berlin/): Show HN: Berlin Swapfest – Electronics flea market</small>
-
-
-| 🔥🔥: 150 \| 💬: [26](https://news.ycombinator.com/item?id=43223718) \| 🗓️ 2025-03-01
-
-
-<br />
-柏林Swapfest将于2025年4月19日在c-base（Rungestraße 20）举办，时间为12:00至18:00。这是一个**电子设备、计算机工具**的交换集市，旨在推动**维修权**和**再利用**。卖家免费参与，买家可自由选择支付方式。活动由c-base主办，提供桌子和场地。
-
----
-
-## <a name="11"></a>11. Linux的早期岁月（2023） 
+## <a name="8"></a>8. Linux的早期岁月（2023） 
 <small>🔗 [lwn.net](https://lwn.net/Articles/928581/): The early days of Linux (2023)</small>
 
 
-| 🔥🔥: 148 \| 💬: [33](https://news.ycombinator.com/item?id=43225686) \| 🗓️ 2025-03-01
+| 🔥🔥: 182 \| 💬: [38](https://news.ycombinator.com/item?id=43225686) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -155,11 +119,59 @@ Lars Wirzenius回忆了Linux的诞生和早期发展。1988年，他与Linus Tor
 
 ---
 
-## <a name="12"></a>12. 我受够了编程 
+## <a name="9"></a>9. 柏林电子交换集市：4月19日举办 
+<small>🔗 [swapfest.berlin](https://www.swapfest.berlin/): Show HN: Berlin Swapfest – Electronics flea market</small>
+
+
+| 🔥🔥: 170 \| 💬: [29](https://news.ycombinator.com/item?id=43223718) \| 🗓️ 2025-03-01
+
+
+<br />
+柏林Swapfest将于2025年4月19日在c-base（Rungestraße 20）举办，时间为12:00至18:00。这是一个**电子设备、计算机工具**的交换集市，旨在推动**维修权**和**再利用**。卖家免费参与，买家可自由选择支付方式。活动由c-base主办，提供桌子和场地。
+
+---
+
+## <a name="10"></a>10. Xcode不断向外发送数据 
+<small>🔗 [lapcatsoftware.com](https://lapcatsoftware.com/articles/2025/2/5.html?__readwiseLocation=): Xcode constantly phones home</small>
+
+
+| 🔥🔥: 164 \| 💬: [61](https://news.ycombinator.com/item?id=43223075) \| 🗓️ 2025-03-01
+
+
+<br />
+在使用Xcode构建项目时，发现某些构建阶段特别慢，尤其是“收集配置文件输入”阶段，耗时超过整个构建时间的一半。经过调查，发现Xcode在此阶段需要连接到**developerservices2.apple.com**，而禁用该连接后，构建速度显著提升。虽然连接是为了支持自动签名和上传，但对于大多数本地构建而言，这一过程是多余的。此外，Xcode在启动时还会连接到**devimages-cdn.apple.com**和**appstoreconnect.apple.com**，这些连接似乎也不必要，可能会收集用户的项目识别信息。这使得Xcode在某种程度上成为了一个开发者分析收集工具，违背了苹果对隐私的承诺。
+
+---
+
+## <a name="11"></a>11. NIH预算削减：破坏性改革而非真正改进 
+<small>🔗 [sensible-med.com](https://www.sensible-med.com/p/the-nih-is-being-slashed-and-burned): The NIH is being slashed and burned, not "reformed"</small>
+
+
+| 🔥🔥: 158 \| 💬: [205](https://news.ycombinator.com/item?id=43227180) \| 🗓️ 2025-03-01
+
+
+<br />
+美国国立卫生研究院（NIH）近期将间接费用上限设为15%，引发广泛争议。**Leslie Bienen**指出，这一政策不仅**非法**，还可能严重削弱美国在生物医学研究领域的全球领导地位。**大学研究经费**将大幅减少，尤其是州立大学将受到更大冲击。此举可能导致研究质量下降，甚至影响美国经济的创新驱动力。
+
+---
+
+## <a name="12"></a>12. 为什么我们无法在苹果设备上截取DRM保护视频的帧？ 
+<small>🔗 [daringfireball.net](https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video): Why can't we screenshot frames from DRM-protected video on Apple devices?</small>
+
+
+| 🔥🔥: 134 \| 💬: [155](https://news.ycombinator.com/item?id=43223985) \| 🗓️ 2025-03-01
+
+
+<br />
+随着流媒体平台如Netflix和HBO Max实施更严格的**数字版权管理**（DRM），用户在苹果设备上截取视频截图变得几乎不可能。尽管PC用户仍可使用工具截屏，但苹果设备由于其**硬件与操作系统的深度集成**，使得这种功能受到限制。这种限制不仅对用户造成困扰，也未能有效阻止盗版行为。
+
+---
+
+## <a name="13"></a>13. 我受够了编程 
 <small>🔗 [neelc.org](https://www.neelc.org/2025/03/01/im-done-with-coding/): I'm done with coding</small>
 
 
-| 🔥🔥: 129 \| 💬: [104](https://news.ycombinator.com/item?id=43225901) \| 🗓️ 2025-03-01
+| 🔥🔥: 132 \| 💬: [105](https://news.ycombinator.com/item?id=43225901) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -167,7 +179,19 @@ Lars Wirzenius回忆了Linux的诞生和早期发展。1988年，他与Linus Tor
 
 ---
 
-## <a name="13"></a>13. GrapheneOS 阻止了 Cellebrite 利用的 3 个 Android 零日漏洞 
+## <a name="14"></a>14. 为一切提供助手：逐键训练你的AI替代品 
+<small>🔗 [substack.com](https://substack.com/home/post/p-158101095): Copilot for Everything: Training your AI replacement one keystroke at a time</small>
+
+
+| 🔥🔥: 129 \| 💬: [75](https://news.ycombinator.com/item?id=43220938) \| 🗓️ 2025-03-01
+
+
+<br />
+这篇文章探讨了如何通过**逐步训练**和**不断输入**来提升人工智能助手的能力。随着技术的发展，AI正在成为我们日常工作的**重要工具**，帮助我们提高效率和创造力。文章强调了在使用AI时，用户的参与和反馈是至关重要的，这将直接影响AI的表现和适应性。
+
+---
+
+## <a name="15"></a>15. GrapheneOS 阻止了 Cellebrite 利用的 3 个 Android 零日漏洞 
 <small>🔗 [grapheneos.social](https://grapheneos.social/@GrapheneOS/114081753914226921): GrapheneOS blocked exploitation of 3 Android zero-days used by Cellebrite</small>
 
 
@@ -179,47 +203,11 @@ GrapheneOS 成功地 **阻止了 Cellebrite** 利用的三个 **Android 零日�
 
 ---
 
-## <a name="14"></a>14. 为一切提供助手：逐键训练你的AI替代品 
-<small>🔗 [substack.com](https://substack.com/home/post/p-158101095): Copilot for Everything: Training your AI replacement one keystroke at a time</small>
-
-
-| 🔥🔥: 128 \| 💬: [75](https://news.ycombinator.com/item?id=43220938) \| 🗓️ 2025-03-01
-
-
-<br />
-这篇文章探讨了如何通过**逐步训练**和**不断输入**来提升人工智能助手的能力。随着技术的发展，AI正在成为我们日常工作的**重要工具**，帮助我们提高效率和创造力。文章强调了在使用AI时，用户的参与和反馈是至关重要的，这将直接影响AI的表现和适应性。
-
----
-
-## <a name="15"></a>15. 为什么我们无法在苹果设备上截取DRM保护视频的帧？ 
-<small>🔗 [daringfireball.net](https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video): Why can't we screenshot frames from DRM-protected video on Apple devices?</small>
-
-
-| 🔥🔥: 128 \| 💬: [135](https://news.ycombinator.com/item?id=43223985) \| 🗓️ 2025-03-01
-
-
-<br />
-随着流媒体平台如Netflix和HBO Max实施更严格的**数字版权管理**（DRM），用户在苹果设备上截取视频截图变得几乎不可能。尽管PC用户仍可使用工具截屏，但苹果设备由于其**硬件与操作系统的深度集成**，使得这种功能受到限制。这种限制不仅对用户造成困扰，也未能有效阻止盗版行为。
-
----
-
-## <a name="16"></a>16. Efabless – 关闭通知 
-<small>🔗 [efabless.com](https://efabless.com/notice): Efabless – Shutdown Notice</small>
-
-
-| 🔥🔥: 109 \| 💬: [45](https://news.ycombinator.com/item?id=43222168) \| 🗓️ 2025-03-01
-
-
-<br />
-由于**资金问题**，Efabless已暂停运营，直至另行通知。我们对造成的任何不便表示遗憾，并将根据情况提供更新。请关注我们的后续消息，以获取最新动态和进一步的信息。
-
----
-
-## <a name="17"></a>17. Flash游戏如何塑造了现代游戏产业 
+## <a name="16"></a>16. Flash游戏如何塑造了现代游戏产业 
 <small>🔗 [flashgamehistory.com](https://www.flashgamehistory.com/): How Flash games shaped the video game industry (2020)</small>
 
 
-| 🔥🔥: 107 \| 💬: [50](https://news.ycombinator.com/item?id=43225560) \| 🗓️ 2025-03-01
+| 🔥🔥: 118 \| 💬: [52](https://news.ycombinator.com/item?id=43225560) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -227,7 +215,31 @@ Flash游戏虽然已退出历史舞台，但其对现代游戏的影响深远。
 
 ---
 
-## <a name="18"></a>18. OpenAI面临困境 
+## <a name="17"></a>17. Efabless – 关闭通知 
+<small>🔗 [efabless.com](https://efabless.com/notice): Efabless – Shutdown Notice</small>
+
+
+| 🔥🔥: 114 \| 💬: [47](https://news.ycombinator.com/item?id=43222168) \| 🗓️ 2025-03-01
+
+
+<br />
+由于**资金问题**，Efabless已暂停运营，直至另行通知。我们对造成的任何不便表示遗憾，并将根据情况提供更新。请关注我们的后续消息，以获取最新动态和进一步的信息。
+
+---
+
+## <a name="18"></a>18. Emacs Tree-sitter 自定义语法高亮 
+<small>🔗 [amitp.blogspot.com](https://amitp.blogspot.com/2025/02/emacs-tree-sitter-custom-highlighting.html): Emacs Tree-sitter custom highlighting</small>
+
+
+| 🔥: 89 \| 💬: [10](https://news.ycombinator.com/item?id=43217195) \| 🗓️ 2025-03-01
+
+
+<br />
+作者在 Emacs 中使用 **Tree-sitter** 实现了自定义语法高亮，重点区分了控制流中断的关键字（如 `return`、`continue`）和普通关键字（如 `while`、`if`）。此外，作者还根据变量名的含义进行高亮，例如在项目中区分水平和垂直测量、网格轴等。通过 `treesit-font-lock-rules` 函数，作者为不同语言（如 Python）设置了特定的高亮规则，并解决了软关键字（如 `type`）的高亮问题。**Tree-sitter** 的解析能力使得高亮更加精确，避免了正则表达式高亮的局限性。
+
+---
+
+## <a name="19"></a>19. OpenAI面临困境 
 <small>🔗 [garymarcus.substack.com](https://garymarcus.substack.com/p/openai-in-deep-trouble): Open AI in Trouble</small>
 
 
@@ -239,23 +251,23 @@ OpenAI的GPT 4.5发布后评价惨淡，显示出其在AGI领域的进展停滞�
 
 ---
 
-## <a name="19"></a>19. Emacs Tree-sitter 自定义语法高亮 
-<small>🔗 [amitp.blogspot.com](https://amitp.blogspot.com/2025/02/emacs-tree-sitter-custom-highlighting.html): Emacs Tree-sitter custom highlighting</small>
+## <a name="20"></a>20. 欧几里得望远镜在NGC星系中发现完整爱因斯坦环 
+<small>🔗 [euclid-ec.org](https://www.euclid-ec.org/einstein-ring-in-ngc-6505/): Euclid finds complete Einstein Ring in NGC galaxy</small>
 
 
-| 🔥: 84 \| 💬: [10](https://news.ycombinator.com/item?id=43217195) \| 🗓️ 2025-03-01
+| 🔥: 84 \| 💬: [11](https://news.ycombinator.com/item?id=43223596) \| 🗓️ 2025-03-01
 
 
 <br />
-作者在 Emacs 中使用 **Tree-sitter** 实现了自定义语法高亮，重点区分了控制流中断的关键字（如 `return`、`continue`）和普通关键字（如 `while`、`if`）。此外，作者还根据变量名的含义进行高亮，例如在项目中区分水平和垂直测量、网格轴等。通过 `treesit-font-lock-rules` 函数，作者为不同语言（如 Python）设置了特定的高亮规则，并解决了软关键字（如 `type`）的高亮问题。**Tree-sitter** 的解析能力使得高亮更加精确，避免了正则表达式高亮的局限性。
+欧几里得望远镜在距离地球仅5.9亿光年的NGC 6505星系中发现了一个**完美的爱因斯坦环**。这是极为罕见的现象，通常需要背景星系、透镜星系和观测者完美对齐。此次发现不仅展示了**引力透镜效应**的精确性，还揭示了NGC 6505中心暗物质的比例（11.1%）。欧几里得望远镜的长时间观测和高质量数据使得这一发现成为可能，未来预计还将发现更多类似的透镜系统。
 
 ---
 
-## <a name="20"></a>20. “我们将与乌克兰站在一起，无论需要多长时间”——基尔·斯塔默告诉泽连斯基 
+## <a name="21"></a>21. “我们将与乌克兰站在一起，无论需要多长时间”——基尔·斯塔默告诉泽连斯基 
 <small>🔗 [bbc.com](https://www.bbc.com/news/live/cn5220x56pqt): 'We stand with Ukraine for as long as it may take' – Keir Starmer tells Zelensky</small>
 
 
-| 🔥: 81 \| 💬: [91](https://news.ycombinator.com/item?id=43221982) \| 🗓️ 2025-03-01
+| 🔥: 82 \| 💬: [91](https://news.ycombinator.com/item?id=43221982) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -263,11 +275,11 @@ OpenAI的GPT 4.5发布后评价惨淡，显示出其在AGI领域的进展停滞�
 
 ---
 
-## <a name="21"></a>21. 马斯克盟友计划关闭IRS免费报税项目背后的办公室 
+## <a name="22"></a>22. 马斯克盟友计划关闭IRS免费报税项目背后的办公室 
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/mar/01/musk-close-irs-free-filing-system): Musk ally is moving to close office behind free tax filing program at IRS</small>
 
 
-| 🔥: 80 \| 💬: [2](https://news.ycombinator.com/item?id=43222216) \| 🗓️ 2025-03-01
+| 🔥: 82 \| 💬: [2](https://news.ycombinator.com/item?id=43222216) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -275,11 +287,11 @@ OpenAI的GPT 4.5发布后评价惨淡，显示出其在AGI领域的进展停滞�
 
 ---
 
-## <a name="22"></a>22. 挪威燃料供应商因乌克兰问题拒绝为美国军舰供油 
+## <a name="23"></a>23. 挪威燃料供应商因乌克兰问题拒绝为美国军舰供油 
 <small>🔗 [ukdefencejournal.org.uk](https://ukdefencejournal.org.uk/norwegian-fuel-supplier-refuses-u-s-warships-over-ukraine/): Norwegian fuel supplier refuses U.S. warships over Ukraine</small>
 
 
-| 🔥: 79 \| 💬: [52](https://news.ycombinator.com/item?id=43223872) \| 🗓️ 2025-03-01
+| 🔥: 82 \| 💬: [53](https://news.ycombinator.com/item?id=43223872) \| 🗓️ 2025-03-01
 
 
 <br />
@@ -287,7 +299,7 @@ OpenAI的GPT 4.5发布后评价惨淡，显示出其在AGI领域的进展停滞�
 
 ---
 
-## <a name="23"></a>23. 什么是氛围编码？创作者如何在没有编码知识的情况下构建软件 
+## <a name="24"></a>24. 什么是氛围编码？创作者如何在没有编码知识的情况下构建软件 
 <small>🔗 [alitu.com](https://alitu.com/creator/workflow/what-is-vibe-coding/): What is vibe coding? How creators are building software with no coding knowledge</small>
 
 
@@ -299,7 +311,7 @@ OpenAI的GPT 4.5发布后评价惨淡，显示出其在AGI领域的进展停滞�
 
 ---
 
-## <a name="24"></a>24. 从OpenGL到WASM：我学习中的错误 
+## <a name="25"></a>25. 从OpenGL到WASM：我学习中的错误 
 <small>🔗 [uds5501.github.io](https://uds5501.github.io/mindpalace/2025/03/01/opengl-webgl-porting.html): OpenGL to WASM, learning from my mistakes</small>
 
 
@@ -308,17 +320,5 @@ OpenAI的GPT 4.5发布后评价惨淡，显示出其在AGI领域的进展停滞�
 
 <br />
 最近，我对**OpenGL**产生了兴趣，尝试在**WASM**上渲染一百万个球体，过程中遇到了一些错误。我的项目在本地渲染了10k个球体，但在演示时遇到问题，决定将其移植到Web。通过使用**Emscripten**和一些库，我成功实现了这一目标。过程中，我发现了两个主要错误：一是错误的纹理坐标映射导致球体扁平化，二是**VAO**被重用导致渲染错误。尽管遇到挑战，我享受了这个学习过程，并期待下一个项目。
-
----
-
-## <a name="25"></a>25. 美国国家公园和森林的裁员引发强烈反对 
-<small>🔗 [bbc.com](https://www.bbc.com/news/articles/czx7kez4vx2o): Cuts to US national parks and forests met with backlash</small>
-
-
-| 🔥: 71 \| 💬: [41](https://news.ycombinator.com/item?id=43219297) \| 🗓️ 2025-03-01
-
-
-<br />
-特朗普政府对国家公园、森林和野生动物栖息地的**大幅裁员**引发了公众的强烈反对，影响了**游客体验**和**生态保护**。裁员导致公园服务人员减少，游客面临更长的入园排队、设施关闭和安全隐患。尽管部分员工在裁员后被重新雇用，但许多服务仍未恢复，公众对未来的**安全和保护**感到担忧。
 
 ---
