@@ -27,7 +27,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/EthanEvansVP/status/1895845734177452369): Executive wealth as a factor in return-to-office</small>
 
 
-| 🔥🔥: 540 \| 💬: [410](https://news.ycombinator.com/item?id=43232255) \| 🗓️ 2025-03-02
+| 🔥🔥: 545 \| 💬: [411](https://news.ycombinator.com/item?id=43232255) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [nslookup.io](https://www.nslookup.io/domains/www.nih.gov/dns-records/#authoritative): NIH.gov DNS servers down, making PubMed, BLAST, etc. unreachable [fixed]</small>
 
 
-| 🔥🔥: 480 \| 💬: [356](https://news.ycombinator.com/item?id=43229201) \| 🗓️ 2025-03-02
+| 🔥🔥: 482 \| 💬: [358](https://news.ycombinator.com/item?id=43229201) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [cnn.com](https://www.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html): Firefly ‘Blue Ghost’ lunar lander touches down on the moon</small>
 
 
-| 🔥🔥: 318 \| 💬: [82](https://news.ycombinator.com/item?id=43228816) \| 🗓️ 2025-03-02
+| 🔥🔥: 353 \| 💬: [87](https://news.ycombinator.com/item?id=43228816) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/): Mozilla flamed by Firefox fans after reneging on promises to not sell their data</small>
 
 
-| 🔥🔥: 313 \| 💬: [202](https://news.ycombinator.com/item?id=43229668) \| 🗓️ 2025-03-02
+| 🔥🔥: 316 \| 💬: [209](https://news.ycombinator.com/item?id=43229668) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -83,59 +83,11 @@ Mozilla近日更新了Firefox的**使用条款**和**隐私声明**，引发用�
 
 ---
 
-## <a name="6"></a>6. Firefox与Mozilla信任崩塌：替代浏览器推荐 
-<small>🔗 [boilingsteam.com](https://boilingsteam.com/poll-trust-in-firefox-mozilla-is-gone/): Trust in Firefox and Mozilla Is Gone – Let's Talk Alternatives</small>
-
-
-| 🔥🔥: 259 \| 💬: [222](https://news.ycombinator.com/item?id=43229378) \| 🗓️ 2025-03-02
-
-
-<br />
-近期，Mozilla在源代码中移除了“不售卖用户数据”的承诺，并修改了隐私声明和使用条款，导致用户对**Firefox**及其母公司**Mozilla**的信任大幅下降。调查显示，超过35%的用户完全失去信任，54%的用户持怀疑态度。尽管Mozilla试图澄清，但解释反而加深了用户对其数据处理的担忧。文章推荐了多个注重隐私的替代浏览器，如**LibreWolf**、**Waterfox**和**Brave**，并指出未来隐私保护将成为浏览器竞争的关键。
-
----
-
-## <a name="7"></a>7. 深入了解smallpond与3FS：分布式数据分析的新选择 
-<small>🔗 [definite.app](https://www.definite.app/blog/smallpond): Understanding Smallpond and 3FS</small>
-
-
-| 🔥🔥: 251 \| 💬: [45](https://news.ycombinator.com/item?id=43232410) \| 🗓️ 2025-03-02
-
-
-<br />
-smallpond是由DeepSeek AI推出的轻量级分布式数据处理框架，扩展了DuckDB的单节点分析能力，使其能够处理跨多节点的大规模数据集。**3FS**（Fire-Flyer File System）是其高性能并行存储系统，专为AI和高性能计算优化。尽管**smallpond**和**3FS**在超大规模数据集（>10TB）上表现出色，但其部署复杂，适合已有强大基础设施和DevOps支持的团队。对于中小规模数据，单节点DuckDB或更简单的解决方案更为合适。
-
----
-
-## <a name="8"></a>8. 奔腾处理器中的复杂三倍乘法电路 
-<small>🔗 [righto.com](https://www.righto.com/2025/03/pentium-multiplier-adder-reverse-engineered.html): The Pentium contains a complicated circuit to multiply by three</small>
-
-
-| 🔥🔥: 246 \| 💬: [87](https://news.ycombinator.com/item?id=43233143) \| 🗓️ 2025-03-02
-
-
-<br />
-1993年，英特尔发布了高性能的奔腾处理器，开启了奔腾系列的辉煌历史。奔腾处理器中有一个复杂的**三倍乘法电路**，用于加速浮点运算。该电路采用**基数8乘法**和**Booth算法**，通过**并行前缀加法器**和**Kogge-Stone算法**实现快速进位计算，确保乘法运算的高效性。尽管三倍乘法看似简单，但其硬件实现却占据了芯片的显著面积，体现了奔腾处理器设计的精妙之处。
-
----
-
-## <a name="9"></a>9. 速通玩家其实是漏洞研究员，只是他们还没意识到 
-<small>🔗 [zetier.com](https://zetier.com/speedrunners-are-vulnerability-researchers/): Speedrunners are vulnerability researchers, they just don't know it yet</small>
-
-
-| 🔥🔥: 242 \| 💬: [67](https://news.ycombinator.com/item?id=43232880) \| 🗓️ 2025-03-02
-
-
-<br />
-速通玩家通过反复研究游戏细节，无意中积累了与**漏洞研究**相似的技能。他们使用**逆向工程工具**（如IDA Pro、Ghidra）分析游戏内部机制，甚至开发新工具来发现游戏漏洞。这些行为与网络安全行业中的**漏洞研究**极为相似，但许多玩家并未意识到这些技能可以转化为职业机会。
-
----
-
-## <a name="10"></a>10. 太阳能朋克：可持续未来的文学与艺术运动 
+## <a name="6"></a>6. 太阳能朋克：可持续未来的文学与艺术运动 
 <small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Solarpunk): Solarpunk</small>
 
 
-| 🔥🔥: 236 \| 💬: [109](https://news.ycombinator.com/item?id=43236520) \| 🗓️ 2025-03-02
+| 🔥🔥: 266 \| 💬: [121](https://news.ycombinator.com/item?id=43236520) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -143,11 +95,59 @@ smallpond是由DeepSeek AI推出的轻量级分布式数据处理框架，扩展
 
 ---
 
+## <a name="7"></a>7. Firefox与Mozilla信任崩塌：替代浏览器推荐 
+<small>🔗 [boilingsteam.com](https://boilingsteam.com/poll-trust-in-firefox-mozilla-is-gone/): Trust in Firefox and Mozilla Is Gone – Let's Talk Alternatives</small>
+
+
+| 🔥🔥: 261 \| 💬: [223](https://news.ycombinator.com/item?id=43229378) \| 🗓️ 2025-03-02
+
+
+<br />
+近期，Mozilla在源代码中移除了“不售卖用户数据”的承诺，并修改了隐私声明和使用条款，导致用户对**Firefox**及其母公司**Mozilla**的信任大幅下降。调查显示，超过35%的用户完全失去信任，54%的用户持怀疑态度。尽管Mozilla试图澄清，但解释反而加深了用户对其数据处理的担忧。文章推荐了多个注重隐私的替代浏览器，如**LibreWolf**、**Waterfox**和**Brave**，并指出未来隐私保护将成为浏览器竞争的关键。
+
+---
+
+## <a name="8"></a>8. 奔腾处理器中的复杂三倍乘法电路 
+<small>🔗 [righto.com](https://www.righto.com/2025/03/pentium-multiplier-adder-reverse-engineered.html): The Pentium contains a complicated circuit to multiply by three</small>
+
+
+| 🔥🔥: 256 \| 💬: [87](https://news.ycombinator.com/item?id=43233143) \| 🗓️ 2025-03-02
+
+
+<br />
+1993年，英特尔发布了高性能的奔腾处理器，开启了奔腾系列的辉煌历史。奔腾处理器中有一个复杂的**三倍乘法电路**，用于加速浮点运算。该电路采用**基数8乘法**和**Booth算法**，通过**并行前缀加法器**和**Kogge-Stone算法**实现快速进位计算，确保乘法运算的高效性。尽管三倍乘法看似简单，但其硬件实现却占据了芯片的显著面积，体现了奔腾处理器设计的精妙之处。
+
+---
+
+## <a name="9"></a>9. 深入了解smallpond与3FS：分布式数据分析的新选择 
+<small>🔗 [definite.app](https://www.definite.app/blog/smallpond): Understanding Smallpond and 3FS</small>
+
+
+| 🔥🔥: 252 \| 💬: [45](https://news.ycombinator.com/item?id=43232410) \| 🗓️ 2025-03-02
+
+
+<br />
+smallpond是由DeepSeek AI推出的轻量级分布式数据处理框架，扩展了DuckDB的单节点分析能力，使其能够处理跨多节点的大规模数据集。**3FS**（Fire-Flyer File System）是其高性能并行存储系统，专为AI和高性能计算优化。尽管**smallpond**和**3FS**在超大规模数据集（>10TB）上表现出色，但其部署复杂，适合已有强大基础设施和DevOps支持的团队。对于中小规模数据，单节点DuckDB或更简单的解决方案更为合适。
+
+---
+
+## <a name="10"></a>10. 速通玩家其实是漏洞研究员，只是他们还没意识到 
+<small>🔗 [zetier.com](https://zetier.com/speedrunners-are-vulnerability-researchers/): Speedrunners are vulnerability researchers, they just don't know it yet</small>
+
+
+| 🔥🔥: 251 \| 💬: [69](https://news.ycombinator.com/item?id=43232880) \| 🗓️ 2025-03-02
+
+
+<br />
+速通玩家通过反复研究游戏细节，无意中积累了与**漏洞研究**相似的技能。他们使用**逆向工程工具**（如IDA Pro、Ghidra）分析游戏内部机制，甚至开发新工具来发现游戏漏洞。这些行为与网络安全行业中的**漏洞研究**极为相似，但许多玩家并未意识到这些技能可以转化为职业机会。
+
+---
+
 ## <a name="11"></a>11. 我构建了一个现代化的Goodreads替代品 
 <small>🔗 [kaguya.io](https://kaguya.io/): Show HN: I built a modern Goodreads alternative</small>
 
 
-| 🔥🔥: 232 \| 💬: [194](https://news.ycombinator.com/item?id=43230994) \| 🗓️ 2025-03-02
+| 🔥🔥: 234 \| 💬: [196](https://news.ycombinator.com/item?id=43230994) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -159,7 +159,7 @@ Kaguya是一个**免费**的书籍管理平台，帮助用户**记录已读书�
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Mar/2/hallucinations-in-code/): Hallucinations in code are the least dangerous form of LLM mistakes</small>
 
 
-| 🔥🔥: 200 \| 💬: [142](https://news.ycombinator.com/item?id=43233903) \| 🗓️ 2025-03-02
+| 🔥🔥: 214 \| 💬: [154](https://news.ycombinator.com/item?id=43233903) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -167,23 +167,11 @@ Kaguya是一个**免费**的书籍管理平台，帮助用户**记录已读书�
 
 ---
 
-## <a name="13"></a>13. 人工智能的统治 
-<small>🔗 [substack.com](https://substack.com/home/post/p-156886169): The A.I. Monarchy</small>
-
-
-| 🔥🔥: 196 \| 💬: [238](https://news.ycombinator.com/item?id=43229245) \| 🗓️ 2025-03-02
-
-
-<br />
-该文本提到一个需要JavaScript运行的网站，旨在为独立声音提供平台。用户可以通过Ctrl + K登录或创建账户，获取应用程序并了解更多信息。**JavaScript**是网站正常运行的关键，用户需启用或解除脚本屏蔽。
-
----
-
-## <a name="14"></a>14. 地热能：脚下的气候革命 
+## <a name="13"></a>13. 地热能：脚下的气候革命 
 <small>🔗 [newyorker.com](https://www.newyorker.com/news/the-lede/geothermal-power-is-a-climate-moon-shot-beneath-our-feet): Geothermal power is a climate moon shot beneath our feet</small>
 
 
-| 🔥🔥: 195 \| 💬: [191](https://news.ycombinator.com/item?id=43234089) \| 🗓️ 2025-03-02
+| 🔥🔥: 199 \| 💬: [196](https://news.ycombinator.com/item?id=43234089) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -191,11 +179,23 @@ Kaguya是一个**免费**的书籍管理平台，帮助用户**记录已读书�
 
 ---
 
+## <a name="14"></a>14. 人工智能的统治 
+<small>🔗 [substack.com](https://substack.com/home/post/p-156886169): The A.I. Monarchy</small>
+
+
+| 🔥🔥: 197 \| 💬: [242](https://news.ycombinator.com/item?id=43229245) \| 🗓️ 2025-03-02
+
+
+<br />
+该文本提到一个需要JavaScript运行的网站，旨在为独立声音提供平台。用户可以通过Ctrl + K登录或创建账户，获取应用程序并了解更多信息。**JavaScript**是网站正常运行的关键，用户需启用或解除脚本屏蔽。
+
+---
+
 ## <a name="15"></a>15. 制作了一个滚动条伙伴，随页面滚动行走 
 <small>🔗 [focusfurnace.com](https://focusfurnace.com/scroll_buddy.html): Made a scroll bar buddy that walks down the page when you scroll</small>
 
 
-| 🔥🔥: 167 \| 💬: [85](https://news.ycombinator.com/item?id=43237581) \| 🗓️ 2025-03-02
+| 🔥🔥: 197 \| 💬: [93](https://news.ycombinator.com/item?id=43237581) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -203,11 +203,23 @@ Kaguya是一个**免费**的书籍管理平台，帮助用户**记录已读书�
 
 ---
 
-## <a name="16"></a>16. 我受够了Git的折磨，所以做了个游戏来拯救大家 
+## <a name="16"></a>16. 老式硬盘的“粘性橡胶”问题：数据恢复的挑战 
+<small>🔗 [downtowndougbrown.com](https://www.downtowndougbrown.com/2025/03/the-gooey-rubber-thats-slowly-ruining-old-hard-drives/): Gooey rubber that's slowly ruining old hard drives</small>
+
+
+| 🔥🔥: 168 \| 💬: [99](https://news.ycombinator.com/item?id=43235763) \| 🗓️ 2025-03-02
+
+
+<br />
+本文探讨了1990年代Quantum和Conner生产的SCSI硬盘因**橡胶缓冲垫老化**而失效的问题。这些硬盘的**磁头**因橡胶变粘而无法移动，导致无法读取数据。作者通过手动移动磁头和使用Kapton胶带等临时方法成功恢复了数据，并提醒大家**长期存储不应依赖老式硬盘**，建议定期备份并更新存储介质。
+
+---
+
+## <a name="17"></a>17. 我受够了Git的折磨，所以做了个游戏来拯救大家 
 <small>🔗 [initialcommit.com](https://initialcommit.com/blog/im-making-a-git-game): I struggled with Git, so I'm making a game to spare others the pain</small>
 
 
-| 🔥🔥: 158 \| 💬: [212](https://news.ycombinator.com/item?id=43230734) \| 🗓️ 2025-03-02
+| 🔥🔥: 160 \| 💬: [218](https://news.ycombinator.com/item?id=43230734) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -215,7 +227,7 @@ Kaguya是一个**免费**的书籍管理平台，帮助用户**记录已读书�
 
 ---
 
-## <a name="17"></a>17. GPT-4.5：并非前沿模型？ 
+## <a name="18"></a>18. GPT-4.5：并非前沿模型？ 
 <small>🔗 [interconnects.ai](https://www.interconnects.ai/p/gpt-45-not-a-frontier-model): GPT-4.5: "Not a frontier model"?</small>
 
 
@@ -224,18 +236,6 @@ Kaguya是一个**免费**的书籍管理平台，帮助用户**记录已读书�
 
 <br />
 OpenAI最新发布的**GPT-4.5**引发了诸多疑问，尽管它被描述为“**并非前沿模型**”，但其规模远超以往公开测试的模型。尽管性能提升不明显，GPT-4.5在减少幻觉和提升情感智能方面有所改进。然而，其高昂的价格和有限的性能提升使其在当前AI生态中显得“**超前**”，未来可能通过与其他技术结合发挥更大作用。
-
----
-
-## <a name="18"></a>18. 老式硬盘的“粘性橡胶”问题：数据恢复的挑战 
-<small>🔗 [downtowndougbrown.com](https://www.downtowndougbrown.com/2025/03/the-gooey-rubber-thats-slowly-ruining-old-hard-drives/): Gooey rubber that's slowly ruining old hard drives</small>
-
-
-| 🔥🔥: 153 \| 💬: [93](https://news.ycombinator.com/item?id=43235763) \| 🗓️ 2025-03-02
-
-
-<br />
-本文探讨了1990年代Quantum和Conner生产的SCSI硬盘因**橡胶缓冲垫老化**而失效的问题。这些硬盘的**磁头**因橡胶变粘而无法移动，导致无法读取数据。作者通过手动移动磁头和使用Kapton胶带等临时方法成功恢复了数据，并提醒大家**长期存储不应依赖老式硬盘**，建议定期备份并更新存储介质。
 
 ---
 
@@ -255,7 +255,7 @@ OpenAI最新发布的**GPT-4.5**引发了诸多疑问，尽管它被描述为“
 <small>🔗 [hr.cornell.edu](https://hr.cornell.edu/2025-hiring-pause): 2025 Hiring Pause</small>
 
 
-| 🔥🔥: 148 \| 💬: [126](https://news.ycombinator.com/item?id=43234153) \| 🗓️ 2025-03-02
+| 🔥🔥: 149 \| 💬: [127](https://news.ycombinator.com/item?id=43234153) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -263,23 +263,11 @@ OpenAI最新发布的**GPT-4.5**引发了诸多疑问，尽管它被描述为“
 
 ---
 
-## <a name="21"></a>21. 2025年2月Ladybird项目进展 
-<small>🔗 [ladybird.org](https://ladybird.org/newsletter/2025-02-28/): This Month in Ladybird February 2025</small>
-
-
-| 🔥🔥: 136 \| 💬: [7](https://news.ycombinator.com/item?id=43230920) \| 🗓️ 2025-03-02
-
-
-<br />
-Ladybird项目在2月取得了显著进展，合并了281个PR，新增了**Shopify**和**Proton**等赞助商。在**Web Platform Tests (WPT)** 方面，通过了9,836个新子测试，总数达到1,773,799。项目还改进了CSS加载、迁移到**OpenSSL**和**curl**，并开始支持Firefox DevTools协议。此外，新增了多个CSS伪类和文本装饰功能，优化了样式无效化处理，并扩展了aarch64 Linux的持续集成支持。
-
----
-
-## <a name="22"></a>22. 为什么我们需要同时使用CSRF保护和CORS？ 
+## <a name="21"></a>21. 为什么我们需要同时使用CSRF保护和CORS？ 
 <small>🔗 [smagin.fyi](https://smagin.fyi/posts/cross-site-requests/): Why do we have both CSRF protection and CORS?</small>
 
 
-| 🔥🔥: 135 \| 💬: [77](https://news.ycombinator.com/item?id=43231411) \| 🗓️ 2025-03-02
+| 🔥🔥: 141 \| 💬: [77](https://news.ycombinator.com/item?id=43231411) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -287,11 +275,23 @@ Ladybird项目在2月取得了显著进展，合并了281个PR，新增了**Shop
 
 ---
 
+## <a name="22"></a>22. 2025年2月Ladybird项目进展 
+<small>🔗 [ladybird.org](https://ladybird.org/newsletter/2025-02-28/): This Month in Ladybird February 2025</small>
+
+
+| 🔥🔥: 138 \| 💬: [7](https://news.ycombinator.com/item?id=43230920) \| 🗓️ 2025-03-02
+
+
+<br />
+Ladybird项目在2月取得了显著进展，合并了281个PR，新增了**Shopify**和**Proton**等赞助商。在**Web Platform Tests (WPT)** 方面，通过了9,836个新子测试，总数达到1,773,799。项目还改进了CSS加载、迁移到**OpenSSL**和**curl**，并开始支持Firefox DevTools协议。此外，新增了多个CSS伪类和文本装饰功能，优化了样式无效化处理，并扩展了aarch64 Linux的持续集成支持。
+
+---
+
 ## <a name="23"></a>23. 树莓派Pico音频播放器 
 <small>🔗 [lucstechblog.blogspot.com](http://lucstechblog.blogspot.com/2025/02/raspberry-pi-pico-audio-player.html): Raspberry Pi Pico audio player</small>
 
 
-| 🔥🔥: 131 \| 💬: [30](https://news.ycombinator.com/item?id=43230821) \| 🗓️ 2025-03-02
+| 🔥🔥: 134 \| 💬: [30](https://news.ycombinator.com/item?id=43230821) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -303,7 +303,7 @@ Ladybird项目在2月取得了显著进展，合并了281个PR，新增了**Shop
 <small>🔗 [olduse.net](https://olduse.net/): olduse.net</small>
 
 
-| 🔥🔥: 120 \| 💬: [15](https://news.ycombinator.com/item?id=43233305) \| 🗓️ 2025-03-02
+| 🔥🔥: 122 \| 💬: [15](https://news.ycombinator.com/item?id=43233305) \| 🗓️ 2025-03-02
 
 
 <br />
