@@ -27,7 +27,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/EthanEvansVP/status/1895845734177452369): Executive wealth as a factor in return-to-office</small>
 
 
-| 🔥🔥: 499 \| 💬: [352](https://news.ycombinator.com/item?id=43232255) \| 🗓️ 2025-03-02
+| 🔥🔥: 506 \| 💬: [358](https://news.ycombinator.com/item?id=43232255) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [nslookup.io](https://www.nslookup.io/domains/www.nih.gov/dns-records/#authoritative): NIH.gov DNS servers down, making PubMed, BLAST, etc. unreachable [fixed]</small>
 
 
-| 🔥🔥: 460 \| 💬: [349](https://news.ycombinator.com/item?id=43229201) \| 🗓️ 2025-03-02
+| 🔥🔥: 466 \| 💬: [350](https://news.ycombinator.com/item?id=43229201) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/01/mark-cuban-offers-to-fund-government-tech-unit-that-was-cut-in-the-middle-of-the-night/): Mark Cuban offers to fund former 18F employees</small>
 
 
-| 🔥🔥: 348 \| 💬: [398](https://news.ycombinator.com/item?id=43231062) \| 🗓️ 2025-03-02
+| 🔥🔥: 350 \| 💬: [400](https://news.ycombinator.com/item?id=43231062) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/): Mozilla flamed by Firefox fans after reneging on promises to not sell their data</small>
 
 
-| 🔥🔥: 303 \| 💬: [191](https://news.ycombinator.com/item?id=43229668) \| 🗓️ 2025-03-02
+| 🔥🔥: 305 \| 💬: [196](https://news.ycombinator.com/item?id=43229668) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -87,7 +87,7 @@ smallpond是由DeepSeek AI推出的轻量级分布式数据处理框架，扩展
 <small>🔗 [boilingsteam.com](https://boilingsteam.com/poll-trust-in-firefox-mozilla-is-gone/): Trust in Firefox and Mozilla Is Gone – Let's Talk Alternatives</small>
 
 
-| 🔥🔥: 241 \| 💬: [213](https://news.ycombinator.com/item?id=43229378) \| 🗓️ 2025-03-02
+| 🔥🔥: 244 \| 💬: [216](https://news.ycombinator.com/item?id=43229378) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -99,7 +99,7 @@ smallpond是由DeepSeek AI推出的轻量级分布式数据处理框架，扩展
 <small>🔗 [kaguya.io](https://kaguya.io/): Show HN: I built a modern Goodreads alternative</small>
 
 
-| 🔥🔥: 220 \| 💬: [184](https://news.ycombinator.com/item?id=43230994) \| 🗓️ 2025-03-02
+| 🔥🔥: 222 \| 💬: [188](https://news.ycombinator.com/item?id=43230994) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -107,23 +107,11 @@ Kaguya是一个**免费**的书籍管理平台，帮助用户**记录已读书�
 
 ---
 
-## <a name="8"></a>8. 人工智能的统治 
-<small>🔗 [substack.com](https://substack.com/home/post/p-156886169): The A.I. Monarchy</small>
-
-
-| 🔥🔥: 192 \| 💬: [227](https://news.ycombinator.com/item?id=43229245) \| 🗓️ 2025-03-02
-
-
-<br />
-该文本提到一个需要JavaScript运行的网站，旨在为独立声音提供平台。用户可以通过Ctrl + K登录或创建账户，获取应用程序并了解更多信息。**JavaScript**是网站正常运行的关键，用户需启用或解除脚本屏蔽。
-
----
-
-## <a name="9"></a>9. 速通玩家其实是漏洞研究员，只是他们还没意识到 
+## <a name="8"></a>8. 速通玩家其实是漏洞研究员，只是他们还没意识到 
 <small>🔗 [zetier.com](https://zetier.com/speedrunners-are-vulnerability-researchers/): Speedrunners are vulnerability researchers, they just don't know it yet</small>
 
 
-| 🔥🔥: 179 \| 💬: [56](https://news.ycombinator.com/item?id=43232880) \| 🗓️ 2025-03-02
+| 🔥🔥: 198 \| 💬: [60](https://news.ycombinator.com/item?id=43232880) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -131,11 +119,23 @@ Kaguya是一个**免费**的书籍管理平台，帮助用户**记录已读书�
 
 ---
 
+## <a name="9"></a>9. 人工智能的统治 
+<small>🔗 [substack.com](https://substack.com/home/post/p-156886169): The A.I. Monarchy</small>
+
+
+| 🔥🔥: 192 \| 💬: [229](https://news.ycombinator.com/item?id=43229245) \| 🗓️ 2025-03-02
+
+
+<br />
+该文本提到一个需要JavaScript运行的网站，旨在为独立声音提供平台。用户可以通过Ctrl + K登录或创建账户，获取应用程序并了解更多信息。**JavaScript**是网站正常运行的关键，用户需启用或解除脚本屏蔽。
+
+---
+
 ## <a name="10"></a>10. 奔腾处理器中的复杂三倍乘法电路 
 <small>🔗 [righto.com](https://www.righto.com/2025/03/pentium-multiplier-adder-reverse-engineered.html): The Pentium contains a complicated circuit to multiply by three</small>
 
 
-| 🔥🔥: 176 \| 💬: [62](https://news.ycombinator.com/item?id=43233143) \| 🗓️ 2025-03-02
+| 🔥🔥: 187 \| 💬: [69](https://news.ycombinator.com/item?id=43233143) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -147,7 +147,7 @@ Kaguya是一个**免费**的书籍管理平台，帮助用户**记录已读书�
 <small>🔗 [newyorker.com](https://www.newyorker.com/news/the-lede/geothermal-power-is-a-climate-moon-shot-beneath-our-feet): Geothermal power is a climate moon shot beneath our feet</small>
 
 
-| 🔥🔥: 158 \| 💬: [153](https://news.ycombinator.com/item?id=43234089) \| 🗓️ 2025-03-02
+| 🔥🔥: 166 \| 💬: [162](https://news.ycombinator.com/item?id=43234089) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -159,7 +159,7 @@ Kaguya是一个**免费**的书籍管理平台，帮助用户**记录已读书�
 <small>🔗 [neilzone.co.uk](https://neilzone.co.uk/2025/03/what-if-anything-should-i-do-about-using-mozillas-firefox/): What, if anything, should I do about using Mozilla's Firefox</small>
 
 
-| 🔥🔥: 145 \| 💬: [134](https://news.ycombinator.com/item?id=43229267) \| 🗓️ 2025-03-02
+| 🔥🔥: 145 \| 💬: [137](https://news.ycombinator.com/item?id=43229267) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -171,7 +171,7 @@ Kaguya是一个**免费**的书籍管理平台，帮助用户**记录已读书�
 <small>🔗 [interconnects.ai](https://www.interconnects.ai/p/gpt-45-not-a-frontier-model): GPT-4.5: "Not a frontier model"?</small>
 
 
-| 🔥🔥: 142 \| 💬: [136](https://news.ycombinator.com/item?id=43230965) \| 🗓️ 2025-03-02
+| 🔥🔥: 145 \| 💬: [142](https://news.ycombinator.com/item?id=43230965) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -183,7 +183,7 @@ OpenAI最新发布的**GPT-4.5**引发了诸多疑问，尽管它被描述为“
 <small>🔗 [hr.cornell.edu](https://hr.cornell.edu/2025-hiring-pause): 2025 Hiring Pause</small>
 
 
-| 🔥🔥: 138 \| 💬: [107](https://news.ycombinator.com/item?id=43234153) \| 🗓️ 2025-03-02
+| 🔥🔥: 141 \| 💬: [114](https://news.ycombinator.com/item?id=43234153) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -195,7 +195,7 @@ OpenAI最新发布的**GPT-4.5**引发了诸多疑问，尽管它被描述为“
 <small>🔗 [ladybird.org](https://ladybird.org/newsletter/2025-02-28/): This Month in Ladybird February 2025</small>
 
 
-| 🔥🔥: 126 \| 💬: [6](https://news.ycombinator.com/item?id=43230920) \| 🗓️ 2025-03-02
+| 🔥🔥: 130 \| 💬: [6](https://news.ycombinator.com/item?id=43230920) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -203,35 +203,11 @@ Ladybird项目在2月取得了显著进展，合并了281个PR，新增了**Shop
 
 ---
 
-## <a name="16"></a>16. 德国游客在圣地亚哥移民拘留中心被无限期关押 
-<small>🔗 [kpbs.org](https://www.kpbs.org/news/border-immigration/2025/02/28/german-tourist-held-indefinitely-in-san-diego-area-immigrant-detention-facility): German tourist held indefinitely in San Diego area immigrant detention facility</small>
-
-
-| 🔥🔥: 116 \| 💬: [125](https://news.ycombinator.com/item?id=43229475) \| 🗓️ 2025-03-02
-
-
-<br />
-26岁的德国游客**Jessica Brösche**在试图从墨西哥进入美国时被**美国海关和边境保护局（CBP）**拘留，理由是怀疑她违反签证豁免计划，计划在洛杉矶从事纹身工作。尽管她持有德国护照和签证豁免确认，仍被关押在**Otay Mesa拘留中心**，至今未获释。她的朋友和当地居民努力寻找她的下落，并试图通过德国领事馆寻求帮助。此事件引发了对美国移民系统效率的质疑。
-
----
-
-## <a name="17"></a>17. 树莓派Pico音频播放器 
-<small>🔗 [lucstechblog.blogspot.com](http://lucstechblog.blogspot.com/2025/02/raspberry-pi-pico-audio-player.html): Raspberry Pi Pico audio player</small>
-
-
-| 🔥🔥: 116 \| 💬: [26](https://news.ycombinator.com/item?id=43230821) \| 🗓️ 2025-03-02
-
-
-<br />
-本文介绍了如何使用**树莓派Pico**构建一个独立的音频播放器。该项目使用**MicroPython**编程，支持8k WAV格式音频文件，并通过**SSD1306 OLED屏幕**显示歌曲信息。硬件部分包括Pico、SD卡模块、按钮和电阻等组件。播放器可通过按钮控制歌曲切换和播放，适合在卧室或便携场景使用。项目还提供了扩展思路，如添加温度计或时钟功能。所有驱动和代码可在作者的GitHub仓库中找到。
-
----
-
-## <a name="18"></a>18. 我受够了Git的折磨，所以做了个游戏来拯救大家 
+## <a name="16"></a>16. 我受够了Git的折磨，所以做了个游戏来拯救大家 
 <small>🔗 [initialcommit.com](https://initialcommit.com/blog/im-making-a-git-game): I struggled with Git, so I'm making a game to spare others the pain</small>
 
 
-| 🔥🔥: 115 \| 💬: [131](https://news.ycombinator.com/item?id=43230734) \| 🗓️ 2025-03-02
+| 🔥🔥: 121 \| 💬: [146](https://news.ycombinator.com/item?id=43230734) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -239,23 +215,35 @@ Ladybird项目在2月取得了显著进展，合并了281个PR，新增了**Shop
 
 ---
 
-## <a name="19"></a>19. 旧闻重现：olduse.net的持续之旅 
-<small>🔗 [olduse.net](https://olduse.net/): olduse.net</small>
+## <a name="17"></a>17. 树莓派Pico音频播放器 
+<small>🔗 [lucstechblog.blogspot.com](http://lucstechblog.blogspot.com/2025/02/raspberry-pi-pico-audio-player.html): Raspberry Pi Pico audio player</small>
 
 
-| 🔥🔥: 101 \| 💬: [13](https://news.ycombinator.com/item?id=43233305) \| 🗓️ 2025-03-02
+| 🔥🔥: 117 \| 💬: [27](https://news.ycombinator.com/item?id=43230821) \| 🗓️ 2025-03-02
 
 
 <br />
-olduse.net是一个重现**Usenet早期文章**的项目，通过不同的端口提供**延迟回放**功能。2025年，项目继续运行，新增了**1194545年延迟**的端口。用户可以通过多种工具访问这些端口，体验历史新闻的互动乐趣。项目最初由Joey Hess发起，现由Adam Sjøgren维护，旨在让用户以**40至42年**的延迟重温Usenet的黄金时代。
+本文介绍了如何使用**树莓派Pico**构建一个独立的音频播放器。该项目使用**MicroPython**编程，支持8k WAV格式音频文件，并通过**SSD1306 OLED屏幕**显示歌曲信息。硬件部分包括Pico、SD卡模块、按钮和电阻等组件。播放器可通过按钮控制歌曲切换和播放，适合在卧室或便携场景使用。项目还提供了扩展思路，如添加温度计或时钟功能。所有驱动和代码可在作者的GitHub仓库中找到。
 
 ---
 
-## <a name="20"></a>20. 代码中的幻觉是LLM错误中最不危险的形式 
+## <a name="18"></a>18. 德国游客在圣地亚哥移民拘留中心被无限期关押 
+<small>🔗 [kpbs.org](https://www.kpbs.org/news/border-immigration/2025/02/28/german-tourist-held-indefinitely-in-san-diego-area-immigrant-detention-facility): German tourist held indefinitely in San Diego area immigrant detention facility</small>
+
+
+| 🔥🔥: 116 \| 💬: [126](https://news.ycombinator.com/item?id=43229475) \| 🗓️ 2025-03-02
+
+
+<br />
+26岁的德国游客**Jessica Brösche**在试图从墨西哥进入美国时被**美国海关和边境保护局（CBP）**拘留，理由是怀疑她违反签证豁免计划，计划在洛杉矶从事纹身工作。尽管她持有德国护照和签证豁免确认，仍被关押在**Otay Mesa拘留中心**，至今未获释。她的朋友和当地居民努力寻找她的下落，并试图通过德国领事馆寻求帮助。此事件引发了对美国移民系统效率的质疑。
+
+---
+
+## <a name="19"></a>19. 代码中的幻觉是LLM错误中最不危险的形式 
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Mar/2/hallucinations-in-code/): Hallucinations in code are the least dangerous form of LLM mistakes</small>
 
 
-| 🔥: 97 \| 💬: [68](https://news.ycombinator.com/item?id=43233903) \| 🗓️ 2025-03-02
+| 🔥🔥: 115 \| 💬: [89](https://news.ycombinator.com/item?id=43233903) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -263,11 +251,23 @@ olduse.net是一个重现**Usenet早期文章**的项目，通过不同的端口
 
 ---
 
+## <a name="20"></a>20. 旧闻重现：olduse.net的持续之旅 
+<small>🔗 [olduse.net](https://olduse.net/): olduse.net</small>
+
+
+| 🔥🔥: 108 \| 💬: [14](https://news.ycombinator.com/item?id=43233305) \| 🗓️ 2025-03-02
+
+
+<br />
+olduse.net是一个重现**Usenet早期文章**的项目，通过不同的端口提供**延迟回放**功能。2025年，项目继续运行，新增了**1194545年延迟**的端口。用户可以通过多种工具访问这些端口，体验历史新闻的互动乐趣。项目最初由Joey Hess发起，现由Adam Sjøgren维护，旨在让用户以**40至42年**的延迟重温Usenet的黄金时代。
+
+---
+
 ## <a name="21"></a>21. 为什么我们需要同时使用CSRF保护和CORS？ 
 <small>🔗 [smagin.fyi](https://smagin.fyi/posts/cross-site-requests/): Why do we have both CSRF protection and CORS?</small>
 
 
-| 🔥: 84 \| 💬: [61](https://news.ycombinator.com/item?id=43231411) \| 🗓️ 2025-03-02
+| 🔥: 95 \| 💬: [70](https://news.ycombinator.com/item?id=43231411) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -275,11 +275,23 @@ olduse.net是一个重现**Usenet早期文章**的项目，通过不同的端口
 
 ---
 
-## <a name="22"></a>22. NIH内部人士揭露拨款流程停滞问题 
+## <a name="22"></a>22. 萤火虫“蓝幽灵”月球着陆器成功登月 
+<small>🔗 [cnn.com](https://www.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html): Firefly ‘Blue Ghost’ lunar lander touches down on the moon</small>
+
+
+| 🔥: 93 \| 💬: [28](https://news.ycombinator.com/item?id=43228816) \| 🗓️ 2025-03-02
+
+
+<br />
+由德克萨斯州公司**萤火虫**建造的机器人月球着陆器“**蓝幽灵**”于凌晨2:35（中部时间）成功登陆月球。这是**第二家**实现软着陆的私营公司。该任务由NASA的CLPS和Artemis计划支持，旨在为未来人类重返月球做准备。
+
+---
+
+## <a name="23"></a>23. NIH内部人士揭露拨款流程停滞问题 
 <small>🔗 [bsky.app](https://bsky.app/profile/jeremymberg.bsky.social/post/3ljflptdcy22r): NIH insiders reveal process stalling grants</small>
 
 
-| 🔥: 84 \| 💬: [18](https://news.ycombinator.com/item?id=43233784) \| 🗓️ 2025-03-02
+| 🔥: 85 \| 💬: [19](https://news.ycombinator.com/item?id=43233784) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -287,11 +299,11 @@ olduse.net是一个重现**Usenet早期文章**的项目，通过不同的端口
 
 ---
 
-## <a name="23"></a>23. 独行侠时代已来临 
+## <a name="24"></a>24. 独行侠时代已来临 
 <small>🔗 [manidoraisamy.com](https://manidoraisamy.com/developer-forever/post/the-era-of-solopreneurs-is-here.anc-52867368-2029-4dc5-a7da-ece853a648b5.html): The Era of Solopreneurs Is Here</small>
 
 
-| 🔥: 74 \| 💬: [83](https://news.ycombinator.com/item?id=43232999) \| 🗓️ 2025-03-02
+| 🔥: 74 \| 💬: [87](https://news.ycombinator.com/item?id=43232999) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -299,26 +311,14 @@ DeepSeek以**AI驱动的创新**实现了惊人的盈利，展示了**AI工具�
 
 ---
 
-## <a name="24"></a>24. Louis Rossmann 谈 Firefox 风波 [视频] 
+## <a name="25"></a>25. Louis Rossmann 谈 Firefox 风波 [视频] 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=-8bTquKjzos): Louis Rossmann opines on the Firefox debacle [video]</small>
 
 
-| 🔥: 73 \| 💬: [88](https://news.ycombinator.com/item?id=43231096) \| 🗓️ 2025-03-02
+| 🔥: 73 \| 💬: [92](https://news.ycombinator.com/item?id=43231096) \| 🗓️ 2025-03-02
 
 
 <br />
 Louis Rossmann 在视频中讨论了 **Firefox** 近期的争议，特别是其与 **Google** 的关系以及隐私政策的变化。他批评了 Firefox 在广告和用户数据收集方面的做法，认为这与其 **开源精神** 背道而驰。Rossmann 呼吁用户关注浏览器选择对隐私的影响。
-
----
-
-## <a name="25"></a>25. SafeHaven：基于Go的极简VPN实现 
-<small>🔗 [github.com](https://github.com/kwakubiney/safehaven): Show HN: SafeHaven – A Minimal VPN Implementation in Go</small>
-
-
-| 🔥: 68 \| 💬: [12](https://news.ycombinator.com/item?id=43229569) \| 🗓️ 2025-03-02
-
-
-<br />
-SafeHaven是一个**基于UDP的VPN概念验证**，专为Linux设计。它通过**TUN设备**实现隧道通信，支持客户端和服务器模式。用户可以通过简单的命令行参数配置**私有网络**和全局路由。项目采用MIT许可证，适合对网络隧道技术感兴趣的开发者探索。
 
 ---
