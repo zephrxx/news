@@ -12,7 +12,7 @@ tags:
 1. NIH.gov DNS服务器宕机，导致PubMed、BLAST等服务无法访问[已修复]；
 1. 马克·库班提议资助被裁的18F前员工；
 1. Mozilla因数据隐私承诺变更遭Firefox用户抨击；
-1. Firefox与Mozilla信任崩塌：替代浏览器推荐；
+1. 萤火虫“蓝幽灵”月球着陆器成功登月；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/EthanEvansVP/status/1895845734177452369): Executive wealth as a factor in return-to-office</small>
 
 
-| 🔥🔥: 525 \| 💬: [398](https://news.ycombinator.com/item?id=43232255) \| 🗓️ 2025-03-02
+| 🔥🔥: 535 \| 💬: [403](https://news.ycombinator.com/item?id=43232255) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [nslookup.io](https://www.nslookup.io/domains/www.nih.gov/dns-records/#authoritative): NIH.gov DNS servers down, making PubMed, BLAST, etc. unreachable [fixed]</small>
 
 
-| 🔥🔥: 475 \| 💬: [353](https://news.ycombinator.com/item?id=43229201) \| 🗓️ 2025-03-02
+| 🔥🔥: 477 \| 💬: [355](https://news.ycombinator.com/item?id=43229201) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/01/mark-cuban-offers-to-fund-government-tech-unit-that-was-cut-in-the-middle-of-the-night/): Mark Cuban offers to fund former 18F employees</small>
 
 
-| 🔥🔥: 356 \| 💬: [408](https://news.ycombinator.com/item?id=43231062) \| 🗓️ 2025-03-02
+| 🔥🔥: 358 \| 💬: [409](https://news.ycombinator.com/item?id=43231062) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/): Mozilla flamed by Firefox fans after reneging on promises to not sell their data</small>
 
 
-| 🔥🔥: 312 \| 💬: [199](https://news.ycombinator.com/item?id=43229668) \| 🗓️ 2025-03-02
+| 🔥🔥: 312 \| 💬: [200](https://news.ycombinator.com/item?id=43229668) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -71,11 +71,23 @@ Mozilla近日更新了Firefox的**使用条款**和**隐私声明**，引发用�
 
 ---
 
-## <a name="5"></a>5. Firefox与Mozilla信任崩塌：替代浏览器推荐 
+## <a name="5"></a>5. 萤火虫“蓝幽灵”月球着陆器成功登月 
+<small>🔗 [cnn.com](https://www.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html): Firefly ‘Blue Ghost’ lunar lander touches down on the moon</small>
+
+
+| 🔥🔥: 270 \| 💬: [68](https://news.ycombinator.com/item?id=43228816) \| 🗓️ 2025-03-02
+
+
+<br />
+由德克萨斯州公司**萤火虫**建造的机器人月球着陆器“**蓝幽灵**”于凌晨2:35（中部时间）成功登陆月球。这是**第二家**实现软着陆的私营公司。该任务由NASA的CLPS和Artemis计划支持，旨在为未来人类重返月球做准备。
+
+---
+
+## <a name="6"></a>6. Firefox与Mozilla信任崩塌：替代浏览器推荐 
 <small>🔗 [boilingsteam.com](https://boilingsteam.com/poll-trust-in-firefox-mozilla-is-gone/): Trust in Firefox and Mozilla Is Gone – Let's Talk Alternatives</small>
 
 
-| 🔥🔥: 257 \| 💬: [219](https://news.ycombinator.com/item?id=43229378) \| 🗓️ 2025-03-02
+| 🔥🔥: 258 \| 💬: [222](https://news.ycombinator.com/item?id=43229378) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -83,11 +95,11 @@ Mozilla近日更新了Firefox的**使用条款**和**隐私声明**，引发用�
 
 ---
 
-## <a name="6"></a>6. 深入了解smallpond与3FS：分布式数据分析的新选择 
+## <a name="7"></a>7. 深入了解smallpond与3FS：分布式数据分析的新选择 
 <small>🔗 [definite.app](https://www.definite.app/blog/smallpond): Understanding Smallpond and 3FS</small>
 
 
-| 🔥🔥: 249 \| 💬: [45](https://news.ycombinator.com/item?id=43232410) \| 🗓️ 2025-03-02
+| 🔥🔥: 250 \| 💬: [45](https://news.ycombinator.com/item?id=43232410) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -95,23 +107,11 @@ smallpond是由DeepSeek AI推出的轻量级分布式数据处理框架，扩展
 
 ---
 
-## <a name="7"></a>7. 我构建了一个现代化的Goodreads替代品 
-<small>🔗 [kaguya.io](https://kaguya.io/): Show HN: I built a modern Goodreads alternative</small>
-
-
-| 🔥🔥: 229 \| 💬: [192](https://news.ycombinator.com/item?id=43230994) \| 🗓️ 2025-03-02
-
-
-<br />
-Kaguya是一个**免费**的书籍管理平台，帮助用户**记录已读书籍**、保存未来阅读计划，并发现新书。用户可以**撰写详细书评**、用十星制评分，并通过自定义书架整理书籍。平台还提供每周热门书籍和最高评分书籍列表，方便用户探索新内容。
-
----
-
 ## <a name="8"></a>8. 速通玩家其实是漏洞研究员，只是他们还没意识到 
 <small>🔗 [zetier.com](https://zetier.com/speedrunners-are-vulnerability-researchers/): Speedrunners are vulnerability researchers, they just don't know it yet</small>
 
 
-| 🔥🔥: 227 \| 💬: [65](https://news.ycombinator.com/item?id=43232880) \| 🗓️ 2025-03-02
+| 🔥🔥: 236 \| 💬: [65](https://news.ycombinator.com/item?id=43232880) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -123,7 +123,7 @@ Kaguya是一个**免费**的书籍管理平台，帮助用户**记录已读书�
 <small>🔗 [righto.com](https://www.righto.com/2025/03/pentium-multiplier-adder-reverse-engineered.html): The Pentium contains a complicated circuit to multiply by three</small>
 
 
-| 🔥🔥: 226 \| 💬: [78](https://news.ycombinator.com/item?id=43233143) \| 🗓️ 2025-03-02
+| 🔥🔥: 233 \| 💬: [80](https://news.ycombinator.com/item?id=43233143) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -131,47 +131,23 @@ Kaguya是一个**免费**的书籍管理平台，帮助用户**记录已读书�
 
 ---
 
-## <a name="10"></a>10. 萤火虫“蓝幽灵”月球着陆器成功登月 
-<small>🔗 [cnn.com](https://www.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html): Firefly ‘Blue Ghost’ lunar lander touches down on the moon</small>
+## <a name="10"></a>10. 我构建了一个现代化的Goodreads替代品 
+<small>🔗 [kaguya.io](https://kaguya.io/): Show HN: I built a modern Goodreads alternative</small>
 
 
-| 🔥🔥: 225 \| 💬: [62](https://news.ycombinator.com/item?id=43228816) \| 🗓️ 2025-03-02
-
-
-<br />
-由德克萨斯州公司**萤火虫**建造的机器人月球着陆器“**蓝幽灵**”于凌晨2:35（中部时间）成功登陆月球。这是**第二家**实现软着陆的私营公司。该任务由NASA的CLPS和Artemis计划支持，旨在为未来人类重返月球做准备。
-
----
-
-## <a name="11"></a>11. 人工智能的统治 
-<small>🔗 [substack.com](https://substack.com/home/post/p-156886169): The A.I. Monarchy</small>
-
-
-| 🔥🔥: 196 \| 💬: [237](https://news.ycombinator.com/item?id=43229245) \| 🗓️ 2025-03-02
+| 🔥🔥: 231 \| 💬: [192](https://news.ycombinator.com/item?id=43230994) \| 🗓️ 2025-03-02
 
 
 <br />
-该文本提到一个需要JavaScript运行的网站，旨在为独立声音提供平台。用户可以通过Ctrl + K登录或创建账户，获取应用程序并了解更多信息。**JavaScript**是网站正常运行的关键，用户需启用或解除脚本屏蔽。
+Kaguya是一个**免费**的书籍管理平台，帮助用户**记录已读书籍**、保存未来阅读计划，并发现新书。用户可以**撰写详细书评**、用十星制评分，并通过自定义书架整理书籍。平台还提供每周热门书籍和最高评分书籍列表，方便用户探索新内容。
 
 ---
 
-## <a name="12"></a>12. 地热能：脚下的气候革命 
-<small>🔗 [newyorker.com](https://www.newyorker.com/news/the-lede/geothermal-power-is-a-climate-moon-shot-beneath-our-feet): Geothermal power is a climate moon shot beneath our feet</small>
-
-
-| 🔥🔥: 186 \| 💬: [180](https://news.ycombinator.com/item?id=43234089) \| 🗓️ 2025-03-02
-
-
-<br />
-地热能是一种**清洁、无限且无处不在**的能源，具有提供稳定电力的潜力。犹他州的FORGE项目通过**增强型地热系统（EGS）**，在深层岩石中钻探并制造人工蒸汽，以发电。尽管技术挑战巨大，但地热能有望成为未来能源的重要组成部分，尤其是在应对气候变化的关键时刻。
-
----
-
-## <a name="13"></a>13. 太阳能朋克：可持续未来的文学与艺术运动 
+## <a name="11"></a>11. 太阳能朋克：可持续未来的文学与艺术运动 
 <small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Solarpunk): Solarpunk</small>
 
 
-| 🔥🔥: 177 \| 💬: [72](https://news.ycombinator.com/item?id=43236520) \| 🗓️ 2025-03-02
+| 🔥🔥: 202 \| 💬: [89](https://news.ycombinator.com/item?id=43236520) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -179,11 +155,35 @@ Kaguya是一个**免费**的书籍管理平台，帮助用户**记录已读书�
 
 ---
 
+## <a name="12"></a>12. 人工智能的统治 
+<small>🔗 [substack.com](https://substack.com/home/post/p-156886169): The A.I. Monarchy</small>
+
+
+| 🔥🔥: 196 \| 💬: [238](https://news.ycombinator.com/item?id=43229245) \| 🗓️ 2025-03-02
+
+
+<br />
+该文本提到一个需要JavaScript运行的网站，旨在为独立声音提供平台。用户可以通过Ctrl + K登录或创建账户，获取应用程序并了解更多信息。**JavaScript**是网站正常运行的关键，用户需启用或解除脚本屏蔽。
+
+---
+
+## <a name="13"></a>13. 地热能：脚下的气候革命 
+<small>🔗 [newyorker.com](https://www.newyorker.com/news/the-lede/geothermal-power-is-a-climate-moon-shot-beneath-our-feet): Geothermal power is a climate moon shot beneath our feet</small>
+
+
+| 🔥🔥: 189 \| 💬: [184](https://news.ycombinator.com/item?id=43234089) \| 🗓️ 2025-03-02
+
+
+<br />
+地热能是一种**清洁、无限且无处不在**的能源，具有提供稳定电力的潜力。犹他州的FORGE项目通过**增强型地热系统（EGS）**，在深层岩石中钻探并制造人工蒸汽，以发电。尽管技术挑战巨大，但地热能有望成为未来能源的重要组成部分，尤其是在应对气候变化的关键时刻。
+
+---
+
 ## <a name="14"></a>14. 代码中的幻觉是LLM错误中最不危险的形式 
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Mar/2/hallucinations-in-code/): Hallucinations in code are the least dangerous form of LLM mistakes</small>
 
 
-| 🔥🔥: 158 \| 💬: [116](https://news.ycombinator.com/item?id=43233903) \| 🗓️ 2025-03-02
+| 🔥🔥: 181 \| 💬: [127](https://news.ycombinator.com/item?id=43233903) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -191,7 +191,19 @@ Kaguya是一个**免费**的书籍管理平台，帮助用户**记录已读书�
 
 ---
 
-## <a name="15"></a>15. GPT-4.5：并非前沿模型？ 
+## <a name="15"></a>15. 我受够了Git的折磨，所以做了个游戏来拯救大家 
+<small>🔗 [initialcommit.com](https://initialcommit.com/blog/im-making-a-git-game): I struggled with Git, so I'm making a game to spare others the pain</small>
+
+
+| 🔥🔥: 153 \| 💬: [202](https://news.ycombinator.com/item?id=43230734) \| 🗓️ 2025-03-02
+
+
+<br />
+作者因Git的复杂性感到困扰，开发了**Git-Sim**工具来可视化Git命令。为进一步帮助新手，他构思了一个更沉浸式的工具，最终创建了**Devlands**——一个基于**体素世界**的游戏化Git学习工具。玩家可以在游戏中探索代码库，学习Git命令，并通过直观的物理交互理解抽象概念。Devlands旨在让Git和编程更易上手，尤其适合初学者。
+
+---
+
+## <a name="16"></a>16. GPT-4.5：并非前沿模型？ 
 <small>🔗 [interconnects.ai](https://www.interconnects.ai/p/gpt-45-not-a-frontier-model): GPT-4.5: "Not a frontier model"?</small>
 
 
@@ -203,27 +215,15 @@ OpenAI最新发布的**GPT-4.5**引发了诸多疑问，尽管它被描述为“
 
 ---
 
-## <a name="16"></a>16. 是否应该继续使用Mozilla的Firefox？ 
+## <a name="17"></a>17. 是否应该继续使用Mozilla的Firefox？ 
 <small>🔗 [neilzone.co.uk](https://neilzone.co.uk/2025/03/what-if-anything-should-i-do-about-using-mozillas-firefox/): What, if anything, should I do about using Mozilla's Firefox</small>
 
 
-| 🔥🔥: 149 \| 💬: [137](https://news.ycombinator.com/item?id=43229267) \| 🗓️ 2025-03-02
+| 🔥🔥: 149 \| 💬: [138](https://news.ycombinator.com/item?id=43229267) \| 🗓️ 2025-03-02
 
 
 <br />
 作者长期使用**Firefox**作为主要浏览器，但对其近期支持广告行业、AI等方向感到不满，考虑寻找替代品。尝试了**LibreWolf**，但担心其依赖Firefox的更新和安全问题。也考虑了Debian仓库中的Firefox版本，但可能较旧。其他选项如**Tor Browser**和终端浏览器**links**各有局限。最终，作者决定暂时继续使用Firefox，观察其未来发展。
-
----
-
-## <a name="17"></a>17. 我受够了Git的折磨，所以做了个游戏来拯救大家 
-<small>🔗 [initialcommit.com](https://initialcommit.com/blog/im-making-a-git-game): I struggled with Git, so I'm making a game to spare others the pain</small>
-
-
-| 🔥🔥: 147 \| 💬: [191](https://news.ycombinator.com/item?id=43230734) \| 🗓️ 2025-03-02
-
-
-<br />
-作者因Git的复杂性感到困扰，开发了**Git-Sim**工具来可视化Git命令。为进一步帮助新手，他构思了一个更沉浸式的工具，最终创建了**Devlands**——一个基于**体素世界**的游戏化Git学习工具。玩家可以在游戏中探索代码库，学习Git命令，并通过直观的物理交互理解抽象概念。Devlands旨在让Git和编程更易上手，尤其适合初学者。
 
 ---
 
@@ -239,7 +239,19 @@ OpenAI最新发布的**GPT-4.5**引发了诸多疑问，尽管它被描述为“
 
 ---
 
-## <a name="19"></a>19. 2025年2月Ladybird项目进展 
+## <a name="19"></a>19. 老式硬盘的“粘性橡胶”问题：数据恢复的挑战 
+<small>🔗 [downtowndougbrown.com](https://www.downtowndougbrown.com/2025/03/the-gooey-rubber-thats-slowly-ruining-old-hard-drives/): Gooey rubber that's slowly ruining old hard drives</small>
+
+
+| 🔥🔥: 137 \| 💬: [75](https://news.ycombinator.com/item?id=43235763) \| 🗓️ 2025-03-02
+
+
+<br />
+本文探讨了1990年代Quantum和Conner生产的SCSI硬盘因**橡胶缓冲垫老化**而失效的问题。这些硬盘的**磁头**因橡胶变粘而无法移动，导致无法读取数据。作者通过手动移动磁头和使用Kapton胶带等临时方法成功恢复了数据，并提醒大家**长期存储不应依赖老式硬盘**，建议定期备份并更新存储介质。
+
+---
+
+## <a name="20"></a>20. 2025年2月Ladybird项目进展 
 <small>🔗 [ladybird.org](https://ladybird.org/newsletter/2025-02-28/): This Month in Ladybird February 2025</small>
 
 
@@ -251,23 +263,23 @@ Ladybird项目在2月取得了显著进展，合并了281个PR，新增了**Shop
 
 ---
 
-## <a name="20"></a>20. 老式硬盘的“粘性橡胶”问题：数据恢复的挑战 
-<small>🔗 [downtowndougbrown.com](https://www.downtowndougbrown.com/2025/03/the-gooey-rubber-thats-slowly-ruining-old-hard-drives/): Gooey rubber that's slowly ruining old hard drives</small>
+## <a name="21"></a>21. 制作了一个滚动条伙伴，随页面滚动行走 
+<small>🔗 [focusfurnace.com](https://focusfurnace.com/scroll_buddy.html): Made a scroll bar buddy that walks down the page when you scroll</small>
 
 
-| 🔥🔥: 128 \| 💬: [53](https://news.ycombinator.com/item?id=43235763) \| 🗓️ 2025-03-02
+| 🔥🔥: 133 \| 💬: [75](https://news.ycombinator.com/item?id=43237581) \| 🗓️ 2025-03-02
 
 
 <br />
-本文探讨了1990年代Quantum和Conner生产的SCSI硬盘因**橡胶缓冲垫老化**而失效的问题。这些硬盘的**磁头**因橡胶变粘而无法移动，导致无法读取数据。作者通过手动移动磁头和使用Kapton胶带等临时方法成功恢复了数据，并提醒大家**长期存储不应依赖老式硬盘**，建议定期备份并更新存储介质。
+作者espressoinsight于2025年3月2日发布了一个有趣的创意：**Scroll Buddy**，一个在页面滚动时沿着滚动条行走的动画小人。这是第一个原型，未来计划制作滑板手、攀岩者或松鼠等更多角色。**Scroll Buddy**为网站增添了趣味性，但提醒有前庭运动障碍的用户启用设备的减少动画功能。
 
 ---
 
-## <a name="21"></a>21. 树莓派Pico音频播放器 
+## <a name="22"></a>22. 树莓派Pico音频播放器 
 <small>🔗 [lucstechblog.blogspot.com](http://lucstechblog.blogspot.com/2025/02/raspberry-pi-pico-audio-player.html): Raspberry Pi Pico audio player</small>
 
 
-| 🔥🔥: 127 \| 💬: [29](https://news.ycombinator.com/item?id=43230821) \| 🗓️ 2025-03-02
+| 🔥🔥: 130 \| 💬: [30](https://news.ycombinator.com/item?id=43230821) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -275,11 +287,11 @@ Ladybird项目在2月取得了显著进展，合并了281个PR，新增了**Shop
 
 ---
 
-## <a name="22"></a>22. 为什么我们需要同时使用CSRF保护和CORS？ 
+## <a name="23"></a>23. 为什么我们需要同时使用CSRF保护和CORS？ 
 <small>🔗 [smagin.fyi](https://smagin.fyi/posts/cross-site-requests/): Why do we have both CSRF protection and CORS?</small>
 
 
-| 🔥🔥: 119 \| 💬: [74](https://news.ycombinator.com/item?id=43231411) \| 🗓️ 2025-03-02
+| 🔥🔥: 128 \| 💬: [75](https://news.ycombinator.com/item?id=43231411) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -287,11 +299,11 @@ Ladybird项目在2月取得了显著进展，合并了281个PR，新增了**Shop
 
 ---
 
-## <a name="23"></a>23. 旧闻重现：olduse.net的持续之旅 
+## <a name="24"></a>24. 旧闻重现：olduse.net的持续之旅 
 <small>🔗 [olduse.net](https://olduse.net/): olduse.net</small>
 
 
-| 🔥🔥: 117 \| 💬: [15](https://news.ycombinator.com/item?id=43233305) \| 🗓️ 2025-03-02
+| 🔥🔥: 118 \| 💬: [15](https://news.ycombinator.com/item?id=43233305) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -299,7 +311,7 @@ olduse.net是一个重现**Usenet早期文章**的项目，通过不同的端口
 
 ---
 
-## <a name="24"></a>24. 德国游客在圣地亚哥移民拘留中心被无限期关押 
+## <a name="25"></a>25. 德国游客在圣地亚哥移民拘留中心被无限期关押 
 <small>🔗 [kpbs.org](https://www.kpbs.org/news/border-immigration/2025/02/28/german-tourist-held-indefinitely-in-san-diego-area-immigrant-detention-facility): German tourist held indefinitely in San Diego area immigrant detention facility</small>
 
 
@@ -308,17 +320,5 @@ olduse.net是一个重现**Usenet早期文章**的项目，通过不同的端口
 
 <br />
 26岁的德国游客**Jessica Brösche**在试图从墨西哥进入美国时被**美国海关和边境保护局（CBP）**拘留，理由是怀疑她违反签证豁免计划，计划在洛杉矶从事纹身工作。尽管她持有德国护照和签证豁免确认，仍被关押在**Otay Mesa拘留中心**，至今未获释。她的朋友和当地居民努力寻找她的下落，并试图通过德国领事馆寻求帮助。此事件引发了对美国移民系统效率的质疑。
-
----
-
-## <a name="25"></a>25. NIH内部人士揭露拨款流程停滞问题 
-<small>🔗 [bsky.app](https://bsky.app/profile/jeremymberg.bsky.social/post/3ljflptdcy22r): NIH insiders reveal process stalling grants</small>
-
-
-| 🔥: 86 \| 💬: [26](https://news.ycombinator.com/item?id=43233784) \| 🗓️ 2025-03-02
-
-
-<br />
-内容摘要：Jeremy Berg在Bluesky平台上发布了一篇名为“Orwellial”的帖子，讨论了**NIH拨款流程**的停滞问题。他指出，尽管存在简单的HTML界面，但当前系统依赖复杂的**JavaScript交互**，导致效率低下。Berg还提到，这一问题可能影响科研项目的进展，呼吁改进流程以提高透明度与效率。
 
 ---
