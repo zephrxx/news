@@ -27,7 +27,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/EthanEvansVP/status/1895845734177452369): Executive wealth as a factor in return-to-office</small>
 
 
-| 🔥🔥: 512 \| 💬: [368](https://news.ycombinator.com/item?id=43232255) \| 🗓️ 2025-03-02
+| 🔥🔥: 515 \| 💬: [380](https://news.ycombinator.com/item?id=43232255) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [nslookup.io](https://www.nslookup.io/domains/www.nih.gov/dns-records/#authoritative): NIH.gov DNS servers down, making PubMed, BLAST, etc. unreachable [fixed]</small>
 
 
-| 🔥🔥: 470 \| 💬: [350](https://news.ycombinator.com/item?id=43229201) \| 🗓️ 2025-03-02
+| 🔥🔥: 474 \| 💬: [351](https://news.ycombinator.com/item?id=43229201) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/01/mark-cuban-offers-to-fund-government-tech-unit-that-was-cut-in-the-middle-of-the-night/): Mark Cuban offers to fund former 18F employees</small>
 
 
-| 🔥🔥: 353 \| 💬: [402](https://news.ycombinator.com/item?id=43231062) \| 🗓️ 2025-03-02
+| 🔥🔥: 354 \| 💬: [403](https://news.ycombinator.com/item?id=43231062) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/): Mozilla flamed by Firefox fans after reneging on promises to not sell their data</small>
 
 
-| 🔥🔥: 307 \| 💬: [198](https://news.ycombinator.com/item?id=43229668) \| 🗓️ 2025-03-02
+| 🔥🔥: 308 \| 💬: [198](https://news.ycombinator.com/item?id=43229668) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -75,7 +75,7 @@ Mozilla近日更新了Firefox的**使用条款**和**隐私声明**，引发用�
 <small>🔗 [boilingsteam.com](https://boilingsteam.com/poll-trust-in-firefox-mozilla-is-gone/): Trust in Firefox and Mozilla Is Gone – Let's Talk Alternatives</small>
 
 
-| 🔥🔥: 250 \| 💬: [216](https://news.ycombinator.com/item?id=43229378) \| 🗓️ 2025-03-02
+| 🔥🔥: 253 \| 💬: [217](https://news.ycombinator.com/item?id=43229378) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -87,7 +87,7 @@ Mozilla近日更新了Firefox的**使用条款**和**隐私声明**，引发用�
 <small>🔗 [definite.app](https://www.definite.app/blog/smallpond): Understanding Smallpond and 3FS</small>
 
 
-| 🔥🔥: 248 \| 💬: [45](https://news.ycombinator.com/item?id=43232410) \| 🗓️ 2025-03-02
+| 🔥🔥: 249 \| 💬: [45](https://news.ycombinator.com/item?id=43232410) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -99,7 +99,7 @@ smallpond是由DeepSeek AI推出的轻量级分布式数据处理框架，扩展
 <small>🔗 [kaguya.io](https://kaguya.io/): Show HN: I built a modern Goodreads alternative</small>
 
 
-| 🔥🔥: 225 \| 💬: [190](https://news.ycombinator.com/item?id=43230994) \| 🗓️ 2025-03-02
+| 🔥🔥: 226 \| 💬: [192](https://news.ycombinator.com/item?id=43230994) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -111,7 +111,7 @@ Kaguya是一个**免费**的书籍管理平台，帮助用户**记录已读书�
 <small>🔗 [zetier.com](https://zetier.com/speedrunners-are-vulnerability-researchers/): Speedrunners are vulnerability researchers, they just don't know it yet</small>
 
 
-| 🔥🔥: 205 \| 💬: [64](https://news.ycombinator.com/item?id=43232880) \| 🗓️ 2025-03-02
+| 🔥🔥: 217 \| 💬: [65](https://news.ycombinator.com/item?id=43232880) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -123,7 +123,7 @@ Kaguya是一个**免费**的书籍管理平台，帮助用户**记录已读书�
 <small>🔗 [righto.com](https://www.righto.com/2025/03/pentium-multiplier-adder-reverse-engineered.html): The Pentium contains a complicated circuit to multiply by three</small>
 
 
-| 🔥🔥: 195 \| 💬: [72](https://news.ycombinator.com/item?id=43233143) \| 🗓️ 2025-03-02
+| 🔥🔥: 206 \| 💬: [75](https://news.ycombinator.com/item?id=43233143) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -135,7 +135,7 @@ Kaguya是一个**免费**的书籍管理平台，帮助用户**记录已读书�
 <small>🔗 [substack.com](https://substack.com/home/post/p-156886169): The A.I. Monarchy</small>
 
 
-| 🔥🔥: 194 \| 💬: [233](https://news.ycombinator.com/item?id=43229245) \| 🗓️ 2025-03-02
+| 🔥🔥: 195 \| 💬: [235](https://news.ycombinator.com/item?id=43229245) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -143,59 +143,11 @@ Kaguya是一个**免费**的书籍管理平台，帮助用户**记录已读书�
 
 ---
 
-## <a name="11"></a>11. 地热能：脚下的气候革命 
-<small>🔗 [newyorker.com](https://www.newyorker.com/news/the-lede/geothermal-power-is-a-climate-moon-shot-beneath-our-feet): Geothermal power is a climate moon shot beneath our feet</small>
-
-
-| 🔥🔥: 171 \| 💬: [168](https://news.ycombinator.com/item?id=43234089) \| 🗓️ 2025-03-02
-
-
-<br />
-地热能是一种**清洁、无限且无处不在**的能源，具有提供稳定电力的潜力。犹他州的FORGE项目通过**增强型地热系统（EGS）**，在深层岩石中钻探并制造人工蒸汽，以发电。尽管技术挑战巨大，但地热能有望成为未来能源的重要组成部分，尤其是在应对气候变化的关键时刻。
-
----
-
-## <a name="12"></a>12. 是否应该继续使用Mozilla的Firefox？ 
-<small>🔗 [neilzone.co.uk](https://neilzone.co.uk/2025/03/what-if-anything-should-i-do-about-using-mozillas-firefox/): What, if anything, should I do about using Mozilla's Firefox</small>
-
-
-| 🔥🔥: 147 \| 💬: [137](https://news.ycombinator.com/item?id=43229267) \| 🗓️ 2025-03-02
-
-
-<br />
-作者长期使用**Firefox**作为主要浏览器，但对其近期支持广告行业、AI等方向感到不满，考虑寻找替代品。尝试了**LibreWolf**，但担心其依赖Firefox的更新和安全问题。也考虑了Debian仓库中的Firefox版本，但可能较旧。其他选项如**Tor Browser**和终端浏览器**links**各有局限。最终，作者决定暂时继续使用Firefox，观察其未来发展。
-
----
-
-## <a name="13"></a>13. GPT-4.5：并非前沿模型？ 
-<small>🔗 [interconnects.ai](https://www.interconnects.ai/p/gpt-45-not-a-frontier-model): GPT-4.5: "Not a frontier model"?</small>
-
-
-| 🔥🔥: 147 \| 💬: [142](https://news.ycombinator.com/item?id=43230965) \| 🗓️ 2025-03-02
-
-
-<br />
-OpenAI最新发布的**GPT-4.5**引发了诸多疑问，尽管它被描述为“**并非前沿模型**”，但其规模远超以往公开测试的模型。尽管性能提升不明显，GPT-4.5在减少幻觉和提升情感智能方面有所改进。然而，其高昂的价格和有限的性能提升使其在当前AI生态中显得“**超前**”，未来可能通过与其他技术结合发挥更大作用。
-
----
-
-## <a name="14"></a>14. 2025年招聘暂停 
-<small>🔗 [hr.cornell.edu](https://hr.cornell.edu/2025-hiring-pause): 2025 Hiring Pause</small>
-
-
-| 🔥🔥: 144 \| 💬: [123](https://news.ycombinator.com/item?id=43234153) \| 🗓️ 2025-03-02
-
-
-<br />
-由于联邦研究资金可能大幅削减以及税收立法影响捐赠收入，康奈尔大学面临**财务不确定性**。为确保可持续发展，大学立即实施**招聘控制流程**，仅推进**关键岗位**的招聘。所有招聘需经学院和单位HR代表审查，并由中央职位控制委员会评估。临时和合同工也需重新评估，确保工作必要性。
-
----
-
-## <a name="15"></a>15. 萤火虫“蓝幽灵”月球着陆器成功登月 
+## <a name="11"></a>11. 萤火虫“蓝幽灵”月球着陆器成功登月 
 <small>🔗 [cnn.com](https://www.cnn.com/science/live-news/moon-landing-blue-ghost-03-02-25/index.html): Firefly ‘Blue Ghost’ lunar lander touches down on the moon</small>
 
 
-| 🔥🔥: 141 \| 💬: [41](https://news.ycombinator.com/item?id=43228816) \| 🗓️ 2025-03-02
+| 🔥🔥: 184 \| 💬: [50](https://news.ycombinator.com/item?id=43228816) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -203,35 +155,59 @@ OpenAI最新发布的**GPT-4.5**引发了诸多疑问，尽管它被描述为“
 
 ---
 
-## <a name="16"></a>16. 2025年2月Ladybird项目进展 
-<small>🔗 [ladybird.org](https://ladybird.org/newsletter/2025-02-28/): This Month in Ladybird February 2025</small>
+## <a name="12"></a>12. 地热能：脚下的气候革命 
+<small>🔗 [newyorker.com](https://www.newyorker.com/news/the-lede/geothermal-power-is-a-climate-moon-shot-beneath-our-feet): Geothermal power is a climate moon shot beneath our feet</small>
 
 
-| 🔥🔥: 133 \| 💬: [6](https://news.ycombinator.com/item?id=43230920) \| 🗓️ 2025-03-02
-
-
-<br />
-Ladybird项目在2月取得了显著进展，合并了281个PR，新增了**Shopify**和**Proton**等赞助商。在**Web Platform Tests (WPT)** 方面，通过了9,836个新子测试，总数达到1,773,799。项目还改进了CSS加载、迁移到**OpenSSL**和**curl**，并开始支持Firefox DevTools协议。此外，新增了多个CSS伪类和文本装饰功能，优化了样式无效化处理，并扩展了aarch64 Linux的持续集成支持。
-
----
-
-## <a name="17"></a>17. 我受够了Git的折磨，所以做了个游戏来拯救大家 
-<small>🔗 [initialcommit.com](https://initialcommit.com/blog/im-making-a-git-game): I struggled with Git, so I'm making a game to spare others the pain</small>
-
-
-| 🔥🔥: 132 \| 💬: [171](https://news.ycombinator.com/item?id=43230734) \| 🗓️ 2025-03-02
+| 🔥🔥: 178 \| 💬: [175](https://news.ycombinator.com/item?id=43234089) \| 🗓️ 2025-03-02
 
 
 <br />
-作者因Git的复杂性感到困扰，开发了**Git-Sim**工具来可视化Git命令。为进一步帮助新手，他构思了一个更沉浸式的工具，最终创建了**Devlands**——一个基于**体素世界**的游戏化Git学习工具。玩家可以在游戏中探索代码库，学习Git命令，并通过直观的物理交互理解抽象概念。Devlands旨在让Git和编程更易上手，尤其适合初学者。
+地热能是一种**清洁、无限且无处不在**的能源，具有提供稳定电力的潜力。犹他州的FORGE项目通过**增强型地热系统（EGS）**，在深层岩石中钻探并制造人工蒸汽，以发电。尽管技术挑战巨大，但地热能有望成为未来能源的重要组成部分，尤其是在应对气候变化的关键时刻。
 
 ---
 
-## <a name="18"></a>18. 代码中的幻觉是LLM错误中最不危险的形式 
+## <a name="13"></a>13. 是否应该继续使用Mozilla的Firefox？ 
+<small>🔗 [neilzone.co.uk](https://neilzone.co.uk/2025/03/what-if-anything-should-i-do-about-using-mozillas-firefox/): What, if anything, should I do about using Mozilla's Firefox</small>
+
+
+| 🔥🔥: 148 \| 💬: [137](https://news.ycombinator.com/item?id=43229267) \| 🗓️ 2025-03-02
+
+
+<br />
+作者长期使用**Firefox**作为主要浏览器，但对其近期支持广告行业、AI等方向感到不满，考虑寻找替代品。尝试了**LibreWolf**，但担心其依赖Firefox的更新和安全问题。也考虑了Debian仓库中的Firefox版本，但可能较旧。其他选项如**Tor Browser**和终端浏览器**links**各有局限。最终，作者决定暂时继续使用Firefox，观察其未来发展。
+
+---
+
+## <a name="14"></a>14. GPT-4.5：并非前沿模型？ 
+<small>🔗 [interconnects.ai](https://www.interconnects.ai/p/gpt-45-not-a-frontier-model): GPT-4.5: "Not a frontier model"?</small>
+
+
+| 🔥🔥: 147 \| 💬: [144](https://news.ycombinator.com/item?id=43230965) \| 🗓️ 2025-03-02
+
+
+<br />
+OpenAI最新发布的**GPT-4.5**引发了诸多疑问，尽管它被描述为“**并非前沿模型**”，但其规模远超以往公开测试的模型。尽管性能提升不明显，GPT-4.5在减少幻觉和提升情感智能方面有所改进。然而，其高昂的价格和有限的性能提升使其在当前AI生态中显得“**超前**”，未来可能通过与其他技术结合发挥更大作用。
+
+---
+
+## <a name="15"></a>15. 2025年招聘暂停 
+<small>🔗 [hr.cornell.edu](https://hr.cornell.edu/2025-hiring-pause): 2025 Hiring Pause</small>
+
+
+| 🔥🔥: 146 \| 💬: [124](https://news.ycombinator.com/item?id=43234153) \| 🗓️ 2025-03-02
+
+
+<br />
+由于联邦研究资金可能大幅削减以及税收立法影响捐赠收入，康奈尔大学面临**财务不确定性**。为确保可持续发展，大学立即实施**招聘控制流程**，仅推进**关键岗位**的招聘。所有招聘需经学院和单位HR代表审查，并由中央职位控制委员会评估。临时和合同工也需重新评估，确保工作必要性。
+
+---
+
+## <a name="16"></a>16. 代码中的幻觉是LLM错误中最不危险的形式 
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Mar/2/hallucinations-in-code/): Hallucinations in code are the least dangerous form of LLM mistakes</small>
 
 
-| 🔥🔥: 130 \| 💬: [99](https://news.ycombinator.com/item?id=43233903) \| 🗓️ 2025-03-02
+| 🔥🔥: 145 \| 💬: [106](https://news.ycombinator.com/item?id=43233903) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -239,11 +215,47 @@ Ladybird项目在2月取得了显著进展，合并了281个PR，新增了**Shop
 
 ---
 
-## <a name="19"></a>19. 树莓派Pico音频播放器 
+## <a name="17"></a>17. 我受够了Git的折磨，所以做了个游戏来拯救大家 
+<small>🔗 [initialcommit.com](https://initialcommit.com/blog/im-making-a-git-game): I struggled with Git, so I'm making a game to spare others the pain</small>
+
+
+| 🔥🔥: 140 \| 💬: [192](https://news.ycombinator.com/item?id=43230734) \| 🗓️ 2025-03-02
+
+
+<br />
+作者因Git的复杂性感到困扰，开发了**Git-Sim**工具来可视化Git命令。为进一步帮助新手，他构思了一个更沉浸式的工具，最终创建了**Devlands**——一个基于**体素世界**的游戏化Git学习工具。玩家可以在游戏中探索代码库，学习Git命令，并通过直观的物理交互理解抽象概念。Devlands旨在让Git和编程更易上手，尤其适合初学者。
+
+---
+
+## <a name="18"></a>18. 太阳能朋克：可持续未来的文学与艺术运动 
+<small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Solarpunk): Solarpunk</small>
+
+
+| 🔥🔥: 139 \| 💬: [55](https://news.ycombinator.com/item?id=43236520) \| 🗓️ 2025-03-02
+
+
+<br />
+**太阳能朋克**是一种文学与艺术运动，旨在描绘和实现一个与自然和社区紧密相连的可持续未来。它结合了**太阳能**作为可再生能源的象征，以及**朋克**的反文化、后资本主义精神。与赛博朋克的黑暗未来不同，太阳能朋克强调乐观主义、DIY精神和生态友好技术，倡导社会包容性和环境可持续性。其美学风格常借鉴新艺术风格，色彩明亮，充满自然元素。
+
+---
+
+## <a name="19"></a>19. 2025年2月Ladybird项目进展 
+<small>🔗 [ladybird.org](https://ladybird.org/newsletter/2025-02-28/): This Month in Ladybird February 2025</small>
+
+
+| 🔥🔥: 134 \| 💬: [6](https://news.ycombinator.com/item?id=43230920) \| 🗓️ 2025-03-02
+
+
+<br />
+Ladybird项目在2月取得了显著进展，合并了281个PR，新增了**Shopify**和**Proton**等赞助商。在**Web Platform Tests (WPT)** 方面，通过了9,836个新子测试，总数达到1,773,799。项目还改进了CSS加载、迁移到**OpenSSL**和**curl**，并开始支持Firefox DevTools协议。此外，新增了多个CSS伪类和文本装饰功能，优化了样式无效化处理，并扩展了aarch64 Linux的持续集成支持。
+
+---
+
+## <a name="20"></a>20. 树莓派Pico音频播放器 
 <small>🔗 [lucstechblog.blogspot.com](http://lucstechblog.blogspot.com/2025/02/raspberry-pi-pico-audio-player.html): Raspberry Pi Pico audio player</small>
 
 
-| 🔥🔥: 123 \| 💬: [28](https://news.ycombinator.com/item?id=43230821) \| 🗓️ 2025-03-02
+| 🔥🔥: 125 \| 💬: [29](https://news.ycombinator.com/item?id=43230821) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -251,7 +263,7 @@ Ladybird项目在2月取得了显著进展，合并了281个PR，新增了**Shop
 
 ---
 
-## <a name="20"></a>20. 德国游客在圣地亚哥移民拘留中心被无限期关押 
+## <a name="21"></a>21. 德国游客在圣地亚哥移民拘留中心被无限期关押 
 <small>🔗 [kpbs.org](https://www.kpbs.org/news/border-immigration/2025/02/28/german-tourist-held-indefinitely-in-san-diego-area-immigrant-detention-facility): German tourist held indefinitely in San Diego area immigrant detention facility</small>
 
 
@@ -263,11 +275,11 @@ Ladybird项目在2月取得了显著进展，合并了281个PR，新增了**Shop
 
 ---
 
-## <a name="21"></a>21. 旧闻重现：olduse.net的持续之旅 
+## <a name="22"></a>22. 旧闻重现：olduse.net的持续之旅 
 <small>🔗 [olduse.net](https://olduse.net/): olduse.net</small>
 
 
-| 🔥🔥: 115 \| 💬: [15](https://news.ycombinator.com/item?id=43233305) \| 🗓️ 2025-03-02
+| 🔥🔥: 116 \| 💬: [15](https://news.ycombinator.com/item?id=43233305) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -275,11 +287,11 @@ olduse.net是一个重现**Usenet早期文章**的项目，通过不同的端口
 
 ---
 
-## <a name="22"></a>22. 为什么我们需要同时使用CSRF保护和CORS？ 
+## <a name="23"></a>23. 为什么我们需要同时使用CSRF保护和CORS？ 
 <small>🔗 [smagin.fyi](https://smagin.fyi/posts/cross-site-requests/): Why do we have both CSRF protection and CORS?</small>
 
 
-| 🔥🔥: 101 \| 💬: [71](https://news.ycombinator.com/item?id=43231411) \| 🗓️ 2025-03-02
+| 🔥🔥: 112 \| 💬: [73](https://news.ycombinator.com/item?id=43231411) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -287,23 +299,11 @@ olduse.net是一个重现**Usenet早期文章**的项目，通过不同的端口
 
 ---
 
-## <a name="23"></a>23. 太阳能朋克：可持续未来的文学与艺术运动 
-<small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Solarpunk): Solarpunk</small>
-
-
-| 🔥: 95 \| 💬: [31](https://news.ycombinator.com/item?id=43236520) \| 🗓️ 2025-03-02
-
-
-<br />
-**太阳能朋克**是一种文学与艺术运动，旨在描绘和实现一个与自然和社区紧密相连的可持续未来。它结合了**太阳能**作为可再生能源的象征，以及**朋克**的反文化、后资本主义精神。与赛博朋克的黑暗未来不同，太阳能朋克强调乐观主义、DIY精神和生态友好技术，倡导社会包容性和环境可持续性。其美学风格常借鉴新艺术风格，色彩明亮，充满自然元素。
-
----
-
 ## <a name="24"></a>24. 老式硬盘的“粘性橡胶”问题：数据恢复的挑战 
 <small>🔗 [downtowndougbrown.com](https://www.downtowndougbrown.com/2025/03/the-gooey-rubber-thats-slowly-ruining-old-hard-drives/): Gooey rubber that's slowly ruining old hard drives</small>
 
 
-| 🔥: 92 \| 💬: [31](https://news.ycombinator.com/item?id=43235763) \| 🗓️ 2025-03-02
+| 🔥🔥: 107 \| 💬: [42](https://news.ycombinator.com/item?id=43235763) \| 🗓️ 2025-03-02
 
 
 <br />
