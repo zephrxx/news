@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/EthanEvansVP/status/1895845734177452369): Executive wealth as a factor in return-to-office</small>
 
 
-| 🔥🔥: 486 \| 💬: [335](https://news.ycombinator.com/item?id=43232255) \| 🗓️ 2025-03-02
+| 🔥🔥: 499 \| 💬: [352](https://news.ycombinator.com/item?id=43232255) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [nslookup.io](https://www.nslookup.io/domains/www.nih.gov/dns-records/#authoritative): NIH.gov DNS servers down, making PubMed, BLAST, etc. unreachable [fixed]</small>
 
 
-| 🔥🔥: 458 \| 💬: [347](https://news.ycombinator.com/item?id=43229201) \| 🗓️ 2025-03-02
+| 🔥🔥: 460 \| 💬: [349](https://news.ycombinator.com/item?id=43229201) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/01/mark-cuban-offers-to-fund-government-tech-unit-that-was-cut-in-the-middle-of-the-night/): Mark Cuban offers to fund former 18F employees</small>
 
 
-| 🔥🔥: 338 \| 💬: [393](https://news.ycombinator.com/item?id=43231062) \| 🗓️ 2025-03-02
+| 🔥🔥: 348 \| 💬: [398](https://news.ycombinator.com/item?id=43231062) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/): Mozilla flamed by Firefox fans after reneging on promises to not sell their data</small>
 
 
-| 🔥🔥: 296 \| 💬: [191](https://news.ycombinator.com/item?id=43229668) \| 🗓️ 2025-03-02
+| 🔥🔥: 303 \| 💬: [191](https://news.ycombinator.com/item?id=43229668) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -75,7 +75,7 @@ Mozilla近日更新了Firefox的**使用条款**和**隐私声明**，引发用�
 <small>🔗 [definite.app](https://www.definite.app/blog/smallpond): Understanding Smallpond and 3FS</small>
 
 
-| 🔥🔥: 247 \| 💬: [45](https://news.ycombinator.com/item?id=43232410) \| 🗓️ 2025-03-02
+| 🔥🔥: 248 \| 💬: [45](https://news.ycombinator.com/item?id=43232410) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -87,7 +87,7 @@ smallpond是由DeepSeek AI推出的轻量级分布式数据处理框架，扩展
 <small>🔗 [boilingsteam.com](https://boilingsteam.com/poll-trust-in-firefox-mozilla-is-gone/): Trust in Firefox and Mozilla Is Gone – Let's Talk Alternatives</small>
 
 
-| 🔥🔥: 235 \| 💬: [213](https://news.ycombinator.com/item?id=43229378) \| 🗓️ 2025-03-02
+| 🔥🔥: 241 \| 💬: [213](https://news.ycombinator.com/item?id=43229378) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -99,7 +99,7 @@ smallpond是由DeepSeek AI推出的轻量级分布式数据处理框架，扩展
 <small>🔗 [kaguya.io](https://kaguya.io/): Show HN: I built a modern Goodreads alternative</small>
 
 
-| 🔥🔥: 215 \| 💬: [183](https://news.ycombinator.com/item?id=43230994) \| 🗓️ 2025-03-02
+| 🔥🔥: 220 \| 💬: [184](https://news.ycombinator.com/item?id=43230994) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -111,7 +111,7 @@ Kaguya是一个**免费**的书籍管理平台，帮助用户**记录已读书�
 <small>🔗 [substack.com](https://substack.com/home/post/p-156886169): The A.I. Monarchy</small>
 
 
-| 🔥🔥: 185 \| 💬: [224](https://news.ycombinator.com/item?id=43229245) \| 🗓️ 2025-03-02
+| 🔥🔥: 192 \| 💬: [227](https://news.ycombinator.com/item?id=43229245) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -123,7 +123,7 @@ Kaguya是一个**免费**的书籍管理平台，帮助用户**记录已读书�
 <small>🔗 [zetier.com](https://zetier.com/speedrunners-are-vulnerability-researchers/): Speedrunners are vulnerability researchers, they just don't know it yet</small>
 
 
-| 🔥🔥: 162 \| 💬: [48](https://news.ycombinator.com/item?id=43232880) \| 🗓️ 2025-03-02
+| 🔥🔥: 179 \| 💬: [56](https://news.ycombinator.com/item?id=43232880) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -135,7 +135,7 @@ Kaguya是一个**免费**的书籍管理平台，帮助用户**记录已读书�
 <small>🔗 [righto.com](https://www.righto.com/2025/03/pentium-multiplier-adder-reverse-engineered.html): The Pentium contains a complicated circuit to multiply by three</small>
 
 
-| 🔥🔥: 158 \| 💬: [46](https://news.ycombinator.com/item?id=43233143) \| 🗓️ 2025-03-02
+| 🔥🔥: 176 \| 💬: [62](https://news.ycombinator.com/item?id=43233143) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -143,7 +143,19 @@ Kaguya是一个**免费**的书籍管理平台，帮助用户**记录已读书�
 
 ---
 
-## <a name="11"></a>11. 是否应该继续使用Mozilla的Firefox？ 
+## <a name="11"></a>11. 地热能：脚下的气候革命 
+<small>🔗 [newyorker.com](https://www.newyorker.com/news/the-lede/geothermal-power-is-a-climate-moon-shot-beneath-our-feet): Geothermal power is a climate moon shot beneath our feet</small>
+
+
+| 🔥🔥: 158 \| 💬: [153](https://news.ycombinator.com/item?id=43234089) \| 🗓️ 2025-03-02
+
+
+<br />
+地热能是一种**清洁、无限且无处不在**的能源，具有提供稳定电力的潜力。犹他州的FORGE项目通过**增强型地热系统（EGS）**，在深层岩石中钻探并制造人工蒸汽，以发电。尽管技术挑战巨大，但地热能有望成为未来能源的重要组成部分，尤其是在应对气候变化的关键时刻。
+
+---
+
+## <a name="12"></a>12. 是否应该继续使用Mozilla的Firefox？ 
 <small>🔗 [neilzone.co.uk](https://neilzone.co.uk/2025/03/what-if-anything-should-i-do-about-using-mozillas-firefox/): What, if anything, should I do about using Mozilla's Firefox</small>
 
 
@@ -155,23 +167,11 @@ Kaguya是一个**免费**的书籍管理平台，帮助用户**记录已读书�
 
 ---
 
-## <a name="12"></a>12. 地热能：脚下的气候革命 
-<small>🔗 [newyorker.com](https://www.newyorker.com/news/the-lede/geothermal-power-is-a-climate-moon-shot-beneath-our-feet): Geothermal power is a climate moon shot beneath our feet</small>
-
-
-| 🔥🔥: 141 \| 💬: [112](https://news.ycombinator.com/item?id=43234089) \| 🗓️ 2025-03-02
-
-
-<br />
-地热能是一种**清洁、无限且无处不在**的能源，具有提供稳定电力的潜力。犹他州的FORGE项目通过**增强型地热系统（EGS）**，在深层岩石中钻探并制造人工蒸汽，以发电。尽管技术挑战巨大，但地热能有望成为未来能源的重要组成部分，尤其是在应对气候变化的关键时刻。
-
----
-
 ## <a name="13"></a>13. GPT-4.5：并非前沿模型？ 
 <small>🔗 [interconnects.ai](https://www.interconnects.ai/p/gpt-45-not-a-frontier-model): GPT-4.5: "Not a frontier model"?</small>
 
 
-| 🔥🔥: 140 \| 💬: [135](https://news.ycombinator.com/item?id=43230965) \| 🗓️ 2025-03-02
+| 🔥🔥: 142 \| 💬: [136](https://news.ycombinator.com/item?id=43230965) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -183,7 +183,7 @@ OpenAI最新发布的**GPT-4.5**引发了诸多疑问，尽管它被描述为“
 <small>🔗 [hr.cornell.edu](https://hr.cornell.edu/2025-hiring-pause): 2025 Hiring Pause</small>
 
 
-| 🔥🔥: 126 \| 💬: [87](https://news.ycombinator.com/item?id=43234153) \| 🗓️ 2025-03-02
+| 🔥🔥: 138 \| 💬: [107](https://news.ycombinator.com/item?id=43234153) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -195,7 +195,7 @@ OpenAI最新发布的**GPT-4.5**引发了诸多疑问，尽管它被描述为“
 <small>🔗 [ladybird.org](https://ladybird.org/newsletter/2025-02-28/): This Month in Ladybird February 2025</small>
 
 
-| 🔥🔥: 121 \| 💬: [6](https://news.ycombinator.com/item?id=43230920) \| 🗓️ 2025-03-02
+| 🔥🔥: 126 \| 💬: [6](https://news.ycombinator.com/item?id=43230920) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -207,7 +207,7 @@ Ladybird项目在2月取得了显著进展，合并了281个PR，新增了**Shop
 <small>🔗 [kpbs.org](https://www.kpbs.org/news/border-immigration/2025/02/28/german-tourist-held-indefinitely-in-san-diego-area-immigrant-detention-facility): German tourist held indefinitely in San Diego area immigrant detention facility</small>
 
 
-| 🔥🔥: 115 \| 💬: [125](https://news.ycombinator.com/item?id=43229475) \| 🗓️ 2025-03-02
+| 🔥🔥: 116 \| 💬: [125](https://news.ycombinator.com/item?id=43229475) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -219,7 +219,7 @@ Ladybird项目在2月取得了显著进展，合并了281个PR，新增了**Shop
 <small>🔗 [lucstechblog.blogspot.com](http://lucstechblog.blogspot.com/2025/02/raspberry-pi-pico-audio-player.html): Raspberry Pi Pico audio player</small>
 
 
-| 🔥🔥: 110 \| 💬: [24](https://news.ycombinator.com/item?id=43230821) \| 🗓️ 2025-03-02
+| 🔥🔥: 116 \| 💬: [26](https://news.ycombinator.com/item?id=43230821) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -231,7 +231,7 @@ Ladybird项目在2月取得了显著进展，合并了281个PR，新增了**Shop
 <small>🔗 [initialcommit.com](https://initialcommit.com/blog/im-making-a-git-game): I struggled with Git, so I'm making a game to spare others the pain</small>
 
 
-| 🔥🔥: 106 \| 💬: [120](https://news.ycombinator.com/item?id=43230734) \| 🗓️ 2025-03-02
+| 🔥🔥: 115 \| 💬: [131](https://news.ycombinator.com/item?id=43230734) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -243,7 +243,7 @@ Ladybird项目在2月取得了显著进展，合并了281个PR，新增了**Shop
 <small>🔗 [olduse.net](https://olduse.net/): olduse.net</small>
 
 
-| 🔥: 91 \| 💬: [11](https://news.ycombinator.com/item?id=43233305) \| 🗓️ 2025-03-02
+| 🔥🔥: 101 \| 💬: [13](https://news.ycombinator.com/item?id=43233305) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -251,15 +251,15 @@ olduse.net是一个重现**Usenet早期文章**的项目，通过不同的端口
 
 ---
 
-## <a name="20"></a>20. NIH内部人士揭露拨款流程停滞问题 
-<small>🔗 [bsky.app](https://bsky.app/profile/jeremymberg.bsky.social/post/3ljflptdcy22r): NIH insiders reveal process stalling grants</small>
+## <a name="20"></a>20. 代码中的幻觉是LLM错误中最不危险的形式 
+<small>🔗 [simonwillison.net](https://simonwillison.net/2025/Mar/2/hallucinations-in-code/): Hallucinations in code are the least dangerous form of LLM mistakes</small>
 
 
-| 🔥: 80 \| 💬: [18](https://news.ycombinator.com/item?id=43233784) \| 🗓️ 2025-03-02
+| 🔥: 97 \| 💬: [68](https://news.ycombinator.com/item?id=43233903) \| 🗓️ 2025-03-02
 
 
 <br />
-内容摘要：Jeremy Berg在Bluesky平台上发布了一篇名为“Orwellial”的帖子，讨论了**NIH拨款流程**的停滞问题。他指出，尽管存在简单的HTML界面，但当前系统依赖复杂的**JavaScript交互**，导致效率低下。Berg还提到，这一问题可能影响科研项目的进展，呼吁改进流程以提高透明度与效率。
+在开发人员使用LLM生成代码时，**幻觉**（如虚构的方法或不存在的库）常被视为主要问题。然而，这些错误在代码中是最容易发现的，因为运行代码时会立即报错。相比之下，**文本中的幻觉**更难察觉，可能带来更大的风险。关键在于**手动测试代码**，确保其功能正确。此外，选择**成熟的库**和利用LLM的上下文能力可以减少幻觉的发生。
 
 ---
 
@@ -267,7 +267,7 @@ olduse.net是一个重现**Usenet早期文章**的项目，通过不同的端口
 <small>🔗 [smagin.fyi](https://smagin.fyi/posts/cross-site-requests/): Why do we have both CSRF protection and CORS?</small>
 
 
-| 🔥: 73 \| 💬: [45](https://news.ycombinator.com/item?id=43231411) \| 🗓️ 2025-03-02
+| 🔥: 84 \| 💬: [61](https://news.ycombinator.com/item?id=43231411) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -275,15 +275,15 @@ olduse.net是一个重现**Usenet早期文章**的项目，通过不同的端口
 
 ---
 
-## <a name="22"></a>22. Louis Rossmann 谈 Firefox 风波 [视频] 
-<small>🔗 [youtube.com](https://www.youtube.com/watch?v=-8bTquKjzos): Louis Rossmann opines on the Firefox debacle [video]</small>
+## <a name="22"></a>22. NIH内部人士揭露拨款流程停滞问题 
+<small>🔗 [bsky.app](https://bsky.app/profile/jeremymberg.bsky.social/post/3ljflptdcy22r): NIH insiders reveal process stalling grants</small>
 
 
-| 🔥: 72 \| 💬: [87](https://news.ycombinator.com/item?id=43231096) \| 🗓️ 2025-03-02
+| 🔥: 84 \| 💬: [18](https://news.ycombinator.com/item?id=43233784) \| 🗓️ 2025-03-02
 
 
 <br />
-Louis Rossmann 在视频中讨论了 **Firefox** 近期的争议，特别是其与 **Google** 的关系以及隐私政策的变化。他批评了 Firefox 在广告和用户数据收集方面的做法，认为这与其 **开源精神** 背道而驰。Rossmann 呼吁用户关注浏览器选择对隐私的影响。
+内容摘要：Jeremy Berg在Bluesky平台上发布了一篇名为“Orwellial”的帖子，讨论了**NIH拨款流程**的停滞问题。他指出，尽管存在简单的HTML界面，但当前系统依赖复杂的**JavaScript交互**，导致效率低下。Berg还提到，这一问题可能影响科研项目的进展，呼吁改进流程以提高透明度与效率。
 
 ---
 
@@ -291,7 +291,7 @@ Louis Rossmann 在视频中讨论了 **Firefox** 近期的争议，特别是其�
 <small>🔗 [manidoraisamy.com](https://manidoraisamy.com/developer-forever/post/the-era-of-solopreneurs-is-here.anc-52867368-2029-4dc5-a7da-ece853a648b5.html): The Era of Solopreneurs Is Here</small>
 
 
-| 🔥: 72 \| 💬: [83](https://news.ycombinator.com/item?id=43232999) \| 🗓️ 2025-03-02
+| 🔥: 74 \| 💬: [83](https://news.ycombinator.com/item?id=43232999) \| 🗓️ 2025-03-02
 
 
 <br />
@@ -299,11 +299,23 @@ DeepSeek以**AI驱动的创新**实现了惊人的盈利，展示了**AI工具�
 
 ---
 
-## <a name="24"></a>24. SafeHaven：基于Go的极简VPN实现 
+## <a name="24"></a>24. Louis Rossmann 谈 Firefox 风波 [视频] 
+<small>🔗 [youtube.com](https://www.youtube.com/watch?v=-8bTquKjzos): Louis Rossmann opines on the Firefox debacle [video]</small>
+
+
+| 🔥: 73 \| 💬: [88](https://news.ycombinator.com/item?id=43231096) \| 🗓️ 2025-03-02
+
+
+<br />
+Louis Rossmann 在视频中讨论了 **Firefox** 近期的争议，特别是其与 **Google** 的关系以及隐私政策的变化。他批评了 Firefox 在广告和用户数据收集方面的做法，认为这与其 **开源精神** 背道而驰。Rossmann 呼吁用户关注浏览器选择对隐私的影响。
+
+---
+
+## <a name="25"></a>25. SafeHaven：基于Go的极简VPN实现 
 <small>🔗 [github.com](https://github.com/kwakubiney/safehaven): Show HN: SafeHaven – A Minimal VPN Implementation in Go</small>
 
 
-| 🔥: 66 \| 💬: [11](https://news.ycombinator.com/item?id=43229569) \| 🗓️ 2025-03-02
+| 🔥: 68 \| 💬: [12](https://news.ycombinator.com/item?id=43229569) \| 🗓️ 2025-03-02
 
 
 <br />
