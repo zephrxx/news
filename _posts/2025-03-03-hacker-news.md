@@ -11,8 +11,8 @@ tags:
 1. 苹果的软件质量危机：高端硬件遭遇低质软件；
 1. 可维修的平板包装烤面包机；
 1. 青春逝去后的失落与反思；
-1. “黄金手臂”詹姆斯·哈里森去世，他的献血拯救了240万婴儿；
 1. 公共卫生数据消失？RestoredCDC.org正在恢复它们；
+1. “黄金手臂”詹姆斯·哈里森去世，他的献血拯救了240万婴儿；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [eliseomartelli.it](https://www.eliseomartelli.it/blog/2025-03-02-apple-quality): Apple's Software Quality Crisis</small>
 
 
-| 🔥🔥: 484 \| 💬: [570](https://news.ycombinator.com/item?id=43243075) \| 🗓️ 2025-03-03
+| 🔥🔥: 534 \| 💬: [624](https://news.ycombinator.com/item?id=43243075) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [kaseyhou.com](https://www.kaseyhou.com/#/repairable-flatpack-toaster/): Repairable Flatpack Toaster</small>
 
 
-| 🔥🔥: 383 \| 💬: [130](https://news.ycombinator.com/item?id=43246892) \| 🗓️ 2025-03-03
+| 🔥🔥: 419 \| 💬: [139](https://news.ycombinator.com/item?id=43246892) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [tolstoyan.substack.com](https://tolstoyan.substack.com/p/youth): Youth and what happens when it's gone</small>
 
 
-| 🔥🔥: 291 \| 💬: [203](https://news.ycombinator.com/item?id=43242815) \| 🗓️ 2025-03-03
+| 🔥🔥: 292 \| 💬: [203](https://news.ycombinator.com/item?id=43242815) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -59,23 +59,11 @@ tags:
 
 ---
 
-## <a name="4"></a>4. “黄金手臂”詹姆斯·哈里森去世，他的献血拯救了240万婴儿 
-<small>🔗 [npr.org](https://www.npr.org/2025/03/03/nx-s1-5316163/james-harrison-blood-donor): James Harrison, whose blood donations saved >2M babies, has died</small>
-
-
-| 🔥🔥: 243 \| 💬: [79](https://news.ycombinator.com/item?id=43245129) \| 🗓️ 2025-03-03
-
-
-<br />
-澳大利亚“黄金手臂”詹姆斯·哈里森于88岁去世，他因**稀有抗体**拯救了240万婴儿的生命。哈里森在60多年间献血1173次，其血浆中的**抗-D抗体**用于预防新生儿溶血病。他的无私奉献激励了家人和无数人加入献血行列，科学家们也在研究**合成抗体**以延续他的贡献。
-
----
-
-## <a name="5"></a>5. 公共卫生数据消失？RestoredCDC.org正在恢复它们 
+## <a name="4"></a>4. 公共卫生数据消失？RestoredCDC.org正在恢复它们 
 <small>🔗 [RestoredCDC.org](https://www.RestoredCDC.org): Public health data disappeared. RestoredCDC.org is bringing it back</small>
 
 
-| 🔥🔥: 232 \| 💬: [74](https://news.ycombinator.com/item?id=43248610) \| 🗓️ 2025-03-03
+| 🔥🔥: 262 \| 💬: [77](https://news.ycombinator.com/item?id=43248610) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -83,11 +71,23 @@ RestoredCDC.org致力于恢复消失的公共卫生数据，涵盖**呼吸道疾
 
 ---
 
+## <a name="5"></a>5. “黄金手臂”詹姆斯·哈里森去世，他的献血拯救了240万婴儿 
+<small>🔗 [npr.org](https://www.npr.org/2025/03/03/nx-s1-5316163/james-harrison-blood-donor): James Harrison, whose blood donations saved >2M babies, has died</small>
+
+
+| 🔥🔥: 246 \| 💬: [79](https://news.ycombinator.com/item?id=43245129) \| 🗓️ 2025-03-03
+
+
+<br />
+澳大利亚“黄金手臂”詹姆斯·哈里森于88岁去世，他因**稀有抗体**拯救了240万婴儿的生命。哈里森在60多年间献血1173次，其血浆中的**抗-D抗体**用于预防新生儿溶血病。他的无私奉献激励了家人和无数人加入献血行列，科学家们也在研究**合成抗体**以延续他的贡献。
+
+---
+
 ## <a name="6"></a>6. 日本铅笔的黄金时代：1952-1967 
 <small>🔗 [notes.stlartsupply.com](https://notes.stlartsupply.com/the-golden-age-of-japanese-pencils-1952-1967/): The Golden Age of Japanese Pencils, 1952-1967 (2022)</small>
 
 
-| 🔥🔥: 222 \| 💬: [64](https://news.ycombinator.com/item?id=43243716) \| 🗓️ 2025-03-03
+| 🔥🔥: 232 \| 💬: [66](https://news.ycombinator.com/item?id=43243716) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -99,7 +99,7 @@ RestoredCDC.org致力于恢复消失的公共卫生数据，涵盖**呼吸道疾
 <small>🔗 [gendignoux.com](https://gendignoux.com/blog/2025/03/03/rust-interning-2000x.html): The power of interning: making a time series database smaller</small>
 
 
-| 🔥🔥: 217 \| 💬: [55](https://news.ycombinator.com/item?id=43243914) \| 🗓️ 2025-03-03
+| 🔥🔥: 219 \| 💬: [55](https://news.ycombinator.com/item?id=43243914) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -111,7 +111,7 @@ RestoredCDC.org致力于恢复消失的公共卫生数据，涵盖**呼吸道疾
 <small>🔗 [rivet.gg](https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood): SQLite-on-the-server is misunderstood: Better at hyper-scale than micro-scale</small>
 
 
-| 🔥🔥: 193 \| 💬: [105](https://news.ycombinator.com/item?id=43244307) \| 🗓️ 2025-03-03
+| 🔥🔥: 201 \| 💬: [107](https://news.ycombinator.com/item?id=43244307) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -123,7 +123,7 @@ SQLite通常被视为小规模应用的首选数据库，但其真正的优势�
 <small>🔗 [icode4.coffee](https://icode4.coffee/?p=1081): Hacking the Xbox 360 Hypervisor Part 2: The Bad Update Exploit</small>
 
 
-| 🔥🔥: 191 \| 💬: [71](https://news.ycombinator.com/item?id=43244739) \| 🗓️ 2025-03-03
+| 🔥🔥: 198 \| 💬: [72](https://news.ycombinator.com/item?id=43244739) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -135,7 +135,7 @@ SQLite通常被视为小规模应用的首选数据库，但其真正的优势�
 <small>🔗 [interdb.jp](http://www.interdb.jp/pg/index.html): The Internals of PostgreSQL</small>
 
 
-| 🔥🔥: 183 \| 💬: [29](https://news.ycombinator.com/item?id=43241404) \| 🗓️ 2025-03-03
+| 🔥🔥: 184 \| 💬: [29](https://news.ycombinator.com/item?id=43241404) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -147,7 +147,7 @@ SQLite通常被视为小规模应用的首选数据库，但其真正的优势�
 <small>🔗 [theophilecantelob.re](https://theophilecantelob.re/blog/2025/foudinge/): Show HN: Knowledge graph of restaurants and chefs, built using LLMs</small>
 
 
-| 🔥🔥: 152 \| 💬: [32](https://news.ycombinator.com/item?id=43242818) \| 🗓️ 2025-03-03
+| 🔥🔥: 160 \| 💬: [32](https://news.ycombinator.com/item?id=43242818) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -159,7 +159,7 @@ SQLite通常被视为小规模应用的首选数据库，但其真正的优势�
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/03/uk-needs-abundance/681877/): How the U.K. broke its own economy</small>
 
 
-| 🔥🔥: 140 \| 💬: [235](https://news.ycombinator.com/item?id=43245235) \| 🗓️ 2025-03-03
+| 🔥🔥: 149 \| 💬: [257](https://news.ycombinator.com/item?id=43245235) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -171,7 +171,7 @@ SQLite通常被视为小规模应用的首选数据库，但其真正的优势�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.20547): An Attempt to Catch Up with JIT Compilers</small>
 
 
-| 🔥🔥: 127 \| 💬: [111](https://news.ycombinator.com/item?id=43243109) \| 🗓️ 2025-03-03
+| 🔥🔥: 132 \| 💬: [111](https://news.ycombinator.com/item?id=43243109) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -183,7 +183,7 @@ SQLite通常被视为小规模应用的首选数据库，但其真正的优势�
 <small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/event/fosdem-2025-5381-comparing-fuchsia-components-and-linux-containers/): Comparing Fuchsia components and Linux containers [video]</small>
 
 
-| 🔥🔥: 115 \| 💬: [76](https://news.ycombinator.com/item?id=43246703) \| 🗓️ 2025-03-03
+| 🔥🔥: 129 \| 💬: [87](https://news.ycombinator.com/item?id=43246703) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -195,7 +195,7 @@ Fuchsia是谷歌开发的新操作系统，其核心设计之一是**组件框�
 <small>🔗 [wired.com](https://www.wired.com/story/texas-amazon-drones-stop-flying/): Amazon’s delivery drones are grounded in College Station, Texas</small>
 
 
-| 🔥🔥: 110 \| 💬: [286](https://news.ycombinator.com/item?id=43241212) \| 🗓️ 2025-03-03
+| 🔥🔥: 111 \| 💬: [286](https://news.ycombinator.com/item?id=43241212) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -207,7 +207,7 @@ Fuchsia是谷歌开发的新操作系统，其核心设计之一是**组件框�
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/03/former_sap_cto_payout/): Ex-SAP CTO walks away with €7.1M payout after scandal</small>
 
 
-| 🔥🔥: 108 \| 💬: [75](https://news.ycombinator.com/item?id=43244490) \| 🗓️ 2025-03-03
+| 🔥🔥: 109 \| 💬: [76](https://news.ycombinator.com/item?id=43244490) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -219,7 +219,7 @@ SAP前首席技术官**Jürgen Müller**因去年公司活动中的不当行为�
 <small>🔗 [aoli.al](https://aoli.al/blogs/chrome-bug/): Chrome Returns 206 when the Server Returns 403</small>
 
 
-| 🔥🔥: 105 \| 💬: [33](https://news.ycombinator.com/item?id=43244680) \| 🗓️ 2025-03-03
+| 🔥🔥: 109 \| 💬: [35](https://news.ycombinator.com/item?id=43244680) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -231,7 +231,7 @@ SAP前首席技术官**Jürgen Müller**因去年公司活动中的不当行为�
 <small>🔗 [github.com](https://github.com/wild-card-ai/agents-json): Show HN: Agents.json – OpenAPI Specification for LLMs</small>
 
 
-| 🔥: 97 \| 💬: [49](https://news.ycombinator.com/item?id=43243893) \| 🗓️ 2025-03-03
+| 🔥🔥: 105 \| 💬: [51](https://news.ycombinator.com/item?id=43243893) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -243,7 +243,7 @@ SAP前首席技术官**Jürgen Müller**因去年公司活动中的不当行为�
 <small>🔗 [github.com](https://github.com/takara-ai/go-attention): Go-attention: A full attention mechanism and transformer in pure Go</small>
 
 
-| 🔥: 93 \| 💬: [42](https://news.ycombinator.com/item?id=43243549) \| 🗓️ 2025-03-03
+| 🔥: 100 \| 💬: [44](https://news.ycombinator.com/item?id=43243549) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -255,7 +255,7 @@ Go-attention是由takara.ai前沿研究团队推出的首个纯Go语言实现的
 <small>🔗 [estilofilos.blogspot.com](https://estilofilos.blogspot.com/2016/03/one-logo-three-companies-i.html): One Logo, Three Companies</small>
 
 
-| 🔥: 91 \| 💬: [41](https://news.ycombinator.com/item?id=43245315) \| 🗓️ 2025-03-03
+| 🔥: 93 \| 💬: [42](https://news.ycombinator.com/item?id=43245315) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -267,7 +267,7 @@ Go-attention是由takara.ai前沿研究团队推出的首个纯Go语言实现的
 <small>🔗 [theguardian.com](https://www.theguardian.com/games/2025/mar/03/ghost-hunting-pornography-and-interactive-art-the-weird-afterlife-of-xbox-kinect): The weird afterlife of Xbox Kinect</small>
 
 
-| 🔥: 73 \| 💬: [59](https://news.ycombinator.com/item?id=43241880) \| 🗓️ 2025-03-03
+| 🔥: 74 \| 💬: [60](https://news.ycombinator.com/item?id=43241880) \| 🗓️ 2025-03-03
 
 
 <br />
