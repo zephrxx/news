@@ -27,7 +27,7 @@ tags:
 <small>🔗 [eliseomartelli.it](https://www.eliseomartelli.it/blog/2025-03-02-apple-quality): Apple's Software Quality Crisis</small>
 
 
-| 🔥🔥: 534 \| 💬: [624](https://news.ycombinator.com/item?id=43243075) \| 🗓️ 2025-03-03
+| 🔥🔥: 584 \| 💬: [666](https://news.ycombinator.com/item?id=43243075) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [kaseyhou.com](https://www.kaseyhou.com/#/repairable-flatpack-toaster/): Repairable Flatpack Toaster</small>
 
 
-| 🔥🔥: 419 \| 💬: [139](https://news.ycombinator.com/item?id=43246892) \| 🗓️ 2025-03-03
+| 🔥🔥: 435 \| 💬: [143](https://news.ycombinator.com/item?id=43246892) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [tolstoyan.substack.com](https://tolstoyan.substack.com/p/youth): Youth and what happens when it's gone</small>
 
 
-| 🔥🔥: 292 \| 💬: [203](https://news.ycombinator.com/item?id=43242815) \| 🗓️ 2025-03-03
+| 🔥🔥: 292 \| 💬: [204](https://news.ycombinator.com/item?id=43242815) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [RestoredCDC.org](https://www.RestoredCDC.org): Public health data disappeared. RestoredCDC.org is bringing it back</small>
 
 
-| 🔥🔥: 262 \| 💬: [77](https://news.ycombinator.com/item?id=43248610) \| 🗓️ 2025-03-03
+| 🔥🔥: 285 \| 💬: [82](https://news.ycombinator.com/item?id=43248610) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -75,7 +75,7 @@ RestoredCDC.org致力于恢复消失的公共卫生数据，涵盖**呼吸道疾
 <small>🔗 [npr.org](https://www.npr.org/2025/03/03/nx-s1-5316163/james-harrison-blood-donor): James Harrison, whose blood donations saved >2M babies, has died</small>
 
 
-| 🔥🔥: 246 \| 💬: [79](https://news.ycombinator.com/item?id=43245129) \| 🗓️ 2025-03-03
+| 🔥🔥: 248 \| 💬: [79](https://news.ycombinator.com/item?id=43245129) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -87,7 +87,7 @@ RestoredCDC.org致力于恢复消失的公共卫生数据，涵盖**呼吸道疾
 <small>🔗 [notes.stlartsupply.com](https://notes.stlartsupply.com/the-golden-age-of-japanese-pencils-1952-1967/): The Golden Age of Japanese Pencils, 1952-1967 (2022)</small>
 
 
-| 🔥🔥: 232 \| 💬: [66](https://news.ycombinator.com/item?id=43243716) \| 🗓️ 2025-03-03
+| 🔥🔥: 239 \| 💬: [67](https://news.ycombinator.com/item?id=43243716) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -99,7 +99,7 @@ RestoredCDC.org致力于恢复消失的公共卫生数据，涵盖**呼吸道疾
 <small>🔗 [gendignoux.com](https://gendignoux.com/blog/2025/03/03/rust-interning-2000x.html): The power of interning: making a time series database smaller</small>
 
 
-| 🔥🔥: 219 \| 💬: [55](https://news.ycombinator.com/item?id=43243914) \| 🗓️ 2025-03-03
+| 🔥🔥: 223 \| 💬: [55](https://news.ycombinator.com/item?id=43243914) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -111,7 +111,7 @@ RestoredCDC.org致力于恢复消失的公共卫生数据，涵盖**呼吸道疾
 <small>🔗 [rivet.gg](https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood): SQLite-on-the-server is misunderstood: Better at hyper-scale than micro-scale</small>
 
 
-| 🔥🔥: 201 \| 💬: [107](https://news.ycombinator.com/item?id=43244307) \| 🗓️ 2025-03-03
+| 🔥🔥: 208 \| 💬: [111](https://news.ycombinator.com/item?id=43244307) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -123,7 +123,7 @@ SQLite通常被视为小规模应用的首选数据库，但其真正的优势�
 <small>🔗 [icode4.coffee](https://icode4.coffee/?p=1081): Hacking the Xbox 360 Hypervisor Part 2: The Bad Update Exploit</small>
 
 
-| 🔥🔥: 198 \| 💬: [72](https://news.ycombinator.com/item?id=43244739) \| 🗓️ 2025-03-03
+| 🔥🔥: 202 \| 💬: [74](https://news.ycombinator.com/item?id=43244739) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -135,7 +135,7 @@ SQLite通常被视为小规模应用的首选数据库，但其真正的优势�
 <small>🔗 [interdb.jp](http://www.interdb.jp/pg/index.html): The Internals of PostgreSQL</small>
 
 
-| 🔥🔥: 184 \| 💬: [29](https://news.ycombinator.com/item?id=43241404) \| 🗓️ 2025-03-03
+| 🔥🔥: 185 \| 💬: [29](https://news.ycombinator.com/item?id=43241404) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -147,7 +147,7 @@ SQLite通常被视为小规模应用的首选数据库，但其真正的优势�
 <small>🔗 [theophilecantelob.re](https://theophilecantelob.re/blog/2025/foudinge/): Show HN: Knowledge graph of restaurants and chefs, built using LLMs</small>
 
 
-| 🔥🔥: 160 \| 💬: [32](https://news.ycombinator.com/item?id=43242818) \| 🗓️ 2025-03-03
+| 🔥🔥: 162 \| 💬: [32](https://news.ycombinator.com/item?id=43242818) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -159,7 +159,7 @@ SQLite通常被视为小规模应用的首选数据库，但其真正的优势�
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/03/uk-needs-abundance/681877/): How the U.K. broke its own economy</small>
 
 
-| 🔥🔥: 149 \| 💬: [257](https://news.ycombinator.com/item?id=43245235) \| 🗓️ 2025-03-03
+| 🔥🔥: 159 \| 💬: [286](https://news.ycombinator.com/item?id=43245235) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -167,7 +167,19 @@ SQLite通常被视为小规模应用的首选数据库，但其真正的优势�
 
 ---
 
-## <a name="13"></a>13. 追赶JIT编译器的尝试：优化内联缓存的误区 
+## <a name="13"></a>13. 比较Fuchsia组件与Linux容器 
+<small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/event/fosdem-2025-5381-comparing-fuchsia-components-and-linux-containers/): Comparing Fuchsia components and Linux containers [video]</small>
+
+
+| 🔥🔥: 137 \| 💬: [91](https://news.ycombinator.com/item?id=43246703) \| 🗓️ 2025-03-03
+
+
+<br />
+Fuchsia是谷歌开发的新操作系统，其核心设计之一是**组件框架**。Fuchsia组件与Linux容器（如Docker）有许多相似之处，例如通过网络获取内容、构建隔离的文件系统并启动命名空间进程。然而，两者的**使用场景和需求**不同，导致它们在功能和优势上有所差异。本次演讲将重点探讨这些相似技术为何及在何处分道扬镳。
+
+---
+
+## <a name="14"></a>14. 追赶JIT编译器的尝试：优化内联缓存的误区 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.20547): An Attempt to Catch Up with JIT Compilers</small>
 
 
@@ -179,19 +191,19 @@ SQLite通常被视为小规模应用的首选数据库，但其真正的优势�
 
 ---
 
-## <a name="14"></a>14. 比较Fuchsia组件与Linux容器 
-<small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/event/fosdem-2025-5381-comparing-fuchsia-components-and-linux-containers/): Comparing Fuchsia components and Linux containers [video]</small>
+## <a name="15"></a>15. Agents.json：为LLM设计的OpenAPI规范 
+<small>🔗 [github.com](https://github.com/wild-card-ai/agents-json): Show HN: Agents.json – OpenAPI Specification for LLMs</small>
 
 
-| 🔥🔥: 129 \| 💬: [87](https://news.ycombinator.com/item?id=43246703) \| 🗓️ 2025-03-03
+| 🔥🔥: 112 \| 💬: [52](https://news.ycombinator.com/item?id=43243893) \| 🗓️ 2025-03-03
 
 
 <br />
-Fuchsia是谷歌开发的新操作系统，其核心设计之一是**组件框架**。Fuchsia组件与Linux容器（如Docker）有许多相似之处，例如通过网络获取内容、构建隔离的文件系统并启动命名空间进程。然而，两者的**使用场景和需求**不同，导致它们在功能和优势上有所差异。本次演讲将重点探讨这些相似技术为何及在何处分道扬镳。
+**Agents.json** 是一个基于OpenAPI标准的开放规范，旨在为API与AI代理的交互提供结构化描述。它通过优化端点发现和LLM参数生成，帮助AI代理更高效地执行多步API调用。**Wildcard Bridge** 是一个Python工具包，用于加载、解析和运行agents.json文件。该规范通过引入**flows**和**links**，解决了AI代理在API调用序列中的难题，适用于无状态环境，且无需对现有API进行大幅修改。
 
 ---
 
-## <a name="15"></a>15. 亚马逊无人机在德克萨斯州大学城停飞 
+## <a name="16"></a>16. 亚马逊无人机在德克萨斯州大学城停飞 
 <small>🔗 [wired.com](https://www.wired.com/story/texas-amazon-drones-stop-flying/): Amazon’s delivery drones are grounded in College Station, Texas</small>
 
 
@@ -203,7 +215,19 @@ Fuchsia是谷歌开发的新操作系统，其核心设计之一是**组件框�
 
 ---
 
-## <a name="16"></a>16. 前SAP首席技术官因丑闻离职，获710万欧元赔偿 
+## <a name="17"></a>17. Chrome 在服务器返回 403 时仍显示 206 
+<small>🔗 [aoli.al](https://aoli.al/blogs/chrome-bug/): Chrome Returns 206 when the Server Returns 403</small>
+
+
+| 🔥🔥: 110 \| 💬: [35](https://news.ycombinator.com/item?id=43244680) \| 🗓️ 2025-03-03
+
+
+<br />
+作者在调试一个与 **S3 存储** 相关的 **WASM** 应用时，发现 Chrome 在处理部分缓存内容时存在异常行为。尽管服务器返回了 **403** 错误，Chrome 仍向应用返回 **206** 状态码，并显示不完整的数据。经过与 Chromium 团队的沟通，该行为被认定为“功能”而非“漏洞”，开发者需在应用层处理缺失的数据。
+
+---
+
+## <a name="18"></a>18. 前SAP首席技术官因丑闻离职，获710万欧元赔偿 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/03/former_sap_cto_payout/): Ex-SAP CTO walks away with €7.1M payout after scandal</small>
 
 
@@ -215,35 +239,11 @@ SAP前首席技术官**Jürgen Müller**因去年公司活动中的不当行为�
 
 ---
 
-## <a name="17"></a>17. Chrome 在服务器返回 403 时仍显示 206 
-<small>🔗 [aoli.al](https://aoli.al/blogs/chrome-bug/): Chrome Returns 206 when the Server Returns 403</small>
-
-
-| 🔥🔥: 109 \| 💬: [35](https://news.ycombinator.com/item?id=43244680) \| 🗓️ 2025-03-03
-
-
-<br />
-作者在调试一个与 **S3 存储** 相关的 **WASM** 应用时，发现 Chrome 在处理部分缓存内容时存在异常行为。尽管服务器返回了 **403** 错误，Chrome 仍向应用返回 **206** 状态码，并显示不完整的数据。经过与 Chromium 团队的沟通，该行为被认定为“功能”而非“漏洞”，开发者需在应用层处理缺失的数据。
-
----
-
-## <a name="18"></a>18. Agents.json：为LLM设计的OpenAPI规范 
-<small>🔗 [github.com](https://github.com/wild-card-ai/agents-json): Show HN: Agents.json – OpenAPI Specification for LLMs</small>
-
-
-| 🔥🔥: 105 \| 💬: [51](https://news.ycombinator.com/item?id=43243893) \| 🗓️ 2025-03-03
-
-
-<br />
-**Agents.json** 是一个基于OpenAPI标准的开放规范，旨在为API与AI代理的交互提供结构化描述。它通过优化端点发现和LLM参数生成，帮助AI代理更高效地执行多步API调用。**Wildcard Bridge** 是一个Python工具包，用于加载、解析和运行agents.json文件。该规范通过引入**flows**和**links**，解决了AI代理在API调用序列中的难题，适用于无状态环境，且无需对现有API进行大幅修改。
-
----
-
 ## <a name="19"></a>19. Go-attention：纯Go实现的全注意力机制与Transformer 
 <small>🔗 [github.com](https://github.com/takara-ai/go-attention): Go-attention: A full attention mechanism and transformer in pure Go</small>
 
 
-| 🔥: 100 \| 💬: [44](https://news.ycombinator.com/item?id=43243549) \| 🗓️ 2025-03-03
+| 🔥🔥: 103 \| 💬: [46](https://news.ycombinator.com/item?id=43243549) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -255,7 +255,7 @@ Go-attention是由takara.ai前沿研究团队推出的首个纯Go语言实现的
 <small>🔗 [estilofilos.blogspot.com](https://estilofilos.blogspot.com/2016/03/one-logo-three-companies-i.html): One Logo, Three Companies</small>
 
 
-| 🔥: 93 \| 💬: [42](https://news.ycombinator.com/item?id=43245315) \| 🗓️ 2025-03-03
+| 🔥: 95 \| 💬: [42](https://news.ycombinator.com/item?id=43245315) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -267,7 +267,7 @@ Go-attention是由takara.ai前沿研究团队推出的首个纯Go语言实现的
 <small>🔗 [theguardian.com](https://www.theguardian.com/games/2025/mar/03/ghost-hunting-pornography-and-interactive-art-the-weird-afterlife-of-xbox-kinect): The weird afterlife of Xbox Kinect</small>
 
 
-| 🔥: 74 \| 💬: [60](https://news.ycombinator.com/item?id=43241880) \| 🗓️ 2025-03-03
+| 🔥: 74 \| 💬: [62](https://news.ycombinator.com/item?id=43241880) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -279,7 +279,7 @@ Go-attention是由takara.ai前沿研究团队推出的首个纯Go语言实现的
 <small>🔗 [businesskorea.co.kr](https://www.businesskorea.co.kr/news/articleView.html?idxno=236533): Tianjin robot incident raises alarm over public safety and robotics</small>
 
 
-| 🔥: 73 \| 💬: [53](https://news.ycombinator.com/item?id=43246438) \| 🗓️ 2025-03-03
+| 🔥: 73 \| 💬: [54](https://news.ycombinator.com/item?id=43246438) \| 🗓️ 2025-03-03
 
 
 <br />
