@@ -12,7 +12,7 @@ tags:
 1. 可维修的平板包装烤面包机；
 1. 青春逝去后的失落与反思；
 1. “黄金手臂”詹姆斯·哈里森去世，他的献血拯救了240万婴儿；
-1. 利用字符串驻留技术压缩时间序列数据库；
+1. 公共卫生数据消失？RestoredCDC.org正在恢复它们；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [eliseomartelli.it](https://www.eliseomartelli.it/blog/2025-03-02-apple-quality): Apple's Software Quality Crisis</small>
 
 
-| 🔥🔥: 436 \| 💬: [535](https://news.ycombinator.com/item?id=43243075) \| 🗓️ 2025-03-03
+| 🔥🔥: 484 \| 💬: [570](https://news.ycombinator.com/item?id=43243075) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [kaseyhou.com](https://www.kaseyhou.com/#/repairable-flatpack-toaster/): Repairable Flatpack Toaster</small>
 
 
-| 🔥🔥: 351 \| 💬: [122](https://news.ycombinator.com/item?id=43246892) \| 🗓️ 2025-03-03
+| 🔥🔥: 383 \| 💬: [130](https://news.ycombinator.com/item?id=43246892) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [tolstoyan.substack.com](https://tolstoyan.substack.com/p/youth): Youth and what happens when it's gone</small>
 
 
-| 🔥🔥: 289 \| 💬: [203](https://news.ycombinator.com/item?id=43242815) \| 🗓️ 2025-03-03
+| 🔥🔥: 291 \| 💬: [203](https://news.ycombinator.com/item?id=43242815) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [npr.org](https://www.npr.org/2025/03/03/nx-s1-5316163/james-harrison-blood-donor): James Harrison, whose blood donations saved >2M babies, has died</small>
 
 
-| 🔥🔥: 242 \| 💬: [75](https://news.ycombinator.com/item?id=43245129) \| 🗓️ 2025-03-03
+| 🔥🔥: 243 \| 💬: [79](https://news.ycombinator.com/item?id=43245129) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -71,35 +71,11 @@ tags:
 
 ---
 
-## <a name="5"></a>5. 利用字符串驻留技术压缩时间序列数据库 
-<small>🔗 [gendignoux.com](https://gendignoux.com/blog/2025/03/03/rust-interning-2000x.html): The power of interning: making a time series database smaller</small>
-
-
-| 🔥🔥: 215 \| 💬: [55](https://news.ycombinator.com/item?id=43243914) \| 🗓️ 2025-03-03
-
-
-<br />
-本文介绍了如何通过**字符串驻留**技术大幅压缩巴黎公共交通网络的开源数据。作者使用Rust编程语言，通过将重复的字符串替换为索引，成功将10GB的数据压缩至原来的1/2000。文章详细探讨了驻留模式的设计、数据结构的优化以及序列化的最佳实践，展示了如何通过**内存优化**和**数据结构调整**显著减少存储空间。
-
----
-
-## <a name="6"></a>6. 日本铅笔的黄金时代：1952-1967 
-<small>🔗 [notes.stlartsupply.com](https://notes.stlartsupply.com/the-golden-age-of-japanese-pencils-1952-1967/): The Golden Age of Japanese Pencils, 1952-1967 (2022)</small>
-
-
-| 🔥🔥: 211 \| 💬: [57](https://news.ycombinator.com/item?id=43243716) \| 🗓️ 2025-03-03
-
-
-<br />
-1952年，Tombow铅笔公司推出了**HOMO**铅笔，标志着日本铅笔行业的革命。通过与美国合作引入先进设备，Tombow生产出更均匀、更高质量的铅笔芯，成为日本首款高端铅笔。随后，Mitsubishi等公司也迅速跟进，推动了日本铅笔行业的**黄金时代**。这一时期，日本铅笔制造商通过技术创新和设计升级，成功挑战了欧洲品牌的垄断地位。
-
----
-
-## <a name="7"></a>7. 公共卫生数据消失？RestoredCDC.org正在恢复它们 
+## <a name="5"></a>5. 公共卫生数据消失？RestoredCDC.org正在恢复它们 
 <small>🔗 [RestoredCDC.org](https://www.RestoredCDC.org): Public health data disappeared. RestoredCDC.org is bringing it back</small>
 
 
-| 🔥🔥: 206 \| 💬: [68](https://news.ycombinator.com/item?id=43248610) \| 🗓️ 2025-03-03
+| 🔥🔥: 232 \| 💬: [74](https://news.ycombinator.com/item?id=43248610) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -107,11 +83,35 @@ RestoredCDC.org致力于恢复消失的公共卫生数据，涵盖**呼吸道疾
 
 ---
 
+## <a name="6"></a>6. 日本铅笔的黄金时代：1952-1967 
+<small>🔗 [notes.stlartsupply.com](https://notes.stlartsupply.com/the-golden-age-of-japanese-pencils-1952-1967/): The Golden Age of Japanese Pencils, 1952-1967 (2022)</small>
+
+
+| 🔥🔥: 222 \| 💬: [64](https://news.ycombinator.com/item?id=43243716) \| 🗓️ 2025-03-03
+
+
+<br />
+1952年，Tombow铅笔公司推出了**HOMO**铅笔，标志着日本铅笔行业的革命。通过与美国合作引入先进设备，Tombow生产出更均匀、更高质量的铅笔芯，成为日本首款高端铅笔。随后，Mitsubishi等公司也迅速跟进，推动了日本铅笔行业的**黄金时代**。这一时期，日本铅笔制造商通过技术创新和设计升级，成功挑战了欧洲品牌的垄断地位。
+
+---
+
+## <a name="7"></a>7. 利用字符串驻留技术压缩时间序列数据库 
+<small>🔗 [gendignoux.com](https://gendignoux.com/blog/2025/03/03/rust-interning-2000x.html): The power of interning: making a time series database smaller</small>
+
+
+| 🔥🔥: 217 \| 💬: [55](https://news.ycombinator.com/item?id=43243914) \| 🗓️ 2025-03-03
+
+
+<br />
+本文介绍了如何通过**字符串驻留**技术大幅压缩巴黎公共交通网络的开源数据。作者使用Rust编程语言，通过将重复的字符串替换为索引，成功将10GB的数据压缩至原来的1/2000。文章详细探讨了驻留模式的设计、数据结构的优化以及序列化的最佳实践，展示了如何通过**内存优化**和**数据结构调整**显著减少存储空间。
+
+---
+
 ## <a name="8"></a>8. SQLite在服务器端的潜力被低估：更适合超大规模而非小规模应用 
-<small>🔗 [rivet.gg](https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood): SQLite-on-the-Server Is Misunderstood: Better at Hyper-Scale Than Micro-Scale</small>
+<small>🔗 [rivet.gg](https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood): SQLite-on-the-server is misunderstood: Better at hyper-scale than micro-scale</small>
 
 
-| 🔥🔥: 184 \| 💬: [99](https://news.ycombinator.com/item?id=43244307) \| 🗓️ 2025-03-03
+| 🔥🔥: 193 \| 💬: [105](https://news.ycombinator.com/item?id=43244307) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -123,7 +123,7 @@ SQLite通常被视为小规模应用的首选数据库，但其真正的优势�
 <small>🔗 [icode4.coffee](https://icode4.coffee/?p=1081): Hacking the Xbox 360 Hypervisor Part 2: The Bad Update Exploit</small>
 
 
-| 🔥🔥: 184 \| 💬: [69](https://news.ycombinator.com/item?id=43244739) \| 🗓️ 2025-03-03
+| 🔥🔥: 191 \| 💬: [71](https://news.ycombinator.com/item?id=43244739) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -147,7 +147,7 @@ SQLite通常被视为小规模应用的首选数据库，但其真正的优势�
 <small>🔗 [theophilecantelob.re](https://theophilecantelob.re/blog/2025/foudinge/): Show HN: Knowledge graph of restaurants and chefs, built using LLMs</small>
 
 
-| 🔥🔥: 148 \| 💬: [32](https://news.ycombinator.com/item?id=43242818) \| 🗓️ 2025-03-03
+| 🔥🔥: 152 \| 💬: [32](https://news.ycombinator.com/item?id=43242818) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -155,23 +155,11 @@ SQLite通常被视为小规模应用的首选数据库，但其真正的优势�
 
 ---
 
-## <a name="12"></a>12. 追赶JIT编译器的尝试：优化内联缓存的误区 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2502.20547): An Attempt to Catch Up with JIT Compilers</small>
-
-
-| 🔥🔥: 126 \| 💬: [107](https://news.ycombinator.com/item?id=43243109) \| 🗓️ 2025-03-03
-
-
-<br />
-本文探讨了**AoT编译器**通过引入**动态二进制修改（DBM）**来提升性能的可能性。研究在Hopc AoT JavaScript编译器中添加了基于DBM的内联缓存优化，但实验表明，减少内存访问并未显著缩短执行时间。结果表明，**现代处理器已能自行优化代码**，复杂的编译器优化仅在处理器无法加速时才有价值。这一发现对AoT和JIT编译器均适用。
-
----
-
-## <a name="13"></a>13. 英国如何自毁经济 
+## <a name="12"></a>12. 英国如何自毁经济 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/03/uk-needs-abundance/681877/): How the U.K. broke its own economy</small>
 
 
-| 🔥🔥: 125 \| 💬: [213](https://news.ycombinator.com/item?id=43245235) \| 🗓️ 2025-03-03
+| 🔥🔥: 140 \| 💬: [235](https://news.ycombinator.com/item?id=43245235) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -179,11 +167,35 @@ SQLite通常被视为小规模应用的首选数据库，但其真正的优势�
 
 ---
 
-## <a name="14"></a>14. 亚马逊无人机在德克萨斯州大学城停飞 
+## <a name="13"></a>13. 追赶JIT编译器的尝试：优化内联缓存的误区 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2502.20547): An Attempt to Catch Up with JIT Compilers</small>
+
+
+| 🔥🔥: 127 \| 💬: [111](https://news.ycombinator.com/item?id=43243109) \| 🗓️ 2025-03-03
+
+
+<br />
+本文探讨了**AoT编译器**通过引入**动态二进制修改（DBM）**来提升性能的可能性。研究在Hopc AoT JavaScript编译器中添加了基于DBM的内联缓存优化，但实验表明，减少内存访问并未显著缩短执行时间。结果表明，**现代处理器已能自行优化代码**，复杂的编译器优化仅在处理器无法加速时才有价值。这一发现对AoT和JIT编译器均适用。
+
+---
+
+## <a name="14"></a>14. 比较Fuchsia组件与Linux容器 
+<small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/event/fosdem-2025-5381-comparing-fuchsia-components-and-linux-containers/): Comparing Fuchsia components and Linux containers [video]</small>
+
+
+| 🔥🔥: 115 \| 💬: [76](https://news.ycombinator.com/item?id=43246703) \| 🗓️ 2025-03-03
+
+
+<br />
+Fuchsia是谷歌开发的新操作系统，其核心设计之一是**组件框架**。Fuchsia组件与Linux容器（如Docker）有许多相似之处，例如通过网络获取内容、构建隔离的文件系统并启动命名空间进程。然而，两者的**使用场景和需求**不同，导致它们在功能和优势上有所差异。本次演讲将重点探讨这些相似技术为何及在何处分道扬镳。
+
+---
+
+## <a name="15"></a>15. 亚马逊无人机在德克萨斯州大学城停飞 
 <small>🔗 [wired.com](https://www.wired.com/story/texas-amazon-drones-stop-flying/): Amazon’s delivery drones are grounded in College Station, Texas</small>
 
 
-| 🔥🔥: 110 \| 💬: [284](https://news.ycombinator.com/item?id=43241212) \| 🗓️ 2025-03-03
+| 🔥🔥: 110 \| 💬: [286](https://news.ycombinator.com/item?id=43241212) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -191,7 +203,7 @@ SQLite通常被视为小规模应用的首选数据库，但其真正的优势�
 
 ---
 
-## <a name="15"></a>15. 前SAP首席技术官因丑闻离职，获710万欧元赔偿 
+## <a name="16"></a>16. 前SAP首席技术官因丑闻离职，获710万欧元赔偿 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/03/former_sap_cto_payout/): Ex-SAP CTO walks away with €7.1M payout after scandal</small>
 
 
@@ -203,23 +215,11 @@ SAP前首席技术官**Jürgen Müller**因去年公司活动中的不当行为�
 
 ---
 
-## <a name="16"></a>16. 比较Fuchsia组件与Linux容器 
-<small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/event/fosdem-2025-5381-comparing-fuchsia-components-and-linux-containers/): Comparing Fuchsia components and Linux containers [video]</small>
-
-
-| 🔥🔥: 104 \| 💬: [67](https://news.ycombinator.com/item?id=43246703) \| 🗓️ 2025-03-03
-
-
-<br />
-Fuchsia是谷歌开发的新操作系统，其核心设计之一是**组件框架**。Fuchsia组件与Linux容器（如Docker）有许多相似之处，例如通过网络获取内容、构建隔离的文件系统并启动命名空间进程。然而，两者的**使用场景和需求**不同，导致它们在功能和优势上有所差异。本次演讲将重点探讨这些相似技术为何及在何处分道扬镳。
-
----
-
 ## <a name="17"></a>17. Chrome 在服务器返回 403 时仍显示 206 
 <small>🔗 [aoli.al](https://aoli.al/blogs/chrome-bug/): Chrome Returns 206 when the Server Returns 403</small>
 
 
-| 🔥🔥: 101 \| 💬: [32](https://news.ycombinator.com/item?id=43244680) \| 🗓️ 2025-03-03
+| 🔥🔥: 105 \| 💬: [33](https://news.ycombinator.com/item?id=43244680) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -231,7 +231,7 @@ Fuchsia是谷歌开发的新操作系统，其核心设计之一是**组件框�
 <small>🔗 [github.com](https://github.com/wild-card-ai/agents-json): Show HN: Agents.json – OpenAPI Specification for LLMs</small>
 
 
-| 🔥: 94 \| 💬: [48](https://news.ycombinator.com/item?id=43243893) \| 🗓️ 2025-03-03
+| 🔥: 97 \| 💬: [49](https://news.ycombinator.com/item?id=43243893) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -243,7 +243,7 @@ Fuchsia是谷歌开发的新操作系统，其核心设计之一是**组件框�
 <small>🔗 [github.com](https://github.com/takara-ai/go-attention): Go-attention: A full attention mechanism and transformer in pure Go</small>
 
 
-| 🔥: 89 \| 💬: [41](https://news.ycombinator.com/item?id=43243549) \| 🗓️ 2025-03-03
+| 🔥: 93 \| 💬: [42](https://news.ycombinator.com/item?id=43243549) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -255,7 +255,7 @@ Go-attention是由takara.ai前沿研究团队推出的首个纯Go语言实现的
 <small>🔗 [estilofilos.blogspot.com](https://estilofilos.blogspot.com/2016/03/one-logo-three-companies-i.html): One Logo, Three Companies</small>
 
 
-| 🔥: 84 \| 💬: [39](https://news.ycombinator.com/item?id=43245315) \| 🗓️ 2025-03-03
+| 🔥: 91 \| 💬: [41](https://news.ycombinator.com/item?id=43245315) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -279,7 +279,7 @@ Go-attention是由takara.ai前沿研究团队推出的首个纯Go语言实现的
 <small>🔗 [businesskorea.co.kr](https://www.businesskorea.co.kr/news/articleView.html?idxno=236533): Tianjin robot incident raises alarm over public safety and robotics</small>
 
 
-| 🔥: 73 \| 💬: [52](https://news.ycombinator.com/item?id=43246438) \| 🗓️ 2025-03-03
+| 🔥: 73 \| 💬: [53](https://news.ycombinator.com/item?id=43246438) \| 🗓️ 2025-03-03
 
 
 <br />
