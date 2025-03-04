@@ -8,38 +8,26 @@ tags:
 ---
 
 
-1. 青春逝去后的失落与反思；
 1. 苹果的软件质量危机：高端硬件遭遇低质软件；
 1. 可维修的平板包装烤面包机；
+1. 青春逝去后的失落与反思；
 1. “黄金手臂”詹姆斯·哈里森去世，他的献血拯救了240万婴儿；
 1. 利用字符串驻留技术压缩时间序列数据库；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共22条，具体内容您往下读...
+总共23条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
 ![](/assets/images/hacker_news.jpg)
 
 
-## <a name="1"></a>1. 青春逝去后的失落与反思 
-<small>🔗 [tolstoyan.substack.com](https://tolstoyan.substack.com/p/youth): Youth and what happens when it's gone</small>
-
-
-| 🔥🔥: 285 \| 💬: [199](https://news.ycombinator.com/item?id=43242815) \| 🗓️ 2025-03-03
-
-
-<br />
-文章讲述了一位年轻作家对**青春**的执着追求，他渴望像自己崇拜的作家一样在年轻时取得成就。然而，随着时间流逝，他未能实现这一目标，逐渐意识到**青春**的消逝带来的不仅是机会的减少，还有对自我价值的重新审视。他最终在37岁出版了小说，但已不再年轻，无法获得“天才少年”的光环。文章探讨了**青春**与成就之间的关系，以及如何在失去青春后找到新的意义。
-
----
-
-## <a name="2"></a>2. 苹果的软件质量危机：高端硬件遭遇低质软件 
+## <a name="1"></a>1. 苹果的软件质量危机：高端硬件遭遇低质软件 
 <small>🔗 [eliseomartelli.it](https://www.eliseomartelli.it/blog/2025-03-02-apple-quality): Apple's Software Quality Crisis</small>
 
 
-| 🔥🔥: 283 \| 💬: [334](https://news.ycombinator.com/item?id=43243075) \| 🗓️ 2025-03-03
+| 🔥🔥: 348 \| 💬: [398](https://news.ycombinator.com/item?id=43243075) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -47,11 +35,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 可维修的平板包装烤面包机 
+## <a name="2"></a>2. 可维修的平板包装烤面包机 
 <small>🔗 [kaseyhou.com](https://www.kaseyhou.com/#/repairable-flatpack-toaster/): Repairable Flatpack Toaster</small>
 
 
-| 🔥🔥: 234 \| 💬: [84](https://news.ycombinator.com/item?id=43246892) \| 🗓️ 2025-03-03
+| 🔥🔥: 292 \| 💬: [101](https://news.ycombinator.com/item?id=43246892) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -59,11 +47,23 @@ tags:
 
 ---
 
+## <a name="3"></a>3. 青春逝去后的失落与反思 
+<small>🔗 [tolstoyan.substack.com](https://tolstoyan.substack.com/p/youth): Youth and what happens when it's gone</small>
+
+
+| 🔥🔥: 288 \| 💬: [202](https://news.ycombinator.com/item?id=43242815) \| 🗓️ 2025-03-03
+
+
+<br />
+文章讲述了一位年轻作家对**青春**的执着追求，他渴望像自己崇拜的作家一样在年轻时取得成就。然而，随着时间流逝，他未能实现这一目标，逐渐意识到**青春**的消逝带来的不仅是机会的减少，还有对自我价值的重新审视。他最终在37岁出版了小说，但已不再年轻，无法获得“天才少年”的光环。文章探讨了**青春**与成就之间的关系，以及如何在失去青春后找到新的意义。
+
+---
+
 ## <a name="4"></a>4. “黄金手臂”詹姆斯·哈里森去世，他的献血拯救了240万婴儿 
 <small>🔗 [npr.org](https://www.npr.org/2025/03/03/nx-s1-5316163/james-harrison-blood-donor): James Harrison, whose blood donations saved >2M babies, has died</small>
 
 
-| 🔥🔥: 212 \| 💬: [66](https://news.ycombinator.com/item?id=43245129) \| 🗓️ 2025-03-03
+| 🔥🔥: 223 \| 💬: [71](https://news.ycombinator.com/item?id=43245129) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [gendignoux.com](https://gendignoux.com/blog/2025/03/03/rust-interning-2000x.html): The power of interning: making a time series database smaller</small>
 
 
-| 🔥🔥: 209 \| 💬: [51](https://news.ycombinator.com/item?id=43243914) \| 🗓️ 2025-03-03
+| 🔥🔥: 211 \| 💬: [53](https://news.ycombinator.com/item?id=43243914) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -84,10 +84,10 @@ tags:
 ---
 
 ## <a name="6"></a>6. 日本铅笔的黄金时代：1952-1967 
-<small>🔗 [notes.stlartsupply.com](https://notes.stlartsupply.com/the-golden-age-of-japanese-pencils-1952-1967/): The Golden Age of Japanese Pencils, 1952-1967</small>
+<small>🔗 [notes.stlartsupply.com](https://notes.stlartsupply.com/the-golden-age-of-japanese-pencils-1952-1967/): The Golden Age of Japanese Pencils, 1952-1967 (2022)</small>
 
 
-| 🔥🔥: 187 \| 💬: [48](https://news.ycombinator.com/item?id=43243716) \| 🗓️ 2025-03-03
+| 🔥🔥: 196 \| 💬: [53](https://news.ycombinator.com/item?id=43243716) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [interdb.jp](http://www.interdb.jp/pg/index.html): The Internals of PostgreSQL</small>
 
 
-| 🔥🔥: 182 \| 💬: [27](https://news.ycombinator.com/item?id=43241404) \| 🗓️ 2025-03-03
+| 🔥🔥: 182 \| 💬: [28](https://news.ycombinator.com/item?id=43241404) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [icode4.coffee](https://icode4.coffee/?p=1081): Hacking the Xbox 360 Hypervisor Part 2: The Bad Update Exploit</small>
 
 
-| 🔥🔥: 165 \| 💬: [61](https://news.ycombinator.com/item?id=43244739) \| 🗓️ 2025-03-03
+| 🔥🔥: 170 \| 💬: [64](https://news.ycombinator.com/item?id=43244739) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -123,7 +123,7 @@ tags:
 <small>🔗 [rivet.gg](https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood): SQLite-on-the-Server Is Misunderstood: Better at Hyper-Scale Than Micro-Scale</small>
 
 
-| 🔥🔥: 156 \| 💬: [76](https://news.ycombinator.com/item?id=43244307) \| 🗓️ 2025-03-03
+| 🔥🔥: 161 \| 💬: [90](https://news.ycombinator.com/item?id=43244307) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -135,7 +135,7 @@ SQLite通常被视为小规模应用的首选数据库，但其真正的优势�
 <small>🔗 [theophilecantelob.re](https://theophilecantelob.re/blog/2025/foudinge/): Show HN: Knowledge graph of restaurants and chefs, built using LLMs</small>
 
 
-| 🔥🔥: 138 \| 💬: [32](https://news.ycombinator.com/item?id=43242818) \| 🗓️ 2025-03-03
+| 🔥🔥: 143 \| 💬: [32](https://news.ycombinator.com/item?id=43242818) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -147,7 +147,7 @@ SQLite通常被视为小规模应用的首选数据库，但其真正的优势�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.20547): An Attempt to Catch Up with JIT Compilers</small>
 
 
-| 🔥🔥: 112 \| 💬: [96](https://news.ycombinator.com/item?id=43243109) \| 🗓️ 2025-03-03
+| 🔥🔥: 115 \| 💬: [101](https://news.ycombinator.com/item?id=43243109) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -171,7 +171,7 @@ SQLite通常被视为小规模应用的首选数据库，但其真正的优势�
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/03/former_sap_cto_payout/): Ex-SAP CTO walks away with €7.1M payout after scandal</small>
 
 
-| 🔥🔥: 104 \| 💬: [63](https://news.ycombinator.com/item?id=43244490) \| 🗓️ 2025-03-03
+| 🔥🔥: 105 \| 💬: [66](https://news.ycombinator.com/item?id=43244490) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -179,35 +179,11 @@ SAP前首席技术官**Jürgen Müller**因去年公司活动中的不当行为�
 
 ---
 
-## <a name="14"></a>14. Chrome 在服务器返回 403 时仍显示 206 
-<small>🔗 [aoli.al](https://aoli.al/blogs/chrome-bug/): Chrome Returns 206 when the Server Returns 403</small>
-
-
-| 🔥: 86 \| 💬: [27](https://news.ycombinator.com/item?id=43244680) \| 🗓️ 2025-03-03
-
-
-<br />
-作者在调试一个与 **S3 存储** 相关的 **WASM** 应用时，发现 Chrome 在处理部分缓存内容时存在异常行为。尽管服务器返回了 **403** 错误，Chrome 仍向应用返回 **206** 状态码，并显示不完整的数据。经过与 Chromium 团队的沟通，该行为被认定为“功能”而非“漏洞”，开发者需在应用层处理缺失的数据。
-
----
-
-## <a name="15"></a>15. Go-attention：纯Go实现的全注意力机制与Transformer 
-<small>🔗 [github.com](https://github.com/takara-ai/go-attention): Go-attention: A full attention mechanism and transformer in pure Go</small>
-
-
-| 🔥: 77 \| 💬: [39](https://news.ycombinator.com/item?id=43243549) \| 🗓️ 2025-03-03
-
-
-<br />
-Go-attention是由takara.ai前沿研究团队推出的首个纯Go语言实现的**注意力机制**和**Transformer层**，旨在提供高性能和易用性。该项目支持**点积注意力**、**多头注意力**和完整的Transformer层，适用于文本处理、时间序列和结构化数据等场景。其无外部依赖、高效矩阵运算和批处理能力，特别适合边缘计算、实时处理和云原生应用。
-
----
-
-## <a name="16"></a>16. 英国如何自毁经济 
+## <a name="14"></a>14. 英国如何自毁经济 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/03/uk-needs-abundance/681877/): How the U.K. broke its own economy</small>
 
 
-| 🔥: 75 \| 💬: [100](https://news.ycombinator.com/item?id=43245235) \| 🗓️ 2025-03-03
+| 🔥: 94 \| 💬: [150](https://news.ycombinator.com/item?id=43245235) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -215,11 +191,23 @@ Go-attention是由takara.ai前沿研究团队推出的首个纯Go语言实现的
 
 ---
 
-## <a name="17"></a>17. Agents.json：为LLM设计的OpenAPI规范 
+## <a name="15"></a>15. Chrome 在服务器返回 403 时仍显示 206 
+<small>🔗 [aoli.al](https://aoli.al/blogs/chrome-bug/): Chrome Returns 206 when the Server Returns 403</small>
+
+
+| 🔥: 91 \| 💬: [31](https://news.ycombinator.com/item?id=43244680) \| 🗓️ 2025-03-03
+
+
+<br />
+作者在调试一个与 **S3 存储** 相关的 **WASM** 应用时，发现 Chrome 在处理部分缓存内容时存在异常行为。尽管服务器返回了 **403** 错误，Chrome 仍向应用返回 **206** 状态码，并显示不完整的数据。经过与 Chromium 团队的沟通，该行为被认定为“功能”而非“漏洞”，开发者需在应用层处理缺失的数据。
+
+---
+
+## <a name="16"></a>16. Agents.json：为LLM设计的OpenAPI规范 
 <small>🔗 [github.com](https://github.com/wild-card-ai/agents-json): Show HN: Agents.json – OpenAPI Specification for LLMs</small>
 
 
-| 🔥: 73 \| 💬: [43](https://news.ycombinator.com/item?id=43243893) \| 🗓️ 2025-03-03
+| 🔥: 83 \| 💬: [45](https://news.ycombinator.com/item?id=43243893) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -227,35 +215,35 @@ Go-attention是由takara.ai前沿研究团队推出的首个纯Go语言实现的
 
 ---
 
-## <a name="18"></a>18. 天津机器人事件引发公众安全与机器人技术担忧 
-<small>🔗 [businesskorea.co.kr](https://www.businesskorea.co.kr/news/articleView.html?idxno=236533): Tianjin robot incident raises alarm over public safety and robotics</small>
+## <a name="17"></a>17. 比较Fuchsia组件与Linux容器 
+<small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/event/fosdem-2025-5381-comparing-fuchsia-components-and-linux-containers/): Comparing Fuchsia components and Linux containers [video]</small>
 
 
-| 🔥: 73 \| 💬: [50](https://news.ycombinator.com/item?id=43246438) \| 🗓️ 2025-03-03
-
-
-<br />
-在天津农历新年庆典期间，**Unitree Robotics**的H1型号人形机器人突然表现出攻击性行为，引发公众对机器人安全的广泛关注。该事件被归因于**程序设置或传感器错误**，突显了在公共场所部署机器人时需加强**安全标准和监管框架**的必要性。
-
----
-
-## <a name="19"></a>19. Xbox Kinect的奇异“来世” 
-<small>🔗 [theguardian.com](https://www.theguardian.com/games/2025/mar/03/ghost-hunting-pornography-and-interactive-art-the-weird-afterlife-of-xbox-kinect): The weird afterlife of Xbox Kinect</small>
-
-
-| 🔥: 72 \| 💬: [56](https://news.ycombinator.com/item?id=43241880) \| 🗓️ 2025-03-03
+| 🔥: 83 \| 💬: [41](https://news.ycombinator.com/item?id=43246703) \| 🗓️ 2025-03-03
 
 
 <br />
-微软的**Xbox Kinect**于2010年发布，最初作为游戏设备风靡一时，但因缺乏游戏支持和性能问题迅速失宠。尽管在游戏领域失败，Kinect却在**艺术、机器人技术**和**超自然研究**等领域找到了新生命。艺术家利用其深度感应技术创作互动装置，机器人专家将其用于视觉和导航系统，甚至**幽灵猎人**将其改造成“SLS相机”用于探测灵体。尽管微软已停产，Kinect仍在多个领域继续发挥作用，展现了其技术的持久影响力。
+Fuchsia是谷歌开发的新操作系统，其核心设计之一是**组件框架**。Fuchsia组件与Linux容器（如Docker）有许多相似之处，例如通过网络获取内容、构建隔离的文件系统并启动命名空间进程。然而，两者的**使用场景和需求**不同，导致它们在功能和优势上有所差异。本次演讲将重点探讨这些相似技术为何及在何处分道扬镳。
 
 ---
 
-## <a name="20"></a>20. 一个标志，三家公司 
+## <a name="18"></a>18. Go-attention：纯Go实现的全注意力机制与Transformer 
+<small>🔗 [github.com](https://github.com/takara-ai/go-attention): Go-attention: A full attention mechanism and transformer in pure Go</small>
+
+
+| 🔥: 80 \| 💬: [41](https://news.ycombinator.com/item?id=43243549) \| 🗓️ 2025-03-03
+
+
+<br />
+Go-attention是由takara.ai前沿研究团队推出的首个纯Go语言实现的**注意力机制**和**Transformer层**，旨在提供高性能和易用性。该项目支持**点积注意力**、**多头注意力**和完整的Transformer层，适用于文本处理、时间序列和结构化数据等场景。其无外部依赖、高效矩阵运算和批处理能力，特别适合边缘计算、实时处理和云原生应用。
+
+---
+
+## <a name="19"></a>19. 一个标志，三家公司 
 <small>🔗 [estilofilos.blogspot.com](https://estilofilos.blogspot.com/2016/03/one-logo-three-companies-i.html): One Logo, Three Companies</small>
 
 
-| 🔥: 72 \| 💬: [24](https://news.ycombinator.com/item?id=43245315) \| 🗓️ 2025-03-03
+| 🔥: 77 \| 💬: [31](https://news.ycombinator.com/item?id=43245315) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -263,11 +251,35 @@ Go-attention是由takara.ai前沿研究团队推出的首个纯Go语言实现的
 
 ---
 
-## <a name="21"></a>21. 美国政府AI应用：DOGE的“AI优先”策略是否靠谱？ 
+## <a name="20"></a>20. 天津机器人事件引发公众安全与机器人技术担忧 
+<small>🔗 [businesskorea.co.kr](https://www.businesskorea.co.kr/news/articleView.html?idxno=236533): Tianjin robot incident raises alarm over public safety and robotics</small>
+
+
+| 🔥: 73 \| 💬: [52](https://news.ycombinator.com/item?id=43246438) \| 🗓️ 2025-03-03
+
+
+<br />
+在天津农历新年庆典期间，**Unitree Robotics**的H1型号人形机器人突然表现出攻击性行为，引发公众对机器人安全的广泛关注。该事件被归因于**程序设置或传感器错误**，突显了在公共场所部署机器人时需加强**安全标准和监管框架**的必要性。
+
+---
+
+## <a name="21"></a>21. Xbox Kinect的奇异“来世” 
+<small>🔗 [theguardian.com](https://www.theguardian.com/games/2025/mar/03/ghost-hunting-pornography-and-interactive-art-the-weird-afterlife-of-xbox-kinect): The weird afterlife of Xbox Kinect</small>
+
+
+| 🔥: 72 \| 💬: [58](https://news.ycombinator.com/item?id=43241880) \| 🗓️ 2025-03-03
+
+
+<br />
+微软的**Xbox Kinect**于2010年发布，最初作为游戏设备风靡一时，但因缺乏游戏支持和性能问题迅速失宠。尽管在游戏领域失败，Kinect却在**艺术、机器人技术**和**超自然研究**等领域找到了新生命。艺术家利用其深度感应技术创作互动装置，机器人专家将其用于视觉和导航系统，甚至**幽灵猎人**将其改造成“SLS相机”用于探测灵体。尽管微软已停产，Kinect仍在多个领域继续发挥作用，展现了其技术的持久影响力。
+
+---
+
+## <a name="22"></a>22. 美国政府AI应用：DOGE的“AI优先”策略是否靠谱？ 
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/03/03/doge-ai-government-automation/): DOGE's AI use in government doesn't add up</small>
 
 
-| 🔥: 65 \| 💬: [14](https://news.ycombinator.com/item?id=43244982) \| 🗓️ 2025-03-03
+| 🔥: 67 \| 💬: [14](https://news.ycombinator.com/item?id=43244982) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -275,7 +287,7 @@ Go-attention是由takara.ai前沿研究团队推出的首个纯Go语言实现的
 
 ---
 
-## <a name="22"></a>22. 使用 Phlex 替代 ERB 构建 Rails 邮件模板 
+## <a name="23"></a>23. 使用 Phlex 替代 ERB 构建 Rails 邮件模板 
 <small>🔗 [camillovisini.com](https://camillovisini.com/coding/phlex-for-rails-emails-action-mailer-without-erb): Phlex for Rails Emails: Action Mailer Without ERB</small>
 
 
