@@ -10,13 +10,13 @@ tags:
 
 1. Bayleaf：打造低调的无线分体键盘；
 1. 联邦员工被迫返回办公室，却面临无桌、无网、无灯的窘境；
+1. 为什么fastDOOM如此快；
 1. ip4.me/ip6.me 所有者 Kevin Loch 去世；
 1. 意大利计划重启核电以应对能源挑战；
-1. 为什么fastDOOM如此快；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共12条，具体内容您往下读...
+总共23条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [graz.io](https://www.graz.io/articles/bayleaf-wireless-keyboard): Show HN: Bayleaf – Building a low-profile wireless split keyboard</small>
 
 
-| 🔥🔥: 436 \| 💬: [134](https://news.ycombinator.com/item?id=43255529) \| 🗓️ 2025-03-04
+| 🔥🔥: 460 \| 💬: [137](https://news.ycombinator.com/item?id=43255529) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -39,7 +39,7 @@ Bayleaf 是一个专注于**低剖面设计**的**无线分体键盘**项目。�
 <small>🔗 [cnn.com](https://www.cnn.com/2025/03/04/politics/federal-employees-return-to-office-problems/index.html): Federal workers ordered to return to offices without desks, Wi-Fi and lights</small>
 
 
-| 🔥🔥: 270 \| 💬: [309](https://news.ycombinator.com/item?id=43253562) \| 🗓️ 2025-03-04
+| 🔥🔥: 271 \| 💬: [314](https://news.ycombinator.com/item?id=43253562) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -47,11 +47,23 @@ Bayleaf 是一个专注于**低剖面设计**的**无线分体键盘**项目。�
 
 ---
 
-## <a name="3"></a>3. ip4.me/ip6.me 所有者 Kevin Loch 去世 
+## <a name="3"></a>3. 为什么fastDOOM如此快 
+<small>🔗 [fabiensanglard.net](https://fabiensanglard.net/fastdoom/index.html): Why fastDOOM is fast</small>
+
+
+| 🔥🔥: 268 \| 💬: [57](https://news.ycombinator.com/item?id=43258709) \| 🗓️ 2025-03-04
+
+
+<br />
+fastDOOM通过优化代码和删除冗余功能，显著提升了经典游戏《DOOM》的性能。作者通过分析fastDOOM的Git历史，发现**代码精简**、**内联函数**和**渲染优化**是性能提升的关键。此外，fastDOOM还支持多种视频模式，如**Mode 13h**和**Mode Y**，以适应不同硬件配置。最终，fastDOOM在486 CPU上实现了高达48%的帧率提升。
+
+---
+
+## <a name="4"></a>4. ip4.me/ip6.me 所有者 Kevin Loch 去世 
 <small>🔗 [ip4only.me](https://ip4only.me/): The owner of ip4.me/ip6.me, Kevin Loch, has died</small>
 
 
-| 🔥🔥: 261 \| 💬: [75](https://news.ycombinator.com/item?id=43256298) \| 🗓️ 2025-03-04
+| 🔥🔥: 262 \| 💬: [77](https://news.ycombinator.com/item?id=43256298) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -59,7 +71,7 @@ Bayleaf 是一个专注于**低剖面设计**的**无线分体键盘**项目。�
 
 ---
 
-## <a name="4"></a>4. 意大利计划重启核电以应对能源挑战 
+## <a name="5"></a>5. 意大利计划重启核电以应对能源挑战 
 <small>🔗 [world-nuclear-news.org](https://www.world-nuclear-news.org/articles/cabinet-moves-to-reverse-italys-anti-nuclear-stance): Italy moves to reverse anti-nuclear stance</small>
 
 
@@ -71,23 +83,11 @@ Bayleaf 是一个专注于**低剖面设计**的**无线分体键盘**项目。�
 
 ---
 
-## <a name="5"></a>5. 为什么fastDOOM如此快 
-<small>🔗 [fabiensanglard.net](https://fabiensanglard.net/fastdoom/index.html): Why fastDOOM is fast</small>
-
-
-| 🔥🔥: 211 \| 💬: [47](https://news.ycombinator.com/item?id=43258709) \| 🗓️ 2025-03-04
-
-
-<br />
-fastDOOM通过优化代码和删除冗余功能，显著提升了经典游戏《DOOM》的性能。作者通过分析fastDOOM的Git历史，发现**代码精简**、**内联函数**和**渲染优化**是性能提升的关键。此外，fastDOOM还支持多种视频模式，如**Mode 13h**和**Mode Y**，以适应不同硬件配置。最终，fastDOOM在486 CPU上实现了高达48%的帧率提升。
-
----
-
 ## <a name="6"></a>6. Satellogic开放卫星数据流 
 <small>🔗 [tech.marksblogg.com](https://tech.marksblogg.com/satellogic-open-data-feed.html): Satellogic's Open Satellite Feed</small>
 
 
-| 🔥🔥: 146 \| 💬: [10](https://news.ycombinator.com/item?id=43256349) \| 🗓️ 2025-03-04
+| 🔥🔥: 163 \| 💬: [10](https://news.ycombinator.com/item?id=43256349) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -96,10 +96,10 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 ---
 
 ## <a name="7"></a>7. 将自然语言转化为一阶逻辑以检测逻辑谬误 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2405.02318): Translating Natural Language to First-Order Logic for Logical Fallacy Detection</small>
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2405.02318): Translating natural language to first-order logic for logical fallacy detection</small>
 
 
-| 🔥🔥: 131 \| 💬: [70](https://news.ycombinator.com/item?id=43257719) \| 🗓️ 2025-03-04
+| 🔥🔥: 144 \| 💬: [76](https://news.ycombinator.com/item?id=43257719) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -107,23 +107,11 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="8"></a>8. 学习如何破解AES 
-<small>🔗 [davidwong.fr](https://davidwong.fr/blockbreakers/): Learn How to Break AES</small>
-
-
-| 🔥🔥: 122 \| 💬: [25](https://news.ycombinator.com/item?id=43257583) \| 🗓️ 2025-03-04
-
-
-<br />
-本页面旨在教授**块密码分析**，重点介绍**AES加密算法**的破解方法。课程分为多个部分，从实现AES开始，逐步引导你掌握攻击技巧。页面由David Wong创建，还推荐了类似的学习资源，如Cryptopals和Microcorruption。适合对密码学感兴趣的初学者。
-
----
-
-## <a name="9"></a>9. 无需预训练的ARC-AGI解决方案 
+## <a name="8"></a>8. 无需预训练的ARC-AGI解决方案 
 <small>🔗 [iliao2345.github.io](https://iliao2345.github.io/blog_posts/arc_agi_without_pretraining/arc_agi_without_pretraining.html): ARC-AGI without pretraining</small>
 
 
-| 🔥🔥: 102 \| 💬: [28](https://news.ycombinator.com/item?id=43259182) \| 🗓️ 2025-03-04
+| 🔥🔥: 131 \| 💬: [33](https://news.ycombinator.com/item?id=43259182) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -131,11 +119,23 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
+## <a name="9"></a>9. 学习如何破解AES 
+<small>🔗 [davidwong.fr](https://davidwong.fr/blockbreakers/): Learn How to Break AES</small>
+
+
+| 🔥🔥: 129 \| 💬: [31](https://news.ycombinator.com/item?id=43257583) \| 🗓️ 2025-03-04
+
+
+<br />
+本页面旨在教授**块密码分析**，重点介绍**AES加密算法**的破解方法。课程分为多个部分，从实现AES开始，逐步引导你掌握攻击技巧。页面由David Wong创建，还推荐了类似的学习资源，如Cryptopals和Microcorruption。适合对密码学感兴趣的初学者。
+
+---
+
 ## <a name="10"></a>10. DIY“无限对比度”电视——100%使用回收零件 [视频] 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=qXrn4MqY1Wo): DIY "infinity contrast" TV – with 100% recycled parts [video]</small>
 
 
-| 🔥: 100 \| 💬: [48](https://news.ycombinator.com/item?id=43255446) \| 🗓️ 2025-03-04
+| 🔥🔥: 101 \| 💬: [51](https://news.ycombinator.com/item?id=43255446) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -143,11 +143,23 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="11"></a>11. 苹果推出搭载M3芯片的全新iPad Air及Magic Keyboard 
+## <a name="11"></a>11. 特斯拉在澳大利亚销量再次暴跌，Model 3下降超81% 
+<small>🔗 [thedriven.io](https://thedriven.io/2025/03/04/tesla-electric-car-sales-plunge-again-in-australia-model-3-down-more-than-81-per-cent/): Tesla electric car sales plunge again in Australia – Model 3 down more than 81 p</small>
+
+
+| 🔥: 96 \| 💬: [87](https://news.ycombinator.com/item?id=43254637) \| 🗓️ 2025-03-04
+
+
+<br />
+根据最新数据，特斯拉在澳大利亚的电动汽车销量在2月份继续大幅下滑，**Model Y和Model 3的总销量同比下降71.9%**。特斯拉2月仅售出1592辆，远低于去年同期的5665辆。分析认为，销量下滑不仅与库存和消费者等待新款Model Y有关，还受到**CEO马斯克支持极右翼政治立场**的影响。此外，来自中国品牌如**比亚迪**的竞争也对特斯拉构成压力。
+
+---
+
+## <a name="12"></a>12. 苹果推出搭载M3芯片的全新iPad Air及Magic Keyboard 
 <small>🔗 [apple.com](https://www.apple.com/newsroom/2025/03/apple-introduces-ipad-air-with-powerful-m3-chip-and-new-magic-keyboard/): Apple introduces iPad Air with powerful M3 chip and new Magic Keyboard</small>
 
 
-| 🔥: 96 \| 💬: [217](https://news.ycombinator.com/item?id=43254714) \| 🗓️ 2025-03-04
+| 🔥: 96 \| 💬: [220](https://news.ycombinator.com/item?id=43254714) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -155,14 +167,134 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="12"></a>12. 特斯拉在澳大利亚销量再次暴跌，Model 3下降超81% 
-<small>🔗 [thedriven.io](https://thedriven.io/2025/03/04/tesla-electric-car-sales-plunge-again-in-australia-model-3-down-more-than-81-per-cent/): Tesla electric car sales plunge again in Australia – Model 3 down more than 81 p</small>
+## <a name="13"></a>13. 谷歌如何在用户未打开应用前追踪Android设备用户 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/03/04/google_android/): How Google tracks Android device users before they've even opened an app</small>
 
 
-| 🔥: 94 \| 💬: [84](https://news.ycombinator.com/item?id=43254637) \| 🗓️ 2025-03-04
+| 🔥: 89 \| 💬: [53](https://news.ycombinator.com/item?id=43253167) \| 🗓️ 2025-03-04
 
 
 <br />
-根据最新数据，特斯拉在澳大利亚的电动汽车销量在2月份继续大幅下滑，**Model Y和Model 3的总销量同比下降71.9%**。特斯拉2月仅售出1592辆，远低于去年同期的5665辆。分析认为，销量下滑不仅与库存和消费者等待新款Model Y有关，还受到**CEO马斯克支持极右翼政治立场**的影响。此外，来自中国品牌如**比亚迪**的竞争也对特斯拉构成压力。
+都柏林圣三一学院的教授Doug Leith研究发现，**Android设备**在用户未打开任何应用前，已通过预装应用（如Google Play服务）生成**广告Cookie**（如DSID）和设备标识符（如Google Android ID），并将数据发送给谷歌。这些追踪机制未经用户同意，且无法选择退出，可能违反数据保护法。谷歌回应称其遵守隐私法规，但未对研究中的法律分析发表评论。
+
+---
+
+## <a name="14"></a>14. 管理者是否应该继续写代码？ 
+<small>🔗 [theengineeringmanager.substack.com](https://theengineeringmanager.substack.com/p/should-managers-still-code): Should managers still code?</small>
+
+
+| 🔥: 85 \| 💬: [127](https://news.ycombinator.com/item?id=43256113) \| 🗓️ 2025-03-04
+
+
+<br />
+文章探讨了工程管理者是否应在日常工作中编写代码的问题。作者认为，**管理者应深入代码**，但不一定需要亲自编写代码。管理者应理解代码库、审查设计文档、调试生产问题，并参与代码审查，但**编写代码的主要责任应交给团队**。在某些情况下，管理者可以安排专门时间编写代码或与团队成员结对编程，但这并非必须。关键在于**管理者应专注于团队管理和战略决策**，而非成为主要代码实现者。
+
+---
+
+## <a name="15"></a>15. 微软推出医疗AI助手Dragon Copilot 
+<small>🔗 [theverge.com](https://www.theverge.com/news/622528/microsoft-dragon-copilot-ai-healthcare-assistant): Microsoft's new Dragon Copilot is an AI assistant for healthcare</small>
+
+
+| 🔥: 84 \| 💬: [85](https://news.ycombinator.com/item?id=43254012) \| 🗓️ 2025-03-04
+
+
+<br />
+微软发布了**Dragon Copilot**，这是一款专为医疗场景设计的AI助手，结合了语音听写和环境监听技术。它能够**自动生成临床访问笔记**，支持多语言环境下的自然语言听写，并提供**可信医疗信息搜索**。微软表示，该工具旨在减轻医护人员的行政负担，提升患者体验。
+
+---
+
+## <a name="16"></a>16. Claude-code 分叉版：支持本地及其他 LLM 提供者 
+<small>🔗 [github.com](https://github.com/dnakov/anon-kode): Show HN: Fork of Claude-code working with local and other LLM providers</small>
+
+
+| 🔥: 80 \| 💬: [18](https://news.ycombinator.com/item?id=43254351) \| 🗓️ 2025-03-04
+
+
+<br />
+这是一个基于终端的 AI 编程工具，支持任何兼容 **OpenAI 风格 API** 的模型。它可以帮助修复代码、解释函数功能、运行测试等。使用前需通过 `/config` 配置，之后即可直接使用。**所有遥测数据已移除**，使用风险自负。
+
+---
+
+## <a name="17"></a>17. Mozilla 修改 Firefox 使用条款以回应用户质疑 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/03/mozilla-rewrites-firefoxs-terms-of-use-after-user-backlash/): Mozilla rewrites Firefox's Terms of Use after user backlash</small>
+
+
+| 🔥: 79 \| 💬: [115](https://news.ycombinator.com/item?id=43251762) \| 🗓️ 2025-03-04
+
+
+<br />
+Mozilla 因新**使用条款**引发用户不满后，重新修订了政策，澄清其对用户数据的处理方式。新条款明确表示，Mozilla 仅需用户数据以**运行 Firefox**，并不拥有数据所有权。此外，公司删除了引起混淆的**可接受使用政策**引用，并更新了隐私常见问题解答，以更好地解释法律术语。Mozilla 强调，共享的数据已去除个人身份信息，且用户可自行调整数据共享设置。
+
+---
+
+## <a name="18"></a>18. 德国小镇采用新技术测试地热能发电 
+<small>🔗 [apnews.com](https://apnews.com/article/energy-transition-gas-geothermal-geretsried-germany-heat-electricity-89a356c70851938963314b3882377247): Small German town starts testing geothermal power utilizing new techniques</small>
+
+
+| 🔥: 78 \| 💬: [12](https://news.ycombinator.com/item?id=43256022) \| 🗓️ 2025-03-04
+
+
+<br />
+德国小镇**Geretsried**正在成为新一代**地热能技术**的试验场。15年前，传统地热能技术因无法找到足够的热水而失败，如今，公司如**Eavor**利用石油和天然气行业的技术，钻探更深以从干燥的热岩中提取热量。国际能源署认为，这种技术突破有望使地热能在全球能源格局中发挥更大作用。Geretsried项目将首先发电，随后为区域供热系统提供热能，目标是减少对化石燃料的依赖，应对气候变化。
+
+---
+
+## <a name="19"></a>19. 纹身墨水暴露与淋巴瘤和皮肤癌相关 
+<small>🔗 [bmcpublichealth.biomedcentral.com](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-025-21413-3): Tattoo ink exposure is associated with lymphoma and skin cancers</small>
+
+
+| 🔥: 75 \| 💬: [45](https://news.ycombinator.com/item?id=43255108) \| 🗓️ 2025-03-04
+
+
+<br />
+一项丹麦双胞胎研究发现，**纹身墨水暴露**与**淋巴瘤**和**皮肤癌**风险增加有关。研究分析了2367对双胞胎的数据，发现纹身面积较大者患皮肤癌和淋巴瘤的风险分别增加了2.37倍和2.73倍。研究推测，纹身墨水可能引发慢性炎症，导致细胞异常增殖，进而增加癌症风险。
+
+---
+
+## <a name="20"></a>20. Appstat – Windows 进程监控工具 
+<small>🔗 [pragmar.com](https://pragmar.com/appstat/): Show HN: Appstat – Process Monitor for Windows</small>
+
+
+| 🔥: 65 \| 💬: [14](https://news.ycombinator.com/item?id=43255855) \| 🗓️ 2025-03-04
+
+
+<br />
+Appstat 是一款专为开发者设计的 **实时进程监控工具**，可监控 CPU、内存、磁盘和线程等资源使用情况。它提供简洁的图形界面，帮助快速识别性能瓶颈、内存泄漏等问题，且不影响工作流程。支持 **暗黑/亮色模式**、置顶显示和日志导出功能，完全免费且无需注册。相比 Windows 自带的任务管理器和进程监视器，Appstat 更简单易用，适合长期监控单个应用程序。
+
+---
+
+## <a name="21"></a>21. 2025年2月：postmarketOS 的新进展与更名计划 
+<small>🔗 [postmarketos.org](https://postmarketos.org/blog/2025/03/04/pmOS-update-2025-02/): PostmarketOS in 2025-02: MSM89x7 Audio, Modern Xiaomis in Community, New Name</small>
+
+
+| 🔥: 63 \| 💬: [17](https://news.ycombinator.com/item?id=43253674) \| 🗓️ 2025-03-04
+
+
+<br />
+2025年2月，postmarketOS 社区在多个活动中取得了显著进展，包括在Aachen和东京的研讨会。**postmarketOS** 计划更名，原因是现有名称不易发音且不符合现代需求。社区将参与新名称的征集，同时保持现有品牌标识。此外，**MSM89x7音频支持** 和 **现代小米设备** 的社区支持也得到了提升。
+
+---
+
+## <a name="22"></a>22. 螃蟹被捕食前的最后一瞥：乌贼的伪装艺术 
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/03/03/science/cuttlefish-camouflage-huting-crabs.html): What a crab sees before it gets eaten by a cuttlefish</small>
+
+
+| 🔥: 62 \| 💬: [20](https://news.ycombinator.com/item?id=43254995) \| 🗓️ 2025-03-04
+
+
+<br />
+2023年5月，英国布里斯托大学的海洋视觉生态学家Matteo Santon在印度尼西亚浅海礁石拍摄乌贼捕食过程，试图从猎物视角观察乌贼的捕猎策略。研究发现，乌贼在捕食时展示了四种复杂的**伪装模式**，如模仿漂浮的树叶或珊瑚，可能通过“欺骗”螃蟹的视觉系统来隐藏自身或伪装成无害的生物。乌贼的皮肤含有色素细胞和肌肉泵，能迅速改变颜色和纹理，使其成为**伪装大师**。这项研究揭示了乌贼在野外捕食时的复杂行为，此前多在实验室中观察到。
+
+---
+
+## <a name="23"></a>23. DiffRhythm：基于潜在扩散的快速端到端全曲生成 
+<small>🔗 [aslp-lab.github.io](https://aslp-lab.github.io/DiffRhythm.github.io/): DiffRhythm: Fast End-to-End Full-Length Song Generation with Latent Diffusion</small>
+
+
+| 🔥: 62 \| 💬: [94](https://news.ycombinator.com/item?id=43255467) \| 🗓️ 2025-03-04
+
+
+<br />
+DiffRhythm 是一种基于**潜在扩散模型**的歌曲生成系统，能够在短短十秒内生成包含**人声和伴奏**的全长歌曲（最长4分45秒）。它通过简化的模型结构和非自回归设计，实现了**快速推理**，同时保持了高音乐性和清晰度。用户只需提供歌词和风格提示，无需复杂的数据准备，确保了系统的可扩展性。
 
 ---
