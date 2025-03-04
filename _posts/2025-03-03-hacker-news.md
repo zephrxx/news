@@ -10,8 +10,8 @@ tags:
 
 1. 苹果的软件质量危机：高端硬件遭遇低质软件；
 1. 可维修的平板包装烤面包机；
-1. 青春逝去后的失落与反思；
 1. 公共卫生数据消失？RestoredCDC.org正在恢复它们；
+1. 青春逝去后的失落与反思；
 1. “黄金手臂”詹姆斯·哈里森去世，他的献血拯救了240万婴儿；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [eliseomartelli.it](https://www.eliseomartelli.it/blog/2025-03-02-apple-quality): Apple's Software Quality Crisis</small>
 
 
-| 🔥🔥: 584 \| 💬: [666](https://news.ycombinator.com/item?id=43243075) \| 🗓️ 2025-03-03
+| 🔥🔥: 630 \| 💬: [700](https://news.ycombinator.com/item?id=43243075) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [kaseyhou.com](https://www.kaseyhou.com/#/repairable-flatpack-toaster/): Repairable Flatpack Toaster</small>
 
 
-| 🔥🔥: 435 \| 💬: [143](https://news.ycombinator.com/item?id=43246892) \| 🗓️ 2025-03-03
+| 🔥🔥: 463 \| 💬: [149](https://news.ycombinator.com/item?id=43246892) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -47,7 +47,19 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 青春逝去后的失落与反思 
+## <a name="3"></a>3. 公共卫生数据消失？RestoredCDC.org正在恢复它们 
+<small>🔗 [RestoredCDC.org](https://www.RestoredCDC.org): Public health data disappeared. RestoredCDC.org is bringing it back</small>
+
+
+| 🔥🔥: 298 \| 💬: [90](https://news.ycombinator.com/item?id=43248610) \| 🗓️ 2025-03-03
+
+
+<br />
+RestoredCDC.org致力于恢复消失的公共卫生数据，涵盖**呼吸道疾病**、**食品安全**、**肥胖风险因素**等主题。CDC近期发布了关于H5N1禽流感、沙门氏菌和李斯特菌等疫情的最新警告，并通过科学期刊和简化科学语言，推动**健康公平**与科学进步。
+
+---
+
+## <a name="4"></a>4. 青春逝去后的失落与反思 
 <small>🔗 [tolstoyan.substack.com](https://tolstoyan.substack.com/p/youth): Youth and what happens when it's gone</small>
 
 
@@ -59,23 +71,11 @@ tags:
 
 ---
 
-## <a name="4"></a>4. 公共卫生数据消失？RestoredCDC.org正在恢复它们 
-<small>🔗 [RestoredCDC.org](https://www.RestoredCDC.org): Public health data disappeared. RestoredCDC.org is bringing it back</small>
-
-
-| 🔥🔥: 285 \| 💬: [82](https://news.ycombinator.com/item?id=43248610) \| 🗓️ 2025-03-03
-
-
-<br />
-RestoredCDC.org致力于恢复消失的公共卫生数据，涵盖**呼吸道疾病**、**食品安全**、**肥胖风险因素**等主题。CDC近期发布了关于H5N1禽流感、沙门氏菌和李斯特菌等疫情的最新警告，并通过科学期刊和简化科学语言，推动**健康公平**与科学进步。
-
----
-
 ## <a name="5"></a>5. “黄金手臂”詹姆斯·哈里森去世，他的献血拯救了240万婴儿 
 <small>🔗 [npr.org](https://www.npr.org/2025/03/03/nx-s1-5316163/james-harrison-blood-donor): James Harrison, whose blood donations saved >2M babies, has died</small>
 
 
-| 🔥🔥: 248 \| 💬: [79](https://news.ycombinator.com/item?id=43245129) \| 🗓️ 2025-03-03
+| 🔥🔥: 253 \| 💬: [80](https://news.ycombinator.com/item?id=43245129) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -84,10 +84,10 @@ RestoredCDC.org致力于恢复消失的公共卫生数据，涵盖**呼吸道疾
 ---
 
 ## <a name="6"></a>6. 日本铅笔的黄金时代：1952-1967 
-<small>🔗 [notes.stlartsupply.com](https://notes.stlartsupply.com/the-golden-age-of-japanese-pencils-1952-1967/): The Golden Age of Japanese Pencils, 1952-1967 (2022)</small>
+<small>🔗 [notes.stlartsupply.com](https://notes.stlartsupply.com/the-golden-age-of-japanese-pencils-1952-1967/): The Golden Age of Japanese Pencils (2022)</small>
 
 
-| 🔥🔥: 239 \| 💬: [67](https://news.ycombinator.com/item?id=43243716) \| 🗓️ 2025-03-03
+| 🔥🔥: 245 \| 💬: [67](https://news.ycombinator.com/item?id=43243716) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -99,7 +99,7 @@ RestoredCDC.org致力于恢复消失的公共卫生数据，涵盖**呼吸道疾
 <small>🔗 [gendignoux.com](https://gendignoux.com/blog/2025/03/03/rust-interning-2000x.html): The power of interning: making a time series database smaller</small>
 
 
-| 🔥🔥: 223 \| 💬: [55](https://news.ycombinator.com/item?id=43243914) \| 🗓️ 2025-03-03
+| 🔥🔥: 228 \| 💬: [56](https://news.ycombinator.com/item?id=43243914) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -111,7 +111,7 @@ RestoredCDC.org致力于恢复消失的公共卫生数据，涵盖**呼吸道疾
 <small>🔗 [rivet.gg](https://rivet.gg/blog/2025-02-16-sqlite-on-the-server-is-misunderstood): SQLite-on-the-server is misunderstood: Better at hyper-scale than micro-scale</small>
 
 
-| 🔥🔥: 208 \| 💬: [111](https://news.ycombinator.com/item?id=43244307) \| 🗓️ 2025-03-03
+| 🔥🔥: 215 \| 💬: [113](https://news.ycombinator.com/item?id=43244307) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -123,7 +123,7 @@ SQLite通常被视为小规模应用的首选数据库，但其真正的优势�
 <small>🔗 [icode4.coffee](https://icode4.coffee/?p=1081): Hacking the Xbox 360 Hypervisor Part 2: The Bad Update Exploit</small>
 
 
-| 🔥🔥: 202 \| 💬: [74](https://news.ycombinator.com/item?id=43244739) \| 🗓️ 2025-03-03
+| 🔥🔥: 207 \| 💬: [76](https://news.ycombinator.com/item?id=43244739) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -135,7 +135,7 @@ SQLite通常被视为小规模应用的首选数据库，但其真正的优势�
 <small>🔗 [interdb.jp](http://www.interdb.jp/pg/index.html): The Internals of PostgreSQL</small>
 
 
-| 🔥🔥: 185 \| 💬: [29](https://news.ycombinator.com/item?id=43241404) \| 🗓️ 2025-03-03
+| 🔥🔥: 186 \| 💬: [29](https://news.ycombinator.com/item?id=43241404) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -143,23 +143,11 @@ SQLite通常被视为小规模应用的首选数据库，但其真正的优势�
 
 ---
 
-## <a name="11"></a>11. 利用LLMs构建的餐厅与厨师知识图谱 
-<small>🔗 [theophilecantelob.re](https://theophilecantelob.re/blog/2025/foudinge/): Show HN: Knowledge graph of restaurants and chefs, built using LLMs</small>
-
-
-| 🔥🔥: 162 \| 💬: [32](https://news.ycombinator.com/item?id=43242818) \| 🗓️ 2025-03-03
-
-
-<br />
-本文介绍了一个基于**大型语言模型（LLMs）**的法国餐厅与厨师知识图谱项目。通过分析LeFooding.com的餐厅评论，提取了**5000多个节点**和**关系边**，构建了一个包含餐厅和员工的网络。使用**OpenAI的gpt4o-mini模型**进行结构化信息提取，并通过Gephi-lite进行可视化。该项目展示了如何利用LLMs从文本数据中提取信息，并构建复杂的知识图谱。
-
----
-
-## <a name="12"></a>12. 英国如何自毁经济 
+## <a name="11"></a>11. 英国如何自毁经济 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/03/uk-needs-abundance/681877/): How the U.K. broke its own economy</small>
 
 
-| 🔥🔥: 159 \| 💬: [286](https://news.ycombinator.com/item?id=43245235) \| 🗓️ 2025-03-03
+| 🔥🔥: 168 \| 💬: [306](https://news.ycombinator.com/item?id=43245235) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -167,11 +155,23 @@ SQLite通常被视为小规模应用的首选数据库，但其真正的优势�
 
 ---
 
+## <a name="12"></a>12. 利用LLMs构建的餐厅与厨师知识图谱 
+<small>🔗 [theophilecantelob.re](https://theophilecantelob.re/blog/2025/foudinge/): Show HN: Knowledge graph of restaurants and chefs, built using LLMs</small>
+
+
+| 🔥🔥: 164 \| 💬: [32](https://news.ycombinator.com/item?id=43242818) \| 🗓️ 2025-03-03
+
+
+<br />
+本文介绍了一个基于**大型语言模型（LLMs）**的法国餐厅与厨师知识图谱项目。通过分析LeFooding.com的餐厅评论，提取了**5000多个节点**和**关系边**，构建了一个包含餐厅和员工的网络。使用**OpenAI的gpt4o-mini模型**进行结构化信息提取，并通过Gephi-lite进行可视化。该项目展示了如何利用LLMs从文本数据中提取信息，并构建复杂的知识图谱。
+
+---
+
 ## <a name="13"></a>13. 比较Fuchsia组件与Linux容器 
 <small>🔗 [fosdem.org](https://fosdem.org/2025/schedule/event/fosdem-2025-5381-comparing-fuchsia-components-and-linux-containers/): Comparing Fuchsia components and Linux containers [video]</small>
 
 
-| 🔥🔥: 137 \| 💬: [91](https://news.ycombinator.com/item?id=43246703) \| 🗓️ 2025-03-03
+| 🔥🔥: 145 \| 💬: [97](https://news.ycombinator.com/item?id=43246703) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -183,7 +183,7 @@ Fuchsia是谷歌开发的新操作系统，其核心设计之一是**组件框�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.20547): An Attempt to Catch Up with JIT Compilers</small>
 
 
-| 🔥🔥: 132 \| 💬: [111](https://news.ycombinator.com/item?id=43243109) \| 🗓️ 2025-03-03
+| 🔥🔥: 133 \| 💬: [112](https://news.ycombinator.com/item?id=43243109) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -195,7 +195,7 @@ Fuchsia是谷歌开发的新操作系统，其核心设计之一是**组件框�
 <small>🔗 [github.com](https://github.com/wild-card-ai/agents-json): Show HN: Agents.json – OpenAPI Specification for LLMs</small>
 
 
-| 🔥🔥: 112 \| 💬: [52](https://news.ycombinator.com/item?id=43243893) \| 🗓️ 2025-03-03
+| 🔥🔥: 118 \| 💬: [53](https://news.ycombinator.com/item?id=43243893) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -207,7 +207,7 @@ Fuchsia是谷歌开发的新操作系统，其核心设计之一是**组件框�
 <small>🔗 [wired.com](https://www.wired.com/story/texas-amazon-drones-stop-flying/): Amazon’s delivery drones are grounded in College Station, Texas</small>
 
 
-| 🔥🔥: 111 \| 💬: [286](https://news.ycombinator.com/item?id=43241212) \| 🗓️ 2025-03-03
+| 🔥🔥: 111 \| 💬: [287](https://news.ycombinator.com/item?id=43241212) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -231,7 +231,7 @@ Fuchsia是谷歌开发的新操作系统，其核心设计之一是**组件框�
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/03/former_sap_cto_payout/): Ex-SAP CTO walks away with €7.1M payout after scandal</small>
 
 
-| 🔥🔥: 109 \| 💬: [76](https://news.ycombinator.com/item?id=43244490) \| 🗓️ 2025-03-03
+| 🔥🔥: 109 \| 💬: [77](https://news.ycombinator.com/item?id=43244490) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -243,7 +243,7 @@ SAP前首席技术官**Jürgen Müller**因去年公司活动中的不当行为�
 <small>🔗 [github.com](https://github.com/takara-ai/go-attention): Go-attention: A full attention mechanism and transformer in pure Go</small>
 
 
-| 🔥🔥: 103 \| 💬: [46](https://news.ycombinator.com/item?id=43243549) \| 🗓️ 2025-03-03
+| 🔥🔥: 106 \| 💬: [47](https://news.ycombinator.com/item?id=43243549) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -255,7 +255,7 @@ Go-attention是由takara.ai前沿研究团队推出的首个纯Go语言实现的
 <small>🔗 [estilofilos.blogspot.com](https://estilofilos.blogspot.com/2016/03/one-logo-three-companies-i.html): One Logo, Three Companies</small>
 
 
-| 🔥: 95 \| 💬: [42](https://news.ycombinator.com/item?id=43245315) \| 🗓️ 2025-03-03
+| 🔥: 96 \| 💬: [43](https://news.ycombinator.com/item?id=43245315) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -263,23 +263,11 @@ Go-attention是由takara.ai前沿研究团队推出的首个纯Go语言实现的
 
 ---
 
-## <a name="21"></a>21. Xbox Kinect的奇异“来世” 
-<small>🔗 [theguardian.com](https://www.theguardian.com/games/2025/mar/03/ghost-hunting-pornography-and-interactive-art-the-weird-afterlife-of-xbox-kinect): The weird afterlife of Xbox Kinect</small>
-
-
-| 🔥: 74 \| 💬: [62](https://news.ycombinator.com/item?id=43241880) \| 🗓️ 2025-03-03
-
-
-<br />
-微软的**Xbox Kinect**于2010年发布，最初作为游戏设备风靡一时，但因缺乏游戏支持和性能问题迅速失宠。尽管在游戏领域失败，Kinect却在**艺术、机器人技术**和**超自然研究**等领域找到了新生命。艺术家利用其深度感应技术创作互动装置，机器人专家将其用于视觉和导航系统，甚至**幽灵猎人**将其改造成“SLS相机”用于探测灵体。尽管微软已停产，Kinect仍在多个领域继续发挥作用，展现了其技术的持久影响力。
-
----
-
-## <a name="22"></a>22. 天津机器人事件引发公众安全与机器人技术担忧 
+## <a name="21"></a>21. 天津机器人事件引发公众安全与机器人技术担忧 
 <small>🔗 [businesskorea.co.kr](https://www.businesskorea.co.kr/news/articleView.html?idxno=236533): Tianjin robot incident raises alarm over public safety and robotics</small>
 
 
-| 🔥: 73 \| 💬: [54](https://news.ycombinator.com/item?id=43246438) \| 🗓️ 2025-03-03
+| 🔥: 77 \| 💬: [58](https://news.ycombinator.com/item?id=43246438) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -287,11 +275,23 @@ Go-attention是由takara.ai前沿研究团队推出的首个纯Go语言实现的
 
 ---
 
+## <a name="22"></a>22. Xbox Kinect的奇异“来世” 
+<small>🔗 [theguardian.com](https://www.theguardian.com/games/2025/mar/03/ghost-hunting-pornography-and-interactive-art-the-weird-afterlife-of-xbox-kinect): The weird afterlife of Xbox Kinect</small>
+
+
+| 🔥: 74 \| 💬: [63](https://news.ycombinator.com/item?id=43241880) \| 🗓️ 2025-03-03
+
+
+<br />
+微软的**Xbox Kinect**于2010年发布，最初作为游戏设备风靡一时，但因缺乏游戏支持和性能问题迅速失宠。尽管在游戏领域失败，Kinect却在**艺术、机器人技术**和**超自然研究**等领域找到了新生命。艺术家利用其深度感应技术创作互动装置，机器人专家将其用于视觉和导航系统，甚至**幽灵猎人**将其改造成“SLS相机”用于探测灵体。尽管微软已停产，Kinect仍在多个领域继续发挥作用，展现了其技术的持久影响力。
+
+---
+
 ## <a name="23"></a>23. 美国政府AI应用：DOGE的“AI优先”策略是否靠谱？ 
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/03/03/doge-ai-government-automation/): DOGE's AI use in government doesn't add up</small>
 
 
-| 🔥: 67 \| 💬: [14](https://news.ycombinator.com/item?id=43244982) \| 🗓️ 2025-03-03
+| 🔥: 69 \| 💬: [14](https://news.ycombinator.com/item?id=43244982) \| 🗓️ 2025-03-03
 
 
 <br />
@@ -303,7 +303,7 @@ Go-attention是由takara.ai前沿研究团队推出的首个纯Go语言实现的
 <small>🔗 [camillovisini.com](https://camillovisini.com/coding/phlex-for-rails-emails-action-mailer-without-erb): Phlex for Rails Emails: Action Mailer Without ERB</small>
 
 
-| 🔥: 64 \| 💬: [23](https://news.ycombinator.com/item?id=43239526) \| 🗓️ 2025-03-03
+| 🔥: 66 \| 💬: [23](https://news.ycombinator.com/item?id=43239526) \| 🗓️ 2025-03-03
 
 
 <br />
