@@ -12,7 +12,7 @@ tags:
 1. 为什么fastDOOM如此快；
 1. 联邦员工被迫返回办公室，却面临无桌、无网、无灯的窘境；
 1. ip4.me/ip6.me 所有者 Kevin Loch 去世；
-1. 意大利计划重启核电以应对能源挑战；
+1. 无需预训练的ARC-AGI解决方案；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [graz.io](https://www.graz.io/articles/bayleaf-wireless-keyboard): Show HN: Bayleaf – Building a low-profile wireless split keyboard</small>
 
 
-| 🔥🔥: 533 \| 💬: [164](https://news.ycombinator.com/item?id=43255529) \| 🗓️ 2025-03-04
+| 🔥🔥: 548 \| 💬: [168](https://news.ycombinator.com/item?id=43255529) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -39,7 +39,7 @@ Bayleaf 是一个专注于**低剖面设计**的**无线分体键盘**项目。�
 <small>🔗 [fabiensanglard.net](https://fabiensanglard.net/fastdoom/index.html): Why fastDOOM is fast</small>
 
 
-| 🔥🔥: 388 \| 💬: [119](https://news.ycombinator.com/item?id=43258709) \| 🗓️ 2025-03-04
+| 🔥🔥: 399 \| 💬: [130](https://news.ycombinator.com/item?id=43258709) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -51,7 +51,7 @@ fastDOOM通过优化代码和删除冗余功能，显著提升了经典游戏《
 <small>🔗 [cnn.com](https://www.cnn.com/2025/03/04/politics/federal-employees-return-to-office-problems/index.html): Federal workers ordered to return to offices without desks, Wi-Fi and lights</small>
 
 
-| 🔥🔥: 277 \| 💬: [327](https://news.ycombinator.com/item?id=43253562) \| 🗓️ 2025-03-04
+| 🔥🔥: 278 \| 💬: [333](https://news.ycombinator.com/item?id=43253562) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -63,7 +63,7 @@ fastDOOM通过优化代码和删除冗余功能，显著提升了经典游戏《
 <small>🔗 [ip4only.me](https://ip4only.me/): The owner of ip4.me/ip6.me, Kevin Loch, has died</small>
 
 
-| 🔥🔥: 268 \| 💬: [78](https://news.ycombinator.com/item?id=43256298) \| 🗓️ 2025-03-04
+| 🔥🔥: 270 \| 💬: [78](https://news.ycombinator.com/item?id=43256298) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -71,7 +71,19 @@ fastDOOM通过优化代码和删除冗余功能，显著提升了经典游戏《
 
 ---
 
-## <a name="5"></a>5. 意大利计划重启核电以应对能源挑战 
+## <a name="5"></a>5. 无需预训练的ARC-AGI解决方案 
+<small>🔗 [iliao2345.github.io](https://iliao2345.github.io/blog_posts/arc_agi_without_pretraining/arc_agi_without_pretraining.html): ARC-AGI without pretraining</small>
+
+
+| 🔥🔥: 228 \| 💬: [54](https://news.ycombinator.com/item?id=43259182) \| 🗓️ 2025-03-04
+
+
+<br />
+本文提出了一种基于**无损信息压缩**的方法**CompressARC**，用于解决ARC-AGI挑战。该方法无需预训练、数据集或搜索，仅通过推理时的压缩训练，成功解决了部分ARC-AGI谜题。**CompressARC**通过神经网络和梯度下降优化，实现了从有限示例中推断规则的能力，展示了压缩在智能行为中的潜力。
+
+---
+
+## <a name="6"></a>6. 意大利计划重启核电以应对能源挑战 
 <small>🔗 [world-nuclear-news.org](https://www.world-nuclear-news.org/articles/cabinet-moves-to-reverse-italys-anti-nuclear-stance): Italy moves to reverse anti-nuclear stance</small>
 
 
@@ -83,23 +95,11 @@ fastDOOM通过优化代码和删除冗余功能，显著提升了经典游戏《
 
 ---
 
-## <a name="6"></a>6. 无需预训练的ARC-AGI解决方案 
-<small>🔗 [iliao2345.github.io](https://iliao2345.github.io/blog_posts/arc_agi_without_pretraining/arc_agi_without_pretraining.html): ARC-AGI without pretraining</small>
-
-
-| 🔥🔥: 211 \| 💬: [48](https://news.ycombinator.com/item?id=43259182) \| 🗓️ 2025-03-04
-
-
-<br />
-本文提出了一种基于**无损信息压缩**的方法**CompressARC**，用于解决ARC-AGI挑战。该方法无需预训练、数据集或搜索，仅通过推理时的压缩训练，成功解决了部分ARC-AGI谜题。**CompressARC**通过神经网络和梯度下降优化，实现了从有限示例中推断规则的能力，展示了压缩在智能行为中的潜力。
-
----
-
 ## <a name="7"></a>7. Satellogic开放卫星数据流 
 <small>🔗 [tech.marksblogg.com](https://tech.marksblogg.com/satellogic-open-data-feed.html): Satellogic's Open Satellite Feed</small>
 
 
-| 🔥🔥: 192 \| 💬: [10](https://news.ycombinator.com/item?id=43256349) \| 🗓️ 2025-03-04
+| 🔥🔥: 195 \| 💬: [11](https://news.ycombinator.com/item?id=43256349) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -111,7 +111,7 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2405.02318): Translating natural language to first-order logic for logical fallacy detection</small>
 
 
-| 🔥🔥: 181 \| 💬: [87](https://news.ycombinator.com/item?id=43257719) \| 🗓️ 2025-03-04
+| 🔥🔥: 184 \| 💬: [88](https://news.ycombinator.com/item?id=43257719) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -119,35 +119,11 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="9"></a>9. 学习如何破解AES 
-<small>🔗 [davidwong.fr](https://davidwong.fr/blockbreakers/): Learn How to Break AES</small>
-
-
-| 🔥🔥: 153 \| 💬: [40](https://news.ycombinator.com/item?id=43257583) \| 🗓️ 2025-03-04
-
-
-<br />
-本页面旨在教授**块密码分析**，重点介绍**AES加密算法**的破解方法。课程分为多个部分，从实现AES开始，逐步引导你掌握攻击技巧。页面由David Wong创建，还推荐了类似的学习资源，如Cryptopals和Microcorruption。适合对密码学感兴趣的初学者。
-
----
-
-## <a name="10"></a>10. 管理者是否应该继续写代码？ 
-<small>🔗 [theengineeringmanager.substack.com](https://theengineeringmanager.substack.com/p/should-managers-still-code): Should managers still code?</small>
-
-
-| 🔥🔥: 138 \| 💬: [190](https://news.ycombinator.com/item?id=43256113) \| 🗓️ 2025-03-04
-
-
-<br />
-文章探讨了工程管理者是否应在日常工作中编写代码的问题。作者认为，**管理者应深入代码**，但不一定需要亲自编写代码。管理者应理解代码库、审查设计文档、调试生产问题，并参与代码审查，但**编写代码的主要责任应交给团队**。在某些情况下，管理者可以安排专门时间编写代码或与团队成员结对编程，但这并非必须。关键在于**管理者应专注于团队管理和战略决策**，而非成为主要代码实现者。
-
----
-
-## <a name="11"></a>11. 特朗普的“加密货币储备”计划：赤裸裸的腐败 
+## <a name="9"></a>9. 特朗普的“加密货币储备”计划：赤裸裸的腐败 
 <small>🔗 [zeteo.com](https://zeteo.com/p/trumps-crypto-reserve-is-such-brazen): Trump's 'Crypto Reserve' Is Such Brazen Corruption</small>
 
 
-| 🔥🔥: 136 \| 💬: [45](https://news.ycombinator.com/item?id=43261899) \| 🗓️ 2025-03-04
+| 🔥🔥: 157 \| 💬: [66](https://news.ycombinator.com/item?id=43261899) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -155,11 +131,35 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
+## <a name="10"></a>10. 学习如何破解AES 
+<small>🔗 [davidwong.fr](https://davidwong.fr/blockbreakers/): Learn How to Break AES</small>
+
+
+| 🔥🔥: 155 \| 💬: [42](https://news.ycombinator.com/item?id=43257583) \| 🗓️ 2025-03-04
+
+
+<br />
+本页面旨在教授**块密码分析**，重点介绍**AES加密算法**的破解方法。课程分为多个部分，从实现AES开始，逐步引导你掌握攻击技巧。页面由David Wong创建，还推荐了类似的学习资源，如Cryptopals和Microcorruption。适合对密码学感兴趣的初学者。
+
+---
+
+## <a name="11"></a>11. 管理者是否应该继续写代码？ 
+<small>🔗 [theengineeringmanager.substack.com](https://theengineeringmanager.substack.com/p/should-managers-still-code): Should managers still code?</small>
+
+
+| 🔥🔥: 143 \| 💬: [195](https://news.ycombinator.com/item?id=43256113) \| 🗓️ 2025-03-04
+
+
+<br />
+文章探讨了工程管理者是否应在日常工作中编写代码的问题。作者认为，**管理者应深入代码**，但不一定需要亲自编写代码。管理者应理解代码库、审查设计文档、调试生产问题，并参与代码审查，但**编写代码的主要责任应交给团队**。在某些情况下，管理者可以安排专门时间编写代码或与团队成员结对编程，但这并非必须。关键在于**管理者应专注于团队管理和战略决策**，而非成为主要代码实现者。
+
+---
+
 ## <a name="12"></a>12. 螃蟹被捕食前的最后一瞥：乌贼的伪装艺术 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/03/03/science/cuttlefish-camouflage-huting-crabs.html): What a crab sees before it gets eaten by a cuttlefish</small>
 
 
-| 🔥🔥: 121 \| 💬: [34](https://news.ycombinator.com/item?id=43254995) \| 🗓️ 2025-03-04
+| 🔥🔥: 129 \| 💬: [36](https://news.ycombinator.com/item?id=43254995) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -167,11 +167,23 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="13"></a>13. Claude-code 分叉版：支持本地及其他 LLM 提供者 
+## <a name="13"></a>13. Best Buy和Target CEO警告：关税将导致价格上涨 
+<small>🔗 [theverge.com](https://www.theverge.com/news/624254/best-buy-target-raise-prices-tariffs): Best Buy and Target CEOs say prices are about to go up because of tariffs</small>
+
+
+| 🔥🔥: 126 \| 💬: [143](https://news.ycombinator.com/item?id=43261626) \| 🗓️ 2025-03-04
+
+
+<br />
+Best Buy和Target的CEO表示，由于特朗普对**墨西哥、加拿大和中国**的关税政策，商品价格可能在本周内上涨。Target依赖墨西哥的冬季农产品，而Best Buy的大部分产品来自墨西哥和中国。两家公司预计供应商会将关税成本转嫁给零售商，导致消费者面临**价格上涨**。特朗普已对加拿大和墨西哥产品征收25%的关税，并对中国产品加征10%的额外税。
+
+---
+
+## <a name="14"></a>14. Claude-code 分叉版：支持本地及其他 LLM 提供者 
 <small>🔗 [github.com](https://github.com/dnakov/anon-kode): Show HN: Fork of Claude-code working with local and other LLM providers</small>
 
 
-| 🔥🔥: 112 \| 💬: [25](https://news.ycombinator.com/item?id=43254351) \| 🗓️ 2025-03-04
+| 🔥🔥: 114 \| 💬: [26](https://news.ycombinator.com/item?id=43254351) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -179,11 +191,11 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="14"></a>14. DIY“无限对比度”电视——100%使用回收零件 [视频] 
+## <a name="15"></a>15. DIY“无限对比度”电视——100%使用回收零件 [视频] 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=qXrn4MqY1Wo): DIY "infinity contrast" TV – with 100% recycled parts [video]</small>
 
 
-| 🔥🔥: 106 \| 💬: [57](https://news.ycombinator.com/item?id=43255446) \| 🗓️ 2025-03-04
+| 🔥🔥: 107 \| 💬: [59](https://news.ycombinator.com/item?id=43255446) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -191,11 +203,11 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="15"></a>15. 苹果推出搭载M3芯片的全新iPad Air及Magic Keyboard 
+## <a name="16"></a>16. 苹果推出搭载M3芯片的全新iPad Air及Magic Keyboard 
 <small>🔗 [apple.com](https://www.apple.com/newsroom/2025/03/apple-introduces-ipad-air-with-powerful-m3-chip-and-new-magic-keyboard/): Apple introduces iPad Air with powerful M3 chip and new Magic Keyboard</small>
 
 
-| 🔥: 98 \| 💬: [228](https://news.ycombinator.com/item?id=43254714) \| 🗓️ 2025-03-04
+| 🔥: 98 \| 💬: [230](https://news.ycombinator.com/item?id=43254714) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -203,7 +215,7 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="16"></a>16. 特斯拉在澳大利亚销量再次暴跌，Model 3下降超81% 
+## <a name="17"></a>17. 特斯拉在澳大利亚销量再次暴跌，Model 3下降超81% 
 <small>🔗 [thedriven.io](https://thedriven.io/2025/03/04/tesla-electric-car-sales-plunge-again-in-australia-model-3-down-more-than-81-per-cent/): Tesla electric car sales plunge again in Australia – Model 3 down more than 81 p</small>
 
 
@@ -215,11 +227,23 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="17"></a>17. 谷歌如何在用户未打开应用前追踪Android设备用户 
+## <a name="18"></a>18. Mox：现代、安全的一体化邮件服务器 
+<small>🔗 [xmox.nl](https://www.xmox.nl/): Mox – modern, secure, all-in-one email server</small>
+
+
+| 🔥: 96 \| 💬: [40](https://news.ycombinator.com/item?id=43261729) \| 🗓️ 2025-03-04
+
+
+<br />
+Mox 是一款**现代、安全**的邮件服务器，支持 IMAP4、SMTP、SPF、DKIM 等协议，提供**自动 TLS 加密**和垃圾邮件过滤功能。它采用 Go 语言编写，代码质量高且经过严格测试。Mox 是**开源项目**，安装简单，10 分钟内即可完成配置，适合希望掌控邮件服务的用户。
+
+---
+
+## <a name="19"></a>19. 谷歌如何在用户未打开应用前追踪Android设备用户 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/04/google_android/): How Google tracks Android device users before they've even opened an app</small>
 
 
-| 🔥: 90 \| 💬: [55](https://news.ycombinator.com/item?id=43253167) \| 🗓️ 2025-03-04
+| 🔥: 91 \| 💬: [55](https://news.ycombinator.com/item?id=43253167) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -227,11 +251,11 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="18"></a>18. 检查悖论无处不在（2015） 
+## <a name="20"></a>20. 检查悖论无处不在（2015） 
 <small>🔗 [allendowney.blogspot.com](http://allendowney.blogspot.com/2015/08/the-inspection-paradox-is-everywhere.html): The inspection paradox is everywhere (2015)</small>
 
 
-| 🔥: 90 \| 💬: [29](https://news.ycombinator.com/item?id=43257358) \| 🗓️ 2025-03-04
+| 🔥: 91 \| 💬: [31](https://news.ycombinator.com/item?id=43257358) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -239,7 +263,31 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="19"></a>19. 微软推出医疗AI助手Dragon Copilot 
+## <a name="21"></a>21. 时间旅行调试AI：让编码更可靠的利器 
+<small>🔗 [nut.new](https://nut.new): Show HN: Time travel debugging AI for more reliable vibe coding</small>
+
+
+| 🔥: 87 \| 💬: [38](https://news.ycombinator.com/item?id=43258585) \| 🗓️ 2025-03-04
+
+
+<br />
+通过**时间旅行调试AI**，开发者可以轻松解决复杂Bug，确保应用正常运行。支持从聊天记录、文件夹或Git仓库导入代码，并提供多种项目示例，如使用React和Tailwind构建待办应用、用Astro创建博客、使用Material UI制作Cookie同意表单，甚至开发简单的HTML/CSS/JS游戏。
+
+---
+
+## <a name="22"></a>22. 解决SICP：一个编程学习项目的深度剖析 
+<small>🔗 [lockywolf.wordpress.com](https://lockywolf.wordpress.com/2021/02/08/solving-sicp/): Solving SICP</small>
+
+
+| 🔥: 86 \| 💬: [21](https://news.ycombinator.com/item?id=43257963) \| 🗓️ 2025-03-04
+
+
+<br />
+本文详细记录了作者完成《计算机程序的构造与解释》（SICP）全部习题的过程，耗时**729小时19分钟**，涉及**6种编程语言**和**9个软件工具**。作者通过**时间追踪**和**任务管理**，提出了一套**高效的学习方法**，并分享了源代码和数据分析。该报告不仅为教学提供了参考，还为自学者提供了实用的学习策略。
+
+---
+
+## <a name="23"></a>23. 微软推出医疗AI助手Dragon Copilot 
 <small>🔗 [theverge.com](https://www.theverge.com/news/622528/microsoft-dragon-copilot-ai-healthcare-assistant): Microsoft's new Dragon Copilot is an AI assistant for healthcare</small>
 
 
@@ -251,11 +299,11 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="20"></a>20. 德国小镇采用新技术测试地热能发电 
+## <a name="24"></a>24. 德国小镇采用新技术测试地热能发电 
 <small>🔗 [apnews.com](https://apnews.com/article/energy-transition-gas-geothermal-geretsried-germany-heat-electricity-89a356c70851938963314b3882377247): Small German town starts testing geothermal power utilizing new techniques</small>
 
 
-| 🔥: 82 \| 💬: [13](https://news.ycombinator.com/item?id=43256022) \| 🗓️ 2025-03-04
+| 🔥: 82 \| 💬: [14](https://news.ycombinator.com/item?id=43256022) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -263,31 +311,7 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="21"></a>21. 解决SICP：一个编程学习项目的深度剖析 
-<small>🔗 [lockywolf.wordpress.com](https://lockywolf.wordpress.com/2021/02/08/solving-sicp/): Solving SICP</small>
-
-
-| 🔥: 81 \| 💬: [20](https://news.ycombinator.com/item?id=43257963) \| 🗓️ 2025-03-04
-
-
-<br />
-本文详细记录了作者完成《计算机程序的构造与解释》（SICP）全部习题的过程，耗时**729小时19分钟**，涉及**6种编程语言**和**9个软件工具**。作者通过**时间追踪**和**任务管理**，提出了一套**高效的学习方法**，并分享了源代码和数据分析。该报告不仅为教学提供了参考，还为自学者提供了实用的学习策略。
-
----
-
-## <a name="22"></a>22. 时间旅行调试AI：让编码更可靠的利器 
-<small>🔗 [nut.new](https://nut.new): Show HN: Time travel debugging AI for more reliable vibe coding</small>
-
-
-| 🔥: 80 \| 💬: [37](https://news.ycombinator.com/item?id=43258585) \| 🗓️ 2025-03-04
-
-
-<br />
-通过**时间旅行调试AI**，开发者可以轻松解决复杂Bug，确保应用正常运行。支持从聊天记录、文件夹或Git仓库导入代码，并提供多种项目示例，如使用React和Tailwind构建待办应用、用Astro创建博客、使用Material UI制作Cookie同意表单，甚至开发简单的HTML/CSS/JS游戏。
-
----
-
-## <a name="23"></a>23. Mozilla 修改 Firefox 使用条款以回应用户质疑 
+## <a name="25"></a>25. Mozilla 修改 Firefox 使用条款以回应用户质疑 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/03/mozilla-rewrites-firefoxs-terms-of-use-after-user-backlash/): Mozilla rewrites Firefox's Terms of Use after user backlash</small>
 
 
@@ -296,29 +320,5 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 <br />
 Mozilla 因新**使用条款**引发用户不满后，重新修订了政策，澄清其对用户数据的处理方式。新条款明确表示，Mozilla 仅需用户数据以**运行 Firefox**，并不拥有数据所有权。此外，公司删除了引起混淆的**可接受使用政策**引用，并更新了隐私常见问题解答，以更好地解释法律术语。Mozilla 强调，共享的数据已去除个人身份信息，且用户可自行调整数据共享设置。
-
----
-
-## <a name="24"></a>24. 纹身墨水暴露与淋巴瘤和皮肤癌相关 
-<small>🔗 [bmcpublichealth.biomedcentral.com](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-025-21413-3): Tattoo ink exposure is associated with lymphoma and skin cancers</small>
-
-
-| 🔥: 77 \| 💬: [49](https://news.ycombinator.com/item?id=43255108) \| 🗓️ 2025-03-04
-
-
-<br />
-一项丹麦双胞胎研究发现，**纹身墨水暴露**与**淋巴瘤**和**皮肤癌**风险增加有关。研究分析了2367对双胞胎的数据，发现纹身面积较大者患皮肤癌和淋巴瘤的风险分别增加了2.37倍和2.73倍。研究推测，纹身墨水可能引发慢性炎症，导致细胞异常增殖，进而增加癌症风险。
-
----
-
-## <a name="25"></a>25. Appstat – Windows 进程监控工具 
-<small>🔗 [pragmar.com](https://pragmar.com/appstat/): Show HN: Appstat – Process Monitor for Windows</small>
-
-
-| 🔥: 73 \| 💬: [19](https://news.ycombinator.com/item?id=43255855) \| 🗓️ 2025-03-04
-
-
-<br />
-Appstat 是一款专为开发者设计的 **实时进程监控工具**，可监控 CPU、内存、磁盘和线程等资源使用情况。它提供简洁的图形界面，帮助快速识别性能瓶颈、内存泄漏等问题，且不影响工作流程。支持 **暗黑/亮色模式**、置顶显示和日志导出功能，完全免费且无需注册。相比 Windows 自带的任务管理器和进程监视器，Appstat 更简单易用，适合长期监控单个应用程序。
 
 ---
