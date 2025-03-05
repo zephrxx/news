@@ -27,7 +27,7 @@ tags:
 <small>🔗 [graz.io](https://www.graz.io/articles/bayleaf-wireless-keyboard): Show HN: Bayleaf – Building a low-profile wireless split keyboard</small>
 
 
-| 🔥🔥: 518 \| 💬: [163](https://news.ycombinator.com/item?id=43255529) \| 🗓️ 2025-03-04
+| 🔥🔥: 533 \| 💬: [164](https://news.ycombinator.com/item?id=43255529) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -39,7 +39,7 @@ Bayleaf 是一个专注于**低剖面设计**的**无线分体键盘**项目。�
 <small>🔗 [fabiensanglard.net](https://fabiensanglard.net/fastdoom/index.html): Why fastDOOM is fast</small>
 
 
-| 🔥🔥: 369 \| 💬: [111](https://news.ycombinator.com/item?id=43258709) \| 🗓️ 2025-03-04
+| 🔥🔥: 388 \| 💬: [119](https://news.ycombinator.com/item?id=43258709) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -51,7 +51,7 @@ fastDOOM通过优化代码和删除冗余功能，显著提升了经典游戏《
 <small>🔗 [cnn.com](https://www.cnn.com/2025/03/04/politics/federal-employees-return-to-office-problems/index.html): Federal workers ordered to return to offices without desks, Wi-Fi and lights</small>
 
 
-| 🔥🔥: 276 \| 💬: [322](https://news.ycombinator.com/item?id=43253562) \| 🗓️ 2025-03-04
+| 🔥🔥: 277 \| 💬: [327](https://news.ycombinator.com/item?id=43253562) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -63,7 +63,7 @@ fastDOOM通过优化代码和删除冗余功能，显著提升了经典游戏《
 <small>🔗 [ip4only.me](https://ip4only.me/): The owner of ip4.me/ip6.me, Kevin Loch, has died</small>
 
 
-| 🔥🔥: 266 \| 💬: [78](https://news.ycombinator.com/item?id=43256298) \| 🗓️ 2025-03-04
+| 🔥🔥: 268 \| 💬: [78](https://news.ycombinator.com/item?id=43256298) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -87,7 +87,7 @@ fastDOOM通过优化代码和删除冗余功能，显著提升了经典游戏《
 <small>🔗 [iliao2345.github.io](https://iliao2345.github.io/blog_posts/arc_agi_without_pretraining/arc_agi_without_pretraining.html): ARC-AGI without pretraining</small>
 
 
-| 🔥🔥: 199 \| 💬: [40](https://news.ycombinator.com/item?id=43259182) \| 🗓️ 2025-03-04
+| 🔥🔥: 211 \| 💬: [48](https://news.ycombinator.com/item?id=43259182) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -99,7 +99,7 @@ fastDOOM通过优化代码和删除冗余功能，显著提升了经典游戏《
 <small>🔗 [tech.marksblogg.com](https://tech.marksblogg.com/satellogic-open-data-feed.html): Satellogic's Open Satellite Feed</small>
 
 
-| 🔥🔥: 187 \| 💬: [10](https://news.ycombinator.com/item?id=43256349) \| 🗓️ 2025-03-04
+| 🔥🔥: 192 \| 💬: [10](https://news.ycombinator.com/item?id=43256349) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -111,7 +111,7 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2405.02318): Translating natural language to first-order logic for logical fallacy detection</small>
 
 
-| 🔥🔥: 168 \| 💬: [85](https://news.ycombinator.com/item?id=43257719) \| 🗓️ 2025-03-04
+| 🔥🔥: 181 \| 💬: [87](https://news.ycombinator.com/item?id=43257719) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -123,7 +123,7 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 <small>🔗 [davidwong.fr](https://davidwong.fr/blockbreakers/): Learn How to Break AES</small>
 
 
-| 🔥🔥: 148 \| 💬: [38](https://news.ycombinator.com/item?id=43257583) \| 🗓️ 2025-03-04
+| 🔥🔥: 153 \| 💬: [40](https://news.ycombinator.com/item?id=43257583) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -135,7 +135,7 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 <small>🔗 [theengineeringmanager.substack.com](https://theengineeringmanager.substack.com/p/should-managers-still-code): Should managers still code?</small>
 
 
-| 🔥🔥: 128 \| 💬: [181](https://news.ycombinator.com/item?id=43256113) \| 🗓️ 2025-03-04
+| 🔥🔥: 138 \| 💬: [190](https://news.ycombinator.com/item?id=43256113) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -143,11 +143,23 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="11"></a>11. 螃蟹被捕食前的最后一瞥：乌贼的伪装艺术 
+## <a name="11"></a>11. 特朗普的“加密货币储备”计划：赤裸裸的腐败 
+<small>🔗 [zeteo.com](https://zeteo.com/p/trumps-crypto-reserve-is-such-brazen): Trump's 'Crypto Reserve' Is Such Brazen Corruption</small>
+
+
+| 🔥🔥: 136 \| 💬: [45](https://news.ycombinator.com/item?id=43261899) \| 🗓️ 2025-03-04
+
+
+<br />
+特朗普计划用**政府资金**购买**加密货币**，建立“战略储备”，此举直接惠及其**加密行业盟友**和家族成员。此举不仅涉嫌利益输送，还引发市场波动，甚至遭到部分支持者的批评。
+
+---
+
+## <a name="12"></a>12. 螃蟹被捕食前的最后一瞥：乌贼的伪装艺术 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/03/03/science/cuttlefish-camouflage-huting-crabs.html): What a crab sees before it gets eaten by a cuttlefish</small>
 
 
-| 🔥🔥: 116 \| 💬: [28](https://news.ycombinator.com/item?id=43254995) \| 🗓️ 2025-03-04
+| 🔥🔥: 121 \| 💬: [34](https://news.ycombinator.com/item?id=43254995) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -155,11 +167,11 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="12"></a>12. Claude-code 分叉版：支持本地及其他 LLM 提供者 
+## <a name="13"></a>13. Claude-code 分叉版：支持本地及其他 LLM 提供者 
 <small>🔗 [github.com](https://github.com/dnakov/anon-kode): Show HN: Fork of Claude-code working with local and other LLM providers</small>
 
 
-| 🔥🔥: 105 \| 💬: [21](https://news.ycombinator.com/item?id=43254351) \| 🗓️ 2025-03-04
+| 🔥🔥: 112 \| 💬: [25](https://news.ycombinator.com/item?id=43254351) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -167,11 +179,11 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="13"></a>13. DIY“无限对比度”电视——100%使用回收零件 [视频] 
+## <a name="14"></a>14. DIY“无限对比度”电视——100%使用回收零件 [视频] 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=qXrn4MqY1Wo): DIY "infinity contrast" TV – with 100% recycled parts [video]</small>
 
 
-| 🔥🔥: 105 \| 💬: [54](https://news.ycombinator.com/item?id=43255446) \| 🗓️ 2025-03-04
+| 🔥🔥: 106 \| 💬: [57](https://news.ycombinator.com/item?id=43255446) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -179,7 +191,7 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="14"></a>14. 苹果推出搭载M3芯片的全新iPad Air及Magic Keyboard 
+## <a name="15"></a>15. 苹果推出搭载M3芯片的全新iPad Air及Magic Keyboard 
 <small>🔗 [apple.com](https://www.apple.com/newsroom/2025/03/apple-introduces-ipad-air-with-powerful-m3-chip-and-new-magic-keyboard/): Apple introduces iPad Air with powerful M3 chip and new Magic Keyboard</small>
 
 
@@ -191,7 +203,7 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="15"></a>15. 特斯拉在澳大利亚销量再次暴跌，Model 3下降超81% 
+## <a name="16"></a>16. 特斯拉在澳大利亚销量再次暴跌，Model 3下降超81% 
 <small>🔗 [thedriven.io](https://thedriven.io/2025/03/04/tesla-electric-car-sales-plunge-again-in-australia-model-3-down-more-than-81-per-cent/): Tesla electric car sales plunge again in Australia – Model 3 down more than 81 p</small>
 
 
@@ -203,11 +215,11 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="16"></a>16. 谷歌如何在用户未打开应用前追踪Android设备用户 
+## <a name="17"></a>17. 谷歌如何在用户未打开应用前追踪Android设备用户 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/04/google_android/): How Google tracks Android device users before they've even opened an app</small>
 
 
-| 🔥: 90 \| 💬: [54](https://news.ycombinator.com/item?id=43253167) \| 🗓️ 2025-03-04
+| 🔥: 90 \| 💬: [55](https://news.ycombinator.com/item?id=43253167) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -215,11 +227,11 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="17"></a>17. 检查悖论无处不在（2015） 
+## <a name="18"></a>18. 检查悖论无处不在（2015） 
 <small>🔗 [allendowney.blogspot.com](http://allendowney.blogspot.com/2015/08/the-inspection-paradox-is-everywhere.html): The inspection paradox is everywhere (2015)</small>
 
 
-| 🔥: 85 \| 💬: [27](https://news.ycombinator.com/item?id=43257358) \| 🗓️ 2025-03-04
+| 🔥: 90 \| 💬: [29](https://news.ycombinator.com/item?id=43257358) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -227,7 +239,7 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="18"></a>18. 微软推出医疗AI助手Dragon Copilot 
+## <a name="19"></a>19. 微软推出医疗AI助手Dragon Copilot 
 <small>🔗 [theverge.com](https://www.theverge.com/news/622528/microsoft-dragon-copilot-ai-healthcare-assistant): Microsoft's new Dragon Copilot is an AI assistant for healthcare</small>
 
 
@@ -239,7 +251,7 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="19"></a>19. 德国小镇采用新技术测试地热能发电 
+## <a name="20"></a>20. 德国小镇采用新技术测试地热能发电 
 <small>🔗 [apnews.com](https://apnews.com/article/energy-transition-gas-geothermal-geretsried-germany-heat-electricity-89a356c70851938963314b3882377247): Small German town starts testing geothermal power utilizing new techniques</small>
 
 
@@ -251,7 +263,31 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="20"></a>20. Mozilla 修改 Firefox 使用条款以回应用户质疑 
+## <a name="21"></a>21. 解决SICP：一个编程学习项目的深度剖析 
+<small>🔗 [lockywolf.wordpress.com](https://lockywolf.wordpress.com/2021/02/08/solving-sicp/): Solving SICP</small>
+
+
+| 🔥: 81 \| 💬: [20](https://news.ycombinator.com/item?id=43257963) \| 🗓️ 2025-03-04
+
+
+<br />
+本文详细记录了作者完成《计算机程序的构造与解释》（SICP）全部习题的过程，耗时**729小时19分钟**，涉及**6种编程语言**和**9个软件工具**。作者通过**时间追踪**和**任务管理**，提出了一套**高效的学习方法**，并分享了源代码和数据分析。该报告不仅为教学提供了参考，还为自学者提供了实用的学习策略。
+
+---
+
+## <a name="22"></a>22. 时间旅行调试AI：让编码更可靠的利器 
+<small>🔗 [nut.new](https://nut.new): Show HN: Time travel debugging AI for more reliable vibe coding</small>
+
+
+| 🔥: 80 \| 💬: [37](https://news.ycombinator.com/item?id=43258585) \| 🗓️ 2025-03-04
+
+
+<br />
+通过**时间旅行调试AI**，开发者可以轻松解决复杂Bug，确保应用正常运行。支持从聊天记录、文件夹或Git仓库导入代码，并提供多种项目示例，如使用React和Tailwind构建待办应用、用Astro创建博客、使用Material UI制作Cookie同意表单，甚至开发简单的HTML/CSS/JS游戏。
+
+---
+
+## <a name="23"></a>23. Mozilla 修改 Firefox 使用条款以回应用户质疑 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/03/mozilla-rewrites-firefoxs-terms-of-use-after-user-backlash/): Mozilla rewrites Firefox's Terms of Use after user backlash</small>
 
 
@@ -263,11 +299,11 @@ Mozilla 因新**使用条款**引发用户不满后，重新修订了政策，�
 
 ---
 
-## <a name="21"></a>21. 纹身墨水暴露与淋巴瘤和皮肤癌相关 
+## <a name="24"></a>24. 纹身墨水暴露与淋巴瘤和皮肤癌相关 
 <small>🔗 [bmcpublichealth.biomedcentral.com](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-025-21413-3): Tattoo ink exposure is associated with lymphoma and skin cancers</small>
 
 
-| 🔥: 76 \| 💬: [48](https://news.ycombinator.com/item?id=43255108) \| 🗓️ 2025-03-04
+| 🔥: 77 \| 💬: [49](https://news.ycombinator.com/item?id=43255108) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -275,50 +311,14 @@ Mozilla 因新**使用条款**引发用户不满后，重新修订了政策，�
 
 ---
 
-## <a name="22"></a>22. 解决SICP：一个编程学习项目的深度剖析 
-<small>🔗 [lockywolf.wordpress.com](https://lockywolf.wordpress.com/2021/02/08/solving-sicp/): Solving SICP</small>
-
-
-| 🔥: 74 \| 💬: [20](https://news.ycombinator.com/item?id=43257963) \| 🗓️ 2025-03-04
-
-
-<br />
-本文详细记录了作者完成《计算机程序的构造与解释》（SICP）全部习题的过程，耗时**729小时19分钟**，涉及**6种编程语言**和**9个软件工具**。作者通过**时间追踪**和**任务管理**，提出了一套**高效的学习方法**，并分享了源代码和数据分析。该报告不仅为教学提供了参考，还为自学者提供了实用的学习策略。
-
----
-
-## <a name="23"></a>23. 时间旅行调试AI：让编码更可靠的利器 
-<small>🔗 [nut.new](https://nut.new): Show HN: Time travel debugging AI for more reliable vibe coding</small>
-
-
-| 🔥: 73 \| 💬: [33](https://news.ycombinator.com/item?id=43258585) \| 🗓️ 2025-03-04
-
-
-<br />
-通过**时间旅行调试AI**，开发者可以轻松解决复杂Bug，确保应用正常运行。支持从聊天记录、文件夹或Git仓库导入代码，并提供多种项目示例，如使用React和Tailwind构建待办应用、用Astro创建博客、使用Material UI制作Cookie同意表单，甚至开发简单的HTML/CSS/JS游戏。
-
----
-
-## <a name="24"></a>24. Appstat – Windows 进程监控工具 
+## <a name="25"></a>25. Appstat – Windows 进程监控工具 
 <small>🔗 [pragmar.com](https://pragmar.com/appstat/): Show HN: Appstat – Process Monitor for Windows</small>
 
 
-| 🔥: 72 \| 💬: [17](https://news.ycombinator.com/item?id=43255855) \| 🗓️ 2025-03-04
+| 🔥: 73 \| 💬: [19](https://news.ycombinator.com/item?id=43255855) \| 🗓️ 2025-03-04
 
 
 <br />
 Appstat 是一款专为开发者设计的 **实时进程监控工具**，可监控 CPU、内存、磁盘和线程等资源使用情况。它提供简洁的图形界面，帮助快速识别性能瓶颈、内存泄漏等问题，且不影响工作流程。支持 **暗黑/亮色模式**、置顶显示和日志导出功能，完全免费且无需注册。相比 Windows 自带的任务管理器和进程监视器，Appstat 更简单易用，适合长期监控单个应用程序。
-
----
-
-## <a name="25"></a>25. 2025年2月：postmarketOS 的新进展与更名计划 
-<small>🔗 [postmarketos.org](https://postmarketos.org/blog/2025/03/04/pmOS-update-2025-02/): PostmarketOS in 2025-02: MSM89x7 Audio, Modern Xiaomis in Community, New Name</small>
-
-
-| 🔥: 64 \| 💬: [19](https://news.ycombinator.com/item?id=43253674) \| 🗓️ 2025-03-04
-
-
-<br />
-2025年2月，postmarketOS 社区在多个活动中取得了显著进展，包括在Aachen和东京的研讨会。**postmarketOS** 计划更名，原因是现有名称不易发音且不符合现代需求。社区将参与新名称的征集，同时保持现有品牌标识。此外，**MSM89x7音频支持** 和 **现代小米设备** 的社区支持也得到了提升。
 
 ---
