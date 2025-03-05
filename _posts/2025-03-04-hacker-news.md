@@ -27,7 +27,7 @@ tags:
 <small>🔗 [graz.io](https://www.graz.io/articles/bayleaf-wireless-keyboard): Show HN: Bayleaf – Building a low-profile wireless split keyboard</small>
 
 
-| 🔥🔥: 548 \| 💬: [168](https://news.ycombinator.com/item?id=43255529) \| 🗓️ 2025-03-04
+| 🔥🔥: 555 \| 💬: [175](https://news.ycombinator.com/item?id=43255529) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -39,7 +39,7 @@ Bayleaf 是一个专注于**低剖面设计**的**无线分体键盘**项目。�
 <small>🔗 [fabiensanglard.net](https://fabiensanglard.net/fastdoom/index.html): Why fastDOOM is fast</small>
 
 
-| 🔥🔥: 399 \| 💬: [130](https://news.ycombinator.com/item?id=43258709) \| 🗓️ 2025-03-04
+| 🔥🔥: 418 \| 💬: [136](https://news.ycombinator.com/item?id=43258709) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -51,7 +51,7 @@ fastDOOM通过优化代码和删除冗余功能，显著提升了经典游戏《
 <small>🔗 [cnn.com](https://www.cnn.com/2025/03/04/politics/federal-employees-return-to-office-problems/index.html): Federal workers ordered to return to offices without desks, Wi-Fi and lights</small>
 
 
-| 🔥🔥: 278 \| 💬: [333](https://news.ycombinator.com/item?id=43253562) \| 🗓️ 2025-03-04
+| 🔥🔥: 279 \| 💬: [333](https://news.ycombinator.com/item?id=43253562) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -63,7 +63,7 @@ fastDOOM通过优化代码和删除冗余功能，显著提升了经典游戏《
 <small>🔗 [ip4only.me](https://ip4only.me/): The owner of ip4.me/ip6.me, Kevin Loch, has died</small>
 
 
-| 🔥🔥: 270 \| 💬: [78](https://news.ycombinator.com/item?id=43256298) \| 🗓️ 2025-03-04
+| 🔥🔥: 272 \| 💬: [78](https://news.ycombinator.com/item?id=43256298) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -75,7 +75,7 @@ fastDOOM通过优化代码和删除冗余功能，显著提升了经典游戏《
 <small>🔗 [iliao2345.github.io](https://iliao2345.github.io/blog_posts/arc_agi_without_pretraining/arc_agi_without_pretraining.html): ARC-AGI without pretraining</small>
 
 
-| 🔥🔥: 228 \| 💬: [54](https://news.ycombinator.com/item?id=43259182) \| 🗓️ 2025-03-04
+| 🔥🔥: 241 \| 💬: [58](https://news.ycombinator.com/item?id=43259182) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -99,7 +99,7 @@ fastDOOM通过优化代码和删除冗余功能，显著提升了经典游戏《
 <small>🔗 [tech.marksblogg.com](https://tech.marksblogg.com/satellogic-open-data-feed.html): Satellogic's Open Satellite Feed</small>
 
 
-| 🔥🔥: 195 \| 💬: [11](https://news.ycombinator.com/item?id=43256349) \| 🗓️ 2025-03-04
+| 🔥🔥: 200 \| 💬: [11](https://news.ycombinator.com/item?id=43256349) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -111,7 +111,7 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2405.02318): Translating natural language to first-order logic for logical fallacy detection</small>
 
 
-| 🔥🔥: 184 \| 💬: [88](https://news.ycombinator.com/item?id=43257719) \| 🗓️ 2025-03-04
+| 🔥🔥: 192 \| 💬: [90](https://news.ycombinator.com/item?id=43257719) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -123,7 +123,7 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 <small>🔗 [zeteo.com](https://zeteo.com/p/trumps-crypto-reserve-is-such-brazen): Trump's 'Crypto Reserve' Is Such Brazen Corruption</small>
 
 
-| 🔥🔥: 157 \| 💬: [66](https://news.ycombinator.com/item?id=43261899) \| 🗓️ 2025-03-04
+| 🔥🔥: 168 \| 💬: [71](https://news.ycombinator.com/item?id=43261899) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -147,7 +147,7 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 <small>🔗 [theengineeringmanager.substack.com](https://theengineeringmanager.substack.com/p/should-managers-still-code): Should managers still code?</small>
 
 
-| 🔥🔥: 143 \| 💬: [195](https://news.ycombinator.com/item?id=43256113) \| 🗓️ 2025-03-04
+| 🔥🔥: 151 \| 💬: [208](https://news.ycombinator.com/item?id=43256113) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -155,23 +155,11 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="12"></a>12. 螃蟹被捕食前的最后一瞥：乌贼的伪装艺术 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/03/03/science/cuttlefish-camouflage-huting-crabs.html): What a crab sees before it gets eaten by a cuttlefish</small>
-
-
-| 🔥🔥: 129 \| 💬: [36](https://news.ycombinator.com/item?id=43254995) \| 🗓️ 2025-03-04
-
-
-<br />
-2023年5月，英国布里斯托大学的海洋视觉生态学家Matteo Santon在印度尼西亚浅海礁石拍摄乌贼捕食过程，试图从猎物视角观察乌贼的捕猎策略。研究发现，乌贼在捕食时展示了四种复杂的**伪装模式**，如模仿漂浮的树叶或珊瑚，可能通过“欺骗”螃蟹的视觉系统来隐藏自身或伪装成无害的生物。乌贼的皮肤含有色素细胞和肌肉泵，能迅速改变颜色和纹理，使其成为**伪装大师**。这项研究揭示了乌贼在野外捕食时的复杂行为，此前多在实验室中观察到。
-
----
-
-## <a name="13"></a>13. Best Buy和Target CEO警告：关税将导致价格上涨 
+## <a name="12"></a>12. Best Buy和Target CEO警告：关税将导致价格上涨 
 <small>🔗 [theverge.com](https://www.theverge.com/news/624254/best-buy-target-raise-prices-tariffs): Best Buy and Target CEOs say prices are about to go up because of tariffs</small>
 
 
-| 🔥🔥: 126 \| 💬: [143](https://news.ycombinator.com/item?id=43261626) \| 🗓️ 2025-03-04
+| 🔥🔥: 139 \| 💬: [163](https://news.ycombinator.com/item?id=43261626) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -179,11 +167,47 @@ Best Buy和Target的CEO表示，由于特朗普对**墨西哥、加拿大和中�
 
 ---
 
-## <a name="14"></a>14. Claude-code 分叉版：支持本地及其他 LLM 提供者 
+## <a name="13"></a>13. 螃蟹被捕食前的最后一瞥：乌贼的伪装艺术 
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/03/03/science/cuttlefish-camouflage-huting-crabs.html): What a crab sees before it gets eaten by a cuttlefish</small>
+
+
+| 🔥🔥: 138 \| 💬: [38](https://news.ycombinator.com/item?id=43254995) \| 🗓️ 2025-03-04
+
+
+<br />
+2023年5月，英国布里斯托大学的海洋视觉生态学家Matteo Santon在印度尼西亚浅海礁石拍摄乌贼捕食过程，试图从猎物视角观察乌贼的捕猎策略。研究发现，乌贼在捕食时展示了四种复杂的**伪装模式**，如模仿漂浮的树叶或珊瑚，可能通过“欺骗”螃蟹的视觉系统来隐藏自身或伪装成无害的生物。乌贼的皮肤含有色素细胞和肌肉泵，能迅速改变颜色和纹理，使其成为**伪装大师**。这项研究揭示了乌贼在野外捕食时的复杂行为，此前多在实验室中观察到。
+
+---
+
+## <a name="14"></a>14. Mox：现代、安全的一体化邮件服务器 
+<small>🔗 [xmox.nl](https://www.xmox.nl/): Mox – modern, secure, all-in-one email server</small>
+
+
+| 🔥🔥: 137 \| 💬: [57](https://news.ycombinator.com/item?id=43261729) \| 🗓️ 2025-03-04
+
+
+<br />
+Mox 是一款**现代、安全**的邮件服务器，支持 IMAP4、SMTP、SPF、DKIM 等协议，提供**自动 TLS 加密**和垃圾邮件过滤功能。它采用 Go 语言编写，代码质量高且经过严格测试。Mox 是**开源项目**，安装简单，10 分钟内即可完成配置，适合希望掌控邮件服务的用户。
+
+---
+
+## <a name="15"></a>15. Chrome强制移除uBlock Origin引发用户不满 
+<small>🔗 [old.reddit.com](https://old.reddit.com/r/youtube/comments/1j2ec76/ublock_origin_is_gone/): uBlock Origin Forcefully Removed by Chrome</small>
+
+
+| 🔥🔥: 129 \| 💬: [75](https://news.ycombinator.com/item?id=43262531) \| 🗓️ 2025-03-04
+
+
+<br />
+近日，**uBlock Origin**扩展程序被Chrome浏览器强制移除，用户收到提示称该扩展“不再受支持”。尽管Google声称扩展已失效，但用户发现通过**开发者工具**修改按钮属性仍可重新启用。此举被认为是Google为推广广告收入而采取的措施，引发广泛争议。许多用户批评Google背离了“不作恶”的初衷，并呼吁改用其他浏览器。
+
+---
+
+## <a name="16"></a>16. Claude-code 分叉版：支持本地及其他 LLM 提供者 
 <small>🔗 [github.com](https://github.com/dnakov/anon-kode): Show HN: Fork of Claude-code working with local and other LLM providers</small>
 
 
-| 🔥🔥: 114 \| 💬: [26](https://news.ycombinator.com/item?id=43254351) \| 🗓️ 2025-03-04
+| 🔥🔥: 118 \| 💬: [27](https://news.ycombinator.com/item?id=43254351) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -191,11 +215,11 @@ Best Buy和Target的CEO表示，由于特朗普对**墨西哥、加拿大和中�
 
 ---
 
-## <a name="15"></a>15. DIY“无限对比度”电视——100%使用回收零件 [视频] 
+## <a name="17"></a>17. DIY“无限对比度”电视——100%使用回收零件 [视频] 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=qXrn4MqY1Wo): DIY "infinity contrast" TV – with 100% recycled parts [video]</small>
 
 
-| 🔥🔥: 107 \| 💬: [59](https://news.ycombinator.com/item?id=43255446) \| 🗓️ 2025-03-04
+| 🔥🔥: 108 \| 💬: [60](https://news.ycombinator.com/item?id=43255446) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -203,11 +227,35 @@ Best Buy和Target的CEO表示，由于特朗普对**墨西哥、加拿大和中�
 
 ---
 
-## <a name="16"></a>16. 苹果推出搭载M3芯片的全新iPad Air及Magic Keyboard 
+## <a name="18"></a>18. 美国经济的衰落与未来选择 
+<small>🔗 [geohot.github.io](https://geohot.github.io//blog/jekyll/update/2025/03/03/demoralization-is-just-beginning.html): The Demoralization is just Beginning</small>
+
+
+| 🔥🔥: 103 \| 💬: [112](https://news.ycombinator.com/item?id=43261941) \| 🗓️ 2025-03-04
+
+
+<br />
+本文探讨了美国经济的现状与未来。**美元主导的经济模式**导致大量虚假就业和金融泡沫，而**零利率政策（ZIRP）**加剧了这一问题。美国面临两条路：一是成为**保护主义区域强国**，二是通过**全球人才引进**和**金本位货币改革**恢复帝国地位。然而，作者对改革持悲观态度，认为美国尚未彻底觉醒。
+
+---
+
+## <a name="19"></a>19. 兄弟打印机被指控封锁第三方墨盒 
+<small>🔗 [tomshardware.com](https://www.tomshardware.com/peripherals/printers/brother-accused-of-locking-down-third-party-printer-ink-cartridges-via-firmware-updates-removing-older-firmware-versions-from-support-portals): Brother accused of locking down third-party printer ink cartridges</small>
+
+
+| 🔥: 100 \| 💬: [57](https://news.ycombinator.com/item?id=43261933) \| 🗓️ 2025-03-04
+
+
+<br />
+知名维修博主Louis Rossmann揭露，**兄弟打印机**通过固件更新**禁用第三方墨盒**，并阻止彩色设备的颜色校准功能。Rossmann批评此举**反消费者**，建议用户保持打印机离线并关闭自动更新。他还指出，旧版固件被移除，用户无法回滚。兄弟此举引发广泛不满，被视为对消费者权益的侵害。
+
+---
+
+## <a name="20"></a>20. 苹果推出搭载M3芯片的全新iPad Air及Magic Keyboard 
 <small>🔗 [apple.com](https://www.apple.com/newsroom/2025/03/apple-introduces-ipad-air-with-powerful-m3-chip-and-new-magic-keyboard/): Apple introduces iPad Air with powerful M3 chip and new Magic Keyboard</small>
 
 
-| 🔥: 98 \| 💬: [230](https://news.ycombinator.com/item?id=43254714) \| 🗓️ 2025-03-04
+| 🔥: 99 \| 💬: [230](https://news.ycombinator.com/item?id=43254714) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -215,7 +263,7 @@ Best Buy和Target的CEO表示，由于特朗普对**墨西哥、加拿大和中�
 
 ---
 
-## <a name="17"></a>17. 特斯拉在澳大利亚销量再次暴跌，Model 3下降超81% 
+## <a name="21"></a>21. 特斯拉在澳大利亚销量再次暴跌，Model 3下降超81% 
 <small>🔗 [thedriven.io](https://thedriven.io/2025/03/04/tesla-electric-car-sales-plunge-again-in-australia-model-3-down-more-than-81-per-cent/): Tesla electric car sales plunge again in Australia – Model 3 down more than 81 p</small>
 
 
@@ -227,23 +275,23 @@ Best Buy和Target的CEO表示，由于特朗普对**墨西哥、加拿大和中�
 
 ---
 
-## <a name="18"></a>18. Mox：现代、安全的一体化邮件服务器 
-<small>🔗 [xmox.nl](https://www.xmox.nl/): Mox – modern, secure, all-in-one email server</small>
+## <a name="22"></a>22. 解决SICP：一个编程学习项目的深度剖析 
+<small>🔗 [lockywolf.wordpress.com](https://lockywolf.wordpress.com/2021/02/08/solving-sicp/): Solving SICP</small>
 
 
-| 🔥: 96 \| 💬: [40](https://news.ycombinator.com/item?id=43261729) \| 🗓️ 2025-03-04
+| 🔥: 95 \| 💬: [25](https://news.ycombinator.com/item?id=43257963) \| 🗓️ 2025-03-04
 
 
 <br />
-Mox 是一款**现代、安全**的邮件服务器，支持 IMAP4、SMTP、SPF、DKIM 等协议，提供**自动 TLS 加密**和垃圾邮件过滤功能。它采用 Go 语言编写，代码质量高且经过严格测试。Mox 是**开源项目**，安装简单，10 分钟内即可完成配置，适合希望掌控邮件服务的用户。
+本文详细记录了作者完成《计算机程序的构造与解释》（SICP）全部习题的过程，耗时**729小时19分钟**，涉及**6种编程语言**和**9个软件工具**。作者通过**时间追踪**和**任务管理**，提出了一套**高效的学习方法**，并分享了源代码和数据分析。该报告不仅为教学提供了参考，还为自学者提供了实用的学习策略。
 
 ---
 
-## <a name="19"></a>19. 谷歌如何在用户未打开应用前追踪Android设备用户 
+## <a name="23"></a>23. 谷歌如何在用户未打开应用前追踪Android设备用户 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/04/google_android/): How Google tracks Android device users before they've even opened an app</small>
 
 
-| 🔥: 91 \| 💬: [55](https://news.ycombinator.com/item?id=43253167) \| 🗓️ 2025-03-04
+| 🔥: 93 \| 💬: [56](https://news.ycombinator.com/item?id=43253167) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -251,7 +299,7 @@ Mox 是一款**现代、安全**的邮件服务器，支持 IMAP4、SMTP、SPF�
 
 ---
 
-## <a name="20"></a>20. 检查悖论无处不在（2015） 
+## <a name="24"></a>24. 检查悖论无处不在（2015） 
 <small>🔗 [allendowney.blogspot.com](http://allendowney.blogspot.com/2015/08/the-inspection-paradox-is-everywhere.html): The inspection paradox is everywhere (2015)</small>
 
 
@@ -263,62 +311,14 @@ Mox 是一款**现代、安全**的邮件服务器，支持 IMAP4、SMTP、SPF�
 
 ---
 
-## <a name="21"></a>21. 时间旅行调试AI：让编码更可靠的利器 
+## <a name="25"></a>25. 时间旅行调试AI：让编码更可靠的利器 
 <small>🔗 [nut.new](https://nut.new): Show HN: Time travel debugging AI for more reliable vibe coding</small>
 
 
-| 🔥: 87 \| 💬: [38](https://news.ycombinator.com/item?id=43258585) \| 🗓️ 2025-03-04
+| 🔥: 90 \| 💬: [41](https://news.ycombinator.com/item?id=43258585) \| 🗓️ 2025-03-04
 
 
 <br />
 通过**时间旅行调试AI**，开发者可以轻松解决复杂Bug，确保应用正常运行。支持从聊天记录、文件夹或Git仓库导入代码，并提供多种项目示例，如使用React和Tailwind构建待办应用、用Astro创建博客、使用Material UI制作Cookie同意表单，甚至开发简单的HTML/CSS/JS游戏。
-
----
-
-## <a name="22"></a>22. 解决SICP：一个编程学习项目的深度剖析 
-<small>🔗 [lockywolf.wordpress.com](https://lockywolf.wordpress.com/2021/02/08/solving-sicp/): Solving SICP</small>
-
-
-| 🔥: 86 \| 💬: [21](https://news.ycombinator.com/item?id=43257963) \| 🗓️ 2025-03-04
-
-
-<br />
-本文详细记录了作者完成《计算机程序的构造与解释》（SICP）全部习题的过程，耗时**729小时19分钟**，涉及**6种编程语言**和**9个软件工具**。作者通过**时间追踪**和**任务管理**，提出了一套**高效的学习方法**，并分享了源代码和数据分析。该报告不仅为教学提供了参考，还为自学者提供了实用的学习策略。
-
----
-
-## <a name="23"></a>23. 微软推出医疗AI助手Dragon Copilot 
-<small>🔗 [theverge.com](https://www.theverge.com/news/622528/microsoft-dragon-copilot-ai-healthcare-assistant): Microsoft's new Dragon Copilot is an AI assistant for healthcare</small>
-
-
-| 🔥: 84 \| 💬: [87](https://news.ycombinator.com/item?id=43254012) \| 🗓️ 2025-03-04
-
-
-<br />
-微软发布了**Dragon Copilot**，这是一款专为医疗场景设计的AI助手，结合了语音听写和环境监听技术。它能够**自动生成临床访问笔记**，支持多语言环境下的自然语言听写，并提供**可信医疗信息搜索**。微软表示，该工具旨在减轻医护人员的行政负担，提升患者体验。
-
----
-
-## <a name="24"></a>24. 德国小镇采用新技术测试地热能发电 
-<small>🔗 [apnews.com](https://apnews.com/article/energy-transition-gas-geothermal-geretsried-germany-heat-electricity-89a356c70851938963314b3882377247): Small German town starts testing geothermal power utilizing new techniques</small>
-
-
-| 🔥: 82 \| 💬: [14](https://news.ycombinator.com/item?id=43256022) \| 🗓️ 2025-03-04
-
-
-<br />
-德国小镇**Geretsried**正在成为新一代**地热能技术**的试验场。15年前，传统地热能技术因无法找到足够的热水而失败，如今，公司如**Eavor**利用石油和天然气行业的技术，钻探更深以从干燥的热岩中提取热量。国际能源署认为，这种技术突破有望使地热能在全球能源格局中发挥更大作用。Geretsried项目将首先发电，随后为区域供热系统提供热能，目标是减少对化石燃料的依赖，应对气候变化。
-
----
-
-## <a name="25"></a>25. Mozilla 修改 Firefox 使用条款以回应用户质疑 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/03/mozilla-rewrites-firefoxs-terms-of-use-after-user-backlash/): Mozilla rewrites Firefox's Terms of Use after user backlash</small>
-
-
-| 🔥: 79 \| 💬: [115](https://news.ycombinator.com/item?id=43251762) \| 🗓️ 2025-03-04
-
-
-<br />
-Mozilla 因新**使用条款**引发用户不满后，重新修订了政策，澄清其对用户数据的处理方式。新条款明确表示，Mozilla 仅需用户数据以**运行 Firefox**，并不拥有数据所有权。此外，公司删除了引起混淆的**可接受使用政策**引用，并更新了隐私常见问题解答，以更好地解释法律术语。Mozilla 强调，共享的数据已去除个人身份信息，且用户可自行调整数据共享设置。
 
 ---
