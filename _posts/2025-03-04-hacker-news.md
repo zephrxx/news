@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [graz.io](https://www.graz.io/articles/bayleaf-wireless-keyboard): Show HN: Bayleaf – Building a low-profile wireless split keyboard</small>
 
 
-| 🔥🔥: 480 \| 💬: [149](https://news.ycombinator.com/item?id=43255529) \| 🗓️ 2025-03-04
+| 🔥🔥: 497 \| 💬: [156](https://news.ycombinator.com/item?id=43255529) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -39,7 +39,7 @@ Bayleaf 是一个专注于**低剖面设计**的**无线分体键盘**项目。�
 <small>🔗 [fabiensanglard.net](https://fabiensanglard.net/fastdoom/index.html): Why fastDOOM is fast</small>
 
 
-| 🔥🔥: 310 \| 💬: [82](https://news.ycombinator.com/item?id=43258709) \| 🗓️ 2025-03-04
+| 🔥🔥: 339 \| 💬: [95](https://news.ycombinator.com/item?id=43258709) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -51,7 +51,7 @@ fastDOOM通过优化代码和删除冗余功能，显著提升了经典游戏《
 <small>🔗 [cnn.com](https://www.cnn.com/2025/03/04/politics/federal-employees-return-to-office-problems/index.html): Federal workers ordered to return to offices without desks, Wi-Fi and lights</small>
 
 
-| 🔥🔥: 272 \| 💬: [316](https://news.ycombinator.com/item?id=43253562) \| 🗓️ 2025-03-04
+| 🔥🔥: 273 \| 💬: [320](https://news.ycombinator.com/item?id=43253562) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -63,7 +63,7 @@ fastDOOM通过优化代码和删除冗余功能，显著提升了经典游戏《
 <small>🔗 [ip4only.me](https://ip4only.me/): The owner of ip4.me/ip6.me, Kevin Loch, has died</small>
 
 
-| 🔥🔥: 264 \| 💬: [78](https://news.ycombinator.com/item?id=43256298) \| 🗓️ 2025-03-04
+| 🔥🔥: 265 \| 💬: [78](https://news.ycombinator.com/item?id=43256298) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -87,7 +87,7 @@ fastDOOM通过优化代码和删除冗余功能，显著提升了经典游戏《
 <small>🔗 [tech.marksblogg.com](https://tech.marksblogg.com/satellogic-open-data-feed.html): Satellogic's Open Satellite Feed</small>
 
 
-| 🔥🔥: 174 \| 💬: [10](https://news.ycombinator.com/item?id=43256349) \| 🗓️ 2025-03-04
+| 🔥🔥: 183 \| 💬: [10](https://news.ycombinator.com/item?id=43256349) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -99,7 +99,7 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 <small>🔗 [iliao2345.github.io](https://iliao2345.github.io/blog_posts/arc_agi_without_pretraining/arc_agi_without_pretraining.html): ARC-AGI without pretraining</small>
 
 
-| 🔥🔥: 159 \| 💬: [36](https://news.ycombinator.com/item?id=43259182) \| 🗓️ 2025-03-04
+| 🔥🔥: 183 \| 💬: [37](https://news.ycombinator.com/item?id=43259182) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -111,7 +111,7 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2405.02318): Translating natural language to first-order logic for logical fallacy detection</small>
 
 
-| 🔥🔥: 153 \| 💬: [81](https://news.ycombinator.com/item?id=43257719) \| 🗓️ 2025-03-04
+| 🔥🔥: 157 \| 💬: [83](https://news.ycombinator.com/item?id=43257719) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -123,7 +123,7 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 <small>🔗 [davidwong.fr](https://davidwong.fr/blockbreakers/): Learn How to Break AES</small>
 
 
-| 🔥🔥: 139 \| 💬: [33](https://news.ycombinator.com/item?id=43257583) \| 🗓️ 2025-03-04
+| 🔥🔥: 144 \| 💬: [37](https://news.ycombinator.com/item?id=43257583) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -131,23 +131,11 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="10"></a>10. DIY“无限对比度”电视——100%使用回收零件 [视频] 
-<small>🔗 [youtube.com](https://www.youtube.com/watch?v=qXrn4MqY1Wo): DIY "infinity contrast" TV – with 100% recycled parts [video]</small>
-
-
-| 🔥🔥: 103 \| 💬: [54](https://news.ycombinator.com/item?id=43255446) \| 🗓️ 2025-03-04
-
-
-<br />
-这段视频展示了如何用**100%回收零件**制作一台“无限对比度”电视。通过**创意设计和环保理念**，视频详细介绍了制作过程，强调了**可持续性和创新**的结合。适合对DIY和环保技术感兴趣的观众。
-
----
-
-## <a name="11"></a>11. 管理者是否应该继续写代码？ 
+## <a name="10"></a>10. 管理者是否应该继续写代码？ 
 <small>🔗 [theengineeringmanager.substack.com](https://theengineeringmanager.substack.com/p/should-managers-still-code): Should managers still code?</small>
 
 
-| 🔥: 97 \| 💬: [145](https://news.ycombinator.com/item?id=43256113) \| 🗓️ 2025-03-04
+| 🔥🔥: 115 \| 💬: [168](https://news.ycombinator.com/item?id=43256113) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -155,7 +143,43 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="12"></a>12. 特斯拉在澳大利亚销量再次暴跌，Model 3下降超81% 
+## <a name="11"></a>11. DIY“无限对比度”电视——100%使用回收零件 [视频] 
+<small>🔗 [youtube.com](https://www.youtube.com/watch?v=qXrn4MqY1Wo): DIY "infinity contrast" TV – with 100% recycled parts [video]</small>
+
+
+| 🔥🔥: 104 \| 💬: [54](https://news.ycombinator.com/item?id=43255446) \| 🗓️ 2025-03-04
+
+
+<br />
+这段视频展示了如何用**100%回收零件**制作一台“无限对比度”电视。通过**创意设计和环保理念**，视频详细介绍了制作过程，强调了**可持续性和创新**的结合。适合对DIY和环保技术感兴趣的观众。
+
+---
+
+## <a name="12"></a>12. Claude-code 分叉版：支持本地及其他 LLM 提供者 
+<small>🔗 [github.com](https://github.com/dnakov/anon-kode): Show HN: Fork of Claude-code working with local and other LLM providers</small>
+
+
+| 🔥: 98 \| 💬: [19](https://news.ycombinator.com/item?id=43254351) \| 🗓️ 2025-03-04
+
+
+<br />
+这是一个基于终端的 AI 编程工具，支持任何兼容 **OpenAI 风格 API** 的模型。它可以帮助修复代码、解释函数功能、运行测试等。使用前需通过 `/config` 配置，之后即可直接使用。**所有遥测数据已移除**，使用风险自负。
+
+---
+
+## <a name="13"></a>13. 苹果推出搭载M3芯片的全新iPad Air及Magic Keyboard 
+<small>🔗 [apple.com](https://www.apple.com/newsroom/2025/03/apple-introduces-ipad-air-with-powerful-m3-chip-and-new-magic-keyboard/): Apple introduces iPad Air with powerful M3 chip and new Magic Keyboard</small>
+
+
+| 🔥: 98 \| 💬: [224](https://news.ycombinator.com/item?id=43254714) \| 🗓️ 2025-03-04
+
+
+<br />
+苹果发布了全新**iPad Air**，搭载**M3芯片**，性能大幅提升，图形处理能力增强40%，支持动态缓存和光线追踪。新款**Magic Keyboard**价格更低，功能更强大，配备14键功能行和更大触控板。iPad Air支持**Apple Intelligence**，提供AI增强功能，如照片清理和图像生成。11英寸和13英寸型号起售价分别为599美元和799美元，教育优惠更低。
+
+---
+
+## <a name="14"></a>14. 特斯拉在澳大利亚销量再次暴跌，Model 3下降超81% 
 <small>🔗 [thedriven.io](https://thedriven.io/2025/03/04/tesla-electric-car-sales-plunge-again-in-australia-model-3-down-more-than-81-per-cent/): Tesla electric car sales plunge again in Australia – Model 3 down more than 81 p</small>
 
 
@@ -167,35 +191,23 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="13"></a>13. 苹果推出搭载M3芯片的全新iPad Air及Magic Keyboard 
-<small>🔗 [apple.com](https://www.apple.com/newsroom/2025/03/apple-introduces-ipad-air-with-powerful-m3-chip-and-new-magic-keyboard/): Apple introduces iPad Air with powerful M3 chip and new Magic Keyboard</small>
+## <a name="15"></a>15. 螃蟹被捕食前的最后一瞥：乌贼的伪装艺术 
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/03/03/science/cuttlefish-camouflage-huting-crabs.html): What a crab sees before it gets eaten by a cuttlefish</small>
 
 
-| 🔥: 96 \| 💬: [222](https://news.ycombinator.com/item?id=43254714) \| 🗓️ 2025-03-04
-
-
-<br />
-苹果发布了全新**iPad Air**，搭载**M3芯片**，性能大幅提升，图形处理能力增强40%，支持动态缓存和光线追踪。新款**Magic Keyboard**价格更低，功能更强大，配备14键功能行和更大触控板。iPad Air支持**Apple Intelligence**，提供AI增强功能，如照片清理和图像生成。11英寸和13英寸型号起售价分别为599美元和799美元，教育优惠更低。
-
----
-
-## <a name="14"></a>14. Claude-code 分叉版：支持本地及其他 LLM 提供者 
-<small>🔗 [github.com](https://github.com/dnakov/anon-kode): Show HN: Fork of Claude-code working with local and other LLM providers</small>
-
-
-| 🔥: 90 \| 💬: [18](https://news.ycombinator.com/item?id=43254351) \| 🗓️ 2025-03-04
+| 🔥: 93 \| 💬: [24](https://news.ycombinator.com/item?id=43254995) \| 🗓️ 2025-03-04
 
 
 <br />
-这是一个基于终端的 AI 编程工具，支持任何兼容 **OpenAI 风格 API** 的模型。它可以帮助修复代码、解释函数功能、运行测试等。使用前需通过 `/config` 配置，之后即可直接使用。**所有遥测数据已移除**，使用风险自负。
+2023年5月，英国布里斯托大学的海洋视觉生态学家Matteo Santon在印度尼西亚浅海礁石拍摄乌贼捕食过程，试图从猎物视角观察乌贼的捕猎策略。研究发现，乌贼在捕食时展示了四种复杂的**伪装模式**，如模仿漂浮的树叶或珊瑚，可能通过“欺骗”螃蟹的视觉系统来隐藏自身或伪装成无害的生物。乌贼的皮肤含有色素细胞和肌肉泵，能迅速改变颜色和纹理，使其成为**伪装大师**。这项研究揭示了乌贼在野外捕食时的复杂行为，此前多在实验室中观察到。
 
 ---
 
-## <a name="15"></a>15. 谷歌如何在用户未打开应用前追踪Android设备用户 
+## <a name="16"></a>16. 谷歌如何在用户未打开应用前追踪Android设备用户 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/04/google_android/): How Google tracks Android device users before they've even opened an app</small>
 
 
-| 🔥: 89 \| 💬: [54](https://news.ycombinator.com/item?id=43253167) \| 🗓️ 2025-03-04
+| 🔥: 90 \| 💬: [54](https://news.ycombinator.com/item?id=43253167) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -203,7 +215,7 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="16"></a>16. 微软推出医疗AI助手Dragon Copilot 
+## <a name="17"></a>17. 微软推出医疗AI助手Dragon Copilot 
 <small>🔗 [theverge.com](https://www.theverge.com/news/622528/microsoft-dragon-copilot-ai-healthcare-assistant): Microsoft's new Dragon Copilot is an AI assistant for healthcare</small>
 
 
@@ -215,7 +227,7 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="17"></a>17. 德国小镇采用新技术测试地热能发电 
+## <a name="18"></a>18. 德国小镇采用新技术测试地热能发电 
 <small>🔗 [apnews.com](https://apnews.com/article/energy-transition-gas-geothermal-geretsried-germany-heat-electricity-89a356c70851938963314b3882377247): Small German town starts testing geothermal power utilizing new techniques</small>
 
 
@@ -227,7 +239,7 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 ---
 
-## <a name="18"></a>18. Mozilla 修改 Firefox 使用条款以回应用户质疑 
+## <a name="19"></a>19. Mozilla 修改 Firefox 使用条款以回应用户质疑 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/03/mozilla-rewrites-firefoxs-terms-of-use-after-user-backlash/): Mozilla rewrites Firefox's Terms of Use after user backlash</small>
 
 
@@ -236,18 +248,6 @@ Satellogic是一家卫星设计、制造和星座运营公司，成立于2010年
 
 <br />
 Mozilla 因新**使用条款**引发用户不满后，重新修订了政策，澄清其对用户数据的处理方式。新条款明确表示，Mozilla 仅需用户数据以**运行 Firefox**，并不拥有数据所有权。此外，公司删除了引起混淆的**可接受使用政策**引用，并更新了隐私常见问题解答，以更好地解释法律术语。Mozilla 强调，共享的数据已去除个人身份信息，且用户可自行调整数据共享设置。
-
----
-
-## <a name="19"></a>19. 螃蟹被捕食前的最后一瞥：乌贼的伪装艺术 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/03/03/science/cuttlefish-camouflage-huting-crabs.html): What a crab sees before it gets eaten by a cuttlefish</small>
-
-
-| 🔥: 79 \| 💬: [21](https://news.ycombinator.com/item?id=43254995) \| 🗓️ 2025-03-04
-
-
-<br />
-2023年5月，英国布里斯托大学的海洋视觉生态学家Matteo Santon在印度尼西亚浅海礁石拍摄乌贼捕食过程，试图从猎物视角观察乌贼的捕猎策略。研究发现，乌贼在捕食时展示了四种复杂的**伪装模式**，如模仿漂浮的树叶或珊瑚，可能通过“欺骗”螃蟹的视觉系统来隐藏自身或伪装成无害的生物。乌贼的皮肤含有色素细胞和肌肉泵，能迅速改变颜色和纹理，使其成为**伪装大师**。这项研究揭示了乌贼在野外捕食时的复杂行为，此前多在实验室中观察到。
 
 ---
 
@@ -263,23 +263,11 @@ Mozilla 因新**使用条款**引发用户不满后，重新修订了政策，�
 
 ---
 
-## <a name="21"></a>21. Appstat – Windows 进程监控工具 
-<small>🔗 [pragmar.com](https://pragmar.com/appstat/): Show HN: Appstat – Process Monitor for Windows</small>
-
-
-| 🔥: 70 \| 💬: [15](https://news.ycombinator.com/item?id=43255855) \| 🗓️ 2025-03-04
-
-
-<br />
-Appstat 是一款专为开发者设计的 **实时进程监控工具**，可监控 CPU、内存、磁盘和线程等资源使用情况。它提供简洁的图形界面，帮助快速识别性能瓶颈、内存泄漏等问题，且不影响工作流程。支持 **暗黑/亮色模式**、置顶显示和日志导出功能，完全免费且无需注册。相比 Windows 自带的任务管理器和进程监视器，Appstat 更简单易用，适合长期监控单个应用程序。
-
----
-
-## <a name="22"></a>22. 检查悖论无处不在（2015） 
+## <a name="21"></a>21. 检查悖论无处不在（2015） 
 <small>🔗 [allendowney.blogspot.com](http://allendowney.blogspot.com/2015/08/the-inspection-paradox-is-everywhere.html): The inspection paradox is everywhere (2015)</small>
 
 
-| 🔥: 65 \| 💬: [15](https://news.ycombinator.com/item?id=43257358) \| 🗓️ 2025-03-04
+| 🔥: 73 \| 💬: [22](https://news.ycombinator.com/item?id=43257358) \| 🗓️ 2025-03-04
 
 
 <br />
@@ -287,7 +275,31 @@ Appstat 是一款专为开发者设计的 **实时进程监控工具**，可监�
 
 ---
 
-## <a name="23"></a>23. 2025年2月：postmarketOS 的新进展与更名计划 
+## <a name="22"></a>22. Appstat – Windows 进程监控工具 
+<small>🔗 [pragmar.com](https://pragmar.com/appstat/): Show HN: Appstat – Process Monitor for Windows</small>
+
+
+| 🔥: 71 \| 💬: [16](https://news.ycombinator.com/item?id=43255855) \| 🗓️ 2025-03-04
+
+
+<br />
+Appstat 是一款专为开发者设计的 **实时进程监控工具**，可监控 CPU、内存、磁盘和线程等资源使用情况。它提供简洁的图形界面，帮助快速识别性能瓶颈、内存泄漏等问题，且不影响工作流程。支持 **暗黑/亮色模式**、置顶显示和日志导出功能，完全免费且无需注册。相比 Windows 自带的任务管理器和进程监视器，Appstat 更简单易用，适合长期监控单个应用程序。
+
+---
+
+## <a name="23"></a>23. 解决SICP：一个编程学习项目的深度剖析 
+<small>🔗 [lockywolf.wordpress.com](https://lockywolf.wordpress.com/2021/02/08/solving-sicp/): Solving SICP</small>
+
+
+| 🔥: 68 \| 💬: [18](https://news.ycombinator.com/item?id=43257963) \| 🗓️ 2025-03-04
+
+
+<br />
+本文详细记录了作者完成《计算机程序的构造与解释》（SICP）全部习题的过程，耗时**729小时19分钟**，涉及**6种编程语言**和**9个软件工具**。作者通过**时间追踪**和**任务管理**，提出了一套**高效的学习方法**，并分享了源代码和数据分析。该报告不仅为教学提供了参考，还为自学者提供了实用的学习策略。
+
+---
+
+## <a name="24"></a>24. 2025年2月：postmarketOS 的新进展与更名计划 
 <small>🔗 [postmarketos.org](https://postmarketos.org/blog/2025/03/04/pmOS-update-2025-02/): PostmarketOS in 2025-02: MSM89x7 Audio, Modern Xiaomis in Community, New Name</small>
 
 
@@ -299,11 +311,11 @@ Appstat 是一款专为开发者设计的 **实时进程监控工具**，可监�
 
 ---
 
-## <a name="24"></a>24. DiffRhythm：基于潜在扩散的快速端到端全曲生成 
+## <a name="25"></a>25. DiffRhythm：基于潜在扩散的快速端到端全曲生成 
 <small>🔗 [aslp-lab.github.io](https://aslp-lab.github.io/DiffRhythm.github.io/): DiffRhythm: Fast End-to-End Full-Length Song Generation with Latent Diffusion</small>
 
 
-| 🔥: 62 \| 💬: [95](https://news.ycombinator.com/item?id=43255467) \| 🗓️ 2025-03-04
+| 🔥: 63 \| 💬: [95](https://news.ycombinator.com/item?id=43255467) \| 🗓️ 2025-03-04
 
 
 <br />
