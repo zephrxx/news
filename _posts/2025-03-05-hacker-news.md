@@ -27,7 +27,7 @@ tags:
 <small>🔗 [apple.com](https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/): Apple M3 Ultra</small>
 
 
-| 🔥🔥: 785 \| 💬: [757](https://news.ycombinator.com/item?id=43266453) \| 🗓️ 2025-03-05
+| 🔥🔥: 813 \| 💬: [772](https://news.ycombinator.com/item?id=43266453) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [apple.com](https://www.apple.com/macbook-air/): MacBook Air M4</small>
 
 
-| 🔥🔥: 458 \| 💬: [533](https://news.ycombinator.com/item?id=43266537) \| 🗓️ 2025-03-05
+| 🔥🔥: 477 \| 💬: [566](https://news.ycombinator.com/item?id=43266537) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -51,7 +51,7 @@ MacBook Air M4 采用**超过50%的回收材料**制成，拥有耐用的再生�
 <small>🔗 [awards.acm.org](https://awards.acm.org/about/2024-turing): Richard Sutton and Andrew Barto Win 2024 Turing Award</small>
 
 
-| 🔥🔥: 441 \| 💬: [100](https://news.ycombinator.com/item?id=43264847) \| 🗓️ 2025-03-05
+| 🔥🔥: 450 \| 💬: [100](https://news.ycombinator.com/item?id=43264847) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -63,7 +63,7 @@ ACM宣布将2024年图灵奖授予**安德鲁·巴托**和**理查德·萨顿**�
 <small>🔗 [blog.6nok.org](https://blog.6nok.org/tailscale-is-pretty-useful/): Tailscale is pretty useful</small>
 
 
-| 🔥🔥: 385 \| 💬: [221](https://news.ycombinator.com/item?id=43270835) \| 🗓️ 2025-03-05
+| 🔥🔥: 422 \| 💬: [240](https://news.ycombinator.com/item?id=43270835) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -75,7 +75,7 @@ ACM宣布将2024年图灵奖授予**安德鲁·巴托**和**理查德·萨顿**�
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/): Apple takes UK to court over 'backdoor' order</small>
 
 
-| 🔥🔥: 333 \| 💬: [97](https://news.ycombinator.com/item?id=43270079) \| 🗓️ 2025-03-05
+| 🔥🔥: 348 \| 💬: [101](https://news.ycombinator.com/item?id=43270079) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -87,7 +87,7 @@ ACM宣布将2024年图灵奖授予**安德鲁·巴托**和**理查德·萨顿**�
 <small>🔗 [apple.com](https://www.apple.com/newsroom/2025/03/apple-unveils-new-mac-studio-the-most-powerful-mac-ever/): Apple unveils new Mac Studio</small>
 
 
-| 🔥🔥: 292 \| 💬: [238](https://news.ycombinator.com/item?id=43266474) \| 🗓️ 2025-03-05
+| 🔥🔥: 297 \| 💬: [244](https://news.ycombinator.com/item?id=43266474) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -99,7 +99,7 @@ ACM宣布将2024年图灵奖授予**安德鲁·巴托**和**理查德·萨顿**�
 <small>🔗 [nasa.gov](https://www.nasa.gov/general/nasa-successfully-acquires-gps-signals-on-moon/): NASA Successfully Acquires GPS Signals on Moon</small>
 
 
-| 🔥🔥: 268 \| 💬: [146](https://news.ycombinator.com/item?id=43265303) \| 🗓️ 2025-03-05
+| 🔥🔥: 270 \| 💬: [148](https://news.ycombinator.com/item?id=43265303) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -111,7 +111,7 @@ NASA与意大利航天局合作，通过**Lunar GNSS Receiver Experiment (LuGRE)
 <small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwq-32b/): QwQ-32B: Embracing the Power of Reinforcement Learning</small>
 
 
-| 🔥🔥: 205 \| 💬: [61](https://news.ycombinator.com/item?id=43270843) \| 🗓️ 2025-03-05
+| 🔥🔥: 225 \| 💬: [66](https://news.ycombinator.com/item?id=43270843) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -123,7 +123,7 @@ QwQ-32B 是一款拥有 **32亿参数** 的模型，通过**强化学习（RL）
 <small>🔗 [alecmuffett.com](https://alecmuffett.com/article/112522): NCSC, GCHQ, UK Gov't expunge advice to "use Apple encryption"</small>
 
 
-| 🔥🔥: 197 \| 💬: [72](https://news.ycombinator.com/item?id=43271177) \| 🗓️ 2025-03-05
+| 🔥🔥: 206 \| 💬: [78](https://news.ycombinator.com/item?id=43271177) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -135,7 +135,7 @@ QwQ-32B 是一款拥有 **32亿参数** 的模型，通过**强化学习（RL）
 <small>🔗 [newsletter.posthog.com](https://newsletter.posthog.com/p/50-things-weve-learned-about-building): Things we've learned about building products</small>
 
 
-| 🔥🔥: 182 \| 💬: [55](https://news.ycombinator.com/item?id=43267095) \| 🗓️ 2025-03-05
+| 🔥🔥: 190 \| 💬: [58](https://news.ycombinator.com/item?id=43267095) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -143,7 +143,31 @@ QwQ-32B 是一款拥有 **32亿参数** 的模型，通过**强化学习（RL）
 
 ---
 
-## <a name="11"></a>11. 欧洲海底电缆遭袭？警惕“影子舰队”与水下破坏 
+## <a name="11"></a>11. 三年后，我的Beancount账本实现了95%自动化（2024） 
+<small>🔗 [fangpenlin.com](https://fangpenlin.com/posts/2024/12/30/my-beancount-books-are-95-percent-automatic/): My Beancount books are 95% automatic after 3 years (2024)</small>
+
+
+| 🔥🔥: 173 \| 💬: [77](https://news.ycombinator.com/item?id=43268454) \| 🗓️ 2025-03-05
+
+
+<br />
+作者分享了他三年来开发**BeanHub**的经历，这是一个基于**Beancount**的自动化会计工具。通过**开源**和**文件优先**的理念，他成功实现了账本的自动化更新，并吸引了付费用户。尽管面临技术挑战和竞争风险，他坚持开源并构建了一个基于Git的系统，确保了数据的安全性和开放性。
+
+---
+
+## <a name="12"></a>12. MS Paint IDE：用画图工具编程的神器 
+<small>🔗 [ms-paint-i.de](https://ms-paint-i.de/): MS Paint IDE</small>
+
+
+| 🔥🔥: 172 \| 💬: [54](https://news.ycombinator.com/item?id=43265431) \| 🗓️ 2025-03-05
+
+
+<br />
+MS Paint IDE 是一款能将**MS Paint保存的图像文件**转换为文本并高亮显示的工具，支持代码解析、编译和执行。它提供了简洁的界面，支持外部库和多类编程，具备**Git功能**和**主题自定义**。作为**开源项目**，它易于上手且兼容性强，适合快速分享代码。
+
+---
+
+## <a name="13"></a>13. 欧洲海底电缆遭袭？警惕“影子舰队”与水下破坏 
 <small>🔗 [theguardian.com](https://www.theguardian.com/world/ng-interactive/2025/mar/05/shadow-fleets-subaquatic-sabotage-europe-undersea-internet-cables-under-attack): 'Shadow fleets' and sabotage: are Europe's undersea cables under attack?</small>
 
 
@@ -155,23 +179,11 @@ QwQ-32B 是一款拥有 **32亿参数** 的模型，通过**强化学习（RL）
 
 ---
 
-## <a name="12"></a>12. 三年后，我的Beancount账本实现了95%自动化（2024） 
-<small>🔗 [fangpenlin.com](https://fangpenlin.com/posts/2024/12/30/my-beancount-books-are-95-percent-automatic/): My Beancount books are 95% automatic after 3 years (2024)</small>
-
-
-| 🔥🔥: 166 \| 💬: [76](https://news.ycombinator.com/item?id=43268454) \| 🗓️ 2025-03-05
-
-
-<br />
-作者分享了他三年来开发**BeanHub**的经历，这是一个基于**Beancount**的自动化会计工具。通过**开源**和**文件优先**的理念，他成功实现了账本的自动化更新，并吸引了付费用户。尽管面临技术挑战和竞争风险，他坚持开源并构建了一个基于Git的系统，确保了数据的安全性和开放性。
-
----
-
-## <a name="13"></a>13. 天网胜利并毁灭了人类 
+## <a name="14"></a>14. 天网胜利并毁灭了人类 
 <small>🔗 [dmathieu.com](https://dmathieu.com/en/opinions/skynet-won/): Skynet won and destroyed humanity</small>
 
 
-| 🔥🔥: 166 \| 💬: [111](https://news.ycombinator.com/item?id=43270687) \| 🗓️ 2025-03-05
+| 🔥🔥: 168 \| 💬: [113](https://news.ycombinator.com/item?id=43270687) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -179,35 +191,11 @@ QwQ-32B 是一款拥有 **32亿参数** 的模型，通过**强化学习（RL）
 
 ---
 
-## <a name="14"></a>14. Jeep车主对车内弹窗广告忍无可忍 
-<small>🔗 [kbb.com](https://www.kbb.com/car-news/jeep-owners-fed-up-with-in-car-pop-up-ads/): Jeep owners fed up with in-car pop-up ads</small>
-
-
-| 🔥🔥: 160 \| 💬: [194](https://news.ycombinator.com/item?id=43272453) \| 🗓️ 2025-03-05
-
-
-<br />
-Jeep车主近日在社交媒体上抱怨，**车内信息娱乐屏幕**频繁弹出**延长保修广告**，甚至在每次停车时都会出现。尽管广告称仅适用于里程低于36,000英里的车辆，但超过此限制的车主也收到了广告。Jeep母公司Stellantis表示这是**软件故障**，已修复并联系受影响用户。此事件引发了对**车内隐私**的担忧，福特等公司也曾探索类似广告系统，但遭到反对。
-
----
-
-## <a name="15"></a>15. MS Paint IDE：用画图工具编程的神器 
-<small>🔗 [ms-paint-i.de](https://ms-paint-i.de/): MS Paint IDE</small>
-
-
-| 🔥🔥: 159 \| 💬: [53](https://news.ycombinator.com/item?id=43265431) \| 🗓️ 2025-03-05
-
-
-<br />
-MS Paint IDE 是一款能将**MS Paint保存的图像文件**转换为文本并高亮显示的工具，支持代码解析、编译和执行。它提供了简洁的界面，支持外部库和多类编程，具备**Git功能**和**主题自定义**。作为**开源项目**，它易于上手且兼容性强，适合快速分享代码。
-
----
-
-## <a name="16"></a>16. Lynx：抖音使用的开源跨平台框架 
+## <a name="15"></a>15. Lynx：抖音使用的开源跨平台框架 
 <small>🔗 [lynxjs.org](https://lynxjs.org/blog/lynx-unlock-native-for-more.html): Lynx: Open Source Native Cross Platform framework used in TikTok</small>
 
 
-| 🔥🔥: 156 \| 💬: [62](https://news.ycombinator.com/item?id=43264957) \| 🗓️ 2025-03-05
+| 🔥🔥: 166 \| 💬: [62](https://news.ycombinator.com/item?id=43264957) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -215,27 +203,39 @@ Lynx 是一个**开源**的**跨平台**框架，旨在帮助开发者以更快�
 
 ---
 
-## <a name="17"></a>17. 昔日互联网明星Digg的回归 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/03/05/technology/digg-alexis-ohanian-kevin-rose.html): The Return of Digg, a Star of an Earlier Internet Era</small>
+## <a name="16"></a>16. Jeep车主对车内弹窗广告忍无可忍 
+<small>🔗 [kbb.com](https://www.kbb.com/car-news/jeep-owners-fed-up-with-in-car-pop-up-ads/): Jeep owners fed up with in-car pop-up ads</small>
 
 
-| 🔥🔥: 143 \| 💬: [194](https://news.ycombinator.com/item?id=43265521) \| 🗓️ 2025-03-05
+| 🔥🔥: 166 \| 💬: [203](https://news.ycombinator.com/item?id=43272453) \| 🗓️ 2025-03-05
 
 
 <br />
-2005年，Alexis Ohanian和Steve Huffman创立了Reddit，与Digg展开竞争。20年后，Digg创始人**Kevin Rose**从Money Group手中回购了Digg，并计划与**Alexis Ohanian**合作重新打造这一平台。Rose认为，当前社交媒体环境已不再需要“赢家通吃”，Digg的回归旨在与Reddit共存。这一举动正值社交媒体领域动荡之际，**Elon Musk**的X、Meta的视频化转型以及Reddit的上市都加剧了竞争。
+Jeep车主近日在社交媒体上抱怨，**车内信息娱乐屏幕**频繁弹出**延长保修广告**，甚至在每次停车时都会出现。尽管广告称仅适用于里程低于36,000英里的车辆，但超过此限制的车主也收到了广告。Jeep母公司Stellantis表示这是**软件故障**，已修复并联系受影响用户。此事件引发了对**车内隐私**的担忧，福特等公司也曾探索类似广告系统，但遭到反对。
 
 ---
 
-## <a name="18"></a>18. 不使用Git托管平台的Git工作流 
+## <a name="17"></a>17. 不使用Git托管平台的Git工作流 
 <small>🔗 [chiark.greenend.org.uk](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/): Git without a forge</small>
 
 
-| 🔥🔥: 128 \| 💬: [43](https://news.ycombinator.com/item?id=43272275) \| 🗓️ 2025-03-05
+| 🔥🔥: 152 \| 💬: [50](https://news.ycombinator.com/item?id=43272275) \| 🗓️ 2025-03-05
 
 
 <br />
 本文探讨了作者为何选择不使用Git托管平台（如GitLab或GitHub），而是直接在个人网站上托管**裸Git仓库**。作者详细介绍了如何与裸Git仓库交互，并分享了他接收补丁的偏好：**最佳方式是通过URL和分支名**，其次是增量Git包或补丁文件。作者还解释了不使用托管平台的原因，包括**信任问题**、平台过于复杂、账户管理繁琐以及不愿被强加工作流程。
+
+---
+
+## <a name="18"></a>18. 昔日互联网明星Digg的回归 
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/03/05/technology/digg-alexis-ohanian-kevin-rose.html): The Return of Digg, a Star of an Earlier Internet Era</small>
+
+
+| 🔥🔥: 145 \| 💬: [203](https://news.ycombinator.com/item?id=43265521) \| 🗓️ 2025-03-05
+
+
+<br />
+2005年，Alexis Ohanian和Steve Huffman创立了Reddit，与Digg展开竞争。20年后，Digg创始人**Kevin Rose**从Money Group手中回购了Digg，并计划与**Alexis Ohanian**合作重新打造这一平台。Rose认为，当前社交媒体环境已不再需要“赢家通吃”，Digg的回归旨在与Reddit共存。这一举动正值社交媒体领域动荡之际，**Elon Musk**的X、Meta的视频化转型以及Reddit的上市都加剧了竞争。
 
 ---
 
@@ -255,7 +255,7 @@ Lynx 是一个**开源**的**跨平台**框架，旨在帮助开发者以更快�
 <small>🔗 [news.mit.edu](https://news.mit.edu/2025/study-healing-ozone-hole-global-reduction-cfcs-0305): Study: The ozone hole is healing, thanks to global reduction of CFCs</small>
 
 
-| 🔥🔥: 108 \| 💬: [43](https://news.ycombinator.com/item?id=43270495) \| 🗓️ 2025-03-05
+| 🔥🔥: 110 \| 💬: [43](https://news.ycombinator.com/item?id=43270495) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -279,7 +279,7 @@ Lynx 是一个**开源**的**跨平台**框架，旨在帮助开发者以更快�
 <small>🔗 [drubinstein.github.io](https://drubinstein.github.io/pokerl/): Show HN: Beating Pokemon Red with RL and <10M Parameters</small>
 
 
-| 🔥: 90 \| 💬: [44](https://news.ycombinator.com/item?id=43269330) \| 🗓️ 2025-03-05
+| 🔥: 95 \| 💬: [44](https://news.ycombinator.com/item?id=43269330) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -291,7 +291,7 @@ Lynx 是一个**开源**的**跨平台**框架，旨在帮助开发者以更快�
 <small>🔗 [theguardian.com](https://www.theguardian.com/global/ng-interactive/2025/mar/05/zizians-artificial-intelligence): They wanted to save us from a dark AI future. Then six people were killed</small>
 
 
-| 🔥: 80 \| 💬: [53](https://news.ycombinator.com/item?id=43265794) \| 🗓️ 2025-03-05
+| 🔥: 80 \| 💬: [54](https://news.ycombinator.com/item?id=43265794) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -303,7 +303,7 @@ Lynx 是一个**开源**的**跨平台**框架，旨在帮助开发者以更快�
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/03/strategic-cryptocurrency-reserve-swindle/681917/): The Strategic Crypto Swindle</small>
 
 
-| 🔥: 78 \| 💬: [105](https://news.ycombinator.com/item?id=43270398) \| 🗓️ 2025-03-05
+| 🔥: 79 \| 💬: [106](https://news.ycombinator.com/item?id=43270398) \| 🗓️ 2025-03-05
 
 
 <br />
