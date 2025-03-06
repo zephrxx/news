@@ -27,7 +27,7 @@ tags:
 <small>🔗 [apple.com](https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/): Apple M3 Ultra</small>
 
 
-| 🔥🔥: 849 \| 💬: [793](https://news.ycombinator.com/item?id=43266453) \| 🗓️ 2025-03-05
+| 🔥🔥: 871 \| 💬: [804](https://news.ycombinator.com/item?id=43266453) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [apple.com](https://www.apple.com/macbook-air/): MacBook Air M4</small>
 
 
-| 🔥🔥: 505 \| 💬: [600](https://news.ycombinator.com/item?id=43266537) \| 🗓️ 2025-03-05
+| 🔥🔥: 523 \| 💬: [613](https://news.ycombinator.com/item?id=43266537) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -51,7 +51,7 @@ MacBook Air M4 采用**超过50%的回收材料**制成，拥有耐用的再生�
 <small>🔗 [blog.6nok.org](https://blog.6nok.org/tailscale-is-pretty-useful/): Tailscale is pretty useful</small>
 
 
-| 🔥🔥: 475 \| 💬: [262](https://news.ycombinator.com/item?id=43270835) \| 🗓️ 2025-03-05
+| 🔥🔥: 497 \| 💬: [271](https://news.ycombinator.com/item?id=43270835) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -63,7 +63,7 @@ MacBook Air M4 采用**超过50%的回收材料**制成，拥有耐用的再生�
 <small>🔗 [awards.acm.org](https://awards.acm.org/about/2024-turing): Richard Sutton and Andrew Barto Win 2024 Turing Award</small>
 
 
-| 🔥🔥: 463 \| 💬: [100](https://news.ycombinator.com/item?id=43264847) \| 🗓️ 2025-03-05
+| 🔥🔥: 466 \| 💬: [100](https://news.ycombinator.com/item?id=43264847) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -75,7 +75,7 @@ ACM宣布将2024年图灵奖授予**安德鲁·巴托**和**理查德·萨顿**�
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/): Apple takes UK to court over 'backdoor' order</small>
 
 
-| 🔥🔥: 384 \| 💬: [110](https://news.ycombinator.com/item?id=43270079) \| 🗓️ 2025-03-05
+| 🔥🔥: 398 \| 💬: [116](https://news.ycombinator.com/item?id=43270079) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -87,7 +87,7 @@ ACM宣布将2024年图灵奖授予**安德鲁·巴托**和**理查德·萨顿**�
 <small>🔗 [apple.com](https://www.apple.com/newsroom/2025/03/apple-unveils-new-mac-studio-the-most-powerful-mac-ever/): Apple unveils new Mac Studio</small>
 
 
-| 🔥🔥: 303 \| 💬: [249](https://news.ycombinator.com/item?id=43266474) \| 🗓️ 2025-03-05
+| 🔥🔥: 305 \| 💬: [250](https://news.ycombinator.com/item?id=43266474) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -99,7 +99,7 @@ ACM宣布将2024年图灵奖授予**安德鲁·巴托**和**理查德·萨顿**�
 <small>🔗 [nasa.gov](https://www.nasa.gov/general/nasa-successfully-acquires-gps-signals-on-moon/): NASA Successfully Acquires GPS Signals on Moon</small>
 
 
-| 🔥🔥: 275 \| 💬: [149](https://news.ycombinator.com/item?id=43265303) \| 🗓️ 2025-03-05
+| 🔥🔥: 278 \| 💬: [149](https://news.ycombinator.com/item?id=43265303) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -111,7 +111,7 @@ NASA与意大利航天局合作，通过**Lunar GNSS Receiver Experiment (LuGRE)
 <small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwq-32b/): QwQ-32B: Embracing the Power of Reinforcement Learning</small>
 
 
-| 🔥🔥: 259 \| 💬: [71](https://news.ycombinator.com/item?id=43270843) \| 🗓️ 2025-03-05
+| 🔥🔥: 266 \| 💬: [72](https://news.ycombinator.com/item?id=43270843) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -123,7 +123,7 @@ QwQ-32B 是一款拥有 **32亿参数** 的模型，通过**强化学习（RL）
 <small>🔗 [alecmuffett.com](https://alecmuffett.com/article/112522): NCSC, GCHQ, UK Gov't expunge advice to "use Apple encryption"</small>
 
 
-| 🔥🔥: 223 \| 💬: [84](https://news.ycombinator.com/item?id=43271177) \| 🗓️ 2025-03-05
+| 🔥🔥: 232 \| 💬: [85](https://news.ycombinator.com/item?id=43271177) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -131,83 +131,11 @@ QwQ-32B 是一款拥有 **32亿参数** 的模型，通过**强化学习（RL）
 
 ---
 
-## <a name="10"></a>10. 打造成功产品的50条经验总结 
-<small>🔗 [newsletter.posthog.com](https://newsletter.posthog.com/p/50-things-weve-learned-about-building): Things we've learned about building products</small>
-
-
-| 🔥🔥: 207 \| 💬: [63](https://news.ycombinator.com/item?id=43267095) \| 🗓️ 2025-03-05
-
-
-<br />
-在PostHog团队的经验中，**小团队**（6人或更少）可以打造出优秀的产品，但需要赋予他们自主权，设定目标、优先路线图、选择指标并与用户沟通。**信任**是团队成功的关键，透明的工作方式和及时的反馈能避免政治斗争。**快速迭代**和**用户反馈**是产品开发的核心，尽早将产品交到用户手中，才能验证其价值并持续改进。
-
----
-
-## <a name="11"></a>11. MS Paint IDE：用画图工具编程的神器 
-<small>🔗 [ms-paint-i.de](https://ms-paint-i.de/): MS Paint IDE</small>
-
-
-| 🔥🔥: 182 \| 💬: [57](https://news.ycombinator.com/item?id=43265431) \| 🗓️ 2025-03-05
-
-
-<br />
-MS Paint IDE 是一款能将**MS Paint保存的图像文件**转换为文本并高亮显示的工具，支持代码解析、编译和执行。它提供了简洁的界面，支持外部库和多类编程，具备**Git功能**和**主题自定义**。作为**开源项目**，它易于上手且兼容性强，适合快速分享代码。
-
----
-
-## <a name="12"></a>12. 不使用Git托管平台的Git工作流 
-<small>🔗 [chiark.greenend.org.uk](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/): Git without a forge</small>
-
-
-| 🔥🔥: 182 \| 💬: [68](https://news.ycombinator.com/item?id=43272275) \| 🗓️ 2025-03-05
-
-
-<br />
-本文探讨了作者为何选择不使用Git托管平台（如GitLab或GitHub），而是直接在个人网站上托管**裸Git仓库**。作者详细介绍了如何与裸Git仓库交互，并分享了他接收补丁的偏好：**最佳方式是通过URL和分支名**，其次是增量Git包或补丁文件。作者还解释了不使用托管平台的原因，包括**信任问题**、平台过于复杂、账户管理繁琐以及不愿被强加工作流程。
-
----
-
-## <a name="13"></a>13. Lynx：抖音使用的开源跨平台框架 
-<small>🔗 [lynxjs.org](https://lynxjs.org/blog/lynx-unlock-native-for-more.html): Lynx: Open Source Native Cross Platform framework used in TikTok</small>
-
-
-| 🔥🔥: 181 \| 💬: [68](https://news.ycombinator.com/item?id=43264957) \| 🗓️ 2025-03-05
-
-
-<br />
-Lynx 是一个**开源**的**跨平台**框架，旨在帮助开发者以更快的速度和规模构建原生应用。它支持使用**Markup和CSS**进行设计，并强调在主线程上负责任地处理交互。Lynx 的开源目标是推动跨平台技术的普及，为开发者社区提供更多可能性。
-
----
-
-## <a name="14"></a>14. 三年后，我的Beancount账本实现了95%自动化（2024） 
-<small>🔗 [fangpenlin.com](https://fangpenlin.com/posts/2024/12/30/my-beancount-books-are-95-percent-automatic/): My Beancount books are 95% automatic after 3 years (2024)</small>
-
-
-| 🔥🔥: 181 \| 💬: [78](https://news.ycombinator.com/item?id=43268454) \| 🗓️ 2025-03-05
-
-
-<br />
-作者分享了他三年来开发**BeanHub**的经历，这是一个基于**Beancount**的自动化会计工具。通过**开源**和**文件优先**的理念，他成功实现了账本的自动化更新，并吸引了付费用户。尽管面临技术挑战和竞争风险，他坚持开源并构建了一个基于Git的系统，确保了数据的安全性和开放性。
-
----
-
-## <a name="15"></a>15. Jeep车主对车内弹窗广告忍无可忍 
-<small>🔗 [kbb.com](https://www.kbb.com/car-news/jeep-owners-fed-up-with-in-car-pop-up-ads/): Jeep owners fed up with in-car pop-up ads</small>
-
-
-| 🔥🔥: 176 \| 💬: [212](https://news.ycombinator.com/item?id=43272453) \| 🗓️ 2025-03-05
-
-
-<br />
-Jeep车主近日在社交媒体上抱怨，**车内信息娱乐屏幕**频繁弹出**延长保修广告**，甚至在每次停车时都会出现。尽管广告称仅适用于里程低于36,000英里的车辆，但超过此限制的车主也收到了广告。Jeep母公司Stellantis表示这是**软件故障**，已修复并联系受影响用户。此事件引发了对**车内隐私**的担忧，福特等公司也曾探索类似广告系统，但遭到反对。
-
----
-
-## <a name="16"></a>16. 美国停止分享全球大使馆空气质量数据 
+## <a name="10"></a>10. 美国停止分享全球大使馆空气质量数据 
 <small>🔗 [apnews.com](https://apnews.com/article/us-air-quality-monitors-8270927bbd0f166238243ac9d14bce03): The US stops sharing air quality data from embassies worldwide</small>
 
 
-| 🔥🔥: 175 \| 💬: [79](https://news.ycombinator.com/item?id=43274821) \| 🗓️ 2025-03-05
+| 🔥🔥: 230 \| 💬: [111](https://news.ycombinator.com/item?id=43274821) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -215,11 +143,83 @@ Jeep车主近日在社交媒体上抱怨，**车内信息娱乐屏幕**频繁弹
 
 ---
 
+## <a name="11"></a>11. 打造成功产品的50条经验总结 
+<small>🔗 [newsletter.posthog.com](https://newsletter.posthog.com/p/50-things-weve-learned-about-building): Things we've learned about building products</small>
+
+
+| 🔥🔥: 216 \| 💬: [68](https://news.ycombinator.com/item?id=43267095) \| 🗓️ 2025-03-05
+
+
+<br />
+在PostHog团队的经验中，**小团队**（6人或更少）可以打造出优秀的产品，但需要赋予他们自主权，设定目标、优先路线图、选择指标并与用户沟通。**信任**是团队成功的关键，透明的工作方式和及时的反馈能避免政治斗争。**快速迭代**和**用户反馈**是产品开发的核心，尽早将产品交到用户手中，才能验证其价值并持续改进。
+
+---
+
+## <a name="12"></a>12. 不使用Git托管平台的Git工作流 
+<small>🔗 [chiark.greenend.org.uk](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/): Git without a forge</small>
+
+
+| 🔥🔥: 202 \| 💬: [74](https://news.ycombinator.com/item?id=43272275) \| 🗓️ 2025-03-05
+
+
+<br />
+本文探讨了作者为何选择不使用Git托管平台（如GitLab或GitHub），而是直接在个人网站上托管**裸Git仓库**。作者详细介绍了如何与裸Git仓库交互，并分享了他接收补丁的偏好：**最佳方式是通过URL和分支名**，其次是增量Git包或补丁文件。作者还解释了不使用托管平台的原因，包括**信任问题**、平台过于复杂、账户管理繁琐以及不愿被强加工作流程。
+
+---
+
+## <a name="13"></a>13. MS Paint IDE：用画图工具编程的神器 
+<small>🔗 [ms-paint-i.de](https://ms-paint-i.de/): MS Paint IDE</small>
+
+
+| 🔥🔥: 190 \| 💬: [58](https://news.ycombinator.com/item?id=43265431) \| 🗓️ 2025-03-05
+
+
+<br />
+MS Paint IDE 是一款能将**MS Paint保存的图像文件**转换为文本并高亮显示的工具，支持代码解析、编译和执行。它提供了简洁的界面，支持外部库和多类编程，具备**Git功能**和**主题自定义**。作为**开源项目**，它易于上手且兼容性强，适合快速分享代码。
+
+---
+
+## <a name="14"></a>14. Lynx：抖音使用的开源跨平台框架 
+<small>🔗 [lynxjs.org](https://lynxjs.org/blog/lynx-unlock-native-for-more.html): Lynx: Open Source Native Cross Platform framework used in TikTok</small>
+
+
+| 🔥🔥: 185 \| 💬: [69](https://news.ycombinator.com/item?id=43264957) \| 🗓️ 2025-03-05
+
+
+<br />
+Lynx 是一个**开源**的**跨平台**框架，旨在帮助开发者以更快的速度和规模构建原生应用。它支持使用**Markup和CSS**进行设计，并强调在主线程上负责任地处理交互。Lynx 的开源目标是推动跨平台技术的普及，为开发者社区提供更多可能性。
+
+---
+
+## <a name="15"></a>15. 三年后，我的Beancount账本实现了95%自动化（2024） 
+<small>🔗 [fangpenlin.com](https://fangpenlin.com/posts/2024/12/30/my-beancount-books-are-95-percent-automatic/): My Beancount books are 95% automatic after 3 years (2024)</small>
+
+
+| 🔥🔥: 185 \| 💬: [78](https://news.ycombinator.com/item?id=43268454) \| 🗓️ 2025-03-05
+
+
+<br />
+作者分享了他三年来开发**BeanHub**的经历，这是一个基于**Beancount**的自动化会计工具。通过**开源**和**文件优先**的理念，他成功实现了账本的自动化更新，并吸引了付费用户。尽管面临技术挑战和竞争风险，他坚持开源并构建了一个基于Git的系统，确保了数据的安全性和开放性。
+
+---
+
+## <a name="16"></a>16. Jeep车主对车内弹窗广告忍无可忍 
+<small>🔗 [kbb.com](https://www.kbb.com/car-news/jeep-owners-fed-up-with-in-car-pop-up-ads/): Jeep owners fed up with in-car pop-up ads</small>
+
+
+| 🔥🔥: 179 \| 💬: [212](https://news.ycombinator.com/item?id=43272453) \| 🗓️ 2025-03-05
+
+
+<br />
+Jeep车主近日在社交媒体上抱怨，**车内信息娱乐屏幕**频繁弹出**延长保修广告**，甚至在每次停车时都会出现。尽管广告称仅适用于里程低于36,000英里的车辆，但超过此限制的车主也收到了广告。Jeep母公司Stellantis表示这是**软件故障**，已修复并联系受影响用户。此事件引发了对**车内隐私**的担忧，福特等公司也曾探索类似广告系统，但遭到反对。
+
+---
+
 ## <a name="17"></a>17. 天网胜利并毁灭了人类 
 <small>🔗 [dmathieu.com](https://dmathieu.com/en/opinions/skynet-won/): Skynet won and destroyed humanity</small>
 
 
-| 🔥🔥: 173 \| 💬: [117](https://news.ycombinator.com/item?id=43270687) \| 🗓️ 2025-03-05
+| 🔥🔥: 174 \| 💬: [122](https://news.ycombinator.com/item?id=43270687) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -231,7 +231,7 @@ Jeep车主近日在社交媒体上抱怨，**车内信息娱乐屏幕**频繁弹
 <small>🔗 [theguardian.com](https://www.theguardian.com/world/ng-interactive/2025/mar/05/shadow-fleets-subaquatic-sabotage-europe-undersea-internet-cables-under-attack): 'Shadow fleets' and sabotage: are Europe's undersea cables under attack?</small>
 
 
-| 🔥🔥: 171 \| 💬: [145](https://news.ycombinator.com/item?id=43265224) \| 🗓️ 2025-03-05
+| 🔥🔥: 172 \| 💬: [145](https://news.ycombinator.com/item?id=43265224) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -243,7 +243,7 @@ Jeep车主近日在社交媒体上抱怨，**车内信息娱乐屏幕**频繁弹
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/03/05/technology/digg-alexis-ohanian-kevin-rose.html): The Return of Digg, a Star of an Earlier Internet Era</small>
 
 
-| 🔥🔥: 152 \| 💬: [206](https://news.ycombinator.com/item?id=43265521) \| 🗓️ 2025-03-05
+| 🔥🔥: 154 \| 💬: [209](https://news.ycombinator.com/item?id=43265521) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -251,7 +251,19 @@ Jeep车主近日在社交媒体上抱怨，**车内信息娱乐屏幕**频繁弹
 
 ---
 
-## <a name="20"></a>20. 谁在害怕彼得·蒂尔？新传记揭示我们或许都该警惕 
+## <a name="20"></a>20. 在Xeon上使用1或2个Arc A770运行DeepSeek-R1-671B-Q4_K_M 
+<small>🔗 [github.com](https://github.com/intel/ipex-llm/blob/main/docs/mddocs/Quickstart/llamacpp_portable_zip_gpu_quickstart.md): DeepSeek-R1-671B-Q4_K_M with 1 or 2 Arc A770 on Xeon</small>
+
+
+| 🔥🔥: 134 \| 💬: [56](https://news.ycombinator.com/item?id=43274613) \| 🗓️ 2025-03-05
+
+
+<br />
+本文介绍了如何使用**llama.cpp便携版**在Intel GPU上运行**DeepSeek-R1-671B-Q4_K_M**模型，支持1或2个Arc A770显卡。通过**IPEX-LLM**，用户无需手动安装即可直接运行模型。文章详细说明了Windows和Linux系统的配置步骤，并提供了运行GGUF模型的示例。此外，还介绍了**FlashMoE**工具，用于优化混合专家模型（如DeepSeek V3/R1）的性能。
+
+---
+
+## <a name="21"></a>21. 谁在害怕彼得·蒂尔？新传记揭示我们或许都该警惕 
 <small>🔗 [time.com](https://time.com/6092844/peter-thiel-power-biography-the-contrarian/): Who's Afraid of Peter Thiel? A New Biography Suggests We All Should Be (2021)</small>
 
 
@@ -263,23 +275,11 @@ Jeep车主近日在社交媒体上抱怨，**车内信息娱乐屏幕**频繁弹
 
 ---
 
-## <a name="21"></a>21. 在Xeon上使用1或2个Arc A770运行DeepSeek-R1-671B-Q4_K_M 
-<small>🔗 [github.com](https://github.com/intel/ipex-llm/blob/main/docs/mddocs/Quickstart/llamacpp_portable_zip_gpu_quickstart.md): DeepSeek-R1-671B-Q4_K_M with 1 or 2 Arc A770 on Xeon</small>
-
-
-| 🔥🔥: 116 \| 💬: [47](https://news.ycombinator.com/item?id=43274613) \| 🗓️ 2025-03-05
-
-
-<br />
-本文介绍了如何使用**llama.cpp便携版**在Intel GPU上运行**DeepSeek-R1-671B-Q4_K_M**模型，支持1或2个Arc A770显卡。通过**IPEX-LLM**，用户无需手动安装即可直接运行模型。文章详细说明了Windows和Linux系统的配置步骤，并提供了运行GGUF模型的示例。此外，还介绍了**FlashMoE**工具，用于优化混合专家模型（如DeepSeek V3/R1）的性能。
-
----
-
 ## <a name="22"></a>22. 大众推出低价电动车ID. EVERY1，挑战中国竞争对手 
 <small>🔗 [ttnews.com](https://www.ttnews.com/articles/vw-introduces-id-every1): Volkswagen seeks to counter rivals with budget EV model</small>
 
 
-| 🔥🔥: 113 \| 💬: [118](https://news.ycombinator.com/item?id=43274698) \| 🗓️ 2025-03-05
+| 🔥🔥: 119 \| 💬: [130](https://news.ycombinator.com/item?id=43274698) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -287,23 +287,11 @@ Jeep车主近日在社交媒体上抱怨，**车内信息娱乐屏幕**频繁弹
 
 ---
 
-## <a name="23"></a>23. 研究：全球减少CFCs，臭氧层正在修复 
-<small>🔗 [news.mit.edu](https://news.mit.edu/2025/study-healing-ozone-hole-global-reduction-cfcs-0305): Study: The ozone hole is healing, thanks to global reduction of CFCs</small>
-
-
-| 🔥🔥: 112 \| 💬: [43](https://news.ycombinator.com/item?id=43270495) \| 🗓️ 2025-03-05
-
-
-<br />
-一项由麻省理工学院主导的研究证实，**南极臭氧层**正在修复，这主要归功于全球减少**臭氧消耗物质**（如CFCs）的努力。研究通过高统计置信度表明，臭氧恢复的趋势显著，且95%的恢复可归因于人类减少CFCs的行动。这一成果表明，**国际合作**能够有效解决环境问题。
-
----
-
-## <a name="24"></a>24. 《“下架法案”的危险性》 
+## <a name="23"></a>23. 《“下架法案”的危险性》 
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/trump-calls-congress-pass-overbroad-take-it-down-act-so-he-can-use-it-censor): The "Take It Down" Act</small>
 
 
-| 🔥🔥: 110 \| 💬: [74](https://news.ycombinator.com/item?id=43274656) \| 🗓️ 2025-03-05
+| 🔥🔥: 117 \| 💬: [78](https://news.ycombinator.com/item?id=43274656) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -311,14 +299,26 @@ Jeep车主近日在社交媒体上抱怨，**车内信息娱乐屏幕**频繁弹
 
 ---
 
-## <a name="25"></a>25. 用强化学习击败《宝可梦红》，参数少于1000万 
+## <a name="24"></a>24. 用强化学习击败《宝可梦红》，参数少于1000万 
 <small>🔗 [drubinstein.github.io](https://drubinstein.github.io/pokerl/): Show HN: Beating Pokemon Red with RL and <10M Parameters</small>
 
 
-| 🔥🔥: 108 \| 💬: [45](https://news.ycombinator.com/item?id=43269330) \| 🗓️ 2025-03-05
+| 🔥🔥: 113 \| 💬: [50](https://news.ycombinator.com/item?id=43269330) \| 🗓️ 2025-03-05
 
 
 <br />
 自2020年起，团队开发了一个**强化学习（RL）**代理，用于击败1996年的游戏《宝可梦红》。截至2025年2月，他们成功使用**少于1000万参数**的策略（比DeepSeekV3小60500倍）击败了游戏。该项目的目标不仅是生成击败游戏的策略，更是开发一种解决《宝可梦》问题的技术。所有代码已开源，供读者尝试。团队认为，JRPG（日式角色扮演游戏）为AI提供了极具挑战性的环境，尤其是**复杂推理**和**非线性任务**。
+
+---
+
+## <a name="25"></a>25. 研究：全球减少CFCs，臭氧层正在修复 
+<small>🔗 [news.mit.edu](https://news.mit.edu/2025/study-healing-ozone-hole-global-reduction-cfcs-0305): Study: The ozone hole is healing, thanks to global reduction of CFCs</small>
+
+
+| 🔥🔥: 113 \| 💬: [44](https://news.ycombinator.com/item?id=43270495) \| 🗓️ 2025-03-05
+
+
+<br />
+一项由麻省理工学院主导的研究证实，**南极臭氧层**正在修复，这主要归功于全球减少**臭氧消耗物质**（如CFCs）的努力。研究通过高统计置信度表明，臭氧恢复的趋势显著，且95%的恢复可归因于人类减少CFCs的行动。这一成果表明，**国际合作**能够有效解决环境问题。
 
 ---
