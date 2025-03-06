@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [apple.com](https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/): Apple M3 Ultra</small>
 
 
-| 🔥🔥: 766 \| 💬: [740](https://news.ycombinator.com/item?id=43266453) \| 🗓️ 2025-03-05
+| 🔥🔥: 785 \| 💬: [757](https://news.ycombinator.com/item?id=43266453) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [apple.com](https://www.apple.com/macbook-air/): MacBook Air M4</small>
 
 
-| 🔥🔥: 436 \| 💬: [508](https://news.ycombinator.com/item?id=43266537) \| 🗓️ 2025-03-05
+| 🔥🔥: 458 \| 💬: [533](https://news.ycombinator.com/item?id=43266537) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -51,7 +51,7 @@ MacBook Air M4 采用**超过50%的回收材料**制成，拥有耐用的再生�
 <small>🔗 [awards.acm.org](https://awards.acm.org/about/2024-turing): Richard Sutton and Andrew Barto Win 2024 Turing Award</small>
 
 
-| 🔥🔥: 430 \| 💬: [97](https://news.ycombinator.com/item?id=43264847) \| 🗓️ 2025-03-05
+| 🔥🔥: 441 \| 💬: [100](https://news.ycombinator.com/item?id=43264847) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -63,7 +63,7 @@ ACM宣布将2024年图灵奖授予**安德鲁·巴托**和**理查德·萨顿**�
 <small>🔗 [blog.6nok.org](https://blog.6nok.org/tailscale-is-pretty-useful/): Tailscale is pretty useful</small>
 
 
-| 🔥🔥: 335 \| 💬: [198](https://news.ycombinator.com/item?id=43270835) \| 🗓️ 2025-03-05
+| 🔥🔥: 385 \| 💬: [221](https://news.ycombinator.com/item?id=43270835) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -75,7 +75,7 @@ ACM宣布将2024年图灵奖授予**安德鲁·巴托**和**理查德·萨顿**�
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/): Apple takes UK to court over 'backdoor' order</small>
 
 
-| 🔥🔥: 300 \| 💬: [86](https://news.ycombinator.com/item?id=43270079) \| 🗓️ 2025-03-05
+| 🔥🔥: 333 \| 💬: [97](https://news.ycombinator.com/item?id=43270079) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -87,7 +87,7 @@ ACM宣布将2024年图灵奖授予**安德鲁·巴托**和**理查德·萨顿**�
 <small>🔗 [apple.com](https://www.apple.com/newsroom/2025/03/apple-unveils-new-mac-studio-the-most-powerful-mac-ever/): Apple unveils new Mac Studio</small>
 
 
-| 🔥🔥: 284 \| 💬: [231](https://news.ycombinator.com/item?id=43266474) \| 🗓️ 2025-03-05
+| 🔥🔥: 292 \| 💬: [238](https://news.ycombinator.com/item?id=43266474) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -99,7 +99,7 @@ ACM宣布将2024年图灵奖授予**安德鲁·巴托**和**理查德·萨顿**�
 <small>🔗 [nasa.gov](https://www.nasa.gov/general/nasa-successfully-acquires-gps-signals-on-moon/): NASA Successfully Acquires GPS Signals on Moon</small>
 
 
-| 🔥🔥: 266 \| 💬: [142](https://news.ycombinator.com/item?id=43265303) \| 🗓️ 2025-03-05
+| 🔥🔥: 268 \| 💬: [146](https://news.ycombinator.com/item?id=43265303) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -107,23 +107,11 @@ NASA与意大利航天局合作，通过**Lunar GNSS Receiver Experiment (LuGRE)
 
 ---
 
-## <a name="8"></a>8. 英国政府删除“使用苹果加密”建议，引发争议 
-<small>🔗 [alecmuffett.com](https://alecmuffett.com/article/112522): NCSC, GCHQ, UK Gov't expunge advice to "use Apple encryption"</small>
-
-
-| 🔥🔥: 182 \| 💬: [65](https://news.ycombinator.com/item?id=43271177) \| 🗓️ 2025-03-05
-
-
-<br />
-英国国家网络安全中心（NCSC）和GCHQ删除了此前建议律师等高风险群体**启用苹果加密**的指南，转而推荐使用**“锁定模式”**。此举恰逢苹果起诉英国政府要求其加密系统设置后门。批评者认为，政府试图掩盖此前对苹果加密的支持，并质疑其动机是否与限制加密使用有关。
-
----
-
-## <a name="9"></a>9. QwQ-32B：强化学习的力量推动模型性能飞跃 
+## <a name="8"></a>8. QwQ-32B：强化学习的力量推动模型性能飞跃 
 <small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwq-32b/): QwQ-32B: Embracing the Power of Reinforcement Learning</small>
 
 
-| 🔥🔥: 180 \| 💬: [54](https://news.ycombinator.com/item?id=43270843) \| 🗓️ 2025-03-05
+| 🔥🔥: 205 \| 💬: [61](https://news.ycombinator.com/item?id=43270843) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -131,11 +119,23 @@ QwQ-32B 是一款拥有 **32亿参数** 的模型，通过**强化学习（RL）
 
 ---
 
+## <a name="9"></a>9. 英国政府删除“使用苹果加密”建议，引发争议 
+<small>🔗 [alecmuffett.com](https://alecmuffett.com/article/112522): NCSC, GCHQ, UK Gov't expunge advice to "use Apple encryption"</small>
+
+
+| 🔥🔥: 197 \| 💬: [72](https://news.ycombinator.com/item?id=43271177) \| 🗓️ 2025-03-05
+
+
+<br />
+英国国家网络安全中心（NCSC）和GCHQ删除了此前建议律师等高风险群体**启用苹果加密**的指南，转而推荐使用**“锁定模式”**。此举恰逢苹果起诉英国政府要求其加密系统设置后门。批评者认为，政府试图掩盖此前对苹果加密的支持，并质疑其动机是否与限制加密使用有关。
+
+---
+
 ## <a name="10"></a>10. 打造成功产品的50条经验总结 
 <small>🔗 [newsletter.posthog.com](https://newsletter.posthog.com/p/50-things-weve-learned-about-building): Things we've learned about building products</small>
 
 
-| 🔥🔥: 172 \| 💬: [53](https://news.ycombinator.com/item?id=43267095) \| 🗓️ 2025-03-05
+| 🔥🔥: 182 \| 💬: [55](https://news.ycombinator.com/item?id=43267095) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -159,7 +159,7 @@ QwQ-32B 是一款拥有 **32亿参数** 的模型，通过**强化学习（RL）
 <small>🔗 [fangpenlin.com](https://fangpenlin.com/posts/2024/12/30/my-beancount-books-are-95-percent-automatic/): My Beancount books are 95% automatic after 3 years (2024)</small>
 
 
-| 🔥🔥: 161 \| 💬: [76](https://news.ycombinator.com/item?id=43268454) \| 🗓️ 2025-03-05
+| 🔥🔥: 166 \| 💬: [76](https://news.ycombinator.com/item?id=43268454) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -171,7 +171,7 @@ QwQ-32B 是一款拥有 **32亿参数** 的模型，通过**强化学习（RL）
 <small>🔗 [dmathieu.com](https://dmathieu.com/en/opinions/skynet-won/): Skynet won and destroyed humanity</small>
 
 
-| 🔥🔥: 158 \| 💬: [104](https://news.ycombinator.com/item?id=43270687) \| 🗓️ 2025-03-05
+| 🔥🔥: 166 \| 💬: [111](https://news.ycombinator.com/item?id=43270687) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -179,23 +179,11 @@ QwQ-32B 是一款拥有 **32亿参数** 的模型，通过**强化学习（RL）
 
 ---
 
-## <a name="14"></a>14. MS Paint IDE：用画图工具编程的神器 
-<small>🔗 [ms-paint-i.de](https://ms-paint-i.de/): MS Paint IDE</small>
-
-
-| 🔥🔥: 154 \| 💬: [52](https://news.ycombinator.com/item?id=43265431) \| 🗓️ 2025-03-05
-
-
-<br />
-MS Paint IDE 是一款能将**MS Paint保存的图像文件**转换为文本并高亮显示的工具，支持代码解析、编译和执行。它提供了简洁的界面，支持外部库和多类编程，具备**Git功能**和**主题自定义**。作为**开源项目**，它易于上手且兼容性强，适合快速分享代码。
-
----
-
-## <a name="15"></a>15. Jeep车主对车内弹窗广告忍无可忍 
+## <a name="14"></a>14. Jeep车主对车内弹窗广告忍无可忍 
 <small>🔗 [kbb.com](https://www.kbb.com/car-news/jeep-owners-fed-up-with-in-car-pop-up-ads/): Jeep owners fed up with in-car pop-up ads</small>
 
 
-| 🔥🔥: 153 \| 💬: [185](https://news.ycombinator.com/item?id=43272453) \| 🗓️ 2025-03-05
+| 🔥🔥: 160 \| 💬: [194](https://news.ycombinator.com/item?id=43272453) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -203,11 +191,23 @@ Jeep车主近日在社交媒体上抱怨，**车内信息娱乐屏幕**频繁弹
 
 ---
 
+## <a name="15"></a>15. MS Paint IDE：用画图工具编程的神器 
+<small>🔗 [ms-paint-i.de](https://ms-paint-i.de/): MS Paint IDE</small>
+
+
+| 🔥🔥: 159 \| 💬: [53](https://news.ycombinator.com/item?id=43265431) \| 🗓️ 2025-03-05
+
+
+<br />
+MS Paint IDE 是一款能将**MS Paint保存的图像文件**转换为文本并高亮显示的工具，支持代码解析、编译和执行。它提供了简洁的界面，支持外部库和多类编程，具备**Git功能**和**主题自定义**。作为**开源项目**，它易于上手且兼容性强，适合快速分享代码。
+
+---
+
 ## <a name="16"></a>16. Lynx：抖音使用的开源跨平台框架 
 <small>🔗 [lynxjs.org](https://lynxjs.org/blog/lynx-unlock-native-for-more.html): Lynx: Open Source Native Cross Platform framework used in TikTok</small>
 
 
-| 🔥🔥: 143 \| 💬: [57](https://news.ycombinator.com/item?id=43264957) \| 🗓️ 2025-03-05
+| 🔥🔥: 156 \| 💬: [62](https://news.ycombinator.com/item?id=43264957) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -219,7 +219,7 @@ Lynx 是一个**开源**的**跨平台**框架，旨在帮助开发者以更快�
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/03/05/technology/digg-alexis-ohanian-kevin-rose.html): The Return of Digg, a Star of an Earlier Internet Era</small>
 
 
-| 🔥🔥: 139 \| 💬: [191](https://news.ycombinator.com/item?id=43265521) \| 🗓️ 2025-03-05
+| 🔥🔥: 143 \| 💬: [194](https://news.ycombinator.com/item?id=43265521) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -227,7 +227,19 @@ Lynx 是一个**开源**的**跨平台**框架，旨在帮助开发者以更快�
 
 ---
 
-## <a name="18"></a>18. 谁在害怕彼得·蒂尔？新传记揭示我们或许都该警惕 
+## <a name="18"></a>18. 不使用Git托管平台的Git工作流 
+<small>🔗 [chiark.greenend.org.uk](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/): Git without a forge</small>
+
+
+| 🔥🔥: 128 \| 💬: [43](https://news.ycombinator.com/item?id=43272275) \| 🗓️ 2025-03-05
+
+
+<br />
+本文探讨了作者为何选择不使用Git托管平台（如GitLab或GitHub），而是直接在个人网站上托管**裸Git仓库**。作者详细介绍了如何与裸Git仓库交互，并分享了他接收补丁的偏好：**最佳方式是通过URL和分支名**，其次是增量Git包或补丁文件。作者还解释了不使用托管平台的原因，包括**信任问题**、平台过于复杂、账户管理繁琐以及不愿被强加工作流程。
+
+---
+
+## <a name="19"></a>19. 谁在害怕彼得·蒂尔？新传记揭示我们或许都该警惕 
 <small>🔗 [time.com](https://time.com/6092844/peter-thiel-power-biography-the-contrarian/): Who's Afraid of Peter Thiel? A New Biography Suggests We All Should Be (2021)</small>
 
 
@@ -239,27 +251,15 @@ Lynx 是一个**开源**的**跨平台**框架，旨在帮助开发者以更快�
 
 ---
 
-## <a name="19"></a>19. 研究：全球减少CFCs，臭氧层正在修复 
+## <a name="20"></a>20. 研究：全球减少CFCs，臭氧层正在修复 
 <small>🔗 [news.mit.edu](https://news.mit.edu/2025/study-healing-ozone-hole-global-reduction-cfcs-0305): Study: The ozone hole is healing, thanks to global reduction of CFCs</small>
 
 
-| 🔥: 99 \| 💬: [35](https://news.ycombinator.com/item?id=43270495) \| 🗓️ 2025-03-05
+| 🔥🔥: 108 \| 💬: [43](https://news.ycombinator.com/item?id=43270495) \| 🗓️ 2025-03-05
 
 
 <br />
 一项由麻省理工学院主导的研究证实，**南极臭氧层**正在修复，这主要归功于全球减少**臭氧消耗物质**（如CFCs）的努力。研究通过高统计置信度表明，臭氧恢复的趋势显著，且95%的恢复可归因于人类减少CFCs的行动。这一成果表明，**国际合作**能够有效解决环境问题。
-
----
-
-## <a name="20"></a>20. 不使用Git托管平台的Git工作流 
-<small>🔗 [chiark.greenend.org.uk](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/): Git without a forge</small>
-
-
-| 🔥: 98 \| 💬: [24](https://news.ycombinator.com/item?id=43272275) \| 🗓️ 2025-03-05
-
-
-<br />
-本文探讨了作者为何选择不使用Git托管平台（如GitLab或GitHub），而是直接在个人网站上托管**裸Git仓库**。作者详细介绍了如何与裸Git仓库交互，并分享了他接收补丁的偏好：**最佳方式是通过URL和分支名**，其次是增量Git包或补丁文件。作者还解释了不使用托管平台的原因，包括**信任问题**、平台过于复杂、账户管理繁琐以及不愿被强加工作流程。
 
 ---
 
@@ -275,7 +275,19 @@ Lynx 是一个**开源**的**跨平台**框架，旨在帮助开发者以更快�
 
 ---
 
-## <a name="22"></a>22. 他们想拯救我们免于黑暗AI未来，却导致六人死亡 
+## <a name="22"></a>22. 用强化学习击败《宝可梦红》，参数少于1000万 
+<small>🔗 [drubinstein.github.io](https://drubinstein.github.io/pokerl/): Show HN: Beating Pokemon Red with RL and <10M Parameters</small>
+
+
+| 🔥: 90 \| 💬: [44](https://news.ycombinator.com/item?id=43269330) \| 🗓️ 2025-03-05
+
+
+<br />
+自2020年起，团队开发了一个**强化学习（RL）**代理，用于击败1996年的游戏《宝可梦红》。截至2025年2月，他们成功使用**少于1000万参数**的策略（比DeepSeekV3小60500倍）击败了游戏。该项目的目标不仅是生成击败游戏的策略，更是开发一种解决《宝可梦》问题的技术。所有代码已开源，供读者尝试。团队认为，JRPG（日式角色扮演游戏）为AI提供了极具挑战性的环境，尤其是**复杂推理**和**非线性任务**。
+
+---
+
+## <a name="23"></a>23. 他们想拯救我们免于黑暗AI未来，却导致六人死亡 
 <small>🔗 [theguardian.com](https://www.theguardian.com/global/ng-interactive/2025/mar/05/zizians-artificial-intelligence): They wanted to save us from a dark AI future. Then six people were killed</small>
 
 
@@ -287,11 +299,11 @@ Lynx 是一个**开源**的**跨平台**框架，旨在帮助开发者以更快�
 
 ---
 
-## <a name="23"></a>23. 加密货币战略储备：一场豪赌还是骗局？ 
+## <a name="24"></a>24. 加密货币战略储备：一场豪赌还是骗局？ 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/03/strategic-cryptocurrency-reserve-swindle/681917/): The Strategic Crypto Swindle</small>
 
 
-| 🔥: 78 \| 💬: [103](https://news.ycombinator.com/item?id=43270398) \| 🗓️ 2025-03-05
+| 🔥: 78 \| 💬: [105](https://news.ycombinator.com/item?id=43270398) \| 🗓️ 2025-03-05
 
 
 <br />
