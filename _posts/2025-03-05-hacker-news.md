@@ -27,7 +27,7 @@ tags:
 <small>🔗 [apple.com](https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/): Apple M3 Ultra</small>
 
 
-| 🔥🔥: 871 \| 💬: [804](https://news.ycombinator.com/item?id=43266453) \| 🗓️ 2025-03-05
+| 🔥🔥: 882 \| 💬: [820](https://news.ycombinator.com/item?id=43266453) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [apple.com](https://www.apple.com/macbook-air/): MacBook Air M4</small>
 
 
-| 🔥🔥: 523 \| 💬: [613](https://news.ycombinator.com/item?id=43266537) \| 🗓️ 2025-03-05
+| 🔥🔥: 532 \| 💬: [630](https://news.ycombinator.com/item?id=43266537) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -51,7 +51,7 @@ MacBook Air M4 采用**超过50%的回收材料**制成，拥有耐用的再生�
 <small>🔗 [blog.6nok.org](https://blog.6nok.org/tailscale-is-pretty-useful/): Tailscale is pretty useful</small>
 
 
-| 🔥🔥: 497 \| 💬: [271](https://news.ycombinator.com/item?id=43270835) \| 🗓️ 2025-03-05
+| 🔥🔥: 523 \| 💬: [278](https://news.ycombinator.com/item?id=43270835) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -63,7 +63,7 @@ MacBook Air M4 采用**超过50%的回收材料**制成，拥有耐用的再生�
 <small>🔗 [awards.acm.org](https://awards.acm.org/about/2024-turing): Richard Sutton and Andrew Barto Win 2024 Turing Award</small>
 
 
-| 🔥🔥: 466 \| 💬: [100](https://news.ycombinator.com/item?id=43264847) \| 🗓️ 2025-03-05
+| 🔥🔥: 468 \| 💬: [101](https://news.ycombinator.com/item?id=43264847) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -75,7 +75,7 @@ ACM宣布将2024年图灵奖授予**安德鲁·巴托**和**理查德·萨顿**�
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/): Apple takes UK to court over 'backdoor' order</small>
 
 
-| 🔥🔥: 398 \| 💬: [116](https://news.ycombinator.com/item?id=43270079) \| 🗓️ 2025-03-05
+| 🔥🔥: 410 \| 💬: [124](https://news.ycombinator.com/item?id=43270079) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -87,7 +87,7 @@ ACM宣布将2024年图灵奖授予**安德鲁·巴托**和**理查德·萨顿**�
 <small>🔗 [apple.com](https://www.apple.com/newsroom/2025/03/apple-unveils-new-mac-studio-the-most-powerful-mac-ever/): Apple unveils new Mac Studio</small>
 
 
-| 🔥🔥: 305 \| 💬: [250](https://news.ycombinator.com/item?id=43266474) \| 🗓️ 2025-03-05
+| 🔥🔥: 308 \| 💬: [250](https://news.ycombinator.com/item?id=43266474) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -99,7 +99,7 @@ ACM宣布将2024年图灵奖授予**安德鲁·巴托**和**理查德·萨顿**�
 <small>🔗 [nasa.gov](https://www.nasa.gov/general/nasa-successfully-acquires-gps-signals-on-moon/): NASA Successfully Acquires GPS Signals on Moon</small>
 
 
-| 🔥🔥: 278 \| 💬: [149](https://news.ycombinator.com/item?id=43265303) \| 🗓️ 2025-03-05
+| 🔥🔥: 284 \| 💬: [149](https://news.ycombinator.com/item?id=43265303) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -111,7 +111,7 @@ NASA与意大利航天局合作，通过**Lunar GNSS Receiver Experiment (LuGRE)
 <small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwq-32b/): QwQ-32B: Embracing the Power of Reinforcement Learning</small>
 
 
-| 🔥🔥: 266 \| 💬: [72](https://news.ycombinator.com/item?id=43270843) \| 🗓️ 2025-03-05
+| 🔥🔥: 277 \| 💬: [78](https://news.ycombinator.com/item?id=43270843) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -119,23 +119,11 @@ QwQ-32B 是一款拥有 **32亿参数** 的模型，通过**强化学习（RL）
 
 ---
 
-## <a name="9"></a>9. 英国政府删除“使用苹果加密”建议，引发争议 
-<small>🔗 [alecmuffett.com](https://alecmuffett.com/article/112522): NCSC, GCHQ, UK Gov't expunge advice to "use Apple encryption"</small>
-
-
-| 🔥🔥: 232 \| 💬: [85](https://news.ycombinator.com/item?id=43271177) \| 🗓️ 2025-03-05
-
-
-<br />
-英国国家网络安全中心（NCSC）和GCHQ删除了此前建议律师等高风险群体**启用苹果加密**的指南，转而推荐使用**“锁定模式”**。此举恰逢苹果起诉英国政府要求其加密系统设置后门。批评者认为，政府试图掩盖此前对苹果加密的支持，并质疑其动机是否与限制加密使用有关。
-
----
-
-## <a name="10"></a>10. 美国停止分享全球大使馆空气质量数据 
+## <a name="9"></a>9. 美国停止分享全球大使馆空气质量数据 
 <small>🔗 [apnews.com](https://apnews.com/article/us-air-quality-monitors-8270927bbd0f166238243ac9d14bce03): The US stops sharing air quality data from embassies worldwide</small>
 
 
-| 🔥🔥: 230 \| 💬: [111](https://news.ycombinator.com/item?id=43274821) \| 🗓️ 2025-03-05
+| 🔥🔥: 276 \| 💬: [133](https://news.ycombinator.com/item?id=43274821) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -143,11 +131,23 @@ QwQ-32B 是一款拥有 **32亿参数** 的模型，通过**强化学习（RL）
 
 ---
 
+## <a name="10"></a>10. 英国政府删除“使用苹果加密”建议，引发争议 
+<small>🔗 [alecmuffett.com](https://alecmuffett.com/article/112522): NCSC, GCHQ, UK Gov't expunge advice to "use Apple encryption"</small>
+
+
+| 🔥🔥: 236 \| 💬: [85](https://news.ycombinator.com/item?id=43271177) \| 🗓️ 2025-03-05
+
+
+<br />
+英国国家网络安全中心（NCSC）和GCHQ删除了此前建议律师等高风险群体**启用苹果加密**的指南，转而推荐使用**“锁定模式”**。此举恰逢苹果起诉英国政府要求其加密系统设置后门。批评者认为，政府试图掩盖此前对苹果加密的支持，并质疑其动机是否与限制加密使用有关。
+
+---
+
 ## <a name="11"></a>11. 打造成功产品的50条经验总结 
 <small>🔗 [newsletter.posthog.com](https://newsletter.posthog.com/p/50-things-weve-learned-about-building): Things we've learned about building products</small>
 
 
-| 🔥🔥: 216 \| 💬: [68](https://news.ycombinator.com/item?id=43267095) \| 🗓️ 2025-03-05
+| 🔥🔥: 223 \| 💬: [72](https://news.ycombinator.com/item?id=43267095) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -159,7 +159,7 @@ QwQ-32B 是一款拥有 **32亿参数** 的模型，通过**强化学习（RL）
 <small>🔗 [chiark.greenend.org.uk](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/): Git without a forge</small>
 
 
-| 🔥🔥: 202 \| 💬: [74](https://news.ycombinator.com/item?id=43272275) \| 🗓️ 2025-03-05
+| 🔥🔥: 215 \| 💬: [79](https://news.ycombinator.com/item?id=43272275) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -167,23 +167,11 @@ QwQ-32B 是一款拥有 **32亿参数** 的模型，通过**强化学习（RL）
 
 ---
 
-## <a name="13"></a>13. MS Paint IDE：用画图工具编程的神器 
-<small>🔗 [ms-paint-i.de](https://ms-paint-i.de/): MS Paint IDE</small>
-
-
-| 🔥🔥: 190 \| 💬: [58](https://news.ycombinator.com/item?id=43265431) \| 🗓️ 2025-03-05
-
-
-<br />
-MS Paint IDE 是一款能将**MS Paint保存的图像文件**转换为文本并高亮显示的工具，支持代码解析、编译和执行。它提供了简洁的界面，支持外部库和多类编程，具备**Git功能**和**主题自定义**。作为**开源项目**，它易于上手且兼容性强，适合快速分享代码。
-
----
-
-## <a name="14"></a>14. Lynx：抖音使用的开源跨平台框架 
+## <a name="13"></a>13. Lynx：抖音使用的开源跨平台框架 
 <small>🔗 [lynxjs.org](https://lynxjs.org/blog/lynx-unlock-native-for-more.html): Lynx: Open Source Native Cross Platform framework used in TikTok</small>
 
 
-| 🔥🔥: 185 \| 💬: [69](https://news.ycombinator.com/item?id=43264957) \| 🗓️ 2025-03-05
+| 🔥🔥: 196 \| 💬: [71](https://news.ycombinator.com/item?id=43264957) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -191,11 +179,23 @@ Lynx 是一个**开源**的**跨平台**框架，旨在帮助开发者以更快�
 
 ---
 
+## <a name="14"></a>14. MS Paint IDE：用画图工具编程的神器 
+<small>🔗 [ms-paint-i.de](https://ms-paint-i.de/): MS Paint IDE</small>
+
+
+| 🔥🔥: 195 \| 💬: [59](https://news.ycombinator.com/item?id=43265431) \| 🗓️ 2025-03-05
+
+
+<br />
+MS Paint IDE 是一款能将**MS Paint保存的图像文件**转换为文本并高亮显示的工具，支持代码解析、编译和执行。它提供了简洁的界面，支持外部库和多类编程，具备**Git功能**和**主题自定义**。作为**开源项目**，它易于上手且兼容性强，适合快速分享代码。
+
+---
+
 ## <a name="15"></a>15. 三年后，我的Beancount账本实现了95%自动化（2024） 
 <small>🔗 [fangpenlin.com](https://fangpenlin.com/posts/2024/12/30/my-beancount-books-are-95-percent-automatic/): My Beancount books are 95% automatic after 3 years (2024)</small>
 
 
-| 🔥🔥: 185 \| 💬: [78](https://news.ycombinator.com/item?id=43268454) \| 🗓️ 2025-03-05
+| 🔥🔥: 188 \| 💬: [79](https://news.ycombinator.com/item?id=43268454) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -207,7 +207,7 @@ Lynx 是一个**开源**的**跨平台**框架，旨在帮助开发者以更快�
 <small>🔗 [kbb.com](https://www.kbb.com/car-news/jeep-owners-fed-up-with-in-car-pop-up-ads/): Jeep owners fed up with in-car pop-up ads</small>
 
 
-| 🔥🔥: 179 \| 💬: [212](https://news.ycombinator.com/item?id=43272453) \| 🗓️ 2025-03-05
+| 🔥🔥: 181 \| 💬: [213](https://news.ycombinator.com/item?id=43272453) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -219,7 +219,7 @@ Jeep车主近日在社交媒体上抱怨，**车内信息娱乐屏幕**频繁弹
 <small>🔗 [dmathieu.com](https://dmathieu.com/en/opinions/skynet-won/): Skynet won and destroyed humanity</small>
 
 
-| 🔥🔥: 174 \| 💬: [122](https://news.ycombinator.com/item?id=43270687) \| 🗓️ 2025-03-05
+| 🔥🔥: 176 \| 💬: [123](https://news.ycombinator.com/item?id=43270687) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -231,7 +231,7 @@ Jeep车主近日在社交媒体上抱怨，**车内信息娱乐屏幕**频繁弹
 <small>🔗 [theguardian.com](https://www.theguardian.com/world/ng-interactive/2025/mar/05/shadow-fleets-subaquatic-sabotage-europe-undersea-internet-cables-under-attack): 'Shadow fleets' and sabotage: are Europe's undersea cables under attack?</small>
 
 
-| 🔥🔥: 172 \| 💬: [145](https://news.ycombinator.com/item?id=43265224) \| 🗓️ 2025-03-05
+| 🔥🔥: 172 \| 💬: [147](https://news.ycombinator.com/item?id=43265224) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -255,7 +255,7 @@ Jeep车主近日在社交媒体上抱怨，**车内信息娱乐屏幕**频繁弹
 <small>🔗 [github.com](https://github.com/intel/ipex-llm/blob/main/docs/mddocs/Quickstart/llamacpp_portable_zip_gpu_quickstart.md): DeepSeek-R1-671B-Q4_K_M with 1 or 2 Arc A770 on Xeon</small>
 
 
-| 🔥🔥: 134 \| 💬: [56](https://news.ycombinator.com/item?id=43274613) \| 🗓️ 2025-03-05
+| 🔥🔥: 150 \| 💬: [63](https://news.ycombinator.com/item?id=43274613) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -275,15 +275,15 @@ Jeep车主近日在社交媒体上抱怨，**车内信息娱乐屏幕**频繁弹
 
 ---
 
-## <a name="22"></a>22. 大众推出低价电动车ID. EVERY1，挑战中国竞争对手 
-<small>🔗 [ttnews.com](https://www.ttnews.com/articles/vw-introduces-id-every1): Volkswagen seeks to counter rivals with budget EV model</small>
+## <a name="22"></a>22. Zentool – AMD Zen 微码操作工具 
+<small>🔗 [github.com](https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md): Zentool – AMD Zen Microcode Manipulation Utility</small>
 
 
-| 🔥🔥: 119 \| 💬: [130](https://news.ycombinator.com/item?id=43274698) \| 🗓️ 2025-03-05
+| 🔥🔥: 125 \| 💬: [22](https://news.ycombinator.com/item?id=43272463) \| 🗓️ 2025-03-05
 
 
 <br />
-大众汽车推出**ID. EVERY1**概念车，售价约2万欧元（2.1万美元），是其**最便宜的电动车**。该车型续航超过155英里，计划两年内在欧洲投产。大众希望通过低价电动车应对中国品牌竞争，并恢复销量。然而，分析师指出，低价电动车盈利难度大，且需快速提升销量以满足欧盟碳排放目标。
+Zentool 是一款用于分析、修改和生成 AMD Zen 处理器微码补丁的工具套件。它提供了多种功能，包括查看微码文件头信息、修改微码版本、重新签名以及加载微码更新。用户还可以通过 Zentool 进行微码指令的**反汇编**和**修改**，甚至创建自定义微码补丁。该工具支持高级操作，如修改匹配寄存器和指令四元组，并提供了简单的汇编器（mcas）和反汇编器（mcop）用于调试和开发。Zentool 的开发基于 Google 硬件安全团队的研究成果，适用于需要深度定制微码的高级用户。
 
 ---
 
@@ -291,7 +291,7 @@ Jeep车主近日在社交媒体上抱怨，**车内信息娱乐屏幕**频繁弹
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/trump-calls-congress-pass-overbroad-take-it-down-act-so-he-can-use-it-censor): The "Take It Down" Act</small>
 
 
-| 🔥🔥: 117 \| 💬: [78](https://news.ycombinator.com/item?id=43274656) \| 🗓️ 2025-03-05
+| 🔥🔥: 122 \| 💬: [82](https://news.ycombinator.com/item?id=43274656) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -299,15 +299,15 @@ Jeep车主近日在社交媒体上抱怨，**车内信息娱乐屏幕**频繁弹
 
 ---
 
-## <a name="24"></a>24. 用强化学习击败《宝可梦红》，参数少于1000万 
-<small>🔗 [drubinstein.github.io](https://drubinstein.github.io/pokerl/): Show HN: Beating Pokemon Red with RL and <10M Parameters</small>
+## <a name="24"></a>24. 大众推出低价电动车ID. EVERY1，挑战中国竞争对手 
+<small>🔗 [ttnews.com](https://www.ttnews.com/articles/vw-introduces-id-every1): Volkswagen seeks to counter rivals with budget EV model</small>
 
 
-| 🔥🔥: 113 \| 💬: [50](https://news.ycombinator.com/item?id=43269330) \| 🗓️ 2025-03-05
+| 🔥🔥: 122 \| 💬: [135](https://news.ycombinator.com/item?id=43274698) \| 🗓️ 2025-03-05
 
 
 <br />
-自2020年起，团队开发了一个**强化学习（RL）**代理，用于击败1996年的游戏《宝可梦红》。截至2025年2月，他们成功使用**少于1000万参数**的策略（比DeepSeekV3小60500倍）击败了游戏。该项目的目标不仅是生成击败游戏的策略，更是开发一种解决《宝可梦》问题的技术。所有代码已开源，供读者尝试。团队认为，JRPG（日式角色扮演游戏）为AI提供了极具挑战性的环境，尤其是**复杂推理**和**非线性任务**。
+大众汽车推出**ID. EVERY1**概念车，售价约2万欧元（2.1万美元），是其**最便宜的电动车**。该车型续航超过155英里，计划两年内在欧洲投产。大众希望通过低价电动车应对中国品牌竞争，并恢复销量。然而，分析师指出，低价电动车盈利难度大，且需快速提升销量以满足欧盟碳排放目标。
 
 ---
 
@@ -315,7 +315,7 @@ Jeep车主近日在社交媒体上抱怨，**车内信息娱乐屏幕**频繁弹
 <small>🔗 [news.mit.edu](https://news.mit.edu/2025/study-healing-ozone-hole-global-reduction-cfcs-0305): Study: The ozone hole is healing, thanks to global reduction of CFCs</small>
 
 
-| 🔥🔥: 113 \| 💬: [44](https://news.ycombinator.com/item?id=43270495) \| 🗓️ 2025-03-05
+| 🔥🔥: 115 \| 💬: [45](https://news.ycombinator.com/item?id=43270495) \| 🗓️ 2025-03-05
 
 
 <br />
