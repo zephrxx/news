@@ -27,7 +27,7 @@ tags:
 <small>🔗 [apple.com](https://www.apple.com/newsroom/2025/03/apple-reveals-m3-ultra-taking-apple-silicon-to-a-new-extreme/): Apple M3 Ultra</small>
 
 
-| 🔥🔥: 882 \| 💬: [820](https://news.ycombinator.com/item?id=43266453) \| 🗓️ 2025-03-05
+| 🔥🔥: 899 \| 💬: [831](https://news.ycombinator.com/item?id=43266453) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [apple.com](https://www.apple.com/macbook-air/): MacBook Air M4</small>
 
 
-| 🔥🔥: 532 \| 💬: [630](https://news.ycombinator.com/item?id=43266537) \| 🗓️ 2025-03-05
+| 🔥🔥: 554 \| 💬: [652](https://news.ycombinator.com/item?id=43266537) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -51,7 +51,7 @@ MacBook Air M4 采用**超过50%的回收材料**制成，拥有耐用的再生�
 <small>🔗 [blog.6nok.org](https://blog.6nok.org/tailscale-is-pretty-useful/): Tailscale is pretty useful</small>
 
 
-| 🔥🔥: 523 \| 💬: [278](https://news.ycombinator.com/item?id=43270835) \| 🗓️ 2025-03-05
+| 🔥🔥: 542 \| 💬: [287](https://news.ycombinator.com/item?id=43270835) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -63,7 +63,7 @@ MacBook Air M4 采用**超过50%的回收材料**制成，拥有耐用的再生�
 <small>🔗 [awards.acm.org](https://awards.acm.org/about/2024-turing): Richard Sutton and Andrew Barto Win 2024 Turing Award</small>
 
 
-| 🔥🔥: 468 \| 💬: [101](https://news.ycombinator.com/item?id=43264847) \| 🗓️ 2025-03-05
+| 🔥🔥: 472 \| 💬: [101](https://news.ycombinator.com/item?id=43264847) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -75,7 +75,7 @@ ACM宣布将2024年图灵奖授予**安德鲁·巴托**和**理查德·萨顿**�
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/): Apple takes UK to court over 'backdoor' order</small>
 
 
-| 🔥🔥: 410 \| 💬: [124](https://news.ycombinator.com/item?id=43270079) \| 🗓️ 2025-03-05
+| 🔥🔥: 426 \| 💬: [137](https://news.ycombinator.com/item?id=43270079) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -83,47 +83,11 @@ ACM宣布将2024年图灵奖授予**安德鲁·巴托**和**理查德·萨顿**�
 
 ---
 
-## <a name="6"></a>6. 苹果发布全新Mac Studio，性能再创新高 
-<small>🔗 [apple.com](https://www.apple.com/newsroom/2025/03/apple-unveils-new-mac-studio-the-most-powerful-mac-ever/): Apple unveils new Mac Studio</small>
-
-
-| 🔥🔥: 308 \| 💬: [250](https://news.ycombinator.com/item?id=43266474) \| 🗓️ 2025-03-05
-
-
-<br />
-苹果推出全新Mac Studio，搭载**M4 Max**和**M3 Ultra**芯片，成为有史以来最强大的Mac。支持**Thunderbolt 5**，最高512GB统一内存和16TB SSD存储，专为专业用户设计，适用于AI、视频编辑等高性能任务。预购已开启，3月12日正式发售。
-
----
-
-## <a name="7"></a>7. NASA成功在月球上获取GPS信号 
-<small>🔗 [nasa.gov](https://www.nasa.gov/general/nasa-successfully-acquires-gps-signals-on-moon/): NASA Successfully Acquires GPS Signals on Moon</small>
-
-
-| 🔥🔥: 284 \| 💬: [149](https://news.ycombinator.com/item?id=43265303) \| 🗓️ 2025-03-05
-
-
-<br />
-NASA与意大利航天局合作，通过**Lunar GNSS Receiver Experiment (LuGRE)**实验，首次在月球表面成功接收并追踪来自地球的**GNSS（全球导航卫星系统）**信号。这一突破意味着未来的**Artemis任务**和其他探索任务可以利用这些信号进行精确的自主导航，为月球和火星的先进导航系统铺平道路。LuGRE还在月球轨道和表面创造了GNSS信号接收的最高海拔记录。
-
----
-
-## <a name="8"></a>8. QwQ-32B：强化学习的力量推动模型性能飞跃 
-<small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwq-32b/): QwQ-32B: Embracing the Power of Reinforcement Learning</small>
-
-
-| 🔥🔥: 277 \| 💬: [78](https://news.ycombinator.com/item?id=43270843) \| 🗓️ 2025-03-05
-
-
-<br />
-QwQ-32B 是一款拥有 **32亿参数** 的模型，通过**强化学习（RL）**显著提升了推理能力，性能媲美拥有671亿参数的DeepSeek-R1。该模型在数学推理、编程和通用问题解决方面表现优异，并集成了**工具使用**和**环境反馈**的智能代理能力。QwQ-32B已在Hugging Face和ModelScope开源，支持Apache 2.0许可，未来将进一步探索强化学习与更强基础模型的结合，推动**通用人工智能（AGI）**的发展。
-
----
-
-## <a name="9"></a>9. 美国停止分享全球大使馆空气质量数据 
+## <a name="6"></a>6. 美国停止分享全球大使馆空气质量数据 
 <small>🔗 [apnews.com](https://apnews.com/article/us-air-quality-monitors-8270927bbd0f166238243ac9d14bce03): The US stops sharing air quality data from embassies worldwide</small>
 
 
-| 🔥🔥: 276 \| 💬: [133](https://news.ycombinator.com/item?id=43274821) \| 🗓️ 2025-03-05
+| 🔥🔥: 333 \| 💬: [154](https://news.ycombinator.com/item?id=43274821) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -131,11 +95,47 @@ QwQ-32B 是一款拥有 **32亿参数** 的模型，通过**强化学习（RL）
 
 ---
 
+## <a name="7"></a>7. 苹果发布全新Mac Studio，性能再创新高 
+<small>🔗 [apple.com](https://www.apple.com/newsroom/2025/03/apple-unveils-new-mac-studio-the-most-powerful-mac-ever/): Apple unveils new Mac Studio</small>
+
+
+| 🔥🔥: 308 \| 💬: [254](https://news.ycombinator.com/item?id=43266474) \| 🗓️ 2025-03-05
+
+
+<br />
+苹果推出全新Mac Studio，搭载**M4 Max**和**M3 Ultra**芯片，成为有史以来最强大的Mac。支持**Thunderbolt 5**，最高512GB统一内存和16TB SSD存储，专为专业用户设计，适用于AI、视频编辑等高性能任务。预购已开启，3月12日正式发售。
+
+---
+
+## <a name="8"></a>8. NASA成功在月球上获取GPS信号 
+<small>🔗 [nasa.gov](https://www.nasa.gov/general/nasa-successfully-acquires-gps-signals-on-moon/): NASA Successfully Acquires GPS Signals on Moon</small>
+
+
+| 🔥🔥: 288 \| 💬: [149](https://news.ycombinator.com/item?id=43265303) \| 🗓️ 2025-03-05
+
+
+<br />
+NASA与意大利航天局合作，通过**Lunar GNSS Receiver Experiment (LuGRE)**实验，首次在月球表面成功接收并追踪来自地球的**GNSS（全球导航卫星系统）**信号。这一突破意味着未来的**Artemis任务**和其他探索任务可以利用这些信号进行精确的自主导航，为月球和火星的先进导航系统铺平道路。LuGRE还在月球轨道和表面创造了GNSS信号接收的最高海拔记录。
+
+---
+
+## <a name="9"></a>9. QwQ-32B：强化学习的力量推动模型性能飞跃 
+<small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwq-32b/): QwQ-32B: Embracing the Power of Reinforcement Learning</small>
+
+
+| 🔥🔥: 284 \| 💬: [83](https://news.ycombinator.com/item?id=43270843) \| 🗓️ 2025-03-05
+
+
+<br />
+QwQ-32B 是一款拥有 **32亿参数** 的模型，通过**强化学习（RL）**显著提升了推理能力，性能媲美拥有671亿参数的DeepSeek-R1。该模型在数学推理、编程和通用问题解决方面表现优异，并集成了**工具使用**和**环境反馈**的智能代理能力。QwQ-32B已在Hugging Face和ModelScope开源，支持Apache 2.0许可，未来将进一步探索强化学习与更强基础模型的结合，推动**通用人工智能（AGI）**的发展。
+
+---
+
 ## <a name="10"></a>10. 英国政府删除“使用苹果加密”建议，引发争议 
 <small>🔗 [alecmuffett.com](https://alecmuffett.com/article/112522): NCSC, GCHQ, UK Gov't expunge advice to "use Apple encryption"</small>
 
 
-| 🔥🔥: 236 \| 💬: [85](https://news.ycombinator.com/item?id=43271177) \| 🗓️ 2025-03-05
+| 🔥🔥: 238 \| 💬: [87](https://news.ycombinator.com/item?id=43271177) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -143,23 +143,11 @@ QwQ-32B 是一款拥有 **32亿参数** 的模型，通过**强化学习（RL）
 
 ---
 
-## <a name="11"></a>11. 打造成功产品的50条经验总结 
-<small>🔗 [newsletter.posthog.com](https://newsletter.posthog.com/p/50-things-weve-learned-about-building): Things we've learned about building products</small>
-
-
-| 🔥🔥: 223 \| 💬: [72](https://news.ycombinator.com/item?id=43267095) \| 🗓️ 2025-03-05
-
-
-<br />
-在PostHog团队的经验中，**小团队**（6人或更少）可以打造出优秀的产品，但需要赋予他们自主权，设定目标、优先路线图、选择指标并与用户沟通。**信任**是团队成功的关键，透明的工作方式和及时的反馈能避免政治斗争。**快速迭代**和**用户反馈**是产品开发的核心，尽早将产品交到用户手中，才能验证其价值并持续改进。
-
----
-
-## <a name="12"></a>12. 不使用Git托管平台的Git工作流 
+## <a name="11"></a>11. 不使用Git托管平台的Git工作流 
 <small>🔗 [chiark.greenend.org.uk](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/): Git without a forge</small>
 
 
-| 🔥🔥: 215 \| 💬: [79](https://news.ycombinator.com/item?id=43272275) \| 🗓️ 2025-03-05
+| 🔥🔥: 229 \| 💬: [84](https://news.ycombinator.com/item?id=43272275) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -167,11 +155,23 @@ QwQ-32B 是一款拥有 **32亿参数** 的模型，通过**强化学习（RL）
 
 ---
 
+## <a name="12"></a>12. 打造成功产品的50条经验总结 
+<small>🔗 [newsletter.posthog.com](https://newsletter.posthog.com/p/50-things-weve-learned-about-building): Things we've learned about building products</small>
+
+
+| 🔥🔥: 227 \| 💬: [73](https://news.ycombinator.com/item?id=43267095) \| 🗓️ 2025-03-05
+
+
+<br />
+在PostHog团队的经验中，**小团队**（6人或更少）可以打造出优秀的产品，但需要赋予他们自主权，设定目标、优先路线图、选择指标并与用户沟通。**信任**是团队成功的关键，透明的工作方式和及时的反馈能避免政治斗争。**快速迭代**和**用户反馈**是产品开发的核心，尽早将产品交到用户手中，才能验证其价值并持续改进。
+
+---
+
 ## <a name="13"></a>13. Lynx：抖音使用的开源跨平台框架 
 <small>🔗 [lynxjs.org](https://lynxjs.org/blog/lynx-unlock-native-for-more.html): Lynx: Open Source Native Cross Platform framework used in TikTok</small>
 
 
-| 🔥🔥: 196 \| 💬: [71](https://news.ycombinator.com/item?id=43264957) \| 🗓️ 2025-03-05
+| 🔥🔥: 203 \| 💬: [75](https://news.ycombinator.com/item?id=43264957) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -183,7 +183,7 @@ Lynx 是一个**开源**的**跨平台**框架，旨在帮助开发者以更快�
 <small>🔗 [ms-paint-i.de](https://ms-paint-i.de/): MS Paint IDE</small>
 
 
-| 🔥🔥: 195 \| 💬: [59](https://news.ycombinator.com/item?id=43265431) \| 🗓️ 2025-03-05
+| 🔥🔥: 197 \| 💬: [64](https://news.ycombinator.com/item?id=43265431) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -195,7 +195,7 @@ MS Paint IDE 是一款能将**MS Paint保存的图像文件**转换为文本并�
 <small>🔗 [fangpenlin.com](https://fangpenlin.com/posts/2024/12/30/my-beancount-books-are-95-percent-automatic/): My Beancount books are 95% automatic after 3 years (2024)</small>
 
 
-| 🔥🔥: 188 \| 💬: [79](https://news.ycombinator.com/item?id=43268454) \| 🗓️ 2025-03-05
+| 🔥🔥: 195 \| 💬: [79](https://news.ycombinator.com/item?id=43268454) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -207,7 +207,7 @@ MS Paint IDE 是一款能将**MS Paint保存的图像文件**转换为文本并�
 <small>🔗 [kbb.com](https://www.kbb.com/car-news/jeep-owners-fed-up-with-in-car-pop-up-ads/): Jeep owners fed up with in-car pop-up ads</small>
 
 
-| 🔥🔥: 181 \| 💬: [213](https://news.ycombinator.com/item?id=43272453) \| 🗓️ 2025-03-05
+| 🔥🔥: 183 \| 💬: [214](https://news.ycombinator.com/item?id=43272453) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -219,7 +219,7 @@ Jeep车主近日在社交媒体上抱怨，**车内信息娱乐屏幕**频繁弹
 <small>🔗 [dmathieu.com](https://dmathieu.com/en/opinions/skynet-won/): Skynet won and destroyed humanity</small>
 
 
-| 🔥🔥: 176 \| 💬: [123](https://news.ycombinator.com/item?id=43270687) \| 🗓️ 2025-03-05
+| 🔥🔥: 177 \| 💬: [124](https://news.ycombinator.com/item?id=43270687) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -231,7 +231,7 @@ Jeep车主近日在社交媒体上抱怨，**车内信息娱乐屏幕**频繁弹
 <small>🔗 [theguardian.com](https://www.theguardian.com/world/ng-interactive/2025/mar/05/shadow-fleets-subaquatic-sabotage-europe-undersea-internet-cables-under-attack): 'Shadow fleets' and sabotage: are Europe's undersea cables under attack?</small>
 
 
-| 🔥🔥: 172 \| 💬: [147](https://news.ycombinator.com/item?id=43265224) \| 🗓️ 2025-03-05
+| 🔥🔥: 172 \| 💬: [148](https://news.ycombinator.com/item?id=43265224) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -239,23 +239,11 @@ Jeep车主近日在社交媒体上抱怨，**车内信息娱乐屏幕**频繁弹
 
 ---
 
-## <a name="19"></a>19. 昔日互联网明星Digg的回归 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/03/05/technology/digg-alexis-ohanian-kevin-rose.html): The Return of Digg, a Star of an Earlier Internet Era</small>
-
-
-| 🔥🔥: 154 \| 💬: [209](https://news.ycombinator.com/item?id=43265521) \| 🗓️ 2025-03-05
-
-
-<br />
-2005年，Alexis Ohanian和Steve Huffman创立了Reddit，与Digg展开竞争。20年后，Digg创始人**Kevin Rose**从Money Group手中回购了Digg，并计划与**Alexis Ohanian**合作重新打造这一平台。Rose认为，当前社交媒体环境已不再需要“赢家通吃”，Digg的回归旨在与Reddit共存。这一举动正值社交媒体领域动荡之际，**Elon Musk**的X、Meta的视频化转型以及Reddit的上市都加剧了竞争。
-
----
-
-## <a name="20"></a>20. 在Xeon上使用1或2个Arc A770运行DeepSeek-R1-671B-Q4_K_M 
+## <a name="19"></a>19. 在Xeon上使用1或2个Arc A770运行DeepSeek-R1-671B-Q4_K_M 
 <small>🔗 [github.com](https://github.com/intel/ipex-llm/blob/main/docs/mddocs/Quickstart/llamacpp_portable_zip_gpu_quickstart.md): DeepSeek-R1-671B-Q4_K_M with 1 or 2 Arc A770 on Xeon</small>
 
 
-| 🔥🔥: 150 \| 💬: [63](https://news.ycombinator.com/item?id=43274613) \| 🗓️ 2025-03-05
+| 🔥🔥: 171 \| 💬: [66](https://news.ycombinator.com/item?id=43274613) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -263,7 +251,43 @@ Jeep车主近日在社交媒体上抱怨，**车内信息娱乐屏幕**频繁弹
 
 ---
 
-## <a name="21"></a>21. 谁在害怕彼得·蒂尔？新传记揭示我们或许都该警惕 
+## <a name="20"></a>20. 昔日互联网明星Digg的回归 
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/03/05/technology/digg-alexis-ohanian-kevin-rose.html): The Return of Digg, a Star of an Earlier Internet Era</small>
+
+
+| 🔥🔥: 156 \| 💬: [209](https://news.ycombinator.com/item?id=43265521) \| 🗓️ 2025-03-05
+
+
+<br />
+2005年，Alexis Ohanian和Steve Huffman创立了Reddit，与Digg展开竞争。20年后，Digg创始人**Kevin Rose**从Money Group手中回购了Digg，并计划与**Alexis Ohanian**合作重新打造这一平台。Rose认为，当前社交媒体环境已不再需要“赢家通吃”，Digg的回归旨在与Reddit共存。这一举动正值社交媒体领域动荡之际，**Elon Musk**的X、Meta的视频化转型以及Reddit的上市都加剧了竞争。
+
+---
+
+## <a name="21"></a>21. Zentool – AMD Zen 微码操作工具 
+<small>🔗 [github.com](https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md): Zentool – AMD Zen Microcode Manipulation Utility</small>
+
+
+| 🔥🔥: 134 \| 💬: [24](https://news.ycombinator.com/item?id=43272463) \| 🗓️ 2025-03-05
+
+
+<br />
+Zentool 是一款用于分析、修改和生成 AMD Zen 处理器微码补丁的工具套件。它提供了多种功能，包括查看微码文件头信息、修改微码版本、重新签名以及加载微码更新。用户还可以通过 Zentool 进行微码指令的**反汇编**和**修改**，甚至创建自定义微码补丁。该工具支持高级操作，如修改匹配寄存器和指令四元组，并提供了简单的汇编器（mcas）和反汇编器（mcop）用于调试和开发。Zentool 的开发基于 Google 硬件安全团队的研究成果，适用于需要深度定制微码的高级用户。
+
+---
+
+## <a name="22"></a>22. 大众推出低价电动车ID. EVERY1，挑战中国竞争对手 
+<small>🔗 [ttnews.com](https://www.ttnews.com/articles/vw-introduces-id-every1): Volkswagen seeks to counter rivals with budget EV model</small>
+
+
+| 🔥🔥: 128 \| 💬: [141](https://news.ycombinator.com/item?id=43274698) \| 🗓️ 2025-03-05
+
+
+<br />
+大众汽车推出**ID. EVERY1**概念车，售价约2万欧元（2.1万美元），是其**最便宜的电动车**。该车型续航超过155英里，计划两年内在欧洲投产。大众希望通过低价电动车应对中国品牌竞争，并恢复销量。然而，分析师指出，低价电动车盈利难度大，且需快速提升销量以满足欧盟碳排放目标。
+
+---
+
+## <a name="23"></a>23. 谁在害怕彼得·蒂尔？新传记揭示我们或许都该警惕 
 <small>🔗 [time.com](https://time.com/6092844/peter-thiel-power-biography-the-contrarian/): Who's Afraid of Peter Thiel? A New Biography Suggests We All Should Be (2021)</small>
 
 
@@ -275,23 +299,11 @@ Jeep车主近日在社交媒体上抱怨，**车内信息娱乐屏幕**频繁弹
 
 ---
 
-## <a name="22"></a>22. Zentool – AMD Zen 微码操作工具 
-<small>🔗 [github.com](https://github.com/google/security-research/blob/master/pocs/cpus/entrysign/zentool/README.md): Zentool – AMD Zen Microcode Manipulation Utility</small>
-
-
-| 🔥🔥: 125 \| 💬: [22](https://news.ycombinator.com/item?id=43272463) \| 🗓️ 2025-03-05
-
-
-<br />
-Zentool 是一款用于分析、修改和生成 AMD Zen 处理器微码补丁的工具套件。它提供了多种功能，包括查看微码文件头信息、修改微码版本、重新签名以及加载微码更新。用户还可以通过 Zentool 进行微码指令的**反汇编**和**修改**，甚至创建自定义微码补丁。该工具支持高级操作，如修改匹配寄存器和指令四元组，并提供了简单的汇编器（mcas）和反汇编器（mcop）用于调试和开发。Zentool 的开发基于 Google 硬件安全团队的研究成果，适用于需要深度定制微码的高级用户。
-
----
-
-## <a name="23"></a>23. 《“下架法案”的危险性》 
+## <a name="24"></a>24. 《“下架法案”的危险性》 
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/trump-calls-congress-pass-overbroad-take-it-down-act-so-he-can-use-it-censor): The "Take It Down" Act</small>
 
 
-| 🔥🔥: 122 \| 💬: [82](https://news.ycombinator.com/item?id=43274656) \| 🗓️ 2025-03-05
+| 🔥🔥: 124 \| 💬: [82](https://news.ycombinator.com/item?id=43274656) \| 🗓️ 2025-03-05
 
 
 <br />
@@ -299,26 +311,14 @@ Zentool 是一款用于分析、修改和生成 AMD Zen 处理器微码补丁的
 
 ---
 
-## <a name="24"></a>24. 大众推出低价电动车ID. EVERY1，挑战中国竞争对手 
-<small>🔗 [ttnews.com](https://www.ttnews.com/articles/vw-introduces-id-every1): Volkswagen seeks to counter rivals with budget EV model</small>
+## <a name="25"></a>25. 用强化学习击败《宝可梦红》，参数少于1000万 
+<small>🔗 [drubinstein.github.io](https://drubinstein.github.io/pokerl/): Show HN: Beating Pokemon Red with RL and <10M Parameters</small>
 
 
-| 🔥🔥: 122 \| 💬: [135](https://news.ycombinator.com/item?id=43274698) \| 🗓️ 2025-03-05
-
-
-<br />
-大众汽车推出**ID. EVERY1**概念车，售价约2万欧元（2.1万美元），是其**最便宜的电动车**。该车型续航超过155英里，计划两年内在欧洲投产。大众希望通过低价电动车应对中国品牌竞争，并恢复销量。然而，分析师指出，低价电动车盈利难度大，且需快速提升销量以满足欧盟碳排放目标。
-
----
-
-## <a name="25"></a>25. 研究：全球减少CFCs，臭氧层正在修复 
-<small>🔗 [news.mit.edu](https://news.mit.edu/2025/study-healing-ozone-hole-global-reduction-cfcs-0305): Study: The ozone hole is healing, thanks to global reduction of CFCs</small>
-
-
-| 🔥🔥: 115 \| 💬: [45](https://news.ycombinator.com/item?id=43270495) \| 🗓️ 2025-03-05
+| 🔥🔥: 117 \| 💬: [56](https://news.ycombinator.com/item?id=43269330) \| 🗓️ 2025-03-05
 
 
 <br />
-一项由麻省理工学院主导的研究证实，**南极臭氧层**正在修复，这主要归功于全球减少**臭氧消耗物质**（如CFCs）的努力。研究通过高统计置信度表明，臭氧恢复的趋势显著，且95%的恢复可归因于人类减少CFCs的行动。这一成果表明，**国际合作**能够有效解决环境问题。
+自2020年起，团队开发了一个**强化学习（RL）**代理，用于击败1996年的游戏《宝可梦红》。截至2025年2月，他们成功使用**少于1000万参数**的策略（比DeepSeekV3小60500倍）击败了游戏。该项目的目标不仅是生成击败游戏的策略，更是开发一种解决《宝可梦》问题的技术。所有代码已开源，供读者尝试。团队认为，JRPG（日式角色扮演游戏）为AI提供了极具挑战性的环境，尤其是**复杂推理**和**非线性任务**。
 
 ---
