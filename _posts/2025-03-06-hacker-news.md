@@ -12,7 +12,7 @@ tags:
 1. Revolt：开源的 Discord 替代品；
 1. 动漫迷意外发现数学证明；
 1. 简洁数据结构：高效存储与查询的新思路；
-1. 自动标记政客在直播中使用手机的行为；
+1. CodeTracer：基于Nim和Rust实现的时间旅行调试器；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [mistral.ai](https://mistral.ai/fr/news/mistral-ocr): Mistral OCR</small>
 
 
-| 🔥🔥: 1048 \| 💬: [327](https://news.ycombinator.com/item?id=43282905) \| 🗓️ 2025-03-06
+| 🔥🔥: 1093 \| 💬: [331](https://news.ycombinator.com/item?id=43282905) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -39,7 +39,7 @@ Mistral OCR 是一款革命性的**光学字符识别（OCR）API**，能够以*
 <small>🔗 [revolt.chat](https://revolt.chat): Revolt: Open-Source Alternative to Discord</small>
 
 
-| 🔥🔥: 619 \| 💬: [454](https://news.ycombinator.com/item?id=43277918) \| 🗓️ 2025-03-06
+| 🔥🔥: 631 \| 💬: [463](https://news.ycombinator.com/item?id=43277918) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -51,7 +51,7 @@ Revolt 是一款**开源**的聊天平台，提供文本频道、图片分享、
 <small>🔗 [scientificamerican.com](https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/): Anime fans stumbled upon a mathematical proof</small>
 
 
-| 🔥🔥: 270 \| 💬: [125](https://news.ycombinator.com/item?id=43282133) \| 🗓️ 2025-03-06
+| 🔥🔥: 282 \| 💬: [132](https://news.ycombinator.com/item?id=43282133) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -63,7 +63,7 @@ Revolt 是一款**开源**的聊天平台，提供文本频道、图片分享、
 <small>🔗 [blog.startifact.com](https://blog.startifact.com/posts/succinct/): Succinct Data Structures</small>
 
 
-| 🔥🔥: 259 \| 💬: [34](https://news.ycombinator.com/item?id=43282995) \| 🗓️ 2025-03-06
+| 🔥🔥: 272 \| 💬: [36](https://news.ycombinator.com/item?id=43282995) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -71,27 +71,27 @@ Revolt 是一款**开源**的聊天平台，提供文本频道、图片分享、
 
 ---
 
-## <a name="5"></a>5. 自动标记政客在直播中使用手机的行为 
-<small>🔗 [driesdepoorter.be](https://driesdepoorter.be/theflemishscrollers/): Automatically tagging politician when they use their phone on the livestreams</small>
-
-
-| 🔥🔥: 254 \| 💬: [145](https://news.ycombinator.com/item?id=43278473) \| 🗓️ 2025-03-06
-
-
-<br />
-该项目利用**AI技术**和**面部识别**，自动检测比利时弗拉芒政府每日直播中政客使用手机的行为。软件通过**Python**编写，结合机器学习识别手机和政客身份，并将相关视频发布到Twitter和Instagram，标记相关政客。自2021年7月5日起运行，无直播时还会检查历史视频。
-
----
-
-## <a name="6"></a>6. CodeTracer：基于Nim和Rust实现的时间旅行调试器 
+## <a name="5"></a>5. CodeTracer：基于Nim和Rust实现的时间旅行调试器 
 <small>🔗 [github.com](https://github.com/metacraft-labs/codetracer): Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust</small>
 
 
-| 🔥🔥: 253 \| 💬: [48](https://news.ycombinator.com/item?id=43280615) \| 🗓️ 2025-03-06
+| 🔥🔥: 260 \| 💬: [48](https://news.ycombinator.com/item?id=43280615) \| 🗓️ 2025-03-06
 
 
 <br />
 CodeTracer是一款**用户友好的时间旅行调试器**，支持多种编程语言。它通过记录程序执行生成可共享的跟踪文件，允许用户在GUI中前后浏览执行历史，并检查所有内存位置的变化。与传统调试器相比，CodeTracer提供了**强大的回溯功能**，能够快速定位难以复现的Bug。目前支持Noir语言，未来将扩展为全面的Web3开发工具包，并支持更多智能合约和零知识编程语言。
+
+---
+
+## <a name="6"></a>6. 自动标记政客在直播中使用手机的行为 
+<small>🔗 [driesdepoorter.be](https://driesdepoorter.be/theflemishscrollers/): Automatically tagging politician when they use their phone on the livestreams</small>
+
+
+| 🔥🔥: 255 \| 💬: [145](https://news.ycombinator.com/item?id=43278473) \| 🗓️ 2025-03-06
+
+
+<br />
+该项目利用**AI技术**和**面部识别**，自动检测比利时弗拉芒政府每日直播中政客使用手机的行为。软件通过**Python**编写，结合机器学习识别手机和政客身份，并将相关视频发布到Twitter和Instagram，标记相关政客。自2021年7月5日起运行，无直播时还会检查历史视频。
 
 ---
 
@@ -111,7 +111,7 @@ CodeTracer是一款**用户友好的时间旅行调试器**，支持多种编程
 <small>🔗 [gizmodo.com](https://gizmodo.com/nasa-shuts-off-voyager-science-instrument-more-power-cuts-ahead-to-keep-both-probes-going-2000572202): NASA Shuts Off Voyager Science Instrument</small>
 
 
-| 🔥🔥: 177 \| 💬: [68](https://news.ycombinator.com/item?id=43282594) \| 🗓️ 2025-03-06
+| 🔥🔥: 178 \| 💬: [69](https://news.ycombinator.com/item?id=43282594) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -147,7 +147,7 @@ AMD宣布推出**Instella**，这是一款完全开源的**3B参数语言模型*
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c1d4n119xr7o): Scientists crack how aspirin might stop cancers from spreading</small>
 
 
-| 🔥🔥: 141 \| 💬: [73](https://news.ycombinator.com/item?id=43279147) \| 🗓️ 2025-03-06
+| 🔥🔥: 143 \| 💬: [73](https://news.ycombinator.com/item?id=43279147) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -159,7 +159,7 @@ AMD宣布推出**Instella**，这是一款完全开源的**3B参数语言模型*
 <small>🔗 [github.com](https://github.com/EFForg/rayhunter): Rayhunter – Rust tool to detect cell site simulators on an orbic mobile hotspot</small>
 
 
-| 🔥🔥: 114 \| 💬: [9](https://news.ycombinator.com/item?id=43283917) \| 🗓️ 2025-03-06
+| 🔥🔥: 119 \| 💬: [11](https://news.ycombinator.com/item?id=43283917) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -171,7 +171,7 @@ Rayhunter是一款基于Rust的工具，旨在检测**Orbic RC400L移动热点**
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/06/uk-quietly-scrubs-encryption-advice-from-government-websites/): UK quietly scrubs encryption advice from government websites</small>
 
 
-| 🔥🔥: 113 \| 💬: [3](https://news.ycombinator.com/item?id=43282892) \| 🗓️ 2025-03-06
+| 🔥🔥: 114 \| 💬: [3](https://news.ycombinator.com/item?id=43282892) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -183,7 +183,7 @@ Rayhunter是一款基于Rust的工具，旨在检测**Orbic RC400L移动热点**
 <small>🔗 [openpipe.ai](https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue): Using GRPO to Beat o1, o3-mini and R1 at "Temporal Clue"</small>
 
 
-| 🔥🔥: 108 \| 💬: [28](https://news.ycombinator.com/item?id=43284420) \| 🗓️ 2025-03-06
+| 🔥🔥: 112 \| 💬: [31](https://news.ycombinator.com/item?id=43284420) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -191,35 +191,11 @@ Rayhunter是一款基于Rust的工具，旨在检测**Orbic RC400L移动热点**
 
 ---
 
-## <a name="15"></a>15. 1984年文件系统的重大突破：BSD快速文件系统 
-<small>🔗 [blog.koehntopp.info](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html): 50 Years in Filesystems: 1984</small>
-
-
-| 🔥: 100 \| 💬: [15](https://news.ycombinator.com/item?id=43283498) \| 🗓️ 2025-03-06
-
-
-<br />
-1984年，BSD Unix推出了**快速文件系统（FFS）**，旨在解决传统Unix文件系统的性能瓶颈。FFS通过**柱面组**优化文件布局，减少碎片化，并引入**大块存储**和**尾部打包**技术，提升I/O效率。FFS还改进了目录布局策略，确保同一目录下的文件存储在一起，同时支持更大的文件系统和更长的文件名。这些创新为现代文件系统奠定了基础。
-
----
-
-## <a name="16"></a>16. 揭露俄罗斯黑客冒充EFF的Stealc和Pyramid C2攻击内幕 
-<small>🔗 [hunt.io](https://hunt.io/blog/russian-speaking-actors-impersonate-etf-distribute-stealc-pyramid-c2): Exposing Russian EFF Impersonators: The Inside Story on Stealc and Pyramid C2</small>
-
-
-| 🔥: 93 \| 💬: [10](https://news.ycombinator.com/item?id=43283884) \| 🗓️ 2025-03-06
-
-
-<br />
-近期，一个冒充**电子前沿基金会（EFF）**的黑客组织针对《Albion Online》玩家发起攻击，通过伪造的PDF文件诱骗用户下载恶意软件。攻击者使用**Stealc**窃取器和**Pyramid C2**框架，窃取玩家账户信息。分析发现，攻击者通过共享SSH密钥连接了多个服务器，且代码中包含俄语注释，暗示其与俄罗斯有关。
-
----
-
-## <a name="17"></a>17. 可微分逻辑元胞自动机 
+## <a name="15"></a>15. 可微分逻辑元胞自动机 
 <small>🔗 [google-research.github.io](https://google-research.github.io/self-organising-systems/difflogic-ca/?hn): Differentiable Logic Cellular Automata</small>
 
 
-| 🔥: 86 \| 💬: [16](https://news.ycombinator.com/item?id=43286161) \| 🗓️ 2025-03-06
+| 🔥🔥: 109 \| 💬: [19](https://news.ycombinator.com/item?id=43286161) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -227,11 +203,35 @@ Rayhunter是一款基于Rust的工具，旨在检测**Orbic RC400L移动热点**
 
 ---
 
+## <a name="16"></a>16. 1984年文件系统的重大突破：BSD快速文件系统 
+<small>🔗 [blog.koehntopp.info](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html): 50 Years in Filesystems: 1984</small>
+
+
+| 🔥🔥: 108 \| 💬: [19](https://news.ycombinator.com/item?id=43283498) \| 🗓️ 2025-03-06
+
+
+<br />
+1984年，BSD Unix推出了**快速文件系统（FFS）**，旨在解决传统Unix文件系统的性能瓶颈。FFS通过**柱面组**优化文件布局，减少碎片化，并引入**大块存储**和**尾部打包**技术，提升I/O效率。FFS还改进了目录布局策略，确保同一目录下的文件存储在一起，同时支持更大的文件系统和更长的文件名。这些创新为现代文件系统奠定了基础。
+
+---
+
+## <a name="17"></a>17. 揭露俄罗斯黑客冒充EFF的Stealc和Pyramid C2攻击内幕 
+<small>🔗 [hunt.io](https://hunt.io/blog/russian-speaking-actors-impersonate-etf-distribute-stealc-pyramid-c2): Exposing Russian EFF Impersonators: The Inside Story on Stealc and Pyramid C2</small>
+
+
+| 🔥: 96 \| 💬: [10](https://news.ycombinator.com/item?id=43283884) \| 🗓️ 2025-03-06
+
+
+<br />
+近期，一个冒充**电子前沿基金会（EFF）**的黑客组织针对《Albion Online》玩家发起攻击，通过伪造的PDF文件诱骗用户下载恶意软件。攻击者使用**Stealc**窃取器和**Pyramid C2**框架，窃取玩家账户信息。分析发现，攻击者通过共享SSH密钥连接了多个服务器，且代码中包含俄语注释，暗示其与俄罗斯有关。
+
+---
+
 ## <a name="18"></a>18. Atlassian宣布Opsgenie停止支持 
 <small>🔗 [atlassian.com](https://www.atlassian.com/blog/announcements/evolution-of-it-operations): Atlassian announces end of support for Opsgenie</small>
 
 
-| 🔥: 85 \| 💬: [71](https://news.ycombinator.com/item?id=43283178) \| 🗓️ 2025-03-06
+| 🔥: 87 \| 💬: [71](https://news.ycombinator.com/item?id=43283178) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -243,7 +243,7 @@ Atlassian宣布将**Opsgenie**的功能完全整合到其平台中，以更好�
 <small>🔗 [github.com](https://github.com/NishantJoshi00/shelgon): Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust</small>
 
 
-| 🔥: 84 \| 💬: [14](https://news.ycombinator.com/item?id=43284227) \| 🗓️ 2025-03-06
+| 🔥: 85 \| 💬: [16](https://news.ycombinator.com/item?id=43284227) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -251,35 +251,11 @@ Shelgon 是一个基于 Rust 的框架，用于构建**交互式 REPL**（读取
 
 ---
 
-## <a name="20"></a>20. Rust向量与四元数库 
-<small>🔗 [github.com](https://github.com/David-OConnor/lin-alg): Show HN: Rust Vector and Quaternion Lib</small>
-
-
-| 🔥: 77 \| 💬: [13](https://news.ycombinator.com/item?id=43284811) \| 🗓️ 2025-03-06
-
-
-<br />
-这是一个用于**矩阵、向量和四元数**操作的Rust库，支持`f32`和`f64`数据类型。适用于**计算机图形学**、机器人学、生物力学、航空航天等领域。库支持`no_std`环境，适合嵌入式开发，并提供**二进制编码**和**GPU数据传输**功能。示例代码展示了向量和四元数的基本操作，如归一化、点积、叉积和旋转。
-
----
-
-## <a name="21"></a>21. Warewulf：无状态、无盘容器操作系统集群部署系统 
-<small>🔗 [github.com](https://github.com/warewulf/warewulf): Warewulf is a stateless and diskless container OS provisioning system</small>
-
-
-| 🔥: 76 \| 💬: [25](https://news.ycombinator.com/item?id=43283669) \| 🗓️ 2025-03-06
-
-
-<br />
-Warewulf 是一个专为**高性能计算（HPC）集群**设计的无状态、网络引导的集群部署系统。它支持大规模**裸金属**和虚拟系统的**容器化操作系统**部署，适用于需要高效管理和扩展的集群环境。Warewulf 提供了文档、下载、社区支持和许可证信息，帮助用户快速上手和部署。
-
----
-
-## <a name="22"></a>22. 如何在不引发证书错误的情况下撤销对CA的信任 
+## <a name="20"></a>20. 如何在不引发证书错误的情况下撤销对CA的信任 
 <small>🔗 [dadrian.io](https://dadrian.io/blog/posts/sct-not-after/): How to distrust a CA without any certificate errors</small>
 
 
-| 🔥: 75 \| 💬: [21](https://news.ycombinator.com/item?id=43285671) \| 🗓️ 2025-03-06
+| 🔥: 80 \| 💬: [23](https://news.ycombinator.com/item?id=43285671) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -287,11 +263,35 @@ Warewulf 是一个专为**高性能计算（HPC）集群**设计的无状态、�
 
 ---
 
+## <a name="21"></a>21. Rust向量与四元数库 
+<small>🔗 [github.com](https://github.com/David-OConnor/lin-alg): Show HN: Rust Vector and Quaternion Lib</small>
+
+
+| 🔥: 79 \| 💬: [14](https://news.ycombinator.com/item?id=43284811) \| 🗓️ 2025-03-06
+
+
+<br />
+这是一个用于**矩阵、向量和四元数**操作的Rust库，支持`f32`和`f64`数据类型。适用于**计算机图形学**、机器人学、生物力学、航空航天等领域。库支持`no_std`环境，适合嵌入式开发，并提供**二进制编码**和**GPU数据传输**功能。示例代码展示了向量和四元数的基本操作，如归一化、点积、叉积和旋转。
+
+---
+
+## <a name="22"></a>22. Warewulf：无状态、无盘容器操作系统集群部署系统 
+<small>🔗 [github.com](https://github.com/warewulf/warewulf): Warewulf is a stateless and diskless container OS provisioning system</small>
+
+
+| 🔥: 78 \| 💬: [25](https://news.ycombinator.com/item?id=43283669) \| 🗓️ 2025-03-06
+
+
+<br />
+Warewulf 是一个专为**高性能计算（HPC）集群**设计的无状态、网络引导的集群部署系统。它支持大规模**裸金属**和虚拟系统的**容器化操作系统**部署，适用于需要高效管理和扩展的集群环境。Warewulf 提供了文档、下载、社区支持和许可证信息，帮助用户快速上手和部署。
+
+---
+
 ## <a name="23"></a>23. 孟加拉国工厂转向监控与自动化，工人压力倍增 
 <small>🔗 [restofworld.org](https://restofworld.org/2025/bangladesh-garment-factories-automation-surveillance/): Bangladesh's factories turn to surveillance, automation; workers feel pressure</small>
 
 
-| 🔥: 73 \| 💬: [63](https://news.ycombinator.com/item?id=43280748) \| 🗓️ 2025-03-06
+| 🔥: 74 \| 💬: [63](https://news.ycombinator.com/item?id=43280748) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -303,7 +303,7 @@ Warewulf 是一个专为**高性能计算（HPC）集群**设计的无状态、�
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/ckg8jllq283o): Denmark postal service to stop delivering letters</small>
 
 
-| 🔥: 67 \| 💬: [67](https://news.ycombinator.com/item?id=43278934) \| 🗓️ 2025-03-06
+| 🔥: 68 \| 💬: [67](https://news.ycombinator.com/item?id=43278934) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -311,14 +311,14 @@ Warewulf 是一个专为**高性能计算（HPC）集群**设计的无状态、�
 
 ---
 
-## <a name="25"></a>25. 为什么56k调制解调器依赖你不知道的数字电话线 
-<small>🔗 [hackaday.com](https://hackaday.com/2025/03/06/why-56k-modems-relied-on-digital-phone-lines-you-didnt-know-we-had/): Why 56k Modems Relied on Digital Phone Lines You Didn't Know We Had</small>
+## <a name="25"></a>25. 关于1670调制解调器奇怪噪音的更多思考 
+<small>🔗 [rachelbythebay.com](https://rachelbythebay.com/w/2025/03/05/1670/): More thoughts on the 1670 modem's weird noises</small>
 
 
-| 🔥: 65 \| 💬: [55](https://news.ycombinator.com/item?id=43282668) \| 🗓️ 2025-03-06
+| 🔥: 67 \| 💬: [25](https://news.ycombinator.com/item?id=43281893) \| 🗓️ 2025-03-06
 
 
 <br />
-在20世纪90年代，**56k调制解调器**通过利用电话网络的**数字化改造**实现了高速数据传输。传统调制解调器将数字信号转换为模拟音频，而56k调制解调器则让**ISP直接接入数字网络**，减少了信号转换，从而突破了33.6kbps的限制。尽管上传速度仍受限于33.6kbps，56k调制解调器在宽带普及前成为了互联网提速的关键技术。
+作者最近使用两台VIC-20电脑和1670调制解调器进行连接实验，发现调制解调器在**拨号模式**下会发出奇怪的噪音。这些噪音并非脉冲拨号，而是调制解调器在等待应答音时产生的**“pa-tink”声**。作者推测这些噪音可能来自本地扬声器，而非线路传输。尽管这些噪音对实际使用没有影响，但它们仍然是**技术爱好者**心中的一个小谜团。
 
 ---
