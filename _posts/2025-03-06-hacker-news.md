@@ -27,7 +27,7 @@ tags:
 <small>🔗 [mistral.ai](https://mistral.ai/fr/news/mistral-ocr): Mistral OCR</small>
 
 
-| 🔥🔥: 1093 \| 💬: [331](https://news.ycombinator.com/item?id=43282905) \| 🗓️ 2025-03-06
+| 🔥🔥: 1140 \| 💬: [332](https://news.ycombinator.com/item?id=43282905) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -39,7 +39,7 @@ Mistral OCR 是一款革命性的**光学字符识别（OCR）API**，能够以*
 <small>🔗 [revolt.chat](https://revolt.chat): Revolt: Open-Source Alternative to Discord</small>
 
 
-| 🔥🔥: 631 \| 💬: [463](https://news.ycombinator.com/item?id=43277918) \| 🗓️ 2025-03-06
+| 🔥🔥: 641 \| 💬: [469](https://news.ycombinator.com/item?id=43277918) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -51,7 +51,7 @@ Revolt 是一款**开源**的聊天平台，提供文本频道、图片分享、
 <small>🔗 [scientificamerican.com](https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/): Anime fans stumbled upon a mathematical proof</small>
 
 
-| 🔥🔥: 282 \| 💬: [132](https://news.ycombinator.com/item?id=43282133) \| 🗓️ 2025-03-06
+| 🔥🔥: 300 \| 💬: [138](https://news.ycombinator.com/item?id=43282133) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -63,7 +63,7 @@ Revolt 是一款**开源**的聊天平台，提供文本频道、图片分享、
 <small>🔗 [blog.startifact.com](https://blog.startifact.com/posts/succinct/): Succinct Data Structures</small>
 
 
-| 🔥🔥: 272 \| 💬: [36](https://news.ycombinator.com/item?id=43282995) \| 🗓️ 2025-03-06
+| 🔥🔥: 295 \| 💬: [41](https://news.ycombinator.com/item?id=43282995) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -75,7 +75,7 @@ Revolt 是一款**开源**的聊天平台，提供文本频道、图片分享、
 <small>🔗 [github.com](https://github.com/metacraft-labs/codetracer): Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust</small>
 
 
-| 🔥🔥: 260 \| 💬: [48](https://news.ycombinator.com/item?id=43280615) \| 🗓️ 2025-03-06
+| 🔥🔥: 265 \| 💬: [48](https://news.ycombinator.com/item?id=43280615) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -87,7 +87,7 @@ CodeTracer是一款**用户友好的时间旅行调试器**，支持多种编程
 <small>🔗 [driesdepoorter.be](https://driesdepoorter.be/theflemishscrollers/): Automatically tagging politician when they use their phone on the livestreams</small>
 
 
-| 🔥🔥: 255 \| 💬: [145](https://news.ycombinator.com/item?id=43278473) \| 🗓️ 2025-03-06
+| 🔥🔥: 256 \| 💬: [145](https://news.ycombinator.com/item?id=43278473) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -111,7 +111,7 @@ CodeTracer是一款**用户友好的时间旅行调试器**，支持多种编程
 <small>🔗 [gizmodo.com](https://gizmodo.com/nasa-shuts-off-voyager-science-instrument-more-power-cuts-ahead-to-keep-both-probes-going-2000572202): NASA Shuts Off Voyager Science Instrument</small>
 
 
-| 🔥🔥: 178 \| 💬: [69](https://news.ycombinator.com/item?id=43282594) \| 🗓️ 2025-03-06
+| 🔥🔥: 183 \| 💬: [69](https://news.ycombinator.com/item?id=43282594) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -147,7 +147,7 @@ AMD宣布推出**Instella**，这是一款完全开源的**3B参数语言模型*
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c1d4n119xr7o): Scientists crack how aspirin might stop cancers from spreading</small>
 
 
-| 🔥🔥: 143 \| 💬: [73](https://news.ycombinator.com/item?id=43279147) \| 🗓️ 2025-03-06
+| 🔥🔥: 144 \| 💬: [74](https://news.ycombinator.com/item?id=43279147) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -155,11 +155,23 @@ AMD宣布推出**Instella**，这是一款完全开源的**3B参数语言模型*
 
 ---
 
-## <a name="12"></a>12. Rayhunter – 用于检测Orbic移动热点上伪基站的Rust工具 
+## <a name="12"></a>12. 可微分逻辑元胞自动机 
+<small>🔗 [google-research.github.io](https://google-research.github.io/self-organising-systems/difflogic-ca/?hn): Differentiable Logic Cellular Automata</small>
+
+
+| 🔥🔥: 131 \| 💬: [25](https://news.ycombinator.com/item?id=43286161) \| 🗓️ 2025-03-06
+
+
+<br />
+本文探讨了一种结合**可微分逻辑门网络**与**神经元胞自动机**的新方法，旨在通过**梯度下降**学习局部规则，生成复杂模式。该方法保留了元胞自动机的离散特性，同时引入了神经网络的灵活性，为可编程物质和自组织计算系统提供了新的可能性。
+
+---
+
+## <a name="13"></a>13. Rayhunter – 用于检测Orbic移动热点上伪基站的Rust工具 
 <small>🔗 [github.com](https://github.com/EFForg/rayhunter): Rayhunter – Rust tool to detect cell site simulators on an orbic mobile hotspot</small>
 
 
-| 🔥🔥: 119 \| 💬: [11](https://news.ycombinator.com/item?id=43283917) \| 🗓️ 2025-03-06
+| 🔥🔥: 124 \| 💬: [11](https://news.ycombinator.com/item?id=43283917) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -167,7 +179,19 @@ Rayhunter是一款基于Rust的工具，旨在检测**Orbic RC400L移动热点**
 
 ---
 
-## <a name="13"></a>13. 英国政府悄然删除加密建议 
+## <a name="14"></a>14. 使用GRPO在“时间线索”中超越o1、o3-mini和R1 
+<small>🔗 [openpipe.ai](https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue): Using GRPO to Beat o1, o3-mini and R1 at "Temporal Clue"</small>
+
+
+| 🔥🔥: 116 \| 💬: [35](https://news.ycombinator.com/item?id=43284420) \| 🗓️ 2025-03-06
+
+
+<br />
+本文介绍了如何通过**GRPO（组相对策略优化）**方法，在推理成本降低100倍的情况下，使Qwen 14B和32B模型在逻辑推理游戏“时间线索”中超越OpenAI的o1、o3-mini和DeepSeek的R1模型，并接近Anthropic的Sonnet 3.7表现。通过**强化学习**和精心设计的训练流程，模型在推理任务中表现出色，展示了**开源模型**在复杂推理任务中的潜力。
+
+---
+
+## <a name="15"></a>15. 英国政府悄然删除加密建议 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/06/uk-quietly-scrubs-encryption-advice-from-government-websites/): UK quietly scrubs encryption advice from government websites</small>
 
 
@@ -179,35 +203,11 @@ Rayhunter是一款基于Rust的工具，旨在检测**Orbic RC400L移动热点**
 
 ---
 
-## <a name="14"></a>14. 使用GRPO在“时间线索”中超越o1、o3-mini和R1 
-<small>🔗 [openpipe.ai](https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue): Using GRPO to Beat o1, o3-mini and R1 at "Temporal Clue"</small>
-
-
-| 🔥🔥: 112 \| 💬: [31](https://news.ycombinator.com/item?id=43284420) \| 🗓️ 2025-03-06
-
-
-<br />
-本文介绍了如何通过**GRPO（组相对策略优化）**方法，在推理成本降低100倍的情况下，使Qwen 14B和32B模型在逻辑推理游戏“时间线索”中超越OpenAI的o1、o3-mini和DeepSeek的R1模型，并接近Anthropic的Sonnet 3.7表现。通过**强化学习**和精心设计的训练流程，模型在推理任务中表现出色，展示了**开源模型**在复杂推理任务中的潜力。
-
----
-
-## <a name="15"></a>15. 可微分逻辑元胞自动机 
-<small>🔗 [google-research.github.io](https://google-research.github.io/self-organising-systems/difflogic-ca/?hn): Differentiable Logic Cellular Automata</small>
-
-
-| 🔥🔥: 109 \| 💬: [19](https://news.ycombinator.com/item?id=43286161) \| 🗓️ 2025-03-06
-
-
-<br />
-本文探讨了一种结合**可微分逻辑门网络**与**神经元胞自动机**的新方法，旨在通过**梯度下降**学习局部规则，生成复杂模式。该方法保留了元胞自动机的离散特性，同时引入了神经网络的灵活性，为可编程物质和自组织计算系统提供了新的可能性。
-
----
-
 ## <a name="16"></a>16. 1984年文件系统的重大突破：BSD快速文件系统 
 <small>🔗 [blog.koehntopp.info](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html): 50 Years in Filesystems: 1984</small>
 
 
-| 🔥🔥: 108 \| 💬: [19](https://news.ycombinator.com/item?id=43283498) \| 🗓️ 2025-03-06
+| 🔥🔥: 114 \| 💬: [19](https://news.ycombinator.com/item?id=43283498) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -219,7 +219,7 @@ Rayhunter是一款基于Rust的工具，旨在检测**Orbic RC400L移动热点**
 <small>🔗 [hunt.io](https://hunt.io/blog/russian-speaking-actors-impersonate-etf-distribute-stealc-pyramid-c2): Exposing Russian EFF Impersonators: The Inside Story on Stealc and Pyramid C2</small>
 
 
-| 🔥: 96 \| 💬: [10](https://news.ycombinator.com/item?id=43283884) \| 🗓️ 2025-03-06
+| 🔥🔥: 101 \| 💬: [10](https://news.ycombinator.com/item?id=43283884) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -231,7 +231,7 @@ Rayhunter是一款基于Rust的工具，旨在检测**Orbic RC400L移动热点**
 <small>🔗 [atlassian.com](https://www.atlassian.com/blog/announcements/evolution-of-it-operations): Atlassian announces end of support for Opsgenie</small>
 
 
-| 🔥: 87 \| 💬: [71](https://news.ycombinator.com/item?id=43283178) \| 🗓️ 2025-03-06
+| 🔥: 89 \| 💬: [71](https://news.ycombinator.com/item?id=43283178) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -239,23 +239,11 @@ Atlassian宣布将**Opsgenie**的功能完全整合到其平台中，以更好�
 
 ---
 
-## <a name="19"></a>19. Shelgon：用 Rust 构建交互式 REPL 终端的框架 
-<small>🔗 [github.com](https://github.com/NishantJoshi00/shelgon): Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust</small>
-
-
-| 🔥: 85 \| 💬: [16](https://news.ycombinator.com/item?id=43284227) \| 🗓️ 2025-03-06
-
-
-<br />
-Shelgon 是一个基于 Rust 的框架，用于构建**交互式 REPL**（读取-求值-输出循环）应用和自定义终端。它提供了**类型安全**的命令执行、异步运行时集成（基于 tokio）、丰富的终端 UI（使用 ratatui）以及多行输入处理等功能。开发者可以轻松定义命令执行逻辑、维护上下文状态，并支持智能补全。适用于需要高性能、可定制终端的场景。
-
----
-
-## <a name="20"></a>20. 如何在不引发证书错误的情况下撤销对CA的信任 
+## <a name="19"></a>19. 如何在不引发证书错误的情况下撤销对CA的信任 
 <small>🔗 [dadrian.io](https://dadrian.io/blog/posts/sct-not-after/): How to distrust a CA without any certificate errors</small>
 
 
-| 🔥: 80 \| 💬: [23](https://news.ycombinator.com/item?id=43285671) \| 🗓️ 2025-03-06
+| 🔥: 89 \| 💬: [23](https://news.ycombinator.com/item?id=43285671) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -263,11 +251,23 @@ Shelgon 是一个基于 Rust 的框架，用于构建**交互式 REPL**（读取
 
 ---
 
+## <a name="20"></a>20. Shelgon：用 Rust 构建交互式 REPL 终端的框架 
+<small>🔗 [github.com](https://github.com/NishantJoshi00/shelgon): Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust</small>
+
+
+| 🔥: 87 \| 💬: [17](https://news.ycombinator.com/item?id=43284227) \| 🗓️ 2025-03-06
+
+
+<br />
+Shelgon 是一个基于 Rust 的框架，用于构建**交互式 REPL**（读取-求值-输出循环）应用和自定义终端。它提供了**类型安全**的命令执行、异步运行时集成（基于 tokio）、丰富的终端 UI（使用 ratatui）以及多行输入处理等功能。开发者可以轻松定义命令执行逻辑、维护上下文状态，并支持智能补全。适用于需要高性能、可定制终端的场景。
+
+---
+
 ## <a name="21"></a>21. Rust向量与四元数库 
 <small>🔗 [github.com](https://github.com/David-OConnor/lin-alg): Show HN: Rust Vector and Quaternion Lib</small>
 
 
-| 🔥: 79 \| 💬: [14](https://news.ycombinator.com/item?id=43284811) \| 🗓️ 2025-03-06
+| 🔥: 83 \| 💬: [14](https://news.ycombinator.com/item?id=43284811) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -279,7 +279,7 @@ Shelgon 是一个基于 Rust 的框架，用于构建**交互式 REPL**（读取
 <small>🔗 [github.com](https://github.com/warewulf/warewulf): Warewulf is a stateless and diskless container OS provisioning system</small>
 
 
-| 🔥: 78 \| 💬: [25](https://news.ycombinator.com/item?id=43283669) \| 🗓️ 2025-03-06
+| 🔥: 82 \| 💬: [25](https://news.ycombinator.com/item?id=43283669) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -287,7 +287,19 @@ Warewulf 是一个专为**高性能计算（HPC）集群**设计的无状态、�
 
 ---
 
-## <a name="23"></a>23. 孟加拉国工厂转向监控与自动化，工人压力倍增 
+## <a name="23"></a>23. 为什么我对扩散模型感兴趣？ 
+<small>🔗 [rnikhil.com](https://rnikhil.com/2025/03/06/diffusion-models-eval): Why I find diffusion models interesting?</small>
+
+
+| 🔥: 78 \| 💬: [32](https://news.ycombinator.com/item?id=43285726) \| 🗓️ 2025-03-06
+
+
+<br />
+扩散模型（dLLM）通过同时生成文本的各个部分，而非传统的从左到右预测，展现出独特优势。**Inception Labs** 发布的 dLLM 在代码生成上超越了类似规模的 LLM，并声称在速度和效率上有 5-10 倍的提升。**dLLM 减少了幻觉问题**，能够先生成并验证关键部分，再继续生成其余内容，适用于客服聊天机器人等场景。此外，**dLLM 可能改善多步代理工作流**，避免陷入循环，提升规划和自我修正能力。
+
+---
+
+## <a name="24"></a>24. 孟加拉国工厂转向监控与自动化，工人压力倍增 
 <small>🔗 [restofworld.org](https://restofworld.org/2025/bangladesh-garment-factories-automation-surveillance/): Bangladesh's factories turn to surveillance, automation; workers feel pressure</small>
 
 
@@ -299,7 +311,7 @@ Warewulf 是一个专为**高性能计算（HPC）集群**设计的无状态、�
 
 ---
 
-## <a name="24"></a>24. 丹麦邮政将停止信件投递服务 
+## <a name="25"></a>25. 丹麦邮政将停止信件投递服务 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/ckg8jllq283o): Denmark postal service to stop delivering letters</small>
 
 
@@ -308,17 +320,5 @@ Warewulf 是一个专为**高性能计算（HPC）集群**设计的无状态、�
 
 <br />
 丹麦国有邮政公司**PostNord**宣布，由于信件量自本世纪初以来下降了**90%**，将于2025年底停止所有信件投递服务，结束400年的信件投递历史。**1500个邮筒**将从6月开始逐步消失。尽管95%的丹麦人使用数字邮政服务，但仍有27.1万人依赖实体邮件，尤其是老年人和偏远地区居民。PostNord将转向包裹投递业务，并计划裁员1500人。
-
----
-
-## <a name="25"></a>25. 关于1670调制解调器奇怪噪音的更多思考 
-<small>🔗 [rachelbythebay.com](https://rachelbythebay.com/w/2025/03/05/1670/): More thoughts on the 1670 modem's weird noises</small>
-
-
-| 🔥: 67 \| 💬: [25](https://news.ycombinator.com/item?id=43281893) \| 🗓️ 2025-03-06
-
-
-<br />
-作者最近使用两台VIC-20电脑和1670调制解调器进行连接实验，发现调制解调器在**拨号模式**下会发出奇怪的噪音。这些噪音并非脉冲拨号，而是调制解调器在等待应答音时产生的**“pa-tink”声**。作者推测这些噪音可能来自本地扬声器，而非线路传输。尽管这些噪音对实际使用没有影响，但它们仍然是**技术爱好者**心中的一个小谜团。
 
 ---
