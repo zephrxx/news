@@ -27,7 +27,7 @@ tags:
 <small>🔗 [mistral.ai](https://mistral.ai/fr/news/mistral-ocr): Mistral OCR</small>
 
 
-| 🔥🔥: 1140 \| 💬: [332](https://news.ycombinator.com/item?id=43282905) \| 🗓️ 2025-03-06
+| 🔥🔥: 1193 \| 💬: [342](https://news.ycombinator.com/item?id=43282905) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -39,7 +39,7 @@ Mistral OCR 是一款革命性的**光学字符识别（OCR）API**，能够以*
 <small>🔗 [revolt.chat](https://revolt.chat): Revolt: Open-Source Alternative to Discord</small>
 
 
-| 🔥🔥: 641 \| 💬: [469](https://news.ycombinator.com/item?id=43277918) \| 🗓️ 2025-03-06
+| 🔥🔥: 646 \| 💬: [475](https://news.ycombinator.com/item?id=43277918) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -51,7 +51,7 @@ Revolt 是一款**开源**的聊天平台，提供文本频道、图片分享、
 <small>🔗 [scientificamerican.com](https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/): Anime fans stumbled upon a mathematical proof</small>
 
 
-| 🔥🔥: 300 \| 💬: [138](https://news.ycombinator.com/item?id=43282133) \| 🗓️ 2025-03-06
+| 🔥🔥: 317 \| 💬: [142](https://news.ycombinator.com/item?id=43282133) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -63,7 +63,7 @@ Revolt 是一款**开源**的聊天平台，提供文本频道、图片分享、
 <small>🔗 [blog.startifact.com](https://blog.startifact.com/posts/succinct/): Succinct Data Structures</small>
 
 
-| 🔥🔥: 295 \| 💬: [41](https://news.ycombinator.com/item?id=43282995) \| 🗓️ 2025-03-06
+| 🔥🔥: 311 \| 💬: [43](https://news.ycombinator.com/item?id=43282995) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -75,7 +75,7 @@ Revolt 是一款**开源**的聊天平台，提供文本频道、图片分享、
 <small>🔗 [github.com](https://github.com/metacraft-labs/codetracer): Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust</small>
 
 
-| 🔥🔥: 265 \| 💬: [48](https://news.ycombinator.com/item?id=43280615) \| 🗓️ 2025-03-06
+| 🔥🔥: 274 \| 💬: [49](https://news.ycombinator.com/item?id=43280615) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -87,7 +87,7 @@ CodeTracer是一款**用户友好的时间旅行调试器**，支持多种编程
 <small>🔗 [driesdepoorter.be](https://driesdepoorter.be/theflemishscrollers/): Automatically tagging politician when they use their phone on the livestreams</small>
 
 
-| 🔥🔥: 256 \| 💬: [145](https://news.ycombinator.com/item?id=43278473) \| 🗓️ 2025-03-06
+| 🔥🔥: 257 \| 💬: [145](https://news.ycombinator.com/item?id=43278473) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -111,7 +111,7 @@ CodeTracer是一款**用户友好的时间旅行调试器**，支持多种编程
 <small>🔗 [gizmodo.com](https://gizmodo.com/nasa-shuts-off-voyager-science-instrument-more-power-cuts-ahead-to-keep-both-probes-going-2000572202): NASA Shuts Off Voyager Science Instrument</small>
 
 
-| 🔥🔥: 183 \| 💬: [69](https://news.ycombinator.com/item?id=43282594) \| 🗓️ 2025-03-06
+| 🔥🔥: 188 \| 💬: [69](https://news.ycombinator.com/item?id=43282594) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -143,23 +143,11 @@ AMD宣布推出**Instella**，这是一款完全开源的**3B参数语言模型*
 
 ---
 
-## <a name="11"></a>11. 科学家揭示阿司匹林如何阻止癌症扩散 
-<small>🔗 [bbc.com](https://www.bbc.com/news/articles/c1d4n119xr7o): Scientists crack how aspirin might stop cancers from spreading</small>
-
-
-| 🔥🔥: 144 \| 💬: [74](https://news.ycombinator.com/item?id=43279147) \| 🗓️ 2025-03-06
-
-
-<br />
-剑桥大学的科学家发现，**阿司匹林**通过增强免疫系统的能力来阻止癌症扩散。研究表明，阿司匹林能够抑制**血小板**对**T细胞**的抑制作用，从而使T细胞更有效地攻击扩散的癌细胞。这一发现为早期癌症患者提供了潜在的治疗方向，但仍需进一步临床试验验证其安全性和适用范围。
-
----
-
-## <a name="12"></a>12. 可微分逻辑元胞自动机 
+## <a name="11"></a>11. 可微分逻辑元胞自动机 
 <small>🔗 [google-research.github.io](https://google-research.github.io/self-organising-systems/difflogic-ca/?hn): Differentiable Logic Cellular Automata</small>
 
 
-| 🔥🔥: 131 \| 💬: [25](https://news.ycombinator.com/item?id=43286161) \| 🗓️ 2025-03-06
+| 🔥🔥: 150 \| 💬: [29](https://news.ycombinator.com/item?id=43286161) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -167,23 +155,23 @@ AMD宣布推出**Instella**，这是一款完全开源的**3B参数语言模型*
 
 ---
 
-## <a name="13"></a>13. Rayhunter – 用于检测Orbic移动热点上伪基站的Rust工具 
-<small>🔗 [github.com](https://github.com/EFForg/rayhunter): Rayhunter – Rust tool to detect cell site simulators on an orbic mobile hotspot</small>
+## <a name="12"></a>12. 科学家揭示阿司匹林如何阻止癌症扩散 
+<small>🔗 [bbc.com](https://www.bbc.com/news/articles/c1d4n119xr7o): Scientists crack how aspirin might stop cancers from spreading</small>
 
 
-| 🔥🔥: 124 \| 💬: [11](https://news.ycombinator.com/item?id=43283917) \| 🗓️ 2025-03-06
+| 🔥🔥: 146 \| 💬: [74](https://news.ycombinator.com/item?id=43279147) \| 🗓️ 2025-03-06
 
 
 <br />
-Rayhunter是一款基于Rust的工具，旨在检测**Orbic RC400L移动热点**上的**伪基站（IMSI Catcher）**。该工具提供了一个Web界面，用户可以通过Wi-Fi或USB连接设备进行控制，支持启动/停止记录、下载捕获数据以及查看分析结果。目前仅支持Linux平台，需手动安装并配置ADB工具。**注意：此工具为概念验证，不适用于高风险场景。**
+剑桥大学的科学家发现，**阿司匹林**通过增强免疫系统的能力来阻止癌症扩散。研究表明，阿司匹林能够抑制**血小板**对**T细胞**的抑制作用，从而使T细胞更有效地攻击扩散的癌细胞。这一发现为早期癌症患者提供了潜在的治疗方向，但仍需进一步临床试验验证其安全性和适用范围。
 
 ---
 
-## <a name="14"></a>14. 使用GRPO在“时间线索”中超越o1、o3-mini和R1 
+## <a name="13"></a>13. 使用GRPO在“时间线索”中超越o1、o3-mini和R1 
 <small>🔗 [openpipe.ai](https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue): Using GRPO to Beat o1, o3-mini and R1 at "Temporal Clue"</small>
 
 
-| 🔥🔥: 116 \| 💬: [35](https://news.ycombinator.com/item?id=43284420) \| 🗓️ 2025-03-06
+| 🔥🔥: 128 \| 💬: [35](https://news.ycombinator.com/item?id=43284420) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -191,7 +179,31 @@ Rayhunter是一款基于Rust的工具，旨在检测**Orbic RC400L移动热点**
 
 ---
 
-## <a name="15"></a>15. 英国政府悄然删除加密建议 
+## <a name="14"></a>14. Rayhunter – 用于检测Orbic移动热点上伪基站的Rust工具 
+<small>🔗 [github.com](https://github.com/EFForg/rayhunter): Rayhunter – Rust tool to detect cell site simulators on an orbic mobile hotspot</small>
+
+
+| 🔥🔥: 127 \| 💬: [12](https://news.ycombinator.com/item?id=43283917) \| 🗓️ 2025-03-06
+
+
+<br />
+Rayhunter是一款基于Rust的工具，旨在检测**Orbic RC400L移动热点**上的**伪基站（IMSI Catcher）**。该工具提供了一个Web界面，用户可以通过Wi-Fi或USB连接设备进行控制，支持启动/停止记录、下载捕获数据以及查看分析结果。目前仅支持Linux平台，需手动安装并配置ADB工具。**注意：此工具为概念验证，不适用于高风险场景。**
+
+---
+
+## <a name="15"></a>15. 1984年文件系统的重大突破：BSD快速文件系统 
+<small>🔗 [blog.koehntopp.info](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html): 50 Years in Filesystems: 1984</small>
+
+
+| 🔥🔥: 119 \| 💬: [20](https://news.ycombinator.com/item?id=43283498) \| 🗓️ 2025-03-06
+
+
+<br />
+1984年，BSD Unix推出了**快速文件系统（FFS）**，旨在解决传统Unix文件系统的性能瓶颈。FFS通过**柱面组**优化文件布局，减少碎片化，并引入**大块存储**和**尾部打包**技术，提升I/O效率。FFS还改进了目录布局策略，确保同一目录下的文件存储在一起，同时支持更大的文件系统和更长的文件名。这些创新为现代文件系统奠定了基础。
+
+---
+
+## <a name="16"></a>16. 英国政府悄然删除加密建议 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/06/uk-quietly-scrubs-encryption-advice-from-government-websites/): UK quietly scrubs encryption advice from government websites</small>
 
 
@@ -200,18 +212,6 @@ Rayhunter是一款基于Rust的工具，旨在检测**Orbic RC400L移动热点**
 
 <br />
 英国政府近日从其官方网站上删除了关于**加密**的建议，此前几周曾要求苹果公司为其iCloud服务提供后门访问权限。安全专家Alec Muffett发现，英国国家网络安全中心（NCSC）不再建议高风险个人使用加密工具保护敏感信息。此前，NCSC曾建议使用苹果的**高级数据保护（ADP）**功能，但现在相关文档已被删除，转而推荐使用苹果的**锁定模式**。苹果已停止在英国提供ADP功能，并正在挑战英国政府的数据访问命令。
-
----
-
-## <a name="16"></a>16. 1984年文件系统的重大突破：BSD快速文件系统 
-<small>🔗 [blog.koehntopp.info](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html): 50 Years in Filesystems: 1984</small>
-
-
-| 🔥🔥: 114 \| 💬: [19](https://news.ycombinator.com/item?id=43283498) \| 🗓️ 2025-03-06
-
-
-<br />
-1984年，BSD Unix推出了**快速文件系统（FFS）**，旨在解决传统Unix文件系统的性能瓶颈。FFS通过**柱面组**优化文件布局，减少碎片化，并引入**大块存储**和**尾部打包**技术，提升I/O效率。FFS还改进了目录布局策略，确保同一目录下的文件存储在一起，同时支持更大的文件系统和更长的文件名。这些创新为现代文件系统奠定了基础。
 
 ---
 
@@ -227,23 +227,11 @@ Rayhunter是一款基于Rust的工具，旨在检测**Orbic RC400L移动热点**
 
 ---
 
-## <a name="18"></a>18. Atlassian宣布Opsgenie停止支持 
-<small>🔗 [atlassian.com](https://www.atlassian.com/blog/announcements/evolution-of-it-operations): Atlassian announces end of support for Opsgenie</small>
-
-
-| 🔥: 89 \| 💬: [71](https://news.ycombinator.com/item?id=43283178) \| 🗓️ 2025-03-06
-
-
-<br />
-Atlassian宣布将**Opsgenie**的功能完全整合到其平台中，以更好地服务客户。从2025年6月4日起，Opsgenie将停止销售，2027年4月5日将完全停止支持。客户可选择迁移至**Jira Service Management**或**Compass**，Atlassian将提供个性化迁移工具支持。
-
----
-
-## <a name="19"></a>19. 如何在不引发证书错误的情况下撤销对CA的信任 
+## <a name="18"></a>18. 如何在不引发证书错误的情况下撤销对CA的信任 
 <small>🔗 [dadrian.io](https://dadrian.io/blog/posts/sct-not-after/): How to distrust a CA without any certificate errors</small>
 
 
-| 🔥: 89 \| 💬: [23](https://news.ycombinator.com/item?id=43285671) \| 🗓️ 2025-03-06
+| 🔥: 95 \| 💬: [23](https://news.ycombinator.com/item?id=43285671) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -251,11 +239,11 @@ Atlassian宣布将**Opsgenie**的功能完全整合到其平台中，以更好�
 
 ---
 
-## <a name="20"></a>20. Shelgon：用 Rust 构建交互式 REPL 终端的框架 
+## <a name="19"></a>19. Shelgon：用 Rust 构建交互式 REPL 终端的框架 
 <small>🔗 [github.com](https://github.com/NishantJoshi00/shelgon): Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust</small>
 
 
-| 🔥: 87 \| 💬: [17](https://news.ycombinator.com/item?id=43284227) \| 🗓️ 2025-03-06
+| 🔥: 93 \| 💬: [19](https://news.ycombinator.com/item?id=43284227) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -263,23 +251,23 @@ Shelgon 是一个基于 Rust 的框架，用于构建**交互式 REPL**（读取
 
 ---
 
-## <a name="21"></a>21. Rust向量与四元数库 
-<small>🔗 [github.com](https://github.com/David-OConnor/lin-alg): Show HN: Rust Vector and Quaternion Lib</small>
+## <a name="20"></a>20. Atlassian宣布Opsgenie停止支持 
+<small>🔗 [atlassian.com](https://www.atlassian.com/blog/announcements/evolution-of-it-operations): Atlassian announces end of support for Opsgenie</small>
 
 
-| 🔥: 83 \| 💬: [14](https://news.ycombinator.com/item?id=43284811) \| 🗓️ 2025-03-06
+| 🔥: 89 \| 💬: [72](https://news.ycombinator.com/item?id=43283178) \| 🗓️ 2025-03-06
 
 
 <br />
-这是一个用于**矩阵、向量和四元数**操作的Rust库，支持`f32`和`f64`数据类型。适用于**计算机图形学**、机器人学、生物力学、航空航天等领域。库支持`no_std`环境，适合嵌入式开发，并提供**二进制编码**和**GPU数据传输**功能。示例代码展示了向量和四元数的基本操作，如归一化、点积、叉积和旋转。
+Atlassian宣布将**Opsgenie**的功能完全整合到其平台中，以更好地服务客户。从2025年6月4日起，Opsgenie将停止销售，2027年4月5日将完全停止支持。客户可选择迁移至**Jira Service Management**或**Compass**，Atlassian将提供个性化迁移工具支持。
 
 ---
 
-## <a name="22"></a>22. Warewulf：无状态、无盘容器操作系统集群部署系统 
+## <a name="21"></a>21. Warewulf：无状态、无盘容器操作系统集群部署系统 
 <small>🔗 [github.com](https://github.com/warewulf/warewulf): Warewulf is a stateless and diskless container OS provisioning system</small>
 
 
-| 🔥: 82 \| 💬: [25](https://news.ycombinator.com/item?id=43283669) \| 🗓️ 2025-03-06
+| 🔥: 89 \| 💬: [25](https://news.ycombinator.com/item?id=43283669) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -287,15 +275,27 @@ Warewulf 是一个专为**高性能计算（HPC）集群**设计的无状态、�
 
 ---
 
-## <a name="23"></a>23. 为什么我对扩散模型感兴趣？ 
+## <a name="22"></a>22. 为什么我对扩散模型感兴趣？ 
 <small>🔗 [rnikhil.com](https://rnikhil.com/2025/03/06/diffusion-models-eval): Why I find diffusion models interesting?</small>
 
 
-| 🔥: 78 \| 💬: [32](https://news.ycombinator.com/item?id=43285726) \| 🗓️ 2025-03-06
+| 🔥: 89 \| 💬: [34](https://news.ycombinator.com/item?id=43285726) \| 🗓️ 2025-03-06
 
 
 <br />
 扩散模型（dLLM）通过同时生成文本的各个部分，而非传统的从左到右预测，展现出独特优势。**Inception Labs** 发布的 dLLM 在代码生成上超越了类似规模的 LLM，并声称在速度和效率上有 5-10 倍的提升。**dLLM 减少了幻觉问题**，能够先生成并验证关键部分，再继续生成其余内容，适用于客服聊天机器人等场景。此外，**dLLM 可能改善多步代理工作流**，避免陷入循环，提升规划和自我修正能力。
+
+---
+
+## <a name="23"></a>23. Rust向量与四元数库 
+<small>🔗 [github.com](https://github.com/David-OConnor/lin-alg): Show HN: Rust Vector and Quaternion Lib</small>
+
+
+| 🔥: 86 \| 💬: [16](https://news.ycombinator.com/item?id=43284811) \| 🗓️ 2025-03-06
+
+
+<br />
+这是一个用于**矩阵、向量和四元数**操作的Rust库，支持`f32`和`f64`数据类型。适用于**计算机图形学**、机器人学、生物力学、航空航天等领域。库支持`no_std`环境，适合嵌入式开发，并提供**二进制编码**和**GPU数据传输**功能。示例代码展示了向量和四元数的基本操作，如归一化、点积、叉积和旋转。
 
 ---
 
@@ -311,14 +311,14 @@ Warewulf 是一个专为**高性能计算（HPC）集群**设计的无状态、�
 
 ---
 
-## <a name="25"></a>25. 丹麦邮政将停止信件投递服务 
-<small>🔗 [bbc.com](https://www.bbc.com/news/articles/ckg8jllq283o): Denmark postal service to stop delivering letters</small>
+## <a name="25"></a>25. 关于1670调制解调器奇怪噪音的更多思考 
+<small>🔗 [rachelbythebay.com](https://rachelbythebay.com/w/2025/03/05/1670/): More thoughts on the 1670 modem's weird noises</small>
 
 
-| 🔥: 68 \| 💬: [67](https://news.ycombinator.com/item?id=43278934) \| 🗓️ 2025-03-06
+| 🔥: 69 \| 💬: [25](https://news.ycombinator.com/item?id=43281893) \| 🗓️ 2025-03-06
 
 
 <br />
-丹麦国有邮政公司**PostNord**宣布，由于信件量自本世纪初以来下降了**90%**，将于2025年底停止所有信件投递服务，结束400年的信件投递历史。**1500个邮筒**将从6月开始逐步消失。尽管95%的丹麦人使用数字邮政服务，但仍有27.1万人依赖实体邮件，尤其是老年人和偏远地区居民。PostNord将转向包裹投递业务，并计划裁员1500人。
+作者最近使用两台VIC-20电脑和1670调制解调器进行连接实验，发现调制解调器在**拨号模式**下会发出奇怪的噪音。这些噪音并非脉冲拨号，而是调制解调器在等待应答音时产生的**“pa-tink”声**。作者推测这些噪音可能来自本地扬声器，而非线路传输。尽管这些噪音对实际使用没有影响，但它们仍然是**技术爱好者**心中的一个小谜团。
 
 ---
