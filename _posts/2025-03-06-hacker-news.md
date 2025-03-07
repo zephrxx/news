@@ -11,8 +11,8 @@ tags:
 1. Mistral OCR：全球领先的文档理解API；
 1. Revolt：开源的 Discord 替代品；
 1. 自动标记政客在直播中使用手机的行为；
+1. 动漫迷意外发现数学证明；
 1. CodeTracer：基于Nim和Rust实现的时间旅行调试器；
-1. 简洁数据结构：高效存储与查询的新思路；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [mistral.ai](https://mistral.ai/fr/news/mistral-ocr): Mistral OCR</small>
 
 
-| 🔥🔥: 953 \| 💬: [311](https://news.ycombinator.com/item?id=43282905) \| 🗓️ 2025-03-06
+| 🔥🔥: 999 \| 💬: [317](https://news.ycombinator.com/item?id=43282905) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -39,7 +39,7 @@ Mistral OCR 是一款革命性的**光学字符识别（OCR）API**，能够以*
 <small>🔗 [revolt.chat](https://revolt.chat): Revolt: Open-Source Alternative to Discord</small>
 
 
-| 🔥🔥: 592 \| 💬: [436](https://news.ycombinator.com/item?id=43277918) \| 🗓️ 2025-03-06
+| 🔥🔥: 608 \| 💬: [446](https://news.ycombinator.com/item?id=43277918) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -51,7 +51,7 @@ Revolt 是一款**开源**的聊天平台，提供文本频道、图片分享、
 <small>🔗 [driesdepoorter.be](https://driesdepoorter.be/theflemishscrollers/): Automatically tagging politician when they use their phone on the livestreams</small>
 
 
-| 🔥🔥: 252 \| 💬: [145](https://news.ycombinator.com/item?id=43278473) \| 🗓️ 2025-03-06
+| 🔥🔥: 254 \| 💬: [145](https://news.ycombinator.com/item?id=43278473) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -59,35 +59,11 @@ Revolt 是一款**开源**的聊天平台，提供文本频道、图片分享、
 
 ---
 
-## <a name="4"></a>4. CodeTracer：基于Nim和Rust实现的时间旅行调试器 
-<small>🔗 [github.com](https://github.com/metacraft-labs/codetracer): Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust</small>
-
-
-| 🔥🔥: 242 \| 💬: [47](https://news.ycombinator.com/item?id=43280615) \| 🗓️ 2025-03-06
-
-
-<br />
-CodeTracer是一款**用户友好的时间旅行调试器**，支持多种编程语言。它通过记录程序执行生成可共享的跟踪文件，允许用户在GUI中前后浏览执行历史，并检查所有内存位置的变化。与传统调试器相比，CodeTracer提供了**强大的回溯功能**，能够快速定位难以复现的Bug。目前支持Noir语言，未来将扩展为全面的Web3开发工具包，并支持更多智能合约和零知识编程语言。
-
----
-
-## <a name="5"></a>5. 简洁数据结构：高效存储与查询的新思路 
-<small>🔗 [blog.startifact.com](https://blog.startifact.com/posts/succinct/): Succinct Data Structures</small>
-
-
-| 🔥🔥: 233 \| 💬: [34](https://news.ycombinator.com/item?id=43282995) \| 🗓️ 2025-03-06
-
-
-<br />
-简洁数据结构是一种**紧凑存储数据**的方式，同时保留了数据的**可操作性**。与压缩不同，简洁数据结构允许在不解压的情况下直接访问数据。文章介绍了**rank/select位向量**、**小波矩阵**和**FM索引**等核心结构，展示了它们在文本处理、生物信息学等领域的应用。作者还探讨了如何在Rust中实现这些结构，并分享了相关库的使用体验。
-
----
-
-## <a name="6"></a>6. 动漫迷意外发现数学证明 
+## <a name="4"></a>4. 动漫迷意外发现数学证明 
 <small>🔗 [scientificamerican.com](https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/): Anime fans stumbled upon a mathematical proof</small>
 
 
-| 🔥🔥: 230 \| 💬: [110](https://news.ycombinator.com/item?id=43282133) \| 🗓️ 2025-03-06
+| 🔥🔥: 254 \| 💬: [119](https://news.ycombinator.com/item?id=43282133) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -95,11 +71,35 @@ CodeTracer是一款**用户友好的时间旅行调试器**，支持多种编程
 
 ---
 
+## <a name="5"></a>5. CodeTracer：基于Nim和Rust实现的时间旅行调试器 
+<small>🔗 [github.com](https://github.com/metacraft-labs/codetracer): Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust</small>
+
+
+| 🔥🔥: 245 \| 💬: [48](https://news.ycombinator.com/item?id=43280615) \| 🗓️ 2025-03-06
+
+
+<br />
+CodeTracer是一款**用户友好的时间旅行调试器**，支持多种编程语言。它通过记录程序执行生成可共享的跟踪文件，允许用户在GUI中前后浏览执行历史，并检查所有内存位置的变化。与传统调试器相比，CodeTracer提供了**强大的回溯功能**，能够快速定位难以复现的Bug。目前支持Noir语言，未来将扩展为全面的Web3开发工具包，并支持更多智能合约和零知识编程语言。
+
+---
+
+## <a name="6"></a>6. 简洁数据结构：高效存储与查询的新思路 
+<small>🔗 [blog.startifact.com](https://blog.startifact.com/posts/succinct/): Succinct Data Structures</small>
+
+
+| 🔥🔥: 243 \| 💬: [34](https://news.ycombinator.com/item?id=43282995) \| 🗓️ 2025-03-06
+
+
+<br />
+简洁数据结构是一种**紧凑存储数据**的方式，同时保留了数据的**可操作性**。与压缩不同，简洁数据结构允许在不解压的情况下直接访问数据。文章介绍了**rank/select位向量**、**小波矩阵**和**FM索引**等核心结构，展示了它们在文本处理、生物信息学等领域的应用。作者还探讨了如何在Rust中实现这些结构，并分享了相关库的使用体验。
+
+---
+
 ## <a name="7"></a>7. 芬兰通过“住房优先”政策成功减少无家可归者 
 <small>🔗 [thebetter.news](https://thebetter.news/housing-first-finland-homelessness/): Finland applies the “Housing First” concept (2020)</small>
 
 
-| 🔥🔥: 187 \| 💬: [133](https://news.ycombinator.com/item?id=43279454) \| 🗓️ 2025-03-06
+| 🔥🔥: 188 \| 💬: [136](https://news.ycombinator.com/item?id=43279454) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -107,7 +107,19 @@ CodeTracer是一款**用户友好的时间旅行调试器**，支持多种编程
 
 ---
 
-## <a name="8"></a>8. 别再发推特长文，写博客吧！ 
+## <a name="8"></a>8. NASA关闭旅行者号科学仪器以延长任务寿命 
+<small>🔗 [gizmodo.com](https://gizmodo.com/nasa-shuts-off-voyager-science-instrument-more-power-cuts-ahead-to-keep-both-probes-going-2000572202): NASA Shuts Off Voyager Science Instrument</small>
+
+
+| 🔥🔥: 170 \| 💬: [66](https://news.ycombinator.com/item?id=43282594) \| 🗓️ 2025-03-06
+
+
+<br />
+NASA宣布关闭**旅行者1号**和**旅行者2号**上的部分科学仪器，以节省电力并延长任务寿命。旅行者1号的宇宙射线子系统已于2月25日关闭，旅行者2号的低能带电粒子仪器将于3月24日关闭。这两艘探测器已运行47年，目前仅剩3台仪器工作。通过节能措施，NASA希望将任务延续至2030年代。
+
+---
+
+## <a name="9"></a>9. 别再发推特长文，写博客吧！ 
 <small>🔗 [kevquirk.com](https://kevquirk.com/blog/forget-twitter-threads-write-a-blog-post-instead): Forget Twitter threads and write a blog post instead (2021)</small>
 
 
@@ -116,18 +128,6 @@ CodeTracer是一款**用户友好的时间旅行调试器**，支持多种编程
 
 <br />
 作者批评了推特上流行的**长文推文**（Twitter Threads），认为这种形式缺乏**上下文**，且不适合发布长内容。他建议创作者改用**博客**，因为博客能提供更连贯的阅读体验，并有助于内容**去中心化**。尽管有些人可能不熟悉如何搭建博客，但作者认为这并不复杂，且能带来更多读者。
-
----
-
-## <a name="9"></a>9. NASA关闭旅行者号科学仪器以延长任务寿命 
-<small>🔗 [gizmodo.com](https://gizmodo.com/nasa-shuts-off-voyager-science-instrument-more-power-cuts-ahead-to-keep-both-probes-going-2000572202): NASA Shuts Off Voyager Science Instrument</small>
-
-
-| 🔥🔥: 162 \| 💬: [63](https://news.ycombinator.com/item?id=43282594) \| 🗓️ 2025-03-06
-
-
-<br />
-NASA宣布关闭**旅行者1号**和**旅行者2号**上的部分科学仪器，以节省电力并延长任务寿命。旅行者1号的宇宙射线子系统已于2月25日关闭，旅行者2号的低能带电粒子仪器将于3月24日关闭。这两艘探测器已运行47年，目前仅剩3台仪器工作。通过节能措施，NASA希望将任务延续至2030年代。
 
 ---
 
@@ -147,7 +147,7 @@ AMD宣布推出**Instella**，这是一款完全开源的**3B参数语言模型*
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c1d4n119xr7o): Scientists crack how aspirin might stop cancers from spreading</small>
 
 
-| 🔥🔥: 134 \| 💬: [72](https://news.ycombinator.com/item?id=43279147) \| 🗓️ 2025-03-06
+| 🔥🔥: 136 \| 💬: [73](https://news.ycombinator.com/item?id=43279147) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -159,7 +159,7 @@ AMD宣布推出**Instella**，这是一款完全开源的**3B参数语言模型*
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/06/uk-quietly-scrubs-encryption-advice-from-government-websites/): UK quietly scrubs encryption advice from government websites</small>
 
 
-| 🔥🔥: 112 \| 💬: [5](https://news.ycombinator.com/item?id=43282892) \| 🗓️ 2025-03-06
+| 🔥🔥: 112 \| 💬: [3](https://news.ycombinator.com/item?id=43282892) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -167,23 +167,11 @@ AMD宣布推出**Instella**，这是一款完全开源的**3B参数语言模型*
 
 ---
 
-## <a name="13"></a>13. Rayhunter – 用于检测Orbic移动热点上伪基站的Rust工具 
-<small>🔗 [github.com](https://github.com/EFForg/rayhunter): Rayhunter – Rust tool to detect cell site simulators on an orbic mobile hotspot</small>
-
-
-| 🔥: 99 \| 💬: [8](https://news.ycombinator.com/item?id=43283917) \| 🗓️ 2025-03-06
-
-
-<br />
-Rayhunter是一款基于Rust的工具，旨在检测**Orbic RC400L移动热点**上的**伪基站（IMSI Catcher）**。该工具提供了一个Web界面，用户可以通过Wi-Fi或USB连接设备进行控制，支持启动/停止记录、下载捕获数据以及查看分析结果。目前仅支持Linux平台，需手动安装并配置ADB工具。**注意：此工具为概念验证，不适用于高风险场景。**
-
----
-
-## <a name="14"></a>14. 使用GRPO在“时间线索”中超越o1、o3-mini和R1 
+## <a name="13"></a>13. 使用GRPO在“时间线索”中超越o1、o3-mini和R1 
 <small>🔗 [openpipe.ai](https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue): Using GRPO to Beat o1, o3-mini and R1 at "Temporal Clue"</small>
 
 
-| 🔥: 97 \| 💬: [25](https://news.ycombinator.com/item?id=43284420) \| 🗓️ 2025-03-06
+| 🔥🔥: 107 \| 💬: [27](https://news.ycombinator.com/item?id=43284420) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -191,35 +179,23 @@ Rayhunter是一款基于Rust的工具，旨在检测**Orbic RC400L移动热点**
 
 ---
 
-## <a name="15"></a>15. 揭露俄罗斯黑客冒充EFF的Stealc和Pyramid C2攻击内幕 
-<small>🔗 [hunt.io](https://hunt.io/blog/russian-speaking-actors-impersonate-etf-distribute-stealc-pyramid-c2): Exposing Russian EFF Impersonators: The Inside Story on Stealc and Pyramid C2</small>
+## <a name="14"></a>14. Rayhunter – 用于检测Orbic移动热点上伪基站的Rust工具 
+<small>🔗 [github.com](https://github.com/EFForg/rayhunter): Rayhunter – Rust tool to detect cell site simulators on an orbic mobile hotspot</small>
 
 
-| 🔥: 86 \| 💬: [9](https://news.ycombinator.com/item?id=43283884) \| 🗓️ 2025-03-06
-
-
-<br />
-近期，一个冒充**电子前沿基金会（EFF）**的黑客组织针对《Albion Online》玩家发起攻击，通过伪造的PDF文件诱骗用户下载恶意软件。攻击者使用**Stealc**窃取器和**Pyramid C2**框架，窃取玩家账户信息。分析发现，攻击者通过共享SSH密钥连接了多个服务器，且代码中包含俄语注释，暗示其与俄罗斯有关。
-
----
-
-## <a name="16"></a>16. Atlassian宣布Opsgenie停止支持 
-<small>🔗 [atlassian.com](https://www.atlassian.com/blog/announcements/evolution-of-it-operations): Atlassian announces end of support for Opsgenie</small>
-
-
-| 🔥: 84 \| 💬: [63](https://news.ycombinator.com/item?id=43283178) \| 🗓️ 2025-03-06
+| 🔥🔥: 106 \| 💬: [9](https://news.ycombinator.com/item?id=43283917) \| 🗓️ 2025-03-06
 
 
 <br />
-Atlassian宣布将**Opsgenie**的功能完全整合到其平台中，以更好地服务客户。从2025年6月4日起，Opsgenie将停止销售，2027年4月5日将完全停止支持。客户可选择迁移至**Jira Service Management**或**Compass**，Atlassian将提供个性化迁移工具支持。
+Rayhunter是一款基于Rust的工具，旨在检测**Orbic RC400L移动热点**上的**伪基站（IMSI Catcher）**。该工具提供了一个Web界面，用户可以通过Wi-Fi或USB连接设备进行控制，支持启动/停止记录、下载捕获数据以及查看分析结果。目前仅支持Linux平台，需手动安装并配置ADB工具。**注意：此工具为概念验证，不适用于高风险场景。**
 
 ---
 
-## <a name="17"></a>17. 1984年文件系统的重大突破：BSD快速文件系统 
+## <a name="15"></a>15. 1984年文件系统的重大突破：BSD快速文件系统 
 <small>🔗 [blog.koehntopp.info](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html): 50 Years in Filesystems: 1984</small>
 
 
-| 🔥: 84 \| 💬: [11](https://news.ycombinator.com/item?id=43283498) \| 🗓️ 2025-03-06
+| 🔥: 97 \| 💬: [15](https://news.ycombinator.com/item?id=43283498) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -227,11 +203,35 @@ Atlassian宣布将**Opsgenie**的功能完全整合到其平台中，以更好�
 
 ---
 
+## <a name="16"></a>16. 揭露俄罗斯黑客冒充EFF的Stealc和Pyramid C2攻击内幕 
+<small>🔗 [hunt.io](https://hunt.io/blog/russian-speaking-actors-impersonate-etf-distribute-stealc-pyramid-c2): Exposing Russian EFF Impersonators: The Inside Story on Stealc and Pyramid C2</small>
+
+
+| 🔥: 90 \| 💬: [10](https://news.ycombinator.com/item?id=43283884) \| 🗓️ 2025-03-06
+
+
+<br />
+近期，一个冒充**电子前沿基金会（EFF）**的黑客组织针对《Albion Online》玩家发起攻击，通过伪造的PDF文件诱骗用户下载恶意软件。攻击者使用**Stealc**窃取器和**Pyramid C2**框架，窃取玩家账户信息。分析发现，攻击者通过共享SSH密钥连接了多个服务器，且代码中包含俄语注释，暗示其与俄罗斯有关。
+
+---
+
+## <a name="17"></a>17. Atlassian宣布Opsgenie停止支持 
+<small>🔗 [atlassian.com](https://www.atlassian.com/blog/announcements/evolution-of-it-operations): Atlassian announces end of support for Opsgenie</small>
+
+
+| 🔥: 85 \| 💬: [71](https://news.ycombinator.com/item?id=43283178) \| 🗓️ 2025-03-06
+
+
+<br />
+Atlassian宣布将**Opsgenie**的功能完全整合到其平台中，以更好地服务客户。从2025年6月4日起，Opsgenie将停止销售，2027年4月5日将完全停止支持。客户可选择迁移至**Jira Service Management**或**Compass**，Atlassian将提供个性化迁移工具支持。
+
+---
+
 ## <a name="18"></a>18. Shelgon：用 Rust 构建交互式 REPL 终端的框架 
 <small>🔗 [github.com](https://github.com/NishantJoshi00/shelgon): Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust</small>
 
 
-| 🔥: 73 \| 💬: [9](https://news.ycombinator.com/item?id=43284227) \| 🗓️ 2025-03-06
+| 🔥: 79 \| 💬: [13](https://news.ycombinator.com/item?id=43284227) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -243,7 +243,7 @@ Shelgon 是一个基于 Rust 的框架，用于构建**交互式 REPL**（读取
 <small>🔗 [restofworld.org](https://restofworld.org/2025/bangladesh-garment-factories-automation-surveillance/): Bangladesh's factories turn to surveillance, automation; workers feel pressure</small>
 
 
-| 🔥: 71 \| 💬: [63](https://news.ycombinator.com/item?id=43280748) \| 🗓️ 2025-03-06
+| 🔥: 73 \| 💬: [63](https://news.ycombinator.com/item?id=43280748) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -251,7 +251,31 @@ Shelgon 是一个基于 Rust 的框架，用于构建**交互式 REPL**（读取
 
 ---
 
-## <a name="20"></a>20. 丹麦邮政将停止信件投递服务 
+## <a name="20"></a>20. Rust向量与四元数库 
+<small>🔗 [github.com](https://github.com/David-OConnor/lin-alg): Show HN: Rust Vector and Quaternion Lib</small>
+
+
+| 🔥: 71 \| 💬: [11](https://news.ycombinator.com/item?id=43284811) \| 🗓️ 2025-03-06
+
+
+<br />
+这是一个用于**矩阵、向量和四元数**操作的Rust库，支持`f32`和`f64`数据类型。适用于**计算机图形学**、机器人学、生物力学、航空航天等领域。库支持`no_std`环境，适合嵌入式开发，并提供**二进制编码**和**GPU数据传输**功能。示例代码展示了向量和四元数的基本操作，如归一化、点积、叉积和旋转。
+
+---
+
+## <a name="21"></a>21. Warewulf：无状态、无盘容器操作系统集群部署系统 
+<small>🔗 [github.com](https://github.com/warewulf/warewulf): Warewulf is a stateless and diskless container OS provisioning system</small>
+
+
+| 🔥: 70 \| 💬: [22](https://news.ycombinator.com/item?id=43283669) \| 🗓️ 2025-03-06
+
+
+<br />
+Warewulf 是一个专为**高性能计算（HPC）集群**设计的无状态、网络引导的集群部署系统。它支持大规模**裸金属**和虚拟系统的**容器化操作系统**部署，适用于需要高效管理和扩展的集群环境。Warewulf 提供了文档、下载、社区支持和许可证信息，帮助用户快速上手和部署。
+
+---
+
+## <a name="22"></a>22. 丹麦邮政将停止信件投递服务 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/ckg8jllq283o): Denmark postal service to stop delivering letters</small>
 
 
@@ -263,35 +287,23 @@ Shelgon 是一个基于 Rust 的框架，用于构建**交互式 REPL**（读取
 
 ---
 
-## <a name="21"></a>21. Rust向量与四元数库 
-<small>🔗 [github.com](https://github.com/David-OConnor/lin-alg): Show HN: Rust Vector and Quaternion Lib</small>
+## <a name="23"></a>23. 可微分逻辑元胞自动机 
+<small>🔗 [google-research.github.io](https://google-research.github.io/self-organising-systems/difflogic-ca/?hn): Differentiable Logic Cellular Automata</small>
 
 
-| 🔥: 66 \| 💬: [11](https://news.ycombinator.com/item?id=43284811) \| 🗓️ 2025-03-06
-
-
-<br />
-这是一个用于**矩阵、向量和四元数**操作的Rust库，支持`f32`和`f64`数据类型。适用于**计算机图形学**、机器人学、生物力学、航空航天等领域。库支持`no_std`环境，适合嵌入式开发，并提供**二进制编码**和**GPU数据传输**功能。示例代码展示了向量和四元数的基本操作，如归一化、点积、叉积和旋转。
-
----
-
-## <a name="22"></a>22. Warewulf：无状态、无盘容器操作系统集群部署系统 
-<small>🔗 [github.com](https://github.com/warewulf/warewulf): Warewulf is a stateless and diskless container OS provisioning system</small>
-
-
-| 🔥: 64 \| 💬: [21](https://news.ycombinator.com/item?id=43283669) \| 🗓️ 2025-03-06
+| 🔥: 66 \| 💬: [15](https://news.ycombinator.com/item?id=43286161) \| 🗓️ 2025-03-06
 
 
 <br />
-Warewulf 是一个专为**高性能计算（HPC）集群**设计的无状态、网络引导的集群部署系统。它支持大规模**裸金属**和虚拟系统的**容器化操作系统**部署，适用于需要高效管理和扩展的集群环境。Warewulf 提供了文档、下载、社区支持和许可证信息，帮助用户快速上手和部署。
+本文探讨了一种结合**可微分逻辑门网络**与**神经元胞自动机**的新方法，旨在通过**梯度下降**学习局部规则，生成复杂模式。该方法保留了元胞自动机的离散特性，同时引入了神经网络的灵活性，为可编程物质和自组织计算系统提供了新的可能性。
 
 ---
 
-## <a name="23"></a>23. 为什么56k调制解调器依赖你不知道的数字电话线 
+## <a name="24"></a>24. 为什么56k调制解调器依赖你不知道的数字电话线 
 <small>🔗 [hackaday.com](https://hackaday.com/2025/03/06/why-56k-modems-relied-on-digital-phone-lines-you-didnt-know-we-had/): Why 56k Modems Relied on Digital Phone Lines You Didn't Know We Had</small>
 
 
-| 🔥: 63 \| 💬: [53](https://news.ycombinator.com/item?id=43282668) \| 🗓️ 2025-03-06
+| 🔥: 64 \| 💬: [54](https://news.ycombinator.com/item?id=43282668) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -299,23 +311,11 @@ Warewulf 是一个专为**高性能计算（HPC）集群**设计的无状态、�
 
 ---
 
-## <a name="24"></a>24. 一件每购买一次就涨价1欧元的衬衫 
-<small>🔗 [driesdepoorter.be](https://driesdepoorter.be/shirt/): A shirt whose price increases by 1 euro with every purchase</small>
-
-
-| 🔥: 55 \| 💬: [33](https://news.ycombinator.com/item?id=43279746) \| 🗓️ 2025-03-06
-
-
-<br />
-这件衬衫的**价格会随着每次购买增加1欧元**，并且价格会直接绣在衬衫上。网站使用**cookies**来提升用户体验，包括基本功能、分析和广告等。用户可以选择接受或管理cookies设置。
-
----
-
 ## <a name="25"></a>25. 关于1670调制解调器奇怪噪音的更多思考 
 <small>🔗 [rachelbythebay.com](https://rachelbythebay.com/w/2025/03/05/1670/): More thoughts on the 1670 modem's weird noises</small>
 
 
-| 🔥: 55 \| 💬: [24](https://news.ycombinator.com/item?id=43281893) \| 🗓️ 2025-03-06
+| 🔥: 59 \| 💬: [24](https://news.ycombinator.com/item?id=43281893) \| 🗓️ 2025-03-06
 
 
 <br />
