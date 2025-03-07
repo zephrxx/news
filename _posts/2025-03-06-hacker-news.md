@@ -10,8 +10,8 @@ tags:
 
 1. Mistral OCR：全球领先的文档理解API；
 1. Revolt：开源的 Discord 替代品；
-1. 动漫迷意外发现数学证明；
 1. 简洁数据结构：高效存储与查询的新思路；
+1. 动漫迷意外发现数学证明；
 1. CodeTracer：基于Nim和Rust实现的时间旅行调试器；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [mistral.ai](https://mistral.ai/fr/news/mistral-ocr): Mistral OCR</small>
 
 
-| 🔥🔥: 1193 \| 💬: [342](https://news.ycombinator.com/item?id=43282905) \| 🗓️ 2025-03-06
+| 🔥🔥: 1253 \| 💬: [348](https://news.ycombinator.com/item?id=43282905) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -39,7 +39,7 @@ Mistral OCR 是一款革命性的**光学字符识别（OCR）API**，能够以*
 <small>🔗 [revolt.chat](https://revolt.chat): Revolt: Open-Source Alternative to Discord</small>
 
 
-| 🔥🔥: 646 \| 💬: [475](https://news.ycombinator.com/item?id=43277918) \| 🗓️ 2025-03-06
+| 🔥🔥: 655 \| 💬: [479](https://news.ycombinator.com/item?id=43277918) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -47,23 +47,11 @@ Revolt 是一款**开源**的聊天平台，提供文本频道、图片分享、
 
 ---
 
-## <a name="3"></a>3. 动漫迷意外发现数学证明 
-<small>🔗 [scientificamerican.com](https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/): Anime fans stumbled upon a mathematical proof</small>
-
-
-| 🔥🔥: 317 \| 💬: [142](https://news.ycombinator.com/item?id=43282133) \| 🗓️ 2025-03-06
-
-
-<br />
-2011年，一位匿名用户在4chan上提出了一个关于动漫《凉宫春日的忧郁》的数学问题：如何以最少的观看次数覆盖14集的所有排列组合。这一问题与**超级排列**相关，数学家们至今未能完全解决。令人惊讶的是，一位匿名用户通过一种数学家未曾想到的方法，给出了最小观看次数的估计。2018年，数学家们重新发现了这一成果，并将其正式记录在数学文献中，作者署名为“匿名4chan用户”。这一发现为**超级排列**问题提供了新的思路，尽管完全解决仍是一个巨大的挑战。
-
----
-
-## <a name="4"></a>4. 简洁数据结构：高效存储与查询的新思路 
+## <a name="3"></a>3. 简洁数据结构：高效存储与查询的新思路 
 <small>🔗 [blog.startifact.com](https://blog.startifact.com/posts/succinct/): Succinct Data Structures</small>
 
 
-| 🔥🔥: 311 \| 💬: [43](https://news.ycombinator.com/item?id=43282995) \| 🗓️ 2025-03-06
+| 🔥🔥: 333 \| 💬: [46](https://news.ycombinator.com/item?id=43282995) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -71,11 +59,23 @@ Revolt 是一款**开源**的聊天平台，提供文本频道、图片分享、
 
 ---
 
+## <a name="4"></a>4. 动漫迷意外发现数学证明 
+<small>🔗 [scientificamerican.com](https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/): Anime fans stumbled upon a mathematical proof</small>
+
+
+| 🔥🔥: 331 \| 💬: [149](https://news.ycombinator.com/item?id=43282133) \| 🗓️ 2025-03-06
+
+
+<br />
+2011年，一位匿名用户在4chan上提出了一个关于动漫《凉宫春日的忧郁》的数学问题：如何以最少的观看次数覆盖14集的所有排列组合。这一问题与**超级排列**相关，数学家们至今未能完全解决。令人惊讶的是，一位匿名用户通过一种数学家未曾想到的方法，给出了最小观看次数的估计。2018年，数学家们重新发现了这一成果，并将其正式记录在数学文献中，作者署名为“匿名4chan用户”。这一发现为**超级排列**问题提供了新的思路，尽管完全解决仍是一个巨大的挑战。
+
+---
+
 ## <a name="5"></a>5. CodeTracer：基于Nim和Rust实现的时间旅行调试器 
 <small>🔗 [github.com](https://github.com/metacraft-labs/codetracer): Show HN: CodeTracer – A new time-traveling debugger implemented in Nim and Rust</small>
 
 
-| 🔥🔥: 274 \| 💬: [49](https://news.ycombinator.com/item?id=43280615) \| 🗓️ 2025-03-06
+| 🔥🔥: 278 \| 💬: [49](https://news.ycombinator.com/item?id=43280615) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -99,7 +99,7 @@ CodeTracer是一款**用户友好的时间旅行调试器**，支持多种编程
 <small>🔗 [thebetter.news](https://thebetter.news/housing-first-finland-homelessness/): Finland applies the “Housing First” concept (2020)</small>
 
 
-| 🔥🔥: 188 \| 💬: [136](https://news.ycombinator.com/item?id=43279454) \| 🗓️ 2025-03-06
+| 🔥🔥: 189 \| 💬: [136](https://news.ycombinator.com/item?id=43279454) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -111,7 +111,7 @@ CodeTracer是一款**用户友好的时间旅行调试器**，支持多种编程
 <small>🔗 [gizmodo.com](https://gizmodo.com/nasa-shuts-off-voyager-science-instrument-more-power-cuts-ahead-to-keep-both-probes-going-2000572202): NASA Shuts Off Voyager Science Instrument</small>
 
 
-| 🔥🔥: 188 \| 💬: [69](https://news.ycombinator.com/item?id=43282594) \| 🗓️ 2025-03-06
+| 🔥🔥: 189 \| 💬: [70](https://news.ycombinator.com/item?id=43282594) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -119,35 +119,11 @@ NASA宣布关闭**旅行者1号**和**旅行者2号**上的部分科学仪器，
 
 ---
 
-## <a name="9"></a>9. 别再发推特长文，写博客吧！ 
-<small>🔗 [kevquirk.com](https://kevquirk.com/blog/forget-twitter-threads-write-a-blog-post-instead): Forget Twitter threads and write a blog post instead (2021)</small>
-
-
-| 🔥🔥: 166 \| 💬: [118](https://news.ycombinator.com/item?id=43277924) \| 🗓️ 2025-03-06
-
-
-<br />
-作者批评了推特上流行的**长文推文**（Twitter Threads），认为这种形式缺乏**上下文**，且不适合发布长内容。他建议创作者改用**博客**，因为博客能提供更连贯的阅读体验，并有助于内容**去中心化**。尽管有些人可能不熟悉如何搭建博客，但作者认为这并不复杂，且能带来更多读者。
-
----
-
-## <a name="10"></a>10. AMD发布开源3B语言模型“Instella” 
-<small>🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Intella-Open-Source-LM): AMD Announces "Instella" Open-Source 3B Language Models</small>
-
-
-| 🔥🔥: 161 \| 💬: [53](https://news.ycombinator.com/item?id=43278845) \| 🗓️ 2025-03-06
-
-
-<br />
-AMD宣布推出**Instella**，这是一款完全开源的**3B参数语言模型**。该模型基于AMD Instinct MI300X GPU训练，性能可与Llama 3.2 3B等模型媲美。AMD开源了模型权重、训练参数、数据集和代码，旨在推动AI社区的创新与合作。开发者可通过GitHub访问Instella。
-
----
-
-## <a name="11"></a>11. 可微分逻辑元胞自动机 
+## <a name="9"></a>9. 可微分逻辑元胞自动机 
 <small>🔗 [google-research.github.io](https://google-research.github.io/self-organising-systems/difflogic-ca/?hn): Differentiable Logic Cellular Automata</small>
 
 
-| 🔥🔥: 150 \| 💬: [29](https://news.ycombinator.com/item?id=43286161) \| 🗓️ 2025-03-06
+| 🔥🔥: 175 \| 💬: [35](https://news.ycombinator.com/item?id=43286161) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -155,11 +131,35 @@ AMD宣布推出**Instella**，这是一款完全开源的**3B参数语言模型*
 
 ---
 
+## <a name="10"></a>10. 别再发推特长文，写博客吧！ 
+<small>🔗 [kevquirk.com](https://kevquirk.com/blog/forget-twitter-threads-write-a-blog-post-instead): Forget Twitter threads and write a blog post instead (2021)</small>
+
+
+| 🔥🔥: 167 \| 💬: [118](https://news.ycombinator.com/item?id=43277924) \| 🗓️ 2025-03-06
+
+
+<br />
+作者批评了推特上流行的**长文推文**（Twitter Threads），认为这种形式缺乏**上下文**，且不适合发布长内容。他建议创作者改用**博客**，因为博客能提供更连贯的阅读体验，并有助于内容**去中心化**。尽管有些人可能不熟悉如何搭建博客，但作者认为这并不复杂，且能带来更多读者。
+
+---
+
+## <a name="11"></a>11. AMD发布开源3B语言模型“Instella” 
+<small>🔗 [phoronix.com](https://www.phoronix.com/news/AMD-Intella-Open-Source-LM): AMD Announces "Instella" Open-Source 3B Language Models</small>
+
+
+| 🔥🔥: 162 \| 💬: [53](https://news.ycombinator.com/item?id=43278845) \| 🗓️ 2025-03-06
+
+
+<br />
+AMD宣布推出**Instella**，这是一款完全开源的**3B参数语言模型**。该模型基于AMD Instinct MI300X GPU训练，性能可与Llama 3.2 3B等模型媲美。AMD开源了模型权重、训练参数、数据集和代码，旨在推动AI社区的创新与合作。开发者可通过GitHub访问Instella。
+
+---
+
 ## <a name="12"></a>12. 科学家揭示阿司匹林如何阻止癌症扩散 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c1d4n119xr7o): Scientists crack how aspirin might stop cancers from spreading</small>
 
 
-| 🔥🔥: 146 \| 💬: [74](https://news.ycombinator.com/item?id=43279147) \| 🗓️ 2025-03-06
+| 🔥🔥: 147 \| 💬: [74](https://news.ycombinator.com/item?id=43279147) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -171,7 +171,7 @@ AMD宣布推出**Instella**，这是一款完全开源的**3B参数语言模型*
 <small>🔗 [openpipe.ai](https://openpipe.ai/blog/using-grpo-to-beat-o1-o3-mini-and-r1-on-temporal-clue): Using GRPO to Beat o1, o3-mini and R1 at "Temporal Clue"</small>
 
 
-| 🔥🔥: 128 \| 💬: [35](https://news.ycombinator.com/item?id=43284420) \| 🗓️ 2025-03-06
+| 🔥🔥: 135 \| 💬: [35](https://news.ycombinator.com/item?id=43284420) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -183,7 +183,7 @@ AMD宣布推出**Instella**，这是一款完全开源的**3B参数语言模型*
 <small>🔗 [github.com](https://github.com/EFForg/rayhunter): Rayhunter – Rust tool to detect cell site simulators on an orbic mobile hotspot</small>
 
 
-| 🔥🔥: 127 \| 💬: [12](https://news.ycombinator.com/item?id=43283917) \| 🗓️ 2025-03-06
+| 🔥🔥: 132 \| 💬: [12](https://news.ycombinator.com/item?id=43283917) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -195,7 +195,7 @@ Rayhunter是一款基于Rust的工具，旨在检测**Orbic RC400L移动热点**
 <small>🔗 [blog.koehntopp.info](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html): 50 Years in Filesystems: 1984</small>
 
 
-| 🔥🔥: 119 \| 💬: [20](https://news.ycombinator.com/item?id=43283498) \| 🗓️ 2025-03-06
+| 🔥🔥: 125 \| 💬: [20](https://news.ycombinator.com/item?id=43283498) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -219,7 +219,7 @@ Rayhunter是一款基于Rust的工具，旨在检测**Orbic RC400L移动热点**
 <small>🔗 [hunt.io](https://hunt.io/blog/russian-speaking-actors-impersonate-etf-distribute-stealc-pyramid-c2): Exposing Russian EFF Impersonators: The Inside Story on Stealc and Pyramid C2</small>
 
 
-| 🔥🔥: 101 \| 💬: [10](https://news.ycombinator.com/item?id=43283884) \| 🗓️ 2025-03-06
+| 🔥🔥: 103 \| 💬: [10](https://news.ycombinator.com/item?id=43283884) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -231,7 +231,7 @@ Rayhunter是一款基于Rust的工具，旨在检测**Orbic RC400L移动热点**
 <small>🔗 [dadrian.io](https://dadrian.io/blog/posts/sct-not-after/): How to distrust a CA without any certificate errors</small>
 
 
-| 🔥: 95 \| 💬: [23](https://news.ycombinator.com/item?id=43285671) \| 🗓️ 2025-03-06
+| 🔥🔥: 101 \| 💬: [24](https://news.ycombinator.com/item?id=43285671) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -239,11 +239,23 @@ Rayhunter是一款基于Rust的工具，旨在检测**Orbic RC400L移动热点**
 
 ---
 
-## <a name="19"></a>19. Shelgon：用 Rust 构建交互式 REPL 终端的框架 
+## <a name="19"></a>19. 为什么我对扩散模型感兴趣？ 
+<small>🔗 [rnikhil.com](https://rnikhil.com/2025/03/06/diffusion-models-eval): Why I find diffusion models interesting?</small>
+
+
+| 🔥: 100 \| 💬: [39](https://news.ycombinator.com/item?id=43285726) \| 🗓️ 2025-03-06
+
+
+<br />
+扩散模型（dLLM）通过同时生成文本的各个部分，而非传统的从左到右预测，展现出独特优势。**Inception Labs** 发布的 dLLM 在代码生成上超越了类似规模的 LLM，并声称在速度和效率上有 5-10 倍的提升。**dLLM 减少了幻觉问题**，能够先生成并验证关键部分，再继续生成其余内容，适用于客服聊天机器人等场景。此外，**dLLM 可能改善多步代理工作流**，避免陷入循环，提升规划和自我修正能力。
+
+---
+
+## <a name="20"></a>20. Shelgon：用 Rust 构建交互式 REPL 终端的框架 
 <small>🔗 [github.com](https://github.com/NishantJoshi00/shelgon): Show HN: Shelgon: A Framework for Building Interactive REPL Shells in Rust</small>
 
 
-| 🔥: 93 \| 💬: [19](https://news.ycombinator.com/item?id=43284227) \| 🗓️ 2025-03-06
+| 🔥: 96 \| 💬: [19](https://news.ycombinator.com/item?id=43284227) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -251,23 +263,11 @@ Shelgon 是一个基于 Rust 的框架，用于构建**交互式 REPL**（读取
 
 ---
 
-## <a name="20"></a>20. Atlassian宣布Opsgenie停止支持 
-<small>🔗 [atlassian.com](https://www.atlassian.com/blog/announcements/evolution-of-it-operations): Atlassian announces end of support for Opsgenie</small>
-
-
-| 🔥: 89 \| 💬: [72](https://news.ycombinator.com/item?id=43283178) \| 🗓️ 2025-03-06
-
-
-<br />
-Atlassian宣布将**Opsgenie**的功能完全整合到其平台中，以更好地服务客户。从2025年6月4日起，Opsgenie将停止销售，2027年4月5日将完全停止支持。客户可选择迁移至**Jira Service Management**或**Compass**，Atlassian将提供个性化迁移工具支持。
-
----
-
 ## <a name="21"></a>21. Warewulf：无状态、无盘容器操作系统集群部署系统 
 <small>🔗 [github.com](https://github.com/warewulf/warewulf): Warewulf is a stateless and diskless container OS provisioning system</small>
 
 
-| 🔥: 89 \| 💬: [25](https://news.ycombinator.com/item?id=43283669) \| 🗓️ 2025-03-06
+| 🔥: 94 \| 💬: [27](https://news.ycombinator.com/item?id=43283669) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -275,15 +275,15 @@ Warewulf 是一个专为**高性能计算（HPC）集群**设计的无状态、�
 
 ---
 
-## <a name="22"></a>22. 为什么我对扩散模型感兴趣？ 
-<small>🔗 [rnikhil.com](https://rnikhil.com/2025/03/06/diffusion-models-eval): Why I find diffusion models interesting?</small>
+## <a name="22"></a>22. Atlassian宣布Opsgenie停止支持 
+<small>🔗 [atlassian.com](https://www.atlassian.com/blog/announcements/evolution-of-it-operations): Atlassian announces end of support for Opsgenie</small>
 
 
-| 🔥: 89 \| 💬: [34](https://news.ycombinator.com/item?id=43285726) \| 🗓️ 2025-03-06
+| 🔥: 89 \| 💬: [76](https://news.ycombinator.com/item?id=43283178) \| 🗓️ 2025-03-06
 
 
 <br />
-扩散模型（dLLM）通过同时生成文本的各个部分，而非传统的从左到右预测，展现出独特优势。**Inception Labs** 发布的 dLLM 在代码生成上超越了类似规模的 LLM，并声称在速度和效率上有 5-10 倍的提升。**dLLM 减少了幻觉问题**，能够先生成并验证关键部分，再继续生成其余内容，适用于客服聊天机器人等场景。此外，**dLLM 可能改善多步代理工作流**，避免陷入循环，提升规划和自我修正能力。
+Atlassian宣布将**Opsgenie**的功能完全整合到其平台中，以更好地服务客户。从2025年6月4日起，Opsgenie将停止销售，2027年4月5日将完全停止支持。客户可选择迁移至**Jira Service Management**或**Compass**，Atlassian将提供个性化迁移工具支持。
 
 ---
 
@@ -303,7 +303,7 @@ Warewulf 是一个专为**高性能计算（HPC）集群**设计的无状态、�
 <small>🔗 [restofworld.org](https://restofworld.org/2025/bangladesh-garment-factories-automation-surveillance/): Bangladesh's factories turn to surveillance, automation; workers feel pressure</small>
 
 
-| 🔥: 74 \| 💬: [63](https://news.ycombinator.com/item?id=43280748) \| 🗓️ 2025-03-06
+| 🔥: 74 \| 💬: [65](https://news.ycombinator.com/item?id=43280748) \| 🗓️ 2025-03-06
 
 
 <br />
@@ -315,7 +315,7 @@ Warewulf 是一个专为**高性能计算（HPC）集群**设计的无状态、�
 <small>🔗 [rachelbythebay.com](https://rachelbythebay.com/w/2025/03/05/1670/): More thoughts on the 1670 modem's weird noises</small>
 
 
-| 🔥: 69 \| 💬: [25](https://news.ycombinator.com/item?id=43281893) \| 🗓️ 2025-03-06
+| 🔥: 70 \| 💬: [26](https://news.ycombinator.com/item?id=43281893) \| 🗓️ 2025-03-06
 
 
 <br />
