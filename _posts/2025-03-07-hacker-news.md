@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/first-porn-now-skin-cream-age-verification-bills-are-out-control): Age Verification Laws: A Backdoor to Surveillance</small>
 
 
-| 🔥🔥: 310 \| 💬: [223](https://news.ycombinator.com/item?id=43292820) \| 🗓️ 2025-03-07
+| 🔥🔥: 333 \| 💬: [238](https://news.ycombinator.com/item?id=43292820) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [developer.chrome.com](https://developer.chrome.com/blog/command-and-commandfor): Introducing command And commandfor In HTML</small>
 
 
-| 🔥🔥: 260 \| 💬: [155](https://news.ycombinator.com/item?id=43292056) \| 🗓️ 2025-03-07
+| 🔥🔥: 271 \| 💬: [159](https://news.ycombinator.com/item?id=43292056) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -51,7 +51,7 @@ Chrome 135 引入了新的 **command** 和 **commandfor** 属性，用于增强�
 <small>🔗 [theins.press](https://theins.press/en/inv/279034): Europe's most wanted man plotted my murder and that of my colleague</small>
 
 
-| 🔥🔥: 253 \| 💬: [102](https://news.ycombinator.com/item?id=43293487) \| 🗓️ 2025-03-07
+| 🔥🔥: 264 \| 💬: [109](https://news.ycombinator.com/item?id=43293487) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -63,7 +63,7 @@ Chrome 135 引入了新的 **command** 和 **commandfor** 属性，用于增强�
 <small>🔗 [github.com](https://github.com/directvt/vtm): Vtm: Text-Based Desktop Environment</small>
 
 
-| 🔥🔥: 191 \| 💬: [39](https://news.ycombinator.com/item?id=43291946) \| 🗓️ 2025-03-07
+| 🔥🔥: 198 \| 💬: [41](https://news.ycombinator.com/item?id=43291946) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -75,7 +75,7 @@ Vtm 是一个**基于文本的应用程序**，其用户界面由文本单元格
 <small>🔗 [tbray.org](https://www.tbray.org/ongoing/When/202x/2025/03/06/Canceled-Prime): Bye, Prime</small>
 
 
-| 🔥🔥: 182 \| 💬: [175](https://news.ycombinator.com/item?id=43288156) \| 🗓️ 2025-03-07
+| 🔥🔥: 183 \| 💬: [175](https://news.ycombinator.com/item?id=43288156) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -87,7 +87,7 @@ Vtm 是一个**基于文本的应用程序**，其用户界面由文本单元格
 <small>🔗 [theguardian.com](https://www.theguardian.com/science/2025/mar/07/athena-spacecraft-mission-dead): Athena spacecraft declared dead after toppling over on moon</small>
 
 
-| 🔥🔥: 170 \| 💬: [229](https://news.ycombinator.com/item?id=43292471) \| 🗓️ 2025-03-07
+| 🔥🔥: 180 \| 💬: [239](https://news.ycombinator.com/item?id=43292471) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -99,7 +99,7 @@ Vtm 是一个**基于文本的应用程序**，其用户界面由文本单元格
 <small>🔗 [pola.rs](https://pola.rs/posts/polars-cloud-what-we-are-building/): Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere</small>
 
 
-| 🔥🔥: 154 \| 💬: [53](https://news.ycombinator.com/item?id=43294566) \| 🗓️ 2025-03-07
+| 🔥🔥: 161 \| 💬: [54](https://news.ycombinator.com/item?id=43294566) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -123,7 +123,7 @@ Polars Cloud旨在通过**分布式架构**和**高性能计算**，将Polars的
 <small>🔗 [newsguardrealitycheck.com](https://www.newsguardrealitycheck.com/p/a-well-funded-moscow-based-global): Moscow-based global news network has infected Western AI tools</small>
 
 
-| 🔥🔥: 137 \| 💬: [89](https://news.ycombinator.com/item?id=43293121) \| 🗓️ 2025-03-07
+| 🔥🔥: 140 \| 💬: [91](https://news.ycombinator.com/item?id=43293121) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -135,7 +135,7 @@ Polars Cloud旨在通过**分布式架构**和**高性能计算**，将Polars的
 <small>🔗 [engineering.fb.com](https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/): Strobelight: A profiling service built on open source technology</small>
 
 
-| 🔥🔥: 135 \| 💬: [43](https://news.ycombinator.com/item?id=43290555) \| 🗓️ 2025-03-07
+| 🔥🔥: 137 \| 💬: [43](https://news.ycombinator.com/item?id=43290555) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -147,7 +147,7 @@ Meta推出的**Strobelight**是一个性能分析协调器，结合了多种开�
 <small>🔗 [nodumbideas.com](https://nodumbideas.com/p/betting-on-the-pope-was-the-original): Betting on the Pope was the original prediction market</small>
 
 
-| 🔥🔥: 126 \| 💬: [68](https://news.ycombinator.com/item?id=43290892) \| 🗓️ 2025-03-07
+| 🔥🔥: 127 \| 💬: [69](https://news.ycombinator.com/item?id=43290892) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -159,7 +159,7 @@ Meta推出的**Strobelight**是一个性能分析协调器，结合了多种开�
 <small>🔗 [geohot.github.io](https://geohot.github.io//blog/jekyll/update/2025/03/08/AMD-YOLO.html): AMD YOLO</small>
 
 
-| 🔥🔥: 112 \| 💬: [76](https://news.ycombinator.com/item?id=43292750) \| 🗓️ 2025-03-07
+| 🔥🔥: 113 \| 💬: [76](https://news.ycombinator.com/item?id=43292750) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -171,7 +171,7 @@ AMD正在寄送我们申请的两台MI300X设备。经过测试，作者相信AM
 <small>🔗 [cedardb.com](https://cedardb.com/blog/optimistic_btrees/): Optimistic Locking in B-Trees</small>
 
 
-| 🔥🔥: 105 \| 💬: [22](https://news.ycombinator.com/item?id=43292050) \| 🗓️ 2025-03-07
+| 🔥🔥: 112 \| 💬: [25](https://news.ycombinator.com/item?id=43292050) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -183,7 +183,7 @@ B树作为一种经典数据结构，已有50多年历史，至今仍广泛应�
 <small>🔗 [aeon.co](https://aeon.co/essays/why-reading-martha-c-nussbaums-philosophy-is-pure-pleasure): The necessity of Nussbaum</small>
 
 
-| 🔥🔥: 102 \| 💬: [113](https://news.ycombinator.com/item?id=43291541) \| 🗓️ 2025-03-07
+| 🔥🔥: 103 \| 💬: [113](https://news.ycombinator.com/item?id=43291541) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -207,7 +207,7 @@ B树作为一种经典数据结构，已有50多年历史，至今仍广泛应�
 <small>🔗 [seangoedecke.com](https://www.seangoedecke.com/great-software-design/): Great software design looks underwhelming</small>
 
 
-| 🔥: 90 \| 💬: [8](https://news.ycombinator.com/item?id=43293363) \| 🗓️ 2025-03-07
+| 🔥: 92 \| 💬: [8](https://news.ycombinator.com/item?id=43293363) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -215,11 +215,23 @@ B树作为一种经典数据结构，已有50多年历史，至今仍广泛应�
 
 ---
 
-## <a name="17"></a>17. 如果美国切断英国的武器供应会怎样？ 
+## <a name="17"></a>17. 联邦调查局将1.5亿美元网络盗窃案与2022年LastPass黑客事件关联 
+<small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/): Feds Link $150M Cyberheist to 2022 LastPass Hacks</small>
+
+
+| 🔥: 91 \| 💬: [50](https://news.ycombinator.com/item?id=43296656) \| 🗓️ 2025-03-07
+
+
+<br />
+2023年9月，安全研究人员发现多起六位数加密货币盗窃案与2022年**LastPass**数据泄露有关。2024年1月，Ripple联合创始人Chris Larsen成为1.5亿美元加密货币盗窃案的受害者。联邦调查局和特勤局确认，攻击者通过破解从LastPass窃取的**主密码**访问了受害者的加密货币钱包。尽管LastPass否认与盗窃案有直接关联，但研究人员指出，许多受害者曾在LastPass的“安全笔记”中存储了**加密货币种子短语**，且密码复杂度较低，导致易被破解。
+
+---
+
+## <a name="18"></a>18. 如果美国切断英国的武器供应会怎样？ 
 <small>🔗 [reaction.life](https://www.reaction.life/p/what-if-america-turned-off-britains): What if America turned off Britain's weapons?</small>
 
 
-| 🔥: 69 \| 💬: [109](https://news.ycombinator.com/item?id=43292320) \| 🗓️ 2025-03-07
+| 🔥: 71 \| 💬: [109](https://news.ycombinator.com/item?id=43292320) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -227,11 +239,11 @@ B树作为一种经典数据结构，已有50多年历史，至今仍广泛应�
 
 ---
 
-## <a name="18"></a>18. 康涅狄格州DMV员工通过倒卖拖车车辆获利数千美元 
+## <a name="19"></a>19. 康涅狄格州DMV员工通过倒卖拖车车辆获利数千美元 
 <small>🔗 [propublica.org](https://www.propublica.org/article/connecticut-dmv-employee-sells-towed-cars): How a Connecticut DMV Employee Made Thousands by Selling Towed Cars</small>
 
 
-| 🔥: 66 \| 💬: [20](https://news.ycombinator.com/item?id=43292836) \| 🗓️ 2025-03-07
+| 🔥: 68 \| 💬: [20](https://news.ycombinator.com/item?id=43292836) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -239,7 +251,19 @@ B树作为一种经典数据结构，已有50多年历史，至今仍广泛应�
 
 ---
 
-## <a name="19"></a>19. 美国利用AI撤销支持哈马斯的外国人签证 
+## <a name="20"></a>20. 1995年的GeoCities：在互联网上建立个人主页 
+<small>🔗 [cybercultural.com](https://cybercultural.com/p/geocities-1995/): GeoCities in 1995: Building a Home Page on the Internet</small>
+
+
+| 🔥: 66 \| 💬: [32](https://news.ycombinator.com/item?id=43296103) \| 🗓️ 2025-03-07
+
+
+<br />
+1995年，**GeoCities**（最初称为Beverly Hills Internet）成为首批让普通人轻松在万维网上发布**个人主页**的商业服务之一。通过提供**“个人GeoPage生成器”**，用户无需HTML知识即可创建主页。GeoCities以虚拟社区为基础，赋予用户“网络家园”的感觉，成为90年代互联网文化的重要里程碑。
+
+---
+
+## <a name="21"></a>21. 美国利用AI撤销支持哈马斯的外国人签证 
 <small>🔗 [cnbctv18.com](https://www.cnbctv18.com/world/us-deploys-ai-to-revoke-visas-of-foreign-nationals-supporting-hamas-report-19570130.htm): US deploys AI to revoke visas of foreign nationals supporting Hamas: Report</small>
 
 
@@ -251,7 +275,7 @@ B树作为一种经典数据结构，已有50多年历史，至今仍广泛应�
 
 ---
 
-## <a name="20"></a>20. 《“下架法案”不是法律，而是武器》 
+## <a name="22"></a>22. 《“下架法案”不是法律，而是武器》 
 <small>🔗 [theverge.com](https://www.theverge.com/policy/624974/take-it-down-act-deepfakes-nonconsensual-pornography-trump-constitutional-crisis): The Take It Down Act isn't a law, it's a weapon</small>
 
 
@@ -263,7 +287,7 @@ B树作为一种经典数据结构，已有50多年历史，至今仍广泛应�
 
 ---
 
-## <a name="21"></a>21. YouTube让我害怕；我需要为我的视频内容做RAID 1备份 
+## <a name="23"></a>23. YouTube让我害怕；我需要为我的视频内容做RAID 1备份 
 <small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/youtube-scares-me-i-need-raid-1-my-video-content): YouTube scares me; I need RAID 1 for my video content</small>
 
 
@@ -275,11 +299,11 @@ B树作为一种经典数据结构，已有50多年历史，至今仍广泛应�
 
 ---
 
-## <a name="22"></a>22. 62%的加拿大人计划至少一年内避免前往美国 
+## <a name="24"></a>24. 62%的加拿大人计划至少一年内避免前往美国 
 <small>🔗 [abacusdata.ca](https://abacusdata.ca/canadians-plan-to-avoid-the-u-s-amid-political-tensions/): 62% of Canadians Plan to Avoid the U.S. for at Least the Next Year</small>
 
 
-| 🔥: 58 \| 💬: [38](https://news.ycombinator.com/item?id=43292231) \| 🗓️ 2025-03-07
+| 🔥: 59 \| 💬: [37](https://news.ycombinator.com/item?id=43292231) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -287,7 +311,7 @@ B树作为一种经典数据结构，已有50多年历史，至今仍广泛应�
 
 ---
 
-## <a name="23"></a>23. 美国卫星公司Maxar据称切断乌克兰图像访问权限 
+## <a name="25"></a>25. 美国卫星公司Maxar据称切断乌克兰图像访问权限 
 <small>🔗 [politico.eu](https://www.politico.eu/article/us-satellite-company-maxar-cuts-off-ukraine-access-imagery-report-says/): US satellite company Maxar reportedly cuts off Ukraine's access to imagery</small>
 
 
