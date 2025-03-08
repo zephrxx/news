@@ -27,7 +27,7 @@ tags:
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/first-porn-now-skin-cream-age-verification-bills-are-out-control): Age Verification Laws: A Backdoor to Surveillance</small>
 
 
-| 🔥🔥: 372 \| 💬: [264](https://news.ycombinator.com/item?id=43292820) \| 🗓️ 2025-03-07
+| 🔥🔥: 389 \| 💬: [273](https://news.ycombinator.com/item?id=43292820) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [developer.chrome.com](https://developer.chrome.com/blog/command-and-commandfor): Introducing command And commandfor In HTML</small>
 
 
-| 🔥🔥: 290 \| 💬: [165](https://news.ycombinator.com/item?id=43292056) \| 🗓️ 2025-03-07
+| 🔥🔥: 299 \| 💬: [175](https://news.ycombinator.com/item?id=43292056) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -51,7 +51,7 @@ Chrome 135 引入了新的 **command** 和 **commandfor** 属性，用于增强�
 <small>🔗 [theins.press](https://theins.press/en/inv/279034): Europe's most wanted man plotted my murder and that of my colleague</small>
 
 
-| 🔥🔥: 290 \| 💬: [126](https://news.ycombinator.com/item?id=43293487) \| 🗓️ 2025-03-07
+| 🔥🔥: 295 \| 💬: [135](https://news.ycombinator.com/item?id=43293487) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -63,7 +63,7 @@ Chrome 135 引入了新的 **command** 和 **commandfor** 属性，用于增强�
 <small>🔗 [github.com](https://github.com/directvt/vtm): Vtm: Text-Based Desktop Environment</small>
 
 
-| 🔥🔥: 212 \| 💬: [48](https://news.ycombinator.com/item?id=43291946) \| 🗓️ 2025-03-07
+| 🔥🔥: 218 \| 💬: [49](https://news.ycombinator.com/item?id=43291946) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -75,7 +75,7 @@ Vtm 是一个**基于文本的应用程序**，其用户界面由文本单元格
 <small>🔗 [theguardian.com](https://www.theguardian.com/science/2025/mar/07/athena-spacecraft-mission-dead): Athena spacecraft declared dead after toppling over on moon</small>
 
 
-| 🔥🔥: 189 \| 💬: [251](https://news.ycombinator.com/item?id=43292471) \| 🗓️ 2025-03-07
+| 🔥🔥: 197 \| 💬: [256](https://news.ycombinator.com/item?id=43292471) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -83,7 +83,19 @@ Vtm 是一个**基于文本的应用程序**，其用户界面由文本单元格
 
 ---
 
-## <a name="6"></a>6. 再见，Prime 
+## <a name="6"></a>6. 联邦调查局将1.5亿美元网络盗窃案与2022年LastPass黑客事件关联 
+<small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/): Feds Link $150M Cyberheist to 2022 LastPass Hacks</small>
+
+
+| 🔥🔥: 189 \| 💬: [101](https://news.ycombinator.com/item?id=43296656) \| 🗓️ 2025-03-07
+
+
+<br />
+2023年9月，安全研究人员发现多起六位数加密货币盗窃案与2022年**LastPass**数据泄露有关。2024年1月，Ripple联合创始人Chris Larsen成为1.5亿美元加密货币盗窃案的受害者。联邦调查局和特勤局确认，攻击者通过破解从LastPass窃取的**主密码**访问了受害者的加密货币钱包。尽管LastPass否认与盗窃案有直接关联，但研究人员指出，许多受害者曾在LastPass的“安全笔记”中存储了**加密货币种子短语**，且密码复杂度较低，导致易被破解。
+
+---
+
+## <a name="7"></a>7. 再见，Prime 
 <small>🔗 [tbray.org](https://www.tbray.org/ongoing/When/202x/2025/03/06/Canceled-Prime): Bye, Prime</small>
 
 
@@ -95,11 +107,11 @@ Vtm 是一个**基于文本的应用程序**，其用户界面由文本单元格
 
 ---
 
-## <a name="7"></a>7. Polars Cloud：分布式云架构，随处运行Polars 
+## <a name="8"></a>8. Polars Cloud：分布式云架构，随处运行Polars 
 <small>🔗 [pola.rs](https://pola.rs/posts/polars-cloud-what-we-are-building/): Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere</small>
 
 
-| 🔥🔥: 171 \| 💬: [59](https://news.ycombinator.com/item?id=43294566) \| 🗓️ 2025-03-07
+| 🔥🔥: 177 \| 💬: [62](https://news.ycombinator.com/item?id=43294566) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -107,19 +119,19 @@ Polars Cloud旨在通过**分布式架构**和**高性能计算**，将Polars的
 
 ---
 
-## <a name="8"></a>8. 联邦调查局将1.5亿美元网络盗窃案与2022年LastPass黑客事件关联 
-<small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/): Feds Link $150M Cyberheist to 2022 LastPass Hacks</small>
+## <a name="9"></a>9. 莫斯科虚假新闻网络污染西方AI工具 
+<small>🔗 [newsguardrealitycheck.com](https://www.newsguardrealitycheck.com/p/a-well-funded-moscow-based-global): Moscow-based global news network has infected Western AI tools</small>
 
 
-| 🔥🔥: 157 \| 💬: [92](https://news.ycombinator.com/item?id=43296656) \| 🗓️ 2025-03-07
+| 🔥🔥: 147 \| 💬: [93](https://news.ycombinator.com/item?id=43293121) \| 🗓️ 2025-03-07
 
 
 <br />
-2023年9月，安全研究人员发现多起六位数加密货币盗窃案与2022年**LastPass**数据泄露有关。2024年1月，Ripple联合创始人Chris Larsen成为1.5亿美元加密货币盗窃案的受害者。联邦调查局和特勤局确认，攻击者通过破解从LastPass窃取的**主密码**访问了受害者的加密货币钱包。尽管LastPass否认与盗窃案有直接关联，但研究人员指出，许多受害者曾在LastPass的“安全笔记”中存储了**加密货币种子短语**，且密码复杂度较低，导致易被破解。
+一家资金充足的莫斯科全球“新闻”网络通过**Pravda**网站传播虚假信息，成功影响了西方主流AI工具。NewsGuard审计发现，10个领先的生成式AI工具在33%的情况下重复了亲克里姆林宫的虚假声明。这些AI工具引用了**Pravda**网络中的文章，传播了360万篇俄罗斯宣传内容，严重扭曲了AI模型对新闻的处理和呈现。
 
 ---
 
-## <a name="9"></a>9. 计算问题：算法与组合生成（2010） 
+## <a name="10"></a>10. 计算问题：算法与组合生成（2010） 
 <small>🔗 [jjj.de](https://www.jjj.de/fxt/fxtbook.pdf): Matters Computational (2010) [pdf]</small>
 
 
@@ -131,23 +143,11 @@ Polars Cloud旨在通过**分布式架构**和**高性能计算**，将Polars的
 
 ---
 
-## <a name="10"></a>10. 莫斯科虚假新闻网络污染西方AI工具 
-<small>🔗 [newsguardrealitycheck.com](https://www.newsguardrealitycheck.com/p/a-well-funded-moscow-based-global): Moscow-based global news network has infected Western AI tools</small>
-
-
-| 🔥🔥: 145 \| 💬: [93](https://news.ycombinator.com/item?id=43293121) \| 🗓️ 2025-03-07
-
-
-<br />
-一家资金充足的莫斯科全球“新闻”网络通过**Pravda**网站传播虚假信息，成功影响了西方主流AI工具。NewsGuard审计发现，10个领先的生成式AI工具在33%的情况下重复了亲克里姆林宫的虚假声明。这些AI工具引用了**Pravda**网络中的文章，传播了360万篇俄罗斯宣传内容，严重扭曲了AI模型对新闻的处理和呈现。
-
----
-
 ## <a name="11"></a>11. Strobelight：基于开源技术的性能分析服务 
 <small>🔗 [engineering.fb.com](https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/): Strobelight: A profiling service built on open source technology</small>
 
 
-| 🔥🔥: 142 \| 💬: [44](https://news.ycombinator.com/item?id=43290555) \| 🗓️ 2025-03-07
+| 🔥🔥: 143 \| 💬: [44](https://news.ycombinator.com/item?id=43290555) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -171,7 +171,7 @@ Meta推出的**Strobelight**是一个性能分析协调器，结合了多种开�
 <small>🔗 [cedardb.com](https://cedardb.com/blog/optimistic_btrees/): Optimistic Locking in B-Trees</small>
 
 
-| 🔥🔥: 122 \| 💬: [29](https://news.ycombinator.com/item?id=43292050) \| 🗓️ 2025-03-07
+| 🔥🔥: 127 \| 💬: [32](https://news.ycombinator.com/item?id=43292050) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -183,7 +183,7 @@ B树作为一种经典数据结构，已有50多年历史，至今仍广泛应�
 <small>🔗 [geohot.github.io](https://geohot.github.io//blog/jekyll/update/2025/03/08/AMD-YOLO.html): AMD YOLO</small>
 
 
-| 🔥🔥: 115 \| 💬: [76](https://news.ycombinator.com/item?id=43292750) \| 🗓️ 2025-03-07
+| 🔥🔥: 116 \| 💬: [76](https://news.ycombinator.com/item?id=43292750) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -195,7 +195,7 @@ AMD正在寄送我们申请的两台MI300X设备。经过测试，作者相信AM
 <small>🔗 [aeon.co](https://aeon.co/essays/why-reading-martha-c-nussbaums-philosophy-is-pure-pleasure): The necessity of Nussbaum</small>
 
 
-| 🔥🔥: 104 \| 💬: [114](https://news.ycombinator.com/item?id=43291541) \| 🗓️ 2025-03-07
+| 🔥🔥: 107 \| 💬: [115](https://news.ycombinator.com/item?id=43291541) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -215,23 +215,11 @@ AMD正在寄送我们申请的两台MI300X设备。经过测试，作者相信AM
 
 ---
 
-## <a name="17"></a>17. 优秀软件设计看起来平淡无奇 
-<small>🔗 [seangoedecke.com](https://www.seangoedecke.com/great-software-design/): Great software design looks underwhelming</small>
-
-
-| 🔥: 94 \| 💬: [8](https://news.ycombinator.com/item?id=43293363) \| 🗓️ 2025-03-07
-
-
-<br />
-作者回顾了一次代码评审经历，认为**简洁的代码**才是优秀设计的体现。通过减少组件、集中状态、使用可靠系统等方式，**消除潜在故障模式**是设计的关键。优秀设计往往不追求复杂或创新，而是通过**简单、稳健的方案**解决问题，确保系统的可靠性和可维护性。
-
----
-
-## <a name="18"></a>18. 1995年的GeoCities：在互联网上建立个人主页 
+## <a name="17"></a>17. 1995年的GeoCities：在互联网上建立个人主页 
 <small>🔗 [cybercultural.com](https://cybercultural.com/p/geocities-1995/): GeoCities in 1995: Building a Home Page on the Internet</small>
 
 
-| 🔥: 90 \| 💬: [49](https://news.ycombinator.com/item?id=43296103) \| 🗓️ 2025-03-07
+| 🔥: 97 \| 💬: [55](https://news.ycombinator.com/item?id=43296103) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -239,11 +227,47 @@ AMD正在寄送我们申请的两台MI300X设备。经过测试，作者相信AM
 
 ---
 
-## <a name="19"></a>19. 康涅狄格州DMV员工通过倒卖拖车车辆获利数千美元 
+## <a name="18"></a>18. 优秀软件设计看起来平淡无奇 
+<small>🔗 [seangoedecke.com](https://www.seangoedecke.com/great-software-design/): Great software design looks underwhelming</small>
+
+
+| 🔥: 95 \| 💬: [8](https://news.ycombinator.com/item?id=43293363) \| 🗓️ 2025-03-07
+
+
+<br />
+作者回顾了一次代码评审经历，认为**简洁的代码**才是优秀设计的体现。通过减少组件、集中状态、使用可靠系统等方式，**消除潜在故障模式**是设计的关键。优秀设计往往不追求复杂或创新，而是通过**简单、稳健的方案**解决问题，确保系统的可靠性和可维护性。
+
+---
+
+## <a name="19"></a>19. 《下架法案》：保护受害者的缺陷尝试，或将导致审查 
+<small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/02/take-it-down-act-flawed-attempt-protect-victims-will-lead-censorship): Take It Down Act: A Flawed Attempt to Protect Victims That'll Lead to Censorship</small>
+
+
+| 🔥: 83 \| 💬: [11](https://news.ycombinator.com/item?id=43296886) \| 🗓️ 2025-03-07
+
+
+<br />
+美国国会正在讨论《下架法案》（S. 146），旨在加快删除未经同意的私密影像（NCII）。尽管保护受害者是合理目标，但法案缺乏**保障措施**，可能导致滥用，威胁**言论自由**和用户隐私。法案要求网站在48小时内删除内容，但**自动化过滤系统**可能误删合法内容，如新闻报道或讽刺作品。此外，法案未明确豁免加密服务，可能迫使平台放弃加密，损害用户隐私。现有法律已足以应对NCII问题，国会应加强执法而非推行可能被滥用的新制度。
+
+---
+
+## <a name="20"></a>20. 贝尔实验室如何找到正确的研究问题？ 
+<small>🔗 [freaktakes.com](https://www.freaktakes.com/p/how-did-places-like-bell-labs-know): How did places like Bell Labs know how to ask the right questions? (2023)</small>
+
+
+| 🔥: 80 \| 💬: [51](https://news.ycombinator.com/item?id=43295865) \| 🗓️ 2025-03-07
+
+
+<br />
+贝尔实验室通过**“长线牵引，窄围栏”**的方式，给予基础研究人员自由探索的空间，同时确保研究问题与业务相关。通过**频繁互动**，研究人员与开发工程师、制造设施保持紧密联系，确保研究方向符合实际需求。此外，**系统工程师**的介入确保了研究问题与业务目标的紧密结合，使创新与实用性并存。
+
+---
+
+## <a name="21"></a>21. 康涅狄格州DMV员工通过倒卖拖车车辆获利数千美元 
 <small>🔗 [propublica.org](https://www.propublica.org/article/connecticut-dmv-employee-sells-towed-cars): How a Connecticut DMV Employee Made Thousands by Selling Towed Cars</small>
 
 
-| 🔥: 75 \| 💬: [21](https://news.ycombinator.com/item?id=43292836) \| 🗓️ 2025-03-07
+| 🔥: 76 \| 💬: [21](https://news.ycombinator.com/item?id=43292836) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -251,11 +275,11 @@ AMD正在寄送我们申请的两台MI300X设备。经过测试，作者相信AM
 
 ---
 
-## <a name="20"></a>20. 如果美国切断英国的武器供应会怎样？ 
+## <a name="22"></a>22. 如果美国切断英国的武器供应会怎样？ 
 <small>🔗 [reaction.life](https://www.reaction.life/p/what-if-america-turned-off-britains): What if America turned off Britain's weapons?</small>
 
 
-| 🔥: 72 \| 💬: [111](https://news.ycombinator.com/item?id=43292320) \| 🗓️ 2025-03-07
+| 🔥: 72 \| 💬: [112](https://news.ycombinator.com/item?id=43292320) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -263,7 +287,7 @@ AMD正在寄送我们申请的两台MI300X设备。经过测试，作者相信AM
 
 ---
 
-## <a name="21"></a>21. 《“下架法案”不是法律，而是武器》 
+## <a name="23"></a>23. 《“下架法案”不是法律，而是武器》 
 <small>🔗 [theverge.com](https://www.theverge.com/policy/624974/take-it-down-act-deepfakes-nonconsensual-pornography-trump-constitutional-crisis): The Take It Down Act isn't a law, it's a weapon</small>
 
 
@@ -275,7 +299,7 @@ AMD正在寄送我们申请的两台MI300X设备。经过测试，作者相信AM
 
 ---
 
-## <a name="22"></a>22. 美国利用AI撤销支持哈马斯的外国人签证 
+## <a name="24"></a>24. 美国利用AI撤销支持哈马斯的外国人签证 
 <small>🔗 [cnbctv18.com](https://www.cnbctv18.com/world/us-deploys-ai-to-revoke-visas-of-foreign-nationals-supporting-hamas-report-19570130.htm): US deploys AI to revoke visas of foreign nationals supporting Hamas: Report</small>
 
 
@@ -287,7 +311,7 @@ AMD正在寄送我们申请的两台MI300X设备。经过测试，作者相信AM
 
 ---
 
-## <a name="23"></a>23. YouTube让我害怕；我需要为我的视频内容做RAID 1备份 
+## <a name="25"></a>25. YouTube让我害怕；我需要为我的视频内容做RAID 1备份 
 <small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/youtube-scares-me-i-need-raid-1-my-video-content): YouTube scares me; I need RAID 1 for my video content</small>
 
 
@@ -296,29 +320,5 @@ AMD正在寄送我们申请的两台MI300X设备。经过测试，作者相信AM
 
 <br />
 作者在YouTube上发布了18年共500个视频，但如今平台充斥着**AI生成内容**和广告，用户体验变差。他担心内容被无故删除，因此选择在**Floatplane**上备份视频。Floatplane无广告、无算法，支持4K下载，且创作者能直接与观众互动。尽管YouTube仍是主要平台，但Floatplane提供了更安全的备份和更好的观看体验。
-
----
-
-## <a name="24"></a>24. 62%的加拿大人计划至少一年内避免前往美国 
-<small>🔗 [abacusdata.ca](https://abacusdata.ca/canadians-plan-to-avoid-the-u-s-amid-political-tensions/): 62% of Canadians Plan to Avoid the U.S. for at Least the Next Year</small>
-
-
-| 🔥: 61 \| 💬: [39](https://news.ycombinator.com/item?id=43292231) \| 🗓️ 2025-03-07
-
-
-<br />
-由于美加之间政治紧张局势加剧，尤其是前总统特朗普的关税政策和吞并威胁，**62%的加拿大人**计划至少一年内避免前往美国。调查显示，**56%**原本计划赴美旅行的人已取消或更改计划，转向国内或其他国家。**政治气候**、对美政策不满以及加元疲软是主要原因。这一趋势推动了加拿大国内旅游业的增长，许多人选择支持本地经济。
-
----
-
-## <a name="25"></a>25. 美国卫星公司Maxar据称切断乌克兰图像访问权限 
-<small>🔗 [politico.eu](https://www.politico.eu/article/us-satellite-company-maxar-cuts-off-ukraine-access-imagery-report-says/): US satellite company Maxar reportedly cuts off Ukraine's access to imagery</small>
-
-
-| 🔥: 52 \| 💬: [48](https://news.ycombinator.com/item?id=43289805) \| 🗓️ 2025-03-07
-
-
-<br />
-据报道，美国卫星测绘公司**Maxar Technologies**已停止向乌克兰提供卫星图像服务。此举可能是由于美国总统特朗普决定停止向乌克兰提供军事情报数据，表明禁令不仅影响政府机构，还波及提供卫星数据的**美国商业公司**。Maxar是乌克兰用户的主要卫星图像供应商，用于追踪俄军动向和评估基础设施受损情况。目前，乌克兰正面临美国军事援助和情报共享的中断，同时俄罗斯对乌克兰总统泽连斯基的家乡发动了导弹袭击。
 
 ---
