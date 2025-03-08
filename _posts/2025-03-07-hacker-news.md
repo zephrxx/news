@@ -12,7 +12,7 @@ tags:
 1. HTML 中引入 command 和 commandfor 属性；
 1. 欧洲头号通缉犯策划谋杀我和同事；
 1. Vtm：基于文本的桌面环境；
-1. 月球着陆失败，雅典娜号航天器宣告报废；
+1. 联邦调查局将1.5亿美元网络盗窃案与2022年LastPass黑客事件关联；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/first-porn-now-skin-cream-age-verification-bills-are-out-control): Age Verification Laws: A Backdoor to Surveillance</small>
 
 
-| 🔥🔥: 389 \| 💬: [273](https://news.ycombinator.com/item?id=43292820) \| 🗓️ 2025-03-07
+| 🔥🔥: 407 \| 💬: [283](https://news.ycombinator.com/item?id=43292820) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [developer.chrome.com](https://developer.chrome.com/blog/command-and-commandfor): Introducing command And commandfor In HTML</small>
 
 
-| 🔥🔥: 299 \| 💬: [175](https://news.ycombinator.com/item?id=43292056) \| 🗓️ 2025-03-07
+| 🔥🔥: 309 \| 💬: [180](https://news.ycombinator.com/item?id=43292056) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -51,7 +51,7 @@ Chrome 135 引入了新的 **command** 和 **commandfor** 属性，用于增强�
 <small>🔗 [theins.press](https://theins.press/en/inv/279034): Europe's most wanted man plotted my murder and that of my colleague</small>
 
 
-| 🔥🔥: 295 \| 💬: [135](https://news.ycombinator.com/item?id=43293487) \| 🗓️ 2025-03-07
+| 🔥🔥: 304 \| 💬: [138](https://news.ycombinator.com/item?id=43293487) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -63,7 +63,7 @@ Chrome 135 引入了新的 **command** 和 **commandfor** 属性，用于增强�
 <small>🔗 [github.com](https://github.com/directvt/vtm): Vtm: Text-Based Desktop Environment</small>
 
 
-| 🔥🔥: 218 \| 💬: [49](https://news.ycombinator.com/item?id=43291946) \| 🗓️ 2025-03-07
+| 🔥🔥: 224 \| 💬: [49](https://news.ycombinator.com/item?id=43291946) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -71,23 +71,11 @@ Vtm 是一个**基于文本的应用程序**，其用户界面由文本单元格
 
 ---
 
-## <a name="5"></a>5. 月球着陆失败，雅典娜号航天器宣告报废 
-<small>🔗 [theguardian.com](https://www.theguardian.com/science/2025/mar/07/athena-spacecraft-mission-dead): Athena spacecraft declared dead after toppling over on moon</small>
-
-
-| 🔥🔥: 197 \| 💬: [256](https://news.ycombinator.com/item?id=43292471) \| 🗓️ 2025-03-07
-
-
-<br />
-美国Intuitive Machines公司的**雅典娜号**航天器在2025年3月6日登陆月球时侧翻，导致任务提前结束。该航天器偏离预定着陆点约250英里，尽管最初能发电并传回数据，但因**太阳能板方向**和**极端低温**无法充电，最终宣告报废。此次任务失败与该公司2024年的奥德修斯号着陆事故类似，损失了包括**NASA的Trident钻探设备**在内的数亿美元设备。
-
----
-
-## <a name="6"></a>6. 联邦调查局将1.5亿美元网络盗窃案与2022年LastPass黑客事件关联 
+## <a name="5"></a>5. 联邦调查局将1.5亿美元网络盗窃案与2022年LastPass黑客事件关联 
 <small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/): Feds Link $150M Cyberheist to 2022 LastPass Hacks</small>
 
 
-| 🔥🔥: 189 \| 💬: [101](https://news.ycombinator.com/item?id=43296656) \| 🗓️ 2025-03-07
+| 🔥🔥: 213 \| 💬: [110](https://news.ycombinator.com/item?id=43296656) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -95,7 +83,31 @@ Vtm 是一个**基于文本的应用程序**，其用户界面由文本单元格
 
 ---
 
-## <a name="7"></a>7. 再见，Prime 
+## <a name="6"></a>6. 月球着陆失败，雅典娜号航天器宣告报废 
+<small>🔗 [theguardian.com](https://www.theguardian.com/science/2025/mar/07/athena-spacecraft-mission-dead): Athena spacecraft declared dead after toppling over on moon</small>
+
+
+| 🔥🔥: 198 \| 💬: [259](https://news.ycombinator.com/item?id=43292471) \| 🗓️ 2025-03-07
+
+
+<br />
+美国Intuitive Machines公司的**雅典娜号**航天器在2025年3月6日登陆月球时侧翻，导致任务提前结束。该航天器偏离预定着陆点约250英里，尽管最初能发电并传回数据，但因**太阳能板方向**和**极端低温**无法充电，最终宣告报废。此次任务失败与该公司2024年的奥德修斯号着陆事故类似，损失了包括**NASA的Trident钻探设备**在内的数亿美元设备。
+
+---
+
+## <a name="7"></a>7. Polars Cloud：分布式云架构，随处运行Polars 
+<small>🔗 [pola.rs](https://pola.rs/posts/polars-cloud-what-we-are-building/): Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere</small>
+
+
+| 🔥🔥: 187 \| 💬: [63](https://news.ycombinator.com/item?id=43294566) \| 🗓️ 2025-03-07
+
+
+<br />
+Polars Cloud旨在通过**分布式架构**和**高性能计算**，将Polars的灵活API扩展到云端。它支持**无服务器计算**、可配置的硬件（CPU和GPU）、跨云平台（AWS、Azure、GCP）以及本地部署。用户可以通过简单的API调用，轻松在远程执行Polars查询，支持批处理和交互式数据探索。Polars Cloud还具备**故障容错**和**数据可观测性**，确保查询的可靠性和透明度。
+
+---
+
+## <a name="8"></a>8. 再见，Prime 
 <small>🔗 [tbray.org](https://www.tbray.org/ongoing/When/202x/2025/03/06/Canceled-Prime): Bye, Prime</small>
 
 
@@ -107,39 +119,27 @@ Vtm 是一个**基于文本的应用程序**，其用户界面由文本单元格
 
 ---
 
-## <a name="8"></a>8. Polars Cloud：分布式云架构，随处运行Polars 
-<small>🔗 [pola.rs](https://pola.rs/posts/polars-cloud-what-we-are-building/): Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere</small>
-
-
-| 🔥🔥: 177 \| 💬: [62](https://news.ycombinator.com/item?id=43294566) \| 🗓️ 2025-03-07
-
-
-<br />
-Polars Cloud旨在通过**分布式架构**和**高性能计算**，将Polars的灵活API扩展到云端。它支持**无服务器计算**、可配置的硬件（CPU和GPU）、跨云平台（AWS、Azure、GCP）以及本地部署。用户可以通过简单的API调用，轻松在远程执行Polars查询，支持批处理和交互式数据探索。Polars Cloud还具备**故障容错**和**数据可观测性**，确保查询的可靠性和透明度。
-
----
-
-## <a name="9"></a>9. 莫斯科虚假新闻网络污染西方AI工具 
-<small>🔗 [newsguardrealitycheck.com](https://www.newsguardrealitycheck.com/p/a-well-funded-moscow-based-global): Moscow-based global news network has infected Western AI tools</small>
-
-
-| 🔥🔥: 147 \| 💬: [93](https://news.ycombinator.com/item?id=43293121) \| 🗓️ 2025-03-07
-
-
-<br />
-一家资金充足的莫斯科全球“新闻”网络通过**Pravda**网站传播虚假信息，成功影响了西方主流AI工具。NewsGuard审计发现，10个领先的生成式AI工具在33%的情况下重复了亲克里姆林宫的虚假声明。这些AI工具引用了**Pravda**网络中的文章，传播了360万篇俄罗斯宣传内容，严重扭曲了AI模型对新闻的处理和呈现。
-
----
-
-## <a name="10"></a>10. 计算问题：算法与组合生成（2010） 
+## <a name="9"></a>9. 计算问题：算法与组合生成（2010） 
 <small>🔗 [jjj.de](https://www.jjj.de/fxt/fxtbook.pdf): Matters Computational (2010) [pdf]</small>
 
 
-| 🔥🔥: 146 \| 💬: [16](https://news.ycombinator.com/item?id=43288861) \| 🗓️ 2025-03-07
+| 🔥🔥: 148 \| 💬: [18](https://news.ycombinator.com/item?id=43288861) \| 🗓️ 2025-03-07
 
 
 <br />
 本书深入探讨了**低层算法**、**组合生成**和**数据结构**等核心计算主题。涵盖了位操作、排列组合、排序算法、堆栈、队列等数据结构，以及组合数学中的排列、子集、整数划分等高级主题。适合对算法和组合数学感兴趣的读者。
+
+---
+
+## <a name="10"></a>10. 莫斯科虚假新闻网络污染西方AI工具 
+<small>🔗 [newsguardrealitycheck.com](https://www.newsguardrealitycheck.com/p/a-well-funded-moscow-based-global): Moscow-based global news network has infected Western AI tools</small>
+
+
+| 🔥🔥: 148 \| 💬: [94](https://news.ycombinator.com/item?id=43293121) \| 🗓️ 2025-03-07
+
+
+<br />
+一家资金充足的莫斯科全球“新闻”网络通过**Pravda**网站传播虚假信息，成功影响了西方主流AI工具。NewsGuard审计发现，10个领先的生成式AI工具在33%的情况下重复了亲克里姆林宫的虚假声明。这些AI工具引用了**Pravda**网络中的文章，传播了360万篇俄罗斯宣传内容，严重扭曲了AI模型对新闻的处理和呈现。
 
 ---
 
@@ -171,7 +171,7 @@ Meta推出的**Strobelight**是一个性能分析协调器，结合了多种开�
 <small>🔗 [cedardb.com](https://cedardb.com/blog/optimistic_btrees/): Optimistic Locking in B-Trees</small>
 
 
-| 🔥🔥: 127 \| 💬: [32](https://news.ycombinator.com/item?id=43292050) \| 🗓️ 2025-03-07
+| 🔥🔥: 129 \| 💬: [33](https://news.ycombinator.com/item?id=43292050) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -203,23 +203,11 @@ AMD正在寄送我们申请的两台MI300X设备。经过测试，作者相信AM
 
 ---
 
-## <a name="16"></a>16. 马斯克的“政府效率部门”危及重大政府项目 
-<small>🔗 [wired.com](https://www.wired.com/story/doge-major-government-tech-projects-efficiency/): Doge Is Putting Major Government Efficiency Projects at Risk</small>
-
-
-| 🔥: 99 \| 💬: [80](https://news.ycombinator.com/item?id=43293412) \| 🗓️ 2025-03-07
-
-
-<br />
-自马斯克的“政府效率部门”接管**GSA**和**USDS**以来，约200名技术人员离职或被解雇，危及包括公共卫生和护照申请在内的多年项目。**18F**团队被解散，导致多个关键项目停滞，如**IRS的Direct File**和**Weather.gov**的改进。**USDS**也因大规模裁员和辞职而陷入混乱，许多重要项目面临中断风险。
-
----
-
-## <a name="17"></a>17. 1995年的GeoCities：在互联网上建立个人主页 
+## <a name="16"></a>16. 1995年的GeoCities：在互联网上建立个人主页 
 <small>🔗 [cybercultural.com](https://cybercultural.com/p/geocities-1995/): GeoCities in 1995: Building a Home Page on the Internet</small>
 
 
-| 🔥: 97 \| 💬: [55](https://news.ycombinator.com/item?id=43296103) \| 🗓️ 2025-03-07
+| 🔥🔥: 106 \| 💬: [55](https://news.ycombinator.com/item?id=43296103) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -227,23 +215,11 @@ AMD正在寄送我们申请的两台MI300X设备。经过测试，作者相信AM
 
 ---
 
-## <a name="18"></a>18. 优秀软件设计看起来平淡无奇 
-<small>🔗 [seangoedecke.com](https://www.seangoedecke.com/great-software-design/): Great software design looks underwhelming</small>
-
-
-| 🔥: 95 \| 💬: [8](https://news.ycombinator.com/item?id=43293363) \| 🗓️ 2025-03-07
-
-
-<br />
-作者回顾了一次代码评审经历，认为**简洁的代码**才是优秀设计的体现。通过减少组件、集中状态、使用可靠系统等方式，**消除潜在故障模式**是设计的关键。优秀设计往往不追求复杂或创新，而是通过**简单、稳健的方案**解决问题，确保系统的可靠性和可维护性。
-
----
-
-## <a name="19"></a>19. 《下架法案》：保护受害者的缺陷尝试，或将导致审查 
+## <a name="17"></a>17. 《下架法案》：保护受害者的缺陷尝试，或将导致审查 
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/02/take-it-down-act-flawed-attempt-protect-victims-will-lead-censorship): Take It Down Act: A Flawed Attempt to Protect Victims That'll Lead to Censorship</small>
 
 
-| 🔥: 83 \| 💬: [11](https://news.ycombinator.com/item?id=43296886) \| 🗓️ 2025-03-07
+| 🔥🔥: 103 \| 💬: [20](https://news.ycombinator.com/item?id=43296886) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -251,11 +227,35 @@ AMD正在寄送我们申请的两台MI300X设备。经过测试，作者相信AM
 
 ---
 
+## <a name="18"></a>18. 马斯克的“政府效率部门”危及重大政府项目 
+<small>🔗 [wired.com](https://www.wired.com/story/doge-major-government-tech-projects-efficiency/): Doge Is Putting Major Government Efficiency Projects at Risk</small>
+
+
+| 🔥: 99 \| 💬: [81](https://news.ycombinator.com/item?id=43293412) \| 🗓️ 2025-03-07
+
+
+<br />
+自马斯克的“政府效率部门”接管**GSA**和**USDS**以来，约200名技术人员离职或被解雇，危及包括公共卫生和护照申请在内的多年项目。**18F**团队被解散，导致多个关键项目停滞，如**IRS的Direct File**和**Weather.gov**的改进。**USDS**也因大规模裁员和辞职而陷入混乱，许多重要项目面临中断风险。
+
+---
+
+## <a name="19"></a>19. 优秀软件设计看起来平淡无奇 
+<small>🔗 [seangoedecke.com](https://www.seangoedecke.com/great-software-design/): Great software design looks underwhelming</small>
+
+
+| 🔥: 95 \| 💬: [9](https://news.ycombinator.com/item?id=43293363) \| 🗓️ 2025-03-07
+
+
+<br />
+作者回顾了一次代码评审经历，认为**简洁的代码**才是优秀设计的体现。通过减少组件、集中状态、使用可靠系统等方式，**消除潜在故障模式**是设计的关键。优秀设计往往不追求复杂或创新，而是通过**简单、稳健的方案**解决问题，确保系统的可靠性和可维护性。
+
+---
+
 ## <a name="20"></a>20. 贝尔实验室如何找到正确的研究问题？ 
 <small>🔗 [freaktakes.com](https://www.freaktakes.com/p/how-did-places-like-bell-labs-know): How did places like Bell Labs know how to ask the right questions? (2023)</small>
 
 
-| 🔥: 80 \| 💬: [51](https://news.ycombinator.com/item?id=43295865) \| 🗓️ 2025-03-07
+| 🔥: 89 \| 💬: [57](https://news.ycombinator.com/item?id=43295865) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -267,7 +267,7 @@ AMD正在寄送我们申请的两台MI300X设备。经过测试，作者相信AM
 <small>🔗 [propublica.org](https://www.propublica.org/article/connecticut-dmv-employee-sells-towed-cars): How a Connecticut DMV Employee Made Thousands by Selling Towed Cars</small>
 
 
-| 🔥: 76 \| 💬: [21](https://news.ycombinator.com/item?id=43292836) \| 🗓️ 2025-03-07
+| 🔥: 77 \| 💬: [21](https://news.ycombinator.com/item?id=43292836) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -279,7 +279,7 @@ AMD正在寄送我们申请的两台MI300X设备。经过测试，作者相信AM
 <small>🔗 [reaction.life](https://www.reaction.life/p/what-if-america-turned-off-britains): What if America turned off Britain's weapons?</small>
 
 
-| 🔥: 72 \| 💬: [112](https://news.ycombinator.com/item?id=43292320) \| 🗓️ 2025-03-07
+| 🔥: 73 \| 💬: [112](https://news.ycombinator.com/item?id=43292320) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -315,7 +315,7 @@ AMD正在寄送我们申请的两台MI300X设备。经过测试，作者相信AM
 <small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/youtube-scares-me-i-need-raid-1-my-video-content): YouTube scares me; I need RAID 1 for my video content</small>
 
 
-| 🔥: 62 \| 💬: [17](https://news.ycombinator.com/item?id=43290975) \| 🗓️ 2025-03-07
+| 🔥: 63 \| 💬: [17](https://news.ycombinator.com/item?id=43290975) \| 🗓️ 2025-03-07
 
 
 <br />
