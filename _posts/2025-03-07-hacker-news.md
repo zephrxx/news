@@ -27,7 +27,7 @@ tags:
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/first-porn-now-skin-cream-age-verification-bills-are-out-control): Age Verification Laws: A Backdoor to Surveillance</small>
 
 
-| 🔥🔥: 267 \| 💬: [176](https://news.ycombinator.com/item?id=43292820) \| 🗓️ 2025-03-07
+| 🔥🔥: 292 \| 💬: [202](https://news.ycombinator.com/item?id=43292820) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [developer.chrome.com](https://developer.chrome.com/blog/command-and-commandfor): Introducing command And commandfor In HTML</small>
 
 
-| 🔥🔥: 235 \| 💬: [136](https://news.ycombinator.com/item?id=43292056) \| 🗓️ 2025-03-07
+| 🔥🔥: 240 \| 💬: [145](https://news.ycombinator.com/item?id=43292056) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -51,7 +51,7 @@ Chrome 135 引入了新的 **command** 和 **commandfor** 属性，用于增强�
 <small>🔗 [theins.press](https://theins.press/en/inv/279034): Europe's most wanted man plotted my murder and that of my colleague</small>
 
 
-| 🔥🔥: 217 \| 💬: [79](https://news.ycombinator.com/item?id=43293487) \| 🗓️ 2025-03-07
+| 🔥🔥: 239 \| 💬: [95](https://news.ycombinator.com/item?id=43293487) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -63,7 +63,7 @@ Chrome 135 引入了新的 **command** 和 **commandfor** 属性，用于增强�
 <small>🔗 [tbray.org](https://www.tbray.org/ongoing/When/202x/2025/03/06/Canceled-Prime): Bye, Prime</small>
 
 
-| 🔥🔥: 181 \| 💬: [175](https://news.ycombinator.com/item?id=43288156) \| 🗓️ 2025-03-07
+| 🔥🔥: 182 \| 💬: [175](https://news.ycombinator.com/item?id=43288156) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -75,7 +75,7 @@ Chrome 135 引入了新的 **command** 和 **commandfor** 属性，用于增强�
 <small>🔗 [github.com](https://github.com/directvt/vtm): Vtm: Text-Based Desktop Environment</small>
 
 
-| 🔥🔥: 166 \| 💬: [31](https://news.ycombinator.com/item?id=43291946) \| 🗓️ 2025-03-07
+| 🔥🔥: 179 \| 💬: [38](https://news.ycombinator.com/item?id=43291946) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -87,7 +87,7 @@ Vtm 是一个**基于文本的应用程序**，其用户界面由文本单元格
 <small>🔗 [theguardian.com](https://www.theguardian.com/science/2025/mar/07/athena-spacecraft-mission-dead): Athena spacecraft declared dead after toppling over on moon</small>
 
 
-| 🔥🔥: 145 \| 💬: [188](https://news.ycombinator.com/item?id=43292471) \| 🗓️ 2025-03-07
+| 🔥🔥: 160 \| 💬: [213](https://news.ycombinator.com/item?id=43292471) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -99,7 +99,7 @@ Vtm 是一个**基于文本的应用程序**，其用户界面由文本单元格
 <small>🔗 [jjj.de](https://www.jjj.de/fxt/fxtbook.pdf): Matters Computational (2010) [pdf]</small>
 
 
-| 🔥🔥: 142 \| 💬: [14](https://news.ycombinator.com/item?id=43288861) \| 🗓️ 2025-03-07
+| 🔥🔥: 144 \| 💬: [16](https://news.ycombinator.com/item?id=43288861) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -107,35 +107,11 @@ Vtm 是一个**基于文本的应用程序**，其用户界面由文本单元格
 
 ---
 
-## <a name="8"></a>8. 莫斯科虚假新闻网络污染西方AI工具 
-<small>🔗 [newsguardrealitycheck.com](https://www.newsguardrealitycheck.com/p/a-well-funded-moscow-based-global): Moscow-based global news network has infected Western AI tools</small>
-
-
-| 🔥🔥: 131 \| 💬: [77](https://news.ycombinator.com/item?id=43293121) \| 🗓️ 2025-03-07
-
-
-<br />
-一家资金充足的莫斯科全球“新闻”网络通过**Pravda**网站传播虚假信息，成功影响了西方主流AI工具。NewsGuard审计发现，10个领先的生成式AI工具在33%的情况下重复了亲克里姆林宫的虚假声明。这些AI工具引用了**Pravda**网络中的文章，传播了360万篇俄罗斯宣传内容，严重扭曲了AI模型对新闻的处理和呈现。
-
----
-
-## <a name="9"></a>9. Strobelight：基于开源技术的性能分析服务 
-<small>🔗 [engineering.fb.com](https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/): Strobelight: A profiling service built on open source technology</small>
-
-
-| 🔥🔥: 129 \| 💬: [43](https://news.ycombinator.com/item?id=43290555) \| 🗓️ 2025-03-07
-
-
-<br />
-Meta推出的**Strobelight**是一个性能分析协调器，结合了多种开源技术，帮助工程师优化代码性能和资源利用率。通过**eBPF**等技术，Strobelight能够低开销地收集CPU、内存等性能数据，并提供丰富的分析工具。它支持多种分析器，包括内存、函数调用、AI/GPU等，帮助工程师快速定位性能瓶颈并优化代码。Strobelight还通过动态采样和符号化服务，确保数据准确且不影响生产环境。
-
----
-
-## <a name="10"></a>10. Polars Cloud：分布式云架构，随处运行Polars 
+## <a name="8"></a>8. Polars Cloud：分布式云架构，随处运行Polars 
 <small>🔗 [pola.rs](https://pola.rs/posts/polars-cloud-what-we-are-building/): Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere</small>
 
 
-| 🔥🔥: 121 \| 💬: [33](https://news.ycombinator.com/item?id=43294566) \| 🗓️ 2025-03-07
+| 🔥🔥: 141 \| 💬: [42](https://news.ycombinator.com/item?id=43294566) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -143,11 +119,35 @@ Polars Cloud旨在通过**分布式架构**和**高性能计算**，将Polars的
 
 ---
 
+## <a name="9"></a>9. 莫斯科虚假新闻网络污染西方AI工具 
+<small>🔗 [newsguardrealitycheck.com](https://www.newsguardrealitycheck.com/p/a-well-funded-moscow-based-global): Moscow-based global news network has infected Western AI tools</small>
+
+
+| 🔥🔥: 132 \| 💬: [79](https://news.ycombinator.com/item?id=43293121) \| 🗓️ 2025-03-07
+
+
+<br />
+一家资金充足的莫斯科全球“新闻”网络通过**Pravda**网站传播虚假信息，成功影响了西方主流AI工具。NewsGuard审计发现，10个领先的生成式AI工具在33%的情况下重复了亲克里姆林宫的虚假声明。这些AI工具引用了**Pravda**网络中的文章，传播了360万篇俄罗斯宣传内容，严重扭曲了AI模型对新闻的处理和呈现。
+
+---
+
+## <a name="10"></a>10. Strobelight：基于开源技术的性能分析服务 
+<small>🔗 [engineering.fb.com](https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/): Strobelight: A profiling service built on open source technology</small>
+
+
+| 🔥🔥: 131 \| 💬: [43](https://news.ycombinator.com/item?id=43290555) \| 🗓️ 2025-03-07
+
+
+<br />
+Meta推出的**Strobelight**是一个性能分析协调器，结合了多种开源技术，帮助工程师优化代码性能和资源利用率。通过**eBPF**等技术，Strobelight能够低开销地收集CPU、内存等性能数据，并提供丰富的分析工具。它支持多种分析器，包括内存、函数调用、AI/GPU等，帮助工程师快速定位性能瓶颈并优化代码。Strobelight还通过动态采样和符号化服务，确保数据准确且不影响生产环境。
+
+---
+
 ## <a name="11"></a>11. 赌教皇：最早的预测市场 
 <small>🔗 [nodumbideas.com](https://nodumbideas.com/p/betting-on-the-pope-was-the-original): Betting on the Pope was the original prediction market</small>
 
 
-| 🔥🔥: 120 \| 💬: [66](https://news.ycombinator.com/item?id=43290892) \| 🗓️ 2025-03-07
+| 🔥🔥: 122 \| 💬: [67](https://news.ycombinator.com/item?id=43290892) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -159,7 +159,7 @@ Polars Cloud旨在通过**分布式架构**和**高性能计算**，将Polars的
 <small>🔗 [geohot.github.io](https://geohot.github.io//blog/jekyll/update/2025/03/08/AMD-YOLO.html): AMD YOLO</small>
 
 
-| 🔥🔥: 109 \| 💬: [73](https://news.ycombinator.com/item?id=43292750) \| 🗓️ 2025-03-07
+| 🔥🔥: 110 \| 💬: [73](https://news.ycombinator.com/item?id=43292750) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -171,7 +171,7 @@ AMD正在寄送我们申请的两台MI300X设备。经过测试，作者相信AM
 <small>🔗 [aeon.co](https://aeon.co/essays/why-reading-martha-c-nussbaums-philosophy-is-pure-pleasure): The necessity of Nussbaum</small>
 
 
-| 🔥: 97 \| 💬: [110](https://news.ycombinator.com/item?id=43291541) \| 🗓️ 2025-03-07
+| 🔥🔥: 101 \| 💬: [112](https://news.ycombinator.com/item?id=43291541) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -179,23 +179,11 @@ AMD正在寄送我们申请的两台MI300X设备。经过测试，作者相信AM
 
 ---
 
-## <a name="14"></a>14. 马斯克的“政府效率部门”危及重大政府项目 
-<small>🔗 [wired.com](https://www.wired.com/story/doge-major-government-tech-projects-efficiency/): Doge Is Putting Major Government Efficiency Projects at Risk</small>
-
-
-| 🔥: 93 \| 💬: [78](https://news.ycombinator.com/item?id=43293412) \| 🗓️ 2025-03-07
-
-
-<br />
-自马斯克的“政府效率部门”接管**GSA**和**USDS**以来，约200名技术人员离职或被解雇，危及包括公共卫生和护照申请在内的多年项目。**18F**团队被解散，导致多个关键项目停滞，如**IRS的Direct File**和**Weather.gov**的改进。**USDS**也因大规模裁员和辞职而陷入混乱，许多重要项目面临中断风险。
-
----
-
-## <a name="15"></a>15. B树中的乐观锁：现代硬件的经典数据结构 
+## <a name="14"></a>14. B树中的乐观锁：现代硬件的经典数据结构 
 <small>🔗 [cedardb.com](https://cedardb.com/blog/optimistic_btrees/): Optimistic Locking in B-Trees</small>
 
 
-| 🔥: 92 \| 💬: [18](https://news.ycombinator.com/item?id=43292050) \| 🗓️ 2025-03-07
+| 🔥: 97 \| 💬: [21](https://news.ycombinator.com/item?id=43292050) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -203,11 +191,23 @@ B树作为一种经典数据结构，已有50多年历史，至今仍广泛应�
 
 ---
 
+## <a name="15"></a>15. 马斯克的“政府效率部门”危及重大政府项目 
+<small>🔗 [wired.com](https://www.wired.com/story/doge-major-government-tech-projects-efficiency/): Doge Is Putting Major Government Efficiency Projects at Risk</small>
+
+
+| 🔥: 94 \| 💬: [79](https://news.ycombinator.com/item?id=43293412) \| 🗓️ 2025-03-07
+
+
+<br />
+自马斯克的“政府效率部门”接管**GSA**和**USDS**以来，约200名技术人员离职或被解雇，危及包括公共卫生和护照申请在内的多年项目。**18F**团队被解散，导致多个关键项目停滞，如**IRS的Direct File**和**Weather.gov**的改进。**USDS**也因大规模裁员和辞职而陷入混乱，许多重要项目面临中断风险。
+
+---
+
 ## <a name="16"></a>16. 优秀软件设计看起来平淡无奇 
 <small>🔗 [seangoedecke.com](https://www.seangoedecke.com/great-software-design/): Great software design looks underwhelming</small>
 
 
-| 🔥: 80 \| 💬: [7](https://news.ycombinator.com/item?id=43293363) \| 🗓️ 2025-03-07
+| 🔥: 89 \| 💬: [7](https://news.ycombinator.com/item?id=43293363) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -219,7 +219,7 @@ B树作为一种经典数据结构，已有50多年历史，至今仍广泛应�
 <small>🔗 [reaction.life](https://www.reaction.life/p/what-if-america-turned-off-britains): What if America turned off Britain's weapons?</small>
 
 
-| 🔥: 68 \| 💬: [108](https://news.ycombinator.com/item?id=43292320) \| 🗓️ 2025-03-07
+| 🔥: 69 \| 💬: [109](https://news.ycombinator.com/item?id=43292320) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -243,7 +243,7 @@ B树作为一种经典数据结构，已有50多年历史，至今仍广泛应�
 <small>🔗 [propublica.org](https://www.propublica.org/article/connecticut-dmv-employee-sells-towed-cars): How a Connecticut DMV Employee Made Thousands by Selling Towed Cars</small>
 
 
-| 🔥: 63 \| 💬: [18](https://news.ycombinator.com/item?id=43292836) \| 🗓️ 2025-03-07
+| 🔥: 63 \| 💬: [19](https://news.ycombinator.com/item?id=43292836) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -267,7 +267,7 @@ B树作为一种经典数据结构，已有50多年历史，至今仍广泛应�
 <small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/youtube-scares-me-i-need-raid-1-my-video-content): YouTube scares me; I need RAID 1 for my video content</small>
 
 
-| 🔥: 59 \| 💬: [16](https://news.ycombinator.com/item?id=43290975) \| 🗓️ 2025-03-07
+| 🔥: 60 \| 💬: [16](https://news.ycombinator.com/item?id=43290975) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -279,7 +279,7 @@ B树作为一种经典数据结构，已有50多年历史，至今仍广泛应�
 <small>🔗 [abacusdata.ca](https://abacusdata.ca/canadians-plan-to-avoid-the-u-s-amid-political-tensions/): 62% of Canadians Plan to Avoid the U.S. for at Least the Next Year</small>
 
 
-| 🔥: 57 \| 💬: [34](https://news.ycombinator.com/item?id=43292231) \| 🗓️ 2025-03-07
+| 🔥: 58 \| 💬: [37](https://news.ycombinator.com/item?id=43292231) \| 🗓️ 2025-03-07
 
 
 <br />
