@@ -11,8 +11,8 @@ tags:
 1. 年龄验证法：监视的后门；
 1. HTML 中引入 command 和 commandfor 属性；
 1. 欧洲头号通缉犯策划谋杀我和同事；
-1. 再见，Prime；
 1. Vtm：基于文本的桌面环境；
+1. 再见，Prime；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/first-porn-now-skin-cream-age-verification-bills-are-out-control): Age Verification Laws: A Backdoor to Surveillance</small>
 
 
-| 🔥🔥: 292 \| 💬: [202](https://news.ycombinator.com/item?id=43292820) \| 🗓️ 2025-03-07
+| 🔥🔥: 310 \| 💬: [223](https://news.ycombinator.com/item?id=43292820) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [developer.chrome.com](https://developer.chrome.com/blog/command-and-commandfor): Introducing command And commandfor In HTML</small>
 
 
-| 🔥🔥: 240 \| 💬: [145](https://news.ycombinator.com/item?id=43292056) \| 🗓️ 2025-03-07
+| 🔥🔥: 260 \| 💬: [155](https://news.ycombinator.com/item?id=43292056) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -51,7 +51,7 @@ Chrome 135 引入了新的 **command** 和 **commandfor** 属性，用于增强�
 <small>🔗 [theins.press](https://theins.press/en/inv/279034): Europe's most wanted man plotted my murder and that of my colleague</small>
 
 
-| 🔥🔥: 239 \| 💬: [95](https://news.ycombinator.com/item?id=43293487) \| 🗓️ 2025-03-07
+| 🔥🔥: 253 \| 💬: [102](https://news.ycombinator.com/item?id=43293487) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -59,7 +59,19 @@ Chrome 135 引入了新的 **command** 和 **commandfor** 属性，用于增强�
 
 ---
 
-## <a name="4"></a>4. 再见，Prime 
+## <a name="4"></a>4. Vtm：基于文本的桌面环境 
+<small>🔗 [github.com](https://github.com/directvt/vtm): Vtm: Text-Based Desktop Environment</small>
+
+
+| 🔥🔥: 191 \| 💬: [39](https://news.ycombinator.com/item?id=43291946) \| 🗓️ 2025-03-07
+
+
+<br />
+Vtm 是一个**基于文本的应用程序**，其用户界面由文本单元格组成的 TUI 矩阵构成。该矩阵可以在 GUI 窗口或兼容的文本控制台中渲染。Vtm 能够**嵌套任何控制台应用**，形成一个**文本桌面环境**，支持 Windows、Linux、macOS 等多个平台。目前，Windows 平台支持原生 GUI 窗口渲染，而 Unix 平台则需要终端模拟器。
+
+---
+
+## <a name="5"></a>5. 再见，Prime 
 <small>🔗 [tbray.org](https://www.tbray.org/ongoing/When/202x/2025/03/06/Canceled-Prime): Bye, Prime</small>
 
 
@@ -71,23 +83,11 @@ Chrome 135 引入了新的 **command** 和 **commandfor** 属性，用于增强�
 
 ---
 
-## <a name="5"></a>5. Vtm：基于文本的桌面环境 
-<small>🔗 [github.com](https://github.com/directvt/vtm): Vtm: Text-Based Desktop Environment</small>
-
-
-| 🔥🔥: 179 \| 💬: [38](https://news.ycombinator.com/item?id=43291946) \| 🗓️ 2025-03-07
-
-
-<br />
-Vtm 是一个**基于文本的应用程序**，其用户界面由文本单元格组成的 TUI 矩阵构成。该矩阵可以在 GUI 窗口或兼容的文本控制台中渲染。Vtm 能够**嵌套任何控制台应用**，形成一个**文本桌面环境**，支持 Windows、Linux、macOS 等多个平台。目前，Windows 平台支持原生 GUI 窗口渲染，而 Unix 平台则需要终端模拟器。
-
----
-
 ## <a name="6"></a>6. 月球着陆失败，雅典娜号航天器宣告报废 
 <small>🔗 [theguardian.com](https://www.theguardian.com/science/2025/mar/07/athena-spacecraft-mission-dead): Athena spacecraft declared dead after toppling over on moon</small>
 
 
-| 🔥🔥: 160 \| 💬: [213](https://news.ycombinator.com/item?id=43292471) \| 🗓️ 2025-03-07
+| 🔥🔥: 170 \| 💬: [229](https://news.ycombinator.com/item?id=43292471) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -95,23 +95,11 @@ Vtm 是一个**基于文本的应用程序**，其用户界面由文本单元格
 
 ---
 
-## <a name="7"></a>7. 计算问题：算法与组合生成（2010） 
-<small>🔗 [jjj.de](https://www.jjj.de/fxt/fxtbook.pdf): Matters Computational (2010) [pdf]</small>
-
-
-| 🔥🔥: 144 \| 💬: [16](https://news.ycombinator.com/item?id=43288861) \| 🗓️ 2025-03-07
-
-
-<br />
-本书深入探讨了**低层算法**、**组合生成**和**数据结构**等核心计算主题。涵盖了位操作、排列组合、排序算法、堆栈、队列等数据结构，以及组合数学中的排列、子集、整数划分等高级主题。适合对算法和组合数学感兴趣的读者。
-
----
-
-## <a name="8"></a>8. Polars Cloud：分布式云架构，随处运行Polars 
+## <a name="7"></a>7. Polars Cloud：分布式云架构，随处运行Polars 
 <small>🔗 [pola.rs](https://pola.rs/posts/polars-cloud-what-we-are-building/): Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere</small>
 
 
-| 🔥🔥: 141 \| 💬: [42](https://news.ycombinator.com/item?id=43294566) \| 🗓️ 2025-03-07
+| 🔥🔥: 154 \| 💬: [53](https://news.ycombinator.com/item?id=43294566) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -119,11 +107,23 @@ Polars Cloud旨在通过**分布式架构**和**高性能计算**，将Polars的
 
 ---
 
+## <a name="8"></a>8. 计算问题：算法与组合生成（2010） 
+<small>🔗 [jjj.de](https://www.jjj.de/fxt/fxtbook.pdf): Matters Computational (2010) [pdf]</small>
+
+
+| 🔥🔥: 145 \| 💬: [16](https://news.ycombinator.com/item?id=43288861) \| 🗓️ 2025-03-07
+
+
+<br />
+本书深入探讨了**低层算法**、**组合生成**和**数据结构**等核心计算主题。涵盖了位操作、排列组合、排序算法、堆栈、队列等数据结构，以及组合数学中的排列、子集、整数划分等高级主题。适合对算法和组合数学感兴趣的读者。
+
+---
+
 ## <a name="9"></a>9. 莫斯科虚假新闻网络污染西方AI工具 
 <small>🔗 [newsguardrealitycheck.com](https://www.newsguardrealitycheck.com/p/a-well-funded-moscow-based-global): Moscow-based global news network has infected Western AI tools</small>
 
 
-| 🔥🔥: 132 \| 💬: [79](https://news.ycombinator.com/item?id=43293121) \| 🗓️ 2025-03-07
+| 🔥🔥: 137 \| 💬: [89](https://news.ycombinator.com/item?id=43293121) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -135,7 +135,7 @@ Polars Cloud旨在通过**分布式架构**和**高性能计算**，将Polars的
 <small>🔗 [engineering.fb.com](https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/): Strobelight: A profiling service built on open source technology</small>
 
 
-| 🔥🔥: 131 \| 💬: [43](https://news.ycombinator.com/item?id=43290555) \| 🗓️ 2025-03-07
+| 🔥🔥: 135 \| 💬: [43](https://news.ycombinator.com/item?id=43290555) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -147,7 +147,7 @@ Meta推出的**Strobelight**是一个性能分析协调器，结合了多种开�
 <small>🔗 [nodumbideas.com](https://nodumbideas.com/p/betting-on-the-pope-was-the-original): Betting on the Pope was the original prediction market</small>
 
 
-| 🔥🔥: 122 \| 💬: [67](https://news.ycombinator.com/item?id=43290892) \| 🗓️ 2025-03-07
+| 🔥🔥: 126 \| 💬: [68](https://news.ycombinator.com/item?id=43290892) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -159,7 +159,7 @@ Meta推出的**Strobelight**是一个性能分析协调器，结合了多种开�
 <small>🔗 [geohot.github.io](https://geohot.github.io//blog/jekyll/update/2025/03/08/AMD-YOLO.html): AMD YOLO</small>
 
 
-| 🔥🔥: 110 \| 💬: [73](https://news.ycombinator.com/item?id=43292750) \| 🗓️ 2025-03-07
+| 🔥🔥: 112 \| 💬: [76](https://news.ycombinator.com/item?id=43292750) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -167,27 +167,27 @@ AMD正在寄送我们申请的两台MI300X设备。经过测试，作者相信AM
 
 ---
 
-## <a name="13"></a>13. 努斯鲍姆的必要性 
-<small>🔗 [aeon.co](https://aeon.co/essays/why-reading-martha-c-nussbaums-philosophy-is-pure-pleasure): The necessity of Nussbaum</small>
-
-
-| 🔥🔥: 101 \| 💬: [112](https://news.ycombinator.com/item?id=43291541) \| 🗓️ 2025-03-07
-
-
-<br />
-玛莎·C·努斯鲍姆是当代哲学领域的重要人物，以其**能力方法**（Capabilities Approach）闻名。她主张政府应为公民提供实现**繁荣生活**的基本能力，而非仅仅满足表面需求。努斯鲍姆的理论强调**情感**在道德判断中的核心作用，认为情感与理性不可分割。她的工作不仅推动了哲学的发展，还影响了全球正义和女性权益等领域。
-
----
-
-## <a name="14"></a>14. B树中的乐观锁：现代硬件的经典数据结构 
+## <a name="13"></a>13. B树中的乐观锁：现代硬件的经典数据结构 
 <small>🔗 [cedardb.com](https://cedardb.com/blog/optimistic_btrees/): Optimistic Locking in B-Trees</small>
 
 
-| 🔥: 97 \| 💬: [21](https://news.ycombinator.com/item?id=43292050) \| 🗓️ 2025-03-07
+| 🔥🔥: 105 \| 💬: [22](https://news.ycombinator.com/item?id=43292050) \| 🗓️ 2025-03-07
 
 
 <br />
 B树作为一种经典数据结构，已有50多年历史，至今仍广泛应用于现代系统。其**高缓存效率**和**多线程同步能力**使其在现代硬件上表现出色。通过**乐观锁耦合**技术，B树在多核环境下几乎无锁运行，显著减少了线程争用。尽管存在更快的专用数据结构，B树在通用性能上仍无可替代。
+
+---
+
+## <a name="14"></a>14. 努斯鲍姆的必要性 
+<small>🔗 [aeon.co](https://aeon.co/essays/why-reading-martha-c-nussbaums-philosophy-is-pure-pleasure): The necessity of Nussbaum</small>
+
+
+| 🔥🔥: 102 \| 💬: [113](https://news.ycombinator.com/item?id=43291541) \| 🗓️ 2025-03-07
+
+
+<br />
+玛莎·C·努斯鲍姆是当代哲学领域的重要人物，以其**能力方法**（Capabilities Approach）闻名。她主张政府应为公民提供实现**繁荣生活**的基本能力，而非仅仅满足表面需求。努斯鲍姆的理论强调**情感**在道德判断中的核心作用，认为情感与理性不可分割。她的工作不仅推动了哲学的发展，还影响了全球正义和女性权益等领域。
 
 ---
 
@@ -207,7 +207,7 @@ B树作为一种经典数据结构，已有50多年历史，至今仍广泛应�
 <small>🔗 [seangoedecke.com](https://www.seangoedecke.com/great-software-design/): Great software design looks underwhelming</small>
 
 
-| 🔥: 89 \| 💬: [7](https://news.ycombinator.com/item?id=43293363) \| 🗓️ 2025-03-07
+| 🔥: 90 \| 💬: [8](https://news.ycombinator.com/item?id=43293363) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -227,7 +227,19 @@ B树作为一种经典数据结构，已有50多年历史，至今仍广泛应�
 
 ---
 
-## <a name="18"></a>18. 美国利用AI撤销支持哈马斯的外国人签证 
+## <a name="18"></a>18. 康涅狄格州DMV员工通过倒卖拖车车辆获利数千美元 
+<small>🔗 [propublica.org](https://www.propublica.org/article/connecticut-dmv-employee-sells-towed-cars): How a Connecticut DMV Employee Made Thousands by Selling Towed Cars</small>
+
+
+| 🔥: 66 \| 💬: [20](https://news.ycombinator.com/item?id=43292836) \| 🗓️ 2025-03-07
+
+
+<br />
+一名康涅狄格州DMV员工与拖车公司勾结，**低价购买拖车车辆**并高价转卖，从中获利。调查发现，该员工允许拖车公司**插队办理手续**，并从中挑选车辆进行倒卖。尽管DMV内部报告揭露了此事，但**未对涉事员工或拖车公司采取任何行动**，该员工至今仍在职。
+
+---
+
+## <a name="19"></a>19. 美国利用AI撤销支持哈马斯的外国人签证 
 <small>🔗 [cnbctv18.com](https://www.cnbctv18.com/world/us-deploys-ai-to-revoke-visas-of-foreign-nationals-supporting-hamas-report-19570130.htm): US deploys AI to revoke visas of foreign nationals supporting Hamas: Report</small>
 
 
@@ -236,18 +248,6 @@ B树作为一种经典数据结构，已有50多年历史，至今仍广泛应�
 
 <br />
 美国国务院将使用**人工智能**审查数万名**学生签证**持有者的社交媒体账户，以识别潜在的恐怖主义同情者。此举旨在撤销支持哈马斯或其他恐怖组织的外国人签证，引发了对**言论自由**的担忧。该计划涉及多个政府部门合作，利用AI技术监控公开信息，确保国家安全。
-
----
-
-## <a name="19"></a>19. 康涅狄格州DMV员工通过倒卖拖车车辆获利数千美元 
-<small>🔗 [propublica.org](https://www.propublica.org/article/connecticut-dmv-employee-sells-towed-cars): How a Connecticut DMV Employee Made Thousands by Selling Towed Cars</small>
-
-
-| 🔥: 63 \| 💬: [19](https://news.ycombinator.com/item?id=43292836) \| 🗓️ 2025-03-07
-
-
-<br />
-一名康涅狄格州DMV员工与拖车公司勾结，**低价购买拖车车辆**并高价转卖，从中获利。调查发现，该员工允许拖车公司**插队办理手续**，并从中挑选车辆进行倒卖。尽管DMV内部报告揭露了此事，但**未对涉事员工或拖车公司采取任何行动**，该员工至今仍在职。
 
 ---
 
@@ -267,7 +267,7 @@ B树作为一种经典数据结构，已有50多年历史，至今仍广泛应�
 <small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/youtube-scares-me-i-need-raid-1-my-video-content): YouTube scares me; I need RAID 1 for my video content</small>
 
 
-| 🔥: 60 \| 💬: [16](https://news.ycombinator.com/item?id=43290975) \| 🗓️ 2025-03-07
+| 🔥: 61 \| 💬: [17](https://news.ycombinator.com/item?id=43290975) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -279,7 +279,7 @@ B树作为一种经典数据结构，已有50多年历史，至今仍广泛应�
 <small>🔗 [abacusdata.ca](https://abacusdata.ca/canadians-plan-to-avoid-the-u-s-amid-political-tensions/): 62% of Canadians Plan to Avoid the U.S. for at Least the Next Year</small>
 
 
-| 🔥: 58 \| 💬: [37](https://news.ycombinator.com/item?id=43292231) \| 🗓️ 2025-03-07
+| 🔥: 58 \| 💬: [38](https://news.ycombinator.com/item?id=43292231) \| 🗓️ 2025-03-07
 
 
 <br />
