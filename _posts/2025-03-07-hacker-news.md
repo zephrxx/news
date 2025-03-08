@@ -27,7 +27,7 @@ tags:
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/first-porn-now-skin-cream-age-verification-bills-are-out-control): Age Verification Laws: A Backdoor to Surveillance</small>
 
 
-| 🔥🔥: 354 \| 💬: [249](https://news.ycombinator.com/item?id=43292820) \| 🗓️ 2025-03-07
+| 🔥🔥: 372 \| 💬: [264](https://news.ycombinator.com/item?id=43292820) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [developer.chrome.com](https://developer.chrome.com/blog/command-and-commandfor): Introducing command And commandfor In HTML</small>
 
 
-| 🔥🔥: 278 \| 💬: [163](https://news.ycombinator.com/item?id=43292056) \| 🗓️ 2025-03-07
+| 🔥🔥: 290 \| 💬: [165](https://news.ycombinator.com/item?id=43292056) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -51,7 +51,7 @@ Chrome 135 引入了新的 **command** 和 **commandfor** 属性，用于增强�
 <small>🔗 [theins.press](https://theins.press/en/inv/279034): Europe's most wanted man plotted my murder and that of my colleague</small>
 
 
-| 🔥🔥: 276 \| 💬: [120](https://news.ycombinator.com/item?id=43293487) \| 🗓️ 2025-03-07
+| 🔥🔥: 290 \| 💬: [126](https://news.ycombinator.com/item?id=43293487) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -63,7 +63,7 @@ Chrome 135 引入了新的 **command** 和 **commandfor** 属性，用于增强�
 <small>🔗 [github.com](https://github.com/directvt/vtm): Vtm: Text-Based Desktop Environment</small>
 
 
-| 🔥🔥: 207 \| 💬: [47](https://news.ycombinator.com/item?id=43291946) \| 🗓️ 2025-03-07
+| 🔥🔥: 212 \| 💬: [48](https://news.ycombinator.com/item?id=43291946) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -75,7 +75,7 @@ Vtm 是一个**基于文本的应用程序**，其用户界面由文本单元格
 <small>🔗 [theguardian.com](https://www.theguardian.com/science/2025/mar/07/athena-spacecraft-mission-dead): Athena spacecraft declared dead after toppling over on moon</small>
 
 
-| 🔥🔥: 186 \| 💬: [245](https://news.ycombinator.com/item?id=43292471) \| 🗓️ 2025-03-07
+| 🔥🔥: 189 \| 💬: [251](https://news.ycombinator.com/item?id=43292471) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -99,7 +99,7 @@ Vtm 是一个**基于文本的应用程序**，其用户界面由文本单元格
 <small>🔗 [pola.rs](https://pola.rs/posts/polars-cloud-what-we-are-building/): Polars Cloud: The Distributed Cloud Architecture to Run Polars Anywhere</small>
 
 
-| 🔥🔥: 167 \| 💬: [58](https://news.ycombinator.com/item?id=43294566) \| 🗓️ 2025-03-07
+| 🔥🔥: 171 \| 💬: [59](https://news.ycombinator.com/item?id=43294566) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -107,7 +107,19 @@ Polars Cloud旨在通过**分布式架构**和**高性能计算**，将Polars的
 
 ---
 
-## <a name="8"></a>8. 计算问题：算法与组合生成（2010） 
+## <a name="8"></a>8. 联邦调查局将1.5亿美元网络盗窃案与2022年LastPass黑客事件关联 
+<small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/): Feds Link $150M Cyberheist to 2022 LastPass Hacks</small>
+
+
+| 🔥🔥: 157 \| 💬: [92](https://news.ycombinator.com/item?id=43296656) \| 🗓️ 2025-03-07
+
+
+<br />
+2023年9月，安全研究人员发现多起六位数加密货币盗窃案与2022年**LastPass**数据泄露有关。2024年1月，Ripple联合创始人Chris Larsen成为1.5亿美元加密货币盗窃案的受害者。联邦调查局和特勤局确认，攻击者通过破解从LastPass窃取的**主密码**访问了受害者的加密货币钱包。尽管LastPass否认与盗窃案有直接关联，但研究人员指出，许多受害者曾在LastPass的“安全笔记”中存储了**加密货币种子短语**，且密码复杂度较低，导致易被破解。
+
+---
+
+## <a name="9"></a>9. 计算问题：算法与组合生成（2010） 
 <small>🔗 [jjj.de](https://www.jjj.de/fxt/fxtbook.pdf): Matters Computational (2010) [pdf]</small>
 
 
@@ -119,11 +131,11 @@ Polars Cloud旨在通过**分布式架构**和**高性能计算**，将Polars的
 
 ---
 
-## <a name="9"></a>9. 莫斯科虚假新闻网络污染西方AI工具 
+## <a name="10"></a>10. 莫斯科虚假新闻网络污染西方AI工具 
 <small>🔗 [newsguardrealitycheck.com](https://www.newsguardrealitycheck.com/p/a-well-funded-moscow-based-global): Moscow-based global news network has infected Western AI tools</small>
 
 
-| 🔥🔥: 143 \| 💬: [91](https://news.ycombinator.com/item?id=43293121) \| 🗓️ 2025-03-07
+| 🔥🔥: 145 \| 💬: [93](https://news.ycombinator.com/item?id=43293121) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -131,11 +143,11 @@ Polars Cloud旨在通过**分布式架构**和**高性能计算**，将Polars的
 
 ---
 
-## <a name="10"></a>10. Strobelight：基于开源技术的性能分析服务 
+## <a name="11"></a>11. Strobelight：基于开源技术的性能分析服务 
 <small>🔗 [engineering.fb.com](https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/): Strobelight: A profiling service built on open source technology</small>
 
 
-| 🔥🔥: 139 \| 💬: [43](https://news.ycombinator.com/item?id=43290555) \| 🗓️ 2025-03-07
+| 🔥🔥: 142 \| 💬: [44](https://news.ycombinator.com/item?id=43290555) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -143,11 +155,11 @@ Meta推出的**Strobelight**是一个性能分析协调器，结合了多种开�
 
 ---
 
-## <a name="11"></a>11. 赌教皇：最早的预测市场 
+## <a name="12"></a>12. 赌教皇：最早的预测市场 
 <small>🔗 [nodumbideas.com](https://nodumbideas.com/p/betting-on-the-pope-was-the-original): Betting on the Pope was the original prediction market</small>
 
 
-| 🔥🔥: 131 \| 💬: [69](https://news.ycombinator.com/item?id=43290892) \| 🗓️ 2025-03-07
+| 🔥🔥: 132 \| 💬: [70](https://news.ycombinator.com/item?id=43290892) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -155,23 +167,11 @@ Meta推出的**Strobelight**是一个性能分析协调器，结合了多种开�
 
 ---
 
-## <a name="12"></a>12. 联邦调查局将1.5亿美元网络盗窃案与2022年LastPass黑客事件关联 
-<small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/03/feds-link-150m-cyberheist-to-2022-lastpass-hacks/): Feds Link $150M Cyberheist to 2022 LastPass Hacks</small>
-
-
-| 🔥🔥: 130 \| 💬: [74](https://news.ycombinator.com/item?id=43296656) \| 🗓️ 2025-03-07
-
-
-<br />
-2023年9月，安全研究人员发现多起六位数加密货币盗窃案与2022年**LastPass**数据泄露有关。2024年1月，Ripple联合创始人Chris Larsen成为1.5亿美元加密货币盗窃案的受害者。联邦调查局和特勤局确认，攻击者通过破解从LastPass窃取的**主密码**访问了受害者的加密货币钱包。尽管LastPass否认与盗窃案有直接关联，但研究人员指出，许多受害者曾在LastPass的“安全笔记”中存储了**加密货币种子短语**，且密码复杂度较低，导致易被破解。
-
----
-
 ## <a name="13"></a>13. B树中的乐观锁：现代硬件的经典数据结构 
 <small>🔗 [cedardb.com](https://cedardb.com/blog/optimistic_btrees/): Optimistic Locking in B-Trees</small>
 
 
-| 🔥🔥: 116 \| 💬: [28](https://news.ycombinator.com/item?id=43292050) \| 🗓️ 2025-03-07
+| 🔥🔥: 122 \| 💬: [29](https://news.ycombinator.com/item?id=43292050) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -183,7 +183,7 @@ B树作为一种经典数据结构，已有50多年历史，至今仍广泛应�
 <small>🔗 [geohot.github.io](https://geohot.github.io//blog/jekyll/update/2025/03/08/AMD-YOLO.html): AMD YOLO</small>
 
 
-| 🔥🔥: 114 \| 💬: [76](https://news.ycombinator.com/item?id=43292750) \| 🗓️ 2025-03-07
+| 🔥🔥: 115 \| 💬: [76](https://news.ycombinator.com/item?id=43292750) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -207,7 +207,7 @@ AMD正在寄送我们申请的两台MI300X设备。经过测试，作者相信AM
 <small>🔗 [wired.com](https://www.wired.com/story/doge-major-government-tech-projects-efficiency/): Doge Is Putting Major Government Efficiency Projects at Risk</small>
 
 
-| 🔥: 97 \| 💬: [79](https://news.ycombinator.com/item?id=43293412) \| 🗓️ 2025-03-07
+| 🔥: 99 \| 💬: [80](https://news.ycombinator.com/item?id=43293412) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -231,7 +231,7 @@ AMD正在寄送我们申请的两台MI300X设备。经过测试，作者相信AM
 <small>🔗 [cybercultural.com](https://cybercultural.com/p/geocities-1995/): GeoCities in 1995: Building a Home Page on the Internet</small>
 
 
-| 🔥: 79 \| 💬: [39](https://news.ycombinator.com/item?id=43296103) \| 🗓️ 2025-03-07
+| 🔥: 90 \| 💬: [49](https://news.ycombinator.com/item?id=43296103) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -243,7 +243,7 @@ AMD正在寄送我们申请的两台MI300X设备。经过测试，作者相信AM
 <small>🔗 [propublica.org](https://www.propublica.org/article/connecticut-dmv-employee-sells-towed-cars): How a Connecticut DMV Employee Made Thousands by Selling Towed Cars</small>
 
 
-| 🔥: 74 \| 💬: [20](https://news.ycombinator.com/item?id=43292836) \| 🗓️ 2025-03-07
+| 🔥: 75 \| 💬: [21](https://news.ycombinator.com/item?id=43292836) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -255,7 +255,7 @@ AMD正在寄送我们申请的两台MI300X设备。经过测试，作者相信AM
 <small>🔗 [reaction.life](https://www.reaction.life/p/what-if-america-turned-off-britains): What if America turned off Britain's weapons?</small>
 
 
-| 🔥: 72 \| 💬: [110](https://news.ycombinator.com/item?id=43292320) \| 🗓️ 2025-03-07
+| 🔥: 72 \| 💬: [111](https://news.ycombinator.com/item?id=43292320) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -267,7 +267,7 @@ AMD正在寄送我们申请的两台MI300X设备。经过测试，作者相信AM
 <small>🔗 [theverge.com](https://www.theverge.com/policy/624974/take-it-down-act-deepfakes-nonconsensual-pornography-trump-constitutional-crisis): The Take It Down Act isn't a law, it's a weapon</small>
 
 
-| 🔥: 65 \| 💬: [29](https://news.ycombinator.com/item?id=43293573) \| 🗓️ 2025-03-07
+| 🔥: 65 \| 💬: [30](https://news.ycombinator.com/item?id=43293573) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -291,7 +291,7 @@ AMD正在寄送我们申请的两台MI300X设备。经过测试，作者相信AM
 <small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/youtube-scares-me-i-need-raid-1-my-video-content): YouTube scares me; I need RAID 1 for my video content</small>
 
 
-| 🔥: 61 \| 💬: [17](https://news.ycombinator.com/item?id=43290975) \| 🗓️ 2025-03-07
+| 🔥: 62 \| 💬: [17](https://news.ycombinator.com/item?id=43290975) \| 🗓️ 2025-03-07
 
 
 <br />
@@ -303,7 +303,7 @@ AMD正在寄送我们申请的两台MI300X设备。经过测试，作者相信AM
 <small>🔗 [abacusdata.ca](https://abacusdata.ca/canadians-plan-to-avoid-the-u-s-amid-political-tensions/): 62% of Canadians Plan to Avoid the U.S. for at Least the Next Year</small>
 
 
-| 🔥: 60 \| 💬: [39](https://news.ycombinator.com/item?id=43292231) \| 🗓️ 2025-03-07
+| 🔥: 61 \| 💬: [39](https://news.ycombinator.com/item?id=43292231) \| 🗓️ 2025-03-07
 
 
 <br />
