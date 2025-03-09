@@ -12,11 +12,11 @@ tags:
 1. 仿佛你在玩手机；
 1. 裁员无效：为什么裁员对企业有害无益；
 1. Gleam v1.9 发布：调试、依赖管理与性能优化；
-1. 使用Claude Code几天的体验；
+1. 欧洲再次押注RISC-V，推动超级计算自主化；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共15条，具体内容您往下读...
+总共21条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [ukrainetoday.org](https://ukrainetoday.org/us-ends-support-for-ukrainian-f-16s-but-french-mirages-will-be-salvation-forbes/): US Ends Support For Ukrainian F-16s</small>
 
 
-| 🔥🔥: 897 \| 💬: [1656](https://news.ycombinator.com/item?id=43307996) \| 🗓️ 2025-03-09
+| 🔥🔥: 947 \| 💬: [1750](https://news.ycombinator.com/item?id=43307996) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [pippinbarr.com](https://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/): It is as if you were on your phone</small>
 
 
-| 🔥🔥: 376 \| 💬: [56](https://news.ycombinator.com/item?id=43308994) \| 🗓️ 2025-03-09
+| 🔥🔥: 431 \| 💬: [64](https://news.ycombinator.com/item?id=43308994) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [thehustle.co](https://thehustle.co/originals/why-layoffs-dont-work): Layoffs Don't Work</small>
 
 
-| 🔥🔥: 267 \| 💬: [446](https://news.ycombinator.com/item?id=43307755) \| 🗓️ 2025-03-09
+| 🔥🔥: 288 \| 💬: [484](https://news.ycombinator.com/item?id=43307755) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [gleam.run](https://gleam.run/news/hello-echo-hello-git/): Gleam v1.9</small>
 
 
-| 🔥🔥: 182 \| 💬: [34](https://news.ycombinator.com/item?id=43307987) \| 🗓️ 2025-03-09
+| 🔥🔥: 192 \| 💬: [40](https://news.ycombinator.com/item?id=43307987) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -71,23 +71,11 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 
 ---
 
-## <a name="5"></a>5. 使用Claude Code几天的体验 
-<small>🔗 [twitter.com](https://twitter.com/Steve_Yegge/status/1898674257808515242): I've been using Claude Code for a couple of days</small>
-
-
-| 🔥🔥: 151 \| 💬: [217](https://news.ycombinator.com/item?id=43307809) \| 🗓️ 2025-03-09
-
-
-<br />
-内容摘要：用户在使用Claude Code时遇到**JavaScript未启用**的问题，提示需要启用JavaScript或切换到支持的浏览器。此外，某些**隐私相关扩展**可能导致x.com无法正常使用，建议禁用后重试。
-
----
-
-## <a name="6"></a>6. 欧洲再次押注RISC-V，推动超级计算自主化 
+## <a name="5"></a>5. 欧洲再次押注RISC-V，推动超级计算自主化 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/07/dare_europe_risc_v_project/): Europe bets once again on RISC-V for supercomputing</small>
 
 
-| 🔥🔥: 147 \| 💬: [122](https://news.ycombinator.com/item?id=43311091) \| 🗓️ 2025-03-09
+| 🔥🔥: 162 \| 💬: [148](https://news.ycombinator.com/item?id=43311091) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -95,11 +83,11 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 
 ---
 
-## <a name="7"></a>7. 特斯拉全球销量暴跌，德国、澳大利亚、中国市场受挫 
+## <a name="6"></a>6. 特斯拉全球销量暴跌，德国、澳大利亚、中国市场受挫 
 <small>🔗 [carscoops.com](https://www.carscoops.com/2025/03/tesla-sales-falling-off-a-cliff-globally-including-germany-australia-and-china/): Tesla Sales Fall Off a Cliff Globally, Including Germany, Australia, and China</small>
 
 
-| 🔥🔥: 118 \| 💬: [83](https://news.ycombinator.com/item?id=43313127) \| 🗓️ 2025-03-09
+| 🔥🔥: 159 \| 💬: [165](https://news.ycombinator.com/item?id=43313127) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -107,11 +95,23 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 
 ---
 
+## <a name="7"></a>7. 使用Claude Code几天的体验 
+<small>🔗 [twitter.com](https://twitter.com/Steve_Yegge/status/1898674257808515242): I've been using Claude Code for a couple of days</small>
+
+
+| 🔥🔥: 156 \| 💬: [221](https://news.ycombinator.com/item?id=43307809) \| 🗓️ 2025-03-09
+
+
+<br />
+内容摘要：用户在使用Claude Code时遇到**JavaScript未启用**的问题，提示需要启用JavaScript或切换到支持的浏览器。此外，某些**隐私相关扩展**可能导致x.com无法正常使用，建议禁用后重试。
+
+---
+
 ## <a name="8"></a>8. 用Rust重写Linux核心工具包 
 <small>🔗 [lwn.net](https://lwn.net/Articles/1007907/): Rewriting essential Linux packages in Rust</small>
 
 
-| 🔥: 86 \| 💬: [87](https://news.ycombinator.com/item?id=43311149) \| 🗓️ 2025-03-09
+| 🔥: 87 \| 💬: [97](https://news.ycombinator.com/item?id=43311149) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -123,7 +123,7 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 <small>🔗 [github.com](https://github.com/matiasmolinas/evolving-agents): Show HN: Evolving Agents Framework</small>
 
 
-| 🔥: 82 \| 💬: [14](https://news.ycombinator.com/item?id=43310963) \| 🗓️ 2025-03-09
+| 🔥: 84 \| 💬: [16](https://news.ycombinator.com/item?id=43310963) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -135,7 +135,7 @@ Evolving Agents Framework 是一个生产级框架，用于创建、管理和**�
 <small>🔗 [liliputing.com](https://liliputing.com/orange-pi-rv2-is-a-single-board-pc-with-an-8-core-risc-v-processor/): Orange Pi RV2 is a single-board PC with an 8-core RISC-V processor</small>
 
 
-| 🔥: 66 \| 💬: [18](https://news.ycombinator.com/item?id=43309376) \| 🗓️ 2025-03-09
+| 🔥: 77 \| 💬: [21](https://news.ycombinator.com/item?id=43309376) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -147,7 +147,7 @@ Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**
 <small>🔗 [saigaddam.medium.com](https://saigaddam.medium.com/where-are-all-the-self-directed-learners-ccfb2421e52c): Where are all the self-directed learners?</small>
 
 
-| 🔥: 59 \| 💬: [91](https://news.ycombinator.com/item?id=43307572) \| 🗓️ 2025-03-09
+| 🔥: 61 \| 💬: [96](https://news.ycombinator.com/item?id=43307572) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -155,7 +155,19 @@ Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**
 
 ---
 
-## <a name="12"></a>12. 博客文章通过单元测试：写作与AI的结合 
+## <a name="12"></a>12. 尽管炒作不断，DOGE未发现任何欺诈行为 
+<small>🔗 [publicnotice.co](https://www.publicnotice.co/p/despite-the-hype-doge-hasnt-found): Despite the hype, DOGE hasn't found a shred of fraud</small>
+
+
+| 🔥: 58 \| 💬: [19](https://news.ycombinator.com/item?id=43313304) \| 🗓️ 2025-03-09
+
+
+<br />
+尽管特朗普和马斯克大力宣传DOGE旨在根除政府机构的**欺诈和浪费**，但一个月过去了，DOGE并未发现任何欺诈行为。相反，DOGE主要取消了特朗普和共和党不支持的政府项目，并解雇了不忠于特朗普的雇员。DOGE声称节省了550亿美元，但实际数据仅为160亿美元，且部分“节省”来自重复计算或已支付的合同。DOGE的真正目的似乎是**取消不符合特朗普政策的项目**，而非真正打击欺诈。
+
+---
+
+## <a name="13"></a>13. 博客文章通过单元测试：写作与AI的结合 
 <small>🔗 [sealambda.com](https://www.sealambda.com/blog/this-post-passed-unit-tests/): This blog post passed unit tests</small>
 
 
@@ -167,11 +179,23 @@ Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**
 
 ---
 
-## <a name="13"></a>13. 如何判断何时该离职 
+## <a name="14"></a>14. 鸡蛋价格暴涨背后的阴谋：一场大调查 
+<small>🔗 [thebignewsletter.com](https://www.thebignewsletter.com/p/hatching-a-conspiracy-a-big-investigation): Hatching a Conspiracy: A Big Investigation into Egg Prices</small>
+
+
+| 🔥: 55 \| 💬: [12](https://news.ycombinator.com/item?id=43311696) \| 🗓️ 2025-03-09
+
+
+<br />
+近年来，鸡蛋价格飙升53%，甚至出现短缺。尽管**禽流感**被认为是主要原因，但数据显示，鸡蛋产量仅下降3-5%，需求反而减少10%。与此同时，**Cal-Maine Foods**等大型鸡蛋生产商的利润却创下历史新高。调查发现，鸡蛋供应链被少数公司垄断，**寡头企业**通过限制产量维持高价，导致消费者负担加重。
+
+---
+
+## <a name="15"></a>15. 如何判断何时该离职 
 <small>🔗 [bitfieldconsulting.com](https://bitfieldconsulting.com/posts/when-its-time-to-go): How to know when it's time to go</small>
 
 
-| 🔥: 53 \| 💬: [54](https://news.ycombinator.com/item?id=43307941) \| 🗓️ 2025-03-09
+| 🔥: 54 \| 💬: [56](https://news.ycombinator.com/item?id=43307941) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -179,26 +203,74 @@ Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**
 
 ---
 
-## <a name="14"></a>14. 尽管炒作不断，DOGE未发现任何欺诈行为 
-<small>🔗 [publicnotice.co](https://www.publicnotice.co/p/despite-the-hype-doge-hasnt-found): Despite the hype, DOGE hasn't found a shred of fraud</small>
+## <a name="16"></a>16. TeX Live 2025 正式发布 
+<small>🔗 [texastim.dev](https://www.texastim.dev/tex-live-2025-iso-available-via-torrent/): TeX Live 2025 Released</small>
 
 
-| 🔥: 45 \| 💬: [11](https://news.ycombinator.com/item?id=43313304) \| 🗓️ 2025-03-09
+| 🔥: 47 \| 💬: [41](https://news.ycombinator.com/item?id=43311367) \| 🗓️ 2025-03-09
 
 
 <br />
-尽管特朗普和马斯克大力宣传DOGE旨在根除政府机构的**欺诈和浪费**，但一个月过去了，DOGE并未发现任何欺诈行为。相反，DOGE主要取消了特朗普和共和党不支持的政府项目，并解雇了不忠于特朗普的雇员。DOGE声称节省了550亿美元，但实际数据仅为160亿美元，且部分“节省”来自重复计算或已支付的合同。DOGE的真正目的似乎是**取消不符合特朗普政策的项目**，而非真正打击欺诈。
+TeX Live 2025 ISO 现已发布，用户可通过多种方式获取：从 **CTAN 镜像**直接下载 ISO，或通过 **.torrent 文件**或磁力链接下载。由于镜像同步需要时间，部分镜像可能尚未更新。这是作者连续第七年创建并首次提供种子文件，他表达了对 TeX 和 LaTeX 多年来的热爱与感激。
 
 ---
 
-## <a name="15"></a>15. Mako：极速、生产级的 Web 打包工具 
+## <a name="17"></a>17. Mako：极速、生产级的 Web 打包工具 
 <small>🔗 [makojs.dev](https://makojs.dev/): Mako: Fast, production-grade web bundler</small>
 
 
-| 🔥: 44 \| 💬: [24](https://news.ycombinator.com/item?id=43310047) \| 🗓️ 2025-03-09
+| 🔥: 44 \| 💬: [25](https://news.ycombinator.com/item?id=43310047) \| 🗓️ 2025-03-09
 
 
 <br />
 Mako 是一款基于 Rust 的**极速、生产级** Web 打包工具，适用于 Web 应用、库和框架开发。它具备**零配置**、**热模块替换**和**代码分割**等特性，已在蚂蚁集团等公司的数百个生产项目中广泛应用。Mako 通过 Rust 核心和并行编译技术，性能远超其他打包工具，是现代化 Web 开发的理想选择。
+
+---
+
+## <a name="18"></a>18. 双筒望远镜镜头合集 
+<small>🔗 [binocularshot.com](https://binocularshot.com/): Binocular Shot</small>
+
+
+| 🔥: 40 \| 💬: [15](https://news.ycombinator.com/item?id=43310253) \| 🗓️ 2025-03-09
+
+
+<br />
+该网站收集了电影中**不准确的双筒望远镜镜头**（即两个重叠的圆圈，而非真实生活中的单一圆形）。目前收录了36部经典电影，包括《白噪音》（2022）。网站还提供RSS订阅更新，完整片单可在Letterboxd查看。最新镜头于2025年2月25日添加，所有片段版权归原所有者所有。
+
+---
+
+## <a name="19"></a>19. 理解内存管理，第二部分：C++与RAII 
+<small>🔗 [educatedguesswork.org](https://educatedguesswork.org/posts/memory-management-2/): Understanding Memory Management, Part 2: C++ and RAII</small>
+
+
+| 🔥: 39 \| 💬: [17](https://news.ycombinator.com/item?id=43307659) \| 🗓️ 2025-03-09
+
+
+<br />
+本文是内存管理系列的第二部分，重点介绍了C++中的内存管理机制，特别是**RAII（资源获取即初始化）**。C++通过**构造函数**和**析构函数**自动管理对象的生命周期，避免了C语言中手动分配和释放内存的繁琐。文章还探讨了C++的**对象**和**类**，以及如何通过继承和多态实现更灵活的代码设计。RAII机制确保了资源的自动释放，减少了内存泄漏的风险。
+
+---
+
+## <a name="20"></a>20. 马斯克用聊天机器人取代被解雇员工 
+<small>🔗 [gizmodo.com](https://gizmodo.com/doge-is-replacing-fired-workers-with-a-chatbot-2000573510): Doge Is Replacing Fired Workers with a Chatbot</small>
+
+
+| 🔥: 36 \| 💬: [36](https://news.ycombinator.com/item?id=43313521) \| 🗓️ 2025-03-09
+
+
+<br />
+美国总务管理局（GSA）在**Elon Musk**领导的政府效率部门（DOGE）推动下，解雇了数千名员工，并引入名为**GSAi**的聊天机器人来填补空缺。该机器人旨在协助处理**起草邮件、总结文本**等基础任务，但禁止处理敏感信息。尽管GSAi被员工评价为“像实习生一样”，但其开发初衷并非取代人力。此举引发了对AI替代人类工作的广泛讨论。
+
+---
+
+## <a name="21"></a>21. 从零构建现代数据栈，成本降低70% 
+<small>🔗 [jchandra.com](https://jchandra.com/posts/data-infra/): We built a Modern Data Stack from scratch and reduced our bill by 70%</small>
+
+
+| 🔥: 34 \| 💬: [17](https://news.ycombinator.com/item?id=43312199) \| 🗓️ 2025-03-09
+
+
+<br />
+一家金融科技初创公司通过构建**现代数据栈**，成功将基础设施成本降低了70%。他们采用**ELT架构**，利用Debezium、Airflow和Kafka等技术实现实时数据摄取，并通过S3存储和Trino查询优化数据处理。最终，通过**Medallion架构**（青铜、白银、黄金层）组织数据，显著提升了查询性能和数据质量。
 
 ---
