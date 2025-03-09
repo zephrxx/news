@@ -27,7 +27,7 @@ tags:
 <small>🔗 [usher.dev](https://usher.dev/posts/2025-03-08-kill-your-feeds/): Kill your Feeds – Stop letting algorithms dictate what you think</small>
 
 
-| 🔥🔥: 667 \| 💬: [259](https://news.ycombinator.com/item?id=43302132) \| 🗓️ 2025-03-08
+| 🔥🔥: 682 \| 💬: [268](https://news.ycombinator.com/item?id=43302132) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/undocumented-backdoor-found-in-bluetooth-chip-used-by-a-billion-devices/): Undocumented backdoor found in Bluetooth chip used by a billion devices</small>
 
 
-| 🔥🔥: 326 \| 💬: [94](https://news.ycombinator.com/item?id=43301369) \| 🗓️ 2025-03-08
+| 🔥🔥: 330 \| 💬: [96](https://news.ycombinator.com/item?id=43301369) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [omgubuntu.co.uk](https://www.omgubuntu.co.uk/2025/03/kag-orion-web-browser-coming-to-linux): Kagi Is Bringing Orion Web Browser to Linux</small>
 
 
-| 🔥🔥: 302 \| 💬: [167](https://news.ycombinator.com/item?id=43302073) \| 🗓️ 2025-03-08
+| 🔥🔥: 312 \| 💬: [169](https://news.ycombinator.com/item?id=43302073) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -63,7 +63,7 @@ Kagi 公司宣布，其基于 **WebKit** 的 **Orion** 浏览器将登陆 Linux 
 <small>🔗 [wired.com](https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/): The DOJ still wants Google to sell off Chrome</small>
 
 
-| 🔥🔥: 272 \| 💬: [464](https://news.ycombinator.com/item?id=43299886) \| 🗓️ 2025-03-08
+| 🔥🔥: 294 \| 💬: [481](https://news.ycombinator.com/item?id=43299886) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -75,7 +75,7 @@ Kagi 公司宣布，其基于 **WebKit** 的 **Orion** 浏览器将登陆 Linux 
 <small>🔗 [contraptions.venkateshrao.com](https://contraptions.venkateshrao.com/p/discworld-rules): Discworld Rules</small>
 
 
-| 🔥🔥: 192 \| 💬: [241](https://news.ycombinator.com/item?id=43299815) \| 🗓️ 2025-03-08
+| 🔥🔥: 196 \| 💬: [243](https://news.ycombinator.com/item?id=43299815) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -87,7 +87,7 @@ Kagi 公司宣布，其基于 **WebKit** 的 **Orion** 浏览器将登陆 Linux 
 <small>🔗 [engadget.com](https://www.engadget.com/big-tech/google-will-still-have-to-break-up-its-business-the-justice-department-said-150000739.html): Google will still have to break up its business, the Justice Department said</small>
 
 
-| 🔥🔥: 181 \| 💬: [5](https://news.ycombinator.com/item?id=43302097) \| 🗓️ 2025-03-08
+| 🔥🔥: 183 \| 💬: [5](https://news.ycombinator.com/item?id=43302097) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -99,7 +99,7 @@ Kagi 公司宣布，其基于 **WebKit** 的 **Orion** 浏览器将登陆 Linux 
 <small>🔗 [viblo.se](https://www.viblo.se/posts/no-need-redis/): You might not need Redis</small>
 
 
-| 🔥🔥: 171 \| 💬: [113](https://news.ycombinator.com/item?id=43301432) \| 🗓️ 2025-03-08
+| 🔥🔥: 182 \| 💬: [117](https://news.ycombinator.com/item?id=43301432) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -111,7 +111,7 @@ Redis虽然是一款优秀的技术，但在实际应用中，**并非所有场�
 <small>🔗 [gizmodo.com](https://gizmodo.com/sam-bankman-fried-thrown-into-solitary-over-tucker-carlson-interview-report-2000573371): Sam Bankman-Fried thrown into solitary over Tucker Carlson interview: report</small>
 
 
-| 🔥🔥: 168 \| 💬: [201](https://news.ycombinator.com/item?id=43301702) \| 🗓️ 2025-03-08
+| 🔥🔥: 169 \| 💬: [206](https://news.ycombinator.com/item?id=43301702) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -123,7 +123,7 @@ Redis虽然是一款优秀的技术，但在实际应用中，**并非所有场�
 <small>🔗 [scattered-thoughts.net](https://www.scattered-thoughts.net/writing/the-program-is-the-database-is-the-interface/): The program is the database is the interface</small>
 
 
-| 🔥🔥: 153 \| 💬: [48](https://news.ycombinator.com/item?id=43300528) \| 🗓️ 2025-03-08
+| 🔥🔥: 157 \| 💬: [48](https://news.ycombinator.com/item?id=43300528) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -131,23 +131,11 @@ Redis虽然是一款优秀的技术，但在实际应用中，**并非所有场�
 
 ---
 
-## <a name="10"></a>10. 发现高德纳《计算机程序设计艺术》中的错误 
-<small>🔗 [glthr.com](https://glthr.com/discovering-errors-in-donald-knuths-taocp): Discovering errors in Donald Knuth's TAOCP</small>
-
-
-| 🔥🔥: 148 \| 💬: [44](https://news.ycombinator.com/item?id=43301342) \| 🗓️ 2025-03-08
-
-
-<br />
-作者Guillaume Lethuillier分享了他在2019年发现的高德纳《计算机程序设计艺术》（TAOCP）中的错误，并因此获得了高德纳的奖励支票。他详细描述了在**算法X**部分发现的错误，包括**未声明的局部变量**、**未使用的内存字段**和**未使用的变量**。高德纳迅速回应并修正了这些错误，展现了其对细节的极致追求。作者对此深感敬佩，并期待继续探索TAOCP的最新卷册。
-
----
-
-## <a name="11"></a>11. 终端中的Markdown幻灯片工具：Presenterm 
+## <a name="10"></a>10. 终端中的Markdown幻灯片工具：Presenterm 
 <small>🔗 [github.com](https://github.com/mfontanini/presenterm): Presenterm: Markdown Slideshows in the Terminal</small>
 
 
-| 🔥🔥: 144 \| 💬: [28](https://news.ycombinator.com/item?id=43303752) \| 🗓️ 2025-03-08
+| 🔥🔥: 156 \| 💬: [30](https://news.ycombinator.com/item?id=43303752) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -155,35 +143,23 @@ Presenterm 是一款基于 **Markdown** 的终端幻灯片工具，支持在终�
 
 ---
 
-## <a name="12"></a>12. MCP与API对比解析 
-<small>🔗 [norahsakal.com](https://norahsakal.com/blog/mcp-vs-api-model-context-protocol-explained/): MCP vs. API Explained</small>
+## <a name="11"></a>11. 发现高德纳《计算机程序设计艺术》中的错误 
+<small>🔗 [glthr.com](https://glthr.com/discovering-errors-in-donald-knuths-taocp): Discovering errors in Donald Knuth's TAOCP</small>
 
 
-| 🔥🔥: 114 \| 💬: [68](https://news.ycombinator.com/item?id=43302297) \| 🗓️ 2025-03-08
-
-
-<br />
-**MCP（模型上下文协议）**是一种新型开放协议，旨在标准化应用程序如何为大型语言模型（LLM）提供上下文。与传统的**API**不同，MCP通过单一协议实现动态发现和双向通信，简化了AI模型与外部工具和数据的集成。MCP支持实时交互，适用于需要灵活性和上下文感知的场景，而传统API则更适合精确控制的场景。MCP的核心优势在于**简化开发**、**实时响应**和**可扩展性**。
-
----
-
-## <a name="13"></a>13. 轻松学习阿拉伯语 
-<small>🔗 [arabic.fi](https://arabic.fi): Learn Arabic</small>
-
-
-| 🔥🔥: 105 \| 💬: [31](https://news.ycombinator.com/item?id=43299795) \| 🗓️ 2025-03-08
+| 🔥🔥: 151 \| 💬: [45](https://news.ycombinator.com/item?id=43301342) \| 🗓️ 2025-03-08
 
 
 <br />
-作者分享了自己学习阿拉伯语的经历，最初因**阿拉伯字母的复杂性**感到困难，但通过将单词拆解为单独字母，学习变得更容易。他创建了“Learn Arabic”网站，提供**8261个阿拉伯单词**和**2625个句子**，每个单词和句子都有详细解释。网站还利用**联想记忆法**，帮助用户通过词根和模式快速掌握新词汇。
+作者Guillaume Lethuillier分享了他在2019年发现的高德纳《计算机程序设计艺术》（TAOCP）中的错误，并因此获得了高德纳的奖励支票。他详细描述了在**算法X**部分发现的错误，包括**未声明的局部变量**、**未使用的内存字段**和**未使用的变量**。高德纳迅速回应并修正了这些错误，展现了其对细节的极致追求。作者对此深感敬佩，并期待继续探索TAOCP的最新卷册。
 
 ---
 
-## <a name="14"></a>14. 我的16个月茶氨酸自我实验 
+## <a name="12"></a>12. 我的16个月茶氨酸自我实验 
 <small>🔗 [dynomight.net](https://dynomight.net/theanine/): My 16-month theanine self-experiment</small>
 
 
-| 🔥🔥: 103 \| 💬: [56](https://news.ycombinator.com/item?id=43305803) \| 🗓️ 2025-03-08
+| 🔥🔥: 145 \| 💬: [81](https://news.ycombinator.com/item?id=43305803) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -191,11 +167,35 @@ Presenterm 是一款基于 **Markdown** 的终端幻灯片工具，支持在终�
 
 ---
 
+## <a name="13"></a>13. MCP与API对比解析 
+<small>🔗 [norahsakal.com](https://norahsakal.com/blog/mcp-vs-api-model-context-protocol-explained/): MCP vs. API Explained</small>
+
+
+| 🔥🔥: 122 \| 💬: [76](https://news.ycombinator.com/item?id=43302297) \| 🗓️ 2025-03-08
+
+
+<br />
+**MCP（模型上下文协议）**是一种新型开放协议，旨在标准化应用程序如何为大型语言模型（LLM）提供上下文。与传统的**API**不同，MCP通过单一协议实现动态发现和双向通信，简化了AI模型与外部工具和数据的集成。MCP支持实时交互，适用于需要灵活性和上下文感知的场景，而传统API则更适合精确控制的场景。MCP的核心优势在于**简化开发**、**实时响应**和**可扩展性**。
+
+---
+
+## <a name="14"></a>14. 轻松学习阿拉伯语 
+<small>🔗 [arabic.fi](https://arabic.fi): Learn Arabic</small>
+
+
+| 🔥🔥: 107 \| 💬: [31](https://news.ycombinator.com/item?id=43299795) \| 🗓️ 2025-03-08
+
+
+<br />
+作者分享了自己学习阿拉伯语的经历，最初因**阿拉伯字母的复杂性**感到困难，但通过将单词拆解为单独字母，学习变得更容易。他创建了“Learn Arabic”网站，提供**8261个阿拉伯单词**和**2625个句子**，每个单词和句子都有详细解释。网站还利用**联想记忆法**，帮助用户通过词根和模式快速掌握新词汇。
+
+---
+
 ## <a name="15"></a>15. 从本地部署到生产环境（自托管） 
 <small>🔗 [github.com](https://github.com/bypirob/airo): Deploy from local to production (self-hosted)</small>
 
 
-| 🔥: 93 \| 💬: [45](https://news.ycombinator.com/item?id=43302495) \| 🗓️ 2025-03-08
+| 🔥: 94 \| 💬: [45](https://news.ycombinator.com/item?id=43302495) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -207,7 +207,7 @@ Airo 是一个工具，帮助开发者将项目从本地计算机轻松部署到
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/08/pi_hole_6_flyby/): Stuff a Pi-hole in your router because your browser is about to betray you</small>
 
 
-| 🔥: 87 \| 💬: [58](https://news.ycombinator.com/item?id=43303922) \| 🗓️ 2025-03-08
+| 🔥: 88 \| 💬: [63](https://news.ycombinator.com/item?id=43303922) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -219,7 +219,7 @@ Airo 是一个工具，帮助开发者将项目从本地计算机轻松部署到
 <small>🔗 [lesswrong.com](https://www.lesswrong.com/posts/tqmQTezvXGFmfSe7f/how-much-are-llms-actually-boosting-real-world-programmer): How much are LLMs boosting real-world programmer productivity?</small>
 
 
-| 🔥: 79 \| 💬: [79](https://news.ycombinator.com/item?id=43302183) \| 🗓️ 2025-03-08
+| 🔥: 81 \| 💬: [80](https://news.ycombinator.com/item?id=43302183) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -243,7 +243,7 @@ LLM编码辅助工具已推出约两年，许多开发者称其显著提升了�
 <small>🔗 [theguardian.com](https://www.theguardian.com/science/2025/mar/07/gene-edited-non-browning-banana-cut-food-waste-tropic-norwich): Gene-edited non-browning banana could cut food waste</small>
 
 
-| 🔥: 58 \| 💬: [63](https://news.ycombinator.com/item?id=43299772) \| 🗓️ 2025-03-08
+| 🔥: 58 \| 💬: [64](https://news.ycombinator.com/item?id=43299772) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -255,7 +255,7 @@ LLM编码辅助工具已推出约两年，许多开发者称其显著提升了�
 <small>🔗 [adrianroselli.com](https://adrianroselli.com/2025/03/dont-use-fake-bold-or-italic-in-social-media.html): Accessibility: Don't Use Fake Bold or Italic in Social Media</small>
 
 
-| 🔥: 52 \| 💬: [54](https://news.ycombinator.com/item?id=43302835) \| 🗓️ 2025-03-08
+| 🔥: 52 \| 💬: [59](https://news.ycombinator.com/item?id=43302835) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -263,7 +263,19 @@ LLM编码辅助工具已推出约两年，许多开发者称其显著提升了�
 
 ---
 
-## <a name="21"></a>21. 为什么AI仍然很笨且并不可怕（第一部分） 
+## <a name="21"></a>21. 美国国务院将使用AI搜索“亲哈马斯”学生并驱逐出境 
+<small>🔗 [gizmodo.com](https://gizmodo.com/state-department-will-use-ai-to-search-for-pro-hamas-students-to-deport-2000573143): State Department Will Use AI to Search for 'Pro-Hamas' Students to Deport</small>
+
+
+| 🔥: 51 \| 💬: [40](https://news.ycombinator.com/item?id=43306192) \| 🗓️ 2025-03-08
+
+
+<br />
+美国国务院计划启动名为“**抓捕与撤销**”的项目，利用**AI系统**扫描新闻和社交媒体，寻找持亲巴勒斯坦和哈马斯立场的学生签证持有者，并将其驱逐出境。该项目将回溯至2023年10月7日，分析10万名学生的抗议活动和社交媒体内容。批评者认为，此举可能侵犯**言论自由**，并带有政治偏见。
+
+---
+
+## <a name="22"></a>22. 为什么AI仍然很笨且并不可怕（第一部分） 
 <small>🔗 [tejo.substack.com](https://tejo.substack.com/p/why-ai-is-still-dumb-and-not-scary): Why AI is still dumb and not scary at all (pt. 1)</small>
 
 
@@ -275,7 +287,7 @@ AI并没有真正的思考能力，它只是通过**模式识别**和数学算�
 
 ---
 
-## <a name="22"></a>22. AI声称破解了Kryptos，艺术家表示绝无可能 
+## <a name="23"></a>23. AI声称破解了Kryptos，艺术家表示绝无可能 
 <small>🔗 [wired.com](https://www.wired.com/story/plaintext-kryptos-code-artificial-intelligence/): AI Thinks It Cracked Kryptos. The Artist Behind It Says No Chance</small>
 
 
@@ -287,7 +299,7 @@ AI并没有真正的思考能力，它只是通过**模式识别**和数学算�
 
 ---
 
-## <a name="23"></a>23. AI“僚机”机器人将接管约会应用：写简介、代聊 
+## <a name="24"></a>24. AI“僚机”机器人将接管约会应用：写简介、代聊 
 <small>🔗 [theguardian.com](https://www.theguardian.com/lifeandstyle/2025/mar/08/ai-wingmen-bots-to-write-profiles-and-flirt-on-dating-apps): AI 'wingmen' bots to write profiles and flirt on dating apps</small>
 
 
@@ -299,7 +311,7 @@ AI并没有真正的思考能力，它只是通过**模式识别**和数学算�
 
 ---
 
-## <a name="24"></a>24. 为什么大多数国家难以关闭2G网络 
+## <a name="25"></a>25. 为什么大多数国家难以关闭2G网络 
 <small>🔗 [restofworld.org](https://restofworld.org/2025/shutting-down-2g-networks-phones-obsolete/): Why most countries are struggling to shut down 2G</small>
 
 
@@ -308,17 +320,5 @@ AI并没有真正的思考能力，它只是通过**模式识别**和数学算�
 
 <br />
 全球多国正努力关闭**2G网络**，以释放频谱资源用于4G和5G。越南通过提供免费4G手机成功减少了2G用户，但印度和南非等国担心此举会切断数百万低收入人群的通信。**2G设备**仍被广泛使用，尤其在低收入地区，而**数字鸿沟**和性别不平等问题使关闭2G变得更加复杂。
-
----
-
-## <a name="25"></a>25. 多年未见的电视对比度 
-<small>🔗 [hackaday.com](https://hackaday.com/2025/03/05/a-tv-with-contrast-you-havent-seen-for-years/): A TV with Contrast You Haven't Seen for Years</small>
-
-
-| 🔥: 32 \| 💬: [5](https://news.ycombinator.com/item?id=43298447) \| 🗓️ 2025-03-08
-
-
-<br />
-使用CRT电视观看电影或节目时，**色彩表现**令人惊艳，尤其是**黑色层次**远超LCD屏幕，接近现代OLED电视。LCD屏幕因背光问题导致黑色表现不佳，而视频中通过改造旧LCD屏幕，利用DLP投影仪生成高分辨率亮度图，实现了**高对比度**效果。这一创新方案虽复杂，但效果显著。
 
 ---
