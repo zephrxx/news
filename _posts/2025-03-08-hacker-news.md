@@ -27,7 +27,7 @@ tags:
 <small>🔗 [usher.dev](https://usher.dev/posts/2025-03-08-kill-your-feeds/): Kill your Feeds – Stop letting algorithms dictate what you think</small>
 
 
-| 🔥🔥: 596 \| 💬: [234](https://news.ycombinator.com/item?id=43302132) \| 🗓️ 2025-03-08
+| 🔥🔥: 611 \| 💬: [236](https://news.ycombinator.com/item?id=43302132) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/undocumented-backdoor-found-in-bluetooth-chip-used-by-a-billion-devices/): Undocumented backdoor found in Bluetooth chip used by a billion devices</small>
 
 
-| 🔥🔥: 312 \| 💬: [91](https://news.ycombinator.com/item?id=43301369) \| 🗓️ 2025-03-08
+| 🔥🔥: 319 \| 💬: [92](https://news.ycombinator.com/item?id=43301369) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [omgubuntu.co.uk](https://www.omgubuntu.co.uk/2025/03/kag-orion-web-browser-coming-to-linux): Kagi Is Bringing Orion Web Browser to Linux</small>
 
 
-| 🔥🔥: 268 \| 💬: [146](https://news.ycombinator.com/item?id=43302073) \| 🗓️ 2025-03-08
+| 🔥🔥: 278 \| 💬: [151](https://news.ycombinator.com/item?id=43302073) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -63,7 +63,7 @@ Kagi 公司宣布，其基于 **WebKit** 的 **Orion** 浏览器将登陆 Linux 
 <small>🔗 [wired.com](https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/): The DOJ still wants Google to sell off Chrome</small>
 
 
-| 🔥🔥: 185 \| 💬: [357](https://news.ycombinator.com/item?id=43299886) \| 🗓️ 2025-03-08
+| 🔥🔥: 206 \| 💬: [383](https://news.ycombinator.com/item?id=43299886) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -75,7 +75,7 @@ Kagi 公司宣布，其基于 **WebKit** 的 **Orion** 浏览器将登陆 Linux 
 <small>🔗 [engadget.com](https://www.engadget.com/big-tech/google-will-still-have-to-break-up-its-business-the-justice-department-said-150000739.html): Google will still have to break up its business, the Justice Department said</small>
 
 
-| 🔥🔥: 179 \| 💬: [5](https://news.ycombinator.com/item?id=43302097) \| 🗓️ 2025-03-08
+| 🔥🔥: 180 \| 💬: [5](https://news.ycombinator.com/item?id=43302097) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -87,7 +87,7 @@ Kagi 公司宣布，其基于 **WebKit** 的 **Orion** 浏览器将登陆 Linux 
 <small>🔗 [contraptions.venkateshrao.com](https://contraptions.venkateshrao.com/p/discworld-rules): Discworld Rules</small>
 
 
-| 🔥🔥: 167 \| 💬: [212](https://news.ycombinator.com/item?id=43299815) \| 🗓️ 2025-03-08
+| 🔥🔥: 176 \| 💬: [222](https://news.ycombinator.com/item?id=43299815) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -99,7 +99,7 @@ Kagi 公司宣布，其基于 **WebKit** 的 **Orion** 浏览器将登陆 Linux 
 <small>🔗 [gizmodo.com](https://gizmodo.com/sam-bankman-fried-thrown-into-solitary-over-tucker-carlson-interview-report-2000573371): Sam Bankman-Fried thrown into solitary over Tucker Carlson interview: report</small>
 
 
-| 🔥🔥: 162 \| 💬: [195](https://news.ycombinator.com/item?id=43301702) \| 🗓️ 2025-03-08
+| 🔥🔥: 165 \| 💬: [198](https://news.ycombinator.com/item?id=43301702) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -111,7 +111,7 @@ Kagi 公司宣布，其基于 **WebKit** 的 **Orion** 浏览器将登陆 Linux 
 <small>🔗 [viblo.se](https://www.viblo.se/posts/no-need-redis/): You might not need Redis</small>
 
 
-| 🔥🔥: 153 \| 💬: [100](https://news.ycombinator.com/item?id=43301432) \| 🗓️ 2025-03-08
+| 🔥🔥: 155 \| 💬: [100](https://news.ycombinator.com/item?id=43301432) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -123,7 +123,7 @@ Redis虽然是一款优秀的技术，但在实际应用中，**并非所有场�
 <small>🔗 [scattered-thoughts.net](https://www.scattered-thoughts.net/writing/the-program-is-the-database-is-the-interface/): The program is the database is the interface</small>
 
 
-| 🔥🔥: 136 \| 💬: [44](https://news.ycombinator.com/item?id=43300528) \| 🗓️ 2025-03-08
+| 🔥🔥: 143 \| 💬: [44](https://news.ycombinator.com/item?id=43300528) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -135,7 +135,7 @@ Redis虽然是一款优秀的技术，但在实际应用中，**并非所有场�
 <small>🔗 [glthr.com](https://glthr.com/discovering-errors-in-donald-knuths-taocp): Discovering errors in Donald Knuth's TAOCP</small>
 
 
-| 🔥🔥: 122 \| 💬: [40](https://news.ycombinator.com/item?id=43301342) \| 🗓️ 2025-03-08
+| 🔥🔥: 132 \| 💬: [41](https://news.ycombinator.com/item?id=43301342) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -143,23 +143,11 @@ Redis虽然是一款优秀的技术，但在实际应用中，**并非所有场�
 
 ---
 
-## <a name="11"></a>11. 轻松学习阿拉伯语 
-<small>🔗 [arabic.fi](https://arabic.fi): Learn Arabic</small>
-
-
-| 🔥🔥: 102 \| 💬: [31](https://news.ycombinator.com/item?id=43299795) \| 🗓️ 2025-03-08
-
-
-<br />
-作者分享了自己学习阿拉伯语的经历，最初因**阿拉伯字母的复杂性**感到困难，但通过将单词拆解为单独字母，学习变得更容易。他创建了“Learn Arabic”网站，提供**8261个阿拉伯单词**和**2625个句子**，每个单词和句子都有详细解释。网站还利用**联想记忆法**，帮助用户通过词根和模式快速掌握新词汇。
-
----
-
-## <a name="12"></a>12. 终端中的Markdown幻灯片工具：Presenterm 
+## <a name="11"></a>11. 终端中的Markdown幻灯片工具：Presenterm 
 <small>🔗 [github.com](https://github.com/mfontanini/presenterm): Presenterm: Markdown Slideshows in the Terminal</small>
 
 
-| 🔥: 83 \| 💬: [19](https://news.ycombinator.com/item?id=43303752) \| 🗓️ 2025-03-08
+| 🔥🔥: 111 \| 💬: [22](https://news.ycombinator.com/item?id=43303752) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -167,35 +155,23 @@ Presenterm 是一款基于 **Markdown** 的终端幻灯片工具，支持在终�
 
 ---
 
-## <a name="13"></a>13. 从本地部署到生产环境（自托管） 
-<small>🔗 [github.com](https://github.com/bypirob/airo): Deploy from local to production (self-hosted)</small>
+## <a name="12"></a>12. 轻松学习阿拉伯语 
+<small>🔗 [arabic.fi](https://arabic.fi): Learn Arabic</small>
 
 
-| 🔥: 76 \| 💬: [38](https://news.ycombinator.com/item?id=43302495) \| 🗓️ 2025-03-08
-
-
-<br />
-Airo 是一个工具，帮助开发者将项目从本地计算机轻松部署到**自托管服务器**。它简化了容器部署流程，无需复杂的 CI/CD 管道或平台服务。通过简单的命令，Airo 可以自动构建 Docker 镜像、配置 HTTPS 和反向代理，并通过 SSH 安全更新服务器。适合那些希望**专注于产品开发**而不是基础设施管理的开发者。
-
----
-
-## <a name="14"></a>14. 美国对英国核武库的支持面临不确定性 
-<small>🔗 [theguardian.com](https://www.theguardian.com/world/2025/mar/08/us-support-uk-nuclear-arsenal-in-doubt-trident-france): US support to maintain UK's nuclear arsenal is in doubt</small>
-
-
-| 🔥: 71 \| 💬: [99](https://news.ycombinator.com/item?id=43299011) \| 🗓️ 2025-03-08
+| 🔥🔥: 103 \| 💬: [31](https://news.ycombinator.com/item?id=43299795) \| 🗓️ 2025-03-08
 
 
 <br />
-专家警告称，英国依赖美国维护其核武库的能力正受到质疑。尽管与欧洲国家合作替代**三叉戟**导弹系统将耗时且昂贵，但前外交大臣马尔科姆·里夫金等人呼吁加强英法合作，以应对美国可能减少支持的风险。英国核武器的基础设施高度依赖美国，若美英关系破裂，英国需独立开发替代方案，或与法国合作，但这一过程将极为复杂且成本高昂。
+作者分享了自己学习阿拉伯语的经历，最初因**阿拉伯字母的复杂性**感到困难，但通过将单词拆解为单独字母，学习变得更容易。他创建了“Learn Arabic”网站，提供**8261个阿拉伯单词**和**2625个句子**，每个单词和句子都有详细解释。网站还利用**联想记忆法**，帮助用户通过词根和模式快速掌握新词汇。
 
 ---
 
-## <a name="15"></a>15. MCP与API对比解析 
+## <a name="13"></a>13. MCP与API对比解析 
 <small>🔗 [norahsakal.com](https://norahsakal.com/blog/mcp-vs-api-model-context-protocol-explained/): MCP vs. API Explained</small>
 
 
-| 🔥: 71 \| 💬: [43](https://news.ycombinator.com/item?id=43302297) \| 🗓️ 2025-03-08
+| 🔥: 87 \| 💬: [51](https://news.ycombinator.com/item?id=43302297) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -203,11 +179,35 @@ Airo 是一个工具，帮助开发者将项目从本地计算机轻松部署到
 
 ---
 
+## <a name="14"></a>14. 从本地部署到生产环境（自托管） 
+<small>🔗 [github.com](https://github.com/bypirob/airo): Deploy from local to production (self-hosted)</small>
+
+
+| 🔥: 79 \| 💬: [37](https://news.ycombinator.com/item?id=43302495) \| 🗓️ 2025-03-08
+
+
+<br />
+Airo 是一个工具，帮助开发者将项目从本地计算机轻松部署到**自托管服务器**。它简化了容器部署流程，无需复杂的 CI/CD 管道或平台服务。通过简单的命令，Airo 可以自动构建 Docker 镜像、配置 HTTPS 和反向代理，并通过 SSH 安全更新服务器。适合那些希望**专注于产品开发**而不是基础设施管理的开发者。
+
+---
+
+## <a name="15"></a>15. 美国对英国核武库的支持面临不确定性 
+<small>🔗 [theguardian.com](https://www.theguardian.com/world/2025/mar/08/us-support-uk-nuclear-arsenal-in-doubt-trident-france): US support to maintain UK's nuclear arsenal is in doubt</small>
+
+
+| 🔥: 72 \| 💬: [99](https://news.ycombinator.com/item?id=43299011) \| 🗓️ 2025-03-08
+
+
+<br />
+专家警告称，英国依赖美国维护其核武库的能力正受到质疑。尽管与欧洲国家合作替代**三叉戟**导弹系统将耗时且昂贵，但前外交大臣马尔科姆·里夫金等人呼吁加强英法合作，以应对美国可能减少支持的风险。英国核武器的基础设施高度依赖美国，若美英关系破裂，英国需独立开发替代方案，或与法国合作，但这一过程将极为复杂且成本高昂。
+
+---
+
 ## <a name="16"></a>16. LLM如何真正提升程序员的生产力？ 
 <small>🔗 [lesswrong.com](https://www.lesswrong.com/posts/tqmQTezvXGFmfSe7f/how-much-are-llms-actually-boosting-real-world-programmer): How much are LLMs boosting real-world programmer productivity?</small>
 
 
-| 🔥: 70 \| 💬: [74](https://news.ycombinator.com/item?id=43302183) \| 🗓️ 2025-03-08
+| 🔥: 71 \| 💬: [74](https://news.ycombinator.com/item?id=43302183) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -219,7 +219,7 @@ LLM编码辅助工具已推出约两年，许多开发者称其显著提升了�
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/08/pi_hole_6_flyby/): Stuff a Pi-hole in your router because your browser is about to betray you</small>
 
 
-| 🔥: 56 \| 💬: [30](https://news.ycombinator.com/item?id=43303922) \| 🗓️ 2025-03-08
+| 🔥: 71 \| 💬: [35](https://news.ycombinator.com/item?id=43303922) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -231,7 +231,7 @@ LLM编码辅助工具已推出约两年，许多开发者称其显著提升了�
 <small>🔗 [theguardian.com](https://www.theguardian.com/science/2025/mar/07/gene-edited-non-browning-banana-cut-food-waste-tropic-norwich): Gene-edited non-browning banana could cut food waste</small>
 
 
-| 🔥: 53 \| 💬: [57](https://news.ycombinator.com/item?id=43299772) \| 🗓️ 2025-03-08
+| 🔥: 55 \| 💬: [60](https://news.ycombinator.com/item?id=43299772) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -239,7 +239,19 @@ LLM编码辅助工具已推出约两年，许多开发者称其显著提升了�
 
 ---
 
-## <a name="19"></a>19. 社交媒体中不要使用假粗体或斜体 
+## <a name="19"></a>19. 为什么AI仍然很笨且并不可怕（第一部分） 
+<small>🔗 [tejo.substack.com](https://tejo.substack.com/p/why-ai-is-still-dumb-and-not-scary): Why AI is still dumb and not scary at all (pt. 1)</small>
+
+
+| 🔥: 49 \| 💬: [59](https://news.ycombinator.com/item?id=43303672) \| 🗓️ 2025-03-08
+
+
+<br />
+AI并没有真正的思考能力，它只是通过**模式识别**和数学算法来模仿人类行为。尽管AI在生成文本和图像方面取得了巨大进展，但它仍然缺乏真正的**理解和推理能力**。历史表明，技术变革会淘汰一些工作，但也会创造新的机会。AI的自动化将解放人类，让我们专注于更有意义和创造性的任务。
+
+---
+
+## <a name="20"></a>20. 社交媒体中不要使用假粗体或斜体 
 <small>🔗 [adrianroselli.com](https://adrianroselli.com/2025/03/dont-use-fake-bold-or-italic-in-social-media.html): Accessibility: Don't Use Fake Bold or Italic in Social Media</small>
 
 
@@ -248,18 +260,6 @@ LLM编码辅助工具已推出约两年，许多开发者称其显著提升了�
 
 <br />
 文章通过类比向视力正常的人解释，如果消息中的表情符号形状被错误渲染（如将J形香蕉变成I形或L形），或ASCII艺术在窄屏手机上无法阅读，会让人感到困惑。**假粗体或斜体**在社交媒体中也会带来类似问题，影响信息的准确传达。**可访问性**设计应避免使用这些不规范的格式，以确保所有人都能清晰理解内容。
-
----
-
-## <a name="20"></a>20. 为什么AI仍然很笨且并不可怕（第一部分） 
-<small>🔗 [tejo.substack.com](https://tejo.substack.com/p/why-ai-is-still-dumb-and-not-scary): Why AI is still dumb and not scary at all (pt. 1)</small>
-
-
-| 🔥: 48 \| 💬: [59](https://news.ycombinator.com/item?id=43303672) \| 🗓️ 2025-03-08
-
-
-<br />
-AI并没有真正的思考能力，它只是通过**模式识别**和数学算法来模仿人类行为。尽管AI在生成文本和图像方面取得了巨大进展，但它仍然缺乏真正的**理解和推理能力**。历史表明，技术变革会淘汰一些工作，但也会创造新的机会。AI的自动化将解放人类，让我们专注于更有意义和创造性的任务。
 
 ---
 
@@ -279,7 +279,7 @@ AI并没有真正的思考能力，它只是通过**模式识别**和数学算�
 <small>🔗 [theguardian.com](https://www.theguardian.com/lifeandstyle/2025/mar/08/ai-wingmen-bots-to-write-profiles-and-flirt-on-dating-apps): AI 'wingmen' bots to write profiles and flirt on dating apps</small>
 
 
-| 🔥: 39 \| 💬: [69](https://news.ycombinator.com/item?id=43300878) \| 🗓️ 2025-03-08
+| 🔥: 39 \| 💬: [70](https://news.ycombinator.com/item?id=43300878) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -315,7 +315,7 @@ AI并没有真正的思考能力，它只是通过**模式识别**和数学算�
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/03/fbi-nabs-worker-at-dvd-company-for-ripping-prerelease-marvel-blockbusters/): Feds arrest man for sharing DVD rip of Spider-Man movie with millions online</small>
 
 
-| 🔥: 30 \| 💬: [57](https://news.ycombinator.com/item?id=43302177) \| 🗓️ 2025-03-08
+| 🔥: 30 \| 💬: [58](https://news.ycombinator.com/item?id=43302177) \| 🗓️ 2025-03-08
 
 
 <br />
