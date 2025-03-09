@@ -12,7 +12,7 @@ tags:
 1. 十亿设备使用的蓝牙芯片中发现未记录的后门；
 1. Kagi 将 Orion 浏览器引入 Linux 平台；
 1. 美国司法部要求谷歌剥离Chrome浏览器；
-1. 谷歌仍将被要求拆分业务，司法部重申；
+1. 《碟形世界规则：反托尔金的科技寓言》；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [usher.dev](https://usher.dev/posts/2025-03-08-kill-your-feeds/): Kill your Feeds – Stop letting algorithms dictate what you think</small>
 
 
-| 🔥🔥: 611 \| 💬: [236](https://news.ycombinator.com/item?id=43302132) \| 🗓️ 2025-03-08
+| 🔥🔥: 633 \| 💬: [243](https://news.ycombinator.com/item?id=43302132) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/undocumented-backdoor-found-in-bluetooth-chip-used-by-a-billion-devices/): Undocumented backdoor found in Bluetooth chip used by a billion devices</small>
 
 
-| 🔥🔥: 319 \| 💬: [92](https://news.ycombinator.com/item?id=43301369) \| 🗓️ 2025-03-08
+| 🔥🔥: 321 \| 💬: [92](https://news.ycombinator.com/item?id=43301369) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [omgubuntu.co.uk](https://www.omgubuntu.co.uk/2025/03/kag-orion-web-browser-coming-to-linux): Kagi Is Bringing Orion Web Browser to Linux</small>
 
 
-| 🔥🔥: 278 \| 💬: [151](https://news.ycombinator.com/item?id=43302073) \| 🗓️ 2025-03-08
+| 🔥🔥: 287 \| 💬: [159](https://news.ycombinator.com/item?id=43302073) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -63,7 +63,7 @@ Kagi 公司宣布，其基于 **WebKit** 的 **Orion** 浏览器将登陆 Linux 
 <small>🔗 [wired.com](https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/): The DOJ still wants Google to sell off Chrome</small>
 
 
-| 🔥🔥: 206 \| 💬: [383](https://news.ycombinator.com/item?id=43299886) \| 🗓️ 2025-03-08
+| 🔥🔥: 228 \| 💬: [418](https://news.ycombinator.com/item?id=43299886) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -71,7 +71,19 @@ Kagi 公司宣布，其基于 **WebKit** 的 **Orion** 浏览器将登陆 Linux 
 
 ---
 
-## <a name="5"></a>5. 谷歌仍将被要求拆分业务，司法部重申 
+## <a name="5"></a>5. 《碟形世界规则：反托尔金的科技寓言》 
+<small>🔗 [contraptions.venkateshrao.com](https://contraptions.venkateshrao.com/p/discworld-rules): Discworld Rules</small>
+
+
+| 🔥🔥: 181 \| 💬: [227](https://news.ycombinator.com/item?id=43299815) \| 🗓️ 2025-03-08
+
+
+<br />
+文章批评了《指环王》作为科技寓言的局限性，认为其“被选中者”叙事与现实脱节，无法有效反映技术与社会的互动。相反，**《碟形世界》**通过荒诞的设定和讽刺手法，深刻揭示了技术与社会的复杂关系。**《碟形世界》**强调规则而非特殊人物，其幽默与讽刺帮助读者更好地理解现实世界的运作方式。作者建议科技从业者从**《碟形世界》**中汲取灵感，而非沉迷于《指环王》的幻想叙事。
+
+---
+
+## <a name="6"></a>6. 谷歌仍将被要求拆分业务，司法部重申 
 <small>🔗 [engadget.com](https://www.engadget.com/big-tech/google-will-still-have-to-break-up-its-business-the-justice-department-said-150000739.html): Google will still have to break up its business, the Justice Department said</small>
 
 
@@ -83,23 +95,11 @@ Kagi 公司宣布，其基于 **WebKit** 的 **Orion** 浏览器将登陆 Linux 
 
 ---
 
-## <a name="6"></a>6. 《碟形世界规则：反托尔金的科技寓言》 
-<small>🔗 [contraptions.venkateshrao.com](https://contraptions.venkateshrao.com/p/discworld-rules): Discworld Rules</small>
-
-
-| 🔥🔥: 176 \| 💬: [222](https://news.ycombinator.com/item?id=43299815) \| 🗓️ 2025-03-08
-
-
-<br />
-文章批评了《指环王》作为科技寓言的局限性，认为其“被选中者”叙事与现实脱节，无法有效反映技术与社会的互动。相反，**《碟形世界》**通过荒诞的设定和讽刺手法，深刻揭示了技术与社会的复杂关系。**《碟形世界》**强调规则而非特殊人物，其幽默与讽刺帮助读者更好地理解现实世界的运作方式。作者建议科技从业者从**《碟形世界》**中汲取灵感，而非沉迷于《指环王》的幻想叙事。
-
----
-
 ## <a name="7"></a>7. Sam Bankman-Fried因接受Tucker Carlson采访被关禁闭 
 <small>🔗 [gizmodo.com](https://gizmodo.com/sam-bankman-fried-thrown-into-solitary-over-tucker-carlson-interview-report-2000573371): Sam Bankman-Fried thrown into solitary over Tucker Carlson interview: report</small>
 
 
-| 🔥🔥: 165 \| 💬: [198](https://news.ycombinator.com/item?id=43301702) \| 🗓️ 2025-03-08
+| 🔥🔥: 166 \| 💬: [199](https://news.ycombinator.com/item?id=43301702) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -111,7 +111,7 @@ Kagi 公司宣布，其基于 **WebKit** 的 **Orion** 浏览器将登陆 Linux 
 <small>🔗 [viblo.se](https://www.viblo.se/posts/no-need-redis/): You might not need Redis</small>
 
 
-| 🔥🔥: 155 \| 💬: [100](https://news.ycombinator.com/item?id=43301432) \| 🗓️ 2025-03-08
+| 🔥🔥: 161 \| 💬: [106](https://news.ycombinator.com/item?id=43301432) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -123,7 +123,7 @@ Redis虽然是一款优秀的技术，但在实际应用中，**并非所有场�
 <small>🔗 [scattered-thoughts.net](https://www.scattered-thoughts.net/writing/the-program-is-the-database-is-the-interface/): The program is the database is the interface</small>
 
 
-| 🔥🔥: 143 \| 💬: [44](https://news.ycombinator.com/item?id=43300528) \| 🗓️ 2025-03-08
+| 🔥🔥: 144 \| 💬: [46](https://news.ycombinator.com/item?id=43300528) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -135,7 +135,7 @@ Redis虽然是一款优秀的技术，但在实际应用中，**并非所有场�
 <small>🔗 [glthr.com](https://glthr.com/discovering-errors-in-donald-knuths-taocp): Discovering errors in Donald Knuth's TAOCP</small>
 
 
-| 🔥🔥: 132 \| 💬: [41](https://news.ycombinator.com/item?id=43301342) \| 🗓️ 2025-03-08
+| 🔥🔥: 139 \| 💬: [43](https://news.ycombinator.com/item?id=43301342) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -147,7 +147,7 @@ Redis虽然是一款优秀的技术，但在实际应用中，**并非所有场�
 <small>🔗 [github.com](https://github.com/mfontanini/presenterm): Presenterm: Markdown Slideshows in the Terminal</small>
 
 
-| 🔥🔥: 111 \| 💬: [22](https://news.ycombinator.com/item?id=43303752) \| 🗓️ 2025-03-08
+| 🔥🔥: 125 \| 💬: [25](https://news.ycombinator.com/item?id=43303752) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -159,7 +159,7 @@ Presenterm 是一款基于 **Markdown** 的终端幻灯片工具，支持在终�
 <small>🔗 [arabic.fi](https://arabic.fi): Learn Arabic</small>
 
 
-| 🔥🔥: 103 \| 💬: [31](https://news.ycombinator.com/item?id=43299795) \| 🗓️ 2025-03-08
+| 🔥🔥: 104 \| 💬: [31](https://news.ycombinator.com/item?id=43299795) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -171,7 +171,7 @@ Presenterm 是一款基于 **Markdown** 的终端幻灯片工具，支持在终�
 <small>🔗 [norahsakal.com](https://norahsakal.com/blog/mcp-vs-api-model-context-protocol-explained/): MCP vs. API Explained</small>
 
 
-| 🔥: 87 \| 💬: [51](https://news.ycombinator.com/item?id=43302297) \| 🗓️ 2025-03-08
+| 🔥: 96 \| 💬: [58](https://news.ycombinator.com/item?id=43302297) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -183,7 +183,7 @@ Presenterm 是一款基于 **Markdown** 的终端幻灯片工具，支持在终�
 <small>🔗 [github.com](https://github.com/bypirob/airo): Deploy from local to production (self-hosted)</small>
 
 
-| 🔥: 79 \| 💬: [37](https://news.ycombinator.com/item?id=43302495) \| 🗓️ 2025-03-08
+| 🔥: 84 \| 💬: [39](https://news.ycombinator.com/item?id=43302495) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -191,7 +191,31 @@ Airo 是一个工具，帮助开发者将项目从本地计算机轻松部署到
 
 ---
 
-## <a name="15"></a>15. 美国对英国核武库的支持面临不确定性 
+## <a name="15"></a>15. 在路由器中安装Pi-hole，因为你的浏览器即将背叛你 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/03/08/pi_hole_6_flyby/): Stuff a Pi-hole in your router because your browser is about to betray you</small>
+
+
+| 🔥: 81 \| 💬: [47](https://news.ycombinator.com/item?id=43303922) \| 🗓️ 2025-03-08
+
+
+<br />
+随着**Mozilla**开始销售广告，**Google**限制广告拦截功能，用户需要更严格的措施来保护隐私。**Pi-hole 6**发布，它是一款轻量级的广告拦截工具，通过DNS重定向阻止广告请求。安装简单，资源需求低，适合在**Raspberry Pi**等设备上运行。虽然需要调整路由器设置，但效果显著，能减少广告并提升网页加载速度。对于注重隐私和网络效率的用户来说，Pi-hole是一个值得尝试的解决方案。
+
+---
+
+## <a name="16"></a>16. LLM如何真正提升程序员的生产力？ 
+<small>🔗 [lesswrong.com](https://www.lesswrong.com/posts/tqmQTezvXGFmfSe7f/how-much-are-llms-actually-boosting-real-world-programmer): How much are LLMs boosting real-world programmer productivity?</small>
+
+
+| 🔥: 74 \| 💬: [75](https://news.ycombinator.com/item?id=43302183) \| 🗓️ 2025-03-08
+
+
+<br />
+LLM编码辅助工具已推出约两年，许多开发者称其显著提升了生产力，甚至达到5倍或10倍。然而，**整体行业生产力并未显著提高**，主要因为LLM工具在处理复杂任务时表现不佳，且需要调整工作流程。**实际生产力提升可能集中在少数高级用户**，而大多数程序员并未感受到明显变化。此外，LLM生成的代码可能需要大量修复，甚至导致项目失败。**LLM的真正影响可能被高估**，目前更多体现在辅助学习和简单任务上。
+
+---
+
+## <a name="17"></a>17. 美国对英国核武库的支持面临不确定性 
 <small>🔗 [theguardian.com](https://www.theguardian.com/world/2025/mar/08/us-support-uk-nuclear-arsenal-in-doubt-trident-france): US support to maintain UK's nuclear arsenal is in doubt</small>
 
 
@@ -203,35 +227,11 @@ Airo 是一个工具，帮助开发者将项目从本地计算机轻松部署到
 
 ---
 
-## <a name="16"></a>16. LLM如何真正提升程序员的生产力？ 
-<small>🔗 [lesswrong.com](https://www.lesswrong.com/posts/tqmQTezvXGFmfSe7f/how-much-are-llms-actually-boosting-real-world-programmer): How much are LLMs boosting real-world programmer productivity?</small>
-
-
-| 🔥: 71 \| 💬: [74](https://news.ycombinator.com/item?id=43302183) \| 🗓️ 2025-03-08
-
-
-<br />
-LLM编码辅助工具已推出约两年，许多开发者称其显著提升了生产力，甚至达到5倍或10倍。然而，**整体行业生产力并未显著提高**，主要因为LLM工具在处理复杂任务时表现不佳，且需要调整工作流程。**实际生产力提升可能集中在少数高级用户**，而大多数程序员并未感受到明显变化。此外，LLM生成的代码可能需要大量修复，甚至导致项目失败。**LLM的真正影响可能被高估**，目前更多体现在辅助学习和简单任务上。
-
----
-
-## <a name="17"></a>17. 在路由器中安装Pi-hole，因为你的浏览器即将背叛你 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/03/08/pi_hole_6_flyby/): Stuff a Pi-hole in your router because your browser is about to betray you</small>
-
-
-| 🔥: 71 \| 💬: [35](https://news.ycombinator.com/item?id=43303922) \| 🗓️ 2025-03-08
-
-
-<br />
-随着**Mozilla**开始销售广告，**Google**限制广告拦截功能，用户需要更严格的措施来保护隐私。**Pi-hole 6**发布，它是一款轻量级的广告拦截工具，通过DNS重定向阻止广告请求。安装简单，资源需求低，适合在**Raspberry Pi**等设备上运行。虽然需要调整路由器设置，但效果显著，能减少广告并提升网页加载速度。对于注重隐私和网络效率的用户来说，Pi-hole是一个值得尝试的解决方案。
-
----
-
 ## <a name="18"></a>18. 基因编辑香蕉：减少食物浪费的新希望 
 <small>🔗 [theguardian.com](https://www.theguardian.com/science/2025/mar/07/gene-edited-non-browning-banana-cut-food-waste-tropic-norwich): Gene-edited non-browning banana could cut food waste</small>
 
 
-| 🔥: 55 \| 💬: [60](https://news.ycombinator.com/item?id=43299772) \| 🗓️ 2025-03-08
+| 🔥: 55 \| 💬: [62](https://news.ycombinator.com/item?id=43299772) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -243,7 +243,7 @@ LLM编码辅助工具已推出约两年，许多开发者称其显著提升了�
 <small>🔗 [tejo.substack.com](https://tejo.substack.com/p/why-ai-is-still-dumb-and-not-scary): Why AI is still dumb and not scary at all (pt. 1)</small>
 
 
-| 🔥: 49 \| 💬: [59](https://news.ycombinator.com/item?id=43303672) \| 🗓️ 2025-03-08
+| 🔥: 50 \| 💬: [62](https://news.ycombinator.com/item?id=43303672) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -255,7 +255,7 @@ AI并没有真正的思考能力，它只是通过**模式识别**和数学算�
 <small>🔗 [adrianroselli.com](https://adrianroselli.com/2025/03/dont-use-fake-bold-or-italic-in-social-media.html): Accessibility: Don't Use Fake Bold or Italic in Social Media</small>
 
 
-| 🔥: 48 \| 💬: [52](https://news.ycombinator.com/item?id=43302835) \| 🗓️ 2025-03-08
+| 🔥: 49 \| 💬: [54](https://news.ycombinator.com/item?id=43302835) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -267,7 +267,7 @@ AI并没有真正的思考能力，它只是通过**模式识别**和数学算�
 <small>🔗 [wired.com](https://www.wired.com/story/plaintext-kryptos-code-artificial-intelligence/): AI Thinks It Cracked Kryptos. The Artist Behind It Says No Chance</small>
 
 
-| 🔥: 44 \| 💬: [43](https://news.ycombinator.com/item?id=43300081) \| 🗓️ 2025-03-08
+| 🔥: 44 \| 💬: [45](https://news.ycombinator.com/item?id=43300081) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -291,7 +291,7 @@ AI并没有真正的思考能力，它只是通过**模式识别**和数学算�
 <small>🔗 [restofworld.org](https://restofworld.org/2025/shutting-down-2g-networks-phones-obsolete/): Why most countries are struggling to shut down 2G</small>
 
 
-| 🔥: 34 \| 💬: [16](https://news.ycombinator.com/item?id=43298989) \| 🗓️ 2025-03-08
+| 🔥: 35 \| 💬: [16](https://news.ycombinator.com/item?id=43298989) \| 🗓️ 2025-03-08
 
 
 <br />
