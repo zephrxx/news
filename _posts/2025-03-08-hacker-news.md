@@ -27,7 +27,7 @@ tags:
 <small>🔗 [usher.dev](https://usher.dev/posts/2025-03-08-kill-your-feeds/): Kill your Feeds – Stop letting algorithms dictate what you think</small>
 
 
-| 🔥🔥: 652 \| 💬: [245](https://news.ycombinator.com/item?id=43302132) \| 🗓️ 2025-03-08
+| 🔥🔥: 667 \| 💬: [259](https://news.ycombinator.com/item?id=43302132) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/undocumented-backdoor-found-in-bluetooth-chip-used-by-a-billion-devices/): Undocumented backdoor found in Bluetooth chip used by a billion devices</small>
 
 
-| 🔥🔥: 324 \| 💬: [94](https://news.ycombinator.com/item?id=43301369) \| 🗓️ 2025-03-08
+| 🔥🔥: 326 \| 💬: [94](https://news.ycombinator.com/item?id=43301369) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [omgubuntu.co.uk](https://www.omgubuntu.co.uk/2025/03/kag-orion-web-browser-coming-to-linux): Kagi Is Bringing Orion Web Browser to Linux</small>
 
 
-| 🔥🔥: 296 \| 💬: [164](https://news.ycombinator.com/item?id=43302073) \| 🗓️ 2025-03-08
+| 🔥🔥: 302 \| 💬: [167](https://news.ycombinator.com/item?id=43302073) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -63,7 +63,7 @@ Kagi 公司宣布，其基于 **WebKit** 的 **Orion** 浏览器将登陆 Linux 
 <small>🔗 [wired.com](https://www.wired.com/story/the-doj-still-wants-google-to-divest-chrome/): The DOJ still wants Google to sell off Chrome</small>
 
 
-| 🔥🔥: 257 \| 💬: [448](https://news.ycombinator.com/item?id=43299886) \| 🗓️ 2025-03-08
+| 🔥🔥: 272 \| 💬: [464](https://news.ycombinator.com/item?id=43299886) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -75,7 +75,7 @@ Kagi 公司宣布，其基于 **WebKit** 的 **Orion** 浏览器将登陆 Linux 
 <small>🔗 [contraptions.venkateshrao.com](https://contraptions.venkateshrao.com/p/discworld-rules): Discworld Rules</small>
 
 
-| 🔥🔥: 185 \| 💬: [232](https://news.ycombinator.com/item?id=43299815) \| 🗓️ 2025-03-08
+| 🔥🔥: 192 \| 💬: [241](https://news.ycombinator.com/item?id=43299815) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -87,7 +87,7 @@ Kagi 公司宣布，其基于 **WebKit** 的 **Orion** 浏览器将登陆 Linux 
 <small>🔗 [engadget.com](https://www.engadget.com/big-tech/google-will-still-have-to-break-up-its-business-the-justice-department-said-150000739.html): Google will still have to break up its business, the Justice Department said</small>
 
 
-| 🔥🔥: 180 \| 💬: [5](https://news.ycombinator.com/item?id=43302097) \| 🗓️ 2025-03-08
+| 🔥🔥: 181 \| 💬: [5](https://news.ycombinator.com/item?id=43302097) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -95,23 +95,11 @@ Kagi 公司宣布，其基于 **WebKit** 的 **Orion** 浏览器将登陆 Linux 
 
 ---
 
-## <a name="7"></a>7. Sam Bankman-Fried因接受Tucker Carlson采访被关禁闭 
-<small>🔗 [gizmodo.com](https://gizmodo.com/sam-bankman-fried-thrown-into-solitary-over-tucker-carlson-interview-report-2000573371): Sam Bankman-Fried thrown into solitary over Tucker Carlson interview: report</small>
-
-
-| 🔥🔥: 166 \| 💬: [200](https://news.ycombinator.com/item?id=43301702) \| 🗓️ 2025-03-08
-
-
-<br />
-据报道，前加密货币CEO **Sam Bankman-Fried**（SBF）因未经美国监狱局批准接受Tucker Carlson的采访，被关入**单独监禁**。此次采访被认为是SBF试图通过媒体曝光获得特朗普总统的赦免。SBF目前因FTX欺诈案正在服25年刑期，其父母已聘请曾为特朗普竞选工作的律师寻求赦免，但进展不顺。SBF在采访中暗示自己曾向两党捐款，但未明确请求赦免。
-
----
-
-## <a name="8"></a>8. 你可能不需要Redis 
+## <a name="7"></a>7. 你可能不需要Redis 
 <small>🔗 [viblo.se](https://www.viblo.se/posts/no-need-redis/): You might not need Redis</small>
 
 
-| 🔥🔥: 165 \| 💬: [109](https://news.ycombinator.com/item?id=43301432) \| 🗓️ 2025-03-08
+| 🔥🔥: 171 \| 💬: [113](https://news.ycombinator.com/item?id=43301432) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -119,11 +107,23 @@ Redis虽然是一款优秀的技术，但在实际应用中，**并非所有场�
 
 ---
 
+## <a name="8"></a>8. Sam Bankman-Fried因接受Tucker Carlson采访被关禁闭 
+<small>🔗 [gizmodo.com](https://gizmodo.com/sam-bankman-fried-thrown-into-solitary-over-tucker-carlson-interview-report-2000573371): Sam Bankman-Fried thrown into solitary over Tucker Carlson interview: report</small>
+
+
+| 🔥🔥: 168 \| 💬: [201](https://news.ycombinator.com/item?id=43301702) \| 🗓️ 2025-03-08
+
+
+<br />
+据报道，前加密货币CEO **Sam Bankman-Fried**（SBF）因未经美国监狱局批准接受Tucker Carlson的采访，被关入**单独监禁**。此次采访被认为是SBF试图通过媒体曝光获得特朗普总统的赦免。SBF目前因FTX欺诈案正在服25年刑期，其父母已聘请曾为特朗普竞选工作的律师寻求赦免，但进展不顺。SBF在采访中暗示自己曾向两党捐款，但未明确请求赦免。
+
+---
+
 ## <a name="9"></a>9. 程序即数据库即界面 
 <small>🔗 [scattered-thoughts.net](https://www.scattered-thoughts.net/writing/the-program-is-the-database-is-the-interface/): The program is the database is the interface</small>
 
 
-| 🔥🔥: 151 \| 💬: [47](https://news.ycombinator.com/item?id=43300528) \| 🗓️ 2025-03-08
+| 🔥🔥: 153 \| 💬: [48](https://news.ycombinator.com/item?id=43300528) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -135,7 +135,7 @@ Redis虽然是一款优秀的技术，但在实际应用中，**并非所有场�
 <small>🔗 [glthr.com](https://glthr.com/discovering-errors-in-donald-knuths-taocp): Discovering errors in Donald Knuth's TAOCP</small>
 
 
-| 🔥🔥: 144 \| 💬: [43](https://news.ycombinator.com/item?id=43301342) \| 🗓️ 2025-03-08
+| 🔥🔥: 148 \| 💬: [44](https://news.ycombinator.com/item?id=43301342) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -147,7 +147,7 @@ Redis虽然是一款优秀的技术，但在实际应用中，**并非所有场�
 <small>🔗 [github.com](https://github.com/mfontanini/presenterm): Presenterm: Markdown Slideshows in the Terminal</small>
 
 
-| 🔥🔥: 137 \| 💬: [26](https://news.ycombinator.com/item?id=43303752) \| 🗓️ 2025-03-08
+| 🔥🔥: 144 \| 💬: [28](https://news.ycombinator.com/item?id=43303752) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -159,7 +159,7 @@ Presenterm 是一款基于 **Markdown** 的终端幻灯片工具，支持在终�
 <small>🔗 [norahsakal.com](https://norahsakal.com/blog/mcp-vs-api-model-context-protocol-explained/): MCP vs. API Explained</small>
 
 
-| 🔥🔥: 107 \| 💬: [64](https://news.ycombinator.com/item?id=43302297) \| 🗓️ 2025-03-08
+| 🔥🔥: 114 \| 💬: [68](https://news.ycombinator.com/item?id=43302297) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -179,11 +179,23 @@ Presenterm 是一款基于 **Markdown** 的终端幻灯片工具，支持在终�
 
 ---
 
-## <a name="14"></a>14. 从本地部署到生产环境（自托管） 
+## <a name="14"></a>14. 我的16个月茶氨酸自我实验 
+<small>🔗 [dynomight.net](https://dynomight.net/theanine/): My 16-month theanine self-experiment</small>
+
+
+| 🔥🔥: 103 \| 💬: [56](https://news.ycombinator.com/item?id=43305803) \| 🗓️ 2025-03-08
+
+
+<br />
+作者进行了为期16个月的**茶氨酸**自我实验，以验证其对焦虑和压力的效果。实验采用双盲设计，茶氨酸与维生素D胶囊随机服用。结果显示，**茶氨酸**并未显著降低压力，且与维生素D的效果无显著差异。作者认为，**茶氨酸**可能对某些人无效，或根本无效。实验数据与现有科学文献一致，表明茶氨酸的效果可能被高估。
+
+---
+
+## <a name="15"></a>15. 从本地部署到生产环境（自托管） 
 <small>🔗 [github.com](https://github.com/bypirob/airo): Deploy from local to production (self-hosted)</small>
 
 
-| 🔥: 92 \| 💬: [45](https://news.ycombinator.com/item?id=43302495) \| 🗓️ 2025-03-08
+| 🔥: 93 \| 💬: [45](https://news.ycombinator.com/item?id=43302495) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -191,11 +203,11 @@ Airo 是一个工具，帮助开发者将项目从本地计算机轻松部署到
 
 ---
 
-## <a name="15"></a>15. 在路由器中安装Pi-hole，因为你的浏览器即将背叛你 
+## <a name="16"></a>16. 在路由器中安装Pi-hole，因为你的浏览器即将背叛你 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/08/pi_hole_6_flyby/): Stuff a Pi-hole in your router because your browser is about to betray you</small>
 
 
-| 🔥: 85 \| 💬: [51](https://news.ycombinator.com/item?id=43303922) \| 🗓️ 2025-03-08
+| 🔥: 87 \| 💬: [58](https://news.ycombinator.com/item?id=43303922) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -203,11 +215,11 @@ Airo 是一个工具，帮助开发者将项目从本地计算机轻松部署到
 
 ---
 
-## <a name="16"></a>16. LLM如何真正提升程序员的生产力？ 
+## <a name="17"></a>17. LLM如何真正提升程序员的生产力？ 
 <small>🔗 [lesswrong.com](https://www.lesswrong.com/posts/tqmQTezvXGFmfSe7f/how-much-are-llms-actually-boosting-real-world-programmer): How much are LLMs boosting real-world programmer productivity?</small>
 
 
-| 🔥: 76 \| 💬: [76](https://news.ycombinator.com/item?id=43302183) \| 🗓️ 2025-03-08
+| 🔥: 79 \| 💬: [79](https://news.ycombinator.com/item?id=43302183) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -215,7 +227,7 @@ LLM编码辅助工具已推出约两年，许多开发者称其显著提升了�
 
 ---
 
-## <a name="17"></a>17. 美国对英国核武库的支持面临不确定性 
+## <a name="18"></a>18. 美国对英国核武库的支持面临不确定性 
 <small>🔗 [theguardian.com](https://www.theguardian.com/world/2025/mar/08/us-support-uk-nuclear-arsenal-in-doubt-trident-france): US support to maintain UK's nuclear arsenal is in doubt</small>
 
 
@@ -227,23 +239,11 @@ LLM编码辅助工具已推出约两年，许多开发者称其显著提升了�
 
 ---
 
-## <a name="18"></a>18. 我的16个月茶氨酸自我实验 
-<small>🔗 [dynomight.net](https://dynomight.net/theanine/): My 16-month theanine self-experiment</small>
-
-
-| 🔥: 57 \| 💬: [30](https://news.ycombinator.com/item?id=43305803) \| 🗓️ 2025-03-08
-
-
-<br />
-作者进行了为期16个月的**茶氨酸**自我实验，以验证其对焦虑和压力的效果。实验采用双盲设计，茶氨酸与维生素D胶囊随机服用。结果显示，**茶氨酸**并未显著降低压力，且与维生素D的效果无显著差异。作者认为，**茶氨酸**可能对某些人无效，或根本无效。实验数据与现有科学文献一致，表明茶氨酸的效果可能被高估。
-
----
-
 ## <a name="19"></a>19. 基因编辑香蕉：减少食物浪费的新希望 
 <small>🔗 [theguardian.com](https://www.theguardian.com/science/2025/mar/07/gene-edited-non-browning-banana-cut-food-waste-tropic-norwich): Gene-edited non-browning banana could cut food waste</small>
 
 
-| 🔥: 55 \| 💬: [63](https://news.ycombinator.com/item?id=43299772) \| 🗓️ 2025-03-08
+| 🔥: 58 \| 💬: [63](https://news.ycombinator.com/item?id=43299772) \| 🗓️ 2025-03-08
 
 
 <br />
@@ -255,7 +255,7 @@ LLM编码辅助工具已推出约两年，许多开发者称其显著提升了�
 <small>🔗 [adrianroselli.com](https://adrianroselli.com/2025/03/dont-use-fake-bold-or-italic-in-social-media.html): Accessibility: Don't Use Fake Bold or Italic in Social Media</small>
 
 
-| 🔥: 51 \| 💬: [54](https://news.ycombinator.com/item?id=43302835) \| 🗓️ 2025-03-08
+| 🔥: 52 \| 💬: [54](https://news.ycombinator.com/item?id=43302835) \| 🗓️ 2025-03-08
 
 
 <br />
