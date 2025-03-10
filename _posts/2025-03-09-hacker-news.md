@@ -12,7 +12,7 @@ tags:
 1. 仿佛你在玩手机；
 1. 裁员无效：为什么裁员对企业有害无益；
 1. 使用Claude Code几天的体验；
-1. Gleam v1.9 发布：调试、依赖管理与性能优化；
+1. 苹果的“飞地”技术：XNU内核的安全革新；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [ukrainetoday.org](https://ukrainetoday.org/us-ends-support-for-ukrainian-f-16s-but-french-mirages-will-be-salvation-forbes/): US Ends Support For Ukrainian F-16s</small>
 
 
-| 🔥🔥: 1027 \| 💬: [1935](https://news.ycombinator.com/item?id=43307996) \| 🗓️ 2025-03-09
+| 🔥🔥: 1035 \| 💬: [1954](https://news.ycombinator.com/item?id=43307996) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [pippinbarr.com](https://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/): It is as if you were on your phone</small>
 
 
-| 🔥🔥: 593 \| 💬: [87](https://news.ycombinator.com/item?id=43308994) \| 🗓️ 2025-03-09
+| 🔥🔥: 606 \| 💬: [91](https://news.ycombinator.com/item?id=43308994) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [thehustle.co](https://thehustle.co/originals/why-layoffs-dont-work): Layoffs Don't Work</small>
 
 
-| 🔥🔥: 328 \| 💬: [599](https://news.ycombinator.com/item?id=43307755) \| 🗓️ 2025-03-09
+| 🔥🔥: 330 \| 💬: [603](https://news.ycombinator.com/item?id=43307755) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/Steve_Yegge/status/1898674257808515242): I've been using Claude Code for a couple of days</small>
 
 
-| 🔥🔥: 263 \| 💬: [314](https://news.ycombinator.com/item?id=43307809) \| 🗓️ 2025-03-09
+| 🔥🔥: 275 \| 💬: [331](https://news.ycombinator.com/item?id=43307809) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -71,23 +71,11 @@ tags:
 
 ---
 
-## <a name="5"></a>5. Gleam v1.9 发布：调试、依赖管理与性能优化 
-<small>🔗 [gleam.run](https://gleam.run/news/hello-echo-hello-git/): Gleam v1.9</small>
-
-
-| 🔥🔥: 209 \| 💬: [49](https://news.ycombinator.com/item?id=43307987) \| 🗓️ 2025-03-09
-
-
-<br />
-Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支持在发布前自动检测调试代码。新增的**Git依赖管理**功能允许开发者使用未发布的库版本。此外，JavaScript运行时的**位数组**和**列表模式匹配**性能得到显著提升。语言服务器也增加了多项代码重构功能，如**JSON编码生成**和**变量内联**，进一步提升了开发效率。
-
----
-
-## <a name="6"></a>6. 苹果的“飞地”技术：XNU内核的安全革新 
+## <a name="5"></a>5. 苹果的“飞地”技术：XNU内核的安全革新 
 <small>🔗 [randomaugustine.medium.com](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194): Apple Exclaves</small>
 
 
-| 🔥🔥: 207 \| 💬: [58](https://news.ycombinator.com/item?id=43314657) \| 🗓️ 2025-03-09
+| 🔥🔥: 227 \| 💬: [64](https://news.ycombinator.com/item?id=43314657) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -95,47 +83,11 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 
 ---
 
-## <a name="7"></a>7. 特斯拉全球销量暴跌，德国、澳大利亚、中国市场受挫 
-<small>🔗 [carscoops.com](https://www.carscoops.com/2025/03/tesla-sales-falling-off-a-cliff-globally-including-germany-australia-and-china/): Tesla Sales Fall Off a Cliff Globally, Including Germany, Australia, and China</small>
-
-
-| 🔥🔥: 198 \| 💬: [231](https://news.ycombinator.com/item?id=43313127) \| 🗓️ 2025-03-09
-
-
-<br />
-2025年初，**特斯拉**在多个主要市场遭遇严重下滑。德国1月和2月销量分别下降**59.5%**和**76.3%**，澳大利亚前两个月销量下降**65.5%**，中国2月销量也暴跌**49.16%**。尽管全球电动车市场增长，特斯拉的市场份额却在萎缩，面临来自本地竞争对手的激烈挑战。
-
----
-
-## <a name="8"></a>8. 欧洲再次押注RISC-V，推动超级计算自主化 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/03/07/dare_europe_risc_v_project/): Europe bets once again on RISC-V for supercomputing</small>
-
-
-| 🔥🔥: 193 \| 💬: [185](https://news.ycombinator.com/item?id=43311091) \| 🗓️ 2025-03-09
-
-
-<br />
-欧洲启动**DARE项目**，旨在开发基于**RISC-V架构**的处理器芯片，以提升超级计算和AI领域的自主性。该项目由38家科技公司参与，获得2.4亿欧元资助，计划在三年内开发三款芯片，分别用于高性能计算、AI推理和通用处理。此举旨在减少对美国技术的依赖，推动欧洲的**数字主权**。
-
----
-
-## <a name="9"></a>9. 美国被列入公民自由快速下降国际观察名单 
-<small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/mar/09/watchlist-decline-civic-freedoms-civicus): US added to international watchlist for rapid decline in civic freedoms</small>
-
-
-| 🔥🔥: 192 \| 💬: [149](https://news.ycombinator.com/item?id=43315629) \| 🗓️ 2025-03-09
-
-
-<br />
-国际非营利组织Civicus将美国列入2025年首个观察名单，称其公民自由正在迅速恶化。该组织批评**特朗普政府**对民主规范和全球合作的攻击，包括解雇联邦雇员、退出国际组织以及限制媒体访问等行为。美国目前的公民自由评级为“受限”，并可能进一步恶化至“受阻”。Civicus警告称，这些行动可能削弱**宪法原则**，并助长全球威权主义。
-
----
-
-## <a name="10"></a>10. 国家射电天文台的电子设备老式柴油卡车 
+## <a name="6"></a>6. 国家射电天文台的电子设备老式柴油卡车 
 <small>🔗 [raoulpop.com](https://raoulpop.com/2012/04/15/chasing-rfi-waves-part-seven/): Electronics-free old diesel trucks of the national radio astronomy observatory</small>
 
 
-| 🔥🔥: 187 \| 💬: [55](https://news.ycombinator.com/item?id=43315406) \| 🗓️ 2025-03-09
+| 🔥🔥: 217 \| 💬: [64](https://news.ycombinator.com/item?id=43315406) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -143,23 +95,59 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 
 ---
 
-## <a name="11"></a>11. 鸡蛋价格暴涨背后的阴谋：一场大调查 
-<small>🔗 [thebignewsletter.com](https://www.thebignewsletter.com/p/hatching-a-conspiracy-a-big-investigation): An investigation into egg prices</small>
+## <a name="7"></a>7. Gleam v1.9 发布：调试、依赖管理与性能优化 
+<small>🔗 [gleam.run](https://gleam.run/news/hello-echo-hello-git/): Gleam v1.9</small>
 
 
-| 🔥🔥: 135 \| 💬: [108](https://news.ycombinator.com/item?id=43311696) \| 🗓️ 2025-03-09
+| 🔥🔥: 210 \| 💬: [50](https://news.ycombinator.com/item?id=43307987) \| 🗓️ 2025-03-09
 
 
 <br />
-近年来，鸡蛋价格飙升53%，甚至出现短缺。尽管**禽流感**被认为是主要原因，但数据显示，鸡蛋产量仅下降3-5%，需求反而减少10%。与此同时，**Cal-Maine Foods**等大型鸡蛋生产商的利润却创下历史新高。调查发现，鸡蛋供应链被少数公司垄断，**寡头企业**通过限制产量维持高价，导致消费者负担加重。
+Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支持在发布前自动检测调试代码。新增的**Git依赖管理**功能允许开发者使用未发布的库版本。此外，JavaScript运行时的**位数组**和**列表模式匹配**性能得到显著提升。语言服务器也增加了多项代码重构功能，如**JSON编码生成**和**变量内联**，进一步提升了开发效率。
 
 ---
 
-## <a name="12"></a>12. Ecosia与Qwant合作打造欧洲搜索引擎索引 
+## <a name="8"></a>8. 特斯拉全球销量暴跌，德国、澳大利亚、中国市场受挫 
+<small>🔗 [carscoops.com](https://www.carscoops.com/2025/03/tesla-sales-falling-off-a-cliff-globally-including-germany-australia-and-china/): Tesla Sales Fall Off a Cliff Globally, Including Germany, Australia, and China</small>
+
+
+| 🔥🔥: 200 \| 💬: [237](https://news.ycombinator.com/item?id=43313127) \| 🗓️ 2025-03-09
+
+
+<br />
+2025年初，**特斯拉**在多个主要市场遭遇严重下滑。德国1月和2月销量分别下降**59.5%**和**76.3%**，澳大利亚前两个月销量下降**65.5%**，中国2月销量也暴跌**49.16%**。尽管全球电动车市场增长，特斯拉的市场份额却在萎缩，面临来自本地竞争对手的激烈挑战。
+
+---
+
+## <a name="9"></a>9. 美国被列入公民自由快速下降国际观察名单 
+<small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/mar/09/watchlist-decline-civic-freedoms-civicus): US added to international watchlist for rapid decline in civic freedoms</small>
+
+
+| 🔥🔥: 195 \| 💬: [151](https://news.ycombinator.com/item?id=43315629) \| 🗓️ 2025-03-09
+
+
+<br />
+国际非营利组织Civicus将美国列入2025年首个观察名单，称其公民自由正在迅速恶化。该组织批评**特朗普政府**对民主规范和全球合作的攻击，包括解雇联邦雇员、退出国际组织以及限制媒体访问等行为。美国目前的公民自由评级为“受限”，并可能进一步恶化至“受阻”。Civicus警告称，这些行动可能削弱**宪法原则**，并助长全球威权主义。
+
+---
+
+## <a name="10"></a>10. 欧洲再次押注RISC-V，推动超级计算自主化 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/03/07/dare_europe_risc_v_project/): Europe bets once again on RISC-V for supercomputing</small>
+
+
+| 🔥🔥: 194 \| 💬: [186](https://news.ycombinator.com/item?id=43311091) \| 🗓️ 2025-03-09
+
+
+<br />
+欧洲启动**DARE项目**，旨在开发基于**RISC-V架构**的处理器芯片，以提升超级计算和AI领域的自主性。该项目由38家科技公司参与，获得2.4亿欧元资助，计划在三年内开发三款芯片，分别用于高性能计算、AI推理和通用处理。此举旨在减少对美国技术的依赖，推动欧洲的**数字主权**。
+
+---
+
+## <a name="11"></a>11. Ecosia与Qwant合作打造欧洲搜索引擎索引 
 <small>🔗 [blog.ecosia.org](https://blog.ecosia.org/eusp/): Ecosia is teaming up with Qwant to build a European search index</small>
 
 
-| 🔥🔥: 123 \| 💬: [16](https://news.ycombinator.com/item?id=43311573) \| 🗓️ 2025-03-09
+| 🔥🔥: 144 \| 💬: [27](https://news.ycombinator.com/item?id=43311573) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -167,11 +155,23 @@ Ecosia与Qwant合作，计划在2025年推出**欧洲搜索引擎索引**，旨�
 
 ---
 
+## <a name="12"></a>12. 鸡蛋价格暴涨背后的阴谋：一场大调查 
+<small>🔗 [thebignewsletter.com](https://www.thebignewsletter.com/p/hatching-a-conspiracy-a-big-investigation): An investigation into egg prices</small>
+
+
+| 🔥🔥: 135 \| 💬: [112](https://news.ycombinator.com/item?id=43311696) \| 🗓️ 2025-03-09
+
+
+<br />
+近年来，鸡蛋价格飙升53%，甚至出现短缺。尽管**禽流感**被认为是主要原因，但数据显示，鸡蛋产量仅下降3-5%，需求反而减少10%。与此同时，**Cal-Maine Foods**等大型鸡蛋生产商的利润却创下历史新高。调查发现，鸡蛋供应链被少数公司垄断，**寡头企业**通过限制产量维持高价，导致消费者负担加重。
+
+---
+
 ## <a name="13"></a>13. 萨尔瓦多的加密货币实验以失败告终 
 <small>🔗 [economist.com](https://www.economist.com/finance-and-economics/2025/03/02/el-salvadors-wild-crypto-experiment-ends-in-failure): El Salvador's crypto experiment ends in failure</small>
 
 
-| 🔥🔥: 120 \| 💬: [91](https://news.ycombinator.com/item?id=43314334) \| 🗓️ 2025-03-09
+| 🔥🔥: 121 \| 💬: [93](https://news.ycombinator.com/item?id=43314334) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -183,7 +183,7 @@ Ecosia与Qwant合作，计划在2025年推出**欧洲搜索引擎索引**，旨�
 <small>🔗 [github.com](https://github.com/matiasmolinas/evolving-agents): Show HN: Evolving Agents Framework</small>
 
 
-| 🔥🔥: 112 \| 💬: [18](https://news.ycombinator.com/item?id=43310963) \| 🗓️ 2025-03-09
+| 🔥🔥: 115 \| 💬: [18](https://news.ycombinator.com/item?id=43310963) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -195,7 +195,7 @@ Evolving Agents Framework 是一个生产级框架，用于创建、管理和**�
 <small>🔗 [rodyne.com](https://rodyne.com/?p=1828): With AI you need to think bigger</small>
 
 
-| 🔥🔥: 112 \| 💬: [71](https://news.ycombinator.com/item?id=43312652) \| 🗓️ 2025-03-09
+| 🔥🔥: 112 \| 💬: [72](https://news.ycombinator.com/item?id=43312652) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -219,7 +219,7 @@ Evolving Agents Framework 是一个生产级框架，用于创建、管理和**�
 <small>🔗 [phoronix.com](https://www.phoronix.com/news/Wine-Framework-Mono-6.14): Wine Releases Framework Mono 6.14 in Taking over the Mono Project</small>
 
 
-| 🔥: 92 \| 💬: [18](https://news.ycombinator.com/item?id=43313706) \| 🗓️ 2025-03-09
+| 🔥: 94 \| 💬: [20](https://news.ycombinator.com/item?id=43313706) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -227,27 +227,27 @@ Wine近日发布了**Framework Mono 6.14**，这是自微软将Mono项目捐赠�
 
 ---
 
-## <a name="18"></a>18. 用Rust重写Linux核心工具包 
-<small>🔗 [lwn.net](https://lwn.net/Articles/1007907/): Rewriting essential Linux packages in Rust</small>
-
-
-| 🔥: 88 \| 💬: [124](https://news.ycombinator.com/item?id=43311149) \| 🗓️ 2025-03-09
-
-
-<br />
-在FOSDEM 2025上，Sylvestre Ledru介绍了用Rust重写GNU核心工具包（coreutils）的项目**uutils**。该项目旨在提供更安全、性能更高的替代工具，目前已支持Linux、macOS、Windows等多个平台。Ledru强调，Rust的**可移植性**和**安全性**使其成为理想选择，尽管GNU工具已经很安全。项目已通过近500个GNU测试，部分工具性能甚至优于原版。未来，团队计划继续重写更多Linux核心工具，推动社区向现代编程语言过渡。
-
----
-
-## <a name="19"></a>19. Orange Pi RV2：搭载8核RISC-V处理器的单板电脑 
+## <a name="18"></a>18. Orange Pi RV2：搭载8核RISC-V处理器的单板电脑 
 <small>🔗 [liliputing.com](https://liliputing.com/orange-pi-rv2-is-a-single-board-pc-with-an-8-core-risc-v-processor/): Orange Pi RV2 is a single-board PC with an 8-core RISC-V processor</small>
 
 
-| 🔥: 87 \| 💬: [25](https://news.ycombinator.com/item?id=43309376) \| 🗓️ 2025-03-09
+| 🔥: 88 \| 💬: [25](https://news.ycombinator.com/item?id=43309376) \| 🗓️ 2025-03-09
 
 
 <br />
 Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**30美元**。相比前代，RV2不仅处理器性能提升，还增加了**双千兆以太网端口**和**双PCIe 2.0接口**。支持WiFi 6、蓝牙5.0，并配备丰富的接口，适合开发者和爱好者使用。
+
+---
+
+## <a name="19"></a>19. 用Rust重写Linux核心工具包 
+<small>🔗 [lwn.net](https://lwn.net/Articles/1007907/): Rewriting essential Linux packages in Rust</small>
+
+
+| 🔥: 88 \| 💬: [126](https://news.ycombinator.com/item?id=43311149) \| 🗓️ 2025-03-09
+
+
+<br />
+在FOSDEM 2025上，Sylvestre Ledru介绍了用Rust重写GNU核心工具包（coreutils）的项目**uutils**。该项目旨在提供更安全、性能更高的替代工具，目前已支持Linux、macOS、Windows等多个平台。Ledru强调，Rust的**可移植性**和**安全性**使其成为理想选择，尽管GNU工具已经很安全。项目已通过近500个GNU测试，部分工具性能甚至优于原版。未来，团队计划继续重写更多Linux核心工具，推动社区向现代编程语言过渡。
 
 ---
 
@@ -267,7 +267,7 @@ Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**
 <small>🔗 [publicnotice.co](https://www.publicnotice.co/p/despite-the-hype-doge-hasnt-found): Despite the hype, DOGE hasn't found a shred of fraud</small>
 
 
-| 🔥: 71 \| 💬: [20](https://news.ycombinator.com/item?id=43313304) \| 🗓️ 2025-03-09
+| 🔥: 72 \| 💬: [20](https://news.ycombinator.com/item?id=43313304) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -279,7 +279,7 @@ Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**
 <small>🔗 [jchandra.com](https://jchandra.com/posts/data-infra/): We built a modern data stack from scratch and reduced our bill by 70%</small>
 
 
-| 🔥: 69 \| 💬: [47](https://news.ycombinator.com/item?id=43312199) \| 🗓️ 2025-03-09
+| 🔥: 69 \| 💬: [48](https://news.ycombinator.com/item?id=43312199) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -291,7 +291,7 @@ Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**
 <small>🔗 [dmitri.shuralyov.com](https://dmitri.shuralyov.com/idiomatic-go): Idiomatic Go (2016)</small>
 
 
-| 🔥: 66 \| 💬: [49](https://news.ycombinator.com/item?id=43313522) \| 🗓️ 2025-03-09
+| 🔥: 68 \| 💬: [52](https://news.ycombinator.com/item?id=43313522) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -303,7 +303,7 @@ Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**
 <small>🔗 [saigaddam.medium.com](https://saigaddam.medium.com/where-are-all-the-self-directed-learners-ccfb2421e52c): Where are all the self-directed learners?</small>
 
 
-| 🔥: 64 \| 💬: [98](https://news.ycombinator.com/item?id=43307572) \| 🗓️ 2025-03-09
+| 🔥: 64 \| 💬: [99](https://news.ycombinator.com/item?id=43307572) \| 🗓️ 2025-03-09
 
 
 <br />
