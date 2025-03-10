@@ -12,7 +12,7 @@ tags:
 1. 仿佛你在玩手机；
 1. 裁员无效：为什么裁员对企业有害无益；
 1. Gleam v1.9 发布：调试、依赖管理与性能优化；
-1. 欧洲再次押注RISC-V，推动超级计算自主化；
+1. 使用Claude Code几天的体验；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [ukrainetoday.org](https://ukrainetoday.org/us-ends-support-for-ukrainian-f-16s-but-french-mirages-will-be-salvation-forbes/): US Ends Support For Ukrainian F-16s</small>
 
 
-| 🔥🔥: 979 \| 💬: [1841](https://news.ycombinator.com/item?id=43307996) \| 🗓️ 2025-03-09
+| 🔥🔥: 993 \| 💬: [1867](https://news.ycombinator.com/item?id=43307996) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [pippinbarr.com](https://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/): It is as if you were on your phone</small>
 
 
-| 🔥🔥: 489 \| 💬: [78](https://news.ycombinator.com/item?id=43308994) \| 🗓️ 2025-03-09
+| 🔥🔥: 508 \| 💬: [79](https://news.ycombinator.com/item?id=43308994) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [thehustle.co](https://thehustle.co/originals/why-layoffs-dont-work): Layoffs Don't Work</small>
 
 
-| 🔥🔥: 314 \| 💬: [534](https://news.ycombinator.com/item?id=43307755) \| 🗓️ 2025-03-09
+| 🔥🔥: 317 \| 💬: [536](https://news.ycombinator.com/item?id=43307755) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [gleam.run](https://gleam.run/news/hello-echo-hello-git/): Gleam v1.9</small>
 
 
-| 🔥🔥: 196 \| 💬: [45](https://news.ycombinator.com/item?id=43307987) \| 🗓️ 2025-03-09
+| 🔥🔥: 199 \| 💬: [46](https://news.ycombinator.com/item?id=43307987) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -71,35 +71,11 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 
 ---
 
-## <a name="5"></a>5. 欧洲再次押注RISC-V，推动超级计算自主化 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/03/07/dare_europe_risc_v_project/): Europe bets once again on RISC-V for supercomputing</small>
-
-
-| 🔥🔥: 182 \| 💬: [175](https://news.ycombinator.com/item?id=43311091) \| 🗓️ 2025-03-09
-
-
-<br />
-欧洲启动**DARE项目**，旨在开发基于**RISC-V架构**的处理器芯片，以提升超级计算和AI领域的自主性。该项目由38家科技公司参与，获得2.4亿欧元资助，计划在三年内开发三款芯片，分别用于高性能计算、AI推理和通用处理。此举旨在减少对美国技术的依赖，推动欧洲的**数字主权**。
-
----
-
-## <a name="6"></a>6. 特斯拉全球销量暴跌，德国、澳大利亚、中国市场受挫 
-<small>🔗 [carscoops.com](https://www.carscoops.com/2025/03/tesla-sales-falling-off-a-cliff-globally-including-germany-australia-and-china/): Tesla Sales Fall Off a Cliff Globally, Including Germany, Australia, and China</small>
-
-
-| 🔥🔥: 181 \| 💬: [199](https://news.ycombinator.com/item?id=43313127) \| 🗓️ 2025-03-09
-
-
-<br />
-2025年初，**特斯拉**在多个主要市场遭遇严重下滑。德国1月和2月销量分别下降**59.5%**和**76.3%**，澳大利亚前两个月销量下降**65.5%**，中国2月销量也暴跌**49.16%**。尽管全球电动车市场增长，特斯拉的市场份额却在萎缩，面临来自本地竞争对手的激烈挑战。
-
----
-
-## <a name="7"></a>7. 使用Claude Code几天的体验 
+## <a name="5"></a>5. 使用Claude Code几天的体验 
 <small>🔗 [twitter.com](https://twitter.com/Steve_Yegge/status/1898674257808515242): I've been using Claude Code for a couple of days</small>
 
 
-| 🔥🔥: 177 \| 💬: [244](https://news.ycombinator.com/item?id=43307809) \| 🗓️ 2025-03-09
+| 🔥🔥: 198 \| 💬: [260](https://news.ycombinator.com/item?id=43307809) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -107,71 +83,47 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 
 ---
 
-## <a name="8"></a>8. 进化智能体框架：打造协作式AI生态系统 
-<small>🔗 [github.com](https://github.com/matiasmolinas/evolving-agents): Show HN: Evolving Agents Framework</small>
+## <a name="6"></a>6. 特斯拉全球销量暴跌，德国、澳大利亚、中国市场受挫 
+<small>🔗 [carscoops.com](https://www.carscoops.com/2025/03/tesla-sales-falling-off-a-cliff-globally-including-germany-australia-and-china/): Tesla Sales Fall Off a Cliff Globally, Including Germany, Australia, and China</small>
 
 
-| 🔥: 97 \| 💬: [17](https://news.ycombinator.com/item?id=43310963) \| 🗓️ 2025-03-09
-
-
-<br />
-Evolving Agents Framework 是一个生产级框架，用于创建、管理和**进化AI智能体**。它支持智能体之间的**语义通信**，能够根据需求动态复用、进化或创建智能体。框架提供**语义搜索**、YAML工作流定义和多框架集成，适用于复杂任务的协作与自动化。通过**持续进化**，智能体能够不断优化性能，适用于文档处理、财务分析等多个领域。
-
----
-
-## <a name="9"></a>9. 用Rust重写Linux核心工具包 
-<small>🔗 [lwn.net](https://lwn.net/Articles/1007907/): Rewriting essential Linux packages in Rust</small>
-
-
-| 🔥: 87 \| 💬: [104](https://news.ycombinator.com/item?id=43311149) \| 🗓️ 2025-03-09
+| 🔥🔥: 187 \| 💬: [212](https://news.ycombinator.com/item?id=43313127) \| 🗓️ 2025-03-09
 
 
 <br />
-在FOSDEM 2025上，Sylvestre Ledru介绍了用Rust重写GNU核心工具包（coreutils）的项目**uutils**。该项目旨在提供更安全、性能更高的替代工具，目前已支持Linux、macOS、Windows等多个平台。Ledru强调，Rust的**可移植性**和**安全性**使其成为理想选择，尽管GNU工具已经很安全。项目已通过近500个GNU测试，部分工具性能甚至优于原版。未来，团队计划继续重写更多Linux核心工具，推动社区向现代编程语言过渡。
+2025年初，**特斯拉**在多个主要市场遭遇严重下滑。德国1月和2月销量分别下降**59.5%**和**76.3%**，澳大利亚前两个月销量下降**65.5%**，中国2月销量也暴跌**49.16%**。尽管全球电动车市场增长，特斯拉的市场份额却在萎缩，面临来自本地竞争对手的激烈挑战。
 
 ---
 
-## <a name="10"></a>10. 鸡蛋价格暴涨背后的阴谋：一场大调查 
-<small>🔗 [thebignewsletter.com](https://www.thebignewsletter.com/p/hatching-a-conspiracy-a-big-investigation): An investigation into egg prices</small>
+## <a name="7"></a>7. 欧洲再次押注RISC-V，推动超级计算自主化 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/03/07/dare_europe_risc_v_project/): Europe bets once again on RISC-V for supercomputing</small>
 
 
-| 🔥: 84 \| 💬: [37](https://news.ycombinator.com/item?id=43311696) \| 🗓️ 2025-03-09
+| 🔥🔥: 185 \| 💬: [178](https://news.ycombinator.com/item?id=43311091) \| 🗓️ 2025-03-09
 
 
 <br />
-近年来，鸡蛋价格飙升53%，甚至出现短缺。尽管**禽流感**被认为是主要原因，但数据显示，鸡蛋产量仅下降3-5%，需求反而减少10%。与此同时，**Cal-Maine Foods**等大型鸡蛋生产商的利润却创下历史新高。调查发现，鸡蛋供应链被少数公司垄断，**寡头企业**通过限制产量维持高价，导致消费者负担加重。
+欧洲启动**DARE项目**，旨在开发基于**RISC-V架构**的处理器芯片，以提升超级计算和AI领域的自主性。该项目由38家科技公司参与，获得2.4亿欧元资助，计划在三年内开发三款芯片，分别用于高性能计算、AI推理和通用处理。此举旨在减少对美国技术的依赖，推动欧洲的**数字主权**。
 
 ---
 
-## <a name="11"></a>11. Orange Pi RV2：搭载8核RISC-V处理器的单板电脑 
-<small>🔗 [liliputing.com](https://liliputing.com/orange-pi-rv2-is-a-single-board-pc-with-an-8-core-risc-v-processor/): Orange Pi RV2 is a single-board PC with an 8-core RISC-V processor</small>
+## <a name="8"></a>8. 苹果的“飞地”技术：XNU内核的安全革新 
+<small>🔗 [randomaugustine.medium.com](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194): Apple Exclaves</small>
 
 
-| 🔥: 77 \| 💬: [21](https://news.ycombinator.com/item?id=43309376) \| 🗓️ 2025-03-09
+| 🔥🔥: 105 \| 💬: [14](https://news.ycombinator.com/item?id=43314657) \| 🗓️ 2025-03-09
 
 
 <br />
-Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**30美元**。相比前代，RV2不仅处理器性能提升，还增加了**双千兆以太网端口**和**双PCIe 2.0接口**。支持WiFi 6、蓝牙5.0，并配备丰富的接口，适合开发者和爱好者使用。
+苹果通过**XNU Exclaves**技术大幅提升了其操作系统的安全性。Exclaves是一种资源隔离机制，即使内核被攻破，这些资源仍能保持安全。XNU引入了**Secure Kernel (SK)**，基于seL4微内核，运行在**ARM TrustZone**的“安全世界”中，进一步隔离关键功能。这一设计通过**Secure Page Table Monitor (SPTM)**等技术，增强了内存和服务的保护，减少了内核漏洞的影响。
 
 ---
 
-## <a name="12"></a>12. 借助AI，你可以想得更大 
-<small>🔗 [rodyne.com](https://rodyne.com/?p=1828): With AI you need to think bigger</small>
-
-
-| 🔥: 77 \| 💬: [35](https://news.ycombinator.com/item?id=43312652) \| 🗓️ 2025-03-09
-
-
-<br />
-作者回顾了过去12个月的经历，发现**AI**让他不再害怕面对复杂或庞大的项目。过去因技术难度或时间成本而放弃的项目，如今在**AI工具**的帮助下变得轻而易举。例如，他仅用两小时就完成了一个原本需要六周的机器学习项目。AI不仅简化了开发过程，还让他重新审视自己的能力，激发了对更大项目的信心。这是一个充满机遇的时代。
-
----
-
-## <a name="13"></a>13. 萨尔瓦多的加密货币实验以失败告终 
+## <a name="9"></a>9. 萨尔瓦多的加密货币实验以失败告终 
 <small>🔗 [economist.com](https://www.economist.com/finance-and-economics/2025/03/02/el-salvadors-wild-crypto-experiment-ends-in-failure): El Salvador's crypto experiment ends in failure</small>
 
 
-| 🔥: 74 \| 💬: [34](https://news.ycombinator.com/item?id=43314334) \| 🗓️ 2025-03-09
+| 🔥🔥: 104 \| 💬: [70](https://news.ycombinator.com/item?id=43314334) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -179,35 +131,71 @@ Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**
 
 ---
 
-## <a name="14"></a>14. DOGE政府削减计划或对企业造成冲击，公司警告投资者 
-<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/business/2025/03/09/doge-companies-warnings-sec-filings/): DOGE's government cuts may hurt business, companies warn investors</small>
+## <a name="10"></a>10. 鸡蛋价格暴涨背后的阴谋：一场大调查 
+<small>🔗 [thebignewsletter.com](https://www.thebignewsletter.com/p/hatching-a-conspiracy-a-big-investigation): An investigation into egg prices</small>
 
 
-| 🔥: 72 \| 💬: [26](https://news.ycombinator.com/item?id=43313792) \| 🗓️ 2025-03-09
-
-
-<br />
-随着**Elon Musk**领导的**DOGE（政府效率部）**在联邦政府内推行大规模削减计划，企业界开始感受到不确定性和潜在的业务冲击。多家公司，尤其是依赖政府合同的行业如**国防、医疗和房地产**，已在季度报告中警告投资者，这些变化可能对其盈利产生负面影响。尽管部分高管公开表示乐观，但SEC文件显示，许多公司对DOGE的潜在影响感到担忧，尤其是合同取消和预算削减带来的不确定性。投资者也在观望，相关公司股价已显著落后于大盘。
-
----
-
-## <a name="15"></a>15. 尽管炒作不断，DOGE未发现任何欺诈行为 
-<small>🔗 [publicnotice.co](https://www.publicnotice.co/p/despite-the-hype-doge-hasnt-found): Despite the hype, DOGE hasn't found a shred of fraud</small>
-
-
-| 🔥: 65 \| 💬: [19](https://news.ycombinator.com/item?id=43313304) \| 🗓️ 2025-03-09
+| 🔥🔥: 102 \| 💬: [51](https://news.ycombinator.com/item?id=43311696) \| 🗓️ 2025-03-09
 
 
 <br />
-尽管特朗普和马斯克大力宣传DOGE旨在根除政府机构的**欺诈和浪费**，但一个月过去了，DOGE并未发现任何欺诈行为。相反，DOGE主要取消了特朗普和共和党不支持的政府项目，并解雇了不忠于特朗普的雇员。DOGE声称节省了550亿美元，但实际数据仅为160亿美元，且部分“节省”来自重复计算或已支付的合同。DOGE的真正目的似乎是**取消不符合特朗普政策的项目**，而非真正打击欺诈。
+近年来，鸡蛋价格飙升53%，甚至出现短缺。尽管**禽流感**被认为是主要原因，但数据显示，鸡蛋产量仅下降3-5%，需求反而减少10%。与此同时，**Cal-Maine Foods**等大型鸡蛋生产商的利润却创下历史新高。调查发现，鸡蛋供应链被少数公司垄断，**寡头企业**通过限制产量维持高价，导致消费者负担加重。
 
 ---
 
-## <a name="16"></a>16. 苹果通过“飞地”重构XNU内核以增强安全性 
+## <a name="11"></a>11. 进化智能体框架：打造协作式AI生态系统 
+<small>🔗 [github.com](https://github.com/matiasmolinas/evolving-agents): Show HN: Evolving Agents Framework</small>
+
+
+| 🔥🔥: 101 \| 💬: [17](https://news.ycombinator.com/item?id=43310963) \| 🗓️ 2025-03-09
+
+
+<br />
+Evolving Agents Framework 是一个生产级框架，用于创建、管理和**进化AI智能体**。它支持智能体之间的**语义通信**，能够根据需求动态复用、进化或创建智能体。框架提供**语义搜索**、YAML工作流定义和多框架集成，适用于复杂任务的协作与自动化。通过**持续进化**，智能体能够不断优化性能，适用于文档处理、财务分析等多个领域。
+
+---
+
+## <a name="12"></a>12. 借助AI，你可以想得更大 
+<small>🔗 [rodyne.com](https://rodyne.com/?p=1828): With AI you need to think bigger</small>
+
+
+| 🔥: 94 \| 💬: [52](https://news.ycombinator.com/item?id=43312652) \| 🗓️ 2025-03-09
+
+
+<br />
+作者回顾了过去12个月的经历，发现**AI**让他不再害怕面对复杂或庞大的项目。过去因技术难度或时间成本而放弃的项目，如今在**AI工具**的帮助下变得轻而易举。例如，他仅用两小时就完成了一个原本需要六周的机器学习项目。AI不仅简化了开发过程，还让他重新审视自己的能力，激发了对更大项目的信心。这是一个充满机遇的时代。
+
+---
+
+## <a name="13"></a>13. 用Rust重写Linux核心工具包 
+<small>🔗 [lwn.net](https://lwn.net/Articles/1007907/): Rewriting essential Linux packages in Rust</small>
+
+
+| 🔥: 87 \| 💬: [107](https://news.ycombinator.com/item?id=43311149) \| 🗓️ 2025-03-09
+
+
+<br />
+在FOSDEM 2025上，Sylvestre Ledru介绍了用Rust重写GNU核心工具包（coreutils）的项目**uutils**。该项目旨在提供更安全、性能更高的替代工具，目前已支持Linux、macOS、Windows等多个平台。Ledru强调，Rust的**可移植性**和**安全性**使其成为理想选择，尽管GNU工具已经很安全。项目已通过近500个GNU测试，部分工具性能甚至优于原版。未来，团队计划继续重写更多Linux核心工具，推动社区向现代编程语言过渡。
+
+---
+
+## <a name="14"></a>14. Orange Pi RV2：搭载8核RISC-V处理器的单板电脑 
+<small>🔗 [liliputing.com](https://liliputing.com/orange-pi-rv2-is-a-single-board-pc-with-an-8-core-risc-v-processor/): Orange Pi RV2 is a single-board PC with an 8-core RISC-V processor</small>
+
+
+| 🔥: 82 \| 💬: [21](https://news.ycombinator.com/item?id=43309376) \| 🗓️ 2025-03-09
+
+
+<br />
+Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**30美元**。相比前代，RV2不仅处理器性能提升，还增加了**双千兆以太网端口**和**双PCIe 2.0接口**。支持WiFi 6、蓝牙5.0，并配备丰富的接口，适合开发者和爱好者使用。
+
+---
+
+## <a name="15"></a>15. 苹果通过“飞地”重构XNU内核以增强安全性 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/08/kernel_sanders_apple_rearranges_xnu/): Apple rearranged its XNU kernel with exclaves</small>
 
 
-| 🔥: 63 \| 💬: [10](https://news.ycombinator.com/item?id=43314171) \| 🗓️ 2025-03-09
+| 🔥: 77 \| 💬: [10](https://news.ycombinator.com/item?id=43314171) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -215,7 +203,55 @@ Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**
 
 ---
 
-## <a name="17"></a>17. 自学者在哪？ 
+## <a name="16"></a>16. Ecosia与Qwant合作打造欧洲搜索引擎索引 
+<small>🔗 [blog.ecosia.org](https://blog.ecosia.org/eusp/): Ecosia is teaming up with Qwant to build a European search index</small>
+
+
+| 🔥: 74 \| 💬: [11](https://news.ycombinator.com/item?id=43311573) \| 🗓️ 2025-03-09
+
+
+<br />
+Ecosia与Qwant合作，计划在2025年推出**欧洲搜索引擎索引**，旨在提升欧洲的**数字主权**，并为未来AI技术提供透明、安全的数据基础。该项目将从法国和德国开始，逐步扩展，致力于打造一个**隐私优先**的搜索引擎索引，推动绿色科技发展。
+
+---
+
+## <a name="17"></a>17. DOGE政府削减计划或对企业造成冲击，公司警告投资者 
+<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/business/2025/03/09/doge-companies-warnings-sec-filings/): DOGE's government cuts may hurt business, companies warn investors</small>
+
+
+| 🔥: 74 \| 💬: [27](https://news.ycombinator.com/item?id=43313792) \| 🗓️ 2025-03-09
+
+
+<br />
+随着**Elon Musk**领导的**DOGE（政府效率部）**在联邦政府内推行大规模削减计划，企业界开始感受到不确定性和潜在的业务冲击。多家公司，尤其是依赖政府合同的行业如**国防、医疗和房地产**，已在季度报告中警告投资者，这些变化可能对其盈利产生负面影响。尽管部分高管公开表示乐观，但SEC文件显示，许多公司对DOGE的潜在影响感到担忧，尤其是合同取消和预算削减带来的不确定性。投资者也在观望，相关公司股价已显著落后于大盘。
+
+---
+
+## <a name="18"></a>18. 尽管炒作不断，DOGE未发现任何欺诈行为 
+<small>🔗 [publicnotice.co](https://www.publicnotice.co/p/despite-the-hype-doge-hasnt-found): Despite the hype, DOGE hasn't found a shred of fraud</small>
+
+
+| 🔥: 67 \| 💬: [20](https://news.ycombinator.com/item?id=43313304) \| 🗓️ 2025-03-09
+
+
+<br />
+尽管特朗普和马斯克大力宣传DOGE旨在根除政府机构的**欺诈和浪费**，但一个月过去了，DOGE并未发现任何欺诈行为。相反，DOGE主要取消了特朗普和共和党不支持的政府项目，并解雇了不忠于特朗普的雇员。DOGE声称节省了550亿美元，但实际数据仅为160亿美元，且部分“节省”来自重复计算或已支付的合同。DOGE的真正目的似乎是**取消不符合特朗普政策的项目**，而非真正打击欺诈。
+
+---
+
+## <a name="19"></a>19. 从零构建现代数据栈，成本降低70% 
+<small>🔗 [jchandra.com](https://jchandra.com/posts/data-infra/): We built a modern data stack from scratch and reduced our bill by 70%</small>
+
+
+| 🔥: 66 \| 💬: [42](https://news.ycombinator.com/item?id=43312199) \| 🗓️ 2025-03-09
+
+
+<br />
+一家金融科技初创公司通过构建**现代数据栈**，成功将基础设施成本降低了70%。他们采用**ELT架构**，利用Debezium、Airflow和Kafka等技术实现实时数据摄取，并通过S3存储和Trino查询优化数据处理。最终，通过**Medallion架构**（青铜、白银、黄金层）组织数据，显著提升了查询性能和数据质量。
+
+---
+
+## <a name="20"></a>20. 自学者在哪？ 
 <small>🔗 [saigaddam.medium.com](https://saigaddam.medium.com/where-are-all-the-self-directed-learners-ccfb2421e52c): Where are all the self-directed learners?</small>
 
 
@@ -227,19 +263,19 @@ Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**
 
 ---
 
-## <a name="18"></a>18. 从零构建现代数据栈，成本降低70% 
-<small>🔗 [jchandra.com](https://jchandra.com/posts/data-infra/): We built a modern data stack from scratch and reduced our bill by 70%</small>
+## <a name="21"></a>21. Go 语言最佳实践指南 
+<small>🔗 [dmitri.shuralyov.com](https://dmitri.shuralyov.com/idiomatic-go): Idiomatic Go (2016)</small>
 
 
-| 🔥: 61 \| 💬: [40](https://news.ycombinator.com/item?id=43312199) \| 🗓️ 2025-03-09
+| 🔥: 62 \| 💬: [44](https://news.ycombinator.com/item?id=43313522) \| 🗓️ 2025-03-09
 
 
 <br />
-一家金融科技初创公司通过构建**现代数据栈**，成功将基础设施成本降低了70%。他们采用**ELT架构**，利用Debezium、Airflow和Kafka等技术实现实时数据摄取，并通过S3存储和Trino查询优化数据处理。最终，通过**Medallion架构**（青铜、白银、黄金层）组织数据，显著提升了查询性能和数据质量。
+本文总结了 Go 语言中的一些**最佳实践**和**惯用写法**，旨在帮助开发者编写更符合 Go 风格的代码。内容包括**错误变量命名**、**注释格式**、**字符串空值检查**等细节，强调与 Go 项目的一致性。通过遵循这些建议，开发者可以提高代码的可读性和维护性。
 
 ---
 
-## <a name="19"></a>19. 博客文章通过单元测试：写作与AI的结合 
+## <a name="22"></a>22. 博客文章通过单元测试：写作与AI的结合 
 <small>🔗 [sealambda.com](https://www.sealambda.com/blog/this-post-passed-unit-tests/): This blog post passed unit tests</small>
 
 
@@ -251,19 +287,7 @@ Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**
 
 ---
 
-## <a name="20"></a>20. Go 语言最佳实践指南 
-<small>🔗 [dmitri.shuralyov.com](https://dmitri.shuralyov.com/idiomatic-go): Idiomatic Go (2016)</small>
-
-
-| 🔥: 57 \| 💬: [42](https://news.ycombinator.com/item?id=43313522) \| 🗓️ 2025-03-09
-
-
-<br />
-本文总结了 Go 语言中的一些**最佳实践**和**惯用写法**，旨在帮助开发者编写更符合 Go 风格的代码。内容包括**错误变量命名**、**注释格式**、**字符串空值检查**等细节，强调与 Go 项目的一致性。通过遵循这些建议，开发者可以提高代码的可读性和维护性。
-
----
-
-## <a name="21"></a>21. 如何判断何时该离职 
+## <a name="23"></a>23. 如何判断何时该离职 
 <small>🔗 [bitfieldconsulting.com](https://bitfieldconsulting.com/posts/when-its-time-to-go): How to know when it's time to go</small>
 
 
@@ -275,11 +299,11 @@ Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**
 
 ---
 
-## <a name="22"></a>22. TeX Live 2025 正式发布 
+## <a name="24"></a>24. TeX Live 2025 正式发布 
 <small>🔗 [texastim.dev](https://www.texastim.dev/tex-live-2025-iso-available-via-torrent/): TeX Live 2025 Released</small>
 
 
-| 🔥: 49 \| 💬: [43](https://news.ycombinator.com/item?id=43311367) \| 🗓️ 2025-03-09
+| 🔥: 50 \| 💬: [43](https://news.ycombinator.com/item?id=43311367) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -287,38 +311,14 @@ TeX Live 2025 ISO 现已发布，用户可通过多种方式获取：从 **CTAN 
 
 ---
 
-## <a name="23"></a>23. 双筒望远镜镜头合集 
+## <a name="25"></a>25. 双筒望远镜镜头合集 
 <small>🔗 [binocularshot.com](https://binocularshot.com/): Binocular Shot</small>
 
 
-| 🔥: 48 \| 💬: [22](https://news.ycombinator.com/item?id=43310253) \| 🗓️ 2025-03-09
+| 🔥: 49 \| 💬: [22](https://news.ycombinator.com/item?id=43310253) \| 🗓️ 2025-03-09
 
 
 <br />
 该网站收集了电影中**不准确的双筒望远镜镜头**（即两个重叠的圆圈，而非真实生活中的单一圆形）。目前收录了36部经典电影，包括《白噪音》（2022）。网站还提供RSS订阅更新，完整片单可在Letterboxd查看。最新镜头于2025年2月25日添加，所有片段版权归原所有者所有。
-
----
-
-## <a name="24"></a>24. Mako：极速、生产级的 Web 打包工具 
-<small>🔗 [makojs.dev](https://makojs.dev/): Mako: Fast, production-grade web bundler</small>
-
-
-| 🔥: 46 \| 💬: [28](https://news.ycombinator.com/item?id=43310047) \| 🗓️ 2025-03-09
-
-
-<br />
-Mako 是一款基于 Rust 的**极速、生产级** Web 打包工具，适用于 Web 应用、库和框架开发。它具备**零配置**、**热模块替换**和**代码分割**等特性，已在蚂蚁集团等公司的数百个生产项目中广泛应用。Mako 通过 Rust 核心和并行编译技术，性能远超其他打包工具，是现代化 Web 开发的理想选择。
-
----
-
-## <a name="25"></a>25. 马斯克用聊天机器人取代被解雇员工 
-<small>🔗 [gizmodo.com](https://gizmodo.com/doge-is-replacing-fired-workers-with-a-chatbot-2000573510): Doge Is Replacing Fired Workers with a Chatbot</small>
-
-
-| 🔥: 43 \| 💬: [39](https://news.ycombinator.com/item?id=43313521) \| 🗓️ 2025-03-09
-
-
-<br />
-美国总务管理局（GSA）在**Elon Musk**领导的政府效率部门（DOGE）推动下，解雇了数千名员工，并引入名为**GSAi**的聊天机器人来填补空缺。该机器人旨在协助处理**起草邮件、总结文本**等基础任务，但禁止处理敏感信息。尽管GSAi被员工评价为“像实习生一样”，但其开发初衷并非取代人力。此举引发了对AI替代人类工作的广泛讨论。
 
 ---
