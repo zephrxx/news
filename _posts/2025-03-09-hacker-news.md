@@ -27,7 +27,7 @@ tags:
 <small>🔗 [ukrainetoday.org](https://ukrainetoday.org/us-ends-support-for-ukrainian-f-16s-but-french-mirages-will-be-salvation-forbes/): US Ends Support For Ukrainian F-16s</small>
 
 
-| 🔥🔥: 1003 \| 💬: [1884](https://news.ycombinator.com/item?id=43307996) \| 🗓️ 2025-03-09
+| 🔥🔥: 1010 \| 💬: [1901](https://news.ycombinator.com/item?id=43307996) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [pippinbarr.com](https://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/): It is as if you were on your phone</small>
 
 
-| 🔥🔥: 534 \| 💬: [81](https://news.ycombinator.com/item?id=43308994) \| 🗓️ 2025-03-09
+| 🔥🔥: 559 \| 💬: [85](https://news.ycombinator.com/item?id=43308994) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [thehustle.co](https://thehustle.co/originals/why-layoffs-dont-work): Layoffs Don't Work</small>
 
 
-| 🔥🔥: 318 \| 💬: [557](https://news.ycombinator.com/item?id=43307755) \| 🗓️ 2025-03-09
+| 🔥🔥: 320 \| 💬: [566](https://news.ycombinator.com/item?id=43307755) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/Steve_Yegge/status/1898674257808515242): I've been using Claude Code for a couple of days</small>
 
 
-| 🔥🔥: 210 \| 💬: [269](https://news.ycombinator.com/item?id=43307809) \| 🗓️ 2025-03-09
+| 🔥🔥: 228 \| 💬: [284](https://news.ycombinator.com/item?id=43307809) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [gleam.run](https://gleam.run/news/hello-echo-hello-git/): Gleam v1.9</small>
 
 
-| 🔥🔥: 202 \| 💬: [46](https://news.ycombinator.com/item?id=43307987) \| 🗓️ 2025-03-09
+| 🔥🔥: 205 \| 💬: [46](https://news.ycombinator.com/item?id=43307987) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -87,7 +87,7 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 <small>🔗 [carscoops.com](https://www.carscoops.com/2025/03/tesla-sales-falling-off-a-cliff-globally-including-germany-australia-and-china/): Tesla Sales Fall Off a Cliff Globally, Including Germany, Australia, and China</small>
 
 
-| 🔥🔥: 191 \| 💬: [216](https://news.ycombinator.com/item?id=43313127) \| 🗓️ 2025-03-09
+| 🔥🔥: 193 \| 💬: [221](https://news.ycombinator.com/item?id=43313127) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -99,7 +99,7 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/07/dare_europe_risc_v_project/): Europe bets once again on RISC-V for supercomputing</small>
 
 
-| 🔥🔥: 187 \| 💬: [181](https://news.ycombinator.com/item?id=43311091) \| 🗓️ 2025-03-09
+| 🔥🔥: 188 \| 💬: [183](https://news.ycombinator.com/item?id=43311091) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -111,7 +111,7 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/mar/09/watchlist-decline-civic-freedoms-civicus): US added to international watchlist for rapid decline in civic freedoms</small>
 
 
-| 🔥🔥: 162 \| 💬: [106](https://news.ycombinator.com/item?id=43315629) \| 🗓️ 2025-03-09
+| 🔥🔥: 180 \| 💬: [141](https://news.ycombinator.com/item?id=43315629) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -123,7 +123,7 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 <small>🔗 [randomaugustine.medium.com](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194): Apple Exclaves</small>
 
 
-| 🔥🔥: 142 \| 💬: [26](https://news.ycombinator.com/item?id=43314657) \| 🗓️ 2025-03-09
+| 🔥🔥: 170 \| 💬: [36](https://news.ycombinator.com/item?id=43314657) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -135,7 +135,7 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 <small>🔗 [thebignewsletter.com](https://www.thebignewsletter.com/p/hatching-a-conspiracy-a-big-investigation): An investigation into egg prices</small>
 
 
-| 🔥🔥: 121 \| 💬: [83](https://news.ycombinator.com/item?id=43311696) \| 🗓️ 2025-03-09
+| 🔥🔥: 128 \| 💬: [100](https://news.ycombinator.com/item?id=43311696) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -143,11 +143,23 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 
 ---
 
-## <a name="11"></a>11. 萨尔瓦多的加密货币实验以失败告终 
+## <a name="11"></a>11. 国家射电天文台的电子设备老式柴油卡车 
+<small>🔗 [raoulpop.com](https://raoulpop.com/2012/04/15/chasing-rfi-waves-part-seven/): Electronics-free old diesel trucks of the national radio astronomy observatory</small>
+
+
+| 🔥🔥: 122 \| 💬: [42](https://news.ycombinator.com/item?id=43315406) \| 🗓️ 2025-03-09
+
+
+<br />
+国家射电天文台（NRAO）位于西弗吉尼亚州的格林班克，其车队由**老式柴油卡车**组成。这些卡车没有现代电子设备，避免了**射频干扰（RFI）**，确保不会干扰天文台的射电望远镜观测。尽管这些卡车看起来老旧，但它们在天文台的日常运营中至关重要。此外，NRAO还通过**40英尺教学望远镜**向学生和教师传授射电天文学知识，并与MIT合作进行大气研究。NRAO与当地社区的关系也逐渐改善，成为该地区的重要成员。
+
+---
+
+## <a name="12"></a>12. 萨尔瓦多的加密货币实验以失败告终 
 <small>🔗 [economist.com](https://www.economist.com/finance-and-economics/2025/03/02/el-salvadors-wild-crypto-experiment-ends-in-failure): El Salvador's crypto experiment ends in failure</small>
 
 
-| 🔥🔥: 111 \| 💬: [85](https://news.ycombinator.com/item?id=43314334) \| 🗓️ 2025-03-09
+| 🔥🔥: 114 \| 💬: [88](https://news.ycombinator.com/item?id=43314334) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -155,11 +167,11 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 
 ---
 
-## <a name="12"></a>12. 进化智能体框架：打造协作式AI生态系统 
+## <a name="13"></a>13. 进化智能体框架：打造协作式AI生态系统 
 <small>🔗 [github.com](https://github.com/matiasmolinas/evolving-agents): Show HN: Evolving Agents Framework</small>
 
 
-| 🔥🔥: 102 \| 💬: [17](https://news.ycombinator.com/item?id=43310963) \| 🗓️ 2025-03-09
+| 🔥🔥: 105 \| 💬: [17](https://news.ycombinator.com/item?id=43310963) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -167,11 +179,11 @@ Evolving Agents Framework 是一个生产级框架，用于创建、管理和**�
 
 ---
 
-## <a name="13"></a>13. 借助AI，你可以想得更大 
+## <a name="14"></a>14. 借助AI，你可以想得更大 
 <small>🔗 [rodyne.com](https://rodyne.com/?p=1828): With AI you need to think bigger</small>
 
 
-| 🔥🔥: 102 \| 💬: [65](https://news.ycombinator.com/item?id=43312652) \| 🗓️ 2025-03-09
+| 🔥🔥: 105 \| 💬: [68](https://news.ycombinator.com/item?id=43312652) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -179,23 +191,11 @@ Evolving Agents Framework 是一个生产级框架，用于创建、管理和**�
 
 ---
 
-## <a name="14"></a>14. 用Rust重写Linux核心工具包 
-<small>🔗 [lwn.net](https://lwn.net/Articles/1007907/): Rewriting essential Linux packages in Rust</small>
-
-
-| 🔥: 87 \| 💬: [112](https://news.ycombinator.com/item?id=43311149) \| 🗓️ 2025-03-09
-
-
-<br />
-在FOSDEM 2025上，Sylvestre Ledru介绍了用Rust重写GNU核心工具包（coreutils）的项目**uutils**。该项目旨在提供更安全、性能更高的替代工具，目前已支持Linux、macOS、Windows等多个平台。Ledru强调，Rust的**可移植性**和**安全性**使其成为理想选择，尽管GNU工具已经很安全。项目已通过近500个GNU测试，部分工具性能甚至优于原版。未来，团队计划继续重写更多Linux核心工具，推动社区向现代编程语言过渡。
-
----
-
 ## <a name="15"></a>15. Ecosia与Qwant合作打造欧洲搜索引擎索引 
 <small>🔗 [blog.ecosia.org](https://blog.ecosia.org/eusp/): Ecosia is teaming up with Qwant to build a European search index</small>
 
 
-| 🔥: 86 \| 💬: [13](https://news.ycombinator.com/item?id=43311573) \| 🗓️ 2025-03-09
+| 🔥: 97 \| 💬: [15](https://news.ycombinator.com/item?id=43311573) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -207,7 +207,7 @@ Ecosia与Qwant合作，计划在2025年推出**欧洲搜索引擎索引**，旨�
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/08/kernel_sanders_apple_rearranges_xnu/): Apple rearranged its XNU kernel with exclaves</small>
 
 
-| 🔥: 85 \| 💬: [10](https://news.ycombinator.com/item?id=43314171) \| 🗓️ 2025-03-09
+| 🔥: 94 \| 💬: [11](https://news.ycombinator.com/item?id=43314171) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -215,11 +215,23 @@ Ecosia与Qwant合作，计划在2025年推出**欧洲搜索引擎索引**，旨�
 
 ---
 
-## <a name="17"></a>17. Orange Pi RV2：搭载8核RISC-V处理器的单板电脑 
+## <a name="17"></a>17. 用Rust重写Linux核心工具包 
+<small>🔗 [lwn.net](https://lwn.net/Articles/1007907/): Rewriting essential Linux packages in Rust</small>
+
+
+| 🔥: 87 \| 💬: [118](https://news.ycombinator.com/item?id=43311149) \| 🗓️ 2025-03-09
+
+
+<br />
+在FOSDEM 2025上，Sylvestre Ledru介绍了用Rust重写GNU核心工具包（coreutils）的项目**uutils**。该项目旨在提供更安全、性能更高的替代工具，目前已支持Linux、macOS、Windows等多个平台。Ledru强调，Rust的**可移植性**和**安全性**使其成为理想选择，尽管GNU工具已经很安全。项目已通过近500个GNU测试，部分工具性能甚至优于原版。未来，团队计划继续重写更多Linux核心工具，推动社区向现代编程语言过渡。
+
+---
+
+## <a name="18"></a>18. Orange Pi RV2：搭载8核RISC-V处理器的单板电脑 
 <small>🔗 [liliputing.com](https://liliputing.com/orange-pi-rv2-is-a-single-board-pc-with-an-8-core-risc-v-processor/): Orange Pi RV2 is a single-board PC with an 8-core RISC-V processor</small>
 
 
-| 🔥: 84 \| 💬: [22](https://news.ycombinator.com/item?id=43309376) \| 🗓️ 2025-03-09
+| 🔥: 85 \| 💬: [23](https://news.ycombinator.com/item?id=43309376) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -227,23 +239,23 @@ Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**
 
 ---
 
-## <a name="18"></a>18. 国家射电天文台的电子设备老式柴油卡车 
-<small>🔗 [raoulpop.com](https://raoulpop.com/2012/04/15/chasing-rfi-waves-part-seven/): Electronics-free old diesel trucks of the national radio astronomy observatory</small>
+## <a name="19"></a>19. Wine发布Framework Mono 6.14，接管Mono项目 
+<small>🔗 [phoronix.com](https://www.phoronix.com/news/Wine-Framework-Mono-6.14): Wine Releases Framework Mono 6.14 in Taking over the Mono Project</small>
 
 
-| 🔥: 76 \| 💬: [25](https://news.ycombinator.com/item?id=43315406) \| 🗓️ 2025-03-09
+| 🔥: 78 \| 💬: [16](https://news.ycombinator.com/item?id=43313706) \| 🗓️ 2025-03-09
 
 
 <br />
-国家射电天文台（NRAO）位于西弗吉尼亚州的格林班克，其车队由**老式柴油卡车**组成。这些卡车没有现代电子设备，避免了**射频干扰（RFI）**，确保不会干扰天文台的射电望远镜观测。尽管这些卡车看起来老旧，但它们在天文台的日常运营中至关重要。此外，NRAO还通过**40英尺教学望远镜**向学生和教师传授射电天文学知识，并与MIT合作进行大气研究。NRAO与当地社区的关系也逐渐改善，成为该地区的重要成员。
+Wine近日发布了**Framework Mono 6.14**，这是自微软将Mono项目捐赠给Wine后的首个主要版本。该版本包含过去五年的多项改进，包括**macOS ARM64原生支持**和**X11的Windows Forms优化**。此次发布标志着Mono项目在WineHQ组织下的新起点，旨在与**.NET Framework**兼容。
 
 ---
 
-## <a name="19"></a>19. DOGE政府削减计划或对企业造成冲击，公司警告投资者 
+## <a name="20"></a>20. DOGE政府削减计划或对企业造成冲击，公司警告投资者 
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/business/2025/03/09/doge-companies-warnings-sec-filings/): DOGE's government cuts may hurt business, companies warn investors</small>
 
 
-| 🔥: 75 \| 💬: [28](https://news.ycombinator.com/item?id=43313792) \| 🗓️ 2025-03-09
+| 🔥: 76 \| 💬: [28](https://news.ycombinator.com/item?id=43313792) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -251,11 +263,11 @@ Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**
 
 ---
 
-## <a name="20"></a>20. 尽管炒作不断，DOGE未发现任何欺诈行为 
+## <a name="21"></a>21. 尽管炒作不断，DOGE未发现任何欺诈行为 
 <small>🔗 [publicnotice.co](https://www.publicnotice.co/p/despite-the-hype-doge-hasnt-found): Despite the hype, DOGE hasn't found a shred of fraud</small>
 
 
-| 🔥: 69 \| 💬: [21](https://news.ycombinator.com/item?id=43313304) \| 🗓️ 2025-03-09
+| 🔥: 70 \| 💬: [20](https://news.ycombinator.com/item?id=43313304) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -263,11 +275,11 @@ Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**
 
 ---
 
-## <a name="21"></a>21. 从零构建现代数据栈，成本降低70% 
+## <a name="22"></a>22. 从零构建现代数据栈，成本降低70% 
 <small>🔗 [jchandra.com](https://jchandra.com/posts/data-infra/): We built a modern data stack from scratch and reduced our bill by 70%</small>
 
 
-| 🔥: 68 \| 💬: [44](https://news.ycombinator.com/item?id=43312199) \| 🗓️ 2025-03-09
+| 🔥: 68 \| 💬: [45](https://news.ycombinator.com/item?id=43312199) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -275,11 +287,11 @@ Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**
 
 ---
 
-## <a name="22"></a>22. Go 语言最佳实践指南 
+## <a name="23"></a>23. Go 语言最佳实践指南 
 <small>🔗 [dmitri.shuralyov.com](https://dmitri.shuralyov.com/idiomatic-go): Idiomatic Go (2016)</small>
 
 
-| 🔥: 63 \| 💬: [46](https://news.ycombinator.com/item?id=43313522) \| 🗓️ 2025-03-09
+| 🔥: 64 \| 💬: [48](https://news.ycombinator.com/item?id=43313522) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -287,11 +299,11 @@ Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**
 
 ---
 
-## <a name="23"></a>23. 自学者在哪？ 
+## <a name="24"></a>24. 自学者在哪？ 
 <small>🔗 [saigaddam.medium.com](https://saigaddam.medium.com/where-are-all-the-self-directed-learners-ccfb2421e52c): Where are all the self-directed learners?</small>
 
 
-| 🔥: 62 \| 💬: [97](https://news.ycombinator.com/item?id=43307572) \| 🗓️ 2025-03-09
+| 🔥: 62 \| 💬: [98](https://news.ycombinator.com/item?id=43307572) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -299,7 +311,7 @@ Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**
 
 ---
 
-## <a name="24"></a>24. 博客文章通过单元测试：写作与AI的结合 
+## <a name="25"></a>25. 博客文章通过单元测试：写作与AI的结合 
 <small>🔗 [sealambda.com](https://www.sealambda.com/blog/this-post-passed-unit-tests/): This blog post passed unit tests</small>
 
 
@@ -308,17 +320,5 @@ Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**
 
 <br />
 本文探讨了如何利用**大型语言模型（LLM）**辅助写作，特别是通过**单元测试**的方式确保文章质量。作者分享了自己开发的工具**unit-text**，帮助写作者在写作过程中获得即时反馈，确保文章内容符合目标。文章还强调了**人类反馈**的重要性，并建议结合AI工具与人类审阅，以提升写作效果。
-
----
-
-## <a name="25"></a>25. 如何判断何时该离职 
-<small>🔗 [bitfieldconsulting.com](https://bitfieldconsulting.com/posts/when-its-time-to-go): How to know when it's time to go</small>
-
-
-| 🔥: 56 \| 💬: [56](https://news.ycombinator.com/item?id=43307941) \| 🗓️ 2025-03-09
-
-
-<br />
-文章探讨了何时该离职的迹象。**舒适陷阱**会让你停滞不前，而**彼得原则**解释了为何高层可能能力不足。**死海效应**指出优秀员工往往最先离开，留下能力较弱的员工。公司不会真正关心你，HR的存在是为了保护公司利益。离职时应避免**离职面谈**，以免损害未来机会。
 
 ---
