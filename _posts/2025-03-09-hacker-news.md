@@ -11,8 +11,8 @@ tags:
 1. 美国终止对乌克兰F-16的支持，法国幻影战机成救星；
 1. 仿佛你在玩手机；
 1. 裁员无效：为什么裁员对企业有害无益；
-1. Gleam v1.9 发布：调试、依赖管理与性能优化；
 1. 使用Claude Code几天的体验；
+1. Gleam v1.9 发布：调试、依赖管理与性能优化；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [ukrainetoday.org](https://ukrainetoday.org/us-ends-support-for-ukrainian-f-16s-but-french-mirages-will-be-salvation-forbes/): US Ends Support For Ukrainian F-16s</small>
 
 
-| 🔥🔥: 993 \| 💬: [1867](https://news.ycombinator.com/item?id=43307996) \| 🗓️ 2025-03-09
+| 🔥🔥: 1003 \| 💬: [1884](https://news.ycombinator.com/item?id=43307996) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [pippinbarr.com](https://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/): It is as if you were on your phone</small>
 
 
-| 🔥🔥: 508 \| 💬: [79](https://news.ycombinator.com/item?id=43308994) \| 🗓️ 2025-03-09
+| 🔥🔥: 534 \| 💬: [81](https://news.ycombinator.com/item?id=43308994) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [thehustle.co](https://thehustle.co/originals/why-layoffs-dont-work): Layoffs Don't Work</small>
 
 
-| 🔥🔥: 317 \| 💬: [536](https://news.ycombinator.com/item?id=43307755) \| 🗓️ 2025-03-09
+| 🔥🔥: 318 \| 💬: [557](https://news.ycombinator.com/item?id=43307755) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -59,23 +59,11 @@ tags:
 
 ---
 
-## <a name="4"></a>4. Gleam v1.9 发布：调试、依赖管理与性能优化 
-<small>🔗 [gleam.run](https://gleam.run/news/hello-echo-hello-git/): Gleam v1.9</small>
-
-
-| 🔥🔥: 199 \| 💬: [46](https://news.ycombinator.com/item?id=43307987) \| 🗓️ 2025-03-09
-
-
-<br />
-Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支持在发布前自动检测调试代码。新增的**Git依赖管理**功能允许开发者使用未发布的库版本。此外，JavaScript运行时的**位数组**和**列表模式匹配**性能得到显著提升。语言服务器也增加了多项代码重构功能，如**JSON编码生成**和**变量内联**，进一步提升了开发效率。
-
----
-
-## <a name="5"></a>5. 使用Claude Code几天的体验 
+## <a name="4"></a>4. 使用Claude Code几天的体验 
 <small>🔗 [twitter.com](https://twitter.com/Steve_Yegge/status/1898674257808515242): I've been using Claude Code for a couple of days</small>
 
 
-| 🔥🔥: 198 \| 💬: [260](https://news.ycombinator.com/item?id=43307809) \| 🗓️ 2025-03-09
+| 🔥🔥: 210 \| 💬: [269](https://news.ycombinator.com/item?id=43307809) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -83,11 +71,23 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 
 ---
 
+## <a name="5"></a>5. Gleam v1.9 发布：调试、依赖管理与性能优化 
+<small>🔗 [gleam.run](https://gleam.run/news/hello-echo-hello-git/): Gleam v1.9</small>
+
+
+| 🔥🔥: 202 \| 💬: [46](https://news.ycombinator.com/item?id=43307987) \| 🗓️ 2025-03-09
+
+
+<br />
+Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支持在发布前自动检测调试代码。新增的**Git依赖管理**功能允许开发者使用未发布的库版本。此外，JavaScript运行时的**位数组**和**列表模式匹配**性能得到显著提升。语言服务器也增加了多项代码重构功能，如**JSON编码生成**和**变量内联**，进一步提升了开发效率。
+
+---
+
 ## <a name="6"></a>6. 特斯拉全球销量暴跌，德国、澳大利亚、中国市场受挫 
 <small>🔗 [carscoops.com](https://www.carscoops.com/2025/03/tesla-sales-falling-off-a-cliff-globally-including-germany-australia-and-china/): Tesla Sales Fall Off a Cliff Globally, Including Germany, Australia, and China</small>
 
 
-| 🔥🔥: 187 \| 💬: [212](https://news.ycombinator.com/item?id=43313127) \| 🗓️ 2025-03-09
+| 🔥🔥: 191 \| 💬: [216](https://news.ycombinator.com/item?id=43313127) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -99,7 +99,7 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/07/dare_europe_risc_v_project/): Europe bets once again on RISC-V for supercomputing</small>
 
 
-| 🔥🔥: 185 \| 💬: [178](https://news.ycombinator.com/item?id=43311091) \| 🗓️ 2025-03-09
+| 🔥🔥: 187 \| 💬: [181](https://news.ycombinator.com/item?id=43311091) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -107,11 +107,23 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 
 ---
 
-## <a name="8"></a>8. 苹果的“飞地”技术：XNU内核的安全革新 
+## <a name="8"></a>8. 美国被列入公民自由快速下降国际观察名单 
+<small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/mar/09/watchlist-decline-civic-freedoms-civicus): US added to international watchlist for rapid decline in civic freedoms</small>
+
+
+| 🔥🔥: 162 \| 💬: [106](https://news.ycombinator.com/item?id=43315629) \| 🗓️ 2025-03-09
+
+
+<br />
+国际非营利组织Civicus将美国列入2025年首个观察名单，称其公民自由正在迅速恶化。该组织批评**特朗普政府**对民主规范和全球合作的攻击，包括解雇联邦雇员、退出国际组织以及限制媒体访问等行为。美国目前的公民自由评级为“受限”，并可能进一步恶化至“受阻”。Civicus警告称，这些行动可能削弱**宪法原则**，并助长全球威权主义。
+
+---
+
+## <a name="9"></a>9. 苹果的“飞地”技术：XNU内核的安全革新 
 <small>🔗 [randomaugustine.medium.com](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194): Apple Exclaves</small>
 
 
-| 🔥🔥: 105 \| 💬: [14](https://news.ycombinator.com/item?id=43314657) \| 🗓️ 2025-03-09
+| 🔥🔥: 142 \| 💬: [26](https://news.ycombinator.com/item?id=43314657) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -119,23 +131,11 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 
 ---
 
-## <a name="9"></a>9. 萨尔瓦多的加密货币实验以失败告终 
-<small>🔗 [economist.com](https://www.economist.com/finance-and-economics/2025/03/02/el-salvadors-wild-crypto-experiment-ends-in-failure): El Salvador's crypto experiment ends in failure</small>
-
-
-| 🔥🔥: 104 \| 💬: [70](https://news.ycombinator.com/item?id=43314334) \| 🗓️ 2025-03-09
-
-
-<br />
-自2019年纳伊布·布克莱总统上任以来，萨尔瓦多一直处于**违约边缘**。高债务、低外汇储备和疲软的经济增长使该国陷入困境。布克莱对司法、反对派和媒体的攻击进一步削弱了信心。最终，萨尔瓦多不得不放弃其**加密货币实验**，以换取国际货币基金组织的救助。这一决定被认为是必要的代价。
-
----
-
 ## <a name="10"></a>10. 鸡蛋价格暴涨背后的阴谋：一场大调查 
 <small>🔗 [thebignewsletter.com](https://www.thebignewsletter.com/p/hatching-a-conspiracy-a-big-investigation): An investigation into egg prices</small>
 
 
-| 🔥🔥: 102 \| 💬: [51](https://news.ycombinator.com/item?id=43311696) \| 🗓️ 2025-03-09
+| 🔥🔥: 121 \| 💬: [83](https://news.ycombinator.com/item?id=43311696) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -143,11 +143,23 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 
 ---
 
-## <a name="11"></a>11. 进化智能体框架：打造协作式AI生态系统 
+## <a name="11"></a>11. 萨尔瓦多的加密货币实验以失败告终 
+<small>🔗 [economist.com](https://www.economist.com/finance-and-economics/2025/03/02/el-salvadors-wild-crypto-experiment-ends-in-failure): El Salvador's crypto experiment ends in failure</small>
+
+
+| 🔥🔥: 111 \| 💬: [85](https://news.ycombinator.com/item?id=43314334) \| 🗓️ 2025-03-09
+
+
+<br />
+自2019年纳伊布·布克莱总统上任以来，萨尔瓦多一直处于**违约边缘**。高债务、低外汇储备和疲软的经济增长使该国陷入困境。布克莱对司法、反对派和媒体的攻击进一步削弱了信心。最终，萨尔瓦多不得不放弃其**加密货币实验**，以换取国际货币基金组织的救助。这一决定被认为是必要的代价。
+
+---
+
+## <a name="12"></a>12. 进化智能体框架：打造协作式AI生态系统 
 <small>🔗 [github.com](https://github.com/matiasmolinas/evolving-agents): Show HN: Evolving Agents Framework</small>
 
 
-| 🔥🔥: 101 \| 💬: [17](https://news.ycombinator.com/item?id=43310963) \| 🗓️ 2025-03-09
+| 🔥🔥: 102 \| 💬: [17](https://news.ycombinator.com/item?id=43310963) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -155,11 +167,11 @@ Evolving Agents Framework 是一个生产级框架，用于创建、管理和**�
 
 ---
 
-## <a name="12"></a>12. 借助AI，你可以想得更大 
+## <a name="13"></a>13. 借助AI，你可以想得更大 
 <small>🔗 [rodyne.com](https://rodyne.com/?p=1828): With AI you need to think bigger</small>
 
 
-| 🔥: 94 \| 💬: [52](https://news.ycombinator.com/item?id=43312652) \| 🗓️ 2025-03-09
+| 🔥🔥: 102 \| 💬: [65](https://news.ycombinator.com/item?id=43312652) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -167,11 +179,11 @@ Evolving Agents Framework 是一个生产级框架，用于创建、管理和**�
 
 ---
 
-## <a name="13"></a>13. 用Rust重写Linux核心工具包 
+## <a name="14"></a>14. 用Rust重写Linux核心工具包 
 <small>🔗 [lwn.net](https://lwn.net/Articles/1007907/): Rewriting essential Linux packages in Rust</small>
 
 
-| 🔥: 87 \| 💬: [107](https://news.ycombinator.com/item?id=43311149) \| 🗓️ 2025-03-09
+| 🔥: 87 \| 💬: [112](https://news.ycombinator.com/item?id=43311149) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -179,35 +191,11 @@ Evolving Agents Framework 是一个生产级框架，用于创建、管理和**�
 
 ---
 
-## <a name="14"></a>14. Orange Pi RV2：搭载8核RISC-V处理器的单板电脑 
-<small>🔗 [liliputing.com](https://liliputing.com/orange-pi-rv2-is-a-single-board-pc-with-an-8-core-risc-v-processor/): Orange Pi RV2 is a single-board PC with an 8-core RISC-V processor</small>
-
-
-| 🔥: 82 \| 💬: [21](https://news.ycombinator.com/item?id=43309376) \| 🗓️ 2025-03-09
-
-
-<br />
-Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**30美元**。相比前代，RV2不仅处理器性能提升，还增加了**双千兆以太网端口**和**双PCIe 2.0接口**。支持WiFi 6、蓝牙5.0，并配备丰富的接口，适合开发者和爱好者使用。
-
----
-
-## <a name="15"></a>15. 苹果通过“飞地”重构XNU内核以增强安全性 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/03/08/kernel_sanders_apple_rearranges_xnu/): Apple rearranged its XNU kernel with exclaves</small>
-
-
-| 🔥: 77 \| 💬: [10](https://news.ycombinator.com/item?id=43314171) \| 🗓️ 2025-03-09
-
-
-<br />
-苹果正在通过引入**“飞地”**功能来加强其XNU内核的安全性，该内核为iOS和macOS等操作系统提供支持。飞地是一种与主内核隔离的域，即使内核被攻破，也能保护关键功能。这一设计结合了微内核的安全优势和XNU的混合架构，通过**Secure Kernel**和**Secure Page Table Monitor**等技术，进一步隔离敏感资源，提升系统安全性。此举旨在应对AI工作负载和设备间通信带来的潜在攻击面扩大问题。
-
----
-
-## <a name="16"></a>16. Ecosia与Qwant合作打造欧洲搜索引擎索引 
+## <a name="15"></a>15. Ecosia与Qwant合作打造欧洲搜索引擎索引 
 <small>🔗 [blog.ecosia.org](https://blog.ecosia.org/eusp/): Ecosia is teaming up with Qwant to build a European search index</small>
 
 
-| 🔥: 74 \| 💬: [11](https://news.ycombinator.com/item?id=43311573) \| 🗓️ 2025-03-09
+| 🔥: 86 \| 💬: [13](https://news.ycombinator.com/item?id=43311573) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -215,11 +203,47 @@ Ecosia与Qwant合作，计划在2025年推出**欧洲搜索引擎索引**，旨�
 
 ---
 
-## <a name="17"></a>17. DOGE政府削减计划或对企业造成冲击，公司警告投资者 
+## <a name="16"></a>16. 苹果通过“飞地”重构XNU内核以增强安全性 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/03/08/kernel_sanders_apple_rearranges_xnu/): Apple rearranged its XNU kernel with exclaves</small>
+
+
+| 🔥: 85 \| 💬: [10](https://news.ycombinator.com/item?id=43314171) \| 🗓️ 2025-03-09
+
+
+<br />
+苹果正在通过引入**“飞地”**功能来加强其XNU内核的安全性，该内核为iOS和macOS等操作系统提供支持。飞地是一种与主内核隔离的域，即使内核被攻破，也能保护关键功能。这一设计结合了微内核的安全优势和XNU的混合架构，通过**Secure Kernel**和**Secure Page Table Monitor**等技术，进一步隔离敏感资源，提升系统安全性。此举旨在应对AI工作负载和设备间通信带来的潜在攻击面扩大问题。
+
+---
+
+## <a name="17"></a>17. Orange Pi RV2：搭载8核RISC-V处理器的单板电脑 
+<small>🔗 [liliputing.com](https://liliputing.com/orange-pi-rv2-is-a-single-board-pc-with-an-8-core-risc-v-processor/): Orange Pi RV2 is a single-board PC with an 8-core RISC-V processor</small>
+
+
+| 🔥: 84 \| 💬: [22](https://news.ycombinator.com/item?id=43309376) \| 🗓️ 2025-03-09
+
+
+<br />
+Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**30美元**。相比前代，RV2不仅处理器性能提升，还增加了**双千兆以太网端口**和**双PCIe 2.0接口**。支持WiFi 6、蓝牙5.0，并配备丰富的接口，适合开发者和爱好者使用。
+
+---
+
+## <a name="18"></a>18. 国家射电天文台的电子设备老式柴油卡车 
+<small>🔗 [raoulpop.com](https://raoulpop.com/2012/04/15/chasing-rfi-waves-part-seven/): Electronics-free old diesel trucks of the national radio astronomy observatory</small>
+
+
+| 🔥: 76 \| 💬: [25](https://news.ycombinator.com/item?id=43315406) \| 🗓️ 2025-03-09
+
+
+<br />
+国家射电天文台（NRAO）位于西弗吉尼亚州的格林班克，其车队由**老式柴油卡车**组成。这些卡车没有现代电子设备，避免了**射频干扰（RFI）**，确保不会干扰天文台的射电望远镜观测。尽管这些卡车看起来老旧，但它们在天文台的日常运营中至关重要。此外，NRAO还通过**40英尺教学望远镜**向学生和教师传授射电天文学知识，并与MIT合作进行大气研究。NRAO与当地社区的关系也逐渐改善，成为该地区的重要成员。
+
+---
+
+## <a name="19"></a>19. DOGE政府削减计划或对企业造成冲击，公司警告投资者 
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/business/2025/03/09/doge-companies-warnings-sec-filings/): DOGE's government cuts may hurt business, companies warn investors</small>
 
 
-| 🔥: 74 \| 💬: [27](https://news.ycombinator.com/item?id=43313792) \| 🗓️ 2025-03-09
+| 🔥: 75 \| 💬: [28](https://news.ycombinator.com/item?id=43313792) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -227,11 +251,11 @@ Ecosia与Qwant合作，计划在2025年推出**欧洲搜索引擎索引**，旨�
 
 ---
 
-## <a name="18"></a>18. 尽管炒作不断，DOGE未发现任何欺诈行为 
+## <a name="20"></a>20. 尽管炒作不断，DOGE未发现任何欺诈行为 
 <small>🔗 [publicnotice.co](https://www.publicnotice.co/p/despite-the-hype-doge-hasnt-found): Despite the hype, DOGE hasn't found a shred of fraud</small>
 
 
-| 🔥: 67 \| 💬: [20](https://news.ycombinator.com/item?id=43313304) \| 🗓️ 2025-03-09
+| 🔥: 69 \| 💬: [21](https://news.ycombinator.com/item?id=43313304) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -239,11 +263,11 @@ Ecosia与Qwant合作，计划在2025年推出**欧洲搜索引擎索引**，旨�
 
 ---
 
-## <a name="19"></a>19. 从零构建现代数据栈，成本降低70% 
+## <a name="21"></a>21. 从零构建现代数据栈，成本降低70% 
 <small>🔗 [jchandra.com](https://jchandra.com/posts/data-infra/): We built a modern data stack from scratch and reduced our bill by 70%</small>
 
 
-| 🔥: 66 \| 💬: [42](https://news.ycombinator.com/item?id=43312199) \| 🗓️ 2025-03-09
+| 🔥: 68 \| 💬: [44](https://news.ycombinator.com/item?id=43312199) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -251,7 +275,19 @@ Ecosia与Qwant合作，计划在2025年推出**欧洲搜索引擎索引**，旨�
 
 ---
 
-## <a name="20"></a>20. 自学者在哪？ 
+## <a name="22"></a>22. Go 语言最佳实践指南 
+<small>🔗 [dmitri.shuralyov.com](https://dmitri.shuralyov.com/idiomatic-go): Idiomatic Go (2016)</small>
+
+
+| 🔥: 63 \| 💬: [46](https://news.ycombinator.com/item?id=43313522) \| 🗓️ 2025-03-09
+
+
+<br />
+本文总结了 Go 语言中的一些**最佳实践**和**惯用写法**，旨在帮助开发者编写更符合 Go 风格的代码。内容包括**错误变量命名**、**注释格式**、**字符串空值检查**等细节，强调与 Go 项目的一致性。通过遵循这些建议，开发者可以提高代码的可读性和维护性。
+
+---
+
+## <a name="23"></a>23. 自学者在哪？ 
 <small>🔗 [saigaddam.medium.com](https://saigaddam.medium.com/where-are-all-the-self-directed-learners-ccfb2421e52c): Where are all the self-directed learners?</small>
 
 
@@ -263,19 +299,7 @@ Ecosia与Qwant合作，计划在2025年推出**欧洲搜索引擎索引**，旨�
 
 ---
 
-## <a name="21"></a>21. Go 语言最佳实践指南 
-<small>🔗 [dmitri.shuralyov.com](https://dmitri.shuralyov.com/idiomatic-go): Idiomatic Go (2016)</small>
-
-
-| 🔥: 62 \| 💬: [44](https://news.ycombinator.com/item?id=43313522) \| 🗓️ 2025-03-09
-
-
-<br />
-本文总结了 Go 语言中的一些**最佳实践**和**惯用写法**，旨在帮助开发者编写更符合 Go 风格的代码。内容包括**错误变量命名**、**注释格式**、**字符串空值检查**等细节，强调与 Go 项目的一致性。通过遵循这些建议，开发者可以提高代码的可读性和维护性。
-
----
-
-## <a name="22"></a>22. 博客文章通过单元测试：写作与AI的结合 
+## <a name="24"></a>24. 博客文章通过单元测试：写作与AI的结合 
 <small>🔗 [sealambda.com](https://www.sealambda.com/blog/this-post-passed-unit-tests/): This blog post passed unit tests</small>
 
 
@@ -287,7 +311,7 @@ Ecosia与Qwant合作，计划在2025年推出**欧洲搜索引擎索引**，旨�
 
 ---
 
-## <a name="23"></a>23. 如何判断何时该离职 
+## <a name="25"></a>25. 如何判断何时该离职 
 <small>🔗 [bitfieldconsulting.com](https://bitfieldconsulting.com/posts/when-its-time-to-go): How to know when it's time to go</small>
 
 
@@ -296,29 +320,5 @@ Ecosia与Qwant合作，计划在2025年推出**欧洲搜索引擎索引**，旨�
 
 <br />
 文章探讨了何时该离职的迹象。**舒适陷阱**会让你停滞不前，而**彼得原则**解释了为何高层可能能力不足。**死海效应**指出优秀员工往往最先离开，留下能力较弱的员工。公司不会真正关心你，HR的存在是为了保护公司利益。离职时应避免**离职面谈**，以免损害未来机会。
-
----
-
-## <a name="24"></a>24. TeX Live 2025 正式发布 
-<small>🔗 [texastim.dev](https://www.texastim.dev/tex-live-2025-iso-available-via-torrent/): TeX Live 2025 Released</small>
-
-
-| 🔥: 50 \| 💬: [43](https://news.ycombinator.com/item?id=43311367) \| 🗓️ 2025-03-09
-
-
-<br />
-TeX Live 2025 ISO 现已发布，用户可通过多种方式获取：从 **CTAN 镜像**直接下载 ISO，或通过 **.torrent 文件**或磁力链接下载。由于镜像同步需要时间，部分镜像可能尚未更新。这是作者连续第七年创建并首次提供种子文件，他表达了对 TeX 和 LaTeX 多年来的热爱与感激。
-
----
-
-## <a name="25"></a>25. 双筒望远镜镜头合集 
-<small>🔗 [binocularshot.com](https://binocularshot.com/): Binocular Shot</small>
-
-
-| 🔥: 49 \| 💬: [22](https://news.ycombinator.com/item?id=43310253) \| 🗓️ 2025-03-09
-
-
-<br />
-该网站收集了电影中**不准确的双筒望远镜镜头**（即两个重叠的圆圈，而非真实生活中的单一圆形）。目前收录了36部经典电影，包括《白噪音》（2022）。网站还提供RSS订阅更新，完整片单可在Letterboxd查看。最新镜头于2025年2月25日添加，所有片段版权归原所有者所有。
 
 ---
