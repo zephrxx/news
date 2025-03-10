@@ -27,7 +27,7 @@ tags:
 <small>🔗 [ukrainetoday.org](https://ukrainetoday.org/us-ends-support-for-ukrainian-f-16s-but-french-mirages-will-be-salvation-forbes/): US Ends Support For Ukrainian F-16s</small>
 
 
-| 🔥🔥: 1010 \| 💬: [1901](https://news.ycombinator.com/item?id=43307996) \| 🗓️ 2025-03-09
+| 🔥🔥: 1020 \| 💬: [1917](https://news.ycombinator.com/item?id=43307996) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [pippinbarr.com](https://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/): It is as if you were on your phone</small>
 
 
-| 🔥🔥: 559 \| 💬: [85](https://news.ycombinator.com/item?id=43308994) \| 🗓️ 2025-03-09
+| 🔥🔥: 580 \| 💬: [87](https://news.ycombinator.com/item?id=43308994) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [thehustle.co](https://thehustle.co/originals/why-layoffs-dont-work): Layoffs Don't Work</small>
 
 
-| 🔥🔥: 320 \| 💬: [566](https://news.ycombinator.com/item?id=43307755) \| 🗓️ 2025-03-09
+| 🔥🔥: 326 \| 💬: [581](https://news.ycombinator.com/item?id=43307755) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/Steve_Yegge/status/1898674257808515242): I've been using Claude Code for a couple of days</small>
 
 
-| 🔥🔥: 228 \| 💬: [284](https://news.ycombinator.com/item?id=43307809) \| 🗓️ 2025-03-09
+| 🔥🔥: 239 \| 💬: [295](https://news.ycombinator.com/item?id=43307809) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [gleam.run](https://gleam.run/news/hello-echo-hello-git/): Gleam v1.9</small>
 
 
-| 🔥🔥: 205 \| 💬: [46](https://news.ycombinator.com/item?id=43307987) \| 🗓️ 2025-03-09
+| 🔥🔥: 208 \| 💬: [46](https://news.ycombinator.com/item?id=43307987) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -87,7 +87,7 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 <small>🔗 [carscoops.com](https://www.carscoops.com/2025/03/tesla-sales-falling-off-a-cliff-globally-including-germany-australia-and-china/): Tesla Sales Fall Off a Cliff Globally, Including Germany, Australia, and China</small>
 
 
-| 🔥🔥: 193 \| 💬: [221](https://news.ycombinator.com/item?id=43313127) \| 🗓️ 2025-03-09
+| 🔥🔥: 196 \| 💬: [227](https://news.ycombinator.com/item?id=43313127) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -99,7 +99,7 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/07/dare_europe_risc_v_project/): Europe bets once again on RISC-V for supercomputing</small>
 
 
-| 🔥🔥: 188 \| 💬: [183](https://news.ycombinator.com/item?id=43311091) \| 🗓️ 2025-03-09
+| 🔥🔥: 191 \| 💬: [185](https://news.ycombinator.com/item?id=43311091) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -107,23 +107,11 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 
 ---
 
-## <a name="8"></a>8. 美国被列入公民自由快速下降国际观察名单 
-<small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/mar/09/watchlist-decline-civic-freedoms-civicus): US added to international watchlist for rapid decline in civic freedoms</small>
-
-
-| 🔥🔥: 180 \| 💬: [141](https://news.ycombinator.com/item?id=43315629) \| 🗓️ 2025-03-09
-
-
-<br />
-国际非营利组织Civicus将美国列入2025年首个观察名单，称其公民自由正在迅速恶化。该组织批评**特朗普政府**对民主规范和全球合作的攻击，包括解雇联邦雇员、退出国际组织以及限制媒体访问等行为。美国目前的公民自由评级为“受限”，并可能进一步恶化至“受阻”。Civicus警告称，这些行动可能削弱**宪法原则**，并助长全球威权主义。
-
----
-
-## <a name="9"></a>9. 苹果的“飞地”技术：XNU内核的安全革新 
+## <a name="8"></a>8. 苹果的“飞地”技术：XNU内核的安全革新 
 <small>🔗 [randomaugustine.medium.com](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194): Apple Exclaves</small>
 
 
-| 🔥🔥: 170 \| 💬: [36](https://news.ycombinator.com/item?id=43314657) \| 🗓️ 2025-03-09
+| 🔥🔥: 187 \| 💬: [48](https://news.ycombinator.com/item?id=43314657) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -131,23 +119,23 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 
 ---
 
-## <a name="10"></a>10. 鸡蛋价格暴涨背后的阴谋：一场大调查 
-<small>🔗 [thebignewsletter.com](https://www.thebignewsletter.com/p/hatching-a-conspiracy-a-big-investigation): An investigation into egg prices</small>
+## <a name="9"></a>9. 美国被列入公民自由快速下降国际观察名单 
+<small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/mar/09/watchlist-decline-civic-freedoms-civicus): US added to international watchlist for rapid decline in civic freedoms</small>
 
 
-| 🔥🔥: 128 \| 💬: [100](https://news.ycombinator.com/item?id=43311696) \| 🗓️ 2025-03-09
+| 🔥🔥: 186 \| 💬: [145](https://news.ycombinator.com/item?id=43315629) \| 🗓️ 2025-03-09
 
 
 <br />
-近年来，鸡蛋价格飙升53%，甚至出现短缺。尽管**禽流感**被认为是主要原因，但数据显示，鸡蛋产量仅下降3-5%，需求反而减少10%。与此同时，**Cal-Maine Foods**等大型鸡蛋生产商的利润却创下历史新高。调查发现，鸡蛋供应链被少数公司垄断，**寡头企业**通过限制产量维持高价，导致消费者负担加重。
+国际非营利组织Civicus将美国列入2025年首个观察名单，称其公民自由正在迅速恶化。该组织批评**特朗普政府**对民主规范和全球合作的攻击，包括解雇联邦雇员、退出国际组织以及限制媒体访问等行为。美国目前的公民自由评级为“受限”，并可能进一步恶化至“受阻”。Civicus警告称，这些行动可能削弱**宪法原则**，并助长全球威权主义。
 
 ---
 
-## <a name="11"></a>11. 国家射电天文台的电子设备老式柴油卡车 
+## <a name="10"></a>10. 国家射电天文台的电子设备老式柴油卡车 
 <small>🔗 [raoulpop.com](https://raoulpop.com/2012/04/15/chasing-rfi-waves-part-seven/): Electronics-free old diesel trucks of the national radio astronomy observatory</small>
 
 
-| 🔥🔥: 122 \| 💬: [42](https://news.ycombinator.com/item?id=43315406) \| 🗓️ 2025-03-09
+| 🔥🔥: 160 \| 💬: [52](https://news.ycombinator.com/item?id=43315406) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -155,11 +143,23 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 
 ---
 
+## <a name="11"></a>11. 鸡蛋价格暴涨背后的阴谋：一场大调查 
+<small>🔗 [thebignewsletter.com](https://www.thebignewsletter.com/p/hatching-a-conspiracy-a-big-investigation): An investigation into egg prices</small>
+
+
+| 🔥🔥: 130 \| 💬: [105](https://news.ycombinator.com/item?id=43311696) \| 🗓️ 2025-03-09
+
+
+<br />
+近年来，鸡蛋价格飙升53%，甚至出现短缺。尽管**禽流感**被认为是主要原因，但数据显示，鸡蛋产量仅下降3-5%，需求反而减少10%。与此同时，**Cal-Maine Foods**等大型鸡蛋生产商的利润却创下历史新高。调查发现，鸡蛋供应链被少数公司垄断，**寡头企业**通过限制产量维持高价，导致消费者负担加重。
+
+---
+
 ## <a name="12"></a>12. 萨尔瓦多的加密货币实验以失败告终 
 <small>🔗 [economist.com](https://www.economist.com/finance-and-economics/2025/03/02/el-salvadors-wild-crypto-experiment-ends-in-failure): El Salvador's crypto experiment ends in failure</small>
 
 
-| 🔥🔥: 114 \| 💬: [88](https://news.ycombinator.com/item?id=43314334) \| 🗓️ 2025-03-09
+| 🔥🔥: 117 \| 💬: [90](https://news.ycombinator.com/item?id=43314334) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -167,35 +167,11 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 
 ---
 
-## <a name="13"></a>13. 进化智能体框架：打造协作式AI生态系统 
-<small>🔗 [github.com](https://github.com/matiasmolinas/evolving-agents): Show HN: Evolving Agents Framework</small>
-
-
-| 🔥🔥: 105 \| 💬: [17](https://news.ycombinator.com/item?id=43310963) \| 🗓️ 2025-03-09
-
-
-<br />
-Evolving Agents Framework 是一个生产级框架，用于创建、管理和**进化AI智能体**。它支持智能体之间的**语义通信**，能够根据需求动态复用、进化或创建智能体。框架提供**语义搜索**、YAML工作流定义和多框架集成，适用于复杂任务的协作与自动化。通过**持续进化**，智能体能够不断优化性能，适用于文档处理、财务分析等多个领域。
-
----
-
-## <a name="14"></a>14. 借助AI，你可以想得更大 
-<small>🔗 [rodyne.com](https://rodyne.com/?p=1828): With AI you need to think bigger</small>
-
-
-| 🔥🔥: 105 \| 💬: [68](https://news.ycombinator.com/item?id=43312652) \| 🗓️ 2025-03-09
-
-
-<br />
-作者回顾了过去12个月的经历，发现**AI**让他不再害怕面对复杂或庞大的项目。过去因技术难度或时间成本而放弃的项目，如今在**AI工具**的帮助下变得轻而易举。例如，他仅用两小时就完成了一个原本需要六周的机器学习项目。AI不仅简化了开发过程，还让他重新审视自己的能力，激发了对更大项目的信心。这是一个充满机遇的时代。
-
----
-
-## <a name="15"></a>15. Ecosia与Qwant合作打造欧洲搜索引擎索引 
+## <a name="13"></a>13. Ecosia与Qwant合作打造欧洲搜索引擎索引 
 <small>🔗 [blog.ecosia.org](https://blog.ecosia.org/eusp/): Ecosia is teaming up with Qwant to build a European search index</small>
 
 
-| 🔥: 97 \| 💬: [15](https://news.ycombinator.com/item?id=43311573) \| 🗓️ 2025-03-09
+| 🔥🔥: 112 \| 💬: [16](https://news.ycombinator.com/item?id=43311573) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -203,11 +179,35 @@ Ecosia与Qwant合作，计划在2025年推出**欧洲搜索引擎索引**，旨�
 
 ---
 
+## <a name="14"></a>14. 进化智能体框架：打造协作式AI生态系统 
+<small>🔗 [github.com](https://github.com/matiasmolinas/evolving-agents): Show HN: Evolving Agents Framework</small>
+
+
+| 🔥🔥: 109 \| 💬: [17](https://news.ycombinator.com/item?id=43310963) \| 🗓️ 2025-03-09
+
+
+<br />
+Evolving Agents Framework 是一个生产级框架，用于创建、管理和**进化AI智能体**。它支持智能体之间的**语义通信**，能够根据需求动态复用、进化或创建智能体。框架提供**语义搜索**、YAML工作流定义和多框架集成，适用于复杂任务的协作与自动化。通过**持续进化**，智能体能够不断优化性能，适用于文档处理、财务分析等多个领域。
+
+---
+
+## <a name="15"></a>15. 借助AI，你可以想得更大 
+<small>🔗 [rodyne.com](https://rodyne.com/?p=1828): With AI you need to think bigger</small>
+
+
+| 🔥🔥: 109 \| 💬: [69](https://news.ycombinator.com/item?id=43312652) \| 🗓️ 2025-03-09
+
+
+<br />
+作者回顾了过去12个月的经历，发现**AI**让他不再害怕面对复杂或庞大的项目。过去因技术难度或时间成本而放弃的项目，如今在**AI工具**的帮助下变得轻而易举。例如，他仅用两小时就完成了一个原本需要六周的机器学习项目。AI不仅简化了开发过程，还让他重新审视自己的能力，激发了对更大项目的信心。这是一个充满机遇的时代。
+
+---
+
 ## <a name="16"></a>16. 苹果通过“飞地”重构XNU内核以增强安全性 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/08/kernel_sanders_apple_rearranges_xnu/): Apple rearranged its XNU kernel with exclaves</small>
 
 
-| 🔥: 94 \| 💬: [11](https://news.ycombinator.com/item?id=43314171) \| 🗓️ 2025-03-09
+| 🔥: 96 \| 💬: [14](https://news.ycombinator.com/item?id=43314171) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -219,7 +219,7 @@ Ecosia与Qwant合作，计划在2025年推出**欧洲搜索引擎索引**，旨�
 <small>🔗 [lwn.net](https://lwn.net/Articles/1007907/): Rewriting essential Linux packages in Rust</small>
 
 
-| 🔥: 87 \| 💬: [118](https://news.ycombinator.com/item?id=43311149) \| 🗓️ 2025-03-09
+| 🔥: 88 \| 💬: [119](https://news.ycombinator.com/item?id=43311149) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -231,7 +231,7 @@ Ecosia与Qwant合作，计划在2025年推出**欧洲搜索引擎索引**，旨�
 <small>🔗 [liliputing.com](https://liliputing.com/orange-pi-rv2-is-a-single-board-pc-with-an-8-core-risc-v-processor/): Orange Pi RV2 is a single-board PC with an 8-core RISC-V processor</small>
 
 
-| 🔥: 85 \| 💬: [23](https://news.ycombinator.com/item?id=43309376) \| 🗓️ 2025-03-09
+| 🔥: 86 \| 💬: [24](https://news.ycombinator.com/item?id=43309376) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -243,7 +243,7 @@ Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**
 <small>🔗 [phoronix.com](https://www.phoronix.com/news/Wine-Framework-Mono-6.14): Wine Releases Framework Mono 6.14 in Taking over the Mono Project</small>
 
 
-| 🔥: 78 \| 💬: [16](https://news.ycombinator.com/item?id=43313706) \| 🗓️ 2025-03-09
+| 🔥: 84 \| 💬: [16](https://news.ycombinator.com/item?id=43313706) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -255,7 +255,7 @@ Wine近日发布了**Framework Mono 6.14**，这是自微软将Mono项目捐赠�
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/business/2025/03/09/doge-companies-warnings-sec-filings/): DOGE's government cuts may hurt business, companies warn investors</small>
 
 
-| 🔥: 76 \| 💬: [28](https://news.ycombinator.com/item?id=43313792) \| 🗓️ 2025-03-09
+| 🔥: 77 \| 💬: [30](https://news.ycombinator.com/item?id=43313792) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -267,7 +267,7 @@ Wine近日发布了**Framework Mono 6.14**，这是自微软将Mono项目捐赠�
 <small>🔗 [publicnotice.co](https://www.publicnotice.co/p/despite-the-hype-doge-hasnt-found): Despite the hype, DOGE hasn't found a shred of fraud</small>
 
 
-| 🔥: 70 \| 💬: [20](https://news.ycombinator.com/item?id=43313304) \| 🗓️ 2025-03-09
+| 🔥: 71 \| 💬: [20](https://news.ycombinator.com/item?id=43313304) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -279,7 +279,7 @@ Wine近日发布了**Framework Mono 6.14**，这是自微软将Mono项目捐赠�
 <small>🔗 [jchandra.com](https://jchandra.com/posts/data-infra/): We built a modern data stack from scratch and reduced our bill by 70%</small>
 
 
-| 🔥: 68 \| 💬: [45](https://news.ycombinator.com/item?id=43312199) \| 🗓️ 2025-03-09
+| 🔥: 69 \| 💬: [45](https://news.ycombinator.com/item?id=43312199) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -291,7 +291,7 @@ Wine近日发布了**Framework Mono 6.14**，这是自微软将Mono项目捐赠�
 <small>🔗 [dmitri.shuralyov.com](https://dmitri.shuralyov.com/idiomatic-go): Idiomatic Go (2016)</small>
 
 
-| 🔥: 64 \| 💬: [48](https://news.ycombinator.com/item?id=43313522) \| 🗓️ 2025-03-09
+| 🔥: 65 \| 💬: [48](https://news.ycombinator.com/item?id=43313522) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -303,7 +303,7 @@ Wine近日发布了**Framework Mono 6.14**，这是自微软将Mono项目捐赠�
 <small>🔗 [saigaddam.medium.com](https://saigaddam.medium.com/where-are-all-the-self-directed-learners-ccfb2421e52c): Where are all the self-directed learners?</small>
 
 
-| 🔥: 62 \| 💬: [98](https://news.ycombinator.com/item?id=43307572) \| 🗓️ 2025-03-09
+| 🔥: 63 \| 💬: [98](https://news.ycombinator.com/item?id=43307572) \| 🗓️ 2025-03-09
 
 
 <br />
