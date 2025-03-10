@@ -27,7 +27,7 @@ tags:
 <small>🔗 [ukrainetoday.org](https://ukrainetoday.org/us-ends-support-for-ukrainian-f-16s-but-french-mirages-will-be-salvation-forbes/): US Ends Support For Ukrainian F-16s</small>
 
 
-| 🔥🔥: 1020 \| 💬: [1917](https://news.ycombinator.com/item?id=43307996) \| 🗓️ 2025-03-09
+| 🔥🔥: 1027 \| 💬: [1935](https://news.ycombinator.com/item?id=43307996) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [pippinbarr.com](https://pippinbarr.com/it-is-as-if-you-were-on-your-phone/info/): It is as if you were on your phone</small>
 
 
-| 🔥🔥: 580 \| 💬: [87](https://news.ycombinator.com/item?id=43308994) \| 🗓️ 2025-03-09
+| 🔥🔥: 593 \| 💬: [87](https://news.ycombinator.com/item?id=43308994) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [thehustle.co](https://thehustle.co/originals/why-layoffs-dont-work): Layoffs Don't Work</small>
 
 
-| 🔥🔥: 326 \| 💬: [581](https://news.ycombinator.com/item?id=43307755) \| 🗓️ 2025-03-09
+| 🔥🔥: 328 \| 💬: [599](https://news.ycombinator.com/item?id=43307755) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/Steve_Yegge/status/1898674257808515242): I've been using Claude Code for a couple of days</small>
 
 
-| 🔥🔥: 239 \| 💬: [295](https://news.ycombinator.com/item?id=43307809) \| 🗓️ 2025-03-09
+| 🔥🔥: 263 \| 💬: [314](https://news.ycombinator.com/item?id=43307809) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [gleam.run](https://gleam.run/news/hello-echo-hello-git/): Gleam v1.9</small>
 
 
-| 🔥🔥: 208 \| 💬: [46](https://news.ycombinator.com/item?id=43307987) \| 🗓️ 2025-03-09
+| 🔥🔥: 209 \| 💬: [49](https://news.ycombinator.com/item?id=43307987) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -83,35 +83,11 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 
 ---
 
-## <a name="6"></a>6. 特斯拉全球销量暴跌，德国、澳大利亚、中国市场受挫 
-<small>🔗 [carscoops.com](https://www.carscoops.com/2025/03/tesla-sales-falling-off-a-cliff-globally-including-germany-australia-and-china/): Tesla Sales Fall Off a Cliff Globally, Including Germany, Australia, and China</small>
-
-
-| 🔥🔥: 196 \| 💬: [227](https://news.ycombinator.com/item?id=43313127) \| 🗓️ 2025-03-09
-
-
-<br />
-2025年初，**特斯拉**在多个主要市场遭遇严重下滑。德国1月和2月销量分别下降**59.5%**和**76.3%**，澳大利亚前两个月销量下降**65.5%**，中国2月销量也暴跌**49.16%**。尽管全球电动车市场增长，特斯拉的市场份额却在萎缩，面临来自本地竞争对手的激烈挑战。
-
----
-
-## <a name="7"></a>7. 欧洲再次押注RISC-V，推动超级计算自主化 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/03/07/dare_europe_risc_v_project/): Europe bets once again on RISC-V for supercomputing</small>
-
-
-| 🔥🔥: 191 \| 💬: [185](https://news.ycombinator.com/item?id=43311091) \| 🗓️ 2025-03-09
-
-
-<br />
-欧洲启动**DARE项目**，旨在开发基于**RISC-V架构**的处理器芯片，以提升超级计算和AI领域的自主性。该项目由38家科技公司参与，获得2.4亿欧元资助，计划在三年内开发三款芯片，分别用于高性能计算、AI推理和通用处理。此举旨在减少对美国技术的依赖，推动欧洲的**数字主权**。
-
----
-
-## <a name="8"></a>8. 苹果的“飞地”技术：XNU内核的安全革新 
+## <a name="6"></a>6. 苹果的“飞地”技术：XNU内核的安全革新 
 <small>🔗 [randomaugustine.medium.com](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194): Apple Exclaves</small>
 
 
-| 🔥🔥: 187 \| 💬: [48](https://news.ycombinator.com/item?id=43314657) \| 🗓️ 2025-03-09
+| 🔥🔥: 207 \| 💬: [58](https://news.ycombinator.com/item?id=43314657) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -119,11 +95,35 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 
 ---
 
+## <a name="7"></a>7. 特斯拉全球销量暴跌，德国、澳大利亚、中国市场受挫 
+<small>🔗 [carscoops.com](https://www.carscoops.com/2025/03/tesla-sales-falling-off-a-cliff-globally-including-germany-australia-and-china/): Tesla Sales Fall Off a Cliff Globally, Including Germany, Australia, and China</small>
+
+
+| 🔥🔥: 198 \| 💬: [231](https://news.ycombinator.com/item?id=43313127) \| 🗓️ 2025-03-09
+
+
+<br />
+2025年初，**特斯拉**在多个主要市场遭遇严重下滑。德国1月和2月销量分别下降**59.5%**和**76.3%**，澳大利亚前两个月销量下降**65.5%**，中国2月销量也暴跌**49.16%**。尽管全球电动车市场增长，特斯拉的市场份额却在萎缩，面临来自本地竞争对手的激烈挑战。
+
+---
+
+## <a name="8"></a>8. 欧洲再次押注RISC-V，推动超级计算自主化 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/03/07/dare_europe_risc_v_project/): Europe bets once again on RISC-V for supercomputing</small>
+
+
+| 🔥🔥: 193 \| 💬: [185](https://news.ycombinator.com/item?id=43311091) \| 🗓️ 2025-03-09
+
+
+<br />
+欧洲启动**DARE项目**，旨在开发基于**RISC-V架构**的处理器芯片，以提升超级计算和AI领域的自主性。该项目由38家科技公司参与，获得2.4亿欧元资助，计划在三年内开发三款芯片，分别用于高性能计算、AI推理和通用处理。此举旨在减少对美国技术的依赖，推动欧洲的**数字主权**。
+
+---
+
 ## <a name="9"></a>9. 美国被列入公民自由快速下降国际观察名单 
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/mar/09/watchlist-decline-civic-freedoms-civicus): US added to international watchlist for rapid decline in civic freedoms</small>
 
 
-| 🔥🔥: 186 \| 💬: [145](https://news.ycombinator.com/item?id=43315629) \| 🗓️ 2025-03-09
+| 🔥🔥: 192 \| 💬: [149](https://news.ycombinator.com/item?id=43315629) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -135,7 +135,7 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 <small>🔗 [raoulpop.com](https://raoulpop.com/2012/04/15/chasing-rfi-waves-part-seven/): Electronics-free old diesel trucks of the national radio astronomy observatory</small>
 
 
-| 🔥🔥: 160 \| 💬: [52](https://news.ycombinator.com/item?id=43315406) \| 🗓️ 2025-03-09
+| 🔥🔥: 187 \| 💬: [55](https://news.ycombinator.com/item?id=43315406) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -147,7 +147,7 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 <small>🔗 [thebignewsletter.com](https://www.thebignewsletter.com/p/hatching-a-conspiracy-a-big-investigation): An investigation into egg prices</small>
 
 
-| 🔥🔥: 130 \| 💬: [105](https://news.ycombinator.com/item?id=43311696) \| 🗓️ 2025-03-09
+| 🔥🔥: 135 \| 💬: [108](https://news.ycombinator.com/item?id=43311696) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -155,23 +155,11 @@ Gleam v1.9 引入了**`echo`调试关键字**，简化了调试过程，并支�
 
 ---
 
-## <a name="12"></a>12. 萨尔瓦多的加密货币实验以失败告终 
-<small>🔗 [economist.com](https://www.economist.com/finance-and-economics/2025/03/02/el-salvadors-wild-crypto-experiment-ends-in-failure): El Salvador's crypto experiment ends in failure</small>
-
-
-| 🔥🔥: 117 \| 💬: [90](https://news.ycombinator.com/item?id=43314334) \| 🗓️ 2025-03-09
-
-
-<br />
-自2019年纳伊布·布克莱总统上任以来，萨尔瓦多一直处于**违约边缘**。高债务、低外汇储备和疲软的经济增长使该国陷入困境。布克莱对司法、反对派和媒体的攻击进一步削弱了信心。最终，萨尔瓦多不得不放弃其**加密货币实验**，以换取国际货币基金组织的救助。这一决定被认为是必要的代价。
-
----
-
-## <a name="13"></a>13. Ecosia与Qwant合作打造欧洲搜索引擎索引 
+## <a name="12"></a>12. Ecosia与Qwant合作打造欧洲搜索引擎索引 
 <small>🔗 [blog.ecosia.org](https://blog.ecosia.org/eusp/): Ecosia is teaming up with Qwant to build a European search index</small>
 
 
-| 🔥🔥: 112 \| 💬: [16](https://news.ycombinator.com/item?id=43311573) \| 🗓️ 2025-03-09
+| 🔥🔥: 123 \| 💬: [16](https://news.ycombinator.com/item?id=43311573) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -179,11 +167,23 @@ Ecosia与Qwant合作，计划在2025年推出**欧洲搜索引擎索引**，旨�
 
 ---
 
+## <a name="13"></a>13. 萨尔瓦多的加密货币实验以失败告终 
+<small>🔗 [economist.com](https://www.economist.com/finance-and-economics/2025/03/02/el-salvadors-wild-crypto-experiment-ends-in-failure): El Salvador's crypto experiment ends in failure</small>
+
+
+| 🔥🔥: 120 \| 💬: [91](https://news.ycombinator.com/item?id=43314334) \| 🗓️ 2025-03-09
+
+
+<br />
+自2019年纳伊布·布克莱总统上任以来，萨尔瓦多一直处于**违约边缘**。高债务、低外汇储备和疲软的经济增长使该国陷入困境。布克莱对司法、反对派和媒体的攻击进一步削弱了信心。最终，萨尔瓦多不得不放弃其**加密货币实验**，以换取国际货币基金组织的救助。这一决定被认为是必要的代价。
+
+---
+
 ## <a name="14"></a>14. 进化智能体框架：打造协作式AI生态系统 
 <small>🔗 [github.com](https://github.com/matiasmolinas/evolving-agents): Show HN: Evolving Agents Framework</small>
 
 
-| 🔥🔥: 109 \| 💬: [17](https://news.ycombinator.com/item?id=43310963) \| 🗓️ 2025-03-09
+| 🔥🔥: 112 \| 💬: [18](https://news.ycombinator.com/item?id=43310963) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -195,7 +195,7 @@ Evolving Agents Framework 是一个生产级框架，用于创建、管理和**�
 <small>🔗 [rodyne.com](https://rodyne.com/?p=1828): With AI you need to think bigger</small>
 
 
-| 🔥🔥: 109 \| 💬: [69](https://news.ycombinator.com/item?id=43312652) \| 🗓️ 2025-03-09
+| 🔥🔥: 112 \| 💬: [71](https://news.ycombinator.com/item?id=43312652) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -207,7 +207,7 @@ Evolving Agents Framework 是一个生产级框架，用于创建、管理和**�
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/08/kernel_sanders_apple_rearranges_xnu/): Apple rearranged its XNU kernel with exclaves</small>
 
 
-| 🔥: 96 \| 💬: [14](https://news.ycombinator.com/item?id=43314171) \| 🗓️ 2025-03-09
+| 🔥: 100 \| 💬: [14](https://news.ycombinator.com/item?id=43314171) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -215,35 +215,11 @@ Evolving Agents Framework 是一个生产级框架，用于创建、管理和**�
 
 ---
 
-## <a name="17"></a>17. 用Rust重写Linux核心工具包 
-<small>🔗 [lwn.net](https://lwn.net/Articles/1007907/): Rewriting essential Linux packages in Rust</small>
-
-
-| 🔥: 88 \| 💬: [119](https://news.ycombinator.com/item?id=43311149) \| 🗓️ 2025-03-09
-
-
-<br />
-在FOSDEM 2025上，Sylvestre Ledru介绍了用Rust重写GNU核心工具包（coreutils）的项目**uutils**。该项目旨在提供更安全、性能更高的替代工具，目前已支持Linux、macOS、Windows等多个平台。Ledru强调，Rust的**可移植性**和**安全性**使其成为理想选择，尽管GNU工具已经很安全。项目已通过近500个GNU测试，部分工具性能甚至优于原版。未来，团队计划继续重写更多Linux核心工具，推动社区向现代编程语言过渡。
-
----
-
-## <a name="18"></a>18. Orange Pi RV2：搭载8核RISC-V处理器的单板电脑 
-<small>🔗 [liliputing.com](https://liliputing.com/orange-pi-rv2-is-a-single-board-pc-with-an-8-core-risc-v-processor/): Orange Pi RV2 is a single-board PC with an 8-core RISC-V processor</small>
-
-
-| 🔥: 86 \| 💬: [24](https://news.ycombinator.com/item?id=43309376) \| 🗓️ 2025-03-09
-
-
-<br />
-Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**30美元**。相比前代，RV2不仅处理器性能提升，还增加了**双千兆以太网端口**和**双PCIe 2.0接口**。支持WiFi 6、蓝牙5.0，并配备丰富的接口，适合开发者和爱好者使用。
-
----
-
-## <a name="19"></a>19. Wine发布Framework Mono 6.14，接管Mono项目 
+## <a name="17"></a>17. Wine发布Framework Mono 6.14，接管Mono项目 
 <small>🔗 [phoronix.com](https://www.phoronix.com/news/Wine-Framework-Mono-6.14): Wine Releases Framework Mono 6.14 in Taking over the Mono Project</small>
 
 
-| 🔥: 84 \| 💬: [16](https://news.ycombinator.com/item?id=43313706) \| 🗓️ 2025-03-09
+| 🔥: 92 \| 💬: [18](https://news.ycombinator.com/item?id=43313706) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -251,11 +227,35 @@ Wine近日发布了**Framework Mono 6.14**，这是自微软将Mono项目捐赠�
 
 ---
 
+## <a name="18"></a>18. 用Rust重写Linux核心工具包 
+<small>🔗 [lwn.net](https://lwn.net/Articles/1007907/): Rewriting essential Linux packages in Rust</small>
+
+
+| 🔥: 88 \| 💬: [124](https://news.ycombinator.com/item?id=43311149) \| 🗓️ 2025-03-09
+
+
+<br />
+在FOSDEM 2025上，Sylvestre Ledru介绍了用Rust重写GNU核心工具包（coreutils）的项目**uutils**。该项目旨在提供更安全、性能更高的替代工具，目前已支持Linux、macOS、Windows等多个平台。Ledru强调，Rust的**可移植性**和**安全性**使其成为理想选择，尽管GNU工具已经很安全。项目已通过近500个GNU测试，部分工具性能甚至优于原版。未来，团队计划继续重写更多Linux核心工具，推动社区向现代编程语言过渡。
+
+---
+
+## <a name="19"></a>19. Orange Pi RV2：搭载8核RISC-V处理器的单板电脑 
+<small>🔗 [liliputing.com](https://liliputing.com/orange-pi-rv2-is-a-single-board-pc-with-an-8-core-risc-v-processor/): Orange Pi RV2 is a single-board PC with an 8-core RISC-V processor</small>
+
+
+| 🔥: 87 \| 💬: [25](https://news.ycombinator.com/item?id=43309376) \| 🗓️ 2025-03-09
+
+
+<br />
+Orange Pi RV2是一款**8核RISC-V处理器**的单板电脑，起售价仅为**30美元**。相比前代，RV2不仅处理器性能提升，还增加了**双千兆以太网端口**和**双PCIe 2.0接口**。支持WiFi 6、蓝牙5.0，并配备丰富的接口，适合开发者和爱好者使用。
+
+---
+
 ## <a name="20"></a>20. DOGE政府削减计划或对企业造成冲击，公司警告投资者 
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/business/2025/03/09/doge-companies-warnings-sec-filings/): DOGE's government cuts may hurt business, companies warn investors</small>
 
 
-| 🔥: 77 \| 💬: [30](https://news.ycombinator.com/item?id=43313792) \| 🗓️ 2025-03-09
+| 🔥: 77 \| 💬: [32](https://news.ycombinator.com/item?id=43313792) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -279,7 +279,7 @@ Wine近日发布了**Framework Mono 6.14**，这是自微软将Mono项目捐赠�
 <small>🔗 [jchandra.com](https://jchandra.com/posts/data-infra/): We built a modern data stack from scratch and reduced our bill by 70%</small>
 
 
-| 🔥: 69 \| 💬: [45](https://news.ycombinator.com/item?id=43312199) \| 🗓️ 2025-03-09
+| 🔥: 69 \| 💬: [47](https://news.ycombinator.com/item?id=43312199) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -291,7 +291,7 @@ Wine近日发布了**Framework Mono 6.14**，这是自微软将Mono项目捐赠�
 <small>🔗 [dmitri.shuralyov.com](https://dmitri.shuralyov.com/idiomatic-go): Idiomatic Go (2016)</small>
 
 
-| 🔥: 65 \| 💬: [48](https://news.ycombinator.com/item?id=43313522) \| 🗓️ 2025-03-09
+| 🔥: 66 \| 💬: [49](https://news.ycombinator.com/item?id=43313522) \| 🗓️ 2025-03-09
 
 
 <br />
@@ -303,7 +303,7 @@ Wine近日发布了**Framework Mono 6.14**，这是自微软将Mono项目捐赠�
 <small>🔗 [saigaddam.medium.com](https://saigaddam.medium.com/where-are-all-the-self-directed-learners-ccfb2421e52c): Where are all the self-directed learners?</small>
 
 
-| 🔥: 63 \| 💬: [98](https://news.ycombinator.com/item?id=43307572) \| 🗓️ 2025-03-09
+| 🔥: 64 \| 💬: [98](https://news.ycombinator.com/item?id=43307572) \| 🗓️ 2025-03-09
 
 
 <br />
