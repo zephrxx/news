@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [chromewebstore.google.com](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en): uBlock Origin is no longer available on the Chrome Store</small>
 
 
-| 🔥🔥: 1220 \| 💬: [621](https://news.ycombinator.com/item?id=43322922) \| 🗓️ 2025-03-10
+| 🔥🔥: 1301 \| 💬: [657](https://news.ycombinator.com/item?id=43322922) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -39,7 +39,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [exclusivearchitecture.com](https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html): Canon EF and RF Lenses – All Autofocus Motors</small>
 
 
-| 🔥🔥: 343 \| 💬: [88](https://news.ycombinator.com/item?id=43320230) \| 🗓️ 2025-03-10
+| 🔥🔥: 357 \| 💬: [91](https://news.ycombinator.com/item?id=43320230) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -51,7 +51,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/03/music-labels-will-regret-coming-for-the-internet-archive-sound-historian-says/): Music labels will regret coming for the Internet Archive, sound historian says</small>
 
 
-| 🔥🔥: 269 \| 💬: [89](https://news.ycombinator.com/item?id=43322245) \| 🗓️ 2025-03-10
+| 🔥🔥: 291 \| 💬: [97](https://news.ycombinator.com/item?id=43322245) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -63,7 +63,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.05244): Probabilistic Artificial Intelligence</small>
 
 
-| 🔥🔥: 250 \| 💬: [69](https://news.ycombinator.com/item?id=43318624) \| 🗓️ 2025-03-10
+| 🔥🔥: 255 \| 💬: [73](https://news.ycombinator.com/item?id=43318624) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -75,7 +75,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [nbcnews.com](https://www.nbcnews.com/news/us-news/washington-post-editor-ruth-marcus-resigns-accusing-ceo-killing-column-rcna195634): Washington Post editor resigns after accusing CEO of killing column</small>
 
 
-| 🔥🔥: 176 \| 💬: [36](https://news.ycombinator.com/item?id=43323519) \| 🗓️ 2025-03-10
+| 🔥🔥: 191 \| 💬: [46](https://news.ycombinator.com/item?id=43323519) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -87,7 +87,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [donmoynihan.substack.com](https://donmoynihan.substack.com/p/real-chilling-effects): Real Chilling Effects</small>
 
 
-| 🔥🔥: 173 \| 💬: [149](https://news.ycombinator.com/item?id=43318842) \| 🗓️ 2025-03-10
+| 🔥🔥: 175 \| 💬: [150](https://news.ycombinator.com/item?id=43318842) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -99,7 +99,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [arstechnica.com](https://arstechnica.com/google/2025/03/doj-google-must-sell-chrome-android-could-be-next/): DOJ: Google must sell Chrome, Android could be next</small>
 
 
-| 🔥🔥: 167 \| 💬: [123](https://news.ycombinator.com/item?id=43323485) \| 🗓️ 2025-03-10
+| 🔥🔥: 168 \| 💬: [126](https://news.ycombinator.com/item?id=43323485) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -107,11 +107,35 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 
 ---
 
-## <a name="8"></a>8. 华尔街抛售潮加剧，美国经济衰退担忧升温 
+## <a name="8"></a>8. 工程师的软件定义无线电指南（2018） 
+<small>🔗 [analog.com](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf): Software-Defined Radio for Engineers (2018) [pdf]</small>
+
+
+| 🔥🔥: 159 \| 💬: [34](https://news.ycombinator.com/item?id=43323071) \| 🗓️ 2025-03-10
+
+
+<br />
+本书深入探讨了**软件定义无线电（SDR）**的核心概念，旨在帮助工程师理解和应用这一技术。内容涵盖了SDR的基础理论、硬件设计、信号处理以及实际应用案例。通过详细的解释和实例，读者可以掌握如何利用SDR技术进行**无线通信系统**的设计与优化。适合对无线通信和信号处理感兴趣的工程师和研究人员。
+
+---
+
+## <a name="9"></a>9. 英国游客因签证问题被美国拘留10天 
+<small>🔗 [theguardian.com](https://www.theguardian.com/uk-news/2025/mar/10/british-tourist-detained-us-authorities-10-days-visa-issue): British tourist detained by US authorities for 10 days over visa issue</small>
+
+
+| 🔥🔥: 148 \| 💬: [118](https://news.ycombinator.com/item?id=43324040) \| 🗓️ 2025-03-10
+
+
+<br />
+英国游客**Rebecca Burke**在试图从加拿大进入美国华盛顿州时被拘留。她计划通过**旅游签证**在美国停留，但因与寄宿家庭交换家务劳动而被要求申请**工作签证**。她在拘留中心度过了10天，期间未获得法律帮助，家人对此感到极度焦虑。她的父亲呼吁其他旅行者仔细检查签证要求，避免类似情况。
+
+---
+
+## <a name="10"></a>10. 华尔街抛售潮加剧，美国经济衰退担忧升温 
 <small>🔗 [independent.co.uk](https://www.independent.co.uk/business/wall-street-selloff-turns-ugly-as-us-recession-fears-grow-b2712420.html): Wall Street sell-off turns 'ugly' as US recession fears grow</small>
 
 
-| 🔥🔥: 143 \| 💬: [132](https://news.ycombinator.com/item?id=43323652) \| 🗓️ 2025-03-10
+| 🔥🔥: 146 \| 💬: [141](https://news.ycombinator.com/item?id=43323652) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -119,7 +143,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 
 ---
 
-## <a name="9"></a>9. 欧洲云计算平台概览 
+## <a name="11"></a>11. 欧洲云计算平台概览 
 <small>🔗 [european-alternatives.eu](https://european-alternatives.eu/category/cloud-computing-platforms): European Cloud Computing Platforms</small>
 
 
@@ -131,23 +155,11 @@ Scaleway 是一家提供多种服务的云服务提供商，除了名为 **Scale
 
 ---
 
-## <a name="10"></a>10. 工程师的软件定义无线电指南（2018） 
-<small>🔗 [analog.com](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf): Software-Defined Radio for Engineers (2018) [pdf]</small>
-
-
-| 🔥🔥: 139 \| 💬: [28](https://news.ycombinator.com/item?id=43323071) \| 🗓️ 2025-03-10
-
-
-<br />
-本书深入探讨了**软件定义无线电（SDR）**的核心概念，旨在帮助工程师理解和应用这一技术。内容涵盖了SDR的基础理论、硬件设计、信号处理以及实际应用案例。通过详细的解释和实例，读者可以掌握如何利用SDR技术进行**无线通信系统**的设计与优化。适合对无线通信和信号处理感兴趣的工程师和研究人员。
-
----
-
-## <a name="11"></a>11. 华尔街股市大跌，投资者担忧美国经济放缓 
+## <a name="12"></a>12. 华尔街股市大跌，投资者担忧美国经济放缓 
 <small>🔗 [ft.com](https://www.ft.com/content/7f836a84-4fa5-4cd9-bcca-4e98d5a2e2a4): Wall Street stocks tumble as investors fret over US economic slowdown</small>
 
 
-| 🔥🔥: 127 \| 💬: [196](https://news.ycombinator.com/item?id=43322776) \| 🗓️ 2025-03-10
+| 🔥🔥: 130 \| 💬: [209](https://news.ycombinator.com/item?id=43322776) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -155,35 +167,11 @@ Scaleway 是一家提供多种服务的云服务提供商，除了名为 **Scale
 
 ---
 
-## <a name="12"></a>12. 英国游客因签证问题被美国拘留10天 
-<small>🔗 [theguardian.com](https://www.theguardian.com/uk-news/2025/mar/10/british-tourist-detained-us-authorities-10-days-visa-issue): British tourist detained by US authorities for 10 days over visa issue</small>
-
-
-| 🔥🔥: 107 \| 💬: [69](https://news.ycombinator.com/item?id=43324040) \| 🗓️ 2025-03-10
-
-
-<br />
-英国游客**Rebecca Burke**在试图从加拿大进入美国华盛顿州时被拘留。她计划通过**旅游签证**在美国停留，但因与寄宿家庭交换家务劳动而被要求申请**工作签证**。她在拘留中心度过了10天，期间未获得法律帮助，家人对此感到极度焦虑。她的父亲呼吁其他旅行者仔细检查签证要求，避免类似情况。
-
----
-
-## <a name="13"></a>13. 可编辑游戏：自定义与发布你的游戏 
-<small>🔗 [playscl.com](https://playscl.com/make): Show HN: Editable Games</small>
-
-
-| 🔥🔥: 103 \| 💬: [23](https://news.ycombinator.com/item?id=43321688) \| 🗓️ 2025-03-10
-
-
-<br />
-这是一个展示如何使用**Canvas Language**编辑和自定义游戏的演示。你可以从列表中选择游戏，进入开发工作室进行编辑，并下载项目文件以便后续重新上传。你还可以上传自己的图片，甚至使用**SCL**重新编程游戏玩法。完成后，你可以通过发布页面将游戏激活并运行在你选择的域名上，例如itch.io页面。
-
----
-
-## <a name="14"></a>14. 强化学习的数学基础 
+## <a name="13"></a>13. 强化学习的数学基础 
 <small>🔗 [github.com](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning): Mathematical Foundations of Reinforcement Learning</small>
 
 
-| 🔥🔥: 103 \| 💬: [9](https://news.ycombinator.com/item?id=43323946) \| 🗓️ 2025-03-10
+| 🔥🔥: 125 \| 💬: [12](https://news.ycombinator.com/item?id=43323946) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -191,11 +179,11 @@ Scaleway 是一家提供多种服务的云服务提供商，除了名为 **Scale
 
 ---
 
-## <a name="15"></a>15. 人类与我的LLM一样糟糕 
+## <a name="14"></a>14. 人类与我的LLM一样糟糕 
 <small>🔗 [wilsoniumite.com](https://wilsoniumite.com/2025/03/10/people-are-just-as-bad-as-my-llms/): People are just as bad as my LLMs</small>
 
 
-| 🔥: 96 \| 💬: [50](https://news.ycombinator.com/item?id=43323755) \| 🗓️ 2025-03-10
+| 🔥🔥: 117 \| 💬: [73](https://news.ycombinator.com/item?id=43323755) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -203,15 +191,27 @@ Scaleway 是一家提供多种服务的云服务提供商，除了名为 **Scale
 
 ---
 
-## <a name="16"></a>16. Visual Studio 会腐蚀程序员的大脑吗？ 
-<small>🔗 [charlespetzold.com](https://charlespetzold.com/etc/DoesVisualStudioRotTheMind.html): Does Visual Studio rot the mind? (2005)</small>
+## <a name="15"></a>15. 可编辑游戏：自定义与发布你的游戏 
+<small>🔗 [playscl.com](https://playscl.com/make): Show HN: Editable Games</small>
 
 
-| 🔥: 92 \| 💬: [87](https://news.ycombinator.com/item?id=43322496) \| 🗓️ 2025-03-10
+| 🔥🔥: 106 \| 💬: [23](https://news.ycombinator.com/item?id=43321688) \| 🗓️ 2025-03-10
 
 
 <br />
-Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程序员的影响。他认为，尽管 Visual Studio 是开发者的得力助手，但它逐渐变得**过于强势**，甚至可能削弱程序员的**编程能力**。Petzold 反思了自动生成代码的弊端，强调了手动编程的乐趣与挑战，并展望了未来技术（如 Avalon）可能带来的变革。他还通过电影中的计算机形象，讨论了人类与技术的复杂关系，指出技术可能带来的**成瘾性**和思维僵化问题。
+这是一个展示如何使用**Canvas Language**编辑和自定义游戏的演示。你可以从列表中选择游戏，进入开发工作室进行编辑，并下载项目文件以便后续重新上传。你还可以上传自己的图片，甚至使用**SCL**重新编程游戏玩法。完成后，你可以通过发布页面将游戏激活并运行在你选择的域名上，例如itch.io页面。
+
+---
+
+## <a name="16"></a>16. HP固件更新导致打印机无法使用原装墨盒 
+<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/firmware-update-bricks-hp-printers-makes-them-unable-to-use-hp-cartridges/): Firmware update bricks HP printers, makes them unable to use HP cartridges</small>
+
+
+| 🔥🔥: 101 \| 💬: [78](https://news.ycombinator.com/item?id=43323923) \| 🗓️ 2025-03-10
+
+
+<br />
+HP最近发布的固件更新**20250209**导致部分LaserJet MFP M232-M237系列打印机无法使用**HP原装墨粉**，用户报告出现错误代码11和墨粉灯闪烁问题。尽管HP表示正在解决此问题，但用户对此表示极度不满，尤其是小型企业用户。此前，HP也曾因固件更新导致打印机故障，引发用户对其**自动更新机制**的强烈批评。一些用户已转向购买竞争对手Brother的打印机。
 
 ---
 
@@ -219,7 +219,7 @@ Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程
 <small>🔗 [blog.kuzudb.com](https://blog.kuzudb.com/post/kuzu-wasm-rag/): Show HN: In-Browser Graph RAG with Kuzu-WASM and WebLLM</small>
 
 
-| 🔥: 86 \| 💬: [17](https://news.ycombinator.com/item?id=43321523) \| 🗓️ 2025-03-10
+| 🔥: 93 \| 💬: [19](https://news.ycombinator.com/item?id=43321523) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -227,11 +227,23 @@ Kuzu-Wasm与WebLLM结合，展示了如何在浏览器中构建完全基于**图
 
 ---
 
-## <a name="18"></a>18. 生成式AI炒作已达顶峰 
+## <a name="18"></a>18. Visual Studio 会腐蚀程序员的大脑吗？ 
+<small>🔗 [charlespetzold.com](https://charlespetzold.com/etc/DoesVisualStudioRotTheMind.html): Does Visual Studio rot the mind? (2005)</small>
+
+
+| 🔥: 92 \| 💬: [88](https://news.ycombinator.com/item?id=43322496) \| 🗓️ 2025-03-10
+
+
+<br />
+Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程序员的影响。他认为，尽管 Visual Studio 是开发者的得力助手，但它逐渐变得**过于强势**，甚至可能削弱程序员的**编程能力**。Petzold 反思了自动生成代码的弊端，强调了手动编程的乐趣与挑战，并展望了未来技术（如 Avalon）可能带来的变革。他还通过电影中的计算机形象，讨论了人类与技术的复杂关系，指出技术可能带来的**成瘾性**和思维僵化问题。
+
+---
+
+## <a name="19"></a>19. 生成式AI炒作已达顶峰 
 <small>🔗 [bjornwestergard.com](https://bjornwestergard.com/generative-ai-hype-peaking/): Generative AI Hype Peaking</small>
 
 
-| 🔥: 86 \| 💬: [117](https://news.ycombinator.com/item?id=43322570) \| 🗓️ 2025-03-10
+| 🔥: 87 \| 💬: [121](https://news.ycombinator.com/item?id=43322570) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -239,7 +251,7 @@ Kuzu-Wasm与WebLLM结合，展示了如何在浏览器中构建完全基于**图
 
 ---
 
-## <a name="19"></a>19. 打造技术面试题库，助你轻松斩获梦想工作 
+## <a name="20"></a>20. 打造技术面试题库，助你轻松斩获梦想工作 
 <small>🔗 [interviewdb.io](https://www.interviewdb.io): We built a crowdsourced interview question database for tech interviews</small>
 
 
@@ -251,23 +263,11 @@ Kuzu-Wasm与WebLLM结合，展示了如何在浏览器中构建完全基于**图
 
 ---
 
-## <a name="20"></a>20. HP固件更新导致打印机无法使用原装墨盒 
-<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/firmware-update-bricks-hp-printers-makes-them-unable-to-use-hp-cartridges/): Firmware update bricks HP printers, makes them unable to use HP cartridges</small>
-
-
-| 🔥: 80 \| 💬: [57](https://news.ycombinator.com/item?id=43323923) \| 🗓️ 2025-03-10
-
-
-<br />
-HP最近发布的固件更新**20250209**导致部分LaserJet MFP M232-M237系列打印机无法使用**HP原装墨粉**，用户报告出现错误代码11和墨粉灯闪烁问题。尽管HP表示正在解决此问题，但用户对此表示极度不满，尤其是小型企业用户。此前，HP也曾因固件更新导致打印机故障，引发用户对其**自动更新机制**的强烈批评。一些用户已转向购买竞争对手Brother的打印机。
-
----
-
 ## <a name="21"></a>21. 特斯拉股价暴跌14%，创五年最大单日跌幅 
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/03/10/tesla-shares-plunge-14percent-head-for-worst-day-in-five-years.html): Tesla shares plunge 14%, head for worst day in five years</small>
 
 
-| 🔥: 76 \| 💬: [82](https://news.ycombinator.com/item?id=43324157) \| 🗓️ 2025-03-10
+| 🔥: 80 \| 💬: [87](https://news.ycombinator.com/item?id=43324157) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -279,7 +279,7 @@ HP最近发布的固件更新**20250209**导致部分LaserJet MFP M232-M237系�
 <small>🔗 [mcmordie.co.uk](https://www.mcmordie.co.uk/acornhistory/index.shtml): A technical history of Acorn Computers</small>
 
 
-| 🔥: 73 \| 💬: [27](https://news.ycombinator.com/item?id=43321131) \| 🗓️ 2025-03-10
+| 🔥: 76 \| 💬: [30](https://news.ycombinator.com/item?id=43321131) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -287,11 +287,23 @@ HP最近发布的固件更新**20250209**导致部分LaserJet MFP M232-M237系�
 
 ---
 
-## <a name="23"></a>23. 从150年股市崩盘中我们学到了什么 
+## <a name="23"></a>23. 是什么让爱尔兰大饥荒如此致命 
+<small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review): What made the Irish famine so deadly</small>
+
+
+| 🔥: 72 \| 💬: [58](https://news.ycombinator.com/item?id=43326275) \| 🗓️ 2025-03-10
+
+
+<br />
+19世纪中叶，**爱尔兰大饥荒**（An Gorta Mór）导致150万人死亡或逃离，成为历史上比例最高的饥荒之一。**马铃薯疫病**（Phytophthora infestans）摧毁了爱尔兰的主要粮食来源，而英国政府的政策加剧了危机，大量粮食被出口，导致当地农民陷入极度贫困。饥荒不仅改变了爱尔兰的人口结构，还推动了土地改革和移民潮，深刻影响了爱尔兰及其海外社群的历史。
+
+---
+
+## <a name="24"></a>24. 从150年股市崩盘中我们学到了什么 
 <small>🔗 [morningstar.com](https://www.morningstar.com/economy/what-weve-learned-150-years-stock-market-crashes): What We've Learned from 150 Years of Stock Market Crashes</small>
 
 
-| 🔥: 70 \| 💬: [81](https://news.ycombinator.com/item?id=43323974) \| 🗓️ 2025-03-10
+| 🔥: 71 \| 💬: [84](https://news.ycombinator.com/item?id=43323974) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -299,11 +311,11 @@ HP最近发布的固件更新**20250209**导致部分LaserJet MFP M232-M237系�
 
 ---
 
-## <a name="24"></a>24. Twitter.com 是否宕机？ 
+## <a name="25"></a>25. Twitter.com 是否宕机？ 
 <small>🔗 [isitdownrightnow.com](https://www.isitdownrightnow.com/twitter.com.html): Twitter.com – Is Twitter Down?</small>
 
 
-| 🔥: 68 \| 💬: [58](https://news.ycombinator.com/item?id=43322421) \| 🗓️ 2025-03-10
+| 🔥: 69 \| 💬: [59](https://news.ycombinator.com/item?id=43322421) \| 🗓️ 2025-03-10
 
 
 <br />
