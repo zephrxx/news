@@ -27,7 +27,7 @@ tags:
 <small>🔗 [chromewebstore.google.com](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en): uBlock Origin is no longer available on the Chrome Store</small>
 
 
-| 🔥🔥: 1568 \| 💬: [791](https://news.ycombinator.com/item?id=43322922) \| 🗓️ 2025-03-10
+| 🔥🔥: 1590 \| 💬: [800](https://news.ycombinator.com/item?id=43322922) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -39,7 +39,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [exclusivearchitecture.com](https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html): Canon EF and RF Lenses – All Autofocus Motors</small>
 
 
-| 🔥🔥: 406 \| 💬: [101](https://news.ycombinator.com/item?id=43320230) \| 🗓️ 2025-03-10
+| 🔥🔥: 413 \| 💬: [103](https://news.ycombinator.com/item?id=43320230) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -51,7 +51,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/03/music-labels-will-regret-coming-for-the-internet-archive-sound-historian-says/): Music labels will regret coming for the Internet Archive, sound historian says</small>
 
 
-| 🔥🔥: 363 \| 💬: [129](https://news.ycombinator.com/item?id=43322245) \| 🗓️ 2025-03-10
+| 🔥🔥: 370 \| 💬: [129](https://news.ycombinator.com/item?id=43322245) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -63,7 +63,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.05244): Probabilistic Artificial Intelligence</small>
 
 
-| 🔥🔥: 286 \| 💬: [76](https://news.ycombinator.com/item?id=43318624) \| 🗓️ 2025-03-10
+| 🔥🔥: 289 \| 💬: [77](https://news.ycombinator.com/item?id=43318624) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -75,7 +75,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [nbcnews.com](https://www.nbcnews.com/news/us-news/washington-post-editor-ruth-marcus-resigns-accusing-ceo-killing-column-rcna195634): Washington Post editor resigns after accusing CEO of killing column</small>
 
 
-| 🔥🔥: 240 \| 💬: [58](https://news.ycombinator.com/item?id=43323519) \| 🗓️ 2025-03-10
+| 🔥🔥: 244 \| 💬: [63](https://news.ycombinator.com/item?id=43323519) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -87,7 +87,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [github.com](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning): Mathematical Foundations of Reinforcement Learning</small>
 
 
-| 🔥🔥: 226 \| 💬: [21](https://news.ycombinator.com/item?id=43323946) \| 🗓️ 2025-03-10
+| 🔥🔥: 239 \| 💬: [22](https://news.ycombinator.com/item?id=43323946) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -99,7 +99,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [analog.com](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf): Software-Defined Radio for Engineers (2018) [pdf]</small>
 
 
-| 🔥🔥: 217 \| 💬: [52](https://news.ycombinator.com/item?id=43323071) \| 🗓️ 2025-03-10
+| 🔥🔥: 222 \| 💬: [53](https://news.ycombinator.com/item?id=43323071) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -111,7 +111,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [theguardian.com](https://www.theguardian.com/uk-news/2025/mar/10/british-tourist-detained-us-authorities-10-days-visa-issue): British tourist detained by US authorities for 10 days over visa issue</small>
 
 
-| 🔥🔥: 187 \| 💬: [195](https://news.ycombinator.com/item?id=43324040) \| 🗓️ 2025-03-10
+| 🔥🔥: 189 \| 💬: [198](https://news.ycombinator.com/item?id=43324040) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -135,7 +135,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [arstechnica.com](https://arstechnica.com/google/2025/03/doj-google-must-sell-chrome-android-could-be-next/): DOJ: Google must sell Chrome, Android could be next</small>
 
 
-| 🔥🔥: 175 \| 💬: [131](https://news.ycombinator.com/item?id=43323485) \| 🗓️ 2025-03-10
+| 🔥🔥: 177 \| 💬: [132](https://news.ycombinator.com/item?id=43323485) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -147,7 +147,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review): What made the Irish famine so deadly</small>
 
 
-| 🔥🔥: 152 \| 💬: [181](https://news.ycombinator.com/item?id=43326275) \| 🗓️ 2025-03-10
+| 🔥🔥: 161 \| 💬: [191](https://news.ycombinator.com/item?id=43326275) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -159,7 +159,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [independent.co.uk](https://www.independent.co.uk/business/wall-street-selloff-turns-ugly-as-us-recession-fears-grow-b2712420.html): Wall Street sell-off turns 'ugly' as US recession fears grow</small>
 
 
-| 🔥🔥: 150 \| 💬: [153](https://news.ycombinator.com/item?id=43323652) \| 🗓️ 2025-03-10
+| 🔥🔥: 150 \| 💬: [156](https://news.ycombinator.com/item?id=43323652) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -171,7 +171,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [wilsoniumite.com](https://wilsoniumite.com/2025/03/10/people-are-just-as-bad-as-my-llms/): People are just as bad as my LLMs</small>
 
 
-| 🔥🔥: 150 \| 💬: [117](https://news.ycombinator.com/item?id=43323755) \| 🗓️ 2025-03-10
+| 🔥🔥: 150 \| 💬: [121](https://news.ycombinator.com/item?id=43323755) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -179,23 +179,11 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 
 ---
 
-## <a name="14"></a>14. 欧洲云计算平台概览 
-<small>🔗 [european-alternatives.eu](https://european-alternatives.eu/category/cloud-computing-platforms): European Cloud Computing Platforms</small>
-
-
-| 🔥🔥: 142 \| 💬: [62](https://news.ycombinator.com/item?id=43318738) \| 🗓️ 2025-03-10
-
-
-<br />
-Scaleway 是一家提供多种服务的云服务提供商，除了名为 **Scaleway Elements** 的公有云外，还提供**专用服务器**和**数据中心机架租赁**。Scaleway Elements 提供虚拟服务器、S3 兼容的对象存储、DNS 和 VPC 等核心服务，同时还提供**托管 Kubernetes** 和托管数据库（如 MySQL 和 PostgreSQL）等托管服务。
-
----
-
-## <a name="15"></a>15. HP固件更新导致打印机无法使用原装墨盒 
+## <a name="14"></a>14. HP固件更新导致打印机无法使用原装墨盒 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/firmware-update-bricks-hp-printers-makes-them-unable-to-use-hp-cartridges/): Firmware update bricks HP printers, makes them unable to use HP cartridges</small>
 
 
-| 🔥🔥: 141 \| 💬: [125](https://news.ycombinator.com/item?id=43323923) \| 🗓️ 2025-03-10
+| 🔥🔥: 145 \| 💬: [128](https://news.ycombinator.com/item?id=43323923) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -203,11 +191,35 @@ HP最近发布的固件更新**20250209**导致部分LaserJet MFP M232-M237系�
 
 ---
 
-## <a name="16"></a>16. 华尔街股市大跌，投资者担忧美国经济放缓 
+## <a name="15"></a>15. 欧洲云计算平台概览 
+<small>🔗 [european-alternatives.eu](https://european-alternatives.eu/category/cloud-computing-platforms): European Cloud Computing Platforms</small>
+
+
+| 🔥🔥: 143 \| 💬: [62](https://news.ycombinator.com/item?id=43318738) \| 🗓️ 2025-03-10
+
+
+<br />
+Scaleway 是一家提供多种服务的云服务提供商，除了名为 **Scaleway Elements** 的公有云外，还提供**专用服务器**和**数据中心机架租赁**。Scaleway Elements 提供虚拟服务器、S3 兼容的对象存储、DNS 和 VPC 等核心服务，同时还提供**托管 Kubernetes** 和托管数据库（如 MySQL 和 PostgreSQL）等托管服务。
+
+---
+
+## <a name="16"></a>16. 七三九——每晚仅开放3小时的社交应用 
+<small>🔗 [seven39.com](https://www.seven39.com): Seven39 – a social media app that is only open for 3 hours every evening</small>
+
+
+| 🔥🔥: 136 \| 💬: [91](https://news.ycombinator.com/item?id=43328095) \| 🗓️ 2025-03-10
+
+
+<br />
+七三九是一款**仅在每晚7:39至10:39（美国东部时间）开放**的社交应用。它的设计理念是**让用户在同一时间在线，避免无休止的刷屏和错失恐惧（FOMO）**。七三九的独特之处在于其**限时开放**，旨在为用户提供更集中、更有趣的社交体验。
+
+---
+
+## <a name="17"></a>17. 华尔街股市大跌，投资者担忧美国经济放缓 
 <small>🔗 [ft.com](https://www.ft.com/content/7f836a84-4fa5-4cd9-bcca-4e98d5a2e2a4): Wall Street stocks tumble as investors fret over US economic slowdown</small>
 
 
-| 🔥🔥: 130 \| 💬: [230](https://news.ycombinator.com/item?id=43322776) \| 🗓️ 2025-03-10
+| 🔥🔥: 132 \| 💬: [234](https://news.ycombinator.com/item?id=43322776) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -215,11 +227,11 @@ HP最近发布的固件更新**20250209**导致部分LaserJet MFP M232-M237系�
 
 ---
 
-## <a name="17"></a>17. 可编辑游戏：自定义与发布你的游戏 
+## <a name="18"></a>18. 可编辑游戏：自定义与发布你的游戏 
 <small>🔗 [playscl.com](https://playscl.com/make): Show HN: Editable Games</small>
 
 
-| 🔥🔥: 120 \| 💬: [25](https://news.ycombinator.com/item?id=43321688) \| 🗓️ 2025-03-10
+| 🔥🔥: 122 \| 💬: [25](https://news.ycombinator.com/item?id=43321688) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -227,23 +239,11 @@ HP最近发布的固件更新**20250209**导致部分LaserJet MFP M232-M237系�
 
 ---
 
-## <a name="18"></a>18. 浏览器内图数据库与LLM结合的Graph RAG应用 
-<small>🔗 [blog.kuzudb.com](https://blog.kuzudb.com/post/kuzu-wasm-rag/): Show HN: In-Browser Graph RAG with Kuzu-WASM and WebLLM</small>
-
-
-| 🔥🔥: 114 \| 💬: [26](https://news.ycombinator.com/item?id=43321523) \| 🗓️ 2025-03-10
-
-
-<br />
-Kuzu-Wasm与WebLLM结合，展示了如何在浏览器中构建完全基于**图数据库**和**大语言模型（LLM）**的聊天机器人。通过**Graph RAG**技术，用户可以直接在浏览器中查询LinkedIn数据，无需后端服务器，确保数据隐私。尽管当前浏览器资源有限，但随着WebGPU和Wasm64的发展，未来性能将大幅提升。
-
----
-
 ## <a name="19"></a>19. 在AWS EKS上实现零停机Kubernetes部署 
 <small>🔗 [glasskube.dev](https://glasskube.dev/blog/kubernetes-zero-downtime-deployments-aws-eks/): Zero-Downtime Kubernetes Deployments on AWS with EKS</small>
 
 
-| 🔥🔥: 105 \| 💬: [52](https://news.ycombinator.com/item?id=43320024) \| 🗓️ 2025-03-10
+| 🔥🔥: 115 \| 💬: [62](https://news.ycombinator.com/item?id=43320024) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -251,15 +251,15 @@ Kuzu-Wasm与WebLLM结合，展示了如何在浏览器中构建完全基于**图
 
 ---
 
-## <a name="20"></a>20. 七三九——每晚仅开放3小时的社交应用 
-<small>🔗 [seven39.com](https://www.seven39.com): Seven39 – a social media app that is only open for 3 hours every evening</small>
+## <a name="20"></a>20. 浏览器内图数据库与LLM结合的Graph RAG应用 
+<small>🔗 [blog.kuzudb.com](https://blog.kuzudb.com/post/kuzu-wasm-rag/): Show HN: In-Browser Graph RAG with Kuzu-WASM and WebLLM</small>
 
 
-| 🔥🔥: 103 \| 💬: [72](https://news.ycombinator.com/item?id=43328095) \| 🗓️ 2025-03-10
+| 🔥🔥: 115 \| 💬: [27](https://news.ycombinator.com/item?id=43321523) \| 🗓️ 2025-03-10
 
 
 <br />
-七三九是一款**仅在每晚7:39至10:39（美国东部时间）开放**的社交应用。它的设计理念是**让用户在同一时间在线，避免无休止的刷屏和错失恐惧（FOMO）**。七三九的独特之处在于其**限时开放**，旨在为用户提供更集中、更有趣的社交体验。
+Kuzu-Wasm与WebLLM结合，展示了如何在浏览器中构建完全基于**图数据库**和**大语言模型（LLM）**的聊天机器人。通过**Graph RAG**技术，用户可以直接在浏览器中查询LinkedIn数据，无需后端服务器，确保数据隐私。尽管当前浏览器资源有限，但随着WebGPU和Wasm64的发展，未来性能将大幅提升。
 
 ---
 
@@ -275,15 +275,15 @@ Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程
 
 ---
 
-## <a name="22"></a>22. 特斯拉股价暴跌14%，创五年最大单日跌幅 
-<small>🔗 [cnbc.com](https://www.cnbc.com/2025/03/10/tesla-shares-plunge-14percent-head-for-worst-day-in-five-years.html): Tesla shares plunge 14%, head for worst day in five years</small>
+## <a name="22"></a>22. 在地下室弯曲时空 
+<small>🔗 [fourmilab.ch](https://www.fourmilab.ch/gravitation/foobar/): Bending Spacetime in the Basement</small>
 
 
-| 🔥: 91 \| 💬: [111](https://news.ycombinator.com/item?id=43324157) \| 🗓️ 2025-03-10
+| 🔥: 98 \| 💬: [14](https://news.ycombinator.com/item?id=43327730) \| 🗓️ 2025-03-10
 
 
 <br />
-特斯拉股价周一暴跌**14%**，创下自2020年以来的最大单日跌幅。自12月17日峰值以来，特斯拉市值已蒸发超过**8000亿美元**。股价下跌与CEO埃隆·马斯克在特朗普政府中的角色有关，同时**关税不确定性**和品牌形象受损也加剧了市场担忧。特斯拉在欧洲的销量大幅下滑，部分原因是消费者对品牌的负面情绪。
+本文探讨了**引力**的普遍性及其在人类尺度上的实验验证。通过使用简单的材料和**扭力天平**，作者展示了如何在地下室中观察到物体之间的引力作用。尽管引力是四种基本力中最弱的，但通过巧妙的实验设计，我们依然能够感受到**时空弯曲**的微妙效果。
 
 ---
 
@@ -291,7 +291,7 @@ Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程
 <small>🔗 [mcmordie.co.uk](https://www.mcmordie.co.uk/acornhistory/index.shtml): A technical history of Acorn Computers</small>
 
 
-| 🔥: 90 \| 💬: [38](https://news.ycombinator.com/item?id=43321131) \| 🗓️ 2025-03-10
+| 🔥: 92 \| 💬: [39](https://news.ycombinator.com/item?id=43321131) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -299,26 +299,26 @@ Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程
 
 ---
 
-## <a name="24"></a>24. 生成式AI炒作已达顶峰 
+## <a name="24"></a>24. 特斯拉股价暴跌14%，创五年最大单日跌幅 
+<small>🔗 [cnbc.com](https://www.cnbc.com/2025/03/10/tesla-shares-plunge-14percent-head-for-worst-day-in-five-years.html): Tesla shares plunge 14%, head for worst day in five years</small>
+
+
+| 🔥: 92 \| 💬: [113](https://news.ycombinator.com/item?id=43324157) \| 🗓️ 2025-03-10
+
+
+<br />
+特斯拉股价周一暴跌**14%**，创下自2020年以来的最大单日跌幅。自12月17日峰值以来，特斯拉市值已蒸发超过**8000亿美元**。股价下跌与CEO埃隆·马斯克在特朗普政府中的角色有关，同时**关税不确定性**和品牌形象受损也加剧了市场担忧。特斯拉在欧洲的销量大幅下滑，部分原因是消费者对品牌的负面情绪。
+
+---
+
+## <a name="25"></a>25. 生成式AI炒作已达顶峰 
 <small>🔗 [bjornwestergard.com](https://bjornwestergard.com/generative-ai-hype-peaking/): Generative AI Hype Peaking</small>
 
 
-| 🔥: 88 \| 💬: [122](https://news.ycombinator.com/item?id=43322570) \| 🗓️ 2025-03-10
+| 🔥: 89 \| 💬: [123](https://news.ycombinator.com/item?id=43322570) \| 🗓️ 2025-03-10
 
 
 <br />
 作者对生成式AI的过度炒作持怀疑态度，认为其不会显著提高大多数职业的生产力。目前，投资者对生成式AI的热情可能已接近顶峰，NVIDIA股价今年已下跌约20%。尽管**大型语言模型（LLMs）**在软件开发、客户支持等领域带来了真正的创新，但低经验开发者的就业市场正面临严峻挑战。未来，**Jevons悖论**可能解释LLM效率提升与使用量增加的关系，而**Dead Internet理论**则暗示社交媒体可能被商业和政治机器人主导。
-
----
-
-## <a name="25"></a>25. 打造技术面试题库，助你轻松斩获梦想工作 
-<small>🔗 [interviewdb.io](https://www.interviewdb.io): We built a crowdsourced interview question database for tech interviews</small>
-
-
-| 🔥: 83 \| 💬: [69](https://news.ycombinator.com/item?id=43320177) \| 🗓️ 2025-03-10
-
-
-<br />
-我们创建了一个**众包技术面试题库**，汇集了80多家公司和知名面试平台的真实面试问题。通过**独家洞察**和**针对性练习**，帮助用户高效准备面试，避免无意义的刷题。用户反馈显示，许多人通过我们的题库成功获得了顶尖公司的offer。
 
 ---
