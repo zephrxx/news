@@ -12,7 +12,7 @@ tags:
 1. 佳能EF与RF镜头——自动对焦马达全解析；
 1. 音乐公司将后悔起诉互联网档案馆，声音历史学家表示；
 1. 概率人工智能；
-1. 《华盛顿邮报》专栏作家因批评CEO撤稿而辞职；
+1. 强化学习的数学基础；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [chromewebstore.google.com](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en): uBlock Origin is no longer available on the Chrome Store</small>
 
 
-| 🔥🔥: 1590 \| 💬: [800](https://news.ycombinator.com/item?id=43322922) \| 🗓️ 2025-03-10
+| 🔥🔥: 1629 \| 💬: [806](https://news.ycombinator.com/item?id=43322922) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -39,7 +39,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [exclusivearchitecture.com](https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html): Canon EF and RF Lenses – All Autofocus Motors</small>
 
 
-| 🔥🔥: 413 \| 💬: [103](https://news.ycombinator.com/item?id=43320230) \| 🗓️ 2025-03-10
+| 🔥🔥: 423 \| 💬: [103](https://news.ycombinator.com/item?id=43320230) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -51,7 +51,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/03/music-labels-will-regret-coming-for-the-internet-archive-sound-historian-says/): Music labels will regret coming for the Internet Archive, sound historian says</small>
 
 
-| 🔥🔥: 370 \| 💬: [129](https://news.ycombinator.com/item?id=43322245) \| 🗓️ 2025-03-10
+| 🔥🔥: 378 \| 💬: [130](https://news.ycombinator.com/item?id=43322245) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -63,7 +63,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.05244): Probabilistic Artificial Intelligence</small>
 
 
-| 🔥🔥: 289 \| 💬: [77](https://news.ycombinator.com/item?id=43318624) \| 🗓️ 2025-03-10
+| 🔥🔥: 292 \| 💬: [77](https://news.ycombinator.com/item?id=43318624) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -71,23 +71,11 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 
 ---
 
-## <a name="5"></a>5. 《华盛顿邮报》专栏作家因批评CEO撤稿而辞职 
-<small>🔗 [nbcnews.com](https://www.nbcnews.com/news/us-news/washington-post-editor-ruth-marcus-resigns-accusing-ceo-killing-column-rcna195634): Washington Post editor resigns after accusing CEO of killing column</small>
-
-
-| 🔥🔥: 244 \| 💬: [63](https://news.ycombinator.com/item?id=43323519) \| 🗓️ 2025-03-10
-
-
-<br />
-《华盛顿邮报》专栏作家**Ruth Marcus**因批评CEO和出版商撤下她反对老板**Jeff Bezos**新编辑政策的专栏而辞职。Marcus在辞职信中表示，**独立判断**在评论部门已不复存在，新政策将**破坏读者信任**。Bezos此前要求评论部门支持**个人自由和自由市场**，Marcus的专栏因偏离这一指令被撤。此举还导致评论编辑David Shipley辞职，被视为向特朗普示好。
-
----
-
-## <a name="6"></a>6. 强化学习的数学基础 
+## <a name="5"></a>5. 强化学习的数学基础 
 <small>🔗 [github.com](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning): Mathematical Foundations of Reinforcement Learning</small>
 
 
-| 🔥🔥: 239 \| 💬: [22](https://news.ycombinator.com/item?id=43323946) \| 🗓️ 2025-03-10
+| 🔥🔥: 258 \| 💬: [22](https://news.ycombinator.com/item?id=43323946) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -95,11 +83,23 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 
 ---
 
+## <a name="6"></a>6. 《华盛顿邮报》专栏作家因批评CEO撤稿而辞职 
+<small>🔗 [nbcnews.com](https://www.nbcnews.com/news/us-news/washington-post-editor-ruth-marcus-resigns-accusing-ceo-killing-column-rcna195634): Washington Post editor resigns after accusing CEO of killing column</small>
+
+
+| 🔥🔥: 251 \| 💬: [66](https://news.ycombinator.com/item?id=43323519) \| 🗓️ 2025-03-10
+
+
+<br />
+《华盛顿邮报》专栏作家**Ruth Marcus**因批评CEO和出版商撤下她反对老板**Jeff Bezos**新编辑政策的专栏而辞职。Marcus在辞职信中表示，**独立判断**在评论部门已不复存在，新政策将**破坏读者信任**。Bezos此前要求评论部门支持**个人自由和自由市场**，Marcus的专栏因偏离这一指令被撤。此举还导致评论编辑David Shipley辞职，被视为向特朗普示好。
+
+---
+
 ## <a name="7"></a>7. 工程师的软件定义无线电指南（2018） 
 <small>🔗 [analog.com](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf): Software-Defined Radio for Engineers (2018) [pdf]</small>
 
 
-| 🔥🔥: 222 \| 💬: [53](https://news.ycombinator.com/item?id=43323071) \| 🗓️ 2025-03-10
+| 🔥🔥: 231 \| 💬: [53](https://news.ycombinator.com/item?id=43323071) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -111,7 +111,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [theguardian.com](https://www.theguardian.com/uk-news/2025/mar/10/british-tourist-detained-us-authorities-10-days-visa-issue): British tourist detained by US authorities for 10 days over visa issue</small>
 
 
-| 🔥🔥: 189 \| 💬: [198](https://news.ycombinator.com/item?id=43324040) \| 🗓️ 2025-03-10
+| 🔥🔥: 191 \| 💬: [198](https://news.ycombinator.com/item?id=43324040) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -123,7 +123,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [donmoynihan.substack.com](https://donmoynihan.substack.com/p/real-chilling-effects): Real Chilling Effects</small>
 
 
-| 🔥🔥: 178 \| 💬: [153](https://news.ycombinator.com/item?id=43318842) \| 🗓️ 2025-03-10
+| 🔥🔥: 178 \| 💬: [154](https://news.ycombinator.com/item?id=43318842) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -135,7 +135,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [arstechnica.com](https://arstechnica.com/google/2025/03/doj-google-must-sell-chrome-android-could-be-next/): DOJ: Google must sell Chrome, Android could be next</small>
 
 
-| 🔥🔥: 177 \| 💬: [132](https://news.ycombinator.com/item?id=43323485) \| 🗓️ 2025-03-10
+| 🔥🔥: 178 \| 💬: [133](https://news.ycombinator.com/item?id=43323485) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -147,7 +147,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review): What made the Irish famine so deadly</small>
 
 
-| 🔥🔥: 161 \| 💬: [191](https://news.ycombinator.com/item?id=43326275) \| 🗓️ 2025-03-10
+| 🔥🔥: 175 \| 💬: [214](https://news.ycombinator.com/item?id=43326275) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -155,11 +155,23 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 
 ---
 
-## <a name="12"></a>12. 华尔街抛售潮加剧，美国经济衰退担忧升温 
+## <a name="12"></a>12. 七三九——每晚仅开放3小时的社交应用 
+<small>🔗 [seven39.com](https://www.seven39.com): Seven39 – a social media app that is only open for 3 hours every evening</small>
+
+
+| 🔥🔥: 170 \| 💬: [107](https://news.ycombinator.com/item?id=43328095) \| 🗓️ 2025-03-10
+
+
+<br />
+七三九是一款**仅在每晚7:39至10:39（美国东部时间）开放**的社交应用。它的设计理念是**让用户在同一时间在线，避免无休止的刷屏和错失恐惧（FOMO）**。七三九的独特之处在于其**限时开放**，旨在为用户提供更集中、更有趣的社交体验。
+
+---
+
+## <a name="13"></a>13. 华尔街抛售潮加剧，美国经济衰退担忧升温 
 <small>🔗 [independent.co.uk](https://www.independent.co.uk/business/wall-street-selloff-turns-ugly-as-us-recession-fears-grow-b2712420.html): Wall Street sell-off turns 'ugly' as US recession fears grow</small>
 
 
-| 🔥🔥: 150 \| 💬: [156](https://news.ycombinator.com/item?id=43323652) \| 🗓️ 2025-03-10
+| 🔥🔥: 152 \| 💬: [156](https://news.ycombinator.com/item?id=43323652) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -167,11 +179,11 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 
 ---
 
-## <a name="13"></a>13. 人类与我的LLM一样糟糕 
+## <a name="14"></a>14. 人类与我的LLM一样糟糕 
 <small>🔗 [wilsoniumite.com](https://wilsoniumite.com/2025/03/10/people-are-just-as-bad-as-my-llms/): People are just as bad as my LLMs</small>
 
 
-| 🔥🔥: 150 \| 💬: [121](https://news.ycombinator.com/item?id=43323755) \| 🗓️ 2025-03-10
+| 🔥🔥: 152 \| 💬: [124](https://news.ycombinator.com/item?id=43323755) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -179,11 +191,11 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 
 ---
 
-## <a name="14"></a>14. HP固件更新导致打印机无法使用原装墨盒 
+## <a name="15"></a>15. HP固件更新导致打印机无法使用原装墨盒 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/firmware-update-bricks-hp-printers-makes-them-unable-to-use-hp-cartridges/): Firmware update bricks HP printers, makes them unable to use HP cartridges</small>
 
 
-| 🔥🔥: 145 \| 💬: [128](https://news.ycombinator.com/item?id=43323923) \| 🗓️ 2025-03-10
+| 🔥🔥: 150 \| 💬: [132](https://news.ycombinator.com/item?id=43323923) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -191,7 +203,7 @@ HP最近发布的固件更新**20250209**导致部分LaserJet MFP M232-M237系�
 
 ---
 
-## <a name="15"></a>15. 欧洲云计算平台概览 
+## <a name="16"></a>16. 欧洲云计算平台概览 
 <small>🔗 [european-alternatives.eu](https://european-alternatives.eu/category/cloud-computing-platforms): European Cloud Computing Platforms</small>
 
 
@@ -203,23 +215,11 @@ Scaleway 是一家提供多种服务的云服务提供商，除了名为 **Scale
 
 ---
 
-## <a name="16"></a>16. 七三九——每晚仅开放3小时的社交应用 
-<small>🔗 [seven39.com](https://www.seven39.com): Seven39 – a social media app that is only open for 3 hours every evening</small>
-
-
-| 🔥🔥: 136 \| 💬: [91](https://news.ycombinator.com/item?id=43328095) \| 🗓️ 2025-03-10
-
-
-<br />
-七三九是一款**仅在每晚7:39至10:39（美国东部时间）开放**的社交应用。它的设计理念是**让用户在同一时间在线，避免无休止的刷屏和错失恐惧（FOMO）**。七三九的独特之处在于其**限时开放**，旨在为用户提供更集中、更有趣的社交体验。
-
----
-
 ## <a name="17"></a>17. 华尔街股市大跌，投资者担忧美国经济放缓 
 <small>🔗 [ft.com](https://www.ft.com/content/7f836a84-4fa5-4cd9-bcca-4e98d5a2e2a4): Wall Street stocks tumble as investors fret over US economic slowdown</small>
 
 
-| 🔥🔥: 132 \| 💬: [234](https://news.ycombinator.com/item?id=43322776) \| 🗓️ 2025-03-10
+| 🔥🔥: 133 \| 💬: [240](https://news.ycombinator.com/item?id=43322776) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -227,27 +227,27 @@ Scaleway 是一家提供多种服务的云服务提供商，除了名为 **Scale
 
 ---
 
-## <a name="18"></a>18. 可编辑游戏：自定义与发布你的游戏 
-<small>🔗 [playscl.com](https://playscl.com/make): Show HN: Editable Games</small>
-
-
-| 🔥🔥: 122 \| 💬: [25](https://news.ycombinator.com/item?id=43321688) \| 🗓️ 2025-03-10
-
-
-<br />
-这是一个展示如何使用**Canvas Language**编辑和自定义游戏的演示。你可以从列表中选择游戏，进入开发工作室进行编辑，并下载项目文件以便后续重新上传。你还可以上传自己的图片，甚至使用**SCL**重新编程游戏玩法。完成后，你可以通过发布页面将游戏激活并运行在你选择的域名上，例如itch.io页面。
-
----
-
-## <a name="19"></a>19. 在AWS EKS上实现零停机Kubernetes部署 
+## <a name="18"></a>18. 在AWS EKS上实现零停机Kubernetes部署 
 <small>🔗 [glasskube.dev](https://glasskube.dev/blog/kubernetes-zero-downtime-deployments-aws-eks/): Zero-Downtime Kubernetes Deployments on AWS with EKS</small>
 
 
-| 🔥🔥: 115 \| 💬: [62](https://news.ycombinator.com/item?id=43320024) \| 🗓️ 2025-03-10
+| 🔥🔥: 124 \| 💬: [62](https://news.ycombinator.com/item?id=43320024) \| 🗓️ 2025-03-10
 
 
 <br />
 本文介绍了如何在AWS EKS上实现**零停机部署**。通过启用**Pod Readiness Gates**，确保新Pod在负载均衡器健康检查通过后才被标记为就绪。同时，通过**优雅关闭**和**终止延迟**机制，避免因Pod终止过快导致的502/504错误。最终实现了100%无停机的部署流程。
+
+---
+
+## <a name="19"></a>19. 可编辑游戏：自定义与发布你的游戏 
+<small>🔗 [playscl.com](https://playscl.com/make): Show HN: Editable Games</small>
+
+
+| 🔥🔥: 123 \| 💬: [25](https://news.ycombinator.com/item?id=43321688) \| 🗓️ 2025-03-10
+
+
+<br />
+这是一个展示如何使用**Canvas Language**编辑和自定义游戏的演示。你可以从列表中选择游戏，进入开发工作室进行编辑，并下载项目文件以便后续重新上传。你还可以上传自己的图片，甚至使用**SCL**重新编程游戏玩法。完成后，你可以通过发布页面将游戏激活并运行在你选择的域名上，例如itch.io页面。
 
 ---
 
@@ -263,7 +263,19 @@ Kuzu-Wasm与WebLLM结合，展示了如何在浏览器中构建完全基于**图
 
 ---
 
-## <a name="21"></a>21. Visual Studio 会腐蚀程序员的大脑吗？ 
+## <a name="21"></a>21. 在地下室弯曲时空 
+<small>🔗 [fourmilab.ch](https://www.fourmilab.ch/gravitation/foobar/): Bending Spacetime in the Basement</small>
+
+
+| 🔥🔥: 114 \| 💬: [19](https://news.ycombinator.com/item?id=43327730) \| 🗓️ 2025-03-10
+
+
+<br />
+本文探讨了**引力**的普遍性及其在人类尺度上的实验验证。通过使用简单的材料和**扭力天平**，作者展示了如何在地下室中观察到物体之间的引力作用。尽管引力是四种基本力中最弱的，但通过巧妙的实验设计，我们依然能够感受到**时空弯曲**的微妙效果。
+
+---
+
+## <a name="22"></a>22. Visual Studio 会腐蚀程序员的大脑吗？ 
 <small>🔗 [charlespetzold.com](https://charlespetzold.com/etc/DoesVisualStudioRotTheMind.html): Does Visual Studio rot the mind? (2005)</small>
 
 
@@ -275,23 +287,11 @@ Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程
 
 ---
 
-## <a name="22"></a>22. 在地下室弯曲时空 
-<small>🔗 [fourmilab.ch](https://www.fourmilab.ch/gravitation/foobar/): Bending Spacetime in the Basement</small>
-
-
-| 🔥: 98 \| 💬: [14](https://news.ycombinator.com/item?id=43327730) \| 🗓️ 2025-03-10
-
-
-<br />
-本文探讨了**引力**的普遍性及其在人类尺度上的实验验证。通过使用简单的材料和**扭力天平**，作者展示了如何在地下室中观察到物体之间的引力作用。尽管引力是四种基本力中最弱的，但通过巧妙的实验设计，我们依然能够感受到**时空弯曲**的微妙效果。
-
----
-
 ## <a name="23"></a>23. Acorn计算机的技术历史 
 <small>🔗 [mcmordie.co.uk](https://www.mcmordie.co.uk/acornhistory/index.shtml): A technical history of Acorn Computers</small>
 
 
-| 🔥: 92 \| 💬: [39](https://news.ycombinator.com/item?id=43321131) \| 🗓️ 2025-03-10
+| 🔥: 95 \| 💬: [39](https://news.ycombinator.com/item?id=43321131) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -303,7 +303,7 @@ Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/03/10/tesla-shares-plunge-14percent-head-for-worst-day-in-five-years.html): Tesla shares plunge 14%, head for worst day in five years</small>
 
 
-| 🔥: 92 \| 💬: [113](https://news.ycombinator.com/item?id=43324157) \| 🗓️ 2025-03-10
+| 🔥: 94 \| 💬: [113](https://news.ycombinator.com/item?id=43324157) \| 🗓️ 2025-03-10
 
 
 <br />
