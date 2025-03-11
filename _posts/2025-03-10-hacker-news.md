@@ -27,7 +27,7 @@ tags:
 <small>🔗 [chromewebstore.google.com](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en): uBlock Origin is no longer available on the Chrome Store</small>
 
 
-| 🔥🔥: 1476 \| 💬: [736](https://news.ycombinator.com/item?id=43322922) \| 🗓️ 2025-03-10
+| 🔥🔥: 1520 \| 💬: [769](https://news.ycombinator.com/item?id=43322922) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -39,7 +39,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [exclusivearchitecture.com](https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html): Canon EF and RF Lenses – All Autofocus Motors</small>
 
 
-| 🔥🔥: 393 \| 💬: [97](https://news.ycombinator.com/item?id=43320230) \| 🗓️ 2025-03-10
+| 🔥🔥: 396 \| 💬: [99](https://news.ycombinator.com/item?id=43320230) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -51,7 +51,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/03/music-labels-will-regret-coming-for-the-internet-archive-sound-historian-says/): Music labels will regret coming for the Internet Archive, sound historian says</small>
 
 
-| 🔥🔥: 343 \| 💬: [118](https://news.ycombinator.com/item?id=43322245) \| 🗓️ 2025-03-10
+| 🔥🔥: 357 \| 💬: [125](https://news.ycombinator.com/item?id=43322245) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -63,7 +63,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.05244): Probabilistic Artificial Intelligence</small>
 
 
-| 🔥🔥: 271 \| 💬: [74](https://news.ycombinator.com/item?id=43318624) \| 🗓️ 2025-03-10
+| 🔥🔥: 280 \| 💬: [75](https://news.ycombinator.com/item?id=43318624) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -75,7 +75,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [nbcnews.com](https://www.nbcnews.com/news/us-news/washington-post-editor-ruth-marcus-resigns-accusing-ceo-killing-column-rcna195634): Washington Post editor resigns after accusing CEO of killing column</small>
 
 
-| 🔥🔥: 221 \| 💬: [54](https://news.ycombinator.com/item?id=43323519) \| 🗓️ 2025-03-10
+| 🔥🔥: 235 \| 💬: [55](https://news.ycombinator.com/item?id=43323519) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -83,23 +83,11 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 
 ---
 
-## <a name="6"></a>6. 工程师的软件定义无线电指南（2018） 
-<small>🔗 [analog.com](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf): Software-Defined Radio for Engineers (2018) [pdf]</small>
-
-
-| 🔥🔥: 201 \| 💬: [49](https://news.ycombinator.com/item?id=43323071) \| 🗓️ 2025-03-10
-
-
-<br />
-本书深入探讨了**软件定义无线电（SDR）**的核心概念，旨在帮助工程师理解和应用这一技术。内容涵盖了SDR的基础理论、硬件设计、信号处理以及实际应用案例。通过详细的解释和实例，读者可以掌握如何利用SDR技术进行**无线通信系统**的设计与优化。适合对无线通信和信号处理感兴趣的工程师和研究人员。
-
----
-
-## <a name="7"></a>7. 强化学习的数学基础 
+## <a name="6"></a>6. 强化学习的数学基础 
 <small>🔗 [github.com](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning): Mathematical Foundations of Reinforcement Learning</small>
 
 
-| 🔥🔥: 190 \| 💬: [18](https://news.ycombinator.com/item?id=43323946) \| 🗓️ 2025-03-10
+| 🔥🔥: 214 \| 💬: [20](https://news.ycombinator.com/item?id=43323946) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -107,7 +95,31 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 
 ---
 
-## <a name="8"></a>8. 真实的寒蝉效应 
+## <a name="7"></a>7. 工程师的软件定义无线电指南（2018） 
+<small>🔗 [analog.com](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf): Software-Defined Radio for Engineers (2018) [pdf]</small>
+
+
+| 🔥🔥: 209 \| 💬: [51](https://news.ycombinator.com/item?id=43323071) \| 🗓️ 2025-03-10
+
+
+<br />
+本书深入探讨了**软件定义无线电（SDR）**的核心概念，旨在帮助工程师理解和应用这一技术。内容涵盖了SDR的基础理论、硬件设计、信号处理以及实际应用案例。通过详细的解释和实例，读者可以掌握如何利用SDR技术进行**无线通信系统**的设计与优化。适合对无线通信和信号处理感兴趣的工程师和研究人员。
+
+---
+
+## <a name="8"></a>8. 英国游客因签证问题被美国拘留10天 
+<small>🔗 [theguardian.com](https://www.theguardian.com/uk-news/2025/mar/10/british-tourist-detained-us-authorities-10-days-visa-issue): British tourist detained by US authorities for 10 days over visa issue</small>
+
+
+| 🔥🔥: 184 \| 💬: [190](https://news.ycombinator.com/item?id=43324040) \| 🗓️ 2025-03-10
+
+
+<br />
+英国游客**Rebecca Burke**在试图从加拿大进入美国华盛顿州时被拘留。她计划通过**旅游签证**在美国停留，但因与寄宿家庭交换家务劳动而被要求申请**工作签证**。她在拘留中心度过了10天，期间未获得法律帮助，家人对此感到极度焦虑。她的父亲呼吁其他旅行者仔细检查签证要求，避免类似情况。
+
+---
+
+## <a name="9"></a>9. 真实的寒蝉效应 
 <small>🔗 [donmoynihan.substack.com](https://donmoynihan.substack.com/p/real-chilling-effects): Real Chilling Effects</small>
 
 
@@ -119,23 +131,11 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 
 ---
 
-## <a name="9"></a>9. 英国游客因签证问题被美国拘留10天 
-<small>🔗 [theguardian.com](https://www.theguardian.com/uk-news/2025/mar/10/british-tourist-detained-us-authorities-10-days-visa-issue): British tourist detained by US authorities for 10 days over visa issue</small>
-
-
-| 🔥🔥: 177 \| 💬: [172](https://news.ycombinator.com/item?id=43324040) \| 🗓️ 2025-03-10
-
-
-<br />
-英国游客**Rebecca Burke**在试图从加拿大进入美国华盛顿州时被拘留。她计划通过**旅游签证**在美国停留，但因与寄宿家庭交换家务劳动而被要求申请**工作签证**。她在拘留中心度过了10天，期间未获得法律帮助，家人对此感到极度焦虑。她的父亲呼吁其他旅行者仔细检查签证要求，避免类似情况。
-
----
-
 ## <a name="10"></a>10. 美国司法部要求谷歌出售Chrome，Android或成下一个目标 
 <small>🔗 [arstechnica.com](https://arstechnica.com/google/2025/03/doj-google-must-sell-chrome-android-could-be-next/): DOJ: Google must sell Chrome, Android could be next</small>
 
 
-| 🔥🔥: 172 \| 💬: [128](https://news.ycombinator.com/item?id=43323485) \| 🗓️ 2025-03-10
+| 🔥🔥: 175 \| 💬: [129](https://news.ycombinator.com/item?id=43323485) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -147,7 +147,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [independent.co.uk](https://www.independent.co.uk/business/wall-street-selloff-turns-ugly-as-us-recession-fears-grow-b2712420.html): Wall Street sell-off turns 'ugly' as US recession fears grow</small>
 
 
-| 🔥🔥: 149 \| 💬: [149](https://news.ycombinator.com/item?id=43323652) \| 🗓️ 2025-03-10
+| 🔥🔥: 150 \| 💬: [150](https://news.ycombinator.com/item?id=43323652) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -155,7 +155,31 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 
 ---
 
-## <a name="12"></a>12. 欧洲云计算平台概览 
+## <a name="12"></a>12. 人类与我的LLM一样糟糕 
+<small>🔗 [wilsoniumite.com](https://wilsoniumite.com/2025/03/10/people-are-just-as-bad-as-my-llms/): People are just as bad as my LLMs</small>
+
+
+| 🔥🔥: 145 \| 💬: [112](https://news.ycombinator.com/item?id=43323755) \| 🗓️ 2025-03-10
+
+
+<br />
+作者进行了一项实验，让LLM根据评论历史对97名Hacker News用户进行排名，以评估他们是否适合“谷歌软件工程师”的角色。实验中发现，尽管用户名称随机分配，**LLM仍倾向于偏好“Person One”**，显示出明显的偏见。随后，作者让人类评估TTS语音的吸引力，发现**人类同样存在偏好右侧样本的偏见**。这表明，无论是LLM还是人类，都需要通过大样本和随机化来减少偏见。
+
+---
+
+## <a name="13"></a>13. 是什么让爱尔兰大饥荒如此致命 
+<small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review): What made the Irish famine so deadly</small>
+
+
+| 🔥🔥: 143 \| 💬: [163](https://news.ycombinator.com/item?id=43326275) \| 🗓️ 2025-03-10
+
+
+<br />
+19世纪中叶，**爱尔兰大饥荒**（An Gorta Mór）导致150万人死亡或逃离，成为历史上比例最高的饥荒之一。**马铃薯疫病**（Phytophthora infestans）摧毁了爱尔兰的主要粮食来源，而英国政府的政策加剧了危机，大量粮食被出口，导致当地农民陷入极度贫困。饥荒不仅改变了爱尔兰的人口结构，还推动了土地改革和移民潮，深刻影响了爱尔兰及其海外社群的历史。
+
+---
+
+## <a name="14"></a>14. 欧洲云计算平台概览 
 <small>🔗 [european-alternatives.eu](https://european-alternatives.eu/category/cloud-computing-platforms): European Cloud Computing Platforms</small>
 
 
@@ -167,23 +191,11 @@ Scaleway 是一家提供多种服务的云服务提供商，除了名为 **Scale
 
 ---
 
-## <a name="13"></a>13. 人类与我的LLM一样糟糕 
-<small>🔗 [wilsoniumite.com](https://wilsoniumite.com/2025/03/10/people-are-just-as-bad-as-my-llms/): People are just as bad as my LLMs</small>
-
-
-| 🔥🔥: 138 \| 💬: [100](https://news.ycombinator.com/item?id=43323755) \| 🗓️ 2025-03-10
-
-
-<br />
-作者进行了一项实验，让LLM根据评论历史对97名Hacker News用户进行排名，以评估他们是否适合“谷歌软件工程师”的角色。实验中发现，尽管用户名称随机分配，**LLM仍倾向于偏好“Person One”**，显示出明显的偏见。随后，作者让人类评估TTS语音的吸引力，发现**人类同样存在偏好右侧样本的偏见**。这表明，无论是LLM还是人类，都需要通过大样本和随机化来减少偏见。
-
----
-
-## <a name="14"></a>14. HP固件更新导致打印机无法使用原装墨盒 
+## <a name="15"></a>15. HP固件更新导致打印机无法使用原装墨盒 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/firmware-update-bricks-hp-printers-makes-them-unable-to-use-hp-cartridges/): Firmware update bricks HP printers, makes them unable to use HP cartridges</small>
 
 
-| 🔥🔥: 135 \| 💬: [112](https://news.ycombinator.com/item?id=43323923) \| 🗓️ 2025-03-10
+| 🔥🔥: 139 \| 💬: [115](https://news.ycombinator.com/item?id=43323923) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -191,11 +203,11 @@ HP最近发布的固件更新**20250209**导致部分LaserJet MFP M232-M237系�
 
 ---
 
-## <a name="15"></a>15. 华尔街股市大跌，投资者担忧美国经济放缓 
+## <a name="16"></a>16. 华尔街股市大跌，投资者担忧美国经济放缓 
 <small>🔗 [ft.com](https://www.ft.com/content/7f836a84-4fa5-4cd9-bcca-4e98d5a2e2a4): Wall Street stocks tumble as investors fret over US economic slowdown</small>
 
 
-| 🔥🔥: 130 \| 💬: [226](https://news.ycombinator.com/item?id=43322776) \| 🗓️ 2025-03-10
+| 🔥🔥: 130 \| 💬: [227](https://news.ycombinator.com/item?id=43322776) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -203,23 +215,11 @@ HP最近发布的固件更新**20250209**导致部分LaserJet MFP M232-M237系�
 
 ---
 
-## <a name="16"></a>16. 是什么让爱尔兰大饥荒如此致命 
-<small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review): What made the Irish famine so deadly</small>
-
-
-| 🔥🔥: 128 \| 💬: [137](https://news.ycombinator.com/item?id=43326275) \| 🗓️ 2025-03-10
-
-
-<br />
-19世纪中叶，**爱尔兰大饥荒**（An Gorta Mór）导致150万人死亡或逃离，成为历史上比例最高的饥荒之一。**马铃薯疫病**（Phytophthora infestans）摧毁了爱尔兰的主要粮食来源，而英国政府的政策加剧了危机，大量粮食被出口，导致当地农民陷入极度贫困。饥荒不仅改变了爱尔兰的人口结构，还推动了土地改革和移民潮，深刻影响了爱尔兰及其海外社群的历史。
-
----
-
 ## <a name="17"></a>17. 可编辑游戏：自定义与发布你的游戏 
 <small>🔗 [playscl.com](https://playscl.com/make): Show HN: Editable Games</small>
 
 
-| 🔥🔥: 115 \| 💬: [24](https://news.ycombinator.com/item?id=43321688) \| 🗓️ 2025-03-10
+| 🔥🔥: 117 \| 💬: [24](https://news.ycombinator.com/item?id=43321688) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -231,7 +231,7 @@ HP最近发布的固件更新**20250209**导致部分LaserJet MFP M232-M237系�
 <small>🔗 [blog.kuzudb.com](https://blog.kuzudb.com/post/kuzu-wasm-rag/): Show HN: In-Browser Graph RAG with Kuzu-WASM and WebLLM</small>
 
 
-| 🔥🔥: 109 \| 💬: [23](https://news.ycombinator.com/item?id=43321523) \| 🗓️ 2025-03-10
+| 🔥🔥: 110 \| 💬: [24](https://news.ycombinator.com/item?id=43321523) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -255,7 +255,7 @@ Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/03/10/tesla-shares-plunge-14percent-head-for-worst-day-in-five-years.html): Tesla shares plunge 14%, head for worst day in five years</small>
 
 
-| 🔥: 90 \| 💬: [105](https://news.ycombinator.com/item?id=43324157) \| 🗓️ 2025-03-10
+| 🔥: 91 \| 💬: [111](https://news.ycombinator.com/item?id=43324157) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -263,11 +263,23 @@ Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程
 
 ---
 
-## <a name="21"></a>21. Acorn计算机的技术历史 
+## <a name="21"></a>21. 在AWS EKS上实现零停机Kubernetes部署 
+<small>🔗 [glasskube.dev](https://glasskube.dev/blog/kubernetes-zero-downtime-deployments-aws-eks/): Zero-Downtime Kubernetes Deployments on AWS with EKS</small>
+
+
+| 🔥: 90 \| 💬: [49](https://news.ycombinator.com/item?id=43320024) \| 🗓️ 2025-03-10
+
+
+<br />
+本文介绍了如何在AWS EKS上实现**零停机部署**。通过启用**Pod Readiness Gates**，确保新Pod在负载均衡器健康检查通过后才被标记为就绪。同时，通过**优雅关闭**和**终止延迟**机制，避免因Pod终止过快导致的502/504错误。最终实现了100%无停机的部署流程。
+
+---
+
+## <a name="22"></a>22. Acorn计算机的技术历史 
 <small>🔗 [mcmordie.co.uk](https://www.mcmordie.co.uk/acornhistory/index.shtml): A technical history of Acorn Computers</small>
 
 
-| 🔥: 87 \| 💬: [37](https://news.ycombinator.com/item?id=43321131) \| 🗓️ 2025-03-10
+| 🔥: 88 \| 💬: [38](https://news.ycombinator.com/item?id=43321131) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -275,7 +287,7 @@ Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程
 
 ---
 
-## <a name="22"></a>22. 生成式AI炒作已达顶峰 
+## <a name="23"></a>23. 生成式AI炒作已达顶峰 
 <small>🔗 [bjornwestergard.com](https://bjornwestergard.com/generative-ai-hype-peaking/): Generative AI Hype Peaking</small>
 
 
@@ -287,7 +299,7 @@ Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程
 
 ---
 
-## <a name="23"></a>23. 打造技术面试题库，助你轻松斩获梦想工作 
+## <a name="24"></a>24. 打造技术面试题库，助你轻松斩获梦想工作 
 <small>🔗 [interviewdb.io](https://www.interviewdb.io): We built a crowdsourced interview question database for tech interviews</small>
 
 
@@ -299,7 +311,7 @@ Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程
 
 ---
 
-## <a name="24"></a>24. 从150年股市崩盘中我们学到了什么 
+## <a name="25"></a>25. 从150年股市崩盘中我们学到了什么 
 <small>🔗 [morningstar.com](https://www.morningstar.com/economy/what-weve-learned-150-years-stock-market-crashes): What We've Learned from 150 Years of Stock Market Crashes</small>
 
 
@@ -308,17 +320,5 @@ Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程
 
 <br />
 过去150年中，股市经历了多次崩盘，但市场最终都恢复了并创下新高。**长期持有**是关键，恐慌性抛售只会带来损失。**市场崩盘的频率**大约每十年一次，尽管每次的严重程度和持续时间不同。**最严重的崩盘**包括1929年大萧条和2000年互联网泡沫破裂后的“失落的十年”。历史表明，**分散投资**和**长期持有**是应对市场波动的最佳策略。
-
----
-
-## <a name="25"></a>25. Twitter.com 是否宕机？ 
-<small>🔗 [isitdownrightnow.com](https://www.isitdownrightnow.com/twitter.com.html): Twitter.com – Is Twitter Down?</small>
-
-
-| 🔥: 71 \| 💬: [59](https://news.ycombinator.com/item?id=43322421) \| 🗓️ 2025-03-10
-
-
-<br />
-本文介绍了如何检查 Twitter.com 的服务器状态，并提供了**响应时间**和**服务状态历史记录**。如果网站无法访问，可能是由于**服务器过载**、网络问题或维护。文章还提供了浏览器缓存清理、DNS问题修复等**故障排除建议**，并鼓励用户提交评论以帮助分析可能的故障原因。
 
 ---
