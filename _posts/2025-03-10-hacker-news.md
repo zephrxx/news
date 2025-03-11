@@ -27,7 +27,7 @@ tags:
 <small>🔗 [chromewebstore.google.com](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en): uBlock Origin is no longer available on the Chrome Store</small>
 
 
-| 🔥🔥: 1301 \| 💬: [657](https://news.ycombinator.com/item?id=43322922) \| 🗓️ 2025-03-10
+| 🔥🔥: 1373 \| 💬: [685](https://news.ycombinator.com/item?id=43322922) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -39,7 +39,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [exclusivearchitecture.com](https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html): Canon EF and RF Lenses – All Autofocus Motors</small>
 
 
-| 🔥🔥: 357 \| 💬: [91](https://news.ycombinator.com/item?id=43320230) \| 🗓️ 2025-03-10
+| 🔥🔥: 372 \| 💬: [93](https://news.ycombinator.com/item?id=43320230) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -51,7 +51,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/03/music-labels-will-regret-coming-for-the-internet-archive-sound-historian-says/): Music labels will regret coming for the Internet Archive, sound historian says</small>
 
 
-| 🔥🔥: 291 \| 💬: [97](https://news.ycombinator.com/item?id=43322245) \| 🗓️ 2025-03-10
+| 🔥🔥: 315 \| 💬: [104](https://news.ycombinator.com/item?id=43322245) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -63,7 +63,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.05244): Probabilistic Artificial Intelligence</small>
 
 
-| 🔥🔥: 255 \| 💬: [73](https://news.ycombinator.com/item?id=43318624) \| 🗓️ 2025-03-10
+| 🔥🔥: 260 \| 💬: [73](https://news.ycombinator.com/item?id=43318624) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -75,7 +75,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [nbcnews.com](https://www.nbcnews.com/news/us-news/washington-post-editor-ruth-marcus-resigns-accusing-ceo-killing-column-rcna195634): Washington Post editor resigns after accusing CEO of killing column</small>
 
 
-| 🔥🔥: 191 \| 💬: [46](https://news.ycombinator.com/item?id=43323519) \| 🗓️ 2025-03-10
+| 🔥🔥: 204 \| 💬: [50](https://news.ycombinator.com/item?id=43323519) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -83,11 +83,23 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 
 ---
 
-## <a name="6"></a>6. 真实的寒蝉效应 
+## <a name="6"></a>6. 工程师的软件定义无线电指南（2018） 
+<small>🔗 [analog.com](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf): Software-Defined Radio for Engineers (2018) [pdf]</small>
+
+
+| 🔥🔥: 177 \| 💬: [38](https://news.ycombinator.com/item?id=43323071) \| 🗓️ 2025-03-10
+
+
+<br />
+本书深入探讨了**软件定义无线电（SDR）**的核心概念，旨在帮助工程师理解和应用这一技术。内容涵盖了SDR的基础理论、硬件设计、信号处理以及实际应用案例。通过详细的解释和实例，读者可以掌握如何利用SDR技术进行**无线通信系统**的设计与优化。适合对无线通信和信号处理感兴趣的工程师和研究人员。
+
+---
+
+## <a name="7"></a>7. 真实的寒蝉效应 
 <small>🔗 [donmoynihan.substack.com](https://donmoynihan.substack.com/p/real-chilling-effects): Real Chilling Effects</small>
 
 
-| 🔥🔥: 175 \| 💬: [150](https://news.ycombinator.com/item?id=43318842) \| 🗓️ 2025-03-10
+| 🔥🔥: 175 \| 💬: [151](https://news.ycombinator.com/item?id=43318842) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -95,7 +107,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 
 ---
 
-## <a name="7"></a>7. 美国司法部要求谷歌出售Chrome，Android或成下一个目标 
+## <a name="8"></a>8. 美国司法部要求谷歌出售Chrome，Android或成下一个目标 
 <small>🔗 [arstechnica.com](https://arstechnica.com/google/2025/03/doj-google-must-sell-chrome-android-could-be-next/): DOJ: Google must sell Chrome, Android could be next</small>
 
 
@@ -107,23 +119,11 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 
 ---
 
-## <a name="8"></a>8. 工程师的软件定义无线电指南（2018） 
-<small>🔗 [analog.com](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf): Software-Defined Radio for Engineers (2018) [pdf]</small>
-
-
-| 🔥🔥: 159 \| 💬: [34](https://news.ycombinator.com/item?id=43323071) \| 🗓️ 2025-03-10
-
-
-<br />
-本书深入探讨了**软件定义无线电（SDR）**的核心概念，旨在帮助工程师理解和应用这一技术。内容涵盖了SDR的基础理论、硬件设计、信号处理以及实际应用案例。通过详细的解释和实例，读者可以掌握如何利用SDR技术进行**无线通信系统**的设计与优化。适合对无线通信和信号处理感兴趣的工程师和研究人员。
-
----
-
 ## <a name="9"></a>9. 英国游客因签证问题被美国拘留10天 
 <small>🔗 [theguardian.com](https://www.theguardian.com/uk-news/2025/mar/10/british-tourist-detained-us-authorities-10-days-visa-issue): British tourist detained by US authorities for 10 days over visa issue</small>
 
 
-| 🔥🔥: 148 \| 💬: [118](https://news.ycombinator.com/item?id=43324040) \| 🗓️ 2025-03-10
+| 🔥🔥: 165 \| 💬: [145](https://news.ycombinator.com/item?id=43324040) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -131,11 +131,23 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 
 ---
 
-## <a name="10"></a>10. 华尔街抛售潮加剧，美国经济衰退担忧升温 
+## <a name="10"></a>10. 强化学习的数学基础 
+<small>🔗 [github.com](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning): Mathematical Foundations of Reinforcement Learning</small>
+
+
+| 🔥🔥: 153 \| 💬: [13](https://news.ycombinator.com/item?id=43323946) \| 🗓️ 2025-03-10
+
+
+<br />
+《强化学习的数学基础》是一本新书，旨在从数学角度介绍强化学习的基本概念、问题和经典算法。该书内容深入浅出，适合高年级本科生、研究生、研究人员及从业者阅读。书中包含大量示例和精心设计的数学推导，帮助读者理解算法的核心思想。作者还提供了中英文教学视频，结合书籍内容，帮助读者更好地学习。该书已获得广泛好评，并在GitHub上获得超过5,000颗星。
+
+---
+
+## <a name="11"></a>11. 华尔街抛售潮加剧，美国经济衰退担忧升温 
 <small>🔗 [independent.co.uk](https://www.independent.co.uk/business/wall-street-selloff-turns-ugly-as-us-recession-fears-grow-b2712420.html): Wall Street sell-off turns 'ugly' as US recession fears grow</small>
 
 
-| 🔥🔥: 146 \| 💬: [141](https://news.ycombinator.com/item?id=43323652) \| 🗓️ 2025-03-10
+| 🔥🔥: 148 \| 💬: [141](https://news.ycombinator.com/item?id=43323652) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -143,7 +155,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 
 ---
 
-## <a name="11"></a>11. 欧洲云计算平台概览 
+## <a name="12"></a>12. 欧洲云计算平台概览 
 <small>🔗 [european-alternatives.eu](https://european-alternatives.eu/category/cloud-computing-platforms): European Cloud Computing Platforms</small>
 
 
@@ -155,11 +167,11 @@ Scaleway 是一家提供多种服务的云服务提供商，除了名为 **Scale
 
 ---
 
-## <a name="12"></a>12. 华尔街股市大跌，投资者担忧美国经济放缓 
+## <a name="13"></a>13. 华尔街股市大跌，投资者担忧美国经济放缓 
 <small>🔗 [ft.com](https://www.ft.com/content/7f836a84-4fa5-4cd9-bcca-4e98d5a2e2a4): Wall Street stocks tumble as investors fret over US economic slowdown</small>
 
 
-| 🔥🔥: 130 \| 💬: [209](https://news.ycombinator.com/item?id=43322776) \| 🗓️ 2025-03-10
+| 🔥🔥: 130 \| 💬: [217](https://news.ycombinator.com/item?id=43322776) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -167,23 +179,11 @@ Scaleway 是一家提供多种服务的云服务提供商，除了名为 **Scale
 
 ---
 
-## <a name="13"></a>13. 强化学习的数学基础 
-<small>🔗 [github.com](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning): Mathematical Foundations of Reinforcement Learning</small>
-
-
-| 🔥🔥: 125 \| 💬: [12](https://news.ycombinator.com/item?id=43323946) \| 🗓️ 2025-03-10
-
-
-<br />
-《强化学习的数学基础》是一本新书，旨在从数学角度介绍强化学习的基本概念、问题和经典算法。该书内容深入浅出，适合高年级本科生、研究生、研究人员及从业者阅读。书中包含大量示例和精心设计的数学推导，帮助读者理解算法的核心思想。作者还提供了中英文教学视频，结合书籍内容，帮助读者更好地学习。该书已获得广泛好评，并在GitHub上获得超过5,000颗星。
-
----
-
 ## <a name="14"></a>14. 人类与我的LLM一样糟糕 
 <small>🔗 [wilsoniumite.com](https://wilsoniumite.com/2025/03/10/people-are-just-as-bad-as-my-llms/): People are just as bad as my LLMs</small>
 
 
-| 🔥🔥: 117 \| 💬: [73](https://news.ycombinator.com/item?id=43323755) \| 🗓️ 2025-03-10
+| 🔥🔥: 122 \| 💬: [87](https://news.ycombinator.com/item?id=43323755) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -195,7 +195,7 @@ Scaleway 是一家提供多种服务的云服务提供商，除了名为 **Scale
 <small>🔗 [playscl.com](https://playscl.com/make): Show HN: Editable Games</small>
 
 
-| 🔥🔥: 106 \| 💬: [23](https://news.ycombinator.com/item?id=43321688) \| 🗓️ 2025-03-10
+| 🔥🔥: 110 \| 💬: [23](https://news.ycombinator.com/item?id=43321688) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -207,7 +207,7 @@ Scaleway 是一家提供多种服务的云服务提供商，除了名为 **Scale
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/firmware-update-bricks-hp-printers-makes-them-unable-to-use-hp-cartridges/): Firmware update bricks HP printers, makes them unable to use HP cartridges</small>
 
 
-| 🔥🔥: 101 \| 💬: [78](https://news.ycombinator.com/item?id=43323923) \| 🗓️ 2025-03-10
+| 🔥🔥: 108 \| 💬: [85](https://news.ycombinator.com/item?id=43323923) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -219,7 +219,7 @@ HP最近发布的固件更新**20250209**导致部分LaserJet MFP M232-M237系�
 <small>🔗 [blog.kuzudb.com](https://blog.kuzudb.com/post/kuzu-wasm-rag/): Show HN: In-Browser Graph RAG with Kuzu-WASM and WebLLM</small>
 
 
-| 🔥: 93 \| 💬: [19](https://news.ycombinator.com/item?id=43321523) \| 🗓️ 2025-03-10
+| 🔥: 99 \| 💬: [23](https://news.ycombinator.com/item?id=43321523) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -231,7 +231,7 @@ Kuzu-Wasm与WebLLM结合，展示了如何在浏览器中构建完全基于**图
 <small>🔗 [charlespetzold.com](https://charlespetzold.com/etc/DoesVisualStudioRotTheMind.html): Does Visual Studio rot the mind? (2005)</small>
 
 
-| 🔥: 92 \| 💬: [88](https://news.ycombinator.com/item?id=43322496) \| 🗓️ 2025-03-10
+| 🔥: 95 \| 💬: [89](https://news.ycombinator.com/item?id=43322496) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -239,11 +239,23 @@ Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程
 
 ---
 
-## <a name="19"></a>19. 生成式AI炒作已达顶峰 
+## <a name="19"></a>19. 是什么让爱尔兰大饥荒如此致命 
+<small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review): What made the Irish famine so deadly</small>
+
+
+| 🔥: 88 \| 💬: [81](https://news.ycombinator.com/item?id=43326275) \| 🗓️ 2025-03-10
+
+
+<br />
+19世纪中叶，**爱尔兰大饥荒**（An Gorta Mór）导致150万人死亡或逃离，成为历史上比例最高的饥荒之一。**马铃薯疫病**（Phytophthora infestans）摧毁了爱尔兰的主要粮食来源，而英国政府的政策加剧了危机，大量粮食被出口，导致当地农民陷入极度贫困。饥荒不仅改变了爱尔兰的人口结构，还推动了土地改革和移民潮，深刻影响了爱尔兰及其海外社群的历史。
+
+---
+
+## <a name="20"></a>20. 生成式AI炒作已达顶峰 
 <small>🔗 [bjornwestergard.com](https://bjornwestergard.com/generative-ai-hype-peaking/): Generative AI Hype Peaking</small>
 
 
-| 🔥: 87 \| 💬: [121](https://news.ycombinator.com/item?id=43322570) \| 🗓️ 2025-03-10
+| 🔥: 87 \| 💬: [122](https://news.ycombinator.com/item?id=43322570) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -251,7 +263,19 @@ Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程
 
 ---
 
-## <a name="20"></a>20. 打造技术面试题库，助你轻松斩获梦想工作 
+## <a name="21"></a>21. 特斯拉股价暴跌14%，创五年最大单日跌幅 
+<small>🔗 [cnbc.com](https://www.cnbc.com/2025/03/10/tesla-shares-plunge-14percent-head-for-worst-day-in-five-years.html): Tesla shares plunge 14%, head for worst day in five years</small>
+
+
+| 🔥: 84 \| 💬: [97](https://news.ycombinator.com/item?id=43324157) \| 🗓️ 2025-03-10
+
+
+<br />
+特斯拉股价周一暴跌**14%**，创下自2020年以来的最大单日跌幅。自12月17日峰值以来，特斯拉市值已蒸发超过**8000亿美元**。股价下跌与CEO埃隆·马斯克在特朗普政府中的角色有关，同时**关税不确定性**和品牌形象受损也加剧了市场担忧。特斯拉在欧洲的销量大幅下滑，部分原因是消费者对品牌的负面情绪。
+
+---
+
+## <a name="22"></a>22. 打造技术面试题库，助你轻松斩获梦想工作 
 <small>🔗 [interviewdb.io](https://www.interviewdb.io): We built a crowdsourced interview question database for tech interviews</small>
 
 
@@ -263,23 +287,11 @@ Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程
 
 ---
 
-## <a name="21"></a>21. 特斯拉股价暴跌14%，创五年最大单日跌幅 
-<small>🔗 [cnbc.com](https://www.cnbc.com/2025/03/10/tesla-shares-plunge-14percent-head-for-worst-day-in-five-years.html): Tesla shares plunge 14%, head for worst day in five years</small>
-
-
-| 🔥: 80 \| 💬: [87](https://news.ycombinator.com/item?id=43324157) \| 🗓️ 2025-03-10
-
-
-<br />
-特斯拉股价周一暴跌**14%**，创下自2020年以来的最大单日跌幅。自12月17日峰值以来，特斯拉市值已蒸发超过**8000亿美元**。股价下跌与CEO埃隆·马斯克在特朗普政府中的角色有关，同时**关税不确定性**和品牌形象受损也加剧了市场担忧。特斯拉在欧洲的销量大幅下滑，部分原因是消费者对品牌的负面情绪。
-
----
-
-## <a name="22"></a>22. Acorn计算机的技术历史 
+## <a name="23"></a>23. Acorn计算机的技术历史 
 <small>🔗 [mcmordie.co.uk](https://www.mcmordie.co.uk/acornhistory/index.shtml): A technical history of Acorn Computers</small>
 
 
-| 🔥: 76 \| 💬: [30](https://news.ycombinator.com/item?id=43321131) \| 🗓️ 2025-03-10
+| 🔥: 79 \| 💬: [35](https://news.ycombinator.com/item?id=43321131) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -287,23 +299,11 @@ Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程
 
 ---
 
-## <a name="23"></a>23. 是什么让爱尔兰大饥荒如此致命 
-<small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review): What made the Irish famine so deadly</small>
-
-
-| 🔥: 72 \| 💬: [58](https://news.ycombinator.com/item?id=43326275) \| 🗓️ 2025-03-10
-
-
-<br />
-19世纪中叶，**爱尔兰大饥荒**（An Gorta Mór）导致150万人死亡或逃离，成为历史上比例最高的饥荒之一。**马铃薯疫病**（Phytophthora infestans）摧毁了爱尔兰的主要粮食来源，而英国政府的政策加剧了危机，大量粮食被出口，导致当地农民陷入极度贫困。饥荒不仅改变了爱尔兰的人口结构，还推动了土地改革和移民潮，深刻影响了爱尔兰及其海外社群的历史。
-
----
-
 ## <a name="24"></a>24. 从150年股市崩盘中我们学到了什么 
 <small>🔗 [morningstar.com](https://www.morningstar.com/economy/what-weve-learned-150-years-stock-market-crashes): What We've Learned from 150 Years of Stock Market Crashes</small>
 
 
-| 🔥: 71 \| 💬: [84](https://news.ycombinator.com/item?id=43323974) \| 🗓️ 2025-03-10
+| 🔥: 72 \| 💬: [86](https://news.ycombinator.com/item?id=43323974) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -315,7 +315,7 @@ Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程
 <small>🔗 [isitdownrightnow.com](https://www.isitdownrightnow.com/twitter.com.html): Twitter.com – Is Twitter Down?</small>
 
 
-| 🔥: 69 \| 💬: [59](https://news.ycombinator.com/item?id=43322421) \| 🗓️ 2025-03-10
+| 🔥: 70 \| 💬: [59](https://news.ycombinator.com/item?id=43322421) \| 🗓️ 2025-03-10
 
 
 <br />
