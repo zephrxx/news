@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共22条，具体内容您往下读...
+总共23条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/typescript/typescript-native-port/): A 10x Faster TypeScript</small>
 
 
-| 🔥🔥: 1171 \| 💬: [547](https://news.ycombinator.com/item?id=43332830) \| 🗓️ 2025-03-11
+| 🔥🔥: 1257 \| 💬: [574](https://news.ycombinator.com/item?id=43332830) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -39,7 +39,7 @@ TypeScript 团队宣布正在开发**原生编译器**，预计到 2025 年中�
 <small>🔗 [twitter.com](https://twitter.com/garrytan/status/1899092996702048709): Happy 20th Birthday, Y Combinator</small>
 
 
-| 🔥🔥: 633 \| 💬: [124](https://news.ycombinator.com/item?id=43332658) \| 🗓️ 2025-03-11
+| 🔥🔥: 743 \| 💬: [137](https://news.ycombinator.com/item?id=43332658) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -51,7 +51,7 @@ TypeScript 团队宣布正在开发**原生编译器**，预计到 2025 年中�
 <small>🔗 [jackhopkins.github.io](https://jackhopkins.github.io/factorio-learning-environment/): Show HN: Factorio Learning Environment – Agents Build Factories</small>
 
 
-| 🔥🔥: 555 \| 💬: [169](https://news.ycombinator.com/item?id=43331582) \| 🗓️ 2025-03-11
+| 🔥🔥: 577 \| 💬: [174](https://news.ycombinator.com/item?id=43331582) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -63,7 +63,7 @@ TypeScript 团队宣布正在开发**原生编译器**，预计到 2025 年中�
 <small>🔗 [medium.com](https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c): Fastplotlib: GPU-accelerated, fast, and interactive plotting library</small>
 
 
-| 🔥🔥: 252 \| 💬: [97](https://news.ycombinator.com/item?id=43334190) \| 🗓️ 2025-03-11
+| 🔥🔥: 287 \| 💬: [111](https://news.ycombinator.com/item?id=43334190) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -75,7 +75,7 @@ TypeScript 团队宣布正在开发**原生编译器**，预计到 2025 年中�
 <small>🔗 [seeinglogic.com](https://seeinglogic.com/posts/visual-readability-patterns/): What makes code hard to read: Visual patterns of complexity (2023)</small>
 
 
-| 🔥🔥: 232 \| 💬: [227](https://news.ycombinator.com/item?id=43330900) \| 🗓️ 2025-03-11
+| 🔥🔥: 249 \| 💬: [243](https://news.ycombinator.com/item?id=43330900) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -87,7 +87,7 @@ TypeScript 团队宣布正在开发**原生编译器**，预计到 2025 年中�
 <small>🔗 [developer.espressif.com](https://developer.espressif.com/blog/2025/03/esp32-bluetooth-clearing-the-air/): ESP32 Undocumented Bluetooth Commands: Clearing the Air</small>
 
 
-| 🔥🔥: 220 \| 💬: [85](https://news.ycombinator.com/item?id=43330331) \| 🗓️ 2025-03-11
+| 🔥🔥: 220 \| 💬: [86](https://news.ycombinator.com/item?id=43330331) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -99,7 +99,7 @@ Espressif 针对近期关于 ESP32 蓝牙控制器可能存在“后门”或“
 <small>🔗 [chicagomaroon.github.io](https://chicagomaroon.github.io/data-visualizations/2025/uchicago-property/): Mapping the University of Chicago's 135-year expansion into Hyde Park and beyond</small>
 
 
-| 🔥🔥: 171 \| 💬: [52](https://news.ycombinator.com/item?id=43332424) \| 🗓️ 2025-03-11
+| 🔥🔥: 177 \| 💬: [54](https://news.ycombinator.com/item?id=43332424) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -111,7 +111,7 @@ Espressif 针对近期关于 ESP32 蓝牙控制器可能存在“后门”或“
 <small>🔗 [bbc.com](https://www.bbc.com/travel/article/20190623-the-us-island-that-speaks-elizabethan-english): The US island that speaks Elizabethan English</small>
 
 
-| 🔥🔥: 159 \| 💬: [73](https://news.ycombinator.com/item?id=43332752) \| 🗓️ 2025-03-11
+| 🔥🔥: 171 \| 💬: [91](https://news.ycombinator.com/item?id=43332752) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -123,7 +123,7 @@ Espressif 针对近期关于 ESP32 蓝牙控制器可能存在“后门”或“
 <small>🔗 [semianalysis.com](https://semianalysis.com/2025/03/11/america-is-missing-the-new-labor-economy-robotics-part-1/): America Is Missing The New Labor Economy – Robotics Part 1</small>
 
 
-| 🔥🔥: 113 \| 💬: [146](https://news.ycombinator.com/item?id=43331358) \| 🗓️ 2025-03-11
+| 🔥🔥: 131 \| 💬: [175](https://news.ycombinator.com/item?id=43331358) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -131,35 +131,11 @@ Espressif 针对近期关于 ESP32 蓝牙控制器可能存在“后门”或“
 
 ---
 
-## <a name="10"></a>10. AI生成语音证据在法庭上的危险性 
-<small>🔗 [lawfaremedia.org](https://www.lawfaremedia.org/article/ai-generated-voice-evidence-poses-dangers-in-court): AI-Generated Voice Evidence Poses Dangers in Court</small>
-
-
-| 🔥🔥: 103 \| 💬: [67](https://news.ycombinator.com/item?id=43333484) \| 🗓️ 2025-03-11
-
-
-<br />
-AI生成的语音克隆技术日益成熟，甚至能以30秒的音频克隆出逼真的声音。研究表明，**80%的听众无法区分真实声音与AI克隆**，这对法庭上的语音证据认证提出了挑战。目前，联邦证据规则仅需证人识别即可认证语音，但这一标准在AI时代已不可靠。建议修改规则，赋予法官更多裁量权，以防止虚假证据进入法庭。
-
----
-
-## <a name="11"></a>11. Krep：高性能字符串搜索工具，C语言编写 
-<small>🔗 [davidesantangelo.github.io](https://davidesantangelo.github.io/krep/): Show HN: Krep a High-Performance String Search Utility Written in C</small>
-
-
-| 🔥🔥: 103 \| 💬: [38](https://news.ycombinator.com/item?id=43333946) \| 🗓️ 2025-03-11
-
-
-<br />
-Krep 是一款**高性能**的字符串搜索工具，采用优化算法和内存映射文件 I/O，搜索速度比传统工具快**5倍**。它支持**硬件加速**（SSE4.2 和 AVX2 指令集）和**多线程处理**，能根据模式和硬件动态选择最佳算法，内存占用低且接口简单。适用于大文件搜索，性能显著优于 ripgrep 和 grep。
-
----
-
-## <a name="12"></a>12. NIST选择HQC作为后量子加密的第五种算法 
+## <a name="10"></a>10. NIST选择HQC作为后量子加密的第五种算法 
 <small>🔗 [nist.gov](https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption): NIST selects HQC as fifth algorithm for post-quantum encryption</small>
 
 
-| 🔥: 98 \| 💬: [71](https://news.ycombinator.com/item?id=43332944) \| 🗓️ 2025-03-11
+| 🔥🔥: 115 \| 💬: [76](https://news.ycombinator.com/item?id=43332944) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -167,7 +143,43 @@ Krep 是一款**高性能**的字符串搜索工具，采用优化算法和内�
 
 ---
 
-## <a name="13"></a>13. 拯救美国气候和环境数据，防止其消失 
+## <a name="11"></a>11. Krep：高性能字符串搜索工具，C语言编写 
+<small>🔗 [davidesantangelo.github.io](https://davidesantangelo.github.io/krep/): Show HN: Krep a High-Performance String Search Utility Written in C</small>
+
+
+| 🔥🔥: 114 \| 💬: [42](https://news.ycombinator.com/item?id=43333946) \| 🗓️ 2025-03-11
+
+
+<br />
+Krep 是一款**高性能**的字符串搜索工具，采用优化算法和内存映射文件 I/O，搜索速度比传统工具快**5倍**。它支持**硬件加速**（SSE4.2 和 AVX2 指令集）和**多线程处理**，能根据模式和硬件动态选择最佳算法，内存占用低且接口简单。适用于大文件搜索，性能显著优于 ripgrep 和 grep。
+
+---
+
+## <a name="12"></a>12. AI生成语音证据在法庭上的危险性 
+<small>🔗 [lawfaremedia.org](https://www.lawfaremedia.org/article/ai-generated-voice-evidence-poses-dangers-in-court): AI-Generated Voice Evidence Poses Dangers in Court</small>
+
+
+| 🔥🔥: 110 \| 💬: [73](https://news.ycombinator.com/item?id=43333484) \| 🗓️ 2025-03-11
+
+
+<br />
+AI生成的语音克隆技术日益成熟，甚至能以30秒的音频克隆出逼真的声音。研究表明，**80%的听众无法区分真实声音与AI克隆**，这对法庭上的语音证据认证提出了挑战。目前，联邦证据规则仅需证人识别即可认证语音，但这一标准在AI时代已不可靠。建议修改规则，赋予法官更多裁量权，以防止虚假证据进入法庭。
+
+---
+
+## <a name="13"></a>13. 为99.7%没有Powerwall的家庭打造的即插即用家用电池 
+<small>🔗 [pilaenergy.com](https://pilaenergy.com): Show HN: We built a Plug-in Home Battery for the 99.7% of us without Powerwalls</small>
+
+
+| 🔥: 89 \| 💬: [106](https://news.ycombinator.com/item?id=43333661) \| 🗓️ 2025-03-11
+
+
+<br />
+Pila是一款**即插即用**的家用备用电池，无需重新布线，适合任何家庭。它通过标准插座连接，提供**自动备用电源**，并在停电时无缝供电。Pila还支持**太阳能充电**，优化家庭能源使用，并通过智能软件提供实时监控和异常通知。
+
+---
+
+## <a name="14"></a>14. 拯救美国气候和环境数据，防止其消失 
 <small>🔗 [e360.yale.edu](https://e360.yale.edu/features/eric-nost-interview): Saving U.S. Climate and Environmental Data Before It Goes Away</small>
 
 
@@ -179,23 +191,11 @@ Krep 是一款**高性能**的字符串搜索工具，采用优化算法和内�
 
 ---
 
-## <a name="14"></a>14. Espressif回应Tarlogic关于ESP32蓝牙未记录命令的报告 
-<small>🔗 [espressif.com](https://www.espressif.com/en/news/response_esp32_bluetooth): Espressif's Response to Undocumented Commands in ESP32 Bluetooth by Tarlogic</small>
-
-
-| 🔥: 78 \| 💬: [15](https://news.ycombinator.com/item?id=43332184) \| 🗓️ 2025-03-11
-
-
-<br />
-Espressif针对Tarlogic发现的**ESP32蓝牙未记录命令**问题作出回应。该公司强调了其对**安全性和透明度**的承诺，并表示正在积极修复相关漏洞。同时，Espressif鼓励开发者关注官方文档，并提供了更多资源以帮助用户更好地理解和使用其产品。
-
----
-
 ## <a name="15"></a>15. 后院里的氰化物 
 <small>🔗 [suziepetryk.com](https://suziepetryk.com/blog/cyanide.html): Backyard Cyanide</small>
 
 
-| 🔥: 77 \| 💬: [28](https://news.ycombinator.com/item?id=43335110) \| 🗓️ 2025-03-11
+| 🔥: 85 \| 💬: [32](https://news.ycombinator.com/item?id=43335110) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -203,11 +203,23 @@ Espressif针对Tarlogic发现的**ESP32蓝牙未记录命令**问题作出回应
 
 ---
 
-## <a name="16"></a>16. 紧凑表示类型格 
+## <a name="16"></a>16. Espressif回应Tarlogic关于ESP32蓝牙未记录命令的报告 
+<small>🔗 [espressif.com](https://www.espressif.com/en/news/response_esp32_bluetooth): Espressif's Response to Undocumented Commands in ESP32 Bluetooth by Tarlogic</small>
+
+
+| 🔥: 80 \| 💬: [20](https://news.ycombinator.com/item?id=43332184) \| 🗓️ 2025-03-11
+
+
+<br />
+Espressif针对Tarlogic发现的**ESP32蓝牙未记录命令**问题作出回应。该公司强调了其对**安全性和透明度**的承诺，并表示正在积极修复相关漏洞。同时，Espressif鼓励开发者关注官方文档，并提供了更多资源以帮助用户更好地理解和使用其产品。
+
+---
+
+## <a name="17"></a>17. 紧凑表示类型格 
 <small>🔗 [bernsteinbear.com](https://bernsteinbear.com/blog/lattice-bitset/): Representing Type Lattices Compactly</small>
 
 
-| 🔥: 70 \| 💬: [19](https://news.ycombinator.com/item?id=43331914) \| 🗓️ 2025-03-11
+| 🔥: 74 \| 💬: [21](https://news.ycombinator.com/item?id=43331914) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -215,23 +227,11 @@ Espressif针对Tarlogic发现的**ESP32蓝牙未记录命令**问题作出回应
 
 ---
 
-## <a name="17"></a>17. 为99.7%没有Powerwall的家庭打造的即插即用家用电池 
-<small>🔗 [pilaenergy.com](https://pilaenergy.com): Show HN: We built a Plug-in Home Battery for the 99.7% of us without Powerwalls</small>
-
-
-| 🔥: 55 \| 💬: [67](https://news.ycombinator.com/item?id=43333661) \| 🗓️ 2025-03-11
-
-
-<br />
-Pila是一款**即插即用**的家用备用电池，无需重新布线，适合任何家庭。它通过标准插座连接，提供**自动备用电源**，并在停电时无缝供电。Pila还支持**太阳能充电**，优化家庭能源使用，并通过智能软件提供实时监控和异常通知。
-
----
-
 ## <a name="18"></a>18. 大型云服务/DNS运营商的神秘DNS根查询流量（2022） 
 <small>🔗 [blog.apnic.net](https://blog.apnic.net/2022/06/02/more-mysterious-dns-root-query-traffic-from-a-large-cloud-dns-operator/): More mysterious DNS root query traffic from a large cloud/DNS operator (2022)</small>
 
 
-| 🔥: 48 \| 💬: [12](https://news.ycombinator.com/item?id=43331601) \| 🗓️ 2025-03-11
+| 🔥: 51 \| 💬: [13](https://news.ycombinator.com/item?id=43331601) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -239,11 +239,23 @@ Pila是一款**即插即用**的家用备用电池，无需重新布线，适合
 
 ---
 
-## <a name="19"></a>19. Cursor 上传包含敏感信息的 .env 文件，尽管有 .gitignore 和 .cursorignore 
+## <a name="19"></a>19. 程序探索者：容器游乐场 
+<small>🔗 [programexplorer.org](https://programexplorer.org/): Show HN: Program Explorer, a container playground</small>
+
+
+| 🔥: 46 \| 💬: [7](https://news.ycombinator.com/item?id=43334192) \| 🗓️ 2025-03-11
+
+
+<br />
+这是一个**Alpha预览版**的容器实验平台，用户可以在其中探索和测试容器技术。由于是早期版本，**网站可能会随时不可用**。该平台旨在为开发者提供一个**安全的环境**，用于学习和实验容器化应用。
+
+---
+
+## <a name="20"></a>20. Cursor 上传包含敏感信息的 .env 文件，尽管有 .gitignore 和 .cursorignore 
 <small>🔗 [forum.cursor.com](https://forum.cursor.com/t/env-file-question/60165): Cursor uploads .env file with secrets despite .gitignore and .cursorignore</small>
 
 
-| 🔥: 44 \| 💬: [13](https://news.ycombinator.com/item?id=43331770) \| 🗓️ 2025-03-11
+| 🔥: 45 \| 💬: [13](https://news.ycombinator.com/item?id=43331770) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -251,7 +263,7 @@ Pila是一款**即插即用**的家用备用电池，无需重新布线，适合
 
 ---
 
-## <a name="20"></a>20. 特斯拉抗议活动愈演愈烈，多地爆发冲突 
+## <a name="21"></a>21. 特斯拉抗议活动愈演愈烈，多地爆发冲突 
 <small>🔗 [theverge.com](https://www.theverge.com/news/626851/tesla-takedown-protests-elon-musk): The Tesla protests are getting bigger – and rowdier</small>
 
 
@@ -263,11 +275,11 @@ Pila是一款**即插即用**的家用备用电池，无需重新布线，适合
 
 ---
 
-## <a name="21"></a>21. 本地运行大型语言模型的实用指南 
+## <a name="22"></a>22. 本地运行大型语言模型的实用指南 
 <small>🔗 [spin.atomicobject.com](https://spin.atomicobject.com/running-local-llms/): A Practical Guide to Running Local LLMs</small>
 
 
-| 🔥: 38 \| 💬: [18](https://news.ycombinator.com/item?id=43332352) \| 🗓️ 2025-03-11
+| 🔥: 39 \| 💬: [18](https://news.ycombinator.com/item?id=43332352) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -275,11 +287,11 @@ Pila是一款**即插即用**的家用备用电池，无需重新布线，适合
 
 ---
 
-## <a name="22"></a>22. 如何利用大语言模型（LLM）辅助编程 
+## <a name="23"></a>23. 如何利用大语言模型（LLM）辅助编程 
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Mar/11/using-llms-for-code/): Here's how I use LLMs to help me write code</small>
 
 
-| 🔥: 36 \| 💬: [4](https://news.ycombinator.com/item?id=43332669) \| 🗓️ 2025-03-11
+| 🔥: 38 \| 💬: [4](https://news.ycombinator.com/item?id=43332669) \| 🗓️ 2025-03-11
 
 
 <br />
