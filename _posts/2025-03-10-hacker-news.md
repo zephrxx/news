@@ -27,7 +27,7 @@ tags:
 <small>🔗 [chromewebstore.google.com](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en): uBlock Origin is no longer available on the Chrome Store</small>
 
 
-| 🔥🔥: 1429 \| 💬: [714](https://news.ycombinator.com/item?id=43322922) \| 🗓️ 2025-03-10
+| 🔥🔥: 1476 \| 💬: [736](https://news.ycombinator.com/item?id=43322922) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -39,7 +39,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [exclusivearchitecture.com](https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html): Canon EF and RF Lenses – All Autofocus Motors</small>
 
 
-| 🔥🔥: 384 \| 💬: [94](https://news.ycombinator.com/item?id=43320230) \| 🗓️ 2025-03-10
+| 🔥🔥: 393 \| 💬: [97](https://news.ycombinator.com/item?id=43320230) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -51,7 +51,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/03/music-labels-will-regret-coming-for-the-internet-archive-sound-historian-says/): Music labels will regret coming for the Internet Archive, sound historian says</small>
 
 
-| 🔥🔥: 336 \| 💬: [111](https://news.ycombinator.com/item?id=43322245) \| 🗓️ 2025-03-10
+| 🔥🔥: 343 \| 💬: [118](https://news.ycombinator.com/item?id=43322245) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -63,7 +63,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.05244): Probabilistic Artificial Intelligence</small>
 
 
-| 🔥🔥: 266 \| 💬: [74](https://news.ycombinator.com/item?id=43318624) \| 🗓️ 2025-03-10
+| 🔥🔥: 271 \| 💬: [74](https://news.ycombinator.com/item?id=43318624) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -75,7 +75,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [nbcnews.com](https://www.nbcnews.com/news/us-news/washington-post-editor-ruth-marcus-resigns-accusing-ceo-killing-column-rcna195634): Washington Post editor resigns after accusing CEO of killing column</small>
 
 
-| 🔥🔥: 213 \| 💬: [51](https://news.ycombinator.com/item?id=43323519) \| 🗓️ 2025-03-10
+| 🔥🔥: 221 \| 💬: [54](https://news.ycombinator.com/item?id=43323519) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -87,7 +87,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [analog.com](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf): Software-Defined Radio for Engineers (2018) [pdf]</small>
 
 
-| 🔥🔥: 190 \| 💬: [46](https://news.ycombinator.com/item?id=43323071) \| 🗓️ 2025-03-10
+| 🔥🔥: 201 \| 💬: [49](https://news.ycombinator.com/item?id=43323071) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -99,7 +99,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [github.com](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning): Mathematical Foundations of Reinforcement Learning</small>
 
 
-| 🔥🔥: 176 \| 💬: [17](https://news.ycombinator.com/item?id=43323946) \| 🗓️ 2025-03-10
+| 🔥🔥: 190 \| 💬: [18](https://news.ycombinator.com/item?id=43323946) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -111,7 +111,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [donmoynihan.substack.com](https://donmoynihan.substack.com/p/real-chilling-effects): Real Chilling Effects</small>
 
 
-| 🔥🔥: 175 \| 💬: [152](https://news.ycombinator.com/item?id=43318842) \| 🗓️ 2025-03-10
+| 🔥🔥: 177 \| 💬: [153](https://news.ycombinator.com/item?id=43318842) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -123,7 +123,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [theguardian.com](https://www.theguardian.com/uk-news/2025/mar/10/british-tourist-detained-us-authorities-10-days-visa-issue): British tourist detained by US authorities for 10 days over visa issue</small>
 
 
-| 🔥🔥: 173 \| 💬: [163](https://news.ycombinator.com/item?id=43324040) \| 🗓️ 2025-03-10
+| 🔥🔥: 177 \| 💬: [172](https://news.ycombinator.com/item?id=43324040) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -135,7 +135,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [arstechnica.com](https://arstechnica.com/google/2025/03/doj-google-must-sell-chrome-android-could-be-next/): DOJ: Google must sell Chrome, Android could be next</small>
 
 
-| 🔥🔥: 169 \| 💬: [127](https://news.ycombinator.com/item?id=43323485) \| 🗓️ 2025-03-10
+| 🔥🔥: 172 \| 💬: [128](https://news.ycombinator.com/item?id=43323485) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -147,7 +147,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [independent.co.uk](https://www.independent.co.uk/business/wall-street-selloff-turns-ugly-as-us-recession-fears-grow-b2712420.html): Wall Street sell-off turns 'ugly' as US recession fears grow</small>
 
 
-| 🔥🔥: 148 \| 💬: [145](https://news.ycombinator.com/item?id=43323652) \| 🗓️ 2025-03-10
+| 🔥🔥: 149 \| 💬: [149](https://news.ycombinator.com/item?id=43323652) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -159,7 +159,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [european-alternatives.eu](https://european-alternatives.eu/category/cloud-computing-platforms): European Cloud Computing Platforms</small>
 
 
-| 🔥🔥: 141 \| 💬: [62](https://news.ycombinator.com/item?id=43318738) \| 🗓️ 2025-03-10
+| 🔥🔥: 142 \| 💬: [62](https://news.ycombinator.com/item?id=43318738) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -171,7 +171,7 @@ Scaleway 是一家提供多种服务的云服务提供商，除了名为 **Scale
 <small>🔗 [wilsoniumite.com](https://wilsoniumite.com/2025/03/10/people-are-just-as-bad-as-my-llms/): People are just as bad as my LLMs</small>
 
 
-| 🔥🔥: 133 \| 💬: [96](https://news.ycombinator.com/item?id=43323755) \| 🗓️ 2025-03-10
+| 🔥🔥: 138 \| 💬: [100](https://news.ycombinator.com/item?id=43323755) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -179,23 +179,11 @@ Scaleway 是一家提供多种服务的云服务提供商，除了名为 **Scale
 
 ---
 
-## <a name="14"></a>14. 华尔街股市大跌，投资者担忧美国经济放缓 
-<small>🔗 [ft.com](https://www.ft.com/content/7f836a84-4fa5-4cd9-bcca-4e98d5a2e2a4): Wall Street stocks tumble as investors fret over US economic slowdown</small>
-
-
-| 🔥🔥: 130 \| 💬: [224](https://news.ycombinator.com/item?id=43322776) \| 🗓️ 2025-03-10
-
-
-<br />
-由于投资者对美国**经济放缓**的担忧加剧，**华尔街股市**大幅下跌。市场情绪受到多重因素影响，包括通胀压力和货币政策的不确定性，导致主要指数普遍下挫。投资者正密切关注经济数据和美联储的政策动向，以评估未来的市场走势。
-
----
-
-## <a name="15"></a>15. HP固件更新导致打印机无法使用原装墨盒 
+## <a name="14"></a>14. HP固件更新导致打印机无法使用原装墨盒 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/firmware-update-bricks-hp-printers-makes-them-unable-to-use-hp-cartridges/): Firmware update bricks HP printers, makes them unable to use HP cartridges</small>
 
 
-| 🔥🔥: 126 \| 💬: [101](https://news.ycombinator.com/item?id=43323923) \| 🗓️ 2025-03-10
+| 🔥🔥: 135 \| 💬: [112](https://news.ycombinator.com/item?id=43323923) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -203,23 +191,23 @@ HP最近发布的固件更新**20250209**导致部分LaserJet MFP M232-M237系�
 
 ---
 
-## <a name="16"></a>16. 可编辑游戏：自定义与发布你的游戏 
-<small>🔗 [playscl.com](https://playscl.com/make): Show HN: Editable Games</small>
+## <a name="15"></a>15. 华尔街股市大跌，投资者担忧美国经济放缓 
+<small>🔗 [ft.com](https://www.ft.com/content/7f836a84-4fa5-4cd9-bcca-4e98d5a2e2a4): Wall Street stocks tumble as investors fret over US economic slowdown</small>
 
 
-| 🔥🔥: 113 \| 💬: [24](https://news.ycombinator.com/item?id=43321688) \| 🗓️ 2025-03-10
+| 🔥🔥: 130 \| 💬: [226](https://news.ycombinator.com/item?id=43322776) \| 🗓️ 2025-03-10
 
 
 <br />
-这是一个展示如何使用**Canvas Language**编辑和自定义游戏的演示。你可以从列表中选择游戏，进入开发工作室进行编辑，并下载项目文件以便后续重新上传。你还可以上传自己的图片，甚至使用**SCL**重新编程游戏玩法。完成后，你可以通过发布页面将游戏激活并运行在你选择的域名上，例如itch.io页面。
+由于投资者对美国**经济放缓**的担忧加剧，**华尔街股市**大幅下跌。市场情绪受到多重因素影响，包括通胀压力和货币政策的不确定性，导致主要指数普遍下挫。投资者正密切关注经济数据和美联储的政策动向，以评估未来的市场走势。
 
 ---
 
-## <a name="17"></a>17. 是什么让爱尔兰大饥荒如此致命 
+## <a name="16"></a>16. 是什么让爱尔兰大饥荒如此致命 
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review): What made the Irish famine so deadly</small>
 
 
-| 🔥🔥: 110 \| 💬: [103](https://news.ycombinator.com/item?id=43326275) \| 🗓️ 2025-03-10
+| 🔥🔥: 128 \| 💬: [137](https://news.ycombinator.com/item?id=43326275) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -227,11 +215,23 @@ HP最近发布的固件更新**20250209**导致部分LaserJet MFP M232-M237系�
 
 ---
 
+## <a name="17"></a>17. 可编辑游戏：自定义与发布你的游戏 
+<small>🔗 [playscl.com](https://playscl.com/make): Show HN: Editable Games</small>
+
+
+| 🔥🔥: 115 \| 💬: [24](https://news.ycombinator.com/item?id=43321688) \| 🗓️ 2025-03-10
+
+
+<br />
+这是一个展示如何使用**Canvas Language**编辑和自定义游戏的演示。你可以从列表中选择游戏，进入开发工作室进行编辑，并下载项目文件以便后续重新上传。你还可以上传自己的图片，甚至使用**SCL**重新编程游戏玩法。完成后，你可以通过发布页面将游戏激活并运行在你选择的域名上，例如itch.io页面。
+
+---
+
 ## <a name="18"></a>18. 浏览器内图数据库与LLM结合的Graph RAG应用 
 <small>🔗 [blog.kuzudb.com](https://blog.kuzudb.com/post/kuzu-wasm-rag/): Show HN: In-Browser Graph RAG with Kuzu-WASM and WebLLM</small>
 
 
-| 🔥🔥: 105 \| 💬: [23](https://news.ycombinator.com/item?id=43321523) \| 🗓️ 2025-03-10
+| 🔥🔥: 109 \| 💬: [23](https://news.ycombinator.com/item?id=43321523) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -251,7 +251,31 @@ Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程
 
 ---
 
-## <a name="20"></a>20. 生成式AI炒作已达顶峰 
+## <a name="20"></a>20. 特斯拉股价暴跌14%，创五年最大单日跌幅 
+<small>🔗 [cnbc.com](https://www.cnbc.com/2025/03/10/tesla-shares-plunge-14percent-head-for-worst-day-in-five-years.html): Tesla shares plunge 14%, head for worst day in five years</small>
+
+
+| 🔥: 90 \| 💬: [105](https://news.ycombinator.com/item?id=43324157) \| 🗓️ 2025-03-10
+
+
+<br />
+特斯拉股价周一暴跌**14%**，创下自2020年以来的最大单日跌幅。自12月17日峰值以来，特斯拉市值已蒸发超过**8000亿美元**。股价下跌与CEO埃隆·马斯克在特朗普政府中的角色有关，同时**关税不确定性**和品牌形象受损也加剧了市场担忧。特斯拉在欧洲的销量大幅下滑，部分原因是消费者对品牌的负面情绪。
+
+---
+
+## <a name="21"></a>21. Acorn计算机的技术历史 
+<small>🔗 [mcmordie.co.uk](https://www.mcmordie.co.uk/acornhistory/index.shtml): A technical history of Acorn Computers</small>
+
+
+| 🔥: 87 \| 💬: [37](https://news.ycombinator.com/item?id=43321131) \| 🗓️ 2025-03-10
+
+
+<br />
+本文简要介绍了**Acorn计算机**的技术发展历程，重点聚焦于技术层面的创新与突破。从1978年公司成立到1990年代末，Acorn推出了多款标志性产品，如**BBC Micro**、**Archimedes**系列和**RISC PC**。1991年，ARM处理器部门独立为ARM Ltd，成为全球领先的芯片设计公司。尽管Acorn在1998年转型为Element 14，但其技术遗产，尤其是**RISC OS**和ARM架构，至今仍具有深远影响。
+
+---
+
+## <a name="22"></a>22. 生成式AI炒作已达顶峰 
 <small>🔗 [bjornwestergard.com](https://bjornwestergard.com/generative-ai-hype-peaking/): Generative AI Hype Peaking</small>
 
 
@@ -263,35 +287,11 @@ Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程
 
 ---
 
-## <a name="21"></a>21. 特斯拉股价暴跌14%，创五年最大单日跌幅 
-<small>🔗 [cnbc.com](https://www.cnbc.com/2025/03/10/tesla-shares-plunge-14percent-head-for-worst-day-in-five-years.html): Tesla shares plunge 14%, head for worst day in five years</small>
-
-
-| 🔥: 86 \| 💬: [101](https://news.ycombinator.com/item?id=43324157) \| 🗓️ 2025-03-10
-
-
-<br />
-特斯拉股价周一暴跌**14%**，创下自2020年以来的最大单日跌幅。自12月17日峰值以来，特斯拉市值已蒸发超过**8000亿美元**。股价下跌与CEO埃隆·马斯克在特朗普政府中的角色有关，同时**关税不确定性**和品牌形象受损也加剧了市场担忧。特斯拉在欧洲的销量大幅下滑，部分原因是消费者对品牌的负面情绪。
-
----
-
-## <a name="22"></a>22. Acorn计算机的技术历史 
-<small>🔗 [mcmordie.co.uk](https://www.mcmordie.co.uk/acornhistory/index.shtml): A technical history of Acorn Computers</small>
-
-
-| 🔥: 84 \| 💬: [37](https://news.ycombinator.com/item?id=43321131) \| 🗓️ 2025-03-10
-
-
-<br />
-本文简要介绍了**Acorn计算机**的技术发展历程，重点聚焦于技术层面的创新与突破。从1978年公司成立到1990年代末，Acorn推出了多款标志性产品，如**BBC Micro**、**Archimedes**系列和**RISC PC**。1991年，ARM处理器部门独立为ARM Ltd，成为全球领先的芯片设计公司。尽管Acorn在1998年转型为Element 14，但其技术遗产，尤其是**RISC OS**和ARM架构，至今仍具有深远影响。
-
----
-
 ## <a name="23"></a>23. 打造技术面试题库，助你轻松斩获梦想工作 
 <small>🔗 [interviewdb.io](https://www.interviewdb.io): We built a crowdsourced interview question database for tech interviews</small>
 
 
-| 🔥: 81 \| 💬: [69](https://news.ycombinator.com/item?id=43320177) \| 🗓️ 2025-03-10
+| 🔥: 82 \| 💬: [69](https://news.ycombinator.com/item?id=43320177) \| 🗓️ 2025-03-10
 
 
 <br />
