@@ -27,7 +27,7 @@ tags:
 <small>🔗 [chromewebstore.google.com](https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en): uBlock Origin is no longer available on the Chrome Store</small>
 
 
-| 🔥🔥: 1373 \| 💬: [685](https://news.ycombinator.com/item?id=43322922) \| 🗓️ 2025-03-10
+| 🔥🔥: 1429 \| 💬: [714](https://news.ycombinator.com/item?id=43322922) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -39,7 +39,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [exclusivearchitecture.com](https://exclusivearchitecture.com/03-technical-articles-CLT-12-autofocus-systems.html): Canon EF and RF Lenses – All Autofocus Motors</small>
 
 
-| 🔥🔥: 372 \| 💬: [93](https://news.ycombinator.com/item?id=43320230) \| 🗓️ 2025-03-10
+| 🔥🔥: 384 \| 💬: [94](https://news.ycombinator.com/item?id=43320230) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -51,7 +51,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/03/music-labels-will-regret-coming-for-the-internet-archive-sound-historian-says/): Music labels will regret coming for the Internet Archive, sound historian says</small>
 
 
-| 🔥🔥: 315 \| 💬: [104](https://news.ycombinator.com/item?id=43322245) \| 🗓️ 2025-03-10
+| 🔥🔥: 336 \| 💬: [111](https://news.ycombinator.com/item?id=43322245) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -63,7 +63,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.05244): Probabilistic Artificial Intelligence</small>
 
 
-| 🔥🔥: 260 \| 💬: [73](https://news.ycombinator.com/item?id=43318624) \| 🗓️ 2025-03-10
+| 🔥🔥: 266 \| 💬: [74](https://news.ycombinator.com/item?id=43318624) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -75,7 +75,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [nbcnews.com](https://www.nbcnews.com/news/us-news/washington-post-editor-ruth-marcus-resigns-accusing-ceo-killing-column-rcna195634): Washington Post editor resigns after accusing CEO of killing column</small>
 
 
-| 🔥🔥: 204 \| 💬: [50](https://news.ycombinator.com/item?id=43323519) \| 🗓️ 2025-03-10
+| 🔥🔥: 213 \| 💬: [51](https://news.ycombinator.com/item?id=43323519) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -87,7 +87,7 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 <small>🔗 [analog.com](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf): Software-Defined Radio for Engineers (2018) [pdf]</small>
 
 
-| 🔥🔥: 177 \| 💬: [38](https://news.ycombinator.com/item?id=43323071) \| 🗓️ 2025-03-10
+| 🔥🔥: 190 \| 💬: [46](https://news.ycombinator.com/item?id=43323071) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -95,47 +95,11 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 
 ---
 
-## <a name="7"></a>7. 真实的寒蝉效应 
-<small>🔗 [donmoynihan.substack.com](https://donmoynihan.substack.com/p/real-chilling-effects): Real Chilling Effects</small>
-
-
-| 🔥🔥: 175 \| 💬: [151](https://news.ycombinator.com/item?id=43318842) \| 🗓️ 2025-03-10
-
-
-<br />
-文章探讨了美国政府日益加剧的审查制度和对言论自由的威胁。**恐惧**正在渗透到美国生活的各个方面，从学生不敢在课堂上批评政府，到律师、记者和公务员因担心报复而自我审查。**总统**利用权力打击政治对手，甚至威胁到非营利组织和抗议者。**言论自由**的危机不仅来自政府的正式行动，还来自非正式的威胁和自我审查，导致社会集体恐惧。美国正经历一场前所未有的寒蝉效应，许多人担心公开表达意见会带来职业或人身安全的后果。
-
----
-
-## <a name="8"></a>8. 美国司法部要求谷歌出售Chrome，Android或成下一个目标 
-<small>🔗 [arstechnica.com](https://arstechnica.com/google/2025/03/doj-google-must-sell-chrome-android-could-be-next/): DOJ: Google must sell Chrome, Android could be next</small>
-
-
-| 🔥🔥: 168 \| 💬: [126](https://news.ycombinator.com/item?id=43323485) \| 🗓️ 2025-03-10
-
-
-<br />
-美国司法部（DOJ）要求法院强制谷歌出售其**Chrome浏览器**，以打破其在搜索市场的垄断地位。DOJ认为，Chrome的用户基础（约34亿人）应转移给竞争对手。此外，DOJ还计划对**Android**施加限制，禁止谷歌强制推广其搜索和AI产品。尽管谷歌在AI投资方面获得了一些让步，但DOJ仍可能在未来要求出售Android。
-
----
-
-## <a name="9"></a>9. 英国游客因签证问题被美国拘留10天 
-<small>🔗 [theguardian.com](https://www.theguardian.com/uk-news/2025/mar/10/british-tourist-detained-us-authorities-10-days-visa-issue): British tourist detained by US authorities for 10 days over visa issue</small>
-
-
-| 🔥🔥: 165 \| 💬: [145](https://news.ycombinator.com/item?id=43324040) \| 🗓️ 2025-03-10
-
-
-<br />
-英国游客**Rebecca Burke**在试图从加拿大进入美国华盛顿州时被拘留。她计划通过**旅游签证**在美国停留，但因与寄宿家庭交换家务劳动而被要求申请**工作签证**。她在拘留中心度过了10天，期间未获得法律帮助，家人对此感到极度焦虑。她的父亲呼吁其他旅行者仔细检查签证要求，避免类似情况。
-
----
-
-## <a name="10"></a>10. 强化学习的数学基础 
+## <a name="7"></a>7. 强化学习的数学基础 
 <small>🔗 [github.com](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning): Mathematical Foundations of Reinforcement Learning</small>
 
 
-| 🔥🔥: 153 \| 💬: [13](https://news.ycombinator.com/item?id=43323946) \| 🗓️ 2025-03-10
+| 🔥🔥: 176 \| 💬: [17](https://news.ycombinator.com/item?id=43323946) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -143,11 +107,47 @@ uBlock Origin 是一款**高效的内容拦截器**，专注于**CPU 和内存�
 
 ---
 
+## <a name="8"></a>8. 真实的寒蝉效应 
+<small>🔗 [donmoynihan.substack.com](https://donmoynihan.substack.com/p/real-chilling-effects): Real Chilling Effects</small>
+
+
+| 🔥🔥: 175 \| 💬: [152](https://news.ycombinator.com/item?id=43318842) \| 🗓️ 2025-03-10
+
+
+<br />
+文章探讨了美国政府日益加剧的审查制度和对言论自由的威胁。**恐惧**正在渗透到美国生活的各个方面，从学生不敢在课堂上批评政府，到律师、记者和公务员因担心报复而自我审查。**总统**利用权力打击政治对手，甚至威胁到非营利组织和抗议者。**言论自由**的危机不仅来自政府的正式行动，还来自非正式的威胁和自我审查，导致社会集体恐惧。美国正经历一场前所未有的寒蝉效应，许多人担心公开表达意见会带来职业或人身安全的后果。
+
+---
+
+## <a name="9"></a>9. 英国游客因签证问题被美国拘留10天 
+<small>🔗 [theguardian.com](https://www.theguardian.com/uk-news/2025/mar/10/british-tourist-detained-us-authorities-10-days-visa-issue): British tourist detained by US authorities for 10 days over visa issue</small>
+
+
+| 🔥🔥: 173 \| 💬: [163](https://news.ycombinator.com/item?id=43324040) \| 🗓️ 2025-03-10
+
+
+<br />
+英国游客**Rebecca Burke**在试图从加拿大进入美国华盛顿州时被拘留。她计划通过**旅游签证**在美国停留，但因与寄宿家庭交换家务劳动而被要求申请**工作签证**。她在拘留中心度过了10天，期间未获得法律帮助，家人对此感到极度焦虑。她的父亲呼吁其他旅行者仔细检查签证要求，避免类似情况。
+
+---
+
+## <a name="10"></a>10. 美国司法部要求谷歌出售Chrome，Android或成下一个目标 
+<small>🔗 [arstechnica.com](https://arstechnica.com/google/2025/03/doj-google-must-sell-chrome-android-could-be-next/): DOJ: Google must sell Chrome, Android could be next</small>
+
+
+| 🔥🔥: 169 \| 💬: [127](https://news.ycombinator.com/item?id=43323485) \| 🗓️ 2025-03-10
+
+
+<br />
+美国司法部（DOJ）要求法院强制谷歌出售其**Chrome浏览器**，以打破其在搜索市场的垄断地位。DOJ认为，Chrome的用户基础（约34亿人）应转移给竞争对手。此外，DOJ还计划对**Android**施加限制，禁止谷歌强制推广其搜索和AI产品。尽管谷歌在AI投资方面获得了一些让步，但DOJ仍可能在未来要求出售Android。
+
+---
+
 ## <a name="11"></a>11. 华尔街抛售潮加剧，美国经济衰退担忧升温 
 <small>🔗 [independent.co.uk](https://www.independent.co.uk/business/wall-street-selloff-turns-ugly-as-us-recession-fears-grow-b2712420.html): Wall Street sell-off turns 'ugly' as US recession fears grow</small>
 
 
-| 🔥🔥: 148 \| 💬: [141](https://news.ycombinator.com/item?id=43323652) \| 🗓️ 2025-03-10
+| 🔥🔥: 148 \| 💬: [145](https://news.ycombinator.com/item?id=43323652) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -167,23 +167,11 @@ Scaleway 是一家提供多种服务的云服务提供商，除了名为 **Scale
 
 ---
 
-## <a name="13"></a>13. 华尔街股市大跌，投资者担忧美国经济放缓 
-<small>🔗 [ft.com](https://www.ft.com/content/7f836a84-4fa5-4cd9-bcca-4e98d5a2e2a4): Wall Street stocks tumble as investors fret over US economic slowdown</small>
-
-
-| 🔥🔥: 130 \| 💬: [217](https://news.ycombinator.com/item?id=43322776) \| 🗓️ 2025-03-10
-
-
-<br />
-由于投资者对美国**经济放缓**的担忧加剧，**华尔街股市**大幅下跌。市场情绪受到多重因素影响，包括通胀压力和货币政策的不确定性，导致主要指数普遍下挫。投资者正密切关注经济数据和美联储的政策动向，以评估未来的市场走势。
-
----
-
-## <a name="14"></a>14. 人类与我的LLM一样糟糕 
+## <a name="13"></a>13. 人类与我的LLM一样糟糕 
 <small>🔗 [wilsoniumite.com](https://wilsoniumite.com/2025/03/10/people-are-just-as-bad-as-my-llms/): People are just as bad as my LLMs</small>
 
 
-| 🔥🔥: 122 \| 💬: [87](https://news.ycombinator.com/item?id=43323755) \| 🗓️ 2025-03-10
+| 🔥🔥: 133 \| 💬: [96](https://news.ycombinator.com/item?id=43323755) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -191,23 +179,23 @@ Scaleway 是一家提供多种服务的云服务提供商，除了名为 **Scale
 
 ---
 
-## <a name="15"></a>15. 可编辑游戏：自定义与发布你的游戏 
-<small>🔗 [playscl.com](https://playscl.com/make): Show HN: Editable Games</small>
+## <a name="14"></a>14. 华尔街股市大跌，投资者担忧美国经济放缓 
+<small>🔗 [ft.com](https://www.ft.com/content/7f836a84-4fa5-4cd9-bcca-4e98d5a2e2a4): Wall Street stocks tumble as investors fret over US economic slowdown</small>
 
 
-| 🔥🔥: 110 \| 💬: [23](https://news.ycombinator.com/item?id=43321688) \| 🗓️ 2025-03-10
+| 🔥🔥: 130 \| 💬: [224](https://news.ycombinator.com/item?id=43322776) \| 🗓️ 2025-03-10
 
 
 <br />
-这是一个展示如何使用**Canvas Language**编辑和自定义游戏的演示。你可以从列表中选择游戏，进入开发工作室进行编辑，并下载项目文件以便后续重新上传。你还可以上传自己的图片，甚至使用**SCL**重新编程游戏玩法。完成后，你可以通过发布页面将游戏激活并运行在你选择的域名上，例如itch.io页面。
+由于投资者对美国**经济放缓**的担忧加剧，**华尔街股市**大幅下跌。市场情绪受到多重因素影响，包括通胀压力和货币政策的不确定性，导致主要指数普遍下挫。投资者正密切关注经济数据和美联储的政策动向，以评估未来的市场走势。
 
 ---
 
-## <a name="16"></a>16. HP固件更新导致打印机无法使用原装墨盒 
+## <a name="15"></a>15. HP固件更新导致打印机无法使用原装墨盒 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/firmware-update-bricks-hp-printers-makes-them-unable-to-use-hp-cartridges/): Firmware update bricks HP printers, makes them unable to use HP cartridges</small>
 
 
-| 🔥🔥: 108 \| 💬: [85](https://news.ycombinator.com/item?id=43323923) \| 🗓️ 2025-03-10
+| 🔥🔥: 126 \| 💬: [101](https://news.ycombinator.com/item?id=43323923) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -215,35 +203,23 @@ HP最近发布的固件更新**20250209**导致部分LaserJet MFP M232-M237系�
 
 ---
 
-## <a name="17"></a>17. 浏览器内图数据库与LLM结合的Graph RAG应用 
-<small>🔗 [blog.kuzudb.com](https://blog.kuzudb.com/post/kuzu-wasm-rag/): Show HN: In-Browser Graph RAG with Kuzu-WASM and WebLLM</small>
+## <a name="16"></a>16. 可编辑游戏：自定义与发布你的游戏 
+<small>🔗 [playscl.com](https://playscl.com/make): Show HN: Editable Games</small>
 
 
-| 🔥: 99 \| 💬: [23](https://news.ycombinator.com/item?id=43321523) \| 🗓️ 2025-03-10
-
-
-<br />
-Kuzu-Wasm与WebLLM结合，展示了如何在浏览器中构建完全基于**图数据库**和**大语言模型（LLM）**的聊天机器人。通过**Graph RAG**技术，用户可以直接在浏览器中查询LinkedIn数据，无需后端服务器，确保数据隐私。尽管当前浏览器资源有限，但随着WebGPU和Wasm64的发展，未来性能将大幅提升。
-
----
-
-## <a name="18"></a>18. Visual Studio 会腐蚀程序员的大脑吗？ 
-<small>🔗 [charlespetzold.com](https://charlespetzold.com/etc/DoesVisualStudioRotTheMind.html): Does Visual Studio rot the mind? (2005)</small>
-
-
-| 🔥: 95 \| 💬: [89](https://news.ycombinator.com/item?id=43322496) \| 🗓️ 2025-03-10
+| 🔥🔥: 113 \| 💬: [24](https://news.ycombinator.com/item?id=43321688) \| 🗓️ 2025-03-10
 
 
 <br />
-Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程序员的影响。他认为，尽管 Visual Studio 是开发者的得力助手，但它逐渐变得**过于强势**，甚至可能削弱程序员的**编程能力**。Petzold 反思了自动生成代码的弊端，强调了手动编程的乐趣与挑战，并展望了未来技术（如 Avalon）可能带来的变革。他还通过电影中的计算机形象，讨论了人类与技术的复杂关系，指出技术可能带来的**成瘾性**和思维僵化问题。
+这是一个展示如何使用**Canvas Language**编辑和自定义游戏的演示。你可以从列表中选择游戏，进入开发工作室进行编辑，并下载项目文件以便后续重新上传。你还可以上传自己的图片，甚至使用**SCL**重新编程游戏玩法。完成后，你可以通过发布页面将游戏激活并运行在你选择的域名上，例如itch.io页面。
 
 ---
 
-## <a name="19"></a>19. 是什么让爱尔兰大饥荒如此致命 
+## <a name="17"></a>17. 是什么让爱尔兰大饥荒如此致命 
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/03/17/rot-padraic-x-scanlan-book-review): What made the Irish famine so deadly</small>
 
 
-| 🔥: 88 \| 💬: [81](https://news.ycombinator.com/item?id=43326275) \| 🗓️ 2025-03-10
+| 🔥🔥: 110 \| 💬: [103](https://news.ycombinator.com/item?id=43326275) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -251,11 +227,35 @@ Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程
 
 ---
 
+## <a name="18"></a>18. 浏览器内图数据库与LLM结合的Graph RAG应用 
+<small>🔗 [blog.kuzudb.com](https://blog.kuzudb.com/post/kuzu-wasm-rag/): Show HN: In-Browser Graph RAG with Kuzu-WASM and WebLLM</small>
+
+
+| 🔥🔥: 105 \| 💬: [23](https://news.ycombinator.com/item?id=43321523) \| 🗓️ 2025-03-10
+
+
+<br />
+Kuzu-Wasm与WebLLM结合，展示了如何在浏览器中构建完全基于**图数据库**和**大语言模型（LLM）**的聊天机器人。通过**Graph RAG**技术，用户可以直接在浏览器中查询LinkedIn数据，无需后端服务器，确保数据隐私。尽管当前浏览器资源有限，但随着WebGPU和Wasm64的发展，未来性能将大幅提升。
+
+---
+
+## <a name="19"></a>19. Visual Studio 会腐蚀程序员的大脑吗？ 
+<small>🔗 [charlespetzold.com](https://charlespetzold.com/etc/DoesVisualStudioRotTheMind.html): Does Visual Studio rot the mind? (2005)</small>
+
+
+| 🔥: 97 \| 💬: [91](https://news.ycombinator.com/item?id=43322496) \| 🗓️ 2025-03-10
+
+
+<br />
+Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程序员的影响。他认为，尽管 Visual Studio 是开发者的得力助手，但它逐渐变得**过于强势**，甚至可能削弱程序员的**编程能力**。Petzold 反思了自动生成代码的弊端，强调了手动编程的乐趣与挑战，并展望了未来技术（如 Avalon）可能带来的变革。他还通过电影中的计算机形象，讨论了人类与技术的复杂关系，指出技术可能带来的**成瘾性**和思维僵化问题。
+
+---
+
 ## <a name="20"></a>20. 生成式AI炒作已达顶峰 
 <small>🔗 [bjornwestergard.com](https://bjornwestergard.com/generative-ai-hype-peaking/): Generative AI Hype Peaking</small>
 
 
-| 🔥: 87 \| 💬: [122](https://news.ycombinator.com/item?id=43322570) \| 🗓️ 2025-03-10
+| 🔥: 87 \| 💬: [124](https://news.ycombinator.com/item?id=43322570) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -267,7 +267,7 @@ Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/03/10/tesla-shares-plunge-14percent-head-for-worst-day-in-five-years.html): Tesla shares plunge 14%, head for worst day in five years</small>
 
 
-| 🔥: 84 \| 💬: [97](https://news.ycombinator.com/item?id=43324157) \| 🗓️ 2025-03-10
+| 🔥: 86 \| 💬: [101](https://news.ycombinator.com/item?id=43324157) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -275,7 +275,19 @@ Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程
 
 ---
 
-## <a name="22"></a>22. 打造技术面试题库，助你轻松斩获梦想工作 
+## <a name="22"></a>22. Acorn计算机的技术历史 
+<small>🔗 [mcmordie.co.uk](https://www.mcmordie.co.uk/acornhistory/index.shtml): A technical history of Acorn Computers</small>
+
+
+| 🔥: 84 \| 💬: [37](https://news.ycombinator.com/item?id=43321131) \| 🗓️ 2025-03-10
+
+
+<br />
+本文简要介绍了**Acorn计算机**的技术发展历程，重点聚焦于技术层面的创新与突破。从1978年公司成立到1990年代末，Acorn推出了多款标志性产品，如**BBC Micro**、**Archimedes**系列和**RISC PC**。1991年，ARM处理器部门独立为ARM Ltd，成为全球领先的芯片设计公司。尽管Acorn在1998年转型为Element 14，但其技术遗产，尤其是**RISC OS**和ARM架构，至今仍具有深远影响。
+
+---
+
+## <a name="23"></a>23. 打造技术面试题库，助你轻松斩获梦想工作 
 <small>🔗 [interviewdb.io](https://www.interviewdb.io): We built a crowdsourced interview question database for tech interviews</small>
 
 
@@ -287,23 +299,11 @@ Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程
 
 ---
 
-## <a name="23"></a>23. Acorn计算机的技术历史 
-<small>🔗 [mcmordie.co.uk](https://www.mcmordie.co.uk/acornhistory/index.shtml): A technical history of Acorn Computers</small>
-
-
-| 🔥: 79 \| 💬: [35](https://news.ycombinator.com/item?id=43321131) \| 🗓️ 2025-03-10
-
-
-<br />
-本文简要介绍了**Acorn计算机**的技术发展历程，重点聚焦于技术层面的创新与突破。从1978年公司成立到1990年代末，Acorn推出了多款标志性产品，如**BBC Micro**、**Archimedes**系列和**RISC PC**。1991年，ARM处理器部门独立为ARM Ltd，成为全球领先的芯片设计公司。尽管Acorn在1998年转型为Element 14，但其技术遗产，尤其是**RISC OS**和ARM架构，至今仍具有深远影响。
-
----
-
 ## <a name="24"></a>24. 从150年股市崩盘中我们学到了什么 
 <small>🔗 [morningstar.com](https://www.morningstar.com/economy/what-weve-learned-150-years-stock-market-crashes): What We've Learned from 150 Years of Stock Market Crashes</small>
 
 
-| 🔥: 72 \| 💬: [86](https://news.ycombinator.com/item?id=43323974) \| 🗓️ 2025-03-10
+| 🔥: 73 \| 💬: [86](https://news.ycombinator.com/item?id=43323974) \| 🗓️ 2025-03-10
 
 
 <br />
@@ -315,7 +315,7 @@ Charles Petzold 在 2005 年的一次演讲中探讨了 **Visual Studio** 对程
 <small>🔗 [isitdownrightnow.com](https://www.isitdownrightnow.com/twitter.com.html): Twitter.com – Is Twitter Down?</small>
 
 
-| 🔥: 70 \| 💬: [59](https://news.ycombinator.com/item?id=43322421) \| 🗓️ 2025-03-10
+| 🔥: 71 \| 💬: [59](https://news.ycombinator.com/item?id=43322421) \| 🗓️ 2025-03-10
 
 
 <br />
