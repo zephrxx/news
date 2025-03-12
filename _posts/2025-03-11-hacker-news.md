@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/typescript/typescript-native-port/): A 10x Faster TypeScript</small>
 
 
-| 🔥🔥: 1313 \| 💬: [608](https://news.ycombinator.com/item?id=43332830) \| 🗓️ 2025-03-11
+| 🔥🔥: 1357 \| 💬: [626](https://news.ycombinator.com/item?id=43332830) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -39,7 +39,7 @@ TypeScript 团队宣布正在开发**原生编译器**，预计到 2025 年中�
 <small>🔗 [twitter.com](https://twitter.com/garrytan/status/1899092996702048709): Happy 20th Birthday, Y Combinator</small>
 
 
-| 🔥🔥: 795 \| 💬: [159](https://news.ycombinator.com/item?id=43332658) \| 🗓️ 2025-03-11
+| 🔥🔥: 861 \| 💬: [172](https://news.ycombinator.com/item?id=43332658) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -51,7 +51,7 @@ TypeScript 团队宣布正在开发**原生编译器**，预计到 2025 年中�
 <small>🔗 [jackhopkins.github.io](https://jackhopkins.github.io/factorio-learning-environment/): Show HN: Factorio Learning Environment – Agents Build Factories</small>
 
 
-| 🔥🔥: 589 \| 💬: [175](https://news.ycombinator.com/item?id=43331582) \| 🗓️ 2025-03-11
+| 🔥🔥: 598 \| 💬: [179](https://news.ycombinator.com/item?id=43331582) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -63,7 +63,7 @@ TypeScript 团队宣布正在开发**原生编译器**，预计到 2025 年中�
 <small>🔗 [medium.com](https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c): Fastplotlib: GPU-accelerated, fast, and interactive plotting library</small>
 
 
-| 🔥🔥: 307 \| 💬: [118](https://news.ycombinator.com/item?id=43334190) \| 🗓️ 2025-03-11
+| 🔥🔥: 322 \| 💬: [123](https://news.ycombinator.com/item?id=43334190) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -75,7 +75,7 @@ TypeScript 团队宣布正在开发**原生编译器**，预计到 2025 年中�
 <small>🔗 [seeinglogic.com](https://seeinglogic.com/posts/visual-readability-patterns/): What makes code hard to read: Visual patterns of complexity (2023)</small>
 
 
-| 🔥🔥: 263 \| 💬: [265](https://news.ycombinator.com/item?id=43330900) \| 🗓️ 2025-03-11
+| 🔥🔥: 273 \| 💬: [277](https://news.ycombinator.com/item?id=43330900) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -95,23 +95,11 @@ Espressif 针对近期关于 ESP32 蓝牙控制器可能存在“后门”或“
 
 ---
 
-## <a name="7"></a>7. 芝加哥大学135年扩张史：从海德公园到周边社区 
-<small>🔗 [chicagomaroon.github.io](https://chicagomaroon.github.io/data-visualizations/2025/uchicago-property/): Mapping the University of Chicago's 135-year expansion into Hyde Park and beyond</small>
-
-
-| 🔥🔥: 181 \| 💬: [60](https://news.ycombinator.com/item?id=43332424) \| 🗓️ 2025-03-11
-
-
-<br />
-1890年，芝加哥大学成立，旨在为学生提供一个远离城市喧嚣的学习环境。如今，该校在**海德公园**及周边拥有超过250处房产，总面积从38街延伸至65街。通过档案、地图和新闻报道，本文追溯了该校在**城市更新**中的角色，揭示了其与周边社区的复杂关系，包括**土地争议**和种族紧张局势。
-
----
-
-## <a name="8"></a>8. 美国小岛上的伊丽莎白时代英语 
+## <a name="7"></a>7. 美国小岛上的伊丽莎白时代英语 
 <small>🔗 [bbc.com](https://www.bbc.com/travel/article/20190623-the-us-island-that-speaks-elizabethan-english): The US island that speaks Elizabethan English</small>
 
 
-| 🔥🔥: 181 \| 💬: [93](https://news.ycombinator.com/item?id=43332752) \| 🗓️ 2025-03-11
+| 🔥🔥: 191 \| 💬: [106](https://news.ycombinator.com/item?id=43332752) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -119,23 +107,23 @@ Espressif 针对近期关于 ESP32 蓝牙控制器可能存在“后门”或“
 
 ---
 
-## <a name="9"></a>9. 美国错失新劳动经济——机器人革命（第一部分） 
-<small>🔗 [semianalysis.com](https://semianalysis.com/2025/03/11/america-is-missing-the-new-labor-economy-robotics-part-1/): America Is Missing The New Labor Economy – Robotics Part 1</small>
+## <a name="8"></a>8. 芝加哥大学135年扩张史：从海德公园到周边社区 
+<small>🔗 [chicagomaroon.github.io](https://chicagomaroon.github.io/data-visualizations/2025/uchicago-property/): Mapping the University of Chicago's 135-year expansion into Hyde Park and beyond</small>
 
 
-| 🔥🔥: 146 \| 💬: [205](https://news.ycombinator.com/item?id=43331358) \| 🗓️ 2025-03-11
+| 🔥🔥: 187 \| 💬: [62](https://news.ycombinator.com/item?id=43332424) \| 🗓️ 2025-03-11
 
 
 <br />
-中国在**通用机器人**领域占据主导地位，正通过**全自动化**推动制造业革命。美国及其西方盟友因供应链依赖和制造业基础薄弱而落后。中国的**规模化生产**和快速迭代能力使其在机器人领域占据优势，威胁到美国的全球竞争力。
+1890年，芝加哥大学成立，旨在为学生提供一个远离城市喧嚣的学习环境。如今，该校在**海德公园**及周边拥有超过250处房产，总面积从38街延伸至65街。通过档案、地图和新闻报道，本文追溯了该校在**城市更新**中的角色，揭示了其与周边社区的复杂关系，包括**土地争议**和种族紧张局势。
 
 ---
 
-## <a name="10"></a>10. 为99.7%没有Powerwall的家庭打造的即插即用家用电池 
+## <a name="9"></a>9. 为99.7%没有Powerwall的家庭打造的即插即用家用电池 
 <small>🔗 [pilaenergy.com](https://pilaenergy.com): Show HN: We built a Plug-in Home Battery for the 99.7% of us without Powerwalls</small>
 
 
-| 🔥🔥: 132 \| 💬: [171](https://news.ycombinator.com/item?id=43333661) \| 🗓️ 2025-03-11
+| 🔥🔥: 157 \| 💬: [217](https://news.ycombinator.com/item?id=43333661) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -143,11 +131,23 @@ Pila是一款**即插即用**的家用备用电池，无需重新布线，适合
 
 ---
 
+## <a name="10"></a>10. 美国错失新劳动经济——机器人革命（第一部分） 
+<small>🔗 [semianalysis.com](https://semianalysis.com/2025/03/11/america-is-missing-the-new-labor-economy-robotics-part-1/): America Is Missing The New Labor Economy – Robotics Part 1</small>
+
+
+| 🔥🔥: 155 \| 💬: [223](https://news.ycombinator.com/item?id=43331358) \| 🗓️ 2025-03-11
+
+
+<br />
+中国在**通用机器人**领域占据主导地位，正通过**全自动化**推动制造业革命。美国及其西方盟友因供应链依赖和制造业基础薄弱而落后。中国的**规模化生产**和快速迭代能力使其在机器人领域占据优势，威胁到美国的全球竞争力。
+
+---
+
 ## <a name="11"></a>11. NIST选择HQC作为后量子加密的第五种算法 
 <small>🔗 [nist.gov](https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption): NIST selects HQC as fifth algorithm for post-quantum encryption</small>
 
 
-| 🔥🔥: 122 \| 💬: [79](https://news.ycombinator.com/item?id=43332944) \| 🗓️ 2025-03-11
+| 🔥🔥: 128 \| 💬: [86](https://news.ycombinator.com/item?id=43332944) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -159,7 +159,7 @@ Pila是一款**即插即用**的家用备用电池，无需重新布线，适合
 <small>🔗 [davidesantangelo.github.io](https://davidesantangelo.github.io/krep/): Show HN: Krep a High-Performance String Search Utility Written in C</small>
 
 
-| 🔥🔥: 120 \| 💬: [43](https://news.ycombinator.com/item?id=43333946) \| 🗓️ 2025-03-11
+| 🔥🔥: 122 \| 💬: [46](https://news.ycombinator.com/item?id=43333946) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -171,7 +171,7 @@ Krep 是一款**高性能**的字符串搜索工具，采用优化算法和内�
 <small>🔗 [lawfaremedia.org](https://www.lawfaremedia.org/article/ai-generated-voice-evidence-poses-dangers-in-court): AI-Generated Voice Evidence Poses Dangers in Court</small>
 
 
-| 🔥🔥: 111 \| 💬: [77](https://news.ycombinator.com/item?id=43333484) \| 🗓️ 2025-03-11
+| 🔥🔥: 113 \| 💬: [78](https://news.ycombinator.com/item?id=43333484) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -183,7 +183,7 @@ AI生成的语音克隆技术日益成熟，甚至能以30秒的音频克隆出�
 <small>🔗 [suziepetryk.com](https://suziepetryk.com/blog/cyanide.html): Backyard Cyanide</small>
 
 
-| 🔥: 93 \| 💬: [38](https://news.ycombinator.com/item?id=43335110) \| 🗓️ 2025-03-11
+| 🔥🔥: 101 \| 💬: [41](https://news.ycombinator.com/item?id=43335110) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -195,7 +195,7 @@ AI生成的语音克隆技术日益成熟，甚至能以30秒的音频克隆出�
 <small>🔗 [e360.yale.edu](https://e360.yale.edu/features/eric-nost-interview): Saving U.S. Climate and Environmental Data Before It Goes Away</small>
 
 
-| 🔥: 86 \| 💬: [29](https://news.ycombinator.com/item?id=43333531) \| 🗓️ 2025-03-11
+| 🔥: 87 \| 💬: [30](https://news.ycombinator.com/item?id=43333531) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -207,7 +207,7 @@ AI生成的语音克隆技术日益成熟，甚至能以30秒的音频克隆出�
 <small>🔗 [espressif.com](https://www.espressif.com/en/news/response_esp32_bluetooth): Espressif's Response to Undocumented Commands in ESP32 Bluetooth by Tarlogic</small>
 
 
-| 🔥: 80 \| 💬: [21](https://news.ycombinator.com/item?id=43332184) \| 🗓️ 2025-03-11
+| 🔥: 81 \| 💬: [21](https://news.ycombinator.com/item?id=43332184) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -219,7 +219,7 @@ Espressif针对Tarlogic发现的**ESP32蓝牙未记录命令**问题作出回应
 <small>🔗 [bernsteinbear.com](https://bernsteinbear.com/blog/lattice-bitset/): Representing Type Lattices Compactly</small>
 
 
-| 🔥: 75 \| 💬: [21](https://news.ycombinator.com/item?id=43331914) \| 🗓️ 2025-03-11
+| 🔥: 77 \| 💬: [21](https://news.ycombinator.com/item?id=43331914) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -227,7 +227,31 @@ Espressif针对Tarlogic发现的**ESP32蓝牙未记录命令**问题作出回应
 
 ---
 
-## <a name="18"></a>18. 大型云服务/DNS运营商的神秘DNS根查询流量（2022） 
+## <a name="18"></a>18. 印度如何争夺民主叙事的主导权 
+<small>🔗 [theplankmag.com](https://www.theplankmag.com/india-democracy-narrative): India's Battle to Control the Democracy Narrative</small>
+
+
+| 🔥: 56 \| 💬: [28](https://news.ycombinator.com/item?id=43336872) \| 🗓️ 2025-03-11
+
+
+<br />
+印度政府公开驳斥国际民主排名，认为这些排名是西方政治工具。然而，内部文件显示，政府高度重视这些排名对**主权评级**和**国际借贷成本**的影响。通过**全球指数改革计划**，印度试图提升排名，同时通过控制媒体和信息生态，重塑国际对印度民主的叙事。
+
+---
+
+## <a name="19"></a>19. 程序探索者：容器游乐场 
+<small>🔗 [programexplorer.org](https://programexplorer.org/): Show HN: Program Explorer, a container playground</small>
+
+
+| 🔥: 55 \| 💬: [8](https://news.ycombinator.com/item?id=43334192) \| 🗓️ 2025-03-11
+
+
+<br />
+这是一个**Alpha预览版**的容器实验平台，用户可以在其中探索和测试容器技术。由于是早期版本，**网站可能会随时不可用**。该平台旨在为开发者提供一个**安全的环境**，用于学习和实验容器化应用。
+
+---
+
+## <a name="20"></a>20. 大型云服务/DNS运营商的神秘DNS根查询流量（2022） 
 <small>🔗 [blog.apnic.net](https://blog.apnic.net/2022/06/02/more-mysterious-dns-root-query-traffic-from-a-large-cloud-dns-operator/): More mysterious DNS root query traffic from a large cloud/DNS operator (2022)</small>
 
 
@@ -239,11 +263,11 @@ Espressif针对Tarlogic发现的**ESP32蓝牙未记录命令**问题作出回应
 
 ---
 
-## <a name="19"></a>19. 已确定：感染奶牛群的血清学数据可公开 
+## <a name="21"></a>21. 已确定：感染奶牛群的血清学数据可公开 
 <small>🔗 [hogvet51.substack.com](https://hogvet51.substack.com/p/one-year-later-it-has-been-determined): "It has been determined" that infected dairy herd serology can be disclosed</small>
 
 
-| 🔥: 51 \| 💬: [25](https://news.ycombinator.com/item?id=43336381) \| 🗓️ 2025-03-11
+| 🔥: 51 \| 💬: [28](https://news.ycombinator.com/item?id=43336381) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -251,19 +275,7 @@ Espressif针对Tarlogic发现的**ESP32蓝牙未记录命令**问题作出回应
 
 ---
 
-## <a name="20"></a>20. 程序探索者：容器游乐场 
-<small>🔗 [programexplorer.org](https://programexplorer.org/): Show HN: Program Explorer, a container playground</small>
-
-
-| 🔥: 50 \| 💬: [7](https://news.ycombinator.com/item?id=43334192) \| 🗓️ 2025-03-11
-
-
-<br />
-这是一个**Alpha预览版**的容器实验平台，用户可以在其中探索和测试容器技术。由于是早期版本，**网站可能会随时不可用**。该平台旨在为开发者提供一个**安全的环境**，用于学习和实验容器化应用。
-
----
-
-## <a name="21"></a>21. Cursor 上传包含敏感信息的 .env 文件，尽管有 .gitignore 和 .cursorignore 
+## <a name="22"></a>22. Cursor 上传包含敏感信息的 .env 文件，尽管有 .gitignore 和 .cursorignore 
 <small>🔗 [forum.cursor.com](https://forum.cursor.com/t/env-file-question/60165): Cursor uploads .env file with secrets despite .gitignore and .cursorignore</small>
 
 
@@ -275,7 +287,19 @@ Espressif针对Tarlogic发现的**ESP32蓝牙未记录命令**问题作出回应
 
 ---
 
-## <a name="22"></a>22. 特斯拉抗议活动愈演愈烈，多地爆发冲突 
+## <a name="23"></a>23. 如何利用大语言模型（LLM）辅助编程 
+<small>🔗 [simonwillison.net](https://simonwillison.net/2025/Mar/11/using-llms-for-code/): Here's how I use LLMs to help me write code</small>
+
+
+| 🔥: 44 \| 💬: [4](https://news.ycombinator.com/item?id=43332669) \| 🗓️ 2025-03-11
+
+
+<br />
+作者分享了他使用**LLM**辅助编程的经验。他强调，**合理设置期望**是关键，LLM并非万能，而是作为“过度自信的编程助手”来提升效率。**上下文管理**是获得良好结果的核心，LLM需要明确的指令和反复对话。此外，**测试生成的代码**是开发者的责任，不能完全依赖LLM。通过**工具**如ChatGPT Code Interpreter和Claude Artifacts，可以安全地运行代码并快速迭代。
+
+---
+
+## <a name="24"></a>24. 特斯拉抗议活动愈演愈烈，多地爆发冲突 
 <small>🔗 [theverge.com](https://www.theverge.com/news/626851/tesla-takedown-protests-elon-musk): The Tesla protests are getting bigger – and rowdier</small>
 
 
@@ -287,19 +311,7 @@ Espressif针对Tarlogic发现的**ESP32蓝牙未记录命令**问题作出回应
 
 ---
 
-## <a name="23"></a>23. 如何利用大语言模型（LLM）辅助编程 
-<small>🔗 [simonwillison.net](https://simonwillison.net/2025/Mar/11/using-llms-for-code/): Here's how I use LLMs to help me write code</small>
-
-
-| 🔥: 43 \| 💬: [4](https://news.ycombinator.com/item?id=43332669) \| 🗓️ 2025-03-11
-
-
-<br />
-作者分享了他使用**LLM**辅助编程的经验。他强调，**合理设置期望**是关键，LLM并非万能，而是作为“过度自信的编程助手”来提升效率。**上下文管理**是获得良好结果的核心，LLM需要明确的指令和反复对话。此外，**测试生成的代码**是开发者的责任，不能完全依赖LLM。通过**工具**如ChatGPT Code Interpreter和Claude Artifacts，可以安全地运行代码并快速迭代。
-
----
-
-## <a name="24"></a>24. 本地运行大型语言模型的实用指南 
+## <a name="25"></a>25. 本地运行大型语言模型的实用指南 
 <small>🔗 [spin.atomicobject.com](https://spin.atomicobject.com/running-local-llms/): A Practical Guide to Running Local LLMs</small>
 
 
