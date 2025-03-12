@@ -27,7 +27,7 @@ tags:
 <small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/typescript/typescript-native-port/): A 10x Faster TypeScript</small>
 
 
-| 🔥🔥: 1472 \| 💬: [664](https://news.ycombinator.com/item?id=43332830) \| 🗓️ 2025-03-11
+| 🔥🔥: 1501 \| 💬: [674](https://news.ycombinator.com/item?id=43332830) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -39,7 +39,7 @@ TypeScript 团队宣布正在开发**原生编译器**，预计到 2025 年中�
 <small>🔗 [twitter.com](https://twitter.com/garrytan/status/1899092996702048709): Happy 20th Birthday, Y Combinator</small>
 
 
-| 🔥🔥: 1003 \| 💬: [201](https://news.ycombinator.com/item?id=43332658) \| 🗓️ 2025-03-11
+| 🔥🔥: 1038 \| 💬: [207](https://news.ycombinator.com/item?id=43332658) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -51,7 +51,7 @@ TypeScript 团队宣布正在开发**原生编译器**，预计到 2025 年中�
 <small>🔗 [jackhopkins.github.io](https://jackhopkins.github.io/factorio-learning-environment/): Show HN: Factorio Learning Environment – Agents Build Factories</small>
 
 
-| 🔥🔥: 637 \| 💬: [184](https://news.ycombinator.com/item?id=43331582) \| 🗓️ 2025-03-11
+| 🔥🔥: 641 \| 💬: [184](https://news.ycombinator.com/item?id=43331582) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -63,7 +63,7 @@ TypeScript 团队宣布正在开发**原生编译器**，预计到 2025 年中�
 <small>🔗 [medium.com](https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c): Fastplotlib: GPU-accelerated, fast, and interactive plotting library</small>
 
 
-| 🔥🔥: 356 \| 💬: [129](https://news.ycombinator.com/item?id=43334190) \| 🗓️ 2025-03-11
+| 🔥🔥: 364 \| 💬: [132](https://news.ycombinator.com/item?id=43334190) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -75,7 +75,7 @@ TypeScript 团队宣布正在开发**原生编译器**，预计到 2025 年中�
 <small>🔗 [seeinglogic.com](https://seeinglogic.com/posts/visual-readability-patterns/): What makes code hard to read: Visual patterns of complexity (2023)</small>
 
 
-| 🔥🔥: 294 \| 💬: [287](https://news.ycombinator.com/item?id=43330900) \| 🗓️ 2025-03-11
+| 🔥🔥: 300 \| 💬: [293](https://news.ycombinator.com/item?id=43330900) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -87,7 +87,7 @@ TypeScript 团队宣布正在开发**原生编译器**，预计到 2025 年中�
 <small>🔗 [pilaenergy.com](https://pilaenergy.com): Show HN: We built a Plug-in Home Battery for the 99.7% of us without Powerwalls</small>
 
 
-| 🔥🔥: 251 \| 💬: [363](https://news.ycombinator.com/item?id=43333661) \| 🗓️ 2025-03-11
+| 🔥🔥: 259 \| 💬: [394](https://news.ycombinator.com/item?id=43333661) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -99,7 +99,7 @@ Pila是一款**即插即用**的家用备用电池，无需重新布线，适合
 <small>🔗 [developer.espressif.com](https://developer.espressif.com/blog/2025/03/esp32-bluetooth-clearing-the-air/): ESP32 Undocumented Bluetooth Commands: Clearing the Air</small>
 
 
-| 🔥🔥: 221 \| 💬: [86](https://news.ycombinator.com/item?id=43330331) \| 🗓️ 2025-03-11
+| 🔥🔥: 221 \| 💬: [87](https://news.ycombinator.com/item?id=43330331) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -111,7 +111,7 @@ Espressif 针对近期关于 ESP32 蓝牙控制器可能存在“后门”或“
 <small>🔗 [bbc.com](https://www.bbc.com/travel/article/20190623-the-us-island-that-speaks-elizabethan-english): The US island that speaks Elizabethan English</small>
 
 
-| 🔥🔥: 209 \| 💬: [114](https://news.ycombinator.com/item?id=43332752) \| 🗓️ 2025-03-11
+| 🔥🔥: 214 \| 💬: [118](https://news.ycombinator.com/item?id=43332752) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -123,7 +123,7 @@ Espressif 针对近期关于 ESP32 蓝牙控制器可能存在“后门”或“
 <small>🔗 [chicagomaroon.github.io](https://chicagomaroon.github.io/data-visualizations/2025/uchicago-property/): Mapping the University of Chicago's 135-year expansion into Hyde Park and beyond</small>
 
 
-| 🔥🔥: 195 \| 💬: [67](https://news.ycombinator.com/item?id=43332424) \| 🗓️ 2025-03-11
+| 🔥🔥: 197 \| 💬: [70](https://news.ycombinator.com/item?id=43332424) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -135,7 +135,7 @@ Espressif 针对近期关于 ESP32 蓝牙控制器可能存在“后门”或“
 <small>🔗 [semianalysis.com](https://semianalysis.com/2025/03/11/america-is-missing-the-new-labor-economy-robotics-part-1/): America Is Missing The New Labor Economy – Robotics Part 1</small>
 
 
-| 🔥🔥: 171 \| 💬: [263](https://news.ycombinator.com/item?id=43331358) \| 🗓️ 2025-03-11
+| 🔥🔥: 174 \| 💬: [267](https://news.ycombinator.com/item?id=43331358) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -143,23 +143,11 @@ Espressif 针对近期关于 ESP32 蓝牙控制器可能存在“后门”或“
 
 ---
 
-## <a name="11"></a>11. NIST选择HQC作为后量子加密的第五种算法 
-<small>🔗 [nist.gov](https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption): NIST selects HQC as fifth algorithm for post-quantum encryption</small>
-
-
-| 🔥🔥: 140 \| 💬: [100](https://news.ycombinator.com/item?id=43332944) \| 🗓️ 2025-03-11
-
-
-<br />
-美国国家标准与技术研究院（NIST）已选择**HQC**作为后量子加密的备用算法，以支持主算法**ML-KEM**。HQC基于不同的数学原理，旨在为未来量子计算机可能破解ML-KEM的情况提供第二道防线。NIST计划在2027年发布包含HQC的最终标准。
-
----
-
-## <a name="12"></a>12. 创业公司CTO手册：打造高效工程团队的关键技能与最佳实践 
+## <a name="11"></a>11. 创业公司CTO手册：打造高效工程团队的关键技能与最佳实践 
 <small>🔗 [github.com](https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md): The Startup CTO's Handbook</small>
 
 
-| 🔥🔥: 132 \| 💬: [29](https://news.ycombinator.com/item?id=43337703) \| 🗓️ 2025-03-11
+| 🔥🔥: 160 \| 💬: [38](https://news.ycombinator.com/item?id=43337703) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -167,11 +155,23 @@ Espressif 针对近期关于 ESP32 蓝牙控制器可能存在“后门”或“
 
 ---
 
+## <a name="12"></a>12. NIST选择HQC作为后量子加密的第五种算法 
+<small>🔗 [nist.gov](https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption): NIST selects HQC as fifth algorithm for post-quantum encryption</small>
+
+
+| 🔥🔥: 145 \| 💬: [101](https://news.ycombinator.com/item?id=43332944) \| 🗓️ 2025-03-11
+
+
+<br />
+美国国家标准与技术研究院（NIST）已选择**HQC**作为后量子加密的备用算法，以支持主算法**ML-KEM**。HQC基于不同的数学原理，旨在为未来量子计算机可能破解ML-KEM的情况提供第二道防线。NIST计划在2027年发布包含HQC的最终标准。
+
+---
+
 ## <a name="13"></a>13. Krep：高性能字符串搜索工具，C语言编写 
 <small>🔗 [davidesantangelo.github.io](https://davidesantangelo.github.io/krep/): Show HN: Krep a High-Performance String Search Utility Written in C</small>
 
 
-| 🔥🔥: 128 \| 💬: [54](https://news.ycombinator.com/item?id=43333946) \| 🗓️ 2025-03-11
+| 🔥🔥: 131 \| 💬: [54](https://news.ycombinator.com/item?id=43333946) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -179,11 +179,23 @@ Krep 是一款**高性能**的字符串搜索工具，采用优化算法和内�
 
 ---
 
-## <a name="14"></a>14. AI生成语音证据在法庭上的危险性 
+## <a name="14"></a>14. 澳大利亚男子成功使用人工心脏存活100天，创世界首例 
+<small>🔗 [theguardian.com](https://www.theguardian.com/australia-news/2025/mar/12/australian-man-survives-100-days-with-artificial-heart-in-world-first-success): Australian man survives 100 days with artificial heart</small>
+
+
+| 🔥🔥: 131 \| 💬: [25](https://news.ycombinator.com/item?id=43338596) \| 🗓️ 2025-03-11
+
+
+<br />
+一名澳大利亚男子成为全球首位植入**BiVACOR全人工心脏**并存活超过100天的患者。该设备由澳大利亚研发，采用磁悬浮技术，旨在为**终末期双心室心力衰竭**患者提供支持，作为心脏移植前的过渡。此次成功标志着人工心脏技术的重大突破，未来有望成为无法等待移植患者的替代方案。
+
+---
+
+## <a name="15"></a>15. AI生成语音证据在法庭上的危险性 
 <small>🔗 [lawfaremedia.org](https://www.lawfaremedia.org/article/ai-generated-voice-evidence-poses-dangers-in-court): AI-Generated Voice Evidence Poses Dangers in Court</small>
 
 
-| 🔥🔥: 119 \| 💬: [84](https://news.ycombinator.com/item?id=43333484) \| 🗓️ 2025-03-11
+| 🔥🔥: 127 \| 💬: [89](https://news.ycombinator.com/item?id=43333484) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -191,27 +203,15 @@ AI生成的语音克隆技术日益成熟，甚至能以30秒的音频克隆出�
 
 ---
 
-## <a name="15"></a>15. 后院里的氰化物 
+## <a name="16"></a>16. 后院里的氰化物 
 <small>🔗 [suziepetryk.com](https://suziepetryk.com/blog/cyanide.html): Backyard Cyanide</small>
 
 
-| 🔥🔥: 115 \| 💬: [46](https://news.ycombinator.com/item?id=43335110) \| 🗓️ 2025-03-11
+| 🔥🔥: 116 \| 💬: [47](https://news.ycombinator.com/item?id=43335110) \| 🗓️ 2025-03-11
 
 
 <br />
 作者Suzie Petryk在自家后院发现了一棵结有深红色果实的灌木，经鉴定为**樱桃月桂树**。这种植物在古代被罗马皇帝尼禄用于毒杀敌人，其叶子、茎、种子和未成熟果实均含有**氰化物**。尽管有毒，樱桃月桂的果实成熟后可食用，甚至在土耳其被制成各种食品。然而，误食其叶子或未成熟果实可能导致中毒，历史上曾多次发生类似事件。
-
----
-
-## <a name="16"></a>16. 澳大利亚男子成功使用人工心脏存活100天，创世界首例 
-<small>🔗 [theguardian.com](https://www.theguardian.com/australia-news/2025/mar/12/australian-man-survives-100-days-with-artificial-heart-in-world-first-success): Australian man survives 100 days with artificial heart in world-first success</small>
-
-
-| 🔥🔥: 105 \| 💬: [11](https://news.ycombinator.com/item?id=43338596) \| 🗓️ 2025-03-11
-
-
-<br />
-一名澳大利亚男子成为全球首位植入**BiVACOR全人工心脏**并存活超过100天的患者。该设备由澳大利亚研发，采用磁悬浮技术，旨在为**终末期双心室心力衰竭**患者提供支持，作为心脏移植前的过渡。此次成功标志着人工心脏技术的重大突破，未来有望成为无法等待移植患者的替代方案。
 
 ---
 
@@ -227,11 +227,23 @@ AI生成的语音克隆技术日益成熟，甚至能以30秒的音频克隆出�
 
 ---
 
-## <a name="18"></a>18. Espressif回应Tarlogic关于ESP32蓝牙未记录命令的报告 
+## <a name="18"></a>18. 庆祝10k日 
+<small>🔗 [blog.comma.ai](https://blog.comma.ai/happy10kday/): Happy 10k Day</small>
+
+
+| 🔥: 84 \| 💬: [48](https://news.ycombinator.com/item?id=43339158) \| 🗓️ 2025-03-11
+
+
+<br />
+今天，我们售出了第10,000台**comma 3X**，这是我们首个销量突破五位数的产品。硬件开发虽难，但我们坚持为用户提供**高价值产品**。自2017年推出首款产品以来，我们不断进步，如今拥有自建工厂和强大的供应链。2025年将是**comma.ai**最重要的一年，我们正扩大数据中心和制造能力，并利用庞大的车队加速数据训练。
+
+---
+
+## <a name="19"></a>19. Espressif回应Tarlogic关于ESP32蓝牙未记录命令的报告 
 <small>🔗 [espressif.com](https://www.espressif.com/en/news/response_esp32_bluetooth): Espressif's Response to Undocumented Commands in ESP32 Bluetooth by Tarlogic</small>
 
 
-| 🔥: 81 \| 💬: [21](https://news.ycombinator.com/item?id=43332184) \| 🗓️ 2025-03-11
+| 🔥: 82 \| 💬: [22](https://news.ycombinator.com/item?id=43332184) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -239,7 +251,7 @@ Espressif针对Tarlogic发现的**ESP32蓝牙未记录命令**问题作出回应
 
 ---
 
-## <a name="19"></a>19. 紧凑表示类型格 
+## <a name="20"></a>20. 紧凑表示类型格 
 <small>🔗 [bernsteinbear.com](https://bernsteinbear.com/blog/lattice-bitset/): Representing Type Lattices Compactly</small>
 
 
@@ -251,35 +263,11 @@ Espressif针对Tarlogic发现的**ESP32蓝牙未记录命令**问题作出回应
 
 ---
 
-## <a name="20"></a>20. 庆祝10k日 
-<small>🔗 [blog.comma.ai](https://blog.comma.ai/happy10kday/): Happy 10k Day</small>
-
-
-| 🔥: 67 \| 💬: [39](https://news.ycombinator.com/item?id=43339158) \| 🗓️ 2025-03-11
-
-
-<br />
-今天，我们售出了第10,000台**comma 3X**，这是我们首个销量突破五位数的产品。硬件开发虽难，但我们坚持为用户提供**高价值产品**。自2017年推出首款产品以来，我们不断进步，如今拥有自建工厂和强大的供应链。2025年将是**comma.ai**最重要的一年，我们正扩大数据中心和制造能力，并利用庞大的车队加速数据训练。
-
----
-
-## <a name="21"></a>21. 印度如何争夺民主叙事的主导权 
-<small>🔗 [theplankmag.com](https://www.theplankmag.com/india-democracy-narrative): India's Battle to Control the Democracy Narrative</small>
-
-
-| 🔥: 65 \| 💬: [76](https://news.ycombinator.com/item?id=43336872) \| 🗓️ 2025-03-11
-
-
-<br />
-印度政府公开驳斥国际民主排名，认为这些排名是西方政治工具。然而，内部文件显示，政府高度重视这些排名对**主权评级**和**国际借贷成本**的影响。通过**全球指数改革计划**，印度试图提升排名，同时通过控制媒体和信息生态，重塑国际对印度民主的叙事。
-
----
-
-## <a name="22"></a>22. 使用CUDA实现排序算法 
+## <a name="21"></a>21. 使用CUDA实现排序算法 
 <small>🔗 [ashwanirathee.com](https://ashwanirathee.com/blog/2025/sort2/): Sorting algorithms with CUDA</small>
 
 
-| 🔥: 64 \| 💬: [15](https://news.ycombinator.com/item?id=43338405) \| 🗓️ 2025-03-11
+| 🔥: 69 \| 💬: [16](https://news.ycombinator.com/item?id=43338405) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -287,11 +275,23 @@ Espressif针对Tarlogic发现的**ESP32蓝牙未记录命令**问题作出回应
 
 ---
 
+## <a name="22"></a>22. 印度如何争夺民主叙事的主导权 
+<small>🔗 [theplankmag.com](https://www.theplankmag.com/india-democracy-narrative): India's Battle to Control the Democracy Narrative</small>
+
+
+| 🔥: 65 \| 💬: [77](https://news.ycombinator.com/item?id=43336872) \| 🗓️ 2025-03-11
+
+
+<br />
+印度政府公开驳斥国际民主排名，认为这些排名是西方政治工具。然而，内部文件显示，政府高度重视这些排名对**主权评级**和**国际借贷成本**的影响。通过**全球指数改革计划**，印度试图提升排名，同时通过控制媒体和信息生态，重塑国际对印度民主的叙事。
+
+---
+
 ## <a name="23"></a>23. 氯胺酮对人类大脑的影响 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/health/archive/2025/03/ketamine-effects-elon-musk/681911/): What ketamine does to the human brain</small>
 
 
-| 🔥: 63 \| 💬: [16](https://news.ycombinator.com/item?id=43338684) \| 🗓️ 2025-03-11
+| 🔥: 64 \| 💬: [16](https://news.ycombinator.com/item?id=43338684) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -315,7 +315,7 @@ Espressif针对Tarlogic发现的**ESP32蓝牙未记录命令**问题作出回应
 <small>🔗 [blog.apnic.net](https://blog.apnic.net/2022/06/02/more-mysterious-dns-root-query-traffic-from-a-large-cloud-dns-operator/): More mysterious DNS root query traffic from a large cloud/DNS operator (2022)</small>
 
 
-| 🔥: 56 \| 💬: [13](https://news.ycombinator.com/item?id=43331601) \| 🗓️ 2025-03-11
+| 🔥: 57 \| 💬: [14](https://news.ycombinator.com/item?id=43331601) \| 🗓️ 2025-03-11
 
 
 <br />
