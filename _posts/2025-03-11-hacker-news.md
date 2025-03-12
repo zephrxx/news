@@ -27,7 +27,7 @@ tags:
 <small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/typescript/typescript-native-port/): A 10x Faster TypeScript</small>
 
 
-| 🔥🔥: 1501 \| 💬: [674](https://news.ycombinator.com/item?id=43332830) \| 🗓️ 2025-03-11
+| 🔥🔥: 1525 \| 💬: [684](https://news.ycombinator.com/item?id=43332830) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -39,7 +39,7 @@ TypeScript 团队宣布正在开发**原生编译器**，预计到 2025 年中�
 <small>🔗 [twitter.com](https://twitter.com/garrytan/status/1899092996702048709): Happy 20th Birthday, Y Combinator</small>
 
 
-| 🔥🔥: 1038 \| 💬: [207](https://news.ycombinator.com/item?id=43332658) \| 🗓️ 2025-03-11
+| 🔥🔥: 1086 \| 💬: [213](https://news.ycombinator.com/item?id=43332658) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -51,7 +51,7 @@ TypeScript 团队宣布正在开发**原生编译器**，预计到 2025 年中�
 <small>🔗 [jackhopkins.github.io](https://jackhopkins.github.io/factorio-learning-environment/): Show HN: Factorio Learning Environment – Agents Build Factories</small>
 
 
-| 🔥🔥: 641 \| 💬: [184](https://news.ycombinator.com/item?id=43331582) \| 🗓️ 2025-03-11
+| 🔥🔥: 646 \| 💬: [186](https://news.ycombinator.com/item?id=43331582) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -63,7 +63,7 @@ TypeScript 团队宣布正在开发**原生编译器**，预计到 2025 年中�
 <small>🔗 [medium.com](https://medium.com/@caitlin9165/fastplotlib-driving-scientific-discovery-through-data-visualization-418f8bff094c): Fastplotlib: GPU-accelerated, fast, and interactive plotting library</small>
 
 
-| 🔥🔥: 364 \| 💬: [132](https://news.ycombinator.com/item?id=43334190) \| 🗓️ 2025-03-11
+| 🔥🔥: 369 \| 💬: [132](https://news.ycombinator.com/item?id=43334190) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -75,7 +75,7 @@ TypeScript 团队宣布正在开发**原生编译器**，预计到 2025 年中�
 <small>🔗 [seeinglogic.com](https://seeinglogic.com/posts/visual-readability-patterns/): What makes code hard to read: Visual patterns of complexity (2023)</small>
 
 
-| 🔥🔥: 300 \| 💬: [293](https://news.ycombinator.com/item?id=43330900) \| 🗓️ 2025-03-11
+| 🔥🔥: 304 \| 💬: [297](https://news.ycombinator.com/item?id=43330900) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -87,7 +87,7 @@ TypeScript 团队宣布正在开发**原生编译器**，预计到 2025 年中�
 <small>🔗 [pilaenergy.com](https://pilaenergy.com): Show HN: We built a Plug-in Home Battery for the 99.7% of us without Powerwalls</small>
 
 
-| 🔥🔥: 259 \| 💬: [394](https://news.ycombinator.com/item?id=43333661) \| 🗓️ 2025-03-11
+| 🔥🔥: 267 \| 💬: [403](https://news.ycombinator.com/item?id=43333661) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -99,7 +99,7 @@ Pila是一款**即插即用**的家用备用电池，无需重新布线，适合
 <small>🔗 [developer.espressif.com](https://developer.espressif.com/blog/2025/03/esp32-bluetooth-clearing-the-air/): ESP32 Undocumented Bluetooth Commands: Clearing the Air</small>
 
 
-| 🔥🔥: 221 \| 💬: [87](https://news.ycombinator.com/item?id=43330331) \| 🗓️ 2025-03-11
+| 🔥🔥: 222 \| 💬: [87](https://news.ycombinator.com/item?id=43330331) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -111,7 +111,7 @@ Espressif 针对近期关于 ESP32 蓝牙控制器可能存在“后门”或“
 <small>🔗 [bbc.com](https://www.bbc.com/travel/article/20190623-the-us-island-that-speaks-elizabethan-english): The US island that speaks Elizabethan English</small>
 
 
-| 🔥🔥: 214 \| 💬: [118](https://news.ycombinator.com/item?id=43332752) \| 🗓️ 2025-03-11
+| 🔥🔥: 219 \| 💬: [123](https://news.ycombinator.com/item?id=43332752) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -123,7 +123,7 @@ Espressif 针对近期关于 ESP32 蓝牙控制器可能存在“后门”或“
 <small>🔗 [chicagomaroon.github.io](https://chicagomaroon.github.io/data-visualizations/2025/uchicago-property/): Mapping the University of Chicago's 135-year expansion into Hyde Park and beyond</small>
 
 
-| 🔥🔥: 197 \| 💬: [70](https://news.ycombinator.com/item?id=43332424) \| 🗓️ 2025-03-11
+| 🔥🔥: 199 \| 💬: [70](https://news.ycombinator.com/item?id=43332424) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -131,23 +131,11 @@ Espressif 针对近期关于 ESP32 蓝牙控制器可能存在“后门”或“
 
 ---
 
-## <a name="10"></a>10. 美国错失新劳动经济——机器人革命（第一部分） 
-<small>🔗 [semianalysis.com](https://semianalysis.com/2025/03/11/america-is-missing-the-new-labor-economy-robotics-part-1/): America Is Missing The New Labor Economy – Robotics Part 1</small>
-
-
-| 🔥🔥: 174 \| 💬: [267](https://news.ycombinator.com/item?id=43331358) \| 🗓️ 2025-03-11
-
-
-<br />
-中国在**通用机器人**领域占据主导地位，正通过**全自动化**推动制造业革命。美国及其西方盟友因供应链依赖和制造业基础薄弱而落后。中国的**规模化生产**和快速迭代能力使其在机器人领域占据优势，威胁到美国的全球竞争力。
-
----
-
-## <a name="11"></a>11. 创业公司CTO手册：打造高效工程团队的关键技能与最佳实践 
+## <a name="10"></a>10. 创业公司CTO手册：打造高效工程团队的关键技能与最佳实践 
 <small>🔗 [github.com](https://github.com/ZachGoldberg/Startup-CTO-Handbook/blob/main/StartupCTOHandbook.md): The Startup CTO's Handbook</small>
 
 
-| 🔥🔥: 160 \| 💬: [38](https://news.ycombinator.com/item?id=43337703) \| 🗓️ 2025-03-11
+| 🔥🔥: 192 \| 💬: [43](https://news.ycombinator.com/item?id=43337703) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -155,35 +143,23 @@ Espressif 针对近期关于 ESP32 蓝牙控制器可能存在“后门”或“
 
 ---
 
-## <a name="12"></a>12. NIST选择HQC作为后量子加密的第五种算法 
-<small>🔗 [nist.gov](https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption): NIST selects HQC as fifth algorithm for post-quantum encryption</small>
+## <a name="11"></a>11. 美国错失新劳动经济——机器人革命（第一部分） 
+<small>🔗 [semianalysis.com](https://semianalysis.com/2025/03/11/america-is-missing-the-new-labor-economy-robotics-part-1/): America Is Missing The New Labor Economy – Robotics Part 1</small>
 
 
-| 🔥🔥: 145 \| 💬: [101](https://news.ycombinator.com/item?id=43332944) \| 🗓️ 2025-03-11
-
-
-<br />
-美国国家标准与技术研究院（NIST）已选择**HQC**作为后量子加密的备用算法，以支持主算法**ML-KEM**。HQC基于不同的数学原理，旨在为未来量子计算机可能破解ML-KEM的情况提供第二道防线。NIST计划在2027年发布包含HQC的最终标准。
-
----
-
-## <a name="13"></a>13. Krep：高性能字符串搜索工具，C语言编写 
-<small>🔗 [davidesantangelo.github.io](https://davidesantangelo.github.io/krep/): Show HN: Krep a High-Performance String Search Utility Written in C</small>
-
-
-| 🔥🔥: 131 \| 💬: [54](https://news.ycombinator.com/item?id=43333946) \| 🗓️ 2025-03-11
+| 🔥🔥: 177 \| 💬: [271](https://news.ycombinator.com/item?id=43331358) \| 🗓️ 2025-03-11
 
 
 <br />
-Krep 是一款**高性能**的字符串搜索工具，采用优化算法和内存映射文件 I/O，搜索速度比传统工具快**5倍**。它支持**硬件加速**（SSE4.2 和 AVX2 指令集）和**多线程处理**，能根据模式和硬件动态选择最佳算法，内存占用低且接口简单。适用于大文件搜索，性能显著优于 ripgrep 和 grep。
+中国在**通用机器人**领域占据主导地位，正通过**全自动化**推动制造业革命。美国及其西方盟友因供应链依赖和制造业基础薄弱而落后。中国的**规模化生产**和快速迭代能力使其在机器人领域占据优势，威胁到美国的全球竞争力。
 
 ---
 
-## <a name="14"></a>14. 澳大利亚男子成功使用人工心脏存活100天，创世界首例 
+## <a name="12"></a>12. 澳大利亚男子成功使用人工心脏存活100天，创世界首例 
 <small>🔗 [theguardian.com](https://www.theguardian.com/australia-news/2025/mar/12/australian-man-survives-100-days-with-artificial-heart-in-world-first-success): Australian man survives 100 days with artificial heart</small>
 
 
-| 🔥🔥: 131 \| 💬: [25](https://news.ycombinator.com/item?id=43338596) \| 🗓️ 2025-03-11
+| 🔥🔥: 151 \| 💬: [37](https://news.ycombinator.com/item?id=43338596) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -191,11 +167,23 @@ Krep 是一款**高性能**的字符串搜索工具，采用优化算法和内�
 
 ---
 
-## <a name="15"></a>15. AI生成语音证据在法庭上的危险性 
+## <a name="13"></a>13. NIST选择HQC作为后量子加密的第五种算法 
+<small>🔗 [nist.gov](https://www.nist.gov/news-events/news/2025/03/nist-selects-hqc-fifth-algorithm-post-quantum-encryption): NIST selects HQC as fifth algorithm for post-quantum encryption</small>
+
+
+| 🔥🔥: 146 \| 💬: [101](https://news.ycombinator.com/item?id=43332944) \| 🗓️ 2025-03-11
+
+
+<br />
+美国国家标准与技术研究院（NIST）已选择**HQC**作为后量子加密的备用算法，以支持主算法**ML-KEM**。HQC基于不同的数学原理，旨在为未来量子计算机可能破解ML-KEM的情况提供第二道防线。NIST计划在2027年发布包含HQC的最终标准。
+
+---
+
+## <a name="14"></a>14. AI生成语音证据在法庭上的危险性 
 <small>🔗 [lawfaremedia.org](https://www.lawfaremedia.org/article/ai-generated-voice-evidence-poses-dangers-in-court): AI-Generated Voice Evidence Poses Dangers in Court</small>
 
 
-| 🔥🔥: 127 \| 💬: [89](https://news.ycombinator.com/item?id=43333484) \| 🗓️ 2025-03-11
+| 🔥🔥: 132 \| 💬: [91](https://news.ycombinator.com/item?id=43333484) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -203,11 +191,23 @@ AI生成的语音克隆技术日益成熟，甚至能以30秒的音频克隆出�
 
 ---
 
+## <a name="15"></a>15. Krep：高性能字符串搜索工具，C语言编写 
+<small>🔗 [davidesantangelo.github.io](https://davidesantangelo.github.io/krep/): Show HN: Krep a High-Performance String Search Utility Written in C</small>
+
+
+| 🔥🔥: 132 \| 💬: [54](https://news.ycombinator.com/item?id=43333946) \| 🗓️ 2025-03-11
+
+
+<br />
+Krep 是一款**高性能**的字符串搜索工具，采用优化算法和内存映射文件 I/O，搜索速度比传统工具快**5倍**。它支持**硬件加速**（SSE4.2 和 AVX2 指令集）和**多线程处理**，能根据模式和硬件动态选择最佳算法，内存占用低且接口简单。适用于大文件搜索，性能显著优于 ripgrep 和 grep。
+
+---
+
 ## <a name="16"></a>16. 后院里的氰化物 
 <small>🔗 [suziepetryk.com](https://suziepetryk.com/blog/cyanide.html): Backyard Cyanide</small>
 
 
-| 🔥🔥: 116 \| 💬: [47](https://news.ycombinator.com/item?id=43335110) \| 🗓️ 2025-03-11
+| 🔥🔥: 119 \| 💬: [47](https://news.ycombinator.com/item?id=43335110) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -215,7 +215,19 @@ AI生成的语音克隆技术日益成熟，甚至能以30秒的音频克隆出�
 
 ---
 
-## <a name="17"></a>17. 拯救美国气候和环境数据，防止其消失 
+## <a name="17"></a>17. 庆祝10k日 
+<small>🔗 [blog.comma.ai](https://blog.comma.ai/happy10kday/): Happy 10k Day</small>
+
+
+| 🔥: 99 \| 💬: [57](https://news.ycombinator.com/item?id=43339158) \| 🗓️ 2025-03-11
+
+
+<br />
+今天，我们售出了第10,000台**comma 3X**，这是我们首个销量突破五位数的产品。硬件开发虽难，但我们坚持为用户提供**高价值产品**。自2017年推出首款产品以来，我们不断进步，如今拥有自建工厂和强大的供应链。2025年将是**comma.ai**最重要的一年，我们正扩大数据中心和制造能力，并利用庞大的车队加速数据训练。
+
+---
+
+## <a name="18"></a>18. 拯救美国气候和环境数据，防止其消失 
 <small>🔗 [e360.yale.edu](https://e360.yale.edu/features/eric-nost-interview): Saving U.S. Climate and Environmental Data Before It Goes Away</small>
 
 
@@ -224,18 +236,6 @@ AI生成的语音克隆技术日益成熟，甚至能以30秒的音频克隆出�
 
 <br />
 自特朗普重返白宫以来，数千个政府数据集被修改或删除，包括用于追踪气候变化和有毒危害风险的关键工具。**Eric Nost**及其团队通过**Environmental Data and Governance Initiative**（EDGI）努力备份这些数据，防止其丢失。特朗普政府删除了许多与环境正义和气候行动相关的工具和语言，尽管部分数据仍存在于内部系统中，但公众访问受限。Nost强调，这些变化不仅是数据丢失，更是对公共基础设施和能力的削弱。
-
----
-
-## <a name="18"></a>18. 庆祝10k日 
-<small>🔗 [blog.comma.ai](https://blog.comma.ai/happy10kday/): Happy 10k Day</small>
-
-
-| 🔥: 84 \| 💬: [48](https://news.ycombinator.com/item?id=43339158) \| 🗓️ 2025-03-11
-
-
-<br />
-今天，我们售出了第10,000台**comma 3X**，这是我们首个销量突破五位数的产品。硬件开发虽难，但我们坚持为用户提供**高价值产品**。自2017年推出首款产品以来，我们不断进步，如今拥有自建工厂和强大的供应链。2025年将是**comma.ai**最重要的一年，我们正扩大数据中心和制造能力，并利用庞大的车队加速数据训练。
 
 ---
 
@@ -255,7 +255,7 @@ Espressif针对Tarlogic发现的**ESP32蓝牙未记录命令**问题作出回应
 <small>🔗 [bernsteinbear.com](https://bernsteinbear.com/blog/lattice-bitset/): Representing Type Lattices Compactly</small>
 
 
-| 🔥: 79 \| 💬: [21](https://news.ycombinator.com/item?id=43331914) \| 🗓️ 2025-03-11
+| 🔥: 79 \| 💬: [23](https://news.ycombinator.com/item?id=43331914) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -267,7 +267,7 @@ Espressif针对Tarlogic发现的**ESP32蓝牙未记录命令**问题作出回应
 <small>🔗 [ashwanirathee.com](https://ashwanirathee.com/blog/2025/sort2/): Sorting algorithms with CUDA</small>
 
 
-| 🔥: 69 \| 💬: [16](https://news.ycombinator.com/item?id=43338405) \| 🗓️ 2025-03-11
+| 🔥: 76 \| 💬: [18](https://news.ycombinator.com/item?id=43338405) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -279,7 +279,7 @@ Espressif针对Tarlogic发现的**ESP32蓝牙未记录命令**问题作出回应
 <small>🔗 [theplankmag.com](https://www.theplankmag.com/india-democracy-narrative): India's Battle to Control the Democracy Narrative</small>
 
 
-| 🔥: 65 \| 💬: [77](https://news.ycombinator.com/item?id=43336872) \| 🗓️ 2025-03-11
+| 🔥: 68 \| 💬: [79](https://news.ycombinator.com/item?id=43336872) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -291,7 +291,7 @@ Espressif针对Tarlogic发现的**ESP32蓝牙未记录命令**问题作出回应
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/health/archive/2025/03/ketamine-effects-elon-musk/681911/): What ketamine does to the human brain</small>
 
 
-| 🔥: 64 \| 💬: [16](https://news.ycombinator.com/item?id=43338684) \| 🗓️ 2025-03-11
+| 🔥: 65 \| 💬: [16](https://news.ycombinator.com/item?id=43338684) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -303,7 +303,7 @@ Espressif针对Tarlogic发现的**ESP32蓝牙未记录命令**问题作出回应
 <small>🔗 [programexplorer.org](https://programexplorer.org/): Show HN: Program Explorer, a container playground</small>
 
 
-| 🔥: 59 \| 💬: [9](https://news.ycombinator.com/item?id=43334192) \| 🗓️ 2025-03-11
+| 🔥: 61 \| 💬: [9](https://news.ycombinator.com/item?id=43334192) \| 🗓️ 2025-03-11
 
 
 <br />
@@ -315,7 +315,7 @@ Espressif针对Tarlogic发现的**ESP32蓝牙未记录命令**问题作出回应
 <small>🔗 [blog.apnic.net](https://blog.apnic.net/2022/06/02/more-mysterious-dns-root-query-traffic-from-a-large-cloud-dns-operator/): More mysterious DNS root query traffic from a large cloud/DNS operator (2022)</small>
 
 
-| 🔥: 57 \| 💬: [14](https://news.ycombinator.com/item?id=43331601) \| 🗓️ 2025-03-11
+| 🔥: 59 \| 💬: [14](https://news.ycombinator.com/item?id=43331601) \| 🗓️ 2025-03-11
 
 
 <br />
