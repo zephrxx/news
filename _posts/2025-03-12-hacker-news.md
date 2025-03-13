@@ -8,26 +8,38 @@ tags:
 ---
 
 
+1. 揭露NSA大规模监控的AT&T举报人马克·克莱因去世；
 1. DuckDB本地UI发布：简化数据库交互体验；
 1. Gemini Robotics：将AI带入物理世界；
 1. 浏览器中的点对点文件传输；
 1. 未来属于Niri；
-1. 是时候让Mozilla放弃谷歌了；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共13条，具体内容您往下读...
+总共22条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
 ![](/assets/images/hacker_news.jpg)
 
 
-## <a name="1"></a>1. DuckDB本地UI发布：简化数据库交互体验 
+## <a name="1"></a>1. 揭露NSA大规模监控的AT&T举报人马克·克莱因去世 
+<small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/memoriam-mark-klein-att-whistleblower-about-nsa-mass-spying): Mark Klein, AT&T whistleblower who revealed NSA mass spying, has died</small>
+
+
+| 🔥🔥: 807 \| 💬: [179](https://news.ycombinator.com/item?id=43347662) \| 🗓️ 2025-03-12
+
+
+<br />
+马克·克莱因（Mark Klein）是一位真正的英雄，他冒着民事和刑事指控的风险，揭露了**NSA**在AT&T旧金山中心办公室设立的**秘密监控室641A**，该房间通过光纤分路器复制所有互联网数据。克莱因提供了大量证据，推动了多起诉讼和国会改革讨论。尽管最终未能彻底终止大规模监控，他的勇气激励了无数人继续为隐私权而战。他的遗产将永远激励我们捍卫**第四修正案**的承诺。
+
+---
+
+## <a name="2"></a>2. DuckDB本地UI发布：简化数据库交互体验 
 <small>🔗 [duckdb.org](https://duckdb.org/2025/03/12/duckdb-ui.html): The DuckDB Local UI</small>
 
 
-| 🔥🔥: 645 \| 💬: [143](https://news.ycombinator.com/item?id=43342712) \| 🗓️ 2025-03-12
+| 🔥🔥: 659 \| 💬: [147](https://news.ycombinator.com/item?id=43342712) \| 🗓️ 2025-03-12
 
 
 <br />
@@ -35,11 +47,11 @@ DuckDB团队与MotherDuck合作推出了**DuckDB本地UI**，作为ui扩展的�
 
 ---
 
-## <a name="2"></a>2. Gemini Robotics：将AI带入物理世界 
+## <a name="3"></a>3. Gemini Robotics：将AI带入物理世界 
 <small>🔗 [deepmind.google](https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/): Gemini Robotics</small>
 
 
-| 🔥🔥: 639 \| 💬: [391](https://news.ycombinator.com/item?id=43344082) \| 🗓️ 2025-03-12
+| 🔥🔥: 656 \| 💬: [396](https://news.ycombinator.com/item?id=43344082) \| 🗓️ 2025-03-12
 
 
 <br />
@@ -47,11 +59,11 @@ Google DeepMind推出基于**Gemini 2.0**的**Gemini Robotics**模型，旨在�
 
 ---
 
-## <a name="3"></a>3. 浏览器中的点对点文件传输 
+## <a name="4"></a>4. 浏览器中的点对点文件传输 
 <small>🔗 [github.com](https://github.com/kern/filepizza): Peer-to-peer file transfers in the browser</small>
 
 
-| 🔥🔥: 415 \| 💬: [206](https://news.ycombinator.com/item?id=43342361) \| 🗓️ 2025-03-12
+| 🔥🔥: 433 \| 💬: [206](https://news.ycombinator.com/item?id=43342361) \| 🗓️ 2025-03-12
 
 
 <br />
@@ -59,11 +71,11 @@ FilePizza 是一个基于 **WebRTC** 技术的浏览器文件传输工具，允�
 
 ---
 
-## <a name="4"></a>4. 未来属于Niri 
+## <a name="5"></a>5. 未来属于Niri 
 <small>🔗 [ersei.net](https://ersei.net/en/blog/niri): The Future Is Niri</small>
 
 
-| 🔥🔥: 321 \| 💬: [163](https://news.ycombinator.com/item?id=43342178) \| 🗓️ 2025-03-12
+| 🔥🔥: 325 \| 💬: [164](https://news.ycombinator.com/item?id=43342178) \| 🗓️ 2025-03-12
 
 
 <br />
@@ -71,11 +83,11 @@ FilePizza 是一个基于 **WebRTC** 技术的浏览器文件传输工具，允�
 
 ---
 
-## <a name="5"></a>5. 是时候让Mozilla放弃谷歌了 
+## <a name="6"></a>6. 是时候让Mozilla放弃谷歌了 
 <small>🔗 [mozillapetition.com](https://mozillapetition.com/): Tell Mozilla: it's time to ditch Google</small>
 
 
-| 🔥🔥: 242 \| 💬: [252](https://news.ycombinator.com/item?id=43340948) \| 🗓️ 2025-03-12
+| 🔥🔥: 258 \| 💬: [280](https://news.ycombinator.com/item?id=43340948) \| 🗓️ 2025-03-12
 
 
 <br />
@@ -83,11 +95,11 @@ Mozilla作为隐私保护的倡导者，目前依赖谷歌的收入来源与其�
 
 ---
 
-## <a name="6"></a>6. 时光传送门：穿越历史，猜猜你到了哪里 
+## <a name="7"></a>7. 时光传送门：穿越历史，猜猜你到了哪里 
 <small>🔗 [eggnog.ai](https://www.eggnog.ai/entertimeportal): Show HN: Time Portal – Get dropped into history, guess where you landed</small>
 
 
-| 🔥🔥: 220 \| 💬: [122](https://news.ycombinator.com/item?id=43347306) \| 🗓️ 2025-03-12
+| 🔥🔥: 233 \| 💬: [131](https://news.ycombinator.com/item?id=43347306) \| 🗓️ 2025-03-12
 
 
 <br />
@@ -95,23 +107,11 @@ Mozilla作为隐私保护的倡导者，目前依赖谷歌的收入来源与其�
 
 ---
 
-## <a name="7"></a>7. 逆向工程OpenAI代码执行以运行C和JavaScript 
-<small>🔗 [twitter.com](https://twitter.com/benswerd/status/1899853533761200300): Reverse engineering OpenAI code execution to make it run C and JavaScript</small>
-
-
-| 🔥🔥: 201 \| 💬: [54](https://news.ycombinator.com/item?id=43344673) \| 🗓️ 2025-03-12
-
-
-<br />
-内容摘要：本文讨论了如何在**OpenAI**的代码执行环境中运行**C语言**和**JavaScript**。由于某些浏览器中JavaScript被禁用，导致无法正常使用相关功能。建议用户启用JavaScript或切换至支持的浏览器，并检查是否因隐私扩展导致问题。
-
----
-
 ## <a name="8"></a>8. PuTTY工具图标设计演变 
 <small>🔗 [chiark.greenend.org.uk](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/putty-icons/): Iconography of the PuTTY tools</small>
 
 
-| 🔥🔥: 200 \| 💬: [51](https://news.ycombinator.com/item?id=43346816) \| 🗓️ 2025-03-12
+| 🔥🔥: 214 \| 💬: [54](https://news.ycombinator.com/item?id=43346816) \| 🗓️ 2025-03-12
 
 
 <br />
@@ -119,15 +119,15 @@ Mozilla作为隐私保护的倡导者，目前依赖谷歌的收入来源与其�
 
 ---
 
-## <a name="9"></a>9. Meta试图阻止前员工推广关于Facebook的书籍 
-<small>🔗 [engadget.com](https://www.engadget.com/social-media/meta-is-trying-to-stop-a-former-employee-from-promoting-her-book-about-facebook-004938899.html): Meta is trying to stop a former employee from promoting her book about Facebook</small>
+## <a name="9"></a>9. 逆向工程OpenAI代码执行以运行C和JavaScript 
+<small>🔗 [twitter.com](https://twitter.com/benswerd/status/1899853533761200300): Reverse engineering OpenAI code execution to make it run C and JavaScript</small>
 
 
-| 🔥🔥: 153 \| 💬: [36](https://news.ycombinator.com/item?id=43349473) \| 🗓️ 2025-03-12
+| 🔥🔥: 205 \| 💬: [54](https://news.ycombinator.com/item?id=43344673) \| 🗓️ 2025-03-12
 
 
 <br />
-Meta成功通过仲裁阻止前政策高管Sarah Wynn-Williams推广其新书《Careless People》。书中揭露了**扎克伯格**推动Facebook进入中国的细节，并指控现任政策主管Joel Kaplan行为不当。Meta称其违反**非贬低协议**，要求停止销售和宣传。出版商Flatiron Books尚未回应。
+内容摘要：本文讨论了如何在**OpenAI**的代码执行环境中运行**C语言**和**JavaScript**。由于某些浏览器中JavaScript被禁用，导致无法正常使用相关功能。建议用户启用JavaScript或切换至支持的浏览器，并检查是否因隐私扩展导致问题。
 
 ---
 
@@ -135,7 +135,7 @@ Meta成功通过仲裁阻止前政策高管Sarah Wynn-Williams推广其新书《
 <small>🔗 [websiteplanet.com](https://www.websiteplanet.com/news/eshyft-report-breach/): 'Uber for nurses' exposes 86K+ medical records, PII via open S3 bucket</small>
 
 
-| 🔥🔥: 151 \| 💬: [97](https://news.ycombinator.com/item?id=43349115) \| 🗓️ 2025-03-12
+| 🔥🔥: 167 \| 💬: [105](https://news.ycombinator.com/item?id=43349115) \| 🗓️ 2025-03-12
 
 
 <br />
@@ -143,11 +143,23 @@ Meta成功通过仲裁阻止前政策高管Sarah Wynn-Williams推广其新书《
 
 ---
 
-## <a name="11"></a>11. 初创公司无设计师的实用UX指南 
+## <a name="11"></a>11. Meta试图阻止前员工推广关于Facebook的书籍 
+<small>🔗 [engadget.com](https://www.engadget.com/social-media/meta-is-trying-to-stop-a-former-employee-from-promoting-her-book-about-facebook-004938899.html): Meta is trying to stop a former employee from promoting her book about Facebook</small>
+
+
+| 🔥🔥: 167 \| 💬: [39](https://news.ycombinator.com/item?id=43349473) \| 🗓️ 2025-03-12
+
+
+<br />
+Meta成功通过仲裁阻止前政策高管Sarah Wynn-Williams推广其新书《Careless People》。书中揭露了**扎克伯格**推动Facebook进入中国的细节，并指控现任政策主管Joel Kaplan行为不当。Meta称其违反**非贬低协议**，要求停止销售和宣传。出版商Flatiron Books尚未回应。
+
+---
+
+## <a name="12"></a>12. 初创公司无设计师的实用UX指南 
 <small>🔗 [tibinotes.com](https://www.tibinotes.com/p/practical-ux-for-startups-surviving): Practical UX for startups surviving without a designer</small>
 
 
-| 🔥🔥: 127 \| 💬: [31](https://news.ycombinator.com/item?id=43348379) \| 🗓️ 2025-03-12
+| 🔥🔥: 146 \| 💬: [39](https://news.ycombinator.com/item?id=43348379) \| 🗓️ 2025-03-12
 
 
 <br />
@@ -155,11 +167,11 @@ Meta成功通过仲裁阻止前政策高管Sarah Wynn-Williams推广其新书《
 
 ---
 
-## <a name="12"></a>12. 苹果将我锁进了微软为Windows 10用户打造的垄断牢笼 
+## <a name="13"></a>13. 苹果将我锁进了微软为Windows 10用户打造的垄断牢笼 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/12/hardware_os_lockin_monopolies/): Apple has locked me in the same cage Microsoft's built for Windows 10 users</small>
 
 
-| 🔥🔥: 126 \| 💬: [140](https://news.ycombinator.com/item?id=43341481) \| 🗓️ 2025-03-12
+| 🔥🔥: 136 \| 💬: [145](https://news.ycombinator.com/item?id=43341481) \| 🗓️ 2025-03-12
 
 
 <br />
@@ -167,14 +179,110 @@ Meta成功通过仲裁阻止前政策高管Sarah Wynn-Williams推广其新书《
 
 ---
 
-## <a name="13"></a>13. 《莎木（1999）》逆向工程揭示可能的太阳位置计算疏漏 
+## <a name="14"></a>14. 《莎木（1999）》逆向工程揭示可能的太阳位置计算疏漏 
 <small>🔗 [wulinshu.com](https://wulinshu.com/2025/03/11/reverse-engineering-adventures-3-bug-or-not-bug/): Shenmue (1999) reverse engineering reveals possible sun position oversight</small>
 
 
-| 🔥🔥: 125 \| 💬: [46](https://news.ycombinator.com/item?id=43345285) \| 🗓️ 2025-03-12
+| 🔥🔥: 128 \| 💬: [49](https://news.ycombinator.com/item?id=43345285) \| 🗓️ 2025-03-12
 
 
 <br />
 通过对《莎木》系列游戏的逆向工程，研究人员发现游戏在模拟太阳位置时，可能**错误地反转了纬度值**。游戏通过复杂的代码计算太阳位置，模拟地球的**轴向倾斜**（约23.5°），并基于日期和时间生成光照效果。尽管代码逻辑基本正确，但**纬度值的反转**可能影响了太阳位置的准确性。这一发现展示了逆向工程的复杂性和开发者意图的推测难度。
+
+---
+
+## <a name="15"></a>15. 全球首艘氨燃料船遇阻 
+<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/ammonia-fuel-2671266100): First ammonia-fueled ship hits a snag</small>
+
+
+| 🔥🔥: 121 \| 💬: [198](https://news.ycombinator.com/item?id=43342071) \| 🗓️ 2025-03-12
+
+
+<br />
+全球首艘使用**氨燃料**的船舶原计划实现零碳排放航运，但因技术问题推迟至**2026年**。Wärtsilä Gas Solutions在芬兰的实验室正测试其氨燃料供应系统，以用于Eidesvik的Viking Energy船。这一延迟凸显了绿色航运技术的挑战。
+
+---
+
+## <a name="16"></a>16. Zinc：一个系统编程语言原型 
+<small>🔗 [sr.ht](https://sr.ht/~oconnor0/zinc/): Zinc, a systems programming language prototype</small>
+
+
+| 🔥: 97 \| 💬: [33](https://news.ycombinator.com/item?id=43346864) \| 🗓️ 2025-03-12
+
+
+<br />
+Zinc 是一个低层系统编程语言的原型，旨在简化开发并提高可读性。它使用**可见下推语言**的解析器，确保语法易于解析且运行时间为线性。Zinc 支持**无括号的条件语句**、**范围条件**和**内置断言**，并区分副作用代码与非副作用代码。尽管设计上存在一些限制，如单遍编译和顶层执行的挑战，Zinc 仍试图实现跨平台、低依赖的目标，并最终支持图形和TUI库。
+
+---
+
+## <a name="17"></a>17. 神经科学离理解大脑还有多远（2023） 
+<small>🔗 [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC10585277/): How far neuroscience is from understanding brains (2023)</small>
+
+
+| 🔥: 93 \| 💬: [81](https://news.ycombinator.com/item?id=43342407) \| 🗓️ 2025-03-12
+
+
+<br />
+尽管神经科学在**细胞生物学**层面取得了显著进展，但仍缺乏解释大脑如何工作的统一理论。主要障碍在于**概念性**问题，如缺乏基于实验的神经元相互作用模型，以及难以区分**任务相关活动**与**自发活动**。此外，现有理论未能充分解释大脑的**空间动态**和时间独立性。未来研究需开发新概念，结合实验数据，推动对大脑机制的全面理解。
+
+---
+
+## <a name="18"></a>18. 《夜巡》（2013） 
+<small>🔗 [usenix.org](https://www.usenix.org/system/files/1311_05-08_mickens.pdf): The Night Watch (2013) [pdf]</small>
+
+
+| 🔥: 93 \| 💬: [18](https://news.ycombinator.com/item?id=43347724) \| 🗓️ 2025-03-12
+
+
+<br />
+《夜巡》是一部2013年的作品，内容涉及复杂的PDF文件结构和数据流。虽然文本中包含了大量的技术性数据和编码信息，但其核心可能围绕**文件解析**、**数据流处理**以及**PDF格式的内部结构**展开。这些内容对于理解PDF文件的底层机制具有重要意义。
+
+---
+
+## <a name="19"></a>19. 《太空侵略者》代码解析与隐藏彩蛋 
+<small>🔗 [computerarcheology.com](https://www.computerarcheology.com/Arcade/SpaceInvaders/): Space Invaders</small>
+
+
+| 🔥: 83 \| 💬: [30](https://news.ycombinator.com/item?id=43341789) \| 🗓️ 2025-03-12
+
+
+<br />
+《太空侵略者》是1978年由Taito推出的经典街机游戏，开启了街机游戏的黄金时代。游戏使用8080 CPU，采用黑白光栅显示，并通过彩色透明胶片增强视觉效果。**代码结构**中充满了NOP指令和未使用的内存区域，甚至存在一些奇怪的逻辑错误。此外，游戏中隐藏了一个**彩蛋**，通过特定按键组合可以在演示模式中显示“TAITO COP”字样。尽管代码存在一些**细微的bug**，但它仍然是早期电子游戏设计的典范。
+
+---
+
+## <a name="20"></a>20. 狗狗隐私法案请求 
+<small>🔗 [jamieraskin.com](https://jamieraskin.com/doge-privacy-act-requests/): Doge Privacy Act Requests</small>
+
+
+| 🔥: 81 \| 💬: [32](https://news.ycombinator.com/item?id=43349901) \| 🗓️ 2025-03-12
+
+
+<br />
+美国众议员杰米·拉斯金呼吁所有美国公民本周一起提交正式请求，要求获取**政府效率部（DOGE）**和**埃隆·马斯克**收集的个人数据。根据《信息自由法》和《1974年联邦隐私法》，公民有权访问政府记录系统中的个人信息。填写表格并邮寄至DOGE即可行使这一权利，DOGE有义务回应公民的隐私保护请求。
+
+---
+
+## <a name="21"></a>21. 八岁以下儿童应避免食用冰沙，甘油可能导致住院 
+<small>🔗 [news.sky.com](https://news.sky.com/story/children-under-eight-should-avoid-slushies-as-glycerol-leads-to-hospitalisations-study-13326879): Children under eight should avoid slushies as glycerol leads to hospitalisations</small>
+
+
+| 🔥: 72 \| 💬: [75](https://news.ycombinator.com/item?id=43342081) \| 🗓️ 2025-03-12
+
+
+<br />
+一项新研究表明，**冰沙**中的**甘油**可能导致儿童出现**甘油中毒综合征**，引发意识丧失和低血糖等症状。研究建议八岁以下儿童完全避免饮用含甘油的冰沙，因其无营养或健康益处。研究分析了21名2至7岁儿童的病例，他们在饮用冰沙后需急诊治疗，但均迅速康复。
+
+---
+
+## <a name="22"></a>22. AudioNimbus：Rust中的沉浸式空间音频工具 
+<small>🔗 [github.com](https://github.com/MaxenceMaire/audionimbus): Show HN: AudioNimbus – Steam Audio's immersive spatial audio, now in Rust</small>
+
+
+| 🔥: 70 \| 💬: [7](https://news.ycombinator.com/item?id=43344595) \| 🗓️ 2025-03-12
+
+
+<br />
+AudioNimbus 是一个基于 **Steam Audio** 的 Rust 封装库，为 Rust 开发者提供了强大的空间音频功能。它支持 **HRTF**、环绕声、声音传播和反射等效果，帮助开发者轻松实现沉浸式音频体验。项目采用 MIT 和 Apache-2.0 双许可证，适合集成到各种 Rust 项目中。
 
 ---
