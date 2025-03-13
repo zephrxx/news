@@ -9,8 +9,8 @@ tags:
 
 
 1. 揭露NSA大规模监控的AT&T举报人马克·克莱因去世；
-1. DuckDB本地UI发布：简化数据库交互体验；
 1. Gemini Robotics：将AI带入物理世界；
+1. DuckDB本地UI发布：简化数据库交互体验；
 1. 浏览器中的点对点文件传输；
 1. 未来属于Niri；
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/memoriam-mark-klein-att-whistleblower-about-nsa-mass-spying): Mark Klein, AT&T whistleblower who revealed NSA mass spying, has died</small>
 
 
-| 🔥🔥: 807 \| 💬: [179](https://news.ycombinator.com/item?id=43347662) \| 🗓️ 2025-03-12
+| 🔥🔥: 866 \| 💬: [192](https://news.ycombinator.com/item?id=43347662) \| 🗓️ 2025-03-12
 
 
 <br />
@@ -35,23 +35,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. DuckDB本地UI发布：简化数据库交互体验 
-<small>🔗 [duckdb.org](https://duckdb.org/2025/03/12/duckdb-ui.html): The DuckDB Local UI</small>
-
-
-| 🔥🔥: 659 \| 💬: [147](https://news.ycombinator.com/item?id=43342712) \| 🗓️ 2025-03-12
-
-
-<br />
-DuckDB团队与MotherDuck合作推出了**DuckDB本地UI**，作为ui扩展的一部分。该UI支持从终端或SQL命令启动，提供**交互式笔记本**功能，允许用户编写SQL脚本并查看查询结果。所有查询均在本地运行，确保数据安全。UI还支持**数据库探索**、**表格摘要**、**列分析**等功能，并集成了MotherDuck云服务。UI基于DuckDB扩展实现，提供低延迟体验，适合本地开发与数据分析。
-
----
-
-## <a name="3"></a>3. Gemini Robotics：将AI带入物理世界 
+## <a name="2"></a>2. Gemini Robotics：将AI带入物理世界 
 <small>🔗 [deepmind.google](https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world/): Gemini Robotics</small>
 
 
-| 🔥🔥: 656 \| 💬: [396](https://news.ycombinator.com/item?id=43344082) \| 🗓️ 2025-03-12
+| 🔥🔥: 676 \| 💬: [400](https://news.ycombinator.com/item?id=43344082) \| 🗓️ 2025-03-12
 
 
 <br />
@@ -59,11 +47,23 @@ Google DeepMind推出基于**Gemini 2.0**的**Gemini Robotics**模型，旨在�
 
 ---
 
+## <a name="3"></a>3. DuckDB本地UI发布：简化数据库交互体验 
+<small>🔗 [duckdb.org](https://duckdb.org/2025/03/12/duckdb-ui.html): The DuckDB Local UI</small>
+
+
+| 🔥🔥: 668 \| 💬: [149](https://news.ycombinator.com/item?id=43342712) \| 🗓️ 2025-03-12
+
+
+<br />
+DuckDB团队与MotherDuck合作推出了**DuckDB本地UI**，作为ui扩展的一部分。该UI支持从终端或SQL命令启动，提供**交互式笔记本**功能，允许用户编写SQL脚本并查看查询结果。所有查询均在本地运行，确保数据安全。UI还支持**数据库探索**、**表格摘要**、**列分析**等功能，并集成了MotherDuck云服务。UI基于DuckDB扩展实现，提供低延迟体验，适合本地开发与数据分析。
+
+---
+
 ## <a name="4"></a>4. 浏览器中的点对点文件传输 
 <small>🔗 [github.com](https://github.com/kern/filepizza): Peer-to-peer file transfers in the browser</small>
 
 
-| 🔥🔥: 433 \| 💬: [206](https://news.ycombinator.com/item?id=43342361) \| 🗓️ 2025-03-12
+| 🔥🔥: 440 \| 💬: [207](https://news.ycombinator.com/item?id=43342361) \| 🗓️ 2025-03-12
 
 
 <br />
@@ -75,7 +75,7 @@ FilePizza 是一个基于 **WebRTC** 技术的浏览器文件传输工具，允�
 <small>🔗 [ersei.net](https://ersei.net/en/blog/niri): The Future Is Niri</small>
 
 
-| 🔥🔥: 325 \| 💬: [164](https://news.ycombinator.com/item?id=43342178) \| 🗓️ 2025-03-12
+| 🔥🔥: 326 \| 💬: [171](https://news.ycombinator.com/item?id=43342178) \| 🗓️ 2025-03-12
 
 
 <br />
@@ -87,7 +87,7 @@ FilePizza 是一个基于 **WebRTC** 技术的浏览器文件传输工具，允�
 <small>🔗 [mozillapetition.com](https://mozillapetition.com/): Tell Mozilla: it's time to ditch Google</small>
 
 
-| 🔥🔥: 258 \| 💬: [280](https://news.ycombinator.com/item?id=43340948) \| 🗓️ 2025-03-12
+| 🔥🔥: 276 \| 💬: [296](https://news.ycombinator.com/item?id=43340948) \| 🗓️ 2025-03-12
 
 
 <br />
@@ -99,7 +99,7 @@ Mozilla作为隐私保护的倡导者，目前依赖谷歌的收入来源与其�
 <small>🔗 [eggnog.ai](https://www.eggnog.ai/entertimeportal): Show HN: Time Portal – Get dropped into history, guess where you landed</small>
 
 
-| 🔥🔥: 233 \| 💬: [131](https://news.ycombinator.com/item?id=43347306) \| 🗓️ 2025-03-12
+| 🔥🔥: 246 \| 💬: [137](https://news.ycombinator.com/item?id=43347306) \| 🗓️ 2025-03-12
 
 
 <br />
@@ -111,7 +111,7 @@ Mozilla作为隐私保护的倡导者，目前依赖谷歌的收入来源与其�
 <small>🔗 [chiark.greenend.org.uk](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/putty-icons/): Iconography of the PuTTY tools</small>
 
 
-| 🔥🔥: 214 \| 💬: [54](https://news.ycombinator.com/item?id=43346816) \| 🗓️ 2025-03-12
+| 🔥🔥: 230 \| 💬: [56](https://news.ycombinator.com/item?id=43346816) \| 🗓️ 2025-03-12
 
 
 <br />
@@ -123,7 +123,7 @@ Mozilla作为隐私保护的倡导者，目前依赖谷歌的收入来源与其�
 <small>🔗 [twitter.com](https://twitter.com/benswerd/status/1899853533761200300): Reverse engineering OpenAI code execution to make it run C and JavaScript</small>
 
 
-| 🔥🔥: 205 \| 💬: [54](https://news.ycombinator.com/item?id=43344673) \| 🗓️ 2025-03-12
+| 🔥🔥: 211 \| 💬: [55](https://news.ycombinator.com/item?id=43344673) \| 🗓️ 2025-03-12
 
 
 <br />
@@ -131,23 +131,11 @@ Mozilla作为隐私保护的倡导者，目前依赖谷歌的收入来源与其�
 
 ---
 
-## <a name="10"></a>10. “护士版Uber”因未加密S3存储桶泄露8.6万条医疗记录和个人信息 
-<small>🔗 [websiteplanet.com](https://www.websiteplanet.com/news/eshyft-report-breach/): 'Uber for nurses' exposes 86K+ medical records, PII via open S3 bucket</small>
-
-
-| 🔥🔥: 167 \| 💬: [105](https://news.ycombinator.com/item?id=43349115) \| 🗓️ 2025-03-12
-
-
-<br />
-网络安全研究员Jeremiah Fowler发现，**ESHYFT**公司的一个未加密数据库公开暴露了86,341条记录，包含用户照片、工作日志、专业证书、简历等**个人身份信息（PII）**，甚至可能涉及HIPAA保护的医疗报告。该数据库在公开访问一个多月后被限制。此次事件凸显了医疗科技公司在数据安全方面的漏洞，需加强加密、多因素认证和数据分类存储等**网络安全措施**。
-
----
-
-## <a name="11"></a>11. Meta试图阻止前员工推广关于Facebook的书籍 
+## <a name="10"></a>10. Meta试图阻止前员工推广关于Facebook的书籍 
 <small>🔗 [engadget.com](https://www.engadget.com/social-media/meta-is-trying-to-stop-a-former-employee-from-promoting-her-book-about-facebook-004938899.html): Meta is trying to stop a former employee from promoting her book about Facebook</small>
 
 
-| 🔥🔥: 167 \| 💬: [39](https://news.ycombinator.com/item?id=43349473) \| 🗓️ 2025-03-12
+| 🔥🔥: 180 \| 💬: [42](https://news.ycombinator.com/item?id=43349473) \| 🗓️ 2025-03-12
 
 
 <br />
@@ -155,11 +143,23 @@ Meta成功通过仲裁阻止前政策高管Sarah Wynn-Williams推广其新书《
 
 ---
 
+## <a name="11"></a>11. “护士版Uber”因未加密S3存储桶泄露8.6万条医疗记录和个人信息 
+<small>🔗 [websiteplanet.com](https://www.websiteplanet.com/news/eshyft-report-breach/): 'Uber for nurses' exposes 86K+ medical records, PII via open S3 bucket</small>
+
+
+| 🔥🔥: 178 \| 💬: [108](https://news.ycombinator.com/item?id=43349115) \| 🗓️ 2025-03-12
+
+
+<br />
+网络安全研究员Jeremiah Fowler发现，**ESHYFT**公司的一个未加密数据库公开暴露了86,341条记录，包含用户照片、工作日志、专业证书、简历等**个人身份信息（PII）**，甚至可能涉及HIPAA保护的医疗报告。该数据库在公开访问一个多月后被限制。此次事件凸显了医疗科技公司在数据安全方面的漏洞，需加强加密、多因素认证和数据分类存储等**网络安全措施**。
+
+---
+
 ## <a name="12"></a>12. 初创公司无设计师的实用UX指南 
 <small>🔗 [tibinotes.com](https://www.tibinotes.com/p/practical-ux-for-startups-surviving): Practical UX for startups surviving without a designer</small>
 
 
-| 🔥🔥: 146 \| 💬: [39](https://news.ycombinator.com/item?id=43348379) \| 🗓️ 2025-03-12
+| 🔥🔥: 157 \| 💬: [46](https://news.ycombinator.com/item?id=43348379) \| 🗓️ 2025-03-12
 
 
 <br />
@@ -171,7 +171,7 @@ Meta成功通过仲裁阻止前政策高管Sarah Wynn-Williams推广其新书《
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/12/hardware_os_lockin_monopolies/): Apple has locked me in the same cage Microsoft's built for Windows 10 users</small>
 
 
-| 🔥🔥: 136 \| 💬: [145](https://news.ycombinator.com/item?id=43341481) \| 🗓️ 2025-03-12
+| 🔥🔥: 143 \| 💬: [152](https://news.ycombinator.com/item?id=43341481) \| 🗓️ 2025-03-12
 
 
 <br />
@@ -183,7 +183,7 @@ Meta成功通过仲裁阻止前政策高管Sarah Wynn-Williams推广其新书《
 <small>🔗 [wulinshu.com](https://wulinshu.com/2025/03/11/reverse-engineering-adventures-3-bug-or-not-bug/): Shenmue (1999) reverse engineering reveals possible sun position oversight</small>
 
 
-| 🔥🔥: 128 \| 💬: [49](https://news.ycombinator.com/item?id=43345285) \| 🗓️ 2025-03-12
+| 🔥🔥: 130 \| 💬: [49](https://news.ycombinator.com/item?id=43345285) \| 🗓️ 2025-03-12
 
 
 <br />
@@ -195,7 +195,7 @@ Meta成功通过仲裁阻止前政策高管Sarah Wynn-Williams推广其新书《
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/ammonia-fuel-2671266100): First ammonia-fueled ship hits a snag</small>
 
 
-| 🔥🔥: 121 \| 💬: [198](https://news.ycombinator.com/item?id=43342071) \| 🗓️ 2025-03-12
+| 🔥🔥: 121 \| 💬: [199](https://news.ycombinator.com/item?id=43342071) \| 🗓️ 2025-03-12
 
 
 <br />
@@ -207,7 +207,7 @@ Meta成功通过仲裁阻止前政策高管Sarah Wynn-Williams推广其新书《
 <small>🔗 [sr.ht](https://sr.ht/~oconnor0/zinc/): Zinc, a systems programming language prototype</small>
 
 
-| 🔥: 97 \| 💬: [33](https://news.ycombinator.com/item?id=43346864) \| 🗓️ 2025-03-12
+| 🔥🔥: 103 \| 💬: [33](https://news.ycombinator.com/item?id=43346864) \| 🗓️ 2025-03-12
 
 
 <br />
@@ -215,7 +215,19 @@ Zinc 是一个低层系统编程语言的原型，旨在简化开发并提高可
 
 ---
 
-## <a name="17"></a>17. 神经科学离理解大脑还有多远（2023） 
+## <a name="17"></a>17. 《夜巡》（2013） 
+<small>🔗 [usenix.org](https://www.usenix.org/system/files/1311_05-08_mickens.pdf): The Night Watch (2013) [pdf]</small>
+
+
+| 🔥: 99 \| 💬: [19](https://news.ycombinator.com/item?id=43347724) \| 🗓️ 2025-03-12
+
+
+<br />
+《夜巡》是一部2013年的作品，内容涉及复杂的PDF文件结构和数据流。虽然文本中包含了大量的技术性数据和编码信息，但其核心可能围绕**文件解析**、**数据流处理**以及**PDF格式的内部结构**展开。这些内容对于理解PDF文件的底层机制具有重要意义。
+
+---
+
+## <a name="18"></a>18. 神经科学离理解大脑还有多远（2023） 
 <small>🔗 [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC10585277/): How far neuroscience is from understanding brains (2023)</small>
 
 
@@ -224,18 +236,6 @@ Zinc 是一个低层系统编程语言的原型，旨在简化开发并提高可
 
 <br />
 尽管神经科学在**细胞生物学**层面取得了显著进展，但仍缺乏解释大脑如何工作的统一理论。主要障碍在于**概念性**问题，如缺乏基于实验的神经元相互作用模型，以及难以区分**任务相关活动**与**自发活动**。此外，现有理论未能充分解释大脑的**空间动态**和时间独立性。未来研究需开发新概念，结合实验数据，推动对大脑机制的全面理解。
-
----
-
-## <a name="18"></a>18. 《夜巡》（2013） 
-<small>🔗 [usenix.org](https://www.usenix.org/system/files/1311_05-08_mickens.pdf): The Night Watch (2013) [pdf]</small>
-
-
-| 🔥: 93 \| 💬: [18](https://news.ycombinator.com/item?id=43347724) \| 🗓️ 2025-03-12
-
-
-<br />
-《夜巡》是一部2013年的作品，内容涉及复杂的PDF文件结构和数据流。虽然文本中包含了大量的技术性数据和编码信息，但其核心可能围绕**文件解析**、**数据流处理**以及**PDF格式的内部结构**展开。这些内容对于理解PDF文件的底层机制具有重要意义。
 
 ---
 
@@ -255,7 +255,7 @@ Zinc 是一个低层系统编程语言的原型，旨在简化开发并提高可
 <small>🔗 [jamieraskin.com](https://jamieraskin.com/doge-privacy-act-requests/): Doge Privacy Act Requests</small>
 
 
-| 🔥: 81 \| 💬: [32](https://news.ycombinator.com/item?id=43349901) \| 🗓️ 2025-03-12
+| 🔥: 82 \| 💬: [33](https://news.ycombinator.com/item?id=43349901) \| 🗓️ 2025-03-12
 
 
 <br />
@@ -279,7 +279,7 @@ Zinc 是一个低层系统编程语言的原型，旨在简化开发并提高可
 <small>🔗 [github.com](https://github.com/MaxenceMaire/audionimbus): Show HN: AudioNimbus – Steam Audio's immersive spatial audio, now in Rust</small>
 
 
-| 🔥: 70 \| 💬: [7](https://news.ycombinator.com/item?id=43344595) \| 🗓️ 2025-03-12
+| 🔥: 71 \| 💬: [7](https://news.ycombinator.com/item?id=43344595) \| 🗓️ 2025-03-12
 
 
 <br />
