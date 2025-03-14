@@ -27,7 +27,7 @@ tags:
 <small>🔗 [finance.yahoo.com](https://finance.yahoo.com/news/openai-asks-white-house-relief-100000706.html): OpenAI asks White House for relief from state AI rules</small>
 
 
-| 🔥🔥: 510 \| 💬: [504](https://news.ycombinator.com/item?id=43352531) \| 🗓️ 2025-03-13
+| 🔥🔥: 534 \| 💬: [511](https://news.ycombinator.com/item?id=43352531) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -39,7 +39,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [lostartoflogarithms.com](https://www.lostartoflogarithms.com/): The Lost Art of Logarithms</small>
 
 
-| 🔥🔥: 326 \| 💬: [124](https://news.ycombinator.com/item?id=43356314) \| 🗓️ 2025-03-13
+| 🔥🔥: 341 \| 💬: [130](https://news.ycombinator.com/item?id=43356314) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -51,7 +51,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [worksinprogress.co](https://worksinprogress.co/issue/steam-networks/): Steam Networks</small>
 
 
-| 🔥🔥: 301 \| 💬: [136](https://news.ycombinator.com/item?id=43353822) \| 🗓️ 2025-03-13
+| 🔥🔥: 304 \| 💬: [137](https://news.ycombinator.com/item?id=43353822) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -63,7 +63,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [planetscale.com](https://planetscale.com/blog/io-devices-and-latency): IO Devices and Latency</small>
 
 
-| 🔥🔥: 282 \| 💬: [107](https://news.ycombinator.com/item?id=43355031) \| 🗓️ 2025-03-13
+| 🔥🔥: 291 \| 💬: [108](https://news.ycombinator.com/item?id=43355031) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -75,7 +75,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/10x-engineer): "Normal" engineers are the key to great teams</small>
 
 
-| 🔥🔥: 260 \| 💬: [267](https://news.ycombinator.com/item?id=43356995) \| 🗓️ 2025-03-13
+| 🔥🔥: 281 \| 💬: [281](https://news.ycombinator.com/item?id=43356995) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -87,7 +87,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [stellafane.org](https://stellafane.org/tm/atm/): Amateur Telescope Making Main Page</small>
 
 
-| 🔥🔥: 210 \| 💬: [48](https://news.ycombinator.com/item?id=43351988) \| 🗓️ 2025-03-13
+| 🔥🔥: 212 \| 💬: [48](https://news.ycombinator.com/item?id=43351988) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -99,7 +99,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [independent.co.uk](https://www.independent.co.uk/news/world/europe/pirate-bay-carl-lundstrom-dead-plane-crash-b2714284.html): Pirate Bay co-founder Carl Lundström has died</small>
 
 
-| 🔥🔥: 193 \| 💬: [78](https://news.ycombinator.com/item?id=43352580) \| 🗓️ 2025-03-13
+| 🔥🔥: 196 \| 💬: [78](https://news.ycombinator.com/item?id=43352580) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -111,7 +111,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [evanmiller.org](https://www.evanmiller.org/statistical-formulas-for-programmers.html): Statistical Formulas for Programmers (2013)</small>
 
 
-| 🔥🔥: 183 \| 💬: [33](https://news.ycombinator.com/item?id=43353551) \| 🗓️ 2025-03-13
+| 🔥🔥: 185 \| 💬: [33](https://news.ycombinator.com/item?id=43353551) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -123,7 +123,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [mameson.com](https://mameson.com/experiment/glsl/fro_9/fro_9.html): Honey Bunnies</small>
 
 
-| 🔥🔥: 137 \| 💬: [28](https://news.ycombinator.com/item?id=43355521) \| 🗓️ 2025-03-13
+| 🔥🔥: 142 \| 💬: [28](https://news.ycombinator.com/item?id=43355521) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -147,7 +147,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [thonyc.wordpress.com](https://thonyc.wordpress.com/2025/03/13/history-of-maths-for-beginners/): History of Maths for Beginners</small>
 
 
-| 🔥🔥: 120 \| 💬: [13](https://news.ycombinator.com/item?id=43355542) \| 🗓️ 2025-03-13
+| 🔥🔥: 123 \| 💬: [14](https://news.ycombinator.com/item?id=43355542) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -159,7 +159,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/13/y-combinator-urges-the-white-house-to-support-europes-digital-markets-act/): Y Combinator urges the White House to support Europe's Digital Markets Act</small>
 
 
-| 🔥: 92 \| 💬: [22](https://news.ycombinator.com/item?id=43357739) \| 🗓️ 2025-03-13
+| 🔥🔥: 119 \| 💬: [34](https://news.ycombinator.com/item?id=43357739) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -171,7 +171,7 @@ Y Combinator近日致信白宫，呼吁特朗普政府公开支持欧洲的《�
 <small>🔗 [github.com](https://github.com/needleful/c_plus_prolog): C Plus Prolog</small>
 
 
-| 🔥: 90 \| 💬: [16](https://news.ycombinator.com/item?id=43357955) \| 🗓️ 2025-03-13
+| 🔥: 97 \| 💬: [20](https://news.ycombinator.com/item?id=43357955) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -195,7 +195,7 @@ Meta试图阻止前员工Sarah Wynn-Williams推广其新书《Careless People》
 <small>🔗 [github.com](https://github.com/xataio/agent): Xata Agent: AI agent expert in PostgreSQL</small>
 
 
-| 🔥: 85 \| 💬: [15](https://news.ycombinator.com/item?id=43356039) \| 🗓️ 2025-03-13
+| 🔥: 86 \| 💬: [15](https://news.ycombinator.com/item?id=43356039) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -203,7 +203,31 @@ Xata Agent 是一款开源的 **AI 代理**，专为 **PostgreSQL** 数据库设
 
 ---
 
-## <a name="16"></a>16. Game Boy Advance 架构解析：从硬件到历史 
+## <a name="16"></a>16. 教堂常见问题解答 
+<small>🔗 [whatever.scalzi.com](https://whatever.scalzi.com/2025/03/13/the-church-faq/): The Church FAQ</small>
+
+
+| 🔥: 82 \| 💬: [52](https://news.ycombinator.com/item?id=43358947) \| 🗓️ 2025-03-13
+
+
+<br />
+除了教堂本身，我们还购买了位于同一地块的**教堂教区住宅**，以避免在修复如挡土墙等问题时与他人协商。住宅内有租客，我们并未驱逐他们。此外，我们购买了教堂北侧的房子，拆除后为教堂提供了前院，并在后方建造了**停车场**，解决了教堂原本没有停车位的问题。
+
+---
+
+## <a name="17"></a>17. 递归的致命隐患：libexpat 中 CVE-2024-8176 的故事 
+<small>🔗 [blog.hartwork.org](https://blog.hartwork.org/posts/expat-2-7-0-released/): Recursion kills: The story behind CVE-2024-8176 in libexpat</small>
+
+
+| 🔥: 73 \| 💬: [59](https://news.ycombinator.com/item?id=43357687) \| 🗓️ 2025-03-13
+
+
+<br />
+libexpat 2.7.0 发布，修复了一个长期存在的**递归漏洞**（CVE-2024-8176）。该漏洞允许攻击者通过嵌套的实体引用导致**栈溢出**，引发拒绝服务。经过长达10个月的修复工作，Siemens 等公司合作解决了这一复杂问题。**递归**在C语言中虽美但危险，开发者应警惕其安全隐患。
+
+---
+
+## <a name="18"></a>18. Game Boy Advance 架构解析：从硬件到历史 
 <small>🔗 [copetti.org](https://www.copetti.org/writings/consoles/game-boy-advance/): Game Boy Advance Architecture – A Practical Analysis</small>
 
 
@@ -215,19 +239,7 @@ Game Boy Advance（GBA）于2001年发布，搭载了**ARM7TDMI**处理器，支
 
 ---
 
-## <a name="17"></a>17. 递归的致命隐患：libexpat 中 CVE-2024-8176 的故事 
-<small>🔗 [blog.hartwork.org](https://blog.hartwork.org/posts/expat-2-7-0-released/): Recursion kills: The story behind CVE-2024-8176 in libexpat</small>
-
-
-| 🔥: 71 \| 💬: [58](https://news.ycombinator.com/item?id=43357687) \| 🗓️ 2025-03-13
-
-
-<br />
-libexpat 2.7.0 发布，修复了一个长期存在的**递归漏洞**（CVE-2024-8176）。该漏洞允许攻击者通过嵌套的实体引用导致**栈溢出**，引发拒绝服务。经过长达10个月的修复工作，Siemens 等公司合作解决了这一复杂问题。**递归**在C语言中虽美但危险，开发者应警惕其安全隐患。
-
----
-
-## <a name="18"></a>18. 教濒危朱鹮迁徙的漫长飞行 
+## <a name="19"></a>19. 教濒危朱鹮迁徙的漫长飞行 
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/02/17/the-long-flight-to-teach-an-endangered-ibis-species-to-migrate): The long flight to teach an endangered ibis species to migrate</small>
 
 
@@ -239,7 +251,7 @@ libexpat 2.7.0 发布，修复了一个长期存在的**递归漏洞**（CVE-202
 
 ---
 
-## <a name="19"></a>19. 谨慎而有目的地“氧化”Ubuntu 
+## <a name="20"></a>20. 谨慎而有目的地“氧化”Ubuntu 
 <small>🔗 [discourse.ubuntu.com](https://discourse.ubuntu.com/t/carefully-but-purposefully-oxidising-ubuntu/56995): Carefully but Purposefully Oxidising Ubuntu</small>
 
 
@@ -251,11 +263,11 @@ Ubuntu计划从25.10版本开始，逐步采用基于**Rust**语言重写的核�
 
 ---
 
-## <a name="20"></a>20. π差点不是3.14：一个数学常数的历史与争议 
+## <a name="21"></a>21. π差点不是3.14：一个数学常数的历史与争议 
 <small>🔗 [mathenchant.wordpress.com](https://mathenchant.wordpress.com/2025/03/13/how-pi-almost-wasnt/): How Pi Almost Wasn't</small>
 
 
-| 🔥: 51 \| 💬: [29](https://news.ycombinator.com/item?id=43358003) \| 🗓️ 2025-03-13
+| 🔥: 58 \| 💬: [33](https://news.ycombinator.com/item?id=43358003) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -263,11 +275,11 @@ Ubuntu计划从25.10版本开始，逐步采用基于**Rust**语言重写的核�
 
 ---
 
-## <a name="21"></a>21. 跨过程稀疏条件类型传播 
+## <a name="22"></a>22. 跨过程稀疏条件类型传播 
 <small>🔗 [railsatscale.com](https://railsatscale.com/2025-02-24-interprocedural-sparse-conditional-type-propagation/): Interprocedural Sparse Conditional Type Propagation</small>
 
 
-| 🔥: 50 \| 💬: [9](https://news.ycombinator.com/item?id=43353898) \| 🗓️ 2025-03-13
+| 🔥: 52 \| 💬: [9](https://news.ycombinator.com/item?id=43353898) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -275,11 +287,11 @@ Ubuntu计划从25.10版本开始，逐步采用基于**Rust**语言重写的核�
 
 ---
 
-## <a name="22"></a>22. 美国环保署启动史上最大规模去监管行动 
+## <a name="23"></a>23. 美国环保署启动史上最大规模去监管行动 
 <small>🔗 [epa.gov](https://www.epa.gov/newsreleases/epa-launches-biggest-deregulatory-action-us-history): EPA Launches Biggest Deregulatory Action in U.S. History</small>
 
 
-| 🔥: 50 \| 💬: [43](https://news.ycombinator.com/item?id=43357447) \| 🗓️ 2025-03-13
+| 🔥: 51 \| 💬: [44](https://news.ycombinator.com/item?id=43357447) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -287,11 +299,11 @@ Ubuntu计划从25.10版本开始，逐步采用基于**Rust**语言重写的核�
 
 ---
 
-## <a name="23"></a>23. 土地价值税的失败 
+## <a name="24"></a>24. 土地价值税的失败 
 <small>🔗 [worksinprogress.co](https://worksinprogress.co/issue/the-failure-of-the-land-value-tax/): The failure of the land value tax</small>
 
 
-| 🔥: 43 \| 💬: [70](https://news.ycombinator.com/item?id=43353603) \| 🗓️ 2025-03-13
+| 🔥: 43 \| 💬: [72](https://news.ycombinator.com/item?id=43353603) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -299,7 +311,7 @@ Ubuntu计划从25.10版本开始，逐步采用基于**Rust**语言重写的核�
 
 ---
 
-## <a name="24"></a>24. 连接全球企业与乌克兰顶尖科技公司的平台 
+## <a name="25"></a>25. 连接全球企业与乌克兰顶尖科技公司的平台 
 <small>🔗 [codeua.com](https://codeua.com/about-us/): A platform where you can start working with the best Ukrainian tech companies</small>
 
 
@@ -308,17 +320,5 @@ Ubuntu计划从25.10版本开始，逐步采用基于**Rust**语言重写的核�
 
 <br />
 CodeUA 是一个连接国际企业与**乌克兰优质科技公司**的平台，提供从产品开发到云解决方案的多样化服务。平台由乌克兰数字化转型部、利沃夫IT集群和USAID共同支持，确保所有公司经过严格审核。通过**AI匹配算法**和**法律支持**，CodeUA 帮助客户轻松找到合适的合作伙伴，推动全球创新与经济增长。
-
----
-
-## <a name="25"></a>25. 关于萨列里的引用 
-<small>🔗 [contingentmagazine.org](https://contingentmagazine.org/2025/01/10/have-quotes-about-salieri/): "Have Quotes About Salieri"</small>
-
-
-| 🔥: 43 \| 💬: [10](https://news.ycombinator.com/item?id=43355348) \| 🗓️ 2025-03-13
-
-
-<br />
-美国小说家大卫·韦斯（David Weiss）对莫扎特及其同事安东尼奥·萨列里的关系深感兴趣，尤其是围绕莫扎特死亡的阴谋论。韦斯的小说《莫扎特刺杀案》探讨了萨列里与维也纳秘密警察合谋毒害莫扎特的可能性。通过研究韦斯的笔记和手稿，作者发现韦斯在创作过程中大量参考了历史资料，试图构建一个看似合理的历史虚构情节。尽管学术界普遍否认这一阴谋论，韦斯仍希望通过小说引发公众讨论。
 
 ---
