@@ -27,7 +27,7 @@ tags:
 <small>🔗 [finance.yahoo.com](https://finance.yahoo.com/news/openai-asks-white-house-relief-100000706.html): OpenAI asks White House for relief from state AI rules</small>
 
 
-| 🔥🔥: 487 \| 💬: [489](https://news.ycombinator.com/item?id=43352531) \| 🗓️ 2025-03-13
+| 🔥🔥: 510 \| 💬: [504](https://news.ycombinator.com/item?id=43352531) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -39,7 +39,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [lostartoflogarithms.com](https://www.lostartoflogarithms.com/): The Lost Art of Logarithms</small>
 
 
-| 🔥🔥: 313 \| 💬: [115](https://news.ycombinator.com/item?id=43356314) \| 🗓️ 2025-03-13
+| 🔥🔥: 326 \| 💬: [124](https://news.ycombinator.com/item?id=43356314) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -51,7 +51,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [worksinprogress.co](https://worksinprogress.co/issue/steam-networks/): Steam Networks</small>
 
 
-| 🔥🔥: 298 \| 💬: [133](https://news.ycombinator.com/item?id=43353822) \| 🗓️ 2025-03-13
+| 🔥🔥: 301 \| 💬: [136](https://news.ycombinator.com/item?id=43353822) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -63,7 +63,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [planetscale.com](https://planetscale.com/blog/io-devices-and-latency): IO Devices and Latency</small>
 
 
-| 🔥🔥: 274 \| 💬: [103](https://news.ycombinator.com/item?id=43355031) \| 🗓️ 2025-03-13
+| 🔥🔥: 282 \| 💬: [107](https://news.ycombinator.com/item?id=43355031) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -75,7 +75,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/10x-engineer): "Normal" engineers are the key to great teams</small>
 
 
-| 🔥🔥: 233 \| 💬: [245](https://news.ycombinator.com/item?id=43356995) \| 🗓️ 2025-03-13
+| 🔥🔥: 260 \| 💬: [267](https://news.ycombinator.com/item?id=43356995) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -87,7 +87,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [stellafane.org](https://stellafane.org/tm/atm/): Amateur Telescope Making Main Page</small>
 
 
-| 🔥🔥: 208 \| 💬: [48](https://news.ycombinator.com/item?id=43351988) \| 🗓️ 2025-03-13
+| 🔥🔥: 210 \| 💬: [48](https://news.ycombinator.com/item?id=43351988) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -99,7 +99,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [independent.co.uk](https://www.independent.co.uk/news/world/europe/pirate-bay-carl-lundstrom-dead-plane-crash-b2714284.html): Pirate Bay co-founder Carl Lundström has died</small>
 
 
-| 🔥🔥: 191 \| 💬: [77](https://news.ycombinator.com/item?id=43352580) \| 🗓️ 2025-03-13
+| 🔥🔥: 193 \| 💬: [78](https://news.ycombinator.com/item?id=43352580) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -111,7 +111,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [evanmiller.org](https://www.evanmiller.org/statistical-formulas-for-programmers.html): Statistical Formulas for Programmers (2013)</small>
 
 
-| 🔥🔥: 180 \| 💬: [30](https://news.ycombinator.com/item?id=43353551) \| 🗓️ 2025-03-13
+| 🔥🔥: 183 \| 💬: [33](https://news.ycombinator.com/item?id=43353551) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -123,7 +123,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [mameson.com](https://mameson.com/experiment/glsl/fro_9/fro_9.html): Honey Bunnies</small>
 
 
-| 🔥🔥: 132 \| 💬: [28](https://news.ycombinator.com/item?id=43355521) \| 🗓️ 2025-03-13
+| 🔥🔥: 137 \| 💬: [28](https://news.ycombinator.com/item?id=43355521) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -147,7 +147,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [thonyc.wordpress.com](https://thonyc.wordpress.com/2025/03/13/history-of-maths-for-beginners/): History of Maths for Beginners</small>
 
 
-| 🔥🔥: 118 \| 💬: [12](https://news.ycombinator.com/item?id=43355542) \| 🗓️ 2025-03-13
+| 🔥🔥: 120 \| 💬: [13](https://news.ycombinator.com/item?id=43355542) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -155,7 +155,31 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 
 ---
 
-## <a name="12"></a>12. Meta通过仲裁阻止前员工推广揭露性书籍 
+## <a name="12"></a>12. Y Combinator呼吁白宫支持欧洲《数字市场法案》 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/13/y-combinator-urges-the-white-house-to-support-europes-digital-markets-act/): Y Combinator urges the White House to support Europe's Digital Markets Act</small>
+
+
+| 🔥: 92 \| 💬: [22](https://news.ycombinator.com/item?id=43357739) \| 🗓️ 2025-03-13
+
+
+<br />
+Y Combinator近日致信白宫，呼吁特朗普政府公开支持欧洲的《数字市场法案》（DMA）。该法案旨在限制**六大科技巨头**（包括Alphabet、亚马逊、苹果等）的垄断行为，促进市场竞争。Y Combinator认为，DMA有助于为美国初创企业创造机会，尤其是在AI、搜索和消费应用领域。尽管特朗普政府此前对欧洲的科技监管持批评态度，但Y Combinator强调DMA与**美国创新精神**一致，并呼吁白宫重新评估立场。
+
+---
+
+## <a name="13"></a>13. C Plus Prolog：将Prolog与C结合的实验性语言 
+<small>🔗 [github.com](https://github.com/needleful/c_plus_prolog): C Plus Prolog</small>
+
+
+| 🔥: 90 \| 💬: [16](https://news.ycombinator.com/item?id=43357955) \| 🗓️ 2025-03-13
+
+
+<br />
+C Plus Prolog（简称C+P）是一种将**Prolog**与**C语言**结合的实验性编程语言。它通过将Prolog的语法转换为C代码，试图在C的实用性和Prolog的表达能力之间找到平衡。C+P引入了一些独特的语法特性，如`*=>`操作符用于宏定义，以及支持**编译时Prolog逻辑**。尽管C+P生成的是高效的C代码，但其语法复杂且缺乏错误处理，实用性有限。作者认为，虽然C+P在某些方面接近实用，但现有语言如Nim、Haxe和D提供了更好的替代方案。
+
+---
+
+## <a name="14"></a>14. Meta通过仲裁阻止前员工推广揭露性书籍 
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/03/12/arbitrator-prohibits-meta-whistleblower-from-promoting-tell-all-book.html): Meta goes to arbitrator to prevent whistleblower from promoting tell-all book</small>
 
 
@@ -167,7 +191,7 @@ Meta试图阻止前员工Sarah Wynn-Williams推广其新书《Careless People》
 
 ---
 
-## <a name="13"></a>13. Xata Agent：PostgreSQL 的 AI 专家 
+## <a name="15"></a>15. Xata Agent：PostgreSQL 的 AI 专家 
 <small>🔗 [github.com](https://github.com/xataio/agent): Xata Agent: AI agent expert in PostgreSQL</small>
 
 
@@ -179,19 +203,7 @@ Xata Agent 是一款开源的 **AI 代理**，专为 **PostgreSQL** 数据库设
 
 ---
 
-## <a name="14"></a>14. C Plus Prolog：将Prolog与C结合的实验性语言 
-<small>🔗 [github.com](https://github.com/needleful/c_plus_prolog): C Plus Prolog</small>
-
-
-| 🔥: 83 \| 💬: [16](https://news.ycombinator.com/item?id=43357955) \| 🗓️ 2025-03-13
-
-
-<br />
-C Plus Prolog（简称C+P）是一种将**Prolog**与**C语言**结合的实验性编程语言。它通过将Prolog的语法转换为C代码，试图在C的实用性和Prolog的表达能力之间找到平衡。C+P引入了一些独特的语法特性，如`*=>`操作符用于宏定义，以及支持**编译时Prolog逻辑**。尽管C+P生成的是高效的C代码，但其语法复杂且缺乏错误处理，实用性有限。作者认为，虽然C+P在某些方面接近实用，但现有语言如Nim、Haxe和D提供了更好的替代方案。
-
----
-
-## <a name="15"></a>15. Game Boy Advance 架构解析：从硬件到历史 
+## <a name="16"></a>16. Game Boy Advance 架构解析：从硬件到历史 
 <small>🔗 [copetti.org](https://www.copetti.org/writings/consoles/game-boy-advance/): Game Boy Advance Architecture – A Practical Analysis</small>
 
 
@@ -203,11 +215,11 @@ Game Boy Advance（GBA）于2001年发布，搭载了**ARM7TDMI**处理器，支
 
 ---
 
-## <a name="16"></a>16. 递归的致命隐患：libexpat 中 CVE-2024-8176 的故事 
+## <a name="17"></a>17. 递归的致命隐患：libexpat 中 CVE-2024-8176 的故事 
 <small>🔗 [blog.hartwork.org](https://blog.hartwork.org/posts/expat-2-7-0-released/): Recursion kills: The story behind CVE-2024-8176 in libexpat</small>
 
 
-| 🔥: 69 \| 💬: [55](https://news.ycombinator.com/item?id=43357687) \| 🗓️ 2025-03-13
+| 🔥: 71 \| 💬: [58](https://news.ycombinator.com/item?id=43357687) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -215,7 +227,7 @@ libexpat 2.7.0 发布，修复了一个长期存在的**递归漏洞**（CVE-202
 
 ---
 
-## <a name="17"></a>17. 教濒危朱鹮迁徙的漫长飞行 
+## <a name="18"></a>18. 教濒危朱鹮迁徙的漫长飞行 
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/02/17/the-long-flight-to-teach-an-endangered-ibis-species-to-migrate): The long flight to teach an endangered ibis species to migrate</small>
 
 
@@ -227,7 +239,7 @@ libexpat 2.7.0 发布，修复了一个长期存在的**递归漏洞**（CVE-202
 
 ---
 
-## <a name="18"></a>18. 谨慎而有目的地“氧化”Ubuntu 
+## <a name="19"></a>19. 谨慎而有目的地“氧化”Ubuntu 
 <small>🔗 [discourse.ubuntu.com](https://discourse.ubuntu.com/t/carefully-but-purposefully-oxidising-ubuntu/56995): Carefully but Purposefully Oxidising Ubuntu</small>
 
 
@@ -239,19 +251,31 @@ Ubuntu计划从25.10版本开始，逐步采用基于**Rust**语言重写的核�
 
 ---
 
-## <a name="19"></a>19. Y Combinator呼吁白宫支持欧洲《数字市场法案》 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/13/y-combinator-urges-the-white-house-to-support-europes-digital-markets-act/): Y Combinator urges the White House to support Europe's Digital Markets Act</small>
+## <a name="20"></a>20. π差点不是3.14：一个数学常数的历史与争议 
+<small>🔗 [mathenchant.wordpress.com](https://mathenchant.wordpress.com/2025/03/13/how-pi-almost-wasnt/): How Pi Almost Wasn't</small>
 
 
-| 🔥: 64 \| 💬: [8](https://news.ycombinator.com/item?id=43357739) \| 🗓️ 2025-03-13
+| 🔥: 51 \| 💬: [29](https://news.ycombinator.com/item?id=43358003) \| 🗓️ 2025-03-13
 
 
 <br />
-Y Combinator近日致信白宫，呼吁特朗普政府公开支持欧洲的《数字市场法案》（DMA）。该法案旨在限制**六大科技巨头**（包括Alphabet、亚马逊、苹果等）的垄断行为，促进市场竞争。Y Combinator认为，DMA有助于为美国初创企业创造机会，尤其是在AI、搜索和消费应用领域。尽管特朗普政府此前对欧洲的科技监管持批评态度，但Y Combinator强调DMA与**美国创新精神**一致，并呼吁白宫重新评估立场。
+π（3.14…）作为圆周率的代表，几乎成为数学中的**基本常数**。然而，历史上数学家们曾考虑过其他倍数，如6.28…（2π）或1.57…（π/2）。**威廉·琼斯**在1706年首次用“π”表示周长与直径的比值，而**欧拉**最终确立了3.14…的标准。尽管如此，许多公式在使用2π时更为简洁，近年来有人主张用**τ（6.28…）**替代π。π的历史充满了偶然与选择，反映了数学符号的演变与争议。
 
 ---
 
-## <a name="20"></a>20. 美国环保署启动史上最大规模去监管行动 
+## <a name="21"></a>21. 跨过程稀疏条件类型传播 
+<small>🔗 [railsatscale.com](https://railsatscale.com/2025-02-24-interprocedural-sparse-conditional-type-propagation/): Interprocedural Sparse Conditional Type Propagation</small>
+
+
+| 🔥: 50 \| 💬: [9](https://news.ycombinator.com/item?id=43353898) \| 🗓️ 2025-03-13
+
+
+<br />
+在动态语言（如Ruby）中，编译器需要精确的类型信息来进行优化。本文介绍了一种**跨过程类型分析**方法，通过**稀疏条件常量传播（SCCP）**技术，结合**静态单赋值（SSA）**形式，追踪数据流并推断类型。该方法能够在未注解的程序中推断出函数返回类型，并通过**类型格**限制类型集合的大小，平衡分析精度与时间。文章还探讨了**调用点敏感性**，以提高分析的精确性。
+
+---
+
+## <a name="22"></a>22. 美国环保署启动史上最大规模去监管行动 
 <small>🔗 [epa.gov](https://www.epa.gov/newsreleases/epa-launches-biggest-deregulatory-action-us-history): EPA Launches Biggest Deregulatory Action in U.S. History</small>
 
 
@@ -263,35 +287,11 @@ Y Combinator近日致信白宫，呼吁特朗普政府公开支持欧洲的《�
 
 ---
 
-## <a name="21"></a>21. 跨过程稀疏条件类型传播 
-<small>🔗 [railsatscale.com](https://railsatscale.com/2025-02-24-interprocedural-sparse-conditional-type-propagation/): Interprocedural Sparse Conditional Type Propagation</small>
-
-
-| 🔥: 48 \| 💬: [9](https://news.ycombinator.com/item?id=43353898) \| 🗓️ 2025-03-13
-
-
-<br />
-在动态语言（如Ruby）中，编译器需要精确的类型信息来进行优化。本文介绍了一种**跨过程类型分析**方法，通过**稀疏条件常量传播（SCCP）**技术，结合**静态单赋值（SSA）**形式，追踪数据流并推断类型。该方法能够在未注解的程序中推断出函数返回类型，并通过**类型格**限制类型集合的大小，平衡分析精度与时间。文章还探讨了**调用点敏感性**，以提高分析的精确性。
-
----
-
-## <a name="22"></a>22. π差点不是3.14：一个数学常数的历史与争议 
-<small>🔗 [mathenchant.wordpress.com](https://mathenchant.wordpress.com/2025/03/13/how-pi-almost-wasnt/): How Pi Almost Wasn't</small>
-
-
-| 🔥: 45 \| 💬: [25](https://news.ycombinator.com/item?id=43358003) \| 🗓️ 2025-03-13
-
-
-<br />
-π（3.14…）作为圆周率的代表，几乎成为数学中的**基本常数**。然而，历史上数学家们曾考虑过其他倍数，如6.28…（2π）或1.57…（π/2）。**威廉·琼斯**在1706年首次用“π”表示周长与直径的比值，而**欧拉**最终确立了3.14…的标准。尽管如此，许多公式在使用2π时更为简洁，近年来有人主张用**τ（6.28…）**替代π。π的历史充满了偶然与选择，反映了数学符号的演变与争议。
-
----
-
 ## <a name="23"></a>23. 土地价值税的失败 
 <small>🔗 [worksinprogress.co](https://worksinprogress.co/issue/the-failure-of-the-land-value-tax/): The failure of the land value tax</small>
 
 
-| 🔥: 43 \| 💬: [69](https://news.ycombinator.com/item?id=43353603) \| 🗓️ 2025-03-13
+| 🔥: 43 \| 💬: [70](https://news.ycombinator.com/item?id=43353603) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -311,14 +311,14 @@ CodeUA 是一个连接国际企业与**乌克兰优质科技公司**的平台，
 
 ---
 
-## <a name="25"></a>25. 英国科技部长如何用ChatGPT制定政策建议 
-<small>🔗 [newscientist.com](https://www.newscientist.com/article/2472068-revealed-how-the-uk-tech-secretary-uses-chatgpt-for-policy-advice/): Revealed: How the UK tech secretary uses ChatGPT for policy advice</small>
+## <a name="25"></a>25. 关于萨列里的引用 
+<small>🔗 [contingentmagazine.org](https://contingentmagazine.org/2025/01/10/have-quotes-about-salieri/): "Have Quotes About Salieri"</small>
 
 
-| 🔥: 41 \| 💬: [54](https://news.ycombinator.com/item?id=43352579) \| 🗓️ 2025-03-13
+| 🔥: 43 \| 💬: [10](https://news.ycombinator.com/item?id=43355348) \| 🗓️ 2025-03-13
 
 
 <br />
-英国科技部长彼得·凯尔透露，他使用**ChatGPT**来理解复杂概念，并获取关于英国中小企业**AI采用缓慢**的原因及适合他参加的播客建议。ChatGPT提供了10点阻碍AI采用的因素，包括**意识不足**和**监管问题**。此外，凯尔还用它定义术语并获取媒体曝光建议。这一行为引发了关于**AI工具在政府中的使用**及其是否受信息公开法约束的讨论。
+美国小说家大卫·韦斯（David Weiss）对莫扎特及其同事安东尼奥·萨列里的关系深感兴趣，尤其是围绕莫扎特死亡的阴谋论。韦斯的小说《莫扎特刺杀案》探讨了萨列里与维也纳秘密警察合谋毒害莫扎特的可能性。通过研究韦斯的笔记和手稿，作者发现韦斯在创作过程中大量参考了历史资料，试图构建一个看似合理的历史虚构情节。尽管学术界普遍否认这一阴谋论，韦斯仍希望通过小说引发公众讨论。
 
 ---
