@@ -27,7 +27,7 @@ tags:
 <small>🔗 [finance.yahoo.com](https://finance.yahoo.com/news/openai-asks-white-house-relief-100000706.html): OpenAI asks White House for relief from state AI rules</small>
 
 
-| 🔥🔥: 419 \| 💬: [383](https://news.ycombinator.com/item?id=43352531) \| 🗓️ 2025-03-13
+| 🔥🔥: 443 \| 💬: [415](https://news.ycombinator.com/item?id=43352531) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -39,7 +39,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [worksinprogress.co](https://worksinprogress.co/issue/steam-networks/): Steam Networks</small>
 
 
-| 🔥🔥: 284 \| 💬: [132](https://news.ycombinator.com/item?id=43353822) \| 🗓️ 2025-03-13
+| 🔥🔥: 289 \| 💬: [132](https://news.ycombinator.com/item?id=43353822) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -51,7 +51,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [lostartoflogarithms.com](https://www.lostartoflogarithms.com/): The Lost Art of Logarithms</small>
 
 
-| 🔥🔥: 245 \| 💬: [94](https://news.ycombinator.com/item?id=43356314) \| 🗓️ 2025-03-13
+| 🔥🔥: 266 \| 💬: [104](https://news.ycombinator.com/item?id=43356314) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -63,7 +63,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [planetscale.com](https://planetscale.com/blog/io-devices-and-latency): IO Devices and Latency</small>
 
 
-| 🔥🔥: 243 \| 💬: [95](https://news.ycombinator.com/item?id=43355031) \| 🗓️ 2025-03-13
+| 🔥🔥: 255 \| 💬: [95](https://news.ycombinator.com/item?id=43355031) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -75,7 +75,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [stellafane.org](https://stellafane.org/tm/atm/): Amateur Telescope Making Main Page</small>
 
 
-| 🔥🔥: 201 \| 💬: [47](https://news.ycombinator.com/item?id=43351988) \| 🗓️ 2025-03-13
+| 🔥🔥: 204 \| 💬: [47](https://news.ycombinator.com/item?id=43351988) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -95,27 +95,27 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 
 ---
 
-## <a name="7"></a>7. 程序员必备的统计公式（2013） 
-<small>🔗 [evanmiller.org](https://www.evanmiller.org/statistical-formulas-for-programmers.html): Statistical Formulas for Programmers (2013)</small>
-
-
-| 🔥🔥: 166 \| 💬: [29](https://news.ycombinator.com/item?id=43353551) \| 🗓️ 2025-03-13
-
-
-<br />
-本文由Evan Miller撰写，旨在为程序员提供一套实用的**统计公式**，帮助他们在数据处理中更好地应用统计学知识。文章涵盖了**平均值报告**、**比例报告**、**计数数据报告**、**分布比较**以及**趋势线绘制**等多个方面的公式，并附有简明解释和相关参考资料。通过这些公式，程序员可以更准确地分析和解释数据，提升数据展示的效果。
-
----
-
-## <a name="8"></a>8. “普通”工程师是优秀团队的关键 
+## <a name="7"></a>7. “普通”工程师是优秀团队的关键 
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/10x-engineer): "Normal" engineers are the key to great teams</small>
 
 
-| 🔥🔥: 151 \| 💬: [144](https://news.ycombinator.com/item?id=43356995) \| 🗓️ 2025-03-13
+| 🔥🔥: 181 \| 💬: [180](https://news.ycombinator.com/item?id=43356995) \| 🗓️ 2025-03-13
 
 
 <br />
 软件工程师Charity Majors反驳了“10倍工程师”的神话，认为**普通工程师**才是团队成功的关键。她指出，工程师最大的快乐来自于**解决问题**和**推动进展**，而不是追求所谓的“超级工程师”。优秀的团队依赖于**协作**和**多样性**，而非个别天才。
+
+---
+
+## <a name="8"></a>8. 程序员必备的统计公式（2013） 
+<small>🔗 [evanmiller.org](https://www.evanmiller.org/statistical-formulas-for-programmers.html): Statistical Formulas for Programmers (2013)</small>
+
+
+| 🔥🔥: 170 \| 💬: [30](https://news.ycombinator.com/item?id=43353551) \| 🗓️ 2025-03-13
+
+
+<br />
+本文由Evan Miller撰写，旨在为程序员提供一套实用的**统计公式**，帮助他们在数据处理中更好地应用统计学知识。文章涵盖了**平均值报告**、**比例报告**、**计数数据报告**、**分布比较**以及**趋势线绘制**等多个方面的公式，并附有简明解释和相关参考资料。通过这些公式，程序员可以更准确地分析和解释数据，提升数据展示的效果。
 
 ---
 
@@ -135,7 +135,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [mameson.com](https://mameson.com/experiment/glsl/fro_9/fro_9.html): Honey Bunnies</small>
 
 
-| 🔥🔥: 120 \| 💬: [26](https://news.ycombinator.com/item?id=43355521) \| 🗓️ 2025-03-13
+| 🔥🔥: 127 \| 💬: [28](https://news.ycombinator.com/item?id=43355521) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -147,7 +147,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [thonyc.wordpress.com](https://thonyc.wordpress.com/2025/03/13/history-of-maths-for-beginners/): History of Maths for Beginners</small>
 
 
-| 🔥: 99 \| 💬: [11](https://news.ycombinator.com/item?id=43355542) \| 🗓️ 2025-03-13
+| 🔥🔥: 108 \| 💬: [12](https://news.ycombinator.com/item?id=43355542) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -171,7 +171,7 @@ Meta试图阻止前员工Sarah Wynn-Williams推广其新书《Careless People》
 <small>🔗 [github.com](https://github.com/xataio/agent): Xata Agent: AI agent expert in PostgreSQL</small>
 
 
-| 🔥: 78 \| 💬: [14](https://news.ycombinator.com/item?id=43356039) \| 🗓️ 2025-03-13
+| 🔥: 83 \| 💬: [15](https://news.ycombinator.com/item?id=43356039) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -179,7 +179,19 @@ Xata Agent 是一款开源的 **AI 代理**，专为 **PostgreSQL** 数据库设
 
 ---
 
-## <a name="14"></a>14. Game Boy Advance 架构解析：从硬件到历史 
+## <a name="14"></a>14. C Plus Prolog：将Prolog与C结合的实验性语言 
+<small>🔗 [github.com](https://github.com/needleful/c_plus_prolog): C Plus Prolog</small>
+
+
+| 🔥: 72 \| 💬: [14](https://news.ycombinator.com/item?id=43357955) \| 🗓️ 2025-03-13
+
+
+<br />
+C Plus Prolog（简称C+P）是一种将**Prolog**与**C语言**结合的实验性编程语言。它通过将Prolog的语法转换为C代码，试图在C的实用性和Prolog的表达能力之间找到平衡。C+P引入了一些独特的语法特性，如`*=>`操作符用于宏定义，以及支持**编译时Prolog逻辑**。尽管C+P生成的是高效的C代码，但其语法复杂且缺乏错误处理，实用性有限。作者认为，虽然C+P在某些方面接近实用，但现有语言如Nim、Haxe和D提供了更好的替代方案。
+
+---
+
+## <a name="15"></a>15. Game Boy Advance 架构解析：从硬件到历史 
 <small>🔗 [copetti.org](https://www.copetti.org/writings/consoles/game-boy-advance/): Game Boy Advance Architecture – A Practical Analysis</small>
 
 
@@ -191,7 +203,19 @@ Game Boy Advance（GBA）于2001年发布，搭载了**ARM7TDMI**处理器，支
 
 ---
 
-## <a name="15"></a>15. 谨慎而有目的地“氧化”Ubuntu 
+## <a name="16"></a>16. 递归的致命隐患：libexpat 中 CVE-2024-8176 的故事 
+<small>🔗 [blog.hartwork.org](https://blog.hartwork.org/posts/expat-2-7-0-released/): Recursion kills: The story behind CVE-2024-8176 in libexpat</small>
+
+
+| 🔥: 66 \| 💬: [54](https://news.ycombinator.com/item?id=43357687) \| 🗓️ 2025-03-13
+
+
+<br />
+libexpat 2.7.0 发布，修复了一个长期存在的**递归漏洞**（CVE-2024-8176）。该漏洞允许攻击者通过嵌套的实体引用导致**栈溢出**，引发拒绝服务。经过长达10个月的修复工作，Siemens 等公司合作解决了这一复杂问题。**递归**在C语言中虽美但危险，开发者应警惕其安全隐患。
+
+---
+
+## <a name="17"></a>17. 谨慎而有目的地“氧化”Ubuntu 
 <small>🔗 [discourse.ubuntu.com](https://discourse.ubuntu.com/t/carefully-but-purposefully-oxidising-ubuntu/56995): Carefully but Purposefully Oxidising Ubuntu</small>
 
 
@@ -203,7 +227,7 @@ Ubuntu计划从25.10版本开始，逐步采用基于**Rust**语言重写的核�
 
 ---
 
-## <a name="16"></a>16. 教濒危朱鹮迁徙的漫长飞行 
+## <a name="18"></a>18. 教濒危朱鹮迁徙的漫长飞行 
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/02/17/the-long-flight-to-teach-an-endangered-ibis-species-to-migrate): The Long Flight to Teach an Endangered Ibis Species to Migrate</small>
 
 
@@ -212,30 +236,6 @@ Ubuntu计划从25.10版本开始，逐步采用基于**Rust**语言重写的核�
 
 <br />
 科学家**约翰内斯·弗里茨**带领团队，通过**微型飞行器**引导人工孵化的**北秃鹮**从德国巴伐利亚飞往西班牙南部，帮助它们重新学习迁徙。这一项目旨在恢复该物种在欧洲的野生种群，展现了人类在生态保护中的坚持与创新。
-
----
-
-## <a name="17"></a>17. 递归的致命隐患：libexpat 中 CVE-2024-8176 的故事 
-<small>🔗 [blog.hartwork.org](https://blog.hartwork.org/posts/expat-2-7-0-released/): Recursion kills: The story behind CVE-2024-8176 in libexpat</small>
-
-
-| 🔥: 62 \| 💬: [51](https://news.ycombinator.com/item?id=43357687) \| 🗓️ 2025-03-13
-
-
-<br />
-libexpat 2.7.0 发布，修复了一个长期存在的**递归漏洞**（CVE-2024-8176）。该漏洞允许攻击者通过嵌套的实体引用导致**栈溢出**，引发拒绝服务。经过长达10个月的修复工作，Siemens 等公司合作解决了这一复杂问题。**递归**在C语言中虽美但危险，开发者应警惕其安全隐患。
-
----
-
-## <a name="18"></a>18. C Plus Prolog：将Prolog与C结合的实验性语言 
-<small>🔗 [github.com](https://github.com/needleful/c_plus_prolog): C Plus Prolog</small>
-
-
-| 🔥: 60 \| 💬: [11](https://news.ycombinator.com/item?id=43357955) \| 🗓️ 2025-03-13
-
-
-<br />
-C Plus Prolog（简称C+P）是一种将**Prolog**与**C语言**结合的实验性编程语言。它通过将Prolog的语法转换为C代码，试图在C的实用性和Prolog的表达能力之间找到平衡。C+P引入了一些独特的语法特性，如`*=>`操作符用于宏定义，以及支持**编译时Prolog逻辑**。尽管C+P生成的是高效的C代码，但其语法复杂且缺乏错误处理，实用性有限。作者认为，虽然C+P在某些方面接近实用，但现有语言如Nim、Haxe和D提供了更好的替代方案。
 
 ---
 
@@ -251,11 +251,23 @@ C Plus Prolog（简称C+P）是一种将**Prolog**与**C语言**结合的实验�
 
 ---
 
-## <a name="20"></a>20. 土地价值税的失败 
+## <a name="20"></a>20. 美国环保署启动史上最大规模去监管行动 
+<small>🔗 [epa.gov](https://www.epa.gov/newsreleases/epa-launches-biggest-deregulatory-action-us-history): EPA Launches Biggest Deregulatory Action in U.S. History</small>
+
+
+| 🔥: 46 \| 💬: [36](https://news.ycombinator.com/item?id=43357447) \| 🗓️ 2025-03-13
+
+
+<br />
+美国环保署（EPA）署长李·泽尔丁宣布，将实施**31项历史性行动**，以推动特朗普总统的“美国复兴”计划。这些行动旨在**降低美国家庭生活成本**、**释放美国能源潜力**，并**重振美国汽车工业**。此举将减少数万亿美元的监管成本，并为美国创造更多就业机会，特别是在汽车制造业。同时，EPA将重新审视多项奥巴马和拜登时期的环保法规，以减轻对经济的压力。
+
+---
+
+## <a name="21"></a>21. 土地价值税的失败 
 <small>🔗 [worksinprogress.co](https://worksinprogress.co/issue/the-failure-of-the-land-value-tax/): The failure of the land value tax</small>
 
 
-| 🔥: 42 \| 💬: [64](https://news.ycombinator.com/item?id=43353603) \| 🗓️ 2025-03-13
+| 🔥: 42 \| 💬: [67](https://news.ycombinator.com/item?id=43353603) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -263,7 +275,7 @@ C Plus Prolog（简称C+P）是一种将**Prolog**与**C语言**结合的实验�
 
 ---
 
-## <a name="21"></a>21. 连接全球企业与乌克兰顶尖科技公司的平台 
+## <a name="22"></a>22. 连接全球企业与乌克兰顶尖科技公司的平台 
 <small>🔗 [codeua.com](https://codeua.com/about-us/): A platform where you can start working with the best Ukrainian tech companies</small>
 
 
@@ -275,7 +287,7 @@ CodeUA 是一个连接国际企业与**乌克兰优质科技公司**的平台，
 
 ---
 
-## <a name="22"></a>22. 英国科技部长如何用ChatGPT制定政策建议 
+## <a name="23"></a>23. 英国科技部长如何用ChatGPT制定政策建议 
 <small>🔗 [newscientist.com](https://www.newscientist.com/article/2472068-revealed-how-the-uk-tech-secretary-uses-chatgpt-for-policy-advice/): Revealed: How the UK tech secretary uses ChatGPT for policy advice</small>
 
 
@@ -287,11 +299,11 @@ CodeUA 是一个连接国际企业与**乌克兰优质科技公司**的平台，
 
 ---
 
-## <a name="23"></a>23. 关于萨列里的引用 
+## <a name="24"></a>24. 关于萨列里的引用 
 <small>🔗 [contingentmagazine.org](https://contingentmagazine.org/2025/01/10/have-quotes-about-salieri/): "Have Quotes About Salieri"</small>
 
 
-| 🔥: 40 \| 💬: [10](https://news.ycombinator.com/item?id=43355348) \| 🗓️ 2025-03-13
+| 🔥: 41 \| 💬: [10](https://news.ycombinator.com/item?id=43355348) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -299,7 +311,7 @@ CodeUA 是一个连接国际企业与**乌克兰优质科技公司**的平台，
 
 ---
 
-## <a name="24"></a>24. 瑞典海盗湾联合创始人卡尔·伦德斯特伦在飞机失事中遇难 
+## <a name="25"></a>25. 瑞典海盗湾联合创始人卡尔·伦德斯特伦在飞机失事中遇难 
 <small>🔗 [thelocal.se](https://www.thelocal.se/20250313/swedish-pirate-bay-co-founder-dies-in-plane-crash): Swedish Pirate Bay co-founder Carl Lundström dies in plane crash</small>
 
 
@@ -308,17 +320,5 @@ CodeUA 是一个连接国际企业与**乌克兰优质科技公司**的平台，
 
 <br />
 瑞典商人**卡尔·伦德斯特伦**，非法文件共享网站**海盗湾**的联合创始人，在斯洛文尼亚的一次飞机失事中遇难。伦德斯特伦的飞机在斯洛文尼亚北部坠毁，救援因恶劣天气延迟。他曾因海盗湾的版权问题被判刑并罚款。伦德斯特伦是瑞典极右翼政党“瑞典替代党”的支持者，同时也是全球最大脆饼生产商Wasabröd创始人的孙子。
-
----
-
-## <a name="25"></a>25. DOGE最新错误更难被发现 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/03/13/us/politics/doge-makes-its-latest-errors-harder-to-find.html): DOGE Makes Its Latest Errors Harder to Find</small>
-
-
-| 🔥: 36 \| 💬: [11](https://news.ycombinator.com/item?id=43351985) \| 🗓️ 2025-03-13
-
-
-<br />
-埃隆·马斯克的**政府效率部门**（DOGE）多次发布错误数据，夸大其节省纳税人资金的成果。在媒体曝光后，该部门改变了策略，**隐藏错误**，使其本就隐秘的活动更加不透明。最新发布的节省100亿美元的数据缺乏细节，难以核实。《纽约时报》通过源代码中的联邦识别号发现，其数据仍存在**相同错误**。
 
 ---
