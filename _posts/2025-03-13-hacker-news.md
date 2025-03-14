@@ -10,8 +10,8 @@ tags:
 
 1. OpenAI请求白宫豁免州级AI法规；
 1. 曼哈顿的蒸汽网络：城市供暖的百年历史；
-1. IO设备与延迟；
 1. 失传的对数艺术；
+1. IO设备与延迟；
 1. 业余望远镜制作主页；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [finance.yahoo.com](https://finance.yahoo.com/news/openai-asks-white-house-relief-100000706.html): OpenAI asks White House for relief from state AI rules</small>
 
 
-| 🔥🔥: 390 \| 💬: [363](https://news.ycombinator.com/item?id=43352531) \| 🗓️ 2025-03-13
+| 🔥🔥: 419 \| 💬: [383](https://news.ycombinator.com/item?id=43352531) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -39,7 +39,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [worksinprogress.co](https://worksinprogress.co/issue/steam-networks/): Steam Networks</small>
 
 
-| 🔥🔥: 281 \| 💬: [132](https://news.ycombinator.com/item?id=43353822) \| 🗓️ 2025-03-13
+| 🔥🔥: 284 \| 💬: [132](https://news.ycombinator.com/item?id=43353822) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -47,23 +47,11 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 
 ---
 
-## <a name="3"></a>3. IO设备与延迟 
-<small>🔗 [planetscale.com](https://planetscale.com/blog/io-devices-and-latency): IO Devices and Latency</small>
-
-
-| 🔥🔥: 231 \| 💬: [93](https://news.ycombinator.com/item?id=43355031) \| 🗓️ 2025-03-13
-
-
-<br />
-本文探讨了**非易失性存储**的历史、功能与性能，重点介绍了磁带、硬盘和固态硬盘（SSD）的工作原理及其延迟差异。**磁带**适合大容量低频访问，**硬盘**通过机械旋转降低延迟，而**SSD**则通过电子信号实现快速读写，但受并行性和垃圾回收机制影响。
-
----
-
-## <a name="4"></a>4. 失传的对数艺术 
+## <a name="3"></a>3. 失传的对数艺术 
 <small>🔗 [lostartoflogarithms.com](https://www.lostartoflogarithms.com/): The Lost Art of Logarithms</small>
 
 
-| 🔥🔥: 212 \| 💬: [87](https://news.ycombinator.com/item?id=43356314) \| 🗓️ 2025-03-13
+| 🔥🔥: 245 \| 💬: [94](https://news.ycombinator.com/item?id=43356314) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -71,11 +59,23 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 
 ---
 
+## <a name="4"></a>4. IO设备与延迟 
+<small>🔗 [planetscale.com](https://planetscale.com/blog/io-devices-and-latency): IO Devices and Latency</small>
+
+
+| 🔥🔥: 243 \| 💬: [95](https://news.ycombinator.com/item?id=43355031) \| 🗓️ 2025-03-13
+
+
+<br />
+本文探讨了**非易失性存储**的历史、功能与性能，重点介绍了磁带、硬盘和固态硬盘（SSD）的工作原理及其延迟差异。**磁带**适合大容量低频访问，**硬盘**通过机械旋转降低延迟，而**SSD**则通过电子信号实现快速读写，但受并行性和垃圾回收机制影响。
+
+---
+
 ## <a name="5"></a>5. 业余望远镜制作主页 
 <small>🔗 [stellafane.org](https://stellafane.org/tm/atm/): Amateur Telescope Making Main Page</small>
 
 
-| 🔥🔥: 199 \| 💬: [46](https://news.ycombinator.com/item?id=43351988) \| 🗓️ 2025-03-13
+| 🔥🔥: 201 \| 💬: [47](https://news.ycombinator.com/item?id=43351988) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -87,7 +87,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [independent.co.uk](https://www.independent.co.uk/news/world/europe/pirate-bay-carl-lundstrom-dead-plane-crash-b2714284.html): Pirate Bay co-founder Carl Lundström has died</small>
 
 
-| 🔥🔥: 188 \| 💬: [75](https://news.ycombinator.com/item?id=43352580) \| 🗓️ 2025-03-13
+| 🔥🔥: 189 \| 💬: [76](https://news.ycombinator.com/item?id=43352580) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -99,7 +99,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [evanmiller.org](https://www.evanmiller.org/statistical-formulas-for-programmers.html): Statistical Formulas for Programmers (2013)</small>
 
 
-| 🔥🔥: 161 \| 💬: [28](https://news.ycombinator.com/item?id=43353551) \| 🗓️ 2025-03-13
+| 🔥🔥: 166 \| 💬: [29](https://news.ycombinator.com/item?id=43353551) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -107,23 +107,11 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 
 ---
 
-## <a name="8"></a>8. 华为卷入欧洲议会新一轮腐败调查 
-<small>🔗 [ftm.eu](https://www.ftm.eu/articles/huawei-targeted-in-european-parliament-corruption-probe): Huawei targeted in new European Parliament corruption probe</small>
-
-
-| 🔥🔥: 129 \| 💬: [102](https://news.ycombinator.com/item?id=43351765) \| 🗓️ 2025-03-13
-
-
-<br />
-比利时警方突袭了华为在欧盟的办公室及其游说者的住所，怀疑其通过**贿赂**、伪造文件和洗钱等手段影响欧洲议会议员。调查涉及约15名现任及前任议员，代号为“**Operation Generation**”。此次调查可能对欧盟与中国的关系产生重大地缘政治影响。华为否认与政府有关联，但研究显示其99%股份由工会委员会持有。
-
----
-
-## <a name="9"></a>9. “普通”工程师是优秀团队的关键 
+## <a name="8"></a>8. “普通”工程师是优秀团队的关键 
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/10x-engineer): "Normal" engineers are the key to great teams</small>
 
 
-| 🔥🔥: 117 \| 💬: [109](https://news.ycombinator.com/item?id=43356995) \| 🗓️ 2025-03-13
+| 🔥🔥: 151 \| 💬: [144](https://news.ycombinator.com/item?id=43356995) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -131,11 +119,23 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 
 ---
 
+## <a name="9"></a>9. 华为卷入欧洲议会新一轮腐败调查 
+<small>🔗 [ftm.eu](https://www.ftm.eu/articles/huawei-targeted-in-european-parliament-corruption-probe): Huawei targeted in new European Parliament corruption probe</small>
+
+
+| 🔥🔥: 130 \| 💬: [102](https://news.ycombinator.com/item?id=43351765) \| 🗓️ 2025-03-13
+
+
+<br />
+比利时警方突袭了华为在欧盟的办公室及其游说者的住所，怀疑其通过**贿赂**、伪造文件和洗钱等手段影响欧洲议会议员。调查涉及约15名现任及前任议员，代号为“**Operation Generation**”。此次调查可能对欧盟与中国的关系产生重大地缘政治影响。华为否认与政府有关联，但研究显示其99%股份由工会委员会持有。
+
+---
+
 ## <a name="10"></a>10. 蜂蜜小兔 
 <small>🔗 [mameson.com](https://mameson.com/experiment/glsl/fro_9/fro_9.html): Honey Bunnies</small>
 
 
-| 🔥🔥: 112 \| 💬: [25](https://news.ycombinator.com/item?id=43355521) \| 🗓️ 2025-03-13
+| 🔥🔥: 120 \| 💬: [26](https://news.ycombinator.com/item?id=43355521) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -147,7 +147,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [thonyc.wordpress.com](https://thonyc.wordpress.com/2025/03/13/history-of-maths-for-beginners/): History of Maths for Beginners</small>
 
 
-| 🔥: 97 \| 💬: [11](https://news.ycombinator.com/item?id=43355542) \| 🗓️ 2025-03-13
+| 🔥: 99 \| 💬: [11](https://news.ycombinator.com/item?id=43355542) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -171,7 +171,7 @@ Meta试图阻止前员工Sarah Wynn-Williams推广其新书《Careless People》
 <small>🔗 [github.com](https://github.com/xataio/agent): Xata Agent: AI agent expert in PostgreSQL</small>
 
 
-| 🔥: 72 \| 💬: [13](https://news.ycombinator.com/item?id=43356039) \| 🗓️ 2025-03-13
+| 🔥: 78 \| 💬: [14](https://news.ycombinator.com/item?id=43356039) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -195,7 +195,7 @@ Game Boy Advance（GBA）于2001年发布，搭载了**ARM7TDMI**处理器，支
 <small>🔗 [discourse.ubuntu.com](https://discourse.ubuntu.com/t/carefully-but-purposefully-oxidising-ubuntu/56995): Carefully but Purposefully Oxidising Ubuntu</small>
 
 
-| 🔥: 65 \| 💬: [101](https://news.ycombinator.com/item?id=43353240) \| 🗓️ 2025-03-13
+| 🔥: 65 \| 💬: [100](https://news.ycombinator.com/item?id=43353240) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -207,7 +207,7 @@ Ubuntu计划从25.10版本开始，逐步采用基于**Rust**语言重写的核�
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/02/17/the-long-flight-to-teach-an-endangered-ibis-species-to-migrate): The Long Flight to Teach an Endangered Ibis Species to Migrate</small>
 
 
-| 🔥: 63 \| 💬: [15](https://news.ycombinator.com/item?id=43353570) \| 🗓️ 2025-03-13
+| 🔥: 65 \| 💬: [16](https://news.ycombinator.com/item?id=43353570) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -219,7 +219,7 @@ Ubuntu计划从25.10版本开始，逐步采用基于**Rust**语言重写的核�
 <small>🔗 [blog.hartwork.org](https://blog.hartwork.org/posts/expat-2-7-0-released/): Recursion kills: The story behind CVE-2024-8176 in libexpat</small>
 
 
-| 🔥: 51 \| 💬: [32](https://news.ycombinator.com/item?id=43357687) \| 🗓️ 2025-03-13
+| 🔥: 62 \| 💬: [51](https://news.ycombinator.com/item?id=43357687) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -227,11 +227,23 @@ libexpat 2.7.0 发布，修复了一个长期存在的**递归漏洞**（CVE-202
 
 ---
 
-## <a name="18"></a>18. 跨过程稀疏条件类型传播 
+## <a name="18"></a>18. C Plus Prolog：将Prolog与C结合的实验性语言 
+<small>🔗 [github.com](https://github.com/needleful/c_plus_prolog): C Plus Prolog</small>
+
+
+| 🔥: 60 \| 💬: [11](https://news.ycombinator.com/item?id=43357955) \| 🗓️ 2025-03-13
+
+
+<br />
+C Plus Prolog（简称C+P）是一种将**Prolog**与**C语言**结合的实验性编程语言。它通过将Prolog的语法转换为C代码，试图在C的实用性和Prolog的表达能力之间找到平衡。C+P引入了一些独特的语法特性，如`*=>`操作符用于宏定义，以及支持**编译时Prolog逻辑**。尽管C+P生成的是高效的C代码，但其语法复杂且缺乏错误处理，实用性有限。作者认为，虽然C+P在某些方面接近实用，但现有语言如Nim、Haxe和D提供了更好的替代方案。
+
+---
+
+## <a name="19"></a>19. 跨过程稀疏条件类型传播 
 <small>🔗 [railsatscale.com](https://railsatscale.com/2025-02-24-interprocedural-sparse-conditional-type-propagation/): Interprocedural Sparse Conditional Type Propagation</small>
 
 
-| 🔥: 46 \| 💬: [9](https://news.ycombinator.com/item?id=43353898) \| 🗓️ 2025-03-13
+| 🔥: 47 \| 💬: [9](https://news.ycombinator.com/item?id=43353898) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -239,11 +251,11 @@ libexpat 2.7.0 发布，修复了一个长期存在的**递归漏洞**（CVE-202
 
 ---
 
-## <a name="19"></a>19. 土地价值税的失败 
+## <a name="20"></a>20. 土地价值税的失败 
 <small>🔗 [worksinprogress.co](https://worksinprogress.co/issue/the-failure-of-the-land-value-tax/): The failure of the land value tax</small>
 
 
-| 🔥: 42 \| 💬: [62](https://news.ycombinator.com/item?id=43353603) \| 🗓️ 2025-03-13
+| 🔥: 42 \| 💬: [64](https://news.ycombinator.com/item?id=43353603) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -251,7 +263,19 @@ libexpat 2.7.0 发布，修复了一个长期存在的**递归漏洞**（CVE-202
 
 ---
 
-## <a name="20"></a>20. 英国科技部长如何用ChatGPT制定政策建议 
+## <a name="21"></a>21. 连接全球企业与乌克兰顶尖科技公司的平台 
+<small>🔗 [codeua.com](https://codeua.com/about-us/): A platform where you can start working with the best Ukrainian tech companies</small>
+
+
+| 🔥: 42 \| 💬: [0](https://news.ycombinator.com/item?id=43353991) \| 🗓️ 2025-03-13
+
+
+<br />
+CodeUA 是一个连接国际企业与**乌克兰优质科技公司**的平台，提供从产品开发到云解决方案的多样化服务。平台由乌克兰数字化转型部、利沃夫IT集群和USAID共同支持，确保所有公司经过严格审核。通过**AI匹配算法**和**法律支持**，CodeUA 帮助客户轻松找到合适的合作伙伴，推动全球创新与经济增长。
+
+---
+
+## <a name="22"></a>22. 英国科技部长如何用ChatGPT制定政策建议 
 <small>🔗 [newscientist.com](https://www.newscientist.com/article/2472068-revealed-how-the-uk-tech-secretary-uses-chatgpt-for-policy-advice/): Revealed: How the UK tech secretary uses ChatGPT for policy advice</small>
 
 
@@ -263,31 +287,19 @@ libexpat 2.7.0 发布，修复了一个长期存在的**递归漏洞**（CVE-202
 
 ---
 
-## <a name="21"></a>21. 连接全球企业与乌克兰顶尖科技公司的平台 
-<small>🔗 [codeua.com](https://codeua.com/about-us/): A platform where you can start working with the best Ukrainian tech companies</small>
+## <a name="23"></a>23. 关于萨列里的引用 
+<small>🔗 [contingentmagazine.org](https://contingentmagazine.org/2025/01/10/have-quotes-about-salieri/): "Have Quotes About Salieri"</small>
 
 
-| 🔥: 41 \| 💬: [0](https://news.ycombinator.com/item?id=43353991) \| 🗓️ 2025-03-13
-
-
-<br />
-CodeUA 是一个连接国际企业与**乌克兰优质科技公司**的平台，提供从产品开发到云解决方案的多样化服务。平台由乌克兰数字化转型部、利沃夫IT集群和USAID共同支持，确保所有公司经过严格审核。通过**AI匹配算法**和**法律支持**，CodeUA 帮助客户轻松找到合适的合作伙伴，推动全球创新与经济增长。
-
----
-
-## <a name="22"></a>22. C Plus Prolog：将Prolog与C结合的实验性语言 
-<small>🔗 [github.com](https://github.com/needleful/c_plus_prolog): C Plus Prolog</small>
-
-
-| 🔥: 41 \| 💬: [8](https://news.ycombinator.com/item?id=43357955) \| 🗓️ 2025-03-13
+| 🔥: 40 \| 💬: [10](https://news.ycombinator.com/item?id=43355348) \| 🗓️ 2025-03-13
 
 
 <br />
-C Plus Prolog（简称C+P）是一种将**Prolog**与**C语言**结合的实验性编程语言。它通过将Prolog的语法转换为C代码，试图在C的实用性和Prolog的表达能力之间找到平衡。C+P引入了一些独特的语法特性，如`*=>`操作符用于宏定义，以及支持**编译时Prolog逻辑**。尽管C+P生成的是高效的C代码，但其语法复杂且缺乏错误处理，实用性有限。作者认为，虽然C+P在某些方面接近实用，但现有语言如Nim、Haxe和D提供了更好的替代方案。
+美国小说家大卫·韦斯（David Weiss）对莫扎特及其同事安东尼奥·萨列里的关系深感兴趣，尤其是围绕莫扎特死亡的阴谋论。韦斯的小说《莫扎特刺杀案》探讨了萨列里与维也纳秘密警察合谋毒害莫扎特的可能性。通过研究韦斯的笔记和手稿，作者发现韦斯在创作过程中大量参考了历史资料，试图构建一个看似合理的历史虚构情节。尽管学术界普遍否认这一阴谋论，韦斯仍希望通过小说引发公众讨论。
 
 ---
 
-## <a name="23"></a>23. 瑞典海盗湾联合创始人卡尔·伦德斯特伦在飞机失事中遇难 
+## <a name="24"></a>24. 瑞典海盗湾联合创始人卡尔·伦德斯特伦在飞机失事中遇难 
 <small>🔗 [thelocal.se](https://www.thelocal.se/20250313/swedish-pirate-bay-co-founder-dies-in-plane-crash): Swedish Pirate Bay co-founder Carl Lundström dies in plane crash</small>
 
 
@@ -296,18 +308,6 @@ C Plus Prolog（简称C+P）是一种将**Prolog**与**C语言**结合的实验�
 
 <br />
 瑞典商人**卡尔·伦德斯特伦**，非法文件共享网站**海盗湾**的联合创始人，在斯洛文尼亚的一次飞机失事中遇难。伦德斯特伦的飞机在斯洛文尼亚北部坠毁，救援因恶劣天气延迟。他曾因海盗湾的版权问题被判刑并罚款。伦德斯特伦是瑞典极右翼政党“瑞典替代党”的支持者，同时也是全球最大脆饼生产商Wasabröd创始人的孙子。
-
----
-
-## <a name="24"></a>24. 关于萨列里的引用 
-<small>🔗 [contingentmagazine.org](https://contingentmagazine.org/2025/01/10/have-quotes-about-salieri/): "Have Quotes About Salieri"</small>
-
-
-| 🔥: 37 \| 💬: [10](https://news.ycombinator.com/item?id=43355348) \| 🗓️ 2025-03-13
-
-
-<br />
-美国小说家大卫·韦斯（David Weiss）对莫扎特及其同事安东尼奥·萨列里的关系深感兴趣，尤其是围绕莫扎特死亡的阴谋论。韦斯的小说《莫扎特刺杀案》探讨了萨列里与维也纳秘密警察合谋毒害莫扎特的可能性。通过研究韦斯的笔记和手稿，作者发现韦斯在创作过程中大量参考了历史资料，试图构建一个看似合理的历史虚构情节。尽管学术界普遍否认这一阴谋论，韦斯仍希望通过小说引发公众讨论。
 
 ---
 
