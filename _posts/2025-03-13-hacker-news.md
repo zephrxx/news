@@ -12,7 +12,7 @@ tags:
 1. 曼哈顿的蒸汽网络：城市供暖的百年历史；
 1. 失传的对数艺术；
 1. IO设备与延迟；
-1. 业余望远镜制作主页；
+1. “普通”工程师是优秀团队的关键；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [finance.yahoo.com](https://finance.yahoo.com/news/openai-asks-white-house-relief-100000706.html): OpenAI asks White House for relief from state AI rules</small>
 
 
-| 🔥🔥: 443 \| 💬: [415](https://news.ycombinator.com/item?id=43352531) \| 🗓️ 2025-03-13
+| 🔥🔥: 468 \| 💬: [423](https://news.ycombinator.com/item?id=43352531) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -39,7 +39,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [worksinprogress.co](https://worksinprogress.co/issue/steam-networks/): Steam Networks</small>
 
 
-| 🔥🔥: 289 \| 💬: [132](https://news.ycombinator.com/item?id=43353822) \| 🗓️ 2025-03-13
+| 🔥🔥: 292 \| 💬: [132](https://news.ycombinator.com/item?id=43353822) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -51,7 +51,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [lostartoflogarithms.com](https://www.lostartoflogarithms.com/): The Lost Art of Logarithms</small>
 
 
-| 🔥🔥: 266 \| 💬: [104](https://news.ycombinator.com/item?id=43356314) \| 🗓️ 2025-03-13
+| 🔥🔥: 289 \| 💬: [113](https://news.ycombinator.com/item?id=43356314) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -63,7 +63,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [planetscale.com](https://planetscale.com/blog/io-devices-and-latency): IO Devices and Latency</small>
 
 
-| 🔥🔥: 255 \| 💬: [95](https://news.ycombinator.com/item?id=43355031) \| 🗓️ 2025-03-13
+| 🔥🔥: 267 \| 💬: [101](https://news.ycombinator.com/item?id=43355031) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -71,35 +71,11 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 
 ---
 
-## <a name="5"></a>5. 业余望远镜制作主页 
-<small>🔗 [stellafane.org](https://stellafane.org/tm/atm/): Amateur Telescope Making Main Page</small>
-
-
-| 🔥🔥: 204 \| 💬: [47](https://news.ycombinator.com/item?id=43351988) \| 🗓️ 2025-03-13
-
-
-<br />
-业余望远镜制作（ATM）是一项充满成就感和知识探索的活动。尽管如今市场上已有许多现成的望远镜，但许多天文爱好者仍选择**自制望远镜**，以体验亲手打造工具的乐趣。本文介绍了**镜面研磨**和**抛光**的基本技术，并提供了详细的制作指南和测试方法。无论是初学者还是有经验的制作者，都能从中找到适合自己的方法，打造出性能优异的望远镜。
-
----
-
-## <a name="6"></a>6. 海盗湾联合创始人卡尔·伦德斯特伦去世 
-<small>🔗 [independent.co.uk](https://www.independent.co.uk/news/world/europe/pirate-bay-carl-lundstrom-dead-plane-crash-b2714284.html): Pirate Bay co-founder Carl Lundström has died</small>
-
-
-| 🔥🔥: 189 \| 💬: [76](https://news.ycombinator.com/item?id=43352580) \| 🗓️ 2025-03-13
-
-
-<br />
-**卡尔·伦德斯特伦**，文件共享网站**海盗湾**的联合创始人和早期资助者，在斯洛文尼亚山区的一次小型飞机坠毁事故中去世。他当时正从克罗地亚首都萨格勒布飞往瑞士苏黎世，飞机因恶劣天气导致空间迷失而坠毁。伦德斯特伦曾因海盗湾的版权侵权案被判刑，并资助过多个极右翼政党。他还是瑞典知名脆饼品牌Wasabröd的继承人。
-
----
-
-## <a name="7"></a>7. “普通”工程师是优秀团队的关键 
+## <a name="5"></a>5. “普通”工程师是优秀团队的关键 
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/10x-engineer): "Normal" engineers are the key to great teams</small>
 
 
-| 🔥🔥: 181 \| 💬: [180](https://news.ycombinator.com/item?id=43356995) \| 🗓️ 2025-03-13
+| 🔥🔥: 208 \| 💬: [215](https://news.ycombinator.com/item?id=43356995) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -107,11 +83,35 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 
 ---
 
+## <a name="6"></a>6. 业余望远镜制作主页 
+<small>🔗 [stellafane.org](https://stellafane.org/tm/atm/): Amateur Telescope Making Main Page</small>
+
+
+| 🔥🔥: 207 \| 💬: [47](https://news.ycombinator.com/item?id=43351988) \| 🗓️ 2025-03-13
+
+
+<br />
+业余望远镜制作（ATM）是一项充满成就感和知识探索的活动。尽管如今市场上已有许多现成的望远镜，但许多天文爱好者仍选择**自制望远镜**，以体验亲手打造工具的乐趣。本文介绍了**镜面研磨**和**抛光**的基本技术，并提供了详细的制作指南和测试方法。无论是初学者还是有经验的制作者，都能从中找到适合自己的方法，打造出性能优异的望远镜。
+
+---
+
+## <a name="7"></a>7. 海盗湾联合创始人卡尔·伦德斯特伦去世 
+<small>🔗 [independent.co.uk](https://www.independent.co.uk/news/world/europe/pirate-bay-carl-lundstrom-dead-plane-crash-b2714284.html): Pirate Bay co-founder Carl Lundström has died</small>
+
+
+| 🔥🔥: 190 \| 💬: [76](https://news.ycombinator.com/item?id=43352580) \| 🗓️ 2025-03-13
+
+
+<br />
+**卡尔·伦德斯特伦**，文件共享网站**海盗湾**的联合创始人和早期资助者，在斯洛文尼亚山区的一次小型飞机坠毁事故中去世。他当时正从克罗地亚首都萨格勒布飞往瑞士苏黎世，飞机因恶劣天气导致空间迷失而坠毁。伦德斯特伦曾因海盗湾的版权侵权案被判刑，并资助过多个极右翼政党。他还是瑞典知名脆饼品牌Wasabröd的继承人。
+
+---
+
 ## <a name="8"></a>8. 程序员必备的统计公式（2013） 
 <small>🔗 [evanmiller.org](https://www.evanmiller.org/statistical-formulas-for-programmers.html): Statistical Formulas for Programmers (2013)</small>
 
 
-| 🔥🔥: 170 \| 💬: [30](https://news.ycombinator.com/item?id=43353551) \| 🗓️ 2025-03-13
+| 🔥🔥: 177 \| 💬: [30](https://news.ycombinator.com/item?id=43353551) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -123,7 +123,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [ftm.eu](https://www.ftm.eu/articles/huawei-targeted-in-european-parliament-corruption-probe): Huawei targeted in new European Parliament corruption probe</small>
 
 
-| 🔥🔥: 130 \| 💬: [102](https://news.ycombinator.com/item?id=43351765) \| 🗓️ 2025-03-13
+| 🔥🔥: 130 \| 💬: [103](https://news.ycombinator.com/item?id=43351765) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -135,7 +135,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [mameson.com](https://mameson.com/experiment/glsl/fro_9/fro_9.html): Honey Bunnies</small>
 
 
-| 🔥🔥: 127 \| 💬: [28](https://news.ycombinator.com/item?id=43355521) \| 🗓️ 2025-03-13
+| 🔥🔥: 130 \| 💬: [28](https://news.ycombinator.com/item?id=43355521) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -147,7 +147,7 @@ OpenAI向特朗普政府提出请求，希望为自愿与联邦政府共享AI模
 <small>🔗 [thonyc.wordpress.com](https://thonyc.wordpress.com/2025/03/13/history-of-maths-for-beginners/): History of Maths for Beginners</small>
 
 
-| 🔥🔥: 108 \| 💬: [12](https://news.ycombinator.com/item?id=43355542) \| 🗓️ 2025-03-13
+| 🔥🔥: 113 \| 💬: [12](https://news.ycombinator.com/item?id=43355542) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -183,7 +183,7 @@ Xata Agent 是一款开源的 **AI 代理**，专为 **PostgreSQL** 数据库设
 <small>🔗 [github.com](https://github.com/needleful/c_plus_prolog): C Plus Prolog</small>
 
 
-| 🔥: 72 \| 💬: [14](https://news.ycombinator.com/item?id=43357955) \| 🗓️ 2025-03-13
+| 🔥: 80 \| 💬: [14](https://news.ycombinator.com/item?id=43357955) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -195,7 +195,7 @@ C Plus Prolog（简称C+P）是一种将**Prolog**与**C语言**结合的实验�
 <small>🔗 [copetti.org](https://www.copetti.org/writings/consoles/game-boy-advance/): Game Boy Advance Architecture – A Practical Analysis</small>
 
 
-| 🔥: 70 \| 💬: [7](https://news.ycombinator.com/item?id=43351271) \| 🗓️ 2025-03-13
+| 🔥: 71 \| 💬: [7](https://news.ycombinator.com/item?id=43351271) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -207,7 +207,7 @@ Game Boy Advance（GBA）于2001年发布，搭载了**ARM7TDMI**处理器，支
 <small>🔗 [blog.hartwork.org](https://blog.hartwork.org/posts/expat-2-7-0-released/): Recursion kills: The story behind CVE-2024-8176 in libexpat</small>
 
 
-| 🔥: 66 \| 💬: [54](https://news.ycombinator.com/item?id=43357687) \| 🗓️ 2025-03-13
+| 🔥: 69 \| 💬: [54](https://news.ycombinator.com/item?id=43357687) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -219,7 +219,7 @@ libexpat 2.7.0 发布，修复了一个长期存在的**递归漏洞**（CVE-202
 <small>🔗 [discourse.ubuntu.com](https://discourse.ubuntu.com/t/carefully-but-purposefully-oxidising-ubuntu/56995): Carefully but Purposefully Oxidising Ubuntu</small>
 
 
-| 🔥: 65 \| 💬: [100](https://news.ycombinator.com/item?id=43353240) \| 🗓️ 2025-03-13
+| 🔥: 66 \| 💬: [100](https://news.ycombinator.com/item?id=43353240) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -231,7 +231,7 @@ Ubuntu计划从25.10版本开始，逐步采用基于**Rust**语言重写的核�
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/02/17/the-long-flight-to-teach-an-endangered-ibis-species-to-migrate): The Long Flight to Teach an Endangered Ibis Species to Migrate</small>
 
 
-| 🔥: 65 \| 💬: [16](https://news.ycombinator.com/item?id=43353570) \| 🗓️ 2025-03-13
+| 🔥: 66 \| 💬: [16](https://news.ycombinator.com/item?id=43353570) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -239,7 +239,19 @@ Ubuntu计划从25.10版本开始，逐步采用基于**Rust**语言重写的核�
 
 ---
 
-## <a name="19"></a>19. 跨过程稀疏条件类型传播 
+## <a name="19"></a>19. 美国环保署启动史上最大规模去监管行动 
+<small>🔗 [epa.gov](https://www.epa.gov/newsreleases/epa-launches-biggest-deregulatory-action-us-history): EPA Launches Biggest Deregulatory Action in U.S. History</small>
+
+
+| 🔥: 49 \| 💬: [43](https://news.ycombinator.com/item?id=43357447) \| 🗓️ 2025-03-13
+
+
+<br />
+美国环保署（EPA）署长李·泽尔丁宣布，将实施**31项历史性行动**，以推动特朗普总统的“美国复兴”计划。这些行动旨在**降低美国家庭生活成本**、**释放美国能源潜力**，并**重振美国汽车工业**。此举将减少数万亿美元的监管成本，并为美国创造更多就业机会，特别是在汽车制造业。同时，EPA将重新审视多项奥巴马和拜登时期的环保法规，以减轻对经济的压力。
+
+---
+
+## <a name="20"></a>20. 跨过程稀疏条件类型传播 
 <small>🔗 [railsatscale.com](https://railsatscale.com/2025-02-24-interprocedural-sparse-conditional-type-propagation/): Interprocedural Sparse Conditional Type Propagation</small>
 
 
@@ -251,27 +263,15 @@ Ubuntu计划从25.10版本开始，逐步采用基于**Rust**语言重写的核�
 
 ---
 
-## <a name="20"></a>20. 美国环保署启动史上最大规模去监管行动 
-<small>🔗 [epa.gov](https://www.epa.gov/newsreleases/epa-launches-biggest-deregulatory-action-us-history): EPA Launches Biggest Deregulatory Action in U.S. History</small>
+## <a name="21"></a>21. Y Combinator呼吁白宫支持欧洲《数字市场法案》 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/13/y-combinator-urges-the-white-house-to-support-europes-digital-markets-act/): Y Combinator Urges the White House to Support Europe's Digital Markets Act</small>
 
 
-| 🔥: 46 \| 💬: [36](https://news.ycombinator.com/item?id=43357447) \| 🗓️ 2025-03-13
-
-
-<br />
-美国环保署（EPA）署长李·泽尔丁宣布，将实施**31项历史性行动**，以推动特朗普总统的“美国复兴”计划。这些行动旨在**降低美国家庭生活成本**、**释放美国能源潜力**，并**重振美国汽车工业**。此举将减少数万亿美元的监管成本，并为美国创造更多就业机会，特别是在汽车制造业。同时，EPA将重新审视多项奥巴马和拜登时期的环保法规，以减轻对经济的压力。
-
----
-
-## <a name="21"></a>21. 土地价值税的失败 
-<small>🔗 [worksinprogress.co](https://worksinprogress.co/issue/the-failure-of-the-land-value-tax/): The failure of the land value tax</small>
-
-
-| 🔥: 42 \| 💬: [67](https://news.ycombinator.com/item?id=43353603) \| 🗓️ 2025-03-13
+| 🔥: 46 \| 💬: [4](https://news.ycombinator.com/item?id=43357739) \| 🗓️ 2025-03-13
 
 
 <br />
-19世纪末，美国经济学家亨利·乔治的《进步与贫困》提出对**土地价值**征税，以解决经济不平等问题。20世纪初，英国自由党政府尝试实施土地价值税，但因**行政复杂性**和**定义模糊**导致失败，税收成本远超收入，甚至打击了建筑业。这一历史教训表明，**土地价值税**在实践中面临巨大挑战，未能解决地方政府的财政危机，反而削弱了现有的财产税体系。
+Y Combinator近日致信白宫，呼吁特朗普政府公开支持欧洲的《数字市场法案》（DMA）。该法案旨在限制**六大科技巨头**（包括Alphabet、亚马逊、苹果等）的垄断行为，促进市场竞争。Y Combinator认为，DMA有助于为美国初创企业创造机会，尤其是在AI、搜索和消费应用领域。尽管特朗普政府此前对欧洲的科技监管持批评态度，但Y Combinator强调DMA与**美国创新精神**一致，并呼吁白宫重新评估立场。
 
 ---
 
@@ -279,7 +279,7 @@ Ubuntu计划从25.10版本开始，逐步采用基于**Rust**语言重写的核�
 <small>🔗 [codeua.com](https://codeua.com/about-us/): A platform where you can start working with the best Ukrainian tech companies</small>
 
 
-| 🔥: 42 \| 💬: [0](https://news.ycombinator.com/item?id=43353991) \| 🗓️ 2025-03-13
+| 🔥: 43 \| 💬: [0](https://news.ycombinator.com/item?id=43353991) \| 🗓️ 2025-03-13
 
 
 <br />
@@ -287,7 +287,19 @@ CodeUA 是一个连接国际企业与**乌克兰优质科技公司**的平台，
 
 ---
 
-## <a name="23"></a>23. 英国科技部长如何用ChatGPT制定政策建议 
+## <a name="23"></a>23. 土地价值税的失败 
+<small>🔗 [worksinprogress.co](https://worksinprogress.co/issue/the-failure-of-the-land-value-tax/): The failure of the land value tax</small>
+
+
+| 🔥: 42 \| 💬: [68](https://news.ycombinator.com/item?id=43353603) \| 🗓️ 2025-03-13
+
+
+<br />
+19世纪末，美国经济学家亨利·乔治的《进步与贫困》提出对**土地价值**征税，以解决经济不平等问题。20世纪初，英国自由党政府尝试实施土地价值税，但因**行政复杂性**和**定义模糊**导致失败，税收成本远超收入，甚至打击了建筑业。这一历史教训表明，**土地价值税**在实践中面临巨大挑战，未能解决地方政府的财政危机，反而削弱了现有的财产税体系。
+
+---
+
+## <a name="24"></a>24. 英国科技部长如何用ChatGPT制定政策建议 
 <small>🔗 [newscientist.com](https://www.newscientist.com/article/2472068-revealed-how-the-uk-tech-secretary-uses-chatgpt-for-policy-advice/): Revealed: How the UK tech secretary uses ChatGPT for policy advice</small>
 
 
@@ -299,7 +311,7 @@ CodeUA 是一个连接国际企业与**乌克兰优质科技公司**的平台，
 
 ---
 
-## <a name="24"></a>24. 关于萨列里的引用 
+## <a name="25"></a>25. 关于萨列里的引用 
 <small>🔗 [contingentmagazine.org](https://contingentmagazine.org/2025/01/10/have-quotes-about-salieri/): "Have Quotes About Salieri"</small>
 
 
@@ -308,17 +320,5 @@ CodeUA 是一个连接国际企业与**乌克兰优质科技公司**的平台，
 
 <br />
 美国小说家大卫·韦斯（David Weiss）对莫扎特及其同事安东尼奥·萨列里的关系深感兴趣，尤其是围绕莫扎特死亡的阴谋论。韦斯的小说《莫扎特刺杀案》探讨了萨列里与维也纳秘密警察合谋毒害莫扎特的可能性。通过研究韦斯的笔记和手稿，作者发现韦斯在创作过程中大量参考了历史资料，试图构建一个看似合理的历史虚构情节。尽管学术界普遍否认这一阴谋论，韦斯仍希望通过小说引发公众讨论。
-
----
-
-## <a name="25"></a>25. 瑞典海盗湾联合创始人卡尔·伦德斯特伦在飞机失事中遇难 
-<small>🔗 [thelocal.se](https://www.thelocal.se/20250313/swedish-pirate-bay-co-founder-dies-in-plane-crash): Swedish Pirate Bay co-founder Carl Lundström dies in plane crash</small>
-
-
-| 🔥: 38 \| 💬: [12](https://news.ycombinator.com/item?id=43352666) \| 🗓️ 2025-03-13
-
-
-<br />
-瑞典商人**卡尔·伦德斯特伦**，非法文件共享网站**海盗湾**的联合创始人，在斯洛文尼亚的一次飞机失事中遇难。伦德斯特伦的飞机在斯洛文尼亚北部坠毁，救援因恶劣天气延迟。他曾因海盗湾的版权问题被判刑并罚款。伦德斯特伦是瑞典极右翼政党“瑞典替代党”的支持者，同时也是全球最大脆饼生产商Wasabröd创始人的孙子。
 
 ---
