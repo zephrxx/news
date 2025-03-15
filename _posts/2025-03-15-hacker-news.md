@@ -11,12 +11,12 @@ tags:
 1. 牛奶看板：简单而高效的视觉信号系统；
 1. 芬兰国家过敏计划成功减少过敏性疾病；
 1. 个人YouTube前端：基于yt-dlp的无广告体验；
+1. 以任意身份登录：利用解析差异绕过SAML单点登录认证；
 1. 任意尺度超分辨率与神经热场；
-1. 披头士乐队“杀死”了多少艺术家？；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [brodzinski.com](https://brodzinski.com/2025/03/milk-kanban.html): Milk Kanban</small>
 
 
-| 🔥🔥: 254 \| 💬: [101](https://news.ycombinator.com/item?id=43373157) \| 🗓️ 2025-03-15
+| 🔥🔥: 267 \| 💬: [113](https://news.ycombinator.com/item?id=43373157) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [publications.ersnet.org](https://publications.ersnet.org/content/erj/49/6/1700470): Finland's National Allergy Program Successfully Reduces Allergic Diseases</small>
 
 
-| 🔥🔥: 176 \| 💬: [92](https://news.ycombinator.com/item?id=43370956) \| 🗓️ 2025-03-15
+| 🔥🔥: 178 \| 💬: [93](https://news.ycombinator.com/item?id=43370956) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/christian-fei/my-yt): Show HN: A personal YouTube frontend based on yt-dlp</small>
 
 
-| 🔥🔥: 155 \| 💬: [86](https://news.ycombinator.com/item?id=43373242) \| 🗓️ 2025-03-15
+| 🔥🔥: 170 \| 💬: [102](https://news.ycombinator.com/item?id=43373242) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -59,35 +59,11 @@ tags:
 
 ---
 
-## <a name="4"></a>4. 任意尺度超分辨率与神经热场 
-<small>🔗 [therasr.github.io](https://therasr.github.io/): Arbitrary-Scale Super-Resolution with Neural Heat Fields</small>
-
-
-| 🔥🔥: 121 \| 💬: [42](https://news.ycombinator.com/item?id=43371583) \| 🗓️ 2025-03-15
-
-
-<br />
-本文提出了一种基于**神经热场**的超分辨率方法，通过**超网络**估计像素级局部神经热场的参数。该方法利用**相位偏移**和热激活对全局学习组件进行缩放，并通过线性组合生成连续局部神经场，最终实现高质量图像重建。**抗锯齿**效果在设计中得到保证，实验表明该方法在多个超分辨率基准上达到了**最先进**的性能。
-
----
-
-## <a name="5"></a>5. 披头士乐队“杀死”了多少艺术家？ 
-<small>🔗 [cantgetmuchhigher.com](https://www.cantgetmuchhigher.com/p/how-many-artists-did-the-beatles): How many artists' careers did the Beatles kill?</small>
-
-
-| 🔥🔥: 110 \| 💬: [59](https://news.ycombinator.com/item?id=43373765) \| 🗓️ 2025-03-15
-
-
-<br />
-1964年，披头士乐队登陆美国，引发了英国音乐入侵，彻底改变了流行音乐的格局。文章通过分析Billboard榜单数据，发现**50%的1963年热门艺术家在1964年后未能再上榜**，表明披头士的到来确实终结了许多艺术家的职业生涯。然而，数据显示，这种“淘汰率”在音乐史上并不罕见，尤其是在1990年代，音乐风格的剧烈变化也导致了大量艺术家被淘汰。尽管如此，像**Frankie Valli**这样的艺术家展现了惊人的适应力，跨越多个音乐时代依然保持成功。
-
----
-
-## <a name="6"></a>6. 以任意身份登录：利用解析差异绕过SAML单点登录认证 
+## <a name="4"></a>4. 以任意身份登录：利用解析差异绕过SAML单点登录认证 
 <small>🔗 [github.blog](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/): Sign in as anyone: Bypassing SAML SSO authentication with parser differentials</small>
 
 
-| 🔥🔥: 106 \| 💬: [27](https://news.ycombinator.com/item?id=43374519) \| 🗓️ 2025-03-15
+| 🔥🔥: 141 \| 💬: [36](https://news.ycombinator.com/item?id=43374519) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -95,11 +71,35 @@ GitHub安全实验室的研究人员发现，**SAML单点登录（SSO）**认证
 
 ---
 
+## <a name="5"></a>5. 任意尺度超分辨率与神经热场 
+<small>🔗 [therasr.github.io](https://therasr.github.io/): Arbitrary-Scale Super-Resolution with Neural Heat Fields</small>
+
+
+| 🔥🔥: 126 \| 💬: [44](https://news.ycombinator.com/item?id=43371583) \| 🗓️ 2025-03-15
+
+
+<br />
+本文提出了一种基于**神经热场**的超分辨率方法，通过**超网络**估计像素级局部神经热场的参数。该方法利用**相位偏移**和热激活对全局学习组件进行缩放，并通过线性组合生成连续局部神经场，最终实现高质量图像重建。**抗锯齿**效果在设计中得到保证，实验表明该方法在多个超分辨率基准上达到了**最先进**的性能。
+
+---
+
+## <a name="6"></a>6. 披头士乐队“杀死”了多少艺术家？ 
+<small>🔗 [cantgetmuchhigher.com](https://www.cantgetmuchhigher.com/p/how-many-artists-did-the-beatles): How many artists' careers did the Beatles kill?</small>
+
+
+| 🔥🔥: 125 \| 💬: [78](https://news.ycombinator.com/item?id=43373765) \| 🗓️ 2025-03-15
+
+
+<br />
+1964年，披头士乐队登陆美国，引发了英国音乐入侵，彻底改变了流行音乐的格局。文章通过分析Billboard榜单数据，发现**50%的1963年热门艺术家在1964年后未能再上榜**，表明披头士的到来确实终结了许多艺术家的职业生涯。然而，数据显示，这种“淘汰率”在音乐史上并不罕见，尤其是在1990年代，音乐风格的剧烈变化也导致了大量艺术家被淘汰。尽管如此，像**Frankie Valli**这样的艺术家展现了惊人的适应力，跨越多个音乐时代依然保持成功。
+
+---
+
 ## <a name="7"></a>7. 非洲押注太阳能微电网：应对气候变化与改善生计 
 <small>🔗 [knowablemagazine.org](https://knowablemagazine.org/content/article/technology/2025/nigeria-bets-on-solar-minigrids-for-climate-livelihood): For climate and livelihoods, Africa bets big on solar mini-grids</small>
 
 
-| 🔥: 84 \| 💬: [60](https://news.ycombinator.com/item?id=43372729) \| 🗓️ 2025-03-15
+| 🔥: 89 \| 💬: [69](https://news.ycombinator.com/item?id=43372729) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -111,7 +111,7 @@ GitHub安全实验室的研究人员发现，**SAML单点登录（SSO）**认证
 <small>🔗 [susam.net](https://susam.net/lemma-for-ftgt.html): Lemma for the Fundamental Theorem of Galois Theory</small>
 
 
-| 🔥: 84 \| 💬: [22](https://news.ycombinator.com/item?id=43373196) \| 🗓️ 2025-03-15
+| 🔥: 89 \| 💬: [26](https://news.ycombinator.com/item?id=43373196) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -123,7 +123,7 @@ GitHub安全实验室的研究人员发现，**SAML单点登录（SSO）**认证
 <small>🔗 [electrek.co](https://electrek.co/2025/03/14/tesla-is-done-in-germany-94-say-they-wont-buy-a-tesla-car/): Tesla is done in Germany: 94% say they won't buy a Tesla car</small>
 
 
-| 🔥: 79 \| 💬: [64](https://news.ycombinator.com/item?id=43370950) \| 🗓️ 2025-03-15
+| 🔥: 80 \| 💬: [65](https://news.ycombinator.com/item?id=43370950) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -147,7 +147,7 @@ GitHub安全实验室的研究人员发现，**SAML单点登录（SSO）**认证
 <small>🔗 [shapeoperator.com](https://www.shapeoperator.com/2016/12/12/sunset-geometry/): Sunset Geometry (2016)</small>
 
 
-| 🔥: 69 \| 💬: [9](https://news.ycombinator.com/item?id=43372431) \| 🗓️ 2025-03-15
+| 🔥: 71 \| 💬: [9](https://news.ycombinator.com/item?id=43372431) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -159,7 +159,7 @@ Robert Vanderbei提出了一种通过拍摄日落照片来测量地球半径的�
 <small>🔗 [thewhitereview.org](https://www.thewhitereview.org/feature/theyre-really-close-to-my-body/): They're Close to My Body: A Hagiography of Nine Inch Nails and Robin Finck (2020)</small>
 
 
-| 🔥: 57 \| 💬: [18](https://news.ycombinator.com/item?id=43374237) \| 🗓️ 2025-03-15
+| 🔥: 69 \| 💬: [31](https://news.ycombinator.com/item?id=43374237) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -171,7 +171,7 @@ Robert Vanderbei提出了一种通过拍摄日落照片来测量地球半径的�
 <small>🔗 [vibewall.shop](https://vibewall.shop/): Show HN: Fashion Shopping with Nearest Neighbors</small>
 
 
-| 🔥: 51 \| 💬: [16](https://news.ycombinator.com/item?id=43373163) \| 🗓️ 2025-03-15
+| 🔥: 53 \| 💬: [17](https://news.ycombinator.com/item?id=43373163) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -179,7 +179,19 @@ Robert Vanderbei提出了一种通过拍摄日落照片来测量地球半径的�
 
 ---
 
-## <a name="14"></a>14. Cradle – 开源协作威胁情报中心 
+## <a name="14"></a>14. Cursor 悄悄在更新日志中翻倍了 Claude-3.7-Thinking 的价格 
+<small>🔗 [cursor.com](https://www.cursor.com/en/changelog): Cursor stealthily doubled the price of Claude-3.7-Thinking in a changelog</small>
+
+
+| 🔥: 37 \| 💬: [3](https://news.ycombinator.com/item?id=43375201) \| 🗓️ 2025-03-15
+
+
+<br />
+此次更新主要聚焦于**稳定性和性能提升**，优化了现有功能。新增了**键盘快捷键**菜单，支持自定义快捷键，并允许用户选择**早期访问**功能。此外，**3.7 版本的思考功能**现在将消耗 2 次请求而非 1 次，同时改进了主题、UI 和文件忽略行为。
+
+---
+
+## <a name="15"></a>15. Cradle – 开源协作威胁情报中心 
 <small>🔗 [cradle.sh](https://cradle.sh/): Cradle – Open-Source Collaborative Threat Intelligence Hub</small>
 
 
@@ -191,11 +203,11 @@ Cradle 是一个**开源协作知识管理平台**，专为威胁情报研究人
 
 ---
 
-## <a name="15"></a>15. Go语言的多返回值设计是否是其最大的错误？ 
+## <a name="16"></a>16. Go语言的多返回值设计是否是其最大的错误？ 
 <small>🔗 [herecomesthemoon.net](https://herecomesthemoon.net/2025/03/multiple-return-values-in-go/): Were multiple return values Go's biggest mistake?</small>
 
 
-| 🔥: 31 \| 💬: [18](https://news.ycombinator.com/item?id=43373024) \| 🗓️ 2025-03-15
+| 🔥: 32 \| 💬: [18](https://news.ycombinator.com/item?id=43373024) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -203,7 +215,19 @@ Go语言的多返回值设计看似无害，但实际上影响了语言的整体
 
 ---
 
-## <a name="16"></a>16. LearnLM：基于学习科学原则的实验性任务模型（2024） 
+## <a name="17"></a>17. 如何像婴儿一样学习新语言 
+<small>🔗 [theconversation.com](https://theconversation.com/how-to-learn-a-language-like-a-baby-250551): How to learn a new language like a baby</small>
+
+
+| 🔥: 31 \| 💬: [7](https://news.ycombinator.com/item?id=43375307) \| 🗓️ 2025-03-15
+
+
+<br />
+研究表明，**成年人**可以通过**听觉优先**的方式快速掌握新语言的**旋律和节奏**，类似于婴儿的语言学习过程。实验发现，过早接触文字拼写会干扰成年人对语言整体特征的感知。因此，语言学习应从**沉浸式听力**开始，而非过早依赖阅读和书写，这有助于提高口语流利度。
+
+---
+
+## <a name="18"></a>18. LearnLM：基于学习科学原则的实验性任务模型（2024） 
 <small>🔗 [ai.google.dev](https://ai.google.dev/gemini-api/docs/learnlm): LearnLM: An experimental task-specific model for learning science principles (2024)</small>
 
 
@@ -215,23 +239,23 @@ LearnLM 是一款实验性任务模型，专为教学和学习场景设计，遵
 
 ---
 
-## <a name="17"></a>17. Cursor 悄悄在更新日志中翻倍了 Claude-3.7-Thinking 的价格 
-<small>🔗 [cursor.com](https://www.cursor.com/en/changelog): Cursor stealthily doubled the price of Claude-3.7-Thinking in a changelog</small>
+## <a name="19"></a>19. 为什么SNES硬件运行速度比预期快，以及为什么这是个问题 
+<small>🔗 [arstechnica.com](https://arstechnica.com/gaming/2025/03/this-small-snes-timing-issue-is-causing-big-speedrun-problems/): Why SNES hardware is running faster than expected and why it's a problem</small>
 
 
-| 🔥: 27 \| 💬: [0](https://news.ycombinator.com/item?id=43375201) \| 🗓️ 2025-03-15
+| 🔥: 26 \| 💬: [9](https://news.ycombinator.com/item?id=43373414) \| 🗓️ 2025-03-15
 
 
 <br />
-此次更新主要聚焦于**稳定性和性能提升**，优化了现有功能。新增了**键盘快捷键**菜单，支持自定义快捷键，并允许用户选择**早期访问**功能。此外，**3.7 版本的思考功能**现在将消耗 2 次请求而非 1 次，同时改进了主题、UI 和文件忽略行为。
+SNES的**音频处理单元（APU）**使用了廉价的陶瓷谐振器，导致其时钟速度随时间和温度变化，影响了**TASBot**团队在真实硬件上执行工具辅助速通时的帧精确性。研究发现，不同主机的**DSP采样率**存在显著差异，平均为32,076 Hz，高于Nintendo的32,000 Hz标准。这种不一致性使得SNES在工具辅助速通中难以保持同步，甚至在同一主机上也会因启动顺序不同而产生非确定性行为。
 
 ---
 
-## <a name="18"></a>18. 新罕布什尔州绿卡持有者在洛根机场被拘留并审讯 
+## <a name="20"></a>20. 新罕布什尔州绿卡持有者在洛根机场被拘留并审讯 
 <small>🔗 [nhpr.org](https://www.nhpr.org/nh-news/2025-03-14/green-card-holder-from-new-hampshire-interrogated-at-logan-airport-detained): Green card holder from New Hampshire 'interrogated' at Logan Airport, detained</small>
 
 
-| 🔥: 23 \| 💬: [2](https://news.ycombinator.com/item?id=43372109) \| 🗓️ 2025-03-15
+| 🔥: 24 \| 💬: [2](https://news.ycombinator.com/item?id=43372109) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -239,7 +263,7 @@ LearnLM 是一款实验性任务模型，专为教学和学习场景设计，遵
 
 ---
 
-## <a name="19"></a>19. 诺基亚N900：未实现的未来 
+## <a name="21"></a>21. 诺基亚N900：未实现的未来 
 <small>🔗 [osnews.com](https://www.osnews.com/story/133160/the-nokia-n900-the-future-that-wasnt/): The Nokia N900: the future that wasn't</small>
 
 
@@ -251,19 +275,7 @@ LearnLM 是一款实验性任务模型，专为教学和学习场景设计，遵
 
 ---
 
-## <a name="20"></a>20. 为什么SNES硬件运行速度比预期快，以及为什么这是个问题 
-<small>🔗 [arstechnica.com](https://arstechnica.com/gaming/2025/03/this-small-snes-timing-issue-is-causing-big-speedrun-problems/): Why SNES hardware is running faster than expected and why it's a problem</small>
-
-
-| 🔥: 19 \| 💬: [9](https://news.ycombinator.com/item?id=43373414) \| 🗓️ 2025-03-15
-
-
-<br />
-SNES的**音频处理单元（APU）**使用了廉价的陶瓷谐振器，导致其时钟速度随时间和温度变化，影响了**TASBot**团队在真实硬件上执行工具辅助速通时的帧精确性。研究发现，不同主机的**DSP采样率**存在显著差异，平均为32,076 Hz，高于Nintendo的32,000 Hz标准。这种不一致性使得SNES在工具辅助速通中难以保持同步，甚至在同一主机上也会因启动顺序不同而产生非确定性行为。
-
----
-
-## <a name="21"></a>21. 特朗普政府取消追踪被绑架乌克兰儿童的合同 
+## <a name="22"></a>22. 特朗普政府取消追踪被绑架乌克兰儿童的合同 
 <small>🔗 [newrepublic.com](https://newrepublic.com/article/192790/trump-kidnapped-ukrainian-kids-nixed-contract): Trump Admin Nixed Contract Helping Kidnapped Ukrainian Children</small>
 
 
@@ -275,7 +287,7 @@ SNES的**音频处理单元（APU）**使用了廉价的陶瓷谐振器，导致
 
 ---
 
-## <a name="22"></a>22. 马斯克的“数字政变”内幕 
+## <a name="23"></a>23. 马斯克的“数字政变”内幕 
 <small>🔗 [wired.com](https://www.wired.com/story/elon-musk-digital-coup-doge-data-ai/): Inside Elon Musk's 'Digital Coup'</small>
 
 
@@ -287,7 +299,7 @@ SNES的**音频处理单元（APU）**使用了廉价的陶瓷谐振器，导致
 
 ---
 
-## <a name="23"></a>23. 马斯克呼吁弹劾法官，裁决推翻DOGE解雇案 
+## <a name="24"></a>24. 马斯克呼吁弹劾法官，裁决推翻DOGE解雇案 
 <small>🔗 [thedailybeast.com](https://www.thedailybeast.com/elon-musk-immediately-calls-for-judges-to-be-impeached-after-rulings-overturn-doge-firings/): Elon Musk Calls for Judges to Be Impeached After Rulings Overturn Doge Firings</small>
 
 
