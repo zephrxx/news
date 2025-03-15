@@ -9,14 +9,14 @@ tags:
 
 
 1. 绕过Firefox缺乏WebUSB支持的黑客技巧；
-1. Firefox 分叉浏览器的现状与选择；
 1. Briar：点对点加密通讯工具；
+1. Firefox 分叉浏览器的现状与选择；
+1. 《纽约时报》关闭Tor洋葱服务；
 1. 学校接送车队伍：美国的尴尬现象；
-1. 一款会在你收到`314159`时提醒你的2FA应用（2024）；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -35,23 +35,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. Firefox 分叉浏览器的现状与选择 
-<small>🔗 [lwn.net](https://lwn.net/Articles/1012453/): A look at Firefox forks</small>
-
-
-| 🔥🔥: 240 \| 💬: [164](https://news.ycombinator.com/item?id=43361959) \| 🗓️ 2025-03-14
-
-
-<br />
-Mozilla 近期的举措令许多 Firefox 用户不满，促使他们寻找替代品。**GNU IceCat**、**Floorp**、**LibreWolf** 和 **Zen** 等 Firefox 分叉浏览器提供了不同的功能和隐私保护策略。IceCat 强调自由软件和隐私，Floorp 提供独特的界面增强功能，LibreWolf 专注于移除 Firefox 的“反自由”特性，而 Zen 则是新兴项目，尚处于测试阶段。这些分叉浏览器为用户提供了脱离 Chrome 生态的多样化选择。
-
----
-
-## <a name="3"></a>3. Briar：点对点加密通讯工具 
+## <a name="2"></a>2. Briar：点对点加密通讯工具 
 <small>🔗 [briarproject.org](https://briarproject.org/how-it-works/): Briar: Peer to Peer Encrypted Messaging</small>
 
 
-| 🔥🔥: 240 \| 💬: [88](https://news.ycombinator.com/item?id=43363031) \| 🗓️ 2025-03-14
+| 🔥🔥: 250 \| 💬: [90](https://news.ycombinator.com/item?id=43363031) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -59,35 +47,23 @@ Briar 是一款专为**活动家**、**记者**等需要安全通讯的用户设
 
 ---
 
-## <a name="4"></a>4. 学校接送车队伍：美国的尴尬现象 
-<small>🔗 [collegetowns.substack.com](https://collegetowns.substack.com/p/the-school-car-pickup-line-is-a-national): The School Car Pickup Line Is a National Embarrassment</small>
+## <a name="3"></a>3. Firefox 分叉浏览器的现状与选择 
+<small>🔗 [lwn.net](https://lwn.net/Articles/1012453/): A look at Firefox forks</small>
 
 
-| 🔥🔥: 199 \| 💬: [327](https://news.ycombinator.com/item?id=43364761) \| 🗓️ 2025-03-14
-
-
-<br />
-美国学校接送车队伍已成为一种**全国性尴尬**，反映了学生通勤方式的巨大变化。过去，学生多步行、骑车或乘坐校车，如今**56%的学生**由私家车接送。学校合并和城市扩张导致学生居住地远离学校，加上**缺乏安全的步行和骑行设施**，家长不得不依赖私家车。这种现象不仅浪费时间和资源，还限制了孩子的独立性。改变需要社区共同努力，改善基础设施并重新思考通勤方式。
-
----
-
-## <a name="5"></a>5. 一款会在你收到`314159`时提醒你的2FA应用（2024） 
-<small>🔗 [blog.jacobstechtavern.com](https://blog.jacobstechtavern.com/p/building-a-2fa-app-that-detects-patterns): A 2FA app that tells you when you get `314159` (2024)</small>
-
-
-| 🔥🔥: 195 \| 💬: [92](https://news.ycombinator.com/item?id=43363918) \| 🗓️ 2025-03-14
+| 🔥🔥: 246 \| 💬: [169](https://news.ycombinator.com/item?id=43361959) \| 🗓️ 2025-03-14
 
 
 <br />
-Jacob Bartlett开发了一款名为**Check 'em**的2FA应用，专门为那些喜欢在**多因素认证**（MFA）代码中发现有趣数字序列的用户设计。这款应用能够**预计算**未来的2FA代码，并在出现如重复数字、连续数字等**有趣模式**时发送推送通知。通过**TOTP算法**，用户可以实时收到这些“酷数字”的提醒，甚至可以在登录时使用这些代码。
+Mozilla 近期的举措令许多 Firefox 用户不满，促使他们寻找替代品。**GNU IceCat**、**Floorp**、**LibreWolf** 和 **Zen** 等 Firefox 分叉浏览器提供了不同的功能和隐私保护策略。IceCat 强调自由软件和隐私，Floorp 提供独特的界面增强功能，LibreWolf 专注于移除 Firefox 的“反自由”特性，而 Zen 则是新兴项目，尚处于测试阶段。这些分叉浏览器为用户提供了脱离 Chrome 生态的多样化选择。
 
 ---
 
-## <a name="6"></a>6. 《纽约时报》关闭Tor洋葱服务 
+## <a name="4"></a>4. 《纽约时报》关闭Tor洋葱服务 
 <small>🔗 [open.nytimes.com](https://open.nytimes.com/https-open-nytimes-com-the-new-york-times-as-a-tor-onion-service-e0d0b67b7482): New York Times shut down Tor Onion service</small>
 
 
-| 🔥🔥: 193 \| 💬: [117](https://news.ycombinator.com/item?id=43368183) \| 🗓️ 2025-03-14
+| 🔥🔥: 203 \| 💬: [119](https://news.ycombinator.com/item?id=43368183) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -95,11 +71,35 @@ Jacob Bartlett开发了一款名为**Check 'em**的2FA应用，专门为那些�
 
 ---
 
+## <a name="5"></a>5. 学校接送车队伍：美国的尴尬现象 
+<small>🔗 [collegetowns.substack.com](https://collegetowns.substack.com/p/the-school-car-pickup-line-is-a-national): The School Car Pickup Line Is a National Embarrassment</small>
+
+
+| 🔥🔥: 200 \| 💬: [328](https://news.ycombinator.com/item?id=43364761) \| 🗓️ 2025-03-14
+
+
+<br />
+美国学校接送车队伍已成为一种**全国性尴尬**，反映了学生通勤方式的巨大变化。过去，学生多步行、骑车或乘坐校车，如今**56%的学生**由私家车接送。学校合并和城市扩张导致学生居住地远离学校，加上**缺乏安全的步行和骑行设施**，家长不得不依赖私家车。这种现象不仅浪费时间和资源，还限制了孩子的独立性。改变需要社区共同努力，改善基础设施并重新思考通勤方式。
+
+---
+
+## <a name="6"></a>6. 一款会在你收到`314159`时提醒你的2FA应用（2024） 
+<small>🔗 [blog.jacobstechtavern.com](https://blog.jacobstechtavern.com/p/building-a-2fa-app-that-detects-patterns): A 2FA app that tells you when you get `314159` (2024)</small>
+
+
+| 🔥🔥: 197 \| 💬: [94](https://news.ycombinator.com/item?id=43363918) \| 🗓️ 2025-03-14
+
+
+<br />
+Jacob Bartlett开发了一款名为**Check 'em**的2FA应用，专门为那些喜欢在**多因素认证**（MFA）代码中发现有趣数字序列的用户设计。这款应用能够**预计算**未来的2FA代码，并在出现如重复数字、连续数字等**有趣模式**时发送推送通知。通过**TOTP算法**，用户可以实时收到这些“酷数字”的提醒，甚至可以在登录时使用这些代码。
+
+---
+
 ## <a name="7"></a>7. 苹果将支持与安卓用户的加密RCS消息互通 
 <small>🔗 [theverge.com](https://www.theverge.com/news/629620/apple-iphone-e2ee-encryption-rcs-messaging-android): Apple will soon support encrypted RCS messaging with Android users</small>
 
 
-| 🔥🔥: 182 \| 💬: [103](https://news.ycombinator.com/item?id=43361822) \| 🗓️ 2025-03-14
+| 🔥🔥: 194 \| 💬: [113](https://news.ycombinator.com/item?id=43361822) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -111,7 +111,7 @@ Jacob Bartlett开发了一款名为**Check 'em**的2FA应用，专门为那些�
 <small>🔗 [allthingsdistributed.com](https://www.allthingsdistributed.com/2025/03/in-s3-simplicity-is-table-stakes.html): In S3 simplicity is table stakes</small>
 
 
-| 🔥🔥: 181 \| 💬: [121](https://news.ycombinator.com/item?id=43361737) \| 🗓️ 2025-03-14
+| 🔥🔥: 182 \| 💬: [122](https://news.ycombinator.com/item?id=43361737) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -123,7 +123,7 @@ S3自2006年推出以来，已从简单的对象存储发展为全球领先的**
 <small>🔗 [exurbe.com](https://www.exurbe.com/stoicisms-appeal-to-the-rich-and-powerful/): Stoicism's appeal to the rich and powerful (2019)</small>
 
 
-| 🔥🔥: 180 \| 💬: [275](https://news.ycombinator.com/item?id=43363014) \| 🗓️ 2025-03-14
+| 🔥🔥: 181 \| 💬: [278](https://news.ycombinator.com/item?id=43363014) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -135,7 +135,7 @@ S3自2006年推出以来，已从简单的对象存储发展为全球领先的**
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/13/fbi-epa-and-treasury-told-citibank-to-freeze-funds-as-trump-administration-tries-to-claw-back-climate-money/): FBI, EPA, and Treasury told Citibank to freeze funds to claw back climate money</small>
 
 
-| 🔥🔥: 178 \| 💬: [110](https://news.ycombinator.com/item?id=43366530) \| 🗓️ 2025-03-14
+| 🔥🔥: 180 \| 💬: [110](https://news.ycombinator.com/item?id=43366530) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -143,35 +143,11 @@ S3自2006年推出以来，已从简单的对象存储发展为全球领先的**
 
 ---
 
-## <a name="11"></a>11. 让Postgres扩展：从单机到分片的挑战与解决方案 
-<small>🔗 [pgdog.dev](https://pgdog.dev/blog/you-can-make-postgres-scale): Making Postgres scale</small>
-
-
-| 🔥🔥: 161 \| 💬: [129](https://news.ycombinator.com/item?id=43364668) \| 🗓️ 2025-03-14
-
-
-<br />
-Postgres的扩展性一直备受争议，尤其是在面对高写入负载时。本文分享了如何通过**分片**和**逻辑复制**将Postgres从单机扩展到36个数据库的实战经验。团队通过自定义哈希函数、触发器验证和自动化工具，成功应对了高并发场景。尽管过程复杂，但Postgres的扩展性得到了充分证明，未来还可以通过**PgDog**等工具进一步简化这一过程。
-
----
-
-## <a name="12"></a>12. 3月28日起，你对Echo说的每句话都将发送给亚马逊 
-<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/everything-you-say-to-your-echo-will-be-sent-to-amazon-starting-on-march-28/): Everything you say to your Echo will be sent to Amazon starting on March 28</small>
-
-
-| 🔥🔥: 159 \| 💬: [66](https://news.ycombinator.com/item?id=43367536) \| 🗓️ 2025-03-14
-
-
-<br />
-亚马逊宣布，从3月28日起，Echo用户将无法再选择在本地处理Alexa请求，所有语音录音将自动发送至亚马逊云端处理。这一变化是为了支持**Alexa+**的生成式AI功能，但用户将失去**隐私保护**选项。如果用户选择不保存录音，**Voice ID**功能将无法使用。亚马逊表示录音会在处理后删除，但员工仍可能访问这些录音以训练AI系统。
-
----
-
-## <a name="13"></a>13. 热门 GitHub Action tj-actions/changed-files 遭入侵 
+## <a name="11"></a>11. 热门 GitHub Action tj-actions/changed-files 遭入侵 
 <small>🔗 [semgrep.dev](https://semgrep.dev/blog/2025/popular-github-action-tj-actionschanged-files-is-compromised/): Popular GitHub Action tj-actions/changed-files is compromised</small>
 
 
-| 🔥🔥: 156 \| 💬: [107](https://news.ycombinator.com/item?id=43368870) \| 🗓️ 2025-03-14
+| 🔥🔥: 170 \| 💬: [113](https://news.ycombinator.com/item?id=43368870) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -179,11 +155,35 @@ Postgres的扩展性一直备受争议，尤其是在面对高写入负载时。
 
 ---
 
+## <a name="12"></a>12. 让Postgres扩展：从单机到分片的挑战与解决方案 
+<small>🔗 [pgdog.dev](https://pgdog.dev/blog/you-can-make-postgres-scale): Making Postgres scale</small>
+
+
+| 🔥🔥: 166 \| 💬: [129](https://news.ycombinator.com/item?id=43364668) \| 🗓️ 2025-03-14
+
+
+<br />
+Postgres的扩展性一直备受争议，尤其是在面对高写入负载时。本文分享了如何通过**分片**和**逻辑复制**将Postgres从单机扩展到36个数据库的实战经验。团队通过自定义哈希函数、触发器验证和自动化工具，成功应对了高并发场景。尽管过程复杂，但Postgres的扩展性得到了充分证明，未来还可以通过**PgDog**等工具进一步简化这一过程。
+
+---
+
+## <a name="13"></a>13. 3月28日起，你对Echo说的每句话都将发送给亚马逊 
+<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/everything-you-say-to-your-echo-will-be-sent-to-amazon-starting-on-march-28/): Everything you say to your Echo will be sent to Amazon starting on March 28</small>
+
+
+| 🔥🔥: 166 \| 💬: [69](https://news.ycombinator.com/item?id=43367536) \| 🗓️ 2025-03-14
+
+
+<br />
+亚马逊宣布，从3月28日起，Echo用户将无法再选择在本地处理Alexa请求，所有语音录音将自动发送至亚马逊云端处理。这一变化是为了支持**Alexa+**的生成式AI功能，但用户将失去**隐私保护**选项。如果用户选择不保存录音，**Voice ID**功能将无法使用。亚马逊表示录音会在处理后删除，但员工仍可能访问这些录音以训练AI系统。
+
+---
+
 ## <a name="14"></a>14. 利用GPU解密Akira勒索软件加密文件 
 <small>🔗 [tinyhack.com](https://tinyhack.com/2025/03/13/decrypting-encrypted-files-from-akira-ransomware-linux-esxi-variant-2024-using-a-bunch-of-gpus/): Decrypting encrypted files from Akira ransomware using a bunch of GPUs</small>
 
 
-| 🔥🔥: 154 \| 💬: [29](https://news.ycombinator.com/item?id=43365083) \| 🗓️ 2025-03-14
+| 🔥🔥: 161 \| 💬: [35](https://news.ycombinator.com/item?id=43365083) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -207,7 +207,7 @@ AMD在CES 2025上展示了其全新**Strix Halo SoC**，这是一款集成了强
 <small>🔗 [home.octetfont.com](https://home.octetfont.com/blog/kerning-hard.html): Kerning, the Hard Way</small>
 
 
-| 🔥🔥: 146 \| 💬: [39](https://news.ycombinator.com/item?id=43366479) \| 🗓️ 2025-03-14
+| 🔥🔥: 150 \| 💬: [41](https://news.ycombinator.com/item?id=43366479) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -227,7 +227,19 @@ David Jones 分享了他设计的一款字体，灵感来自Schaefer Versalien�
 
 ---
 
-## <a name="18"></a>18. 特斯拉Cybertruck交付暂停，防弹版本热销 
+## <a name="18"></a>18. 块扩散：自回归与扩散模型之间的插值 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2503.09573): Block Diffusion: Interpolating between autoregressive and diffusion models</small>
+
+
+| 🔥🔥: 119 \| 💬: [29](https://news.ycombinator.com/item?id=43363247) \| 🗓️ 2025-03-14
+
+
+<br />
+本文提出了一种**块扩散语言模型**，结合了离散去噪扩散模型和自回归模型的优点。该模型支持**灵活长度生成**，并通过KV缓存和并行令牌采样提高了推理效率。块扩散模型在语言建模基准测试中达到了新的最先进水平，并提供了代码和模型权重。
+
+---
+
+## <a name="19"></a>19. 特斯拉Cybertruck交付暂停，防弹版本热销 
 <small>🔗 [electrek.co](https://electrek.co/2025/03/13/tesla-cybertruck-deliveries-are-on-hold-as-trims-are-flying-off-the-bulletproof-truck/): Tesla Cybertruck deliveries on hold as trims are flying off 'bulletproof' truck</small>
 
 
@@ -239,19 +251,19 @@ David Jones 分享了他设计的一款字体，灵感来自Schaefer Versalien�
 
 ---
 
-## <a name="19"></a>19. 块扩散：自回归与扩散模型之间的插值 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2503.09573): Block Diffusion: Interpolating between autoregressive and diffusion models</small>
+## <a name="20"></a>20. 专家警告：美国政府数据基础设施正在“崩溃” 
+<small>🔗 [npr.org](https://www.npr.org/2025/01/24/nx-s1-5250264/unemployment-rate-cpi-inflation-census-bureau-labor-statistics): Experts warn about the 'crumbling infrastructure' of federal government data</small>
 
 
-| 🔥🔥: 117 \| 💬: [29](https://news.ycombinator.com/item?id=43363247) \| 🗓️ 2025-03-14
+| 🔥: 82 \| 💬: [17](https://news.ycombinator.com/item?id=43369791) \| 🗓️ 2025-03-14
 
 
 <br />
-本文提出了一种**块扩散语言模型**，结合了离散去噪扩散模型和自回归模型的优点。该模型支持**灵活长度生成**，并通过KV缓存和并行令牌采样提高了推理效率。块扩散模型在语言建模基准测试中达到了新的最先进水平，并提供了代码和模型权重。
+专家警告称，由于**预算不足**，美国联邦统计机构（如人口普查局和经济分析局）的数据生产系统正面临威胁。**资金短缺**导致部分数据集被取消，调查样本减少，技术现代化进程受阻。长期资金问题还可能影响2030年人口普查的准备工作。专家呼吁增加对统计系统的投资，以确保数据的**可靠性和完整性**。
 
 ---
 
-## <a name="20"></a>20. 苹果数据隐私听证会压力增大，要求公开举行 
+## <a name="21"></a>21. 苹果数据隐私听证会压力增大，要求公开举行 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c4g0rr51gn3o): Pressure grows to hold secret Apple data privacy hearing in public</small>
 
 
@@ -263,7 +275,7 @@ David Jones 分享了他设计的一款字体，灵感来自Schaefer Versalien�
 
 ---
 
-## <a name="21"></a>21. Bluesky CEO的T恤嘲讽扎克伯格，30分钟售罄 
+## <a name="22"></a>22. Bluesky CEO的T恤嘲讽扎克伯格，30分钟售罄 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/13/bluesky-quickly-sold-out-of-the-t-shirt-its-ceo-wore-to-troll-mark-zuckerberg/): Bluesky quickly sold out of the T-shirt its CEO wore to troll Mark Zuckerberg</small>
 
 
@@ -275,23 +287,11 @@ Bluesky CEO Jay Graber在SXSW舞台上穿了一件印有拉丁文“Mundus sine 
 
 ---
 
-## <a name="22"></a>22. 8小时限时进食窗口对减重有效 
-<small>🔗 [nia.nih.gov](https://www.nia.nih.gov/news/timeframe-8-hour-restricted-eating-irrelevant-weight-loss): Timeframe of 8-hour restricted eating irrelevant to weight loss</small>
-
-
-| 🔥: 64 \| 💬: [76](https://news.ycombinator.com/item?id=43364843) \| 🗓️ 2025-03-14
-
-
-<br />
-研究表明，**8小时限时进食**无论选择何时段，都能帮助肥胖者减重并改善心血管和代谢健康。研究比较了早、中、自选三个8小时进食窗口，发现所有限时进食组比地中海饮食对照组减重更多，且**皮下脂肪减少**和**代谢指标改善**显著。研究基于欧洲人群，未来需验证是否适用于美国多样化人群。
-
----
-
 ## <a name="23"></a>23. 展示：CodeVideo——历时两年打造的事件驱动IDE 
 <small>🔗 [studio.codevideo.io](https://studio.codevideo.io): Show HN: CodeVideo – Two years in the making to build an event-sourced IDE</small>
 
 
-| 🔥: 63 \| 💬: [19](https://news.ycombinator.com/item?id=43363276) \| 🗓️ 2025-03-14
+| 🔥: 64 \| 💬: [19](https://news.ycombinator.com/item?id=43363276) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -303,10 +303,22 @@ CodeVideo™ Studio 是一款**事件驱动的IDE**，支持用户通过添加�
 <small>🔗 [propublica.org](https://www.propublica.org/article/using-ai-responsibly-for-reporting): How ProPublica Uses AI in Its Investigations</small>
 
 
-| 🔥: 63 \| 💬: [13](https://news.ycombinator.com/item?id=43363474) \| 🗓️ 2025-03-14
+| 🔥: 64 \| 💬: [13](https://news.ycombinator.com/item?id=43363474) \| 🗓️ 2025-03-14
 
 
 <br />
 ProPublica利用**大型语言模型**分析美国国家科学基金会（NSF）的资助项目，揭露了参议员Ted Cruz所谓的“觉醒”主题资助清单中的不合理之处。AI帮助记者快速筛选大量数据，识别出许多与“觉醒”无关的科学项目。ProPublica强调，AI虽能加速数据分析，但仍需**人工监督**和验证，以确保报道的准确性。
+
+---
+
+## <a name="25"></a>25. 8小时限时进食窗口对减重有效 
+<small>🔗 [nia.nih.gov](https://www.nia.nih.gov/news/timeframe-8-hour-restricted-eating-irrelevant-weight-loss): Timeframe of 8-hour restricted eating irrelevant to weight loss</small>
+
+
+| 🔥: 64 \| 💬: [77](https://news.ycombinator.com/item?id=43364843) \| 🗓️ 2025-03-14
+
+
+<br />
+研究表明，**8小时限时进食**无论选择何时段，都能帮助肥胖者减重并改善心血管和代谢健康。研究比较了早、中、自选三个8小时进食窗口，发现所有限时进食组比地中海饮食对照组减重更多，且**皮下脂肪减少**和**代谢指标改善**显著。研究基于欧洲人群，未来需验证是否适用于美国多样化人群。
 
 ---
