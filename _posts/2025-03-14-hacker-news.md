@@ -10,9 +10,9 @@ tags:
 
 1. 绕过Firefox缺乏WebUSB支持的黑客技巧；
 1. Firefox 分叉浏览器的现状与选择；
+1. Briar：点对点加密通讯工具；
 1. 学校接送车队伍：美国的尴尬现象；
 1. 一款会在你收到`314159`时提醒你的2FA应用（2024）；
-1. Briar：点对点加密通讯工具；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [github.com](https://github.com/ArcaneNibble/i-cant-believe-its-not-webusb): I-cant-believe-its-not-webusb: Hacking around lack of WebUSB support in Firefox</small>
 
 
-| 🔥🔥: 284 \| 💬: [249](https://news.ycombinator.com/item?id=43360642) \| 🗓️ 2025-03-14
+| 🔥🔥: 285 \| 💬: [253](https://news.ycombinator.com/item?id=43360642) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [lwn.net](https://lwn.net/Articles/1012453/): A look at Firefox forks</small>
 
 
-| 🔥🔥: 196 \| 💬: [127](https://news.ycombinator.com/item?id=43361959) \| 🗓️ 2025-03-14
+| 🔥🔥: 204 \| 💬: [132](https://news.ycombinator.com/item?id=43361959) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -47,35 +47,11 @@ Mozilla 近期的举措令许多 Firefox 用户不满，促使他们寻找替代
 
 ---
 
-## <a name="3"></a>3. 学校接送车队伍：美国的尴尬现象 
-<small>🔗 [collegetowns.substack.com](https://collegetowns.substack.com/p/the-school-car-pickup-line-is-a-national): The School Car Pickup Line Is a National Embarrassment</small>
-
-
-| 🔥🔥: 188 \| 💬: [320](https://news.ycombinator.com/item?id=43364761) \| 🗓️ 2025-03-14
-
-
-<br />
-美国学校接送车队伍已成为一种**全国性尴尬**，反映了学生通勤方式的巨大变化。过去，学生多步行、骑车或乘坐校车，如今**56%的学生**由私家车接送。学校合并和城市扩张导致学生居住地远离学校，加上**缺乏安全的步行和骑行设施**，家长不得不依赖私家车。这种现象不仅浪费时间和资源，还限制了孩子的独立性。改变需要社区共同努力，改善基础设施并重新思考通勤方式。
-
----
-
-## <a name="4"></a>4. 一款会在你收到`314159`时提醒你的2FA应用（2024） 
-<small>🔗 [blog.jacobstechtavern.com](https://blog.jacobstechtavern.com/p/building-a-2fa-app-that-detects-patterns): A 2FA app that tells you when you get `314159` (2024)</small>
-
-
-| 🔥🔥: 185 \| 💬: [86](https://news.ycombinator.com/item?id=43363918) \| 🗓️ 2025-03-14
-
-
-<br />
-Jacob Bartlett开发了一款名为**Check 'em**的2FA应用，专门为那些喜欢在**多因素认证**（MFA）代码中发现有趣数字序列的用户设计。这款应用能够**预计算**未来的2FA代码，并在出现如重复数字、连续数字等**有趣模式**时发送推送通知。通过**TOTP算法**，用户可以实时收到这些“酷数字”的提醒，甚至可以在登录时使用这些代码。
-
----
-
-## <a name="5"></a>5. Briar：点对点加密通讯工具 
+## <a name="3"></a>3. Briar：点对点加密通讯工具 
 <small>🔗 [briarproject.org](https://briarproject.org/how-it-works/): Briar: Peer to Peer Encrypted Messaging</small>
 
 
-| 🔥🔥: 174 \| 💬: [57](https://news.ycombinator.com/item?id=43363031) \| 🗓️ 2025-03-14
+| 🔥🔥: 191 \| 💬: [64](https://news.ycombinator.com/item?id=43363031) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -83,11 +59,35 @@ Briar 是一款专为**活动家**、**记者**等需要安全通讯的用户设
 
 ---
 
+## <a name="4"></a>4. 学校接送车队伍：美国的尴尬现象 
+<small>🔗 [collegetowns.substack.com](https://collegetowns.substack.com/p/the-school-car-pickup-line-is-a-national): The School Car Pickup Line Is a National Embarrassment</small>
+
+
+| 🔥🔥: 189 \| 💬: [321](https://news.ycombinator.com/item?id=43364761) \| 🗓️ 2025-03-14
+
+
+<br />
+美国学校接送车队伍已成为一种**全国性尴尬**，反映了学生通勤方式的巨大变化。过去，学生多步行、骑车或乘坐校车，如今**56%的学生**由私家车接送。学校合并和城市扩张导致学生居住地远离学校，加上**缺乏安全的步行和骑行设施**，家长不得不依赖私家车。这种现象不仅浪费时间和资源，还限制了孩子的独立性。改变需要社区共同努力，改善基础设施并重新思考通勤方式。
+
+---
+
+## <a name="5"></a>5. 一款会在你收到`314159`时提醒你的2FA应用（2024） 
+<small>🔗 [blog.jacobstechtavern.com](https://blog.jacobstechtavern.com/p/building-a-2fa-app-that-detects-patterns): A 2FA app that tells you when you get `314159` (2024)</small>
+
+
+| 🔥🔥: 187 \| 💬: [87](https://news.ycombinator.com/item?id=43363918) \| 🗓️ 2025-03-14
+
+
+<br />
+Jacob Bartlett开发了一款名为**Check 'em**的2FA应用，专门为那些喜欢在**多因素认证**（MFA）代码中发现有趣数字序列的用户设计。这款应用能够**预计算**未来的2FA代码，并在出现如重复数字、连续数字等**有趣模式**时发送推送通知。通过**TOTP算法**，用户可以实时收到这些“酷数字”的提醒，甚至可以在登录时使用这些代码。
+
+---
+
 ## <a name="6"></a>6. 斯多葛主义对富人和权贵的吸引力（2019） 
 <small>🔗 [exurbe.com](https://www.exurbe.com/stoicisms-appeal-to-the-rich-and-powerful/): Stoicism's appeal to the rich and powerful (2019)</small>
 
 
-| 🔥🔥: 172 \| 💬: [267](https://news.ycombinator.com/item?id=43363014) \| 🗓️ 2025-03-14
+| 🔥🔥: 174 \| 💬: [268](https://news.ycombinator.com/item?id=43363014) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -99,7 +99,7 @@ Briar 是一款专为**活动家**、**记者**等需要安全通讯的用户设
 <small>🔗 [allthingsdistributed.com](https://www.allthingsdistributed.com/2025/03/in-s3-simplicity-is-table-stakes.html): In S3 simplicity is table stakes</small>
 
 
-| 🔥🔥: 162 \| 💬: [104](https://news.ycombinator.com/item?id=43361737) \| 🗓️ 2025-03-14
+| 🔥🔥: 169 \| 💬: [106](https://news.ycombinator.com/item?id=43361737) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -111,7 +111,7 @@ S3自2006年推出以来，已从简单的对象存储发展为全球领先的**
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/13/fbi-epa-and-treasury-told-citibank-to-freeze-funds-as-trump-administration-tries-to-claw-back-climate-money/): FBI, EPA, and Treasury told Citibank to freeze funds to claw back climate money</small>
 
 
-| 🔥🔥: 152 \| 💬: [81](https://news.ycombinator.com/item?id=43366530) \| 🗓️ 2025-03-14
+| 🔥🔥: 168 \| 💬: [97](https://news.ycombinator.com/item?id=43366530) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -123,7 +123,7 @@ S3自2006年推出以来，已从简单的对象存储发展为全球领先的**
 <small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/amds-strix-halo-under-the-hood): AMD's Strix Halo under the hood</small>
 
 
-| 🔥🔥: 146 \| 💬: [114](https://news.ycombinator.com/item?id=43360894) \| 🗓️ 2025-03-14
+| 🔥🔥: 149 \| 💬: [118](https://news.ycombinator.com/item?id=43360894) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -135,7 +135,7 @@ AMD在CES 2025上展示了其全新**Strix Halo SoC**，这是一款集成了强
 <small>🔗 [hopsworks.ai](https://www.hopsworks.ai/post/migrating-from-aws-to-a-european-cloud-how-we-cut-costs-by-62): Migrating from AWS to a European Cloud – How We Cut Costs by 62%</small>
 
 
-| 🔥🔥: 133 \| 💬: [58](https://news.ycombinator.com/item?id=43361366) \| 🗓️ 2025-03-14
+| 🔥🔥: 134 \| 💬: [58](https://news.ycombinator.com/item?id=43361366) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -143,23 +143,11 @@ AMD在CES 2025上展示了其全新**Strix Halo SoC**，这是一款集成了强
 
 ---
 
-## <a name="11"></a>11. 利用GPU解密Akira勒索软件加密文件 
-<small>🔗 [tinyhack.com](https://tinyhack.com/2025/03/13/decrypting-encrypted-files-from-akira-ransomware-linux-esxi-variant-2024-using-a-bunch-of-gpus/): Decrypting encrypted files from Akira ransomware using a bunch of GPUs</small>
-
-
-| 🔥🔥: 122 \| 💬: [18](https://news.ycombinator.com/item?id=43365083) \| 🗓️ 2025-03-14
-
-
-<br />
-作者分享了如何在不支付赎金的情况下，帮助一家公司恢复被**Akira勒索软件**加密的文件。通过分析勒索软件的时间戳生成机制，作者发现其使用四个纳秒级时间戳作为种子，生成唯一密钥。尽管**暴力破解**的复杂度极高，但通过优化算法并利用GPU加速，作者成功将解密时间从数百天缩短至几个月。最终，通过已知的明文和密文对比，成功恢复了文件。
-
----
-
-## <a name="12"></a>12. 让Postgres扩展：从单机到分片的挑战与解决方案 
+## <a name="11"></a>11. 让Postgres扩展：从单机到分片的挑战与解决方案 
 <small>🔗 [pgdog.dev](https://pgdog.dev/blog/you-can-make-postgres-scale): Making Postgres scale</small>
 
 
-| 🔥🔥: 121 \| 💬: [115](https://news.ycombinator.com/item?id=43364668) \| 🗓️ 2025-03-14
+| 🔥🔥: 134 \| 💬: [119](https://news.ycombinator.com/item?id=43364668) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -167,7 +155,31 @@ Postgres的扩展性一直备受争议，尤其是在面对高写入负载时。
 
 ---
 
-## <a name="13"></a>13. 特斯拉Cybertruck交付暂停，防弹版本热销 
+## <a name="12"></a>12. 利用GPU解密Akira勒索软件加密文件 
+<small>🔗 [tinyhack.com](https://tinyhack.com/2025/03/13/decrypting-encrypted-files-from-akira-ransomware-linux-esxi-variant-2024-using-a-bunch-of-gpus/): Decrypting encrypted files from Akira ransomware using a bunch of GPUs</small>
+
+
+| 🔥🔥: 130 \| 💬: [20](https://news.ycombinator.com/item?id=43365083) \| 🗓️ 2025-03-14
+
+
+<br />
+作者分享了如何在不支付赎金的情况下，帮助一家公司恢复被**Akira勒索软件**加密的文件。通过分析勒索软件的时间戳生成机制，作者发现其使用四个纳秒级时间戳作为种子，生成唯一密钥。尽管**暴力破解**的复杂度极高，但通过优化算法并利用GPU加速，作者成功将解密时间从数百天缩短至几个月。最终，通过已知的明文和密文对比，成功恢复了文件。
+
+---
+
+## <a name="13"></a>13. 字距调整的硬核方法 
+<small>🔗 [home.octetfont.com](https://home.octetfont.com/blog/kerning-hard.html): Kerning, the Hard Way</small>
+
+
+| 🔥🔥: 122 \| 💬: [33](https://news.ycombinator.com/item?id=43366479) \| 🗓️ 2025-03-14
+
+
+<br />
+David Jones 分享了他设计的一款字体，灵感来自Schaefer Versalien，但基于他的模板字体Arugula进行了修改。由于字体采用垂直条纹背景，传统的**GPOS字距调整**无法使用。他通过**GSUB替换规则**，将字母分割并重新组合，解决了字距问题。这种方法需要为每个字母创建左右部分，并为每个字距对生成独特的连接部分。虽然复杂，但通过自定义Python脚本和字体工具库，他成功实现了这一设计。
+
+---
+
+## <a name="14"></a>14. 特斯拉Cybertruck交付暂停，防弹版本热销 
 <small>🔗 [electrek.co](https://electrek.co/2025/03/13/tesla-cybertruck-deliveries-are-on-hold-as-trims-are-flying-off-the-bulletproof-truck/): Tesla Cybertruck deliveries on hold as trims are flying off 'bulletproof' truck</small>
 
 
@@ -179,35 +191,11 @@ Postgres的扩展性一直备受争议，尤其是在面对高写入负载时。
 
 ---
 
-## <a name="14"></a>14. 字距调整的硬核方法 
-<small>🔗 [home.octetfont.com](https://home.octetfont.com/blog/kerning-hard.html): Kerning, the Hard Way</small>
-
-
-| 🔥🔥: 115 \| 💬: [29](https://news.ycombinator.com/item?id=43366479) \| 🗓️ 2025-03-14
-
-
-<br />
-David Jones 分享了他设计的一款字体，灵感来自Schaefer Versalien，但基于他的模板字体Arugula进行了修改。由于字体采用垂直条纹背景，传统的**GPOS字距调整**无法使用。他通过**GSUB替换规则**，将字母分割并重新组合，解决了字距问题。这种方法需要为每个字母创建左右部分，并为每个字距对生成独特的连接部分。虽然复杂，但通过自定义Python脚本和字体工具库，他成功实现了这一设计。
-
----
-
-## <a name="15"></a>15. 块扩散：自回归与扩散模型之间的插值 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2503.09573): Block Diffusion: Interpolating between autoregressive and diffusion models</small>
-
-
-| 🔥🔥: 102 \| 💬: [26](https://news.ycombinator.com/item?id=43363247) \| 🗓️ 2025-03-14
-
-
-<br />
-本文提出了一种**块扩散语言模型**，结合了离散去噪扩散模型和自回归模型的优点。该模型支持**灵活长度生成**，并通过KV缓存和并行令牌采样提高了推理效率。块扩散模型在语言建模基准测试中达到了新的最先进水平，并提供了代码和模型权重。
-
----
-
-## <a name="16"></a>16. 3月28日起，你对Echo说的每句话都将发送给亚马逊 
+## <a name="15"></a>15. 3月28日起，你对Echo说的每句话都将发送给亚马逊 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/everything-you-say-to-your-echo-will-be-sent-to-amazon-starting-on-march-28/): Everything you say to your Echo will be sent to Amazon starting on March 28</small>
 
 
-| 🔥: 93 \| 💬: [38](https://news.ycombinator.com/item?id=43367536) \| 🗓️ 2025-03-14
+| 🔥🔥: 113 \| 💬: [50](https://news.ycombinator.com/item?id=43367536) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -215,47 +203,11 @@ David Jones 分享了他设计的一款字体，灵感来自Schaefer Versalien�
 
 ---
 
-## <a name="17"></a>17. 苹果将支持与安卓用户的加密RCS消息互通 
-<small>🔗 [theverge.com](https://www.theverge.com/news/629620/apple-iphone-e2ee-encryption-rcs-messaging-android): Apple will soon support encrypted RCS messaging with Android users</small>
-
-
-| 🔥: 85 \| 💬: [40](https://news.ycombinator.com/item?id=43361822) \| 🗓️ 2025-03-14
-
-
-<br />
-苹果宣布将在未来的iOS、iPadOS、macOS和watchOS更新中，增加对**端到端加密（E2EE）RCS消息**的支持。这一功能基于GSM协会发布的最新RCS标准，首次实现了跨平台加密互通。此前，苹果的iMessage已支持E2EE，但RCS消息因缺乏跨平台支持而未加密。谷歌也表示将尽快与移动生态系统合作，扩展这一重要保护功能。
-
----
-
-## <a name="18"></a>18. 苹果数据隐私听证会压力增大，要求公开举行 
-<small>🔗 [bbc.com](https://www.bbc.com/news/articles/c4g0rr51gn3o): Pressure grows to hold secret Apple data privacy hearing in public</small>
-
-
-| 🔥: 77 \| 💬: [32](https://news.ycombinator.com/item?id=43361381) \| 🗓️ 2025-03-14
-
-
-<br />
-美国政界人士、民权活动家和BBC呼吁将苹果与英国政府之间的**数据隐私争议**听证会公开举行。苹果因英国政府要求访问其**高级数据保护（ADP）**计划下的客户数据而提起诉讼。英国政府称，在国家安全风险下需要访问这些数据。听证会原定于周五在高等法院秘密举行，但多方要求公开讨论，强调此事涉及**全球隐私与安全**问题。
-
----
-
-## <a name="19"></a>19. Bluesky CEO的T恤嘲讽扎克伯格，30分钟售罄 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/13/bluesky-quickly-sold-out-of-the-t-shirt-its-ceo-wore-to-troll-mark-zuckerberg/): Bluesky quickly sold out of the T-shirt its CEO wore to troll Mark Zuckerberg</small>
-
-
-| 🔥: 74 \| 💬: [74](https://news.ycombinator.com/item?id=43366210) \| 🗓️ 2025-03-14
-
-
-<br />
-Bluesky CEO Jay Graber在SXSW舞台上穿了一件印有拉丁文“Mundus sine Caesaribus”（没有凯撒的世界）的T恤，暗讽Meta CEO马克·扎克伯格。这件T恤灵感来自扎克伯格去年穿的一件印有“Aut Zuck aut nihil”（扎克或虚无）的T恤。Bluesky用户对此反应热烈，平台随即推出复刻版T恤，售价40美元，30分钟内售罄。**Bluesky**的**去中心化**理念强调开发者共同参与平台建设，而非由单一高管掌控权力。Graber表示，即使有亿万富翁接管Bluesky，用户也可以选择分叉或迁移到其他应用，体现了平台的**开放性**。
-
----
-
-## <a name="20"></a>20. 《纽约时报》关闭Tor洋葱服务 
+## <a name="16"></a>16. 《纽约时报》关闭Tor洋葱服务 
 <small>🔗 [open.nytimes.com](https://open.nytimes.com/https-open-nytimes-com-the-new-york-times-as-a-tor-onion-service-e0d0b67b7482): New York Times shut down Tor Onion service</small>
 
 
-| 🔥: 66 \| 💬: [15](https://news.ycombinator.com/item?id=43368183) \| 🗓️ 2025-03-14
+| 🔥🔥: 108 \| 💬: [55](https://news.ycombinator.com/item?id=43368183) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -263,11 +215,59 @@ Bluesky CEO Jay Graber在SXSW舞台上穿了一件印有拉丁文“Mundus sine 
 
 ---
 
+## <a name="17"></a>17. 苹果将支持与安卓用户的加密RCS消息互通 
+<small>🔗 [theverge.com](https://www.theverge.com/news/629620/apple-iphone-e2ee-encryption-rcs-messaging-android): Apple will soon support encrypted RCS messaging with Android users</small>
+
+
+| 🔥🔥: 106 \| 💬: [55](https://news.ycombinator.com/item?id=43361822) \| 🗓️ 2025-03-14
+
+
+<br />
+苹果宣布将在未来的iOS、iPadOS、macOS和watchOS更新中，增加对**端到端加密（E2EE）RCS消息**的支持。这一功能基于GSM协会发布的最新RCS标准，首次实现了跨平台加密互通。此前，苹果的iMessage已支持E2EE，但RCS消息因缺乏跨平台支持而未加密。谷歌也表示将尽快与移动生态系统合作，扩展这一重要保护功能。
+
+---
+
+## <a name="18"></a>18. 块扩散：自回归与扩散模型之间的插值 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2503.09573): Block Diffusion: Interpolating between autoregressive and diffusion models</small>
+
+
+| 🔥🔥: 103 \| 💬: [29](https://news.ycombinator.com/item?id=43363247) \| 🗓️ 2025-03-14
+
+
+<br />
+本文提出了一种**块扩散语言模型**，结合了离散去噪扩散模型和自回归模型的优点。该模型支持**灵活长度生成**，并通过KV缓存和并行令牌采样提高了推理效率。块扩散模型在语言建模基准测试中达到了新的最先进水平，并提供了代码和模型权重。
+
+---
+
+## <a name="19"></a>19. 苹果数据隐私听证会压力增大，要求公开举行 
+<small>🔗 [bbc.com](https://www.bbc.com/news/articles/c4g0rr51gn3o): Pressure grows to hold secret Apple data privacy hearing in public</small>
+
+
+| 🔥: 78 \| 💬: [32](https://news.ycombinator.com/item?id=43361381) \| 🗓️ 2025-03-14
+
+
+<br />
+美国政界人士、民权活动家和BBC呼吁将苹果与英国政府之间的**数据隐私争议**听证会公开举行。苹果因英国政府要求访问其**高级数据保护（ADP）**计划下的客户数据而提起诉讼。英国政府称，在国家安全风险下需要访问这些数据。听证会原定于周五在高等法院秘密举行，但多方要求公开讨论，强调此事涉及**全球隐私与安全**问题。
+
+---
+
+## <a name="20"></a>20. Bluesky CEO的T恤嘲讽扎克伯格，30分钟售罄 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/13/bluesky-quickly-sold-out-of-the-t-shirt-its-ceo-wore-to-troll-mark-zuckerberg/): Bluesky quickly sold out of the T-shirt its CEO wore to troll Mark Zuckerberg</small>
+
+
+| 🔥: 75 \| 💬: [74](https://news.ycombinator.com/item?id=43366210) \| 🗓️ 2025-03-14
+
+
+<br />
+Bluesky CEO Jay Graber在SXSW舞台上穿了一件印有拉丁文“Mundus sine Caesaribus”（没有凯撒的世界）的T恤，暗讽Meta CEO马克·扎克伯格。这件T恤灵感来自扎克伯格去年穿的一件印有“Aut Zuck aut nihil”（扎克或虚无）的T恤。Bluesky用户对此反应热烈，平台随即推出复刻版T恤，售价40美元，30分钟内售罄。**Bluesky**的**去中心化**理念强调开发者共同参与平台建设，而非由单一高管掌控权力。Graber表示，即使有亿万富翁接管Bluesky，用户也可以选择分叉或迁移到其他应用，体现了平台的**开放性**。
+
+---
+
 ## <a name="21"></a>21. 展示：CodeVideo——历时两年打造的事件驱动IDE 
 <small>🔗 [studio.codevideo.io](https://studio.codevideo.io): Show HN: CodeVideo – Two years in the making to build an event-sourced IDE</small>
 
 
-| 🔥: 59 \| 💬: [19](https://news.ycombinator.com/item?id=43363276) \| 🗓️ 2025-03-14
+| 🔥: 61 \| 💬: [19](https://news.ycombinator.com/item?id=43363276) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -279,7 +279,7 @@ CodeVideo™ Studio 是一款**事件驱动的IDE**，支持用户通过添加�
 <small>🔗 [nia.nih.gov](https://www.nia.nih.gov/news/timeframe-8-hour-restricted-eating-irrelevant-weight-loss): Timeframe of 8-hour restricted eating irrelevant to weight loss</small>
 
 
-| 🔥: 57 \| 💬: [71](https://news.ycombinator.com/item?id=43364843) \| 🗓️ 2025-03-14
+| 🔥: 57 \| 💬: [72](https://news.ycombinator.com/item?id=43364843) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -291,7 +291,7 @@ CodeVideo™ Studio 是一款**事件驱动的IDE**，支持用户通过添加�
 <small>🔗 [propublica.org](https://www.propublica.org/article/using-ai-responsibly-for-reporting): How ProPublica Uses AI in Its Investigations</small>
 
 
-| 🔥: 56 \| 💬: [12](https://news.ycombinator.com/item?id=43363474) \| 🗓️ 2025-03-14
+| 🔥: 56 \| 💬: [13](https://news.ycombinator.com/item?id=43363474) \| 🗓️ 2025-03-14
 
 
 <br />
