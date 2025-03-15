@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共16条，具体内容您往下读...
+总共23条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [brodzinski.com](https://brodzinski.com/2025/03/milk-kanban.html): Milk Kanban</small>
 
 
-| 🔥🔥: 232 \| 💬: [86](https://news.ycombinator.com/item?id=43373157) \| 🗓️ 2025-03-15
+| 🔥🔥: 254 \| 💬: [101](https://news.ycombinator.com/item?id=43373157) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [publications.ersnet.org](https://publications.ersnet.org/content/erj/49/6/1700470): Finland's National Allergy Program Successfully Reduces Allergic Diseases</small>
 
 
-| 🔥🔥: 176 \| 💬: [91](https://news.ycombinator.com/item?id=43370956) \| 🗓️ 2025-03-15
+| 🔥🔥: 176 \| 💬: [92](https://news.ycombinator.com/item?id=43370956) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/christian-fei/my-yt): Show HN: A personal YouTube frontend based on yt-dlp</small>
 
 
-| 🔥🔥: 141 \| 💬: [69](https://news.ycombinator.com/item?id=43373242) \| 🗓️ 2025-03-15
+| 🔥🔥: 155 \| 💬: [86](https://news.ycombinator.com/item?id=43373242) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [therasr.github.io](https://therasr.github.io/): Arbitrary-Scale Super-Resolution with Neural Heat Fields</small>
 
 
-| 🔥🔥: 118 \| 💬: [38](https://news.ycombinator.com/item?id=43371583) \| 🗓️ 2025-03-15
+| 🔥🔥: 121 \| 💬: [42](https://news.ycombinator.com/item?id=43371583) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -72,10 +72,10 @@ tags:
 ---
 
 ## <a name="5"></a>5. 披头士乐队“杀死”了多少艺术家？ 
-<small>🔗 [cantgetmuchhigher.com](https://www.cantgetmuchhigher.com/p/how-many-artists-did-the-beatles): How Many Artists Did the Beatles Kill?</small>
+<small>🔗 [cantgetmuchhigher.com](https://www.cantgetmuchhigher.com/p/how-many-artists-did-the-beatles): How many artists' careers did the Beatles kill?</small>
 
 
-| 🔥: 88 \| 💬: [44](https://news.ycombinator.com/item?id=43373765) \| 🗓️ 2025-03-15
+| 🔥🔥: 110 \| 💬: [59](https://news.ycombinator.com/item?id=43373765) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -83,15 +83,15 @@ tags:
 
 ---
 
-## <a name="6"></a>6. 特斯拉在德国遇冷：94%的人表示不会购买特斯拉汽车 
-<small>🔗 [electrek.co](https://electrek.co/2025/03/14/tesla-is-done-in-germany-94-say-they-wont-buy-a-tesla-car/): Tesla is done in Germany: 94% say they won't buy a Tesla car</small>
+## <a name="6"></a>6. 以任意身份登录：利用解析差异绕过SAML单点登录认证 
+<small>🔗 [github.blog](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/): Sign in as anyone: Bypassing SAML SSO authentication with parser differentials</small>
 
 
-| 🔥: 79 \| 💬: [62](https://news.ycombinator.com/item?id=43370950) \| 🗓️ 2025-03-15
+| 🔥🔥: 106 \| 💬: [27](https://news.ycombinator.com/item?id=43374519) \| 🗓️ 2025-03-15
 
 
 <br />
-前Waymo CEO对特斯拉的**机器人出租车**服务发表看法，称“有很多方法可以**伪造**机器人出租车服务”。文章指出，特斯拉在德国市场面临严峻挑战，**94%的德国消费者**表示不会购买特斯拉汽车，反映出品牌在当地的市场接受度较低。
+GitHub安全实验室的研究人员发现，**SAML单点登录（SSO）**认证系统存在漏洞，攻击者可通过**解析差异**绕过认证，冒充任意用户。该漏洞源于不同解析器对XML数据的处理方式不一致，导致认证机制失效。建议开发者检查并修复相关实现，确保安全性。
 
 ---
 
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [knowablemagazine.org](https://knowablemagazine.org/content/article/technology/2025/nigeria-bets-on-solar-minigrids-for-climate-livelihood): For climate and livelihoods, Africa bets big on solar mini-grids</small>
 
 
-| 🔥: 79 \| 💬: [49](https://news.ycombinator.com/item?id=43372729) \| 🗓️ 2025-03-15
+| 🔥: 84 \| 💬: [60](https://news.ycombinator.com/item?id=43372729) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [susam.net](https://susam.net/lemma-for-ftgt.html): Lemma for the Fundamental Theorem of Galois Theory</small>
 
 
-| 🔥: 79 \| 💬: [22](https://news.ycombinator.com/item?id=43373196) \| 🗓️ 2025-03-15
+| 🔥: 84 \| 💬: [22](https://news.ycombinator.com/item?id=43373196) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -119,15 +119,15 @@ tags:
 
 ---
 
-## <a name="9"></a>9. 以任意身份登录：利用解析差异绕过SAML单点登录认证 
-<small>🔗 [github.blog](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/): Sign in as anyone: Bypassing SAML SSO authentication with parser differentials</small>
+## <a name="9"></a>9. 特斯拉在德国遇冷：94%的人表示不会购买特斯拉汽车 
+<small>🔗 [electrek.co](https://electrek.co/2025/03/14/tesla-is-done-in-germany-94-say-they-wont-buy-a-tesla-car/): Tesla is done in Germany: 94% say they won't buy a Tesla car</small>
 
 
-| 🔥: 73 \| 💬: [16](https://news.ycombinator.com/item?id=43374519) \| 🗓️ 2025-03-15
+| 🔥: 79 \| 💬: [64](https://news.ycombinator.com/item?id=43370950) \| 🗓️ 2025-03-15
 
 
 <br />
-GitHub安全实验室的研究人员发现，**SAML单点登录（SSO）**认证系统存在漏洞，攻击者可通过**解析差异**绕过认证，冒充任意用户。该漏洞源于不同解析器对XML数据的处理方式不一致，导致认证机制失效。建议开发者检查并修复相关实现，确保安全性。
+前Waymo CEO对特斯拉的**机器人出租车**服务发表看法，称“有很多方法可以**伪造**机器人出租车服务”。文章指出，特斯拉在德国市场面临严峻挑战，**94%的德国消费者**表示不会购买特斯拉汽车，反映出品牌在当地的市场接受度较低。
 
 ---
 
@@ -135,7 +135,7 @@ GitHub安全实验室的研究人员发现，**SAML单点登录（SSO）**认证
 <small>🔗 [space.com](https://www.space.com/space-exploration/james-webb-space-telescope/is-our-universe-trapped-inside-a-black-hole-this-james-webb-space-telescope-discovery-might-blow-your-mind): Is our universe trapped inside a black hole? This JWS Telescope discovery</small>
 
 
-| 🔥: 70 \| 💬: [52](https://news.ycombinator.com/item?id=43372271) \| 🗓️ 2025-03-15
+| 🔥: 71 \| 💬: [52](https://news.ycombinator.com/item?id=43372271) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -147,7 +147,7 @@ GitHub安全实验室的研究人员发现，**SAML单点登录（SSO）**认证
 <small>🔗 [shapeoperator.com](https://www.shapeoperator.com/2016/12/12/sunset-geometry/): Sunset Geometry (2016)</small>
 
 
-| 🔥: 66 \| 💬: [9](https://news.ycombinator.com/item?id=43372431) \| 🗓️ 2025-03-15
+| 🔥: 69 \| 💬: [9](https://news.ycombinator.com/item?id=43372431) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -159,7 +159,7 @@ Robert Vanderbei提出了一种通过拍摄日落照片来测量地球半径的�
 <small>🔗 [thewhitereview.org](https://www.thewhitereview.org/feature/theyre-really-close-to-my-body/): They're Close to My Body: A Hagiography of Nine Inch Nails and Robin Finck (2020)</small>
 
 
-| 🔥: 49 \| 💬: [12](https://news.ycombinator.com/item?id=43374237) \| 🗓️ 2025-03-15
+| 🔥: 57 \| 💬: [18](https://news.ycombinator.com/item?id=43374237) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -171,7 +171,7 @@ Robert Vanderbei提出了一种通过拍摄日落照片来测量地球半径的�
 <small>🔗 [vibewall.shop](https://vibewall.shop/): Show HN: Fashion Shopping with Nearest Neighbors</small>
 
 
-| 🔥: 47 \| 💬: [14](https://news.ycombinator.com/item?id=43373163) \| 🗓️ 2025-03-15
+| 🔥: 51 \| 💬: [16](https://news.ycombinator.com/item?id=43373163) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -195,7 +195,7 @@ Cradle 是一个**开源协作知识管理平台**，专为威胁情报研究人
 <small>🔗 [herecomesthemoon.net](https://herecomesthemoon.net/2025/03/multiple-return-values-in-go/): Were multiple return values Go's biggest mistake?</small>
 
 
-| 🔥: 31 \| 💬: [17](https://news.ycombinator.com/item?id=43373024) \| 🗓️ 2025-03-15
+| 🔥: 31 \| 💬: [18](https://news.ycombinator.com/item?id=43373024) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -212,5 +212,89 @@ Go语言的多返回值设计看似无害，但实际上影响了语言的整体
 
 <br />
 LearnLM 是一款实验性任务模型，专为教学和学习场景设计，遵循**学习科学原则**。它能够激发主动学习、管理认知负荷、适应学习者需求、激发好奇心并深化元认知。通过系统指令，LearnLM 可作为智能导师，帮助学生学习、复习和完成作业，提供个性化反馈和指导。
+
+---
+
+## <a name="17"></a>17. Cursor 悄悄在更新日志中翻倍了 Claude-3.7-Thinking 的价格 
+<small>🔗 [cursor.com](https://www.cursor.com/en/changelog): Cursor stealthily doubled the price of Claude-3.7-Thinking in a changelog</small>
+
+
+| 🔥: 27 \| 💬: [0](https://news.ycombinator.com/item?id=43375201) \| 🗓️ 2025-03-15
+
+
+<br />
+此次更新主要聚焦于**稳定性和性能提升**，优化了现有功能。新增了**键盘快捷键**菜单，支持自定义快捷键，并允许用户选择**早期访问**功能。此外，**3.7 版本的思考功能**现在将消耗 2 次请求而非 1 次，同时改进了主题、UI 和文件忽略行为。
+
+---
+
+## <a name="18"></a>18. 新罕布什尔州绿卡持有者在洛根机场被拘留并审讯 
+<small>🔗 [nhpr.org](https://www.nhpr.org/nh-news/2025-03-14/green-card-holder-from-new-hampshire-interrogated-at-logan-airport-detained): Green card holder from New Hampshire 'interrogated' at Logan Airport, detained</small>
+
+
+| 🔥: 23 \| 💬: [2](https://news.ycombinator.com/item?id=43372109) \| 🗓️ 2025-03-15
+
+
+<br />
+一名来自新罕布什尔州的**绿卡持有者**法比安·施密特在洛根机场被移民官员拘留，并被关押在罗德岛中央瀑布的唐纳德·W·怀亚特拘留中心。施密特的家人表示，他持有最近更新的绿卡，且没有未决的法律问题。他在机场被**暴力审讯**数小时，甚至被脱光衣服并遭受冷淋浴。施密特因流感住院后，被转移到ICE总部，最终被关押在怀亚特设施。他的家人已聘请律师，并寻求德国领事馆的帮助以争取保释。施密特曾因持有大麻被控轻罪，但案件已被撤销。绿卡持有者可能因某些犯罪行为被驱逐出境，即使这些行为发生在很久以前。
+
+---
+
+## <a name="19"></a>19. 诺基亚N900：未实现的未来 
+<small>🔗 [osnews.com](https://www.osnews.com/story/133160/the-nokia-n900-the-future-that-wasnt/): The Nokia N900: the future that wasn't</small>
+
+
+| 🔥: 21 \| 💬: [9](https://news.ycombinator.com/item?id=43371319) \| 🗓️ 2025-03-15
+
+
+<br />
+诺基亚N900是一款独特的Linux移动设备，代表了**开放平台**与**移动计算**的理想结合。它运行Maemo系统，基于Debian，支持完整的Linux命令行工具，拥有**滑动键盘**和丰富的硬件功能。尽管硬件配置较低，但它深受极客用户喜爱。如今，N900的社区仍在开发更新版本Maemo Leste，而像F(x)tec和GPD等公司也在尝试填补这一市场空白。N900的故事不仅是技术怀旧，更是对**开放技术未来**的期待。
+
+---
+
+## <a name="20"></a>20. 为什么SNES硬件运行速度比预期快，以及为什么这是个问题 
+<small>🔗 [arstechnica.com](https://arstechnica.com/gaming/2025/03/this-small-snes-timing-issue-is-causing-big-speedrun-problems/): Why SNES hardware is running faster than expected and why it's a problem</small>
+
+
+| 🔥: 19 \| 💬: [9](https://news.ycombinator.com/item?id=43373414) \| 🗓️ 2025-03-15
+
+
+<br />
+SNES的**音频处理单元（APU）**使用了廉价的陶瓷谐振器，导致其时钟速度随时间和温度变化，影响了**TASBot**团队在真实硬件上执行工具辅助速通时的帧精确性。研究发现，不同主机的**DSP采样率**存在显著差异，平均为32,076 Hz，高于Nintendo的32,000 Hz标准。这种不一致性使得SNES在工具辅助速通中难以保持同步，甚至在同一主机上也会因启动顺序不同而产生非确定性行为。
+
+---
+
+## <a name="21"></a>21. 特朗普政府取消追踪被绑架乌克兰儿童的合同 
+<small>🔗 [newrepublic.com](https://newrepublic.com/article/192790/trump-kidnapped-ukrainian-kids-nixed-contract): Trump Admin Nixed Contract Helping Kidnapped Ukrainian Children</small>
+
+
+| 🔥: 17 \| 💬: [2](https://news.ycombinator.com/item?id=43371597) \| 🗓️ 2025-03-15
+
+
+<br />
+特朗普政府取消了与耶鲁大学公共卫生学院的一项合同，该合同旨在追踪被俄罗斯绑架的乌克兰儿童，并收集相关证据以移交欧洲执法机构。这一决定可能阻碍乌克兰要求归还被绑架儿童的和平谈判，并削弱对俄罗斯潜在战争罪的追责。**乌克兰**要求归还数千名被绑架儿童，而美国国务院的这一举动可能使这一目标更加难以实现。
+
+---
+
+## <a name="22"></a>22. 马斯克的“数字政变”内幕 
+<small>🔗 [wired.com](https://www.wired.com/story/elon-musk-digital-coup-doge-data-ai/): Inside Elon Musk's 'Digital Coup'</small>
+
+
+| 🔥: 17 \| 💬: [1](https://news.ycombinator.com/item?id=43371929) \| 🗓️ 2025-03-15
+
+
+<br />
+在华盛顿的一次精英聚会上，**埃隆·马斯克**一边与特朗普总统通话，一边策划着对联邦政府的全面改革。他组建了一支由年轻工程师组成的团队，**DOGE**，旨在通过技术手段大幅削减政府预算，甚至接管多个联邦机构。马斯克的目标是**“调试”**美国政府，删除他认为不必要的部分，并收集大量数据以建立一个可搜索的数据库。这一行动引发了广泛争议，被视为一场**“数字政变”**。
+
+---
+
+## <a name="23"></a>23. 马斯克呼吁弹劾法官，裁决推翻DOGE解雇案 
+<small>🔗 [thedailybeast.com](https://www.thedailybeast.com/elon-musk-immediately-calls-for-judges-to-be-impeached-after-rulings-overturn-doge-firings/): Elon Musk Calls for Judges to Be Impeached After Rulings Overturn Doge Firings</small>
+
+
+| 🔥: 17 \| 💬: [2](https://news.ycombinator.com/item?id=43373445) \| 🗓️ 2025-03-15
+
+
+<br />
+在联邦机构被命令恢复数万名联邦雇员的职位后，**埃隆·马斯克**立即呼吁弹劾相关法官。这一裁决推翻了此前因**DOGE**事件引发的解雇决定，引发了广泛争议。马斯克的强烈反应再次将他推上舆论风口浪尖。
 
 ---
