@@ -9,8 +9,8 @@ tags:
 
 
 1. 绕过Firefox缺乏WebUSB支持的黑客技巧；
-1. Briar：点对点加密通讯工具；
 1. Firefox 分叉浏览器的现状与选择；
+1. Briar：点对点加密通讯工具；
 1. 学校接送车队伍：美国的尴尬现象；
 1. 一款会在你收到`314159`时提醒你的2FA应用（2024）；
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [github.com](https://github.com/ArcaneNibble/i-cant-believe-its-not-webusb): I-cant-believe-its-not-webusb: Hacking around lack of WebUSB support in Firefox</small>
 
 
-| 🔥🔥: 289 \| 💬: [261](https://news.ycombinator.com/item?id=43360642) \| 🗓️ 2025-03-14
+| 🔥🔥: 291 \| 💬: [261](https://news.ycombinator.com/item?id=43360642) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -35,23 +35,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. Briar：点对点加密通讯工具 
-<small>🔗 [briarproject.org](https://briarproject.org/how-it-works/): Briar: Peer to Peer Encrypted Messaging</small>
-
-
-| 🔥🔥: 229 \| 💬: [85](https://news.ycombinator.com/item?id=43363031) \| 🗓️ 2025-03-14
-
-
-<br />
-Briar 是一款专为**活动家**、**记者**等需要安全通讯的用户设计的消息应用。它不依赖中央服务器，消息通过**Tor网络**、蓝牙或Wi-Fi直接在设备间同步，确保在断网或监控环境下仍能安全传输。Briar 提供**端到端加密**，防止内容被窃听或篡改，并支持离线同步，抵御审查和网络封锁。未来计划扩展至分布式应用，如危机地图和协作编辑。
-
----
-
-## <a name="3"></a>3. Firefox 分叉浏览器的现状与选择 
+## <a name="2"></a>2. Firefox 分叉浏览器的现状与选择 
 <small>🔗 [lwn.net](https://lwn.net/Articles/1012453/): A look at Firefox forks</small>
 
 
-| 🔥🔥: 228 \| 💬: [157](https://news.ycombinator.com/item?id=43361959) \| 🗓️ 2025-03-14
+| 🔥🔥: 240 \| 💬: [164](https://news.ycombinator.com/item?id=43361959) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -59,11 +47,23 @@ Mozilla 近期的举措令许多 Firefox 用户不满，促使他们寻找替代
 
 ---
 
+## <a name="3"></a>3. Briar：点对点加密通讯工具 
+<small>🔗 [briarproject.org](https://briarproject.org/how-it-works/): Briar: Peer to Peer Encrypted Messaging</small>
+
+
+| 🔥🔥: 240 \| 💬: [88](https://news.ycombinator.com/item?id=43363031) \| 🗓️ 2025-03-14
+
+
+<br />
+Briar 是一款专为**活动家**、**记者**等需要安全通讯的用户设计的消息应用。它不依赖中央服务器，消息通过**Tor网络**、蓝牙或Wi-Fi直接在设备间同步，确保在断网或监控环境下仍能安全传输。Briar 提供**端到端加密**，防止内容被窃听或篡改，并支持离线同步，抵御审查和网络封锁。未来计划扩展至分布式应用，如危机地图和协作编辑。
+
+---
+
 ## <a name="4"></a>4. 学校接送车队伍：美国的尴尬现象 
 <small>🔗 [collegetowns.substack.com](https://collegetowns.substack.com/p/the-school-car-pickup-line-is-a-national): The School Car Pickup Line Is a National Embarrassment</small>
 
 
-| 🔥🔥: 199 \| 💬: [326](https://news.ycombinator.com/item?id=43364761) \| 🗓️ 2025-03-14
+| 🔥🔥: 199 \| 💬: [327](https://news.ycombinator.com/item?id=43364761) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -75,7 +75,7 @@ Mozilla 近期的举措令许多 Firefox 用户不满，促使他们寻找替代
 <small>🔗 [blog.jacobstechtavern.com](https://blog.jacobstechtavern.com/p/building-a-2fa-app-that-detects-patterns): A 2FA app that tells you when you get `314159` (2024)</small>
 
 
-| 🔥🔥: 193 \| 💬: [90](https://news.ycombinator.com/item?id=43363918) \| 🗓️ 2025-03-14
+| 🔥🔥: 195 \| 💬: [92](https://news.ycombinator.com/item?id=43363918) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -83,7 +83,31 @@ Jacob Bartlett开发了一款名为**Check 'em**的2FA应用，专门为那些�
 
 ---
 
-## <a name="6"></a>6. S3的简单性：从对象存储到数据平台的进化 
+## <a name="6"></a>6. 《纽约时报》关闭Tor洋葱服务 
+<small>🔗 [open.nytimes.com](https://open.nytimes.com/https-open-nytimes-com-the-new-york-times-as-a-tor-onion-service-e0d0b67b7482): New York Times shut down Tor Onion service</small>
+
+
+| 🔥🔥: 193 \| 💬: [117](https://news.ycombinator.com/item?id=43368183) \| 🗓️ 2025-03-14
+
+
+<br />
+2017年，《纽约时报》开始尝试通过**Tor洋葱服务**提供nytimes.com的访问，以帮助被封锁或注重隐私的读者。经过多年实验，该报决定关闭Tor服务，并将经验应用于主站和核心产品的开发。用户仍可通过主站、新闻通讯、播客等渠道获取内容，或通过**WhatsApp**和**Telegram**访问被封锁地区的新闻。
+
+---
+
+## <a name="7"></a>7. 苹果将支持与安卓用户的加密RCS消息互通 
+<small>🔗 [theverge.com](https://www.theverge.com/news/629620/apple-iphone-e2ee-encryption-rcs-messaging-android): Apple will soon support encrypted RCS messaging with Android users</small>
+
+
+| 🔥🔥: 182 \| 💬: [103](https://news.ycombinator.com/item?id=43361822) \| 🗓️ 2025-03-14
+
+
+<br />
+苹果宣布将在未来的iOS、iPadOS、macOS和watchOS更新中，增加对**端到端加密（E2EE）RCS消息**的支持。这一功能基于GSM协会发布的最新RCS标准，首次实现了跨平台加密互通。此前，苹果的iMessage已支持E2EE，但RCS消息因缺乏跨平台支持而未加密。谷歌也表示将尽快与移动生态系统合作，扩展这一重要保护功能。
+
+---
+
+## <a name="8"></a>8. S3的简单性：从对象存储到数据平台的进化 
 <small>🔗 [allthingsdistributed.com](https://www.allthingsdistributed.com/2025/03/in-s3-simplicity-is-table-stakes.html): In S3 simplicity is table stakes</small>
 
 
@@ -95,23 +119,11 @@ S3自2006年推出以来，已从简单的对象存储发展为全球领先的**
 
 ---
 
-## <a name="7"></a>7. 《纽约时报》关闭Tor洋葱服务 
-<small>🔗 [open.nytimes.com](https://open.nytimes.com/https-open-nytimes-com-the-new-york-times-as-a-tor-onion-service-e0d0b67b7482): New York Times shut down Tor Onion service</small>
-
-
-| 🔥🔥: 181 \| 💬: [112](https://news.ycombinator.com/item?id=43368183) \| 🗓️ 2025-03-14
-
-
-<br />
-2017年，《纽约时报》开始尝试通过**Tor洋葱服务**提供nytimes.com的访问，以帮助被封锁或注重隐私的读者。经过多年实验，该报决定关闭Tor服务，并将经验应用于主站和核心产品的开发。用户仍可通过主站、新闻通讯、播客等渠道获取内容，或通过**WhatsApp**和**Telegram**访问被封锁地区的新闻。
-
----
-
-## <a name="8"></a>8. 斯多葛主义对富人和权贵的吸引力（2019） 
+## <a name="9"></a>9. 斯多葛主义对富人和权贵的吸引力（2019） 
 <small>🔗 [exurbe.com](https://www.exurbe.com/stoicisms-appeal-to-the-rich-and-powerful/): Stoicism's appeal to the rich and powerful (2019)</small>
 
 
-| 🔥🔥: 178 \| 💬: [274](https://news.ycombinator.com/item?id=43363014) \| 🗓️ 2025-03-14
+| 🔥🔥: 180 \| 💬: [275](https://news.ycombinator.com/item?id=43363014) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -119,11 +131,11 @@ S3自2006年推出以来，已从简单的对象存储发展为全球领先的**
 
 ---
 
-## <a name="9"></a>9. FBI、EPA和财政部要求花旗银行冻结气候资金以追回款项 
+## <a name="10"></a>10. FBI、EPA和财政部要求花旗银行冻结气候资金以追回款项 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/13/fbi-epa-and-treasury-told-citibank-to-freeze-funds-as-trump-administration-tries-to-claw-back-climate-money/): FBI, EPA, and Treasury told Citibank to freeze funds to claw back climate money</small>
 
 
-| 🔥🔥: 177 \| 💬: [110](https://news.ycombinator.com/item?id=43366530) \| 🗓️ 2025-03-14
+| 🔥🔥: 178 \| 💬: [110](https://news.ycombinator.com/item?id=43366530) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -131,23 +143,11 @@ S3自2006年推出以来，已从简单的对象存储发展为全球领先的**
 
 ---
 
-## <a name="10"></a>10. 苹果将支持与安卓用户的加密RCS消息互通 
-<small>🔗 [theverge.com](https://www.theverge.com/news/629620/apple-iphone-e2ee-encryption-rcs-messaging-android): Apple will soon support encrypted RCS messaging with Android users</small>
-
-
-| 🔥🔥: 160 \| 💬: [93](https://news.ycombinator.com/item?id=43361822) \| 🗓️ 2025-03-14
-
-
-<br />
-苹果宣布将在未来的iOS、iPadOS、macOS和watchOS更新中，增加对**端到端加密（E2EE）RCS消息**的支持。这一功能基于GSM协会发布的最新RCS标准，首次实现了跨平台加密互通。此前，苹果的iMessage已支持E2EE，但RCS消息因缺乏跨平台支持而未加密。谷歌也表示将尽快与移动生态系统合作，扩展这一重要保护功能。
-
----
-
 ## <a name="11"></a>11. 让Postgres扩展：从单机到分片的挑战与解决方案 
 <small>🔗 [pgdog.dev](https://pgdog.dev/blog/you-can-make-postgres-scale): Making Postgres scale</small>
 
 
-| 🔥🔥: 158 \| 💬: [127](https://news.ycombinator.com/item?id=43364668) \| 🗓️ 2025-03-14
+| 🔥🔥: 161 \| 💬: [129](https://news.ycombinator.com/item?id=43364668) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -155,23 +155,11 @@ Postgres的扩展性一直备受争议，尤其是在面对高写入负载时。
 
 ---
 
-## <a name="12"></a>12. AMD Strix Halo 深度解析：高性能APU的突破 
-<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/amds-strix-halo-under-the-hood): AMD's Strix Halo under the hood</small>
-
-
-| 🔥🔥: 153 \| 💬: [121](https://news.ycombinator.com/item?id=43360894) \| 🗓️ 2025-03-14
-
-
-<br />
-AMD在CES 2025上展示了其全新**Strix Halo SoC**，这是一款集成了强大CPU和GPU的高性能APU。**Zen 5架构**的CPU核心经过优化，专注于低功耗和高效率，同时配备了**512位FPU**，适合工作站级性能。GPU部分则通过**32MB MALL缓存**提升带宽，专为图形处理优化。该SoC采用创新的**海量导线互联技术**，降低了延迟和功耗，适合轻薄设备。
-
----
-
-## <a name="13"></a>13. 3月28日起，你对Echo说的每句话都将发送给亚马逊 
+## <a name="12"></a>12. 3月28日起，你对Echo说的每句话都将发送给亚马逊 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/everything-you-say-to-your-echo-will-be-sent-to-amazon-starting-on-march-28/): Everything you say to your Echo will be sent to Amazon starting on March 28</small>
 
 
-| 🔥🔥: 151 \| 💬: [64](https://news.ycombinator.com/item?id=43367536) \| 🗓️ 2025-03-14
+| 🔥🔥: 159 \| 💬: [66](https://news.ycombinator.com/item?id=43367536) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -179,35 +167,11 @@ AMD在CES 2025上展示了其全新**Strix Halo SoC**，这是一款集成了强
 
 ---
 
-## <a name="14"></a>14. 利用GPU解密Akira勒索软件加密文件 
-<small>🔗 [tinyhack.com](https://tinyhack.com/2025/03/13/decrypting-encrypted-files-from-akira-ransomware-linux-esxi-variant-2024-using-a-bunch-of-gpus/): Decrypting encrypted files from Akira ransomware using a bunch of GPUs</small>
-
-
-| 🔥🔥: 149 \| 💬: [27](https://news.ycombinator.com/item?id=43365083) \| 🗓️ 2025-03-14
-
-
-<br />
-作者分享了如何在不支付赎金的情况下，帮助一家公司恢复被**Akira勒索软件**加密的文件。通过分析勒索软件的时间戳生成机制，作者发现其使用四个纳秒级时间戳作为种子，生成唯一密钥。尽管**暴力破解**的复杂度极高，但通过优化算法并利用GPU加速，作者成功将解密时间从数百天缩短至几个月。最终，通过已知的明文和密文对比，成功恢复了文件。
-
----
-
-## <a name="15"></a>15. 字距调整的硬核方法 
-<small>🔗 [home.octetfont.com](https://home.octetfont.com/blog/kerning-hard.html): Kerning, the Hard Way</small>
-
-
-| 🔥🔥: 141 \| 💬: [37](https://news.ycombinator.com/item?id=43366479) \| 🗓️ 2025-03-14
-
-
-<br />
-David Jones 分享了他设计的一款字体，灵感来自Schaefer Versalien，但基于他的模板字体Arugula进行了修改。由于字体采用垂直条纹背景，传统的**GPOS字距调整**无法使用。他通过**GSUB替换规则**，将字母分割并重新组合，解决了字距问题。这种方法需要为每个字母创建左右部分，并为每个字距对生成独特的连接部分。虽然复杂，但通过自定义Python脚本和字体工具库，他成功实现了这一设计。
-
----
-
-## <a name="16"></a>16. 热门 GitHub Action tj-actions/changed-files 遭入侵 
+## <a name="13"></a>13. 热门 GitHub Action tj-actions/changed-files 遭入侵 
 <small>🔗 [semgrep.dev](https://semgrep.dev/blog/2025/popular-github-action-tj-actionschanged-files-is-compromised/): Popular GitHub Action tj-actions/changed-files is compromised</small>
 
 
-| 🔥🔥: 139 \| 💬: [92](https://news.ycombinator.com/item?id=43368870) \| 🗓️ 2025-03-14
+| 🔥🔥: 156 \| 💬: [107](https://news.ycombinator.com/item?id=43368870) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -215,11 +179,47 @@ David Jones 分享了他设计的一款字体，灵感来自Schaefer Versalien�
 
 ---
 
+## <a name="14"></a>14. 利用GPU解密Akira勒索软件加密文件 
+<small>🔗 [tinyhack.com](https://tinyhack.com/2025/03/13/decrypting-encrypted-files-from-akira-ransomware-linux-esxi-variant-2024-using-a-bunch-of-gpus/): Decrypting encrypted files from Akira ransomware using a bunch of GPUs</small>
+
+
+| 🔥🔥: 154 \| 💬: [29](https://news.ycombinator.com/item?id=43365083) \| 🗓️ 2025-03-14
+
+
+<br />
+作者分享了如何在不支付赎金的情况下，帮助一家公司恢复被**Akira勒索软件**加密的文件。通过分析勒索软件的时间戳生成机制，作者发现其使用四个纳秒级时间戳作为种子，生成唯一密钥。尽管**暴力破解**的复杂度极高，但通过优化算法并利用GPU加速，作者成功将解密时间从数百天缩短至几个月。最终，通过已知的明文和密文对比，成功恢复了文件。
+
+---
+
+## <a name="15"></a>15. AMD Strix Halo 深度解析：高性能APU的突破 
+<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/amds-strix-halo-under-the-hood): AMD's Strix Halo under the hood</small>
+
+
+| 🔥🔥: 153 \| 💬: [122](https://news.ycombinator.com/item?id=43360894) \| 🗓️ 2025-03-14
+
+
+<br />
+AMD在CES 2025上展示了其全新**Strix Halo SoC**，这是一款集成了强大CPU和GPU的高性能APU。**Zen 5架构**的CPU核心经过优化，专注于低功耗和高效率，同时配备了**512位FPU**，适合工作站级性能。GPU部分则通过**32MB MALL缓存**提升带宽，专为图形处理优化。该SoC采用创新的**海量导线互联技术**，降低了延迟和功耗，适合轻薄设备。
+
+---
+
+## <a name="16"></a>16. 字距调整的硬核方法 
+<small>🔗 [home.octetfont.com](https://home.octetfont.com/blog/kerning-hard.html): Kerning, the Hard Way</small>
+
+
+| 🔥🔥: 146 \| 💬: [39](https://news.ycombinator.com/item?id=43366479) \| 🗓️ 2025-03-14
+
+
+<br />
+David Jones 分享了他设计的一款字体，灵感来自Schaefer Versalien，但基于他的模板字体Arugula进行了修改。由于字体采用垂直条纹背景，传统的**GPOS字距调整**无法使用。他通过**GSUB替换规则**，将字母分割并重新组合，解决了字距问题。这种方法需要为每个字母创建左右部分，并为每个字距对生成独特的连接部分。虽然复杂，但通过自定义Python脚本和字体工具库，他成功实现了这一设计。
+
+---
+
 ## <a name="17"></a>17. 从AWS迁移到欧洲云——我们如何将成本降低62% 
 <small>🔗 [hopsworks.ai](https://www.hopsworks.ai/post/migrating-from-aws-to-a-european-cloud-how-we-cut-costs-by-62): Migrating from AWS to a European Cloud – How We Cut Costs by 62%</small>
 
 
-| 🔥🔥: 134 \| 💬: [59](https://news.ycombinator.com/item?id=43361366) \| 🗓️ 2025-03-14
+| 🔥🔥: 135 \| 💬: [59](https://news.ycombinator.com/item?id=43361366) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -243,7 +243,7 @@ David Jones 分享了他设计的一款字体，灵感来自Schaefer Versalien�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2503.09573): Block Diffusion: Interpolating between autoregressive and diffusion models</small>
 
 
-| 🔥🔥: 113 \| 💬: [29](https://news.ycombinator.com/item?id=43363247) \| 🗓️ 2025-03-14
+| 🔥🔥: 117 \| 💬: [29](https://news.ycombinator.com/item?id=43363247) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -267,7 +267,7 @@ David Jones 分享了他设计的一款字体，灵感来自Schaefer Versalien�
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/13/bluesky-quickly-sold-out-of-the-t-shirt-its-ceo-wore-to-troll-mark-zuckerberg/): Bluesky quickly sold out of the T-shirt its CEO wore to troll Mark Zuckerberg</small>
 
 
-| 🔥: 79 \| 💬: [76](https://news.ycombinator.com/item?id=43366210) \| 🗓️ 2025-03-14
+| 🔥: 79 \| 💬: [77](https://news.ycombinator.com/item?id=43366210) \| 🗓️ 2025-03-14
 
 
 <br />
@@ -275,7 +275,19 @@ Bluesky CEO Jay Graber在SXSW舞台上穿了一件印有拉丁文“Mundus sine 
 
 ---
 
-## <a name="22"></a>22. 展示：CodeVideo——历时两年打造的事件驱动IDE 
+## <a name="22"></a>22. 8小时限时进食窗口对减重有效 
+<small>🔗 [nia.nih.gov](https://www.nia.nih.gov/news/timeframe-8-hour-restricted-eating-irrelevant-weight-loss): Timeframe of 8-hour restricted eating irrelevant to weight loss</small>
+
+
+| 🔥: 64 \| 💬: [76](https://news.ycombinator.com/item?id=43364843) \| 🗓️ 2025-03-14
+
+
+<br />
+研究表明，**8小时限时进食**无论选择何时段，都能帮助肥胖者减重并改善心血管和代谢健康。研究比较了早、中、自选三个8小时进食窗口，发现所有限时进食组比地中海饮食对照组减重更多，且**皮下脂肪减少**和**代谢指标改善**显著。研究基于欧洲人群，未来需验证是否适用于美国多样化人群。
+
+---
+
+## <a name="23"></a>23. 展示：CodeVideo——历时两年打造的事件驱动IDE 
 <small>🔗 [studio.codevideo.io](https://studio.codevideo.io): Show HN: CodeVideo – Two years in the making to build an event-sourced IDE</small>
 
 
@@ -287,23 +299,11 @@ CodeVideo™ Studio 是一款**事件驱动的IDE**，支持用户通过添加�
 
 ---
 
-## <a name="23"></a>23. 8小时限时进食窗口对减重有效 
-<small>🔗 [nia.nih.gov](https://www.nia.nih.gov/news/timeframe-8-hour-restricted-eating-irrelevant-weight-loss): Timeframe of 8-hour restricted eating irrelevant to weight loss</small>
-
-
-| 🔥: 63 \| 💬: [74](https://news.ycombinator.com/item?id=43364843) \| 🗓️ 2025-03-14
-
-
-<br />
-研究表明，**8小时限时进食**无论选择何时段，都能帮助肥胖者减重并改善心血管和代谢健康。研究比较了早、中、自选三个8小时进食窗口，发现所有限时进食组比地中海饮食对照组减重更多，且**皮下脂肪减少**和**代谢指标改善**显著。研究基于欧洲人群，未来需验证是否适用于美国多样化人群。
-
----
-
 ## <a name="24"></a>24. ProPublica如何负责任地使用AI进行调查 
 <small>🔗 [propublica.org](https://www.propublica.org/article/using-ai-responsibly-for-reporting): How ProPublica Uses AI in Its Investigations</small>
 
 
-| 🔥: 61 \| 💬: [13](https://news.ycombinator.com/item?id=43363474) \| 🗓️ 2025-03-14
+| 🔥: 63 \| 💬: [13](https://news.ycombinator.com/item?id=43363474) \| 🗓️ 2025-03-14
 
 
 <br />
