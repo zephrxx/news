@@ -27,7 +27,7 @@ tags:
 <small>🔗 [brodzinski.com](https://brodzinski.com/2025/03/milk-kanban.html): Milk Kanban</small>
 
 
-| 🔥🔥: 282 \| 💬: [118](https://news.ycombinator.com/item?id=43373157) \| 🗓️ 2025-03-15
+| 🔥🔥: 293 \| 💬: [122](https://news.ycombinator.com/item?id=43373157) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/christian-fei/my-yt): Show HN: A personal YouTube frontend based on yt-dlp</small>
 
 
-| 🔥🔥: 181 \| 💬: [111](https://news.ycombinator.com/item?id=43373242) \| 🗓️ 2025-03-15
+| 🔥🔥: 189 \| 💬: [121](https://news.ycombinator.com/item?id=43373242) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [publications.ersnet.org](https://publications.ersnet.org/content/erj/49/6/1700470): Finland's National Allergy Program Successfully Reduces Allergic Diseases</small>
 
 
-| 🔥🔥: 178 \| 💬: [93](https://news.ycombinator.com/item?id=43370956) \| 🗓️ 2025-03-15
+| 🔥🔥: 178 \| 💬: [94](https://news.ycombinator.com/item?id=43370956) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [github.blog](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/): Sign in as anyone: Bypassing SAML SSO authentication with parser differentials</small>
 
 
-| 🔥🔥: 158 \| 💬: [52](https://news.ycombinator.com/item?id=43374519) \| 🗓️ 2025-03-15
+| 🔥🔥: 178 \| 💬: [59](https://news.ycombinator.com/item?id=43374519) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -75,7 +75,7 @@ GitHub安全实验室的研究人员发现，**SAML单点登录（SSO）**认证
 <small>🔗 [cantgetmuchhigher.com](https://www.cantgetmuchhigher.com/p/how-many-artists-did-the-beatles): How many artists' careers did the Beatles kill?</small>
 
 
-| 🔥🔥: 134 \| 💬: [88](https://news.ycombinator.com/item?id=43373765) \| 🗓️ 2025-03-15
+| 🔥🔥: 142 \| 💬: [102](https://news.ycombinator.com/item?id=43373765) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -87,7 +87,7 @@ GitHub安全实验室的研究人员发现，**SAML单点登录（SSO）**认证
 <small>🔗 [therasr.github.io](https://therasr.github.io/): Arbitrary-Scale Super-Resolution with Neural Heat Fields</small>
 
 
-| 🔥🔥: 129 \| 💬: [44](https://news.ycombinator.com/item?id=43371583) \| 🗓️ 2025-03-15
+| 🔥🔥: 130 \| 💬: [44](https://news.ycombinator.com/item?id=43371583) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -99,7 +99,7 @@ GitHub安全实验室的研究人员发现，**SAML单点登录（SSO）**认证
 <small>🔗 [susam.net](https://susam.net/lemma-for-ftgt.html): Lemma for the Fundamental Theorem of Galois Theory</small>
 
 
-| 🔥: 98 \| 💬: [27](https://news.ycombinator.com/item?id=43373196) \| 🗓️ 2025-03-15
+| 🔥🔥: 104 \| 💬: [27](https://news.ycombinator.com/item?id=43373196) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -111,7 +111,7 @@ GitHub安全实验室的研究人员发现，**SAML单点登录（SSO）**认证
 <small>🔗 [knowablemagazine.org](https://knowablemagazine.org/content/article/technology/2025/nigeria-bets-on-solar-minigrids-for-climate-livelihood): For climate and livelihoods, Africa bets big on solar mini-grids</small>
 
 
-| 🔥: 94 \| 💬: [70](https://news.ycombinator.com/item?id=43372729) \| 🗓️ 2025-03-15
+| 🔥: 96 \| 💬: [70](https://news.ycombinator.com/item?id=43372729) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -131,23 +131,11 @@ GitHub安全实验室的研究人员发现，**SAML单点登录（SSO）**认证
 
 ---
 
-## <a name="10"></a>10. 日落几何：用几何代数测量地球半径 
-<small>🔗 [shapeoperator.com](https://www.shapeoperator.com/2016/12/12/sunset-geometry/): Sunset Geometry (2016)</small>
-
-
-| 🔥: 74 \| 💬: [9](https://news.ycombinator.com/item?id=43372431) \| 🗓️ 2025-03-15
-
-
-<br />
-Robert Vanderbei提出了一种通过拍摄日落照片来测量地球半径的方法，基于经典三角学。本文则使用**几何代数**重新分析这一问题，展示了其在解决三角学问题中的强大能力。通过分析太阳及其反射的角度，结合地球曲率的影响，可以推导出地球半径与相机高度的比例。几何代数的引入简化了向量运算，提供了一种更直观的数学工具。
-
----
-
-## <a name="11"></a>11. 《他们离我的身体很近：九寸钉与罗宾·芬克的圣徒传》 
+## <a name="10"></a>10. 《他们离我的身体很近：九寸钉与罗宾·芬克的圣徒传》 
 <small>🔗 [thewhitereview.org](https://www.thewhitereview.org/feature/theyre-really-close-to-my-body/): They're Close to My Body: A Hagiography of Nine Inch Nails and Robin Finck (2020)</small>
 
 
-| 🔥: 74 \| 💬: [38](https://news.ycombinator.com/item?id=43374237) \| 🗓️ 2025-03-15
+| 🔥: 80 \| 💬: [45](https://news.ycombinator.com/item?id=43374237) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -155,11 +143,23 @@ Robert Vanderbei提出了一种通过拍摄日落照片来测量地球半径的�
 
 ---
 
+## <a name="11"></a>11. 日落几何：用几何代数测量地球半径 
+<small>🔗 [shapeoperator.com](https://www.shapeoperator.com/2016/12/12/sunset-geometry/): Sunset Geometry (2016)</small>
+
+
+| 🔥: 76 \| 💬: [10](https://news.ycombinator.com/item?id=43372431) \| 🗓️ 2025-03-15
+
+
+<br />
+Robert Vanderbei提出了一种通过拍摄日落照片来测量地球半径的方法，基于经典三角学。本文则使用**几何代数**重新分析这一问题，展示了其在解决三角学问题中的强大能力。通过分析太阳及其反射的角度，结合地球曲率的影响，可以推导出地球半径与相机高度的比例。几何代数的引入简化了向量运算，提供了一种更直观的数学工具。
+
+---
+
 ## <a name="12"></a>12. 我们的宇宙是否被困在一个黑洞中？JWST望远镜的惊人发现 
 <small>🔗 [space.com](https://www.space.com/space-exploration/james-webb-space-telescope/is-our-universe-trapped-inside-a-black-hole-this-james-webb-space-telescope-discovery-might-blow-your-mind): Is our universe trapped inside a black hole? This JWS Telescope discovery</small>
 
 
-| 🔥: 73 \| 💬: [52](https://news.ycombinator.com/item?id=43372271) \| 🗓️ 2025-03-15
+| 🔥: 74 \| 💬: [52](https://news.ycombinator.com/item?id=43372271) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -167,23 +167,11 @@ Robert Vanderbei提出了一种通过拍摄日落照片来测量地球半径的�
 
 ---
 
-## <a name="13"></a>13. 时尚购物：基于最近邻算法的推荐系统 
-<small>🔗 [vibewall.shop](https://vibewall.shop/): Show HN: Fashion Shopping with Nearest Neighbors</small>
-
-
-| 🔥: 55 \| 💬: [18](https://news.ycombinator.com/item?id=43373163) \| 🗓️ 2025-03-15
-
-
-<br />
-该平台允许用户通过输入关键词、上传图片或选择预设图片来**设置购物氛围**，系统会根据**最近邻算法**推荐相关商品。用户可查看商品名称、零售商和价格，但加载过程中可能出现错误。
-
----
-
-## <a name="14"></a>14. 如何像婴儿一样学习新语言 
+## <a name="13"></a>13. 如何像婴儿一样学习新语言 
 <small>🔗 [theconversation.com](https://theconversation.com/how-to-learn-a-language-like-a-baby-250551): How to learn a new language like a baby</small>
 
 
-| 🔥: 48 \| 💬: [25](https://news.ycombinator.com/item?id=43375307) \| 🗓️ 2025-03-15
+| 🔥: 61 \| 💬: [29](https://news.ycombinator.com/item?id=43375307) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -191,11 +179,35 @@ Robert Vanderbei提出了一种通过拍摄日落照片来测量地球半径的�
 
 ---
 
-## <a name="15"></a>15. Cursor 悄悄在更新日志中翻倍了 Claude-3.7-Thinking 的价格 
+## <a name="14"></a>14. 时尚购物：基于最近邻算法的推荐系统 
+<small>🔗 [vibewall.shop](https://vibewall.shop/): Show HN: Fashion Shopping with Nearest Neighbors</small>
+
+
+| 🔥: 56 \| 💬: [18](https://news.ycombinator.com/item?id=43373163) \| 🗓️ 2025-03-15
+
+
+<br />
+该平台允许用户通过输入关键词、上传图片或选择预设图片来**设置购物氛围**，系统会根据**最近邻算法**推荐相关商品。用户可查看商品名称、零售商和价格，但加载过程中可能出现错误。
+
+---
+
+## <a name="15"></a>15. Cloudflare要求浏览器开发者签署保密协议以修复浏览器屏蔽问题 
+<small>🔗 [forum.palemoon.org](https://forum.palemoon.org/viewtopic.php?t=32127): Cloudflare asks browser devs to sign insane NDAs before fixing browser blocking</small>
+
+
+| 🔥: 46 \| 💬: [1](https://news.ycombinator.com/item?id=43376064) \| 🗓️ 2025-03-15
+
+
+<br />
+Cloudflare的验证码和“遭受攻击”模式导致**Pale Moon**等浏览器无法访问受保护的网站。尽管社区多次报告问题，Cloudflare的沟通渠道极为有限，且未回应开发者请求。**Firefox ESR**曾因企业压力得到修复，但其他浏览器仍受影响。开发者表示，**法律诉讼**可能是最后手段，但过程漫长且复杂。
+
+---
+
+## <a name="16"></a>16. Cursor 悄悄在更新日志中翻倍了 Claude-3.7-Thinking 的价格 
 <small>🔗 [cursor.com](https://www.cursor.com/en/changelog): Cursor stealthily doubled the price of Claude-3.7-Thinking in a changelog</small>
 
 
-| 🔥: 38 \| 💬: [4](https://news.ycombinator.com/item?id=43375201) \| 🗓️ 2025-03-15
+| 🔥: 40 \| 💬: [4](https://news.ycombinator.com/item?id=43375201) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -203,11 +215,11 @@ Robert Vanderbei提出了一种通过拍摄日落照片来测量地球半径的�
 
 ---
 
-## <a name="16"></a>16. Cradle – 开源协作威胁情报中心 
+## <a name="17"></a>17. Cradle – 开源协作威胁情报中心 
 <small>🔗 [cradle.sh](https://cradle.sh/): Cradle – Open-Source Collaborative Threat Intelligence Hub</small>
 
 
-| 🔥: 35 \| 💬: [5](https://news.ycombinator.com/item?id=43371603) \| 🗓️ 2025-03-15
+| 🔥: 36 \| 💬: [5](https://news.ycombinator.com/item?id=43371603) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -215,7 +227,19 @@ Cradle 是一个**开源协作知识管理平台**，专为威胁情报研究人
 
 ---
 
-## <a name="17"></a>17. Go语言的多返回值设计是否是其最大的错误？ 
+## <a name="18"></a>18. 为什么SNES硬件运行速度比预期快，以及为什么这是个问题 
+<small>🔗 [arstechnica.com](https://arstechnica.com/gaming/2025/03/this-small-snes-timing-issue-is-causing-big-speedrun-problems/): Why SNES hardware is running faster than expected and why it's a problem</small>
+
+
+| 🔥: 34 \| 💬: [9](https://news.ycombinator.com/item?id=43373414) \| 🗓️ 2025-03-15
+
+
+<br />
+SNES的**音频处理单元（APU）**使用了廉价的陶瓷谐振器，导致其时钟速度随时间和温度变化，影响了**TASBot**团队在真实硬件上执行工具辅助速通时的帧精确性。研究发现，不同主机的**DSP采样率**存在显著差异，平均为32,076 Hz，高于Nintendo的32,000 Hz标准。这种不一致性使得SNES在工具辅助速通中难以保持同步，甚至在同一主机上也会因启动顺序不同而产生非确定性行为。
+
+---
+
+## <a name="19"></a>19. Go语言的多返回值设计是否是其最大的错误？ 
 <small>🔗 [herecomesthemoon.net](https://herecomesthemoon.net/2025/03/multiple-return-values-in-go/): Were multiple return values Go's biggest mistake?</small>
 
 
@@ -227,19 +251,7 @@ Go语言的多返回值设计看似无害，但实际上影响了语言的整体
 
 ---
 
-## <a name="18"></a>18. 为什么SNES硬件运行速度比预期快，以及为什么这是个问题 
-<small>🔗 [arstechnica.com](https://arstechnica.com/gaming/2025/03/this-small-snes-timing-issue-is-causing-big-speedrun-problems/): Why SNES hardware is running faster than expected and why it's a problem</small>
-
-
-| 🔥: 30 \| 💬: [9](https://news.ycombinator.com/item?id=43373414) \| 🗓️ 2025-03-15
-
-
-<br />
-SNES的**音频处理单元（APU）**使用了廉价的陶瓷谐振器，导致其时钟速度随时间和温度变化，影响了**TASBot**团队在真实硬件上执行工具辅助速通时的帧精确性。研究发现，不同主机的**DSP采样率**存在显著差异，平均为32,076 Hz，高于Nintendo的32,000 Hz标准。这种不一致性使得SNES在工具辅助速通中难以保持同步，甚至在同一主机上也会因启动顺序不同而产生非确定性行为。
-
----
-
-## <a name="19"></a>19. LearnLM：基于学习科学原则的实验性任务模型（2024） 
+## <a name="20"></a>20. LearnLM：基于学习科学原则的实验性任务模型（2024） 
 <small>🔗 [ai.google.dev](https://ai.google.dev/gemini-api/docs/learnlm): LearnLM: An experimental task-specific model for learning science principles (2024)</small>
 
 
@@ -251,11 +263,11 @@ LearnLM 是一款实验性任务模型，专为教学和学习场景设计，遵
 
 ---
 
-## <a name="20"></a>20. 新罕布什尔州绿卡持有者在洛根机场被拘留并审讯 
+## <a name="21"></a>21. 新罕布什尔州绿卡持有者在洛根机场被拘留并审讯 
 <small>🔗 [nhpr.org](https://www.nhpr.org/nh-news/2025-03-14/green-card-holder-from-new-hampshire-interrogated-at-logan-airport-detained): Green card holder from New Hampshire 'interrogated' at Logan Airport, detained</small>
 
 
-| 🔥: 24 \| 💬: [2](https://news.ycombinator.com/item?id=43372109) \| 🗓️ 2025-03-15
+| 🔥: 25 \| 💬: [2](https://news.ycombinator.com/item?id=43372109) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -263,7 +275,31 @@ LearnLM 是一款实验性任务模型，专为教学和学习场景设计，遵
 
 ---
 
-## <a name="21"></a>21. 诺基亚N900：未实现的未来 
+## <a name="22"></a>22. Aiopandas：为Pandas添加异步支持，加速API/LLM调用 
+<small>🔗 [github.com](https://github.com/telekinesis-inc/aiopandas): Show HN: Aiopandas – Async .apply() and .map() for Pandas, Faster API/LLMs Calls</small>
+
+
+| 🔥: 23 \| 💬: [1](https://news.ycombinator.com/item?id=43374505) \| 🗓️ 2025-03-15
+
+
+<br />
+Aiopandas 是一个轻量级的 Pandas 补丁，为 `map`、`apply`、`applymap`、`aggregate` 和 `transform` 等方法添加了**异步支持**，允许无缝处理异步函数，并通过 `max_parallel` 控制并发执行。它支持 `tqdm` 实时进度跟踪，适用于**API调用**、**数据库查询**等异步I/O操作，显著提升Pandas工作流的效率。只需简单替换 `.map()` 为 `.amap()` 即可使用。
+
+---
+
+## <a name="23"></a>23. AutoHete：一种自动高效的LLM异构训练系统 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2503.01890): AutoHete: An Automatic and Efficient Heterogeneous Training System for LLMs</small>
+
+
+| 🔥: 22 \| 💬: [0](https://news.ycombinator.com/item?id=43374283) \| 🗓️ 2025-03-15
+
+
+<br />
+Transformer架构的**大语言模型（LLMs）**在序列建模和文本生成方面表现出色，但GPU内存限制阻碍了许多研究者的训练。现有异构训练方法虽扩展了可训练模型规模，但引入了大量通信开销和CPU负载。本文提出**AutoHete**，一种兼容单GPU和多GPU环境的自动高效异构训练系统。它根据硬件配置和LLM需求动态调整**激活检查点**、**参数卸载**和**优化器卸载**，并通过优先级调度机制最大化训练迭代间的操作重叠，提升吞吐量。实验表明，AutoHete在多种模型规模和配置下，吞吐量提升1.32~1.91倍。
+
+---
+
+## <a name="24"></a>24. 诺基亚N900：未实现的未来 
 <small>🔗 [osnews.com](https://www.osnews.com/story/133160/the-nokia-n900-the-future-that-wasnt/): The Nokia N900: the future that wasn't</small>
 
 
@@ -275,19 +311,7 @@ LearnLM 是一款实验性任务模型，专为教学和学习场景设计，遵
 
 ---
 
-## <a name="22"></a>22. AutoHete：一种自动高效的LLM异构训练系统 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2503.01890): AutoHete: An Automatic and Efficient Heterogeneous Training System for LLMs</small>
-
-
-| 🔥: 21 \| 💬: [0](https://news.ycombinator.com/item?id=43374283) \| 🗓️ 2025-03-15
-
-
-<br />
-Transformer架构的**大语言模型（LLMs）**在序列建模和文本生成方面表现出色，但GPU内存限制阻碍了许多研究者的训练。现有异构训练方法虽扩展了可训练模型规模，但引入了大量通信开销和CPU负载。本文提出**AutoHete**，一种兼容单GPU和多GPU环境的自动高效异构训练系统。它根据硬件配置和LLM需求动态调整**激活检查点**、**参数卸载**和**优化器卸载**，并通过优先级调度机制最大化训练迭代间的操作重叠，提升吞吐量。实验表明，AutoHete在多种模型规模和配置下，吞吐量提升1.32~1.91倍。
-
----
-
-## <a name="23"></a>23. 特朗普政府取消追踪被绑架乌克兰儿童的合同 
+## <a name="25"></a>25. 特朗普政府取消追踪被绑架乌克兰儿童的合同 
 <small>🔗 [newrepublic.com](https://newrepublic.com/article/192790/trump-kidnapped-ukrainian-kids-nixed-contract): Trump Admin Nixed Contract Helping Kidnapped Ukrainian Children</small>
 
 
@@ -296,29 +320,5 @@ Transformer架构的**大语言模型（LLMs）**在序列建模和文本生成�
 
 <br />
 特朗普政府取消了与耶鲁大学公共卫生学院的一项合同，该合同旨在追踪被俄罗斯绑架的乌克兰儿童，并收集相关证据以移交欧洲执法机构。这一决定可能阻碍乌克兰要求归还被绑架儿童的和平谈判，并削弱对俄罗斯潜在战争罪的追责。**乌克兰**要求归还数千名被绑架儿童，而美国国务院的这一举动可能使这一目标更加难以实现。
-
----
-
-## <a name="24"></a>24. 马斯克呼吁弹劾法官，裁决推翻DOGE解雇案 
-<small>🔗 [thedailybeast.com](https://www.thedailybeast.com/elon-musk-immediately-calls-for-judges-to-be-impeached-after-rulings-overturn-doge-firings/): Elon Musk Calls for Judges to Be Impeached After Rulings Overturn Doge Firings</small>
-
-
-| 🔥: 18 \| 💬: [2](https://news.ycombinator.com/item?id=43373445) \| 🗓️ 2025-03-15
-
-
-<br />
-在联邦机构被命令恢复数万名联邦雇员的职位后，**埃隆·马斯克**立即呼吁弹劾相关法官。这一裁决推翻了此前因**DOGE**事件引发的解雇决定，引发了广泛争议。马斯克的强烈反应再次将他推上舆论风口浪尖。
-
----
-
-## <a name="25"></a>25. 马斯克的“数字政变”内幕 
-<small>🔗 [wired.com](https://www.wired.com/story/elon-musk-digital-coup-doge-data-ai/): Inside Elon Musk's 'Digital Coup'</small>
-
-
-| 🔥: 17 \| 💬: [1](https://news.ycombinator.com/item?id=43371929) \| 🗓️ 2025-03-15
-
-
-<br />
-在华盛顿的一次精英聚会上，**埃隆·马斯克**一边与特朗普总统通话，一边策划着对联邦政府的全面改革。他组建了一支由年轻工程师组成的团队，**DOGE**，旨在通过技术手段大幅削减政府预算，甚至接管多个联邦机构。马斯克的目标是**“调试”**美国政府，删除他认为不必要的部分，并收集大量数据以建立一个可搜索的数据库。这一行动引发了广泛争议，被视为一场**“数字政变”**。
 
 ---
