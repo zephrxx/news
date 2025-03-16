@@ -10,8 +10,8 @@ tags:
 
 1. 牛奶看板：简单而高效的视觉信号系统；
 1. 个人YouTube前端：基于yt-dlp的无广告体验；
-1. 芬兰国家过敏计划成功减少过敏性疾病；
 1. 以任意身份登录：利用解析差异绕过SAML单点登录认证；
+1. 芬兰国家过敏计划成功减少过敏性疾病；
 1. 披头士乐队“杀死”了多少艺术家？；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [brodzinski.com](https://brodzinski.com/2025/03/milk-kanban.html): Milk Kanban</small>
 
 
-| 🔥🔥: 293 \| 💬: [122](https://news.ycombinator.com/item?id=43373157) \| 🗓️ 2025-03-15
+| 🔥🔥: 298 \| 💬: [125](https://news.ycombinator.com/item?id=43373157) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/christian-fei/my-yt): Show HN: A personal YouTube frontend based on yt-dlp</small>
 
 
-| 🔥🔥: 189 \| 💬: [121](https://news.ycombinator.com/item?id=43373242) \| 🗓️ 2025-03-15
+| 🔥🔥: 199 \| 💬: [127](https://news.ycombinator.com/item?id=43373242) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -47,7 +47,19 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 芬兰国家过敏计划成功减少过敏性疾病 
+## <a name="3"></a>3. 以任意身份登录：利用解析差异绕过SAML单点登录认证 
+<small>🔗 [github.blog](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/): Sign in as anyone: Bypassing SAML SSO authentication with parser differentials</small>
+
+
+| 🔥🔥: 187 \| 💬: [67](https://news.ycombinator.com/item?id=43374519) \| 🗓️ 2025-03-15
+
+
+<br />
+GitHub安全实验室的研究人员发现，**SAML单点登录（SSO）**认证系统存在漏洞，攻击者可通过**解析差异**绕过认证，冒充任意用户。该漏洞源于不同解析器对XML数据的处理方式不一致，导致认证机制失效。建议开发者检查并修复相关实现，确保安全性。
+
+---
+
+## <a name="4"></a>4. 芬兰国家过敏计划成功减少过敏性疾病 
 <small>🔗 [publications.ersnet.org](https://publications.ersnet.org/content/erj/49/6/1700470): Finland's National Allergy Program Successfully Reduces Allergic Diseases</small>
 
 
@@ -59,23 +71,11 @@ tags:
 
 ---
 
-## <a name="4"></a>4. 以任意身份登录：利用解析差异绕过SAML单点登录认证 
-<small>🔗 [github.blog](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/): Sign in as anyone: Bypassing SAML SSO authentication with parser differentials</small>
-
-
-| 🔥🔥: 178 \| 💬: [59](https://news.ycombinator.com/item?id=43374519) \| 🗓️ 2025-03-15
-
-
-<br />
-GitHub安全实验室的研究人员发现，**SAML单点登录（SSO）**认证系统存在漏洞，攻击者可通过**解析差异**绕过认证，冒充任意用户。该漏洞源于不同解析器对XML数据的处理方式不一致，导致认证机制失效。建议开发者检查并修复相关实现，确保安全性。
-
----
-
 ## <a name="5"></a>5. 披头士乐队“杀死”了多少艺术家？ 
 <small>🔗 [cantgetmuchhigher.com](https://www.cantgetmuchhigher.com/p/how-many-artists-did-the-beatles): How many artists' careers did the Beatles kill?</small>
 
 
-| 🔥🔥: 142 \| 💬: [102](https://news.ycombinator.com/item?id=43373765) \| 🗓️ 2025-03-15
+| 🔥🔥: 149 \| 💬: [115](https://news.ycombinator.com/item?id=43373765) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -87,7 +87,7 @@ GitHub安全实验室的研究人员发现，**SAML单点登录（SSO）**认证
 <small>🔗 [therasr.github.io](https://therasr.github.io/): Arbitrary-Scale Super-Resolution with Neural Heat Fields</small>
 
 
-| 🔥🔥: 130 \| 💬: [44](https://news.ycombinator.com/item?id=43371583) \| 🗓️ 2025-03-15
+| 🔥🔥: 131 \| 💬: [44](https://news.ycombinator.com/item?id=43371583) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -99,7 +99,7 @@ GitHub安全实验室的研究人员发现，**SAML单点登录（SSO）**认证
 <small>🔗 [susam.net](https://susam.net/lemma-for-ftgt.html): Lemma for the Fundamental Theorem of Galois Theory</small>
 
 
-| 🔥🔥: 104 \| 💬: [27](https://news.ycombinator.com/item?id=43373196) \| 🗓️ 2025-03-15
+| 🔥🔥: 110 \| 💬: [27](https://news.ycombinator.com/item?id=43373196) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -111,7 +111,7 @@ GitHub安全实验室的研究人员发现，**SAML单点登录（SSO）**认证
 <small>🔗 [knowablemagazine.org](https://knowablemagazine.org/content/article/technology/2025/nigeria-bets-on-solar-minigrids-for-climate-livelihood): For climate and livelihoods, Africa bets big on solar mini-grids</small>
 
 
-| 🔥: 96 \| 💬: [70](https://news.ycombinator.com/item?id=43372729) \| 🗓️ 2025-03-15
+| 🔥: 99 \| 💬: [70](https://news.ycombinator.com/item?id=43372729) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -119,7 +119,31 @@ GitHub安全实验室的研究人员发现，**SAML单点登录（SSO）**认证
 
 ---
 
-## <a name="9"></a>9. 特斯拉在德国遇冷：94%的人表示不会购买特斯拉汽车 
+## <a name="9"></a>9. 《他们离我的身体很近：九寸钉与罗宾·芬克的圣徒传》 
+<small>🔗 [thewhitereview.org](https://www.thewhitereview.org/feature/theyre-really-close-to-my-body/): They're Close to My Body: A Hagiography of Nine Inch Nails and Robin Finck (2020)</small>
+
+
+| 🔥: 89 \| 💬: [50](https://news.ycombinator.com/item?id=43374237) \| 🗓️ 2025-03-15
+
+
+<br />
+本文讲述了作者与**九寸钉乐队**的深厚情感纽带，尤其是乐队成员**罗宾·芬克**的独特魅力。作者从青春期开始，九寸钉的音乐便成为她情感宣泄的出口，帮助她应对性别困惑与欲望的暴力。乐队的**《Closer》**视频和**《The Self Destruct Tour》**纪录片展现了性与愤怒的交织，深深影响了她的成长。九寸钉的音乐不仅表达了她内心的痛苦与渴望，也让她在成年后依然保持对乐队的忠诚，认为他们是**“最后坚守艺术纯粹性的乐队”**。
+
+---
+
+## <a name="10"></a>10. Cloudflare要求浏览器开发者签署保密协议以修复浏览器屏蔽问题 
+<small>🔗 [forum.palemoon.org](https://forum.palemoon.org/viewtopic.php?t=32127): Cloudflare asks browser devs to sign insane NDAs before fixing browser blocking</small>
+
+
+| 🔥: 84 \| 💬: [18](https://news.ycombinator.com/item?id=43376064) \| 🗓️ 2025-03-15
+
+
+<br />
+Cloudflare的验证码和“遭受攻击”模式导致**Pale Moon**等浏览器无法访问受保护的网站。尽管社区多次报告问题，Cloudflare的沟通渠道极为有限，且未回应开发者请求。**Firefox ESR**曾因企业压力得到修复，但其他浏览器仍受影响。开发者表示，**法律诉讼**可能是最后手段，但过程漫长且复杂。
+
+---
+
+## <a name="11"></a>11. 特斯拉在德国遇冷：94%的人表示不会购买特斯拉汽车 
 <small>🔗 [electrek.co](https://electrek.co/2025/03/14/tesla-is-done-in-germany-94-say-they-wont-buy-a-tesla-car/): Tesla is done in Germany: 94% say they won't buy a Tesla car</small>
 
 
@@ -131,23 +155,11 @@ GitHub安全实验室的研究人员发现，**SAML单点登录（SSO）**认证
 
 ---
 
-## <a name="10"></a>10. 《他们离我的身体很近：九寸钉与罗宾·芬克的圣徒传》 
-<small>🔗 [thewhitereview.org](https://www.thewhitereview.org/feature/theyre-really-close-to-my-body/): They're Close to My Body: A Hagiography of Nine Inch Nails and Robin Finck (2020)</small>
-
-
-| 🔥: 80 \| 💬: [45](https://news.ycombinator.com/item?id=43374237) \| 🗓️ 2025-03-15
-
-
-<br />
-本文讲述了作者与**九寸钉乐队**的深厚情感纽带，尤其是乐队成员**罗宾·芬克**的独特魅力。作者从青春期开始，九寸钉的音乐便成为她情感宣泄的出口，帮助她应对性别困惑与欲望的暴力。乐队的**《Closer》**视频和**《The Self Destruct Tour》**纪录片展现了性与愤怒的交织，深深影响了她的成长。九寸钉的音乐不仅表达了她内心的痛苦与渴望，也让她在成年后依然保持对乐队的忠诚，认为他们是**“最后坚守艺术纯粹性的乐队”**。
-
----
-
-## <a name="11"></a>11. 日落几何：用几何代数测量地球半径 
+## <a name="12"></a>12. 日落几何：用几何代数测量地球半径 
 <small>🔗 [shapeoperator.com](https://www.shapeoperator.com/2016/12/12/sunset-geometry/): Sunset Geometry (2016)</small>
 
 
-| 🔥: 76 \| 💬: [10](https://news.ycombinator.com/item?id=43372431) \| 🗓️ 2025-03-15
+| 🔥: 78 \| 💬: [10](https://news.ycombinator.com/item?id=43372431) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -155,11 +167,11 @@ Robert Vanderbei提出了一种通过拍摄日落照片来测量地球半径的�
 
 ---
 
-## <a name="12"></a>12. 我们的宇宙是否被困在一个黑洞中？JWST望远镜的惊人发现 
+## <a name="13"></a>13. 我们的宇宙是否被困在一个黑洞中？JWST望远镜的惊人发现 
 <small>🔗 [space.com](https://www.space.com/space-exploration/james-webb-space-telescope/is-our-universe-trapped-inside-a-black-hole-this-james-webb-space-telescope-discovery-might-blow-your-mind): Is our universe trapped inside a black hole? This JWS Telescope discovery</small>
 
 
-| 🔥: 74 \| 💬: [52](https://news.ycombinator.com/item?id=43372271) \| 🗓️ 2025-03-15
+| 🔥: 75 \| 💬: [53](https://news.ycombinator.com/item?id=43372271) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -167,11 +179,11 @@ Robert Vanderbei提出了一种通过拍摄日落照片来测量地球半径的�
 
 ---
 
-## <a name="13"></a>13. 如何像婴儿一样学习新语言 
+## <a name="14"></a>14. 如何像婴儿一样学习新语言 
 <small>🔗 [theconversation.com](https://theconversation.com/how-to-learn-a-language-like-a-baby-250551): How to learn a new language like a baby</small>
 
 
-| 🔥: 61 \| 💬: [29](https://news.ycombinator.com/item?id=43375307) \| 🗓️ 2025-03-15
+| 🔥: 67 \| 💬: [31](https://news.ycombinator.com/item?id=43375307) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -179,27 +191,15 @@ Robert Vanderbei提出了一种通过拍摄日落照片来测量地球半径的�
 
 ---
 
-## <a name="14"></a>14. 时尚购物：基于最近邻算法的推荐系统 
+## <a name="15"></a>15. 时尚购物：基于最近邻算法的推荐系统 
 <small>🔗 [vibewall.shop](https://vibewall.shop/): Show HN: Fashion Shopping with Nearest Neighbors</small>
 
 
-| 🔥: 56 \| 💬: [18](https://news.ycombinator.com/item?id=43373163) \| 🗓️ 2025-03-15
+| 🔥: 58 \| 💬: [18](https://news.ycombinator.com/item?id=43373163) \| 🗓️ 2025-03-15
 
 
 <br />
 该平台允许用户通过输入关键词、上传图片或选择预设图片来**设置购物氛围**，系统会根据**最近邻算法**推荐相关商品。用户可查看商品名称、零售商和价格，但加载过程中可能出现错误。
-
----
-
-## <a name="15"></a>15. Cloudflare要求浏览器开发者签署保密协议以修复浏览器屏蔽问题 
-<small>🔗 [forum.palemoon.org](https://forum.palemoon.org/viewtopic.php?t=32127): Cloudflare asks browser devs to sign insane NDAs before fixing browser blocking</small>
-
-
-| 🔥: 46 \| 💬: [1](https://news.ycombinator.com/item?id=43376064) \| 🗓️ 2025-03-15
-
-
-<br />
-Cloudflare的验证码和“遭受攻击”模式导致**Pale Moon**等浏览器无法访问受保护的网站。尽管社区多次报告问题，Cloudflare的沟通渠道极为有限，且未回应开发者请求。**Firefox ESR**曾因企业压力得到修复，但其他浏览器仍受影响。开发者表示，**法律诉讼**可能是最后手段，但过程漫长且复杂。
 
 ---
 
@@ -231,7 +231,7 @@ Cradle 是一个**开源协作知识管理平台**，专为威胁情报研究人
 <small>🔗 [arstechnica.com](https://arstechnica.com/gaming/2025/03/this-small-snes-timing-issue-is-causing-big-speedrun-problems/): Why SNES hardware is running faster than expected and why it's a problem</small>
 
 
-| 🔥: 34 \| 💬: [9](https://news.ycombinator.com/item?id=43373414) \| 🗓️ 2025-03-15
+| 🔥: 35 \| 💬: [9](https://news.ycombinator.com/item?id=43373414) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -251,11 +251,23 @@ Go语言的多返回值设计看似无害，但实际上影响了语言的整体
 
 ---
 
-## <a name="20"></a>20. LearnLM：基于学习科学原则的实验性任务模型（2024） 
+## <a name="20"></a>20. ESP32 WiFi连接问题的民间解决方案 
+<small>🔗 [supakeen.com](https://supakeen.com/weblog/esp32-wifi-superstitions/): ESP32 WiFi Superstitions</small>
+
+
+| 🔥: 32 \| 💬: [20](https://news.ycombinator.com/item?id=43375780) \| 🗓️ 2025-03-15
+
+
+<br />
+ESP32是一款广泛应用于家庭自动化、传感器等DIY项目的微控制器，但许多用户反映其WiFi连接不稳定。作者通过实验和社区经验总结了几种“民间偏方”：**关闭ESP32的WiFi省电模式**、**将AP的2.4GHz频段设置为20MHz带宽**、**将ESP32固定连接到最近的AP**。这些方法虽然没有科学依据，但有效减少了设备掉线问题。
+
+---
+
+## <a name="21"></a>21. LearnLM：基于学习科学原则的实验性任务模型（2024） 
 <small>🔗 [ai.google.dev](https://ai.google.dev/gemini-api/docs/learnlm): LearnLM: An experimental task-specific model for learning science principles (2024)</small>
 
 
-| 🔥: 29 \| 💬: [3](https://news.ycombinator.com/item?id=43373726) \| 🗓️ 2025-03-15
+| 🔥: 29 \| 💬: [4](https://news.ycombinator.com/item?id=43373726) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -263,7 +275,31 @@ LearnLM 是一款实验性任务模型，专为教学和学习场景设计，遵
 
 ---
 
-## <a name="21"></a>21. 新罕布什尔州绿卡持有者在洛根机场被拘留并审讯 
+## <a name="22"></a>22. Aiopandas：为Pandas添加异步支持，加速API/LLM调用 
+<small>🔗 [github.com](https://github.com/telekinesis-inc/aiopandas): Show HN: Aiopandas – Async .apply() and .map() for Pandas, Faster API/LLMs Calls</small>
+
+
+| 🔥: 28 \| 💬: [2](https://news.ycombinator.com/item?id=43374505) \| 🗓️ 2025-03-15
+
+
+<br />
+Aiopandas 是一个轻量级的 Pandas 补丁，为 `map`、`apply`、`applymap`、`aggregate` 和 `transform` 等方法添加了**异步支持**，允许无缝处理异步函数，并通过 `max_parallel` 控制并发执行。它支持 `tqdm` 实时进度跟踪，适用于**API调用**、**数据库查询**等异步I/O操作，显著提升Pandas工作流的效率。只需简单替换 `.map()` 为 `.amap()` 即可使用。
+
+---
+
+## <a name="23"></a>23. 加拿大与葡萄牙考虑替代美国F-35战斗机 
+<small>🔗 [businessinsider.com](https://www.businessinsider.com/canada-weighs-purchase-f-35-fighter-jets-amid-us-portugal-2025-3): Canada joins Portugal in weighing alternatives to the US-made F-35 fighter jet</small>
+
+
+| 🔥: 27 \| 💬: [6](https://news.ycombinator.com/item?id=43376221) \| 🗓️ 2025-03-15
+
+
+<br />
+加拿大国防部长表示，**加拿大正在重新审查与洛克希德·马丁公司签订的F-35战斗机合同**，并考虑其他替代方案。此举源于**加美关系紧张**，尤其是特朗普政府的政策不确定性。葡萄牙也因类似原因重新评估F-35的采购计划。加拿大此前已签订88架F-35的订单，但现正探讨是否全部采购该机型，并寻求在加拿大本土组装的可能性。
+
+---
+
+## <a name="24"></a>24. 新罕布什尔州绿卡持有者在洛根机场被拘留并审讯 
 <small>🔗 [nhpr.org](https://www.nhpr.org/nh-news/2025-03-14/green-card-holder-from-new-hampshire-interrogated-at-logan-airport-detained): Green card holder from New Hampshire 'interrogated' at Logan Airport, detained</small>
 
 
@@ -275,50 +311,14 @@ LearnLM 是一款实验性任务模型，专为教学和学习场景设计，遵
 
 ---
 
-## <a name="22"></a>22. Aiopandas：为Pandas添加异步支持，加速API/LLM调用 
-<small>🔗 [github.com](https://github.com/telekinesis-inc/aiopandas): Show HN: Aiopandas – Async .apply() and .map() for Pandas, Faster API/LLMs Calls</small>
-
-
-| 🔥: 23 \| 💬: [1](https://news.ycombinator.com/item?id=43374505) \| 🗓️ 2025-03-15
-
-
-<br />
-Aiopandas 是一个轻量级的 Pandas 补丁，为 `map`、`apply`、`applymap`、`aggregate` 和 `transform` 等方法添加了**异步支持**，允许无缝处理异步函数，并通过 `max_parallel` 控制并发执行。它支持 `tqdm` 实时进度跟踪，适用于**API调用**、**数据库查询**等异步I/O操作，显著提升Pandas工作流的效率。只需简单替换 `.map()` 为 `.amap()` 即可使用。
-
----
-
-## <a name="23"></a>23. AutoHete：一种自动高效的LLM异构训练系统 
+## <a name="25"></a>25. AutoHete：一种自动高效的LLM异构训练系统 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2503.01890): AutoHete: An Automatic and Efficient Heterogeneous Training System for LLMs</small>
 
 
-| 🔥: 22 \| 💬: [0](https://news.ycombinator.com/item?id=43374283) \| 🗓️ 2025-03-15
+| 🔥: 23 \| 💬: [0](https://news.ycombinator.com/item?id=43374283) \| 🗓️ 2025-03-15
 
 
 <br />
 Transformer架构的**大语言模型（LLMs）**在序列建模和文本生成方面表现出色，但GPU内存限制阻碍了许多研究者的训练。现有异构训练方法虽扩展了可训练模型规模，但引入了大量通信开销和CPU负载。本文提出**AutoHete**，一种兼容单GPU和多GPU环境的自动高效异构训练系统。它根据硬件配置和LLM需求动态调整**激活检查点**、**参数卸载**和**优化器卸载**，并通过优先级调度机制最大化训练迭代间的操作重叠，提升吞吐量。实验表明，AutoHete在多种模型规模和配置下，吞吐量提升1.32~1.91倍。
-
----
-
-## <a name="24"></a>24. 诺基亚N900：未实现的未来 
-<small>🔗 [osnews.com](https://www.osnews.com/story/133160/the-nokia-n900-the-future-that-wasnt/): The Nokia N900: the future that wasn't</small>
-
-
-| 🔥: 21 \| 💬: [10](https://news.ycombinator.com/item?id=43371319) \| 🗓️ 2025-03-15
-
-
-<br />
-诺基亚N900是一款独特的Linux移动设备，代表了**开放平台**与**移动计算**的理想结合。它运行Maemo系统，基于Debian，支持完整的Linux命令行工具，拥有**滑动键盘**和丰富的硬件功能。尽管硬件配置较低，但它深受极客用户喜爱。如今，N900的社区仍在开发更新版本Maemo Leste，而像F(x)tec和GPD等公司也在尝试填补这一市场空白。N900的故事不仅是技术怀旧，更是对**开放技术未来**的期待。
-
----
-
-## <a name="25"></a>25. 特朗普政府取消追踪被绑架乌克兰儿童的合同 
-<small>🔗 [newrepublic.com](https://newrepublic.com/article/192790/trump-kidnapped-ukrainian-kids-nixed-contract): Trump Admin Nixed Contract Helping Kidnapped Ukrainian Children</small>
-
-
-| 🔥: 18 \| 💬: [2](https://news.ycombinator.com/item?id=43371597) \| 🗓️ 2025-03-15
-
-
-<br />
-特朗普政府取消了与耶鲁大学公共卫生学院的一项合同，该合同旨在追踪被俄罗斯绑架的乌克兰儿童，并收集相关证据以移交欧洲执法机构。这一决定可能阻碍乌克兰要求归还被绑架儿童的和平谈判，并削弱对俄罗斯潜在战争罪的追责。**乌克兰**要求归还数千名被绑架儿童，而美国国务院的这一举动可能使这一目标更加难以实现。
 
 ---
