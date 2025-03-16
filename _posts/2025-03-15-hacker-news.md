@@ -27,7 +27,7 @@ tags:
 <small>🔗 [brodzinski.com](https://brodzinski.com/2025/03/milk-kanban.html): Milk Kanban</small>
 
 
-| 🔥🔥: 319 \| 💬: [132](https://news.ycombinator.com/item?id=43373157) \| 🗓️ 2025-03-15
+| 🔥🔥: 328 \| 💬: [135](https://news.ycombinator.com/item?id=43373157) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/christian-fei/my-yt): Show HN: A personal YouTube frontend based on yt-dlp</small>
 
 
-| 🔥🔥: 219 \| 💬: [148](https://news.ycombinator.com/item?id=43373242) \| 🗓️ 2025-03-15
+| 🔥🔥: 224 \| 💬: [149](https://news.ycombinator.com/item?id=43373242) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.blog](https://github.blog/security/sign-in-as-anyone-bypassing-saml-sso-authentication-with-parser-differentials/): Sign in as anyone: Bypassing SAML SSO authentication with parser differentials</small>
 
 
-| 🔥🔥: 217 \| 💬: [76](https://news.ycombinator.com/item?id=43374519) \| 🗓️ 2025-03-15
+| 🔥🔥: 224 \| 💬: [80](https://news.ycombinator.com/item?id=43374519) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -75,7 +75,7 @@ GitHub安全实验室的研究人员发现，**SAML单点登录（SSO）**认证
 <small>🔗 [cantgetmuchhigher.com](https://www.cantgetmuchhigher.com/p/how-many-artists-did-the-beatles): How many artists' careers did the Beatles kill?</small>
 
 
-| 🔥🔥: 159 \| 💬: [147](https://news.ycombinator.com/item?id=43373765) \| 🗓️ 2025-03-15
+| 🔥🔥: 159 \| 💬: [149](https://news.ycombinator.com/item?id=43373765) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -87,7 +87,7 @@ GitHub安全实验室的研究人员发现，**SAML单点登录（SSO）**认证
 <small>🔗 [therasr.github.io](https://therasr.github.io/): Arbitrary-Scale Super-Resolution with Neural Heat Fields</small>
 
 
-| 🔥🔥: 133 \| 💬: [46](https://news.ycombinator.com/item?id=43371583) \| 🗓️ 2025-03-15
+| 🔥🔥: 134 \| 💬: [47](https://news.ycombinator.com/item?id=43371583) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -99,7 +99,7 @@ GitHub安全实验室的研究人员发现，**SAML单点登录（SSO）**认证
 <small>🔗 [susam.net](https://susam.net/lemma-for-ftgt.html): Lemma for the Fundamental Theorem of Galois Theory</small>
 
 
-| 🔥🔥: 120 \| 💬: [29](https://news.ycombinator.com/item?id=43373196) \| 🗓️ 2025-03-15
+| 🔥🔥: 124 \| 💬: [31](https://news.ycombinator.com/item?id=43373196) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -111,7 +111,7 @@ GitHub安全实验室的研究人员发现，**SAML单点登录（SSO）**认证
 <small>🔗 [forum.palemoon.org](https://forum.palemoon.org/viewtopic.php?t=32127): Cloudflare asks browser devs to sign insane NDAs before fixing browser blocking</small>
 
 
-| 🔥🔥: 110 \| 💬: [30](https://news.ycombinator.com/item?id=43376064) \| 🗓️ 2025-03-15
+| 🔥🔥: 115 \| 💬: [31](https://news.ycombinator.com/item?id=43376064) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -119,15 +119,15 @@ Cloudflare的验证码和“遭受攻击”模式导致**Pale Moon**等浏览器
 
 ---
 
-## <a name="9"></a>9. 非洲押注太阳能微电网：应对气候变化与改善生计 
-<small>🔗 [knowablemagazine.org](https://knowablemagazine.org/content/article/technology/2025/nigeria-bets-on-solar-minigrids-for-climate-livelihood): For climate and livelihoods, Africa bets big on solar mini-grids</small>
+## <a name="9"></a>9. 2025年的职业建议 
+<small>🔗 [lethain.com](https://lethain.com/career-advice-2025/): Career Advice in 2025</small>
 
 
-| 🔥: 100 \| 💬: [71](https://news.ycombinator.com/item?id=43372729) \| 🗓️ 2025-03-15
+| 🔥🔥: 106 \| 💬: [25](https://news.ycombinator.com/item?id=43375923) \| 🗓️ 2025-03-15
 
 
 <br />
-非洲国家，尤其是尼日利亚，正在大力推广**太阳能微电网**，为偏远地区提供可靠电力。尼日利亚通过政策吸引投资，已安装近120个微电网，惠及约25万人。这些微电网不仅减少了对化石燃料的依赖，还显著改善了当地居民的生活和经济活动。尽管面临资金和技术挑战，非洲的太阳能发展潜力巨大，有望成为全球可再生能源的典范。
+文章探讨了当前职场环境的变化，尤其是**基础模型/LLM**技术的兴起对软件行业的影响。许多资深从业者发现，过去的管理技能不再被重视，取而代之的是对技术细节和快速适应新工具的能力。**技术转型**使得许多公司的竞争优势受到威胁，而**AI公司**虽然前景广阔，但竞争激烈且风险较高。文章建议在当前市场环境下，尽量在现有岗位上寻找成长机会，而不是轻易退出，因为未来的职场生态可能会发生显著变化。
 
 ---
 
@@ -135,7 +135,7 @@ Cloudflare的验证码和“遭受攻击”模式导致**Pale Moon**等浏览器
 <small>🔗 [thewhitereview.org](https://www.thewhitereview.org/feature/theyre-really-close-to-my-body/): They're Close to My Body: A Hagiography of Nine Inch Nails and Robin Finck (2020)</small>
 
 
-| 🔥: 99 \| 💬: [53](https://news.ycombinator.com/item?id=43374237) \| 🗓️ 2025-03-15
+| 🔥🔥: 102 \| 💬: [53](https://news.ycombinator.com/item?id=43374237) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -143,11 +143,23 @@ Cloudflare的验证码和“遭受攻击”模式导致**Pale Moon**等浏览器
 
 ---
 
-## <a name="11"></a>11. 日落几何：用几何代数测量地球半径 
+## <a name="11"></a>11. 非洲押注太阳能微电网：应对气候变化与改善生计 
+<small>🔗 [knowablemagazine.org](https://knowablemagazine.org/content/article/technology/2025/nigeria-bets-on-solar-minigrids-for-climate-livelihood): For climate and livelihoods, Africa bets big on solar mini-grids</small>
+
+
+| 🔥🔥: 101 \| 💬: [71](https://news.ycombinator.com/item?id=43372729) \| 🗓️ 2025-03-15
+
+
+<br />
+非洲国家，尤其是尼日利亚，正在大力推广**太阳能微电网**，为偏远地区提供可靠电力。尼日利亚通过政策吸引投资，已安装近120个微电网，惠及约25万人。这些微电网不仅减少了对化石燃料的依赖，还显著改善了当地居民的生活和经济活动。尽管面临资金和技术挑战，非洲的太阳能发展潜力巨大，有望成为全球可再生能源的典范。
+
+---
+
+## <a name="12"></a>12. 日落几何：用几何代数测量地球半径 
 <small>🔗 [shapeoperator.com](https://www.shapeoperator.com/2016/12/12/sunset-geometry/): Sunset Geometry (2016)</small>
 
 
-| 🔥: 85 \| 💬: [10](https://news.ycombinator.com/item?id=43372431) \| 🗓️ 2025-03-15
+| 🔥: 88 \| 💬: [10](https://news.ycombinator.com/item?id=43372431) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -155,7 +167,7 @@ Robert Vanderbei提出了一种通过拍摄日落照片来测量地球半径的�
 
 ---
 
-## <a name="12"></a>12. 特斯拉在德国遇冷：94%的人表示不会购买特斯拉汽车 
+## <a name="13"></a>13. 特斯拉在德国遇冷：94%的人表示不会购买特斯拉汽车 
 <small>🔗 [electrek.co](https://electrek.co/2025/03/14/tesla-is-done-in-germany-94-say-they-wont-buy-a-tesla-car/): Tesla is done in Germany: 94% say they won't buy a Tesla car</small>
 
 
@@ -164,18 +176,6 @@ Robert Vanderbei提出了一种通过拍摄日落照片来测量地球半径的�
 
 <br />
 前Waymo CEO对特斯拉的**机器人出租车**服务发表看法，称“有很多方法可以**伪造**机器人出租车服务”。文章指出，特斯拉在德国市场面临严峻挑战，**94%的德国消费者**表示不会购买特斯拉汽车，反映出品牌在当地的市场接受度较低。
-
----
-
-## <a name="13"></a>13. 2025年的职业建议 
-<small>🔗 [lethain.com](https://lethain.com/career-advice-2025/): Career Advice in 2025</small>
-
-
-| 🔥: 80 \| 💬: [7](https://news.ycombinator.com/item?id=43375923) \| 🗓️ 2025-03-15
-
-
-<br />
-文章探讨了当前职场环境的变化，尤其是**基础模型/LLM**技术的兴起对软件行业的影响。许多资深从业者发现，过去的管理技能不再被重视，取而代之的是对技术细节和快速适应新工具的能力。**技术转型**使得许多公司的竞争优势受到威胁，而**AI公司**虽然前景广阔，但竞争激烈且风险较高。文章建议在当前市场环境下，尽量在现有岗位上寻找成长机会，而不是轻易退出，因为未来的职场生态可能会发生显著变化。
 
 ---
 
@@ -203,7 +203,19 @@ Robert Vanderbei提出了一种通过拍摄日落照片来测量地球半径的�
 
 ---
 
-## <a name="16"></a>16. 时尚购物：基于最近邻算法的推荐系统 
+## <a name="16"></a>16. 苹果1994年隐藏的恢复分区被发现 
+<small>🔗 [downtowndougbrown.com](https://www.downtowndougbrown.com/2025/03/apples-long-lost-hidden-recovery-partition-from-1994-has-been-found/): Apple's long-lost hidden recovery partition from 1994 has been found</small>
+
+
+| 🔥: 73 \| 💬: [3](https://news.ycombinator.com/item?id=43376033) \| 🗓️ 2025-03-15
+
+
+<br />
+一位技术爱好者通过修复一台老旧的160MB Conner硬盘，成功找回了苹果1994年Macintosh Performa 550电脑中**隐藏的恢复分区**。该分区包含一个微型系统文件夹，用于在系统崩溃时自动恢复。尽管多次尝试，恢复分区的数据仍未找到，但通过实验证实了其功能的存在。这一发现揭示了苹果早期为**用户友好性**所做的努力，同时也展示了技术考古的魅力。
+
+---
+
+## <a name="17"></a>17. 时尚购物：基于最近邻算法的推荐系统 
 <small>🔗 [vibewall.shop](https://vibewall.shop/): Show HN: Fashion Shopping with Nearest Neighbors</small>
 
 
@@ -215,11 +227,11 @@ Robert Vanderbei提出了一种通过拍摄日落照片来测量地球半径的�
 
 ---
 
-## <a name="17"></a>17. ESP32 WiFi连接问题的民间解决方案 
+## <a name="18"></a>18. ESP32 WiFi连接问题的民间解决方案 
 <small>🔗 [supakeen.com](https://supakeen.com/weblog/esp32-wifi-superstitions/): ESP32 WiFi Superstitions</small>
 
 
-| 🔥: 57 \| 💬: [37](https://news.ycombinator.com/item?id=43375780) \| 🗓️ 2025-03-15
+| 🔥: 64 \| 💬: [40](https://news.ycombinator.com/item?id=43375780) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -227,19 +239,31 @@ ESP32是一款广泛应用于家庭自动化、传感器等DIY项目的微控制
 
 ---
 
-## <a name="18"></a>18. 苹果1994年隐藏的恢复分区被发现 
-<small>🔗 [downtowndougbrown.com](https://www.downtowndougbrown.com/2025/03/apples-long-lost-hidden-recovery-partition-from-1994-has-been-found/): Apple's long-lost hidden recovery partition from 1994 has been found</small>
+## <a name="19"></a>19. 生成炫酷终端输出，让领导以为你很忙 
+<small>🔗 [github.com](https://github.com/giacomo-b/rust-stakeholder): Generate impressive-looking terminal output, look busy when stakeholders walk by</small>
 
 
-| 🔥: 51 \| 💬: [2](https://news.ycombinator.com/item?id=43376033) \| 🗓️ 2025-03-15
+| 🔥: 52 \| 💬: [15](https://news.ycombinator.com/item?id=43376824) \| 🗓️ 2025-03-15
 
 
 <br />
-一位技术爱好者通过修复一台老旧的160MB Conner硬盘，成功找回了苹果1994年Macintosh Performa 550电脑中**隐藏的恢复分区**。该分区包含一个微型系统文件夹，用于在系统崩溃时自动恢复。尽管多次尝试，恢复分区的数据仍未找到，但通过实验证实了其功能的存在。这一发现揭示了苹果早期为**用户友好性**所做的努力，同时也展示了技术考古的魅力。
+**rust-stakeholder** 是一个命令行工具，生成看似复杂但毫无意义的终端输出，让你在领导路过时显得非常忙碌。它支持**虚假进度条**、**技术术语生成**和**模拟网络活动**等功能，帮助你在不写一行代码的情况下显得像个编程天才。虽然这是**讽刺工具**，但使用它可能会让你意外升职或获得更多会议发言权。
 
 ---
 
-## <a name="19"></a>19. 为什么SNES硬件运行速度比预期快，以及为什么这是个问题 
+## <a name="20"></a>20. 曼德勃罗集探索工具 
+<small>🔗 [mandelbrot.site](https://mandelbrot.site): Mandelbrot Set Explorer</small>
+
+
+| 🔥: 46 \| 💬: [12](https://news.ycombinator.com/item?id=43375676) \| 🗓️ 2025-03-15
+
+
+<br />
+Mandelbrot.site 是一个用于探索**曼德勃罗集**的在线工具，提供丰富的渲染设置和颜色方案。用户可以通过快捷键进行缩放、居中操作，并调整**迭代次数**和**分辨率**以获得不同细节的图像。支持多种颜色模式，如Cividis、Inferno等，并可保存高分辨率图像。适合数学爱好者和视觉艺术创作者使用。
+
+---
+
+## <a name="21"></a>21. 为什么SNES硬件运行速度比预期快，以及为什么这是个问题 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gaming/2025/03/this-small-snes-timing-issue-is-causing-big-speedrun-problems/): Why SNES hardware is running faster than expected and why it's a problem</small>
 
 
@@ -251,7 +275,7 @@ SNES的**音频处理单元（APU）**使用了廉价的陶瓷谐振器，导致
 
 ---
 
-## <a name="20"></a>20. Cursor 悄悄在更新日志中翻倍了 Claude-3.7-Thinking 的价格 
+## <a name="22"></a>22. Cursor 悄悄在更新日志中翻倍了 Claude-3.7-Thinking 的价格 
 <small>🔗 [cursor.com](https://www.cursor.com/en/changelog): Cursor stealthily doubled the price of Claude-3.7-Thinking in a changelog</small>
 
 
@@ -263,23 +287,11 @@ SNES的**音频处理单元（APU）**使用了廉价的陶瓷谐振器，导致
 
 ---
 
-## <a name="21"></a>21. 曼德勃罗集探索工具 
-<small>🔗 [mandelbrot.site](https://mandelbrot.site): Mandelbrot Set Explorer</small>
-
-
-| 🔥: 39 \| 💬: [7](https://news.ycombinator.com/item?id=43375676) \| 🗓️ 2025-03-15
-
-
-<br />
-Mandelbrot.site 是一个用于探索**曼德勃罗集**的在线工具，提供丰富的渲染设置和颜色方案。用户可以通过快捷键进行缩放、居中操作，并调整**迭代次数**和**分辨率**以获得不同细节的图像。支持多种颜色模式，如Cividis、Inferno等，并可保存高分辨率图像。适合数学爱好者和视觉艺术创作者使用。
-
----
-
-## <a name="22"></a>22. Aiopandas：为Pandas添加异步支持，加速API/LLM调用 
+## <a name="23"></a>23. Aiopandas：为Pandas添加异步支持，加速API/LLM调用 
 <small>🔗 [github.com](https://github.com/telekinesis-inc/aiopandas): Show HN: Aiopandas – Async .apply() and .map() for Pandas, Faster API/LLMs Calls</small>
 
 
-| 🔥: 37 \| 💬: [7](https://news.ycombinator.com/item?id=43374505) \| 🗓️ 2025-03-15
+| 🔥: 39 \| 💬: [7](https://news.ycombinator.com/item?id=43374505) \| 🗓️ 2025-03-15
 
 
 <br />
@@ -287,7 +299,7 @@ Aiopandas 是一个轻量级的 Pandas 补丁，为 `map`、`apply`、`applymap`
 
 ---
 
-## <a name="23"></a>23. Cradle – 开源协作威胁情报中心 
+## <a name="24"></a>24. Cradle – 开源协作威胁情报中心 
 <small>🔗 [cradle.sh](https://cradle.sh/): Cradle – Open-Source Collaborative Threat Intelligence Hub</small>
 
 
@@ -299,26 +311,14 @@ Cradle 是一个**开源协作知识管理平台**，专为威胁情报研究人
 
 ---
 
-## <a name="24"></a>24. 加拿大与葡萄牙考虑替代美国F-35战斗机 
+## <a name="25"></a>25. 加拿大与葡萄牙考虑替代美国F-35战斗机 
 <small>🔗 [businessinsider.com](https://www.businessinsider.com/canada-weighs-purchase-f-35-fighter-jets-amid-us-portugal-2025-3): Canada joins Portugal in weighing alternatives to the US-made F-35 fighter jet</small>
 
 
-| 🔥: 35 \| 💬: [9](https://news.ycombinator.com/item?id=43376221) \| 🗓️ 2025-03-15
+| 🔥: 36 \| 💬: [9](https://news.ycombinator.com/item?id=43376221) \| 🗓️ 2025-03-15
 
 
 <br />
 加拿大国防部长表示，**加拿大正在重新审查与洛克希德·马丁公司签订的F-35战斗机合同**，并考虑其他替代方案。此举源于**加美关系紧张**，尤其是特朗普政府的政策不确定性。葡萄牙也因类似原因重新评估F-35的采购计划。加拿大此前已签订88架F-35的订单，但现正探讨是否全部采购该机型，并寻求在加拿大本土组装的可能性。
-
----
-
-## <a name="25"></a>25. Go语言的多返回值设计是否是其最大的错误？ 
-<small>🔗 [herecomesthemoon.net](https://herecomesthemoon.net/2025/03/multiple-return-values-in-go/): Were multiple return values Go's biggest mistake?</small>
-
-
-| 🔥: 34 \| 💬: [20](https://news.ycombinator.com/item?id=43373024) \| 🗓️ 2025-03-15
-
-
-<br />
-Go语言的多返回值设计看似无害，但实际上影响了语言的整体设计，并与其他特性交互不佳。**多返回值**并非真正的元组类型，导致无法直接存储或传递函数返回的结果，增加了代码复杂性。特别是在并发和错误处理中，开发者不得不定义额外的结构体来包装返回值。这种设计限制了语言的灵活性，使得标准库和生态系统在处理多返回值时显得笨拙。尽管Go试图保持简单，但这种设计反而引入了不必要的复杂性。
 
 ---
