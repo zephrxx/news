@@ -9,14 +9,14 @@ tags:
 
 
 1. Cloudflare里斯本办公室的“混沌之墙”；
-1. uv 下载量超越 Poetry，成为 Wagtail 用户新宠；
 1. 深度学习并不神秘或与众不同；
+1. uv 下载量超越 Poetry，成为 Wagtail 用户新宠；
 1. 本科生推翻40年猜想，发明新型哈希表；
 1. Meta阻止前员工爆料书籍推广；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/chaos-in-cloudflare-lisbon-office-securing-the-internet-with-wave-motion/): Chaos in the Cloudflare Lisbon Office</small>
 
 
-| 🔥🔥: 230 \| 💬: [112](https://news.ycombinator.com/item?id=43389064) \| 🗓️ 2025-03-17
+| 🔥🔥: 245 \| 💬: [111](https://news.ycombinator.com/item?id=43389064) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -35,23 +35,11 @@ Cloudflare在里斯本办公室安装了一面由**50台波浪机**组成的“�
 
 ---
 
-## <a name="2"></a>2. uv 下载量超越 Poetry，成为 Wagtail 用户新宠 
-<small>🔗 [wagtail.org](https://wagtail.org/blog/uv-overtakes-poetry/): uv downloads overtake Poetry for Wagtail users</small>
-
-
-| 🔥🔥: 212 \| 💬: [187](https://news.ycombinator.com/item?id=43386357) \| 🗓️ 2025-03-17
-
-
-<br />
-数据显示，**uv** 已成为 Wagtail 用户中仅次于 **pip** 的第二大包安装工具，超越了 **Poetry**。尽管 Poetry 仍然受欢迎，但 uv 的增长不仅来自新用户，可能还与 CI 配置或 Django 预发布版本的测试有关。Wagtail 团队计划优化对 uv 的支持，并更新文档，确保开发者体验与时俱进。
-
----
-
-## <a name="3"></a>3. 深度学习并不神秘或与众不同 
+## <a name="2"></a>2. 深度学习并不神秘或与众不同 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2503.02113): Deep Learning Is Not So Mysterious or Different</small>
 
 
-| 🔥🔥: 209 \| 💬: [54](https://news.ycombinator.com/item?id=43390400) \| 🗓️ 2025-03-17
+| 🔥🔥: 237 \| 💬: [58](https://news.ycombinator.com/item?id=43390400) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -59,11 +47,23 @@ Cloudflare在里斯本办公室安装了一面由**50台波浪机**组成的“�
 
 ---
 
+## <a name="3"></a>3. uv 下载量超越 Poetry，成为 Wagtail 用户新宠 
+<small>🔗 [wagtail.org](https://wagtail.org/blog/uv-overtakes-poetry/): uv downloads overtake Poetry for Wagtail users</small>
+
+
+| 🔥🔥: 213 \| 💬: [189](https://news.ycombinator.com/item?id=43386357) \| 🗓️ 2025-03-17
+
+
+<br />
+数据显示，**uv** 已成为 Wagtail 用户中仅次于 **pip** 的第二大包安装工具，超越了 **Poetry**。尽管 Poetry 仍然受欢迎，但 uv 的增长不仅来自新用户，可能还与 CI 配置或 Django 预发布版本的测试有关。Wagtail 团队计划优化对 uv 的支持，并更新文档，确保开发者体验与时俱进。
+
+---
+
 ## <a name="4"></a>4. 本科生推翻40年猜想，发明新型哈希表 
 <small>🔗 [wired.com](https://www.wired.com/story/undergraduate-upends-a-40-year-old-data-science-conjecture/): Undergraduate Disproves 40-Year-Old Conjecture, Invents New Kind of Hash Table</small>
 
 
-| 🔥🔥: 197 \| 💬: [93](https://news.ycombinator.com/item?id=43388296) \| 🗓️ 2025-03-17
+| 🔥🔥: 205 \| 💬: [97](https://news.ycombinator.com/item?id=43388296) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -75,7 +75,7 @@ Cloudflare在里斯本办公室安装了一面由**50台波浪机**组成的“�
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/mar/13/meta-careless-people-book-former-employee): Meta puts stop on promotion of tell-all book by former employee</small>
 
 
-| 🔥🔥: 178 \| 💬: [80](https://news.ycombinator.com/item?id=43387325) \| 🗓️ 2025-03-17
+| 🔥🔥: 179 \| 💬: [83](https://news.ycombinator.com/item?id=43387325) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -83,7 +83,19 @@ Meta通过紧急仲裁裁决，暂时阻止了前员工Sarah Wynn-Williams的爆
 
 ---
 
-## <a name="6"></a>6. 树莓派RP2350现已开售，堆叠内存版本即将推出 
+## <a name="6"></a>6. 档案存储的误区与挑战 
+<small>🔗 [blog.dshr.org](https://blog.dshr.org/2025/03/archival-storage.html): Archival Storage</small>
+
+
+| 🔥🔥: 156 \| 💬: [86](https://news.ycombinator.com/item?id=43391459) \| 🗓️ 2025-03-17
+
+
+<br />
+本文探讨了**档案存储**与备份的区别，指出档案存储的核心是**经济性**而非技术性。作者强调，**长期存储**的关键在于系统成本而非介质寿命，并批评了“准永生介质”的误导性宣传。档案存储的真正挑战在于如何在数据中心规模下降低系统成本，而非依赖某种“神奇”的存储介质。
+
+---
+
+## <a name="7"></a>7. 树莓派RP2350现已开售，堆叠内存版本即将推出 
 <small>🔗 [phoronix.com](https://www.phoronix.com/news/Raspberry-Pi-RP2350-Buy): Raspberry Pi RP2350 Now Available for Purchase, Stacked Memory Variant Coming</small>
 
 
@@ -95,23 +107,11 @@ Meta通过紧急仲裁裁决，暂时阻止了前员工Sarah Wynn-Williams的爆
 
 ---
 
-## <a name="7"></a>7. 档案存储的误区与挑战 
-<small>🔗 [blog.dshr.org](https://blog.dshr.org/2025/03/archival-storage.html): Archival Storage</small>
-
-
-| 🔥🔥: 131 \| 💬: [66](https://news.ycombinator.com/item?id=43391459) \| 🗓️ 2025-03-17
-
-
-<br />
-本文探讨了**档案存储**与备份的区别，指出档案存储的核心是**经济性**而非技术性。作者强调，**长期存储**的关键在于系统成本而非介质寿命，并批评了“准永生介质”的误导性宣传。档案存储的真正挑战在于如何在数据中心规模下降低系统成本，而非依赖某种“神奇”的存储介质。
-
----
-
 ## <a name="8"></a>8. Akira勒索软件可通过16块RTX 4090显卡在10小时内破解 
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/cyber-security/akira-ransomware-cracked-with-rtx-4090-new-exploit-to-brute-force-encryption-attack): Akira ransomware can be cracked with sixteen RTX 4090 GPUs in around ten hours</small>
 
 
-| 🔥🔥: 124 \| 💬: [35](https://news.ycombinator.com/item?id=43387188) \| 🗓️ 2025-03-17
+| 🔥🔥: 126 \| 💬: [35](https://news.ycombinator.com/item?id=43387188) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -123,7 +123,7 @@ Meta通过紧急仲裁裁决，暂时阻止了前员工Sarah Wynn-Williams的爆
 <small>🔗 [theintercept.com](https://theintercept.com/2025/03/17/lapd-surveillance-gaza-palestine-protests-dataminr/): Dataminr tracked Gaza-related protests</small>
 
 
-| 🔥: 100 \| 💬: [96](https://news.ycombinator.com/item?id=43390747) \| 🗓️ 2025-03-17
+| 🔥🔥: 117 \| 💬: [112](https://news.ycombinator.com/item?id=43390747) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -131,7 +131,19 @@ Meta通过紧急仲裁裁决，暂时阻止了前员工Sarah Wynn-Williams的爆
 
 ---
 
-## <a name="10"></a>10. Rippling起诉Deel涉嫌间谍活动 
+## <a name="10"></a>10. Alphabet分拆Taara——激光互联网 
+<small>🔗 [x.company](https://x.company/blog/posts/taara-graduation/): Alphabet spins out Taara – Internet over lasers</small>
+
+
+| 🔥: 95 \| 💬: [108](https://news.ycombinator.com/item?id=43390467) \| 🗓️ 2025-03-17
+
+
+<br />
+Taara从X实验室独立出来，致力于通过**光束技术**提供高速、经济且广泛的互联网连接。其**Lightbridge**系统利用光波在空中传输数据，速度高达20Gbps，覆盖距离达20公里，适用于难以铺设光纤的地区。Taara已在多个国家部署，并与多家电信公司合作，推动无线光通信的发展。
+
+---
+
+## <a name="11"></a>11. Rippling起诉Deel涉嫌间谍活动 
 <small>🔗 [twitter.com](https://twitter.com/parkerconrad/status/1901615179718406276): Rippling Sues Deel over Spying</small>
 
 
@@ -143,7 +155,19 @@ Rippling对Deel提起诉讼，指控其从事**间谍活动**。诉讼细节尚�
 
 ---
 
-## <a name="11"></a>11. 《Facebook内幕曝光：高层的失德与贪婪》 
+## <a name="12"></a>12. 华尔街的“私人房间”：比暗池更隐秘的交易场所 
+<small>🔗 [bloomberg.com](https://www.bloomberg.com/news/features/2025-03-16/wall-street-s-dark-pools-grow-murkier-with-private-rooms): Wall Street’s ‘Private Rooms’</small>
+
+
+| 🔥: 87 \| 💬: [79](https://news.ycombinator.com/item?id=43390595) \| 🗓️ 2025-03-17
+
+
+<br />
+华尔街的**暗池**交易平台正在推出一种更为隐秘的交易方式——**私人房间**。这些房间允许特定参与者进行交易，进一步隐藏大宗股票交易以避免影响市场价格。尽管这种模式提高了交易的**隐私性**和**效率**，但也引发了市场透明度和碎片化的担忧。随着越来越多的交易从公开交易所转移到暗池，私人房间的需求正在迅速增长，尤其是在机构投资者和对冲基金中。
+
+---
+
+## <a name="13"></a>13. 《Facebook内幕曝光：高层的失德与贪婪》 
 <small>🔗 [web.archive.org](https://web.archive.org/web/20250310221013/https://www.nytimes.com/2025/03/10/books/review/careless-people-sarah-wynn-williams.html): A Facebook Insider's Exposé Alleges Bad Behavior at the Top</small>
 
 
@@ -155,7 +179,7 @@ Rippling对Deel提起诉讼，指控其从事**间谍活动**。诉讼细节尚�
 
 ---
 
-## <a name="12"></a>12. 将C代码转换为Z/80 Speccy磁带的工作流程 
+## <a name="14"></a>14. 将C代码转换为Z/80 Speccy磁带的工作流程 
 <small>🔗 [ghuntley.com](https://ghuntley.com/z80/): Converting C to ASM to specs and then to a working Z/80 Speccy tape</small>
 
 
@@ -167,47 +191,11 @@ Rippling对Deel提起诉讼，指控其从事**间谍活动**。诉讼细节尚�
 
 ---
 
-## <a name="13"></a>13. 华尔街的“私人房间”：比暗池更隐秘的交易场所 
-<small>🔗 [bloomberg.com](https://www.bloomberg.com/news/features/2025-03-16/wall-street-s-dark-pools-grow-murkier-with-private-rooms): Wall Street’s ‘Private Rooms’</small>
-
-
-| 🔥: 70 \| 💬: [72](https://news.ycombinator.com/item?id=43390595) \| 🗓️ 2025-03-17
-
-
-<br />
-华尔街的**暗池**交易平台正在推出一种更为隐秘的交易方式——**私人房间**。这些房间允许特定参与者进行交易，进一步隐藏大宗股票交易以避免影响市场价格。尽管这种模式提高了交易的**隐私性**和**效率**，但也引发了市场透明度和碎片化的担忧。随着越来越多的交易从公开交易所转移到暗池，私人房间的需求正在迅速增长，尤其是在机构投资者和对冲基金中。
-
----
-
-## <a name="14"></a>14. Alphabet分拆Taara——激光互联网 
-<small>🔗 [x.company](https://x.company/blog/posts/taara-graduation/): Alphabet spins out Taara – Internet over lasers</small>
-
-
-| 🔥: 69 \| 💬: [79](https://news.ycombinator.com/item?id=43390467) \| 🗓️ 2025-03-17
-
-
-<br />
-Taara从X实验室独立出来，致力于通过**光束技术**提供高速、经济且广泛的互联网连接。其**Lightbridge**系统利用光波在空中传输数据，速度高达20Gbps，覆盖距离达20公里，适用于难以铺设光纤的地区。Taara已在多个国家部署，并与多家电信公司合作，推动无线光通信的发展。
-
----
-
-## <a name="15"></a>15. EnkiTask：轻量级项目管理工具，专为自由职业者设计 
-<small>🔗 [enkitask.com](https://enkitask.com/): Show HN: EnkiTask: Lightweight Project Management for Freelancers</small>
-
-
-| 🔥: 63 \| 💬: [42](https://news.ycombinator.com/item?id=43386745) \| 🗓️ 2025-03-17
-
-
-<br />
-EnkiTask 是一款**经济实惠**的项目管理工具，专为自由职业者和团队协作设计。基于**敏捷开发**和**Scrum方法论**，它提供了无限制的团队协作、无订阅费用的按任务付费模式，以及无限制的项目和存储空间。通过AI生成变更日志和丰富的集成功能，EnkiTask 帮助用户高效管理项目，提升团队生产力。
-
----
-
-## <a name="16"></a>16. C语言中的“愚蠢”智能指针 
+## <a name="15"></a>15. C语言中的“愚蠢”智能指针 
 <small>🔗 [blog.kevinalbs.com](http://blog.kevinalbs.com/stupid_smart_pointers): Stupid Smart Pointers in C</small>
 
 
-| 🔥: 57 \| 💬: [97](https://news.ycombinator.com/item?id=43387334) \| 🗓️ 2025-03-17
+| 🔥: 70 \| 💬: [104](https://news.ycombinator.com/item?id=43387334) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -215,11 +203,35 @@ EnkiTask 是一款**经济实惠**的项目管理工具，专为自由职业者�
 
 ---
 
-## <a name="17"></a>17. 特斯拉粉丝揭露Autopilot事故中的公司问题 
+## <a name="16"></a>16. EnkiTask：轻量级项目管理工具，专为自由职业者设计 
+<small>🔗 [enkitask.com](https://enkitask.com/): Show HN: EnkiTask: Lightweight Project Management for Freelancers</small>
+
+
+| 🔥: 64 \| 💬: [43](https://news.ycombinator.com/item?id=43386745) \| 🗓️ 2025-03-17
+
+
+<br />
+EnkiTask 是一款**经济实惠**的项目管理工具，专为自由职业者和团队协作设计。基于**敏捷开发**和**Scrum方法论**，它提供了无限制的团队协作、无订阅费用的按任务付费模式，以及无限制的项目和存储空间。通过AI生成变更日志和丰富的集成功能，EnkiTask 帮助用户高效管理项目，提升团队生产力。
+
+---
+
+## <a name="17"></a>17. 高跟鞋对游戏开发的影响 
+<small>🔗 [simonschreibt.de](https://simonschreibt.de/gat/the-high-heel-problem/): The High Heel Problem</small>
+
+
+| 🔥: 61 \| 💬: [5](https://news.ycombinator.com/item?id=43392549) \| 🗓️ 2025-03-17
+
+
+<br />
+本文探讨了**高跟鞋**在游戏开发中带来的挑战，包括角色身高、姿势、动画和碰撞体积的变化。游戏开发者可以通过**调整身高**、**手动修正动画**或使用**动态系统**（如IK）来解决这些问题。此外，还讨论了如何通过**缩短腿部**或**弯曲腿部**来绕过这些问题。不同鞋型还会影响角色的步态和脚步声，甚至可能影响游戏的平衡性。
+
+---
+
+## <a name="18"></a>18. 特斯拉粉丝揭露Autopilot事故中的公司问题 
 <small>🔗 [electrek.co](https://electrek.co/2025/03/17/tesla-fans-exposes-shadiness-defend-autopilot-crash/): Tesla fans exposes Tesla's own shadiness in attempt to defend Autopilot crash</small>
 
 
-| 🔥: 54 \| 💬: [17](https://news.ycombinator.com/item?id=43390544) \| 🗓️ 2025-03-17
+| 🔥: 57 \| 💬: [17](https://news.ycombinator.com/item?id=43390544) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -227,7 +239,31 @@ EnkiTask 是一款**经济实惠**的项目管理工具，专为自由职业者�
 
 ---
 
-## <a name="18"></a>18. 编程岗位减少22%：AI是否在取代人类工作？ 
+## <a name="19"></a>19. Pine64推出搭载Debian系统的RISC-V平板，硬件升级 
+<small>🔗 [liliputing.com](https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/): Pine64's RISC-V tablet now ships with a Debian-based Linux and improved hardware</small>
+
+
+| 🔥: 52 \| 💬: [19](https://news.ycombinator.com/item?id=43386856) \| 🗓️ 2025-03-17
+
+
+<br />
+PineTab-V是一款10.1英寸平板，配备**RISC-V处理器**，拥有8GB内存和128GB存储。最新版本增加了**加速度计**和LED状态指示灯，并修复了充电问题。预装系统为基于Debian的Linux，适合开发者探索**RISC-V架构**。售价225美元，支持WiFi 6和蓝牙5.2。
+
+---
+
+## <a name="20"></a>20. 限制Python函数作用域以实现可重复执行 
+<small>🔗 [localscope.readthedocs.io](https://localscope.readthedocs.io/en/latest/): Show HN: Localscope–Limit scope of Python functions for reproducible execution</small>
+
+
+| 🔥: 52 \| 💬: [23](https://news.ycombinator.com/item?id=43390823) \| 🗓️ 2025-03-17
+
+
+<br />
+`localscope` 是一个Python工具，用于**限制函数的作用域**，防止意外使用全局变量导致的错误。通过装饰器 `@localscope`，可以严格控制函数访问的变量，避免因全局变量泄漏导致的不可复现结果。支持自定义允许的全局变量和条件判断，适用于Jupyter笔记本等交互式环境，帮助开发者减少调试时间并提高代码的可靠性。
+
+---
+
+## <a name="21"></a>21. 编程岗位减少22%：AI是否在取代人类工作？ 
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/business/2025/03/14/programming-jobs-lost-artificial-intelligence/): 22% Drop in Programming Jobs</small>
 
 
@@ -239,7 +275,7 @@ EnkiTask 是一款**经济实惠**的项目管理工具，专为自由职业者�
 
 ---
 
-## <a name="19"></a>19. 特朗普精神错乱综合症 
+## <a name="22"></a>22. 特朗普精神错乱综合症 
 <small>🔗 [revisor.mn.gov](https://www.revisor.mn.gov/bills/text.php?number=SF2589&version=0&session=ls94&session_year=2025&session_number=0): Trump Derangement Syndrome</small>
 
 
@@ -251,31 +287,7 @@ EnkiTask 是一款**经济实惠**的项目管理工具，专为自由职业者�
 
 ---
 
-## <a name="20"></a>20. Pine64推出搭载Debian系统的RISC-V平板，硬件升级 
-<small>🔗 [liliputing.com](https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/): Pine64's RISC-V tablet now ships with a Debian-based Linux and improved hardware</small>
-
-
-| 🔥: 50 \| 💬: [19](https://news.ycombinator.com/item?id=43386856) \| 🗓️ 2025-03-17
-
-
-<br />
-PineTab-V是一款10.1英寸平板，配备**RISC-V处理器**，拥有8GB内存和128GB存储。最新版本增加了**加速度计**和LED状态指示灯，并修复了充电问题。预装系统为基于Debian的Linux，适合开发者探索**RISC-V架构**。售价225美元，支持WiFi 6和蓝牙5.2。
-
----
-
-## <a name="21"></a>21. 限制Python函数作用域以实现可重复执行 
-<small>🔗 [localscope.readthedocs.io](https://localscope.readthedocs.io/en/latest/): Show HN: Localscope–Limit scope of Python functions for reproducible execution</small>
-
-
-| 🔥: 48 \| 💬: [21](https://news.ycombinator.com/item?id=43390823) \| 🗓️ 2025-03-17
-
-
-<br />
-`localscope` 是一个Python工具，用于**限制函数的作用域**，防止意外使用全局变量导致的错误。通过装饰器 `@localscope`，可以严格控制函数访问的变量，避免因全局变量泄漏导致的不可复现结果。支持自定义允许的全局变量和条件判断，适用于Jupyter笔记本等交互式环境，帮助开发者减少调试时间并提高代码的可靠性。
-
----
-
-## <a name="22"></a>22. 软件工程中的迷思与批判性思维 
+## <a name="23"></a>23. 软件工程中的迷思与批判性思维 
 <small>🔗 [markgreville.ie](https://markgreville.ie/2025/03/17/book-review-leprechauns-of-software-engineering/): Leprechauns of Software Engineering</small>
 
 
@@ -287,7 +299,19 @@ PineTab-V是一款10.1英寸平板，配备**RISC-V处理器**，拥有8GB内存
 
 ---
 
-## <a name="23"></a>23. Rippling起诉Deel间谍活动，Slack蜜罐成功取证 
+## <a name="24"></a>24. Mistral Small 3.1：轻量级多模态AI模型发布 
+<small>🔗 [mistral.ai](https://mistral.ai/news/mistral-small-3-1): Mistral Small 3.1</small>
+
+
+| 🔥: 34 \| 💬: [4](https://news.ycombinator.com/item?id=43390110) \| 🗓️ 2025-03-17
+
+
+<br />
+Mistral Small 3.1 是一款**轻量级多模态AI模型**，支持多语言和长上下文处理，性能超越同类模型如Gemma 3和GPT-4o Mini。该模型适用于**快速响应对话**、低延迟函数调用及专业领域微调，可在RTX 4090或32GB内存的Mac上运行。现已开放下载，并支持API试用。
+
+---
+
+## <a name="25"></a>25. Rippling起诉Deel间谍活动，Slack蜜罐成功取证 
 <small>🔗 [rippling.com](https://www.rippling.com/blog/lawsuit-alleges-12-billion-unicorn-deel-cultivated-spy-orchestrated-long-running-trade-secret-theft-corporate-espionage-against-competitor): Rippling suing Deel for espionage after Slack honeypot worked</small>
 
 
@@ -296,17 +320,5 @@ PineTab-V是一款10.1英寸平板，配备**RISC-V处理器**，拥有8GB内存
 
 <br />
 Rippling起诉12亿美元估值的独角兽公司Deel，指控其通过**内部间谍**长期窃取商业机密。Rippling通过设置**Slack蜜罐**，成功证明Deel高管参与其中。间谍在四个月内进行了6000多次非法搜索，窃取销售管道和客户信息，帮助Deel**非法竞争**。Rippling要求赔偿并追究法律责任。
-
----
-
-## <a name="24"></a>24. Mistral Small 3.1：轻量级多模态AI模型发布 
-<small>🔗 [mistral.ai](https://mistral.ai/news/mistral-small-3-1): Mistral Small 3.1</small>
-
-
-| 🔥: 32 \| 💬: [3](https://news.ycombinator.com/item?id=43390110) \| 🗓️ 2025-03-17
-
-
-<br />
-Mistral Small 3.1 是一款**轻量级多模态AI模型**，支持多语言和长上下文处理，性能超越同类模型如Gemma 3和GPT-4o Mini。该模型适用于**快速响应对话**、低延迟函数调用及专业领域微调，可在RTX 4090或32GB内存的Mac上运行。现已开放下载，并支持API试用。
 
 ---
