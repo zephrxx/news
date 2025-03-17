@@ -27,7 +27,7 @@ tags:
 <small>🔗 [github.com](https://github.com/suitenumerique/docs): Docs – Open source alternative to Notion or Outline</small>
 
 
-| 🔥🔥: 1241 \| 💬: [349](https://news.ycombinator.com/item?id=43378239) \| 🗓️ 2025-03-16
+| 🔥🔥: 1267 \| 💬: [354](https://news.ycombinator.com/item?id=43378239) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/nexta_tv/status/1901244199220982213): Military grade sonic weapon is used against protesters in Serbia</small>
 
 
-| 🔥🔥: 449 \| 💬: [320](https://news.ycombinator.com/item?id=43382093) \| 🗓️ 2025-03-16
+| 🔥🔥: 458 \| 💬: [333](https://news.ycombinator.com/item?id=43382093) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [icann.org](https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en): Sunsetting Whois</small>
 
 
-| 🔥🔥: 302 \| 💬: [127](https://news.ycombinator.com/item?id=43384069) \| 🗓️ 2025-03-16
+| 🔥🔥: 364 \| 💬: [141](https://news.ycombinator.com/item?id=43384069) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [wattenberger.com](https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses): Our interfaces have lost their senses</small>
 
 
-| 🔥🔥: 290 \| 💬: [139](https://news.ycombinator.com/item?id=43380930) \| 🗓️ 2025-03-16
+| 🔥🔥: 299 \| 💬: [142](https://news.ycombinator.com/item?id=43380930) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [antirez.com](https://antirez.com/news/147): Big LLMs weights are a piece of history</small>
 
 
-| 🔥🔥: 260 \| 💬: [184](https://news.ycombinator.com/item?id=43378401) \| 🗓️ 2025-03-16
+| 🔥🔥: 261 \| 💬: [185](https://news.ycombinator.com/item?id=43378401) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [trifectatech.org](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/): Zlib-rs is faster than C</small>
 
 
-| 🔥🔥: 190 \| 💬: [241](https://news.ycombinator.com/item?id=43381512) \| 🗓️ 2025-03-16
+| 🔥🔥: 211 \| 💬: [250](https://news.ycombinator.com/item?id=43381512) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -111,7 +111,7 @@ zlib-rs 发布了 0.4.2 版本，**解压缩性能**显著提升，成为目前�
 <small>🔗 [seangoedecke.com](https://www.seangoedecke.com/good-times-are-over/): The good times in tech are over</small>
 
 
-| 🔥🔥: 162 \| 💬: [227](https://news.ycombinator.com/item?id=43378321) \| 🗓️ 2025-03-16
+| 🔥🔥: 162 \| 💬: [230](https://news.ycombinator.com/item?id=43378321) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -123,7 +123,7 @@ zlib-rs 发布了 0.4.2 版本，**解压缩性能**显著提升，成为目前�
 <small>🔗 [eli.cx](https://eli.cx/blog/ai-is-making-developers-dumb): AI Is Making Developers Dumb</small>
 
 
-| 🔥🔥: 154 \| 💬: [200](https://news.ycombinator.com/item?id=43381215) \| 🗓️ 2025-03-16
+| 🔥🔥: 155 \| 💬: [201](https://news.ycombinator.com/item?id=43381215) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -135,7 +135,7 @@ AI工具如LLM（大语言模型）虽然能提高开发效率，但也可能导
 <small>🔗 [dicedb.io](https://dicedb.io/): DiceDB</small>
 
 
-| 🔥🔥: 145 \| 💬: [90](https://news.ycombinator.com/item?id=43379262) \| 🗓️ 2025-03-16
+| 🔥🔥: 154 \| 💬: [96](https://news.ycombinator.com/item?id=43379262) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -143,7 +143,19 @@ DiceDB 是一款**快速且针对现代硬件优化**的数据库，支持**查�
 
 ---
 
-## <a name="11"></a>11. 高中团队打造的太空探测器 
+## <a name="11"></a>11. 互联网泡沫破裂的教训 
+<small>🔗 [dfarq.homeip.net](https://dfarq.homeip.net/when-the-dotcom-bubble-burst/): When the Dotcom Bubble Burst</small>
+
+
+| 🔥🔥: 145 \| 💬: [100](https://news.ycombinator.com/item?id=43380453) \| 🗓️ 2025-03-16
+
+
+<br />
+2000年3月10日，**纳斯达克指数**达到历史高点5048.62点，随后互联网泡沫破裂，股市暴跌。投资者追逐下一个微软，但许多公司如**亚马逊**和**谷歌**直到多年后才实现盈利。泡沫期间，许多公司缺乏可行的商业模式，最终导致大量企业倒闭。泡沫破裂后，科技行业经历了长期低迷，直到2004年谷歌上市才标志着市场开始复苏。
+
+---
+
+## <a name="12"></a>12. 高中团队打造的太空探测器 
 <small>🔗 [drive.google.com](https://drive.google.com/file/d/1_9V6lBTIfDsPdKCohQBc5Ed5UzDbnsrI/view?usp=sharing): Show HN: My high school team’s space probe</small>
 
 
@@ -155,23 +167,11 @@ DiceDB 是一款**快速且针对现代硬件优化**的数据库，支持**查�
 
 ---
 
-## <a name="12"></a>12. 互联网泡沫破裂的教训 
-<small>🔗 [dfarq.homeip.net](https://dfarq.homeip.net/when-the-dotcom-bubble-burst/): When the Dotcom Bubble Burst</small>
-
-
-| 🔥🔥: 132 \| 💬: [94](https://news.ycombinator.com/item?id=43380453) \| 🗓️ 2025-03-16
-
-
-<br />
-2000年3月10日，**纳斯达克指数**达到历史高点5048.62点，随后互联网泡沫破裂，股市暴跌。投资者追逐下一个微软，但许多公司如**亚马逊**和**谷歌**直到多年后才实现盈利。泡沫期间，许多公司缺乏可行的商业模式，最终导致大量企业倒闭。泡沫破裂后，科技行业经历了长期低迷，直到2004年谷歌上市才标志着市场开始复苏。
-
----
-
 ## <a name="13"></a>13. 特斯拉自动驾驶撞上假墙：摄像头与激光雷达测试对比 
 <small>🔗 [electrek.co](https://electrek.co/2025/03/16/tesla-autopilot-drives-into-wall-camera-vs-lidar-test/): Tesla drives into Wile E. Coyote fake road wall in camera vs. Lidar test</small>
 
 
-| 🔥🔥: 122 \| 💬: [181](https://news.ycombinator.com/item?id=43382230) \| 🗓️ 2025-03-16
+| 🔥🔥: 122 \| 💬: [186](https://news.ycombinator.com/item?id=43382230) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -179,15 +179,15 @@ DiceDB 是一款**快速且针对现代硬件优化**的数据库，支持**查�
 
 ---
 
-## <a name="14"></a>14. 生成式AI时代下的自由与开放访问：挑战与反思 
-<small>🔗 [citationneeded.news](https://www.citationneeded.news/free-and-open-access-in-the-age-of-generative-ai/): "Wait, not like that": Free and open access in the age of generative AI</small>
+## <a name="14"></a>14. Tcl 教程 
+<small>🔗 [tcl-lang.org](https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html): Tcl Tutorial</small>
 
 
-| 🔥🔥: 111 \| 💬: [37](https://news.ycombinator.com/item?id=43380617) \| 🗓️ 2025-03-16
+| 🔥🔥: 117 \| 💬: [52](https://news.ycombinator.com/item?id=43381195) \| 🗓️ 2025-03-16
 
 
 <br />
-在生成式AI的背景下，**自由与开放访问**的理想面临挑战。许多创作者发现他们的作品被大公司用于训练AI模型，却未得到应有的回报或尊重。尽管一些人试图通过更严格的许可或付费墙来保护作品，但这可能破坏**知识共享**的初衷。文章呼吁建立公平的机制，确保AI公司在使用开放资源时尊重创作者，并支持知识共享的基础设施。
+本教程介绍了 **Tcl** 编程语言的基础知识，包括变量赋值、命令评估与替换、数学运算、条件判断、循环结构、列表操作、字符串处理、正则表达式、数组与字典、文件访问、子进程调用、调试技巧等。还涵盖了 **proc** 命令创建、模块化编程、命名空间、错误处理、时间与日期操作等高级主题。适合初学者快速掌握 Tcl 的核心功能。
 
 ---
 
@@ -195,7 +195,7 @@ DiceDB 是一款**快速且针对现代硬件优化**的数据库，支持**查�
 <small>🔗 [stevelosh.com](https://stevelosh.com/blog/2013/09/teach-dont-tell/): Teach, Don't Tell (2013)</small>
 
 
-| 🔥🔥: 109 \| 💬: [25](https://news.ycombinator.com/item?id=43380833) \| 🗓️ 2025-03-16
+| 🔥🔥: 116 \| 💬: [28](https://news.ycombinator.com/item?id=43380833) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -203,11 +203,23 @@ DiceDB 是一款**快速且针对现代硬件优化**的数据库，支持**查�
 
 ---
 
-## <a name="16"></a>16. Amiga 600：从无人问津到复古宠儿 
+## <a name="16"></a>16. 生成式AI时代下的自由与开放访问：挑战与反思 
+<small>🔗 [citationneeded.news](https://www.citationneeded.news/free-and-open-access-in-the-age-of-generative-ai/): "Wait, not like that": Free and open access in the age of generative AI</small>
+
+
+| 🔥🔥: 113 \| 💬: [37](https://news.ycombinator.com/item?id=43380617) \| 🗓️ 2025-03-16
+
+
+<br />
+在生成式AI的背景下，**自由与开放访问**的理想面临挑战。许多创作者发现他们的作品被大公司用于训练AI模型，却未得到应有的回报或尊重。尽管一些人试图通过更严格的许可或付费墙来保护作品，但这可能破坏**知识共享**的初衷。文章呼吁建立公平的机制，确保AI公司在使用开放资源时尊重创作者，并支持知识共享的基础设施。
+
+---
+
+## <a name="17"></a>17. Amiga 600：从无人问津到复古宠儿 
 <small>🔗 [dfarq.homeip.net](https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/): Amiga 600: From the Amiga No One Wanted to Retro Favorite</small>
 
 
-| 🔥🔥: 106 \| 💬: [53](https://news.ycombinator.com/item?id=43380649) \| 🗓️ 2025-03-16
+| 🔥🔥: 109 \| 💬: [55](https://news.ycombinator.com/item?id=43380649) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -215,7 +227,19 @@ Amiga 600 是 Commodore 在 1992 年推出的一款**低成本家用电脑**，�
 
 ---
 
-## <a name="17"></a>17. 学习Erlang，成就非凡！ 
+## <a name="18"></a>18. 10支团队竞相打造Pivotal Tracker替代品 
+<small>🔗 [bye-tracker.net](https://bye-tracker.net): Show HN: 10 teams are racing to build a pivotal tracker replacement</small>
+
+
+| 🔥🔥: 104 \| 💬: [41](https://news.ycombinator.com/item?id=43378925) \| 🗓️ 2025-03-16
+
+
+<br />
+随着Pivotal Tracker即将关闭，全球超过10支团队正在努力开发替代品，延续其**开发者友好**和**自动化规划**的理念。这些项目旨在提供**实时协作**、简洁的UI和高效的工作流，避免复杂的设置和有毒的规划实践。社区正在积极跟进这些新工具的进展。
+
+---
+
+## <a name="19"></a>19. 学习Erlang，成就非凡！ 
 <small>🔗 [learnyousomeerlang.com](https://learnyousomeerlang.com/content): Learn You Some Erlang for Great Good (2013)</small>
 
 
@@ -227,35 +251,11 @@ Amiga 600 是 Commodore 在 1992 年推出的一款**低成本家用电脑**，�
 
 ---
 
-## <a name="18"></a>18. Tcl 教程 
-<small>🔗 [tcl-lang.org](https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html): Tcl Tutorial</small>
-
-
-| 🔥🔥: 103 \| 💬: [51](https://news.ycombinator.com/item?id=43381195) \| 🗓️ 2025-03-16
-
-
-<br />
-本教程介绍了 **Tcl** 编程语言的基础知识，包括变量赋值、命令评估与替换、数学运算、条件判断、循环结构、列表操作、字符串处理、正则表达式、数组与字典、文件访问、子进程调用、调试技巧等。还涵盖了 **proc** 命令创建、模块化编程、命名空间、错误处理、时间与日期操作等高级主题。适合初学者快速掌握 Tcl 的核心功能。
-
----
-
-## <a name="19"></a>19. 10支团队竞相打造Pivotal Tracker替代品 
-<small>🔗 [bye-tracker.net](https://bye-tracker.net): Show HN: 10 teams are racing to build a pivotal tracker replacement</small>
-
-
-| 🔥: 99 \| 💬: [41](https://news.ycombinator.com/item?id=43378925) \| 🗓️ 2025-03-16
-
-
-<br />
-随着Pivotal Tracker即将关闭，全球超过10支团队正在努力开发替代品，延续其**开发者友好**和**自动化规划**的理念。这些项目旨在提供**实时协作**、简洁的UI和高效的工作流，避免复杂的设置和有毒的规划实践。社区正在积极跟进这些新工具的进展。
-
----
-
 ## <a name="20"></a>20. 使用Hoarder构建个人存档 
 <small>🔗 [brainsteam.co.uk](https://brainsteam.co.uk/2025/2/15/personal-archive-hoarder/): Building a Personal Archive with Hoarder</small>
 
 
-| 🔥: 95 \| 💬: [6](https://news.ycombinator.com/item?id=43379917) \| 🗓️ 2025-03-16
+| 🔥: 100 \| 💬: [7](https://news.ycombinator.com/item?id=43379917) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -267,7 +267,7 @@ Hoarder是一款开源工具，允许用户在本地服务器上**存档网页�
 <small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/raytracing-on-intels-arc-b580): Raytracing on Intel's Arc B580</small>
 
 
-| 🔥: 90 \| 💬: [65](https://news.ycombinator.com/item?id=43378330) \| 🗓️ 2025-03-16
+| 🔥: 90 \| 💬: [67](https://news.ycombinator.com/item?id=43378330) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -275,7 +275,19 @@ Hoarder是一款开源工具，允许用户在本地服务器上**存档网页�
 
 ---
 
-## <a name="22"></a>22. 雄性章鱼交配时向雌性注射毒液以避免被吃掉 
+## <a name="22"></a>22. 微软1986年IPO：改变科技行业的里程碑 
+<small>🔗 [dfarq.homeip.net](https://dfarq.homeip.net/microsofts-1986-ipo/): Microsoft's 1986 IPO</small>
+
+
+| 🔥: 90 \| 💬: [41](https://news.ycombinator.com/item?id=43381141) \| 🗓️ 2025-03-16
+
+
+<br />
+1986年3月13日，微软成功上市，**IPO估值21美元/股**，融资6100万美元，市值达7.77亿美元。**比尔·盖茨**持有45%股份，身价近3.5亿美元。微软通过操作系统和软件授权盈利，**MS-DOS**和Windows奠定了其垄断地位。此次IPO直接推动了90年代末的互联网泡沫，并催生了亚马逊和谷歌等科技巨头。
+
+---
+
+## <a name="23"></a>23. 雄性章鱼交配时向雌性注射毒液以避免被吃掉 
 <small>🔗 [newscientist.com](https://www.newscientist.com/article/2471120-male-octopus-injects-female-with-venom-during-sex-to-avoid-being-eaten/): Male octopus injects female with venom during sex to avoid being eaten</small>
 
 
@@ -287,23 +299,11 @@ Hoarder是一款开源工具，允许用户在本地服务器上**存档网页�
 
 ---
 
-## <a name="23"></a>23. 微软1986年IPO：改变科技行业的里程碑 
-<small>🔗 [dfarq.homeip.net](https://dfarq.homeip.net/microsofts-1986-ipo/): Microsoft's 1986 IPO</small>
-
-
-| 🔥: 86 \| 💬: [36](https://news.ycombinator.com/item?id=43381141) \| 🗓️ 2025-03-16
-
-
-<br />
-1986年3月13日，微软成功上市，**IPO估值21美元/股**，融资6100万美元，市值达7.77亿美元。**比尔·盖茨**持有45%股份，身价近3.5亿美元。微软通过操作系统和软件授权盈利，**MS-DOS**和Windows奠定了其垄断地位。此次IPO直接推动了90年代末的互联网泡沫，并催生了亚马逊和谷歌等科技巨头。
-
----
-
 ## <a name="24"></a>24. GL-iNet 开源远程KVM设备：Comet 
 <small>🔗 [gl-inet.com](https://www.gl-inet.com/products/gl-rm1/): Comet open source remote KVM from GL-iNet</small>
 
 
-| 🔥: 78 \| 💬: [46](https://news.ycombinator.com/item?id=43378900) \| 🗓️ 2025-03-16
+| 🔥: 82 \| 💬: [48](https://news.ycombinator.com/item?id=43378900) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -311,14 +311,14 @@ Comet (GL-RM1) 是一款**开源远程KVM硬件**，支持2K@60FPS高清视频�
 
 ---
 
-## <a name="25"></a>25. 微软将Notepad和Paint的部分功能设为付费 
-<small>🔗 [pcworld.com](https://www.pcworld.com/article/2614943/microsoft-is-paywalling-these-features-in-notepad-and-paint.html): Microsoft paywalling features in Notepad and Paint</small>
+## <a name="25"></a>25. 德国顶尖研究机构权力滥用丑闻 
+<small>🔗 [dw.com](https://www.dw.com/en/max-planck-institute-abuse-of-power-elite-scientists-germany-v2/video-71904207): Abuse of power at Germany's elite research institution [video]</small>
 
 
-| 🔥: 77 \| 💬: [73](https://news.ycombinator.com/item?id=43382392) \| 🗓️ 2025-03-16
+| 🔥: 78 \| 💬: [10](https://news.ycombinator.com/item?id=43380643) \| 🗓️ 2025-03-16
 
 
 <br />
-微软宣布，**Notepad**和**Paint**的部分新功能将需要**Microsoft 365订阅**才能使用。Notepad的AI文本重写、生成和调整功能，以及Paint的AI图像生成功能将被锁定。免费用户仍可使用基本功能，但新特性需付费解锁。这是微软首次对这些经典应用实施付费墙。
+德国马克斯·普朗克学会是科学研究的标杆，拥有84个研究所和31位诺贝尔奖得主。然而，**权力滥用**和**有毒的工作环境**在其内部长期存在。DW与《明镜》周刊调查发现，许多年轻科学家遭受**欺凌**，却因害怕报复而不敢举报。少数举报者表示，他们被劝阻甚至压制。
 
 ---
