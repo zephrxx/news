@@ -10,9 +10,9 @@ tags:
 
 1. 开源文档协作平台：Notion 和 Outline 的替代品；
 1. 塞尔维亚使用军用级声波武器对抗抗议者；
-1. GPT 4.5 级别，价格仅需1%；
+1. WHOIS服务即将退役，RDAP将成为新标准；
 1. 我们的界面失去了感官体验；
-1. 大型语言模型权重是历史的见证；
+1. GPT 4.5 级别，价格仅需1%；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [github.com](https://github.com/suitenumerique/docs): Docs – Open source alternative to Notion or Outline</small>
 
 
-| 🔥🔥: 1221 \| 💬: [347](https://news.ycombinator.com/item?id=43378239) \| 🗓️ 2025-03-16
+| 🔥🔥: 1241 \| 💬: [349](https://news.ycombinator.com/item?id=43378239) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/nexta_tv/status/1901244199220982213): Military grade sonic weapon is used against protesters in Serbia</small>
 
 
-| 🔥🔥: 439 \| 💬: [310](https://news.ycombinator.com/item?id=43382093) \| 🗓️ 2025-03-16
+| 🔥🔥: 449 \| 💬: [320](https://news.ycombinator.com/item?id=43382093) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -47,47 +47,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. GPT 4.5 级别，价格仅需1% 
-<small>🔗 [twitter.com](https://twitter.com/Baidu_Inc/status/1901089355890036897): GPT 4.5 level for 1% of the price</small>
-
-
-| 🔥🔥: 285 \| 💬: [235](https://news.ycombinator.com/item?id=43377962) \| 🗓️ 2025-03-16
-
-
-<br />
-该内容提示用户浏览器中**JavaScript**被禁用，建议启用或切换到支持的浏览器以继续使用x.com。如果遇到问题，可能是由于**隐私相关扩展**导致的，建议禁用后重试。更多信息可在帮助中心查看。
-
----
-
-## <a name="4"></a>4. 我们的界面失去了感官体验 
-<small>🔗 [wattenberger.com](https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses): Our interfaces have lost their senses</small>
-
-
-| 🔥🔥: 284 \| 💬: [137](https://news.ycombinator.com/item?id=43380930) \| 🗓️ 2025-03-16
-
-
-<br />
-我们的数字世界变得越来越扁平化，**触觉、听觉和运动**逐渐消失，只剩下玻璃屏幕下的文字。虽然界面简化了，但我们是否忽略了**人机交互**的本质？过去，计算机操作是全身参与的体验，如今却只剩下触摸屏和文本输入。未来的界面应结合**多感官交互**，如声音、触觉和手势，让技术更贴合我们的身体和思维。
-
----
-
-## <a name="5"></a>5. 大型语言模型权重是历史的见证 
-<small>🔗 [antirez.com](https://antirez.com/news/147): Big LLMs weights are a piece of history</small>
-
-
-| 🔥🔥: 252 \| 💬: [177](https://news.ycombinator.com/item?id=43378401) \| 🗓️ 2025-03-16
-
-
-<br />
-大型语言模型的**权重**不仅是技术的核心，更是**历史**的见证。它们记录了模型训练过程中的大量数据和知识，反映了人工智能发展的**重要里程碑**。这些权重不仅是技术的成果，也是人类智慧的结晶。
-
----
-
-## <a name="6"></a>6. WHOIS服务即将退役，RDAP将成为新标准 
+## <a name="3"></a>3. WHOIS服务即将退役，RDAP将成为新标准 
 <small>🔗 [icann.org](https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en): Sunsetting Whois</small>
 
 
-| 🔥🔥: 244 \| 💬: [111](https://news.ycombinator.com/item?id=43384069) \| 🗓️ 2025-03-16
+| 🔥🔥: 302 \| 💬: [127](https://news.ycombinator.com/item?id=43384069) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -95,11 +59,47 @@ tags:
 
 ---
 
+## <a name="4"></a>4. 我们的界面失去了感官体验 
+<small>🔗 [wattenberger.com](https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses): Our interfaces have lost their senses</small>
+
+
+| 🔥🔥: 290 \| 💬: [139](https://news.ycombinator.com/item?id=43380930) \| 🗓️ 2025-03-16
+
+
+<br />
+我们的数字世界变得越来越扁平化，**触觉、听觉和运动**逐渐消失，只剩下玻璃屏幕下的文字。虽然界面简化了，但我们是否忽略了**人机交互**的本质？过去，计算机操作是全身参与的体验，如今却只剩下触摸屏和文本输入。未来的界面应结合**多感官交互**，如声音、触觉和手势，让技术更贴合我们的身体和思维。
+
+---
+
+## <a name="5"></a>5. GPT 4.5 级别，价格仅需1% 
+<small>🔗 [twitter.com](https://twitter.com/Baidu_Inc/status/1901089355890036897): GPT 4.5 level for 1% of the price</small>
+
+
+| 🔥🔥: 286 \| 💬: [235](https://news.ycombinator.com/item?id=43377962) \| 🗓️ 2025-03-16
+
+
+<br />
+该内容提示用户浏览器中**JavaScript**被禁用，建议启用或切换到支持的浏览器以继续使用x.com。如果遇到问题，可能是由于**隐私相关扩展**导致的，建议禁用后重试。更多信息可在帮助中心查看。
+
+---
+
+## <a name="6"></a>6. 大型语言模型权重是历史的见证 
+<small>🔗 [antirez.com](https://antirez.com/news/147): Big LLMs weights are a piece of history</small>
+
+
+| 🔥🔥: 260 \| 💬: [184](https://news.ycombinator.com/item?id=43378401) \| 🗓️ 2025-03-16
+
+
+<br />
+大型语言模型的**权重**不仅是技术的核心，更是**历史**的见证。它们记录了模型训练过程中的大量数据和知识，反映了人工智能发展的**重要里程碑**。这些权重不仅是技术的成果，也是人类智慧的结晶。
+
+---
+
 ## <a name="7"></a>7. zlib-rs 性能超越 C 语言实现 
 <small>🔗 [trifectatech.org](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/): Zlib-rs is faster than C</small>
 
 
-| 🔥🔥: 177 \| 💬: [217](https://news.ycombinator.com/item?id=43381512) \| 🗓️ 2025-03-16
+| 🔥🔥: 190 \| 💬: [241](https://news.ycombinator.com/item?id=43381512) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -111,7 +111,7 @@ zlib-rs 发布了 0.4.2 版本，**解压缩性能**显著提升，成为目前�
 <small>🔗 [seangoedecke.com](https://www.seangoedecke.com/good-times-are-over/): The good times in tech are over</small>
 
 
-| 🔥🔥: 162 \| 💬: [224](https://news.ycombinator.com/item?id=43378321) \| 🗓️ 2025-03-16
+| 🔥🔥: 162 \| 💬: [227](https://news.ycombinator.com/item?id=43378321) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -123,7 +123,7 @@ zlib-rs 发布了 0.4.2 版本，**解压缩性能**显著提升，成为目前�
 <small>🔗 [eli.cx](https://eli.cx/blog/ai-is-making-developers-dumb): AI Is Making Developers Dumb</small>
 
 
-| 🔥🔥: 153 \| 💬: [197](https://news.ycombinator.com/item?id=43381215) \| 🗓️ 2025-03-16
+| 🔥🔥: 154 \| 💬: [200](https://news.ycombinator.com/item?id=43381215) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -131,7 +131,19 @@ AI工具如LLM（大语言模型）虽然能提高开发效率，但也可能导
 
 ---
 
-## <a name="10"></a>10. 高中团队打造的太空探测器 
+## <a name="10"></a>10. DiceDB：超越缓存，比数据库更智能 
+<small>🔗 [dicedb.io](https://dicedb.io/): DiceDB</small>
+
+
+| 🔥🔥: 145 \| 💬: [90](https://news.ycombinator.com/item?id=43379262) \| 🗓️ 2025-03-16
+
+
+<br />
+DiceDB 是一款**快速且针对现代硬件优化**的数据库，支持**查询订阅**，具备**响应式特性**。它易于使用、开源，并提供了丰富的文档和示例。无论是开发者还是企业，都能轻松上手并充分利用其强大功能。
+
+---
+
+## <a name="11"></a>11. 高中团队打造的太空探测器 
 <small>🔗 [drive.google.com](https://drive.google.com/file/d/1_9V6lBTIfDsPdKCohQBc5Ed5UzDbnsrI/view?usp=sharing): Show HN: My high school team’s space probe</small>
 
 
@@ -143,23 +155,11 @@ AI工具如LLM（大语言模型）虽然能提高开发效率，但也可能导
 
 ---
 
-## <a name="11"></a>11. DiceDB：超越缓存，比数据库更智能 
-<small>🔗 [dicedb.io](https://dicedb.io/): DiceDB</small>
-
-
-| 🔥🔥: 133 \| 💬: [88](https://news.ycombinator.com/item?id=43379262) \| 🗓️ 2025-03-16
-
-
-<br />
-DiceDB 是一款**快速且针对现代硬件优化**的数据库，支持**查询订阅**，具备**响应式特性**。它易于使用、开源，并提供了丰富的文档和示例。无论是开发者还是企业，都能轻松上手并充分利用其强大功能。
-
----
-
 ## <a name="12"></a>12. 互联网泡沫破裂的教训 
 <small>🔗 [dfarq.homeip.net](https://dfarq.homeip.net/when-the-dotcom-bubble-burst/): When the Dotcom Bubble Burst</small>
 
 
-| 🔥🔥: 126 \| 💬: [89](https://news.ycombinator.com/item?id=43380453) \| 🗓️ 2025-03-16
+| 🔥🔥: 132 \| 💬: [94](https://news.ycombinator.com/item?id=43380453) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -171,7 +171,7 @@ DiceDB 是一款**快速且针对现代硬件优化**的数据库，支持**查�
 <small>🔗 [electrek.co](https://electrek.co/2025/03/16/tesla-autopilot-drives-into-wall-camera-vs-lidar-test/): Tesla drives into Wile E. Coyote fake road wall in camera vs. Lidar test</small>
 
 
-| 🔥🔥: 122 \| 💬: [171](https://news.ycombinator.com/item?id=43382230) \| 🗓️ 2025-03-16
+| 🔥🔥: 122 \| 💬: [181](https://news.ycombinator.com/item?id=43382230) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -183,7 +183,7 @@ DiceDB 是一款**快速且针对现代硬件优化**的数据库，支持**查�
 <small>🔗 [citationneeded.news](https://www.citationneeded.news/free-and-open-access-in-the-age-of-generative-ai/): "Wait, not like that": Free and open access in the age of generative AI</small>
 
 
-| 🔥🔥: 109 \| 💬: [36](https://news.ycombinator.com/item?id=43380617) \| 🗓️ 2025-03-16
+| 🔥🔥: 111 \| 💬: [37](https://news.ycombinator.com/item?id=43380617) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -191,23 +191,11 @@ DiceDB 是一款**快速且针对现代硬件优化**的数据库，支持**查�
 
 ---
 
-## <a name="15"></a>15. 学习Erlang，成就非凡！ 
-<small>🔗 [learnyousomeerlang.com](https://learnyousomeerlang.com/content): Learn You Some Erlang for Great Good (2013)</small>
-
-
-| 🔥🔥: 102 \| 💬: [24](https://news.ycombinator.com/item?id=43378415) \| 🗓️ 2025-03-16
-
-
-<br />
-《学习Erlang，成就非凡！》是一本关于Erlang编程语言的教程，内容涵盖从基础语法到高级并发编程的各个方面。书中详细介绍了**模块**、**递归**、**高阶函数**、**错误处理**以及**OTP框架**等核心概念。通过丰富的示例和深入的解释，帮助读者掌握Erlang的强大功能，特别是在分布式系统和并发编程中的应用。适合初学者和有经验的开发者阅读。
-
----
-
-## <a name="16"></a>16. 教，而非说（2013） 
+## <a name="15"></a>15. 教，而非说（2013） 
 <small>🔗 [stevelosh.com](https://stevelosh.com/blog/2013/09/teach-dont-tell/): Teach, Don't Tell (2013)</small>
 
 
-| 🔥🔥: 102 \| 💬: [23](https://news.ycombinator.com/item?id=43380833) \| 🗓️ 2025-03-16
+| 🔥🔥: 109 \| 💬: [25](https://news.ycombinator.com/item?id=43380833) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -215,11 +203,11 @@ DiceDB 是一款**快速且针对现代硬件优化**的数据库，支持**查�
 
 ---
 
-## <a name="17"></a>17. Amiga 600：从无人问津到复古宠儿 
+## <a name="16"></a>16. Amiga 600：从无人问津到复古宠儿 
 <small>🔗 [dfarq.homeip.net](https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/): Amiga 600: From the Amiga No One Wanted to Retro Favorite</small>
 
 
-| 🔥🔥: 101 \| 💬: [53](https://news.ycombinator.com/item?id=43380649) \| 🗓️ 2025-03-16
+| 🔥🔥: 106 \| 💬: [53](https://news.ycombinator.com/item?id=43380649) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -227,11 +215,23 @@ Amiga 600 是 Commodore 在 1992 年推出的一款**低成本家用电脑**，�
 
 ---
 
+## <a name="17"></a>17. 学习Erlang，成就非凡！ 
+<small>🔗 [learnyousomeerlang.com](https://learnyousomeerlang.com/content): Learn You Some Erlang for Great Good (2013)</small>
+
+
+| 🔥🔥: 103 \| 💬: [25](https://news.ycombinator.com/item?id=43378415) \| 🗓️ 2025-03-16
+
+
+<br />
+《学习Erlang，成就非凡！》是一本关于Erlang编程语言的教程，内容涵盖从基础语法到高级并发编程的各个方面。书中详细介绍了**模块**、**递归**、**高阶函数**、**错误处理**以及**OTP框架**等核心概念。通过丰富的示例和深入的解释，帮助读者掌握Erlang的强大功能，特别是在分布式系统和并发编程中的应用。适合初学者和有经验的开发者阅读。
+
+---
+
 ## <a name="18"></a>18. Tcl 教程 
 <small>🔗 [tcl-lang.org](https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html): Tcl Tutorial</small>
 
 
-| 🔥: 98 \| 💬: [50](https://news.ycombinator.com/item?id=43381195) \| 🗓️ 2025-03-16
+| 🔥🔥: 103 \| 💬: [51](https://news.ycombinator.com/item?id=43381195) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -243,7 +243,7 @@ Amiga 600 是 Commodore 在 1992 年推出的一款**低成本家用电脑**，�
 <small>🔗 [bye-tracker.net](https://bye-tracker.net): Show HN: 10 teams are racing to build a pivotal tracker replacement</small>
 
 
-| 🔥: 93 \| 💬: [40](https://news.ycombinator.com/item?id=43378925) \| 🗓️ 2025-03-16
+| 🔥: 99 \| 💬: [41](https://news.ycombinator.com/item?id=43378925) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -255,7 +255,7 @@ Amiga 600 是 Commodore 在 1992 年推出的一款**低成本家用电脑**，�
 <small>🔗 [brainsteam.co.uk](https://brainsteam.co.uk/2025/2/15/personal-archive-hoarder/): Building a Personal Archive with Hoarder</small>
 
 
-| 🔥: 92 \| 💬: [6](https://news.ycombinator.com/item?id=43379917) \| 🗓️ 2025-03-16
+| 🔥: 95 \| 💬: [6](https://news.ycombinator.com/item?id=43379917) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -291,7 +291,7 @@ Hoarder是一款开源工具，允许用户在本地服务器上**存档网页�
 <small>🔗 [dfarq.homeip.net](https://dfarq.homeip.net/microsofts-1986-ipo/): Microsoft's 1986 IPO</small>
 
 
-| 🔥: 84 \| 💬: [35](https://news.ycombinator.com/item?id=43381141) \| 🗓️ 2025-03-16
+| 🔥: 86 \| 💬: [36](https://news.ycombinator.com/item?id=43381141) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -299,15 +299,15 @@ Hoarder是一款开源工具，允许用户在本地服务器上**存档网页�
 
 ---
 
-## <a name="24"></a>24. 德国顶尖研究机构权力滥用丑闻 
-<small>🔗 [dw.com](https://www.dw.com/en/max-planck-institute-abuse-of-power-elite-scientists-germany-v2/video-71904207): Abuse of power at Germany's elite research institution [video]</small>
+## <a name="24"></a>24. GL-iNet 开源远程KVM设备：Comet 
+<small>🔗 [gl-inet.com](https://www.gl-inet.com/products/gl-rm1/): Comet open source remote KVM from GL-iNet</small>
 
 
-| 🔥: 75 \| 💬: [10](https://news.ycombinator.com/item?id=43380643) \| 🗓️ 2025-03-16
+| 🔥: 78 \| 💬: [46](https://news.ycombinator.com/item?id=43378900) \| 🗓️ 2025-03-16
 
 
 <br />
-德国马克斯·普朗克学会是科学研究的标杆，拥有84个研究所和31位诺贝尔奖得主。然而，**权力滥用**和**有毒的工作环境**在其内部长期存在。DW与《明镜》周刊调查发现，许多年轻科学家遭受**欺凌**，却因害怕报复而不敢举报。少数举报者表示，他们被劝阻甚至压制。
+Comet (GL-RM1) 是一款**开源远程KVM硬件**，支持2K@60FPS高清视频和低延迟（30-60ms），适用于远程办公、服务器维护等场景。它具备**千兆以太网接口**、H.264硬件编码和远程文件传输功能，兼容多种设备，如迷你PC、服务器等。其便携设计和强大性能使其成为远程设备管理的理想选择。
 
 ---
 
@@ -315,7 +315,7 @@ Hoarder是一款开源工具，允许用户在本地服务器上**存档网页�
 <small>🔗 [pcworld.com](https://www.pcworld.com/article/2614943/microsoft-is-paywalling-these-features-in-notepad-and-paint.html): Microsoft paywalling features in Notepad and Paint</small>
 
 
-| 🔥: 75 \| 💬: [72](https://news.ycombinator.com/item?id=43382392) \| 🗓️ 2025-03-16
+| 🔥: 77 \| 💬: [73](https://news.ycombinator.com/item?id=43382392) \| 🗓️ 2025-03-16
 
 
 <br />
