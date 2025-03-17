@@ -27,7 +27,7 @@ tags:
 <small>🔗 [github.com](https://github.com/suitenumerique/docs): Docs – Open source alternative to Notion or Outline</small>
 
 
-| 🔥🔥: 1156 \| 💬: [338](https://news.ycombinator.com/item?id=43378239) \| 🗓️ 2025-03-16
+| 🔥🔥: 1186 \| 💬: [342](https://news.ycombinator.com/item?id=43378239) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/nexta_tv/status/1901244199220982213): Military grade sonic weapon is used against protesters in Serbia</small>
 
 
-| 🔥🔥: 397 \| 💬: [264](https://news.ycombinator.com/item?id=43382093) \| 🗓️ 2025-03-16
+| 🔥🔥: 430 \| 💬: [301](https://news.ycombinator.com/item?id=43382093) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/Baidu_Inc/status/1901089355890036897): GPT 4.5 level for 1% of the price</small>
 
 
-| 🔥🔥: 282 \| 💬: [231](https://news.ycombinator.com/item?id=43377962) \| 🗓️ 2025-03-16
+| 🔥🔥: 284 \| 💬: [232](https://news.ycombinator.com/item?id=43377962) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [wattenberger.com](https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses): Our interfaces have lost their senses</small>
 
 
-| 🔥🔥: 261 \| 💬: [131](https://news.ycombinator.com/item?id=43380930) \| 🗓️ 2025-03-16
+| 🔥🔥: 276 \| 💬: [134](https://news.ycombinator.com/item?id=43380930) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [antirez.com](https://antirez.com/news/147): Big LLMs weights are a piece of history</small>
 
 
-| 🔥🔥: 242 \| 💬: [171](https://news.ycombinator.com/item?id=43378401) \| 🗓️ 2025-03-16
+| 🔥🔥: 247 \| 💬: [173](https://news.ycombinator.com/item?id=43378401) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -83,15 +83,15 @@ tags:
 
 ---
 
-## <a name="6"></a>6. 科技行业的黄金时代已经结束 
-<small>🔗 [seangoedecke.com](https://www.seangoedecke.com/good-times-are-over/): The good times in tech are over</small>
+## <a name="6"></a>6. WHOIS服务即将退役，RDAP将成为新标准 
+<small>🔗 [icann.org](https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en): Sunsetting Whois</small>
 
 
-| 🔥🔥: 159 \| 💬: [220](https://news.ycombinator.com/item?id=43378321) \| 🗓️ 2025-03-16
+| 🔥🔥: 185 \| 💬: [83](https://news.ycombinator.com/item?id=43384069) \| 🗓️ 2025-03-16
 
 
 <br />
-过去十年，软件工程师享受着高薪、福利和安全感，但随着**利率上升**，科技公司开始追求盈利，裁员成为常态。**公司不再盲目扩张**，而是专注于核心业务，工程师的利益与公司目标产生冲突。尽管失去了一些特权，但行业回归现实，**提供价值**成为关键。
+自2025年1月28日起，**RDAP（注册数据访问协议）**将取代WHOIS，成为提供通用顶级域名（gTLD）注册信息的权威来源。RDAP支持国际化、数据安全访问和差异化数据访问，自2019年起已由ICANN认证的注册商和gTLD提供。用户可通过ICANN的RDAP查询工具或开源命令行客户端访问数据。非公开数据需通过**RDRS（注册数据请求服务）**申请，适用于执法、知识产权等专业人士。ICANN致力于维护全球互联网的稳定与安全。
 
 ---
 
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [trifectatech.org](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/): Zlib-rs is faster than C</small>
 
 
-| 🔥🔥: 159 \| 💬: [195](https://news.ycombinator.com/item?id=43381512) \| 🗓️ 2025-03-16
+| 🔥🔥: 169 \| 💬: [198](https://news.ycombinator.com/item?id=43381512) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -107,11 +107,23 @@ zlib-rs 发布了 0.4.2 版本，**解压缩性能**显著提升，成为目前�
 
 ---
 
-## <a name="8"></a>8. AI正在让开发者变笨 
+## <a name="8"></a>8. 科技行业的黄金时代已经结束 
+<small>🔗 [seangoedecke.com](https://www.seangoedecke.com/good-times-are-over/): The good times in tech are over</small>
+
+
+| 🔥🔥: 161 \| 💬: [221](https://news.ycombinator.com/item?id=43378321) \| 🗓️ 2025-03-16
+
+
+<br />
+过去十年，软件工程师享受着高薪、福利和安全感，但随着**利率上升**，科技公司开始追求盈利，裁员成为常态。**公司不再盲目扩张**，而是专注于核心业务，工程师的利益与公司目标产生冲突。尽管失去了一些特权，但行业回归现实，**提供价值**成为关键。
+
+---
+
+## <a name="9"></a>9. AI正在让开发者变笨 
 <small>🔗 [eli.cx](https://eli.cx/blog/ai-is-making-developers-dumb): AI Is Making Developers Dumb</small>
 
 
-| 🔥🔥: 149 \| 💬: [196](https://news.ycombinator.com/item?id=43381215) \| 🗓️ 2025-03-16
+| 🔥🔥: 152 \| 💬: [197](https://news.ycombinator.com/item?id=43381215) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -119,11 +131,11 @@ AI工具如LLM（大语言模型）虽然能提高开发效率，但也可能导
 
 ---
 
-## <a name="9"></a>9. 高中团队打造的太空探测器 
+## <a name="10"></a>10. 高中团队打造的太空探测器 
 <small>🔗 [drive.google.com](https://drive.google.com/file/d/1_9V6lBTIfDsPdKCohQBc5Ed5UzDbnsrI/view?usp=sharing): Show HN: My high school team’s space probe</small>
 
 
-| 🔥🔥: 132 \| 💬: [26](https://news.ycombinator.com/item?id=43377690) \| 🗓️ 2025-03-16
+| 🔥🔥: 135 \| 💬: [26](https://news.ycombinator.com/item?id=43377690) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -131,11 +143,11 @@ AI工具如LLM（大语言模型）虽然能提高开发效率，但也可能导
 
 ---
 
-## <a name="10"></a>10. DiceDB：超越缓存，比数据库更智能 
+## <a name="11"></a>11. DiceDB：超越缓存，比数据库更智能 
 <small>🔗 [dicedb.io](https://dicedb.io/): DiceDB</small>
 
 
-| 🔥🔥: 116 \| 💬: [84](https://news.ycombinator.com/item?id=43379262) \| 🗓️ 2025-03-16
+| 🔥🔥: 122 \| 💬: [88](https://news.ycombinator.com/item?id=43379262) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -143,11 +155,11 @@ DiceDB 是一款**快速且针对现代硬件优化**的数据库，支持**查�
 
 ---
 
-## <a name="11"></a>11. 特斯拉自动驾驶撞上假墙：摄像头与激光雷达测试对比 
+## <a name="12"></a>12. 特斯拉自动驾驶撞上假墙：摄像头与激光雷达测试对比 
 <small>🔗 [electrek.co](https://electrek.co/2025/03/16/tesla-autopilot-drives-into-wall-camera-vs-lidar-test/): Tesla drives into Wile E. Coyote fake road wall in camera vs. Lidar test</small>
 
 
-| 🔥🔥: 113 \| 💬: [159](https://news.ycombinator.com/item?id=43382230) \| 🗓️ 2025-03-16
+| 🔥🔥: 117 \| 💬: [161](https://news.ycombinator.com/item?id=43382230) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -155,11 +167,11 @@ DiceDB 是一款**快速且针对现代硬件优化**的数据库，支持**查�
 
 ---
 
-## <a name="12"></a>12. 互联网泡沫破裂的教训 
+## <a name="13"></a>13. 互联网泡沫破裂的教训 
 <small>🔗 [dfarq.homeip.net](https://dfarq.homeip.net/when-the-dotcom-bubble-burst/): When the Dotcom Bubble Burst</small>
 
 
-| 🔥🔥: 105 \| 💬: [73](https://news.ycombinator.com/item?id=43380453) \| 🗓️ 2025-03-16
+| 🔥🔥: 116 \| 💬: [75](https://news.ycombinator.com/item?id=43380453) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -167,11 +179,11 @@ DiceDB 是一款**快速且针对现代硬件优化**的数据库，支持**查�
 
 ---
 
-## <a name="13"></a>13. 生成式AI时代下的自由与开放访问：挑战与反思 
+## <a name="14"></a>14. 生成式AI时代下的自由与开放访问：挑战与反思 
 <small>🔗 [citationneeded.news](https://www.citationneeded.news/free-and-open-access-in-the-age-of-generative-ai/): "Wait, not like that": Free and open access in the age of generative AI</small>
 
 
-| 🔥🔥: 105 \| 💬: [35](https://news.ycombinator.com/item?id=43380617) \| 🗓️ 2025-03-16
+| 🔥🔥: 107 \| 💬: [36](https://news.ycombinator.com/item?id=43380617) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -179,7 +191,7 @@ DiceDB 是一款**快速且针对现代硬件优化**的数据库，支持**查�
 
 ---
 
-## <a name="14"></a>14. 学习Erlang，成就非凡！ 
+## <a name="15"></a>15. 学习Erlang，成就非凡！ 
 <small>🔗 [learnyousomeerlang.com](https://learnyousomeerlang.com/content): Learn You Some Erlang for Great Good (2013)</small>
 
 
@@ -191,35 +203,11 @@ DiceDB 是一款**快速且针对现代硬件优化**的数据库，支持**查�
 
 ---
 
-## <a name="15"></a>15. WHOIS服务即将退役，RDAP将成为新标准 
-<small>🔗 [icann.org](https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en): Sunsetting Whois</small>
-
-
-| 🔥: 100 \| 💬: [49](https://news.ycombinator.com/item?id=43384069) \| 🗓️ 2025-03-16
-
-
-<br />
-自2025年1月28日起，**RDAP（注册数据访问协议）**将取代WHOIS，成为提供通用顶级域名（gTLD）注册信息的权威来源。RDAP支持国际化、数据安全访问和差异化数据访问，自2019年起已由ICANN认证的注册商和gTLD提供。用户可通过ICANN的RDAP查询工具或开源命令行客户端访问数据。非公开数据需通过**RDRS（注册数据请求服务）**申请，适用于执法、知识产权等专业人士。ICANN致力于维护全球互联网的稳定与安全。
-
----
-
-## <a name="16"></a>16. Amiga 600：从无人问津到复古宠儿 
-<small>🔗 [dfarq.homeip.net](https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/): Amiga 600: From the Amiga No One Wanted to Retro Favorite</small>
-
-
-| 🔥: 98 \| 💬: [47](https://news.ycombinator.com/item?id=43380649) \| 🗓️ 2025-03-16
-
-
-<br />
-Amiga 600 是 Commodore 在 1992 年推出的一款**低成本家用电脑**，但由于其**过时的技术**和**高昂的价格**，市场表现惨淡。它本质上是 1985 年 Amiga 1000 的简化版，无法与当时主流的 VGA 图形和 386 CPU 竞争。尽管在发布时失败，如今因其**小巧的尺寸**和**复古魅力**，Amiga 600 成为了复古爱好者的热门选择。
-
----
-
-## <a name="17"></a>17. 教，而非说（2013） 
+## <a name="16"></a>16. 教，而非说（2013） 
 <small>🔗 [stevelosh.com](https://stevelosh.com/blog/2013/09/teach-dont-tell/): Teach, Don't Tell (2013)</small>
 
 
-| 🔥: 94 \| 💬: [22](https://news.ycombinator.com/item?id=43380833) \| 🗓️ 2025-03-16
+| 🔥: 100 \| 💬: [22](https://news.ycombinator.com/item?id=43380833) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -227,11 +215,23 @@ Amiga 600 是 Commodore 在 1992 年推出的一款**低成本家用电脑**，�
 
 ---
 
+## <a name="17"></a>17. Amiga 600：从无人问津到复古宠儿 
+<small>🔗 [dfarq.homeip.net](https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/): Amiga 600: From the Amiga No One Wanted to Retro Favorite</small>
+
+
+| 🔥: 99 \| 💬: [53](https://news.ycombinator.com/item?id=43380649) \| 🗓️ 2025-03-16
+
+
+<br />
+Amiga 600 是 Commodore 在 1992 年推出的一款**低成本家用电脑**，但由于其**过时的技术**和**高昂的价格**，市场表现惨淡。它本质上是 1985 年 Amiga 1000 的简化版，无法与当时主流的 VGA 图形和 386 CPU 竞争。尽管在发布时失败，如今因其**小巧的尺寸**和**复古魅力**，Amiga 600 成为了复古爱好者的热门选择。
+
+---
+
 ## <a name="18"></a>18. Tcl 教程 
 <small>🔗 [tcl-lang.org](https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html): Tcl Tutorial</small>
 
 
-| 🔥: 90 \| 💬: [46](https://news.ycombinator.com/item?id=43381195) \| 🗓️ 2025-03-16
+| 🔥: 96 \| 💬: [46](https://news.ycombinator.com/item?id=43381195) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -239,7 +239,19 @@ Amiga 600 是 Commodore 在 1992 年推出的一款**低成本家用电脑**，�
 
 ---
 
-## <a name="19"></a>19. 雄性章鱼交配时向雌性注射毒液以避免被吃掉 
+## <a name="19"></a>19. 英特尔Arc B580的光线追踪性能分析 
+<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/raytracing-on-intels-arc-b580): Raytracing on Intel's Arc B580</small>
+
+
+| 🔥: 89 \| 💬: [64](https://news.ycombinator.com/item?id=43378330) \| 🗓️ 2025-03-16
+
+
+<br />
+本文深入探讨了英特尔Arc B580显卡在光线追踪方面的表现，特别是在《赛博朋克2077》路径追踪模式下的性能。**光线追踪加速器（RTA）**在提升性能中扮演关键角色，其**BVH缓存**从8KB增加到16KB，显著减少了内存延迟。尽管**Xe核心**的线程利用率高达93.8%，但执行单元的实际利用率较低，主要受限于内存延迟和指令级并行性不足。
+
+---
+
+## <a name="20"></a>20. 雄性章鱼交配时向雌性注射毒液以避免被吃掉 
 <small>🔗 [newscientist.com](https://www.newscientist.com/article/2471120-male-octopus-injects-female-with-venom-during-sex-to-avoid-being-eaten/): Male octopus injects female with venom during sex to avoid being eaten</small>
 
 
@@ -251,35 +263,11 @@ Amiga 600 是 Commodore 在 1992 年推出的一款**低成本家用电脑**，�
 
 ---
 
-## <a name="20"></a>20. 英特尔Arc B580的光线追踪性能分析 
-<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/raytracing-on-intels-arc-b580): Raytracing on Intel's Arc B580</small>
-
-
-| 🔥: 88 \| 💬: [64](https://news.ycombinator.com/item?id=43378330) \| 🗓️ 2025-03-16
-
-
-<br />
-本文深入探讨了英特尔Arc B580显卡在光线追踪方面的表现，特别是在《赛博朋克2077》路径追踪模式下的性能。**光线追踪加速器（RTA）**在提升性能中扮演关键角色，其**BVH缓存**从8KB增加到16KB，显著减少了内存延迟。尽管**Xe核心**的线程利用率高达93.8%，但执行单元的实际利用率较低，主要受限于内存延迟和指令级并行性不足。
-
----
-
-## <a name="21"></a>21. 使用Hoarder构建个人存档 
-<small>🔗 [brainsteam.co.uk](https://brainsteam.co.uk/2025/2/15/personal-archive-hoarder/): Building a Personal Archive with Hoarder</small>
-
-
-| 🔥: 83 \| 💬: [5](https://news.ycombinator.com/item?id=43379917) \| 🗓️ 2025-03-16
-
-
-<br />
-Hoarder是一款开源工具，允许用户在本地服务器上**存档网页内容**，即使原始网站下线也能访问。它支持**全文搜索**、标签过滤和AI生成摘要，并可与浏览器插件SingleFile集成，保存付费内容。Hoarder还提供Android应用，方便移动端访问。虽然项目仍在快速发展，但已展现出强大的潜力，适合希望**自托管存档**的用户。
-
----
-
-## <a name="22"></a>22. 10支团队竞相打造Pivotal Tracker替代品 
+## <a name="21"></a>21. 10支团队竞相打造Pivotal Tracker替代品 
 <small>🔗 [bye-tracker.net](https://bye-tracker.net): Show HN: 10 teams are racing to build a pivotal tracker replacement</small>
 
 
-| 🔥: 81 \| 💬: [35](https://news.ycombinator.com/item?id=43378925) \| 🗓️ 2025-03-16
+| 🔥: 87 \| 💬: [37](https://news.ycombinator.com/item?id=43378925) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -287,11 +275,23 @@ Hoarder是一款开源工具，允许用户在本地服务器上**存档网页�
 
 ---
 
+## <a name="22"></a>22. 使用Hoarder构建个人存档 
+<small>🔗 [brainsteam.co.uk](https://brainsteam.co.uk/2025/2/15/personal-archive-hoarder/): Building a Personal Archive with Hoarder</small>
+
+
+| 🔥: 87 \| 💬: [6](https://news.ycombinator.com/item?id=43379917) \| 🗓️ 2025-03-16
+
+
+<br />
+Hoarder是一款开源工具，允许用户在本地服务器上**存档网页内容**，即使原始网站下线也能访问。它支持**全文搜索**、标签过滤和AI生成摘要，并可与浏览器插件SingleFile集成，保存付费内容。Hoarder还提供Android应用，方便移动端访问。虽然项目仍在快速发展，但已展现出强大的潜力，适合希望**自托管存档**的用户。
+
+---
+
 ## <a name="23"></a>23. 微软1986年IPO：改变科技行业的里程碑 
 <small>🔗 [dfarq.homeip.net](https://dfarq.homeip.net/microsofts-1986-ipo/): Microsoft's 1986 IPO</small>
 
 
-| 🔥: 77 \| 💬: [28](https://news.ycombinator.com/item?id=43381141) \| 🗓️ 2025-03-16
+| 🔥: 83 \| 💬: [31](https://news.ycombinator.com/item?id=43381141) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -303,7 +303,7 @@ Hoarder是一款开源工具，允许用户在本地服务器上**存档网页�
 <small>🔗 [dw.com](https://www.dw.com/en/max-planck-institute-abuse-of-power-elite-scientists-germany-v2/video-71904207): Abuse of power at Germany's elite research institution [video]</small>
 
 
-| 🔥: 72 \| 💬: [9](https://news.ycombinator.com/item?id=43380643) \| 🗓️ 2025-03-16
+| 🔥: 73 \| 💬: [10](https://news.ycombinator.com/item?id=43380643) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -315,7 +315,7 @@ Hoarder是一款开源工具，允许用户在本地服务器上**存档网页�
 <small>🔗 [theverge.com](https://www.theverge.com/news/629940/apple-siri-robby-walker-delayed-ai-features): Leaked Apple meeting shows how dire the Siri situation is</small>
 
 
-| 🔥: 71 \| 💬: [59](https://news.ycombinator.com/item?id=43382014) \| 🗓️ 2025-03-16
+| 🔥: 71 \| 💬: [63](https://news.ycombinator.com/item?id=43382014) \| 🗓️ 2025-03-16
 
 
 <br />
