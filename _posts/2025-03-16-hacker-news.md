@@ -27,7 +27,7 @@ tags:
 <small>🔗 [github.com](https://github.com/suitenumerique/docs): Docs – Open source alternative to Notion or Outline</small>
 
 
-| 🔥🔥: 1186 \| 💬: [342](https://news.ycombinator.com/item?id=43378239) \| 🗓️ 2025-03-16
+| 🔥🔥: 1221 \| 💬: [347](https://news.ycombinator.com/item?id=43378239) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/nexta_tv/status/1901244199220982213): Military grade sonic weapon is used against protesters in Serbia</small>
 
 
-| 🔥🔥: 430 \| 💬: [301](https://news.ycombinator.com/item?id=43382093) \| 🗓️ 2025-03-16
+| 🔥🔥: 439 \| 💬: [310](https://news.ycombinator.com/item?id=43382093) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/Baidu_Inc/status/1901089355890036897): GPT 4.5 level for 1% of the price</small>
 
 
-| 🔥🔥: 284 \| 💬: [232](https://news.ycombinator.com/item?id=43377962) \| 🗓️ 2025-03-16
+| 🔥🔥: 285 \| 💬: [235](https://news.ycombinator.com/item?id=43377962) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [wattenberger.com](https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses): Our interfaces have lost their senses</small>
 
 
-| 🔥🔥: 276 \| 💬: [134](https://news.ycombinator.com/item?id=43380930) \| 🗓️ 2025-03-16
+| 🔥🔥: 284 \| 💬: [137](https://news.ycombinator.com/item?id=43380930) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [antirez.com](https://antirez.com/news/147): Big LLMs weights are a piece of history</small>
 
 
-| 🔥🔥: 247 \| 💬: [173](https://news.ycombinator.com/item?id=43378401) \| 🗓️ 2025-03-16
+| 🔥🔥: 252 \| 💬: [177](https://news.ycombinator.com/item?id=43378401) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [icann.org](https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en): Sunsetting Whois</small>
 
 
-| 🔥🔥: 185 \| 💬: [83](https://news.ycombinator.com/item?id=43384069) \| 🗓️ 2025-03-16
+| 🔥🔥: 244 \| 💬: [111](https://news.ycombinator.com/item?id=43384069) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [trifectatech.org](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/): Zlib-rs is faster than C</small>
 
 
-| 🔥🔥: 169 \| 💬: [198](https://news.ycombinator.com/item?id=43381512) \| 🗓️ 2025-03-16
+| 🔥🔥: 177 \| 💬: [217](https://news.ycombinator.com/item?id=43381512) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -111,7 +111,7 @@ zlib-rs 发布了 0.4.2 版本，**解压缩性能**显著提升，成为目前�
 <small>🔗 [seangoedecke.com](https://www.seangoedecke.com/good-times-are-over/): The good times in tech are over</small>
 
 
-| 🔥🔥: 161 \| 💬: [221](https://news.ycombinator.com/item?id=43378321) \| 🗓️ 2025-03-16
+| 🔥🔥: 162 \| 💬: [224](https://news.ycombinator.com/item?id=43378321) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -123,7 +123,7 @@ zlib-rs 发布了 0.4.2 版本，**解压缩性能**显著提升，成为目前�
 <small>🔗 [eli.cx](https://eli.cx/blog/ai-is-making-developers-dumb): AI Is Making Developers Dumb</small>
 
 
-| 🔥🔥: 152 \| 💬: [197](https://news.ycombinator.com/item?id=43381215) \| 🗓️ 2025-03-16
+| 🔥🔥: 153 \| 💬: [197](https://news.ycombinator.com/item?id=43381215) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -147,7 +147,7 @@ AI工具如LLM（大语言模型）虽然能提高开发效率，但也可能导
 <small>🔗 [dicedb.io](https://dicedb.io/): DiceDB</small>
 
 
-| 🔥🔥: 122 \| 💬: [88](https://news.ycombinator.com/item?id=43379262) \| 🗓️ 2025-03-16
+| 🔥🔥: 133 \| 💬: [88](https://news.ycombinator.com/item?id=43379262) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -155,23 +155,11 @@ DiceDB 是一款**快速且针对现代硬件优化**的数据库，支持**查�
 
 ---
 
-## <a name="12"></a>12. 特斯拉自动驾驶撞上假墙：摄像头与激光雷达测试对比 
-<small>🔗 [electrek.co](https://electrek.co/2025/03/16/tesla-autopilot-drives-into-wall-camera-vs-lidar-test/): Tesla drives into Wile E. Coyote fake road wall in camera vs. Lidar test</small>
-
-
-| 🔥🔥: 117 \| 💬: [161](https://news.ycombinator.com/item?id=43382230) \| 🗓️ 2025-03-16
-
-
-<br />
-在摄像头与**激光雷达**的对比测试中，特斯拉的**Autopilot**系统未能识别出假墙，直接撞了上去。这一测试突显了**纯视觉系统**在复杂环境中的潜在局限性。
-
----
-
-## <a name="13"></a>13. 互联网泡沫破裂的教训 
+## <a name="12"></a>12. 互联网泡沫破裂的教训 
 <small>🔗 [dfarq.homeip.net](https://dfarq.homeip.net/when-the-dotcom-bubble-burst/): When the Dotcom Bubble Burst</small>
 
 
-| 🔥🔥: 116 \| 💬: [75](https://news.ycombinator.com/item?id=43380453) \| 🗓️ 2025-03-16
+| 🔥🔥: 126 \| 💬: [89](https://news.ycombinator.com/item?id=43380453) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -179,11 +167,23 @@ DiceDB 是一款**快速且针对现代硬件优化**的数据库，支持**查�
 
 ---
 
+## <a name="13"></a>13. 特斯拉自动驾驶撞上假墙：摄像头与激光雷达测试对比 
+<small>🔗 [electrek.co](https://electrek.co/2025/03/16/tesla-autopilot-drives-into-wall-camera-vs-lidar-test/): Tesla drives into Wile E. Coyote fake road wall in camera vs. Lidar test</small>
+
+
+| 🔥🔥: 122 \| 💬: [171](https://news.ycombinator.com/item?id=43382230) \| 🗓️ 2025-03-16
+
+
+<br />
+在摄像头与**激光雷达**的对比测试中，特斯拉的**Autopilot**系统未能识别出假墙，直接撞了上去。这一测试突显了**纯视觉系统**在复杂环境中的潜在局限性。
+
+---
+
 ## <a name="14"></a>14. 生成式AI时代下的自由与开放访问：挑战与反思 
 <small>🔗 [citationneeded.news](https://www.citationneeded.news/free-and-open-access-in-the-age-of-generative-ai/): "Wait, not like that": Free and open access in the age of generative AI</small>
 
 
-| 🔥🔥: 107 \| 💬: [36](https://news.ycombinator.com/item?id=43380617) \| 🗓️ 2025-03-16
+| 🔥🔥: 109 \| 💬: [36](https://news.ycombinator.com/item?id=43380617) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -207,7 +207,7 @@ DiceDB 是一款**快速且针对现代硬件优化**的数据库，支持**查�
 <small>🔗 [stevelosh.com](https://stevelosh.com/blog/2013/09/teach-dont-tell/): Teach, Don't Tell (2013)</small>
 
 
-| 🔥: 100 \| 💬: [22](https://news.ycombinator.com/item?id=43380833) \| 🗓️ 2025-03-16
+| 🔥🔥: 102 \| 💬: [23](https://news.ycombinator.com/item?id=43380833) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -219,7 +219,7 @@ DiceDB 是一款**快速且针对现代硬件优化**的数据库，支持**查�
 <small>🔗 [dfarq.homeip.net](https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/): Amiga 600: From the Amiga No One Wanted to Retro Favorite</small>
 
 
-| 🔥: 99 \| 💬: [53](https://news.ycombinator.com/item?id=43380649) \| 🗓️ 2025-03-16
+| 🔥🔥: 101 \| 💬: [53](https://news.ycombinator.com/item?id=43380649) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -231,7 +231,7 @@ Amiga 600 是 Commodore 在 1992 年推出的一款**低成本家用电脑**，�
 <small>🔗 [tcl-lang.org](https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html): Tcl Tutorial</small>
 
 
-| 🔥: 96 \| 💬: [46](https://news.ycombinator.com/item?id=43381195) \| 🗓️ 2025-03-16
+| 🔥: 98 \| 💬: [50](https://news.ycombinator.com/item?id=43381195) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -239,35 +239,11 @@ Amiga 600 是 Commodore 在 1992 年推出的一款**低成本家用电脑**，�
 
 ---
 
-## <a name="19"></a>19. 英特尔Arc B580的光线追踪性能分析 
-<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/raytracing-on-intels-arc-b580): Raytracing on Intel's Arc B580</small>
-
-
-| 🔥: 89 \| 💬: [64](https://news.ycombinator.com/item?id=43378330) \| 🗓️ 2025-03-16
-
-
-<br />
-本文深入探讨了英特尔Arc B580显卡在光线追踪方面的表现，特别是在《赛博朋克2077》路径追踪模式下的性能。**光线追踪加速器（RTA）**在提升性能中扮演关键角色，其**BVH缓存**从8KB增加到16KB，显著减少了内存延迟。尽管**Xe核心**的线程利用率高达93.8%，但执行单元的实际利用率较低，主要受限于内存延迟和指令级并行性不足。
-
----
-
-## <a name="20"></a>20. 雄性章鱼交配时向雌性注射毒液以避免被吃掉 
-<small>🔗 [newscientist.com](https://www.newscientist.com/article/2471120-male-octopus-injects-female-with-venom-during-sex-to-avoid-being-eaten/): Male octopus injects female with venom during sex to avoid being eaten</small>
-
-
-| 🔥: 89 \| 💬: [83](https://news.ycombinator.com/item?id=43379119) \| 🗓️ 2025-03-16
-
-
-<br />
-科学家首次发现，**蓝纹章鱼**的雄性在交配时会向雌性注射**河豚毒素**，使其暂时瘫痪，从而避免被体型更大的雌性吃掉。这种毒液对大多数动物致命，但雌性章鱼已进化出天然抵抗力。研究表明，雄性章鱼的毒腺更大，以产生更多毒液克服雌性的抗性，这是两性间**共同进化**的典型例子。
-
----
-
-## <a name="21"></a>21. 10支团队竞相打造Pivotal Tracker替代品 
+## <a name="19"></a>19. 10支团队竞相打造Pivotal Tracker替代品 
 <small>🔗 [bye-tracker.net](https://bye-tracker.net): Show HN: 10 teams are racing to build a pivotal tracker replacement</small>
 
 
-| 🔥: 87 \| 💬: [37](https://news.ycombinator.com/item?id=43378925) \| 🗓️ 2025-03-16
+| 🔥: 93 \| 💬: [40](https://news.ycombinator.com/item?id=43378925) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -275,11 +251,11 @@ Amiga 600 是 Commodore 在 1992 年推出的一款**低成本家用电脑**，�
 
 ---
 
-## <a name="22"></a>22. 使用Hoarder构建个人存档 
+## <a name="20"></a>20. 使用Hoarder构建个人存档 
 <small>🔗 [brainsteam.co.uk](https://brainsteam.co.uk/2025/2/15/personal-archive-hoarder/): Building a Personal Archive with Hoarder</small>
 
 
-| 🔥: 87 \| 💬: [6](https://news.ycombinator.com/item?id=43379917) \| 🗓️ 2025-03-16
+| 🔥: 92 \| 💬: [6](https://news.ycombinator.com/item?id=43379917) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -287,11 +263,35 @@ Hoarder是一款开源工具，允许用户在本地服务器上**存档网页�
 
 ---
 
+## <a name="21"></a>21. 英特尔Arc B580的光线追踪性能分析 
+<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/raytracing-on-intels-arc-b580): Raytracing on Intel's Arc B580</small>
+
+
+| 🔥: 90 \| 💬: [65](https://news.ycombinator.com/item?id=43378330) \| 🗓️ 2025-03-16
+
+
+<br />
+本文深入探讨了英特尔Arc B580显卡在光线追踪方面的表现，特别是在《赛博朋克2077》路径追踪模式下的性能。**光线追踪加速器（RTA）**在提升性能中扮演关键角色，其**BVH缓存**从8KB增加到16KB，显著减少了内存延迟。尽管**Xe核心**的线程利用率高达93.8%，但执行单元的实际利用率较低，主要受限于内存延迟和指令级并行性不足。
+
+---
+
+## <a name="22"></a>22. 雄性章鱼交配时向雌性注射毒液以避免被吃掉 
+<small>🔗 [newscientist.com](https://www.newscientist.com/article/2471120-male-octopus-injects-female-with-venom-during-sex-to-avoid-being-eaten/): Male octopus injects female with venom during sex to avoid being eaten</small>
+
+
+| 🔥: 89 \| 💬: [84](https://news.ycombinator.com/item?id=43379119) \| 🗓️ 2025-03-16
+
+
+<br />
+科学家首次发现，**蓝纹章鱼**的雄性在交配时会向雌性注射**河豚毒素**，使其暂时瘫痪，从而避免被体型更大的雌性吃掉。这种毒液对大多数动物致命，但雌性章鱼已进化出天然抵抗力。研究表明，雄性章鱼的毒腺更大，以产生更多毒液克服雌性的抗性，这是两性间**共同进化**的典型例子。
+
+---
+
 ## <a name="23"></a>23. 微软1986年IPO：改变科技行业的里程碑 
 <small>🔗 [dfarq.homeip.net](https://dfarq.homeip.net/microsofts-1986-ipo/): Microsoft's 1986 IPO</small>
 
 
-| 🔥: 83 \| 💬: [31](https://news.ycombinator.com/item?id=43381141) \| 🗓️ 2025-03-16
+| 🔥: 84 \| 💬: [35](https://news.ycombinator.com/item?id=43381141) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -303,7 +303,7 @@ Hoarder是一款开源工具，允许用户在本地服务器上**存档网页�
 <small>🔗 [dw.com](https://www.dw.com/en/max-planck-institute-abuse-of-power-elite-scientists-germany-v2/video-71904207): Abuse of power at Germany's elite research institution [video]</small>
 
 
-| 🔥: 73 \| 💬: [10](https://news.ycombinator.com/item?id=43380643) \| 🗓️ 2025-03-16
+| 🔥: 75 \| 💬: [10](https://news.ycombinator.com/item?id=43380643) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -311,14 +311,14 @@ Hoarder是一款开源工具，允许用户在本地服务器上**存档网页�
 
 ---
 
-## <a name="25"></a>25. 苹果内部会议泄露：Siri现状堪忧 
-<small>🔗 [theverge.com](https://www.theverge.com/news/629940/apple-siri-robby-walker-delayed-ai-features): Leaked Apple meeting shows how dire the Siri situation is</small>
+## <a name="25"></a>25. 微软将Notepad和Paint的部分功能设为付费 
+<small>🔗 [pcworld.com](https://www.pcworld.com/article/2614943/microsoft-is-paywalling-these-features-in-notepad-and-paint.html): Microsoft paywalling features in Notepad and Paint</small>
 
 
-| 🔥: 71 \| 💬: [63](https://news.ycombinator.com/item?id=43382014) \| 🗓️ 2025-03-16
+| 🔥: 75 \| 💬: [72](https://news.ycombinator.com/item?id=43382392) \| 🗓️ 2025-03-16
 
 
 <br />
-根据泄露的苹果内部会议内容，**Siri团队**在AI功能开发上进展缓慢，原定于去年6月宣布的**AI功能**可能无法如期在iOS 19中推出。高级总监Robby Walker承认，由于质量问题和内部资源分配冲突，部分功能被推迟。他还提到，**营销团队**过早宣传未成熟的功能，导致用户期望过高，进一步加剧了问题。苹果高层已对此表示“强烈个人责任”，但具体发布时间仍未确定。
+微软宣布，**Notepad**和**Paint**的部分新功能将需要**Microsoft 365订阅**才能使用。Notepad的AI文本重写、生成和调整功能，以及Paint的AI图像生成功能将被锁定。免费用户仍可使用基本功能，但新特性需付费解锁。这是微软首次对这些经典应用实施付费墙。
 
 ---
