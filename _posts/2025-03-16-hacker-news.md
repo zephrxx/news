@@ -27,7 +27,7 @@ tags:
 <small>🔗 [github.com](https://github.com/suitenumerique/docs): Docs – Open source alternative to Notion or Outline</small>
 
 
-| 🔥🔥: 1079 \| 💬: [332](https://news.ycombinator.com/item?id=43378239) \| 🗓️ 2025-03-16
+| 🔥🔥: 1120 \| 💬: [334](https://news.ycombinator.com/item?id=43378239) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/nexta_tv/status/1901244199220982213): Military grade sonic weapon is used against protesters in Serbia</small>
 
 
-| 🔥🔥: 317 \| 💬: [201](https://news.ycombinator.com/item?id=43382093) \| 🗓️ 2025-03-16
+| 🔥🔥: 364 \| 💬: [240](https://news.ycombinator.com/item?id=43382093) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/Baidu_Inc/status/1901089355890036897): GPT 4.5 level for 1% of the price</small>
 
 
-| 🔥🔥: 281 \| 💬: [226](https://news.ycombinator.com/item?id=43377962) \| 🗓️ 2025-03-16
+| 🔥🔥: 281 \| 💬: [229](https://news.ycombinator.com/item?id=43377962) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [wattenberger.com](https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses): Our interfaces have lost their senses</small>
 
 
-| 🔥🔥: 241 \| 💬: [121](https://news.ycombinator.com/item?id=43380930) \| 🗓️ 2025-03-16
+| 🔥🔥: 252 \| 💬: [127](https://news.ycombinator.com/item?id=43380930) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [antirez.com](https://antirez.com/news/147): Big LLMs weights are a piece of history</small>
 
 
-| 🔥🔥: 231 \| 💬: [162](https://news.ycombinator.com/item?id=43378401) \| 🗓️ 2025-03-16
+| 🔥🔥: 235 \| 💬: [169](https://news.ycombinator.com/item?id=43378401) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [seangoedecke.com](https://www.seangoedecke.com/good-times-are-over/): The good times in tech are over</small>
 
 
-| 🔥🔥: 157 \| 💬: [218](https://news.ycombinator.com/item?id=43378321) \| 🗓️ 2025-03-16
+| 🔥🔥: 158 \| 💬: [217](https://news.ycombinator.com/item?id=43378321) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [trifectatech.org](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/): Zlib-rs is faster than C</small>
 
 
-| 🔥🔥: 149 \| 💬: [178](https://news.ycombinator.com/item?id=43381512) \| 🗓️ 2025-03-16
+| 🔥🔥: 156 \| 💬: [185](https://news.ycombinator.com/item?id=43381512) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -111,7 +111,7 @@ zlib-rs 发布了 0.4.2 版本，**解压缩性能**显著提升，成为目前�
 <small>🔗 [eli.cx](https://eli.cx/blog/ai-is-making-developers-dumb): AI Is Making Developers Dumb</small>
 
 
-| 🔥🔥: 146 \| 💬: [183](https://news.ycombinator.com/item?id=43381215) \| 🗓️ 2025-03-16
+| 🔥🔥: 147 \| 💬: [189](https://news.ycombinator.com/item?id=43381215) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -123,7 +123,7 @@ AI工具如LLM（大语言模型）虽然能提高开发效率，但也可能导
 <small>🔗 [drive.google.com](https://drive.google.com/file/d/1_9V6lBTIfDsPdKCohQBc5Ed5UzDbnsrI/view?usp=sharing): Show HN: My high school team’s space probe</small>
 
 
-| 🔥🔥: 128 \| 💬: [25](https://news.ycombinator.com/item?id=43377690) \| 🗓️ 2025-03-16
+| 🔥🔥: 131 \| 💬: [26](https://news.ycombinator.com/item?id=43377690) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -131,35 +131,11 @@ AI工具如LLM（大语言模型）虽然能提高开发效率，但也可能导
 
 ---
 
-## <a name="10"></a>10. DiceDB：超越缓存，比数据库更智能 
-<small>🔗 [dicedb.io](https://dicedb.io/): DiceDB</small>
-
-
-| 🔥🔥: 103 \| 💬: [83](https://news.ycombinator.com/item?id=43379262) \| 🗓️ 2025-03-16
-
-
-<br />
-DiceDB 是一款**快速且针对现代硬件优化**的数据库，支持**查询订阅**，具备**响应式特性**。它易于使用、开源，并提供了丰富的文档和示例。无论是开发者还是企业，都能轻松上手并充分利用其强大功能。
-
----
-
-## <a name="11"></a>11. 生成式AI时代下的自由与开放访问：挑战与反思 
-<small>🔗 [citationneeded.news](https://www.citationneeded.news/free-and-open-access-in-the-age-of-generative-ai/): "Wait, not like that": Free and open access in the age of generative AI</small>
-
-
-| 🔥🔥: 101 \| 💬: [34](https://news.ycombinator.com/item?id=43380617) \| 🗓️ 2025-03-16
-
-
-<br />
-在生成式AI的背景下，**自由与开放访问**的理想面临挑战。许多创作者发现他们的作品被大公司用于训练AI模型，却未得到应有的回报或尊重。尽管一些人试图通过更严格的许可或付费墙来保护作品，但这可能破坏**知识共享**的初衷。文章呼吁建立公平的机制，确保AI公司在使用开放资源时尊重创作者，并支持知识共享的基础设施。
-
----
-
-## <a name="12"></a>12. 特斯拉自动驾驶撞上假墙：摄像头与激光雷达测试对比 
+## <a name="10"></a>10. 特斯拉自动驾驶撞上假墙：摄像头与激光雷达测试对比 
 <small>🔗 [electrek.co](https://electrek.co/2025/03/16/tesla-autopilot-drives-into-wall-camera-vs-lidar-test/): Tesla drives into Wile E. Coyote fake road wall in camera vs. Lidar test</small>
 
 
-| 🔥🔥: 101 \| 💬: [137](https://news.ycombinator.com/item?id=43382230) \| 🗓️ 2025-03-16
+| 🔥🔥: 110 \| 💬: [147](https://news.ycombinator.com/item?id=43382230) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -167,11 +143,35 @@ DiceDB 是一款**快速且针对现代硬件优化**的数据库，支持**查�
 
 ---
 
+## <a name="11"></a>11. DiceDB：超越缓存，比数据库更智能 
+<small>🔗 [dicedb.io](https://dicedb.io/): DiceDB</small>
+
+
+| 🔥🔥: 109 \| 💬: [84](https://news.ycombinator.com/item?id=43379262) \| 🗓️ 2025-03-16
+
+
+<br />
+DiceDB 是一款**快速且针对现代硬件优化**的数据库，支持**查询订阅**，具备**响应式特性**。它易于使用、开源，并提供了丰富的文档和示例。无论是开发者还是企业，都能轻松上手并充分利用其强大功能。
+
+---
+
+## <a name="12"></a>12. 生成式AI时代下的自由与开放访问：挑战与反思 
+<small>🔗 [citationneeded.news](https://www.citationneeded.news/free-and-open-access-in-the-age-of-generative-ai/): "Wait, not like that": Free and open access in the age of generative AI</small>
+
+
+| 🔥🔥: 103 \| 💬: [34](https://news.ycombinator.com/item?id=43380617) \| 🗓️ 2025-03-16
+
+
+<br />
+在生成式AI的背景下，**自由与开放访问**的理想面临挑战。许多创作者发现他们的作品被大公司用于训练AI模型，却未得到应有的回报或尊重。尽管一些人试图通过更严格的许可或付费墙来保护作品，但这可能破坏**知识共享**的初衷。文章呼吁建立公平的机制，确保AI公司在使用开放资源时尊重创作者，并支持知识共享的基础设施。
+
+---
+
 ## <a name="13"></a>13. 学习Erlang，成就非凡！ 
 <small>🔗 [learnyousomeerlang.com](https://learnyousomeerlang.com/content): Learn You Some Erlang for Great Good (2013)</small>
 
 
-| 🔥: 100 \| 💬: [24](https://news.ycombinator.com/item?id=43378415) \| 🗓️ 2025-03-16
+| 🔥🔥: 101 \| 💬: [24](https://news.ycombinator.com/item?id=43378415) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -179,47 +179,11 @@ DiceDB 是一款**快速且针对现代硬件优化**的数据库，支持**查�
 
 ---
 
-## <a name="14"></a>14. 雄性章鱼交配时向雌性注射毒液以避免被吃掉 
-<small>🔗 [newscientist.com](https://www.newscientist.com/article/2471120-male-octopus-injects-female-with-venom-during-sex-to-avoid-being-eaten/): Male octopus injects female with venom during sex to avoid being eaten</small>
-
-
-| 🔥: 88 \| 💬: [82](https://news.ycombinator.com/item?id=43379119) \| 🗓️ 2025-03-16
-
-
-<br />
-科学家首次发现，**蓝纹章鱼**的雄性在交配时会向雌性注射**河豚毒素**，使其暂时瘫痪，从而避免被体型更大的雌性吃掉。这种毒液对大多数动物致命，但雌性章鱼已进化出天然抵抗力。研究表明，雄性章鱼的毒腺更大，以产生更多毒液克服雌性的抗性，这是两性间**共同进化**的典型例子。
-
----
-
-## <a name="15"></a>15. Amiga 600：从无人问津到复古宠儿 
-<small>🔗 [dfarq.homeip.net](https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/): Amiga 600: From the Amiga No One Wanted to Retro Favorite</small>
-
-
-| 🔥: 87 \| 💬: [41](https://news.ycombinator.com/item?id=43380649) \| 🗓️ 2025-03-16
-
-
-<br />
-Amiga 600 是 Commodore 在 1992 年推出的一款**低成本家用电脑**，但由于其**过时的技术**和**高昂的价格**，市场表现惨淡。它本质上是 1985 年 Amiga 1000 的简化版，无法与当时主流的 VGA 图形和 386 CPU 竞争。尽管在发布时失败，如今因其**小巧的尺寸**和**复古魅力**，Amiga 600 成为了复古爱好者的热门选择。
-
----
-
-## <a name="16"></a>16. 英特尔Arc B580的光线追踪性能分析 
-<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/raytracing-on-intels-arc-b580): Raytracing on Intel's Arc B580</small>
-
-
-| 🔥: 84 \| 💬: [54](https://news.ycombinator.com/item?id=43378330) \| 🗓️ 2025-03-16
-
-
-<br />
-本文深入探讨了英特尔Arc B580显卡在光线追踪方面的表现，特别是在《赛博朋克2077》路径追踪模式下的性能。**光线追踪加速器（RTA）**在提升性能中扮演关键角色，其**BVH缓存**从8KB增加到16KB，显著减少了内存延迟。尽管**Xe核心**的线程利用率高达93.8%，但执行单元的实际利用率较低，主要受限于内存延迟和指令级并行性不足。
-
----
-
-## <a name="17"></a>17. 互联网泡沫破裂的教训 
+## <a name="14"></a>14. 互联网泡沫破裂的教训 
 <small>🔗 [dfarq.homeip.net](https://dfarq.homeip.net/when-the-dotcom-bubble-burst/): When the Dotcom Bubble Burst</small>
 
 
-| 🔥: 80 \| 💬: [40](https://news.ycombinator.com/item?id=43380453) \| 🗓️ 2025-03-16
+| 🔥: 92 \| 💬: [66](https://news.ycombinator.com/item?id=43380453) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -227,11 +191,35 @@ Amiga 600 是 Commodore 在 1992 年推出的一款**低成本家用电脑**，�
 
 ---
 
-## <a name="18"></a>18. 教，而非说（2013） 
+## <a name="15"></a>15. Amiga 600：从无人问津到复古宠儿 
+<small>🔗 [dfarq.homeip.net](https://dfarq.homeip.net/amiga-600-the-amiga-no-one-wanted/): Amiga 600: From the Amiga No One Wanted to Retro Favorite</small>
+
+
+| 🔥: 92 \| 💬: [46](https://news.ycombinator.com/item?id=43380649) \| 🗓️ 2025-03-16
+
+
+<br />
+Amiga 600 是 Commodore 在 1992 年推出的一款**低成本家用电脑**，但由于其**过时的技术**和**高昂的价格**，市场表现惨淡。它本质上是 1985 年 Amiga 1000 的简化版，无法与当时主流的 VGA 图形和 386 CPU 竞争。尽管在发布时失败，如今因其**小巧的尺寸**和**复古魅力**，Amiga 600 成为了复古爱好者的热门选择。
+
+---
+
+## <a name="16"></a>16. 雄性章鱼交配时向雌性注射毒液以避免被吃掉 
+<small>🔗 [newscientist.com](https://www.newscientist.com/article/2471120-male-octopus-injects-female-with-venom-during-sex-to-avoid-being-eaten/): Male octopus injects female with venom during sex to avoid being eaten</small>
+
+
+| 🔥: 88 \| 💬: [83](https://news.ycombinator.com/item?id=43379119) \| 🗓️ 2025-03-16
+
+
+<br />
+科学家首次发现，**蓝纹章鱼**的雄性在交配时会向雌性注射**河豚毒素**，使其暂时瘫痪，从而避免被体型更大的雌性吃掉。这种毒液对大多数动物致命，但雌性章鱼已进化出天然抵抗力。研究表明，雄性章鱼的毒腺更大，以产生更多毒液克服雌性的抗性，这是两性间**共同进化**的典型例子。
+
+---
+
+## <a name="17"></a>17. 教，而非说（2013） 
 <small>🔗 [stevelosh.com](https://stevelosh.com/blog/2013/09/teach-dont-tell/): Teach, Don't Tell (2013)</small>
 
 
-| 🔥: 78 \| 💬: [20](https://news.ycombinator.com/item?id=43380833) \| 🗓️ 2025-03-16
+| 🔥: 87 \| 💬: [20](https://news.ycombinator.com/item?id=43380833) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -239,11 +227,23 @@ Amiga 600 是 Commodore 在 1992 年推出的一款**低成本家用电脑**，�
 
 ---
 
+## <a name="18"></a>18. 英特尔Arc B580的光线追踪性能分析 
+<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/raytracing-on-intels-arc-b580): Raytracing on Intel's Arc B580</small>
+
+
+| 🔥: 85 \| 💬: [55](https://news.ycombinator.com/item?id=43378330) \| 🗓️ 2025-03-16
+
+
+<br />
+本文深入探讨了英特尔Arc B580显卡在光线追踪方面的表现，特别是在《赛博朋克2077》路径追踪模式下的性能。**光线追踪加速器（RTA）**在提升性能中扮演关键角色，其**BVH缓存**从8KB增加到16KB，显著减少了内存延迟。尽管**Xe核心**的线程利用率高达93.8%，但执行单元的实际利用率较低，主要受限于内存延迟和指令级并行性不足。
+
+---
+
 ## <a name="19"></a>19. Tcl 教程 
 <small>🔗 [tcl-lang.org](https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html): Tcl Tutorial</small>
 
 
-| 🔥: 72 \| 💬: [35](https://news.ycombinator.com/item?id=43381195) \| 🗓️ 2025-03-16
+| 🔥: 81 \| 💬: [41](https://news.ycombinator.com/item?id=43381195) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -255,7 +255,7 @@ Amiga 600 是 Commodore 在 1992 年推出的一款**低成本家用电脑**，�
 <small>🔗 [brainsteam.co.uk](https://brainsteam.co.uk/2025/2/15/personal-archive-hoarder/): Building a Personal Archive with Hoarder</small>
 
 
-| 🔥: 69 \| 💬: [4](https://news.ycombinator.com/item?id=43379917) \| 🗓️ 2025-03-16
+| 🔥: 75 \| 💬: [5](https://news.ycombinator.com/item?id=43379917) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -267,7 +267,7 @@ Hoarder是一款开源工具，允许用户在本地服务器上**存档网页�
 <small>🔗 [dw.com](https://www.dw.com/en/max-planck-institute-abuse-of-power-elite-scientists-germany-v2/video-71904207): Abuse of power at Germany's elite research institution [video]</small>
 
 
-| 🔥: 67 \| 💬: [9](https://news.ycombinator.com/item?id=43380643) \| 🗓️ 2025-03-16
+| 🔥: 70 \| 💬: [9](https://news.ycombinator.com/item?id=43380643) \| 🗓️ 2025-03-16
 
 
 <br />
@@ -275,7 +275,43 @@ Hoarder是一款开源工具，允许用户在本地服务器上**存档网页�
 
 ---
 
-## <a name="22"></a>22. 全球隐私控制的影响 
+## <a name="22"></a>22. 10支团队竞相打造Pivotal Tracker替代品 
+<small>🔗 [bye-tracker.net](https://bye-tracker.net): Show HN: 10 teams are racing to build a pivotal tracker replacement</small>
+
+
+| 🔥: 68 \| 💬: [28](https://news.ycombinator.com/item?id=43378925) \| 🗓️ 2025-03-16
+
+
+<br />
+随着Pivotal Tracker即将关闭，全球超过10支团队正在努力开发替代品，延续其**开发者友好**和**自动化规划**的理念。这些项目旨在提供**实时协作**、简洁的UI和高效的工作流，避免复杂的设置和有毒的规划实践。社区正在积极跟进这些新工具的进展。
+
+---
+
+## <a name="23"></a>23. 微软1986年IPO：改变科技行业的里程碑 
+<small>🔗 [dfarq.homeip.net](https://dfarq.homeip.net/microsofts-1986-ipo/): Microsoft's 1986 IPO</small>
+
+
+| 🔥: 68 \| 💬: [25](https://news.ycombinator.com/item?id=43381141) \| 🗓️ 2025-03-16
+
+
+<br />
+1986年3月13日，微软成功上市，**IPO估值21美元/股**，融资6100万美元，市值达7.77亿美元。**比尔·盖茨**持有45%股份，身价近3.5亿美元。微软通过操作系统和软件授权盈利，**MS-DOS**和Windows奠定了其垄断地位。此次IPO直接推动了90年代末的互联网泡沫，并催生了亚马逊和谷歌等科技巨头。
+
+---
+
+## <a name="24"></a>24. 微软将Notepad和Paint的部分功能设为付费 
+<small>🔗 [pcworld.com](https://www.pcworld.com/article/2614943/microsoft-is-paywalling-these-features-in-notepad-and-paint.html): Microsoft paywalling features in Notepad and Paint</small>
+
+
+| 🔥: 67 \| 💬: [58](https://news.ycombinator.com/item?id=43382392) \| 🗓️ 2025-03-16
+
+
+<br />
+微软宣布，**Notepad**和**Paint**的部分新功能将需要**Microsoft 365订阅**才能使用。Notepad的AI文本重写、生成和调整功能，以及Paint的AI图像生成功能将被锁定。免费用户仍可使用基本功能，但新特性需付费解锁。这是微软首次对这些经典应用实施付费墙。
+
+---
+
+## <a name="25"></a>25. 全球隐私控制的影响 
 <small>🔗 [developer.mozilla.org](https://developer.mozilla.org/en-US/blog/global-privacy-control/): Implications of Global Privacy Control</small>
 
 
@@ -284,41 +320,5 @@ Hoarder是一款开源工具，允许用户在本地服务器上**存档网页�
 
 <br />
 全球隐私控制（**GPC**）是一种新的隐私保护机制，旨在让用户更好地控制个人数据的收集和共享。与之前的“**Do Not Track**”不同，GPC得到了法律支持，尤其是在加州消费者隐私法（**CCPA**）和欧盟的《通用数据保护条例》（GDPR）下。GPC通过浏览器信号实现，用户可以选择是否允许特定网站共享其数据。开发者需通过HTTP头或浏览器属性检测GPC信号，并根据用户选择调整数据处理方式。目前，Firefox、Brave等浏览器已支持GPC，未来有望进一步推广。
-
----
-
-## <a name="23"></a>23. GL-iNet 开源远程KVM设备：Comet 
-<small>🔗 [gl-inet.com](https://www.gl-inet.com/products/gl-rm1/): Comet open source remote KVM from GL-iNet</small>
-
-
-| 🔥: 66 \| 💬: [37](https://news.ycombinator.com/item?id=43378900) \| 🗓️ 2025-03-16
-
-
-<br />
-Comet (GL-RM1) 是一款**开源远程KVM硬件**，支持2K@60FPS高清视频和低延迟（30-60ms），适用于远程办公、服务器维护等场景。它具备**千兆以太网接口**、H.264硬件编码和远程文件传输功能，兼容多种设备，如迷你PC、服务器等。其便携设计和强大性能使其成为远程设备管理的理想选择。
-
----
-
-## <a name="24"></a>24. 美国无视法庭命令驱逐委内瑞拉人 
-<small>🔗 [bbc.com](https://www.bbc.com/news/articles/cp9yv1gnzyvo): US deports Venezuelans despite court order</small>
-
-
-| 🔥: 63 \| 💬: [39](https://news.ycombinator.com/item?id=43381043) \| 🗓️ 2025-03-16
-
-
-<br />
-尽管美国法官下令暂停驱逐，**美国仍将200多名委内瑞拉人**遣送至萨尔瓦多。这些被驱逐者被指控为**Tren de Aragua和MS-13帮派成员**，并立即被关押在萨尔瓦多的恐怖主义拘留中心。此举引发法律争议，法官曾要求飞机返航，但美国司法部已提出上诉。萨尔瓦多总统布克尔称此举为“前所未有的移民协议”，并强调美国将支付费用。
-
----
-
-## <a name="25"></a>25. 苹果内部会议泄露：Siri现状堪忧 
-<small>🔗 [theverge.com](https://www.theverge.com/news/629940/apple-siri-robby-walker-delayed-ai-features): Leaked Apple meeting shows how dire the Siri situation is</small>
-
-
-| 🔥: 63 \| 💬: [55](https://news.ycombinator.com/item?id=43382014) \| 🗓️ 2025-03-16
-
-
-<br />
-根据泄露的苹果内部会议内容，**Siri团队**在AI功能开发上进展缓慢，原定于去年6月宣布的**AI功能**可能无法如期在iOS 19中推出。高级总监Robby Walker承认，由于质量问题和内部资源分配冲突，部分功能被推迟。他还提到，**营销团队**过早宣传未成熟的功能，导致用户期望过高，进一步加剧了问题。苹果高层已对此表示“强烈个人责任”，但具体发布时间仍未确定。
 
 ---
