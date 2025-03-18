@@ -27,7 +27,7 @@ tags:
 <small>🔗 [testing.gimp.org](https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/): GIMP 3.0</small>
 
 
-| 🔥🔥: 530 \| 💬: [158](https://news.ycombinator.com/item?id=43393822) \| 🗓️ 2025-03-17
+| 🔥🔥: 615 \| 💬: [192](https://news.ycombinator.com/item?id=43393822) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2503.02113): Deep Learning Is Not So Mysterious or Different</small>
 
 
-| 🔥🔥: 304 \| 💬: [78](https://news.ycombinator.com/item?id=43390400) \| 🗓️ 2025-03-17
+| 🔥🔥: 319 \| 💬: [79](https://news.ycombinator.com/item?id=43390400) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/chaos-in-cloudflare-lisbon-office-securing-the-internet-with-wave-motion/): Chaos in the Cloudflare Lisbon Office</small>
 
 
-| 🔥🔥: 260 \| 💬: [114](https://news.ycombinator.com/item?id=43389064) \| 🗓️ 2025-03-17
+| 🔥🔥: 260 \| 💬: [115](https://news.ycombinator.com/item?id=43389064) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -63,7 +63,7 @@ Cloudflare在里斯本办公室安装了一面由**50台波浪机**组成的“�
 <small>🔗 [blog.dshr.org](https://blog.dshr.org/2025/03/archival-storage.html): Archival Storage</small>
 
 
-| 🔥🔥: 229 \| 💬: [121](https://news.ycombinator.com/item?id=43391459) \| 🗓️ 2025-03-17
+| 🔥🔥: 238 \| 💬: [123](https://news.ycombinator.com/item?id=43391459) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -75,7 +75,7 @@ Cloudflare在里斯本办公室安装了一面由**50台波浪机**组成的“�
 <small>🔗 [wired.com](https://www.wired.com/story/undergraduate-upends-a-40-year-old-data-science-conjecture/): Undergraduate Disproves 40-Year-Old Conjecture, Invents New Kind of Hash Table</small>
 
 
-| 🔥🔥: 220 \| 💬: [99](https://news.ycombinator.com/item?id=43388296) \| 🗓️ 2025-03-17
+| 🔥🔥: 220 \| 💬: [100](https://news.ycombinator.com/item?id=43388296) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -99,7 +99,7 @@ Cloudflare在里斯本办公室安装了一面由**50台波浪机**组成的“�
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/mar/13/meta-careless-people-book-former-employee): Meta puts stop on promotion of tell-all book by former employee</small>
 
 
-| 🔥🔥: 180 \| 💬: [83](https://news.ycombinator.com/item?id=43387325) \| 🗓️ 2025-03-17
+| 🔥🔥: 181 \| 💬: [84](https://news.ycombinator.com/item?id=43387325) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -111,7 +111,7 @@ Meta通过紧急仲裁裁决，暂时阻止了前员工Sarah Wynn-Williams的爆
 <small>🔗 [theintercept.com](https://theintercept.com/2025/03/17/lapd-surveillance-gaza-palestine-protests-dataminr/): Dataminr tracked Gaza-related protests</small>
 
 
-| 🔥🔥: 169 \| 💬: [144](https://news.ycombinator.com/item?id=43390747) \| 🗓️ 2025-03-17
+| 🔥🔥: 177 \| 💬: [140](https://news.ycombinator.com/item?id=43390747) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -123,7 +123,7 @@ Meta通过紧急仲裁裁决，暂时阻止了前员工Sarah Wynn-Williams的爆
 <small>🔗 [x.company](https://x.company/blog/posts/taara-graduation/): Alphabet spins out Taara – Internet over lasers</small>
 
 
-| 🔥🔥: 155 \| 💬: [166](https://news.ycombinator.com/item?id=43390467) \| 🗓️ 2025-03-17
+| 🔥🔥: 161 \| 💬: [178](https://news.ycombinator.com/item?id=43390467) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -147,7 +147,7 @@ Taara从X实验室独立出来，致力于通过**光束技术**提供高速、�
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/cyber-security/akira-ransomware-cracked-with-rtx-4090-new-exploit-to-brute-force-encryption-attack): Akira ransomware can be cracked with sixteen RTX 4090 GPUs in around ten hours</small>
 
 
-| 🔥🔥: 136 \| 💬: [37](https://news.ycombinator.com/item?id=43387188) \| 🗓️ 2025-03-17
+| 🔥🔥: 139 \| 💬: [37](https://news.ycombinator.com/item?id=43387188) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -159,7 +159,7 @@ Taara从X实验室独立出来，致力于通过**光束技术**提供高速、�
 <small>🔗 [simonschreibt.de](https://simonschreibt.de/gat/the-high-heel-problem/): The High Heel Problem</small>
 
 
-| 🔥🔥: 119 \| 💬: [13](https://news.ycombinator.com/item?id=43392549) \| 🗓️ 2025-03-17
+| 🔥🔥: 132 \| 💬: [13](https://news.ycombinator.com/item?id=43392549) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -171,7 +171,7 @@ Taara从X实验室独立出来，致力于通过**光束技术**提供高速、�
 <small>🔗 [bloomberg.com](https://www.bloomberg.com/news/features/2025-03-16/wall-street-s-dark-pools-grow-murkier-with-private-rooms): Wall Street’s ‘Private Rooms’</small>
 
 
-| 🔥🔥: 116 \| 💬: [99](https://news.ycombinator.com/item?id=43390595) \| 🗓️ 2025-03-17
+| 🔥🔥: 125 \| 💬: [101](https://news.ycombinator.com/item?id=43390595) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -183,7 +183,7 @@ Taara从X实验室独立出来，致力于通过**光束技术**提供高速、�
 <small>🔗 [blog.kevinalbs.com](http://blog.kevinalbs.com/stupid_smart_pointers): Stupid Smart Pointers in C</small>
 
 
-| 🔥: 91 \| 💬: [120](https://news.ycombinator.com/item?id=43387334) \| 🗓️ 2025-03-17
+| 🔥: 96 \| 💬: [125](https://news.ycombinator.com/item?id=43387334) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -215,7 +215,31 @@ Rippling对Deel提起诉讼，指控其从事**间谍活动**。诉讼细节尚�
 
 ---
 
-## <a name="17"></a>17. 将C代码转换为Z/80 Speccy磁带的工作流程 
+## <a name="17"></a>17. 用户界面设计的过去与未来 
+<small>🔗 [datagubbe.se](https://www.datagubbe.se/futui/): Past and Present Futures of User Interface Design</small>
+
+
+| 🔥: 81 \| 💬: [22](https://news.ycombinator.com/item?id=43393924) \| 🗓️ 2025-03-17
+
+
+<br />
+从1968年道格拉斯·恩格尔巴特的“**The Mother of All Demos**”到现代**触摸屏**和**语音控制**，用户界面设计经历了巨大变革。尽管技术不断进步，**桌面界面**的核心元素——指针、图标、窗口和菜单——依然占据主导地位。未来，设计师需要在**一致性**和**创新**之间找到平衡，而不是盲目追求“革命性”改变。
+
+---
+
+## <a name="18"></a>18. 哈佛宣布年收入20万美元以下家庭学费全免 
+<small>🔗 [abcnews.go.com](https://abcnews.go.com/Business/harvard-tuition-families-making-200k/story?id=119874241): Harvard says tuition will be free for families making $200K or less</small>
+
+
+| 🔥: 75 \| 💬: [86](https://news.ycombinator.com/item?id=43393478) \| 🗓️ 2025-03-17
+
+
+<br />
+哈佛大学宣布，从2025-2026学年开始，**年收入20万美元以下**的家庭将享受**学费全免**政策。年收入10万美元以下的家庭还将免除住宿、餐饮和健康服务等费用。此举旨在扩大哈佛的多样性，使更多学生能够负担得起哈佛的教育。目前，哈佛本科生平均年学费为56,550美元，总费用达82,866美元。
+
+---
+
+## <a name="19"></a>19. 将C代码转换为Z/80 Speccy磁带的工作流程 
 <small>🔗 [ghuntley.com](https://ghuntley.com/z80/): Converting C to ASM to specs and then to a working Z/80 Speccy tape</small>
 
 
@@ -227,35 +251,11 @@ Rippling对Deel提起诉讼，指控其从事**间谍活动**。诉讼细节尚�
 
 ---
 
-## <a name="18"></a>18. 哈佛宣布年收入20万美元以下家庭学费全免 
-<small>🔗 [abcnews.go.com](https://abcnews.go.com/Business/harvard-tuition-families-making-200k/story?id=119874241): Harvard says tuition will be free for families making $200K or less</small>
-
-
-| 🔥: 74 \| 💬: [81](https://news.ycombinator.com/item?id=43393478) \| 🗓️ 2025-03-17
-
-
-<br />
-哈佛大学宣布，从2025-2026学年开始，**年收入20万美元以下**的家庭将享受**学费全免**政策。年收入10万美元以下的家庭还将免除住宿、餐饮和健康服务等费用。此举旨在扩大哈佛的多样性，使更多学生能够负担得起哈佛的教育。目前，哈佛本科生平均年学费为56,550美元，总费用达82,866美元。
-
----
-
-## <a name="19"></a>19. 用户界面设计的过去与未来 
-<small>🔗 [datagubbe.se](https://www.datagubbe.se/futui/): Past and Present Futures of User Interface Design</small>
-
-
-| 🔥: 66 \| 💬: [17](https://news.ycombinator.com/item?id=43393924) \| 🗓️ 2025-03-17
-
-
-<br />
-从1968年道格拉斯·恩格尔巴特的“**The Mother of All Demos**”到现代**触摸屏**和**语音控制**，用户界面设计经历了巨大变革。尽管技术不断进步，**桌面界面**的核心元素——指针、图标、窗口和菜单——依然占据主导地位。未来，设计师需要在**一致性**和**创新**之间找到平衡，而不是盲目追求“革命性”改变。
-
----
-
 ## <a name="20"></a>20. EnkiTask：轻量级项目管理工具，专为自由职业者设计 
 <small>🔗 [enkitask.com](https://enkitask.com/): Show HN: EnkiTask: Lightweight Project Management for Freelancers</small>
 
 
-| 🔥: 65 \| 💬: [44](https://news.ycombinator.com/item?id=43386745) \| 🗓️ 2025-03-17
+| 🔥: 65 \| 💬: [45](https://news.ycombinator.com/item?id=43386745) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -267,7 +267,7 @@ EnkiTask 是一款**经济实惠**的项目管理工具，专为自由职业者�
 <small>🔗 [telegraph.co.uk](https://www.telegraph.co.uk/money/tax/france-tax-super-wealthy-fund-defence-bill-britain-next/): France plots tax on super-rich to rearm – and Britain could be next</small>
 
 
-| 🔥: 60 \| 💬: [84](https://news.ycombinator.com/item?id=43393716) \| 🗓️ 2025-03-17
+| 🔥: 62 \| 💬: [89](https://news.ycombinator.com/item?id=43393716) \| 🗓️ 2025-03-17
 
 
 <br />
