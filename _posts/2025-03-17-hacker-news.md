@@ -27,7 +27,7 @@ tags:
 <small>🔗 [testing.gimp.org](https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/): GIMP 3.0</small>
 
 
-| 🔥🔥: 615 \| 💬: [192](https://news.ycombinator.com/item?id=43393822) \| 🗓️ 2025-03-17
+| 🔥🔥: 692 \| 💬: [225](https://news.ycombinator.com/item?id=43393822) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2503.02113): Deep Learning Is Not So Mysterious or Different</small>
 
 
-| 🔥🔥: 319 \| 💬: [79](https://news.ycombinator.com/item?id=43390400) \| 🗓️ 2025-03-17
+| 🔥🔥: 329 \| 💬: [80](https://news.ycombinator.com/item?id=43390400) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/chaos-in-cloudflare-lisbon-office-securing-the-internet-with-wave-motion/): Chaos in the Cloudflare Lisbon Office</small>
 
 
-| 🔥🔥: 260 \| 💬: [115](https://news.ycombinator.com/item?id=43389064) \| 🗓️ 2025-03-17
+| 🔥🔥: 262 \| 💬: [116](https://news.ycombinator.com/item?id=43389064) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -63,7 +63,7 @@ Cloudflare在里斯本办公室安装了一面由**50台波浪机**组成的“�
 <small>🔗 [blog.dshr.org](https://blog.dshr.org/2025/03/archival-storage.html): Archival Storage</small>
 
 
-| 🔥🔥: 238 \| 💬: [123](https://news.ycombinator.com/item?id=43391459) \| 🗓️ 2025-03-17
+| 🔥🔥: 248 \| 💬: [128](https://news.ycombinator.com/item?id=43391459) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -75,7 +75,7 @@ Cloudflare在里斯本办公室安装了一面由**50台波浪机**组成的“�
 <small>🔗 [wired.com](https://www.wired.com/story/undergraduate-upends-a-40-year-old-data-science-conjecture/): Undergraduate Disproves 40-Year-Old Conjecture, Invents New Kind of Hash Table</small>
 
 
-| 🔥🔥: 220 \| 💬: [100](https://news.ycombinator.com/item?id=43388296) \| 🗓️ 2025-03-17
+| 🔥🔥: 222 \| 💬: [102](https://news.ycombinator.com/item?id=43388296) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -95,23 +95,11 @@ Cloudflare在里斯本办公室安装了一面由**50台波浪机**组成的“�
 
 ---
 
-## <a name="7"></a>7. Meta阻止前员工爆料书籍推广 
-<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/mar/13/meta-careless-people-book-former-employee): Meta puts stop on promotion of tell-all book by former employee</small>
-
-
-| 🔥🔥: 181 \| 💬: [84](https://news.ycombinator.com/item?id=43387325) \| 🗓️ 2025-03-17
-
-
-<br />
-Meta通过紧急仲裁裁决，暂时阻止了前员工Sarah Wynn-Williams的爆料书籍《**Careless People**》的推广。该书被《纽约时报》称为对Meta及其高管的“丑陋而详细的描绘”。仲裁员认为，若不采取紧急措施，Meta将遭受“**立即且不可挽回的损失**”。出版商Macmillan表示支持言论自由，但作者因法律程序无法继续参与宣传。
-
----
-
-## <a name="8"></a>8. 洛杉矶警方使用社交媒体工具监控加沙抗议活动 
+## <a name="7"></a>7. 洛杉矶警方使用社交媒体工具监控加沙抗议活动 
 <small>🔗 [theintercept.com](https://theintercept.com/2025/03/17/lapd-surveillance-gaza-palestine-protests-dataminr/): Dataminr tracked Gaza-related protests</small>
 
 
-| 🔥🔥: 177 \| 💬: [140](https://news.ycombinator.com/item?id=43390747) \| 🗓️ 2025-03-17
+| 🔥🔥: 184 \| 💬: [148](https://news.ycombinator.com/item?id=43390747) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -119,11 +107,23 @@ Meta通过紧急仲裁裁决，暂时阻止了前员工Sarah Wynn-Williams的爆
 
 ---
 
+## <a name="8"></a>8. Meta阻止前员工爆料书籍推广 
+<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/mar/13/meta-careless-people-book-former-employee): Meta puts stop on promotion of tell-all book by former employee</small>
+
+
+| 🔥🔥: 181 \| 💬: [85](https://news.ycombinator.com/item?id=43387325) \| 🗓️ 2025-03-17
+
+
+<br />
+Meta通过紧急仲裁裁决，暂时阻止了前员工Sarah Wynn-Williams的爆料书籍《**Careless People**》的推广。该书被《纽约时报》称为对Meta及其高管的“丑陋而详细的描绘”。仲裁员认为，若不采取紧急措施，Meta将遭受“**立即且不可挽回的损失**”。出版商Macmillan表示支持言论自由，但作者因法律程序无法继续参与宣传。
+
+---
+
 ## <a name="9"></a>9. Alphabet分拆Taara——激光互联网 
 <small>🔗 [x.company](https://x.company/blog/posts/taara-graduation/): Alphabet spins out Taara – Internet over lasers</small>
 
 
-| 🔥🔥: 161 \| 💬: [178](https://news.ycombinator.com/item?id=43390467) \| 🗓️ 2025-03-17
+| 🔥🔥: 172 \| 💬: [188](https://news.ycombinator.com/item?id=43390467) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -143,7 +143,19 @@ Taara从X实验室独立出来，致力于通过**光束技术**提供高速、�
 
 ---
 
-## <a name="11"></a>11. Akira勒索软件可通过16块RTX 4090显卡在10小时内破解 
+## <a name="11"></a>11. 高跟鞋对游戏开发的影响 
+<small>🔗 [simonschreibt.de](https://simonschreibt.de/gat/the-high-heel-problem/): The High Heel Problem</small>
+
+
+| 🔥🔥: 145 \| 💬: [16](https://news.ycombinator.com/item?id=43392549) \| 🗓️ 2025-03-17
+
+
+<br />
+本文探讨了**高跟鞋**在游戏开发中带来的挑战，包括角色身高、姿势、动画和碰撞体积的变化。游戏开发者可以通过**调整身高**、**手动修正动画**或使用**动态系统**（如IK）来解决这些问题。此外，还讨论了如何通过**缩短腿部**或**弯曲腿部**来绕过这些问题。不同鞋型还会影响角色的步态和脚步声，甚至可能影响游戏的平衡性。
+
+---
+
+## <a name="12"></a>12. Akira勒索软件可通过16块RTX 4090显卡在10小时内破解 
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/cyber-security/akira-ransomware-cracked-with-rtx-4090-new-exploit-to-brute-force-encryption-attack): Akira ransomware can be cracked with sixteen RTX 4090 GPUs in around ten hours</small>
 
 
@@ -155,23 +167,11 @@ Taara从X实验室独立出来，致力于通过**光束技术**提供高速、�
 
 ---
 
-## <a name="12"></a>12. 高跟鞋对游戏开发的影响 
-<small>🔗 [simonschreibt.de](https://simonschreibt.de/gat/the-high-heel-problem/): The High Heel Problem</small>
-
-
-| 🔥🔥: 132 \| 💬: [13](https://news.ycombinator.com/item?id=43392549) \| 🗓️ 2025-03-17
-
-
-<br />
-本文探讨了**高跟鞋**在游戏开发中带来的挑战，包括角色身高、姿势、动画和碰撞体积的变化。游戏开发者可以通过**调整身高**、**手动修正动画**或使用**动态系统**（如IK）来解决这些问题。此外，还讨论了如何通过**缩短腿部**或**弯曲腿部**来绕过这些问题。不同鞋型还会影响角色的步态和脚步声，甚至可能影响游戏的平衡性。
-
----
-
 ## <a name="13"></a>13. 华尔街的“私人房间”：比暗池更隐秘的交易场所 
 <small>🔗 [bloomberg.com](https://www.bloomberg.com/news/features/2025-03-16/wall-street-s-dark-pools-grow-murkier-with-private-rooms): Wall Street’s ‘Private Rooms’</small>
 
 
-| 🔥🔥: 125 \| 💬: [101](https://news.ycombinator.com/item?id=43390595) \| 🗓️ 2025-03-17
+| 🔥🔥: 130 \| 💬: [107](https://news.ycombinator.com/item?id=43390595) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -183,7 +183,7 @@ Taara从X实验室独立出来，致力于通过**光束技术**提供高速、�
 <small>🔗 [blog.kevinalbs.com](http://blog.kevinalbs.com/stupid_smart_pointers): Stupid Smart Pointers in C</small>
 
 
-| 🔥: 96 \| 💬: [125](https://news.ycombinator.com/item?id=43387334) \| 🗓️ 2025-03-17
+| 🔥: 99 \| 💬: [128](https://news.ycombinator.com/item?id=43387334) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -191,7 +191,19 @@ Taara从X实验室独立出来，致力于通过**光束技术**提供高速、�
 
 ---
 
-## <a name="15"></a>15. Rippling起诉Deel涉嫌间谍活动 
+## <a name="15"></a>15. 用户界面设计的过去与未来 
+<small>🔗 [datagubbe.se](https://www.datagubbe.se/futui/): Past and Present Futures of User Interface Design</small>
+
+
+| 🔥: 88 \| 💬: [29](https://news.ycombinator.com/item?id=43393924) \| 🗓️ 2025-03-17
+
+
+<br />
+从1968年道格拉斯·恩格尔巴特的“**The Mother of All Demos**”到现代**触摸屏**和**语音控制**，用户界面设计经历了巨大变革。尽管技术不断进步，**桌面界面**的核心元素——指针、图标、窗口和菜单——依然占据主导地位。未来，设计师需要在**一致性**和**创新**之间找到平衡，而不是盲目追求“革命性”改变。
+
+---
+
+## <a name="16"></a>16. Rippling起诉Deel涉嫌间谍活动 
 <small>🔗 [twitter.com](https://twitter.com/parkerconrad/status/1901615179718406276): Rippling Sues Deel over Spying</small>
 
 
@@ -203,7 +215,7 @@ Rippling对Deel提起诉讼，指控其从事**间谍活动**。诉讼细节尚�
 
 ---
 
-## <a name="16"></a>16. 《Facebook内幕曝光：高层的失德与贪婪》 
+## <a name="17"></a>17. 《Facebook内幕曝光：高层的失德与贪婪》 
 <small>🔗 [web.archive.org](https://web.archive.org/web/20250310221013/https://www.nytimes.com/2025/03/10/books/review/careless-people-sarah-wynn-williams.html): A Facebook Insider's Exposé Alleges Bad Behavior at the Top</small>
 
 
@@ -215,23 +227,11 @@ Rippling对Deel提起诉讼，指控其从事**间谍活动**。诉讼细节尚�
 
 ---
 
-## <a name="17"></a>17. 用户界面设计的过去与未来 
-<small>🔗 [datagubbe.se](https://www.datagubbe.se/futui/): Past and Present Futures of User Interface Design</small>
-
-
-| 🔥: 81 \| 💬: [22](https://news.ycombinator.com/item?id=43393924) \| 🗓️ 2025-03-17
-
-
-<br />
-从1968年道格拉斯·恩格尔巴特的“**The Mother of All Demos**”到现代**触摸屏**和**语音控制**，用户界面设计经历了巨大变革。尽管技术不断进步，**桌面界面**的核心元素——指针、图标、窗口和菜单——依然占据主导地位。未来，设计师需要在**一致性**和**创新**之间找到平衡，而不是盲目追求“革命性”改变。
-
----
-
 ## <a name="18"></a>18. 哈佛宣布年收入20万美元以下家庭学费全免 
 <small>🔗 [abcnews.go.com](https://abcnews.go.com/Business/harvard-tuition-families-making-200k/story?id=119874241): Harvard says tuition will be free for families making $200K or less</small>
 
 
-| 🔥: 75 \| 💬: [86](https://news.ycombinator.com/item?id=43393478) \| 🗓️ 2025-03-17
+| 🔥: 76 \| 💬: [88](https://news.ycombinator.com/item?id=43393478) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -267,7 +267,7 @@ EnkiTask 是一款**经济实惠**的项目管理工具，专为自由职业者�
 <small>🔗 [telegraph.co.uk](https://www.telegraph.co.uk/money/tax/france-tax-super-wealthy-fund-defence-bill-britain-next/): France plots tax on super-rich to rearm – and Britain could be next</small>
 
 
-| 🔥: 62 \| 💬: [89](https://news.ycombinator.com/item?id=43393716) \| 🗓️ 2025-03-17
+| 🔥: 62 \| 💬: [94](https://news.ycombinator.com/item?id=43393716) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -291,7 +291,7 @@ EnkiTask 是一款**经济实惠**的项目管理工具，专为自由职业者�
 <small>🔗 [localscope.readthedocs.io](https://localscope.readthedocs.io/en/latest/): Show HN: Localscope–Limit scope of Python functions for reproducible execution</small>
 
 
-| 🔥: 57 \| 💬: [26](https://news.ycombinator.com/item?id=43390823) \| 🗓️ 2025-03-17
+| 🔥: 58 \| 💬: [28](https://news.ycombinator.com/item?id=43390823) \| 🗓️ 2025-03-17
 
 
 <br />
