@@ -8,11 +8,11 @@ tags:
 ---
 
 
+1. GIMP 3.0 正式发布；
 1. 深度学习并不神秘或与众不同；
 1. Cloudflare里斯本办公室的“混沌之墙”；
 1. uv 下载量超越 Poetry，成为 Wagtail 用户新宠；
 1. 本科生推翻40年猜想，发明新型哈希表；
-1. 档案存储的误区与挑战；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -23,11 +23,23 @@ tags:
 ![](/assets/images/hacker_news.jpg)
 
 
-## <a name="1"></a>1. 深度学习并不神秘或与众不同 
+## <a name="1"></a>1. GIMP 3.0 正式发布 
+<small>🔗 [testing.gimp.org](https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/): GIMP 3.0</small>
+
+
+| 🔥🔥: 307 \| 💬: [75](https://news.ycombinator.com/item?id=43393822) \| 🗓️ 2025-03-17
+
+
+<br />
+经过七年的开发，GIMP 3.0 终于发布了！这一版本带来了**非破坏性编辑**、更多文件格式支持、自动扩展图层、专业级文本处理等新功能。此外，**颜色管理**和图形工具包也得到了改进。GIMP 3.0 标志着这一开源图像编辑软件的新里程碑，未来还将有更多令人期待的功能。立即下载体验吧！
+
+---
+
+## <a name="2"></a>2. 深度学习并不神秘或与众不同 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2503.02113): Deep Learning Is Not So Mysterious or Different</small>
 
 
-| 🔥🔥: 263 \| 💬: [67](https://news.ycombinator.com/item?id=43390400) \| 🗓️ 2025-03-17
+| 🔥🔥: 285 \| 💬: [71](https://news.ycombinator.com/item?id=43390400) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -35,11 +47,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. Cloudflare里斯本办公室的“混沌之墙” 
+## <a name="3"></a>3. Cloudflare里斯本办公室的“混沌之墙” 
 <small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/chaos-in-cloudflare-lisbon-office-securing-the-internet-with-wave-motion/): Chaos in the Cloudflare Lisbon Office</small>
 
 
-| 🔥🔥: 251 \| 💬: [114](https://news.ycombinator.com/item?id=43389064) \| 🗓️ 2025-03-17
+| 🔥🔥: 253 \| 💬: [114](https://news.ycombinator.com/item?id=43389064) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -47,11 +59,11 @@ Cloudflare在里斯本办公室安装了一面由**50台波浪机**组成的“�
 
 ---
 
-## <a name="3"></a>3. uv 下载量超越 Poetry，成为 Wagtail 用户新宠 
+## <a name="4"></a>4. uv 下载量超越 Poetry，成为 Wagtail 用户新宠 
 <small>🔗 [wagtail.org](https://wagtail.org/blog/uv-overtakes-poetry/): uv downloads overtake Poetry for Wagtail users</small>
 
 
-| 🔥🔥: 214 \| 💬: [190](https://news.ycombinator.com/item?id=43386357) \| 🗓️ 2025-03-17
+| 🔥🔥: 215 \| 💬: [190](https://news.ycombinator.com/item?id=43386357) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -59,11 +71,11 @@ Cloudflare在里斯本办公室安装了一面由**50台波浪机**组成的“�
 
 ---
 
-## <a name="4"></a>4. 本科生推翻40年猜想，发明新型哈希表 
+## <a name="5"></a>5. 本科生推翻40年猜想，发明新型哈希表 
 <small>🔗 [wired.com](https://www.wired.com/story/undergraduate-upends-a-40-year-old-data-science-conjecture/): Undergraduate Disproves 40-Year-Old Conjecture, Invents New Kind of Hash Table</small>
 
 
-| 🔥🔥: 209 \| 💬: [98](https://news.ycombinator.com/item?id=43388296) \| 🗓️ 2025-03-17
+| 🔥🔥: 215 \| 💬: [98](https://news.ycombinator.com/item?id=43388296) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -71,11 +83,11 @@ Cloudflare在里斯本办公室安装了一面由**50台波浪机**组成的“�
 
 ---
 
-## <a name="5"></a>5. 档案存储的误区与挑战 
+## <a name="6"></a>6. 档案存储的误区与挑战 
 <small>🔗 [blog.dshr.org](https://blog.dshr.org/2025/03/archival-storage.html): Archival Storage</small>
 
 
-| 🔥🔥: 193 \| 💬: [99](https://news.ycombinator.com/item?id=43391459) \| 🗓️ 2025-03-17
+| 🔥🔥: 206 \| 💬: [108](https://news.ycombinator.com/item?id=43391459) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -83,7 +95,7 @@ Cloudflare在里斯本办公室安装了一面由**50台波浪机**组成的“�
 
 ---
 
-## <a name="6"></a>6. Meta阻止前员工爆料书籍推广 
+## <a name="7"></a>7. Meta阻止前员工爆料书籍推广 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/mar/13/meta-careless-people-book-former-employee): Meta puts stop on promotion of tell-all book by former employee</small>
 
 
@@ -95,7 +107,19 @@ Meta通过紧急仲裁裁决，暂时阻止了前员工Sarah Wynn-Williams的爆
 
 ---
 
-## <a name="7"></a>7. 树莓派RP2350现已开售，堆叠内存版本即将推出 
+## <a name="8"></a>8. 洛杉矶警方使用社交媒体工具监控加沙抗议活动 
+<small>🔗 [theintercept.com](https://theintercept.com/2025/03/17/lapd-surveillance-gaza-palestine-protests-dataminr/): Dataminr tracked Gaza-related protests</small>
+
+
+| 🔥🔥: 151 \| 💬: [127](https://news.ycombinator.com/item?id=43390747) \| 🗓️ 2025-03-17
+
+
+<br />
+洛杉矶警方通过社交媒体监控公司**Dataminr**获取实时警报，追踪与加沙相关的抗议活动及其他受宪法保护的言论。内部邮件显示，警方不仅收到正在进行的抗议信息，还提前获知即将发生的示威活动。隐私和民权专家批评这种监控行为对政治言论和集会产生了**寒蝉效应**，并质疑警方使用纳税人资金进行此类监控的合法性。Dataminr的监控范围广泛，甚至包括记者和远在他州的抗议活动，引发了对言论自由的担忧。
+
+---
+
+## <a name="9"></a>9. 树莓派RP2350现已开售，堆叠内存版本即将推出 
 <small>🔗 [phoronix.com](https://www.phoronix.com/news/Raspberry-Pi-RP2350-Buy): Raspberry Pi RP2350 Now Available for Purchase, Stacked Memory Variant Coming</small>
 
 
@@ -107,47 +131,11 @@ Meta通过紧急仲裁裁决，暂时阻止了前员工Sarah Wynn-Williams的爆
 
 ---
 
-## <a name="8"></a>8. GIMP 3.0 正式发布 
-<small>🔗 [testing.gimp.org](https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/): GIMP 3.0 Released</small>
-
-
-| 🔥🔥: 141 \| 💬: [19](https://news.ycombinator.com/item?id=43393822) \| 🗓️ 2025-03-17
-
-
-<br />
-经过七年的开发，GIMP 3.0 终于发布了！这一版本带来了**非破坏性编辑**、更多文件格式支持、自动扩展图层、专业级文本处理等新功能。此外，**颜色管理**和图形工具包也得到了改进。GIMP 3.0 标志着这一开源图像编辑软件的新里程碑，未来还将有更多令人期待的功能。立即下载体验吧！
-
----
-
-## <a name="9"></a>9. 洛杉矶警方使用社交媒体工具监控加沙抗议活动 
-<small>🔗 [theintercept.com](https://theintercept.com/2025/03/17/lapd-surveillance-gaza-palestine-protests-dataminr/): Dataminr tracked Gaza-related protests</small>
-
-
-| 🔥🔥: 139 \| 💬: [123](https://news.ycombinator.com/item?id=43390747) \| 🗓️ 2025-03-17
-
-
-<br />
-洛杉矶警方通过社交媒体监控公司**Dataminr**获取实时警报，追踪与加沙相关的抗议活动及其他受宪法保护的言论。内部邮件显示，警方不仅收到正在进行的抗议信息，还提前获知即将发生的示威活动。隐私和民权专家批评这种监控行为对政治言论和集会产生了**寒蝉效应**，并质疑警方使用纳税人资金进行此类监控的合法性。Dataminr的监控范围广泛，甚至包括记者和远在他州的抗议活动，引发了对言论自由的担忧。
-
----
-
-## <a name="10"></a>10. Akira勒索软件可通过16块RTX 4090显卡在10小时内破解 
-<small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/cyber-security/akira-ransomware-cracked-with-rtx-4090-new-exploit-to-brute-force-encryption-attack): Akira ransomware can be cracked with sixteen RTX 4090 GPUs in around ten hours</small>
-
-
-| 🔥🔥: 127 \| 💬: [35](https://news.ycombinator.com/item?id=43387188) \| 🗓️ 2025-03-17
-
-
-<br />
-网络安全博主Tinyhack发现了一种新的**GPU暴力破解**方法，能够解密Akira勒索软件加密的文件。Akira勒索软件使用**chacha8和Kcipher2**加密算法，通过四个纳秒级时间戳生成密钥。利用RTX 4090显卡，单个文件解密需7天，而16块显卡可将时间缩短至10小时。尽管Akira可能很快修复此漏洞，但这一发现为受攻击者提供了新的解密希望。
-
----
-
-## <a name="11"></a>11. Alphabet分拆Taara——激光互联网 
+## <a name="10"></a>10. Alphabet分拆Taara——激光互联网 
 <small>🔗 [x.company](https://x.company/blog/posts/taara-graduation/): Alphabet spins out Taara – Internet over lasers</small>
 
 
-| 🔥🔥: 114 \| 💬: [136](https://news.ycombinator.com/item?id=43390467) \| 🗓️ 2025-03-17
+| 🔥🔥: 132 \| 💬: [141](https://news.ycombinator.com/item?id=43390467) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -155,11 +143,23 @@ Taara从X实验室独立出来，致力于通过**光束技术**提供高速、�
 
 ---
 
+## <a name="11"></a>11. Akira勒索软件可通过16块RTX 4090显卡在10小时内破解 
+<small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/cyber-security/akira-ransomware-cracked-with-rtx-4090-new-exploit-to-brute-force-encryption-attack): Akira ransomware can be cracked with sixteen RTX 4090 GPUs in around ten hours</small>
+
+
+| 🔥🔥: 129 \| 💬: [35](https://news.ycombinator.com/item?id=43387188) \| 🗓️ 2025-03-17
+
+
+<br />
+网络安全博主Tinyhack发现了一种新的**GPU暴力破解**方法，能够解密Akira勒索软件加密的文件。Akira勒索软件使用**chacha8和Kcipher2**加密算法，通过四个纳秒级时间戳生成密钥。利用RTX 4090显卡，单个文件解密需7天，而16块显卡可将时间缩短至10小时。尽管Akira可能很快修复此漏洞，但这一发现为受攻击者提供了新的解密希望。
+
+---
+
 ## <a name="12"></a>12. 华尔街的“私人房间”：比暗池更隐秘的交易场所 
 <small>🔗 [bloomberg.com](https://www.bloomberg.com/news/features/2025-03-16/wall-street-s-dark-pools-grow-murkier-with-private-rooms): Wall Street’s ‘Private Rooms’</small>
 
 
-| 🔥: 96 \| 💬: [85](https://news.ycombinator.com/item?id=43390595) \| 🗓️ 2025-03-17
+| 🔥🔥: 102 \| 💬: [87](https://news.ycombinator.com/item?id=43390595) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -167,7 +167,19 @@ Taara从X实验室独立出来，致力于通过**光束技术**提供高速、�
 
 ---
 
-## <a name="13"></a>13. Rippling起诉Deel涉嫌间谍活动 
+## <a name="13"></a>13. 高跟鞋对游戏开发的影响 
+<small>🔗 [simonschreibt.de](https://simonschreibt.de/gat/the-high-heel-problem/): The High Heel Problem</small>
+
+
+| 🔥: 98 \| 💬: [8](https://news.ycombinator.com/item?id=43392549) \| 🗓️ 2025-03-17
+
+
+<br />
+本文探讨了**高跟鞋**在游戏开发中带来的挑战，包括角色身高、姿势、动画和碰撞体积的变化。游戏开发者可以通过**调整身高**、**手动修正动画**或使用**动态系统**（如IK）来解决这些问题。此外，还讨论了如何通过**缩短腿部**或**弯曲腿部**来绕过这些问题。不同鞋型还会影响角色的步态和脚步声，甚至可能影响游戏的平衡性。
+
+---
+
+## <a name="14"></a>14. Rippling起诉Deel涉嫌间谍活动 
 <small>🔗 [twitter.com](https://twitter.com/parkerconrad/status/1901615179718406276): Rippling Sues Deel over Spying</small>
 
 
@@ -179,7 +191,7 @@ Rippling对Deel提起诉讼，指控其从事**间谍活动**。诉讼细节尚�
 
 ---
 
-## <a name="14"></a>14. 《Facebook内幕曝光：高层的失德与贪婪》 
+## <a name="15"></a>15. 《Facebook内幕曝光：高层的失德与贪婪》 
 <small>🔗 [web.archive.org](https://web.archive.org/web/20250310221013/https://www.nytimes.com/2025/03/10/books/review/careless-people-sarah-wynn-williams.html): A Facebook Insider's Exposé Alleges Bad Behavior at the Top</small>
 
 
@@ -191,23 +203,11 @@ Rippling对Deel提起诉讼，指控其从事**间谍活动**。诉讼细节尚�
 
 ---
 
-## <a name="15"></a>15. 高跟鞋对游戏开发的影响 
-<small>🔗 [simonschreibt.de](https://simonschreibt.de/gat/the-high-heel-problem/): The High Heel Problem</small>
-
-
-| 🔥: 83 \| 💬: [6](https://news.ycombinator.com/item?id=43392549) \| 🗓️ 2025-03-17
-
-
-<br />
-本文探讨了**高跟鞋**在游戏开发中带来的挑战，包括角色身高、姿势、动画和碰撞体积的变化。游戏开发者可以通过**调整身高**、**手动修正动画**或使用**动态系统**（如IK）来解决这些问题。此外，还讨论了如何通过**缩短腿部**或**弯曲腿部**来绕过这些问题。不同鞋型还会影响角色的步态和脚步声，甚至可能影响游戏的平衡性。
-
----
-
 ## <a name="16"></a>16. C语言中的“愚蠢”智能指针 
 <small>🔗 [blog.kevinalbs.com](http://blog.kevinalbs.com/stupid_smart_pointers): Stupid Smart Pointers in C</small>
 
 
-| 🔥: 79 \| 💬: [109](https://news.ycombinator.com/item?id=43387334) \| 🗓️ 2025-03-17
+| 🔥: 81 \| 💬: [112](https://news.ycombinator.com/item?id=43387334) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -243,7 +243,7 @@ EnkiTask 是一款**经济实惠**的项目管理工具，专为自由职业者�
 <small>🔗 [electrek.co](https://electrek.co/2025/03/17/tesla-fans-exposes-shadiness-defend-autopilot-crash/): Tesla fans exposes Tesla's own shadiness in attempt to defend Autopilot crash</small>
 
 
-| 🔥: 58 \| 💬: [17](https://news.ycombinator.com/item?id=43390544) \| 🗓️ 2025-03-17
+| 🔥: 59 \| 💬: [17](https://news.ycombinator.com/item?id=43390544) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -251,15 +251,15 @@ EnkiTask 是一款**经济实惠**的项目管理工具，专为自由职业者�
 
 ---
 
-## <a name="20"></a>20. Pine64推出搭载Debian系统的RISC-V平板，硬件升级 
-<small>🔗 [liliputing.com](https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/): Pine64's RISC-V tablet now ships with a Debian-based Linux and improved hardware</small>
+## <a name="20"></a>20. 哈佛宣布年收入20万美元以下家庭学费全免 
+<small>🔗 [abcnews.go.com](https://abcnews.go.com/Business/harvard-tuition-families-making-200k/story?id=119874241): Harvard says tuition will be free for families making $200K or less</small>
 
 
-| 🔥: 52 \| 💬: [19](https://news.ycombinator.com/item?id=43386856) \| 🗓️ 2025-03-17
+| 🔥: 59 \| 💬: [53](https://news.ycombinator.com/item?id=43393478) \| 🗓️ 2025-03-17
 
 
 <br />
-PineTab-V是一款10.1英寸平板，配备**RISC-V处理器**，拥有8GB内存和128GB存储。最新版本增加了**加速度计**和LED状态指示灯，并修复了充电问题。预装系统为基于Debian的Linux，适合开发者探索**RISC-V架构**。售价225美元，支持WiFi 6和蓝牙5.2。
+哈佛大学宣布，从2025-2026学年开始，**年收入20万美元以下**的家庭将享受**学费全免**政策。年收入10万美元以下的家庭还将免除住宿、餐饮和健康服务等费用。此举旨在扩大哈佛的多样性，使更多学生能够负担得起哈佛的教育。目前，哈佛本科生平均年学费为56,550美元，总费用达82,866美元。
 
 ---
 
@@ -267,7 +267,7 @@ PineTab-V是一款10.1英寸平板，配备**RISC-V处理器**，拥有8GB内存
 <small>🔗 [localscope.readthedocs.io](https://localscope.readthedocs.io/en/latest/): Show HN: Localscope–Limit scope of Python functions for reproducible execution</small>
 
 
-| 🔥: 52 \| 💬: [25](https://news.ycombinator.com/item?id=43390823) \| 🗓️ 2025-03-17
+| 🔥: 54 \| 💬: [25](https://news.ycombinator.com/item?id=43390823) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -275,7 +275,31 @@ PineTab-V是一款10.1英寸平板，配备**RISC-V处理器**，拥有8GB内存
 
 ---
 
-## <a name="22"></a>22. 编程岗位减少22%：AI是否在取代人类工作？ 
+## <a name="22"></a>22. 法国拟对超级富豪征税以加强军备，英国或效仿 
+<small>🔗 [telegraph.co.uk](https://www.telegraph.co.uk/money/tax/france-tax-super-wealthy-fund-defence-bill-britain-next/): France plots tax on super-rich to rearm – and Britain could be next</small>
+
+
+| 🔥: 54 \| 💬: [69](https://news.ycombinator.com/item?id=43393716) \| 🗓️ 2025-03-17
+
+
+<br />
+法国计划对资产超过1亿欧元的超级富豪征收**2%的财富税**，以资助其国防预算的增加。此举旨在应对欧洲国防开支的压力，尤其是美国军事主导地位的减弱。法国财政部长埃里克·隆巴德强调，**富人应贡献更多税收**。英国经济学家也在讨论是否效仿，尽管工党此前排除了财富税的可能性，但在国防需求激增的情况下，政策可能发生变化。
+
+---
+
+## <a name="23"></a>23. Pine64推出搭载Debian系统的RISC-V平板，硬件升级 
+<small>🔗 [liliputing.com](https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/): Pine64's RISC-V tablet now ships with a Debian-based Linux and improved hardware</small>
+
+
+| 🔥: 52 \| 💬: [20](https://news.ycombinator.com/item?id=43386856) \| 🗓️ 2025-03-17
+
+
+<br />
+PineTab-V是一款10.1英寸平板，配备**RISC-V处理器**，拥有8GB内存和128GB存储。最新版本增加了**加速度计**和LED状态指示灯，并修复了充电问题。预装系统为基于Debian的Linux，适合开发者探索**RISC-V架构**。售价225美元，支持WiFi 6和蓝牙5.2。
+
+---
+
+## <a name="24"></a>24. 编程岗位减少22%：AI是否在取代人类工作？ 
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/business/2025/03/14/programming-jobs-lost-artificial-intelligence/): 22% Drop in Programming Jobs</small>
 
 
@@ -287,7 +311,7 @@ PineTab-V是一款10.1英寸平板，配备**RISC-V处理器**，拥有8GB内存
 
 ---
 
-## <a name="23"></a>23. 特朗普精神错乱综合症 
+## <a name="25"></a>25. 特朗普精神错乱综合症 
 <small>🔗 [revisor.mn.gov](https://www.revisor.mn.gov/bills/text.php?number=SF2589&version=0&session=ls94&session_year=2025&session_number=0): Trump Derangement Syndrome</small>
 
 
@@ -296,29 +320,5 @@ PineTab-V是一款10.1英寸平板，配备**RISC-V处理器**，拥有8GB内存
 
 <br />
 明尼苏达州立法机构提出了一项法案，旨在修改心理健康定义，并新增**特朗普精神错乱综合症**（Trump Derangement Syndrome）作为精神疾病的一种。该综合症被定义为对前总统唐纳德·J·特朗普的政策和执政产生急性偏执反应，症状包括**特朗普引发的广泛歇斯底里**，表现为无法区分政策分歧与特朗普行为的心理病理迹象。法案还详细描述了该综合症的症状，如对特朗普的强烈敌意和对支持者的攻击行为。
-
----
-
-## <a name="24"></a>24. 软件工程中的迷思与批判性思维 
-<small>🔗 [markgreville.ie](https://markgreville.ie/2025/03/17/book-review-leprechauns-of-software-engineering/): Leprechauns of Software Engineering</small>
-
-
-| 🔥: 41 \| 💬: [3](https://news.ycombinator.com/item?id=43387997) \| 🗓️ 2025-03-17
-
-
-<br />
-《软件工程中的迷思与批判性思维》揭示了软件行业中常见的**错误科学**和**未经证实的“真理”**。作者通过案例研究，批判了诸如“10倍程序员”等流行观点，并提供了**批判性思维工具**，帮助读者辨别真伪。书中强调，软件行业缺乏科学方法，依赖未经验证的假设，导致大量资源浪费。作者呼吁从业者应像科学家一样思考，质疑并验证每一个“真理”。
-
----
-
-## <a name="25"></a>25. Mistral Small 3.1：轻量级多模态AI模型发布 
-<small>🔗 [mistral.ai](https://mistral.ai/news/mistral-small-3-1): Mistral Small 3.1</small>
-
-
-| 🔥: 37 \| 💬: [4](https://news.ycombinator.com/item?id=43390110) \| 🗓️ 2025-03-17
-
-
-<br />
-Mistral Small 3.1 是一款**轻量级多模态AI模型**，支持多语言和长上下文处理，性能超越同类模型如Gemma 3和GPT-4o Mini。该模型适用于**快速响应对话**、低延迟函数调用及专业领域微调，可在RTX 4090或32GB内存的Mac上运行。现已开放下载，并支持API试用。
 
 ---
