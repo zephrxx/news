@@ -8,11 +8,11 @@ tags:
 ---
 
 
-1. Cloudflare里斯本办公室的“混沌之墙”；
 1. 深度学习并不神秘或与众不同；
+1. Cloudflare里斯本办公室的“混沌之墙”；
 1. uv 下载量超越 Poetry，成为 Wagtail 用户新宠；
 1. 本科生推翻40年猜想，发明新型哈希表；
-1. Meta阻止前员工爆料书籍推广；
+1. 档案存储的误区与挑战；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -23,23 +23,11 @@ tags:
 ![](/assets/images/hacker_news.jpg)
 
 
-## <a name="1"></a>1. Cloudflare里斯本办公室的“混沌之墙” 
-<small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/chaos-in-cloudflare-lisbon-office-securing-the-internet-with-wave-motion/): Chaos in the Cloudflare Lisbon Office</small>
-
-
-| 🔥🔥: 245 \| 💬: [111](https://news.ycombinator.com/item?id=43389064) \| 🗓️ 2025-03-17
-
-
-<br />
-Cloudflare在里斯本办公室安装了一面由**50台波浪机**组成的“混沌之墙”，用于生成**随机性**，增强互联网的**加密安全**。这些波浪机与旧金山的熔岩灯、奥斯汀的悬浮彩虹和伦敦的双混沌摆一起，为LavaRand系统提供熵源。波浪机的设计灵感来自葡萄牙的海洋历史，经过15个月的开发与测试，最终于2025年3月投入使用。
-
----
-
-## <a name="2"></a>2. 深度学习并不神秘或与众不同 
+## <a name="1"></a>1. 深度学习并不神秘或与众不同 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2503.02113): Deep Learning Is Not So Mysterious or Different</small>
 
 
-| 🔥🔥: 237 \| 💬: [58](https://news.ycombinator.com/item?id=43390400) \| 🗓️ 2025-03-17
+| 🔥🔥: 263 \| 💬: [67](https://news.ycombinator.com/item?id=43390400) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -47,11 +35,23 @@ Cloudflare在里斯本办公室安装了一面由**50台波浪机**组成的“�
 
 ---
 
+## <a name="2"></a>2. Cloudflare里斯本办公室的“混沌之墙” 
+<small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/chaos-in-cloudflare-lisbon-office-securing-the-internet-with-wave-motion/): Chaos in the Cloudflare Lisbon Office</small>
+
+
+| 🔥🔥: 251 \| 💬: [114](https://news.ycombinator.com/item?id=43389064) \| 🗓️ 2025-03-17
+
+
+<br />
+Cloudflare在里斯本办公室安装了一面由**50台波浪机**组成的“混沌之墙”，用于生成**随机性**，增强互联网的**加密安全**。这些波浪机与旧金山的熔岩灯、奥斯汀的悬浮彩虹和伦敦的双混沌摆一起，为LavaRand系统提供熵源。波浪机的设计灵感来自葡萄牙的海洋历史，经过15个月的开发与测试，最终于2025年3月投入使用。
+
+---
+
 ## <a name="3"></a>3. uv 下载量超越 Poetry，成为 Wagtail 用户新宠 
 <small>🔗 [wagtail.org](https://wagtail.org/blog/uv-overtakes-poetry/): uv downloads overtake Poetry for Wagtail users</small>
 
 
-| 🔥🔥: 213 \| 💬: [189](https://news.ycombinator.com/item?id=43386357) \| 🗓️ 2025-03-17
+| 🔥🔥: 214 \| 💬: [190](https://news.ycombinator.com/item?id=43386357) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -63,7 +63,7 @@ Cloudflare在里斯本办公室安装了一面由**50台波浪机**组成的“�
 <small>🔗 [wired.com](https://www.wired.com/story/undergraduate-upends-a-40-year-old-data-science-conjecture/): Undergraduate Disproves 40-Year-Old Conjecture, Invents New Kind of Hash Table</small>
 
 
-| 🔥🔥: 205 \| 💬: [97](https://news.ycombinator.com/item?id=43388296) \| 🗓️ 2025-03-17
+| 🔥🔥: 209 \| 💬: [98](https://news.ycombinator.com/item?id=43388296) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -71,7 +71,19 @@ Cloudflare在里斯本办公室安装了一面由**50台波浪机**组成的“�
 
 ---
 
-## <a name="5"></a>5. Meta阻止前员工爆料书籍推广 
+## <a name="5"></a>5. 档案存储的误区与挑战 
+<small>🔗 [blog.dshr.org](https://blog.dshr.org/2025/03/archival-storage.html): Archival Storage</small>
+
+
+| 🔥🔥: 193 \| 💬: [99](https://news.ycombinator.com/item?id=43391459) \| 🗓️ 2025-03-17
+
+
+<br />
+本文探讨了**档案存储**与备份的区别，指出档案存储的核心是**经济性**而非技术性。作者强调，**长期存储**的关键在于系统成本而非介质寿命，并批评了“准永生介质”的误导性宣传。档案存储的真正挑战在于如何在数据中心规模下降低系统成本，而非依赖某种“神奇”的存储介质。
+
+---
+
+## <a name="6"></a>6. Meta阻止前员工爆料书籍推广 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/mar/13/meta-careless-people-book-former-employee): Meta puts stop on promotion of tell-all book by former employee</small>
 
 
@@ -83,23 +95,11 @@ Meta通过紧急仲裁裁决，暂时阻止了前员工Sarah Wynn-Williams的爆
 
 ---
 
-## <a name="6"></a>6. 档案存储的误区与挑战 
-<small>🔗 [blog.dshr.org](https://blog.dshr.org/2025/03/archival-storage.html): Archival Storage</small>
-
-
-| 🔥🔥: 156 \| 💬: [86](https://news.ycombinator.com/item?id=43391459) \| 🗓️ 2025-03-17
-
-
-<br />
-本文探讨了**档案存储**与备份的区别，指出档案存储的核心是**经济性**而非技术性。作者强调，**长期存储**的关键在于系统成本而非介质寿命，并批评了“准永生介质”的误导性宣传。档案存储的真正挑战在于如何在数据中心规模下降低系统成本，而非依赖某种“神奇”的存储介质。
-
----
-
 ## <a name="7"></a>7. 树莓派RP2350现已开售，堆叠内存版本即将推出 
 <small>🔗 [phoronix.com](https://www.phoronix.com/news/Raspberry-Pi-RP2350-Buy): Raspberry Pi RP2350 Now Available for Purchase, Stacked Memory Variant Coming</small>
 
 
-| 🔥🔥: 146 \| 💬: [62](https://news.ycombinator.com/item?id=43388221) \| 🗓️ 2025-03-17
+| 🔥🔥: 148 \| 💬: [62](https://news.ycombinator.com/item?id=43388221) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -107,15 +107,15 @@ Meta通过紧急仲裁裁决，暂时阻止了前员工Sarah Wynn-Williams的爆
 
 ---
 
-## <a name="8"></a>8. Akira勒索软件可通过16块RTX 4090显卡在10小时内破解 
-<small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/cyber-security/akira-ransomware-cracked-with-rtx-4090-new-exploit-to-brute-force-encryption-attack): Akira ransomware can be cracked with sixteen RTX 4090 GPUs in around ten hours</small>
+## <a name="8"></a>8. GIMP 3.0 正式发布 
+<small>🔗 [testing.gimp.org](https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/): GIMP 3.0 Released</small>
 
 
-| 🔥🔥: 126 \| 💬: [35](https://news.ycombinator.com/item?id=43387188) \| 🗓️ 2025-03-17
+| 🔥🔥: 141 \| 💬: [19](https://news.ycombinator.com/item?id=43393822) \| 🗓️ 2025-03-17
 
 
 <br />
-网络安全博主Tinyhack发现了一种新的**GPU暴力破解**方法，能够解密Akira勒索软件加密的文件。Akira勒索软件使用**chacha8和Kcipher2**加密算法，通过四个纳秒级时间戳生成密钥。利用RTX 4090显卡，单个文件解密需7天，而16块显卡可将时间缩短至10小时。尽管Akira可能很快修复此漏洞，但这一发现为受攻击者提供了新的解密希望。
+经过七年的开发，GIMP 3.0 终于发布了！这一版本带来了**非破坏性编辑**、更多文件格式支持、自动扩展图层、专业级文本处理等新功能。此外，**颜色管理**和图形工具包也得到了改进。GIMP 3.0 标志着这一开源图像编辑软件的新里程碑，未来还将有更多令人期待的功能。立即下载体验吧！
 
 ---
 
@@ -123,7 +123,7 @@ Meta通过紧急仲裁裁决，暂时阻止了前员工Sarah Wynn-Williams的爆
 <small>🔗 [theintercept.com](https://theintercept.com/2025/03/17/lapd-surveillance-gaza-palestine-protests-dataminr/): Dataminr tracked Gaza-related protests</small>
 
 
-| 🔥🔥: 117 \| 💬: [112](https://news.ycombinator.com/item?id=43390747) \| 🗓️ 2025-03-17
+| 🔥🔥: 139 \| 💬: [123](https://news.ycombinator.com/item?id=43390747) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -131,11 +131,23 @@ Meta通过紧急仲裁裁决，暂时阻止了前员工Sarah Wynn-Williams的爆
 
 ---
 
-## <a name="10"></a>10. Alphabet分拆Taara——激光互联网 
+## <a name="10"></a>10. Akira勒索软件可通过16块RTX 4090显卡在10小时内破解 
+<small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/cyber-security/akira-ransomware-cracked-with-rtx-4090-new-exploit-to-brute-force-encryption-attack): Akira ransomware can be cracked with sixteen RTX 4090 GPUs in around ten hours</small>
+
+
+| 🔥🔥: 127 \| 💬: [35](https://news.ycombinator.com/item?id=43387188) \| 🗓️ 2025-03-17
+
+
+<br />
+网络安全博主Tinyhack发现了一种新的**GPU暴力破解**方法，能够解密Akira勒索软件加密的文件。Akira勒索软件使用**chacha8和Kcipher2**加密算法，通过四个纳秒级时间戳生成密钥。利用RTX 4090显卡，单个文件解密需7天，而16块显卡可将时间缩短至10小时。尽管Akira可能很快修复此漏洞，但这一发现为受攻击者提供了新的解密希望。
+
+---
+
+## <a name="11"></a>11. Alphabet分拆Taara——激光互联网 
 <small>🔗 [x.company](https://x.company/blog/posts/taara-graduation/): Alphabet spins out Taara – Internet over lasers</small>
 
 
-| 🔥: 95 \| 💬: [108](https://news.ycombinator.com/item?id=43390467) \| 🗓️ 2025-03-17
+| 🔥🔥: 114 \| 💬: [136](https://news.ycombinator.com/item?id=43390467) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -143,7 +155,19 @@ Taara从X实验室独立出来，致力于通过**光束技术**提供高速、�
 
 ---
 
-## <a name="11"></a>11. Rippling起诉Deel涉嫌间谍活动 
+## <a name="12"></a>12. 华尔街的“私人房间”：比暗池更隐秘的交易场所 
+<small>🔗 [bloomberg.com](https://www.bloomberg.com/news/features/2025-03-16/wall-street-s-dark-pools-grow-murkier-with-private-rooms): Wall Street’s ‘Private Rooms’</small>
+
+
+| 🔥: 96 \| 💬: [85](https://news.ycombinator.com/item?id=43390595) \| 🗓️ 2025-03-17
+
+
+<br />
+华尔街的**暗池**交易平台正在推出一种更为隐秘的交易方式——**私人房间**。这些房间允许特定参与者进行交易，进一步隐藏大宗股票交易以避免影响市场价格。尽管这种模式提高了交易的**隐私性**和**效率**，但也引发了市场透明度和碎片化的担忧。随着越来越多的交易从公开交易所转移到暗池，私人房间的需求正在迅速增长，尤其是在机构投资者和对冲基金中。
+
+---
+
+## <a name="13"></a>13. Rippling起诉Deel涉嫌间谍活动 
 <small>🔗 [twitter.com](https://twitter.com/parkerconrad/status/1901615179718406276): Rippling Sues Deel over Spying</small>
 
 
@@ -155,19 +179,7 @@ Rippling对Deel提起诉讼，指控其从事**间谍活动**。诉讼细节尚�
 
 ---
 
-## <a name="12"></a>12. 华尔街的“私人房间”：比暗池更隐秘的交易场所 
-<small>🔗 [bloomberg.com](https://www.bloomberg.com/news/features/2025-03-16/wall-street-s-dark-pools-grow-murkier-with-private-rooms): Wall Street’s ‘Private Rooms’</small>
-
-
-| 🔥: 87 \| 💬: [79](https://news.ycombinator.com/item?id=43390595) \| 🗓️ 2025-03-17
-
-
-<br />
-华尔街的**暗池**交易平台正在推出一种更为隐秘的交易方式——**私人房间**。这些房间允许特定参与者进行交易，进一步隐藏大宗股票交易以避免影响市场价格。尽管这种模式提高了交易的**隐私性**和**效率**，但也引发了市场透明度和碎片化的担忧。随着越来越多的交易从公开交易所转移到暗池，私人房间的需求正在迅速增长，尤其是在机构投资者和对冲基金中。
-
----
-
-## <a name="13"></a>13. 《Facebook内幕曝光：高层的失德与贪婪》 
+## <a name="14"></a>14. 《Facebook内幕曝光：高层的失德与贪婪》 
 <small>🔗 [web.archive.org](https://web.archive.org/web/20250310221013/https://www.nytimes.com/2025/03/10/books/review/careless-people-sarah-wynn-williams.html): A Facebook Insider's Exposé Alleges Bad Behavior at the Top</small>
 
 
@@ -179,7 +191,31 @@ Rippling对Deel提起诉讼，指控其从事**间谍活动**。诉讼细节尚�
 
 ---
 
-## <a name="14"></a>14. 将C代码转换为Z/80 Speccy磁带的工作流程 
+## <a name="15"></a>15. 高跟鞋对游戏开发的影响 
+<small>🔗 [simonschreibt.de](https://simonschreibt.de/gat/the-high-heel-problem/): The High Heel Problem</small>
+
+
+| 🔥: 83 \| 💬: [6](https://news.ycombinator.com/item?id=43392549) \| 🗓️ 2025-03-17
+
+
+<br />
+本文探讨了**高跟鞋**在游戏开发中带来的挑战，包括角色身高、姿势、动画和碰撞体积的变化。游戏开发者可以通过**调整身高**、**手动修正动画**或使用**动态系统**（如IK）来解决这些问题。此外，还讨论了如何通过**缩短腿部**或**弯曲腿部**来绕过这些问题。不同鞋型还会影响角色的步态和脚步声，甚至可能影响游戏的平衡性。
+
+---
+
+## <a name="16"></a>16. C语言中的“愚蠢”智能指针 
+<small>🔗 [blog.kevinalbs.com](http://blog.kevinalbs.com/stupid_smart_pointers): Stupid Smart Pointers in C</small>
+
+
+| 🔥: 79 \| 💬: [109](https://news.ycombinator.com/item?id=43387334) \| 🗓️ 2025-03-17
+
+
+<br />
+在C语言中，内存管理复杂且容易出错。本文展示了一个简单的C语言智能指针实现，通过操纵**调用栈**和**内联汇编**，实现了类似C++中`std::unique_ptr`的功能。文章详细介绍了32位x86架构的栈布局，并通过修改返回地址，使函数返回时自动释放内存。虽然实现不完善，但为C语言提供了一种内存管理的新思路。
+
+---
+
+## <a name="17"></a>17. 将C代码转换为Z/80 Speccy磁带的工作流程 
 <small>🔗 [ghuntley.com](https://ghuntley.com/z80/): Converting C to ASM to specs and then to a working Z/80 Speccy tape</small>
 
 
@@ -191,23 +227,11 @@ Rippling对Deel提起诉讼，指控其从事**间谍活动**。诉讼细节尚�
 
 ---
 
-## <a name="15"></a>15. C语言中的“愚蠢”智能指针 
-<small>🔗 [blog.kevinalbs.com](http://blog.kevinalbs.com/stupid_smart_pointers): Stupid Smart Pointers in C</small>
-
-
-| 🔥: 70 \| 💬: [104](https://news.ycombinator.com/item?id=43387334) \| 🗓️ 2025-03-17
-
-
-<br />
-在C语言中，内存管理复杂且容易出错。本文展示了一个简单的C语言智能指针实现，通过操纵**调用栈**和**内联汇编**，实现了类似C++中`std::unique_ptr`的功能。文章详细介绍了32位x86架构的栈布局，并通过修改返回地址，使函数返回时自动释放内存。虽然实现不完善，但为C语言提供了一种内存管理的新思路。
-
----
-
-## <a name="16"></a>16. EnkiTask：轻量级项目管理工具，专为自由职业者设计 
+## <a name="18"></a>18. EnkiTask：轻量级项目管理工具，专为自由职业者设计 
 <small>🔗 [enkitask.com](https://enkitask.com/): Show HN: EnkiTask: Lightweight Project Management for Freelancers</small>
 
 
-| 🔥: 64 \| 💬: [43](https://news.ycombinator.com/item?id=43386745) \| 🗓️ 2025-03-17
+| 🔥: 65 \| 💬: [44](https://news.ycombinator.com/item?id=43386745) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -215,23 +239,11 @@ EnkiTask 是一款**经济实惠**的项目管理工具，专为自由职业者�
 
 ---
 
-## <a name="17"></a>17. 高跟鞋对游戏开发的影响 
-<small>🔗 [simonschreibt.de](https://simonschreibt.de/gat/the-high-heel-problem/): The High Heel Problem</small>
-
-
-| 🔥: 61 \| 💬: [5](https://news.ycombinator.com/item?id=43392549) \| 🗓️ 2025-03-17
-
-
-<br />
-本文探讨了**高跟鞋**在游戏开发中带来的挑战，包括角色身高、姿势、动画和碰撞体积的变化。游戏开发者可以通过**调整身高**、**手动修正动画**或使用**动态系统**（如IK）来解决这些问题。此外，还讨论了如何通过**缩短腿部**或**弯曲腿部**来绕过这些问题。不同鞋型还会影响角色的步态和脚步声，甚至可能影响游戏的平衡性。
-
----
-
-## <a name="18"></a>18. 特斯拉粉丝揭露Autopilot事故中的公司问题 
+## <a name="19"></a>19. 特斯拉粉丝揭露Autopilot事故中的公司问题 
 <small>🔗 [electrek.co](https://electrek.co/2025/03/17/tesla-fans-exposes-shadiness-defend-autopilot-crash/): Tesla fans exposes Tesla's own shadiness in attempt to defend Autopilot crash</small>
 
 
-| 🔥: 57 \| 💬: [17](https://news.ycombinator.com/item?id=43390544) \| 🗓️ 2025-03-17
+| 🔥: 58 \| 💬: [17](https://news.ycombinator.com/item?id=43390544) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -239,7 +251,7 @@ EnkiTask 是一款**经济实惠**的项目管理工具，专为自由职业者�
 
 ---
 
-## <a name="19"></a>19. Pine64推出搭载Debian系统的RISC-V平板，硬件升级 
+## <a name="20"></a>20. Pine64推出搭载Debian系统的RISC-V平板，硬件升级 
 <small>🔗 [liliputing.com](https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/): Pine64's RISC-V tablet now ships with a Debian-based Linux and improved hardware</small>
 
 
@@ -251,11 +263,11 @@ PineTab-V是一款10.1英寸平板，配备**RISC-V处理器**，拥有8GB内存
 
 ---
 
-## <a name="20"></a>20. 限制Python函数作用域以实现可重复执行 
+## <a name="21"></a>21. 限制Python函数作用域以实现可重复执行 
 <small>🔗 [localscope.readthedocs.io](https://localscope.readthedocs.io/en/latest/): Show HN: Localscope–Limit scope of Python functions for reproducible execution</small>
 
 
-| 🔥: 52 \| 💬: [23](https://news.ycombinator.com/item?id=43390823) \| 🗓️ 2025-03-17
+| 🔥: 52 \| 💬: [25](https://news.ycombinator.com/item?id=43390823) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -263,7 +275,7 @@ PineTab-V是一款10.1英寸平板，配备**RISC-V处理器**，拥有8GB内存
 
 ---
 
-## <a name="21"></a>21. 编程岗位减少22%：AI是否在取代人类工作？ 
+## <a name="22"></a>22. 编程岗位减少22%：AI是否在取代人类工作？ 
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/business/2025/03/14/programming-jobs-lost-artificial-intelligence/): 22% Drop in Programming Jobs</small>
 
 
@@ -275,7 +287,7 @@ PineTab-V是一款10.1英寸平板，配备**RISC-V处理器**，拥有8GB内存
 
 ---
 
-## <a name="22"></a>22. 特朗普精神错乱综合症 
+## <a name="23"></a>23. 特朗普精神错乱综合症 
 <small>🔗 [revisor.mn.gov](https://www.revisor.mn.gov/bills/text.php?number=SF2589&version=0&session=ls94&session_year=2025&session_number=0): Trump Derangement Syndrome</small>
 
 
@@ -287,7 +299,7 @@ PineTab-V是一款10.1英寸平板，配备**RISC-V处理器**，拥有8GB内存
 
 ---
 
-## <a name="23"></a>23. 软件工程中的迷思与批判性思维 
+## <a name="24"></a>24. 软件工程中的迷思与批判性思维 
 <small>🔗 [markgreville.ie](https://markgreville.ie/2025/03/17/book-review-leprechauns-of-software-engineering/): Leprechauns of Software Engineering</small>
 
 
@@ -299,26 +311,14 @@ PineTab-V是一款10.1英寸平板，配备**RISC-V处理器**，拥有8GB内存
 
 ---
 
-## <a name="24"></a>24. Mistral Small 3.1：轻量级多模态AI模型发布 
+## <a name="25"></a>25. Mistral Small 3.1：轻量级多模态AI模型发布 
 <small>🔗 [mistral.ai](https://mistral.ai/news/mistral-small-3-1): Mistral Small 3.1</small>
 
 
-| 🔥: 34 \| 💬: [4](https://news.ycombinator.com/item?id=43390110) \| 🗓️ 2025-03-17
+| 🔥: 37 \| 💬: [4](https://news.ycombinator.com/item?id=43390110) \| 🗓️ 2025-03-17
 
 
 <br />
 Mistral Small 3.1 是一款**轻量级多模态AI模型**，支持多语言和长上下文处理，性能超越同类模型如Gemma 3和GPT-4o Mini。该模型适用于**快速响应对话**、低延迟函数调用及专业领域微调，可在RTX 4090或32GB内存的Mac上运行。现已开放下载，并支持API试用。
-
----
-
-## <a name="25"></a>25. Rippling起诉Deel间谍活动，Slack蜜罐成功取证 
-<small>🔗 [rippling.com](https://www.rippling.com/blog/lawsuit-alleges-12-billion-unicorn-deel-cultivated-spy-orchestrated-long-running-trade-secret-theft-corporate-espionage-against-competitor): Rippling suing Deel for espionage after Slack honeypot worked</small>
-
-
-| 🔥: 32 \| 💬: [3](https://news.ycombinator.com/item?id=43388769) \| 🗓️ 2025-03-17
-
-
-<br />
-Rippling起诉12亿美元估值的独角兽公司Deel，指控其通过**内部间谍**长期窃取商业机密。Rippling通过设置**Slack蜜罐**，成功证明Deel高管参与其中。间谍在四个月内进行了6000多次非法搜索，窃取销售管道和客户信息，帮助Deel**非法竞争**。Rippling要求赔偿并追究法律责任。
 
 ---
