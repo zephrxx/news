@@ -27,7 +27,7 @@ tags:
 <small>🔗 [testing.gimp.org](https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/): GIMP 3.0</small>
 
 
-| 🔥🔥: 692 \| 💬: [225](https://news.ycombinator.com/item?id=43393822) \| 🗓️ 2025-03-17
+| 🔥🔥: 794 \| 💬: [273](https://news.ycombinator.com/item?id=43393822) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2503.02113): Deep Learning Is Not So Mysterious or Different</small>
 
 
-| 🔥🔥: 329 \| 💬: [80](https://news.ycombinator.com/item?id=43390400) \| 🗓️ 2025-03-17
+| 🔥🔥: 348 \| 💬: [81](https://news.ycombinator.com/item?id=43390400) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/chaos-in-cloudflare-lisbon-office-securing-the-internet-with-wave-motion/): Chaos in the Cloudflare Lisbon Office</small>
 
 
-| 🔥🔥: 262 \| 💬: [116](https://news.ycombinator.com/item?id=43389064) \| 🗓️ 2025-03-17
+| 🔥🔥: 263 \| 💬: [119](https://news.ycombinator.com/item?id=43389064) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -63,7 +63,7 @@ Cloudflare在里斯本办公室安装了一面由**50台波浪机**组成的“�
 <small>🔗 [blog.dshr.org](https://blog.dshr.org/2025/03/archival-storage.html): Archival Storage</small>
 
 
-| 🔥🔥: 248 \| 💬: [128](https://news.ycombinator.com/item?id=43391459) \| 🗓️ 2025-03-17
+| 🔥🔥: 254 \| 💬: [130](https://news.ycombinator.com/item?id=43391459) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -75,7 +75,7 @@ Cloudflare在里斯本办公室安装了一面由**50台波浪机**组成的“�
 <small>🔗 [wired.com](https://www.wired.com/story/undergraduate-upends-a-40-year-old-data-science-conjecture/): Undergraduate Disproves 40-Year-Old Conjecture, Invents New Kind of Hash Table</small>
 
 
-| 🔥🔥: 222 \| 💬: [102](https://news.ycombinator.com/item?id=43388296) \| 🗓️ 2025-03-17
+| 🔥🔥: 223 \| 💬: [104](https://news.ycombinator.com/item?id=43388296) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -87,7 +87,7 @@ Cloudflare在里斯本办公室安装了一面由**50台波浪机**组成的“�
 <small>🔗 [wagtail.org](https://wagtail.org/blog/uv-overtakes-poetry/): uv downloads overtake Poetry for Wagtail users</small>
 
 
-| 🔥🔥: 218 \| 💬: [190](https://news.ycombinator.com/item?id=43386357) \| 🗓️ 2025-03-17
+| 🔥🔥: 218 \| 💬: [191](https://news.ycombinator.com/item?id=43386357) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -99,7 +99,7 @@ Cloudflare在里斯本办公室安装了一面由**50台波浪机**组成的“�
 <small>🔗 [theintercept.com](https://theintercept.com/2025/03/17/lapd-surveillance-gaza-palestine-protests-dataminr/): Dataminr tracked Gaza-related protests</small>
 
 
-| 🔥🔥: 184 \| 💬: [148](https://news.ycombinator.com/item?id=43390747) \| 🗓️ 2025-03-17
+| 🔥🔥: 192 \| 💬: [156](https://news.ycombinator.com/item?id=43390747) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -107,7 +107,19 @@ Cloudflare在里斯本办公室安装了一面由**50台波浪机**组成的“�
 
 ---
 
-## <a name="8"></a>8. Meta阻止前员工爆料书籍推广 
+## <a name="8"></a>8. Alphabet分拆Taara——激光互联网 
+<small>🔗 [x.company](https://x.company/blog/posts/taara-graduation/): Alphabet spins out Taara – Internet over lasers</small>
+
+
+| 🔥🔥: 184 \| 💬: [192](https://news.ycombinator.com/item?id=43390467) \| 🗓️ 2025-03-17
+
+
+<br />
+Taara从X实验室独立出来，致力于通过**光束技术**提供高速、经济且广泛的互联网连接。其**Lightbridge**系统利用光波在空中传输数据，速度高达20Gbps，覆盖距离达20公里，适用于难以铺设光纤的地区。Taara已在多个国家部署，并与多家电信公司合作，推动无线光通信的发展。
+
+---
+
+## <a name="9"></a>9. Meta阻止前员工爆料书籍推广 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/mar/13/meta-careless-people-book-former-employee): Meta puts stop on promotion of tell-all book by former employee</small>
 
 
@@ -119,19 +131,19 @@ Meta通过紧急仲裁裁决，暂时阻止了前员工Sarah Wynn-Williams的爆
 
 ---
 
-## <a name="9"></a>9. Alphabet分拆Taara——激光互联网 
-<small>🔗 [x.company](https://x.company/blog/posts/taara-graduation/): Alphabet spins out Taara – Internet over lasers</small>
+## <a name="10"></a>10. 高跟鞋对游戏开发的影响 
+<small>🔗 [simonschreibt.de](https://simonschreibt.de/gat/the-high-heel-problem/): The High Heel Problem</small>
 
 
-| 🔥🔥: 172 \| 💬: [188](https://news.ycombinator.com/item?id=43390467) \| 🗓️ 2025-03-17
+| 🔥🔥: 154 \| 💬: [17](https://news.ycombinator.com/item?id=43392549) \| 🗓️ 2025-03-17
 
 
 <br />
-Taara从X实验室独立出来，致力于通过**光束技术**提供高速、经济且广泛的互联网连接。其**Lightbridge**系统利用光波在空中传输数据，速度高达20Gbps，覆盖距离达20公里，适用于难以铺设光纤的地区。Taara已在多个国家部署，并与多家电信公司合作，推动无线光通信的发展。
+本文探讨了**高跟鞋**在游戏开发中带来的挑战，包括角色身高、姿势、动画和碰撞体积的变化。游戏开发者可以通过**调整身高**、**手动修正动画**或使用**动态系统**（如IK）来解决这些问题。此外，还讨论了如何通过**缩短腿部**或**弯曲腿部**来绕过这些问题。不同鞋型还会影响角色的步态和脚步声，甚至可能影响游戏的平衡性。
 
 ---
 
-## <a name="10"></a>10. 树莓派RP2350现已开售，堆叠内存版本即将推出 
+## <a name="11"></a>11. 树莓派RP2350现已开售，堆叠内存版本即将推出 
 <small>🔗 [phoronix.com](https://www.phoronix.com/news/Raspberry-Pi-RP2350-Buy): Raspberry Pi RP2350 Now Available for Purchase, Stacked Memory Variant Coming</small>
 
 
@@ -143,23 +155,11 @@ Taara从X实验室独立出来，致力于通过**光束技术**提供高速、�
 
 ---
 
-## <a name="11"></a>11. 高跟鞋对游戏开发的影响 
-<small>🔗 [simonschreibt.de](https://simonschreibt.de/gat/the-high-heel-problem/): The High Heel Problem</small>
-
-
-| 🔥🔥: 145 \| 💬: [16](https://news.ycombinator.com/item?id=43392549) \| 🗓️ 2025-03-17
-
-
-<br />
-本文探讨了**高跟鞋**在游戏开发中带来的挑战，包括角色身高、姿势、动画和碰撞体积的变化。游戏开发者可以通过**调整身高**、**手动修正动画**或使用**动态系统**（如IK）来解决这些问题。此外，还讨论了如何通过**缩短腿部**或**弯曲腿部**来绕过这些问题。不同鞋型还会影响角色的步态和脚步声，甚至可能影响游戏的平衡性。
-
----
-
 ## <a name="12"></a>12. Akira勒索软件可通过16块RTX 4090显卡在10小时内破解 
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/cyber-security/akira-ransomware-cracked-with-rtx-4090-new-exploit-to-brute-force-encryption-attack): Akira ransomware can be cracked with sixteen RTX 4090 GPUs in around ten hours</small>
 
 
-| 🔥🔥: 139 \| 💬: [37](https://news.ycombinator.com/item?id=43387188) \| 🗓️ 2025-03-17
+| 🔥🔥: 140 \| 💬: [37](https://news.ycombinator.com/item?id=43387188) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -171,7 +171,7 @@ Taara从X实验室独立出来，致力于通过**光束技术**提供高速、�
 <small>🔗 [bloomberg.com](https://www.bloomberg.com/news/features/2025-03-16/wall-street-s-dark-pools-grow-murkier-with-private-rooms): Wall Street’s ‘Private Rooms’</small>
 
 
-| 🔥🔥: 130 \| 💬: [107](https://news.ycombinator.com/item?id=43390595) \| 🗓️ 2025-03-17
+| 🔥🔥: 137 \| 💬: [115](https://news.ycombinator.com/item?id=43390595) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -183,7 +183,7 @@ Taara从X实验室独立出来，致力于通过**光束技术**提供高速、�
 <small>🔗 [blog.kevinalbs.com](http://blog.kevinalbs.com/stupid_smart_pointers): Stupid Smart Pointers in C</small>
 
 
-| 🔥: 99 \| 💬: [128](https://news.ycombinator.com/item?id=43387334) \| 🗓️ 2025-03-17
+| 🔥🔥: 101 \| 💬: [132](https://news.ycombinator.com/item?id=43387334) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -195,7 +195,7 @@ Taara从X实验室独立出来，致力于通过**光束技术**提供高速、�
 <small>🔗 [datagubbe.se](https://www.datagubbe.se/futui/): Past and Present Futures of User Interface Design</small>
 
 
-| 🔥: 88 \| 💬: [29](https://news.ycombinator.com/item?id=43393924) \| 🗓️ 2025-03-17
+| 🔥: 95 \| 💬: [32](https://news.ycombinator.com/item?id=43393924) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -231,7 +231,7 @@ Rippling对Deel提起诉讼，指控其从事**间谍活动**。诉讼细节尚�
 <small>🔗 [abcnews.go.com](https://abcnews.go.com/Business/harvard-tuition-families-making-200k/story?id=119874241): Harvard says tuition will be free for families making $200K or less</small>
 
 
-| 🔥: 76 \| 💬: [88](https://news.ycombinator.com/item?id=43393478) \| 🗓️ 2025-03-17
+| 🔥: 78 \| 💬: [91](https://news.ycombinator.com/item?id=43393478) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -251,7 +251,19 @@ Rippling对Deel提起诉讼，指控其从事**间谍活动**。诉讼细节尚�
 
 ---
 
-## <a name="20"></a>20. EnkiTask：轻量级项目管理工具，专为自由职业者设计 
+## <a name="20"></a>20. 菱形编程语言：简洁易用的通用编程语言 
+<small>🔗 [rhombus-lang.org](https://rhombus-lang.org): Rhombus Language</small>
+
+
+| 🔥: 74 \| 💬: [16](https://news.ycombinator.com/item?id=43394881) \| 🗓️ 2025-03-17
+
+
+<br />
+**菱形语言**是一种通用编程语言，以其**简洁的语法**和**高度可定制性**著称。它支持**模式匹配**、**高效的数据结构**和**宏功能**，适用于日常任务和复杂逻辑。基于Racket构建，菱形语言能够即时编译为机器码，并拥有成熟的工具链和丰富的库支持。目前，菱形语言已准备好供早期采用者使用，文档齐全且稳定。
+
+---
+
+## <a name="21"></a>21. EnkiTask：轻量级项目管理工具，专为自由职业者设计 
 <small>🔗 [enkitask.com](https://enkitask.com/): Show HN: EnkiTask: Lightweight Project Management for Freelancers</small>
 
 
@@ -263,11 +275,11 @@ EnkiTask 是一款**经济实惠**的项目管理工具，专为自由职业者�
 
 ---
 
-## <a name="21"></a>21. 法国拟对超级富豪征税以加强军备，英国或效仿 
+## <a name="22"></a>22. 法国拟对超级富豪征税以加强军备，英国或效仿 
 <small>🔗 [telegraph.co.uk](https://www.telegraph.co.uk/money/tax/france-tax-super-wealthy-fund-defence-bill-britain-next/): France plots tax on super-rich to rearm – and Britain could be next</small>
 
 
-| 🔥: 62 \| 💬: [94](https://news.ycombinator.com/item?id=43393716) \| 🗓️ 2025-03-17
+| 🔥: 64 \| 💬: [98](https://news.ycombinator.com/item?id=43393716) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -275,7 +287,7 @@ EnkiTask 是一款**经济实惠**的项目管理工具，专为自由职业者�
 
 ---
 
-## <a name="22"></a>22. 特斯拉粉丝揭露Autopilot事故中的公司问题 
+## <a name="23"></a>23. 特斯拉粉丝揭露Autopilot事故中的公司问题 
 <small>🔗 [electrek.co](https://electrek.co/2025/03/17/tesla-fans-exposes-shadiness-defend-autopilot-crash/): Tesla fans exposes Tesla's own shadiness in attempt to defend Autopilot crash</small>
 
 
@@ -287,7 +299,7 @@ EnkiTask 是一款**经济实惠**的项目管理工具，专为自由职业者�
 
 ---
 
-## <a name="23"></a>23. 限制Python函数作用域以实现可重复执行 
+## <a name="24"></a>24. 限制Python函数作用域以实现可重复执行 
 <small>🔗 [localscope.readthedocs.io](https://localscope.readthedocs.io/en/latest/): Show HN: Localscope–Limit scope of Python functions for reproducible execution</small>
 
 
@@ -299,7 +311,7 @@ EnkiTask 是一款**经济实惠**的项目管理工具，专为自由职业者�
 
 ---
 
-## <a name="24"></a>24. Pine64推出搭载Debian系统的RISC-V平板，硬件升级 
+## <a name="25"></a>25. Pine64推出搭载Debian系统的RISC-V平板，硬件升级 
 <small>🔗 [liliputing.com](https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/): Pine64's RISC-V tablet now ships with a Debian-based Linux and improved hardware</small>
 
 
@@ -308,17 +320,5 @@ EnkiTask 是一款**经济实惠**的项目管理工具，专为自由职业者�
 
 <br />
 PineTab-V是一款10.1英寸平板，配备**RISC-V处理器**，拥有8GB内存和128GB存储。最新版本增加了**加速度计**和LED状态指示灯，并修复了充电问题。预装系统为基于Debian的Linux，适合开发者探索**RISC-V架构**。售价225美元，支持WiFi 6和蓝牙5.2。
-
----
-
-## <a name="25"></a>25. 编程岗位减少22%：AI是否在取代人类工作？ 
-<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/business/2025/03/14/programming-jobs-lost-artificial-intelligence/): 22% Drop in Programming Jobs</small>
-
-
-| 🔥: 51 \| 💬: [58](https://news.ycombinator.com/item?id=43387718) \| 🗓️ 2025-03-17
-
-
-<br />
-过去两年，**编程岗位**减少了超过四分之一，这是该行业有史以来最严重的下滑。数据显示，**人工智能**（如ChatGPT）的崛起可能是原因之一，尤其是**程序员**的工作更容易被自动化工具替代。相比之下，**软件开发人员**的岗位受影响较小，因为他们的工作涉及更多设计和决策任务。尽管AI目前更多用于辅助而非完全替代，但编程岗位的减少仍引发了关于未来职业前景的担忧。
 
 ---
