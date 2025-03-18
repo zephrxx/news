@@ -11,8 +11,8 @@ tags:
 1. GIMP 3.0 正式发布；
 1. 深度学习并不神秘或与众不同；
 1. Cloudflare里斯本办公室的“混沌之墙”；
-1. 本科生推翻40年猜想，发明新型哈希表；
 1. 档案存储的误区与挑战；
+1. 本科生推翻40年猜想，发明新型哈希表；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [testing.gimp.org](https://testing.gimp.org/news/2025/03/16/gimp-3-0-released/): GIMP 3.0</small>
 
 
-| 🔥🔥: 422 \| 💬: [128](https://news.ycombinator.com/item?id=43393822) \| 🗓️ 2025-03-17
+| 🔥🔥: 530 \| 💬: [158](https://news.ycombinator.com/item?id=43393822) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2503.02113): Deep Learning Is Not So Mysterious or Different</small>
 
 
-| 🔥🔥: 296 \| 💬: [76](https://news.ycombinator.com/item?id=43390400) \| 🗓️ 2025-03-17
+| 🔥🔥: 304 \| 💬: [78](https://news.ycombinator.com/item?id=43390400) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/chaos-in-cloudflare-lisbon-office-securing-the-internet-with-wave-motion/): Chaos in the Cloudflare Lisbon Office</small>
 
 
-| 🔥🔥: 257 \| 💬: [114](https://news.ycombinator.com/item?id=43389064) \| 🗓️ 2025-03-17
+| 🔥🔥: 260 \| 💬: [114](https://news.ycombinator.com/item?id=43389064) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -59,23 +59,11 @@ Cloudflare在里斯本办公室安装了一面由**50台波浪机**组成的“�
 
 ---
 
-## <a name="4"></a>4. 本科生推翻40年猜想，发明新型哈希表 
-<small>🔗 [wired.com](https://www.wired.com/story/undergraduate-upends-a-40-year-old-data-science-conjecture/): Undergraduate Disproves 40-Year-Old Conjecture, Invents New Kind of Hash Table</small>
-
-
-| 🔥🔥: 220 \| 💬: [98](https://news.ycombinator.com/item?id=43388296) \| 🗓️ 2025-03-17
-
-
-<br />
-2021年，罗格斯大学本科生安德鲁·克拉皮文（Andrew Krapivin）偶然阅读了一篇关于**“微型指针”**的论文，并由此发明了一种新型**哈希表**。这种哈希表在查找和插入数据时比传统方法更快，甚至推翻了计算机科学家安德鲁·姚（Andrew Yao）在1985年提出的猜想。克拉皮文与导师合作证明，新哈希表的最坏情况查询时间与**(log x)²**成正比，远优于姚的猜想。此外，他们还发现非贪婪哈希表的平均查询时间可以不受表满度影响，达到常数级别。这一突破性成果为哈希表的研究开辟了新方向。
-
----
-
-## <a name="5"></a>5. 档案存储的误区与挑战 
+## <a name="4"></a>4. 档案存储的误区与挑战 
 <small>🔗 [blog.dshr.org](https://blog.dshr.org/2025/03/archival-storage.html): Archival Storage</small>
 
 
-| 🔥🔥: 217 \| 💬: [117](https://news.ycombinator.com/item?id=43391459) \| 🗓️ 2025-03-17
+| 🔥🔥: 229 \| 💬: [121](https://news.ycombinator.com/item?id=43391459) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -83,11 +71,23 @@ Cloudflare在里斯本办公室安装了一面由**50台波浪机**组成的“�
 
 ---
 
+## <a name="5"></a>5. 本科生推翻40年猜想，发明新型哈希表 
+<small>🔗 [wired.com](https://www.wired.com/story/undergraduate-upends-a-40-year-old-data-science-conjecture/): Undergraduate Disproves 40-Year-Old Conjecture, Invents New Kind of Hash Table</small>
+
+
+| 🔥🔥: 220 \| 💬: [99](https://news.ycombinator.com/item?id=43388296) \| 🗓️ 2025-03-17
+
+
+<br />
+2021年，罗格斯大学本科生安德鲁·克拉皮文（Andrew Krapivin）偶然阅读了一篇关于**“微型指针”**的论文，并由此发明了一种新型**哈希表**。这种哈希表在查找和插入数据时比传统方法更快，甚至推翻了计算机科学家安德鲁·姚（Andrew Yao）在1985年提出的猜想。克拉皮文与导师合作证明，新哈希表的最坏情况查询时间与**(log x)²**成正比，远优于姚的猜想。此外，他们还发现非贪婪哈希表的平均查询时间可以不受表满度影响，达到常数级别。这一突破性成果为哈希表的研究开辟了新方向。
+
+---
+
 ## <a name="6"></a>6. uv 下载量超越 Poetry，成为 Wagtail 用户新宠 
 <small>🔗 [wagtail.org](https://wagtail.org/blog/uv-overtakes-poetry/): uv downloads overtake Poetry for Wagtail users</small>
 
 
-| 🔥🔥: 215 \| 💬: [190](https://news.ycombinator.com/item?id=43386357) \| 🗓️ 2025-03-17
+| 🔥🔥: 218 \| 💬: [190](https://news.ycombinator.com/item?id=43386357) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -99,7 +99,7 @@ Cloudflare在里斯本办公室安装了一面由**50台波浪机**组成的“�
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/mar/13/meta-careless-people-book-former-employee): Meta puts stop on promotion of tell-all book by former employee</small>
 
 
-| 🔥🔥: 179 \| 💬: [83](https://news.ycombinator.com/item?id=43387325) \| 🗓️ 2025-03-17
+| 🔥🔥: 180 \| 💬: [83](https://news.ycombinator.com/item?id=43387325) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -111,7 +111,7 @@ Meta通过紧急仲裁裁决，暂时阻止了前员工Sarah Wynn-Williams的爆
 <small>🔗 [theintercept.com](https://theintercept.com/2025/03/17/lapd-surveillance-gaza-palestine-protests-dataminr/): Dataminr tracked Gaza-related protests</small>
 
 
-| 🔥🔥: 159 \| 💬: [137](https://news.ycombinator.com/item?id=43390747) \| 🗓️ 2025-03-17
+| 🔥🔥: 169 \| 💬: [144](https://news.ycombinator.com/item?id=43390747) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -119,23 +119,11 @@ Meta通过紧急仲裁裁决，暂时阻止了前员工Sarah Wynn-Williams的爆
 
 ---
 
-## <a name="9"></a>9. 树莓派RP2350现已开售，堆叠内存版本即将推出 
-<small>🔗 [phoronix.com](https://www.phoronix.com/news/Raspberry-Pi-RP2350-Buy): Raspberry Pi RP2350 Now Available for Purchase, Stacked Memory Variant Coming</small>
-
-
-| 🔥🔥: 148 \| 💬: [62](https://news.ycombinator.com/item?id=43388221) \| 🗓️ 2025-03-17
-
-
-<br />
-树莓派宣布**RP2350**微控制器现已开放购买，该芯片搭载双核**Arm Cortex-M33**处理器，主频150MHz，支持浮点运算和DSP。RP2350A单价1.10美元，RP2350B单价1.20美元，批量购买价格更低。此外，树莓派正在开发**RP2354A/B**版本，配备2MB堆叠闪存，预计今年量产。更多信息可访问RaspberryPi.com。
-
----
-
-## <a name="10"></a>10. Alphabet分拆Taara——激光互联网 
+## <a name="9"></a>9. Alphabet分拆Taara——激光互联网 
 <small>🔗 [x.company](https://x.company/blog/posts/taara-graduation/): Alphabet spins out Taara – Internet over lasers</small>
 
 
-| 🔥🔥: 145 \| 💬: [156](https://news.ycombinator.com/item?id=43390467) \| 🗓️ 2025-03-17
+| 🔥🔥: 155 \| 💬: [166](https://news.ycombinator.com/item?id=43390467) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -143,11 +131,23 @@ Taara从X实验室独立出来，致力于通过**光束技术**提供高速、�
 
 ---
 
+## <a name="10"></a>10. 树莓派RP2350现已开售，堆叠内存版本即将推出 
+<small>🔗 [phoronix.com](https://www.phoronix.com/news/Raspberry-Pi-RP2350-Buy): Raspberry Pi RP2350 Now Available for Purchase, Stacked Memory Variant Coming</small>
+
+
+| 🔥🔥: 149 \| 💬: [62](https://news.ycombinator.com/item?id=43388221) \| 🗓️ 2025-03-17
+
+
+<br />
+树莓派宣布**RP2350**微控制器现已开放购买，该芯片搭载双核**Arm Cortex-M33**处理器，主频150MHz，支持浮点运算和DSP。RP2350A单价1.10美元，RP2350B单价1.20美元，批量购买价格更低。此外，树莓派正在开发**RP2354A/B**版本，配备2MB堆叠闪存，预计今年量产。更多信息可访问RaspberryPi.com。
+
+---
+
 ## <a name="11"></a>11. Akira勒索软件可通过16块RTX 4090显卡在10小时内破解 
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/tech-industry/cyber-security/akira-ransomware-cracked-with-rtx-4090-new-exploit-to-brute-force-encryption-attack): Akira ransomware can be cracked with sixteen RTX 4090 GPUs in around ten hours</small>
 
 
-| 🔥🔥: 132 \| 💬: [36](https://news.ycombinator.com/item?id=43387188) \| 🗓️ 2025-03-17
+| 🔥🔥: 136 \| 💬: [37](https://news.ycombinator.com/item?id=43387188) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -159,7 +159,7 @@ Taara从X实验室独立出来，致力于通过**光束技术**提供高速、�
 <small>🔗 [simonschreibt.de](https://simonschreibt.de/gat/the-high-heel-problem/): The High Heel Problem</small>
 
 
-| 🔥🔥: 110 \| 💬: [10](https://news.ycombinator.com/item?id=43392549) \| 🗓️ 2025-03-17
+| 🔥🔥: 119 \| 💬: [13](https://news.ycombinator.com/item?id=43392549) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -171,7 +171,7 @@ Taara从X实验室独立出来，致力于通过**光束技术**提供高速、�
 <small>🔗 [bloomberg.com](https://www.bloomberg.com/news/features/2025-03-16/wall-street-s-dark-pools-grow-murkier-with-private-rooms): Wall Street’s ‘Private Rooms’</small>
 
 
-| 🔥🔥: 108 \| 💬: [92](https://news.ycombinator.com/item?id=43390595) \| 🗓️ 2025-03-17
+| 🔥🔥: 116 \| 💬: [99](https://news.ycombinator.com/item?id=43390595) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -183,7 +183,7 @@ Taara从X实验室独立出来，致力于通过**光束技术**提供高速、�
 <small>🔗 [blog.kevinalbs.com](http://blog.kevinalbs.com/stupid_smart_pointers): Stupid Smart Pointers in C</small>
 
 
-| 🔥: 88 \| 💬: [113](https://news.ycombinator.com/item?id=43387334) \| 🗓️ 2025-03-17
+| 🔥: 91 \| 💬: [120](https://news.ycombinator.com/item?id=43387334) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -219,7 +219,7 @@ Rippling对Deel提起诉讼，指控其从事**间谍活动**。诉讼细节尚�
 <small>🔗 [ghuntley.com](https://ghuntley.com/z80/): Converting C to ASM to specs and then to a working Z/80 Speccy tape</small>
 
 
-| 🔥: 74 \| 💬: [66](https://news.ycombinator.com/item?id=43387259) \| 🗓️ 2025-03-17
+| 🔥: 74 \| 💬: [67](https://news.ycombinator.com/item?id=43387259) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -231,7 +231,7 @@ Rippling对Deel提起诉讼，指控其从事**间谍活动**。诉讼细节尚�
 <small>🔗 [abcnews.go.com](https://abcnews.go.com/Business/harvard-tuition-families-making-200k/story?id=119874241): Harvard says tuition will be free for families making $200K or less</small>
 
 
-| 🔥: 69 \| 💬: [73](https://news.ycombinator.com/item?id=43393478) \| 🗓️ 2025-03-17
+| 🔥: 74 \| 💬: [81](https://news.ycombinator.com/item?id=43393478) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -239,7 +239,19 @@ Rippling对Deel提起诉讼，指控其从事**间谍活动**。诉讼细节尚�
 
 ---
 
-## <a name="19"></a>19. EnkiTask：轻量级项目管理工具，专为自由职业者设计 
+## <a name="19"></a>19. 用户界面设计的过去与未来 
+<small>🔗 [datagubbe.se](https://www.datagubbe.se/futui/): Past and Present Futures of User Interface Design</small>
+
+
+| 🔥: 66 \| 💬: [17](https://news.ycombinator.com/item?id=43393924) \| 🗓️ 2025-03-17
+
+
+<br />
+从1968年道格拉斯·恩格尔巴特的“**The Mother of All Demos**”到现代**触摸屏**和**语音控制**，用户界面设计经历了巨大变革。尽管技术不断进步，**桌面界面**的核心元素——指针、图标、窗口和菜单——依然占据主导地位。未来，设计师需要在**一致性**和**创新**之间找到平衡，而不是盲目追求“革命性”改变。
+
+---
+
+## <a name="20"></a>20. EnkiTask：轻量级项目管理工具，专为自由职业者设计 
 <small>🔗 [enkitask.com](https://enkitask.com/): Show HN: EnkiTask: Lightweight Project Management for Freelancers</small>
 
 
@@ -251,7 +263,19 @@ EnkiTask 是一款**经济实惠**的项目管理工具，专为自由职业者�
 
 ---
 
-## <a name="20"></a>20. 特斯拉粉丝揭露Autopilot事故中的公司问题 
+## <a name="21"></a>21. 法国拟对超级富豪征税以加强军备，英国或效仿 
+<small>🔗 [telegraph.co.uk](https://www.telegraph.co.uk/money/tax/france-tax-super-wealthy-fund-defence-bill-britain-next/): France plots tax on super-rich to rearm – and Britain could be next</small>
+
+
+| 🔥: 60 \| 💬: [84](https://news.ycombinator.com/item?id=43393716) \| 🗓️ 2025-03-17
+
+
+<br />
+法国计划对资产超过1亿欧元的超级富豪征收**2%的财富税**，以资助其国防预算的增加。此举旨在应对欧洲国防开支的压力，尤其是美国军事主导地位的减弱。法国财政部长埃里克·隆巴德强调，**富人应贡献更多税收**。英国经济学家也在讨论是否效仿，尽管工党此前排除了财富税的可能性，但在国防需求激增的情况下，政策可能发生变化。
+
+---
+
+## <a name="22"></a>22. 特斯拉粉丝揭露Autopilot事故中的公司问题 
 <small>🔗 [electrek.co](https://electrek.co/2025/03/17/tesla-fans-exposes-shadiness-defend-autopilot-crash/): Tesla fans exposes Tesla's own shadiness in attempt to defend Autopilot crash</small>
 
 
@@ -263,23 +287,11 @@ EnkiTask 是一款**经济实惠**的项目管理工具，专为自由职业者�
 
 ---
 
-## <a name="21"></a>21. 法国拟对超级富豪征税以加强军备，英国或效仿 
-<small>🔗 [telegraph.co.uk](https://www.telegraph.co.uk/money/tax/france-tax-super-wealthy-fund-defence-bill-britain-next/): France plots tax on super-rich to rearm – and Britain could be next</small>
-
-
-| 🔥: 58 \| 💬: [76](https://news.ycombinator.com/item?id=43393716) \| 🗓️ 2025-03-17
-
-
-<br />
-法国计划对资产超过1亿欧元的超级富豪征收**2%的财富税**，以资助其国防预算的增加。此举旨在应对欧洲国防开支的压力，尤其是美国军事主导地位的减弱。法国财政部长埃里克·隆巴德强调，**富人应贡献更多税收**。英国经济学家也在讨论是否效仿，尽管工党此前排除了财富税的可能性，但在国防需求激增的情况下，政策可能发生变化。
-
----
-
-## <a name="22"></a>22. 限制Python函数作用域以实现可重复执行 
+## <a name="23"></a>23. 限制Python函数作用域以实现可重复执行 
 <small>🔗 [localscope.readthedocs.io](https://localscope.readthedocs.io/en/latest/): Show HN: Localscope–Limit scope of Python functions for reproducible execution</small>
 
 
-| 🔥: 56 \| 💬: [25](https://news.ycombinator.com/item?id=43390823) \| 🗓️ 2025-03-17
+| 🔥: 57 \| 💬: [26](https://news.ycombinator.com/item?id=43390823) \| 🗓️ 2025-03-17
 
 
 <br />
@@ -287,7 +299,7 @@ EnkiTask 是一款**经济实惠**的项目管理工具，专为自由职业者�
 
 ---
 
-## <a name="23"></a>23. Pine64推出搭载Debian系统的RISC-V平板，硬件升级 
+## <a name="24"></a>24. Pine64推出搭载Debian系统的RISC-V平板，硬件升级 
 <small>🔗 [liliputing.com](https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/): Pine64's RISC-V tablet now ships with a Debian-based Linux and improved hardware</small>
 
 
@@ -299,7 +311,7 @@ PineTab-V是一款10.1英寸平板，配备**RISC-V处理器**，拥有8GB内存
 
 ---
 
-## <a name="24"></a>24. 编程岗位减少22%：AI是否在取代人类工作？ 
+## <a name="25"></a>25. 编程岗位减少22%：AI是否在取代人类工作？ 
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/business/2025/03/14/programming-jobs-lost-artificial-intelligence/): 22% Drop in Programming Jobs</small>
 
 
@@ -308,17 +320,5 @@ PineTab-V是一款10.1英寸平板，配备**RISC-V处理器**，拥有8GB内存
 
 <br />
 过去两年，**编程岗位**减少了超过四分之一，这是该行业有史以来最严重的下滑。数据显示，**人工智能**（如ChatGPT）的崛起可能是原因之一，尤其是**程序员**的工作更容易被自动化工具替代。相比之下，**软件开发人员**的岗位受影响较小，因为他们的工作涉及更多设计和决策任务。尽管AI目前更多用于辅助而非完全替代，但编程岗位的减少仍引发了关于未来职业前景的担忧。
-
----
-
-## <a name="25"></a>25. 特朗普精神错乱综合症 
-<small>🔗 [revisor.mn.gov](https://www.revisor.mn.gov/bills/text.php?number=SF2589&version=0&session=ls94&session_year=2025&session_number=0): Trump Derangement Syndrome</small>
-
-
-| 🔥: 50 \| 💬: [26](https://news.ycombinator.com/item?id=43386788) \| 🗓️ 2025-03-17
-
-
-<br />
-明尼苏达州立法机构提出了一项法案，旨在修改心理健康定义，并新增**特朗普精神错乱综合症**（Trump Derangement Syndrome）作为精神疾病的一种。该综合症被定义为对前总统唐纳德·J·特朗普的政策和执政产生急性偏执反应，症状包括**特朗普引发的广泛歇斯底里**，表现为无法区分政策分歧与特朗普行为的心理病理迹象。法案还详细描述了该综合症的症状，如对特朗普的强烈敌意和对支持者的攻击行为。
 
 ---
