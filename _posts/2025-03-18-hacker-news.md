@@ -27,7 +27,7 @@ tags:
 <small>🔗 [ericmigi.com](https://ericmigi.com/blog/apple-restricts-pebble-from-being-awesome-with-iphones/): Apple restricts Pebble from being awesome with iPhones</small>
 
 
-| 🔥🔥: 1000 \| 💬: [630](https://news.ycombinator.com/item?id=43401245) \| 🗓️ 2025-03-18
+| 🔥🔥: 1070 \| 💬: [676](https://news.ycombinator.com/item?id=43401245) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [ericmigi.com](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches/): Two new PebbleOS watches</small>
 
 
-| 🔥🔥: 885 \| 💬: [320](https://news.ycombinator.com/item?id=43400989) \| 🗓️ 2025-03-18
+| 🔥🔥: 957 \| 💬: [328](https://news.ycombinator.com/item?id=43400989) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -51,7 +51,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [martijnhols.nl](https://martijnhols.nl/blog/moving-away-from-us-cloud-services): Moving away from US cloud services</small>
 
 
-| 🔥🔥: 550 \| 💬: [345](https://news.ycombinator.com/item?id=43396795) \| 🗓️ 2025-03-18
+| 🔥🔥: 552 \| 💬: [346](https://news.ycombinator.com/item?id=43396795) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -63,7 +63,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [freedom.press](https://freedom.press/issues/wired-is-dropping-paywalls-for-foia-based-reporting-others-should-follow/): Wired is dropping paywalls for FOIA-based reporting. Others should follow</small>
 
 
-| 🔥🔥: 412 \| 💬: [61](https://news.ycombinator.com/item?id=43399138) \| 🗓️ 2025-03-18
+| 🔥🔥: 414 \| 💬: [61](https://news.ycombinator.com/item?id=43399138) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -75,7 +75,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/17/amazon_kills_on_device_alexa/): Amazon to kill off local Alexa processing, all voice requests shipped to cloud</small>
 
 
-| 🔥🔥: 330 \| 💬: [87](https://news.ycombinator.com/item?id=43402115) \| 🗓️ 2025-03-18
+| 🔥🔥: 354 \| 💬: [98](https://news.ycombinator.com/item?id=43402115) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -87,7 +87,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [wired.com](https://www.wired.com/story/federal-trade-commission-removed-blogs-critical-of-ai-amazon-microsoft/): FTC Removes Posts Critical of Amazon, Microsoft, and AI Companies</small>
 
 
-| 🔥🔥: 253 \| 💬: [80](https://news.ycombinator.com/item?id=43402957) \| 🗓️ 2025-03-18
+| 🔥🔥: 259 \| 💬: [84](https://news.ycombinator.com/item?id=43402957) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -99,7 +99,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [bluemigrate.com](https://bluemigrate.com): Show HN: I made a tool to port tweets to Bluesky mantaining their original date</small>
 
 
-| 🔥🔥: 232 \| 💬: [83](https://news.ycombinator.com/item?id=43401855) \| 🗓️ 2025-03-18
+| 🔥🔥: 254 \| 💬: [90](https://news.ycombinator.com/item?id=43401855) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -123,7 +123,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [vintagedata.org](https://vintagedata.org/blog/posts/model-is-the-product): The model is the product</small>
 
 
-| 🔥🔥: 208 \| 💬: [79](https://news.ycombinator.com/item?id=43397474) \| 🗓️ 2025-03-18
+| 🔥🔥: 209 \| 💬: [79](https://news.ycombinator.com/item?id=43397474) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -147,7 +147,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [kupajo.com](https://kupajo.com/stamina-is-a-quiet-advantage/): Stamina Is a Quiet Advantage</small>
 
 
-| 🔥🔥: 152 \| 💬: [70](https://news.ycombinator.com/item?id=43398589) \| 🗓️ 2025-03-18
+| 🔥🔥: 157 \| 💬: [79](https://news.ycombinator.com/item?id=43398589) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -159,7 +159,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [redhat.com](https://www.redhat.com/en/blog/fedora-42-beta-now-available): Fedora 42 Beta</small>
 
 
-| 🔥🔥: 143 \| 💬: [67](https://news.ycombinator.com/item?id=43401595) \| 🗓️ 2025-03-18
+| 🔥🔥: 151 \| 💬: [73](https://news.ycombinator.com/item?id=43401595) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -183,7 +183,7 @@ Fedora 42 Beta 现已发布，带来了多项新功能和改进。**Anaconda** �
 <small>🔗 [coindesk.com](https://www.coindesk.com/policy/2025/03/07/here-s-how-north-korea-launders-billions-of-stolen-crypto): North Korea Launders Billions in Stolen Crypto</small>
 
 
-| 🔥🔥: 124 \| 💬: [47](https://news.ycombinator.com/item?id=43399190) \| 🗓️ 2025-03-18
+| 🔥🔥: 125 \| 💬: [51](https://news.ycombinator.com/item?id=43399190) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -191,23 +191,11 @@ Fedora 42 Beta 现已发布，带来了多项新功能和改进。**Anaconda** �
 
 ---
 
-## <a name="15"></a>15. Java 24 正式发布 
-<small>🔗 [jdk.java.net](https://jdk.java.net/24/): Java 24</small>
-
-
-| 🔥🔥: 117 \| 💬: [81](https://news.ycombinator.com/item?id=43398999) \| 🗓️ 2025-03-18
-
-
-<br />
-OpenJDK JDK 24 现已推出，提供**开源**的 Java 开发工具包，支持 Java SE 24 平台。用户可下载适用于 Linux、macOS 和 Windows 的构建版本。**商业版本**由 Oracle 提供，需付费使用。文档、API 和反馈渠道均已开放。部分国家因知识产权限制无法访问源代码。
-
----
-
-## <a name="16"></a>16. 设计实用的电子产品 
+## <a name="15"></a>15. 设计实用的电子产品 
 <small>🔗 [hscott.net](https://www.hscott.net/designing-electronics-that-work/): Designing Electronics That Work</small>
 
 
-| 🔥🔥: 113 \| 💬: [34](https://news.ycombinator.com/item?id=43401179) \| 🗓️ 2025-03-18
+| 🔥🔥: 125 \| 💬: [42](https://news.ycombinator.com/item?id=43401179) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -215,15 +203,27 @@ OpenJDK JDK 24 现已推出，提供**开源**的 Java 开发工具包，支持 
 
 ---
 
-## <a name="17"></a>17. 比亚迪发布超快充电系统，充电速度堪比加油 
-<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/mar/18/byd-ev-fast-charging-system-petrol-fuel-speed): BYD says new fast-charging system could be as quick as filling up a tank</small>
+## <a name="16"></a>16. PeerTube v7.1 发布：全新设计与功能升级 
+<small>🔗 [joinpeertube.org](https://joinpeertube.org/news/release-7.1): PeerTube v7.1 Is Out</small>
 
 
-| 🔥🔥: 107 \| 💬: [177](https://news.ycombinator.com/item?id=43396853) \| 🗓️ 2025-03-18
+| 🔥🔥: 120 \| 💬: [22](https://news.ycombinator.com/item?id=43403377) \| 🗓️ 2025-03-18
 
 
 <br />
-比亚迪近日推出全新电动汽车平台，宣称其**充电速度可达1000千瓦**，是特斯拉超级充电器的两倍。该平台支持车辆在5分钟内充电续航400公里，并计划在中国建设超过4000个超快充电桩。此举旨在解决用户充电焦虑，推动电动汽车普及。
+PeerTube v7.1 正式发布，带来了多项改进。**“关于”页面**经过重新设计，信息更清晰易读。新增**平台标识功能**，帮助用户更好地理解视频来源。此外，**Podcast 2.0** 支持得到增强，用户可通过播客应用订阅频道。播放器稳定性提升，尤其适用于低延迟直播。更多更新详见更新日志！
+
+---
+
+## <a name="17"></a>17. Java 24 正式发布 
+<small>🔗 [jdk.java.net](https://jdk.java.net/24/): Java 24</small>
+
+
+| 🔥🔥: 118 \| 💬: [85](https://news.ycombinator.com/item?id=43398999) \| 🗓️ 2025-03-18
+
+
+<br />
+OpenJDK JDK 24 现已推出，提供**开源**的 Java 开发工具包，支持 Java SE 24 平台。用户可下载适用于 Linux、macOS 和 Windows 的构建版本。**商业版本**由 Oracle 提供，需付费使用。文档、API 和反馈渠道均已开放。部分国家因知识产权限制无法访问源代码。
 
 ---
 
@@ -231,7 +231,7 @@ OpenJDK JDK 24 现已推出，提供**开源**的 Java 开发工具包，支持 
 <small>🔗 [httrack.com](https://www.httrack.com/): HTTrack Website Copier</small>
 
 
-| 🔥🔥: 106 \| 💬: [29](https://news.ycombinator.com/item?id=43402149) \| 🗓️ 2025-03-18
+| 🔥🔥: 117 \| 💬: [30](https://news.ycombinator.com/item?id=43402149) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -243,7 +243,7 @@ HTTrack 是一款**免费开源**的离线浏览器工具，允许用户将整�
 <small>🔗 [duckdb.org](https://duckdb.org/2025/03/14/preview-amazon-s3-tables.html): Preview: Amazon S3 Tables and Lakehouse in DuckDB</small>
 
 
-| 🔥🔥: 104 \| 💬: [29](https://news.ycombinator.com/item?id=43401421) \| 🗓️ 2025-03-18
+| 🔥🔥: 113 \| 💬: [33](https://news.ycombinator.com/item?id=43401421) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -251,15 +251,15 @@ DuckDB 宣布推出新预览功能，支持 **Apache Iceberg REST Catalogs**，�
 
 ---
 
-## <a name="20"></a>20. PeerTube v7.1 发布：全新设计与功能升级 
-<small>🔗 [joinpeertube.org](https://joinpeertube.org/news/release-7.1): PeerTube v7.1 Is Out</small>
+## <a name="20"></a>20. 比亚迪发布超快充电系统，充电速度堪比加油 
+<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/mar/18/byd-ev-fast-charging-system-petrol-fuel-speed): BYD says new fast-charging system could be as quick as filling up a tank</small>
 
 
-| 🔥🔥: 102 \| 💬: [19](https://news.ycombinator.com/item?id=43403377) \| 🗓️ 2025-03-18
+| 🔥🔥: 108 \| 💬: [181](https://news.ycombinator.com/item?id=43396853) \| 🗓️ 2025-03-18
 
 
 <br />
-PeerTube v7.1 正式发布，带来了多项改进。**“关于”页面**经过重新设计，信息更清晰易读。新增**平台标识功能**，帮助用户更好地理解视频来源。此外，**Podcast 2.0** 支持得到增强，用户可通过播客应用订阅频道。播放器稳定性提升，尤其适用于低延迟直播。更多更新详见更新日志！
+比亚迪近日推出全新电动汽车平台，宣称其**充电速度可达1000千瓦**，是特斯拉超级充电器的两倍。该平台支持车辆在5分钟内充电续航400公里，并计划在中国建设超过4000个超快充电桩。此举旨在解决用户充电焦虑，推动电动汽车普及。
 
 ---
 
@@ -267,7 +267,7 @@ PeerTube v7.1 正式发布，带来了多项改进。**“关于”页面**经�
 <small>🔗 [planetscale.com](https://planetscale.com/blog/the-real-fail-rate-of-ebs): The real failure rate of EBS</small>
 
 
-| 🔥: 98 \| 💬: [27](https://news.ycombinator.com/item?id=43399811) \| 🗓️ 2025-03-18
+| 🔥: 100 \| 💬: [27](https://news.ycombinator.com/item?id=43399811) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -279,7 +279,7 @@ PlanetScale通过大规模使用亚马逊**EBS**（弹性块存储）发现，**
 <small>🔗 [gizmodo.com](https://gizmodo.com/tesla-hate-is-making-insurance-more-expensive-for-owners-2000577467): Tesla Hate Is Making Insurance More Expensive for Owners</small>
 
 
-| 🔥: 88 \| 💬: [168](https://news.ycombinator.com/item?id=43402373) \| 🗓️ 2025-03-18
+| 🔥: 88 \| 💬: [172](https://news.ycombinator.com/item?id=43402373) \| 🗓️ 2025-03-18
 
 
 <br />
