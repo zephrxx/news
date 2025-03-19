@@ -27,7 +27,7 @@ tags:
 <small>🔗 [ericmigi.com](https://ericmigi.com/blog/apple-restricts-pebble-from-being-awesome-with-iphones/): Apple restricts Pebble from being awesome with iPhones</small>
 
 
-| 🔥🔥: 1250 \| 💬: [775](https://news.ycombinator.com/item?id=43401245) \| 🗓️ 2025-03-18
+| 🔥🔥: 1279 \| 💬: [792](https://news.ycombinator.com/item?id=43401245) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [ericmigi.com](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches/): Two new PebbleOS watches</small>
 
 
-| 🔥🔥: 1133 \| 💬: [373](https://news.ycombinator.com/item?id=43400989) \| 🗓️ 2025-03-18
+| 🔥🔥: 1167 \| 💬: [376](https://news.ycombinator.com/item?id=43400989) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -63,7 +63,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [freedom.press](https://freedom.press/issues/wired-is-dropping-paywalls-for-foia-based-reporting-others-should-follow/): Wired is dropping paywalls for FOIA-based reporting. Others should follow</small>
 
 
-| 🔥🔥: 429 \| 💬: [65](https://news.ycombinator.com/item?id=43399138) \| 🗓️ 2025-03-18
+| 🔥🔥: 430 \| 💬: [66](https://news.ycombinator.com/item?id=43399138) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -75,7 +75,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/17/amazon_kills_on_device_alexa/): Amazon to kill off local Alexa processing, all voice requests shipped to cloud</small>
 
 
-| 🔥🔥: 413 \| 💬: [112](https://news.ycombinator.com/item?id=43402115) \| 🗓️ 2025-03-18
+| 🔥🔥: 430 \| 💬: [113](https://news.ycombinator.com/item?id=43402115) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -87,7 +87,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [bluemigrate.com](https://bluemigrate.com): Show HN: I made a tool to port tweets to Bluesky mantaining their original date</small>
 
 
-| 🔥🔥: 318 \| 💬: [116](https://news.ycombinator.com/item?id=43401855) \| 🗓️ 2025-03-18
+| 🔥🔥: 333 \| 💬: [123](https://news.ycombinator.com/item?id=43401855) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -99,7 +99,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [wired.com](https://www.wired.com/story/federal-trade-commission-removed-blogs-critical-of-ai-amazon-microsoft/): FTC Removes Posts Critical of Amazon, Microsoft, and AI Companies</small>
 
 
-| 🔥🔥: 278 \| 💬: [96](https://news.ycombinator.com/item?id=43402957) \| 🗓️ 2025-03-18
+| 🔥🔥: 283 \| 💬: [96](https://news.ycombinator.com/item?id=43402957) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -123,7 +123,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [vintagedata.org](https://vintagedata.org/blog/posts/model-is-the-product): The model is the product</small>
 
 
-| 🔥🔥: 218 \| 💬: [80](https://news.ycombinator.com/item?id=43397474) \| 🗓️ 2025-03-18
+| 🔥🔥: 219 \| 💬: [80](https://news.ycombinator.com/item?id=43397474) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -135,7 +135,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [gist.github.com](https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097): Make Ubuntu packages 90% faster by rebuilding them</small>
 
 
-| 🔥🔥: 179 \| 💬: [108](https://news.ycombinator.com/item?id=43406710) \| 🗓️ 2025-03-18
+| 🔥🔥: 210 \| 💬: [128](https://news.ycombinator.com/item?id=43406710) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -143,7 +143,31 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 
 ---
 
-## <a name="11"></a>11. 请停止将成本直接转嫁到我脸上 
+## <a name="11"></a>11. 设计实用的电子产品 
+<small>🔗 [hscott.net](https://www.hscott.net/designing-electronics-that-work/): Designing Electronics That Work</small>
+
+
+| 🔥🔥: 177 \| 💬: [67](https://news.ycombinator.com/item?id=43401179) \| 🗓️ 2025-03-18
+
+
+<br />
+过去5年，作者整理了一本300多页的书，总结了他在过去10年创办和参与多家硬件初创公司中学到的经验。书中涵盖了从**产品规划**、**原型设计**到**测试**和**故障排除**的全流程，并提供了实用的**规则和经验**。读者可免费下载电子版或购买39美元的实体书。更多信息请访问[designingelectronics.com](http://designingelectronics.com/)。
+
+---
+
+## <a name="12"></a>12. 耐力是一种无声的优势 
+<small>🔗 [kupajo.com](https://kupajo.com/stamina-is-a-quiet-advantage/): Stamina Is a Quiet Advantage</small>
+
+
+| 🔥🔥: 176 \| 💬: [86](https://news.ycombinator.com/item?id=43398589) \| 🗓️ 2025-03-18
+
+
+<br />
+**耐力**不仅仅是身体上的持久力，更是**坚持价值观和承诺**的能力，尤其是在困难时刻。它体现在团队合作、解决问题、耐心陪伴等方面。耐力是一种**普遍适用的优势**，比智力、速度等更具广泛性。通过持续努力，耐力能帮助你更可靠地解决长期问题。
+
+---
+
+## <a name="13"></a>13. 请停止将成本直接转嫁到我脸上 
 <small>🔗 [drewdevault.com](https://drewdevault.com/2025/03/17/2025-03-17-Stop-externalizing-your-costs-on-me.html): Please stop externalizing your costs directly into my face</small>
 
 
@@ -155,35 +179,11 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 
 ---
 
-## <a name="12"></a>12. 耐力是一种无声的优势 
-<small>🔗 [kupajo.com](https://kupajo.com/stamina-is-a-quiet-advantage/): Stamina Is a Quiet Advantage</small>
-
-
-| 🔥🔥: 173 \| 💬: [84](https://news.ycombinator.com/item?id=43398589) \| 🗓️ 2025-03-18
-
-
-<br />
-**耐力**不仅仅是身体上的持久力，更是**坚持价值观和承诺**的能力，尤其是在困难时刻。它体现在团队合作、解决问题、耐心陪伴等方面。耐力是一种**普遍适用的优势**，比智力、速度等更具广泛性。通过持续努力，耐力能帮助你更可靠地解决长期问题。
-
----
-
-## <a name="13"></a>13. 设计实用的电子产品 
-<small>🔗 [hscott.net](https://www.hscott.net/designing-electronics-that-work/): Designing Electronics That Work</small>
-
-
-| 🔥🔥: 173 \| 💬: [61](https://news.ycombinator.com/item?id=43401179) \| 🗓️ 2025-03-18
-
-
-<br />
-过去5年，作者整理了一本300多页的书，总结了他在过去10年创办和参与多家硬件初创公司中学到的经验。书中涵盖了从**产品规划**、**原型设计**到**测试**和**故障排除**的全流程，并提供了实用的**规则和经验**。读者可免费下载电子版或购买39美元的实体书。更多信息请访问[designingelectronics.com](http://designingelectronics.com/)。
-
----
-
 ## <a name="14"></a>14. Fedora 42 Beta 发布：新功能与改进 
 <small>🔗 [redhat.com](https://www.redhat.com/en/blog/fedora-42-beta-now-available): Fedora 42 Beta</small>
 
 
-| 🔥🔥: 167 \| 💬: [82](https://news.ycombinator.com/item?id=43401595) \| 🗓️ 2025-03-18
+| 🔥🔥: 169 \| 💬: [83](https://news.ycombinator.com/item?id=43401595) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -195,7 +195,7 @@ Fedora 42 Beta 现已发布，带来了多项新功能和改进。**Anaconda** �
 <small>🔗 [joinpeertube.org](https://joinpeertube.org/news/release-7.1): PeerTube v7.1 Is Out</small>
 
 
-| 🔥🔥: 155 \| 💬: [36](https://news.ycombinator.com/item?id=43403377) \| 🗓️ 2025-03-18
+| 🔥🔥: 163 \| 💬: [40](https://news.ycombinator.com/item?id=43403377) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -207,7 +207,7 @@ PeerTube v7.1 正式发布，带来了多项改进。**“关于”页面**经�
 <small>🔗 [duckdb.org](https://duckdb.org/2025/03/14/preview-amazon-s3-tables.html): Preview: Amazon S3 Tables and Lakehouse in DuckDB</small>
 
 
-| 🔥🔥: 136 \| 💬: [35](https://news.ycombinator.com/item?id=43401421) \| 🗓️ 2025-03-18
+| 🔥🔥: 144 \| 💬: [39](https://news.ycombinator.com/item?id=43401421) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -215,7 +215,19 @@ DuckDB 宣布推出新预览功能，支持 **Apache Iceberg REST Catalogs**，�
 
 ---
 
-## <a name="17"></a>17. 半条命2 RTX 
+## <a name="17"></a>17. HTTrack 网站复制工具 
+<small>🔗 [httrack.com](https://www.httrack.com/): HTTrack Website Copier</small>
+
+
+| 🔥🔥: 135 \| 💬: [39](https://news.ycombinator.com/item?id=43402149) \| 🗓️ 2025-03-18
+
+
+<br />
+HTTrack 是一款**免费开源**的离线浏览器工具，允许用户将整个网站从互联网下载到本地目录，**递归构建**目录结构并获取HTML、图片等文件。它支持更新现有镜像站点和恢复中断的下载，适用于Windows和Linux/Unix/BSD系统。HTTrack 配置灵活，内置帮助系统，适合需要离线浏览网站的用户。
+
+---
+
+## <a name="18"></a>18. 半条命2 RTX 
 <small>🔗 [store.steampowered.com](https://store.steampowered.com/app/2477290/HalfLife_2_RTX/): Half-Life 2 RTX</small>
 
 
@@ -227,11 +239,11 @@ DuckDB 宣布推出新预览功能，支持 **Apache Iceberg REST Catalogs**，�
 
 ---
 
-## <a name="18"></a>18. 朝鲜通过加密货币洗钱数十亿美元 
+## <a name="19"></a>19. 朝鲜通过加密货币洗钱数十亿美元 
 <small>🔗 [coindesk.com](https://www.coindesk.com/policy/2025/03/07/here-s-how-north-korea-launders-billions-of-stolen-crypto): North Korea Launders Billions in Stolen Crypto</small>
 
 
-| 🔥🔥: 134 \| 💬: [54](https://news.ycombinator.com/item?id=43399190) \| 🗓️ 2025-03-18
+| 🔥🔥: 134 \| 💬: [55](https://news.ycombinator.com/item?id=43399190) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -239,23 +251,11 @@ DuckDB 宣布推出新预览功能，支持 **Apache Iceberg REST Catalogs**，�
 
 ---
 
-## <a name="19"></a>19. HTTrack 网站复制工具 
-<small>🔗 [httrack.com](https://www.httrack.com/): HTTrack Website Copier</small>
-
-
-| 🔥🔥: 133 \| 💬: [37](https://news.ycombinator.com/item?id=43402149) \| 🗓️ 2025-03-18
-
-
-<br />
-HTTrack 是一款**免费开源**的离线浏览器工具，允许用户将整个网站从互联网下载到本地目录，**递归构建**目录结构并获取HTML、图片等文件。它支持更新现有镜像站点和恢复中断的下载，适用于Windows和Linux/Unix/BSD系统。HTTrack 配置灵活，内置帮助系统，适合需要离线浏览网站的用户。
-
----
-
 ## <a name="20"></a>20. Git-who：用于大规模代码库的Git责任追踪工具 
 <small>🔗 [github.com](https://github.com/sinclairtarget/git-who): Show HN: "Git who" – A new CLI tool for industrial-scale Git blaming</small>
 
 
-| 🔥🔥: 122 \| 💬: [73](https://news.ycombinator.com/item?id=43404548) \| 🗓️ 2025-03-18
+| 🔥🔥: 134 \| 💬: [76](https://news.ycombinator.com/item?id=43404548) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -291,7 +291,7 @@ OpenJDK JDK 24 现已推出，提供**开源**的 Java 开发工具包，支持 
 <small>🔗 [planetscale.com](https://planetscale.com/blog/the-real-fail-rate-of-ebs): The real failure rate of EBS</small>
 
 
-| 🔥🔥: 102 \| 💬: [27](https://news.ycombinator.com/item?id=43399811) \| 🗓️ 2025-03-18
+| 🔥🔥: 103 \| 💬: [27](https://news.ycombinator.com/item?id=43399811) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -303,7 +303,7 @@ PlanetScale通过大规模使用亚马逊**EBS**（弹性块存储）发现，**
 <small>🔗 [gizmodo.com](https://gizmodo.com/tesla-hate-is-making-insurance-more-expensive-for-owners-2000577467): Tesla Hate Is Making Insurance More Expensive for Owners</small>
 
 
-| 🔥: 90 \| 💬: [173](https://news.ycombinator.com/item?id=43402373) \| 🗓️ 2025-03-18
+| 🔥: 91 \| 💬: [175](https://news.ycombinator.com/item?id=43402373) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -315,7 +315,7 @@ PlanetScale通过大规模使用亚马逊**EBS**（弹性块存储）发现，**
 <small>🔗 [blog.smartdec.net](https://blog.smartdec.net/you-do-not-need-blockchain-eight-popular-use-cases-and-why-they-do-not-work-f2ecc6cc2129): You Do Not Need Blockchain: Popular Use Cases and Why They Do Not Work (2019)</small>
 
 
-| 🔥: 85 \| 💬: [121](https://news.ycombinator.com/item?id=43398991) \| 🗓️ 2025-03-18
+| 🔥: 86 \| 💬: [122](https://news.ycombinator.com/item?id=43398991) \| 🗓️ 2025-03-18
 
 
 <br />
