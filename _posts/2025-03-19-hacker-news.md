@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共21条，具体内容您往下读...
+总共22条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/mar/19/canadian-detained-us-immigration-jasmine-mooney): I'm the Canadian who was detained by ICE for two weeks</small>
 
 
-| 🔥🔥: 756 \| 💬: [666](https://news.ycombinator.com/item?id=43410548) \| 🗓️ 2025-03-19
+| 🔥🔥: 774 \| 💬: [675](https://news.ycombinator.com/item?id=43410548) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/sharkdp/fd): fd: A simple, fast and user-friendly alternative to 'find'</small>
 
 
-| 🔥🔥: 449 \| 💬: [202](https://news.ycombinator.com/item?id=43410692) \| 🗓️ 2025-03-19
+| 🔥🔥: 480 \| 💬: [211](https://news.ycombinator.com/item?id=43410692) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [kasurian.com](https://kasurian.com/p/research-as-leisure): The Lost Art of Research as Leisure</small>
 
 
-| 🔥🔥: 409 \| 💬: [225](https://news.ycombinator.com/item?id=43410061) \| 🗓️ 2025-03-19
+| 🔥🔥: 424 \| 💬: [229](https://news.ycombinator.com/item?id=43410061) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [joe-antognini.github.io](https://joe-antognini.github.io/astronomy/daylight): How fast the days are getting longer</small>
 
 
-| 🔥🔥: 330 \| 💬: [112](https://news.ycombinator.com/item?id=43413935) \| 🗓️ 2025-03-19
+| 🔥🔥: 368 \| 💬: [127](https://news.ycombinator.com/item?id=43413935) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [engadget.com](https://www.engadget.com/big-tech/video-game-workers-in-north-america-now-have-an-industry-wide-union-130024730.html): Video game workers in North America now have an industry-wide union</small>
 
 
-| 🔥🔥: 315 \| 💬: [121](https://news.ycombinator.com/item?id=43411934) \| 🗓️ 2025-03-19
+| 🔥🔥: 327 \| 💬: [121](https://news.ycombinator.com/item?id=43411934) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [developer.chrome.com](https://developer.chrome.com/blog/memory-safety-fonts): Memory safety for web fonts</small>
 
 
-| 🔥🔥: 244 \| 💬: [151](https://news.ycombinator.com/item?id=43413125) \| 🗓️ 2025-03-19
+| 🔥🔥: 255 \| 💬: [162](https://news.ycombinator.com/item?id=43413125) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -95,11 +95,23 @@ Chrome 团队开发了基于 **Rust** 的 **Skrifa** 库，以替代 **FreeType*
 
 ---
 
-## <a name="7"></a>7. 猪肉禁忌的起源 
+## <a name="7"></a>7. AI盲点——我在AI编码中注意到的大语言模型盲点 
+<small>🔗 [ezyang.github.io](https://ezyang.github.io/ai-blindspots/): AI Blindspots – Blindspots in LLMs I've noticed while AI coding</small>
+
+
+| 🔥🔥: 223 \| 💬: [71](https://news.ycombinator.com/item?id=43414393) \| 🗓️ 2025-03-19
+
+
+<br />
+在AI编码过程中，作者发现了一些**大语言模型（LLMs）**的盲点，并提出了可能的解决方案。文章强调了**Sonnet家族**的重要性，并建议通过**黑盒测试**、**科学调试**和**尊重规范**等方法来应对这些问题。此外，作者还提到了一些编码实践，如**保持文件小巧**和**使用静态类型**，以提高代码质量。
+
+---
+
+## <a name="8"></a>8. 猪肉禁忌的起源 
 <small>🔗 [archaeology.org](https://archaeology.org/issues/march-april-2025/letters-from/on-the-origin-of-the-pork-taboo/): The Origin of the Pork Taboo</small>
 
 
-| 🔥🔥: 196 \| 💬: [208](https://news.ycombinator.com/item?id=43410885) \| 🗓️ 2025-03-19
+| 🔥🔥: 203 \| 💬: [217](https://news.ycombinator.com/item?id=43410885) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -107,27 +119,15 @@ Chrome 团队开发了基于 **Rust** 的 **Skrifa** 库，以替代 **FreeType*
 
 ---
 
-## <a name="8"></a>8. Konva.js - 适用于 React、Vue 和 Svelte 的声明式 2D Canvas 框架 
+## <a name="9"></a>9. Konva.js - 适用于 React、Vue 和 Svelte 的声明式 2D Canvas 框架 
 <small>🔗 [konvajs.org](https://konvajs.org/): Konva.js - Declarative 2D Canvas for React, Vue, and Svelte</small>
 
 
-| 🔥🔥: 188 \| 💬: [62](https://news.ycombinator.com/item?id=43410988) \| 🗓️ 2025-03-19
+| 🔥🔥: 195 \| 💬: [62](https://news.ycombinator.com/item?id=43410988) \| 🗓️ 2025-03-19
 
 
 <br />
 Konva.js 是一个**面向对象的 2D Canvas 框架**，支持多种形状和**跨平台**操作。它提供**内置动画**、节点管理、滤镜效果以及拖放功能，并可无缝集成到 React、Vue 和 Svelte 等流行框架中，适用于创建复杂的交互式画布应用。
-
----
-
-## <a name="9"></a>9. AI盲点——我在AI编码中注意到的大语言模型盲点 
-<small>🔗 [ezyang.github.io](https://ezyang.github.io/ai-blindspots/): AI Blindspots – Blindspots in LLMs I've noticed while AI coding</small>
-
-
-| 🔥🔥: 175 \| 💬: [51](https://news.ycombinator.com/item?id=43414393) \| 🗓️ 2025-03-19
-
-
-<br />
-在AI编码过程中，作者发现了一些**大语言模型（LLMs）**的盲点，并提出了可能的解决方案。文章强调了**Sonnet家族**的重要性，并建议通过**黑盒测试**、**科学调试**和**尊重规范**等方法来应对这些问题。此外，作者还提到了一些编码实践，如**保持文件小巧**和**使用静态类型**，以提高代码质量。
 
 ---
 
@@ -147,7 +147,7 @@ Konva.js 是一个**面向对象的 2D Canvas 框架**，支持多种形状和**
 <small>🔗 [nber.org](https://www.nber.org/papers/w33576): Supply constraints do not explain house price, quantity growth across US cities</small>
 
 
-| 🔥🔥: 102 \| 💬: [151](https://news.ycombinator.com/item?id=43411258) \| 🗓️ 2025-03-19
+| 🔥🔥: 117 \| 💬: [174](https://news.ycombinator.com/item?id=43411258) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -155,23 +155,11 @@ Konva.js 是一个**面向对象的 2D Canvas 框架**，支持多种形状和**
 
 ---
 
-## <a name="12"></a>12. 谷歌支付2800万美元和解歧视诉讼 
-<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/mar/19/google-pay-settle-claims-favoured-white-asian-employees): Google to pay $28M to settle claims it favoured white and Asian employees</small>
-
-
-| 🔥: 98 \| 💬: [123](https://news.ycombinator.com/item?id=43413333) \| 🗓️ 2025-03-19
-
-
-<br />
-谷歌同意支付**2800万美元**，以和解一起集体诉讼。该诉讼指控谷歌在薪酬和职业发展上**偏袒白人和亚裔员工**，而忽视了其他少数族裔员工。诉讼由一名墨西哥裔员工发起，涉及至少6632名加州员工。谷歌否认指控，但表示将继续致力于公平对待所有员工。
-
----
-
-## <a name="13"></a>13. Fauna服务即将关闭 
+## <a name="12"></a>12. Fauna服务即将关闭 
 <small>🔗 [fauna.com](https://fauna.com/blog/the-future-of-fauna): Fauna Service Winding Down</small>
 
 
-| 🔥: 97 \| 💬: [76](https://news.ycombinator.com/item?id=43414742) \| 🗓️ 2025-03-19
+| 🔥🔥: 104 \| 💬: [79](https://news.ycombinator.com/item?id=43414742) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -179,23 +167,23 @@ Fauna团队宣布将在未来几个月内逐步关闭其服务，原因是**全�
 
 ---
 
-## <a name="14"></a>14. Chrome禁用uBlock Origin对用户安全构成严重威胁 
-<small>🔗 [nuage.quimerch.com](https://nuage.quimerch.com/-/ewen/articles/chrome-disabling-ublock-origin-is-a-serious-security-threat): Chrome disabling uBlock Origin is a serious security threat</small>
+## <a name="13"></a>13. 谷歌支付2800万美元和解歧视诉讼 
+<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/mar/19/google-pay-settle-claims-favoured-white-asian-employees): Google to pay $28M to settle claims it favoured white and Asian employees</small>
 
 
-| 🔥: 92 \| 💬: [79](https://news.ycombinator.com/item?id=43409838) \| 🗓️ 2025-03-19
+| 🔥: 98 \| 💬: [127](https://news.ycombinator.com/item?id=43413333) \| 🗓️ 2025-03-19
 
 
 <br />
-谷歌决定在Chrome上禁用流行的广告拦截扩展**uBlock Origin**，引发了用户安全的广泛担忧。此举使许多用户突然暴露在恶意广告中，尤其是对不熟悉技术的老年用户。虽然可以安装其他广告拦截工具，但它们可能不如**uBlock Origin**有效。谷歌应提供更友好的解决方案，而不是让用户处于无保护状态。
+谷歌同意支付**2800万美元**，以和解一起集体诉讼。该诉讼指控谷歌在薪酬和职业发展上**偏袒白人和亚裔员工**，而忽视了其他少数族裔员工。诉讼由一名墨西哥裔员工发起，涉及至少6632名加州员工。谷歌否认指控，但表示将继续致力于公平对待所有员工。
 
 ---
 
-## <a name="15"></a>15. 太空中的波兰饺子 
+## <a name="14"></a>14. 太空中的波兰饺子 
 <small>🔗 [esa.int](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Pierogi_in_space): Pierogi in Space</small>
 
 
-| 🔥: 90 \| 💬: [20](https://news.ycombinator.com/item?id=43416302) \| 🗓️ 2025-03-19
+| 🔥: 98 \| 💬: [26](https://news.ycombinator.com/item?id=43416302) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -203,7 +191,31 @@ Fauna团队宣布将在未来几个月内逐步关闭其服务，原因是**全�
 
 ---
 
-## <a name="16"></a>16. 从半个世纪的康威生命游戏中学到的创新启示 
+## <a name="15"></a>15. Chrome禁用uBlock Origin对用户安全构成严重威胁 
+<small>🔗 [nuage.quimerch.com](https://nuage.quimerch.com/-/ewen/articles/chrome-disabling-ublock-origin-is-a-serious-security-threat): Chrome disabling uBlock Origin is a serious security threat</small>
+
+
+| 🔥: 93 \| 💬: [79](https://news.ycombinator.com/item?id=43409838) \| 🗓️ 2025-03-19
+
+
+<br />
+谷歌决定在Chrome上禁用流行的广告拦截扩展**uBlock Origin**，引发了用户安全的广泛担忧。此举使许多用户突然暴露在恶意广告中，尤其是对不熟悉技术的老年用户。虽然可以安装其他广告拦截工具，但它们可能不如**uBlock Origin**有效。谷歌应提供更友好的解决方案，而不是让用户处于无保护状态。
+
+---
+
+## <a name="16"></a>16. Ikemen-GO：开源MUGEN引擎重制版 
+<small>🔗 [github.com](https://github.com/ikemen-engine/Ikemen-GO): Ikemen-GO: open-source reimplementation of MUGEN</small>
+
+
+| 🔥: 86 \| 💬: [13](https://news.ycombinator.com/item?id=43411755) \| 🗓️ 2025-03-19
+
+
+<br />
+Ikemen-GO是一款**开源**的格斗游戏引擎，支持MUGEN资源，使用Google的**Go语言**编写。它完全重写了之前的Ikemen引擎，旨在与MUGEN 1.1 Beta版本保持兼容，同时扩展了多项新功能。提供Windows、macOS和Linux的预编译版本，开发者可通过Docker跨平台编译。项目采用**MIT许可证**，部分非代码资源使用CC-BY 3.0许可。
+
+---
+
+## <a name="17"></a>17. 从半个世纪的康威生命游戏中学到的创新启示 
 <small>🔗 [writings.stephenwolfram.com](https://writings.stephenwolfram.com/2025/03/what-can-we-learn-about-engineering-and-innovation-from-half-a-century-of-the-game-of-life-cellular-automaton/): Learning about Innovation from Half a Century of Conway's Game of Life</small>
 
 
@@ -215,23 +227,23 @@ Fauna团队宣布将在未来几个月内逐步关闭其服务，原因是**全�
 
 ---
 
-## <a name="17"></a>17. Ikemen-GO：开源MUGEN引擎重制版 
-<small>🔗 [github.com](https://github.com/ikemen-engine/Ikemen-GO): Ikemen-GO: open-source reimplementation of MUGEN</small>
+## <a name="18"></a>18. 将笔记本重构为可重用的Python程序 
+<small>🔗 [marimo.io](https://marimo.io/blog/python-not-json): Notebooks as reusable Python programs</small>
 
 
-| 🔥: 84 \| 💬: [12](https://news.ycombinator.com/item?id=43411755) \| 🗓️ 2025-03-19
+| 🔥: 81 \| 💬: [39](https://news.ycombinator.com/item?id=43415477) \| 🗓️ 2025-03-19
 
 
 <br />
-Ikemen-GO是一款**开源**的格斗游戏引擎，支持MUGEN资源，使用Google的**Go语言**编写。它完全重写了之前的Ikemen引擎，旨在与MUGEN 1.1 Beta版本保持兼容，同时扩展了多项新功能。提供Windows、macOS和Linux的预编译版本，开发者可通过Docker跨平台编译。项目采用**MIT许可证**，部分非代码资源使用CC-BY 3.0许可。
+本文介绍了**marimo**，一个将笔记本存储为纯文本Python文件的开源工具。传统的Jupyter笔记本使用JSON格式，导致代码难以维护、版本控制和测试。marimo通过将笔记本表示为**Python模块**，解决了这些问题，使其可版本控制、可测试、可重用，并支持与其他语言（如SQL和Markdown）的兼容性。marimo的设计使笔记本更易于**Git版本控制**、**pytest测试**，并允许将函数和类导入其他Python文件中。
 
 ---
 
-## <a name="18"></a>18. 美国老龄化工人：退休是遥不可及的梦 
+## <a name="19"></a>19. 美国老龄化工人：退休是遥不可及的梦 
 <small>🔗 [time.com](https://time.com/7260357/aging-workforce/): For Many of America's Aging Workers, 'Retirement Is a Distant Dream'</small>
 
 
-| 🔥: 76 \| 💬: [38](https://news.ycombinator.com/item?id=43415756) \| 🗓️ 2025-03-19
+| 🔥: 79 \| 💬: [41](https://news.ycombinator.com/item?id=43415756) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -239,23 +251,11 @@ Ikemen-GO是一款**开源**的格斗游戏引擎，支持MUGEN资源，使用Go
 
 ---
 
-## <a name="19"></a>19. 特斯拉将如何走向灭亡 
-<small>🔗 [planetearthandbeyond.co](https://www.planetearthandbeyond.co/p/this-is-how-tesla-will-die): Tesla Will Die</small>
-
-
-| 🔥: 70 \| 💬: [28](https://news.ycombinator.com/item?id=43410858) \| 🗓️ 2025-03-19
-
-
-<br />
-特斯拉正面临严重危机。**销量暴跌**、**4680电池技术失败**、**Cybertruck销售惨淡**，加上马斯克的“纯视觉”自动驾驶策略导致**FSD技术落后**，特斯拉的核心竞争力正在瓦解。公司估值虚高，**P/E比率高达67.65**，远高于行业平均。随着销量下滑，特斯拉的估值可能暴跌94%，导致**巨额债务危机**。马斯克个人贷款以特斯拉股票为抵押，若股价崩盘，可能引发**清算**，最终导致特斯拉及其帝国崩溃。
-
----
-
 ## <a name="20"></a>20. 滑动窗口聚类行为的异常现象 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2503.14393): The clustering behavior of sliding windows</small>
 
 
-| 🔥: 70 \| 💬: [12](https://news.ycombinator.com/item?id=43411898) \| 🗓️ 2025-03-19
+| 🔥: 75 \| 💬: [12](https://news.ycombinator.com/item?id=43411898) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -267,10 +267,22 @@ Ikemen-GO是一款**开源**的格斗游戏引擎，支持MUGEN资源，使用Go
 <small>🔗 [zbeegnew.dev](https://www.zbeegnew.dev/tech/build_your_own_ai_coding_assistant_a_cost-effective_alternative_to_cursor/): Hacking Your Own AI Coding Assistant with Claude Pro and MCP</small>
 
 
-| 🔥: 66 \| 💬: [42](https://news.ycombinator.com/item?id=43410866) \| 🗓️ 2025-03-19
+| 🔥: 71 \| 💬: [42](https://news.ycombinator.com/item?id=43410866) \| 🗓️ 2025-03-19
 
 
 <br />
 本文介绍了如何利用**Claude Pro**和**MCP**工具，通过逆向工程和自定义配置，打造一个个性化的**AI编程助手**。文章还提供了作者的PGP公钥，用于验证内容的真实性。
+
+---
+
+## <a name="22"></a>22. 特斯拉将如何走向灭亡 
+<small>🔗 [planetearthandbeyond.co](https://www.planetearthandbeyond.co/p/this-is-how-tesla-will-die): Tesla Will Die</small>
+
+
+| 🔥: 70 \| 💬: [28](https://news.ycombinator.com/item?id=43410858) \| 🗓️ 2025-03-19
+
+
+<br />
+特斯拉正面临严重危机。**销量暴跌**、**4680电池技术失败**、**Cybertruck销售惨淡**，加上马斯克的“纯视觉”自动驾驶策略导致**FSD技术落后**，特斯拉的核心竞争力正在瓦解。公司估值虚高，**P/E比率高达67.65**，远高于行业平均。随着销量下滑，特斯拉的估值可能暴跌94%，导致**巨额债务危机**。马斯克个人贷款以特斯拉股票为抵押，若股价崩盘，可能引发**清算**，最终导致特斯拉及其帝国崩溃。
 
 ---
