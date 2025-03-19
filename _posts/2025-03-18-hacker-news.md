@@ -27,7 +27,7 @@ tags:
 <small>🔗 [ericmigi.com](https://ericmigi.com/blog/apple-restricts-pebble-from-being-awesome-with-iphones/): Apple restricts Pebble from being awesome with iPhones</small>
 
 
-| 🔥🔥: 1119 \| 💬: [722](https://news.ycombinator.com/item?id=43401245) \| 🗓️ 2025-03-18
+| 🔥🔥: 1171 \| 💬: [751](https://news.ycombinator.com/item?id=43401245) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [ericmigi.com](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches/): Two new PebbleOS watches</small>
 
 
-| 🔥🔥: 1003 \| 💬: [350](https://news.ycombinator.com/item?id=43400989) \| 🗓️ 2025-03-18
+| 🔥🔥: 1051 \| 💬: [359](https://news.ycombinator.com/item?id=43400989) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -51,7 +51,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [martijnhols.nl](https://martijnhols.nl/blog/moving-away-from-us-cloud-services): Moving away from US cloud services</small>
 
 
-| 🔥🔥: 553 \| 💬: [352](https://news.ycombinator.com/item?id=43396795) \| 🗓️ 2025-03-18
+| 🔥🔥: 554 \| 💬: [353](https://news.ycombinator.com/item?id=43396795) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -63,7 +63,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [freedom.press](https://freedom.press/issues/wired-is-dropping-paywalls-for-foia-based-reporting-others-should-follow/): Wired is dropping paywalls for FOIA-based reporting. Others should follow</small>
 
 
-| 🔥🔥: 420 \| 💬: [62](https://news.ycombinator.com/item?id=43399138) \| 🗓️ 2025-03-18
+| 🔥🔥: 422 \| 💬: [65](https://news.ycombinator.com/item?id=43399138) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -75,7 +75,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/17/amazon_kills_on_device_alexa/): Amazon to kill off local Alexa processing, all voice requests shipped to cloud</small>
 
 
-| 🔥🔥: 376 \| 💬: [100](https://news.ycombinator.com/item?id=43402115) \| 🗓️ 2025-03-18
+| 🔥🔥: 394 \| 💬: [103](https://news.ycombinator.com/item?id=43402115) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -87,7 +87,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [bluemigrate.com](https://bluemigrate.com): Show HN: I made a tool to port tweets to Bluesky mantaining their original date</small>
 
 
-| 🔥🔥: 266 \| 💬: [100](https://news.ycombinator.com/item?id=43401855) \| 🗓️ 2025-03-18
+| 🔥🔥: 282 \| 💬: [112](https://news.ycombinator.com/item?id=43401855) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -99,7 +99,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [wired.com](https://www.wired.com/story/federal-trade-commission-removed-blogs-critical-of-ai-amazon-microsoft/): FTC Removes Posts Critical of Amazon, Microsoft, and AI Companies</small>
 
 
-| 🔥🔥: 265 \| 💬: [89](https://news.ycombinator.com/item?id=43402957) \| 🗓️ 2025-03-18
+| 🔥🔥: 271 \| 💬: [90](https://news.ycombinator.com/item?id=43402957) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -111,7 +111,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [blog.google](https://blog.google/inside-google/company-announcements/google-agreement-acquire-wiz/): Google announces agreement to acquire Wiz</small>
 
 
-| 🔥🔥: 218 \| 💬: [4](https://news.ycombinator.com/item?id=43398780) \| 🗓️ 2025-03-18
+| 🔥🔥: 219 \| 💬: [4](https://news.ycombinator.com/item?id=43398780) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -123,7 +123,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [vintagedata.org](https://vintagedata.org/blog/posts/model-is-the-product): The model is the product</small>
 
 
-| 🔥🔥: 214 \| 💬: [80](https://news.ycombinator.com/item?id=43397474) \| 🗓️ 2025-03-18
+| 🔥🔥: 215 \| 💬: [80](https://news.ycombinator.com/item?id=43397474) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -147,7 +147,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [kupajo.com](https://kupajo.com/stamina-is-a-quiet-advantage/): Stamina Is a Quiet Advantage</small>
 
 
-| 🔥🔥: 160 \| 💬: [81](https://news.ycombinator.com/item?id=43398589) \| 🗓️ 2025-03-18
+| 🔥🔥: 166 \| 💬: [82](https://news.ycombinator.com/item?id=43398589) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -159,7 +159,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [redhat.com](https://www.redhat.com/en/blog/fedora-42-beta-now-available): Fedora 42 Beta</small>
 
 
-| 🔥🔥: 152 \| 💬: [77](https://news.ycombinator.com/item?id=43401595) \| 🗓️ 2025-03-18
+| 🔥🔥: 159 \| 💬: [78](https://news.ycombinator.com/item?id=43401595) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -171,7 +171,7 @@ Fedora 42 Beta 现已发布，带来了多项新功能和改进。**Anaconda** �
 <small>🔗 [hscott.net](https://www.hscott.net/designing-electronics-that-work/): Designing Electronics That Work</small>
 
 
-| 🔥🔥: 138 \| 💬: [47](https://news.ycombinator.com/item?id=43401179) \| 🗓️ 2025-03-18
+| 🔥🔥: 152 \| 💬: [51](https://news.ycombinator.com/item?id=43401179) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -183,7 +183,7 @@ Fedora 42 Beta 现已发布，带来了多项新功能和改进。**Anaconda** �
 <small>🔗 [joinpeertube.org](https://joinpeertube.org/news/release-7.1): PeerTube v7.1 Is Out</small>
 
 
-| 🔥🔥: 134 \| 💬: [24](https://news.ycombinator.com/item?id=43403377) \| 🗓️ 2025-03-18
+| 🔥🔥: 140 \| 💬: [31](https://news.ycombinator.com/item?id=43403377) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -195,7 +195,7 @@ PeerTube v7.1 正式发布，带来了多项改进。**“关于”页面**经�
 <small>🔗 [store.steampowered.com](https://store.steampowered.com/app/2477290/HalfLife_2_RTX/): Half-Life 2 RTX</small>
 
 
-| 🔥🔥: 132 \| 💬: [80](https://news.ycombinator.com/item?id=43399168) \| 🗓️ 2025-03-18
+| 🔥🔥: 133 \| 💬: [80](https://news.ycombinator.com/item?id=43399168) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -207,7 +207,7 @@ PeerTube v7.1 正式发布，带来了多项改进。**“关于”页面**经�
 <small>🔗 [coindesk.com](https://www.coindesk.com/policy/2025/03/07/here-s-how-north-korea-launders-billions-of-stolen-crypto): North Korea Launders Billions in Stolen Crypto</small>
 
 
-| 🔥🔥: 129 \| 💬: [52](https://news.ycombinator.com/item?id=43399190) \| 🗓️ 2025-03-18
+| 🔥🔥: 132 \| 💬: [52](https://news.ycombinator.com/item?id=43399190) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -219,7 +219,7 @@ PeerTube v7.1 正式发布，带来了多项改进。**“关于”页面**经�
 <small>🔗 [httrack.com](https://www.httrack.com/): HTTrack Website Copier</small>
 
 
-| 🔥🔥: 121 \| 💬: [32](https://news.ycombinator.com/item?id=43402149) \| 🗓️ 2025-03-18
+| 🔥🔥: 127 \| 💬: [33](https://news.ycombinator.com/item?id=43402149) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -227,23 +227,11 @@ HTTrack 是一款**免费开源**的离线浏览器工具，允许用户将整�
 
 ---
 
-## <a name="18"></a>18. Java 24 正式发布 
-<small>🔗 [jdk.java.net](https://jdk.java.net/24/): Java 24</small>
-
-
-| 🔥🔥: 118 \| 💬: [85](https://news.ycombinator.com/item?id=43398999) \| 🗓️ 2025-03-18
-
-
-<br />
-OpenJDK JDK 24 现已推出，提供**开源**的 Java 开发工具包，支持 Java SE 24 平台。用户可下载适用于 Linux、macOS 和 Windows 的构建版本。**商业版本**由 Oracle 提供，需付费使用。文档、API 和反馈渠道均已开放。部分国家因知识产权限制无法访问源代码。
-
----
-
-## <a name="19"></a>19. 预览：DuckDB 中的 Amazon S3 表和 Lakehouse 支持 
+## <a name="18"></a>18. 预览：DuckDB 中的 Amazon S3 表和 Lakehouse 支持 
 <small>🔗 [duckdb.org](https://duckdb.org/2025/03/14/preview-amazon-s3-tables.html): Preview: Amazon S3 Tables and Lakehouse in DuckDB</small>
 
 
-| 🔥🔥: 115 \| 💬: [34](https://news.ycombinator.com/item?id=43401421) \| 🗓️ 2025-03-18
+| 🔥🔥: 124 \| 💬: [34](https://news.ycombinator.com/item?id=43401421) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -251,11 +239,23 @@ DuckDB 宣布推出新预览功能，支持 **Apache Iceberg REST Catalogs**，�
 
 ---
 
+## <a name="19"></a>19. Java 24 正式发布 
+<small>🔗 [jdk.java.net](https://jdk.java.net/24/): Java 24</small>
+
+
+| 🔥🔥: 118 \| 💬: [89](https://news.ycombinator.com/item?id=43398999) \| 🗓️ 2025-03-18
+
+
+<br />
+OpenJDK JDK 24 现已推出，提供**开源**的 Java 开发工具包，支持 Java SE 24 平台。用户可下载适用于 Linux、macOS 和 Windows 的构建版本。**商业版本**由 Oracle 提供，需付费使用。文档、API 和反馈渠道均已开放。部分国家因知识产权限制无法访问源代码。
+
+---
+
 ## <a name="20"></a>20. 比亚迪发布超快充电系统，充电速度堪比加油 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/mar/18/byd-ev-fast-charging-system-petrol-fuel-speed): BYD says new fast-charging system could be as quick as filling up a tank</small>
 
 
-| 🔥🔥: 108 \| 💬: [181](https://news.ycombinator.com/item?id=43396853) \| 🗓️ 2025-03-18
+| 🔥🔥: 108 \| 💬: [182](https://news.ycombinator.com/item?id=43396853) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -267,7 +267,7 @@ DuckDB 宣布推出新预览功能，支持 **Apache Iceberg REST Catalogs**，�
 <small>🔗 [planetscale.com](https://planetscale.com/blog/the-real-fail-rate-of-ebs): The real failure rate of EBS</small>
 
 
-| 🔥: 100 \| 💬: [27](https://news.ycombinator.com/item?id=43399811) \| 🗓️ 2025-03-18
+| 🔥🔥: 101 \| 💬: [27](https://news.ycombinator.com/item?id=43399811) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -279,7 +279,7 @@ PlanetScale通过大规模使用亚马逊**EBS**（弹性块存储）发现，**
 <small>🔗 [gizmodo.com](https://gizmodo.com/tesla-hate-is-making-insurance-more-expensive-for-owners-2000577467): Tesla Hate Is Making Insurance More Expensive for Owners</small>
 
 
-| 🔥: 89 \| 💬: [171](https://news.ycombinator.com/item?id=43402373) \| 🗓️ 2025-03-18
+| 🔥: 90 \| 💬: [171](https://news.ycombinator.com/item?id=43402373) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -291,7 +291,7 @@ PlanetScale通过大规模使用亚马逊**EBS**（弹性块存储）发现，**
 <small>🔗 [blog.smartdec.net](https://blog.smartdec.net/you-do-not-need-blockchain-eight-popular-use-cases-and-why-they-do-not-work-f2ecc6cc2129): You Do Not Need Blockchain: Popular Use Cases and Why They Do Not Work (2019)</small>
 
 
-| 🔥: 84 \| 💬: [119](https://news.ycombinator.com/item?id=43398991) \| 🗓️ 2025-03-18
+| 🔥: 84 \| 💬: [120](https://news.ycombinator.com/item?id=43398991) \| 🗓️ 2025-03-18
 
 
 <br />
