@@ -11,8 +11,8 @@ tags:
 1. 苹果限制Pebble在iPhone上的功能；
 1. 两款全新PebbleOS智能手表发布；
 1. 远离美国云服务：隐私与基础设施的双重挑战；
-1. 《连线》取消基于FOIA报道的付费墙，其他媒体应效仿；
 1. 亚马逊将取消Alexa本地语音处理，所有请求将上传至云端；
+1. 《连线》取消基于FOIA报道的付费墙，其他媒体应效仿；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [ericmigi.com](https://ericmigi.com/blog/apple-restricts-pebble-from-being-awesome-with-iphones/): Apple restricts Pebble from being awesome with iPhones</small>
 
 
-| 🔥🔥: 1279 \| 💬: [792](https://news.ycombinator.com/item?id=43401245) \| 🗓️ 2025-03-18
+| 🔥🔥: 1312 \| 💬: [803](https://news.ycombinator.com/item?id=43401245) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [ericmigi.com](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches/): Two new PebbleOS watches</small>
 
 
-| 🔥🔥: 1167 \| 💬: [376](https://news.ycombinator.com/item?id=43400989) \| 🗓️ 2025-03-18
+| 🔥🔥: 1208 \| 💬: [386](https://news.ycombinator.com/item?id=43400989) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -51,7 +51,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [martijnhols.nl](https://martijnhols.nl/blog/moving-away-from-us-cloud-services): Moving away from US cloud services</small>
 
 
-| 🔥🔥: 556 \| 💬: [353](https://news.ycombinator.com/item?id=43396795) \| 🗓️ 2025-03-18
+| 🔥🔥: 556 \| 💬: [355](https://news.ycombinator.com/item?id=43396795) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -59,23 +59,11 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 
 ---
 
-## <a name="4"></a>4. 《连线》取消基于FOIA报道的付费墙，其他媒体应效仿 
-<small>🔗 [freedom.press](https://freedom.press/issues/wired-is-dropping-paywalls-for-foia-based-reporting-others-should-follow/): Wired is dropping paywalls for FOIA-based reporting. Others should follow</small>
-
-
-| 🔥🔥: 430 \| 💬: [66](https://news.ycombinator.com/item?id=43399138) \| 🗓️ 2025-03-18
-
-
-<br />
-《连线》杂志宣布将停止对基于《信息自由法》（**FOIA**）获取的公共记录报道设置付费墙，以履行其**公民责任**。尽管此举可能影响订阅收入，但长期来看，读者可能会因这种牺牲而增加对媒体的支持。其他媒体也应效仿，公众也应通过订阅支持优质新闻，共同应对当前政府透明度下降的挑战。
-
----
-
-## <a name="5"></a>5. 亚马逊将取消Alexa本地语音处理，所有请求将上传至云端 
+## <a name="4"></a>4. 亚马逊将取消Alexa本地语音处理，所有请求将上传至云端 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/17/amazon_kills_on_device_alexa/): Amazon to kill off local Alexa processing, all voice requests shipped to cloud</small>
 
 
-| 🔥🔥: 430 \| 💬: [113](https://news.ycombinator.com/item?id=43402115) \| 🗓️ 2025-03-18
+| 🔥🔥: 434 \| 💬: [116](https://news.ycombinator.com/item?id=43402115) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -83,11 +71,23 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 
 ---
 
+## <a name="5"></a>5. 《连线》取消基于FOIA报道的付费墙，其他媒体应效仿 
+<small>🔗 [freedom.press](https://freedom.press/issues/wired-is-dropping-paywalls-for-foia-based-reporting-others-should-follow/): Wired is dropping paywalls for FOIA-based reporting. Others should follow</small>
+
+
+| 🔥🔥: 433 \| 💬: [66](https://news.ycombinator.com/item?id=43399138) \| 🗓️ 2025-03-18
+
+
+<br />
+《连线》杂志宣布将停止对基于《信息自由法》（**FOIA**）获取的公共记录报道设置付费墙，以履行其**公民责任**。尽管此举可能影响订阅收入，但长期来看，读者可能会因这种牺牲而增加对媒体的支持。其他媒体也应效仿，公众也应通过订阅支持优质新闻，共同应对当前政府透明度下降的挑战。
+
+---
+
 ## <a name="6"></a>6. 我开发了一个工具，将推文迁移到Bluesky并保留原始日期 
 <small>🔗 [bluemigrate.com](https://bluemigrate.com): Show HN: I made a tool to port tweets to Bluesky mantaining their original date</small>
 
 
-| 🔥🔥: 333 \| 💬: [123](https://news.ycombinator.com/item?id=43401855) \| 🗓️ 2025-03-18
+| 🔥🔥: 342 \| 💬: [129](https://news.ycombinator.com/item?id=43401855) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -99,7 +99,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [wired.com](https://www.wired.com/story/federal-trade-commission-removed-blogs-critical-of-ai-amazon-microsoft/): FTC Removes Posts Critical of Amazon, Microsoft, and AI Companies</small>
 
 
-| 🔥🔥: 283 \| 💬: [96](https://news.ycombinator.com/item?id=43402957) \| 🗓️ 2025-03-18
+| 🔥🔥: 284 \| 💬: [99](https://news.ycombinator.com/item?id=43402957) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -107,7 +107,19 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 
 ---
 
-## <a name="8"></a>8. 谷歌宣布收购Wiz，加强云安全与多云计算能力 
+## <a name="8"></a>8. 通过重新编译使Ubuntu软件包性能提升90% 
+<small>🔗 [gist.github.com](https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097): Make Ubuntu packages 90% faster by rebuilding them</small>
+
+
+| 🔥🔥: 247 \| 💬: [152](https://news.ycombinator.com/item?id=43406710) \| 🗓️ 2025-03-18
+
+
+<br />
+本文介绍了如何通过重新编译Ubuntu中的`jq`软件包，显著提升其性能。作者通过**优化编译标志**、使用**TCMalloc**和**mimalloc**等内存分配器，最终使`jq`的性能提升了近**90%**。特别是使用**mimalloc**后，性能提升尤为显著，处理大文件时速度几乎翻倍。
+
+---
+
+## <a name="9"></a>9. 谷歌宣布收购Wiz，加强云安全与多云计算能力 
 <small>🔗 [blog.google](https://blog.google/inside-google/company-announcements/google-agreement-acquire-wiz/): Google announces agreement to acquire Wiz</small>
 
 
@@ -119,7 +131,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 
 ---
 
-## <a name="9"></a>9. 模型即产品 
+## <a name="10"></a>10. 模型即产品 
 <small>🔗 [vintagedata.org](https://vintagedata.org/blog/posts/model-is-the-product): The model is the product</small>
 
 
@@ -131,23 +143,11 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 
 ---
 
-## <a name="10"></a>10. 通过重新编译使Ubuntu软件包性能提升90% 
-<small>🔗 [gist.github.com](https://gist.github.com/jwbee/7e8b27e298de8bbbf8abfa4c232db097): Make Ubuntu packages 90% faster by rebuilding them</small>
-
-
-| 🔥🔥: 210 \| 💬: [128](https://news.ycombinator.com/item?id=43406710) \| 🗓️ 2025-03-18
-
-
-<br />
-本文介绍了如何通过重新编译Ubuntu中的`jq`软件包，显著提升其性能。作者通过**优化编译标志**、使用**TCMalloc**和**mimalloc**等内存分配器，最终使`jq`的性能提升了近**90%**。特别是使用**mimalloc**后，性能提升尤为显著，处理大文件时速度几乎翻倍。
-
----
-
 ## <a name="11"></a>11. 设计实用的电子产品 
 <small>🔗 [hscott.net](https://www.hscott.net/designing-electronics-that-work/): Designing Electronics That Work</small>
 
 
-| 🔥🔥: 177 \| 💬: [67](https://news.ycombinator.com/item?id=43401179) \| 🗓️ 2025-03-18
+| 🔥🔥: 182 \| 💬: [68](https://news.ycombinator.com/item?id=43401179) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -159,7 +159,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [kupajo.com](https://kupajo.com/stamina-is-a-quiet-advantage/): Stamina Is a Quiet Advantage</small>
 
 
-| 🔥🔥: 176 \| 💬: [86](https://news.ycombinator.com/item?id=43398589) \| 🗓️ 2025-03-18
+| 🔥🔥: 179 \| 💬: [86](https://news.ycombinator.com/item?id=43398589) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -183,7 +183,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [redhat.com](https://www.redhat.com/en/blog/fedora-42-beta-now-available): Fedora 42 Beta</small>
 
 
-| 🔥🔥: 169 \| 💬: [83](https://news.ycombinator.com/item?id=43401595) \| 🗓️ 2025-03-18
+| 🔥🔥: 170 \| 💬: [86](https://news.ycombinator.com/item?id=43401595) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -195,7 +195,7 @@ Fedora 42 Beta 现已发布，带来了多项新功能和改进。**Anaconda** �
 <small>🔗 [joinpeertube.org](https://joinpeertube.org/news/release-7.1): PeerTube v7.1 Is Out</small>
 
 
-| 🔥🔥: 163 \| 💬: [40](https://news.ycombinator.com/item?id=43403377) \| 🗓️ 2025-03-18
+| 🔥🔥: 164 \| 💬: [42](https://news.ycombinator.com/item?id=43403377) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -203,11 +203,23 @@ PeerTube v7.1 正式发布，带来了多项改进。**“关于”页面**经�
 
 ---
 
-## <a name="16"></a>16. 预览：DuckDB 中的 Amazon S3 表和 Lakehouse 支持 
+## <a name="16"></a>16. Git-who：用于大规模代码库的Git责任追踪工具 
+<small>🔗 [github.com](https://github.com/sinclairtarget/git-who): Show HN: "Git who" – A new CLI tool for industrial-scale Git blaming</small>
+
+
+| 🔥🔥: 151 \| 💬: [79](https://news.ycombinator.com/item?id=43404548) \| 🗓️ 2025-03-18
+
+
+<br />
+Git-who 是一个命令行工具，旨在回答“谁写了这段代码？”的问题。与 `git blame` 不同，`git-who` 可以追踪整个组件或子系统的贡献者，而不仅仅是单行代码。它支持**表格**、**树状结构**和**历史图表**三种视图，帮助开发者快速了解代码库中的贡献者分布和修改历史。该工具适用于大规模项目，支持按路径、分支或时间范围过滤结果，并提供多种排序选项。
+
+---
+
+## <a name="17"></a>17. 预览：DuckDB 中的 Amazon S3 表和 Lakehouse 支持 
 <small>🔗 [duckdb.org](https://duckdb.org/2025/03/14/preview-amazon-s3-tables.html): Preview: Amazon S3 Tables and Lakehouse in DuckDB</small>
 
 
-| 🔥🔥: 144 \| 💬: [39](https://news.ycombinator.com/item?id=43401421) \| 🗓️ 2025-03-18
+| 🔥🔥: 148 \| 💬: [39](https://news.ycombinator.com/item?id=43401421) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -215,11 +227,11 @@ DuckDB 宣布推出新预览功能，支持 **Apache Iceberg REST Catalogs**，�
 
 ---
 
-## <a name="17"></a>17. HTTrack 网站复制工具 
+## <a name="18"></a>18. HTTrack 网站复制工具 
 <small>🔗 [httrack.com](https://www.httrack.com/): HTTrack Website Copier</small>
 
 
-| 🔥🔥: 135 \| 💬: [39](https://news.ycombinator.com/item?id=43402149) \| 🗓️ 2025-03-18
+| 🔥🔥: 140 \| 💬: [39](https://news.ycombinator.com/item?id=43402149) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -227,7 +239,7 @@ HTTrack 是一款**免费开源**的离线浏览器工具，允许用户将整�
 
 ---
 
-## <a name="18"></a>18. 半条命2 RTX 
+## <a name="19"></a>19. 半条命2 RTX 
 <small>🔗 [store.steampowered.com](https://store.steampowered.com/app/2477290/HalfLife_2_RTX/): Half-Life 2 RTX</small>
 
 
@@ -239,7 +251,7 @@ HTTrack 是一款**免费开源**的离线浏览器工具，允许用户将整�
 
 ---
 
-## <a name="19"></a>19. 朝鲜通过加密货币洗钱数十亿美元 
+## <a name="20"></a>20. 朝鲜通过加密货币洗钱数十亿美元 
 <small>🔗 [coindesk.com](https://www.coindesk.com/policy/2025/03/07/here-s-how-north-korea-launders-billions-of-stolen-crypto): North Korea Launders Billions in Stolen Crypto</small>
 
 
@@ -248,18 +260,6 @@ HTTrack 是一款**免费开源**的离线浏览器工具，允许用户将整�
 
 <br />
 自2017年以来，朝鲜从加密货币领域窃取了超过**50亿美元**，最近通过Bybit漏洞获取了**15亿美元**。由于金额巨大，朝鲜面临“**脱链**”难题，无法直接将资金转入主流交易所。相反，朝鲜利用**场外交易经纪人网络**进行洗钱，尤其是通过中国、俄罗斯等地的非法渠道。尽管美国、日本和韩国正在监控这些活动，但朝鲜仍难以迅速将资金转换为法定货币。
-
----
-
-## <a name="20"></a>20. Git-who：用于大规模代码库的Git责任追踪工具 
-<small>🔗 [github.com](https://github.com/sinclairtarget/git-who): Show HN: "Git who" – A new CLI tool for industrial-scale Git blaming</small>
-
-
-| 🔥🔥: 134 \| 💬: [76](https://news.ycombinator.com/item?id=43404548) \| 🗓️ 2025-03-18
-
-
-<br />
-Git-who 是一个命令行工具，旨在回答“谁写了这段代码？”的问题。与 `git blame` 不同，`git-who` 可以追踪整个组件或子系统的贡献者，而不仅仅是单行代码。它支持**表格**、**树状结构**和**历史图表**三种视图，帮助开发者快速了解代码库中的贡献者分布和修改历史。该工具适用于大规模项目，支持按路径、分支或时间范围过滤结果，并提供多种排序选项。
 
 ---
 
@@ -279,7 +279,7 @@ OpenJDK JDK 24 现已推出，提供**开源**的 Java 开发工具包，支持 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/mar/18/byd-ev-fast-charging-system-petrol-fuel-speed): BYD says new fast-charging system could be as quick as filling up a tank</small>
 
 
-| 🔥🔥: 108 \| 💬: [183](https://news.ycombinator.com/item?id=43396853) \| 🗓️ 2025-03-18
+| 🔥🔥: 108 \| 💬: [184](https://news.ycombinator.com/item?id=43396853) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -291,7 +291,7 @@ OpenJDK JDK 24 现已推出，提供**开源**的 Java 开发工具包，支持 
 <small>🔗 [planetscale.com](https://planetscale.com/blog/the-real-fail-rate-of-ebs): The real failure rate of EBS</small>
 
 
-| 🔥🔥: 103 \| 💬: [27](https://news.ycombinator.com/item?id=43399811) \| 🗓️ 2025-03-18
+| 🔥🔥: 104 \| 💬: [27](https://news.ycombinator.com/item?id=43399811) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -303,7 +303,7 @@ PlanetScale通过大规模使用亚马逊**EBS**（弹性块存储）发现，**
 <small>🔗 [gizmodo.com](https://gizmodo.com/tesla-hate-is-making-insurance-more-expensive-for-owners-2000577467): Tesla Hate Is Making Insurance More Expensive for Owners</small>
 
 
-| 🔥: 91 \| 💬: [175](https://news.ycombinator.com/item?id=43402373) \| 🗓️ 2025-03-18
+| 🔥: 93 \| 💬: [175](https://news.ycombinator.com/item?id=43402373) \| 🗓️ 2025-03-18
 
 
 <br />
