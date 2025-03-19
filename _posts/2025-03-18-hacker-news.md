@@ -27,7 +27,7 @@ tags:
 <small>🔗 [ericmigi.com](https://ericmigi.com/blog/apple-restricts-pebble-from-being-awesome-with-iphones/): Apple restricts Pebble from being awesome with iPhones</small>
 
 
-| 🔥🔥: 1070 \| 💬: [676](https://news.ycombinator.com/item?id=43401245) \| 🗓️ 2025-03-18
+| 🔥🔥: 1119 \| 💬: [722](https://news.ycombinator.com/item?id=43401245) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [ericmigi.com](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches/): Two new PebbleOS watches</small>
 
 
-| 🔥🔥: 957 \| 💬: [328](https://news.ycombinator.com/item?id=43400989) \| 🗓️ 2025-03-18
+| 🔥🔥: 1003 \| 💬: [350](https://news.ycombinator.com/item?id=43400989) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -51,7 +51,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [martijnhols.nl](https://martijnhols.nl/blog/moving-away-from-us-cloud-services): Moving away from US cloud services</small>
 
 
-| 🔥🔥: 552 \| 💬: [346](https://news.ycombinator.com/item?id=43396795) \| 🗓️ 2025-03-18
+| 🔥🔥: 553 \| 💬: [352](https://news.ycombinator.com/item?id=43396795) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -63,7 +63,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [freedom.press](https://freedom.press/issues/wired-is-dropping-paywalls-for-foia-based-reporting-others-should-follow/): Wired is dropping paywalls for FOIA-based reporting. Others should follow</small>
 
 
-| 🔥🔥: 414 \| 💬: [61](https://news.ycombinator.com/item?id=43399138) \| 🗓️ 2025-03-18
+| 🔥🔥: 420 \| 💬: [62](https://news.ycombinator.com/item?id=43399138) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -75,7 +75,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/17/amazon_kills_on_device_alexa/): Amazon to kill off local Alexa processing, all voice requests shipped to cloud</small>
 
 
-| 🔥🔥: 354 \| 💬: [98](https://news.ycombinator.com/item?id=43402115) \| 🗓️ 2025-03-18
+| 🔥🔥: 376 \| 💬: [100](https://news.ycombinator.com/item?id=43402115) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -83,27 +83,27 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 
 ---
 
-## <a name="6"></a>6. FTC删除批评亚马逊、微软及AI公司的博文 
-<small>🔗 [wired.com](https://www.wired.com/story/federal-trade-commission-removed-blogs-critical-of-ai-amazon-microsoft/): FTC Removes Posts Critical of Amazon, Microsoft, and AI Companies</small>
-
-
-| 🔥🔥: 259 \| 💬: [84](https://news.ycombinator.com/item?id=43402957) \| 🗓️ 2025-03-18
-
-
-<br />
-特朗普政府下的**联邦贸易委员会（FTC）**删除了四年的商业指导博文，包括与**人工智能**相关的消费者保护信息及针对亚马逊、微软等公司的隐私诉讼内容。这些博文曾提供如何避免违反消费者保护法的建议。删除行为引发了对**《联邦记录法》**和《开放政府数据法》的合规担忧。批评者认为，此举主要有利于科技公司，削弱了消费者保护力度。
-
----
-
-## <a name="7"></a>7. 我开发了一个工具，将推文迁移到Bluesky并保留原始日期 
+## <a name="6"></a>6. 我开发了一个工具，将推文迁移到Bluesky并保留原始日期 
 <small>🔗 [bluemigrate.com](https://bluemigrate.com): Show HN: I made a tool to port tweets to Bluesky mantaining their original date</small>
 
 
-| 🔥🔥: 254 \| 💬: [90](https://news.ycombinator.com/item?id=43401855) \| 🗓️ 2025-03-18
+| 🔥🔥: 266 \| 💬: [100](https://news.ycombinator.com/item?id=43401855) \| 🗓️ 2025-03-18
 
 
 <br />
 这款名为**BlueMigrate**的工具，允许用户通过几次点击将推文导入到Bluesky平台，并**保留推文的原始日期**。用户还可以通过支付**9.99美元/周**的费用，将自己的Bluesky个人资料展示在BlueMigrate主页上，吸引更多关注。访问[bluemigrate.com](https://bluemigrate.com)了解更多。
+
+---
+
+## <a name="7"></a>7. FTC删除批评亚马逊、微软及AI公司的博文 
+<small>🔗 [wired.com](https://www.wired.com/story/federal-trade-commission-removed-blogs-critical-of-ai-amazon-microsoft/): FTC Removes Posts Critical of Amazon, Microsoft, and AI Companies</small>
+
+
+| 🔥🔥: 265 \| 💬: [89](https://news.ycombinator.com/item?id=43402957) \| 🗓️ 2025-03-18
+
+
+<br />
+特朗普政府下的**联邦贸易委员会（FTC）**删除了四年的商业指导博文，包括与**人工智能**相关的消费者保护信息及针对亚马逊、微软等公司的隐私诉讼内容。这些博文曾提供如何避免违反消费者保护法的建议。删除行为引发了对**《联邦记录法》**和《开放政府数据法》的合规担忧。批评者认为，此举主要有利于科技公司，削弱了消费者保护力度。
 
 ---
 
@@ -123,7 +123,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [vintagedata.org](https://vintagedata.org/blog/posts/model-is-the-product): The model is the product</small>
 
 
-| 🔥🔥: 209 \| 💬: [79](https://news.ycombinator.com/item?id=43397474) \| 🗓️ 2025-03-18
+| 🔥🔥: 214 \| 💬: [80](https://news.ycombinator.com/item?id=43397474) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -147,7 +147,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [kupajo.com](https://kupajo.com/stamina-is-a-quiet-advantage/): Stamina Is a Quiet Advantage</small>
 
 
-| 🔥🔥: 157 \| 💬: [79](https://news.ycombinator.com/item?id=43398589) \| 🗓️ 2025-03-18
+| 🔥🔥: 160 \| 💬: [81](https://news.ycombinator.com/item?id=43398589) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -159,7 +159,7 @@ rePebble推出两款全新智能手表：**Core 2 Duo**和**Core Time 2**，均�
 <small>🔗 [redhat.com](https://www.redhat.com/en/blog/fedora-42-beta-now-available): Fedora 42 Beta</small>
 
 
-| 🔥🔥: 151 \| 💬: [73](https://news.ycombinator.com/item?id=43401595) \| 🗓️ 2025-03-18
+| 🔥🔥: 152 \| 💬: [77](https://news.ycombinator.com/item?id=43401595) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -167,35 +167,11 @@ Fedora 42 Beta 现已发布，带来了多项新功能和改进。**Anaconda** �
 
 ---
 
-## <a name="13"></a>13. 半条命2 RTX 
-<small>🔗 [store.steampowered.com](https://store.steampowered.com/app/2477290/HalfLife_2_RTX/): Half-Life 2 RTX</small>
-
-
-| 🔥🔥: 131 \| 💬: [80](https://news.ycombinator.com/item?id=43399168) \| 🗓️ 2025-03-18
-
-
-<br />
-该文本介绍了Steam平台上《半条命2 RTX》的相关页面内容，包括**商店**、**社区**和**支持**等主要板块。页面提供了多语言支持，涵盖简体中文、繁体中文、日语、韩语等多种语言。用户可以通过该页面进行游戏购买、社区讨论、技术支持等操作。
-
----
-
-## <a name="14"></a>14. 朝鲜通过加密货币洗钱数十亿美元 
-<small>🔗 [coindesk.com](https://www.coindesk.com/policy/2025/03/07/here-s-how-north-korea-launders-billions-of-stolen-crypto): North Korea Launders Billions in Stolen Crypto</small>
-
-
-| 🔥🔥: 125 \| 💬: [51](https://news.ycombinator.com/item?id=43399190) \| 🗓️ 2025-03-18
-
-
-<br />
-自2017年以来，朝鲜从加密货币领域窃取了超过**50亿美元**，最近通过Bybit漏洞获取了**15亿美元**。由于金额巨大，朝鲜面临“**脱链**”难题，无法直接将资金转入主流交易所。相反，朝鲜利用**场外交易经纪人网络**进行洗钱，尤其是通过中国、俄罗斯等地的非法渠道。尽管美国、日本和韩国正在监控这些活动，但朝鲜仍难以迅速将资金转换为法定货币。
-
----
-
-## <a name="15"></a>15. 设计实用的电子产品 
+## <a name="13"></a>13. 设计实用的电子产品 
 <small>🔗 [hscott.net](https://www.hscott.net/designing-electronics-that-work/): Designing Electronics That Work</small>
 
 
-| 🔥🔥: 125 \| 💬: [42](https://news.ycombinator.com/item?id=43401179) \| 🗓️ 2025-03-18
+| 🔥🔥: 138 \| 💬: [47](https://news.ycombinator.com/item?id=43401179) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -203,11 +179,11 @@ Fedora 42 Beta 现已发布，带来了多项新功能和改进。**Anaconda** �
 
 ---
 
-## <a name="16"></a>16. PeerTube v7.1 发布：全新设计与功能升级 
+## <a name="14"></a>14. PeerTube v7.1 发布：全新设计与功能升级 
 <small>🔗 [joinpeertube.org](https://joinpeertube.org/news/release-7.1): PeerTube v7.1 Is Out</small>
 
 
-| 🔥🔥: 120 \| 💬: [22](https://news.ycombinator.com/item?id=43403377) \| 🗓️ 2025-03-18
+| 🔥🔥: 134 \| 💬: [24](https://news.ycombinator.com/item?id=43403377) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -215,7 +191,43 @@ PeerTube v7.1 正式发布，带来了多项改进。**“关于”页面**经�
 
 ---
 
-## <a name="17"></a>17. Java 24 正式发布 
+## <a name="15"></a>15. 半条命2 RTX 
+<small>🔗 [store.steampowered.com](https://store.steampowered.com/app/2477290/HalfLife_2_RTX/): Half-Life 2 RTX</small>
+
+
+| 🔥🔥: 132 \| 💬: [80](https://news.ycombinator.com/item?id=43399168) \| 🗓️ 2025-03-18
+
+
+<br />
+该文本介绍了Steam平台上《半条命2 RTX》的相关页面内容，包括**商店**、**社区**和**支持**等主要板块。页面提供了多语言支持，涵盖简体中文、繁体中文、日语、韩语等多种语言。用户可以通过该页面进行游戏购买、社区讨论、技术支持等操作。
+
+---
+
+## <a name="16"></a>16. 朝鲜通过加密货币洗钱数十亿美元 
+<small>🔗 [coindesk.com](https://www.coindesk.com/policy/2025/03/07/here-s-how-north-korea-launders-billions-of-stolen-crypto): North Korea Launders Billions in Stolen Crypto</small>
+
+
+| 🔥🔥: 129 \| 💬: [52](https://news.ycombinator.com/item?id=43399190) \| 🗓️ 2025-03-18
+
+
+<br />
+自2017年以来，朝鲜从加密货币领域窃取了超过**50亿美元**，最近通过Bybit漏洞获取了**15亿美元**。由于金额巨大，朝鲜面临“**脱链**”难题，无法直接将资金转入主流交易所。相反，朝鲜利用**场外交易经纪人网络**进行洗钱，尤其是通过中国、俄罗斯等地的非法渠道。尽管美国、日本和韩国正在监控这些活动，但朝鲜仍难以迅速将资金转换为法定货币。
+
+---
+
+## <a name="17"></a>17. HTTrack 网站复制工具 
+<small>🔗 [httrack.com](https://www.httrack.com/): HTTrack Website Copier</small>
+
+
+| 🔥🔥: 121 \| 💬: [32](https://news.ycombinator.com/item?id=43402149) \| 🗓️ 2025-03-18
+
+
+<br />
+HTTrack 是一款**免费开源**的离线浏览器工具，允许用户将整个网站从互联网下载到本地目录，**递归构建**目录结构并获取HTML、图片等文件。它支持更新现有镜像站点和恢复中断的下载，适用于Windows和Linux/Unix/BSD系统。HTTrack 配置灵活，内置帮助系统，适合需要离线浏览网站的用户。
+
+---
+
+## <a name="18"></a>18. Java 24 正式发布 
 <small>🔗 [jdk.java.net](https://jdk.java.net/24/): Java 24</small>
 
 
@@ -227,23 +239,11 @@ OpenJDK JDK 24 现已推出，提供**开源**的 Java 开发工具包，支持 
 
 ---
 
-## <a name="18"></a>18. HTTrack 网站复制工具 
-<small>🔗 [httrack.com](https://www.httrack.com/): HTTrack Website Copier</small>
-
-
-| 🔥🔥: 117 \| 💬: [30](https://news.ycombinator.com/item?id=43402149) \| 🗓️ 2025-03-18
-
-
-<br />
-HTTrack 是一款**免费开源**的离线浏览器工具，允许用户将整个网站从互联网下载到本地目录，**递归构建**目录结构并获取HTML、图片等文件。它支持更新现有镜像站点和恢复中断的下载，适用于Windows和Linux/Unix/BSD系统。HTTrack 配置灵活，内置帮助系统，适合需要离线浏览网站的用户。
-
----
-
 ## <a name="19"></a>19. 预览：DuckDB 中的 Amazon S3 表和 Lakehouse 支持 
 <small>🔗 [duckdb.org](https://duckdb.org/2025/03/14/preview-amazon-s3-tables.html): Preview: Amazon S3 Tables and Lakehouse in DuckDB</small>
 
 
-| 🔥🔥: 113 \| 💬: [33](https://news.ycombinator.com/item?id=43401421) \| 🗓️ 2025-03-18
+| 🔥🔥: 115 \| 💬: [34](https://news.ycombinator.com/item?id=43401421) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -279,7 +279,7 @@ PlanetScale通过大规模使用亚马逊**EBS**（弹性块存储）发现，**
 <small>🔗 [gizmodo.com](https://gizmodo.com/tesla-hate-is-making-insurance-more-expensive-for-owners-2000577467): Tesla Hate Is Making Insurance More Expensive for Owners</small>
 
 
-| 🔥: 88 \| 💬: [172](https://news.ycombinator.com/item?id=43402373) \| 🗓️ 2025-03-18
+| 🔥: 89 \| 💬: [171](https://news.ycombinator.com/item?id=43402373) \| 🗓️ 2025-03-18
 
 
 <br />
@@ -291,7 +291,7 @@ PlanetScale通过大规模使用亚马逊**EBS**（弹性块存储）发现，**
 <small>🔗 [blog.smartdec.net](https://blog.smartdec.net/you-do-not-need-blockchain-eight-popular-use-cases-and-why-they-do-not-work-f2ecc6cc2129): You Do Not Need Blockchain: Popular Use Cases and Why They Do Not Work (2019)</small>
 
 
-| 🔥: 84 \| 💬: [116](https://news.ycombinator.com/item?id=43398991) \| 🗓️ 2025-03-18
+| 🔥: 84 \| 💬: [119](https://news.ycombinator.com/item?id=43398991) \| 🗓️ 2025-03-18
 
 
 <br />
