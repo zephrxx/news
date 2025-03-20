@@ -27,7 +27,7 @@ tags:
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/mar/19/canadian-detained-us-immigration-jasmine-mooney): I'm the Canadian who was detained by ICE for two weeks</small>
 
 
-| 🔥🔥: 774 \| 💬: [675](https://news.ycombinator.com/item?id=43410548) \| 🗓️ 2025-03-19
+| 🔥🔥: 787 \| 💬: [684](https://news.ycombinator.com/item?id=43410548) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/sharkdp/fd): fd: A simple, fast and user-friendly alternative to 'find'</small>
 
 
-| 🔥🔥: 480 \| 💬: [211](https://news.ycombinator.com/item?id=43410692) \| 🗓️ 2025-03-19
+| 🔥🔥: 497 \| 💬: [217](https://news.ycombinator.com/item?id=43410692) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [kasurian.com](https://kasurian.com/p/research-as-leisure): The Lost Art of Research as Leisure</small>
 
 
-| 🔥🔥: 424 \| 💬: [229](https://news.ycombinator.com/item?id=43410061) \| 🗓️ 2025-03-19
+| 🔥🔥: 431 \| 💬: [235](https://news.ycombinator.com/item?id=43410061) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [joe-antognini.github.io](https://joe-antognini.github.io/astronomy/daylight): How fast the days are getting longer</small>
 
 
-| 🔥🔥: 368 \| 💬: [127](https://news.ycombinator.com/item?id=43413935) \| 🗓️ 2025-03-19
+| 🔥🔥: 393 \| 💬: [139](https://news.ycombinator.com/item?id=43413935) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [engadget.com](https://www.engadget.com/big-tech/video-game-workers-in-north-america-now-have-an-industry-wide-union-130024730.html): Video game workers in North America now have an industry-wide union</small>
 
 
-| 🔥🔥: 327 \| 💬: [121](https://news.ycombinator.com/item?id=43411934) \| 🗓️ 2025-03-19
+| 🔥🔥: 335 \| 💬: [128](https://news.ycombinator.com/item?id=43411934) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [developer.chrome.com](https://developer.chrome.com/blog/memory-safety-fonts): Memory safety for web fonts</small>
 
 
-| 🔥🔥: 255 \| 💬: [162](https://news.ycombinator.com/item?id=43413125) \| 🗓️ 2025-03-19
+| 🔥🔥: 263 \| 💬: [168](https://news.ycombinator.com/item?id=43413125) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -99,7 +99,7 @@ Chrome 团队开发了基于 **Rust** 的 **Skrifa** 库，以替代 **FreeType*
 <small>🔗 [ezyang.github.io](https://ezyang.github.io/ai-blindspots/): AI Blindspots – Blindspots in LLMs I've noticed while AI coding</small>
 
 
-| 🔥🔥: 223 \| 💬: [71](https://news.ycombinator.com/item?id=43414393) \| 🗓️ 2025-03-19
+| 🔥🔥: 263 \| 💬: [88](https://news.ycombinator.com/item?id=43414393) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -111,7 +111,7 @@ Chrome 团队开发了基于 **Rust** 的 **Skrifa** 库，以替代 **FreeType*
 <small>🔗 [archaeology.org](https://archaeology.org/issues/march-april-2025/letters-from/on-the-origin-of-the-pork-taboo/): The Origin of the Pork Taboo</small>
 
 
-| 🔥🔥: 203 \| 💬: [217](https://news.ycombinator.com/item?id=43410885) \| 🗓️ 2025-03-19
+| 🔥🔥: 212 \| 💬: [223](https://news.ycombinator.com/item?id=43410885) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -123,7 +123,7 @@ Chrome 团队开发了基于 **Rust** 的 **Skrifa** 库，以替代 **FreeType*
 <small>🔗 [konvajs.org](https://konvajs.org/): Konva.js - Declarative 2D Canvas for React, Vue, and Svelte</small>
 
 
-| 🔥🔥: 195 \| 💬: [62](https://news.ycombinator.com/item?id=43410988) \| 🗓️ 2025-03-19
+| 🔥🔥: 202 \| 💬: [62](https://news.ycombinator.com/item?id=43410988) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -131,7 +131,19 @@ Konva.js 是一个**面向对象的 2D Canvas 框架**，支持多种形状和**
 
 ---
 
-## <a name="10"></a>10. 特斯拉全球市场份额下滑，中国电动车主导市场 
+## <a name="10"></a>10. 供应限制无法解释美国城市房价和数量的增长 
+<small>🔗 [nber.org](https://www.nber.org/papers/w33576): Supply constraints do not explain house price, quantity growth across US cities</small>
+
+
+| 🔥🔥: 126 \| 💬: [191](https://news.ycombinator.com/item?id=43411258) \| 🗓️ 2025-03-19
+
+
+<br />
+研究发现，从2000年到2020年，**收入增长**对房价、住房数量和人口增长的预测作用在不同城市中表现一致，无论其住房供应弹性如何。这一结论在1980年至2020年的数据中也成立，且使用不同弹性测量方法或工具变量后结果依然稳健。研究挑战了传统观点，认为**住房供应限制**对房价差异的解释作用有限，缓解供应限制可能不会显著改善住房可负担性。
+
+---
+
+## <a name="11"></a>11. 特斯拉全球市场份额下滑，中国电动车主导市场 
 <small>🔗 [restofworld.org](https://restofworld.org/2025/tesla-loses-ground-chinese-ev-dominate-global-markets/): Tesla loses ground as Chinese EVs dominate global markets</small>
 
 
@@ -143,23 +155,11 @@ Konva.js 是一个**面向对象的 2D Canvas 框架**，支持多种形状和**
 
 ---
 
-## <a name="11"></a>11. 供应限制无法解释美国城市房价和数量的增长 
-<small>🔗 [nber.org](https://www.nber.org/papers/w33576): Supply constraints do not explain house price, quantity growth across US cities</small>
-
-
-| 🔥🔥: 117 \| 💬: [174](https://news.ycombinator.com/item?id=43411258) \| 🗓️ 2025-03-19
-
-
-<br />
-研究发现，从2000年到2020年，**收入增长**对房价、住房数量和人口增长的预测作用在不同城市中表现一致，无论其住房供应弹性如何。这一结论在1980年至2020年的数据中也成立，且使用不同弹性测量方法或工具变量后结果依然稳健。研究挑战了传统观点，认为**住房供应限制**对房价差异的解释作用有限，缓解供应限制可能不会显著改善住房可负担性。
-
----
-
 ## <a name="12"></a>12. Fauna服务即将关闭 
 <small>🔗 [fauna.com](https://fauna.com/blog/the-future-of-fauna): Fauna Service Winding Down</small>
 
 
-| 🔥🔥: 104 \| 💬: [79](https://news.ycombinator.com/item?id=43414742) \| 🗓️ 2025-03-19
+| 🔥🔥: 111 \| 💬: [81](https://news.ycombinator.com/item?id=43414742) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -167,27 +167,27 @@ Fauna团队宣布将在未来几个月内逐步关闭其服务，原因是**全�
 
 ---
 
-## <a name="13"></a>13. 谷歌支付2800万美元和解歧视诉讼 
-<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/mar/19/google-pay-settle-claims-favoured-white-asian-employees): Google to pay $28M to settle claims it favoured white and Asian employees</small>
-
-
-| 🔥: 98 \| 💬: [127](https://news.ycombinator.com/item?id=43413333) \| 🗓️ 2025-03-19
-
-
-<br />
-谷歌同意支付**2800万美元**，以和解一起集体诉讼。该诉讼指控谷歌在薪酬和职业发展上**偏袒白人和亚裔员工**，而忽视了其他少数族裔员工。诉讼由一名墨西哥裔员工发起，涉及至少6632名加州员工。谷歌否认指控，但表示将继续致力于公平对待所有员工。
-
----
-
-## <a name="14"></a>14. 太空中的波兰饺子 
+## <a name="13"></a>13. 太空中的波兰饺子 
 <small>🔗 [esa.int](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Pierogi_in_space): Pierogi in Space</small>
 
 
-| 🔥: 98 \| 💬: [26](https://news.ycombinator.com/item?id=43416302) \| 🗓️ 2025-03-19
+| 🔥🔥: 111 \| 💬: [32](https://news.ycombinator.com/item?id=43416302) \| 🗓️ 2025-03-19
 
 
 <br />
 欧洲航天局宇航员Sławosz Uznański-Wiśniewski将在Axiom Mission 4任务中，将波兰传统美食**饺子**带入国际空间站。这些饺子经过**冷冻干燥**处理，确保在太空中保存24个月。宇航员希望通过家乡美食提升心理舒适感，并与队友分享波兰文化。
+
+---
+
+## <a name="14"></a>14. 谷歌支付2800万美元和解歧视诉讼 
+<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/mar/19/google-pay-settle-claims-favoured-white-asian-employees): Google to pay $28M to settle claims it favoured white and Asian employees</small>
+
+
+| 🔥: 99 \| 💬: [128](https://news.ycombinator.com/item?id=43413333) \| 🗓️ 2025-03-19
+
+
+<br />
+谷歌同意支付**2800万美元**，以和解一起集体诉讼。该诉讼指控谷歌在薪酬和职业发展上**偏袒白人和亚裔员工**，而忽视了其他少数族裔员工。诉讼由一名墨西哥裔员工发起，涉及至少6632名加州员工。谷歌否认指控，但表示将继续致力于公平对待所有员工。
 
 ---
 
@@ -203,35 +203,11 @@ Fauna团队宣布将在未来几个月内逐步关闭其服务，原因是**全�
 
 ---
 
-## <a name="16"></a>16. Ikemen-GO：开源MUGEN引擎重制版 
-<small>🔗 [github.com](https://github.com/ikemen-engine/Ikemen-GO): Ikemen-GO: open-source reimplementation of MUGEN</small>
-
-
-| 🔥: 86 \| 💬: [13](https://news.ycombinator.com/item?id=43411755) \| 🗓️ 2025-03-19
-
-
-<br />
-Ikemen-GO是一款**开源**的格斗游戏引擎，支持MUGEN资源，使用Google的**Go语言**编写。它完全重写了之前的Ikemen引擎，旨在与MUGEN 1.1 Beta版本保持兼容，同时扩展了多项新功能。提供Windows、macOS和Linux的预编译版本，开发者可通过Docker跨平台编译。项目采用**MIT许可证**，部分非代码资源使用CC-BY 3.0许可。
-
----
-
-## <a name="17"></a>17. 从半个世纪的康威生命游戏中学到的创新启示 
-<small>🔗 [writings.stephenwolfram.com](https://writings.stephenwolfram.com/2025/03/what-can-we-learn-about-engineering-and-innovation-from-half-a-century-of-the-game-of-life-cellular-automaton/): Learning about Innovation from Half a Century of Conway's Game of Life</small>
-
-
-| 🔥: 84 \| 💬: [50](https://news.ycombinator.com/item?id=43410349) \| 🗓️ 2025-03-19
-
-
-<br />
-康威生命游戏作为一种**细胞自动机**，展示了**创新**与**工程**的独特结合。通过研究其六十年来的发展，我们可以看到**人类努力**与**自动化探索**如何共同推动技术进步。从简单的振荡器到复杂的图灵机模拟，生命游戏揭示了创新过程中的**计算不可约性**与**可还原性**的平衡。
-
----
-
-## <a name="18"></a>18. 将笔记本重构为可重用的Python程序 
+## <a name="16"></a>16. 将笔记本重构为可重用的Python程序 
 <small>🔗 [marimo.io](https://marimo.io/blog/python-not-json): Notebooks as reusable Python programs</small>
 
 
-| 🔥: 81 \| 💬: [39](https://news.ycombinator.com/item?id=43415477) \| 🗓️ 2025-03-19
+| 🔥: 91 \| 💬: [43](https://news.ycombinator.com/item?id=43415477) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -239,11 +215,35 @@ Ikemen-GO是一款**开源**的格斗游戏引擎，支持MUGEN资源，使用Go
 
 ---
 
+## <a name="17"></a>17. Ikemen-GO：开源MUGEN引擎重制版 
+<small>🔗 [github.com](https://github.com/ikemen-engine/Ikemen-GO): Ikemen-GO: open-source reimplementation of MUGEN</small>
+
+
+| 🔥: 87 \| 💬: [13](https://news.ycombinator.com/item?id=43411755) \| 🗓️ 2025-03-19
+
+
+<br />
+Ikemen-GO是一款**开源**的格斗游戏引擎，支持MUGEN资源，使用Google的**Go语言**编写。它完全重写了之前的Ikemen引擎，旨在与MUGEN 1.1 Beta版本保持兼容，同时扩展了多项新功能。提供Windows、macOS和Linux的预编译版本，开发者可通过Docker跨平台编译。项目采用**MIT许可证**，部分非代码资源使用CC-BY 3.0许可。
+
+---
+
+## <a name="18"></a>18. 从半个世纪的康威生命游戏中学到的创新启示 
+<small>🔗 [writings.stephenwolfram.com](https://writings.stephenwolfram.com/2025/03/what-can-we-learn-about-engineering-and-innovation-from-half-a-century-of-the-game-of-life-cellular-automaton/): Learning about Innovation from Half a Century of Conway's Game of Life</small>
+
+
+| 🔥: 85 \| 💬: [50](https://news.ycombinator.com/item?id=43410349) \| 🗓️ 2025-03-19
+
+
+<br />
+康威生命游戏作为一种**细胞自动机**，展示了**创新**与**工程**的独特结合。通过研究其六十年来的发展，我们可以看到**人类努力**与**自动化探索**如何共同推动技术进步。从简单的振荡器到复杂的图灵机模拟，生命游戏揭示了创新过程中的**计算不可约性**与**可还原性**的平衡。
+
+---
+
 ## <a name="19"></a>19. 美国老龄化工人：退休是遥不可及的梦 
 <small>🔗 [time.com](https://time.com/7260357/aging-workforce/): For Many of America's Aging Workers, 'Retirement Is a Distant Dream'</small>
 
 
-| 🔥: 79 \| 💬: [41](https://news.ycombinator.com/item?id=43415756) \| 🗓️ 2025-03-19
+| 🔥: 81 \| 💬: [44](https://news.ycombinator.com/item?id=43415756) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -255,7 +255,7 @@ Ikemen-GO是一款**开源**的格斗游戏引擎，支持MUGEN资源，使用Go
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2503.14393): The clustering behavior of sliding windows</small>
 
 
-| 🔥: 75 \| 💬: [12](https://news.ycombinator.com/item?id=43411898) \| 🗓️ 2025-03-19
+| 🔥: 80 \| 💬: [12](https://news.ycombinator.com/item?id=43411898) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -267,7 +267,7 @@ Ikemen-GO是一款**开源**的格斗游戏引擎，支持MUGEN资源，使用Go
 <small>🔗 [zbeegnew.dev](https://www.zbeegnew.dev/tech/build_your_own_ai_coding_assistant_a_cost-effective_alternative_to_cursor/): Hacking Your Own AI Coding Assistant with Claude Pro and MCP</small>
 
 
-| 🔥: 71 \| 💬: [42](https://news.ycombinator.com/item?id=43410866) \| 🗓️ 2025-03-19
+| 🔥: 75 \| 💬: [42](https://news.ycombinator.com/item?id=43410866) \| 🗓️ 2025-03-19
 
 
 <br />
