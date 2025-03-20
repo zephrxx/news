@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共22条，具体内容您往下读...
+总共23条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/mar/19/canadian-detained-us-immigration-jasmine-mooney): I'm the Canadian who was detained by ICE for two weeks</small>
 
 
-| 🔥🔥: 787 \| 💬: [684](https://news.ycombinator.com/item?id=43410548) \| 🗓️ 2025-03-19
+| 🔥🔥: 801 \| 💬: [690](https://news.ycombinator.com/item?id=43410548) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/sharkdp/fd): fd: A simple, fast and user-friendly alternative to 'find'</small>
 
 
-| 🔥🔥: 497 \| 💬: [217](https://news.ycombinator.com/item?id=43410692) \| 🗓️ 2025-03-19
+| 🔥🔥: 520 \| 💬: [221](https://news.ycombinator.com/item?id=43410692) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [kasurian.com](https://kasurian.com/p/research-as-leisure): The Lost Art of Research as Leisure</small>
 
 
-| 🔥🔥: 431 \| 💬: [235](https://news.ycombinator.com/item?id=43410061) \| 🗓️ 2025-03-19
+| 🔥🔥: 443 \| 💬: [241](https://news.ycombinator.com/item?id=43410061) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [joe-antognini.github.io](https://joe-antognini.github.io/astronomy/daylight): How fast the days are getting longer</small>
 
 
-| 🔥🔥: 393 \| 💬: [139](https://news.ycombinator.com/item?id=43413935) \| 🗓️ 2025-03-19
+| 🔥🔥: 413 \| 💬: [148](https://news.ycombinator.com/item?id=43413935) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [engadget.com](https://www.engadget.com/big-tech/video-game-workers-in-north-america-now-have-an-industry-wide-union-130024730.html): Video game workers in North America now have an industry-wide union</small>
 
 
-| 🔥🔥: 335 \| 💬: [128](https://news.ycombinator.com/item?id=43411934) \| 🗓️ 2025-03-19
+| 🔥🔥: 340 \| 💬: [128](https://news.ycombinator.com/item?id=43411934) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -83,23 +83,11 @@ tags:
 
 ---
 
-## <a name="6"></a>6. Chrome 采用 Rust 编写的 Skrifa 提升字体处理安全性 
-<small>🔗 [developer.chrome.com](https://developer.chrome.com/blog/memory-safety-fonts): Memory safety for web fonts</small>
-
-
-| 🔥🔥: 263 \| 💬: [168](https://news.ycombinator.com/item?id=43413125) \| 🗓️ 2025-03-19
-
-
-<br />
-Chrome 团队开发了基于 **Rust** 的 **Skrifa** 库，以替代 **FreeType**，提升字体处理的安全性。Rust 的内存安全特性减少了安全漏洞，加快了更新速度。通过逐步替换 FreeType，Chrome 在 Linux、Android 和 ChromeOS 上实现了更安全的字体处理，未来还将扩展到系统字体。
-
----
-
-## <a name="7"></a>7. AI盲点——我在AI编码中注意到的大语言模型盲点 
+## <a name="6"></a>6. AI盲点——我在AI编码中注意到的大语言模型盲点 
 <small>🔗 [ezyang.github.io](https://ezyang.github.io/ai-blindspots/): AI Blindspots – Blindspots in LLMs I've noticed while AI coding</small>
 
 
-| 🔥🔥: 263 \| 💬: [88](https://news.ycombinator.com/item?id=43414393) \| 🗓️ 2025-03-19
+| 🔥🔥: 288 \| 💬: [106](https://news.ycombinator.com/item?id=43414393) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -107,11 +95,23 @@ Chrome 团队开发了基于 **Rust** 的 **Skrifa** 库，以替代 **FreeType*
 
 ---
 
+## <a name="7"></a>7. Chrome 采用 Rust 编写的 Skrifa 提升字体处理安全性 
+<small>🔗 [developer.chrome.com](https://developer.chrome.com/blog/memory-safety-fonts): Memory safety for web fonts</small>
+
+
+| 🔥🔥: 267 \| 💬: [176](https://news.ycombinator.com/item?id=43413125) \| 🗓️ 2025-03-19
+
+
+<br />
+Chrome 团队开发了基于 **Rust** 的 **Skrifa** 库，以替代 **FreeType**，提升字体处理的安全性。Rust 的内存安全特性减少了安全漏洞，加快了更新速度。通过逐步替换 FreeType，Chrome 在 Linux、Android 和 ChromeOS 上实现了更安全的字体处理，未来还将扩展到系统字体。
+
+---
+
 ## <a name="8"></a>8. 猪肉禁忌的起源 
 <small>🔗 [archaeology.org](https://archaeology.org/issues/march-april-2025/letters-from/on-the-origin-of-the-pork-taboo/): The Origin of the Pork Taboo</small>
 
 
-| 🔥🔥: 212 \| 💬: [223](https://news.ycombinator.com/item?id=43410885) \| 🗓️ 2025-03-19
+| 🔥🔥: 219 \| 💬: [236](https://news.ycombinator.com/item?id=43410885) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -123,7 +123,7 @@ Chrome 团队开发了基于 **Rust** 的 **Skrifa** 库，以替代 **FreeType*
 <small>🔗 [konvajs.org](https://konvajs.org/): Konva.js - Declarative 2D Canvas for React, Vue, and Svelte</small>
 
 
-| 🔥🔥: 202 \| 💬: [62](https://news.ycombinator.com/item?id=43410988) \| 🗓️ 2025-03-19
+| 🔥🔥: 207 \| 💬: [63](https://news.ycombinator.com/item?id=43410988) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -135,7 +135,7 @@ Konva.js 是一个**面向对象的 2D Canvas 框架**，支持多种形状和**
 <small>🔗 [nber.org](https://www.nber.org/papers/w33576): Supply constraints do not explain house price, quantity growth across US cities</small>
 
 
-| 🔥🔥: 126 \| 💬: [191](https://news.ycombinator.com/item?id=43411258) \| 🗓️ 2025-03-19
+| 🔥🔥: 141 \| 💬: [206](https://news.ycombinator.com/item?id=43411258) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -143,7 +143,19 @@ Konva.js 是一个**面向对象的 2D Canvas 框架**，支持多种形状和**
 
 ---
 
-## <a name="11"></a>11. 特斯拉全球市场份额下滑，中国电动车主导市场 
+## <a name="11"></a>11. 太空中的波兰饺子 
+<small>🔗 [esa.int](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Pierogi_in_space): Pierogi in Space</small>
+
+
+| 🔥🔥: 121 \| 💬: [35](https://news.ycombinator.com/item?id=43416302) \| 🗓️ 2025-03-19
+
+
+<br />
+欧洲航天局宇航员Sławosz Uznański-Wiśniewski将在Axiom Mission 4任务中，将波兰传统美食**饺子**带入国际空间站。这些饺子经过**冷冻干燥**处理，确保在太空中保存24个月。宇航员希望通过家乡美食提升心理舒适感，并与队友分享波兰文化。
+
+---
+
+## <a name="12"></a>12. 特斯拉全球市场份额下滑，中国电动车主导市场 
 <small>🔗 [restofworld.org](https://restofworld.org/2025/tesla-loses-ground-chinese-ev-dominate-global-markets/): Tesla loses ground as Chinese EVs dominate global markets</small>
 
 
@@ -155,11 +167,11 @@ Konva.js 是一个**面向对象的 2D Canvas 框架**，支持多种形状和**
 
 ---
 
-## <a name="12"></a>12. Fauna服务即将关闭 
+## <a name="13"></a>13. Fauna服务即将关闭 
 <small>🔗 [fauna.com](https://fauna.com/blog/the-future-of-fauna): Fauna Service Winding Down</small>
 
 
-| 🔥🔥: 111 \| 💬: [81](https://news.ycombinator.com/item?id=43414742) \| 🗓️ 2025-03-19
+| 🔥🔥: 113 \| 💬: [81](https://news.ycombinator.com/item?id=43414742) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -167,23 +179,11 @@ Fauna团队宣布将在未来几个月内逐步关闭其服务，原因是**全�
 
 ---
 
-## <a name="13"></a>13. 太空中的波兰饺子 
-<small>🔗 [esa.int](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Pierogi_in_space): Pierogi in Space</small>
-
-
-| 🔥🔥: 111 \| 💬: [32](https://news.ycombinator.com/item?id=43416302) \| 🗓️ 2025-03-19
-
-
-<br />
-欧洲航天局宇航员Sławosz Uznański-Wiśniewski将在Axiom Mission 4任务中，将波兰传统美食**饺子**带入国际空间站。这些饺子经过**冷冻干燥**处理，确保在太空中保存24个月。宇航员希望通过家乡美食提升心理舒适感，并与队友分享波兰文化。
-
----
-
 ## <a name="14"></a>14. 谷歌支付2800万美元和解歧视诉讼 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/mar/19/google-pay-settle-claims-favoured-white-asian-employees): Google to pay $28M to settle claims it favoured white and Asian employees</small>
 
 
-| 🔥: 99 \| 💬: [128](https://news.ycombinator.com/item?id=43413333) \| 🗓️ 2025-03-19
+| 🔥: 100 \| 💬: [130](https://news.ycombinator.com/item?id=43413333) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -195,7 +195,7 @@ Fauna团队宣布将在未来几个月内逐步关闭其服务，原因是**全�
 <small>🔗 [nuage.quimerch.com](https://nuage.quimerch.com/-/ewen/articles/chrome-disabling-ublock-origin-is-a-serious-security-threat): Chrome disabling uBlock Origin is a serious security threat</small>
 
 
-| 🔥: 93 \| 💬: [79](https://news.ycombinator.com/item?id=43409838) \| 🗓️ 2025-03-19
+| 🔥: 94 \| 💬: [79](https://news.ycombinator.com/item?id=43409838) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -207,7 +207,7 @@ Fauna团队宣布将在未来几个月内逐步关闭其服务，原因是**全�
 <small>🔗 [marimo.io](https://marimo.io/blog/python-not-json): Notebooks as reusable Python programs</small>
 
 
-| 🔥: 91 \| 💬: [43](https://news.ycombinator.com/item?id=43415477) \| 🗓️ 2025-03-19
+| 🔥: 91 \| 💬: [47](https://news.ycombinator.com/item?id=43415477) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -219,7 +219,7 @@ Fauna团队宣布将在未来几个月内逐步关闭其服务，原因是**全�
 <small>🔗 [github.com](https://github.com/ikemen-engine/Ikemen-GO): Ikemen-GO: open-source reimplementation of MUGEN</small>
 
 
-| 🔥: 87 \| 💬: [13](https://news.ycombinator.com/item?id=43411755) \| 🗓️ 2025-03-19
+| 🔥: 88 \| 💬: [13](https://news.ycombinator.com/item?id=43411755) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -231,7 +231,7 @@ Ikemen-GO是一款**开源**的格斗游戏引擎，支持MUGEN资源，使用Go
 <small>🔗 [writings.stephenwolfram.com](https://writings.stephenwolfram.com/2025/03/what-can-we-learn-about-engineering-and-innovation-from-half-a-century-of-the-game-of-life-cellular-automaton/): Learning about Innovation from Half a Century of Conway's Game of Life</small>
 
 
-| 🔥: 85 \| 💬: [50](https://news.ycombinator.com/item?id=43410349) \| 🗓️ 2025-03-19
+| 🔥: 86 \| 💬: [50](https://news.ycombinator.com/item?id=43410349) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -239,23 +239,11 @@ Ikemen-GO是一款**开源**的格斗游戏引擎，支持MUGEN资源，使用Go
 
 ---
 
-## <a name="19"></a>19. 美国老龄化工人：退休是遥不可及的梦 
-<small>🔗 [time.com](https://time.com/7260357/aging-workforce/): For Many of America's Aging Workers, 'Retirement Is a Distant Dream'</small>
-
-
-| 🔥: 81 \| 💬: [44](https://news.ycombinator.com/item?id=43415756) \| 🗓️ 2025-03-19
-
-
-<br />
-随着美国人口老龄化加剧，越来越多的老年人不得不继续工作以维持生计。**69岁的Walter Carpenter**在滑雪度假村工作，尽管身体不适，仍无法退休，因为他几乎没有退休储蓄。**约19%的65岁以上美国人仍在工作**，这一比例比40年前翻了一番。许多人因**通货膨胀、低工资和缺乏养老金**而无法退休，导致退休梦想变得遥不可及。
-
----
-
-## <a name="20"></a>20. 滑动窗口聚类行为的异常现象 
+## <a name="19"></a>19. 滑动窗口聚类行为的异常现象 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2503.14393): The clustering behavior of sliding windows</small>
 
 
-| 🔥: 80 \| 💬: [12](https://news.ycombinator.com/item?id=43411898) \| 🗓️ 2025-03-19
+| 🔥: 81 \| 💬: [14](https://news.ycombinator.com/item?id=43411898) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -263,11 +251,35 @@ Ikemen-GO是一款**开源**的格斗游戏引擎，支持MUGEN资源，使用Go
 
 ---
 
-## <a name="21"></a>21. 用Claude Pro和MCP打造你的AI编程助手 
+## <a name="20"></a>20. 美国老龄化工人：退休是遥不可及的梦 
+<small>🔗 [time.com](https://time.com/7260357/aging-workforce/): For Many of America's Aging Workers, 'Retirement Is a Distant Dream'</small>
+
+
+| 🔥: 81 \| 💬: [45](https://news.ycombinator.com/item?id=43415756) \| 🗓️ 2025-03-19
+
+
+<br />
+随着美国人口老龄化加剧，越来越多的老年人不得不继续工作以维持生计。**69岁的Walter Carpenter**在滑雪度假村工作，尽管身体不适，仍无法退休，因为他几乎没有退休储蓄。**约19%的65岁以上美国人仍在工作**，这一比例比40年前翻了一番。许多人因**通货膨胀、低工资和缺乏养老金**而无法退休，导致退休梦想变得遥不可及。
+
+---
+
+## <a name="21"></a>21. 法国研究员因批评特朗普政策被美国拒绝入境 
+<small>🔗 [lemonde.fr](https://www.lemonde.fr/international/article/2025/03/19/etats-unis-un-chercheur-francais-refoule-pour-avoir-exprime-une-opinion-personnelle-sur-la-politique-menee-par-l-administration-trump_6583618_3210.html): French researcher denied entry for a personal opinion on Trump administration</small>
+
+
+| 🔥: 79 \| 💬: [27](https://news.ycombinator.com/item?id=43416476) \| 🗓️ 2025-03-19
+
+
+<br />
+一名法国研究员因在个人通讯中表达了对**特朗普政府科研政策**的批评，被美国海关拒绝入境并遣返。该研究员原计划参加休斯顿附近的学术会议，但在入境时被随机检查，手机和电脑被搜查，发现其批评特朗普的言论。法国政府对此表示遗憾，强调**学术自由**和**言论自由**的重要性。美国海关未对此事作出回应。
+
+---
+
+## <a name="22"></a>22. 用Claude Pro和MCP打造你的AI编程助手 
 <small>🔗 [zbeegnew.dev](https://www.zbeegnew.dev/tech/build_your_own_ai_coding_assistant_a_cost-effective_alternative_to_cursor/): Hacking Your Own AI Coding Assistant with Claude Pro and MCP</small>
 
 
-| 🔥: 75 \| 💬: [42](https://news.ycombinator.com/item?id=43410866) \| 🗓️ 2025-03-19
+| 🔥: 76 \| 💬: [42](https://news.ycombinator.com/item?id=43410866) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -275,7 +287,7 @@ Ikemen-GO是一款**开源**的格斗游戏引擎，支持MUGEN资源，使用Go
 
 ---
 
-## <a name="22"></a>22. 特斯拉将如何走向灭亡 
+## <a name="23"></a>23. 特斯拉将如何走向灭亡 
 <small>🔗 [planetearthandbeyond.co](https://www.planetearthandbeyond.co/p/this-is-how-tesla-will-die): Tesla Will Die</small>
 
 
