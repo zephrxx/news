@@ -12,11 +12,11 @@ tags:
 1. Claude 现已支持网页搜索；
 1. 前端技术的无尽循环；
 1. 荷兰议会呼吁放弃美国技术，转向本土替代方案；
-1. 填补空白：CSS中绘制分隔线的新方法；
+1. 科技行业的“榨干机器”；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共15条，具体内容您往下读...
+总共20条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [thelibre.news](https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/): FOSS infrastructure is under attack by AI companies</small>
 
 
-| 🔥🔥: 846 \| 💬: [525](https://news.ycombinator.com/item?id=43422413) \| 🗓️ 2025-03-20
+| 🔥🔥: 858 \| 💬: [542](https://news.ycombinator.com/item?id=43422413) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/web-search): Claude can now search the web</small>
 
 
-| 🔥🔥: 511 \| 💬: [262](https://news.ycombinator.com/item?id=43425655) \| 🗓️ 2025-03-20
+| 🔥🔥: 595 \| 💬: [295](https://news.ycombinator.com/item?id=43425655) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -51,7 +51,7 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 <small>🔗 [polotek.net](https://polotek.net/posts/the-frontend-treadmill/): The Frontend Treadmill</small>
 
 
-| 🔥🔥: 312 \| 💬: [367](https://news.ycombinator.com/item?id=43422162) \| 🗓️ 2025-03-20
+| 🔥🔥: 344 \| 💬: [391](https://news.ycombinator.com/item?id=43422162) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -63,7 +63,7 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/19/dutch_parliament_us_tech/): Dutch Parliament: Time to ditch US tech for homegrown options</small>
 
 
-| 🔥🔥: 310 \| 💬: [255](https://news.ycombinator.com/item?id=43421902) \| 🗓️ 2025-03-20
+| 🔥🔥: 312 \| 💬: [260](https://news.ycombinator.com/item?id=43421902) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -71,11 +71,23 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 
 ---
 
-## <a name="5"></a>5. 填补空白：CSS中绘制分隔线的新方法 
+## <a name="5"></a>5. 科技行业的“榨干机器” 
+<small>🔗 [unionize.fyi](https://unionize.fyi): The Burnout Machine</small>
+
+
+| 🔥🔥: 275 \| 💬: [177](https://news.ycombinator.com/item?id=43427002) \| 🗓️ 2025-03-20
+
+
+<br />
+科技行业以“梦想工作”为幌子，实则是一个**压榨机器**，吞噬开发者、系统管理员和信息安全专家，导致**职业倦怠**和焦虑。所谓的“敏捷开发”被扭曲为管理层施压的工具，而**职业安全感**几乎为零。文章呼吁科技从业者**组织工会**，争取更好的工作条件和伦理决策权，打破这种恶性循环。
+
+---
+
+## <a name="6"></a>6. 填补空白：CSS中绘制分隔线的新方法 
 <small>🔗 [blogs.windows.com](https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/): Minding the gaps: A new way to draw separators in CSS</small>
 
 
-| 🔥🔥: 220 \| 💬: [82](https://news.ycombinator.com/item?id=43420683) \| 🗓️ 2025-03-20
+| 🔥🔥: 225 \| 💬: [82](https://news.ycombinator.com/item?id=43420683) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -83,11 +95,11 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 
 ---
 
-## <a name="6"></a>6. 2的幂次方且所有数字均为偶数 
+## <a name="7"></a>7. 2的幂次方且所有数字均为偶数 
 <small>🔗 [oeis.org](https://oeis.org/A068994): Powers of 2 with all even digits</small>
 
 
-| 🔥🔥: 189 \| 💬: [86](https://news.ycombinator.com/item?id=43421934) \| 🗓️ 2025-03-20
+| 🔥🔥: 200 \| 💬: [93](https://news.ycombinator.com/item?id=43421934) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -95,27 +107,15 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 
 ---
 
-## <a name="7"></a>7. CVE-2024-54471：macOS 密码泄露漏洞 
+## <a name="8"></a>8. CVE-2024-54471：macOS 密码泄露漏洞 
 <small>🔗 [wts.dev](https://wts.dev/posts/password-leak/): CVE-2024-54471: Leaking Passwords (and More!) on macOS</small>
 
 
-| 🔥🔥: 165 \| 💬: [31](https://news.ycombinator.com/item?id=43425605) \| 🗓️ 2025-03-20
+| 🔥🔥: 197 \| 💬: [32](https://news.ycombinator.com/item?id=43425605) \| 🗓️ 2025-03-20
 
 
 <br />
 本文详细介绍了 **CVE-2024-54471** 漏洞，该漏洞已在 macOS Sequoia 15.1、Sonoma 14.7.1 和 Ventura 13.7.1 中修复。漏洞涉及 **Mach 内核**的 **MIG 服务器**，攻击者可通过获取发送权限调用远程例程，导致密码等敏感信息泄露。文章还探讨了 Mach 内核的历史、架构及其在现代 macOS 中的应用。
-
----
-
-## <a name="8"></a>8. 科技行业的“榨干机器” 
-<small>🔗 [unionize.fyi](https://unionize.fyi): The Burnout Machine</small>
-
-
-| 🔥🔥: 165 \| 💬: [99](https://news.ycombinator.com/item?id=43427002) \| 🗓️ 2025-03-20
-
-
-<br />
-科技行业以“梦想工作”为幌子，实则是一个**压榨机器**，吞噬开发者、系统管理员和信息安全专家，导致**职业倦怠**和焦虑。所谓的“敏捷开发”被扭曲为管理层施压的工具，而**职业安全感**几乎为零。文章呼吁科技从业者**组织工会**，争取更好的工作条件和伦理决策权，打破这种恶性循环。
 
 ---
 
@@ -135,7 +135,7 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 <small>🔗 [acarsdrama.com](https://acarsdrama.com/): ACARS Drama</small>
 
 
-| 🔥🔥: 147 \| 💬: [64](https://news.ycombinator.com/item?id=43424065) \| 🗓️ 2025-03-20
+| 🔥🔥: 153 \| 💬: [68](https://news.ycombinator.com/item?id=43424065) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -147,7 +147,7 @@ ACARS戏剧是一个通过**ACARS**和**VDLM2**信号捕捉飞机通信数据的
 <small>🔗 [construction-physics.com](https://www.construction-physics.com/p/understanding-solar-energy): Understanding Solar Energy</small>
 
 
-| 🔥🔥: 140 \| 💬: [99](https://news.ycombinator.com/item?id=43422033) \| 🗓️ 2025-03-20
+| 🔥🔥: 149 \| 💬: [103](https://news.ycombinator.com/item?id=43422033) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -159,7 +159,7 @@ ACARS戏剧是一个通过**ACARS**和**VDLM2**信号捕捉飞机通信数据的
 <small>🔗 [mexicocitywater.longlead.com](https://mexicocitywater.longlead.com): The Last Drops of Mexico City</small>
 
 
-| 🔥🔥: 138 \| 💬: [120](https://news.ycombinator.com/item?id=43423032) \| 🗓️ 2025-03-20
+| 🔥🔥: 143 \| 💬: [130](https://news.ycombinator.com/item?id=43423032) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -171,7 +171,7 @@ ACARS戏剧是一个通过**ACARS**和**VDLM2**信号捕捉飞机通信数据的
 <small>🔗 [eso.org](https://www.eso.org/public/news/eso2507/): Oxygen discovered in most distant known galaxy</small>
 
 
-| 🔥🔥: 118 \| 💬: [86](https://news.ycombinator.com/item?id=43422909) \| 🗓️ 2025-03-20
+| 🔥🔥: 131 \| 💬: [102](https://news.ycombinator.com/item?id=43422909) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -200,5 +200,65 @@ ACARS戏剧是一个通过**ACARS**和**VDLM2**信号捕捉飞机通信数据的
 
 <br />
 特斯拉宣布在美国召回**46,096辆Cybertruck**，原因是**不锈钢外部装饰面板**可能脱落，存在安全隐患。特斯拉将免费更换相关部件。此次召回是Cybertruck自去年以来的一系列问题之一。尽管特斯拉在2024年召回数量占美国市场的21%，但大多数问题通过**OTA软件更新**解决。
+
+---
+
+## <a name="16"></a>16. 欧盟向苹果发出首份DMA互操作性指令 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/19/eu-sends-apple-first-dma-interoperability-instructions-for-apps-and-connected-devices/): EU sends Apple first DMA interoperability instructions for apps and devices</small>
+
+
+| 🔥🔥: 103 \| 💬: [128](https://news.ycombinator.com/item?id=43421740) \| 🗓️ 2025-03-20
+
+
+<br />
+欧盟已向苹果发出初步指令，要求其遵守《数字市场法》（DMA）中的互操作性规定。**苹果需开放九项iOS连接功能**，如NFC和Wi-Fi点对点连接，以便第三方设备和应用更好地与iPhone兼容。此举可能让Android设备支持AirDrop等功能。苹果对此表示不满，认为DMA限制了其创新能力，并可能威胁用户隐私。
+
+---
+
+## <a name="17"></a>17. ChatGPT因虚假信息生成面临隐私投诉 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/19/chatgpt-hit-with-privacy-complaint-over-defamatory-hallucinations/): ChatGPT hit with privacy complaint over defamatory hallucinations</small>
+
+
+| 🔥: 90 \| 💬: [93](https://news.ycombinator.com/item?id=43425561) \| 🗓️ 2025-03-20
+
+
+<br />
+OpenAI的ChatGPT因生成虚假信息再次在欧洲引发隐私投诉。挪威一名用户发现ChatGPT错误地声称他因谋杀两名孩子并试图杀害第三名孩子而被定罪。隐私倡导组织Noyb指出，**GDPR**要求个人数据必须准确，而OpenAI未提供纠正错误信息的途径。尽管OpenAI已更新模型并停止生成此类虚假信息，但Noyb认为这仍违反**欧盟数据保护法**，并呼吁监管机构采取行动。
+
+---
+
+## <a name="18"></a>18. 环保组织Greenpeace因达科他输油管道抗议活动被判赔偿超6.6亿美元 
+<small>🔗 [apnews.com](https://apnews.com/article/greenpeace-dakota-access-pipeline-lawsuit-verdict-5036944c1d2e7d3d7b704437e8110fbb): Greenpeace must pay over $660M in case over Dakota Access protest activities</small>
+
+
+| 🔥: 85 \| 💬: [68](https://news.ycombinator.com/item?id=43422556) \| 🗓️ 2025-03-20
+
+
+<br />
+美国北达科他州法院裁定，环保组织**Greenpeace**因在达科他输油管道抗议活动中的行为，需向管道公司**Energy Transfer**及其子公司赔偿超过**6.6亿美元**。Greenpeace被指控犯有诽谤、非法侵入、滋扰和民事共谋等罪名。Greenpeace表示将上诉，并称其反对石油巨头的斗争不会停止。此案源于2016年至2017年针对达科他输油管道的抗议活动，该管道穿越密苏里河，靠近立岩苏族部落的保留地。
+
+---
+
+## <a name="19"></a>19. 用Go语言编写的粒子物理引擎 
+<small>🔗 [github.com](https://github.com/rudransh61/Physix-go): Particle Based Physics Engine in Golang</small>
+
+
+| 🔥: 72 \| 💬: [7](https://news.ycombinator.com/item?id=43423238) \| 🗓️ 2025-03-20
+
+
+<br />
+Physix.go 是一个用 **Go语言** 编写的简单、易用且高效的物理引擎，专注于**粒子物理模拟**。它支持向量计算、物理计算、弹簧动力学等功能，并能与Ebiten.go轻松集成。该引擎提供了**刚体**和**碰撞检测**（矩形与矩形、圆形与圆形）的支持，还包含弹性连接和反弹效果。通过示例代码，用户可以快速上手并应用于2D游戏开发中。
+
+---
+
+## <a name="20"></a>20. GREASE：开源工具，用于发现二进制代码中的隐藏漏洞 
+<small>🔗 [galois.com](https://www.galois.com/articles/introducing-grease): Grease: An Open-Source Tool for Uncovering Hidden Vulnerabilities in Binary Code</small>
+
+
+| 🔥: 69 \| 💬: [10](https://news.ycombinator.com/item?id=43423523) \| 🗓️ 2025-03-20
+
+
+<br />
+GREASE 是一款开源工具，利用**符号执行**技术帮助逆向工程师分析二进制文件，发现难以察觉的漏洞，提升系统安全性。它支持多种架构的 Linux ELF 文件和 LLVM 位码，可作为 Ghidra 插件、命令行工具或 Haskell 库使用。GREASE 通过**启发式方法**检测潜在漏洞，但存在误报和漏报的可能。与现有工具相比，GREASE 在符号内存操作和路径覆盖方面具有优势。
 
 ---
