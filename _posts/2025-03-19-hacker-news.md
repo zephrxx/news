@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/mar/19/canadian-detained-us-immigration-jasmine-mooney): I'm the Canadian who was detained by ICE for two weeks</small>
 
 
-| 🔥🔥: 801 \| 💬: [690](https://news.ycombinator.com/item?id=43410548) \| 🗓️ 2025-03-19
+| 🔥🔥: 812 \| 💬: [697](https://news.ycombinator.com/item?id=43410548) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/sharkdp/fd): fd: A simple, fast and user-friendly alternative to 'find'</small>
 
 
-| 🔥🔥: 520 \| 💬: [221](https://news.ycombinator.com/item?id=43410692) \| 🗓️ 2025-03-19
+| 🔥🔥: 539 \| 💬: [228](https://news.ycombinator.com/item?id=43410692) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [kasurian.com](https://kasurian.com/p/research-as-leisure): The Lost Art of Research as Leisure</small>
 
 
-| 🔥🔥: 443 \| 💬: [241](https://news.ycombinator.com/item?id=43410061) \| 🗓️ 2025-03-19
+| 🔥🔥: 455 \| 💬: [246](https://news.ycombinator.com/item?id=43410061) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [joe-antognini.github.io](https://joe-antognini.github.io/astronomy/daylight): How fast the days are getting longer</small>
 
 
-| 🔥🔥: 413 \| 💬: [148](https://news.ycombinator.com/item?id=43413935) \| 🗓️ 2025-03-19
+| 🔥🔥: 431 \| 💬: [152](https://news.ycombinator.com/item?id=43413935) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [engadget.com](https://www.engadget.com/big-tech/video-game-workers-in-north-america-now-have-an-industry-wide-union-130024730.html): Video game workers in North America now have an industry-wide union</small>
 
 
-| 🔥🔥: 340 \| 💬: [128](https://news.ycombinator.com/item?id=43411934) \| 🗓️ 2025-03-19
+| 🔥🔥: 343 \| 💬: [130](https://news.ycombinator.com/item?id=43411934) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [ezyang.github.io](https://ezyang.github.io/ai-blindspots/): AI Blindspots – Blindspots in LLMs I've noticed while AI coding</small>
 
 
-| 🔥🔥: 288 \| 💬: [106](https://news.ycombinator.com/item?id=43414393) \| 🗓️ 2025-03-19
+| 🔥🔥: 304 \| 💬: [120](https://news.ycombinator.com/item?id=43414393) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [developer.chrome.com](https://developer.chrome.com/blog/memory-safety-fonts): Memory safety for web fonts</small>
 
 
-| 🔥🔥: 267 \| 💬: [176](https://news.ycombinator.com/item?id=43413125) \| 🗓️ 2025-03-19
+| 🔥🔥: 272 \| 💬: [180](https://news.ycombinator.com/item?id=43413125) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -111,7 +111,7 @@ Chrome 团队开发了基于 **Rust** 的 **Skrifa** 库，以替代 **FreeType*
 <small>🔗 [archaeology.org](https://archaeology.org/issues/march-april-2025/letters-from/on-the-origin-of-the-pork-taboo/): The Origin of the Pork Taboo</small>
 
 
-| 🔥🔥: 219 \| 💬: [236](https://news.ycombinator.com/item?id=43410885) \| 🗓️ 2025-03-19
+| 🔥🔥: 227 \| 💬: [239](https://news.ycombinator.com/item?id=43410885) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -123,7 +123,7 @@ Chrome 团队开发了基于 **Rust** 的 **Skrifa** 库，以替代 **FreeType*
 <small>🔗 [konvajs.org](https://konvajs.org/): Konva.js - Declarative 2D Canvas for React, Vue, and Svelte</small>
 
 
-| 🔥🔥: 207 \| 💬: [63](https://news.ycombinator.com/item?id=43410988) \| 🗓️ 2025-03-19
+| 🔥🔥: 210 \| 💬: [63](https://news.ycombinator.com/item?id=43410988) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -135,7 +135,7 @@ Konva.js 是一个**面向对象的 2D Canvas 框架**，支持多种形状和**
 <small>🔗 [nber.org](https://www.nber.org/papers/w33576): Supply constraints do not explain house price, quantity growth across US cities</small>
 
 
-| 🔥🔥: 141 \| 💬: [206](https://news.ycombinator.com/item?id=43411258) \| 🗓️ 2025-03-19
+| 🔥🔥: 153 \| 💬: [214](https://news.ycombinator.com/item?id=43411258) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -147,7 +147,7 @@ Konva.js 是一个**面向对象的 2D Canvas 框架**，支持多种形状和**
 <small>🔗 [esa.int](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Pierogi_in_space): Pierogi in Space</small>
 
 
-| 🔥🔥: 121 \| 💬: [35](https://news.ycombinator.com/item?id=43416302) \| 🗓️ 2025-03-19
+| 🔥🔥: 124 \| 💬: [35](https://news.ycombinator.com/item?id=43416302) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -171,7 +171,7 @@ Konva.js 是一个**面向对象的 2D Canvas 框架**，支持多种形状和**
 <small>🔗 [fauna.com](https://fauna.com/blog/the-future-of-fauna): Fauna Service Winding Down</small>
 
 
-| 🔥🔥: 113 \| 💬: [81](https://news.ycombinator.com/item?id=43414742) \| 🗓️ 2025-03-19
+| 🔥🔥: 114 \| 💬: [81](https://news.ycombinator.com/item?id=43414742) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -183,7 +183,7 @@ Fauna团队宣布将在未来几个月内逐步关闭其服务，原因是**全�
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/mar/19/google-pay-settle-claims-favoured-white-asian-employees): Google to pay $28M to settle claims it favoured white and Asian employees</small>
 
 
-| 🔥: 100 \| 💬: [130](https://news.ycombinator.com/item?id=43413333) \| 🗓️ 2025-03-19
+| 🔥: 100 \| 💬: [131](https://news.ycombinator.com/item?id=43413333) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -191,23 +191,11 @@ Fauna团队宣布将在未来几个月内逐步关闭其服务，原因是**全�
 
 ---
 
-## <a name="15"></a>15. Chrome禁用uBlock Origin对用户安全构成严重威胁 
-<small>🔗 [nuage.quimerch.com](https://nuage.quimerch.com/-/ewen/articles/chrome-disabling-ublock-origin-is-a-serious-security-threat): Chrome disabling uBlock Origin is a serious security threat</small>
-
-
-| 🔥: 94 \| 💬: [79](https://news.ycombinator.com/item?id=43409838) \| 🗓️ 2025-03-19
-
-
-<br />
-谷歌决定在Chrome上禁用流行的广告拦截扩展**uBlock Origin**，引发了用户安全的广泛担忧。此举使许多用户突然暴露在恶意广告中，尤其是对不熟悉技术的老年用户。虽然可以安装其他广告拦截工具，但它们可能不如**uBlock Origin**有效。谷歌应提供更友好的解决方案，而不是让用户处于无保护状态。
-
----
-
-## <a name="16"></a>16. 将笔记本重构为可重用的Python程序 
+## <a name="15"></a>15. 将笔记本重构为可重用的Python程序 
 <small>🔗 [marimo.io](https://marimo.io/blog/python-not-json): Notebooks as reusable Python programs</small>
 
 
-| 🔥: 91 \| 💬: [47](https://news.ycombinator.com/item?id=43415477) \| 🗓️ 2025-03-19
+| 🔥: 96 \| 💬: [48](https://news.ycombinator.com/item?id=43415477) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -215,11 +203,23 @@ Fauna团队宣布将在未来几个月内逐步关闭其服务，原因是**全�
 
 ---
 
+## <a name="16"></a>16. Chrome禁用uBlock Origin对用户安全构成严重威胁 
+<small>🔗 [nuage.quimerch.com](https://nuage.quimerch.com/-/ewen/articles/chrome-disabling-ublock-origin-is-a-serious-security-threat): Chrome disabling uBlock Origin is a serious security threat</small>
+
+
+| 🔥: 94 \| 💬: [80](https://news.ycombinator.com/item?id=43409838) \| 🗓️ 2025-03-19
+
+
+<br />
+谷歌决定在Chrome上禁用流行的广告拦截扩展**uBlock Origin**，引发了用户安全的广泛担忧。此举使许多用户突然暴露在恶意广告中，尤其是对不熟悉技术的老年用户。虽然可以安装其他广告拦截工具，但它们可能不如**uBlock Origin**有效。谷歌应提供更友好的解决方案，而不是让用户处于无保护状态。
+
+---
+
 ## <a name="17"></a>17. Ikemen-GO：开源MUGEN引擎重制版 
 <small>🔗 [github.com](https://github.com/ikemen-engine/Ikemen-GO): Ikemen-GO: open-source reimplementation of MUGEN</small>
 
 
-| 🔥: 88 \| 💬: [13](https://news.ycombinator.com/item?id=43411755) \| 🗓️ 2025-03-19
+| 🔥: 89 \| 💬: [13](https://news.ycombinator.com/item?id=43411755) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -231,7 +231,7 @@ Ikemen-GO是一款**开源**的格斗游戏引擎，支持MUGEN资源，使用Go
 <small>🔗 [writings.stephenwolfram.com](https://writings.stephenwolfram.com/2025/03/what-can-we-learn-about-engineering-and-innovation-from-half-a-century-of-the-game-of-life-cellular-automaton/): Learning about Innovation from Half a Century of Conway's Game of Life</small>
 
 
-| 🔥: 86 \| 💬: [50](https://news.ycombinator.com/item?id=43410349) \| 🗓️ 2025-03-19
+| 🔥: 86 \| 💬: [51](https://news.ycombinator.com/item?id=43410349) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -239,35 +239,11 @@ Ikemen-GO是一款**开源**的格斗游戏引擎，支持MUGEN资源，使用Go
 
 ---
 
-## <a name="19"></a>19. 滑动窗口聚类行为的异常现象 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2503.14393): The clustering behavior of sliding windows</small>
-
-
-| 🔥: 81 \| 💬: [14](https://news.ycombinator.com/item?id=43411898) \| 🗓️ 2025-03-19
-
-
-<br />
-在时间序列数据预处理中使用**滑动窗口**时，可能会出现严重的聚类问题。本文揭示了三种令人惊讶的失败模式，这些模式的出现取决于**窗口大小**与时间序列长度的关系。除了计算实例外，作者还提供了每种失败模式的理论解释。
-
----
-
-## <a name="20"></a>20. 美国老龄化工人：退休是遥不可及的梦 
-<small>🔗 [time.com](https://time.com/7260357/aging-workforce/): For Many of America's Aging Workers, 'Retirement Is a Distant Dream'</small>
-
-
-| 🔥: 81 \| 💬: [45](https://news.ycombinator.com/item?id=43415756) \| 🗓️ 2025-03-19
-
-
-<br />
-随着美国人口老龄化加剧，越来越多的老年人不得不继续工作以维持生计。**69岁的Walter Carpenter**在滑雪度假村工作，尽管身体不适，仍无法退休，因为他几乎没有退休储蓄。**约19%的65岁以上美国人仍在工作**，这一比例比40年前翻了一番。许多人因**通货膨胀、低工资和缺乏养老金**而无法退休，导致退休梦想变得遥不可及。
-
----
-
-## <a name="21"></a>21. 法国研究员因批评特朗普政策被美国拒绝入境 
+## <a name="19"></a>19. 法国研究员因批评特朗普政策被美国拒绝入境 
 <small>🔗 [lemonde.fr](https://www.lemonde.fr/international/article/2025/03/19/etats-unis-un-chercheur-francais-refoule-pour-avoir-exprime-une-opinion-personnelle-sur-la-politique-menee-par-l-administration-trump_6583618_3210.html): French researcher denied entry for a personal opinion on Trump administration</small>
 
 
-| 🔥: 79 \| 💬: [27](https://news.ycombinator.com/item?id=43416476) \| 🗓️ 2025-03-19
+| 🔥: 84 \| 💬: [30](https://news.ycombinator.com/item?id=43416476) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -275,11 +251,47 @@ Ikemen-GO是一款**开源**的格斗游戏引擎，支持MUGEN资源，使用Go
 
 ---
 
-## <a name="22"></a>22. 用Claude Pro和MCP打造你的AI编程助手 
+## <a name="20"></a>20. Bolt3D：几秒内生成3D场景 
+<small>🔗 [szymanowiczs.github.io](https://szymanowiczs.github.io/bolt3d): Bolt3D: Generating 3D Scenes in Seconds</small>
+
+
+| 🔥: 84 \| 💬: [14](https://news.ycombinator.com/item?id=43417932) \| 🗓️ 2025-03-19
+
+
+<br />
+Bolt3D是一种基于**多视图扩散模型**的快速3D场景生成方法，仅需6.25秒即可在单GPU上完成。通过输入一张或多张图像，生成**Splatter Images**，并利用**高斯头**回归3D高斯分布，最终组合成完整3D场景。该方法无需重投影或修复机制，支持可变输入视图，并在生成质量和推理成本上优于其他方法。
+
+---
+
+## <a name="21"></a>21. 美国老龄化工人：退休是遥不可及的梦 
+<small>🔗 [time.com](https://time.com/7260357/aging-workforce/): For Many of America's Aging Workers, 'Retirement Is a Distant Dream'</small>
+
+
+| 🔥: 83 \| 💬: [49](https://news.ycombinator.com/item?id=43415756) \| 🗓️ 2025-03-19
+
+
+<br />
+随着美国人口老龄化加剧，越来越多的老年人不得不继续工作以维持生计。**69岁的Walter Carpenter**在滑雪度假村工作，尽管身体不适，仍无法退休，因为他几乎没有退休储蓄。**约19%的65岁以上美国人仍在工作**，这一比例比40年前翻了一番。许多人因**通货膨胀、低工资和缺乏养老金**而无法退休，导致退休梦想变得遥不可及。
+
+---
+
+## <a name="22"></a>22. 滑动窗口聚类行为的异常现象 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2503.14393): The clustering behavior of sliding windows</small>
+
+
+| 🔥: 82 \| 💬: [14](https://news.ycombinator.com/item?id=43411898) \| 🗓️ 2025-03-19
+
+
+<br />
+在时间序列数据预处理中使用**滑动窗口**时，可能会出现严重的聚类问题。本文揭示了三种令人惊讶的失败模式，这些模式的出现取决于**窗口大小**与时间序列长度的关系。除了计算实例外，作者还提供了每种失败模式的理论解释。
+
+---
+
+## <a name="23"></a>23. 用Claude Pro和MCP打造你的AI编程助手 
 <small>🔗 [zbeegnew.dev](https://www.zbeegnew.dev/tech/build_your_own_ai_coding_assistant_a_cost-effective_alternative_to_cursor/): Hacking Your Own AI Coding Assistant with Claude Pro and MCP</small>
 
 
-| 🔥: 76 \| 💬: [42](https://news.ycombinator.com/item?id=43410866) \| 🗓️ 2025-03-19
+| 🔥: 77 \| 💬: [42](https://news.ycombinator.com/item?id=43410866) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -287,7 +299,7 @@ Ikemen-GO是一款**开源**的格斗游戏引擎，支持MUGEN资源，使用Go
 
 ---
 
-## <a name="23"></a>23. 特斯拉将如何走向灭亡 
+## <a name="24"></a>24. 特斯拉将如何走向灭亡 
 <small>🔗 [planetearthandbeyond.co](https://www.planetearthandbeyond.co/p/this-is-how-tesla-will-die): Tesla Will Die</small>
 
 
