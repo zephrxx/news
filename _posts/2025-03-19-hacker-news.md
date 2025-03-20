@@ -27,7 +27,7 @@ tags:
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/mar/19/canadian-detained-us-immigration-jasmine-mooney): I'm the Canadian who was detained by ICE for two weeks</small>
 
 
-| 🔥🔥: 831 \| 💬: [710](https://news.ycombinator.com/item?id=43410548) \| 🗓️ 2025-03-19
+| 🔥🔥: 838 \| 💬: [710](https://news.ycombinator.com/item?id=43410548) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/sharkdp/fd): fd: A simple, fast and user-friendly alternative to 'find'</small>
 
 
-| 🔥🔥: 580 \| 💬: [253](https://news.ycombinator.com/item?id=43410692) \| 🗓️ 2025-03-19
+| 🔥🔥: 597 \| 💬: [253](https://news.ycombinator.com/item?id=43410692) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [joe-antognini.github.io](https://joe-antognini.github.io/astronomy/daylight): How fast the days are getting longer (2023)</small>
 
 
-| 🔥🔥: 470 \| 💬: [160](https://news.ycombinator.com/item?id=43413935) \| 🗓️ 2025-03-19
+| 🔥🔥: 480 \| 💬: [164](https://news.ycombinator.com/item?id=43413935) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [kasurian.com](https://kasurian.com/p/research-as-leisure): The Lost Art of Research as Leisure</small>
 
 
-| 🔥🔥: 460 \| 💬: [249](https://news.ycombinator.com/item?id=43410061) \| 🗓️ 2025-03-19
+| 🔥🔥: 463 \| 💬: [249](https://news.ycombinator.com/item?id=43410061) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [ezyang.github.io](https://ezyang.github.io/ai-blindspots/): AI Blindspots – Blindspots in LLMs I've noticed while AI coding</small>
 
 
-| 🔥🔥: 363 \| 💬: [147](https://news.ycombinator.com/item?id=43414393) \| 🗓️ 2025-03-19
+| 🔥🔥: 376 \| 💬: [150](https://news.ycombinator.com/item?id=43414393) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [engadget.com](https://www.engadget.com/big-tech/video-game-workers-in-north-america-now-have-an-industry-wide-union-130024730.html): Video game workers in North America now have an industry-wide union</small>
 
 
-| 🔥🔥: 353 \| 💬: [133](https://news.ycombinator.com/item?id=43411934) \| 🗓️ 2025-03-19
+| 🔥🔥: 356 \| 💬: [137](https://news.ycombinator.com/item?id=43411934) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [developer.chrome.com](https://developer.chrome.com/blog/memory-safety-fonts): Memory safety for web fonts</small>
 
 
-| 🔥🔥: 279 \| 💬: [187](https://news.ycombinator.com/item?id=43413125) \| 🗓️ 2025-03-19
+| 🔥🔥: 280 \| 💬: [188](https://news.ycombinator.com/item?id=43413125) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -111,7 +111,7 @@ Chrome 团队开发了基于 **Rust** 的 **Skrifa** 库，以替代 **FreeType*
 <small>🔗 [archaeology.org](https://archaeology.org/issues/march-april-2025/letters-from/on-the-origin-of-the-pork-taboo/): The Origin of the Pork Taboo</small>
 
 
-| 🔥🔥: 248 \| 💬: [257](https://news.ycombinator.com/item?id=43410885) \| 🗓️ 2025-03-19
+| 🔥🔥: 249 \| 💬: [260](https://news.ycombinator.com/item?id=43410885) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -123,7 +123,7 @@ Chrome 团队开发了基于 **Rust** 的 **Skrifa** 库，以替代 **FreeType*
 <small>🔗 [konvajs.org](https://konvajs.org/): Konva.js - Declarative 2D Canvas for React, Vue, and Svelte</small>
 
 
-| 🔥🔥: 224 \| 💬: [64](https://news.ycombinator.com/item?id=43410988) \| 🗓️ 2025-03-19
+| 🔥🔥: 226 \| 💬: [65](https://news.ycombinator.com/item?id=43410988) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -135,7 +135,7 @@ Konva.js 是一个**面向对象的 2D Canvas 框架**，支持多种形状和**
 <small>🔗 [nber.org](https://www.nber.org/papers/w33576): Supply constraints do not explain house price, quantity growth across US cities</small>
 
 
-| 🔥🔥: 165 \| 💬: [253](https://news.ycombinator.com/item?id=43411258) \| 🗓️ 2025-03-19
+| 🔥🔥: 167 \| 💬: [260](https://news.ycombinator.com/item?id=43411258) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -147,7 +147,7 @@ Konva.js 是一个**面向对象的 2D Canvas 框架**，支持多种形状和**
 <small>🔗 [szymanowiczs.github.io](https://szymanowiczs.github.io/bolt3d): Bolt3D: Generating 3D Scenes in Seconds</small>
 
 
-| 🔥🔥: 131 \| 💬: [19](https://news.ycombinator.com/item?id=43417932) \| 🗓️ 2025-03-19
+| 🔥🔥: 143 \| 💬: [20](https://news.ycombinator.com/item?id=43417932) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -155,7 +155,19 @@ Bolt3D是一种基于**多视图扩散模型**的快速3D场景生成方法，�
 
 ---
 
-## <a name="12"></a>12. 太空中的波兰饺子 
+## <a name="12"></a>12. LLM 代理的本质：图结构入门教程 
+<small>🔗 [zacharyhuang.substack.com](https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial): LLM Agents Are Simply Graph – Tutorial for Dummies</small>
+
+
+| 🔥🔥: 132 \| 💬: [48](https://news.ycombinator.com/item?id=43417511) \| 🗓️ 2025-03-19
+
+
+<br />
+本文通过简单的比喻和代码示例，解释了**LLM 代理**的工作原理。代理系统实际上是一个由**节点**和**边**组成的图结构，每个节点负责特定任务（如决策、搜索、回答），并通过共享数据协同工作。文章使用 PocketFlow 框架，展示了如何构建一个简单的问答代理，帮助初学者理解代理系统的核心概念。
+
+---
+
+## <a name="13"></a>13. 太空中的波兰饺子 
 <small>🔗 [esa.int](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Pierogi_in_space): Pierogi in Space</small>
 
 
@@ -167,7 +179,7 @@ Bolt3D是一种基于**多视图扩散模型**的快速3D场景生成方法，�
 
 ---
 
-## <a name="13"></a>13. 特斯拉全球市场份额下滑，中国电动车主导市场 
+## <a name="14"></a>14. 特斯拉全球市场份额下滑，中国电动车主导市场 
 <small>🔗 [restofworld.org](https://restofworld.org/2025/tesla-loses-ground-chinese-ev-dominate-global-markets/): Tesla loses ground as Chinese EVs dominate global markets</small>
 
 
@@ -179,7 +191,7 @@ Bolt3D是一种基于**多视图扩散模型**的快速3D场景生成方法，�
 
 ---
 
-## <a name="14"></a>14. Fauna服务即将关闭 
+## <a name="15"></a>15. Fauna服务即将关闭 
 <small>🔗 [fauna.com](https://fauna.com/blog/the-future-of-fauna): Fauna Service Winding Down</small>
 
 
@@ -188,18 +200,6 @@ Bolt3D是一种基于**多视图扩散模型**的快速3D场景生成方法，�
 
 <br />
 Fauna团队宣布将在未来几个月内逐步关闭其服务，原因是**全球运营数据库的广泛采用需要大量资金**，而当前市场环境下无法独立筹集所需资金。现有客户将逐步迁移，服务将于2025年5月30日终止。同时，Fauna承诺将其核心数据库技术**开源**，确保其独特的**事务功能、文档-关系数据模型和数据库语言（FQL）**继续为开发者社区提供价值。
-
----
-
-## <a name="15"></a>15. LLM 代理的本质：图结构入门教程 
-<small>🔗 [zacharyhuang.substack.com](https://zacharyhuang.substack.com/p/llm-agent-internal-as-a-graph-tutorial): LLM Agents Are Simply Graph – Tutorial for Dummies</small>
-
-
-| 🔥🔥: 111 \| 💬: [47](https://news.ycombinator.com/item?id=43417511) \| 🗓️ 2025-03-19
-
-
-<br />
-本文通过简单的比喻和代码示例，解释了**LLM 代理**的工作原理。代理系统实际上是一个由**节点**和**边**组成的图结构，每个节点负责特定任务（如决策、搜索、回答），并通过共享数据协同工作。文章使用 PocketFlow 框架，展示了如何构建一个简单的问答代理，帮助初学者理解代理系统的核心概念。
 
 ---
 
@@ -231,7 +231,7 @@ Fauna团队宣布将在未来几个月内逐步关闭其服务，原因是**全�
 <small>🔗 [nuage.quimerch.com](https://nuage.quimerch.com/-/ewen/articles/chrome-disabling-ublock-origin-is-a-serious-security-threat): Chrome disabling uBlock Origin is a serious security threat</small>
 
 
-| 🔥: 95 \| 💬: [81](https://news.ycombinator.com/item?id=43409838) \| 🗓️ 2025-03-19
+| 🔥: 96 \| 💬: [81](https://news.ycombinator.com/item?id=43409838) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -239,23 +239,11 @@ Fauna团队宣布将在未来几个月内逐步关闭其服务，原因是**全�
 
 ---
 
-## <a name="19"></a>19. Ikemen-GO：开源MUGEN引擎重制版 
-<small>🔗 [github.com](https://github.com/ikemen-engine/Ikemen-GO): Ikemen-GO: open-source reimplementation of MUGEN</small>
-
-
-| 🔥: 92 \| 💬: [13](https://news.ycombinator.com/item?id=43411755) \| 🗓️ 2025-03-19
-
-
-<br />
-Ikemen-GO是一款**开源**的格斗游戏引擎，支持MUGEN资源，使用Google的**Go语言**编写。它完全重写了之前的Ikemen引擎，旨在与MUGEN 1.1 Beta版本保持兼容，同时扩展了多项新功能。提供Windows、macOS和Linux的预编译版本，开发者可通过Docker跨平台编译。项目采用**MIT许可证**，部分非代码资源使用CC-BY 3.0许可。
-
----
-
-## <a name="20"></a>20. Stripe新增15美元争议费用，除非使用其AI工具 
+## <a name="19"></a>19. Stripe新增15美元争议费用，除非使用其AI工具 
 <small>🔗 [twitter.com](https://twitter.com/ArtemR/status/1902446906640605657): Stripe adds yet another additional $15 dispute fee, unless you use their AI</small>
 
 
-| 🔥: 92 \| 💬: [26](https://news.ycombinator.com/item?id=43416525) \| 🗓️ 2025-03-19
+| 🔥: 95 \| 💬: [26](https://news.ycombinator.com/item?id=43416525) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -263,11 +251,23 @@ Stripe宣布将增加**15美元的争议费用**，但若商家使用其**AI工�
 
 ---
 
+## <a name="20"></a>20. Ikemen-GO：开源MUGEN引擎重制版 
+<small>🔗 [github.com](https://github.com/ikemen-engine/Ikemen-GO): Ikemen-GO: open-source reimplementation of MUGEN</small>
+
+
+| 🔥: 93 \| 💬: [13](https://news.ycombinator.com/item?id=43411755) \| 🗓️ 2025-03-19
+
+
+<br />
+Ikemen-GO是一款**开源**的格斗游戏引擎，支持MUGEN资源，使用Google的**Go语言**编写。它完全重写了之前的Ikemen引擎，旨在与MUGEN 1.1 Beta版本保持兼容，同时扩展了多项新功能。提供Windows、macOS和Linux的预编译版本，开发者可通过Docker跨平台编译。项目采用**MIT许可证**，部分非代码资源使用CC-BY 3.0许可。
+
+---
+
 ## <a name="21"></a>21. 从半个世纪的康威生命游戏中学到的创新启示 
 <small>🔗 [writings.stephenwolfram.com](https://writings.stephenwolfram.com/2025/03/what-can-we-learn-about-engineering-and-innovation-from-half-a-century-of-the-game-of-life-cellular-automaton/): Learning about Innovation from Half a Century of Conway's Game of Life</small>
 
 
-| 🔥: 89 \| 💬: [51](https://news.ycombinator.com/item?id=43410349) \| 🗓️ 2025-03-19
+| 🔥: 89 \| 💬: [52](https://news.ycombinator.com/item?id=43410349) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -291,7 +291,7 @@ Stripe宣布将增加**15美元的争议费用**，但若商家使用其**AI工�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2503.14393): The clustering behavior of sliding windows</small>
 
 
-| 🔥: 86 \| 💬: [17](https://news.ycombinator.com/item?id=43411898) \| 🗓️ 2025-03-19
+| 🔥: 86 \| 💬: [19](https://news.ycombinator.com/item?id=43411898) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -303,7 +303,7 @@ Stripe宣布将增加**15美元的争议费用**，但若商家使用其**AI工�
 <small>🔗 [time.com](https://time.com/7260357/aging-workforce/): For Many of America's Aging Workers, 'Retirement Is a Distant Dream'</small>
 
 
-| 🔥: 83 \| 💬: [50](https://news.ycombinator.com/item?id=43415756) \| 🗓️ 2025-03-19
+| 🔥: 85 \| 💬: [51](https://news.ycombinator.com/item?id=43415756) \| 🗓️ 2025-03-19
 
 
 <br />
@@ -315,7 +315,7 @@ Stripe宣布将增加**15美元的争议费用**，但若商家使用其**AI工�
 <small>🔗 [zbeegnew.dev](https://www.zbeegnew.dev/tech/build_your_own_ai_coding_assistant_a_cost-effective_alternative_to_cursor/): Hacking Your Own AI Coding Assistant with Claude Pro and MCP</small>
 
 
-| 🔥: 81 \| 💬: [42](https://news.ycombinator.com/item?id=43410866) \| 🗓️ 2025-03-19
+| 🔥: 82 \| 💬: [43](https://news.ycombinator.com/item?id=43410866) \| 🗓️ 2025-03-19
 
 
 <br />
