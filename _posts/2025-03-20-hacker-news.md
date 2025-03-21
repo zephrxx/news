@@ -27,7 +27,7 @@ tags:
 <small>🔗 [thelibre.news](https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/): FOSS infrastructure is under attack by AI companies</small>
 
 
-| 🔥🔥: 895 \| 💬: [566](https://news.ycombinator.com/item?id=43422413) \| 🗓️ 2025-03-20
+| 🔥🔥: 896 \| 💬: [569](https://news.ycombinator.com/item?id=43422413) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/web-search): Claude can now search the web</small>
 
 
-| 🔥🔥: 813 \| 💬: [440](https://news.ycombinator.com/item?id=43425655) \| 🗓️ 2025-03-20
+| 🔥🔥: 839 \| 💬: [450](https://news.ycombinator.com/item?id=43425655) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -51,7 +51,7 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 <small>🔗 [unionize.fyi](https://unionize.fyi): The Burnout Machine</small>
 
 
-| 🔥🔥: 493 \| 💬: [396](https://news.ycombinator.com/item?id=43427002) \| 🗓️ 2025-03-20
+| 🔥🔥: 511 \| 💬: [408](https://news.ycombinator.com/item?id=43427002) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -63,7 +63,7 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 <small>🔗 [polotek.net](https://polotek.net/posts/the-frontend-treadmill/): The Frontend Treadmill</small>
 
 
-| 🔥🔥: 461 \| 💬: [486](https://news.ycombinator.com/item?id=43422162) \| 🗓️ 2025-03-20
+| 🔥🔥: 480 \| 💬: [495](https://news.ycombinator.com/item?id=43422162) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -75,7 +75,7 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/19/dutch_parliament_us_tech/): Dutch Parliament: Time to ditch US tech for homegrown options</small>
 
 
-| 🔥🔥: 319 \| 💬: [266](https://news.ycombinator.com/item?id=43421902) \| 🗓️ 2025-03-20
+| 🔥🔥: 321 \| 💬: [267](https://news.ycombinator.com/item?id=43421902) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -87,7 +87,7 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 <small>🔗 [wts.dev](https://wts.dev/posts/password-leak/): Leaking Passwords and more on macOS</small>
 
 
-| 🔥🔥: 295 \| 💬: [54](https://news.ycombinator.com/item?id=43425605) \| 🗓️ 2025-03-20
+| 🔥🔥: 296 \| 💬: [55](https://news.ycombinator.com/item?id=43425605) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -99,7 +99,7 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 <small>🔗 [blogs.windows.com](https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/): Minding the gaps: A new way to draw separators in CSS</small>
 
 
-| 🔥🔥: 249 \| 💬: [89](https://news.ycombinator.com/item?id=43420683) \| 🗓️ 2025-03-20
+| 🔥🔥: 255 \| 💬: [89](https://news.ycombinator.com/item?id=43420683) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -111,7 +111,7 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 <small>🔗 [oeis.org](https://oeis.org/A068994): Powers of 2 with all even digits</small>
 
 
-| 🔥🔥: 229 \| 💬: [102](https://news.ycombinator.com/item?id=43421934) \| 🗓️ 2025-03-20
+| 🔥🔥: 231 \| 💬: [103](https://news.ycombinator.com/item?id=43421934) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -123,7 +123,7 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 <small>🔗 [construction-physics.com](https://www.construction-physics.com/p/understanding-solar-energy): Understanding Solar Energy</small>
 
 
-| 🔥🔥: 190 \| 💬: [124](https://news.ycombinator.com/item?id=43422033) \| 🗓️ 2025-03-20
+| 🔥🔥: 193 \| 💬: [126](https://news.ycombinator.com/item?id=43422033) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -135,7 +135,7 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 <small>🔗 [eso.org](https://www.eso.org/public/news/eso2507/): Oxygen discovered in most distant known galaxy</small>
 
 
-| 🔥🔥: 182 \| 💬: [146](https://news.ycombinator.com/item?id=43422909) \| 🗓️ 2025-03-20
+| 🔥🔥: 187 \| 💬: [148](https://news.ycombinator.com/item?id=43422909) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -147,7 +147,7 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 <small>🔗 [acarsdrama.com](https://acarsdrama.com/): ACARS Drama</small>
 
 
-| 🔥🔥: 179 \| 💬: [83](https://news.ycombinator.com/item?id=43424065) \| 🗓️ 2025-03-20
+| 🔥🔥: 182 \| 💬: [84](https://news.ycombinator.com/item?id=43424065) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -159,7 +159,7 @@ ACARS戏剧是一个通过**ACARS**和**VDLM2**信号捕捉飞机通信数据的
 <small>🔗 [mexicocitywater.longlead.com](https://mexicocitywater.longlead.com): The Last Drops of Mexico City</small>
 
 
-| 🔥🔥: 171 \| 💬: [165](https://news.ycombinator.com/item?id=43423032) \| 🗓️ 2025-03-20
+| 🔥🔥: 173 \| 💬: [167](https://news.ycombinator.com/item?id=43423032) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -183,7 +183,7 @@ ACARS戏剧是一个通过**ACARS**和**VDLM2**信号捕捉飞机通信数据的
 <small>🔗 [github.com](https://github.com/smparsons/retroboy): Retro Boy: simple Game Boy emulator written in Rust, can be played on the web</small>
 
 
-| 🔥🔥: 145 \| 💬: [35](https://news.ycombinator.com/item?id=43429417) \| 🗓️ 2025-03-20
+| 🔥🔥: 154 \| 💬: [42](https://news.ycombinator.com/item?id=43429417) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -195,7 +195,7 @@ Retro Boy是一款用**Rust**编写的Game Boy模拟器，支持在网页上运�
 <small>🔗 [sethmlarson.dev](https://sethmlarson.dev/i-fear-for-the-unauthenticated-web): I fear for the unauthenticated web</small>
 
 
-| 🔥🔥: 111 \| 💬: [110](https://news.ycombinator.com/item?id=43424340) \| 🗓️ 2025-03-20
+| 🔥🔥: 112 \| 💬: [110](https://news.ycombinator.com/item?id=43424340) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -207,7 +207,7 @@ Retro Boy是一款用**Rust**编写的Game Boy模拟器，支持在网页上运�
 <small>🔗 [theverge.com](https://www.theverge.com/ai-artificial-intelligence/627968/google-gemma-3-open-ai-model): Google calls Gemma 3 the most powerful AI model you can run on one GPU</small>
 
 
-| 🔥🔥: 111 \| 💬: [85](https://news.ycombinator.com/item?id=43427115) \| 🗓️ 2025-03-20
+| 🔥🔥: 112 \| 💬: [85](https://news.ycombinator.com/item?id=43427115) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -219,7 +219,7 @@ Retro Boy是一款用**Rust**编写的Game Boy模拟器，支持在网页上运�
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/19/eu-sends-apple-first-dma-interoperability-instructions-for-apps-and-connected-devices/): EU sends Apple first DMA interoperability instructions for apps and devices</small>
 
 
-| 🔥🔥: 109 \| 💬: [136](https://news.ycombinator.com/item?id=43421740) \| 🗓️ 2025-03-20
+| 🔥🔥: 109 \| 💬: [137](https://news.ycombinator.com/item?id=43421740) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -243,7 +243,7 @@ Retro Boy是一款用**Rust**编写的Game Boy模拟器，支持在网页上运�
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/19/chatgpt-hit-with-privacy-complaint-over-defamatory-hallucinations/): ChatGPT hit with privacy complaint over defamatory hallucinations</small>
 
 
-| 🔥: 99 \| 💬: [115](https://news.ycombinator.com/item?id=43425561) \| 🗓️ 2025-03-20
+| 🔥: 99 \| 💬: [116](https://news.ycombinator.com/item?id=43425561) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -255,7 +255,7 @@ OpenAI的ChatGPT因生成虚假信息再次在欧洲引发隐私投诉。挪威�
 <small>🔗 [galois.com](https://www.galois.com/articles/introducing-grease): Grease: An Open-Source Tool for Uncovering Hidden Vulnerabilities in Binary Code</small>
 
 
-| 🔥: 91 \| 💬: [10](https://news.ycombinator.com/item?id=43423523) \| 🗓️ 2025-03-20
+| 🔥: 92 \| 💬: [10](https://news.ycombinator.com/item?id=43423523) \| 🗓️ 2025-03-20
 
 
 <br />
