@@ -27,7 +27,7 @@ tags:
 <small>🔗 [thelibre.news](https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/): FOSS infrastructure is under attack by AI companies</small>
 
 
-| 🔥🔥: 888 \| 💬: [557](https://news.ycombinator.com/item?id=43422413) \| 🗓️ 2025-03-20
+| 🔥🔥: 891 \| 💬: [561](https://news.ycombinator.com/item?id=43422413) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/web-search): Claude can now search the web</small>
 
 
-| 🔥🔥: 755 \| 💬: [389](https://news.ycombinator.com/item?id=43425655) \| 🗓️ 2025-03-20
+| 🔥🔥: 787 \| 💬: [425](https://news.ycombinator.com/item?id=43425655) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -51,7 +51,7 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 <small>🔗 [unionize.fyi](https://unionize.fyi): The Burnout Machine</small>
 
 
-| 🔥🔥: 461 \| 💬: [365](https://news.ycombinator.com/item?id=43427002) \| 🗓️ 2025-03-20
+| 🔥🔥: 478 \| 💬: [385](https://news.ycombinator.com/item?id=43427002) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -63,7 +63,7 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 <small>🔗 [polotek.net](https://polotek.net/posts/the-frontend-treadmill/): The Frontend Treadmill</small>
 
 
-| 🔥🔥: 435 \| 💬: [466](https://news.ycombinator.com/item?id=43422162) \| 🗓️ 2025-03-20
+| 🔥🔥: 446 \| 💬: [476](https://news.ycombinator.com/item?id=43422162) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -75,7 +75,7 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/19/dutch_parliament_us_tech/): Dutch Parliament: Time to ditch US tech for homegrown options</small>
 
 
-| 🔥🔥: 318 \| 💬: [265](https://news.ycombinator.com/item?id=43421902) \| 🗓️ 2025-03-20
+| 🔥🔥: 318 \| 💬: [266](https://news.ycombinator.com/item?id=43421902) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -87,7 +87,7 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 <small>🔗 [wts.dev](https://wts.dev/posts/password-leak/): Leaking Passwords and more on macOS</small>
 
 
-| 🔥🔥: 286 \| 💬: [53](https://news.ycombinator.com/item?id=43425605) \| 🗓️ 2025-03-20
+| 🔥🔥: 293 \| 💬: [54](https://news.ycombinator.com/item?id=43425605) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -99,7 +99,7 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 <small>🔗 [blogs.windows.com](https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/): Minding the gaps: A new way to draw separators in CSS</small>
 
 
-| 🔥🔥: 239 \| 💬: [88](https://news.ycombinator.com/item?id=43420683) \| 🗓️ 2025-03-20
+| 🔥🔥: 245 \| 💬: [89](https://news.ycombinator.com/item?id=43420683) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -111,7 +111,7 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 <small>🔗 [oeis.org](https://oeis.org/A068994): Powers of 2 with all even digits</small>
 
 
-| 🔥🔥: 223 \| 💬: [101](https://news.ycombinator.com/item?id=43421934) \| 🗓️ 2025-03-20
+| 🔥🔥: 227 \| 💬: [101](https://news.ycombinator.com/item?id=43421934) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -119,23 +119,11 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 
 ---
 
-## <a name="9"></a>9. ACARS戏剧：捕捉天空中的飞行数据趣闻 
-<small>🔗 [acarsdrama.com](https://acarsdrama.com/): ACARS Drama</small>
-
-
-| 🔥🔥: 176 \| 💬: [83](https://news.ycombinator.com/item?id=43424065) \| 🗓️ 2025-03-20
-
-
-<br />
-ACARS戏剧是一个通过**ACARS**和**VDLM2**信号捕捉飞机通信数据的项目，专注于分享飞行员和机组人员输入的“自由文本”信息。项目创始人使用廉价的无线电设备和开源软件，解码飞机与地面之间的通信，筛选出有趣的内容，如咖啡机故障或机上事件。通过社交媒体机器人，这些信息被分享给公众，展示了飞行员的个性和飞行中的趣事。
-
----
-
-## <a name="10"></a>10. 太阳能：潜力与挑战 
+## <a name="9"></a>9. 太阳能：潜力与挑战 
 <small>🔗 [construction-physics.com](https://www.construction-physics.com/p/understanding-solar-energy): Understanding Solar Energy</small>
 
 
-| 🔥🔥: 174 \| 💬: [119](https://news.ycombinator.com/item?id=43422033) \| 🗓️ 2025-03-20
+| 🔥🔥: 183 \| 💬: [121](https://news.ycombinator.com/item?id=43422033) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -143,11 +131,23 @@ ACARS戏剧是一个通过**ACARS**和**VDLM2**信号捕捉飞机通信数据的
 
 ---
 
+## <a name="10"></a>10. ACARS戏剧：捕捉天空中的飞行数据趣闻 
+<small>🔗 [acarsdrama.com](https://acarsdrama.com/): ACARS Drama</small>
+
+
+| 🔥🔥: 178 \| 💬: [83](https://news.ycombinator.com/item?id=43424065) \| 🗓️ 2025-03-20
+
+
+<br />
+ACARS戏剧是一个通过**ACARS**和**VDLM2**信号捕捉飞机通信数据的项目，专注于分享飞行员和机组人员输入的“自由文本”信息。项目创始人使用廉价的无线电设备和开源软件，解码飞机与地面之间的通信，筛选出有趣的内容，如咖啡机故障或机上事件。通过社交媒体机器人，这些信息被分享给公众，展示了飞行员的个性和飞行中的趣事。
+
+---
+
 ## <a name="11"></a>11. 最遥远星系中发现氧气，挑战早期宇宙星系形成理论 
 <small>🔗 [eso.org](https://www.eso.org/public/news/eso2507/): Oxygen discovered in most distant known galaxy</small>
 
 
-| 🔥🔥: 174 \| 💬: [139](https://news.ycombinator.com/item?id=43422909) \| 🗓️ 2025-03-20
+| 🔥🔥: 177 \| 💬: [143](https://news.ycombinator.com/item?id=43422909) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -155,7 +155,19 @@ ACARS戏剧是一个通过**ACARS**和**VDLM2**信号捕捉飞机通信数据的
 
 ---
 
-## <a name="12"></a>12. 美国游客被铐链如“汉尼拔” 
+## <a name="12"></a>12. 墨西哥城的最后一滴水 
+<small>🔗 [mexicocitywater.longlead.com](https://mexicocitywater.longlead.com): The Last Drops of Mexico City</small>
+
+
+| 🔥🔥: 163 \| 💬: [162](https://news.ycombinator.com/item?id=43423032) \| 🗓️ 2025-03-20
+
+
+<br />
+墨西哥城正面临严重的**水资源危机**，这座全球最大、人口最多的城市之一可能很快耗尽饮用水。由于**气候变化**、过度开采和基础设施问题，城市地下水位下降，导致地面下沉和管道破裂。居民如68岁的诺玛每天从井中取水，但水质无法饮用。**Cutzamala水库**作为主要水源，因干旱和过度使用已降至历史最低水平。尽管采取了节水措施，水资源分配不均和社会紧张局势仍在加剧。
+
+---
+
+## <a name="13"></a>13. 美国游客被铐链如“汉尼拔” 
 <small>🔗 [bbc.co.uk](https://www.bbc.co.uk/news/articles/cly67j35y99o): Tourist in US chained 'like Hannibal Lecter'</small>
 
 
@@ -167,23 +179,11 @@ ACARS戏剧是一个通过**ACARS**和**VDLM2**信号捕捉飞机通信数据的
 
 ---
 
-## <a name="13"></a>13. 墨西哥城的最后一滴水 
-<small>🔗 [mexicocitywater.longlead.com](https://mexicocitywater.longlead.com): The Last Drops of Mexico City</small>
-
-
-| 🔥🔥: 156 \| 💬: [155](https://news.ycombinator.com/item?id=43423032) \| 🗓️ 2025-03-20
-
-
-<br />
-墨西哥城正面临严重的**水资源危机**，这座全球最大、人口最多的城市之一可能很快耗尽饮用水。由于**气候变化**、过度开采和基础设施问题，城市地下水位下降，导致地面下沉和管道破裂。居民如68岁的诺玛每天从井中取水，但水质无法饮用。**Cutzamala水库**作为主要水源，因干旱和过度使用已降至历史最低水平。尽管采取了节水措施，水资源分配不均和社会紧张局势仍在加剧。
-
----
-
 ## <a name="14"></a>14. 用Rust编写的网页版Game Boy模拟器：Retro Boy 
 <small>🔗 [github.com](https://github.com/smparsons/retroboy): Retro Boy: simple Game Boy emulator written in Rust, can be played on the web</small>
 
 
-| 🔥🔥: 115 \| 💬: [25](https://news.ycombinator.com/item?id=43429417) \| 🗓️ 2025-03-20
+| 🔥🔥: 126 \| 💬: [33](https://news.ycombinator.com/item?id=43429417) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -195,7 +195,7 @@ Retro Boy是一款用**Rust**编写的Game Boy模拟器，支持在网页上运�
 <small>🔗 [sethmlarson.dev](https://sethmlarson.dev/i-fear-for-the-unauthenticated-web): I fear for the unauthenticated web</small>
 
 
-| 🔥🔥: 111 \| 💬: [109](https://news.ycombinator.com/item?id=43424340) \| 🗓️ 2025-03-20
+| 🔥🔥: 111 \| 💬: [110](https://news.ycombinator.com/item?id=43424340) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -203,7 +203,19 @@ Retro Boy是一款用**Rust**编写的Game Boy模拟器，支持在网页上运�
 
 ---
 
-## <a name="16"></a>16. 欧盟向苹果发出首份DMA互操作性指令 
+## <a name="16"></a>16. 谷歌称Gemma 3为单GPU上最强大的AI模型 
+<small>🔗 [theverge.com](https://www.theverge.com/ai-artificial-intelligence/627968/google-gemma-3-open-ai-model): Google calls Gemma 3 the most powerful AI model you can run on one GPU</small>
+
+
+| 🔥🔥: 109 \| 💬: [82](https://news.ycombinator.com/item?id=43427115) \| 🗓️ 2025-03-20
+
+
+<br />
+谷歌发布了**Gemma 3**，这是其最新的“开放”AI模型，能够在单GPU上运行，并支持超过35种语言。该模型不仅能处理文本，还能分析**图像和短视频**，并声称在单GPU性能上超越了Facebook的Llama、DeepSeek和OpenAI。Gemma 3还升级了视觉编码器，支持高分辨率和非方形图像，并引入了**ShieldGemma 2**图像安全分类器，用于过滤不当内容。尽管功能强大，谷歌强调其**STEM性能**提升的同时，滥用风险较低。
+
+---
+
+## <a name="17"></a>17. 欧盟向苹果发出首份DMA互操作性指令 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/19/eu-sends-apple-first-dma-interoperability-instructions-for-apps-and-connected-devices/): EU sends Apple first DMA interoperability instructions for apps and devices</small>
 
 
@@ -215,7 +227,7 @@ Retro Boy是一款用**Rust**编写的Game Boy模拟器，支持在网页上运�
 
 ---
 
-## <a name="17"></a>17. 特斯拉召回超4.6万辆Cybertruck，因外部面板问题 
+## <a name="18"></a>18. 特斯拉召回超4.6万辆Cybertruck，因外部面板问题 
 <small>🔗 [cnn.com](https://www.cnn.com/2025/03/20/business/tesla-cybertruck-recall/index.html): Tesla to recall more than 46,000 Cybertrucks due to exterior panel issue</small>
 
 
@@ -227,23 +239,11 @@ Retro Boy是一款用**Rust**编写的Game Boy模拟器，支持在网页上运�
 
 ---
 
-## <a name="18"></a>18. 谷歌称Gemma 3为单GPU上最强大的AI模型 
-<small>🔗 [theverge.com](https://www.theverge.com/ai-artificial-intelligence/627968/google-gemma-3-open-ai-model): Google calls Gemma 3 the most powerful AI model you can run on one GPU</small>
-
-
-| 🔥🔥: 106 \| 💬: [79](https://news.ycombinator.com/item?id=43427115) \| 🗓️ 2025-03-20
-
-
-<br />
-谷歌发布了**Gemma 3**，这是其最新的“开放”AI模型，能够在单GPU上运行，并支持超过35种语言。该模型不仅能处理文本，还能分析**图像和短视频**，并声称在单GPU性能上超越了Facebook的Llama、DeepSeek和OpenAI。Gemma 3还升级了视觉编码器，支持高分辨率和非方形图像，并引入了**ShieldGemma 2**图像安全分类器，用于过滤不当内容。尽管功能强大，谷歌强调其**STEM性能**提升的同时，滥用风险较低。
-
----
-
 ## <a name="19"></a>19. ChatGPT因虚假信息生成面临隐私投诉 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/19/chatgpt-hit-with-privacy-complaint-over-defamatory-hallucinations/): ChatGPT hit with privacy complaint over defamatory hallucinations</small>
 
 
-| 🔥: 98 \| 💬: [112](https://news.ycombinator.com/item?id=43425561) \| 🗓️ 2025-03-20
+| 🔥: 99 \| 💬: [114](https://news.ycombinator.com/item?id=43425561) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -251,7 +251,19 @@ OpenAI的ChatGPT因生成虚假信息再次在欧洲引发隐私投诉。挪威�
 
 ---
 
-## <a name="20"></a>20. 环保组织Greenpeace因达科他输油管道抗议活动被判赔偿超6.6亿美元 
+## <a name="20"></a>20. GREASE：开源工具，用于发现二进制代码中的隐藏漏洞 
+<small>🔗 [galois.com](https://www.galois.com/articles/introducing-grease): Grease: An Open-Source Tool for Uncovering Hidden Vulnerabilities in Binary Code</small>
+
+
+| 🔥: 90 \| 💬: [10](https://news.ycombinator.com/item?id=43423523) \| 🗓️ 2025-03-20
+
+
+<br />
+GREASE 是一款开源工具，利用**符号执行**技术帮助逆向工程师分析二进制文件，发现难以察觉的漏洞，提升系统安全性。它支持多种架构的 Linux ELF 文件和 LLVM 位码，可作为 Ghidra 插件、命令行工具或 Haskell 库使用。GREASE 通过**启发式方法**检测潜在漏洞，但存在误报和漏报的可能。与现有工具相比，GREASE 在符号内存操作和路径覆盖方面具有优势。
+
+---
+
+## <a name="21"></a>21. 环保组织Greenpeace因达科他输油管道抗议活动被判赔偿超6.6亿美元 
 <small>🔗 [apnews.com](https://apnews.com/article/greenpeace-dakota-access-pipeline-lawsuit-verdict-5036944c1d2e7d3d7b704437e8110fbb): Greenpeace must pay over $660M in case over Dakota Access protest activities</small>
 
 
@@ -263,23 +275,11 @@ OpenAI的ChatGPT因生成虚假信息再次在欧洲引发隐私投诉。挪威�
 
 ---
 
-## <a name="21"></a>21. GREASE：开源工具，用于发现二进制代码中的隐藏漏洞 
-<small>🔗 [galois.com](https://www.galois.com/articles/introducing-grease): Grease: An Open-Source Tool for Uncovering Hidden Vulnerabilities in Binary Code</small>
-
-
-| 🔥: 87 \| 💬: [10](https://news.ycombinator.com/item?id=43423523) \| 🗓️ 2025-03-20
-
-
-<br />
-GREASE 是一款开源工具，利用**符号执行**技术帮助逆向工程师分析二进制文件，发现难以察觉的漏洞，提升系统安全性。它支持多种架构的 Linux ELF 文件和 LLVM 位码，可作为 Ghidra 插件、命令行工具或 Haskell 库使用。GREASE 通过**启发式方法**检测潜在漏洞，但存在误报和漏报的可能。与现有工具相比，GREASE 在符号内存操作和路径覆盖方面具有优势。
-
----
-
 ## <a name="22"></a>22. 用Go语言编写的粒子物理引擎 
 <small>🔗 [github.com](https://github.com/rudransh61/Physix-go): Particle Based Physics Engine in Golang</small>
 
 
-| 🔥: 77 \| 💬: [10](https://news.ycombinator.com/item?id=43423238) \| 🗓️ 2025-03-20
+| 🔥: 78 \| 💬: [9](https://news.ycombinator.com/item?id=43423238) \| 🗓️ 2025-03-20
 
 
 <br />
