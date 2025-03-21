@@ -10,13 +10,13 @@ tags:
 
 1. 开源基础设施正遭受AI公司的攻击；
 1. Claude 现已支持网页搜索；
-1. 前端技术的无尽循环；
 1. 科技行业的“榨干机器”；
+1. 前端技术的无尽循环；
 1. 荷兰议会呼吁放弃美国技术，转向本土替代方案；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共21条，具体内容您往下读...
+总共22条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [thelibre.news](https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/): FOSS infrastructure is under attack by AI companies</small>
 
 
-| 🔥🔥: 878 \| 💬: [555](https://news.ycombinator.com/item?id=43422413) \| 🗓️ 2025-03-20
+| 🔥🔥: 884 \| 💬: [557](https://news.ycombinator.com/item?id=43422413) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/web-search): Claude can now search the web</small>
 
 
-| 🔥🔥: 680 \| 💬: [345](https://news.ycombinator.com/item?id=43425655) \| 🗓️ 2025-03-20
+| 🔥🔥: 724 \| 💬: [374](https://news.ycombinator.com/item?id=43425655) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -47,27 +47,27 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 
 ---
 
-## <a name="3"></a>3. 前端技术的无尽循环 
-<small>🔗 [polotek.net](https://polotek.net/posts/the-frontend-treadmill/): The Frontend Treadmill</small>
-
-
-| 🔥🔥: 395 \| 💬: [438](https://news.ycombinator.com/item?id=43422162) \| 🗓️ 2025-03-20
-
-
-<br />
-许多前端团队认为重写前端是解决问题的关键，但作者认为这是浪费时间。**前端框架的选择并不重要**，因为无论选择什么，五年后都会过时。**聪明的团队应深入掌握现有工具**，而不是追逐新框架。作者建议回归**核心网页技术**，减少复杂抽象，以降低长期成本并提高工程师的市场价值。当前前端生态过于复杂，导致新开发者难以入门，公司招聘困难，最终所有人都受损。
-
----
-
-## <a name="4"></a>4. 科技行业的“榨干机器” 
+## <a name="3"></a>3. 科技行业的“榨干机器” 
 <small>🔗 [unionize.fyi](https://unionize.fyi): The Burnout Machine</small>
 
 
-| 🔥🔥: 388 \| 💬: [296](https://news.ycombinator.com/item?id=43427002) \| 🗓️ 2025-03-20
+| 🔥🔥: 426 \| 💬: [335](https://news.ycombinator.com/item?id=43427002) \| 🗓️ 2025-03-20
 
 
 <br />
 科技行业以“梦想工作”为幌子，实则是一个**压榨机器**，吞噬开发者、系统管理员和信息安全专家，导致**职业倦怠**和焦虑。所谓的“敏捷开发”被扭曲为管理层施压的工具，而**职业安全感**几乎为零。文章呼吁科技从业者**组织工会**，争取更好的工作条件和伦理决策权，打破这种恶性循环。
+
+---
+
+## <a name="4"></a>4. 前端技术的无尽循环 
+<small>🔗 [polotek.net](https://polotek.net/posts/the-frontend-treadmill/): The Frontend Treadmill</small>
+
+
+| 🔥🔥: 417 \| 💬: [458](https://news.ycombinator.com/item?id=43422162) \| 🗓️ 2025-03-20
+
+
+<br />
+许多前端团队认为重写前端是解决问题的关键，但作者认为这是浪费时间。**前端框架的选择并不重要**，因为无论选择什么，五年后都会过时。**聪明的团队应深入掌握现有工具**，而不是追逐新框架。作者建议回归**核心网页技术**，减少复杂抽象，以降低长期成本并提高工程师的市场价值。当前前端生态过于复杂，导致新开发者难以入门，公司招聘困难，最终所有人都受损。
 
 ---
 
@@ -84,10 +84,10 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 ---
 
 ## <a name="6"></a>6. CVE-2024-54471：macOS 密码泄露漏洞 
-<small>🔗 [wts.dev](https://wts.dev/posts/password-leak/): CVE-2024-54471: Leaking Passwords (and More!) on macOS</small>
+<small>🔗 [wts.dev](https://wts.dev/posts/password-leak/): Leaking Passwords and more on macOS</small>
 
 
-| 🔥🔥: 257 \| 💬: [42](https://news.ycombinator.com/item?id=43425605) \| 🗓️ 2025-03-20
+| 🔥🔥: 276 \| 💬: [46](https://news.ycombinator.com/item?id=43425605) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -99,7 +99,7 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 <small>🔗 [blogs.windows.com](https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/): Minding the gaps: A new way to draw separators in CSS</small>
 
 
-| 🔥🔥: 234 \| 💬: [87](https://news.ycombinator.com/item?id=43420683) \| 🗓️ 2025-03-20
+| 🔥🔥: 238 \| 💬: [88](https://news.ycombinator.com/item?id=43420683) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -111,7 +111,7 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 <small>🔗 [oeis.org](https://oeis.org/A068994): Powers of 2 with all even digits</small>
 
 
-| 🔥🔥: 215 \| 💬: [98](https://news.ycombinator.com/item?id=43421934) \| 🗓️ 2025-03-20
+| 🔥🔥: 219 \| 💬: [101](https://news.ycombinator.com/item?id=43421934) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -123,7 +123,7 @@ Claude 现在可以通过**网页搜索**功能提供最新、最相关的信息
 <small>🔗 [acarsdrama.com](https://acarsdrama.com/): ACARS Drama</small>
 
 
-| 🔥🔥: 168 \| 💬: [75](https://news.ycombinator.com/item?id=43424065) \| 🗓️ 2025-03-20
+| 🔥🔥: 172 \| 💬: [81](https://news.ycombinator.com/item?id=43424065) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -131,27 +131,27 @@ ACARS戏剧是一个通过**ACARS**和**VDLM2**信号捕捉飞机通信数据的
 
 ---
 
-## <a name="10"></a>10. 太阳能：潜力与挑战 
-<small>🔗 [construction-physics.com](https://www.construction-physics.com/p/understanding-solar-energy): Understanding Solar Energy</small>
-
-
-| 🔥🔥: 164 \| 💬: [112](https://news.ycombinator.com/item?id=43422033) \| 🗓️ 2025-03-20
-
-
-<br />
-太阳能光伏（**PV**）在过去15年中迅速崛起，成为增长最快的能源之一。尽管其成本大幅下降，使其成为最便宜的发电方式之一，但其**间歇性**（仅在阳光充足时发电）仍是主要挑战。通过增加**储能**和扩大太阳能板容量，可以部分解决这一问题，但未来太阳能能否成为主要能源仍取决于技术进步和成本降低。
-
----
-
-## <a name="11"></a>11. 最遥远星系中发现氧气，挑战早期宇宙星系形成理论 
+## <a name="10"></a>10. 最遥远星系中发现氧气，挑战早期宇宙星系形成理论 
 <small>🔗 [eso.org](https://www.eso.org/public/news/eso2507/): Oxygen discovered in most distant known galaxy</small>
 
 
-| 🔥🔥: 163 \| 💬: [124](https://news.ycombinator.com/item?id=43422909) \| 🗓️ 2025-03-20
+| 🔥🔥: 170 \| 💬: [135](https://news.ycombinator.com/item?id=43422909) \| 🗓️ 2025-03-20
 
 
 <br />
 天文学家利用**阿塔卡马大型毫米波/亚毫米波阵列（ALMA）**，在迄今已知最遥远的星系JADES-GS-z14-0中检测到氧气。该星系距离地球134亿光年，其光线来自宇宙诞生不到3亿年的时期。这一发现表明，星系在早期宇宙中的形成和化学演化速度远超预期，**挑战了现有星系形成理论**。研究结果已分别发表在《天体物理学杂志》和《天文学与天体物理学》上。
+
+---
+
+## <a name="11"></a>11. 太阳能：潜力与挑战 
+<small>🔗 [construction-physics.com](https://www.construction-physics.com/p/understanding-solar-energy): Understanding Solar Energy</small>
+
+
+| 🔥🔥: 166 \| 💬: [117](https://news.ycombinator.com/item?id=43422033) \| 🗓️ 2025-03-20
+
+
+<br />
+太阳能光伏（**PV**）在过去15年中迅速崛起，成为增长最快的能源之一。尽管其成本大幅下降，使其成为最便宜的发电方式之一，但其**间歇性**（仅在阳光充足时发电）仍是主要挑战。通过增加**储能**和扩大太阳能板容量，可以部分解决这一问题，但未来太阳能能否成为主要能源仍取决于技术进步和成本降低。
 
 ---
 
@@ -171,7 +171,7 @@ ACARS戏剧是一个通过**ACARS**和**VDLM2**信号捕捉飞机通信数据的
 <small>🔗 [mexicocitywater.longlead.com](https://mexicocitywater.longlead.com): The Last Drops of Mexico City</small>
 
 
-| 🔥🔥: 145 \| 💬: [143](https://news.ycombinator.com/item?id=43423032) \| 🗓️ 2025-03-20
+| 🔥🔥: 152 \| 💬: [147](https://news.ycombinator.com/item?id=43423032) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -183,7 +183,7 @@ ACARS戏剧是一个通过**ACARS**和**VDLM2**信号捕捉飞机通信数据的
 <small>🔗 [sethmlarson.dev](https://sethmlarson.dev/i-fear-for-the-unauthenticated-web): I fear for the unauthenticated web</small>
 
 
-| 🔥🔥: 110 \| 💬: [109](https://news.ycombinator.com/item?id=43424340) \| 🗓️ 2025-03-20
+| 🔥🔥: 111 \| 💬: [109](https://news.ycombinator.com/item?id=43424340) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -219,7 +219,7 @@ ACARS戏剧是一个通过**ACARS**和**VDLM2**信号捕捉飞机通信数据的
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/19/chatgpt-hit-with-privacy-complaint-over-defamatory-hallucinations/): ChatGPT hit with privacy complaint over defamatory hallucinations</small>
 
 
-| 🔥: 97 \| 💬: [109](https://news.ycombinator.com/item?id=43425561) \| 🗓️ 2025-03-20
+| 🔥: 97 \| 💬: [112](https://news.ycombinator.com/item?id=43425561) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -231,7 +231,7 @@ OpenAI的ChatGPT因生成虚假信息再次在欧洲引发隐私投诉。挪威�
 <small>🔗 [theverge.com](https://www.theverge.com/ai-artificial-intelligence/627968/google-gemma-3-open-ai-model): Google calls Gemma 3 the most powerful AI model you can run on one GPU</small>
 
 
-| 🔥: 90 \| 💬: [63](https://news.ycombinator.com/item?id=43427115) \| 🗓️ 2025-03-20
+| 🔥: 97 \| 💬: [68](https://news.ycombinator.com/item?id=43427115) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -243,7 +243,7 @@ OpenAI的ChatGPT因生成虚假信息再次在欧洲引发隐私投诉。挪威�
 <small>🔗 [apnews.com](https://apnews.com/article/greenpeace-dakota-access-pipeline-lawsuit-verdict-5036944c1d2e7d3d7b704437e8110fbb): Greenpeace must pay over $660M in case over Dakota Access protest activities</small>
 
 
-| 🔥: 86 \| 💬: [68](https://news.ycombinator.com/item?id=43422556) \| 🗓️ 2025-03-20
+| 🔥: 87 \| 💬: [69](https://news.ycombinator.com/item?id=43422556) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -251,11 +251,23 @@ OpenAI的ChatGPT因生成虚假信息再次在欧洲引发隐私投诉。挪威�
 
 ---
 
-## <a name="20"></a>20. GREASE：开源工具，用于发现二进制代码中的隐藏漏洞 
+## <a name="20"></a>20. 用Rust编写的网页版Game Boy模拟器：Retro Boy 
+<small>🔗 [github.com](https://github.com/smparsons/retroboy): Retro Boy: simple Game Boy emulator written in Rust, can be played on the web</small>
+
+
+| 🔥: 85 \| 💬: [14](https://news.ycombinator.com/item?id=43429417) \| 🗓️ 2025-03-20
+
+
+<br />
+Retro Boy是一款用**Rust**编写的Game Boy模拟器，支持在网页上运行。它通过**WebAssembly**将Rust代码转换为可在浏览器中运行的格式，并使用**Web Audio API**和HTML Canvas实现音频和图形渲染。该模拟器支持多种MBC卡带、实时时钟（RTC）以及游戏作弊码，并利用浏览器本地存储保存卡带RAM数据。前端采用React/TypeScript开发，提供全屏模式、暂停/恢复等功能，适合移动设备使用。
+
+---
+
+## <a name="21"></a>21. GREASE：开源工具，用于发现二进制代码中的隐藏漏洞 
 <small>🔗 [galois.com](https://www.galois.com/articles/introducing-grease): Grease: An Open-Source Tool for Uncovering Hidden Vulnerabilities in Binary Code</small>
 
 
-| 🔥: 82 \| 💬: [10](https://news.ycombinator.com/item?id=43423523) \| 🗓️ 2025-03-20
+| 🔥: 84 \| 💬: [10](https://news.ycombinator.com/item?id=43423523) \| 🗓️ 2025-03-20
 
 
 <br />
@@ -263,11 +275,11 @@ GREASE 是一款开源工具，利用**符号执行**技术帮助逆向工程师
 
 ---
 
-## <a name="21"></a>21. 用Go语言编写的粒子物理引擎 
+## <a name="22"></a>22. 用Go语言编写的粒子物理引擎 
 <small>🔗 [github.com](https://github.com/rudransh61/Physix-go): Particle Based Physics Engine in Golang</small>
 
 
-| 🔥: 76 \| 💬: [8](https://news.ycombinator.com/item?id=43423238) \| 🗓️ 2025-03-20
+| 🔥: 77 \| 💬: [10](https://news.ycombinator.com/item?id=43423238) \| 🗓️ 2025-03-20
 
 
 <br />
