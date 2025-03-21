@@ -11,12 +11,12 @@ tags:
 1. 职业发展：经理、总监和副总裁的真正含义；
 1. IronRDP：基于 Rust 的微软 RDP 协议实现；
 1. FBI没收女子毕生积蓄却未说明原因；
-1. 德国收紧对美旅行建议，三名公民被拘留；
 1. 车轮再造者的原则（2024）；
+1. 德国收紧对美旅行建议，三名公民被拘留；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共17条，具体内容您往下读...
+总共22条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [kellblog.com](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/): Career Development: What It Means to Be a Manager, Director, or VP (2015)</small>
 
 
-| 🔥🔥: 350 \| 💬: [173](https://news.ycombinator.com/item?id=43434093) \| 🗓️ 2025-03-21
+| 🔥🔥: 362 \| 💬: [181](https://news.ycombinator.com/item?id=43434093) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Devolutions/IronRDP): IronRDP: a Rust implementation of Microsoft's RDP protocol</small>
 
 
-| 🔥🔥: 271 \| 💬: [135](https://news.ycombinator.com/item?id=43436894) \| 🗓️ 2025-03-21
+| 🔥🔥: 295 \| 💬: [143](https://news.ycombinator.com/item?id=43436894) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -59,23 +59,11 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 
 ---
 
-## <a name="4"></a>4. 德国收紧对美旅行建议，三名公民被拘留 
-<small>🔗 [euronews.com](https://www.euronews.com/my-europe/2025/03/19/germany-tightens-travel-advice-to-us-after-three-citizens-detained): Germany tightens travel advice to US after three citizens detained</small>
-
-
-| 🔥🔥: 175 \| 💬: [155](https://news.ycombinator.com/item?id=43433071) \| 🗓️ 2025-03-21
-
-
-<br />
-德国外交部更新了对前往美国的德国公民的旅行建议，原因是三名德国公民在入境时被拒绝并拘留。**更新后的建议明确指出**，在美国的刑事定罪、虚假的停留目的信息或签证轻微超期都可能导致逮捕、拘留和驱逐出境。此外，**持有ESTA旅行授权文件并不保证入境**，最终决定权在美国边境当局。德国外交部强调，此次更新并非对美国的旅行警告。三名被拘留的德国公民中包括一名美国永久居民，他们经历了不同程度的拘留和审讯，其中一人被关押超过六周。
-
----
-
-## <a name="5"></a>5. 车轮再造者的原则（2024） 
+## <a name="4"></a>4. 车轮再造者的原则（2024） 
 <small>🔗 [tobloef.com](https://tobloef.com/blog/wheel-reinventors-principles/): Wheel Reinventor’s Principles (2024)</small>
 
 
-| 🔥🔥: 174 \| 💬: [89](https://news.ycombinator.com/item?id=43434730) \| 🗓️ 2025-03-21
+| 🔥🔥: 181 \| 💬: [91](https://news.ycombinator.com/item?id=43434730) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -83,11 +71,23 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 
 ---
 
+## <a name="5"></a>5. 德国收紧对美旅行建议，三名公民被拘留 
+<small>🔗 [euronews.com](https://www.euronews.com/my-europe/2025/03/19/germany-tightens-travel-advice-to-us-after-three-citizens-detained): Germany tightens travel advice to US after three citizens detained</small>
+
+
+| 🔥🔥: 175 \| 💬: [156](https://news.ycombinator.com/item?id=43433071) \| 🗓️ 2025-03-21
+
+
+<br />
+德国外交部更新了对前往美国的德国公民的旅行建议，原因是三名德国公民在入境时被拒绝并拘留。**更新后的建议明确指出**，在美国的刑事定罪、虚假的停留目的信息或签证轻微超期都可能导致逮捕、拘留和驱逐出境。此外，**持有ESTA旅行授权文件并不保证入境**，最终决定权在美国边境当局。德国外交部强调，此次更新并非对美国的旅行警告。三名被拘留的德国公民中包括一名美国永久居民，他们经历了不同程度的拘留和审讯，其中一人被关押超过六周。
+
+---
+
 ## <a name="6"></a>6. 拥堵收费：政策奇迹 
 <small>🔗 [bettercities.substack.com](https://bettercities.substack.com/p/congestion-pricing-is-a-policy-miracle): Congestion Pricing Is a Policy Miracle</small>
 
 
-| 🔥🔥: 155 \| 💬: [246](https://news.ycombinator.com/item?id=43436315) \| 🗓️ 2025-03-21
+| 🔥🔥: 158 \| 💬: [260](https://news.ycombinator.com/item?id=43436315) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -107,15 +107,15 @@ Reddit用户讨论了一个令人震惊的现象：到2025年，**折叠一个di
 
 ---
 
-## <a name="8"></a>8. Torch Lens Maker：基于PyTorch的可微分几何光学库 
-<small>🔗 [victorpoughon.github.io](https://victorpoughon.github.io/torchlensmaker/): Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch</small>
+## <a name="8"></a>8. 法国拒绝加密后门提案 
+<small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/win-encryption-france-rejects-backdoor-mandate): France rejects backdoor mandate</small>
 
 
-| 🔥🔥: 121 \| 💬: [35](https://news.ycombinator.com/item?id=43435438) \| 🗓️ 2025-03-21
+| 🔥🔥: 150 \| 💬: [6](https://news.ycombinator.com/item?id=43440513) \| 🗓️ 2025-03-21
 
 
 <br />
-Torch Lens Maker 是一个基于 **PyTorch** 的开源库，专注于**可微分几何光学**，旨在通过现代计算机代码和先进的数值优化设计复杂的光学系统（如透镜、反射镜等）。它将光学元件类比为神经网络的层，利用 **PyTorch** 的自动微分和优化算法，实现光学系统的设计和优化。该项目仍处于实验阶段，未来计划支持更多功能。
+法国国民议会否决了一项要求**加密通讯平台**（如Signal和WhatsApp）允许执法部门秘密访问私人对话的提案。这一决定是**数字权利**和**隐私安全**的胜利，避免了系统性漏洞和滥用风险。此举向全球立法者传递了重要信息：**加密技术**是保护基本人权和现代民主的支柱，不应以公共安全为名牺牲。
 
 ---
 
@@ -123,7 +123,7 @@ Torch Lens Maker 是一个基于 **PyTorch** 的开源库，专注于**可微分
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/new-uspto-memo-makes-fighting-patent-trolls-even-harder): New USPTO Memo Makes Fighting Patent Trolls Even Harder</small>
 
 
-| 🔥🔥: 103 \| 💬: [29](https://news.ycombinator.com/item?id=43439610) \| 🗓️ 2025-03-21
+| 🔥🔥: 139 \| 💬: [49](https://news.ycombinator.com/item?id=43439610) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -131,11 +131,35 @@ Torch Lens Maker 是一个基于 **PyTorch** 的开源库，专注于**可微分
 
 ---
 
-## <a name="10"></a>10. 未被选择的道路：保障最低收入 
+## <a name="10"></a>10. Torch Lens Maker：基于PyTorch的可微分几何光学库 
+<small>🔗 [victorpoughon.github.io](https://victorpoughon.github.io/torchlensmaker/): Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch</small>
+
+
+| 🔥🔥: 127 \| 💬: [36](https://news.ycombinator.com/item?id=43435438) \| 🗓️ 2025-03-21
+
+
+<br />
+Torch Lens Maker 是一个基于 **PyTorch** 的开源库，专注于**可微分几何光学**，旨在通过现代计算机代码和先进的数值优化设计复杂的光学系统（如透镜、反射镜等）。它将光学元件类比为神经网络的层，利用 **PyTorch** 的自动微分和优化算法，实现光学系统的设计和优化。该项目仍处于实验阶段，未来计划支持更多功能。
+
+---
+
+## <a name="11"></a>11. 机器学习中的笔纸练习 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2206.13446): Pen and Paper Exercises in Machine Learning (2022)</small>
+
+
+| 🔥🔥: 107 \| 💬: [16](https://news.ycombinator.com/item?id=43440267) \| 🗓️ 2025-03-21
+
+
+<br />
+本文由Michael U. Gutmann撰写，提供了一系列**机器学习**相关的笔纸练习，涵盖**线性代数**、优化、图模型、变分推断等主题。这些练习旨在帮助读者通过动手实践深入理解机器学习的基础概念。相关资源可在GitHub页面获取。
+
+---
+
+## <a name="12"></a>12. 未被选择的道路：保障最低收入 
 <small>🔗 [blog.codinghorror.com](https://blog.codinghorror.com/the-road-not-taken-is-guaranteed-minimum-income/): The Road Not Taken Is Guaranteed Minimum Income</small>
 
 
-| 🔥: 99 \| 💬: [182](https://news.ycombinator.com/item?id=43436454) \| 🗓️ 2025-03-21
+| 🔥: 100 \| 💬: [184](https://news.ycombinator.com/item?id=43436454) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -143,7 +167,7 @@ Torch Lens Maker 是一个基于 **PyTorch** 的开源库，专注于**可微分
 
 ---
 
-## <a name="11"></a>11. 波士顿动力展示人形机器人移动能力的重大突破 
+## <a name="13"></a>13. 波士顿动力展示人形机器人移动能力的重大突破 
 <small>🔗 [newatlas.com](https://newatlas.com/ai-humanoids/boston-dynamics-atlas-athletic/): Boston Dynamics shows off another major leap in humanoid mobility</small>
 
 
@@ -155,7 +179,7 @@ Torch Lens Maker 是一个基于 **PyTorch** 的开源库，专注于**可微分
 
 ---
 
-## <a name="12"></a>12. 我的尝试：整理AI开发工具的世界 
+## <a name="14"></a>14. 我的尝试：整理AI开发工具的世界 
 <small>🔗 [aicode.danvoronov.com](https://aicode.danvoronov.com/tools/): Show HN: My Attempt to Organize the World of AI Dev Tools</small>
 
 
@@ -167,11 +191,11 @@ Torch Lens Maker 是一个基于 **PyTorch** 的开源库，专注于**可微分
 
 ---
 
-## <a name="13"></a>13. 编号应从零开始（1982） 
+## <a name="15"></a>15. 编号应从零开始（1982） 
 <small>🔗 [cs.utexas.edu](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD831.html): Numbering should start at zero (1982)</small>
 
 
-| 🔥: 88 \| 💬: [234](https://news.ycombinator.com/item?id=43433599) \| 🗓️ 2025-03-21
+| 🔥: 88 \| 💬: [240](https://news.ycombinator.com/item?id=43433599) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -179,23 +203,11 @@ Torch Lens Maker 是一个基于 **PyTorch** 的开源库，专注于**可微分
 
 ---
 
-## <a name="14"></a>14. 腿式机器人与滑板运动的结合：离散时间混合自动机学习 
-<small>🔗 [umich-curly.github.io](https://umich-curly.github.io/DHAL/): Legged Locomotion Meets Skateboarding</small>
-
-
-| 🔥: 73 \| 💬: [17](https://news.ycombinator.com/item?id=43434910) \| 🗓️ 2025-03-21
-
-
-<br />
-本文提出了一种**离散时间混合自动机学习（DHAL）**框架，利用**强化学习**实现模式切换的识别与执行，无需轨迹分割或事件函数学习。该方法通过**多批评器架构**和β策略分布，成功应用于四足机器人滑板任务，展示了在混合动力系统中的鲁棒性能。
-
----
-
-## <a name="15"></a>15. 纯PHP实现的终端模拟器 
+## <a name="16"></a>16. 纯PHP实现的终端模拟器 
 <small>🔗 [github.com](https://github.com/soloterm/screen): Show HN: A terminal emulator in pure PHP</small>
 
 
-| 🔥: 69 \| 💬: [46](https://news.ycombinator.com/item?id=43438797) \| 🗓️ 2025-03-21
+| 🔥: 84 \| 💬: [49](https://news.ycombinator.com/item?id=43438797) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -203,7 +215,19 @@ Solo Screen 是一个用**纯PHP**编写的终端模拟器，专为PHP应用程�
 
 ---
 
-## <a name="16"></a>16. 美国关闭加拿大通往斯坦斯特德边境图书馆的主要入口 
+## <a name="17"></a>17. 腿式机器人与滑板运动的结合：离散时间混合自动机学习 
+<small>🔗 [umich-curly.github.io](https://umich-curly.github.io/DHAL/): Legged Locomotion Meets Skateboarding</small>
+
+
+| 🔥: 80 \| 💬: [20](https://news.ycombinator.com/item?id=43434910) \| 🗓️ 2025-03-21
+
+
+<br />
+本文提出了一种**离散时间混合自动机学习（DHAL）**框架，利用**强化学习**实现模式切换的识别与执行，无需轨迹分割或事件函数学习。该方法通过**多批评器架构**和β策略分布，成功应用于四足机器人滑板任务，展示了在混合动力系统中的鲁棒性能。
+
+---
+
+## <a name="18"></a>18. 美国关闭加拿大通往斯坦斯特德边境图书馆的主要入口 
 <small>🔗 [cbc.ca](https://www.cbc.ca/lite/story/1.7489528): U.S. blocks Canadian access to iconic Stanstead border-straddling library</small>
 
 
@@ -215,14 +239,50 @@ Solo Screen 是一个用**纯PHP**编写的终端模拟器，专为PHP应用程�
 
 ---
 
-## <a name="17"></a>17. 警察诱导供述2.0：风险因素与建议 
+## <a name="19"></a>19. Mathup：快速编写数学表达式的MathML工具 
+<small>🔗 [mathup.xyz](https://mathup.xyz/): Mathup: Easy MathML authoring tool with a quick to write syntax</small>
+
+
+| 🔥: 65 \| 💬: [17](https://news.ycombinator.com/item?id=43438192) \| 🗓️ 2025-03-21
+
+
+<br />
+Mathup 是一个**轻量级工具**，能够将简单的数学表达式快速转换为 **MathML** 格式。它支持命令行、Node.js 和浏览器环境，提供**自定义元素**和多种导入方式。与 MathJax 相比，Mathup 更专注于快速解析和转换，适合需要简单数学表达式的场景。
+
+---
+
+## <a name="20"></a>20. 基于内容定义分块的文件备份服务攻击研究 
+<small>🔗 [daemonology.net](https://www.daemonology.net/blog/chunking-attacks.pdf): Chunking Attacks on File Backup Services Using Content-Deﬁned Chunking [pdf]</small>
+
+
+| 🔥: 63 \| 💬: [15](https://news.ycombinator.com/item?id=43438601) \| 🗓️ 2025-03-21
+
+
+<br />
+本文探讨了利用**内容定义分块（CDC）**技术对文件备份服务进行攻击的可能性。通过分析CDC的工作原理，研究者展示了如何通过精心构造的**恶意文件**来绕过备份系统的去重机制，从而消耗大量存储资源。研究还提出了可能的防御措施，以应对此类**分块攻击**。
+
+---
+
+## <a name="21"></a>21. 警察诱导供述2.0：风险因素与建议 
 <small>🔗 [psycnet.apa.org](https://psycnet.apa.org/fulltext/2025-79126-001.html): Police-Induced Confessions, 2.0: Risk Factors and Recommendations</small>
 
 
-| 🔥: 62 \| 💬: [34](https://news.ycombinator.com/item?id=43436643) \| 🗓️ 2025-03-21
+| 🔥: 62 \| 💬: [35](https://news.ycombinator.com/item?id=43436643) \| 🗓️ 2025-03-21
 
 
 <br />
 本文探讨了**警察诱导供述**的风险因素，包括心理压力、审讯技巧和嫌疑人脆弱性。研究提出了改进审讯程序的建议，以减少**虚假供述**的发生，并强调了**法律保障**的重要性，以确保审讯过程的公正性。
+
+---
+
+## <a name="22"></a>22. 中国研发新型装备，加速对台军事准备 
+<small>🔗 [economist.com](https://www.economist.com/china/2025/03/20/china-is-developing-some-startling-new-kit-in-its-quest-to-reclaim-taiwan): China is developing some startling new kit in its quest to invade Taiwan</small>
+
+
+| 🔥: 37 \| 💬: [45](https://news.ycombinator.com/item?id=43433324) \| 🗓️ 2025-03-21
+
+
+<br />
+中国正在研发一种**混合型船只**，既能作为驳船，又能作为桥梁。这些船只配备了可伸缩的**100米长桥**，能够在浅水区稳定并延伸至海滩，用于快速输送**部队和坦克**。此举被认为是为未来可能的对台军事行动做准备。
 
 ---
