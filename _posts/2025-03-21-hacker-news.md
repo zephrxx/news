@@ -10,13 +10,13 @@ tags:
 
 1. 职业发展：经理、总监和副总裁的真正含义；
 1. IronRDP：基于 Rust 的微软 RDP 协议实现；
+1. 法国拒绝加密后门提案；
 1. FBI没收女子毕生积蓄却未说明原因；
 1. 车轮再造者的原则（2024）；
-1. 德国收紧对美旅行建议，三名公民被拘留；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共22条，具体内容您往下读...
+总共23条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [kellblog.com](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/): Career Development: What It Means to Be a Manager, Director, or VP (2015)</small>
 
 
-| 🔥🔥: 362 \| 💬: [181](https://news.ycombinator.com/item?id=43434093) \| 🗓️ 2025-03-21
+| 🔥🔥: 373 \| 💬: [189](https://news.ycombinator.com/item?id=43434093) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Devolutions/IronRDP): IronRDP: a Rust implementation of Microsoft's RDP protocol</small>
 
 
-| 🔥🔥: 295 \| 💬: [143](https://news.ycombinator.com/item?id=43436894) \| 🗓️ 2025-03-21
+| 🔥🔥: 317 \| 💬: [147](https://news.ycombinator.com/item?id=43436894) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -47,11 +47,23 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 
 ---
 
-## <a name="3"></a>3. FBI没收女子毕生积蓄却未说明原因 
+## <a name="3"></a>3. 法国拒绝加密后门提案 
+<small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/win-encryption-france-rejects-backdoor-mandate): France rejects backdoor mandate</small>
+
+
+| 🔥🔥: 260 \| 💬: [45](https://news.ycombinator.com/item?id=43440513) \| 🗓️ 2025-03-21
+
+
+<br />
+法国国民议会否决了一项要求**加密通讯平台**（如Signal和WhatsApp）允许执法部门秘密访问私人对话的提案。这一决定是**数字权利**和**隐私安全**的胜利，避免了系统性漏洞和滥用风险。此举向全球立法者传递了重要信息：**加密技术**是保护基本人权和现代民主的支柱，不应以公共安全为名牺牲。
+
+---
+
+## <a name="4"></a>4. FBI没收女子毕生积蓄却未说明原因 
 <small>🔗 [reason.com](https://reason.com/2025/03/20/the-fbi-seized-this-womans-life-savings-without-telling-her-why/): The FBI Seized This Woman's Life Savings–Without Telling Her Why</small>
 
 
-| 🔥🔥: 232 \| 💬: [106](https://news.ycombinator.com/item?id=43433694) \| 🗓️ 2025-03-21
+| 🔥🔥: 234 \| 💬: [106](https://news.ycombinator.com/item?id=43433694) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -59,11 +71,11 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 
 ---
 
-## <a name="4"></a>4. 车轮再造者的原则（2024） 
+## <a name="5"></a>5. 车轮再造者的原则（2024） 
 <small>🔗 [tobloef.com](https://tobloef.com/blog/wheel-reinventors-principles/): Wheel Reinventor’s Principles (2024)</small>
 
 
-| 🔥🔥: 181 \| 💬: [91](https://news.ycombinator.com/item?id=43434730) \| 🗓️ 2025-03-21
+| 🔥🔥: 185 \| 💬: [95](https://news.ycombinator.com/item?id=43434730) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -71,7 +83,7 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 
 ---
 
-## <a name="5"></a>5. 德国收紧对美旅行建议，三名公民被拘留 
+## <a name="6"></a>6. 德国收紧对美旅行建议，三名公民被拘留 
 <small>🔗 [euronews.com](https://www.euronews.com/my-europe/2025/03/19/germany-tightens-travel-advice-to-us-after-three-citizens-detained): Germany tightens travel advice to US after three citizens detained</small>
 
 
@@ -83,11 +95,11 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 
 ---
 
-## <a name="6"></a>6. 拥堵收费：政策奇迹 
+## <a name="7"></a>7. 拥堵收费：政策奇迹 
 <small>🔗 [bettercities.substack.com](https://bettercities.substack.com/p/congestion-pricing-is-a-policy-miracle): Congestion Pricing Is a Policy Miracle</small>
 
 
-| 🔥🔥: 158 \| 💬: [260](https://news.ycombinator.com/item?id=43436315) \| 🗓️ 2025-03-21
+| 🔥🔥: 160 \| 💬: [275](https://news.ycombinator.com/item?id=43436315) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -95,7 +107,19 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 
 ---
 
-## <a name="7"></a>7. 2025年：折叠一个div需要每月8美元？ 
+## <a name="8"></a>8. 美国专利商标局新政策加剧打击专利流氓的难度 
+<small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/new-uspto-memo-makes-fighting-patent-trolls-even-harder): New USPTO Memo Makes Fighting Patent Trolls Even Harder</small>
+
+
+| 🔥🔥: 160 \| 💬: [60](https://news.ycombinator.com/item?id=43439610) \| 🗓️ 2025-03-21
+
+
+<br />
+美国专利商标局（USPTO）近日发布备忘录，进一步限制**多方复审（IPR）**的使用，使得公众更难挑战无效专利。此举将保护低质量专利，助长**专利流氓**的气焰，并让大公司更容易利用弱专利打压小企业。IPR原本是国会为解决专利局错误授予专利而设立的高效、低成本审查机制，但新政策通过**自由裁量拒绝**大幅削弱了其作用，导致专利挑战更加困难，损害了公众利益。
+
+---
+
+## <a name="9"></a>9. 2025年：折叠一个div需要每月8美元？ 
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/webdev/comments/1jged6g/imagine_telling_2010_devs_that_in_2025_collapsing/): Imagine telling 2010 devs that in 2025, collapsing a div would require $8/ month</small>
 
 
@@ -107,47 +131,11 @@ Reddit用户讨论了一个令人震惊的现象：到2025年，**折叠一个di
 
 ---
 
-## <a name="8"></a>8. 法国拒绝加密后门提案 
-<small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/win-encryption-france-rejects-backdoor-mandate): France rejects backdoor mandate</small>
-
-
-| 🔥🔥: 150 \| 💬: [6](https://news.ycombinator.com/item?id=43440513) \| 🗓️ 2025-03-21
-
-
-<br />
-法国国民议会否决了一项要求**加密通讯平台**（如Signal和WhatsApp）允许执法部门秘密访问私人对话的提案。这一决定是**数字权利**和**隐私安全**的胜利，避免了系统性漏洞和滥用风险。此举向全球立法者传递了重要信息：**加密技术**是保护基本人权和现代民主的支柱，不应以公共安全为名牺牲。
-
----
-
-## <a name="9"></a>9. 美国专利商标局新政策加剧打击专利流氓的难度 
-<small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/new-uspto-memo-makes-fighting-patent-trolls-even-harder): New USPTO Memo Makes Fighting Patent Trolls Even Harder</small>
-
-
-| 🔥🔥: 139 \| 💬: [49](https://news.ycombinator.com/item?id=43439610) \| 🗓️ 2025-03-21
-
-
-<br />
-美国专利商标局（USPTO）近日发布备忘录，进一步限制**多方复审（IPR）**的使用，使得公众更难挑战无效专利。此举将保护低质量专利，助长**专利流氓**的气焰，并让大公司更容易利用弱专利打压小企业。IPR原本是国会为解决专利局错误授予专利而设立的高效、低成本审查机制，但新政策通过**自由裁量拒绝**大幅削弱了其作用，导致专利挑战更加困难，损害了公众利益。
-
----
-
-## <a name="10"></a>10. Torch Lens Maker：基于PyTorch的可微分几何光学库 
-<small>🔗 [victorpoughon.github.io](https://victorpoughon.github.io/torchlensmaker/): Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch</small>
-
-
-| 🔥🔥: 127 \| 💬: [36](https://news.ycombinator.com/item?id=43435438) \| 🗓️ 2025-03-21
-
-
-<br />
-Torch Lens Maker 是一个基于 **PyTorch** 的开源库，专注于**可微分几何光学**，旨在通过现代计算机代码和先进的数值优化设计复杂的光学系统（如透镜、反射镜等）。它将光学元件类比为神经网络的层，利用 **PyTorch** 的自动微分和优化算法，实现光学系统的设计和优化。该项目仍处于实验阶段，未来计划支持更多功能。
-
----
-
-## <a name="11"></a>11. 机器学习中的笔纸练习 
+## <a name="10"></a>10. 机器学习中的笔纸练习 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2206.13446): Pen and Paper Exercises in Machine Learning (2022)</small>
 
 
-| 🔥🔥: 107 \| 💬: [16](https://news.ycombinator.com/item?id=43440267) \| 🗓️ 2025-03-21
+| 🔥🔥: 141 \| 💬: [20](https://news.ycombinator.com/item?id=43440267) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -155,11 +143,23 @@ Torch Lens Maker 是一个基于 **PyTorch** 的开源库，专注于**可微分
 
 ---
 
+## <a name="11"></a>11. Torch Lens Maker：基于PyTorch的可微分几何光学库 
+<small>🔗 [victorpoughon.github.io](https://victorpoughon.github.io/torchlensmaker/): Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch</small>
+
+
+| 🔥🔥: 133 \| 💬: [38](https://news.ycombinator.com/item?id=43435438) \| 🗓️ 2025-03-21
+
+
+<br />
+Torch Lens Maker 是一个基于 **PyTorch** 的开源库，专注于**可微分几何光学**，旨在通过现代计算机代码和先进的数值优化设计复杂的光学系统（如透镜、反射镜等）。它将光学元件类比为神经网络的层，利用 **PyTorch** 的自动微分和优化算法，实现光学系统的设计和优化。该项目仍处于实验阶段，未来计划支持更多功能。
+
+---
+
 ## <a name="12"></a>12. 未被选择的道路：保障最低收入 
 <small>🔗 [blog.codinghorror.com](https://blog.codinghorror.com/the-road-not-taken-is-guaranteed-minimum-income/): The Road Not Taken Is Guaranteed Minimum Income</small>
 
 
-| 🔥: 100 \| 💬: [184](https://news.ycombinator.com/item?id=43436454) \| 🗓️ 2025-03-21
+| 🔥🔥: 102 \| 💬: [185](https://news.ycombinator.com/item?id=43436454) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -167,11 +167,23 @@ Torch Lens Maker 是一个基于 **PyTorch** 的开源库，专注于**可微分
 
 ---
 
-## <a name="13"></a>13. 波士顿动力展示人形机器人移动能力的重大突破 
+## <a name="13"></a>13. 小书：操作系统开发指南 
+<small>🔗 [littleosbook.github.io](https://littleosbook.github.io/): The little book about OS development</small>
+
+
+| 🔥: 98 \| 💬: [4](https://news.ycombinator.com/item?id=43440473) \| 🗓️ 2025-03-21
+
+
+<br />
+《小书：操作系统开发指南》是一本实践性指南，旨在帮助读者从零开始开发一个基于**x86架构**的操作系统。书中详细介绍了开发环境的搭建、**引导过程**、C语言编程、硬件交互、分段与分页、中断处理、用户模式、文件系统、系统调用和多任务处理等核心主题。通过逐步引导，读者将学会如何编写一个功能简单但完整的操作系统内核。本书适合具备UNIX/Linux、C语言和系统编程基础的读者，适合那些希望深入理解操作系统底层原理的开发者。
+
+---
+
+## <a name="14"></a>14. 波士顿动力展示人形机器人移动能力的重大突破 
 <small>🔗 [newatlas.com](https://newatlas.com/ai-humanoids/boston-dynamics-atlas-athletic/): Boston Dynamics shows off another major leap in humanoid mobility</small>
 
 
-| 🔥: 96 \| 💬: [75](https://news.ycombinator.com/item?id=43434040) \| 🗓️ 2025-03-21
+| 🔥: 97 \| 💬: [75](https://news.ycombinator.com/item?id=43434040) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -179,7 +191,19 @@ Torch Lens Maker 是一个基于 **PyTorch** 的开源库，专注于**可微分
 
 ---
 
-## <a name="14"></a>14. 我的尝试：整理AI开发工具的世界 
+## <a name="15"></a>15. 纯PHP实现的终端模拟器 
+<small>🔗 [github.com](https://github.com/soloterm/screen): Show HN: A terminal emulator in pure PHP</small>
+
+
+| 🔥: 97 \| 💬: [54](https://news.ycombinator.com/item?id=43438797) \| 🗓️ 2025-03-21
+
+
+<br />
+Solo Screen 是一个用**纯PHP**编写的终端模拟器，专为PHP应用程序设计，支持**ANSI转义序列**，如光标移动、文本样式和屏幕操作。它通过虚拟终端缓冲区确保复杂的ANSI操作不会干扰其他界面部分，适合构建**文本用户界面**。该库支持Unicode、多字节字符和滚动功能，适用于PHP 8.1及以上版本。
+
+---
+
+## <a name="16"></a>16. 我的尝试：整理AI开发工具的世界 
 <small>🔗 [aicode.danvoronov.com](https://aicode.danvoronov.com/tools/): Show HN: My Attempt to Organize the World of AI Dev Tools</small>
 
 
@@ -191,11 +215,11 @@ Torch Lens Maker 是一个基于 **PyTorch** 的开源库，专注于**可微分
 
 ---
 
-## <a name="15"></a>15. 编号应从零开始（1982） 
+## <a name="17"></a>17. 编号应从零开始（1982） 
 <small>🔗 [cs.utexas.edu](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD831.html): Numbering should start at zero (1982)</small>
 
 
-| 🔥: 88 \| 💬: [240](https://news.ycombinator.com/item?id=43433599) \| 🗓️ 2025-03-21
+| 🔥: 89 \| 💬: [244](https://news.ycombinator.com/item?id=43433599) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -203,23 +227,11 @@ Torch Lens Maker 是一个基于 **PyTorch** 的开源库，专注于**可微分
 
 ---
 
-## <a name="16"></a>16. 纯PHP实现的终端模拟器 
-<small>🔗 [github.com](https://github.com/soloterm/screen): Show HN: A terminal emulator in pure PHP</small>
-
-
-| 🔥: 84 \| 💬: [49](https://news.ycombinator.com/item?id=43438797) \| 🗓️ 2025-03-21
-
-
-<br />
-Solo Screen 是一个用**纯PHP**编写的终端模拟器，专为PHP应用程序设计，支持**ANSI转义序列**，如光标移动、文本样式和屏幕操作。它通过虚拟终端缓冲区确保复杂的ANSI操作不会干扰其他界面部分，适合构建**文本用户界面**。该库支持Unicode、多字节字符和滚动功能，适用于PHP 8.1及以上版本。
-
----
-
-## <a name="17"></a>17. 腿式机器人与滑板运动的结合：离散时间混合自动机学习 
+## <a name="18"></a>18. 腿式机器人与滑板运动的结合：离散时间混合自动机学习 
 <small>🔗 [umich-curly.github.io](https://umich-curly.github.io/DHAL/): Legged Locomotion Meets Skateboarding</small>
 
 
-| 🔥: 80 \| 💬: [20](https://news.ycombinator.com/item?id=43434910) \| 🗓️ 2025-03-21
+| 🔥: 84 \| 💬: [20](https://news.ycombinator.com/item?id=43434910) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -227,23 +239,11 @@ Solo Screen 是一个用**纯PHP**编写的终端模拟器，专为PHP应用程�
 
 ---
 
-## <a name="18"></a>18. 美国关闭加拿大通往斯坦斯特德边境图书馆的主要入口 
-<small>🔗 [cbc.ca](https://www.cbc.ca/lite/story/1.7489528): U.S. blocks Canadian access to iconic Stanstead border-straddling library</small>
-
-
-| 🔥: 67 \| 💬: [62](https://news.ycombinator.com/item?id=43434925) \| 🗓️ 2025-03-21
-
-
-<br />
-美国关闭了加拿大通往**斯坦斯特德边境图书馆**的主要入口，这座标志性建筑横跨美加两国边界。该图书馆自1904年建成以来，一直是两国和谐的象征。**加拿大方面**表示，此举破坏了跨境合作精神，并影响了加拿大游客对这一历史遗产的访问。美国官方尚未对此决定作出解释。
-
----
-
 ## <a name="19"></a>19. Mathup：快速编写数学表达式的MathML工具 
 <small>🔗 [mathup.xyz](https://mathup.xyz/): Mathup: Easy MathML authoring tool with a quick to write syntax</small>
 
 
-| 🔥: 65 \| 💬: [17](https://news.ycombinator.com/item?id=43438192) \| 🗓️ 2025-03-21
+| 🔥: 74 \| 💬: [17](https://news.ycombinator.com/item?id=43438192) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -255,7 +255,7 @@ Mathup 是一个**轻量级工具**，能够将简单的数学表达式快速转
 <small>🔗 [daemonology.net](https://www.daemonology.net/blog/chunking-attacks.pdf): Chunking Attacks on File Backup Services Using Content-Deﬁned Chunking [pdf]</small>
 
 
-| 🔥: 63 \| 💬: [15](https://news.ycombinator.com/item?id=43438601) \| 🗓️ 2025-03-21
+| 🔥: 69 \| 💬: [16](https://news.ycombinator.com/item?id=43438601) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -263,11 +263,23 @@ Mathup 是一个**轻量级工具**，能够将简单的数学表达式快速转
 
 ---
 
-## <a name="21"></a>21. 警察诱导供述2.0：风险因素与建议 
+## <a name="21"></a>21. 美国关闭加拿大通往斯坦斯特德边境图书馆的主要入口 
+<small>🔗 [cbc.ca](https://www.cbc.ca/lite/story/1.7489528): U.S. blocks Canadian access to iconic Stanstead border-straddling library</small>
+
+
+| 🔥: 67 \| 💬: [62](https://news.ycombinator.com/item?id=43434925) \| 🗓️ 2025-03-21
+
+
+<br />
+美国关闭了加拿大通往**斯坦斯特德边境图书馆**的主要入口，这座标志性建筑横跨美加两国边界。该图书馆自1904年建成以来，一直是两国和谐的象征。**加拿大方面**表示，此举破坏了跨境合作精神，并影响了加拿大游客对这一历史遗产的访问。美国官方尚未对此决定作出解释。
+
+---
+
+## <a name="22"></a>22. 警察诱导供述2.0：风险因素与建议 
 <small>🔗 [psycnet.apa.org](https://psycnet.apa.org/fulltext/2025-79126-001.html): Police-Induced Confessions, 2.0: Risk Factors and Recommendations</small>
 
 
-| 🔥: 62 \| 💬: [35](https://news.ycombinator.com/item?id=43436643) \| 🗓️ 2025-03-21
+| 🔥: 62 \| 💬: [36](https://news.ycombinator.com/item?id=43436643) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -275,7 +287,7 @@ Mathup 是一个**轻量级工具**，能够将简单的数学表达式快速转
 
 ---
 
-## <a name="22"></a>22. 中国研发新型装备，加速对台军事准备 
+## <a name="23"></a>23. 中国研发新型装备，加速对台军事准备 
 <small>🔗 [economist.com](https://www.economist.com/china/2025/03/20/china-is-developing-some-startling-new-kit-in-its-quest-to-reclaim-taiwan): China is developing some startling new kit in its quest to invade Taiwan</small>
 
 
