@@ -9,10 +9,10 @@ tags:
 
 
 1. 职业发展：经理、总监和副总裁的真正含义；
-1. IronRDP：基于 Rust 的微软 RDP 协议实现；
 1. 法国拒绝加密后门提案；
+1. IronRDP：基于 Rust 的微软 RDP 协议实现；
 1. FBI没收女子毕生积蓄却未说明原因；
-1. 车轮再造者的原则（2024）；
+1. 机器学习中的笔纸练习；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [kellblog.com](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/): Career Development: What It Means to Be a Manager, Director, or VP (2015)</small>
 
 
-| 🔥🔥: 385 \| 💬: [190](https://news.ycombinator.com/item?id=43434093) \| 🗓️ 2025-03-21
+| 🔥🔥: 392 \| 💬: [195](https://news.ycombinator.com/item?id=43434093) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -35,27 +35,27 @@ tags:
 
 ---
 
-## <a name="2"></a>2. IronRDP：基于 Rust 的微软 RDP 协议实现 
-<small>🔗 [github.com](https://github.com/Devolutions/IronRDP): IronRDP: a Rust implementation of Microsoft's RDP protocol</small>
-
-
-| 🔥🔥: 335 \| 💬: [162](https://news.ycombinator.com/item?id=43436894) \| 🗓️ 2025-03-21
-
-
-<br />
-IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专注于安全性。该项目提供了一系列 Rust 库，支持多种视频编解码器，如 **RemoteFX** 和 RDP 6.0 位图压缩。示例包括异步非阻塞的 RDP 客户端和同步截图工具。项目采用 Apache-2.0 和 MIT 双许可证，社区活跃，支持通过 Matrix 讨论和问题追踪器报告 Bug。
-
----
-
-## <a name="3"></a>3. 法国拒绝加密后门提案 
+## <a name="2"></a>2. 法国拒绝加密后门提案 
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/win-encryption-france-rejects-backdoor-mandate): France rejects backdoor mandate</small>
 
 
-| 🔥🔥: 331 \| 💬: [71](https://news.ycombinator.com/item?id=43440513) \| 🗓️ 2025-03-21
+| 🔥🔥: 370 \| 💬: [98](https://news.ycombinator.com/item?id=43440513) \| 🗓️ 2025-03-21
 
 
 <br />
 法国国民议会否决了一项要求**加密通讯平台**（如Signal和WhatsApp）允许执法部门秘密访问私人对话的提案。这一决定是**数字权利**和**隐私安全**的胜利，避免了系统性漏洞和滥用风险。此举向全球立法者传递了重要信息：**加密技术**是保护基本人权和现代民主的支柱，不应以公共安全为名牺牲。
+
+---
+
+## <a name="3"></a>3. IronRDP：基于 Rust 的微软 RDP 协议实现 
+<small>🔗 [github.com](https://github.com/Devolutions/IronRDP): IronRDP: a Rust implementation of Microsoft's RDP protocol</small>
+
+
+| 🔥🔥: 346 \| 💬: [173](https://news.ycombinator.com/item?id=43436894) \| 🗓️ 2025-03-21
+
+
+<br />
+IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专注于安全性。该项目提供了一系列 Rust 库，支持多种视频编解码器，如 **RemoteFX** 和 RDP 6.0 位图压缩。示例包括异步非阻塞的 RDP 客户端和同步截图工具。项目采用 Apache-2.0 和 MIT 双许可证，社区活跃，支持通过 Matrix 讨论和问题追踪器报告 Bug。
 
 ---
 
@@ -71,11 +71,23 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 
 ---
 
-## <a name="5"></a>5. 车轮再造者的原则（2024） 
+## <a name="5"></a>5. 机器学习中的笔纸练习 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2206.13446): Pen and Paper Exercises in Machine Learning (2022)</small>
+
+
+| 🔥🔥: 198 \| 💬: [25](https://news.ycombinator.com/item?id=43440267) \| 🗓️ 2025-03-21
+
+
+<br />
+本文由Michael U. Gutmann撰写，提供了一系列**机器学习**相关的笔纸练习，涵盖**线性代数**、优化、图模型、变分推断等主题。这些练习旨在帮助读者通过动手实践深入理解机器学习的基础概念。相关资源可在GitHub页面获取。
+
+---
+
+## <a name="6"></a>6. 车轮再造者的原则（2024） 
 <small>🔗 [tobloef.com](https://tobloef.com/blog/wheel-reinventors-principles/): Wheel Reinventor’s Principles (2024)</small>
 
 
-| 🔥🔥: 188 \| 💬: [95](https://news.ycombinator.com/item?id=43434730) \| 🗓️ 2025-03-21
+| 🔥🔥: 189 \| 💬: [96](https://news.ycombinator.com/item?id=43434730) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -83,11 +95,11 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 
 ---
 
-## <a name="6"></a>6. 美国专利商标局新政策加剧打击专利流氓的难度 
+## <a name="7"></a>7. 美国专利商标局新政策加剧打击专利流氓的难度 
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/new-uspto-memo-makes-fighting-patent-trolls-even-harder): New USPTO Memo Makes Fighting Patent Trolls Even Harder</small>
 
 
-| 🔥🔥: 176 \| 💬: [63](https://news.ycombinator.com/item?id=43439610) \| 🗓️ 2025-03-21
+| 🔥🔥: 186 \| 💬: [67](https://news.ycombinator.com/item?id=43439610) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -95,7 +107,19 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 
 ---
 
-## <a name="7"></a>7. 德国收紧对美旅行建议，三名公民被拘留 
+## <a name="8"></a>8. 小书：操作系统开发指南 
+<small>🔗 [littleosbook.github.io](https://littleosbook.github.io/): The little book about OS development</small>
+
+
+| 🔥🔥: 176 \| 💬: [8](https://news.ycombinator.com/item?id=43440473) \| 🗓️ 2025-03-21
+
+
+<br />
+《小书：操作系统开发指南》是一本实践性指南，旨在帮助读者从零开始开发一个基于**x86架构**的操作系统。书中详细介绍了开发环境的搭建、**引导过程**、C语言编程、硬件交互、分段与分页、中断处理、用户模式、文件系统、系统调用和多任务处理等核心主题。通过逐步引导，读者将学会如何编写一个功能简单但完整的操作系统内核。本书适合具备UNIX/Linux、C语言和系统编程基础的读者，适合那些希望深入理解操作系统底层原理的开发者。
+
+---
+
+## <a name="9"></a>9. 德国收紧对美旅行建议，三名公民被拘留 
 <small>🔗 [euronews.com](https://www.euronews.com/my-europe/2025/03/19/germany-tightens-travel-advice-to-us-after-three-citizens-detained): Germany tightens travel advice to US after three citizens detained</small>
 
 
@@ -107,23 +131,11 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 
 ---
 
-## <a name="8"></a>8. 机器学习中的笔纸练习 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2206.13446): Pen and Paper Exercises in Machine Learning (2022)</small>
-
-
-| 🔥🔥: 171 \| 💬: [22](https://news.ycombinator.com/item?id=43440267) \| 🗓️ 2025-03-21
-
-
-<br />
-本文由Michael U. Gutmann撰写，提供了一系列**机器学习**相关的笔纸练习，涵盖**线性代数**、优化、图模型、变分推断等主题。这些练习旨在帮助读者通过动手实践深入理解机器学习的基础概念。相关资源可在GitHub页面获取。
-
----
-
-## <a name="9"></a>9. 拥堵收费：政策奇迹 
+## <a name="10"></a>10. 拥堵收费：政策奇迹 
 <small>🔗 [bettercities.substack.com](https://bettercities.substack.com/p/congestion-pricing-is-a-policy-miracle): Congestion Pricing Is a Policy Miracle</small>
 
 
-| 🔥🔥: 161 \| 💬: [286](https://news.ycombinator.com/item?id=43436315) \| 🗓️ 2025-03-21
+| 🔥🔥: 163 \| 💬: [289](https://news.ycombinator.com/item?id=43436315) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -131,7 +143,7 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 
 ---
 
-## <a name="10"></a>10. 2025年：折叠一个div需要每月8美元？ 
+## <a name="11"></a>11. 2025年：折叠一个div需要每月8美元？ 
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/webdev/comments/1jged6g/imagine_telling_2010_devs_that_in_2025_collapsing/): Imagine telling 2010 devs that in 2025, collapsing a div would require $8/ month</small>
 
 
@@ -143,23 +155,11 @@ Reddit用户讨论了一个令人震惊的现象：到2025年，**折叠一个di
 
 ---
 
-## <a name="11"></a>11. 小书：操作系统开发指南 
-<small>🔗 [littleosbook.github.io](https://littleosbook.github.io/): The little book about OS development</small>
-
-
-| 🔥🔥: 145 \| 💬: [6](https://news.ycombinator.com/item?id=43440473) \| 🗓️ 2025-03-21
-
-
-<br />
-《小书：操作系统开发指南》是一本实践性指南，旨在帮助读者从零开始开发一个基于**x86架构**的操作系统。书中详细介绍了开发环境的搭建、**引导过程**、C语言编程、硬件交互、分段与分页、中断处理、用户模式、文件系统、系统调用和多任务处理等核心主题。通过逐步引导，读者将学会如何编写一个功能简单但完整的操作系统内核。本书适合具备UNIX/Linux、C语言和系统编程基础的读者，适合那些希望深入理解操作系统底层原理的开发者。
-
----
-
 ## <a name="12"></a>12. Torch Lens Maker：基于PyTorch的可微分几何光学库 
 <small>🔗 [victorpoughon.github.io](https://victorpoughon.github.io/torchlensmaker/): Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch</small>
 
 
-| 🔥🔥: 134 \| 💬: [38](https://news.ycombinator.com/item?id=43435438) \| 🗓️ 2025-03-21
+| 🔥🔥: 138 \| 💬: [38](https://news.ycombinator.com/item?id=43435438) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -171,7 +171,7 @@ Torch Lens Maker 是一个基于 **PyTorch** 的开源库，专注于**可微分
 <small>🔗 [github.com](https://github.com/soloterm/screen): Show HN: A terminal emulator in pure PHP</small>
 
 
-| 🔥🔥: 106 \| 💬: [59](https://news.ycombinator.com/item?id=43438797) \| 🗓️ 2025-03-21
+| 🔥🔥: 109 \| 💬: [61](https://news.ycombinator.com/item?id=43438797) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -179,7 +179,19 @@ Solo Screen 是一个用**纯PHP**编写的终端模拟器，专为PHP应用程�
 
 ---
 
-## <a name="14"></a>14. 未被选择的道路：保障最低收入 
+## <a name="14"></a>14. 腿式机器人与滑板运动的结合：离散时间混合自动机学习 
+<small>🔗 [umich-curly.github.io](https://umich-curly.github.io/DHAL/): Legged Locomotion Meets Skateboarding</small>
+
+
+| 🔥🔥: 103 \| 💬: [21](https://news.ycombinator.com/item?id=43434910) \| 🗓️ 2025-03-21
+
+
+<br />
+本文提出了一种**离散时间混合自动机学习（DHAL）**框架，利用**强化学习**实现模式切换的识别与执行，无需轨迹分割或事件函数学习。该方法通过**多批评器架构**和β策略分布，成功应用于四足机器人滑板任务，展示了在混合动力系统中的鲁棒性能。
+
+---
+
+## <a name="15"></a>15. 未被选择的道路：保障最低收入 
 <small>🔗 [blog.codinghorror.com](https://blog.codinghorror.com/the-road-not-taken-is-guaranteed-minimum-income/): The Road Not Taken Is Guaranteed Minimum Income</small>
 
 
@@ -191,11 +203,11 @@ Solo Screen 是一个用**纯PHP**编写的终端模拟器，专为PHP应用程�
 
 ---
 
-## <a name="15"></a>15. 波士顿动力展示人形机器人移动能力的重大突破 
+## <a name="16"></a>16. 波士顿动力展示人形机器人移动能力的重大突破 
 <small>🔗 [newatlas.com](https://newatlas.com/ai-humanoids/boston-dynamics-atlas-athletic/): Boston Dynamics shows off another major leap in humanoid mobility</small>
 
 
-| 🔥: 97 \| 💬: [75](https://news.ycombinator.com/item?id=43434040) \| 🗓️ 2025-03-21
+| 🔥: 98 \| 💬: [75](https://news.ycombinator.com/item?id=43434040) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -203,11 +215,11 @@ Solo Screen 是一个用**纯PHP**编写的终端模拟器，专为PHP应用程�
 
 ---
 
-## <a name="16"></a>16. 我的尝试：整理AI开发工具的世界 
+## <a name="17"></a>17. 我的尝试：整理AI开发工具的世界 
 <small>🔗 [aicode.danvoronov.com](https://aicode.danvoronov.com/tools/): Show HN: My Attempt to Organize the World of AI Dev Tools</small>
 
 
-| 🔥: 95 \| 💬: [28](https://news.ycombinator.com/item?id=43434325) \| 🗓️ 2025-03-21
+| 🔥: 96 \| 💬: [29](https://news.ycombinator.com/item?id=43434325) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -215,35 +227,11 @@ Solo Screen 是一个用**纯PHP**编写的终端模拟器，专为PHP应用程�
 
 ---
 
-## <a name="17"></a>17. 腿式机器人与滑板运动的结合：离散时间混合自动机学习 
-<small>🔗 [umich-curly.github.io](https://umich-curly.github.io/DHAL/): Legged Locomotion Meets Skateboarding</small>
-
-
-| 🔥: 91 \| 💬: [21](https://news.ycombinator.com/item?id=43434910) \| 🗓️ 2025-03-21
-
-
-<br />
-本文提出了一种**离散时间混合自动机学习（DHAL）**框架，利用**强化学习**实现模式切换的识别与执行，无需轨迹分割或事件函数学习。该方法通过**多批评器架构**和β策略分布，成功应用于四足机器人滑板任务，展示了在混合动力系统中的鲁棒性能。
-
----
-
-## <a name="18"></a>18. 编号应从零开始（1982） 
-<small>🔗 [cs.utexas.edu](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD831.html): Numbering should start at zero (1982)</small>
-
-
-| 🔥: 89 \| 💬: [247](https://news.ycombinator.com/item?id=43433599) \| 🗓️ 2025-03-21
-
-
-<br />
-在表示自然数子序列时，**从零开始编号**更为合理。通过分析四种表示方式，作者指出**使用“≤”表示下界和“<”表示上界**的约定（如2 ≤ i < 13）最为简洁且避免不自然的边界值。此外，编程语言Mesa的经验表明，其他约定容易导致错误。**零应被视为最自然的数**，许多编程语言因忽略这一点而设计不佳。
-
----
-
-## <a name="19"></a>19. 我想要一台强大的并行计算机 
+## <a name="18"></a>18. 我想要一台强大的并行计算机 
 <small>🔗 [raphlinus.github.io](https://raphlinus.github.io/gpu/2025/03/21/good-parallel-computer.html): I want a good parallel computer</small>
 
 
-| 🔥: 88 \| 💬: [56](https://news.ycombinator.com/item?id=43440174) \| 🗓️ 2025-03-21
+| 🔥: 96 \| 💬: [80](https://news.ycombinator.com/item?id=43440174) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -251,11 +239,23 @@ GPU的计算能力比CPU强10到100倍，但在**动态任务**和**编程工具
 
 ---
 
+## <a name="19"></a>19. 编号应从零开始（1982） 
+<small>🔗 [cs.utexas.edu](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD831.html): Numbering should start at zero (1982)</small>
+
+
+| 🔥: 89 \| 💬: [250](https://news.ycombinator.com/item?id=43433599) \| 🗓️ 2025-03-21
+
+
+<br />
+在表示自然数子序列时，**从零开始编号**更为合理。通过分析四种表示方式，作者指出**使用“≤”表示下界和“<”表示上界**的约定（如2 ≤ i < 13）最为简洁且避免不自然的边界值。此外，编程语言Mesa的经验表明，其他约定容易导致错误。**零应被视为最自然的数**，许多编程语言因忽略这一点而设计不佳。
+
+---
+
 ## <a name="20"></a>20. Mathup：快速编写数学表达式的MathML工具 
 <small>🔗 [mathup.xyz](https://mathup.xyz/): Mathup: Easy MathML authoring tool with a quick to write syntax</small>
 
 
-| 🔥: 75 \| 💬: [17](https://news.ycombinator.com/item?id=43438192) \| 🗓️ 2025-03-21
+| 🔥: 79 \| 💬: [17](https://news.ycombinator.com/item?id=43438192) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -267,7 +267,7 @@ Mathup 是一个**轻量级工具**，能够将简单的数学表达式快速转
 <small>🔗 [daemonology.net](https://www.daemonology.net/blog/chunking-attacks.pdf): Chunking Attacks on File Backup Services Using Content-Deﬁned Chunking [pdf]</small>
 
 
-| 🔥: 74 \| 💬: [16](https://news.ycombinator.com/item?id=43438601) \| 🗓️ 2025-03-21
+| 🔥: 77 \| 💬: [16](https://news.ycombinator.com/item?id=43438601) \| 🗓️ 2025-03-21
 
 
 <br />
