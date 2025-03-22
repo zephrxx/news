@@ -12,7 +12,7 @@ tags:
 1. 职业发展：经理、总监和副总裁的真正含义；
 1. IronRDP：基于 Rust 的微软 RDP 协议实现；
 1. 机器学习中的笔纸练习；
-1. FBI没收女子毕生积蓄却未说明原因；
+1. 小书：操作系统开发指南；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/win-encryption-france-rejects-backdoor-mandate): France rejects backdoor mandate</small>
 
 
-| 🔥🔥: 473 \| 💬: [119](https://news.ycombinator.com/item?id=43440513) \| 🗓️ 2025-03-21
+| 🔥🔥: 505 \| 💬: [125](https://news.ycombinator.com/item?id=43440513) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [kellblog.com](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/): Career Development: What It Means to Be a Manager, Director, or VP (2015)</small>
 
 
-| 🔥🔥: 417 \| 💬: [204](https://news.ycombinator.com/item?id=43434093) \| 🗓️ 2025-03-21
+| 🔥🔥: 425 \| 💬: [205](https://news.ycombinator.com/item?id=43434093) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Devolutions/IronRDP): IronRDP: a Rust implementation of Microsoft's RDP protocol</small>
 
 
-| 🔥🔥: 378 \| 💬: [186](https://news.ycombinator.com/item?id=43436894) \| 🗓️ 2025-03-21
+| 🔥🔥: 395 \| 💬: [186](https://news.ycombinator.com/item?id=43436894) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -63,7 +63,7 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2206.13446): Pen and Paper Exercises in Machine Learning (2022)</small>
 
 
-| 🔥🔥: 246 \| 💬: [28](https://news.ycombinator.com/item?id=43440267) \| 🗓️ 2025-03-21
+| 🔥🔥: 260 \| 💬: [30](https://news.ycombinator.com/item?id=43440267) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -71,23 +71,11 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 
 ---
 
-## <a name="5"></a>5. FBI没收女子毕生积蓄却未说明原因 
-<small>🔗 [reason.com](https://reason.com/2025/03/20/the-fbi-seized-this-womans-life-savings-without-telling-her-why/): The FBI Seized This Woman's Life Savings–Without Telling Her Why</small>
-
-
-| 🔥🔥: 237 \| 💬: [110](https://news.ycombinator.com/item?id=43433694) \| 🗓️ 2025-03-21
-
-
-<br />
-四年前，FBI突袭了比佛利山庄的**U.S. Private Vaults**，没收了包括Linda Martin在内的多名客户的财物。Martin的**4.02万美元**毕生积蓄被没收，尽管她未被指控任何罪行。FBI通过**民事没收**程序没收了超过1亿美元的财物，但未提供具体理由。Martin提起诉讼，要求FBI在没收财产时说明原因，以保护财产所有者的权利。此案仍在审理中。
-
----
-
-## <a name="6"></a>6. 小书：操作系统开发指南 
+## <a name="5"></a>5. 小书：操作系统开发指南 
 <small>🔗 [littleosbook.github.io](https://littleosbook.github.io/): The little book about OS development</small>
 
 
-| 🔥🔥: 225 \| 💬: [16](https://news.ycombinator.com/item?id=43440473) \| 🗓️ 2025-03-21
+| 🔥🔥: 244 \| 💬: [23](https://news.ycombinator.com/item?id=43440473) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -95,11 +83,23 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 
 ---
 
+## <a name="6"></a>6. FBI没收女子毕生积蓄却未说明原因 
+<small>🔗 [reason.com](https://reason.com/2025/03/20/the-fbi-seized-this-womans-life-savings-without-telling-her-why/): The FBI Seized This Woman's Life Savings–Without Telling Her Why</small>
+
+
+| 🔥🔥: 239 \| 💬: [110](https://news.ycombinator.com/item?id=43433694) \| 🗓️ 2025-03-21
+
+
+<br />
+四年前，FBI突袭了比佛利山庄的**U.S. Private Vaults**，没收了包括Linda Martin在内的多名客户的财物。Martin的**4.02万美元**毕生积蓄被没收，尽管她未被指控任何罪行。FBI通过**民事没收**程序没收了超过1亿美元的财物，但未提供具体理由。Martin提起诉讼，要求FBI在没收财产时说明原因，以保护财产所有者的权利。此案仍在审理中。
+
+---
+
 ## <a name="7"></a>7. 美国专利商标局新政策加剧打击专利流氓的难度 
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/new-uspto-memo-makes-fighting-patent-trolls-even-harder): New USPTO Memo Makes Fighting Patent Trolls Even Harder</small>
 
 
-| 🔥🔥: 216 \| 💬: [78](https://news.ycombinator.com/item?id=43439610) \| 🗓️ 2025-03-21
+| 🔥🔥: 225 \| 💬: [83](https://news.ycombinator.com/item?id=43439610) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -135,7 +135,7 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 <small>🔗 [bettercities.substack.com](https://bettercities.substack.com/p/congestion-pricing-is-a-policy-miracle): Congestion Pricing Is a Policy Miracle</small>
 
 
-| 🔥🔥: 165 \| 💬: [303](https://news.ycombinator.com/item?id=43436315) \| 🗓️ 2025-03-21
+| 🔥🔥: 165 \| 💬: [304](https://news.ycombinator.com/item?id=43436315) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -159,7 +159,7 @@ Reddit用户讨论了一个令人震惊的现象：到2025年，**折叠一个di
 <small>🔗 [victorpoughon.github.io](https://victorpoughon.github.io/torchlensmaker/): Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch</small>
 
 
-| 🔥🔥: 147 \| 💬: [38](https://news.ycombinator.com/item?id=43435438) \| 🗓️ 2025-03-21
+| 🔥🔥: 151 \| 💬: [38](https://news.ycombinator.com/item?id=43435438) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -167,11 +167,23 @@ Torch Lens Maker 是一个基于 **PyTorch** 的开源库，专注于**可微分
 
 ---
 
-## <a name="13"></a>13. 纯PHP实现的终端模拟器 
+## <a name="13"></a>13. 拳击传奇乔治·福尔曼去世，享年76岁 
+<small>🔗 [variety.com](https://variety.com/2025/tv/news/george-foreman-boxer-infomercial-star-dies-1236345523/): George Foreman, Boxer Turned Foreman Grill Infomercial Star, Dies at 76</small>
+
+
+| 🔥🔥: 144 \| 💬: [49](https://news.ycombinator.com/item?id=43442917) \| 🗓️ 2025-03-21
+
+
+<br />
+乔治·福尔曼，从**拳击冠军**转型为**福尔曼烤炉**广告明星的传奇人物，于周五去世，享年76岁。福尔曼在1970年代成为世界重量级拳王，并在1990年代通过一系列电视广告推广其烤炉产品，成为家喻户晓的明星。他曾在1977年退出拳坛，成为牧师，但在1987年复出并再次夺得重量级冠军。福尔曼以其**亲和力**和庞大的家庭闻名，晚年还参与了多部纪录片和传记电影的拍摄。
+
+---
+
+## <a name="14"></a>14. 纯PHP实现的终端模拟器 
 <small>🔗 [github.com](https://github.com/soloterm/screen): Show HN: A terminal emulator in pure PHP</small>
 
 
-| 🔥🔥: 126 \| 💬: [64](https://news.ycombinator.com/item?id=43438797) \| 🗓️ 2025-03-21
+| 🔥🔥: 134 \| 💬: [65](https://news.ycombinator.com/item?id=43438797) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -179,11 +191,11 @@ Solo Screen 是一个用**纯PHP**编写的终端模拟器，专为PHP应用程�
 
 ---
 
-## <a name="14"></a>14. 腿式机器人与滑板运动的结合：离散时间混合自动机学习 
+## <a name="15"></a>15. 腿式机器人与滑板运动的结合：离散时间混合自动机学习 
 <small>🔗 [umich-curly.github.io](https://umich-curly.github.io/DHAL/): Legged Locomotion Meets Skateboarding</small>
 
 
-| 🔥🔥: 116 \| 💬: [27](https://news.ycombinator.com/item?id=43434910) \| 🗓️ 2025-03-21
+| 🔥🔥: 120 \| 💬: [30](https://news.ycombinator.com/item?id=43434910) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -191,11 +203,11 @@ Solo Screen 是一个用**纯PHP**编写的终端模拟器，专为PHP应用程�
 
 ---
 
-## <a name="15"></a>15. 我想要一台强大的并行计算机 
+## <a name="16"></a>16. 我想要一台强大的并行计算机 
 <small>🔗 [raphlinus.github.io](https://raphlinus.github.io/gpu/2025/03/21/good-parallel-computer.html): I want a good parallel computer</small>
 
 
-| 🔥🔥: 108 \| 💬: [95](https://news.ycombinator.com/item?id=43440174) \| 🗓️ 2025-03-21
+| 🔥🔥: 112 \| 💬: [97](https://news.ycombinator.com/item?id=43440174) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -203,7 +215,7 @@ GPU的计算能力比CPU强10到100倍，但在**动态任务**和**编程工具
 
 ---
 
-## <a name="16"></a>16. 未被选择的道路：保障最低收入 
+## <a name="17"></a>17. 未被选择的道路：保障最低收入 
 <small>🔗 [blog.codinghorror.com](https://blog.codinghorror.com/the-road-not-taken-is-guaranteed-minimum-income/): The Road Not Taken Is Guaranteed Minimum Income</small>
 
 
@@ -215,11 +227,11 @@ GPU的计算能力比CPU强10到100倍，但在**动态任务**和**编程工具
 
 ---
 
-## <a name="17"></a>17. EFF边境搜查口袋指南 
+## <a name="18"></a>18. EFF边境搜查口袋指南 
 <small>🔗 [eff.org](https://www.eff.org/document/eff-border-search-pocket-guide): EFF Border Search Pocket Guide</small>
 
 
-| 🔥🔥: 102 \| 💬: [26](https://news.ycombinator.com/item?id=43441895) \| 🗓️ 2025-03-21
+| 🔥🔥: 102 \| 💬: [27](https://news.ycombinator.com/item?id=43441895) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -227,7 +239,7 @@ GPU的计算能力比CPU强10到100倍，但在**动态任务**和**编程工具
 
 ---
 
-## <a name="18"></a>18. 波士顿动力展示人形机器人移动能力的重大突破 
+## <a name="19"></a>19. 波士顿动力展示人形机器人移动能力的重大突破 
 <small>🔗 [newatlas.com](https://newatlas.com/ai-humanoids/boston-dynamics-atlas-athletic/): Boston Dynamics shows off another major leap in humanoid mobility</small>
 
 
@@ -239,23 +251,11 @@ GPU的计算能力比CPU强10到100倍，但在**动态任务**和**编程工具
 
 ---
 
-## <a name="19"></a>19. 拳击传奇乔治·福尔曼去世，享年76岁 
-<small>🔗 [variety.com](https://variety.com/2025/tv/news/george-foreman-boxer-infomercial-star-dies-1236345523/): George Foreman, Boxer Turned Foreman Grill Infomercial Star, Dies at 76</small>
-
-
-| 🔥: 98 \| 💬: [23](https://news.ycombinator.com/item?id=43442917) \| 🗓️ 2025-03-21
-
-
-<br />
-乔治·福尔曼，从**拳击冠军**转型为**福尔曼烤炉**广告明星的传奇人物，于周五去世，享年76岁。福尔曼在1970年代成为世界重量级拳王，并在1990年代通过一系列电视广告推广其烤炉产品，成为家喻户晓的明星。他曾在1977年退出拳坛，成为牧师，但在1987年复出并再次夺得重量级冠军。福尔曼以其**亲和力**和庞大的家庭闻名，晚年还参与了多部纪录片和传记电影的拍摄。
-
----
-
 ## <a name="20"></a>20. 我的尝试：整理AI开发工具的世界 
 <small>🔗 [aicode.danvoronov.com](https://aicode.danvoronov.com/tools/): Show HN: My Attempt to Organize the World of AI Dev Tools</small>
 
 
-| 🔥: 96 \| 💬: [29](https://news.ycombinator.com/item?id=43434325) \| 🗓️ 2025-03-21
+| 🔥: 97 \| 💬: [29](https://news.ycombinator.com/item?id=43434325) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -267,7 +267,7 @@ GPU的计算能力比CPU强10到100倍，但在**动态任务**和**编程工具
 <small>🔗 [cs.utexas.edu](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD831.html): Numbering should start at zero (1982)</small>
 
 
-| 🔥: 92 \| 💬: [255](https://news.ycombinator.com/item?id=43433599) \| 🗓️ 2025-03-21
+| 🔥: 92 \| 💬: [256](https://news.ycombinator.com/item?id=43433599) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -279,7 +279,7 @@ GPU的计算能力比CPU强10到100倍，但在**动态任务**和**编程工具
 <small>🔗 [mathup.xyz](https://mathup.xyz/): Mathup: Easy MathML authoring tool with a quick to write syntax</small>
 
 
-| 🔥: 88 \| 💬: [20](https://news.ycombinator.com/item?id=43438192) \| 🗓️ 2025-03-21
+| 🔥: 92 \| 💬: [22](https://news.ycombinator.com/item?id=43438192) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -291,7 +291,7 @@ Mathup 是一个**轻量级工具**，能够将简单的数学表达式快速转
 <small>🔗 [daemonology.net](https://www.daemonology.net/blog/chunking-attacks.pdf): Chunking Attacks on File Backup Services Using Content-Deﬁned Chunking [pdf]</small>
 
 
-| 🔥: 81 \| 💬: [18](https://news.ycombinator.com/item?id=43438601) \| 🗓️ 2025-03-21
+| 🔥: 85 \| 💬: [18](https://news.ycombinator.com/item?id=43438601) \| 🗓️ 2025-03-21
 
 
 <br />
