@@ -8,38 +8,26 @@ tags:
 ---
 
 
-1. 职业发展：经理、总监和副总裁的真正含义；
 1. 法国拒绝加密后门提案；
+1. 职业发展：经理、总监和副总裁的真正含义；
 1. IronRDP：基于 Rust 的微软 RDP 协议实现；
 1. FBI没收女子毕生积蓄却未说明原因；
 1. 机器学习中的笔纸练习；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
 ![](/assets/images/hacker_news.jpg)
 
 
-## <a name="1"></a>1. 职业发展：经理、总监和副总裁的真正含义 
-<small>🔗 [kellblog.com](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/): Career Development: What It Means to Be a Manager, Director, or VP (2015)</small>
-
-
-| 🔥🔥: 392 \| 💬: [195](https://news.ycombinator.com/item?id=43434093) \| 🗓️ 2025-03-21
-
-
-<br />
-作者对传统HR实践持怀疑态度，尤其是**层级划分**和年度绩效评估。他认为层级划分过于繁琐且无意义，混淆了职业发展和薪资谈判。作者提出，管理职位可分为三个核心层级：**经理**负责执行并需要支持，**总监**能独立完成任务，而**副总裁**则需制定计划并对结果负责。真正的**VP**应像CEO一样，对结果负责，不能依赖“计划已批准”作为失败的借口。
-
----
-
-## <a name="2"></a>2. 法国拒绝加密后门提案 
+## <a name="1"></a>1. 法国拒绝加密后门提案 
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/win-encryption-france-rejects-backdoor-mandate): France rejects backdoor mandate</small>
 
 
-| 🔥🔥: 370 \| 💬: [98](https://news.ycombinator.com/item?id=43440513) \| 🗓️ 2025-03-21
+| 🔥🔥: 419 \| 💬: [111](https://news.ycombinator.com/item?id=43440513) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -47,11 +35,23 @@ tags:
 
 ---
 
+## <a name="2"></a>2. 职业发展：经理、总监和副总裁的真正含义 
+<small>🔗 [kellblog.com](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/): Career Development: What It Means to Be a Manager, Director, or VP (2015)</small>
+
+
+| 🔥🔥: 400 \| 💬: [199](https://news.ycombinator.com/item?id=43434093) \| 🗓️ 2025-03-21
+
+
+<br />
+作者对传统HR实践持怀疑态度，尤其是**层级划分**和年度绩效评估。他认为层级划分过于繁琐且无意义，混淆了职业发展和薪资谈判。作者提出，管理职位可分为三个核心层级：**经理**负责执行并需要支持，**总监**能独立完成任务，而**副总裁**则需制定计划并对结果负责。真正的**VP**应像CEO一样，对结果负责，不能依赖“计划已批准”作为失败的借口。
+
+---
+
 ## <a name="3"></a>3. IronRDP：基于 Rust 的微软 RDP 协议实现 
 <small>🔗 [github.com](https://github.com/Devolutions/IronRDP): IronRDP: a Rust implementation of Microsoft's RDP protocol</small>
 
 
-| 🔥🔥: 346 \| 💬: [173](https://news.ycombinator.com/item?id=43436894) \| 🗓️ 2025-03-21
+| 🔥🔥: 358 \| 💬: [177](https://news.ycombinator.com/item?id=43436894) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -63,7 +63,7 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 <small>🔗 [reason.com](https://reason.com/2025/03/20/the-fbi-seized-this-womans-life-savings-without-telling-her-why/): The FBI Seized This Woman's Life Savings–Without Telling Her Why</small>
 
 
-| 🔥🔥: 235 \| 💬: [107](https://news.ycombinator.com/item?id=43433694) \| 🗓️ 2025-03-21
+| 🔥🔥: 236 \| 💬: [108](https://news.ycombinator.com/item?id=43433694) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -75,7 +75,7 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2206.13446): Pen and Paper Exercises in Machine Learning (2022)</small>
 
 
-| 🔥🔥: 198 \| 💬: [25](https://news.ycombinator.com/item?id=43440267) \| 🗓️ 2025-03-21
+| 🔥🔥: 221 \| 💬: [26](https://news.ycombinator.com/item?id=43440267) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -83,23 +83,11 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 
 ---
 
-## <a name="6"></a>6. 车轮再造者的原则（2024） 
-<small>🔗 [tobloef.com](https://tobloef.com/blog/wheel-reinventors-principles/): Wheel Reinventor’s Principles (2024)</small>
-
-
-| 🔥🔥: 189 \| 💬: [96](https://news.ycombinator.com/item?id=43434730) \| 🗓️ 2025-03-21
-
-
-<br />
-车轮再造者热衷于重新发明轮子，原因包括**学习**、**定制化**、**创新**和**乐趣**。然而，再造轮子可能耗时且结果不如现有方案，需警惕陷入无底洞。再造者应**深思熟虑**，明确目标，避免过度扩展。开发原则包括减少依赖、拥抱DIY、避免过度抽象、分享成果。
-
----
-
-## <a name="7"></a>7. 美国专利商标局新政策加剧打击专利流氓的难度 
+## <a name="6"></a>6. 美国专利商标局新政策加剧打击专利流氓的难度 
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/new-uspto-memo-makes-fighting-patent-trolls-even-harder): New USPTO Memo Makes Fighting Patent Trolls Even Harder</small>
 
 
-| 🔥🔥: 186 \| 💬: [67](https://news.ycombinator.com/item?id=43439610) \| 🗓️ 2025-03-21
+| 🔥🔥: 192 \| 💬: [70](https://news.ycombinator.com/item?id=43439610) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -107,11 +95,23 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 
 ---
 
+## <a name="7"></a>7. 车轮再造者的原则（2024） 
+<small>🔗 [tobloef.com](https://tobloef.com/blog/wheel-reinventors-principles/): Wheel Reinventor’s Principles (2024)</small>
+
+
+| 🔥🔥: 191 \| 💬: [97](https://news.ycombinator.com/item?id=43434730) \| 🗓️ 2025-03-21
+
+
+<br />
+车轮再造者热衷于重新发明轮子，原因包括**学习**、**定制化**、**创新**和**乐趣**。然而，再造轮子可能耗时且结果不如现有方案，需警惕陷入无底洞。再造者应**深思熟虑**，明确目标，避免过度扩展。开发原则包括减少依赖、拥抱DIY、避免过度抽象、分享成果。
+
+---
+
 ## <a name="8"></a>8. 小书：操作系统开发指南 
 <small>🔗 [littleosbook.github.io](https://littleosbook.github.io/): The little book about OS development</small>
 
 
-| 🔥🔥: 176 \| 💬: [8](https://news.ycombinator.com/item?id=43440473) \| 🗓️ 2025-03-21
+| 🔥🔥: 190 \| 💬: [12](https://news.ycombinator.com/item?id=43440473) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -135,7 +135,7 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 <small>🔗 [bettercities.substack.com](https://bettercities.substack.com/p/congestion-pricing-is-a-policy-miracle): Congestion Pricing Is a Policy Miracle</small>
 
 
-| 🔥🔥: 163 \| 💬: [289](https://news.ycombinator.com/item?id=43436315) \| 🗓️ 2025-03-21
+| 🔥🔥: 163 \| 💬: [295](https://news.ycombinator.com/item?id=43436315) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -159,7 +159,7 @@ Reddit用户讨论了一个令人震惊的现象：到2025年，**折叠一个di
 <small>🔗 [victorpoughon.github.io](https://victorpoughon.github.io/torchlensmaker/): Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch</small>
 
 
-| 🔥🔥: 138 \| 💬: [38](https://news.ycombinator.com/item?id=43435438) \| 🗓️ 2025-03-21
+| 🔥🔥: 139 \| 💬: [38](https://news.ycombinator.com/item?id=43435438) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -171,7 +171,7 @@ Torch Lens Maker 是一个基于 **PyTorch** 的开源库，专注于**可微分
 <small>🔗 [github.com](https://github.com/soloterm/screen): Show HN: A terminal emulator in pure PHP</small>
 
 
-| 🔥🔥: 109 \| 💬: [61](https://news.ycombinator.com/item?id=43438797) \| 🗓️ 2025-03-21
+| 🔥🔥: 115 \| 💬: [64](https://news.ycombinator.com/item?id=43438797) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -183,7 +183,7 @@ Solo Screen 是一个用**纯PHP**编写的终端模拟器，专为PHP应用程�
 <small>🔗 [umich-curly.github.io](https://umich-curly.github.io/DHAL/): Legged Locomotion Meets Skateboarding</small>
 
 
-| 🔥🔥: 103 \| 💬: [21](https://news.ycombinator.com/item?id=43434910) \| 🗓️ 2025-03-21
+| 🔥🔥: 106 \| 💬: [23](https://news.ycombinator.com/item?id=43434910) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -207,7 +207,7 @@ Solo Screen 是一个用**纯PHP**编写的终端模拟器，专为PHP应用程�
 <small>🔗 [newatlas.com](https://newatlas.com/ai-humanoids/boston-dynamics-atlas-athletic/): Boston Dynamics shows off another major leap in humanoid mobility</small>
 
 
-| 🔥: 98 \| 💬: [75](https://news.ycombinator.com/item?id=43434040) \| 🗓️ 2025-03-21
+| 🔥: 100 \| 💬: [75](https://news.ycombinator.com/item?id=43434040) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -215,7 +215,31 @@ Solo Screen 是一个用**纯PHP**编写的终端模拟器，专为PHP应用程�
 
 ---
 
-## <a name="17"></a>17. 我的尝试：整理AI开发工具的世界 
+## <a name="17"></a>17. 我想要一台强大的并行计算机 
+<small>🔗 [raphlinus.github.io](https://raphlinus.github.io/gpu/2025/03/21/good-parallel-computer.html): I want a good parallel computer</small>
+
+
+| 🔥: 100 \| 💬: [88](https://news.ycombinator.com/item?id=43440174) \| 🗓️ 2025-03-21
+
+
+<br />
+GPU的计算能力比CPU强10到100倍，但在**动态任务**和**编程工具**方面存在局限。现代GPU复杂且功能不完善，导致内存管理和并行计算效率低下。历史上如**Cell**和**Larrabee**等并行计算机设计曾展现出潜力，但因编程模型复杂或执行不力未能普及。未来，通过改进硬件设计和编程模型，或许能实现更高效的并行计算。
+
+---
+
+## <a name="18"></a>18. EFF边境搜查口袋指南 
+<small>🔗 [eff.org](https://www.eff.org/document/eff-border-search-pocket-guide): EFF Border Search Pocket Guide</small>
+
+
+| 🔥: 98 \| 💬: [26](https://news.ycombinator.com/item?id=43441895) \| 🗓️ 2025-03-21
+
+
+<br />
+本文介绍了**EFF边境搜查口袋指南**，旨在帮助旅行者了解在**美国边境**如何保护**数字隐私**。指南提供了可打印的PDF版本，方便随身携带，内容涵盖如何在边境检查时保护设备上的数据。EFF还提供了西班牙语版本，确保更多用户能够获取相关信息。
+
+---
+
+## <a name="19"></a>19. 我的尝试：整理AI开发工具的世界 
 <small>🔗 [aicode.danvoronov.com](https://aicode.danvoronov.com/tools/): Show HN: My Attempt to Organize the World of AI Dev Tools</small>
 
 
@@ -227,23 +251,11 @@ Solo Screen 是一个用**纯PHP**编写的终端模拟器，专为PHP应用程�
 
 ---
 
-## <a name="18"></a>18. 我想要一台强大的并行计算机 
-<small>🔗 [raphlinus.github.io](https://raphlinus.github.io/gpu/2025/03/21/good-parallel-computer.html): I want a good parallel computer</small>
-
-
-| 🔥: 96 \| 💬: [80](https://news.ycombinator.com/item?id=43440174) \| 🗓️ 2025-03-21
-
-
-<br />
-GPU的计算能力比CPU强10到100倍，但在**动态任务**和**编程工具**方面存在局限。现代GPU复杂且功能不完善，导致内存管理和并行计算效率低下。历史上如**Cell**和**Larrabee**等并行计算机设计曾展现出潜力，但因编程模型复杂或执行不力未能普及。未来，通过改进硬件设计和编程模型，或许能实现更高效的并行计算。
-
----
-
-## <a name="19"></a>19. 编号应从零开始（1982） 
+## <a name="20"></a>20. 编号应从零开始（1982） 
 <small>🔗 [cs.utexas.edu](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD831.html): Numbering should start at zero (1982)</small>
 
 
-| 🔥: 89 \| 💬: [250](https://news.ycombinator.com/item?id=43433599) \| 🗓️ 2025-03-21
+| 🔥: 90 \| 💬: [251](https://news.ycombinator.com/item?id=43433599) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -251,11 +263,11 @@ GPU的计算能力比CPU强10到100倍，但在**动态任务**和**编程工具
 
 ---
 
-## <a name="20"></a>20. Mathup：快速编写数学表达式的MathML工具 
+## <a name="21"></a>21. Mathup：快速编写数学表达式的MathML工具 
 <small>🔗 [mathup.xyz](https://mathup.xyz/): Mathup: Easy MathML authoring tool with a quick to write syntax</small>
 
 
-| 🔥: 79 \| 💬: [17](https://news.ycombinator.com/item?id=43438192) \| 🗓️ 2025-03-21
+| 🔥: 82 \| 💬: [18](https://news.ycombinator.com/item?id=43438192) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -263,11 +275,11 @@ Mathup 是一个**轻量级工具**，能够将简单的数学表达式快速转
 
 ---
 
-## <a name="21"></a>21. 基于内容定义分块的文件备份服务攻击研究 
+## <a name="22"></a>22. 基于内容定义分块的文件备份服务攻击研究 
 <small>🔗 [daemonology.net](https://www.daemonology.net/blog/chunking-attacks.pdf): Chunking Attacks on File Backup Services Using Content-Deﬁned Chunking [pdf]</small>
 
 
-| 🔥: 77 \| 💬: [16](https://news.ycombinator.com/item?id=43438601) \| 🗓️ 2025-03-21
+| 🔥: 79 \| 💬: [17](https://news.ycombinator.com/item?id=43438601) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -275,7 +287,7 @@ Mathup 是一个**轻量级工具**，能够将简单的数学表达式快速转
 
 ---
 
-## <a name="22"></a>22. 美国关闭加拿大通往斯坦斯特德边境图书馆的主要入口 
+## <a name="23"></a>23. 美国关闭加拿大通往斯坦斯特德边境图书馆的主要入口 
 <small>🔗 [cbc.ca](https://www.cbc.ca/lite/story/1.7489528): U.S. blocks Canadian access to iconic Stanstead border-straddling library</small>
 
 
@@ -287,7 +299,7 @@ Mathup 是一个**轻量级工具**，能够将简单的数学表达式快速转
 
 ---
 
-## <a name="23"></a>23. 警察诱导供述2.0：风险因素与建议 
+## <a name="24"></a>24. 警察诱导供述2.0：风险因素与建议 
 <small>🔗 [psycnet.apa.org](https://psycnet.apa.org/fulltext/2025-79126-001.html): Police-Induced Confessions, 2.0: Risk Factors and Recommendations</small>
 
 
@@ -299,7 +311,7 @@ Mathup 是一个**轻量级工具**，能够将简单的数学表达式快速转
 
 ---
 
-## <a name="24"></a>24. 中国研发新型装备，加速对台军事准备 
+## <a name="25"></a>25. 中国研发新型装备，加速对台军事准备 
 <small>🔗 [economist.com](https://www.economist.com/china/2025/03/20/china-is-developing-some-startling-new-kit-in-its-quest-to-reclaim-taiwan): China is developing some startling new kit in its quest to invade Taiwan</small>
 
 
