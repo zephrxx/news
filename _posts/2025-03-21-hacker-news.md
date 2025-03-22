@@ -27,7 +27,7 @@ tags:
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/win-encryption-france-rejects-backdoor-mandate): France rejects backdoor mandate</small>
 
 
-| 🔥🔥: 419 \| 💬: [111](https://news.ycombinator.com/item?id=43440513) \| 🗓️ 2025-03-21
+| 🔥🔥: 447 \| 💬: [115](https://news.ycombinator.com/item?id=43440513) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [kellblog.com](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/): Career Development: What It Means to Be a Manager, Director, or VP (2015)</small>
 
 
-| 🔥🔥: 400 \| 💬: [199](https://news.ycombinator.com/item?id=43434093) \| 🗓️ 2025-03-21
+| 🔥🔥: 405 \| 💬: [202](https://news.ycombinator.com/item?id=43434093) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Devolutions/IronRDP): IronRDP: a Rust implementation of Microsoft's RDP protocol</small>
 
 
-| 🔥🔥: 358 \| 💬: [177](https://news.ycombinator.com/item?id=43436894) \| 🗓️ 2025-03-21
+| 🔥🔥: 367 \| 💬: [184](https://news.ycombinator.com/item?id=43436894) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -63,7 +63,7 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 <small>🔗 [reason.com](https://reason.com/2025/03/20/the-fbi-seized-this-womans-life-savings-without-telling-her-why/): The FBI Seized This Woman's Life Savings–Without Telling Her Why</small>
 
 
-| 🔥🔥: 236 \| 💬: [108](https://news.ycombinator.com/item?id=43433694) \| 🗓️ 2025-03-21
+| 🔥🔥: 237 \| 💬: [109](https://news.ycombinator.com/item?id=43433694) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -75,7 +75,7 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2206.13446): Pen and Paper Exercises in Machine Learning (2022)</small>
 
 
-| 🔥🔥: 221 \| 💬: [26](https://news.ycombinator.com/item?id=43440267) \| 🗓️ 2025-03-21
+| 🔥🔥: 232 \| 💬: [26](https://news.ycombinator.com/item?id=43440267) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -83,11 +83,23 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 
 ---
 
-## <a name="6"></a>6. 美国专利商标局新政策加剧打击专利流氓的难度 
+## <a name="6"></a>6. 小书：操作系统开发指南 
+<small>🔗 [littleosbook.github.io](https://littleosbook.github.io/): The little book about OS development</small>
+
+
+| 🔥🔥: 210 \| 💬: [15](https://news.ycombinator.com/item?id=43440473) \| 🗓️ 2025-03-21
+
+
+<br />
+《小书：操作系统开发指南》是一本实践性指南，旨在帮助读者从零开始开发一个基于**x86架构**的操作系统。书中详细介绍了开发环境的搭建、**引导过程**、C语言编程、硬件交互、分段与分页、中断处理、用户模式、文件系统、系统调用和多任务处理等核心主题。通过逐步引导，读者将学会如何编写一个功能简单但完整的操作系统内核。本书适合具备UNIX/Linux、C语言和系统编程基础的读者，适合那些希望深入理解操作系统底层原理的开发者。
+
+---
+
+## <a name="7"></a>7. 美国专利商标局新政策加剧打击专利流氓的难度 
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/new-uspto-memo-makes-fighting-patent-trolls-even-harder): New USPTO Memo Makes Fighting Patent Trolls Even Harder</small>
 
 
-| 🔥🔥: 192 \| 💬: [70](https://news.ycombinator.com/item?id=43439610) \| 🗓️ 2025-03-21
+| 🔥🔥: 205 \| 💬: [76](https://news.ycombinator.com/item?id=43439610) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -95,7 +107,7 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 
 ---
 
-## <a name="7"></a>7. 车轮再造者的原则（2024） 
+## <a name="8"></a>8. 车轮再造者的原则（2024） 
 <small>🔗 [tobloef.com](https://tobloef.com/blog/wheel-reinventors-principles/): Wheel Reinventor’s Principles (2024)</small>
 
 
@@ -104,18 +116,6 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 
 <br />
 车轮再造者热衷于重新发明轮子，原因包括**学习**、**定制化**、**创新**和**乐趣**。然而，再造轮子可能耗时且结果不如现有方案，需警惕陷入无底洞。再造者应**深思熟虑**，明确目标，避免过度扩展。开发原则包括减少依赖、拥抱DIY、避免过度抽象、分享成果。
-
----
-
-## <a name="8"></a>8. 小书：操作系统开发指南 
-<small>🔗 [littleosbook.github.io](https://littleosbook.github.io/): The little book about OS development</small>
-
-
-| 🔥🔥: 190 \| 💬: [12](https://news.ycombinator.com/item?id=43440473) \| 🗓️ 2025-03-21
-
-
-<br />
-《小书：操作系统开发指南》是一本实践性指南，旨在帮助读者从零开始开发一个基于**x86架构**的操作系统。书中详细介绍了开发环境的搭建、**引导过程**、C语言编程、硬件交互、分段与分页、中断处理、用户模式、文件系统、系统调用和多任务处理等核心主题。通过逐步引导，读者将学会如何编写一个功能简单但完整的操作系统内核。本书适合具备UNIX/Linux、C语言和系统编程基础的读者，适合那些希望深入理解操作系统底层原理的开发者。
 
 ---
 
@@ -135,7 +135,7 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 <small>🔗 [bettercities.substack.com](https://bettercities.substack.com/p/congestion-pricing-is-a-policy-miracle): Congestion Pricing Is a Policy Miracle</small>
 
 
-| 🔥🔥: 163 \| 💬: [295](https://news.ycombinator.com/item?id=43436315) \| 🗓️ 2025-03-21
+| 🔥🔥: 164 \| 💬: [300](https://news.ycombinator.com/item?id=43436315) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -159,7 +159,7 @@ Reddit用户讨论了一个令人震惊的现象：到2025年，**折叠一个di
 <small>🔗 [victorpoughon.github.io](https://victorpoughon.github.io/torchlensmaker/): Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch</small>
 
 
-| 🔥🔥: 139 \| 💬: [38](https://news.ycombinator.com/item?id=43435438) \| 🗓️ 2025-03-21
+| 🔥🔥: 143 \| 💬: [38](https://news.ycombinator.com/item?id=43435438) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -171,7 +171,7 @@ Torch Lens Maker 是一个基于 **PyTorch** 的开源库，专注于**可微分
 <small>🔗 [github.com](https://github.com/soloterm/screen): Show HN: A terminal emulator in pure PHP</small>
 
 
-| 🔥🔥: 115 \| 💬: [64](https://news.ycombinator.com/item?id=43438797) \| 🗓️ 2025-03-21
+| 🔥🔥: 120 \| 💬: [64](https://news.ycombinator.com/item?id=43438797) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -183,7 +183,7 @@ Solo Screen 是一个用**纯PHP**编写的终端模拟器，专为PHP应用程�
 <small>🔗 [umich-curly.github.io](https://umich-curly.github.io/DHAL/): Legged Locomotion Meets Skateboarding</small>
 
 
-| 🔥🔥: 106 \| 💬: [23](https://news.ycombinator.com/item?id=43434910) \| 🗓️ 2025-03-21
+| 🔥🔥: 111 \| 💬: [24](https://news.ycombinator.com/item?id=43434910) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -195,7 +195,7 @@ Solo Screen 是一个用**纯PHP**编写的终端模拟器，专为PHP应用程�
 <small>🔗 [blog.codinghorror.com](https://blog.codinghorror.com/the-road-not-taken-is-guaranteed-minimum-income/): The Road Not Taken Is Guaranteed Minimum Income</small>
 
 
-| 🔥🔥: 102 \| 💬: [187](https://news.ycombinator.com/item?id=43436454) \| 🗓️ 2025-03-21
+| 🔥🔥: 102 \| 💬: [188](https://news.ycombinator.com/item?id=43436454) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -203,7 +203,31 @@ Solo Screen 是一个用**纯PHP**编写的终端模拟器，专为PHP应用程�
 
 ---
 
-## <a name="16"></a>16. 波士顿动力展示人形机器人移动能力的重大突破 
+## <a name="16"></a>16. 我想要一台强大的并行计算机 
+<small>🔗 [raphlinus.github.io](https://raphlinus.github.io/gpu/2025/03/21/good-parallel-computer.html): I want a good parallel computer</small>
+
+
+| 🔥🔥: 101 \| 💬: [90](https://news.ycombinator.com/item?id=43440174) \| 🗓️ 2025-03-21
+
+
+<br />
+GPU的计算能力比CPU强10到100倍，但在**动态任务**和**编程工具**方面存在局限。现代GPU复杂且功能不完善，导致内存管理和并行计算效率低下。历史上如**Cell**和**Larrabee**等并行计算机设计曾展现出潜力，但因编程模型复杂或执行不力未能普及。未来，通过改进硬件设计和编程模型，或许能实现更高效的并行计算。
+
+---
+
+## <a name="17"></a>17. EFF边境搜查口袋指南 
+<small>🔗 [eff.org](https://www.eff.org/document/eff-border-search-pocket-guide): EFF Border Search Pocket Guide</small>
+
+
+| 🔥🔥: 101 \| 💬: [26](https://news.ycombinator.com/item?id=43441895) \| 🗓️ 2025-03-21
+
+
+<br />
+本文介绍了**EFF边境搜查口袋指南**，旨在帮助旅行者了解在**美国边境**如何保护**数字隐私**。指南提供了可打印的PDF版本，方便随身携带，内容涵盖如何在边境检查时保护设备上的数据。EFF还提供了西班牙语版本，确保更多用户能够获取相关信息。
+
+---
+
+## <a name="18"></a>18. 波士顿动力展示人形机器人移动能力的重大突破 
 <small>🔗 [newatlas.com](https://newatlas.com/ai-humanoids/boston-dynamics-atlas-athletic/): Boston Dynamics shows off another major leap in humanoid mobility</small>
 
 
@@ -212,30 +236,6 @@ Solo Screen 是一个用**纯PHP**编写的终端模拟器，专为PHP应用程�
 
 <br />
 波士顿动力最新发布的**Atlas机器人**视频展示了其在**自然运动**方面的显著进步，包括跑步、翻滚和街舞等高难度动作。尽管其他公司更关注机器人的实用性，波士顿动力依然在**人形机器人**领域保持领先地位。Atlas的**360度旋转关节**使其动作更加流畅，展现了AI在动态平衡和运动规划上的快速学习能力。未来，人形机器人将逐步进入工厂和日常生活。
-
----
-
-## <a name="17"></a>17. 我想要一台强大的并行计算机 
-<small>🔗 [raphlinus.github.io](https://raphlinus.github.io/gpu/2025/03/21/good-parallel-computer.html): I want a good parallel computer</small>
-
-
-| 🔥: 100 \| 💬: [88](https://news.ycombinator.com/item?id=43440174) \| 🗓️ 2025-03-21
-
-
-<br />
-GPU的计算能力比CPU强10到100倍，但在**动态任务**和**编程工具**方面存在局限。现代GPU复杂且功能不完善，导致内存管理和并行计算效率低下。历史上如**Cell**和**Larrabee**等并行计算机设计曾展现出潜力，但因编程模型复杂或执行不力未能普及。未来，通过改进硬件设计和编程模型，或许能实现更高效的并行计算。
-
----
-
-## <a name="18"></a>18. EFF边境搜查口袋指南 
-<small>🔗 [eff.org](https://www.eff.org/document/eff-border-search-pocket-guide): EFF Border Search Pocket Guide</small>
-
-
-| 🔥: 98 \| 💬: [26](https://news.ycombinator.com/item?id=43441895) \| 🗓️ 2025-03-21
-
-
-<br />
-本文介绍了**EFF边境搜查口袋指南**，旨在帮助旅行者了解在**美国边境**如何保护**数字隐私**。指南提供了可打印的PDF版本，方便随身携带，内容涵盖如何在边境检查时保护设备上的数据。EFF还提供了西班牙语版本，确保更多用户能够获取相关信息。
 
 ---
 
@@ -255,7 +255,7 @@ GPU的计算能力比CPU强10到100倍，但在**动态任务**和**编程工具
 <small>🔗 [cs.utexas.edu](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD831.html): Numbering should start at zero (1982)</small>
 
 
-| 🔥: 90 \| 💬: [251](https://news.ycombinator.com/item?id=43433599) \| 🗓️ 2025-03-21
+| 🔥: 91 \| 💬: [252](https://news.ycombinator.com/item?id=43433599) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -267,7 +267,7 @@ GPU的计算能力比CPU强10到100倍，但在**动态任务**和**编程工具
 <small>🔗 [mathup.xyz](https://mathup.xyz/): Mathup: Easy MathML authoring tool with a quick to write syntax</small>
 
 
-| 🔥: 82 \| 💬: [18](https://news.ycombinator.com/item?id=43438192) \| 🗓️ 2025-03-21
+| 🔥: 86 \| 💬: [18](https://news.ycombinator.com/item?id=43438192) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -279,7 +279,7 @@ Mathup 是一个**轻量级工具**，能够将简单的数学表达式快速转
 <small>🔗 [daemonology.net](https://www.daemonology.net/blog/chunking-attacks.pdf): Chunking Attacks on File Backup Services Using Content-Deﬁned Chunking [pdf]</small>
 
 
-| 🔥: 79 \| 💬: [17](https://news.ycombinator.com/item?id=43438601) \| 🗓️ 2025-03-21
+| 🔥: 79 \| 💬: [18](https://news.ycombinator.com/item?id=43438601) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -303,7 +303,7 @@ Mathup 是一个**轻量级工具**，能够将简单的数学表达式快速转
 <small>🔗 [psycnet.apa.org](https://psycnet.apa.org/fulltext/2025-79126-001.html): Police-Induced Confessions, 2.0: Risk Factors and Recommendations</small>
 
 
-| 🔥: 62 \| 💬: [37](https://news.ycombinator.com/item?id=43436643) \| 🗓️ 2025-03-21
+| 🔥: 63 \| 💬: [37](https://news.ycombinator.com/item?id=43436643) \| 🗓️ 2025-03-21
 
 
 <br />
