@@ -27,7 +27,7 @@ tags:
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/win-encryption-france-rejects-backdoor-mandate): France rejects backdoor mandate</small>
 
 
-| 🔥🔥: 505 \| 💬: [125](https://news.ycombinator.com/item?id=43440513) \| 🗓️ 2025-03-21
+| 🔥🔥: 537 \| 💬: [132](https://news.ycombinator.com/item?id=43440513) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [kellblog.com](https://kellblog.com/2015/03/08/career-development-what-it-really-means-to-be-a-manager-director-or-vp/): Career Development: What It Means to Be a Manager, Director, or VP (2015)</small>
 
 
-| 🔥🔥: 425 \| 💬: [205](https://news.ycombinator.com/item?id=43434093) \| 🗓️ 2025-03-21
+| 🔥🔥: 433 \| 💬: [209](https://news.ycombinator.com/item?id=43434093) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Devolutions/IronRDP): IronRDP: a Rust implementation of Microsoft's RDP protocol</small>
 
 
-| 🔥🔥: 395 \| 💬: [186](https://news.ycombinator.com/item?id=43436894) \| 🗓️ 2025-03-21
+| 🔥🔥: 404 \| 💬: [187](https://news.ycombinator.com/item?id=43436894) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -63,7 +63,7 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2206.13446): Pen and Paper Exercises in Machine Learning (2022)</small>
 
 
-| 🔥🔥: 260 \| 💬: [30](https://news.ycombinator.com/item?id=43440267) \| 🗓️ 2025-03-21
+| 🔥🔥: 273 \| 💬: [32](https://news.ycombinator.com/item?id=43440267) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -75,7 +75,7 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 <small>🔗 [littleosbook.github.io](https://littleosbook.github.io/): The little book about OS development</small>
 
 
-| 🔥🔥: 244 \| 💬: [23](https://news.ycombinator.com/item?id=43440473) \| 🗓️ 2025-03-21
+| 🔥🔥: 262 \| 💬: [28](https://news.ycombinator.com/item?id=43440473) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -99,7 +99,7 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/new-uspto-memo-makes-fighting-patent-trolls-even-harder): New USPTO Memo Makes Fighting Patent Trolls Even Harder</small>
 
 
-| 🔥🔥: 225 \| 💬: [83](https://news.ycombinator.com/item?id=43439610) \| 🗓️ 2025-03-21
+| 🔥🔥: 236 \| 💬: [83](https://news.ycombinator.com/item?id=43439610) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -111,7 +111,7 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 <small>🔗 [tobloef.com](https://tobloef.com/blog/wheel-reinventors-principles/): Wheel Reinventor’s Principles (2024)</small>
 
 
-| 🔥🔥: 194 \| 💬: [97](https://news.ycombinator.com/item?id=43434730) \| 🗓️ 2025-03-21
+| 🔥🔥: 195 \| 💬: [97](https://news.ycombinator.com/item?id=43434730) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -119,7 +119,19 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 
 ---
 
-## <a name="9"></a>9. 德国收紧对美旅行建议，三名公民被拘留 
+## <a name="9"></a>9. 拳击传奇乔治·福尔曼去世，享年76岁 
+<small>🔗 [variety.com](https://variety.com/2025/tv/news/george-foreman-boxer-infomercial-star-dies-1236345523/): George Foreman, Boxer Turned Foreman Grill Infomercial Star, Dies at 76</small>
+
+
+| 🔥🔥: 179 \| 💬: [63](https://news.ycombinator.com/item?id=43442917) \| 🗓️ 2025-03-21
+
+
+<br />
+乔治·福尔曼，从**拳击冠军**转型为**福尔曼烤炉**广告明星的传奇人物，于周五去世，享年76岁。福尔曼在1970年代成为世界重量级拳王，并在1990年代通过一系列电视广告推广其烤炉产品，成为家喻户晓的明星。他曾在1977年退出拳坛，成为牧师，但在1987年复出并再次夺得重量级冠军。福尔曼以其**亲和力**和庞大的家庭闻名，晚年还参与了多部纪录片和传记电影的拍摄。
+
+---
+
+## <a name="10"></a>10. 德国收紧对美旅行建议，三名公民被拘留 
 <small>🔗 [euronews.com](https://www.euronews.com/my-europe/2025/03/19/germany-tightens-travel-advice-to-us-after-three-citizens-detained): Germany tightens travel advice to US after three citizens detained</small>
 
 
@@ -131,7 +143,7 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 
 ---
 
-## <a name="10"></a>10. 拥堵收费：政策奇迹 
+## <a name="11"></a>11. 拥堵收费：政策奇迹 
 <small>🔗 [bettercities.substack.com](https://bettercities.substack.com/p/congestion-pricing-is-a-policy-miracle): Congestion Pricing Is a Policy Miracle</small>
 
 
@@ -143,7 +155,7 @@ IronRDP 是一个用 **Rust** 实现的 **微软远程桌面协议 (RDP)**，专
 
 ---
 
-## <a name="11"></a>11. 2025年：折叠一个div需要每月8美元？ 
+## <a name="12"></a>12. 2025年：折叠一个div需要每月8美元？ 
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/webdev/comments/1jged6g/imagine_telling_2010_devs_that_in_2025_collapsing/): Imagine telling 2010 devs that in 2025, collapsing a div would require $8/ month</small>
 
 
@@ -155,11 +167,11 @@ Reddit用户讨论了一个令人震惊的现象：到2025年，**折叠一个di
 
 ---
 
-## <a name="12"></a>12. Torch Lens Maker：基于PyTorch的可微分几何光学库 
+## <a name="13"></a>13. Torch Lens Maker：基于PyTorch的可微分几何光学库 
 <small>🔗 [victorpoughon.github.io](https://victorpoughon.github.io/torchlensmaker/): Show HN: Torch Lens Maker – Differentiable Geometric Optics in PyTorch</small>
 
 
-| 🔥🔥: 151 \| 💬: [38](https://news.ycombinator.com/item?id=43435438) \| 🗓️ 2025-03-21
+| 🔥🔥: 152 \| 💬: [38](https://news.ycombinator.com/item?id=43435438) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -167,23 +179,11 @@ Torch Lens Maker 是一个基于 **PyTorch** 的开源库，专注于**可微分
 
 ---
 
-## <a name="13"></a>13. 拳击传奇乔治·福尔曼去世，享年76岁 
-<small>🔗 [variety.com](https://variety.com/2025/tv/news/george-foreman-boxer-infomercial-star-dies-1236345523/): George Foreman, Boxer Turned Foreman Grill Infomercial Star, Dies at 76</small>
-
-
-| 🔥🔥: 144 \| 💬: [49](https://news.ycombinator.com/item?id=43442917) \| 🗓️ 2025-03-21
-
-
-<br />
-乔治·福尔曼，从**拳击冠军**转型为**福尔曼烤炉**广告明星的传奇人物，于周五去世，享年76岁。福尔曼在1970年代成为世界重量级拳王，并在1990年代通过一系列电视广告推广其烤炉产品，成为家喻户晓的明星。他曾在1977年退出拳坛，成为牧师，但在1987年复出并再次夺得重量级冠军。福尔曼以其**亲和力**和庞大的家庭闻名，晚年还参与了多部纪录片和传记电影的拍摄。
-
----
-
 ## <a name="14"></a>14. 纯PHP实现的终端模拟器 
 <small>🔗 [github.com](https://github.com/soloterm/screen): Show HN: A terminal emulator in pure PHP</small>
 
 
-| 🔥🔥: 134 \| 💬: [65](https://news.ycombinator.com/item?id=43438797) \| 🗓️ 2025-03-21
+| 🔥🔥: 138 \| 💬: [65](https://news.ycombinator.com/item?id=43438797) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -195,7 +195,7 @@ Solo Screen 是一个用**纯PHP**编写的终端模拟器，专为PHP应用程�
 <small>🔗 [umich-curly.github.io](https://umich-curly.github.io/DHAL/): Legged Locomotion Meets Skateboarding</small>
 
 
-| 🔥🔥: 120 \| 💬: [30](https://news.ycombinator.com/item?id=43434910) \| 🗓️ 2025-03-21
+| 🔥🔥: 121 \| 💬: [30](https://news.ycombinator.com/item?id=43434910) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -207,7 +207,7 @@ Solo Screen 是一个用**纯PHP**编写的终端模拟器，专为PHP应用程�
 <small>🔗 [raphlinus.github.io](https://raphlinus.github.io/gpu/2025/03/21/good-parallel-computer.html): I want a good parallel computer</small>
 
 
-| 🔥🔥: 112 \| 💬: [97](https://news.ycombinator.com/item?id=43440174) \| 🗓️ 2025-03-21
+| 🔥🔥: 119 \| 💬: [100](https://news.ycombinator.com/item?id=43440174) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -215,7 +215,19 @@ GPU的计算能力比CPU强10到100倍，但在**动态任务**和**编程工具
 
 ---
 
-## <a name="17"></a>17. 未被选择的道路：保障最低收入 
+## <a name="17"></a>17. EFF边境搜查口袋指南 
+<small>🔗 [eff.org](https://www.eff.org/document/eff-border-search-pocket-guide): EFF Border Search Pocket Guide</small>
+
+
+| 🔥🔥: 105 \| 💬: [27](https://news.ycombinator.com/item?id=43441895) \| 🗓️ 2025-03-21
+
+
+<br />
+本文介绍了**EFF边境搜查口袋指南**，旨在帮助旅行者了解在**美国边境**如何保护**数字隐私**。指南提供了可打印的PDF版本，方便随身携带，内容涵盖如何在边境检查时保护设备上的数据。EFF还提供了西班牙语版本，确保更多用户能够获取相关信息。
+
+---
+
+## <a name="18"></a>18. 未被选择的道路：保障最低收入 
 <small>🔗 [blog.codinghorror.com](https://blog.codinghorror.com/the-road-not-taken-is-guaranteed-minimum-income/): The Road Not Taken Is Guaranteed Minimum Income</small>
 
 
@@ -224,18 +236,6 @@ GPU的计算能力比CPU强10到100倍，但在**动态任务**和**编程工具
 
 <br />
 本文探讨了美国梦的现状及其面临的挑战，强调了财富集中对普通人实现梦想的阻碍。作者提出通过**保障最低收入（GMI）**来解决经济不安全感，特别是在贫困的农村地区。GMI旨在为最需要帮助的人提供经济基础，从而释放未被开发的潜力，促进社区的连接与繁荣。
-
----
-
-## <a name="18"></a>18. EFF边境搜查口袋指南 
-<small>🔗 [eff.org](https://www.eff.org/document/eff-border-search-pocket-guide): EFF Border Search Pocket Guide</small>
-
-
-| 🔥🔥: 102 \| 💬: [27](https://news.ycombinator.com/item?id=43441895) \| 🗓️ 2025-03-21
-
-
-<br />
-本文介绍了**EFF边境搜查口袋指南**，旨在帮助旅行者了解在**美国边境**如何保护**数字隐私**。指南提供了可打印的PDF版本，方便随身携带，内容涵盖如何在边境检查时保护设备上的数据。EFF还提供了西班牙语版本，确保更多用户能够获取相关信息。
 
 ---
 
@@ -263,23 +263,11 @@ GPU的计算能力比CPU强10到100倍，但在**动态任务**和**编程工具
 
 ---
 
-## <a name="21"></a>21. 编号应从零开始（1982） 
-<small>🔗 [cs.utexas.edu](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD831.html): Numbering should start at zero (1982)</small>
-
-
-| 🔥: 92 \| 💬: [256](https://news.ycombinator.com/item?id=43433599) \| 🗓️ 2025-03-21
-
-
-<br />
-在表示自然数子序列时，**从零开始编号**更为合理。通过分析四种表示方式，作者指出**使用“≤”表示下界和“<”表示上界**的约定（如2 ≤ i < 13）最为简洁且避免不自然的边界值。此外，编程语言Mesa的经验表明，其他约定容易导致错误。**零应被视为最自然的数**，许多编程语言因忽略这一点而设计不佳。
-
----
-
-## <a name="22"></a>22. Mathup：快速编写数学表达式的MathML工具 
+## <a name="21"></a>21. Mathup：快速编写数学表达式的MathML工具 
 <small>🔗 [mathup.xyz](https://mathup.xyz/): Mathup: Easy MathML authoring tool with a quick to write syntax</small>
 
 
-| 🔥: 92 \| 💬: [22](https://news.ycombinator.com/item?id=43438192) \| 🗓️ 2025-03-21
+| 🔥: 94 \| 💬: [22](https://news.ycombinator.com/item?id=43438192) \| 🗓️ 2025-03-21
 
 
 <br />
@@ -287,11 +275,23 @@ Mathup 是一个**轻量级工具**，能够将简单的数学表达式快速转
 
 ---
 
+## <a name="22"></a>22. 编号应从零开始（1982） 
+<small>🔗 [cs.utexas.edu](https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD831.html): Numbering should start at zero (1982)</small>
+
+
+| 🔥: 93 \| 💬: [260](https://news.ycombinator.com/item?id=43433599) \| 🗓️ 2025-03-21
+
+
+<br />
+在表示自然数子序列时，**从零开始编号**更为合理。通过分析四种表示方式，作者指出**使用“≤”表示下界和“<”表示上界**的约定（如2 ≤ i < 13）最为简洁且避免不自然的边界值。此外，编程语言Mesa的经验表明，其他约定容易导致错误。**零应被视为最自然的数**，许多编程语言因忽略这一点而设计不佳。
+
+---
+
 ## <a name="23"></a>23. 基于内容定义分块的文件备份服务攻击研究 
 <small>🔗 [daemonology.net](https://www.daemonology.net/blog/chunking-attacks.pdf): Chunking Attacks on File Backup Services Using Content-Deﬁned Chunking [pdf]</small>
 
 
-| 🔥: 85 \| 💬: [18](https://news.ycombinator.com/item?id=43438601) \| 🗓️ 2025-03-21
+| 🔥: 88 \| 💬: [18](https://news.ycombinator.com/item?id=43438601) \| 🗓️ 2025-03-21
 
 
 <br />
