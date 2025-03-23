@@ -10,9 +10,9 @@ tags:
 
 1. PyTorch 内部机制解析；
 1. Landrun：使用Landlock无根或容器化沙盒运行Linux进程；
-1. 利用计算机视觉增强OpenStreetMap地图功能；
 1. NixOS与可重现构建如何检测xz后门；
-1. “氛围编程”与现实的差距；
+1. 利用计算机视觉增强OpenStreetMap地图功能；
+1. 极地涡旋即将减速：冬季天气或受影响；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [blog.ezyang.com](https://blog.ezyang.com/2019/05/pytorch-internals/): PyTorch Internals: Ezyang's Blog</small>
 
 
-| 🔥🔥: 288 \| 💬: [21](https://news.ycombinator.com/item?id=43445931) \| 🗓️ 2025-03-22
+| 🔥🔥: 294 \| 💬: [21](https://news.ycombinator.com/item?id=43445931) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Zouuup/landrun): Landrun: Sandbox any Linux process using Landlock, no root or containers</small>
 
 
-| 🔥🔥: 279 \| 💬: [94](https://news.ycombinator.com/item?id=43445662) \| 🗓️ 2025-03-22
+| 🔥🔥: 290 \| 💬: [96](https://news.ycombinator.com/item?id=43445662) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -47,23 +47,11 @@ Landrun 是一个轻量级的工具，利用 **Landlock LSM** 在 Linux 内核�
 
 ---
 
-## <a name="3"></a>3. 利用计算机视觉增强OpenStreetMap地图功能 
-<small>🔗 [blog.mozilla.ai](https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/): Map Features in OpenStreetMap with Computer Vision</small>
-
-
-| 🔥🔥: 198 \| 💬: [43](https://news.ycombinator.com/item?id=43447335) \| 🗓️ 2025-03-22
-
-
-<br />
-Mozilla.ai发布了**OpenStreetMap AI助手蓝图**，旨在通过**计算机视觉模型**加速地图绘制过程。该蓝图结合了**YOLOv11**目标检测和**SAM2**分割模型，自动识别并绘制地图特征，同时保留人工验证环节。通过此方法，绘制效率提升了约5倍，展示了AI在开源社区中的潜力。
-
----
-
-## <a name="4"></a>4. NixOS与可重现构建如何检测xz后门 
+## <a name="3"></a>3. NixOS与可重现构建如何检测xz后门 
 <small>🔗 [luj.fr](https://luj.fr/blog/how-nixos-could-have-detected-xz.html): NixOS and reproducible builds could have detected the xz backdoor</small>
 
 
-| 🔥🔥: 194 \| 💬: [67](https://news.ycombinator.com/item?id=43448075) \| 🗓️ 2025-03-22
+| 🔥🔥: 208 \| 💬: [76](https://news.ycombinator.com/item?id=43448075) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -71,7 +59,31 @@ Mozilla.ai发布了**OpenStreetMap AI助手蓝图**，旨在通过**计算机视
 
 ---
 
-## <a name="5"></a>5. “氛围编程”与现实的差距 
+## <a name="4"></a>4. 利用计算机视觉增强OpenStreetMap地图功能 
+<small>🔗 [blog.mozilla.ai](https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/): Map Features in OpenStreetMap with Computer Vision</small>
+
+
+| 🔥🔥: 206 \| 💬: [46](https://news.ycombinator.com/item?id=43447335) \| 🗓️ 2025-03-22
+
+
+<br />
+Mozilla.ai发布了**OpenStreetMap AI助手蓝图**，旨在通过**计算机视觉模型**加速地图绘制过程。该蓝图结合了**YOLOv11**目标检测和**SAM2**分割模型，自动识别并绘制地图特征，同时保留人工验证环节。通过此方法，绘制效率提升了约5倍，展示了AI在开源社区中的潜力。
+
+---
+
+## <a name="5"></a>5. 极地涡旋即将减速：冬季天气或受影响 
+<small>🔗 [climate.gov](https://www.climate.gov/news-features/blogs/polar-vortex/polar-vortex-hitting-brakes): The polar vortex is hitting the brakes</small>
+
+
+| 🔥🔥: 191 \| 💬: [177](https://news.ycombinator.com/item?id=43448023) \| 🗓️ 2025-03-22
+
+
+<br />
+根据NOAA的最新预测，**极地涡旋**在经历了整个冬季的强劲西风后，即将发生显著减速甚至逆转。这一现象被称为**突发平流层增温**，可能导致北极地区温度在短短几天内上升45°F（25°C）。虽然这种变化可能影响春季天气，但目前尚不确定是否会显著影响对流层和地表天气。
+
+---
+
+## <a name="6"></a>6. “氛围编程”与现实的差距 
 <small>🔗 [cendyne.dev](https://cendyne.dev/posts/2025-03-19-vibe-coding-vs-reality.html): “Vibe Coding” vs. Reality</small>
 
 
@@ -83,23 +95,11 @@ Mozilla.ai发布了**OpenStreetMap AI助手蓝图**，旨在通过**计算机视
 
 ---
 
-## <a name="6"></a>6. 极地涡旋即将减速：冬季天气或受影响 
-<small>🔗 [climate.gov](https://www.climate.gov/news-features/blogs/polar-vortex/polar-vortex-hitting-brakes): The polar vortex is hitting the brakes</small>
-
-
-| 🔥🔥: 184 \| 💬: [167](https://news.ycombinator.com/item?id=43448023) \| 🗓️ 2025-03-22
-
-
-<br />
-根据NOAA的最新预测，**极地涡旋**在经历了整个冬季的强劲西风后，即将发生显著减速甚至逆转。这一现象被称为**突发平流层增温**，可能导致北极地区温度在短短几天内上升45°F（25°C）。虽然这种变化可能影响春季天气，但目前尚不确定是否会显著影响对流层和地表天气。
-
----
-
 ## <a name="7"></a>7. AI广告技术公司CEO因欺诈被判刑，曾承诺“无欺诈世界” 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/ceo-of-ai-ad-tech-firm-pledging-world-free-of-fraud-sentenced-for-fraud/): CEO of Kubient sentenced for fraud</small>
 
 
-| 🔥🔥: 154 \| 💬: [48](https://news.ycombinator.com/item?id=43448606) \| 🗓️ 2025-03-22
+| 🔥🔥: 156 \| 💬: [48](https://news.ycombinator.com/item?id=43448606) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -111,7 +111,7 @@ Mozilla.ai发布了**OpenStreetMap AI助手蓝图**，旨在通过**计算机视
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/03/21/amazon-product-safety-regulators-trump/): Amazon wants a product safety regulator declared unconstitutional</small>
 
 
-| 🔥🔥: 148 \| 💬: [105](https://news.ycombinator.com/item?id=43446103) \| 🗓️ 2025-03-22
+| 🔥🔥: 149 \| 💬: [105](https://news.ycombinator.com/item?id=43446103) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -123,7 +123,7 @@ Mozilla.ai发布了**OpenStreetMap AI助手蓝图**，旨在通过**计算机视
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/italian-court-orders-google-to-block-iptv-pirate-sites-at-dns-level/): Italy demands Google poison DNS under strict Piracy Shield law</small>
 
 
-| 🔥🔥: 141 \| 💬: [94](https://news.ycombinator.com/item?id=43448112) \| 🗓️ 2025-03-22
+| 🔥🔥: 146 \| 💬: [98](https://news.ycombinator.com/item?id=43448112) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -131,23 +131,11 @@ Mozilla.ai发布了**OpenStreetMap AI助手蓝图**，旨在通过**计算机视
 
 ---
 
-## <a name="10"></a>10. Facebook同意停止向英国女性投放定向广告 
-<small>🔗 [bbc.co.uk](https://www.bbc.co.uk/news/articles/c1en1yjv4dpo): Facebook to stop targeting ads at UK woman after legal fight</small>
-
-
-| 🔥🔥: 127 \| 💬: [95](https://news.ycombinator.com/item?id=43446821) \| 🗓️ 2025-03-22
-
-
-<br />
-Facebook同意停止使用个人数据向特定用户投放广告，此前Tanya O'Carroll对其母公司Meta提起诉讼。O'Carroll认为，**定向广告**属于**直接营销**，用户有权拒绝。英国信息专员办公室支持她的观点，认为企业应尊重用户的数据使用选择。Meta表示广告仅针对100人以上的群体，而非个人，但同意停止对O'Carroll的**个人数据**用于直接营销。她希望此举能为其他人提供先例，推动更多用户行使拒绝定向广告的权利。
-
----
-
-## <a name="11"></a>11. Next.js 15.2.3 发布以修复安全漏洞 
+## <a name="10"></a>10. Next.js 15.2.3 发布以修复安全漏洞 
 <small>🔗 [nextjs.org](https://nextjs.org/blog/cve-2025-29927): Next.js version 15.2.3 has been released to address a security vulnerability</small>
 
 
-| 🔥🔥: 125 \| 💬: [101](https://news.ycombinator.com/item?id=43448723) \| 🗓️ 2025-03-22
+| 🔥🔥: 129 \| 💬: [105](https://news.ycombinator.com/item?id=43448723) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -155,11 +143,23 @@ Next.js 15.2.3 版本已发布，修复了一个安全漏洞（CVE-2025-29927）
 
 ---
 
+## <a name="11"></a>11. Facebook同意停止向英国女性投放定向广告 
+<small>🔗 [bbc.co.uk](https://www.bbc.co.uk/news/articles/c1en1yjv4dpo): Facebook to stop targeting ads at UK woman after legal fight</small>
+
+
+| 🔥🔥: 127 \| 💬: [96](https://news.ycombinator.com/item?id=43446821) \| 🗓️ 2025-03-22
+
+
+<br />
+Facebook同意停止使用个人数据向特定用户投放广告，此前Tanya O'Carroll对其母公司Meta提起诉讼。O'Carroll认为，**定向广告**属于**直接营销**，用户有权拒绝。英国信息专员办公室支持她的观点，认为企业应尊重用户的数据使用选择。Meta表示广告仅针对100人以上的群体，而非个人，但同意停止对O'Carroll的**个人数据**用于直接营销。她希望此举能为其他人提供先例，推动更多用户行使拒绝定向广告的权利。
+
+---
+
 ## <a name="12"></a>12. 微分几何入门：曲线与曲面的初步探索 
 <small>🔗 [math.franklin.uga.edu](https://math.franklin.uga.edu/sites/default/files/users/user317/ShifrinDiffGeo.pdf): Differential Geometry: A First Course in Curves and Surfaces [pdf]</small>
 
 
-| 🔥🔥: 122 \| 💬: [5](https://news.ycombinator.com/item?id=43445614) \| 🗓️ 2025-03-22
+| 🔥🔥: 124 \| 💬: [5](https://news.ycombinator.com/item?id=43445614) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -171,7 +171,7 @@ Next.js 15.2.3 版本已发布，修复了一个安全漏洞（CVE-2025-29927）
 <small>🔗 [github.com](https://github.com/mr-fatalyst/fastopenapi): Show HN: FastOpenAPI – automated docs for many Python frameworks</small>
 
 
-| 🔥🔥: 115 \| 💬: [54](https://news.ycombinator.com/item?id=43445720) \| 🗓️ 2025-03-22
+| 🔥🔥: 115 \| 💬: [55](https://news.ycombinator.com/item?id=43445720) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -183,7 +183,7 @@ FastOpenAPI 是一个基于 **Pydantic v2** 的库，用于生成和集成 **Ope
 <small>🔗 [github.com](https://github.com/sail-sg/understand-r1-zero): Understanding R1-Zero-Like Training: A Critical Perspective</small>
 
 
-| 🔥🔥: 103 \| 💬: [13](https://news.ycombinator.com/item?id=43445894) \| 🗓️ 2025-03-22
+| 🔥🔥: 106 \| 💬: [13](https://news.ycombinator.com/item?id=43445894) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -195,7 +195,7 @@ FastOpenAPI 是一个基于 **Pydantic v2** 的库，用于生成和集成 **Ope
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=xJzrU38pGWc): Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]</small>
 
 
-| 🔥: 91 \| 💬: [20](https://news.ycombinator.com/item?id=43446442) \| 🗓️ 2025-03-22
+| 🔥: 92 \| 💬: [20](https://news.ycombinator.com/item?id=43446442) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -203,27 +203,27 @@ FastOpenAPI 是一个基于 **Pydantic v2** 的库，用于生成和集成 **Ope
 
 ---
 
-## <a name="16"></a>16. 物理学的数学方法 
-<small>🔗 [ma.imperial.ac.uk](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf): Mathematical Methods for Physics [pdf]</small>
-
-
-| 🔥: 84 \| 💬: [31](https://news.ycombinator.com/item?id=43448193) \| 🗓️ 2025-03-22
-
-
-<br />
-本文是一份关于**物理学中数学方法**的PDF文档，内容涉及**线性代数**、**微积分**和**微分方程**等数学工具在物理学中的应用。文档详细介绍了如何通过这些数学方法解决物理问题，并提供了相关的公式和推导过程。适合物理学和数学领域的学习者和研究者参考。
-
----
-
-## <a name="17"></a>17. AI的经济价值主要来自广泛自动化，而非研发 
+## <a name="16"></a>16. AI的经济价值主要来自广泛自动化，而非研发 
 <small>🔗 [epoch.ai](https://epoch.ai/gradient-updates/most-ai-value-will-come-from-broad-automation-not-from-r-d): Most AI value will come from broad automation, not from R&D</small>
 
 
-| 🔥: 83 \| 💬: [102](https://news.ycombinator.com/item?id=43447616) \| 🗓️ 2025-03-22
+| 🔥: 86 \| 💬: [103](https://news.ycombinator.com/item?id=43447616) \| 🗓️ 2025-03-22
 
 
 <br />
 文章反驳了AI经济价值主要来自研发自动化的观点，指出**研发的经济贡献被高估**，且自动化研发的难度远超预期。相反，**广泛自动化劳动力**将带来更大的经济价值，因为劳动力在产出中的弹性远高于研发。尽管研发对生产力增长有贡献，但其占比仅为20%，而资本深化和其他因素占主导。因此，AI的广泛应用将推动经济增长，而非局限于研发领域。
+
+---
+
+## <a name="17"></a>17. 物理学的数学方法 
+<small>🔗 [ma.imperial.ac.uk](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf): Mathematical Methods for Physics [pdf]</small>
+
+
+| 🔥: 85 \| 💬: [34](https://news.ycombinator.com/item?id=43448193) \| 🗓️ 2025-03-22
+
+
+<br />
+本文是一份关于**物理学中数学方法**的PDF文档，内容涉及**线性代数**、**微积分**和**微分方程**等数学工具在物理学中的应用。文档详细介绍了如何通过这些数学方法解决物理问题，并提供了相关的公式和推导过程。适合物理学和数学领域的学习者和研究者参考。
 
 ---
 
@@ -243,7 +243,7 @@ FastOpenAPI 是一个基于 **Pydantic v2** 的库，用于生成和集成 **Ope
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/): Meta pirated books to train its AI</small>
 
 
-| 🔥: 77 \| 💬: [71](https://news.ycombinator.com/item?id=43445616) \| 🗓️ 2025-03-22
+| 🔥: 78 \| 💬: [71](https://news.ycombinator.com/item?id=43445616) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -251,7 +251,19 @@ Meta 在开发其旗舰 AI 模型 Llama 3 时，面临获取大量高质量文�
 
 ---
 
-## <a name="20"></a>20. 如何打造一个更“无礼”的网络爬虫 
+## <a name="20"></a>20. 我们为Cursor制作了一个MCP服务器，使其能够独立调试Node.js 
+<small>🔗 [npmjs.com](https://www.npmjs.com/package/@hyperdrive-eng/mcp-nodejs-debugger): Show HN: We made an MCP server so Cursor can debug Node.js on its own</small>
+
+
+| 🔥: 75 \| 💬: [25](https://news.ycombinator.com/item?id=43446659) \| 🗓️ 2025-03-22
+
+
+<br />
+我们开发了一个**MCP服务器**，使Claude Code能够在运行时访问Node.js，帮助用户调试代码。通过简单的命令，用户可以将MCP服务器添加到Claude Code中，并在调试模式下运行Node.js服务器。该工具能够实时分析运行时错误，例如MongoDB连接问题，并提供解决方案。用户可以通过设置断点、检查变量等方式快速定位问题，提升调试效率。
+
+---
+
+## <a name="21"></a>21. 如何打造一个更“无礼”的网络爬虫 
 <small>🔗 [marginalia.nu](https://www.marginalia.nu/log/a_115_rude_crawler/): Improved ways to operate a rude crawler</small>
 
 
@@ -260,18 +272,6 @@ Meta 在开发其旗舰 AI 模型 Llama 3 时，面临获取大量高质量文�
 
 <br />
 这篇讽刺性文章调侃了AI初创公司如何通过**无视robots.txt**、**滥用POST请求**和**耗尽服务器资源**来提升爬虫的“无礼”程度。文章建议爬虫应**频繁建立新连接**、**不关闭连接**，甚至**蹭邻居的WiFi**来获取数据。这些“技巧”虽然对服务器极不友好，但作者认为这是向投资者展示公司“创新”的好方法。
-
----
-
-## <a name="21"></a>21. 我们为Cursor制作了一个MCP服务器，使其能够独立调试Node.js 
-<small>🔗 [npmjs.com](https://www.npmjs.com/package/@hyperdrive-eng/mcp-nodejs-debugger): Show HN: We made an MCP server so Cursor can debug Node.js on its own</small>
-
-
-| 🔥: 71 \| 💬: [22](https://news.ycombinator.com/item?id=43446659) \| 🗓️ 2025-03-22
-
-
-<br />
-我们开发了一个**MCP服务器**，使Claude Code能够在运行时访问Node.js，帮助用户调试代码。通过简单的命令，用户可以将MCP服务器添加到Claude Code中，并在调试模式下运行Node.js服务器。该工具能够实时分析运行时错误，例如MongoDB连接问题，并提供解决方案。用户可以通过设置断点、检查变量等方式快速定位问题，提升调试效率。
 
 ---
 
