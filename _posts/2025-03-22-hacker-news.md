@@ -27,7 +27,7 @@ tags:
 <small>🔗 [blog.ezyang.com](https://blog.ezyang.com/2019/05/pytorch-internals/): PyTorch Internals: Ezyang's Blog</small>
 
 
-| 🔥🔥: 294 \| 💬: [21](https://news.ycombinator.com/item?id=43445931) \| 🗓️ 2025-03-22
+| 🔥🔥: 299 \| 💬: [21](https://news.ycombinator.com/item?id=43445931) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Zouuup/landrun): Landrun: Sandbox any Linux process using Landlock, no root or containers</small>
 
 
-| 🔥🔥: 290 \| 💬: [96](https://news.ycombinator.com/item?id=43445662) \| 🗓️ 2025-03-22
+| 🔥🔥: 295 \| 💬: [99](https://news.ycombinator.com/item?id=43445662) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -51,7 +51,7 @@ Landrun 是一个轻量级的工具，利用 **Landlock LSM** 在 Linux 内核�
 <small>🔗 [luj.fr](https://luj.fr/blog/how-nixos-could-have-detected-xz.html): NixOS and reproducible builds could have detected the xz backdoor</small>
 
 
-| 🔥🔥: 208 \| 💬: [76](https://news.ycombinator.com/item?id=43448075) \| 🗓️ 2025-03-22
+| 🔥🔥: 224 \| 💬: [80](https://news.ycombinator.com/item?id=43448075) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -63,7 +63,7 @@ Landrun 是一个轻量级的工具，利用 **Landlock LSM** 在 Linux 内核�
 <small>🔗 [blog.mozilla.ai](https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/): Map Features in OpenStreetMap with Computer Vision</small>
 
 
-| 🔥🔥: 206 \| 💬: [46](https://news.ycombinator.com/item?id=43447335) \| 🗓️ 2025-03-22
+| 🔥🔥: 209 \| 💬: [46](https://news.ycombinator.com/item?id=43447335) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -75,7 +75,7 @@ Mozilla.ai发布了**OpenStreetMap AI助手蓝图**，旨在通过**计算机视
 <small>🔗 [climate.gov](https://www.climate.gov/news-features/blogs/polar-vortex/polar-vortex-hitting-brakes): The polar vortex is hitting the brakes</small>
 
 
-| 🔥🔥: 191 \| 💬: [177](https://news.ycombinator.com/item?id=43448023) \| 🗓️ 2025-03-22
+| 🔥🔥: 197 \| 💬: [186](https://news.ycombinator.com/item?id=43448023) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -87,7 +87,7 @@ Mozilla.ai发布了**OpenStreetMap AI助手蓝图**，旨在通过**计算机视
 <small>🔗 [cendyne.dev](https://cendyne.dev/posts/2025-03-19-vibe-coding-vs-reality.html): “Vibe Coding” vs. Reality</small>
 
 
-| 🔥🔥: 185 \| 💬: [231](https://news.ycombinator.com/item?id=43448432) \| 🗓️ 2025-03-22
+| 🔥🔥: 188 \| 💬: [232](https://news.ycombinator.com/item?id=43448432) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -123,7 +123,7 @@ Mozilla.ai发布了**OpenStreetMap AI助手蓝图**，旨在通过**计算机视
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/italian-court-orders-google-to-block-iptv-pirate-sites-at-dns-level/): Italy demands Google poison DNS under strict Piracy Shield law</small>
 
 
-| 🔥🔥: 146 \| 💬: [98](https://news.ycombinator.com/item?id=43448112) \| 🗓️ 2025-03-22
+| 🔥🔥: 148 \| 💬: [102](https://news.ycombinator.com/item?id=43448112) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -135,7 +135,7 @@ Mozilla.ai发布了**OpenStreetMap AI助手蓝图**，旨在通过**计算机视
 <small>🔗 [nextjs.org](https://nextjs.org/blog/cve-2025-29927): Next.js version 15.2.3 has been released to address a security vulnerability</small>
 
 
-| 🔥🔥: 129 \| 💬: [105](https://news.ycombinator.com/item?id=43448723) \| 🗓️ 2025-03-22
+| 🔥🔥: 134 \| 💬: [106](https://news.ycombinator.com/item?id=43448723) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -147,7 +147,7 @@ Next.js 15.2.3 版本已发布，修复了一个安全漏洞（CVE-2025-29927）
 <small>🔗 [bbc.co.uk](https://www.bbc.co.uk/news/articles/c1en1yjv4dpo): Facebook to stop targeting ads at UK woman after legal fight</small>
 
 
-| 🔥🔥: 127 \| 💬: [96](https://news.ycombinator.com/item?id=43446821) \| 🗓️ 2025-03-22
+| 🔥🔥: 128 \| 💬: [98](https://news.ycombinator.com/item?id=43446821) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -159,7 +159,7 @@ Facebook同意停止使用个人数据向特定用户投放广告，此前Tanya 
 <small>🔗 [math.franklin.uga.edu](https://math.franklin.uga.edu/sites/default/files/users/user317/ShifrinDiffGeo.pdf): Differential Geometry: A First Course in Curves and Surfaces [pdf]</small>
 
 
-| 🔥🔥: 124 \| 💬: [5](https://news.ycombinator.com/item?id=43445614) \| 🗓️ 2025-03-22
+| 🔥🔥: 127 \| 💬: [6](https://news.ycombinator.com/item?id=43445614) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -171,7 +171,7 @@ Facebook同意停止使用个人数据向特定用户投放广告，此前Tanya 
 <small>🔗 [github.com](https://github.com/mr-fatalyst/fastopenapi): Show HN: FastOpenAPI – automated docs for many Python frameworks</small>
 
 
-| 🔥🔥: 115 \| 💬: [55](https://news.ycombinator.com/item?id=43445720) \| 🗓️ 2025-03-22
+| 🔥🔥: 116 \| 💬: [55](https://news.ycombinator.com/item?id=43445720) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -183,7 +183,7 @@ FastOpenAPI 是一个基于 **Pydantic v2** 的库，用于生成和集成 **Ope
 <small>🔗 [github.com](https://github.com/sail-sg/understand-r1-zero): Understanding R1-Zero-Like Training: A Critical Perspective</small>
 
 
-| 🔥🔥: 106 \| 💬: [13](https://news.ycombinator.com/item?id=43445894) \| 🗓️ 2025-03-22
+| 🔥🔥: 107 \| 💬: [13](https://news.ycombinator.com/item?id=43445894) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -195,7 +195,7 @@ FastOpenAPI 是一个基于 **Pydantic v2** 的库，用于生成和集成 **Ope
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=xJzrU38pGWc): Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]</small>
 
 
-| 🔥: 92 \| 💬: [20](https://news.ycombinator.com/item?id=43446442) \| 🗓️ 2025-03-22
+| 🔥: 94 \| 💬: [20](https://news.ycombinator.com/item?id=43446442) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -203,27 +203,27 @@ FastOpenAPI 是一个基于 **Pydantic v2** 的库，用于生成和集成 **Ope
 
 ---
 
-## <a name="16"></a>16. AI的经济价值主要来自广泛自动化，而非研发 
-<small>🔗 [epoch.ai](https://epoch.ai/gradient-updates/most-ai-value-will-come-from-broad-automation-not-from-r-d): Most AI value will come from broad automation, not from R&D</small>
-
-
-| 🔥: 86 \| 💬: [103](https://news.ycombinator.com/item?id=43447616) \| 🗓️ 2025-03-22
-
-
-<br />
-文章反驳了AI经济价值主要来自研发自动化的观点，指出**研发的经济贡献被高估**，且自动化研发的难度远超预期。相反，**广泛自动化劳动力**将带来更大的经济价值，因为劳动力在产出中的弹性远高于研发。尽管研发对生产力增长有贡献，但其占比仅为20%，而资本深化和其他因素占主导。因此，AI的广泛应用将推动经济增长，而非局限于研发领域。
-
----
-
-## <a name="17"></a>17. 物理学的数学方法 
+## <a name="16"></a>16. 物理学的数学方法 
 <small>🔗 [ma.imperial.ac.uk](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf): Mathematical Methods for Physics [pdf]</small>
 
 
-| 🔥: 85 \| 💬: [34](https://news.ycombinator.com/item?id=43448193) \| 🗓️ 2025-03-22
+| 🔥: 91 \| 💬: [36](https://news.ycombinator.com/item?id=43448193) \| 🗓️ 2025-03-22
 
 
 <br />
 本文是一份关于**物理学中数学方法**的PDF文档，内容涉及**线性代数**、**微积分**和**微分方程**等数学工具在物理学中的应用。文档详细介绍了如何通过这些数学方法解决物理问题，并提供了相关的公式和推导过程。适合物理学和数学领域的学习者和研究者参考。
+
+---
+
+## <a name="17"></a>17. AI的经济价值主要来自广泛自动化，而非研发 
+<small>🔗 [epoch.ai](https://epoch.ai/gradient-updates/most-ai-value-will-come-from-broad-automation-not-from-r-d): Most AI value will come from broad automation, not from R&D</small>
+
+
+| 🔥: 88 \| 💬: [105](https://news.ycombinator.com/item?id=43447616) \| 🗓️ 2025-03-22
+
+
+<br />
+文章反驳了AI经济价值主要来自研发自动化的观点，指出**研发的经济贡献被高估**，且自动化研发的难度远超预期。相反，**广泛自动化劳动力**将带来更大的经济价值，因为劳动力在产出中的弹性远高于研发。尽管研发对生产力增长有贡献，但其占比仅为20%，而资本深化和其他因素占主导。因此，AI的广泛应用将推动经济增长，而非局限于研发领域。
 
 ---
 
@@ -239,27 +239,27 @@ FastOpenAPI 是一个基于 **Pydantic v2** 的库，用于生成和集成 **Ope
 
 ---
 
-## <a name="19"></a>19. Meta 使用盗版书籍训练其 AI 模型 
-<small>🔗 [theatlantic.com](https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/): Meta pirated books to train its AI</small>
-
-
-| 🔥: 78 \| 💬: [71](https://news.ycombinator.com/item?id=43445616) \| 🗓️ 2025-03-22
-
-
-<br />
-Meta 在开发其旗舰 AI 模型 Llama 3 时，面临获取大量高质量文本的挑战。由于合法获取成本高且耗时，Meta 员工决定使用盗版图书馆 **Library Genesis (LibGen)** 的数据进行训练。LibGen 包含超过 750 万本书和 8100 万篇研究论文。Meta 内部讨论显示，此举存在**中高法律风险**，但公司仍选择下载并使用这些数据。Meta 和 OpenAI 均辩称，使用受版权保护的材料训练 AI 属于**合理使用**，但这一做法引发了广泛争议。
-
----
-
-## <a name="20"></a>20. 我们为Cursor制作了一个MCP服务器，使其能够独立调试Node.js 
+## <a name="19"></a>19. 我们为Cursor制作了一个MCP服务器，使其能够独立调试Node.js 
 <small>🔗 [npmjs.com](https://www.npmjs.com/package/@hyperdrive-eng/mcp-nodejs-debugger): Show HN: We made an MCP server so Cursor can debug Node.js on its own</small>
 
 
-| 🔥: 75 \| 💬: [25](https://news.ycombinator.com/item?id=43446659) \| 🗓️ 2025-03-22
+| 🔥: 81 \| 💬: [30](https://news.ycombinator.com/item?id=43446659) \| 🗓️ 2025-03-22
 
 
 <br />
 我们开发了一个**MCP服务器**，使Claude Code能够在运行时访问Node.js，帮助用户调试代码。通过简单的命令，用户可以将MCP服务器添加到Claude Code中，并在调试模式下运行Node.js服务器。该工具能够实时分析运行时错误，例如MongoDB连接问题，并提供解决方案。用户可以通过设置断点、检查变量等方式快速定位问题，提升调试效率。
+
+---
+
+## <a name="20"></a>20. Meta 使用盗版书籍训练其 AI 模型 
+<small>🔗 [theatlantic.com](https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/): Meta pirated books to train its AI</small>
+
+
+| 🔥: 79 \| 💬: [71](https://news.ycombinator.com/item?id=43445616) \| 🗓️ 2025-03-22
+
+
+<br />
+Meta 在开发其旗舰 AI 模型 Llama 3 时，面临获取大量高质量文本的挑战。由于合法获取成本高且耗时，Meta 员工决定使用盗版图书馆 **Library Genesis (LibGen)** 的数据进行训练。LibGen 包含超过 750 万本书和 8100 万篇研究论文。Meta 内部讨论显示，此举存在**中高法律风险**，但公司仍选择下载并使用这些数据。Meta 和 OpenAI 均辩称，使用受版权保护的材料训练 AI 属于**合理使用**，但这一做法引发了广泛争议。
 
 ---
 
@@ -291,7 +291,7 @@ Meta 在开发其旗舰 AI 模型 Llama 3 时，面临获取大量高质量文�
 <small>🔗 [interestingengineering.com](https://interestingengineering.com/energy/france-worlds-largest-hydrogen-deposit): France hits hydrogen jackpot: largest reserve valued $92B found</small>
 
 
-| 🔥: 54 \| 💬: [5](https://news.ycombinator.com/item?id=43445454) \| 🗓️ 2025-03-22
+| 🔥: 55 \| 💬: [5](https://news.ycombinator.com/item?id=43445454) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -315,7 +315,7 @@ Meta 在开发其旗舰 AI 模型 Llama 3 时，面临获取大量高质量文�
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/03/hitler-press-germany/682130/): What the Press Got Wrong About Hitler</small>
 
 
-| 🔥: 42 \| 💬: [26](https://news.ycombinator.com/item?id=43446431) \| 🗓️ 2025-03-22
+| 🔥: 42 \| 💬: [27](https://news.ycombinator.com/item?id=43446431) \| 🗓️ 2025-03-22
 
 
 <br />
