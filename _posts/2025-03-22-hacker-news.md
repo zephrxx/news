@@ -11,8 +11,8 @@ tags:
 1. PyTorch 内部机制解析；
 1. Landrun：使用Landlock无根或容器化沙盒运行Linux进程；
 1. 利用计算机视觉增强OpenStreetMap地图功能；
-1. “氛围编程”与现实的差距；
 1. NixOS与可重现构建如何检测xz后门；
+1. “氛围编程”与现实的差距；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [blog.ezyang.com](https://blog.ezyang.com/2019/05/pytorch-internals/): PyTorch Internals: Ezyang's Blog</small>
 
 
-| 🔥🔥: 277 \| 💬: [21](https://news.ycombinator.com/item?id=43445931) \| 🗓️ 2025-03-22
+| 🔥🔥: 288 \| 💬: [21](https://news.ycombinator.com/item?id=43445931) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Zouuup/landrun): Landrun: Sandbox any Linux process using Landlock, no root or containers</small>
 
 
-| 🔥🔥: 265 \| 💬: [92](https://news.ycombinator.com/item?id=43445662) \| 🗓️ 2025-03-22
+| 🔥🔥: 279 \| 💬: [94](https://news.ycombinator.com/item?id=43445662) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -51,7 +51,7 @@ Landrun 是一个轻量级的工具，利用 **Landlock LSM** 在 Linux 内核�
 <small>🔗 [blog.mozilla.ai](https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/): Map Features in OpenStreetMap with Computer Vision</small>
 
 
-| 🔥🔥: 189 \| 💬: [43](https://news.ycombinator.com/item?id=43447335) \| 🗓️ 2025-03-22
+| 🔥🔥: 198 \| 💬: [43](https://news.ycombinator.com/item?id=43447335) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -59,23 +59,11 @@ Mozilla.ai发布了**OpenStreetMap AI助手蓝图**，旨在通过**计算机视
 
 ---
 
-## <a name="4"></a>4. “氛围编程”与现实的差距 
-<small>🔗 [cendyne.dev](https://cendyne.dev/posts/2025-03-19-vibe-coding-vs-reality.html): “Vibe Coding” vs. Reality</small>
-
-
-| 🔥🔥: 183 \| 💬: [226](https://news.ycombinator.com/item?id=43448432) \| 🗓️ 2025-03-22
-
-
-<br />
-“氛围编程”是一种依赖大型语言模型（LLM）自动生成代码的趋势，强调通过自然语言描述需求，让AI完成从构思到实现的整个过程。尽管这种工具让编程更易上手，但其**局限性**明显：生成的代码质量参差不齐，常犯低级错误，且无法处理复杂项目。**LLM代理**虽能快速搭建原型，但缺乏对细节的关注，难以胜任生产环境的需求。最终，**经验丰富的开发者**仍是确保软件可靠性和安全性的关键。
-
----
-
-## <a name="5"></a>5. NixOS与可重现构建如何检测xz后门 
+## <a name="4"></a>4. NixOS与可重现构建如何检测xz后门 
 <small>🔗 [luj.fr](https://luj.fr/blog/how-nixos-could-have-detected-xz.html): NixOS and reproducible builds could have detected the xz backdoor</small>
 
 
-| 🔥🔥: 180 \| 💬: [66](https://news.ycombinator.com/item?id=43448075) \| 🗓️ 2025-03-22
+| 🔥🔥: 194 \| 💬: [67](https://news.ycombinator.com/item?id=43448075) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -83,11 +71,23 @@ Mozilla.ai发布了**OpenStreetMap AI助手蓝图**，旨在通过**计算机视
 
 ---
 
+## <a name="5"></a>5. “氛围编程”与现实的差距 
+<small>🔗 [cendyne.dev](https://cendyne.dev/posts/2025-03-19-vibe-coding-vs-reality.html): “Vibe Coding” vs. Reality</small>
+
+
+| 🔥🔥: 185 \| 💬: [231](https://news.ycombinator.com/item?id=43448432) \| 🗓️ 2025-03-22
+
+
+<br />
+“氛围编程”是一种依赖大型语言模型（LLM）自动生成代码的趋势，强调通过自然语言描述需求，让AI完成从构思到实现的整个过程。尽管这种工具让编程更易上手，但其**局限性**明显：生成的代码质量参差不齐，常犯低级错误，且无法处理复杂项目。**LLM代理**虽能快速搭建原型，但缺乏对细节的关注，难以胜任生产环境的需求。最终，**经验丰富的开发者**仍是确保软件可靠性和安全性的关键。
+
+---
+
 ## <a name="6"></a>6. 极地涡旋即将减速：冬季天气或受影响 
 <small>🔗 [climate.gov](https://www.climate.gov/news-features/blogs/polar-vortex/polar-vortex-hitting-brakes): The polar vortex is hitting the brakes</small>
 
 
-| 🔥🔥: 176 \| 💬: [151](https://news.ycombinator.com/item?id=43448023) \| 🗓️ 2025-03-22
+| 🔥🔥: 184 \| 💬: [167](https://news.ycombinator.com/item?id=43448023) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -99,7 +99,7 @@ Mozilla.ai发布了**OpenStreetMap AI助手蓝图**，旨在通过**计算机视
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/ceo-of-ai-ad-tech-firm-pledging-world-free-of-fraud-sentenced-for-fraud/): CEO of Kubient sentenced for fraud</small>
 
 
-| 🔥🔥: 150 \| 💬: [48](https://news.ycombinator.com/item?id=43448606) \| 🗓️ 2025-03-22
+| 🔥🔥: 154 \| 💬: [48](https://news.ycombinator.com/item?id=43448606) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -123,7 +123,7 @@ Mozilla.ai发布了**OpenStreetMap AI助手蓝图**，旨在通过**计算机视
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/italian-court-orders-google-to-block-iptv-pirate-sites-at-dns-level/): Italy demands Google poison DNS under strict Piracy Shield law</small>
 
 
-| 🔥🔥: 130 \| 💬: [89](https://news.ycombinator.com/item?id=43448112) \| 🗓️ 2025-03-22
+| 🔥🔥: 141 \| 💬: [94](https://news.ycombinator.com/item?id=43448112) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -135,7 +135,7 @@ Mozilla.ai发布了**OpenStreetMap AI助手蓝图**，旨在通过**计算机视
 <small>🔗 [bbc.co.uk](https://www.bbc.co.uk/news/articles/c1en1yjv4dpo): Facebook to stop targeting ads at UK woman after legal fight</small>
 
 
-| 🔥🔥: 126 \| 💬: [93](https://news.ycombinator.com/item?id=43446821) \| 🗓️ 2025-03-22
+| 🔥🔥: 127 \| 💬: [95](https://news.ycombinator.com/item?id=43446821) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -147,7 +147,7 @@ Facebook同意停止使用个人数据向特定用户投放广告，此前Tanya 
 <small>🔗 [nextjs.org](https://nextjs.org/blog/cve-2025-29927): Next.js version 15.2.3 has been released to address a security vulnerability</small>
 
 
-| 🔥🔥: 122 \| 💬: [92](https://news.ycombinator.com/item?id=43448723) \| 🗓️ 2025-03-22
+| 🔥🔥: 125 \| 💬: [101](https://news.ycombinator.com/item?id=43448723) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -159,7 +159,7 @@ Next.js 15.2.3 版本已发布，修复了一个安全漏洞（CVE-2025-29927）
 <small>🔗 [math.franklin.uga.edu](https://math.franklin.uga.edu/sites/default/files/users/user317/ShifrinDiffGeo.pdf): Differential Geometry: A First Course in Curves and Surfaces [pdf]</small>
 
 
-| 🔥🔥: 116 \| 💬: [5](https://news.ycombinator.com/item?id=43445614) \| 🗓️ 2025-03-22
+| 🔥🔥: 122 \| 💬: [5](https://news.ycombinator.com/item?id=43445614) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -171,7 +171,7 @@ Next.js 15.2.3 版本已发布，修复了一个安全漏洞（CVE-2025-29927）
 <small>🔗 [github.com](https://github.com/mr-fatalyst/fastopenapi): Show HN: FastOpenAPI – automated docs for many Python frameworks</small>
 
 
-| 🔥🔥: 110 \| 💬: [53](https://news.ycombinator.com/item?id=43445720) \| 🗓️ 2025-03-22
+| 🔥🔥: 115 \| 💬: [54](https://news.ycombinator.com/item?id=43445720) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -183,7 +183,7 @@ FastOpenAPI 是一个基于 **Pydantic v2** 的库，用于生成和集成 **Ope
 <small>🔗 [github.com](https://github.com/sail-sg/understand-r1-zero): Understanding R1-Zero-Like Training: A Critical Perspective</small>
 
 
-| 🔥🔥: 101 \| 💬: [13](https://news.ycombinator.com/item?id=43445894) \| 🗓️ 2025-03-22
+| 🔥🔥: 103 \| 💬: [13](https://news.ycombinator.com/item?id=43445894) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -195,7 +195,7 @@ FastOpenAPI 是一个基于 **Pydantic v2** 的库，用于生成和集成 **Ope
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=xJzrU38pGWc): Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]</small>
 
 
-| 🔥: 87 \| 💬: [19](https://news.ycombinator.com/item?id=43446442) \| 🗓️ 2025-03-22
+| 🔥: 91 \| 💬: [20](https://news.ycombinator.com/item?id=43446442) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -203,11 +203,23 @@ FastOpenAPI 是一个基于 **Pydantic v2** 的库，用于生成和集成 **Ope
 
 ---
 
-## <a name="16"></a>16. AI的经济价值主要来自广泛自动化，而非研发 
+## <a name="16"></a>16. 物理学的数学方法 
+<small>🔗 [ma.imperial.ac.uk](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf): Mathematical Methods for Physics [pdf]</small>
+
+
+| 🔥: 84 \| 💬: [31](https://news.ycombinator.com/item?id=43448193) \| 🗓️ 2025-03-22
+
+
+<br />
+本文是一份关于**物理学中数学方法**的PDF文档，内容涉及**线性代数**、**微积分**和**微分方程**等数学工具在物理学中的应用。文档详细介绍了如何通过这些数学方法解决物理问题，并提供了相关的公式和推导过程。适合物理学和数学领域的学习者和研究者参考。
+
+---
+
+## <a name="17"></a>17. AI的经济价值主要来自广泛自动化，而非研发 
 <small>🔗 [epoch.ai](https://epoch.ai/gradient-updates/most-ai-value-will-come-from-broad-automation-not-from-r-d): Most AI value will come from broad automation, not from R&D</small>
 
 
-| 🔥: 81 \| 💬: [99](https://news.ycombinator.com/item?id=43447616) \| 🗓️ 2025-03-22
+| 🔥: 83 \| 💬: [102](https://news.ycombinator.com/item?id=43447616) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -215,11 +227,11 @@ FastOpenAPI 是一个基于 **Pydantic v2** 的库，用于生成和集成 **Ope
 
 ---
 
-## <a name="17"></a>17. 马斯克告诫特斯拉员工不要抛售股票，而董事会和高管却在减持 
+## <a name="18"></a>18. 马斯克告诫特斯拉员工不要抛售股票，而董事会和高管却在减持 
 <small>🔗 [electrek.co](https://electrek.co/2025/03/21/elon-tells-tesla-employees-not-to-sell-tsla-stocks-board-execs-are-dumping/): Elon tells Tesla employees not to sell TSLA stock as board and execs are dumping</small>
 
 
-| 🔥: 79 \| 💬: [27](https://news.ycombinator.com/item?id=43445557) \| 🗓️ 2025-03-22
+| 🔥: 81 \| 💬: [28](https://news.ycombinator.com/item?id=43445557) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -227,7 +239,7 @@ FastOpenAPI 是一个基于 **Pydantic v2** 的库，用于生成和集成 **Ope
 
 ---
 
-## <a name="18"></a>18. Meta 使用盗版书籍训练其 AI 模型 
+## <a name="19"></a>19. Meta 使用盗版书籍训练其 AI 模型 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/): Meta pirated books to train its AI</small>
 
 
@@ -239,11 +251,11 @@ Meta 在开发其旗舰 AI 模型 Llama 3 时，面临获取大量高质量文�
 
 ---
 
-## <a name="19"></a>19. 如何打造一个更“无礼”的网络爬虫 
+## <a name="20"></a>20. 如何打造一个更“无礼”的网络爬虫 
 <small>🔗 [marginalia.nu](https://www.marginalia.nu/log/a_115_rude_crawler/): Improved ways to operate a rude crawler</small>
 
 
-| 🔥: 71 \| 💬: [12](https://news.ycombinator.com/item?id=43445682) \| 🗓️ 2025-03-22
+| 🔥: 72 \| 💬: [12](https://news.ycombinator.com/item?id=43445682) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -251,23 +263,11 @@ Meta 在开发其旗舰 AI 模型 Llama 3 时，面临获取大量高质量文�
 
 ---
 
-## <a name="20"></a>20. 物理学的数学方法 
-<small>🔗 [ma.imperial.ac.uk](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf): Mathematical Methods for Physics [pdf]</small>
-
-
-| 🔥: 71 \| 💬: [29](https://news.ycombinator.com/item?id=43448193) \| 🗓️ 2025-03-22
-
-
-<br />
-本文是一份关于**物理学中数学方法**的PDF文档，内容涉及**线性代数**、**微积分**和**微分方程**等数学工具在物理学中的应用。文档详细介绍了如何通过这些数学方法解决物理问题，并提供了相关的公式和推导过程。适合物理学和数学领域的学习者和研究者参考。
-
----
-
 ## <a name="21"></a>21. 我们为Cursor制作了一个MCP服务器，使其能够独立调试Node.js 
 <small>🔗 [npmjs.com](https://www.npmjs.com/package/@hyperdrive-eng/mcp-nodejs-debugger): Show HN: We made an MCP server so Cursor can debug Node.js on its own</small>
 
 
-| 🔥: 65 \| 💬: [15](https://news.ycombinator.com/item?id=43446659) \| 🗓️ 2025-03-22
+| 🔥: 71 \| 💬: [22](https://news.ycombinator.com/item?id=43446659) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -279,7 +279,7 @@ Meta 在开发其旗舰 AI 模型 Llama 3 时，面临获取大量高质量文�
 <small>🔗 [newrepublic.com](https://newrepublic.com/post/193015/elon-musk-doge-library-musem-imls): Elon Musk's Doge Moves to Gut Local Libraries While No One Is Looking</small>
 
 
-| 🔥: 56 \| 💬: [10](https://news.ycombinator.com/item?id=43445571) \| 🗓️ 2025-03-22
+| 🔥: 57 \| 💬: [10](https://news.ycombinator.com/item?id=43445571) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -291,7 +291,7 @@ Meta 在开发其旗舰 AI 模型 Llama 3 时，面临获取大量高质量文�
 <small>🔗 [interestingengineering.com](https://interestingengineering.com/energy/france-worlds-largest-hydrogen-deposit): France hits hydrogen jackpot: largest reserve valued $92B found</small>
 
 
-| 🔥: 52 \| 💬: [5](https://news.ycombinator.com/item?id=43445454) \| 🗓️ 2025-03-22
+| 🔥: 54 \| 💬: [5](https://news.ycombinator.com/item?id=43445454) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -303,7 +303,7 @@ Meta 在开发其旗舰 AI 模型 Llama 3 时，面临获取大量高质量文�
 <small>🔗 [thetimes.com](https://www.thetimes.com/uk/technology-uk/article/facebook-personal-data-opt-out-swg26rm5z): One mother's win over Meta will change social media for everyone</small>
 
 
-| 🔥: 46 \| 💬: [36](https://news.ycombinator.com/item?id=43445755) \| 🗓️ 2025-03-22
+| 🔥: 47 \| 💬: [36](https://news.ycombinator.com/item?id=43445755) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -315,7 +315,7 @@ Meta 在开发其旗舰 AI 模型 Llama 3 时，面临获取大量高质量文�
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/03/hitler-press-germany/682130/): What the Press Got Wrong About Hitler</small>
 
 
-| 🔥: 42 \| 💬: [25](https://news.ycombinator.com/item?id=43446431) \| 🗓️ 2025-03-22
+| 🔥: 42 \| 💬: [26](https://news.ycombinator.com/item?id=43446431) \| 🗓️ 2025-03-22
 
 
 <br />
