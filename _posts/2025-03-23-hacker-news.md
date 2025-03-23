@@ -9,14 +9,14 @@ tags:
 
 
 1. 我认识的最差程序员（2023）；
-1. “母版演示”键盘的USB接口；
 1. 我建了一个分享鼓点模式的网站；
+1. “母版演示”键盘的USB接口；
 1. SeL4微内核简介；
 1. 带手机去美国旅行安全吗？；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共20条，具体内容您往下读...
+总共21条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [dannorth.net](https://dannorth.net/the-worst-programmer/): The Worst Programmer I Know (2023)</small>
 
 
-| 🔥🔥: 285 \| 💬: [195](https://news.ycombinator.com/item?id=43452649) \| 🗓️ 2025-03-23
+| 🔥🔥: 299 \| 💬: [208](https://news.ycombinator.com/item?id=43452649) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -35,23 +35,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. “母版演示”键盘的USB接口 
-<small>🔗 [righto.com](https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html): A USB Interface to the "Mother of All Demos" Keyset</small>
-
-
-| 🔥🔥: 176 \| 💬: [45](https://news.ycombinator.com/item?id=43453582) \| 🗓️ 2025-03-23
-
-
-<br />
-1968年，道格拉斯·恩格尔巴特在“**母版演示**”中展示了现代计算机的许多核心功能，如鼠标、超文本和图形用户界面。然而，他发明的**五键键盘**并未流行。本文作者通过USB接口将恩格尔巴特的键盘连接到现代计算机，并探讨了“母版演示”名称的由来及其历史影响。
-
----
-
-## <a name="3"></a>3. 我建了一个分享鼓点模式的网站 
+## <a name="2"></a>2. 我建了一个分享鼓点模式的网站 
 <small>🔗 [drumpatterns.onether.com](http://drumpatterns.onether.com): Show HN: I built website for sharing Drum Patterns</small>
 
 
-| 🔥🔥: 168 \| 💬: [56](https://news.ycombinator.com/item?id=43452629) \| 🗓️ 2025-03-23
+| 🔥🔥: 193 \| 💬: [66](https://news.ycombinator.com/item?id=43452629) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -59,11 +47,23 @@ tags:
 
 ---
 
+## <a name="3"></a>3. “母版演示”键盘的USB接口 
+<small>🔗 [righto.com](https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html): A USB Interface to the "Mother of All Demos" Keyset</small>
+
+
+| 🔥🔥: 189 \| 💬: [45](https://news.ycombinator.com/item?id=43453582) \| 🗓️ 2025-03-23
+
+
+<br />
+1968年，道格拉斯·恩格尔巴特在“**母版演示**”中展示了现代计算机的许多核心功能，如鼠标、超文本和图形用户界面。然而，他发明的**五键键盘**并未流行。本文作者通过USB接口将恩格尔巴特的键盘连接到现代计算机，并探讨了“母版演示”名称的由来及其历史影响。
+
+---
+
 ## <a name="4"></a>4. SeL4微内核简介 
 <small>🔗 [sel4.systems](https://sel4.systems/About/seL4-whitepaper.pdf): The SeL4 Microkernel: An Introduction [pdf]</small>
 
 
-| 🔥🔥: 164 \| 💬: [69](https://news.ycombinator.com/item?id=43452185) \| 🗓️ 2025-03-23
+| 🔥🔥: 173 \| 💬: [80](https://news.ycombinator.com/item?id=43452185) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -75,7 +75,7 @@ SeL4是一个**高性能、高安全性的微内核**，专为嵌入式系统和
 <small>🔗 [theverge.com](https://www.theverge.com/policy/634264/customs-border-protection-search-phone-airport-rights): Is it safe to travel to the United States with your phone?</small>
 
 
-| 🔥🔥: 150 \| 💬: [141](https://news.ycombinator.com/item?id=43452474) \| 🗓️ 2025-03-23
+| 🔥🔥: 154 \| 💬: [144](https://news.ycombinator.com/item?id=43452474) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -87,7 +87,7 @@ SeL4是一个**高性能、高安全性的微内核**，专为嵌入式系统和
 <small>🔗 [github.com](https://github.com/tdewolff/argp): argp: GNU-style command line argument parser for Go</small>
 
 
-| 🔥🔥: 132 \| 💬: [61](https://news.ycombinator.com/item?id=43452525) \| 🗓️ 2025-03-23
+| 🔥🔥: 136 \| 💬: [61](https://news.ycombinator.com/item?id=43452525) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -99,7 +99,7 @@ argp 是一个遵循 **GNU 标准**的命令行参数解析器，专为 Go 语�
 <small>🔗 [simonschreibt.de](https://simonschreibt.de/gat/homeworld-2-backgrounds/): Technicalities of Homeworld 2 Backgrounds</small>
 
 
-| 🔥🔥: 122 \| 💬: [32](https://news.ycombinator.com/item?id=43452688) \| 🗓️ 2025-03-23
+| 🔥🔥: 127 \| 💬: [35](https://news.ycombinator.com/item?id=43452688) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -111,7 +111,7 @@ argp 是一个遵循 **GNU 标准**的命令行参数解析器，专为 Go 语�
 <small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20250321-00/?p=110984): The case of the critical section that let multiple threads enter a block of code</small>
 
 
-| 🔥: 100 \| 💬: [64](https://news.ycombinator.com/item?id=43451525) \| 🗓️ 2025-03-23
+| 🔥🔥: 105 \| 💬: [70](https://news.ycombinator.com/item?id=43451525) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -123,7 +123,7 @@ argp 是一个遵循 **GNU 标准**的命令行参数解析器，专为 Go 语�
 <small>🔗 [matanabudy.com](https://matanabudy.com/achieving-great-privacy-with-safari/): Achieving Great Privacy with Safari</small>
 
 
-| 🔥: 80 \| 💬: [38](https://news.ycombinator.com/item?id=43453350) \| 🗓️ 2025-03-23
+| 🔥: 88 \| 💬: [45](https://news.ycombinator.com/item?id=43453350) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -135,7 +135,7 @@ argp 是一个遵循 **GNU 标准**的命令行参数解析器，专为 Go 语�
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/magazine/archive/2025/05/trump-executive-order-lawlessness-constitutional-crisis/682112/): America Is Watching the Rise of a Dual State</small>
 
 
-| 🔥: 77 \| 💬: [27](https://news.ycombinator.com/item?id=43454004) \| 🗓️ 2025-03-23
+| 🔥: 83 \| 💬: [27](https://news.ycombinator.com/item?id=43454004) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -147,7 +147,7 @@ argp 是一个遵循 **GNU 标准**的命令行参数解析器，专为 Go 语�
 <small>🔗 [ankitmaloo.com](https://ankitmaloo.com/bitter-lesson/): Bitter Lesson is about AI agents</small>
 
 
-| 🔥: 73 \| 💬: [37](https://news.ycombinator.com/item?id=43451742) \| 🗓️ 2025-03-23
+| 🔥: 81 \| 💬: [40](https://news.ycombinator.com/item?id=43451742) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -155,11 +155,23 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 
 ---
 
-## <a name="12"></a>12. 德国投入巨额资金加强军备，应对地缘政治挑战 
+## <a name="12"></a>12. iOS 应用：10 年经典，视奏训练神器 
+<small>🔗 [apps.apple.com](https://apps.apple.com/us/app/notes-sight-reading-trainer/id874386416): Show HN: My iOS app to practice sight reading (10 years in the App Store)</small>
+
+
+| 🔥: 78 \| 💬: [34](https://news.ycombinator.com/item?id=43456030) \| 🗓️ 2025-03-23
+
+
+<br />
+**Notes - 视奏训练器** 是一款专为音乐爱好者设计的 iOS 应用，帮助用户提升视奏能力。无论是初学者还是资深音乐人，都能通过**互动练习**、**自定义难度**和**进度追踪**等功能，逐步掌握乐谱阅读和钢琴演奏技巧。支持 MIDI 连接、屏幕键盘和麦克风输入，并提供少量歌曲练习。用户评价极高，评分为 4.8/5，免费下载，内含 3.99 美元的高级版本。
+
+---
+
+## <a name="13"></a>13. 德国投入巨额资金加强军备，应对地缘政治挑战 
 <small>🔗 [cnn.com](https://www.cnn.com/2025/03/23/europe/germany-military-investment-intl/index.html): Germany is unlocking billions to supercharge its military at a seismic moment</small>
 
 
-| 🔥: 72 \| 💬: [165](https://news.ycombinator.com/item?id=43454383) \| 🗓️ 2025-03-23
+| 🔥: 73 \| 💬: [172](https://news.ycombinator.com/item?id=43454383) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -167,11 +179,11 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 
 ---
 
-## <a name="13"></a>13. 如何建立与维护友谊：八本书的精华总结 
+## <a name="14"></a>14. 如何建立与维护友谊：八本书的精华总结 
 <small>🔗 [scotthyoung.com](https://www.scotthyoung.com/blog/2025/03/18/8-books-on-making-friends/): Books on Making and Maintaining Friendships</small>
 
 
-| 🔥: 65 \| 💬: [27](https://news.ycombinator.com/item?id=43454898) \| 🗓️ 2025-03-23
+| 🔥: 69 \| 💬: [28](https://news.ycombinator.com/item?id=43454898) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -179,11 +191,11 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 
 ---
 
-## <a name="14"></a>14. 体验世界级巴洛克管风琴的魅力 
+## <a name="15"></a>15. 体验世界级巴洛克管风琴的魅力 
 <small>🔗 [orgelstadt-hamburg.de](https://www.orgelstadt-hamburg.de/play-arp/): Play the Virtual Organ from Arp Schnitger</small>
 
 
-| 🔥: 54 \| 💬: [6](https://news.ycombinator.com/item?id=43454785) \| 🗓️ 2025-03-23
+| 🔥: 64 \| 💬: [8](https://news.ycombinator.com/item?id=43454785) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -191,11 +203,11 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 
 ---
 
-## <a name="15"></a>15. 软件工程师的身份危机 
+## <a name="16"></a>16. 软件工程师的身份危机 
 <small>🔗 [annievella.com](https://annievella.com/posts/the-software-engineering-identity-crisis/): The Software Engineering Identity Crisis</small>
 
 
-| 🔥: 53 \| 💬: [30](https://news.ycombinator.com/item?id=43454816) \| 🗓️ 2025-03-23
+| 🔥: 56 \| 💬: [37](https://news.ycombinator.com/item?id=43454816) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -203,11 +215,11 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 
 ---
 
-## <a name="16"></a>16. 特朗普执政以来美国对加拿大的威胁与加拿大的愤怒 
+## <a name="17"></a>17. 特朗普执政以来美国对加拿大的威胁与加拿大的愤怒 
 <small>🔗 [writer.oliphant.social](https://writer.oliphant.social/oliphant/a-canadians-perspective-on-us-behavior-since-the-trump-regime-was-installed): A Canadian's Perspective on US Behavior Since the Trump Regime Was Installed</small>
 
 
-| 🔥: 49 \| 💬: [25](https://news.ycombinator.com/item?id=43452174) \| 🗓️ 2025-03-23
+| 🔥: 51 \| 💬: [25](https://news.ycombinator.com/item?id=43452174) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -215,23 +227,11 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 
 ---
 
-## <a name="17"></a>17. 神奇细菌的简史 
-<small>🔗 [asimov.press](https://www.asimov.press/p/miracle-bacterium): A Brief History of the Miracle Bacterium</small>
-
-
-| 🔥: 41 \| 💬: [2](https://news.ycombinator.com/item?id=43453769) \| 🗓️ 2025-03-23
-
-
-<br />
-**Serratia marcescens** 是一种因其鲜红色菌落而闻名的细菌，常被误认为血液。它在科学史上扮演了重要角色，从19世纪的“血斑玉米粥”事件到20世纪的生物战实验，**Serratia marcescens** 帮助科学家理解了微生物的传播方式。尽管其美丽的外表曾引发宗教“奇迹”和反犹“血祭”指控，但它也被证明是一种危险的病原体，尤其对免疫系统较弱的人群。如今，它仍是生物医学研究的重要对象。
-
----
-
 ## <a name="18"></a>18. IBM CEO：AI短期内不会取代程序员 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/11/ibms-ceo-doesnt-think-ai-will-replace-programmers-anytime-soon/): IBM's CEO doesn't think AI will replace programmers anytime soon</small>
 
 
-| 🔥: 39 \| 💬: [71](https://news.ycombinator.com/item?id=43452421) \| 🗓️ 2025-03-23
+| 🔥: 44 \| 💬: [71](https://news.ycombinator.com/item?id=43452421) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -239,11 +239,23 @@ IBM CEO Arvind Krishna在SXSW访谈中表示，**全球贸易**仍是美国经�
 
 ---
 
-## <a name="19"></a>19. 前卫生部长领导的组织托管虚假CDC克隆网站 
+## <a name="19"></a>19. 神奇细菌的简史 
+<small>🔗 [asimov.press](https://www.asimov.press/p/miracle-bacterium): A Brief History of the Miracle Bacterium</small>
+
+
+| 🔥: 44 \| 💬: [3](https://news.ycombinator.com/item?id=43453769) \| 🗓️ 2025-03-23
+
+
+<br />
+**Serratia marcescens** 是一种因其鲜红色菌落而闻名的细菌，常被误认为血液。它在科学史上扮演了重要角色，从19世纪的“血斑玉米粥”事件到20世纪的生物战实验，**Serratia marcescens** 帮助科学家理解了微生物的传播方式。尽管其美丽的外表曾引发宗教“奇迹”和反犹“血祭”指控，但它也被证明是一种危险的病原体，尤其对免疫系统较弱的人群。如今，它仍是生物医学研究的重要对象。
+
+---
+
+## <a name="20"></a>20. 前卫生部长领导的组织托管虚假CDC克隆网站 
 <small>🔗 [infoepi.substack.com](https://infoepi.substack.com/p/cdc-clone-site-rife-with-false-vaccine): CDC Clone Site Hosted by Group Previously Led by HHS Secretary</small>
 
 
-| 🔥: 31 \| 💬: [5](https://news.ycombinator.com/item?id=43452441) \| 🗓️ 2025-03-23
+| 🔥: 31 \| 💬: [7](https://news.ycombinator.com/item?id=43452441) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -251,7 +263,7 @@ IBM CEO Arvind Krishna在SXSW访谈中表示，**全球贸易**仍是美国经�
 
 ---
 
-## <a name="20"></a>20. 奥巴马加入Bluesky 
+## <a name="21"></a>21. 奥巴马加入Bluesky 
 <small>🔗 [bsky.app](https://bsky.app/profile/barackobama.bsky.social): Obama joins Bluesky</small>
 
 
