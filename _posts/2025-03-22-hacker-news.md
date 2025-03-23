@@ -10,8 +10,8 @@ tags:
 
 1. PyTorch 内部机制解析；
 1. Landrun：使用Landlock无根或容器化沙盒运行Linux进程；
-1. “氛围编程”与现实的差距；
 1. 利用计算机视觉增强OpenStreetMap地图功能；
+1. “氛围编程”与现实的差距；
 1. 极地涡旋即将减速：冬季天气或受影响；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [blog.ezyang.com](https://blog.ezyang.com/2019/05/pytorch-internals/): PyTorch Internals: Ezyang's Blog</small>
 
 
-| 🔥🔥: 261 \| 💬: [20](https://news.ycombinator.com/item?id=43445931) \| 🗓️ 2025-03-22
+| 🔥🔥: 264 \| 💬: [21](https://news.ycombinator.com/item?id=43445931) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Zouuup/landrun): Landrun: Sandbox any Linux process using Landlock, no root or containers</small>
 
 
-| 🔥🔥: 230 \| 💬: [85](https://news.ycombinator.com/item?id=43445662) \| 🗓️ 2025-03-22
+| 🔥🔥: 246 \| 💬: [90](https://news.ycombinator.com/item?id=43445662) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -47,23 +47,11 @@ Landrun 是一个轻量级的工具，利用 **Landlock LSM** 在 Linux 内核�
 
 ---
 
-## <a name="3"></a>3. “氛围编程”与现实的差距 
-<small>🔗 [cendyne.dev](https://cendyne.dev/posts/2025-03-19-vibe-coding-vs-reality.html): “Vibe Coding” vs. Reality</small>
-
-
-| 🔥🔥: 178 \| 💬: [211](https://news.ycombinator.com/item?id=43448432) \| 🗓️ 2025-03-22
-
-
-<br />
-“氛围编程”是一种依赖大型语言模型（LLM）自动生成代码的趋势，强调通过自然语言描述需求，让AI完成从构思到实现的整个过程。尽管这种工具让编程更易上手，但其**局限性**明显：生成的代码质量参差不齐，常犯低级错误，且无法处理复杂项目。**LLM代理**虽能快速搭建原型，但缺乏对细节的关注，难以胜任生产环境的需求。最终，**经验丰富的开发者**仍是确保软件可靠性和安全性的关键。
-
----
-
-## <a name="4"></a>4. 利用计算机视觉增强OpenStreetMap地图功能 
+## <a name="3"></a>3. 利用计算机视觉增强OpenStreetMap地图功能 
 <small>🔗 [blog.mozilla.ai](https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/): Map Features in OpenStreetMap with Computer Vision</small>
 
 
-| 🔥🔥: 176 \| 💬: [35](https://news.ycombinator.com/item?id=43447335) \| 🗓️ 2025-03-22
+| 🔥🔥: 181 \| 💬: [39](https://news.ycombinator.com/item?id=43447335) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -71,11 +59,23 @@ Mozilla.ai发布了**OpenStreetMap AI助手蓝图**，旨在通过**计算机视
 
 ---
 
+## <a name="4"></a>4. “氛围编程”与现实的差距 
+<small>🔗 [cendyne.dev](https://cendyne.dev/posts/2025-03-19-vibe-coding-vs-reality.html): “Vibe Coding” vs. Reality</small>
+
+
+| 🔥🔥: 180 \| 💬: [219](https://news.ycombinator.com/item?id=43448432) \| 🗓️ 2025-03-22
+
+
+<br />
+“氛围编程”是一种依赖大型语言模型（LLM）自动生成代码的趋势，强调通过自然语言描述需求，让AI完成从构思到实现的整个过程。尽管这种工具让编程更易上手，但其**局限性**明显：生成的代码质量参差不齐，常犯低级错误，且无法处理复杂项目。**LLM代理**虽能快速搭建原型，但缺乏对细节的关注，难以胜任生产环境的需求。最终，**经验丰富的开发者**仍是确保软件可靠性和安全性的关键。
+
+---
+
 ## <a name="5"></a>5. 极地涡旋即将减速：冬季天气或受影响 
 <small>🔗 [climate.gov](https://www.climate.gov/news-features/blogs/polar-vortex/polar-vortex-hitting-brakes): The polar vortex is hitting the brakes</small>
 
 
-| 🔥🔥: 161 \| 💬: [129](https://news.ycombinator.com/item?id=43448023) \| 🗓️ 2025-03-22
+| 🔥🔥: 170 \| 💬: [138](https://news.ycombinator.com/item?id=43448023) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -83,35 +83,11 @@ Mozilla.ai发布了**OpenStreetMap AI助手蓝图**，旨在通过**计算机视
 
 ---
 
-## <a name="6"></a>6. 亚马逊挑战产品安全监管机构合宪性 
-<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/03/21/amazon-product-safety-regulators-trump/): Amazon wants a product safety regulator declared unconstitutional</small>
-
-
-| 🔥🔥: 146 \| 💬: [105](https://news.ycombinator.com/item?id=43446103) \| 🗓️ 2025-03-22
-
-
-<br />
-亚马逊起诉**美国消费品安全委员会（CPSC）**，称其结构违宪，试图逃避对平台上销售危险产品的责任。亚马逊认为其仅为第三方卖家提供物流服务，不应被视为“分销商”。此案可能影响联邦监管机构的独立性，尤其是特朗普政府试图削弱监管的背景下。
-
----
-
-## <a name="7"></a>7. AI广告技术公司CEO因欺诈被判刑，曾承诺“无欺诈世界” 
-<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/ceo-of-ai-ad-tech-firm-pledging-world-free-of-fraud-sentenced-for-fraud/): CEO of Kubient sentenced for fraud</small>
-
-
-| 🔥🔥: 144 \| 💬: [47](https://news.ycombinator.com/item?id=43448606) \| 🗓️ 2025-03-22
-
-
-<br />
-2024年5月，广告技术公司Kubient的CEO **Paul Roberts**因欺诈罪被判入狱一年零一天。Roberts被指控通过虚假交易和伪造的AI工具报告，制造了**130万美元的虚假收入**，以推动公司IPO。Kubient曾宣称其AI技术能有效防止广告欺诈，但实际并未使用真实数据。公司现已倒闭，Roberts及其团队面临多项指控。
-
----
-
-## <a name="8"></a>8. NixOS与可重现构建如何检测xz后门 
+## <a name="6"></a>6. NixOS与可重现构建如何检测xz后门 
 <small>🔗 [luj.fr](https://luj.fr/blog/how-nixos-could-have-detected-xz.html): NixOS and reproducible builds could have detected the xz backdoor</small>
 
 
-| 🔥🔥: 138 \| 💬: [52](https://news.ycombinator.com/item?id=43448075) \| 🗓️ 2025-03-22
+| 🔥🔥: 162 \| 💬: [59](https://news.ycombinator.com/item?id=43448075) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -119,11 +95,35 @@ Mozilla.ai发布了**OpenStreetMap AI助手蓝图**，旨在通过**计算机视
 
 ---
 
+## <a name="7"></a>7. AI广告技术公司CEO因欺诈被判刑，曾承诺“无欺诈世界” 
+<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/ceo-of-ai-ad-tech-firm-pledging-world-free-of-fraud-sentenced-for-fraud/): CEO of Kubient sentenced for fraud</small>
+
+
+| 🔥🔥: 148 \| 💬: [48](https://news.ycombinator.com/item?id=43448606) \| 🗓️ 2025-03-22
+
+
+<br />
+2024年5月，广告技术公司Kubient的CEO **Paul Roberts**因欺诈罪被判入狱一年零一天。Roberts被指控通过虚假交易和伪造的AI工具报告，制造了**130万美元的虚假收入**，以推动公司IPO。Kubient曾宣称其AI技术能有效防止广告欺诈，但实际并未使用真实数据。公司现已倒闭，Roberts及其团队面临多项指控。
+
+---
+
+## <a name="8"></a>8. 亚马逊挑战产品安全监管机构合宪性 
+<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/03/21/amazon-product-safety-regulators-trump/): Amazon wants a product safety regulator declared unconstitutional</small>
+
+
+| 🔥🔥: 147 \| 💬: [105](https://news.ycombinator.com/item?id=43446103) \| 🗓️ 2025-03-22
+
+
+<br />
+亚马逊起诉**美国消费品安全委员会（CPSC）**，称其结构违宪，试图逃避对平台上销售危险产品的责任。亚马逊认为其仅为第三方卖家提供物流服务，不应被视为“分销商”。此案可能影响联邦监管机构的独立性，尤其是特朗普政府试图削弱监管的背景下。
+
+---
+
 ## <a name="9"></a>9. Facebook同意停止向英国女性投放定向广告 
 <small>🔗 [bbc.co.uk](https://www.bbc.co.uk/news/articles/c1en1yjv4dpo): Facebook to stop targeting ads at UK woman after legal fight</small>
 
 
-| 🔥🔥: 122 \| 💬: [94](https://news.ycombinator.com/item?id=43446821) \| 🗓️ 2025-03-22
+| 🔥🔥: 124 \| 💬: [94](https://news.ycombinator.com/item?id=43446821) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -135,7 +135,7 @@ Facebook同意停止使用个人数据向特定用户投放广告，此前Tanya 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/italian-court-orders-google-to-block-iptv-pirate-sites-at-dns-level/): Italy demands Google poison DNS under strict Piracy Shield law</small>
 
 
-| 🔥🔥: 110 \| 💬: [66](https://news.ycombinator.com/item?id=43448112) \| 🗓️ 2025-03-22
+| 🔥🔥: 123 \| 💬: [80](https://news.ycombinator.com/item?id=43448112) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -143,35 +143,11 @@ Facebook同意停止使用个人数据向特定用户投放广告，此前Tanya 
 
 ---
 
-## <a name="11"></a>11. 微分几何入门：曲线与曲面的初步探索 
-<small>🔗 [math.franklin.uga.edu](https://math.franklin.uga.edu/sites/default/files/users/user317/ShifrinDiffGeo.pdf): Differential Geometry: A First Course in Curves and Surfaces [pdf]</small>
-
-
-| 🔥🔥: 106 \| 💬: [5](https://news.ycombinator.com/item?id=43445614) \| 🗓️ 2025-03-22
-
-
-<br />
-本文介绍了**微分几何**的基础知识，重点探讨了**曲线**和**曲面**的数学性质。通过详细的公式推导和几何直观，帮助读者理解如何用数学工具描述和分析复杂的几何形状。适合对几何学感兴趣的初学者，为进一步学习高级几何理论打下基础。
-
----
-
-## <a name="12"></a>12. FastOpenAPI：为多种Python框架自动生成API文档 
-<small>🔗 [github.com](https://github.com/mr-fatalyst/fastopenapi): Show HN: FastOpenAPI – automated docs for many Python frameworks</small>
-
-
-| 🔥🔥: 105 \| 💬: [53](https://news.ycombinator.com/item?id=43445720) \| 🗓️ 2025-03-22
-
-
-<br />
-FastOpenAPI 是一个基于 **Pydantic v2** 的库，用于生成和集成 **OpenAPI** 文档，支持多种框架如 **Falcon、Flask、Sanic、Starlette** 和 **Tornado**。它提供了类似 FastAPI 的开发体验，支持数据验证和自动生成 Swagger UI 及 ReDoc 文档。安装简单，支持多种框架的快速集成，适合需要高效生成 API 文档的项目。
-
----
-
-## <a name="13"></a>13. Next.js 15.2.3 发布以修复安全漏洞 
+## <a name="11"></a>11. Next.js 15.2.3 发布以修复安全漏洞 
 <small>🔗 [nextjs.org](https://nextjs.org/blog/cve-2025-29927): Next.js version 15.2.3 has been released to address a security vulnerability</small>
 
 
-| 🔥🔥: 105 \| 💬: [68](https://news.ycombinator.com/item?id=43448723) \| 🗓️ 2025-03-22
+| 🔥🔥: 116 \| 💬: [85](https://news.ycombinator.com/item?id=43448723) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -179,11 +155,35 @@ Next.js 15.2.3 版本已发布，修复了一个安全漏洞（CVE-2025-29927）
 
 ---
 
+## <a name="12"></a>12. 微分几何入门：曲线与曲面的初步探索 
+<small>🔗 [math.franklin.uga.edu](https://math.franklin.uga.edu/sites/default/files/users/user317/ShifrinDiffGeo.pdf): Differential Geometry: A First Course in Curves and Surfaces [pdf]</small>
+
+
+| 🔥🔥: 110 \| 💬: [5](https://news.ycombinator.com/item?id=43445614) \| 🗓️ 2025-03-22
+
+
+<br />
+本文介绍了**微分几何**的基础知识，重点探讨了**曲线**和**曲面**的数学性质。通过详细的公式推导和几何直观，帮助读者理解如何用数学工具描述和分析复杂的几何形状。适合对几何学感兴趣的初学者，为进一步学习高级几何理论打下基础。
+
+---
+
+## <a name="13"></a>13. FastOpenAPI：为多种Python框架自动生成API文档 
+<small>🔗 [github.com](https://github.com/mr-fatalyst/fastopenapi): Show HN: FastOpenAPI – automated docs for many Python frameworks</small>
+
+
+| 🔥🔥: 108 \| 💬: [53](https://news.ycombinator.com/item?id=43445720) \| 🗓️ 2025-03-22
+
+
+<br />
+FastOpenAPI 是一个基于 **Pydantic v2** 的库，用于生成和集成 **OpenAPI** 文档，支持多种框架如 **Falcon、Flask、Sanic、Starlette** 和 **Tornado**。它提供了类似 FastAPI 的开发体验，支持数据验证和自动生成 Swagger UI 及 ReDoc 文档。安装简单，支持多种框架的快速集成，适合需要高效生成 API 文档的项目。
+
+---
+
 ## <a name="14"></a>14. 理解R1-Zero式训练：批判性视角 
 <small>🔗 [github.com](https://github.com/sail-sg/understand-r1-zero): Understanding R1-Zero-Like Training: A Critical Perspective</small>
 
 
-| 🔥: 95 \| 💬: [11](https://news.ycombinator.com/item?id=43445894) \| 🗓️ 2025-03-22
+| 🔥: 98 \| 💬: [13](https://news.ycombinator.com/item?id=43445894) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -195,7 +195,7 @@ Next.js 15.2.3 版本已发布，修复了一个安全漏洞（CVE-2025-29927）
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=xJzrU38pGWc): Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]</small>
 
 
-| 🔥: 78 \| 💬: [16](https://news.ycombinator.com/item?id=43446442) \| 🗓️ 2025-03-22
+| 🔥: 83 \| 💬: [18](https://news.ycombinator.com/item?id=43446442) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -207,7 +207,7 @@ Next.js 15.2.3 版本已发布，修复了一个安全漏洞（CVE-2025-29927）
 <small>🔗 [electrek.co](https://electrek.co/2025/03/21/elon-tells-tesla-employees-not-to-sell-tsla-stocks-board-execs-are-dumping/): Elon tells Tesla employees not to sell TSLA stock as board and execs are dumping</small>
 
 
-| 🔥: 76 \| 💬: [27](https://news.ycombinator.com/item?id=43445557) \| 🗓️ 2025-03-22
+| 🔥: 78 \| 💬: [27](https://news.ycombinator.com/item?id=43445557) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -219,7 +219,7 @@ Next.js 15.2.3 版本已发布，修复了一个安全漏洞（CVE-2025-29927）
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/): Meta pirated books to train its AI</small>
 
 
-| 🔥: 76 \| 💬: [71](https://news.ycombinator.com/item?id=43445616) \| 🗓️ 2025-03-22
+| 🔥: 77 \| 💬: [71](https://news.ycombinator.com/item?id=43445616) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -231,7 +231,7 @@ Meta 在开发其旗舰 AI 模型 Llama 3 时，面临获取大量高质量文�
 <small>🔗 [epoch.ai](https://epoch.ai/gradient-updates/most-ai-value-will-come-from-broad-automation-not-from-r-d): Most AI value will come from broad automation, not from R&D</small>
 
 
-| 🔥: 72 \| 💬: [94](https://news.ycombinator.com/item?id=43447616) \| 🗓️ 2025-03-22
+| 🔥: 75 \| 💬: [95](https://news.ycombinator.com/item?id=43447616) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -255,7 +255,7 @@ Meta 在开发其旗舰 AI 模型 Llama 3 时，面临获取大量高质量文�
 <small>🔗 [ma.imperial.ac.uk](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf): Mathematical Methods for Physics [pdf]</small>
 
 
-| 🔥: 60 \| 💬: [25](https://news.ycombinator.com/item?id=43448193) \| 🗓️ 2025-03-22
+| 🔥: 65 \| 💬: [28](https://news.ycombinator.com/item?id=43448193) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -263,23 +263,11 @@ Meta 在开发其旗舰 AI 模型 Llama 3 时，面临获取大量高质量文�
 
 ---
 
-## <a name="21"></a>21. 马斯克暗中推动关闭美国图书馆机构，引发争议 
-<small>🔗 [newrepublic.com](https://newrepublic.com/post/193015/elon-musk-doge-library-musem-imls): Elon Musk's Doge Moves to Gut Local Libraries While No One Is Looking</small>
-
-
-| 🔥: 50 \| 💬: [8](https://news.ycombinator.com/item?id=43445571) \| 🗓️ 2025-03-22
-
-
-<br />
-据报道，**埃隆·马斯克**领导的**DOGE**部门正秘密关闭美国博物馆与图书馆服务协会（IMLS），该机构负责为全国图书馆和博物馆提供资金支持。IMLS的关闭将影响偏远地区的图书馆技术更新和员工培训。尽管IMLS仅占联邦预算的0.0046%，但其支持的文化机构每年产生500亿美元的经济效益。与此同时，马斯克因其与中国的关系和商业利益，被质疑是否适合参与美国政府的高级军事机密会议。
-
----
-
-## <a name="22"></a>22. 我们为Cursor制作了一个MCP服务器，使其能够独立调试Node.js 
+## <a name="21"></a>21. 我们为Cursor制作了一个MCP服务器，使其能够独立调试Node.js 
 <small>🔗 [npmjs.com](https://www.npmjs.com/package/@hyperdrive-eng/mcp-nodejs-debugger): Show HN: We made an MCP server so Cursor can debug Node.js on its own</small>
 
 
-| 🔥: 49 \| 💬: [12](https://news.ycombinator.com/item?id=43446659) \| 🗓️ 2025-03-22
+| 🔥: 59 \| 💬: [13](https://news.ycombinator.com/item?id=43446659) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -287,11 +275,23 @@ Meta 在开发其旗舰 AI 模型 Llama 3 时，面临获取大量高质量文�
 
 ---
 
+## <a name="22"></a>22. 马斯克暗中推动关闭美国图书馆机构，引发争议 
+<small>🔗 [newrepublic.com](https://newrepublic.com/post/193015/elon-musk-doge-library-musem-imls): Elon Musk's Doge Moves to Gut Local Libraries While No One Is Looking</small>
+
+
+| 🔥: 53 \| 💬: [8](https://news.ycombinator.com/item?id=43445571) \| 🗓️ 2025-03-22
+
+
+<br />
+据报道，**埃隆·马斯克**领导的**DOGE**部门正秘密关闭美国博物馆与图书馆服务协会（IMLS），该机构负责为全国图书馆和博物馆提供资金支持。IMLS的关闭将影响偏远地区的图书馆技术更新和员工培训。尽管IMLS仅占联邦预算的0.0046%，但其支持的文化机构每年产生500亿美元的经济效益。与此同时，马斯克因其与中国的关系和商业利益，被质疑是否适合参与美国政府的高级军事机密会议。
+
+---
+
 ## <a name="23"></a>23. 法国发现全球最大氢矿，价值920亿美元 
 <small>🔗 [interestingengineering.com](https://interestingengineering.com/energy/france-worlds-largest-hydrogen-deposit): France hits hydrogen jackpot: largest reserve valued $92B found</small>
 
 
-| 🔥: 48 \| 💬: [5](https://news.ycombinator.com/item?id=43445454) \| 🗓️ 2025-03-22
+| 🔥: 49 \| 💬: [5](https://news.ycombinator.com/item?id=43445454) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -303,7 +303,7 @@ Meta 在开发其旗舰 AI 模型 Llama 3 时，面临获取大量高质量文�
 <small>🔗 [thetimes.com](https://www.thetimes.com/uk/technology-uk/article/facebook-personal-data-opt-out-swg26rm5z): One mother's win over Meta will change social media for everyone</small>
 
 
-| 🔥: 45 \| 💬: [36](https://news.ycombinator.com/item?id=43445755) \| 🗓️ 2025-03-22
+| 🔥: 46 \| 💬: [36](https://news.ycombinator.com/item?id=43445755) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -315,7 +315,7 @@ Meta 在开发其旗舰 AI 模型 Llama 3 时，面临获取大量高质量文�
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/03/hitler-press-germany/682130/): What the Press Got Wrong About Hitler</small>
 
 
-| 🔥: 40 \| 💬: [24](https://news.ycombinator.com/item?id=43446431) \| 🗓️ 2025-03-22
+| 🔥: 41 \| 💬: [24](https://news.ycombinator.com/item?id=43446431) \| 🗓️ 2025-03-22
 
 
 <br />
