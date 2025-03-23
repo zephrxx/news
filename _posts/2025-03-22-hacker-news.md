@@ -12,11 +12,11 @@ tags:
 1. Landrun：使用Landlock无根或容器化沙盒运行Linux进程；
 1. “氛围编程”与现实的差距；
 1. 利用计算机视觉增强OpenStreetMap地图功能；
-1. 亚马逊挑战产品安全监管机构合宪性；
+1. 极地涡旋即将减速：冬季天气或受影响；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [blog.ezyang.com](https://blog.ezyang.com/2019/05/pytorch-internals/): PyTorch Internals: Ezyang's Blog</small>
 
 
-| 🔥🔥: 242 \| 💬: [17](https://news.ycombinator.com/item?id=43445931) \| 🗓️ 2025-03-22
+| 🔥🔥: 250 \| 💬: [18](https://news.ycombinator.com/item?id=43445931) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Zouuup/landrun): Landrun: Sandbox any Linux process using Landlock, no root or containers</small>
 
 
-| 🔥🔥: 212 \| 💬: [67](https://news.ycombinator.com/item?id=43445662) \| 🗓️ 2025-03-22
+| 🔥🔥: 223 \| 💬: [82](https://news.ycombinator.com/item?id=43445662) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -51,7 +51,7 @@ Landrun 是一个轻量级的工具，利用 **Landlock LSM** 在 Linux 内核�
 <small>🔗 [cendyne.dev](https://cendyne.dev/posts/2025-03-19-vibe-coding-vs-reality.html): “Vibe Coding” vs. Reality</small>
 
 
-| 🔥🔥: 156 \| 💬: [165](https://news.ycombinator.com/item?id=43448432) \| 🗓️ 2025-03-22
+| 🔥🔥: 176 \| 💬: [197](https://news.ycombinator.com/item?id=43448432) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -63,7 +63,7 @@ Landrun 是一个轻量级的工具，利用 **Landlock LSM** 在 Linux 内核�
 <small>🔗 [blog.mozilla.ai](https://blog.mozilla.ai/map-features-in-openstreetmap-with-computer-vision/): Map Features in OpenStreetMap with Computer Vision</small>
 
 
-| 🔥🔥: 151 \| 💬: [33](https://news.ycombinator.com/item?id=43447335) \| 🗓️ 2025-03-22
+| 🔥🔥: 162 \| 💬: [34](https://news.ycombinator.com/item?id=43447335) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -71,23 +71,11 @@ Mozilla.ai发布了**OpenStreetMap AI助手蓝图**，旨在通过**计算机视
 
 ---
 
-## <a name="5"></a>5. 亚马逊挑战产品安全监管机构合宪性 
-<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/03/21/amazon-product-safety-regulators-trump/): Amazon wants a product safety regulator declared unconstitutional</small>
-
-
-| 🔥🔥: 137 \| 💬: [103](https://news.ycombinator.com/item?id=43446103) \| 🗓️ 2025-03-22
-
-
-<br />
-亚马逊起诉**美国消费品安全委员会（CPSC）**，称其结构违宪，试图逃避对平台上销售危险产品的责任。亚马逊认为其仅为第三方卖家提供物流服务，不应被视为“分销商”。此案可能影响联邦监管机构的独立性，尤其是特朗普政府试图削弱监管的背景下。
-
----
-
-## <a name="6"></a>6. 极地涡旋即将减速：冬季天气或受影响 
+## <a name="5"></a>5. 极地涡旋即将减速：冬季天气或受影响 
 <small>🔗 [climate.gov](https://www.climate.gov/news-features/blogs/polar-vortex/polar-vortex-hitting-brakes): The polar vortex is hitting the brakes</small>
 
 
-| 🔥🔥: 128 \| 💬: [68](https://news.ycombinator.com/item?id=43448023) \| 🗓️ 2025-03-22
+| 🔥🔥: 149 \| 💬: [103](https://news.ycombinator.com/item?id=43448023) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -95,11 +83,23 @@ Mozilla.ai发布了**OpenStreetMap AI助手蓝图**，旨在通过**计算机视
 
 ---
 
+## <a name="6"></a>6. 亚马逊挑战产品安全监管机构合宪性 
+<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/03/21/amazon-product-safety-regulators-trump/): Amazon wants a product safety regulator declared unconstitutional</small>
+
+
+| 🔥🔥: 142 \| 💬: [105](https://news.ycombinator.com/item?id=43446103) \| 🗓️ 2025-03-22
+
+
+<br />
+亚马逊起诉**美国消费品安全委员会（CPSC）**，称其结构违宪，试图逃避对平台上销售危险产品的责任。亚马逊认为其仅为第三方卖家提供物流服务，不应被视为“分销商”。此案可能影响联邦监管机构的独立性，尤其是特朗普政府试图削弱监管的背景下。
+
+---
+
 ## <a name="7"></a>7. AI广告技术公司CEO因欺诈被判刑，曾承诺“无欺诈世界” 
-<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/ceo-of-ai-ad-tech-firm-pledging-world-free-of-fraud-sentenced-for-fraud/): CEO of AI ad-tech firm pledging "world free of fraud" sentenced for fraud</small>
+<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/ceo-of-ai-ad-tech-firm-pledging-world-free-of-fraud-sentenced-for-fraud/): CEO of Kubient sentenced for fraud</small>
 
 
-| 🔥🔥: 122 \| 💬: [37](https://news.ycombinator.com/item?id=43448606) \| 🗓️ 2025-03-22
+| 🔥🔥: 133 \| 💬: [48](https://news.ycombinator.com/item?id=43448606) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -111,7 +111,7 @@ Mozilla.ai发布了**OpenStreetMap AI助手蓝图**，旨在通过**计算机视
 <small>🔗 [bbc.co.uk](https://www.bbc.co.uk/news/articles/c1en1yjv4dpo): Facebook to stop targeting ads at UK woman after legal fight</small>
 
 
-| 🔥🔥: 119 \| 💬: [93](https://news.ycombinator.com/item?id=43446821) \| 🗓️ 2025-03-22
+| 🔥🔥: 120 \| 💬: [94](https://news.ycombinator.com/item?id=43446821) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -119,47 +119,11 @@ Facebook同意停止使用个人数据向特定用户投放广告，此前Tanya 
 
 ---
 
-## <a name="9"></a>9. FastOpenAPI：为多种Python框架自动生成API文档 
-<small>🔗 [github.com](https://github.com/mr-fatalyst/fastopenapi): Show HN: FastOpenAPI – automated docs for many Python frameworks</small>
-
-
-| 🔥: 98 \| 💬: [49](https://news.ycombinator.com/item?id=43445720) \| 🗓️ 2025-03-22
-
-
-<br />
-FastOpenAPI 是一个基于 **Pydantic v2** 的库，用于生成和集成 **OpenAPI** 文档，支持多种框架如 **Falcon、Flask、Sanic、Starlette** 和 **Tornado**。它提供了类似 FastAPI 的开发体验，支持数据验证和自动生成 Swagger UI 及 ReDoc 文档。安装简单，支持多种框架的快速集成，适合需要高效生成 API 文档的项目。
-
----
-
-## <a name="10"></a>10. 微分几何入门：曲线与曲面的初步探索 
-<small>🔗 [math.franklin.uga.edu](https://math.franklin.uga.edu/sites/default/files/users/user317/ShifrinDiffGeo.pdf): Differential Geometry: A First Course in Curves and Surfaces [pdf]</small>
-
-
-| 🔥: 93 \| 💬: [3](https://news.ycombinator.com/item?id=43445614) \| 🗓️ 2025-03-22
-
-
-<br />
-本文介绍了**微分几何**的基础知识，重点探讨了**曲线**和**曲面**的数学性质。通过详细的公式推导和几何直观，帮助读者理解如何用数学工具描述和分析复杂的几何形状。适合对几何学感兴趣的初学者，为进一步学习高级几何理论打下基础。
-
----
-
-## <a name="11"></a>11. 理解R1-Zero式训练：批判性视角 
-<small>🔗 [github.com](https://github.com/sail-sg/understand-r1-zero): Understanding R1-Zero-Like Training: A Critical Perspective</small>
-
-
-| 🔥: 90 \| 💬: [11](https://news.ycombinator.com/item?id=43445894) \| 🗓️ 2025-03-22
-
-
-<br />
-本文探讨了**R1-Zero式训练**的核心组件，包括基础模型和强化学习。研究发现，**Qwen2.5**基础模型在无提示模板的情况下表现出强大的推理能力，而**GRPO**算法存在偏差优化问题，提出了改进方案**Dr. GRPO**。通过实验，作者展示了如何在27小时内使用8块A100 GPU实现**Qwen2.5-Math-7B**的最优性能。研究还指出，模板和问题集的匹配对强化学习动态有重要影响。
-
----
-
-## <a name="12"></a>12. NixOS与可重现构建如何检测xz后门 
+## <a name="9"></a>9. NixOS与可重现构建如何检测xz后门 
 <small>🔗 [luj.fr](https://luj.fr/blog/how-nixos-could-have-detected-xz.html): NixOS and reproducible builds could have detected the xz backdoor</small>
 
 
-| 🔥: 83 \| 💬: [24](https://news.ycombinator.com/item?id=43448075) \| 🗓️ 2025-03-22
+| 🔥🔥: 109 \| 💬: [36](https://news.ycombinator.com/item?id=43448075) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -167,11 +131,23 @@ FastOpenAPI 是一个基于 **Pydantic v2** 的库，用于生成和集成 **Ope
 
 ---
 
-## <a name="13"></a>13. 意大利要求谷歌根据严格的反盗版法污染DNS 
+## <a name="10"></a>10. FastOpenAPI：为多种Python框架自动生成API文档 
+<small>🔗 [github.com](https://github.com/mr-fatalyst/fastopenapi): Show HN: FastOpenAPI – automated docs for many Python frameworks</small>
+
+
+| 🔥🔥: 101 \| 💬: [52](https://news.ycombinator.com/item?id=43445720) \| 🗓️ 2025-03-22
+
+
+<br />
+FastOpenAPI 是一个基于 **Pydantic v2** 的库，用于生成和集成 **OpenAPI** 文档，支持多种框架如 **Falcon、Flask、Sanic、Starlette** 和 **Tornado**。它提供了类似 FastAPI 的开发体验，支持数据验证和自动生成 Swagger UI 及 ReDoc 文档。安装简单，支持多种框架的快速集成，适合需要高效生成 API 文档的项目。
+
+---
+
+## <a name="11"></a>11. 意大利要求谷歌根据严格的反盗版法污染DNS 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/italian-court-orders-google-to-block-iptv-pirate-sites-at-dns-level/): Italy demands Google poison DNS under strict Piracy Shield law</small>
 
 
-| 🔥: 81 \| 💬: [56](https://news.ycombinator.com/item?id=43448112) \| 🗓️ 2025-03-22
+| 🔥🔥: 101 \| 💬: [62](https://news.ycombinator.com/item?id=43448112) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -179,11 +155,59 @@ FastOpenAPI 是一个基于 **Pydantic v2** 的库，用于生成和集成 **Ope
 
 ---
 
-## <a name="14"></a>14. 马斯克告诫特斯拉员工不要抛售股票，而董事会和高管却在减持 
+## <a name="12"></a>12. 微分几何入门：曲线与曲面的初步探索 
+<small>🔗 [math.franklin.uga.edu](https://math.franklin.uga.edu/sites/default/files/users/user317/ShifrinDiffGeo.pdf): Differential Geometry: A First Course in Curves and Surfaces [pdf]</small>
+
+
+| 🔥: 98 \| 💬: [3](https://news.ycombinator.com/item?id=43445614) \| 🗓️ 2025-03-22
+
+
+<br />
+本文介绍了**微分几何**的基础知识，重点探讨了**曲线**和**曲面**的数学性质。通过详细的公式推导和几何直观，帮助读者理解如何用数学工具描述和分析复杂的几何形状。适合对几何学感兴趣的初学者，为进一步学习高级几何理论打下基础。
+
+---
+
+## <a name="13"></a>13. 理解R1-Zero式训练：批判性视角 
+<small>🔗 [github.com](https://github.com/sail-sg/understand-r1-zero): Understanding R1-Zero-Like Training: A Critical Perspective</small>
+
+
+| 🔥: 92 \| 💬: [11](https://news.ycombinator.com/item?id=43445894) \| 🗓️ 2025-03-22
+
+
+<br />
+本文探讨了**R1-Zero式训练**的核心组件，包括基础模型和强化学习。研究发现，**Qwen2.5**基础模型在无提示模板的情况下表现出强大的推理能力，而**GRPO**算法存在偏差优化问题，提出了改进方案**Dr. GRPO**。通过实验，作者展示了如何在27小时内使用8块A100 GPU实现**Qwen2.5-Math-7B**的最优性能。研究还指出，模板和问题集的匹配对强化学习动态有重要影响。
+
+---
+
+## <a name="14"></a>14. Next.js 15.2.3 发布以修复安全漏洞 
+<small>🔗 [nextjs.org](https://nextjs.org/blog/cve-2025-29927): Next.js version 15.2.3 has been released to address a security vulnerability</small>
+
+
+| 🔥: 85 \| 💬: [44](https://news.ycombinator.com/item?id=43448723) \| 🗓️ 2025-03-22
+
+
+<br />
+Next.js 15.2.3 版本已发布，修复了一个安全漏洞（CVE-2025-29927）。该漏洞可能导致**中间件**被跳过，从而绕过关键的安全检查，如授权验证。建议所有使用 `next start` 和 `output: 'standalone'` 的自托管应用立即更新。Vercel 和 Netlify 托管的应用不受影响。
+
+---
+
+## <a name="15"></a>15. 保罗·狄拉克与弗里德里希·洪德的访谈（1982年）[视频] 
+<small>🔗 [youtube.com](https://www.youtube.com/watch?v=xJzrU38pGWc): Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]</small>
+
+
+| 🔥: 76 \| 💬: [16](https://news.ycombinator.com/item?id=43446442) \| 🗓️ 2025-03-22
+
+
+<br />
+在这段1982年的访谈中，**保罗·狄拉克**与物理学家弗里德里希·洪德讨论了**量子力学**的早期发展及其对现代物理学的影响。狄拉克回顾了他对**狄拉克方程**的贡献，并分享了他对科学哲学和未来研究的看法。这段访谈为理解20世纪物理学的重要突破提供了独特的视角。
+
+---
+
+## <a name="16"></a>16. 马斯克告诫特斯拉员工不要抛售股票，而董事会和高管却在减持 
 <small>🔗 [electrek.co](https://electrek.co/2025/03/21/elon-tells-tesla-employees-not-to-sell-tsla-stocks-board-execs-are-dumping/): Elon tells Tesla employees not to sell TSLA stock as board and execs are dumping</small>
 
 
-| 🔥: 75 \| 💬: [26](https://news.ycombinator.com/item?id=43445557) \| 🗓️ 2025-03-22
+| 🔥: 75 \| 💬: [27](https://news.ycombinator.com/item?id=43445557) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -191,7 +215,7 @@ FastOpenAPI 是一个基于 **Pydantic v2** 的库，用于生成和集成 **Ope
 
 ---
 
-## <a name="15"></a>15. Meta 使用盗版书籍训练其 AI 模型 
+## <a name="17"></a>17. Meta 使用盗版书籍训练其 AI 模型 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/technology/archive/2025/03/libgen-meta-openai/682093/): Meta pirated books to train its AI</small>
 
 
@@ -203,35 +227,11 @@ Meta 在开发其旗舰 AI 模型 Llama 3 时，面临获取大量高质量文�
 
 ---
 
-## <a name="16"></a>16. 保罗·狄拉克与弗里德里希·洪德的访谈（1982年）[视频] 
-<small>🔗 [youtube.com](https://www.youtube.com/watch?v=xJzrU38pGWc): Paul A. M. Dirac, Interview by Friedrich Hund (1982) [video]</small>
-
-
-| 🔥: 71 \| 💬: [15](https://news.ycombinator.com/item?id=43446442) \| 🗓️ 2025-03-22
-
-
-<br />
-在这段1982年的访谈中，**保罗·狄拉克**与物理学家弗里德里希·洪德讨论了**量子力学**的早期发展及其对现代物理学的影响。狄拉克回顾了他对**狄拉克方程**的贡献，并分享了他对科学哲学和未来研究的看法。这段访谈为理解20世纪物理学的重要突破提供了独特的视角。
-
----
-
-## <a name="17"></a>17. 如何打造一个更“无礼”的网络爬虫 
-<small>🔗 [marginalia.nu](https://www.marginalia.nu/log/a_115_rude_crawler/): Improved ways to operate a rude crawler</small>
-
-
-| 🔥: 70 \| 💬: [12](https://news.ycombinator.com/item?id=43445682) \| 🗓️ 2025-03-22
-
-
-<br />
-这篇讽刺性文章调侃了AI初创公司如何通过**无视robots.txt**、**滥用POST请求**和**耗尽服务器资源**来提升爬虫的“无礼”程度。文章建议爬虫应**频繁建立新连接**、**不关闭连接**，甚至**蹭邻居的WiFi**来获取数据。这些“技巧”虽然对服务器极不友好，但作者认为这是向投资者展示公司“创新”的好方法。
-
----
-
 ## <a name="18"></a>18. AI的经济价值主要来自广泛自动化，而非研发 
 <small>🔗 [epoch.ai](https://epoch.ai/gradient-updates/most-ai-value-will-come-from-broad-automation-not-from-r-d): Most AI value will come from broad automation, not from R&D</small>
 
 
-| 🔥: 68 \| 💬: [70](https://news.ycombinator.com/item?id=43447616) \| 🗓️ 2025-03-22
+| 🔥: 72 \| 💬: [87](https://news.ycombinator.com/item?id=43447616) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -239,7 +239,31 @@ Meta 在开发其旗舰 AI 模型 Llama 3 时，面临获取大量高质量文�
 
 ---
 
-## <a name="19"></a>19. 马斯克暗中推动关闭美国图书馆机构，引发争议 
+## <a name="19"></a>19. 如何打造一个更“无礼”的网络爬虫 
+<small>🔗 [marginalia.nu](https://www.marginalia.nu/log/a_115_rude_crawler/): Improved ways to operate a rude crawler</small>
+
+
+| 🔥: 71 \| 💬: [12](https://news.ycombinator.com/item?id=43445682) \| 🗓️ 2025-03-22
+
+
+<br />
+这篇讽刺性文章调侃了AI初创公司如何通过**无视robots.txt**、**滥用POST请求**和**耗尽服务器资源**来提升爬虫的“无礼”程度。文章建议爬虫应**频繁建立新连接**、**不关闭连接**，甚至**蹭邻居的WiFi**来获取数据。这些“技巧”虽然对服务器极不友好，但作者认为这是向投资者展示公司“创新”的好方法。
+
+---
+
+## <a name="20"></a>20. 物理学的数学方法 
+<small>🔗 [ma.imperial.ac.uk](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf): Mathematical Methods for Physics [pdf]</small>
+
+
+| 🔥: 52 \| 💬: [18](https://news.ycombinator.com/item?id=43448193) \| 🗓️ 2025-03-22
+
+
+<br />
+本文是一份关于**物理学中数学方法**的PDF文档，内容涉及**线性代数**、**微积分**和**微分方程**等数学工具在物理学中的应用。文档详细介绍了如何通过这些数学方法解决物理问题，并提供了相关的公式和推导过程。适合物理学和数学领域的学习者和研究者参考。
+
+---
+
+## <a name="21"></a>21. 马斯克暗中推动关闭美国图书馆机构，引发争议 
 <small>🔗 [newrepublic.com](https://newrepublic.com/post/193015/elon-musk-doge-library-musem-imls): Elon Musk's Doge Moves to Gut Local Libraries While No One Is Looking</small>
 
 
@@ -251,11 +275,11 @@ Meta 在开发其旗舰 AI 模型 Llama 3 时，面临获取大量高质量文�
 
 ---
 
-## <a name="20"></a>20. 法国发现全球最大氢矿，价值920亿美元 
+## <a name="22"></a>22. 法国发现全球最大氢矿，价值920亿美元 
 <small>🔗 [interestingengineering.com](https://interestingengineering.com/energy/france-worlds-largest-hydrogen-deposit): France hits hydrogen jackpot: largest reserve valued $92B found</small>
 
 
-| 🔥: 45 \| 💬: [4](https://news.ycombinator.com/item?id=43445454) \| 🗓️ 2025-03-22
+| 🔥: 47 \| 💬: [4](https://news.ycombinator.com/item?id=43445454) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -263,7 +287,7 @@ Meta 在开发其旗舰 AI 模型 Llama 3 时，面临获取大量高质量文�
 
 ---
 
-## <a name="21"></a>21. 一位母亲战胜Meta，将改变所有人的社交媒体体验 
+## <a name="23"></a>23. 一位母亲战胜Meta，将改变所有人的社交媒体体验 
 <small>🔗 [thetimes.com](https://www.thetimes.com/uk/technology-uk/article/facebook-personal-data-opt-out-swg26rm5z): One mother's win over Meta will change social media for everyone</small>
 
 
@@ -275,23 +299,11 @@ Meta 在开发其旗舰 AI 模型 Llama 3 时，面临获取大量高质量文�
 
 ---
 
-## <a name="22"></a>22. 物理学的数学方法 
-<small>🔗 [ma.imperial.ac.uk](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf): Mathematical Methods for Physics [pdf]</small>
-
-
-| 🔥: 44 \| 💬: [16](https://news.ycombinator.com/item?id=43448193) \| 🗓️ 2025-03-22
-
-
-<br />
-本文是一份关于**物理学中数学方法**的PDF文档，内容涉及**线性代数**、**微积分**和**微分方程**等数学工具在物理学中的应用。文档详细介绍了如何通过这些数学方法解决物理问题，并提供了相关的公式和推导过程。适合物理学和数学领域的学习者和研究者参考。
-
----
-
-## <a name="23"></a>23. 媒体对希特勒的误判 
+## <a name="24"></a>24. 媒体对希特勒的误判 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/03/hitler-press-germany/682130/): What the Press Got Wrong About Hitler</small>
 
 
-| 🔥: 39 \| 💬: [23](https://news.ycombinator.com/item?id=43446431) \| 🗓️ 2025-03-22
+| 🔥: 40 \| 💬: [24](https://news.ycombinator.com/item?id=43446431) \| 🗓️ 2025-03-22
 
 
 <br />
@@ -299,11 +311,11 @@ Meta 在开发其旗舰 AI 模型 Llama 3 时，面临获取大量高质量文�
 
 ---
 
-## <a name="24"></a>24. MacBook占Mac总销量的86%，台式机仅占14% 
+## <a name="25"></a>25. MacBook占Mac总销量的86%，台式机仅占14% 
 <small>🔗 [macdailynews.com](https://macdailynews.com/2025/03/19/macbooks-account-for-86-of-total-mac-sales-mac-desktops-just-14/): MacBooks account for 86% of total Mac sales; Mac desktops just 14%</small>
 
 
-| 🔥: 34 \| 💬: [67](https://news.ycombinator.com/item?id=43444605) \| 🗓️ 2025-03-22
+| 🔥: 36 \| 💬: [67](https://news.ycombinator.com/item?id=43444605) \| 🗓️ 2025-03-22
 
 
 <br />
