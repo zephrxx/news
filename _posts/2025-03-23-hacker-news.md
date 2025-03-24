@@ -27,7 +27,7 @@ tags:
 <small>🔗 [dannorth.net](https://dannorth.net/the-worst-programmer/): The Worst Programmer I Know (2023)</small>
 
 
-| 🔥🔥: 360 \| 💬: [259](https://news.ycombinator.com/item?id=43452649) \| 🗓️ 2025-03-23
+| 🔥🔥: 366 \| 💬: [261](https://news.ycombinator.com/item?id=43452649) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [drumpatterns.onether.com](http://drumpatterns.onether.com): Show HN: I built website for sharing Drum Patterns</small>
 
 
-| 🔥🔥: 249 \| 💬: [91](https://news.ycombinator.com/item?id=43452629) \| 🗓️ 2025-03-23
+| 🔥🔥: 254 \| 💬: [91](https://news.ycombinator.com/item?id=43452629) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [righto.com](https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html): A USB Interface to the "Mother of All Demos" Keyset</small>
 
 
-| 🔥🔥: 227 \| 💬: [56](https://news.ycombinator.com/item?id=43453582) \| 🗓️ 2025-03-23
+| 🔥🔥: 231 \| 💬: [59](https://news.ycombinator.com/item?id=43453582) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [sel4.systems](https://sel4.systems/About/seL4-whitepaper.pdf): The SeL4 Microkernel: An Introduction [pdf]</small>
 
 
-| 🔥🔥: 193 \| 💬: [105](https://news.ycombinator.com/item?id=43452185) \| 🗓️ 2025-03-23
+| 🔥🔥: 196 \| 💬: [105](https://news.ycombinator.com/item?id=43452185) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -75,7 +75,7 @@ SeL4是一个**高性能、高安全性的微内核**，专为嵌入式系统和
 <small>🔗 [apps.apple.com](https://apps.apple.com/us/app/notes-sight-reading-trainer/id874386416): Show HN: My iOS app to practice sight reading (10 years in the App Store)</small>
 
 
-| 🔥🔥: 169 \| 💬: [65](https://news.ycombinator.com/item?id=43456030) \| 🗓️ 2025-03-23
+| 🔥🔥: 173 \| 💬: [68](https://news.ycombinator.com/item?id=43456030) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -87,7 +87,7 @@ SeL4是一个**高性能、高安全性的微内核**，专为嵌入式系统和
 <small>🔗 [theverge.com](https://www.theverge.com/policy/634264/customs-border-protection-search-phone-airport-rights): Is it safe to travel to the United States with your phone?</small>
 
 
-| 🔥🔥: 161 \| 💬: [150](https://news.ycombinator.com/item?id=43452474) \| 🗓️ 2025-03-23
+| 🔥🔥: 161 \| 💬: [151](https://news.ycombinator.com/item?id=43452474) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -99,7 +99,7 @@ SeL4是一个**高性能、高安全性的微内核**，专为嵌入式系统和
 <small>🔗 [simonschreibt.de](https://simonschreibt.de/gat/homeworld-2-backgrounds/): Technicalities of Homeworld 2 Backgrounds</small>
 
 
-| 🔥🔥: 151 \| 💬: [43](https://news.ycombinator.com/item?id=43452688) \| 🗓️ 2025-03-23
+| 🔥🔥: 154 \| 💬: [45](https://news.ycombinator.com/item?id=43452688) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -111,7 +111,7 @@ SeL4是一个**高性能、高安全性的微内核**，专为嵌入式系统和
 <small>🔗 [github.com](https://github.com/tdewolff/argp): argp: GNU-style command line argument parser for Go</small>
 
 
-| 🔥🔥: 148 \| 💬: [63](https://news.ycombinator.com/item?id=43452525) \| 🗓️ 2025-03-23
+| 🔥🔥: 150 \| 💬: [65](https://news.ycombinator.com/item?id=43452525) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -123,7 +123,7 @@ argp 是一个遵循 **GNU 标准**的命令行参数解析器，专为 Go 语�
 <small>🔗 [ankitmaloo.com](https://ankitmaloo.com/bitter-lesson/): Bitter Lesson is about AI agents</small>
 
 
-| 🔥🔥: 114 \| 💬: [69](https://news.ycombinator.com/item?id=43451742) \| 🗓️ 2025-03-23
+| 🔥🔥: 114 \| 💬: [71](https://news.ycombinator.com/item?id=43451742) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -135,7 +135,7 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 <small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20250321-00/?p=110984): The case of the critical section that let multiple threads enter a block of code</small>
 
 
-| 🔥🔥: 113 \| 💬: [80](https://news.ycombinator.com/item?id=43451525) \| 🗓️ 2025-03-23
+| 🔥🔥: 113 \| 💬: [81](https://news.ycombinator.com/item?id=43451525) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -143,23 +143,11 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 
 ---
 
-## <a name="11"></a>11. 用Safari实现卓越隐私保护 
-<small>🔗 [matanabudy.com](https://matanabudy.com/achieving-great-privacy-with-safari/): Achieving Great Privacy with Safari</small>
-
-
-| 🔥🔥: 102 \| 💬: [52](https://news.ycombinator.com/item?id=43453350) \| 🗓️ 2025-03-23
-
-
-<br />
-作者分享了自己如何通过Safari保护隐私，推荐了**iCloud Private Relay**、**Wipr**、**StopTheMadness Pro**和**Hush**等工具。这些工具隐藏IP地址、加密DNS查询、屏蔽广告和弹窗，并通过EFF测试验证了其强大的隐私保护效果。虽然其他浏览器如Firefox和Brave也有隐私功能，但作者对Safari的配置感到满意。
-
----
-
-## <a name="12"></a>12. RDNA 4的“乱序”内存访问改进 
+## <a name="11"></a>11. RDNA 4的“乱序”内存访问改进 
 <small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses): RDNA 4's “Out-of-Order” Memory Accesses</small>
 
 
-| 🔥: 93 \| 💬: [8](https://news.ycombinator.com/item?id=43456341) \| 🗓️ 2025-03-23
+| 🔥🔥: 107 \| 💬: [8](https://news.ycombinator.com/item?id=43456341) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -167,11 +155,23 @@ AMD的RDNA 4架构在内存子系统上进行了显著优化，特别是引入�
 
 ---
 
+## <a name="12"></a>12. 用Safari实现卓越隐私保护 
+<small>🔗 [matanabudy.com](https://matanabudy.com/achieving-great-privacy-with-safari/): Achieving Great Privacy with Safari</small>
+
+
+| 🔥🔥: 104 \| 💬: [52](https://news.ycombinator.com/item?id=43453350) \| 🗓️ 2025-03-23
+
+
+<br />
+作者分享了自己如何通过Safari保护隐私，推荐了**iCloud Private Relay**、**Wipr**、**StopTheMadness Pro**和**Hush**等工具。这些工具隐藏IP地址、加密DNS查询、屏蔽广告和弹窗，并通过EFF测试验证了其强大的隐私保护效果。虽然其他浏览器如Firefox和Brave也有隐私功能，但作者对Safari的配置感到满意。
+
+---
+
 ## <a name="13"></a>13. 美国正在见证双重国家的崛起 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/magazine/archive/2025/05/trump-executive-order-lawlessness-constitutional-crisis/682112/): America Is Watching the Rise of a Dual State</small>
 
 
-| 🔥: 92 \| 💬: [33](https://news.ycombinator.com/item?id=43454004) \| 🗓️ 2025-03-23
+| 🔥: 93 \| 💬: [35](https://news.ycombinator.com/item?id=43454004) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -183,7 +183,7 @@ AMD的RDNA 4架构在内存子系统上进行了显著优化，特别是引入�
 <small>🔗 [orgelstadt-hamburg.de](https://www.orgelstadt-hamburg.de/play-arp/): Play the Virtual Organ from Arp Schnitger</small>
 
 
-| 🔥: 85 \| 💬: [13](https://news.ycombinator.com/item?id=43454785) \| 🗓️ 2025-03-23
+| 🔥: 87 \| 💬: [13](https://news.ycombinator.com/item?id=43454785) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -195,7 +195,7 @@ AMD的RDNA 4架构在内存子系统上进行了显著优化，特别是引入�
 <small>🔗 [cnn.com](https://www.cnn.com/2025/03/23/europe/germany-military-investment-intl/index.html): Germany is unlocking billions to supercharge its military at a seismic moment</small>
 
 
-| 🔥: 79 \| 💬: [184](https://news.ycombinator.com/item?id=43454383) \| 🗓️ 2025-03-23
+| 🔥: 80 \| 💬: [185](https://news.ycombinator.com/item?id=43454383) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -203,27 +203,27 @@ AMD的RDNA 4架构在内存子系统上进行了显著优化，特别是引入�
 
 ---
 
-## <a name="16"></a>16. 如何建立与维护友谊：八本书的精华总结 
-<small>🔗 [scotthyoung.com](https://www.scotthyoung.com/blog/2025/03/18/8-books-on-making-friends/): Books on Making and Maintaining Friendships</small>
-
-
-| 🔥: 71 \| 💬: [33](https://news.ycombinator.com/item?id=43454898) \| 🗓️ 2025-03-23
-
-
-<br />
-在为期一年的“基础项目”中，作者专注于**友谊的建立与维护**，并阅读了八本相关书籍。**关键点**包括：**深厚的友谊需要60小时以上的面对面接触**，**弱关系在职业机会中同样重要**，以及**健康与社交网络的紧密联系**。此外，书籍探讨了沟通技巧、社交活动的策划以及社会资本的衰退对民主的影响。这些书籍不仅提供了实用的建议，还揭示了友谊对个人和社会的深远影响。
-
----
-
-## <a name="17"></a>17. Shift-To-Middle 数组：std::deque 的更快替代方案？ 
+## <a name="16"></a>16. Shift-To-Middle 数组：std::deque 的更快替代方案？ 
 <small>🔗 [github.com](https://github.com/attilatorda/Shift-To-Middle_Array): Shift-to-Middle Array: A Faster Alternative to Std:Deque?</small>
 
 
-| 🔥: 68 \| 💬: [48](https://news.ycombinator.com/item?id=43456669) \| 🗓️ 2025-03-23
+| 🔥: 72 \| 💬: [50](https://news.ycombinator.com/item?id=43456669) \| 🗓️ 2025-03-23
 
 
 <br />
 Shift-To-Middle 数组是一种动态数组，旨在优化两端插入和删除操作，提供比 **std::deque**、**std::vector** 和链表更高的性能。它通过**动态中间偏移**和**连续内存存储**，提升了缓存局部性，并支持并行处理。适用于高性能队列、游戏引擎和实时应用等场景。
+
+---
+
+## <a name="17"></a>17. 如何建立与维护友谊：八本书的精华总结 
+<small>🔗 [scotthyoung.com](https://www.scotthyoung.com/blog/2025/03/18/8-books-on-making-friends/): Books on Making and Maintaining Friendships</small>
+
+
+| 🔥: 71 \| 💬: [34](https://news.ycombinator.com/item?id=43454898) \| 🗓️ 2025-03-23
+
+
+<br />
+在为期一年的“基础项目”中，作者专注于**友谊的建立与维护**，并阅读了八本相关书籍。**关键点**包括：**深厚的友谊需要60小时以上的面对面接触**，**弱关系在职业机会中同样重要**，以及**健康与社交网络的紧密联系**。此外，书籍探讨了沟通技巧、社交活动的策划以及社会资本的衰退对民主的影响。这些书籍不仅提供了实用的建议，还揭示了友谊对个人和社会的深远影响。
 
 ---
 
@@ -251,7 +251,31 @@ Shift-To-Middle 数组是一种动态数组，旨在优化两端插入和删除�
 
 ---
 
-## <a name="20"></a>20. 特朗普执政以来美国对加拿大的威胁与加拿大的愤怒 
+## <a name="20"></a>20. 使用Quadlet在systemd下运行Podman容器 
+<small>🔗 [mo8it.com](https://mo8it.com/blog/quadlet/): Quadlet: Running Podman containers under systemd</small>
+
+
+| 🔥: 54 \| 💬: [8](https://news.ycombinator.com/item?id=43456934) \| 🗓️ 2025-03-23
+
+
+<br />
+Quadlet允许将Podman容器作为systemd服务运行，特别适合在后台运行容器并在服务器重启后自动启动。相比旧的`podman generate systemd`方法，Quadlet更灵活且强大，支持通过`.container`文件配置容器，简化了管理流程。**Quadlet**不仅减少了冗余命令，还支持systemd的所有功能，如依赖管理和自动更新。通过`podman auto-update`，容器镜像可以自动更新并重启，进一步提升了管理效率。
+
+---
+
+## <a name="21"></a>21. IBM CEO：AI短期内不会取代程序员 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/11/ibms-ceo-doesnt-think-ai-will-replace-programmers-anytime-soon/): IBM's CEO doesn't think AI will replace programmers anytime soon</small>
+
+
+| 🔥: 53 \| 💬: [73](https://news.ycombinator.com/item?id=43452421) \| 🗓️ 2025-03-23
+
+
+<br />
+IBM CEO Arvind Krishna在SXSW访谈中表示，**全球贸易**仍是美国经济增长的关键，并强调吸引国际人才的重要性。关于AI，他认为未来3-6年内，**AI可能编写20-30%的代码**，而非90%，且AI将提升程序员效率而非取代他们。他还指出，**量子计算**而非AI，将是推动科学发现的关键。
+
+---
+
+## <a name="22"></a>22. 特朗普执政以来美国对加拿大的威胁与加拿大的愤怒 
 <small>🔗 [writer.oliphant.social](https://writer.oliphant.social/oliphant/a-canadians-perspective-on-us-behavior-since-the-trump-regime-was-installed): A Canadian's Perspective on US Behavior Since the Trump Regime Was Installed</small>
 
 
@@ -263,23 +287,11 @@ Shift-To-Middle 数组是一种动态数组，旨在优化两端插入和删除�
 
 ---
 
-## <a name="21"></a>21. IBM CEO：AI短期内不会取代程序员 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/11/ibms-ceo-doesnt-think-ai-will-replace-programmers-anytime-soon/): IBM's CEO doesn't think AI will replace programmers anytime soon</small>
-
-
-| 🔥: 52 \| 💬: [73](https://news.ycombinator.com/item?id=43452421) \| 🗓️ 2025-03-23
-
-
-<br />
-IBM CEO Arvind Krishna在SXSW访谈中表示，**全球贸易**仍是美国经济增长的关键，并强调吸引国际人才的重要性。关于AI，他认为未来3-6年内，**AI可能编写20-30%的代码**，而非90%，且AI将提升程序员效率而非取代他们。他还指出，**量子计算**而非AI，将是推动科学发现的关键。
-
----
-
-## <a name="22"></a>22. VMware放弃小企业：72核许可政策引发强烈反对 
+## <a name="23"></a>23. VMware放弃小企业：72核许可政策引发强烈反对 
 <small>🔗 [systemadministration.net](https://systemadministration.net/vmware-turns-its-back-on-small-businesses-new-licensing-policies-trigger-industry-backlash/): VMware turns its back on small businesses: 72-core license policy backlash</small>
 
 
-| 🔥: 42 \| 💬: [33](https://news.ycombinator.com/item?id=43456885) \| 🗓️ 2025-03-23
+| 🔥: 42 \| 💬: [34](https://news.ycombinator.com/item?id=43456885) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -287,7 +299,7 @@ VMware近期推出的**72核许可政策**引发了小企业的强烈不满。�
 
 ---
 
-## <a name="23"></a>23. 前卫生部长领导的组织托管虚假CDC克隆网站 
+## <a name="24"></a>24. 前卫生部长领导的组织托管虚假CDC克隆网站 
 <small>🔗 [infoepi.substack.com](https://infoepi.substack.com/p/cdc-clone-site-rife-with-false-vaccine): CDC Clone Site Hosted by Group Previously Led by HHS Secretary</small>
 
 
@@ -299,26 +311,14 @@ VMware近期推出的**72核许可政策**引发了小企业的强烈不满。�
 
 ---
 
-## <a name="24"></a>24. Zero ASIC推出全球首个开源标准eFPGA，配备开源比特流和工具链 
+## <a name="25"></a>25. Zero ASIC推出全球首个开源标准eFPGA，配备开源比特流和工具链 
 <small>🔗 [zeroasic.com](https://www.zeroasic.com/blog/platypus-launch): Zero ASIC launches first open standard eFPGA /w open-source bitstream, toolchain</small>
 
 
-| 🔥: 31 \| 💬: [3](https://news.ycombinator.com/item?id=43455517) \| 🗓️ 2025-03-23
+| 🔥: 32 \| 💬: [3](https://news.ycombinator.com/item?id=43455517) \| 🗓️ 2025-03-23
 
 
 <br />
 Zero ASIC发布了**Platypus**，这是全球首个**开源标准eFPGA IP**产品，具备100%开放的FPGA架构、比特流格式和开发工具。该产品旨在解决FPGA在航空航天、国防等领域的**过时问题**，并推动FPGA标准化，类似于RISC-V在CPU设计中的革命性影响。Platypus现已面向早期客户开放，预计2025年第二季度全面推出。
-
----
-
-## <a name="25"></a>25. 奥巴马加入Bluesky 
-<small>🔗 [bsky.app](https://bsky.app/profile/barackobama.bsky.social): Obama joins Bluesky</small>
-
-
-| 🔥: 23 \| 💬: [0](https://news.ycombinator.com/item?id=43453106) \| 🗓️ 2025-03-23
-
-
-<br />
-前美国总统**奥巴马**正式加入**Bluesky**社交平台，其个人资料显示为“父亲、丈夫、总统、公民”。Bluesky是一个高度互动的网络应用，需要**JavaScript**支持。用户可以通过bsky.social和atproto.com了解更多关于Bluesky的信息。
 
 ---
