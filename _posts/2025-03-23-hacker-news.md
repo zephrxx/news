@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共21条，具体内容您往下读...
+总共23条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [dannorth.net](https://dannorth.net/the-worst-programmer/): The Worst Programmer I Know (2023)</small>
 
 
-| 🔥🔥: 299 \| 💬: [208](https://news.ycombinator.com/item?id=43452649) \| 🗓️ 2025-03-23
+| 🔥🔥: 311 \| 💬: [222](https://news.ycombinator.com/item?id=43452649) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [drumpatterns.onether.com](http://drumpatterns.onether.com): Show HN: I built website for sharing Drum Patterns</small>
 
 
-| 🔥🔥: 193 \| 💬: [66](https://news.ycombinator.com/item?id=43452629) \| 🗓️ 2025-03-23
+| 🔥🔥: 204 \| 💬: [70](https://news.ycombinator.com/item?id=43452629) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [righto.com](https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html): A USB Interface to the "Mother of All Demos" Keyset</small>
 
 
-| 🔥🔥: 189 \| 💬: [45](https://news.ycombinator.com/item?id=43453582) \| 🗓️ 2025-03-23
+| 🔥🔥: 194 \| 💬: [46](https://news.ycombinator.com/item?id=43453582) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [sel4.systems](https://sel4.systems/About/seL4-whitepaper.pdf): The SeL4 Microkernel: An Introduction [pdf]</small>
 
 
-| 🔥🔥: 173 \| 💬: [80](https://news.ycombinator.com/item?id=43452185) \| 🗓️ 2025-03-23
+| 🔥🔥: 178 \| 💬: [88](https://news.ycombinator.com/item?id=43452185) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -75,7 +75,7 @@ SeL4是一个**高性能、高安全性的微内核**，专为嵌入式系统和
 <small>🔗 [theverge.com](https://www.theverge.com/policy/634264/customs-border-protection-search-phone-airport-rights): Is it safe to travel to the United States with your phone?</small>
 
 
-| 🔥🔥: 154 \| 💬: [144](https://news.ycombinator.com/item?id=43452474) \| 🗓️ 2025-03-23
+| 🔥🔥: 156 \| 💬: [146](https://news.ycombinator.com/item?id=43452474) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -87,7 +87,7 @@ SeL4是一个**高性能、高安全性的微内核**，专为嵌入式系统和
 <small>🔗 [github.com](https://github.com/tdewolff/argp): argp: GNU-style command line argument parser for Go</small>
 
 
-| 🔥🔥: 136 \| 💬: [61](https://news.ycombinator.com/item?id=43452525) \| 🗓️ 2025-03-23
+| 🔥🔥: 138 \| 💬: [62](https://news.ycombinator.com/item?id=43452525) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -99,7 +99,7 @@ argp 是一个遵循 **GNU 标准**的命令行参数解析器，专为 Go 语�
 <small>🔗 [simonschreibt.de](https://simonschreibt.de/gat/homeworld-2-backgrounds/): Technicalities of Homeworld 2 Backgrounds</small>
 
 
-| 🔥🔥: 127 \| 💬: [35](https://news.ycombinator.com/item?id=43452688) \| 🗓️ 2025-03-23
+| 🔥🔥: 134 \| 💬: [35](https://news.ycombinator.com/item?id=43452688) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -107,59 +107,11 @@ argp 是一个遵循 **GNU 标准**的命令行参数解析器，专为 Go 语�
 
 ---
 
-## <a name="8"></a>8. 多线程进入关键代码段的案例 
-<small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20250321-00/?p=110984): The case of the critical section that let multiple threads enter a block of code</small>
-
-
-| 🔥🔥: 105 \| 💬: [70](https://news.ycombinator.com/item?id=43451525) \| 🗓️ 2025-03-23
-
-
-<br />
-在一次调试会话中，团队发现**关键段**未能阻止多个线程进入同一代码块，导致崩溃。问题根源在于**RTL_RUN_ONCE**初始化函数错误地返回了`STATUS_SUCCESS`（值为0），而`RtlRunOnceExecuteOnce`期望返回非零值表示成功。这导致每次调用时都重新初始化关键段，使其失效。最终，建议改用**SRWLOCK**来简化代码并解决问题。
-
----
-
-## <a name="9"></a>9. 用Safari实现卓越隐私保护 
-<small>🔗 [matanabudy.com](https://matanabudy.com/achieving-great-privacy-with-safari/): Achieving Great Privacy with Safari</small>
-
-
-| 🔥: 88 \| 💬: [45](https://news.ycombinator.com/item?id=43453350) \| 🗓️ 2025-03-23
-
-
-<br />
-作者分享了自己如何通过Safari保护隐私，推荐了**iCloud Private Relay**、**Wipr**、**StopTheMadness Pro**和**Hush**等工具。这些工具隐藏IP地址、加密DNS查询、屏蔽广告和弹窗，并通过EFF测试验证了其强大的隐私保护效果。虽然其他浏览器如Firefox和Brave也有隐私功能，但作者对Safari的配置感到满意。
-
----
-
-## <a name="10"></a>10. 美国正在见证双重国家的崛起 
-<small>🔗 [theatlantic.com](https://www.theatlantic.com/magazine/archive/2025/05/trump-executive-order-lawlessness-constitutional-crisis/682112/): America Is Watching the Rise of a Dual State</small>
-
-
-| 🔥: 83 \| 💬: [27](https://news.ycombinator.com/item?id=43454004) \| 🗓️ 2025-03-23
-
-
-<br />
-文章探讨了**双重国家**的概念，源自犹太律师恩斯特·弗伦克尔在纳粹德国时期的著作《双重国家》。弗伦克尔指出，纳粹政权在维持资本主义经济和日常法律秩序的同时，建立了一个**特权国家**，允许无限制的暴力和任意行为。如今，美国也出现了类似趋势，特朗普政府试图通过一系列措施构建一个不受法律约束的特权领域，威胁到**规范性国家**的稳定。这种双重国家的危险在于其针对性的压制能力，可能逐步侵蚀法治。
-
----
-
-## <a name="11"></a>11. AI的“苦涩教训”：算力胜过精巧设计 
-<small>🔗 [ankitmaloo.com](https://ankitmaloo.com/bitter-lesson/): Bitter Lesson is about AI agents</small>
-
-
-| 🔥: 81 \| 💬: [40](https://news.ycombinator.com/item?id=43451742) \| 🗓️ 2025-03-23
-
-
-<br />
-Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂的人工设计更能推动AI进步。通过**强化学习（RL）**，AI系统能够通过大量计算资源自主探索并发现新的解决方案，而非依赖预设规则。未来，AI工程师的角色将转向设计能够有效利用**大规模计算资源**的系统，而非过度优化算法。
-
----
-
-## <a name="12"></a>12. iOS 应用：10 年经典，视奏训练神器 
+## <a name="8"></a>8. iOS 应用：10 年经典，视奏训练神器 
 <small>🔗 [apps.apple.com](https://apps.apple.com/us/app/notes-sight-reading-trainer/id874386416): Show HN: My iOS app to practice sight reading (10 years in the App Store)</small>
 
 
-| 🔥: 78 \| 💬: [34](https://news.ycombinator.com/item?id=43456030) \| 🗓️ 2025-03-23
+| 🔥🔥: 107 \| 💬: [40](https://news.ycombinator.com/item?id=43456030) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -167,11 +119,59 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 
 ---
 
+## <a name="9"></a>9. 多线程进入关键代码段的案例 
+<small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20250321-00/?p=110984): The case of the critical section that let multiple threads enter a block of code</small>
+
+
+| 🔥🔥: 106 \| 💬: [72](https://news.ycombinator.com/item?id=43451525) \| 🗓️ 2025-03-23
+
+
+<br />
+在一次调试会话中，团队发现**关键段**未能阻止多个线程进入同一代码块，导致崩溃。问题根源在于**RTL_RUN_ONCE**初始化函数错误地返回了`STATUS_SUCCESS`（值为0），而`RtlRunOnceExecuteOnce`期望返回非零值表示成功。这导致每次调用时都重新初始化关键段，使其失效。最终，建议改用**SRWLOCK**来简化代码并解决问题。
+
+---
+
+## <a name="10"></a>10. AI的“苦涩教训”：算力胜过精巧设计 
+<small>🔗 [ankitmaloo.com](https://ankitmaloo.com/bitter-lesson/): Bitter Lesson is about AI agents</small>
+
+
+| 🔥: 94 \| 💬: [49](https://news.ycombinator.com/item?id=43451742) \| 🗓️ 2025-03-23
+
+
+<br />
+Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂的人工设计更能推动AI进步。通过**强化学习（RL）**，AI系统能够通过大量计算资源自主探索并发现新的解决方案，而非依赖预设规则。未来，AI工程师的角色将转向设计能够有效利用**大规模计算资源**的系统，而非过度优化算法。
+
+---
+
+## <a name="11"></a>11. 用Safari实现卓越隐私保护 
+<small>🔗 [matanabudy.com](https://matanabudy.com/achieving-great-privacy-with-safari/): Achieving Great Privacy with Safari</small>
+
+
+| 🔥: 91 \| 💬: [48](https://news.ycombinator.com/item?id=43453350) \| 🗓️ 2025-03-23
+
+
+<br />
+作者分享了自己如何通过Safari保护隐私，推荐了**iCloud Private Relay**、**Wipr**、**StopTheMadness Pro**和**Hush**等工具。这些工具隐藏IP地址、加密DNS查询、屏蔽广告和弹窗，并通过EFF测试验证了其强大的隐私保护效果。虽然其他浏览器如Firefox和Brave也有隐私功能，但作者对Safari的配置感到满意。
+
+---
+
+## <a name="12"></a>12. 美国正在见证双重国家的崛起 
+<small>🔗 [theatlantic.com](https://www.theatlantic.com/magazine/archive/2025/05/trump-executive-order-lawlessness-constitutional-crisis/682112/): America Is Watching the Rise of a Dual State</small>
+
+
+| 🔥: 84 \| 💬: [27](https://news.ycombinator.com/item?id=43454004) \| 🗓️ 2025-03-23
+
+
+<br />
+文章探讨了**双重国家**的概念，源自犹太律师恩斯特·弗伦克尔在纳粹德国时期的著作《双重国家》。弗伦克尔指出，纳粹政权在维持资本主义经济和日常法律秩序的同时，建立了一个**特权国家**，允许无限制的暴力和任意行为。如今，美国也出现了类似趋势，特朗普政府试图通过一系列措施构建一个不受法律约束的特权领域，威胁到**规范性国家**的稳定。这种双重国家的危险在于其针对性的压制能力，可能逐步侵蚀法治。
+
+---
+
 ## <a name="13"></a>13. 德国投入巨额资金加强军备，应对地缘政治挑战 
 <small>🔗 [cnn.com](https://www.cnn.com/2025/03/23/europe/germany-military-investment-intl/index.html): Germany is unlocking billions to supercharge its military at a seismic moment</small>
 
 
-| 🔥: 73 \| 💬: [172](https://news.ycombinator.com/item?id=43454383) \| 🗓️ 2025-03-23
+| 🔥: 74 \| 💬: [176](https://news.ycombinator.com/item?id=43454383) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -183,7 +183,7 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 <small>🔗 [scotthyoung.com](https://www.scotthyoung.com/blog/2025/03/18/8-books-on-making-friends/): Books on Making and Maintaining Friendships</small>
 
 
-| 🔥: 69 \| 💬: [28](https://news.ycombinator.com/item?id=43454898) \| 🗓️ 2025-03-23
+| 🔥: 69 \| 💬: [29](https://news.ycombinator.com/item?id=43454898) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -195,7 +195,7 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 <small>🔗 [orgelstadt-hamburg.de](https://www.orgelstadt-hamburg.de/play-arp/): Play the Virtual Organ from Arp Schnitger</small>
 
 
-| 🔥: 64 \| 💬: [8](https://news.ycombinator.com/item?id=43454785) \| 🗓️ 2025-03-23
+| 🔥: 66 \| 💬: [8](https://news.ycombinator.com/item?id=43454785) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -207,7 +207,7 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 <small>🔗 [annievella.com](https://annievella.com/posts/the-software-engineering-identity-crisis/): The Software Engineering Identity Crisis</small>
 
 
-| 🔥: 56 \| 💬: [37](https://news.ycombinator.com/item?id=43454816) \| 🗓️ 2025-03-23
+| 🔥: 57 \| 💬: [38](https://news.ycombinator.com/item?id=43454816) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -227,23 +227,11 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 
 ---
 
-## <a name="18"></a>18. IBM CEO：AI短期内不会取代程序员 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/11/ibms-ceo-doesnt-think-ai-will-replace-programmers-anytime-soon/): IBM's CEO doesn't think AI will replace programmers anytime soon</small>
-
-
-| 🔥: 44 \| 💬: [71](https://news.ycombinator.com/item?id=43452421) \| 🗓️ 2025-03-23
-
-
-<br />
-IBM CEO Arvind Krishna在SXSW访谈中表示，**全球贸易**仍是美国经济增长的关键，并强调吸引国际人才的重要性。关于AI，他认为未来3-6年内，**AI可能编写20-30%的代码**，而非90%，且AI将提升程序员效率而非取代他们。他还指出，**量子计算**而非AI，将是推动科学发现的关键。
-
----
-
-## <a name="19"></a>19. 神奇细菌的简史 
+## <a name="18"></a>18. 神奇细菌的简史 
 <small>🔗 [asimov.press](https://www.asimov.press/p/miracle-bacterium): A Brief History of the Miracle Bacterium</small>
 
 
-| 🔥: 44 \| 💬: [3](https://news.ycombinator.com/item?id=43453769) \| 🗓️ 2025-03-23
+| 🔥: 47 \| 💬: [4](https://news.ycombinator.com/item?id=43453769) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -251,7 +239,31 @@ IBM CEO Arvind Krishna在SXSW访谈中表示，**全球贸易**仍是美国经�
 
 ---
 
-## <a name="20"></a>20. 前卫生部长领导的组织托管虚假CDC克隆网站 
+## <a name="19"></a>19. IBM CEO：AI短期内不会取代程序员 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/11/ibms-ceo-doesnt-think-ai-will-replace-programmers-anytime-soon/): IBM's CEO doesn't think AI will replace programmers anytime soon</small>
+
+
+| 🔥: 45 \| 💬: [71](https://news.ycombinator.com/item?id=43452421) \| 🗓️ 2025-03-23
+
+
+<br />
+IBM CEO Arvind Krishna在SXSW访谈中表示，**全球贸易**仍是美国经济增长的关键，并强调吸引国际人才的重要性。关于AI，他认为未来3-6年内，**AI可能编写20-30%的代码**，而非90%，且AI将提升程序员效率而非取代他们。他还指出，**量子计算**而非AI，将是推动科学发现的关键。
+
+---
+
+## <a name="20"></a>20. RDNA 4的“乱序”内存访问改进 
+<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses): RDNA 4's "Out-of-Order" Memory Accesses</small>
+
+
+| 🔥: 34 \| 💬: [4](https://news.ycombinator.com/item?id=43456341) \| 🗓️ 2025-03-23
+
+
+<br />
+AMD的RDNA 4架构在内存子系统上进行了显著优化，特别是引入了**乱序内存访问**机制。与RDNA 3不同，RDNA 4允许不同着色器波（wave）的内存请求独立完成，消除了跨波的内存访问依赖问题。这一改进通过**新增的乱序队列**实现，提升了多线程性能，尤其在光线追踪等复杂工作负载中表现突出。测试表明，RDNA 4的内存访问延迟更少，性能更稳定。
+
+---
+
+## <a name="21"></a>21. 前卫生部长领导的组织托管虚假CDC克隆网站 
 <small>🔗 [infoepi.substack.com](https://infoepi.substack.com/p/cdc-clone-site-rife-with-false-vaccine): CDC Clone Site Hosted by Group Previously Led by HHS Secretary</small>
 
 
@@ -263,7 +275,19 @@ IBM CEO Arvind Krishna在SXSW访谈中表示，**全球贸易**仍是美国经�
 
 ---
 
-## <a name="21"></a>21. 奥巴马加入Bluesky 
+## <a name="22"></a>22. Zero ASIC推出全球首个开源标准eFPGA，配备开源比特流和工具链 
+<small>🔗 [zeroasic.com](https://www.zeroasic.com/blog/platypus-launch): Zero ASIC launches first open standard eFPGA /w open-source bitstream, toolchain</small>
+
+
+| 🔥: 27 \| 💬: [1](https://news.ycombinator.com/item?id=43455517) \| 🗓️ 2025-03-23
+
+
+<br />
+Zero ASIC发布了**Platypus**，这是全球首个**开源标准eFPGA IP**产品，具备100%开放的FPGA架构、比特流格式和开发工具。该产品旨在解决FPGA在航空航天、国防等领域的**过时问题**，并推动FPGA标准化，类似于RISC-V在CPU设计中的革命性影响。Platypus现已面向早期客户开放，预计2025年第二季度全面推出。
+
+---
+
+## <a name="23"></a>23. 奥巴马加入Bluesky 
 <small>🔗 [bsky.app](https://bsky.app/profile/barackobama.bsky.social): Obama joins Bluesky</small>
 
 
