@@ -27,7 +27,7 @@ tags:
 <small>🔗 [dannorth.net](https://dannorth.net/the-worst-programmer/): The Worst Programmer I Know (2023)</small>
 
 
-| 🔥🔥: 366 \| 💬: [261](https://news.ycombinator.com/item?id=43452649) \| 🗓️ 2025-03-23
+| 🔥🔥: 374 \| 💬: [264](https://news.ycombinator.com/item?id=43452649) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [drumpatterns.onether.com](http://drumpatterns.onether.com): Show HN: I built website for sharing Drum Patterns</small>
 
 
-| 🔥🔥: 254 \| 💬: [91](https://news.ycombinator.com/item?id=43452629) \| 🗓️ 2025-03-23
+| 🔥🔥: 261 \| 💬: [92](https://news.ycombinator.com/item?id=43452629) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [righto.com](https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html): A USB Interface to the "Mother of All Demos" Keyset</small>
 
 
-| 🔥🔥: 231 \| 💬: [59](https://news.ycombinator.com/item?id=43453582) \| 🗓️ 2025-03-23
+| 🔥🔥: 233 \| 💬: [61](https://news.ycombinator.com/item?id=43453582) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [sel4.systems](https://sel4.systems/About/seL4-whitepaper.pdf): The SeL4 Microkernel: An Introduction [pdf]</small>
 
 
-| 🔥🔥: 196 \| 💬: [105](https://news.ycombinator.com/item?id=43452185) \| 🗓️ 2025-03-23
+| 🔥🔥: 200 \| 💬: [106](https://news.ycombinator.com/item?id=43452185) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -75,7 +75,7 @@ SeL4是一个**高性能、高安全性的微内核**，专为嵌入式系统和
 <small>🔗 [apps.apple.com](https://apps.apple.com/us/app/notes-sight-reading-trainer/id874386416): Show HN: My iOS app to practice sight reading (10 years in the App Store)</small>
 
 
-| 🔥🔥: 173 \| 💬: [68](https://news.ycombinator.com/item?id=43456030) \| 🗓️ 2025-03-23
+| 🔥🔥: 181 \| 💬: [68](https://news.ycombinator.com/item?id=43456030) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -99,7 +99,7 @@ SeL4是一个**高性能、高安全性的微内核**，专为嵌入式系统和
 <small>🔗 [simonschreibt.de](https://simonschreibt.de/gat/homeworld-2-backgrounds/): Technicalities of Homeworld 2 Backgrounds</small>
 
 
-| 🔥🔥: 154 \| 💬: [45](https://news.ycombinator.com/item?id=43452688) \| 🗓️ 2025-03-23
+| 🔥🔥: 155 \| 💬: [45](https://news.ycombinator.com/item?id=43452688) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -111,7 +111,7 @@ SeL4是一个**高性能、高安全性的微内核**，专为嵌入式系统和
 <small>🔗 [github.com](https://github.com/tdewolff/argp): argp: GNU-style command line argument parser for Go</small>
 
 
-| 🔥🔥: 150 \| 💬: [65](https://news.ycombinator.com/item?id=43452525) \| 🗓️ 2025-03-23
+| 🔥🔥: 152 \| 💬: [65](https://news.ycombinator.com/item?id=43452525) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -123,7 +123,7 @@ argp 是一个遵循 **GNU 标准**的命令行参数解析器，专为 Go 语�
 <small>🔗 [ankitmaloo.com](https://ankitmaloo.com/bitter-lesson/): Bitter Lesson is about AI agents</small>
 
 
-| 🔥🔥: 114 \| 💬: [71](https://news.ycombinator.com/item?id=43451742) \| 🗓️ 2025-03-23
+| 🔥🔥: 116 \| 💬: [72](https://news.ycombinator.com/item?id=43451742) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -131,23 +131,11 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 
 ---
 
-## <a name="10"></a>10. 多线程进入关键代码段的案例 
-<small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20250321-00/?p=110984): The case of the critical section that let multiple threads enter a block of code</small>
-
-
-| 🔥🔥: 113 \| 💬: [81](https://news.ycombinator.com/item?id=43451525) \| 🗓️ 2025-03-23
-
-
-<br />
-在一次调试会话中，团队发现**关键段**未能阻止多个线程进入同一代码块，导致崩溃。问题根源在于**RTL_RUN_ONCE**初始化函数错误地返回了`STATUS_SUCCESS`（值为0），而`RtlRunOnceExecuteOnce`期望返回非零值表示成功。这导致每次调用时都重新初始化关键段，使其失效。最终，建议改用**SRWLOCK**来简化代码并解决问题。
-
----
-
-## <a name="11"></a>11. RDNA 4的“乱序”内存访问改进 
+## <a name="10"></a>10. RDNA 4的“乱序”内存访问改进 
 <small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses): RDNA 4's “Out-of-Order” Memory Accesses</small>
 
 
-| 🔥🔥: 107 \| 💬: [8](https://news.ycombinator.com/item?id=43456341) \| 🗓️ 2025-03-23
+| 🔥🔥: 115 \| 💬: [9](https://news.ycombinator.com/item?id=43456341) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -155,11 +143,23 @@ AMD的RDNA 4架构在内存子系统上进行了显著优化，特别是引入�
 
 ---
 
+## <a name="11"></a>11. 多线程进入关键代码段的案例 
+<small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20250321-00/?p=110984): The case of the critical section that let multiple threads enter a block of code</small>
+
+
+| 🔥🔥: 113 \| 💬: [82](https://news.ycombinator.com/item?id=43451525) \| 🗓️ 2025-03-23
+
+
+<br />
+在一次调试会话中，团队发现**关键段**未能阻止多个线程进入同一代码块，导致崩溃。问题根源在于**RTL_RUN_ONCE**初始化函数错误地返回了`STATUS_SUCCESS`（值为0），而`RtlRunOnceExecuteOnce`期望返回非零值表示成功。这导致每次调用时都重新初始化关键段，使其失效。最终，建议改用**SRWLOCK**来简化代码并解决问题。
+
+---
+
 ## <a name="12"></a>12. 用Safari实现卓越隐私保护 
 <small>🔗 [matanabudy.com](https://matanabudy.com/achieving-great-privacy-with-safari/): Achieving Great Privacy with Safari</small>
 
 
-| 🔥🔥: 104 \| 💬: [52](https://news.ycombinator.com/item?id=43453350) \| 🗓️ 2025-03-23
+| 🔥🔥: 105 \| 💬: [52](https://news.ycombinator.com/item?id=43453350) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -171,7 +171,7 @@ AMD的RDNA 4架构在内存子系统上进行了显著优化，特别是引入�
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/magazine/archive/2025/05/trump-executive-order-lawlessness-constitutional-crisis/682112/): America Is Watching the Rise of a Dual State</small>
 
 
-| 🔥: 93 \| 💬: [35](https://news.ycombinator.com/item?id=43454004) \| 🗓️ 2025-03-23
+| 🔥: 94 \| 💬: [35](https://news.ycombinator.com/item?id=43454004) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -183,7 +183,7 @@ AMD的RDNA 4架构在内存子系统上进行了显著优化，特别是引入�
 <small>🔗 [orgelstadt-hamburg.de](https://www.orgelstadt-hamburg.de/play-arp/): Play the Virtual Organ from Arp Schnitger</small>
 
 
-| 🔥: 87 \| 💬: [13](https://news.ycombinator.com/item?id=43454785) \| 🗓️ 2025-03-23
+| 🔥: 92 \| 💬: [14](https://news.ycombinator.com/item?id=43454785) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -195,7 +195,7 @@ AMD的RDNA 4架构在内存子系统上进行了显著优化，特别是引入�
 <small>🔗 [cnn.com](https://www.cnn.com/2025/03/23/europe/germany-military-investment-intl/index.html): Germany is unlocking billions to supercharge its military at a seismic moment</small>
 
 
-| 🔥: 80 \| 💬: [185](https://news.ycombinator.com/item?id=43454383) \| 🗓️ 2025-03-23
+| 🔥: 81 \| 💬: [186](https://news.ycombinator.com/item?id=43454383) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -207,7 +207,7 @@ AMD的RDNA 4架构在内存子系统上进行了显著优化，特别是引入�
 <small>🔗 [github.com](https://github.com/attilatorda/Shift-To-Middle_Array): Shift-to-Middle Array: A Faster Alternative to Std:Deque?</small>
 
 
-| 🔥: 72 \| 💬: [50](https://news.ycombinator.com/item?id=43456669) \| 🗓️ 2025-03-23
+| 🔥: 76 \| 💬: [52](https://news.ycombinator.com/item?id=43456669) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -215,7 +215,19 @@ Shift-To-Middle 数组是一种动态数组，旨在优化两端插入和删除�
 
 ---
 
-## <a name="17"></a>17. 如何建立与维护友谊：八本书的精华总结 
+## <a name="17"></a>17. 使用Quadlet在systemd下运行Podman容器 
+<small>🔗 [mo8it.com](https://mo8it.com/blog/quadlet/): Quadlet: Running Podman containers under systemd</small>
+
+
+| 🔥: 72 \| 💬: [18](https://news.ycombinator.com/item?id=43456934) \| 🗓️ 2025-03-23
+
+
+<br />
+Quadlet允许将Podman容器作为systemd服务运行，特别适合在后台运行容器并在服务器重启后自动启动。相比旧的`podman generate systemd`方法，Quadlet更灵活且强大，支持通过`.container`文件配置容器，简化了管理流程。**Quadlet**不仅减少了冗余命令，还支持systemd的所有功能，如依赖管理和自动更新。通过`podman auto-update`，容器镜像可以自动更新并重启，进一步提升了管理效率。
+
+---
+
+## <a name="18"></a>18. 如何建立与维护友谊：八本书的精华总结 
 <small>🔗 [scotthyoung.com](https://www.scotthyoung.com/blog/2025/03/18/8-books-on-making-friends/): Books on Making and Maintaining Friendships</small>
 
 
@@ -227,11 +239,11 @@ Shift-To-Middle 数组是一种动态数组，旨在优化两端插入和删除�
 
 ---
 
-## <a name="18"></a>18. 软件工程师的身份危机 
+## <a name="19"></a>19. 软件工程师的身份危机 
 <small>🔗 [annievella.com](https://annievella.com/posts/the-software-engineering-identity-crisis/): The Software Engineering Identity Crisis</small>
 
 
-| 🔥: 61 \| 💬: [43](https://news.ycombinator.com/item?id=43454816) \| 🗓️ 2025-03-23
+| 🔥: 63 \| 💬: [46](https://news.ycombinator.com/item?id=43454816) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -239,11 +251,11 @@ Shift-To-Middle 数组是一种动态数组，旨在优化两端插入和删除�
 
 ---
 
-## <a name="19"></a>19. 神奇细菌的简史 
+## <a name="20"></a>20. 神奇细菌的简史 
 <small>🔗 [asimov.press](https://www.asimov.press/p/miracle-bacterium): A Brief History of the Miracle Bacterium</small>
 
 
-| 🔥: 54 \| 💬: [5](https://news.ycombinator.com/item?id=43453769) \| 🗓️ 2025-03-23
+| 🔥: 58 \| 💬: [5](https://news.ycombinator.com/item?id=43453769) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -251,23 +263,11 @@ Shift-To-Middle 数组是一种动态数组，旨在优化两端插入和删除�
 
 ---
 
-## <a name="20"></a>20. 使用Quadlet在systemd下运行Podman容器 
-<small>🔗 [mo8it.com](https://mo8it.com/blog/quadlet/): Quadlet: Running Podman containers under systemd</small>
-
-
-| 🔥: 54 \| 💬: [8](https://news.ycombinator.com/item?id=43456934) \| 🗓️ 2025-03-23
-
-
-<br />
-Quadlet允许将Podman容器作为systemd服务运行，特别适合在后台运行容器并在服务器重启后自动启动。相比旧的`podman generate systemd`方法，Quadlet更灵活且强大，支持通过`.container`文件配置容器，简化了管理流程。**Quadlet**不仅减少了冗余命令，还支持systemd的所有功能，如依赖管理和自动更新。通过`podman auto-update`，容器镜像可以自动更新并重启，进一步提升了管理效率。
-
----
-
 ## <a name="21"></a>21. IBM CEO：AI短期内不会取代程序员 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/11/ibms-ceo-doesnt-think-ai-will-replace-programmers-anytime-soon/): IBM's CEO doesn't think AI will replace programmers anytime soon</small>
 
 
-| 🔥: 53 \| 💬: [73](https://news.ycombinator.com/item?id=43452421) \| 🗓️ 2025-03-23
+| 🔥: 54 \| 💬: [74](https://news.ycombinator.com/item?id=43452421) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -299,7 +299,19 @@ VMware近期推出的**72核许可政策**引发了小企业的强烈不满。�
 
 ---
 
-## <a name="24"></a>24. 前卫生部长领导的组织托管虚假CDC克隆网站 
+## <a name="24"></a>24. Zero ASIC推出全球首个开源标准eFPGA，配备开源比特流和工具链 
+<small>🔗 [zeroasic.com](https://www.zeroasic.com/blog/platypus-launch): Zero ASIC launches first open standard eFPGA /w open-source bitstream, toolchain</small>
+
+
+| 🔥: 33 \| 💬: [3](https://news.ycombinator.com/item?id=43455517) \| 🗓️ 2025-03-23
+
+
+<br />
+Zero ASIC发布了**Platypus**，这是全球首个**开源标准eFPGA IP**产品，具备100%开放的FPGA架构、比特流格式和开发工具。该产品旨在解决FPGA在航空航天、国防等领域的**过时问题**，并推动FPGA标准化，类似于RISC-V在CPU设计中的革命性影响。Platypus现已面向早期客户开放，预计2025年第二季度全面推出。
+
+---
+
+## <a name="25"></a>25. 前卫生部长领导的组织托管虚假CDC克隆网站 
 <small>🔗 [infoepi.substack.com](https://infoepi.substack.com/p/cdc-clone-site-rife-with-false-vaccine): CDC Clone Site Hosted by Group Previously Led by HHS Secretary</small>
 
 
@@ -308,17 +320,5 @@ VMware近期推出的**72核许可政策**引发了小企业的强烈不满。�
 
 <br />
 一个由前卫生部长领导的非政府组织托管了一个**虚假CDC克隆网站**，该网站充斥着**误导性疫苗信息**，并使用CDC标志和社交媒体链接，可能违反联邦法律。该网站模仿CDC设计，传播疫苗与自闭症相关的错误信息，引发法律和道德争议。
-
----
-
-## <a name="25"></a>25. Zero ASIC推出全球首个开源标准eFPGA，配备开源比特流和工具链 
-<small>🔗 [zeroasic.com](https://www.zeroasic.com/blog/platypus-launch): Zero ASIC launches first open standard eFPGA /w open-source bitstream, toolchain</small>
-
-
-| 🔥: 32 \| 💬: [3](https://news.ycombinator.com/item?id=43455517) \| 🗓️ 2025-03-23
-
-
-<br />
-Zero ASIC发布了**Platypus**，这是全球首个**开源标准eFPGA IP**产品，具备100%开放的FPGA架构、比特流格式和开发工具。该产品旨在解决FPGA在航空航天、国防等领域的**过时问题**，并推动FPGA标准化，类似于RISC-V在CPU设计中的革命性影响。Platypus现已面向早期客户开放，预计2025年第二季度全面推出。
 
 ---
