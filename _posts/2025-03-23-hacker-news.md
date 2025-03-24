@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [dannorth.net](https://dannorth.net/the-worst-programmer/): The Worst Programmer I Know (2023)</small>
 
 
-| 🔥🔥: 311 \| 💬: [222](https://news.ycombinator.com/item?id=43452649) \| 🗓️ 2025-03-23
+| 🔥🔥: 319 \| 💬: [233](https://news.ycombinator.com/item?id=43452649) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [drumpatterns.onether.com](http://drumpatterns.onether.com): Show HN: I built website for sharing Drum Patterns</small>
 
 
-| 🔥🔥: 204 \| 💬: [70](https://news.ycombinator.com/item?id=43452629) \| 🗓️ 2025-03-23
+| 🔥🔥: 219 \| 💬: [77](https://news.ycombinator.com/item?id=43452629) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [righto.com](https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html): A USB Interface to the "Mother of All Demos" Keyset</small>
 
 
-| 🔥🔥: 194 \| 💬: [46](https://news.ycombinator.com/item?id=43453582) \| 🗓️ 2025-03-23
+| 🔥🔥: 205 \| 💬: [47](https://news.ycombinator.com/item?id=43453582) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [sel4.systems](https://sel4.systems/About/seL4-whitepaper.pdf): The SeL4 Microkernel: An Introduction [pdf]</small>
 
 
-| 🔥🔥: 178 \| 💬: [88](https://news.ycombinator.com/item?id=43452185) \| 🗓️ 2025-03-23
+| 🔥🔥: 183 \| 💬: [98](https://news.ycombinator.com/item?id=43452185) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -75,7 +75,7 @@ SeL4是一个**高性能、高安全性的微内核**，专为嵌入式系统和
 <small>🔗 [theverge.com](https://www.theverge.com/policy/634264/customs-border-protection-search-phone-airport-rights): Is it safe to travel to the United States with your phone?</small>
 
 
-| 🔥🔥: 156 \| 💬: [146](https://news.ycombinator.com/item?id=43452474) \| 🗓️ 2025-03-23
+| 🔥🔥: 158 \| 💬: [146](https://news.ycombinator.com/item?id=43452474) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -87,7 +87,7 @@ SeL4是一个**高性能、高安全性的微内核**，专为嵌入式系统和
 <small>🔗 [github.com](https://github.com/tdewolff/argp): argp: GNU-style command line argument parser for Go</small>
 
 
-| 🔥🔥: 138 \| 💬: [62](https://news.ycombinator.com/item?id=43452525) \| 🗓️ 2025-03-23
+| 🔥🔥: 140 \| 💬: [62](https://news.ycombinator.com/item?id=43452525) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -99,7 +99,7 @@ argp 是一个遵循 **GNU 标准**的命令行参数解析器，专为 Go 语�
 <small>🔗 [simonschreibt.de](https://simonschreibt.de/gat/homeworld-2-backgrounds/): Technicalities of Homeworld 2 Backgrounds</small>
 
 
-| 🔥🔥: 134 \| 💬: [35](https://news.ycombinator.com/item?id=43452688) \| 🗓️ 2025-03-23
+| 🔥🔥: 138 \| 💬: [37](https://news.ycombinator.com/item?id=43452688) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -111,7 +111,7 @@ argp 是一个遵循 **GNU 标准**的命令行参数解析器，专为 Go 语�
 <small>🔗 [apps.apple.com](https://apps.apple.com/us/app/notes-sight-reading-trainer/id874386416): Show HN: My iOS app to practice sight reading (10 years in the App Store)</small>
 
 
-| 🔥🔥: 107 \| 💬: [40](https://news.ycombinator.com/item?id=43456030) \| 🗓️ 2025-03-23
+| 🔥🔥: 120 \| 💬: [49](https://news.ycombinator.com/item?id=43456030) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -123,7 +123,7 @@ argp 是一个遵循 **GNU 标准**的命令行参数解析器，专为 Go 语�
 <small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20250321-00/?p=110984): The case of the critical section that let multiple threads enter a block of code</small>
 
 
-| 🔥🔥: 106 \| 💬: [72](https://news.ycombinator.com/item?id=43451525) \| 🗓️ 2025-03-23
+| 🔥🔥: 108 \| 💬: [74](https://news.ycombinator.com/item?id=43451525) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -135,7 +135,7 @@ argp 是一个遵循 **GNU 标准**的命令行参数解析器，专为 Go 语�
 <small>🔗 [ankitmaloo.com](https://ankitmaloo.com/bitter-lesson/): Bitter Lesson is about AI agents</small>
 
 
-| 🔥: 94 \| 💬: [49](https://news.ycombinator.com/item?id=43451742) \| 🗓️ 2025-03-23
+| 🔥🔥: 101 \| 💬: [56](https://news.ycombinator.com/item?id=43451742) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -147,7 +147,7 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 <small>🔗 [matanabudy.com](https://matanabudy.com/achieving-great-privacy-with-safari/): Achieving Great Privacy with Safari</small>
 
 
-| 🔥: 91 \| 💬: [48](https://news.ycombinator.com/item?id=43453350) \| 🗓️ 2025-03-23
+| 🔥: 95 \| 💬: [51](https://news.ycombinator.com/item?id=43453350) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -159,7 +159,7 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/magazine/archive/2025/05/trump-executive-order-lawlessness-constitutional-crisis/682112/): America Is Watching the Rise of a Dual State</small>
 
 
-| 🔥: 84 \| 💬: [27](https://news.ycombinator.com/item?id=43454004) \| 🗓️ 2025-03-23
+| 🔥: 85 \| 💬: [27](https://news.ycombinator.com/item?id=43454004) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -179,23 +179,11 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 
 ---
 
-## <a name="14"></a>14. 如何建立与维护友谊：八本书的精华总结 
-<small>🔗 [scotthyoung.com](https://www.scotthyoung.com/blog/2025/03/18/8-books-on-making-friends/): Books on Making and Maintaining Friendships</small>
-
-
-| 🔥: 69 \| 💬: [29](https://news.ycombinator.com/item?id=43454898) \| 🗓️ 2025-03-23
-
-
-<br />
-在为期一年的“基础项目”中，作者专注于**友谊的建立与维护**，并阅读了八本相关书籍。**关键点**包括：**深厚的友谊需要60小时以上的面对面接触**，**弱关系在职业机会中同样重要**，以及**健康与社交网络的紧密联系**。此外，书籍探讨了沟通技巧、社交活动的策划以及社会资本的衰退对民主的影响。这些书籍不仅提供了实用的建议，还揭示了友谊对个人和社会的深远影响。
-
----
-
-## <a name="15"></a>15. 体验世界级巴洛克管风琴的魅力 
+## <a name="14"></a>14. 体验世界级巴洛克管风琴的魅力 
 <small>🔗 [orgelstadt-hamburg.de](https://www.orgelstadt-hamburg.de/play-arp/): Play the Virtual Organ from Arp Schnitger</small>
 
 
-| 🔥: 66 \| 💬: [8](https://news.ycombinator.com/item?id=43454785) \| 🗓️ 2025-03-23
+| 🔥: 73 \| 💬: [9](https://news.ycombinator.com/item?id=43454785) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -203,11 +191,23 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 
 ---
 
+## <a name="15"></a>15. 如何建立与维护友谊：八本书的精华总结 
+<small>🔗 [scotthyoung.com](https://www.scotthyoung.com/blog/2025/03/18/8-books-on-making-friends/): Books on Making and Maintaining Friendships</small>
+
+
+| 🔥: 71 \| 💬: [30](https://news.ycombinator.com/item?id=43454898) \| 🗓️ 2025-03-23
+
+
+<br />
+在为期一年的“基础项目”中，作者专注于**友谊的建立与维护**，并阅读了八本相关书籍。**关键点**包括：**深厚的友谊需要60小时以上的面对面接触**，**弱关系在职业机会中同样重要**，以及**健康与社交网络的紧密联系**。此外，书籍探讨了沟通技巧、社交活动的策划以及社会资本的衰退对民主的影响。这些书籍不仅提供了实用的建议，还揭示了友谊对个人和社会的深远影响。
+
+---
+
 ## <a name="16"></a>16. 软件工程师的身份危机 
 <small>🔗 [annievella.com](https://annievella.com/posts/the-software-engineering-identity-crisis/): The Software Engineering Identity Crisis</small>
 
 
-| 🔥: 57 \| 💬: [38](https://news.ycombinator.com/item?id=43454816) \| 🗓️ 2025-03-23
+| 🔥: 60 \| 💬: [40](https://news.ycombinator.com/item?id=43454816) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -215,7 +215,19 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 
 ---
 
-## <a name="17"></a>17. 特朗普执政以来美国对加拿大的威胁与加拿大的愤怒 
+## <a name="17"></a>17. RDNA 4的“乱序”内存访问改进 
+<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses): RDNA 4's “Out-of-Order” Memory Accesses</small>
+
+
+| 🔥: 53 \| 💬: [6](https://news.ycombinator.com/item?id=43456341) \| 🗓️ 2025-03-23
+
+
+<br />
+AMD的RDNA 4架构在内存子系统上进行了显著优化，特别是引入了**乱序内存访问**机制。与RDNA 3不同，RDNA 4允许不同着色器波（wave）的内存请求独立完成，消除了跨波的内存访问依赖问题。这一改进通过**新增的乱序队列**实现，提升了多线程性能，尤其在光线追踪等复杂工作负载中表现突出。测试表明，RDNA 4的内存访问延迟更少，性能更稳定。
+
+---
+
+## <a name="18"></a>18. 特朗普执政以来美国对加拿大的威胁与加拿大的愤怒 
 <small>🔗 [writer.oliphant.social](https://writer.oliphant.social/oliphant/a-canadians-perspective-on-us-behavior-since-the-trump-regime-was-installed): A Canadian's Perspective on US Behavior Since the Trump Regime Was Installed</small>
 
 
@@ -227,11 +239,11 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 
 ---
 
-## <a name="18"></a>18. 神奇细菌的简史 
+## <a name="19"></a>19. 神奇细菌的简史 
 <small>🔗 [asimov.press](https://www.asimov.press/p/miracle-bacterium): A Brief History of the Miracle Bacterium</small>
 
 
-| 🔥: 47 \| 💬: [4](https://news.ycombinator.com/item?id=43453769) \| 🗓️ 2025-03-23
+| 🔥: 49 \| 💬: [4](https://news.ycombinator.com/item?id=43453769) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -239,11 +251,11 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 
 ---
 
-## <a name="19"></a>19. IBM CEO：AI短期内不会取代程序员 
+## <a name="20"></a>20. IBM CEO：AI短期内不会取代程序员 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/11/ibms-ceo-doesnt-think-ai-will-replace-programmers-anytime-soon/): IBM's CEO doesn't think AI will replace programmers anytime soon</small>
 
 
-| 🔥: 45 \| 💬: [71](https://news.ycombinator.com/item?id=43452421) \| 🗓️ 2025-03-23
+| 🔥: 47 \| 💬: [71](https://news.ycombinator.com/item?id=43452421) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -251,23 +263,23 @@ IBM CEO Arvind Krishna在SXSW访谈中表示，**全球贸易**仍是美国经�
 
 ---
 
-## <a name="20"></a>20. RDNA 4的“乱序”内存访问改进 
-<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses): RDNA 4's "Out-of-Order" Memory Accesses</small>
+## <a name="21"></a>21. Shift-To-Middle 数组：std::deque 的更快替代方案？ 
+<small>🔗 [github.com](https://github.com/attilatorda/Shift-To-Middle_Array): Shift-to-Middle Array: A Faster Alternative to Std:Deque?</small>
 
 
-| 🔥: 34 \| 💬: [4](https://news.ycombinator.com/item?id=43456341) \| 🗓️ 2025-03-23
+| 🔥: 42 \| 💬: [27](https://news.ycombinator.com/item?id=43456669) \| 🗓️ 2025-03-23
 
 
 <br />
-AMD的RDNA 4架构在内存子系统上进行了显著优化，特别是引入了**乱序内存访问**机制。与RDNA 3不同，RDNA 4允许不同着色器波（wave）的内存请求独立完成，消除了跨波的内存访问依赖问题。这一改进通过**新增的乱序队列**实现，提升了多线程性能，尤其在光线追踪等复杂工作负载中表现突出。测试表明，RDNA 4的内存访问延迟更少，性能更稳定。
+Shift-To-Middle 数组是一种动态数组，旨在优化两端插入和删除操作，提供比 **std::deque**、**std::vector** 和链表更高的性能。它通过**动态中间偏移**和**连续内存存储**，提升了缓存局部性，并支持并行处理。适用于高性能队列、游戏引擎和实时应用等场景。
 
 ---
 
-## <a name="21"></a>21. 前卫生部长领导的组织托管虚假CDC克隆网站 
+## <a name="22"></a>22. 前卫生部长领导的组织托管虚假CDC克隆网站 
 <small>🔗 [infoepi.substack.com](https://infoepi.substack.com/p/cdc-clone-site-rife-with-false-vaccine): CDC Clone Site Hosted by Group Previously Led by HHS Secretary</small>
 
 
-| 🔥: 31 \| 💬: [7](https://news.ycombinator.com/item?id=43452441) \| 🗓️ 2025-03-23
+| 🔥: 32 \| 💬: [7](https://news.ycombinator.com/item?id=43452441) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -275,11 +287,11 @@ AMD的RDNA 4架构在内存子系统上进行了显著优化，特别是引入�
 
 ---
 
-## <a name="22"></a>22. Zero ASIC推出全球首个开源标准eFPGA，配备开源比特流和工具链 
+## <a name="23"></a>23. Zero ASIC推出全球首个开源标准eFPGA，配备开源比特流和工具链 
 <small>🔗 [zeroasic.com](https://www.zeroasic.com/blog/platypus-launch): Zero ASIC launches first open standard eFPGA /w open-source bitstream, toolchain</small>
 
 
-| 🔥: 27 \| 💬: [1](https://news.ycombinator.com/item?id=43455517) \| 🗓️ 2025-03-23
+| 🔥: 29 \| 💬: [3](https://news.ycombinator.com/item?id=43455517) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -287,11 +299,11 @@ Zero ASIC发布了**Platypus**，这是全球首个**开源标准eFPGA IP**产�
 
 ---
 
-## <a name="23"></a>23. 奥巴马加入Bluesky 
+## <a name="24"></a>24. 奥巴马加入Bluesky 
 <small>🔗 [bsky.app](https://bsky.app/profile/barackobama.bsky.social): Obama joins Bluesky</small>
 
 
-| 🔥: 22 \| 💬: [0](https://news.ycombinator.com/item?id=43453106) \| 🗓️ 2025-03-23
+| 🔥: 23 \| 💬: [0](https://news.ycombinator.com/item?id=43453106) \| 🗓️ 2025-03-23
 
 
 <br />
