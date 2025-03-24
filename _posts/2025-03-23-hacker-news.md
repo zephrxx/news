@@ -27,7 +27,7 @@ tags:
 <small>🔗 [dannorth.net](https://dannorth.net/the-worst-programmer/): The Worst Programmer I Know (2023)</small>
 
 
-| 🔥🔥: 319 \| 💬: [233](https://news.ycombinator.com/item?id=43452649) \| 🗓️ 2025-03-23
+| 🔥🔥: 333 \| 💬: [246](https://news.ycombinator.com/item?id=43452649) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [drumpatterns.onether.com](http://drumpatterns.onether.com): Show HN: I built website for sharing Drum Patterns</small>
 
 
-| 🔥🔥: 219 \| 💬: [77](https://news.ycombinator.com/item?id=43452629) \| 🗓️ 2025-03-23
+| 🔥🔥: 235 \| 💬: [87](https://news.ycombinator.com/item?id=43452629) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [righto.com](https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html): A USB Interface to the "Mother of All Demos" Keyset</small>
 
 
-| 🔥🔥: 205 \| 💬: [47](https://news.ycombinator.com/item?id=43453582) \| 🗓️ 2025-03-23
+| 🔥🔥: 213 \| 💬: [51](https://news.ycombinator.com/item?id=43453582) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [sel4.systems](https://sel4.systems/About/seL4-whitepaper.pdf): The SeL4 Microkernel: An Introduction [pdf]</small>
 
 
-| 🔥🔥: 183 \| 💬: [98](https://news.ycombinator.com/item?id=43452185) \| 🗓️ 2025-03-23
+| 🔥🔥: 186 \| 💬: [102](https://news.ycombinator.com/item?id=43452185) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -75,7 +75,7 @@ SeL4是一个**高性能、高安全性的微内核**，专为嵌入式系统和
 <small>🔗 [theverge.com](https://www.theverge.com/policy/634264/customs-border-protection-search-phone-airport-rights): Is it safe to travel to the United States with your phone?</small>
 
 
-| 🔥🔥: 158 \| 💬: [146](https://news.ycombinator.com/item?id=43452474) \| 🗓️ 2025-03-23
+| 🔥🔥: 159 \| 💬: [146](https://news.ycombinator.com/item?id=43452474) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -83,23 +83,11 @@ SeL4是一个**高性能、高安全性的微内核**，专为嵌入式系统和
 
 ---
 
-## <a name="6"></a>6. argp: Go 语言的 GNU 风格命令行参数解析器 
-<small>🔗 [github.com](https://github.com/tdewolff/argp): argp: GNU-style command line argument parser for Go</small>
-
-
-| 🔥🔥: 140 \| 💬: [62](https://news.ycombinator.com/item?id=43452525) \| 🗓️ 2025-03-23
-
-
-<br />
-argp 是一个遵循 **GNU 标准**的命令行参数解析器，专为 Go 语言设计。它支持**内置帮助信息**、将参数扫描到结构体字段、嵌套子命令等功能。argp 允许通过标签配置参数解析，并支持复合类型（如数组、切片、结构体）。安装简单，只需通过 Go 模块管理工具获取即可。适用于需要复杂命令行参数处理的 Go 项目。
-
----
-
-## <a name="7"></a>7. 《家园2》背景艺术的技术细节 
+## <a name="6"></a>6. 《家园2》背景艺术的技术细节 
 <small>🔗 [simonschreibt.de](https://simonschreibt.de/gat/homeworld-2-backgrounds/): Technicalities of Homeworld 2 Backgrounds</small>
 
 
-| 🔥🔥: 138 \| 💬: [37](https://news.ycombinator.com/item?id=43452688) \| 🗓️ 2025-03-23
+| 🔥🔥: 144 \| 💬: [42](https://news.ycombinator.com/item?id=43452688) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -107,11 +95,11 @@ argp 是一个遵循 **GNU 标准**的命令行参数解析器，专为 Go 语�
 
 ---
 
-## <a name="8"></a>8. iOS 应用：10 年经典，视奏训练神器 
+## <a name="7"></a>7. iOS 应用：10 年经典，视奏训练神器 
 <small>🔗 [apps.apple.com](https://apps.apple.com/us/app/notes-sight-reading-trainer/id874386416): Show HN: My iOS app to practice sight reading (10 years in the App Store)</small>
 
 
-| 🔥🔥: 120 \| 💬: [49](https://news.ycombinator.com/item?id=43456030) \| 🗓️ 2025-03-23
+| 🔥🔥: 144 \| 💬: [55](https://news.ycombinator.com/item?id=43456030) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -119,11 +107,23 @@ argp 是一个遵循 **GNU 标准**的命令行参数解析器，专为 Go 语�
 
 ---
 
+## <a name="8"></a>8. argp: Go 语言的 GNU 风格命令行参数解析器 
+<small>🔗 [github.com](https://github.com/tdewolff/argp): argp: GNU-style command line argument parser for Go</small>
+
+
+| 🔥🔥: 143 \| 💬: [63](https://news.ycombinator.com/item?id=43452525) \| 🗓️ 2025-03-23
+
+
+<br />
+argp 是一个遵循 **GNU 标准**的命令行参数解析器，专为 Go 语言设计。它支持**内置帮助信息**、将参数扫描到结构体字段、嵌套子命令等功能。argp 允许通过标签配置参数解析，并支持复合类型（如数组、切片、结构体）。安装简单，只需通过 Go 模块管理工具获取即可。适用于需要复杂命令行参数处理的 Go 项目。
+
+---
+
 ## <a name="9"></a>9. 多线程进入关键代码段的案例 
 <small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20250321-00/?p=110984): The case of the critical section that let multiple threads enter a block of code</small>
 
 
-| 🔥🔥: 108 \| 💬: [74](https://news.ycombinator.com/item?id=43451525) \| 🗓️ 2025-03-23
+| 🔥🔥: 110 \| 💬: [76](https://news.ycombinator.com/item?id=43451525) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -135,7 +135,7 @@ argp 是一个遵循 **GNU 标准**的命令行参数解析器，专为 Go 语�
 <small>🔗 [ankitmaloo.com](https://ankitmaloo.com/bitter-lesson/): Bitter Lesson is about AI agents</small>
 
 
-| 🔥🔥: 101 \| 💬: [56](https://news.ycombinator.com/item?id=43451742) \| 🗓️ 2025-03-23
+| 🔥🔥: 108 \| 💬: [61](https://news.ycombinator.com/item?id=43451742) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -147,7 +147,7 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 <small>🔗 [matanabudy.com](https://matanabudy.com/achieving-great-privacy-with-safari/): Achieving Great Privacy with Safari</small>
 
 
-| 🔥: 95 \| 💬: [51](https://news.ycombinator.com/item?id=43453350) \| 🗓️ 2025-03-23
+| 🔥: 98 \| 💬: [51](https://news.ycombinator.com/item?id=43453350) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -159,7 +159,7 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/magazine/archive/2025/05/trump-executive-order-lawlessness-constitutional-crisis/682112/): America Is Watching the Rise of a Dual State</small>
 
 
-| 🔥: 85 \| 💬: [27](https://news.ycombinator.com/item?id=43454004) \| 🗓️ 2025-03-23
+| 🔥: 86 \| 💬: [28](https://news.ycombinator.com/item?id=43454004) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -167,23 +167,11 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 
 ---
 
-## <a name="13"></a>13. 德国投入巨额资金加强军备，应对地缘政治挑战 
-<small>🔗 [cnn.com](https://www.cnn.com/2025/03/23/europe/germany-military-investment-intl/index.html): Germany is unlocking billions to supercharge its military at a seismic moment</small>
-
-
-| 🔥: 74 \| 💬: [176](https://news.ycombinator.com/item?id=43454383) \| 🗓️ 2025-03-23
-
-
-<br />
-德国正通过修改宪法债务限制，解锁数百亿欧元用于军事开支，计划在未来十年内将国防支出提升至GDP的3.5%，总额可能达到6000亿欧元。此举标志着德国自冷战以来最大规模的军事投资，旨在应对**“时代转折”**（Zeitenwende）带来的地缘政治变化。尽管面临军队老化、基础设施不足等挑战，德国政府仍致力于提升**北约标准**的国防能力，并计划通过义务兵役制增加军队人数。
-
----
-
-## <a name="14"></a>14. 体验世界级巴洛克管风琴的魅力 
+## <a name="13"></a>13. 体验世界级巴洛克管风琴的魅力 
 <small>🔗 [orgelstadt-hamburg.de](https://www.orgelstadt-hamburg.de/play-arp/): Play the Virtual Organ from Arp Schnitger</small>
 
 
-| 🔥: 73 \| 💬: [9](https://news.ycombinator.com/item?id=43454785) \| 🗓️ 2025-03-23
+| 🔥: 78 \| 💬: [11](https://news.ycombinator.com/item?id=43454785) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -191,11 +179,23 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 
 ---
 
+## <a name="14"></a>14. 德国投入巨额资金加强军备，应对地缘政治挑战 
+<small>🔗 [cnn.com](https://www.cnn.com/2025/03/23/europe/germany-military-investment-intl/index.html): Germany is unlocking billions to supercharge its military at a seismic moment</small>
+
+
+| 🔥: 75 \| 💬: [179](https://news.ycombinator.com/item?id=43454383) \| 🗓️ 2025-03-23
+
+
+<br />
+德国正通过修改宪法债务限制，解锁数百亿欧元用于军事开支，计划在未来十年内将国防支出提升至GDP的3.5%，总额可能达到6000亿欧元。此举标志着德国自冷战以来最大规模的军事投资，旨在应对**“时代转折”**（Zeitenwende）带来的地缘政治变化。尽管面临军队老化、基础设施不足等挑战，德国政府仍致力于提升**北约标准**的国防能力，并计划通过义务兵役制增加军队人数。
+
+---
+
 ## <a name="15"></a>15. 如何建立与维护友谊：八本书的精华总结 
 <small>🔗 [scotthyoung.com](https://www.scotthyoung.com/blog/2025/03/18/8-books-on-making-friends/): Books on Making and Maintaining Friendships</small>
 
 
-| 🔥: 71 \| 💬: [30](https://news.ycombinator.com/item?id=43454898) \| 🗓️ 2025-03-23
+| 🔥: 71 \| 💬: [32](https://news.ycombinator.com/item?id=43454898) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -203,7 +203,19 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 
 ---
 
-## <a name="16"></a>16. 软件工程师的身份危机 
+## <a name="16"></a>16. RDNA 4的“乱序”内存访问改进 
+<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses): RDNA 4's “Out-of-Order” Memory Accesses</small>
+
+
+| 🔥: 64 \| 💬: [6](https://news.ycombinator.com/item?id=43456341) \| 🗓️ 2025-03-23
+
+
+<br />
+AMD的RDNA 4架构在内存子系统上进行了显著优化，特别是引入了**乱序内存访问**机制。与RDNA 3不同，RDNA 4允许不同着色器波（wave）的内存请求独立完成，消除了跨波的内存访问依赖问题。这一改进通过**新增的乱序队列**实现，提升了多线程性能，尤其在光线追踪等复杂工作负载中表现突出。测试表明，RDNA 4的内存访问延迟更少，性能更稳定。
+
+---
+
+## <a name="17"></a>17. 软件工程师的身份危机 
 <small>🔗 [annievella.com](https://annievella.com/posts/the-software-engineering-identity-crisis/): The Software Engineering Identity Crisis</small>
 
 
@@ -215,19 +227,19 @@ Richard Sutton在2019年提出的“苦涩教训”指出，**算力**比复杂�
 
 ---
 
-## <a name="17"></a>17. RDNA 4的“乱序”内存访问改进 
-<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses): RDNA 4's “Out-of-Order” Memory Accesses</small>
+## <a name="18"></a>18. Shift-To-Middle 数组：std::deque 的更快替代方案？ 
+<small>🔗 [github.com](https://github.com/attilatorda/Shift-To-Middle_Array): Shift-to-Middle Array: A Faster Alternative to Std:Deque?</small>
 
 
-| 🔥: 53 \| 💬: [6](https://news.ycombinator.com/item?id=43456341) \| 🗓️ 2025-03-23
+| 🔥: 53 \| 💬: [35](https://news.ycombinator.com/item?id=43456669) \| 🗓️ 2025-03-23
 
 
 <br />
-AMD的RDNA 4架构在内存子系统上进行了显著优化，特别是引入了**乱序内存访问**机制。与RDNA 3不同，RDNA 4允许不同着色器波（wave）的内存请求独立完成，消除了跨波的内存访问依赖问题。这一改进通过**新增的乱序队列**实现，提升了多线程性能，尤其在光线追踪等复杂工作负载中表现突出。测试表明，RDNA 4的内存访问延迟更少，性能更稳定。
+Shift-To-Middle 数组是一种动态数组，旨在优化两端插入和删除操作，提供比 **std::deque**、**std::vector** 和链表更高的性能。它通过**动态中间偏移**和**连续内存存储**，提升了缓存局部性，并支持并行处理。适用于高性能队列、游戏引擎和实时应用等场景。
 
 ---
 
-## <a name="18"></a>18. 特朗普执政以来美国对加拿大的威胁与加拿大的愤怒 
+## <a name="19"></a>19. 特朗普执政以来美国对加拿大的威胁与加拿大的愤怒 
 <small>🔗 [writer.oliphant.social](https://writer.oliphant.social/oliphant/a-canadians-perspective-on-us-behavior-since-the-trump-regime-was-installed): A Canadian's Perspective on US Behavior Since the Trump Regime Was Installed</small>
 
 
@@ -239,11 +251,11 @@ AMD的RDNA 4架构在内存子系统上进行了显著优化，特别是引入�
 
 ---
 
-## <a name="19"></a>19. 神奇细菌的简史 
+## <a name="20"></a>20. 神奇细菌的简史 
 <small>🔗 [asimov.press](https://www.asimov.press/p/miracle-bacterium): A Brief History of the Miracle Bacterium</small>
 
 
-| 🔥: 49 \| 💬: [4](https://news.ycombinator.com/item?id=43453769) \| 🗓️ 2025-03-23
+| 🔥: 50 \| 💬: [5](https://news.ycombinator.com/item?id=43453769) \| 🗓️ 2025-03-23
 
 
 <br />
@@ -251,27 +263,15 @@ AMD的RDNA 4架构在内存子系统上进行了显著优化，特别是引入�
 
 ---
 
-## <a name="20"></a>20. IBM CEO：AI短期内不会取代程序员 
+## <a name="21"></a>21. IBM CEO：AI短期内不会取代程序员 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/03/11/ibms-ceo-doesnt-think-ai-will-replace-programmers-anytime-soon/): IBM's CEO doesn't think AI will replace programmers anytime soon</small>
 
 
-| 🔥: 47 \| 💬: [71](https://news.ycombinator.com/item?id=43452421) \| 🗓️ 2025-03-23
+| 🔥: 49 \| 💬: [71](https://news.ycombinator.com/item?id=43452421) \| 🗓️ 2025-03-23
 
 
 <br />
 IBM CEO Arvind Krishna在SXSW访谈中表示，**全球贸易**仍是美国经济增长的关键，并强调吸引国际人才的重要性。关于AI，他认为未来3-6年内，**AI可能编写20-30%的代码**，而非90%，且AI将提升程序员效率而非取代他们。他还指出，**量子计算**而非AI，将是推动科学发现的关键。
-
----
-
-## <a name="21"></a>21. Shift-To-Middle 数组：std::deque 的更快替代方案？ 
-<small>🔗 [github.com](https://github.com/attilatorda/Shift-To-Middle_Array): Shift-to-Middle Array: A Faster Alternative to Std:Deque?</small>
-
-
-| 🔥: 42 \| 💬: [27](https://news.ycombinator.com/item?id=43456669) \| 🗓️ 2025-03-23
-
-
-<br />
-Shift-To-Middle 数组是一种动态数组，旨在优化两端插入和删除操作，提供比 **std::deque**、**std::vector** 和链表更高的性能。它通过**动态中间偏移**和**连续内存存储**，提升了缓存局部性，并支持并行处理。适用于高性能队列、游戏引擎和实时应用等场景。
 
 ---
 
@@ -291,7 +291,7 @@ Shift-To-Middle 数组是一种动态数组，旨在优化两端插入和删除�
 <small>🔗 [zeroasic.com](https://www.zeroasic.com/blog/platypus-launch): Zero ASIC launches first open standard eFPGA /w open-source bitstream, toolchain</small>
 
 
-| 🔥: 29 \| 💬: [3](https://news.ycombinator.com/item?id=43455517) \| 🗓️ 2025-03-23
+| 🔥: 30 \| 💬: [3](https://news.ycombinator.com/item?id=43455517) \| 🗓️ 2025-03-23
 
 
 <br />
