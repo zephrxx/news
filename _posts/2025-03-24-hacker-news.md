@@ -27,7 +27,7 @@ tags:
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/): The Trump administration accidentally texted me its war plans</small>
 
 
-| 🔥🔥: 593 \| 💬: [153](https://news.ycombinator.com/item?id=43462783) \| 🗓️ 2025-03-24
+| 🔥🔥: 659 \| 💬: [178](https://news.ycombinator.com/item?id=43462783) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [plausible.io](https://plausible.io/blog/european-alternatives-trends-privacy-tech): Millions are visiting the European Alternatives site. What trends are we seeing?</small>
 
 
-| 🔥🔥: 456 \| 💬: [539](https://news.ycombinator.com/item?id=43458509) \| 🗓️ 2025-03-24
+| 🔥🔥: 456 \| 💬: [541](https://news.ycombinator.com/item?id=43458509) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwen2.5-vl-32b/): Qwen2.5-VL-32B: Smarter and Lighter</small>
 
 
-| 🔥🔥: 287 \| 💬: [137](https://news.ycombinator.com/item?id=43464068) \| 🗓️ 2025-03-24
+| 🔥🔥: 325 \| 💬: [146](https://news.ycombinator.com/item?id=43464068) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [goblin.tools](https://goblin.tools/): Goblin.tools: simple, single-task tools to help neurodivergent people with tasks</small>
 
 
-| 🔥🔥: 280 \| 💬: [154](https://news.ycombinator.com/item?id=43461375) \| 🗓️ 2025-03-24
+| 🔥🔥: 288 \| 💬: [163](https://news.ycombinator.com/item?id=43461375) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -75,7 +75,7 @@ Goblin.tools提供**Magic ToDo**功能，通过**辣度等级🌶️**自动拆�
 <small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud): I won't connect my dishwasher to your cloud</small>
 
 
-| 🔥🔥: 208 \| 💬: [145](https://news.ycombinator.com/item?id=43463200) \| 🗓️ 2025-03-24
+| 🔥🔥: 262 \| 💬: [189](https://news.ycombinator.com/item?id=43463200) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -87,7 +87,7 @@ Goblin.tools提供**Magic ToDo**功能，通过**辣度等级🌶️**自动拆�
 <small>🔗 [blog.marcocantu.com](https://blog.marcocantu.com/blog/2025-march-mastering-delphi5-annotated-complete.html): Mastering Delphi 5 2025 Annotated Edition Is Now Complete</small>
 
 
-| 🔥🔥: 142 \| 💬: [71](https://news.ycombinator.com/item?id=43462299) \| 🗓️ 2025-03-24
+| 🔥🔥: 149 \| 💬: [78](https://news.ycombinator.com/item?id=43462299) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -99,7 +99,7 @@ Goblin.tools提供**Magic ToDo**功能，通过**辣度等级🌶️**自动拆�
 <small>🔗 [newyorker.com](https://www.newyorker.com/culture/persons-of-interest/the-game-designer-playing-through-his-own-psyche): The game designer playing through his own psyche</small>
 
 
-| 🔥🔥: 125 \| 💬: [62](https://news.ycombinator.com/item?id=43459361) \| 🗓️ 2025-03-24
+| 🔥🔥: 129 \| 💬: [70](https://news.ycombinator.com/item?id=43459361) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -111,7 +111,7 @@ Goblin.tools提供**Magic ToDo**功能，通过**辣度等级🌶️**自动拆�
 <small>🔗 [internetarchive.eu](https://www.internetarchive.eu/): Internet Archive Europe – Bringing Collections to Life</small>
 
 
-| 🔥🔥: 122 \| 💬: [23](https://news.ycombinator.com/item?id=43464230) \| 🗓️ 2025-03-24
+| 🔥🔥: 123 \| 💬: [23](https://news.ycombinator.com/item?id=43464230) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -123,7 +123,7 @@ Goblin.tools提供**Magic ToDo**功能，通过**辣度等级🌶️**自动拆�
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/hp-avoids-monetary-damages-over-bricked-printers-in-class-action-settlement/): HP avoids monetary damages over bricked printers in class-action settlement</small>
 
 
-| 🔥🔥: 104 \| 💬: [83](https://news.ycombinator.com/item?id=43458759) \| 🗓️ 2025-03-24
+| 🔥🔥: 104 \| 💬: [84](https://news.ycombinator.com/item?id=43458759) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -135,7 +135,7 @@ Goblin.tools提供**Magic ToDo**功能，通过**辣度等级🌶️**自动拆�
 <small>🔗 [npmjs.com](https://www.npmjs.com/package/apidog-mcp-server): Show HN: We made an MCP Server so Cursor can build things from REST API docs</small>
 
 
-| 🔥: 96 \| 💬: [68](https://news.ycombinator.com/item?id=43459240) \| 🗓️ 2025-03-24
+| 🔥: 97 \| 💬: [68](https://news.ycombinator.com/item?id=43459240) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -147,7 +147,7 @@ Apidog MCP服务器可将**API文档**转化为AI开发工具（如Cursor）的�
 <small>🔗 [scholarworks.lib.csusb.edu](https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=1201&context=history-in-the-making): Project Operation Whitecoat (2010)</small>
 
 
-| 🔥: 95 \| 💬: [67](https://news.ycombinator.com/item?id=43462882) \| 🗓️ 2025-03-24
+| 🔥: 96 \| 💬: [68](https://news.ycombinator.com/item?id=43462882) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -167,7 +167,31 @@ Apidog MCP服务器可将**API文档**转化为AI开发工具（如Cursor）的�
 
 ---
 
-## <a name="13"></a>13. 放松管制的电力市场加速太阳能普及 
+## <a name="13"></a>13. ARC-AGI-2与2025年ARC挑战赛：迈向通用人工智能的新标杆 
+<small>🔗 [arcprize.org](https://arcprize.org/blog/announcing-arc-agi-2-and-arc-prize-2025): Arc-AGI-2 and ARC Prize 2025</small>
+
+
+| 🔥: 77 \| 💬: [34](https://news.ycombinator.com/item?id=43465147) \| 🗓️ 2025-03-24
+
+
+<br />
+ARC-AGI-2作为新一代**通用人工智能评测基准**正式发布，其任务对人类简单但对AI极具挑战性（纯LLM得分为0%），旨在推动高效、通用的AI系统研发。2025年ARC挑战赛同步启动，提供**100万美元奖金**，鼓励开源创新。评测显示，当前AI在**符号理解**、组合推理和上下文规则应用等核心能力上仍存在显著差距。竞赛强调**效率与成本**的平衡，要求解决方案兼具高性能与低资源消耗。
+
+---
+
+## <a name="14"></a>14. 程序员为何向往归隐田园？ 
+<small>🔗 [tjmorley.com](https://tjmorley.com/blogposts/cottagecoreprogrammers.html): Cottagecore Programmers</small>
+
+
+| 🔥: 74 \| 💬: [126](https://news.ycombinator.com/item?id=43464914) \| 🗓️ 2025-03-24
+
+
+<br />
+许多程序员常表达对**体力劳动**的渴望，如务农、木工或养殖，反映出对现代科技工作的**倦怠感**。这种情绪源于对琐碎任务（如调整按钮像素）的无意义感，以及对数字化生活的疏离。文章探讨了美国历史上对**农耕理想**的神化（如杰斐逊的 agrarian myth），并指出当代人因经济焦虑和异化劳动，转而向往"田园诗"生活。作者以自身农场成长经历对比，质疑这种浪漫化倾向的合理性。
+
+---
+
+## <a name="15"></a>15. 放松管制的电力市场加速太阳能普及 
 <small>🔗 [seanobannon.substack.com](https://seanobannon.substack.com/p/renewable-energy-adoption-and-the): Deregulated energy markets accelerate solar adoption</small>
 
 
@@ -179,23 +203,11 @@ Apidog MCP服务器可将**API文档**转化为AI开发工具（如Cursor）的�
 
 ---
 
-## <a name="14"></a>14. 程序员为何向往归隐田园？ 
-<small>🔗 [tjmorley.com](https://tjmorley.com/blogposts/cottagecoreprogrammers.html): Cottagecore Programmers</small>
-
-
-| 🔥: 65 \| 💬: [109](https://news.ycombinator.com/item?id=43464914) \| 🗓️ 2025-03-24
-
-
-<br />
-许多程序员常表达对**体力劳动**的渴望，如务农、木工或养殖，反映出对现代科技工作的**倦怠感**。这种情绪源于对琐碎任务（如调整按钮像素）的无意义感，以及对数字化生活的疏离。文章探讨了美国历史上对**农耕理想**的神化（如杰斐逊的 agrarian myth），并指出当代人因经济焦虑和异化劳动，转而向往"田园诗"生活。作者以自身农场成长经历对比，质疑这种浪漫化倾向的合理性。
-
----
-
-## <a name="15"></a>15. 《普洛斯彼罗挑战：极速渲染数学表达式图像》 
+## <a name="16"></a>16. 《普洛斯彼罗挑战：极速渲染数学表达式图像》 
 <small>🔗 [mattkeeter.com](https://www.mattkeeter.com/projects/prospero/): The Prospero Challenge</small>
 
 
-| 🔥: 62 \| 💬: [20](https://news.ycombinator.com/item?id=43458780) \| 🗓️ 2025-03-24
+| 🔥: 67 \| 💬: [26](https://news.ycombinator.com/item?id=43458780) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -203,35 +215,11 @@ Apidog MCP服务器可将**API文档**转化为AI开发工具（如Cursor）的�
 
 ---
 
-## <a name="16"></a>16. ARC-AGI-2与2025年ARC挑战赛：迈向通用人工智能的新标杆 
-<small>🔗 [arcprize.org](https://arcprize.org/blog/announcing-arc-agi-2-and-arc-prize-2025): Arc-AGI-2 and ARC Prize 2025</small>
-
-
-| 🔥: 56 \| 💬: [18](https://news.ycombinator.com/item?id=43465147) \| 🗓️ 2025-03-24
-
-
-<br />
-ARC-AGI-2作为新一代**通用人工智能评测基准**正式发布，其任务对人类简单但对AI极具挑战性（纯LLM得分为0%），旨在推动高效、通用的AI系统研发。2025年ARC挑战赛同步启动，提供**100万美元奖金**，鼓励开源创新。评测显示，当前AI在**符号理解**、组合推理和上下文规则应用等核心能力上仍存在显著差距。竞赛强调**效率与成本**的平衡，要求解决方案兼具高性能与低资源消耗。
-
----
-
-## <a name="17"></a>17. TUI编辑器：轻量级Vim/Neovim替代方案 
-<small>🔗 [github.com](https://github.com/tauraamui/lilly): TUI editor and Vim/Neovim alternative</small>
-
-
-| 🔥: 54 \| 💬: [42](https://news.ycombinator.com/item?id=43462676) \| 🗓️ 2025-03-24
-
-
-<br />
-Lilly是一款**终端文本编辑器**，旨在为Vim/Neovim用户提供更简单的替代方案。目前处于**预发布阶段**，仅适合开发者试用。其核心设计理念是**内置基础功能**，避免复杂的Lua插件配置，同时优化大文件处理性能。支持水平/垂直分屏、定义跳转等特性，基于V语言编译。项目强调**易用性与性能**，但暂不稳定，欢迎贡献代码。
-
----
-
-## <a name="18"></a>18. 皮亚诺公理：算术的基石 
+## <a name="17"></a>17. 皮亚诺公理：算术的基石 
 <small>🔗 [principlesofcryptography.com](https://principlesofcryptography.com/number-theory-primer-an-axiomatic-study-of-natural-numbers-peano-axioms/): The Peano Axioms: Building Blocks of Arithmetic</small>
 
 
-| 🔥: 51 \| 💬: [20](https://news.ycombinator.com/item?id=43464541) \| 🗓️ 2025-03-24
+| 🔥: 57 \| 💬: [21](https://news.ycombinator.com/item?id=43464541) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -239,11 +227,23 @@ Lilly是一款**终端文本编辑器**，旨在为Vim/Neovim用户提供更简�
 
 ---
 
+## <a name="18"></a>18. TUI编辑器：轻量级Vim/Neovim替代方案 
+<small>🔗 [github.com](https://github.com/tauraamui/lilly): TUI editor and Vim/Neovim alternative</small>
+
+
+| 🔥: 54 \| 💬: [45](https://news.ycombinator.com/item?id=43462676) \| 🗓️ 2025-03-24
+
+
+<br />
+Lilly是一款**终端文本编辑器**，旨在为Vim/Neovim用户提供更简单的替代方案。目前处于**预发布阶段**，仅适合开发者试用。其核心设计理念是**内置基础功能**，避免复杂的Lua插件配置，同时优化大文件处理性能。支持水平/垂直分屏、定义跳转等特性，基于V语言编译。项目强调**易用性与性能**，但暂不稳定，欢迎贡献代码。
+
+---
+
 ## <a name="19"></a>19. ingress-Nginx曝出高危漏洞（CVSS 9.8分） 
 <small>🔗 [groups.google.com](https://groups.google.com/g/kubernetes-security-announce/c/2qa9DFtN0cQ): Multiple vulnerabilities in ingress-Nginx (Score 9.8)</small>
 
 
-| 🔥: 47 \| 💬: [7](https://news.ycombinator.com/item?id=43465424) \| 🗓️ 2025-03-24
+| 🔥: 49 \| 💬: [8](https://news.ycombinator.com/item?id=43465424) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -253,27 +253,27 @@ Kubernetes社区发布安全通告，**ingress-nginx控制器**存在多个漏�
 
 ---
 
-## <a name="20"></a>20. OpenAI警告：若无法使用受版权保护内容，美国将输掉AI竞赛 
-<small>🔗 [futurism.com](https://futurism.com/openai-over-copyrighted-work): OpenAI Says It's "Over" If It Can't Steal All Your Copyrighted Work</small>
-
-
-| 🔥: 46 \| 💬: [54](https://news.ycombinator.com/item?id=43465333) \| 🗓️ 2025-03-24
-
-
-<br />
-OpenAI向白宫提交政策提案，声称若美国**AI公司**无法依据**合理使用原则**获取受版权保护的内容作为训练数据，将无法与中国（PRC）竞争，导致美国在AI领域落后。该公司强调，这不仅是竞争力问题，更是**国家安全**问题。然而，OpenAI自身曾指控中国AI公司DeepSeek未经许可使用其数据，此举被指虚伪。提案呼吁联邦政府放宽版权限制，但出版商和版权持有者强烈反对，认为AI模型直接抄袭其内容。目前尚不清楚特朗普政府是否会采纳这一提议。
-
----
-
-## <a name="21"></a>21. 被误解的Lua：一门工具型语言的本质 
+## <a name="20"></a>20. 被误解的Lua：一门工具型语言的本质 
 <small>🔗 [andregarzia.com](https://andregarzia.com/2021/01/lua-a-misunderstood-language.html): Lua, a Misunderstood Language</small>
 
 
-| 🔥: 44 \| 💬: [3](https://news.ycombinator.com/item?id=43463376) \| 🗓️ 2025-03-24
+| 🔥: 47 \| 💬: [4](https://news.ycombinator.com/item?id=43463376) \| 🗓️ 2025-03-24
 
 
 <br />
 Lua常因**“缺乏开箱即用功能”**遭到批评，但作者强调其核心定位是**“工具包”**而非全能语言。它通过极简设计（如仅提供基础机制而非固定策略）赋予开发者高度自由，适合嵌入C等主程序实现灵活脚本化（如游戏引擎或IoT设备）。针对常见抱怨——1-based索引、无原生OOP——作者指出这些特性符合人类直觉（如排队从“第1位”开始），且通过**元表**可自定义OOP系统。Lua的小巧（兼容C89、代码易读）使其在嵌入式与学术领域独具优势。最终，作者呼吁将Lua视为乐高积木，用想象力构建而非苛求预设功能。
+
+---
+
+## <a name="21"></a>21. OpenAI警告：若无法使用受版权保护内容，美国将输掉AI竞赛 
+<small>🔗 [futurism.com](https://futurism.com/openai-over-copyrighted-work): OpenAI Says It's "Over" If It Can't Steal All Your Copyrighted Work</small>
+
+
+| 🔥: 46 \| 💬: [60](https://news.ycombinator.com/item?id=43465333) \| 🗓️ 2025-03-24
+
+
+<br />
+OpenAI向白宫提交政策提案，声称若美国**AI公司**无法依据**合理使用原则**获取受版权保护的内容作为训练数据，将无法与中国（PRC）竞争，导致美国在AI领域落后。该公司强调，这不仅是竞争力问题，更是**国家安全**问题。然而，OpenAI自身曾指控中国AI公司DeepSeek未经许可使用其数据，此举被指虚伪。提案呼吁联邦政府放宽版权限制，但出版商和版权持有者强烈反对，认为AI模型直接抄袭其内容。目前尚不清楚特朗普政府是否会采纳这一提议。
 
 ---
 
