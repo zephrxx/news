@@ -27,7 +27,7 @@ tags:
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/): The Trump administration accidentally texted me its war plans</small>
 
 
-| 🔥🔥: 827 \| 💬: [256](https://news.ycombinator.com/item?id=43462783) \| 🗓️ 2025-03-24
+| 🔥🔥: 854 \| 💬: [263](https://news.ycombinator.com/item?id=43462783) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [plausible.io](https://plausible.io/blog/european-alternatives-trends-privacy-tech): Millions are visiting the European Alternatives site. What trends are we seeing?</small>
 
 
-| 🔥🔥: 459 \| 💬: [551](https://news.ycombinator.com/item?id=43458509) \| 🗓️ 2025-03-24
+| 🔥🔥: 460 \| 💬: [552](https://news.ycombinator.com/item?id=43458509) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud): I won't connect my dishwasher to your cloud</small>
 
 
-| 🔥🔥: 387 \| 💬: [276](https://news.ycombinator.com/item?id=43463200) \| 🗓️ 2025-03-24
+| 🔥🔥: 426 \| 💬: [294](https://news.ycombinator.com/item?id=43463200) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwen2.5-vl-32b/): Qwen2.5-VL-32B: Smarter and Lighter</small>
 
 
-| 🔥🔥: 386 \| 💬: [191](https://news.ycombinator.com/item?id=43464068) \| 🗓️ 2025-03-24
+| 🔥🔥: 401 \| 💬: [198](https://news.ycombinator.com/item?id=43464068) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [goblin.tools](https://goblin.tools/): Goblin.tools: simple, single-task tools to help neurodivergent people with tasks</small>
 
 
-| 🔥🔥: 302 \| 💬: [183](https://news.ycombinator.com/item?id=43461375) \| 🗓️ 2025-03-24
+| 🔥🔥: 303 \| 💬: [185](https://news.ycombinator.com/item?id=43461375) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -87,7 +87,7 @@ Goblin.tools提供**Magic ToDo**功能，通过**辣度等级🌶️**自动拆�
 <small>🔗 [blog.marcocantu.com](https://blog.marcocantu.com/blog/2025-march-mastering-delphi5-annotated-complete.html): Mastering Delphi 5 2025 Annotated Edition Is Now Complete</small>
 
 
-| 🔥🔥: 161 \| 💬: [80](https://news.ycombinator.com/item?id=43462299) \| 🗓️ 2025-03-24
+| 🔥🔥: 163 \| 💬: [84](https://news.ycombinator.com/item?id=43462299) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -95,47 +95,11 @@ Goblin.tools提供**Magic ToDo**功能，通过**辣度等级🌶️**自动拆�
 
 ---
 
-## <a name="7"></a>7. 游戏设计师的自我心灵之旅 
-<small>🔗 [newyorker.com](https://www.newyorker.com/culture/persons-of-interest/the-game-designer-playing-through-his-own-psyche): The game designer playing through his own psyche</small>
-
-
-| 🔥🔥: 135 \| 💬: [84](https://news.ycombinator.com/item?id=43459361) \| 🗓️ 2025-03-24
-
-
-<br />
-游戏设计师**戴维·雷登**因《史丹利的寓言》的成功陷入抑郁，这款游戏以**存在主义幽默**解构了传统游戏叙事。他的后续作品《新手入门》进一步探索了艺术家与观众的复杂关系，但创作并未缓解他的焦虑。经历低谷后，雷登通过绘画找到平静，并开始开发治愈系游戏《Wanderstop》，试图将个人疗愈经历融入游戏设计。他的作品始终挑战传统，**以哲学思考和叙事实验**为核心，展现了游戏作为艺术媒介的深度。
-
----
-
-## <a name="8"></a>8. 欧洲互联网档案馆：让文化藏品焕发生机 
-<small>🔗 [internetarchive.eu](https://www.internetarchive.eu/): Internet Archive Europe – Bringing Collections to Life</small>
-
-
-| 🔥🔥: 127 \| 💬: [24](https://news.ycombinator.com/item?id=43464230) \| 🗓️ 2025-03-24
-
-
-<br />
-欧洲互联网档案馆由荷兰非营利研究图书馆Stichting Internet Archive运营，致力于**数字化保存欧洲文化遗产**，并与图书馆、博物馆等机构合作共享资源。自2004年成立以来，已存档超百万件数字藏品，并运用**人工智能技术**创新互动方式。团队由多位专家组成，涵盖知识产权、开放政策等领域。目前与500余家机构合作，推动文化资源的开放获取。欢迎公众参与支持这一使命。
-
----
-
-## <a name="9"></a>9. ARC-AGI-2与2025年ARC挑战赛：迈向通用人工智能的新标杆 
-<small>🔗 [arcprize.org](https://arcprize.org/blog/announcing-arc-agi-2-and-arc-prize-2025): Arc-AGI-2 and ARC Prize 2025</small>
-
-
-| 🔥🔥: 121 \| 💬: [49](https://news.ycombinator.com/item?id=43465147) \| 🗓️ 2025-03-24
-
-
-<br />
-ARC-AGI-2作为新一代**通用人工智能评测基准**正式发布，其任务对人类简单但对AI极具挑战性（纯LLM得分为0%），旨在推动高效、通用的AI系统研发。2025年ARC挑战赛同步启动，提供**100万美元奖金**，鼓励开源创新。评测显示，当前AI在**符号理解**、组合推理和上下文规则应用等核心能力上仍存在显著差距。竞赛强调**效率与成本**的平衡，要求解决方案兼具高性能与低资源消耗。
-
----
-
-## <a name="10"></a>10. 德国议会投票数据可视化：2024年关键议题表决结果 
+## <a name="7"></a>7. 德国议会投票数据可视化：2024年关键议题表决结果 
 <small>🔗 [abstimmung.eu](https://abstimmung.eu/git/2024): German parliament votes as a Git contribution graph</small>
 
 
-| 🔥🔥: 120 \| 💬: [40](https://news.ycombinator.com/item?id=43466509) \| 🗓️ 2025-03-24
+| 🔥🔥: 145 \| 💬: [53](https://news.ycombinator.com/item?id=43466509) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -143,8 +107,44 @@ ARC-AGI-2作为新一代**通用人工智能评测基准**正式发布，其任�
 
 ---
 
+## <a name="8"></a>8. 游戏设计师的自我心灵之旅 
+<small>🔗 [newyorker.com](https://www.newyorker.com/culture/persons-of-interest/the-game-designer-playing-through-his-own-psyche): The game designer playing through his own psyche</small>
+
+
+| 🔥🔥: 135 \| 💬: [85](https://news.ycombinator.com/item?id=43459361) \| 🗓️ 2025-03-24
+
+
+<br />
+游戏设计师**戴维·雷登**因《史丹利的寓言》的成功陷入抑郁，这款游戏以**存在主义幽默**解构了传统游戏叙事。他的后续作品《新手入门》进一步探索了艺术家与观众的复杂关系，但创作并未缓解他的焦虑。经历低谷后，雷登通过绘画找到平静，并开始开发治愈系游戏《Wanderstop》，试图将个人疗愈经历融入游戏设计。他的作品始终挑战传统，**以哲学思考和叙事实验**为核心，展现了游戏作为艺术媒介的深度。
+
+---
+
+## <a name="9"></a>9. ARC-AGI-2与2025年ARC挑战赛：迈向通用人工智能的新标杆 
+<small>🔗 [arcprize.org](https://arcprize.org/blog/announcing-arc-agi-2-and-arc-prize-2025): Arc-AGI-2 and ARC Prize 2025</small>
+
+
+| 🔥🔥: 134 \| 💬: [53](https://news.ycombinator.com/item?id=43465147) \| 🗓️ 2025-03-24
+
+
+<br />
+ARC-AGI-2作为新一代**通用人工智能评测基准**正式发布，其任务对人类简单但对AI极具挑战性（纯LLM得分为0%），旨在推动高效、通用的AI系统研发。2025年ARC挑战赛同步启动，提供**100万美元奖金**，鼓励开源创新。评测显示，当前AI在**符号理解**、组合推理和上下文规则应用等核心能力上仍存在显著差距。竞赛强调**效率与成本**的平衡，要求解决方案兼具高性能与低资源消耗。
+
+---
+
+## <a name="10"></a>10. 欧洲互联网档案馆：让文化藏品焕发生机 
+<small>🔗 [internetarchive.eu](https://www.internetarchive.eu/): Internet Archive Europe – Bringing Collections to Life</small>
+
+
+| 🔥🔥: 128 \| 💬: [25](https://news.ycombinator.com/item?id=43464230) \| 🗓️ 2025-03-24
+
+
+<br />
+欧洲互联网档案馆由荷兰非营利研究图书馆Stichting Internet Archive运营，致力于**数字化保存欧洲文化遗产**，并与图书馆、博物馆等机构合作共享资源。自2004年成立以来，已存档超百万件数字藏品，并运用**人工智能技术**创新互动方式。团队由多位专家组成，涵盖知识产权、开放政策等领域。目前与500余家机构合作，推动文化资源的开放获取。欢迎公众参与支持这一使命。
+
+---
+
 ## <a name="11"></a>11. 惠普通过集体诉讼和解避免因固件更新导致打印机变砖的赔偿 
-<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/hp-avoids-monetary-damages-over-bricked-printers-in-class-action-settlement/): HP avoids monetary damages over bricked printers in class-action settlement</small>
+<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/hp-avoids-monetary-damages-over-bricked-printers-in-class-action-settlement/): HP avoids monetary damages over printers in class-action settlement</small>
 
 
 | 🔥🔥: 107 \| 💬: [84](https://news.ycombinator.com/item?id=43458759) \| 🗓️ 2025-03-24
@@ -159,7 +159,7 @@ ARC-AGI-2作为新一代**通用人工智能评测基准**正式发布，其任�
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/newsletters/archive/2025/03/jeffrey-goldberg-group-chat-military-houthi-yemen/682160/): Jeffrey Goldberg on being added to the group chat by Trump Administration</small>
 
 
-| 🔥🔥: 102 \| 💬: [7](https://news.ycombinator.com/item?id=43466983) \| 🗓️ 2025-03-24
+| 🔥🔥: 104 \| 💬: [7](https://news.ycombinator.com/item?id=43466983) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -195,7 +195,7 @@ Apidog MCP服务器可将**API文档**转化为AI开发工具（如Cursor）的�
 <small>🔗 [tjmorley.com](https://tjmorley.com/blogposts/cottagecoreprogrammers.html): Cottagecore Programmers</small>
 
 
-| 🔥: 92 \| 💬: [133](https://news.ycombinator.com/item?id=43464914) \| 🗓️ 2025-03-24
+| 🔥: 94 \| 💬: [134](https://news.ycombinator.com/item?id=43464914) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -219,7 +219,7 @@ Apidog MCP服务器可将**API文档**转化为AI开发工具（如Cursor）的�
 <small>🔗 [mattkeeter.com](https://www.mattkeeter.com/projects/prospero/): The Prospero Challenge</small>
 
 
-| 🔥: 74 \| 💬: [28](https://news.ycombinator.com/item?id=43458780) \| 🗓️ 2025-03-24
+| 🔥: 75 \| 💬: [28](https://news.ycombinator.com/item?id=43458780) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -231,7 +231,7 @@ Apidog MCP服务器可将**API文档**转化为AI开发工具（如Cursor）的�
 <small>🔗 [principlesofcryptography.com](https://principlesofcryptography.com/number-theory-primer-an-axiomatic-study-of-natural-numbers-peano-axioms/): Peano's Axioms</small>
 
 
-| 🔥: 70 \| 💬: [25](https://news.ycombinator.com/item?id=43464541) \| 🗓️ 2025-03-24
+| 🔥: 71 \| 💬: [26](https://news.ycombinator.com/item?id=43464541) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -243,7 +243,7 @@ Apidog MCP服务器可将**API文档**转化为AI开发工具（如Cursor）的�
 <small>🔗 [seanobannon.substack.com](https://seanobannon.substack.com/p/renewable-energy-adoption-and-the): Deregulated energy markets accelerate solar adoption</small>
 
 
-| 🔥: 69 \| 💬: [162](https://news.ycombinator.com/item?id=43462593) \| 🗓️ 2025-03-24
+| 🔥: 69 \| 💬: [163](https://news.ycombinator.com/item?id=43462593) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -281,7 +281,7 @@ Lilly是一款**终端文本编辑器**，旨在为Vim/Neovim用户提供更简�
 <small>🔗 [andregarzia.com](https://andregarzia.com/2021/01/lua-a-misunderstood-language.html): Lua, a Misunderstood Language</small>
 
 
-| 🔥: 52 \| 💬: [6](https://news.ycombinator.com/item?id=43463376) \| 🗓️ 2025-03-24
+| 🔥: 54 \| 💬: [6](https://news.ycombinator.com/item?id=43463376) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -293,7 +293,7 @@ Lua常因**“缺乏开箱即用功能”**遭到批评，但作者强调其核�
 <small>🔗 [futurism.com](https://futurism.com/openai-over-copyrighted-work): OpenAI Says It's "Over" If It Can't Steal All Your Copyrighted Work</small>
 
 
-| 🔥: 51 \| 💬: [64](https://news.ycombinator.com/item?id=43465333) \| 🗓️ 2025-03-24
+| 🔥: 52 \| 💬: [64](https://news.ycombinator.com/item?id=43465333) \| 🗓️ 2025-03-24
 
 
 <br />
