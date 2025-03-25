@@ -10,8 +10,8 @@ tags:
 
 1. 特朗普政府误将作战计划短信发给了我；
 1. 欧洲替代工具网站访问量激增，三大趋势显现；
-1. Qwen2.5-VL-32B：更智能、更轻量的视觉语言模型；
 1. 我绝不会把洗碗机连上你的破云服务；
+1. Qwen2.5-VL-32B：更智能、更轻量的视觉语言模型；
 1. 小工具Goblin.tools：专为神经多样性人群设计的单任务助手；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/): The Trump administration accidentally texted me its war plans</small>
 
 
-| 🔥🔥: 789 \| 💬: [249](https://news.ycombinator.com/item?id=43462783) \| 🗓️ 2025-03-24
+| 🔥🔥: 827 \| 💬: [256](https://news.ycombinator.com/item?id=43462783) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [plausible.io](https://plausible.io/blog/european-alternatives-trends-privacy-tech): Millions are visiting the European Alternatives site. What trends are we seeing?</small>
 
 
-| 🔥🔥: 459 \| 💬: [550](https://news.ycombinator.com/item?id=43458509) \| 🗓️ 2025-03-24
+| 🔥🔥: 459 \| 💬: [551](https://news.ycombinator.com/item?id=43458509) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -47,23 +47,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. Qwen2.5-VL-32B：更智能、更轻量的视觉语言模型 
-<small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwen2.5-vl-32b/): Qwen2.5-VL-32B: Smarter and Lighter</small>
-
-
-| 🔥🔥: 373 \| 💬: [184](https://news.ycombinator.com/item?id=43464068) \| 🗓️ 2025-03-24
-
-
-<br />
-基于Qwen2.5-VL系列优化，新开源的**32B参数模型**在**多模态任务**中表现卓越。其特点包括：**更符合人类偏好的输出风格**、**数学推理能力显著提升**，以及**细粒度图像理解与推理**的增强。在MMMU、MathVista等复杂推理基准测试中，性能超越同规模模型甚至更大参数模型（如Qwen2-VL-72B）。此外，纯文本能力也达到顶尖水平。模型以Apache 2.0协议开源，适用于学术与工业场景。
-
----
-
-## <a name="4"></a>4. 我绝不会把洗碗机连上你的破云服务 
+## <a name="3"></a>3. 我绝不会把洗碗机连上你的破云服务 
 <small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/i-wont-connect-my-dishwasher-your-stupid-cloud): I won't connect my dishwasher to your cloud</small>
 
 
-| 🔥🔥: 348 \| 💬: [255](https://news.ycombinator.com/item?id=43463200) \| 🗓️ 2025-03-24
+| 🔥🔥: 387 \| 💬: [276](https://news.ycombinator.com/item?id=43463200) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -71,11 +59,23 @@ tags:
 
 ---
 
+## <a name="4"></a>4. Qwen2.5-VL-32B：更智能、更轻量的视觉语言模型 
+<small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwen2.5-vl-32b/): Qwen2.5-VL-32B: Smarter and Lighter</small>
+
+
+| 🔥🔥: 386 \| 💬: [191](https://news.ycombinator.com/item?id=43464068) \| 🗓️ 2025-03-24
+
+
+<br />
+基于Qwen2.5-VL系列优化，新开源的**32B参数模型**在**多模态任务**中表现卓越。其特点包括：**更符合人类偏好的输出风格**、**数学推理能力显著提升**，以及**细粒度图像理解与推理**的增强。在MMMU、MathVista等复杂推理基准测试中，性能超越同规模模型甚至更大参数模型（如Qwen2-VL-72B）。此外，纯文本能力也达到顶尖水平。模型以Apache 2.0协议开源，适用于学术与工业场景。
+
+---
+
 ## <a name="5"></a>5. 小工具Goblin.tools：专为神经多样性人群设计的单任务助手 
 <small>🔗 [goblin.tools](https://goblin.tools/): Goblin.tools: simple, single-task tools to help neurodivergent people with tasks</small>
 
 
-| 🔥🔥: 296 \| 💬: [173](https://news.ycombinator.com/item?id=43461375) \| 🗓️ 2025-03-24
+| 🔥🔥: 302 \| 💬: [183](https://news.ycombinator.com/item?id=43461375) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -87,7 +87,7 @@ Goblin.tools提供**Magic ToDo**功能，通过**辣度等级🌶️**自动拆�
 <small>🔗 [blog.marcocantu.com](https://blog.marcocantu.com/blog/2025-march-mastering-delphi5-annotated-complete.html): Mastering Delphi 5 2025 Annotated Edition Is Now Complete</small>
 
 
-| 🔥🔥: 155 \| 💬: [80](https://news.ycombinator.com/item?id=43462299) \| 🗓️ 2025-03-24
+| 🔥🔥: 161 \| 💬: [80](https://news.ycombinator.com/item?id=43462299) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -99,7 +99,7 @@ Goblin.tools提供**Magic ToDo**功能，通过**辣度等级🌶️**自动拆�
 <small>🔗 [newyorker.com](https://www.newyorker.com/culture/persons-of-interest/the-game-designer-playing-through-his-own-psyche): The game designer playing through his own psyche</small>
 
 
-| 🔥🔥: 133 \| 💬: [78](https://news.ycombinator.com/item?id=43459361) \| 🗓️ 2025-03-24
+| 🔥🔥: 135 \| 💬: [84](https://news.ycombinator.com/item?id=43459361) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -111,7 +111,7 @@ Goblin.tools提供**Magic ToDo**功能，通过**辣度等级🌶️**自动拆�
 <small>🔗 [internetarchive.eu](https://www.internetarchive.eu/): Internet Archive Europe – Bringing Collections to Life</small>
 
 
-| 🔥🔥: 126 \| 💬: [24](https://news.ycombinator.com/item?id=43464230) \| 🗓️ 2025-03-24
+| 🔥🔥: 127 \| 💬: [24](https://news.ycombinator.com/item?id=43464230) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -123,7 +123,7 @@ Goblin.tools提供**Magic ToDo**功能，通过**辣度等级🌶️**自动拆�
 <small>🔗 [arcprize.org](https://arcprize.org/blog/announcing-arc-agi-2-and-arc-prize-2025): Arc-AGI-2 and ARC Prize 2025</small>
 
 
-| 🔥🔥: 107 \| 💬: [45](https://news.ycombinator.com/item?id=43465147) \| 🗓️ 2025-03-24
+| 🔥🔥: 121 \| 💬: [49](https://news.ycombinator.com/item?id=43465147) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -131,59 +131,11 @@ ARC-AGI-2作为新一代**通用人工智能评测基准**正式发布，其任�
 
 ---
 
-## <a name="10"></a>10. 惠普通过集体诉讼和解避免因固件更新导致打印机变砖的赔偿 
-<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/hp-avoids-monetary-damages-over-bricked-printers-in-class-action-settlement/): HP avoids monetary damages over bricked printers in class-action settlement</small>
-
-
-| 🔥🔥: 105 \| 💬: [84](https://news.ycombinator.com/item?id=43458759) \| 🗓️ 2025-03-24
-
-
-<br />
-美国加州北区法院批准了惠普与用户达成的和解协议。用户指控惠普通过**固件更新**阻止打印机使用第三方墨盒，但惠普未承认过错且无需赔偿用户。和解条款要求惠普继续允许特定型号打印机用户**拒绝安装含Dynamic Security功能的更新**，并披露数据收集行为。惠普仅需支付少量补偿金及律师费，但**Dynamic Security**仍适用于多数新款打印机。此前，惠普曾因类似问题在多地支付赔偿，目前仍有其他诉讼进行中。
-
----
-
-## <a name="11"></a>11. 特朗普政府误将记者拉入军事行动加密群聊 
-<small>🔗 [theatlantic.com](https://www.theatlantic.com/newsletters/archive/2025/03/jeffrey-goldberg-group-chat-military-houthi-yemen/682160/): Jeffrey Goldberg on being added to the group chat by Trump Administration</small>
-
-
-| 🔥: 98 \| 💬: [6](https://news.ycombinator.com/item?id=43466983) \| 🗓️ 2025-03-24
-
-
-<br />
-《大西洋月刊》主编**杰弗里·戈德堡**意外被拉入特朗普政府高层讨论空袭也门胡塞武装的**Signal加密群聊**，实时获取作战细节。总统特朗普对此毫不知情，并再次批评该媒体。国家安全委员会承认信息链属实，正调查失误原因。戈德堡指出，此举暴露政府**通信安全漏洞**，且群聊内容未按法规存档。对话显示副总统彭斯态度谨慎，而**斯蒂芬·米勒**（疑似“S M”）发言后讨论戛然而止，凸显其影响力。事件引发对敏感信息使用加密软件的合规性质疑。
-
----
-
-## <a name="12"></a>12. 我们开发了Apidog MCP服务器，让Cursor能通过REST API文档生成代码 
-<small>🔗 [npmjs.com](https://www.npmjs.com/package/apidog-mcp-server): Show HN: We made an MCP Server so Cursor can build things from REST API docs</small>
-
-
-| 🔥: 97 \| 💬: [68](https://news.ycombinator.com/item?id=43459240) \| 🗓️ 2025-03-24
-
-
-<br />
-Apidog MCP服务器可将**API文档**转化为AI开发工具（如Cursor）的数据源，**自动生成或修改代码**，提升开发效率。支持从Apidog项目或**Swagger/OAS文件**读取文档，并缓存到本地供AI调用。安装需Node.js环境，配置简单，只需添加项目ID和访问令牌。目前为测试版，欢迎反馈。
-
----
-
-## <a name="13"></a>13. 美军对基督复临安息日会信徒进行的“白大褂计划”人体实验（2010年） 
-<small>🔗 [scholarworks.lib.csusb.edu](https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=1201&context=history-in-the-making): Project Operation Whitecoat (2010)</small>
-
-
-| 🔥: 96 \| 💬: [73](https://news.ycombinator.com/item?id=43462882) \| 🗓️ 2025-03-24
-
-
-<br />
-该文档揭示了冷战时期美军实施的**“白大褂计划”**，以基督复临安息日会信徒为对象进行生物武器相关人体实验。研究涉及**致命病原体测试**，参与者因宗教信仰拒绝服役而被选为“ conscientious objectors”。文件披露了实验的伦理争议、军方与宗教团体间的特殊协议，以及长期健康影响等关键信息，展现了**军事医学研究**中鲜为人知的黑暗面。
-
----
-
-## <a name="14"></a>14. 德国议会投票数据可视化：2024年关键议题表决结果 
+## <a name="10"></a>10. 德国议会投票数据可视化：2024年关键议题表决结果 
 <small>🔗 [abstimmung.eu](https://abstimmung.eu/git/2024): German parliament votes as a Git contribution graph</small>
 
 
-| 🔥: 92 \| 💬: [26](https://news.ycombinator.com/item?id=43466509) \| 🗓️ 2025-03-24
+| 🔥🔥: 120 \| 💬: [40](https://news.ycombinator.com/item?id=43466509) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -191,7 +143,67 @@ Apidog MCP服务器可将**API文档**转化为AI开发工具（如Cursor）的�
 
 ---
 
-## <a name="15"></a>15. 特斯拉在圣地亚哥县销量暴跌35% 
+## <a name="11"></a>11. 惠普通过集体诉讼和解避免因固件更新导致打印机变砖的赔偿 
+<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/hp-avoids-monetary-damages-over-bricked-printers-in-class-action-settlement/): HP avoids monetary damages over bricked printers in class-action settlement</small>
+
+
+| 🔥🔥: 107 \| 💬: [84](https://news.ycombinator.com/item?id=43458759) \| 🗓️ 2025-03-24
+
+
+<br />
+美国加州北区法院批准了惠普与用户达成的和解协议。用户指控惠普通过**固件更新**阻止打印机使用第三方墨盒，但惠普未承认过错且无需赔偿用户。和解条款要求惠普继续允许特定型号打印机用户**拒绝安装含Dynamic Security功能的更新**，并披露数据收集行为。惠普仅需支付少量补偿金及律师费，但**Dynamic Security**仍适用于多数新款打印机。此前，惠普曾因类似问题在多地支付赔偿，目前仍有其他诉讼进行中。
+
+---
+
+## <a name="12"></a>12. 特朗普政府误将记者拉入军事行动加密群聊 
+<small>🔗 [theatlantic.com](https://www.theatlantic.com/newsletters/archive/2025/03/jeffrey-goldberg-group-chat-military-houthi-yemen/682160/): Jeffrey Goldberg on being added to the group chat by Trump Administration</small>
+
+
+| 🔥🔥: 102 \| 💬: [7](https://news.ycombinator.com/item?id=43466983) \| 🗓️ 2025-03-24
+
+
+<br />
+《大西洋月刊》主编**杰弗里·戈德堡**意外被拉入特朗普政府高层讨论空袭也门胡塞武装的**Signal加密群聊**，实时获取作战细节。总统特朗普对此毫不知情，并再次批评该媒体。国家安全委员会承认信息链属实，正调查失误原因。戈德堡指出，此举暴露政府**通信安全漏洞**，且群聊内容未按法规存档。对话显示副总统彭斯态度谨慎，而**斯蒂芬·米勒**（疑似“S M”）发言后讨论戛然而止，凸显其影响力。事件引发对敏感信息使用加密软件的合规性质疑。
+
+---
+
+## <a name="13"></a>13. 美军对基督复临安息日会信徒进行的“白大褂计划”人体实验（2010年） 
+<small>🔗 [scholarworks.lib.csusb.edu](https://scholarworks.lib.csusb.edu/cgi/viewcontent.cgi?article=1201&context=history-in-the-making): Project Operation Whitecoat (2010)</small>
+
+
+| 🔥: 98 \| 💬: [74](https://news.ycombinator.com/item?id=43462882) \| 🗓️ 2025-03-24
+
+
+<br />
+该文档揭示了冷战时期美军实施的**“白大褂计划”**，以基督复临安息日会信徒为对象进行生物武器相关人体实验。研究涉及**致命病原体测试**，参与者因宗教信仰拒绝服役而被选为“ conscientious objectors”。文件披露了实验的伦理争议、军方与宗教团体间的特殊协议，以及长期健康影响等关键信息，展现了**军事医学研究**中鲜为人知的黑暗面。
+
+---
+
+## <a name="14"></a>14. 我们开发了Apidog MCP服务器，让Cursor能通过REST API文档生成代码 
+<small>🔗 [npmjs.com](https://www.npmjs.com/package/apidog-mcp-server): Show HN: We made an MCP Server so Cursor can build things from REST API docs</small>
+
+
+| 🔥: 97 \| 💬: [69](https://news.ycombinator.com/item?id=43459240) \| 🗓️ 2025-03-24
+
+
+<br />
+Apidog MCP服务器可将**API文档**转化为AI开发工具（如Cursor）的数据源，**自动生成或修改代码**，提升开发效率。支持从Apidog项目或**Swagger/OAS文件**读取文档，并缓存到本地供AI调用。安装需Node.js环境，配置简单，只需添加项目ID和访问令牌。目前为测试版，欢迎反馈。
+
+---
+
+## <a name="15"></a>15. 程序员为何向往归隐田园？ 
+<small>🔗 [tjmorley.com](https://tjmorley.com/blogposts/cottagecoreprogrammers.html): Cottagecore Programmers</small>
+
+
+| 🔥: 92 \| 💬: [133](https://news.ycombinator.com/item?id=43464914) \| 🗓️ 2025-03-24
+
+
+<br />
+许多程序员常表达对**体力劳动**的渴望，如务农、木工或养殖，反映出对现代科技工作的**倦怠感**。这种情绪源于对琐碎任务（如调整按钮像素）的无意义感，以及对数字化生活的疏离。文章探讨了美国历史上对**农耕理想**的神化（如杰斐逊的 agrarian myth），并指出当代人因经济焦虑和异化劳动，转而向往"田园诗"生活。作者以自身农场成长经历对比，质疑这种浪漫化倾向的合理性。
+
+---
+
+## <a name="16"></a>16. 特斯拉在圣地亚哥县销量暴跌35% 
 <small>🔗 [fox5sandiego.com](https://fox5sandiego.com/news/business/tesla-sales-drop-35-in-san-diego-county/): Tesla sales drop 35% in San Diego County</small>
 
 
@@ -203,23 +215,11 @@ Apidog MCP服务器可将**API文档**转化为AI开发工具（如Cursor）的�
 
 ---
 
-## <a name="16"></a>16. 程序员为何向往归隐田园？ 
-<small>🔗 [tjmorley.com](https://tjmorley.com/blogposts/cottagecoreprogrammers.html): Cottagecore Programmers</small>
-
-
-| 🔥: 90 \| 💬: [130](https://news.ycombinator.com/item?id=43464914) \| 🗓️ 2025-03-24
-
-
-<br />
-许多程序员常表达对**体力劳动**的渴望，如务农、木工或养殖，反映出对现代科技工作的**倦怠感**。这种情绪源于对琐碎任务（如调整按钮像素）的无意义感，以及对数字化生活的疏离。文章探讨了美国历史上对**农耕理想**的神化（如杰斐逊的 agrarian myth），并指出当代人因经济焦虑和异化劳动，转而向往"田园诗"生活。作者以自身农场成长经历对比，质疑这种浪漫化倾向的合理性。
-
----
-
 ## <a name="17"></a>17. 《普洛斯彼罗挑战：极速渲染数学表达式图像》 
 <small>🔗 [mattkeeter.com](https://www.mattkeeter.com/projects/prospero/): The Prospero Challenge</small>
 
 
-| 🔥: 71 \| 💬: [28](https://news.ycombinator.com/item?id=43458780) \| 🗓️ 2025-03-24
+| 🔥: 74 \| 💬: [28](https://news.ycombinator.com/item?id=43458780) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -227,7 +227,19 @@ Apidog MCP服务器可将**API文档**转化为AI开发工具（如Cursor）的�
 
 ---
 
-## <a name="18"></a>18. 放松管制的电力市场加速太阳能普及 
+## <a name="18"></a>18. 皮亚诺公理：算术的基石 
+<small>🔗 [principlesofcryptography.com](https://principlesofcryptography.com/number-theory-primer-an-axiomatic-study-of-natural-numbers-peano-axioms/): Peano's Axioms</small>
+
+
+| 🔥: 70 \| 💬: [25](https://news.ycombinator.com/item?id=43464541) \| 🗓️ 2025-03-24
+
+
+<br />
+本文探讨了**皮亚诺公理**如何为自然数提供严格的数学定义。通过**后继函数**的概念，公理从**0**出发，逐步构建整个自然数集，并确保其唯一性与无限性。公理还明确了等式的性质（自反性、对称性、传递性），为后续整数、有理数等扩展奠定基础。这一框架展现了数学从直觉到形式化的精妙过程。
+
+---
+
+## <a name="19"></a>19. 放松管制的电力市场加速太阳能普及 
 <small>🔗 [seanobannon.substack.com](https://seanobannon.substack.com/p/renewable-energy-adoption-and-the): Deregulated energy markets accelerate solar adoption</small>
 
 
@@ -239,19 +251,21 @@ Apidog MCP服务器可将**API文档**转化为AI开发工具（如Cursor）的�
 
 ---
 
-## <a name="19"></a>19. 皮亚诺公理：算术的基石 
-<small>🔗 [principlesofcryptography.com](https://principlesofcryptography.com/number-theory-primer-an-axiomatic-study-of-natural-numbers-peano-axioms/): Peano's Axioms</small>
+## <a name="20"></a>20. ingress-Nginx曝出高危漏洞（CVSS 9.8分） 
+<small>🔗 [groups.google.com](https://groups.google.com/g/kubernetes-security-announce/c/2qa9DFtN0cQ): Multiple vulnerabilities in ingress-Nginx (Score 9.8)</small>
 
 
-| 🔥: 64 \| 💬: [22](https://news.ycombinator.com/item?id=43464541) \| 🗓️ 2025-03-24
+| 🔥: 55 \| 💬: [9](https://news.ycombinator.com/item?id=43465424) \| 🗓️ 2025-03-24
 
 
 <br />
-本文探讨了**皮亚诺公理**如何为自然数提供严格的数学定义。通过**后继函数**的概念，公理从**0**出发，逐步构建整个自然数集，并确保其唯一性与无限性。公理还明确了等式的性质（自反性、对称性、传递性），为后续整数、有理数等扩展奠定基础。这一框架展现了数学从直觉到形式化的精妙过程。
+Kubernetes社区发布安全通告，**ingress-nginx控制器**存在多个漏洞（包括CVE-2025-1974），攻击者可利用漏洞**执行任意代码**并获取集群内所有Secret。影响版本包括v1.11.0之前版本及v1.11.0-1.11.4、v1.12.0。  
+
+**修复方案**：必须升级至v1.11.5或v1.12.1及以上版本，临时缓解措施为禁用Validating Admission Controller功能。漏洞由Wiz团队发现，已由Kubernetes安全委员会协调修复。
 
 ---
 
-## <a name="20"></a>20. TUI编辑器：轻量级Vim/Neovim替代方案 
+## <a name="21"></a>21. TUI编辑器：轻量级Vim/Neovim替代方案 
 <small>🔗 [github.com](https://github.com/tauraamui/lilly): TUI editor and Vim/Neovim alternative</small>
 
 
@@ -263,25 +277,11 @@ Lilly是一款**终端文本编辑器**，旨在为Vim/Neovim用户提供更简�
 
 ---
 
-## <a name="21"></a>21. ingress-Nginx曝出高危漏洞（CVSS 9.8分） 
-<small>🔗 [groups.google.com](https://groups.google.com/g/kubernetes-security-announce/c/2qa9DFtN0cQ): Multiple vulnerabilities in ingress-Nginx (Score 9.8)</small>
-
-
-| 🔥: 52 \| 💬: [9](https://news.ycombinator.com/item?id=43465424) \| 🗓️ 2025-03-24
-
-
-<br />
-Kubernetes社区发布安全通告，**ingress-nginx控制器**存在多个漏洞（包括CVE-2025-1974），攻击者可利用漏洞**执行任意代码**并获取集群内所有Secret。影响版本包括v1.11.0之前版本及v1.11.0-1.11.4、v1.12.0。  
-
-**修复方案**：必须升级至v1.11.5或v1.12.1及以上版本，临时缓解措施为禁用Validating Admission Controller功能。漏洞由Wiz团队发现，已由Kubernetes安全委员会协调修复。
-
----
-
 ## <a name="22"></a>22. 被误解的Lua：一门工具型语言的本质 
 <small>🔗 [andregarzia.com](https://andregarzia.com/2021/01/lua-a-misunderstood-language.html): Lua, a Misunderstood Language</small>
 
 
-| 🔥: 49 \| 💬: [5](https://news.ycombinator.com/item?id=43463376) \| 🗓️ 2025-03-24
+| 🔥: 52 \| 💬: [6](https://news.ycombinator.com/item?id=43463376) \| 🗓️ 2025-03-24
 
 
 <br />
@@ -293,7 +293,7 @@ Lua常因**“缺乏开箱即用功能”**遭到批评，但作者强调其核�
 <small>🔗 [futurism.com](https://futurism.com/openai-over-copyrighted-work): OpenAI Says It's "Over" If It Can't Steal All Your Copyrighted Work</small>
 
 
-| 🔥: 48 \| 💬: [63](https://news.ycombinator.com/item?id=43465333) \| 🗓️ 2025-03-24
+| 🔥: 51 \| 💬: [64](https://news.ycombinator.com/item?id=43465333) \| 🗓️ 2025-03-24
 
 
 <br />
