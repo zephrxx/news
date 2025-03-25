@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共21条，具体内容您往下读...
+总共22条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [supernuclear.substack.com](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed): Stoop Coffee: A simple idea transformed my neighborhood</small>
 
 
-| 🔥🔥: 571 \| 💬: [220](https://news.ycombinator.com/item?id=43473618) \| 🗓️ 2025-03-25
+| 🔥🔥: 663 \| 💬: [244](https://news.ycombinator.com/item?id=43473618) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [blog.google](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/): Gemini 2.5</small>
 
 
-| 🔥🔥: 488 \| 💬: [233](https://news.ycombinator.com/item?id=43473489) \| 🗓️ 2025-03-25
+| 🔥🔥: 530 \| 💬: [253](https://news.ycombinator.com/item?id=43473489) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [toad.social](https://toad.social/@grumpybozo/114213600922816869): Spammers are better at SPF, DKIM, and DMARC than everyone else</small>
 
 
-| 🔥🔥: 367 \| 💬: [200](https://news.ycombinator.com/item?id=43468995) \| 🗓️ 2025-03-25
+| 🔥🔥: 370 \| 💬: [204](https://news.ycombinator.com/item?id=43468995) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [engadget.com](https://www.engadget.com/big-tech/samsung-ceo-jong-hee-han-has-died-120029286.html): Samsung CEO Jong-hee Han has died</small>
 
 
-| 🔥🔥: 243 \| 💬: [132](https://news.ycombinator.com/item?id=43470699) \| 🗓️ 2025-03-25
+| 🔥🔥: 244 \| 💬: [141](https://news.ycombinator.com/item?id=43470699) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [runningshoescore.com](https://runningshoescore.com/blog/barefoot-running-hysteria-of-2010): The Great Barefoot Running Hysteria of 2010</small>
 
 
-| 🔥🔥: 177 \| 💬: [186](https://news.ycombinator.com/item?id=43469690) \| 🗓️ 2025-03-25
+| 🔥🔥: 179 \| 💬: [188](https://news.ycombinator.com/item?id=43469690) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [electrek.co](https://electrek.co/2025/03/25/tesla-tsla-deliveries-down-43-in-europe-while-evs-are-up-28/): Tesla deliveries down 43% in Europe while EVs are up 31%</small>
 
 
-| 🔥🔥: 171 \| 💬: [228](https://news.ycombinator.com/item?id=43470763) \| 🗓️ 2025-03-25
+| 🔥🔥: 172 \| 💬: [235](https://news.ycombinator.com/item?id=43470763) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [socallinuxexpo.org](https://www.socallinuxexpo.org/scale/22x/presentations/closing-keynote-leslie-lamport): Coding Isn't Programming</small>
 
 
-| 🔥🔥: 147 \| 💬: [176](https://news.ycombinator.com/item?id=43469711) \| 🗓️ 2025-03-25
+| 🔥🔥: 148 \| 💬: [182](https://news.ycombinator.com/item?id=43469711) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -107,35 +107,11 @@ tags:
 
 ---
 
-## <a name="8"></a>8. 从零开始编写自己的C++标准库 
-<small>🔗 [nibblestew.blogspot.com](https://nibblestew.blogspot.com/2025/03/writing-your-own-c-standard-library.html): Writing your own C++ standard library from scratch</small>
-
-
-| 🔥🔥: 136 \| 💬: [112](https://news.ycombinator.com/item?id=43468976) \| 🗓️ 2025-03-25
-
-
-<br />
-本文探讨了**从头实现C++标准库**（STL）的挑战与乐趣。作者指出，尽管STL功能强大，但其**编译速度慢**、代码晦涩难懂，且受限于严格的向后兼容性。通过禁用STL并自行实现核心功能（如文件处理、字符串、哈希表等），作者展示了**pystd**库的简洁性（仅1000行代码），其性能与STL相当，但编译时间更短。此外，pystd采用**按年份命名空间**的设计，既支持ABI稳定性，又允许未来灵活调整，解决了传统标准库难以更新的问题。
-
----
-
-## <a name="9"></a>9. 硅谷AI泡沫危机：万亿豪赌恐引发经济崩塌 
-<small>🔗 [prospect.org](https://prospect.org/power/2025-03-25-bubble-trouble-ai-threat/): An AI bubble threatens Silicon Valley, and all of us</small>
-
-
-| 🔥🔥: 133 \| 💬: [124](https://news.ycombinator.com/item?id=43470786) \| 🗓️ 2025-03-25
-
-
-<br />
-OpenAI耗资5000亿美元的**“星际之门”计划**遭遇中国开源模型**DeepSeek R1**的挑战，后者以95%的成本优势实现同等性能，直接威胁OpenAI的盈利模式。硅谷已投入**2000亿美元**押注生成式AI，但OpenAI年亏损达50亿美元，且依赖未来技术突破才能平衡收支。若泡沫破裂，科技巨头股价崩盘或引发全球经济危机。同时，AI数据中心将吞噬全美12%电力，进一步暴露行业不可持续的发展困境。
-
----
-
-## <a name="10"></a>10. 凯莉·米洛的字体情歌：当流行天后化身德国粗斜体 
+## <a name="8"></a>8. 凯莉·米洛的字体情歌：当流行天后化身德国粗斜体 
 <small>🔗 [abcdinamo.com](https://abcdinamo.com/news/german-bold-italic): Kylie Minogue song about a typeface</small>
 
 
-| 🔥🔥: 129 \| 💬: [49](https://news.ycombinator.com/item?id=43473358) \| 🗓️ 2025-03-25
+| 🔥🔥: 140 \| 💬: [51](https://news.ycombinator.com/item?id=43473358) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -143,11 +119,23 @@ OpenAI耗资5000亿美元的**“星际之门”计划**遭遇中国开源模型
 
 ---
 
-## <a name="11"></a>11. 开源OpenPubkey SSH（OPKSSH）：将单点登录集成到SSH中 
+## <a name="9"></a>9. 从零开始编写自己的C++标准库 
+<small>🔗 [nibblestew.blogspot.com](https://nibblestew.blogspot.com/2025/03/writing-your-own-c-standard-library.html): Writing your own C++ standard library from scratch</small>
+
+
+| 🔥🔥: 137 \| 💬: [114](https://news.ycombinator.com/item?id=43468976) \| 🗓️ 2025-03-25
+
+
+<br />
+本文探讨了**从头实现C++标准库**（STL）的挑战与乐趣。作者指出，尽管STL功能强大，但其**编译速度慢**、代码晦涩难懂，且受限于严格的向后兼容性。通过禁用STL并自行实现核心功能（如文件处理、字符串、哈希表等），作者展示了**pystd**库的简洁性（仅1000行代码），其性能与STL相当，但编译时间更短。此外，pystd采用**按年份命名空间**的设计，既支持ABI稳定性，又允许未来灵活调整，解决了传统标准库难以更新的问题。
+
+---
+
+## <a name="10"></a>10. 开源OpenPubkey SSH（OPKSSH）：将单点登录集成到SSH中 
 <small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/): Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH</small>
 
 
-| 🔥🔥: 125 \| 💬: [98](https://news.ycombinator.com/item?id=43470906) \| 🗓️ 2025-03-25
+| 🔥🔥: 136 \| 💬: [104](https://news.ycombinator.com/item?id=43470906) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -155,11 +143,23 @@ OpenPubkey SSH（OPKSSH）通过整合**单点登录（SSO）**技术（如OpenI
 
 ---
 
+## <a name="11"></a>11. 硅谷AI泡沫危机：万亿豪赌恐引发经济崩塌 
+<small>🔗 [prospect.org](https://prospect.org/power/2025-03-25-bubble-trouble-ai-threat/): An AI bubble threatens Silicon Valley, and all of us</small>
+
+
+| 🔥🔥: 134 \| 💬: [124](https://news.ycombinator.com/item?id=43470786) \| 🗓️ 2025-03-25
+
+
+<br />
+OpenAI耗资5000亿美元的**“星际之门”计划**遭遇中国开源模型**DeepSeek R1**的挑战，后者以95%的成本优势实现同等性能，直接威胁OpenAI的盈利模式。硅谷已投入**2000亿美元**押注生成式AI，但OpenAI年亏损达50亿美元，且依赖未来技术突破才能平衡收支。若泡沫破裂，科技巨头股价崩盘或引发全球经济危机。同时，AI数据中心将吞噬全美12%电力，进一步暴露行业不可持续的发展困境。
+
+---
+
 ## <a name="12"></a>12. VGGT：基于视觉几何的Transformer模型 
 <small>🔗 [github.com](https://github.com/facebookresearch/vggt): VGGT: Visual Geometry Grounded Transformer</small>
 
 
-| 🔥🔥: 124 \| 💬: [32](https://news.ycombinator.com/item?id=43470651) \| 🗓️ 2025-03-25
+| 🔥🔥: 129 \| 💬: [33](https://news.ycombinator.com/item?id=43470651) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -173,7 +173,7 @@ VGGT（Visual Geometry Grounded Transformer）是由牛津大学视觉几何组�
 <small>🔗 [theverge.com](https://www.theverge.com/twitter/634833/x-head-engineering-leaves-elon-musk): X’s director of engineering, Haofei Wang, has left the company</small>
 
 
-| 🔥🔥: 111 \| 💬: [182](https://news.ycombinator.com/item?id=43470613) \| 🗓️ 2025-03-25
+| 🔥🔥: 111 \| 💬: [184](https://news.ycombinator.com/item?id=43470613) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -185,7 +185,7 @@ VGGT（Visual Geometry Grounded Transformer）是由牛津大学视觉几何组�
 <small>🔗 [math.ucr.edu](https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html): Why is C the symbol for the speed of light? (2004)</small>
 
 
-| 🔥: 98 \| 💬: [81](https://news.ycombinator.com/item?id=43472663) \| 🗓️ 2025-03-25
+| 🔥🔥: 103 \| 💬: [87](https://news.ycombinator.com/item?id=43472663) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -205,15 +205,15 @@ VGGT（Visual Geometry Grounded Transformer）是由牛津大学视觉几何组�
 
 ---
 
-## <a name="16"></a>16. Go语言高性能近似最近邻搜索库Hann 
-<small>🔗 [github.com](https://github.com/habedi/hann): Hann: A Fast Approximate Nearest Neighbor Search Library for Go</small>
+## <a name="16"></a>16. Hacker News上最受欢迎的个人博客排名 
+<small>🔗 [refactoringenglish.com](https://refactoringenglish.com/tools/hn-popularity/): The highest-ranking personal blogs of Hacker News</small>
 
 
-| 🔥: 75 \| 💬: [8](https://news.ycombinator.com/item?id=43470162) \| 🗓️ 2025-03-25
+| 🔥: 89 \| 💬: [28](https://news.ycombinator.com/item?id=43474505) \| 🗓️ 2025-03-25
 
 
 <br />
-Hann是一个专为Go语言设计的**高性能近似最近邻搜索（ANN）库**，支持多种索引算法，包括**HNSW**、PQIVF和RPT，适用于高维向量相似性搜索。该库提供统一接口、SIMD加速距离计算、批量操作及磁盘持久化功能，可作为向量数据库的核心组件。支持欧氏距离、余弦距离等多种度量方式，需Go 1.21及以上版本并依赖AVX指令集。适用于需要快速内存搜索的场景，如推荐系统或语义检索。
+该内容展示了Hacker News平台上**个人博客的排名榜单**，涵盖不同时间范围（如全年、近5年等）。榜单通过**总评分**、作者简介和主题分类等维度呈现，并提供自定义筛选功能。数据来源基于用户提交的**高热度内容**，旨在反映社区最关注的独立创作者。
 
 ---
 
@@ -221,7 +221,7 @@ Hann是一个专为Go语言设计的**高性能近似最近邻搜索（ANN）库
 <small>🔗 [alexwlchan.net](https://alexwlchan.net/2025/github-actions-audit/): Whose code am I running in GitHub Actions?</small>
 
 
-| 🔥: 75 \| 💬: [26](https://news.ycombinator.com/item?id=43473623) \| 🗓️ 2025-03-25
+| 🔥: 83 \| 💬: [32](https://news.ycombinator.com/item?id=43473623) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -229,7 +229,19 @@ Hann是一个专为Go语言设计的**高性能近似最近邻搜索（ANN）库
 
 ---
 
-## <a name="18"></a>18. Kubernetes Ingress NGINX曝严重漏洞，43%云环境面临集群接管风险 
+## <a name="18"></a>18. Go语言高性能近似最近邻搜索库Hann 
+<small>🔗 [github.com](https://github.com/habedi/hann): Hann: A Fast Approximate Nearest Neighbor Search Library for Go</small>
+
+
+| 🔥: 78 \| 💬: [8](https://news.ycombinator.com/item?id=43470162) \| 🗓️ 2025-03-25
+
+
+<br />
+Hann是一个专为Go语言设计的**高性能近似最近邻搜索（ANN）库**，支持多种索引算法，包括**HNSW**、PQIVF和RPT，适用于高维向量相似性搜索。该库提供统一接口、SIMD加速距离计算、批量操作及磁盘持久化功能，可作为向量数据库的核心组件。支持欧氏距离、余弦距离等多种度量方式，需Go 1.21及以上版本并依赖AVX指令集。适用于需要快速内存搜索的场景，如推荐系统或语义检索。
+
+---
+
+## <a name="19"></a>19. Kubernetes Ingress NGINX曝严重漏洞，43%云环境面临集群接管风险 
 <small>🔗 [wiz.io](https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities): Critical Unauthenticated Remote Code Execution Vulnerabilities in Ingress NGINX</small>
 
 
@@ -241,7 +253,7 @@ Wiz研究团队发现代号**#IngressNightmare**的4个高危漏洞（CVE-2025-1
 
 ---
 
-## <a name="19"></a>19. Marginalia搜索项目再获NLnet基金会资助 
+## <a name="20"></a>20. Marginalia搜索项目再获NLnet基金会资助 
 <small>🔗 [marginalia.nu](https://www.marginalia.nu/log/a_116_grant_2.0/): Marginalia Search receives second nlnet grant</small>
 
 
@@ -253,11 +265,11 @@ Marginalia搜索项目宣布**第二次获得NLnet基金会资助**，资金将�
 
 ---
 
-## <a name="20"></a>20. 微软多个Outlook版本让用户困惑，连自家员工也不例外 
+## <a name="21"></a>21. 微软多个Outlook版本让用户困惑，连自家员工也不例外 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/25/too_many_outlooks/): Microsoft's many Outlooks are confusing users – including its own employees</small>
 
 
-| 🔥: 72 \| 💬: [76](https://news.ycombinator.com/item?id=43474707) \| 🗓️ 2025-03-25
+| 🔥: 73 \| 💬: [79](https://news.ycombinator.com/item?id=43474707) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -265,7 +277,7 @@ Marginalia搜索项目宣布**第二次获得NLnet基金会资助**，资金将�
 
 ---
 
-## <a name="21"></a>21. 《时空之轮》发售30年仍让我震撼不已 
+## <a name="22"></a>22. 《时空之轮》发售30年仍让我震撼不已 
 <small>🔗 [kotaku.com](https://kotaku.com/chrono-trigger-jrpg-snes-30th-anniversary-square-1851769192): Chrono Trigger Still Blows Me Away 30 Years Later</small>
 
 
