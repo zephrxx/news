@@ -12,7 +12,7 @@ tags:
 1. Gemini 2.5：谷歌最智能的AI模型；
 1. 垃圾邮件发送者比其他人更擅长SPF、DKIM和DMARC；
 1. 三星CEO韩钟熙因心脏病去世；
-1. 建议立即卸载atop监控工具；
+1. Hacker News上最受欢迎的个人博客排名；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [supernuclear.substack.com](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed): Stoop Coffee: A simple idea transformed my neighborhood</small>
 
 
-| 🔥🔥: 951 \| 💬: [322](https://news.ycombinator.com/item?id=43473618) \| 🗓️ 2025-03-25
+| 🔥🔥: 1002 \| 💬: [330](https://news.ycombinator.com/item?id=43473618) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [blog.google](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/): Gemini 2.5</small>
 
 
-| 🔥🔥: 713 \| 💬: [315](https://news.ycombinator.com/item?id=43473489) \| 🗓️ 2025-03-25
+| 🔥🔥: 721 \| 💬: [327](https://news.ycombinator.com/item?id=43473489) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [toad.social](https://toad.social/@grumpybozo/114213600922816869): Spammers are better at SPF, DKIM, and DMARC than everyone else</small>
 
 
-| 🔥🔥: 392 \| 💬: [216](https://news.ycombinator.com/item?id=43468995) \| 🗓️ 2025-03-25
+| 🔥🔥: 393 \| 💬: [218](https://news.ycombinator.com/item?id=43468995) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -71,23 +71,11 @@ tags:
 
 ---
 
-## <a name="5"></a>5. 建议立即卸载atop监控工具 
-<small>🔗 [rachelbythebay.com](https://rachelbythebay.com/w/2025/03/25/atop/): You might want to stop running atop</small>
-
-
-| 🔥🔥: 228 \| 💬: [99](https://news.ycombinator.com/item?id=43477057) \| 🗓️ 2025-03-25
-
-
-<br />
-一位系统管理员以亲身经历警告用户**彻底卸载**（而非仅停止运行）**atop**系统监控工具，强调其潜在风险。作者明确区分atop与其他名称含"top"的工具（如top、htop），但暂未透露具体原因。文章风格简洁直白，暗示后续可能补充更多技术细节。
-
----
-
-## <a name="6"></a>6. Hacker News上最受欢迎的个人博客排名 
+## <a name="5"></a>5. Hacker News上最受欢迎的个人博客排名 
 <small>🔗 [refactoringenglish.com](https://refactoringenglish.com/tools/hn-popularity/): The highest-ranking personal blogs of Hacker News</small>
 
 
-| 🔥🔥: 214 \| 💬: [76](https://news.ycombinator.com/item?id=43474505) \| 🗓️ 2025-03-25
+| 🔥🔥: 233 \| 💬: [79](https://news.ycombinator.com/item?id=43474505) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -95,11 +83,23 @@ tags:
 
 ---
 
+## <a name="6"></a>6. 建议立即卸载atop监控工具 
+<small>🔗 [rachelbythebay.com](https://rachelbythebay.com/w/2025/03/25/atop/): You might want to stop running atop</small>
+
+
+| 🔥🔥: 230 \| 💬: [101](https://news.ycombinator.com/item?id=43477057) \| 🗓️ 2025-03-25
+
+
+<br />
+一位系统管理员以亲身经历警告用户**彻底卸载**（而非仅停止运行）**atop**系统监控工具，强调其潜在风险。作者明确区分atop与其他名称含"top"的工具（如top、htop），但暂未透露具体原因。文章风格简洁直白，暗示后续可能补充更多技术细节。
+
+---
+
 ## <a name="7"></a>7. AI爬虫泛滥致开源项目被迫屏蔽整个国家 
 <small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/): Devs say AI crawlers dominate traffic, forcing blocks on entire countries</small>
 
 
-| 🔥🔥: 200 \| 💬: [133](https://news.ycombinator.com/item?id=43476337) \| 🗓️ 2025-03-25
+| 🔥🔥: 222 \| 💬: [149](https://news.ycombinator.com/item?id=43476337) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/): Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH</small>
 
 
-| 🔥🔥: 192 \| 💬: [118](https://news.ycombinator.com/item?id=43470906) \| 🗓️ 2025-03-25
+| 🔥🔥: 200 \| 💬: [121](https://news.ycombinator.com/item?id=43470906) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -123,7 +123,7 @@ OpenPubkey SSH（OPKSSH）通过整合**单点登录（SSO）**技术（如OpenI
 <small>🔗 [abcdinamo.com](https://abcdinamo.com/news/german-bold-italic): Kylie Minogue song about a typeface</small>
 
 
-| 🔥🔥: 186 \| 💬: [60](https://news.ycombinator.com/item?id=43473358) \| 🗓️ 2025-03-25
+| 🔥🔥: 192 \| 💬: [62](https://news.ycombinator.com/item?id=43473358) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -147,7 +147,7 @@ OpenPubkey SSH（OPKSSH）通过整合**单点登录（SSO）**技术（如OpenI
 <small>🔗 [electrek.co](https://electrek.co/2025/03/25/tesla-tsla-deliveries-down-43-in-europe-while-evs-are-up-28/): Tesla deliveries down 43% in Europe while EVs are up 31%</small>
 
 
-| 🔥🔥: 175 \| 💬: [241](https://news.ycombinator.com/item?id=43470763) \| 🗓️ 2025-03-25
+| 🔥🔥: 176 \| 💬: [242](https://news.ycombinator.com/item?id=43470763) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -155,11 +155,23 @@ OpenPubkey SSH（OPKSSH）通过整合**单点登录（SSO）**技术（如OpenI
 
 ---
 
-## <a name="12"></a>12. VGGT：基于视觉几何的Transformer模型 
+## <a name="12"></a>12. 推销自己，推销你的工作 
+<small>🔗 [solipsys.co.uk](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn): Sell yourself, sell your work</small>
+
+
+| 🔥🔥: 167 \| 💬: [64](https://news.ycombinator.com/item?id=43476249) \| 🗓️ 2025-03-25
+
+
+<br />
+技术上的卓越成就固然重要，但若无人知晓，其价值将大打折扣。**无论多么出色的工作**，若缺乏有效的传播，便无法惠及他人或为你赢得声誉。Richard Hamming强调，科学家不仅需要完成研究，还需学会**“推销”**自己的成果——通过清晰的写作、演讲和展示吸引同行关注。企业家同样面临这一挑战，企业的生存依赖于产品或服务的推广。**沟通能力**是连接才华与世界的桥梁，缺乏它，再 brilliant 的成果也可能被埋没。
+
+---
+
+## <a name="13"></a>13. VGGT：基于视觉几何的Transformer模型 
 <small>🔗 [github.com](https://github.com/facebookresearch/vggt): VGGT: Visual Geometry Grounded Transformer</small>
 
 
-| 🔥🔥: 152 \| 💬: [37](https://news.ycombinator.com/item?id=43470651) \| 🗓️ 2025-03-25
+| 🔥🔥: 154 \| 💬: [37](https://news.ycombinator.com/item?id=43470651) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -169,11 +181,11 @@ VGGT（Visual Geometry Grounded Transformer）是由牛津大学视觉几何组�
 
 ---
 
-## <a name="13"></a>13. 编程不等于写代码 
+## <a name="14"></a>14. 编程不等于写代码 
 <small>🔗 [socallinuxexpo.org](https://www.socallinuxexpo.org/scale/22x/presentations/closing-keynote-leslie-lamport): Coding Isn't Programming</small>
 
 
-| 🔥🔥: 148 \| 💬: [190](https://news.ycombinator.com/item?id=43469711) \| 🗓️ 2025-03-25
+| 🔥🔥: 149 \| 💬: [190](https://news.ycombinator.com/item?id=43469711) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -181,19 +193,19 @@ VGGT（Visual Geometry Grounded Transformer）是由牛津大学视觉几何组�
 
 ---
 
-## <a name="14"></a>14. 推销自己，推销你的工作 
-<small>🔗 [solipsys.co.uk](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn): Sell yourself, sell your work</small>
+## <a name="15"></a>15. GitHub Actions 中我到底在运行谁的代码？ 
+<small>🔗 [alexwlchan.net](https://alexwlchan.net/2025/github-actions-audit/): Whose code am I running in GitHub Actions?</small>
 
 
-| 🔥🔥: 145 \| 💬: [57](https://news.ycombinator.com/item?id=43476249) \| 🗓️ 2025-03-25
+| 🔥🔥: 146 \| 💬: [52](https://news.ycombinator.com/item?id=43473623) \| 🗓️ 2025-03-25
 
 
 <br />
-技术上的卓越成就固然重要，但若无人知晓，其价值将大打折扣。**无论多么出色的工作**，若缺乏有效的传播，便无法惠及他人或为你赢得声誉。Richard Hamming强调，科学家不仅需要完成研究，还需学会**“推销”**自己的成果——通过清晰的写作、演讲和展示吸引同行关注。企业家同样面临这一挑战，企业的生存依赖于产品或服务的推广。**沟通能力**是连接才华与世界的桥梁，缺乏它，再 brilliant 的成果也可能被埋没。
+文章探讨了GitHub Actions中因使用**可变标签（如v2）**而非**不可变提交ID**导致的安全风险，例如恶意代码注入。作者通过一个Shell脚本统计了自己使用的所有Actions，并分析了其来源可信度（如大型组织vs个人开发者）。最后强调，**Unix文本处理工具链**能高效完成此类一次性数据分析任务，建议开发者掌握这些技能以提升工作流安全性。
 
 ---
 
-## <a name="15"></a>15. 从零开始编写自己的C++标准库 
+## <a name="16"></a>16. 从零开始编写自己的C++标准库 
 <small>🔗 [nibblestew.blogspot.com](https://nibblestew.blogspot.com/2025/03/writing-your-own-c-standard-library.html): Writing your own C++ standard library from scratch</small>
 
 
@@ -205,23 +217,11 @@ VGGT（Visual Geometry Grounded Transformer）是由牛津大学视觉几何组�
 
 ---
 
-## <a name="16"></a>16. GitHub Actions 中我到底在运行谁的代码？ 
-<small>🔗 [alexwlchan.net](https://alexwlchan.net/2025/github-actions-audit/): Whose code am I running in GitHub Actions?</small>
-
-
-| 🔥🔥: 140 \| 💬: [51](https://news.ycombinator.com/item?id=43473623) \| 🗓️ 2025-03-25
-
-
-<br />
-文章探讨了GitHub Actions中因使用**可变标签（如v2）**而非**不可变提交ID**导致的安全风险，例如恶意代码注入。作者通过一个Shell脚本统计了自己使用的所有Actions，并分析了其来源可信度（如大型组织vs个人开发者）。最后强调，**Unix文本处理工具链**能高效完成此类一次性数据分析任务，建议开发者掌握这些技能以提升工作流安全性。
-
----
-
 ## <a name="17"></a>17. 硅谷AI泡沫危机：万亿豪赌恐引发经济崩塌 
 <small>🔗 [prospect.org](https://prospect.org/power/2025-03-25-bubble-trouble-ai-threat/): An AI bubble threatens Silicon Valley, and all of us</small>
 
 
-| 🔥🔥: 136 \| 💬: [125](https://news.ycombinator.com/item?id=43470786) \| 🗓️ 2025-03-25
+| 🔥🔥: 137 \| 💬: [125](https://news.ycombinator.com/item?id=43470786) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -233,7 +233,7 @@ OpenAI耗资5000亿美元的**“星际之门”计划**遭遇中国开源模型
 <small>🔗 [math.ucr.edu](https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html): Why is C the symbol for the speed of light? (2004)</small>
 
 
-| 🔥🔥: 124 \| 💬: [98](https://news.ycombinator.com/item?id=43472663) \| 🗓️ 2025-03-25
+| 🔥🔥: 129 \| 💬: [99](https://news.ycombinator.com/item?id=43472663) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -269,7 +269,7 @@ OpenAI耗资5000亿美元的**“星际之门”计划**遭遇中国开源模型
 <small>🔗 [shirleywu.studio](https://www.shirleywu.studio/notebook/2025-02-innovation-killer): What Killed Innovation?</small>
 
 
-| 🔥: 96 \| 💬: [90](https://news.ycombinator.com/item?id=43470971) \| 🗓️ 2025-03-25
+| 🔥🔥: 101 \| 💬: [91](https://news.ycombinator.com/item?id=43470971) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -293,7 +293,7 @@ Hann是一个专为Go语言设计的**高性能近似最近邻搜索（ANN）库
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/25/too_many_outlooks/): Microsoft's many Outlooks are confusing users – including its own employees</small>
 
 
-| 🔥: 77 \| 💬: [82](https://news.ycombinator.com/item?id=43474707) \| 🗓️ 2025-03-25
+| 🔥: 78 \| 💬: [82](https://news.ycombinator.com/item?id=43474707) \| 🗓️ 2025-03-25
 
 
 <br />
