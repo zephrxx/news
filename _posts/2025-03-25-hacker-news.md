@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [supernuclear.substack.com](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed): Stoop Coffee: A simple idea transformed my neighborhood</small>
 
 
-| 🔥🔥: 724 \| 💬: [268](https://news.ycombinator.com/item?id=43473618) \| 🗓️ 2025-03-25
+| 🔥🔥: 782 \| 💬: [287](https://news.ycombinator.com/item?id=43473618) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [blog.google](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/): Gemini 2.5</small>
 
 
-| 🔥🔥: 571 \| 💬: [266](https://news.ycombinator.com/item?id=43473489) \| 🗓️ 2025-03-25
+| 🔥🔥: 610 \| 💬: [277](https://news.ycombinator.com/item?id=43473489) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [toad.social](https://toad.social/@grumpybozo/114213600922816869): Spammers are better at SPF, DKIM, and DMARC than everyone else</small>
 
 
-| 🔥🔥: 376 \| 💬: [208](https://news.ycombinator.com/item?id=43468995) \| 🗓️ 2025-03-25
+| 🔥🔥: 378 \| 💬: [209](https://news.ycombinator.com/item?id=43468995) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [engadget.com](https://www.engadget.com/big-tech/samsung-ceo-jong-hee-han-has-died-120029286.html): Samsung CEO Jong-hee Han has died</small>
 
 
-| 🔥🔥: 245 \| 💬: [144](https://news.ycombinator.com/item?id=43470699) \| 🗓️ 2025-03-25
+| 🔥🔥: 246 \| 💬: [146](https://news.ycombinator.com/item?id=43470699) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [electrek.co](https://electrek.co/2025/03/25/tesla-tsla-deliveries-down-43-in-europe-while-evs-are-up-28/): Tesla deliveries down 43% in Europe while EVs are up 31%</small>
 
 
-| 🔥🔥: 174 \| 💬: [236](https://news.ycombinator.com/item?id=43470763) \| 🗓️ 2025-03-25
+| 🔥🔥: 174 \| 💬: [238](https://news.ycombinator.com/item?id=43470763) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [abcdinamo.com](https://abcdinamo.com/news/german-bold-italic): Kylie Minogue song about a typeface</small>
 
 
-| 🔥🔥: 151 \| 💬: [54](https://news.ycombinator.com/item?id=43473358) \| 🗓️ 2025-03-25
+| 🔥🔥: 164 \| 💬: [56](https://news.ycombinator.com/item?id=43473358) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -107,23 +107,11 @@ tags:
 
 ---
 
-## <a name="8"></a>8. 编程不等于写代码 
-<small>🔗 [socallinuxexpo.org](https://www.socallinuxexpo.org/scale/22x/presentations/closing-keynote-leslie-lamport): Coding Isn't Programming</small>
-
-
-| 🔥🔥: 148 \| 💬: [185](https://news.ycombinator.com/item?id=43469711) \| 🗓️ 2025-03-25
-
-
-<br />
-传奇计算机科学家、**图灵奖得主**莱斯利·兰波特（Leslie Lamport）将带来闭幕主题演讲，探讨**分布式系统**、开源与计算历史。活动于2025年3月9日15:00在Ballroom DE举行，他是**分布式计算领域**的先驱，演讲内容涵盖技术演进与未来趋势。铂金、黄金等多级赞助商支持本次活动。
-
----
-
-## <a name="9"></a>9. 开源OpenPubkey SSH（OPKSSH）：将单点登录集成到SSH中 
+## <a name="8"></a>8. 开源OpenPubkey SSH（OPKSSH）：将单点登录集成到SSH中 
 <small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/): Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH</small>
 
 
-| 🔥🔥: 143 \| 💬: [109](https://news.ycombinator.com/item?id=43470906) \| 🗓️ 2025-03-25
+| 🔥🔥: 155 \| 💬: [110](https://news.ycombinator.com/item?id=43470906) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -131,11 +119,35 @@ OpenPubkey SSH（OPKSSH）通过整合**单点登录（SSO）**技术（如OpenI
 
 ---
 
-## <a name="10"></a>10. 从零开始编写自己的C++标准库 
+## <a name="9"></a>9. 编程不等于写代码 
+<small>🔗 [socallinuxexpo.org](https://www.socallinuxexpo.org/scale/22x/presentations/closing-keynote-leslie-lamport): Coding Isn't Programming</small>
+
+
+| 🔥🔥: 148 \| 💬: [187](https://news.ycombinator.com/item?id=43469711) \| 🗓️ 2025-03-25
+
+
+<br />
+传奇计算机科学家、**图灵奖得主**莱斯利·兰波特（Leslie Lamport）将带来闭幕主题演讲，探讨**分布式系统**、开源与计算历史。活动于2025年3月9日15:00在Ballroom DE举行，他是**分布式计算领域**的先驱，演讲内容涵盖技术演进与未来趋势。铂金、黄金等多级赞助商支持本次活动。
+
+---
+
+## <a name="10"></a>10. Hacker News上最受欢迎的个人博客排名 
+<small>🔗 [refactoringenglish.com](https://refactoringenglish.com/tools/hn-popularity/): The highest-ranking personal blogs of Hacker News</small>
+
+
+| 🔥🔥: 143 \| 💬: [63](https://news.ycombinator.com/item?id=43474505) \| 🗓️ 2025-03-25
+
+
+<br />
+该内容展示了Hacker News平台上**个人博客的排名榜单**，涵盖不同时间范围（如全年、近5年等）。榜单通过**总评分**、作者简介和主题分类等维度呈现，并提供自定义筛选功能。数据来源基于用户提交的**高热度内容**，旨在反映社区最关注的独立创作者。
+
+---
+
+## <a name="11"></a>11. 从零开始编写自己的C++标准库 
 <small>🔗 [nibblestew.blogspot.com](https://nibblestew.blogspot.com/2025/03/writing-your-own-c-standard-library.html): Writing your own C++ standard library from scratch</small>
 
 
-| 🔥🔥: 138 \| 💬: [117](https://news.ycombinator.com/item?id=43468976) \| 🗓️ 2025-03-25
+| 🔥🔥: 139 \| 💬: [118](https://news.ycombinator.com/item?id=43468976) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -143,23 +155,11 @@ OpenPubkey SSH（OPKSSH）通过整合**单点登录（SSO）**技术（如OpenI
 
 ---
 
-## <a name="11"></a>11. 硅谷AI泡沫危机：万亿豪赌恐引发经济崩塌 
-<small>🔗 [prospect.org](https://prospect.org/power/2025-03-25-bubble-trouble-ai-threat/): An AI bubble threatens Silicon Valley, and all of us</small>
-
-
-| 🔥🔥: 135 \| 💬: [123](https://news.ycombinator.com/item?id=43470786) \| 🗓️ 2025-03-25
-
-
-<br />
-OpenAI耗资5000亿美元的**“星际之门”计划**遭遇中国开源模型**DeepSeek R1**的挑战，后者以95%的成本优势实现同等性能，直接威胁OpenAI的盈利模式。硅谷已投入**2000亿美元**押注生成式AI，但OpenAI年亏损达50亿美元，且依赖未来技术突破才能平衡收支。若泡沫破裂，科技巨头股价崩盘或引发全球经济危机。同时，AI数据中心将吞噬全美12%电力，进一步暴露行业不可持续的发展困境。
-
----
-
 ## <a name="12"></a>12. VGGT：基于视觉几何的Transformer模型 
 <small>🔗 [github.com](https://github.com/facebookresearch/vggt): VGGT: Visual Geometry Grounded Transformer</small>
 
 
-| 🔥🔥: 134 \| 💬: [36](https://news.ycombinator.com/item?id=43470651) \| 🗓️ 2025-03-25
+| 🔥🔥: 139 \| 💬: [36](https://news.ycombinator.com/item?id=43470651) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -169,19 +169,31 @@ VGGT（Visual Geometry Grounded Transformer）是由牛津大学视觉几何组�
 
 ---
 
-## <a name="13"></a>13. Hacker News上最受欢迎的个人博客排名 
-<small>🔗 [refactoringenglish.com](https://refactoringenglish.com/tools/hn-popularity/): The highest-ranking personal blogs of Hacker News</small>
+## <a name="13"></a>13. 硅谷AI泡沫危机：万亿豪赌恐引发经济崩塌 
+<small>🔗 [prospect.org](https://prospect.org/power/2025-03-25-bubble-trouble-ai-threat/): An AI bubble threatens Silicon Valley, and all of us</small>
 
 
-| 🔥🔥: 117 \| 💬: [37](https://news.ycombinator.com/item?id=43474505) \| 🗓️ 2025-03-25
+| 🔥🔥: 135 \| 💬: [124](https://news.ycombinator.com/item?id=43470786) \| 🗓️ 2025-03-25
 
 
 <br />
-该内容展示了Hacker News平台上**个人博客的排名榜单**，涵盖不同时间范围（如全年、近5年等）。榜单通过**总评分**、作者简介和主题分类等维度呈现，并提供自定义筛选功能。数据来源基于用户提交的**高热度内容**，旨在反映社区最关注的独立创作者。
+OpenAI耗资5000亿美元的**“星际之门”计划**遭遇中国开源模型**DeepSeek R1**的挑战，后者以95%的成本优势实现同等性能，直接威胁OpenAI的盈利模式。硅谷已投入**2000亿美元**押注生成式AI，但OpenAI年亏损达50亿美元，且依赖未来技术突破才能平衡收支。若泡沫破裂，科技巨头股价崩盘或引发全球经济危机。同时，AI数据中心将吞噬全美12%电力，进一步暴露行业不可持续的发展困境。
 
 ---
 
-## <a name="14"></a>14. X工程总监王浩飞突然离职，马斯克重心转向xAI与狗狗币 
+## <a name="14"></a>14. 建议立即卸载atop监控工具 
+<small>🔗 [rachelbythebay.com](https://rachelbythebay.com/w/2025/03/25/atop/): You might want to stop running atop</small>
+
+
+| 🔥🔥: 121 \| 💬: [31](https://news.ycombinator.com/item?id=43477057) \| 🗓️ 2025-03-25
+
+
+<br />
+一位系统管理员以亲身经历警告用户**彻底卸载**（而非仅停止运行）**atop**系统监控工具，强调其潜在风险。作者明确区分atop与其他名称含"top"的工具（如top、htop），但暂未透露具体原因。文章风格简洁直白，暗示后续可能补充更多技术细节。
+
+---
+
+## <a name="15"></a>15. X工程总监王浩飞突然离职，马斯克重心转向xAI与狗狗币 
 <small>🔗 [theverge.com](https://www.theverge.com/twitter/634833/x-head-engineering-leaves-elon-musk): X’s director of engineering, Haofei Wang, has left the company</small>
 
 
@@ -193,11 +205,11 @@ VGGT（Visual Geometry Grounded Transformer）是由牛津大学视觉几何组�
 
 ---
 
-## <a name="15"></a>15. 为什么用字母c表示光速？ 
+## <a name="16"></a>16. 为什么用字母c表示光速？ 
 <small>🔗 [math.ucr.edu](https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html): Why is C the symbol for the speed of light? (2004)</small>
 
 
-| 🔥🔥: 107 \| 💬: [89](https://news.ycombinator.com/item?id=43472663) \| 🗓️ 2025-03-25
+| 🔥🔥: 112 \| 💬: [91](https://news.ycombinator.com/item?id=43472663) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -205,23 +217,11 @@ VGGT（Visual Geometry Grounded Transformer）是由牛津大学视觉几何组�
 
 ---
 
-## <a name="16"></a>16. Beej的C语言编程指南 
-<small>🔗 [beej.us](https://beej.us/guide/bgc/pdf/bgc_a4_c_1.pdf): Beej's Guide to C Programming [pdf]</small>
-
-
-| 🔥: 98 \| 💬: [16](https://news.ycombinator.com/item?id=43471393) \| 🗓️ 2025-03-25
-
-
-<br />
-这份PDF文档是**Beej**编写的C语言编程教程，内容涵盖**基础语法**、**指针操作**和**内存管理**等核心概念。文档通过实例和清晰解释帮助读者掌握C语言的**关键技能**，适合初学者和需要巩固知识的开发者。由于文本为二进制数据，具体细节需查看完整文档。
-
----
-
 ## <a name="17"></a>17. GitHub Actions 中我到底在运行谁的代码？ 
 <small>🔗 [alexwlchan.net](https://alexwlchan.net/2025/github-actions-audit/): Whose code am I running in GitHub Actions?</small>
 
 
-| 🔥: 95 \| 💬: [40](https://news.ycombinator.com/item?id=43473623) \| 🗓️ 2025-03-25
+| 🔥🔥: 110 \| 💬: [42](https://news.ycombinator.com/item?id=43473623) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -233,7 +233,7 @@ VGGT（Visual Geometry Grounded Transformer）是由牛津大学视觉几何组�
 <small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/): Devs say AI crawlers dominate traffic, forcing blocks on entire countries</small>
 
 
-| 🔥: 81 \| 💬: [36](https://news.ycombinator.com/item?id=43476337) \| 🗓️ 2025-03-25
+| 🔥🔥: 109 \| 💬: [54](https://news.ycombinator.com/item?id=43476337) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -241,7 +241,31 @@ VGGT（Visual Geometry Grounded Transformer）是由牛津大学视觉几何组�
 
 ---
 
-## <a name="19"></a>19. Go语言高性能近似最近邻搜索库Hann 
+## <a name="19"></a>19. Beej的C语言编程指南 
+<small>🔗 [beej.us](https://beej.us/guide/bgc/pdf/bgc_a4_c_1.pdf): Beej's Guide to C Programming [pdf]</small>
+
+
+| 🔥🔥: 101 \| 💬: [16](https://news.ycombinator.com/item?id=43471393) \| 🗓️ 2025-03-25
+
+
+<br />
+这份PDF文档是**Beej**编写的C语言编程教程，内容涵盖**基础语法**、**指针操作**和**内存管理**等核心概念。文档通过实例和清晰解释帮助读者掌握C语言的**关键技能**，适合初学者和需要巩固知识的开发者。由于文本为二进制数据，具体细节需查看完整文档。
+
+---
+
+## <a name="20"></a>20. 是什么扼杀了数据可视化行业的创新？ 
+<small>🔗 [shirleywu.studio](https://www.shirleywu.studio/notebook/2025-02-innovation-killer): What Killed Innovation?</small>
+
+
+| 🔥: 80 \| 💬: [86](https://news.ycombinator.com/item?id=43470971) \| 🗓️ 2025-03-25
+
+
+<br />
+作者回顾了2010年代数据可视化领域的黄金时期，当时D3.js等技术催生了大量实验性项目（如《纽约时报》的交互式图表）。但十年后，行业创新陷入**同质化**：**滚动叙事（scrollytelling）**成为主流模板，新冠疫情后公众更倾向简单图表，经济下行也导致客户偏好“够用就好”的解决方案。专家指出这是技术创新的自然周期，当前处于**平台期**，但未来可能迎来新一轮突破。
+
+---
+
+## <a name="21"></a>21. Go语言高性能近似最近邻搜索库Hann 
 <small>🔗 [github.com](https://github.com/habedi/hann): Hann: A Fast Approximate Nearest Neighbor Search Library for Go</small>
 
 
@@ -253,19 +277,19 @@ Hann是一个专为Go语言设计的**高性能近似最近邻搜索（ANN）库
 
 ---
 
-## <a name="20"></a>20. 是什么扼杀了数据可视化行业的创新？ 
-<small>🔗 [shirleywu.studio](https://www.shirleywu.studio/notebook/2025-02-innovation-killer): What Killed Innovation?</small>
+## <a name="22"></a>22. 微软多个Outlook版本让用户困惑，连自家员工也不例外 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/03/25/too_many_outlooks/): Microsoft's many Outlooks are confusing users – including its own employees</small>
 
 
-| 🔥: 76 \| 💬: [81](https://news.ycombinator.com/item?id=43470971) \| 🗓️ 2025-03-25
+| 🔥: 75 \| 💬: [81](https://news.ycombinator.com/item?id=43474707) \| 🗓️ 2025-03-25
 
 
 <br />
-作者回顾了2010年代数据可视化领域的黄金时期，当时D3.js等技术催生了大量实验性项目（如《纽约时报》的交互式图表）。但十年后，行业创新陷入**同质化**：**滚动叙事（scrollytelling）**成为主流模板，新冠疫情后公众更倾向简单图表，经济下行也导致客户偏好“够用就好”的解决方案。专家指出这是技术创新的自然周期，当前处于**平台期**，但未来可能迎来新一轮突破。
+微软的**Outlook**因版本过多（如Outlook New、Outlook (Classic)等）让用户和员工感到混乱。开发者Scott Hanselman调侃提议推出“零糖版”“无咖啡因版”等虚构版本，凸显微软产品线重复的问题。微软正强制用户迁移至功能不全的**新版Outlook**（基于网页版架构），但企业依赖的COM插件不受支持。经典版将支持到2029年，但过渡计划分“可选→默认→不可逆”三阶段推进。此举让人联想到饮料公司强行推新配方的失败案例。
 
 ---
 
-## <a name="21"></a>21. Kubernetes Ingress NGINX曝严重漏洞，43%云环境面临集群接管风险 
+## <a name="23"></a>23. Kubernetes Ingress NGINX曝严重漏洞，43%云环境面临集群接管风险 
 <small>🔗 [wiz.io](https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities): Critical Unauthenticated Remote Code Execution Vulnerabilities in Ingress NGINX</small>
 
 
@@ -277,19 +301,7 @@ Wiz研究团队发现代号**#IngressNightmare**的4个高危漏洞（CVE-2025-1
 
 ---
 
-## <a name="22"></a>22. 微软多个Outlook版本让用户困惑，连自家员工也不例外 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/03/25/too_many_outlooks/): Microsoft's many Outlooks are confusing users – including its own employees</small>
-
-
-| 🔥: 74 \| 💬: [80](https://news.ycombinator.com/item?id=43474707) \| 🗓️ 2025-03-25
-
-
-<br />
-微软的**Outlook**因版本过多（如Outlook New、Outlook (Classic)等）让用户和员工感到混乱。开发者Scott Hanselman调侃提议推出“零糖版”“无咖啡因版”等虚构版本，凸显微软产品线重复的问题。微软正强制用户迁移至功能不全的**新版Outlook**（基于网页版架构），但企业依赖的COM插件不受支持。经典版将支持到2029年，但过渡计划分“可选→默认→不可逆”三阶段推进。此举让人联想到饮料公司强行推新配方的失败案例。
-
----
-
-## <a name="23"></a>23. Marginalia搜索项目再获NLnet基金会资助 
+## <a name="24"></a>24. Marginalia搜索项目再获NLnet基金会资助 
 <small>🔗 [marginalia.nu](https://www.marginalia.nu/log/a_116_grant_2.0/): Marginalia Search receives second nlnet grant</small>
 
 
@@ -301,7 +313,7 @@ Marginalia搜索项目宣布**第二次获得NLnet基金会资助**，资金将�
 
 ---
 
-## <a name="24"></a>24. 《时空之轮》发售30年仍让我震撼不已 
+## <a name="25"></a>25. 《时空之轮》发售30年仍让我震撼不已 
 <small>🔗 [kotaku.com](https://kotaku.com/chrono-trigger-jrpg-snes-30th-anniversary-square-1851769192): Chrono Trigger Still Blows Me Away 30 Years Later</small>
 
 
