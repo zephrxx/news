@@ -12,7 +12,7 @@ tags:
 1. Gemini 2.5：谷歌最智能的AI模型；
 1. 垃圾邮件发送者比其他人更擅长SPF、DKIM和DMARC；
 1. 三星CEO韩钟熙因心脏病去世；
-1. 2010年赤足跑步热潮的兴衰；
+1. 建议立即卸载atop监控工具；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [supernuclear.substack.com](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed): Stoop Coffee: A simple idea transformed my neighborhood</small>
 
 
-| 🔥🔥: 831 \| 💬: [301](https://news.ycombinator.com/item?id=43473618) \| 🗓️ 2025-03-25
+| 🔥🔥: 883 \| 💬: [307](https://news.ycombinator.com/item?id=43473618) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [blog.google](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/): Gemini 2.5</small>
 
 
-| 🔥🔥: 638 \| 💬: [288](https://news.ycombinator.com/item?id=43473489) \| 🗓️ 2025-03-25
+| 🔥🔥: 659 \| 💬: [297](https://news.ycombinator.com/item?id=43473489) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [toad.social](https://toad.social/@grumpybozo/114213600922816869): Spammers are better at SPF, DKIM, and DMARC than everyone else</small>
 
 
-| 🔥🔥: 382 \| 💬: [212](https://news.ycombinator.com/item?id=43468995) \| 🗓️ 2025-03-25
+| 🔥🔥: 390 \| 💬: [214](https://news.ycombinator.com/item?id=43468995) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -71,23 +71,11 @@ tags:
 
 ---
 
-## <a name="5"></a>5. 2010年赤足跑步热潮的兴衰 
-<small>🔗 [runningshoescore.com](https://runningshoescore.com/blog/barefoot-running-hysteria-of-2010): The Great Barefoot Running Hysteria of 2010</small>
-
-
-| 🔥🔥: 180 \| 💬: [191](https://news.ycombinator.com/item?id=43469690) \| 🗓️ 2025-03-25
-
-
-<br />
-2010年，受《天生就会跑》一书和**极简跑鞋**（如Vibram五指鞋）的推动，赤足跑步风靡一时。支持者宣称它能减少损伤、提升效率，但缺乏科学依据。随着研究深入，混合结果和**运动伤害**报告导致热潮消退。然而，这场运动永久改变了跑鞋设计，催生了更轻量、低落差的鞋款，并终结了过度支撑跑鞋的垄断。尽管狂热短暂，其影响至今犹存。
-
----
-
-## <a name="6"></a>6. 建议立即卸载atop监控工具 
+## <a name="5"></a>5. 建议立即卸载atop监控工具 
 <small>🔗 [rachelbythebay.com](https://rachelbythebay.com/w/2025/03/25/atop/): You might want to stop running atop</small>
 
 
-| 🔥🔥: 179 \| 💬: [72](https://news.ycombinator.com/item?id=43477057) \| 🗓️ 2025-03-25
+| 🔥🔥: 207 \| 💬: [90](https://news.ycombinator.com/item?id=43477057) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -95,47 +83,23 @@ tags:
 
 ---
 
-## <a name="7"></a>7. 特斯拉欧洲交付量暴跌43%，而电动车市场整体增长31% 
-<small>🔗 [electrek.co](https://electrek.co/2025/03/25/tesla-tsla-deliveries-down-43-in-europe-while-evs-are-up-28/): Tesla deliveries down 43% in Europe while EVs are up 31%</small>
+## <a name="6"></a>6. 2010年赤足跑步热潮的兴衰 
+<small>🔗 [runningshoescore.com](https://runningshoescore.com/blog/barefoot-running-hysteria-of-2010): The Great Barefoot Running Hysteria of 2010</small>
 
 
-| 🔥🔥: 175 \| 💬: [239](https://news.ycombinator.com/item?id=43470763) \| 🗓️ 2025-03-25
-
-
-<br />
-2025年3月25日数据显示，**特斯拉**在欧洲的交付量同比骤降**43%**，但同期欧洲**电动车市场**整体销量却增长了31%。这一反差凸显特斯拉面临激烈竞争或运营挑战，而电动车行业仍保持强劲增长势头。
-
----
-
-## <a name="8"></a>8. 凯莉·米洛的字体情歌：当流行天后化身德国粗斜体 
-<small>🔗 [abcdinamo.com](https://abcdinamo.com/news/german-bold-italic): Kylie Minogue song about a typeface</small>
-
-
-| 🔥🔥: 170 \| 💬: [56](https://news.ycombinator.com/item?id=43473358) \| 🗓️ 2025-03-25
+| 🔥🔥: 180 \| 💬: [192](https://news.ycombinator.com/item?id=43469690) \| 🗓️ 2025-03-25
 
 
 <br />
-1997年，凯莉·米洛与制作人**Towa Tei**合作推出单曲《GBI（German Bold Italic）》，以字体为第一人称演唱，歌词如“**我是字体**”“我的风格你会喜欢”充满戏谑感。这首歌配套发布了真实的**German Bold Italic字体**，由设计师Hiro Sugiyama创作，作为数据音轨附在Tei的专辑中。米洛当时正尝试艺术化转型，而Tei作为Dee-Lite乐队创始人，集结了多元音乐人参与该项目。这款字体融合了90年代末的厚重未来风，虽开放下载却鲜少被使用，仅艺术家Cory Arcangel在2015年用于乐队周边设计。
+2010年，受《天生就会跑》一书和**极简跑鞋**（如Vibram五指鞋）的推动，赤足跑步风靡一时。支持者宣称它能减少损伤、提升效率，但缺乏科学依据。随着研究深入，混合结果和**运动伤害**报告导致热潮消退。然而，这场运动永久改变了跑鞋设计，催生了更轻量、低落差的鞋款，并终结了过度支撑跑鞋的垄断。尽管狂热短暂，其影响至今犹存。
 
 ---
 
-## <a name="9"></a>9. 开源OpenPubkey SSH（OPKSSH）：将单点登录集成到SSH中 
-<small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/): Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH</small>
-
-
-| 🔥🔥: 161 \| 💬: [113](https://news.ycombinator.com/item?id=43470906) \| 🗓️ 2025-03-25
-
-
-<br />
-OpenPubkey SSH（OPKSSH）通过整合**单点登录（SSO）**技术（如OpenID Connect），简化了SSH密钥管理，无需手动配置密钥。它利用身份提供商（IdP）验证用户身份，并生成临时的SSH密钥，提升安全性和便利性。OPKSSH现已开源，支持通过SSO直接授权SSH访问，**减少长期密钥的风险**，同时提供更清晰的访问控制（如基于邮箱授权）。该方案无需修改SSH协议，仅需在服务器配置中添加两行代码即可部署。
-
----
-
-## <a name="10"></a>10. Hacker News上最受欢迎的个人博客排名 
+## <a name="7"></a>7. Hacker News上最受欢迎的个人博客排名 
 <small>🔗 [refactoringenglish.com](https://refactoringenglish.com/tools/hn-popularity/): The highest-ranking personal blogs of Hacker News</small>
 
 
-| 🔥🔥: 153 \| 💬: [68](https://news.ycombinator.com/item?id=43474505) \| 🗓️ 2025-03-25
+| 🔥🔥: 180 \| 💬: [70](https://news.ycombinator.com/item?id=43474505) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -143,7 +107,55 @@ OpenPubkey SSH（OPKSSH）通过整合**单点登录（SSO）**技术（如OpenI
 
 ---
 
-## <a name="11"></a>11. 编程不等于写代码 
+## <a name="8"></a>8. 凯莉·米洛的字体情歌：当流行天后化身德国粗斜体 
+<small>🔗 [abcdinamo.com](https://abcdinamo.com/news/german-bold-italic): Kylie Minogue song about a typeface</small>
+
+
+| 🔥🔥: 177 \| 💬: [58](https://news.ycombinator.com/item?id=43473358) \| 🗓️ 2025-03-25
+
+
+<br />
+1997年，凯莉·米洛与制作人**Towa Tei**合作推出单曲《GBI（German Bold Italic）》，以字体为第一人称演唱，歌词如“**我是字体**”“我的风格你会喜欢”充满戏谑感。这首歌配套发布了真实的**German Bold Italic字体**，由设计师Hiro Sugiyama创作，作为数据音轨附在Tei的专辑中。米洛当时正尝试艺术化转型，而Tei作为Dee-Lite乐队创始人，集结了多元音乐人参与该项目。这款字体融合了90年代末的厚重未来风，虽开放下载却鲜少被使用，仅艺术家Cory Arcangel在2015年用于乐队周边设计。
+
+---
+
+## <a name="9"></a>9. 特斯拉欧洲交付量暴跌43%，而电动车市场整体增长31% 
+<small>🔗 [electrek.co](https://electrek.co/2025/03/25/tesla-tsla-deliveries-down-43-in-europe-while-evs-are-up-28/): Tesla deliveries down 43% in Europe while EVs are up 31%</small>
+
+
+| 🔥🔥: 175 \| 💬: [240](https://news.ycombinator.com/item?id=43470763) \| 🗓️ 2025-03-25
+
+
+<br />
+2025年3月25日数据显示，**特斯拉**在欧洲的交付量同比骤降**43%**，但同期欧洲**电动车市场**整体销量却增长了31%。这一反差凸显特斯拉面临激烈竞争或运营挑战，而电动车行业仍保持强劲增长势头。
+
+---
+
+## <a name="10"></a>10. 开源OpenPubkey SSH（OPKSSH）：将单点登录集成到SSH中 
+<small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/): Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH</small>
+
+
+| 🔥🔥: 171 \| 💬: [115](https://news.ycombinator.com/item?id=43470906) \| 🗓️ 2025-03-25
+
+
+<br />
+OpenPubkey SSH（OPKSSH）通过整合**单点登录（SSO）**技术（如OpenID Connect），简化了SSH密钥管理，无需手动配置密钥。它利用身份提供商（IdP）验证用户身份，并生成临时的SSH密钥，提升安全性和便利性。OPKSSH现已开源，支持通过SSO直接授权SSH访问，**减少长期密钥的风险**，同时提供更清晰的访问控制（如基于邮箱授权）。该方案无需修改SSH协议，仅需在服务器配置中添加两行代码即可部署。
+
+---
+
+## <a name="11"></a>11. AI爬虫泛滥致开源项目被迫屏蔽整个国家 
+<small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/): Devs say AI crawlers dominate traffic, forcing blocks on entire countries</small>
+
+
+| 🔥🔥: 164 \| 💬: [97](https://news.ycombinator.com/item?id=43476337) \| 🗓️ 2025-03-25
+
+
+<br />
+开源社区正面临**AI爬虫流量暴增**的危机，导致服务器过载和带宽成本激增。开发者Xe Iaso因亚马逊爬虫攻击被迫启用**自定义验证系统Anubis**，而Fedora、GNOME等项目甚至屏蔽了巴西等地区的流量。报告显示，部分项目97%的流量来自AI公司爬虫，它们无视robots.txt、伪造用户代理，形同**DDoS攻击**。尽管防御工具如Cloudflare的AI迷宫方案涌现，但合法用户访问也受影响。业界批评AI公司掠夺数据却拒绝合作，威胁开源生态可持续性。
+
+---
+
+## <a name="12"></a>12. 编程不等于写代码 
 <small>🔗 [socallinuxexpo.org](https://www.socallinuxexpo.org/scale/22x/presentations/closing-keynote-leslie-lamport): Coding Isn't Programming</small>
 
 
@@ -155,11 +167,11 @@ OpenPubkey SSH（OPKSSH）通过整合**单点登录（SSO）**技术（如OpenI
 
 ---
 
-## <a name="12"></a>12. VGGT：基于视觉几何的Transformer模型 
+## <a name="13"></a>13. VGGT：基于视觉几何的Transformer模型 
 <small>🔗 [github.com](https://github.com/facebookresearch/vggt): VGGT: Visual Geometry Grounded Transformer</small>
 
 
-| 🔥🔥: 143 \| 💬: [37](https://news.ycombinator.com/item?id=43470651) \| 🗓️ 2025-03-25
+| 🔥🔥: 146 \| 💬: [37](https://news.ycombinator.com/item?id=43470651) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -169,7 +181,7 @@ VGGT（Visual Geometry Grounded Transformer）是由牛津大学视觉几何组�
 
 ---
 
-## <a name="13"></a>13. 从零开始编写自己的C++标准库 
+## <a name="14"></a>14. 从零开始编写自己的C++标准库 
 <small>🔗 [nibblestew.blogspot.com](https://nibblestew.blogspot.com/2025/03/writing-your-own-c-standard-library.html): Writing your own C++ standard library from scratch</small>
 
 
@@ -178,18 +190,6 @@ VGGT（Visual Geometry Grounded Transformer）是由牛津大学视觉几何组�
 
 <br />
 本文探讨了**从头实现C++标准库**（STL）的挑战与乐趣。作者指出，尽管STL功能强大，但其**编译速度慢**、代码晦涩难懂，且受限于严格的向后兼容性。通过禁用STL并自行实现核心功能（如文件处理、字符串、哈希表等），作者展示了**pystd**库的简洁性（仅1000行代码），其性能与STL相当，但编译时间更短。此外，pystd采用**按年份命名空间**的设计，既支持ABI稳定性，又允许未来灵活调整，解决了传统标准库难以更新的问题。
-
----
-
-## <a name="14"></a>14. AI爬虫泛滥致开源项目被迫屏蔽整个国家 
-<small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/): Devs say AI crawlers dominate traffic, forcing blocks on entire countries</small>
-
-
-| 🔥🔥: 137 \| 💬: [63](https://news.ycombinator.com/item?id=43476337) \| 🗓️ 2025-03-25
-
-
-<br />
-开源社区正面临**AI爬虫流量暴增**的危机，导致服务器过载和带宽成本激增。开发者Xe Iaso因亚马逊爬虫攻击被迫启用**自定义验证系统Anubis**，而Fedora、GNOME等项目甚至屏蔽了巴西等地区的流量。报告显示，部分项目97%的流量来自AI公司爬虫，它们无视robots.txt、伪造用户代理，形同**DDoS攻击**。尽管防御工具如Cloudflare的AI迷宫方案涌现，但合法用户访问也受影响。业界批评AI公司掠夺数据却拒绝合作，威胁开源生态可持续性。
 
 ---
 
@@ -209,7 +209,7 @@ OpenAI耗资5000亿美元的**“星际之门”计划**遭遇中国开源模型
 <small>🔗 [alexwlchan.net](https://alexwlchan.net/2025/github-actions-audit/): Whose code am I running in GitHub Actions?</small>
 
 
-| 🔥🔥: 117 \| 💬: [46](https://news.ycombinator.com/item?id=43473623) \| 🗓️ 2025-03-25
+| 🔥🔥: 127 \| 💬: [47](https://news.ycombinator.com/item?id=43473623) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -221,7 +221,7 @@ OpenAI耗资5000亿美元的**“星际之门”计划**遭遇中国开源模型
 <small>🔗 [math.ucr.edu](https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html): Why is C the symbol for the speed of light? (2004)</small>
 
 
-| 🔥🔥: 115 \| 💬: [93](https://news.ycombinator.com/item?id=43472663) \| 🗓️ 2025-03-25
+| 🔥🔥: 118 \| 💬: [96](https://news.ycombinator.com/item?id=43472663) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -245,7 +245,7 @@ OpenAI耗资5000亿美元的**“星际之门”计划**遭遇中国开源模型
 <small>🔗 [beej.us](https://beej.us/guide/bgc/pdf/bgc_a4_c_1.pdf): Beej's Guide to C Programming [pdf]</small>
 
 
-| 🔥🔥: 101 \| 💬: [16](https://news.ycombinator.com/item?id=43471393) \| 🗓️ 2025-03-25
+| 🔥🔥: 102 \| 💬: [17](https://news.ycombinator.com/item?id=43471393) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -253,11 +253,23 @@ OpenAI耗资5000亿美元的**“星际之门”计划**遭遇中国开源模型
 
 ---
 
-## <a name="20"></a>20. 是什么扼杀了数据可视化行业的创新？ 
+## <a name="20"></a>20. 推销自己，推销你的工作 
+<small>🔗 [solipsys.co.uk](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn): Sell yourself, sell your work</small>
+
+
+| 🔥: 92 \| 💬: [47](https://news.ycombinator.com/item?id=43476249) \| 🗓️ 2025-03-25
+
+
+<br />
+技术上的卓越成就固然重要，但若无人知晓，其价值将大打折扣。**无论多么出色的工作**，若缺乏有效的传播，便无法惠及他人或为你赢得声誉。Richard Hamming强调，科学家不仅需要完成研究，还需学会**“推销”**自己的成果——通过清晰的写作、演讲和展示吸引同行关注。企业家同样面临这一挑战，企业的生存依赖于产品或服务的推广。**沟通能力**是连接才华与世界的桥梁，缺乏它，再 brilliant 的成果也可能被埋没。
+
+---
+
+## <a name="21"></a>21. 是什么扼杀了数据可视化行业的创新？ 
 <small>🔗 [shirleywu.studio](https://www.shirleywu.studio/notebook/2025-02-innovation-killer): What Killed Innovation?</small>
 
 
-| 🔥: 87 \| 💬: [86](https://news.ycombinator.com/item?id=43470971) \| 🗓️ 2025-03-25
+| 🔥: 90 \| 💬: [87](https://news.ycombinator.com/item?id=43470971) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -265,11 +277,11 @@ OpenAI耗资5000亿美元的**“星际之门”计划**遭遇中国开源模型
 
 ---
 
-## <a name="21"></a>21. Go语言高性能近似最近邻搜索库Hann 
+## <a name="22"></a>22. Go语言高性能近似最近邻搜索库Hann 
 <small>🔗 [github.com](https://github.com/habedi/hann): Hann: A Fast Approximate Nearest Neighbor Search Library for Go</small>
 
 
-| 🔥: 81 \| 💬: [8](https://news.ycombinator.com/item?id=43470162) \| 🗓️ 2025-03-25
+| 🔥: 84 \| 💬: [8](https://news.ycombinator.com/item?id=43470162) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -277,11 +289,11 @@ Hann是一个专为Go语言设计的**高性能近似最近邻搜索（ANN）库
 
 ---
 
-## <a name="22"></a>22. 微软多个Outlook版本让用户困惑，连自家员工也不例外 
+## <a name="23"></a>23. 微软多个Outlook版本让用户困惑，连自家员工也不例外 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/25/too_many_outlooks/): Microsoft's many Outlooks are confusing users – including its own employees</small>
 
 
-| 🔥: 75 \| 💬: [81](https://news.ycombinator.com/item?id=43474707) \| 🗓️ 2025-03-25
+| 🔥: 75 \| 💬: [82](https://news.ycombinator.com/item?id=43474707) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -289,7 +301,7 @@ Hann是一个专为Go语言设计的**高性能近似最近邻搜索（ANN）库
 
 ---
 
-## <a name="23"></a>23. Kubernetes Ingress NGINX曝严重漏洞，43%云环境面临集群接管风险 
+## <a name="24"></a>24. Kubernetes Ingress NGINX曝严重漏洞，43%云环境面临集群接管风险 
 <small>🔗 [wiz.io](https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities): Critical Unauthenticated Remote Code Execution Vulnerabilities in Ingress NGINX</small>
 
 
@@ -301,7 +313,7 @@ Wiz研究团队发现代号**#IngressNightmare**的4个高危漏洞（CVE-2025-1
 
 ---
 
-## <a name="24"></a>24. Marginalia搜索项目再获NLnet基金会资助 
+## <a name="25"></a>25. Marginalia搜索项目再获NLnet基金会资助 
 <small>🔗 [marginalia.nu](https://www.marginalia.nu/log/a_116_grant_2.0/): Marginalia Search receives second nlnet grant</small>
 
 
@@ -310,17 +322,5 @@ Wiz研究团队发现代号**#IngressNightmare**的4个高危漏洞（CVE-2025-1
 
 <br />
 Marginalia搜索项目宣布**第二次获得NLnet基金会资助**，资金将主要用于推进2025年路线图中的核心开发任务。尽管具体细节尚未完全敲定，但该资助将**确保开发者全职投入项目**，并将项目运营周期延长至更稳定的阶段。自2023年夏季以来，开发者已全职投入该项目，此次资助进一步巩固了开发基础。更多详情将后续公布。
-
----
-
-## <a name="25"></a>25. 《时空之轮》发售30年仍让我震撼不已 
-<small>🔗 [kotaku.com](https://kotaku.com/chrono-trigger-jrpg-snes-30th-anniversary-square-1851769192): Chrono Trigger Still Blows Me Away 30 Years Later</small>
-
-
-| 🔥: 68 \| 💬: [29](https://news.ycombinator.com/item?id=43471482) \| 🗓️ 2025-03-25
-
-
-<br />
-这篇纪念文章盛赞**《时空之轮》**作为SNES时代的经典RPG，集结了《最终幻想》与《勇者斗龙》的核心团队，融合**时间旅行**、像素艺术与创新战斗系统，至今仍未被超越。作者回忆游戏如何通过**多结局设计**、无随机遇敌机制和细腻叙事打破常规，尤其是主角死亡与复活的大胆剧情。文章强调，其成功源于天才团队的默契协作，而现代游戏虽技术进步，却难复刻这种**黄金时代的独特魔力**。
 
 ---
