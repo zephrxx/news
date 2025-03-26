@@ -27,7 +27,7 @@ tags:
 <small>🔗 [supernuclear.substack.com](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed): Stoop Coffee: A simple idea transformed my neighborhood</small>
 
 
-| 🔥🔥: 883 \| 💬: [307](https://news.ycombinator.com/item?id=43473618) \| 🗓️ 2025-03-25
+| 🔥🔥: 918 \| 💬: [315](https://news.ycombinator.com/item?id=43473618) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [blog.google](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/): Gemini 2.5</small>
 
 
-| 🔥🔥: 659 \| 💬: [297](https://news.ycombinator.com/item?id=43473489) \| 🗓️ 2025-03-25
+| 🔥🔥: 684 \| 💬: [303](https://news.ycombinator.com/item?id=43473489) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [toad.social](https://toad.social/@grumpybozo/114213600922816869): Spammers are better at SPF, DKIM, and DMARC than everyone else</small>
 
 
-| 🔥🔥: 390 \| 💬: [214](https://news.ycombinator.com/item?id=43468995) \| 🗓️ 2025-03-25
+| 🔥🔥: 391 \| 💬: [214](https://news.ycombinator.com/item?id=43468995) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [engadget.com](https://www.engadget.com/big-tech/samsung-ceo-jong-hee-han-has-died-120029286.html): Samsung CEO Jong-hee Han has died</small>
 
 
-| 🔥🔥: 247 \| 💬: [147](https://news.ycombinator.com/item?id=43470699) \| 🗓️ 2025-03-25
+| 🔥🔥: 248 \| 💬: [147](https://news.ycombinator.com/item?id=43470699) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [rachelbythebay.com](https://rachelbythebay.com/w/2025/03/25/atop/): You might want to stop running atop</small>
 
 
-| 🔥🔥: 207 \| 💬: [90](https://news.ycombinator.com/item?id=43477057) \| 🗓️ 2025-03-25
+| 🔥🔥: 227 \| 💬: [95](https://news.ycombinator.com/item?id=43477057) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -83,23 +83,11 @@ tags:
 
 ---
 
-## <a name="6"></a>6. 2010年赤足跑步热潮的兴衰 
-<small>🔗 [runningshoescore.com](https://runningshoescore.com/blog/barefoot-running-hysteria-of-2010): The Great Barefoot Running Hysteria of 2010</small>
-
-
-| 🔥🔥: 180 \| 💬: [192](https://news.ycombinator.com/item?id=43469690) \| 🗓️ 2025-03-25
-
-
-<br />
-2010年，受《天生就会跑》一书和**极简跑鞋**（如Vibram五指鞋）的推动，赤足跑步风靡一时。支持者宣称它能减少损伤、提升效率，但缺乏科学依据。随着研究深入，混合结果和**运动伤害**报告导致热潮消退。然而，这场运动永久改变了跑鞋设计，催生了更轻量、低落差的鞋款，并终结了过度支撑跑鞋的垄断。尽管狂热短暂，其影响至今犹存。
-
----
-
-## <a name="7"></a>7. Hacker News上最受欢迎的个人博客排名 
+## <a name="6"></a>6. Hacker News上最受欢迎的个人博客排名 
 <small>🔗 [refactoringenglish.com](https://refactoringenglish.com/tools/hn-popularity/): The highest-ranking personal blogs of Hacker News</small>
 
 
-| 🔥🔥: 180 \| 💬: [70](https://news.ycombinator.com/item?id=43474505) \| 🗓️ 2025-03-25
+| 🔥🔥: 199 \| 💬: [72](https://news.ycombinator.com/item?id=43474505) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -107,11 +95,23 @@ tags:
 
 ---
 
+## <a name="7"></a>7. AI爬虫泛滥致开源项目被迫屏蔽整个国家 
+<small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/): Devs say AI crawlers dominate traffic, forcing blocks on entire countries</small>
+
+
+| 🔥🔥: 184 \| 💬: [116](https://news.ycombinator.com/item?id=43476337) \| 🗓️ 2025-03-25
+
+
+<br />
+开源社区正面临**AI爬虫流量暴增**的危机，导致服务器过载和带宽成本激增。开发者Xe Iaso因亚马逊爬虫攻击被迫启用**自定义验证系统Anubis**，而Fedora、GNOME等项目甚至屏蔽了巴西等地区的流量。报告显示，部分项目97%的流量来自AI公司爬虫，它们无视robots.txt、伪造用户代理，形同**DDoS攻击**。尽管防御工具如Cloudflare的AI迷宫方案涌现，但合法用户访问也受影响。业界批评AI公司掠夺数据却拒绝合作，威胁开源生态可持续性。
+
+---
+
 ## <a name="8"></a>8. 凯莉·米洛的字体情歌：当流行天后化身德国粗斜体 
 <small>🔗 [abcdinamo.com](https://abcdinamo.com/news/german-bold-italic): Kylie Minogue song about a typeface</small>
 
 
-| 🔥🔥: 177 \| 💬: [58](https://news.ycombinator.com/item?id=43473358) \| 🗓️ 2025-03-25
+| 🔥🔥: 182 \| 💬: [59](https://news.ycombinator.com/item?id=43473358) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -119,7 +119,31 @@ tags:
 
 ---
 
-## <a name="9"></a>9. 特斯拉欧洲交付量暴跌43%，而电动车市场整体增长31% 
+## <a name="9"></a>9. 2010年赤足跑步热潮的兴衰 
+<small>🔗 [runningshoescore.com](https://runningshoescore.com/blog/barefoot-running-hysteria-of-2010): The Great Barefoot Running Hysteria of 2010</small>
+
+
+| 🔥🔥: 181 \| 💬: [192](https://news.ycombinator.com/item?id=43469690) \| 🗓️ 2025-03-25
+
+
+<br />
+2010年，受《天生就会跑》一书和**极简跑鞋**（如Vibram五指鞋）的推动，赤足跑步风靡一时。支持者宣称它能减少损伤、提升效率，但缺乏科学依据。随着研究深入，混合结果和**运动伤害**报告导致热潮消退。然而，这场运动永久改变了跑鞋设计，催生了更轻量、低落差的鞋款，并终结了过度支撑跑鞋的垄断。尽管狂热短暂，其影响至今犹存。
+
+---
+
+## <a name="10"></a>10. 开源OpenPubkey SSH（OPKSSH）：将单点登录集成到SSH中 
+<small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/): Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH</small>
+
+
+| 🔥🔥: 179 \| 💬: [118](https://news.ycombinator.com/item?id=43470906) \| 🗓️ 2025-03-25
+
+
+<br />
+OpenPubkey SSH（OPKSSH）通过整合**单点登录（SSO）**技术（如OpenID Connect），简化了SSH密钥管理，无需手动配置密钥。它利用身份提供商（IdP）验证用户身份，并生成临时的SSH密钥，提升安全性和便利性。OPKSSH现已开源，支持通过SSO直接授权SSH访问，**减少长期密钥的风险**，同时提供更清晰的访问控制（如基于邮箱授权）。该方案无需修改SSH协议，仅需在服务器配置中添加两行代码即可部署。
+
+---
+
+## <a name="11"></a>11. 特斯拉欧洲交付量暴跌43%，而电动车市场整体增长31% 
 <small>🔗 [electrek.co](https://electrek.co/2025/03/25/tesla-tsla-deliveries-down-43-in-europe-while-evs-are-up-28/): Tesla deliveries down 43% in Europe while EVs are up 31%</small>
 
 
@@ -131,47 +155,11 @@ tags:
 
 ---
 
-## <a name="10"></a>10. 开源OpenPubkey SSH（OPKSSH）：将单点登录集成到SSH中 
-<small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/): Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH</small>
-
-
-| 🔥🔥: 171 \| 💬: [115](https://news.ycombinator.com/item?id=43470906) \| 🗓️ 2025-03-25
-
-
-<br />
-OpenPubkey SSH（OPKSSH）通过整合**单点登录（SSO）**技术（如OpenID Connect），简化了SSH密钥管理，无需手动配置密钥。它利用身份提供商（IdP）验证用户身份，并生成临时的SSH密钥，提升安全性和便利性。OPKSSH现已开源，支持通过SSO直接授权SSH访问，**减少长期密钥的风险**，同时提供更清晰的访问控制（如基于邮箱授权）。该方案无需修改SSH协议，仅需在服务器配置中添加两行代码即可部署。
-
----
-
-## <a name="11"></a>11. AI爬虫泛滥致开源项目被迫屏蔽整个国家 
-<small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/): Devs say AI crawlers dominate traffic, forcing blocks on entire countries</small>
-
-
-| 🔥🔥: 164 \| 💬: [97](https://news.ycombinator.com/item?id=43476337) \| 🗓️ 2025-03-25
-
-
-<br />
-开源社区正面临**AI爬虫流量暴增**的危机，导致服务器过载和带宽成本激增。开发者Xe Iaso因亚马逊爬虫攻击被迫启用**自定义验证系统Anubis**，而Fedora、GNOME等项目甚至屏蔽了巴西等地区的流量。报告显示，部分项目97%的流量来自AI公司爬虫，它们无视robots.txt、伪造用户代理，形同**DDoS攻击**。尽管防御工具如Cloudflare的AI迷宫方案涌现，但合法用户访问也受影响。业界批评AI公司掠夺数据却拒绝合作，威胁开源生态可持续性。
-
----
-
-## <a name="12"></a>12. 编程不等于写代码 
-<small>🔗 [socallinuxexpo.org](https://www.socallinuxexpo.org/scale/22x/presentations/closing-keynote-leslie-lamport): Coding Isn't Programming</small>
-
-
-| 🔥🔥: 148 \| 💬: [189](https://news.ycombinator.com/item?id=43469711) \| 🗓️ 2025-03-25
-
-
-<br />
-传奇计算机科学家、**图灵奖得主**莱斯利·兰波特（Leslie Lamport）将带来闭幕主题演讲，探讨**分布式系统**、开源与计算历史。活动于2025年3月9日15:00在Ballroom DE举行，他是**分布式计算领域**的先驱，演讲内容涵盖技术演进与未来趋势。铂金、黄金等多级赞助商支持本次活动。
-
----
-
-## <a name="13"></a>13. VGGT：基于视觉几何的Transformer模型 
+## <a name="12"></a>12. VGGT：基于视觉几何的Transformer模型 
 <small>🔗 [github.com](https://github.com/facebookresearch/vggt): VGGT: Visual Geometry Grounded Transformer</small>
 
 
-| 🔥🔥: 146 \| 💬: [37](https://news.ycombinator.com/item?id=43470651) \| 🗓️ 2025-03-25
+| 🔥🔥: 149 \| 💬: [37](https://news.ycombinator.com/item?id=43470651) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -181,11 +169,23 @@ VGGT（Visual Geometry Grounded Transformer）是由牛津大学视觉几何组�
 
 ---
 
+## <a name="13"></a>13. 编程不等于写代码 
+<small>🔗 [socallinuxexpo.org](https://www.socallinuxexpo.org/scale/22x/presentations/closing-keynote-leslie-lamport): Coding Isn't Programming</small>
+
+
+| 🔥🔥: 148 \| 💬: [190](https://news.ycombinator.com/item?id=43469711) \| 🗓️ 2025-03-25
+
+
+<br />
+传奇计算机科学家、**图灵奖得主**莱斯利·兰波特（Leslie Lamport）将带来闭幕主题演讲，探讨**分布式系统**、开源与计算历史。活动于2025年3月9日15:00在Ballroom DE举行，他是**分布式计算领域**的先驱，演讲内容涵盖技术演进与未来趋势。铂金、黄金等多级赞助商支持本次活动。
+
+---
+
 ## <a name="14"></a>14. 从零开始编写自己的C++标准库 
 <small>🔗 [nibblestew.blogspot.com](https://nibblestew.blogspot.com/2025/03/writing-your-own-c-standard-library.html): Writing your own C++ standard library from scratch</small>
 
 
-| 🔥🔥: 139 \| 💬: [120](https://news.ycombinator.com/item?id=43468976) \| 🗓️ 2025-03-25
+| 🔥🔥: 139 \| 💬: [121](https://news.ycombinator.com/item?id=43468976) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -209,7 +209,7 @@ OpenAI耗资5000亿美元的**“星际之门”计划**遭遇中国开源模型
 <small>🔗 [alexwlchan.net](https://alexwlchan.net/2025/github-actions-audit/): Whose code am I running in GitHub Actions?</small>
 
 
-| 🔥🔥: 127 \| 💬: [47](https://news.ycombinator.com/item?id=43473623) \| 🗓️ 2025-03-25
+| 🔥🔥: 135 \| 💬: [49](https://news.ycombinator.com/item?id=43473623) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -221,7 +221,7 @@ OpenAI耗资5000亿美元的**“星际之门”计划**遭遇中国开源模型
 <small>🔗 [math.ucr.edu](https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html): Why is C the symbol for the speed of light? (2004)</small>
 
 
-| 🔥🔥: 118 \| 💬: [96](https://news.ycombinator.com/item?id=43472663) \| 🗓️ 2025-03-25
+| 🔥🔥: 121 \| 💬: [97](https://news.ycombinator.com/item?id=43472663) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -229,7 +229,19 @@ OpenAI耗资5000亿美元的**“星际之门”计划**遭遇中国开源模型
 
 ---
 
-## <a name="18"></a>18. X工程总监王浩飞突然离职，马斯克重心转向xAI与狗狗币 
+## <a name="18"></a>18. 推销自己，推销你的工作 
+<small>🔗 [solipsys.co.uk](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn): Sell yourself, sell your work</small>
+
+
+| 🔥🔥: 117 \| 💬: [55](https://news.ycombinator.com/item?id=43476249) \| 🗓️ 2025-03-25
+
+
+<br />
+技术上的卓越成就固然重要，但若无人知晓，其价值将大打折扣。**无论多么出色的工作**，若缺乏有效的传播，便无法惠及他人或为你赢得声誉。Richard Hamming强调，科学家不仅需要完成研究，还需学会**“推销”**自己的成果——通过清晰的写作、演讲和展示吸引同行关注。企业家同样面临这一挑战，企业的生存依赖于产品或服务的推广。**沟通能力**是连接才华与世界的桥梁，缺乏它，再 brilliant 的成果也可能被埋没。
+
+---
+
+## <a name="19"></a>19. X工程总监王浩飞突然离职，马斯克重心转向xAI与狗狗币 
 <small>🔗 [theverge.com](https://www.theverge.com/twitter/634833/x-head-engineering-leaves-elon-musk): X’s director of engineering, Haofei Wang, has left the company</small>
 
 
@@ -241,7 +253,7 @@ OpenAI耗资5000亿美元的**“星际之门”计划**遭遇中国开源模型
 
 ---
 
-## <a name="19"></a>19. Beej的C语言编程指南 
+## <a name="20"></a>20. Beej的C语言编程指南 
 <small>🔗 [beej.us](https://beej.us/guide/bgc/pdf/bgc_a4_c_1.pdf): Beej's Guide to C Programming [pdf]</small>
 
 
@@ -253,23 +265,11 @@ OpenAI耗资5000亿美元的**“星际之门”计划**遭遇中国开源模型
 
 ---
 
-## <a name="20"></a>20. 推销自己，推销你的工作 
-<small>🔗 [solipsys.co.uk](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn): Sell yourself, sell your work</small>
-
-
-| 🔥: 92 \| 💬: [47](https://news.ycombinator.com/item?id=43476249) \| 🗓️ 2025-03-25
-
-
-<br />
-技术上的卓越成就固然重要，但若无人知晓，其价值将大打折扣。**无论多么出色的工作**，若缺乏有效的传播，便无法惠及他人或为你赢得声誉。Richard Hamming强调，科学家不仅需要完成研究，还需学会**“推销”**自己的成果——通过清晰的写作、演讲和展示吸引同行关注。企业家同样面临这一挑战，企业的生存依赖于产品或服务的推广。**沟通能力**是连接才华与世界的桥梁，缺乏它，再 brilliant 的成果也可能被埋没。
-
----
-
 ## <a name="21"></a>21. 是什么扼杀了数据可视化行业的创新？ 
 <small>🔗 [shirleywu.studio](https://www.shirleywu.studio/notebook/2025-02-innovation-killer): What Killed Innovation?</small>
 
 
-| 🔥: 90 \| 💬: [87](https://news.ycombinator.com/item?id=43470971) \| 🗓️ 2025-03-25
+| 🔥: 94 \| 💬: [89](https://news.ycombinator.com/item?id=43470971) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -281,7 +281,7 @@ OpenAI耗资5000亿美元的**“星际之门”计划**遭遇中国开源模型
 <small>🔗 [github.com](https://github.com/habedi/hann): Hann: A Fast Approximate Nearest Neighbor Search Library for Go</small>
 
 
-| 🔥: 84 \| 💬: [8](https://news.ycombinator.com/item?id=43470162) \| 🗓️ 2025-03-25
+| 🔥: 86 \| 💬: [8](https://news.ycombinator.com/item?id=43470162) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -293,7 +293,7 @@ Hann是一个专为Go语言设计的**高性能近似最近邻搜索（ANN）库
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/25/too_many_outlooks/): Microsoft's many Outlooks are confusing users – including its own employees</small>
 
 
-| 🔥: 75 \| 💬: [82](https://news.ycombinator.com/item?id=43474707) \| 🗓️ 2025-03-25
+| 🔥: 76 \| 💬: [82](https://news.ycombinator.com/item?id=43474707) \| 🗓️ 2025-03-25
 
 
 <br />
