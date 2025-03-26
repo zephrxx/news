@@ -27,7 +27,7 @@ tags:
 <small>🔗 [supernuclear.substack.com](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed): Stoop Coffee: A simple idea transformed my neighborhood</small>
 
 
-| 🔥🔥: 918 \| 💬: [315](https://news.ycombinator.com/item?id=43473618) \| 🗓️ 2025-03-25
+| 🔥🔥: 951 \| 💬: [322](https://news.ycombinator.com/item?id=43473618) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [blog.google](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/): Gemini 2.5</small>
 
 
-| 🔥🔥: 684 \| 💬: [303](https://news.ycombinator.com/item?id=43473489) \| 🗓️ 2025-03-25
+| 🔥🔥: 713 \| 💬: [315](https://news.ycombinator.com/item?id=43473489) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [toad.social](https://toad.social/@grumpybozo/114213600922816869): Spammers are better at SPF, DKIM, and DMARC than everyone else</small>
 
 
-| 🔥🔥: 391 \| 💬: [214](https://news.ycombinator.com/item?id=43468995) \| 🗓️ 2025-03-25
+| 🔥🔥: 392 \| 💬: [216](https://news.ycombinator.com/item?id=43468995) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [engadget.com](https://www.engadget.com/big-tech/samsung-ceo-jong-hee-han-has-died-120029286.html): Samsung CEO Jong-hee Han has died</small>
 
 
-| 🔥🔥: 248 \| 💬: [147](https://news.ycombinator.com/item?id=43470699) \| 🗓️ 2025-03-25
+| 🔥🔥: 249 \| 💬: [147](https://news.ycombinator.com/item?id=43470699) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [rachelbythebay.com](https://rachelbythebay.com/w/2025/03/25/atop/): You might want to stop running atop</small>
 
 
-| 🔥🔥: 227 \| 💬: [95](https://news.ycombinator.com/item?id=43477057) \| 🗓️ 2025-03-25
+| 🔥🔥: 228 \| 💬: [99](https://news.ycombinator.com/item?id=43477057) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [refactoringenglish.com](https://refactoringenglish.com/tools/hn-popularity/): The highest-ranking personal blogs of Hacker News</small>
 
 
-| 🔥🔥: 199 \| 💬: [72](https://news.ycombinator.com/item?id=43474505) \| 🗓️ 2025-03-25
+| 🔥🔥: 214 \| 💬: [76](https://news.ycombinator.com/item?id=43474505) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/): Devs say AI crawlers dominate traffic, forcing blocks on entire countries</small>
 
 
-| 🔥🔥: 184 \| 💬: [116](https://news.ycombinator.com/item?id=43476337) \| 🗓️ 2025-03-25
+| 🔥🔥: 200 \| 💬: [133](https://news.ycombinator.com/item?id=43476337) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -107,35 +107,11 @@ tags:
 
 ---
 
-## <a name="8"></a>8. 凯莉·米洛的字体情歌：当流行天后化身德国粗斜体 
-<small>🔗 [abcdinamo.com](https://abcdinamo.com/news/german-bold-italic): Kylie Minogue song about a typeface</small>
-
-
-| 🔥🔥: 182 \| 💬: [59](https://news.ycombinator.com/item?id=43473358) \| 🗓️ 2025-03-25
-
-
-<br />
-1997年，凯莉·米洛与制作人**Towa Tei**合作推出单曲《GBI（German Bold Italic）》，以字体为第一人称演唱，歌词如“**我是字体**”“我的风格你会喜欢”充满戏谑感。这首歌配套发布了真实的**German Bold Italic字体**，由设计师Hiro Sugiyama创作，作为数据音轨附在Tei的专辑中。米洛当时正尝试艺术化转型，而Tei作为Dee-Lite乐队创始人，集结了多元音乐人参与该项目。这款字体融合了90年代末的厚重未来风，虽开放下载却鲜少被使用，仅艺术家Cory Arcangel在2015年用于乐队周边设计。
-
----
-
-## <a name="9"></a>9. 2010年赤足跑步热潮的兴衰 
-<small>🔗 [runningshoescore.com](https://runningshoescore.com/blog/barefoot-running-hysteria-of-2010): The Great Barefoot Running Hysteria of 2010</small>
-
-
-| 🔥🔥: 181 \| 💬: [192](https://news.ycombinator.com/item?id=43469690) \| 🗓️ 2025-03-25
-
-
-<br />
-2010年，受《天生就会跑》一书和**极简跑鞋**（如Vibram五指鞋）的推动，赤足跑步风靡一时。支持者宣称它能减少损伤、提升效率，但缺乏科学依据。随着研究深入，混合结果和**运动伤害**报告导致热潮消退。然而，这场运动永久改变了跑鞋设计，催生了更轻量、低落差的鞋款，并终结了过度支撑跑鞋的垄断。尽管狂热短暂，其影响至今犹存。
-
----
-
-## <a name="10"></a>10. 开源OpenPubkey SSH（OPKSSH）：将单点登录集成到SSH中 
+## <a name="8"></a>8. 开源OpenPubkey SSH（OPKSSH）：将单点登录集成到SSH中 
 <small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/): Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH</small>
 
 
-| 🔥🔥: 179 \| 💬: [118](https://news.ycombinator.com/item?id=43470906) \| 🗓️ 2025-03-25
+| 🔥🔥: 192 \| 💬: [118](https://news.ycombinator.com/item?id=43470906) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -143,11 +119,35 @@ OpenPubkey SSH（OPKSSH）通过整合**单点登录（SSO）**技术（如OpenI
 
 ---
 
+## <a name="9"></a>9. 凯莉·米洛的字体情歌：当流行天后化身德国粗斜体 
+<small>🔗 [abcdinamo.com](https://abcdinamo.com/news/german-bold-italic): Kylie Minogue song about a typeface</small>
+
+
+| 🔥🔥: 186 \| 💬: [60](https://news.ycombinator.com/item?id=43473358) \| 🗓️ 2025-03-25
+
+
+<br />
+1997年，凯莉·米洛与制作人**Towa Tei**合作推出单曲《GBI（German Bold Italic）》，以字体为第一人称演唱，歌词如“**我是字体**”“我的风格你会喜欢”充满戏谑感。这首歌配套发布了真实的**German Bold Italic字体**，由设计师Hiro Sugiyama创作，作为数据音轨附在Tei的专辑中。米洛当时正尝试艺术化转型，而Tei作为Dee-Lite乐队创始人，集结了多元音乐人参与该项目。这款字体融合了90年代末的厚重未来风，虽开放下载却鲜少被使用，仅艺术家Cory Arcangel在2015年用于乐队周边设计。
+
+---
+
+## <a name="10"></a>10. 2010年赤足跑步热潮的兴衰 
+<small>🔗 [runningshoescore.com](https://runningshoescore.com/blog/barefoot-running-hysteria-of-2010): The Great Barefoot Running Hysteria of 2010</small>
+
+
+| 🔥🔥: 182 \| 💬: [192](https://news.ycombinator.com/item?id=43469690) \| 🗓️ 2025-03-25
+
+
+<br />
+2010年，受《天生就会跑》一书和**极简跑鞋**（如Vibram五指鞋）的推动，赤足跑步风靡一时。支持者宣称它能减少损伤、提升效率，但缺乏科学依据。随着研究深入，混合结果和**运动伤害**报告导致热潮消退。然而，这场运动永久改变了跑鞋设计，催生了更轻量、低落差的鞋款，并终结了过度支撑跑鞋的垄断。尽管狂热短暂，其影响至今犹存。
+
+---
+
 ## <a name="11"></a>11. 特斯拉欧洲交付量暴跌43%，而电动车市场整体增长31% 
 <small>🔗 [electrek.co](https://electrek.co/2025/03/25/tesla-tsla-deliveries-down-43-in-europe-while-evs-are-up-28/): Tesla deliveries down 43% in Europe while EVs are up 31%</small>
 
 
-| 🔥🔥: 175 \| 💬: [240](https://news.ycombinator.com/item?id=43470763) \| 🗓️ 2025-03-25
+| 🔥🔥: 175 \| 💬: [241](https://news.ycombinator.com/item?id=43470763) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -159,7 +159,7 @@ OpenPubkey SSH（OPKSSH）通过整合**单点登录（SSO）**技术（如OpenI
 <small>🔗 [github.com](https://github.com/facebookresearch/vggt): VGGT: Visual Geometry Grounded Transformer</small>
 
 
-| 🔥🔥: 149 \| 💬: [37](https://news.ycombinator.com/item?id=43470651) \| 🗓️ 2025-03-25
+| 🔥🔥: 152 \| 💬: [37](https://news.ycombinator.com/item?id=43470651) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -181,59 +181,11 @@ VGGT（Visual Geometry Grounded Transformer）是由牛津大学视觉几何组�
 
 ---
 
-## <a name="14"></a>14. 从零开始编写自己的C++标准库 
-<small>🔗 [nibblestew.blogspot.com](https://nibblestew.blogspot.com/2025/03/writing-your-own-c-standard-library.html): Writing your own C++ standard library from scratch</small>
-
-
-| 🔥🔥: 139 \| 💬: [121](https://news.ycombinator.com/item?id=43468976) \| 🗓️ 2025-03-25
-
-
-<br />
-本文探讨了**从头实现C++标准库**（STL）的挑战与乐趣。作者指出，尽管STL功能强大，但其**编译速度慢**、代码晦涩难懂，且受限于严格的向后兼容性。通过禁用STL并自行实现核心功能（如文件处理、字符串、哈希表等），作者展示了**pystd**库的简洁性（仅1000行代码），其性能与STL相当，但编译时间更短。此外，pystd采用**按年份命名空间**的设计，既支持ABI稳定性，又允许未来灵活调整，解决了传统标准库难以更新的问题。
-
----
-
-## <a name="15"></a>15. 硅谷AI泡沫危机：万亿豪赌恐引发经济崩塌 
-<small>🔗 [prospect.org](https://prospect.org/power/2025-03-25-bubble-trouble-ai-threat/): An AI bubble threatens Silicon Valley, and all of us</small>
-
-
-| 🔥🔥: 136 \| 💬: [124](https://news.ycombinator.com/item?id=43470786) \| 🗓️ 2025-03-25
-
-
-<br />
-OpenAI耗资5000亿美元的**“星际之门”计划**遭遇中国开源模型**DeepSeek R1**的挑战，后者以95%的成本优势实现同等性能，直接威胁OpenAI的盈利模式。硅谷已投入**2000亿美元**押注生成式AI，但OpenAI年亏损达50亿美元，且依赖未来技术突破才能平衡收支。若泡沫破裂，科技巨头股价崩盘或引发全球经济危机。同时，AI数据中心将吞噬全美12%电力，进一步暴露行业不可持续的发展困境。
-
----
-
-## <a name="16"></a>16. GitHub Actions 中我到底在运行谁的代码？ 
-<small>🔗 [alexwlchan.net](https://alexwlchan.net/2025/github-actions-audit/): Whose code am I running in GitHub Actions?</small>
-
-
-| 🔥🔥: 135 \| 💬: [49](https://news.ycombinator.com/item?id=43473623) \| 🗓️ 2025-03-25
-
-
-<br />
-文章探讨了GitHub Actions中因使用**可变标签（如v2）**而非**不可变提交ID**导致的安全风险，例如恶意代码注入。作者通过一个Shell脚本统计了自己使用的所有Actions，并分析了其来源可信度（如大型组织vs个人开发者）。最后强调，**Unix文本处理工具链**能高效完成此类一次性数据分析任务，建议开发者掌握这些技能以提升工作流安全性。
-
----
-
-## <a name="17"></a>17. 为什么用字母c表示光速？ 
-<small>🔗 [math.ucr.edu](https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html): Why is C the symbol for the speed of light? (2004)</small>
-
-
-| 🔥🔥: 121 \| 💬: [97](https://news.ycombinator.com/item?id=43472663) \| 🗓️ 2025-03-25
-
-
-<br />
-19世纪光速常用符号是**V**（源自麦克斯韦），但1856年韦伯和科尔劳施在电磁力方程中首次用**c**表示常数（后证明为光速的√2倍）。1894年德鲁德将其改为电磁波速符号，**c**逐渐被普朗克、洛伦兹等学者采纳。1907年爱因斯坦改用**c**，因其既避免与速度变量v混淆，又暗合拉丁语“**celeritas**”（速度）。这一符号最终成为光速的标准表示，兼具“常数”与“速度”双重渊源。
-
----
-
-## <a name="18"></a>18. 推销自己，推销你的工作 
+## <a name="14"></a>14. 推销自己，推销你的工作 
 <small>🔗 [solipsys.co.uk](https://www.solipsys.co.uk/new/SellYourselfSellYourWork.html?yc25hn): Sell yourself, sell your work</small>
 
 
-| 🔥🔥: 117 \| 💬: [55](https://news.ycombinator.com/item?id=43476249) \| 🗓️ 2025-03-25
+| 🔥🔥: 145 \| 💬: [57](https://news.ycombinator.com/item?id=43476249) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -241,11 +193,59 @@ OpenAI耗资5000亿美元的**“星际之门”计划**遭遇中国开源模型
 
 ---
 
+## <a name="15"></a>15. 从零开始编写自己的C++标准库 
+<small>🔗 [nibblestew.blogspot.com](https://nibblestew.blogspot.com/2025/03/writing-your-own-c-standard-library.html): Writing your own C++ standard library from scratch</small>
+
+
+| 🔥🔥: 141 \| 💬: [124](https://news.ycombinator.com/item?id=43468976) \| 🗓️ 2025-03-25
+
+
+<br />
+本文探讨了**从头实现C++标准库**（STL）的挑战与乐趣。作者指出，尽管STL功能强大，但其**编译速度慢**、代码晦涩难懂，且受限于严格的向后兼容性。通过禁用STL并自行实现核心功能（如文件处理、字符串、哈希表等），作者展示了**pystd**库的简洁性（仅1000行代码），其性能与STL相当，但编译时间更短。此外，pystd采用**按年份命名空间**的设计，既支持ABI稳定性，又允许未来灵活调整，解决了传统标准库难以更新的问题。
+
+---
+
+## <a name="16"></a>16. GitHub Actions 中我到底在运行谁的代码？ 
+<small>🔗 [alexwlchan.net](https://alexwlchan.net/2025/github-actions-audit/): Whose code am I running in GitHub Actions?</small>
+
+
+| 🔥🔥: 140 \| 💬: [51](https://news.ycombinator.com/item?id=43473623) \| 🗓️ 2025-03-25
+
+
+<br />
+文章探讨了GitHub Actions中因使用**可变标签（如v2）**而非**不可变提交ID**导致的安全风险，例如恶意代码注入。作者通过一个Shell脚本统计了自己使用的所有Actions，并分析了其来源可信度（如大型组织vs个人开发者）。最后强调，**Unix文本处理工具链**能高效完成此类一次性数据分析任务，建议开发者掌握这些技能以提升工作流安全性。
+
+---
+
+## <a name="17"></a>17. 硅谷AI泡沫危机：万亿豪赌恐引发经济崩塌 
+<small>🔗 [prospect.org](https://prospect.org/power/2025-03-25-bubble-trouble-ai-threat/): An AI bubble threatens Silicon Valley, and all of us</small>
+
+
+| 🔥🔥: 136 \| 💬: [125](https://news.ycombinator.com/item?id=43470786) \| 🗓️ 2025-03-25
+
+
+<br />
+OpenAI耗资5000亿美元的**“星际之门”计划**遭遇中国开源模型**DeepSeek R1**的挑战，后者以95%的成本优势实现同等性能，直接威胁OpenAI的盈利模式。硅谷已投入**2000亿美元**押注生成式AI，但OpenAI年亏损达50亿美元，且依赖未来技术突破才能平衡收支。若泡沫破裂，科技巨头股价崩盘或引发全球经济危机。同时，AI数据中心将吞噬全美12%电力，进一步暴露行业不可持续的发展困境。
+
+---
+
+## <a name="18"></a>18. 为什么用字母c表示光速？ 
+<small>🔗 [math.ucr.edu](https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html): Why is C the symbol for the speed of light? (2004)</small>
+
+
+| 🔥🔥: 124 \| 💬: [98](https://news.ycombinator.com/item?id=43472663) \| 🗓️ 2025-03-25
+
+
+<br />
+19世纪光速常用符号是**V**（源自麦克斯韦），但1856年韦伯和科尔劳施在电磁力方程中首次用**c**表示常数（后证明为光速的√2倍）。1894年德鲁德将其改为电磁波速符号，**c**逐渐被普朗克、洛伦兹等学者采纳。1907年爱因斯坦改用**c**，因其既避免与速度变量v混淆，又暗合拉丁语“**celeritas**”（速度）。这一符号最终成为光速的标准表示，兼具“常数”与“速度”双重渊源。
+
+---
+
 ## <a name="19"></a>19. X工程总监王浩飞突然离职，马斯克重心转向xAI与狗狗币 
 <small>🔗 [theverge.com](https://www.theverge.com/twitter/634833/x-head-engineering-leaves-elon-musk): X’s director of engineering, Haofei Wang, has left the company</small>
 
 
-| 🔥🔥: 113 \| 💬: [188](https://news.ycombinator.com/item?id=43470613) \| 🗓️ 2025-03-25
+| 🔥🔥: 113 \| 💬: [190](https://news.ycombinator.com/item?id=43470613) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -257,7 +257,7 @@ OpenAI耗资5000亿美元的**“星际之门”计划**遭遇中国开源模型
 <small>🔗 [beej.us](https://beej.us/guide/bgc/pdf/bgc_a4_c_1.pdf): Beej's Guide to C Programming [pdf]</small>
 
 
-| 🔥🔥: 102 \| 💬: [17](https://news.ycombinator.com/item?id=43471393) \| 🗓️ 2025-03-25
+| 🔥🔥: 103 \| 💬: [17](https://news.ycombinator.com/item?id=43471393) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -269,7 +269,7 @@ OpenAI耗资5000亿美元的**“星际之门”计划**遭遇中国开源模型
 <small>🔗 [shirleywu.studio](https://www.shirleywu.studio/notebook/2025-02-innovation-killer): What Killed Innovation?</small>
 
 
-| 🔥: 94 \| 💬: [89](https://news.ycombinator.com/item?id=43470971) \| 🗓️ 2025-03-25
+| 🔥: 96 \| 💬: [90](https://news.ycombinator.com/item?id=43470971) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -293,7 +293,7 @@ Hann是一个专为Go语言设计的**高性能近似最近邻搜索（ANN）库
 <small>🔗 [theregister.com](https://www.theregister.com/2025/03/25/too_many_outlooks/): Microsoft's many Outlooks are confusing users – including its own employees</small>
 
 
-| 🔥: 76 \| 💬: [82](https://news.ycombinator.com/item?id=43474707) \| 🗓️ 2025-03-25
+| 🔥: 77 \| 💬: [82](https://news.ycombinator.com/item?id=43474707) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -305,7 +305,7 @@ Hann是一个专为Go语言设计的**高性能近似最近邻搜索（ANN）库
 <small>🔗 [wiz.io](https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities): Critical Unauthenticated Remote Code Execution Vulnerabilities in Ingress NGINX</small>
 
 
-| 🔥: 74 \| 💬: [11](https://news.ycombinator.com/item?id=43469629) \| 🗓️ 2025-03-25
+| 🔥: 75 \| 💬: [11](https://news.ycombinator.com/item?id=43469629) \| 🗓️ 2025-03-25
 
 
 <br />
