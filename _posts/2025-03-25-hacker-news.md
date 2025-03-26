@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共22条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [supernuclear.substack.com](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed): Stoop Coffee: A simple idea transformed my neighborhood</small>
 
 
-| 🔥🔥: 663 \| 💬: [244](https://news.ycombinator.com/item?id=43473618) \| 🗓️ 2025-03-25
+| 🔥🔥: 724 \| 💬: [268](https://news.ycombinator.com/item?id=43473618) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [blog.google](https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/): Gemini 2.5</small>
 
 
-| 🔥🔥: 530 \| 💬: [253](https://news.ycombinator.com/item?id=43473489) \| 🗓️ 2025-03-25
+| 🔥🔥: 571 \| 💬: [266](https://news.ycombinator.com/item?id=43473489) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [toad.social](https://toad.social/@grumpybozo/114213600922816869): Spammers are better at SPF, DKIM, and DMARC than everyone else</small>
 
 
-| 🔥🔥: 370 \| 💬: [204](https://news.ycombinator.com/item?id=43468995) \| 🗓️ 2025-03-25
+| 🔥🔥: 376 \| 💬: [208](https://news.ycombinator.com/item?id=43468995) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [engadget.com](https://www.engadget.com/big-tech/samsung-ceo-jong-hee-han-has-died-120029286.html): Samsung CEO Jong-hee Han has died</small>
 
 
-| 🔥🔥: 244 \| 💬: [141](https://news.ycombinator.com/item?id=43470699) \| 🗓️ 2025-03-25
+| 🔥🔥: 245 \| 💬: [144](https://news.ycombinator.com/item?id=43470699) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [electrek.co](https://electrek.co/2025/03/25/tesla-tsla-deliveries-down-43-in-europe-while-evs-are-up-28/): Tesla deliveries down 43% in Europe while EVs are up 31%</small>
 
 
-| 🔥🔥: 172 \| 💬: [235](https://news.ycombinator.com/item?id=43470763) \| 🗓️ 2025-03-25
+| 🔥🔥: 174 \| 💬: [236](https://news.ycombinator.com/item?id=43470763) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -95,23 +95,11 @@ tags:
 
 ---
 
-## <a name="7"></a>7. 编程不等于写代码 
-<small>🔗 [socallinuxexpo.org](https://www.socallinuxexpo.org/scale/22x/presentations/closing-keynote-leslie-lamport): Coding Isn't Programming</small>
-
-
-| 🔥🔥: 148 \| 💬: [182](https://news.ycombinator.com/item?id=43469711) \| 🗓️ 2025-03-25
-
-
-<br />
-传奇计算机科学家、**图灵奖得主**莱斯利·兰波特（Leslie Lamport）将带来闭幕主题演讲，探讨**分布式系统**、开源与计算历史。活动于2025年3月9日15:00在Ballroom DE举行，他是**分布式计算领域**的先驱，演讲内容涵盖技术演进与未来趋势。铂金、黄金等多级赞助商支持本次活动。
-
----
-
-## <a name="8"></a>8. 凯莉·米洛的字体情歌：当流行天后化身德国粗斜体 
+## <a name="7"></a>7. 凯莉·米洛的字体情歌：当流行天后化身德国粗斜体 
 <small>🔗 [abcdinamo.com](https://abcdinamo.com/news/german-bold-italic): Kylie Minogue song about a typeface</small>
 
 
-| 🔥🔥: 140 \| 💬: [51](https://news.ycombinator.com/item?id=43473358) \| 🗓️ 2025-03-25
+| 🔥🔥: 151 \| 💬: [54](https://news.ycombinator.com/item?id=43473358) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -119,23 +107,23 @@ tags:
 
 ---
 
-## <a name="9"></a>9. 从零开始编写自己的C++标准库 
-<small>🔗 [nibblestew.blogspot.com](https://nibblestew.blogspot.com/2025/03/writing-your-own-c-standard-library.html): Writing your own C++ standard library from scratch</small>
+## <a name="8"></a>8. 编程不等于写代码 
+<small>🔗 [socallinuxexpo.org](https://www.socallinuxexpo.org/scale/22x/presentations/closing-keynote-leslie-lamport): Coding Isn't Programming</small>
 
 
-| 🔥🔥: 137 \| 💬: [114](https://news.ycombinator.com/item?id=43468976) \| 🗓️ 2025-03-25
+| 🔥🔥: 148 \| 💬: [185](https://news.ycombinator.com/item?id=43469711) \| 🗓️ 2025-03-25
 
 
 <br />
-本文探讨了**从头实现C++标准库**（STL）的挑战与乐趣。作者指出，尽管STL功能强大，但其**编译速度慢**、代码晦涩难懂，且受限于严格的向后兼容性。通过禁用STL并自行实现核心功能（如文件处理、字符串、哈希表等），作者展示了**pystd**库的简洁性（仅1000行代码），其性能与STL相当，但编译时间更短。此外，pystd采用**按年份命名空间**的设计，既支持ABI稳定性，又允许未来灵活调整，解决了传统标准库难以更新的问题。
+传奇计算机科学家、**图灵奖得主**莱斯利·兰波特（Leslie Lamport）将带来闭幕主题演讲，探讨**分布式系统**、开源与计算历史。活动于2025年3月9日15:00在Ballroom DE举行，他是**分布式计算领域**的先驱，演讲内容涵盖技术演进与未来趋势。铂金、黄金等多级赞助商支持本次活动。
 
 ---
 
-## <a name="10"></a>10. 开源OpenPubkey SSH（OPKSSH）：将单点登录集成到SSH中 
+## <a name="9"></a>9. 开源OpenPubkey SSH（OPKSSH）：将单点登录集成到SSH中 
 <small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/): Open-sourcing OpenPubkey SSH (OPKSSH): integrating single sign-on with SSH</small>
 
 
-| 🔥🔥: 136 \| 💬: [104](https://news.ycombinator.com/item?id=43470906) \| 🗓️ 2025-03-25
+| 🔥🔥: 143 \| 💬: [109](https://news.ycombinator.com/item?id=43470906) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -143,11 +131,23 @@ OpenPubkey SSH（OPKSSH）通过整合**单点登录（SSO）**技术（如OpenI
 
 ---
 
+## <a name="10"></a>10. 从零开始编写自己的C++标准库 
+<small>🔗 [nibblestew.blogspot.com](https://nibblestew.blogspot.com/2025/03/writing-your-own-c-standard-library.html): Writing your own C++ standard library from scratch</small>
+
+
+| 🔥🔥: 138 \| 💬: [117](https://news.ycombinator.com/item?id=43468976) \| 🗓️ 2025-03-25
+
+
+<br />
+本文探讨了**从头实现C++标准库**（STL）的挑战与乐趣。作者指出，尽管STL功能强大，但其**编译速度慢**、代码晦涩难懂，且受限于严格的向后兼容性。通过禁用STL并自行实现核心功能（如文件处理、字符串、哈希表等），作者展示了**pystd**库的简洁性（仅1000行代码），其性能与STL相当，但编译时间更短。此外，pystd采用**按年份命名空间**的设计，既支持ABI稳定性，又允许未来灵活调整，解决了传统标准库难以更新的问题。
+
+---
+
 ## <a name="11"></a>11. 硅谷AI泡沫危机：万亿豪赌恐引发经济崩塌 
 <small>🔗 [prospect.org](https://prospect.org/power/2025-03-25-bubble-trouble-ai-threat/): An AI bubble threatens Silicon Valley, and all of us</small>
 
 
-| 🔥🔥: 134 \| 💬: [124](https://news.ycombinator.com/item?id=43470786) \| 🗓️ 2025-03-25
+| 🔥🔥: 135 \| 💬: [123](https://news.ycombinator.com/item?id=43470786) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -159,7 +159,7 @@ OpenAI耗资5000亿美元的**“星际之门”计划**遭遇中国开源模型
 <small>🔗 [github.com](https://github.com/facebookresearch/vggt): VGGT: Visual Geometry Grounded Transformer</small>
 
 
-| 🔥🔥: 129 \| 💬: [33](https://news.ycombinator.com/item?id=43470651) \| 🗓️ 2025-03-25
+| 🔥🔥: 134 \| 💬: [36](https://news.ycombinator.com/item?id=43470651) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -169,47 +169,11 @@ VGGT（Visual Geometry Grounded Transformer）是由牛津大学视觉几何组�
 
 ---
 
-## <a name="13"></a>13. X工程总监王浩飞突然离职，马斯克重心转向xAI与狗狗币 
-<small>🔗 [theverge.com](https://www.theverge.com/twitter/634833/x-head-engineering-leaves-elon-musk): X’s director of engineering, Haofei Wang, has left the company</small>
-
-
-| 🔥🔥: 111 \| 💬: [184](https://news.ycombinator.com/item?id=43470613) \| 🗓️ 2025-03-25
-
-
-<br />
-据知情人士透露，**X公司工程总监王浩飞（Haofei Wang）**已突然离职。他自2023年7月加入后一直是核心高管，常作为**马斯克与工程师团队的桥梁**。近期马斯克将更多精力投入**xAI**和**狗狗币**，王浩飞的离职原因尚不明确。X近期还招募了两位前Robinhood技术主管，二人同时为xAI工作。尽管X估值回升至440亿美元，但马斯克因支持特朗普竞选等活动分散了对X的专注，其曾承诺的"全能应用"愿景仍未实现。
-
----
-
-## <a name="14"></a>14. 为什么用字母c表示光速？ 
-<small>🔗 [math.ucr.edu](https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html): Why is C the symbol for the speed of light? (2004)</small>
-
-
-| 🔥🔥: 103 \| 💬: [87](https://news.ycombinator.com/item?id=43472663) \| 🗓️ 2025-03-25
-
-
-<br />
-19世纪光速常用符号是**V**（源自麦克斯韦），但1856年韦伯和科尔劳施在电磁力方程中首次用**c**表示常数（后证明为光速的√2倍）。1894年德鲁德将其改为电磁波速符号，**c**逐渐被普朗克、洛伦兹等学者采纳。1907年爱因斯坦改用**c**，因其既避免与速度变量v混淆，又暗合拉丁语“**celeritas**”（速度）。这一符号最终成为光速的标准表示，兼具“常数”与“速度”双重渊源。
-
----
-
-## <a name="15"></a>15. Beej的C语言编程指南 
-<small>🔗 [beej.us](https://beej.us/guide/bgc/pdf/bgc_a4_c_1.pdf): Beej's Guide to C Programming [pdf]</small>
-
-
-| 🔥: 96 \| 💬: [14](https://news.ycombinator.com/item?id=43471393) \| 🗓️ 2025-03-25
-
-
-<br />
-这份PDF文档是**Beej**编写的C语言编程教程，内容涵盖**基础语法**、**指针操作**和**内存管理**等核心概念。文档通过实例和清晰解释帮助读者掌握C语言的**关键技能**，适合初学者和需要巩固知识的开发者。由于文本为二进制数据，具体细节需查看完整文档。
-
----
-
-## <a name="16"></a>16. Hacker News上最受欢迎的个人博客排名 
+## <a name="13"></a>13. Hacker News上最受欢迎的个人博客排名 
 <small>🔗 [refactoringenglish.com](https://refactoringenglish.com/tools/hn-popularity/): The highest-ranking personal blogs of Hacker News</small>
 
 
-| 🔥: 89 \| 💬: [28](https://news.ycombinator.com/item?id=43474505) \| 🗓️ 2025-03-25
+| 🔥🔥: 117 \| 💬: [37](https://news.ycombinator.com/item?id=43474505) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -217,11 +181,47 @@ VGGT（Visual Geometry Grounded Transformer）是由牛津大学视觉几何组�
 
 ---
 
+## <a name="14"></a>14. X工程总监王浩飞突然离职，马斯克重心转向xAI与狗狗币 
+<small>🔗 [theverge.com](https://www.theverge.com/twitter/634833/x-head-engineering-leaves-elon-musk): X’s director of engineering, Haofei Wang, has left the company</small>
+
+
+| 🔥🔥: 113 \| 💬: [185](https://news.ycombinator.com/item?id=43470613) \| 🗓️ 2025-03-25
+
+
+<br />
+据知情人士透露，**X公司工程总监王浩飞（Haofei Wang）**已突然离职。他自2023年7月加入后一直是核心高管，常作为**马斯克与工程师团队的桥梁**。近期马斯克将更多精力投入**xAI**和**狗狗币**，王浩飞的离职原因尚不明确。X近期还招募了两位前Robinhood技术主管，二人同时为xAI工作。尽管X估值回升至440亿美元，但马斯克因支持特朗普竞选等活动分散了对X的专注，其曾承诺的"全能应用"愿景仍未实现。
+
+---
+
+## <a name="15"></a>15. 为什么用字母c表示光速？ 
+<small>🔗 [math.ucr.edu](https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html): Why is C the symbol for the speed of light? (2004)</small>
+
+
+| 🔥🔥: 107 \| 💬: [89](https://news.ycombinator.com/item?id=43472663) \| 🗓️ 2025-03-25
+
+
+<br />
+19世纪光速常用符号是**V**（源自麦克斯韦），但1856年韦伯和科尔劳施在电磁力方程中首次用**c**表示常数（后证明为光速的√2倍）。1894年德鲁德将其改为电磁波速符号，**c**逐渐被普朗克、洛伦兹等学者采纳。1907年爱因斯坦改用**c**，因其既避免与速度变量v混淆，又暗合拉丁语“**celeritas**”（速度）。这一符号最终成为光速的标准表示，兼具“常数”与“速度”双重渊源。
+
+---
+
+## <a name="16"></a>16. Beej的C语言编程指南 
+<small>🔗 [beej.us](https://beej.us/guide/bgc/pdf/bgc_a4_c_1.pdf): Beej's Guide to C Programming [pdf]</small>
+
+
+| 🔥: 98 \| 💬: [16](https://news.ycombinator.com/item?id=43471393) \| 🗓️ 2025-03-25
+
+
+<br />
+这份PDF文档是**Beej**编写的C语言编程教程，内容涵盖**基础语法**、**指针操作**和**内存管理**等核心概念。文档通过实例和清晰解释帮助读者掌握C语言的**关键技能**，适合初学者和需要巩固知识的开发者。由于文本为二进制数据，具体细节需查看完整文档。
+
+---
+
 ## <a name="17"></a>17. GitHub Actions 中我到底在运行谁的代码？ 
 <small>🔗 [alexwlchan.net](https://alexwlchan.net/2025/github-actions-audit/): Whose code am I running in GitHub Actions?</small>
 
 
-| 🔥: 83 \| 💬: [32](https://news.ycombinator.com/item?id=43473623) \| 🗓️ 2025-03-25
+| 🔥: 95 \| 💬: [40](https://news.ycombinator.com/item?id=43473623) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -229,11 +229,23 @@ VGGT（Visual Geometry Grounded Transformer）是由牛津大学视觉几何组�
 
 ---
 
-## <a name="18"></a>18. Go语言高性能近似最近邻搜索库Hann 
+## <a name="18"></a>18. AI爬虫泛滥致开源项目被迫屏蔽整个国家 
+<small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/): Devs say AI crawlers dominate traffic, forcing blocks on entire countries</small>
+
+
+| 🔥: 81 \| 💬: [36](https://news.ycombinator.com/item?id=43476337) \| 🗓️ 2025-03-25
+
+
+<br />
+开源社区正面临**AI爬虫流量暴增**的危机，导致服务器过载和带宽成本激增。开发者Xe Iaso因亚马逊爬虫攻击被迫启用**自定义验证系统Anubis**，而Fedora、GNOME等项目甚至屏蔽了巴西等地区的流量。报告显示，部分项目97%的流量来自AI公司爬虫，它们无视robots.txt、伪造用户代理，形同**DDoS攻击**。尽管防御工具如Cloudflare的AI迷宫方案涌现，但合法用户访问也受影响。业界批评AI公司掠夺数据却拒绝合作，威胁开源生态可持续性。
+
+---
+
+## <a name="19"></a>19. Go语言高性能近似最近邻搜索库Hann 
 <small>🔗 [github.com](https://github.com/habedi/hann): Hann: A Fast Approximate Nearest Neighbor Search Library for Go</small>
 
 
-| 🔥: 78 \| 💬: [8](https://news.ycombinator.com/item?id=43470162) \| 🗓️ 2025-03-25
+| 🔥: 79 \| 💬: [8](https://news.ycombinator.com/item?id=43470162) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -241,11 +253,23 @@ Hann是一个专为Go语言设计的**高性能近似最近邻搜索（ANN）库
 
 ---
 
-## <a name="19"></a>19. Kubernetes Ingress NGINX曝严重漏洞，43%云环境面临集群接管风险 
+## <a name="20"></a>20. 是什么扼杀了数据可视化行业的创新？ 
+<small>🔗 [shirleywu.studio](https://www.shirleywu.studio/notebook/2025-02-innovation-killer): What Killed Innovation?</small>
+
+
+| 🔥: 76 \| 💬: [81](https://news.ycombinator.com/item?id=43470971) \| 🗓️ 2025-03-25
+
+
+<br />
+作者回顾了2010年代数据可视化领域的黄金时期，当时D3.js等技术催生了大量实验性项目（如《纽约时报》的交互式图表）。但十年后，行业创新陷入**同质化**：**滚动叙事（scrollytelling）**成为主流模板，新冠疫情后公众更倾向简单图表，经济下行也导致客户偏好“够用就好”的解决方案。专家指出这是技术创新的自然周期，当前处于**平台期**，但未来可能迎来新一轮突破。
+
+---
+
+## <a name="21"></a>21. Kubernetes Ingress NGINX曝严重漏洞，43%云环境面临集群接管风险 
 <small>🔗 [wiz.io](https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities): Critical Unauthenticated Remote Code Execution Vulnerabilities in Ingress NGINX</small>
 
 
-| 🔥: 73 \| 💬: [11](https://news.ycombinator.com/item?id=43469629) \| 🗓️ 2025-03-25
+| 🔥: 74 \| 💬: [11](https://news.ycombinator.com/item?id=43469629) \| 🗓️ 2025-03-25
 
 
 <br />
@@ -253,7 +277,19 @@ Wiz研究团队发现代号**#IngressNightmare**的4个高危漏洞（CVE-2025-1
 
 ---
 
-## <a name="20"></a>20. Marginalia搜索项目再获NLnet基金会资助 
+## <a name="22"></a>22. 微软多个Outlook版本让用户困惑，连自家员工也不例外 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/03/25/too_many_outlooks/): Microsoft's many Outlooks are confusing users – including its own employees</small>
+
+
+| 🔥: 74 \| 💬: [80](https://news.ycombinator.com/item?id=43474707) \| 🗓️ 2025-03-25
+
+
+<br />
+微软的**Outlook**因版本过多（如Outlook New、Outlook (Classic)等）让用户和员工感到混乱。开发者Scott Hanselman调侃提议推出“零糖版”“无咖啡因版”等虚构版本，凸显微软产品线重复的问题。微软正强制用户迁移至功能不全的**新版Outlook**（基于网页版架构），但企业依赖的COM插件不受支持。经典版将支持到2029年，但过渡计划分“可选→默认→不可逆”三阶段推进。此举让人联想到饮料公司强行推新配方的失败案例。
+
+---
+
+## <a name="23"></a>23. Marginalia搜索项目再获NLnet基金会资助 
 <small>🔗 [marginalia.nu](https://www.marginalia.nu/log/a_116_grant_2.0/): Marginalia Search receives second nlnet grant</small>
 
 
@@ -265,19 +301,7 @@ Marginalia搜索项目宣布**第二次获得NLnet基金会资助**，资金将�
 
 ---
 
-## <a name="21"></a>21. 微软多个Outlook版本让用户困惑，连自家员工也不例外 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/03/25/too_many_outlooks/): Microsoft's many Outlooks are confusing users – including its own employees</small>
-
-
-| 🔥: 73 \| 💬: [79](https://news.ycombinator.com/item?id=43474707) \| 🗓️ 2025-03-25
-
-
-<br />
-微软的**Outlook**因版本过多（如Outlook New、Outlook (Classic)等）让用户和员工感到混乱。开发者Scott Hanselman调侃提议推出“零糖版”“无咖啡因版”等虚构版本，凸显微软产品线重复的问题。微软正强制用户迁移至功能不全的**新版Outlook**（基于网页版架构），但企业依赖的COM插件不受支持。经典版将支持到2029年，但过渡计划分“可选→默认→不可逆”三阶段推进。此举让人联想到饮料公司强行推新配方的失败案例。
-
----
-
-## <a name="22"></a>22. 《时空之轮》发售30年仍让我震撼不已 
+## <a name="24"></a>24. 《时空之轮》发售30年仍让我震撼不已 
 <small>🔗 [kotaku.com](https://kotaku.com/chrono-trigger-jrpg-snes-30th-anniversary-square-1851769192): Chrono Trigger Still Blows Me Away 30 Years Later</small>
 
 
