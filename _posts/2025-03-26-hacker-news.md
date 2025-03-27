@@ -27,7 +27,7 @@ tags:
 <small>🔗 [lwn.net](https://lwn.net/Articles/1015402/): Debian bookworm live images now reproducible</small>
 
 
-| 🔥🔥: 433 \| 💬: [91](https://news.ycombinator.com/item?id=43484520) \| 🗓️ 2025-03-26
+| 🔥🔥: 446 \| 💬: [94](https://news.ycombinator.com/item?id=43484520) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -39,7 +39,7 @@ Debian 开发者 Roland Clobus 在**可复现构建**邮件列表中宣布，Deb
 <small>🔗 [openai.github.io](https://openai.github.io/openai-agents-python/mcp/): OpenAI adds MCP support to Agents SDK</small>
 
 
-| 🔥🔥: 412 \| 💬: [140](https://news.ycombinator.com/item?id=43485566) \| 🗓️ 2025-03-26
+| 🔥🔥: 441 \| 💬: [146](https://news.ycombinator.com/item?id=43485566) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -51,7 +51,7 @@ Debian 开发者 Roland Clobus 在**可复现构建**邮件列表中宣布，Deb
 <small>🔗 [github.com](https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md): A love letter to the CSV format</small>
 
 
-| 🔥🔥: 316 \| 💬: [314](https://news.ycombinator.com/item?id=43484382) \| 🗓️ 2025-03-26
+| 🔥🔥: 337 \| 💬: [330](https://news.ycombinator.com/item?id=43484382) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -63,7 +63,7 @@ Debian 开发者 Roland Clobus 在**可复现构建**邮件列表中宣布，Deb
 <small>🔗 [onemileatatime.com](https://onemileatatime.com/news/airline-demand-canada-united-states-collapses/): Airline Demand Between Canada and United States Collapses, Down 70%+</small>
 
 
-| 🔥🔥: 283 \| 💬: [358](https://news.ycombinator.com/item?id=43485649) \| 🗓️ 2025-03-26
+| 🔥🔥: 288 \| 💬: [366](https://news.ycombinator.com/item?id=43485649) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -75,7 +75,7 @@ Debian 开发者 Roland Clobus 在**可复现构建**邮件列表中宣布，Deb
 <small>🔗 [9to5google.com](https://9to5google.com/2025/03/26/google-android-aosp-developement-private/): Google will develop Android OS behind closed doors starting next week</small>
 
 
-| 🔥🔥: 242 \| 💬: [176](https://news.ycombinator.com/item?id=43484927) \| 🗓️ 2025-03-26
+| 🔥🔥: 247 \| 💬: [179](https://news.ycombinator.com/item?id=43484927) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -87,7 +87,7 @@ Debian 开发者 Roland Clobus 在**可复现构建**邮件列表中宣布，Deb
 <small>🔗 [eduardoboucas.com](https://eduardoboucas.com/posts/2025-03-25-you-should-know-this-before-choosing-nextjs/): You should know this before choosing Next.js</small>
 
 
-| 🔥🔥: 236 \| 💬: [108](https://news.ycombinator.com/item?id=43481295) \| 🗓️ 2025-03-26
+| 🔥🔥: 238 \| 💬: [109](https://news.ycombinator.com/item?id=43481295) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -99,7 +99,7 @@ Debian 开发者 Roland Clobus 在**可复现构建**邮件列表中宣布，Deb
 <small>🔗 [go.dev](https://go.dev/blog/coretypes): Good-bye core types; Hello Go as we know and love it</small>
 
 
-| 🔥🔥: 221 \| 💬: [120](https://news.ycombinator.com/item?id=43483842) \| 🗓️ 2025-03-26
+| 🔥🔥: 235 \| 💬: [133](https://news.ycombinator.com/item?id=43483842) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -111,7 +111,7 @@ Go 1.18引入了泛型，带来了**类型参数**、**类型约束**等新特�
 <small>🔗 [spaceinafrica.com](https://spaceinafrica.com/2025/03/15/botswana-successfully-launches-first-satellite-botsat-1/): Botswana Successfully Launches First Satellite, Botsat-1</small>
 
 
-| 🔥🔥: 200 \| 💬: [74](https://news.ycombinator.com/item?id=43483660) \| 🗓️ 2025-03-26
+| 🔥🔥: 214 \| 💬: [77](https://news.ycombinator.com/item?id=43483660) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -123,7 +123,7 @@ Go 1.18引入了泛型，带来了**类型参数**、**类型约束**等新特�
 <small>🔗 [opensource.microsoft.com](https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/): Hyperlight WASM: Fast, secure, and OS-free</small>
 
 
-| 🔥🔥: 198 \| 💬: [76](https://news.ycombinator.com/item?id=43482556) \| 🗓️ 2025-03-26
+| 🔥🔥: 203 \| 💬: [77](https://news.ycombinator.com/item?id=43482556) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -135,7 +135,7 @@ Go 1.18引入了泛型，带来了**类型参数**、**类型约束**等新特�
 <small>🔗 [bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/): Oracle customers confirm data stolen in alleged cloud breach is valid</small>
 
 
-| 🔥🔥: 174 \| 💬: [40](https://news.ycombinator.com/item?id=43486945) \| 🗓️ 2025-03-26
+| 🔥🔥: 197 \| 💬: [43](https://news.ycombinator.com/item?id=43486945) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -143,23 +143,11 @@ Go 1.18引入了泛型，带来了**类型参数**、**类型约束**等新特�
 
 ---
 
-## <a name="11"></a>11. Linux内核6.14发布：性能飞跃，Windows兼容性大幅提升 
-<small>🔗 [zdnet.com](https://www.zdnet.com/article/linux-kernel-6-14-is-a-big-leap-forward-in-performance-and-windows-compatibility/): Linux kernel 6.14 is a big leap forward in performance and Windows compatibility</small>
-
-
-| 🔥🔥: 165 \| 💬: [110](https://news.ycombinator.com/item?id=43483567) \| 🗓️ 2025-03-26
-
-
-<br />
-Linux内核6.14正式推出，带来多项重磅更新。**NTSYNC驱动**显著优化了Wine和Steam Play的Windows程序运行性能，被赞为“将彻底改变Linux游戏体验”。此外，新增对**AMD RDNA 4显卡**的支持，搭配RADV驱动可提升游戏性能。内核还集成**AMDXDNA驱动**，支持AMD神经网络单元，加速AI任务处理。其他改进包括Rust语言支持扩展、Snapdragon 8 Elite芯片优化，以及修复GhostWrite漏洞。此次更新覆盖游戏、AI及移动设备领域，进一步巩固Linux的多场景优势。
-
----
-
-## <a name="12"></a>12. npm发现恶意软件通过反向感染本地合法包 
+## <a name="11"></a>11. npm发现恶意软件通过反向感染本地合法包 
 <small>🔗 [reversinglabs.com](https://www.reversinglabs.com/blog/malicious-npm-patch-delivers-reverse-shell): Malware found on NPM infecting local package with reverse shell</small>
 
 
-| 🔥🔥: 164 \| 💬: [101](https://news.ycombinator.com/item?id=43484845) \| 🗓️ 2025-03-26
+| 🔥🔥: 175 \| 💬: [102](https://news.ycombinator.com/item?id=43484845) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -167,11 +155,23 @@ Linux内核6.14正式推出，带来多项重磅更新。**NTSYNC驱动**显著�
 
 ---
 
+## <a name="12"></a>12. Linux内核6.14发布：性能飞跃，Windows兼容性大幅提升 
+<small>🔗 [zdnet.com](https://www.zdnet.com/article/linux-kernel-6-14-is-a-big-leap-forward-in-performance-and-windows-compatibility/): Linux kernel 6.14 is a big leap forward in performance and Windows compatibility</small>
+
+
+| 🔥🔥: 167 \| 💬: [112](https://news.ycombinator.com/item?id=43483567) \| 🗓️ 2025-03-26
+
+
+<br />
+Linux内核6.14正式推出，带来多项重磅更新。**NTSYNC驱动**显著优化了Wine和Steam Play的Windows程序运行性能，被赞为“将彻底改变Linux游戏体验”。此外，新增对**AMD RDNA 4显卡**的支持，搭配RADV驱动可提升游戏性能。内核还集成**AMDXDNA驱动**，支持AMD神经网络单元，加速AI任务处理。其他改进包括Rust语言支持扩展、Snapdragon 8 Elite芯片优化，以及修复GhostWrite漏洞。此次更新覆盖游戏、AI及移动设备领域，进一步巩固Linux的多场景优势。
+
+---
+
 ## <a name="13"></a>13. 生成式AI对批判性思维的负面影响 
 <small>🔗 [microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf): The Impact of Generative AI on Critical Thinking [pdf]</small>
 
 
-| 🔥🔥: 162 \| 💬: [112](https://news.ycombinator.com/item?id=43484224) \| 🗓️ 2025-03-26
+| 🔥🔥: 167 \| 💬: [114](https://news.ycombinator.com/item?id=43484224) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -179,23 +179,11 @@ Linux内核6.14正式推出，带来多项重磅更新。**NTSYNC驱动**显著�
 
 ---
 
-## <a name="14"></a>14. 特朗普顾问在Signal上泄露的袭击计划引发安全争议 
-<small>🔗 [theatlantic.com](https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/): Here are the Attack Plans That Trump's Advisers Shared on Signal</small>
-
-
-| 🔥🔥: 153 \| 💬: [48](https://news.ycombinator.com/item?id=43481521) \| 🗓️ 2025-03-26
-
-
-<br />
-《大西洋月刊》披露，特朗普政府高级官员在**Signal加密群聊**中讨论了针对也门胡塞武装的军事行动细节，包括**战机起飞时间**和攻击目标。尽管官员坚称信息未涉密，但专家警告此类非安全通讯可能危及美军人员安全。报道显示，国防部长海格思在行动前31分钟于群聊中发布作战时间表，若信息外泄恐导致灾难性后果。白宫虽否认泄密，却以"敏感内部讨论"为由反对公开完整聊天记录。事件暴露了政府高层对**国家安全协议**的漠视。
-
----
-
-## <a name="15"></a>15. 谷歌将Android开发转为私有化，但保持开源发布 
+## <a name="14"></a>14. 谷歌将Android开发转为私有化，但保持开源发布 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/google-makes-android-development-private-will-continue-open-source-releases/): Google makes Android development private, will continue open source releases</small>
 
 
-| 🔥🔥: 145 \| 💬: [65](https://news.ycombinator.com/item?id=43485950) \| 🗓️ 2025-03-26
+| 🔥🔥: 156 \| 💬: [67](https://news.ycombinator.com/item?id=43485950) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -203,11 +191,11 @@ Linux内核6.14正式推出，带来多项重磅更新。**NTSYNC驱动**显著�
 
 ---
 
-## <a name="16"></a>16. 如何删除你的23andMe基因数据 
+## <a name="15"></a>15. 如何删除你的23andMe基因数据 
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/how-delete-your-23andme-data): How to Delete Your 23andMe Data</small>
 
 
-| 🔥🔥: 141 \| 💬: [76](https://news.ycombinator.com/item?id=43486236) \| 🗓️ 2025-03-26
+| 🔥🔥: 156 \| 💬: [82](https://news.ycombinator.com/item?id=43486236) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -215,15 +203,27 @@ Linux内核6.14正式推出，带来多项重磅更新。**NTSYNC驱动**显著�
 
 ---
 
-## <a name="17"></a>17. Gemini 2.5 Pro评估任务可行性并拒绝不合理请求 
-<small>🔗 [everything.intellectronica.net](https://everything.intellectronica.net/p/negotiating-with-the-machine): Gemini 2.5 Pro reasons about task feasibility</small>
+## <a name="16"></a>16. 特朗普顾问在Signal上泄露的袭击计划引发安全争议 
+<small>🔗 [theatlantic.com](https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/): Here are the Attack Plans That Trump's Advisers Shared on Signal</small>
 
 
-| 🔥🔥: 135 \| 💬: [60](https://news.ycombinator.com/item?id=43479985) \| 🗓️ 2025-03-26
+| 🔥🔥: 155 \| 💬: [49](https://news.ycombinator.com/item?id=43481521) \| 🗓️ 2025-03-26
 
 
 <br />
-用户要求**Gemini 2.5 Pro**复刻经典的**ReBirth RB-338合成器**，但AI经过分析后认为该任务**不可行**，原因是项目复杂度高，涉及数字信号处理、Web音频API等专业知识，需团队数月甚至数年完成。随后，Gemini提供了简化版合成器的代码框架作为替代方案。这一行为展示了AI对自身能力的理性评估，而非盲目尝试。最终用户通过协商获得了基础但可运行的合成器 demo。
+《大西洋月刊》披露，特朗普政府高级官员在**Signal加密群聊**中讨论了针对也门胡塞武装的军事行动细节，包括**战机起飞时间**和攻击目标。尽管官员坚称信息未涉密，但专家警告此类非安全通讯可能危及美军人员安全。报道显示，国防部长海格思在行动前31分钟于群聊中发布作战时间表，若信息外泄恐导致灾难性后果。白宫虽否认泄密，却以"敏感内部讨论"为由反对公开完整聊天记录。事件暴露了政府高层对**国家安全协议**的漠视。
+
+---
+
+## <a name="17"></a>17. Blender 4.4发布：奥斯卡级工具再升级 
+<small>🔗 [blender.org](https://www.blender.org/download/releases/4-4/): Blender releases their Oscar winning version tool</small>
+
+
+| 🔥🔥: 145 \| 💬: [32](https://news.ycombinator.com/item?id=43489114) \| 🗓️ 2025-03-26
+
+
+<br />
+Blender 4.4版本聚焦**稳定性优化**，通过“Winter of Quality”计划修复了700多个问题，并改进了文档与技术债务。新增**Action Slots**功能，允许多个数据块共享同一动画，大幅提升动画效率。视频编辑器支持**H.265/HEVC编解码**和10/12位色深，色彩处理更精准。此外，建模、雕刻、用户界面等模块均有显著改进，CPU合成器性能提升高达10倍。Blender持续免费，由社区捐赠支持发展。
 
 ---
 
@@ -231,7 +231,7 @@ Linux内核6.14正式推出，带来多项重磅更新。**NTSYNC驱动**显著�
 <small>🔗 [collapseos.org](http://collapseos.org/): Collapse OS</small>
 
 
-| 🔥🔥: 130 \| 💬: [124](https://news.ycombinator.com/item?id=43482705) \| 🗓️ 2025-03-26
+| 🔥🔥: 141 \| 💬: [128](https://news.ycombinator.com/item?id=43482705) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -239,7 +239,31 @@ Collapse OS 是一款专为**文明崩溃后**环境设计的 **Forth 操作系�
 
 ---
 
-## <a name="19"></a>19. 欧洲最大创客空间落户柏林 
+## <a name="19"></a>19. Playwright MCP：基于结构化数据的浏览器自动化工具 
+<small>🔗 [github.com](https://github.com/microsoft/playwright-mcp): Playwright Tools for MCP</small>
+
+
+| 🔥🔥: 136 \| 💬: [24](https://news.ycombinator.com/item?id=43485740) \| 🗓️ 2025-03-26
+
+
+<br />
+Playwright MCP 是一个基于 **Playwright** 的服务器，通过 **可访问性快照**（非像素输入）为LLM提供浏览器自动化能力，无需依赖视觉模型。支持两种模式：默认的**快照模式**（高效稳定）和**视觉模式**（基于截图交互）。功能包括网页导航、表单填写、数据提取等，适用于VS Code集成或无界面运行。关键优势：**轻量快速**、**LLM友好**、**确定性操作**。
+
+---
+
+## <a name="20"></a>20. Gemini 2.5 Pro评估任务可行性并拒绝不合理请求 
+<small>🔗 [everything.intellectronica.net](https://everything.intellectronica.net/p/negotiating-with-the-machine): Gemini 2.5 Pro reasons about task feasibility</small>
+
+
+| 🔥🔥: 135 \| 💬: [61](https://news.ycombinator.com/item?id=43479985) \| 🗓️ 2025-03-26
+
+
+<br />
+用户要求**Gemini 2.5 Pro**复刻经典的**ReBirth RB-338合成器**，但AI经过分析后认为该任务**不可行**，原因是项目复杂度高，涉及数字信号处理、Web音频API等专业知识，需团队数月甚至数年完成。随后，Gemini提供了简化版合成器的代码框架作为替代方案。这一行为展示了AI对自身能力的理性评估，而非盲目尝试。最终用户通过协商获得了基础但可运行的合成器 demo。
+
+---
+
+## <a name="21"></a>21. 欧洲最大创客空间落户柏林 
 <small>🔗 [berlin-partner.de](https://www.berlin-partner.de/en/news/detail/europas-groesster-makerspace): Europe's Largest Makerspace</small>
 
 
@@ -251,11 +275,11 @@ Collapse OS 是一款专为**文明崩溃后**环境设计的 **Forth 操作系�
 
 ---
 
-## <a name="20"></a>20. 塔夫茨大学学生遭蒙面探员逮捕视频曝光 
+## <a name="22"></a>22. 塔夫茨大学学生遭蒙面探员逮捕视频曝光 
 <small>🔗 [bostonglobe.com](https://www.bostonglobe.com/2025/03/26/metro/tufts-student-video-shows-arrest/): Tufts student: Video shows masked agents arresting Rumeysa Ozturk</small>
 
 
-| 🔥🔥: 125 \| 💬: [29](https://news.ycombinator.com/item?id=43485577) \| 🗓️ 2025-03-26
+| 🔥🔥: 128 \| 💬: [30](https://news.ycombinator.com/item?id=43485577) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -263,23 +287,11 @@ Collapse OS 是一款专为**文明崩溃后**环境设计的 **Forth 操作系�
 
 ---
 
-## <a name="21"></a>21. Playwright MCP：基于结构化数据的浏览器自动化工具 
-<small>🔗 [github.com](https://github.com/microsoft/playwright-mcp): Playwright Tools for MCP</small>
-
-
-| 🔥🔥: 121 \| 💬: [24](https://news.ycombinator.com/item?id=43485740) \| 🗓️ 2025-03-26
-
-
-<br />
-Playwright MCP 是一个基于 **Playwright** 的服务器，通过 **可访问性快照**（非像素输入）为LLM提供浏览器自动化能力，无需依赖视觉模型。支持两种模式：默认的**快照模式**（高效稳定）和**视觉模式**（基于截图交互）。功能包括网页导航、表单填写、数据提取等，适用于VS Code集成或无界面运行。关键优势：**轻量快速**、**LLM友好**、**确定性操作**。
-
----
-
-## <a name="22"></a>22. Waymo自动驾驶事故率远低于人类司机 
+## <a name="23"></a>23. Waymo自动驾驶事故率远低于人类司机 
 <small>🔗 [understandingai.org](https://www.understandingai.org/p/human-drivers-keep-crashing-into): Waymos crash less than human drivers</small>
 
 
-| 🔥🔥: 111 \| 💬: [120](https://news.ycombinator.com/item?id=43487231) \| 🗓️ 2025-03-26
+| 🔥🔥: 115 \| 💬: [125](https://news.ycombinator.com/item?id=43487231) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -287,7 +299,19 @@ Waymo在行驶5000万英里后，数据显示其自动驾驶车辆的事故率�
 
 ---
 
-## <a name="23"></a>23. 开发者技能在AI辅助编程中的关键作用 
+## <a name="24"></a>24. 堆内存问题的严重性 
+<small>🔗 [rachelbythebay.com](https://rachelbythebay.com/w/2025/03/26/atop/): Problems with the heap</small>
+
+
+| 🔥🔥: 107 \| 💬: [22](https://news.ycombinator.com/item?id=43485980) \| 🗓️ 2025-03-26
+
+
+<br />
+作者用幼儿园游乐场使用锋利材料的比喻，警示当前**堆内存漏洞**的潜在危险。通过终端演示，当`user1`运行某工具时，`user2`的进程会因`malloc()`错误或段错误崩溃，若`user2`是**root权限**，攻击者可能接管系统。作者虽未深入漏洞细节，但强调其危害性，呼吁用户**立即停止运行相关程序**，尤其避免以root身份操作。
+
+---
+
+## <a name="25"></a>25. 开发者技能在AI辅助编程中的关键作用 
 <small>🔗 [martinfowler.com](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13): The role of developer skills in agentic coding</small>
 
 
@@ -296,31 +320,5 @@ Waymo在行驶5000万英里后，数据显示其自动驾驶车辆的事故率�
 
 <br />
 本文探讨了**生成式AI**（如大型语言模型LLMs）如何改变软件开发实践。作者通过Thoughtworks的实践，分析了当前AI编程工具的分类（如代码生成、代码解释、文档转换）、交互模式（聊天界面、编辑器内辅助、CLI）及模型特性（训练数据、上下文窗口大小）。以GitHub Copilot为例，指出**开发者仍需深刻理解代码逻辑**以验证AI生成的内容，尤其在测试环节。文章强调，尽管AI能提升效率，但**技术栈普及度**和**提示词质量**显著影响工具实用性，未来发展方向可能聚焦于模型优化和开源生态。
-
----
-
-## <a name="24"></a>24. 堆内存问题的严重性 
-<small>🔗 [rachelbythebay.com](https://rachelbythebay.com/w/2025/03/26/atop/): Problems with the heap</small>
-
-
-| 🔥: 94 \| 💬: [21](https://news.ycombinator.com/item?id=43485980) \| 🗓️ 2025-03-26
-
-
-<br />
-作者用幼儿园游乐场使用锋利材料的比喻，警示当前**堆内存漏洞**的潜在危险。通过终端演示，当`user1`运行某工具时，`user2`的进程会因`malloc()`错误或段错误崩溃，若`user2`是**root权限**，攻击者可能接管系统。作者虽未深入漏洞细节，但强调其危害性，呼吁用户**立即停止运行相关程序**，尤其避免以root身份操作。
-
----
-
-## <a name="25"></a>25. Firefox终将支持渐进式网页应用(PWA) 
-<small>🔗 [omgubuntu.co.uk](https://www.omgubuntu.co.uk/2025/03/firefox-nightly-supports-web-apps-taskbar-tabs): Firefox Is Finally (Re)Adding Support for Web Apps</small>
-
-
-| 🔥: 93 \| 💬: [78](https://news.ycombinator.com/item?id=43484542) \| 🗓️ 2025-03-26
-
-
-<br />
-Firefox近日在Nightly版本中新增实验性标志`browser.taskbarTabs.enabled`，为**渐进式网页应用(PWA)**支持铺路。与Chromium等浏览器不同，Firefox的PWA功能将保留地址栏、扩展等核心浏览器特性，仅替换"新建标签页"按钮为普通窗口入口。  
-
-产品经理David Rubino强调，该设计旨在提供**应用化体验**的同时保持Firefox特色，支持链接关联、独立任务栏图标等功能。目前该标志尚未生效，但开发进度表明功能即将上线。尽管方案被质疑为"最小可行产品"，但用户对垂直标签、多账号管理等迟来功能的落地仍表期待。
 
 ---
