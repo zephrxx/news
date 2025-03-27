@@ -10,13 +10,13 @@ tags:
 
 1. 皮拉内西的透视技巧（2019）；
 1. 突破WebP防线：NSO BLASTPASS iMessage漏洞分析；
+1. 我在家自制了人造太阳光；
 1. 纪录片《黑天鹅》揭露丹麦腐败黑幕；
 1. 没有危机感，政客就不会推动繁荣；
-1. 我在家自制了人造太阳光；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [medium.com](https://medium.com/@brunopostle/piranesis-perspective-trick-6bcd7a754da9): Piranesi's Perspective Trick (2019)</small>
 
 
-| 🔥🔥: 286 \| 💬: [67](https://news.ycombinator.com/item?id=43492562) \| 🗓️ 2025-03-27
+| 🔥🔥: 299 \| 💬: [69](https://news.ycombinator.com/item?id=43492562) \| 🗓️ 2025-03-27
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [googleprojectzero.blogspot.com](https://googleprojectzero.blogspot.com/2025/03/blasting-past-webp.html): Blasting Past WebP - An analysis of the NSO BLASTPASS iMessage exploit</small>
 
 
-| 🔥🔥: 198 \| 💬: [82](https://news.ycombinator.com/item?id=43493056) \| 🗓️ 2025-03-27
+| 🔥🔥: 213 \| 💬: [86](https://news.ycombinator.com/item?id=43493056) \| 🗓️ 2025-03-27
 
 
 <br />
@@ -47,35 +47,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 纪录片《黑天鹅》揭露丹麦腐败黑幕 
-<small>🔗 [theguardian.com](https://www.theguardian.com/world/2025/mar/27/black-swan-denmark-documentary-mads-brugger-amira-smajic): A filmmaker and a crooked lawyer shattered Denmark's self-image</small>
-
-
-| 🔥🔥: 184 \| 💬: [137](https://news.ycombinator.com/item?id=43493159) \| 🗓️ 2025-03-27
-
-
-<br />
-丹麦导演**马德斯·布鲁格**与曾是洗钱律师的**阿米拉·斯马吉奇**合作，通过隐藏摄像头拍摄犯罪者自曝黑料，制作纪录片《黑天鹅》。影片曝光了企业家、律师甚至政客的逃税、贿赂等行为，**撼动了丹麦清廉的自我形象**，引发全国震动，促使法律改革。斯马吉奇从罪犯转型为线人，但影片也引发对她真实动机的质疑。布鲁格借此挑战了北欧国家“无系统性腐败”的迷思。
-
----
-
-## <a name="4"></a>4. 没有危机感，政客就不会推动繁荣 
-<small>🔗 [inpractice.yimbyaction.org](https://inpractice.yimbyaction.org/p/abundance-isnt-going-to-happen-unless): Abundance Isn't Going to Happen Unless Politicians Are Scared of the Status Quo</small>
-
-
-| 🔥🔥: 181 \| 💬: [267](https://news.ycombinator.com/item?id=43495644) \| 🗓️ 2025-03-27
-
-
-<br />
-本文指出，美国当前的政治僵局导致住房、能源等关键领域供给不足，根源在于**过度繁琐的审批流程**和**两党共同制造的制度枷锁**。作者以加州住房法案为例，揭示即便通过改革法案，**官僚体系**和既得利益者（如消防员工会）仍会阻碍落实。文章警告，若政客继续安于现状，民众的经济困境将引发更强烈的反建制情绪，最终威胁民主制度本身。解决方案在于建立**结果导向**的治理模式，简化流程以提升政府效能。
-
----
-
-## <a name="5"></a>5. 我在家自制了人造太阳光 
+## <a name="3"></a>3. 我在家自制了人造太阳光 
 <small>🔗 [victorpoughon.fr](https://victorpoughon.fr/i-tried-making-artificial-sunlight-at-home/): I tried making artificial sunlight at home</small>
 
 
-| 🔥🔥: 149 \| 💬: [54](https://news.ycombinator.com/item?id=43497394) \| 🗓️ 2025-03-27
+| 🔥🔥: 201 \| 💬: [90](https://news.ycombinator.com/item?id=43497394) \| 🗓️ 2025-03-27
 
 
 <br />
@@ -83,71 +59,35 @@ tags:
 
 ---
 
-## <a name="6"></a>6. Rivulet语言中的源代码艺术 
-<small>🔗 [github.com](https://github.com/rottytooth/Rivulet): Source code art in the Rivulet language</small>
+## <a name="4"></a>4. 纪录片《黑天鹅》揭露丹麦腐败黑幕 
+<small>🔗 [theguardian.com](https://www.theguardian.com/world/2025/mar/27/black-swan-denmark-documentary-mads-brugger-amira-smajic): A filmmaker and a crooked lawyer shattered Denmark's self-image</small>
 
 
-| 🔥🔥: 140 \| 💬: [21](https://news.ycombinator.com/item?id=43492652) \| 🗓️ 2025-03-27
-
-
-<br />
-Rivulet是一种基于**流式线条**的编程语言，采用半图形化字符编写。其核心是四种**数据流线**，通过紧凑的代码块（字形）协同执行。语言设计摒弃传统分支与循环，依赖**条件回滚**作为唯一控制流。例如斐波那契程序通过线条流动方向表达运算逻辑，数据以列表形式组织，支持单细胞或列表级操作。语法独特，字形以╵╷标记边界，线条移动路径决定操作类型与数值。当前为0.4版，含SVG代码生成工具，灵感源自迷宫结构与书法美学。
-
----
-
-## <a name="7"></a>7. 发布HN：Continue (YC S23) —— 定制专属AI编程助手 
-<small>🔗 [hub.continue.dev](https://hub.continue.dev/explore/assistants): Launch HN: Continue (YC S23) – Create custom AI code assistants</small>
-
-
-| 🔥🔥: 128 \| 💬: [85](https://news.ycombinator.com/item?id=43494427) \| 🗓️ 2025-03-27
+| 🔥🔥: 187 \| 💬: [138](https://news.ycombinator.com/item?id=43493159) \| 🗓️ 2025-03-27
 
 
 <br />
-Continue推出**自定义AI代码助手**，通过组合模块化配置满足特定开发需求。平台提供多种预置助手（如Next.js、Solidity、PyTorch等），支持**规则、提示词、模型**等深度定制，并推荐使用具备强工具调用能力的LLM以获得最佳体验。适用于数据科学、前端框架等场景，帮助开发者提升效率。
+丹麦导演**马德斯·布鲁格**与曾是洗钱律师的**阿米拉·斯马吉奇**合作，通过隐藏摄像头拍摄犯罪者自曝黑料，制作纪录片《黑天鹅》。影片曝光了企业家、律师甚至政客的逃税、贿赂等行为，**撼动了丹麦清廉的自我形象**，引发全国震动，促使法律改革。斯马吉奇从罪犯转型为线人，但影片也引发对她真实动机的质疑。布鲁格借此挑战了北欧国家“无系统性腐败”的迷思。
 
 ---
 
-## <a name="8"></a>8. 现代C语言：C23新版发布 
-<small>🔗 [gustedt.gitlabpages.inria.fr](https://gustedt.gitlabpages.inria.fr/modern-c/): Modern C</small>
+## <a name="5"></a>5. 没有危机感，政客就不会推动繁荣 
+<small>🔗 [inpractice.yimbyaction.org](https://inpractice.yimbyaction.org/p/abundance-isnt-going-to-happen-unless): Abundance Isn't Going to Happen Unless Politicians Are Scared of the Status Quo</small>
 
 
-| 🔥🔥: 118 \| 💬: [22](https://news.ycombinator.com/item?id=43492211) \| 🗓️ 2025-03-27
+| 🔥🔥: 184 \| 💬: [286](https://news.ycombinator.com/item?id=43495644) \| 🗓️ 2025-03-27
 
 
 <br />
-《现代C语言》的**C23标准新版**已免费发布，主要更新包括：新增**`_BitInt(N)`等位精确类型**、**`nullptr`常量**、类型推断（`auto`和`typeof`）等特性，并优化了枚举类型和泛型编程支持。书中还提供**过渡指南**帮助开发者快速适配。读者可通过Manning享受35%折扣购买电子版或纸质书，也可免费获取CC许可的在线版本。代码示例采用MIT许可，作者鼓励支持开源或标准委员会。
+本文指出，美国当前的政治僵局导致住房、能源等关键领域供给不足，根源在于**过度繁琐的审批流程**和**两党共同制造的制度枷锁**。作者以加州住房法案为例，揭示即便通过改革法案，**官僚体系**和既得利益者（如消防员工会）仍会阻碍落实。文章警告，若政客继续安于现状，民众的经济困境将引发更强烈的反建制情绪，最终威胁民主制度本身。解决方案在于建立**结果导向**的治理模式，简化流程以提升政府效能。
 
 ---
 
-## <a name="9"></a>9. 加州拟立法逐步淘汰学校有害超加工食品 
-<small>🔗 [thenewlede.org](https://www.thenewlede.org/2025/03/california-bill-aims-to-phase-out-harmful-ultra-processed-foods-in-schools/): California bill aims to phase out harmful ultra-processed foods in schools</small>
-
-
-| 🔥🔥: 117 \| 💬: [136](https://news.ycombinator.com/item?id=43495997) \| 🗓️ 2025-03-27
-
-
-<br />
-2025年3月19日，加州提出全美首项法案，计划在2032年前逐步**淘汰学校餐食中的有害超加工食品**。法案将明确定义超加工食品，并组织专家评估其健康风险，重点关注含**禁用添加剂、致瘾性或高糖盐脂肪**的产品。该提案获两党支持，旨在应对儿童肥胖、多动症等健康问题。此前加州已通过禁用部分人工色素的法规，引发多州效仿。研究表明，超加工食品与32种疾病相关，但部分企业辩称“并非所有加工食品都不健康”。法案或促使企业调整配方以符合市场要求。
-
----
-
-## <a name="10"></a>10. “信号门”事件推动Signal在美国下载量创历史新高 
-<small>🔗 [wired.com](https://www.wired.com/story/signalgate-is-driving-the-most-us-downloads-of-signal-ever/): SignalGate Is Driving the Most US Downloads of Signal Ever</small>
-
-
-| 🔥🔥: 105 \| 💬: [69](https://news.ycombinator.com/item?id=43497150) \| 🗓️ 2025-03-27
-
-
-<br />
-特朗普政府高级官员在**加密通讯应用Signal**上误将《大西洋月刊》主编拉入讨论空袭也门的群聊，引发“信号门”丑闻。这一事件使Signal在美国的下载量激增**105%**，成为其11年历史上增长最快的一周。尽管特朗普质疑Signal“有缺陷”，但网络安全专家仍推荐其作为最安全的端到端加密工具。Signal负责人称，此事件让该应用首次成为**主流话题**，推动公众对加密通讯的关注。
-
----
-
-## <a name="11"></a>11. 破折号、连接号与连字符的使用指南 
+## <a name="6"></a>6. 破折号、连接号与连字符的使用指南 
 <small>🔗 [merriam-webster.com](https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use): How to Use Em Dashes (–), En Dashes (–), and Hyphens (-)</small>
 
 
-| 🔥🔥: 103 \| 💬: [82](https://news.ycombinator.com/item?id=43497719) \| 🗓️ 2025-03-27
+| 🔥🔥: 149 \| 💬: [117](https://news.ycombinator.com/item?id=43497719) \| 🗓️ 2025-03-27
 
 
 <br />
@@ -157,11 +97,71 @@ Continue推出**自定义AI代码助手**，通过组合模块化配置满足特
 
 ---
 
+## <a name="7"></a>7. Rivulet语言中的源代码艺术 
+<small>🔗 [github.com](https://github.com/rottytooth/Rivulet): Source code art in the Rivulet language</small>
+
+
+| 🔥🔥: 143 \| 💬: [24](https://news.ycombinator.com/item?id=43492652) \| 🗓️ 2025-03-27
+
+
+<br />
+Rivulet是一种基于**流式线条**的编程语言，采用半图形化字符编写。其核心是四种**数据流线**，通过紧凑的代码块（字形）协同执行。语言设计摒弃传统分支与循环，依赖**条件回滚**作为唯一控制流。例如斐波那契程序通过线条流动方向表达运算逻辑，数据以列表形式组织，支持单细胞或列表级操作。语法独特，字形以╵╷标记边界，线条移动路径决定操作类型与数值。当前为0.4版，含SVG代码生成工具，灵感源自迷宫结构与书法美学。
+
+---
+
+## <a name="8"></a>8. 发布HN：Continue (YC S23) —— 定制专属AI编程助手 
+<small>🔗 [hub.continue.dev](https://hub.continue.dev/explore/assistants): Launch HN: Continue (YC S23) – Create custom AI code assistants</small>
+
+
+| 🔥🔥: 134 \| 💬: [90](https://news.ycombinator.com/item?id=43494427) \| 🗓️ 2025-03-27
+
+
+<br />
+Continue推出**自定义AI代码助手**，通过组合模块化配置满足特定开发需求。平台提供多种预置助手（如Next.js、Solidity、PyTorch等），支持**规则、提示词、模型**等深度定制，并推荐使用具备强工具调用能力的LLM以获得最佳体验。适用于数据科学、前端框架等场景，帮助开发者提升效率。
+
+---
+
+## <a name="9"></a>9. 加州拟立法逐步淘汰学校有害超加工食品 
+<small>🔗 [thenewlede.org](https://www.thenewlede.org/2025/03/california-bill-aims-to-phase-out-harmful-ultra-processed-foods-in-schools/): California bill aims to phase out harmful ultra-processed foods in schools</small>
+
+
+| 🔥🔥: 120 \| 💬: [150](https://news.ycombinator.com/item?id=43495997) \| 🗓️ 2025-03-27
+
+
+<br />
+2025年3月19日，加州提出全美首项法案，计划在2032年前逐步**淘汰学校餐食中的有害超加工食品**。法案将明确定义超加工食品，并组织专家评估其健康风险，重点关注含**禁用添加剂、致瘾性或高糖盐脂肪**的产品。该提案获两党支持，旨在应对儿童肥胖、多动症等健康问题。此前加州已通过禁用部分人工色素的法规，引发多州效仿。研究表明，超加工食品与32种疾病相关，但部分企业辩称“并非所有加工食品都不健康”。法案或促使企业调整配方以符合市场要求。
+
+---
+
+## <a name="10"></a>10. 现代C语言：C23新版发布 
+<small>🔗 [gustedt.gitlabpages.inria.fr](https://gustedt.gitlabpages.inria.fr/modern-c/): Modern C</small>
+
+
+| 🔥🔥: 119 \| 💬: [22](https://news.ycombinator.com/item?id=43492211) \| 🗓️ 2025-03-27
+
+
+<br />
+《现代C语言》的**C23标准新版**已免费发布，主要更新包括：新增**`_BitInt(N)`等位精确类型**、**`nullptr`常量**、类型推断（`auto`和`typeof`）等特性，并优化了枚举类型和泛型编程支持。书中还提供**过渡指南**帮助开发者快速适配。读者可通过Manning享受35%折扣购买电子版或纸质书，也可免费获取CC许可的在线版本。代码示例采用MIT许可，作者鼓励支持开源或标准委员会。
+
+---
+
+## <a name="11"></a>11. “信号门”事件推动Signal在美国下载量创历史新高 
+<small>🔗 [wired.com](https://www.wired.com/story/signalgate-is-driving-the-most-us-downloads-of-signal-ever/): SignalGate Is Driving the Most US Downloads of Signal Ever</small>
+
+
+| 🔥🔥: 107 \| 💬: [69](https://news.ycombinator.com/item?id=43497150) \| 🗓️ 2025-03-27
+
+
+<br />
+特朗普政府高级官员在**加密通讯应用Signal**上误将《大西洋月刊》主编拉入讨论空袭也门的群聊，引发“信号门”丑闻。这一事件使Signal在美国的下载量激增**105%**，成为其11年历史上增长最快的一周。尽管特朗普质疑Signal“有缺陷”，但网络安全专家仍推荐其作为最安全的端到端加密工具。Signal负责人称，此事件让该应用首次成为**主流话题**，推动公众对加密通讯的关注。
+
+---
+
 ## <a name="12"></a>12. 苹果II版《滑翔机》游戏重制发布 
 <small>🔗 [colino.net](https://www.colino.net/wordpress/en/glider-for-apple-ii/): Glider for Apple II</small>
 
 
-| 🔥: 100 \| 💬: [21](https://news.ycombinator.com/item?id=43491977) \| 🗓️ 2025-03-27
+| 🔥🔥: 101 \| 💬: [21](https://news.ycombinator.com/item?id=43491977) \| 🗓️ 2025-03-27
 
 
 <br />
@@ -169,11 +169,23 @@ Continue推出**自定义AI代码助手**，通过组合模块化配置满足特
 
 ---
 
-## <a name="13"></a>13. Netlify部署数十万Next.js站点的挑战与突破 
+## <a name="13"></a>13. 为什么仍有人对LLM持乐观态度？我实在不理解 
+<small>🔗 [twitter.com](https://twitter.com/skdh/status/1905132853672784121): I genuinely don't understand why some people are still bullish about LLMs</small>
+
+
+| 🔥: 93 \| 💬: [84](https://news.ycombinator.com/item?id=43498338) \| 🗓️ 2025-03-27
+
+
+<br />
+原文内容实际是一段**浏览器报错提示**，与标题讨论的**大语言模型（LLM）**无关。提示用户**启用JavaScript**或更换浏览器以正常访问X平台（原Twitter），并提及隐私插件可能导致访问异常。标题中的争议观点未在内容中展开，可能是技术错误导致的文不对题。
+
+---
+
+## <a name="14"></a>14. Netlify部署数十万Next.js站点的挑战与突破 
 <small>🔗 [netlify.com](https://www.netlify.com/blog/how-we-run-nextjs/): Netlify deploys hundreds of thousands of Next.js sites – here's what challenging</small>
 
 
-| 🔥: 86 \| 💬: [24](https://news.ycombinator.com/item?id=43493552) \| 🗓️ 2025-03-27
+| 🔥: 87 \| 💬: [24](https://news.ycombinator.com/item?id=43493552) \| 🗓️ 2025-03-27
 
 
 <br />
@@ -181,11 +193,37 @@ Netlify团队分享了大规模部署**Next.js**站点的技术挑战，涉及**
 
 ---
 
-## <a name="14"></a>14. 英国艾伦·图灵研究所为何陷入困境？ 
+## <a name="15"></a>15. NASA删除女性宇航员主题漫画引争议 
+<small>🔗 [futurism.com](https://futurism.com/nasa-deletes-comic-women-astronauts): NASA Deletes Comic Book About How Women Can Be Astronauts</small>
+
+
+| 🔥: 78 \| 💬: [12](https://news.ycombinator.com/item?id=43497033) \| 🗓️ 2025-03-27
+
+
+<br />
+NASA近日从其官网删除了两部以**女性宇航员**为主题的漫画《首位女性：NASA对人类的承诺》及续作，疑似配合特朗普政府清除联邦机构中**"DEI"（多元平等包容）内容**的政策。这两部作品原为配合**阿尔忒弥斯登月计划**（承诺首位登月女性及少数族裔）而创作，但相关承诺现已被悄然移除。  
+
+冰岛航天局公开谴责此举，宣布将托管漫画并翻译为冰岛语，强调DEI是社会发展的基石。此前五角大楼也因AI误删黑人运动员杰基·罗宾逊纪念网页引发争议，暴露出政策背后的歧视倾向。
+
+---
+
+## <a name="16"></a>16. 把这该死的值班表扔了吧 
+<small>🔗 [scottsmitelli.com](https://www.scottsmitelli.com/articles/take-oncall-and-shove-it/): Take this on-call rotation and shove it</small>
+
+
+| 🔥: 77 \| 💬: [27](https://news.ycombinator.com/item?id=43498213) \| 🗓️ 2025-03-27
+
+
+<br />
+文章以电视台直播新闻的复杂流程为例，**冗余备份系统**和**应急专家“Alex”**的角色揭示了高压力值班制度的荒诞性。Alex身兼多职，随时待命解决突发故障，却因“问题不常发生”而被无限压榨。类比科技行业的**SEV分级响应机制**，作者讽刺了24小时待命文化的非人性化，指出缺乏标准化的值班制度如何侵蚀员工生活。从传呼机到现代告警系统，技术演进并未改变“随叫随到”的本质，反而让边界感更加模糊。
+
+---
+
+## <a name="17"></a>17. 英国艾伦·图灵研究所为何陷入困境？ 
 <small>🔗 [chalmermagne.com](https://www.chalmermagne.com/p/how-not-to-build-an-ai-institute): What went wrong with the Alan Turing Institute?</small>
 
 
-| 🔥: 75 \| 💬: [74](https://news.ycombinator.com/item?id=43493313) \| 🗓️ 2025-03-27
+| 🔥: 76 \| 💬: [75](https://news.ycombinator.com/item?id=43493313) \| 🗓️ 2025-03-27
 
 
 <br />
@@ -193,11 +231,11 @@ Netlify团队分享了大规模部署**Next.js**站点的技术挑战，涉及**
 
 ---
 
-## <a name="15"></a>15. 美国医学会如何压榨医生 
+## <a name="18"></a>18. 美国医学会如何压榨医生 
 <small>🔗 [thebignewsletter.com](https://www.thebignewsletter.com/p/how-the-american-medical-association): How the American Medical Association Screws Doctors</small>
 
 
-| 🔥: 65 \| 💬: [80](https://news.ycombinator.com/item?id=43494324) \| 🗓️ 2025-03-27
+| 🔥: 66 \| 💬: [82](https://news.ycombinator.com/item?id=43494324) \| 🗓️ 2025-03-27
 
 
 <br />
@@ -205,7 +243,7 @@ Netlify团队分享了大规模部署**Next.js**站点的技术挑战，涉及**
 
 ---
 
-## <a name="16"></a>16. 我为何抵制人工智能（你也该这么做） 
+## <a name="19"></a>19. 我为何抵制人工智能（你也该这么做） 
 <small>🔗 [unherd.com](https://unherd.com/2025/03/why-im-boycotting-ai/): Why I'm Boycotting AI</small>
 
 
@@ -217,21 +255,31 @@ Netlify团队分享了大规模部署**Next.js**站点的技术挑战，涉及**
 
 ---
 
-## <a name="17"></a>17. NASA删除女性宇航员主题漫画引争议 
-<small>🔗 [futurism.com](https://futurism.com/nasa-deletes-comic-women-astronauts): NASA Deletes Comic Book About How Women Can Be Astronauts</small>
+## <a name="20"></a>20. LeetCode反叛者：专访用AI破解亚马逊面试的Roy Lee 
+<small>🔗 [thepennpost.com](https://thepennpost.com/2025/03/25/nicolas-casey-the-leader-of-the-leetcode-rebellion-an-interview-with-roy-lee/): The Leader of the LeetCode Rebellion: An Interview with Roy Lee</small>
 
 
-| 🔥: 61 \| 💬: [9](https://news.ycombinator.com/item?id=43497033) \| 🗓️ 2025-03-27
+| 🔥: 60 \| 💬: [33](https://news.ycombinator.com/item?id=43497848) \| 🗓️ 2025-03-27
 
 
 <br />
-NASA近日从其官网删除了两部以**女性宇航员**为主题的漫画《首位女性：NASA对人类的承诺》及续作，疑似配合特朗普政府清除联邦机构中**"DEI"（多元平等包容）内容**的政策。这两部作品原为配合**阿尔忒弥斯登月计划**（承诺首位登月女性及少数族裔）而创作，但相关承诺现已被悄然移除。  
-
-冰岛航天局公开谴责此举，宣布将托管漫画并翻译为冰岛语，强调DEI是社会发展的基石。此前五角大楼也因AI误删黑人运动员杰基·罗宾逊纪念网页引发争议，暴露出政策背后的歧视倾向。
+哥伦比亚大学学生**Roy Lee**开发了AI工具**Interview Coder**，可自动解决LeetCode编程题，以此抗议技术面试的不合理现状。他公开用该工具获得亚马逊实习offer的视频后，引发亚马逊向校方施压，导致其面临纪律审查。Roy认为**大语言模型（LLM）**已颠覆传统编程评估，呼吁企业改用代码审查或整合LLM的面试形式。事件曝光后，他拒绝亚马逊工作邀约，并计划继续推动技术招聘改革。
 
 ---
 
-## <a name="18"></a>18. 爬虫顺序的优化与挑战 
+## <a name="21"></a>21. 无参KV缓存压缩技术：高效内存的长上下文大模型优化 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2503.10714): Parameter-free KV cache compression for memory-efficient long-context LLMs</small>
+
+
+| 🔥: 59 \| 💬: [13](https://news.ycombinator.com/item?id=43496244) \| 🗓️ 2025-03-27
+
+
+<br />
+该研究提出**ZeroMerge**框架，通过**动态零样本压缩**解决大语言模型长上下文处理中的KV缓存内存线性增长问题。其核心创新包括：**细粒度内存分配**、**残差合并机制**保留关键上下文，以及**无需参数微调**的架构兼容性。实验显示，在40K长文本下，该方法能以5%压缩率保持性能，同时提升推理速度一倍，显著平衡了内存效率与生成质量。代码已开源。
+
+---
+
+## <a name="22"></a>22. 爬虫顺序的优化与挑战 
 <small>🔗 [marginalia.nu](https://www.marginalia.nu/log/a_117_crawl_order/): Crawl Order and Disorder</small>
 
 
@@ -243,11 +291,23 @@ NASA近日从其官网删除了两部以**女性宇航员**为主题的漫画《
 
 ---
 
-## <a name="19"></a>19. B-2隐形轰炸机秘密部署迪戈加西亚引猜测 
+## <a name="23"></a>23. 超薄薄膜导电性能超越铜 
+<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/thin-film): Thinner Films Conduct Better Than Copper</small>
+
+
+| 🔥: 56 \| 💬: [20](https://news.ycombinator.com/item?id=43493749) \| 🗓️ 2025-03-27
+
+
+<br />
+研究人员发现，由**多晶磷化铌**制成的原子级厚度薄膜，其表面导电性能优于传统铜材料。这种**拓扑半金属**特性使其在芯片制造领域具有巨大潜力，可能成为未来替代铜互连的新选择。关键突破在于材料**越薄导电性越强**的特性，为下一代半导体技术提供了新方向。
+
+---
+
+## <a name="24"></a>24. B-2隐形轰炸机秘密部署迪戈加西亚引猜测 
 <small>🔗 [theaviationist.com](https://theaviationist.com/2025/03/26/b-2-unannounced-deployment-diego-garcia/): B-2 Spirit Stealth Bombers Begin Unannounced Deployment to Diego Garcia</small>
 
 
-| 🔥: 55 \| 💬: [74](https://news.ycombinator.com/item?id=43496181) \| 🗓️ 2025-03-27
+| 🔥: 56 \| 💬: [79](https://news.ycombinator.com/item?id=43496181) \| 🗓️ 2025-03-27
 
 
 <br />
@@ -257,43 +317,7 @@ NASA近日从其官网删除了两部以**女性宇航员**为主题的漫画《
 
 ---
 
-## <a name="20"></a>20. 超薄薄膜导电性能超越铜 
-<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/thin-film): Thinner Films Conduct Better Than Copper</small>
-
-
-| 🔥: 54 \| 💬: [20](https://news.ycombinator.com/item?id=43493749) \| 🗓️ 2025-03-27
-
-
-<br />
-研究人员发现，由**多晶磷化铌**制成的原子级厚度薄膜，其表面导电性能优于传统铜材料。这种**拓扑半金属**特性使其在芯片制造领域具有巨大潜力，可能成为未来替代铜互连的新选择。关键突破在于材料**越薄导电性越强**的特性，为下一代半导体技术提供了新方向。
-
----
-
-## <a name="21"></a>21. 无参KV缓存压缩技术：高效内存的长上下文大模型优化 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2503.10714): Parameter-free KV cache compression for memory-efficient long-context LLMs</small>
-
-
-| 🔥: 54 \| 💬: [10](https://news.ycombinator.com/item?id=43496244) \| 🗓️ 2025-03-27
-
-
-<br />
-该研究提出**ZeroMerge**框架，通过**动态零样本压缩**解决大语言模型长上下文处理中的KV缓存内存线性增长问题。其核心创新包括：**细粒度内存分配**、**残差合并机制**保留关键上下文，以及**无需参数微调**的架构兼容性。实验显示，在40K长文本下，该方法能以5%压缩率保持性能，同时提升推理速度一倍，显著平衡了内存效率与生成质量。代码已开源。
-
----
-
-## <a name="22"></a>22. LeetCode反叛者：专访用AI破解亚马逊面试的Roy Lee 
-<small>🔗 [thepennpost.com](https://thepennpost.com/2025/03/25/nicolas-casey-the-leader-of-the-leetcode-rebellion-an-interview-with-roy-lee/): The Leader of the LeetCode Rebellion: An Interview with Roy Lee</small>
-
-
-| 🔥: 54 \| 💬: [27](https://news.ycombinator.com/item?id=43497848) \| 🗓️ 2025-03-27
-
-
-<br />
-哥伦比亚大学学生**Roy Lee**开发了AI工具**Interview Coder**，可自动解决LeetCode编程题，以此抗议技术面试的不合理现状。他公开用该工具获得亚马逊实习offer的视频后，引发亚马逊向校方施压，导致其面临纪律审查。Roy认为**大语言模型（LLM）**已颠覆传统编程评估，呼吁企业改用代码审查或整合LLM的面试形式。事件曝光后，他拒绝亚马逊工作邀约，并计划继续推动技术招聘改革。
-
----
-
-## <a name="23"></a>23. 聊天机器人是AI的反模式 
+## <a name="25"></a>25. 聊天机器人是AI的反模式 
 <small>🔗 [hello-jp.net](https://hello-jp.net/building-beyond-the-buzz/chatbots-are-ai-antipatterns): Chatbots-Are-AI-Antipatterns</small>
 
 
@@ -304,17 +328,5 @@ NASA近日从其官网删除了两部以**女性宇航员**为主题的漫画《
 作者认为**聊天界面**并非人机交互的最佳方式，并以日历助手、电商退换货、汽车仪表盘为例，说明**图形界面（GUI）**在信息呈现和操作效率上更具优势。用户需要精准描述需求才能使用聊天机器人，这如同要求普通人用命令行操作电脑，门槛过高。  
 
 AI代理应分为两类：**社交型**（需建立情感连接）和**事务型**（需高效解决问题）。后者更适合与GUI结合的**混合界面**，例如预置按钮触发AI功能，避免用户手动输入复杂指令。当前聊天机器人仍是公众衡量AI进展的标准，但需避免将其滥用为“反模式”。
-
----
-
-## <a name="24"></a>24. 泥、水与木：让1604岁的水城浮在水面的奥秘 
-<small>🔗 [bbc.com](https://www.bbc.com/future/article/20250324-the-ancient-forest-that-supports-venice): Mud, water and wood: The system that kept a 1604-year-old city afloat</small>
-
-
-| 🔥: 40 \| 💬: [0](https://news.ycombinator.com/item?id=43494405) \| 🗓️ 2025-03-27
-
-
-<br />
-威尼斯这座1604岁的水城，依靠**倒置森林**般的木桩地基屹立千年——数百万根短木桩（落叶松、橡木等）密集打入淤泥，利用**土壤摩擦力**而非基岩支撑建筑。**防腐关键**在于厌氧环境：水填满细菌侵蚀的木质细胞，与泥土形成稳固系统。相比现代50年寿命的混凝土桩，威尼斯的木桩展现了古人因地制宜的智慧，甚至影响了早期森林保护政策。如今，木桩虽缓慢降解，但只要水、木、泥的平衡不被打破，这座"开放工程博物馆"仍将继续漂浮。
 
 ---
