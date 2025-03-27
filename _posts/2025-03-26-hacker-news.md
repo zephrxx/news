@@ -27,7 +27,7 @@ tags:
 <small>🔗 [openai.github.io](https://openai.github.io/openai-agents-python/mcp/): OpenAI adds MCP support to Agents SDK</small>
 
 
-| 🔥🔥: 516 \| 💬: [161](https://news.ycombinator.com/item?id=43485566) \| 🗓️ 2025-03-26
+| 🔥🔥: 538 \| 💬: [162](https://news.ycombinator.com/item?id=43485566) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [lwn.net](https://lwn.net/Articles/1015402/): Debian bookworm live images now reproducible</small>
 
 
-| 🔥🔥: 499 \| 💬: [106](https://news.ycombinator.com/item?id=43484520) \| 🗓️ 2025-03-26
+| 🔥🔥: 514 \| 💬: [108](https://news.ycombinator.com/item?id=43484520) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -51,7 +51,7 @@ Debian 开发者 Roland Clobus 在**可复现构建**邮件列表中宣布，Deb
 <small>🔗 [github.com](https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md): A love letter to the CSV format</small>
 
 
-| 🔥🔥: 399 \| 💬: [374](https://news.ycombinator.com/item?id=43484382) \| 🗓️ 2025-03-26
+| 🔥🔥: 421 \| 💬: [387](https://news.ycombinator.com/item?id=43484382) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -63,7 +63,7 @@ Debian 开发者 Roland Clobus 在**可复现构建**邮件列表中宣布，Deb
 <small>🔗 [blender.org](https://www.blender.org/download/releases/4-4/): Blender releases their Oscar winning version tool</small>
 
 
-| 🔥🔥: 324 \| 💬: [77](https://news.ycombinator.com/item?id=43489114) \| 🗓️ 2025-03-26
+| 🔥🔥: 377 \| 💬: [97](https://news.ycombinator.com/item?id=43489114) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -75,7 +75,7 @@ Blender 4.4版本聚焦**稳定性优化**，通过“Winter of Quality”计划
 <small>🔗 [onemileatatime.com](https://onemileatatime.com/news/airline-demand-canada-united-states-collapses/): Airline Demand Between Canada and United States Collapses, Down 70%+</small>
 
 
-| 🔥🔥: 294 \| 💬: [383](https://news.ycombinator.com/item?id=43485649) \| 🗓️ 2025-03-26
+| 🔥🔥: 296 \| 💬: [384](https://news.ycombinator.com/item?id=43485649) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -87,7 +87,7 @@ Blender 4.4版本聚焦**稳定性优化**，通过“Winter of Quality”计划
 <small>🔗 [9to5google.com](https://9to5google.com/2025/03/26/google-android-aosp-developement-private/): Google will develop Android OS behind closed doors starting next week</small>
 
 
-| 🔥🔥: 268 \| 💬: [190](https://news.ycombinator.com/item?id=43484927) \| 🗓️ 2025-03-26
+| 🔥🔥: 271 \| 💬: [191](https://news.ycombinator.com/item?id=43484927) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -99,7 +99,7 @@ Blender 4.4版本聚焦**稳定性优化**，通过“Winter of Quality”计划
 <small>🔗 [spaceinafrica.com](https://spaceinafrica.com/2025/03/15/botswana-successfully-launches-first-satellite-botsat-1/): Botswana launches first satellite BOTSAT-1 aboard SpaceX Falcon 9</small>
 
 
-| 🔥🔥: 257 \| 💬: [91](https://news.ycombinator.com/item?id=43483660) \| 🗓️ 2025-03-26
+| 🔥🔥: 264 \| 💬: [93](https://news.ycombinator.com/item?id=43483660) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -111,7 +111,7 @@ Blender 4.4版本聚焦**稳定性优化**，通过“Winter of Quality”计划
 <small>🔗 [go.dev](https://go.dev/blog/coretypes): Good-bye core types; Hello Go as we know and love it</small>
 
 
-| 🔥🔥: 252 \| 💬: [163](https://news.ycombinator.com/item?id=43483842) \| 🗓️ 2025-03-26
+| 🔥🔥: 261 \| 💬: [178](https://news.ycombinator.com/item?id=43483842) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -123,7 +123,7 @@ Go 1.18引入了泛型，带来了**类型参数**、**类型约束**等新特�
 <small>🔗 [bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/): Oracle customers confirm data stolen in alleged cloud breach is valid</small>
 
 
-| 🔥🔥: 245 \| 💬: [52](https://news.ycombinator.com/item?id=43486945) \| 🗓️ 2025-03-26
+| 🔥🔥: 255 \| 💬: [53](https://news.ycombinator.com/item?id=43486945) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -147,7 +147,7 @@ Go 1.18引入了泛型，带来了**类型参数**、**类型约束**等新特�
 <small>🔗 [opensource.microsoft.com](https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/): Hyperlight WASM: Fast, secure, and OS-free</small>
 
 
-| 🔥🔥: 208 \| 💬: [78](https://news.ycombinator.com/item?id=43482556) \| 🗓️ 2025-03-26
+| 🔥🔥: 211 \| 💬: [78](https://news.ycombinator.com/item?id=43482556) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -159,7 +159,7 @@ Go 1.18引入了泛型，带来了**类型参数**、**类型约束**等新特�
 <small>🔗 [reversinglabs.com](https://www.reversinglabs.com/blog/malicious-npm-patch-delivers-reverse-shell): Malware found on NPM infecting local package with reverse shell</small>
 
 
-| 🔥🔥: 193 \| 💬: [112](https://news.ycombinator.com/item?id=43484845) \| 🗓️ 2025-03-26
+| 🔥🔥: 201 \| 💬: [115](https://news.ycombinator.com/item?id=43484845) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -167,47 +167,11 @@ Go 1.18引入了泛型，带来了**类型参数**、**类型约束**等新特�
 
 ---
 
-## <a name="13"></a>13. 如何删除你的23andMe基因数据 
-<small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/how-delete-your-23andme-data): How to Delete Your 23andMe Data</small>
-
-
-| 🔥🔥: 182 \| 💬: [97](https://news.ycombinator.com/item?id=43486236) \| 🗓️ 2025-03-26
-
-
-<br />
-基因检测公司23andMe近期申请破产，其收集的百万用户**基因数据可能被出售**。若想避免数据流入第三方，建议立即删除账户信息。操作分两步：**先下载数据**（包括原始基因数据、亲属关系报告等），再通过账户设置**永久删除数据**（需邮件确认）。律师提醒，基因数据包含高度敏感信息（如疾病风险、家族史），破产不应成为数据被随意转卖的理由。其他基因公司也应重视用户隐私权。
-
----
-
-## <a name="14"></a>14. 生成式AI对批判性思维的负面影响 
-<small>🔗 [microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf): The Impact of Generative AI on Critical Thinking [pdf]</small>
-
-
-| 🔥🔥: 179 \| 💬: [118](https://news.ycombinator.com/item?id=43484224) \| 🗓️ 2025-03-26
-
-
-<br />
-微软和卡内基梅隆大学的研究发现，**过度依赖生成式AI**会导致人类**批判性思维减弱**，甚至造成**认知能力退化**。研究指出，自动化虽能处理常规任务，但剥夺了人类锻炼判断力的机会，导致面对异常情况时能力不足。该研究调查了319名知识工作者，涵盖教师、交易员和护士等职业的AI使用案例，结果显示用户对AI输出的评估信心普遍不足。
-
----
-
-## <a name="15"></a>15. 谷歌将Android开发转为私有化，但保持开源发布 
-<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/google-makes-android-development-private-will-continue-open-source-releases/): Google makes Android development private, will continue open source releases</small>
-
-
-| 🔥🔥: 178 \| 💬: [71](https://news.ycombinator.com/item?id=43485950) \| 🗓️ 2025-03-26
-
-
-<br />
-谷歌宣布将**Android系统开发**从公开的AOSP分支转移至内部私有分支，以简化流程并避免版本同步问题。未来新版本完成后，源码仍会照常发布至**AOSP开源项目**，但开发过程中的透明度将降低。此举可能影响开发者提前获取新特性信息，但普通用户无感知。谷歌称此举是为提升效率，部分核心组件（如蓝牙和内核）也将转入内部开发。
-
----
-
-## <a name="16"></a>16. Waymo自动驾驶事故率远低于人类司机 
+## <a name="13"></a>13. Waymo自动驾驶事故率远低于人类司机 
 <small>🔗 [understandingai.org](https://www.understandingai.org/p/human-drivers-keep-crashing-into): Waymos crash less than human drivers</small>
 
 
-| 🔥🔥: 175 \| 💬: [157](https://news.ycombinator.com/item?id=43487231) \| 🗓️ 2025-03-26
+| 🔥🔥: 191 \| 💬: [177](https://news.ycombinator.com/item?id=43487231) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -215,11 +179,47 @@ Waymo在行驶5000万英里后，数据显示其自动驾驶车辆的事故率�
 
 ---
 
+## <a name="14"></a>14. 如何删除你的23andMe基因数据 
+<small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/how-delete-your-23andme-data): How to Delete Your 23andMe Data</small>
+
+
+| 🔥🔥: 184 \| 💬: [97](https://news.ycombinator.com/item?id=43486236) \| 🗓️ 2025-03-26
+
+
+<br />
+基因检测公司23andMe近期申请破产，其收集的百万用户**基因数据可能被出售**。若想避免数据流入第三方，建议立即删除账户信息。操作分两步：**先下载数据**（包括原始基因数据、亲属关系报告等），再通过账户设置**永久删除数据**（需邮件确认）。律师提醒，基因数据包含高度敏感信息（如疾病风险、家族史），破产不应成为数据被随意转卖的理由。其他基因公司也应重视用户隐私权。
+
+---
+
+## <a name="15"></a>15. 生成式AI对批判性思维的负面影响 
+<small>🔗 [microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf): The Impact of Generative AI on Critical Thinking [pdf]</small>
+
+
+| 🔥🔥: 183 \| 💬: [118](https://news.ycombinator.com/item?id=43484224) \| 🗓️ 2025-03-26
+
+
+<br />
+微软和卡内基梅隆大学的研究发现，**过度依赖生成式AI**会导致人类**批判性思维减弱**，甚至造成**认知能力退化**。研究指出，自动化虽能处理常规任务，但剥夺了人类锻炼判断力的机会，导致面对异常情况时能力不足。该研究调查了319名知识工作者，涵盖教师、交易员和护士等职业的AI使用案例，结果显示用户对AI输出的评估信心普遍不足。
+
+---
+
+## <a name="16"></a>16. 谷歌将Android开发转为私有化，但保持开源发布 
+<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/google-makes-android-development-private-will-continue-open-source-releases/): Google makes Android development private, will continue open source releases</small>
+
+
+| 🔥🔥: 182 \| 💬: [72](https://news.ycombinator.com/item?id=43485950) \| 🗓️ 2025-03-26
+
+
+<br />
+谷歌宣布将**Android系统开发**从公开的AOSP分支转移至内部私有分支，以简化流程并避免版本同步问题。未来新版本完成后，源码仍会照常发布至**AOSP开源项目**，但开发过程中的透明度将降低。此举可能影响开发者提前获取新特性信息，但普通用户无感知。谷歌称此举是为提升效率，部分核心组件（如蓝牙和内核）也将转入内部开发。
+
+---
+
 ## <a name="17"></a>17. Linux内核6.14发布：性能飞跃，Windows兼容性大幅提升 
 <small>🔗 [zdnet.com](https://www.zdnet.com/article/linux-kernel-6-14-is-a-big-leap-forward-in-performance-and-windows-compatibility/): Linux kernel 6.14 is a big leap forward in performance and Windows compatibility</small>
 
 
-| 🔥🔥: 173 \| 💬: [114](https://news.ycombinator.com/item?id=43483567) \| 🗓️ 2025-03-26
+| 🔥🔥: 176 \| 💬: [114](https://news.ycombinator.com/item?id=43483567) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -231,7 +231,7 @@ Linux内核6.14正式推出，带来多项重磅更新。**NTSYNC驱动**显著�
 <small>🔗 [collapseos.org](http://collapseos.org/): Collapse OS</small>
 
 
-| 🔥🔥: 164 \| 💬: [144](https://news.ycombinator.com/item?id=43482705) \| 🗓️ 2025-03-26
+| 🔥🔥: 172 \| 💬: [146](https://news.ycombinator.com/item?id=43482705) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -239,7 +239,19 @@ Collapse OS 是一款专为**文明崩溃后**环境设计的 **Forth 操作系�
 
 ---
 
-## <a name="19"></a>19. 特朗普顾问在Signal上泄露的袭击计划引发安全争议 
+## <a name="19"></a>19. 黑客新闻不敢讨论的网站 
+<small>🔗 [daringfireball.net](https://daringfireball.net/2025/03/the_website_hacker_news_is_afraid_to_discuss): The Website Hacker News Is Afraid to Discuss</small>
+
+
+| 🔥🔥: 171 \| 💬: [61](https://news.ycombinator.com/item?id=43489058) \| 🗓️ 2025-03-26
+
+
+<br />
+科技博主John Gruber指出，其个人博客**Daring Fireball**长期在**Hacker News**（HN）上遭到神秘压制。尽管早期（2007-2013年）他的文章常居HN热门榜前列，但自2010年代中期起，文章一旦登上首页便会被迅速移除或限流，导致讨论热度骤降。Gruber质疑这一现象源于HN用户或管理员的刻意操作，但始终未获解释。例外情况（如一篇关于DRM视频截图的文章获208条评论）反而加深了谜团。数据分析显示，近四年该博客在HN的排名已跌至第72位，远低于历史水平（曾居第2）。Gruber批评这种**未公开的审查机制**既缺乏透明度，也损害了社区开放性。
+
+---
+
+## <a name="20"></a>20. 特朗普顾问在Signal上泄露的袭击计划引发安全争议 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/): Here are the Attack Plans That Trump's Advisers Shared on Signal</small>
 
 
@@ -251,11 +263,11 @@ Collapse OS 是一款专为**文明崩溃后**环境设计的 **Forth 操作系�
 
 ---
 
-## <a name="20"></a>20. Playwright MCP：基于结构化数据的浏览器自动化工具 
+## <a name="21"></a>21. Playwright MCP：基于结构化数据的浏览器自动化工具 
 <small>🔗 [github.com](https://github.com/microsoft/playwright-mcp): Playwright Tools for MCP</small>
 
 
-| 🔥🔥: 151 \| 💬: [26](https://news.ycombinator.com/item?id=43485740) \| 🗓️ 2025-03-26
+| 🔥🔥: 152 \| 💬: [28](https://news.ycombinator.com/item?id=43485740) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -263,23 +275,11 @@ Playwright MCP 是一个基于 **Playwright** 的服务器，通过 **可访问�
 
 ---
 
-## <a name="21"></a>21. 黑客新闻不敢讨论的网站 
-<small>🔗 [daringfireball.net](https://daringfireball.net/2025/03/the_website_hacker_news_is_afraid_to_discuss): The Website Hacker News Is Afraid to Discuss</small>
-
-
-| 🔥🔥: 147 \| 💬: [58](https://news.ycombinator.com/item?id=43489058) \| 🗓️ 2025-03-26
-
-
-<br />
-科技博主John Gruber指出，其个人博客**Daring Fireball**长期在**Hacker News**（HN）上遭到神秘压制。尽管早期（2007-2013年）他的文章常居HN热门榜前列，但自2010年代中期起，文章一旦登上首页便会被迅速移除或限流，导致讨论热度骤降。Gruber质疑这一现象源于HN用户或管理员的刻意操作，但始终未获解释。例外情况（如一篇关于DRM视频截图的文章获208条评论）反而加深了谜团。数据分析显示，近四年该博客在HN的排名已跌至第72位，远低于历史水平（曾居第2）。Gruber批评这种**未公开的审查机制**既缺乏透明度，也损害了社区开放性。
-
----
-
 ## <a name="22"></a>22. 塔夫茨大学学生遭蒙面探员逮捕视频曝光 
 <small>🔗 [bostonglobe.com](https://www.bostonglobe.com/2025/03/26/metro/tufts-student-video-shows-arrest/): Tufts student: Video shows masked agents arresting Rumeysa Ozturk</small>
 
 
-| 🔥🔥: 145 \| 💬: [30](https://news.ycombinator.com/item?id=43485577) \| 🗓️ 2025-03-26
+| 🔥🔥: 146 \| 💬: [30](https://news.ycombinator.com/item?id=43485577) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -287,7 +287,19 @@ Playwright MCP 是一个基于 **Playwright** 的服务器，通过 **可访问�
 
 ---
 
-## <a name="23"></a>23. Gemini 2.5 Pro评估任务可行性并拒绝不合理请求 
+## <a name="23"></a>23. 堆内存问题的严重性 
+<small>🔗 [rachelbythebay.com](https://rachelbythebay.com/w/2025/03/26/atop/): Problems with the heap</small>
+
+
+| 🔥🔥: 137 \| 💬: [31](https://news.ycombinator.com/item?id=43485980) \| 🗓️ 2025-03-26
+
+
+<br />
+作者用幼儿园游乐场使用锋利材料的比喻，警示当前**堆内存漏洞**的潜在危险。通过终端演示，当`user1`运行某工具时，`user2`的进程会因`malloc()`错误或段错误崩溃，若`user2`是**root权限**，攻击者可能接管系统。作者虽未深入漏洞细节，但强调其危害性，呼吁用户**立即停止运行相关程序**，尤其避免以root身份操作。
+
+---
+
+## <a name="24"></a>24. Gemini 2.5 Pro评估任务可行性并拒绝不合理请求 
 <small>🔗 [everything.intellectronica.net](https://everything.intellectronica.net/p/negotiating-with-the-machine): Gemini 2.5 Pro reasons about task feasibility</small>
 
 
@@ -299,26 +311,14 @@ Playwright MCP 是一个基于 **Playwright** 的服务器，通过 **可访问�
 
 ---
 
-## <a name="24"></a>24. 堆内存问题的严重性 
-<small>🔗 [rachelbythebay.com](https://rachelbythebay.com/w/2025/03/26/atop/): Problems with the heap</small>
+## <a name="25"></a>25. 开发者技能在AI辅助编程中的关键作用 
+<small>🔗 [martinfowler.com](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13): The role of developer skills in agentic coding</small>
 
 
-| 🔥🔥: 131 \| 💬: [30](https://news.ycombinator.com/item?id=43485980) \| 🗓️ 2025-03-26
-
-
-<br />
-作者用幼儿园游乐场使用锋利材料的比喻，警示当前**堆内存漏洞**的潜在危险。通过终端演示，当`user1`运行某工具时，`user2`的进程会因`malloc()`错误或段错误崩溃，若`user2`是**root权限**，攻击者可能接管系统。作者虽未深入漏洞细节，但强调其危害性，呼吁用户**立即停止运行相关程序**，尤其避免以root身份操作。
-
----
-
-## <a name="25"></a>25. 欧洲最大创客空间落户柏林 
-<small>🔗 [berlin-partner.de](https://www.berlin-partner.de/en/news/detail/europas-groesster-makerspace): Europe's Largest Makerspace</small>
-
-
-| 🔥🔥: 129 \| 💬: [125](https://news.ycombinator.com/item?id=43480396) \| 🗓️ 2025-03-26
+| 🔥🔥: 133 \| 💬: [68](https://news.ycombinator.com/item?id=43480964) \| 🗓️ 2025-03-26
 
 
 <br />
-柏林马林多夫区的**ringberlin模型园区**正在建设欧洲最大的创客空间，由知名硬件加速器**MotionLab.Berlin**运营。该空间占地17,000平方米，提供**现代化设施**，包括车间、办公区和测试区，旨在促进创新与合作。柏林州政府投资3600万欧元支持该项目，总预算超6000万欧元。该创客空间将推动深科技发展，并打造**碳中和园区**，成为柏林工业创新的核心枢纽。
+本文探讨了**生成式AI**（如大型语言模型LLMs）如何改变软件开发实践。作者通过Thoughtworks的实践，分析了当前AI编程工具的分类（如代码生成、代码解释、文档转换）、交互模式（聊天界面、编辑器内辅助、CLI）及模型特性（训练数据、上下文窗口大小）。以GitHub Copilot为例，指出**开发者仍需深刻理解代码逻辑**以验证AI生成的内容，尤其在测试环节。文章强调，尽管AI能提升效率，但**技术栈普及度**和**提示词质量**显著影响工具实用性，未来发展方向可能聚焦于模型优化和开源生态。
 
 ---
