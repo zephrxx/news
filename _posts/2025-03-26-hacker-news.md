@@ -10,8 +10,8 @@ tags:
 
 1. Debian bookworm 实时镜像现已实现完全可复现；
 1. OpenAI为Agents SDK添加MCP支持；
-1. 加美航线需求暴跌超70%，航空业面临严峻挑战；
 1. 一封写给CSV格式的情书；
+1. 加美航线需求暴跌超70%，航空业面临严峻挑战；
 1. 选择Next.js前必须了解的三件事；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [lwn.net](https://lwn.net/Articles/1015402/): Debian bookworm live images now reproducible</small>
 
 
-| 🔥🔥: 374 \| 💬: [84](https://news.ycombinator.com/item?id=43484520) \| 🗓️ 2025-03-26
+| 🔥🔥: 406 \| 💬: [89](https://news.ycombinator.com/item?id=43484520) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -39,7 +39,7 @@ Debian 开发者 Roland Clobus 在**可复现构建**邮件列表中宣布，Deb
 <small>🔗 [openai.github.io](https://openai.github.io/openai-agents-python/mcp/): OpenAI adds MCP support to Agents SDK</small>
 
 
-| 🔥🔥: 334 \| 💬: [96](https://news.ycombinator.com/item?id=43485566) \| 🗓️ 2025-03-26
+| 🔥🔥: 369 \| 💬: [119](https://news.ycombinator.com/item?id=43485566) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -47,23 +47,11 @@ Debian 开发者 Roland Clobus 在**可复现构建**邮件列表中宣布，Deb
 
 ---
 
-## <a name="3"></a>3. 加美航线需求暴跌超70%，航空业面临严峻挑战 
-<small>🔗 [onemileatatime.com](https://onemileatatime.com/news/airline-demand-canada-united-states-collapses/): Airline Demand Between Canada and United States Collapses, Down 70%+</small>
-
-
-| 🔥🔥: 276 \| 💬: [340](https://news.ycombinator.com/item?id=43485649) \| 🗓️ 2025-03-26
-
-
-<br />
-数据显示，2025年夏季**加美跨境航班预订量**同比骤降71.4%至75.7%，例如2024年4月预订量为121万张，而2025年同期仅29.6万张。尽管航空公司已削减1.6%-3.5%的航班，但调整远未匹配需求下滑。**加拿大航空**作为最大跨境运营商或被迫转向国内及其他国际市场。分析指出，政治摩擦与关税政策可能是主因，但行业复苏前景仍不明朗。
-
----
-
-## <a name="4"></a>4. 一封写给CSV格式的情书 
+## <a name="3"></a>3. 一封写给CSV格式的情书 
 <small>🔗 [github.com](https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md): A love letter to the CSV format</small>
 
 
-| 🔥🔥: 259 \| 💬: [255](https://news.ycombinator.com/item?id=43484382) \| 🗓️ 2025-03-26
+| 🔥🔥: 290 \| 💬: [295](https://news.ycombinator.com/item?id=43484382) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -71,11 +59,23 @@ Debian 开发者 Roland Clobus 在**可复现构建**邮件列表中宣布，Deb
 
 ---
 
+## <a name="4"></a>4. 加美航线需求暴跌超70%，航空业面临严峻挑战 
+<small>🔗 [onemileatatime.com](https://onemileatatime.com/news/airline-demand-canada-united-states-collapses/): Airline Demand Between Canada and United States Collapses, Down 70%+</small>
+
+
+| 🔥🔥: 280 \| 💬: [352](https://news.ycombinator.com/item?id=43485649) \| 🗓️ 2025-03-26
+
+
+<br />
+数据显示，2025年夏季**加美跨境航班预订量**同比骤降71.4%至75.7%，例如2024年4月预订量为121万张，而2025年同期仅29.6万张。尽管航空公司已削减1.6%-3.5%的航班，但调整远未匹配需求下滑。**加拿大航空**作为最大跨境运营商或被迫转向国内及其他国际市场。分析指出，政治摩擦与关税政策可能是主因，但行业复苏前景仍不明朗。
+
+---
+
 ## <a name="5"></a>5. 选择Next.js前必须了解的三件事 
 <small>🔗 [eduardoboucas.com](https://eduardoboucas.com/posts/2025-03-25-you-should-know-this-before-choosing-nextjs/): You should know this before choosing Next.js</small>
 
 
-| 🔥🔥: 233 \| 💬: [108](https://news.ycombinator.com/item?id=43481295) \| 🗓️ 2025-03-26
+| 🔥🔥: 234 \| 💬: [108](https://news.ycombinator.com/item?id=43481295) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -87,7 +87,7 @@ Debian 开发者 Roland Clobus 在**可复现构建**邮件列表中宣布，Deb
 <small>🔗 [9to5google.com](https://9to5google.com/2025/03/26/google-android-aosp-developement-private/): Google will develop Android OS behind closed doors starting next week</small>
 
 
-| 🔥🔥: 214 \| 💬: [140](https://news.ycombinator.com/item?id=43484927) \| 🗓️ 2025-03-26
+| 🔥🔥: 232 \| 💬: [166](https://news.ycombinator.com/item?id=43484927) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -95,23 +95,11 @@ Debian 开发者 Roland Clobus 在**可复现构建**邮件列表中宣布，Deb
 
 ---
 
-## <a name="7"></a>7. 超轻量WASM：快速、安全且无操作系统的JavaScript执行方案 
-<small>🔗 [opensource.microsoft.com](https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/): Hyperlight WASM: Fast, secure, and OS-free</small>
-
-
-| 🔥🔥: 192 \| 💬: [74](https://news.ycombinator.com/item?id=43482556) \| 🗓️ 2025-03-26
-
-
-<br />
-本文介绍如何构建一个**Hyperlight C客户端**，实现在**安全沙箱**中高效运行JavaScript代码。通过**WebAssembly (WASM)**技术，该方案无需依赖操作系统，兼具高性能与隔离性。文章详细演示了开发步骤，并强调其在嵌入式场景与边缘计算中的潜力。核心优势包括极低资源占用和防止恶意代码逃逸的设计。
-
----
-
-## <a name="8"></a>8. 告别核心类型：回归我们熟悉的Go语言 
+## <a name="7"></a>7. 告别核心类型：回归我们熟悉的Go语言 
 <small>🔗 [go.dev](https://go.dev/blog/coretypes): Good-bye core types; Hello Go as we know and love it</small>
 
 
-| 🔥🔥: 180 \| 💬: [87](https://news.ycombinator.com/item?id=43483842) \| 🗓️ 2025-03-26
+| 🔥🔥: 204 \| 💬: [106](https://news.ycombinator.com/item?id=43483842) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -119,59 +107,23 @@ Go 1.18引入了泛型，带来了**类型参数**、**类型约束**等新特�
 
 ---
 
-## <a name="9"></a>9. Linux内核6.14发布：性能飞跃，Windows兼容性大幅提升 
-<small>🔗 [zdnet.com](https://www.zdnet.com/article/linux-kernel-6-14-is-a-big-leap-forward-in-performance-and-windows-compatibility/): Linux kernel 6.14 is a big leap forward in performance and Windows compatibility</small>
+## <a name="8"></a>8. 超轻量WASM：快速、安全且无操作系统的JavaScript执行方案 
+<small>🔗 [opensource.microsoft.com](https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/): Hyperlight WASM: Fast, secure, and OS-free</small>
 
 
-| 🔥🔥: 161 \| 💬: [104](https://news.ycombinator.com/item?id=43483567) \| 🗓️ 2025-03-26
-
-
-<br />
-Linux内核6.14正式推出，带来多项重磅更新。**NTSYNC驱动**显著优化了Wine和Steam Play的Windows程序运行性能，被赞为“将彻底改变Linux游戏体验”。此外，新增对**AMD RDNA 4显卡**的支持，搭配RADV驱动可提升游戏性能。内核还集成**AMDXDNA驱动**，支持AMD神经网络单元，加速AI任务处理。其他改进包括Rust语言支持扩展、Snapdragon 8 Elite芯片优化，以及修复GhostWrite漏洞。此次更新覆盖游戏、AI及移动设备领域，进一步巩固Linux的多场景优势。
-
----
-
-## <a name="10"></a>10. 生成式AI对批判性思维的负面影响 
-<small>🔗 [microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf): The Impact of Generative AI on Critical Thinking [pdf]</small>
-
-
-| 🔥🔥: 157 \| 💬: [108](https://news.ycombinator.com/item?id=43484224) \| 🗓️ 2025-03-26
+| 🔥🔥: 195 \| 💬: [76](https://news.ycombinator.com/item?id=43482556) \| 🗓️ 2025-03-26
 
 
 <br />
-微软和卡内基梅隆大学的研究发现，**过度依赖生成式AI**会导致人类**批判性思维减弱**，甚至造成**认知能力退化**。研究指出，自动化虽能处理常规任务，但剥夺了人类锻炼判断力的机会，导致面对异常情况时能力不足。该研究调查了319名知识工作者，涵盖教师、交易员和护士等职业的AI使用案例，结果显示用户对AI输出的评估信心普遍不足。
+本文介绍如何构建一个**Hyperlight C客户端**，实现在**安全沙箱**中高效运行JavaScript代码。通过**WebAssembly (WASM)**技术，该方案无需依赖操作系统，兼具高性能与隔离性。文章详细演示了开发步骤，并强调其在嵌入式场景与边缘计算中的潜力。核心优势包括极低资源占用和防止恶意代码逃逸的设计。
 
 ---
 
-## <a name="11"></a>11. npm发现恶意软件通过反向感染本地合法包 
-<small>🔗 [reversinglabs.com](https://www.reversinglabs.com/blog/malicious-npm-patch-delivers-reverse-shell): Malware found on NPM infecting local package with reverse shell</small>
-
-
-| 🔥🔥: 153 \| 💬: [89](https://news.ycombinator.com/item?id=43484845) \| 🗓️ 2025-03-26
-
-
-<br />
-研究人员首次发现**恶意npm本地安装包**正在感染其他**合法包**。这些恶意软件通过**反向shell**实施攻击，威胁开发环境安全。该发现凸显了依赖包管理的潜在风险，需加强安全审查。
-
----
-
-## <a name="12"></a>12. 特朗普顾问在Signal上泄露的袭击计划引发安全争议 
-<small>🔗 [theatlantic.com](https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/): Here are the Attack Plans That Trump's Advisers Shared on Signal</small>
-
-
-| 🔥🔥: 151 \| 💬: [48](https://news.ycombinator.com/item?id=43481521) \| 🗓️ 2025-03-26
-
-
-<br />
-《大西洋月刊》披露，特朗普政府高级官员在**Signal加密群聊**中讨论了针对也门胡塞武装的军事行动细节，包括**战机起飞时间**和攻击目标。尽管官员坚称信息未涉密，但专家警告此类非安全通讯可能危及美军人员安全。报道显示，国防部长海格思在行动前31分钟于群聊中发布作战时间表，若信息外泄恐导致灾难性后果。白宫虽否认泄密，却以"敏感内部讨论"为由反对公开完整聊天记录。事件暴露了政府高层对**国家安全协议**的漠视。
-
----
-
-## <a name="13"></a>13. 博茨瓦纳成功发射首颗卫星BOTSAT-1 
+## <a name="9"></a>9. 博茨瓦纳成功发射首颗卫星BOTSAT-1 
 <small>🔗 [spaceinafrica.com](https://spaceinafrica.com/2025/03/15/botswana-successfully-launches-first-satellite-botsat-1/): Botswana Successfully Launches First Satellite, Botsat-1</small>
 
 
-| 🔥🔥: 150 \| 💬: [59](https://news.ycombinator.com/item?id=43483660) \| 🗓️ 2025-03-26
+| 🔥🔥: 175 \| 💬: [68](https://news.ycombinator.com/item?id=43483660) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -179,11 +131,71 @@ Linux内核6.14正式推出，带来多项重磅更新。**NTSYNC驱动**显著�
 
 ---
 
-## <a name="14"></a>14. Gemini 2.5 Pro评估任务可行性并拒绝不合理请求 
+## <a name="10"></a>10. Linux内核6.14发布：性能飞跃，Windows兼容性大幅提升 
+<small>🔗 [zdnet.com](https://www.zdnet.com/article/linux-kernel-6-14-is-a-big-leap-forward-in-performance-and-windows-compatibility/): Linux kernel 6.14 is a big leap forward in performance and Windows compatibility</small>
+
+
+| 🔥🔥: 162 \| 💬: [105](https://news.ycombinator.com/item?id=43483567) \| 🗓️ 2025-03-26
+
+
+<br />
+Linux内核6.14正式推出，带来多项重磅更新。**NTSYNC驱动**显著优化了Wine和Steam Play的Windows程序运行性能，被赞为“将彻底改变Linux游戏体验”。此外，新增对**AMD RDNA 4显卡**的支持，搭配RADV驱动可提升游戏性能。内核还集成**AMDXDNA驱动**，支持AMD神经网络单元，加速AI任务处理。其他改进包括Rust语言支持扩展、Snapdragon 8 Elite芯片优化，以及修复GhostWrite漏洞。此次更新覆盖游戏、AI及移动设备领域，进一步巩固Linux的多场景优势。
+
+---
+
+## <a name="11"></a>11. 生成式AI对批判性思维的负面影响 
+<small>🔗 [microsoft.com](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf): The Impact of Generative AI on Critical Thinking [pdf]</small>
+
+
+| 🔥🔥: 162 \| 💬: [111](https://news.ycombinator.com/item?id=43484224) \| 🗓️ 2025-03-26
+
+
+<br />
+微软和卡内基梅隆大学的研究发现，**过度依赖生成式AI**会导致人类**批判性思维减弱**，甚至造成**认知能力退化**。研究指出，自动化虽能处理常规任务，但剥夺了人类锻炼判断力的机会，导致面对异常情况时能力不足。该研究调查了319名知识工作者，涵盖教师、交易员和护士等职业的AI使用案例，结果显示用户对AI输出的评估信心普遍不足。
+
+---
+
+## <a name="12"></a>12. npm发现恶意软件通过反向感染本地合法包 
+<small>🔗 [reversinglabs.com](https://www.reversinglabs.com/blog/malicious-npm-patch-delivers-reverse-shell): Malware found on NPM infecting local package with reverse shell</small>
+
+
+| 🔥🔥: 157 \| 💬: [94](https://news.ycombinator.com/item?id=43484845) \| 🗓️ 2025-03-26
+
+
+<br />
+研究人员首次发现**恶意npm本地安装包**正在感染其他**合法包**。这些恶意软件通过**反向shell**实施攻击，威胁开发环境安全。该发现凸显了依赖包管理的潜在风险，需加强安全审查。
+
+---
+
+## <a name="13"></a>13. 特朗普顾问在Signal上泄露的袭击计划引发安全争议 
+<small>🔗 [theatlantic.com](https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/): Here are the Attack Plans That Trump's Advisers Shared on Signal</small>
+
+
+| 🔥🔥: 152 \| 💬: [48](https://news.ycombinator.com/item?id=43481521) \| 🗓️ 2025-03-26
+
+
+<br />
+《大西洋月刊》披露，特朗普政府高级官员在**Signal加密群聊**中讨论了针对也门胡塞武装的军事行动细节，包括**战机起飞时间**和攻击目标。尽管官员坚称信息未涉密，但专家警告此类非安全通讯可能危及美军人员安全。报道显示，国防部长海格思在行动前31分钟于群聊中发布作战时间表，若信息外泄恐导致灾难性后果。白宫虽否认泄密，却以"敏感内部讨论"为由反对公开完整聊天记录。事件暴露了政府高层对**国家安全协议**的漠视。
+
+---
+
+## <a name="14"></a>14. 甲骨文客户证实云服务泄露数据属实 
+<small>🔗 [bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/): Oracle customers confirm data stolen in alleged cloud breach is valid</small>
+
+
+| 🔥🔥: 147 \| 💬: [34](https://news.ycombinator.com/item?id=43486945) \| 🗓️ 2025-03-26
+
+
+<br />
+尽管**甲骨文**否认其云服务遭入侵，但多家企业向BleepingComputer确认，黑客提供的**600万用户数据样本**真实有效。黑客声称利用漏洞（CVE-2021-35587）入侵服务器，并展示了在甲骨文服务器上创建文件的证据。部分泄露数据包含企业域名、邮箱及加密密码，但甲骨文坚称“**未发生云服务泄露**”。网络安全公司Cloudsek发现涉事服务器已下线，但甲骨文未回应后续质询。
+
+---
+
+## <a name="15"></a>15. Gemini 2.5 Pro评估任务可行性并拒绝不合理请求 
 <small>🔗 [everything.intellectronica.net](https://everything.intellectronica.net/p/negotiating-with-the-machine): Gemini 2.5 Pro reasons about task feasibility</small>
 
 
-| 🔥🔥: 134 \| 💬: [59](https://news.ycombinator.com/item?id=43479985) \| 🗓️ 2025-03-26
+| 🔥🔥: 134 \| 💬: [60](https://news.ycombinator.com/item?id=43479985) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -191,7 +203,7 @@ Linux内核6.14正式推出，带来多项重磅更新。**NTSYNC驱动**显著�
 
 ---
 
-## <a name="15"></a>15. 欧洲最大创客空间落户柏林 
+## <a name="16"></a>16. 欧洲最大创客空间落户柏林 
 <small>🔗 [berlin-partner.de](https://www.berlin-partner.de/en/news/detail/europas-groesster-makerspace): Europe's Largest Makerspace</small>
 
 
@@ -203,35 +215,11 @@ Linux内核6.14正式推出，带来多项重磅更新。**NTSYNC驱动**显著�
 
 ---
 
-## <a name="16"></a>16. 甲骨文客户证实云服务泄露数据属实 
-<small>🔗 [bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/): Oracle customers confirm data stolen in alleged cloud breach is valid</small>
-
-
-| 🔥🔥: 114 \| 💬: [25](https://news.ycombinator.com/item?id=43486945) \| 🗓️ 2025-03-26
-
-
-<br />
-尽管**甲骨文**否认其云服务遭入侵，但多家企业向BleepingComputer确认，黑客提供的**600万用户数据样本**真实有效。黑客声称利用漏洞（CVE-2021-35587）入侵服务器，并展示了在甲骨文服务器上创建文件的证据。部分泄露数据包含企业域名、邮箱及加密密码，但甲骨文坚称“**未发生云服务泄露**”。网络安全公司Cloudsek发现涉事服务器已下线，但甲骨文未回应后续质询。
-
----
-
-## <a name="17"></a>17. 后末日操作系统：Collapse OS 
-<small>🔗 [collapseos.org](http://collapseos.org/): Collapse OS</small>
-
-
-| 🔥🔥: 109 \| 💬: [101](https://news.ycombinator.com/item?id=43482705) \| 🗓️ 2025-03-26
-
-
-<br />
-Collapse OS 是一款专为**文明崩溃后**环境设计的 **Forth 操作系统**，旨在帮助用户通过简易设备和拾荒零件维持对微控制器的编程能力。其核心功能包括：在低资源硬件（如Z80、8086）上运行、支持多种MCU的汇编编译、内置文本/二进制编辑器，并能通过串行等简陋接口操作。系统强调**自给自足**，仅需基础工具即可从POSIX环境构建，代码精简（不足2000行）。开发者Virgil Dupras希望该项目能为后末日技术重建提供基石，相关资源已开源。
-
----
-
-## <a name="18"></a>18. 如何删除你的23andMe基因数据 
+## <a name="17"></a>17. 如何删除你的23andMe基因数据 
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/03/how-delete-your-23andme-data): How to Delete Your 23andMe Data</small>
 
 
-| 🔥🔥: 109 \| 💬: [38](https://news.ycombinator.com/item?id=43486236) \| 🗓️ 2025-03-26
+| 🔥🔥: 129 \| 💬: [63](https://news.ycombinator.com/item?id=43486236) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -239,35 +227,23 @@ Collapse OS 是一款专为**文明崩溃后**环境设计的 **Forth 操作系�
 
 ---
 
-## <a name="19"></a>19. Waymo自动驾驶事故率远低于人类司机 
-<small>🔗 [understandingai.org](https://www.understandingai.org/p/human-drivers-keep-crashing-into): Waymos crash less than human drivers</small>
+## <a name="18"></a>18. 后末日操作系统：Collapse OS 
+<small>🔗 [collapseos.org](http://collapseos.org/): Collapse OS</small>
 
 
-| 🔥🔥: 102 \| 💬: [104](https://news.ycombinator.com/item?id=43487231) \| 🗓️ 2025-03-26
-
-
-<br />
-Waymo在行驶5000万英里后，数据显示其自动驾驶车辆的事故率显著低于人类驾驶员。**大多数事故由人类司机违规引发**，如追尾静止的Waymo车辆或闯红灯。Waymo仅对极少数事故负有责任，且其**每英里事故率比人类低83%**。保险索赔数据也显示，Waymo的责任索赔减少约90%。尽管自动驾驶技术仍面临挑战，但其**安全性已明显优于人类驾驶**。
-
----
-
-## <a name="20"></a>20. Playwright MCP：基于结构化数据的浏览器自动化工具 
-<small>🔗 [github.com](https://github.com/microsoft/playwright-mcp): Playwright Tools for MCP</small>
-
-
-| 🔥: 99 \| 💬: [20](https://news.ycombinator.com/item?id=43485740) \| 🗓️ 2025-03-26
+| 🔥🔥: 122 \| 💬: [111](https://news.ycombinator.com/item?id=43482705) \| 🗓️ 2025-03-26
 
 
 <br />
-Playwright MCP 是一个基于 **Playwright** 的服务器，通过 **可访问性快照**（非像素输入）为LLM提供浏览器自动化能力，无需依赖视觉模型。支持两种模式：默认的**快照模式**（高效稳定）和**视觉模式**（基于截图交互）。功能包括网页导航、表单填写、数据提取等，适用于VS Code集成或无界面运行。关键优势：**轻量快速**、**LLM友好**、**确定性操作**。
+Collapse OS 是一款专为**文明崩溃后**环境设计的 **Forth 操作系统**，旨在帮助用户通过简易设备和拾荒零件维持对微控制器的编程能力。其核心功能包括：在低资源硬件（如Z80、8086）上运行、支持多种MCU的汇编编译、内置文本/二进制编辑器，并能通过串行等简陋接口操作。系统强调**自给自足**，仅需基础工具即可从POSIX环境构建，代码精简（不足2000行）。开发者Virgil Dupras希望该项目能为后末日技术重建提供基石，相关资源已开源。
 
 ---
 
-## <a name="21"></a>21. 谷歌将Android开发转为私有化，但保持开源发布 
+## <a name="19"></a>19. 谷歌将Android开发转为私有化，但保持开源发布 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/03/google-makes-android-development-private-will-continue-open-source-releases/): Google makes Android development private, will continue open source releases</small>
 
 
-| 🔥: 96 \| 💬: [36](https://news.ycombinator.com/item?id=43485950) \| 🗓️ 2025-03-26
+| 🔥🔥: 121 \| 💬: [59](https://news.ycombinator.com/item?id=43485950) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -275,11 +251,23 @@ Playwright MCP 是一个基于 **Playwright** 的服务器，通过 **可访问�
 
 ---
 
-## <a name="22"></a>22. 塔夫茨大学学生遭蒙面探员逮捕视频曝光 
+## <a name="20"></a>20. Playwright MCP：基于结构化数据的浏览器自动化工具 
+<small>🔗 [github.com](https://github.com/microsoft/playwright-mcp): Playwright Tools for MCP</small>
+
+
+| 🔥🔥: 115 \| 💬: [24](https://news.ycombinator.com/item?id=43485740) \| 🗓️ 2025-03-26
+
+
+<br />
+Playwright MCP 是一个基于 **Playwright** 的服务器，通过 **可访问性快照**（非像素输入）为LLM提供浏览器自动化能力，无需依赖视觉模型。支持两种模式：默认的**快照模式**（高效稳定）和**视觉模式**（基于截图交互）。功能包括网页导航、表单填写、数据提取等，适用于VS Code集成或无界面运行。关键优势：**轻量快速**、**LLM友好**、**确定性操作**。
+
+---
+
+## <a name="21"></a>21. 塔夫茨大学学生遭蒙面探员逮捕视频曝光 
 <small>🔗 [bostonglobe.com](https://www.bostonglobe.com/2025/03/26/metro/tufts-student-video-shows-arrest/): Tufts student: Video shows masked agents arresting Rumeysa Ozturk</small>
 
 
-| 🔥: 95 \| 💬: [25](https://news.ycombinator.com/item?id=43485577) \| 🗓️ 2025-03-26
+| 🔥🔥: 114 \| 💬: [28](https://news.ycombinator.com/item?id=43485577) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -287,11 +275,23 @@ Playwright MCP 是一个基于 **Playwright** 的服务器，通过 **可访问�
 
 ---
 
+## <a name="22"></a>22. Waymo自动驾驶事故率远低于人类司机 
+<small>🔗 [understandingai.org](https://www.understandingai.org/p/human-drivers-keep-crashing-into): Waymos crash less than human drivers</small>
+
+
+| 🔥🔥: 107 \| 💬: [111](https://news.ycombinator.com/item?id=43487231) \| 🗓️ 2025-03-26
+
+
+<br />
+Waymo在行驶5000万英里后，数据显示其自动驾驶车辆的事故率显著低于人类驾驶员。**大多数事故由人类司机违规引发**，如追尾静止的Waymo车辆或闯红灯。Waymo仅对极少数事故负有责任，且其**每英里事故率比人类低83%**。保险索赔数据也显示，Waymo的责任索赔减少约90%。尽管自动驾驶技术仍面临挑战，但其**安全性已明显优于人类驾驶**。
+
+---
+
 ## <a name="23"></a>23. 开发者技能在AI辅助编程中的关键作用 
 <small>🔗 [martinfowler.com](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13): The role of developer skills in agentic coding</small>
 
 
-| 🔥: 94 \| 💬: [55](https://news.ycombinator.com/item?id=43480964) \| 🗓️ 2025-03-26
+| 🔥: 97 \| 💬: [56](https://news.ycombinator.com/item?id=43480964) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -303,7 +303,7 @@ Playwright MCP 是一个基于 **Playwright** 的服务器，通过 **可访问�
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/mar/26/phone-search-privacy-us-border-immigration): How to protect your phone and data privacy at the US border</small>
 
 
-| 🔥: 91 \| 💬: [92](https://news.ycombinator.com/item?id=43480730) \| 🗓️ 2025-03-26
+| 🔥: 91 \| 💬: [91](https://news.ycombinator.com/item?id=43480730) \| 🗓️ 2025-03-26
 
 
 <br />
@@ -315,7 +315,7 @@ Playwright MCP 是一个基于 **Playwright** 的服务器，通过 **可访问�
 <small>🔗 [omgubuntu.co.uk](https://www.omgubuntu.co.uk/2025/03/firefox-nightly-supports-web-apps-taskbar-tabs): Firefox Is Finally (Re)Adding Support for Web Apps</small>
 
 
-| 🔥: 89 \| 💬: [78](https://news.ycombinator.com/item?id=43484542) \| 🗓️ 2025-03-26
+| 🔥: 90 \| 💬: [78](https://news.ycombinator.com/item?id=43484542) \| 🗓️ 2025-03-26
 
 
 <br />
