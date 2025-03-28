@@ -27,7 +27,7 @@ tags:
 <small>🔗 [reviews.ofb.biz](https://reviews.ofb.biz/safari/article/1300.html): Apple needs a Snow Sequoia</small>
 
 
-| 🔥🔥: 432 \| 💬: [303](https://news.ycombinator.com/item?id=43498984) \| 🗓️ 2025-03-27
+| 🔥🔥: 456 \| 💬: [325](https://news.ycombinator.com/item?id=43498984) \| 🗓️ 2025-03-27
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [medium.com](https://medium.com/@brunopostle/piranesis-perspective-trick-6bcd7a754da9): Piranesi's Perspective Trick (2019)</small>
 
 
-| 🔥🔥: 322 \| 💬: [72](https://news.ycombinator.com/item?id=43492562) \| 🗓️ 2025-03-27
+| 🔥🔥: 323 \| 💬: [72](https://news.ycombinator.com/item?id=43492562) \| 🗓️ 2025-03-27
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [victorpoughon.fr](https://victorpoughon.fr/i-tried-making-artificial-sunlight-at-home/): I tried making artificial sunlight at home</small>
 
 
-| 🔥🔥: 284 \| 💬: [154](https://news.ycombinator.com/item?id=43497394) \| 🗓️ 2025-03-27
+| 🔥🔥: 294 \| 💬: [157](https://news.ycombinator.com/item?id=43497394) \| 🗓️ 2025-03-27
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [merriam-webster.com](https://www.merriam-webster.com/grammar/em-dash-en-dash-how-to-use): How to Use Em Dashes (–), En Dashes (–), and Hyphens (-)</small>
 
 
-| 🔥🔥: 273 \| 💬: [204](https://news.ycombinator.com/item?id=43497719) \| 🗓️ 2025-03-27
+| 🔥🔥: 286 \| 💬: [231](https://news.ycombinator.com/item?id=43497719) \| 🗓️ 2025-03-27
 
 
 <br />
@@ -77,7 +77,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/skdh/status/1905132853672784121): I genuinely don't understand why some people are still bullish about LLMs</small>
 
 
-| 🔥🔥: 252 \| 💬: [442](https://news.ycombinator.com/item?id=43498338) \| 🗓️ 2025-03-27
+| 🔥🔥: 282 \| 💬: [489](https://news.ycombinator.com/item?id=43498338) \| 🗓️ 2025-03-27
 
 
 <br />
@@ -89,7 +89,7 @@ tags:
 <small>🔗 [googleprojectzero.blogspot.com](https://googleprojectzero.blogspot.com/2025/03/blasting-past-webp.html): Blasting Past WebP - An analysis of the NSO BLASTPASS iMessage exploit</small>
 
 
-| 🔥🔥: 237 \| 💬: [98](https://news.ycombinator.com/item?id=43493056) \| 🗓️ 2025-03-27
+| 🔥🔥: 239 \| 💬: [98](https://news.ycombinator.com/item?id=43493056) \| 🗓️ 2025-03-27
 
 
 <br />
@@ -101,7 +101,7 @@ tags:
 <small>🔗 [kagi.com](https://kagi.com/stats?stat=leaderboard): Most promoted and blocked domains on Kagi</small>
 
 
-| 🔥🔥: 192 \| 💬: [76](https://news.ycombinator.com/item?id=43499045) \| 🗓️ 2025-03-27
+| 🔥🔥: 217 \| 💬: [92](https://news.ycombinator.com/item?id=43499045) \| 🗓️ 2025-03-27
 
 
 <br />
@@ -127,7 +127,7 @@ Kagi目前拥有**43,314名会员**，日均处理**86.2万次搜索**，强调�
 <small>🔗 [theguardian.com](https://www.theguardian.com/world/2025/mar/27/black-swan-denmark-documentary-mads-brugger-amira-smajic): A filmmaker and a crooked lawyer shattered Denmark's self-image</small>
 
 
-| 🔥🔥: 189 \| 💬: [151](https://news.ycombinator.com/item?id=43493159) \| 🗓️ 2025-03-27
+| 🔥🔥: 189 \| 💬: [152](https://news.ycombinator.com/item?id=43493159) \| 🗓️ 2025-03-27
 
 
 <br />
@@ -139,7 +139,7 @@ Kagi目前拥有**43,314名会员**，日均处理**86.2万次搜索**，强调�
 <small>🔗 [github.com](https://github.com/rottytooth/Rivulet): Source code art in the Rivulet language</small>
 
 
-| 🔥🔥: 154 \| 💬: [28](https://news.ycombinator.com/item?id=43492652) \| 🗓️ 2025-03-27
+| 🔥🔥: 157 \| 💬: [29](https://news.ycombinator.com/item?id=43492652) \| 🗓️ 2025-03-27
 
 
 <br />
@@ -151,7 +151,7 @@ Rivulet是一种基于**流式线条**的编程语言，采用半图形化字符
 <small>🔗 [hub.continue.dev](https://hub.continue.dev/explore/assistants): Launch HN: Continue (YC S23) – Create custom AI code assistants</small>
 
 
-| 🔥🔥: 149 \| 💬: [98](https://news.ycombinator.com/item?id=43494427) \| 🗓️ 2025-03-27
+| 🔥🔥: 151 \| 💬: [98](https://news.ycombinator.com/item?id=43494427) \| 🗓️ 2025-03-27
 
 
 <br />
@@ -163,7 +163,7 @@ Continue推出**自定义AI代码助手**，通过组合模块化配置满足特
 <small>🔗 [scottsmitelli.com](https://www.scottsmitelli.com/articles/take-oncall-and-shove-it/): Take this on-call rotation and shove it</small>
 
 
-| 🔥🔥: 136 \| 💬: [96](https://news.ycombinator.com/item?id=43498213) \| 🗓️ 2025-03-27
+| 🔥🔥: 146 \| 💬: [100](https://news.ycombinator.com/item?id=43498213) \| 🗓️ 2025-03-27
 
 
 <br />
@@ -195,11 +195,23 @@ Continue推出**自定义AI代码助手**，通过组合模块化配置满足特
 
 ---
 
-## <a name="15"></a>15. “信号门”事件推动Signal在美国下载量创历史新高 
+## <a name="15"></a>15. 微软鼠标附赠的USB转PS/2适配器原理揭秘 
+<small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20250325-00/?p=110993): A note on the USB-to-PS/2 mouse adapter that came with Microsoft mouse devices</small>
+
+
+| 🔥🔥: 114 \| 💬: [17](https://news.ycombinator.com/item?id=43499823) \| 🗓️ 2025-03-27
+
+
+<br />
+早期USB鼠标常附带绿色**机械式适配器**，仅通过引脚转换将USB-A接口转为PS/2接口，**无任何电路或协议转换功能**。实际信号处理由鼠标自身完成——其能自动检测接口类型并切换工作模式。类似国际插头转换器，**核心逻辑在终端设备**（鼠标）而非适配器。如今市售同类产品是否仍为纯机械设计尚不明确。
+
+---
+
+## <a name="16"></a>16. “信号门”事件推动Signal在美国下载量创历史新高 
 <small>🔗 [wired.com](https://www.wired.com/story/signalgate-is-driving-the-most-us-downloads-of-signal-ever/): SignalGate Is Driving the Most US Downloads of Signal Ever</small>
 
 
-| 🔥🔥: 110 \| 💬: [78](https://news.ycombinator.com/item?id=43497150) \| 🗓️ 2025-03-27
+| 🔥🔥: 111 \| 💬: [78](https://news.ycombinator.com/item?id=43497150) \| 🗓️ 2025-03-27
 
 
 <br />
@@ -207,23 +219,11 @@ Continue推出**自定义AI代码助手**，通过组合模块化配置满足特
 
 ---
 
-## <a name="16"></a>16. 苹果II版《滑翔机》游戏重制发布 
-<small>🔗 [colino.net](https://www.colino.net/wordpress/en/glider-for-apple-ii/): Glider for Apple II</small>
-
-
-| 🔥🔥: 104 \| 💬: [22](https://news.ycombinator.com/item?id=43491977) \| 🗓️ 2025-03-27
-
-
-<br />
-作者为怀旧玩家复刻了90年代经典Mac游戏**《滑翔机》**，并移植到Apple II平台。这是其首次尝试用**6502汇编语言**开发游戏，过程虽艰难但最终成功。游戏支持Apple ][+及以上机型（部分需鼠标），推荐单色显示器以获得最佳体验。提供英文和保加利亚语版本下载，开发者还分享了技术日志。玩家反馈流畅度出色，尤其赞赏画面设计和彩蛋（如睡觉的猫）。
-
----
-
 ## <a name="17"></a>17. 学习理论：从基本原理出发 
 <small>🔗 [di.ens.fr](https://www.di.ens.fr/~fbach/ltfp_book.pdf): Learning Theory from First Principles [pdf]</small>
 
 
-| 🔥🔥: 101 \| 💬: [11](https://news.ycombinator.com/item?id=43497954) \| 🗓️ 2025-03-27
+| 🔥🔥: 108 \| 💬: [12](https://news.ycombinator.com/item?id=43497954) \| 🗓️ 2025-03-27
 
 
 <br />
@@ -231,11 +231,35 @@ Continue推出**自定义AI代码助手**，通过组合模块化配置满足特
 
 ---
 
-## <a name="18"></a>18. NASA删除女性宇航员主题漫画引争议 
+## <a name="18"></a>18. 苹果II版《滑翔机》游戏重制发布 
+<small>🔗 [colino.net](https://www.colino.net/wordpress/en/glider-for-apple-ii/): Glider for Apple II</small>
+
+
+| 🔥🔥: 105 \| 💬: [22](https://news.ycombinator.com/item?id=43491977) \| 🗓️ 2025-03-27
+
+
+<br />
+作者为怀旧玩家复刻了90年代经典Mac游戏**《滑翔机》**，并移植到Apple II平台。这是其首次尝试用**6502汇编语言**开发游戏，过程虽艰难但最终成功。游戏支持Apple ][+及以上机型（部分需鼠标），推荐单色显示器以获得最佳体验。提供英文和保加利亚语版本下载，开发者还分享了技术日志。玩家反馈流畅度出色，尤其赞赏画面设计和彩蛋（如睡觉的猫）。
+
+---
+
+## <a name="19"></a>19. 构建自动布线工具前我希望知道的13件事 
+<small>🔗 [blog.autorouting.com](https://blog.autorouting.com/p/13-things-i-would-have-told-myself): Things I would have told myself before building an autorouter</small>
+
+
+| 🔥: 97 \| 💬: [19](https://news.ycombinator.com/item?id=43499992) \| 🗓️ 2025-03-27
+
+
+<br />
+作者花费一年时间开发TypeScript电子CAD内核的**自动布线工具**，总结出核心经验：**A*算法**是搜索问题的基石，远优于广度/深度优先搜索；语言选择不重要，关键在于**降低迭代次数**；空间哈希索引比四叉树等数据结构更高效。此外，可视化调试、避免递归函数、利用缓存及空间分区优化是关键。最后，通过调整**贪婪乘数**可大幅提升A*性能（牺牲部分最优性）。全文强调算法智能优于蛮力计算。
+
+---
+
+## <a name="20"></a>20. NASA删除女性宇航员主题漫画引争议 
 <small>🔗 [futurism.com](https://futurism.com/nasa-deletes-comic-women-astronauts): NASA Deletes Comic Book About How Women Can Be Astronauts</small>
 
 
-| 🔥: 94 \| 💬: [24](https://news.ycombinator.com/item?id=43497033) \| 🗓️ 2025-03-27
+| 🔥: 96 \| 💬: [24](https://news.ycombinator.com/item?id=43497033) \| 🗓️ 2025-03-27
 
 
 <br />
@@ -245,19 +269,19 @@ NASA近日从其官网删除了两部以**女性宇航员**为主题的漫画《
 
 ---
 
-## <a name="19"></a>19. 微软鼠标附赠的USB转PS/2适配器原理揭秘 
-<small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20250325-00/?p=110993): A note on the USB-to-PS/2 mouse adapter that came with Microsoft mouse devices</small>
+## <a name="21"></a>21. 提出好问题比给出完美答案更难 
+<small>🔗 [newsletter.dancohen.org](https://newsletter.dancohen.org/archive/asking-good-questions-is-harder-than-giving-great-answers/): Asking good questions is harder than giving great answers</small>
 
 
-| 🔥: 92 \| 💬: [16](https://news.ycombinator.com/item?id=43499823) \| 🗓️ 2025-03-27
+| 🔥: 93 \| 💬: [14](https://news.ycombinator.com/item?id=43498570) \| 🗓️ 2025-03-27
 
 
 <br />
-早期USB鼠标常附带绿色**机械式适配器**，仅通过引脚转换将USB-A接口转为PS/2接口，**无任何电路或协议转换功能**。实际信号处理由鼠标自身完成——其能自动检测接口类型并切换工作模式。类似国际插头转换器，**核心逻辑在终端设备**（鼠标）而非适配器。如今市售同类产品是否仍为纯机械设计尚不明确。
+当前评估AI智能的测试忽略了人类探究的核心——**问题本身**。作者以历史学博士身份参加“人类终极考试”却惨败，指出该测试过度偏重数学，历史题仅16道且内容冷僻（如海军战役）。尽管AI在**答案准确性**上进步显著（如识别古文手稿），但**博士级研究的核心是提出新颖问题**，例如“音乐会观众为何从喧闹转为安静？”这类问题能揭示深层历史变迁。AI能否提出**启发性的历史问题**而非仅提供答案，仍是未解之谜。
 
 ---
 
-## <a name="20"></a>20. Netlify部署数十万Next.js站点的挑战与突破 
+## <a name="22"></a>22. Netlify部署数十万Next.js站点的挑战与突破 
 <small>🔗 [netlify.com](https://www.netlify.com/blog/how-we-run-nextjs/): Netlify deploys hundreds of thousands of Next.js sites – here's what challenging</small>
 
 
@@ -269,11 +293,11 @@ Netlify团队分享了大规模部署**Next.js**站点的技术挑战，涉及**
 
 ---
 
-## <a name="21"></a>21. 亚马逊禁书分析：揭秘中东地区的审查机制（2024年） 
+## <a name="23"></a>23. 亚马逊禁书分析：揭秘中东地区的审查机制（2024年） 
 <small>🔗 [citizenlab.ca](https://citizenlab.ca/2024/11/analysis-of-censorship-on-amazon-com/): Banned Books: Analysis of Censorship on Amazon.com (2024)</small>
 
 
-| 🔥: 87 \| 💬: [38](https://news.ycombinator.com/item?id=43497264) \| 🗓️ 2025-03-27
+| 🔥: 89 \| 💬: [39](https://news.ycombinator.com/item?id=43497264) \| 🗓️ 2025-03-27
 
 
 <br />
@@ -281,19 +305,7 @@ Netlify团队分享了大规模部署**Next.js**站点的技术挑战，涉及**
 
 ---
 
-## <a name="22"></a>22. 提出好问题比给出完美答案更难 
-<small>🔗 [newsletter.dancohen.org](https://newsletter.dancohen.org/archive/asking-good-questions-is-harder-than-giving-great-answers/): Asking good questions is harder than giving great answers</small>
-
-
-| 🔥: 87 \| 💬: [11](https://news.ycombinator.com/item?id=43498570) \| 🗓️ 2025-03-27
-
-
-<br />
-当前评估AI智能的测试忽略了人类探究的核心——**问题本身**。作者以历史学博士身份参加“人类终极考试”却惨败，指出该测试过度偏重数学，历史题仅16道且内容冷僻（如海军战役）。尽管AI在**答案准确性**上进步显著（如识别古文手稿），但**博士级研究的核心是提出新颖问题**，例如“音乐会观众为何从喧闹转为安静？”这类问题能揭示深层历史变迁。AI能否提出**启发性的历史问题**而非仅提供答案，仍是未解之谜。
-
----
-
-## <a name="23"></a>23. 英国艾伦·图灵研究所为何陷入困境？ 
+## <a name="24"></a>24. 英国艾伦·图灵研究所为何陷入困境？ 
 <small>🔗 [chalmermagne.com](https://www.chalmermagne.com/p/how-not-to-build-an-ai-institute): What went wrong with the Alan Turing Institute?</small>
 
 
@@ -305,7 +317,7 @@ Netlify团队分享了大规模部署**Next.js**站点的技术挑战，涉及**
 
 ---
 
-## <a name="24"></a>24. 美国医学会如何压榨医生 
+## <a name="25"></a>25. 美国医学会如何压榨医生 
 <small>🔗 [thebignewsletter.com](https://www.thebignewsletter.com/p/how-the-american-medical-association): How the American Medical Association Screws Doctors</small>
 
 
@@ -314,17 +326,5 @@ Netlify团队分享了大规模部署**Next.js**站点的技术挑战，涉及**
 
 <br />
 美国医学会（AMA）通过政府授予的**CPT编码垄断权**，向医疗软件公司收取高额版权费，最终转嫁给医生。这些编码是医保报销的必备标准，但AMA却将其私有化并从中获利3亿美元/年，导致医生负担加重。**AMA收入62%来自版权费**，而会员会费持续下降，反映其已从医生代表沦为利益集团。政府可改用免费编码系统（如ICD），但AMA通过政治游说维持垄断，甚至对质疑者采取法律行动。这种制度加剧了医疗行业的企业化，迫使独立执业医生陷入困境。
-
----
-
-## <a name="25"></a>25. 无参KV缓存压缩技术：高效内存的长上下文大模型优化 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2503.10714): Parameter-free KV cache compression for memory-efficient long-context LLMs</small>
-
-
-| 🔥: 63 \| 💬: [14](https://news.ycombinator.com/item?id=43496244) \| 🗓️ 2025-03-27
-
-
-<br />
-该研究提出**ZeroMerge**框架，通过**动态零样本压缩**解决大语言模型长上下文处理中的KV缓存内存线性增长问题。其核心创新包括：**细粒度内存分配**、**残差合并机制**保留关键上下文，以及**无需参数微调**的架构兼容性。实验显示，在40K长文本下，该方法能以5%压缩率保持性能，同时提升推理速度一倍，显著平衡了内存效率与生成质量。代码已开源。
 
 ---
