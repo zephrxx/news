@@ -10,13 +10,13 @@ tags:
 
 1. 我向警方索要监控中自己车辆的公共录像；
 1. 我们攻破Gemini的Python沙箱并泄露了部分源代码；
-1. 东南亚发生7.7级地震 缅甸泰国受灾；
 1. 喀拉拉邦如何成为印度最富裕的邦；
 1. 如何写出受开发者欢迎的技术博客；
+1. 东南亚发生7.7级地震 缅甸泰国受灾；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共17条，具体内容您往下读...
+总共23条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cardinalnews.org](https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/): I asked police to send me their public surveillance footage of my car</small>
 
 
-| 🔥🔥: 443 \| 💬: [361](https://news.ycombinator.com/item?id=43504413) \| 🗓️ 2025-03-28
+| 🔥🔥: 455 \| 💬: [376](https://news.ycombinator.com/item?id=43504413) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [landh.tech](https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/): We hacked Gemini's Python sandbox and leaked its source code (at least some)</small>
 
 
-| 🔥🔥: 253 \| 💬: [54](https://news.ycombinator.com/item?id=43508418) \| 🗓️ 2025-03-28
+| 🔥🔥: 299 \| 💬: [64](https://news.ycombinator.com/item?id=43508418) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -47,23 +47,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 东南亚发生7.7级地震 缅甸泰国受灾 
-<small>🔗 [twitter.com](https://twitter.com/TaraBull808/status/1905534938558157139): 7.7 magnitude earthquake hits Southeast Asia, affecting Myanmar and Thailand</small>
-
-
-| 🔥🔥: 244 \| 💬: [89](https://news.ycombinator.com/item?id=43503265) \| 🗓️ 2025-03-28
-
-
-<br />
-内容显示网页因**JavaScript未启用**无法加载，提示用户启用浏览器JavaScript功能或更换支持的浏览器，并列出了相关帮助链接。此外，页面还提到某些**隐私扩展**可能导致访问异常，建议临时禁用后重试。全文未提及地震具体灾情，仅包含技术故障提示信息。
-
----
-
-## <a name="4"></a>4. 喀拉拉邦如何成为印度最富裕的邦 
+## <a name="3"></a>3. 喀拉拉邦如何成为印度最富裕的邦 
 <small>🔗 [aeon.co](https://aeon.co/essays/how-did-kerala-go-from-poor-to-prosperous-among-indias-states): How Kerala got rich</small>
 
 
-| 🔥🔥: 244 \| 💬: [138](https://news.ycombinator.com/item?id=43507286) \| 🗓️ 2025-03-28
+| 🔥🔥: 262 \| 💬: [154](https://news.ycombinator.com/item?id=43507286) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -71,11 +59,11 @@ tags:
 
 ---
 
-## <a name="5"></a>5. 如何写出受开发者欢迎的技术博客 
+## <a name="4"></a>4. 如何写出受开发者欢迎的技术博客 
 <small>🔗 [refactoringenglish.com](https://refactoringenglish.com/chapters/write-blog-posts-developers-read/): How to Write Blog Posts that Developers Read</small>
 
 
-| 🔥🔥: 230 \| 💬: [84](https://news.ycombinator.com/item?id=43503872) \| 🗓️ 2025-03-28
+| 🔥🔥: 252 \| 💬: [94](https://news.ycombinator.com/item?id=43503872) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -83,11 +71,23 @@ tags:
 
 ---
 
+## <a name="5"></a>5. 东南亚发生7.7级地震 缅甸泰国受灾 
+<small>🔗 [twitter.com](https://twitter.com/TaraBull808/status/1905534938558157139): 7.7 magnitude earthquake hits Southeast Asia, affecting Myanmar and Thailand</small>
+
+
+| 🔥🔥: 249 \| 💬: [91](https://news.ycombinator.com/item?id=43503265) \| 🗓️ 2025-03-28
+
+
+<br />
+内容显示网页因**JavaScript未启用**无法加载，提示用户启用浏览器JavaScript功能或更换支持的浏览器，并列出了相关帮助链接。此外，页面还提到某些**隐私扩展**可能导致访问异常，建议临时禁用后重试。全文未提及地震具体灾情，仅包含技术故障提示信息。
+
+---
+
 ## <a name="6"></a>6. 欧盟强制苹果放弃AWDL：跨平台Wi-Fi直连时代来临 
 <small>🔗 [ditto.com](https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl): Cross-Platform P2P Wi-Fi: How the EU Killed AWDL</small>
 
 
-| 🔥🔥: 154 \| 💬: [81](https://news.ycombinator.com/item?id=43505022) \| 🗓️ 2025-03-28
+| 🔥🔥: 161 \| 💬: [88](https://news.ycombinator.com/item?id=43505022) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -95,23 +95,11 @@ tags:
 
 ---
 
-## <a name="7"></a>7. 学会编程，无视AI，然后用AI让编程更高效 
-<small>🔗 [kyrylo.org](https://kyrylo.org/software/2025/03/27/learn-to-code-ignore-ai-then-use-ai-to-code-even-better.html): Learn to code, ignore AI, then use AI to code even better</small>
-
-
-| 🔥🔥: 141 \| 💬: [133](https://news.ycombinator.com/item?id=43503295) \| 🗓️ 2025-03-28
-
-
-<br />
-作者反思了AI对编程的影响。尽管Replit CEO认为学习编程已过时，但作者强调**基础编程技能**仍是核心。AI虽能提升效率，但过度依赖会导致**失去对代码的理解**，陷入被AI供应商控制的循环。他建议新手先掌握编程基础，再合理利用AI工具。若AI消失，懂编程的人仍能工作，而仅靠“氛围编程”的人将面临淘汰风险。关键在于平衡：**学习编程**是根本，AI是辅助。
-
----
-
-## <a name="8"></a>8. 日本科学家研发出可在一夜之间溶于海水的新型塑料 
+## <a name="7"></a>7. 日本科学家研发出可在一夜之间溶于海水的新型塑料 
 <small>🔗 [newatlas.com](https://newatlas.com/materials/plastic-dissolves-ocean-overnight-no-microplastics/): Japanese scientists create new plastic that dissolves in saltwater overnight</small>
 
 
-| 🔥🔥: 129 \| 💬: [81](https://news.ycombinator.com/item?id=43505626) \| 🗓️ 2025-03-28
+| 🔥🔥: 146 \| 💬: [84](https://news.ycombinator.com/item?id=43505626) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -119,11 +107,23 @@ tags:
 
 ---
 
+## <a name="8"></a>8. 学会编程，无视AI，然后用AI让编程更高效 
+<small>🔗 [kyrylo.org](https://kyrylo.org/software/2025/03/27/learn-to-code-ignore-ai-then-use-ai-to-code-even-better.html): Learn to code, ignore AI, then use AI to code even better</small>
+
+
+| 🔥🔥: 142 \| 💬: [135](https://news.ycombinator.com/item?id=43503295) \| 🗓️ 2025-03-28
+
+
+<br />
+作者反思了AI对编程的影响。尽管Replit CEO认为学习编程已过时，但作者强调**基础编程技能**仍是核心。AI虽能提升效率，但过度依赖会导致**失去对代码的理解**，陷入被AI供应商控制的循环。他建议新手先掌握编程基础，再合理利用AI工具。若AI消失，懂编程的人仍能工作，而仅靠“氛围编程”的人将面临淘汰风险。关键在于平衡：**学习编程**是根本，AI是辅助。
+
+---
+
 ## <a name="9"></a>9. 亚马逊和李维斯官网的Levi's牛仔裤有区别吗？ 
 <small>🔗 [nymag.com](https://nymag.com/strategist/article/levis-amazon-jeans-testing.html): Are Levi's from Amazon different from Levi's from Levi's?</small>
 
 
-| 🔥🔥: 116 \| 💬: [113](https://news.ycombinator.com/item?id=43504451) \| 🗓️ 2025-03-28
+| 🔥🔥: 123 \| 💬: [118](https://news.ycombinator.com/item?id=43504451) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -135,7 +135,7 @@ tags:
 <small>🔗 [caryinstitute.org](https://www.caryinstitute.org/news-insights/press-release/getting-hit-lightning-good-some-tropical-trees): Getting hit by lightning is good for some tropical trees</small>
 
 
-| 🔥🔥: 113 \| 💬: [54](https://news.ycombinator.com/item?id=43505447) \| 🗓️ 2025-03-28
+| 🔥🔥: 118 \| 💬: [56](https://news.ycombinator.com/item?id=43505447) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -147,7 +147,7 @@ tags:
 <small>🔗 [e360.yale.edu](https://e360.yale.edu/digest/europe-russia-ukraine-war-natural-gas-2024): Despite Ukraine war, Europe imported even more Russian gas last year</small>
 
 
-| 🔥: 95 \| 💬: [120](https://news.ycombinator.com/item?id=43505700) \| 🗓️ 2025-03-28
+| 🔥: 98 \| 💬: [122](https://news.ycombinator.com/item?id=43505700) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -159,7 +159,7 @@ tags:
 <small>🔗 [transformer-circuits.pub](https://transformer-circuits.pub/2025/attribution-graphs/biology.html): The Biology of a Large Language Model</small>
 
 
-| 🔥: 95 \| 💬: [17](https://news.ycombinator.com/item?id=43505748) \| 🗓️ 2025-03-28
+| 🔥: 98 \| 💬: [17](https://news.ycombinator.com/item?id=43505748) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -171,7 +171,7 @@ tags:
 <small>🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/): Decomposing a Factorial into Large Factors</small>
 
 
-| 🔥: 91 \| 💬: [20](https://news.ycombinator.com/item?id=43506238) \| 🗓️ 2025-03-28
+| 🔥: 94 \| 💬: [20](https://news.ycombinator.com/item?id=43506238) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -183,7 +183,7 @@ tags:
 <small>🔗 [github.com](https://github.com/agsb/milliForth-6502): MilliForth-6502: The smallest Forth real programming language for 6502</small>
 
 
-| 🔥: 89 \| 💬: [20](https://news.ycombinator.com/item?id=43503897) \| 🗓️ 2025-03-28
+| 🔥: 91 \| 💬: [23](https://news.ycombinator.com/item?id=43503897) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -195,7 +195,7 @@ tags:
 <small>🔗 [wired.com](https://www.wired.com/story/doge-rebuild-social-security-administration-cobol-benefits/): Doge Plans to Rebuild SSA Codebase in Months</small>
 
 
-| 🔥: 85 \| 💬: [104](https://news.ycombinator.com/item?id=43505659) \| 🗓️ 2025-03-28
+| 🔥: 91 \| 💬: [107](https://news.ycombinator.com/item?id=43505659) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -203,11 +203,23 @@ tags:
 
 ---
 
-## <a name="16"></a>16. GitHub Actions 中的磁盘 I/O 瓶颈分析 
+## <a name="16"></a>16. 使用Zig和CGO构建静态链接的Go可执行文件 
+<small>🔗 [calabro.io](https://calabro.io/zig-cgo): Building Statically Linked Go Executables with CGO and Zig</small>
+
+
+| 🔥: 83 \| 💬: [12](https://news.ycombinator.com/item?id=43505646) \| 🗓️ 2025-03-28
+
+
+<br />
+本文介绍了如何通过**Zig工具链**和**CGO**生成静态链接的Go程序，避免动态库的运行时依赖问题。作者演示了用Zig创建静态库（精简`build.zig`配置并导出C接口函数），再通过Go调用该库时强制静态链接（关键编译参数包括`-static`和指定Zig为交叉编译器）。最终生成的二进制文件经`ldd`验证无动态依赖，实现了跨平台部署的可靠性。文中强调了**Zig的跨平台能力**与**Go的简洁性**结合的高效工作流。
+
+---
+
+## <a name="17"></a>17. GitHub Actions 中的磁盘 I/O 瓶颈分析 
 <small>🔗 [depot.dev](https://depot.dev/blog/uncovering-disk-io-bottlenecks-github-actions-ci): Disk I/O bottlenecks in GitHub Actions</small>
 
 
-| 🔥: 78 \| 💬: [52](https://news.ycombinator.com/item?id=43506574) \| 🗓️ 2025-03-28
+| 🔥: 82 \| 💬: [63](https://news.ycombinator.com/item?id=43506574) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -215,14 +227,74 @@ tags:
 
 ---
 
-## <a name="17"></a>17. 使用Zig和CGO构建静态链接的Go可执行文件 
-<small>🔗 [calabro.io](https://calabro.io/zig-cgo): Building Statically Linked Go Executables with CGO and Zig</small>
+## <a name="18"></a>18. iPhone用户现可将WhatsApp设为默认通话和短信应用 
+<small>🔗 [theverge.com](https://www.theverge.com/news/637489/iphone-whatsapp-default-calling-texting-app): iPhone users can now set WhatsApp as their default calling and texting app</small>
 
 
-| 🔥: 77 \| 💬: [12](https://news.ycombinator.com/item?id=43505646) \| 🗓️ 2025-03-28
+| 🔥: 77 \| 💬: [71](https://news.ycombinator.com/item?id=43503779) \| 🗓️ 2025-03-28
 
 
 <br />
-本文介绍了如何通过**Zig工具链**和**CGO**生成静态链接的Go程序，避免动态库的运行时依赖问题。作者演示了用Zig创建静态库（精简`build.zig`配置并导出C接口函数），再通过Go调用该库时强制静态链接（关键编译参数包括`-static`和指定Zig为交叉编译器）。最终生成的二进制文件经`ldd`验证无动态依赖，实现了跨平台部署的可靠性。文中强调了**Zig的跨平台能力**与**Go的简洁性**结合的高效工作流。
+最新版**WhatsApp 25.8.74**更新后，用户可在iPhone的**默认应用设置**中选择将其作为通话和短信的默认应用。此前该功能仅限欧盟用户，但苹果确认**iOS 18.2**将向全球开放。设置路径为：设置 > 应用 > 默认应用，选择后点击号码或联系人时将自动跳转至WhatsApp。
+
+---
+
+## <a name="19"></a>19. 没有人应该成为“内容创作者” 
+<small>🔗 [christianheilmann.com](https://christianheilmann.com/2025/03/12/nobody-should-be-a-content-creator/): Nobody should be a "content creator"</small>
+
+
+| 🔥: 67 \| 💬: [43](https://news.ycombinator.com/item?id=43504322) \| 🗓️ 2025-03-28
+
+
+<br />
+作者批评当前**社交媒体平台**已沦为追求点击量和互动的数字游戏，**低质量内容**和AI生成的垃圾信息泛滥。平台规则鼓励短期情绪刺激，而非真正的创作或交流。他拒绝“数字创作者”标签，认为创作应源于热爱与思考，而非为算法服务。文中强调，**真正的价值**在于创造能带来快乐或启发的内容，而非追逐流量或被动收入。作者呼吁回归创作本质，拒绝被平台规则和AI工具异化。
+
+---
+
+## <a name="20"></a>20. 《爵士乐的“盗版圣经”：Real Book传奇》 
+<small>🔗 [99percentinvisible.org](https://99percentinvisible.org/episode/the-real-book/): The Real Book (2021)</small>
+
+
+| 🔥: 65 \| 💬: [16](https://news.ycombinator.com/item?id=43507404) \| 🗓️ 2025-03-28
+
+
+<br />
+自20世纪70年代起，**Real Book**——一本手工誊写、非法流传的爵士乐谱集——成为全球爵士音乐家的“地下宝典”。它由两名伯克利音乐学院学生秘密编撰，收录了现代爵士经典曲目及重新编配的和弦，以美观的手写体和复古封面迅速风靡。尽管音乐出版商长期抵制，其盗版副本仍席卷全球，直至2004年才由Hal Leonard推出合法版本。争议始终存在：有人认为它**简化了爵士乐的即兴精髓**，也有人视其为入门必备工具。这本书的故事，折射了爵士乐从街头艺术走向学院派的时代变迁。
+
+---
+
+## <a name="21"></a>21. Hexi：现代C++轻量级二进制网络序列化库 
+<small>🔗 [github.com](https://github.com/EmberEmu/Hexi): Show HN: Hexi – Modern header-only network binary serialisation for C++</small>
+
+
+| 🔥: 61 \| 💬: [24](https://news.ycombinator.com/item?id=43508061) \| 🗓️ 2025-03-28
+
+
+<br />
+Hexi是一个**仅头文件**的C++23库，专注于安全处理二进制数据（尤其是网络数据）。它介于手动内存拷贝和重量级序列化库之间，强调**易用性**、**安全性**和低开销。支持标准容器（如`std::vector`、`std::span`）及自定义容器，提供边界检查、错误处理（异常或无异常模式）和端序转换功能。通过`buffer_adaptor`和`binary_stream`核心类实现读写操作，适用于需要高效处理网络消息的场景。额外提供文件缓冲、静态/动态缓冲池等实用工具，适合高性能网络编程。
+
+---
+
+## <a name="22"></a>22. 论暴政：历史教训与当代抵抗指南 
+<small>🔗 [timothysnyder.org](https://timothysnyder.org/on-tyranny): On Tyranny [book]</small>
+
+
+| 🔥: 55 \| 💬: [18](https://news.ycombinator.com/item?id=43503004) \| 🗓️ 2025-03-28
+
+
+<br />
+历史学家蒂莫西·斯奈德的《论暴政》以20世纪法西斯主义、纳粹和共产主义的黑暗历史为镜，提出20条抵抗现代威权主义的行动准则。书中强调**警惕符号的滥用**、**独立调查真相**、**捍卫语言尊严**等关键原则，警告公民避免**预先服从**的陷阱。图文版通过视觉叙事强化了历史警示，呼吁人们成为清醒、主动的抵抗者。这部畅销书被誉为“紧迫时代的生存手册”，将历史洞察转化为对抗不公的实用智慧。
+
+---
+
+## <a name="23"></a>23. B级片怪物的生物学解析（2003） 
+<small>🔗 [fathom.lib.uchicago.edu](https://fathom.lib.uchicago.edu/2/21701757/): The Biology of B-Movie Monsters (2003)</small>
+
+
+| 🔥: 48 \| 💬: [29](https://news.ycombinator.com/item?id=43505334) \| 🗓️ 2025-03-28
+
+
+<br />
+本文以1950年代经典B级怪兽电影为例，探讨**体型缩放**对生物学的真实影响。作者指出，好莱坞常忽视几何规律：当物体尺寸变化时，**体积**（立方）比**表面积**（平方）增长更快，导致力量、代谢等生理特性失衡。例如，《不可思议的收缩人》若缩小70倍，其相对力量会增强70倍，但需持续进食维持体温；而《神奇旅程》的微缩船员则会受**布朗运动**剧烈干扰。这些科学原理揭示了怪物设定的荒谬与趣味。
 
 ---
