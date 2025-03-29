@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cardinalnews.org](https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/): I asked police to send me their public surveillance footage of my car</small>
 
 
-| 🔥🔥: 539 \| 💬: [428](https://news.ycombinator.com/item?id=43504413) \| 🗓️ 2025-03-28
+| 🔥🔥: 547 \| 💬: [433](https://news.ycombinator.com/item?id=43504413) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/elonmusk/status/1905731750275510312): xAI has acquired X, xAI now valued at $80B</small>
 
 
-| 🔥🔥: 504 \| 💬: [601](https://news.ycombinator.com/item?id=43509923) \| 🗓️ 2025-03-28
+| 🔥🔥: 528 \| 💬: [653](https://news.ycombinator.com/item?id=43509923) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [landh.tech](https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/): We hacked Gemini's Python sandbox and leaked its source code (at least some)</small>
 
 
-| 🔥🔥: 458 \| 💬: [94](https://news.ycombinator.com/item?id=43508418) \| 🗓️ 2025-03-28
+| 🔥🔥: 471 \| 💬: [97](https://news.ycombinator.com/item?id=43508418) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [refactoringenglish.com](https://refactoringenglish.com/chapters/write-blog-posts-developers-read/): How to write blog posts that developers read</small>
 
 
-| 🔥🔥: 361 \| 💬: [120](https://news.ycombinator.com/item?id=43503872) \| 🗓️ 2025-03-28
+| 🔥🔥: 378 \| 💬: [123](https://news.ycombinator.com/item?id=43503872) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [aeon.co](https://aeon.co/essays/how-did-kerala-go-from-poor-to-prosperous-among-indias-states): How Kerala got rich</small>
 
 
-| 🔥🔥: 330 \| 💬: [200](https://news.ycombinator.com/item?id=43507286) \| 🗓️ 2025-03-28
+| 🔥🔥: 341 \| 💬: [210](https://news.ycombinator.com/item?id=43507286) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/TaraBull808/status/1905534938558157139): 7.7 magnitude earthquake hits Southeast Asia, affecting Myanmar and Thailand</small>
 
 
-| 🔥🔥: 261 \| 💬: [95](https://news.ycombinator.com/item?id=43503265) \| 🗓️ 2025-03-28
+| 🔥🔥: 262 \| 💬: [95](https://news.ycombinator.com/item?id=43503265) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [ditto.com](https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl): Cross-Platform P2P Wi-Fi: How the EU Killed AWDL</small>
 
 
-| 🔥🔥: 191 \| 💬: [115](https://news.ycombinator.com/item?id=43505022) \| 🗓️ 2025-03-28
+| 🔥🔥: 192 \| 💬: [117](https://news.ycombinator.com/item?id=43505022) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [newatlas.com](https://newatlas.com/materials/plastic-dissolves-ocean-overnight-no-microplastics/): Japanese scientists create new plastic that dissolves in saltwater overnight</small>
 
 
-| 🔥🔥: 161 \| 💬: [102](https://news.ycombinator.com/item?id=43505626) \| 🗓️ 2025-03-28
+| 🔥🔥: 163 \| 💬: [102](https://news.ycombinator.com/item?id=43505626) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -123,7 +123,7 @@ tags:
 <small>🔗 [pugetsystems.com](https://www.pugetsystems.com/blog/2025/03/28/2025-tariff-impacts-at-puget-systems/): 2025 Tariff Impacts at Puget Systems</small>
 
 
-| 🔥🔥: 157 \| 💬: [120](https://news.ycombinator.com/item?id=43510870) \| 🗓️ 2025-03-28
+| 🔥🔥: 161 \| 💬: [121](https://news.ycombinator.com/item?id=43510870) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -135,7 +135,7 @@ Puget Systems以透明为核心原则，剖析了当前**关税**对计算机行
 <small>🔗 [kyrylo.org](https://kyrylo.org/software/2025/03/27/learn-to-code-ignore-ai-then-use-ai-to-code-even-better.html): Learn to code, ignore AI, then use AI to code even better</small>
 
 
-| 🔥🔥: 146 \| 💬: [139](https://news.ycombinator.com/item?id=43503295) \| 🗓️ 2025-03-28
+| 🔥🔥: 146 \| 💬: [140](https://news.ycombinator.com/item?id=43503295) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -143,35 +143,11 @@ Puget Systems以透明为核心原则，剖析了当前**关税**对计算机行
 
 ---
 
-## <a name="11"></a>11. 亚马逊和李维斯官网的Levi's牛仔裤有区别吗？ 
-<small>🔗 [nymag.com](https://nymag.com/strategist/article/levis-amazon-jeans-testing.html): Are Levi's from Amazon different from Levi's from Levi's?</small>
-
-
-| 🔥🔥: 141 \| 💬: [131](https://news.ycombinator.com/item?id=43504451) \| 🗓️ 2025-03-28
-
-
-<br />
-《The Strategist》通过实验对比发现，**同一款Levi's牛仔裤在亚马逊和李维斯官网的版本存在细微差异**，主要体现在**面料手感和染色效果**上（如亚马逊的Ribcage牛仔裤颜色更均匀，而官网款有酸洗痕迹）。但实验室测试表明，**质量并无显著差距**，甚至亚马逊款在某些指标上略优。差异源于Levi's全球供应链中不同工厂的工艺波动，而非刻意降低品质。专家建议，若追求一致性，可选择小众品牌，但普通消费者无需过度担忧。
-
----
-
-## <a name="12"></a>12. Swiftly 1.0 正式发布：轻松管理 Swift 工具链 
-<small>🔗 [swift.org](https://swift.org/blog/introducing-swiftly_10/): Swiftly 1.0</small>
-
-
-| 🔥🔥: 138 \| 💬: [49](https://news.ycombinator.com/item?id=43509546) \| 🗓️ 2025-03-28
-
-
-<br />
-Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift 工具链的安装、管理和更新流程。它支持 **macOS 和 Linux**，可独立于 Xcode 安装 Swift，并允许用户切换不同版本（包括稳定版和快照版）。通过 `.swift-version` 文件，团队可统一工具链版本。Swiftly 由 Swift 编写，具备自更新能力，并利用 **libarchive** 处理压缩文件。现已成为 Swift 官方工具链的一部分，适合开发者和 CI/CD 环境使用。
-
----
-
-## <a name="13"></a>13. 微软将强制要求Win11用户联网登录账户 
+## <a name="11"></a>11. 微软将强制要求Win11用户联网登录账户 
 <small>🔗 [theverge.com](https://www.theverge.com/news/638967/microsoft-windows-11-account-internet-bypass-blocked): Windows 11 is closing a loophole that let you skip making a Microsoft account</small>
 
 
-| 🔥🔥: 134 \| 💬: [125](https://news.ycombinator.com/item?id=43511073) \| 🗓️ 2025-03-28
+| 🔥🔥: 145 \| 💬: [132](https://news.ycombinator.com/item?id=43511073) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -179,11 +155,35 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 
 ---
 
+## <a name="12"></a>12. Swiftly 1.0 正式发布：轻松管理 Swift 工具链 
+<small>🔗 [swift.org](https://swift.org/blog/introducing-swiftly_10/): Swiftly 1.0</small>
+
+
+| 🔥🔥: 144 \| 💬: [49](https://news.ycombinator.com/item?id=43509546) \| 🗓️ 2025-03-28
+
+
+<br />
+Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift 工具链的安装、管理和更新流程。它支持 **macOS 和 Linux**，可独立于 Xcode 安装 Swift，并允许用户切换不同版本（包括稳定版和快照版）。通过 `.swift-version` 文件，团队可统一工具链版本。Swiftly 由 Swift 编写，具备自更新能力，并利用 **libarchive** 处理压缩文件。现已成为 Swift 官方工具链的一部分，适合开发者和 CI/CD 环境使用。
+
+---
+
+## <a name="13"></a>13. 亚马逊和李维斯官网的Levi's牛仔裤有区别吗？ 
+<small>🔗 [nymag.com](https://nymag.com/strategist/article/levis-amazon-jeans-testing.html): Are Levi's from Amazon different from Levi's from Levi's?</small>
+
+
+| 🔥🔥: 142 \| 💬: [131](https://news.ycombinator.com/item?id=43504451) \| 🗓️ 2025-03-28
+
+
+<br />
+《The Strategist》通过实验对比发现，**同一款Levi's牛仔裤在亚马逊和李维斯官网的版本存在细微差异**，主要体现在**面料手感和染色效果**上（如亚马逊的Ribcage牛仔裤颜色更均匀，而官网款有酸洗痕迹）。但实验室测试表明，**质量并无显著差距**，甚至亚马逊款在某些指标上略优。差异源于Levi's全球供应链中不同工厂的工艺波动，而非刻意降低品质。专家建议，若追求一致性，可选择小众品牌，但普通消费者无需过度担忧。
+
+---
+
 ## <a name="14"></a>14. 闪电竟对某些热带树木有益 
 <small>🔗 [caryinstitute.org](https://www.caryinstitute.org/news-insights/press-release/getting-hit-lightning-good-some-tropical-trees): Getting hit by lightning is good for some tropical trees</small>
 
 
-| 🔥🔥: 126 \| 💬: [60](https://news.ycombinator.com/item?id=43505447) \| 🗓️ 2025-03-28
+| 🔥🔥: 128 \| 💬: [61](https://news.ycombinator.com/item?id=43505447) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -191,7 +191,19 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 
 ---
 
-## <a name="15"></a>15. 使用Zig和CGO构建静态链接的Go可执行文件 
+## <a name="15"></a>15. iCloud邮件DNS配置有误？ 
+<small>🔗 [mail-tester.com](https://www.mail-tester.com/test-p3tdhnk3o): iCloud Mail has DNS misconfigured?</small>
+
+
+| 🔥🔥: 118 \| 💬: [38](https://news.ycombinator.com/item?id=43511464) \| 🗓️ 2025-03-28
+
+
+<br />
+邮件测试显示，iCloud邮件服务器（`p00-icloudmta-asmtp-vip.icloud-mail-production`）的**SPF记录**存在**HELO软失败**（softfail），但整体SPF验证通过。DKIM签名有效，DMARC策略为通过。邮件内容无垃圾标记，但URIBL查询被拦截（可能因查询过多）。发件IP（57.103.88.93）归属Apple，邮件通过TLS加密传输。**关键问题**在于DNS配置的HELO验证不匹配，可能影响邮件可信度。
+
+---
+
+## <a name="16"></a>16. 使用Zig和CGO构建静态链接的Go可执行文件 
 <small>🔗 [calabro.io](https://calabro.io/zig-cgo): Building Statically Linked Go Executables with CGO and Zig</small>
 
 
@@ -203,11 +215,11 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 
 ---
 
-## <a name="16"></a>16. 数字回响与不安的心灵 
+## <a name="17"></a>17. 数字回响与不安的心灵 
 <small>🔗 [chrbutler.com](https://www.chrbutler.com/digital-echoes-and-unquiet-minds): Digital Echoes and Unquiet Minds</small>
 
 
-| 🔥🔥: 106 \| 💬: [62](https://news.ycombinator.com/item?id=43509548) \| 🗓️ 2025-03-28
+| 🔥🔥: 112 \| 💬: [63](https://news.ycombinator.com/item?id=43509548) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -215,27 +227,15 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 
 ---
 
-## <a name="17"></a>17. iCloud邮件DNS配置有误？ 
-<small>🔗 [mail-tester.com](https://www.mail-tester.com/test-p3tdhnk3o): iCloud Mail has DNS misconfigured?</small>
+## <a name="18"></a>18. 麦迪逊广场花园因T恤设计永久封杀球迷，当事人甚至未穿该T恤入场 
+<small>🔗 [theverge.com](https://www.theverge.com/news/637228/madison-square-garden-james-dolan-facial-recognition-fan-ban): Madison Square Garden's surveillance banned this fan over his T-shirt design</small>
 
 
-| 🔥🔥: 106 \| 💬: [32](https://news.ycombinator.com/item?id=43511464) \| 🗓️ 2025-03-28
-
-
-<br />
-邮件测试显示，iCloud邮件服务器（`p00-icloudmta-asmtp-vip.icloud-mail-production`）的**SPF记录**存在**HELO软失败**（softfail），但整体SPF验证通过。DKIM签名有效，DMARC策略为通过。邮件内容无垃圾标记，但URIBL查询被拦截（可能因查询过多）。发件IP（57.103.88.93）归属Apple，邮件通过TLS加密传输。**关键问题**在于DNS配置的HELO验证不匹配，可能影响邮件可信度。
-
----
-
-## <a name="18"></a>18. 大型语言模型的生物学机制解析 
-<small>🔗 [transformer-circuits.pub](https://transformer-circuits.pub/2025/attribution-graphs/biology.html): The Biology of a Large Language Model</small>
-
-
-| 🔥🔥: 103 \| 💬: [18](https://news.ycombinator.com/item?id=43505748) \| 🗓️ 2025-03-28
+| 🔥🔥: 108 \| 💬: [36](https://news.ycombinator.com/item?id=43511340) \| 🗓️ 2025-03-28
 
 
 <br />
-该研究通过**电路追踪方法**揭示了Claude 3.5 Haiku模型的内部工作机制，类比生物学中显微镜观察细胞的方式，将模型的**特征**视为基本计算单元。研究发现模型具备多步推理、诗歌创作预规划、多语言混合电路等复杂能力，并通过扰动实验验证机制。工具虽仅能解析部分案例，但为理解黑箱模型提供了新视角，如识别诊断逻辑、幻觉成因及越狱攻击原理。研究强调**抽象特征交互**和**局部替代模型**的局限性，为AI可解释性领域奠定基础。
+一名球迷因多年前设计的**"Ban Dolan"（抵制多兰）**T恤被麦迪逊广场花园（MSG）的**人脸识别系统**识别并永久禁止进入其旗下所有场馆。尽管他本人未穿此T恤，也未参与2021年相关事件，但系统仍通过社交媒体的关联将其列入黑名单。MSG称其行为"违反行为准则"，但未明确回应是否使用人脸识别。此事引发对**监控技术滥用**的争议，凸显企业如何利用数据追踪并惩罚批评者。
 
 ---
 
@@ -243,7 +243,7 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 <small>🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/): Decomposing a Factorial into Large Factors</small>
 
 
-| 🔥🔥: 103 \| 💬: [23](https://news.ycombinator.com/item?id=43506238) \| 🗓️ 2025-03-28
+| 🔥🔥: 106 \| 💬: [24](https://news.ycombinator.com/item?id=43506238) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -255,7 +255,7 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 <small>🔗 [github.com](https://github.com/agsb/milliForth-6502): MilliForth-6502: The smallest Forth real programming language for 6502</small>
 
 
-| 🔥🔥: 101 \| 💬: [29](https://news.ycombinator.com/item?id=43503897) \| 🗓️ 2025-03-28
+| 🔥🔥: 103 \| 💬: [30](https://news.ycombinator.com/item?id=43503897) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -263,11 +263,23 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 
 ---
 
-## <a name="21"></a>21. 尽管俄乌冲突持续，欧洲去年却进口了更多俄罗斯天然气 
+## <a name="21"></a>21. 大型语言模型的生物学机制解析 
+<small>🔗 [transformer-circuits.pub](https://transformer-circuits.pub/2025/attribution-graphs/biology.html): The Biology of a Large Language Model</small>
+
+
+| 🔥🔥: 103 \| 💬: [18](https://news.ycombinator.com/item?id=43505748) \| 🗓️ 2025-03-28
+
+
+<br />
+该研究通过**电路追踪方法**揭示了Claude 3.5 Haiku模型的内部工作机制，类比生物学中显微镜观察细胞的方式，将模型的**特征**视为基本计算单元。研究发现模型具备多步推理、诗歌创作预规划、多语言混合电路等复杂能力，并通过扰动实验验证机制。工具虽仅能解析部分案例，但为理解黑箱模型提供了新视角，如识别诊断逻辑、幻觉成因及越狱攻击原理。研究强调**抽象特征交互**和**局部替代模型**的局限性，为AI可解释性领域奠定基础。
+
+---
+
+## <a name="22"></a>22. 尽管俄乌冲突持续，欧洲去年却进口了更多俄罗斯天然气 
 <small>🔗 [e360.yale.edu](https://e360.yale.edu/digest/europe-russia-ukraine-war-natural-gas-2024): Despite Ukraine war, Europe imported even more Russian gas last year</small>
 
 
-| 🔥🔥: 101 \| 💬: [124](https://news.ycombinator.com/item?id=43505700) \| 🗓️ 2025-03-28
+| 🔥🔥: 102 \| 💬: [124](https://news.ycombinator.com/item?id=43505700) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -275,11 +287,11 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 
 ---
 
-## <a name="22"></a>22. 《爵士乐的“盗版圣经”：Real Book传奇》 
+## <a name="23"></a>23. 《爵士乐的“盗版圣经”：Real Book传奇》 
 <small>🔗 [99percentinvisible.org](https://99percentinvisible.org/episode/the-real-book/): The Real Book (2021)</small>
 
 
-| 🔥: 98 \| 💬: [23](https://news.ycombinator.com/item?id=43507404) \| 🗓️ 2025-03-28
+| 🔥🔥: 102 \| 💬: [23](https://news.ycombinator.com/item?id=43507404) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -287,7 +299,7 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 
 ---
 
-## <a name="23"></a>23. 美国社保局拟数月内用Java替换COBOL系统引担忧 
+## <a name="24"></a>24. 美国社保局拟数月内用Java替换COBOL系统引担忧 
 <small>🔗 [wired.com](https://www.wired.com/story/doge-rebuild-social-security-administration-cobol-benefits/): Doge Plans to Rebuild SSA Codebase in Months</small>
 
 
@@ -299,26 +311,14 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 
 ---
 
-## <a name="24"></a>24. GitHub Actions 中的磁盘 I/O 瓶颈分析 
+## <a name="25"></a>25. GitHub Actions 中的磁盘 I/O 瓶颈分析 
 <small>🔗 [depot.dev](https://depot.dev/blog/uncovering-disk-io-bottlenecks-github-actions-ci): Disk I/O bottlenecks in GitHub Actions</small>
 
 
-| 🔥: 96 \| 💬: [67](https://news.ycombinator.com/item?id=43506574) \| 🗓️ 2025-03-28
+| 🔥: 97 \| 💬: [67](https://news.ycombinator.com/item?id=43506574) \| 🗓️ 2025-03-28
 
 
 <br />
 本文探讨了 GitHub Actions 中**磁盘 I/O**如何成为 CI 流水线性能的隐形瓶颈。通过工具 `iostat` 和 `fio` 测试发现，默认 Ubuntu 22.04 运行器的磁盘吞吐量被限制在约 **220MB/s**，且大量小文件操作易触发 **IOPS 上限**。依赖缓存解压时，写入速度成为主要瓶颈，而更高配置的运行器（如 Depot Ultra Runner）能显著提升性能。建议开发者监控磁盘指标并通过矩阵测试对比不同运行器。
-
----
-
-## <a name="25"></a>25. iPhone用户现可将WhatsApp设为默认通话和短信应用 
-<small>🔗 [theverge.com](https://www.theverge.com/news/637489/iphone-whatsapp-default-calling-texting-app): iPhone users can now set WhatsApp as their default calling and texting app</small>
-
-
-| 🔥: 79 \| 💬: [71](https://news.ycombinator.com/item?id=43503779) \| 🗓️ 2025-03-28
-
-
-<br />
-最新版**WhatsApp 25.8.74**更新后，用户可在iPhone的**默认应用设置**中选择将其作为通话和短信的默认应用。此前该功能仅限欧盟用户，但苹果确认**iOS 18.2**将向全球开放。设置路径为：设置 > 应用 > 默认应用，选择后点击号码或联系人时将自动跳转至WhatsApp。
 
 ---
