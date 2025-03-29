@@ -9,8 +9,8 @@ tags:
 
 
 1. 我向警方索要监控中自己车辆的公共录像；
-1. 我们攻破Gemini的Python沙箱并泄露了部分源代码；
 1. xAI收购X公司，估值飙升至800亿美元；
+1. 我们攻破Gemini的Python沙箱并泄露了部分源代码；
 1. 如何写出受开发者欢迎的技术博客；
 1. 喀拉拉邦如何成为印度最富裕的邦；
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cardinalnews.org](https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/): I asked police to send me their public surveillance footage of my car</small>
 
 
-| 🔥🔥: 504 \| 💬: [410](https://news.ycombinator.com/item?id=43504413) \| 🗓️ 2025-03-28
+| 🔥🔥: 524 \| 💬: [420](https://news.ycombinator.com/item?id=43504413) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -35,23 +35,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. 我们攻破Gemini的Python沙箱并泄露了部分源代码 
-<small>🔗 [landh.tech](https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/): We hacked Gemini's Python sandbox and leaked its source code (at least some)</small>
-
-
-| 🔥🔥: 416 \| 💬: [86](https://news.ycombinator.com/item?id=43508418) \| 🗓️ 2025-03-28
-
-
-<br />
-安全研究员团队在Google的**LLM bugSWAT**活动中再次发现漏洞，通过Gemini的**Python沙箱**功能获取了内部二进制文件。利用`os`模块探测文件系统后，他们发现并分块提取了`/usr/bin/entry/entry_point`文件，从中解析出包含**Google3内部代码**的目录结构。尽管沙箱严格隔离网络，但通过基64编码分段回传数据，最终暴露了Gemini处理RPC调用的敏感代码片段。Google为此授予团队"最具价值黑客"称号。
-
----
-
-## <a name="3"></a>3. xAI收购X公司，估值飙升至800亿美元 
+## <a name="2"></a>2. xAI收购X公司，估值飙升至800亿美元 
 <small>🔗 [twitter.com](https://twitter.com/elonmusk/status/1905731750275510312): xAI has acquired X, xAI now valued at $80B</small>
 
 
-| 🔥🔥: 411 \| 💬: [449](https://news.ycombinator.com/item?id=43509923) \| 🗓️ 2025-03-28
+| 🔥🔥: 454 \| 💬: [503](https://news.ycombinator.com/item?id=43509923) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -59,11 +47,23 @@ tags:
 
 ---
 
+## <a name="3"></a>3. 我们攻破Gemini的Python沙箱并泄露了部分源代码 
+<small>🔗 [landh.tech](https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/): We hacked Gemini's Python sandbox and leaked its source code (at least some)</small>
+
+
+| 🔥🔥: 426 \| 💬: [89](https://news.ycombinator.com/item?id=43508418) \| 🗓️ 2025-03-28
+
+
+<br />
+安全研究员团队在Google的**LLM bugSWAT**活动中再次发现漏洞，通过Gemini的**Python沙箱**功能获取了内部二进制文件。利用`os`模块探测文件系统后，他们发现并分块提取了`/usr/bin/entry/entry_point`文件，从中解析出包含**Google3内部代码**的目录结构。尽管沙箱严格隔离网络，但通过基64编码分段回传数据，最终暴露了Gemini处理RPC调用的敏感代码片段。Google为此授予团队"最具价值黑客"称号。
+
+---
+
 ## <a name="4"></a>4. 如何写出受开发者欢迎的技术博客 
 <small>🔗 [refactoringenglish.com](https://refactoringenglish.com/chapters/write-blog-posts-developers-read/): How to write blog posts that developers read</small>
 
 
-| 🔥🔥: 327 \| 💬: [112](https://news.ycombinator.com/item?id=43503872) \| 🗓️ 2025-03-28
+| 🔥🔥: 334 \| 💬: [114](https://news.ycombinator.com/item?id=43503872) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [aeon.co](https://aeon.co/essays/how-did-kerala-go-from-poor-to-prosperous-among-indias-states): How Kerala got rich</small>
 
 
-| 🔥🔥: 308 \| 💬: [175](https://news.ycombinator.com/item?id=43507286) \| 🗓️ 2025-03-28
+| 🔥🔥: 317 \| 💬: [184](https://news.ycombinator.com/item?id=43507286) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/TaraBull808/status/1905534938558157139): 7.7 magnitude earthquake hits Southeast Asia, affecting Myanmar and Thailand</small>
 
 
-| 🔥🔥: 258 \| 💬: [94](https://news.ycombinator.com/item?id=43503265) \| 🗓️ 2025-03-28
+| 🔥🔥: 260 \| 💬: [94](https://news.ycombinator.com/item?id=43503265) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [ditto.com](https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl): Cross-Platform P2P Wi-Fi: How the EU Killed AWDL</small>
 
 
-| 🔥🔥: 185 \| 💬: [106](https://news.ycombinator.com/item?id=43505022) \| 🗓️ 2025-03-28
+| 🔥🔥: 190 \| 💬: [109](https://news.ycombinator.com/item?id=43505022) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [newatlas.com](https://newatlas.com/materials/plastic-dissolves-ocean-overnight-no-microplastics/): Japanese scientists create new plastic that dissolves in saltwater overnight</small>
 
 
-| 🔥🔥: 152 \| 💬: [92](https://news.ycombinator.com/item?id=43505626) \| 🗓️ 2025-03-28
+| 🔥🔥: 155 \| 💬: [94](https://news.ycombinator.com/item?id=43505626) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -123,7 +123,7 @@ tags:
 <small>🔗 [pugetsystems.com](https://www.pugetsystems.com/blog/2025/03/28/2025-tariff-impacts-at-puget-systems/): 2025 Tariff Impacts at Puget Systems</small>
 
 
-| 🔥🔥: 149 \| 💬: [115](https://news.ycombinator.com/item?id=43510870) \| 🗓️ 2025-03-28
+| 🔥🔥: 154 \| 💬: [116](https://news.ycombinator.com/item?id=43510870) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -147,7 +147,7 @@ Puget Systems以透明为核心原则，剖析了当前**关税**对计算机行
 <small>🔗 [nymag.com](https://nymag.com/strategist/article/levis-amazon-jeans-testing.html): Are Levi's from Amazon different from Levi's from Levi's?</small>
 
 
-| 🔥🔥: 135 \| 💬: [125](https://news.ycombinator.com/item?id=43504451) \| 🗓️ 2025-03-28
+| 🔥🔥: 136 \| 💬: [125](https://news.ycombinator.com/item?id=43504451) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -155,7 +155,19 @@ Puget Systems以透明为核心原则，剖析了当前**关税**对计算机行
 
 ---
 
-## <a name="12"></a>12. 闪电竟对某些热带树木有益 
+## <a name="12"></a>12. Swiftly 1.0 正式发布：轻松管理 Swift 工具链 
+<small>🔗 [swift.org](https://swift.org/blog/introducing-swiftly_10/): Swiftly 1.0</small>
+
+
+| 🔥🔥: 128 \| 💬: [40](https://news.ycombinator.com/item?id=43509546) \| 🗓️ 2025-03-28
+
+
+<br />
+Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift 工具链的安装、管理和更新流程。它支持 **macOS 和 Linux**，可独立于 Xcode 安装 Swift，并允许用户切换不同版本（包括稳定版和快照版）。通过 `.swift-version` 文件，团队可统一工具链版本。Swiftly 由 Swift 编写，具备自更新能力，并利用 **libarchive** 处理压缩文件。现已成为 Swift 官方工具链的一部分，适合开发者和 CI/CD 环境使用。
+
+---
+
+## <a name="13"></a>13. 闪电竟对某些热带树木有益 
 <small>🔗 [caryinstitute.org](https://www.caryinstitute.org/news-insights/press-release/getting-hit-lightning-good-some-tropical-trees): Getting hit by lightning is good for some tropical trees</small>
 
 
@@ -167,23 +179,11 @@ Puget Systems以透明为核心原则，剖析了当前**关税**对计算机行
 
 ---
 
-## <a name="13"></a>13. Swiftly 1.0 正式发布：轻松管理 Swift 工具链 
-<small>🔗 [swift.org](https://swift.org/blog/introducing-swiftly_10/): Swiftly 1.0</small>
-
-
-| 🔥🔥: 115 \| 💬: [36](https://news.ycombinator.com/item?id=43509546) \| 🗓️ 2025-03-28
-
-
-<br />
-Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift 工具链的安装、管理和更新流程。它支持 **macOS 和 Linux**，可独立于 Xcode 安装 Swift，并允许用户切换不同版本（包括稳定版和快照版）。通过 `.swift-version` 文件，团队可统一工具链版本。Swiftly 由 Swift 编写，具备自更新能力，并利用 **libarchive** 处理压缩文件。现已成为 Swift 官方工具链的一部分，适合开发者和 CI/CD 环境使用。
-
----
-
 ## <a name="14"></a>14. 微软将强制要求Win11用户联网登录账户 
 <small>🔗 [theverge.com](https://www.theverge.com/news/638967/microsoft-windows-11-account-internet-bypass-blocked): Windows 11 is closing a loophole that let you skip making a Microsoft account</small>
 
 
-| 🔥🔥: 115 \| 💬: [110](https://news.ycombinator.com/item?id=43511073) \| 🗓️ 2025-03-28
+| 🔥🔥: 123 \| 💬: [117](https://news.ycombinator.com/item?id=43511073) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -195,7 +195,7 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 <small>🔗 [calabro.io](https://calabro.io/zig-cgo): Building Statically Linked Go Executables with CGO and Zig</small>
 
 
-| 🔥🔥: 105 \| 💬: [14](https://news.ycombinator.com/item?id=43505646) \| 🗓️ 2025-03-28
+| 🔥🔥: 107 \| 💬: [14](https://news.ycombinator.com/item?id=43505646) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -203,7 +203,19 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 
 ---
 
-## <a name="16"></a>16. 尽管俄乌冲突持续，欧洲去年却进口了更多俄罗斯天然气 
+## <a name="16"></a>16. 将阶乘分解为大因数 
+<small>🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/): Decomposing a Factorial into Large Factors</small>
+
+
+| 🔥🔥: 102 \| 💬: [23](https://news.ycombinator.com/item?id=43506238) \| 🗓️ 2025-03-28
+
+
+<br />
+该内容来自WordPress上的博客，作者为Ben Eastaugh和Chris Sternal-Johnson。文章探讨了如何将**阶乘**拆解为较大的因数，这一方法在**数论**和**算法优化**中具有重要意义。虽然具体细节未展开，但主题涉及数学中的高级分解技巧，适合对计算数学感兴趣的读者。
+
+---
+
+## <a name="17"></a>17. 尽管俄乌冲突持续，欧洲去年却进口了更多俄罗斯天然气 
 <small>🔗 [e360.yale.edu](https://e360.yale.edu/digest/europe-russia-ukraine-war-natural-gas-2024): Despite Ukraine war, Europe imported even more Russian gas last year</small>
 
 
@@ -215,7 +227,7 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 
 ---
 
-## <a name="17"></a>17. 大型语言模型的生物学机制解析 
+## <a name="18"></a>18. 大型语言模型的生物学机制解析 
 <small>🔗 [transformer-circuits.pub](https://transformer-circuits.pub/2025/attribution-graphs/biology.html): The Biology of a Large Language Model</small>
 
 
@@ -227,23 +239,11 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 
 ---
 
-## <a name="18"></a>18. 将阶乘分解为大因数 
-<small>🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/): Decomposing a Factorial into Large Factors</small>
-
-
-| 🔥🔥: 101 \| 💬: [23](https://news.ycombinator.com/item?id=43506238) \| 🗓️ 2025-03-28
-
-
-<br />
-该内容来自WordPress上的博客，作者为Ben Eastaugh和Chris Sternal-Johnson。文章探讨了如何将**阶乘**拆解为较大的因数，这一方法在**数论**和**算法优化**中具有重要意义。虽然具体细节未展开，但主题涉及数学中的高级分解技巧，适合对计算数学感兴趣的读者。
-
----
-
 ## <a name="19"></a>19. MilliForth-6502：史上最小的6502 Forth真实编程语言 
 <small>🔗 [github.com](https://github.com/agsb/milliForth-6502): MilliForth-6502: The smallest Forth real programming language for 6502</small>
 
 
-| 🔥: 97 \| 💬: [27](https://news.ycombinator.com/item?id=43503897) \| 🗓️ 2025-03-28
+| 🔥: 99 \| 💬: [29](https://news.ycombinator.com/item?id=43503897) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -251,7 +251,19 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 
 ---
 
-## <a name="20"></a>20. 美国社保局拟数月内用Java替换COBOL系统引担忧 
+## <a name="20"></a>20. 数字回响与不安的心灵 
+<small>🔗 [chrbutler.com](https://www.chrbutler.com/digital-echoes-and-unquiet-minds): Digital Echoes and Unquiet Minds</small>
+
+
+| 🔥: 98 \| 💬: [61](https://news.ycombinator.com/item?id=43509548) \| 🗓️ 2025-03-28
+
+
+<br />
+智能手机虽带来便利，却也产生了**心理负担**：直接的**注意力分散**与间接的**数字回响**。后者指我们行为产生的数据被他人监控的认知压力，使独处也变成“被观察的表演”。作者通过对比智能汽车与传统汽车的隐私差异，反思技术对控制权的剥夺，并提倡回归单功能设备（如胶片相机）以重获专注。最终呼吁下一代技术应优先尊重注意力而非无节制连接。
+
+---
+
+## <a name="21"></a>21. 美国社保局拟数月内用Java替换COBOL系统引担忧 
 <small>🔗 [wired.com](https://www.wired.com/story/doge-rebuild-social-security-administration-cobol-benefits/): Doge Plans to Rebuild SSA Codebase in Months</small>
 
 
@@ -263,23 +275,11 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 
 ---
 
-## <a name="21"></a>21. 数字回响与不安的心灵 
-<small>🔗 [chrbutler.com](https://www.chrbutler.com/digital-echoes-and-unquiet-minds): Digital Echoes and Unquiet Minds</small>
-
-
-| 🔥: 95 \| 💬: [59](https://news.ycombinator.com/item?id=43509548) \| 🗓️ 2025-03-28
-
-
-<br />
-智能手机虽带来便利，却也产生了**心理负担**：直接的**注意力分散**与间接的**数字回响**。后者指我们行为产生的数据被他人监控的认知压力，使独处也变成“被观察的表演”。作者通过对比智能汽车与传统汽车的隐私差异，反思技术对控制权的剥夺，并提倡回归单功能设备（如胶片相机）以重获专注。最终呼吁下一代技术应优先尊重注意力而非无节制连接。
-
----
-
 ## <a name="22"></a>22. GitHub Actions 中的磁盘 I/O 瓶颈分析 
 <small>🔗 [depot.dev](https://depot.dev/blog/uncovering-disk-io-bottlenecks-github-actions-ci): Disk I/O bottlenecks in GitHub Actions</small>
 
 
-| 🔥: 93 \| 💬: [65](https://news.ycombinator.com/item?id=43506574) \| 🗓️ 2025-03-28
+| 🔥: 95 \| 💬: [67](https://news.ycombinator.com/item?id=43506574) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -291,7 +291,7 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 <small>🔗 [99percentinvisible.org](https://99percentinvisible.org/episode/the-real-book/): The Real Book (2021)</small>
 
 
-| 🔥: 89 \| 💬: [21](https://news.ycombinator.com/item?id=43507404) \| 🗓️ 2025-03-28
+| 🔥: 93 \| 💬: [21](https://news.ycombinator.com/item?id=43507404) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -315,7 +315,7 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 <small>🔗 [github.com](https://github.com/EmberEmu/Hexi): Show HN: Hexi – Modern header-only network binary serialisation for C++</small>
 
 
-| 🔥: 72 \| 💬: [30](https://news.ycombinator.com/item?id=43508061) \| 🗓️ 2025-03-28
+| 🔥: 74 \| 💬: [30](https://news.ycombinator.com/item?id=43508061) \| 🗓️ 2025-03-28
 
 
 <br />
