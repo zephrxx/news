@@ -10,9 +10,9 @@ tags:
 
 1. 我向警方索要监控中自己车辆的公共录像；
 1. 我们攻破Gemini的Python沙箱并泄露了部分源代码；
-1. 喀拉拉邦如何成为印度最富裕的邦；
+1. xAI收购X公司，估值飙升至800亿美元；
 1. 如何写出受开发者欢迎的技术博客；
-1. 东南亚发生7.7级地震 缅甸泰国受灾；
+1. 喀拉拉邦如何成为印度最富裕的邦；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cardinalnews.org](https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/): I asked police to send me their public surveillance footage of my car</small>
 
 
-| 🔥🔥: 468 \| 💬: [380](https://news.ycombinator.com/item?id=43504413) \| 🗓️ 2025-03-28
+| 🔥🔥: 482 \| 💬: [391](https://news.ycombinator.com/item?id=43504413) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [landh.tech](https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/): We hacked Gemini's Python sandbox and leaked its source code (at least some)</small>
 
 
-| 🔥🔥: 348 \| 💬: [72](https://news.ycombinator.com/item?id=43508418) \| 🗓️ 2025-03-28
+| 🔥🔥: 373 \| 💬: [75](https://news.ycombinator.com/item?id=43508418) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -47,47 +47,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 喀拉拉邦如何成为印度最富裕的邦 
-<small>🔗 [aeon.co](https://aeon.co/essays/how-did-kerala-go-from-poor-to-prosperous-among-indias-states): How Kerala got rich</small>
-
-
-| 🔥🔥: 275 \| 💬: [162](https://news.ycombinator.com/item?id=43507286) \| 🗓️ 2025-03-28
-
-
-<br />
-喀拉拉邦位于印度西南端，人口稠密。20世纪70年代，其人均收入仅为印度平均水平的三分之二，但凭借**高识字率**、**优质医疗**和低人口增长率，成为人类发展标杆。尽管收入长期停滞，但通过**左翼政府**推动的福利政策和海外劳工汇款，该邦在2000年后经济腾飞，人均收入反超全国50%-60%。其成功源于独特的历史贸易传统、自然资源、教育优势及全球化劳动力流动，形成了兼顾福利与增长的**“喀拉拉模式”**。
-
----
-
-## <a name="4"></a>4. 如何写出受开发者欢迎的技术博客 
-<small>🔗 [refactoringenglish.com](https://refactoringenglish.com/chapters/write-blog-posts-developers-read/): How to write blog posts that developers read</small>
-
-
-| 🔥🔥: 273 \| 💬: [102](https://news.ycombinator.com/item?id=43503872) \| 🗓️ 2025-03-28
-
-
-<br />
-作者结合九年技术博客写作经验，总结出吸引开发者的关键技巧：**开门见山**，前三句必须明确目标读者和文章价值；**扩大受众**，通过微调术语让内容覆盖更广人群；**优化传播路径**，选择易被搜索引擎或社区（如Hacker News）推荐的题材。此外，**多用图片**和**适配速读习惯**能显著提升阅读体验。文章以自身成功案例（如《我用Zig为C程序写单元测试》）佐证方法论，强调避免冗长铺垫和封闭式选题。
-
----
-
-## <a name="5"></a>5. 东南亚发生7.7级地震 缅甸泰国受灾 
-<small>🔗 [twitter.com](https://twitter.com/TaraBull808/status/1905534938558157139): 7.7 magnitude earthquake hits Southeast Asia, affecting Myanmar and Thailand</small>
-
-
-| 🔥🔥: 254 \| 💬: [91](https://news.ycombinator.com/item?id=43503265) \| 🗓️ 2025-03-28
-
-
-<br />
-内容显示网页因**JavaScript未启用**无法加载，提示用户启用浏览器JavaScript功能或更换支持的浏览器，并列出了相关帮助链接。此外，页面还提到某些**隐私扩展**可能导致访问异常，建议临时禁用后重试。全文未提及地震具体灾情，仅包含技术故障提示信息。
-
----
-
-## <a name="6"></a>6. xAI收购X公司，估值飙升至800亿美元 
+## <a name="3"></a>3. xAI收购X公司，估值飙升至800亿美元 
 <small>🔗 [twitter.com](https://twitter.com/elonmusk/status/1905731750275510312): xAI has acquired X, xAI now valued at $80B</small>
 
 
-| 🔥🔥: 217 \| 💬: [204](https://news.ycombinator.com/item?id=43509923) \| 🗓️ 2025-03-28
+| 🔥🔥: 309 \| 💬: [329](https://news.ycombinator.com/item?id=43509923) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -95,11 +59,47 @@ tags:
 
 ---
 
+## <a name="4"></a>4. 如何写出受开发者欢迎的技术博客 
+<small>🔗 [refactoringenglish.com](https://refactoringenglish.com/chapters/write-blog-posts-developers-read/): How to write blog posts that developers read</small>
+
+
+| 🔥🔥: 299 \| 💬: [103](https://news.ycombinator.com/item?id=43503872) \| 🗓️ 2025-03-28
+
+
+<br />
+作者结合九年技术博客写作经验，总结出吸引开发者的关键技巧：**开门见山**，前三句必须明确目标读者和文章价值；**扩大受众**，通过微调术语让内容覆盖更广人群；**优化传播路径**，选择易被搜索引擎或社区（如Hacker News）推荐的题材。此外，**多用图片**和**适配速读习惯**能显著提升阅读体验。文章以自身成功案例（如《我用Zig为C程序写单元测试》）佐证方法论，强调避免冗长铺垫和封闭式选题。
+
+---
+
+## <a name="5"></a>5. 喀拉拉邦如何成为印度最富裕的邦 
+<small>🔗 [aeon.co](https://aeon.co/essays/how-did-kerala-go-from-poor-to-prosperous-among-indias-states): How Kerala got rich</small>
+
+
+| 🔥🔥: 292 \| 💬: [170](https://news.ycombinator.com/item?id=43507286) \| 🗓️ 2025-03-28
+
+
+<br />
+喀拉拉邦位于印度西南端，人口稠密。20世纪70年代，其人均收入仅为印度平均水平的三分之二，但凭借**高识字率**、**优质医疗**和低人口增长率，成为人类发展标杆。尽管收入长期停滞，但通过**左翼政府**推动的福利政策和海外劳工汇款，该邦在2000年后经济腾飞，人均收入反超全国50%-60%。其成功源于独特的历史贸易传统、自然资源、教育优势及全球化劳动力流动，形成了兼顾福利与增长的**“喀拉拉模式”**。
+
+---
+
+## <a name="6"></a>6. 东南亚发生7.7级地震 缅甸泰国受灾 
+<small>🔗 [twitter.com](https://twitter.com/TaraBull808/status/1905534938558157139): 7.7 magnitude earthquake hits Southeast Asia, affecting Myanmar and Thailand</small>
+
+
+| 🔥🔥: 255 \| 💬: [91](https://news.ycombinator.com/item?id=43503265) \| 🗓️ 2025-03-28
+
+
+<br />
+内容显示网页因**JavaScript未启用**无法加载，提示用户启用浏览器JavaScript功能或更换支持的浏览器，并列出了相关帮助链接。此外，页面还提到某些**隐私扩展**可能导致访问异常，建议临时禁用后重试。全文未提及地震具体灾情，仅包含技术故障提示信息。
+
+---
+
 ## <a name="7"></a>7. 欧盟强制苹果放弃AWDL：跨平台Wi-Fi直连时代来临 
 <small>🔗 [ditto.com](https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl): Cross-Platform P2P Wi-Fi: How the EU Killed AWDL</small>
 
 
-| 🔥🔥: 169 \| 💬: [93](https://news.ycombinator.com/item?id=43505022) \| 🗓️ 2025-03-28
+| 🔥🔥: 177 \| 💬: [103](https://news.ycombinator.com/item?id=43505022) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [newatlas.com](https://newatlas.com/materials/plastic-dissolves-ocean-overnight-no-microplastics/): Japanese scientists create new plastic that dissolves in saltwater overnight</small>
 
 
-| 🔥🔥: 147 \| 💬: [87](https://news.ycombinator.com/item?id=43505626) \| 🗓️ 2025-03-28
+| 🔥🔥: 149 \| 💬: [87](https://news.ycombinator.com/item?id=43505626) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -123,7 +123,7 @@ tags:
 <small>🔗 [kyrylo.org](https://kyrylo.org/software/2025/03/27/learn-to-code-ignore-ai-then-use-ai-to-code-even-better.html): Learn to code, ignore AI, then use AI to code even better</small>
 
 
-| 🔥🔥: 143 \| 💬: [137](https://news.ycombinator.com/item?id=43503295) \| 🗓️ 2025-03-28
+| 🔥🔥: 144 \| 💬: [137](https://news.ycombinator.com/item?id=43503295) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -135,7 +135,7 @@ tags:
 <small>🔗 [nymag.com](https://nymag.com/strategist/article/levis-amazon-jeans-testing.html): Are Levi's from Amazon different from Levi's from Levi's?</small>
 
 
-| 🔥🔥: 127 \| 💬: [120](https://news.ycombinator.com/item?id=43504451) \| 🗓️ 2025-03-28
+| 🔥🔥: 132 \| 💬: [121](https://news.ycombinator.com/item?id=43504451) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -147,7 +147,7 @@ tags:
 <small>🔗 [caryinstitute.org](https://www.caryinstitute.org/news-insights/press-release/getting-hit-lightning-good-some-tropical-trees): Getting hit by lightning is good for some tropical trees</small>
 
 
-| 🔥🔥: 122 \| 💬: [57](https://news.ycombinator.com/item?id=43505447) \| 🗓️ 2025-03-28
+| 🔥🔥: 125 \| 💬: [60](https://news.ycombinator.com/item?id=43505447) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -159,7 +159,7 @@ tags:
 <small>🔗 [e360.yale.edu](https://e360.yale.edu/digest/europe-russia-ukraine-war-natural-gas-2024): Despite Ukraine war, Europe imported even more Russian gas last year</small>
 
 
-| 🔥: 100 \| 💬: [122](https://news.ycombinator.com/item?id=43505700) \| 🗓️ 2025-03-28
+| 🔥🔥: 101 \| 💬: [123](https://news.ycombinator.com/item?id=43505700) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -167,7 +167,19 @@ tags:
 
 ---
 
-## <a name="13"></a>13. 将阶乘分解为大因数 
+## <a name="13"></a>13. 大型语言模型的生物学机制解析 
+<small>🔗 [transformer-circuits.pub](https://transformer-circuits.pub/2025/attribution-graphs/biology.html): The Biology of a Large Language Model</small>
+
+
+| 🔥🔥: 101 \| 💬: [18](https://news.ycombinator.com/item?id=43505748) \| 🗓️ 2025-03-28
+
+
+<br />
+该研究通过**电路追踪方法**揭示了Claude 3.5 Haiku模型的内部工作机制，类比生物学中显微镜观察细胞的方式，将模型的**特征**视为基本计算单元。研究发现模型具备多步推理、诗歌创作预规划、多语言混合电路等复杂能力，并通过扰动实验验证机制。工具虽仅能解析部分案例，但为理解黑箱模型提供了新视角，如识别诊断逻辑、幻觉成因及越狱攻击原理。研究强调**抽象特征交互**和**局部替代模型**的局限性，为AI可解释性领域奠定基础。
+
+---
+
+## <a name="14"></a>14. 将阶乘分解为大因数 
 <small>🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/): Decomposing a Factorial into Large Factors</small>
 
 
@@ -179,23 +191,11 @@ tags:
 
 ---
 
-## <a name="14"></a>14. 大型语言模型的生物学机制解析 
-<small>🔗 [transformer-circuits.pub](https://transformer-circuits.pub/2025/attribution-graphs/biology.html): The Biology of a Large Language Model</small>
-
-
-| 🔥: 99 \| 💬: [17](https://news.ycombinator.com/item?id=43505748) \| 🗓️ 2025-03-28
-
-
-<br />
-该研究通过**电路追踪方法**揭示了Claude 3.5 Haiku模型的内部工作机制，类比生物学中显微镜观察细胞的方式，将模型的**特征**视为基本计算单元。研究发现模型具备多步推理、诗歌创作预规划、多语言混合电路等复杂能力，并通过扰动实验验证机制。工具虽仅能解析部分案例，但为理解黑箱模型提供了新视角，如识别诊断逻辑、幻觉成因及越狱攻击原理。研究强调**抽象特征交互**和**局部替代模型**的局限性，为AI可解释性领域奠定基础。
-
----
-
 ## <a name="15"></a>15. MilliForth-6502：史上最小的6502 Forth真实编程语言 
 <small>🔗 [github.com](https://github.com/agsb/milliForth-6502): MilliForth-6502: The smallest Forth real programming language for 6502</small>
 
 
-| 🔥: 94 \| 💬: [25](https://news.ycombinator.com/item?id=43503897) \| 🗓️ 2025-03-28
+| 🔥: 97 \| 💬: [26](https://news.ycombinator.com/item?id=43503897) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -203,23 +203,11 @@ tags:
 
 ---
 
-## <a name="16"></a>16. 美国社保局拟数月内用Java替换COBOL系统引担忧 
-<small>🔗 [wired.com](https://www.wired.com/story/doge-rebuild-social-security-administration-cobol-benefits/): Doge Plans to Rebuild SSA Codebase in Months</small>
-
-
-| 🔥: 93 \| 💬: [107](https://news.ycombinator.com/item?id=43505659) \| 🗓️ 2025-03-28
-
-
-<br />
-美国**政府效率部（DOGE）**正组建团队，计划在数月内将社保局（SSA）的计算机系统从古老的**COBOL语言**迁移至Java等现代语言。专家警告称，如此庞大的系统迁移通常需数年，仓促推进可能导致6500万受益人的福利发放出错甚至中断。SSA系统包含超6000万行COBOL代码，核心逻辑涉及福利计算等关键功能，细微改动可能引发连锁故障。DOGE或利用生成式AI加速代码转换，但内部人员形容现有系统"如纸牌屋般脆弱"。此前特朗普政府曾以"数据造假"为由削减SSA预算，近期该机构已频繁出现网站崩溃问题。
-
----
-
-## <a name="17"></a>17. 使用Zig和CGO构建静态链接的Go可执行文件 
+## <a name="16"></a>16. 使用Zig和CGO构建静态链接的Go可执行文件 
 <small>🔗 [calabro.io](https://calabro.io/zig-cgo): Building Statically Linked Go Executables with CGO and Zig</small>
 
 
-| 🔥: 91 \| 💬: [12](https://news.ycombinator.com/item?id=43505646) \| 🗓️ 2025-03-28
+| 🔥: 97 \| 💬: [12](https://news.ycombinator.com/item?id=43505646) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -227,11 +215,23 @@ tags:
 
 ---
 
+## <a name="17"></a>17. 美国社保局拟数月内用Java替换COBOL系统引担忧 
+<small>🔗 [wired.com](https://www.wired.com/story/doge-rebuild-social-security-administration-cobol-benefits/): Doge Plans to Rebuild SSA Codebase in Months</small>
+
+
+| 🔥: 96 \| 💬: [108](https://news.ycombinator.com/item?id=43505659) \| 🗓️ 2025-03-28
+
+
+<br />
+美国**政府效率部（DOGE）**正组建团队，计划在数月内将社保局（SSA）的计算机系统从古老的**COBOL语言**迁移至Java等现代语言。专家警告称，如此庞大的系统迁移通常需数年，仓促推进可能导致6500万受益人的福利发放出错甚至中断。SSA系统包含超6000万行COBOL代码，核心逻辑涉及福利计算等关键功能，细微改动可能引发连锁故障。DOGE或利用生成式AI加速代码转换，但内部人员形容现有系统"如纸牌屋般脆弱"。此前特朗普政府曾以"数据造假"为由削减SSA预算，近期该机构已频繁出现网站崩溃问题。
+
+---
+
 ## <a name="18"></a>18. GitHub Actions 中的磁盘 I/O 瓶颈分析 
 <small>🔗 [depot.dev](https://depot.dev/blog/uncovering-disk-io-bottlenecks-github-actions-ci): Disk I/O bottlenecks in GitHub Actions</small>
 
 
-| 🔥: 86 \| 💬: [64](https://news.ycombinator.com/item?id=43506574) \| 🗓️ 2025-03-28
+| 🔥: 91 \| 💬: [65](https://news.ycombinator.com/item?id=43506574) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -239,35 +239,11 @@ tags:
 
 ---
 
-## <a name="19"></a>19. 数字回响与不安的心灵 
-<small>🔗 [chrbutler.com](https://www.chrbutler.com/digital-echoes-and-unquiet-minds): Digital Echoes and Unquiet Minds</small>
-
-
-| 🔥: 81 \| 💬: [42](https://news.ycombinator.com/item?id=43509548) \| 🗓️ 2025-03-28
-
-
-<br />
-智能手机虽带来便利，却也产生了**心理负担**：直接的**注意力分散**与间接的**数字回响**。后者指我们行为产生的数据被他人监控的认知压力，使独处也变成“被观察的表演”。作者通过对比智能汽车与传统汽车的隐私差异，反思技术对控制权的剥夺，并提倡回归单功能设备（如胶片相机）以重获专注。最终呼吁下一代技术应优先尊重注意力而非无节制连接。
-
----
-
-## <a name="20"></a>20. iPhone用户现可将WhatsApp设为默认通话和短信应用 
-<small>🔗 [theverge.com](https://www.theverge.com/news/637489/iphone-whatsapp-default-calling-texting-app): iPhone users can now set WhatsApp as their default calling and texting app</small>
-
-
-| 🔥: 78 \| 💬: [71](https://news.ycombinator.com/item?id=43503779) \| 🗓️ 2025-03-28
-
-
-<br />
-最新版**WhatsApp 25.8.74**更新后，用户可在iPhone的**默认应用设置**中选择将其作为通话和短信的默认应用。此前该功能仅限欧盟用户，但苹果确认**iOS 18.2**将向全球开放。设置路径为：设置 > 应用 > 默认应用，选择后点击号码或联系人时将自动跳转至WhatsApp。
-
----
-
-## <a name="21"></a>21. Swiftly 1.0 正式发布：轻松管理 Swift 工具链 
+## <a name="19"></a>19. Swiftly 1.0 正式发布：轻松管理 Swift 工具链 
 <small>🔗 [swift.org](https://swift.org/blog/introducing-swiftly_10/): Swiftly 1.0</small>
 
 
-| 🔥: 78 \| 💬: [17](https://news.ycombinator.com/item?id=43509546) \| 🗓️ 2025-03-28
+| 🔥: 90 \| 💬: [24](https://news.ycombinator.com/item?id=43509546) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -275,11 +251,35 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 
 ---
 
+## <a name="20"></a>20. 数字回响与不安的心灵 
+<small>🔗 [chrbutler.com](https://www.chrbutler.com/digital-echoes-and-unquiet-minds): Digital Echoes and Unquiet Minds</small>
+
+
+| 🔥: 85 \| 💬: [47](https://news.ycombinator.com/item?id=43509548) \| 🗓️ 2025-03-28
+
+
+<br />
+智能手机虽带来便利，却也产生了**心理负担**：直接的**注意力分散**与间接的**数字回响**。后者指我们行为产生的数据被他人监控的认知压力，使独处也变成“被观察的表演”。作者通过对比智能汽车与传统汽车的隐私差异，反思技术对控制权的剥夺，并提倡回归单功能设备（如胶片相机）以重获专注。最终呼吁下一代技术应优先尊重注意力而非无节制连接。
+
+---
+
+## <a name="21"></a>21. iPhone用户现可将WhatsApp设为默认通话和短信应用 
+<small>🔗 [theverge.com](https://www.theverge.com/news/637489/iphone-whatsapp-default-calling-texting-app): iPhone users can now set WhatsApp as their default calling and texting app</small>
+
+
+| 🔥: 79 \| 💬: [71](https://news.ycombinator.com/item?id=43503779) \| 🗓️ 2025-03-28
+
+
+<br />
+最新版**WhatsApp 25.8.74**更新后，用户可在iPhone的**默认应用设置**中选择将其作为通话和短信的默认应用。此前该功能仅限欧盟用户，但苹果确认**iOS 18.2**将向全球开放。设置路径为：设置 > 应用 > 默认应用，选择后点击号码或联系人时将自动跳转至WhatsApp。
+
+---
+
 ## <a name="22"></a>22. 《爵士乐的“盗版圣经”：Real Book传奇》 
 <small>🔗 [99percentinvisible.org](https://99percentinvisible.org/episode/the-real-book/): The Real Book (2021)</small>
 
 
-| 🔥: 70 \| 💬: [16](https://news.ycombinator.com/item?id=43507404) \| 🗓️ 2025-03-28
+| 🔥: 76 \| 💬: [18](https://news.ycombinator.com/item?id=43507404) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -303,7 +303,7 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 <small>🔗 [github.com](https://github.com/EmberEmu/Hexi): Show HN: Hexi – Modern header-only network binary serialisation for C++</small>
 
 
-| 🔥: 64 \| 💬: [26](https://news.ycombinator.com/item?id=43508061) \| 🗓️ 2025-03-28
+| 🔥: 65 \| 💬: [28](https://news.ycombinator.com/item?id=43508061) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -315,7 +315,7 @@ Hexi是一个**仅头文件**的C++23库，专注于安全处理二进制数据�
 <small>🔗 [fathom.lib.uchicago.edu](https://fathom.lib.uchicago.edu/2/21701757/): The Biology of B-Movie Monsters (2003)</small>
 
 
-| 🔥: 57 \| 💬: [30](https://news.ycombinator.com/item?id=43505334) \| 🗓️ 2025-03-28
+| 🔥: 60 \| 💬: [31](https://news.ycombinator.com/item?id=43505334) \| 🗓️ 2025-03-28
 
 
 <br />
