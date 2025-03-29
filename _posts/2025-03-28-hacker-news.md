@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cardinalnews.org](https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/): I asked police to send me their public surveillance footage of my car</small>
 
 
-| 🔥🔥: 535 \| 💬: [423](https://news.ycombinator.com/item?id=43504413) \| 🗓️ 2025-03-28
+| 🔥🔥: 539 \| 💬: [428](https://news.ycombinator.com/item?id=43504413) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/elonmusk/status/1905731750275510312): xAI has acquired X, xAI now valued at $80B</small>
 
 
-| 🔥🔥: 487 \| 💬: [548](https://news.ycombinator.com/item?id=43509923) \| 🗓️ 2025-03-28
+| 🔥🔥: 504 \| 💬: [601](https://news.ycombinator.com/item?id=43509923) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [landh.tech](https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/): We hacked Gemini's Python sandbox and leaked its source code (at least some)</small>
 
 
-| 🔥🔥: 445 \| 💬: [90](https://news.ycombinator.com/item?id=43508418) \| 🗓️ 2025-03-28
+| 🔥🔥: 458 \| 💬: [94](https://news.ycombinator.com/item?id=43508418) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [refactoringenglish.com](https://refactoringenglish.com/chapters/write-blog-posts-developers-read/): How to write blog posts that developers read</small>
 
 
-| 🔥🔥: 349 \| 💬: [118](https://news.ycombinator.com/item?id=43503872) \| 🗓️ 2025-03-28
+| 🔥🔥: 361 \| 💬: [120](https://news.ycombinator.com/item?id=43503872) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [aeon.co](https://aeon.co/essays/how-did-kerala-go-from-poor-to-prosperous-among-indias-states): How Kerala got rich</small>
 
 
-| 🔥🔥: 324 \| 💬: [192](https://news.ycombinator.com/item?id=43507286) \| 🗓️ 2025-03-28
+| 🔥🔥: 330 \| 💬: [200](https://news.ycombinator.com/item?id=43507286) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [ditto.com](https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl): Cross-Platform P2P Wi-Fi: How the EU Killed AWDL</small>
 
 
-| 🔥🔥: 190 \| 💬: [115](https://news.ycombinator.com/item?id=43505022) \| 🗓️ 2025-03-28
+| 🔥🔥: 191 \| 💬: [115](https://news.ycombinator.com/item?id=43505022) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [newatlas.com](https://newatlas.com/materials/plastic-dissolves-ocean-overnight-no-microplastics/): Japanese scientists create new plastic that dissolves in saltwater overnight</small>
 
 
-| 🔥🔥: 159 \| 💬: [99](https://news.ycombinator.com/item?id=43505626) \| 🗓️ 2025-03-28
+| 🔥🔥: 161 \| 💬: [102](https://news.ycombinator.com/item?id=43505626) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -123,7 +123,7 @@ tags:
 <small>🔗 [pugetsystems.com](https://www.pugetsystems.com/blog/2025/03/28/2025-tariff-impacts-at-puget-systems/): 2025 Tariff Impacts at Puget Systems</small>
 
 
-| 🔥🔥: 156 \| 💬: [119](https://news.ycombinator.com/item?id=43510870) \| 🗓️ 2025-03-28
+| 🔥🔥: 157 \| 💬: [120](https://news.ycombinator.com/item?id=43510870) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -135,7 +135,7 @@ Puget Systems以透明为核心原则，剖析了当前**关税**对计算机行
 <small>🔗 [kyrylo.org](https://kyrylo.org/software/2025/03/27/learn-to-code-ignore-ai-then-use-ai-to-code-even-better.html): Learn to code, ignore AI, then use AI to code even better</small>
 
 
-| 🔥🔥: 145 \| 💬: [139](https://news.ycombinator.com/item?id=43503295) \| 🗓️ 2025-03-28
+| 🔥🔥: 146 \| 💬: [139](https://news.ycombinator.com/item?id=43503295) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -147,7 +147,7 @@ Puget Systems以透明为核心原则，剖析了当前**关税**对计算机行
 <small>🔗 [nymag.com](https://nymag.com/strategist/article/levis-amazon-jeans-testing.html): Are Levi's from Amazon different from Levi's from Levi's?</small>
 
 
-| 🔥🔥: 139 \| 💬: [128](https://news.ycombinator.com/item?id=43504451) \| 🗓️ 2025-03-28
+| 🔥🔥: 141 \| 💬: [131](https://news.ycombinator.com/item?id=43504451) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -159,7 +159,7 @@ Puget Systems以透明为核心原则，剖析了当前**关税**对计算机行
 <small>🔗 [swift.org](https://swift.org/blog/introducing-swiftly_10/): Swiftly 1.0</small>
 
 
-| 🔥🔥: 135 \| 💬: [44](https://news.ycombinator.com/item?id=43509546) \| 🗓️ 2025-03-28
+| 🔥🔥: 138 \| 💬: [49](https://news.ycombinator.com/item?id=43509546) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -171,7 +171,7 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 <small>🔗 [theverge.com](https://www.theverge.com/news/638967/microsoft-windows-11-account-internet-bypass-blocked): Windows 11 is closing a loophole that let you skip making a Microsoft account</small>
 
 
-| 🔥🔥: 130 \| 💬: [124](https://news.ycombinator.com/item?id=43511073) \| 🗓️ 2025-03-28
+| 🔥🔥: 134 \| 💬: [125](https://news.ycombinator.com/item?id=43511073) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -195,7 +195,7 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 <small>🔗 [calabro.io](https://calabro.io/zig-cgo): Building Statically Linked Go Executables with CGO and Zig</small>
 
 
-| 🔥🔥: 109 \| 💬: [14](https://news.ycombinator.com/item?id=43505646) \| 🗓️ 2025-03-28
+| 🔥🔥: 112 \| 💬: [16](https://news.ycombinator.com/item?id=43505646) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -203,7 +203,31 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 
 ---
 
-## <a name="16"></a>16. 大型语言模型的生物学机制解析 
+## <a name="16"></a>16. 数字回响与不安的心灵 
+<small>🔗 [chrbutler.com](https://www.chrbutler.com/digital-echoes-and-unquiet-minds): Digital Echoes and Unquiet Minds</small>
+
+
+| 🔥🔥: 106 \| 💬: [62](https://news.ycombinator.com/item?id=43509548) \| 🗓️ 2025-03-28
+
+
+<br />
+智能手机虽带来便利，却也产生了**心理负担**：直接的**注意力分散**与间接的**数字回响**。后者指我们行为产生的数据被他人监控的认知压力，使独处也变成“被观察的表演”。作者通过对比智能汽车与传统汽车的隐私差异，反思技术对控制权的剥夺，并提倡回归单功能设备（如胶片相机）以重获专注。最终呼吁下一代技术应优先尊重注意力而非无节制连接。
+
+---
+
+## <a name="17"></a>17. iCloud邮件DNS配置有误？ 
+<small>🔗 [mail-tester.com](https://www.mail-tester.com/test-p3tdhnk3o): iCloud Mail has DNS misconfigured?</small>
+
+
+| 🔥🔥: 106 \| 💬: [32](https://news.ycombinator.com/item?id=43511464) \| 🗓️ 2025-03-28
+
+
+<br />
+邮件测试显示，iCloud邮件服务器（`p00-icloudmta-asmtp-vip.icloud-mail-production`）的**SPF记录**存在**HELO软失败**（softfail），但整体SPF验证通过。DKIM签名有效，DMARC策略为通过。邮件内容无垃圾标记，但URIBL查询被拦截（可能因查询过多）。发件IP（57.103.88.93）归属Apple，邮件通过TLS加密传输。**关键问题**在于DNS配置的HELO验证不匹配，可能影响邮件可信度。
+
+---
+
+## <a name="18"></a>18. 大型语言模型的生物学机制解析 
 <small>🔗 [transformer-circuits.pub](https://transformer-circuits.pub/2025/attribution-graphs/biology.html): The Biology of a Large Language Model</small>
 
 
@@ -215,23 +239,11 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 
 ---
 
-## <a name="17"></a>17. 数字回响与不安的心灵 
-<small>🔗 [chrbutler.com](https://www.chrbutler.com/digital-echoes-and-unquiet-minds): Digital Echoes and Unquiet Minds</small>
-
-
-| 🔥🔥: 103 \| 💬: [61](https://news.ycombinator.com/item?id=43509548) \| 🗓️ 2025-03-28
-
-
-<br />
-智能手机虽带来便利，却也产生了**心理负担**：直接的**注意力分散**与间接的**数字回响**。后者指我们行为产生的数据被他人监控的认知压力，使独处也变成“被观察的表演”。作者通过对比智能汽车与传统汽车的隐私差异，反思技术对控制权的剥夺，并提倡回归单功能设备（如胶片相机）以重获专注。最终呼吁下一代技术应优先尊重注意力而非无节制连接。
-
----
-
-## <a name="18"></a>18. 将阶乘分解为大因数 
+## <a name="19"></a>19. 将阶乘分解为大因数 
 <small>🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/): Decomposing a Factorial into Large Factors</small>
 
 
-| 🔥🔥: 102 \| 💬: [23](https://news.ycombinator.com/item?id=43506238) \| 🗓️ 2025-03-28
+| 🔥🔥: 103 \| 💬: [23](https://news.ycombinator.com/item?id=43506238) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -239,7 +251,19 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 
 ---
 
-## <a name="19"></a>19. 尽管俄乌冲突持续，欧洲去年却进口了更多俄罗斯天然气 
+## <a name="20"></a>20. MilliForth-6502：史上最小的6502 Forth真实编程语言 
+<small>🔗 [github.com](https://github.com/agsb/milliForth-6502): MilliForth-6502: The smallest Forth real programming language for 6502</small>
+
+
+| 🔥🔥: 101 \| 💬: [29](https://news.ycombinator.com/item?id=43503897) \| 🗓️ 2025-03-28
+
+
+<br />
+该项目基于x86平台的milliForth，开发了针对**6502处理器**的最小化Forth语言实现，核心代码仅328字节。采用**直接线程码（DTC）**和最小线程码（MTC）两种解释器模型，最终DTC以596字节的体积胜出。设计聚焦代码尺寸而非性能，内存布局严格分页（零页存放寄存器，$200页处理输入/数据/返回栈），移除了编辑器、栈检查等非必要功能。包含基础词（如`@`、`!`、`key`）和可选扩展（如`.S`、`dump`），支持通过脚本编译测试。项目同时验证了DTC与MTC的效率差异（MTC指令数多1.66%），为6502的极简编程提供了新参考。
+
+---
+
+## <a name="21"></a>21. 尽管俄乌冲突持续，欧洲去年却进口了更多俄罗斯天然气 
 <small>🔗 [e360.yale.edu](https://e360.yale.edu/digest/europe-russia-ukraine-war-natural-gas-2024): Despite Ukraine war, Europe imported even more Russian gas last year</small>
 
 
@@ -251,19 +275,19 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 
 ---
 
-## <a name="20"></a>20. MilliForth-6502：史上最小的6502 Forth真实编程语言 
-<small>🔗 [github.com](https://github.com/agsb/milliForth-6502): MilliForth-6502: The smallest Forth real programming language for 6502</small>
+## <a name="22"></a>22. 《爵士乐的“盗版圣经”：Real Book传奇》 
+<small>🔗 [99percentinvisible.org](https://99percentinvisible.org/episode/the-real-book/): The Real Book (2021)</small>
 
 
-| 🔥: 100 \| 💬: [29](https://news.ycombinator.com/item?id=43503897) \| 🗓️ 2025-03-28
+| 🔥: 98 \| 💬: [23](https://news.ycombinator.com/item?id=43507404) \| 🗓️ 2025-03-28
 
 
 <br />
-该项目基于x86平台的milliForth，开发了针对**6502处理器**的最小化Forth语言实现，核心代码仅328字节。采用**直接线程码（DTC）**和最小线程码（MTC）两种解释器模型，最终DTC以596字节的体积胜出。设计聚焦代码尺寸而非性能，内存布局严格分页（零页存放寄存器，$200页处理输入/数据/返回栈），移除了编辑器、栈检查等非必要功能。包含基础词（如`@`、`!`、`key`）和可选扩展（如`.S`、`dump`），支持通过脚本编译测试。项目同时验证了DTC与MTC的效率差异（MTC指令数多1.66%），为6502的极简编程提供了新参考。
+自20世纪70年代起，**Real Book**——一本手工誊写、非法流传的爵士乐谱集——成为全球爵士音乐家的“地下宝典”。它由两名伯克利音乐学院学生秘密编撰，收录了现代爵士经典曲目及重新编配的和弦，以美观的手写体和复古封面迅速风靡。尽管音乐出版商长期抵制，其盗版副本仍席卷全球，直至2004年才由Hal Leonard推出合法版本。争议始终存在：有人认为它**简化了爵士乐的即兴精髓**，也有人视其为入门必备工具。这本书的故事，折射了爵士乐从街头艺术走向学院派的时代变迁。
 
 ---
 
-## <a name="21"></a>21. 美国社保局拟数月内用Java替换COBOL系统引担忧 
+## <a name="23"></a>23. 美国社保局拟数月内用Java替换COBOL系统引担忧 
 <small>🔗 [wired.com](https://www.wired.com/story/doge-rebuild-social-security-administration-cobol-benefits/): Doge Plans to Rebuild SSA Codebase in Months</small>
 
 
@@ -275,23 +299,11 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 
 ---
 
-## <a name="22"></a>22. 《爵士乐的“盗版圣经”：Real Book传奇》 
-<small>🔗 [99percentinvisible.org](https://99percentinvisible.org/episode/the-real-book/): The Real Book (2021)</small>
-
-
-| 🔥: 96 \| 💬: [22](https://news.ycombinator.com/item?id=43507404) \| 🗓️ 2025-03-28
-
-
-<br />
-自20世纪70年代起，**Real Book**——一本手工誊写、非法流传的爵士乐谱集——成为全球爵士音乐家的“地下宝典”。它由两名伯克利音乐学院学生秘密编撰，收录了现代爵士经典曲目及重新编配的和弦，以美观的手写体和复古封面迅速风靡。尽管音乐出版商长期抵制，其盗版副本仍席卷全球，直至2004年才由Hal Leonard推出合法版本。争议始终存在：有人认为它**简化了爵士乐的即兴精髓**，也有人视其为入门必备工具。这本书的故事，折射了爵士乐从街头艺术走向学院派的时代变迁。
-
----
-
-## <a name="23"></a>23. GitHub Actions 中的磁盘 I/O 瓶颈分析 
+## <a name="24"></a>24. GitHub Actions 中的磁盘 I/O 瓶颈分析 
 <small>🔗 [depot.dev](https://depot.dev/blog/uncovering-disk-io-bottlenecks-github-actions-ci): Disk I/O bottlenecks in GitHub Actions</small>
 
 
-| 🔥: 95 \| 💬: [67](https://news.ycombinator.com/item?id=43506574) \| 🗓️ 2025-03-28
+| 🔥: 96 \| 💬: [67](https://news.ycombinator.com/item?id=43506574) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -299,7 +311,7 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 
 ---
 
-## <a name="24"></a>24. iPhone用户现可将WhatsApp设为默认通话和短信应用 
+## <a name="25"></a>25. iPhone用户现可将WhatsApp设为默认通话和短信应用 
 <small>🔗 [theverge.com](https://www.theverge.com/news/637489/iphone-whatsapp-default-calling-texting-app): iPhone users can now set WhatsApp as their default calling and texting app</small>
 
 
@@ -308,17 +320,5 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 
 <br />
 最新版**WhatsApp 25.8.74**更新后，用户可在iPhone的**默认应用设置**中选择将其作为通话和短信的默认应用。此前该功能仅限欧盟用户，但苹果确认**iOS 18.2**将向全球开放。设置路径为：设置 > 应用 > 默认应用，选择后点击号码或联系人时将自动跳转至WhatsApp。
-
----
-
-## <a name="25"></a>25. Hexi：现代C++轻量级二进制网络序列化库 
-<small>🔗 [github.com](https://github.com/EmberEmu/Hexi): Show HN: Hexi – Modern header-only network binary serialisation for C++</small>
-
-
-| 🔥: 77 \| 💬: [30](https://news.ycombinator.com/item?id=43508061) \| 🗓️ 2025-03-28
-
-
-<br />
-Hexi是一个**仅头文件**的C++23库，专注于安全处理二进制数据（尤其是网络数据）。它介于手动内存拷贝和重量级序列化库之间，强调**易用性**、**安全性**和低开销。支持标准容器（如`std::vector`、`std::span`）及自定义容器，提供边界检查、错误处理（异常或无异常模式）和端序转换功能。通过`buffer_adaptor`和`binary_stream`核心类实现读写操作，适用于需要高效处理网络消息的场景。额外提供文件缓冲、静态/动态缓冲池等实用工具，适合高性能网络编程。
 
 ---
