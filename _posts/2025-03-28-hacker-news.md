@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cardinalnews.org](https://cardinalnews.org/2025/03/28/i-drove-300-miles-in-rural-virginia-then-asked-police-to-send-me-their-public-surveillance-footage-of-my-car-heres-what-i-learned/): I asked police to send me their public surveillance footage of my car</small>
 
 
-| 🔥🔥: 499 \| 💬: [400](https://news.ycombinator.com/item?id=43504413) \| 🗓️ 2025-03-28
+| 🔥🔥: 504 \| 💬: [410](https://news.ycombinator.com/item?id=43504413) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [landh.tech](https://www.landh.tech/blog/20250327-we-hacked-gemini-source-code/): We hacked Gemini's Python sandbox and leaked its source code (at least some)</small>
 
 
-| 🔥🔥: 400 \| 💬: [83](https://news.ycombinator.com/item?id=43508418) \| 🗓️ 2025-03-28
+| 🔥🔥: 416 \| 💬: [86](https://news.ycombinator.com/item?id=43508418) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/elonmusk/status/1905731750275510312): xAI has acquired X, xAI now valued at $80B</small>
 
 
-| 🔥🔥: 369 \| 💬: [396](https://news.ycombinator.com/item?id=43509923) \| 🗓️ 2025-03-28
+| 🔥🔥: 411 \| 💬: [449](https://news.ycombinator.com/item?id=43509923) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [refactoringenglish.com](https://refactoringenglish.com/chapters/write-blog-posts-developers-read/): How to write blog posts that developers read</small>
 
 
-| 🔥🔥: 315 \| 💬: [105](https://news.ycombinator.com/item?id=43503872) \| 🗓️ 2025-03-28
+| 🔥🔥: 327 \| 💬: [112](https://news.ycombinator.com/item?id=43503872) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [aeon.co](https://aeon.co/essays/how-did-kerala-go-from-poor-to-prosperous-among-indias-states): How Kerala got rich</small>
 
 
-| 🔥🔥: 299 \| 💬: [170](https://news.ycombinator.com/item?id=43507286) \| 🗓️ 2025-03-28
+| 🔥🔥: 308 \| 💬: [175](https://news.ycombinator.com/item?id=43507286) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/TaraBull808/status/1905534938558157139): 7.7 magnitude earthquake hits Southeast Asia, affecting Myanmar and Thailand</small>
 
 
-| 🔥🔥: 256 \| 💬: [92](https://news.ycombinator.com/item?id=43503265) \| 🗓️ 2025-03-28
+| 🔥🔥: 258 \| 💬: [94](https://news.ycombinator.com/item?id=43503265) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [ditto.com](https://www.ditto.com/blog/cross-platform-p2p-wi-fi-how-the-eu-killed-awdl): Cross-Platform P2P Wi-Fi: How the EU Killed AWDL</small>
 
 
-| 🔥🔥: 183 \| 💬: [105](https://news.ycombinator.com/item?id=43505022) \| 🗓️ 2025-03-28
+| 🔥🔥: 185 \| 💬: [106](https://news.ycombinator.com/item?id=43505022) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [newatlas.com](https://newatlas.com/materials/plastic-dissolves-ocean-overnight-no-microplastics/): Japanese scientists create new plastic that dissolves in saltwater overnight</small>
 
 
-| 🔥🔥: 150 \| 💬: [89](https://news.ycombinator.com/item?id=43505626) \| 🗓️ 2025-03-28
+| 🔥🔥: 152 \| 💬: [92](https://news.ycombinator.com/item?id=43505626) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -123,7 +123,7 @@ tags:
 <small>🔗 [pugetsystems.com](https://www.pugetsystems.com/blog/2025/03/28/2025-tariff-impacts-at-puget-systems/): 2025 Tariff Impacts at Puget Systems</small>
 
 
-| 🔥🔥: 145 \| 💬: [96](https://news.ycombinator.com/item?id=43510870) \| 🗓️ 2025-03-28
+| 🔥🔥: 149 \| 💬: [115](https://news.ycombinator.com/item?id=43510870) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -135,7 +135,7 @@ Puget Systems以透明为核心原则，剖析了当前**关税**对计算机行
 <small>🔗 [kyrylo.org](https://kyrylo.org/software/2025/03/27/learn-to-code-ignore-ai-then-use-ai-to-code-even-better.html): Learn to code, ignore AI, then use AI to code even better</small>
 
 
-| 🔥🔥: 144 \| 💬: [138](https://news.ycombinator.com/item?id=43503295) \| 🗓️ 2025-03-28
+| 🔥🔥: 144 \| 💬: [139](https://news.ycombinator.com/item?id=43503295) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -147,7 +147,7 @@ Puget Systems以透明为核心原则，剖析了当前**关税**对计算机行
 <small>🔗 [nymag.com](https://nymag.com/strategist/article/levis-amazon-jeans-testing.html): Are Levi's from Amazon different from Levi's from Levi's?</small>
 
 
-| 🔥🔥: 134 \| 💬: [124](https://news.ycombinator.com/item?id=43504451) \| 🗓️ 2025-03-28
+| 🔥🔥: 135 \| 💬: [125](https://news.ycombinator.com/item?id=43504451) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -171,7 +171,7 @@ Puget Systems以透明为核心原则，剖析了当前**关税**对计算机行
 <small>🔗 [swift.org](https://swift.org/blog/introducing-swiftly_10/): Swiftly 1.0</small>
 
 
-| 🔥🔥: 104 \| 💬: [29](https://news.ycombinator.com/item?id=43509546) \| 🗓️ 2025-03-28
+| 🔥🔥: 115 \| 💬: [36](https://news.ycombinator.com/item?id=43509546) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -183,7 +183,7 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 <small>🔗 [theverge.com](https://www.theverge.com/news/638967/microsoft-windows-11-account-internet-bypass-blocked): Windows 11 is closing a loophole that let you skip making a Microsoft account</small>
 
 
-| 🔥🔥: 103 \| 💬: [89](https://news.ycombinator.com/item?id=43511073) \| 🗓️ 2025-03-28
+| 🔥🔥: 115 \| 💬: [110](https://news.ycombinator.com/item?id=43511073) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -191,7 +191,19 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 
 ---
 
-## <a name="15"></a>15. 尽管俄乌冲突持续，欧洲去年却进口了更多俄罗斯天然气 
+## <a name="15"></a>15. 使用Zig和CGO构建静态链接的Go可执行文件 
+<small>🔗 [calabro.io](https://calabro.io/zig-cgo): Building Statically Linked Go Executables with CGO and Zig</small>
+
+
+| 🔥🔥: 105 \| 💬: [14](https://news.ycombinator.com/item?id=43505646) \| 🗓️ 2025-03-28
+
+
+<br />
+本文介绍了如何通过**Zig工具链**和**CGO**生成静态链接的Go程序，避免动态库的运行时依赖问题。作者演示了用Zig创建静态库（精简`build.zig`配置并导出C接口函数），再通过Go调用该库时强制静态链接（关键编译参数包括`-static`和指定Zig为交叉编译器）。最终生成的二进制文件经`ldd`验证无动态依赖，实现了跨平台部署的可靠性。文中强调了**Zig的跨平台能力**与**Go的简洁性**结合的高效工作流。
+
+---
+
+## <a name="16"></a>16. 尽管俄乌冲突持续，欧洲去年却进口了更多俄罗斯天然气 
 <small>🔗 [e360.yale.edu](https://e360.yale.edu/digest/europe-russia-ukraine-war-natural-gas-2024): Despite Ukraine war, Europe imported even more Russian gas last year</small>
 
 
@@ -203,7 +215,7 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 
 ---
 
-## <a name="16"></a>16. 大型语言模型的生物学机制解析 
+## <a name="17"></a>17. 大型语言模型的生物学机制解析 
 <small>🔗 [transformer-circuits.pub](https://transformer-circuits.pub/2025/attribution-graphs/biology.html): The Biology of a Large Language Model</small>
 
 
@@ -215,23 +227,11 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 
 ---
 
-## <a name="17"></a>17. 使用Zig和CGO构建静态链接的Go可执行文件 
-<small>🔗 [calabro.io](https://calabro.io/zig-cgo): Building Statically Linked Go Executables with CGO and Zig</small>
-
-
-| 🔥: 100 \| 💬: [14](https://news.ycombinator.com/item?id=43505646) \| 🗓️ 2025-03-28
-
-
-<br />
-本文介绍了如何通过**Zig工具链**和**CGO**生成静态链接的Go程序，避免动态库的运行时依赖问题。作者演示了用Zig创建静态库（精简`build.zig`配置并导出C接口函数），再通过Go调用该库时强制静态链接（关键编译参数包括`-static`和指定Zig为交叉编译器）。最终生成的二进制文件经`ldd`验证无动态依赖，实现了跨平台部署的可靠性。文中强调了**Zig的跨平台能力**与**Go的简洁性**结合的高效工作流。
-
----
-
 ## <a name="18"></a>18. 将阶乘分解为大因数 
 <small>🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/): Decomposing a Factorial into Large Factors</small>
 
 
-| 🔥: 100 \| 💬: [22](https://news.ycombinator.com/item?id=43506238) \| 🗓️ 2025-03-28
+| 🔥🔥: 101 \| 💬: [23](https://news.ycombinator.com/item?id=43506238) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -255,7 +255,7 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 <small>🔗 [wired.com](https://www.wired.com/story/doge-rebuild-social-security-administration-cobol-benefits/): Doge Plans to Rebuild SSA Codebase in Months</small>
 
 
-| 🔥: 96 \| 💬: [108](https://news.ycombinator.com/item?id=43505659) \| 🗓️ 2025-03-28
+| 🔥: 97 \| 💬: [108](https://news.ycombinator.com/item?id=43505659) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -267,7 +267,7 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 <small>🔗 [chrbutler.com](https://www.chrbutler.com/digital-echoes-and-unquiet-minds): Digital Echoes and Unquiet Minds</small>
 
 
-| 🔥: 94 \| 💬: [52](https://news.ycombinator.com/item?id=43509548) \| 🗓️ 2025-03-28
+| 🔥: 95 \| 💬: [59](https://news.ycombinator.com/item?id=43509548) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -279,7 +279,7 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 <small>🔗 [depot.dev](https://depot.dev/blog/uncovering-disk-io-bottlenecks-github-actions-ci): Disk I/O bottlenecks in GitHub Actions</small>
 
 
-| 🔥: 92 \| 💬: [65](https://news.ycombinator.com/item?id=43506574) \| 🗓️ 2025-03-28
+| 🔥: 93 \| 💬: [65](https://news.ycombinator.com/item?id=43506574) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -291,7 +291,7 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 <small>🔗 [99percentinvisible.org](https://99percentinvisible.org/episode/the-real-book/): The Real Book (2021)</small>
 
 
-| 🔥: 81 \| 💬: [21](https://news.ycombinator.com/item?id=43507404) \| 🗓️ 2025-03-28
+| 🔥: 89 \| 💬: [21](https://news.ycombinator.com/item?id=43507404) \| 🗓️ 2025-03-28
 
 
 <br />
@@ -311,14 +311,14 @@ Swiftly 1.0 是 **Swift 版本管理器** 的首个稳定版，简化了 Swift �
 
 ---
 
-## <a name="25"></a>25. 没有人应该成为“内容创作者” 
-<small>🔗 [christianheilmann.com](https://christianheilmann.com/2025/03/12/nobody-should-be-a-content-creator/): Nobody should be a "content creator"</small>
+## <a name="25"></a>25. Hexi：现代C++轻量级二进制网络序列化库 
+<small>🔗 [github.com](https://github.com/EmberEmu/Hexi): Show HN: Hexi – Modern header-only network binary serialisation for C++</small>
 
 
-| 🔥: 69 \| 💬: [43](https://news.ycombinator.com/item?id=43504322) \| 🗓️ 2025-03-28
+| 🔥: 72 \| 💬: [30](https://news.ycombinator.com/item?id=43508061) \| 🗓️ 2025-03-28
 
 
 <br />
-作者批评当前**社交媒体平台**已沦为追求点击量和互动的数字游戏，**低质量内容**和AI生成的垃圾信息泛滥。平台规则鼓励短期情绪刺激，而非真正的创作或交流。他拒绝“数字创作者”标签，认为创作应源于热爱与思考，而非为算法服务。文中强调，**真正的价值**在于创造能带来快乐或启发的内容，而非追逐流量或被动收入。作者呼吁回归创作本质，拒绝被平台规则和AI工具异化。
+Hexi是一个**仅头文件**的C++23库，专注于安全处理二进制数据（尤其是网络数据）。它介于手动内存拷贝和重量级序列化库之间，强调**易用性**、**安全性**和低开销。支持标准容器（如`std::vector`、`std::span`）及自定义容器，提供边界检查、错误处理（异常或无异常模式）和端序转换功能。通过`buffer_adaptor`和`binary_stream`核心类实现读写操作，适用于需要高效处理网络消息的场景。额外提供文件缓冲、静态/动态缓冲池等实用工具，适合高性能网络编程。
 
 ---
