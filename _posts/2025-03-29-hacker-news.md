@@ -11,12 +11,12 @@ tags:
 1. 苹果《离职》为何通过远程桌面软件进行剪辑？；
 1. Postgres语言服务器正式发布；
 1. 基于ESP32的电子墨水屏番茄钟；
+1. 你的手机应用列表早已不是秘密；
 1. 《Veloren：体素奇幻冒险RPG》；
-1. 连你也要这样，Grammarly？；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [tedium.co](https://tedium.co/2025/03/29/severance-apple-remote-editing-weirdness/): Why Apple's Severance gets edited over remote desktop software</small>
 
 
-| 🔥🔥: 378 \| 💬: [245](https://news.ycombinator.com/item?id=43517301) \| 🗓️ 2025-03-29
+| 🔥🔥: 400 \| 💬: [248](https://news.ycombinator.com/item?id=43517301) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/supabase-community/postgres-language-server): Postgres Language Server: Initial Release</small>
 
 
-| 🔥🔥: 298 \| 💬: [50](https://news.ycombinator.com/item?id=43513996) \| 🗓️ 2025-03-29
+| 🔥🔥: 299 \| 💬: [50](https://news.ycombinator.com/item?id=43513996) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Rukenshia/pomodoro): Show HN: Physical Pomodoro Timer with ESP32 and e-paper screen</small>
 
 
-| 🔥🔥: 283 \| 💬: [63](https://news.ycombinator.com/item?id=43514383) \| 🗓️ 2025-03-29
+| 🔥🔥: 289 \| 💬: [63](https://news.ycombinator.com/item?id=43514383) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -59,71 +59,11 @@ tags:
 
 ---
 
-## <a name="4"></a>4. 《Veloren：体素奇幻冒险RPG》 
-<small>🔗 [veloren.net](https://veloren.net/): Veloren – voxel action-adventure role-playing</small>
-
-
-| 🔥🔥: 266 \| 💬: [65](https://news.ycombinator.com/item?id=43517337) \| 🗓️ 2025-03-29
-
-
-<br />
-欢迎来到《Veloren》！这是一款设定在广阔奇幻世界的**动作冒险RPG**。探索壮丽山脉、灼热沙漠与茂密丛林，体验**动态快节奏战斗**，搭配多样武器与玩法。与NPC互动、打造装备，挑战地牢中的强大怪物与首领。游戏拥有**程序生成的无缝世界**，支持采矿、驯服野兽及多人联机。开源项目，欢迎参与开发！
-
----
-
-## <a name="5"></a>5. 连你也要这样，Grammarly？ 
-<small>🔗 [dbushell.com](https://dbushell.com/2025/03/29/et-tu-grammarly/): Et Tu, Grammarly?</small>
-
-
-| 🔥🔥: 257 \| 💬: [69](https://news.ycombinator.com/item?id=43514308) \| 🗓️ 2025-03-29
-
-
-<br />
-David Bushell是一位来自英国的**网页设计师与开发者**，提供全球范围的网页设计、搭建及咨询服务。他活跃于多个平台，包括Mastodon、Bluesky、CodePen和GitHub，并分享个人动态与技术内容。本文简短介绍了他的职业背景与**在线足迹**，未深入探讨Grammarly的具体关联，但标题以诙谐语气暗示了对该工具的调侃或反思。
-
----
-
-## <a name="6"></a>6. 当物理学家开始用一次性手机，美国已今非昔比 
-<small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/mar/29/when-the-physicists-need-burner-phones-thats-when-you-know-americas-changed): When the physicists need burner phones, that's when you know America's changed</small>
-
-
-| 🔥🔥: 237 \| 💬: [220](https://news.ycombinator.com/item?id=43517590) \| 🗓️ 2025-03-29
-
-
-<br />
-文章指出，**美国学者**因担心政府迫害，开始在国际学术会议上使用**一次性手机**和简易电脑，类似15年前前往中国时的安全措施。这种恐慌源于特朗普政府对学术自由的打压，例如驱逐参与亲巴勒斯坦示威的哥伦比亚大学学生，以及扣留高校研究经费。欧洲多国已启动计划接纳受威胁的美国学者，但**英国高校**反应迟缓。作者将当前局势比作1930年代纳粹驱逐犹太科学家的历史，呼吁国际社会关注这一危机。
-
----
-
-## <a name="7"></a>7. 电视突然自动全屏播放视频，怎么回事？ 
-<small>🔗 [support.vizio.com](https://support.vizio.com/s/article/Ambient-or-Scenic-Mode-showing-on-my-TV?language=en_US): My TV started playing a video in full screen by itself. What happened?</small>
-
-
-| 🔥🔥: 235 \| 💬: [131](https://news.ycombinator.com/item?id=43520074) \| 🗓️ 2025-03-29
-
-
-<br />
-用户遇到电视**自动全屏播放**视频的异常情况，页面显示加载错误（CSS Error）并提示刷新。可能是**系统故障**或**恶意软件**导致，需检查设备安全设置或重启解决。若问题持续，建议联系技术支持排查深层原因。
-
----
-
-## <a name="8"></a>8. 谷歌强制安装隐藏扩展导致我的Chromebook变砖 
-<small>🔗 [cloudisland.nz](https://cloudisland.nz/@rmi/114219847307106213): Today Google bricked my Chromebook by force-installing a hidden extension</small>
-
-
-| 🔥🔥: 228 \| 💬: [63](https://news.ycombinator.com/item?id=43514087) \| 🗓️ 2025-03-29
-
-
-<br />
-作者控诉**谷歌**未经用户同意强制安装了一个**隐藏扩展程序**，导致其Chromebook完全无法使用（"变砖"）。该扩展疑似与**Mastodon**社交媒体平台相关，但具体原因尚不明确。文中提到访问Mastodon网页端需启用JavaScript或使用原生应用，但核心矛盾在于谷歌的强制更新行为严重损害了设备功能。事件暴露了科技公司对用户设备的过度控制权问题。
-
----
-
-## <a name="9"></a>9. 你的手机应用列表早已不是秘密 
+## <a name="4"></a>4. 你的手机应用列表早已不是秘密 
 <small>🔗 [peabee.substack.com](https://peabee.substack.com/p/everyone-knows-what-apps-you-use): Everyone knows all the apps on your phone</small>
 
 
-| 🔥🔥: 226 \| 💬: [93](https://news.ycombinator.com/item?id=43518866) \| 🗓️ 2025-03-29
+| 🔥🔥: 285 \| 💬: [116](https://news.ycombinator.com/item?id=43518866) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -131,11 +71,71 @@ David Bushell是一位来自英国的**网页设计师与开发者**，提供全
 
 ---
 
+## <a name="5"></a>5. 《Veloren：体素奇幻冒险RPG》 
+<small>🔗 [veloren.net](https://veloren.net/): Veloren – voxel action-adventure role-playing</small>
+
+
+| 🔥🔥: 277 \| 💬: [66](https://news.ycombinator.com/item?id=43517337) \| 🗓️ 2025-03-29
+
+
+<br />
+欢迎来到《Veloren》！这是一款设定在广阔奇幻世界的**动作冒险RPG**。探索壮丽山脉、灼热沙漠与茂密丛林，体验**动态快节奏战斗**，搭配多样武器与玩法。与NPC互动、打造装备，挑战地牢中的强大怪物与首领。游戏拥有**程序生成的无缝世界**，支持采矿、驯服野兽及多人联机。开源项目，欢迎参与开发！
+
+---
+
+## <a name="6"></a>6. 连你也要这样，Grammarly？ 
+<small>🔗 [dbushell.com](https://dbushell.com/2025/03/29/et-tu-grammarly/): Et Tu, Grammarly?</small>
+
+
+| 🔥🔥: 258 \| 💬: [69](https://news.ycombinator.com/item?id=43514308) \| 🗓️ 2025-03-29
+
+
+<br />
+David Bushell是一位来自英国的**网页设计师与开发者**，提供全球范围的网页设计、搭建及咨询服务。他活跃于多个平台，包括Mastodon、Bluesky、CodePen和GitHub，并分享个人动态与技术内容。本文简短介绍了他的职业背景与**在线足迹**，未深入探讨Grammarly的具体关联，但标题以诙谐语气暗示了对该工具的调侃或反思。
+
+---
+
+## <a name="7"></a>7. 电视突然自动全屏播放视频，怎么回事？ 
+<small>🔗 [support.vizio.com](https://support.vizio.com/s/article/Ambient-or-Scenic-Mode-showing-on-my-TV?language=en_US): My TV started playing a video in full screen by itself. What happened?</small>
+
+
+| 🔥🔥: 251 \| 💬: [141](https://news.ycombinator.com/item?id=43520074) \| 🗓️ 2025-03-29
+
+
+<br />
+用户遇到电视**自动全屏播放**视频的异常情况，页面显示加载错误（CSS Error）并提示刷新。可能是**系统故障**或**恶意软件**导致，需检查设备安全设置或重启解决。若问题持续，建议联系技术支持排查深层原因。
+
+---
+
+## <a name="8"></a>8. 当物理学家开始用一次性手机，美国已今非昔比 
+<small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/mar/29/when-the-physicists-need-burner-phones-thats-when-you-know-americas-changed): When the physicists need burner phones, that's when you know America's changed</small>
+
+
+| 🔥🔥: 240 \| 💬: [222](https://news.ycombinator.com/item?id=43517590) \| 🗓️ 2025-03-29
+
+
+<br />
+文章指出，**美国学者**因担心政府迫害，开始在国际学术会议上使用**一次性手机**和简易电脑，类似15年前前往中国时的安全措施。这种恐慌源于特朗普政府对学术自由的打压，例如驱逐参与亲巴勒斯坦示威的哥伦比亚大学学生，以及扣留高校研究经费。欧洲多国已启动计划接纳受威胁的美国学者，但**英国高校**反应迟缓。作者将当前局势比作1930年代纳粹驱逐犹太科学家的历史，呼吁国际社会关注这一危机。
+
+---
+
+## <a name="9"></a>9. 谷歌强制安装隐藏扩展导致我的Chromebook变砖 
+<small>🔗 [cloudisland.nz](https://cloudisland.nz/@rmi/114219847307106213): Today Google bricked my Chromebook by force-installing a hidden extension</small>
+
+
+| 🔥🔥: 229 \| 💬: [63](https://news.ycombinator.com/item?id=43514087) \| 🗓️ 2025-03-29
+
+
+<br />
+作者控诉**谷歌**未经用户同意强制安装了一个**隐藏扩展程序**，导致其Chromebook完全无法使用（"变砖"）。该扩展疑似与**Mastodon**社交媒体平台相关，但具体原因尚不明确。文中提到访问Mastodon网页端需启用JavaScript或使用原生应用，但核心矛盾在于谷歌的强制更新行为严重损害了设备功能。事件暴露了科技公司对用户设备的过度控制权问题。
+
+---
+
 ## <a name="10"></a>10. 特朗普对大学的打压愈演愈烈，阴影已蔓延至海外 
 <small>🔗 [christinapagel.substack.com](https://christinapagel.substack.com/p/trumps-attacks-on-universities-get): Trump's attacks on universities get darker, with shadows reaching our shores</small>
 
 
-| 🔥🔥: 220 \| 💬: [147](https://news.ycombinator.com/item?id=43513811) \| 🗓️ 2025-03-29
+| 🔥🔥: 223 \| 💬: [148](https://news.ycombinator.com/item?id=43513811) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -147,7 +147,7 @@ David Bushell是一位来自英国的**网页设计师与开发者**，提供全
 <small>🔗 [github.com](https://github.com/misprit7/real-time-chess): Real Time Chess – A physical chess board without the concept of turns</small>
 
 
-| 🔥🔥: 210 \| 💬: [35](https://news.ycombinator.com/item?id=43514695) \| 🗓️ 2025-03-29
+| 🔥🔥: 214 \| 💬: [35](https://news.ycombinator.com/item?id=43514695) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -159,7 +159,7 @@ David Bushell是一位来自英国的**网页设计师与开发者**，提供全
 <small>🔗 [pagedout.institute](https://pagedout.institute/download/PagedOut_006.pdf): Paged Out #6 [pdf]</small>
 
 
-| 🔥🔥: 198 \| 💬: [12](https://news.ycombinator.com/item?id=43517375) \| 🗓️ 2025-03-29
+| 🔥🔥: 202 \| 💬: [12](https://news.ycombinator.com/item?id=43517375) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -167,11 +167,23 @@ David Bushell是一位来自英国的**网页设计师与开发者**，提供全
 
 ---
 
-## <a name="13"></a>13. 数学密集型学科的可访问开放教材挑战与解决方案 
+## <a name="13"></a>13. 一次性购买，永久使用：无需订阅的软件推荐目录 
+<small>🔗 [buyoncesoftware.com](https://buyoncesoftware.com/): Buy once, use forever A directory of one-time purchase software. Add yours</small>
+
+
+| 🔥🔥: 199 \| 💬: [86](https://news.ycombinator.com/item?id=43519998) \| 🗓️ 2025-03-29
+
+
+<br />
+本文推荐多款**一次性付费**即可永久使用的软件，涵盖绘画、生产力、邮件营销、AI工具等领域，帮助用户摆脱订阅疲劳。例如**MediBang Paint Pro**（免费数字绘画工具）、**DevonThink**（知识管理神器）和**FridayGPT**（Mac端AI助手）。部分软件提供黑五折扣，适合追求长期性价比的用户。
+
+---
+
+## <a name="14"></a>14. 数学密集型学科的可访问开放教材挑战与解决方案 
 <small>🔗 [richardzach.org](https://richardzach.org/2025/03/accessible-open-textbooks-in-math-heavy-disciplines/): Accessible open textbooks in math-heavy disciplines</small>
 
 
-| 🔥🔥: 166 \| 💬: [54](https://news.ycombinator.com/item?id=43516733) \| 🗓️ 2025-03-29
+| 🔥🔥: 169 \| 💬: [55](https://news.ycombinator.com/item?id=43516733) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -179,23 +191,11 @@ David Bushell是一位来自英国的**网页设计师与开发者**，提供全
 
 ---
 
-## <a name="14"></a>14. Koto编程语言 
-<small>🔗 [koto.dev](https://koto.dev/): Koto Programming Language</small>
-
-
-| 🔥🔥: 149 \| 💬: [123](https://news.ycombinator.com/item?id=43514915) \| 🗓️ 2025-03-29
-
-
-<br />
-Koto是一种**轻量级脚本语言**，专为Rust应用程序设计。它提供了简洁的语法和高效的运行性能，适合嵌入到现有Rust项目中。用户可以通过**文档**和**在线演练场**快速上手，支持快速安装和集成。其核心目标是提升Rust生态的脚本化能力，同时保持低资源占用。
-
----
-
 ## <a name="15"></a>15. 美国犹他州率先禁止饮用水加氟 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c4gmggp2y99o): Utah becomes first US state to ban fluoride in its water</small>
 
 
-| 🔥🔥: 133 \| 💬: [274](https://news.ycombinator.com/item?id=43517833) \| 🗓️ 2025-03-29
+| 🔥🔥: 166 \| 💬: [331](https://news.ycombinator.com/item?id=43517833) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -203,11 +203,23 @@ Koto是一种**轻量级脚本语言**，专为Rust应用程序设计。它提�
 
 ---
 
-## <a name="16"></a>16. 苹果的AI并非败笔，AI本身才是问题所在 
+## <a name="16"></a>16. Koto编程语言 
+<small>🔗 [koto.dev](https://koto.dev/): Koto Programming Language</small>
+
+
+| 🔥🔥: 154 \| 💬: [123](https://news.ycombinator.com/item?id=43514915) \| 🗓️ 2025-03-29
+
+
+<br />
+Koto是一种**轻量级脚本语言**，专为Rust应用程序设计。它提供了简洁的语法和高效的运行性能，适合嵌入到现有Rust项目中。用户可以通过**文档**和**在线演练场**快速上手，支持快速安装和集成。其核心目标是提升Rust生态的脚本化能力，同时保持低资源占用。
+
+---
+
+## <a name="17"></a>17. 苹果的AI并非败笔，AI本身才是问题所在 
 <small>🔗 [cnn.com](https://www.cnn.com/2025/03/27/tech/apple-ai-artificial-intelligence/index.html): Apple's AI isn't a letdown. AI is the letdown</small>
 
 
-| 🔥🔥: 126 \| 💬: [132](https://news.ycombinator.com/item?id=43518576) \| 🗓️ 2025-03-29
+| 🔥🔥: 128 \| 💬: [132](https://news.ycombinator.com/item?id=43518576) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -215,11 +227,11 @@ Koto是一种**轻量级脚本语言**，专为Rust应用程序设计。它提�
 
 ---
 
-## <a name="17"></a>17. 极客的天真与科技公司的谎言 
+## <a name="18"></a>18. 极客的天真与科技公司的谎言 
 <small>🔗 [ploum.net](https://ploum.net/2025-03-28-geeks-naivety.html): The Candid Naivety of Geeks</small>
 
 
-| 🔥🔥: 124 \| 💬: [65](https://news.ycombinator.com/item?id=43518087) \| 🗓️ 2025-03-29
+| 🔥🔥: 126 \| 💬: [65](https://news.ycombinator.com/item?id=43518087) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -227,11 +239,11 @@ Koto是一种**轻量级脚本语言**，专为Rust应用程序设计。它提�
 
 ---
 
-## <a name="18"></a>18. Atop 2.11堆内存漏洞分析 
+## <a name="19"></a>19. Atop 2.11堆内存漏洞分析 
 <small>🔗 [openwall.com](https://openwall.com/lists/oss-security/2025/03/29/1): Atop 2.11 heap problems</small>
 
 
-| 🔥🔥: 113 \| 💬: [48](https://news.ycombinator.com/item?id=43518560) \| 🗓️ 2025-03-29
+| 🔥🔥: 120 \| 💬: [50](https://news.ycombinator.com/item?id=43518560) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -241,23 +253,11 @@ Atop是一款通过读取`/proc`和`/sys`目录监控系统及进程状态的工
 
 ---
 
-## <a name="19"></a>19. 为什么我不再和架构师讨论微服务 
-<small>🔗 [blog.container-solutions.com](https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices): Why I'm No Longer Talking to Architects About Microservices</small>
-
-
-| 🔥🔥: 107 \| 💬: [88](https://news.ycombinator.com/item?id=43515563) \| 🗓️ 2025-03-29
-
-
-<br />
-作者Ian Miell指出，关于**微服务**的讨论常常陷入无意义的抽象争论，原因有三：首先，**微服务缺乏统一定义**，导致各方自说自话；其次，讨论常脱离实际**业务目标**，沦为技术空谈；最后，若组织未同步调整（如团队自治、DevOps文化），微服务反而会增加复杂性。他认为，与其纠结术语，不如聚焦具体问题（如部署速度、系统解耦），因为微服务只是实现目标的工具，而非目标本身。
-
----
-
 ## <a name="20"></a>20. 大卫·林奇执导的广告作品（2018年） 
 <small>🔗 [openculture.com](https://www.openculture.com/2018/07/watch-commercials-david-lynch-directed-big-30-minute-compilation.html): Commercials that David Lynch directed (2018)</small>
 
 
-| 🔥🔥: 106 \| 💬: [24](https://news.ycombinator.com/item?id=43518466) \| 🗓️ 2025-03-29
+| 🔥🔥: 109 \| 💬: [23](https://news.ycombinator.com/item?id=43518466) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -269,7 +269,7 @@ Atop是一款通过读取`/proc`和`/sys`目录监控系统及进程状态的工
 <small>🔗 [techdirt.com](https://www.techdirt.com/2025/03/27/trumps-secret-police-are-now-disappearing-students-for-their-op-eds/): Trump's Police Are Now Disappearing Students for Their Op-Eds</small>
 
 
-| 🔥🔥: 103 \| 💬: [21](https://news.ycombinator.com/item?id=43519864) \| 🗓️ 2025-03-29
+| 🔥🔥: 109 \| 💬: [22](https://news.ycombinator.com/item?id=43519864) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -277,11 +277,23 @@ Atop是一款通过读取`/proc`和`/sys`目录监控系统及进程状态的工
 
 ---
 
-## <a name="22"></a>22. 诈骗团伙年盗1万亿美元，美国成最大受害国 
+## <a name="22"></a>22. 为什么我不再和架构师讨论微服务 
+<small>🔗 [blog.container-solutions.com](https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices): Why I'm No Longer Talking to Architects About Microservices</small>
+
+
+| 🔥🔥: 107 \| 💬: [89](https://news.ycombinator.com/item?id=43515563) \| 🗓️ 2025-03-29
+
+
+<br />
+作者Ian Miell指出，关于**微服务**的讨论常常陷入无意义的抽象争论，原因有三：首先，**微服务缺乏统一定义**，导致各方自说自话；其次，讨论常脱离实际**业务目标**，沦为技术空谈；最后，若组织未同步调整（如团队自治、DevOps文化），微服务反而会增加复杂性。他认为，与其纠结术语，不如聚焦具体问题（如部署速度、系统解耦），因为微服务只是实现目标的工具，而非目标本身。
+
+---
+
+## <a name="23"></a>23. 诈骗团伙年盗1万亿美元，美国成最大受害国 
 <small>🔗 [wired.com](https://www.wired.com/video/watch/incognito-mode-romance-scams): Scammers Steal $1T a Year – Mostly from Americans</small>
 
 
-| 🔥: 100 \| 💬: [90](https://news.ycombinator.com/item?id=43513850) \| 🗓️ 2025-03-29
+| 🔥🔥: 102 \| 💬: [90](https://news.ycombinator.com/item?id=43513850) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -289,11 +301,11 @@ Atop是一款通过读取`/proc`和`/sys`目录监控系统及进程状态的工
 
 ---
 
-## <a name="23"></a>23. 推特（X）遭遇2.8亿用户数据泄露 疑似内部人员所为 
+## <a name="24"></a>24. 推特（X）遭遇2.8亿用户数据泄露 疑似内部人员所为 
 <small>🔗 [hackread.com](https://hackread.com/twitter-x-of-2-8-billion-data-leak-an-insider-job/): Twitter (X) Hit by Data Leak of 2.8B Users – Allegedly an Insider Job</small>
 
 
-| 🔥: 100 \| 💬: [14](https://news.ycombinator.com/item?id=43517318) \| 🗓️ 2025-03-29
+| 🔥🔥: 101 \| 💬: [14](https://news.ycombinator.com/item?id=43517318) \| 🗓️ 2025-03-29
 
 
 <br />
