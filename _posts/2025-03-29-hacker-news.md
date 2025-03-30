@@ -9,9 +9,9 @@ tags:
 
 
 1. 苹果《离职》为何通过远程桌面软件进行剪辑？；
+1. 你的手机应用列表早已不是秘密；
 1. Postgres语言服务器正式发布；
 1. 基于ESP32的电子墨水屏番茄钟；
-1. 你的手机应用列表早已不是秘密；
 1. 《Veloren：体素奇幻冒险RPG》；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [tedium.co](https://tedium.co/2025/03/29/severance-apple-remote-editing-weirdness/): Why Apple's Severance gets edited over remote desktop software</small>
 
 
-| 🔥🔥: 400 \| 💬: [248](https://news.ycombinator.com/item?id=43517301) \| 🗓️ 2025-03-29
+| 🔥🔥: 414 \| 💬: [250](https://news.ycombinator.com/item?id=43517301) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -35,11 +35,23 @@ tags:
 
 ---
 
-## <a name="2"></a>2. Postgres语言服务器正式发布 
+## <a name="2"></a>2. 你的手机应用列表早已不是秘密 
+<small>🔗 [peabee.substack.com](https://peabee.substack.com/p/everyone-knows-what-apps-you-use): Everyone knows all the apps on your phone</small>
+
+
+| 🔥🔥: 351 \| 💬: [132](https://news.ycombinator.com/item?id=43518866) \| 🗓️ 2025-03-29
+
+
+<br />
+尽管谷歌自2022年（Android 11起）限制应用随意读取其他应用列表，但许多印度公司仍通过**漏洞**或**过度声明权限**收集用户数据。例如，Swiggy检测154款应用，Zepto查询165款，而借贷应用KreditBee甚至扫描860款。更隐蔽的是，31/47款应用利用**ACTION_MAIN**权限绕过限制，悄无声息获取全部应用列表。这些数据可能用于用户画像、差异化定价甚至监控员工行为，严重侵犯隐私。谷歌的政策形同虚设，敏感数据仍在被滥用。
+
+---
+
+## <a name="3"></a>3. Postgres语言服务器正式发布 
 <small>🔗 [github.com](https://github.com/supabase-community/postgres-language-server): Postgres Language Server: Initial Release</small>
 
 
-| 🔥🔥: 299 \| 💬: [50](https://news.ycombinator.com/item?id=43513996) \| 🗓️ 2025-03-29
+| 🔥🔥: 301 \| 💬: [50](https://news.ycombinator.com/item?id=43513996) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -47,7 +59,7 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 基于ESP32的电子墨水屏番茄钟 
+## <a name="4"></a>4. 基于ESP32的电子墨水屏番茄钟 
 <small>🔗 [github.com](https://github.com/Rukenshia/pomodoro): Show HN: Physical Pomodoro Timer with ESP32 and e-paper screen</small>
 
 
@@ -59,23 +71,11 @@ tags:
 
 ---
 
-## <a name="4"></a>4. 你的手机应用列表早已不是秘密 
-<small>🔗 [peabee.substack.com](https://peabee.substack.com/p/everyone-knows-what-apps-you-use): Everyone knows all the apps on your phone</small>
-
-
-| 🔥🔥: 285 \| 💬: [116](https://news.ycombinator.com/item?id=43518866) \| 🗓️ 2025-03-29
-
-
-<br />
-尽管谷歌自2022年（Android 11起）限制应用随意读取其他应用列表，但许多印度公司仍通过**漏洞**或**过度声明权限**收集用户数据。例如，Swiggy检测154款应用，Zepto查询165款，而借贷应用KreditBee甚至扫描860款。更隐蔽的是，31/47款应用利用**ACTION_MAIN**权限绕过限制，悄无声息获取全部应用列表。这些数据可能用于用户画像、差异化定价甚至监控员工行为，严重侵犯隐私。谷歌的政策形同虚设，敏感数据仍在被滥用。
-
----
-
 ## <a name="5"></a>5. 《Veloren：体素奇幻冒险RPG》 
 <small>🔗 [veloren.net](https://veloren.net/): Veloren – voxel action-adventure role-playing</small>
 
 
-| 🔥🔥: 277 \| 💬: [66](https://news.ycombinator.com/item?id=43517337) \| 🗓️ 2025-03-29
+| 🔥🔥: 277 \| 💬: [67](https://news.ycombinator.com/item?id=43517337) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -83,7 +83,19 @@ tags:
 
 ---
 
-## <a name="6"></a>6. 连你也要这样，Grammarly？ 
+## <a name="6"></a>6. 电视突然自动全屏播放视频，怎么回事？ 
+<small>🔗 [support.vizio.com](https://support.vizio.com/s/article/Ambient-or-Scenic-Mode-showing-on-my-TV?language=en_US): My TV started playing a video in full screen by itself. What happened?</small>
+
+
+| 🔥🔥: 270 \| 💬: [154](https://news.ycombinator.com/item?id=43520074) \| 🗓️ 2025-03-29
+
+
+<br />
+用户遇到电视**自动全屏播放**视频的异常情况，页面显示加载错误（CSS Error）并提示刷新。可能是**系统故障**或**恶意软件**导致，需检查设备安全设置或重启解决。若问题持续，建议联系技术支持排查深层原因。
+
+---
+
+## <a name="7"></a>7. 连你也要这样，Grammarly？ 
 <small>🔗 [dbushell.com](https://dbushell.com/2025/03/29/et-tu-grammarly/): Et Tu, Grammarly?</small>
 
 
@@ -95,23 +107,11 @@ David Bushell是一位来自英国的**网页设计师与开发者**，提供全
 
 ---
 
-## <a name="7"></a>7. 电视突然自动全屏播放视频，怎么回事？ 
-<small>🔗 [support.vizio.com](https://support.vizio.com/s/article/Ambient-or-Scenic-Mode-showing-on-my-TV?language=en_US): My TV started playing a video in full screen by itself. What happened?</small>
-
-
-| 🔥🔥: 251 \| 💬: [141](https://news.ycombinator.com/item?id=43520074) \| 🗓️ 2025-03-29
-
-
-<br />
-用户遇到电视**自动全屏播放**视频的异常情况，页面显示加载错误（CSS Error）并提示刷新。可能是**系统故障**或**恶意软件**导致，需检查设备安全设置或重启解决。若问题持续，建议联系技术支持排查深层原因。
-
----
-
 ## <a name="8"></a>8. 当物理学家开始用一次性手机，美国已今非昔比 
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/mar/29/when-the-physicists-need-burner-phones-thats-when-you-know-americas-changed): When the physicists need burner phones, that's when you know America's changed</small>
 
 
-| 🔥🔥: 240 \| 💬: [222](https://news.ycombinator.com/item?id=43517590) \| 🗓️ 2025-03-29
+| 🔥🔥: 242 \| 💬: [223](https://news.ycombinator.com/item?id=43517590) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -135,7 +135,7 @@ David Bushell是一位来自英国的**网页设计师与开发者**，提供全
 <small>🔗 [christinapagel.substack.com](https://christinapagel.substack.com/p/trumps-attacks-on-universities-get): Trump's attacks on universities get darker, with shadows reaching our shores</small>
 
 
-| 🔥🔥: 223 \| 💬: [148](https://news.ycombinator.com/item?id=43513811) \| 🗓️ 2025-03-29
+| 🔥🔥: 226 \| 💬: [149](https://news.ycombinator.com/item?id=43513811) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -147,7 +147,7 @@ David Bushell是一位来自英国的**网页设计师与开发者**，提供全
 <small>🔗 [github.com](https://github.com/misprit7/real-time-chess): Real Time Chess – A physical chess board without the concept of turns</small>
 
 
-| 🔥🔥: 214 \| 💬: [35](https://news.ycombinator.com/item?id=43514695) \| 🗓️ 2025-03-29
+| 🔥🔥: 222 \| 💬: [36](https://news.ycombinator.com/item?id=43514695) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -159,7 +159,7 @@ David Bushell是一位来自英国的**网页设计师与开发者**，提供全
 <small>🔗 [pagedout.institute](https://pagedout.institute/download/PagedOut_006.pdf): Paged Out #6 [pdf]</small>
 
 
-| 🔥🔥: 202 \| 💬: [12](https://news.ycombinator.com/item?id=43517375) \| 🗓️ 2025-03-29
+| 🔥🔥: 209 \| 💬: [17](https://news.ycombinator.com/item?id=43517375) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -171,7 +171,7 @@ David Bushell是一位来自英国的**网页设计师与开发者**，提供全
 <small>🔗 [buyoncesoftware.com](https://buyoncesoftware.com/): Buy once, use forever A directory of one-time purchase software. Add yours</small>
 
 
-| 🔥🔥: 199 \| 💬: [86](https://news.ycombinator.com/item?id=43519998) \| 🗓️ 2025-03-29
+| 🔥🔥: 201 \| 💬: [86](https://news.ycombinator.com/item?id=43519998) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -179,23 +179,11 @@ David Bushell是一位来自英国的**网页设计师与开发者**，提供全
 
 ---
 
-## <a name="14"></a>14. 数学密集型学科的可访问开放教材挑战与解决方案 
-<small>🔗 [richardzach.org](https://richardzach.org/2025/03/accessible-open-textbooks-in-math-heavy-disciplines/): Accessible open textbooks in math-heavy disciplines</small>
-
-
-| 🔥🔥: 169 \| 💬: [55](https://news.ycombinator.com/item?id=43516733) \| 🗓️ 2025-03-29
-
-
-<br />
-数学、物理等学科常用**LaTeX**编写教材，但其生成的PDF存在**可访问性缺陷**（如无法自适应屏幕、缺乏语义信息）。解决方案包括：1) 改用支持HTML导出的工具（如PreTeXt、Markdown）；2) 通过**LaTeXML**将LaTeX转换为含MathML的HTML。案例显示，转换需调整代码并优化CSS，且需为视障用户添加替代文本与语音适配。当前挑战在于跨设备/屏幕阅读器的兼容性测试及数学公式的无障碍呈现。
-
----
-
-## <a name="15"></a>15. 美国犹他州率先禁止饮用水加氟 
+## <a name="14"></a>14. 美国犹他州率先禁止饮用水加氟 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c4gmggp2y99o): Utah becomes first US state to ban fluoride in its water</small>
 
 
-| 🔥🔥: 166 \| 💬: [331](https://news.ycombinator.com/item?id=43517833) \| 🗓️ 2025-03-29
+| 🔥🔥: 191 \| 💬: [388](https://news.ycombinator.com/item?id=43517833) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -203,11 +191,23 @@ David Bushell是一位来自英国的**网页设计师与开发者**，提供全
 
 ---
 
+## <a name="15"></a>15. 数学密集型学科的可访问开放教材挑战与解决方案 
+<small>🔗 [richardzach.org](https://richardzach.org/2025/03/accessible-open-textbooks-in-math-heavy-disciplines/): Accessible open textbooks in math-heavy disciplines</small>
+
+
+| 🔥🔥: 175 \| 💬: [55](https://news.ycombinator.com/item?id=43516733) \| 🗓️ 2025-03-29
+
+
+<br />
+数学、物理等学科常用**LaTeX**编写教材，但其生成的PDF存在**可访问性缺陷**（如无法自适应屏幕、缺乏语义信息）。解决方案包括：1) 改用支持HTML导出的工具（如PreTeXt、Markdown）；2) 通过**LaTeXML**将LaTeX转换为含MathML的HTML。案例显示，转换需调整代码并优化CSS，且需为视障用户添加替代文本与语音适配。当前挑战在于跨设备/屏幕阅读器的兼容性测试及数学公式的无障碍呈现。
+
+---
+
 ## <a name="16"></a>16. Koto编程语言 
 <small>🔗 [koto.dev](https://koto.dev/): Koto Programming Language</small>
 
 
-| 🔥🔥: 154 \| 💬: [123](https://news.ycombinator.com/item?id=43514915) \| 🗓️ 2025-03-29
+| 🔥🔥: 157 \| 💬: [124](https://news.ycombinator.com/item?id=43514915) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -215,15 +215,15 @@ Koto是一种**轻量级脚本语言**，专为Rust应用程序设计。它提�
 
 ---
 
-## <a name="17"></a>17. 苹果的AI并非败笔，AI本身才是问题所在 
-<small>🔗 [cnn.com](https://www.cnn.com/2025/03/27/tech/apple-ai-artificial-intelligence/index.html): Apple's AI isn't a letdown. AI is the letdown</small>
+## <a name="17"></a>17. 将Linux改造为Windows兼容系统 
+<small>🔗 [philipbohun.com](https://philipbohun.com/blog/0007.html): Convert Linux to Windows</small>
 
 
-| 🔥🔥: 128 \| 💬: [132](https://news.ycombinator.com/item?id=43518576) \| 🗓️ 2025-03-29
+| 🔥🔥: 140 \| 💬: [162](https://news.ycombinator.com/item?id=43518917) \| 🗓️ 2025-03-29
 
 
 <br />
-苹果因AI功能延迟发布和现有功能（如短信摘要）的鸡肋表现遭受批评，但核心问题在于**AI技术本身尚未成熟**。华尔街推动科技巨头盲目押注AI，而用户实际需求并不明确。苹果对**隐私安全**和**用户体验**的极致追求与当前AI的粗糙本质形成冲突——80%准确率的AI对消费者毫无价值。正如文中举例，若新版Siri误报航班信息，后果无法接受。**AI仍是科研命题，而非成熟产品**，苹果的谨慎恰恰体现了对用户负责的态度。
+作者提出创建一个默认通过**Wine**运行Windows二进制文件的Linux发行版，以解决Linux的**二进制兼容性问题**。Linux环境因库版本冲突导致旧程序无法运行，而Windows的**Win32 ABI**凭借稳定性和动态链接机制，使20年前的.exe文件仍可执行。新发行版将预装Wine，微调内核以无缝运行Windows程序，并提供类似Windows的界面，降低用户迁移门槛。此举既能保留Linux自由，又能规避Windows/macOS日益严苛的隐私与控制问题，为未来可能被迫升级的用户提供备选方案。
 
 ---
 
@@ -231,7 +231,7 @@ Koto是一种**轻量级脚本语言**，专为Rust应用程序设计。它提�
 <small>🔗 [ploum.net](https://ploum.net/2025-03-28-geeks-naivety.html): The Candid Naivety of Geeks</small>
 
 
-| 🔥🔥: 126 \| 💬: [65](https://news.ycombinator.com/item?id=43518087) \| 🗓️ 2025-03-29
+| 🔥🔥: 131 \| 💬: [68](https://news.ycombinator.com/item?id=43518087) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -239,11 +239,23 @@ Koto是一种**轻量级脚本语言**，专为Rust应用程序设计。它提�
 
 ---
 
-## <a name="19"></a>19. Atop 2.11堆内存漏洞分析 
+## <a name="19"></a>19. 苹果的AI并非败笔，AI本身才是问题所在 
+<small>🔗 [cnn.com](https://www.cnn.com/2025/03/27/tech/apple-ai-artificial-intelligence/index.html): Apple's AI isn't a letdown. AI is the letdown</small>
+
+
+| 🔥🔥: 128 \| 💬: [133](https://news.ycombinator.com/item?id=43518576) \| 🗓️ 2025-03-29
+
+
+<br />
+苹果因AI功能延迟发布和现有功能（如短信摘要）的鸡肋表现遭受批评，但核心问题在于**AI技术本身尚未成熟**。华尔街推动科技巨头盲目押注AI，而用户实际需求并不明确。苹果对**隐私安全**和**用户体验**的极致追求与当前AI的粗糙本质形成冲突——80%准确率的AI对消费者毫无价值。正如文中举例，若新版Siri误报航班信息，后果无法接受。**AI仍是科研命题，而非成熟产品**，苹果的谨慎恰恰体现了对用户负责的态度。
+
+---
+
+## <a name="20"></a>20. Atop 2.11堆内存漏洞分析 
 <small>🔗 [openwall.com](https://openwall.com/lists/oss-security/2025/03/29/1): Atop 2.11 heap problems</small>
 
 
-| 🔥🔥: 120 \| 💬: [50](https://news.ycombinator.com/item?id=43518560) \| 🗓️ 2025-03-29
+| 🔥🔥: 124 \| 💬: [51](https://news.ycombinator.com/item?id=43518560) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -253,23 +265,11 @@ Atop是一款通过读取`/proc`和`/sys`目录监控系统及进程状态的工
 
 ---
 
-## <a name="20"></a>20. 将Linux改造为Windows兼容系统 
-<small>🔗 [philipbohun.com](https://philipbohun.com/blog/0007.html): Convert Linux to Windows</small>
-
-
-| 🔥🔥: 117 \| 💬: [147](https://news.ycombinator.com/item?id=43518917) \| 🗓️ 2025-03-29
-
-
-<br />
-作者提出创建一个默认通过**Wine**运行Windows二进制文件的Linux发行版，以解决Linux的**二进制兼容性问题**。Linux环境因库版本冲突导致旧程序无法运行，而Windows的**Win32 ABI**凭借稳定性和动态链接机制，使20年前的.exe文件仍可执行。新发行版将预装Wine，微调内核以无缝运行Windows程序，并提供类似Windows的界面，降低用户迁移门槛。此举既能保留Linux自由，又能规避Windows/macOS日益严苛的隐私与控制问题，为未来可能被迫升级的用户提供备选方案。
-
----
-
 ## <a name="21"></a>21. 大卫·林奇执导的广告作品（2018年） 
 <small>🔗 [openculture.com](https://www.openculture.com/2018/07/watch-commercials-david-lynch-directed-big-30-minute-compilation.html): Commercials that David Lynch directed (2018)</small>
 
 
-| 🔥🔥: 109 \| 💬: [23](https://news.ycombinator.com/item?id=43518466) \| 🗓️ 2025-03-29
+| 🔥🔥: 115 \| 💬: [25](https://news.ycombinator.com/item?id=43518466) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -281,7 +281,7 @@ Atop是一款通过读取`/proc`和`/sys`目录监控系统及进程状态的工
 <small>🔗 [techdirt.com](https://www.techdirt.com/2025/03/27/trumps-secret-police-are-now-disappearing-students-for-their-op-eds/): Trump's Police Are Now Disappearing Students for Their Op-Eds</small>
 
 
-| 🔥🔥: 109 \| 💬: [22](https://news.ycombinator.com/item?id=43519864) \| 🗓️ 2025-03-29
+| 🔥🔥: 112 \| 💬: [25](https://news.ycombinator.com/item?id=43519864) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -293,7 +293,7 @@ Atop是一款通过读取`/proc`和`/sys`目录监控系统及进程状态的工
 <small>🔗 [blog.container-solutions.com](https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices): Why I'm No Longer Talking to Architects About Microservices</small>
 
 
-| 🔥🔥: 107 \| 💬: [89](https://news.ycombinator.com/item?id=43515563) \| 🗓️ 2025-03-29
+| 🔥🔥: 108 \| 💬: [89](https://news.ycombinator.com/item?id=43515563) \| 🗓️ 2025-03-29
 
 
 <br />
@@ -301,7 +301,19 @@ Atop是一款通过读取`/proc`和`/sys`目录监控系统及进程状态的工
 
 ---
 
-## <a name="24"></a>24. 诈骗团伙年盗1万亿美元，美国成最大受害国 
+## <a name="24"></a>24. LVGL：为嵌入式设备打造精美UI的开源图形库 
+<small>🔗 [github.com](https://github.com/lvgl/lvgl): Lvgl: Embedded graphics library to create beautiful UIs</small>
+
+
+| 🔥🔥: 103 \| 💬: [21](https://news.ycombinator.com/item?id=43517576) \| 🗓️ 2025-03-29
+
+
+<br />
+LVGL是一个轻量级、功能丰富的**开源图形库**，专为嵌入式系统设计，支持各类MCU、MPU和显示器（如TFT、OLED）。它提供**30+内置控件**、灵活的样式系统、多语言排版及动画效果，仅需32kB RAM和128kB Flash即可运行。支持MicroPython绑定，并获Arm、ST等大厂采用，适用于商业项目（MIT协议）。开发者可通过在线模拟器快速体验，文档详尽，社区活跃。
+
+---
+
+## <a name="25"></a>25. 诈骗团伙年盗1万亿美元，美国成最大受害国 
 <small>🔗 [wired.com](https://www.wired.com/video/watch/incognito-mode-romance-scams): Scammers Steal $1T a Year – Mostly from Americans</small>
 
 
@@ -310,17 +322,5 @@ Atop是一款通过读取`/proc`和`/sys`目录监控系统及进程状态的工
 
 <br />
 该视频揭露了**浪漫骗局**的运作方式：诈骗者通过交友软件（如Hinge）建立信任，诱导受害者投资虚假加密货币平台。一名化名Evelyn的女性在分手后脆弱期被骗走**30万美元**，诈骗者利用伪造网站（如CEGAMAS）和情感操控手段。专家指出，**投资骗局**近年增长40%，受害者往往因情感缺口或财务压力中招。全球2024年网络诈骗损失超1万亿美元，美国人均损失3500美元，远超其他国家。
-
----
-
-## <a name="25"></a>25. 推特（X）遭遇2.8亿用户数据泄露 疑似内部人员所为 
-<small>🔗 [hackread.com](https://hackread.com/twitter-x-of-2-8-billion-data-leak-an-insider-job/): Twitter (X) Hit by Data Leak of 2.8B Users – Allegedly an Insider Job</small>
-
-
-| 🔥🔥: 101 \| 💬: [14](https://news.ycombinator.com/item?id=43517318) \| 🗓️ 2025-03-29
-
-
-<br />
-最新消息显示，**推特（X）**官方估计受影响的用户约为6.5亿，但此前传闻称泄露数据涉及**28亿用户**，真实性存疑。尽管平台规模庞大，但如此巨大的数据差异引发了对泄露源头的猜测，**内部人员作案**的可能性被提及。目前具体细节仍在调查中。
 
 ---
