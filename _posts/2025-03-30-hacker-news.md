@@ -8,38 +8,26 @@ tags:
 ---
 
 
-1. 怀旧风桌面系统Blue95：重现童年电脑室的经典体验；
 1. FBI突袭知名计算机科学家住所，当事人失联且校方删除所有信息；
+1. 怀旧风桌面系统Blue95：重现童年电脑室的经典体验；
 1. 当代大学生的困境：一位教授的观察；
 1. Rust Any系列第三篇：向上转型终获支持；
 1. 伦敦警方突袭贵格会所逮捕气候活动人士；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共16条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
 ![](/assets/images/hacker_news.jpg)
 
 
-## <a name="1"></a>1. 怀旧风桌面系统Blue95：重现童年电脑室的经典体验 
-<small>🔗 [github.com](https://github.com/winblues/blue95): Blue95: a desktop for your childhood home's computer room</small>
-
-
-| 🔥🔥: 286 \| 💬: [152](https://news.ycombinator.com/item?id=43524937) \| 🗓️ 2025-03-30
-
-
-<br />
-Blue95是一款基于**Fedora Atomic Xfce**的轻量级桌面系统，通过**Chicago95主题**复刻了Windows 95的经典界面，兼顾现代功能与怀旧美学。支持通过ISO或**rpm-ostree rebase**从其他Atomic系统迁移，提供Live CD测试环境。项目目标包括保持Fedora核心更新、集成Universal Blue优化，并平衡**可用性**与复古设计，而非完全复刻旧系统。当前安装工具为测试版，建议优先通过镜像库部署。
-
----
-
-## <a name="2"></a>2. FBI突袭知名计算机科学家住所，当事人失联且校方删除所有信息 
+## <a name="1"></a>1. FBI突袭知名计算机科学家住所，当事人失联且校方删除所有信息 
 <small>🔗 [arstechnica.com](https://arstechnica.com/security/2025/03/computer-scientist-goes-silent-after-fbi-raid-and-purging-from-university-website/): FBI raids home of prominent computer scientist who has gone incommunicado</small>
 
 
-| 🔥🔥: 285 \| 💬: [110](https://news.ycombinator.com/item?id=43527001) \| 🗓️ 2025-03-30
+| 🔥🔥: 409 \| 💬: [154](https://news.ycombinator.com/item?id=43527001) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -47,11 +35,23 @@ Blue95是一款基于**Fedora Atomic Xfce**的轻量级桌面系统，通过**Ch
 
 ---
 
+## <a name="2"></a>2. 怀旧风桌面系统Blue95：重现童年电脑室的经典体验 
+<small>🔗 [github.com](https://github.com/winblues/blue95): Blue95: a desktop for your childhood home's computer room</small>
+
+
+| 🔥🔥: 320 \| 💬: [166](https://news.ycombinator.com/item?id=43524937) \| 🗓️ 2025-03-30
+
+
+<br />
+Blue95是一款基于**Fedora Atomic Xfce**的轻量级桌面系统，通过**Chicago95主题**复刻了Windows 95的经典界面，兼顾现代功能与怀旧美学。支持通过ISO或**rpm-ostree rebase**从其他Atomic系统迁移，提供Live CD测试环境。项目目标包括保持Fedora核心更新、集成Universal Blue优化，并平衡**可用性**与复古设计，而非完全复刻旧系统。当前安装工具为测试版，建议优先通过镜像库部署。
+
+---
+
 ## <a name="3"></a>3. 当代大学生的困境：一位教授的观察 
 <small>🔗 [hilariusbookbinder.substack.com](https://hilariusbookbinder.substack.com/p/the-average-college-student-today): The average college student today</small>
 
 
-| 🔥🔥: 170 \| 💬: [300](https://news.ycombinator.com/item?id=43522966) \| 🗓️ 2025-03-30
+| 🔥🔥: 206 \| 💬: [344](https://news.ycombinator.com/item?id=43522966) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -63,7 +63,7 @@ Blue95是一款基于**Fedora Atomic Xfce**的轻量级桌面系统，通过**Ch
 <small>🔗 [lucumr.pocoo.org](https://lucumr.pocoo.org/2025/3/27/any-upcast/): Rust Any part 3: we have upcasts</small>
 
 
-| 🔥🔥: 150 \| 💬: [63](https://news.ycombinator.com/item?id=43523238) \| 🗓️ 2025-03-30
+| 🔥🔥: 154 \| 💬: [66](https://news.ycombinator.com/item?id=43523238) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -75,7 +75,7 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 <small>🔗 [thetimes.com](https://www.thetimes.com/uk/society/article/met-smash-down-door-of-quaker-meeting-house-to-arrest-activists-jhhchrtlt): Met Police smash down door of Quaker meeting house to arrest activists</small>
 
 
-| 🔥🔥: 127 \| 💬: [76](https://news.ycombinator.com/item?id=43525909) \| 🗓️ 2025-03-30
+| 🔥🔥: 133 \| 💬: [85](https://news.ycombinator.com/item?id=43525909) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -87,7 +87,7 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 <small>🔗 [cs.tufts.edu](https://www.cs.tufts.edu/~nr/cs257/archive/mads-tofte/four-lectures.pdf): Four Lectures on Standard ML (1989) [pdf]</small>
 
 
-| 🔥🔥: 115 \| 💬: [29](https://news.ycombinator.com/item?id=43522363) \| 🗓️ 2025-03-30
+| 🔥🔥: 121 \| 💬: [30](https://news.ycombinator.com/item?id=43522363) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -99,7 +99,7 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 <small>🔗 [hacker-laws.com](https://hacker-laws.com/): Hacker Laws</small>
 
 
-| 🔥🔥: 113 \| 💬: [15](https://news.ycombinator.com/item?id=43523974) \| 🗓️ 2025-03-30
+| 🔥🔥: 117 \| 💬: [15](https://news.ycombinator.com/item?id=43523974) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -107,11 +107,23 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="8"></a>8. Span<T>.SequenceEquals 比 memcmp 更快 
+## <a name="8"></a>8. 因自闭症纪念纹身被ICE拘留 委内瑞拉男子遭遣送萨尔瓦多监狱 
+<small>🔗 [latintimes.com](https://www.latintimes.com/man-detained-ice-autism-awareness-tattoo-still-sent-prison-after-officers-declared-him-clean-579373): Man Detained by ICE for Autism Awareness Tattoo Sent to Prison</small>
+
+
+| 🔥🔥: 102 \| 💬: [17](https://news.ycombinator.com/item?id=43527154) \| 🗓️ 2025-03-30
+
+
+<br />
+25岁的**无证移民**内里·阿尔瓦拉多因三处纹身在休斯顿被拘留，其中一处是纪念患自闭症的弟弟的**自闭症意识丝带纹身**。尽管ICE探员确认他与犯罪组织无关并宣布"清白"，他仍被秘密转移，最终被列入238名遣送至萨尔瓦多恐怖主义拘留中心的委内瑞拉人名单。家属称其"连苍蝇都不伤害"，质疑拘留的**不公正性**。事件暴露移民执法中的任意性。
+
+---
+
+## <a name="9"></a>9. Span<T>.SequenceEquals 比 memcmp 更快 
 <small>🔗 [richardcocks.github.io](https://richardcocks.github.io/2025-03-30-FasterThanMemCmp.html): Span<T>.SequenceEquals is faster than memcmp</small>
 
 
-| 🔥: 93 \| 💬: [53](https://news.ycombinator.com/item?id=43524665) \| 🗓️ 2025-03-30
+| 🔥: 100 \| 💬: [55](https://news.ycombinator.com/item?id=43524665) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -119,11 +131,35 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="9"></a>9. 德国伊萨尔航天公司首射Spectrum火箭失败：一级飞行阶段失控坠海 
+## <a name="10"></a>10. GitHub CodeQL高危供应链漏洞：短暂泄露的密钥引发连锁攻击风险 
+<small>🔗 [praetorian.com](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/): Public secrets exposure leads to supply chain attack on GitHub CodeQL</small>
+
+
+| 🔥: 96 \| 💬: [8](https://news.ycombinator.com/item?id=43527044) \| 🗓️ 2025-03-30
+
+
+<br />
+研究人员发现GitHub的代码分析工具**CodeQL**存在严重漏洞：工作流生成的**GITHUB_TOKEN**密钥在1.022秒内可被截获。攻击者可利用此短暂时间窗口创建恶意分支、篡改标签，甚至通过覆盖`v3`标签触发**供应链攻击**，影响所有默认启用CodeQL的仓库。GitHub已修复漏洞并确认未被利用，但该漏洞暴露了CI/CD流程中密钥管理的核心风险。
+
+---
+
+## <a name="11"></a>11. ICE因长相像墨西哥人而拘留美国公民数小时 
+<small>🔗 [techdirt.com](https://www.techdirt.com/2025/03/28/ice-arrested-and-detained-a-us-citizen-for-hours-because-he-looked-mexican/): ICE Arrested and Detained a US Citizen for Hours Because He Looked Mexican</small>
+
+
+| 🔥: 90 \| 💬: [6](https://news.ycombinator.com/item?id=43527275) \| 🗓️ 2025-03-30
+
+
+<br />
+一名合法**美国公民**诺列加被ICE（移民海关执法局）无正式逮捕令拘留，仅因外貌像墨西哥人。文章指出，特朗普政府纵容ICE以“威胁”或“非公民”为由**随意逮捕棕色人种**，且缺乏监管，导致任何人均可能面临类似**非法拘押**。问题核心在于ICE滥用行政令，侵犯公民权利。
+
+---
+
+## <a name="12"></a>12. 德国伊萨尔航天公司首射Spectrum火箭失败：一级飞行阶段失控坠海 
 <small>🔗 [nasaspaceflight.com](https://www.nasaspaceflight.com/2025/03/isar-first-launch/): Isar Aerospace launches Spectrum, fails early in first stage flight</small>
 
 
-| 🔥: 87 \| 💬: [49](https://news.ycombinator.com/item?id=43524784) \| 🗓️ 2025-03-30
+| 🔥: 88 \| 💬: [49](https://news.ycombinator.com/item?id=43524784) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -131,11 +167,11 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="10"></a>10. Organic Maps因微软封禁GitHub账户迁移至Forgejo 
+## <a name="13"></a>13. Organic Maps因微软封禁GitHub账户迁移至Forgejo 
 <small>🔗 [mastodon.social](https://mastodon.social/@organicmaps/114233788700982882): Organic Maps migrates to Forgejo due to GitHub account blocked by Microsoft</small>
 
 
-| 🔥: 80 \| 💬: [21](https://news.ycombinator.com/item?id=43525395) \| 🗓️ 2025-03-30
+| 🔥: 88 \| 💬: [23](https://news.ycombinator.com/item?id=43525395) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -143,11 +179,11 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="11"></a>11. 用ASM在Java中实现尾递归优化（2023） 
+## <a name="14"></a>14. 用ASM在Java中实现尾递归优化（2023） 
 <small>🔗 [unlinkedlist.org](https://unlinkedlist.org/2023/03/19/tail-call-recursion-in-java-with-asm/): Tail Call Recursion in Java with ASM (2023)</small>
 
 
-| 🔥: 74 \| 💬: [28](https://news.ycombinator.com/item?id=43523741) \| 🗓️ 2025-03-30
+| 🔥: 77 \| 💬: [34](https://news.ycombinator.com/item?id=43523741) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -155,11 +191,23 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="12"></a>12. 孩子与阴影（1975） 
+## <a name="15"></a>15. 为什么这个网站用C语言构建 
+<small>🔗 [marcelofern.com](https://marcelofern.com/posts/c/why-is-this-site-built-with-c/index.html): Why Is This Site Built with C</small>
+
+
+| 🔥: 72 \| 💬: [31](https://news.ycombinator.com/item?id=43526058) \| 🗓️ 2025-03-30
+
+
+<br />
+作者自2017年起搭建个人网站，经历了从**Django动态框架**到**Nuxt静态生成器**的迭代，但均因维护复杂、依赖过多而放弃。最终选择用C语言重写，核心工具是仅依赖标准库的**md4c解析器**，仅需250行代码即可将Markdown转为HTML，解析87篇文章仅需0.1秒。这一方案满足了**零依赖**、**长期稳定**和**极致速度**的核心需求，避免了现代工具链的臃肿问题。
+
+---
+
+## <a name="16"></a>16. 孩子与阴影（1975） 
 <small>🔗 [johnirons.com](https://www.johnirons.com/pdfs/shadowleguin.pdf): The Child and the Shadow (1975) [pdf]</small>
 
 
-| 🔥: 69 \| 💬: [16](https://news.ycombinator.com/item?id=43525079) \| 🗓️ 2025-03-30
+| 🔥: 71 \| 💬: [17](https://news.ycombinator.com/item?id=43525079) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -167,7 +215,7 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="13"></a>13. 美国地质调查局：汤加潘盖东南90公里处发生7.1级地震 
+## <a name="17"></a>17. 美国地质调查局：汤加潘盖东南90公里处发生7.1级地震 
 <small>🔗 [earthquake.usgs.gov](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pntq/executive): USGS: M 7.1 Earthquake – 90 km SE of Pangai, Tonga</small>
 
 
@@ -179,19 +227,7 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="14"></a>14. ICE因长相像墨西哥人而拘留美国公民数小时 
-<small>🔗 [techdirt.com](https://www.techdirt.com/2025/03/28/ice-arrested-and-detained-a-us-citizen-for-hours-because-he-looked-mexican/): ICE Arrested and Detained a US Citizen for Hours Because He Looked Mexican</small>
-
-
-| 🔥: 64 \| 💬: [2](https://news.ycombinator.com/item?id=43527275) \| 🗓️ 2025-03-30
-
-
-<br />
-一名合法**美国公民**诺列加被ICE（移民海关执法局）无正式逮捕令拘留，仅因外貌像墨西哥人。文章指出，特朗普政府纵容ICE以“威胁”或“非公民”为由**随意逮捕棕色人种**，且缺乏监管，导致任何人均可能面临类似**非法拘押**。问题核心在于ICE滥用行政令，侵犯公民权利。
-
----
-
-## <a name="15"></a>15. 致敬Game Boy Advance：掌机革命的里程碑 
+## <a name="18"></a>18. 致敬Game Boy Advance：掌机革命的里程碑 
 <small>🔗 [brainbaking.com](https://brainbaking.com/post/2025/03/an-ode-to-the-game-boy-advance/): An Ode to the Game Boy Advance</small>
 
 
@@ -203,14 +239,86 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="16"></a>16. 中国电动车巨头比亚迪为何在美国买不到？ 
+## <a name="19"></a>19. 中国电动车巨头比亚迪为何在美国买不到？ 
 <small>🔗 [cnn.com](https://www.cnn.com/2025/03/26/cars/china-byd-profile-tesla-rival-intl-hnk/index.html): It's the hottest car company. You can't buy one in America</small>
 
 
-| 🔥: 56 \| 💬: [68](https://news.ycombinator.com/item?id=43523797) \| 🗓️ 2025-03-30
+| 🔥: 58 \| 💬: [68](https://news.ycombinator.com/item?id=43523797) \| 🗓️ 2025-03-30
 
 
 <br />
 比亚迪已超越特斯拉成为全球电动车销量冠军，凭借**快速充电技术**（5分钟续航250英里）和免费**高阶驾驶辅助系统**等创新领先行业。其成功源于**垂直整合模式**（自产电池和零部件）和低价策略（入门款约1万美元）。尽管因美国100%关税无法进入当地市场，比亚迪正加速海外扩张，目标2025年海外销量翻倍至80万辆。创始人王传福从电池技术起家，坚持技术驱动，被分析师视为“不可阻挡的力量”。
+
+---
+
+## <a name="20"></a>20. 地球自转能否发电？物理学界争议新理论 
+<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00847-0): Can Earth's rotation generate power? Physicists divided over controversial claim</small>
+
+
+| 🔥: 52 \| 💬: [129](https://news.ycombinator.com/item?id=43526443) \| 🗓️ 2025-03-30
+
+
+<br />
+近日，有物理学家提出一项**争议性主张**，认为通过地球在自身**磁场**中旋转可产生**电能**。该理论引发学界分歧，相关研究已发表于《物理评论研究》。此前，地球磁场与自转的相互作用多被忽视，若验证成功或开辟新能源途径。但订阅期刊需付费（单篇1.95美元起），完整内容需通过机构访问或购买《Nature》订阅服务。
+
+---
+
+## <a name="21"></a>21. 航班因乘客手机丢失中途返航：锂电池安全隐患引关注 
+<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/travel/2025/03/28/air-france-lost-cellphone/): Why a plane turned around when a passenger lost a phone midflight</small>
+
+
+| 🔥: 49 \| 💬: [92](https://news.ycombinator.com/item?id=43523765) \| 🗓️ 2025-03-30
+
+
+<br />
+一架**法航**飞往加勒比海的航班因乘客丢失手机中途返回巴黎，以防**锂电池过热**引发安全风险。这是该航司两个月内第二起因手机返航事件。手机最终被找到，航班延误4小时。专家指出，手机卡在座椅中若受压可能**起火**，航司处置正确。近期多国加强机上电子设备管理，美国去年报告85起锂电池相关事故。乘客需妥善保管设备，避免造成隐患。
+
+---
+
+## <a name="22"></a>22. 在数字时代为孩子打造模拟童年 
+<small>🔗 [joshuakennon.com](https://www.joshuakennon.com/raising-kids-to-have-an-analogue-childhood-in-a-digital-world/): Raising Kids to Have an Analog Childhood in a Digital World</small>
+
+
+| 🔥: 49 \| 💬: [13](https://news.ycombinator.com/item?id=43527019) \| 🗓️ 2025-03-30
+
+
+<br />
+作者分享如何在数字时代为孩子营造**以实体体验为核心**的成长环境。家庭规则包括：**严格限制电子设备**（无平板、短内容平台），专注实体玩具（书籍、乐器、积木）和自由创意游戏；通过**延迟满足训练**（如限制游戏时间）培养专注力；建立**诚实与信任**的家庭文化（撒谎零容忍）。核心目标是保护孩子的注意力，培养自主性与情感韧性，使其未来能抵御数字营销的侵蚀。
+
+---
+
+## <a name="23"></a>23. 现代谷歌的平庸化 
+<small>🔗 [om.co](https://om.co/2025/03/29/the-mediocrity-of-modern-google/): The Mediocrity of Modern Google</small>
+
+
+| 🔥: 44 \| 💬: [26](https://news.ycombinator.com/item?id=43525009) \| 🗓️ 2025-03-30
+
+
+<br />
+文章批评**谷歌搜索**质量下降，将其比作昔日的**Excite搜索引擎**，并提到联合创始人谢尔盖·布林曾要求员工每周工作60小时以保持竞争力，却未提供明确回报，类似电影《颠倒乾坤》中的剥削场景。作者感叹谷歌已沦为像**AT&T**一样的平庸企业。
+
+---
+
+## <a name="24"></a>24. 为老鼠辩护：被误解的千年宿敌 
+<small>🔗 [hakaimagazine.com](https://hakaimagazine.com/features/in-defense-of-the-rat/): In Defense of the Rat</small>
+
+
+| 🔥: 43 \| 💬: [40](https://news.ycombinator.com/item?id=43524394) \| 🗓️ 2025-03-30
+
+
+<br />
+历史上人类曾将动物告上法庭，甚至对老鼠进行审判。**黑死病**长期被认为是老鼠传播的，但新研究指出，欧洲中世纪瘟疫的元凶可能是**人类体表寄生虫**（如跳蚤和虱子），而非老鼠。尽管老鼠在温暖地区确实传播疾病，但它们在欧洲的“罪名”或被夸大。现代人对老鼠的厌恶催生了残酷的灭鼠手段，但科学揭示它们并非全恶——**生态角色**复杂，甚至可能颠覆传统认知。
+
+---
+
+## <a name="25"></a>25. 美国国立卫生研究院撤销科研诚信政策 
+<small>🔗 [bsky.app](https://bsky.app/profile/lizborkowski.bsky.social/post/3llk4snk2wc2s): NIH has rescinded its scientific integrity policy</small>
+
+
+| 🔥: 38 \| 💬: [15](https://news.ycombinator.com/item?id=43523075) \| 🗓️ 2025-03-30
+
+
+<br />
+美国国立卫生研究院（NIH）宣布废除其**科研诚信政策**，引发公众健康担忧。此举被解读为可能为**疫苗等领域的低质量研究**铺路，无论背后原因如何，均被视为对**公共卫生**的潜在威胁。相关文件链接已附于公告中。
 
 ---
