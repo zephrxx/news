@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -253,7 +253,19 @@ Atop是一款通过读取`/proc`和`/sys`目录监控系统及进程状态的工
 
 ---
 
-## <a name="20"></a>20. 大卫·林奇执导的广告作品（2018年） 
+## <a name="20"></a>20. 将Linux改造为Windows兼容系统 
+<small>🔗 [philipbohun.com](https://philipbohun.com/blog/0007.html): Convert Linux to Windows</small>
+
+
+| 🔥🔥: 117 \| 💬: [147](https://news.ycombinator.com/item?id=43518917) \| 🗓️ 2025-03-29
+
+
+<br />
+作者提出创建一个默认通过**Wine**运行Windows二进制文件的Linux发行版，以解决Linux的**二进制兼容性问题**。Linux环境因库版本冲突导致旧程序无法运行，而Windows的**Win32 ABI**凭借稳定性和动态链接机制，使20年前的.exe文件仍可执行。新发行版将预装Wine，微调内核以无缝运行Windows程序，并提供类似Windows的界面，降低用户迁移门槛。此举既能保留Linux自由，又能规避Windows/macOS日益严苛的隐私与控制问题，为未来可能被迫升级的用户提供备选方案。
+
+---
+
+## <a name="21"></a>21. 大卫·林奇执导的广告作品（2018年） 
 <small>🔗 [openculture.com](https://www.openculture.com/2018/07/watch-commercials-david-lynch-directed-big-30-minute-compilation.html): Commercials that David Lynch directed (2018)</small>
 
 
@@ -265,7 +277,7 @@ Atop是一款通过读取`/proc`和`/sys`目录监控系统及进程状态的工
 
 ---
 
-## <a name="21"></a>21. 特朗普的秘密警察开始因学生评论文章实施"失踪" 
+## <a name="22"></a>22. 特朗普的秘密警察开始因学生评论文章实施"失踪" 
 <small>🔗 [techdirt.com](https://www.techdirt.com/2025/03/27/trumps-secret-police-are-now-disappearing-students-for-their-op-eds/): Trump's Police Are Now Disappearing Students for Their Op-Eds</small>
 
 
@@ -277,7 +289,7 @@ Atop是一款通过读取`/proc`和`/sys`目录监控系统及进程状态的工
 
 ---
 
-## <a name="22"></a>22. 为什么我不再和架构师讨论微服务 
+## <a name="23"></a>23. 为什么我不再和架构师讨论微服务 
 <small>🔗 [blog.container-solutions.com](https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices): Why I'm No Longer Talking to Architects About Microservices</small>
 
 
@@ -289,7 +301,7 @@ Atop是一款通过读取`/proc`和`/sys`目录监控系统及进程状态的工
 
 ---
 
-## <a name="23"></a>23. 诈骗团伙年盗1万亿美元，美国成最大受害国 
+## <a name="24"></a>24. 诈骗团伙年盗1万亿美元，美国成最大受害国 
 <small>🔗 [wired.com](https://www.wired.com/video/watch/incognito-mode-romance-scams): Scammers Steal $1T a Year – Mostly from Americans</small>
 
 
@@ -301,7 +313,7 @@ Atop是一款通过读取`/proc`和`/sys`目录监控系统及进程状态的工
 
 ---
 
-## <a name="24"></a>24. 推特（X）遭遇2.8亿用户数据泄露 疑似内部人员所为 
+## <a name="25"></a>25. 推特（X）遭遇2.8亿用户数据泄露 疑似内部人员所为 
 <small>🔗 [hackread.com](https://hackread.com/twitter-x-of-2-8-billion-data-leak-an-insider-job/): Twitter (X) Hit by Data Leak of 2.8B Users – Allegedly an Insider Job</small>
 
 
