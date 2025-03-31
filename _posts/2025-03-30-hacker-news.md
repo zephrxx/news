@@ -27,7 +27,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/security/2025/03/computer-scientist-goes-silent-after-fbi-raid-and-purging-from-university-website/): FBI raids home of prominent computer scientist who has gone incommunicado</small>
 
 
-| 🔥🔥: 557 \| 💬: [241](https://news.ycombinator.com/item?id=43527001) \| 🗓️ 2025-03-30
+| 🔥🔥: 606 \| 💬: [257](https://news.ycombinator.com/item?id=43527001) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/winblues/blue95): Blue95: a desktop for your childhood home's computer room</small>
 
 
-| 🔥🔥: 363 \| 💬: [198](https://news.ycombinator.com/item?id=43524937) \| 🗓️ 2025-03-30
+| 🔥🔥: 383 \| 💬: [208](https://news.ycombinator.com/item?id=43524937) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -51,7 +51,7 @@ Blue95是一款基于**Fedora Atomic Xfce**的轻量级桌面系统，通过**Ch
 <small>🔗 [hilariusbookbinder.substack.com](https://hilariusbookbinder.substack.com/p/the-average-college-student-today): The average college student today</small>
 
 
-| 🔥🔥: 274 \| 💬: [410](https://news.ycombinator.com/item?id=43522966) \| 🗓️ 2025-03-30
+| 🔥🔥: 296 \| 💬: [438](https://news.ycombinator.com/item?id=43522966) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -63,7 +63,7 @@ Blue95是一款基于**Fedora Atomic Xfce**的轻量级桌面系统，通过**Ch
 <small>🔗 [praetorian.com](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/): Public secrets exposure leads to supply chain attack on GitHub CodeQL</small>
 
 
-| 🔥🔥: 159 \| 💬: [25](https://news.ycombinator.com/item?id=43527044) \| 🗓️ 2025-03-30
+| 🔥🔥: 175 \| 💬: [30](https://news.ycombinator.com/item?id=43527044) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -75,7 +75,7 @@ Blue95是一款基于**Fedora Atomic Xfce**的轻量级桌面系统，通过**Ch
 <small>🔗 [lucumr.pocoo.org](https://lucumr.pocoo.org/2025/3/27/any-upcast/): Rust Any part 3: we have upcasts</small>
 
 
-| 🔥🔥: 158 \| 💬: [69](https://news.ycombinator.com/item?id=43523238) \| 🗓️ 2025-03-30
+| 🔥🔥: 160 \| 💬: [69](https://news.ycombinator.com/item?id=43523238) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -87,7 +87,7 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 <small>🔗 [thetimes.com](https://www.thetimes.com/uk/society/article/met-smash-down-door-of-quaker-meeting-house-to-arrest-activists-jhhchrtlt): Met Police smash down door of Quaker meeting house to arrest activists</small>
 
 
-| 🔥🔥: 141 \| 💬: [86](https://news.ycombinator.com/item?id=43525909) \| 🗓️ 2025-03-30
+| 🔥🔥: 143 \| 💬: [87](https://news.ycombinator.com/item?id=43525909) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -99,7 +99,7 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 <small>🔗 [cs.tufts.edu](https://www.cs.tufts.edu/~nr/cs257/archive/mads-tofte/four-lectures.pdf): Four Lectures on Standard ML (1989) [pdf]</small>
 
 
-| 🔥🔥: 128 \| 💬: [31](https://news.ycombinator.com/item?id=43522363) \| 🗓️ 2025-03-30
+| 🔥🔥: 132 \| 💬: [31](https://news.ycombinator.com/item?id=43522363) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -107,7 +107,19 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="8"></a>8. 黑客定律大全 
+## <a name="8"></a>8. 因自闭症纪念纹身被ICE拘留 委内瑞拉男子遭遣送萨尔瓦多监狱 
+<small>🔗 [latintimes.com](https://www.latintimes.com/man-detained-ice-autism-awareness-tattoo-still-sent-prison-after-officers-declared-him-clean-579373): Man Detained by ICE for Autism Awareness Tattoo Sent to Prison</small>
+
+
+| 🔥🔥: 119 \| 💬: [23](https://news.ycombinator.com/item?id=43527154) \| 🗓️ 2025-03-30
+
+
+<br />
+25岁的**无证移民**内里·阿尔瓦拉多因三处纹身在休斯顿被拘留，其中一处是纪念患自闭症的弟弟的**自闭症意识丝带纹身**。尽管ICE探员确认他与犯罪组织无关并宣布"清白"，他仍被秘密转移，最终被列入238名遣送至萨尔瓦多恐怖主义拘留中心的委内瑞拉人名单。家属称其"连苍蝇都不伤害"，质疑拘留的**不公正性**。事件暴露移民执法中的任意性。
+
+---
+
+## <a name="9"></a>9. 黑客定律大全 
 <small>🔗 [hacker-laws.com](https://hacker-laws.com/): Hacker Laws</small>
 
 
@@ -119,23 +131,11 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="9"></a>9. 因自闭症纪念纹身被ICE拘留 委内瑞拉男子遭遣送萨尔瓦多监狱 
-<small>🔗 [latintimes.com](https://www.latintimes.com/man-detained-ice-autism-awareness-tattoo-still-sent-prison-after-officers-declared-him-clean-579373): Man Detained by ICE for Autism Awareness Tattoo Sent to Prison</small>
-
-
-| 🔥🔥: 116 \| 💬: [23](https://news.ycombinator.com/item?id=43527154) \| 🗓️ 2025-03-30
-
-
-<br />
-25岁的**无证移民**内里·阿尔瓦拉多因三处纹身在休斯顿被拘留，其中一处是纪念患自闭症的弟弟的**自闭症意识丝带纹身**。尽管ICE探员确认他与犯罪组织无关并宣布"清白"，他仍被秘密转移，最终被列入238名遣送至萨尔瓦多恐怖主义拘留中心的委内瑞拉人名单。家属称其"连苍蝇都不伤害"，质疑拘留的**不公正性**。事件暴露移民执法中的任意性。
-
----
-
 ## <a name="10"></a>10. ICE因长相像墨西哥人而拘留美国公民数小时 
 <small>🔗 [techdirt.com](https://www.techdirt.com/2025/03/28/ice-arrested-and-detained-a-us-citizen-for-hours-because-he-looked-mexican/): ICE Arrested and Detained a US Citizen for Hours Because He Looked Mexican</small>
 
 
-| 🔥🔥: 108 \| 💬: [10](https://news.ycombinator.com/item?id=43527275) \| 🗓️ 2025-03-30
+| 🔥🔥: 111 \| 💬: [11](https://news.ycombinator.com/item?id=43527275) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -147,7 +147,7 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 <small>🔗 [richardcocks.github.io](https://richardcocks.github.io/2025-03-30-FasterThanMemCmp.html): Span<T>.SequenceEquals is faster than memcmp</small>
 
 
-| 🔥🔥: 107 \| 💬: [57](https://news.ycombinator.com/item?id=43524665) \| 🗓️ 2025-03-30
+| 🔥🔥: 110 \| 💬: [59](https://news.ycombinator.com/item?id=43524665) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -155,23 +155,11 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="12"></a>12. Organic Maps因微软封禁GitHub账户迁移至Forgejo 
-<small>🔗 [mastodon.social](https://mastodon.social/@organicmaps/114233788700982882): Organic Maps migrates to Forgejo due to GitHub account blocked by Microsoft</small>
-
-
-| 🔥: 97 \| 💬: [30](https://news.ycombinator.com/item?id=43525395) \| 🗓️ 2025-03-30
-
-
-<br />
-由于**微软**突然封禁了Organic Maps的GitHub账户，这款开源地图应用决定将代码仓库迁移至**Forgejo**平台。团队强调此举是为了避免中心化托管服务的风险，确保项目持续开放。文中同时提到Mastodon的JavaScript依赖问题，但该内容与迁移事件无关。**去中心化**成为本次事件的核心议题。
-
----
-
-## <a name="13"></a>13. 为什么这个网站用C语言构建 
+## <a name="12"></a>12. 为什么这个网站用C语言构建 
 <small>🔗 [marcelofern.com](https://marcelofern.com/posts/c/why-is-this-site-built-with-c/index.html): Why Is This Site Built with C</small>
 
 
-| 🔥: 94 \| 💬: [73](https://news.ycombinator.com/item?id=43526058) \| 🗓️ 2025-03-30
+| 🔥🔥: 108 \| 💬: [89](https://news.ycombinator.com/item?id=43526058) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -179,23 +167,23 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="14"></a>14. 德国伊萨尔航天公司首射Spectrum火箭失败：一级飞行阶段失控坠海 
-<small>🔗 [nasaspaceflight.com](https://www.nasaspaceflight.com/2025/03/isar-first-launch/): Isar Aerospace launches Spectrum, fails early in first stage flight</small>
+## <a name="13"></a>13. Organic Maps因微软封禁GitHub账户迁移至Forgejo 
+<small>🔗 [mastodon.social](https://mastodon.social/@organicmaps/114233788700982882): Organic Maps migrates to Forgejo due to GitHub account blocked by Microsoft</small>
 
 
-| 🔥: 89 \| 💬: [50](https://news.ycombinator.com/item?id=43524784) \| 🗓️ 2025-03-30
+| 🔥🔥: 102 \| 💬: [30](https://news.ycombinator.com/item?id=43525395) \| 🗓️ 2025-03-30
 
 
 <br />
-德国**伊萨尔航天公司**于2025年3月30日首次尝试发射**Spectrum**两级火箭，但火箭在升空18秒后失控，30秒时被终止飞行并坠入挪威海。此次任务名为“全频谱行动”，是挪威及欧洲大陆（不含不列颠群岛和俄罗斯）首次轨道发射尝试。Spectrum火箭高28米，采用碳复合材料和3D打印金属发动机部件，设计运力为1000公斤至近地轨道。尽管首飞失败，公司表示获得了宝贵数据以改进技术。该火箭瞄准中小型卫星市场，已获挪威航天局等客户订单，计划未来在挪威安岛和法属圭亚那库鲁执行发射任务。
+由于**微软**突然封禁了Organic Maps的GitHub账户，这款开源地图应用决定将代码仓库迁移至**Forgejo**平台。团队强调此举是为了避免中心化托管服务的风险，确保项目持续开放。文中同时提到Mastodon的JavaScript依赖问题，但该内容与迁移事件无关。**去中心化**成为本次事件的核心议题。
 
 ---
 
-## <a name="15"></a>15. 在数字时代为孩子打造模拟童年 
+## <a name="14"></a>14. 在数字时代为孩子打造模拟童年 
 <small>🔗 [joshuakennon.com](https://www.joshuakennon.com/raising-kids-to-have-an-analogue-childhood-in-a-digital-world/): Raising Kids to Have an Analog Childhood in a Digital World</small>
 
 
-| 🔥: 85 \| 💬: [40](https://news.ycombinator.com/item?id=43527019) \| 🗓️ 2025-03-30
+| 🔥: 96 \| 💬: [44](https://news.ycombinator.com/item?id=43527019) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -203,11 +191,11 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="16"></a>16. ICE秘密撤销中东学生签证 校方与学生均不知情 
+## <a name="15"></a>15. ICE秘密撤销中东学生签证 校方与学生均不知情 
 <small>🔗 [zeteo.com](https://zeteo.com/p/ice-manually-revoking-university-students-residency-status-middle-east): ICE Revoking Students' Immigration Statuses Without Their or the Uni's Knowledge</small>
 
 
-| 🔥: 82 \| 💬: [31](https://news.ycombinator.com/item?id=43528356) \| 🗓️ 2025-03-30
+| 🔥: 90 \| 💬: [32](https://news.ycombinator.com/item?id=43528356) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -215,11 +203,23 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
+## <a name="16"></a>16. 德国伊萨尔航天公司首射Spectrum火箭失败：一级飞行阶段失控坠海 
+<small>🔗 [nasaspaceflight.com](https://www.nasaspaceflight.com/2025/03/isar-first-launch/): Isar Aerospace launches Spectrum, fails early in first stage flight</small>
+
+
+| 🔥: 89 \| 💬: [51](https://news.ycombinator.com/item?id=43524784) \| 🗓️ 2025-03-30
+
+
+<br />
+德国**伊萨尔航天公司**于2025年3月30日首次尝试发射**Spectrum**两级火箭，但火箭在升空18秒后失控，30秒时被终止飞行并坠入挪威海。此次任务名为“全频谱行动”，是挪威及欧洲大陆（不含不列颠群岛和俄罗斯）首次轨道发射尝试。Spectrum火箭高28米，采用碳复合材料和3D打印金属发动机部件，设计运力为1000公斤至近地轨道。尽管首飞失败，公司表示获得了宝贵数据以改进技术。该火箭瞄准中小型卫星市场，已获挪威航天局等客户订单，计划未来在挪威安岛和法属圭亚那库鲁执行发射任务。
+
+---
+
 ## <a name="17"></a>17. 用ASM在Java中实现尾递归优化（2023） 
 <small>🔗 [unlinkedlist.org](https://unlinkedlist.org/2023/03/19/tail-call-recursion-in-java-with-asm/): Tail Call Recursion in Java with ASM (2023)</small>
 
 
-| 🔥: 79 \| 💬: [36](https://news.ycombinator.com/item?id=43523741) \| 🗓️ 2025-03-30
+| 🔥: 80 \| 💬: [36](https://news.ycombinator.com/item?id=43523741) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -231,7 +231,7 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00847-0): Can Earth's rotation generate power? Physicists divided over controversial claim</small>
 
 
-| 🔥: 73 \| 💬: [155](https://news.ycombinator.com/item?id=43526443) \| 🗓️ 2025-03-30
+| 🔥: 76 \| 💬: [167](https://news.ycombinator.com/item?id=43526443) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -243,7 +243,7 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 <small>🔗 [johnirons.com](https://www.johnirons.com/pdfs/shadowleguin.pdf): The Child and the Shadow (1975) [pdf]</small>
 
 
-| 🔥: 72 \| 💬: [17](https://news.ycombinator.com/item?id=43525079) \| 🗓️ 2025-03-30
+| 🔥: 73 \| 💬: [17](https://news.ycombinator.com/item?id=43525079) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -255,7 +255,7 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/travel/2025/03/28/air-france-lost-cellphone/): Why a plane turned around when a passenger lost a phone midflight</small>
 
 
-| 🔥: 70 \| 💬: [119](https://news.ycombinator.com/item?id=43523765) \| 🗓️ 2025-03-30
+| 🔥: 72 \| 💬: [128](https://news.ycombinator.com/item?id=43523765) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -275,7 +275,19 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="22"></a>22. 致敬Game Boy Advance：掌机革命的里程碑 
+## <a name="22"></a>22. Linux系统编程入门（抢先体验版） 
+<small>🔗 [nostarch.com](https://nostarch.com/introduction-system-programming-linux): Introduction to System Programming in Linux (Early Access)</small>
+
+
+| 🔥: 67 \| 💬: [11](https://news.ycombinator.com/item?id=43526763) \| 🗓️ 2025-03-30
+
+
+<br />
+本书是面向**Linux/Unix操作系统**的编程指南，涵盖系统编程基础、命令行操作、文件I/O、进程管理、线程同步等核心内容。作者以**40年教学经验**撰写，结合图表与实战项目，适合具备**C/C++基础**的读者。无需Linux基础，但需准备Linux环境。抢先体验版包含部分章节，预售享25%折扣。作者Stewart N. Weiss为亨特学院计算机科学教授，专注Unix系统编程与开源开发。
+
+---
+
+## <a name="23"></a>23. 致敬Game Boy Advance：掌机革命的里程碑 
 <small>🔗 [brainbaking.com](https://brainbaking.com/post/2025/03/an-ode-to-the-game-boy-advance/): An Ode to the Game Boy Advance</small>
 
 
@@ -287,7 +299,7 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="23"></a>23. 中国电动车巨头比亚迪为何在美国买不到？ 
+## <a name="24"></a>24. 中国电动车巨头比亚迪为何在美国买不到？ 
 <small>🔗 [cnn.com](https://www.cnn.com/2025/03/26/cars/china-byd-profile-tesla-rival-intl-hnk/index.html): It's the hottest car company. You can't buy one in America</small>
 
 
@@ -299,7 +311,7 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="24"></a>24. 现代谷歌的平庸化 
+## <a name="25"></a>25. 现代谷歌的平庸化 
 <small>🔗 [om.co](https://om.co/2025/03/29/the-mediocrity-of-modern-google/): The Mediocrity of Modern Google</small>
 
 
@@ -308,17 +320,5 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 <br />
 文章批评**谷歌搜索**质量下降，将其比作昔日的**Excite搜索引擎**，并提到联合创始人谢尔盖·布林曾要求员工每周工作60小时以保持竞争力，却未提供明确回报，类似电影《颠倒乾坤》中的剥削场景。作者感叹谷歌已沦为像**AT&T**一样的平庸企业。
-
----
-
-## <a name="25"></a>25. 美国国立卫生研究院撤销科研诚信政策 
-<small>🔗 [bsky.app](https://bsky.app/profile/lizborkowski.bsky.social/post/3llk4snk2wc2s): NIH has rescinded its scientific integrity policy</small>
-
-
-| 🔥: 43 \| 💬: [15](https://news.ycombinator.com/item?id=43523075) \| 🗓️ 2025-03-30
-
-
-<br />
-美国国立卫生研究院（NIH）宣布废除其**科研诚信政策**，引发公众健康担忧。此举被解读为可能为**疫苗等领域的低质量研究**铺路，无论背后原因如何，均被视为对**公共卫生**的潜在威胁。相关文件链接已附于公告中。
 
 ---
