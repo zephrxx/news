@@ -27,7 +27,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/security/2025/03/computer-scientist-goes-silent-after-fbi-raid-and-purging-from-university-website/): FBI raids home of prominent computer scientist who has gone incommunicado</small>
 
 
-| 🔥🔥: 606 \| 💬: [257](https://news.ycombinator.com/item?id=43527001) \| 🗓️ 2025-03-30
+| 🔥🔥: 653 \| 💬: [277](https://news.ycombinator.com/item?id=43527001) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/winblues/blue95): Blue95: a desktop for your childhood home's computer room</small>
 
 
-| 🔥🔥: 383 \| 💬: [208](https://news.ycombinator.com/item?id=43524937) \| 🗓️ 2025-03-30
+| 🔥🔥: 396 \| 💬: [213](https://news.ycombinator.com/item?id=43524937) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -51,7 +51,7 @@ Blue95是一款基于**Fedora Atomic Xfce**的轻量级桌面系统，通过**Ch
 <small>🔗 [hilariusbookbinder.substack.com](https://hilariusbookbinder.substack.com/p/the-average-college-student-today): The average college student today</small>
 
 
-| 🔥🔥: 296 \| 💬: [438](https://news.ycombinator.com/item?id=43522966) \| 🗓️ 2025-03-30
+| 🔥🔥: 329 \| 💬: [464](https://news.ycombinator.com/item?id=43522966) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -63,7 +63,7 @@ Blue95是一款基于**Fedora Atomic Xfce**的轻量级桌面系统，通过**Ch
 <small>🔗 [praetorian.com](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/): Public secrets exposure leads to supply chain attack on GitHub CodeQL</small>
 
 
-| 🔥🔥: 175 \| 💬: [30](https://news.ycombinator.com/item?id=43527044) \| 🗓️ 2025-03-30
+| 🔥🔥: 190 \| 💬: [33](https://news.ycombinator.com/item?id=43527044) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -75,7 +75,7 @@ Blue95是一款基于**Fedora Atomic Xfce**的轻量级桌面系统，通过**Ch
 <small>🔗 [lucumr.pocoo.org](https://lucumr.pocoo.org/2025/3/27/any-upcast/): Rust Any part 3: we have upcasts</small>
 
 
-| 🔥🔥: 160 \| 💬: [69](https://news.ycombinator.com/item?id=43523238) \| 🗓️ 2025-03-30
+| 🔥🔥: 161 \| 💬: [69](https://news.ycombinator.com/item?id=43523238) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -87,7 +87,7 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 <small>🔗 [thetimes.com](https://www.thetimes.com/uk/society/article/met-smash-down-door-of-quaker-meeting-house-to-arrest-activists-jhhchrtlt): Met Police smash down door of Quaker meeting house to arrest activists</small>
 
 
-| 🔥🔥: 143 \| 💬: [87](https://news.ycombinator.com/item?id=43525909) \| 🗓️ 2025-03-30
+| 🔥🔥: 143 \| 💬: [88](https://news.ycombinator.com/item?id=43525909) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -99,7 +99,7 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 <small>🔗 [cs.tufts.edu](https://www.cs.tufts.edu/~nr/cs257/archive/mads-tofte/four-lectures.pdf): Four Lectures on Standard ML (1989) [pdf]</small>
 
 
-| 🔥🔥: 132 \| 💬: [31](https://news.ycombinator.com/item?id=43522363) \| 🗓️ 2025-03-30
+| 🔥🔥: 134 \| 💬: [31](https://news.ycombinator.com/item?id=43522363) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -111,7 +111,7 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 <small>🔗 [latintimes.com](https://www.latintimes.com/man-detained-ice-autism-awareness-tattoo-still-sent-prison-after-officers-declared-him-clean-579373): Man Detained by ICE for Autism Awareness Tattoo Sent to Prison</small>
 
 
-| 🔥🔥: 119 \| 💬: [23](https://news.ycombinator.com/item?id=43527154) \| 🗓️ 2025-03-30
+| 🔥🔥: 121 \| 💬: [24](https://news.ycombinator.com/item?id=43527154) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -135,7 +135,7 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 <small>🔗 [techdirt.com](https://www.techdirt.com/2025/03/28/ice-arrested-and-detained-a-us-citizen-for-hours-because-he-looked-mexican/): ICE Arrested and Detained a US Citizen for Hours Because He Looked Mexican</small>
 
 
-| 🔥🔥: 111 \| 💬: [11](https://news.ycombinator.com/item?id=43527275) \| 🗓️ 2025-03-30
+| 🔥🔥: 114 \| 💬: [12](https://news.ycombinator.com/item?id=43527275) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -147,7 +147,7 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 <small>🔗 [richardcocks.github.io](https://richardcocks.github.io/2025-03-30-FasterThanMemCmp.html): Span<T>.SequenceEquals is faster than memcmp</small>
 
 
-| 🔥🔥: 110 \| 💬: [59](https://news.ycombinator.com/item?id=43524665) \| 🗓️ 2025-03-30
+| 🔥🔥: 113 \| 💬: [61](https://news.ycombinator.com/item?id=43524665) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -159,7 +159,7 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 <small>🔗 [marcelofern.com](https://marcelofern.com/posts/c/why-is-this-site-built-with-c/index.html): Why Is This Site Built with C</small>
 
 
-| 🔥🔥: 108 \| 💬: [89](https://news.ycombinator.com/item?id=43526058) \| 🗓️ 2025-03-30
+| 🔥🔥: 113 \| 💬: [93](https://news.ycombinator.com/item?id=43526058) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -171,7 +171,7 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 <small>🔗 [mastodon.social](https://mastodon.social/@organicmaps/114233788700982882): Organic Maps migrates to Forgejo due to GitHub account blocked by Microsoft</small>
 
 
-| 🔥🔥: 102 \| 💬: [30](https://news.ycombinator.com/item?id=43525395) \| 🗓️ 2025-03-30
+| 🔥🔥: 104 \| 💬: [32](https://news.ycombinator.com/item?id=43525395) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -183,7 +183,7 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 <small>🔗 [joshuakennon.com](https://www.joshuakennon.com/raising-kids-to-have-an-analogue-childhood-in-a-digital-world/): Raising Kids to Have an Analog Childhood in a Digital World</small>
 
 
-| 🔥: 96 \| 💬: [44](https://news.ycombinator.com/item?id=43527019) \| 🗓️ 2025-03-30
+| 🔥🔥: 102 \| 💬: [49](https://news.ycombinator.com/item?id=43527019) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -195,7 +195,7 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 <small>🔗 [zeteo.com](https://zeteo.com/p/ice-manually-revoking-university-students-residency-status-middle-east): ICE Revoking Students' Immigration Statuses Without Their or the Uni's Knowledge</small>
 
 
-| 🔥: 90 \| 💬: [32](https://news.ycombinator.com/item?id=43528356) \| 🗓️ 2025-03-30
+| 🔥: 95 \| 💬: [33](https://news.ycombinator.com/item?id=43528356) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -219,7 +219,7 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 <small>🔗 [unlinkedlist.org](https://unlinkedlist.org/2023/03/19/tail-call-recursion-in-java-with-asm/): Tail Call Recursion in Java with ASM (2023)</small>
 
 
-| 🔥: 80 \| 💬: [36](https://news.ycombinator.com/item?id=43523741) \| 🗓️ 2025-03-30
+| 🔥: 83 \| 💬: [36](https://news.ycombinator.com/item?id=43523741) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -231,7 +231,7 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00847-0): Can Earth's rotation generate power? Physicists divided over controversial claim</small>
 
 
-| 🔥: 76 \| 💬: [167](https://news.ycombinator.com/item?id=43526443) \| 🗓️ 2025-03-30
+| 🔥: 80 \| 💬: [173](https://news.ycombinator.com/item?id=43526443) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -239,23 +239,11 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="19"></a>19. 孩子与阴影（1975） 
-<small>🔗 [johnirons.com](https://www.johnirons.com/pdfs/shadowleguin.pdf): The Child and the Shadow (1975) [pdf]</small>
-
-
-| 🔥: 73 \| 💬: [17](https://news.ycombinator.com/item?id=43525079) \| 🗓️ 2025-03-30
-
-
-<br />
-该PDF文档似乎是一篇1975年的文章或研究，标题为《孩子与阴影》。由于内容以**PDF编码数据**呈现，无法直接提取可读文本。可能涉及**儿童心理**或**成长阴影**的主题，推测探讨童年经历对个体发展的影响。若需具体内容，建议检查文件完整性或转换格式以获取可读文本。
-
----
-
-## <a name="20"></a>20. 航班因乘客手机丢失中途返航：锂电池安全隐患引关注 
+## <a name="19"></a>19. 航班因乘客手机丢失中途返航：锂电池安全隐患引关注 
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/travel/2025/03/28/air-france-lost-cellphone/): Why a plane turned around when a passenger lost a phone midflight</small>
 
 
-| 🔥: 72 \| 💬: [128](https://news.ycombinator.com/item?id=43523765) \| 🗓️ 2025-03-30
+| 🔥: 76 \| 💬: [137](https://news.ycombinator.com/item?id=43523765) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -263,7 +251,31 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="21"></a>21. 美国地质调查局：汤加潘盖东南90公里处发生7.1级地震 
+## <a name="20"></a>20. 孩子与阴影（1975） 
+<small>🔗 [johnirons.com](https://www.johnirons.com/pdfs/shadowleguin.pdf): The Child and the Shadow (1975) [pdf]</small>
+
+
+| 🔥: 74 \| 💬: [18](https://news.ycombinator.com/item?id=43525079) \| 🗓️ 2025-03-30
+
+
+<br />
+该PDF文档似乎是一篇1975年的文章或研究，标题为《孩子与阴影》。由于内容以**PDF编码数据**呈现，无法直接提取可读文本。可能涉及**儿童心理**或**成长阴影**的主题，推测探讨童年经历对个体发展的影响。若需具体内容，建议检查文件完整性或转换格式以获取可读文本。
+
+---
+
+## <a name="21"></a>21. Linux系统编程入门（抢先体验版） 
+<small>🔗 [nostarch.com](https://nostarch.com/introduction-system-programming-linux): Introduction to System Programming in Linux (Early Access)</small>
+
+
+| 🔥: 74 \| 💬: [12](https://news.ycombinator.com/item?id=43526763) \| 🗓️ 2025-03-30
+
+
+<br />
+本书是面向**Linux/Unix操作系统**的编程指南，涵盖系统编程基础、命令行操作、文件I/O、进程管理、线程同步等核心内容。作者以**40年教学经验**撰写，结合图表与实战项目，适合具备**C/C++基础**的读者。无需Linux基础，但需准备Linux环境。抢先体验版包含部分章节，预售享25%折扣。作者Stewart N. Weiss为亨特学院计算机科学教授，专注Unix系统编程与开源开发。
+
+---
+
+## <a name="22"></a>22. 美国地质调查局：汤加潘盖东南90公里处发生7.1级地震 
 <small>🔗 [earthquake.usgs.gov](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pntq/executive): USGS: M 7.1 Earthquake – 90 km SE of Pangai, Tonga</small>
 
 
@@ -275,23 +287,11 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="22"></a>22. Linux系统编程入门（抢先体验版） 
-<small>🔗 [nostarch.com](https://nostarch.com/introduction-system-programming-linux): Introduction to System Programming in Linux (Early Access)</small>
-
-
-| 🔥: 67 \| 💬: [11](https://news.ycombinator.com/item?id=43526763) \| 🗓️ 2025-03-30
-
-
-<br />
-本书是面向**Linux/Unix操作系统**的编程指南，涵盖系统编程基础、命令行操作、文件I/O、进程管理、线程同步等核心内容。作者以**40年教学经验**撰写，结合图表与实战项目，适合具备**C/C++基础**的读者。无需Linux基础，但需准备Linux环境。抢先体验版包含部分章节，预售享25%折扣。作者Stewart N. Weiss为亨特学院计算机科学教授，专注Unix系统编程与开源开发。
-
----
-
 ## <a name="23"></a>23. 致敬Game Boy Advance：掌机革命的里程碑 
 <small>🔗 [brainbaking.com](https://brainbaking.com/post/2025/03/an-ode-to-the-game-boy-advance/): An Ode to the Game Boy Advance</small>
 
 
-| 🔥: 61 \| 💬: [29](https://news.ycombinator.com/item?id=43524534) \| 🗓️ 2025-03-30
+| 🔥: 62 \| 💬: [29](https://news.ycombinator.com/item?id=43524534) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -303,7 +303,7 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 <small>🔗 [cnn.com](https://www.cnn.com/2025/03/26/cars/china-byd-profile-tesla-rival-intl-hnk/index.html): It's the hottest car company. You can't buy one in America</small>
 
 
-| 🔥: 60 \| 💬: [68](https://news.ycombinator.com/item?id=43523797) \| 🗓️ 2025-03-30
+| 🔥: 61 \| 💬: [70](https://news.ycombinator.com/item?id=43523797) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -311,14 +311,14 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="25"></a>25. 现代谷歌的平庸化 
-<small>🔗 [om.co](https://om.co/2025/03/29/the-mediocrity-of-modern-google/): The Mediocrity of Modern Google</small>
+## <a name="25"></a>25. 为老鼠辩护：被误解的千年宿敌 
+<small>🔗 [hakaimagazine.com](https://hakaimagazine.com/features/in-defense-of-the-rat/): In Defense of the Rat</small>
 
 
-| 🔥: 45 \| 💬: [26](https://news.ycombinator.com/item?id=43525009) \| 🗓️ 2025-03-30
+| 🔥: 45 \| 💬: [40](https://news.ycombinator.com/item?id=43524394) \| 🗓️ 2025-03-30
 
 
 <br />
-文章批评**谷歌搜索**质量下降，将其比作昔日的**Excite搜索引擎**，并提到联合创始人谢尔盖·布林曾要求员工每周工作60小时以保持竞争力，却未提供明确回报，类似电影《颠倒乾坤》中的剥削场景。作者感叹谷歌已沦为像**AT&T**一样的平庸企业。
+历史上人类曾将动物告上法庭，甚至对老鼠进行审判。**黑死病**长期被认为是老鼠传播的，但新研究指出，欧洲中世纪瘟疫的元凶可能是**人类体表寄生虫**（如跳蚤和虱子），而非老鼠。尽管老鼠在温暖地区确实传播疾病，但它们在欧洲的“罪名”或被夸大。现代人对老鼠的厌恶催生了残酷的灭鼠手段，但科学揭示它们并非全恶——**生态角色**复杂，甚至可能颠覆传统认知。
 
 ---
