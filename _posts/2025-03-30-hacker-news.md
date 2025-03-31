@@ -9,10 +9,10 @@ tags:
 
 
 1. FBI突袭知名计算机科学家住所，当事人失联且校方删除所有信息；
+1. 美国宪法第一修正案的五大支柱如何遭受冲击；
 1. 怀旧风桌面系统Blue95：重现童年电脑室的经典体验；
 1. 当代大学生的困境：一位教授的观察；
 1. GitHub CodeQL高危供应链漏洞：短暂泄露的密钥引发连锁攻击风险；
-1. Rust Any系列第三篇：向上转型终获支持；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/security/2025/03/computer-scientist-goes-silent-after-fbi-raid-and-purging-from-university-website/): FBI raids home of prominent computer scientist who has gone incommunicado</small>
 
 
-| 🔥🔥: 653 \| 💬: [277](https://news.ycombinator.com/item?id=43527001) \| 🗓️ 2025-03-30
+| 🔥🔥: 700 \| 💬: [293](https://news.ycombinator.com/item?id=43527001) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -35,11 +35,23 @@ tags:
 
 ---
 
-## <a name="2"></a>2. 怀旧风桌面系统Blue95：重现童年电脑室的经典体验 
+## <a name="2"></a>2. 美国宪法第一修正案的五大支柱如何遭受冲击 
+<small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/03/how-each-pillar-of-the-1st-amendment-is-under-attack/): How Each Pillar of the First Amendment Is Under Attack</small>
+
+
+| 🔥🔥: 457 \| 💬: [229](https://news.ycombinator.com/item?id=43529707) \| 🗓️ 2025-03-30
+
+
+<br />
+本文揭露特朗普政府近期一系列威胁**言论自由**、**宗教自由**、**新闻自由**、**集会自由**及**请愿权**的行为。例如，通过解雇处理信息公开请求的官员、打压批评性媒体、限制学生抗议活动，甚至威胁削减法院预算以干预司法独立。**行政权力**的扩张正系统性削弱宪法保障的基本权利，引发对民主根基的担忧。
+
+---
+
+## <a name="3"></a>3. 怀旧风桌面系统Blue95：重现童年电脑室的经典体验 
 <small>🔗 [github.com](https://github.com/winblues/blue95): Blue95: a desktop for your childhood home's computer room</small>
 
 
-| 🔥🔥: 396 \| 💬: [213](https://news.ycombinator.com/item?id=43524937) \| 🗓️ 2025-03-30
+| 🔥🔥: 412 \| 💬: [217](https://news.ycombinator.com/item?id=43524937) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -47,11 +59,11 @@ Blue95是一款基于**Fedora Atomic Xfce**的轻量级桌面系统，通过**Ch
 
 ---
 
-## <a name="3"></a>3. 当代大学生的困境：一位教授的观察 
+## <a name="4"></a>4. 当代大学生的困境：一位教授的观察 
 <small>🔗 [hilariusbookbinder.substack.com](https://hilariusbookbinder.substack.com/p/the-average-college-student-today): The average college student today</small>
 
 
-| 🔥🔥: 329 \| 💬: [464](https://news.ycombinator.com/item?id=43522966) \| 🗓️ 2025-03-30
+| 🔥🔥: 368 \| 💬: [499](https://news.ycombinator.com/item?id=43522966) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -59,11 +71,11 @@ Blue95是一款基于**Fedora Atomic Xfce**的轻量级桌面系统，通过**Ch
 
 ---
 
-## <a name="4"></a>4. GitHub CodeQL高危供应链漏洞：短暂泄露的密钥引发连锁攻击风险 
+## <a name="5"></a>5. GitHub CodeQL高危供应链漏洞：短暂泄露的密钥引发连锁攻击风险 
 <small>🔗 [praetorian.com](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/): Public secrets exposure leads to supply chain attack on GitHub CodeQL</small>
 
 
-| 🔥🔥: 190 \| 💬: [33](https://news.ycombinator.com/item?id=43527044) \| 🗓️ 2025-03-30
+| 🔥🔥: 201 \| 💬: [34](https://news.ycombinator.com/item?id=43527044) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -71,11 +83,11 @@ Blue95是一款基于**Fedora Atomic Xfce**的轻量级桌面系统，通过**Ch
 
 ---
 
-## <a name="5"></a>5. Rust Any系列第三篇：向上转型终获支持 
+## <a name="6"></a>6. Rust Any系列第三篇：向上转型终获支持 
 <small>🔗 [lucumr.pocoo.org](https://lucumr.pocoo.org/2025/3/27/any-upcast/): Rust Any part 3: we have upcasts</small>
 
 
-| 🔥🔥: 161 \| 💬: [69](https://news.ycombinator.com/item?id=43523238) \| 🗓️ 2025-03-30
+| 🔥🔥: 165 \| 💬: [71](https://news.ycombinator.com/item?id=43523238) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -83,11 +95,11 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="6"></a>6. 伦敦警方突袭贵格会所逮捕气候活动人士 
+## <a name="7"></a>7. 伦敦警方突袭贵格会所逮捕气候活动人士 
 <small>🔗 [thetimes.com](https://www.thetimes.com/uk/society/article/met-smash-down-door-of-quaker-meeting-house-to-arrest-activists-jhhchrtlt): Met Police smash down door of Quaker meeting house to arrest activists</small>
 
 
-| 🔥🔥: 143 \| 💬: [88](https://news.ycombinator.com/item?id=43525909) \| 🗓️ 2025-03-30
+| 🔥🔥: 144 \| 💬: [90](https://news.ycombinator.com/item?id=43525909) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -95,11 +107,11 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="7"></a>7. SML语言四讲（1989年PDF） 
+## <a name="8"></a>8. SML语言四讲（1989年PDF） 
 <small>🔗 [cs.tufts.edu](https://www.cs.tufts.edu/~nr/cs257/archive/mads-tofte/four-lectures.pdf): Four Lectures on Standard ML (1989) [pdf]</small>
 
 
-| 🔥🔥: 134 \| 💬: [31](https://news.ycombinator.com/item?id=43522363) \| 🗓️ 2025-03-30
+| 🔥🔥: 139 \| 💬: [31](https://news.ycombinator.com/item?id=43522363) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -107,11 +119,11 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="8"></a>8. 因自闭症纪念纹身被ICE拘留 委内瑞拉男子遭遣送萨尔瓦多监狱 
+## <a name="9"></a>9. 因自闭症纪念纹身被ICE拘留 委内瑞拉男子遭遣送萨尔瓦多监狱 
 <small>🔗 [latintimes.com](https://www.latintimes.com/man-detained-ice-autism-awareness-tattoo-still-sent-prison-after-officers-declared-him-clean-579373): Man Detained by ICE for Autism Awareness Tattoo Sent to Prison</small>
 
 
-| 🔥🔥: 121 \| 💬: [24](https://news.ycombinator.com/item?id=43527154) \| 🗓️ 2025-03-30
+| 🔥🔥: 122 \| 💬: [24](https://news.ycombinator.com/item?id=43527154) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -119,11 +131,11 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="9"></a>9. 黑客定律大全 
+## <a name="10"></a>10. 黑客定律大全 
 <small>🔗 [hacker-laws.com](https://hacker-laws.com/): Hacker Laws</small>
 
 
-| 🔥🔥: 118 \| 💬: [16](https://news.ycombinator.com/item?id=43523974) \| 🗓️ 2025-03-30
+| 🔥🔥: 119 \| 💬: [16](https://news.ycombinator.com/item?id=43523974) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -131,35 +143,11 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="10"></a>10. ICE因长相像墨西哥人而拘留美国公民数小时 
-<small>🔗 [techdirt.com](https://www.techdirt.com/2025/03/28/ice-arrested-and-detained-a-us-citizen-for-hours-because-he-looked-mexican/): ICE Arrested and Detained a US Citizen for Hours Because He Looked Mexican</small>
-
-
-| 🔥🔥: 114 \| 💬: [12](https://news.ycombinator.com/item?id=43527275) \| 🗓️ 2025-03-30
-
-
-<br />
-一名合法**美国公民**诺列加被ICE（移民海关执法局）无正式逮捕令拘留，仅因外貌像墨西哥人。文章指出，特朗普政府纵容ICE以“威胁”或“非公民”为由**随意逮捕棕色人种**，且缺乏监管，导致任何人均可能面临类似**非法拘押**。问题核心在于ICE滥用行政令，侵犯公民权利。
-
----
-
-## <a name="11"></a>11. Span<T>.SequenceEquals 比 memcmp 更快 
-<small>🔗 [richardcocks.github.io](https://richardcocks.github.io/2025-03-30-FasterThanMemCmp.html): Span<T>.SequenceEquals is faster than memcmp</small>
-
-
-| 🔥🔥: 113 \| 💬: [61](https://news.ycombinator.com/item?id=43524665) \| 🗓️ 2025-03-30
-
-
-<br />
-本文探讨了在 .NET 中使用 **Span<T>** 提升性能的优势。作者在将代码从 .NET Framework 4.8.1 迁移到 .NET 8 时，发现许多代码依赖 `msvcrt.dll` 的 `memcmp` 函数来比较字节数组。通过基准测试发现，**Span<T>.SequenceEqual** 在现代 .NET 中表现更优，尤其在处理大数组时显著快于传统方法。例如，在 .NET 8 中，`SequenceEqual` 比 `memcmp` 快约 500 倍（1MB 数组）。对于 .NET Framework 用户，推荐使用 `Span<T>` 替代外部 C 库，而 .NET 8 用户可直接使用内置的 `SequenceEqual`，无需额外依赖。
-
----
-
-## <a name="12"></a>12. 为什么这个网站用C语言构建 
+## <a name="11"></a>11. 为什么这个网站用C语言构建 
 <small>🔗 [marcelofern.com](https://marcelofern.com/posts/c/why-is-this-site-built-with-c/index.html): Why Is This Site Built with C</small>
 
 
-| 🔥🔥: 113 \| 💬: [93](https://news.ycombinator.com/item?id=43526058) \| 🗓️ 2025-03-30
+| 🔥🔥: 118 \| 💬: [100](https://news.ycombinator.com/item?id=43526058) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -167,11 +155,35 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="13"></a>13. Organic Maps因微软封禁GitHub账户迁移至Forgejo 
+## <a name="12"></a>12. Span<T>.SequenceEquals 比 memcmp 更快 
+<small>🔗 [richardcocks.github.io](https://richardcocks.github.io/2025-03-30-FasterThanMemCmp.html): Span<T>.SequenceEquals is faster than memcmp</small>
+
+
+| 🔥🔥: 117 \| 💬: [63](https://news.ycombinator.com/item?id=43524665) \| 🗓️ 2025-03-30
+
+
+<br />
+本文探讨了在 .NET 中使用 **Span<T>** 提升性能的优势。作者在将代码从 .NET Framework 4.8.1 迁移到 .NET 8 时，发现许多代码依赖 `msvcrt.dll` 的 `memcmp` 函数来比较字节数组。通过基准测试发现，**Span<T>.SequenceEqual** 在现代 .NET 中表现更优，尤其在处理大数组时显著快于传统方法。例如，在 .NET 8 中，`SequenceEqual` 比 `memcmp` 快约 500 倍（1MB 数组）。对于 .NET Framework 用户，推荐使用 `Span<T>` 替代外部 C 库，而 .NET 8 用户可直接使用内置的 `SequenceEqual`，无需额外依赖。
+
+---
+
+## <a name="13"></a>13. ICE因长相像墨西哥人而拘留美国公民数小时 
+<small>🔗 [techdirt.com](https://www.techdirt.com/2025/03/28/ice-arrested-and-detained-a-us-citizen-for-hours-because-he-looked-mexican/): ICE Arrested and Detained a US Citizen for Hours Because He Looked Mexican</small>
+
+
+| 🔥🔥: 115 \| 💬: [12](https://news.ycombinator.com/item?id=43527275) \| 🗓️ 2025-03-30
+
+
+<br />
+一名合法**美国公民**诺列加被ICE（移民海关执法局）无正式逮捕令拘留，仅因外貌像墨西哥人。文章指出，特朗普政府纵容ICE以“威胁”或“非公民”为由**随意逮捕棕色人种**，且缺乏监管，导致任何人均可能面临类似**非法拘押**。问题核心在于ICE滥用行政令，侵犯公民权利。
+
+---
+
+## <a name="14"></a>14. Organic Maps因微软封禁GitHub账户迁移至Forgejo 
 <small>🔗 [mastodon.social](https://mastodon.social/@organicmaps/114233788700982882): Organic Maps migrates to Forgejo due to GitHub account blocked by Microsoft</small>
 
 
-| 🔥🔥: 104 \| 💬: [32](https://news.ycombinator.com/item?id=43525395) \| 🗓️ 2025-03-30
+| 🔥🔥: 108 \| 💬: [32](https://news.ycombinator.com/item?id=43525395) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -179,11 +191,11 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="14"></a>14. 在数字时代为孩子打造模拟童年 
+## <a name="15"></a>15. 在数字时代为孩子打造模拟童年 
 <small>🔗 [joshuakennon.com](https://www.joshuakennon.com/raising-kids-to-have-an-analogue-childhood-in-a-digital-world/): Raising Kids to Have an Analog Childhood in a Digital World</small>
 
 
-| 🔥🔥: 102 \| 💬: [49](https://news.ycombinator.com/item?id=43527019) \| 🗓️ 2025-03-30
+| 🔥🔥: 104 \| 💬: [50](https://news.ycombinator.com/item?id=43527019) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -191,11 +203,11 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="15"></a>15. ICE秘密撤销中东学生签证 校方与学生均不知情 
+## <a name="16"></a>16. ICE秘密撤销中东学生签证 校方与学生均不知情 
 <small>🔗 [zeteo.com](https://zeteo.com/p/ice-manually-revoking-university-students-residency-status-middle-east): ICE Revoking Students' Immigration Statuses Without Their or the Uni's Knowledge</small>
 
 
-| 🔥: 95 \| 💬: [33](https://news.ycombinator.com/item?id=43528356) \| 🗓️ 2025-03-30
+| 🔥: 97 \| 💬: [33](https://news.ycombinator.com/item?id=43528356) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -203,11 +215,11 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="16"></a>16. 德国伊萨尔航天公司首射Spectrum火箭失败：一级飞行阶段失控坠海 
+## <a name="17"></a>17. 德国伊萨尔航天公司首射Spectrum火箭失败：一级飞行阶段失控坠海 
 <small>🔗 [nasaspaceflight.com](https://www.nasaspaceflight.com/2025/03/isar-first-launch/): Isar Aerospace launches Spectrum, fails early in first stage flight</small>
 
 
-| 🔥: 89 \| 💬: [51](https://news.ycombinator.com/item?id=43524784) \| 🗓️ 2025-03-30
+| 🔥: 91 \| 💬: [51](https://news.ycombinator.com/item?id=43524784) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -215,11 +227,23 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="17"></a>17. 用ASM在Java中实现尾递归优化（2023） 
+## <a name="18"></a>18. 在教室安装空气净化器竟能显著提升学习成绩 
+<small>🔗 [vox.com](https://www.vox.com/2020/1/8/21051869/indoor-air-pollution-student-achievement): Installing air filters in classrooms has surprisingly large educational benefits</small>
+
+
+| 🔥: 91 \| 💬: [44](https://news.ycombinator.com/item?id=43529257) \| 🗓️ 2025-03-30
+
+
+<br />
+洛杉矶学校因2015年天然气泄漏事件误报安装了**空气净化器**，结果学生**数学和英语成绩**分别提高了0.20和0.18个标准差，效果堪比缩减三分之一班级规模。研究表明，**空气污染**会损害认知能力，而净化器仅需700美元/间教室，是性价比极高的教育干预措施。低收入社区可能受益更大，建议推广试验以验证长期效果。
+
+---
+
+## <a name="19"></a>19. 用ASM在Java中实现尾递归优化（2023） 
 <small>🔗 [unlinkedlist.org](https://unlinkedlist.org/2023/03/19/tail-call-recursion-in-java-with-asm/): Tail Call Recursion in Java with ASM (2023)</small>
 
 
-| 🔥: 83 \| 💬: [36](https://news.ycombinator.com/item?id=43523741) \| 🗓️ 2025-03-30
+| 🔥: 87 \| 💬: [36](https://news.ycombinator.com/item?id=43523741) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -227,11 +251,11 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="18"></a>18. 地球自转能否发电？物理学界争议新理论 
+## <a name="20"></a>20. 地球自转能否发电？物理学界争议新理论 
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00847-0): Can Earth's rotation generate power? Physicists divided over controversial claim</small>
 
 
-| 🔥: 80 \| 💬: [173](https://news.ycombinator.com/item?id=43526443) \| 🗓️ 2025-03-30
+| 🔥: 85 \| 💬: [178](https://news.ycombinator.com/item?id=43526443) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -239,11 +263,23 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="19"></a>19. 航班因乘客手机丢失中途返航：锂电池安全隐患引关注 
+## <a name="21"></a>21. Linux系统编程入门（抢先体验版） 
+<small>🔗 [nostarch.com](https://nostarch.com/introduction-system-programming-linux): Introduction to System Programming in Linux (Early Access)</small>
+
+
+| 🔥: 84 \| 💬: [13](https://news.ycombinator.com/item?id=43526763) \| 🗓️ 2025-03-30
+
+
+<br />
+本书是面向**Linux/Unix操作系统**的编程指南，涵盖系统编程基础、命令行操作、文件I/O、进程管理、线程同步等核心内容。作者以**40年教学经验**撰写，结合图表与实战项目，适合具备**C/C++基础**的读者。无需Linux基础，但需准备Linux环境。抢先体验版包含部分章节，预售享25%折扣。作者Stewart N. Weiss为亨特学院计算机科学教授，专注Unix系统编程与开源开发。
+
+---
+
+## <a name="22"></a>22. 航班因乘客手机丢失中途返航：锂电池安全隐患引关注 
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/travel/2025/03/28/air-france-lost-cellphone/): Why a plane turned around when a passenger lost a phone midflight</small>
 
 
-| 🔥: 76 \| 💬: [137](https://news.ycombinator.com/item?id=43523765) \| 🗓️ 2025-03-30
+| 🔥: 83 \| 💬: [141](https://news.ycombinator.com/item?id=43523765) \| 🗓️ 2025-03-30
 
 
 <br />
@@ -251,7 +287,19 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="20"></a>20. 孩子与阴影（1975） 
+## <a name="23"></a>23. MAME 0.276 发布：性能优化与大量游戏修复 
+<small>🔗 [mamedev.org](https://www.mamedev.org/?p=549): MAME 0.276</small>
+
+
+| 🔥: 75 \| 💬: [21](https://news.ycombinator.com/item?id=43527552) \| 🗓️ 2025-03-30
+
+
+<br />
+MAME 0.276 版本于 2025 年 3 月 31 日发布，带来多项重要更新。**64 位 ARMv8 重新编译器**进一步提速，修复了 Konami GX 街机游戏和 Philips CD-i 软件的图形问题。新增多款 IGS 赌博游戏及中国版麻将游戏，并完善了 LinnDrum 打击乐合成器的交互控制与音频输出。此外，修复了多款街机游戏的音频问题，改进了 PC-88VA 模拟器和 TI-99 电脑外设支持。Windows 用户新增调试器窗口任务栏显示选项。详细更新内容可查阅官方文档。
+
+---
+
+## <a name="24"></a>24. 孩子与阴影（1975） 
 <small>🔗 [johnirons.com](https://www.johnirons.com/pdfs/shadowleguin.pdf): The Child and the Shadow (1975) [pdf]</small>
 
 
@@ -263,19 +311,7 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 ---
 
-## <a name="21"></a>21. Linux系统编程入门（抢先体验版） 
-<small>🔗 [nostarch.com](https://nostarch.com/introduction-system-programming-linux): Introduction to System Programming in Linux (Early Access)</small>
-
-
-| 🔥: 74 \| 💬: [12](https://news.ycombinator.com/item?id=43526763) \| 🗓️ 2025-03-30
-
-
-<br />
-本书是面向**Linux/Unix操作系统**的编程指南，涵盖系统编程基础、命令行操作、文件I/O、进程管理、线程同步等核心内容。作者以**40年教学经验**撰写，结合图表与实战项目，适合具备**C/C++基础**的读者。无需Linux基础，但需准备Linux环境。抢先体验版包含部分章节，预售享25%折扣。作者Stewart N. Weiss为亨特学院计算机科学教授，专注Unix系统编程与开源开发。
-
----
-
-## <a name="22"></a>22. 美国地质调查局：汤加潘盖东南90公里处发生7.1级地震 
+## <a name="25"></a>25. 美国地质调查局：汤加潘盖东南90公里处发生7.1级地震 
 <small>🔗 [earthquake.usgs.gov](https://earthquake.usgs.gov/earthquakes/eventpage/us7000pntq/executive): USGS: M 7.1 Earthquake – 90 km SE of Pangai, Tonga</small>
 
 
@@ -284,41 +320,5 @@ Armin Ronacher在本文中回顾了三年前提出的**As-Any Hack**——一种
 
 <br />
 美国地质调查局（USGS）报告显示，**汤加**群岛的**潘盖东南90公里**处发生了一次**7.1级强震**。该机构提醒用户需启用JavaScript以查看详细地震事件页面，或通过实时通知、订阅和网络服务获取信息。部分老旧浏览器可能无法支持页面功能。
-
----
-
-## <a name="23"></a>23. 致敬Game Boy Advance：掌机革命的里程碑 
-<small>🔗 [brainbaking.com](https://brainbaking.com/post/2025/03/an-ode-to-the-game-boy-advance/): An Ode to the Game Boy Advance</small>
-
-
-| 🔥: 62 \| 💬: [29](https://news.ycombinator.com/item?id=43524534) \| 🗓️ 2025-03-30
-
-
-<br />
-2001年3月，任天堂推出**Game Boy Advance（GBA）**，搭载32位ARM处理器，性能超越前代Game Boy Color，支持SNES级游戏体验。尽管屏幕无背光（后由GBA SP改进），但其**向下兼容**GB/GBC游戏的设计延续了任天堂传统。GBA凭借《恶魔城：月轮》等首发游戏展现强大机能，但短暂生命周期（2001-2004）因NDS的崛起而终结。**GBA SP**的翻盖设计和背光屏进一步优化体验，而Game Boy Micro则因销量低迷成为任天堂最失败的掌机之一。
-
----
-
-## <a name="24"></a>24. 中国电动车巨头比亚迪为何在美国买不到？ 
-<small>🔗 [cnn.com](https://www.cnn.com/2025/03/26/cars/china-byd-profile-tesla-rival-intl-hnk/index.html): It's the hottest car company. You can't buy one in America</small>
-
-
-| 🔥: 61 \| 💬: [70](https://news.ycombinator.com/item?id=43523797) \| 🗓️ 2025-03-30
-
-
-<br />
-比亚迪已超越特斯拉成为全球电动车销量冠军，凭借**快速充电技术**（5分钟续航250英里）和免费**高阶驾驶辅助系统**等创新领先行业。其成功源于**垂直整合模式**（自产电池和零部件）和低价策略（入门款约1万美元）。尽管因美国100%关税无法进入当地市场，比亚迪正加速海外扩张，目标2025年海外销量翻倍至80万辆。创始人王传福从电池技术起家，坚持技术驱动，被分析师视为“不可阻挡的力量”。
-
----
-
-## <a name="25"></a>25. 为老鼠辩护：被误解的千年宿敌 
-<small>🔗 [hakaimagazine.com](https://hakaimagazine.com/features/in-defense-of-the-rat/): In Defense of the Rat</small>
-
-
-| 🔥: 45 \| 💬: [40](https://news.ycombinator.com/item?id=43524394) \| 🗓️ 2025-03-30
-
-
-<br />
-历史上人类曾将动物告上法庭，甚至对老鼠进行审判。**黑死病**长期被认为是老鼠传播的，但新研究指出，欧洲中世纪瘟疫的元凶可能是**人类体表寄生虫**（如跳蚤和虱子），而非老鼠。尽管老鼠在温暖地区确实传播疾病，但它们在欧洲的“罪名”或被夸大。现代人对老鼠的厌恶催生了残酷的灭鼠手段，但科学揭示它们并非全恶——**生态角色**复杂，甚至可能颠覆传统认知。
 
 ---
