@@ -27,7 +27,7 @@ tags:
 <small>🔗 [pages.cs.wisc.edu](https://pages.cs.wisc.edu/~kovar/hall.html): Electron band structure in germanium, my ass (2001)</small>
 
 
-| 🔥🔥: 767 \| 💬: [320](https://news.ycombinator.com/item?id=43545917) \| 🗓️ 2025-04-01
+| 🔥🔥: 777 \| 💬: [323](https://news.ycombinator.com/item?id=43545917) \| 🗓️ 2025-04-01
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c78jd30ywv8o): Bletchley code breaker Betty Webb dies aged 101</small>
 
 
-| 🔥🔥: 362 \| 💬: [61](https://news.ycombinator.com/item?id=43546236) \| 🗓️ 2025-04-01
+| 🔥🔥: 380 \| 💬: [64](https://news.ycombinator.com/item?id=43546236) \| 🗓️ 2025-04-01
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [secondlifestorage.com](https://secondlifestorage.com/index.php?threads/glubuxs-powerwall.126/): Glubux's Powerwall (2016)</small>
 
 
-| 🔥🔥: 361 \| 💬: [231](https://news.ycombinator.com/item?id=43548217) \| 🗓️ 2025-04-01
+| 🔥🔥: 363 \| 💬: [234](https://news.ycombinator.com/item?id=43548217) \| 🗓️ 2025-04-01
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [batsov.com](https://batsov.com/articles/2025/03/30/why-fsharp/): Why F#?</small>
 
 
-| 🔥🔥: 318 \| 💬: [277](https://news.ycombinator.com/item?id=43546004) \| 🗓️ 2025-04-01
+| 🔥🔥: 319 \| 💬: [278](https://news.ycombinator.com/item?id=43546004) \| 🗓️ 2025-04-01
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [home.cern](https://home.cern/news/news/physics/cern-scientists-find-evidence-quantum-entanglement-sheep): CERN scientists find evidence of quantum entanglement in sheep</small>
 
 
-| 🔥🔥: 304 \| 💬: [100](https://news.ycombinator.com/item?id=43545349) \| 🗓️ 2025-04-01
+| 🔥🔥: 308 \| 💬: [100](https://news.ycombinator.com/item?id=43545349) \| 🗓️ 2025-04-01
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [independent.co.uk](https://www.independent.co.uk/news/world/americas/us-politics/trump-el-salvador-abrego-garcia-b2725002.html): US accidentally sent Maryland father to Salvadorian prison, can't get him back</small>
 
 
-| 🔥🔥: 206 \| 💬: [130](https://news.ycombinator.com/item?id=43544534) \| 🗓️ 2025-04-01
+| 🔥🔥: 207 \| 💬: [130](https://news.ycombinator.com/item?id=43544534) \| 🗓️ 2025-04-01
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [kiranet.org](https://kiranet.org/self-hosting-like-its-2025/): Self-Hosting like it's 2025</small>
 
 
-| 🔥🔥: 203 \| 💬: [213](https://news.ycombinator.com/item?id=43544979) \| 🗓️ 2025-04-01
+| 🔥🔥: 207 \| 💬: [213](https://news.ycombinator.com/item?id=43544979) \| 🗓️ 2025-04-01
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [libreqos.io](https://libreqos.io/2025/04/01/in-loving-memory-of-dave/): Dave Täht has died</small>
 
 
-| 🔥🔥: 192 \| 💬: [37](https://news.ycombinator.com/item?id=43550098) \| 🗓️ 2025-04-01
+| 🔥🔥: 200 \| 💬: [40](https://news.ycombinator.com/item?id=43550098) \| 🗓️ 2025-04-01
 
 
 <br />
@@ -123,7 +123,7 @@ tags:
 <small>🔗 [github.com](https://github.com/getomni-ai/benchmark/blob/main/README.md): Show HN: Qwen-2.5-32B is now the best open source OCR model</small>
 
 
-| 🔥🔥: 191 \| 💬: [40](https://news.ycombinator.com/item?id=43549072) \| 🗓️ 2025-04-01
+| 🔥🔥: 192 \| 💬: [40](https://news.ycombinator.com/item?id=43549072) \| 🗓️ 2025-04-01
 
 
 <br />
@@ -135,7 +135,7 @@ Omni OCR Benchmark是一个**开源评测工具**，用于对比多模态大模�
 <small>🔗 [github.com](https://github.com/dfd-tud/deda): DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit</small>
 
 
-| 🔥🔥: 182 \| 💬: [60](https://news.ycombinator.com/item?id=43551397) \| 🗓️ 2025-04-01
+| 🔥🔥: 190 \| 💬: [63](https://news.ycombinator.com/item?id=43551397) \| 🗓️ 2025-04-01
 
 
 <br />
@@ -147,7 +147,7 @@ DEDA是一款用于处理**彩色激光打印机**在文档中嵌入的**黄色�
 <small>🔗 [glthr.com](https://glthr.com/myst-graph-1): The Myst Graph: A New Perspective on Myst</small>
 
 
-| 🔥🔥: 175 \| 💬: [46](https://news.ycombinator.com/item?id=43549293) \| 🗓️ 2025-04-01
+| 🔥🔥: 188 \| 💬: [49](https://news.ycombinator.com/item?id=43549293) \| 🗓️ 2025-04-01
 
 
 <br />
@@ -155,35 +155,11 @@ DEDA是一款用于处理**彩色激光打印机**在文档中嵌入的**黄色�
 
 ---
 
-## <a name="12"></a>12. AWS系统正确性实践：形式化与半形式化方法的应用 
-<small>🔗 [queue.acm.org](https://queue.acm.org/detail.cfm?id=3712057): Systems Correctness Practices at AWS: Leveraging Formal and Semi-Formal Methods</small>
-
-
-| 🔥🔥: 138 \| 💬: [35](https://news.ycombinator.com/item?id=43547593) \| 🗓️ 2025-04-01
-
-
-<br />
-AWS通过**形式化方法**（如TLA+和P语言）与**半形式化方法**（如基于属性的测试、模糊测试）确保系统正确性。P语言帮助团队建模分布式系统，早期发现设计缺陷，如S3强一致性升级。**轻量级方法**（如确定性模拟和故障注入服务FIS）加速测试流程，覆盖错误场景。此外，**形式化证明**（如Cedar授权语言）用于关键安全边界，确保数学级正确性。这些实践提升了AWS服务的可靠性与性能优化能力。
-
----
-
-## <a name="13"></a>13. RubyUI：开源Ruby组件库（原PhlexUI） 
-<small>🔗 [github.com](https://github.com/ruby-ui/ruby_ui): RubyUI (Former PhlexUI): Ruby Gem for RubyUI Components</small>
-
-
-| 🔥🔥: 132 \| 💬: [26](https://news.ycombinator.com/item?id=43548108) \| 🗓️ 2025-04-01
-
-
-<br />
-RubyUI是一款基于**Phlex框架**的Ruby组件库，提供**高性能**（比传统ERB模板快12倍）和**可定制化**的UI组件。用户可直接复制代码片段到项目中，无需依赖完整库。支持通过Tailwind轻松定制样式，并采用**Stimulus.js**保持轻量化。包含详尽的文档和主题配置，安装仅需三步：添加gem、运行安装命令、生成组件。所有组件遵循MIT许可，适合快速构建优雅且高效的用户界面。
-
----
-
-## <a name="14"></a>14. 音乐中的基因共鸣 
+## <a name="12"></a>12. 音乐中的基因共鸣 
 <small>🔗 [pudding.cool](https://pudding.cool/2025/04/music-dna/): Shared DNA in Music</small>
 
 
-| 🔥🔥: 128 \| 💬: [24](https://news.ycombinator.com/item?id=43551352) \| 🗓️ 2025-04-01
+| 🔥🔥: 143 \| 💬: [27](https://news.ycombinator.com/item?id=43551352) \| 🗓️ 2025-04-01
 
 
 <br />
@@ -191,23 +167,35 @@ RubyUI是一款基于**Phlex框架**的Ruby组件库，提供**高性能**（比
 
 ---
 
-## <a name="15"></a>15. 硅胶干燥剂如何悄然占领世界 
-<small>🔗 [scopeofwork.net](https://www.scopeofwork.net/silica-gel/): How Silica Gel Took Over the World</small>
+## <a name="13"></a>13. AWS系统正确性实践：形式化与半形式化方法的应用 
+<small>🔗 [queue.acm.org](https://queue.acm.org/detail.cfm?id=3712057): Systems Correctness Practices at AWS: Leveraging Formal and Semi-Formal Methods</small>
 
 
-| 🔥🔥: 105 \| 💬: [78](https://news.ycombinator.com/item?id=43550556) \| 🗓️ 2025-04-01
+| 🔥🔥: 141 \| 💬: [39](https://news.ycombinator.com/item?id=43547593) \| 🗓️ 2025-04-01
 
 
 <br />
-硅胶干燥剂无处不在——从新鞋到海苔零食，再到药品包装。这些**多孔硅胶珠**由二氧化硅制成，内部表面积巨大（1克可达800平方米），能吸附自身重量40%的水分，通过**毛细冷凝**原理防潮。20世纪初由Walter Patrick发明后，经商业化成为全球供应链的关键角色。如今，大部分干燥剂产自海外，因长途运输需严格控湿。它并非“统治世界”，而是**全球化**的隐形推手。
+AWS通过**形式化方法**（如TLA+和P语言）与**半形式化方法**（如基于属性的测试、模糊测试）确保系统正确性。P语言帮助团队建模分布式系统，早期发现设计缺陷，如S3强一致性升级。**轻量级方法**（如确定性模拟和故障注入服务FIS）加速测试流程，覆盖错误场景。此外，**形式化证明**（如Cedar授权语言）用于关键安全边界，确保数学级正确性。这些实践提升了AWS服务的可靠性与性能优化能力。
 
 ---
 
-## <a name="16"></a>16. Linux二进制兼容性的糟糕现状及解决方案 
+## <a name="14"></a>14. RubyUI：开源Ruby组件库（原PhlexUI） 
+<small>🔗 [github.com](https://github.com/ruby-ui/ruby_ui): RubyUI (Former PhlexUI): Ruby Gem for RubyUI Components</small>
+
+
+| 🔥🔥: 135 \| 💬: [27](https://news.ycombinator.com/item?id=43548108) \| 🗓️ 2025-04-01
+
+
+<br />
+RubyUI是一款基于**Phlex框架**的Ruby组件库，提供**高性能**（比传统ERB模板快12倍）和**可定制化**的UI组件。用户可直接复制代码片段到项目中，无需依赖完整库。支持通过Tailwind轻松定制样式，并采用**Stimulus.js**保持轻量化。包含详尽的文档和主题配置，安装仅需三步：添加gem、运行安装命令、生成组件。所有组件遵循MIT许可，适合快速构建优雅且高效的用户界面。
+
+---
+
+## <a name="15"></a>15. Linux二进制兼容性的糟糕现状及解决方案 
 <small>🔗 [jangafx.com](https://jangafx.com/insights/linux-binary-compatibility): The state of binary compatibility on Linux and how to address it</small>
 
 
-| 🔥🔥: 105 \| 💬: [67](https://news.ycombinator.com/item?id=43551934) \| 🗓️ 2025-04-01
+| 🔥🔥: 111 \| 💬: [71](https://news.ycombinator.com/item?id=43551934) \| 🗓️ 2025-04-01
 
 
 <br />
@@ -215,11 +203,23 @@ RubyUI是一款基于**Phlex框架**的Ruby组件库，提供**高性能**（比
 
 ---
 
+## <a name="16"></a>16. 硅胶干燥剂如何悄然占领世界 
+<small>🔗 [scopeofwork.net](https://www.scopeofwork.net/silica-gel/): How Silica Gel Took Over the World</small>
+
+
+| 🔥🔥: 107 \| 💬: [80](https://news.ycombinator.com/item?id=43550556) \| 🗓️ 2025-04-01
+
+
+<br />
+硅胶干燥剂无处不在——从新鞋到海苔零食，再到药品包装。这些**多孔硅胶珠**由二氧化硅制成，内部表面积巨大（1克可达800平方米），能吸附自身重量40%的水分，通过**毛细冷凝**原理防潮。20世纪初由Walter Patrick发明后，经商业化成为全球供应链的关键角色。如今，大部分干燥剂产自海外，因长途运输需严格控湿。它并非“统治世界”，而是**全球化**的隐形推手。
+
+---
+
 ## <a name="17"></a>17. 我们能够、必须且终将模拟线虫大脑 
 <small>🔗 [asteriskmag.com](https://asteriskmag.com/issues/09/we-can-must-and-will-simulate-nematode-brains): We can, must, and will simulate nematode brains</small>
 
 
-| 🔥🔥: 104 \| 💬: [100](https://news.ycombinator.com/item?id=43547813) \| 🗓️ 2025-04-01
+| 🔥🔥: 105 \| 💬: [100](https://news.ycombinator.com/item?id=43547813) \| 🗓️ 2025-04-01
 
 
 <br />
@@ -231,7 +231,7 @@ RubyUI是一款基于**Phlex框架**的Ruby组件库，提供**高性能**（比
 <small>🔗 [github.com](https://github.com/williamw520/toposort): Show HN: Zig Topological Sort Library for Parallel Processing</small>
 
 
-| 🔥: 91 \| 💬: [34](https://news.ycombinator.com/item?id=43549618) \| 🗓️ 2025-04-01
+| 🔥: 93 \| 💬: [36](https://news.ycombinator.com/item?id=43549618) \| 🗓️ 2025-04-01
 
 
 <br />
@@ -243,7 +243,7 @@ RubyUI是一款基于**Phlex框架**的Ruby组件库，提供**高性能**（比
 <small>🔗 [naveen.ing](https://www.naveen.ing/cli-for-smartplugs/): Show HN: Terminal dashboard that throttles my PC during peak electricity rates</small>
 
 
-| 🔥: 87 \| 💬: [58](https://news.ycombinator.com/item?id=43547835) \| 🗓️ 2025-04-01
+| 🔥: 89 \| 💬: [58](https://news.ycombinator.com/item?id=43547835) \| 🗓️ 2025-04-01
 
 
 <br />
@@ -255,7 +255,7 @@ RubyUI是一款基于**Phlex框架**的Ruby组件库，提供**高性能**（比
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/apr/01/donkey-kong-champion-billy-mitchell-wins-defamation-case-australia-youtuber-karl-jobst-ntwnfb): Donkey Kong champion wins defamation case against Australian YouTuber Karl Jobst</small>
 
 
-| 🔥: 84 \| 💬: [67](https://news.ycombinator.com/item?id=43547178) \| 🗓️ 2025-04-01
+| 🔥: 85 \| 💬: [68](https://news.ycombinator.com/item?id=43547178) \| 🗓️ 2025-04-01
 
 
 <br />
@@ -263,7 +263,19 @@ RubyUI是一款基于**Phlex框架**的Ruby组件库，提供**高性能**（比
 
 ---
 
-## <a name="21"></a>21. 乌克兰士兵意外发现古希腊墓葬 
+## <a name="21"></a>21. 开源离灾难求救与救援应用Igatha 
+<small>🔗 [github.com](https://github.com/nizarmah/igatha): Show HN: Offline SOS signaling+recovery app for disasters/wars</small>
+
+
+| 🔥: 84 \| 💬: [43](https://news.ycombinator.com/item?id=43551767) \| 🗓️ 2025-04-01
+
+
+<br />
+Igatha是一款支持**离线运行**的开源应急应用，专为战争和灾难场景设计，通过**蓝牙低功耗（BLE）**技术实现无网络环境下的SOS信号收发。用户可手动发送求救信号，或启用**灾害检测**功能自动触发（通过传感器监测异常运动或气压变化）。救援模式下，安全人员可循信号强度和声音定位求助者。应用完全离线运行，保障隐私，目前处于MVP阶段，欢迎社区贡献代码或改进建议。
+
+---
+
+## <a name="22"></a>22. 乌克兰士兵意外发现古希腊墓葬 
 <small>🔗 [archaeology.org](https://archaeology.org/news/2025/03/31/ukrainian-soldiers-unearth-ancient-greek-burial/): Ukrainian Soldiers Unearth Ancient Greek Burial</small>
 
 
@@ -272,17 +284,5 @@ RubyUI是一款基于**Phlex框架**的Ruby组件库，提供**高性能**（比
 
 <br />
 乌克兰士兵在南部挖掘防御工事时，意外发现了一座**古希腊墓葬**。一名士兵在战壕中发现了一个小型**伊奥尼亚风格双耳瓶**，随后专家鉴定其为古希腊丧葬仪式中的** ritual 器物**。进一步发掘还出土了一个单柄三嘴壶（oinochoe）及人类遗骸，推测来自公元前6至5世纪的墓地。这些保存完好的器物表明墓主社会地位较高。该地区曾是古希腊人在黑海北岸的殖民定居点之一。
-
----
-
-## <a name="22"></a>22. 开源离灾难求救与救援应用Igatha 
-<small>🔗 [github.com](https://github.com/nizarmah/igatha): Show HN: Offline SOS signaling+recovery app for disasters/wars</small>
-
-
-| 🔥: 76 \| 💬: [43](https://news.ycombinator.com/item?id=43551767) \| 🗓️ 2025-04-01
-
-
-<br />
-Igatha是一款支持**离线运行**的开源应急应用，专为战争和灾难场景设计，通过**蓝牙低功耗（BLE）**技术实现无网络环境下的SOS信号收发。用户可手动发送求救信号，或启用**灾害检测**功能自动触发（通过传感器监测异常运动或气压变化）。救援模式下，安全人员可循信号强度和声音定位求助者。应用完全离线运行，保障隐私，目前处于MVP阶段，欢迎社区贡献代码或改进建议。
 
 ---
