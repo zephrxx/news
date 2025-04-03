@@ -12,11 +12,11 @@ tags:
 1. 《天才反击》：30年后仍是极客文化的标杆之作；
 1. 将Tailscale移植到Plan 9操作系统的奇妙之旅；
 1. 为什么世界正在失去色彩？；
-1. 研究发现：运动补充剂肌酸对增肌无显著效果；
+1. Pico.sh：开发者专属的SSH全能服务平台；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共21条，具体内容您往下读...
+总共23条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [dorithegiant.com](https://www.dorithegiant.com/2016/05/13-animals-made-from-13-circles.html): Animals Made from 13 Circles (2016)</small>
 
 
-| 🔥🔥: 369 \| 💬: [78](https://news.ycombinator.com/item?id=43557873) \| 🗓️ 2025-04-02
+| 🔥🔥: 388 \| 💬: [78](https://news.ycombinator.com/item?id=43557873) \| 🗓️ 2025-04-02
 
 
 <br />
@@ -41,7 +41,7 @@ tags:
 <small>🔗 [reactormag.com](https://reactormag.com/30-years-later-real-genius-is-still-the-geek-solidarity-film-that-nerd-culture-deserves/): RIP Val Kilmer: Real Genius .. the Film Nerd Culture Deserves (2015)</small>
 
 
-| 🔥🔥: 314 \| 💬: [95](https://news.ycombinator.com/item?id=43555334) \| 🗓️ 2025-04-02
+| 🔥🔥: 315 \| 💬: [95](https://news.ycombinator.com/item?id=43555334) \| 🗓️ 2025-04-02
 
 
 <br />
@@ -53,7 +53,7 @@ tags:
 <small>🔗 [tailscale.com](https://tailscale.com/blog/plan9-port): Porting Tailscale to Plan 9</small>
 
 
-| 🔥🔥: 296 \| 💬: [72](https://news.ycombinator.com/item?id=43557790) \| 🗓️ 2025-04-02
+| 🔥🔥: 314 \| 💬: [76](https://news.ycombinator.com/item?id=43557790) \| 🗓️ 2025-04-02
 
 
 <br />
@@ -65,7 +65,7 @@ Tailscale团队在愚人节宣布支持**Plan 9**操作系统，但这次并非�
 <small>🔗 [culture-critic.com](https://www.culture-critic.com/p/why-is-the-world-losing-color): Why is the world losing color?</small>
 
 
-| 🔥🔥: 211 \| 💬: [191](https://news.ycombinator.com/item?id=43557471) \| 🗓️ 2025-04-02
+| 🔥🔥: 221 \| 💬: [214](https://news.ycombinator.com/item?id=43557471) \| 🗓️ 2025-04-02
 
 
 <br />
@@ -73,7 +73,19 @@ Tailscale团队在愚人节宣布支持**Plan 9**操作系统，但这次并非�
 
 ---
 
-## <a name="5"></a>5. 研究发现：运动补充剂肌酸对增肌无显著效果 
+## <a name="5"></a>5. Pico.sh：开发者专属的SSH全能服务平台 
+<small>🔗 [pico.sh](https://pico.sh/): Pico.sh – SSH powered services for developers</small>
+
+
+| 🔥🔥: 165 \| 💬: [39](https://news.ycombinator.com/item?id=43560899) \| 🗓️ 2025-04-02
+
+
+<br />
+Pico.sh 提供基于 **SSH** 的多样化开发服务：通过 **静态页面托管** 在全球平台部署网站，利用 **隧道服务** 公开本地网络应用，或通过安全管道 **实时传输数据**。此外，还支持博客托管、RSS邮件订阅及代码片段上传（兼容rsync/scp/sftp）。所有功能均以SSH为核心，简化开发流程。
+
+---
+
+## <a name="6"></a>6. 研究发现：运动补充剂肌酸对增肌无显著效果 
 <small>🔗 [unsw.edu.au](https://www.unsw.edu.au/newsroom/news/2025/03/sports-supplement-creatine-makes-no-difference-to-muscle-gains-trial-finds): Sports supplement creatine makes no difference to muscle gains, trial finds</small>
 
 
@@ -85,11 +97,11 @@ Tailscale团队在愚人节宣布支持**Plan 9**操作系统，但这次并非�
 
 ---
 
-## <a name="6"></a>6. 1993年的蒸汽机车搞砸了我的yarn测试 
+## <a name="7"></a>7. 1993年的蒸汽机车搞砸了我的yarn测试 
 <small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/yarn-test-suffers-strange-derailment/): A steam locomotive from 1993 broke my yarn test</small>
 
 
-| 🔥🔥: 152 \| 💬: [66](https://news.ycombinator.com/item?id=43556280) \| 🗓️ 2025-04-02
+| 🔥🔥: 156 \| 💬: [66](https://news.ycombinator.com/item?id=43556280) \| 🗓️ 2025-04-02
 
 
 <br />
@@ -97,7 +109,43 @@ Tailscale团队在愚人节宣布支持**Plan 9**操作系统，但这次并非�
 
 ---
 
-## <a name="7"></a>7. 特斯拉遭遇2022年以来最差季度表现，交付量大幅下滑 
+## <a name="8"></a>8. Mozilla推出"Thundermail"邮件服务，挑战Gmail和微软365 
+<small>🔗 [techradar.com](https://www.techradar.com/pro/mozilla-launching-thundermail-email-service-to-take-on-gmail-microsoft-365): Mozilla launching “Thundermail” email service to take on Gmail, Microsoft 365</small>
+
+
+| 🔥🔥: 152 \| 💬: [114](https://news.ycombinator.com/item?id=43560885) \| 🗓️ 2025-04-02
+
+
+<br />
+Mozilla宣布将开源邮件客户端**Thunderbird**升级为全功能通信平台，推出**Thundermail**邮件托管服务和**Thunderbird Pro**套件，包含预约工具、文件传输及本地化AI写作助手。此举旨在以**开源隐私优势**对抗Gmail等商业生态，扭转用户流失趋势。初期功能将收费，未来计划推出有限制的免费版本。
+
+---
+
+## <a name="9"></a>9. 数字档案员：守护公共数据免遭删除 
+<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/digital-archive): Digital Archivists: Protecting Public Data from Erasure</small>
+
+
+| 🔥🔥: 129 \| 💬: [28](https://news.ycombinator.com/item?id=43558182) \| 🗓️ 2025-04-02
+
+
+<br />
+哈佛法学院**图书馆创新实验室**通过巧妙运用**API技术**，成功备份了美国政府数据门户**Data.gov**上的31.1万份公共数据集，防止重要信息被篡改或删除。这一举措展现了数字存档在对抗“记忆黑洞”中的关键作用，为公众数据的长期保存提供了创新解决方案。
+
+---
+
+## <a name="10"></a>10. Matrix.org将迁移至新一代认证系统MAS 
+<small>🔗 [matrix.org](https://matrix.org/blog/2025/04/matrix-auth-service/): Matrix.org Will Migrate to MAS</small>
+
+
+| 🔥🔥: 120 \| 💬: [79](https://news.ycombinator.com/item?id=43558464) \| 🗓️ 2025-04-02
+
+
+<br />
+2025年4月7日UTC时间7点起，Matrix.org将升级认证系统至**MAS（Matrix认证服务）**，采用基于OAuth 2.0/OIDC的**新一代认证技术**，预计停机1小时。此次升级带来三大改进：**专属账户管理界面**（account.matrix.org）、**更安全的认证机制**（服务器端存储凭证、敏感操作限制）以及**更流畅的注册体验**。现有会话不受影响，旧版API仍兼容。MAS为Matrix生态奠定新基础，未来将支持扫码登录等创新功能。详情可查阅技术演讲或加入#matrix-auth频道讨论。
+
+---
+
+## <a name="11"></a>11. 特斯拉遭遇2022年以来最差季度表现，交付量大幅下滑 
 <small>🔗 [ft.com](https://www.ft.com/content/0ebcec51-2a5a-4820-99e8-1e500370fd68): Tesla suffers worst quarter since 2022 as deliveries tumble</small>
 
 
@@ -109,19 +157,7 @@ Tailscale团队在愚人节宣布支持**Plan 9**操作系统，但这次并非�
 
 ---
 
-## <a name="8"></a>8. 数字档案员：守护公共数据免遭删除 
-<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/digital-archive): Digital Archivists: Protecting Public Data from Erasure</small>
-
-
-| 🔥🔥: 118 \| 💬: [26](https://news.ycombinator.com/item?id=43558182) \| 🗓️ 2025-04-02
-
-
-<br />
-哈佛法学院**图书馆创新实验室**通过巧妙运用**API技术**，成功备份了美国政府数据门户**Data.gov**上的31.1万份公共数据集，防止重要信息被篡改或删除。这一举措展现了数字存档在对抗“记忆黑洞”中的关键作用，为公众数据的长期保存提供了创新解决方案。
-
----
-
-## <a name="9"></a>9. 因"行政失误"，美国一男子被误送至萨尔瓦多监狱 
+## <a name="12"></a>12. 因"行政失误"，美国一男子被误送至萨尔瓦多监狱 
 <small>🔗 [apnews.com](https://apnews.com/article/el-salvador-deportation-maryland-man-trump-error-818a0fa1218de714448edcb5be1f7347): An 'administrative error' sent a Maryland man to an El Salvador prison</small>
 
 
@@ -133,11 +169,11 @@ Tailscale团队在愚人节宣布支持**Plan 9**操作系统，但这次并非�
 
 ---
 
-## <a name="10"></a>10. 任天堂公布Switch 2详情：6月5日发售，支持4K与全新游戏体验 
+## <a name="13"></a>13. 任天堂公布Switch 2详情：6月5日发售，支持4K与全新游戏体验 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gaming/2025/04/nintendo-offers-new-details-on-switch-2-hardware-software/): Nintendo unveils Switch 2 ahead of June 5 launch</small>
 
 
-| 🔥🔥: 110 \| 💬: [127](https://news.ycombinator.com/item?id=43557524) \| 🗓️ 2025-04-02
+| 🔥🔥: 111 \| 💬: [139](https://news.ycombinator.com/item?id=43557524) \| 🗓️ 2025-04-02
 
 
 <br />
@@ -145,35 +181,23 @@ Tailscale团队在愚人节宣布支持**Plan 9**操作系统，但这次并非�
 
 ---
 
-## <a name="11"></a>11. Matrix.org将迁移至新一代认证系统MAS 
-<small>🔗 [matrix.org](https://matrix.org/blog/2025/04/matrix-auth-service/): Matrix.org Will Migrate to MAS</small>
+## <a name="14"></a>14. 美国宣布对华加征34%关税 欧盟面临20%关税 
+<small>🔗 [bbc.com](https://www.bbc.com/news/live/c1dr7vy39eet): US Administration announces 34% tariffs on China – 20% on EU</small>
 
 
-| 🔥🔥: 106 \| 💬: [63](https://news.ycombinator.com/item?id=43558464) \| 🗓️ 2025-04-02
-
-
-<br />
-2025年4月7日UTC时间7点起，Matrix.org将升级认证系统至**MAS（Matrix认证服务）**，采用基于OAuth 2.0/OIDC的**新一代认证技术**，预计停机1小时。此次升级带来三大改进：**专属账户管理界面**（account.matrix.org）、**更安全的认证机制**（服务器端存储凭证、敏感操作限制）以及**更流畅的注册体验**。现有会话不受影响，旧版API仍兼容。MAS为Matrix生态奠定新基础，未来将支持扫码登录等创新功能。详情可查阅技术演讲或加入#matrix-auth频道讨论。
-
----
-
-## <a name="12"></a>12. Mozilla推出"Thundermail"邮件服务，挑战Gmail和微软365 
-<small>🔗 [techradar.com](https://www.techradar.com/pro/mozilla-launching-thundermail-email-service-to-take-on-gmail-microsoft-365): Mozilla launching "Thundermail" email service to take on Gmail, Microsoft 365</small>
-
-
-| 🔥🔥: 103 \| 💬: [79](https://news.ycombinator.com/item?id=43560885) \| 🗓️ 2025-04-02
+| 🔥🔥: 109 \| 💬: [100](https://news.ycombinator.com/item?id=43561253) \| 🗓️ 2025-04-02
 
 
 <br />
-Mozilla宣布将开源邮件客户端**Thunderbird**升级为全功能通信平台，推出**Thundermail**邮件托管服务和**Thunderbird Pro**套件，包含预约工具、文件传输及本地化AI写作助手。此举旨在以**开源隐私优势**对抗Gmail等商业生态，扭转用户流失趋势。初期功能将收费，未来计划推出有限制的免费版本。
+美国总统特朗普在白宫玫瑰园发表演讲，宣布将对全球贸易伙伴实施**对等关税**。他称此举为"**解放日**"，旨在让美国"再次富裕"。新政策包括：4月5日起对所有国家征收10%基础关税；4月9日起对特定国家加征更高关税，其中中国面临34%汽车关税，欧盟为20%。特朗普指责多国通过高关税"欺骗"美国，并强调历史将证明其决策正确。
 
 ---
 
-## <a name="13"></a>13. Automattic宣布重组裁员16%以提升长期竞争力 
+## <a name="15"></a>15. Automattic宣布重组裁员16%以提升长期竞争力 
 <small>🔗 [automattic.com](https://automattic.com/2025/04/02/restructuring-announcement/): Restructuring Announcement</small>
 
 
-| 🔥: 99 \| 💬: [74](https://news.ycombinator.com/item?id=43559855) \| 🗓️ 2025-04-02
+| 🔥🔥: 105 \| 💬: [83](https://news.ycombinator.com/item?id=43559855) \| 🗓️ 2025-04-02
 
 
 <br />
@@ -181,11 +205,11 @@ Automattic CEO Matt Mullenweg于2025年4月2日宣布，为应对**激烈市场�
 
 ---
 
-## <a name="14"></a>14. 谷歌如何打造Gemini机器人模型家族 
+## <a name="16"></a>16. 谷歌如何打造Gemini机器人模型家族 
 <small>🔗 [blog.google](https://blog.google/products/gemini/how-we-built-gemini-robotics/): How Google built its Gemini robotics models</small>
 
 
-| 🔥: 96 \| 💬: [38](https://news.ycombinator.com/item?id=43557310) \| 🗓️ 2025-04-02
+| 🔥🔥: 102 \| 💬: [39](https://news.ycombinator.com/item?id=43557310) \| 🗓️ 2025-04-02
 
 
 <br />
@@ -193,35 +217,11 @@ Automattic CEO Matt Mullenweg于2025年4月2日宣布，为应对**激烈市场�
 
 ---
 
-## <a name="15"></a>15. 维基百科正遭AI爬虫疯狂吞噬带宽 
-<small>🔗 [engadget.com](https://www.engadget.com/ai/wikipedia-is-struggling-with-voracious-ai-bot-crawlers-121546854.html): Wikipedia is struggling with voracious AI bot crawlers</small>
-
-
-| 🔥: 81 \| 💬: [92](https://news.ycombinator.com/item?id=43555898) \| 🗓️ 2025-04-02
-
-
-<br />
-维基基金会报告称，自2024年1月以来，多媒体内容下载带宽激增**50%**，主因是**AI爬虫**大规模抓取开放授权的图文视频以训练生成式模型。这类流量占资源消耗的**65%**，导致冷门内容被迫从核心数据中心调取，成本飙升。人工访问虽能通过缓存优化，但爬虫的**无序抓取**已威胁正常用户体验，且缺乏内容署名削弱了吸引新用户的能力。基金会正寻求可持续的内容访问方案，以应对持续增长的AI流量压力。
-
----
-
-## <a name="16"></a>16. 特斯拉(TSLA)交付量仅33.7万辆，远低于市场预期 
-<small>🔗 [electrek.co](https://electrek.co/2025/04/02/tesla-tsla-q1-deliveries-worse/): Tesla (TSLA) announces 336,681 deliveries, far worse than expected</small>
-
-
-| 🔥: 81 \| 💬: [29](https://news.ycombinator.com/item?id=43556463) \| 🗓️ 2025-04-02
-
-
-<br />
-特斯拉2025年第一季度交付数据公布，**实际交付336,681辆**，与分析师预测的45万辆相比**差距显著**。这一表现引发市场对**需求疲软**和生产瓶颈的担忧，导致股价盘后下跌。数据显示Model 3/Y仍是主力车型，Cybertruck交付量未达预期。
-
----
-
 ## <a name="17"></a>17. 大型语言模型通过图灵测试：GPT-4.5表现超越人类 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2503.23674): UCSD: Large Language Models Pass the Turing Test</small>
 
 
-| 🔥: 80 \| 💬: [99](https://news.ycombinator.com/item?id=43555248) \| 🗓️ 2025-04-02
+| 🔥: 82 \| 💬: [99](https://news.ycombinator.com/item?id=43555248) \| 🗓️ 2025-04-02
 
 
 <br />
@@ -233,7 +233,7 @@ Automattic CEO Matt Mullenweg于2025年4月2日宣布，为应对**激烈市场�
 <small>🔗 [potter-yachters.org](https://potter-yachters.org/stories/teplow_to_hawaii.htm): Sailing from Berkeley to Hawaii in a 19ft Sailboat</small>
 
 
-| 🔥: 75 \| 💬: [41](https://news.ycombinator.com/item?id=43558077) \| 🗓️ 2025-04-02
+| 🔥: 82 \| 💬: [46](https://news.ycombinator.com/item?id=43558077) \| 🗓️ 2025-04-02
 
 
 <br />
@@ -241,7 +241,43 @@ Automattic CEO Matt Mullenweg于2025年4月2日宣布，为应对**激烈市场�
 
 ---
 
-## <a name="19"></a>19. 加速结构的内存消耗差异分析 
+## <a name="19"></a>19. 维基百科正遭AI爬虫疯狂吞噬带宽 
+<small>🔗 [engadget.com](https://www.engadget.com/ai/wikipedia-is-struggling-with-voracious-ai-bot-crawlers-121546854.html): Wikipedia is struggling with voracious AI bot crawlers</small>
+
+
+| 🔥: 81 \| 💬: [92](https://news.ycombinator.com/item?id=43555898) \| 🗓️ 2025-04-02
+
+
+<br />
+维基基金会报告称，自2024年1月以来，多媒体内容下载带宽激增**50%**，主因是**AI爬虫**大规模抓取开放授权的图文视频以训练生成式模型。这类流量占资源消耗的**65%**，导致冷门内容被迫从核心数据中心调取，成本飙升。人工访问虽能通过缓存优化，但爬虫的**无序抓取**已威胁正常用户体验，且缺乏内容署名削弱了吸引新用户的能力。基金会正寻求可持续的内容访问方案，以应对持续增长的AI流量压力。
+
+---
+
+## <a name="20"></a>20. 特斯拉(TSLA)交付量仅33.7万辆，远低于市场预期 
+<small>🔗 [electrek.co](https://electrek.co/2025/04/02/tesla-tsla-q1-deliveries-worse/): Tesla (TSLA) announces 336,681 deliveries, far worse than expected</small>
+
+
+| 🔥: 81 \| 💬: [29](https://news.ycombinator.com/item?id=43556463) \| 🗓️ 2025-04-02
+
+
+<br />
+特斯拉2025年第一季度交付数据公布，**实际交付336,681辆**，与分析师预测的45万辆相比**差距显著**。这一表现引发市场对**需求疲软**和生产瓶颈的担忧，导致股价盘后下跌。数据显示Model 3/Y仍是主力车型，Cybertruck交付量未达预期。
+
+---
+
+## <a name="21"></a>21. VS Code 插件：Mermaid Chart 助力开发者轻松绘制流程图 
+<small>🔗 [docs.mermaidchart.com](https://docs.mermaidchart.com/blog/posts/mermaid-chart-vs-code-plugin-create-and-edit-mermaid-js-diagrams-in-visual-studio-code): Show HN: Mermaid Chart VS Code Plugin: Mermaid.js Diagrams in Visual Studio Code</small>
+
+
+| 🔥: 75 \| 💬: [22](https://news.ycombinator.com/item?id=43558517) \| 🗓️ 2025-04-02
+
+
+<br />
+Mermaid Chart VS Code 插件将 **Mermaid.js 图表工具** 直接集成到 Visual Studio Code 中，支持实时编辑和预览流程图、序列图等。**无需账户** 即可编辑 .mmd 文件，提供语法高亮和自动渲染。高级功能包括 **云端协作**、AI 生成图表（需 GitHub Copilot）以及离线 Git 版本控制，适合 DevOps、API 文档和微服务架构可视化。
+
+---
+
+## <a name="22"></a>22. 加速结构的内存消耗差异分析 
 <small>🔗 [zeux.io](https://zeux.io/2025/03/31/measuring-acceleration-structures/): Measuring Acceleration Structures</small>
 
 
@@ -255,19 +291,7 @@ Automattic CEO Matt Mullenweg于2025年4月2日宣布，为应对**激烈市场�
 
 ---
 
-## <a name="20"></a>20. VS Code 插件：Mermaid Chart 助力开发者轻松绘制流程图 
-<small>🔗 [docs.mermaidchart.com](https://docs.mermaidchart.com/blog/posts/mermaid-chart-vs-code-plugin-create-and-edit-mermaid-js-diagrams-in-visual-studio-code): Show HN: Mermaid Chart VS Code Plugin: Mermaid.js Diagrams in Visual Studio Code</small>
-
-
-| 🔥: 69 \| 💬: [22](https://news.ycombinator.com/item?id=43558517) \| 🗓️ 2025-04-02
-
-
-<br />
-Mermaid Chart VS Code 插件将 **Mermaid.js 图表工具** 直接集成到 Visual Studio Code 中，支持实时编辑和预览流程图、序列图等。**无需账户** 即可编辑 .mmd 文件，提供语法高亮和自动渲染。高级功能包括 **云端协作**、AI 生成图表（需 GitHub Copilot）以及离线 Git 版本控制，适合 DevOps、API 文档和微服务架构可视化。
-
----
-
-## <a name="21"></a>21. 别碰氛围编程 
+## <a name="23"></a>23. 别碰氛围编程 
 <small>🔗 [soeren.codes](https://www.soeren.codes/articles/do-not-bother-with-vibe-coding): Don't Bother with Vibe Coding</small>
 
 
