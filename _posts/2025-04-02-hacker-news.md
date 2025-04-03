@@ -9,14 +9,14 @@ tags:
 
 
 1. 用13个圆创作的动物（2016年）；
-1. 《天才反击》：30年后仍是极客文化的标杆之作；
 1. 将Tailscale移植到Plan 9操作系统的奇妙之旅；
+1. 《天才反击》：30年后仍是极客文化的标杆之作；
 1. 为什么世界正在失去色彩？；
 1. Pico.sh：开发者专属的SSH全能服务平台；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [dorithegiant.com](https://www.dorithegiant.com/2016/05/13-animals-made-from-13-circles.html): Animals Made from 13 Circles (2016)</small>
 
 
-| 🔥🔥: 388 \| 💬: [78](https://news.ycombinator.com/item?id=43557873) \| 🗓️ 2025-04-02
+| 🔥🔥: 419 \| 💬: [80](https://news.ycombinator.com/item?id=43557873) \| 🗓️ 2025-04-02
 
 
 <br />
@@ -37,23 +37,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. 《天才反击》：30年后仍是极客文化的标杆之作 
-<small>🔗 [reactormag.com](https://reactormag.com/30-years-later-real-genius-is-still-the-geek-solidarity-film-that-nerd-culture-deserves/): RIP Val Kilmer: Real Genius .. the Film Nerd Culture Deserves (2015)</small>
-
-
-| 🔥🔥: 315 \| 💬: [95](https://news.ycombinator.com/item?id=43555334) \| 🗓️ 2025-04-02
-
-
-<br />
-这篇2015年的文章回顾了1985年电影《天才反击》（*Real Genius*），认为它超越了同期校园喜剧的刻板印象。影片以**虚构的太平洋理工学院**为背景，讲述一群天才学生发现他们研发的激光武器被政府滥用的故事。**Val Kilmer饰演的Chris Knight**从理想主义者转变为叛逆天才，与少年新生Mitch形成鲜明对比。影片摒弃了“书呆子vs运动员”的老套对立，聚焦**极客内部的竞争与创造力**，并通过荒诞的爆米花复仇计划讽刺学术腐败。女性角色Jordan跳出了传统“怪诞天才”的套路，成为独立鲜活的形象。导演Martha Coolidge以幽默手法探讨了天才的孤独与社会责任，至今仍是极客文化的经典代表。
-
----
-
-## <a name="3"></a>3. 将Tailscale移植到Plan 9操作系统的奇妙之旅 
+## <a name="2"></a>2. 将Tailscale移植到Plan 9操作系统的奇妙之旅 
 <small>🔗 [tailscale.com](https://tailscale.com/blog/plan9-port): Porting Tailscale to Plan 9</small>
 
 
-| 🔥🔥: 314 \| 💬: [76](https://news.ycombinator.com/item?id=43557790) \| 🗓️ 2025-04-02
+| 🔥🔥: 325 \| 💬: [81](https://news.ycombinator.com/item?id=43557790) \| 🗓️ 2025-04-02
 
 
 <br />
@@ -61,11 +49,23 @@ Tailscale团队在愚人节宣布支持**Plan 9**操作系统，但这次并非�
 
 ---
 
+## <a name="3"></a>3. 《天才反击》：30年后仍是极客文化的标杆之作 
+<small>🔗 [reactormag.com](https://reactormag.com/30-years-later-real-genius-is-still-the-geek-solidarity-film-that-nerd-culture-deserves/): RIP Val Kilmer: Real Genius .. the Film Nerd Culture Deserves (2015)</small>
+
+
+| 🔥🔥: 318 \| 💬: [97](https://news.ycombinator.com/item?id=43555334) \| 🗓️ 2025-04-02
+
+
+<br />
+这篇2015年的文章回顾了1985年电影《天才反击》（*Real Genius*），认为它超越了同期校园喜剧的刻板印象。影片以**虚构的太平洋理工学院**为背景，讲述一群天才学生发现他们研发的激光武器被政府滥用的故事。**Val Kilmer饰演的Chris Knight**从理想主义者转变为叛逆天才，与少年新生Mitch形成鲜明对比。影片摒弃了“书呆子vs运动员”的老套对立，聚焦**极客内部的竞争与创造力**，并通过荒诞的爆米花复仇计划讽刺学术腐败。女性角色Jordan跳出了传统“怪诞天才”的套路，成为独立鲜活的形象。导演Martha Coolidge以幽默手法探讨了天才的孤独与社会责任，至今仍是极客文化的经典代表。
+
+---
+
 ## <a name="4"></a>4. 为什么世界正在失去色彩？ 
 <small>🔗 [culture-critic.com](https://www.culture-critic.com/p/why-is-the-world-losing-color): Why is the world losing color?</small>
 
 
-| 🔥🔥: 221 \| 💬: [214](https://news.ycombinator.com/item?id=43557471) \| 🗓️ 2025-04-02
+| 🔥🔥: 258 \| 💬: [234](https://news.ycombinator.com/item?id=43557471) \| 🗓️ 2025-04-02
 
 
 <br />
@@ -77,7 +77,7 @@ Tailscale团队在愚人节宣布支持**Plan 9**操作系统，但这次并非�
 <small>🔗 [pico.sh](https://pico.sh/): Pico.sh – SSH powered services for developers</small>
 
 
-| 🔥🔥: 165 \| 💬: [39](https://news.ycombinator.com/item?id=43560899) \| 🗓️ 2025-04-02
+| 🔥🔥: 247 \| 💬: [55](https://news.ycombinator.com/item?id=43560899) \| 🗓️ 2025-04-02
 
 
 <br />
@@ -85,35 +85,11 @@ Pico.sh 提供基于 **SSH** 的多样化开发服务：通过 **静态页面托
 
 ---
 
-## <a name="6"></a>6. 研究发现：运动补充剂肌酸对增肌无显著效果 
-<small>🔗 [unsw.edu.au](https://www.unsw.edu.au/newsroom/news/2025/03/sports-supplement-creatine-makes-no-difference-to-muscle-gains-trial-finds): Sports supplement creatine makes no difference to muscle gains, trial finds</small>
-
-
-| 🔥🔥: 157 \| 💬: [165](https://news.ycombinator.com/item?id=43556350) \| 🗓️ 2025-04-02
-
-
-<br />
-一项由新南威尔士大学主导的临床试验显示，**肌酸补充剂**在推荐剂量下对增肌并无明显作用。54名参与者经过12周阻力训练后，服用肌酸组与未服用组的**瘦体重增长**均为平均2公斤。研究人员指出，早期研究中肌酸的增肌效果可能被高估，或因水分滞留导致数据偏差。试验还发现，5克/天的剂量可能不足，未来需研究更高剂量（如10克）的效果。专家建议，普通健身者应理性看待肌酸的宣传效果。
-
----
-
-## <a name="7"></a>7. 1993年的蒸汽机车搞砸了我的yarn测试 
-<small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/yarn-test-suffers-strange-derailment/): A steam locomotive from 1993 broke my yarn test</small>
-
-
-| 🔥🔥: 156 \| 💬: [66](https://news.ycombinator.com/item?id=43556280) \| 🗓️ 2025-04-02
-
-
-<br />
-作者在首次尝试运行`yarn test`时遭遇了神秘的`[Error]`报错，测试总在**27秒后崩溃**。通过`strace`追踪发现，问题根源竟是一个名为**"steam-regulator"**的1993年遗留组件触发了子进程异常。团队尝试了各种Jest参数和调试方法，最终发现是文件系统监视器与这个古董组件的兼容性问题。**MacOS不受影响**的特性让问题更显诡异，而`epoll_wait`的系统调用日志揭示了崩溃的精确时间规律。
-
----
-
-## <a name="8"></a>8. Mozilla推出"Thundermail"邮件服务，挑战Gmail和微软365 
+## <a name="6"></a>6. Mozilla推出"Thundermail"邮件服务，挑战Gmail和微软365 
 <small>🔗 [techradar.com](https://www.techradar.com/pro/mozilla-launching-thundermail-email-service-to-take-on-gmail-microsoft-365): Mozilla launching “Thundermail” email service to take on Gmail, Microsoft 365</small>
 
 
-| 🔥🔥: 152 \| 💬: [114](https://news.ycombinator.com/item?id=43560885) \| 🗓️ 2025-04-02
+| 🔥🔥: 212 \| 💬: [153](https://news.ycombinator.com/item?id=43560885) \| 🗓️ 2025-04-02
 
 
 <br />
@@ -121,11 +97,35 @@ Mozilla宣布将开源邮件客户端**Thunderbird**升级为全功能通信平�
 
 ---
 
+## <a name="7"></a>7. 研究发现：运动补充剂肌酸对增肌无显著效果 
+<small>🔗 [unsw.edu.au](https://www.unsw.edu.au/newsroom/news/2025/03/sports-supplement-creatine-makes-no-difference-to-muscle-gains-trial-finds): Sports supplement creatine makes no difference to muscle gains, trial finds</small>
+
+
+| 🔥🔥: 160 \| 💬: [167](https://news.ycombinator.com/item?id=43556350) \| 🗓️ 2025-04-02
+
+
+<br />
+一项由新南威尔士大学主导的临床试验显示，**肌酸补充剂**在推荐剂量下对增肌并无明显作用。54名参与者经过12周阻力训练后，服用肌酸组与未服用组的**瘦体重增长**均为平均2公斤。研究人员指出，早期研究中肌酸的增肌效果可能被高估，或因水分滞留导致数据偏差。试验还发现，5克/天的剂量可能不足，未来需研究更高剂量（如10克）的效果。专家建议，普通健身者应理性看待肌酸的宣传效果。
+
+---
+
+## <a name="8"></a>8. 1993年的蒸汽机车搞砸了我的yarn测试 
+<small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/yarn-test-suffers-strange-derailment/): A steam locomotive from 1993 broke my yarn test</small>
+
+
+| 🔥🔥: 157 \| 💬: [67](https://news.ycombinator.com/item?id=43556280) \| 🗓️ 2025-04-02
+
+
+<br />
+作者在首次尝试运行`yarn test`时遭遇了神秘的`[Error]`报错，测试总在**27秒后崩溃**。通过`strace`追踪发现，问题根源竟是一个名为**"steam-regulator"**的1993年遗留组件触发了子进程异常。团队尝试了各种Jest参数和调试方法，最终发现是文件系统监视器与这个古董组件的兼容性问题。**MacOS不受影响**的特性让问题更显诡异，而`epoll_wait`的系统调用日志揭示了崩溃的精确时间规律。
+
+---
+
 ## <a name="9"></a>9. 数字档案员：守护公共数据免遭删除 
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/digital-archive): Digital Archivists: Protecting Public Data from Erasure</small>
 
 
-| 🔥🔥: 129 \| 💬: [28](https://news.ycombinator.com/item?id=43558182) \| 🗓️ 2025-04-02
+| 🔥🔥: 141 \| 💬: [34](https://news.ycombinator.com/item?id=43558182) \| 🗓️ 2025-04-02
 
 
 <br />
@@ -137,7 +137,7 @@ Mozilla宣布将开源邮件客户端**Thunderbird**升级为全功能通信平�
 <small>🔗 [matrix.org](https://matrix.org/blog/2025/04/matrix-auth-service/): Matrix.org Will Migrate to MAS</small>
 
 
-| 🔥🔥: 120 \| 💬: [79](https://news.ycombinator.com/item?id=43558464) \| 🗓️ 2025-04-02
+| 🔥🔥: 139 \| 💬: [87](https://news.ycombinator.com/item?id=43558464) \| 🗓️ 2025-04-02
 
 
 <br />
@@ -145,7 +145,31 @@ Mozilla宣布将开源邮件客户端**Thunderbird**升级为全功能通信平�
 
 ---
 
-## <a name="11"></a>11. 特斯拉遭遇2022年以来最差季度表现，交付量大幅下滑 
+## <a name="11"></a>11. Automattic宣布重组裁员16%以提升长期竞争力 
+<small>🔗 [automattic.com](https://automattic.com/2025/04/02/restructuring-announcement/): Restructuring Announcement</small>
+
+
+| 🔥🔥: 137 \| 💬: [107](https://news.ycombinator.com/item?id=43559855) \| 🗓️ 2025-04-02
+
+
+<br />
+Automattic CEO Matt Mullenweg于2025年4月2日宣布，为应对**激烈市场竞争**和技术快速迭代，公司将进行重组，**裁员约16%**。此举旨在提升效率、打破部门壁垒，并聚焦核心产品优化。受影响的员工将获得**离职补偿**、保留工作设备及职业支持。公司强调对离职员工的感激，并承诺通过资源整合实现长期增长，继续推动"互联网民主化"使命。员工可通过合作机构获取心理支持。
+
+---
+
+## <a name="12"></a>12. 美国宣布对华加征34%关税 欧盟面临20%关税 
+<small>🔗 [bbc.com](https://www.bbc.com/news/live/c1dr7vy39eet): US Administration announces 34% tariffs on China – 20% on EU</small>
+
+
+| 🔥🔥: 126 \| 💬: [136](https://news.ycombinator.com/item?id=43561253) \| 🗓️ 2025-04-02
+
+
+<br />
+美国总统特朗普在白宫玫瑰园发表演讲，宣布将对全球贸易伙伴实施**对等关税**。他称此举为"**解放日**"，旨在让美国"再次富裕"。新政策包括：4月5日起对所有国家征收10%基础关税；4月9日起对特定国家加征更高关税，其中中国面临34%汽车关税，欧盟为20%。特朗普指责多国通过高关税"欺骗"美国，并强调历史将证明其决策正确。
+
+---
+
+## <a name="13"></a>13. 特斯拉遭遇2022年以来最差季度表现，交付量大幅下滑 
 <small>🔗 [ft.com](https://www.ft.com/content/0ebcec51-2a5a-4820-99e8-1e500370fd68): Tesla suffers worst quarter since 2022 as deliveries tumble</small>
 
 
@@ -157,7 +181,19 @@ Mozilla宣布将开源邮件客户端**Thunderbird**升级为全功能通信平�
 
 ---
 
-## <a name="12"></a>12. 因"行政失误"，美国一男子被误送至萨尔瓦多监狱 
+## <a name="14"></a>14. 谷歌如何打造Gemini机器人模型家族 
+<small>🔗 [blog.google](https://blog.google/products/gemini/how-we-built-gemini-robotics/): How Google built its Gemini robotics models</small>
+
+
+| 🔥🔥: 116 \| 💬: [44](https://news.ycombinator.com/item?id=43557310) \| 🗓️ 2025-04-02
+
+
+<br />
+谷歌DeepMind团队基于**Gemini 2.0**开发了专为机器人设计的**多模态模型家族**，通过融合物理动作与文本、视频等输出能力，使机器人能完成从未训练过的复杂任务。例如，ALOHA双臂机器人首次接触篮球玩具时，便成功执行了“扣篮”指令。该模型突破性地解决了**灵巧操作**和**空间推理**难题，支持跨形态适配（如人形机器人Apollo），目前已开放给合作伙伴测试。团队愿景是让机器人成为像手机一样的日常AI载体，未来或应用于工业及家庭场景。
+
+---
+
+## <a name="15"></a>15. 因"行政失误"，美国一男子被误送至萨尔瓦多监狱 
 <small>🔗 [apnews.com](https://apnews.com/article/el-salvador-deportation-maryland-man-trump-error-818a0fa1218de714448edcb5be1f7347): An 'administrative error' sent a Maryland man to an El Salvador prison</small>
 
 
@@ -169,11 +205,11 @@ Mozilla宣布将开源邮件客户端**Thunderbird**升级为全功能通信平�
 
 ---
 
-## <a name="13"></a>13. 任天堂公布Switch 2详情：6月5日发售，支持4K与全新游戏体验 
+## <a name="16"></a>16. 任天堂公布Switch 2详情：6月5日发售，支持4K与全新游戏体验 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gaming/2025/04/nintendo-offers-new-details-on-switch-2-hardware-software/): Nintendo unveils Switch 2 ahead of June 5 launch</small>
 
 
-| 🔥🔥: 111 \| 💬: [139](https://news.ycombinator.com/item?id=43557524) \| 🗓️ 2025-04-02
+| 🔥🔥: 114 \| 💬: [142](https://news.ycombinator.com/item?id=43557524) \| 🗓️ 2025-04-02
 
 
 <br />
@@ -181,59 +217,11 @@ Mozilla宣布将开源邮件客户端**Thunderbird**升级为全功能通信平�
 
 ---
 
-## <a name="14"></a>14. 美国宣布对华加征34%关税 欧盟面临20%关税 
-<small>🔗 [bbc.com](https://www.bbc.com/news/live/c1dr7vy39eet): US Administration announces 34% tariffs on China – 20% on EU</small>
-
-
-| 🔥🔥: 109 \| 💬: [100](https://news.ycombinator.com/item?id=43561253) \| 🗓️ 2025-04-02
-
-
-<br />
-美国总统特朗普在白宫玫瑰园发表演讲，宣布将对全球贸易伙伴实施**对等关税**。他称此举为"**解放日**"，旨在让美国"再次富裕"。新政策包括：4月5日起对所有国家征收10%基础关税；4月9日起对特定国家加征更高关税，其中中国面临34%汽车关税，欧盟为20%。特朗普指责多国通过高关税"欺骗"美国，并强调历史将证明其决策正确。
-
----
-
-## <a name="15"></a>15. Automattic宣布重组裁员16%以提升长期竞争力 
-<small>🔗 [automattic.com](https://automattic.com/2025/04/02/restructuring-announcement/): Restructuring Announcement</small>
-
-
-| 🔥🔥: 105 \| 💬: [83](https://news.ycombinator.com/item?id=43559855) \| 🗓️ 2025-04-02
-
-
-<br />
-Automattic CEO Matt Mullenweg于2025年4月2日宣布，为应对**激烈市场竞争**和技术快速迭代，公司将进行重组，**裁员约16%**。此举旨在提升效率、打破部门壁垒，并聚焦核心产品优化。受影响的员工将获得**离职补偿**、保留工作设备及职业支持。公司强调对离职员工的感激，并承诺通过资源整合实现长期增长，继续推动"互联网民主化"使命。员工可通过合作机构获取心理支持。
-
----
-
-## <a name="16"></a>16. 谷歌如何打造Gemini机器人模型家族 
-<small>🔗 [blog.google](https://blog.google/products/gemini/how-we-built-gemini-robotics/): How Google built its Gemini robotics models</small>
-
-
-| 🔥🔥: 102 \| 💬: [39](https://news.ycombinator.com/item?id=43557310) \| 🗓️ 2025-04-02
-
-
-<br />
-谷歌DeepMind团队基于**Gemini 2.0**开发了专为机器人设计的**多模态模型家族**，通过融合物理动作与文本、视频等输出能力，使机器人能完成从未训练过的复杂任务。例如，ALOHA双臂机器人首次接触篮球玩具时，便成功执行了“扣篮”指令。该模型突破性地解决了**灵巧操作**和**空间推理**难题，支持跨形态适配（如人形机器人Apollo），目前已开放给合作伙伴测试。团队愿景是让机器人成为像手机一样的日常AI载体，未来或应用于工业及家庭场景。
-
----
-
-## <a name="17"></a>17. 大型语言模型通过图灵测试：GPT-4.5表现超越人类 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2503.23674): UCSD: Large Language Models Pass the Turing Test</small>
-
-
-| 🔥: 82 \| 💬: [99](https://news.ycombinator.com/item?id=43555248) \| 🗓️ 2025-04-02
-
-
-<br />
-加州大学圣地亚哥分校的研究团队通过两项随机对照实验，测试了**ELIZA**、**GPT-4o**、**LLaMa-3.1-405B**和**GPT-4.5**在图灵测试中的表现。结果显示，当模拟人类对话时，**GPT-4.5**被误认为人类的概率高达73%，显著超过真实人类参与者；LLaMa-3.1的表现与人类相当（56%），而传统模型（如ELIZA）则远低于随机水平。这是首个证明人工智能系统通过标准三方图灵测试的实证研究，对探讨**LLM的智能本质**及其社会影响具有重要意义。
-
----
-
-## <a name="18"></a>18. 19英尺小帆船从伯克利到夏威夷的航行纪实 
+## <a name="17"></a>17. 19英尺小帆船从伯克利到夏威夷的航行纪实 
 <small>🔗 [potter-yachters.org](https://potter-yachters.org/stories/teplow_to_hawaii.htm): Sailing from Berkeley to Hawaii in a 19ft Sailboat</small>
 
 
-| 🔥: 82 \| 💬: [46](https://news.ycombinator.com/item?id=43558077) \| 🗓️ 2025-04-02
+| 🔥: 96 \| 💬: [53](https://news.ycombinator.com/item?id=43558077) \| 🗓️ 2025-04-02
 
 
 <br />
@@ -241,7 +229,67 @@ Automattic CEO Matt Mullenweg于2025年4月2日宣布，为应对**激烈市场�
 
 ---
 
-## <a name="19"></a>19. 维基百科正遭AI爬虫疯狂吞噬带宽 
+## <a name="18"></a>18. 人们工作表现差，还是工作本身太糟糕？ 
+<small>🔗 [annehelen.substack.com](https://annehelen.substack.com/p/are-people-bad-at-their-jobsor-are): Are people bad at their jobs or are the jobs just bad?</small>
+
+
+| 🔥: 95 \| 💬: [105](https://news.ycombinator.com/item?id=43562119) \| 🗓️ 2025-04-02
+
+
+<br />
+文章通过多个案例（如Wayfair家具组装失误、FedEx投递错误、药店配药混乱等）揭示了一个核心问题：**糟糕的工作体系**往往导致员工表现不佳。平台经济（如Angi）通过压榨外包工人利润、缺乏培训和支持，制造了低质量服务；而企业削减成本（如连锁药店人手不足）则加剧了服务恶化。相比之下，**待遇优厚的岗位**（如UPS司机、苹果店员）通常能提供更优质的服务。作者指出，社会追求“低价便捷”的代价是牺牲服务质量，而解决问题的关键在于**支持良性雇佣关系**和本地小企业。
+
+---
+
+## <a name="19"></a>19. 博尔赫斯与人工智能之父的哲学对话 
+<small>🔗 [resobscura.substack.com](https://resobscura.substack.com/p/when-jorge-luis-borges-met-one-of): When Jorge Luis Borges met one of the founders of AI</small>
+
+
+| 🔥: 91 \| 💬: [27](https://news.ycombinator.com/item?id=43559122) \| 🗓️ 2025-04-02
+
+
+<br />
+1970年，阿根廷作家**豪尔赫·路易斯·博尔赫斯**与人工智能先驱**赫伯特·西蒙**在布宜诺斯艾利斯展开了一场跨越科学与人文的对话。博尔赫斯质疑自由意志与决定论，西蒙则以计算机编程类比人类行为，提出**“兼容论”**观点——即使行为受过去编程影响，选择仍具意义。两人探讨了历史对个体的塑造（**“你是你过去的体现”**），并预见性地触及现代AI模拟历史人物的可能性。这场对话展现了跨学科思考的珍贵价值，至今仍启发人们对技术与人文融合的探索。
+
+---
+
+## <a name="20"></a>20. 《帝国时代1/2/3终极版离线局域网联机服务器》 
+<small>🔗 [github.com](https://github.com/luskaner/ageLANServer): Web Server for AoE 1, 2 and 3 DE supporting LAN multiplayer 100% offline</small>
+
+
+| 🔥: 88 \| 💬: [7](https://news.ycombinator.com/item?id=43562860) \| 🗓️ 2025-04-02
+
+
+<br />
+该项目是一个**100%离线**运行的Web服务器，支持《帝国时代》1/2/3终极版通过局域网联机，无需连接官方服务器。核心功能包括**跨平台联机（Steam/Xbox）**、地图传输、数据模组等，但需配合自定义启动器绕过在线验证。目前项目因目标达成转为维护状态，仅修复漏洞。适用于官方服务器维护或关闭时，但仍需正版游戏授权。
+
+---
+
+## <a name="21"></a>21. 数百万美国人的通话记录遭黑客入侵 
+<small>🔗 [evanconnelly.github.io](https://evanconnelly.github.io/post/hacking-call-records/): Hacking the call records of millions of Americans</small>
+
+
+| 🔥: 85 \| 💬: [13](https://news.ycombinator.com/item?id=43558550) \| 🗓️ 2025-04-02
+
+
+<br />
+安全研究员发现**Verizon呼叫过滤应用**存在严重漏洞，攻击者无需破解设备或密码即可实时获取任意用户的来电记录（含时间戳）。该漏洞源于API未验证请求号码与登录用户的匹配性，导致**任何号码的通话元数据**可被随意查询。此类数据可能威胁记者、执法人员或家暴幸存者的安全，甚至被用于实时监控。漏洞涉及第三方服务商Cequint的服务器，Verizon在接到报告后迅速修复。
+
+---
+
+## <a name="22"></a>22. 大型语言模型通过图灵测试：GPT-4.5表现超越人类 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2503.23674): UCSD: Large Language Models Pass the Turing Test</small>
+
+
+| 🔥: 82 \| 💬: [101](https://news.ycombinator.com/item?id=43555248) \| 🗓️ 2025-04-02
+
+
+<br />
+加州大学圣地亚哥分校的研究团队通过两项随机对照实验，测试了**ELIZA**、**GPT-4o**、**LLaMa-3.1-405B**和**GPT-4.5**在图灵测试中的表现。结果显示，当模拟人类对话时，**GPT-4.5**被误认为人类的概率高达73%，显著超过真实人类参与者；LLaMa-3.1的表现与人类相当（56%），而传统模型（如ELIZA）则远低于随机水平。这是首个证明人工智能系统通过标准三方图灵测试的实证研究，对探讨**LLM的智能本质**及其社会影响具有重要意义。
+
+---
+
+## <a name="23"></a>23. 维基百科正遭AI爬虫疯狂吞噬带宽 
 <small>🔗 [engadget.com](https://www.engadget.com/ai/wikipedia-is-struggling-with-voracious-ai-bot-crawlers-121546854.html): Wikipedia is struggling with voracious AI bot crawlers</small>
 
 
@@ -253,7 +301,7 @@ Automattic CEO Matt Mullenweg于2025年4月2日宣布，为应对**激烈市场�
 
 ---
 
-## <a name="20"></a>20. 特斯拉(TSLA)交付量仅33.7万辆，远低于市场预期 
+## <a name="24"></a>24. 特斯拉(TSLA)交付量仅33.7万辆，远低于市场预期 
 <small>🔗 [electrek.co](https://electrek.co/2025/04/02/tesla-tsla-q1-deliveries-worse/): Tesla (TSLA) announces 336,681 deliveries, far worse than expected</small>
 
 
@@ -265,40 +313,14 @@ Automattic CEO Matt Mullenweg于2025年4月2日宣布，为应对**激烈市场�
 
 ---
 
-## <a name="21"></a>21. VS Code 插件：Mermaid Chart 助力开发者轻松绘制流程图 
+## <a name="25"></a>25. VS Code 插件：Mermaid Chart 助力开发者轻松绘制流程图 
 <small>🔗 [docs.mermaidchart.com](https://docs.mermaidchart.com/blog/posts/mermaid-chart-vs-code-plugin-create-and-edit-mermaid-js-diagrams-in-visual-studio-code): Show HN: Mermaid Chart VS Code Plugin: Mermaid.js Diagrams in Visual Studio Code</small>
 
 
-| 🔥: 75 \| 💬: [22](https://news.ycombinator.com/item?id=43558517) \| 🗓️ 2025-04-02
+| 🔥: 81 \| 💬: [28](https://news.ycombinator.com/item?id=43558517) \| 🗓️ 2025-04-02
 
 
 <br />
 Mermaid Chart VS Code 插件将 **Mermaid.js 图表工具** 直接集成到 Visual Studio Code 中，支持实时编辑和预览流程图、序列图等。**无需账户** 即可编辑 .mmd 文件，提供语法高亮和自动渲染。高级功能包括 **云端协作**、AI 生成图表（需 GitHub Copilot）以及离线 Git 版本控制，适合 DevOps、API 文档和微服务架构可视化。
-
----
-
-## <a name="22"></a>22. 加速结构的内存消耗差异分析 
-<small>🔗 [zeux.io](https://zeux.io/2025/03/31/measuring-acceleration-structures/): Measuring Acceleration Structures</small>
-
-
-| 🔥: 71 \| 💬: [4](https://news.ycombinator.com/item?id=43555904) \| 🗓️ 2025-04-02
-
-
-<br />
-本文探讨了不同GPU厂商（AMD、NVIDIA、Intel）在**硬件加速光线追踪**中**加速结构（BLAS/BVH）**的内存占用差异。实验使用Amazon Lumberyard Bistro场景，发现NVIDIA最新GPU（RTX 5070）的BLAS内存占用仅为18.8字节/三角形，而AMD RDNA4为47.9字节，Intel Arc为45.0字节，差距达2.5倍。  
-
-研究还对比了AMD官方驱动与开源驱动**radv**的性能，发现radv的BLAS内存占用更高（137.4字节/三角形），而官方驱动通过优化降低了55%的内存。文章进一步分析了BVH结构的理论模型，解释了节点存储（如**fp16/fp32边界盒**）对内存的影响，并指出硬件实现与驱动优化是性能差异的关键因素。
-
----
-
-## <a name="23"></a>23. 别碰氛围编程 
-<small>🔗 [soeren.codes](https://www.soeren.codes/articles/do-not-bother-with-vibe-coding): Don't Bother with Vibe Coding</small>
-
-
-| 🔥: 52 \| 💬: [110](https://news.ycombinator.com/item?id=43555814) \| 🗓️ 2025-04-02
-
-
-<br />
-作者批评当前流行的**氛围编程**趋势，认为它虽能短期提速，但长期会增加技术债务、拖累初创公司。**专业工程师**需掌握CI/CD、文档、测试等核心技能，而氛围编程者缺乏对代码的深入理解，无法胜任这些工作。AI工具在经验丰富的开发者手中能提升效率，但若交给新手，后期将付出代价。
 
 ---
