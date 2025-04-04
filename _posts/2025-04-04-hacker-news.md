@@ -11,8 +11,8 @@ tags:
 1. 厌倦了这一切；
 1. Gumroad开源代码库现已公开；
 1. 英伟达为CUDA增加原生Python支持；
+1. 美股暴跌：道指狂泻2200点，纳斯达克跌入熊市；
 1. 为何英国民众感到如此贫困？；
-1. 特朗普加征关税引发中美贸易战升级 中国对等反击34%关税；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [paulrobertlloyd.com](https://paulrobertlloyd.com/2025/087/a1/bored/): Bored of It</small>
 
 
-| 🔥🔥: 527 \| 💬: [434](https://news.ycombinator.com/item?id=43580449) \| 🗓️ 2025-04-04
+| 🔥🔥: 530 \| 💬: [437](https://news.ycombinator.com/item?id=43580449) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/antiwork/gumroad): Gumroad’s source is available</small>
 
 
-| 🔥🔥: 413 \| 💬: [180](https://news.ycombinator.com/item?id=43580103) \| 🗓️ 2025-04-04
+| 🔥🔥: 418 \| 💬: [184](https://news.ycombinator.com/item?id=43580103) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [thenewstack.io](https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/): Nvidia adds native Python support to CUDA</small>
 
 
-| 🔥🔥: 361 \| 💬: [145](https://news.ycombinator.com/item?id=43581584) \| 🗓️ 2025-04-04
+| 🔥🔥: 369 \| 💬: [147](https://news.ycombinator.com/item?id=43581584) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -59,59 +59,11 @@ tags:
 
 ---
 
-## <a name="4"></a>4. 为何英国民众感到如此贫困？ 
-<small>🔗 [martinrobbins.substack.com](https://martinrobbins.substack.com/p/von-6-why-does-britain-feel-so-poor): Why does Britain feel so poor?</small>
-
-
-| 🔥🔥: 176 \| 💬: [324](https://news.ycombinator.com/item?id=43581672) \| 🗓️ 2025-04-04
-
-
-<br />
-尽管英国是全球第六大经济体且税收收入达数十年来最高，但民众仍感到拮据。**债务负担**每年消耗超1000亿英镑（超过教育预算），而经济停滞加剧困境。**投资不足**（G7中最低）和**公共支出效率低下**（如NHS浪费、采购混乱）是主因。官僚体系臃肿（如HS2需8276项审批）和地方政府破产风险（如社会护理成本飙升）进一步恶化现状。住房成本高企挤压中产收入，增税提议难获支持。改革需突破性方案，而非小修小补。
-
----
-
-## <a name="5"></a>5. 特朗普加征关税引发中美贸易战升级 中国对等反击34%关税 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/04/04/business/china-trump-tariffs-retaliation.html): Trump's Trade War Escalates as China Retaliates with 34% Tariffs</small>
-
-
-| 🔥🔥: 165 \| 💬: [193](https://news.ycombinator.com/item?id=43580906) \| 🗓️ 2025-04-04
-
-
-<br />
-中国宣布对**美国商品加征34%关税**，以回应特朗普政府对华同类措施。同时，中国商务部将**11家美企列入“不可靠实体清单”**，限制其与中国企业合作，并管控**稀土元素出口**。此外，中国暂停部分美国农产品进口，并启动对美医疗设备贸易调查。此次交锋凸显中美贸易失衡，中国对美年出口额（4269亿美元）远超进口额（1478亿美元）。
-
----
-
-## <a name="6"></a>6. 日益扩大的贸易逆差正在掏空国家根基（2003年） 
-<small>🔗 [faculty.washington.edu](https://faculty.washington.edu/ss1110/IF/Buffett%20Fortune%202003%20(6).pdf): Growing trade deficit is selling the nation out from under us (2003) [pdf]</small>
-
-
-| 🔥🔥: 150 \| 💬: [176](https://news.ycombinator.com/item?id=43579908) \| 🗓️ 2025-04-04
-
-
-<br />
-该PDF文档因技术原因无法直接提取文本内容，但从标题可见其核心议题为**贸易逆差对国家经济的侵蚀性影响**。文件可能分析了2003年美国贸易失衡的现状，强调长期逆差会导致**就业流失**、**产业空心化**等风险，并警示这种趋势可能削弱国家经济主权。关键论点或围绕**贸易政策调整**、**本土产业保护**的必要性展开。
-
----
-
-## <a name="7"></a>7. 司法部高官被曝青少年时期黑客经历 
-<small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/04/i-no-longer-hack-paypals-doge-staffers-hacker-past-raises-red-flags/): Doge staffer's YouTube nickname accidentally revealed his teen hacking activity</small>
-
-
-| 🔥🔥: 138 \| 💬: [165](https://news.ycombinator.com/item?id=43579925) \| 🗓️ 2025-04-04
-
-
-<br />
-美国司法部副部长办公室高级顾问**Christopher Stanley**（现为SpaceX和X工程师）被曝青少年时期曾入侵服务器、传播盗版软件及游戏外挂。路透社通过其长期使用的网名**Reneg4d3**追溯到多个已删除的论坛，其中包含他15岁时入侵竞争对手网站并炫耀的截图。尽管19岁后他声称停止黑客行为，但2014年仍参与黑客组织**Lizard Squad**的活动。司法部确认其安全许可早于现任职位，但前官员担忧其过往可能影响敏感调查。目前Stanley的社交媒体形象已转为支持马斯克企业的"中立派"，但早年经历仍引发争议。
-
----
-
-## <a name="8"></a>8. 美股暴跌：道指狂泻2200点，纳斯达克跌入熊市 
+## <a name="4"></a>4. 美股暴跌：道指狂泻2200点，纳斯达克跌入熊市 
 <small>🔗 [finance.yahoo.com](https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-2200-points-nasdaq-enters-bear-market-as-trump-tariffs-spark-worst-meltdown-since-2020-200042876.html): Dow plunges 2,200 points, Nasdaq enters bear market</small>
 
 
-| 🔥🔥: 131 \| 💬: [94](https://news.ycombinator.com/item?id=43587479) \| 🗓️ 2025-04-04
+| 🔥🔥: 195 \| 💬: [236](https://news.ycombinator.com/item?id=43587479) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -119,11 +71,47 @@ tags:
 
 ---
 
-## <a name="9"></a>9. 鲸油神话破灭：煤油并未拯救抹香鲸 
+## <a name="5"></a>5. 为何英国民众感到如此贫困？ 
+<small>🔗 [martinrobbins.substack.com](https://martinrobbins.substack.com/p/von-6-why-does-britain-feel-so-poor): Why does Britain feel so poor?</small>
+
+
+| 🔥🔥: 176 \| 💬: [325](https://news.ycombinator.com/item?id=43581672) \| 🗓️ 2025-04-04
+
+
+<br />
+尽管英国是全球第六大经济体且税收收入达数十年来最高，但民众仍感到拮据。**债务负担**每年消耗超1000亿英镑（超过教育预算），而经济停滞加剧困境。**投资不足**（G7中最低）和**公共支出效率低下**（如NHS浪费、采购混乱）是主因。官僚体系臃肿（如HS2需8276项审批）和地方政府破产风险（如社会护理成本飙升）进一步恶化现状。住房成本高企挤压中产收入，增税提议难获支持。改革需突破性方案，而非小修小补。
+
+---
+
+## <a name="6"></a>6. 特朗普加征关税引发中美贸易战升级 中国对等反击34%关税 
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/04/04/business/china-trump-tariffs-retaliation.html): Trump's Trade War Escalates as China Retaliates with 34% Tariffs</small>
+
+
+| 🔥🔥: 168 \| 💬: [195](https://news.ycombinator.com/item?id=43580906) \| 🗓️ 2025-04-04
+
+
+<br />
+中国宣布对**美国商品加征34%关税**，以回应特朗普政府对华同类措施。同时，中国商务部将**11家美企列入“不可靠实体清单”**，限制其与中国企业合作，并管控**稀土元素出口**。此外，中国暂停部分美国农产品进口，并启动对美医疗设备贸易调查。此次交锋凸显中美贸易失衡，中国对美年出口额（4269亿美元）远超进口额（1478亿美元）。
+
+---
+
+## <a name="7"></a>7. 日益扩大的贸易逆差正在掏空国家根基（2003年） 
+<small>🔗 [faculty.washington.edu](https://faculty.washington.edu/ss1110/IF/Buffett%20Fortune%202003%20(6).pdf): Growing trade deficit is selling the nation out from under us (2003) [pdf]</small>
+
+
+| 🔥🔥: 151 \| 💬: [176](https://news.ycombinator.com/item?id=43579908) \| 🗓️ 2025-04-04
+
+
+<br />
+该PDF文档因技术原因无法直接提取文本内容，但从标题可见其核心议题为**贸易逆差对国家经济的侵蚀性影响**。文件可能分析了2003年美国贸易失衡的现状，强调长期逆差会导致**就业流失**、**产业空心化**等风险，并警示这种趋势可能削弱国家经济主权。关键论点或围绕**贸易政策调整**、**本土产业保护**的必要性展开。
+
+---
+
+## <a name="8"></a>8. 鲸油神话破灭：煤油并未拯救抹香鲸 
 <small>🔗 [edconway.substack.com](https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm): Kerosene did not save the sperm whale (2024)</small>
 
 
-| 🔥🔥: 130 \| 💬: [42](https://news.ycombinator.com/item?id=43584303) \| 🗓️ 2025-04-04
+| 🔥🔥: 140 \| 💬: [45](https://news.ycombinator.com/item?id=43584303) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -131,23 +119,23 @@ tags:
 
 ---
 
-## <a name="10"></a>10. Gumroad的许可证不符合公认的开源定义 
-<small>🔗 [danb.me](https://danb.me/blog/gumroad-is-not-open-source/): Gumroad’s license wouldn’t meet the widely regarded definition of open source</small>
+## <a name="9"></a>9. 司法部高官被曝青少年时期黑客经历 
+<small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/04/i-no-longer-hack-paypals-doge-staffers-hacker-past-raises-red-flags/): Doge staffer's YouTube nickname accidentally revealed his teen hacking activity</small>
 
 
-| 🔥🔥: 111 \| 💬: [36](https://news.ycombinator.com/item?id=43586107) \| 🗓️ 2025-04-04
+| 🔥🔥: 138 \| 💬: [166](https://news.ycombinator.com/item?id=43579925) \| 🗓️ 2025-04-04
 
 
 <br />
-该内容显示Gumroad的**许可证条款**未能满足**开源倡议组织（OSI）**对开源软件的**核心要求**。尽管具体条款因文本乱码无法解析，但关键问题在于其限制性条款可能违反了开源的自由使用、修改和分发原则。这一争议凸显了开源社区对许可证合规性的严格标准。
+美国司法部副部长办公室高级顾问**Christopher Stanley**（现为SpaceX和X工程师）被曝青少年时期曾入侵服务器、传播盗版软件及游戏外挂。路透社通过其长期使用的网名**Reneg4d3**追溯到多个已删除的论坛，其中包含他15岁时入侵竞争对手网站并炫耀的截图。尽管19岁后他声称停止黑客行为，但2014年仍参与黑客组织**Lizard Squad**的活动。司法部确认其安全许可早于现任职位，但前官员担忧其过往可能影响敏感调查。目前Stanley的社交媒体形象已转为支持马斯克企业的"中立派"，但早年经历仍引发争议。
 
 ---
 
-## <a name="11"></a>11. 《Sierra的终结：收购始末》 
+## <a name="10"></a>10. 《Sierra的终结：收购始末》 
 <small>🔗 [filfre.net](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/): The End of Sierra as We Knew It, Part 1: The Acquisition</small>
 
 
-| 🔥🔥: 109 \| 💬: [38](https://news.ycombinator.com/item?id=43586157) \| 🗓️ 2025-04-04
+| 🔥🔥: 136 \| 💬: [48](https://news.ycombinator.com/item?id=43586157) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -155,83 +143,23 @@ tags:
 
 ---
 
-## <a name="12"></a>12. 美国富人死亡率与欧洲穷人相当 
-<small>🔗 [arstechnica.com](https://arstechnica.com/health/2025/04/wealthy-americans-have-death-rates-on-par-with-poor-europeans/): Wealthy Americans have death rates on par with poor Europeans</small>
+## <a name="11"></a>11. Gumroad的许可证不符合公认的开源定义 
+<small>🔗 [danb.me](https://danb.me/blog/gumroad-is-not-open-source/): Gumroad’s license wouldn’t meet the widely regarded definition of open source</small>
 
 
-| 🔥🔥: 106 \| 💬: [69](https://news.ycombinator.com/item?id=43584156) \| 🗓️ 2025-04-04
-
-
-<br />
-研究表明，**美国最富裕人群的寿命仍短于欧洲富人**，其死亡率比北欧和西欧富人高35%，反而与欧洲最贫困人群相当。尽管财富在美国能延长寿命，但**系统性因素**（如经济不平等、饮食、环境压力等）导致美国人整体寿命落后于其他高收入国家。该研究追踪了7.3万名欧美中老年人数据，发现**美国贫富寿命差距最大**，且最贫困群体生存率最低。研究者指出，医疗和社会福利差异无法完全解释欧美富人间的寿命差距，需进一步探究文化、行为等深层原因。
-
----
-
-## <a name="13"></a>13. 道指再跌千点 纳斯达克逼近熊市 
-<small>🔗 [barrons.com](https://www.barrons.com/livecoverage/stock-market-today-040425): Dow Slides Another 1k Points. Nasdaq on Pace to Enter Bear Market</small>
-
-
-| 🔥: 98 \| 💬: [87](https://news.ycombinator.com/item?id=43582292) \| 🗓️ 2025-04-04
+| 🔥🔥: 114 \| 💬: [37](https://news.ycombinator.com/item?id=43586107) \| 🗓️ 2025-04-04
 
 
 <br />
-受**中美关税战升级**影响，美股连续两日暴跌。**道琼斯指数**下跌1120点（2.8%），纳斯达克综合指数重挫3.4%，逼近熊市门槛；标普500指数跌3%。尽管美国3月新增就业22.8万远超预期，但市场情绪被**特朗普关税政策**主导。中国宣布对美征收34%报复性关税后，期货市场进一步下挫。分析师警告，贸易冲突或引发全球衰退，美联储降息预期升温，鲍威尔讲话备受关注。
+该内容显示Gumroad的**许可证条款**未能满足**开源倡议组织（OSI）**对开源软件的**核心要求**。尽管具体条款因文本乱码无法解析，但关键问题在于其限制性条款可能违反了开源的自由使用、修改和分发原则。这一争议凸显了开源社区对许可证合规性的严格标准。
 
 ---
 
-## <a name="14"></a>14. 安·兰德继承者的诅咒 
-<small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/03/ayn-rand-peikoff-inheritance-battle/682219/): The Curse of Ayn Rand's Heir</small>
-
-
-| 🔥: 93 \| 💬: [183](https://news.ycombinator.com/item?id=43584663) \| 🗓️ 2025-04-04
-
-
-<br />
-这段文本似乎是一篇加密或损坏的内容，无法直接解读其具体含义。安·兰德（Ayn Rand）是20世纪著名哲学家和小说家，以提倡**客观主义**和**个人主义**闻名。她的思想影响了许多人，但也引发争议。标题中的“继承者”可能指她的追随者或思想传承者，而“诅咒”则暗示这种继承可能带来负面后果。文本内容虽无法解析，但标题本身已引发对**思想传承**和**哲学影响**的思考。安·兰德的思想在当代仍具争议，尤其是她对**利他主义**的批判和对资本主义的推崇。
-
----
-
-## <a name="15"></a>15. 美国国家海洋和大气管理局气象网站将停用亚马逊、谷歌云服务 
-<small>🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-04-04/us-weather-agency-websites-to-vanish-under-planned-contract-cuts): NOAA Weather will delete websites using Amazon, Google cloud services Saturday</small>
-
-
-| 🔥: 92 \| 💬: [91](https://news.ycombinator.com/item?id=43581714) \| 🗓️ 2025-04-04
-
-
-<br />
-检测到您的网络存在异常活动，请点击验证框确认非机器人操作。此问题可能因**浏览器禁用JavaScript或Cookie**导致，需调整设置或参考平台**《服务条款》**及**《Cookie政策》**。如需帮助，请联系支持团队并提供参考ID。订阅Bloomberg.com可获取全球市场重要资讯。
-
----
-
-## <a name="16"></a>16. 澳大利亚最大养老基金遭黑客协同攻击 
-<small>🔗 [reuters.com](https://www.reuters.com/technology/cybersecurity/multiple-australian-pension-funds-hit-by-coordinated-hacking-media-reports-say-2025-04-04/): Hackers strike Australia's largest pension funds in coordinated attacks</small>
-
-
-| 🔥: 89 \| 💬: [38](https://news.ycombinator.com/item?id=43580101) \| 🗓️ 2025-04-04
-
-
-<br />
-澳大利亚多家**大型养老基金**近期遭遇**协同网络攻击**，黑客试图窃取敏感数据。尽管部分系统受影响，但官方表示客户资金未受威胁。事件凸显**金融基础设施**的网络安全风险，相关部门已展开调查并加强防护措施。
-
----
-
-## <a name="17"></a>17. 美国多个电动汽车及电池工厂项目被取消 
-<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/climate-environment/2025/04/03/ev-factories-canceled/): A number of electric vehicle, battery factories are being canceled</small>
-
-
-| 🔥: 88 \| 💬: [202](https://news.ycombinator.com/item?id=43583249) \| 🗓️ 2025-04-04
-
-
-<br />
-过去几年，美国依托《通胀削减法案》的税收优惠，在共和党主导地区兴建了大量**电动汽车**及锂电池工厂，但近期多个项目被叫停。数据显示，2025年第一季度取消的项目数量超过前两年总和，包括佐治亚州10亿美元电池隔热材料工厂和亚利桑那州12亿美元锂电池厂。专家指出，**关税政策不明朗**、税收优惠可能被共和党新法案废除，以及市场需求疲软（美国EV渗透率仅10%-15%）是主因。部分企业转向中国或墨西哥生产，导致本土就业机会流失。普林斯顿大学预测，政策变动或使2030年EV销量下降40%。尽管白宫强调其经济计划将提振制造业，但行业普遍持观望态度，**清洁能源投资大幅放缓**。
-
----
-
-## <a name="18"></a>18. 仅用3块8引脚芯片打造的交互式Linux电脑 
+## <a name="12"></a>12. 仅用3块8引脚芯片打造的交互式Linux电脑 
 <small>🔗 [dmitry.gr](https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux): An interactive-speed Linux computer made of only 3 8-pin chips</small>
 
 
-| 🔥: 86 \| 💬: [30](https://news.ycombinator.com/item?id=43586654) \| 🗓️ 2025-04-04
+| 🔥🔥: 113 \| 💬: [37](https://news.ycombinator.com/item?id=43586654) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -239,7 +167,103 @@ tags:
 
 ---
 
-## <a name="19"></a>19. 我只想存储5TB视频 
+## <a name="13"></a>13. 美国富人死亡率与欧洲穷人相当 
+<small>🔗 [arstechnica.com](https://arstechnica.com/health/2025/04/wealthy-americans-have-death-rates-on-par-with-poor-europeans/): Wealthy Americans have death rates on par with poor Europeans</small>
+
+
+| 🔥🔥: 107 \| 💬: [71](https://news.ycombinator.com/item?id=43584156) \| 🗓️ 2025-04-04
+
+
+<br />
+研究表明，**美国最富裕人群的寿命仍短于欧洲富人**，其死亡率比北欧和西欧富人高35%，反而与欧洲最贫困人群相当。尽管财富在美国能延长寿命，但**系统性因素**（如经济不平等、饮食、环境压力等）导致美国人整体寿命落后于其他高收入国家。该研究追踪了7.3万名欧美中老年人数据，发现**美国贫富寿命差距最大**，且最贫困群体生存率最低。研究者指出，医疗和社会福利差异无法完全解释欧美富人间的寿命差距，需进一步探究文化、行为等深层原因。
+
+---
+
+## <a name="14"></a>14. 安·兰德继承者的诅咒 
+<small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/03/ayn-rand-peikoff-inheritance-battle/682219/): The Curse of Ayn Rand's Heir</small>
+
+
+| 🔥🔥: 102 \| 💬: [188](https://news.ycombinator.com/item?id=43584663) \| 🗓️ 2025-04-04
+
+
+<br />
+这段文本似乎是一篇加密或损坏的内容，无法直接解读其具体含义。安·兰德（Ayn Rand）是20世纪著名哲学家和小说家，以提倡**客观主义**和**个人主义**闻名。她的思想影响了许多人，但也引发争议。标题中的“继承者”可能指她的追随者或思想传承者，而“诅咒”则暗示这种继承可能带来负面后果。文本内容虽无法解析，但标题本身已引发对**思想传承**和**哲学影响**的思考。安·兰德的思想在当代仍具争议，尤其是她对**利他主义**的批判和对资本主义的推崇。
+
+---
+
+## <a name="15"></a>15. 道指再跌千点 纳斯达克逼近熊市 
+<small>🔗 [barrons.com](https://www.barrons.com/livecoverage/stock-market-today-040425): Dow Slides Another 1k Points. Nasdaq on Pace to Enter Bear Market</small>
+
+
+| 🔥: 98 \| 💬: [90](https://news.ycombinator.com/item?id=43582292) \| 🗓️ 2025-04-04
+
+
+<br />
+受**中美关税战升级**影响，美股连续两日暴跌。**道琼斯指数**下跌1120点（2.8%），纳斯达克综合指数重挫3.4%，逼近熊市门槛；标普500指数跌3%。尽管美国3月新增就业22.8万远超预期，但市场情绪被**特朗普关税政策**主导。中国宣布对美征收34%报复性关税后，期货市场进一步下挫。分析师警告，贸易冲突或引发全球衰退，美联储降息预期升温，鲍威尔讲话备受关注。
+
+---
+
+## <a name="16"></a>16. 美国国家海洋和大气管理局气象网站将停用亚马逊、谷歌云服务 
+<small>🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-04-04/us-weather-agency-websites-to-vanish-under-planned-contract-cuts): NOAA Weather will delete websites using Amazon, Google cloud services Saturday</small>
+
+
+| 🔥: 92 \| 💬: [92](https://news.ycombinator.com/item?id=43581714) \| 🗓️ 2025-04-04
+
+
+<br />
+检测到您的网络存在异常活动，请点击验证框确认非机器人操作。此问题可能因**浏览器禁用JavaScript或Cookie**导致，需调整设置或参考平台**《服务条款》**及**《Cookie政策》**。如需帮助，请联系支持团队并提供参考ID。订阅Bloomberg.com可获取全球市场重要资讯。
+
+---
+
+## <a name="17"></a>17. 澳大利亚最大养老基金遭黑客协同攻击 
+<small>🔗 [reuters.com](https://www.reuters.com/technology/cybersecurity/multiple-australian-pension-funds-hit-by-coordinated-hacking-media-reports-say-2025-04-04/): Hackers strike Australia's largest pension funds in coordinated attacks</small>
+
+
+| 🔥: 90 \| 💬: [38](https://news.ycombinator.com/item?id=43580101) \| 🗓️ 2025-04-04
+
+
+<br />
+澳大利亚多家**大型养老基金**近期遭遇**协同网络攻击**，黑客试图窃取敏感数据。尽管部分系统受影响，但官方表示客户资金未受威胁。事件凸显**金融基础设施**的网络安全风险，相关部门已展开调查并加强防护措施。
+
+---
+
+## <a name="18"></a>18. 美国多个电动汽车及电池工厂项目被取消 
+<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/climate-environment/2025/04/03/ev-factories-canceled/): A number of electric vehicle, battery factories are being canceled</small>
+
+
+| 🔥: 89 \| 💬: [203](https://news.ycombinator.com/item?id=43583249) \| 🗓️ 2025-04-04
+
+
+<br />
+过去几年，美国依托《通胀削减法案》的税收优惠，在共和党主导地区兴建了大量**电动汽车**及锂电池工厂，但近期多个项目被叫停。数据显示，2025年第一季度取消的项目数量超过前两年总和，包括佐治亚州10亿美元电池隔热材料工厂和亚利桑那州12亿美元锂电池厂。专家指出，**关税政策不明朗**、税收优惠可能被共和党新法案废除，以及市场需求疲软（美国EV渗透率仅10%-15%）是主因。部分企业转向中国或墨西哥生产，导致本土就业机会流失。普林斯顿大学预测，政策变动或使2030年EV销量下降40%。尽管白宫强调其经济计划将提振制造业，但行业普遍持观望态度，**清洁能源投资大幅放缓**。
+
+---
+
+## <a name="19"></a>19. 谷歌推出实验性网络安全模型Sec-Gemini v1 
+<small>🔗 [security.googleblog.com](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html): Google announces Sec-Gemini v1 a new experimental cybersecurity model</small>
+
+
+| 🔥: 87 \| 💬: [21](https://news.ycombinator.com/item?id=43586786) \| 🗓️ 2025-04-04
+
+
+<br />
+谷歌宣布推出**Sec-Gemini v1**，这是一款专注于网络安全的前沿AI实验模型。该模型结合了Gemini的先进能力与实时网络安全知识，旨在通过AI提升防御效率，帮助安全团队更快分析事件根源、评估威胁及漏洞影响。**Sec-Gemini v1**在多项基准测试中表现优异，例如在威胁情报（CTI-MCQ）和漏洞根因映射（CTI-RCM）任务上分别领先其他模型至少11%和10.5%。谷歌将免费向部分机构开放该模型，以推动网络安全领域的协作创新。
+
+---
+
+## <a name="20"></a>20. 优秀副业的禅意乐趣 
+<small>🔗 [joshcollinsworth.com](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project): The blissful Zen of a good side project</small>
+
+
+| 🔥: 80 \| 💬: [13](https://news.ycombinator.com/item?id=43587380) \| 🗓️ 2025-04-04
+
+
+<br />
+这篇看似乱码的内容实则探讨了**副业**带来的独特价值——它不仅是经济补充，更是**创造力释放**的出口。通过非正式项目，人们能摆脱主业压力，在**自由探索**中找到平衡与满足感。文中暗示，副业的真正魅力在于其不受限的试验性，让兴趣与技能自然融合。
+
+---
+
+## <a name="21"></a>21. 我只想存储5TB视频 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=3t6L-FlfeaI): I just want to serve 5 terabytes [video]</small>
 
 
@@ -251,19 +275,7 @@ tags:
 
 ---
 
-## <a name="20"></a>20. 谷歌推出实验性网络安全模型Sec-Gemini v1 
-<small>🔗 [security.googleblog.com](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html): Google announces Sec-Gemini v1 a new experimental cybersecurity model</small>
-
-
-| 🔥: 76 \| 💬: [20](https://news.ycombinator.com/item?id=43586786) \| 🗓️ 2025-04-04
-
-
-<br />
-谷歌宣布推出**Sec-Gemini v1**，这是一款专注于网络安全的前沿AI实验模型。该模型结合了Gemini的先进能力与实时网络安全知识，旨在通过AI提升防御效率，帮助安全团队更快分析事件根源、评估威胁及漏洞影响。**Sec-Gemini v1**在多项基准测试中表现优异，例如在威胁情报（CTI-MCQ）和漏洞根因映射（CTI-RCM）任务上分别领先其他模型至少11%和10.5%。谷歌将免费向部分机构开放该模型，以推动网络安全领域的协作创新。
-
----
-
-## <a name="21"></a>21. Mac版Numbers新增LAMBDA函数和MAP函数支持 
+## <a name="22"></a>22. Mac版Numbers新增LAMBDA函数和MAP函数支持 
 <small>🔗 [support.apple.com](https://support.apple.com/guide/functions/map-ffa7bf25643c/web): Mac Numbers now supports LAMBDA functions and MAP</small>
 
 
@@ -275,11 +287,11 @@ tags:
 
 ---
 
-## <a name="22"></a>22. 德国"全德通票"显著减少碳排放，但低收入群体仍难负担 
+## <a name="23"></a>23. 德国"全德通票"显著减少碳排放，但低收入群体仍难负担 
 <small>🔗 [dw.com](https://www.dw.com/en/germanys-deutschlandticket-helps-environment-study/a-72128647): Germany's 'Deutschlandticket' helps environment – study</small>
 
 
-| 🔥: 67 \| 💬: [35](https://news.ycombinator.com/item?id=43586182) \| 🗓️ 2025-04-04
+| 🔥: 69 \| 💬: [36](https://news.ycombinator.com/item?id=43586182) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -287,38 +299,26 @@ tags:
 
 ---
 
-## <a name="23"></a>23. 微软将终止远程桌面应用，力推Windows App替代 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/03/11/microsoft_remote_desktop_support/): Microsoft will kill Remote Desktop soon, insists you'll love replacement</small>
+## <a name="24"></a>24. 华尔街的溃败：金融泡沫与信任危机 
+<small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/04/wall-street-trump-tariffs/682304/): Wall Street Blew It</small>
 
 
-| 🔥: 50 \| 💬: [66](https://news.ycombinator.com/item?id=43580601) \| 🗓️ 2025-04-04
+| 🔥: 59 \| 💬: [85](https://news.ycombinator.com/item?id=43587611) \| 🗓️ 2025-04-04
 
 
 <br />
-微软宣布将于2025年5月27日停止支持**远程桌面应用**，用户需迁移至**Windows App**。该应用整合了Windows 365、Azure虚拟桌面等服务，但被用户吐槽为“换壳重命名”。新应用支持多显示器、动态分辨率缩放，但暂不支持传统远程桌面连接方式，且需学校或工作账户登录。微软警告部分代理服务器环境可能不兼容，用户需在截止日期前完成迁移。
+这篇内容看似是一段加密或损坏的文本，无法直接解读其具体含义。但从标题《华尔街的溃败》可以推断，文章可能探讨了**金融市场的系统性风险**、**信任崩塌**或**投资泡沫破裂**等主题。华尔街作为全球金融中心，其动荡往往反映更深层的经济问题，如**监管缺失**或**投机行为泛滥**。若内容完整，可能会分析具体事件（如次贷危机重演）或警示未来风险。当前文本状态需修复后才能进一步提炼核心观点。
 
 ---
 
-## <a name="24"></a>24. 2025年美国金融危机与2008年的本质差异 
+## <a name="25"></a>25. 2025年美国金融危机与2008年的本质差异 
 <small>🔗 [samhenrycliff.medium.com](https://samhenrycliff.medium.com/how-the-2025-us-financial-crisis-is-different-than-2008-5b63bdd06067): How the 2025 US Financial Crisis is Different than 2008</small>
 
 
-| 🔥: 49 \| 💬: [100](https://news.ycombinator.com/item?id=43584714) \| 🗓️ 2025-04-04
+| 🔥: 52 \| 💬: [100](https://news.ycombinator.com/item?id=43584714) \| 🗓️ 2025-04-04
 
 
 <br />
 作者对比了两次危机：2008年因**金融衍生品**和全球杠杆引发，政府通过**救助大银行**和刺激计划（如TARP）缓解衰退，但未根治贪婪。2025年危机则源于**单边关税**和孤立政策，主动破坏全球信任与贸易体系，缺乏修复机制。**国际信用崩塌**和内部政治分裂使美国陷入长期困境，且无有效救援方案。与2008年不同，此次危机是自我制造且无退路的系统性瓦解。
-
----
-
-## <a name="25"></a>25. CINC并非Chef官方产品 
-<small>🔗 [cinc.sh](https://cinc.sh/): CINC Is Not Chef</small>
-
-
-| 🔥: 48 \| 💬: [48](https://news.ycombinator.com/item?id=43585354) \| 🗓️ 2025-04-04
-
-
-<br />
-CINC是一个基于**Chef开源软件**构建的免费发行版，提供与Chef功能相似的工具链，包括**Cinc Client**（源自Chef Infra）、**Cinc Workstation**等组件，未来还将推出Cinc Packager。该项目独立于Chef公司，开发者可通过Slack频道#community-distros参与交流。
 
 ---
