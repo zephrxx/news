@@ -12,11 +12,11 @@ tags:
 1. AI图像生成引发的版权争议：吉卜力风格模仿与知识产权困境；
 1. AI 2027：超级人工智能的十年颠覆性展望；
 1. curl-impersonate：一款能伪装主流浏览器的curl定制版本；
-1. 开源营养数据库OpenNutrition：免费、精准的膳食查询工具；
+1. 过度设计的锚点链接解决方案；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [animejs.com](https://animejs.com/): AnimeJs v4 Is Here</small>
 
 
-| 🔥🔥: 601 \| 💬: [78](https://news.ycombinator.com/item?id=43570533) \| 🗓️ 2025-04-03
+| 🔥🔥: 625 \| 💬: [82](https://news.ycombinator.com/item?id=43570533) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -39,7 +39,7 @@ Anime.js 是一款**全能动画引擎**，通过简洁强大的API实现网页�
 <small>🔗 [theaiunderwriter.substack.com](https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer): An image of an archeologist adventurer who wears a hat and uses a bullwhip</small>
 
 
-| 🔥🔥: 571 \| 💬: [404](https://news.ycombinator.com/item?id=43573156) \| 🗓️ 2025-04-03
+| 🔥🔥: 612 \| 💬: [428](https://news.ycombinator.com/item?id=43573156) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -51,7 +51,7 @@ Anime.js 是一款**全能动画引擎**，通过简洁强大的API实现网页�
 <small>🔗 [ai-2027.com](https://ai-2027.com/): AI 2027</small>
 
 
-| 🔥🔥: 370 \| 💬: [254](https://news.ycombinator.com/item?id=43571851) \| 🗓️ 2025-04-03
+| 🔥🔥: 389 \| 💬: [265](https://news.ycombinator.com/item?id=43571851) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -63,7 +63,7 @@ Anime.js 是一款**全能动画引擎**，通过简洁强大的API实现网页�
 <small>🔗 [github.com](https://github.com/lwthiker/curl-impersonate): Curl-impersonate: Special build of curl that can impersonate the major browsers</small>
 
 
-| 🔥🔥: 304 \| 💬: [72](https://news.ycombinator.com/item?id=43571099) \| 🗓️ 2025-04-03
+| 🔥🔥: 320 \| 💬: [75](https://news.ycombinator.com/item?id=43571099) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -75,35 +75,11 @@ curl-impersonate 是 curl 的特殊构建版本，可**伪装成 Chrome、Edge�
 
 ---
 
-## <a name="5"></a>5. 开源营养数据库OpenNutrition：免费、精准的膳食查询工具 
-<small>🔗 [opennutrition.app](https://www.opennutrition.app/search): Show HN: OpenNutrition – A free, public nutrition database</small>
-
-
-| 🔥🔥: 278 \| 💬: [140](https://news.ycombinator.com/item?id=43569190) \| 🗓️ 2025-04-03
-
-
-<br />
-OpenNutrition是一款**免费公开**的营养数据库，提供即时食物营养信息查询服务。其特点包括**开源架构**、**AI增强的准确性**，并注重用户隐私保护。无需注册即可快速检索各类食物的营养成分，数据透明且可自由访问，适合健康管理或研究用途。
-
----
-
-## <a name="6"></a>6. Steam Deck：拥抱软件自由的游戏掌机 
-<small>🔗 [isomorphism.xyz](https://isomorphism.xyz/blog/2024/steam-deck/): The Steam Deck is software-freedom friendly</small>
-
-
-| 🔥🔥: 274 \| 💬: [227](https://news.ycombinator.com/item?id=43567923) \| 🗓️ 2025-04-03
-
-
-<br />
-Steam Deck的卓越之处并非续航或性能，而在于其**开源哲学**。作为一款基于Arch Linux的掌上电脑，它通过**Proton兼容层**支持数万款游戏，大幅提升了Linux游戏生态。用户可自由安装第三方软件或更换硬件，避免了传统移动设备的封闭性。尽管Valve的**自由主义立场**引发过争议（如对赌博网站的不干预），但Steam Deck证明了商业利益与用户自由可共存。其开放设计挑战了科技行业常见的垄断与限制性实践。
-
----
-
-## <a name="7"></a>7. 过度设计的锚点链接解决方案 
+## <a name="5"></a>5. 过度设计的锚点链接解决方案 
 <small>🔗 [thirty-five.com](https://thirty-five.com/overengineered-anchoring): Overengineered Anchor Links</small>
 
 
-| 🔥🔥: 274 \| 💬: [118](https://news.ycombinator.com/item?id=43570324) \| 🗓️ 2025-04-03
+| 🔥🔥: 282 \| 💬: [119](https://news.ycombinator.com/item?id=43570324) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -111,11 +87,35 @@ Steam Deck的卓越之处并非续航或性能，而在于其**开源哲学**。
 
 ---
 
+## <a name="6"></a>6. 开源营养数据库OpenNutrition：免费、精准的膳食查询工具 
+<small>🔗 [opennutrition.app](https://www.opennutrition.app/search): Show HN: OpenNutrition – A free, public nutrition database</small>
+
+
+| 🔥🔥: 278 \| 💬: [142](https://news.ycombinator.com/item?id=43569190) \| 🗓️ 2025-04-03
+
+
+<br />
+OpenNutrition是一款**免费公开**的营养数据库，提供即时食物营养信息查询服务。其特点包括**开源架构**、**AI增强的准确性**，并注重用户隐私保护。无需注册即可快速检索各类食物的营养成分，数据透明且可自由访问，适合健康管理或研究用途。
+
+---
+
+## <a name="7"></a>7. Steam Deck：拥抱软件自由的游戏掌机 
+<small>🔗 [isomorphism.xyz](https://isomorphism.xyz/blog/2024/steam-deck/): The Steam Deck is software-freedom friendly</small>
+
+
+| 🔥🔥: 275 \| 💬: [229](https://news.ycombinator.com/item?id=43567923) \| 🗓️ 2025-04-03
+
+
+<br />
+Steam Deck的卓越之处并非续航或性能，而在于其**开源哲学**。作为一款基于Arch Linux的掌上电脑，它通过**Proton兼容层**支持数万款游戏，大幅提升了Linux游戏生态。用户可自由安装第三方软件或更换硬件，避免了传统移动设备的封闭性。尽管Valve的**自由主义立场**引发过争议（如对赌博网站的不干预），但Steam Deck证明了商业利益与用户自由可共存。其开放设计挑战了科技行业常见的垄断与限制性实践。
+
+---
+
 ## <a name="8"></a>8. 大学校长抨击怯懦：学术自由面临威胁 
 <small>🔗 [newyorker.com](https://www.newyorker.com/news/q-and-a/a-university-president-makes-a-case-against-cowardice): A university president makes a case against cowardice</small>
 
 
-| 🔥🔥: 218 \| 💬: [253](https://news.ycombinator.com/item?id=43568655) \| 🗓️ 2025-04-03
+| 🔥🔥: 233 \| 💬: [268](https://news.ycombinator.com/item?id=43568655) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -127,7 +127,7 @@ Steam Deck的卓越之处并非续航或性能，而在于其**开源哲学**。
 <small>🔗 [manuel.kiessling.net](https://manuel.kiessling.net/2025/03/31/how-seasoned-developers-can-achieve-great-results-with-ai-coding-agents/): Senior Developer Skills in the AI Age</small>
 
 
-| 🔥🔥: 193 \| 💬: [127](https://news.ycombinator.com/item?id=43573755) \| 🗓️ 2025-04-03
+| 🔥🔥: 214 \| 💬: [140](https://news.ycombinator.com/item?id=43573755) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -152,7 +152,7 @@ Steam Deck的卓越之处并非续航或性能，而在于其**开源哲学**。
 <small>🔗 [dutchosintguy.com](https://www.dutchosintguy.com/post/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai): The Slow Collapse of Critical Thinking in OSINT Due to AI</small>
 
 
-| 🔥🔥: 177 \| 💬: [97](https://news.ycombinator.com/item?id=43573465) \| 🗓️ 2025-04-03
+| 🔥🔥: 205 \| 💬: [108](https://news.ycombinator.com/item?id=43573465) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -164,7 +164,7 @@ Steam Deck的卓越之处并非续航或性能，而在于其**开源哲学**。
 <small>🔗 [github.com](https://github.com/InitWare/InitWare): InitWare, a portable systemd fork running on BSDs and Linux</small>
 
 
-| 🔥🔥: 144 \| 💬: [79](https://news.ycombinator.com/item?id=43568503) \| 🗓️ 2025-04-03
+| 🔥🔥: 145 \| 💬: [84](https://news.ycombinator.com/item?id=43568503) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -176,7 +176,7 @@ InitWare是一套**中间件套件**，核心为服务管理系统（init），�
 <small>🔗 [niila.fi](https://niila.fi/en/ai-cheats/): AI cheats: Why you didn't notice your teammate was cheating</small>
 
 
-| 🔥🔥: 109 \| 💬: [94](https://news.ycombinator.com/item?id=43574929) \| 🗓️ 2025-04-03
+| 🔥🔥: 115 \| 💬: [98](https://news.ycombinator.com/item?id=43574929) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -188,7 +188,7 @@ InitWare是一套**中间件套件**，核心为服务管理系统（init），�
 <small>🔗 [gitmcp.io](https://gitmcp.io/): Show HN: GitMCP is an automatic MCP server for every GitHub repo</small>
 
 
-| 🔥🔥: 107 \| 💬: [32](https://news.ycombinator.com/item?id=43573539) \| 🗓️ 2025-04-03
+| 🔥🔥: 111 \| 💬: [32](https://news.ycombinator.com/item?id=43573539) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -200,7 +200,7 @@ GitMCP能将任何GitHub仓库或GitHub Pages站点**即时转换**为专用的*
 <small>🔗 [github.com](https://github.com/c3lang/c3c): Show HN: The C3 programming language (C alternative language)</small>
 
 
-| 🔥: 95 \| 💬: [59](https://news.ycombinator.com/item?id=43569724) \| 🗓️ 2025-04-03
+| 🔥: 97 \| 💬: [60](https://news.ycombinator.com/item?id=43569724) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -220,11 +220,23 @@ Zxc是一款基于**Rust语言**开发的终端拦截代理工具，采用**tmux
 
 ---
 
-## <a name="16"></a>16. 2025年经济衰退信号：时尚界与华尔街同步预警 
+## <a name="16"></a>16. Hatchet v1：基于Postgres构建的任务编排平台 
+<small>🔗 [github.com](https://github.com/hatchet-dev/hatchet): Show HN: Hatchet v1 – A task orchestration platform built on Postgres</small>
+
+
+| 🔥: 87 \| 💬: [23](https://news.ycombinator.com/item?id=43572733) \| 🗓️ 2025-04-03
+
+
+<br />
+Hatchet是一个**分布式任务编排平台**，专为后台任务设计，基于Postgres实现。它提供**任务队列**、**工作流编排**（支持DAG和持久化任务）、**流量控制**（并发与限速）及实时监控功能，支持Python、TypeScript和Go。适用于复杂任务拆分、错误重试和事件驱动场景，简化了传统Redis/RabbitMQ队列的运维复杂度。
+
+---
+
+## <a name="17"></a>17. 2025年经济衰退信号：时尚界与华尔街同步预警 
 <small>🔗 [marieclaire.com](https://www.marieclaire.com/fashion/recession-2025-fashion-indicators/): 2025 Recession Indicators Hit Fashion and Wall Street at Once</small>
 
 
-| 🔥: 82 \| 💬: [146](https://news.ycombinator.com/item?id=43573488) \| 🗓️ 2025-04-03
+| 🔥: 82 \| 💬: [148](https://news.ycombinator.com/item?id=43573488) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -232,11 +244,11 @@ Zxc是一款基于**Rust语言**开发的终端拦截代理工具，采用**tmux
 
 ---
 
-## <a name="17"></a>17. 关税时代下的自行车行业变革 
+## <a name="18"></a>18. 关税时代下的自行车行业变革 
 <small>🔗 [renehersecycles.com](https://www.renehersecycles.com/bikes-in-the-age-of-tariffs/): Bikes in the age of tariffs</small>
 
 
-| 🔥: 79 \| 💬: [90](https://news.ycombinator.com/item?id=43572820) \| 🗓️ 2025-04-03
+| 🔥: 80 \| 💬: [94](https://news.ycombinator.com/item?id=43572820) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -244,7 +256,31 @@ Zxc是一款基于**Rust语言**开发的终端拦截代理工具，采用**tmux
 
 ---
 
-## <a name="18"></a>18. 浏览器多标签页离线通信工具：TabSub 
+## <a name="19"></a>19. Anduril被禁止在NixOS论坛招聘 
+<small>🔗 [discourse.nixos.org](https://discourse.nixos.org/t/anduril-industries-electromagnetic-warfare-team-is-hiring/62569): Anduril banned from recruiting on NixOS forums</small>
+
+
+| 🔥: 79 \| 💬: [34](https://news.ycombinator.com/item?id=43578310) \| 🗓️ 2025-04-03
+
+
+<br />
+NixOS论坛因**Anduril工业公司**（美国国防技术企业）的招聘帖引发争议，用户批评其**战争牟利**性质。讨论涉及职位要求、技术细节（如NixOS应用）及公司政策，但最终因社区矛盾激化，**NixOS指导委员会**决定禁止该公司继续招聘，并计划制定更全面的审核规则。争议帖保留但锁定，以记录决策过程。
+
+---
+
+## <a name="20"></a>20. 3000只猴子在打字机上创作 
+<small>🔗 [monkeys.zip](https://monkeys.zip/): Show HN: Monkeys.zip – 3000 Monkeys on Typewriters</small>
+
+
+| 🔥: 77 \| 💬: [26](https://news.ycombinator.com/item?id=43573299) \| 🗓️ 2025-04-03
+
+
+<br />
+该项目展示了一个名为`monkeys.zip`的趣味实验，模拟**3000只猴子**在打字机上随机敲击，试图通过概率生成有意义的文本。核心概念源自“无限猴子定理”，即**足够时间和随机性**可能产生任何作品。目前状态显示“加载中…”，暗示可能包含动态生成内容或互动元素。项目以幽默方式探讨**概率与创造力**的边界，吸引技术爱好者参与讨论。
+
+---
+
+## <a name="21"></a>21. 浏览器多标签页离线通信工具：TabSub 
 <small>🔗 [simon-frey.com](https://simon-frey.com/tabsub/): Show HN: Offline JavaScript PubSub between browser tabs</small>
 
 
@@ -260,31 +296,7 @@ TabSub是一个基于**本地存储**的JavaScript发布/订阅库，可实现**
 
 ---
 
-## <a name="19"></a>19. Hatchet v1：基于Postgres构建的任务编排平台 
-<small>🔗 [github.com](https://github.com/hatchet-dev/hatchet): Show HN: Hatchet v1 – A task orchestration platform built on Postgres</small>
-
-
-| 🔥: 74 \| 💬: [23](https://news.ycombinator.com/item?id=43572733) \| 🗓️ 2025-04-03
-
-
-<br />
-Hatchet是一个**分布式任务编排平台**，专为后台任务设计，基于Postgres实现。它提供**任务队列**、**工作流编排**（支持DAG和持久化任务）、**流量控制**（并发与限速）及实时监控功能，支持Python、TypeScript和Go。适用于复杂任务拆分、错误重试和事件驱动场景，简化了传统Redis/RabbitMQ队列的运维复杂度。
-
----
-
-## <a name="20"></a>20. 3000只猴子在打字机上创作 
-<small>🔗 [monkeys.zip](https://monkeys.zip/): Show HN: Monkeys.zip – 3000 Monkeys on Typewriters</small>
-
-
-| 🔥: 69 \| 💬: [24](https://news.ycombinator.com/item?id=43573299) \| 🗓️ 2025-04-03
-
-
-<br />
-该项目展示了一个名为`monkeys.zip`的趣味实验，模拟**3000只猴子**在打字机上随机敲击，试图通过概率生成有意义的文本。核心概念源自“无限猴子定理”，即**足够时间和随机性**可能产生任何作品。目前状态显示“加载中…”，暗示可能包含动态生成内容或互动元素。项目以幽默方式探讨**概率与创造力**的边界，吸引技术爱好者参与讨论。
-
----
-
-## <a name="21"></a>21. 太空垃圾：一场迫在眉睫的危机？ 
+## <a name="22"></a>22. 太空垃圾：一场迫在眉睫的危机？ 
 <small>🔗 [esa.int](https://www.esa.int/Space_Safety/Space_Debris): Space Debris: Is It a Crisis?</small>
 
 
@@ -296,7 +308,7 @@ Hatchet是一个**分布式任务编排平台**，专为后台任务设计，基
 
 ---
 
-## <a name="22"></a>22. 声明式数据库架构：简化复杂数据库管理 
+## <a name="23"></a>23. 声明式数据库架构：简化复杂数据库管理 
 <small>🔗 [supabase.com](https://supabase.com/blog/declarative-schemas): Declarative Schemas for simpler database management</small>
 
 
@@ -308,11 +320,11 @@ Supabase推出**声明式架构**功能，通过集中化的`.sql`文件定义�
 
 ---
 
-## <a name="23"></a>23. Tenstorrent在开发者大会上发布Blackhole™系列新品 
+## <a name="24"></a>24. Tenstorrent在开发者大会上发布Blackhole™系列新品 
 <small>🔗 [tenstorrent.com](https://tenstorrent.com/vision/tenstorrent-launches-blackhole-developer-products-at-tenstorrent-dev-day): Tenstorrent Launches Blackhole Developer Products at Tenstorrent Dev Day</small>
 
 
-| 🔥: 57 \| 💬: [15](https://news.ycombinator.com/item?id=43573310) \| 🗓️ 2025-04-03
+| 🔥: 58 \| 💬: [15](https://news.ycombinator.com/item?id=43573310) \| 🗓️ 2025-04-03
 
 
 <br />
