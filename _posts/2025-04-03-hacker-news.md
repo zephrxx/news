@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共22条，具体内容您往下读...
+总共23条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [animejs.com](https://animejs.com/): AnimeJs v4 Is Here</small>
 
 
-| 🔥🔥: 557 \| 💬: [74](https://news.ycombinator.com/item?id=43570533) \| 🗓️ 2025-04-03
+| 🔥🔥: 585 \| 💬: [76](https://news.ycombinator.com/item?id=43570533) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -39,7 +39,7 @@ Anime.js 是一款**全能动画引擎**，通过简洁强大的API实现网页�
 <small>🔗 [theaiunderwriter.substack.com](https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer): An image of an archeologist adventurer who wears a hat and uses a bullwhip</small>
 
 
-| 🔥🔥: 499 \| 💬: [342](https://news.ycombinator.com/item?id=43573156) \| 🗓️ 2025-04-03
+| 🔥🔥: 535 \| 💬: [380](https://news.ycombinator.com/item?id=43573156) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -51,7 +51,7 @@ Anime.js 是一款**全能动画引擎**，通过简洁强大的API实现网页�
 <small>🔗 [ai-2027.com](https://ai-2027.com/): AI 2027</small>
 
 
-| 🔥🔥: 320 \| 💬: [224](https://news.ycombinator.com/item?id=43571851) \| 🗓️ 2025-04-03
+| 🔥🔥: 339 \| 💬: [245](https://news.ycombinator.com/item?id=43571851) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -63,7 +63,7 @@ Anime.js 是一款**全能动画引擎**，通过简洁强大的API实现网页�
 <small>🔗 [github.com](https://github.com/lwthiker/curl-impersonate): Curl-impersonate: Special build of curl that can impersonate the major browsers</small>
 
 
-| 🔥🔥: 276 \| 💬: [67](https://news.ycombinator.com/item?id=43571099) \| 🗓️ 2025-04-03
+| 🔥🔥: 290 \| 💬: [71](https://news.ycombinator.com/item?id=43571099) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -79,7 +79,7 @@ curl-impersonate 是 curl 的特殊构建版本，可**伪装成 Chrome、Edge�
 <small>🔗 [opennutrition.app](https://www.opennutrition.app/search): Show HN: OpenNutrition – A free, public nutrition database</small>
 
 
-| 🔥🔥: 274 \| 💬: [138](https://news.ycombinator.com/item?id=43569190) \| 🗓️ 2025-04-03
+| 🔥🔥: 276 \| 💬: [139](https://news.ycombinator.com/item?id=43569190) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -91,7 +91,7 @@ OpenNutrition是一款**免费公开**的营养数据库，提供即时食物营
 <small>🔗 [isomorphism.xyz](https://isomorphism.xyz/blog/2024/steam-deck/): The Steam Deck is software-freedom friendly</small>
 
 
-| 🔥🔥: 268 \| 💬: [225](https://news.ycombinator.com/item?id=43567923) \| 🗓️ 2025-04-03
+| 🔥🔥: 273 \| 💬: [226](https://news.ycombinator.com/item?id=43567923) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -103,7 +103,7 @@ Steam Deck的卓越之处并非续航或性能，而在于其**开源哲学**。
 <small>🔗 [thirty-five.com](https://thirty-five.com/overengineered-anchoring): Overengineered Anchor Links</small>
 
 
-| 🔥🔥: 256 \| 💬: [114](https://news.ycombinator.com/item?id=43570324) \| 🗓️ 2025-04-03
+| 🔥🔥: 264 \| 💬: [117](https://news.ycombinator.com/item?id=43570324) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -115,7 +115,7 @@ Steam Deck的卓越之处并非续航或性能，而在于其**开源哲学**。
 <small>🔗 [newyorker.com](https://www.newyorker.com/news/q-and-a/a-university-president-makes-a-case-against-cowardice): A university president makes a case against cowardice</small>
 
 
-| 🔥🔥: 191 \| 💬: [223](https://news.ycombinator.com/item?id=43568655) \| 🗓️ 2025-04-03
+| 🔥🔥: 204 \| 💬: [242](https://news.ycombinator.com/item?id=43568655) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -127,7 +127,7 @@ Steam Deck的卓越之处并非续航或性能，而在于其**开源哲学**。
 <small>🔗 [manuel.kiessling.net](https://manuel.kiessling.net/2025/03/31/how-seasoned-developers-can-achieve-great-results-with-ai-coding-agents/): Senior Developer Skills in the AI Age</small>
 
 
-| 🔥🔥: 144 \| 💬: [102](https://news.ycombinator.com/item?id=43573755) \| 🗓️ 2025-04-03
+| 🔥🔥: 174 \| 💬: [115](https://news.ycombinator.com/item?id=43573755) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -148,23 +148,11 @@ Steam Deck的卓越之处并非续航或性能，而在于其**开源哲学**。
 
 ---
 
-## <a name="10"></a>10. InitWare：一个可在BSD与Linux上运行的便携式systemd分支 
-<small>🔗 [github.com](https://github.com/InitWare/InitWare): InitWare, a portable systemd fork running on BSDs and Linux</small>
-
-
-| 🔥🔥: 139 \| 💬: [76](https://news.ycombinator.com/item?id=43568503) \| 🗓️ 2025-04-03
-
-
-<br />
-InitWare是一套**中间件套件**，核心为服务管理系统（init），通过**单元（units）**管理服务和系统资源。它源自systemd的分支，但更注重**跨平台性**（支持NetBSD、FreeBSD、Linux等）和模块化设计，同时兼容部分systemd接口（如单元文件、D-Bus API）。当前处于Alpha阶段，但已修复已知安全问题，可作为辅助服务管理器运行。提供日志聚合、用户会话管理等功能，采用LGPL-2.1许可。
-
----
-
-## <a name="11"></a>11. AI正在侵蚀OSINT中的批判性思维 
+## <a name="10"></a>10. AI正在侵蚀OSINT中的批判性思维 
 <small>🔗 [dutchosintguy.com](https://www.dutchosintguy.com/post/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai): The Slow Collapse of Critical Thinking in OSINT Due to AI</small>
 
 
-| 🔥🔥: 124 \| 💬: [63](https://news.ycombinator.com/item?id=43573465) \| 🗓️ 2025-04-03
+| 🔥🔥: 153 \| 💬: [81](https://news.ycombinator.com/item?id=43573465) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -172,11 +160,23 @@ InitWare是一套**中间件套件**，核心为服务管理系统（init），�
 
 ---
 
+## <a name="11"></a>11. InitWare：一个可在BSD与Linux上运行的便携式systemd分支 
+<small>🔗 [github.com](https://github.com/InitWare/InitWare): InitWare, a portable systemd fork running on BSDs and Linux</small>
+
+
+| 🔥🔥: 141 \| 💬: [78](https://news.ycombinator.com/item?id=43568503) \| 🗓️ 2025-04-03
+
+
+<br />
+InitWare是一套**中间件套件**，核心为服务管理系统（init），通过**单元（units）**管理服务和系统资源。它源自systemd的分支，但更注重**跨平台性**（支持NetBSD、FreeBSD、Linux等）和模块化设计，同时兼容部分systemd接口（如单元文件、D-Bus API）。当前处于Alpha阶段，但已修复已知安全问题，可作为辅助服务管理器运行。提供日志聚合、用户会话管理等功能，采用LGPL-2.1许可。
+
+---
+
 ## <a name="12"></a>12. AI作弊：为何你没发现队友开挂 
 <small>🔗 [niila.fi](https://niila.fi/en/ai-cheats/): AI cheats: Why you didn't notice your teammate was cheating</small>
 
 
-| 🔥: 97 \| 💬: [79](https://news.ycombinator.com/item?id=43574929) \| 🗓️ 2025-04-03
+| 🔥🔥: 105 \| 💬: [88](https://news.ycombinator.com/item?id=43574929) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -184,23 +184,11 @@ InitWare是一套**中间件套件**，核心为服务管理系统（init），�
 
 ---
 
-## <a name="13"></a>13. C3编程语言：C语言的现代化演进 
-<small>🔗 [github.com](https://github.com/c3lang/c3c): Show HN: The C3 programming language (C alternative language)</small>
-
-
-| 🔥: 92 \| 💬: [57](https://news.ycombinator.com/item?id=43569724) \| 🗓️ 2025-04-03
-
-
-<br />
-C3是一种基于C语言语法和语义的**新编程语言**，旨在保留C的熟悉感同时引入现代特性。它强调**ABI兼容性**，可与C代码无缝混合，并提供了模块化、泛型、零开销错误处理等改进。当前稳定版本为0.7.0，支持Windows、Linux和MacOS等多平台。预编译二进制和详细手册可在[c3-lang.org](https://c3-lang.org)获取。示例代码展示了其**泛型模块**和简洁语法，适合C开发者快速上手。
-
----
-
-## <a name="14"></a>14. GitMCP：为任意GitHub仓库自动生成MCP服务器的工具 
+## <a name="13"></a>13. GitMCP：为任意GitHub仓库自动生成MCP服务器的工具 
 <small>🔗 [gitmcp.io](https://gitmcp.io/): Show HN: GitMCP is an automatic MCP server for every GitHub repo</small>
 
 
-| 🔥: 92 \| 💬: [30](https://news.ycombinator.com/item?id=43573539) \| 🗓️ 2025-04-03
+| 🔥: 100 \| 💬: [31](https://news.ycombinator.com/item?id=43573539) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -208,11 +196,23 @@ GitMCP能将任何GitHub仓库或GitHub Pages站点**即时转换**为专用的*
 
 ---
 
+## <a name="14"></a>14. C3编程语言：C语言的现代化演进 
+<small>🔗 [github.com](https://github.com/c3lang/c3c): Show HN: The C3 programming language (C alternative language)</small>
+
+
+| 🔥: 94 \| 💬: [58](https://news.ycombinator.com/item?id=43569724) \| 🗓️ 2025-04-03
+
+
+<br />
+C3是一种基于C语言语法和语义的**新编程语言**，旨在保留C的熟悉感同时引入现代特性。它强调**ABI兼容性**，可与C代码无缝混合，并提供了模块化、泛型、零开销错误处理等改进。当前稳定版本为0.7.0，支持Windows、Linux和MacOS等多平台。预编译二进制和详细手册可在[c3-lang.org](https://c3-lang.org)获取。示例代码展示了其**泛型模块**和简洁语法，适合C开发者快速上手。
+
+---
+
 ## <a name="15"></a>15. Rust开发的终端TLS代理工具：Zxc，替代BurpSuite的轻量方案 
 <small>🔗 [github.com](https://github.com/hail-hydrant/zxc): Show HN: Zxc – Rust TLS proxy with tmux and Vim as UI, BurpSuite alternative</small>
 
 
-| 🔥: 86 \| 💬: [13](https://news.ycombinator.com/item?id=43568771) \| 🗓️ 2025-04-03
+| 🔥: 87 \| 💬: [13](https://news.ycombinator.com/item?id=43568771) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -224,7 +224,7 @@ Zxc是一款基于**Rust语言**开发的终端拦截代理工具，采用**tmux
 <small>🔗 [marieclaire.com](https://www.marieclaire.com/fashion/recession-2025-fashion-indicators/): 2025 Recession Indicators Hit Fashion and Wall Street at Once</small>
 
 
-| 🔥: 81 \| 💬: [145](https://news.ycombinator.com/item?id=43573488) \| 🗓️ 2025-04-03
+| 🔥: 82 \| 💬: [145](https://news.ycombinator.com/item?id=43573488) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -236,7 +236,7 @@ Zxc是一款基于**Rust语言**开发的终端拦截代理工具，采用**tmux
 <small>🔗 [renehersecycles.com](https://www.renehersecycles.com/bikes-in-the-age-of-tariffs/): Bikes in the age of tariffs</small>
 
 
-| 🔥: 78 \| 💬: [85](https://news.ycombinator.com/item?id=43572820) \| 🗓️ 2025-04-03
+| 🔥: 78 \| 💬: [88](https://news.ycombinator.com/item?id=43572820) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -248,7 +248,7 @@ Zxc是一款基于**Rust语言**开发的终端拦截代理工具，采用**tmux
 <small>🔗 [simon-frey.com](https://simon-frey.com/tabsub/): Show HN: Offline JavaScript PubSub between browser tabs</small>
 
 
-| 🔥: 74 \| 💬: [30](https://news.ycombinator.com/item?id=43569961) \| 🗓️ 2025-04-03
+| 🔥: 75 \| 💬: [30](https://news.ycombinator.com/item?id=43569961) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -260,7 +260,31 @@ TabSub是一个基于**本地存储**的JavaScript发布/订阅库，可实现**
 
 ---
 
-## <a name="19"></a>19. 太空垃圾：一场迫在眉睫的危机？ 
+## <a name="19"></a>19. Hatchet v1：基于Postgres构建的任务编排平台 
+<small>🔗 [github.com](https://github.com/hatchet-dev/hatchet): Show HN: Hatchet v1 – A task orchestration platform built on Postgres</small>
+
+
+| 🔥: 66 \| 💬: [22](https://news.ycombinator.com/item?id=43572733) \| 🗓️ 2025-04-03
+
+
+<br />
+Hatchet是一个**分布式任务编排平台**，专为后台任务设计，基于Postgres实现。它提供**任务队列**、**工作流编排**（支持DAG和持久化任务）、**流量控制**（并发与限速）及实时监控功能，支持Python、TypeScript和Go。适用于复杂任务拆分、错误重试和事件驱动场景，简化了传统Redis/RabbitMQ队列的运维复杂度。
+
+---
+
+## <a name="20"></a>20. 3000只猴子在打字机上创作 
+<small>🔗 [monkeys.zip](https://monkeys.zip/): Show HN: Monkeys.zip – 3000 Monkeys on Typewriters</small>
+
+
+| 🔥: 64 \| 💬: [20](https://news.ycombinator.com/item?id=43573299) \| 🗓️ 2025-04-03
+
+
+<br />
+该项目展示了一个名为`monkeys.zip`的趣味实验，模拟**3000只猴子**在打字机上随机敲击，试图通过概率生成有意义的文本。核心概念源自“无限猴子定理”，即**足够时间和随机性**可能产生任何作品。目前状态显示“加载中…”，暗示可能包含动态生成内容或互动元素。项目以幽默方式探讨**概率与创造力**的边界，吸引技术爱好者参与讨论。
+
+---
+
+## <a name="21"></a>21. 太空垃圾：一场迫在眉睫的危机？ 
 <small>🔗 [esa.int](https://www.esa.int/Space_Safety/Space_Debris): Space Debris: Is It a Crisis?</small>
 
 
@@ -272,23 +296,11 @@ TabSub是一个基于**本地存储**的JavaScript发布/订阅库，可实现**
 
 ---
 
-## <a name="20"></a>20. Hatchet v1：基于Postgres构建的任务编排平台 
-<small>🔗 [github.com](https://github.com/hatchet-dev/hatchet): Show HN: Hatchet v1 – A task orchestration platform built on Postgres</small>
-
-
-| 🔥: 59 \| 💬: [20](https://news.ycombinator.com/item?id=43572733) \| 🗓️ 2025-04-03
-
-
-<br />
-Hatchet是一个**分布式任务编排平台**，专为后台任务设计，基于Postgres实现。它提供**任务队列**、**工作流编排**（支持DAG和持久化任务）、**流量控制**（并发与限速）及实时监控功能，支持Python、TypeScript和Go。适用于复杂任务拆分、错误重试和事件驱动场景，简化了传统Redis/RabbitMQ队列的运维复杂度。
-
----
-
-## <a name="21"></a>21. 声明式数据库架构：简化复杂数据库管理 
+## <a name="22"></a>22. 声明式数据库架构：简化复杂数据库管理 
 <small>🔗 [supabase.com](https://supabase.com/blog/declarative-schemas): Declarative Schemas for simpler database management</small>
 
 
-| 🔥: 57 \| 💬: [47](https://news.ycombinator.com/item?id=43572544) \| 🗓️ 2025-04-03
+| 🔥: 58 \| 💬: [47](https://news.ycombinator.com/item?id=43572544) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -296,7 +308,7 @@ Supabase推出**声明式架构**功能，通过集中化的`.sql`文件定义�
 
 ---
 
-## <a name="22"></a>22. Tenstorrent在开发者大会上发布Blackhole™系列新品 
+## <a name="23"></a>23. Tenstorrent在开发者大会上发布Blackhole™系列新品 
 <small>🔗 [tenstorrent.com](https://tenstorrent.com/vision/tenstorrent-launches-blackhole-developer-products-at-tenstorrent-dev-day): Tenstorrent Launches Blackhole Developer Products at Tenstorrent Dev Day</small>
 
 
