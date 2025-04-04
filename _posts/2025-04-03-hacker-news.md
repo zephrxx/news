@@ -27,7 +27,7 @@ tags:
 <small>🔗 [animejs.com](https://animejs.com/): AnimeJs v4 Is Here</small>
 
 
-| 🔥🔥: 585 \| 💬: [76](https://news.ycombinator.com/item?id=43570533) \| 🗓️ 2025-04-03
+| 🔥🔥: 601 \| 💬: [78](https://news.ycombinator.com/item?id=43570533) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -39,7 +39,7 @@ Anime.js 是一款**全能动画引擎**，通过简洁强大的API实现网页�
 <small>🔗 [theaiunderwriter.substack.com](https://theaiunderwriter.substack.com/p/an-image-of-an-archeologist-adventurer): An image of an archeologist adventurer who wears a hat and uses a bullwhip</small>
 
 
-| 🔥🔥: 535 \| 💬: [380](https://news.ycombinator.com/item?id=43573156) \| 🗓️ 2025-04-03
+| 🔥🔥: 571 \| 💬: [404](https://news.ycombinator.com/item?id=43573156) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -51,7 +51,7 @@ Anime.js 是一款**全能动画引擎**，通过简洁强大的API实现网页�
 <small>🔗 [ai-2027.com](https://ai-2027.com/): AI 2027</small>
 
 
-| 🔥🔥: 339 \| 💬: [245](https://news.ycombinator.com/item?id=43571851) \| 🗓️ 2025-04-03
+| 🔥🔥: 370 \| 💬: [254](https://news.ycombinator.com/item?id=43571851) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -63,7 +63,7 @@ Anime.js 是一款**全能动画引擎**，通过简洁强大的API实现网页�
 <small>🔗 [github.com](https://github.com/lwthiker/curl-impersonate): Curl-impersonate: Special build of curl that can impersonate the major browsers</small>
 
 
-| 🔥🔥: 290 \| 💬: [71](https://news.ycombinator.com/item?id=43571099) \| 🗓️ 2025-04-03
+| 🔥🔥: 304 \| 💬: [72](https://news.ycombinator.com/item?id=43571099) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -79,7 +79,7 @@ curl-impersonate 是 curl 的特殊构建版本，可**伪装成 Chrome、Edge�
 <small>🔗 [opennutrition.app](https://www.opennutrition.app/search): Show HN: OpenNutrition – A free, public nutrition database</small>
 
 
-| 🔥🔥: 276 \| 💬: [139](https://news.ycombinator.com/item?id=43569190) \| 🗓️ 2025-04-03
+| 🔥🔥: 278 \| 💬: [140](https://news.ycombinator.com/item?id=43569190) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -91,7 +91,7 @@ OpenNutrition是一款**免费公开**的营养数据库，提供即时食物营
 <small>🔗 [isomorphism.xyz](https://isomorphism.xyz/blog/2024/steam-deck/): The Steam Deck is software-freedom friendly</small>
 
 
-| 🔥🔥: 273 \| 💬: [226](https://news.ycombinator.com/item?id=43567923) \| 🗓️ 2025-04-03
+| 🔥🔥: 274 \| 💬: [227](https://news.ycombinator.com/item?id=43567923) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -103,7 +103,7 @@ Steam Deck的卓越之处并非续航或性能，而在于其**开源哲学**。
 <small>🔗 [thirty-five.com](https://thirty-five.com/overengineered-anchoring): Overengineered Anchor Links</small>
 
 
-| 🔥🔥: 264 \| 💬: [117](https://news.ycombinator.com/item?id=43570324) \| 🗓️ 2025-04-03
+| 🔥🔥: 274 \| 💬: [118](https://news.ycombinator.com/item?id=43570324) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -115,7 +115,7 @@ Steam Deck的卓越之处并非续航或性能，而在于其**开源哲学**。
 <small>🔗 [newyorker.com](https://www.newyorker.com/news/q-and-a/a-university-president-makes-a-case-against-cowardice): A university president makes a case against cowardice</small>
 
 
-| 🔥🔥: 204 \| 💬: [242](https://news.ycombinator.com/item?id=43568655) \| 🗓️ 2025-04-03
+| 🔥🔥: 218 \| 💬: [253](https://news.ycombinator.com/item?id=43568655) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -127,7 +127,7 @@ Steam Deck的卓越之处并非续航或性能，而在于其**开源哲学**。
 <small>🔗 [manuel.kiessling.net](https://manuel.kiessling.net/2025/03/31/how-seasoned-developers-can-achieve-great-results-with-ai-coding-agents/): Senior Developer Skills in the AI Age</small>
 
 
-| 🔥🔥: 174 \| 💬: [115](https://news.ycombinator.com/item?id=43573755) \| 🗓️ 2025-04-03
+| 🔥🔥: 193 \| 💬: [127](https://news.ycombinator.com/item?id=43573755) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -152,7 +152,7 @@ Steam Deck的卓越之处并非续航或性能，而在于其**开源哲学**。
 <small>🔗 [dutchosintguy.com](https://www.dutchosintguy.com/post/the-slow-collapse-of-critical-thinking-in-osint-due-to-ai): The Slow Collapse of Critical Thinking in OSINT Due to AI</small>
 
 
-| 🔥🔥: 153 \| 💬: [81](https://news.ycombinator.com/item?id=43573465) \| 🗓️ 2025-04-03
+| 🔥🔥: 177 \| 💬: [97](https://news.ycombinator.com/item?id=43573465) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -164,7 +164,7 @@ Steam Deck的卓越之处并非续航或性能，而在于其**开源哲学**。
 <small>🔗 [github.com](https://github.com/InitWare/InitWare): InitWare, a portable systemd fork running on BSDs and Linux</small>
 
 
-| 🔥🔥: 141 \| 💬: [78](https://news.ycombinator.com/item?id=43568503) \| 🗓️ 2025-04-03
+| 🔥🔥: 144 \| 💬: [79](https://news.ycombinator.com/item?id=43568503) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -176,7 +176,7 @@ InitWare是一套**中间件套件**，核心为服务管理系统（init），�
 <small>🔗 [niila.fi](https://niila.fi/en/ai-cheats/): AI cheats: Why you didn't notice your teammate was cheating</small>
 
 
-| 🔥🔥: 105 \| 💬: [88](https://news.ycombinator.com/item?id=43574929) \| 🗓️ 2025-04-03
+| 🔥🔥: 109 \| 💬: [94](https://news.ycombinator.com/item?id=43574929) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -188,7 +188,7 @@ InitWare是一套**中间件套件**，核心为服务管理系统（init），�
 <small>🔗 [gitmcp.io](https://gitmcp.io/): Show HN: GitMCP is an automatic MCP server for every GitHub repo</small>
 
 
-| 🔥: 100 \| 💬: [31](https://news.ycombinator.com/item?id=43573539) \| 🗓️ 2025-04-03
+| 🔥🔥: 107 \| 💬: [32](https://news.ycombinator.com/item?id=43573539) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -200,7 +200,7 @@ GitMCP能将任何GitHub仓库或GitHub Pages站点**即时转换**为专用的*
 <small>🔗 [github.com](https://github.com/c3lang/c3c): Show HN: The C3 programming language (C alternative language)</small>
 
 
-| 🔥: 94 \| 💬: [58](https://news.ycombinator.com/item?id=43569724) \| 🗓️ 2025-04-03
+| 🔥: 95 \| 💬: [59](https://news.ycombinator.com/item?id=43569724) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -212,7 +212,7 @@ C3是一种基于C语言语法和语义的**新编程语言**，旨在保留C的
 <small>🔗 [github.com](https://github.com/hail-hydrant/zxc): Show HN: Zxc – Rust TLS proxy with tmux and Vim as UI, BurpSuite alternative</small>
 
 
-| 🔥: 87 \| 💬: [13](https://news.ycombinator.com/item?id=43568771) \| 🗓️ 2025-04-03
+| 🔥: 90 \| 💬: [13](https://news.ycombinator.com/item?id=43568771) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -224,7 +224,7 @@ Zxc是一款基于**Rust语言**开发的终端拦截代理工具，采用**tmux
 <small>🔗 [marieclaire.com](https://www.marieclaire.com/fashion/recession-2025-fashion-indicators/): 2025 Recession Indicators Hit Fashion and Wall Street at Once</small>
 
 
-| 🔥: 82 \| 💬: [145](https://news.ycombinator.com/item?id=43573488) \| 🗓️ 2025-04-03
+| 🔥: 82 \| 💬: [146](https://news.ycombinator.com/item?id=43573488) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -236,7 +236,7 @@ Zxc是一款基于**Rust语言**开发的终端拦截代理工具，采用**tmux
 <small>🔗 [renehersecycles.com](https://www.renehersecycles.com/bikes-in-the-age-of-tariffs/): Bikes in the age of tariffs</small>
 
 
-| 🔥: 78 \| 💬: [88](https://news.ycombinator.com/item?id=43572820) \| 🗓️ 2025-04-03
+| 🔥: 79 \| 💬: [90](https://news.ycombinator.com/item?id=43572820) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -264,7 +264,7 @@ TabSub是一个基于**本地存储**的JavaScript发布/订阅库，可实现**
 <small>🔗 [github.com](https://github.com/hatchet-dev/hatchet): Show HN: Hatchet v1 – A task orchestration platform built on Postgres</small>
 
 
-| 🔥: 66 \| 💬: [22](https://news.ycombinator.com/item?id=43572733) \| 🗓️ 2025-04-03
+| 🔥: 74 \| 💬: [23](https://news.ycombinator.com/item?id=43572733) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -276,7 +276,7 @@ Hatchet是一个**分布式任务编排平台**，专为后台任务设计，基
 <small>🔗 [monkeys.zip](https://monkeys.zip/): Show HN: Monkeys.zip – 3000 Monkeys on Typewriters</small>
 
 
-| 🔥: 64 \| 💬: [20](https://news.ycombinator.com/item?id=43573299) \| 🗓️ 2025-04-03
+| 🔥: 69 \| 💬: [24](https://news.ycombinator.com/item?id=43573299) \| 🗓️ 2025-04-03
 
 
 <br />
@@ -300,7 +300,7 @@ Hatchet是一个**分布式任务编排平台**，专为后台任务设计，基
 <small>🔗 [supabase.com](https://supabase.com/blog/declarative-schemas): Declarative Schemas for simpler database management</small>
 
 
-| 🔥: 58 \| 💬: [47](https://news.ycombinator.com/item?id=43572544) \| 🗓️ 2025-04-03
+| 🔥: 58 \| 💬: [48](https://news.ycombinator.com/item?id=43572544) \| 🗓️ 2025-04-03
 
 
 <br />
