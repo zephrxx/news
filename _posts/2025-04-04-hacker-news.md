@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共16条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [paulrobertlloyd.com](https://paulrobertlloyd.com/2025/087/a1/bored/): Bored of It</small>
 
 
-| 🔥🔥: 523 \| 💬: [434](https://news.ycombinator.com/item?id=43580449) \| 🗓️ 2025-04-04
+| 🔥🔥: 527 \| 💬: [434](https://news.ycombinator.com/item?id=43580449) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/antiwork/gumroad): Gumroad’s source is available</small>
 
 
-| 🔥🔥: 400 \| 💬: [174](https://news.ycombinator.com/item?id=43580103) \| 🗓️ 2025-04-04
+| 🔥🔥: 413 \| 💬: [180](https://news.ycombinator.com/item?id=43580103) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [thenewstack.io](https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/): Nvidia adds native Python support to CUDA</small>
 
 
-| 🔥🔥: 341 \| 💬: [136](https://news.ycombinator.com/item?id=43581584) \| 🗓️ 2025-04-04
+| 🔥🔥: 361 \| 💬: [145](https://news.ycombinator.com/item?id=43581584) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [martinrobbins.substack.com](https://martinrobbins.substack.com/p/von-6-why-does-britain-feel-so-poor): Why does Britain feel so poor?</small>
 
 
-| 🔥🔥: 175 \| 💬: [319](https://news.ycombinator.com/item?id=43581672) \| 🗓️ 2025-04-04
+| 🔥🔥: 176 \| 💬: [324](https://news.ycombinator.com/item?id=43581672) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/04/04/business/china-trump-tariffs-retaliation.html): Trump's Trade War Escalates as China Retaliates with 34% Tariffs</small>
 
 
-| 🔥🔥: 163 \| 💬: [187](https://news.ycombinator.com/item?id=43580906) \| 🗓️ 2025-04-04
+| 🔥🔥: 165 \| 💬: [193](https://news.ycombinator.com/item?id=43580906) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [faculty.washington.edu](https://faculty.washington.edu/ss1110/IF/Buffett%20Fortune%202003%20(6).pdf): Growing trade deficit is selling the nation out from under us (2003) [pdf]</small>
 
 
-| 🔥🔥: 149 \| 💬: [174](https://news.ycombinator.com/item?id=43579908) \| 🗓️ 2025-04-04
+| 🔥🔥: 150 \| 💬: [176](https://news.ycombinator.com/item?id=43579908) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/04/i-no-longer-hack-paypals-doge-staffers-hacker-past-raises-red-flags/): Doge staffer's YouTube nickname accidentally revealed his teen hacking activity</small>
 
 
-| 🔥🔥: 138 \| 💬: [163](https://news.ycombinator.com/item?id=43579925) \| 🗓️ 2025-04-04
+| 🔥🔥: 138 \| 💬: [165](https://news.ycombinator.com/item?id=43579925) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -107,11 +107,23 @@ tags:
 
 ---
 
-## <a name="8"></a>8. 鲸油神话破灭：煤油并未拯救抹香鲸 
+## <a name="8"></a>8. 美股暴跌：道指狂泻2200点，纳斯达克跌入熊市 
+<small>🔗 [finance.yahoo.com](https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-2200-points-nasdaq-enters-bear-market-as-trump-tariffs-spark-worst-meltdown-since-2020-200042876.html): Dow plunges 2,200 points, Nasdaq enters bear market</small>
+
+
+| 🔥🔥: 131 \| 💬: [94](https://news.ycombinator.com/item?id=43587479) \| 🗓️ 2025-04-04
+
+
+<br />
+受**中美贸易战升级**影响，美股周五遭遇重创。**道琼斯指数暴跌5.5%**（2200点），标普500指数下跌近6%，**纳斯达克指数跌入熊市**（跌幅5.8%）。中国宣布对美加征34%关税反击特朗普政策，引发市场对**全球经济衰退**的担忧。美联储主席鲍威尔警告关税或导致通胀持续高企，投资者转向国债避险。科技股（如特斯拉、英伟达）领跌，能源和金融板块亦大幅下挫。
+
+---
+
+## <a name="9"></a>9. 鲸油神话破灭：煤油并未拯救抹香鲸 
 <small>🔗 [edconway.substack.com](https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm): Kerosene did not save the sperm whale (2024)</small>
 
 
-| 🔥🔥: 119 \| 💬: [38](https://news.ycombinator.com/item?id=43584303) \| 🗓️ 2025-04-04
+| 🔥🔥: 130 \| 💬: [42](https://news.ycombinator.com/item?id=43584303) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -119,11 +131,11 @@ tags:
 
 ---
 
-## <a name="9"></a>9. Gumroad的许可证不符合公认的开源定义 
+## <a name="10"></a>10. Gumroad的许可证不符合公认的开源定义 
 <small>🔗 [danb.me](https://danb.me/blog/gumroad-is-not-open-source/): Gumroad’s license wouldn’t meet the widely regarded definition of open source</small>
 
 
-| 🔥🔥: 107 \| 💬: [35](https://news.ycombinator.com/item?id=43586107) \| 🗓️ 2025-04-04
+| 🔥🔥: 111 \| 💬: [36](https://news.ycombinator.com/item?id=43586107) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -131,7 +143,19 @@ tags:
 
 ---
 
-## <a name="10"></a>10. 美国富人死亡率与欧洲穷人相当 
+## <a name="11"></a>11. 《Sierra的终结：收购始末》 
+<small>🔗 [filfre.net](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/): The End of Sierra as We Knew It, Part 1: The Acquisition</small>
+
+
+| 🔥🔥: 109 \| 💬: [38](https://news.ycombinator.com/item?id=43586157) \| 🗓️ 2025-04-04
+
+
+<br />
+1996年，**Sierra On-Line**正值巅峰，却意外被名不见经传的**CUC国际**以10.6亿美元收购。CUC由精明的CEO **Walter Forbes**领导，主营线下购物俱乐部和会员服务，商业模式游走于灰色地带。尽管Forbes早年构想类似亚马逊的电商模式，但CUC长期依赖电话推销和自动续费盈利。Ken Williams因疲惫接受了收购，但其妻子Roberta Williams对此深感不安。这场交易最终揭开了Sierra衰落的序幕。
+
+---
+
+## <a name="12"></a>12. 美国富人死亡率与欧洲穷人相当 
 <small>🔗 [arstechnica.com](https://arstechnica.com/health/2025/04/wealthy-americans-have-death-rates-on-par-with-poor-europeans/): Wealthy Americans have death rates on par with poor Europeans</small>
 
 
@@ -143,11 +167,11 @@ tags:
 
 ---
 
-## <a name="11"></a>11. 道指再跌千点 纳斯达克逼近熊市 
+## <a name="13"></a>13. 道指再跌千点 纳斯达克逼近熊市 
 <small>🔗 [barrons.com](https://www.barrons.com/livecoverage/stock-market-today-040425): Dow Slides Another 1k Points. Nasdaq on Pace to Enter Bear Market</small>
 
 
-| 🔥: 95 \| 💬: [84](https://news.ycombinator.com/item?id=43582292) \| 🗓️ 2025-04-04
+| 🔥: 98 \| 💬: [87](https://news.ycombinator.com/item?id=43582292) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -155,47 +179,11 @@ tags:
 
 ---
 
-## <a name="12"></a>12. 美国国家海洋和大气管理局气象网站将停用亚马逊、谷歌云服务 
-<small>🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-04-04/us-weather-agency-websites-to-vanish-under-planned-contract-cuts): NOAA Weather will delete websites using Amazon, Google cloud services Saturday</small>
-
-
-| 🔥: 92 \| 💬: [90](https://news.ycombinator.com/item?id=43581714) \| 🗓️ 2025-04-04
-
-
-<br />
-检测到您的网络存在异常活动，请点击验证框确认非机器人操作。此问题可能因**浏览器禁用JavaScript或Cookie**导致，需调整设置或参考平台**《服务条款》**及**《Cookie政策》**。如需帮助，请联系支持团队并提供参考ID。订阅Bloomberg.com可获取全球市场重要资讯。
-
----
-
-## <a name="13"></a>13. 澳大利亚最大养老基金遭黑客协同攻击 
-<small>🔗 [reuters.com](https://www.reuters.com/technology/cybersecurity/multiple-australian-pension-funds-hit-by-coordinated-hacking-media-reports-say-2025-04-04/): Hackers strike Australia's largest pension funds in coordinated attacks</small>
-
-
-| 🔥: 88 \| 💬: [37](https://news.ycombinator.com/item?id=43580101) \| 🗓️ 2025-04-04
-
-
-<br />
-澳大利亚多家**大型养老基金**近期遭遇**协同网络攻击**，黑客试图窃取敏感数据。尽管部分系统受影响，但官方表示客户资金未受威胁。事件凸显**金融基础设施**的网络安全风险，相关部门已展开调查并加强防护措施。
-
----
-
-## <a name="14"></a>14. 美国多个电动汽车及电池工厂项目被取消 
-<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/climate-environment/2025/04/03/ev-factories-canceled/): A number of electric vehicle, battery factories are being canceled</small>
-
-
-| 🔥: 87 \| 💬: [199](https://news.ycombinator.com/item?id=43583249) \| 🗓️ 2025-04-04
-
-
-<br />
-过去几年，美国依托《通胀削减法案》的税收优惠，在共和党主导地区兴建了大量**电动汽车**及锂电池工厂，但近期多个项目被叫停。数据显示，2025年第一季度取消的项目数量超过前两年总和，包括佐治亚州10亿美元电池隔热材料工厂和亚利桑那州12亿美元锂电池厂。专家指出，**关税政策不明朗**、税收优惠可能被共和党新法案废除，以及市场需求疲软（美国EV渗透率仅10%-15%）是主因。部分企业转向中国或墨西哥生产，导致本土就业机会流失。普林斯顿大学预测，政策变动或使2030年EV销量下降40%。尽管白宫强调其经济计划将提振制造业，但行业普遍持观望态度，**清洁能源投资大幅放缓**。
-
----
-
-## <a name="15"></a>15. 安·兰德继承者的诅咒 
+## <a name="14"></a>14. 安·兰德继承者的诅咒 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/03/ayn-rand-peikoff-inheritance-battle/682219/): The Curse of Ayn Rand's Heir</small>
 
 
-| 🔥: 84 \| 💬: [169](https://news.ycombinator.com/item?id=43584663) \| 🗓️ 2025-04-04
+| 🔥: 93 \| 💬: [183](https://news.ycombinator.com/item?id=43584663) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -203,14 +191,134 @@ tags:
 
 ---
 
-## <a name="16"></a>16. 《Sierra的终结：收购始末》 
-<small>🔗 [filfre.net](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/): The End of Sierra as We Knew It, Part 1: The Acquisition</small>
+## <a name="15"></a>15. 美国国家海洋和大气管理局气象网站将停用亚马逊、谷歌云服务 
+<small>🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-04-04/us-weather-agency-websites-to-vanish-under-planned-contract-cuts): NOAA Weather will delete websites using Amazon, Google cloud services Saturday</small>
 
 
-| 🔥: 79 \| 💬: [28](https://news.ycombinator.com/item?id=43586157) \| 🗓️ 2025-04-04
+| 🔥: 92 \| 💬: [91](https://news.ycombinator.com/item?id=43581714) \| 🗓️ 2025-04-04
 
 
 <br />
-1996年，**Sierra On-Line**正值巅峰，却意外被名不见经传的**CUC国际**以10.6亿美元收购。CUC由精明的CEO **Walter Forbes**领导，主营线下购物俱乐部和会员服务，商业模式游走于灰色地带。尽管Forbes早年构想类似亚马逊的电商模式，但CUC长期依赖电话推销和自动续费盈利。Ken Williams因疲惫接受了收购，但其妻子Roberta Williams对此深感不安。这场交易最终揭开了Sierra衰落的序幕。
+检测到您的网络存在异常活动，请点击验证框确认非机器人操作。此问题可能因**浏览器禁用JavaScript或Cookie**导致，需调整设置或参考平台**《服务条款》**及**《Cookie政策》**。如需帮助，请联系支持团队并提供参考ID。订阅Bloomberg.com可获取全球市场重要资讯。
+
+---
+
+## <a name="16"></a>16. 澳大利亚最大养老基金遭黑客协同攻击 
+<small>🔗 [reuters.com](https://www.reuters.com/technology/cybersecurity/multiple-australian-pension-funds-hit-by-coordinated-hacking-media-reports-say-2025-04-04/): Hackers strike Australia's largest pension funds in coordinated attacks</small>
+
+
+| 🔥: 89 \| 💬: [38](https://news.ycombinator.com/item?id=43580101) \| 🗓️ 2025-04-04
+
+
+<br />
+澳大利亚多家**大型养老基金**近期遭遇**协同网络攻击**，黑客试图窃取敏感数据。尽管部分系统受影响，但官方表示客户资金未受威胁。事件凸显**金融基础设施**的网络安全风险，相关部门已展开调查并加强防护措施。
+
+---
+
+## <a name="17"></a>17. 美国多个电动汽车及电池工厂项目被取消 
+<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/climate-environment/2025/04/03/ev-factories-canceled/): A number of electric vehicle, battery factories are being canceled</small>
+
+
+| 🔥: 88 \| 💬: [202](https://news.ycombinator.com/item?id=43583249) \| 🗓️ 2025-04-04
+
+
+<br />
+过去几年，美国依托《通胀削减法案》的税收优惠，在共和党主导地区兴建了大量**电动汽车**及锂电池工厂，但近期多个项目被叫停。数据显示，2025年第一季度取消的项目数量超过前两年总和，包括佐治亚州10亿美元电池隔热材料工厂和亚利桑那州12亿美元锂电池厂。专家指出，**关税政策不明朗**、税收优惠可能被共和党新法案废除，以及市场需求疲软（美国EV渗透率仅10%-15%）是主因。部分企业转向中国或墨西哥生产，导致本土就业机会流失。普林斯顿大学预测，政策变动或使2030年EV销量下降40%。尽管白宫强调其经济计划将提振制造业，但行业普遍持观望态度，**清洁能源投资大幅放缓**。
+
+---
+
+## <a name="18"></a>18. 仅用3块8引脚芯片打造的交互式Linux电脑 
+<small>🔗 [dmitry.gr](https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux): An interactive-speed Linux computer made of only 3 8-pin chips</small>
+
+
+| 🔥: 86 \| 💬: [30](https://news.ycombinator.com/item?id=43586654) \| 🗓️ 2025-04-04
+
+
+<br />
+该项目通过仅使用**3个8引脚芯片**（包括STM32G031微控制器、8MB PSRAM和PL2303GL USB转串口芯片），构建了一台能流畅运行Debian Linux的微型计算机。设计挑战包括**引脚资源极度受限**（每芯片仅6个可用引脚），需巧妙复用UART和SPI接口连接SD卡与RAM。最终方案以**硬件SPI驱动RAM**，并通过低通滤波复用UART引脚控制SD卡，在8MB内存和1 MIPS算力下支持基础开发工具链（vi/gcc/make）。整机为圆形PCB，适合新手焊接，展现了极简硬件的可能性。
+
+---
+
+## <a name="19"></a>19. 我只想存储5TB视频 
+<small>🔗 [youtube.com](https://www.youtube.com/watch?v=3t6L-FlfeaI): I just want to serve 5 terabytes [video]</small>
+
+
+| 🔥: 76 \| 💬: [34](https://news.ycombinator.com/item?id=43580439) \| 🗓️ 2025-04-04
+
+
+<br />
+该视频内容似乎是一段损坏或加密的数据流，无法直接解析出有效信息。从标题推测，可能涉及**大容量视频存储**的技术挑战，或是开发者对**5TB存储需求**的解决方案探讨。视频格式异常可能暗示了**数据压缩**或编解码问题，也可能是故意设计的加密展示。建议检查视频文件的完整性或联系发布者获取技术背景说明。
+
+---
+
+## <a name="20"></a>20. 谷歌推出实验性网络安全模型Sec-Gemini v1 
+<small>🔗 [security.googleblog.com](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html): Google announces Sec-Gemini v1 a new experimental cybersecurity model</small>
+
+
+| 🔥: 76 \| 💬: [20](https://news.ycombinator.com/item?id=43586786) \| 🗓️ 2025-04-04
+
+
+<br />
+谷歌宣布推出**Sec-Gemini v1**，这是一款专注于网络安全的前沿AI实验模型。该模型结合了Gemini的先进能力与实时网络安全知识，旨在通过AI提升防御效率，帮助安全团队更快分析事件根源、评估威胁及漏洞影响。**Sec-Gemini v1**在多项基准测试中表现优异，例如在威胁情报（CTI-MCQ）和漏洞根因映射（CTI-RCM）任务上分别领先其他模型至少11%和10.5%。谷歌将免费向部分机构开放该模型，以推动网络安全领域的协作创新。
+
+---
+
+## <a name="21"></a>21. Mac版Numbers新增LAMBDA函数和MAP函数支持 
+<small>🔗 [support.apple.com](https://support.apple.com/guide/functions/map-ffa7bf25643c/web): Mac Numbers now supports LAMBDA functions and MAP</small>
+
+
+| 🔥: 72 \| 💬: [49](https://news.ycombinator.com/item?id=43581137) \| 🗓️ 2025-04-04
+
+
+<br />
+苹果表格软件Numbers现支持**LAMBDA函数**和**MAP函数**，允许用户通过自定义公式处理数组数据。**MAP函数**可将数组中的每个值通过LAMBDA定义的规则映射为新数组，例如对A1:C2区域每个元素平方（`=MAP(A1:C2, LAMBDA(element, element^2))`）。LAMBDA作为核心逻辑支持**动态计算**，需以计算式为最终参数。此更新扩展了Numbers的公式灵活性，适用于复杂数据转换场景。
+
+---
+
+## <a name="22"></a>22. 德国"全德通票"显著减少碳排放，但低收入群体仍难负担 
+<small>🔗 [dw.com](https://www.dw.com/en/germanys-deutschlandticket-helps-environment-study/a-72128647): Germany's 'Deutschlandticket' helps environment – study</small>
+
+
+| 🔥: 67 \| 💬: [35](https://news.ycombinator.com/item?id=43586182) \| 🗓️ 2025-04-04
+
+
+<br />
+研究表明，德国推出的**"全德通票"**（Deutschlandticket）每年可减少420万至650万吨二氧化碳排放，主要吸引了过去很少使用公共交通的**新用户**。该票允许无限次乘坐区域列车，替代汽车长途出行（约30公里），节省燃油和维护成本。但当前58欧元的价格对低收入群体仍较高，部分地区虽有折扣（如维尔茨堡仅15欧元），但近半数地区无补贴。福利协会呼吁推出**25欧元的"社会优惠票"**以保障公平性。
+
+---
+
+## <a name="23"></a>23. 微软将终止远程桌面应用，力推Windows App替代 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/03/11/microsoft_remote_desktop_support/): Microsoft will kill Remote Desktop soon, insists you'll love replacement</small>
+
+
+| 🔥: 50 \| 💬: [66](https://news.ycombinator.com/item?id=43580601) \| 🗓️ 2025-04-04
+
+
+<br />
+微软宣布将于2025年5月27日停止支持**远程桌面应用**，用户需迁移至**Windows App**。该应用整合了Windows 365、Azure虚拟桌面等服务，但被用户吐槽为“换壳重命名”。新应用支持多显示器、动态分辨率缩放，但暂不支持传统远程桌面连接方式，且需学校或工作账户登录。微软警告部分代理服务器环境可能不兼容，用户需在截止日期前完成迁移。
+
+---
+
+## <a name="24"></a>24. 2025年美国金融危机与2008年的本质差异 
+<small>🔗 [samhenrycliff.medium.com](https://samhenrycliff.medium.com/how-the-2025-us-financial-crisis-is-different-than-2008-5b63bdd06067): How the 2025 US Financial Crisis is Different than 2008</small>
+
+
+| 🔥: 49 \| 💬: [100](https://news.ycombinator.com/item?id=43584714) \| 🗓️ 2025-04-04
+
+
+<br />
+作者对比了两次危机：2008年因**金融衍生品**和全球杠杆引发，政府通过**救助大银行**和刺激计划（如TARP）缓解衰退，但未根治贪婪。2025年危机则源于**单边关税**和孤立政策，主动破坏全球信任与贸易体系，缺乏修复机制。**国际信用崩塌**和内部政治分裂使美国陷入长期困境，且无有效救援方案。与2008年不同，此次危机是自我制造且无退路的系统性瓦解。
+
+---
+
+## <a name="25"></a>25. CINC并非Chef官方产品 
+<small>🔗 [cinc.sh](https://cinc.sh/): CINC Is Not Chef</small>
+
+
+| 🔥: 48 \| 💬: [48](https://news.ycombinator.com/item?id=43585354) \| 🗓️ 2025-04-04
+
+
+<br />
+CINC是一个基于**Chef开源软件**构建的免费发行版，提供与Chef功能相似的工具链，包括**Cinc Client**（源自Chef Infra）、**Cinc Workstation**等组件，未来还将推出Cinc Packager。该项目独立于Chef公司，开发者可通过Slack频道#community-distros参与交流。
 
 ---
