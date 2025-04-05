@@ -12,7 +12,7 @@ tags:
 1. Gumroad开源代码库现已公开；
 1. 英伟达为CUDA增加原生Python支持；
 1. 特朗普关税重创美股 两日蒸发6.6万亿美元市值；
-1. 美股暴跌：道指狂泻2200点，纳斯达克跌入熊市；
+1. 优秀副业的禅意乐趣；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [paulrobertlloyd.com](https://paulrobertlloyd.com/2025/087/a1/bored/): Bored of It</small>
 
 
-| 🔥🔥: 535 \| 💬: [445](https://news.ycombinator.com/item?id=43580449) \| 🗓️ 2025-04-04
+| 🔥🔥: 536 \| 💬: [449](https://news.ycombinator.com/item?id=43580449) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/antiwork/gumroad): Gumroad’s source is available</small>
 
 
-| 🔥🔥: 445 \| 💬: [192](https://news.ycombinator.com/item?id=43580103) \| 🗓️ 2025-04-04
+| 🔥🔥: 451 \| 💬: [195](https://news.ycombinator.com/item?id=43580103) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [thenewstack.io](https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/): Nvidia adds native Python support to CUDA</small>
 
 
-| 🔥🔥: 412 \| 💬: [168](https://news.ycombinator.com/item?id=43581584) \| 🗓️ 2025-04-04
+| 🔥🔥: 414 \| 💬: [168](https://news.ycombinator.com/item?id=43581584) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [wsj.com](https://www.wsj.com/finance/stocks/u-s-stock-futures-fall-further-after-china-retaliates-against-trump-tariffs-3be33fa7): Trump's Tariffs Wipe Out over $6T on Wall Street in Epic Two-Day Rout</small>
 
 
-| 🔥🔥: 349 \| 💬: [499](https://news.ycombinator.com/item?id=43589231) \| 🗓️ 2025-04-04
+| 🔥🔥: 358 \| 💬: [524](https://news.ycombinator.com/item?id=43589231) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -71,7 +71,19 @@ tags:
 
 ---
 
-## <a name="5"></a>5. 美股暴跌：道指狂泻2200点，纳斯达克跌入熊市 
+## <a name="5"></a>5. 优秀副业的禅意乐趣 
+<small>🔗 [joshcollinsworth.com](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project): The blissful Zen of a good side project</small>
+
+
+| 🔥🔥: 246 \| 💬: [72](https://news.ycombinator.com/item?id=43587380) \| 🗓️ 2025-04-04
+
+
+<br />
+这篇看似乱码的内容实则探讨了**副业**带来的独特价值——它不仅是经济补充，更是**创造力释放**的出口。通过非正式项目，人们能摆脱主业压力，在**自由探索**中找到平衡与满足感。文中暗示，副业的真正魅力在于其不受限的试验性，让兴趣与技能自然融合。
+
+---
+
+## <a name="6"></a>6. 美股暴跌：道指狂泻2200点，纳斯达克跌入熊市 
 <small>🔗 [finance.yahoo.com](https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-2200-points-nasdaq-enters-bear-market-as-trump-tariffs-spark-worst-meltdown-since-2020-200042876.html): Dow plunges 2,200 points, Nasdaq enters bear market</small>
 
 
@@ -83,23 +95,11 @@ tags:
 
 ---
 
-## <a name="6"></a>6. 优秀副业的禅意乐趣 
-<small>🔗 [joshcollinsworth.com](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project): The blissful Zen of a good side project</small>
-
-
-| 🔥🔥: 225 \| 💬: [65](https://news.ycombinator.com/item?id=43587380) \| 🗓️ 2025-04-04
-
-
-<br />
-这篇看似乱码的内容实则探讨了**副业**带来的独特价值——它不仅是经济补充，更是**创造力释放**的出口。通过非正式项目，人们能摆脱主业压力，在**自由探索**中找到平衡与满足感。文中暗示，副业的真正魅力在于其不受限的试验性，让兴趣与技能自然融合。
-
----
-
 ## <a name="7"></a>7. 萨尔瓦多监狱的"司法黑洞"给美国人敲响警钟 
 <small>🔗 [rollingstone.com](https://www.rollingstone.com/politics/politics-features/el-salvador-prisons-warning-americans-trump-1235309721/): The 'Judicial Black Hole' of El Salvador's Prisons Is a Warning for Americans</small>
 
 
-| 🔥🔥: 225 \| 💬: [99](https://news.ycombinator.com/item?id=43588970) \| 🗓️ 2025-04-04
+| 🔥🔥: 233 \| 💬: [110](https://news.ycombinator.com/item?id=43588970) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [dmitry.gr](https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux): An interactive-speed Linux computer made of only 3 8-pin chips</small>
 
 
-| 🔥🔥: 221 \| 💬: [82](https://news.ycombinator.com/item?id=43586654) \| 🗓️ 2025-04-04
+| 🔥🔥: 229 \| 💬: [83](https://news.ycombinator.com/item?id=43586654) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -123,7 +123,7 @@ tags:
 <small>🔗 [filfre.net](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/): The End of Sierra as We Knew It, Part 1: The Acquisition</small>
 
 
-| 🔥🔥: 194 \| 💬: [67](https://news.ycombinator.com/item?id=43586157) \| 🗓️ 2025-04-04
+| 🔥🔥: 198 \| 💬: [70](https://news.ycombinator.com/item?id=43586157) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -135,7 +135,7 @@ tags:
 <small>🔗 [martinrobbins.substack.com](https://martinrobbins.substack.com/p/von-6-why-does-britain-feel-so-poor): Why does Britain feel so poor?</small>
 
 
-| 🔥🔥: 181 \| 💬: [339](https://news.ycombinator.com/item?id=43581672) \| 🗓️ 2025-04-04
+| 🔥🔥: 181 \| 💬: [340](https://news.ycombinator.com/item?id=43581672) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -147,7 +147,7 @@ tags:
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/04/04/business/china-trump-tariffs-retaliation.html): Trump's Trade War Escalates as China Retaliates with 34% Tariffs</small>
 
 
-| 🔥🔥: 169 \| 💬: [196](https://news.ycombinator.com/item?id=43580906) \| 🗓️ 2025-04-04
+| 🔥🔥: 170 \| 💬: [197](https://news.ycombinator.com/item?id=43580906) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -155,11 +155,23 @@ tags:
 
 ---
 
-## <a name="12"></a>12. 鲸油神话破灭：煤油并未拯救抹香鲸 
+## <a name="12"></a>12. 无需正式课程，轻松掌握电学与电子学基础 
+<small>🔗 [simonmonk.org](https://simonmonk.org/tyee7): Learn electricity and electronics fundamentals without taking a formal course</small>
+
+
+| 🔥🔥: 165 \| 💬: [42](https://news.ycombinator.com/item?id=43589776) \| 🗓️ 2025-04-04
+
+
+<br />
+这本全面更新的第七版指南提供**实用易懂**的电学与电子学教程，适合自学。书中通过**循序渐进**的讲解、丰富插图与实例，涵盖直流/交流电路、电阻、半导体、集成电路等核心内容，并新增微控制器（如Arduino）和现代电子设计应用。附在线测试帮助巩固知识，适合零基础快速入门。
+
+---
+
+## <a name="13"></a>13. 鲸油神话破灭：煤油并未拯救抹香鲸 
 <small>🔗 [edconway.substack.com](https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm): Kerosene did not save the sperm whale (2024)</small>
 
 
-| 🔥🔥: 157 \| 💬: [52](https://news.ycombinator.com/item?id=43584303) \| 🗓️ 2025-04-04
+| 🔥🔥: 161 \| 💬: [54](https://news.ycombinator.com/item?id=43584303) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -167,7 +179,7 @@ tags:
 
 ---
 
-## <a name="13"></a>13. 日益扩大的贸易逆差正在掏空国家根基（2003年） 
+## <a name="14"></a>14. 日益扩大的贸易逆差正在掏空国家根基（2003年） 
 <small>🔗 [faculty.washington.edu](https://faculty.washington.edu/ss1110/IF/Buffett%20Fortune%202003%20(6).pdf): Growing trade deficit is selling the nation out from under us (2003) [pdf]</small>
 
 
@@ -179,11 +191,23 @@ tags:
 
 ---
 
-## <a name="14"></a>14. 司法部高官被曝青少年时期黑客经历 
+## <a name="15"></a>15. 特朗普关税政策的经济逻辑漏洞与计算错误 
+<small>🔗 [aei.org](https://www.aei.org/economics/president-trumps-tariff-formula-makes-no-economic-sense-its-also-based-on-an-error/): Trump's Tariff Formula Makes No Economic Sense. It's Also Based on an Error</small>
+
+
+| 🔥🔥: 145 \| 💬: [61](https://news.ycombinator.com/item?id=43590421) \| 🗓️ 2025-04-04
+
+
+<br />
+这篇文章指出，**特朗普的关税政策**存在根本性缺陷。首先，其经济逻辑**违背基本贸易理论**，关税成本最终会转嫁给美国消费者和企业。更关键的是，政策依据的**计算模型存在严重错误**，高估了关税对贸易逆差的改善效果。作者通过数据分析表明，这种保护主义政策不仅无法实现宣称的目标，反而会**削弱美国经济竞争力**，并引发贸易伙伴的报复性措施。
+
+---
+
+## <a name="16"></a>16. 司法部高官被曝青少年时期黑客经历 
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/04/i-no-longer-hack-paypals-doge-staffers-hacker-past-raises-red-flags/): Doge staffer's YouTube nickname accidentally revealed his teen hacking activity</small>
 
 
-| 🔥🔥: 139 \| 💬: [168](https://news.ycombinator.com/item?id=43579925) \| 🗓️ 2025-04-04
+| 🔥🔥: 139 \| 💬: [169](https://news.ycombinator.com/item?id=43579925) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -191,11 +215,11 @@ tags:
 
 ---
 
-## <a name="15"></a>15. 谷歌推出实验性网络安全模型Sec-Gemini v1 
+## <a name="17"></a>17. 谷歌推出实验性网络安全模型Sec-Gemini v1 
 <small>🔗 [security.googleblog.com](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html): Google announces Sec-Gemini v1 a new experimental cybersecurity model</small>
 
 
-| 🔥🔥: 128 \| 💬: [33](https://news.ycombinator.com/item?id=43586786) \| 🗓️ 2025-04-04
+| 🔥🔥: 130 \| 💬: [33](https://news.ycombinator.com/item?id=43586786) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -203,7 +227,7 @@ tags:
 
 ---
 
-## <a name="16"></a>16. Gumroad的许可证不符合公认的开源定义 
+## <a name="18"></a>18. Gumroad的许可证不符合公认的开源定义 
 <small>🔗 [danb.me](https://danb.me/blog/gumroad-is-not-open-source/): Gumroad’s license wouldn’t meet the widely regarded definition of open source</small>
 
 
@@ -215,23 +239,11 @@ tags:
 
 ---
 
-## <a name="17"></a>17. 无需正式课程，轻松掌握电学与电子学基础 
-<small>🔗 [simonmonk.org](https://simonmonk.org/tyee7): Learn electricity and electronics fundamentals without taking a formal course</small>
-
-
-| 🔥🔥: 115 \| 💬: [27](https://news.ycombinator.com/item?id=43589776) \| 🗓️ 2025-04-04
-
-
-<br />
-这本全面更新的第七版指南提供**实用易懂**的电学与电子学教程，适合自学。书中通过**循序渐进**的讲解、丰富插图与实例，涵盖直流/交流电路、电阻、半导体、集成电路等核心内容，并新增微控制器（如Arduino）和现代电子设计应用。附在线测试帮助巩固知识，适合零基础快速入门。
-
----
-
-## <a name="18"></a>18. 美国富人死亡率与欧洲穷人相当 
+## <a name="19"></a>19. 美国富人死亡率与欧洲穷人相当 
 <small>🔗 [arstechnica.com](https://arstechnica.com/health/2025/04/wealthy-americans-have-death-rates-on-par-with-poor-europeans/): Wealthy Americans have death rates on par with poor Europeans</small>
 
 
-| 🔥🔥: 110 \| 💬: [76](https://news.ycombinator.com/item?id=43584156) \| 🗓️ 2025-04-04
+| 🔥🔥: 111 \| 💬: [77](https://news.ycombinator.com/item?id=43584156) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -239,11 +251,11 @@ tags:
 
 ---
 
-## <a name="19"></a>19. 安·兰德继承者的诅咒 
+## <a name="20"></a>20. 安·兰德继承者的诅咒 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/03/ayn-rand-peikoff-inheritance-battle/682219/): The Curse of Ayn Rand's Heir</small>
 
 
-| 🔥🔥: 110 \| 💬: [216](https://news.ycombinator.com/item?id=43584663) \| 🗓️ 2025-04-04
+| 🔥🔥: 110 \| 💬: [217](https://news.ycombinator.com/item?id=43584663) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -251,7 +263,7 @@ tags:
 
 ---
 
-## <a name="20"></a>20. 道指再跌千点 纳斯达克逼近熊市 
+## <a name="21"></a>21. 道指再跌千点 纳斯达克逼近熊市 
 <small>🔗 [barrons.com](https://www.barrons.com/livecoverage/stock-market-today-040425): Dow Slides Another 1k Points. Nasdaq on Pace to Enter Bear Market</small>
 
 
@@ -263,7 +275,7 @@ tags:
 
 ---
 
-## <a name="21"></a>21. 美国国家海洋和大气管理局气象网站将停用亚马逊、谷歌云服务 
+## <a name="22"></a>22. 美国国家海洋和大气管理局气象网站将停用亚马逊、谷歌云服务 
 <small>🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-04-04/us-weather-agency-websites-to-vanish-under-planned-contract-cuts): NOAA Weather will delete websites using Amazon, Google cloud services Saturday</small>
 
 
@@ -275,7 +287,19 @@ tags:
 
 ---
 
-## <a name="22"></a>22. 澳大利亚最大养老基金遭黑客协同攻击 
+## <a name="23"></a>23. Tcl编程语言全面指南（第2版） 
+<small>🔗 [magicsplat.com](https://www.magicsplat.com/ttpl/index.html): The Tcl Programming Language: A Comprehensive Guide (2nd Edition)</small>
+
+
+| 🔥: 94 \| 💬: [62](https://news.ycombinator.com/item?id=43586561) \| 🗓️ 2025-04-04
+
+
+<br />
+本书深入探讨了**Tcl脚本语言**的核心特性与应用，涵盖基础语法、高级功能及实际开发案例。重点解析了**动态类型系统**和**跨平台兼容性**，同时提供优化代码性能的实用技巧。适合从初学者到资深开发者的全阶段学习，是掌握**Tcl自动化与嵌入式开发**的权威参考。
+
+---
+
+## <a name="24"></a>24. 澳大利亚最大养老基金遭黑客协同攻击 
 <small>🔗 [reuters.com](https://www.reuters.com/technology/cybersecurity/multiple-australian-pension-funds-hit-by-coordinated-hacking-media-reports-say-2025-04-04/): Hackers strike Australia's largest pension funds in coordinated attacks</small>
 
 
@@ -287,7 +311,7 @@ tags:
 
 ---
 
-## <a name="23"></a>23. 美国多个电动汽车及电池工厂项目被取消 
+## <a name="25"></a>25. 美国多个电动汽车及电池工厂项目被取消 
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/climate-environment/2025/04/03/ev-factories-canceled/): A number of electric vehicle, battery factories are being canceled</small>
 
 
@@ -296,29 +320,5 @@ tags:
 
 <br />
 过去几年，美国依托《通胀削减法案》的税收优惠，在共和党主导地区兴建了大量**电动汽车**及锂电池工厂，但近期多个项目被叫停。数据显示，2025年第一季度取消的项目数量超过前两年总和，包括佐治亚州10亿美元电池隔热材料工厂和亚利桑那州12亿美元锂电池厂。专家指出，**关税政策不明朗**、税收优惠可能被共和党新法案废除，以及市场需求疲软（美国EV渗透率仅10%-15%）是主因。部分企业转向中国或墨西哥生产，导致本土就业机会流失。普林斯顿大学预测，政策变动或使2030年EV销量下降40%。尽管白宫强调其经济计划将提振制造业，但行业普遍持观望态度，**清洁能源投资大幅放缓**。
-
----
-
-## <a name="24"></a>24. Tcl编程语言全面指南（第2版） 
-<small>🔗 [magicsplat.com](https://www.magicsplat.com/ttpl/index.html): The Tcl Programming Language: A Comprehensive Guide (2nd Edition)</small>
-
-
-| 🔥: 90 \| 💬: [62](https://news.ycombinator.com/item?id=43586561) \| 🗓️ 2025-04-04
-
-
-<br />
-本书深入探讨了**Tcl脚本语言**的核心特性与应用，涵盖基础语法、高级功能及实际开发案例。重点解析了**动态类型系统**和**跨平台兼容性**，同时提供优化代码性能的实用技巧。适合从初学者到资深开发者的全阶段学习，是掌握**Tcl自动化与嵌入式开发**的权威参考。
-
----
-
-## <a name="25"></a>25. 我只想存储5TB视频 
-<small>🔗 [youtube.com](https://www.youtube.com/watch?v=3t6L-FlfeaI): I just want to serve 5 terabytes [video]</small>
-
-
-| 🔥: 76 \| 💬: [34](https://news.ycombinator.com/item?id=43580439) \| 🗓️ 2025-04-04
-
-
-<br />
-该视频内容似乎是一段损坏或加密的数据流，无法直接解析出有效信息。从标题推测，可能涉及**大容量视频存储**的技术挑战，或是开发者对**5TB存储需求**的解决方案探讨。视频格式异常可能暗示了**数据压缩**或编解码问题，也可能是故意设计的加密展示。建议检查视频文件的完整性或联系发布者获取技术背景说明。
 
 ---
