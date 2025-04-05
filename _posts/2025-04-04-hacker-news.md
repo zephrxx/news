@@ -27,7 +27,7 @@ tags:
 <small>🔗 [paulrobertlloyd.com](https://paulrobertlloyd.com/2025/087/a1/bored/): Bored of It</small>
 
 
-| 🔥🔥: 531 \| 💬: [438](https://news.ycombinator.com/item?id=43580449) \| 🗓️ 2025-04-04
+| 🔥🔥: 532 \| 💬: [442](https://news.ycombinator.com/item?id=43580449) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/antiwork/gumroad): Gumroad’s source is available</small>
 
 
-| 🔥🔥: 424 \| 💬: [185](https://news.ycombinator.com/item?id=43580103) \| 🗓️ 2025-04-04
+| 🔥🔥: 430 \| 💬: [188](https://news.ycombinator.com/item?id=43580103) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [thenewstack.io](https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/): Nvidia adds native Python support to CUDA</small>
 
 
-| 🔥🔥: 379 \| 💬: [148](https://news.ycombinator.com/item?id=43581584) \| 🗓️ 2025-04-04
+| 🔥🔥: 388 \| 💬: [155](https://news.ycombinator.com/item?id=43581584) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [finance.yahoo.com](https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-2200-points-nasdaq-enters-bear-market-as-trump-tariffs-spark-worst-meltdown-since-2020-200042876.html): Dow plunges 2,200 points, Nasdaq enters bear market</small>
 
 
-| 🔥🔥: 216 \| 💬: [279](https://news.ycombinator.com/item?id=43587479) \| 🗓️ 2025-04-04
+| 🔥🔥: 223 \| 💬: [300](https://news.ycombinator.com/item?id=43587479) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [martinrobbins.substack.com](https://martinrobbins.substack.com/p/von-6-why-does-britain-feel-so-poor): Why does Britain feel so poor?</small>
 
 
-| 🔥🔥: 177 \| 💬: [329](https://news.ycombinator.com/item?id=43581672) \| 🗓️ 2025-04-04
+| 🔥🔥: 177 \| 💬: [331](https://news.ycombinator.com/item?id=43581672) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -95,47 +95,11 @@ tags:
 
 ---
 
-## <a name="7"></a>7. 日益扩大的贸易逆差正在掏空国家根基（2003年） 
-<small>🔗 [faculty.washington.edu](https://faculty.washington.edu/ss1110/IF/Buffett%20Fortune%202003%20(6).pdf): Growing trade deficit is selling the nation out from under us (2003) [pdf]</small>
-
-
-| 🔥🔥: 151 \| 💬: [176](https://news.ycombinator.com/item?id=43579908) \| 🗓️ 2025-04-04
-
-
-<br />
-该PDF文档因技术原因无法直接提取文本内容，但从标题可见其核心议题为**贸易逆差对国家经济的侵蚀性影响**。文件可能分析了2003年美国贸易失衡的现状，强调长期逆差会导致**就业流失**、**产业空心化**等风险，并警示这种趋势可能削弱国家经济主权。关键论点或围绕**贸易政策调整**、**本土产业保护**的必要性展开。
-
----
-
-## <a name="8"></a>8. 《Sierra的终结：收购始末》 
-<small>🔗 [filfre.net](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/): The End of Sierra as We Knew It, Part 1: The Acquisition</small>
-
-
-| 🔥🔥: 151 \| 💬: [51](https://news.ycombinator.com/item?id=43586157) \| 🗓️ 2025-04-04
-
-
-<br />
-1996年，**Sierra On-Line**正值巅峰，却意外被名不见经传的**CUC国际**以10.6亿美元收购。CUC由精明的CEO **Walter Forbes**领导，主营线下购物俱乐部和会员服务，商业模式游走于灰色地带。尽管Forbes早年构想类似亚马逊的电商模式，但CUC长期依赖电话推销和自动续费盈利。Ken Williams因疲惫接受了收购，但其妻子Roberta Williams对此深感不安。这场交易最终揭开了Sierra衰落的序幕。
-
----
-
-## <a name="9"></a>9. 鲸油神话破灭：煤油并未拯救抹香鲸 
-<small>🔗 [edconway.substack.com](https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm): Kerosene did not save the sperm whale (2024)</small>
-
-
-| 🔥🔥: 143 \| 💬: [47](https://news.ycombinator.com/item?id=43584303) \| 🗓️ 2025-04-04
-
-
-<br />
-传统观点认为，19世纪煤油的普及终结了人类对**抹香鲸油**的依赖，从而拯救了鲸群。但事实恰恰相反：20世纪因**工业润滑剂**需求激增，捕鲸量不降反升。直到各国颁布**禁捕令**并研发出替代品（如霍霍巴油），鲸群才真正获救。这一案例揭示了技术革新与政策干预的复杂关系，驳斥了“市场自发救鲸”的简化叙事。
-
----
-
-## <a name="10"></a>10. 仅用3块8引脚芯片打造的交互式Linux电脑 
+## <a name="7"></a>7. 仅用3块8引脚芯片打造的交互式Linux电脑 
 <small>🔗 [dmitry.gr](https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux): An interactive-speed Linux computer made of only 3 8-pin chips</small>
 
 
-| 🔥🔥: 142 \| 💬: [53](https://news.ycombinator.com/item?id=43586654) \| 🗓️ 2025-04-04
+| 🔥🔥: 164 \| 💬: [59](https://news.ycombinator.com/item?id=43586654) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -143,7 +107,55 @@ tags:
 
 ---
 
-## <a name="11"></a>11. 司法部高官被曝青少年时期黑客经历 
+## <a name="8"></a>8. 《Sierra的终结：收购始末》 
+<small>🔗 [filfre.net](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/): The End of Sierra as We Knew It, Part 1: The Acquisition</small>
+
+
+| 🔥🔥: 157 \| 💬: [54](https://news.ycombinator.com/item?id=43586157) \| 🗓️ 2025-04-04
+
+
+<br />
+1996年，**Sierra On-Line**正值巅峰，却意外被名不见经传的**CUC国际**以10.6亿美元收购。CUC由精明的CEO **Walter Forbes**领导，主营线下购物俱乐部和会员服务，商业模式游走于灰色地带。尽管Forbes早年构想类似亚马逊的电商模式，但CUC长期依赖电话推销和自动续费盈利。Ken Williams因疲惫接受了收购，但其妻子Roberta Williams对此深感不安。这场交易最终揭开了Sierra衰落的序幕。
+
+---
+
+## <a name="9"></a>9. 日益扩大的贸易逆差正在掏空国家根基（2003年） 
+<small>🔗 [faculty.washington.edu](https://faculty.washington.edu/ss1110/IF/Buffett%20Fortune%202003%20(6).pdf): Growing trade deficit is selling the nation out from under us (2003) [pdf]</small>
+
+
+| 🔥🔥: 153 \| 💬: [177](https://news.ycombinator.com/item?id=43579908) \| 🗓️ 2025-04-04
+
+
+<br />
+该PDF文档因技术原因无法直接提取文本内容，但从标题可见其核心议题为**贸易逆差对国家经济的侵蚀性影响**。文件可能分析了2003年美国贸易失衡的现状，强调长期逆差会导致**就业流失**、**产业空心化**等风险，并警示这种趋势可能削弱国家经济主权。关键论点或围绕**贸易政策调整**、**本土产业保护**的必要性展开。
+
+---
+
+## <a name="10"></a>10. 鲸油神话破灭：煤油并未拯救抹香鲸 
+<small>🔗 [edconway.substack.com](https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm): Kerosene did not save the sperm whale (2024)</small>
+
+
+| 🔥🔥: 149 \| 💬: [49](https://news.ycombinator.com/item?id=43584303) \| 🗓️ 2025-04-04
+
+
+<br />
+传统观点认为，19世纪煤油的普及终结了人类对**抹香鲸油**的依赖，从而拯救了鲸群。但事实恰恰相反：20世纪因**工业润滑剂**需求激增，捕鲸量不降反升。直到各国颁布**禁捕令**并研发出替代品（如霍霍巴油），鲸群才真正获救。这一案例揭示了技术革新与政策干预的复杂关系，驳斥了“市场自发救鲸”的简化叙事。
+
+---
+
+## <a name="11"></a>11. 优秀副业的禅意乐趣 
+<small>🔗 [joshcollinsworth.com](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project): The blissful Zen of a good side project</small>
+
+
+| 🔥🔥: 143 \| 💬: [35](https://news.ycombinator.com/item?id=43587380) \| 🗓️ 2025-04-04
+
+
+<br />
+这篇看似乱码的内容实则探讨了**副业**带来的独特价值——它不仅是经济补充，更是**创造力释放**的出口。通过非正式项目，人们能摆脱主业压力，在**自由探索**中找到平衡与满足感。文中暗示，副业的真正魅力在于其不受限的试验性，让兴趣与技能自然融合。
+
+---
+
+## <a name="12"></a>12. 司法部高官被曝青少年时期黑客经历 
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/04/i-no-longer-hack-paypals-doge-staffers-hacker-past-raises-red-flags/): Doge staffer's YouTube nickname accidentally revealed his teen hacking activity</small>
 
 
@@ -155,11 +167,11 @@ tags:
 
 ---
 
-## <a name="12"></a>12. Gumroad的许可证不符合公认的开源定义 
+## <a name="13"></a>13. Gumroad的许可证不符合公认的开源定义 
 <small>🔗 [danb.me](https://danb.me/blog/gumroad-is-not-open-source/): Gumroad’s license wouldn’t meet the widely regarded definition of open source</small>
 
 
-| 🔥🔥: 114 \| 💬: [38](https://news.ycombinator.com/item?id=43586107) \| 🗓️ 2025-04-04
+| 🔥🔥: 115 \| 💬: [38](https://news.ycombinator.com/item?id=43586107) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -167,35 +179,11 @@ tags:
 
 ---
 
-## <a name="13"></a>13. 美国富人死亡率与欧洲穷人相当 
-<small>🔗 [arstechnica.com](https://arstechnica.com/health/2025/04/wealthy-americans-have-death-rates-on-par-with-poor-europeans/): Wealthy Americans have death rates on par with poor Europeans</small>
-
-
-| 🔥🔥: 108 \| 💬: [74](https://news.ycombinator.com/item?id=43584156) \| 🗓️ 2025-04-04
-
-
-<br />
-研究表明，**美国最富裕人群的寿命仍短于欧洲富人**，其死亡率比北欧和西欧富人高35%，反而与欧洲最贫困人群相当。尽管财富在美国能延长寿命，但**系统性因素**（如经济不平等、饮食、环境压力等）导致美国人整体寿命落后于其他高收入国家。该研究追踪了7.3万名欧美中老年人数据，发现**美国贫富寿命差距最大**，且最贫困群体生存率最低。研究者指出，医疗和社会福利差异无法完全解释欧美富人间的寿命差距，需进一步探究文化、行为等深层原因。
-
----
-
-## <a name="14"></a>14. 优秀副业的禅意乐趣 
-<small>🔗 [joshcollinsworth.com](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project): The blissful Zen of a good side project</small>
-
-
-| 🔥🔥: 108 \| 💬: [23](https://news.ycombinator.com/item?id=43587380) \| 🗓️ 2025-04-04
-
-
-<br />
-这篇看似乱码的内容实则探讨了**副业**带来的独特价值——它不仅是经济补充，更是**创造力释放**的出口。通过非正式项目，人们能摆脱主业压力，在**自由探索**中找到平衡与满足感。文中暗示，副业的真正魅力在于其不受限的试验性，让兴趣与技能自然融合。
-
----
-
-## <a name="15"></a>15. 谷歌推出实验性网络安全模型Sec-Gemini v1 
+## <a name="14"></a>14. 谷歌推出实验性网络安全模型Sec-Gemini v1 
 <small>🔗 [security.googleblog.com](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html): Google announces Sec-Gemini v1 a new experimental cybersecurity model</small>
 
 
-| 🔥🔥: 105 \| 💬: [22](https://news.ycombinator.com/item?id=43586786) \| 🗓️ 2025-04-04
+| 🔥🔥: 110 \| 💬: [23](https://news.ycombinator.com/item?id=43586786) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -203,11 +191,23 @@ tags:
 
 ---
 
+## <a name="15"></a>15. 美国富人死亡率与欧洲穷人相当 
+<small>🔗 [arstechnica.com](https://arstechnica.com/health/2025/04/wealthy-americans-have-death-rates-on-par-with-poor-europeans/): Wealthy Americans have death rates on par with poor Europeans</small>
+
+
+| 🔥🔥: 109 \| 💬: [75](https://news.ycombinator.com/item?id=43584156) \| 🗓️ 2025-04-04
+
+
+<br />
+研究表明，**美国最富裕人群的寿命仍短于欧洲富人**，其死亡率比北欧和西欧富人高35%，反而与欧洲最贫困人群相当。尽管财富在美国能延长寿命，但**系统性因素**（如经济不平等、饮食、环境压力等）导致美国人整体寿命落后于其他高收入国家。该研究追踪了7.3万名欧美中老年人数据，发现**美国贫富寿命差距最大**，且最贫困群体生存率最低。研究者指出，医疗和社会福利差异无法完全解释欧美富人间的寿命差距，需进一步探究文化、行为等深层原因。
+
+---
+
 ## <a name="16"></a>16. 安·兰德继承者的诅咒 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/03/ayn-rand-peikoff-inheritance-battle/682219/): The Curse of Ayn Rand's Heir</small>
 
 
-| 🔥🔥: 104 \| 💬: [197](https://news.ycombinator.com/item?id=43584663) \| 🗓️ 2025-04-04
+| 🔥🔥: 108 \| 💬: [208](https://news.ycombinator.com/item?id=43584663) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -243,7 +243,7 @@ tags:
 <small>🔗 [reuters.com](https://www.reuters.com/technology/cybersecurity/multiple-australian-pension-funds-hit-by-coordinated-hacking-media-reports-say-2025-04-04/): Hackers strike Australia's largest pension funds in coordinated attacks</small>
 
 
-| 🔥: 90 \| 💬: [39](https://news.ycombinator.com/item?id=43580101) \| 🗓️ 2025-04-04
+| 🔥: 90 \| 💬: [40](https://news.ycombinator.com/item?id=43580101) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -255,7 +255,7 @@ tags:
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/climate-environment/2025/04/03/ev-factories-canceled/): A number of electric vehicle, battery factories are being canceled</small>
 
 
-| 🔥: 89 \| 💬: [203](https://news.ycombinator.com/item?id=43583249) \| 🗓️ 2025-04-04
+| 🔥: 90 \| 💬: [203](https://news.ycombinator.com/item?id=43583249) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -263,7 +263,19 @@ tags:
 
 ---
 
-## <a name="21"></a>21. 我只想存储5TB视频 
+## <a name="21"></a>21. 萨尔瓦多监狱的"司法黑洞"给美国人敲响警钟 
+<small>🔗 [rollingstone.com](https://www.rollingstone.com/politics/politics-features/el-salvador-prisons-warning-americans-trump-1235309721/): The 'Judicial Black Hole' of El Salvador's Prisons Is a Warning for Americans</small>
+
+
+| 🔥: 78 \| 💬: [17](https://news.ycombinator.com/item?id=43588970) \| 🗓️ 2025-04-04
+
+
+<br />
+该文揭露了萨尔瓦多监狱系统中存在的**系统性人权侵犯**问题，将其描述为"司法黑洞"。文章指出，在打击帮派犯罪的名义下，该国监狱存在**大规模任意拘押**和**酷刑现象**，囚犯被剥夺基本法律权利。这种情况被视为对美国司法体系的警告，暗示如果忽视正当程序权利，任何国家的司法系统都可能陷入类似困境。文中特别强调这种**紧急状态司法模式**对法治的破坏性影响。
+
+---
+
+## <a name="22"></a>22. 我只想存储5TB视频 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=3t6L-FlfeaI): I just want to serve 5 terabytes [video]</small>
 
 
@@ -275,7 +287,19 @@ tags:
 
 ---
 
-## <a name="22"></a>22. Mac版Numbers新增LAMBDA函数和MAP函数支持 
+## <a name="23"></a>23. 特朗普关税重创美股 两日蒸发6.6万亿美元市值 
+<small>🔗 [wsj.com](https://www.wsj.com/finance/stocks/u-s-stock-futures-fall-further-after-china-retaliates-against-trump-tariffs-3be33fa7): Trump's Tariffs Wipe Out over $6T on Wall Street in Epic Two-Day Rout</small>
+
+
+| 🔥: 74 \| 💬: [27](https://news.ycombinator.com/item?id=43589231) \| 🗓️ 2025-04-04
+
+
+<br />
+美国总统特朗普对全球多国商品加征**高额关税**，导致华尔街遭遇史诗级暴跌。**两天内**全球股市市值缩水**6.6万亿美元**，市场恐慌情绪蔓延，投资者无处避险。此次暴跌凸显贸易政策对金融市场的剧烈冲击。
+
+---
+
+## <a name="24"></a>24. Mac版Numbers新增LAMBDA函数和MAP函数支持 
 <small>🔗 [support.apple.com](https://support.apple.com/guide/functions/map-ffa7bf25643c/web): Mac Numbers now supports LAMBDA functions and MAP</small>
 
 
@@ -287,38 +311,14 @@ tags:
 
 ---
 
-## <a name="23"></a>23. 德国"全德通票"显著减少碳排放，但低收入群体仍难负担 
+## <a name="25"></a>25. 德国"全德通票"显著减少碳排放，但低收入群体仍难负担 
 <small>🔗 [dw.com](https://www.dw.com/en/germanys-deutschlandticket-helps-environment-study/a-72128647): Germany's 'Deutschlandticket' helps environment – study</small>
 
 
-| 🔥: 70 \| 💬: [36](https://news.ycombinator.com/item?id=43586182) \| 🗓️ 2025-04-04
+| 🔥: 70 \| 💬: [37](https://news.ycombinator.com/item?id=43586182) \| 🗓️ 2025-04-04
 
 
 <br />
 研究表明，德国推出的**"全德通票"**（Deutschlandticket）每年可减少420万至650万吨二氧化碳排放，主要吸引了过去很少使用公共交通的**新用户**。该票允许无限次乘坐区域列车，替代汽车长途出行（约30公里），节省燃油和维护成本。但当前58欧元的价格对低收入群体仍较高，部分地区虽有折扣（如维尔茨堡仅15欧元），但近半数地区无补贴。福利协会呼吁推出**25欧元的"社会优惠票"**以保障公平性。
-
----
-
-## <a name="24"></a>24. Tcl编程语言全面指南（第2版） 
-<small>🔗 [magicsplat.com](https://www.magicsplat.com/ttpl/index.html): The Tcl Programming Language: A Comprehensive Guide (2nd Edition)</small>
-
-
-| 🔥: 66 \| 💬: [34](https://news.ycombinator.com/item?id=43586561) \| 🗓️ 2025-04-04
-
-
-<br />
-本书深入探讨了**Tcl脚本语言**的核心特性与应用，涵盖基础语法、高级功能及实际开发案例。重点解析了**动态类型系统**和**跨平台兼容性**，同时提供优化代码性能的实用技巧。适合从初学者到资深开发者的全阶段学习，是掌握**Tcl自动化与嵌入式开发**的权威参考。
-
----
-
-## <a name="25"></a>25. 华尔街的溃败：金融泡沫与信任危机 
-<small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/04/wall-street-trump-tariffs/682304/): Wall Street Blew It</small>
-
-
-| 🔥: 61 \| 💬: [102](https://news.ycombinator.com/item?id=43587611) \| 🗓️ 2025-04-04
-
-
-<br />
-这篇内容看似是一段加密或损坏的文本，无法直接解读其具体含义。但从标题《华尔街的溃败》可以推断，文章可能探讨了**金融市场的系统性风险**、**信任崩塌**或**投资泡沫破裂**等主题。华尔街作为全球金融中心，其动荡往往反映更深层的经济问题，如**监管缺失**或**投机行为泛滥**。若内容完整，可能会分析具体事件（如次贷危机重演）或警示未来风险。当前文本状态需修复后才能进一步提炼核心观点。
 
 ---
