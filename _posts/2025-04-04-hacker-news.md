@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/antiwork/gumroad): Gumroad’s source is available</small>
 
 
-| 🔥🔥: 431 \| 💬: [189](https://news.ycombinator.com/item?id=43580103) \| 🗓️ 2025-04-04
+| 🔥🔥: 436 \| 💬: [189](https://news.ycombinator.com/item?id=43580103) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [thenewstack.io](https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/): Nvidia adds native Python support to CUDA</small>
 
 
-| 🔥🔥: 395 \| 💬: [158](https://news.ycombinator.com/item?id=43581584) \| 🗓️ 2025-04-04
+| 🔥🔥: 406 \| 💬: [164](https://news.ycombinator.com/item?id=43581584) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [wsj.com](https://www.wsj.com/finance/stocks/u-s-stock-futures-fall-further-after-china-retaliates-against-trump-tariffs-3be33fa7): Trump's Tariffs Wipe Out over $6T on Wall Street in Epic Two-Day Rout</small>
 
 
-| 🔥🔥: 267 \| 💬: [285](https://news.ycombinator.com/item?id=43589231) \| 🗓️ 2025-04-04
+| 🔥🔥: 313 \| 💬: [414](https://news.ycombinator.com/item?id=43589231) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [finance.yahoo.com](https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-2200-points-nasdaq-enters-bear-market-as-trump-tariffs-spark-worst-meltdown-since-2020-200042876.html): Dow plunges 2,200 points, Nasdaq enters bear market</small>
 
 
-| 🔥🔥: 227 \| 💬: [324](https://news.ycombinator.com/item?id=43587479) \| 🗓️ 2025-04-04
+| 🔥🔥: 230 \| 💬: [334](https://news.ycombinator.com/item?id=43587479) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -83,23 +83,11 @@ tags:
 
 ---
 
-## <a name="6"></a>6. 为何英国民众感到如此贫困？ 
-<small>🔗 [martinrobbins.substack.com](https://martinrobbins.substack.com/p/von-6-why-does-britain-feel-so-poor): Why does Britain feel so poor?</small>
-
-
-| 🔥🔥: 177 \| 💬: [331](https://news.ycombinator.com/item?id=43581672) \| 🗓️ 2025-04-04
-
-
-<br />
-尽管英国是全球第六大经济体且税收收入达数十年来最高，但民众仍感到拮据。**债务负担**每年消耗超1000亿英镑（超过教育预算），而经济停滞加剧困境。**投资不足**（G7中最低）和**公共支出效率低下**（如NHS浪费、采购混乱）是主因。官僚体系臃肿（如HS2需8276项审批）和地方政府破产风险（如社会护理成本飙升）进一步恶化现状。住房成本高企挤压中产收入，增税提议难获支持。改革需突破性方案，而非小修小补。
-
----
-
-## <a name="7"></a>7. 仅用3块8引脚芯片打造的交互式Linux电脑 
+## <a name="6"></a>6. 仅用3块8引脚芯片打造的交互式Linux电脑 
 <small>🔗 [dmitry.gr](https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux): An interactive-speed Linux computer made of only 3 8-pin chips</small>
 
 
-| 🔥🔥: 177 \| 💬: [68](https://news.ycombinator.com/item?id=43586654) \| 🗓️ 2025-04-04
+| 🔥🔥: 194 \| 💬: [72](https://news.ycombinator.com/item?id=43586654) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -107,11 +95,11 @@ tags:
 
 ---
 
-## <a name="8"></a>8. 优秀副业的禅意乐趣 
+## <a name="7"></a>7. 优秀副业的禅意乐趣 
 <small>🔗 [joshcollinsworth.com](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project): The blissful Zen of a good side project</small>
 
 
-| 🔥🔥: 170 \| 💬: [43](https://news.ycombinator.com/item?id=43587380) \| 🗓️ 2025-04-04
+| 🔥🔥: 190 \| 💬: [51](https://news.ycombinator.com/item?id=43587380) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -119,7 +107,43 @@ tags:
 
 ---
 
-## <a name="9"></a>9. 特朗普加征关税引发中美贸易战升级 中国对等反击34%关税 
+## <a name="8"></a>8. 萨尔瓦多监狱的"司法黑洞"给美国人敲响警钟 
+<small>🔗 [rollingstone.com](https://www.rollingstone.com/politics/politics-features/el-salvador-prisons-warning-americans-trump-1235309721/): The 'Judicial Black Hole' of El Salvador's Prisons Is a Warning for Americans</small>
+
+
+| 🔥🔥: 184 \| 💬: [60](https://news.ycombinator.com/item?id=43588970) \| 🗓️ 2025-04-04
+
+
+<br />
+该文揭露了萨尔瓦多监狱系统中存在的**系统性人权侵犯**问题，将其描述为"司法黑洞"。文章指出，在打击帮派犯罪的名义下，该国监狱存在**大规模任意拘押**和**酷刑现象**，囚犯被剥夺基本法律权利。这种情况被视为对美国司法体系的警告，暗示如果忽视正当程序权利，任何国家的司法系统都可能陷入类似困境。文中特别强调这种**紧急状态司法模式**对法治的破坏性影响。
+
+---
+
+## <a name="9"></a>9. 为何英国民众感到如此贫困？ 
+<small>🔗 [martinrobbins.substack.com](https://martinrobbins.substack.com/p/von-6-why-does-britain-feel-so-poor): Why does Britain feel so poor?</small>
+
+
+| 🔥🔥: 178 \| 💬: [338](https://news.ycombinator.com/item?id=43581672) \| 🗓️ 2025-04-04
+
+
+<br />
+尽管英国是全球第六大经济体且税收收入达数十年来最高，但民众仍感到拮据。**债务负担**每年消耗超1000亿英镑（超过教育预算），而经济停滞加剧困境。**投资不足**（G7中最低）和**公共支出效率低下**（如NHS浪费、采购混乱）是主因。官僚体系臃肿（如HS2需8276项审批）和地方政府破产风险（如社会护理成本飙升）进一步恶化现状。住房成本高企挤压中产收入，增税提议难获支持。改革需突破性方案，而非小修小补。
+
+---
+
+## <a name="10"></a>10. 《Sierra的终结：收购始末》 
+<small>🔗 [filfre.net](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/): The End of Sierra as We Knew It, Part 1: The Acquisition</small>
+
+
+| 🔥🔥: 176 \| 💬: [57](https://news.ycombinator.com/item?id=43586157) \| 🗓️ 2025-04-04
+
+
+<br />
+1996年，**Sierra On-Line**正值巅峰，却意外被名不见经传的**CUC国际**以10.6亿美元收购。CUC由精明的CEO **Walter Forbes**领导，主营线下购物俱乐部和会员服务，商业模式游走于灰色地带。尽管Forbes早年构想类似亚马逊的电商模式，但CUC长期依赖电话推销和自动续费盈利。Ken Williams因疲惫接受了收购，但其妻子Roberta Williams对此深感不安。这场交易最终揭开了Sierra衰落的序幕。
+
+---
+
+## <a name="11"></a>11. 特朗普加征关税引发中美贸易战升级 中国对等反击34%关税 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/04/04/business/china-trump-tariffs-retaliation.html): Trump's Trade War Escalates as China Retaliates with 34% Tariffs</small>
 
 
@@ -131,19 +155,7 @@ tags:
 
 ---
 
-## <a name="10"></a>10. 《Sierra的终结：收购始末》 
-<small>🔗 [filfre.net](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/): The End of Sierra as We Knew It, Part 1: The Acquisition</small>
-
-
-| 🔥🔥: 165 \| 💬: [55](https://news.ycombinator.com/item?id=43586157) \| 🗓️ 2025-04-04
-
-
-<br />
-1996年，**Sierra On-Line**正值巅峰，却意外被名不见经传的**CUC国际**以10.6亿美元收购。CUC由精明的CEO **Walter Forbes**领导，主营线下购物俱乐部和会员服务，商业模式游走于灰色地带。尽管Forbes早年构想类似亚马逊的电商模式，但CUC长期依赖电话推销和自动续费盈利。Ken Williams因疲惫接受了收购，但其妻子Roberta Williams对此深感不安。这场交易最终揭开了Sierra衰落的序幕。
-
----
-
-## <a name="11"></a>11. 日益扩大的贸易逆差正在掏空国家根基（2003年） 
+## <a name="12"></a>12. 日益扩大的贸易逆差正在掏空国家根基（2003年） 
 <small>🔗 [faculty.washington.edu](https://faculty.washington.edu/ss1110/IF/Buffett%20Fortune%202003%20(6).pdf): Growing trade deficit is selling the nation out from under us (2003) [pdf]</small>
 
 
@@ -155,11 +167,11 @@ tags:
 
 ---
 
-## <a name="12"></a>12. 鲸油神话破灭：煤油并未拯救抹香鲸 
+## <a name="13"></a>13. 鲸油神话破灭：煤油并未拯救抹香鲸 
 <small>🔗 [edconway.substack.com](https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm): Kerosene did not save the sperm whale (2024)</small>
 
 
-| 🔥🔥: 151 \| 💬: [50](https://news.ycombinator.com/item?id=43584303) \| 🗓️ 2025-04-04
+| 🔥🔥: 153 \| 💬: [52](https://news.ycombinator.com/item?id=43584303) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -167,7 +179,7 @@ tags:
 
 ---
 
-## <a name="13"></a>13. 司法部高官被曝青少年时期黑客经历 
+## <a name="14"></a>14. 司法部高官被曝青少年时期黑客经历 
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/04/i-no-longer-hack-paypals-doge-staffers-hacker-past-raises-red-flags/): Doge staffer's YouTube nickname accidentally revealed his teen hacking activity</small>
 
 
@@ -179,39 +191,27 @@ tags:
 
 ---
 
-## <a name="14"></a>14. 萨尔瓦多监狱的"司法黑洞"给美国人敲响警钟 
-<small>🔗 [rollingstone.com](https://www.rollingstone.com/politics/politics-features/el-salvador-prisons-warning-americans-trump-1235309721/): The 'Judicial Black Hole' of El Salvador's Prisons Is a Warning for Americans</small>
-
-
-| 🔥🔥: 133 \| 💬: [35](https://news.ycombinator.com/item?id=43588970) \| 🗓️ 2025-04-04
-
-
-<br />
-该文揭露了萨尔瓦多监狱系统中存在的**系统性人权侵犯**问题，将其描述为"司法黑洞"。文章指出，在打击帮派犯罪的名义下，该国监狱存在**大规模任意拘押**和**酷刑现象**，囚犯被剥夺基本法律权利。这种情况被视为对美国司法体系的警告，暗示如果忽视正当程序权利，任何国家的司法系统都可能陷入类似困境。文中特别强调这种**紧急状态司法模式**对法治的破坏性影响。
-
----
-
-## <a name="15"></a>15. Gumroad的许可证不符合公认的开源定义 
-<small>🔗 [danb.me](https://danb.me/blog/gumroad-is-not-open-source/): Gumroad’s license wouldn’t meet the widely regarded definition of open source</small>
-
-
-| 🔥🔥: 115 \| 💬: [38](https://news.ycombinator.com/item?id=43586107) \| 🗓️ 2025-04-04
-
-
-<br />
-该内容显示Gumroad的**许可证条款**未能满足**开源倡议组织（OSI）**对开源软件的**核心要求**。尽管具体条款因文本乱码无法解析，但关键问题在于其限制性条款可能违反了开源的自由使用、修改和分发原则。这一争议凸显了开源社区对许可证合规性的严格标准。
-
----
-
-## <a name="16"></a>16. 谷歌推出实验性网络安全模型Sec-Gemini v1 
+## <a name="15"></a>15. 谷歌推出实验性网络安全模型Sec-Gemini v1 
 <small>🔗 [security.googleblog.com](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html): Google announces Sec-Gemini v1 a new experimental cybersecurity model</small>
 
 
-| 🔥🔥: 114 \| 💬: [23](https://news.ycombinator.com/item?id=43586786) \| 🗓️ 2025-04-04
+| 🔥🔥: 119 \| 💬: [26](https://news.ycombinator.com/item?id=43586786) \| 🗓️ 2025-04-04
 
 
 <br />
 谷歌宣布推出**Sec-Gemini v1**，这是一款专注于网络安全的前沿AI实验模型。该模型结合了Gemini的先进能力与实时网络安全知识，旨在通过AI提升防御效率，帮助安全团队更快分析事件根源、评估威胁及漏洞影响。**Sec-Gemini v1**在多项基准测试中表现优异，例如在威胁情报（CTI-MCQ）和漏洞根因映射（CTI-RCM）任务上分别领先其他模型至少11%和10.5%。谷歌将免费向部分机构开放该模型，以推动网络安全领域的协作创新。
+
+---
+
+## <a name="16"></a>16. Gumroad的许可证不符合公认的开源定义 
+<small>🔗 [danb.me](https://danb.me/blog/gumroad-is-not-open-source/): Gumroad’s license wouldn’t meet the widely regarded definition of open source</small>
+
+
+| 🔥🔥: 117 \| 💬: [38](https://news.ycombinator.com/item?id=43586107) \| 🗓️ 2025-04-04
+
+
+<br />
+该内容显示Gumroad的**许可证条款**未能满足**开源倡议组织（OSI）**对开源软件的**核心要求**。尽管具体条款因文本乱码无法解析，但关键问题在于其限制性条款可能违反了开源的自由使用、修改和分发原则。这一争议凸显了开源社区对许可证合规性的严格标准。
 
 ---
 
@@ -231,7 +231,7 @@ tags:
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/03/ayn-rand-peikoff-inheritance-battle/682219/): The Curse of Ayn Rand's Heir</small>
 
 
-| 🔥🔥: 109 \| 💬: [209](https://news.ycombinator.com/item?id=43584663) \| 🗓️ 2025-04-04
+| 🔥🔥: 109 \| 💬: [212](https://news.ycombinator.com/item?id=43584663) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -267,7 +267,7 @@ tags:
 <small>🔗 [reuters.com](https://www.reuters.com/technology/cybersecurity/multiple-australian-pension-funds-hit-by-coordinated-hacking-media-reports-say-2025-04-04/): Hackers strike Australia's largest pension funds in coordinated attacks</small>
 
 
-| 🔥: 91 \| 💬: [41](https://news.ycombinator.com/item?id=43580101) \| 🗓️ 2025-04-04
+| 🔥: 92 \| 💬: [41](https://news.ycombinator.com/item?id=43580101) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -287,7 +287,19 @@ tags:
 
 ---
 
-## <a name="23"></a>23. 我只想存储5TB视频 
+## <a name="23"></a>23. Tcl编程语言全面指南（第2版） 
+<small>🔗 [magicsplat.com](https://www.magicsplat.com/ttpl/index.html): The Tcl Programming Language: A Comprehensive Guide (2nd Edition)</small>
+
+
+| 🔥: 83 \| 💬: [52](https://news.ycombinator.com/item?id=43586561) \| 🗓️ 2025-04-04
+
+
+<br />
+本书深入探讨了**Tcl脚本语言**的核心特性与应用，涵盖基础语法、高级功能及实际开发案例。重点解析了**动态类型系统**和**跨平台兼容性**，同时提供优化代码性能的实用技巧。适合从初学者到资深开发者的全阶段学习，是掌握**Tcl自动化与嵌入式开发**的权威参考。
+
+---
+
+## <a name="24"></a>24. 我只想存储5TB视频 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=3t6L-FlfeaI): I just want to serve 5 terabytes [video]</small>
 
 
@@ -296,18 +308,6 @@ tags:
 
 <br />
 该视频内容似乎是一段损坏或加密的数据流，无法直接解析出有效信息。从标题推测，可能涉及**大容量视频存储**的技术挑战，或是开发者对**5TB存储需求**的解决方案探讨。视频格式异常可能暗示了**数据压缩**或编解码问题，也可能是故意设计的加密展示。建议检查视频文件的完整性或联系发布者获取技术背景说明。
-
----
-
-## <a name="24"></a>24. Tcl编程语言全面指南（第2版） 
-<small>🔗 [magicsplat.com](https://www.magicsplat.com/ttpl/index.html): The Tcl Programming Language: A Comprehensive Guide (2nd Edition)</small>
-
-
-| 🔥: 75 \| 💬: [46](https://news.ycombinator.com/item?id=43586561) \| 🗓️ 2025-04-04
-
-
-<br />
-本书深入探讨了**Tcl脚本语言**的核心特性与应用，涵盖基础语法、高级功能及实际开发案例。重点解析了**动态类型系统**和**跨平台兼容性**，同时提供优化代码性能的实用技巧。适合从初学者到资深开发者的全阶段学习，是掌握**Tcl自动化与嵌入式开发**的权威参考。
 
 ---
 
