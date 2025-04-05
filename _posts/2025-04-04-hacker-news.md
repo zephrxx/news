@@ -27,7 +27,7 @@ tags:
 <small>🔗 [paulrobertlloyd.com](https://paulrobertlloyd.com/2025/087/a1/bored/): Bored of It</small>
 
 
-| 🔥🔥: 530 \| 💬: [437](https://news.ycombinator.com/item?id=43580449) \| 🗓️ 2025-04-04
+| 🔥🔥: 531 \| 💬: [438](https://news.ycombinator.com/item?id=43580449) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/antiwork/gumroad): Gumroad’s source is available</small>
 
 
-| 🔥🔥: 418 \| 💬: [184](https://news.ycombinator.com/item?id=43580103) \| 🗓️ 2025-04-04
+| 🔥🔥: 424 \| 💬: [185](https://news.ycombinator.com/item?id=43580103) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [thenewstack.io](https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/): Nvidia adds native Python support to CUDA</small>
 
 
-| 🔥🔥: 369 \| 💬: [147](https://news.ycombinator.com/item?id=43581584) \| 🗓️ 2025-04-04
+| 🔥🔥: 379 \| 💬: [148](https://news.ycombinator.com/item?id=43581584) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [finance.yahoo.com](https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-2200-points-nasdaq-enters-bear-market-as-trump-tariffs-spark-worst-meltdown-since-2020-200042876.html): Dow plunges 2,200 points, Nasdaq enters bear market</small>
 
 
-| 🔥🔥: 195 \| 💬: [236](https://news.ycombinator.com/item?id=43587479) \| 🗓️ 2025-04-04
+| 🔥🔥: 216 \| 💬: [279](https://news.ycombinator.com/item?id=43587479) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [martinrobbins.substack.com](https://martinrobbins.substack.com/p/von-6-why-does-britain-feel-so-poor): Why does Britain feel so poor?</small>
 
 
-| 🔥🔥: 176 \| 💬: [325](https://news.ycombinator.com/item?id=43581672) \| 🗓️ 2025-04-04
+| 🔥🔥: 177 \| 💬: [329](https://news.ycombinator.com/item?id=43581672) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -107,35 +107,11 @@ tags:
 
 ---
 
-## <a name="8"></a>8. 鲸油神话破灭：煤油并未拯救抹香鲸 
-<small>🔗 [edconway.substack.com](https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm): Kerosene did not save the sperm whale (2024)</small>
-
-
-| 🔥🔥: 140 \| 💬: [45](https://news.ycombinator.com/item?id=43584303) \| 🗓️ 2025-04-04
-
-
-<br />
-传统观点认为，19世纪煤油的普及终结了人类对**抹香鲸油**的依赖，从而拯救了鲸群。但事实恰恰相反：20世纪因**工业润滑剂**需求激增，捕鲸量不降反升。直到各国颁布**禁捕令**并研发出替代品（如霍霍巴油），鲸群才真正获救。这一案例揭示了技术革新与政策干预的复杂关系，驳斥了“市场自发救鲸”的简化叙事。
-
----
-
-## <a name="9"></a>9. 司法部高官被曝青少年时期黑客经历 
-<small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/04/i-no-longer-hack-paypals-doge-staffers-hacker-past-raises-red-flags/): Doge staffer's YouTube nickname accidentally revealed his teen hacking activity</small>
-
-
-| 🔥🔥: 138 \| 💬: [166](https://news.ycombinator.com/item?id=43579925) \| 🗓️ 2025-04-04
-
-
-<br />
-美国司法部副部长办公室高级顾问**Christopher Stanley**（现为SpaceX和X工程师）被曝青少年时期曾入侵服务器、传播盗版软件及游戏外挂。路透社通过其长期使用的网名**Reneg4d3**追溯到多个已删除的论坛，其中包含他15岁时入侵竞争对手网站并炫耀的截图。尽管19岁后他声称停止黑客行为，但2014年仍参与黑客组织**Lizard Squad**的活动。司法部确认其安全许可早于现任职位，但前官员担忧其过往可能影响敏感调查。目前Stanley的社交媒体形象已转为支持马斯克企业的"中立派"，但早年经历仍引发争议。
-
----
-
-## <a name="10"></a>10. 《Sierra的终结：收购始末》 
+## <a name="8"></a>8. 《Sierra的终结：收购始末》 
 <small>🔗 [filfre.net](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/): The End of Sierra as We Knew It, Part 1: The Acquisition</small>
 
 
-| 🔥🔥: 136 \| 💬: [48](https://news.ycombinator.com/item?id=43586157) \| 🗓️ 2025-04-04
+| 🔥🔥: 151 \| 💬: [51](https://news.ycombinator.com/item?id=43586157) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -143,23 +119,23 @@ tags:
 
 ---
 
-## <a name="11"></a>11. Gumroad的许可证不符合公认的开源定义 
-<small>🔗 [danb.me](https://danb.me/blog/gumroad-is-not-open-source/): Gumroad’s license wouldn’t meet the widely regarded definition of open source</small>
+## <a name="9"></a>9. 鲸油神话破灭：煤油并未拯救抹香鲸 
+<small>🔗 [edconway.substack.com](https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm): Kerosene did not save the sperm whale (2024)</small>
 
 
-| 🔥🔥: 114 \| 💬: [37](https://news.ycombinator.com/item?id=43586107) \| 🗓️ 2025-04-04
+| 🔥🔥: 143 \| 💬: [47](https://news.ycombinator.com/item?id=43584303) \| 🗓️ 2025-04-04
 
 
 <br />
-该内容显示Gumroad的**许可证条款**未能满足**开源倡议组织（OSI）**对开源软件的**核心要求**。尽管具体条款因文本乱码无法解析，但关键问题在于其限制性条款可能违反了开源的自由使用、修改和分发原则。这一争议凸显了开源社区对许可证合规性的严格标准。
+传统观点认为，19世纪煤油的普及终结了人类对**抹香鲸油**的依赖，从而拯救了鲸群。但事实恰恰相反：20世纪因**工业润滑剂**需求激增，捕鲸量不降反升。直到各国颁布**禁捕令**并研发出替代品（如霍霍巴油），鲸群才真正获救。这一案例揭示了技术革新与政策干预的复杂关系，驳斥了“市场自发救鲸”的简化叙事。
 
 ---
 
-## <a name="12"></a>12. 仅用3块8引脚芯片打造的交互式Linux电脑 
+## <a name="10"></a>10. 仅用3块8引脚芯片打造的交互式Linux电脑 
 <small>🔗 [dmitry.gr](https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux): An interactive-speed Linux computer made of only 3 8-pin chips</small>
 
 
-| 🔥🔥: 113 \| 💬: [37](https://news.ycombinator.com/item?id=43586654) \| 🗓️ 2025-04-04
+| 🔥🔥: 142 \| 💬: [53](https://news.ycombinator.com/item?id=43586654) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -167,11 +143,35 @@ tags:
 
 ---
 
+## <a name="11"></a>11. 司法部高官被曝青少年时期黑客经历 
+<small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/04/i-no-longer-hack-paypals-doge-staffers-hacker-past-raises-red-flags/): Doge staffer's YouTube nickname accidentally revealed his teen hacking activity</small>
+
+
+| 🔥🔥: 138 \| 💬: [167](https://news.ycombinator.com/item?id=43579925) \| 🗓️ 2025-04-04
+
+
+<br />
+美国司法部副部长办公室高级顾问**Christopher Stanley**（现为SpaceX和X工程师）被曝青少年时期曾入侵服务器、传播盗版软件及游戏外挂。路透社通过其长期使用的网名**Reneg4d3**追溯到多个已删除的论坛，其中包含他15岁时入侵竞争对手网站并炫耀的截图。尽管19岁后他声称停止黑客行为，但2014年仍参与黑客组织**Lizard Squad**的活动。司法部确认其安全许可早于现任职位，但前官员担忧其过往可能影响敏感调查。目前Stanley的社交媒体形象已转为支持马斯克企业的"中立派"，但早年经历仍引发争议。
+
+---
+
+## <a name="12"></a>12. Gumroad的许可证不符合公认的开源定义 
+<small>🔗 [danb.me](https://danb.me/blog/gumroad-is-not-open-source/): Gumroad’s license wouldn’t meet the widely regarded definition of open source</small>
+
+
+| 🔥🔥: 114 \| 💬: [38](https://news.ycombinator.com/item?id=43586107) \| 🗓️ 2025-04-04
+
+
+<br />
+该内容显示Gumroad的**许可证条款**未能满足**开源倡议组织（OSI）**对开源软件的**核心要求**。尽管具体条款因文本乱码无法解析，但关键问题在于其限制性条款可能违反了开源的自由使用、修改和分发原则。这一争议凸显了开源社区对许可证合规性的严格标准。
+
+---
+
 ## <a name="13"></a>13. 美国富人死亡率与欧洲穷人相当 
 <small>🔗 [arstechnica.com](https://arstechnica.com/health/2025/04/wealthy-americans-have-death-rates-on-par-with-poor-europeans/): Wealthy Americans have death rates on par with poor Europeans</small>
 
 
-| 🔥🔥: 107 \| 💬: [71](https://news.ycombinator.com/item?id=43584156) \| 🗓️ 2025-04-04
+| 🔥🔥: 108 \| 💬: [74](https://news.ycombinator.com/item?id=43584156) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -179,11 +179,35 @@ tags:
 
 ---
 
-## <a name="14"></a>14. 安·兰德继承者的诅咒 
+## <a name="14"></a>14. 优秀副业的禅意乐趣 
+<small>🔗 [joshcollinsworth.com](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project): The blissful Zen of a good side project</small>
+
+
+| 🔥🔥: 108 \| 💬: [23](https://news.ycombinator.com/item?id=43587380) \| 🗓️ 2025-04-04
+
+
+<br />
+这篇看似乱码的内容实则探讨了**副业**带来的独特价值——它不仅是经济补充，更是**创造力释放**的出口。通过非正式项目，人们能摆脱主业压力，在**自由探索**中找到平衡与满足感。文中暗示，副业的真正魅力在于其不受限的试验性，让兴趣与技能自然融合。
+
+---
+
+## <a name="15"></a>15. 谷歌推出实验性网络安全模型Sec-Gemini v1 
+<small>🔗 [security.googleblog.com](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html): Google announces Sec-Gemini v1 a new experimental cybersecurity model</small>
+
+
+| 🔥🔥: 105 \| 💬: [22](https://news.ycombinator.com/item?id=43586786) \| 🗓️ 2025-04-04
+
+
+<br />
+谷歌宣布推出**Sec-Gemini v1**，这是一款专注于网络安全的前沿AI实验模型。该模型结合了Gemini的先进能力与实时网络安全知识，旨在通过AI提升防御效率，帮助安全团队更快分析事件根源、评估威胁及漏洞影响。**Sec-Gemini v1**在多项基准测试中表现优异，例如在威胁情报（CTI-MCQ）和漏洞根因映射（CTI-RCM）任务上分别领先其他模型至少11%和10.5%。谷歌将免费向部分机构开放该模型，以推动网络安全领域的协作创新。
+
+---
+
+## <a name="16"></a>16. 安·兰德继承者的诅咒 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/03/ayn-rand-peikoff-inheritance-battle/682219/): The Curse of Ayn Rand's Heir</small>
 
 
-| 🔥🔥: 102 \| 💬: [188](https://news.ycombinator.com/item?id=43584663) \| 🗓️ 2025-04-04
+| 🔥🔥: 104 \| 💬: [197](https://news.ycombinator.com/item?id=43584663) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -191,11 +215,11 @@ tags:
 
 ---
 
-## <a name="15"></a>15. 道指再跌千点 纳斯达克逼近熊市 
+## <a name="17"></a>17. 道指再跌千点 纳斯达克逼近熊市 
 <small>🔗 [barrons.com](https://www.barrons.com/livecoverage/stock-market-today-040425): Dow Slides Another 1k Points. Nasdaq on Pace to Enter Bear Market</small>
 
 
-| 🔥: 98 \| 💬: [90](https://news.ycombinator.com/item?id=43582292) \| 🗓️ 2025-04-04
+| 🔥: 100 \| 💬: [90](https://news.ycombinator.com/item?id=43582292) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -203,11 +227,11 @@ tags:
 
 ---
 
-## <a name="16"></a>16. 美国国家海洋和大气管理局气象网站将停用亚马逊、谷歌云服务 
+## <a name="18"></a>18. 美国国家海洋和大气管理局气象网站将停用亚马逊、谷歌云服务 
 <small>🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-04-04/us-weather-agency-websites-to-vanish-under-planned-contract-cuts): NOAA Weather will delete websites using Amazon, Google cloud services Saturday</small>
 
 
-| 🔥: 92 \| 💬: [92](https://news.ycombinator.com/item?id=43581714) \| 🗓️ 2025-04-04
+| 🔥: 94 \| 💬: [93](https://news.ycombinator.com/item?id=43581714) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -215,11 +239,11 @@ tags:
 
 ---
 
-## <a name="17"></a>17. 澳大利亚最大养老基金遭黑客协同攻击 
+## <a name="19"></a>19. 澳大利亚最大养老基金遭黑客协同攻击 
 <small>🔗 [reuters.com](https://www.reuters.com/technology/cybersecurity/multiple-australian-pension-funds-hit-by-coordinated-hacking-media-reports-say-2025-04-04/): Hackers strike Australia's largest pension funds in coordinated attacks</small>
 
 
-| 🔥: 90 \| 💬: [38](https://news.ycombinator.com/item?id=43580101) \| 🗓️ 2025-04-04
+| 🔥: 90 \| 💬: [39](https://news.ycombinator.com/item?id=43580101) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -227,7 +251,7 @@ tags:
 
 ---
 
-## <a name="18"></a>18. 美国多个电动汽车及电池工厂项目被取消 
+## <a name="20"></a>20. 美国多个电动汽车及电池工厂项目被取消 
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/climate-environment/2025/04/03/ev-factories-canceled/): A number of electric vehicle, battery factories are being canceled</small>
 
 
@@ -236,30 +260,6 @@ tags:
 
 <br />
 过去几年，美国依托《通胀削减法案》的税收优惠，在共和党主导地区兴建了大量**电动汽车**及锂电池工厂，但近期多个项目被叫停。数据显示，2025年第一季度取消的项目数量超过前两年总和，包括佐治亚州10亿美元电池隔热材料工厂和亚利桑那州12亿美元锂电池厂。专家指出，**关税政策不明朗**、税收优惠可能被共和党新法案废除，以及市场需求疲软（美国EV渗透率仅10%-15%）是主因。部分企业转向中国或墨西哥生产，导致本土就业机会流失。普林斯顿大学预测，政策变动或使2030年EV销量下降40%。尽管白宫强调其经济计划将提振制造业，但行业普遍持观望态度，**清洁能源投资大幅放缓**。
-
----
-
-## <a name="19"></a>19. 谷歌推出实验性网络安全模型Sec-Gemini v1 
-<small>🔗 [security.googleblog.com](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html): Google announces Sec-Gemini v1 a new experimental cybersecurity model</small>
-
-
-| 🔥: 87 \| 💬: [21](https://news.ycombinator.com/item?id=43586786) \| 🗓️ 2025-04-04
-
-
-<br />
-谷歌宣布推出**Sec-Gemini v1**，这是一款专注于网络安全的前沿AI实验模型。该模型结合了Gemini的先进能力与实时网络安全知识，旨在通过AI提升防御效率，帮助安全团队更快分析事件根源、评估威胁及漏洞影响。**Sec-Gemini v1**在多项基准测试中表现优异，例如在威胁情报（CTI-MCQ）和漏洞根因映射（CTI-RCM）任务上分别领先其他模型至少11%和10.5%。谷歌将免费向部分机构开放该模型，以推动网络安全领域的协作创新。
-
----
-
-## <a name="20"></a>20. 优秀副业的禅意乐趣 
-<small>🔗 [joshcollinsworth.com](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project): The blissful Zen of a good side project</small>
-
-
-| 🔥: 80 \| 💬: [13](https://news.ycombinator.com/item?id=43587380) \| 🗓️ 2025-04-04
-
-
-<br />
-这篇看似乱码的内容实则探讨了**副业**带来的独特价值——它不仅是经济补充，更是**创造力释放**的出口。通过非正式项目，人们能摆脱主业压力，在**自由探索**中找到平衡与满足感。文中暗示，副业的真正魅力在于其不受限的试验性，让兴趣与技能自然融合。
 
 ---
 
@@ -291,7 +291,7 @@ tags:
 <small>🔗 [dw.com](https://www.dw.com/en/germanys-deutschlandticket-helps-environment-study/a-72128647): Germany's 'Deutschlandticket' helps environment – study</small>
 
 
-| 🔥: 69 \| 💬: [36](https://news.ycombinator.com/item?id=43586182) \| 🗓️ 2025-04-04
+| 🔥: 70 \| 💬: [36](https://news.ycombinator.com/item?id=43586182) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -299,26 +299,26 @@ tags:
 
 ---
 
-## <a name="24"></a>24. 华尔街的溃败：金融泡沫与信任危机 
+## <a name="24"></a>24. Tcl编程语言全面指南（第2版） 
+<small>🔗 [magicsplat.com](https://www.magicsplat.com/ttpl/index.html): The Tcl Programming Language: A Comprehensive Guide (2nd Edition)</small>
+
+
+| 🔥: 66 \| 💬: [34](https://news.ycombinator.com/item?id=43586561) \| 🗓️ 2025-04-04
+
+
+<br />
+本书深入探讨了**Tcl脚本语言**的核心特性与应用，涵盖基础语法、高级功能及实际开发案例。重点解析了**动态类型系统**和**跨平台兼容性**，同时提供优化代码性能的实用技巧。适合从初学者到资深开发者的全阶段学习，是掌握**Tcl自动化与嵌入式开发**的权威参考。
+
+---
+
+## <a name="25"></a>25. 华尔街的溃败：金融泡沫与信任危机 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/04/wall-street-trump-tariffs/682304/): Wall Street Blew It</small>
 
 
-| 🔥: 59 \| 💬: [85](https://news.ycombinator.com/item?id=43587611) \| 🗓️ 2025-04-04
+| 🔥: 61 \| 💬: [102](https://news.ycombinator.com/item?id=43587611) \| 🗓️ 2025-04-04
 
 
 <br />
 这篇内容看似是一段加密或损坏的文本，无法直接解读其具体含义。但从标题《华尔街的溃败》可以推断，文章可能探讨了**金融市场的系统性风险**、**信任崩塌**或**投资泡沫破裂**等主题。华尔街作为全球金融中心，其动荡往往反映更深层的经济问题，如**监管缺失**或**投机行为泛滥**。若内容完整，可能会分析具体事件（如次贷危机重演）或警示未来风险。当前文本状态需修复后才能进一步提炼核心观点。
-
----
-
-## <a name="25"></a>25. 2025年美国金融危机与2008年的本质差异 
-<small>🔗 [samhenrycliff.medium.com](https://samhenrycliff.medium.com/how-the-2025-us-financial-crisis-is-different-than-2008-5b63bdd06067): How the 2025 US Financial Crisis is Different than 2008</small>
-
-
-| 🔥: 52 \| 💬: [100](https://news.ycombinator.com/item?id=43584714) \| 🗓️ 2025-04-04
-
-
-<br />
-作者对比了两次危机：2008年因**金融衍生品**和全球杠杆引发，政府通过**救助大银行**和刺激计划（如TARP）缓解衰退，但未根治贪婪。2025年危机则源于**单边关税**和孤立政策，主动破坏全球信任与贸易体系，缺乏修复机制。**国际信用崩塌**和内部政治分裂使美国陷入长期困境，且无有效救援方案。与2008年不同，此次危机是自我制造且无退路的系统性瓦解。
 
 ---
