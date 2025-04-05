@@ -11,8 +11,8 @@ tags:
 1. 厌倦了这一切；
 1. Gumroad开源代码库现已公开；
 1. 英伟达为CUDA增加原生Python支持；
+1. 特朗普关税重创美股 两日蒸发6.6万亿美元市值；
 1. 美股暴跌：道指狂泻2200点，纳斯达克跌入熊市；
-1. 为何英国民众感到如此贫困？；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [paulrobertlloyd.com](https://paulrobertlloyd.com/2025/087/a1/bored/): Bored of It</small>
 
 
-| 🔥🔥: 532 \| 💬: [442](https://news.ycombinator.com/item?id=43580449) \| 🗓️ 2025-04-04
+| 🔥🔥: 532 \| 💬: [443](https://news.ycombinator.com/item?id=43580449) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/antiwork/gumroad): Gumroad’s source is available</small>
 
 
-| 🔥🔥: 430 \| 💬: [188](https://news.ycombinator.com/item?id=43580103) \| 🗓️ 2025-04-04
+| 🔥🔥: 431 \| 💬: [189](https://news.ycombinator.com/item?id=43580103) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [thenewstack.io](https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/): Nvidia adds native Python support to CUDA</small>
 
 
-| 🔥🔥: 388 \| 💬: [155](https://news.ycombinator.com/item?id=43581584) \| 🗓️ 2025-04-04
+| 🔥🔥: 395 \| 💬: [158](https://news.ycombinator.com/item?id=43581584) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -59,11 +59,23 @@ tags:
 
 ---
 
-## <a name="4"></a>4. 美股暴跌：道指狂泻2200点，纳斯达克跌入熊市 
+## <a name="4"></a>4. 特朗普关税重创美股 两日蒸发6.6万亿美元市值 
+<small>🔗 [wsj.com](https://www.wsj.com/finance/stocks/u-s-stock-futures-fall-further-after-china-retaliates-against-trump-tariffs-3be33fa7): Trump's Tariffs Wipe Out over $6T on Wall Street in Epic Two-Day Rout</small>
+
+
+| 🔥🔥: 267 \| 💬: [285](https://news.ycombinator.com/item?id=43589231) \| 🗓️ 2025-04-04
+
+
+<br />
+美国总统特朗普对全球多国商品加征**高额关税**，导致华尔街遭遇史诗级暴跌。**两天内**全球股市市值缩水**6.6万亿美元**，市场恐慌情绪蔓延，投资者无处避险。此次暴跌凸显贸易政策对金融市场的剧烈冲击。
+
+---
+
+## <a name="5"></a>5. 美股暴跌：道指狂泻2200点，纳斯达克跌入熊市 
 <small>🔗 [finance.yahoo.com](https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-2200-points-nasdaq-enters-bear-market-as-trump-tariffs-spark-worst-meltdown-since-2020-200042876.html): Dow plunges 2,200 points, Nasdaq enters bear market</small>
 
 
-| 🔥🔥: 223 \| 💬: [300](https://news.ycombinator.com/item?id=43587479) \| 🗓️ 2025-04-04
+| 🔥🔥: 227 \| 💬: [324](https://news.ycombinator.com/item?id=43587479) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -71,7 +83,7 @@ tags:
 
 ---
 
-## <a name="5"></a>5. 为何英国民众感到如此贫困？ 
+## <a name="6"></a>6. 为何英国民众感到如此贫困？ 
 <small>🔗 [martinrobbins.substack.com](https://martinrobbins.substack.com/p/von-6-why-does-britain-feel-so-poor): Why does Britain feel so poor?</small>
 
 
@@ -83,7 +95,31 @@ tags:
 
 ---
 
-## <a name="6"></a>6. 特朗普加征关税引发中美贸易战升级 中国对等反击34%关税 
+## <a name="7"></a>7. 仅用3块8引脚芯片打造的交互式Linux电脑 
+<small>🔗 [dmitry.gr](https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux): An interactive-speed Linux computer made of only 3 8-pin chips</small>
+
+
+| 🔥🔥: 177 \| 💬: [68](https://news.ycombinator.com/item?id=43586654) \| 🗓️ 2025-04-04
+
+
+<br />
+该项目通过仅使用**3个8引脚芯片**（包括STM32G031微控制器、8MB PSRAM和PL2303GL USB转串口芯片），构建了一台能流畅运行Debian Linux的微型计算机。设计挑战包括**引脚资源极度受限**（每芯片仅6个可用引脚），需巧妙复用UART和SPI接口连接SD卡与RAM。最终方案以**硬件SPI驱动RAM**，并通过低通滤波复用UART引脚控制SD卡，在8MB内存和1 MIPS算力下支持基础开发工具链（vi/gcc/make）。整机为圆形PCB，适合新手焊接，展现了极简硬件的可能性。
+
+---
+
+## <a name="8"></a>8. 优秀副业的禅意乐趣 
+<small>🔗 [joshcollinsworth.com](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project): The blissful Zen of a good side project</small>
+
+
+| 🔥🔥: 170 \| 💬: [43](https://news.ycombinator.com/item?id=43587380) \| 🗓️ 2025-04-04
+
+
+<br />
+这篇看似乱码的内容实则探讨了**副业**带来的独特价值——它不仅是经济补充，更是**创造力释放**的出口。通过非正式项目，人们能摆脱主业压力，在**自由探索**中找到平衡与满足感。文中暗示，副业的真正魅力在于其不受限的试验性，让兴趣与技能自然融合。
+
+---
+
+## <a name="9"></a>9. 特朗普加征关税引发中美贸易战升级 中国对等反击34%关税 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/04/04/business/china-trump-tariffs-retaliation.html): Trump's Trade War Escalates as China Retaliates with 34% Tariffs</small>
 
 
@@ -95,23 +131,11 @@ tags:
 
 ---
 
-## <a name="7"></a>7. 仅用3块8引脚芯片打造的交互式Linux电脑 
-<small>🔗 [dmitry.gr](https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux): An interactive-speed Linux computer made of only 3 8-pin chips</small>
-
-
-| 🔥🔥: 164 \| 💬: [59](https://news.ycombinator.com/item?id=43586654) \| 🗓️ 2025-04-04
-
-
-<br />
-该项目通过仅使用**3个8引脚芯片**（包括STM32G031微控制器、8MB PSRAM和PL2303GL USB转串口芯片），构建了一台能流畅运行Debian Linux的微型计算机。设计挑战包括**引脚资源极度受限**（每芯片仅6个可用引脚），需巧妙复用UART和SPI接口连接SD卡与RAM。最终方案以**硬件SPI驱动RAM**，并通过低通滤波复用UART引脚控制SD卡，在8MB内存和1 MIPS算力下支持基础开发工具链（vi/gcc/make）。整机为圆形PCB，适合新手焊接，展现了极简硬件的可能性。
-
----
-
-## <a name="8"></a>8. 《Sierra的终结：收购始末》 
+## <a name="10"></a>10. 《Sierra的终结：收购始末》 
 <small>🔗 [filfre.net](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/): The End of Sierra as We Knew It, Part 1: The Acquisition</small>
 
 
-| 🔥🔥: 157 \| 💬: [54](https://news.ycombinator.com/item?id=43586157) \| 🗓️ 2025-04-04
+| 🔥🔥: 165 \| 💬: [55](https://news.ycombinator.com/item?id=43586157) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -119,7 +143,7 @@ tags:
 
 ---
 
-## <a name="9"></a>9. 日益扩大的贸易逆差正在掏空国家根基（2003年） 
+## <a name="11"></a>11. 日益扩大的贸易逆差正在掏空国家根基（2003年） 
 <small>🔗 [faculty.washington.edu](https://faculty.washington.edu/ss1110/IF/Buffett%20Fortune%202003%20(6).pdf): Growing trade deficit is selling the nation out from under us (2003) [pdf]</small>
 
 
@@ -131,11 +155,11 @@ tags:
 
 ---
 
-## <a name="10"></a>10. 鲸油神话破灭：煤油并未拯救抹香鲸 
+## <a name="12"></a>12. 鲸油神话破灭：煤油并未拯救抹香鲸 
 <small>🔗 [edconway.substack.com](https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm): Kerosene did not save the sperm whale (2024)</small>
 
 
-| 🔥🔥: 149 \| 💬: [49](https://news.ycombinator.com/item?id=43584303) \| 🗓️ 2025-04-04
+| 🔥🔥: 151 \| 💬: [50](https://news.ycombinator.com/item?id=43584303) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -143,19 +167,7 @@ tags:
 
 ---
 
-## <a name="11"></a>11. 优秀副业的禅意乐趣 
-<small>🔗 [joshcollinsworth.com](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project): The blissful Zen of a good side project</small>
-
-
-| 🔥🔥: 143 \| 💬: [35](https://news.ycombinator.com/item?id=43587380) \| 🗓️ 2025-04-04
-
-
-<br />
-这篇看似乱码的内容实则探讨了**副业**带来的独特价值——它不仅是经济补充，更是**创造力释放**的出口。通过非正式项目，人们能摆脱主业压力，在**自由探索**中找到平衡与满足感。文中暗示，副业的真正魅力在于其不受限的试验性，让兴趣与技能自然融合。
-
----
-
-## <a name="12"></a>12. 司法部高官被曝青少年时期黑客经历 
+## <a name="13"></a>13. 司法部高官被曝青少年时期黑客经历 
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/04/i-no-longer-hack-paypals-doge-staffers-hacker-past-raises-red-flags/): Doge staffer's YouTube nickname accidentally revealed his teen hacking activity</small>
 
 
@@ -167,7 +179,19 @@ tags:
 
 ---
 
-## <a name="13"></a>13. Gumroad的许可证不符合公认的开源定义 
+## <a name="14"></a>14. 萨尔瓦多监狱的"司法黑洞"给美国人敲响警钟 
+<small>🔗 [rollingstone.com](https://www.rollingstone.com/politics/politics-features/el-salvador-prisons-warning-americans-trump-1235309721/): The 'Judicial Black Hole' of El Salvador's Prisons Is a Warning for Americans</small>
+
+
+| 🔥🔥: 133 \| 💬: [35](https://news.ycombinator.com/item?id=43588970) \| 🗓️ 2025-04-04
+
+
+<br />
+该文揭露了萨尔瓦多监狱系统中存在的**系统性人权侵犯**问题，将其描述为"司法黑洞"。文章指出，在打击帮派犯罪的名义下，该国监狱存在**大规模任意拘押**和**酷刑现象**，囚犯被剥夺基本法律权利。这种情况被视为对美国司法体系的警告，暗示如果忽视正当程序权利，任何国家的司法系统都可能陷入类似困境。文中特别强调这种**紧急状态司法模式**对法治的破坏性影响。
+
+---
+
+## <a name="15"></a>15. Gumroad的许可证不符合公认的开源定义 
 <small>🔗 [danb.me](https://danb.me/blog/gumroad-is-not-open-source/): Gumroad’s license wouldn’t meet the widely regarded definition of open source</small>
 
 
@@ -179,11 +203,11 @@ tags:
 
 ---
 
-## <a name="14"></a>14. 谷歌推出实验性网络安全模型Sec-Gemini v1 
+## <a name="16"></a>16. 谷歌推出实验性网络安全模型Sec-Gemini v1 
 <small>🔗 [security.googleblog.com](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html): Google announces Sec-Gemini v1 a new experimental cybersecurity model</small>
 
 
-| 🔥🔥: 110 \| 💬: [23](https://news.ycombinator.com/item?id=43586786) \| 🗓️ 2025-04-04
+| 🔥🔥: 114 \| 💬: [23](https://news.ycombinator.com/item?id=43586786) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -191,11 +215,11 @@ tags:
 
 ---
 
-## <a name="15"></a>15. 美国富人死亡率与欧洲穷人相当 
+## <a name="17"></a>17. 美国富人死亡率与欧洲穷人相当 
 <small>🔗 [arstechnica.com](https://arstechnica.com/health/2025/04/wealthy-americans-have-death-rates-on-par-with-poor-europeans/): Wealthy Americans have death rates on par with poor Europeans</small>
 
 
-| 🔥🔥: 109 \| 💬: [75](https://news.ycombinator.com/item?id=43584156) \| 🗓️ 2025-04-04
+| 🔥🔥: 110 \| 💬: [76](https://news.ycombinator.com/item?id=43584156) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -203,11 +227,11 @@ tags:
 
 ---
 
-## <a name="16"></a>16. 安·兰德继承者的诅咒 
+## <a name="18"></a>18. 安·兰德继承者的诅咒 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/03/ayn-rand-peikoff-inheritance-battle/682219/): The Curse of Ayn Rand's Heir</small>
 
 
-| 🔥🔥: 108 \| 💬: [208](https://news.ycombinator.com/item?id=43584663) \| 🗓️ 2025-04-04
+| 🔥🔥: 109 \| 💬: [209](https://news.ycombinator.com/item?id=43584663) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -215,7 +239,7 @@ tags:
 
 ---
 
-## <a name="17"></a>17. 道指再跌千点 纳斯达克逼近熊市 
+## <a name="19"></a>19. 道指再跌千点 纳斯达克逼近熊市 
 <small>🔗 [barrons.com](https://www.barrons.com/livecoverage/stock-market-today-040425): Dow Slides Another 1k Points. Nasdaq on Pace to Enter Bear Market</small>
 
 
@@ -227,11 +251,11 @@ tags:
 
 ---
 
-## <a name="18"></a>18. 美国国家海洋和大气管理局气象网站将停用亚马逊、谷歌云服务 
+## <a name="20"></a>20. 美国国家海洋和大气管理局气象网站将停用亚马逊、谷歌云服务 
 <small>🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-04-04/us-weather-agency-websites-to-vanish-under-planned-contract-cuts): NOAA Weather will delete websites using Amazon, Google cloud services Saturday</small>
 
 
-| 🔥: 94 \| 💬: [93](https://news.ycombinator.com/item?id=43581714) \| 🗓️ 2025-04-04
+| 🔥: 95 \| 💬: [93](https://news.ycombinator.com/item?id=43581714) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -239,11 +263,11 @@ tags:
 
 ---
 
-## <a name="19"></a>19. 澳大利亚最大养老基金遭黑客协同攻击 
+## <a name="21"></a>21. 澳大利亚最大养老基金遭黑客协同攻击 
 <small>🔗 [reuters.com](https://www.reuters.com/technology/cybersecurity/multiple-australian-pension-funds-hit-by-coordinated-hacking-media-reports-say-2025-04-04/): Hackers strike Australia's largest pension funds in coordinated attacks</small>
 
 
-| 🔥: 90 \| 💬: [40](https://news.ycombinator.com/item?id=43580101) \| 🗓️ 2025-04-04
+| 🔥: 91 \| 💬: [41](https://news.ycombinator.com/item?id=43580101) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -251,7 +275,7 @@ tags:
 
 ---
 
-## <a name="20"></a>20. 美国多个电动汽车及电池工厂项目被取消 
+## <a name="22"></a>22. 美国多个电动汽车及电池工厂项目被取消 
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/climate-environment/2025/04/03/ev-factories-canceled/): A number of electric vehicle, battery factories are being canceled</small>
 
 
@@ -263,19 +287,7 @@ tags:
 
 ---
 
-## <a name="21"></a>21. 萨尔瓦多监狱的"司法黑洞"给美国人敲响警钟 
-<small>🔗 [rollingstone.com](https://www.rollingstone.com/politics/politics-features/el-salvador-prisons-warning-americans-trump-1235309721/): The 'Judicial Black Hole' of El Salvador's Prisons Is a Warning for Americans</small>
-
-
-| 🔥: 78 \| 💬: [17](https://news.ycombinator.com/item?id=43588970) \| 🗓️ 2025-04-04
-
-
-<br />
-该文揭露了萨尔瓦多监狱系统中存在的**系统性人权侵犯**问题，将其描述为"司法黑洞"。文章指出，在打击帮派犯罪的名义下，该国监狱存在**大规模任意拘押**和**酷刑现象**，囚犯被剥夺基本法律权利。这种情况被视为对美国司法体系的警告，暗示如果忽视正当程序权利，任何国家的司法系统都可能陷入类似困境。文中特别强调这种**紧急状态司法模式**对法治的破坏性影响。
-
----
-
-## <a name="22"></a>22. 我只想存储5TB视频 
+## <a name="23"></a>23. 我只想存储5TB视频 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=3t6L-FlfeaI): I just want to serve 5 terabytes [video]</small>
 
 
@@ -287,38 +299,26 @@ tags:
 
 ---
 
-## <a name="23"></a>23. 特朗普关税重创美股 两日蒸发6.6万亿美元市值 
-<small>🔗 [wsj.com](https://www.wsj.com/finance/stocks/u-s-stock-futures-fall-further-after-china-retaliates-against-trump-tariffs-3be33fa7): Trump's Tariffs Wipe Out over $6T on Wall Street in Epic Two-Day Rout</small>
+## <a name="24"></a>24. Tcl编程语言全面指南（第2版） 
+<small>🔗 [magicsplat.com](https://www.magicsplat.com/ttpl/index.html): The Tcl Programming Language: A Comprehensive Guide (2nd Edition)</small>
 
 
-| 🔥: 74 \| 💬: [27](https://news.ycombinator.com/item?id=43589231) \| 🗓️ 2025-04-04
+| 🔥: 75 \| 💬: [46](https://news.ycombinator.com/item?id=43586561) \| 🗓️ 2025-04-04
 
 
 <br />
-美国总统特朗普对全球多国商品加征**高额关税**，导致华尔街遭遇史诗级暴跌。**两天内**全球股市市值缩水**6.6万亿美元**，市场恐慌情绪蔓延，投资者无处避险。此次暴跌凸显贸易政策对金融市场的剧烈冲击。
+本书深入探讨了**Tcl脚本语言**的核心特性与应用，涵盖基础语法、高级功能及实际开发案例。重点解析了**动态类型系统**和**跨平台兼容性**，同时提供优化代码性能的实用技巧。适合从初学者到资深开发者的全阶段学习，是掌握**Tcl自动化与嵌入式开发**的权威参考。
 
 ---
 
-## <a name="24"></a>24. Mac版Numbers新增LAMBDA函数和MAP函数支持 
+## <a name="25"></a>25. Mac版Numbers新增LAMBDA函数和MAP函数支持 
 <small>🔗 [support.apple.com](https://support.apple.com/guide/functions/map-ffa7bf25643c/web): Mac Numbers now supports LAMBDA functions and MAP</small>
 
 
-| 🔥: 72 \| 💬: [49](https://news.ycombinator.com/item?id=43581137) \| 🗓️ 2025-04-04
+| 🔥: 73 \| 💬: [50](https://news.ycombinator.com/item?id=43581137) \| 🗓️ 2025-04-04
 
 
 <br />
 苹果表格软件Numbers现支持**LAMBDA函数**和**MAP函数**，允许用户通过自定义公式处理数组数据。**MAP函数**可将数组中的每个值通过LAMBDA定义的规则映射为新数组，例如对A1:C2区域每个元素平方（`=MAP(A1:C2, LAMBDA(element, element^2))`）。LAMBDA作为核心逻辑支持**动态计算**，需以计算式为最终参数。此更新扩展了Numbers的公式灵活性，适用于复杂数据转换场景。
-
----
-
-## <a name="25"></a>25. 德国"全德通票"显著减少碳排放，但低收入群体仍难负担 
-<small>🔗 [dw.com](https://www.dw.com/en/germanys-deutschlandticket-helps-environment-study/a-72128647): Germany's 'Deutschlandticket' helps environment – study</small>
-
-
-| 🔥: 70 \| 💬: [37](https://news.ycombinator.com/item?id=43586182) \| 🗓️ 2025-04-04
-
-
-<br />
-研究表明，德国推出的**"全德通票"**（Deutschlandticket）每年可减少420万至650万吨二氧化碳排放，主要吸引了过去很少使用公共交通的**新用户**。该票允许无限次乘坐区域列车，替代汽车长途出行（约30公里），节省燃油和维护成本。但当前58欧元的价格对低收入群体仍较高，部分地区虽有折扣（如维尔茨堡仅15欧元），但近半数地区无补贴。福利协会呼吁推出**25欧元的"社会优惠票"**以保障公平性。
 
 ---
