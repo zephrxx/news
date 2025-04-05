@@ -27,7 +27,7 @@ tags:
 <small>🔗 [paulrobertlloyd.com](https://paulrobertlloyd.com/2025/087/a1/bored/): Bored of It</small>
 
 
-| 🔥🔥: 532 \| 💬: [443](https://news.ycombinator.com/item?id=43580449) \| 🗓️ 2025-04-04
+| 🔥🔥: 533 \| 💬: [443](https://news.ycombinator.com/item?id=43580449) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/antiwork/gumroad): Gumroad’s source is available</small>
 
 
-| 🔥🔥: 436 \| 💬: [189](https://news.ycombinator.com/item?id=43580103) \| 🗓️ 2025-04-04
+| 🔥🔥: 440 \| 💬: [190](https://news.ycombinator.com/item?id=43580103) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [thenewstack.io](https://thenewstack.io/nvidia-finally-adds-native-python-support-to-cuda/): Nvidia adds native Python support to CUDA</small>
 
 
-| 🔥🔥: 406 \| 💬: [164](https://news.ycombinator.com/item?id=43581584) \| 🗓️ 2025-04-04
+| 🔥🔥: 410 \| 💬: [165](https://news.ycombinator.com/item?id=43581584) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [wsj.com](https://www.wsj.com/finance/stocks/u-s-stock-futures-fall-further-after-china-retaliates-against-trump-tariffs-3be33fa7): Trump's Tariffs Wipe Out over $6T on Wall Street in Epic Two-Day Rout</small>
 
 
-| 🔥🔥: 313 \| 💬: [414](https://news.ycombinator.com/item?id=43589231) \| 🗓️ 2025-04-04
+| 🔥🔥: 336 \| 💬: [465](https://news.ycombinator.com/item?id=43589231) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [finance.yahoo.com](https://finance.yahoo.com/news/live/stock-market-today-dow-plunges-2200-points-nasdaq-enters-bear-market-as-trump-tariffs-spark-worst-meltdown-since-2020-200042876.html): Dow plunges 2,200 points, Nasdaq enters bear market</small>
 
 
-| 🔥🔥: 230 \| 💬: [334](https://news.ycombinator.com/item?id=43587479) \| 🗓️ 2025-04-04
+| 🔥🔥: 232 \| 💬: [344](https://news.ycombinator.com/item?id=43587479) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -83,35 +83,11 @@ tags:
 
 ---
 
-## <a name="6"></a>6. 仅用3块8引脚芯片打造的交互式Linux电脑 
-<small>🔗 [dmitry.gr](https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux): An interactive-speed Linux computer made of only 3 8-pin chips</small>
-
-
-| 🔥🔥: 194 \| 💬: [72](https://news.ycombinator.com/item?id=43586654) \| 🗓️ 2025-04-04
-
-
-<br />
-该项目通过仅使用**3个8引脚芯片**（包括STM32G031微控制器、8MB PSRAM和PL2303GL USB转串口芯片），构建了一台能流畅运行Debian Linux的微型计算机。设计挑战包括**引脚资源极度受限**（每芯片仅6个可用引脚），需巧妙复用UART和SPI接口连接SD卡与RAM。最终方案以**硬件SPI驱动RAM**，并通过低通滤波复用UART引脚控制SD卡，在8MB内存和1 MIPS算力下支持基础开发工具链（vi/gcc/make）。整机为圆形PCB，适合新手焊接，展现了极简硬件的可能性。
-
----
-
-## <a name="7"></a>7. 优秀副业的禅意乐趣 
-<small>🔗 [joshcollinsworth.com](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project): The blissful Zen of a good side project</small>
-
-
-| 🔥🔥: 190 \| 💬: [51](https://news.ycombinator.com/item?id=43587380) \| 🗓️ 2025-04-04
-
-
-<br />
-这篇看似乱码的内容实则探讨了**副业**带来的独特价值——它不仅是经济补充，更是**创造力释放**的出口。通过非正式项目，人们能摆脱主业压力，在**自由探索**中找到平衡与满足感。文中暗示，副业的真正魅力在于其不受限的试验性，让兴趣与技能自然融合。
-
----
-
-## <a name="8"></a>8. 萨尔瓦多监狱的"司法黑洞"给美国人敲响警钟 
+## <a name="6"></a>6. 萨尔瓦多监狱的"司法黑洞"给美国人敲响警钟 
 <small>🔗 [rollingstone.com](https://www.rollingstone.com/politics/politics-features/el-salvador-prisons-warning-americans-trump-1235309721/): The 'Judicial Black Hole' of El Salvador's Prisons Is a Warning for Americans</small>
 
 
-| 🔥🔥: 184 \| 💬: [60](https://news.ycombinator.com/item?id=43588970) \| 🗓️ 2025-04-04
+| 🔥🔥: 217 \| 💬: [75](https://news.ycombinator.com/item?id=43588970) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -119,27 +95,51 @@ tags:
 
 ---
 
-## <a name="9"></a>9. 为何英国民众感到如此贫困？ 
-<small>🔗 [martinrobbins.substack.com](https://martinrobbins.substack.com/p/von-6-why-does-britain-feel-so-poor): Why does Britain feel so poor?</small>
+## <a name="7"></a>7. 优秀副业的禅意乐趣 
+<small>🔗 [joshcollinsworth.com](https://joshcollinsworth.com/blog/the-blissful-zen-of-a-good-side-project): The blissful Zen of a good side project</small>
 
 
-| 🔥🔥: 178 \| 💬: [338](https://news.ycombinator.com/item?id=43581672) \| 🗓️ 2025-04-04
+| 🔥🔥: 209 \| 💬: [56](https://news.ycombinator.com/item?id=43587380) \| 🗓️ 2025-04-04
 
 
 <br />
-尽管英国是全球第六大经济体且税收收入达数十年来最高，但民众仍感到拮据。**债务负担**每年消耗超1000亿英镑（超过教育预算），而经济停滞加剧困境。**投资不足**（G7中最低）和**公共支出效率低下**（如NHS浪费、采购混乱）是主因。官僚体系臃肿（如HS2需8276项审批）和地方政府破产风险（如社会护理成本飙升）进一步恶化现状。住房成本高企挤压中产收入，增税提议难获支持。改革需突破性方案，而非小修小补。
+这篇看似乱码的内容实则探讨了**副业**带来的独特价值——它不仅是经济补充，更是**创造力释放**的出口。通过非正式项目，人们能摆脱主业压力，在**自由探索**中找到平衡与满足感。文中暗示，副业的真正魅力在于其不受限的试验性，让兴趣与技能自然融合。
 
 ---
 
-## <a name="10"></a>10. 《Sierra的终结：收购始末》 
+## <a name="8"></a>8. 仅用3块8引脚芯片打造的交互式Linux电脑 
+<small>🔗 [dmitry.gr](https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux): An interactive-speed Linux computer made of only 3 8-pin chips</small>
+
+
+| 🔥🔥: 204 \| 💬: [80](https://news.ycombinator.com/item?id=43586654) \| 🗓️ 2025-04-04
+
+
+<br />
+该项目通过仅使用**3个8引脚芯片**（包括STM32G031微控制器、8MB PSRAM和PL2303GL USB转串口芯片），构建了一台能流畅运行Debian Linux的微型计算机。设计挑战包括**引脚资源极度受限**（每芯片仅6个可用引脚），需巧妙复用UART和SPI接口连接SD卡与RAM。最终方案以**硬件SPI驱动RAM**，并通过低通滤波复用UART引脚控制SD卡，在8MB内存和1 MIPS算力下支持基础开发工具链（vi/gcc/make）。整机为圆形PCB，适合新手焊接，展现了极简硬件的可能性。
+
+---
+
+## <a name="9"></a>9. 《Sierra的终结：收购始末》 
 <small>🔗 [filfre.net](https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/): The End of Sierra as We Knew It, Part 1: The Acquisition</small>
 
 
-| 🔥🔥: 176 \| 💬: [57](https://news.ycombinator.com/item?id=43586157) \| 🗓️ 2025-04-04
+| 🔥🔥: 184 \| 💬: [62](https://news.ycombinator.com/item?id=43586157) \| 🗓️ 2025-04-04
 
 
 <br />
 1996年，**Sierra On-Line**正值巅峰，却意外被名不见经传的**CUC国际**以10.6亿美元收购。CUC由精明的CEO **Walter Forbes**领导，主营线下购物俱乐部和会员服务，商业模式游走于灰色地带。尽管Forbes早年构想类似亚马逊的电商模式，但CUC长期依赖电话推销和自动续费盈利。Ken Williams因疲惫接受了收购，但其妻子Roberta Williams对此深感不安。这场交易最终揭开了Sierra衰落的序幕。
+
+---
+
+## <a name="10"></a>10. 为何英国民众感到如此贫困？ 
+<small>🔗 [martinrobbins.substack.com](https://martinrobbins.substack.com/p/von-6-why-does-britain-feel-so-poor): Why does Britain feel so poor?</small>
+
+
+| 🔥🔥: 179 \| 💬: [339](https://news.ycombinator.com/item?id=43581672) \| 🗓️ 2025-04-04
+
+
+<br />
+尽管英国是全球第六大经济体且税收收入达数十年来最高，但民众仍感到拮据。**债务负担**每年消耗超1000亿英镑（超过教育预算），而经济停滞加剧困境。**投资不足**（G7中最低）和**公共支出效率低下**（如NHS浪费、采购混乱）是主因。官僚体系臃肿（如HS2需8276项审批）和地方政府破产风险（如社会护理成本飙升）进一步恶化现状。住房成本高企挤压中产收入，增税提议难获支持。改革需突破性方案，而非小修小补。
 
 ---
 
@@ -155,23 +155,11 @@ tags:
 
 ---
 
-## <a name="12"></a>12. 日益扩大的贸易逆差正在掏空国家根基（2003年） 
-<small>🔗 [faculty.washington.edu](https://faculty.washington.edu/ss1110/IF/Buffett%20Fortune%202003%20(6).pdf): Growing trade deficit is selling the nation out from under us (2003) [pdf]</small>
-
-
-| 🔥🔥: 153 \| 💬: [177](https://news.ycombinator.com/item?id=43579908) \| 🗓️ 2025-04-04
-
-
-<br />
-该PDF文档因技术原因无法直接提取文本内容，但从标题可见其核心议题为**贸易逆差对国家经济的侵蚀性影响**。文件可能分析了2003年美国贸易失衡的现状，强调长期逆差会导致**就业流失**、**产业空心化**等风险，并警示这种趋势可能削弱国家经济主权。关键论点或围绕**贸易政策调整**、**本土产业保护**的必要性展开。
-
----
-
-## <a name="13"></a>13. 鲸油神话破灭：煤油并未拯救抹香鲸 
+## <a name="12"></a>12. 鲸油神话破灭：煤油并未拯救抹香鲸 
 <small>🔗 [edconway.substack.com](https://edconway.substack.com/p/no-kerosene-did-not-save-the-sperm): Kerosene did not save the sperm whale (2024)</small>
 
 
-| 🔥🔥: 153 \| 💬: [52](https://news.ycombinator.com/item?id=43584303) \| 🗓️ 2025-04-04
+| 🔥🔥: 155 \| 💬: [52](https://news.ycombinator.com/item?id=43584303) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -179,11 +167,23 @@ tags:
 
 ---
 
+## <a name="13"></a>13. 日益扩大的贸易逆差正在掏空国家根基（2003年） 
+<small>🔗 [faculty.washington.edu](https://faculty.washington.edu/ss1110/IF/Buffett%20Fortune%202003%20(6).pdf): Growing trade deficit is selling the nation out from under us (2003) [pdf]</small>
+
+
+| 🔥🔥: 153 \| 💬: [178](https://news.ycombinator.com/item?id=43579908) \| 🗓️ 2025-04-04
+
+
+<br />
+该PDF文档因技术原因无法直接提取文本内容，但从标题可见其核心议题为**贸易逆差对国家经济的侵蚀性影响**。文件可能分析了2003年美国贸易失衡的现状，强调长期逆差会导致**就业流失**、**产业空心化**等风险，并警示这种趋势可能削弱国家经济主权。关键论点或围绕**贸易政策调整**、**本土产业保护**的必要性展开。
+
+---
+
 ## <a name="14"></a>14. 司法部高官被曝青少年时期黑客经历 
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/04/i-no-longer-hack-paypals-doge-staffers-hacker-past-raises-red-flags/): Doge staffer's YouTube nickname accidentally revealed his teen hacking activity</small>
 
 
-| 🔥🔥: 138 \| 💬: [167](https://news.ycombinator.com/item?id=43579925) \| 🗓️ 2025-04-04
+| 🔥🔥: 138 \| 💬: [168](https://news.ycombinator.com/item?id=43579925) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -195,7 +195,7 @@ tags:
 <small>🔗 [security.googleblog.com](https://security.googleblog.com/2025/04/google-launches-sec-gemini-v1-new.html): Google announces Sec-Gemini v1 a new experimental cybersecurity model</small>
 
 
-| 🔥🔥: 119 \| 💬: [26](https://news.ycombinator.com/item?id=43586786) \| 🗓️ 2025-04-04
+| 🔥🔥: 124 \| 💬: [33](https://news.ycombinator.com/item?id=43586786) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -231,7 +231,7 @@ tags:
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/03/ayn-rand-peikoff-inheritance-battle/682219/): The Curse of Ayn Rand's Heir</small>
 
 
-| 🔥🔥: 109 \| 💬: [212](https://news.ycombinator.com/item?id=43584663) \| 🗓️ 2025-04-04
+| 🔥🔥: 110 \| 💬: [213](https://news.ycombinator.com/item?id=43584663) \| 🗓️ 2025-04-04
 
 
 <br />
@@ -291,7 +291,7 @@ tags:
 <small>🔗 [magicsplat.com](https://www.magicsplat.com/ttpl/index.html): The Tcl Programming Language: A Comprehensive Guide (2nd Edition)</small>
 
 
-| 🔥: 83 \| 💬: [52](https://news.ycombinator.com/item?id=43586561) \| 🗓️ 2025-04-04
+| 🔥: 86 \| 💬: [58](https://news.ycombinator.com/item?id=43586561) \| 🗓️ 2025-04-04
 
 
 <br />
