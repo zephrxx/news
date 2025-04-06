@@ -27,7 +27,7 @@ tags:
 <small>🔗 [ai.meta.com](https://ai.meta.com/blog/llama-4-multimodal-intelligence/): The Llama 4 herd</small>
 
 
-| 🔥🔥: 717 \| 💬: [341](https://news.ycombinator.com/item?id=43595585) \| 🗓️ 2025-04-05
+| 🔥🔥: 777 \| 💬: [359](https://news.ycombinator.com/item?id=43595585) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [simone.org](https://simone.org/advertising/): What If We Made Advertising Illegal?</small>
 
 
-| 🔥🔥: 594 \| 💬: [480](https://news.ycombinator.com/item?id=43595269) \| 🗓️ 2025-04-05
+| 🔥🔥: 662 \| 💬: [547](https://news.ycombinator.com/item?id=43595269) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [whatsit.today](https://www.whatsit.today/): Show HN: I built a word game. My mom thinks it's great. What do you think?</small>
 
 
-| 🔥🔥: 243 \| 💬: [142](https://news.ycombinator.com/item?id=43593789) \| 🗓️ 2025-04-05
+| 🔥🔥: 256 \| 💬: [147](https://news.ycombinator.com/item?id=43593789) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [eshard.com](https://eshard.com/posts/emulating-ios-14-with-qemu): Emulating an iPhone in QEMU</small>
 
 
-| 🔥🔥: 172 \| 💬: [44](https://news.ycombinator.com/item?id=43592409) \| 🗓️ 2025-04-05
+| 🔥🔥: 180 \| 💬: [44](https://news.ycombinator.com/item?id=43592409) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [forums.swift.org](https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060): A Vision for WebAssembly Support in Swift</small>
 
 
-| 🔥🔥: 160 \| 💬: [67](https://news.ycombinator.com/item?id=43593596) \| 🗓️ 2025-04-05
+| 🔥🔥: 163 \| 💬: [70](https://news.ycombinator.com/item?id=43593596) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [science.org](https://www.science.org/content/article/earth-s-clouds-are-shrinking-boosting-global-warming): Earth's clouds are shrinking, boosting global warming</small>
 
 
-| 🔥🔥: 150 \| 💬: [123](https://news.ycombinator.com/item?id=43592756) \| 🗓️ 2025-04-05
+| 🔥🔥: 151 \| 💬: [123](https://news.ycombinator.com/item?id=43592756) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [mediascope.group](https://mediascope.group/europe-needs-its-own-social-media-platforms-to-safeguard-sovereignty/): Europe needs its own social media platforms to safeguard sovereignty</small>
 
 
-| 🔥: 99 \| 💬: [175](https://news.ycombinator.com/item?id=43592454) \| 🗓️ 2025-04-05
+| 🔥🔥: 101 \| 💬: [175](https://news.ycombinator.com/item?id=43592454) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -107,15 +107,15 @@ tags:
 
 ---
 
-## <a name="8"></a>8. Llama 4 现已在 Groq 平台上线 
-<small>🔗 [groq.com](https://groq.com/llama-4-now-live-on-groq-build-fast-at-the-lowest-cost-without-compromise/): Llama 4 Now Live on Groq</small>
+## <a name="8"></a>8. 埃克塞特低调合作社员工的"标识领主"双重生活 
+<small>🔗 [devonlive.com](https://www.devonlive.com/whats-on/whats-on-news/exeters-unassuming-co-op-worker-10039941): Exeter's unassuming co-op worker leads double life as 'Lord of the Logos'</small>
 
 
-| 🔥: 99 \| 💬: [39](https://news.ycombinator.com/item?id=43596470) \| 🗓️ 2025-04-05
+| 🔥🔥: 101 \| 💬: [32](https://news.ycombinator.com/item?id=43594396) \| 🗓️ 2025-04-05
 
 
 <br />
-Groq 平台宣布 **Llama 4** 正式发布，这是一款高性能的 AI 模型，旨在提供更快的推理速度和更强的计算能力。此次更新进一步优化了模型架构，使其在 **大规模数据处理** 和 **复杂任务执行** 方面表现更出色。开发者现可通过 Groq 的云服务访问该模型，享受低延迟、高吞吐的 AI 解决方案。
+该文讲述了一位在埃克塞特合作社工作的普通员工，私下却以**"标识领主"**的身份活跃在创意设计领域。这位匿名设计者通过为各类活动和企业设计**视觉标识**，在当地艺术圈小有名气。文章揭示了主人公如何平衡日常工作与**艺术创作**的双重生活，以及其设计作品如何逐渐获得认可的过程。
 
 ---
 
@@ -123,7 +123,7 @@ Groq 平台宣布 **Llama 4** 正式发布，这是一款高性能的 AI 模型�
 <small>🔗 [okmij.org](https://okmij.org/ftp/tagless-final/Compiler/index.html): Compilers: Incrementally and Extensibly (2024)</small>
 
 
-| 🔥: 98 \| 💬: [27](https://news.ycombinator.com/item?id=43593088) \| 🗓️ 2025-04-05
+| 🔥: 100 \| 💬: [28](https://news.ycombinator.com/item?id=43593088) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -136,15 +136,15 @@ Groq 平台宣布 **Llama 4** 正式发布，这是一款高性能的 AI 模型�
 
 ---
 
-## <a name="10"></a>10. 埃克塞特低调合作社员工的"标识领主"双重生活 
-<small>🔗 [devonlive.com](https://www.devonlive.com/whats-on/whats-on-news/exeters-unassuming-co-op-worker-10039941): Exeter's unassuming co-op worker leads double life as 'Lord of the Logos'</small>
+## <a name="10"></a>10. Llama 4 现已在 Groq 平台上线 
+<small>🔗 [groq.com](https://groq.com/llama-4-now-live-on-groq-build-fast-at-the-lowest-cost-without-compromise/): Llama 4 Now Live on Groq</small>
 
 
-| 🔥: 95 \| 💬: [30](https://news.ycombinator.com/item?id=43594396) \| 🗓️ 2025-04-05
+| 🔥: 100 \| 💬: [42](https://news.ycombinator.com/item?id=43596470) \| 🗓️ 2025-04-05
 
 
 <br />
-该文讲述了一位在埃克塞特合作社工作的普通员工，私下却以**"标识领主"**的身份活跃在创意设计领域。这位匿名设计者通过为各类活动和企业设计**视觉标识**，在当地艺术圈小有名气。文章揭示了主人公如何平衡日常工作与**艺术创作**的双重生活，以及其设计作品如何逐渐获得认可的过程。
+Groq 平台宣布 **Llama 4** 正式发布，这是一款高性能的 AI 模型，旨在提供更快的推理速度和更强的计算能力。此次更新进一步优化了模型架构，使其在 **大规模数据处理** 和 **复杂任务执行** 方面表现更出色。开发者现可通过 Groq 的云服务访问该模型，享受低延迟、高吞吐的 AI 解决方案。
 
 ---
 
@@ -160,35 +160,11 @@ Groq 平台宣布 **Llama 4** 正式发布，这是一款高性能的 AI 模型�
 
 ---
 
-## <a name="12"></a>12. NASA"旅行者"项目科学家面临艰难抉择：任务即将终结 
-<small>🔗 [gizmodo.com](https://gizmodo.com/keeping-voyager-alive-nasas-project-scientist-faces-painful-choices-as-the-iconic-mission-nears-its-end-2000580634): NASA's Project Scientist Faces Painful Choices as Voyager Mission Nears Its End</small>
-
-
-| 🔥: 79 \| 💬: [21](https://news.ycombinator.com/item?id=43595293) \| 🗓️ 2025-04-05
-
-
-<br />
-NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一系列**痛苦抉择**。由于探测器能源即将耗尽，团队必须决定关闭哪些科学仪器以延长任务时间。这项持续45年的星际探索任务已远超预期寿命，但关闭仪器意味着永久失去某些**宇宙数据**的收集能力。科学家们需要在有限资源与科学价值间权衡，标志着人类最远航天器即将结束其历史性旅程。
-
----
-
-## <a name="13"></a>13. 隐形AI面试官：技术面试的革新工具 
-<small>🔗 [interviewcoder.co](https://www.interviewcoder.co/): Interview Coder is an invisible AI for technical interviews</small>
-
-
-| 🔥: 77 \| 💬: [111](https://news.ycombinator.com/item?id=43592540) \| 🗓️ 2025-04-05
-
-
-<br />
-这段内容描述了一款名为**Interview Coder**的**隐形AI工具**，专为技术面试场景设计。它能在面试过程中实时分析候选人的代码能力、逻辑思维和问题解决表现，提供**客观评估**，同时减少人为偏见。其核心优势在于**自动化评分**和**即时反馈**，帮助招聘方高效筛选人才。工具适用于编程测试、算法挑战等环节，旨在提升技术招聘的**公平性**与效率。
-
----
-
-## <a name="14"></a>14. Go语言加速解释器性能：追赶C++的步伐 
+## <a name="12"></a>12. Go语言加速解释器性能：追赶C++的步伐 
 <small>🔗 [planetscale.com](https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp): Faster interpreters in Go: Catching up with C++</small>
 
 
-| 🔥: 73 \| 💬: [12](https://news.ycombinator.com/item?id=43595283) \| 🗓️ 2025-04-05
+| 🔥: 85 \| 💬: [14](https://news.ycombinator.com/item?id=43595283) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -196,11 +172,23 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 
 ---
 
-## <a name="15"></a>15. 数据库协议设计的不足与改进方向 
+## <a name="13"></a>13. NASA"旅行者"项目科学家面临艰难抉择：任务即将终结 
+<small>🔗 [gizmodo.com](https://gizmodo.com/keeping-voyager-alive-nasas-project-scientist-faces-painful-choices-as-the-iconic-mission-nears-its-end-2000580634): NASA's Project Scientist Faces Painful Choices as Voyager Mission Nears Its End</small>
+
+
+| 🔥: 85 \| 💬: [25](https://news.ycombinator.com/item?id=43595293) \| 🗓️ 2025-04-05
+
+
+<br />
+NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一系列**痛苦抉择**。由于探测器能源即将耗尽，团队必须决定关闭哪些科学仪器以延长任务时间。这项持续45年的星际探索任务已远超预期寿命，但关闭仪器意味着永久失去某些**宇宙数据**的收集能力。科学家们需要在有限资源与科学价值间权衡，标志着人类最远航天器即将结束其历史性旅程。
+
+---
+
+## <a name="14"></a>14. 数据库协议设计的不足与改进方向 
 <small>🔗 [byroot.github.io](https://byroot.github.io/performance/2025/03/21/database-protocols.html): Database Protocols Are Underwhelming</small>
 
 
-| 🔥: 72 \| 💬: [13](https://news.ycombinator.com/item?id=43593547) \| 🗓️ 2025-04-05
+| 🔥: 81 \| 💬: [13](https://news.ycombinator.com/item?id=43593547) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -208,11 +196,37 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 
 ---
 
-## <a name="16"></a>16. AMD RDNA 4架构的动态寄存器分配技术 
+## <a name="15"></a>15. 成功谈判工作offer的十大法则 
+<small>🔗 [haseebq.com](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/): Ten Rules for Negotiating a Job Offer</small>
+
+
+| 🔥: 79 \| 💬: [29](https://news.ycombinator.com/item?id=43596864) \| 🗓️ 2025-04-05
+
+
+<br />
+提供的文本内容无法正常解析，似乎是乱码或加密数据。若您能提供清晰的工作offer谈判建议原文，我可为您提炼核心要点。  
+
+通常这类指南会强调：**明确自身价值**、**研究市场薪资**、**优先谈薪资范围而非具体数字**，以及灵活协商福利、期权等非现金条款。谈判中保持专业态度，避免过早亮出底线，同时重视长期职业发展机会。
+
+---
+
+## <a name="16"></a>16. 隐形AI面试官：技术面试的革新工具 
+<small>🔗 [interviewcoder.co](https://www.interviewcoder.co/): Interview Coder is an invisible AI for technical interviews</small>
+
+
+| 🔥: 77 \| 💬: [112](https://news.ycombinator.com/item?id=43592540) \| 🗓️ 2025-04-05
+
+
+<br />
+这段内容描述了一款名为**Interview Coder**的**隐形AI工具**，专为技术面试场景设计。它能在面试过程中实时分析候选人的代码能力、逻辑思维和问题解决表现，提供**客观评估**，同时减少人为偏见。其核心优势在于**自动化评分**和**即时反馈**，帮助招聘方高效筛选人才。工具适用于编程测试、算法挑战等环节，旨在提升技术招聘的**公平性**与效率。
+
+---
+
+## <a name="17"></a>17. AMD RDNA 4架构的动态寄存器分配技术 
 <small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/dynamic-register-allocation-on-amds): Dynamic Register Allocation on AMD's RDNA 4 GPU Architecture</small>
 
 
-| 🔥: 71 \| 💬: [9](https://news.ycombinator.com/item?id=43595223) \| 🗓️ 2025-04-05
+| 🔥: 75 \| 💬: [11](https://news.ycombinator.com/item?id=43595223) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -220,11 +234,11 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 
 ---
 
-## <a name="17"></a>17. 法官驳回OpenAI驳回《纽约时报》版权诉讼的动议 
+## <a name="18"></a>18. 法官驳回OpenAI驳回《纽约时报》版权诉讼的动议 
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/04/judge-doesnt-buy-openai-argument-nyts-own-reporting-weakens-copyright-suit/): OpenAI's Motion to Dismiss Copyright Claims Rejected by Judge</small>
 
 
-| 🔥: 69 \| 💬: [11](https://news.ycombinator.com/item?id=43596555) \| 🗓️ 2025-04-05
+| 🔥: 71 \| 💬: [12](https://news.ycombinator.com/item?id=43596555) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -232,7 +246,7 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 
 ---
 
-## <a name="18"></a>18. AdNauseam：替你点击广告的工具 
+## <a name="19"></a>19. AdNauseam：替你点击广告的工具 
 <small>🔗 [adnauseam.io](https://adnauseam.io/): AdNauseam: Clicking ads so you don't have to</small>
 
 
@@ -244,11 +258,11 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 
 ---
 
-## <a name="19"></a>19. 加州电动汽车充电桩数量首超加油站 
+## <a name="20"></a>20. 加州电动汽车充电桩数量首超加油站 
 <small>🔗 [latimes.com](https://www.latimes.com/california/story/2025-03-26/california-now-has-more-ev-charging-ports-than-gas-nozzles): California now has more EV charging ports than gas nozzles</small>
 
 
-| 🔥: 60 \| 💬: [90](https://news.ycombinator.com/item?id=43592661) \| 🗓️ 2025-04-05
+| 🔥: 61 \| 💬: [90](https://news.ycombinator.com/item?id=43592661) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -256,7 +270,7 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 
 ---
 
-## <a name="20"></a>20. SpacetimeDB v1.0：光速级的多人在线数据库 
+## <a name="21"></a>21. SpacetimeDB v1.0：光速级的多人在线数据库 
 <small>🔗 [github.com](https://github.com/clockworklabs/SpacetimeDB): SpacetimeDB v1.0: Multiplayer at the speed of light</small>
 
 
@@ -270,7 +284,7 @@ SpacetimeDB 是一个**将数据库与服务器合二为一**的创新系统，�
 
 ---
 
-## <a name="21"></a>21. 加载器编号解析 
+## <a name="22"></a>22. 加载器编号解析 
 <small>🔗 [googology.fandom.com](https://googology.fandom.com/wiki/Loader%27s_number): Loader's Number</small>
 
 
@@ -287,11 +301,11 @@ SpacetimeDB 是一个**将数据库与服务器合二为一**的创新系统，�
 
 ---
 
-## <a name="22"></a>22. 重大研究揭示饮食对子宫内膜异位症的影响 
+## <a name="23"></a>23. 重大研究揭示饮食对子宫内膜异位症的影响 
 <small>🔗 [theguardian.com](https://www.theguardian.com/society/2025/apr/05/major-endometriosis-study-reveals-impact-of-gluten-coffee-dairy-and-alcohol): Major endometriosis study reveals impact of gluten, coffee, dairy and alcohol</small>
 
 
-| 🔥: 51 \| 💬: [23](https://news.ycombinator.com/item?id=43592400) \| 🗓️ 2025-04-05
+| 🔥: 51 \| 💬: [24](https://news.ycombinator.com/item?id=43592400) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -299,7 +313,19 @@ SpacetimeDB 是一个**将数据库与服务器合二为一**的创新系统，�
 
 ---
 
-## <a name="23"></a>23. 神秘的加密文本：无法解读的信息 
+## <a name="24"></a>24. 北美大陆底部正在滴落，地质学家首次发现这一现象 
+<small>🔗 [jsg.utexas.edu](https://www.jsg.utexas.edu/news/2025/04/north-america-is-dripping-from-below-geoscientists-discover/): North America Is Dripping from Below, Geoscientists Discover</small>
+
+
+| 🔥: 51 \| 💬: [7](https://news.ycombinator.com/item?id=43596546) \| 🗓️ 2025-04-05
+
+
+<br />
+研究人员发现，北美大陆底部正以**岩石滴落**的形式逐渐流失，而沉入地幔的**法拉龙板块**残余可能是这一现象的成因。该研究由得克萨斯大学奥斯汀分校团队发表在《自然·地球科学》上，首次捕捉到**克拉通减薄**的实时过程。尽管滴落集中于美国中西部地底，但不会短期内改变地表形态。这一发现为理解大陆演化提供了新视角，相关模型显示法拉龙板块通过改变地幔流动和释放挥发性物质削弱克拉通基底。研究由美国国家科学基金会资助。
+
+---
+
+## <a name="25"></a>25. 神秘的加密文本：无法解读的信息 
 <small>🔗 [ai.meta.com](https://ai.meta.com/blog/llama-4-multimodal-intelligence/?_fb_noscript=1): The Llama 4 Herd</small>
 
 
@@ -308,29 +334,5 @@ SpacetimeDB 是一个**将数据库与服务器合二为一**的创新系统，�
 
 <br />
 这段内容看似由**随机字符**和符号组成，可能是加密数据、编码错误或系统生成的乱码。文本中混杂了部分可读的字母和数字，但整体缺乏可识别的语言结构。**无法提取有效信息**，可能是技术故障或加密算法的输出。若为加密内容，需特定**解码密钥**才能还原原始信息。建议检查数据来源或编码方式以进一步分析。
-
----
-
-## <a name="24"></a>24. iPhone或因关税在美国涨价至2300美元 
-<small>🔗 [macrumors.com](https://www.macrumors.com/2025/04/04/2300-dollar-iphone/): iPhones Could Cost Up to $2,300 in the U.S. Due to Tariffs, Analyst Says</small>
-
-
-| 🔥: 41 \| 💬: [66](https://news.ycombinator.com/item?id=43592125) \| 🗓️ 2025-04-05
-
-
-<br />
-美国前总统特朗普宣布自4月9日起对多国进口商品加征**54%关税**，可能显著影响苹果公司。分析师预测，若苹果将成本转嫁给消费者，**iPhone 16 Pro Max顶配版价格或从1599美元飙升至2300美元**，入门款iPhone 16e也可能从599美元涨至850美元。苹果股价已下跌15%，但公司尚未公开回应是否涨价或采取其他措施抵消影响。
-
----
-
-## <a name="25"></a>25. 色情算法正在催生新一代恋童癖吗？ 
-<small>🔗 [theguardian.com](https://www.theguardian.com/society/2025/apr/05/i-didnt-start-out-wanting-to-see-kids-are-porn-algorithms-feeding-a-generation-of-paedophiles-or-creating-one): Are porn algorithms feeding a generation of paedophiles – or creating one?</small>
-
-
-| 🔥: 40 \| 💬: [57](https://news.ycombinator.com/item?id=43592353) \| 🗓️ 2025-04-05
-
-
-<br />
-英国每月有850名男性因网络儿童性虐待内容被捕，涵盖教师、警察、医生等职业。**研究发现**，免费色情内容的泛滥导致用户对极端内容脱敏，**算法推荐**逐步引导他们接触未成年人影像。两名受访者承认，最初只是观看合法成人内容，但长期沉迷后转向非法材料。专家指出，**主流色情平台**通过“校园”“乱伦”等擦边球主题降低道德门槛，而新法规尚未禁止这类有害但合法的内容。芬兰调查显示，超半数儿童性侵影像观看者最初并非主动搜索，其中三分之二首次接触时自己还未成年。
 
 ---
