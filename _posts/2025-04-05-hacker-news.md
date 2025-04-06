@@ -27,7 +27,7 @@ tags:
 <small>🔗 [ai.meta.com](https://ai.meta.com/blog/llama-4-multimodal-intelligence/): The Llama 4 herd</small>
 
 
-| 🔥🔥: 870 \| 💬: [408](https://news.ycombinator.com/item?id=43595585) \| 🗓️ 2025-04-05
+| 🔥🔥: 901 \| 💬: [421](https://news.ycombinator.com/item?id=43595585) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [simone.org](https://simone.org/advertising/): What If We Made Advertising Illegal?</small>
 
 
-| 🔥🔥: 801 \| 💬: [669](https://news.ycombinator.com/item?id=43595269) \| 🗓️ 2025-04-05
+| 🔥🔥: 849 \| 💬: [697](https://news.ycombinator.com/item?id=43595269) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [whatsit.today](https://www.whatsit.today/): Show HN: I built a word game. My mom thinks it's great. What do you think?</small>
 
 
-| 🔥🔥: 298 \| 💬: [161](https://news.ycombinator.com/item?id=43593789) \| 🗓️ 2025-04-05
+| 🔥🔥: 314 \| 💬: [163](https://news.ycombinator.com/item?id=43593789) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [haseebq.com](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/): Ten Rules for Negotiating a Job Offer</small>
 
 
-| 🔥🔥: 215 \| 💬: [103](https://news.ycombinator.com/item?id=43596864) \| 🗓️ 2025-04-05
+| 🔥🔥: 246 \| 💬: [120](https://news.ycombinator.com/item?id=43596864) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -77,7 +77,7 @@ tags:
 <small>🔗 [eshard.com](https://eshard.com/posts/emulating-ios-14-with-qemu): Emulating an iPhone in QEMU</small>
 
 
-| 🔥🔥: 194 \| 💬: [45](https://news.ycombinator.com/item?id=43592409) \| 🗓️ 2025-04-05
+| 🔥🔥: 197 \| 💬: [46](https://news.ycombinator.com/item?id=43592409) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -85,23 +85,11 @@ tags:
 
 ---
 
-## <a name="6"></a>6. Swift 对 WebAssembly 支持的愿景 
-<small>🔗 [forums.swift.org](https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060): A Vision for WebAssembly Support in Swift</small>
-
-
-| 🔥🔥: 169 \| 💬: [77](https://news.ycombinator.com/item?id=43593596) \| 🗓️ 2025-04-05
-
-
-<br />
-这篇提案概述了 Swift 语言对 **WebAssembly（Wasm）** 的支持愿景，旨在提升其在跨平台开发中的适用性。WebAssembly 以其**高性能、安全性和可移植性**成为关键技术，而 Swift 通过 WasmKit 等工具已实现初步支持。提案重点包括完善 WASI（WebAssembly 系统接口）兼容性、推动组件模型（Component Model）集成，以及优化调试和多线程支持。未来目标包括简化跨平台编译、增强工具链集成，并为开发者提供更流畅的 Wasm 开发体验。
-
----
-
-## <a name="7"></a>7. 苹果Darwin操作系统与XNU内核深度解析 
+## <a name="6"></a>6. 苹果Darwin操作系统与XNU内核深度解析 
 <small>🔗 [tansanrao.com](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/): Apple's Darwin OS and XNU Kernel Deep Dive</small>
 
 
-| 🔥🔥: 155 \| 💬: [30](https://news.ycombinator.com/item?id=43597778) \| 🗓️ 2025-04-05
+| 🔥🔥: 179 \| 💬: [35](https://news.ycombinator.com/item?id=43597778) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -109,11 +97,23 @@ tags:
 
 ---
 
+## <a name="7"></a>7. Swift 对 WebAssembly 支持的愿景 
+<small>🔗 [forums.swift.org](https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060): A Vision for WebAssembly Support in Swift</small>
+
+
+| 🔥🔥: 171 \| 💬: [77](https://news.ycombinator.com/item?id=43593596) \| 🗓️ 2025-04-05
+
+
+<br />
+这篇提案概述了 Swift 语言对 **WebAssembly（Wasm）** 的支持愿景，旨在提升其在跨平台开发中的适用性。WebAssembly 以其**高性能、安全性和可移植性**成为关键技术，而 Swift 通过 WasmKit 等工具已实现初步支持。提案重点包括完善 WASI（WebAssembly 系统接口）兼容性、推动组件模型（Component Model）集成，以及优化调试和多线程支持。未来目标包括简化跨平台编译、增强工具链集成，并为开发者提供更流畅的 Wasm 开发体验。
+
+---
+
 ## <a name="8"></a>8. 地球云层正在减少，加剧全球变暖 
 <small>🔗 [science.org](https://www.science.org/content/article/earth-s-clouds-are-shrinking-boosting-global-warming): Earth's clouds are shrinking, boosting global warming</small>
 
 
-| 🔥🔥: 151 \| 💬: [123](https://news.ycombinator.com/item?id=43592756) \| 🗓️ 2025-04-05
+| 🔥🔥: 151 \| 💬: [124](https://news.ycombinator.com/item?id=43592756) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -125,7 +125,7 @@ tags:
 <small>🔗 [planetscale.com](https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp): Faster interpreters in Go: Catching up with C++</small>
 
 
-| 🔥🔥: 116 \| 💬: [22](https://news.ycombinator.com/item?id=43595283) \| 🗓️ 2025-04-05
+| 🔥🔥: 121 \| 💬: [23](https://news.ycombinator.com/item?id=43595283) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -137,7 +137,7 @@ tags:
 <small>🔗 [devonlive.com](https://www.devonlive.com/whats-on/whats-on-news/exeters-unassuming-co-op-worker-10039941): Exeter's unassuming co-op worker leads double life as 'Lord of the Logos'</small>
 
 
-| 🔥🔥: 112 \| 💬: [39](https://news.ycombinator.com/item?id=43594396) \| 🗓️ 2025-04-05
+| 🔥🔥: 114 \| 💬: [40](https://news.ycombinator.com/item?id=43594396) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -149,7 +149,7 @@ tags:
 <small>🔗 [okmij.org](https://okmij.org/ftp/tagless-final/Compiler/index.html): Compilers: Incrementally and Extensibly (2024)</small>
 
 
-| 🔥🔥: 108 \| 💬: [28](https://news.ycombinator.com/item?id=43593088) \| 🗓️ 2025-04-05
+| 🔥🔥: 112 \| 💬: [29](https://news.ycombinator.com/item?id=43593088) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -166,7 +166,7 @@ tags:
 <small>🔗 [mediascope.group](https://mediascope.group/europe-needs-its-own-social-media-platforms-to-safeguard-sovereignty/): Europe needs its own social media platforms to safeguard sovereignty</small>
 
 
-| 🔥🔥: 104 \| 💬: [175](https://news.ycombinator.com/item?id=43592454) \| 🗓️ 2025-04-05
+| 🔥🔥: 105 \| 💬: [175](https://news.ycombinator.com/item?id=43592454) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -178,7 +178,7 @@ tags:
 <small>🔗 [groq.com](https://groq.com/llama-4-now-live-on-groq-build-fast-at-the-lowest-cost-without-compromise/): Llama 4 Now Live on Groq</small>
 
 
-| 🔥🔥: 103 \| 💬: [46](https://news.ycombinator.com/item?id=43596470) \| 🗓️ 2025-04-05
+| 🔥🔥: 105 \| 💬: [46](https://news.ycombinator.com/item?id=43596470) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -190,7 +190,7 @@ Groq 平台宣布 **Llama 4** 正式发布，这是一款高性能的 AI 模型�
 <small>🔗 [gizmodo.com](https://gizmodo.com/keeping-voyager-alive-nasas-project-scientist-faces-painful-choices-as-the-iconic-mission-nears-its-end-2000580634): NASA's Project Scientist Faces Painful Choices as Voyager Mission Nears Its End</small>
 
 
-| 🔥: 94 \| 💬: [29](https://news.ycombinator.com/item?id=43595293) \| 🗓️ 2025-04-05
+| 🔥: 100 \| 💬: [29](https://news.ycombinator.com/item?id=43595293) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -198,7 +198,19 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 
 ---
 
-## <a name="15"></a>15. 1964年前出版的公共领域技术书籍合集 
+## <a name="15"></a>15. AMD RDNA 4架构的动态寄存器分配技术 
+<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/dynamic-register-allocation-on-amds): Dynamic Register Allocation on AMD's RDNA 4 GPU Architecture</small>
+
+
+| 🔥: 95 \| 💬: [15](https://news.ycombinator.com/item?id=43595223) \| 🗓️ 2025-04-05
+
+
+<br />
+该文本内容看似为乱码或加密数据，无法提取有效信息。推测可能涉及AMD新一代GPU架构**RDNA 4**的**寄存器分配优化**技术，这类技术通常通过动态管理寄存器资源来提升**并行计算效率**。若需具体分析，建议检查文本完整性或提供可读版本。
+
+---
+
+## <a name="16"></a>16. 1964年前出版的公共领域技术书籍合集 
 <small>🔗 [tubebooks.org](http://www.tubebooks.org/technical_books_online.htm): Public domain technical books published before 1964</small>
 
 
@@ -210,23 +222,11 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 
 ---
 
-## <a name="16"></a>16. AMD RDNA 4架构的动态寄存器分配技术 
-<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/dynamic-register-allocation-on-amds): Dynamic Register Allocation on AMD's RDNA 4 GPU Architecture</small>
-
-
-| 🔥: 91 \| 💬: [14](https://news.ycombinator.com/item?id=43595223) \| 🗓️ 2025-04-05
-
-
-<br />
-该文本内容看似为乱码或加密数据，无法提取有效信息。推测可能涉及AMD新一代GPU架构**RDNA 4**的**寄存器分配优化**技术，这类技术通常通过动态管理寄存器资源来提升**并行计算效率**。若需具体分析，建议检查文本完整性或提供可读版本。
-
----
-
 ## <a name="17"></a>17. 数据库协议设计的不足与改进方向 
 <small>🔗 [byroot.github.io](https://byroot.github.io/performance/2025/03/21/database-protocols.html): Database Protocols Are Underwhelming</small>
 
 
-| 🔥: 89 \| 💬: [19](https://news.ycombinator.com/item?id=43593547) \| 🗓️ 2025-04-05
+| 🔥: 90 \| 💬: [19](https://news.ycombinator.com/item?id=43593547) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -250,7 +250,7 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/04/judge-doesnt-buy-openai-argument-nyts-own-reporting-weakens-copyright-suit/): OpenAI's Motion to Dismiss Copyright Claims Rejected by Judge</small>
 
 
-| 🔥: 75 \| 💬: [12](https://news.ycombinator.com/item?id=43596555) \| 🗓️ 2025-04-05
+| 🔥: 76 \| 💬: [12](https://news.ycombinator.com/item?id=43596555) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -262,7 +262,7 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 <small>🔗 [jsg.utexas.edu](https://www.jsg.utexas.edu/news/2025/04/north-america-is-dripping-from-below-geoscientists-discover/): North America Is Dripping from Below, Geoscientists Discover</small>
 
 
-| 🔥: 71 \| 💬: [16](https://news.ycombinator.com/item?id=43596546) \| 🗓️ 2025-04-05
+| 🔥: 75 \| 💬: [17](https://news.ycombinator.com/item?id=43596546) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -274,7 +274,7 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 <small>🔗 [ultrasciencelabs.com](https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons): We are still using 88x31 buttons</small>
 
 
-| 🔥: 65 \| 💬: [25](https://news.ycombinator.com/item?id=43596570) \| 🗓️ 2025-04-05
+| 🔥: 72 \| 💬: [30](https://news.ycombinator.com/item?id=43596570) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -294,7 +294,19 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 
 ---
 
-## <a name="23"></a>23. 加州电动汽车充电桩数量首超加油站 
+## <a name="23"></a>23. 同一医院五名护士集体确诊脑瘤引关注 
+<small>🔗 [nbcnews.com](https://www.nbcnews.com/news/us-news/5-nurses-work-floor-massachusetts-hospital-brain-tumors-rcna199798): Five Nurses who work on the same floor at hospital have brain tumors</small>
+
+
+| 🔥: 62 \| 💬: [34](https://news.ycombinator.com/item?id=43597929) \| 🗓️ 2025-04-05
+
+
+<br />
+该报道披露了某医院同一楼层的**五名护士**相继被诊断出患有**脑瘤**的异常情况。文中虽因技术问题无法显示具体内容，但这一集中发病事件已引发对医疗工作环境安全性的担忧，尤其是可能存在的**职业暴露风险**。目前尚不清楚是否存在共同致病因素，但该事件凸显了医护人员健康监测和工作场所安全评估的重要性。
+
+---
+
+## <a name="24"></a>24. 加州电动汽车充电桩数量首超加油站 
 <small>🔗 [latimes.com](https://www.latimes.com/california/story/2025-03-26/california-now-has-more-ev-charging-ports-than-gas-nozzles): California now has more EV charging ports than gas nozzles</small>
 
 
@@ -306,33 +318,16 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 
 ---
 
-## <a name="24"></a>24. SpacetimeDB v1.0：光速级的多人在线数据库 
+## <a name="25"></a>25. SpacetimeDB v1.0：光速级的多人在线数据库 
 <small>🔗 [github.com](https://github.com/clockworklabs/SpacetimeDB): SpacetimeDB v1.0: Multiplayer at the speed of light</small>
 
 
-| 🔥: 59 \| 💬: [20](https://news.ycombinator.com/item?id=43593913) \| 🗓️ 2025-04-05
+| 🔥: 60 \| 💬: [20](https://news.ycombinator.com/item?id=43593913) \| 🗓️ 2025-04-05
 
 
 <br />
 SpacetimeDB 是一个**将数据库与服务器合二为一**的创新系统，专为实时应用（如游戏、聊天工具）设计。它采用**关系型数据库**架构，允许开发者通过 Rust 语言编写模块，直接将应用逻辑嵌入数据库，省去传统后端服务器。其核心优势在于**超低延迟**，数据全内存处理并持久化到预写日志（WAL），性能远超智能合约。  
 
 支持 macOS、Linux 和 Windows 一键安装，提供 Rust、C# 等客户端库，适用于 MMORPG（如《BitCraft Online》）等场景。采用 BSL 1.1 许可证，未来转为 AGPL v3.0（含链接例外条款）。
-
----
-
-## <a name="25"></a>25. 加载器编号解析 
-<small>🔗 [googology.fandom.com](https://googology.fandom.com/wiki/Loader%27s_number): Loader's Number</small>
-
-
-| 🔥: 55 \| 💬: [10](https://news.ycombinator.com/item?id=43594554) \| 🗓️ 2025-04-05
-
-
-<br />
-该内容似乎是一段**编码数据**或**二进制文件**的片段，包含大量不可读的字符和乱码。可能是某种**技术文档**或**程序代码**的片段，但缺乏上下文信息。重点包括：  
-1. **数据格式混乱**，包含非ASCII字符和特殊符号。  
-2. 可能涉及**编程**或**加密技术**，但具体用途不明。  
-3. 无明确语义内容，需进一步解析或背景信息才能理解其含义。  
-
-建议检查数据来源或提供更多上下文以获取准确解读。
 
 ---
