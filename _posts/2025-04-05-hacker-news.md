@@ -12,7 +12,7 @@ tags:
 1. 如果禁止广告会怎样？；
 1. 我开发了一款文字游戏，妈妈觉得超棒！你觉得呢？；
 1. 在QEMU中模拟运行iPhone的探索；
-1. Swift 对 WebAssembly 支持的愿景；
+1. 成功谈判工作offer的十大法则；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [ai.meta.com](https://ai.meta.com/blog/llama-4-multimodal-intelligence/): The Llama 4 herd</small>
 
 
-| 🔥🔥: 817 \| 💬: [377](https://news.ycombinator.com/item?id=43595585) \| 🗓️ 2025-04-05
+| 🔥🔥: 846 \| 💬: [394](https://news.ycombinator.com/item?id=43595585) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [simone.org](https://simone.org/advertising/): What If We Made Advertising Illegal?</small>
 
 
-| 🔥🔥: 710 \| 💬: [579](https://news.ycombinator.com/item?id=43595269) \| 🗓️ 2025-04-05
+| 🔥🔥: 758 \| 💬: [631](https://news.ycombinator.com/item?id=43595269) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [whatsit.today](https://www.whatsit.today/): Show HN: I built a word game. My mom thinks it's great. What do you think?</small>
 
 
-| 🔥🔥: 272 \| 💬: [152](https://news.ycombinator.com/item?id=43593789) \| 🗓️ 2025-04-05
+| 🔥🔥: 283 \| 💬: [155](https://news.ycombinator.com/item?id=43593789) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [eshard.com](https://eshard.com/posts/emulating-ios-14-with-qemu): Emulating an iPhone in QEMU</small>
 
 
-| 🔥🔥: 185 \| 💬: [44](https://news.ycombinator.com/item?id=43592409) \| 🗓️ 2025-04-05
+| 🔥🔥: 192 \| 💬: [45](https://news.ycombinator.com/item?id=43592409) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -71,11 +71,25 @@ tags:
 
 ---
 
-## <a name="5"></a>5. Swift 对 WebAssembly 支持的愿景 
+## <a name="5"></a>5. 成功谈判工作offer的十大法则 
+<small>🔗 [haseebq.com](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/): Ten Rules for Negotiating a Job Offer</small>
+
+
+| 🔥🔥: 177 \| 💬: [81](https://news.ycombinator.com/item?id=43596864) \| 🗓️ 2025-04-05
+
+
+<br />
+提供的文本内容无法正常解析，似乎是乱码或加密数据。若您能提供清晰的工作offer谈判建议原文，我可为您提炼核心要点。  
+
+通常这类指南会强调：**明确自身价值**、**研究市场薪资**、**优先谈薪资范围而非具体数字**，以及灵活协商福利、期权等非现金条款。谈判中保持专业态度，避免过早亮出底线，同时重视长期职业发展机会。
+
+---
+
+## <a name="6"></a>6. Swift 对 WebAssembly 支持的愿景 
 <small>🔗 [forums.swift.org](https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060): A Vision for WebAssembly Support in Swift</small>
 
 
-| 🔥🔥: 166 \| 💬: [72](https://news.ycombinator.com/item?id=43593596) \| 🗓️ 2025-04-05
+| 🔥🔥: 168 \| 💬: [74](https://news.ycombinator.com/item?id=43593596) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -83,7 +97,7 @@ tags:
 
 ---
 
-## <a name="6"></a>6. 地球云层正在减少，加剧全球变暖 
+## <a name="7"></a>7. 地球云层正在减少，加剧全球变暖 
 <small>🔗 [science.org](https://www.science.org/content/article/earth-s-clouds-are-shrinking-boosting-global-warming): Earth's clouds are shrinking, boosting global warming</small>
 
 
@@ -95,25 +109,23 @@ tags:
 
 ---
 
-## <a name="7"></a>7. 成功谈判工作offer的十大法则 
-<small>🔗 [haseebq.com](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/): Ten Rules for Negotiating a Job Offer</small>
+## <a name="8"></a>8. 苹果Darwin操作系统与XNU内核深度解析 
+<small>🔗 [tansanrao.com](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/): Apple's Darwin OS and XNU Kernel Deep Dive</small>
 
 
-| 🔥🔥: 132 \| 💬: [57](https://news.ycombinator.com/item?id=43596864) \| 🗓️ 2025-04-05
+| 🔥🔥: 127 \| 💬: [15](https://news.ycombinator.com/item?id=43597778) \| 🗓️ 2025-04-05
 
 
 <br />
-提供的文本内容无法正常解析，似乎是乱码或加密数据。若您能提供清晰的工作offer谈判建议原文，我可为您提炼核心要点。  
-
-通常这类指南会强调：**明确自身价值**、**研究市场薪资**、**优先谈薪资范围而非具体数字**，以及灵活协商福利、期权等非现金条款。谈判中保持专业态度，避免过早亮出底线，同时重视长期职业发展机会。
+该内容疑似为乱码或加密数据，无法提取有效信息进行摘要。可能是由于文本损坏、编码错误或加密保护导致。**Darwin**作为苹果系统的开源核心，其**XNU内核**融合了Mach和BSD技术，但本文内容无法提供具体技术细节。建议检查原始文件完整性或提供可读文本以获取准确摘要。
 
 ---
 
-## <a name="8"></a>8. 埃克塞特低调合作社员工的"标识领主"双重生活 
+## <a name="9"></a>9. 埃克塞特低调合作社员工的"标识领主"双重生活 
 <small>🔗 [devonlive.com](https://www.devonlive.com/whats-on/whats-on-news/exeters-unassuming-co-op-worker-10039941): Exeter's unassuming co-op worker leads double life as 'Lord of the Logos'</small>
 
 
-| 🔥🔥: 105 \| 💬: [38](https://news.ycombinator.com/item?id=43594396) \| 🗓️ 2025-04-05
+| 🔥🔥: 109 \| 💬: [38](https://news.ycombinator.com/item?id=43594396) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -121,11 +133,11 @@ tags:
 
 ---
 
-## <a name="9"></a>9. 编译器：增量式与可扩展开发实践（2024） 
+## <a name="10"></a>10. 编译器：增量式与可扩展开发实践（2024） 
 <small>🔗 [okmij.org](https://okmij.org/ftp/tagless-final/Compiler/index.html): Compilers: Incrementally and Extensibly (2024)</small>
 
 
-| 🔥🔥: 104 \| 💬: [28](https://news.ycombinator.com/item?id=43593088) \| 🗓️ 2025-04-05
+| 🔥🔥: 108 \| 💬: [28](https://news.ycombinator.com/item?id=43593088) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -138,35 +150,11 @@ tags:
 
 ---
 
-## <a name="10"></a>10. 欧洲需要建立自主社交媒体平台以维护数字主权 
-<small>🔗 [mediascope.group](https://mediascope.group/europe-needs-its-own-social-media-platforms-to-safeguard-sovereignty/): Europe needs its own social media platforms to safeguard sovereignty</small>
-
-
-| 🔥🔥: 102 \| 💬: [175](https://news.ycombinator.com/item?id=43592454) \| 🗓️ 2025-04-05
-
-
-<br />
-该文指出，当前欧洲过度依赖美国科技巨头的社交媒体平台，导致**数据主权**和**文化自主性**面临威胁。作者呼吁欧洲开发本土化社交平台，以保护用户**隐私数据**、减少外部干预，并促进欧洲价值观的传播。这一举措被视为数字时代维护欧洲独立性的关键步骤。
-
----
-
-## <a name="11"></a>11. Llama 4 现已在 Groq 平台上线 
-<small>🔗 [groq.com](https://groq.com/llama-4-now-live-on-groq-build-fast-at-the-lowest-cost-without-compromise/): Llama 4 Now Live on Groq</small>
-
-
-| 🔥🔥: 102 \| 💬: [44](https://news.ycombinator.com/item?id=43596470) \| 🗓️ 2025-04-05
-
-
-<br />
-Groq 平台宣布 **Llama 4** 正式发布，这是一款高性能的 AI 模型，旨在提供更快的推理速度和更强的计算能力。此次更新进一步优化了模型架构，使其在 **大规模数据处理** 和 **复杂任务执行** 方面表现更出色。开发者现可通过 Groq 的云服务访问该模型，享受低延迟、高吞吐的 AI 解决方案。
-
----
-
-## <a name="12"></a>12. Go语言加速解释器性能：追赶C++的步伐 
+## <a name="11"></a>11. Go语言加速解释器性能：追赶C++的步伐 
 <small>🔗 [planetscale.com](https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp): Faster interpreters in Go: Catching up with C++</small>
 
 
-| 🔥: 97 \| 💬: [17](https://news.ycombinator.com/item?id=43595283) \| 🗓️ 2025-04-05
+| 🔥🔥: 107 \| 💬: [21](https://news.ycombinator.com/item?id=43595283) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -174,11 +162,35 @@ Groq 平台宣布 **Llama 4** 正式发布，这是一款高性能的 AI 模型�
 
 ---
 
-## <a name="13"></a>13. 1964年前出版的公共领域技术书籍合集 
+## <a name="12"></a>12. 欧洲需要建立自主社交媒体平台以维护数字主权 
+<small>🔗 [mediascope.group](https://mediascope.group/europe-needs-its-own-social-media-platforms-to-safeguard-sovereignty/): Europe needs its own social media platforms to safeguard sovereignty</small>
+
+
+| 🔥🔥: 104 \| 💬: [175](https://news.ycombinator.com/item?id=43592454) \| 🗓️ 2025-04-05
+
+
+<br />
+该文指出，当前欧洲过度依赖美国科技巨头的社交媒体平台，导致**数据主权**和**文化自主性**面临威胁。作者呼吁欧洲开发本土化社交平台，以保护用户**隐私数据**、减少外部干预，并促进欧洲价值观的传播。这一举措被视为数字时代维护欧洲独立性的关键步骤。
+
+---
+
+## <a name="13"></a>13. Llama 4 现已在 Groq 平台上线 
+<small>🔗 [groq.com](https://groq.com/llama-4-now-live-on-groq-build-fast-at-the-lowest-cost-without-compromise/): Llama 4 Now Live on Groq</small>
+
+
+| 🔥🔥: 103 \| 💬: [44](https://news.ycombinator.com/item?id=43596470) \| 🗓️ 2025-04-05
+
+
+<br />
+Groq 平台宣布 **Llama 4** 正式发布，这是一款高性能的 AI 模型，旨在提供更快的推理速度和更强的计算能力。此次更新进一步优化了模型架构，使其在 **大规模数据处理** 和 **复杂任务执行** 方面表现更出色。开发者现可通过 Groq 的云服务访问该模型，享受低延迟、高吞吐的 AI 解决方案。
+
+---
+
+## <a name="14"></a>14. 1964年前出版的公共领域技术书籍合集 
 <small>🔗 [tubebooks.org](http://www.tubebooks.org/technical_books_online.htm): Public domain technical books published before 1964</small>
 
 
-| 🔥: 91 \| 💬: [6](https://news.ycombinator.com/item?id=43592003) \| 🗓️ 2025-04-05
+| 🔥: 92 \| 💬: [6](https://news.ycombinator.com/item?id=43592003) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -186,11 +198,11 @@ Groq 平台宣布 **Llama 4** 正式发布，这是一款高性能的 AI 模型�
 
 ---
 
-## <a name="14"></a>14. NASA"旅行者"项目科学家面临艰难抉择：任务即将终结 
+## <a name="15"></a>15. NASA"旅行者"项目科学家面临艰难抉择：任务即将终结 
 <small>🔗 [gizmodo.com](https://gizmodo.com/keeping-voyager-alive-nasas-project-scientist-faces-painful-choices-as-the-iconic-mission-nears-its-end-2000580634): NASA's Project Scientist Faces Painful Choices as Voyager Mission Nears Its End</small>
 
 
-| 🔥: 89 \| 💬: [28](https://news.ycombinator.com/item?id=43595293) \| 🗓️ 2025-04-05
+| 🔥: 92 \| 💬: [29](https://news.ycombinator.com/item?id=43595293) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -198,11 +210,11 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 
 ---
 
-## <a name="15"></a>15. 数据库协议设计的不足与改进方向 
+## <a name="16"></a>16. 数据库协议设计的不足与改进方向 
 <small>🔗 [byroot.github.io](https://byroot.github.io/performance/2025/03/21/database-protocols.html): Database Protocols Are Underwhelming</small>
 
 
-| 🔥: 85 \| 💬: [14](https://news.ycombinator.com/item?id=43593547) \| 🗓️ 2025-04-05
+| 🔥: 87 \| 💬: [17](https://news.ycombinator.com/item?id=43593547) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -210,23 +222,11 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 
 ---
 
-## <a name="16"></a>16. 苹果Darwin操作系统与XNU内核深度解析 
-<small>🔗 [tansanrao.com](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/): Apple's Darwin OS and XNU Kernel Deep Dive</small>
-
-
-| 🔥: 84 \| 💬: [0](https://news.ycombinator.com/item?id=43597778) \| 🗓️ 2025-04-05
-
-
-<br />
-该内容疑似为乱码或加密数据，无法提取有效信息进行摘要。可能是由于文本损坏、编码错误或加密保护导致。**Darwin**作为苹果系统的开源核心，其**XNU内核**融合了Mach和BSD技术，但本文内容无法提供具体技术细节。建议检查原始文件完整性或提供可读文本以获取准确摘要。
-
----
-
 ## <a name="17"></a>17. AMD RDNA 4架构的动态寄存器分配技术 
 <small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/dynamic-register-allocation-on-amds): Dynamic Register Allocation on AMD's RDNA 4 GPU Architecture</small>
 
 
-| 🔥: 79 \| 💬: [11](https://news.ycombinator.com/item?id=43595223) \| 🗓️ 2025-04-05
+| 🔥: 86 \| 💬: [12](https://news.ycombinator.com/item?id=43595223) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -238,7 +238,7 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 <small>🔗 [interviewcoder.co](https://www.interviewcoder.co/): Interview Coder is an invisible AI for technical interviews</small>
 
 
-| 🔥: 77 \| 💬: [112](https://news.ycombinator.com/item?id=43592540) \| 🗓️ 2025-04-05
+| 🔥: 78 \| 💬: [113](https://news.ycombinator.com/item?id=43592540) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -258,7 +258,19 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 
 ---
 
-## <a name="20"></a>20. AdNauseam：替你点击广告的工具 
+## <a name="20"></a>20. 北美大陆底部正在滴落，地质学家首次发现这一现象 
+<small>🔗 [jsg.utexas.edu](https://www.jsg.utexas.edu/news/2025/04/north-america-is-dripping-from-below-geoscientists-discover/): North America Is Dripping from Below, Geoscientists Discover</small>
+
+
+| 🔥: 68 \| 💬: [12](https://news.ycombinator.com/item?id=43596546) \| 🗓️ 2025-04-05
+
+
+<br />
+研究人员发现，北美大陆底部正以**岩石滴落**的形式逐渐流失，而沉入地幔的**法拉龙板块**残余可能是这一现象的成因。该研究由得克萨斯大学奥斯汀分校团队发表在《自然·地球科学》上，首次捕捉到**克拉通减薄**的实时过程。尽管滴落集中于美国中西部地底，但不会短期内改变地表形态。这一发现为理解大陆演化提供了新视角，相关模型显示法拉龙板块通过改变地幔流动和释放挥发性物质削弱克拉通基底。研究由美国国家科学基金会资助。
+
+---
+
+## <a name="21"></a>21. AdNauseam：替你点击广告的工具 
 <small>🔗 [adnauseam.io](https://adnauseam.io/): AdNauseam: Clicking ads so you don't have to</small>
 
 
@@ -270,7 +282,7 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 
 ---
 
-## <a name="21"></a>21. 加州电动汽车充电桩数量首超加油站 
+## <a name="22"></a>22. 加州电动汽车充电桩数量首超加油站 
 <small>🔗 [latimes.com](https://www.latimes.com/california/story/2025-03-26/california-now-has-more-ev-charging-ports-than-gas-nozzles): California now has more EV charging ports than gas nozzles</small>
 
 
@@ -282,23 +294,11 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 
 ---
 
-## <a name="22"></a>22. 北美大陆底部正在滴落，地质学家首次发现这一现象 
-<small>🔗 [jsg.utexas.edu](https://www.jsg.utexas.edu/news/2025/04/north-america-is-dripping-from-below-geoscientists-discover/): North America Is Dripping from Below, Geoscientists Discover</small>
-
-
-| 🔥: 59 \| 💬: [8](https://news.ycombinator.com/item?id=43596546) \| 🗓️ 2025-04-05
-
-
-<br />
-研究人员发现，北美大陆底部正以**岩石滴落**的形式逐渐流失，而沉入地幔的**法拉龙板块**残余可能是这一现象的成因。该研究由得克萨斯大学奥斯汀分校团队发表在《自然·地球科学》上，首次捕捉到**克拉通减薄**的实时过程。尽管滴落集中于美国中西部地底，但不会短期内改变地表形态。这一发现为理解大陆演化提供了新视角，相关模型显示法拉龙板块通过改变地幔流动和释放挥发性物质削弱克拉通基底。研究由美国国家科学基金会资助。
-
----
-
 ## <a name="23"></a>23. SpacetimeDB v1.0：光速级的多人在线数据库 
 <small>🔗 [github.com](https://github.com/clockworklabs/SpacetimeDB): SpacetimeDB v1.0: Multiplayer at the speed of light</small>
 
 
-| 🔥: 57 \| 💬: [20](https://news.ycombinator.com/item?id=43593913) \| 🗓️ 2025-04-05
+| 🔥: 59 \| 💬: [20](https://news.ycombinator.com/item?id=43593913) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -308,11 +308,23 @@ SpacetimeDB 是一个**将数据库与服务器合二为一**的创新系统，�
 
 ---
 
-## <a name="24"></a>24. 加载器编号解析 
+## <a name="24"></a>24. 为何88x31像素按钮仍在流行？ 
+<small>🔗 [ultrasciencelabs.com](https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons): We are still using 88x31 buttons</small>
+
+
+| 🔥: 57 \| 💬: [20](https://news.ycombinator.com/item?id=43596570) \| 🗓️ 2025-04-05
+
+
+<br />
+这篇文章探讨了**88x31像素按钮**的起源与持久生命力。这种源自1995年Netscape推广浏览器的微型按钮，因尺寸小巧、易于创作和传播，成为早期互联网文化的标志。尽管其设计在如今高分辨率屏幕上显得过时，但因其**怀旧价值**和**社区共创精神**，仍在"小网络"（如Neocities）中复兴。作者对比了其他广告格式的消亡，指出88x31的独特之处在于它并非商业驱动的产物，而是**有机传播的互联网符号**。最后提出，若需替代方案，可考虑已淘汰的234x60半横幅等复古尺寸。
+
+---
+
+## <a name="25"></a>25. 加载器编号解析 
 <small>🔗 [googology.fandom.com](https://googology.fandom.com/wiki/Loader%27s_number): Loader's Number</small>
 
 
-| 🔥: 53 \| 💬: [10](https://news.ycombinator.com/item?id=43594554) \| 🗓️ 2025-04-05
+| 🔥: 54 \| 💬: [10](https://news.ycombinator.com/item?id=43594554) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -322,17 +334,5 @@ SpacetimeDB 是一个**将数据库与服务器合二为一**的创新系统，�
 3. 无明确语义内容，需进一步解析或背景信息才能理解其含义。  
 
 建议检查数据来源或提供更多上下文以获取准确解读。
-
----
-
-## <a name="25"></a>25. 重大研究揭示饮食对子宫内膜异位症的影响 
-<small>🔗 [theguardian.com](https://www.theguardian.com/society/2025/apr/05/major-endometriosis-study-reveals-impact-of-gluten-coffee-dairy-and-alcohol): Major endometriosis study reveals impact of gluten, coffee, dairy and alcohol</small>
-
-
-| 🔥: 51 \| 💬: [24](https://news.ycombinator.com/item?id=43592400) \| 🗓️ 2025-04-05
-
-
-<br />
-一项涉及全球2599名患者的大型研究发现，**调整饮食**可显著缓解子宫内膜异位症疼痛。**45%**的患者在戒除**麸质或乳制品**后疼痛减轻，53%减少酒精摄入后症状改善。研究推测，这些变化可能通过调节**肠道菌群**和炎症反应发挥作用。专家建议患者尝试抗炎饮食（如蔬果、全谷物），但强调需进一步临床验证。目前，该病诊断平均耗时7年，且缺乏有效疗法，饮食干预或为患者提供新希望。
 
 ---
