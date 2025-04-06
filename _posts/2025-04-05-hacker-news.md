@@ -11,8 +11,8 @@ tags:
 1. 羊驼4号族群；
 1. 如果禁止广告会怎样？；
 1. 我开发了一款文字游戏，妈妈觉得超棒！你觉得呢？；
-1. 在QEMU中模拟运行iPhone的探索；
 1. 成功谈判工作offer的十大法则；
+1. 在QEMU中模拟运行iPhone的探索；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [ai.meta.com](https://ai.meta.com/blog/llama-4-multimodal-intelligence/): The Llama 4 herd</small>
 
 
-| 🔥🔥: 846 \| 💬: [394](https://news.ycombinator.com/item?id=43595585) \| 🗓️ 2025-04-05
+| 🔥🔥: 870 \| 💬: [408](https://news.ycombinator.com/item?id=43595585) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [simone.org](https://simone.org/advertising/): What If We Made Advertising Illegal?</small>
 
 
-| 🔥🔥: 758 \| 💬: [631](https://news.ycombinator.com/item?id=43595269) \| 🗓️ 2025-04-05
+| 🔥🔥: 801 \| 💬: [669](https://news.ycombinator.com/item?id=43595269) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [whatsit.today](https://www.whatsit.today/): Show HN: I built a word game. My mom thinks it's great. What do you think?</small>
 
 
-| 🔥🔥: 283 \| 💬: [155](https://news.ycombinator.com/item?id=43593789) \| 🗓️ 2025-04-05
+| 🔥🔥: 298 \| 💬: [161](https://news.ycombinator.com/item?id=43593789) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -59,23 +59,11 @@ tags:
 
 ---
 
-## <a name="4"></a>4. 在QEMU中模拟运行iPhone的探索 
-<small>🔗 [eshard.com](https://eshard.com/posts/emulating-ios-14-with-qemu): Emulating an iPhone in QEMU</small>
-
-
-| 🔥🔥: 192 \| 💬: [45](https://news.ycombinator.com/item?id=43592409) \| 🗓️ 2025-04-05
-
-
-<br />
-该内容似乎是一篇关于使用**QEMU**模拟运行iPhone系统的技术文章，但文本因编码问题显示为乱码。QEMU是一款开源的硬件虚拟化工具，通常用于模拟不同架构的设备。文中可能讨论了如何配置QEMU以运行iOS环境，涉及**跨平台兼容性**和**性能优化**等挑战。由于内容损坏，具体细节无法提取，但核心方向是探索在非苹果硬件上实现iPhone系统的虚拟化。
-
----
-
-## <a name="5"></a>5. 成功谈判工作offer的十大法则 
+## <a name="4"></a>4. 成功谈判工作offer的十大法则 
 <small>🔗 [haseebq.com](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/): Ten Rules for Negotiating a Job Offer</small>
 
 
-| 🔥🔥: 177 \| 💬: [81](https://news.ycombinator.com/item?id=43596864) \| 🗓️ 2025-04-05
+| 🔥🔥: 215 \| 💬: [103](https://news.ycombinator.com/item?id=43596864) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -85,11 +73,23 @@ tags:
 
 ---
 
+## <a name="5"></a>5. 在QEMU中模拟运行iPhone的探索 
+<small>🔗 [eshard.com](https://eshard.com/posts/emulating-ios-14-with-qemu): Emulating an iPhone in QEMU</small>
+
+
+| 🔥🔥: 194 \| 💬: [45](https://news.ycombinator.com/item?id=43592409) \| 🗓️ 2025-04-05
+
+
+<br />
+该内容似乎是一篇关于使用**QEMU**模拟运行iPhone系统的技术文章，但文本因编码问题显示为乱码。QEMU是一款开源的硬件虚拟化工具，通常用于模拟不同架构的设备。文中可能讨论了如何配置QEMU以运行iOS环境，涉及**跨平台兼容性**和**性能优化**等挑战。由于内容损坏，具体细节无法提取，但核心方向是探索在非苹果硬件上实现iPhone系统的虚拟化。
+
+---
+
 ## <a name="6"></a>6. Swift 对 WebAssembly 支持的愿景 
 <small>🔗 [forums.swift.org](https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060): A Vision for WebAssembly Support in Swift</small>
 
 
-| 🔥🔥: 168 \| 💬: [74](https://news.ycombinator.com/item?id=43593596) \| 🗓️ 2025-04-05
+| 🔥🔥: 169 \| 💬: [77](https://news.ycombinator.com/item?id=43593596) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -97,7 +97,19 @@ tags:
 
 ---
 
-## <a name="7"></a>7. 地球云层正在减少，加剧全球变暖 
+## <a name="7"></a>7. 苹果Darwin操作系统与XNU内核深度解析 
+<small>🔗 [tansanrao.com](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/): Apple's Darwin OS and XNU Kernel Deep Dive</small>
+
+
+| 🔥🔥: 155 \| 💬: [30](https://news.ycombinator.com/item?id=43597778) \| 🗓️ 2025-04-05
+
+
+<br />
+该内容疑似为乱码或加密数据，无法提取有效信息进行摘要。可能是由于文本损坏、编码错误或加密保护导致。**Darwin**作为苹果系统的开源核心，其**XNU内核**融合了Mach和BSD技术，但本文内容无法提供具体技术细节。建议检查原始文件完整性或提供可读文本以获取准确摘要。
+
+---
+
+## <a name="8"></a>8. 地球云层正在减少，加剧全球变暖 
 <small>🔗 [science.org](https://www.science.org/content/article/earth-s-clouds-are-shrinking-boosting-global-warming): Earth's clouds are shrinking, boosting global warming</small>
 
 
@@ -109,23 +121,23 @@ tags:
 
 ---
 
-## <a name="8"></a>8. 苹果Darwin操作系统与XNU内核深度解析 
-<small>🔗 [tansanrao.com](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/): Apple's Darwin OS and XNU Kernel Deep Dive</small>
+## <a name="9"></a>9. Go语言加速解释器性能：追赶C++的步伐 
+<small>🔗 [planetscale.com](https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp): Faster interpreters in Go: Catching up with C++</small>
 
 
-| 🔥🔥: 127 \| 💬: [15](https://news.ycombinator.com/item?id=43597778) \| 🗓️ 2025-04-05
+| 🔥🔥: 116 \| 💬: [22](https://news.ycombinator.com/item?id=43595283) \| 🗓️ 2025-04-05
 
 
 <br />
-该内容疑似为乱码或加密数据，无法提取有效信息进行摘要。可能是由于文本损坏、编码错误或加密保护导致。**Darwin**作为苹果系统的开源核心，其**XNU内核**融合了Mach和BSD技术，但本文内容无法提供具体技术细节。建议检查原始文件完整性或提供可读文本以获取准确摘要。
+本文探讨了如何在Go语言中优化解释器性能，使其接近甚至达到C++的水平。通过**性能调优**、**编译器优化**和**内存管理**等关键技术，Go解释器在效率上取得了显著提升。文章对比了两种语言的实现差异，并展示了Go在特定场景下的性能优势。这些改进为需要高性能解释器的开发者提供了新的选择。
 
 ---
 
-## <a name="9"></a>9. 埃克塞特低调合作社员工的"标识领主"双重生活 
+## <a name="10"></a>10. 埃克塞特低调合作社员工的"标识领主"双重生活 
 <small>🔗 [devonlive.com](https://www.devonlive.com/whats-on/whats-on-news/exeters-unassuming-co-op-worker-10039941): Exeter's unassuming co-op worker leads double life as 'Lord of the Logos'</small>
 
 
-| 🔥🔥: 109 \| 💬: [38](https://news.ycombinator.com/item?id=43594396) \| 🗓️ 2025-04-05
+| 🔥🔥: 112 \| 💬: [39](https://news.ycombinator.com/item?id=43594396) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -133,7 +145,7 @@ tags:
 
 ---
 
-## <a name="10"></a>10. 编译器：增量式与可扩展开发实践（2024） 
+## <a name="11"></a>11. 编译器：增量式与可扩展开发实践（2024） 
 <small>🔗 [okmij.org](https://okmij.org/ftp/tagless-final/Compiler/index.html): Compilers: Incrementally and Extensibly (2024)</small>
 
 
@@ -147,18 +159,6 @@ tags:
 3. **变量即效应**的创新处理，支持动态属性绑定与使用分析。  
 
 课程涵盖词法分析至汇编生成的全流程，采用测试驱动开发，并配套定制化构建工具（OCaml脚本替代make）以支持跨步骤代码复用。2022-2023年作为高阶选修课开设，最新版本为2024年11月更新。
-
----
-
-## <a name="11"></a>11. Go语言加速解释器性能：追赶C++的步伐 
-<small>🔗 [planetscale.com](https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp): Faster interpreters in Go: Catching up with C++</small>
-
-
-| 🔥🔥: 107 \| 💬: [21](https://news.ycombinator.com/item?id=43595283) \| 🗓️ 2025-04-05
-
-
-<br />
-本文探讨了如何在Go语言中优化解释器性能，使其接近甚至达到C++的水平。通过**性能调优**、**编译器优化**和**内存管理**等关键技术，Go解释器在效率上取得了显著提升。文章对比了两种语言的实现差异，并展示了Go在特定场景下的性能优势。这些改进为需要高性能解释器的开发者提供了新的选择。
 
 ---
 
@@ -178,7 +178,7 @@ tags:
 <small>🔗 [groq.com](https://groq.com/llama-4-now-live-on-groq-build-fast-at-the-lowest-cost-without-compromise/): Llama 4 Now Live on Groq</small>
 
 
-| 🔥🔥: 103 \| 💬: [44](https://news.ycombinator.com/item?id=43596470) \| 🗓️ 2025-04-05
+| 🔥🔥: 103 \| 💬: [46](https://news.ycombinator.com/item?id=43596470) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -186,7 +186,19 @@ Groq 平台宣布 **Llama 4** 正式发布，这是一款高性能的 AI 模型�
 
 ---
 
-## <a name="14"></a>14. 1964年前出版的公共领域技术书籍合集 
+## <a name="14"></a>14. NASA"旅行者"项目科学家面临艰难抉择：任务即将终结 
+<small>🔗 [gizmodo.com](https://gizmodo.com/keeping-voyager-alive-nasas-project-scientist-faces-painful-choices-as-the-iconic-mission-nears-its-end-2000580634): NASA's Project Scientist Faces Painful Choices as Voyager Mission Nears Its End</small>
+
+
+| 🔥: 94 \| 💬: [29](https://news.ycombinator.com/item?id=43595293) \| 🗓️ 2025-04-05
+
+
+<br />
+NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一系列**痛苦抉择**。由于探测器能源即将耗尽，团队必须决定关闭哪些科学仪器以延长任务时间。这项持续45年的星际探索任务已远超预期寿命，但关闭仪器意味着永久失去某些**宇宙数据**的收集能力。科学家们需要在有限资源与科学价值间权衡，标志着人类最远航天器即将结束其历史性旅程。
+
+---
+
+## <a name="15"></a>15. 1964年前出版的公共领域技术书籍合集 
 <small>🔗 [tubebooks.org](http://www.tubebooks.org/technical_books_online.htm): Public domain technical books published before 1964</small>
 
 
@@ -198,35 +210,11 @@ Groq 平台宣布 **Llama 4** 正式发布，这是一款高性能的 AI 模型�
 
 ---
 
-## <a name="15"></a>15. NASA"旅行者"项目科学家面临艰难抉择：任务即将终结 
-<small>🔗 [gizmodo.com](https://gizmodo.com/keeping-voyager-alive-nasas-project-scientist-faces-painful-choices-as-the-iconic-mission-nears-its-end-2000580634): NASA's Project Scientist Faces Painful Choices as Voyager Mission Nears Its End</small>
-
-
-| 🔥: 92 \| 💬: [29](https://news.ycombinator.com/item?id=43595293) \| 🗓️ 2025-04-05
-
-
-<br />
-NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一系列**痛苦抉择**。由于探测器能源即将耗尽，团队必须决定关闭哪些科学仪器以延长任务时间。这项持续45年的星际探索任务已远超预期寿命，但关闭仪器意味着永久失去某些**宇宙数据**的收集能力。科学家们需要在有限资源与科学价值间权衡，标志着人类最远航天器即将结束其历史性旅程。
-
----
-
-## <a name="16"></a>16. 数据库协议设计的不足与改进方向 
-<small>🔗 [byroot.github.io](https://byroot.github.io/performance/2025/03/21/database-protocols.html): Database Protocols Are Underwhelming</small>
-
-
-| 🔥: 87 \| 💬: [17](https://news.ycombinator.com/item?id=43593547) \| 🗓️ 2025-04-05
-
-
-<br />
-作者作为ORM和Redis客户端维护者，指出**SQL数据库协议**存在三大问题：1) **连接状态管理混乱**，配置参数可随时修改，导致错误恢复困难；2) **缺乏安全重试机制**，无法像HTTP协议那样明确区分幂等操作；3) **预处理语句实现笨重**，会话级ID导致连接池管理复杂。相比之下，Redis协议部分设计更优，并提议引入**幂等键**（类似Stripe API）解决重试问题。关系型数据库协议亟需改进初始配置阶段、状态重置功能和二进制层级的幂等支持。
-
----
-
-## <a name="17"></a>17. AMD RDNA 4架构的动态寄存器分配技术 
+## <a name="16"></a>16. AMD RDNA 4架构的动态寄存器分配技术 
 <small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/dynamic-register-allocation-on-amds): Dynamic Register Allocation on AMD's RDNA 4 GPU Architecture</small>
 
 
-| 🔥: 86 \| 💬: [12](https://news.ycombinator.com/item?id=43595223) \| 🗓️ 2025-04-05
+| 🔥: 91 \| 💬: [14](https://news.ycombinator.com/item?id=43595223) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -234,11 +222,23 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 
 ---
 
+## <a name="17"></a>17. 数据库协议设计的不足与改进方向 
+<small>🔗 [byroot.github.io](https://byroot.github.io/performance/2025/03/21/database-protocols.html): Database Protocols Are Underwhelming</small>
+
+
+| 🔥: 89 \| 💬: [19](https://news.ycombinator.com/item?id=43593547) \| 🗓️ 2025-04-05
+
+
+<br />
+作者作为ORM和Redis客户端维护者，指出**SQL数据库协议**存在三大问题：1) **连接状态管理混乱**，配置参数可随时修改，导致错误恢复困难；2) **缺乏安全重试机制**，无法像HTTP协议那样明确区分幂等操作；3) **预处理语句实现笨重**，会话级ID导致连接池管理复杂。相比之下，Redis协议部分设计更优，并提议引入**幂等键**（类似Stripe API）解决重试问题。关系型数据库协议亟需改进初始配置阶段、状态重置功能和二进制层级的幂等支持。
+
+---
+
 ## <a name="18"></a>18. 隐形AI面试官：技术面试的革新工具 
 <small>🔗 [interviewcoder.co](https://www.interviewcoder.co/): Interview Coder is an invisible AI for technical interviews</small>
 
 
-| 🔥: 78 \| 💬: [113](https://news.ycombinator.com/item?id=43592540) \| 🗓️ 2025-04-05
+| 🔥: 78 \| 💬: [114](https://news.ycombinator.com/item?id=43592540) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -262,7 +262,7 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 <small>🔗 [jsg.utexas.edu](https://www.jsg.utexas.edu/news/2025/04/north-america-is-dripping-from-below-geoscientists-discover/): North America Is Dripping from Below, Geoscientists Discover</small>
 
 
-| 🔥: 68 \| 💬: [12](https://news.ycombinator.com/item?id=43596546) \| 🗓️ 2025-04-05
+| 🔥: 71 \| 💬: [16](https://news.ycombinator.com/item?id=43596546) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -270,7 +270,19 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 
 ---
 
-## <a name="21"></a>21. AdNauseam：替你点击广告的工具 
+## <a name="21"></a>21. 为何88x31像素按钮仍在流行？ 
+<small>🔗 [ultrasciencelabs.com](https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons): We are still using 88x31 buttons</small>
+
+
+| 🔥: 65 \| 💬: [25](https://news.ycombinator.com/item?id=43596570) \| 🗓️ 2025-04-05
+
+
+<br />
+这篇文章探讨了**88x31像素按钮**的起源与持久生命力。这种源自1995年Netscape推广浏览器的微型按钮，因尺寸小巧、易于创作和传播，成为早期互联网文化的标志。尽管其设计在如今高分辨率屏幕上显得过时，但因其**怀旧价值**和**社区共创精神**，仍在"小网络"（如Neocities）中复兴。作者对比了其他广告格式的消亡，指出88x31的独特之处在于它并非商业驱动的产物，而是**有机传播的互联网符号**。最后提出，若需替代方案，可考虑已淘汰的234x60半横幅等复古尺寸。
+
+---
+
+## <a name="22"></a>22. AdNauseam：替你点击广告的工具 
 <small>🔗 [adnauseam.io](https://adnauseam.io/): AdNauseam: Clicking ads so you don't have to</small>
 
 
@@ -282,7 +294,7 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 
 ---
 
-## <a name="22"></a>22. 加州电动汽车充电桩数量首超加油站 
+## <a name="23"></a>23. 加州电动汽车充电桩数量首超加油站 
 <small>🔗 [latimes.com](https://www.latimes.com/california/story/2025-03-26/california-now-has-more-ev-charging-ports-than-gas-nozzles): California now has more EV charging ports than gas nozzles</small>
 
 
@@ -294,7 +306,7 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 
 ---
 
-## <a name="23"></a>23. SpacetimeDB v1.0：光速级的多人在线数据库 
+## <a name="24"></a>24. SpacetimeDB v1.0：光速级的多人在线数据库 
 <small>🔗 [github.com](https://github.com/clockworklabs/SpacetimeDB): SpacetimeDB v1.0: Multiplayer at the speed of light</small>
 
 
@@ -308,23 +320,11 @@ SpacetimeDB 是一个**将数据库与服务器合二为一**的创新系统，�
 
 ---
 
-## <a name="24"></a>24. 为何88x31像素按钮仍在流行？ 
-<small>🔗 [ultrasciencelabs.com](https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons): We are still using 88x31 buttons</small>
-
-
-| 🔥: 57 \| 💬: [20](https://news.ycombinator.com/item?id=43596570) \| 🗓️ 2025-04-05
-
-
-<br />
-这篇文章探讨了**88x31像素按钮**的起源与持久生命力。这种源自1995年Netscape推广浏览器的微型按钮，因尺寸小巧、易于创作和传播，成为早期互联网文化的标志。尽管其设计在如今高分辨率屏幕上显得过时，但因其**怀旧价值**和**社区共创精神**，仍在"小网络"（如Neocities）中复兴。作者对比了其他广告格式的消亡，指出88x31的独特之处在于它并非商业驱动的产物，而是**有机传播的互联网符号**。最后提出，若需替代方案，可考虑已淘汰的234x60半横幅等复古尺寸。
-
----
-
 ## <a name="25"></a>25. 加载器编号解析 
 <small>🔗 [googology.fandom.com](https://googology.fandom.com/wiki/Loader%27s_number): Loader's Number</small>
 
 
-| 🔥: 54 \| 💬: [10](https://news.ycombinator.com/item?id=43594554) \| 🗓️ 2025-04-05
+| 🔥: 55 \| 💬: [10](https://news.ycombinator.com/item?id=43594554) \| 🗓️ 2025-04-05
 
 
 <br />
