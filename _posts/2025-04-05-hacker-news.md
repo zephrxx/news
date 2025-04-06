@@ -12,7 +12,7 @@ tags:
 1. 如果禁止广告会怎样？；
 1. 我开发了一款文字游戏，妈妈觉得超棒！你觉得呢？；
 1. 成功谈判工作offer的十大法则；
-1. 在QEMU中模拟运行iPhone的探索；
+1. 苹果Darwin操作系统与XNU内核深度解析；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [ai.meta.com](https://ai.meta.com/blog/llama-4-multimodal-intelligence/): The Llama 4 herd</small>
 
 
-| 🔥🔥: 901 \| 💬: [421](https://news.ycombinator.com/item?id=43595585) \| 🗓️ 2025-04-05
+| 🔥🔥: 925 \| 💬: [434](https://news.ycombinator.com/item?id=43595585) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [simone.org](https://simone.org/advertising/): What If We Made Advertising Illegal?</small>
 
 
-| 🔥🔥: 849 \| 💬: [697](https://news.ycombinator.com/item?id=43595269) \| 🗓️ 2025-04-05
+| 🔥🔥: 888 \| 💬: [727](https://news.ycombinator.com/item?id=43595269) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [whatsit.today](https://www.whatsit.today/): Show HN: I built a word game. My mom thinks it's great. What do you think?</small>
 
 
-| 🔥🔥: 314 \| 💬: [163](https://news.ycombinator.com/item?id=43593789) \| 🗓️ 2025-04-05
+| 🔥🔥: 325 \| 💬: [166](https://news.ycombinator.com/item?id=43593789) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [haseebq.com](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/): Ten Rules for Negotiating a Job Offer</small>
 
 
-| 🔥🔥: 246 \| 💬: [120](https://news.ycombinator.com/item?id=43596864) \| 🗓️ 2025-04-05
+| 🔥🔥: 282 \| 💬: [129](https://news.ycombinator.com/item?id=43596864) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -73,23 +73,11 @@ tags:
 
 ---
 
-## <a name="5"></a>5. 在QEMU中模拟运行iPhone的探索 
-<small>🔗 [eshard.com](https://eshard.com/posts/emulating-ios-14-with-qemu): Emulating an iPhone in QEMU</small>
-
-
-| 🔥🔥: 197 \| 💬: [46](https://news.ycombinator.com/item?id=43592409) \| 🗓️ 2025-04-05
-
-
-<br />
-该内容似乎是一篇关于使用**QEMU**模拟运行iPhone系统的技术文章，但文本因编码问题显示为乱码。QEMU是一款开源的硬件虚拟化工具，通常用于模拟不同架构的设备。文中可能讨论了如何配置QEMU以运行iOS环境，涉及**跨平台兼容性**和**性能优化**等挑战。由于内容损坏，具体细节无法提取，但核心方向是探索在非苹果硬件上实现iPhone系统的虚拟化。
-
----
-
-## <a name="6"></a>6. 苹果Darwin操作系统与XNU内核深度解析 
+## <a name="5"></a>5. 苹果Darwin操作系统与XNU内核深度解析 
 <small>🔗 [tansanrao.com](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/): Apple's Darwin OS and XNU Kernel Deep Dive</small>
 
 
-| 🔥🔥: 179 \| 💬: [35](https://news.ycombinator.com/item?id=43597778) \| 🗓️ 2025-04-05
+| 🔥🔥: 206 \| 💬: [45](https://news.ycombinator.com/item?id=43597778) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -97,11 +85,23 @@ tags:
 
 ---
 
+## <a name="6"></a>6. 在QEMU中模拟运行iPhone的探索 
+<small>🔗 [eshard.com](https://eshard.com/posts/emulating-ios-14-with-qemu): Emulating an iPhone in QEMU</small>
+
+
+| 🔥🔥: 202 \| 💬: [47](https://news.ycombinator.com/item?id=43592409) \| 🗓️ 2025-04-05
+
+
+<br />
+该内容似乎是一篇关于使用**QEMU**模拟运行iPhone系统的技术文章，但文本因编码问题显示为乱码。QEMU是一款开源的硬件虚拟化工具，通常用于模拟不同架构的设备。文中可能讨论了如何配置QEMU以运行iOS环境，涉及**跨平台兼容性**和**性能优化**等挑战。由于内容损坏，具体细节无法提取，但核心方向是探索在非苹果硬件上实现iPhone系统的虚拟化。
+
+---
+
 ## <a name="7"></a>7. Swift 对 WebAssembly 支持的愿景 
 <small>🔗 [forums.swift.org](https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060): A Vision for WebAssembly Support in Swift</small>
 
 
-| 🔥🔥: 171 \| 💬: [77](https://news.ycombinator.com/item?id=43593596) \| 🗓️ 2025-04-05
+| 🔥🔥: 173 \| 💬: [77](https://news.ycombinator.com/item?id=43593596) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -113,7 +113,7 @@ tags:
 <small>🔗 [science.org](https://www.science.org/content/article/earth-s-clouds-are-shrinking-boosting-global-warming): Earth's clouds are shrinking, boosting global warming</small>
 
 
-| 🔥🔥: 151 \| 💬: [124](https://news.ycombinator.com/item?id=43592756) \| 🗓️ 2025-04-05
+| 🔥🔥: 152 \| 💬: [124](https://news.ycombinator.com/item?id=43592756) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -125,7 +125,7 @@ tags:
 <small>🔗 [planetscale.com](https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp): Faster interpreters in Go: Catching up with C++</small>
 
 
-| 🔥🔥: 121 \| 💬: [23](https://news.ycombinator.com/item?id=43595283) \| 🗓️ 2025-04-05
+| 🔥🔥: 131 \| 💬: [23](https://news.ycombinator.com/item?id=43595283) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -137,7 +137,7 @@ tags:
 <small>🔗 [devonlive.com](https://www.devonlive.com/whats-on/whats-on-news/exeters-unassuming-co-op-worker-10039941): Exeter's unassuming co-op worker leads double life as 'Lord of the Logos'</small>
 
 
-| 🔥🔥: 114 \| 💬: [40](https://news.ycombinator.com/item?id=43594396) \| 🗓️ 2025-04-05
+| 🔥🔥: 121 \| 💬: [41](https://news.ycombinator.com/item?id=43594396) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -149,7 +149,7 @@ tags:
 <small>🔗 [okmij.org](https://okmij.org/ftp/tagless-final/Compiler/index.html): Compilers: Incrementally and Extensibly (2024)</small>
 
 
-| 🔥🔥: 112 \| 💬: [29](https://news.ycombinator.com/item?id=43593088) \| 🗓️ 2025-04-05
+| 🔥🔥: 118 \| 💬: [29](https://news.ycombinator.com/item?id=43593088) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -190,7 +190,7 @@ Groq 平台宣布 **Llama 4** 正式发布，这是一款高性能的 AI 模型�
 <small>🔗 [gizmodo.com](https://gizmodo.com/keeping-voyager-alive-nasas-project-scientist-faces-painful-choices-as-the-iconic-mission-nears-its-end-2000580634): NASA's Project Scientist Faces Painful Choices as Voyager Mission Nears Its End</small>
 
 
-| 🔥: 100 \| 💬: [29](https://news.ycombinator.com/item?id=43595293) \| 🗓️ 2025-04-05
+| 🔥🔥: 101 \| 💬: [29](https://news.ycombinator.com/item?id=43595293) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -202,7 +202,7 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 <small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/dynamic-register-allocation-on-amds): Dynamic Register Allocation on AMD's RDNA 4 GPU Architecture</small>
 
 
-| 🔥: 95 \| 💬: [15](https://news.ycombinator.com/item?id=43595223) \| 🗓️ 2025-04-05
+| 🔥: 98 \| 💬: [16](https://news.ycombinator.com/item?id=43595223) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -246,7 +246,19 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 
 ---
 
-## <a name="19"></a>19. 法官驳回OpenAI驳回《纽约时报》版权诉讼的动议 
+## <a name="19"></a>19. 北美大陆底部正在滴落，地质学家首次发现这一现象 
+<small>🔗 [jsg.utexas.edu](https://www.jsg.utexas.edu/news/2025/04/north-america-is-dripping-from-below-geoscientists-discover/): North America Is Dripping from Below, Geoscientists Discover</small>
+
+
+| 🔥: 77 \| 💬: [18](https://news.ycombinator.com/item?id=43596546) \| 🗓️ 2025-04-05
+
+
+<br />
+研究人员发现，北美大陆底部正以**岩石滴落**的形式逐渐流失，而沉入地幔的**法拉龙板块**残余可能是这一现象的成因。该研究由得克萨斯大学奥斯汀分校团队发表在《自然·地球科学》上，首次捕捉到**克拉通减薄**的实时过程。尽管滴落集中于美国中西部地底，但不会短期内改变地表形态。这一发现为理解大陆演化提供了新视角，相关模型显示法拉龙板块通过改变地幔流动和释放挥发性物质削弱克拉通基底。研究由美国国家科学基金会资助。
+
+---
+
+## <a name="20"></a>20. 法官驳回OpenAI驳回《纽约时报》版权诉讼的动议 
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/04/judge-doesnt-buy-openai-argument-nyts-own-reporting-weakens-copyright-suit/): OpenAI's Motion to Dismiss Copyright Claims Rejected by Judge</small>
 
 
@@ -258,23 +270,11 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 
 ---
 
-## <a name="20"></a>20. 北美大陆底部正在滴落，地质学家首次发现这一现象 
-<small>🔗 [jsg.utexas.edu](https://www.jsg.utexas.edu/news/2025/04/north-america-is-dripping-from-below-geoscientists-discover/): North America Is Dripping from Below, Geoscientists Discover</small>
-
-
-| 🔥: 75 \| 💬: [17](https://news.ycombinator.com/item?id=43596546) \| 🗓️ 2025-04-05
-
-
-<br />
-研究人员发现，北美大陆底部正以**岩石滴落**的形式逐渐流失，而沉入地幔的**法拉龙板块**残余可能是这一现象的成因。该研究由得克萨斯大学奥斯汀分校团队发表在《自然·地球科学》上，首次捕捉到**克拉通减薄**的实时过程。尽管滴落集中于美国中西部地底，但不会短期内改变地表形态。这一发现为理解大陆演化提供了新视角，相关模型显示法拉龙板块通过改变地幔流动和释放挥发性物质削弱克拉通基底。研究由美国国家科学基金会资助。
-
----
-
 ## <a name="21"></a>21. 为何88x31像素按钮仍在流行？ 
 <small>🔗 [ultrasciencelabs.com](https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons): We are still using 88x31 buttons</small>
 
 
-| 🔥: 72 \| 💬: [30](https://news.ycombinator.com/item?id=43596570) \| 🗓️ 2025-04-05
+| 🔥: 76 \| 💬: [30](https://news.ycombinator.com/item?id=43596570) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -282,7 +282,19 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 
 ---
 
-## <a name="22"></a>22. AdNauseam：替你点击广告的工具 
+## <a name="22"></a>22. ADHD“替身陪伴法”：提升专注力的神奇工具 
+<small>🔗 [add.org](https://add.org/the-body-double/): The ADHD Body Double: A Unique Tool for Getting Things Done</small>
+
+
+| 🔥: 72 \| 💬: [30](https://news.ycombinator.com/item?id=43597425) \| 🗓️ 2025-04-05
+
+
+<br />
+ADHD**替身陪伴法**指通过他人在场（无需互动）来帮助分心者保持专注。文章以客户大卫为例，这位退休高管虽有条理却难以完成琐事，直到发现妻子静坐一旁时效率显著提升。**原理**可能涉及镜像神经元（无意识模仿他人专注状态）或能量场平衡（他人存在稳定注意力）。该方法能**减少拖延**、**增强动力**，适用于工作、家务等场景，可线下或通过平台（如FocusMate）实现。关键需选择安静、不干扰的陪伴者。虽缺乏科学验证，但实践证实其有效性。
+
+---
+
+## <a name="23"></a>23. AdNauseam：替你点击广告的工具 
 <small>🔗 [adnauseam.io](https://adnauseam.io/): AdNauseam: Clicking ads so you don't have to</small>
 
 
@@ -294,11 +306,11 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 
 ---
 
-## <a name="23"></a>23. 同一医院五名护士集体确诊脑瘤引关注 
+## <a name="24"></a>24. 同一医院五名护士集体确诊脑瘤引关注 
 <small>🔗 [nbcnews.com](https://www.nbcnews.com/news/us-news/5-nurses-work-floor-massachusetts-hospital-brain-tumors-rcna199798): Five Nurses who work on the same floor at hospital have brain tumors</small>
 
 
-| 🔥: 62 \| 💬: [34](https://news.ycombinator.com/item?id=43597929) \| 🗓️ 2025-04-05
+| 🔥: 64 \| 💬: [36](https://news.ycombinator.com/item?id=43597929) \| 🗓️ 2025-04-05
 
 
 <br />
@@ -306,7 +318,7 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 
 ---
 
-## <a name="24"></a>24. 加州电动汽车充电桩数量首超加油站 
+## <a name="25"></a>25. 加州电动汽车充电桩数量首超加油站 
 <small>🔗 [latimes.com](https://www.latimes.com/california/story/2025-03-26/california-now-has-more-ev-charging-ports-than-gas-nozzles): California now has more EV charging ports than gas nozzles</small>
 
 
@@ -315,19 +327,5 @@ NASA**"旅行者"探测器**项目进入最后阶段，科学家们正面临一�
 
 <br />
 加州能源委员会数据显示，**2024年全州充电端口达17.85万**，远超约12万加油站油枪。其中**16.2万为慢充桩**，1.7万为快充桩，私家住宅还安装了70万慢充桩。这一增长得益于加州2035年禁售燃油车的政策目标，但遭到特朗普政府和国会共和党人反对。联邦政府已暂停部分州充电网络补贴，而加州仍获1.5亿美元扩建充电站，重点覆盖洛杉矶县弱势社区。全美目前共有21.6万个公共充电端口，但白宫政策转向为电动车普及蒙上阴影。
-
----
-
-## <a name="25"></a>25. SpacetimeDB v1.0：光速级的多人在线数据库 
-<small>🔗 [github.com](https://github.com/clockworklabs/SpacetimeDB): SpacetimeDB v1.0: Multiplayer at the speed of light</small>
-
-
-| 🔥: 60 \| 💬: [20](https://news.ycombinator.com/item?id=43593913) \| 🗓️ 2025-04-05
-
-
-<br />
-SpacetimeDB 是一个**将数据库与服务器合二为一**的创新系统，专为实时应用（如游戏、聊天工具）设计。它采用**关系型数据库**架构，允许开发者通过 Rust 语言编写模块，直接将应用逻辑嵌入数据库，省去传统后端服务器。其核心优势在于**超低延迟**，数据全内存处理并持久化到预写日志（WAL），性能远超智能合约。  
-
-支持 macOS、Linux 和 Windows 一键安装，提供 Rust、C# 等客户端库，适用于 MMORPG（如《BitCraft Online》）等场景。采用 BSL 1.1 许可证，未来转为 AGPL v3.0（含链接例外条款）。
 
 ---
