@@ -11,12 +11,12 @@ tags:
 1. 初创企业不必成为独角兽；
 1. 赴美外国旅客数量骤减背后的数据启示；
 1. 浏览器自动化神器：用AI助手操控浏览器的MCP工具；
+1. 日本小镇推出中年大叔卡牌游戏，意外爆红；
 1. 灭绝物种的复活：从剑齿狼到猛犸象；
-1. 大语言模型能否理解代码中的“可空性”？；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共18条，具体内容您往下读...
+总共21条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [mattgiustwilliamson.substack.com](https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a): A startup doesn't need to be a unicorn</small>
 
 
-| 🔥🔥: 464 \| 💬: [283](https://news.ycombinator.com/item?id=43609242) \| 🗓️ 2025-04-07
+| 🔥🔥: 479 \| 💬: [288](https://news.ycombinator.com/item?id=43609242) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [jasher.substack.com](https://jasher.substack.com/p/how-fewer-foreign-passengers-flying): Fewer Foreign Passengers Are Flying to the US</small>
 
 
-| 🔥🔥: 397 \| 💬: [2](https://news.ycombinator.com/item?id=43610246) \| 🗓️ 2025-04-07
+| 🔥🔥: 398 \| 💬: [2](https://news.ycombinator.com/item?id=43610246) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [browsermcp.io](https://browsermcp.io/): Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code</small>
 
 
-| 🔥🔥: 239 \| 💬: [83](https://news.ycombinator.com/item?id=43613194) \| 🗓️ 2025-04-07
+| 🔥🔥: 264 \| 💬: [94](https://news.ycombinator.com/item?id=43613194) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -59,11 +59,23 @@ Browser MCP是一款**浏览器扩展**，可将AI应用（如Cursor、Claude）
 
 ---
 
-## <a name="4"></a>4. 灭绝物种的复活：从剑齿狼到猛犸象 
+## <a name="4"></a>4. 日本小镇推出中年大叔卡牌游戏，意外爆红 
+<small>🔗 [tokyoweekender.com](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/): Middle-aged man trading cards go viral in rural Japan town</small>
+
+
+| 🔥🔥: 159 \| 💬: [21](https://news.ycombinator.com/item?id=43615912) \| 🗓️ 2025-04-07
+
+
+<br />
+在日本福冈县川原町，当地社区中心推出了一款以**中年大叔**为主角的卡牌游戏（Ojisan TCG），迅速在孩子们中走红。卡牌人物均为社区里的普通居民，如消防员、荞麦面师傅等，每张卡牌附带**特殊技能**和幽默的真实故事。游戏不仅拉近了代际距离，还激发了孩子们参与社区活动的热情。创作者表示，卡牌的稀有度与大叔们的**社区贡献**挂钩，手工制作的卡牌供不应求，成为小镇新潮流。
+
+---
+
+## <a name="5"></a>5. 灭绝物种的复活：从剑齿狼到猛犸象 
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/04/14/the-dire-wolf-is-back): The Dire Wolf Is Back</small>
 
 
-| 🔥🔥: 138 \| 💬: [142](https://news.ycombinator.com/item?id=43609661) \| 🗓️ 2025-04-07
+| 🔥🔥: 149 \| 💬: [147](https://news.ycombinator.com/item?id=43609661) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -71,11 +83,11 @@ Browser MCP是一款**浏览器扩展**，可将AI应用（如Cursor、Claude）
 
 ---
 
-## <a name="5"></a>5. 大语言模型能否理解代码中的“可空性”？ 
+## <a name="6"></a>6. 大语言模型能否理解代码中的“可空性”？ 
 <small>🔗 [dmodel.ai](https://dmodel.ai/nullability-gentle/): LLMs understand nullability</small>
 
 
-| 🔥🔥: 137 \| 💬: [93](https://news.ycombinator.com/item?id=43612211) \| 🗓️ 2025-04-07
+| 🔥🔥: 143 \| 💬: [100](https://news.ycombinator.com/item?id=43612211) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -83,11 +95,11 @@ Browser MCP是一款**浏览器扩展**，可将AI应用（如Cursor、Claude）
 
 ---
 
-## <a name="6"></a>6. Git诞生20周年：从“愚蠢的内容跟踪器”到全球主导的版本控制系统 
+## <a name="7"></a>7. Git诞生20周年：从“愚蠢的内容跟踪器”到全球主导的版本控制系统 
 <small>🔗 [blog.gitbutler.com](https://blog.gitbutler.com/20-years-of-git/): 20 years of Git</small>
 
 
-| 🔥🔥: 117 \| 💬: [32](https://news.ycombinator.com/item?id=43613305) \| 🗓️ 2025-04-07
+| 🔥🔥: 140 \| 💬: [63](https://news.ycombinator.com/item?id=43613305) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -99,11 +111,11 @@ Git的**分布式架构**和**内容寻址存储**使其在广告分发等非代
 
 ---
 
-## <a name="7"></a>7. Lux：为Lua打造的高端包管理工具 
+## <a name="8"></a>8. Lux：为Lua打造的高端包管理工具 
 <small>🔗 [mrcjkb.dev](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html): Show HN: Lux – A luxurious package manager for Lua</small>
 
 
-| 🔥🔥: 112 \| 💬: [23](https://news.ycombinator.com/item?id=43614285) \| 🗓️ 2025-04-07
+| 🔥🔥: 130 \| 💬: [36](https://news.ycombinator.com/item?id=43614285) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -111,23 +123,11 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 
 ---
 
-## <a name="8"></a>8. 破解90年代加密：早期软件中的密码学实践（2023） 
-<small>🔗 [botanica.software](https://www.botanica.software/post/decoding-the-90s): Decoding the 90s: Cryptography in Early Software Development (2023)</small>
-
-
-| 🔥: 87 \| 💬: [29](https://news.ycombinator.com/item?id=43612102) \| 🗓️ 2025-04-07
-
-
-<br />
-本文讲述了逆向工程团队如何破解90年代DOS希伯来语文字处理器**QText**的文档加密系统。通过分析MS-DOS二进制文件，团队发现其采用**4字符弱密码**，且密钥直接嵌入文件头。关键突破在于逆向**密钥派生函数**——通过两次置换和自拼接生成16字节密钥。最终团队利用递归分解算法成功还原密码，揭示了早期软件中简陋的加密实现，为数字考古提供了珍贵案例。
-
----
-
 ## <a name="9"></a>9. ICE与FBI使用的人脸识别技术背后动机曝光 
 <small>🔗 [motherjones.com](https://www.motherjones.com/politics/2025/04/clearview-ai-immigration-ice-fbi-surveillance-facial-recognition-hoan-ton-that-hal-lambert-trump/): Agenda Behind the Facial Recognition Tech Used by ICE and the FBI Revealed</small>
 
 
-| 🔥: 85 \| 💬: [31](https://news.ycombinator.com/item?id=43614592) \| 🗓️ 2025-04-07
+| 🔥🔥: 103 \| 💬: [37](https://news.ycombinator.com/item?id=43614592) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -135,11 +135,23 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 
 ---
 
-## <a name="10"></a>10. 欧盟拟简化GDPR法规以减轻企业负担 
+## <a name="10"></a>10. 破解90年代加密：早期软件中的密码学实践（2023） 
+<small>🔗 [botanica.software](https://www.botanica.software/post/decoding-the-90s): Decoding the 90s: Cryptography in Early Software Development (2023)</small>
+
+
+| 🔥: 90 \| 💬: [30](https://news.ycombinator.com/item?id=43612102) \| 🗓️ 2025-04-07
+
+
+<br />
+本文讲述了逆向工程团队如何破解90年代DOS希伯来语文字处理器**QText**的文档加密系统。通过分析MS-DOS二进制文件，团队发现其采用**4字符弱密码**，且密钥直接嵌入文件头。关键突破在于逆向**密钥派生函数**——通过两次置换和自拼接生成16字节密钥。最终团队利用递归分解算法成功还原密码，揭示了早期软件中简陋的加密实现，为数字考古提供了珍贵案例。
+
+---
+
+## <a name="11"></a>11. 欧盟拟简化GDPR法规以减轻企业负担 
 <small>🔗 [politico.eu](https://www.politico.eu/article/eu-gdpr-privacy-law-europe-president-ursula-von-der-leyen/): Europe's GDPR privacy law is headed for red tape bonfire within 'weeks'</small>
 
 
-| 🔥: 80 \| 💬: [138](https://news.ycombinator.com/item?id=43610678) \| 🗓️ 2025-04-07
+| 🔥: 82 \| 💬: [141](https://news.ycombinator.com/item?id=43610678) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -147,23 +159,11 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 
 ---
 
-## <a name="11"></a>11. 美国新关税迫使欧洲重构技术生态 
-<small>🔗 [spark.temrel.com](https://spark.temrel.com/p/the-great-unstacking): How new US tariffs are forcing Europe to rethink its entire tech stack</small>
-
-
-| 🔥: 76 \| 💬: [32](https://news.ycombinator.com/item?id=43611289) \| 🗓️ 2025-04-07
-
-
-<br />
-美国4月2日对东亚科技硬件加征关税，导致**云服务**（如AWS、Azure）和**AI硬件**（如NVIDIA GPU）成本飙升，欧洲企业被迫转向本土供应商（如OVHcloud、Hetzner）。**战略灵活性**成为关键，多云部署和本地化迁移或成趋势。欧盟若反击，可能加剧市场分裂，长期或重塑全球AI与云格局。企业需紧急评估供应链风险并调整技术依赖。
-
----
-
 ## <a name="12"></a>12. 开源软件供应链安全的五十年历程 
 <small>🔗 [queue.acm.org](https://queue.acm.org/detail.cfm?id=3722542): Fifty Years of Open Source Software Supply Chain Security</small>
 
 
-| 🔥: 72 \| 💬: [17](https://news.ycombinator.com/item?id=43614199) \| 🗓️ 2025-04-07
+| 🔥: 80 \| 💬: [25](https://news.ycombinator.com/item?id=43614199) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -171,7 +171,19 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 
 ---
 
-## <a name="13"></a>13. ITAPPMONROBOT（2007） 
+## <a name="13"></a>13. 美国新关税迫使欧洲重构技术生态 
+<small>🔗 [spark.temrel.com](https://spark.temrel.com/p/the-great-unstacking): How new US tariffs are forcing Europe to rethink its entire tech stack</small>
+
+
+| 🔥: 76 \| 💬: [33](https://news.ycombinator.com/item?id=43611289) \| 🗓️ 2025-04-07
+
+
+<br />
+美国4月2日对东亚科技硬件加征关税，导致**云服务**（如AWS、Azure）和**AI硬件**（如NVIDIA GPU）成本飙升，欧洲企业被迫转向本土供应商（如OVHcloud、Hetzner）。**战略灵活性**成为关键，多云部署和本地化迁移或成趋势。欧盟若反击，可能加剧市场分裂，长期或重塑全球AI与云格局。企业需紧急评估供应链风险并调整技术依赖。
+
+---
+
+## <a name="14"></a>14. ITAPPMONROBOT（2007） 
 <small>🔗 [thedailywtf.com](https://thedailywtf.com/articles/ITAPPMONROBOT): ITAPPMONROBOT (2007)</small>
 
 
@@ -183,11 +195,11 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 
 ---
 
-## <a name="14"></a>14. 约翰·卡马克谈游戏编程中的人工智能 
+## <a name="15"></a>15. 约翰·卡马克谈游戏编程中的人工智能 
 <small>🔗 [twitter.com](https://twitter.com/ID_AA_Carmack/status/1909311174845329874): John Carmack on AI in game programming</small>
 
 
-| 🔥: 56 \| 💬: [67](https://news.ycombinator.com/item?id=43614546) \| 🗓️ 2025-04-07
+| 🔥: 58 \| 💬: [78](https://news.ycombinator.com/item?id=43614546) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -195,11 +207,11 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 
 ---
 
-## <a name="15"></a>15. 为何卡图卢斯至今仍令人着迷 
+## <a name="16"></a>16. 为何卡图卢斯至今仍令人着迷 
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/04/07/catullus-poems-book-review-stephen-mitchell-isobel-williams): Why Catullus continues to seduce us</small>
 
 
-| 🔥: 48 \| 💬: [29](https://news.ycombinator.com/item?id=43612807) \| 🗓️ 2025-04-07
+| 🔥: 53 \| 💬: [29](https://news.ycombinator.com/item?id=43612807) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -207,11 +219,11 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 
 ---
 
-## <a name="16"></a>16. 依赖类型Haskell编程的痛苦与快乐（2013） 
+## <a name="17"></a>17. 依赖类型Haskell编程的痛苦与快乐（2013） 
 <small>🔗 [personal.cis.strath.ac.uk](https://personal.cis.strath.ac.uk/conor.mcbride/pub/hasochism.pdf): Hasochism: The pleasure and pain of dependently typed Haskell programming [pdf] (2013)</small>
 
 
-| 🔥: 44 \| 💬: [6](https://news.ycombinator.com/item?id=43613994) \| 🗓️ 2025-04-07
+| 🔥: 52 \| 💬: [9](https://news.ycombinator.com/item?id=43613994) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -219,11 +231,37 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 
 ---
 
-## <a name="17"></a>17. Bluesky：打造无毒性社交媒体的探索 
+## <a name="18"></a>18. 安装减速带要等三年，于是我决定自己动手 
+<small>🔗 [substack.com](https://substack.com/home/post/p-160523691): It would take three years to install a speed bump. So I bought my own</small>
+
+
+| 🔥: 45 \| 💬: [37](https://news.ycombinator.com/item?id=43614534) \| 🗓️ 2025-04-07
+
+
+<br />
+由于官方流程繁琐，安装一个**减速带**竟需等待三年。作者无法忍受漫长的审批和施工周期，决定**自掏腰包**购买并安装减速带。这一举动不仅解决了社区的安全隐患，还凸显了**官僚主义**导致的低效问题。文章呼吁简化公共事务流程，让居民需求得到及时响应。
+
+---
+
+## <a name="19"></a>19. Shopify CEO：AI应用已成基础要求 
+<small>🔗 [twitter.com](https://twitter.com/tobi/status/1909251946235437514): Shopify CEO: "AI usage is now a baseline expectation"</small>
+
+
+| 🔥: 44 \| 💬: [29](https://news.ycombinator.com/item?id=43613079) \| 🗓️ 2025-04-07
+
+
+<br />
+由于浏览器**禁用JavaScript**，导致无法加载内容。建议启用JavaScript或更换支持的浏览器访问。若问题持续，可尝试**关闭隐私扩展插件**。平台提供了帮助中心、服务条款等支持文档，但当前页面核心信息因技术限制未能完整展示。  
+
+（注：原文提及的CEO观点因内容缺失无法详述，摘要仅基于可见的技术提示部分。）
+
+---
+
+## <a name="20"></a>20. Bluesky：打造无毒性社交媒体的探索 
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/04/14/blueskys-quest-to-build-nontoxic-social-media): Bluesky's Quest to Build Nontoxic Social Media</small>
 
 
-| 🔥: 43 \| 💬: [96](https://news.ycombinator.com/item?id=43609658) \| 🗓️ 2025-04-07
+| 🔥: 43 \| 💬: [97](https://news.ycombinator.com/item?id=43609658) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -231,16 +269,14 @@ Bluesky作为Twitter的替代平台，在Elon Musk收购X后迅速崛起，用�
 
 ---
 
-## <a name="18"></a>18. Shopify CEO：AI应用已成基础要求 
-<small>🔗 [twitter.com](https://twitter.com/tobi/status/1909251946235437514): Shopify CEO: "AI usage is now a baseline expectation"</small>
+## <a name="21"></a>21. 用Web Audio API生成可变占空比方波 
+<small>🔗 [danblack.co](https://www.danblack.co/blog/variable-duty-cycle-square-wave): Variable duty cycle square waves with the Web Audio API</small>
 
 
-| 🔥: 40 \| 💬: [20](https://news.ycombinator.com/item?id=43613079) \| 🗓️ 2025-04-07
+| 🔥: 40 \| 💬: [41](https://news.ycombinator.com/item?id=43613180) \| 🗓️ 2025-04-07
 
 
 <br />
-由于浏览器**禁用JavaScript**，导致无法加载内容。建议启用JavaScript或更换支持的浏览器访问。若问题持续，可尝试**关闭隐私扩展插件**。平台提供了帮助中心、服务条款等支持文档，但当前页面核心信息因技术限制未能完整展示。  
-
-（注：原文提及的CEO观点因内容缺失无法详述，摘要仅基于可见的技术提示部分。）
+本文探讨了如何通过**Web Audio API**实现**可变占空比方波**，以还原Gameboy的经典芯片音乐效果。作者对比了两种方法：**傅里叶级数法**通过谐波合成目标波形，计算复杂但音质较平滑；**波形整形法**则利用锯齿波和阶跃函数快速生成方波，虽存在高频噪点但更接近原版音效。最终作者选择后者，因其简单高效且更贴合8-bit风格。两种方案各有利弊，开发者可根据需求选择。
 
 ---
