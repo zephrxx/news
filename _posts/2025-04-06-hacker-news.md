@@ -11,8 +11,8 @@ tags:
 1. MCP协议的安全隐患：AI工具集成背后的风险；
 1. 让我们禁止广告牌吧；
 1. 近期AI模型进展多是噱头；
-1. Gumroad的"开源"策略与争议；
 1. 政客股票交易追踪：揭秘国会山投资动向；
+1. Gumroad的"开源"策略与争议；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [elenacross7.medium.com](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b): The “S” in MCP Stands for Security</small>
 
 
-| 🔥🔥: 556 \| 💬: [150](https://news.ycombinator.com/item?id=43600192) \| 🗓️ 2025-04-06
+| 🔥🔥: 570 \| 💬: [151](https://news.ycombinator.com/item?id=43600192) \| 🗓️ 2025-04-06
 
 
 <br />
@@ -39,7 +39,7 @@ MCP（模型上下文协议）是AI代理（如Claude、GPT）连接工具与数
 <small>🔗 [iambateman.com](https://iambateman.com/articles/billboards): Let's Ban Billboards</small>
 
 
-| 🔥🔥: 285 \| 💬: [231](https://news.ycombinator.com/item?id=43606371) \| 🗓️ 2025-04-06
+| 🔥🔥: 295 \| 💬: [245](https://news.ycombinator.com/item?id=43606371) \| 🗓️ 2025-04-06
 
 
 <br />
@@ -51,7 +51,7 @@ MCP（模型上下文协议）是AI代理（如Claude、GPT）连接工具与数
 <small>🔗 [lesswrong.com](https://www.lesswrong.com/posts/4mvphwx5pdsZLMmpY/recent-ai-model-progress-feels-mostly-like-bullshit): Recent AI model progress feels mostly like bullshit</small>
 
 
-| 🔥🔥: 267 \| 💬: [242](https://news.ycombinator.com/item?id=43603453) \| 🗓️ 2025-04-06
+| 🔥🔥: 293 \| 💬: [257](https://news.ycombinator.com/item?id=43603453) \| 🗓️ 2025-04-06
 
 
 <br />
@@ -59,23 +59,11 @@ MCP（模型上下文协议）是AI代理（如Claude、GPT）连接工具与数
 
 ---
 
-## <a name="4"></a>4. Gumroad的"开源"策略与争议 
-<small>🔗 [tedium.co](https://tedium.co/2025/04/06/gumroad-open-source-doge-drama/): Gumroad's Interestingly Timed "Open-Source" Play</small>
-
-
-| 🔥🔥: 197 \| 💬: [79](https://news.ycombinator.com/item?id=43603999) \| 🗓️ 2025-04-06
-
-
-<br />
-作者因个人原因对Gumroad名称中的"gum"一词感到不适，但认可其在创作者经济中的作用。近期Gumroad宣布**开源**其应用，引发关注，但其许可证实为**受限使用**，且年收入超百万美元需支付定制费用。同日曝光的消息显示，创始人Sahil Lavingia在退伍军人事务部无偿工作，同时将Gumroad员工替换为自动化系统，导致**客服质量下降**。作者建议创作者利用低代码工具自建平台，减少对中间商的依赖。
-
----
-
-## <a name="5"></a>5. 政客股票交易追踪：揭秘国会山投资动向 
+## <a name="4"></a>4. 政客股票交易追踪：揭秘国会山投资动向 
 <small>🔗 [capitoltrades.com](https://www.capitoltrades.com/): Capital Trades: Tracking Stock Market Transactions of Politicians</small>
 
 
-| 🔥🔥: 193 \| 💬: [75](https://news.ycombinator.com/item?id=43604052) \| 🗓️ 2025-04-06
+| 🔥🔥: 218 \| 💬: [81](https://news.ycombinator.com/item?id=43604052) \| 🗓️ 2025-04-06
 
 
 <br />
@@ -83,11 +71,23 @@ MCP（模型上下文协议）是AI代理（如Claude、GPT）连接工具与数
 
 ---
 
+## <a name="5"></a>5. Gumroad的"开源"策略与争议 
+<small>🔗 [tedium.co](https://tedium.co/2025/04/06/gumroad-open-source-doge-drama/): Gumroad's Interestingly Timed "Open-Source" Play</small>
+
+
+| 🔥🔥: 199 \| 💬: [79](https://news.ycombinator.com/item?id=43603999) \| 🗓️ 2025-04-06
+
+
+<br />
+作者因个人原因对Gumroad名称中的"gum"一词感到不适，但认可其在创作者经济中的作用。近期Gumroad宣布**开源**其应用，引发关注，但其许可证实为**受限使用**，且年收入超百万美元需支付定制费用。同日曝光的消息显示，创始人Sahil Lavingia在退伍军人事务部无偿工作，同时将Gumroad员工替换为自动化系统，导致**客服质量下降**。作者建议创作者利用低代码工具自建平台，减少对中间商的依赖。
+
+---
+
 ## <a name="6"></a>6. 联邦预算削减导致美国标志性步道修复受阻 
 <small>🔗 [apnews.com](https://apnews.com/article/pacific-crest-appalachian-trail-federal-layoffs-934a5526570569b625f5d854ec339a04): Federal cuts disrupt repairs to iconic U.S. trails</small>
 
 
-| 🔥🔥: 166 \| 💬: [145](https://news.ycombinator.com/item?id=43603111) \| 🗓️ 2025-04-06
+| 🔥🔥: 172 \| 💬: [154](https://news.ycombinator.com/item?id=43603111) \| 🗓️ 2025-04-06
 
 
 <br />
@@ -99,7 +99,7 @@ MCP（模型上下文协议）是AI代理（如Claude、GPT）连接工具与数
 <small>🔗 [michal.sapka.pl](https://michal.sapka.pl/2025/gmail-e2e-is-as-terrible-as-expected/): Gmail E2E is as terrible as expected</small>
 
 
-| 🔥🔥: 166 \| 💬: [59](https://news.ycombinator.com/item?id=43604308) \| 🗓️ 2025-04-06
+| 🔥🔥: 171 \| 💬: [60](https://news.ycombinator.com/item?id=43604308) \| 🗓️ 2025-04-06
 
 
 <br />
@@ -107,7 +107,19 @@ MCP（模型上下文协议）是AI代理（如Claude、GPT）连接工具与数
 
 ---
 
-## <a name="8"></a>8. SeedLM：将大语言模型权重压缩为伪随机生成器种子 
+## <a name="8"></a>8. 视频证据反驳以军对加沙医护人员遇袭事件的解释 
+<small>🔗 [bbc.com](https://www.bbc.com/news/articles/c4g2z103nqxo): Video footage appears to contradict Israeli account of Gaza medic killings</small>
+
+
+| 🔥🔥: 157 \| 💬: [71](https://news.ycombinator.com/item?id=43599864) \| 🗓️ 2025-04-06
+
+
+<br />
+巴勒斯坦红新月会公布的**手机视频**显示，3月23日遇袭的救护车和消防车队当时**开启车灯和警示灯**，与以色列国防军最初“未亮灯”的说法矛盾。以军回应将“彻查事件”，但未提供所谓“车内藏有哈马斯武装人员”的证据。幸存医护人员强调车队标识清晰，且全员为**平民救援人员**。15名遇难者遗体一周后从浅坟中挖出，其中一名遇难者手机录下了最后祈祷声。国际社会呼吁独立调查这起“暴行”，目前仍有一名医护人员失踪。
+
+---
+
+## <a name="9"></a>9. SeedLM：将大语言模型权重压缩为伪随机生成器种子 
 <small>🔗 [machinelearning.apple.com](https://machinelearning.apple.com/research/seedlm-compressing): SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators</small>
 
 
@@ -119,23 +131,11 @@ SeedLM是一种创新的**后训练压缩方法**，通过**伪随机生成器�
 
 ---
 
-## <a name="9"></a>9. 视频证据反驳以军对加沙医护人员遇袭事件的解释 
-<small>🔗 [bbc.com](https://www.bbc.com/news/articles/c4g2z103nqxo): Video footage appears to contradict Israeli account of Gaza medic killings</small>
-
-
-| 🔥🔥: 156 \| 💬: [69](https://news.ycombinator.com/item?id=43599864) \| 🗓️ 2025-04-06
-
-
-<br />
-巴勒斯坦红新月会公布的**手机视频**显示，3月23日遇袭的救护车和消防车队当时**开启车灯和警示灯**，与以色列国防军最初“未亮灯”的说法矛盾。以军回应将“彻查事件”，但未提供所谓“车内藏有哈马斯武装人员”的证据。幸存医护人员强调车队标识清晰，且全员为**平民救援人员**。15名遇难者遗体一周后从浅坟中挖出，其中一名遇难者手机录下了最后祈祷声。国际社会呼吁独立调查这起“暴行”，目前仍有一名医护人员失踪。
-
----
-
 ## <a name="10"></a>10. 中子星暗示可能存在额外维度 
 <small>🔗 [nautil.us](https://nautil.us/neutron-stars-hint-at-another-dimension-1202180/): Neutron Stars Hint at Another Dimension</small>
 
 
-| 🔥🔥: 146 \| 💬: [55](https://news.ycombinator.com/item?id=43600704) \| 🗓️ 2025-04-06
+| 🔥🔥: 150 \| 💬: [56](https://news.ycombinator.com/item?id=43600704) \| 🗓️ 2025-04-06
 
 
 <br />
@@ -147,7 +147,7 @@ SeedLM是一种创新的**后训练压缩方法**，通过**伪随机生成器�
 <small>🔗 [bleepingcomputer.com](https://www.bleepingcomputer.com/news/security/max-severity-rce-flaw-discovered-in-widely-used-apache-parquet/): Max severity RCE flaw discovered in widely used Apache Parquet</small>
 
 
-| 🔥🔥: 143 \| 💬: [61](https://news.ycombinator.com/item?id=43603091) \| 🗓️ 2025-04-06
+| 🔥🔥: 147 \| 💬: [62](https://news.ycombinator.com/item?id=43603091) \| 🗓️ 2025-04-06
 
 
 <br />
@@ -171,7 +171,7 @@ SeedLM是一种创新的**后训练压缩方法**，通过**伪随机生成器�
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/RTLSDR/comments/1jsr9jv/eavesdropping_on_smartphone_1356mhz_nfc_polling/): Eavesdropping on smartphone 13.56MHz NFC polling during screen wake-up/unlock</small>
 
 
-| 🔥🔥: 106 \| 💬: [22](https://news.ycombinator.com/item?id=43605576) \| 🗓️ 2025-04-06
+| 🔥🔥: 114 \| 💬: [22](https://news.ycombinator.com/item?id=43605576) \| 🗓️ 2025-04-06
 
 
 <br />
@@ -185,7 +185,7 @@ SeedLM是一种创新的**后训练压缩方法**，通过**伪随机生成器�
 <small>🔗 [github.com](https://github.com/brannondorsey/mem-isolate): Show HN: I built a Rust crate for running unsafe code safely</small>
 
 
-| 🔥: 98 \| 💬: [55](https://news.ycombinator.com/item?id=43601301) \| 🗓️ 2025-04-06
+| 🔥🔥: 101 \| 💬: [56](https://news.ycombinator.com/item?id=43601301) \| 🗓️ 2025-04-06
 
 
 <br />
@@ -200,23 +200,11 @@ SeedLM是一种创新的**后训练压缩方法**，通过**伪随机生成器�
 
 ---
 
-## <a name="15"></a>15. 软件工程师的疯狂日常 
-<small>🔗 [0x1.pt](https://0x1.pt/2025/04/06/the-insanity-of-being-a-software-engineer/): The Insanity of Being a Software Engineer</small>
-
-
-| 🔥: 90 \| 💬: [126](https://news.ycombinator.com/item?id=43600582) \| 🗓️ 2025-04-06
-
-
-<br />
-这篇文章吐槽了软件工程师面临的**多重技能要求**和行业变化。开发者不仅要掌握多种编程语言和框架（如**React**、TypeScript），还要兼顾**DevOps**（Docker、AWS）甚至管理任务。作者质疑为何建筑行业能分工明确，而软件工程却要求一人全栈，并调侃未来或许靠几句提示就能开发应用。
-
----
-
-## <a name="16"></a>16. 数据中心90%是无用垃圾数据 
+## <a name="15"></a>15. 数据中心90%是无用垃圾数据 
 <small>🔗 [gerrymcgovern.com](https://gerrymcgovern.com/data-centers-contain-90-crap-data/): Data centers contain 90% crap data</small>
 
 
-| 🔥: 88 \| 💬: [50](https://news.ycombinator.com/item?id=43605695) \| 🗓️ 2025-04-06
+| 🔥: 97 \| 💬: [55](https://news.ycombinator.com/item?id=43605695) \| 🗓️ 2025-04-06
 
 
 <br />
@@ -224,11 +212,11 @@ SeedLM是一种创新的**后训练压缩方法**，通过**伪随机生成器�
 
 ---
 
-## <a name="17"></a>17. 美国政府网站及数据集种子：下载与做种指南 
+## <a name="16"></a>16. 美国政府网站及数据集种子：下载与做种指南 
 <small>🔗 [sciop.net](https://sciop.net/uploads/): SciOp torrents: download, seed erased US Gov sites and datasets</small>
 
 
-| 🔥: 84 \| 💬: [6](https://news.ycombinator.com/item?id=43605751) \| 🗓️ 2025-04-06
+| 🔥: 95 \| 💬: [8](https://news.ycombinator.com/item?id=43605751) \| 🗓️ 2025-04-06
 
 
 <br />
@@ -236,7 +224,31 @@ SeedLM是一种创新的**后训练压缩方法**，通过**伪随机生成器�
 
 ---
 
-## <a name="18"></a>18. 巴菲特警告：美国日益增长的贸易逆差正在掏空国家根基（2003年） 
+## <a name="17"></a>17. 软件工程师的疯狂日常 
+<small>🔗 [0x1.pt](https://0x1.pt/2025/04/06/the-insanity-of-being-a-software-engineer/): The Insanity of Being a Software Engineer</small>
+
+
+| 🔥: 93 \| 💬: [130](https://news.ycombinator.com/item?id=43600582) \| 🗓️ 2025-04-06
+
+
+<br />
+这篇文章吐槽了软件工程师面临的**多重技能要求**和行业变化。开发者不仅要掌握多种编程语言和框架（如**React**、TypeScript），还要兼顾**DevOps**（Docker、AWS）甚至管理任务。作者质疑为何建筑行业能分工明确，而软件工程却要求一人全栈，并调侃未来或许靠几句提示就能开发应用。
+
+---
+
+## <a name="18"></a>18. 华丽工具箱：可定制开发环境 
+<small>🔗 [gtoolkit.com](https://gtoolkit.com//): Glamorous Toolkit</small>
+
+
+| 🔥: 90 \| 💬: [23](https://news.ycombinator.com/item?id=43606027) \| 🗓️ 2025-04-06
+
+
+<br />
+**华丽工具箱**是一个**可定制开发环境**，通过**情境化微工具**让系统更易理解。它支持多种用例，如API探索、软件分析、数据可视化、DevOps调查等，适用于多种语言和技术（如Java、Python、COBOL等）。其核心理念是**可定制开发**，即针对不同问题构建专属工具，从而提升开发效率与系统透明度。免费开源，支持Mac、Linux和Windows。
+
+---
+
+## <a name="19"></a>19. 巴菲特警告：美国日益增长的贸易逆差正在掏空国家根基（2003年） 
 <small>🔗 [berkshirehathaway.com](https://www.berkshirehathaway.com/letters/growing.pdf): Buffett: America's Growing Trade Deficit Is Selling the Nation Out from Under Us [pdf] (2003)</small>
 
 
@@ -248,23 +260,11 @@ SeedLM是一种创新的**后训练压缩方法**，通过**伪随机生成器�
 
 ---
 
-## <a name="19"></a>19. 华丽工具箱：可定制开发环境 
-<small>🔗 [gtoolkit.com](https://gtoolkit.com//): Glamorous Toolkit</small>
-
-
-| 🔥: 79 \| 💬: [20](https://news.ycombinator.com/item?id=43606027) \| 🗓️ 2025-04-06
-
-
-<br />
-**华丽工具箱**是一个**可定制开发环境**，通过**情境化微工具**让系统更易理解。它支持多种用例，如API探索、软件分析、数据可视化、DevOps调查等，适用于多种语言和技术（如Java、Python、COBOL等）。其核心理念是**可定制开发**，即针对不同问题构建专属工具，从而提升开发效率与系统透明度。免费开源，支持Mac、Linux和Windows。
-
----
-
 ## <a name="20"></a>20. 无需JavaScript隐藏依赖JS的元素 
 <small>🔗 [0xda.de](https://0xda.de/blog/2025/04/hiding-elements-that-require-javascript-without-javascript/): Hiding elements that require JavaScript without JavaScript</small>
 
 
-| 🔥: 60 \| 💬: [44](https://news.ycombinator.com/item?id=43602688) \| 🗓️ 2025-04-06
+| 🔥: 62 \| 💬: [44](https://news.ycombinator.com/item?id=43602688) \| 🗓️ 2025-04-06
 
 
 <br />
