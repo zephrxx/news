@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [tokyoweekender.com](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/): Middle-aged man trading cards go viral in rural Japan town</small>
 
 
-| 🔥🔥: 626 \| 💬: [112](https://news.ycombinator.com/item?id=43615912) \| 🗓️ 2025-04-07
+| 🔥🔥: 673 \| 💬: [122](https://news.ycombinator.com/item?id=43615912) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [mattgiustwilliamson.substack.com](https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a): A startup doesn't need to be a unicorn</small>
 
 
-| 🔥🔥: 520 \| 💬: [319](https://news.ycombinator.com/item?id=43609242) \| 🗓️ 2025-04-07
+| 🔥🔥: 527 \| 💬: [322](https://news.ycombinator.com/item?id=43609242) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [browsermcp.io](https://browsermcp.io/): Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code</small>
 
 
-| 🔥🔥: 357 \| 💬: [138](https://news.ycombinator.com/item?id=43613194) \| 🗓️ 2025-04-07
+| 🔥🔥: 371 \| 💬: [144](https://news.ycombinator.com/item?id=43613194) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -75,7 +75,7 @@ Browser MCP是一款**浏览器扩展**，可将AI应用（如Cursor、Claude）
 <small>🔗 [blog.gitbutler.com](https://blog.gitbutler.com/20-years-of-git/): 20 years of Git</small>
 
 
-| 🔥🔥: 216 \| 💬: [148](https://news.ycombinator.com/item?id=43613305) \| 🗓️ 2025-04-07
+| 🔥🔥: 227 \| 💬: [155](https://news.ycombinator.com/item?id=43613305) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -91,7 +91,7 @@ Git的**分布式架构**和**内容寻址存储**使其在广告分发等非代
 <small>🔗 [mrcjkb.dev](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html): Show HN: Lux – A luxurious package manager for Lua</small>
 
 
-| 🔥🔥: 179 \| 💬: [59](https://news.ycombinator.com/item?id=43614285) \| 🗓️ 2025-04-07
+| 🔥🔥: 185 \| 💬: [62](https://news.ycombinator.com/item?id=43614285) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -103,7 +103,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/04/14/the-dire-wolf-is-back): The Dire Wolf Is Back</small>
 
 
-| 🔥🔥: 160 \| 💬: [165](https://news.ycombinator.com/item?id=43609661) \| 🗓️ 2025-04-07
+| 🔥🔥: 164 \| 💬: [165](https://news.ycombinator.com/item?id=43609661) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -115,7 +115,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 <small>🔗 [dmodel.ai](https://dmodel.ai/nullability-gentle/): LLMs understand nullability</small>
 
 
-| 🔥🔥: 147 \| 💬: [107](https://news.ycombinator.com/item?id=43612211) \| 🗓️ 2025-04-07
+| 🔥🔥: 148 \| 💬: [107](https://news.ycombinator.com/item?id=43612211) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -127,7 +127,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 <small>🔗 [fosstodon.org](https://fosstodon.org/@frameworkcomputer/114297967333461078): Framework temporarily pausing some laptop sales in the US due to tariffs</small>
 
 
-| 🔥🔥: 142 \| 💬: [26](https://news.ycombinator.com/item?id=43617207) \| 🗓️ 2025-04-07
+| 🔥🔥: 144 \| 💬: [27](https://news.ycombinator.com/item?id=43617207) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -139,7 +139,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 <small>🔗 [motherjones.com](https://www.motherjones.com/politics/2025/04/clearview-ai-immigration-ice-fbi-surveillance-facial-recognition-hoan-ton-that-hal-lambert-trump/): Agenda Behind the Facial Recognition Tech Used by ICE and the FBI Revealed</small>
 
 
-| 🔥🔥: 131 \| 💬: [48](https://news.ycombinator.com/item?id=43614592) \| 🗓️ 2025-04-07
+| 🔥🔥: 132 \| 💬: [49](https://news.ycombinator.com/item?id=43614592) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -151,7 +151,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 <small>🔗 [queue.acm.org](https://queue.acm.org/detail.cfm?id=3722542): Fifty Years of Open Source Software Supply Chain Security</small>
 
 
-| 🔥🔥: 116 \| 💬: [48](https://news.ycombinator.com/item?id=43614199) \| 🗓️ 2025-04-07
+| 🔥🔥: 121 \| 💬: [58](https://news.ycombinator.com/item?id=43614199) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -163,7 +163,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 <small>🔗 [botanica.software](https://www.botanica.software/post/decoding-the-90s): Decoding the 90s: Cryptography in Early Software Development (2023)</small>
 
 
-| 🔥🔥: 102 \| 💬: [32](https://news.ycombinator.com/item?id=43612102) \| 🗓️ 2025-04-07
+| 🔥🔥: 107 \| 💬: [32](https://news.ycombinator.com/item?id=43612102) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -175,7 +175,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 <small>🔗 [politico.eu](https://www.politico.eu/article/eu-gdpr-privacy-law-europe-president-ursula-von-der-leyen/): Europe's GDPR privacy law is headed for red tape bonfire within 'weeks'</small>
 
 
-| 🔥: 89 \| 💬: [149](https://news.ycombinator.com/item?id=43610678) \| 🗓️ 2025-04-07
+| 🔥: 89 \| 💬: [152](https://news.ycombinator.com/item?id=43610678) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -183,7 +183,21 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 
 ---
 
-## <a name="14"></a>14. 美国新关税迫使欧洲重构技术生态 
+## <a name="14"></a>14. Shopify CEO：AI应用已成基础要求 
+<small>🔗 [twitter.com](https://twitter.com/tobi/status/1909251946235437514): Shopify CEO: "AI usage is now a baseline expectation"</small>
+
+
+| 🔥: 80 \| 💬: [49](https://news.ycombinator.com/item?id=43613079) \| 🗓️ 2025-04-07
+
+
+<br />
+由于浏览器**禁用JavaScript**，导致无法加载内容。建议启用JavaScript或更换支持的浏览器访问。若问题持续，可尝试**关闭隐私扩展插件**。平台提供了帮助中心、服务条款等支持文档，但当前页面核心信息因技术限制未能完整展示。  
+
+（注：原文提及的CEO观点因内容缺失无法详述，摘要仅基于可见的技术提示部分。）
+
+---
+
+## <a name="15"></a>15. 美国新关税迫使欧洲重构技术生态 
 <small>🔗 [spark.temrel.com](https://spark.temrel.com/p/the-great-unstacking): How new US tariffs are forcing Europe to rethink its entire tech stack</small>
 
 
@@ -195,25 +209,11 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 
 ---
 
-## <a name="15"></a>15. Shopify CEO：AI应用已成基础要求 
-<small>🔗 [twitter.com](https://twitter.com/tobi/status/1909251946235437514): Shopify CEO: "AI usage is now a baseline expectation"</small>
-
-
-| 🔥: 76 \| 💬: [49](https://news.ycombinator.com/item?id=43613079) \| 🗓️ 2025-04-07
-
-
-<br />
-由于浏览器**禁用JavaScript**，导致无法加载内容。建议启用JavaScript或更换支持的浏览器访问。若问题持续，可尝试**关闭隐私扩展插件**。平台提供了帮助中心、服务条款等支持文档，但当前页面核心信息因技术限制未能完整展示。  
-
-（注：原文提及的CEO观点因内容缺失无法详述，摘要仅基于可见的技术提示部分。）
-
----
-
 ## <a name="16"></a>16. 依赖类型Haskell编程的痛苦与快乐（2013） 
 <small>🔗 [personal.cis.strath.ac.uk](https://personal.cis.strath.ac.uk/conor.mcbride/pub/hasochism.pdf): Hasochism: The pleasure and pain of dependently typed Haskell programming [pdf] (2013)</small>
 
 
-| 🔥: 73 \| 💬: [10](https://news.ycombinator.com/item?id=43613994) \| 🗓️ 2025-04-07
+| 🔥: 77 \| 💬: [10](https://news.ycombinator.com/item?id=43613994) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -225,7 +225,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 <small>🔗 [blog.littlepolygon.com](https://blog.littlepolygon.com/posts/scaffold/): Scaffold Level Editor</small>
 
 
-| 🔥: 71 \| 💬: [14](https://news.ycombinator.com/item?id=43615322) \| 🗓️ 2025-04-07
+| 🔥: 75 \| 💬: [18](https://news.ycombinator.com/item?id=43615322) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -245,7 +245,19 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 
 ---
 
-## <a name="19"></a>19. 约翰·卡马克谈游戏编程中的人工智能 
+## <a name="19"></a>19. 石英网的兴衰：一场数字媒体的理想主义实验 
+<small>🔗 [zachseward.com](https://www.zachseward.com/what-was-quartz/): What Was Quartz?</small>
+
+
+| 🔥: 66 \| 💬: [28](https://news.ycombinator.com/item?id=43616604) \| 🗓️ 2025-04-07
+
+
+<br />
+石英网（Quartz）2012年由一群怀揣**新闻理想**的团队创立，以**全球主义**为核心理念，试图颠覆传统媒体模式。初期凭借创新内容和高质量报道迅速崛起，但始终未能盈利。经历多次收购后，最终被私募基金G/O Media收购并**榨干资源**，沦为仅剩邮件列表的"僵尸品牌"。创始人反思，**数字媒体的经济困境**与资本贪婪摧毁了这场实验，但石英网的影响力和团队精神仍值得铭记。
+
+---
+
+## <a name="20"></a>20. 约翰·卡马克谈游戏编程中的人工智能 
 <small>🔗 [twitter.com](https://twitter.com/ID_AA_Carmack/status/1909311174845329874): John Carmack on AI in game programming</small>
 
 
@@ -257,11 +269,23 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 
 ---
 
-## <a name="20"></a>20. 为何卡图卢斯至今仍令人着迷 
+## <a name="21"></a>21. GitHub Actions的shell可以是任意程序 
+<small>🔗 [yossarian.net](https://yossarian.net/til/post/any-program-can-be-a-github-actions-shell/): Any program can be a GitHub Actions shell</small>
+
+
+| 🔥: 62 \| 💬: [6](https://news.ycombinator.com/item?id=43617493) \| 🗓️ 2025-04-07
+
+
+<br />
+在GitHub Actions中，**`shell`关键字**不仅支持默认的bash或pwsh，还能指定任意**`$PATH`中的可执行程序**作为解释器。例如，通过`{0}`参数传递临时脚本文件，甚至可以用C语言（如`tcc`）或动态修改的假bash来运行代码。这一特性虽然灵活，但也带来潜在**安全隐患**，因为GitHub未限制"已知shell"的路径解析，而是允许工具缓存中的任何程序。开发者需注意此类非预期行为可能引发的风险。
+
+---
+
+## <a name="22"></a>22. 为何卡图卢斯至今仍令人着迷 
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/04/07/catullus-poems-book-review-stephen-mitchell-isobel-williams): Why Catullus continues to seduce us</small>
 
 
-| 🔥: 59 \| 💬: [33](https://news.ycombinator.com/item?id=43612807) \| 🗓️ 2025-04-07
+| 🔥: 60 \| 💬: [33](https://news.ycombinator.com/item?id=43612807) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -269,19 +293,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 
 ---
 
-## <a name="21"></a>21. 石英网的兴衰：一场数字媒体的理想主义实验 
-<small>🔗 [zachseward.com](https://www.zachseward.com/what-was-quartz/): What Was Quartz?</small>
-
-
-| 🔥: 58 \| 💬: [27](https://news.ycombinator.com/item?id=43616604) \| 🗓️ 2025-04-07
-
-
-<br />
-石英网（Quartz）2012年由一群怀揣**新闻理想**的团队创立，以**全球主义**为核心理念，试图颠覆传统媒体模式。初期凭借创新内容和高质量报道迅速崛起，但始终未能盈利。经历多次收购后，最终被私募基金G/O Media收购并**榨干资源**，沦为仅剩邮件列表的"僵尸品牌"。创始人反思，**数字媒体的经济困境**与资本贪婪摧毁了这场实验，但石英网的影响力和团队精神仍值得铭记。
-
----
-
-## <a name="22"></a>22. 安装减速带要等三年，于是我决定自己动手 
+## <a name="23"></a>23. 安装减速带要等三年，于是我决定自己动手 
 <small>🔗 [substack.com](https://substack.com/home/post/p-160523691): It would take three years to install a speed bump. So I bought my own</small>
 
 
@@ -293,7 +305,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 
 ---
 
-## <a name="23"></a>23. 用Web Audio API生成可变占空比方波 
+## <a name="24"></a>24. 用Web Audio API生成可变占空比方波 
 <small>🔗 [danblack.co](https://www.danblack.co/blog/variable-duty-cycle-square-wave): Variable duty cycle square waves with the Web Audio API</small>
 
 
@@ -305,7 +317,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 
 ---
 
-## <a name="24"></a>24. Bluesky：打造无毒性社交媒体的探索 
+## <a name="25"></a>25. Bluesky：打造无毒性社交媒体的探索 
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/04/14/blueskys-quest-to-build-nontoxic-social-media): Bluesky's Quest to Build Nontoxic Social Media</small>
 
 
