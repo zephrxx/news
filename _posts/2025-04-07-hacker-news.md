@@ -10,8 +10,8 @@ tags:
 
 1. 初创企业不必成为独角兽；
 1. 赴美外国旅客数量骤减背后的数据启示；
-1. 浏览器自动化神器：用AI助手操控浏览器的MCP工具；
 1. 日本小镇推出中年大叔卡牌游戏，意外爆红；
+1. 浏览器自动化神器：用AI助手操控浏览器的MCP工具；
 1. Git诞生20周年：从“愚蠢的内容跟踪器”到全球主导的版本控制系统；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [mattgiustwilliamson.substack.com](https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a): A startup doesn't need to be a unicorn</small>
 
 
-| 🔥🔥: 493 \| 💬: [292](https://news.ycombinator.com/item?id=43609242) \| 🗓️ 2025-04-07
+| 🔥🔥: 497 \| 💬: [298](https://news.ycombinator.com/item?id=43609242) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [jasher.substack.com](https://jasher.substack.com/p/how-fewer-foreign-passengers-flying): Fewer Foreign Passengers Are Flying to the US</small>
 
 
-| 🔥🔥: 398 \| 💬: [2](https://news.ycombinator.com/item?id=43610246) \| 🗓️ 2025-04-07
+| 🔥🔥: 399 \| 💬: [2](https://news.ycombinator.com/item?id=43610246) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -47,23 +47,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 浏览器自动化神器：用AI助手操控浏览器的MCP工具 
-<small>🔗 [browsermcp.io](https://browsermcp.io/): Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code</small>
-
-
-| 🔥🔥: 280 \| 💬: [100](https://news.ycombinator.com/item?id=43613194) \| 🗓️ 2025-04-07
-
-
-<br />
-Browser MCP是一款**浏览器扩展**，可将AI应用（如Cursor、Claude）与浏览器连接，实现**本地自动化操作**。用户无需编写代码，即可完成表单填写、数据收集、端到端测试等任务。其核心优势包括**隐私保护**（数据不离本地）、**真实浏览器指纹**（规避反机器人检测）及**无缝登录状态**。安装扩展并配置MCP服务器后，AI助手便能模拟点击、输入、导航等操作，大幅提升工作效率。支持VS Code等主流开发工具。
-
----
-
-## <a name="4"></a>4. 日本小镇推出中年大叔卡牌游戏，意外爆红 
+## <a name="3"></a>3. 日本小镇推出中年大叔卡牌游戏，意外爆红 
 <small>🔗 [tokyoweekender.com](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/): Middle-aged man trading cards go viral in rural Japan town</small>
 
 
-| 🔥🔥: 276 \| 💬: [57](https://news.ycombinator.com/item?id=43615912) \| 🗓️ 2025-04-07
+| 🔥🔥: 385 \| 💬: [81](https://news.ycombinator.com/item?id=43615912) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -71,11 +59,23 @@ Browser MCP是一款**浏览器扩展**，可将AI应用（如Cursor、Claude）
 
 ---
 
+## <a name="4"></a>4. 浏览器自动化神器：用AI助手操控浏览器的MCP工具 
+<small>🔗 [browsermcp.io](https://browsermcp.io/): Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code</small>
+
+
+| 🔥🔥: 303 \| 💬: [111](https://news.ycombinator.com/item?id=43613194) \| 🗓️ 2025-04-07
+
+
+<br />
+Browser MCP是一款**浏览器扩展**，可将AI应用（如Cursor、Claude）与浏览器连接，实现**本地自动化操作**。用户无需编写代码，即可完成表单填写、数据收集、端到端测试等任务。其核心优势包括**隐私保护**（数据不离本地）、**真实浏览器指纹**（规避反机器人检测）及**无缝登录状态**。安装扩展并配置MCP服务器后，AI助手便能模拟点击、输入、导航等操作，大幅提升工作效率。支持VS Code等主流开发工具。
+
+---
+
 ## <a name="5"></a>5. Git诞生20周年：从“愚蠢的内容跟踪器”到全球主导的版本控制系统 
 <small>🔗 [blog.gitbutler.com](https://blog.gitbutler.com/20-years-of-git/): 20 years of Git</small>
 
 
-| 🔥🔥: 165 \| 💬: [86](https://news.ycombinator.com/item?id=43613305) \| 🗓️ 2025-04-07
+| 🔥🔥: 186 \| 💬: [105](https://news.ycombinator.com/item?id=43613305) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -91,7 +91,7 @@ Git的**分布式架构**和**内容寻址存储**使其在广告分发等非代
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/04/14/the-dire-wolf-is-back): The Dire Wolf Is Back</small>
 
 
-| 🔥🔥: 154 \| 💬: [157](https://news.ycombinator.com/item?id=43609661) \| 🗓️ 2025-04-07
+| 🔥🔥: 156 \| 💬: [159](https://news.ycombinator.com/item?id=43609661) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -99,23 +99,11 @@ Git的**分布式架构**和**内容寻址存储**使其在广告分发等非代
 
 ---
 
-## <a name="7"></a>7. 大语言模型能否理解代码中的“可空性”？ 
-<small>🔗 [dmodel.ai](https://dmodel.ai/nullability-gentle/): LLMs understand nullability</small>
-
-
-| 🔥🔥: 144 \| 💬: [105](https://news.ycombinator.com/item?id=43612211) \| 🗓️ 2025-04-07
-
-
-<br />
-研究表明，**大语言模型（LLM）** 在训练过程中逐渐学会识别代码中的**可空变量**（如`Optional[int]`），并能根据上下文生成正确的空值检查逻辑。例如，模型早期可能忽略`None`检查，但随着训练深入，它能学会在必要时添加`if num is not None`。实验还发现，模型对**类型注解**的依赖较强，但在跨函数推理或生成类型注解时表现较弱。通过分析模型内部激活状态，研究者进一步验证了其对可空性的“理解”机制。
-
----
-
-## <a name="8"></a>8. Lux：为Lua打造的高端包管理工具 
+## <a name="7"></a>7. Lux：为Lua打造的高端包管理工具 
 <small>🔗 [mrcjkb.dev](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html): Show HN: Lux – A luxurious package manager for Lua</small>
 
 
-| 🔥🔥: 139 \| 💬: [45](https://news.ycombinator.com/item?id=43614285) \| 🗓️ 2025-04-07
+| 🔥🔥: 151 \| 💬: [48](https://news.ycombinator.com/item?id=43614285) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -123,11 +111,23 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 
 ---
 
+## <a name="8"></a>8. 大语言模型能否理解代码中的“可空性”？ 
+<small>🔗 [dmodel.ai](https://dmodel.ai/nullability-gentle/): LLMs understand nullability</small>
+
+
+| 🔥🔥: 147 \| 💬: [106](https://news.ycombinator.com/item?id=43612211) \| 🗓️ 2025-04-07
+
+
+<br />
+研究表明，**大语言模型（LLM）** 在训练过程中逐渐学会识别代码中的**可空变量**（如`Optional[int]`），并能根据上下文生成正确的空值检查逻辑。例如，模型早期可能忽略`None`检查，但随着训练深入，它能学会在必要时添加`if num is not None`。实验还发现，模型对**类型注解**的依赖较强，但在跨函数推理或生成类型注解时表现较弱。通过分析模型内部激活状态，研究者进一步验证了其对可空性的“理解”机制。
+
+---
+
 ## <a name="9"></a>9. ICE与FBI使用的人脸识别技术背后动机曝光 
 <small>🔗 [motherjones.com](https://www.motherjones.com/politics/2025/04/clearview-ai-immigration-ice-fbi-surveillance-facial-recognition-hoan-ton-that-hal-lambert-trump/): Agenda Behind the Facial Recognition Tech Used by ICE and the FBI Revealed</small>
 
 
-| 🔥🔥: 121 \| 💬: [39](https://news.ycombinator.com/item?id=43614592) \| 🗓️ 2025-04-07
+| 🔥🔥: 124 \| 💬: [42](https://news.ycombinator.com/item?id=43614592) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -135,23 +135,11 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 
 ---
 
-## <a name="10"></a>10. 破解90年代加密：早期软件中的密码学实践（2023） 
-<small>🔗 [botanica.software](https://www.botanica.software/post/decoding-the-90s): Decoding the 90s: Cryptography in Early Software Development (2023)</small>
-
-
-| 🔥: 92 \| 💬: [30](https://news.ycombinator.com/item?id=43612102) \| 🗓️ 2025-04-07
-
-
-<br />
-本文讲述了逆向工程团队如何破解90年代DOS希伯来语文字处理器**QText**的文档加密系统。通过分析MS-DOS二进制文件，团队发现其采用**4字符弱密码**，且密钥直接嵌入文件头。关键突破在于逆向**密钥派生函数**——通过两次置换和自拼接生成16字节密钥。最终团队利用递归分解算法成功还原密码，揭示了早期软件中简陋的加密实现，为数字考古提供了珍贵案例。
-
----
-
-## <a name="11"></a>11. 开源软件供应链安全的五十年历程 
+## <a name="10"></a>10. 开源软件供应链安全的五十年历程 
 <small>🔗 [queue.acm.org](https://queue.acm.org/detail.cfm?id=3722542): Fifty Years of Open Source Software Supply Chain Security</small>
 
 
-| 🔥: 92 \| 💬: [27](https://news.ycombinator.com/item?id=43614199) \| 🗓️ 2025-04-07
+| 🔥: 96 \| 💬: [33](https://news.ycombinator.com/item?id=43614199) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -159,11 +147,23 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 
 ---
 
+## <a name="11"></a>11. 破解90年代加密：早期软件中的密码学实践（2023） 
+<small>🔗 [botanica.software](https://www.botanica.software/post/decoding-the-90s): Decoding the 90s: Cryptography in Early Software Development (2023)</small>
+
+
+| 🔥: 93 \| 💬: [31](https://news.ycombinator.com/item?id=43612102) \| 🗓️ 2025-04-07
+
+
+<br />
+本文讲述了逆向工程团队如何破解90年代DOS希伯来语文字处理器**QText**的文档加密系统。通过分析MS-DOS二进制文件，团队发现其采用**4字符弱密码**，且密钥直接嵌入文件头。关键突破在于逆向**密钥派生函数**——通过两次置换和自拼接生成16字节密钥。最终团队利用递归分解算法成功还原密码，揭示了早期软件中简陋的加密实现，为数字考古提供了珍贵案例。
+
+---
+
 ## <a name="12"></a>12. 欧盟拟简化GDPR法规以减轻企业负担 
 <small>🔗 [politico.eu](https://www.politico.eu/article/eu-gdpr-privacy-law-europe-president-ursula-von-der-leyen/): Europe's GDPR privacy law is headed for red tape bonfire within 'weeks'</small>
 
 
-| 🔥: 83 \| 💬: [144](https://news.ycombinator.com/item?id=43610678) \| 🗓️ 2025-04-07
+| 🔥: 85 \| 💬: [148](https://news.ycombinator.com/item?id=43610678) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -175,7 +175,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 <small>🔗 [spark.temrel.com](https://spark.temrel.com/p/the-great-unstacking): How new US tariffs are forcing Europe to rethink its entire tech stack</small>
 
 
-| 🔥: 77 \| 💬: [34](https://news.ycombinator.com/item?id=43611289) \| 🗓️ 2025-04-07
+| 🔥: 78 \| 💬: [34](https://news.ycombinator.com/item?id=43611289) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -199,7 +199,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 <small>🔗 [personal.cis.strath.ac.uk](https://personal.cis.strath.ac.uk/conor.mcbride/pub/hasochism.pdf): Hasochism: The pleasure and pain of dependently typed Haskell programming [pdf] (2013)</small>
 
 
-| 🔥: 58 \| 💬: [9](https://news.ycombinator.com/item?id=43613994) \| 🗓️ 2025-04-07
+| 🔥: 67 \| 💬: [9](https://news.ycombinator.com/item?id=43613994) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -207,23 +207,11 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 
 ---
 
-## <a name="16"></a>16. 约翰·卡马克谈游戏编程中的人工智能 
-<small>🔗 [twitter.com](https://twitter.com/ID_AA_Carmack/status/1909311174845329874): John Carmack on AI in game programming</small>
-
-
-| 🔥: 58 \| 💬: [78](https://news.ycombinator.com/item?id=43614546) \| 🗓️ 2025-04-07
-
-
-<br />
-该页面提示**浏览器未启用JavaScript**，导致无法正常加载内容。建议用户启用JavaScript或切换至支持的浏览器（如帮助中心所列）。若问题持续，可能是**隐私扩展冲突**，需临时禁用后重试。底部标注了X公司的服务条款、隐私政策及版权信息。
-
----
-
-## <a name="17"></a>17. Shopify CEO：AI应用已成基础要求 
+## <a name="16"></a>16. Shopify CEO：AI应用已成基础要求 
 <small>🔗 [twitter.com](https://twitter.com/tobi/status/1909251946235437514): Shopify CEO: "AI usage is now a baseline expectation"</small>
 
 
-| 🔥: 56 \| 💬: [40](https://news.ycombinator.com/item?id=43613079) \| 🗓️ 2025-04-07
+| 🔥: 59 \| 💬: [42](https://news.ycombinator.com/item?id=43613079) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -233,11 +221,23 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 
 ---
 
+## <a name="17"></a>17. 约翰·卡马克谈游戏编程中的人工智能 
+<small>🔗 [twitter.com](https://twitter.com/ID_AA_Carmack/status/1909311174845329874): John Carmack on AI in game programming</small>
+
+
+| 🔥: 59 \| 💬: [78](https://news.ycombinator.com/item?id=43614546) \| 🗓️ 2025-04-07
+
+
+<br />
+该页面提示**浏览器未启用JavaScript**，导致无法正常加载内容。建议用户启用JavaScript或切换至支持的浏览器（如帮助中心所列）。若问题持续，可能是**隐私扩展冲突**，需临时禁用后重试。底部标注了X公司的服务条款、隐私政策及版权信息。
+
+---
+
 ## <a name="18"></a>18. 为何卡图卢斯至今仍令人着迷 
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/04/07/catullus-poems-book-review-stephen-mitchell-isobel-williams): Why Catullus continues to seduce us</small>
 
 
-| 🔥: 53 \| 💬: [32](https://news.ycombinator.com/item?id=43612807) \| 🗓️ 2025-04-07
+| 🔥: 54 \| 💬: [32](https://news.ycombinator.com/item?id=43612807) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -249,7 +249,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 <small>🔗 [substack.com](https://substack.com/home/post/p-160523691): It would take three years to install a speed bump. So I bought my own</small>
 
 
-| 🔥: 48 \| 💬: [42](https://news.ycombinator.com/item?id=43614534) \| 🗓️ 2025-04-07
+| 🔥: 50 \| 💬: [42](https://news.ycombinator.com/item?id=43614534) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -257,7 +257,19 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 
 ---
 
-## <a name="20"></a>20. Bluesky：打造无毒性社交媒体的探索 
+## <a name="20"></a>20. 《Scaffold：专为独立开发者打造的高效关卡编辑器》 
+<small>🔗 [blog.littlepolygon.com](https://blog.littlepolygon.com/posts/scaffold/): Scaffold Level Editor</small>
+
+
+| 🔥: 50 \| 💬: [9](https://news.ycombinator.com/item?id=43615322) \| 🗓️ 2025-04-07
+
+
+<br />
+在最新开发直播中，作者展示了基于**Unreal引擎**的自研关卡编辑工具**Scaffold**，旨在解决三大核心目标：**生产力**（自动化流程）、**独特性**（避免同质化）和**性能**（稳定60+帧）。工具通过**凸体分解**技术优化碰撞检测与导航，灵感源自90年代经典游戏《DOOM》的BSP分割和《DESCENT》的凸体构造法。Scaffold内置于Unreal编辑器，提供顶点/边/面编辑、挤出和预设形状等功能，兼顾开发效率与运行时性能，代码约2500行。
+
+---
+
+## <a name="21"></a>21. Bluesky：打造无毒性社交媒体的探索 
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/04/14/blueskys-quest-to-build-nontoxic-social-media): Bluesky's Quest to Build Nontoxic Social Media</small>
 
 
@@ -269,23 +281,11 @@ Bluesky作为Twitter的替代平台，在Elon Musk收购X后迅速崛起，用�
 
 ---
 
-## <a name="21"></a>21. 《Scaffold：专为独立开发者打造的高效关卡编辑器》 
-<small>🔗 [blog.littlepolygon.com](https://blog.littlepolygon.com/posts/scaffold/): Scaffold Level Editor</small>
-
-
-| 🔥: 43 \| 💬: [5](https://news.ycombinator.com/item?id=43615322) \| 🗓️ 2025-04-07
-
-
-<br />
-在最新开发直播中，作者展示了基于**Unreal引擎**的自研关卡编辑工具**Scaffold**，旨在解决三大核心目标：**生产力**（自动化流程）、**独特性**（避免同质化）和**性能**（稳定60+帧）。工具通过**凸体分解**技术优化碰撞检测与导航，灵感源自90年代经典游戏《DOOM》的BSP分割和《DESCENT》的凸体构造法。Scaffold内置于Unreal编辑器，提供顶点/边/面编辑、挤出和预设形状等功能，兼顾开发效率与运行时性能，代码约2500行。
-
----
-
 ## <a name="22"></a>22. 用Web Audio API生成可变占空比方波 
 <small>🔗 [danblack.co](https://www.danblack.co/blog/variable-duty-cycle-square-wave): Variable duty cycle square waves with the Web Audio API</small>
 
 
-| 🔥: 41 \| 💬: [44](https://news.ycombinator.com/item?id=43613180) \| 🗓️ 2025-04-07
+| 🔥: 43 \| 💬: [48](https://news.ycombinator.com/item?id=43613180) \| 🗓️ 2025-04-07
 
 
 <br />
