@@ -27,7 +27,7 @@ tags:
 <small>🔗 [tokyoweekender.com](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/): Middle-aged man trading cards go viral in rural Japan town</small>
 
 
-| 🔥🔥: 551 \| 💬: [104](https://news.ycombinator.com/item?id=43615912) \| 🗓️ 2025-04-07
+| 🔥🔥: 626 \| 💬: [112](https://news.ycombinator.com/item?id=43615912) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [mattgiustwilliamson.substack.com](https://mattgiustwilliamson.substack.com/p/your-startup-doesnt-need-to-be-a): A startup doesn't need to be a unicorn</small>
 
 
-| 🔥🔥: 515 \| 💬: [309](https://news.ycombinator.com/item?id=43609242) \| 🗓️ 2025-04-07
+| 🔥🔥: 520 \| 💬: [319](https://news.ycombinator.com/item?id=43609242) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [jasher.substack.com](https://jasher.substack.com/p/how-fewer-foreign-passengers-flying): Fewer Foreign Passengers Are Flying to the US</small>
 
 
-| 🔥🔥: 400 \| 💬: [2](https://news.ycombinator.com/item?id=43610246) \| 🗓️ 2025-04-07
+| 🔥🔥: 401 \| 💬: [2](https://news.ycombinator.com/item?id=43610246) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [browsermcp.io](https://browsermcp.io/): Show HN: Browser MCP – Automate your browser using Cursor, Claude, VS Code</small>
 
 
-| 🔥🔥: 341 \| 💬: [130](https://news.ycombinator.com/item?id=43613194) \| 🗓️ 2025-04-07
+| 🔥🔥: 357 \| 💬: [138](https://news.ycombinator.com/item?id=43613194) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -75,7 +75,7 @@ Browser MCP是一款**浏览器扩展**，可将AI应用（如Cursor、Claude）
 <small>🔗 [blog.gitbutler.com](https://blog.gitbutler.com/20-years-of-git/): 20 years of Git</small>
 
 
-| 🔥🔥: 209 \| 💬: [135](https://news.ycombinator.com/item?id=43613305) \| 🗓️ 2025-04-07
+| 🔥🔥: 216 \| 💬: [148](https://news.ycombinator.com/item?id=43613305) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -91,7 +91,7 @@ Git的**分布式架构**和**内容寻址存储**使其在广告分发等非代
 <small>🔗 [mrcjkb.dev](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html): Show HN: Lux – A luxurious package manager for Lua</small>
 
 
-| 🔥🔥: 170 \| 💬: [58](https://news.ycombinator.com/item?id=43614285) \| 🗓️ 2025-04-07
+| 🔥🔥: 179 \| 💬: [59](https://news.ycombinator.com/item?id=43614285) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -103,7 +103,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/04/14/the-dire-wolf-is-back): The Dire Wolf Is Back</small>
 
 
-| 🔥🔥: 158 \| 💬: [163](https://news.ycombinator.com/item?id=43609661) \| 🗓️ 2025-04-07
+| 🔥🔥: 160 \| 💬: [165](https://news.ycombinator.com/item?id=43609661) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -127,7 +127,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 <small>🔗 [fosstodon.org](https://fosstodon.org/@frameworkcomputer/114297967333461078): Framework temporarily pausing some laptop sales in the US due to tariffs</small>
 
 
-| 🔥🔥: 136 \| 💬: [22](https://news.ycombinator.com/item?id=43617207) \| 🗓️ 2025-04-07
+| 🔥🔥: 142 \| 💬: [26](https://news.ycombinator.com/item?id=43617207) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -139,7 +139,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 <small>🔗 [motherjones.com](https://www.motherjones.com/politics/2025/04/clearview-ai-immigration-ice-fbi-surveillance-facial-recognition-hoan-ton-that-hal-lambert-trump/): Agenda Behind the Facial Recognition Tech Used by ICE and the FBI Revealed</small>
 
 
-| 🔥🔥: 128 \| 💬: [46](https://news.ycombinator.com/item?id=43614592) \| 🗓️ 2025-04-07
+| 🔥🔥: 131 \| 💬: [48](https://news.ycombinator.com/item?id=43614592) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -151,7 +151,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 <small>🔗 [queue.acm.org](https://queue.acm.org/detail.cfm?id=3722542): Fifty Years of Open Source Software Supply Chain Security</small>
 
 
-| 🔥🔥: 106 \| 💬: [41](https://news.ycombinator.com/item?id=43614199) \| 🗓️ 2025-04-07
+| 🔥🔥: 116 \| 💬: [48](https://news.ycombinator.com/item?id=43614199) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -163,7 +163,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 <small>🔗 [botanica.software](https://www.botanica.software/post/decoding-the-90s): Decoding the 90s: Cryptography in Early Software Development (2023)</small>
 
 
-| 🔥: 98 \| 💬: [31](https://news.ycombinator.com/item?id=43612102) \| 🗓️ 2025-04-07
+| 🔥🔥: 102 \| 💬: [32](https://news.ycombinator.com/item?id=43612102) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -175,7 +175,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 <small>🔗 [politico.eu](https://www.politico.eu/article/eu-gdpr-privacy-law-europe-president-ursula-von-der-leyen/): Europe's GDPR privacy law is headed for red tape bonfire within 'weeks'</small>
 
 
-| 🔥: 87 \| 💬: [149](https://news.ycombinator.com/item?id=43610678) \| 🗓️ 2025-04-07
+| 🔥: 89 \| 💬: [149](https://news.ycombinator.com/item?id=43610678) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -199,7 +199,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 <small>🔗 [twitter.com](https://twitter.com/tobi/status/1909251946235437514): Shopify CEO: "AI usage is now a baseline expectation"</small>
 
 
-| 🔥: 71 \| 💬: [50](https://news.ycombinator.com/item?id=43613079) \| 🗓️ 2025-04-07
+| 🔥: 76 \| 💬: [49](https://news.ycombinator.com/item?id=43613079) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -213,7 +213,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 <small>🔗 [personal.cis.strath.ac.uk](https://personal.cis.strath.ac.uk/conor.mcbride/pub/hasochism.pdf): Hasochism: The pleasure and pain of dependently typed Haskell programming [pdf] (2013)</small>
 
 
-| 🔥: 71 \| 💬: [10](https://news.ycombinator.com/item?id=43613994) \| 🗓️ 2025-04-07
+| 🔥: 73 \| 💬: [10](https://news.ycombinator.com/item?id=43613994) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -221,7 +221,19 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 
 ---
 
-## <a name="17"></a>17. ITAPPMONROBOT（2007） 
+## <a name="17"></a>17. 《Scaffold：专为独立开发者打造的高效关卡编辑器》 
+<small>🔗 [blog.littlepolygon.com](https://blog.littlepolygon.com/posts/scaffold/): Scaffold Level Editor</small>
+
+
+| 🔥: 71 \| 💬: [14](https://news.ycombinator.com/item?id=43615322) \| 🗓️ 2025-04-07
+
+
+<br />
+在最新开发直播中，作者展示了基于**Unreal引擎**的自研关卡编辑工具**Scaffold**，旨在解决三大核心目标：**生产力**（自动化流程）、**独特性**（避免同质化）和**性能**（稳定60+帧）。工具通过**凸体分解**技术优化碰撞检测与导航，灵感源自90年代经典游戏《DOOM》的BSP分割和《DESCENT》的凸体构造法。Scaffold内置于Unreal编辑器，提供顶点/边/面编辑、挤出和预设形状等功能，兼顾开发效率与运行时性能，代码约2500行。
+
+---
+
+## <a name="18"></a>18. ITAPPMONROBOT（2007） 
 <small>🔗 [thedailywtf.com](https://thedailywtf.com/articles/ITAPPMONROBOT): ITAPPMONROBOT (2007)</small>
 
 
@@ -233,23 +245,11 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 
 ---
 
-## <a name="18"></a>18. 《Scaffold：专为独立开发者打造的高效关卡编辑器》 
-<small>🔗 [blog.littlepolygon.com](https://blog.littlepolygon.com/posts/scaffold/): Scaffold Level Editor</small>
-
-
-| 🔥: 64 \| 💬: [11](https://news.ycombinator.com/item?id=43615322) \| 🗓️ 2025-04-07
-
-
-<br />
-在最新开发直播中，作者展示了基于**Unreal引擎**的自研关卡编辑工具**Scaffold**，旨在解决三大核心目标：**生产力**（自动化流程）、**独特性**（避免同质化）和**性能**（稳定60+帧）。工具通过**凸体分解**技术优化碰撞检测与导航，灵感源自90年代经典游戏《DOOM》的BSP分割和《DESCENT》的凸体构造法。Scaffold内置于Unreal编辑器，提供顶点/边/面编辑、挤出和预设形状等功能，兼顾开发效率与运行时性能，代码约2500行。
-
----
-
 ## <a name="19"></a>19. 约翰·卡马克谈游戏编程中的人工智能 
 <small>🔗 [twitter.com](https://twitter.com/ID_AA_Carmack/status/1909311174845329874): John Carmack on AI in game programming</small>
 
 
-| 🔥: 63 \| 💬: [90](https://news.ycombinator.com/item?id=43614546) \| 🗓️ 2025-04-07
+| 🔥: 65 \| 💬: [93](https://news.ycombinator.com/item?id=43614546) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -261,7 +261,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/04/07/catullus-poems-book-review-stephen-mitchell-isobel-williams): Why Catullus continues to seduce us</small>
 
 
-| 🔥: 57 \| 💬: [33](https://news.ycombinator.com/item?id=43612807) \| 🗓️ 2025-04-07
+| 🔥: 59 \| 💬: [33](https://news.ycombinator.com/item?id=43612807) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -273,7 +273,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 <small>🔗 [zachseward.com](https://www.zachseward.com/what-was-quartz/): What Was Quartz?</small>
 
 
-| 🔥: 53 \| 💬: [23](https://news.ycombinator.com/item?id=43616604) \| 🗓️ 2025-04-07
+| 🔥: 58 \| 💬: [27](https://news.ycombinator.com/item?id=43616604) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -285,7 +285,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 <small>🔗 [substack.com](https://substack.com/home/post/p-160523691): It would take three years to install a speed bump. So I bought my own</small>
 
 
-| 🔥: 50 \| 💬: [42](https://news.ycombinator.com/item?id=43614534) \| 🗓️ 2025-04-07
+| 🔥: 54 \| 💬: [42](https://news.ycombinator.com/item?id=43614534) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -297,7 +297,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 <small>🔗 [danblack.co](https://www.danblack.co/blog/variable-duty-cycle-square-wave): Variable duty cycle square waves with the Web Audio API</small>
 
 
-| 🔥: 45 \| 💬: [56](https://news.ycombinator.com/item?id=43613180) \| 🗓️ 2025-04-07
+| 🔥: 45 \| 💬: [57](https://news.ycombinator.com/item?id=43613180) \| 🗓️ 2025-04-07
 
 
 <br />
@@ -309,7 +309,7 @@ Lux是一款全新的**Lua包管理器**，旨在为Lua开发现代化工具链�
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/04/14/blueskys-quest-to-build-nontoxic-social-media): Bluesky's Quest to Build Nontoxic Social Media</small>
 
 
-| 🔥: 44 \| 💬: [98](https://news.ycombinator.com/item?id=43609658) \| 🗓️ 2025-04-07
+| 🔥: 44 \| 💬: [99](https://news.ycombinator.com/item?id=43609658) \| 🗓️ 2025-04-07
 
 
 <br />
