@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [echarts.apache.org](https://echarts.apache.org/en/index.html): Apache ECharts</small>
 
 
-| 🔥🔥: 992 \| 💬: [165](https://news.ycombinator.com/item?id=43624220) \| 🗓️ 2025-04-08
+| 🔥🔥: 1060 \| 💬: [170](https://news.ycombinator.com/item?id=43624220) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -39,7 +39,7 @@ Apache ECharts 是一个基于 **声明式框架** 的 **Web可视化工具**，
 <small>🔗 [economist.com](https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant): Brazil's government-run payments system has become dominant</small>
 
 
-| 🔥🔥: 480 \| 💬: [563](https://news.ycombinator.com/item?id=43620279) \| 🗓️ 2025-04-08
+| 🔥🔥: 504 \| 💬: [578](https://news.ycombinator.com/item?id=43620279) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -51,7 +51,7 @@ Apache ECharts 是一个基于 **声明式框架** 的 **Web可视化工具**，
 <small>🔗 [tailscale.com](https://tailscale.com/blog/series-c): Tailscale has raised $160M</small>
 
 
-| 🔥🔥: 477 \| 💬: [206](https://news.ycombinator.com/item?id=43620141) \| 🗓️ 2025-04-08
+| 🔥🔥: 495 \| 💬: [216](https://news.ycombinator.com/item?id=43620141) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -63,7 +63,7 @@ Tailscale宣布获得由Accel领投的**1.6亿美元C轮融资**，用于推动*
 <small>🔗 [aftermath.site](https://aftermath.site/ai-video-game-development-art-vibe-coding-midjourney): An Overwhelmingly Negative and Demoralizing Force</small>
 
 
-| 🔥🔥: 304 \| 💬: [270](https://news.ycombinator.com/item?id=43619759) \| 🗓️ 2025-04-08
+| 🔥🔥: 313 \| 💬: [285](https://news.ycombinator.com/item?id=43619759) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -75,7 +75,7 @@ Tailscale宣布获得由Accel领投的**1.6亿美元C轮融资**，用于推动*
 <small>🔗 [theverge.com](https://www.theverge.com/meta/645012/meta-llama-4-maverick-benchmarks-gaming): Meta got caught gaming AI benchmarks</small>
 
 
-| 🔥🔥: 296 \| 💬: [138](https://news.ycombinator.com/item?id=43620452) \| 🗓️ 2025-04-08
+| 🔥🔥: 306 \| 💬: [142](https://news.ycombinator.com/item?id=43620452) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -87,7 +87,7 @@ Meta在发布**Llama 4**模型时，通过提交**优化版Maverick**参与LMAre
 <small>🔗 [yuxi-liu-wired.github.io](https://yuxi-liu-wired.github.io/essays/posts/cyc/): Obituary for Cyc</small>
 
 
-| 🔥🔥: 253 \| 💬: [127](https://news.ycombinator.com/item?id=43625474) \| 🗓️ 2025-04-08
+| 🔥🔥: 271 \| 💬: [133](https://news.ycombinator.com/item?id=43625474) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -99,7 +99,7 @@ Douglas Lenat历时40年的**Cyc项目**试图通过符号逻辑构建通用人�
 <small>🔗 [webkit.org](https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/): Better typography with text-wrap pretty</small>
 
 
-| 🔥🔥: 214 \| 💬: [89](https://news.ycombinator.com/item?id=43622703) \| 🗓️ 2025-04-08
+| 🔥🔥: 225 \| 💬: [91](https://news.ycombinator.com/item?id=43622703) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -111,7 +111,7 @@ Safari技术预览版216推出了**text-wrap: pretty**功能，首次在网页�
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/): Intelligence Evolved at Least Twice in Vertebrate Animals</small>
 
 
-| 🔥🔥: 204 \| 💬: [165](https://news.ycombinator.com/item?id=43619548) \| 🗓️ 2025-04-08
+| 🔥🔥: 207 \| 💬: [167](https://news.ycombinator.com/item?id=43619548) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -119,35 +119,11 @@ Safari技术预览版216推出了**text-wrap: pretty**功能，首次在网页�
 
 ---
 
-## <a name="9"></a>9. 太阳能推动全球清洁电力占比达40% 
-<small>🔗 [news.sky.com](https://news.sky.com/story/unstoppable-force-of-solar-power-propels-world-to-40-clean-electricity-report-finds-13344230): 'Unstoppable force' of solar power propels world to 40% clean electricity</small>
-
-
-| 🔥🔥: 167 \| 💬: [187](https://news.ycombinator.com/item?id=43620007) \| 🗓️ 2025-04-08
-
-
-<br />
-报告显示，**太阳能发电量三年内翻倍**，推动全球清洁电力占比首次达40%，但化石燃料发电量仍因**空调、AI和电动汽车**需求增长而上升。中国贡献了全球过半新增太阳能发电，但煤炭发电仍在扩张。专家称，**亚洲正引领全球能源转型**，尽管电力需求激增导致排放创新高，清洁能源增速预计将很快超越需求增长。
-
----
-
-## <a name="10"></a>10. 少用Htmx反而更高效 
-<small>🔗 [unplannedobsolescence.com](https://unplannedobsolescence.com/blog/less-htmx-is-more/): Less Htmx Is More</small>
-
-
-| 🔥🔥: 162 \| 💬: [112](https://news.ycombinator.com/item?id=43619581) \| 🗓️ 2025-04-08
-
-
-<br />
-作者通过两年实践发现，**Htmx**虽能提升用户体验并降低维护成本，但关键在于**优先使用原生HTML**。过度依赖Htmx（如滥用`hx-boost`模拟单页应用）会导致页面状态混乱，而常规链接结合缓存策略（如`ETag`）反而更稳定。**核心原则**是：仅用Htmx处理动态更新（如实时数据），其余场景保持传统导航。浏览器原生优化（如Chrome的Paint Holding）已能无缝提升多页应用性能，而SPA仅适用于特殊需求（如跨页音乐播放器）。
-
----
-
-## <a name="11"></a>11. PostgreSQL全文搜索：优化得当，性能惊人（破除“速度慢”的误解） 
+## <a name="9"></a>9. PostgreSQL全文搜索：优化得当，性能惊人（破除“速度慢”的误解） 
 <small>🔗 [blog.vectorchord.ai](https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth): PostgreSQL Full-Text Search: Fast When Done Right (Debunking the Slow Myth)</small>
 
 
-| 🔥🔥: 146 \| 💬: [36](https://news.ycombinator.com/item?id=43627646) \| 🗓️ 2025-04-08
+| 🔥🔥: 176 \| 💬: [46](https://news.ycombinator.com/item?id=43627646) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -155,11 +131,35 @@ Neon的基准测试曾认为PostgreSQL内置全文搜索（**FTS**）性能不�
 
 ---
 
+## <a name="10"></a>10. 太阳能推动全球清洁电力占比达40% 
+<small>🔗 [news.sky.com](https://news.sky.com/story/unstoppable-force-of-solar-power-propels-world-to-40-clean-electricity-report-finds-13344230): 'Unstoppable force' of solar power propels world to 40% clean electricity</small>
+
+
+| 🔥🔥: 168 \| 💬: [187](https://news.ycombinator.com/item?id=43620007) \| 🗓️ 2025-04-08
+
+
+<br />
+报告显示，**太阳能发电量三年内翻倍**，推动全球清洁电力占比首次达40%，但化石燃料发电量仍因**空调、AI和电动汽车**需求增长而上升。中国贡献了全球过半新增太阳能发电，但煤炭发电仍在扩张。专家称，**亚洲正引领全球能源转型**，尽管电力需求激增导致排放创新高，清洁能源增速预计将很快超越需求增长。
+
+---
+
+## <a name="11"></a>11. 少用Htmx反而更高效 
+<small>🔗 [unplannedobsolescence.com](https://unplannedobsolescence.com/blog/less-htmx-is-more/): Less Htmx Is More</small>
+
+
+| 🔥🔥: 163 \| 💬: [112](https://news.ycombinator.com/item?id=43619581) \| 🗓️ 2025-04-08
+
+
+<br />
+作者通过两年实践发现，**Htmx**虽能提升用户体验并降低维护成本，但关键在于**优先使用原生HTML**。过度依赖Htmx（如滥用`hx-boost`模拟单页应用）会导致页面状态混乱，而常规链接结合缓存策略（如`ETag`）反而更稳定。**核心原则**是：仅用Htmx处理动态更新（如实时数据），其余场景保持传统导航。浏览器原生优化（如Chrome的Paint Holding）已能无缝提升多页应用性能，而SPA仅适用于特殊需求（如跨页音乐播放器）。
+
+---
+
 ## <a name="12"></a>12. Netflix如何精准追踪eBPF网络流日志 
 <small>🔗 [netflixtechblog.com](https://netflixtechblog.com/how-netflix-accurately-attributes-ebpf-flow-logs-afe6d644a3bc): How Netflix Accurately Attributes eBPF Flow Logs</small>
 
 
-| 🔥🔥: 126 \| 💬: [50](https://news.ycombinator.com/item?id=43624888) \| 🗓️ 2025-04-08
+| 🔥🔥: 131 \| 💬: [51](https://news.ycombinator.com/item?id=43624888) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -183,7 +183,7 @@ Netflix利用**eBPF技术**大规模采集TCP流日志，但面临核心挑战�
 <small>🔗 [github.com](https://github.com/coroot/coroot): Show HN: Coroot – eBPF-based, open source observability with actionable insights</small>
 
 
-| 🔥🔥: 107 \| 💬: [20](https://news.ycombinator.com/item?id=43623820) \| 🗓️ 2025-04-08
+| 🔥🔥: 117 \| 💬: [22](https://news.ycombinator.com/item?id=43623820) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -195,7 +195,7 @@ Coroot是一款开源的**APM与可观测性工具**，支持指标、日志、�
 <small>🔗 [badgeify.app](https://badgeify.app/): Show HN: Badgeify – Add Any App to Your Mac Menu Bar</small>
 
 
-| 🔥🔥: 102 \| 💬: [46](https://news.ycombinator.com/item?id=43620471) \| 🗓️ 2025-04-08
+| 🔥🔥: 103 \| 💬: [46](https://news.ycombinator.com/item?id=43620471) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -231,7 +231,31 @@ Coroot是一款开源的**APM与可观测性工具**，支持指标、日志、�
 
 ---
 
-## <a name="18"></a>18. 我用代码匹配开发者，告别LinkedIn标题党 
+## <a name="18"></a>18. 如何通过啄木声识别啄木鸟种类 
+<small>🔗 [allaboutbirds.org](https://www.allaboutbirds.org/news/how-to-recognize-woodpeckers-by-their-drumming-sounds/): How to Recognize Woodpeckers by Their Drumming Sounds</small>
+
+
+| 🔥: 86 \| 💬: [28](https://news.ycombinator.com/item?id=43625864) \| 🗓️ 2025-04-08
+
+
+<br />
+啄木鸟通过**敲击节奏**宣示领地和求偶，春季尤为频繁。不同种类的啄木鸟敲击速度、时长和模式各异：**绒啄木鸟**节奏较慢（约17次/秒），而**长毛啄木鸟**更快（26次/秒）；**北美黑啄木鸟**敲击深沉且渐弱，**吸汁啄木鸟**则以不规则双敲为特征。金属表面常被选为敲击工具以扩大声响。观察**声谱图**可辅助辨别细微差异。
+
+---
+
+## <a name="19"></a>19. 开源在线数据库图表编辑器DrawDB：复古风工具 
+<small>🔗 [drawdb.app](https://www.drawdb.app/): Show HN: DrawDB – open-source online database diagram editor (a retro)</small>
+
+
+| 🔥: 84 \| 💬: [9](https://news.ycombinator.com/item?id=43627758) \| 🗓️ 2025-04-08
+
+
+<br />
+DrawDB是一款**开源**的在线工具，专为创建**数据库关系图**而设计，采用复古风格界面。用户可通过浏览器直接使用，但需启用**JavaScript**。该工具适合开发者快速可视化数据库结构，支持协作与分享，简化设计流程。
+
+---
+
+## <a name="20"></a>20. 我用代码匹配开发者，告别LinkedIn标题党 
 <small>🔗 [gitmatcher.com](https://gitmatcher.com/): Show HN: I built a tool to find devs based on code, not LinkedIn titles</small>
 
 
@@ -243,7 +267,7 @@ GitMatcher是一款通过**GitHub代码分析**精准匹配开发者的工具，
 
 ---
 
-## <a name="19"></a>19. 特朗普连任如何让数字主权成为欧洲优先议题 
+## <a name="21"></a>21. 特朗普连任如何让数字主权成为欧洲优先议题 
 <small>🔗 [xwiki.com](https://xwiki.com/en/Blog/European-digital-sovereignty/): How Trump's second term just made digital sovereignty a European priority</small>
 
 
@@ -255,11 +279,11 @@ GitMatcher是一款通过**GitHub代码分析**精准匹配开发者的工具，
 
 ---
 
-## <a name="20"></a>20. 解析组合数学实战：无序有根三叉树的计数问题 
+## <a name="22"></a>22. 解析组合数学实战：无序有根三叉树的计数问题 
 <small>🔗 [grossack.site](https://grossack.site/2025/04/08/analytic-combinatorics-example.html): Analytic Combinatorics – A Worked Example</small>
 
 
-| 🔥: 81 \| 💬: [44](https://news.ycombinator.com/item?id=43624293) \| 🗓️ 2025-04-08
+| 🔥: 82 \| 💬: [44](https://news.ycombinator.com/item?id=43624293) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -267,19 +291,7 @@ GitMatcher是一款通过**GitHub代码分析**精准匹配开发者的工具，
 
 ---
 
-## <a name="21"></a>21. 如何通过啄木声识别啄木鸟种类 
-<small>🔗 [allaboutbirds.org](https://www.allaboutbirds.org/news/how-to-recognize-woodpeckers-by-their-drumming-sounds/): How to Recognize Woodpeckers by Their Drumming Sounds</small>
-
-
-| 🔥: 80 \| 💬: [27](https://news.ycombinator.com/item?id=43625864) \| 🗓️ 2025-04-08
-
-
-<br />
-啄木鸟通过**敲击节奏**宣示领地和求偶，春季尤为频繁。不同种类的啄木鸟敲击速度、时长和模式各异：**绒啄木鸟**节奏较慢（约17次/秒），而**长毛啄木鸟**更快（26次/秒）；**北美黑啄木鸟**敲击深沉且渐弱，**吸汁啄木鸟**则以不规则双敲为特征。金属表面常被选为敲击工具以扩大声响。观察**声谱图**可辅助辨别细微差异。
-
----
-
-## <a name="22"></a>22. Gemini 2.5 Pro实验版推出深度研究功能 
+## <a name="23"></a>23. Gemini 2.5 Pro实验版推出深度研究功能 
 <small>🔗 [blog.google](https://blog.google/products/gemini/deep-research-gemini-2-5-pro-experimental/): Deep Research is now available on Gemini 2.5 Pro Experimental</small>
 
 
@@ -291,7 +303,7 @@ Gemini Advanced订阅用户现可通过**全球最强AI模型**Gemini 2.5 Pro Ex
 
 ---
 
-## <a name="23"></a>23. IBM发布搭载Telum II处理器的z17大型机 
+## <a name="24"></a>24. IBM发布搭载Telum II处理器的z17大型机 
 <small>🔗 [phoronix.com](https://www.phoronix.com/news/IBM-z17-Telum-2-Announced): IBM Announces the Z17 Mainframe Powered by Telum II Processors</small>
 
 
@@ -303,7 +315,7 @@ IBM于2025年4月8日正式发布新一代**z17大型机**，搭载**Telum II处
 
 ---
 
-## <a name="24"></a>24. Cloudflare收购Outerbase以增强数据库开发体验 
+## <a name="25"></a>25. Cloudflare收购Outerbase以增强数据库开发体验 
 <small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/cloudflare-acquires-outerbase-database-dx/): Cloudflare Acquires Outerbase</small>
 
 
