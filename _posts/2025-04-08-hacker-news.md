@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共21条，具体内容您往下读...
+总共22条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [echarts.apache.org](https://echarts.apache.org/en/index.html): Apache ECharts</small>
 
 
-| 🔥🔥: 663 \| 💬: [132](https://news.ycombinator.com/item?id=43624220) \| 🗓️ 2025-04-08
+| 🔥🔥: 739 \| 💬: [143](https://news.ycombinator.com/item?id=43624220) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -39,7 +39,7 @@ Apache ECharts 是一个基于 **声明式框架** 的 **Web可视化工具**，
 <small>🔗 [economist.com](https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant): Brazil's government-run payments system has become dominant</small>
 
 
-| 🔥🔥: 402 \| 💬: [492](https://news.ycombinator.com/item?id=43620279) \| 🗓️ 2025-04-08
+| 🔥🔥: 422 \| 💬: [502](https://news.ycombinator.com/item?id=43620279) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -51,7 +51,7 @@ Apache ECharts 是一个基于 **声明式框架** 的 **Web可视化工具**，
 <small>🔗 [tailscale.com](https://tailscale.com/blog/series-c): Tailscale has raised $160M</small>
 
 
-| 🔥🔥: 357 \| 💬: [177](https://news.ycombinator.com/item?id=43620141) \| 🗓️ 2025-04-08
+| 🔥🔥: 391 \| 💬: [181](https://news.ycombinator.com/item?id=43620141) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -63,7 +63,7 @@ Tailscale宣布获得由Accel领投的**1.6亿美元C轮融资**，用于推动*
 <small>🔗 [theverge.com](https://www.theverge.com/meta/645012/meta-llama-4-maverick-benchmarks-gaming): Meta got caught gaming AI benchmarks</small>
 
 
-| 🔥🔥: 273 \| 💬: [132](https://news.ycombinator.com/item?id=43620452) \| 🗓️ 2025-04-08
+| 🔥🔥: 278 \| 💬: [132](https://news.ycombinator.com/item?id=43620452) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -75,7 +75,7 @@ Meta在发布**Llama 4**模型时，通过提交**优化版Maverick**参与LMAre
 <small>🔗 [aftermath.site](https://aftermath.site/ai-video-game-development-art-vibe-coding-midjourney): An Overwhelmingly Negative and Demoralizing Force</small>
 
 
-| 🔥🔥: 242 \| 💬: [202](https://news.ycombinator.com/item?id=43619759) \| 🗓️ 2025-04-08
+| 🔥🔥: 256 \| 💬: [220](https://news.ycombinator.com/item?id=43619759) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -83,23 +83,11 @@ Meta在发布**Llama 4**模型时，通过提交**优化版Maverick**参与LMAre
 
 ---
 
-## <a name="6"></a>6. 脊椎动物智力至少独立进化了两次 
-<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/): Intelligence Evolved at Least Twice in Vertebrate Animals</small>
-
-
-| 🔥🔥: 183 \| 💬: [146](https://news.ycombinator.com/item?id=43619548) \| 🗓️ 2025-04-08
-
-
-<br />
-最新研究表明，**鸟类和哺乳动物**的复杂神经回路可能独立演化，而非源自共同祖先。通过单细胞RNA测序技术，科学家发现两者大脑虽功能相似，但**发育路径和神经元类型截然不同**。这一发现颠覆了传统认知，表明**智力在脊椎动物中多次涌现**，且进化路径存在惊人相似性。章鱼等无脊椎动物的智力演化则更为独特，进一步证明自然界存在多元智能解决方案。
-
----
-
-## <a name="7"></a>7. 传奇AI项目Cyc的失败启示录 
+## <a name="6"></a>6. 传奇AI项目Cyc的失败启示录 
 <small>🔗 [yuxi-liu-wired.github.io](https://yuxi-liu-wired.github.io/essays/posts/cyc/): Obituary for Cyc</small>
 
 
-| 🔥🔥: 181 \| 💬: [74](https://news.ycombinator.com/item?id=43625474) \| 🗓️ 2025-04-08
+| 🔥🔥: 197 \| 💬: [90](https://news.ycombinator.com/item?id=43625474) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -107,35 +95,23 @@ Douglas Lenat历时40年的**Cyc项目**试图通过符号逻辑构建通用人�
 
 ---
 
-## <a name="8"></a>8. 少用Htmx反而更高效 
-<small>🔗 [unplannedobsolescence.com](https://unplannedobsolescence.com/blog/less-htmx-is-more/): Less Htmx Is More</small>
+## <a name="7"></a>7. 脊椎动物智力至少独立进化了两次 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/): Intelligence Evolved at Least Twice in Vertebrate Animals</small>
 
 
-| 🔥🔥: 161 \| 💬: [109](https://news.ycombinator.com/item?id=43619581) \| 🗓️ 2025-04-08
-
-
-<br />
-作者通过两年实践发现，**Htmx**虽能提升用户体验并降低维护成本，但关键在于**优先使用原生HTML**。过度依赖Htmx（如滥用`hx-boost`模拟单页应用）会导致页面状态混乱，而常规链接结合缓存策略（如`ETag`）反而更稳定。**核心原则**是：仅用Htmx处理动态更新（如实时数据），其余场景保持传统导航。浏览器原生优化（如Chrome的Paint Holding）已能无缝提升多页应用性能，而SPA仅适用于特殊需求（如跨页音乐播放器）。
-
----
-
-## <a name="9"></a>9. 太阳能推动全球清洁电力占比达40% 
-<small>🔗 [news.sky.com](https://news.sky.com/story/unstoppable-force-of-solar-power-propels-world-to-40-clean-electricity-report-finds-13344230): 'Unstoppable force' of solar power propels world to 40% clean electricity</small>
-
-
-| 🔥🔥: 158 \| 💬: [183](https://news.ycombinator.com/item?id=43620007) \| 🗓️ 2025-04-08
+| 🔥🔥: 188 \| 💬: [152](https://news.ycombinator.com/item?id=43619548) \| 🗓️ 2025-04-08
 
 
 <br />
-报告显示，**太阳能发电量三年内翻倍**，推动全球清洁电力占比首次达40%，但化石燃料发电量仍因**空调、AI和电动汽车**需求增长而上升。中国贡献了全球过半新增太阳能发电，但煤炭发电仍在扩张。专家称，**亚洲正引领全球能源转型**，尽管电力需求激增导致排放创新高，清洁能源增速预计将很快超越需求增长。
+最新研究表明，**鸟类和哺乳动物**的复杂神经回路可能独立演化，而非源自共同祖先。通过单细胞RNA测序技术，科学家发现两者大脑虽功能相似，但**发育路径和神经元类型截然不同**。这一发现颠覆了传统认知，表明**智力在脊椎动物中多次涌现**，且进化路径存在惊人相似性。章鱼等无脊椎动物的智力演化则更为独特，进一步证明自然界存在多元智能解决方案。
 
 ---
 
-## <a name="10"></a>10. 用text-wrap: pretty实现更精美的网页排版 
+## <a name="8"></a>8. 用text-wrap: pretty实现更精美的网页排版 
 <small>🔗 [webkit.org](https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/): Better typography with text-wrap pretty</small>
 
 
-| 🔥🔥: 156 \| 💬: [75](https://news.ycombinator.com/item?id=43622703) \| 🗓️ 2025-04-08
+| 🔥🔥: 170 \| 💬: [79](https://news.ycombinator.com/item?id=43622703) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -143,11 +119,35 @@ Safari技术预览版216推出了**text-wrap: pretty**功能，首次在网页�
 
 ---
 
+## <a name="9"></a>9. 少用Htmx反而更高效 
+<small>🔗 [unplannedobsolescence.com](https://unplannedobsolescence.com/blog/less-htmx-is-more/): Less Htmx Is More</small>
+
+
+| 🔥🔥: 161 \| 💬: [112](https://news.ycombinator.com/item?id=43619581) \| 🗓️ 2025-04-08
+
+
+<br />
+作者通过两年实践发现，**Htmx**虽能提升用户体验并降低维护成本，但关键在于**优先使用原生HTML**。过度依赖Htmx（如滥用`hx-boost`模拟单页应用）会导致页面状态混乱，而常规链接结合缓存策略（如`ETag`）反而更稳定。**核心原则**是：仅用Htmx处理动态更新（如实时数据），其余场景保持传统导航。浏览器原生优化（如Chrome的Paint Holding）已能无缝提升多页应用性能，而SPA仅适用于特殊需求（如跨页音乐播放器）。
+
+---
+
+## <a name="10"></a>10. 太阳能推动全球清洁电力占比达40% 
+<small>🔗 [news.sky.com](https://news.sky.com/story/unstoppable-force-of-solar-power-propels-world-to-40-clean-electricity-report-finds-13344230): 'Unstoppable force' of solar power propels world to 40% clean electricity</small>
+
+
+| 🔥🔥: 161 \| 💬: [184](https://news.ycombinator.com/item?id=43620007) \| 🗓️ 2025-04-08
+
+
+<br />
+报告显示，**太阳能发电量三年内翻倍**，推动全球清洁电力占比首次达40%，但化石燃料发电量仍因**空调、AI和电动汽车**需求增长而上升。中国贡献了全球过半新增太阳能发电，但煤炭发电仍在扩张。专家称，**亚洲正引领全球能源转型**，尽管电力需求激增导致排放创新高，清洁能源增速预计将很快超越需求增长。
+
+---
+
 ## <a name="11"></a>11. 将IBM 3151终端连接到大型机的演示视频 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=V14ac9cRi9Q): Show HN: Connecting an IBM 3151 terminal to a mainframe [video]</small>
 
 
-| 🔥🔥: 115 \| 💬: [37](https://news.ycombinator.com/item?id=43621007) \| 🗓️ 2025-04-08
+| 🔥🔥: 116 \| 💬: [38](https://news.ycombinator.com/item?id=43621007) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -167,11 +167,23 @@ Safari技术预览版216推出了**text-wrap: pretty**功能，首次在网页�
 
 ---
 
-## <a name="13"></a>13. Mac菜单栏图标被刘海遮挡？一键解决！ 
+## <a name="13"></a>13. Netflix如何精准追踪eBPF网络流日志 
+<small>🔗 [netflixtechblog.com](https://netflixtechblog.com/how-netflix-accurately-attributes-ebpf-flow-logs-afe6d644a3bc): How Netflix Accurately Attributes eBPF Flow Logs</small>
+
+
+| 🔥: 97 \| 💬: [36](https://news.ycombinator.com/item?id=43624888) \| 🗓️ 2025-04-08
+
+
+<br />
+Netflix利用**eBPF技术**大规模采集TCP流日志，但面临核心挑战：如何将动态分配的IP地址准确关联到**微服务身份**。早期方案依赖IP变更事件流，常因延迟导致错误归因。新方法通过**双阶段处理**实现精准追踪：1) 本地IP由FlowExporter直接通过主机证书或容器平台eBPF映射实时标记；2) 远程IP由FlowCollector基于时间范围哈希表和历史流数据推导，并通过Kafka跨节点同步。针对跨区域流量，采用CIDR树状路由转发。最终验证显示，新系统彻底消除了错误归因，为依赖分析提供可靠数据基础。
+
+---
+
+## <a name="14"></a>14. Mac菜单栏图标被刘海遮挡？一键解决！ 
 <small>🔗 [badgeify.app](https://badgeify.app/): Show HN: Badgeify – Add Any App to Your Mac Menu Bar</small>
 
 
-| 🔥: 90 \| 💬: [43](https://news.ycombinator.com/item?id=43620471) \| 🗓️ 2025-04-08
+| 🔥: 94 \| 💬: [44](https://news.ycombinator.com/item?id=43620471) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -179,7 +191,19 @@ Safari技术预览版216推出了**text-wrap: pretty**功能，首次在网页�
 
 ---
 
-## <a name="14"></a>14. LLM插件：从Hacker News获取内容的工具 
+## <a name="15"></a>15. 开源可观测性工具Coroot：基于eBPF的智能监控平台 
+<small>🔗 [github.com](https://github.com/coroot/coroot): Show HN: Coroot – eBPF-based, open source observability with actionable insights</small>
+
+
+| 🔥: 87 \| 💬: [15](https://news.ycombinator.com/item?id=43623820) \| 🗓️ 2025-04-08
+
+
+<br />
+Coroot是一款开源的**APM与可观测性工具**，支持指标、日志、追踪、持续性能分析和**SLO告警**，提供预置仪表盘和自动化检查。通过**eBPF技术**实现零侵入式数据采集，自动生成服务拓扑图，识别80%以上问题。内置日志聚类、分布式追踪、成本监控等功能，支持Kubernetes部署和多云成本分析。社区版免费，企业版提供更多功能，遵循Apache 2.0协议。
+
+---
+
+## <a name="16"></a>16. LLM插件：从Hacker News获取内容的工具 
 <small>🔗 [github.com](https://github.com/simonw/llm-hacker-news): LLM-hacker-news: LLM plugin for pulling content from Hacker News</small>
 
 
@@ -195,19 +219,7 @@ Safari技术预览版216推出了**text-wrap: pretty**功能，首次在网页�
 
 ---
 
-## <a name="15"></a>15. Netflix如何精准追踪eBPF网络流日志 
-<small>🔗 [netflixtechblog.com](https://netflixtechblog.com/how-netflix-accurately-attributes-ebpf-flow-logs-afe6d644a3bc): How Netflix Accurately Attributes eBPF Flow Logs</small>
-
-
-| 🔥: 83 \| 💬: [29](https://news.ycombinator.com/item?id=43624888) \| 🗓️ 2025-04-08
-
-
-<br />
-Netflix利用**eBPF技术**大规模采集TCP流日志，但面临核心挑战：如何将动态分配的IP地址准确关联到**微服务身份**。早期方案依赖IP变更事件流，常因延迟导致错误归因。新方法通过**双阶段处理**实现精准追踪：1) 本地IP由FlowExporter直接通过主机证书或容器平台eBPF映射实时标记；2) 远程IP由FlowCollector基于时间范围哈希表和历史流数据推导，并通过Kafka跨节点同步。针对跨区域流量，采用CIDR树状路由转发。最终验证显示，新系统彻底消除了错误归因，为依赖分析提供可靠数据基础。
-
----
-
-## <a name="16"></a>16. 特朗普连任如何让数字主权成为欧洲优先议题 
+## <a name="17"></a>17. 特朗普连任如何让数字主权成为欧洲优先议题 
 <small>🔗 [xwiki.com](https://xwiki.com/en/Blog/European-digital-sovereignty/): How Trump's second term just made digital sovereignty a European priority</small>
 
 
@@ -219,7 +231,7 @@ Netflix利用**eBPF技术**大规模采集TCP流日志，但面临核心挑战�
 
 ---
 
-## <a name="17"></a>17. 我用代码匹配开发者，告别LinkedIn标题党 
+## <a name="18"></a>18. 我用代码匹配开发者，告别LinkedIn标题党 
 <small>🔗 [gitmatcher.com](https://gitmatcher.com/): Show HN: I built a tool to find devs based on code, not LinkedIn titles</small>
 
 
@@ -231,19 +243,31 @@ GitMatcher是一款通过**GitHub代码分析**精准匹配开发者的工具，
 
 ---
 
-## <a name="18"></a>18. 开源可观测性工具Coroot：基于eBPF的智能监控平台 
-<small>🔗 [github.com](https://github.com/coroot/coroot): Show HN: Coroot – eBPF-based, open source observability with actionable insights</small>
+## <a name="19"></a>19. 解析组合数学实战：无序有根三叉树的计数问题 
+<small>🔗 [grossack.site](https://grossack.site/2025/04/08/analytic-combinatorics-example.html): Analytic Combinatorics – A Worked Example</small>
 
 
-| 🔥: 78 \| 💬: [14](https://news.ycombinator.com/item?id=43623820) \| 🗓️ 2025-04-08
+| 🔥: 72 \| 💬: [35](https://news.ycombinator.com/item?id=43624293) \| 🗓️ 2025-04-08
 
 
 <br />
-Coroot是一款开源的**APM与可观测性工具**，支持指标、日志、追踪、持续性能分析和**SLO告警**，提供预置仪表盘和自动化检查。通过**eBPF技术**实现零侵入式数据采集，自动生成服务拓扑图，识别80%以上问题。内置日志聚类、分布式追踪、成本监控等功能，支持Kubernetes部署和多云成本分析。社区版免费，企业版提供更多功能，遵循Apache 2.0协议。
+本文通过一个具体问题——**计算n个节点的无序有根三叉树（考虑同构）的数量**，展示了**解析组合数学**的强大工具链。作者首先以有序三叉树为热身案例，通过生成函数和**拉格朗日反演**获得精确解，并利用**奇点分析**推导出渐近公式。随后转向核心问题，借助**Pólya计数理论**构建更复杂的函数方程，通过**数值分析**和**Puiseux级数展开**逼近奇点行为，最终得到与OEIS序列（A000598）吻合的渐近结果。文中重点演示了如何用**Sage数学软件**实现从理论推导到数值验证的全流程，体现了**解析组合学**将抽象数学与计算实践结合的独特魅力。
 
 ---
 
-## <a name="19"></a>19. IBM发布搭载Telum II处理器的z17大型机 
+## <a name="20"></a>20. Gemini 2.5 Pro实验版推出深度研究功能 
+<small>🔗 [blog.google](https://blog.google/products/gemini/deep-research-gemini-2-5-pro-experimental/): Deep Research is now available on Gemini 2.5 Pro Experimental</small>
+
+
+| 🔥: 68 \| 💬: [10](https://news.ycombinator.com/item?id=43627354) \| 🗓️ 2025-04-08
+
+
+<br />
+Gemini Advanced订阅用户现可通过**全球最强AI模型**Gemini 2.5 Pro Experimental使用**深度研究**功能。测试显示，其生成的研究报告质量远超其他平台，用户反馈在**分析推理**和信息整合方面提升显著。支持网页、Android和iOS平台，可快速生成易读报告，并新增音频概述功能，将报告转为播客式对话。
+
+---
+
+## <a name="21"></a>21. IBM发布搭载Telum II处理器的z17大型机 
 <small>🔗 [phoronix.com](https://www.phoronix.com/news/IBM-z17-Telum-2-Announced): IBM Announces the Z17 Mainframe Powered by Telum II Processors</small>
 
 
@@ -255,19 +279,7 @@ IBM于2025年4月8日正式发布新一代**z17大型机**，搭载**Telum II处
 
 ---
 
-## <a name="20"></a>20. 解析组合数学实战：无序有根三叉树的计数问题 
-<small>🔗 [grossack.site](https://grossack.site/2025/04/08/analytic-combinatorics-example.html): Analytic Combinatorics – A Worked Example</small>
-
-
-| 🔥: 66 \| 💬: [34](https://news.ycombinator.com/item?id=43624293) \| 🗓️ 2025-04-08
-
-
-<br />
-本文通过一个具体问题——**计算n个节点的无序有根三叉树（考虑同构）的数量**，展示了**解析组合数学**的强大工具链。作者首先以有序三叉树为热身案例，通过生成函数和**拉格朗日反演**获得精确解，并利用**奇点分析**推导出渐近公式。随后转向核心问题，借助**Pólya计数理论**构建更复杂的函数方程，通过**数值分析**和**Puiseux级数展开**逼近奇点行为，最终得到与OEIS序列（A000598）吻合的渐近结果。文中重点演示了如何用**Sage数学软件**实现从理论推导到数值验证的全流程，体现了**解析组合学**将抽象数学与计算实践结合的独特魅力。
-
----
-
-## <a name="21"></a>21. Cloudflare收购Outerbase以增强数据库开发体验 
+## <a name="22"></a>22. Cloudflare收购Outerbase以增强数据库开发体验 
 <small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/cloudflare-acquires-outerbase-database-dx/): Cloudflare Acquires Outerbase</small>
 
 
