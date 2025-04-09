@@ -9,8 +9,8 @@ tags:
 
 
 1. 特朗普宣布对多数国家关税暂降至10%，中国升至125%；
-1. 谷歌推出Agent2Agent协议（A2A），开启AI智能体协作新时代；
 1. 一双耐克鞋在亚洲的生产成本是多少？；
+1. 谷歌推出Agent2Agent协议（A2A），开启AI智能体协作新时代；
 1. Ironwood：谷歌首款专为推理时代设计的TPU；
 1. 特朗普政府停止起诉加密货币欺诈；
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/09/trump-announces-90-day-tariff-pause-for-at-least-some-countries.html): Trump temporarily drops tariffs to 10% for most countries</small>
 
 
-| 🔥🔥: 472 \| 💬: [911](https://news.ycombinator.com/item?id=43634806) \| 🗓️ 2025-04-09
+| 🔥🔥: 509 \| 💬: [982](https://news.ycombinator.com/item?id=43634806) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -35,23 +35,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. 谷歌推出Agent2Agent协议（A2A），开启AI智能体协作新时代 
-<small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/): The Agent2Agent Protocol (A2A)</small>
-
-
-| 🔥🔥: 350 \| 💬: [197](https://news.ycombinator.com/item?id=43631381) \| 🗓️ 2025-04-09
-
-
-<br />
-谷歌联合50多家技术合作伙伴（如Atlassian、Salesforce等）推出**A2A协议**，旨在实现不同厂商开发的**AI智能体**跨平台安全协作。该协议基于HTTP、JSON-RPC等现有标准，支持多模态交互与长任务管理，通过“Agent Card”实现能力发现与任务协调。例如，招聘场景中智能体可协同完成候选人筛选与面试安排。A2A作为开源协议，将推动企业级AI生态的**互操作性**与自动化创新。
-
----
-
-## <a name="3"></a>3. 一双耐克鞋在亚洲的生产成本是多少？ 
+## <a name="2"></a>2. 一双耐克鞋在亚洲的生产成本是多少？ 
 <small>🔗 [threadreaderapp.com](https://threadreaderapp.com/thread/1909741170953273353.html): How much do you think it costs to make a pair of Nike shoes in Asia?</small>
 
 
-| 🔥🔥: 333 \| 💬: [484](https://news.ycombinator.com/item?id=43631543) \| 🗓️ 2025-04-09
+| 🔥🔥: 366 \| 💬: [532](https://news.ycombinator.com/item?id=43631543) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -59,11 +47,23 @@ tags:
 
 ---
 
+## <a name="3"></a>3. 谷歌推出Agent2Agent协议（A2A），开启AI智能体协作新时代 
+<small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/): The Agent2Agent Protocol (A2A)</small>
+
+
+| 🔥🔥: 360 \| 💬: [203](https://news.ycombinator.com/item?id=43631381) \| 🗓️ 2025-04-09
+
+
+<br />
+谷歌联合50多家技术合作伙伴（如Atlassian、Salesforce等）推出**A2A协议**，旨在实现不同厂商开发的**AI智能体**跨平台安全协作。该协议基于HTTP、JSON-RPC等现有标准，支持多模态交互与长任务管理，通过“Agent Card”实现能力发现与任务协调。例如，招聘场景中智能体可协同完成候选人筛选与面试安排。A2A作为开源协议，将推动企业级AI生态的**互操作性**与自动化创新。
+
+---
+
 ## <a name="4"></a>4. Ironwood：谷歌首款专为推理时代设计的TPU 
 <small>🔗 [blog.google](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/): Ironwood: The first Google TPU for the age of inference</small>
 
 
-| 🔥🔥: 307 \| 💬: [125](https://news.ycombinator.com/item?id=43631274) \| 🗓️ 2025-04-09
+| 🔥🔥: 325 \| 💬: [125](https://news.ycombinator.com/item?id=43631274) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [theverge.com](https://www.theverge.com/policy/645399/trump-doj-cryptocurrency-fraud-prosecutions-memo): DOJ will no longer prosecute cryptocurrency fraud</small>
 
 
-| 🔥🔥: 252 \| 💬: [27](https://news.ycombinator.com/item?id=43634582) \| 🗓️ 2025-04-09
+| 🔥🔥: 257 \| 💬: [27](https://news.ycombinator.com/item?id=43634582) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/03/27/cbp-cell-phones-devices-traveling-us/): How to lock down your phone if you're traveling to the U.S.</small>
 
 
-| 🔥🔥: 247 \| 💬: [251](https://news.ycombinator.com/item?id=43630624) \| 🗓️ 2025-04-09
+| 🔥🔥: 253 \| 💬: [258](https://news.ycombinator.com/item?id=43630624) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [stratechery.com](https://stratechery.com/2025/american-disruption/): American Disruption</small>
 
 
-| 🔥🔥: 202 \| 💬: [172](https://news.ycombinator.com/item?id=43631276) \| 🗓️ 2025-04-09
+| 🔥🔥: 206 \| 💬: [179](https://news.ycombinator.com/item?id=43631276) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [spacetimedb.com](https://spacetimedb.com/): SpacetimeDB</small>
 
 
-| 🔥🔥: 184 \| 💬: [97](https://news.ycombinator.com/item?id=43631822) \| 🗓️ 2025-04-09
+| 🔥🔥: 192 \| 💬: [101](https://news.ycombinator.com/item?id=43631822) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -119,7 +119,19 @@ SpacetimeDB的核心创新在于**完整记录事务历史**，允许用户将�
 
 ---
 
-## <a name="9"></a>9. 威士忌（Whisky）项目正式停止维护 
+## <a name="9"></a>9. Linux系统修复利器：chroot技术详解 
+<small>🔗 [livesys.se](https://livesys.se/posts/the-chroot-technique/): The chroot Technique – a Swiss army multitool for Linux systems</small>
+
+
+| 🔥🔥: 186 \| 💬: [81](https://news.ycombinator.com/item?id=43632379) \| 🗓️ 2025-04-09
+
+
+<br />
+当Linux系统无法启动且硬件无故障时，**chroot技术**能通过挂载故障系统的硬盘分区到临时系统（如Live USB），并混合当前系统的关键目录（如`/proc`、`/sys`），创建一个虚拟根环境。通过`chroot`命令切换后，用户可执行修复操作（如`apt upgrade`或`dpkg-reconfigure`）。文中以修复Nanopore GridION设备为例，演示了具体步骤，包括分区挂载、目录绑定及故障排查。这项技术如同为故障系统提供“外部电源”，是Linux维护的**必备技能**。
+
+---
+
+## <a name="10"></a>10. 威士忌（Whisky）项目正式停止维护 
 <small>🔗 [docs.getwhisky.app](https://docs.getwhisky.app/maintenance-notice): Whisky is no longer actively maintained</small>
 
 
@@ -131,47 +143,11 @@ SpacetimeDB的核心创新在于**完整记录事务历史**，允许用户将�
 
 ---
 
-## <a name="10"></a>10. Linux系统修复利器：chroot技术详解 
-<small>🔗 [livesys.se](https://livesys.se/posts/the-chroot-technique/): The chroot Technique – a Swiss army multitool for Linux systems</small>
-
-
-| 🔥🔥: 169 \| 💬: [77](https://news.ycombinator.com/item?id=43632379) \| 🗓️ 2025-04-09
-
-
-<br />
-当Linux系统无法启动且硬件无故障时，**chroot技术**能通过挂载故障系统的硬盘分区到临时系统（如Live USB），并混合当前系统的关键目录（如`/proc`、`/sys`），创建一个虚拟根环境。通过`chroot`命令切换后，用户可执行修复操作（如`apt upgrade`或`dpkg-reconfigure`）。文中以修复Nanopore GridION设备为例，演示了具体步骤，包括分区挂载、目录绑定及故障排查。这项技术如同为故障系统提供“外部电源”，是Linux维护的**必备技能**。
-
----
-
-## <a name="11"></a>11. 用内容安全策略加固Firefox前端安全 
-<small>🔗 [attackanddefense.dev](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html): Hardening the Firefox Front End with Content Security Policies</small>
-
-
-| 🔥🔥: 164 \| 💬: [58](https://news.ycombinator.com/item?id=43630388) \| 🗓️ 2025-04-09
-
-
-<br />
-Firefox用户界面（UI）采用HTML、CSS和JavaScript等Web技术构建，但这也使其面临**XSS注入攻击**风险。为提升安全性，团队移除了主界面文件`browser.xhtml`中的**600余个内联事件处理器**，改用`addEventListener`并引入**内容安全策略（CSP）**限制动态代码执行。此举显著降低了父进程被攻击的可能性，未来还将扩展至其他窗口（如“关于Firefox”对话框）。最终目标是彻底禁用`eval`等高危操作，打造更抗攻击的浏览器。该改进将随Firefox 138版本发布。
-
----
-
-## <a name="12"></a>12. 美国企业遭遇远程职位招聘欺诈潮 
-<small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/08/fake-job-seekers-use-ai-to-interview-for-remote-jobs-tech-ceos-say.html): Fake job seekers are flooding US companies that are hiring for remote positions</small>
-
-
-| 🔥🔥: 159 \| 💬: [213](https://news.ycombinator.com/item?id=43631384) \| 🗓️ 2025-04-09
-
-
-<br />
-随着AI技术泛滥，**虚假求职者**正利用**深度伪造工具**伪造证件、编造履历并通过AI应答面试，预计到2028年全球1/4求职者可能是伪造的。这些冒名者一旦入职，可能植入勒索软件或窃取数据。案例显示，甚至有**朝鲜IT工人**通过盗用身份为远程职位，并将薪资汇往朝鲜资助武器计划。企业需借助身份验证技术应对，但多数招聘者尚未意识到风险。
-
----
-
-## <a name="13"></a>13. 基本收入试点项目：研究结果揭晓 
+## <a name="11"></a>11. 基本收入试点项目：研究结果揭晓 
 <small>🔗 [pilotprojekt-grundeinkommen.de](https://www.pilotprojekt-grundeinkommen.de/en): Basic Income Pilot Project: Study results</small>
 
 
-| 🔥🔥: 148 \| 💬: [159](https://news.ycombinator.com/item?id=43636757) \| 🗓️ 2025-04-09
+| 🔥🔥: 166 \| 💬: [182](https://news.ycombinator.com/item?id=43636757) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -179,11 +155,35 @@ Firefox用户界面（UI）采用HTML、CSS和JavaScript等Web技术构建，但
 
 ---
 
+## <a name="12"></a>12. 用内容安全策略加固Firefox前端安全 
+<small>🔗 [attackanddefense.dev](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html): Hardening the Firefox Front End with Content Security Policies</small>
+
+
+| 🔥🔥: 165 \| 💬: [59](https://news.ycombinator.com/item?id=43630388) \| 🗓️ 2025-04-09
+
+
+<br />
+Firefox用户界面（UI）采用HTML、CSS和JavaScript等Web技术构建，但这也使其面临**XSS注入攻击**风险。为提升安全性，团队移除了主界面文件`browser.xhtml`中的**600余个内联事件处理器**，改用`addEventListener`并引入**内容安全策略（CSP）**限制动态代码执行。此举显著降低了父进程被攻击的可能性，未来还将扩展至其他窗口（如“关于Firefox”对话框）。最终目标是彻底禁用`eval`等高危操作，打造更抗攻击的浏览器。该改进将随Firefox 138版本发布。
+
+---
+
+## <a name="13"></a>13. 美国企业遭遇远程职位招聘欺诈潮 
+<small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/08/fake-job-seekers-use-ai-to-interview-for-remote-jobs-tech-ceos-say.html): Fake job seekers are flooding US companies that are hiring for remote positions</small>
+
+
+| 🔥🔥: 164 \| 💬: [216](https://news.ycombinator.com/item?id=43631384) \| 🗓️ 2025-04-09
+
+
+<br />
+随着AI技术泛滥，**虚假求职者**正利用**深度伪造工具**伪造证件、编造履历并通过AI应答面试，预计到2028年全球1/4求职者可能是伪造的。这些冒名者一旦入职，可能植入勒索软件或窃取数据。案例显示，甚至有**朝鲜IT工人**通过盗用身份为远程职位，并将薪资汇往朝鲜资助武器计划。企业需借助身份验证技术应对，但多数招聘者尚未意识到风险。
+
+---
+
 ## <a name="14"></a>14. GPD Pocket 4 扬声器 DSP：通过 PipeWire 优化笔记本音质 
 <small>🔗 [kittenlabs.de](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/): GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better</small>
 
 
-| 🔥🔥: 132 \| 💬: [30](https://news.ycombinator.com/item?id=43635295) \| 🗓️ 2025-04-09
+| 🔥🔥: 140 \| 💬: [34](https://news.ycombinator.com/item?id=43635295) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -195,7 +195,7 @@ Firefox用户界面（UI）采用HTML、CSS和JavaScript等Web技术构建，但
 <small>🔗 [whynothugo.nl](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/): Man pages are great, man readers are the problem</small>
 
 
-| 🔥🔥: 113 \| 💬: [138](https://news.ycombinator.com/item?id=43631672) \| 🗓️ 2025-04-09
+| 🔥🔥: 116 \| 💬: [139](https://news.ycombinator.com/item?id=43631672) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -203,59 +203,11 @@ man页面本身支持**超链接**和**窗口自适应重排**，但当前主流
 
 ---
 
-## <a name="16"></a>16. 2025年氟化物与儿童智商研究的重大缺陷 
-<small>🔗 [osf.io](https://osf.io/preprints/osf/zhm54_v3): Major Flaws in 2025 Meta-Analysis on Fluoride and Children IQ Scores</small>
-
-
-| 🔥: 97 \| 💬: [74](https://news.ycombinator.com/item?id=43633330) \| 🗓️ 2025-04-09
-
-
-<br />
-该分析指出2025年一项关于**氟化物暴露**与**儿童智商**关联的元分析存在关键问题，包括**数据偏差**和方法论缺陷。研究未能充分控制混杂变量，且样本代表性不足，导致结论可信度存疑。需谨慎解读其结果对公共卫生政策的影响。
-
----
-
-## <a name="17"></a>17. 用Mermaidjs构建的AI故事关系图谱生成工具 
-<small>🔗 [github.com](https://github.com/herol3oy/austen): Show HN: I built an app to generate story relationships using Mermaidjs</small>
-
-
-| 🔥: 91 \| 💬: [28](https://news.ycombinator.com/item?id=43633298) \| 🗓️ 2025-04-09
-
-
-<br />
-Austen是一款基于**Angular框架**开发的AI应用，通过**Mermaidjs图表**自动生成书籍角色关系图谱。用户可搜索Open Library的书籍，利用**AI分析角色关系**并生成可视化图表，支持导出为SVG/PNG格式。应用采用Supabase存储数据，提供公开/私有分享功能，技术栈包含AnalogJS、TypeScript和Cloudflare Pages。安装需配置DeepSeek和Supabase的API密钥，未来计划增加点赞功能和更多图表加载选项。项目开源，遵循MIT协议。
-
----
-
-## <a name="18"></a>18. 如何有效减少屏幕使用时间 
-<small>🔗 [speedbumpapp.com](https://speedbumpapp.com/en/blog/how-to-reduce-screen-time/): A guide to reduce screen time</small>
-
-
-| 🔥: 85 \| 💬: [78](https://news.ycombinator.com/item?id=43630661) \| 🗓️ 2025-04-09
-
-
-<br />
-本文探讨了数字时代下平衡社交需求与健康生活的实用方法。**核心策略**包括：理解使用动机（如无聊、焦虑）、转变思维（从"少用手机"到"多做其他事"），以及利用系统自带工具（如iOS的**屏幕使用时间**和Android的数字健康功能）。文中推荐了多款辅助应用（如Forest、One Sec），并强调**物理边界**（如设立无屏幕区域）和习惯培养（如启用灰度模式）的重要性。关键在于持续实验不同方法，逐步建立健康习惯，抵御平台刻意设计的成瘾机制。
-
----
-
-## <a name="19"></a>19. 视觉推理时代即将到来 
-<small>🔗 [arcturus-labs.com](http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/): Visual Reasoning Is Coming Soon</small>
-
-
-| 🔥: 85 \| 💬: [31](https://news.ycombinator.com/item?id=43633568) \| 🗓️ 2025-04-09
-
-
-<br />
-OpenAI最新发布的**GPT-4o**实现了真正的图像操控，模型能基于对话上下文直接生成图像，而非依赖外部工具。这一突破为**视觉推理**奠定了基础——未来模型将能通过图像模拟场景，提升空间和物理问题的解决能力。尽管当前尝试（如“玻璃杯与弹珠”实验）仍存在逻辑矛盾，但通过针对性训练（如合成数据与视频分析），模型将学会**可视化思考**，从而在机器人、设计等领域带来变革。
-
----
-
-## <a name="20"></a>20. 19世纪日本老照片：穿越时光的浮世绘 
+## <a name="16"></a>16. 19世纪日本老照片：穿越时光的浮世绘 
 <small>🔗 [cosmographia.substack.com](https://cosmographia.substack.com/p/photographs-of-old-japan): Photographs of 19th Century Japan</small>
 
 
-| 🔥: 82 \| 💬: [16](https://news.ycombinator.com/item?id=43631251) \| 🗓️ 2025-04-09
+| 🔥🔥: 102 \| 💬: [21](https://news.ycombinator.com/item?id=43631251) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -263,11 +215,59 @@ OpenAI最新发布的**GPT-4o**实现了真正的图像操控，模型能基于�
 
 ---
 
+## <a name="17"></a>17. 2025年氟化物与儿童智商研究的重大缺陷 
+<small>🔗 [osf.io](https://osf.io/preprints/osf/zhm54_v3): Major Flaws in 2025 Meta-Analysis on Fluoride and Children IQ Scores</small>
+
+
+| 🔥: 97 \| 💬: [75](https://news.ycombinator.com/item?id=43633330) \| 🗓️ 2025-04-09
+
+
+<br />
+该分析指出2025年一项关于**氟化物暴露**与**儿童智商**关联的元分析存在关键问题，包括**数据偏差**和方法论缺陷。研究未能充分控制混杂变量，且样本代表性不足，导致结论可信度存疑。需谨慎解读其结果对公共卫生政策的影响。
+
+---
+
+## <a name="18"></a>18. 用Mermaidjs构建的AI故事关系图谱生成工具 
+<small>🔗 [github.com](https://github.com/herol3oy/austen): Show HN: I built an app to generate story relationships using Mermaidjs</small>
+
+
+| 🔥: 96 \| 💬: [28](https://news.ycombinator.com/item?id=43633298) \| 🗓️ 2025-04-09
+
+
+<br />
+Austen是一款基于**Angular框架**开发的AI应用，通过**Mermaidjs图表**自动生成书籍角色关系图谱。用户可搜索Open Library的书籍，利用**AI分析角色关系**并生成可视化图表，支持导出为SVG/PNG格式。应用采用Supabase存储数据，提供公开/私有分享功能，技术栈包含AnalogJS、TypeScript和Cloudflare Pages。安装需配置DeepSeek和Supabase的API密钥，未来计划增加点赞功能和更多图表加载选项。项目开源，遵循MIT协议。
+
+---
+
+## <a name="19"></a>19. 视觉推理时代即将到来 
+<small>🔗 [arcturus-labs.com](http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/): Visual Reasoning Is Coming Soon</small>
+
+
+| 🔥: 92 \| 💬: [31](https://news.ycombinator.com/item?id=43633568) \| 🗓️ 2025-04-09
+
+
+<br />
+OpenAI最新发布的**GPT-4o**实现了真正的图像操控，模型能基于对话上下文直接生成图像，而非依赖外部工具。这一突破为**视觉推理**奠定了基础——未来模型将能通过图像模拟场景，提升空间和物理问题的解决能力。尽管当前尝试（如“玻璃杯与弹珠”实验）仍存在逻辑矛盾，但通过针对性训练（如合成数据与视频分析），模型将学会**可视化思考**，从而在机器人、设计等领域带来变革。
+
+---
+
+## <a name="20"></a>20. 如何有效减少屏幕使用时间 
+<small>🔗 [speedbumpapp.com](https://speedbumpapp.com/en/blog/how-to-reduce-screen-time/): A guide to reduce screen time</small>
+
+
+| 🔥: 90 \| 💬: [79](https://news.ycombinator.com/item?id=43630661) \| 🗓️ 2025-04-09
+
+
+<br />
+本文探讨了数字时代下平衡社交需求与健康生活的实用方法。**核心策略**包括：理解使用动机（如无聊、焦虑）、转变思维（从"少用手机"到"多做其他事"），以及利用系统自带工具（如iOS的**屏幕使用时间**和Android的数字健康功能）。文中推荐了多款辅助应用（如Forest、One Sec），并强调**物理边界**（如设立无屏幕区域）和习惯培养（如启用灰度模式）的重要性。关键在于持续实验不同方法，逐步建立健康习惯，抵御平台刻意设计的成瘾机制。
+
+---
+
 ## <a name="21"></a>21. AI编码强制令正将开发者逼至崩溃边缘 
 <small>🔗 [leaddev.com](https://leaddev.com/culture/ai-coding-mandates-are-driving-developers-to-the-brink): AI coding mandates are driving developers to the brink</small>
 
 
-| 🔥: 68 \| 💬: [85](https://news.ycombinator.com/item?id=43633288) \| 🗓️ 2025-04-09
+| 🔥: 68 \| 💬: [86](https://news.ycombinator.com/item?id=43633288) \| 🗓️ 2025-04-09
 
 
 <br />
