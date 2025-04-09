@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共22条，具体内容您往下读...
+总共23条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [echarts.apache.org](https://echarts.apache.org/en/index.html): Apache ECharts</small>
 
 
-| 🔥🔥: 739 \| 💬: [143](https://news.ycombinator.com/item?id=43624220) \| 🗓️ 2025-04-08
+| 🔥🔥: 797 \| 💬: [149](https://news.ycombinator.com/item?id=43624220) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -39,7 +39,7 @@ Apache ECharts 是一个基于 **声明式框架** 的 **Web可视化工具**，
 <small>🔗 [economist.com](https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant): Brazil's government-run payments system has become dominant</small>
 
 
-| 🔥🔥: 422 \| 💬: [502](https://news.ycombinator.com/item?id=43620279) \| 🗓️ 2025-04-08
+| 🔥🔥: 438 \| 💬: [521](https://news.ycombinator.com/item?id=43620279) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -51,7 +51,7 @@ Apache ECharts 是一个基于 **声明式框架** 的 **Web可视化工具**，
 <small>🔗 [tailscale.com](https://tailscale.com/blog/series-c): Tailscale has raised $160M</small>
 
 
-| 🔥🔥: 391 \| 💬: [181](https://news.ycombinator.com/item?id=43620141) \| 🗓️ 2025-04-08
+| 🔥🔥: 419 \| 💬: [188](https://news.ycombinator.com/item?id=43620141) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -63,7 +63,7 @@ Tailscale宣布获得由Accel领投的**1.6亿美元C轮融资**，用于推动*
 <small>🔗 [theverge.com](https://www.theverge.com/meta/645012/meta-llama-4-maverick-benchmarks-gaming): Meta got caught gaming AI benchmarks</small>
 
 
-| 🔥🔥: 278 \| 💬: [132](https://news.ycombinator.com/item?id=43620452) \| 🗓️ 2025-04-08
+| 🔥🔥: 283 \| 💬: [133](https://news.ycombinator.com/item?id=43620452) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -75,7 +75,7 @@ Meta在发布**Llama 4**模型时，通过提交**优化版Maverick**参与LMAre
 <small>🔗 [aftermath.site](https://aftermath.site/ai-video-game-development-art-vibe-coding-midjourney): An Overwhelmingly Negative and Demoralizing Force</small>
 
 
-| 🔥🔥: 256 \| 💬: [220](https://news.ycombinator.com/item?id=43619759) \| 🗓️ 2025-04-08
+| 🔥🔥: 272 \| 💬: [237](https://news.ycombinator.com/item?id=43619759) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -87,7 +87,7 @@ Meta在发布**Llama 4**模型时，通过提交**优化版Maverick**参与LMAre
 <small>🔗 [yuxi-liu-wired.github.io](https://yuxi-liu-wired.github.io/essays/posts/cyc/): Obituary for Cyc</small>
 
 
-| 🔥🔥: 197 \| 💬: [90](https://news.ycombinator.com/item?id=43625474) \| 🗓️ 2025-04-08
+| 🔥🔥: 220 \| 💬: [106](https://news.ycombinator.com/item?id=43625474) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -99,7 +99,7 @@ Douglas Lenat历时40年的**Cyc项目**试图通过符号逻辑构建通用人�
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/): Intelligence Evolved at Least Twice in Vertebrate Animals</small>
 
 
-| 🔥🔥: 188 \| 💬: [152](https://news.ycombinator.com/item?id=43619548) \| 🗓️ 2025-04-08
+| 🔥🔥: 192 \| 💬: [158](https://news.ycombinator.com/item?id=43619548) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -111,7 +111,7 @@ Douglas Lenat历时40年的**Cyc项目**试图通过符号逻辑构建通用人�
 <small>🔗 [webkit.org](https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/): Better typography with text-wrap pretty</small>
 
 
-| 🔥🔥: 170 \| 💬: [79](https://news.ycombinator.com/item?id=43622703) \| 🗓️ 2025-04-08
+| 🔥🔥: 180 \| 💬: [82](https://news.ycombinator.com/item?id=43622703) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -155,7 +155,19 @@ Safari技术预览版216推出了**text-wrap: pretty**功能，首次在网页�
 
 ---
 
-## <a name="12"></a>12. 如果对广告征税会怎样？ 
+## <a name="12"></a>12. Netflix如何精准追踪eBPF网络流日志 
+<small>🔗 [netflixtechblog.com](https://netflixtechblog.com/how-netflix-accurately-attributes-ebpf-flow-logs-afe6d644a3bc): How Netflix Accurately Attributes eBPF Flow Logs</small>
+
+
+| 🔥🔥: 106 \| 💬: [42](https://news.ycombinator.com/item?id=43624888) \| 🗓️ 2025-04-08
+
+
+<br />
+Netflix利用**eBPF技术**大规模采集TCP流日志，但面临核心挑战：如何将动态分配的IP地址准确关联到**微服务身份**。早期方案依赖IP变更事件流，常因延迟导致错误归因。新方法通过**双阶段处理**实现精准追踪：1) 本地IP由FlowExporter直接通过主机证书或容器平台eBPF映射实时标记；2) 远程IP由FlowCollector基于时间范围哈希表和历史流数据推导，并通过Kafka跨节点同步。针对跨区域流量，采用CIDR树状路由转发。最终验证显示，新系统彻底消除了错误归因，为依赖分析提供可靠数据基础。
+
+---
+
+## <a name="13"></a>13. 如果对广告征税会怎样？ 
 <small>🔗 [matthewsinclair.com](https://matthewsinclair.com/blog/0177-what-if-we-taxed-advertising): What if we taxed advertising?</small>
 
 
@@ -167,23 +179,11 @@ Safari技术预览版216推出了**text-wrap: pretty**功能，首次在网页�
 
 ---
 
-## <a name="13"></a>13. Netflix如何精准追踪eBPF网络流日志 
-<small>🔗 [netflixtechblog.com](https://netflixtechblog.com/how-netflix-accurately-attributes-ebpf-flow-logs-afe6d644a3bc): How Netflix Accurately Attributes eBPF Flow Logs</small>
-
-
-| 🔥: 97 \| 💬: [36](https://news.ycombinator.com/item?id=43624888) \| 🗓️ 2025-04-08
-
-
-<br />
-Netflix利用**eBPF技术**大规模采集TCP流日志，但面临核心挑战：如何将动态分配的IP地址准确关联到**微服务身份**。早期方案依赖IP变更事件流，常因延迟导致错误归因。新方法通过**双阶段处理**实现精准追踪：1) 本地IP由FlowExporter直接通过主机证书或容器平台eBPF映射实时标记；2) 远程IP由FlowCollector基于时间范围哈希表和历史流数据推导，并通过Kafka跨节点同步。针对跨区域流量，采用CIDR树状路由转发。最终验证显示，新系统彻底消除了错误归因，为依赖分析提供可靠数据基础。
-
----
-
 ## <a name="14"></a>14. Mac菜单栏图标被刘海遮挡？一键解决！ 
 <small>🔗 [badgeify.app](https://badgeify.app/): Show HN: Badgeify – Add Any App to Your Mac Menu Bar</small>
 
 
-| 🔥: 94 \| 💬: [44](https://news.ycombinator.com/item?id=43620471) \| 🗓️ 2025-04-08
+| 🔥: 96 \| 💬: [44](https://news.ycombinator.com/item?id=43620471) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -195,7 +195,7 @@ Netflix利用**eBPF技术**大规模采集TCP流日志，但面临核心挑战�
 <small>🔗 [github.com](https://github.com/coroot/coroot): Show HN: Coroot – eBPF-based, open source observability with actionable insights</small>
 
 
-| 🔥: 87 \| 💬: [15](https://news.ycombinator.com/item?id=43623820) \| 🗓️ 2025-04-08
+| 🔥: 91 \| 💬: [16](https://news.ycombinator.com/item?id=43623820) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -235,7 +235,7 @@ Coroot是一款开源的**APM与可观测性工具**，支持指标、日志、�
 <small>🔗 [gitmatcher.com](https://gitmatcher.com/): Show HN: I built a tool to find devs based on code, not LinkedIn titles</small>
 
 
-| 🔥: 80 \| 💬: [66](https://news.ycombinator.com/item?id=43621350) \| 🗓️ 2025-04-08
+| 🔥: 82 \| 💬: [66](https://news.ycombinator.com/item?id=43621350) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -247,7 +247,7 @@ GitMatcher是一款通过**GitHub代码分析**精准匹配开发者的工具，
 <small>🔗 [grossack.site](https://grossack.site/2025/04/08/analytic-combinatorics-example.html): Analytic Combinatorics – A Worked Example</small>
 
 
-| 🔥: 72 \| 💬: [35](https://news.ycombinator.com/item?id=43624293) \| 🗓️ 2025-04-08
+| 🔥: 75 \| 💬: [35](https://news.ycombinator.com/item?id=43624293) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -259,7 +259,7 @@ GitMatcher是一款通过**GitHub代码分析**精准匹配开发者的工具，
 <small>🔗 [blog.google](https://blog.google/products/gemini/deep-research-gemini-2-5-pro-experimental/): Deep Research is now available on Gemini 2.5 Pro Experimental</small>
 
 
-| 🔥: 68 \| 💬: [10](https://news.ycombinator.com/item?id=43627354) \| 🗓️ 2025-04-08
+| 🔥: 73 \| 💬: [21](https://news.ycombinator.com/item?id=43627354) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -267,11 +267,23 @@ Gemini Advanced订阅用户现可通过**全球最强AI模型**Gemini 2.5 Pro Ex
 
 ---
 
-## <a name="21"></a>21. IBM发布搭载Telum II处理器的z17大型机 
+## <a name="21"></a>21. PostgreSQL全文搜索：优化得当，性能惊人（破除“速度慢”的误解） 
+<small>🔗 [blog.vectorchord.ai](https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth): PostgreSQL Full-Text Search: Fast When Done Right (Debunking the Slow Myth)</small>
+
+
+| 🔥: 70 \| 💬: [12](https://news.ycombinator.com/item?id=43627646) \| 🗓️ 2025-04-08
+
+
+<br />
+Neon的基准测试曾认为PostgreSQL内置全文搜索（**FTS**）性能不佳，但问题源于未优化配置。关键改进包括：**预计算并存储tsvector列**（避免实时计算）、**禁用GIN索引的fastupdate**（提升查询速度）。优化后，标准FTS查询速度提升约50倍（从41.3秒降至0.88秒）。对于高级排序需求，可搭配**VectorChord-BM25**扩展实现高效BM25算法。结论：标准FTS性能远超预期，只需正确优化即可媲美专用搜索引擎。
+
+---
+
+## <a name="22"></a>22. IBM发布搭载Telum II处理器的z17大型机 
 <small>🔗 [phoronix.com](https://www.phoronix.com/news/IBM-z17-Telum-2-Announced): IBM Announces the Z17 Mainframe Powered by Telum II Processors</small>
 
 
-| 🔥: 66 \| 💬: [44](https://news.ycombinator.com/item?id=43620257) \| 🗓️ 2025-04-08
+| 🔥: 68 \| 💬: [46](https://news.ycombinator.com/item?id=43620257) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -279,7 +291,7 @@ IBM于2025年4月8日正式发布新一代**z17大型机**，搭载**Telum II处
 
 ---
 
-## <a name="22"></a>22. Cloudflare收购Outerbase以增强数据库开发体验 
+## <a name="23"></a>23. Cloudflare收购Outerbase以增强数据库开发体验 
 <small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/cloudflare-acquires-outerbase-database-dx/): Cloudflare Acquires Outerbase</small>
 
 
