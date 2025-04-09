@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共17条，具体内容您往下读...
+总共21条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/09/trump-announces-90-day-tariff-pause-for-at-least-some-countries.html): Trump temporarily drops tariffs to 10% for most countries</small>
 
 
-| 🔥🔥: 411 \| 💬: [805](https://news.ycombinator.com/item?id=43634806) \| 🗓️ 2025-04-09
+| 🔥🔥: 472 \| 💬: [911](https://news.ycombinator.com/item?id=43634806) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/): The Agent2Agent Protocol (A2A)</small>
 
 
-| 🔥🔥: 337 \| 💬: [187](https://news.ycombinator.com/item?id=43631381) \| 🗓️ 2025-04-09
+| 🔥🔥: 350 \| 💬: [197](https://news.ycombinator.com/item?id=43631381) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [threadreaderapp.com](https://threadreaderapp.com/thread/1909741170953273353.html): How much do you think it costs to make a pair of Nike shoes in Asia?</small>
 
 
-| 🔥🔥: 290 \| 💬: [422](https://news.ycombinator.com/item?id=43631543) \| 🗓️ 2025-04-09
+| 🔥🔥: 333 \| 💬: [484](https://news.ycombinator.com/item?id=43631543) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [blog.google](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/): Ironwood: The first Google TPU for the age of inference</small>
 
 
-| 🔥🔥: 289 \| 💬: [112](https://news.ycombinator.com/item?id=43631274) \| 🗓️ 2025-04-09
+| 🔥🔥: 307 \| 💬: [125](https://news.ycombinator.com/item?id=43631274) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/03/27/cbp-cell-phones-devices-traveling-us/): How to lock down your phone if you're traveling to the U.S.</small>
 
 
-| 🔥🔥: 242 \| 💬: [238](https://news.ycombinator.com/item?id=43630624) \| 🗓️ 2025-04-09
+| 🔥🔥: 247 \| 💬: [251](https://news.ycombinator.com/item?id=43630624) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [stratechery.com](https://stratechery.com/2025/american-disruption/): American Disruption</small>
 
 
-| 🔥🔥: 201 \| 💬: [171](https://news.ycombinator.com/item?id=43631276) \| 🗓️ 2025-04-09
+| 🔥🔥: 202 \| 💬: [172](https://news.ycombinator.com/item?id=43631276) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [spacetimedb.com](https://spacetimedb.com/): SpacetimeDB</small>
 
 
-| 🔥🔥: 174 \| 💬: [92](https://news.ycombinator.com/item?id=43631822) \| 🗓️ 2025-04-09
+| 🔥🔥: 184 \| 💬: [97](https://news.ycombinator.com/item?id=43631822) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -131,35 +131,11 @@ SpacetimeDB的核心创新在于**完整记录事务历史**，允许用户将�
 
 ---
 
-## <a name="10"></a>10. 美国企业遭遇远程职位招聘欺诈潮 
-<small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/08/fake-job-seekers-use-ai-to-interview-for-remote-jobs-tech-ceos-say.html): Fake job seekers are flooding US companies that are hiring for remote positions</small>
-
-
-| 🔥🔥: 157 \| 💬: [211](https://news.ycombinator.com/item?id=43631384) \| 🗓️ 2025-04-09
-
-
-<br />
-随着AI技术泛滥，**虚假求职者**正利用**深度伪造工具**伪造证件、编造履历并通过AI应答面试，预计到2028年全球1/4求职者可能是伪造的。这些冒名者一旦入职，可能植入勒索软件或窃取数据。案例显示，甚至有**朝鲜IT工人**通过盗用身份为远程职位，并将薪资汇往朝鲜资助武器计划。企业需借助身份验证技术应对，但多数招聘者尚未意识到风险。
-
----
-
-## <a name="11"></a>11. 用内容安全策略加固Firefox前端安全 
-<small>🔗 [attackanddefense.dev](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html): Hardening the Firefox Front End with Content Security Policies</small>
-
-
-| 🔥🔥: 156 \| 💬: [58](https://news.ycombinator.com/item?id=43630388) \| 🗓️ 2025-04-09
-
-
-<br />
-Firefox用户界面（UI）采用HTML、CSS和JavaScript等Web技术构建，但这也使其面临**XSS注入攻击**风险。为提升安全性，团队移除了主界面文件`browser.xhtml`中的**600余个内联事件处理器**，改用`addEventListener`并引入**内容安全策略（CSP）**限制动态代码执行。此举显著降低了父进程被攻击的可能性，未来还将扩展至其他窗口（如“关于Firefox”对话框）。最终目标是彻底禁用`eval`等高危操作，打造更抗攻击的浏览器。该改进将随Firefox 138版本发布。
-
----
-
-## <a name="12"></a>12. Linux系统修复利器：chroot技术详解 
+## <a name="10"></a>10. Linux系统修复利器：chroot技术详解 
 <small>🔗 [livesys.se](https://livesys.se/posts/the-chroot-technique/): The chroot Technique – a Swiss army multitool for Linux systems</small>
 
 
-| 🔥🔥: 156 \| 💬: [74](https://news.ycombinator.com/item?id=43632379) \| 🗓️ 2025-04-09
+| 🔥🔥: 169 \| 💬: [77](https://news.ycombinator.com/item?id=43632379) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -167,11 +143,35 @@ Firefox用户界面（UI）采用HTML、CSS和JavaScript等Web技术构建，但
 
 ---
 
+## <a name="11"></a>11. 用内容安全策略加固Firefox前端安全 
+<small>🔗 [attackanddefense.dev](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html): Hardening the Firefox Front End with Content Security Policies</small>
+
+
+| 🔥🔥: 164 \| 💬: [58](https://news.ycombinator.com/item?id=43630388) \| 🗓️ 2025-04-09
+
+
+<br />
+Firefox用户界面（UI）采用HTML、CSS和JavaScript等Web技术构建，但这也使其面临**XSS注入攻击**风险。为提升安全性，团队移除了主界面文件`browser.xhtml`中的**600余个内联事件处理器**，改用`addEventListener`并引入**内容安全策略（CSP）**限制动态代码执行。此举显著降低了父进程被攻击的可能性，未来还将扩展至其他窗口（如“关于Firefox”对话框）。最终目标是彻底禁用`eval`等高危操作，打造更抗攻击的浏览器。该改进将随Firefox 138版本发布。
+
+---
+
+## <a name="12"></a>12. 美国企业遭遇远程职位招聘欺诈潮 
+<small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/08/fake-job-seekers-use-ai-to-interview-for-remote-jobs-tech-ceos-say.html): Fake job seekers are flooding US companies that are hiring for remote positions</small>
+
+
+| 🔥🔥: 159 \| 💬: [213](https://news.ycombinator.com/item?id=43631384) \| 🗓️ 2025-04-09
+
+
+<br />
+随着AI技术泛滥，**虚假求职者**正利用**深度伪造工具**伪造证件、编造履历并通过AI应答面试，预计到2028年全球1/4求职者可能是伪造的。这些冒名者一旦入职，可能植入勒索软件或窃取数据。案例显示，甚至有**朝鲜IT工人**通过盗用身份为远程职位，并将薪资汇往朝鲜资助武器计划。企业需借助身份验证技术应对，但多数招聘者尚未意识到风险。
+
+---
+
 ## <a name="13"></a>13. 基本收入试点项目：研究结果揭晓 
 <small>🔗 [pilotprojekt-grundeinkommen.de](https://www.pilotprojekt-grundeinkommen.de/en): Basic Income Pilot Project: Study results</small>
 
 
-| 🔥🔥: 115 \| 💬: [122](https://news.ycombinator.com/item?id=43636757) \| 🗓️ 2025-04-09
+| 🔥🔥: 148 \| 💬: [159](https://news.ycombinator.com/item?id=43636757) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -179,23 +179,11 @@ Firefox用户界面（UI）采用HTML、CSS和JavaScript等Web技术构建，但
 
 ---
 
-## <a name="14"></a>14. man页面很强大，问题出在阅读工具上 
-<small>🔗 [whynothugo.nl](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/): Man pages are great, man readers are the problem</small>
-
-
-| 🔥🔥: 111 \| 💬: [137](https://news.ycombinator.com/item?id=43631672) \| 🗓️ 2025-04-09
-
-
-<br />
-man页面本身支持**超链接**和**窗口自适应重排**，但当前主流的man阅读工具（如`man(1)`配合`less(1)`）并未实现这些功能。man页面采用**语义化标记**的`mdoc(7)`格式，其中`.Xr`和`.Sx`宏本可生成交叉引用链接（HTML转换时已实现），但终端阅读器仅渲染为纯文本。文章呼吁开发能原生解析man格式、支持链接跳转和动态排版的现代阅读工具。
-
----
-
-## <a name="15"></a>15. GPD Pocket 4 扬声器 DSP：通过 PipeWire 优化笔记本音质 
+## <a name="14"></a>14. GPD Pocket 4 扬声器 DSP：通过 PipeWire 优化笔记本音质 
 <small>🔗 [kittenlabs.de](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/): GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better</small>
 
 
-| 🔥🔥: 104 \| 💬: [22](https://news.ycombinator.com/item?id=43635295) \| 🗓️ 2025-04-09
+| 🔥🔥: 132 \| 💬: [30](https://news.ycombinator.com/item?id=43635295) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -203,11 +191,23 @@ man页面本身支持**超链接**和**窗口自适应重排**，但当前主流
 
 ---
 
+## <a name="15"></a>15. man页面很强大，问题出在阅读工具上 
+<small>🔗 [whynothugo.nl](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/): Man pages are great, man readers are the problem</small>
+
+
+| 🔥🔥: 113 \| 💬: [138](https://news.ycombinator.com/item?id=43631672) \| 🗓️ 2025-04-09
+
+
+<br />
+man页面本身支持**超链接**和**窗口自适应重排**，但当前主流的man阅读工具（如`man(1)`配合`less(1)`）并未实现这些功能。man页面采用**语义化标记**的`mdoc(7)`格式，其中`.Xr`和`.Sx`宏本可生成交叉引用链接（HTML转换时已实现），但终端阅读器仅渲染为纯文本。文章呼吁开发能原生解析man格式、支持链接跳转和动态排版的现代阅读工具。
+
+---
+
 ## <a name="16"></a>16. 2025年氟化物与儿童智商研究的重大缺陷 
 <small>🔗 [osf.io](https://osf.io/preprints/osf/zhm54_v3): Major Flaws in 2025 Meta-Analysis on Fluoride and Children IQ Scores</small>
 
 
-| 🔥: 96 \| 💬: [72](https://news.ycombinator.com/item?id=43633330) \| 🗓️ 2025-04-09
+| 🔥: 97 \| 💬: [74](https://news.ycombinator.com/item?id=43633330) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -219,10 +219,58 @@ man页面本身支持**超链接**和**窗口自适应重排**，但当前主流
 <small>🔗 [github.com](https://github.com/herol3oy/austen): Show HN: I built an app to generate story relationships using Mermaidjs</small>
 
 
-| 🔥: 83 \| 💬: [27](https://news.ycombinator.com/item?id=43633298) \| 🗓️ 2025-04-09
+| 🔥: 91 \| 💬: [28](https://news.ycombinator.com/item?id=43633298) \| 🗓️ 2025-04-09
 
 
 <br />
 Austen是一款基于**Angular框架**开发的AI应用，通过**Mermaidjs图表**自动生成书籍角色关系图谱。用户可搜索Open Library的书籍，利用**AI分析角色关系**并生成可视化图表，支持导出为SVG/PNG格式。应用采用Supabase存储数据，提供公开/私有分享功能，技术栈包含AnalogJS、TypeScript和Cloudflare Pages。安装需配置DeepSeek和Supabase的API密钥，未来计划增加点赞功能和更多图表加载选项。项目开源，遵循MIT协议。
+
+---
+
+## <a name="18"></a>18. 如何有效减少屏幕使用时间 
+<small>🔗 [speedbumpapp.com](https://speedbumpapp.com/en/blog/how-to-reduce-screen-time/): A guide to reduce screen time</small>
+
+
+| 🔥: 85 \| 💬: [78](https://news.ycombinator.com/item?id=43630661) \| 🗓️ 2025-04-09
+
+
+<br />
+本文探讨了数字时代下平衡社交需求与健康生活的实用方法。**核心策略**包括：理解使用动机（如无聊、焦虑）、转变思维（从"少用手机"到"多做其他事"），以及利用系统自带工具（如iOS的**屏幕使用时间**和Android的数字健康功能）。文中推荐了多款辅助应用（如Forest、One Sec），并强调**物理边界**（如设立无屏幕区域）和习惯培养（如启用灰度模式）的重要性。关键在于持续实验不同方法，逐步建立健康习惯，抵御平台刻意设计的成瘾机制。
+
+---
+
+## <a name="19"></a>19. 视觉推理时代即将到来 
+<small>🔗 [arcturus-labs.com](http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/): Visual Reasoning Is Coming Soon</small>
+
+
+| 🔥: 85 \| 💬: [31](https://news.ycombinator.com/item?id=43633568) \| 🗓️ 2025-04-09
+
+
+<br />
+OpenAI最新发布的**GPT-4o**实现了真正的图像操控，模型能基于对话上下文直接生成图像，而非依赖外部工具。这一突破为**视觉推理**奠定了基础——未来模型将能通过图像模拟场景，提升空间和物理问题的解决能力。尽管当前尝试（如“玻璃杯与弹珠”实验）仍存在逻辑矛盾，但通过针对性训练（如合成数据与视频分析），模型将学会**可视化思考**，从而在机器人、设计等领域带来变革。
+
+---
+
+## <a name="20"></a>20. 19世纪日本老照片：穿越时光的浮世绘 
+<small>🔗 [cosmographia.substack.com](https://cosmographia.substack.com/p/photographs-of-old-japan): Photographs of 19th Century Japan</small>
+
+
+| 🔥: 82 \| 💬: [16](https://news.ycombinator.com/item?id=43631251) \| 🗓️ 2025-04-09
+
+
+<br />
+作者在爱丁堡通过**亨利与南希·罗辛收藏**的19世纪摄影集神游日本。这些拍摄于1860-1900年间的照片由多位摄影师创作，包括**费利斯·比托**等，经手工上色留存。画面涵盖江户末期至明治初期的市井生活、风景与建筑，如**日光东照宫**、京都祇园等，展现了彼时未被现代化侵蚀的日本风貌。文中感叹照片中人物早已逝去，若重返今日日本恐难辨认。所有影像藏于史密森尼学会亚洲艺术博物馆。
+
+---
+
+## <a name="21"></a>21. AI编码强制令正将开发者逼至崩溃边缘 
+<small>🔗 [leaddev.com](https://leaddev.com/culture/ai-coding-mandates-are-driving-developers-to-the-brink): AI coding mandates are driving developers to the brink</small>
+
+
+| 🔥: 68 \| 💬: [85](https://news.ycombinator.com/item?id=43633288) \| 🗓️ 2025-04-09
+
+
+<br />
+企业高管盲目推行**AI编码工具**，导致开发者疲于修复错误代码和技术债务。调查显示，75%的领导者认为AI部署成功，但仅45%员工认同。**GitHub Copilot**等工具虽提升效率，却频繁生成错误代码，增加调试时间。开发者抱怨管理层脱离实际，用无效指标（如代码采纳率）施压。少数公司通过灵活策略（如自主选择工具）实现40%效率提升，证明**开发者赋权**才是关键。AI浪潮中，协作与创新文化比强制命令更重要。
 
 ---
