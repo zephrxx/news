@@ -27,7 +27,7 @@ tags:
 <small>🔗 [echarts.apache.org](https://echarts.apache.org/en/index.html): Apache ECharts</small>
 
 
-| 🔥🔥: 915 \| 💬: [157](https://news.ycombinator.com/item?id=43624220) \| 🗓️ 2025-04-08
+| 🔥🔥: 992 \| 💬: [165](https://news.ycombinator.com/item?id=43624220) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -39,7 +39,7 @@ Apache ECharts 是一个基于 **声明式框架** 的 **Web可视化工具**，
 <small>🔗 [economist.com](https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant): Brazil's government-run payments system has become dominant</small>
 
 
-| 🔥🔥: 468 \| 💬: [553](https://news.ycombinator.com/item?id=43620279) \| 🗓️ 2025-04-08
+| 🔥🔥: 480 \| 💬: [563](https://news.ycombinator.com/item?id=43620279) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -51,7 +51,7 @@ Apache ECharts 是一个基于 **声明式框架** 的 **Web可视化工具**，
 <small>🔗 [tailscale.com](https://tailscale.com/blog/series-c): Tailscale has raised $160M</small>
 
 
-| 🔥🔥: 459 \| 💬: [201](https://news.ycombinator.com/item?id=43620141) \| 🗓️ 2025-04-08
+| 🔥🔥: 477 \| 💬: [206](https://news.ycombinator.com/item?id=43620141) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -63,7 +63,7 @@ Tailscale宣布获得由Accel领投的**1.6亿美元C轮融资**，用于推动*
 <small>🔗 [aftermath.site](https://aftermath.site/ai-video-game-development-art-vibe-coding-midjourney): An Overwhelmingly Negative and Demoralizing Force</small>
 
 
-| 🔥🔥: 295 \| 💬: [261](https://news.ycombinator.com/item?id=43619759) \| 🗓️ 2025-04-08
+| 🔥🔥: 304 \| 💬: [270](https://news.ycombinator.com/item?id=43619759) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -75,7 +75,7 @@ Tailscale宣布获得由Accel领投的**1.6亿美元C轮融资**，用于推动*
 <small>🔗 [theverge.com](https://www.theverge.com/meta/645012/meta-llama-4-maverick-benchmarks-gaming): Meta got caught gaming AI benchmarks</small>
 
 
-| 🔥🔥: 293 \| 💬: [138](https://news.ycombinator.com/item?id=43620452) \| 🗓️ 2025-04-08
+| 🔥🔥: 296 \| 💬: [138](https://news.ycombinator.com/item?id=43620452) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -87,7 +87,7 @@ Meta在发布**Llama 4**模型时，通过提交**优化版Maverick**参与LMAre
 <small>🔗 [yuxi-liu-wired.github.io](https://yuxi-liu-wired.github.io/essays/posts/cyc/): Obituary for Cyc</small>
 
 
-| 🔥🔥: 242 \| 💬: [119](https://news.ycombinator.com/item?id=43625474) \| 🗓️ 2025-04-08
+| 🔥🔥: 253 \| 💬: [127](https://news.ycombinator.com/item?id=43625474) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -99,7 +99,7 @@ Douglas Lenat历时40年的**Cyc项目**试图通过符号逻辑构建通用人�
 <small>🔗 [webkit.org](https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/): Better typography with text-wrap pretty</small>
 
 
-| 🔥🔥: 206 \| 💬: [87](https://news.ycombinator.com/item?id=43622703) \| 🗓️ 2025-04-08
+| 🔥🔥: 214 \| 💬: [89](https://news.ycombinator.com/item?id=43622703) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -111,7 +111,7 @@ Safari技术预览版216推出了**text-wrap: pretty**功能，首次在网页�
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/): Intelligence Evolved at Least Twice in Vertebrate Animals</small>
 
 
-| 🔥🔥: 201 \| 💬: [164](https://news.ycombinator.com/item?id=43619548) \| 🗓️ 2025-04-08
+| 🔥🔥: 204 \| 💬: [165](https://news.ycombinator.com/item?id=43619548) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -147,7 +147,7 @@ Safari技术预览版216推出了**text-wrap: pretty**功能，首次在网页�
 <small>🔗 [blog.vectorchord.ai](https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth): PostgreSQL Full-Text Search: Fast When Done Right (Debunking the Slow Myth)</small>
 
 
-| 🔥🔥: 127 \| 💬: [34](https://news.ycombinator.com/item?id=43627646) \| 🗓️ 2025-04-08
+| 🔥🔥: 146 \| 💬: [36](https://news.ycombinator.com/item?id=43627646) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -159,7 +159,7 @@ Neon的基准测试曾认为PostgreSQL内置全文搜索（**FTS**）性能不�
 <small>🔗 [netflixtechblog.com](https://netflixtechblog.com/how-netflix-accurately-attributes-ebpf-flow-logs-afe6d644a3bc): How Netflix Accurately Attributes eBPF Flow Logs</small>
 
 
-| 🔥🔥: 123 \| 💬: [46](https://news.ycombinator.com/item?id=43624888) \| 🗓️ 2025-04-08
+| 🔥🔥: 126 \| 💬: [50](https://news.ycombinator.com/item?id=43624888) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -171,7 +171,7 @@ Netflix利用**eBPF技术**大规模采集TCP流日志，但面临核心挑战�
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=V14ac9cRi9Q): Show HN: Connecting an IBM 3151 terminal to a mainframe [video]</small>
 
 
-| 🔥🔥: 118 \| 💬: [38](https://news.ycombinator.com/item?id=43621007) \| 🗓️ 2025-04-08
+| 🔥🔥: 119 \| 💬: [41](https://news.ycombinator.com/item?id=43621007) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -183,7 +183,7 @@ Netflix利用**eBPF技术**大规模采集TCP流日志，但面临核心挑战�
 <small>🔗 [github.com](https://github.com/coroot/coroot): Show HN: Coroot – eBPF-based, open source observability with actionable insights</small>
 
 
-| 🔥🔥: 105 \| 💬: [18](https://news.ycombinator.com/item?id=43623820) \| 🗓️ 2025-04-08
+| 🔥🔥: 107 \| 💬: [20](https://news.ycombinator.com/item?id=43623820) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -195,7 +195,7 @@ Coroot是一款开源的**APM与可观测性工具**，支持指标、日志、�
 <small>🔗 [badgeify.app](https://badgeify.app/): Show HN: Badgeify – Add Any App to Your Mac Menu Bar</small>
 
 
-| 🔥🔥: 101 \| 💬: [46](https://news.ycombinator.com/item?id=43620471) \| 🗓️ 2025-04-08
+| 🔥🔥: 102 \| 💬: [46](https://news.ycombinator.com/item?id=43620471) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -259,7 +259,7 @@ GitMatcher是一款通过**GitHub代码分析**精准匹配开发者的工具，
 <small>🔗 [grossack.site](https://grossack.site/2025/04/08/analytic-combinatorics-example.html): Analytic Combinatorics – A Worked Example</small>
 
 
-| 🔥: 81 \| 💬: [41](https://news.ycombinator.com/item?id=43624293) \| 🗓️ 2025-04-08
+| 🔥: 81 \| 💬: [44](https://news.ycombinator.com/item?id=43624293) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -271,7 +271,7 @@ GitMatcher是一款通过**GitHub代码分析**精准匹配开发者的工具，
 <small>🔗 [allaboutbirds.org](https://www.allaboutbirds.org/news/how-to-recognize-woodpeckers-by-their-drumming-sounds/): How to Recognize Woodpeckers by Their Drumming Sounds</small>
 
 
-| 🔥: 79 \| 💬: [25](https://news.ycombinator.com/item?id=43625864) \| 🗓️ 2025-04-08
+| 🔥: 80 \| 💬: [27](https://news.ycombinator.com/item?id=43625864) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -283,7 +283,7 @@ GitMatcher是一款通过**GitHub代码分析**精准匹配开发者的工具，
 <small>🔗 [blog.google](https://blog.google/products/gemini/deep-research-gemini-2-5-pro-experimental/): Deep Research is now available on Gemini 2.5 Pro Experimental</small>
 
 
-| 🔥: 79 \| 💬: [23](https://news.ycombinator.com/item?id=43627354) \| 🗓️ 2025-04-08
+| 🔥: 80 \| 💬: [23](https://news.ycombinator.com/item?id=43627354) \| 🗓️ 2025-04-08
 
 
 <br />
