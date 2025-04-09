@@ -27,7 +27,7 @@ tags:
 <small>🔗 [echarts.apache.org](https://echarts.apache.org/en/index.html): Apache ECharts</small>
 
 
-| 🔥🔥: 603 \| 💬: [120](https://news.ycombinator.com/item?id=43624220) \| 🗓️ 2025-04-08
+| 🔥🔥: 663 \| 💬: [132](https://news.ycombinator.com/item?id=43624220) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -39,7 +39,7 @@ Apache ECharts 是一个基于 **声明式框架** 的 **Web可视化工具**，
 <small>🔗 [economist.com](https://www.economist.com/the-americas/2025/04/03/brazils-government-run-payments-system-has-become-dominant): Brazil's government-run payments system has become dominant</small>
 
 
-| 🔥🔥: 376 \| 💬: [468](https://news.ycombinator.com/item?id=43620279) \| 🗓️ 2025-04-08
+| 🔥🔥: 402 \| 💬: [492](https://news.ycombinator.com/item?id=43620279) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -51,7 +51,7 @@ Apache ECharts 是一个基于 **声明式框架** 的 **Web可视化工具**，
 <small>🔗 [tailscale.com](https://tailscale.com/blog/series-c): Tailscale has raised $160M</small>
 
 
-| 🔥🔥: 329 \| 💬: [172](https://news.ycombinator.com/item?id=43620141) \| 🗓️ 2025-04-08
+| 🔥🔥: 357 \| 💬: [177](https://news.ycombinator.com/item?id=43620141) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -63,7 +63,7 @@ Tailscale宣布获得由Accel领投的**1.6亿美元C轮融资**，用于推动*
 <small>🔗 [theverge.com](https://www.theverge.com/meta/645012/meta-llama-4-maverick-benchmarks-gaming): Meta got caught gaming AI benchmarks</small>
 
 
-| 🔥🔥: 267 \| 💬: [130](https://news.ycombinator.com/item?id=43620452) \| 🗓️ 2025-04-08
+| 🔥🔥: 273 \| 💬: [132](https://news.ycombinator.com/item?id=43620452) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -75,7 +75,7 @@ Meta在发布**Llama 4**模型时，通过提交**优化版Maverick**参与LMAre
 <small>🔗 [aftermath.site](https://aftermath.site/ai-video-game-development-art-vibe-coding-midjourney): An Overwhelmingly Negative and Demoralizing Force</small>
 
 
-| 🔥🔥: 227 \| 💬: [191](https://news.ycombinator.com/item?id=43619759) \| 🗓️ 2025-04-08
+| 🔥🔥: 242 \| 💬: [202](https://news.ycombinator.com/item?id=43619759) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -87,7 +87,7 @@ Meta在发布**Llama 4**模型时，通过提交**优化版Maverick**参与LMAre
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/intelligence-evolved-at-least-twice-in-vertebrate-animals-20250407/): Intelligence Evolved at Least Twice in Vertebrate Animals</small>
 
 
-| 🔥🔥: 180 \| 💬: [137](https://news.ycombinator.com/item?id=43619548) \| 🗓️ 2025-04-08
+| 🔥🔥: 183 \| 💬: [146](https://news.ycombinator.com/item?id=43619548) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -99,7 +99,7 @@ Meta在发布**Llama 4**模型时，通过提交**优化版Maverick**参与LMAre
 <small>🔗 [yuxi-liu-wired.github.io](https://yuxi-liu-wired.github.io/essays/posts/cyc/): Obituary for Cyc</small>
 
 
-| 🔥🔥: 160 \| 💬: [57](https://news.ycombinator.com/item?id=43625474) \| 🗓️ 2025-04-08
+| 🔥🔥: 181 \| 💬: [74](https://news.ycombinator.com/item?id=43625474) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -111,7 +111,7 @@ Douglas Lenat历时40年的**Cyc项目**试图通过符号逻辑构建通用人�
 <small>🔗 [unplannedobsolescence.com](https://unplannedobsolescence.com/blog/less-htmx-is-more/): Less Htmx Is More</small>
 
 
-| 🔥🔥: 158 \| 💬: [108](https://news.ycombinator.com/item?id=43619581) \| 🗓️ 2025-04-08
+| 🔥🔥: 161 \| 💬: [109](https://news.ycombinator.com/item?id=43619581) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -123,7 +123,7 @@ Douglas Lenat历时40年的**Cyc项目**试图通过符号逻辑构建通用人�
 <small>🔗 [news.sky.com](https://news.sky.com/story/unstoppable-force-of-solar-power-propels-world-to-40-clean-electricity-report-finds-13344230): 'Unstoppable force' of solar power propels world to 40% clean electricity</small>
 
 
-| 🔥🔥: 156 \| 💬: [178](https://news.ycombinator.com/item?id=43620007) \| 🗓️ 2025-04-08
+| 🔥🔥: 158 \| 💬: [183](https://news.ycombinator.com/item?id=43620007) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -135,7 +135,7 @@ Douglas Lenat历时40年的**Cyc项目**试图通过符号逻辑构建通用人�
 <small>🔗 [webkit.org](https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/): Better typography with text-wrap pretty</small>
 
 
-| 🔥🔥: 138 \| 💬: [68](https://news.ycombinator.com/item?id=43622703) \| 🗓️ 2025-04-08
+| 🔥🔥: 156 \| 💬: [75](https://news.ycombinator.com/item?id=43622703) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -147,7 +147,7 @@ Safari技术预览版216推出了**text-wrap: pretty**功能，首次在网页�
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=V14ac9cRi9Q): Show HN: Connecting an IBM 3151 terminal to a mainframe [video]</small>
 
 
-| 🔥🔥: 115 \| 💬: [36](https://news.ycombinator.com/item?id=43621007) \| 🗓️ 2025-04-08
+| 🔥🔥: 115 \| 💬: [37](https://news.ycombinator.com/item?id=43621007) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -159,7 +159,7 @@ Safari技术预览版216推出了**text-wrap: pretty**功能，首次在网页�
 <small>🔗 [matthewsinclair.com](https://matthewsinclair.com/blog/0177-what-if-we-taxed-advertising): What if we taxed advertising?</small>
 
 
-| 🔥: 98 \| 💬: [69](https://news.ycombinator.com/item?id=43620407) \| 🗓️ 2025-04-08
+| 🔥: 98 \| 💬: [70](https://news.ycombinator.com/item?id=43620407) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -171,7 +171,7 @@ Safari技术预览版216推出了**text-wrap: pretty**功能，首次在网页�
 <small>🔗 [badgeify.app](https://badgeify.app/): Show HN: Badgeify – Add Any App to Your Mac Menu Bar</small>
 
 
-| 🔥: 87 \| 💬: [43](https://news.ycombinator.com/item?id=43620471) \| 🗓️ 2025-04-08
+| 🔥: 90 \| 💬: [43](https://news.ycombinator.com/item?id=43620471) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -195,7 +195,19 @@ Safari技术预览版216推出了**text-wrap: pretty**功能，首次在网页�
 
 ---
 
-## <a name="15"></a>15. 特朗普连任如何让数字主权成为欧洲优先议题 
+## <a name="15"></a>15. Netflix如何精准追踪eBPF网络流日志 
+<small>🔗 [netflixtechblog.com](https://netflixtechblog.com/how-netflix-accurately-attributes-ebpf-flow-logs-afe6d644a3bc): How Netflix Accurately Attributes eBPF Flow Logs</small>
+
+
+| 🔥: 83 \| 💬: [29](https://news.ycombinator.com/item?id=43624888) \| 🗓️ 2025-04-08
+
+
+<br />
+Netflix利用**eBPF技术**大规模采集TCP流日志，但面临核心挑战：如何将动态分配的IP地址准确关联到**微服务身份**。早期方案依赖IP变更事件流，常因延迟导致错误归因。新方法通过**双阶段处理**实现精准追踪：1) 本地IP由FlowExporter直接通过主机证书或容器平台eBPF映射实时标记；2) 远程IP由FlowCollector基于时间范围哈希表和历史流数据推导，并通过Kafka跨节点同步。针对跨区域流量，采用CIDR树状路由转发。最终验证显示，新系统彻底消除了错误归因，为依赖分析提供可靠数据基础。
+
+---
+
+## <a name="16"></a>16. 特朗普连任如何让数字主权成为欧洲优先议题 
 <small>🔗 [xwiki.com](https://xwiki.com/en/Blog/European-digital-sovereignty/): How Trump's second term just made digital sovereignty a European priority</small>
 
 
@@ -207,11 +219,11 @@ Safari技术预览版216推出了**text-wrap: pretty**功能，首次在网页�
 
 ---
 
-## <a name="16"></a>16. 我用代码匹配开发者，告别LinkedIn标题党 
+## <a name="17"></a>17. 我用代码匹配开发者，告别LinkedIn标题党 
 <small>🔗 [gitmatcher.com](https://gitmatcher.com/): Show HN: I built a tool to find devs based on code, not LinkedIn titles</small>
 
 
-| 🔥: 76 \| 💬: [66](https://news.ycombinator.com/item?id=43621350) \| 🗓️ 2025-04-08
+| 🔥: 80 \| 💬: [66](https://news.ycombinator.com/item?id=43621350) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -219,23 +231,11 @@ GitMatcher是一款通过**GitHub代码分析**精准匹配开发者的工具，
 
 ---
 
-## <a name="17"></a>17. Netflix如何精准追踪eBPF网络流日志 
-<small>🔗 [netflixtechblog.com](https://netflixtechblog.com/how-netflix-accurately-attributes-ebpf-flow-logs-afe6d644a3bc): How Netflix Accurately Attributes eBPF Flow Logs</small>
-
-
-| 🔥: 73 \| 💬: [24](https://news.ycombinator.com/item?id=43624888) \| 🗓️ 2025-04-08
-
-
-<br />
-Netflix利用**eBPF技术**大规模采集TCP流日志，但面临核心挑战：如何将动态分配的IP地址准确关联到**微服务身份**。早期方案依赖IP变更事件流，常因延迟导致错误归因。新方法通过**双阶段处理**实现精准追踪：1) 本地IP由FlowExporter直接通过主机证书或容器平台eBPF映射实时标记；2) 远程IP由FlowCollector基于时间范围哈希表和历史流数据推导，并通过Kafka跨节点同步。针对跨区域流量，采用CIDR树状路由转发。最终验证显示，新系统彻底消除了错误归因，为依赖分析提供可靠数据基础。
-
----
-
 ## <a name="18"></a>18. 开源可观测性工具Coroot：基于eBPF的智能监控平台 
 <small>🔗 [github.com](https://github.com/coroot/coroot): Show HN: Coroot – eBPF-based, open source observability with actionable insights</small>
 
 
-| 🔥: 69 \| 💬: [13](https://news.ycombinator.com/item?id=43623820) \| 🗓️ 2025-04-08
+| 🔥: 78 \| 💬: [14](https://news.ycombinator.com/item?id=43623820) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -247,7 +247,7 @@ Coroot是一款开源的**APM与可观测性工具**，支持指标、日志、�
 <small>🔗 [phoronix.com](https://www.phoronix.com/news/IBM-z17-Telum-2-Announced): IBM Announces the Z17 Mainframe Powered by Telum II Processors</small>
 
 
-| 🔥: 64 \| 💬: [42](https://news.ycombinator.com/item?id=43620257) \| 🗓️ 2025-04-08
+| 🔥: 66 \| 💬: [44](https://news.ycombinator.com/item?id=43620257) \| 🗓️ 2025-04-08
 
 
 <br />
@@ -259,7 +259,7 @@ IBM于2025年4月8日正式发布新一代**z17大型机**，搭载**Telum II处
 <small>🔗 [grossack.site](https://grossack.site/2025/04/08/analytic-combinatorics-example.html): Analytic Combinatorics – A Worked Example</small>
 
 
-| 🔥: 64 \| 💬: [30](https://news.ycombinator.com/item?id=43624293) \| 🗓️ 2025-04-08
+| 🔥: 66 \| 💬: [34](https://news.ycombinator.com/item?id=43624293) \| 🗓️ 2025-04-08
 
 
 <br />
