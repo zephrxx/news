@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共21条，具体内容您往下读...
+总共22条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/09/trump-announces-90-day-tariff-pause-for-at-least-some-countries.html): Trump temporarily drops tariffs to 10% for most countries</small>
 
 
-| 🔥🔥: 509 \| 💬: [982](https://news.ycombinator.com/item?id=43634806) \| 🗓️ 2025-04-09
+| 🔥🔥: 537 \| 💬: [1039](https://news.ycombinator.com/item?id=43634806) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [threadreaderapp.com](https://threadreaderapp.com/thread/1909741170953273353.html): How much do you think it costs to make a pair of Nike shoes in Asia?</small>
 
 
-| 🔥🔥: 366 \| 💬: [532](https://news.ycombinator.com/item?id=43631543) \| 🗓️ 2025-04-09
+| 🔥🔥: 389 \| 💬: [561](https://news.ycombinator.com/item?id=43631543) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/): The Agent2Agent Protocol (A2A)</small>
 
 
-| 🔥🔥: 360 \| 💬: [203](https://news.ycombinator.com/item?id=43631381) \| 🗓️ 2025-04-09
+| 🔥🔥: 366 \| 💬: [206](https://news.ycombinator.com/item?id=43631381) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [blog.google](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/): Ironwood: The first Google TPU for the age of inference</small>
 
 
-| 🔥🔥: 325 \| 💬: [125](https://news.ycombinator.com/item?id=43631274) \| 🗓️ 2025-04-09
+| 🔥🔥: 336 \| 💬: [127](https://news.ycombinator.com/item?id=43631274) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/03/27/cbp-cell-phones-devices-traveling-us/): How to lock down your phone if you're traveling to the U.S.</small>
 
 
-| 🔥🔥: 253 \| 💬: [258](https://news.ycombinator.com/item?id=43630624) \| 🗓️ 2025-04-09
+| 🔥🔥: 254 \| 💬: [261](https://news.ycombinator.com/item?id=43630624) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [stratechery.com](https://stratechery.com/2025/american-disruption/): American Disruption</small>
 
 
-| 🔥🔥: 206 \| 💬: [179](https://news.ycombinator.com/item?id=43631276) \| 🗓️ 2025-04-09
+| 🔥🔥: 210 \| 💬: [180](https://news.ycombinator.com/item?id=43631276) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [spacetimedb.com](https://spacetimedb.com/): SpacetimeDB</small>
 
 
-| 🔥🔥: 192 \| 💬: [101](https://news.ycombinator.com/item?id=43631822) \| 🗓️ 2025-04-09
+| 🔥🔥: 203 \| 💬: [106](https://news.ycombinator.com/item?id=43631822) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -123,7 +123,7 @@ SpacetimeDB的核心创新在于**完整记录事务历史**，允许用户将�
 <small>🔗 [livesys.se](https://livesys.se/posts/the-chroot-technique/): The chroot Technique – a Swiss army multitool for Linux systems</small>
 
 
-| 🔥🔥: 186 \| 💬: [81](https://news.ycombinator.com/item?id=43632379) \| 🗓️ 2025-04-09
+| 🔥🔥: 191 \| 💬: [85](https://news.ycombinator.com/item?id=43632379) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -131,23 +131,11 @@ SpacetimeDB的核心创新在于**完整记录事务历史**，允许用户将�
 
 ---
 
-## <a name="10"></a>10. 威士忌（Whisky）项目正式停止维护 
-<small>🔗 [docs.getwhisky.app](https://docs.getwhisky.app/maintenance-notice): Whisky is no longer actively maintained</small>
-
-
-| 🔥🔥: 172 \| 💬: [70](https://news.ycombinator.com/item?id=43631230) \| 🗓️ 2025-04-09
-
-
-<br />
-开发者Isaac宣布**Whisky**将不再更新，包括对Wine 8+的适配及特定应用（如Steam）的修复，仅可能在macOS重大兼容性问题时提供零星维护。**项目终止主因**是开发者兴趣减退、时间不足，且认为Whisky对**Wine社区**无实质贡献，甚至可能损害CodeWeavers（CrossOver开发商）的盈利，进而影响macOS平台Wine生态。建议用户转向付费方案**CrossOver**，并澄清其许可模式非订阅制。Isaac已转向其他项目，强调此举无关阴谋，仅为理性选择。
-
----
-
-## <a name="11"></a>11. 基本收入试点项目：研究结果揭晓 
+## <a name="10"></a>10. 基本收入试点项目：研究结果揭晓 
 <small>🔗 [pilotprojekt-grundeinkommen.de](https://www.pilotprojekt-grundeinkommen.de/en): Basic Income Pilot Project: Study results</small>
 
 
-| 🔥🔥: 166 \| 💬: [182](https://news.ycombinator.com/item?id=43636757) \| 🗓️ 2025-04-09
+| 🔥🔥: 179 \| 💬: [200](https://news.ycombinator.com/item?id=43636757) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -155,11 +143,23 @@ SpacetimeDB的核心创新在于**完整记录事务历史**，允许用户将�
 
 ---
 
+## <a name="11"></a>11. 威士忌（Whisky）项目正式停止维护 
+<small>🔗 [docs.getwhisky.app](https://docs.getwhisky.app/maintenance-notice): Whisky is no longer actively maintained</small>
+
+
+| 🔥🔥: 172 \| 💬: [71](https://news.ycombinator.com/item?id=43631230) \| 🗓️ 2025-04-09
+
+
+<br />
+开发者Isaac宣布**Whisky**将不再更新，包括对Wine 8+的适配及特定应用（如Steam）的修复，仅可能在macOS重大兼容性问题时提供零星维护。**项目终止主因**是开发者兴趣减退、时间不足，且认为Whisky对**Wine社区**无实质贡献，甚至可能损害CodeWeavers（CrossOver开发商）的盈利，进而影响macOS平台Wine生态。建议用户转向付费方案**CrossOver**，并澄清其许可模式非订阅制。Isaac已转向其他项目，强调此举无关阴谋，仅为理性选择。
+
+---
+
 ## <a name="12"></a>12. 用内容安全策略加固Firefox前端安全 
 <small>🔗 [attackanddefense.dev](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html): Hardening the Firefox Front End with Content Security Policies</small>
 
 
-| 🔥🔥: 165 \| 💬: [59](https://news.ycombinator.com/item?id=43630388) \| 🗓️ 2025-04-09
+| 🔥🔥: 168 \| 💬: [60](https://news.ycombinator.com/item?id=43630388) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -171,7 +171,7 @@ Firefox用户界面（UI）采用HTML、CSS和JavaScript等Web技术构建，但
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/08/fake-job-seekers-use-ai-to-interview-for-remote-jobs-tech-ceos-say.html): Fake job seekers are flooding US companies that are hiring for remote positions</small>
 
 
-| 🔥🔥: 164 \| 💬: [216](https://news.ycombinator.com/item?id=43631384) \| 🗓️ 2025-04-09
+| 🔥🔥: 165 \| 💬: [222](https://news.ycombinator.com/item?id=43631384) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -183,7 +183,7 @@ Firefox用户界面（UI）采用HTML、CSS和JavaScript等Web技术构建，但
 <small>🔗 [kittenlabs.de](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/): GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better</small>
 
 
-| 🔥🔥: 140 \| 💬: [34](https://news.ycombinator.com/item?id=43635295) \| 🗓️ 2025-04-09
+| 🔥🔥: 151 \| 💬: [35](https://news.ycombinator.com/item?id=43635295) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -191,23 +191,11 @@ Firefox用户界面（UI）采用HTML、CSS和JavaScript等Web技术构建，但
 
 ---
 
-## <a name="15"></a>15. man页面很强大，问题出在阅读工具上 
-<small>🔗 [whynothugo.nl](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/): Man pages are great, man readers are the problem</small>
-
-
-| 🔥🔥: 116 \| 💬: [139](https://news.ycombinator.com/item?id=43631672) \| 🗓️ 2025-04-09
-
-
-<br />
-man页面本身支持**超链接**和**窗口自适应重排**，但当前主流的man阅读工具（如`man(1)`配合`less(1)`）并未实现这些功能。man页面采用**语义化标记**的`mdoc(7)`格式，其中`.Xr`和`.Sx`宏本可生成交叉引用链接（HTML转换时已实现），但终端阅读器仅渲染为纯文本。文章呼吁开发能原生解析man格式、支持链接跳转和动态排版的现代阅读工具。
-
----
-
-## <a name="16"></a>16. 19世纪日本老照片：穿越时光的浮世绘 
+## <a name="15"></a>15. 19世纪日本老照片：穿越时光的浮世绘 
 <small>🔗 [cosmographia.substack.com](https://cosmographia.substack.com/p/photographs-of-old-japan): Photographs of 19th Century Japan</small>
 
 
-| 🔥🔥: 102 \| 💬: [21](https://news.ycombinator.com/item?id=43631251) \| 🗓️ 2025-04-09
+| 🔥🔥: 118 \| 💬: [25](https://news.ycombinator.com/item?id=43631251) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -215,15 +203,27 @@ man页面本身支持**超链接**和**窗口自适应重排**，但当前主流
 
 ---
 
-## <a name="17"></a>17. 2025年氟化物与儿童智商研究的重大缺陷 
-<small>🔗 [osf.io](https://osf.io/preprints/osf/zhm54_v3): Major Flaws in 2025 Meta-Analysis on Fluoride and Children IQ Scores</small>
+## <a name="16"></a>16. man页面很强大，问题出在阅读工具上 
+<small>🔗 [whynothugo.nl](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/): Man pages are great, man readers are the problem</small>
 
 
-| 🔥: 97 \| 💬: [75](https://news.ycombinator.com/item?id=43633330) \| 🗓️ 2025-04-09
+| 🔥🔥: 117 \| 💬: [141](https://news.ycombinator.com/item?id=43631672) \| 🗓️ 2025-04-09
 
 
 <br />
-该分析指出2025年一项关于**氟化物暴露**与**儿童智商**关联的元分析存在关键问题，包括**数据偏差**和方法论缺陷。研究未能充分控制混杂变量，且样本代表性不足，导致结论可信度存疑。需谨慎解读其结果对公共卫生政策的影响。
+man页面本身支持**超链接**和**窗口自适应重排**，但当前主流的man阅读工具（如`man(1)`配合`less(1)`）并未实现这些功能。man页面采用**语义化标记**的`mdoc(7)`格式，其中`.Xr`和`.Sx`宏本可生成交叉引用链接（HTML转换时已实现），但终端阅读器仅渲染为纯文本。文章呼吁开发能原生解析man格式、支持链接跳转和动态排版的现代阅读工具。
+
+---
+
+## <a name="17"></a>17. Meta前高管指控公司危害美国安全 向中共提供用户数据 
+<small>🔗 [thehill.com](https://thehill.com/homenews/senate/5241043-meta-executives-undermine-national-security/): Whistleblower tells senators that Meta undermined U.S. security, interests</small>
+
+
+| 🔥🔥: 103 \| 💬: [11](https://news.ycombinator.com/item?id=43637622) \| 🗓️ 2025-04-09
+
+
+<br />
+Meta前全球公共政策总监Sarah Wynn-Williams在参议院听证会上指控，该公司高管为拓展中国市场**多次损害美国国家安全**，包括向中共提供**美国用户数据**并协助开发审查工具。她称Meta高管向员工、股东和国会隐瞒与中共的合作，并拥有文件证据。Meta驳斥其证词"脱离现实"，强调未在中国运营服务。参议员Hawley指出Meta试图通过法律威胁阻止听证会。此外，Wynn-Williams揭露Meta曾计划建设中美海底光缆（后中止），并删除在华异见者账号。她已向监管机构提交举报，要求调查Meta在华活动。
 
 ---
 
@@ -231,7 +231,7 @@ man页面本身支持**超链接**和**窗口自适应重排**，但当前主流
 <small>🔗 [github.com](https://github.com/herol3oy/austen): Show HN: I built an app to generate story relationships using Mermaidjs</small>
 
 
-| 🔥: 96 \| 💬: [28](https://news.ycombinator.com/item?id=43633298) \| 🗓️ 2025-04-09
+| 🔥🔥: 101 \| 💬: [29](https://news.ycombinator.com/item?id=43633298) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -239,11 +239,23 @@ Austen是一款基于**Angular框架**开发的AI应用，通过**Mermaidjs图�
 
 ---
 
-## <a name="19"></a>19. 视觉推理时代即将到来 
+## <a name="19"></a>19. 2025年氟化物与儿童智商研究的重大缺陷 
+<small>🔗 [osf.io](https://osf.io/preprints/osf/zhm54_v3): Major Flaws in 2025 Meta-Analysis on Fluoride and Children IQ Scores</small>
+
+
+| 🔥: 98 \| 💬: [75](https://news.ycombinator.com/item?id=43633330) \| 🗓️ 2025-04-09
+
+
+<br />
+该分析指出2025年一项关于**氟化物暴露**与**儿童智商**关联的元分析存在关键问题，包括**数据偏差**和方法论缺陷。研究未能充分控制混杂变量，且样本代表性不足，导致结论可信度存疑。需谨慎解读其结果对公共卫生政策的影响。
+
+---
+
+## <a name="20"></a>20. 视觉推理时代即将到来 
 <small>🔗 [arcturus-labs.com](http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/): Visual Reasoning Is Coming Soon</small>
 
 
-| 🔥: 92 \| 💬: [31](https://news.ycombinator.com/item?id=43633568) \| 🗓️ 2025-04-09
+| 🔥: 96 \| 💬: [33](https://news.ycombinator.com/item?id=43633568) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -251,11 +263,11 @@ OpenAI最新发布的**GPT-4o**实现了真正的图像操控，模型能基于�
 
 ---
 
-## <a name="20"></a>20. 如何有效减少屏幕使用时间 
+## <a name="21"></a>21. 如何有效减少屏幕使用时间 
 <small>🔗 [speedbumpapp.com](https://speedbumpapp.com/en/blog/how-to-reduce-screen-time/): A guide to reduce screen time</small>
 
 
-| 🔥: 90 \| 💬: [79](https://news.ycombinator.com/item?id=43630661) \| 🗓️ 2025-04-09
+| 🔥: 94 \| 💬: [84](https://news.ycombinator.com/item?id=43630661) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -263,11 +275,11 @@ OpenAI最新发布的**GPT-4o**实现了真正的图像操控，模型能基于�
 
 ---
 
-## <a name="21"></a>21. AI编码强制令正将开发者逼至崩溃边缘 
+## <a name="22"></a>22. AI编码强制令正将开发者逼至崩溃边缘 
 <small>🔗 [leaddev.com](https://leaddev.com/culture/ai-coding-mandates-are-driving-developers-to-the-brink): AI coding mandates are driving developers to the brink</small>
 
 
-| 🔥: 68 \| 💬: [86](https://news.ycombinator.com/item?id=43633288) \| 🗓️ 2025-04-09
+| 🔥: 69 \| 💬: [86](https://news.ycombinator.com/item?id=43633288) \| 🗓️ 2025-04-09
 
 
 <br />
