@@ -8,26 +8,38 @@ tags:
 ---
 
 
-1. 黑客新闻的“拥抱式宕机”实验；
 1. 加菲猫没有加菲猫；
+1. 黑客新闻的“拥抱式宕机”实验；
+1. Python PEP 750 模板字符串（t-strings）正式通过；
 1. 高效神器：BUSY Bar智能生产力工具；
 1. 睡眠为何不可或缺？科学家揭示关键机制；
-1. 用.localhost域名简化本地开发；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
 ![](/assets/images/hacker_news.jpg)
 
 
-## <a name="1"></a>1. 黑客新闻的“拥抱式宕机”实验 
+## <a name="1"></a>1. 加菲猫没有加菲猫 
+<small>🔗 [garfieldminusgarfield.net](https://garfieldminusgarfield.net): Garfield Minus Garfield</small>
+
+
+| 🔥🔥: 420 \| 💬: [142](https://news.ycombinator.com/item?id=43646095) \| 🗓️ 2025-04-10
+
+
+<br />
+该网站通过**删除原版《加菲猫》漫画中的加菲猫**，展现主人**乔恩·阿布库尔**的孤独与存在主义焦虑。作品以美国郊区为背景，刻画了一个与抑郁抗争的普通人的内心世界。网站由Dan Walsh创建，提供漫画存档、FAQ及作者社交平台链接，并保留了原版漫画的访问入口。
+
+---
+
+## <a name="2"></a>2. 黑客新闻的“拥抱式宕机”实验 
 <small>🔗 [susam.net](https://susam.net/hn-bell.html): Hacker News Hug of Deaf</small>
 
 
-| 🔥🔥: 401 \| 💬: [94](https://news.ycombinator.com/item?id=43642123) \| 🗓️ 2025-04-10
+| 🔥🔥: 407 \| 💬: [97](https://news.ycombinator.com/item?id=43642123) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -37,59 +49,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. 加菲猫没有加菲猫 
-<small>🔗 [garfieldminusgarfield.net](https://garfieldminusgarfield.net): Garfield Minus Garfield</small>
-
-
-| 🔥🔥: 386 \| 💬: [129](https://news.ycombinator.com/item?id=43646095) \| 🗓️ 2025-04-10
-
-
-<br />
-该网站通过**删除原版《加菲猫》漫画中的加菲猫**，展现主人**乔恩·阿布库尔**的孤独与存在主义焦虑。作品以美国郊区为背景，刻画了一个与抑郁抗争的普通人的内心世界。网站由Dan Walsh创建，提供漫画存档、FAQ及作者社交平台链接，并保留了原版漫画的访问入口。
-
----
-
-## <a name="3"></a>3. 高效神器：BUSY Bar智能生产力工具 
-<small>🔗 [busy.bar](https://busy.bar): Busy Bar</small>
-
-
-| 🔥🔥: 211 \| 💬: [114](https://news.ycombinator.com/item?id=43643534) \| 🗓️ 2025-04-10
-
-
-<br />
-BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器**、**分心拦截功能**（支持手机/电脑），并支持智能家居联动（通过Matter协议连接Google Home/Apple Home）。设备完全开源，提供**开发者友好**的HTTP API及多语言库（Python/Go/JavaScript），可自定义状态信息、自动化流程，并具备跨平台同步能力。内置Pomodoro工作法，自动屏蔽社交媒体通知，甚至支持硬核模式彻底锁定干扰应用。
-
----
-
-## <a name="4"></a>4. 睡眠为何不可或缺？科学家揭示关键机制 
-<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00964-w): Sleep is essential – researchers are trying to work out why</small>
-
-
-| 🔥🔥: 206 \| 💬: [146](https://news.ycombinator.com/item?id=43643390) \| 🗓️ 2025-04-10
-
-
-<br />
-研究表明，**睡眠**的核心功能远超大脑休息，涉及全身**稳态调节**。哈佛团队发现，果蝇和小鼠长期缺眠会因肠道内**活性氧（ROS）**积累而死亡，揭示睡眠对代谢平衡的关键作用。同时，睡眠通过清除脑内毒素（如β淀粉样蛋白）、重置神经元突触及巩固记忆维持大脑功能。争议性研究指出，深度睡眠时脑脊液流动加速排毒，但新实验显示睡眠中清除率可能降低。此外，无中枢神经系统的水螅也需睡眠，暗示其进化意义深远。睡眠不足会扰乱激素分泌，增加心血管疾病风险，凸显其生理必要性。
-
----
-
-## <a name="5"></a>5. 用.localhost域名简化本地开发 
-<small>🔗 [inclouds.space](https://inclouds.space/localhost-domains): .localhost Domains</small>
-
-
-| 🔥🔥: 181 \| 💬: [133](https://news.ycombinator.com/item?id=43644043) \| 🗓️ 2025-04-10
-
-
-<br />
-作者Charles Chamberlain分享了一种为本地运行的Web应用配置**私有自定义域名**的方法。通过修改`/etc/hosts`将域名指向`127.0.0.1`，并利用**Caddy服务器**实现端口转发（如`appname.localhost`映射到`localhost:5050`），避免了记忆复杂端口号。当前方案需手动配置多个文件，但作者希望未来能通过单条命令实现自动化。文末提到用户cristóbal提出的`dnsmasq`方案进一步优化了流程。
-
----
-
-## <a name="6"></a>6. Python PEP 750 模板字符串（t-strings）正式通过 
+## <a name="3"></a>3. Python PEP 750 模板字符串（t-strings）正式通过 
 <small>🔗 [peps.python.org](https://peps.python.org/pep-0750/): PEP 750 – Template Strings (t-strings) have been accepted</small>
 
 
-| 🔥🔥: 173 \| 💬: [74](https://news.ycombinator.com/item?id=43647716) \| 🗓️ 2025-04-10
+| 🔥🔥: 242 \| 💬: [118](https://news.ycombinator.com/item?id=43647716) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -97,47 +61,47 @@ Python 核心团队通过了 **PEP 750**，引入了一种新的字符串前缀 
 
 ---
 
-## <a name="7"></a>7. 美国正倒退至污染最严重的时代 
-<small>🔗 [theatlantic.com](https://www.theatlantic.com/health/archive/2025/04/air-pollution-trump-administration/682361/): America Is Backsliding Toward Its Most Polluted Era</small>
+## <a name="4"></a>4. 高效神器：BUSY Bar智能生产力工具 
+<small>🔗 [busy.bar](https://busy.bar): Busy Bar</small>
 
 
-| 🔥🔥: 134 \| 💬: [180](https://news.ycombinator.com/item?id=43643243) \| 🗓️ 2025-04-10
-
-
-<br />
-文章指出，**空气污染**对人体危害极大，可引发哮喘、心脏病、痴呆等疾病，甚至影响胎儿发育。尽管美国空气质量有所改善，但**特朗普政府**正放松环保法规，撤销拜登时代的颗粒物标准，可能导致每年数千人过早死亡。环保署削减科研经费，掩盖污染危害，同时**野火加剧**进一步恶化空气。专家警告，这将使美国重回高污染时代，损害公众健康与经济。
-
----
-
-## <a name="8"></a>8. 椭圆式Python编程的艺术 
-<small>🔗 [susam.net](https://susam.net/elliptical-python-programming.html): Elliptical Python Programming</small>
-
-
-| 🔥🔥: 127 \| 💬: [19](https://news.ycombinator.com/item?id=43643292) \| 🗓️ 2025-04-10
+| 🔥🔥: 227 \| 💬: [119](https://news.ycombinator.com/item?id=43643534) \| 🗓️ 2025-04-10
 
 
 <br />
-作者Susam Pal以幽默笔调探讨Python的**极简哲学**，通过`(...==...)`等奇特语法生成数字，调侃编程中“**唯一明显方式**”的禅意。文章演示了如何用**预减运算符**和括号构造代码，甚至建议重映射Tab键来输入省略号，但强调**生产代码应保持可读性**。最后提醒：此类代码仅供娱乐，真实项目需添加日志，并遵循“为人编写，而非机器”的原则。
+BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器**、**分心拦截功能**（支持手机/电脑），并支持智能家居联动（通过Matter协议连接Google Home/Apple Home）。设备完全开源，提供**开发者友好**的HTTP API及多语言库（Python/Go/JavaScript），可自定义状态信息、自动化流程，并具备跨平台同步能力。内置Pomodoro工作法，自动屏蔽社交媒体通知，甚至支持硬核模式彻底锁定干扰应用。
 
 ---
 
-## <a name="9"></a>9. 为何要敲击帕尔马干酪？ 
-<small>🔗 [cheeseprofessor.com](https://www.cheeseprofessor.com/blog/cheese-wheel-tapping): Why Tap a Wheel of Cheese?</small>
+## <a name="5"></a>5. 睡眠为何不可或缺？科学家揭示关键机制 
+<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00964-w): Sleep is essential – researchers are trying to work out why</small>
 
 
-| 🔥🔥: 126 \| 💬: [95](https://news.ycombinator.com/item?id=43644970) \| 🗓️ 2025-04-10
+| 🔥🔥: 211 \| 💬: [150](https://news.ycombinator.com/item?id=43643390) \| 🗓️ 2025-04-10
 
 
 <br />
-每年约400万轮帕尔马干酪的生产背后，有一支24人的**“敲击师”**团队，用金属锤在6-7秒内通过声音判断奶酪品质。学徒需跟随老师傅实践3年才能掌握这门传承200年的技艺。完美奶酪内部紧实无空隙，缺陷则会产生异响。成品分为三级：**顶级品质**（可长期陈化）、**次级品**（建议尽早食用）及**缺陷品**（去除标识后作为普通奶酪出售）。近年仅约10%的奶酪被归为次级，1.5%为缺陷品。敲击师强调，缺陷恰恰体现了手工产品的自然特性——**“若100%完美，反该警惕工业化嫌疑”**。
+研究表明，**睡眠**的核心功能远超大脑休息，涉及全身**稳态调节**。哈佛团队发现，果蝇和小鼠长期缺眠会因肠道内**活性氧（ROS）**积累而死亡，揭示睡眠对代谢平衡的关键作用。同时，睡眠通过清除脑内毒素（如β淀粉样蛋白）、重置神经元突触及巩固记忆维持大脑功能。争议性研究指出，深度睡眠时脑脊液流动加速排毒，但新实验显示睡眠中清除率可能降低。此外，无中枢神经系统的水螅也需睡眠，暗示其进化意义深远。睡眠不足会扰乱激素分泌，增加心血管疾病风险，凸显其生理必要性。
 
 ---
 
-## <a name="10"></a>10. R语言资源大全：一网打尽免费编程书籍 
+## <a name="6"></a>6. 用.localhost域名简化本地开发 
+<small>🔗 [inclouds.space](https://inclouds.space/localhost-domains): .localhost Domains</small>
+
+
+| 🔥🔥: 188 \| 💬: [136](https://news.ycombinator.com/item?id=43644043) \| 🗓️ 2025-04-10
+
+
+<br />
+作者Charles Chamberlain分享了一种为本地运行的Web应用配置**私有自定义域名**的方法。通过修改`/etc/hosts`将域名指向`127.0.0.1`，并利用**Caddy服务器**实现端口转发（如`appname.localhost`映射到`localhost:5050`），避免了记忆复杂端口号。当前方案需手动配置多个文件，但作者希望未来能通过单条命令实现自动化。文末提到用户cristóbal提出的`dnsmasq`方案进一步优化了流程。
+
+---
+
+## <a name="7"></a>7. R语言资源大全：一网打尽免费编程书籍 
 <small>🔗 [bigbookofr.com](https://www.bigbookofr.com/): Big Book of R</small>
 
 
-| 🔥🔥: 125 \| 💬: [27](https://news.ycombinator.com/item?id=43646219) \| 🗓️ 2025-04-10
+| 🔥🔥: 139 \| 💬: [33](https://news.ycombinator.com/item?id=43646219) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -145,11 +109,35 @@ Python 核心团队通过了 **PEP 750**，引入了一种新的字符串前缀 
 
 ---
 
-## <a name="11"></a>11. 艾萨克·阿西莫夫预言AI将解放人类创造力（1992年） 
+## <a name="8"></a>8. 美国正倒退至污染最严重的时代 
+<small>🔗 [theatlantic.com](https://www.theatlantic.com/health/archive/2025/04/air-pollution-trump-administration/682361/): America Is Backsliding Toward Its Most Polluted Era</small>
+
+
+| 🔥🔥: 135 \| 💬: [181](https://news.ycombinator.com/item?id=43643243) \| 🗓️ 2025-04-10
+
+
+<br />
+文章指出，**空气污染**对人体危害极大，可引发哮喘、心脏病、痴呆等疾病，甚至影响胎儿发育。尽管美国空气质量有所改善，但**特朗普政府**正放松环保法规，撤销拜登时代的颗粒物标准，可能导致每年数千人过早死亡。环保署削减科研经费，掩盖污染危害，同时**野火加剧**进一步恶化空气。专家警告，这将使美国重回高污染时代，损害公众健康与经济。
+
+---
+
+## <a name="9"></a>9. 为何要敲击帕尔马干酪？ 
+<small>🔗 [cheeseprofessor.com](https://www.cheeseprofessor.com/blog/cheese-wheel-tapping): Why Tap a Wheel of Cheese?</small>
+
+
+| 🔥🔥: 135 \| 💬: [102](https://news.ycombinator.com/item?id=43644970) \| 🗓️ 2025-04-10
+
+
+<br />
+每年约400万轮帕尔马干酪的生产背后，有一支24人的**“敲击师”**团队，用金属锤在6-7秒内通过声音判断奶酪品质。学徒需跟随老师傅实践3年才能掌握这门传承200年的技艺。完美奶酪内部紧实无空隙，缺陷则会产生异响。成品分为三级：**顶级品质**（可长期陈化）、**次级品**（建议尽早食用）及**缺陷品**（去除标识后作为普通奶酪出售）。近年仅约10%的奶酪被归为次级，1.5%为缺陷品。敲击师强调，缺陷恰恰体现了手工产品的自然特性——**“若100%完美，反该警惕工业化嫌疑”**。
+
+---
+
+## <a name="10"></a>10. 艾萨克·阿西莫夫预言AI将解放人类创造力（1992年） 
 <small>🔗 [openculture.com](https://www.openculture.com/2025/04/isaac-asimov-describes-how-ai-will-liberate-humans-their-creativity.html): Isaac Asimov describes how AI will liberate humans and their creativity (1992)</small>
 
 
-| 🔥🔥: 124 \| 💬: [172](https://news.ycombinator.com/item?id=43644179) \| 🗓️ 2025-04-10
+| 🔥🔥: 132 \| 💬: [183](https://news.ycombinator.com/item?id=43644179) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -157,15 +145,27 @@ Python 核心团队通过了 **PEP 750**，引入了一种新的字符串前缀 
 
 ---
 
-## <a name="12"></a>12. 联邦移民局拘留学生抗议者 律师介入维权 
-<small>🔗 [old.reddit.com](https://old.reddit.com/r/ABoringDystopia/comments/1jw34qx/attorney_representing_a_student_protester/): Attorney representing a student protester detained by federal immigration agents</small>
+## <a name="11"></a>11. 椭圆式Python编程的艺术 
+<small>🔗 [susam.net](https://susam.net/elliptical-python-programming.html): Elliptical Python Programming</small>
 
 
-| 🔥: 79 \| 💬: [25](https://news.ycombinator.com/item?id=43647812) \| 🗓️ 2025-04-10
+| 🔥🔥: 131 \| 💬: [20](https://news.ycombinator.com/item?id=43643292) \| 🗓️ 2025-04-10
 
 
 <br />
-Reddit社区热议一则新闻：一名参与抗议的学生被**联邦移民局**拘留，其代理律师正采取法律行动。讨论中，网友用"**盖世太保手段**"形容执法行为，并担忧局势恶化可能引发更广泛冲突。部分评论指出，经济困境与枪支泛滥或加剧社会风险。该帖引发5条争议性回复，包括对未来的悲观预测。
+作者Susam Pal以幽默笔调探讨Python的**极简哲学**，通过`(...==...)`等奇特语法生成数字，调侃编程中“**唯一明显方式**”的禅意。文章演示了如何用**预减运算符**和括号构造代码，甚至建议重映射Tab键来输入省略号，但强调**生产代码应保持可读性**。最后提醒：此类代码仅供娱乐，真实项目需添加日志，并遵循“为人编写，而非机器”的原则。
+
+---
+
+## <a name="12"></a>12. 《我写了一本关于Go语言常见错误的书》 
+<small>🔗 [thecoder.cafe](https://www.thecoder.cafe/p/100-go-mistakes): So, I Wrote a Book: The Story Behind “100 Go Mistakes and How to Avoid Them”</small>
+
+
+| 🔥: 98 \| 💬: [37](https://news.ycombinator.com/item?id=43647880) \| 🗓️ 2025-04-10
+
+
+<br />
+作者Teiva Harsanyi分享了撰写《**100 Go Mistakes and How to Avoid Them**》的历程。从2018年接触Go语言，到2019年一篇意外走红的博客文章《**Go项目十大常见错误**》，再到2020年与出版社Manning合作出书。书中详细记录了**开发流程**、与编辑的合作，以及如何通过反复修改提升内容质量。作者强调，写书不仅是技术分享，更是对读者的承诺——确保内容值得信赖。
 
 ---
 
@@ -173,7 +173,7 @@ Reddit社区热议一则新闻：一名参与抗议的学生被**联邦移民局
 <small>🔗 [macintoshgarden.org](https://macintoshgarden.org/apps/sdl2-macos-9-rough-draft): SDL2 for macOS 9 "rough draft"</small>
 
 
-| 🔥: 74 \| 💬: [30](https://news.ycombinator.com/item?id=43645183) \| 🗓️ 2025-04-10
+| 🔥: 83 \| 💬: [32](https://news.ycombinator.com/item?id=43645183) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -185,15 +185,15 @@ Reddit社区热议一则新闻：一名参与抗议的学生被**联邦移民局
 
 ---
 
-## <a name="14"></a>14. 《我写了一本关于Go语言常见错误的书》 
-<small>🔗 [thecoder.cafe](https://www.thecoder.cafe/p/100-go-mistakes): So, I Wrote a Book: The Story Behind "100 Go Mistakes and How to Avoid Them"</small>
+## <a name="14"></a>14. 联邦移民局拘留学生抗议者 律师介入维权 
+<small>🔗 [old.reddit.com](https://old.reddit.com/r/ABoringDystopia/comments/1jw34qx/attorney_representing_a_student_protester/): Attorney representing a student protester detained by federal immigration agents</small>
 
 
-| 🔥: 66 \| 💬: [22](https://news.ycombinator.com/item?id=43647880) \| 🗓️ 2025-04-10
+| 🔥: 80 \| 💬: [26](https://news.ycombinator.com/item?id=43647812) \| 🗓️ 2025-04-10
 
 
 <br />
-作者Teiva Harsanyi分享了撰写《**100 Go Mistakes and How to Avoid Them**》的历程。从2018年接触Go语言，到2019年一篇意外走红的博客文章《**Go项目十大常见错误**》，再到2020年与出版社Manning合作出书。书中详细记录了**开发流程**、与编辑的合作，以及如何通过反复修改提升内容质量。作者强调，写书不仅是技术分享，更是对读者的承诺——确保内容值得信赖。
+Reddit社区热议一则新闻：一名参与抗议的学生被**联邦移民局**拘留，其代理律师正采取法律行动。讨论中，网友用"**盖世太保手段**"形容执法行为，并担忧局势恶化可能引发更广泛冲突。部分评论指出，经济困境与枪支泛滥或加剧社会风险。该帖引发5条争议性回复，包括对未来的悲观预测。
 
 ---
 
@@ -201,7 +201,7 @@ Reddit社区热议一则新闻：一名参与抗议的学生被**联邦移民局
 <small>🔗 [koreo.dev](https://koreo.dev/): Show HN: Koreo – The platform engineering toolkit for Kubernetes</small>
 
 
-| 🔥: 65 \| 💬: [23](https://news.ycombinator.com/item?id=43644351) \| 🗓️ 2025-04-10
+| 🔥: 71 \| 💬: [28](https://news.ycombinator.com/item?id=43644351) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -213,7 +213,7 @@ Koreo是一款创新的Kubernetes配置管理与资源编排工具，通过**可
 <small>🔗 [crocidb.com](https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/): Demystifying the (Shebang): Kernel Adventures</small>
 
 
-| 🔥: 61 \| 💬: [14](https://news.ycombinator.com/item?id=43646698) \| 🗓️ 2025-04-10
+| 🔥: 71 \| 💬: [15](https://news.ycombinator.com/item?id=43646698) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -221,35 +221,23 @@ Koreo是一款创新的Kubernetes配置管理与资源编排工具，通过**可
 
 ---
 
-## <a name="17"></a>17. 2000美元的“美国制造”手机是如何诞生的 
-<small>🔗 [404media.co](https://www.404media.co/how-a-2-000-made-in-the-usa-liberty-phone-phone-is-manufactured/): How a $2k 'Made in the USA' Phone Is Manufactured</small>
+## <a name="17"></a>17. 我的私有二进制：Linux内核模块的独特入门指南 
+<small>🔗 [muppetlabs.com](https://www.muppetlabs.com/~breadbox/txt/mopb.html): My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules</small>
 
 
-| 🔥: 61 \| 💬: [58](https://news.ycombinator.com/item?id=43646920) \| 🗓️ 2025-04-10
-
-
-<br />
-Purism公司推出的**Liberty Phone**是目前唯一获得FTC认证的“美国制造”智能手机，售价2000美元（中国版Librem 5仅800美元）。其核心差异在于**垂直整合制造**：从空白电路板开始，在美国工厂完成所有电子元件焊接、组装及系统加载，而非简单进口部件组装。创始人Todd Weaver透露，为实现本土化生产，团队耗时3年重构供应链，但仍有少数元件（如计时晶体）依赖中国或韩国。尽管性能不及最新iPhone，该项目证明了**美国高端制造的可能性**，也暴露了供应链、技术工人短缺等挑战。
-
----
-
-## <a name="18"></a>18. 蓝盾数据泄露事件（谷歌广告相关） 
-<small>🔗 [news.blueshieldca.com](https://news.blueshieldca.com/notice-of-data-breach): Blue Shield Data Breach (Google Ads)</small>
-
-
-| 🔥: 58 \| 💬: [39](https://news.ycombinator.com/item?id=43645331) \| 🗓️ 2025-04-10
+| 🔥: 69 \| 💬: [5](https://news.ycombinator.com/item?id=43647294) \| 🗓️ 2025-04-10
 
 
 <br />
-2025年4月2日，**300名蓝盾加州志愿者**通过公益活动纪念**塞萨尔·查韦斯**和**多洛雷斯·韦尔塔**。该事件虽以社区服务为主题，但标题提及的数据泄露疑与谷歌广告业务存在潜在关联，具体细节未在正文中展开说明。目前尚不清楚两者是否存在直接联系。
+本文作者因对ELF可执行文件体积过大不满，开始研究如何制作极小的可执行文件，最终将ELF文件压缩至45字节。随后，有人建议使用更古老的**aout格式**（仅需35字节），但现代Linux系统默认已禁用该格式。作者由此探索Linux支持的二进制格式机制，发现内核通过**可加载模块**动态支持新格式。文章详细演示了如何编写一个简单的“Hello Kernel”模块，并强调内核编程的高自由度与风险——例如一个错误循环可能导致系统崩溃。最终，作者提出通过自定义内核模块实现类似DOS的**.com格式**（无元数据）的设想，展现了Linux内核的高度可扩展性。
 
 ---
 
-## <a name="19"></a>19. 律师为被移民局扣押的学生抗议者辩护 
+## <a name="18"></a>18. 律师为被移民局扣押的学生抗议者辩护 
 <small>🔗 [npr.org](https://www.npr.org/2025/04/09/nx-s1-5357455/attorney-detained-by-immigration-authorities): Attorney representing a student protester detained by federal immigration agents</small>
 
 
-| 🔥: 54 \| 💬: [5](https://news.ycombinator.com/item?id=43647939) \| 🗓️ 2025-04-10
+| 🔥: 69 \| 💬: [7](https://news.ycombinator.com/item?id=43647939) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -257,11 +245,35 @@ Purism公司推出的**Liberty Phone**是目前唯一获得FTC认证的“美国
 
 ---
 
-## <a name="20"></a>20. 用廉价摄像头定位隐形战机：无需AI或雷达 
+## <a name="19"></a>19. 2000美元的“美国制造”手机是如何诞生的 
+<small>🔗 [404media.co](https://www.404media.co/how-a-2-000-made-in-the-usa-liberty-phone-phone-is-manufactured/): How a $2k 'Made in the USA' Phone Is Manufactured</small>
+
+
+| 🔥: 63 \| 💬: [59](https://news.ycombinator.com/item?id=43646920) \| 🗓️ 2025-04-10
+
+
+<br />
+Purism公司推出的**Liberty Phone**是目前唯一获得FTC认证的“美国制造”智能手机，售价2000美元（中国版Librem 5仅800美元）。其核心差异在于**垂直整合制造**：从空白电路板开始，在美国工厂完成所有电子元件焊接、组装及系统加载，而非简单进口部件组装。创始人Todd Weaver透露，为实现本土化生产，团队耗时3年重构供应链，但仍有少数元件（如计时晶体）依赖中国或韩国。尽管性能不及最新iPhone，该项目证明了**美国高端制造的可能性**，也暴露了供应链、技术工人短缺等挑战。
+
+---
+
+## <a name="20"></a>20. 蓝盾数据泄露事件（谷歌广告相关） 
+<small>🔗 [news.blueshieldca.com](https://news.blueshieldca.com/notice-of-data-breach): Blue Shield Data Breach (Google Ads)</small>
+
+
+| 🔥: 60 \| 💬: [43](https://news.ycombinator.com/item?id=43645331) \| 🗓️ 2025-04-10
+
+
+<br />
+2025年4月2日，**300名蓝盾加州志愿者**通过公益活动纪念**塞萨尔·查韦斯**和**多洛雷斯·韦尔塔**。该事件虽以社区服务为主题，但标题提及的数据泄露疑与谷歌广告业务存在潜在关联，具体细节未在正文中展开说明。目前尚不清楚两者是否存在直接联系。
+
+---
+
+## <a name="21"></a>21. 用廉价摄像头定位隐形战机：无需AI或雷达 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=m-b51C82-UE): Locating Stealth Fighters with Cheap Cameras Without Using AI or Radar [video]</small>
 
 
-| 🔥: 53 \| 💬: [49](https://news.ycombinator.com/item?id=43643207) \| 🗓️ 2025-04-10
+| 🔥: 55 \| 💬: [49](https://news.ycombinator.com/item?id=43643207) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -269,11 +281,11 @@ Purism公司推出的**Liberty Phone**是目前唯一获得FTC认证的“美国
 
 ---
 
-## <a name="21"></a>21. 现在的孩子根本不会用电脑，这问题比你想象的更严重 
+## <a name="22"></a>22. 现在的孩子根本不会用电脑，这问题比你想象的更严重 
 <small>🔗 [coding2learn.org](http://coding2learn.org/blog/2013/07/29/kids-cant-use-computers/): Kids can't use computers and this is why it should worry you (2013)</small>
 
 
-| 🔥: 50 \| 💬: [87](https://news.ycombinator.com/item?id=43643498) \| 🗓️ 2025-04-10
+| 🔥: 50 \| 💬: [88](https://news.ycombinator.com/item?id=43643498) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -283,7 +295,7 @@ Purism公司推出的**Liberty Phone**是目前唯一获得FTC认证的“美国
 
 ---
 
-## <a name="22"></a>22. 美国人去欧洲还受欢迎吗？ 
+## <a name="23"></a>23. 美国人去欧洲还受欢迎吗？ 
 <small>🔗 [blog.ricksteves.com](https://blog.ricksteves.com/cameron/2025/03/americans-welcome-europe-2025/): Are Americans Still Welcome in Europe?</small>
 
 
@@ -295,7 +307,7 @@ Purism公司推出的**Liberty Phone**是目前唯一获得FTC认证的“美国
 
 ---
 
-## <a name="23"></a>23. Cloudflare R2数据目录：零出口费的托管Apache Iceberg表 
+## <a name="24"></a>24. Cloudflare R2数据目录：零出口费的托管Apache Iceberg表 
 <small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/r2-data-catalog-public-beta/): Cloudflare R2 Data Catalog: Managed Apache Iceberg tables with zero egress fees</small>
 
 
