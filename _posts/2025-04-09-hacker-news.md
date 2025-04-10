@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/09/trump-announces-90-day-tariff-pause-for-at-least-some-countries.html): Trump temporarily drops tariffs to 10% for most countries</small>
 
 
-| 🔥🔥: 625 \| 💬: [1188](https://news.ycombinator.com/item?id=43634806) \| 🗓️ 2025-04-09
+| 🔥🔥: 637 \| 💬: [1209](https://news.ycombinator.com/item?id=43634806) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/dieworkwear/status/1909741170953273353): How much do you think it costs to make a pair of Nike shoes in Asia?</small>
 
 
-| 🔥🔥: 468 \| 💬: [666](https://news.ycombinator.com/item?id=43631543) \| 🗓️ 2025-04-09
+| 🔥🔥: 484 \| 💬: [691](https://news.ycombinator.com/item?id=43631543) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/): The Agent2Agent Protocol (A2A)</small>
 
 
-| 🔥🔥: 408 \| 💬: [226](https://news.ycombinator.com/item?id=43631381) \| 🗓️ 2025-04-09
+| 🔥🔥: 412 \| 💬: [234](https://news.ycombinator.com/item?id=43631381) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [blog.google](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/): Ironwood: The first Google TPU for the age of inference</small>
 
 
-| 🔥🔥: 387 \| 💬: [151](https://news.ycombinator.com/item?id=43631274) \| 🗓️ 2025-04-09
+| 🔥🔥: 391 \| 💬: [151](https://news.ycombinator.com/item?id=43631274) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [thehill.com](https://thehill.com/homenews/senate/5241043-meta-executives-undermine-national-security/): Whistleblower tells senators that Meta undermined U.S. security, interests</small>
 
 
-| 🔥🔥: 270 \| 💬: [62](https://news.ycombinator.com/item?id=43637622) \| 🗓️ 2025-04-09
+| 🔥🔥: 280 \| 💬: [69](https://news.ycombinator.com/item?id=43637622) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -87,7 +87,7 @@ Meta前全球公共政策总监Sarah Wynn-Williams在参议院听证会上指控
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/03/27/cbp-cell-phones-devices-traveling-us/): How to lock down your phone if you're traveling to the U.S.</small>
 
 
-| 🔥🔥: 264 \| 💬: [291](https://news.ycombinator.com/item?id=43630624) \| 🗓️ 2025-04-09
+| 🔥🔥: 266 \| 💬: [296](https://news.ycombinator.com/item?id=43630624) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -111,7 +111,7 @@ Meta前全球公共政策总监Sarah Wynn-Williams在参议院听证会上指控
 <small>🔗 [spacetimedb.com](https://spacetimedb.com/): SpacetimeDB</small>
 
 
-| 🔥🔥: 234 \| 💬: [120](https://news.ycombinator.com/item?id=43631822) \| 🗓️ 2025-04-09
+| 🔥🔥: 243 \| 💬: [124](https://news.ycombinator.com/item?id=43631822) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -123,7 +123,7 @@ SpacetimeDB的核心创新在于**完整记录事务历史**，允许用户将�
 <small>🔗 [livesys.se](https://livesys.se/posts/the-chroot-technique/): The chroot Technique – a Swiss army multitool for Linux systems</small>
 
 
-| 🔥🔥: 223 \| 💬: [92](https://news.ycombinator.com/item?id=43632379) \| 🗓️ 2025-04-09
+| 🔥🔥: 232 \| 💬: [94](https://news.ycombinator.com/item?id=43632379) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -131,23 +131,11 @@ SpacetimeDB的核心创新在于**完整记录事务历史**，允许用户将�
 
 ---
 
-## <a name="10"></a>10. 美国制造的颠覆性困局 
-<small>🔗 [stratechery.com](https://stratechery.com/2025/american-disruption/): American Disruption</small>
-
-
-| 🔥🔥: 218 \| 💬: [183](https://news.ycombinator.com/item?id=43631276) \| 🗓️ 2025-04-09
-
-
-<br />
-作者反思三篇旧文中的误判：**贸易政策**分析框架缺失、对特朗普贸易政策的乐观误读，以及过早预测科技进入政治主导时代。核心问题在于**美国主动封闭**而非他国排斥。文章以**颠覆性创新理论**剖析美国制造业衰落：亚洲通过低成本、模块化生产承接低端环节（如芯片组装），而美国因追逐高利润无法回流低附加值产业。当前关税政策加剧困境，但根源在于美国已丧失规模化制造优势，且劳动力成本无法匹配低端岗位需求（如iPhone组装）。**技术变革**与**全球化红利**共同造就了这一不可逆的结构性转变。
-
----
-
-## <a name="11"></a>11. 19世纪日本老照片：穿越时光的浮世绘 
+## <a name="10"></a>10. 19世纪日本老照片：穿越时光的浮世绘 
 <small>🔗 [cosmographia.substack.com](https://cosmographia.substack.com/p/photographs-of-old-japan): Photographs of 19th Century Japan</small>
 
 
-| 🔥🔥: 207 \| 💬: [40](https://news.ycombinator.com/item?id=43631251) \| 🗓️ 2025-04-09
+| 🔥🔥: 227 \| 💬: [43](https://news.ycombinator.com/item?id=43631251) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -155,11 +143,23 @@ SpacetimeDB的核心创新在于**完整记录事务历史**，允许用户将�
 
 ---
 
+## <a name="11"></a>11. 美国制造的颠覆性困局 
+<small>🔗 [stratechery.com](https://stratechery.com/2025/american-disruption/): American Disruption</small>
+
+
+| 🔥🔥: 219 \| 💬: [184](https://news.ycombinator.com/item?id=43631276) \| 🗓️ 2025-04-09
+
+
+<br />
+作者反思三篇旧文中的误判：**贸易政策**分析框架缺失、对特朗普贸易政策的乐观误读，以及过早预测科技进入政治主导时代。核心问题在于**美国主动封闭**而非他国排斥。文章以**颠覆性创新理论**剖析美国制造业衰落：亚洲通过低成本、模块化生产承接低端环节（如芯片组装），而美国因追逐高利润无法回流低附加值产业。当前关税政策加剧困境，但根源在于美国已丧失规模化制造优势，且劳动力成本无法匹配低端岗位需求（如iPhone组装）。**技术变革**与**全球化红利**共同造就了这一不可逆的结构性转变。
+
+---
+
 ## <a name="12"></a>12. 基本收入试点项目：研究结果揭晓 
 <small>🔗 [pilotprojekt-grundeinkommen.de](https://www.pilotprojekt-grundeinkommen.de/en): Basic Income Pilot Project: Study results</small>
 
 
-| 🔥🔥: 199 \| 💬: [224](https://news.ycombinator.com/item?id=43636757) \| 🗓️ 2025-04-09
+| 🔥🔥: 202 \| 💬: [230](https://news.ycombinator.com/item?id=43636757) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -171,7 +171,7 @@ SpacetimeDB的核心创新在于**完整记录事务历史**，允许用户将�
 <small>🔗 [kittenlabs.de](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/): GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better</small>
 
 
-| 🔥🔥: 193 \| 💬: [54](https://news.ycombinator.com/item?id=43635295) \| 🗓️ 2025-04-09
+| 🔥🔥: 196 \| 💬: [55](https://news.ycombinator.com/item?id=43635295) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -183,7 +183,7 @@ SpacetimeDB的核心创新在于**完整记录事务历史**，允许用户将�
 <small>🔗 [docs.getwhisky.app](https://docs.getwhisky.app/maintenance-notice): Whisky is no longer actively maintained</small>
 
 
-| 🔥🔥: 177 \| 💬: [72](https://news.ycombinator.com/item?id=43631230) \| 🗓️ 2025-04-09
+| 🔥🔥: 178 \| 💬: [72](https://news.ycombinator.com/item?id=43631230) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -207,7 +207,7 @@ Firefox用户界面（UI）采用HTML、CSS和JavaScript等Web技术构建，但
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/08/fake-job-seekers-use-ai-to-interview-for-remote-jobs-tech-ceos-say.html): Fake job seekers are flooding US companies that are hiring for remote positions</small>
 
 
-| 🔥🔥: 173 \| 💬: [234](https://news.ycombinator.com/item?id=43631384) \| 🗓️ 2025-04-09
+| 🔥🔥: 174 \| 💬: [234](https://news.ycombinator.com/item?id=43631384) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -219,7 +219,7 @@ Firefox用户界面（UI）采用HTML、CSS和JavaScript等Web技术构建，但
 <small>🔗 [penntoday.upenn.edu](https://penntoday.upenn.edu/news/penn-dental-antiviral-chewing-gum-reduce-influenza-and-herpes-simplex-virus-transmission): Antiviral chewing gum to reduce influenza and herpes simplex virus transmission</small>
 
 
-| 🔥🔥: 130 \| 💬: [64](https://news.ycombinator.com/item?id=43636302) \| 🗓️ 2025-04-09
+| 🔥🔥: 136 \| 💬: [68](https://news.ycombinator.com/item?id=43636302) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -227,35 +227,11 @@ Firefox用户界面（UI）采用HTML、CSS和JavaScript等Web技术构建，但
 
 ---
 
-## <a name="18"></a>18. man页面很强大，问题出在阅读工具上 
-<small>🔗 [whynothugo.nl](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/): Man pages are great, man readers are the problem</small>
-
-
-| 🔥🔥: 121 \| 💬: [154](https://news.ycombinator.com/item?id=43631672) \| 🗓️ 2025-04-09
-
-
-<br />
-man页面本身支持**超链接**和**窗口自适应重排**，但当前主流的man阅读工具（如`man(1)`配合`less(1)`）并未实现这些功能。man页面采用**语义化标记**的`mdoc(7)`格式，其中`.Xr`和`.Sx`宏本可生成交叉引用链接（HTML转换时已实现），但终端阅读器仅渲染为纯文本。文章呼吁开发能原生解析man格式、支持链接跳转和动态排版的现代阅读工具。
-
----
-
-## <a name="19"></a>19. 用Mermaidjs构建的AI故事关系图谱生成工具 
-<small>🔗 [github.com](https://github.com/herol3oy/austen): Show HN: I built an app to generate story relationships using Mermaidjs</small>
-
-
-| 🔥🔥: 114 \| 💬: [33](https://news.ycombinator.com/item?id=43633298) \| 🗓️ 2025-04-09
-
-
-<br />
-Austen是一款基于**Angular框架**开发的AI应用，通过**Mermaidjs图表**自动生成书籍角色关系图谱。用户可搜索Open Library的书籍，利用**AI分析角色关系**并生成可视化图表，支持导出为SVG/PNG格式。应用采用Supabase存储数据，提供公开/私有分享功能，技术栈包含AnalogJS、TypeScript和Cloudflare Pages。安装需配置DeepSeek和Supabase的API密钥，未来计划增加点赞功能和更多图表加载选项。项目开源，遵循MIT协议。
-
----
-
-## <a name="20"></a>20. Firebase Studio：快速开发的云端工作空间 
+## <a name="18"></a>18. Firebase Studio：快速开发的云端工作空间 
 <small>🔗 [firebase.studio](https://firebase.studio): Firebase Studio</small>
 
 
-| 🔥🔥: 112 \| 💬: [42](https://news.ycombinator.com/item?id=43635783) \| 🗓️ 2025-04-09
+| 🔥🔥: 129 \| 💬: [47](https://news.ycombinator.com/item?id=43635783) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -263,11 +239,35 @@ Firebase Studio 支持**快速构建应用**，可直接导入 GitHub 等平台�
 
 ---
 
+## <a name="19"></a>19. man页面很强大，问题出在阅读工具上 
+<small>🔗 [whynothugo.nl](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/): Man pages are great, man readers are the problem</small>
+
+
+| 🔥🔥: 123 \| 💬: [154](https://news.ycombinator.com/item?id=43631672) \| 🗓️ 2025-04-09
+
+
+<br />
+man页面本身支持**超链接**和**窗口自适应重排**，但当前主流的man阅读工具（如`man(1)`配合`less(1)`）并未实现这些功能。man页面采用**语义化标记**的`mdoc(7)`格式，其中`.Xr`和`.Sx`宏本可生成交叉引用链接（HTML转换时已实现），但终端阅读器仅渲染为纯文本。文章呼吁开发能原生解析man格式、支持链接跳转和动态排版的现代阅读工具。
+
+---
+
+## <a name="20"></a>20. 用Mermaidjs构建的AI故事关系图谱生成工具 
+<small>🔗 [github.com](https://github.com/herol3oy/austen): Show HN: I built an app to generate story relationships using Mermaidjs</small>
+
+
+| 🔥🔥: 118 \| 💬: [36](https://news.ycombinator.com/item?id=43633298) \| 🗓️ 2025-04-09
+
+
+<br />
+Austen是一款基于**Angular框架**开发的AI应用，通过**Mermaidjs图表**自动生成书籍角色关系图谱。用户可搜索Open Library的书籍，利用**AI分析角色关系**并生成可视化图表，支持导出为SVG/PNG格式。应用采用Supabase存储数据，提供公开/私有分享功能，技术栈包含AnalogJS、TypeScript和Cloudflare Pages。安装需配置DeepSeek和Supabase的API密钥，未来计划增加点赞功能和更多图表加载选项。项目开源，遵循MIT协议。
+
+---
+
 ## <a name="21"></a>21. 视觉推理时代即将到来 
 <small>🔗 [arcturus-labs.com](http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/): Visual Reasoning Is Coming Soon</small>
 
 
-| 🔥🔥: 105 \| 💬: [38](https://news.ycombinator.com/item?id=43633568) \| 🗓️ 2025-04-09
+| 🔥🔥: 106 \| 💬: [38](https://news.ycombinator.com/item?id=43633568) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -279,7 +279,7 @@ OpenAI最新发布的**GPT-4o**实现了真正的图像操控，模型能基于�
 <small>🔗 [speedbumpapp.com](https://speedbumpapp.com/en/blog/how-to-reduce-screen-time/): A guide to reduce screen time</small>
 
 
-| 🔥: 100 \| 💬: [91](https://news.ycombinator.com/item?id=43630661) \| 🗓️ 2025-04-09
+| 🔥🔥: 102 \| 💬: [91](https://news.ycombinator.com/item?id=43630661) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -291,7 +291,7 @@ OpenAI最新发布的**GPT-4o**实现了真正的图像操控，模型能基于�
 <small>🔗 [osf.io](https://osf.io/preprints/osf/zhm54_v3): Major Flaws in 2025 Meta-Analysis on Fluoride and Children IQ Scores</small>
 
 
-| 🔥: 100 \| 💬: [77](https://news.ycombinator.com/item?id=43633330) \| 🗓️ 2025-04-09
+| 🔥: 100 \| 💬: [78](https://news.ycombinator.com/item?id=43633330) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -303,7 +303,7 @@ OpenAI最新发布的**GPT-4o**实现了真正的图像操控，模型能基于�
 <small>🔗 [leaddev.com](https://leaddev.com/culture/ai-coding-mandates-are-driving-developers-to-the-brink): AI coding mandates are driving developers to the brink</small>
 
 
-| 🔥: 70 \| 💬: [86](https://news.ycombinator.com/item?id=43633288) \| 🗓️ 2025-04-09
+| 🔥: 71 \| 💬: [87](https://news.ycombinator.com/item?id=43633288) \| 🗓️ 2025-04-09
 
 
 <br />
