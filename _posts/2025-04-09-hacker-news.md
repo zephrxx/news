@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/09/trump-announces-90-day-tariff-pause-for-at-least-some-countries.html): Trump temporarily drops tariffs to 10% for most countries</small>
 
 
-| 🔥🔥: 604 \| 💬: [1133](https://news.ycombinator.com/item?id=43634806) \| 🗓️ 2025-04-09
+| 🔥🔥: 616 \| 💬: [1151](https://news.ycombinator.com/item?id=43634806) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/dieworkwear/status/1909741170953273353): How much do you think it costs to make a pair of Nike shoes in Asia?</small>
 
 
-| 🔥🔥: 426 \| 💬: [596](https://news.ycombinator.com/item?id=43631543) \| 🗓️ 2025-04-09
+| 🔥🔥: 438 \| 💬: [620](https://news.ycombinator.com/item?id=43631543) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/): The Agent2Agent Protocol (A2A)</small>
 
 
-| 🔥🔥: 381 \| 💬: [217](https://news.ycombinator.com/item?id=43631381) \| 🗓️ 2025-04-09
+| 🔥🔥: 390 \| 💬: [218](https://news.ycombinator.com/item?id=43631381) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [blog.google](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/): Ironwood: The first Google TPU for the age of inference</small>
 
 
-| 🔥🔥: 362 \| 💬: [139](https://news.ycombinator.com/item?id=43631274) \| 🗓️ 2025-04-09
+| 🔥🔥: 370 \| 💬: [141](https://news.ycombinator.com/item?id=43631274) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/03/27/cbp-cell-phones-devices-traveling-us/): How to lock down your phone if you're traveling to the U.S.</small>
 
 
-| 🔥🔥: 260 \| 💬: [279](https://news.ycombinator.com/item?id=43630624) \| 🗓️ 2025-04-09
+| 🔥🔥: 263 \| 💬: [279](https://news.ycombinator.com/item?id=43630624) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [theverge.com](https://www.theverge.com/policy/645399/trump-doj-cryptocurrency-fraud-prosecutions-memo): DOJ will no longer prosecute cryptocurrency fraud</small>
 
 
-| 🔥🔥: 258 \| 💬: [27](https://news.ycombinator.com/item?id=43634582) \| 🗓️ 2025-04-09
+| 🔥🔥: 259 \| 💬: [28](https://news.ycombinator.com/item?id=43634582) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -95,11 +95,23 @@ tags:
 
 ---
 
-## <a name="7"></a>7. 时空数据库 
+## <a name="7"></a>7. Meta前高管指控公司危害美国安全 向中共提供用户数据 
+<small>🔗 [thehill.com](https://thehill.com/homenews/senate/5241043-meta-executives-undermine-national-security/): Whistleblower tells senators that Meta undermined U.S. security, interests</small>
+
+
+| 🔥🔥: 239 \| 💬: [47](https://news.ycombinator.com/item?id=43637622) \| 🗓️ 2025-04-09
+
+
+<br />
+Meta前全球公共政策总监Sarah Wynn-Williams在参议院听证会上指控，该公司高管为拓展中国市场**多次损害美国国家安全**，包括向中共提供**美国用户数据**并协助开发审查工具。她称Meta高管向员工、股东和国会隐瞒与中共的合作，并拥有文件证据。Meta驳斥其证词"脱离现实"，强调未在中国运营服务。参议员Hawley指出Meta试图通过法律威胁阻止听证会。此外，Wynn-Williams揭露Meta曾计划建设中美海底光缆（后中止），并删除在华异见者账号。她已向监管机构提交举报，要求调查Meta在华活动。
+
+---
+
+## <a name="8"></a>8. 时空数据库 
 <small>🔗 [spacetimedb.com](https://spacetimedb.com/): SpacetimeDB</small>
 
 
-| 🔥🔥: 217 \| 💬: [111](https://news.ycombinator.com/item?id=43631822) \| 🗓️ 2025-04-09
+| 🔥🔥: 231 \| 💬: [117](https://news.ycombinator.com/item?id=43631822) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -107,7 +119,7 @@ SpacetimeDB的核心创新在于**完整记录事务历史**，允许用户将�
 
 ---
 
-## <a name="8"></a>8. 美国制造的颠覆性困局 
+## <a name="9"></a>9. 美国制造的颠覆性困局 
 <small>🔗 [stratechery.com](https://stratechery.com/2025/american-disruption/): American Disruption</small>
 
 
@@ -119,11 +131,11 @@ SpacetimeDB的核心创新在于**完整记录事务历史**，允许用户将�
 
 ---
 
-## <a name="9"></a>9. Linux系统修复利器：chroot技术详解 
+## <a name="10"></a>10. Linux系统修复利器：chroot技术详解 
 <small>🔗 [livesys.se](https://livesys.se/posts/the-chroot-technique/): The chroot Technique – a Swiss army multitool for Linux systems</small>
 
 
-| 🔥🔥: 209 \| 💬: [87](https://news.ycombinator.com/item?id=43632379) \| 🗓️ 2025-04-09
+| 🔥🔥: 212 \| 💬: [89](https://news.ycombinator.com/item?id=43632379) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -131,23 +143,11 @@ SpacetimeDB的核心创新在于**完整记录事务历史**，允许用户将�
 
 ---
 
-## <a name="10"></a>10. Meta前高管指控公司危害美国安全 向中共提供用户数据 
-<small>🔗 [thehill.com](https://thehill.com/homenews/senate/5241043-meta-executives-undermine-national-security/): Whistleblower tells senators that Meta undermined U.S. security, interests</small>
-
-
-| 🔥🔥: 203 \| 💬: [39](https://news.ycombinator.com/item?id=43637622) \| 🗓️ 2025-04-09
-
-
-<br />
-Meta前全球公共政策总监Sarah Wynn-Williams在参议院听证会上指控，该公司高管为拓展中国市场**多次损害美国国家安全**，包括向中共提供**美国用户数据**并协助开发审查工具。她称Meta高管向员工、股东和国会隐瞒与中共的合作，并拥有文件证据。Meta驳斥其证词"脱离现实"，强调未在中国运营服务。参议员Hawley指出Meta试图通过法律威胁阻止听证会。此外，Wynn-Williams揭露Meta曾计划建设中美海底光缆（后中止），并删除在华异见者账号。她已向监管机构提交举报，要求调查Meta在华活动。
-
----
-
 ## <a name="11"></a>11. 基本收入试点项目：研究结果揭晓 
 <small>🔗 [pilotprojekt-grundeinkommen.de](https://www.pilotprojekt-grundeinkommen.de/en): Basic Income Pilot Project: Study results</small>
 
 
-| 🔥🔥: 195 \| 💬: [220](https://news.ycombinator.com/item?id=43636757) \| 🗓️ 2025-04-09
+| 🔥🔥: 197 \| 💬: [221](https://news.ycombinator.com/item?id=43636757) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -155,7 +155,43 @@ Meta前全球公共政策总监Sarah Wynn-Williams在参议院听证会上指控
 
 ---
 
-## <a name="12"></a>12. 威士忌（Whisky）项目正式停止维护 
+## <a name="12"></a>12. GPD Pocket 4 扬声器 DSP：通过 PipeWire 优化笔记本音质 
+<small>🔗 [kittenlabs.de](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/): GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better</small>
+
+
+| 🔥🔥: 182 \| 💬: [49](https://news.ycombinator.com/item?id=43635295) \| 🗓️ 2025-04-09
+
+
+<br />
+本文介绍了如何利用 **PipeWire** 和 **DSP 技术** 改善 GPD Pocket 4 笔记本扬声器的音质。作者通过 **Room EQ Wizard** 测量扬声器的频率响应，发现 4kHz 处存在刺耳的共振峰。通过生成反向滤波曲线并导入卷积滤波器，成功消除了失真。方法参考了 Asahi Linux 的音频优化方案，最终配置已开源。
+
+---
+
+## <a name="13"></a>13. 19世纪日本老照片：穿越时光的浮世绘 
+<small>🔗 [cosmographia.substack.com](https://cosmographia.substack.com/p/photographs-of-old-japan): Photographs of 19th Century Japan</small>
+
+
+| 🔥🔥: 178 \| 💬: [35](https://news.ycombinator.com/item?id=43631251) \| 🗓️ 2025-04-09
+
+
+<br />
+作者在爱丁堡通过**亨利与南希·罗辛收藏**的19世纪摄影集神游日本。这些拍摄于1860-1900年间的照片由多位摄影师创作，包括**费利斯·比托**等，经手工上色留存。画面涵盖江户末期至明治初期的市井生活、风景与建筑，如**日光东照宫**、京都祇园等，展现了彼时未被现代化侵蚀的日本风貌。文中感叹照片中人物早已逝去，若重返今日日本恐难辨认。所有影像藏于史密森尼学会亚洲艺术博物馆。
+
+---
+
+## <a name="14"></a>14. 用内容安全策略加固Firefox前端安全 
+<small>🔗 [attackanddefense.dev](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html): Hardening the Firefox Front End with Content Security Policies</small>
+
+
+| 🔥🔥: 176 \| 💬: [62](https://news.ycombinator.com/item?id=43630388) \| 🗓️ 2025-04-09
+
+
+<br />
+Firefox用户界面（UI）采用HTML、CSS和JavaScript等Web技术构建，但这也使其面临**XSS注入攻击**风险。为提升安全性，团队移除了主界面文件`browser.xhtml`中的**600余个内联事件处理器**，改用`addEventListener`并引入**内容安全策略（CSP）**限制动态代码执行。此举显著降低了父进程被攻击的可能性，未来还将扩展至其他窗口（如“关于Firefox”对话框）。最终目标是彻底禁用`eval`等高危操作，打造更抗攻击的浏览器。该改进将随Firefox 138版本发布。
+
+---
+
+## <a name="15"></a>15. 威士忌（Whisky）项目正式停止维护 
 <small>🔗 [docs.getwhisky.app](https://docs.getwhisky.app/maintenance-notice): Whisky is no longer actively maintained</small>
 
 
@@ -167,35 +203,11 @@ Meta前全球公共政策总监Sarah Wynn-Williams在参议院听证会上指控
 
 ---
 
-## <a name="13"></a>13. GPD Pocket 4 扬声器 DSP：通过 PipeWire 优化笔记本音质 
-<small>🔗 [kittenlabs.de](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/): GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better</small>
-
-
-| 🔥🔥: 175 \| 💬: [46](https://news.ycombinator.com/item?id=43635295) \| 🗓️ 2025-04-09
-
-
-<br />
-本文介绍了如何利用 **PipeWire** 和 **DSP 技术** 改善 GPD Pocket 4 笔记本扬声器的音质。作者通过 **Room EQ Wizard** 测量扬声器的频率响应，发现 4kHz 处存在刺耳的共振峰。通过生成反向滤波曲线并导入卷积滤波器，成功消除了失真。方法参考了 Asahi Linux 的音频优化方案，最终配置已开源。
-
----
-
-## <a name="14"></a>14. 用内容安全策略加固Firefox前端安全 
-<small>🔗 [attackanddefense.dev](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html): Hardening the Firefox Front End with Content Security Policies</small>
-
-
-| 🔥🔥: 174 \| 💬: [62](https://news.ycombinator.com/item?id=43630388) \| 🗓️ 2025-04-09
-
-
-<br />
-Firefox用户界面（UI）采用HTML、CSS和JavaScript等Web技术构建，但这也使其面临**XSS注入攻击**风险。为提升安全性，团队移除了主界面文件`browser.xhtml`中的**600余个内联事件处理器**，改用`addEventListener`并引入**内容安全策略（CSP）**限制动态代码执行。此举显著降低了父进程被攻击的可能性，未来还将扩展至其他窗口（如“关于Firefox”对话框）。最终目标是彻底禁用`eval`等高危操作，打造更抗攻击的浏览器。该改进将随Firefox 138版本发布。
-
----
-
-## <a name="15"></a>15. 美国企业遭遇远程职位招聘欺诈潮 
+## <a name="16"></a>16. 美国企业遭遇远程职位招聘欺诈潮 
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/08/fake-job-seekers-use-ai-to-interview-for-remote-jobs-tech-ceos-say.html): Fake job seekers are flooding US companies that are hiring for remote positions</small>
 
 
-| 🔥🔥: 169 \| 💬: [227](https://news.ycombinator.com/item?id=43631384) \| 🗓️ 2025-04-09
+| 🔥🔥: 170 \| 💬: [228](https://news.ycombinator.com/item?id=43631384) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -203,23 +215,11 @@ Firefox用户界面（UI）采用HTML、CSS和JavaScript等Web技术构建，但
 
 ---
 
-## <a name="16"></a>16. 19世纪日本老照片：穿越时光的浮世绘 
-<small>🔗 [cosmographia.substack.com](https://cosmographia.substack.com/p/photographs-of-old-japan): Photographs of 19th Century Japan</small>
-
-
-| 🔥🔥: 152 \| 💬: [29](https://news.ycombinator.com/item?id=43631251) \| 🗓️ 2025-04-09
-
-
-<br />
-作者在爱丁堡通过**亨利与南希·罗辛收藏**的19世纪摄影集神游日本。这些拍摄于1860-1900年间的照片由多位摄影师创作，包括**费利斯·比托**等，经手工上色留存。画面涵盖江户末期至明治初期的市井生活、风景与建筑，如**日光东照宫**、京都祇园等，展现了彼时未被现代化侵蚀的日本风貌。文中感叹照片中人物早已逝去，若重返今日日本恐难辨认。所有影像藏于史密森尼学会亚洲艺术博物馆。
-
----
-
 ## <a name="17"></a>17. man页面很强大，问题出在阅读工具上 
 <small>🔗 [whynothugo.nl](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/): Man pages are great, man readers are the problem</small>
 
 
-| 🔥🔥: 119 \| 💬: [148](https://news.ycombinator.com/item?id=43631672) \| 🗓️ 2025-04-09
+| 🔥🔥: 120 \| 💬: [151](https://news.ycombinator.com/item?id=43631672) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -227,23 +227,11 @@ man页面本身支持**超链接**和**窗口自适应重排**，但当前主流
 
 ---
 
-## <a name="18"></a>18. 用Mermaidjs构建的AI故事关系图谱生成工具 
-<small>🔗 [github.com](https://github.com/herol3oy/austen): Show HN: I built an app to generate story relationships using Mermaidjs</small>
-
-
-| 🔥🔥: 107 \| 💬: [29](https://news.ycombinator.com/item?id=43633298) \| 🗓️ 2025-04-09
-
-
-<br />
-Austen是一款基于**Angular框架**开发的AI应用，通过**Mermaidjs图表**自动生成书籍角色关系图谱。用户可搜索Open Library的书籍，利用**AI分析角色关系**并生成可视化图表，支持导出为SVG/PNG格式。应用采用Supabase存储数据，提供公开/私有分享功能，技术栈包含AnalogJS、TypeScript和Cloudflare Pages。安装需配置DeepSeek和Supabase的API密钥，未来计划增加点赞功能和更多图表加载选项。项目开源，遵循MIT协议。
-
----
-
-## <a name="19"></a>19. 从沙漠到绿洲：宾大助力萨赫勒地区雄心勃勃的绿化计划 
+## <a name="18"></a>18. 从沙漠到绿洲：宾大助力萨赫勒地区雄心勃勃的绿化计划 
 <small>🔗 [penntoday.upenn.edu](https://penntoday.upenn.edu/news/penn-dental-antiviral-chewing-gum-reduce-influenza-and-herpes-simplex-virus-transmission): Antiviral chewing gum to reduce influenza and herpes simplex virus transmission</small>
 
 
-| 🔥🔥: 107 \| 💬: [58](https://news.ycombinator.com/item?id=43636302) \| 🗓️ 2025-04-09
+| 🔥🔥: 113 \| 💬: [59](https://news.ycombinator.com/item?id=43636302) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -251,11 +239,23 @@ Austen是一款基于**Angular框架**开发的AI应用，通过**Mermaidjs图�
 
 ---
 
+## <a name="19"></a>19. 用Mermaidjs构建的AI故事关系图谱生成工具 
+<small>🔗 [github.com](https://github.com/herol3oy/austen): Show HN: I built an app to generate story relationships using Mermaidjs</small>
+
+
+| 🔥🔥: 110 \| 💬: [30](https://news.ycombinator.com/item?id=43633298) \| 🗓️ 2025-04-09
+
+
+<br />
+Austen是一款基于**Angular框架**开发的AI应用，通过**Mermaidjs图表**自动生成书籍角色关系图谱。用户可搜索Open Library的书籍，利用**AI分析角色关系**并生成可视化图表，支持导出为SVG/PNG格式。应用采用Supabase存储数据，提供公开/私有分享功能，技术栈包含AnalogJS、TypeScript和Cloudflare Pages。安装需配置DeepSeek和Supabase的API密钥，未来计划增加点赞功能和更多图表加载选项。项目开源，遵循MIT协议。
+
+---
+
 ## <a name="20"></a>20. 视觉推理时代即将到来 
 <small>🔗 [arcturus-labs.com](http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/): Visual Reasoning Is Coming Soon</small>
 
 
-| 🔥🔥: 102 \| 💬: [38](https://news.ycombinator.com/item?id=43633568) \| 🗓️ 2025-04-09
+| 🔥🔥: 104 \| 💬: [38](https://news.ycombinator.com/item?id=43633568) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -279,7 +279,7 @@ OpenAI最新发布的**GPT-4o**实现了真正的图像操控，模型能基于�
 <small>🔗 [speedbumpapp.com](https://speedbumpapp.com/en/blog/how-to-reduce-screen-time/): A guide to reduce screen time</small>
 
 
-| 🔥: 97 \| 💬: [88](https://news.ycombinator.com/item?id=43630661) \| 🗓️ 2025-04-09
+| 🔥: 97 \| 💬: [90](https://news.ycombinator.com/item?id=43630661) \| 🗓️ 2025-04-09
 
 
 <br />
