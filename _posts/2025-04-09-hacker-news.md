@@ -12,11 +12,11 @@ tags:
 1. 一双耐克鞋在亚洲的生产成本是多少？；
 1. 谷歌推出Agent2Agent协议（A2A），开启AI智能体协作新时代；
 1. Ironwood：谷歌首款专为推理时代设计的TPU；
-1. 赴美旅行如何保护手机隐私安全；
+1. Meta前高管指控公司危害美国安全 向中共提供用户数据；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/09/trump-announces-90-day-tariff-pause-for-at-least-some-countries.html): Trump temporarily drops tariffs to 10% for most countries</small>
 
 
-| 🔥🔥: 621 \| 💬: [1171](https://news.ycombinator.com/item?id=43634806) \| 🗓️ 2025-04-09
+| 🔥🔥: 625 \| 💬: [1188](https://news.ycombinator.com/item?id=43634806) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/dieworkwear/status/1909741170953273353): How much do you think it costs to make a pair of Nike shoes in Asia?</small>
 
 
-| 🔥🔥: 452 \| 💬: [649](https://news.ycombinator.com/item?id=43631543) \| 🗓️ 2025-04-09
+| 🔥🔥: 468 \| 💬: [666](https://news.ycombinator.com/item?id=43631543) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/): The Agent2Agent Protocol (A2A)</small>
 
 
-| 🔥🔥: 402 \| 💬: [224](https://news.ycombinator.com/item?id=43631381) \| 🗓️ 2025-04-09
+| 🔥🔥: 408 \| 💬: [226](https://news.ycombinator.com/item?id=43631381) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [blog.google](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/): Ironwood: The first Google TPU for the age of inference</small>
 
 
-| 🔥🔥: 382 \| 💬: [149](https://news.ycombinator.com/item?id=43631274) \| 🗓️ 2025-04-09
+| 🔥🔥: 387 \| 💬: [151](https://news.ycombinator.com/item?id=43631274) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -71,11 +71,23 @@ tags:
 
 ---
 
-## <a name="5"></a>5. 赴美旅行如何保护手机隐私安全 
+## <a name="5"></a>5. Meta前高管指控公司危害美国安全 向中共提供用户数据 
+<small>🔗 [thehill.com](https://thehill.com/homenews/senate/5241043-meta-executives-undermine-national-security/): Whistleblower tells senators that Meta undermined U.S. security, interests</small>
+
+
+| 🔥🔥: 270 \| 💬: [62](https://news.ycombinator.com/item?id=43637622) \| 🗓️ 2025-04-09
+
+
+<br />
+Meta前全球公共政策总监Sarah Wynn-Williams在参议院听证会上指控，该公司高管为拓展中国市场**多次损害美国国家安全**，包括向中共提供**美国用户数据**并协助开发审查工具。她称Meta高管向员工、股东和国会隐瞒与中共的合作，并拥有文件证据。Meta驳斥其证词"脱离现实"，强调未在中国运营服务。参议员Hawley指出Meta试图通过法律威胁阻止听证会。此外，Wynn-Williams揭露Meta曾计划建设中美海底光缆（后中止），并删除在华异见者账号。她已向监管机构提交举报，要求调查Meta在华活动。
+
+---
+
+## <a name="6"></a>6. 赴美旅行如何保护手机隐私安全 
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/03/27/cbp-cell-phones-devices-traveling-us/): How to lock down your phone if you're traveling to the U.S.</small>
 
 
-| 🔥🔥: 264 \| 💬: [285](https://news.ycombinator.com/item?id=43630624) \| 🗓️ 2025-04-09
+| 🔥🔥: 264 \| 💬: [291](https://news.ycombinator.com/item?id=43630624) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -83,7 +95,7 @@ tags:
 
 ---
 
-## <a name="6"></a>6. 特朗普政府停止起诉加密货币欺诈 
+## <a name="7"></a>7. 特朗普政府停止起诉加密货币欺诈 
 <small>🔗 [theverge.com](https://www.theverge.com/policy/645399/trump-doj-cryptocurrency-fraud-prosecutions-memo): DOJ will no longer prosecute cryptocurrency fraud</small>
 
 
@@ -95,23 +107,11 @@ tags:
 
 ---
 
-## <a name="7"></a>7. Meta前高管指控公司危害美国安全 向中共提供用户数据 
-<small>🔗 [thehill.com](https://thehill.com/homenews/senate/5241043-meta-executives-undermine-national-security/): Whistleblower tells senators that Meta undermined U.S. security, interests</small>
-
-
-| 🔥🔥: 259 \| 💬: [57](https://news.ycombinator.com/item?id=43637622) \| 🗓️ 2025-04-09
-
-
-<br />
-Meta前全球公共政策总监Sarah Wynn-Williams在参议院听证会上指控，该公司高管为拓展中国市场**多次损害美国国家安全**，包括向中共提供**美国用户数据**并协助开发审查工具。她称Meta高管向员工、股东和国会隐瞒与中共的合作，并拥有文件证据。Meta驳斥其证词"脱离现实"，强调未在中国运营服务。参议员Hawley指出Meta试图通过法律威胁阻止听证会。此外，Wynn-Williams揭露Meta曾计划建设中美海底光缆（后中止），并删除在华异见者账号。她已向监管机构提交举报，要求调查Meta在华活动。
-
----
-
 ## <a name="8"></a>8. 时空数据库 
 <small>🔗 [spacetimedb.com](https://spacetimedb.com/): SpacetimeDB</small>
 
 
-| 🔥🔥: 231 \| 💬: [118](https://news.ycombinator.com/item?id=43631822) \| 🗓️ 2025-04-09
+| 🔥🔥: 234 \| 💬: [120](https://news.ycombinator.com/item?id=43631822) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -123,7 +123,7 @@ SpacetimeDB的核心创新在于**完整记录事务历史**，允许用户将�
 <small>🔗 [livesys.se](https://livesys.se/posts/the-chroot-technique/): The chroot Technique – a Swiss army multitool for Linux systems</small>
 
 
-| 🔥🔥: 218 \| 💬: [92](https://news.ycombinator.com/item?id=43632379) \| 🗓️ 2025-04-09
+| 🔥🔥: 223 \| 💬: [92](https://news.ycombinator.com/item?id=43632379) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -135,7 +135,7 @@ SpacetimeDB的核心创新在于**完整记录事务历史**，允许用户将�
 <small>🔗 [stratechery.com](https://stratechery.com/2025/american-disruption/): American Disruption</small>
 
 
-| 🔥🔥: 216 \| 💬: [183](https://news.ycombinator.com/item?id=43631276) \| 🗓️ 2025-04-09
+| 🔥🔥: 218 \| 💬: [183](https://news.ycombinator.com/item?id=43631276) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -143,23 +143,11 @@ SpacetimeDB的核心创新在于**完整记录事务历史**，允许用户将�
 
 ---
 
-## <a name="11"></a>11. 基本收入试点项目：研究结果揭晓 
-<small>🔗 [pilotprojekt-grundeinkommen.de](https://www.pilotprojekt-grundeinkommen.de/en): Basic Income Pilot Project: Study results</small>
-
-
-| 🔥🔥: 199 \| 💬: [221](https://news.ycombinator.com/item?id=43636757) \| 🗓️ 2025-04-09
-
-
-<br />
-德国经济研究所开展的一项三年期试点项目，向122人每月无条件发放**1200欧元**，并与1580人组成的对照组进行对比。研究发现：**基本收入并未使人懈怠**，反而提升就业积极性；显著增强**自主决策能力**（尤其特定人群）；大幅改善心理健康与生活满意度。此外，参与者不仅满足物质需求，还主动积累财富并惠及他人，但对其价值观影响有限。研究通过实证数据将讨论从意识形态转向科学依据。
-
----
-
-## <a name="12"></a>12. 19世纪日本老照片：穿越时光的浮世绘 
+## <a name="11"></a>11. 19世纪日本老照片：穿越时光的浮世绘 
 <small>🔗 [cosmographia.substack.com](https://cosmographia.substack.com/p/photographs-of-old-japan): Photographs of 19th Century Japan</small>
 
 
-| 🔥🔥: 194 \| 💬: [36](https://news.ycombinator.com/item?id=43631251) \| 🗓️ 2025-04-09
+| 🔥🔥: 207 \| 💬: [40](https://news.ycombinator.com/item?id=43631251) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -167,11 +155,23 @@ SpacetimeDB的核心创新在于**完整记录事务历史**，允许用户将�
 
 ---
 
+## <a name="12"></a>12. 基本收入试点项目：研究结果揭晓 
+<small>🔗 [pilotprojekt-grundeinkommen.de](https://www.pilotprojekt-grundeinkommen.de/en): Basic Income Pilot Project: Study results</small>
+
+
+| 🔥🔥: 199 \| 💬: [224](https://news.ycombinator.com/item?id=43636757) \| 🗓️ 2025-04-09
+
+
+<br />
+德国经济研究所开展的一项三年期试点项目，向122人每月无条件发放**1200欧元**，并与1580人组成的对照组进行对比。研究发现：**基本收入并未使人懈怠**，反而提升就业积极性；显著增强**自主决策能力**（尤其特定人群）；大幅改善心理健康与生活满意度。此外，参与者不仅满足物质需求，还主动积累财富并惠及他人，但对其价值观影响有限。研究通过实证数据将讨论从意识形态转向科学依据。
+
+---
+
 ## <a name="13"></a>13. GPD Pocket 4 扬声器 DSP：通过 PipeWire 优化笔记本音质 
 <small>🔗 [kittenlabs.de](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/): GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better</small>
 
 
-| 🔥🔥: 186 \| 💬: [50](https://news.ycombinator.com/item?id=43635295) \| 🗓️ 2025-04-09
+| 🔥🔥: 193 \| 💬: [54](https://news.ycombinator.com/item?id=43635295) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -179,23 +179,11 @@ SpacetimeDB的核心创新在于**完整记录事务历史**，允许用户将�
 
 ---
 
-## <a name="14"></a>14. 用内容安全策略加固Firefox前端安全 
-<small>🔗 [attackanddefense.dev](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html): Hardening the Firefox Front End with Content Security Policies</small>
-
-
-| 🔥🔥: 176 \| 💬: [62](https://news.ycombinator.com/item?id=43630388) \| 🗓️ 2025-04-09
-
-
-<br />
-Firefox用户界面（UI）采用HTML、CSS和JavaScript等Web技术构建，但这也使其面临**XSS注入攻击**风险。为提升安全性，团队移除了主界面文件`browser.xhtml`中的**600余个内联事件处理器**，改用`addEventListener`并引入**内容安全策略（CSP）**限制动态代码执行。此举显著降低了父进程被攻击的可能性，未来还将扩展至其他窗口（如“关于Firefox”对话框）。最终目标是彻底禁用`eval`等高危操作，打造更抗攻击的浏览器。该改进将随Firefox 138版本发布。
-
----
-
-## <a name="15"></a>15. 威士忌（Whisky）项目正式停止维护 
+## <a name="14"></a>14. 威士忌（Whisky）项目正式停止维护 
 <small>🔗 [docs.getwhisky.app](https://docs.getwhisky.app/maintenance-notice): Whisky is no longer actively maintained</small>
 
 
-| 🔥🔥: 175 \| 💬: [72](https://news.ycombinator.com/item?id=43631230) \| 🗓️ 2025-04-09
+| 🔥🔥: 177 \| 💬: [72](https://news.ycombinator.com/item?id=43631230) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -203,11 +191,23 @@ Firefox用户界面（UI）采用HTML、CSS和JavaScript等Web技术构建，但
 
 ---
 
+## <a name="15"></a>15. 用内容安全策略加固Firefox前端安全 
+<small>🔗 [attackanddefense.dev](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html): Hardening the Firefox Front End with Content Security Policies</small>
+
+
+| 🔥🔥: 176 \| 💬: [63](https://news.ycombinator.com/item?id=43630388) \| 🗓️ 2025-04-09
+
+
+<br />
+Firefox用户界面（UI）采用HTML、CSS和JavaScript等Web技术构建，但这也使其面临**XSS注入攻击**风险。为提升安全性，团队移除了主界面文件`browser.xhtml`中的**600余个内联事件处理器**，改用`addEventListener`并引入**内容安全策略（CSP）**限制动态代码执行。此举显著降低了父进程被攻击的可能性，未来还将扩展至其他窗口（如“关于Firefox”对话框）。最终目标是彻底禁用`eval`等高危操作，打造更抗攻击的浏览器。该改进将随Firefox 138版本发布。
+
+---
+
 ## <a name="16"></a>16. 美国企业遭遇远程职位招聘欺诈潮 
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/08/fake-job-seekers-use-ai-to-interview-for-remote-jobs-tech-ceos-say.html): Fake job seekers are flooding US companies that are hiring for remote positions</small>
 
 
-| 🔥🔥: 173 \| 💬: [228](https://news.ycombinator.com/item?id=43631384) \| 🗓️ 2025-04-09
+| 🔥🔥: 173 \| 💬: [234](https://news.ycombinator.com/item?id=43631384) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -215,27 +215,27 @@ Firefox用户界面（UI）采用HTML、CSS和JavaScript等Web技术构建，但
 
 ---
 
-## <a name="17"></a>17. man页面很强大，问题出在阅读工具上 
-<small>🔗 [whynothugo.nl](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/): Man pages are great, man readers are the problem</small>
-
-
-| 🔥🔥: 121 \| 💬: [153](https://news.ycombinator.com/item?id=43631672) \| 🗓️ 2025-04-09
-
-
-<br />
-man页面本身支持**超链接**和**窗口自适应重排**，但当前主流的man阅读工具（如`man(1)`配合`less(1)`）并未实现这些功能。man页面采用**语义化标记**的`mdoc(7)`格式，其中`.Xr`和`.Sx`宏本可生成交叉引用链接（HTML转换时已实现），但终端阅读器仅渲染为纯文本。文章呼吁开发能原生解析man格式、支持链接跳转和动态排版的现代阅读工具。
-
----
-
-## <a name="18"></a>18. 从沙漠到绿洲：宾大助力萨赫勒地区雄心勃勃的绿化计划 
+## <a name="17"></a>17. 从沙漠到绿洲：宾大助力萨赫勒地区雄心勃勃的绿化计划 
 <small>🔗 [penntoday.upenn.edu](https://penntoday.upenn.edu/news/penn-dental-antiviral-chewing-gum-reduce-influenza-and-herpes-simplex-virus-transmission): Antiviral chewing gum to reduce influenza and herpes simplex virus transmission</small>
 
 
-| 🔥🔥: 117 \| 💬: [62](https://news.ycombinator.com/item?id=43636302) \| 🗓️ 2025-04-09
+| 🔥🔥: 130 \| 💬: [64](https://news.ycombinator.com/item?id=43636302) \| 🗓️ 2025-04-09
 
 
 <br />
 宾夕法尼亚大学**韦茨曼设计学院**的学生前往塞内加尔，参与**达喀尔绿色屏障**项目。该项目旨在通过生态基础设施建设，应对荒漠化并促进可持续城市发展。博士生Rob Levinthal带领学生实地考察，并提出了绿化方案，展现了学术与实践结合的创新模式。
+
+---
+
+## <a name="18"></a>18. man页面很强大，问题出在阅读工具上 
+<small>🔗 [whynothugo.nl](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/): Man pages are great, man readers are the problem</small>
+
+
+| 🔥🔥: 121 \| 💬: [154](https://news.ycombinator.com/item?id=43631672) \| 🗓️ 2025-04-09
+
+
+<br />
+man页面本身支持**超链接**和**窗口自适应重排**，但当前主流的man阅读工具（如`man(1)`配合`less(1)`）并未实现这些功能。man页面采用**语义化标记**的`mdoc(7)`格式，其中`.Xr`和`.Sx`宏本可生成交叉引用链接（HTML转换时已实现），但终端阅读器仅渲染为纯文本。文章呼吁开发能原生解析man格式、支持链接跳转和动态排版的现代阅读工具。
 
 ---
 
@@ -251,7 +251,19 @@ Austen是一款基于**Angular框架**开发的AI应用，通过**Mermaidjs图�
 
 ---
 
-## <a name="20"></a>20. 视觉推理时代即将到来 
+## <a name="20"></a>20. Firebase Studio：快速开发的云端工作空间 
+<small>🔗 [firebase.studio](https://firebase.studio): Firebase Studio</small>
+
+
+| 🔥🔥: 112 \| 💬: [42](https://news.ycombinator.com/item?id=43635783) \| 🗓️ 2025-04-09
+
+
+<br />
+Firebase Studio 支持**快速构建应用**，可直接导入 GitHub 等平台的代码库，或通过**自然语言描述**生成原型。提供 **Gemini AI 辅助编程**，涵盖调试、重构等任务，并可部署到 Firebase 托管等平台。预览阶段免费提供 3 个工作区，Google 开发者计划成员可享 30 个。集成测试工具和模拟器，支持全栈优化，助力高效交付。
+
+---
+
+## <a name="21"></a>21. 视觉推理时代即将到来 
 <small>🔗 [arcturus-labs.com](http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/): Visual Reasoning Is Coming Soon</small>
 
 
@@ -263,7 +275,19 @@ OpenAI最新发布的**GPT-4o**实现了真正的图像操控，模型能基于�
 
 ---
 
-## <a name="21"></a>21. 2025年氟化物与儿童智商研究的重大缺陷 
+## <a name="22"></a>22. 如何有效减少屏幕使用时间 
+<small>🔗 [speedbumpapp.com](https://speedbumpapp.com/en/blog/how-to-reduce-screen-time/): A guide to reduce screen time</small>
+
+
+| 🔥: 100 \| 💬: [91](https://news.ycombinator.com/item?id=43630661) \| 🗓️ 2025-04-09
+
+
+<br />
+本文探讨了数字时代下平衡社交需求与健康生活的实用方法。**核心策略**包括：理解使用动机（如无聊、焦虑）、转变思维（从"少用手机"到"多做其他事"），以及利用系统自带工具（如iOS的**屏幕使用时间**和Android的数字健康功能）。文中推荐了多款辅助应用（如Forest、One Sec），并强调**物理边界**（如设立无屏幕区域）和习惯培养（如启用灰度模式）的重要性。关键在于持续实验不同方法，逐步建立健康习惯，抵御平台刻意设计的成瘾机制。
+
+---
+
+## <a name="23"></a>23. 2025年氟化物与儿童智商研究的重大缺陷 
 <small>🔗 [osf.io](https://osf.io/preprints/osf/zhm54_v3): Major Flaws in 2025 Meta-Analysis on Fluoride and Children IQ Scores</small>
 
 
@@ -275,19 +299,7 @@ OpenAI最新发布的**GPT-4o**实现了真正的图像操控，模型能基于�
 
 ---
 
-## <a name="22"></a>22. 如何有效减少屏幕使用时间 
-<small>🔗 [speedbumpapp.com](https://speedbumpapp.com/en/blog/how-to-reduce-screen-time/): A guide to reduce screen time</small>
-
-
-| 🔥: 97 \| 💬: [90](https://news.ycombinator.com/item?id=43630661) \| 🗓️ 2025-04-09
-
-
-<br />
-本文探讨了数字时代下平衡社交需求与健康生活的实用方法。**核心策略**包括：理解使用动机（如无聊、焦虑）、转变思维（从"少用手机"到"多做其他事"），以及利用系统自带工具（如iOS的**屏幕使用时间**和Android的数字健康功能）。文中推荐了多款辅助应用（如Forest、One Sec），并强调**物理边界**（如设立无屏幕区域）和习惯培养（如启用灰度模式）的重要性。关键在于持续实验不同方法，逐步建立健康习惯，抵御平台刻意设计的成瘾机制。
-
----
-
-## <a name="23"></a>23. AI编码强制令正将开发者逼至崩溃边缘 
+## <a name="24"></a>24. AI编码强制令正将开发者逼至崩溃边缘 
 <small>🔗 [leaddev.com](https://leaddev.com/culture/ai-coding-mandates-are-driving-developers-to-the-brink): AI coding mandates are driving developers to the brink</small>
 
 
