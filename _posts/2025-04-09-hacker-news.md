@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/09/trump-announces-90-day-tariff-pause-for-at-least-some-countries.html): Trump temporarily drops tariffs to 10% for most countries</small>
 
 
-| 🔥🔥: 616 \| 💬: [1151](https://news.ycombinator.com/item?id=43634806) \| 🗓️ 2025-04-09
+| 🔥🔥: 621 \| 💬: [1171](https://news.ycombinator.com/item?id=43634806) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/dieworkwear/status/1909741170953273353): How much do you think it costs to make a pair of Nike shoes in Asia?</small>
 
 
-| 🔥🔥: 438 \| 💬: [620](https://news.ycombinator.com/item?id=43631543) \| 🗓️ 2025-04-09
+| 🔥🔥: 452 \| 💬: [649](https://news.ycombinator.com/item?id=43631543) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/): The Agent2Agent Protocol (A2A)</small>
 
 
-| 🔥🔥: 390 \| 💬: [218](https://news.ycombinator.com/item?id=43631381) \| 🗓️ 2025-04-09
+| 🔥🔥: 402 \| 💬: [224](https://news.ycombinator.com/item?id=43631381) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [blog.google](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/): Ironwood: The first Google TPU for the age of inference</small>
 
 
-| 🔥🔥: 370 \| 💬: [141](https://news.ycombinator.com/item?id=43631274) \| 🗓️ 2025-04-09
+| 🔥🔥: 382 \| 💬: [149](https://news.ycombinator.com/item?id=43631274) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/03/27/cbp-cell-phones-devices-traveling-us/): How to lock down your phone if you're traveling to the U.S.</small>
 
 
-| 🔥🔥: 263 \| 💬: [279](https://news.ycombinator.com/item?id=43630624) \| 🗓️ 2025-04-09
+| 🔥🔥: 264 \| 💬: [285](https://news.ycombinator.com/item?id=43630624) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [thehill.com](https://thehill.com/homenews/senate/5241043-meta-executives-undermine-national-security/): Whistleblower tells senators that Meta undermined U.S. security, interests</small>
 
 
-| 🔥🔥: 239 \| 💬: [47](https://news.ycombinator.com/item?id=43637622) \| 🗓️ 2025-04-09
+| 🔥🔥: 259 \| 💬: [57](https://news.ycombinator.com/item?id=43637622) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -111,7 +111,7 @@ Meta前全球公共政策总监Sarah Wynn-Williams在参议院听证会上指控
 <small>🔗 [spacetimedb.com](https://spacetimedb.com/): SpacetimeDB</small>
 
 
-| 🔥🔥: 231 \| 💬: [117](https://news.ycombinator.com/item?id=43631822) \| 🗓️ 2025-04-09
+| 🔥🔥: 231 \| 💬: [118](https://news.ycombinator.com/item?id=43631822) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -119,23 +119,11 @@ SpacetimeDB的核心创新在于**完整记录事务历史**，允许用户将�
 
 ---
 
-## <a name="9"></a>9. 美国制造的颠覆性困局 
-<small>🔗 [stratechery.com](https://stratechery.com/2025/american-disruption/): American Disruption</small>
-
-
-| 🔥🔥: 213 \| 💬: [180](https://news.ycombinator.com/item?id=43631276) \| 🗓️ 2025-04-09
-
-
-<br />
-作者反思三篇旧文中的误判：**贸易政策**分析框架缺失、对特朗普贸易政策的乐观误读，以及过早预测科技进入政治主导时代。核心问题在于**美国主动封闭**而非他国排斥。文章以**颠覆性创新理论**剖析美国制造业衰落：亚洲通过低成本、模块化生产承接低端环节（如芯片组装），而美国因追逐高利润无法回流低附加值产业。当前关税政策加剧困境，但根源在于美国已丧失规模化制造优势，且劳动力成本无法匹配低端岗位需求（如iPhone组装）。**技术变革**与**全球化红利**共同造就了这一不可逆的结构性转变。
-
----
-
-## <a name="10"></a>10. Linux系统修复利器：chroot技术详解 
+## <a name="9"></a>9. Linux系统修复利器：chroot技术详解 
 <small>🔗 [livesys.se](https://livesys.se/posts/the-chroot-technique/): The chroot Technique – a Swiss army multitool for Linux systems</small>
 
 
-| 🔥🔥: 212 \| 💬: [89](https://news.ycombinator.com/item?id=43632379) \| 🗓️ 2025-04-09
+| 🔥🔥: 218 \| 💬: [92](https://news.ycombinator.com/item?id=43632379) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -143,11 +131,23 @@ SpacetimeDB的核心创新在于**完整记录事务历史**，允许用户将�
 
 ---
 
+## <a name="10"></a>10. 美国制造的颠覆性困局 
+<small>🔗 [stratechery.com](https://stratechery.com/2025/american-disruption/): American Disruption</small>
+
+
+| 🔥🔥: 216 \| 💬: [183](https://news.ycombinator.com/item?id=43631276) \| 🗓️ 2025-04-09
+
+
+<br />
+作者反思三篇旧文中的误判：**贸易政策**分析框架缺失、对特朗普贸易政策的乐观误读，以及过早预测科技进入政治主导时代。核心问题在于**美国主动封闭**而非他国排斥。文章以**颠覆性创新理论**剖析美国制造业衰落：亚洲通过低成本、模块化生产承接低端环节（如芯片组装），而美国因追逐高利润无法回流低附加值产业。当前关税政策加剧困境，但根源在于美国已丧失规模化制造优势，且劳动力成本无法匹配低端岗位需求（如iPhone组装）。**技术变革**与**全球化红利**共同造就了这一不可逆的结构性转变。
+
+---
+
 ## <a name="11"></a>11. 基本收入试点项目：研究结果揭晓 
 <small>🔗 [pilotprojekt-grundeinkommen.de](https://www.pilotprojekt-grundeinkommen.de/en): Basic Income Pilot Project: Study results</small>
 
 
-| 🔥🔥: 197 \| 💬: [221](https://news.ycombinator.com/item?id=43636757) \| 🗓️ 2025-04-09
+| 🔥🔥: 199 \| 💬: [221](https://news.ycombinator.com/item?id=43636757) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -155,27 +155,27 @@ SpacetimeDB的核心创新在于**完整记录事务历史**，允许用户将�
 
 ---
 
-## <a name="12"></a>12. GPD Pocket 4 扬声器 DSP：通过 PipeWire 优化笔记本音质 
-<small>🔗 [kittenlabs.de](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/): GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better</small>
-
-
-| 🔥🔥: 182 \| 💬: [49](https://news.ycombinator.com/item?id=43635295) \| 🗓️ 2025-04-09
-
-
-<br />
-本文介绍了如何利用 **PipeWire** 和 **DSP 技术** 改善 GPD Pocket 4 笔记本扬声器的音质。作者通过 **Room EQ Wizard** 测量扬声器的频率响应，发现 4kHz 处存在刺耳的共振峰。通过生成反向滤波曲线并导入卷积滤波器，成功消除了失真。方法参考了 Asahi Linux 的音频优化方案，最终配置已开源。
-
----
-
-## <a name="13"></a>13. 19世纪日本老照片：穿越时光的浮世绘 
+## <a name="12"></a>12. 19世纪日本老照片：穿越时光的浮世绘 
 <small>🔗 [cosmographia.substack.com](https://cosmographia.substack.com/p/photographs-of-old-japan): Photographs of 19th Century Japan</small>
 
 
-| 🔥🔥: 178 \| 💬: [35](https://news.ycombinator.com/item?id=43631251) \| 🗓️ 2025-04-09
+| 🔥🔥: 194 \| 💬: [36](https://news.ycombinator.com/item?id=43631251) \| 🗓️ 2025-04-09
 
 
 <br />
 作者在爱丁堡通过**亨利与南希·罗辛收藏**的19世纪摄影集神游日本。这些拍摄于1860-1900年间的照片由多位摄影师创作，包括**费利斯·比托**等，经手工上色留存。画面涵盖江户末期至明治初期的市井生活、风景与建筑，如**日光东照宫**、京都祇园等，展现了彼时未被现代化侵蚀的日本风貌。文中感叹照片中人物早已逝去，若重返今日日本恐难辨认。所有影像藏于史密森尼学会亚洲艺术博物馆。
+
+---
+
+## <a name="13"></a>13. GPD Pocket 4 扬声器 DSP：通过 PipeWire 优化笔记本音质 
+<small>🔗 [kittenlabs.de](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/): GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better</small>
+
+
+| 🔥🔥: 186 \| 💬: [50](https://news.ycombinator.com/item?id=43635295) \| 🗓️ 2025-04-09
+
+
+<br />
+本文介绍了如何利用 **PipeWire** 和 **DSP 技术** 改善 GPD Pocket 4 笔记本扬声器的音质。作者通过 **Room EQ Wizard** 测量扬声器的频率响应，发现 4kHz 处存在刺耳的共振峰。通过生成反向滤波曲线并导入卷积滤波器，成功消除了失真。方法参考了 Asahi Linux 的音频优化方案，最终配置已开源。
 
 ---
 
@@ -207,7 +207,7 @@ Firefox用户界面（UI）采用HTML、CSS和JavaScript等Web技术构建，但
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/08/fake-job-seekers-use-ai-to-interview-for-remote-jobs-tech-ceos-say.html): Fake job seekers are flooding US companies that are hiring for remote positions</small>
 
 
-| 🔥🔥: 170 \| 💬: [228](https://news.ycombinator.com/item?id=43631384) \| 🗓️ 2025-04-09
+| 🔥🔥: 173 \| 💬: [228](https://news.ycombinator.com/item?id=43631384) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -219,7 +219,7 @@ Firefox用户界面（UI）采用HTML、CSS和JavaScript等Web技术构建，但
 <small>🔗 [whynothugo.nl](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/): Man pages are great, man readers are the problem</small>
 
 
-| 🔥🔥: 120 \| 💬: [151](https://news.ycombinator.com/item?id=43631672) \| 🗓️ 2025-04-09
+| 🔥🔥: 121 \| 💬: [153](https://news.ycombinator.com/item?id=43631672) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -231,7 +231,7 @@ man页面本身支持**超链接**和**窗口自适应重排**，但当前主流
 <small>🔗 [penntoday.upenn.edu](https://penntoday.upenn.edu/news/penn-dental-antiviral-chewing-gum-reduce-influenza-and-herpes-simplex-virus-transmission): Antiviral chewing gum to reduce influenza and herpes simplex virus transmission</small>
 
 
-| 🔥🔥: 113 \| 💬: [59](https://news.ycombinator.com/item?id=43636302) \| 🗓️ 2025-04-09
+| 🔥🔥: 117 \| 💬: [62](https://news.ycombinator.com/item?id=43636302) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -243,7 +243,7 @@ man页面本身支持**超链接**和**窗口自适应重排**，但当前主流
 <small>🔗 [github.com](https://github.com/herol3oy/austen): Show HN: I built an app to generate story relationships using Mermaidjs</small>
 
 
-| 🔥🔥: 110 \| 💬: [30](https://news.ycombinator.com/item?id=43633298) \| 🗓️ 2025-04-09
+| 🔥🔥: 114 \| 💬: [33](https://news.ycombinator.com/item?id=43633298) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -255,7 +255,7 @@ Austen是一款基于**Angular框架**开发的AI应用，通过**Mermaidjs图�
 <small>🔗 [arcturus-labs.com](http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/): Visual Reasoning Is Coming Soon</small>
 
 
-| 🔥🔥: 104 \| 💬: [38](https://news.ycombinator.com/item?id=43633568) \| 🗓️ 2025-04-09
+| 🔥🔥: 105 \| 💬: [38](https://news.ycombinator.com/item?id=43633568) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -267,7 +267,7 @@ OpenAI最新发布的**GPT-4o**实现了真正的图像操控，模型能基于�
 <small>🔗 [osf.io](https://osf.io/preprints/osf/zhm54_v3): Major Flaws in 2025 Meta-Analysis on Fluoride and Children IQ Scores</small>
 
 
-| 🔥: 99 \| 💬: [77](https://news.ycombinator.com/item?id=43633330) \| 🗓️ 2025-04-09
+| 🔥: 100 \| 💬: [77](https://news.ycombinator.com/item?id=43633330) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -291,7 +291,7 @@ OpenAI最新发布的**GPT-4o**实现了真正的图像操控，模型能基于�
 <small>🔗 [leaddev.com](https://leaddev.com/culture/ai-coding-mandates-are-driving-developers-to-the-brink): AI coding mandates are driving developers to the brink</small>
 
 
-| 🔥: 69 \| 💬: [86](https://news.ycombinator.com/item?id=43633288) \| 🗓️ 2025-04-09
+| 🔥: 70 \| 💬: [86](https://news.ycombinator.com/item?id=43633288) \| 🗓️ 2025-04-09
 
 
 <br />
