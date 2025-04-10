@@ -12,11 +12,11 @@ tags:
 1. 一双耐克鞋在亚洲的生产成本是多少？；
 1. 谷歌推出Agent2Agent协议（A2A），开启AI智能体协作新时代；
 1. Ironwood：谷歌首款专为推理时代设计的TPU；
-1. 特朗普政府停止起诉加密货币欺诈；
+1. 赴美旅行如何保护手机隐私安全；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共22条，具体内容您往下读...
+总共23条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/09/trump-announces-90-day-tariff-pause-for-at-least-some-countries.html): Trump temporarily drops tariffs to 10% for most countries</small>
 
 
-| 🔥🔥: 537 \| 💬: [1039](https://news.ycombinator.com/item?id=43634806) \| 🗓️ 2025-04-09
+| 🔥🔥: 573 \| 💬: [1091](https://news.ycombinator.com/item?id=43634806) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -36,10 +36,10 @@ tags:
 ---
 
 ## <a name="2"></a>2. 一双耐克鞋在亚洲的生产成本是多少？ 
-<small>🔗 [threadreaderapp.com](https://threadreaderapp.com/thread/1909741170953273353.html): How much do you think it costs to make a pair of Nike shoes in Asia?</small>
+<small>🔗 [twitter.com](https://twitter.com/dieworkwear/status/1909741170953273353): How much do you think it costs to make a pair of Nike shoes in Asia?</small>
 
 
-| 🔥🔥: 389 \| 💬: [561](https://news.ycombinator.com/item?id=43631543) \| 🗓️ 2025-04-09
+| 🔥🔥: 407 \| 💬: [576](https://news.ycombinator.com/item?id=43631543) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/): The Agent2Agent Protocol (A2A)</small>
 
 
-| 🔥🔥: 366 \| 💬: [206](https://news.ycombinator.com/item?id=43631381) \| 🗓️ 2025-04-09
+| 🔥🔥: 376 \| 💬: [214](https://news.ycombinator.com/item?id=43631381) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [blog.google](https://blog.google/products/google-cloud/ironwood-tpu-age-of-inference/): Ironwood: The first Google TPU for the age of inference</small>
 
 
-| 🔥🔥: 336 \| 💬: [127](https://news.ycombinator.com/item?id=43631274) \| 🗓️ 2025-04-09
+| 🔥🔥: 350 \| 💬: [131](https://news.ycombinator.com/item?id=43631274) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -71,7 +71,19 @@ tags:
 
 ---
 
-## <a name="5"></a>5. 特朗普政府停止起诉加密货币欺诈 
+## <a name="5"></a>5. 赴美旅行如何保护手机隐私安全 
+<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/03/27/cbp-cell-phones-devices-traveling-us/): How to lock down your phone if you're traveling to the U.S.</small>
+
+
+| 🔥🔥: 258 \| 💬: [273](https://news.ycombinator.com/item?id=43630624) \| 🗓️ 2025-04-09
+
+
+<br />
+美国海关与边境保护局（**CBP**）在入境口岸有权对电子设备进行**无证搜查**，非公民若拒绝可能被遣返。公民虽可拒绝，但可能面临扣留或没收设备。建议旅行前：删除敏感数据、改用**长密码**替代生物识别、关闭网络并清除缓存。加密设备能增强保护，但完全清空手机可能引发怀疑。数据若被复制将存入CBP数据库保存15年。
+
+---
+
+## <a name="6"></a>6. 特朗普政府停止起诉加密货币欺诈 
 <small>🔗 [theverge.com](https://www.theverge.com/policy/645399/trump-doj-cryptocurrency-fraud-prosecutions-memo): DOJ will no longer prosecute cryptocurrency fraud</small>
 
 
@@ -83,23 +95,11 @@ tags:
 
 ---
 
-## <a name="6"></a>6. 赴美旅行如何保护手机隐私安全 
-<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/03/27/cbp-cell-phones-devices-traveling-us/): How to lock down your phone if you're traveling to the U.S.</small>
-
-
-| 🔥🔥: 254 \| 💬: [261](https://news.ycombinator.com/item?id=43630624) \| 🗓️ 2025-04-09
-
-
-<br />
-美国海关与边境保护局（**CBP**）在入境口岸有权对电子设备进行**无证搜查**，非公民若拒绝可能被遣返。公民虽可拒绝，但可能面临扣留或没收设备。建议旅行前：删除敏感数据、改用**长密码**替代生物识别、关闭网络并清除缓存。加密设备能增强保护，但完全清空手机可能引发怀疑。数据若被复制将存入CBP数据库保存15年。
-
----
-
 ## <a name="7"></a>7. 美国制造的颠覆性困局 
 <small>🔗 [stratechery.com](https://stratechery.com/2025/american-disruption/): American Disruption</small>
 
 
-| 🔥🔥: 210 \| 💬: [180](https://news.ycombinator.com/item?id=43631276) \| 🗓️ 2025-04-09
+| 🔥🔥: 211 \| 💬: [180](https://news.ycombinator.com/item?id=43631276) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [spacetimedb.com](https://spacetimedb.com/): SpacetimeDB</small>
 
 
-| 🔥🔥: 203 \| 💬: [106](https://news.ycombinator.com/item?id=43631822) \| 🗓️ 2025-04-09
+| 🔥🔥: 208 \| 💬: [109](https://news.ycombinator.com/item?id=43631822) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -123,7 +123,7 @@ SpacetimeDB的核心创新在于**完整记录事务历史**，允许用户将�
 <small>🔗 [livesys.se](https://livesys.se/posts/the-chroot-technique/): The chroot Technique – a Swiss army multitool for Linux systems</small>
 
 
-| 🔥🔥: 191 \| 💬: [85](https://news.ycombinator.com/item?id=43632379) \| 🗓️ 2025-04-09
+| 🔥🔥: 198 \| 💬: [86](https://news.ycombinator.com/item?id=43632379) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -135,7 +135,7 @@ SpacetimeDB的核心创新在于**完整记录事务历史**，允许用户将�
 <small>🔗 [pilotprojekt-grundeinkommen.de](https://www.pilotprojekt-grundeinkommen.de/en): Basic Income Pilot Project: Study results</small>
 
 
-| 🔥🔥: 179 \| 💬: [200](https://news.ycombinator.com/item?id=43636757) \| 🗓️ 2025-04-09
+| 🔥🔥: 189 \| 💬: [214](https://news.ycombinator.com/item?id=43636757) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -147,7 +147,7 @@ SpacetimeDB的核心创新在于**完整记录事务历史**，允许用户将�
 <small>🔗 [docs.getwhisky.app](https://docs.getwhisky.app/maintenance-notice): Whisky is no longer actively maintained</small>
 
 
-| 🔥🔥: 172 \| 💬: [71](https://news.ycombinator.com/item?id=43631230) \| 🗓️ 2025-04-09
+| 🔥🔥: 173 \| 💬: [72](https://news.ycombinator.com/item?id=43631230) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -159,7 +159,7 @@ SpacetimeDB的核心创新在于**完整记录事务历史**，允许用户将�
 <small>🔗 [attackanddefense.dev](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html): Hardening the Firefox Front End with Content Security Policies</small>
 
 
-| 🔥🔥: 168 \| 💬: [60](https://news.ycombinator.com/item?id=43630388) \| 🗓️ 2025-04-09
+| 🔥🔥: 171 \| 💬: [60](https://news.ycombinator.com/item?id=43630388) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -171,7 +171,7 @@ Firefox用户界面（UI）采用HTML、CSS和JavaScript等Web技术构建，但
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/08/fake-job-seekers-use-ai-to-interview-for-remote-jobs-tech-ceos-say.html): Fake job seekers are flooding US companies that are hiring for remote positions</small>
 
 
-| 🔥🔥: 165 \| 💬: [222](https://news.ycombinator.com/item?id=43631384) \| 🗓️ 2025-04-09
+| 🔥🔥: 167 \| 💬: [226](https://news.ycombinator.com/item?id=43631384) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -183,7 +183,7 @@ Firefox用户界面（UI）采用HTML、CSS和JavaScript等Web技术构建，但
 <small>🔗 [kittenlabs.de](https://kittenlabs.de/blog/2025/04/06/gpd-pocket-4-speaker-dsp/): GPD Pocket 4 Speaker DSP: Configuring PipeWire so laptop speakers sound better</small>
 
 
-| 🔥🔥: 151 \| 💬: [35](https://news.ycombinator.com/item?id=43635295) \| 🗓️ 2025-04-09
+| 🔥🔥: 163 \| 💬: [41](https://news.ycombinator.com/item?id=43635295) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -191,35 +191,11 @@ Firefox用户界面（UI）采用HTML、CSS和JavaScript等Web技术构建，但
 
 ---
 
-## <a name="15"></a>15. 19世纪日本老照片：穿越时光的浮世绘 
-<small>🔗 [cosmographia.substack.com](https://cosmographia.substack.com/p/photographs-of-old-japan): Photographs of 19th Century Japan</small>
-
-
-| 🔥🔥: 118 \| 💬: [25](https://news.ycombinator.com/item?id=43631251) \| 🗓️ 2025-04-09
-
-
-<br />
-作者在爱丁堡通过**亨利与南希·罗辛收藏**的19世纪摄影集神游日本。这些拍摄于1860-1900年间的照片由多位摄影师创作，包括**费利斯·比托**等，经手工上色留存。画面涵盖江户末期至明治初期的市井生活、风景与建筑，如**日光东照宫**、京都祇园等，展现了彼时未被现代化侵蚀的日本风貌。文中感叹照片中人物早已逝去，若重返今日日本恐难辨认。所有影像藏于史密森尼学会亚洲艺术博物馆。
-
----
-
-## <a name="16"></a>16. man页面很强大，问题出在阅读工具上 
-<small>🔗 [whynothugo.nl](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/): Man pages are great, man readers are the problem</small>
-
-
-| 🔥🔥: 117 \| 💬: [141](https://news.ycombinator.com/item?id=43631672) \| 🗓️ 2025-04-09
-
-
-<br />
-man页面本身支持**超链接**和**窗口自适应重排**，但当前主流的man阅读工具（如`man(1)`配合`less(1)`）并未实现这些功能。man页面采用**语义化标记**的`mdoc(7)`格式，其中`.Xr`和`.Sx`宏本可生成交叉引用链接（HTML转换时已实现），但终端阅读器仅渲染为纯文本。文章呼吁开发能原生解析man格式、支持链接跳转和动态排版的现代阅读工具。
-
----
-
-## <a name="17"></a>17. Meta前高管指控公司危害美国安全 向中共提供用户数据 
+## <a name="15"></a>15. Meta前高管指控公司危害美国安全 向中共提供用户数据 
 <small>🔗 [thehill.com](https://thehill.com/homenews/senate/5241043-meta-executives-undermine-national-security/): Whistleblower tells senators that Meta undermined U.S. security, interests</small>
 
 
-| 🔥🔥: 103 \| 💬: [11](https://news.ycombinator.com/item?id=43637622) \| 🗓️ 2025-04-09
+| 🔥🔥: 142 \| 💬: [20](https://news.ycombinator.com/item?id=43637622) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -227,11 +203,35 @@ Meta前全球公共政策总监Sarah Wynn-Williams在参议院听证会上指控
 
 ---
 
+## <a name="16"></a>16. 19世纪日本老照片：穿越时光的浮世绘 
+<small>🔗 [cosmographia.substack.com](https://cosmographia.substack.com/p/photographs-of-old-japan): Photographs of 19th Century Japan</small>
+
+
+| 🔥🔥: 137 \| 💬: [28](https://news.ycombinator.com/item?id=43631251) \| 🗓️ 2025-04-09
+
+
+<br />
+作者在爱丁堡通过**亨利与南希·罗辛收藏**的19世纪摄影集神游日本。这些拍摄于1860-1900年间的照片由多位摄影师创作，包括**费利斯·比托**等，经手工上色留存。画面涵盖江户末期至明治初期的市井生活、风景与建筑，如**日光东照宫**、京都祇园等，展现了彼时未被现代化侵蚀的日本风貌。文中感叹照片中人物早已逝去，若重返今日日本恐难辨认。所有影像藏于史密森尼学会亚洲艺术博物馆。
+
+---
+
+## <a name="17"></a>17. man页面很强大，问题出在阅读工具上 
+<small>🔗 [whynothugo.nl](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/): Man pages are great, man readers are the problem</small>
+
+
+| 🔥🔥: 118 \| 💬: [147](https://news.ycombinator.com/item?id=43631672) \| 🗓️ 2025-04-09
+
+
+<br />
+man页面本身支持**超链接**和**窗口自适应重排**，但当前主流的man阅读工具（如`man(1)`配合`less(1)`）并未实现这些功能。man页面采用**语义化标记**的`mdoc(7)`格式，其中`.Xr`和`.Sx`宏本可生成交叉引用链接（HTML转换时已实现），但终端阅读器仅渲染为纯文本。文章呼吁开发能原生解析man格式、支持链接跳转和动态排版的现代阅读工具。
+
+---
+
 ## <a name="18"></a>18. 用Mermaidjs构建的AI故事关系图谱生成工具 
 <small>🔗 [github.com](https://github.com/herol3oy/austen): Show HN: I built an app to generate story relationships using Mermaidjs</small>
 
 
-| 🔥🔥: 101 \| 💬: [29](https://news.ycombinator.com/item?id=43633298) \| 🗓️ 2025-04-09
+| 🔥🔥: 105 \| 💬: [29](https://news.ycombinator.com/item?id=43633298) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -243,7 +243,7 @@ Austen是一款基于**Angular框架**开发的AI应用，通过**Mermaidjs图�
 <small>🔗 [osf.io](https://osf.io/preprints/osf/zhm54_v3): Major Flaws in 2025 Meta-Analysis on Fluoride and Children IQ Scores</small>
 
 
-| 🔥: 98 \| 💬: [75](https://news.ycombinator.com/item?id=43633330) \| 🗓️ 2025-04-09
+| 🔥: 99 \| 💬: [76](https://news.ycombinator.com/item?id=43633330) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -255,7 +255,7 @@ Austen是一款基于**Angular框架**开发的AI应用，通过**Mermaidjs图�
 <small>🔗 [arcturus-labs.com](http://arcturus-labs.com/blog/2025/03/31/visual-reasoning-is-coming-soon/): Visual Reasoning Is Coming Soon</small>
 
 
-| 🔥: 96 \| 💬: [33](https://news.ycombinator.com/item?id=43633568) \| 🗓️ 2025-04-09
+| 🔥: 99 \| 💬: [36](https://news.ycombinator.com/item?id=43633568) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -263,11 +263,23 @@ OpenAI最新发布的**GPT-4o**实现了真正的图像操控，模型能基于�
 
 ---
 
-## <a name="21"></a>21. 如何有效减少屏幕使用时间 
+## <a name="21"></a>21. 从沙漠到绿洲：宾大助力萨赫勒地区雄心勃勃的绿化计划 
+<small>🔗 [penntoday.upenn.edu](https://penntoday.upenn.edu/news/penn-dental-antiviral-chewing-gum-reduce-influenza-and-herpes-simplex-virus-transmission): Antiviral chewing gum to reduce influenza and herpes simplex virus transmission</small>
+
+
+| 🔥: 98 \| 💬: [54](https://news.ycombinator.com/item?id=43636302) \| 🗓️ 2025-04-09
+
+
+<br />
+宾夕法尼亚大学**韦茨曼设计学院**的学生前往塞内加尔，参与**达喀尔绿色屏障**项目。该项目旨在通过生态基础设施建设，应对荒漠化并促进可持续城市发展。博士生Rob Levinthal带领学生实地考察，并提出了绿化方案，展现了学术与实践结合的创新模式。
+
+---
+
+## <a name="22"></a>22. 如何有效减少屏幕使用时间 
 <small>🔗 [speedbumpapp.com](https://speedbumpapp.com/en/blog/how-to-reduce-screen-time/): A guide to reduce screen time</small>
 
 
-| 🔥: 94 \| 💬: [84](https://news.ycombinator.com/item?id=43630661) \| 🗓️ 2025-04-09
+| 🔥: 96 \| 💬: [86](https://news.ycombinator.com/item?id=43630661) \| 🗓️ 2025-04-09
 
 
 <br />
@@ -275,7 +287,7 @@ OpenAI最新发布的**GPT-4o**实现了真正的图像操控，模型能基于�
 
 ---
 
-## <a name="22"></a>22. AI编码强制令正将开发者逼至崩溃边缘 
+## <a name="23"></a>23. AI编码强制令正将开发者逼至崩溃边缘 
 <small>🔗 [leaddev.com](https://leaddev.com/culture/ai-coding-mandates-are-driving-developers-to-the-brink): AI coding mandates are driving developers to the brink</small>
 
 
