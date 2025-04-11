@@ -27,7 +27,7 @@ tags:
 <small>🔗 [garfieldminusgarfield.net](https://garfieldminusgarfield.net): Garfield Minus Garfield</small>
 
 
-| 🔥🔥: 440 \| 💬: [158](https://news.ycombinator.com/item?id=43646095) \| 🗓️ 2025-04-10
+| 🔥🔥: 460 \| 💬: [165](https://news.ycombinator.com/item?id=43646095) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [susam.net](https://susam.net/hn-bell.html): Hacker News Hug of Deaf</small>
 
 
-| 🔥🔥: 414 \| 💬: [98](https://news.ycombinator.com/item?id=43642123) \| 🗓️ 2025-04-10
+| 🔥🔥: 422 \| 💬: [98](https://news.ycombinator.com/item?id=43642123) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -50,10 +50,10 @@ tags:
 ---
 
 ## <a name="3"></a>3. Python PEP 750 模板字符串（t-strings）正式通过 
-<small>🔗 [peps.python.org](https://peps.python.org/pep-0750/): PEP 750 – Template Strings (t-strings) have been accepted</small>
+<small>🔗 [peps.python.org](https://peps.python.org/pep-0750/): PEP 750 – Template Strings</small>
 
 
-| 🔥🔥: 291 \| 💬: [157](https://news.ycombinator.com/item?id=43647716) \| 🗓️ 2025-04-10
+| 🔥🔥: 332 \| 💬: [181](https://news.ycombinator.com/item?id=43647716) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -65,7 +65,7 @@ Python 核心团队通过了 **PEP 750**，引入了一种新的字符串前缀 
 <small>🔗 [busy.bar](https://busy.bar): Busy Bar</small>
 
 
-| 🔥🔥: 231 \| 💬: [123](https://news.ycombinator.com/item?id=43643534) \| 🗓️ 2025-04-10
+| 🔥🔥: 235 \| 💬: [124](https://news.ycombinator.com/item?id=43643534) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -77,7 +77,7 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00964-w): Sleep is essential – researchers are trying to work out why</small>
 
 
-| 🔥🔥: 212 \| 💬: [151](https://news.ycombinator.com/item?id=43643390) \| 🗓️ 2025-04-10
+| 🔥🔥: 213 \| 💬: [153](https://news.ycombinator.com/item?id=43643390) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -89,7 +89,7 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 <small>🔗 [inclouds.space](https://inclouds.space/localhost-domains): .localhost Domains</small>
 
 
-| 🔥🔥: 191 \| 💬: [136](https://news.ycombinator.com/item?id=43644043) \| 🗓️ 2025-04-10
+| 🔥🔥: 197 \| 💬: [136](https://news.ycombinator.com/item?id=43644043) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -101,7 +101,7 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 <small>🔗 [bigbookofr.com](https://www.bigbookofr.com/): Big Book of R</small>
 
 
-| 🔥🔥: 150 \| 💬: [35](https://news.ycombinator.com/item?id=43646219) \| 🗓️ 2025-04-10
+| 🔥🔥: 160 \| 💬: [40](https://news.ycombinator.com/item?id=43646219) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -113,7 +113,7 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 <small>🔗 [cheeseprofessor.com](https://www.cheeseprofessor.com/blog/cheese-wheel-tapping): Why Tap a Wheel of Cheese?</small>
 
 
-| 🔥🔥: 141 \| 💬: [110](https://news.ycombinator.com/item?id=43644970) \| 🗓️ 2025-04-10
+| 🔥🔥: 145 \| 💬: [113](https://news.ycombinator.com/item?id=43644970) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -125,7 +125,7 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 <small>🔗 [openculture.com](https://www.openculture.com/2025/04/isaac-asimov-describes-how-ai-will-liberate-humans-their-creativity.html): Isaac Asimov describes how AI will liberate humans and their creativity (1992)</small>
 
 
-| 🔥🔥: 136 \| 💬: [192](https://news.ycombinator.com/item?id=43644179) \| 🗓️ 2025-04-10
+| 🔥🔥: 144 \| 💬: [197](https://news.ycombinator.com/item?id=43644179) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -133,7 +133,31 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
-## <a name="10"></a>10. 美国正倒退至污染最严重的时代 
+## <a name="10"></a>10. 椭圆式Python编程的艺术 
+<small>🔗 [susam.net](https://susam.net/elliptical-python-programming.html): Elliptical Python Programming</small>
+
+
+| 🔥🔥: 138 \| 💬: [21](https://news.ycombinator.com/item?id=43643292) \| 🗓️ 2025-04-10
+
+
+<br />
+作者Susam Pal以幽默笔调探讨Python的**极简哲学**，通过`(...==...)`等奇特语法生成数字，调侃编程中“**唯一明显方式**”的禅意。文章演示了如何用**预减运算符**和括号构造代码，甚至建议重映射Tab键来输入省略号，但强调**生产代码应保持可读性**。最后提醒：此类代码仅供娱乐，真实项目需添加日志，并遵循“为人编写，而非机器”的原则。
+
+---
+
+## <a name="11"></a>11. 《我写了一本关于Go语言常见错误的书》 
+<small>🔗 [thecoder.cafe](https://www.thecoder.cafe/p/100-go-mistakes): The Story Behind “100 Go Mistakes and How to Avoid Them”</small>
+
+
+| 🔥🔥: 137 \| 💬: [46](https://news.ycombinator.com/item?id=43647880) \| 🗓️ 2025-04-10
+
+
+<br />
+作者Teiva Harsanyi分享了撰写《**100 Go Mistakes and How to Avoid Them**》的历程。从2018年接触Go语言，到2019年一篇意外走红的博客文章《**Go项目十大常见错误**》，再到2020年与出版社Manning合作出书。书中详细记录了**开发流程**、与编辑的合作，以及如何通过反复修改提升内容质量。作者强调，写书不仅是技术分享，更是对读者的承诺——确保内容值得信赖。
+
+---
+
+## <a name="12"></a>12. 美国正倒退至污染最严重的时代 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/health/archive/2025/04/air-pollution-trump-administration/682361/): America Is Backsliding Toward Its Most Polluted Era</small>
 
 
@@ -145,35 +169,11 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
-## <a name="11"></a>11. 椭圆式Python编程的艺术 
-<small>🔗 [susam.net](https://susam.net/elliptical-python-programming.html): Elliptical Python Programming</small>
-
-
-| 🔥🔥: 135 \| 💬: [21](https://news.ycombinator.com/item?id=43643292) \| 🗓️ 2025-04-10
-
-
-<br />
-作者Susam Pal以幽默笔调探讨Python的**极简哲学**，通过`(...==...)`等奇特语法生成数字，调侃编程中“**唯一明显方式**”的禅意。文章演示了如何用**预减运算符**和括号构造代码，甚至建议重映射Tab键来输入省略号，但强调**生产代码应保持可读性**。最后提醒：此类代码仅供娱乐，真实项目需添加日志，并遵循“为人编写，而非机器”的原则。
-
----
-
-## <a name="12"></a>12. 《我写了一本关于Go语言常见错误的书》 
-<small>🔗 [thecoder.cafe](https://www.thecoder.cafe/p/100-go-mistakes): So, I Wrote a Book: The Story Behind “100 Go Mistakes and How to Avoid Them”</small>
-
-
-| 🔥🔥: 120 \| 💬: [44](https://news.ycombinator.com/item?id=43647880) \| 🗓️ 2025-04-10
-
-
-<br />
-作者Teiva Harsanyi分享了撰写《**100 Go Mistakes and How to Avoid Them**》的历程。从2018年接触Go语言，到2019年一篇意外走红的博客文章《**Go项目十大常见错误**》，再到2020年与出版社Manning合作出书。书中详细记录了**开发流程**、与编辑的合作，以及如何通过反复修改提升内容质量。作者强调，写书不仅是技术分享，更是对读者的承诺——确保内容值得信赖。
-
----
-
 ## <a name="13"></a>13. SDL2 在 macOS 9 上的初步开发进展 
 <small>🔗 [macintoshgarden.org](https://macintoshgarden.org/apps/sdl2-macos-9-rough-draft): SDL2 for macOS 9 “rough draft”</small>
 
 
-| 🔥: 89 \| 💬: [36](https://news.ycombinator.com/item?id=43645183) \| 🗓️ 2025-04-10
+| 🔥: 93 \| 💬: [43](https://news.ycombinator.com/item?id=43645183) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -185,35 +185,11 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
-## <a name="14"></a>14. 联邦移民局拘留学生抗议者 律师介入维权 
-<small>🔗 [old.reddit.com](https://old.reddit.com/r/ABoringDystopia/comments/1jw34qx/attorney_representing_a_student_protester/): Attorney representing a student protester detained by federal immigration agents</small>
-
-
-| 🔥: 81 \| 💬: [27](https://news.ycombinator.com/item?id=43647812) \| 🗓️ 2025-04-10
-
-
-<br />
-Reddit社区热议一则新闻：一名参与抗议的学生被**联邦移民局**拘留，其代理律师正采取法律行动。讨论中，网友用"**盖世太保手段**"形容执法行为，并担忧局势恶化可能引发更广泛冲突。部分评论指出，经济困境与枪支泛滥或加剧社会风险。该帖引发5条争议性回复，包括对未来的悲观预测。
-
----
-
-## <a name="15"></a>15. 揭秘 Shebang：内核如何执行脚本 
-<small>🔗 [crocidb.com](https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/): Demystifying the (Shebang): Kernel Adventures</small>
-
-
-| 🔥: 80 \| 💬: [17](https://news.ycombinator.com/item?id=43646698) \| 🗓️ 2025-04-10
-
-
-<br />
-本文深入探讨了**Shebang（#!）**的工作原理，揭示其并非由Shell处理，而是由**Linux内核**直接解析。通过分析`strace`追踪的系统调用和内核源码（如`fs/binfmt_script.c`），作者发现内核通过`execve`系统调用读取脚本首行的Shebang，定位解释器并执行。若脚本无Shebang，Shell会回退到默认解释器（如`/bin/sh`）。文中还对比了`useradd`（ELF二进制）和`adduser`（Perl脚本）的差异，并提及**binfmt_misc**机制如何扩展非原生程序（如Java/Python）的执行方式。
-
----
-
-## <a name="16"></a>16. 我的私有二进制：Linux内核模块的独特入门指南 
+## <a name="14"></a>14. 我的私有二进制：Linux内核模块的独特入门指南 
 <small>🔗 [muppetlabs.com](https://www.muppetlabs.com/~breadbox/txt/mopb.html): My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules</small>
 
 
-| 🔥: 75 \| 💬: [6](https://news.ycombinator.com/item?id=43647294) \| 🗓️ 2025-04-10
+| 🔥: 89 \| 💬: [7](https://news.ycombinator.com/item?id=43647294) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -221,23 +197,35 @@ Reddit社区热议一则新闻：一名参与抗议的学生被**联邦移民局
 
 ---
 
-## <a name="17"></a>17. Koreo：专为Kubernetes设计的平台工程工具包 
-<small>🔗 [koreo.dev](https://koreo.dev/): Show HN: Koreo – A platform engineering toolkit for Kubernetes</small>
+## <a name="15"></a>15. 揭秘 Shebang：内核如何执行脚本 
+<small>🔗 [crocidb.com](https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/): Demystifying the (Shebang): Kernel Adventures</small>
 
 
-| 🔥: 74 \| 💬: [29](https://news.ycombinator.com/item?id=43644351) \| 🗓️ 2025-04-10
+| 🔥: 87 \| 💬: [23](https://news.ycombinator.com/item?id=43646698) \| 🗓️ 2025-04-10
 
 
 <br />
-Koreo是一款创新的Kubernetes配置管理与资源编排工具，通过**可编程工作流**和**结构化数据**赋能开发者。它支持定义复杂多步骤流程，自动化从简单部署到完整云环境的操作，并将配置视为函数式模块，提升复用性与可维护性。其**声明式操作模型**确保基础设施状态一致性，内置测试框架和IDE工具链实现“配置即代码”。Koreo整合了Helm等工具的优势，适用于构建内部开发者平台、多云IaC和策略即代码等场景，由拥有十年平台工程经验的Real Kinetic团队开发。
+本文深入探讨了**Shebang（#!）**的工作原理，揭示其并非由Shell处理，而是由**Linux内核**直接解析。通过分析`strace`追踪的系统调用和内核源码（如`fs/binfmt_script.c`），作者发现内核通过`execve`系统调用读取脚本首行的Shebang，定位解释器并执行。若脚本无Shebang，Shell会回退到默认解释器（如`/bin/sh`）。文中还对比了`useradd`（ELF二进制）和`adduser`（Perl脚本）的差异，并提及**binfmt_misc**机制如何扩展非原生程序（如Java/Python）的执行方式。
 
 ---
 
-## <a name="18"></a>18. 律师为被移民局扣押的学生抗议者辩护 
+## <a name="16"></a>16. 联邦移民局拘留学生抗议者 律师介入维权 
+<small>🔗 [old.reddit.com](https://old.reddit.com/r/ABoringDystopia/comments/1jw34qx/attorney_representing_a_student_protester/): Attorney representing a student protester detained by federal immigration agents</small>
+
+
+| 🔥: 83 \| 💬: [27](https://news.ycombinator.com/item?id=43647812) \| 🗓️ 2025-04-10
+
+
+<br />
+Reddit社区热议一则新闻：一名参与抗议的学生被**联邦移民局**拘留，其代理律师正采取法律行动。讨论中，网友用"**盖世太保手段**"形容执法行为，并担忧局势恶化可能引发更广泛冲突。部分评论指出，经济困境与枪支泛滥或加剧社会风险。该帖引发5条争议性回复，包括对未来的悲观预测。
+
+---
+
+## <a name="17"></a>17. 律师为被移民局扣押的学生抗议者辩护 
 <small>🔗 [npr.org](https://www.npr.org/2025/04/09/nx-s1-5357455/attorney-detained-by-immigration-authorities): Attorney representing a student protester detained by federal immigration agents</small>
 
 
-| 🔥: 74 \| 💬: [8](https://news.ycombinator.com/item?id=43647939) \| 🗓️ 2025-04-10
+| 🔥: 76 \| 💬: [8](https://news.ycombinator.com/item?id=43647939) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -245,11 +233,23 @@ Koreo是一款创新的Kubernetes配置管理与资源编排工具，通过**可
 
 ---
 
+## <a name="18"></a>18. Koreo：专为Kubernetes设计的平台工程工具包 
+<small>🔗 [koreo.dev](https://koreo.dev/): Show HN: Koreo – A platform engineering toolkit for Kubernetes</small>
+
+
+| 🔥: 75 \| 💬: [29](https://news.ycombinator.com/item?id=43644351) \| 🗓️ 2025-04-10
+
+
+<br />
+Koreo是一款创新的Kubernetes配置管理与资源编排工具，通过**可编程工作流**和**结构化数据**赋能开发者。它支持定义复杂多步骤流程，自动化从简单部署到完整云环境的操作，并将配置视为函数式模块，提升复用性与可维护性。其**声明式操作模型**确保基础设施状态一致性，内置测试框架和IDE工具链实现“配置即代码”。Koreo整合了Helm等工具的优势，适用于构建内部开发者平台、多云IaC和策略即代码等场景，由拥有十年平台工程经验的Real Kinetic团队开发。
+
+---
+
 ## <a name="19"></a>19. 2000美元的“美国制造”手机是如何诞生的 
 <small>🔗 [404media.co](https://www.404media.co/how-a-2-000-made-in-the-usa-liberty-phone-phone-is-manufactured/): How a $2k 'Made in the USA' Phone Is Manufactured</small>
 
 
-| 🔥: 65 \| 💬: [60](https://news.ycombinator.com/item?id=43646920) \| 🗓️ 2025-04-10
+| 🔥: 66 \| 💬: [60](https://news.ycombinator.com/item?id=43646920) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -261,7 +261,7 @@ Purism公司推出的**Liberty Phone**是目前唯一获得FTC认证的“美国
 <small>🔗 [machinelearning.apple.com](https://machinelearning.apple.com/research/transporting-activations): Controlling Language and Diffusion Models by Transporting Activations</small>
 
 
-| 🔥: 63 \| 💬: [12](https://news.ycombinator.com/item?id=43646466) \| 🗓️ 2025-04-10
+| 🔥: 64 \| 💬: [12](https://news.ycombinator.com/item?id=43646466) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -273,7 +273,7 @@ Purism公司推出的**Liberty Phone**是目前唯一获得FTC认证的“美国
 <small>🔗 [news.blueshieldca.com](https://news.blueshieldca.com/notice-of-data-breach): Blue Shield Data Breach (Google Ads)</small>
 
 
-| 🔥: 62 \| 💬: [44](https://news.ycombinator.com/item?id=43645331) \| 🗓️ 2025-04-10
+| 🔥: 63 \| 💬: [45](https://news.ycombinator.com/item?id=43645331) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -307,7 +307,19 @@ Purism公司推出的**Liberty Phone**是目前唯一获得FTC认证的“美国
 
 ---
 
-## <a name="24"></a>24. 美国人去欧洲还受欢迎吗？ 
+## <a name="24"></a>24. Cloudflare R2数据目录：零出口费的托管Apache Iceberg表 
+<small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/r2-data-catalog-public-beta/): Cloudflare R2 Data Catalog: Managed Apache Iceberg tables with zero egress fees</small>
+
+
+| 🔥: 44 \| 💬: [6](https://news.ycombinator.com/item?id=43644173) \| 🗓️ 2025-04-10
+
+
+<br />
+Cloudflare推出**R2 Data Catalog**公开测试版，将**Apache Iceberg**表格式直接集成到R2存储桶中，无需额外管理外部目录。Iceberg提供ACID事务、模式演进和高效查询能力，支持Spark、Snowflake等引擎，且**零出口费**。用户现可通过PyIceberg快速创建表，未来将优化文件合并性能。当前测试阶段仅收取标准R2存储费用，未来计划对目录操作按量计费。
+
+---
+
+## <a name="25"></a>25. 美国人去欧洲还受欢迎吗？ 
 <small>🔗 [blog.ricksteves.com](https://blog.ricksteves.com/cameron/2025/03/americans-welcome-europe-2025/): Are Americans Still Welcome in Europe?</small>
 
 
@@ -316,17 +328,5 @@ Purism公司推出的**Liberty Phone**是目前唯一获得FTC认证的“美国
 
 <br />
 尽管特朗普政府的政策引发欧洲对美国信任度的质疑，但作者认为**美国游客仍会受到欢迎**。欧洲人普遍能区分政府行为与个人，且历史上已习惯应对类似政治人物。关键在于**以开放心态交流**，避免将个别不友好行为归咎于国籍。作者建议旅行者做好讨论政治的准备，并**充当文化大使**，通过个人互动展现美国价值观。过去经验表明，即使在国际关系紧张时期，欧洲人仍对美国人保持友善。
-
----
-
-## <a name="25"></a>25. Cloudflare R2数据目录：零出口费的托管Apache Iceberg表 
-<small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/r2-data-catalog-public-beta/): Cloudflare R2 Data Catalog: Managed Apache Iceberg tables with zero egress fees</small>
-
-
-| 🔥: 43 \| 💬: [6](https://news.ycombinator.com/item?id=43644173) \| 🗓️ 2025-04-10
-
-
-<br />
-Cloudflare推出**R2 Data Catalog**公开测试版，将**Apache Iceberg**表格式直接集成到R2存储桶中，无需额外管理外部目录。Iceberg提供ACID事务、模式演进和高效查询能力，支持Spark、Snowflake等引擎，且**零出口费**。用户现可通过PyIceberg快速创建表，未来将优化文件合并性能。当前测试阶段仅收取标准R2存储费用，未来计划对目录操作按量计费。
 
 ---
