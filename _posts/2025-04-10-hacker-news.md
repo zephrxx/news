@@ -27,7 +27,7 @@ tags:
 <small>🔗 [garfieldminusgarfield.net](https://garfieldminusgarfield.net): Garfield Minus Garfield</small>
 
 
-| 🔥🔥: 513 \| 💬: [186](https://news.ycombinator.com/item?id=43646095) \| 🗓️ 2025-04-10
+| 🔥🔥: 531 \| 💬: [199](https://news.ycombinator.com/item?id=43646095) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [susam.net](https://susam.net/hn-bell.html): Hacker News Hug of Deaf</small>
 
 
-| 🔥🔥: 429 \| 💬: [98](https://news.ycombinator.com/item?id=43642123) \| 🗓️ 2025-04-10
+| 🔥🔥: 432 \| 💬: [99](https://news.ycombinator.com/item?id=43642123) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -53,7 +53,7 @@ tags:
 <small>🔗 [peps.python.org](https://peps.python.org/pep-0750/): PEP 750 – Template Strings</small>
 
 
-| 🔥🔥: 366 \| 💬: [244](https://news.ycombinator.com/item?id=43647716) \| 🗓️ 2025-04-10
+| 🔥🔥: 369 \| 💬: [249](https://news.ycombinator.com/item?id=43647716) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -65,7 +65,7 @@ Python 核心团队通过了 **PEP 750**，引入了一种新的字符串前缀 
 <small>🔗 [busy.bar](https://busy.bar): Busy Bar</small>
 
 
-| 🔥🔥: 244 \| 💬: [136](https://news.ycombinator.com/item?id=43643534) \| 🗓️ 2025-04-10
+| 🔥🔥: 247 \| 💬: [137](https://news.ycombinator.com/item?id=43643534) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -77,7 +77,7 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00964-w): Sleep is essential – researchers are trying to work out why</small>
 
 
-| 🔥🔥: 216 \| 💬: [154](https://news.ycombinator.com/item?id=43643390) \| 🗓️ 2025-04-10
+| 🔥🔥: 221 \| 💬: [155](https://news.ycombinator.com/item?id=43643390) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -85,7 +85,31 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
-## <a name="6"></a>6. 用.localhost域名简化本地开发 
+## <a name="6"></a>6. 《我写了一本关于Go语言常见错误的书》 
+<small>🔗 [thecoder.cafe](https://www.thecoder.cafe/p/100-go-mistakes): The Story Behind “100 Go Mistakes and How to Avoid Them”</small>
+
+
+| 🔥🔥: 210 \| 💬: [57](https://news.ycombinator.com/item?id=43647880) \| 🗓️ 2025-04-10
+
+
+<br />
+作者Teiva Harsanyi分享了撰写《**100 Go Mistakes and How to Avoid Them**》的历程。从2018年接触Go语言，到2019年一篇意外走红的博客文章《**Go项目十大常见错误**》，再到2020年与出版社Manning合作出书。书中详细记录了**开发流程**、与编辑的合作，以及如何通过反复修改提升内容质量。作者强调，写书不仅是技术分享，更是对读者的承诺——确保内容值得信赖。
+
+---
+
+## <a name="7"></a>7. AI购物应用Nate创始人被控欺诈，实为菲律宾人工代购 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/): Fintech founder charged with fraud; AI app found to be humans in the Philippines</small>
+
+
+| 🔥🔥: 206 \| 💬: [94](https://news.ycombinator.com/item?id=43648950) \| 🗓️ 2025-04-10
+
+
+<br />
+美国司法部指控**AI购物应用Nate**创始人Albert Saniger欺诈投资者。该公司宣称通过**AI技术**实现“一键全网购”，实际却依赖菲律宾呼叫中心的数百名人工完成交易。Nate曾融资超5000万美元，但自动化率接近**0%**，最终因资金耗尽出售资产，投资者损失惨重。类似夸大AI能力的案例近年频发，如AI法律科技公司EvenUp也被曝主要依赖人工。
+
+---
+
+## <a name="8"></a>8. 用.localhost域名简化本地开发 
 <small>🔗 [inclouds.space](https://inclouds.space/localhost-domains): .localhost Domains</small>
 
 
@@ -97,23 +121,11 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
-## <a name="7"></a>7. 《我写了一本关于Go语言常见错误的书》 
-<small>🔗 [thecoder.cafe](https://www.thecoder.cafe/p/100-go-mistakes): The Story Behind “100 Go Mistakes and How to Avoid Them”</small>
-
-
-| 🔥🔥: 197 \| 💬: [54](https://news.ycombinator.com/item?id=43647880) \| 🗓️ 2025-04-10
-
-
-<br />
-作者Teiva Harsanyi分享了撰写《**100 Go Mistakes and How to Avoid Them**》的历程。从2018年接触Go语言，到2019年一篇意外走红的博客文章《**Go项目十大常见错误**》，再到2020年与出版社Manning合作出书。书中详细记录了**开发流程**、与编辑的合作，以及如何通过反复修改提升内容质量。作者强调，写书不仅是技术分享，更是对读者的承诺——确保内容值得信赖。
-
----
-
-## <a name="8"></a>8. R语言资源大全：一网打尽免费编程书籍 
+## <a name="9"></a>9. R语言资源大全：一网打尽免费编程书籍 
 <small>🔗 [bigbookofr.com](https://www.bigbookofr.com/): Big Book of R</small>
 
 
-| 🔥🔥: 187 \| 💬: [50](https://news.ycombinator.com/item?id=43646219) \| 🗓️ 2025-04-10
+| 🔥🔥: 198 \| 💬: [53](https://news.ycombinator.com/item?id=43646219) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -121,23 +133,11 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
-## <a name="9"></a>9. AI购物应用Nate创始人被控欺诈，实为菲律宾人工代购 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/): Fintech founder charged with fraud; AI app found to be humans in the Philippines</small>
-
-
-| 🔥🔥: 169 \| 💬: [84](https://news.ycombinator.com/item?id=43648950) \| 🗓️ 2025-04-10
-
-
-<br />
-美国司法部指控**AI购物应用Nate**创始人Albert Saniger欺诈投资者。该公司宣称通过**AI技术**实现“一键全网购”，实际却依赖菲律宾呼叫中心的数百名人工完成交易。Nate曾融资超5000万美元，但自动化率接近**0%**，最终因资金耗尽出售资产，投资者损失惨重。类似夸大AI能力的案例近年频发，如AI法律科技公司EvenUp也被曝主要依赖人工。
-
----
-
 ## <a name="10"></a>10. 为何要敲击帕尔马干酪？ 
 <small>🔗 [cheeseprofessor.com](https://www.cheeseprofessor.com/blog/cheese-wheel-tapping): Why Tap a Wheel of Cheese?</small>
 
 
-| 🔥🔥: 163 \| 💬: [119](https://news.ycombinator.com/item?id=43644970) \| 🗓️ 2025-04-10
+| 🔥🔥: 170 \| 💬: [122](https://news.ycombinator.com/item?id=43644970) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -149,7 +149,7 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 <small>🔗 [susam.net](https://susam.net/elliptical-python-programming.html): Elliptical Python Programming</small>
 
 
-| 🔥🔥: 152 \| 💬: [21](https://news.ycombinator.com/item?id=43643292) \| 🗓️ 2025-04-10
+| 🔥🔥: 160 \| 💬: [21](https://news.ycombinator.com/item?id=43643292) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -161,7 +161,7 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 <small>🔗 [openculture.com](https://www.openculture.com/2025/04/isaac-asimov-describes-how-ai-will-liberate-humans-their-creativity.html): Isaac Asimov describes how AI will liberate humans and their creativity (1992)</small>
 
 
-| 🔥🔥: 150 \| 💬: [206](https://news.ycombinator.com/item?id=43644179) \| 🗓️ 2025-04-10
+| 🔥🔥: 151 \| 💬: [207](https://news.ycombinator.com/item?id=43644179) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -169,7 +169,19 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
-## <a name="13"></a>13. 美国正倒退至污染最严重的时代 
+## <a name="13"></a>13. 我的私有二进制：Linux内核模块的独特入门指南 
+<small>🔗 [muppetlabs.com](https://www.muppetlabs.com/~breadbox/txt/mopb.html): My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules</small>
+
+
+| 🔥🔥: 148 \| 💬: [12](https://news.ycombinator.com/item?id=43647294) \| 🗓️ 2025-04-10
+
+
+<br />
+本文作者因对ELF可执行文件体积过大不满，开始研究如何制作极小的可执行文件，最终将ELF文件压缩至45字节。随后，有人建议使用更古老的**aout格式**（仅需35字节），但现代Linux系统默认已禁用该格式。作者由此探索Linux支持的二进制格式机制，发现内核通过**可加载模块**动态支持新格式。文章详细演示了如何编写一个简单的“Hello Kernel”模块，并强调内核编程的高自由度与风险——例如一个错误循环可能导致系统崩溃。最终，作者提出通过自定义内核模块实现类似DOS的**.com格式**（无元数据）的设想，展现了Linux内核的高度可扩展性。
+
+---
+
+## <a name="14"></a>14. 美国正倒退至污染最严重的时代 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/health/archive/2025/04/air-pollution-trump-administration/682361/): America Is Backsliding Toward Its Most Polluted Era</small>
 
 
@@ -181,35 +193,11 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
-## <a name="14"></a>14. 我的私有二进制：Linux内核模块的独特入门指南 
-<small>🔗 [muppetlabs.com](https://www.muppetlabs.com/~breadbox/txt/mopb.html): My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules</small>
-
-
-| 🔥🔥: 129 \| 💬: [11](https://news.ycombinator.com/item?id=43647294) \| 🗓️ 2025-04-10
-
-
-<br />
-本文作者因对ELF可执行文件体积过大不满，开始研究如何制作极小的可执行文件，最终将ELF文件压缩至45字节。随后，有人建议使用更古老的**aout格式**（仅需35字节），但现代Linux系统默认已禁用该格式。作者由此探索Linux支持的二进制格式机制，发现内核通过**可加载模块**动态支持新格式。文章详细演示了如何编写一个简单的“Hello Kernel”模块，并强调内核编程的高自由度与风险——例如一个错误循环可能导致系统崩溃。最终，作者提出通过自定义内核模块实现类似DOS的**.com格式**（无元数据）的设想，展现了Linux内核的高度可扩展性。
-
----
-
-## <a name="15"></a>15. 揭秘 Shebang：内核如何执行脚本 
-<small>🔗 [crocidb.com](https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/): Demystifying the (Shebang): Kernel Adventures</small>
-
-
-| 🔥🔥: 112 \| 💬: [26](https://news.ycombinator.com/item?id=43646698) \| 🗓️ 2025-04-10
-
-
-<br />
-本文深入探讨了**Shebang（#!）**的工作原理，揭示其并非由Shell处理，而是由**Linux内核**直接解析。通过分析`strace`追踪的系统调用和内核源码（如`fs/binfmt_script.c`），作者发现内核通过`execve`系统调用读取脚本首行的Shebang，定位解释器并执行。若脚本无Shebang，Shell会回退到默认解释器（如`/bin/sh`）。文中还对比了`useradd`（ELF二进制）和`adduser`（Perl脚本）的差异，并提及**binfmt_misc**机制如何扩展非原生程序（如Java/Python）的执行方式。
-
----
-
-## <a name="16"></a>16. 2000美元的“美国制造”手机是如何诞生的 
+## <a name="15"></a>15. 2000美元的“美国制造”手机是如何诞生的 
 <small>🔗 [404media.co](https://www.404media.co/how-a-2-000-made-in-the-usa-liberty-phone-phone-is-manufactured/): How a $2k 'Made in the USA' Phone Is Manufactured</small>
 
 
-| 🔥🔥: 107 \| 💬: [142](https://news.ycombinator.com/item?id=43646920) \| 🗓️ 2025-04-10
+| 🔥🔥: 126 \| 💬: [153](https://news.ycombinator.com/item?id=43646920) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -217,11 +205,35 @@ Purism公司推出的**Liberty Phone**是目前唯一获得FTC认证的“美国
 
 ---
 
-## <a name="17"></a>17. SDL2 在 macOS 9 上的初步开发进展 
+## <a name="16"></a>16. 揭秘 Shebang：内核如何执行脚本 
+<small>🔗 [crocidb.com](https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/): Demystifying the (Shebang): Kernel Adventures</small>
+
+
+| 🔥🔥: 120 \| 💬: [29](https://news.ycombinator.com/item?id=43646698) \| 🗓️ 2025-04-10
+
+
+<br />
+本文深入探讨了**Shebang（#!）**的工作原理，揭示其并非由Shell处理，而是由**Linux内核**直接解析。通过分析`strace`追踪的系统调用和内核源码（如`fs/binfmt_script.c`），作者发现内核通过`execve`系统调用读取脚本首行的Shebang，定位解释器并执行。若脚本无Shebang，Shell会回退到默认解释器（如`/bin/sh`）。文中还对比了`useradd`（ELF二进制）和`adduser`（Perl脚本）的差异，并提及**binfmt_misc**机制如何扩展非原生程序（如Java/Python）的执行方式。
+
+---
+
+## <a name="17"></a>17. 《黑镜》的悲观主义“焦虑贩卖”无益于未来 
+<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/apr/10/black-mirror-tv-show-pessimism): Black Mirror's pessimism porn won't lead us to a better future</small>
+
+
+| 🔥🔥: 107 \| 💬: [99](https://news.ycombinator.com/item?id=43648890) \| 🗓️ 2025-04-10
+
+
+<br />
+《黑镜》虽以科技与人性互动为主题，却过度沉迷**反乌托邦叙事**，将技术简化为必然的灾难。文章批评其缺乏对技术**双重性**的探讨，忽视如普罗米修斯之火般的积极意义，反而强化公众对未来的非理性恐惧。这种**“悲观主义情色”**导致现实决策失误，例如抵制转基因食品或核能，最终付出高昂代价。作者呼吁用建设性叙事替代末日想象，承认技术风险的同时，聚焦其解决难题的潜力。
+
+---
+
+## <a name="18"></a>18. SDL2 在 macOS 9 上的初步开发进展 
 <small>🔗 [macintoshgarden.org](https://macintoshgarden.org/apps/sdl2-macos-9-rough-draft): SDL2 for macOS 9 “rough draft”</small>
 
 
-| 🔥🔥: 103 \| 💬: [49](https://news.ycombinator.com/item?id=43645183) \| 🗓️ 2025-04-10
+| 🔥🔥: 106 \| 💬: [50](https://news.ycombinator.com/item?id=43645183) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -233,19 +245,19 @@ Purism公司推出的**Liberty Phone**是目前唯一获得FTC认证的“美国
 
 ---
 
-## <a name="18"></a>18. 《黑镜》的悲观主义“焦虑贩卖”无益于未来 
-<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/apr/10/black-mirror-tv-show-pessimism): Black Mirror's pessimism porn won't lead us to a better future</small>
+## <a name="19"></a>19. 浏览器将调整h1元素的默认样式 
+<small>🔗 [developer.mozilla.org](https://developer.mozilla.org/en-US/blog/h1-element-styles/): Default styles for h1 elements are changing</small>
 
 
-| 🔥: 93 \| 💬: [81](https://news.ycombinator.com/item?id=43648890) \| 🗓️ 2025-04-10
+| 🔥: 90 \| 💬: [55](https://news.ycombinator.com/item?id=43649853) \| 🗓️ 2025-04-10
 
 
 <br />
-《黑镜》虽以科技与人性互动为主题，却过度沉迷**反乌托邦叙事**，将技术简化为必然的灾难。文章批评其缺乏对技术**双重性**的探讨，忽视如普罗米修斯之火般的积极意义，反而强化公众对未来的非理性恐惧。这种**“悲观主义情色”**导致现实决策失误，例如抵制转基因食品或核能，最终付出高昂代价。作者呼吁用建设性叙事替代末日想象，承认技术风险的同时，聚焦其解决难题的潜力。
+浏览器正逐步取消嵌套在**`<section>`、`<article>`等分区元素**内的`<h1>`标题的默认样式层级（原规则会使嵌套的`<h1>`呈现`<h2>`/`<h3>`等样式）。开发者需**显式定义`<h1>`的字体大小和边距**，否则将触发Lighthouse的`H1UserAgentFontSizeInSection`警告。Firefox和Chrome已开始实施变更，Safari预计跟进。MDN文档更新了相关规范，建议使用`:where(h1)`低优先级样式重置，并改用`<h2>`/`<h3>`等明确表达标题层级。
 
 ---
 
-## <a name="19"></a>19. 联邦移民局拘留学生抗议者 律师介入维权 
+## <a name="20"></a>20. 联邦移民局拘留学生抗议者 律师介入维权 
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/ABoringDystopia/comments/1jw34qx/attorney_representing_a_student_protester/): Attorney representing a student protester detained by federal immigration agents</small>
 
 
@@ -257,11 +269,11 @@ Reddit社区热议一则新闻：一名参与抗议的学生被**联邦移民局
 
 ---
 
-## <a name="20"></a>20. Koreo：专为Kubernetes设计的平台工程工具包 
+## <a name="21"></a>21. Koreo：专为Kubernetes设计的平台工程工具包 
 <small>🔗 [koreo.dev](https://koreo.dev/): Show HN: Koreo – A platform engineering toolkit for Kubernetes</small>
 
 
-| 🔥: 83 \| 💬: [29](https://news.ycombinator.com/item?id=43644351) \| 🗓️ 2025-04-10
+| 🔥: 86 \| 💬: [29](https://news.ycombinator.com/item?id=43644351) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -269,11 +281,11 @@ Koreo是一款创新的Kubernetes配置管理与资源编排工具，通过**可
 
 ---
 
-## <a name="21"></a>21. 律师为被移民局扣押的学生抗议者辩护 
+## <a name="22"></a>22. 律师为被移民局扣押的学生抗议者辩护 
 <small>🔗 [npr.org](https://www.npr.org/2025/04/09/nx-s1-5357455/attorney-detained-by-immigration-authorities): Attorney representing a student protester detained by federal immigration agents</small>
 
 
-| 🔥: 80 \| 💬: [8](https://news.ycombinator.com/item?id=43647939) \| 🗓️ 2025-04-10
+| 🔥: 82 \| 💬: [8](https://news.ycombinator.com/item?id=43647939) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -281,11 +293,11 @@ Koreo是一款创新的Kubernetes配置管理与资源编排工具，通过**可
 
 ---
 
-## <a name="22"></a>22. 通过激活传输精准控制语言与扩散模型 
+## <a name="23"></a>23. 通过激活传输精准控制语言与扩散模型 
 <small>🔗 [machinelearning.apple.com](https://machinelearning.apple.com/research/transporting-activations): Controlling Language and Diffusion Models by Transporting Activations</small>
 
 
-| 🔥: 68 \| 💬: [12](https://news.ycombinator.com/item?id=43646466) \| 🗓️ 2025-04-10
+| 🔥: 71 \| 💬: [12](https://news.ycombinator.com/item?id=43646466) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -293,7 +305,7 @@ Koreo是一款创新的Kubernetes配置管理与资源编排工具，通过**可
 
 ---
 
-## <a name="23"></a>23. 蓝盾数据泄露事件（谷歌广告相关） 
+## <a name="24"></a>24. 蓝盾数据泄露事件（谷歌广告相关） 
 <small>🔗 [news.blueshieldca.com](https://news.blueshieldca.com/notice-of-data-breach): Blue Shield Data Breach (Google Ads)</small>
 
 
@@ -305,7 +317,7 @@ Koreo是一款创新的Kubernetes配置管理与资源编排工具，通过**可
 
 ---
 
-## <a name="24"></a>24. 用廉价摄像头定位隐形战机：无需AI或雷达 
+## <a name="25"></a>25. 用廉价摄像头定位隐形战机：无需AI或雷达 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=m-b51C82-UE): Locating Stealth Fighters with Cheap Cameras Without Using AI or Radar [video]</small>
 
 
@@ -314,19 +326,5 @@ Koreo是一款创新的Kubernetes配置管理与资源编排工具，通过**可
 
 <br />
 这段视频介绍了一种创新方法，通过**普通摄像头**和**光学技术**来探测隐形战机，完全避开了传统雷达和人工智能的依赖。关键在于利用**背景光变化**和战机的微弱视觉特征，实现低成本、高隐蔽性的监测。该方法为反隐形技术提供了新的可能性，尤其适用于预算有限的场景。
-
----
-
-## <a name="25"></a>25. 现在的孩子根本不会用电脑，这问题比你想象的更严重 
-<small>🔗 [coding2learn.org](http://coding2learn.org/blog/2013/07/29/kids-cant-use-computers/): Kids can't use computers and this is why it should worry you (2013)</small>
-
-
-| 🔥: 50 \| 💬: [88](https://news.ycombinator.com/item?id=43643498) \| 🗓️ 2025-04-10
-
-
-<br />
-作者以亲身经历指出，**年轻一代**和许多成年人**缺乏基本计算机技能**。他们能熟练使用社交媒体和办公软件，但遇到硬件故障、网络设置或系统重装等问题时束手无策。文中列举了多个真实案例：学生误将显示器关闭当作电脑故障、教师因无线开关未打开而抱怨断网、全家依赖"技术爸爸"解决所有问题等。  
-
-**根源**在于教育体系过度依赖微软办公软件教学，而家庭环境中家长包办技术问题，导致孩子失去实践机会。作者强调，**数字原住民**的标签是假象，真正的计算机素养应包含底层操作和问题解决能力。
 
 ---
