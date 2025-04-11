@@ -12,7 +12,7 @@ tags:
 1. 黑客新闻的“拥抱式宕机”实验；
 1. Python PEP 750 模板字符串（t-strings）正式通过；
 1. 高效神器：BUSY Bar智能生产力工具；
-1. 睡眠为何不可或缺？科学家揭示关键机制；
+1. AI购物应用Nate创始人被控欺诈，实为菲律宾人工代购；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [garfieldminusgarfield.net](https://garfieldminusgarfield.net): Garfield Minus Garfield</small>
 
 
-| 🔥🔥: 531 \| 💬: [199](https://news.ycombinator.com/item?id=43646095) \| 🗓️ 2025-04-10
+| 🔥🔥: 547 \| 💬: [200](https://news.ycombinator.com/item?id=43646095) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [susam.net](https://susam.net/hn-bell.html): Hacker News Hug of Deaf</small>
 
 
-| 🔥🔥: 432 \| 💬: [99](https://news.ycombinator.com/item?id=43642123) \| 🗓️ 2025-04-10
+| 🔥🔥: 434 \| 💬: [101](https://news.ycombinator.com/item?id=43642123) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -53,7 +53,7 @@ tags:
 <small>🔗 [peps.python.org](https://peps.python.org/pep-0750/): PEP 750 – Template Strings</small>
 
 
-| 🔥🔥: 369 \| 💬: [249](https://news.ycombinator.com/item?id=43647716) \| 🗓️ 2025-04-10
+| 🔥🔥: 373 \| 💬: [251](https://news.ycombinator.com/item?id=43647716) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -65,7 +65,7 @@ Python 核心团队通过了 **PEP 750**，引入了一种新的字符串前缀 
 <small>🔗 [busy.bar](https://busy.bar): Busy Bar</small>
 
 
-| 🔥🔥: 247 \| 💬: [137](https://news.ycombinator.com/item?id=43643534) \| 🗓️ 2025-04-10
+| 🔥🔥: 255 \| 💬: [137](https://news.ycombinator.com/item?id=43643534) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -73,35 +73,11 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
-## <a name="5"></a>5. 睡眠为何不可或缺？科学家揭示关键机制 
-<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00964-w): Sleep is essential – researchers are trying to work out why</small>
-
-
-| 🔥🔥: 221 \| 💬: [155](https://news.ycombinator.com/item?id=43643390) \| 🗓️ 2025-04-10
-
-
-<br />
-研究表明，**睡眠**的核心功能远超大脑休息，涉及全身**稳态调节**。哈佛团队发现，果蝇和小鼠长期缺眠会因肠道内**活性氧（ROS）**积累而死亡，揭示睡眠对代谢平衡的关键作用。同时，睡眠通过清除脑内毒素（如β淀粉样蛋白）、重置神经元突触及巩固记忆维持大脑功能。争议性研究指出，深度睡眠时脑脊液流动加速排毒，但新实验显示睡眠中清除率可能降低。此外，无中枢神经系统的水螅也需睡眠，暗示其进化意义深远。睡眠不足会扰乱激素分泌，增加心血管疾病风险，凸显其生理必要性。
-
----
-
-## <a name="6"></a>6. 《我写了一本关于Go语言常见错误的书》 
-<small>🔗 [thecoder.cafe](https://www.thecoder.cafe/p/100-go-mistakes): The Story Behind “100 Go Mistakes and How to Avoid Them”</small>
-
-
-| 🔥🔥: 210 \| 💬: [57](https://news.ycombinator.com/item?id=43647880) \| 🗓️ 2025-04-10
-
-
-<br />
-作者Teiva Harsanyi分享了撰写《**100 Go Mistakes and How to Avoid Them**》的历程。从2018年接触Go语言，到2019年一篇意外走红的博客文章《**Go项目十大常见错误**》，再到2020年与出版社Manning合作出书。书中详细记录了**开发流程**、与编辑的合作，以及如何通过反复修改提升内容质量。作者强调，写书不仅是技术分享，更是对读者的承诺——确保内容值得信赖。
-
----
-
-## <a name="7"></a>7. AI购物应用Nate创始人被控欺诈，实为菲律宾人工代购 
+## <a name="5"></a>5. AI购物应用Nate创始人被控欺诈，实为菲律宾人工代购 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/): Fintech founder charged with fraud; AI app found to be humans in the Philippines</small>
 
 
-| 🔥🔥: 206 \| 💬: [94](https://news.ycombinator.com/item?id=43648950) \| 🗓️ 2025-04-10
+| 🔥🔥: 236 \| 💬: [104](https://news.ycombinator.com/item?id=43648950) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -109,23 +85,35 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
-## <a name="8"></a>8. 用.localhost域名简化本地开发 
-<small>🔗 [inclouds.space](https://inclouds.space/localhost-domains): .localhost Domains</small>
+## <a name="6"></a>6. 睡眠为何不可或缺？科学家揭示关键机制 
+<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00964-w): Sleep is essential – researchers are trying to work out why</small>
 
 
-| 🔥🔥: 198 \| 💬: [138](https://news.ycombinator.com/item?id=43644043) \| 🗓️ 2025-04-10
+| 🔥🔥: 225 \| 💬: [155](https://news.ycombinator.com/item?id=43643390) \| 🗓️ 2025-04-10
 
 
 <br />
-作者Charles Chamberlain分享了一种为本地运行的Web应用配置**私有自定义域名**的方法。通过修改`/etc/hosts`将域名指向`127.0.0.1`，并利用**Caddy服务器**实现端口转发（如`appname.localhost`映射到`localhost:5050`），避免了记忆复杂端口号。当前方案需手动配置多个文件，但作者希望未来能通过单条命令实现自动化。文末提到用户cristóbal提出的`dnsmasq`方案进一步优化了流程。
+研究表明，**睡眠**的核心功能远超大脑休息，涉及全身**稳态调节**。哈佛团队发现，果蝇和小鼠长期缺眠会因肠道内**活性氧（ROS）**积累而死亡，揭示睡眠对代谢平衡的关键作用。同时，睡眠通过清除脑内毒素（如β淀粉样蛋白）、重置神经元突触及巩固记忆维持大脑功能。争议性研究指出，深度睡眠时脑脊液流动加速排毒，但新实验显示睡眠中清除率可能降低。此外，无中枢神经系统的水螅也需睡眠，暗示其进化意义深远。睡眠不足会扰乱激素分泌，增加心血管疾病风险，凸显其生理必要性。
 
 ---
 
-## <a name="9"></a>9. R语言资源大全：一网打尽免费编程书籍 
+## <a name="7"></a>7. 《我写了一本关于Go语言常见错误的书》 
+<small>🔗 [thecoder.cafe](https://www.thecoder.cafe/p/100-go-mistakes): The Story Behind “100 Go Mistakes and How to Avoid Them”</small>
+
+
+| 🔥🔥: 224 \| 💬: [63](https://news.ycombinator.com/item?id=43647880) \| 🗓️ 2025-04-10
+
+
+<br />
+作者Teiva Harsanyi分享了撰写《**100 Go Mistakes and How to Avoid Them**》的历程。从2018年接触Go语言，到2019年一篇意外走红的博客文章《**Go项目十大常见错误**》，再到2020年与出版社Manning合作出书。书中详细记录了**开发流程**、与编辑的合作，以及如何通过反复修改提升内容质量。作者强调，写书不仅是技术分享，更是对读者的承诺——确保内容值得信赖。
+
+---
+
+## <a name="8"></a>8. R语言资源大全：一网打尽免费编程书籍 
 <small>🔗 [bigbookofr.com](https://www.bigbookofr.com/): Big Book of R</small>
 
 
-| 🔥🔥: 198 \| 💬: [53](https://news.ycombinator.com/item?id=43646219) \| 🗓️ 2025-04-10
+| 🔥🔥: 210 \| 💬: [60](https://news.ycombinator.com/item?id=43646219) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -133,11 +121,23 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
+## <a name="9"></a>9. 用.localhost域名简化本地开发 
+<small>🔗 [inclouds.space](https://inclouds.space/localhost-domains): .localhost Domains</small>
+
+
+| 🔥🔥: 203 \| 💬: [140](https://news.ycombinator.com/item?id=43644043) \| 🗓️ 2025-04-10
+
+
+<br />
+作者Charles Chamberlain分享了一种为本地运行的Web应用配置**私有自定义域名**的方法。通过修改`/etc/hosts`将域名指向`127.0.0.1`，并利用**Caddy服务器**实现端口转发（如`appname.localhost`映射到`localhost:5050`），避免了记忆复杂端口号。当前方案需手动配置多个文件，但作者希望未来能通过单条命令实现自动化。文末提到用户cristóbal提出的`dnsmasq`方案进一步优化了流程。
+
+---
+
 ## <a name="10"></a>10. 为何要敲击帕尔马干酪？ 
 <small>🔗 [cheeseprofessor.com](https://www.cheeseprofessor.com/blog/cheese-wheel-tapping): Why Tap a Wheel of Cheese?</small>
 
 
-| 🔥🔥: 170 \| 💬: [122](https://news.ycombinator.com/item?id=43644970) \| 🗓️ 2025-04-10
+| 🔥🔥: 174 \| 💬: [123](https://news.ycombinator.com/item?id=43644970) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -149,7 +149,7 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 <small>🔗 [susam.net](https://susam.net/elliptical-python-programming.html): Elliptical Python Programming</small>
 
 
-| 🔥🔥: 160 \| 💬: [21](https://news.ycombinator.com/item?id=43643292) \| 🗓️ 2025-04-10
+| 🔥🔥: 171 \| 💬: [21](https://news.ycombinator.com/item?id=43643292) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -157,23 +157,11 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
-## <a name="12"></a>12. 艾萨克·阿西莫夫预言AI将解放人类创造力（1992年） 
-<small>🔗 [openculture.com](https://www.openculture.com/2025/04/isaac-asimov-describes-how-ai-will-liberate-humans-their-creativity.html): Isaac Asimov describes how AI will liberate humans and their creativity (1992)</small>
-
-
-| 🔥🔥: 151 \| 💬: [207](https://news.ycombinator.com/item?id=43644179) \| 🗓️ 2025-04-10
-
-
-<br />
-在1992年的最后一次重要访谈中，科幻大师**艾萨克·阿西莫夫**将人工智能定义为“能完成人类智力任务的设备”。他认为，AI将接管重复性工作，**解放人类**去专注**创造性活动**，实现人机互补协作。尽管他预见了技术发展的挑战，但强调需提前规划以避免负面影响。阿西莫夫以汽车与城市规划为例，提醒我们保留“前AI时代”的人文价值可能更明智。
-
----
-
-## <a name="13"></a>13. 我的私有二进制：Linux内核模块的独特入门指南 
+## <a name="12"></a>12. 我的私有二进制：Linux内核模块的独特入门指南 
 <small>🔗 [muppetlabs.com](https://www.muppetlabs.com/~breadbox/txt/mopb.html): My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules</small>
 
 
-| 🔥🔥: 148 \| 💬: [12](https://news.ycombinator.com/item?id=43647294) \| 🗓️ 2025-04-10
+| 🔥🔥: 160 \| 💬: [13](https://news.ycombinator.com/item?id=43647294) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -181,7 +169,31 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
-## <a name="14"></a>14. 美国正倒退至污染最严重的时代 
+## <a name="13"></a>13. 艾萨克·阿西莫夫预言AI将解放人类创造力（1992年） 
+<small>🔗 [openculture.com](https://www.openculture.com/2025/04/isaac-asimov-describes-how-ai-will-liberate-humans-their-creativity.html): Isaac Asimov describes how AI will liberate humans and their creativity (1992)</small>
+
+
+| 🔥🔥: 152 \| 💬: [211](https://news.ycombinator.com/item?id=43644179) \| 🗓️ 2025-04-10
+
+
+<br />
+在1992年的最后一次重要访谈中，科幻大师**艾萨克·阿西莫夫**将人工智能定义为“能完成人类智力任务的设备”。他认为，AI将接管重复性工作，**解放人类**去专注**创造性活动**，实现人机互补协作。尽管他预见了技术发展的挑战，但强调需提前规划以避免负面影响。阿西莫夫以汽车与城市规划为例，提醒我们保留“前AI时代”的人文价值可能更明智。
+
+---
+
+## <a name="14"></a>14. 2000美元的“美国制造”手机是如何诞生的 
+<small>🔗 [404media.co](https://www.404media.co/how-a-2-000-made-in-the-usa-liberty-phone-phone-is-manufactured/): How a $2k 'Made in the USA' Phone Is Manufactured</small>
+
+
+| 🔥🔥: 141 \| 💬: [171](https://news.ycombinator.com/item?id=43646920) \| 🗓️ 2025-04-10
+
+
+<br />
+Purism公司推出的**Liberty Phone**是目前唯一获得FTC认证的“美国制造”智能手机，售价2000美元（中国版Librem 5仅800美元）。其核心差异在于**垂直整合制造**：从空白电路板开始，在美国工厂完成所有电子元件焊接、组装及系统加载，而非简单进口部件组装。创始人Todd Weaver透露，为实现本土化生产，团队耗时3年重构供应链，但仍有少数元件（如计时晶体）依赖中国或韩国。尽管性能不及最新iPhone，该项目证明了**美国高端制造的可能性**，也暴露了供应链、技术工人短缺等挑战。
+
+---
+
+## <a name="15"></a>15. 美国正倒退至污染最严重的时代 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/health/archive/2025/04/air-pollution-trump-administration/682361/): America Is Backsliding Toward Its Most Polluted Era</small>
 
 
@@ -193,23 +205,23 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
-## <a name="15"></a>15. 2000美元的“美国制造”手机是如何诞生的 
-<small>🔗 [404media.co](https://www.404media.co/how-a-2-000-made-in-the-usa-liberty-phone-phone-is-manufactured/): How a $2k 'Made in the USA' Phone Is Manufactured</small>
+## <a name="16"></a>16. 浏览器将调整h1元素的默认样式 
+<small>🔗 [developer.mozilla.org](https://developer.mozilla.org/en-US/blog/h1-element-styles/): Default styles for h1 elements are changing</small>
 
 
-| 🔥🔥: 126 \| 💬: [153](https://news.ycombinator.com/item?id=43646920) \| 🗓️ 2025-04-10
+| 🔥🔥: 131 \| 💬: [81](https://news.ycombinator.com/item?id=43649853) \| 🗓️ 2025-04-10
 
 
 <br />
-Purism公司推出的**Liberty Phone**是目前唯一获得FTC认证的“美国制造”智能手机，售价2000美元（中国版Librem 5仅800美元）。其核心差异在于**垂直整合制造**：从空白电路板开始，在美国工厂完成所有电子元件焊接、组装及系统加载，而非简单进口部件组装。创始人Todd Weaver透露，为实现本土化生产，团队耗时3年重构供应链，但仍有少数元件（如计时晶体）依赖中国或韩国。尽管性能不及最新iPhone，该项目证明了**美国高端制造的可能性**，也暴露了供应链、技术工人短缺等挑战。
+浏览器正逐步取消嵌套在**`<section>`、`<article>`等分区元素**内的`<h1>`标题的默认样式层级（原规则会使嵌套的`<h1>`呈现`<h2>`/`<h3>`等样式）。开发者需**显式定义`<h1>`的字体大小和边距**，否则将触发Lighthouse的`H1UserAgentFontSizeInSection`警告。Firefox和Chrome已开始实施变更，Safari预计跟进。MDN文档更新了相关规范，建议使用`:where(h1)`低优先级样式重置，并改用`<h2>`/`<h3>`等明确表达标题层级。
 
 ---
 
-## <a name="16"></a>16. 揭秘 Shebang：内核如何执行脚本 
+## <a name="17"></a>17. 揭秘 Shebang：内核如何执行脚本 
 <small>🔗 [crocidb.com](https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/): Demystifying the (Shebang): Kernel Adventures</small>
 
 
-| 🔥🔥: 120 \| 💬: [29](https://news.ycombinator.com/item?id=43646698) \| 🗓️ 2025-04-10
+| 🔥🔥: 126 \| 💬: [29](https://news.ycombinator.com/item?id=43646698) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -217,11 +229,11 @@ Purism公司推出的**Liberty Phone**是目前唯一获得FTC认证的“美国
 
 ---
 
-## <a name="17"></a>17. 《黑镜》的悲观主义“焦虑贩卖”无益于未来 
+## <a name="18"></a>18. 《黑镜》的悲观主义“焦虑贩卖”无益于未来 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/apr/10/black-mirror-tv-show-pessimism): Black Mirror's pessimism porn won't lead us to a better future</small>
 
 
-| 🔥🔥: 107 \| 💬: [99](https://news.ycombinator.com/item?id=43648890) \| 🗓️ 2025-04-10
+| 🔥🔥: 123 \| 💬: [107](https://news.ycombinator.com/item?id=43648890) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -229,11 +241,11 @@ Purism公司推出的**Liberty Phone**是目前唯一获得FTC认证的“美国
 
 ---
 
-## <a name="18"></a>18. SDL2 在 macOS 9 上的初步开发进展 
+## <a name="19"></a>19. SDL2 在 macOS 9 上的初步开发进展 
 <small>🔗 [macintoshgarden.org](https://macintoshgarden.org/apps/sdl2-macos-9-rough-draft): SDL2 for macOS 9 “rough draft”</small>
 
 
-| 🔥🔥: 106 \| 💬: [50](https://news.ycombinator.com/item?id=43645183) \| 🗓️ 2025-04-10
+| 🔥🔥: 108 \| 💬: [51](https://news.ycombinator.com/item?id=43645183) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -245,35 +257,11 @@ Purism公司推出的**Liberty Phone**是目前唯一获得FTC认证的“美国
 
 ---
 
-## <a name="19"></a>19. 浏览器将调整h1元素的默认样式 
-<small>🔗 [developer.mozilla.org](https://developer.mozilla.org/en-US/blog/h1-element-styles/): Default styles for h1 elements are changing</small>
-
-
-| 🔥: 90 \| 💬: [55](https://news.ycombinator.com/item?id=43649853) \| 🗓️ 2025-04-10
-
-
-<br />
-浏览器正逐步取消嵌套在**`<section>`、`<article>`等分区元素**内的`<h1>`标题的默认样式层级（原规则会使嵌套的`<h1>`呈现`<h2>`/`<h3>`等样式）。开发者需**显式定义`<h1>`的字体大小和边距**，否则将触发Lighthouse的`H1UserAgentFontSizeInSection`警告。Firefox和Chrome已开始实施变更，Safari预计跟进。MDN文档更新了相关规范，建议使用`:where(h1)`低优先级样式重置，并改用`<h2>`/`<h3>`等明确表达标题层级。
-
----
-
-## <a name="20"></a>20. 联邦移民局拘留学生抗议者 律师介入维权 
-<small>🔗 [old.reddit.com](https://old.reddit.com/r/ABoringDystopia/comments/1jw34qx/attorney_representing_a_student_protester/): Attorney representing a student protester detained by federal immigration agents</small>
-
-
-| 🔥: 87 \| 💬: [27](https://news.ycombinator.com/item?id=43647812) \| 🗓️ 2025-04-10
-
-
-<br />
-Reddit社区热议一则新闻：一名参与抗议的学生被**联邦移民局**拘留，其代理律师正采取法律行动。讨论中，网友用"**盖世太保手段**"形容执法行为，并担忧局势恶化可能引发更广泛冲突。部分评论指出，经济困境与枪支泛滥或加剧社会风险。该帖引发5条争议性回复，包括对未来的悲观预测。
-
----
-
-## <a name="21"></a>21. Koreo：专为Kubernetes设计的平台工程工具包 
+## <a name="20"></a>20. Koreo：专为Kubernetes设计的平台工程工具包 
 <small>🔗 [koreo.dev](https://koreo.dev/): Show HN: Koreo – A platform engineering toolkit for Kubernetes</small>
 
 
-| 🔥: 86 \| 💬: [29](https://news.ycombinator.com/item?id=43644351) \| 🗓️ 2025-04-10
+| 🔥: 91 \| 💬: [29](https://news.ycombinator.com/item?id=43644351) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -281,11 +269,23 @@ Koreo是一款创新的Kubernetes配置管理与资源编排工具，通过**可
 
 ---
 
+## <a name="21"></a>21. 联邦移民局拘留学生抗议者 律师介入维权 
+<small>🔗 [old.reddit.com](https://old.reddit.com/r/ABoringDystopia/comments/1jw34qx/attorney_representing_a_student_protester/): Attorney representing a student protester detained by federal immigration agents</small>
+
+
+| 🔥: 88 \| 💬: [27](https://news.ycombinator.com/item?id=43647812) \| 🗓️ 2025-04-10
+
+
+<br />
+Reddit社区热议一则新闻：一名参与抗议的学生被**联邦移民局**拘留，其代理律师正采取法律行动。讨论中，网友用"**盖世太保手段**"形容执法行为，并担忧局势恶化可能引发更广泛冲突。部分评论指出，经济困境与枪支泛滥或加剧社会风险。该帖引发5条争议性回复，包括对未来的悲观预测。
+
+---
+
 ## <a name="22"></a>22. 律师为被移民局扣押的学生抗议者辩护 
 <small>🔗 [npr.org](https://www.npr.org/2025/04/09/nx-s1-5357455/attorney-detained-by-immigration-authorities): Attorney representing a student protester detained by federal immigration agents</small>
 
 
-| 🔥: 82 \| 💬: [8](https://news.ycombinator.com/item?id=43647939) \| 🗓️ 2025-04-10
+| 🔥: 83 \| 💬: [8](https://news.ycombinator.com/item?id=43647939) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -297,7 +297,7 @@ Koreo是一款创新的Kubernetes配置管理与资源编排工具，通过**可
 <small>🔗 [machinelearning.apple.com](https://machinelearning.apple.com/research/transporting-activations): Controlling Language and Diffusion Models by Transporting Activations</small>
 
 
-| 🔥: 71 \| 💬: [12](https://news.ycombinator.com/item?id=43646466) \| 🗓️ 2025-04-10
+| 🔥: 76 \| 💬: [12](https://news.ycombinator.com/item?id=43646466) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -309,7 +309,7 @@ Koreo是一款创新的Kubernetes配置管理与资源编排工具，通过**可
 <small>🔗 [news.blueshieldca.com](https://news.blueshieldca.com/notice-of-data-breach): Blue Shield Data Breach (Google Ads)</small>
 
 
-| 🔥: 64 \| 💬: [46](https://news.ycombinator.com/item?id=43645331) \| 🗓️ 2025-04-10
+| 🔥: 66 \| 💬: [47](https://news.ycombinator.com/item?id=43645331) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -321,7 +321,7 @@ Koreo是一款创新的Kubernetes配置管理与资源编排工具，通过**可
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=m-b51C82-UE): Locating Stealth Fighters with Cheap Cameras Without Using AI or Radar [video]</small>
 
 
-| 🔥: 55 \| 💬: [52](https://news.ycombinator.com/item?id=43643207) \| 🗓️ 2025-04-10
+| 🔥: 56 \| 💬: [52](https://news.ycombinator.com/item?id=43643207) \| 🗓️ 2025-04-10
 
 
 <br />
