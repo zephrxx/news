@@ -27,7 +27,7 @@ tags:
 <small>🔗 [rakhim.exotext.com](https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse): But what if I want a faster horse?</small>
 
 
-| 🔥🔥: 1116 \| 💬: [503](https://news.ycombinator.com/item?id=43652723) \| 🗓️ 2025-04-11
+| 🔥🔥: 1145 \| 💬: [515](https://news.ycombinator.com/item?id=43652723) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [dropsitenews.com](https://www.dropsitenews.com/p/leaked-data-israeli-censorship-meta): Leaked Meta data reveals campaign to remove pro-Palestine posts</small>
 
 
-| 🔥🔥: 493 \| 💬: [294](https://news.ycombinator.com/item?id=43655603) \| 🗓️ 2025-04-11
+| 🔥🔥: 549 \| 💬: [327](https://news.ycombinator.com/item?id=43655603) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [lwn.net](https://lwn.net/Articles/1014979/): Fedora change aims for 99% package reproducibility</small>
 
 
-| 🔥🔥: 280 \| 💬: [117](https://news.ycombinator.com/item?id=43653672) \| 🗓️ 2025-04-11
+| 🔥🔥: 293 \| 💬: [123](https://news.ycombinator.com/item?id=43653672) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -63,7 +63,7 @@ Fedora项目正推进一项变革，目标是在Fedora 43开发周期中实现**
 <small>🔗 [terriblesoftware.org](https://terriblesoftware.org/2025/03/31/your-strengths-are-your-weaknesses/): Strengths Are Your Weaknesses</small>
 
 
-| 🔥🔥: 252 \| 💬: [83](https://news.ycombinator.com/item?id=43652024) \| 🗓️ 2025-04-11
+| 🔥🔥: 260 \| 💬: [88](https://news.ycombinator.com/item?id=43652024) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -75,7 +75,7 @@ Fedora项目正推进一项变革，目标是在Fedora 43开发周期中实现**
 <small>🔗 [funcall.blogspot.com](http://funcall.blogspot.com/2025/04/why-i-program-in-lisp.html): Why I Program in Lisp</small>
 
 
-| 🔥🔥: 210 \| 💬: [189](https://news.ycombinator.com/item?id=43651576) \| 🗓️ 2025-04-11
+| 🔥🔥: 221 \| 💬: [197](https://news.ycombinator.com/item?id=43651576) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -87,7 +87,7 @@ Fedora项目正推进一项变革，目标是在Fedora 43开发周期中实现**
 <small>🔗 [wired.com](https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/): Social Security Administration Moving Public Communications to X</small>
 
 
-| 🔥🔥: 175 \| 💬: [126](https://news.ycombinator.com/item?id=43657079) \| 🗓️ 2025-04-11
+| 🔥🔥: 183 \| 💬: [147](https://news.ycombinator.com/item?id=43657079) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -96,10 +96,10 @@ Fedora项目正推进一项变革，目标是在Fedora 43开发周期中实现**
 ---
 
 ## <a name="7"></a>7. Erlang的核心并非轻量进程，而是行为模式 
-<small>🔗 [stevana.github.io](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html): Erlang's not about lightweight processes and message passing</small>
+<small>🔗 [stevana.github.io](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html): Erlang's not about lightweight processes and message passing (2023)</small>
 
 
-| 🔥🔥: 154 \| 💬: [76](https://news.ycombinator.com/item?id=43655221) \| 🗓️ 2025-04-11
+| 🔥🔥: 170 \| 💬: [88](https://news.ycombinator.com/item?id=43655221) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -111,7 +111,7 @@ Erlang常被误解为以**轻量进程**和**消息传递**为核心，但其真
 <small>🔗 [economist.com](https://www.economist.com/europe/2025/04/10/the-thing-about-europe-its-the-actual-land-of-the-free-now): The thing about Europe: it's the actual land of the free now</small>
 
 
-| 🔥🔥: 150 \| 💬: [245](https://news.ycombinator.com/item?id=43651489) \| 🗓️ 2025-04-11
+| 🔥🔥: 152 \| 💬: [248](https://news.ycombinator.com/item?id=43651489) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -123,7 +123,7 @@ Erlang常被误解为以**轻量进程**和**消息传递**为核心，但其真
 <small>🔗 [chrismalek.me](https://chrismalek.me/posts/data-star-first-impressions/): Datastar: Web Framework for the Future?</small>
 
 
-| 🔥🔥: 120 \| 💬: [63](https://news.ycombinator.com/item?id=43655914) \| 🗓️ 2025-04-11
+| 🔥🔥: 147 \| 💬: [68](https://news.ycombinator.com/item?id=43655914) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -131,23 +131,11 @@ Datastar是一款新兴的**超媒体框架**，专注于简化实时网页应�
 
 ---
 
-## <a name="10"></a>10. 如何制作长弓 
-<small>🔗 [howtomakealongbow.co.uk](https://www.howtomakealongbow.co.uk): How to Make a Longbow</small>
-
-
-| 🔥🔥: 115 \| 💬: [37](https://news.ycombinator.com/item?id=43652160) \| 🗓️ 2025-04-11
-
-
-<br />
-该网站持续更新扩展内容，欢迎用户反馈希望获取的信息。**长弓制作**需要耐心和技巧，建议定期回访以获取最新指南。**关键材料**包括优质木材和专用工具，**核心步骤**涉及木材成型、弓弦安装及张力测试。用户互动是优化内容的重要方式。
-
----
-
-## <a name="11"></a>11. Adobe遭抵制后删除Bluesky所有帖文 
+## <a name="10"></a>10. Adobe遭抵制后删除Bluesky所有帖文 
 <small>🔗 [petapixel.com](https://petapixel.com/2025/04/10/adobe-deletes-bluesky-posts-after-furious-backlash/): Adobe deletes Bluesky posts after backlash</small>
 
 
-| 🔥🔥: 108 \| 💬: [159](https://news.ycombinator.com/item?id=43653885) \| 🗓️ 2025-04-11
+| 🔥🔥: 137 \| 💬: [207](https://news.ycombinator.com/item?id=43653885) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -155,11 +143,23 @@ Adobe在Twitter替代平台Bluesky的首次尝试引发强烈反弹。用户因�
 
 ---
 
+## <a name="11"></a>11. 如何制作长弓 
+<small>🔗 [howtomakealongbow.co.uk](https://www.howtomakealongbow.co.uk): How to Make a Longbow</small>
+
+
+| 🔥🔥: 118 \| 💬: [38](https://news.ycombinator.com/item?id=43652160) \| 🗓️ 2025-04-11
+
+
+<br />
+该网站持续更新扩展内容，欢迎用户反馈希望获取的信息。**长弓制作**需要耐心和技巧，建议定期回访以获取最新指南。**关键材料**包括优质木材和专用工具，**核心步骤**涉及木材成型、弓弦安装及张力测试。用户互动是优化内容的重要方式。
+
+---
+
 ## <a name="12"></a>12. PS3：一颗被舔过的多核糖果 
 <small>🔗 [darkcephas.github.io](https://darkcephas.github.io/ps3_failed/ps3_failed.html): The PS3 Licked the Many Cookie</small>
 
 
-| 🔥🔥: 108 \| 💬: [90](https://news.ycombinator.com/item?id=43656279) \| 🗓️ 2025-04-11
+| 🔥🔥: 112 \| 💬: [96](https://news.ycombinator.com/item?id=43656279) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -171,7 +171,7 @@ Adobe在Twitter替代平台Bluesky的首次尝试引发强烈反弹。用户因�
 <small>🔗 [gpuopen.com](https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/): Bilinear interpolation on a quadrilateral using Barycentric coordinates</small>
 
 
-| 🔥: 96 \| 💬: [26](https://news.ycombinator.com/item?id=43654912) \| 🗓️ 2025-04-11
+| 🔥🔥: 101 \| 💬: [27](https://news.ycombinator.com/item?id=43654912) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -183,7 +183,7 @@ Adobe在Twitter替代平台Bluesky的首次尝试引发强烈反弹。用户因�
 <small>🔗 [github.com](https://github.com/Rust-GPU/Rust-CUDA): Rust CUDA Project</small>
 
 
-| 🔥: 87 \| 💬: [32](https://news.ycombinator.com/item?id=43654881) \| 🗓️ 2025-04-11
+| 🔥: 96 \| 💬: [32](https://news.ycombinator.com/item?id=43654881) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -195,7 +195,7 @@ Adobe在Twitter替代平台Bluesky的首次尝试引发强烈反弹。用户因�
 <small>🔗 [neurofrontiers.blog](https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/): Lead is still bad for your brain</small>
 
 
-| 🔥: 85 \| 💬: [95](https://news.ycombinator.com/item?id=43651532) \| 🗓️ 2025-04-11
+| 🔥: 92 \| 💬: [99](https://news.ycombinator.com/item?id=43651532) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -203,23 +203,11 @@ Adobe在Twitter替代平台Bluesky的首次尝试引发强烈反弹。用户因�
 
 ---
 
-## <a name="16"></a>16. 卡内基梅隆大学中国留学生毕业前夕突遭签证撤销 
-<small>🔗 [cbsnews.com](https://www.cbsnews.com/pittsburgh/news/carnegie-mellon-student-visa-revoked-interview/): Carnegie Mellon student with one semester left learns his visa was revoked</small>
-
-
-| 🔥: 75 \| 💬: [44](https://news.ycombinator.com/item?id=43653611) \| 🗓️ 2025-04-11
-
-
-<br />
-卡内基梅隆大学大四学生**Jayson Ma**在仅剩3周毕业时，突然接到通知称其**学生签证被无故撤销**，且未获解释。他2016年从中国赴美读高中，现攻读电气计算机工程学位，母亲在中国身患晚期癌症仍坚持让他完成学业。律师推测可能与2023年一项已撤销的DUI记录有关。宾州多所高校也出现类似案例，校方建议国际学生随身携带证件以应对突发核查。Ma表示已做好随时离境准备，但仍希望完成学业。
-
----
-
-## <a name="17"></a>17. 给好奇者的WebRTC指南 
+## <a name="16"></a>16. 给好奇者的WebRTC指南 
 <small>🔗 [webrtcforthecurious.com](https://webrtcforthecurious.com): WebRTC for the Curious</small>
 
 
-| 🔥: 71 \| 💬: [19](https://news.ycombinator.com/item?id=43654813) \| 🗓️ 2025-04-11
+| 🔥: 80 \| 💬: [22](https://news.ycombinator.com/item?id=43654813) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -227,11 +215,11 @@ Adobe在Twitter替代平台Bluesky的首次尝试引发强烈反弹。用户因�
 
 ---
 
-## <a name="18"></a>18. Windows 2000 Server被用户评为微软巅峰之作 
+## <a name="17"></a>17. Windows 2000 Server被用户评为微软巅峰之作 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/11/windows_2000_best_microsoft/): Windows 2000 Server named peak Microsoft</small>
 
 
-| 🔥: 66 \| 💬: [82](https://news.ycombinator.com/item?id=43653421) \| 🗓️ 2025-04-11
+| 🔥: 79 \| 💬: [103](https://news.ycombinator.com/item?id=43653421) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -239,11 +227,23 @@ Adobe在Twitter替代平台Bluesky的首次尝试引发强烈反弹。用户因�
 
 ---
 
+## <a name="18"></a>18. 卡内基梅隆大学中国留学生毕业前夕突遭签证撤销 
+<small>🔗 [cbsnews.com](https://www.cbsnews.com/pittsburgh/news/carnegie-mellon-student-visa-revoked-interview/): Carnegie Mellon student with one semester left learns his visa was revoked</small>
+
+
+| 🔥: 76 \| 💬: [46](https://news.ycombinator.com/item?id=43653611) \| 🗓️ 2025-04-11
+
+
+<br />
+卡内基梅隆大学大四学生**Jayson Ma**在仅剩3周毕业时，突然接到通知称其**学生签证被无故撤销**，且未获解释。他2016年从中国赴美读高中，现攻读电气计算机工程学位，母亲在中国身患晚期癌症仍坚持让他完成学业。律师推测可能与2023年一项已撤销的DUI记录有关。宾州多所高校也出现类似案例，校方建议国际学生随身携带证件以应对突发核查。Ma表示已做好随时离境准备，但仍希望完成学业。
+
+---
+
 ## <a name="19"></a>19. 全新AI建站工具：用对话轻松打造专业网站 
 <small>🔗 [wordpress.com](https://wordpress.com/blog/2025/04/09/ai-website-builder/): Our New AI Website Builder</small>
 
 
-| 🔥: 63 \| 💬: [57](https://news.ycombinator.com/item?id=43654279) \| 🗓️ 2025-04-11
+| 🔥: 65 \| 💬: [58](https://news.ycombinator.com/item?id=43654279) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -257,7 +257,7 @@ WordPress.com推出**AI网站构建器**，只需输入想法，即可自动生�
 <small>🔗 [latintimes.com](https://www.latintimes.com/education-secretary-wants-a1-classrooms-early-kindergarten-she-means-ai-580380): Education Secretary Wants 'A1' in Classrooms</small>
 
 
-| 🔥: 56 \| 💬: [38](https://news.ycombinator.com/item?id=43657465) \| 🗓️ 2025-04-11
+| 🔥: 58 \| 💬: [39](https://news.ycombinator.com/item?id=43657465) \| 🗓️ 2025-04-11
 
 
 <br />
