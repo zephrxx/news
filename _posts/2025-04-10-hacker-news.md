@@ -27,7 +27,7 @@ tags:
 <small>🔗 [garfieldminusgarfield.net](https://garfieldminusgarfield.net): Garfield Minus Garfield</small>
 
 
-| 🔥🔥: 499 \| 💬: [176](https://news.ycombinator.com/item?id=43646095) \| 🗓️ 2025-04-10
+| 🔥🔥: 513 \| 💬: [186](https://news.ycombinator.com/item?id=43646095) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -53,7 +53,7 @@ tags:
 <small>🔗 [peps.python.org](https://peps.python.org/pep-0750/): PEP 750 – Template Strings</small>
 
 
-| 🔥🔥: 352 \| 💬: [231](https://news.ycombinator.com/item?id=43647716) \| 🗓️ 2025-04-10
+| 🔥🔥: 366 \| 💬: [244](https://news.ycombinator.com/item?id=43647716) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -65,7 +65,7 @@ Python 核心团队通过了 **PEP 750**，引入了一种新的字符串前缀 
 <small>🔗 [busy.bar](https://busy.bar): Busy Bar</small>
 
 
-| 🔥🔥: 241 \| 💬: [134](https://news.ycombinator.com/item?id=43643534) \| 🗓️ 2025-04-10
+| 🔥🔥: 244 \| 💬: [136](https://news.ycombinator.com/item?id=43643534) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -89,7 +89,7 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 <small>🔗 [inclouds.space](https://inclouds.space/localhost-domains): .localhost Domains</small>
 
 
-| 🔥🔥: 197 \| 💬: [137](https://news.ycombinator.com/item?id=43644043) \| 🗓️ 2025-04-10
+| 🔥🔥: 198 \| 💬: [138](https://news.ycombinator.com/item?id=43644043) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -101,7 +101,7 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 <small>🔗 [thecoder.cafe](https://www.thecoder.cafe/p/100-go-mistakes): The Story Behind “100 Go Mistakes and How to Avoid Them”</small>
 
 
-| 🔥🔥: 185 \| 💬: [52](https://news.ycombinator.com/item?id=43647880) \| 🗓️ 2025-04-10
+| 🔥🔥: 197 \| 💬: [54](https://news.ycombinator.com/item?id=43647880) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -113,7 +113,7 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 <small>🔗 [bigbookofr.com](https://www.bigbookofr.com/): Big Book of R</small>
 
 
-| 🔥🔥: 179 \| 💬: [45](https://news.ycombinator.com/item?id=43646219) \| 🗓️ 2025-04-10
+| 🔥🔥: 187 \| 💬: [50](https://news.ycombinator.com/item?id=43646219) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -121,11 +121,23 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
-## <a name="9"></a>9. 为何要敲击帕尔马干酪？ 
+## <a name="9"></a>9. AI购物应用Nate创始人被控欺诈，实为菲律宾人工代购 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/): Fintech founder charged with fraud; AI app found to be humans in the Philippines</small>
+
+
+| 🔥🔥: 169 \| 💬: [84](https://news.ycombinator.com/item?id=43648950) \| 🗓️ 2025-04-10
+
+
+<br />
+美国司法部指控**AI购物应用Nate**创始人Albert Saniger欺诈投资者。该公司宣称通过**AI技术**实现“一键全网购”，实际却依赖菲律宾呼叫中心的数百名人工完成交易。Nate曾融资超5000万美元，但自动化率接近**0%**，最终因资金耗尽出售资产，投资者损失惨重。类似夸大AI能力的案例近年频发，如AI法律科技公司EvenUp也被曝主要依赖人工。
+
+---
+
+## <a name="10"></a>10. 为何要敲击帕尔马干酪？ 
 <small>🔗 [cheeseprofessor.com](https://www.cheeseprofessor.com/blog/cheese-wheel-tapping): Why Tap a Wheel of Cheese?</small>
 
 
-| 🔥🔥: 160 \| 💬: [116](https://news.ycombinator.com/item?id=43644970) \| 🗓️ 2025-04-10
+| 🔥🔥: 163 \| 💬: [119](https://news.ycombinator.com/item?id=43644970) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -133,11 +145,11 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
-## <a name="10"></a>10. 椭圆式Python编程的艺术 
+## <a name="11"></a>11. 椭圆式Python编程的艺术 
 <small>🔗 [susam.net](https://susam.net/elliptical-python-programming.html): Elliptical Python Programming</small>
 
 
-| 🔥🔥: 148 \| 💬: [21](https://news.ycombinator.com/item?id=43643292) \| 🗓️ 2025-04-10
+| 🔥🔥: 152 \| 💬: [21](https://news.ycombinator.com/item?id=43643292) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -145,11 +157,11 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
-## <a name="11"></a>11. 艾萨克·阿西莫夫预言AI将解放人类创造力（1992年） 
+## <a name="12"></a>12. 艾萨克·阿西莫夫预言AI将解放人类创造力（1992年） 
 <small>🔗 [openculture.com](https://www.openculture.com/2025/04/isaac-asimov-describes-how-ai-will-liberate-humans-their-creativity.html): Isaac Asimov describes how AI will liberate humans and their creativity (1992)</small>
 
 
-| 🔥🔥: 148 \| 💬: [203](https://news.ycombinator.com/item?id=43644179) \| 🗓️ 2025-04-10
+| 🔥🔥: 150 \| 💬: [206](https://news.ycombinator.com/item?id=43644179) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -157,7 +169,7 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
-## <a name="12"></a>12. 美国正倒退至污染最严重的时代 
+## <a name="13"></a>13. 美国正倒退至污染最严重的时代 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/health/archive/2025/04/air-pollution-trump-administration/682361/): America Is Backsliding Toward Its Most Polluted Era</small>
 
 
@@ -169,23 +181,11 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
-## <a name="13"></a>13. AI购物应用Nate创始人被控欺诈，实为菲律宾人工代购 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/): Fintech founder charged with fraud; AI app found to be humans in the Philippines</small>
-
-
-| 🔥🔥: 132 \| 💬: [60](https://news.ycombinator.com/item?id=43648950) \| 🗓️ 2025-04-10
-
-
-<br />
-美国司法部指控**AI购物应用Nate**创始人Albert Saniger欺诈投资者。该公司宣称通过**AI技术**实现“一键全网购”，实际却依赖菲律宾呼叫中心的数百名人工完成交易。Nate曾融资超5000万美元，但自动化率接近**0%**，最终因资金耗尽出售资产，投资者损失惨重。类似夸大AI能力的案例近年频发，如AI法律科技公司EvenUp也被曝主要依赖人工。
-
----
-
 ## <a name="14"></a>14. 我的私有二进制：Linux内核模块的独特入门指南 
 <small>🔗 [muppetlabs.com](https://www.muppetlabs.com/~breadbox/txt/mopb.html): My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules</small>
 
 
-| 🔥🔥: 120 \| 💬: [11](https://news.ycombinator.com/item?id=43647294) \| 🗓️ 2025-04-10
+| 🔥🔥: 129 \| 💬: [11](https://news.ycombinator.com/item?id=43647294) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -197,7 +197,7 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 <small>🔗 [crocidb.com](https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/): Demystifying the (Shebang): Kernel Adventures</small>
 
 
-| 🔥🔥: 105 \| 💬: [26](https://news.ycombinator.com/item?id=43646698) \| 🗓️ 2025-04-10
+| 🔥🔥: 112 \| 💬: [26](https://news.ycombinator.com/item?id=43646698) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -205,11 +205,23 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
-## <a name="16"></a>16. SDL2 在 macOS 9 上的初步开发进展 
+## <a name="16"></a>16. 2000美元的“美国制造”手机是如何诞生的 
+<small>🔗 [404media.co](https://www.404media.co/how-a-2-000-made-in-the-usa-liberty-phone-phone-is-manufactured/): How a $2k 'Made in the USA' Phone Is Manufactured</small>
+
+
+| 🔥🔥: 107 \| 💬: [142](https://news.ycombinator.com/item?id=43646920) \| 🗓️ 2025-04-10
+
+
+<br />
+Purism公司推出的**Liberty Phone**是目前唯一获得FTC认证的“美国制造”智能手机，售价2000美元（中国版Librem 5仅800美元）。其核心差异在于**垂直整合制造**：从空白电路板开始，在美国工厂完成所有电子元件焊接、组装及系统加载，而非简单进口部件组装。创始人Todd Weaver透露，为实现本土化生产，团队耗时3年重构供应链，但仍有少数元件（如计时晶体）依赖中国或韩国。尽管性能不及最新iPhone，该项目证明了**美国高端制造的可能性**，也暴露了供应链、技术工人短缺等挑战。
+
+---
+
+## <a name="17"></a>17. SDL2 在 macOS 9 上的初步开发进展 
 <small>🔗 [macintoshgarden.org](https://macintoshgarden.org/apps/sdl2-macos-9-rough-draft): SDL2 for macOS 9 “rough draft”</small>
 
 
-| 🔥🔥: 101 \| 💬: [48](https://news.ycombinator.com/item?id=43645183) \| 🗓️ 2025-04-10
+| 🔥🔥: 103 \| 💬: [49](https://news.ycombinator.com/item?id=43645183) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -221,23 +233,23 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
-## <a name="17"></a>17. 2000美元的“美国制造”手机是如何诞生的 
-<small>🔗 [404media.co](https://www.404media.co/how-a-2-000-made-in-the-usa-liberty-phone-phone-is-manufactured/): How a $2k 'Made in the USA' Phone Is Manufactured</small>
+## <a name="18"></a>18. 《黑镜》的悲观主义“焦虑贩卖”无益于未来 
+<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/apr/10/black-mirror-tv-show-pessimism): Black Mirror's pessimism porn won't lead us to a better future</small>
 
 
-| 🔥: 87 \| 💬: [97](https://news.ycombinator.com/item?id=43646920) \| 🗓️ 2025-04-10
+| 🔥: 93 \| 💬: [81](https://news.ycombinator.com/item?id=43648890) \| 🗓️ 2025-04-10
 
 
 <br />
-Purism公司推出的**Liberty Phone**是目前唯一获得FTC认证的“美国制造”智能手机，售价2000美元（中国版Librem 5仅800美元）。其核心差异在于**垂直整合制造**：从空白电路板开始，在美国工厂完成所有电子元件焊接、组装及系统加载，而非简单进口部件组装。创始人Todd Weaver透露，为实现本土化生产，团队耗时3年重构供应链，但仍有少数元件（如计时晶体）依赖中国或韩国。尽管性能不及最新iPhone，该项目证明了**美国高端制造的可能性**，也暴露了供应链、技术工人短缺等挑战。
+《黑镜》虽以科技与人性互动为主题，却过度沉迷**反乌托邦叙事**，将技术简化为必然的灾难。文章批评其缺乏对技术**双重性**的探讨，忽视如普罗米修斯之火般的积极意义，反而强化公众对未来的非理性恐惧。这种**“悲观主义情色”**导致现实决策失误，例如抵制转基因食品或核能，最终付出高昂代价。作者呼吁用建设性叙事替代末日想象，承认技术风险的同时，聚焦其解决难题的潜力。
 
 ---
 
-## <a name="18"></a>18. 联邦移民局拘留学生抗议者 律师介入维权 
+## <a name="19"></a>19. 联邦移民局拘留学生抗议者 律师介入维权 
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/ABoringDystopia/comments/1jw34qx/attorney_representing_a_student_protester/): Attorney representing a student protester detained by federal immigration agents</small>
 
 
-| 🔥: 86 \| 💬: [27](https://news.ycombinator.com/item?id=43647812) \| 🗓️ 2025-04-10
+| 🔥: 87 \| 💬: [27](https://news.ycombinator.com/item?id=43647812) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -245,11 +257,11 @@ Reddit社区热议一则新闻：一名参与抗议的学生被**联邦移民局
 
 ---
 
-## <a name="19"></a>19. Koreo：专为Kubernetes设计的平台工程工具包 
+## <a name="20"></a>20. Koreo：专为Kubernetes设计的平台工程工具包 
 <small>🔗 [koreo.dev](https://koreo.dev/): Show HN: Koreo – A platform engineering toolkit for Kubernetes</small>
 
 
-| 🔥: 81 \| 💬: [29](https://news.ycombinator.com/item?id=43644351) \| 🗓️ 2025-04-10
+| 🔥: 83 \| 💬: [29](https://news.ycombinator.com/item?id=43644351) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -257,7 +269,7 @@ Koreo是一款创新的Kubernetes配置管理与资源编排工具，通过**可
 
 ---
 
-## <a name="20"></a>20. 律师为被移民局扣押的学生抗议者辩护 
+## <a name="21"></a>21. 律师为被移民局扣押的学生抗议者辩护 
 <small>🔗 [npr.org](https://www.npr.org/2025/04/09/nx-s1-5357455/attorney-detained-by-immigration-authorities): Attorney representing a student protester detained by federal immigration agents</small>
 
 
@@ -269,23 +281,11 @@ Koreo是一款创新的Kubernetes配置管理与资源编排工具，通过**可
 
 ---
 
-## <a name="21"></a>21. 《黑镜》的悲观主义“焦虑贩卖”无益于未来 
-<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/apr/10/black-mirror-tv-show-pessimism): Black Mirror's pessimism porn won't lead us to a better future</small>
-
-
-| 🔥: 75 \| 💬: [69](https://news.ycombinator.com/item?id=43648890) \| 🗓️ 2025-04-10
-
-
-<br />
-《黑镜》虽以科技与人性互动为主题，却过度沉迷**反乌托邦叙事**，将技术简化为必然的灾难。文章批评其缺乏对技术**双重性**的探讨，忽视如普罗米修斯之火般的积极意义，反而强化公众对未来的非理性恐惧。这种**“悲观主义情色”**导致现实决策失误，例如抵制转基因食品或核能，最终付出高昂代价。作者呼吁用建设性叙事替代末日想象，承认技术风险的同时，聚焦其解决难题的潜力。
-
----
-
 ## <a name="22"></a>22. 通过激活传输精准控制语言与扩散模型 
 <small>🔗 [machinelearning.apple.com](https://machinelearning.apple.com/research/transporting-activations): Controlling Language and Diffusion Models by Transporting Activations</small>
 
 
-| 🔥: 67 \| 💬: [12](https://news.ycombinator.com/item?id=43646466) \| 🗓️ 2025-04-10
+| 🔥: 68 \| 💬: [12](https://news.ycombinator.com/item?id=43646466) \| 🗓️ 2025-04-10
 
 
 <br />
