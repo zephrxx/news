@@ -27,7 +27,7 @@ tags:
 <small>🔗 [garfieldminusgarfield.net](https://garfieldminusgarfield.net): Garfield Minus Garfield</small>
 
 
-| 🔥🔥: 482 \| 💬: [173](https://news.ycombinator.com/item?id=43646095) \| 🗓️ 2025-04-10
+| 🔥🔥: 499 \| 💬: [176](https://news.ycombinator.com/item?id=43646095) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [susam.net](https://susam.net/hn-bell.html): Hacker News Hug of Deaf</small>
 
 
-| 🔥🔥: 427 \| 💬: [98](https://news.ycombinator.com/item?id=43642123) \| 🗓️ 2025-04-10
+| 🔥🔥: 429 \| 💬: [98](https://news.ycombinator.com/item?id=43642123) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -53,7 +53,7 @@ tags:
 <small>🔗 [peps.python.org](https://peps.python.org/pep-0750/): PEP 750 – Template Strings</small>
 
 
-| 🔥🔥: 347 \| 💬: [214](https://news.ycombinator.com/item?id=43647716) \| 🗓️ 2025-04-10
+| 🔥🔥: 352 \| 💬: [231](https://news.ycombinator.com/item?id=43647716) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -65,7 +65,7 @@ Python 核心团队通过了 **PEP 750**，引入了一种新的字符串前缀 
 <small>🔗 [busy.bar](https://busy.bar): Busy Bar</small>
 
 
-| 🔥🔥: 240 \| 💬: [128](https://news.ycombinator.com/item?id=43643534) \| 🗓️ 2025-04-10
+| 🔥🔥: 241 \| 💬: [134](https://news.ycombinator.com/item?id=43643534) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -77,7 +77,7 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00964-w): Sleep is essential – researchers are trying to work out why</small>
 
 
-| 🔥🔥: 215 \| 💬: [154](https://news.ycombinator.com/item?id=43643390) \| 🗓️ 2025-04-10
+| 🔥🔥: 216 \| 💬: [154](https://news.ycombinator.com/item?id=43643390) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -89,7 +89,7 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 <small>🔗 [inclouds.space](https://inclouds.space/localhost-domains): .localhost Domains</small>
 
 
-| 🔥🔥: 197 \| 💬: [136](https://news.ycombinator.com/item?id=43644043) \| 🗓️ 2025-04-10
+| 🔥🔥: 197 \| 💬: [137](https://news.ycombinator.com/item?id=43644043) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -97,23 +97,11 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
-## <a name="7"></a>7. R语言资源大全：一网打尽免费编程书籍 
-<small>🔗 [bigbookofr.com](https://www.bigbookofr.com/): Big Book of R</small>
-
-
-| 🔥🔥: 171 \| 💬: [43](https://news.ycombinator.com/item?id=43646219) \| 🗓️ 2025-04-10
-
-
-<br />
-本文介绍了《Big Book of R》项目，这是一个汇集**400多本免费或低价R语言相关书籍**的在线资源库。最初由个人整理，后经社区贡献扩充。网站支持搜索功能，欢迎捐赠或提交新书（通过GitHub或Google表单）。特别感谢Fathom Data团队将网站迁移至Quarto框架。资源采用**CC非商业许可**，并提供实时访问统计（基于隐私友好的Plausible工具）。作者Oscar鼓励读者通过Mastodon或LinkedIn交流，并订阅其数据科学动态。
-
----
-
-## <a name="8"></a>8. 《我写了一本关于Go语言常见错误的书》 
+## <a name="7"></a>7. 《我写了一本关于Go语言常见错误的书》 
 <small>🔗 [thecoder.cafe](https://www.thecoder.cafe/p/100-go-mistakes): The Story Behind “100 Go Mistakes and How to Avoid Them”</small>
 
 
-| 🔥🔥: 160 \| 💬: [48](https://news.ycombinator.com/item?id=43647880) \| 🗓️ 2025-04-10
+| 🔥🔥: 185 \| 💬: [52](https://news.ycombinator.com/item?id=43647880) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -121,11 +109,23 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
+## <a name="8"></a>8. R语言资源大全：一网打尽免费编程书籍 
+<small>🔗 [bigbookofr.com](https://www.bigbookofr.com/): Big Book of R</small>
+
+
+| 🔥🔥: 179 \| 💬: [45](https://news.ycombinator.com/item?id=43646219) \| 🗓️ 2025-04-10
+
+
+<br />
+本文介绍了《Big Book of R》项目，这是一个汇集**400多本免费或低价R语言相关书籍**的在线资源库。最初由个人整理，后经社区贡献扩充。网站支持搜索功能，欢迎捐赠或提交新书（通过GitHub或Google表单）。特别感谢Fathom Data团队将网站迁移至Quarto框架。资源采用**CC非商业许可**，并提供实时访问统计（基于隐私友好的Plausible工具）。作者Oscar鼓励读者通过Mastodon或LinkedIn交流，并订阅其数据科学动态。
+
+---
+
 ## <a name="9"></a>9. 为何要敲击帕尔马干酪？ 
 <small>🔗 [cheeseprofessor.com](https://www.cheeseprofessor.com/blog/cheese-wheel-tapping): Why Tap a Wheel of Cheese?</small>
 
 
-| 🔥🔥: 151 \| 💬: [114](https://news.ycombinator.com/item?id=43644970) \| 🗓️ 2025-04-10
+| 🔥🔥: 160 \| 💬: [116](https://news.ycombinator.com/item?id=43644970) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -133,27 +133,27 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
-## <a name="10"></a>10. 艾萨克·阿西莫夫预言AI将解放人类创造力（1992年） 
-<small>🔗 [openculture.com](https://www.openculture.com/2025/04/isaac-asimov-describes-how-ai-will-liberate-humans-their-creativity.html): Isaac Asimov describes how AI will liberate humans and their creativity (1992)</small>
-
-
-| 🔥🔥: 146 \| 💬: [200](https://news.ycombinator.com/item?id=43644179) \| 🗓️ 2025-04-10
-
-
-<br />
-在1992年的最后一次重要访谈中，科幻大师**艾萨克·阿西莫夫**将人工智能定义为“能完成人类智力任务的设备”。他认为，AI将接管重复性工作，**解放人类**去专注**创造性活动**，实现人机互补协作。尽管他预见了技术发展的挑战，但强调需提前规划以避免负面影响。阿西莫夫以汽车与城市规划为例，提醒我们保留“前AI时代”的人文价值可能更明智。
-
----
-
-## <a name="11"></a>11. 椭圆式Python编程的艺术 
+## <a name="10"></a>10. 椭圆式Python编程的艺术 
 <small>🔗 [susam.net](https://susam.net/elliptical-python-programming.html): Elliptical Python Programming</small>
 
 
-| 🔥🔥: 144 \| 💬: [21](https://news.ycombinator.com/item?id=43643292) \| 🗓️ 2025-04-10
+| 🔥🔥: 148 \| 💬: [21](https://news.ycombinator.com/item?id=43643292) \| 🗓️ 2025-04-10
 
 
 <br />
 作者Susam Pal以幽默笔调探讨Python的**极简哲学**，通过`(...==...)`等奇特语法生成数字，调侃编程中“**唯一明显方式**”的禅意。文章演示了如何用**预减运算符**和括号构造代码，甚至建议重映射Tab键来输入省略号，但强调**生产代码应保持可读性**。最后提醒：此类代码仅供娱乐，真实项目需添加日志，并遵循“为人编写，而非机器”的原则。
+
+---
+
+## <a name="11"></a>11. 艾萨克·阿西莫夫预言AI将解放人类创造力（1992年） 
+<small>🔗 [openculture.com](https://www.openculture.com/2025/04/isaac-asimov-describes-how-ai-will-liberate-humans-their-creativity.html): Isaac Asimov describes how AI will liberate humans and their creativity (1992)</small>
+
+
+| 🔥🔥: 148 \| 💬: [203](https://news.ycombinator.com/item?id=43644179) \| 🗓️ 2025-04-10
+
+
+<br />
+在1992年的最后一次重要访谈中，科幻大师**艾萨克·阿西莫夫**将人工智能定义为“能完成人类智力任务的设备”。他认为，AI将接管重复性工作，**解放人类**去专注**创造性活动**，实现人机互补协作。尽管他预见了技术发展的挑战，但强调需提前规划以避免负面影响。阿西莫夫以汽车与城市规划为例，提醒我们保留“前AI时代”的人文价值可能更明智。
 
 ---
 
@@ -173,7 +173,7 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/04/10/fintech-founder-charged-with-fraud-after-ai-shopping-app-found-to-be-powered-by-humans-in-the-philippines/): Fintech founder charged with fraud; AI app found to be humans in the Philippines</small>
 
 
-| 🔥🔥: 104 \| 💬: [47](https://news.ycombinator.com/item?id=43648950) \| 🗓️ 2025-04-10
+| 🔥🔥: 132 \| 💬: [60](https://news.ycombinator.com/item?id=43648950) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -185,7 +185,7 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 <small>🔗 [muppetlabs.com](https://www.muppetlabs.com/~breadbox/txt/mopb.html): My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules</small>
 
 
-| 🔥🔥: 103 \| 💬: [10](https://news.ycombinator.com/item?id=43647294) \| 🗓️ 2025-04-10
+| 🔥🔥: 120 \| 💬: [11](https://news.ycombinator.com/item?id=43647294) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -193,11 +193,23 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
-## <a name="15"></a>15. SDL2 在 macOS 9 上的初步开发进展 
+## <a name="15"></a>15. 揭秘 Shebang：内核如何执行脚本 
+<small>🔗 [crocidb.com](https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/): Demystifying the (Shebang): Kernel Adventures</small>
+
+
+| 🔥🔥: 105 \| 💬: [26](https://news.ycombinator.com/item?id=43646698) \| 🗓️ 2025-04-10
+
+
+<br />
+本文深入探讨了**Shebang（#!）**的工作原理，揭示其并非由Shell处理，而是由**Linux内核**直接解析。通过分析`strace`追踪的系统调用和内核源码（如`fs/binfmt_script.c`），作者发现内核通过`execve`系统调用读取脚本首行的Shebang，定位解释器并执行。若脚本无Shebang，Shell会回退到默认解释器（如`/bin/sh`）。文中还对比了`useradd`（ELF二进制）和`adduser`（Perl脚本）的差异，并提及**binfmt_misc**机制如何扩展非原生程序（如Java/Python）的执行方式。
+
+---
+
+## <a name="16"></a>16. SDL2 在 macOS 9 上的初步开发进展 
 <small>🔗 [macintoshgarden.org](https://macintoshgarden.org/apps/sdl2-macos-9-rough-draft): SDL2 for macOS 9 “rough draft”</small>
 
 
-| 🔥: 99 \| 💬: [45](https://news.ycombinator.com/item?id=43645183) \| 🗓️ 2025-04-10
+| 🔥🔥: 101 \| 💬: [48](https://news.ycombinator.com/item?id=43645183) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -209,59 +221,11 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
-## <a name="16"></a>16. 揭秘 Shebang：内核如何执行脚本 
-<small>🔗 [crocidb.com](https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/): Demystifying the (Shebang): Kernel Adventures</small>
-
-
-| 🔥: 97 \| 💬: [24](https://news.ycombinator.com/item?id=43646698) \| 🗓️ 2025-04-10
-
-
-<br />
-本文深入探讨了**Shebang（#!）**的工作原理，揭示其并非由Shell处理，而是由**Linux内核**直接解析。通过分析`strace`追踪的系统调用和内核源码（如`fs/binfmt_script.c`），作者发现内核通过`execve`系统调用读取脚本首行的Shebang，定位解释器并执行。若脚本无Shebang，Shell会回退到默认解释器（如`/bin/sh`）。文中还对比了`useradd`（ELF二进制）和`adduser`（Perl脚本）的差异，并提及**binfmt_misc**机制如何扩展非原生程序（如Java/Python）的执行方式。
-
----
-
-## <a name="17"></a>17. 联邦移民局拘留学生抗议者 律师介入维权 
-<small>🔗 [old.reddit.com](https://old.reddit.com/r/ABoringDystopia/comments/1jw34qx/attorney_representing_a_student_protester/): Attorney representing a student protester detained by federal immigration agents</small>
-
-
-| 🔥: 85 \| 💬: [27](https://news.ycombinator.com/item?id=43647812) \| 🗓️ 2025-04-10
-
-
-<br />
-Reddit社区热议一则新闻：一名参与抗议的学生被**联邦移民局**拘留，其代理律师正采取法律行动。讨论中，网友用"**盖世太保手段**"形容执法行为，并担忧局势恶化可能引发更广泛冲突。部分评论指出，经济困境与枪支泛滥或加剧社会风险。该帖引发5条争议性回复，包括对未来的悲观预测。
-
----
-
-## <a name="18"></a>18. Koreo：专为Kubernetes设计的平台工程工具包 
-<small>🔗 [koreo.dev](https://koreo.dev/): Show HN: Koreo – A platform engineering toolkit for Kubernetes</small>
-
-
-| 🔥: 78 \| 💬: [29](https://news.ycombinator.com/item?id=43644351) \| 🗓️ 2025-04-10
-
-
-<br />
-Koreo是一款创新的Kubernetes配置管理与资源编排工具，通过**可编程工作流**和**结构化数据**赋能开发者。它支持定义复杂多步骤流程，自动化从简单部署到完整云环境的操作，并将配置视为函数式模块，提升复用性与可维护性。其**声明式操作模型**确保基础设施状态一致性，内置测试框架和IDE工具链实现“配置即代码”。Koreo整合了Helm等工具的优势，适用于构建内部开发者平台、多云IaC和策略即代码等场景，由拥有十年平台工程经验的Real Kinetic团队开发。
-
----
-
-## <a name="19"></a>19. 律师为被移民局扣押的学生抗议者辩护 
-<small>🔗 [npr.org](https://www.npr.org/2025/04/09/nx-s1-5357455/attorney-detained-by-immigration-authorities): Attorney representing a student protester detained by federal immigration agents</small>
-
-
-| 🔥: 78 \| 💬: [8](https://news.ycombinator.com/item?id=43647939) \| 🗓️ 2025-04-10
-
-
-<br />
-美国密歇根州律师**Amir Makled**在从多米尼加度假返美时，被海关与边境保护局（CBP）以“反恐战术小组”名义扣留90分钟，**要求搜查其手机**。Makled拒绝提供完整访问权限，最终仅展示通讯录后获释。他质疑此次针对与其代理的**密歇根大学亲巴勒斯坦抗议学生案**有关，认为这是政府**打压异议律师的手段**。CBP否认搜查与政治立场相关，但Makled强调此举旨在恐吓，反而激发法律界声援。事件凸显边境执法对公民隐私权的争议。
-
----
-
-## <a name="20"></a>20. 2000美元的“美国制造”手机是如何诞生的 
+## <a name="17"></a>17. 2000美元的“美国制造”手机是如何诞生的 
 <small>🔗 [404media.co](https://www.404media.co/how-a-2-000-made-in-the-usa-liberty-phone-phone-is-manufactured/): How a $2k 'Made in the USA' Phone Is Manufactured</small>
 
 
-| 🔥: 68 \| 💬: [61](https://news.ycombinator.com/item?id=43646920) \| 🗓️ 2025-04-10
+| 🔥: 87 \| 💬: [97](https://news.ycombinator.com/item?id=43646920) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -269,11 +233,47 @@ Purism公司推出的**Liberty Phone**是目前唯一获得FTC认证的“美国
 
 ---
 
+## <a name="18"></a>18. 联邦移民局拘留学生抗议者 律师介入维权 
+<small>🔗 [old.reddit.com](https://old.reddit.com/r/ABoringDystopia/comments/1jw34qx/attorney_representing_a_student_protester/): Attorney representing a student protester detained by federal immigration agents</small>
+
+
+| 🔥: 86 \| 💬: [27](https://news.ycombinator.com/item?id=43647812) \| 🗓️ 2025-04-10
+
+
+<br />
+Reddit社区热议一则新闻：一名参与抗议的学生被**联邦移民局**拘留，其代理律师正采取法律行动。讨论中，网友用"**盖世太保手段**"形容执法行为，并担忧局势恶化可能引发更广泛冲突。部分评论指出，经济困境与枪支泛滥或加剧社会风险。该帖引发5条争议性回复，包括对未来的悲观预测。
+
+---
+
+## <a name="19"></a>19. Koreo：专为Kubernetes设计的平台工程工具包 
+<small>🔗 [koreo.dev](https://koreo.dev/): Show HN: Koreo – A platform engineering toolkit for Kubernetes</small>
+
+
+| 🔥: 81 \| 💬: [29](https://news.ycombinator.com/item?id=43644351) \| 🗓️ 2025-04-10
+
+
+<br />
+Koreo是一款创新的Kubernetes配置管理与资源编排工具，通过**可编程工作流**和**结构化数据**赋能开发者。它支持定义复杂多步骤流程，自动化从简单部署到完整云环境的操作，并将配置视为函数式模块，提升复用性与可维护性。其**声明式操作模型**确保基础设施状态一致性，内置测试框架和IDE工具链实现“配置即代码”。Koreo整合了Helm等工具的优势，适用于构建内部开发者平台、多云IaC和策略即代码等场景，由拥有十年平台工程经验的Real Kinetic团队开发。
+
+---
+
+## <a name="20"></a>20. 律师为被移民局扣押的学生抗议者辩护 
+<small>🔗 [npr.org](https://www.npr.org/2025/04/09/nx-s1-5357455/attorney-detained-by-immigration-authorities): Attorney representing a student protester detained by federal immigration agents</small>
+
+
+| 🔥: 80 \| 💬: [8](https://news.ycombinator.com/item?id=43647939) \| 🗓️ 2025-04-10
+
+
+<br />
+美国密歇根州律师**Amir Makled**在从多米尼加度假返美时，被海关与边境保护局（CBP）以“反恐战术小组”名义扣留90分钟，**要求搜查其手机**。Makled拒绝提供完整访问权限，最终仅展示通讯录后获释。他质疑此次针对与其代理的**密歇根大学亲巴勒斯坦抗议学生案**有关，认为这是政府**打压异议律师的手段**。CBP否认搜查与政治立场相关，但Makled强调此举旨在恐吓，反而激发法律界声援。事件凸显边境执法对公民隐私权的争议。
+
+---
+
 ## <a name="21"></a>21. 《黑镜》的悲观主义“焦虑贩卖”无益于未来 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/apr/10/black-mirror-tv-show-pessimism): Black Mirror's pessimism porn won't lead us to a better future</small>
 
 
-| 🔥: 67 \| 💬: [62](https://news.ycombinator.com/item?id=43648890) \| 🗓️ 2025-04-10
+| 🔥: 75 \| 💬: [69](https://news.ycombinator.com/item?id=43648890) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -285,7 +285,7 @@ Purism公司推出的**Liberty Phone**是目前唯一获得FTC认证的“美国
 <small>🔗 [machinelearning.apple.com](https://machinelearning.apple.com/research/transporting-activations): Controlling Language and Diffusion Models by Transporting Activations</small>
 
 
-| 🔥: 65 \| 💬: [12](https://news.ycombinator.com/item?id=43646466) \| 🗓️ 2025-04-10
+| 🔥: 67 \| 💬: [12](https://news.ycombinator.com/item?id=43646466) \| 🗓️ 2025-04-10
 
 
 <br />
