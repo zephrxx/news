@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [garfieldminusgarfield.net](https://garfieldminusgarfield.net): Garfield Minus Garfield</small>
 
 
-| 🔥🔥: 420 \| 💬: [142](https://news.ycombinator.com/item?id=43646095) \| 🗓️ 2025-04-10
+| 🔥🔥: 440 \| 💬: [158](https://news.ycombinator.com/item?id=43646095) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [susam.net](https://susam.net/hn-bell.html): Hacker News Hug of Deaf</small>
 
 
-| 🔥🔥: 407 \| 💬: [97](https://news.ycombinator.com/item?id=43642123) \| 🗓️ 2025-04-10
+| 🔥🔥: 414 \| 💬: [98](https://news.ycombinator.com/item?id=43642123) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -53,7 +53,7 @@ tags:
 <small>🔗 [peps.python.org](https://peps.python.org/pep-0750/): PEP 750 – Template Strings (t-strings) have been accepted</small>
 
 
-| 🔥🔥: 242 \| 💬: [118](https://news.ycombinator.com/item?id=43647716) \| 🗓️ 2025-04-10
+| 🔥🔥: 291 \| 💬: [157](https://news.ycombinator.com/item?id=43647716) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -65,7 +65,7 @@ Python 核心团队通过了 **PEP 750**，引入了一种新的字符串前缀 
 <small>🔗 [busy.bar](https://busy.bar): Busy Bar</small>
 
 
-| 🔥🔥: 227 \| 💬: [119](https://news.ycombinator.com/item?id=43643534) \| 🗓️ 2025-04-10
+| 🔥🔥: 231 \| 💬: [123](https://news.ycombinator.com/item?id=43643534) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -77,7 +77,7 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-00964-w): Sleep is essential – researchers are trying to work out why</small>
 
 
-| 🔥🔥: 211 \| 💬: [150](https://news.ycombinator.com/item?id=43643390) \| 🗓️ 2025-04-10
+| 🔥🔥: 212 \| 💬: [151](https://news.ycombinator.com/item?id=43643390) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -89,7 +89,7 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 <small>🔗 [inclouds.space](https://inclouds.space/localhost-domains): .localhost Domains</small>
 
 
-| 🔥🔥: 188 \| 💬: [136](https://news.ycombinator.com/item?id=43644043) \| 🗓️ 2025-04-10
+| 🔥🔥: 191 \| 💬: [136](https://news.ycombinator.com/item?id=43644043) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -101,7 +101,7 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 <small>🔗 [bigbookofr.com](https://www.bigbookofr.com/): Big Book of R</small>
 
 
-| 🔥🔥: 139 \| 💬: [33](https://news.ycombinator.com/item?id=43646219) \| 🗓️ 2025-04-10
+| 🔥🔥: 150 \| 💬: [35](https://news.ycombinator.com/item?id=43646219) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -109,7 +109,31 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
-## <a name="8"></a>8. 美国正倒退至污染最严重的时代 
+## <a name="8"></a>8. 为何要敲击帕尔马干酪？ 
+<small>🔗 [cheeseprofessor.com](https://www.cheeseprofessor.com/blog/cheese-wheel-tapping): Why Tap a Wheel of Cheese?</small>
+
+
+| 🔥🔥: 141 \| 💬: [110](https://news.ycombinator.com/item?id=43644970) \| 🗓️ 2025-04-10
+
+
+<br />
+每年约400万轮帕尔马干酪的生产背后，有一支24人的**“敲击师”**团队，用金属锤在6-7秒内通过声音判断奶酪品质。学徒需跟随老师傅实践3年才能掌握这门传承200年的技艺。完美奶酪内部紧实无空隙，缺陷则会产生异响。成品分为三级：**顶级品质**（可长期陈化）、**次级品**（建议尽早食用）及**缺陷品**（去除标识后作为普通奶酪出售）。近年仅约10%的奶酪被归为次级，1.5%为缺陷品。敲击师强调，缺陷恰恰体现了手工产品的自然特性——**“若100%完美，反该警惕工业化嫌疑”**。
+
+---
+
+## <a name="9"></a>9. 艾萨克·阿西莫夫预言AI将解放人类创造力（1992年） 
+<small>🔗 [openculture.com](https://www.openculture.com/2025/04/isaac-asimov-describes-how-ai-will-liberate-humans-their-creativity.html): Isaac Asimov describes how AI will liberate humans and their creativity (1992)</small>
+
+
+| 🔥🔥: 136 \| 💬: [192](https://news.ycombinator.com/item?id=43644179) \| 🗓️ 2025-04-10
+
+
+<br />
+在1992年的最后一次重要访谈中，科幻大师**艾萨克·阿西莫夫**将人工智能定义为“能完成人类智力任务的设备”。他认为，AI将接管重复性工作，**解放人类**去专注**创造性活动**，实现人机互补协作。尽管他预见了技术发展的挑战，但强调需提前规划以避免负面影响。阿西莫夫以汽车与城市规划为例，提醒我们保留“前AI时代”的人文价值可能更明智。
+
+---
+
+## <a name="10"></a>10. 美国正倒退至污染最严重的时代 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/health/archive/2025/04/air-pollution-trump-administration/682361/): America Is Backsliding Toward Its Most Polluted Era</small>
 
 
@@ -121,35 +145,11 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 
 ---
 
-## <a name="9"></a>9. 为何要敲击帕尔马干酪？ 
-<small>🔗 [cheeseprofessor.com](https://www.cheeseprofessor.com/blog/cheese-wheel-tapping): Why Tap a Wheel of Cheese?</small>
-
-
-| 🔥🔥: 135 \| 💬: [102](https://news.ycombinator.com/item?id=43644970) \| 🗓️ 2025-04-10
-
-
-<br />
-每年约400万轮帕尔马干酪的生产背后，有一支24人的**“敲击师”**团队，用金属锤在6-7秒内通过声音判断奶酪品质。学徒需跟随老师傅实践3年才能掌握这门传承200年的技艺。完美奶酪内部紧实无空隙，缺陷则会产生异响。成品分为三级：**顶级品质**（可长期陈化）、**次级品**（建议尽早食用）及**缺陷品**（去除标识后作为普通奶酪出售）。近年仅约10%的奶酪被归为次级，1.5%为缺陷品。敲击师强调，缺陷恰恰体现了手工产品的自然特性——**“若100%完美，反该警惕工业化嫌疑”**。
-
----
-
-## <a name="10"></a>10. 艾萨克·阿西莫夫预言AI将解放人类创造力（1992年） 
-<small>🔗 [openculture.com](https://www.openculture.com/2025/04/isaac-asimov-describes-how-ai-will-liberate-humans-their-creativity.html): Isaac Asimov describes how AI will liberate humans and their creativity (1992)</small>
-
-
-| 🔥🔥: 132 \| 💬: [183](https://news.ycombinator.com/item?id=43644179) \| 🗓️ 2025-04-10
-
-
-<br />
-在1992年的最后一次重要访谈中，科幻大师**艾萨克·阿西莫夫**将人工智能定义为“能完成人类智力任务的设备”。他认为，AI将接管重复性工作，**解放人类**去专注**创造性活动**，实现人机互补协作。尽管他预见了技术发展的挑战，但强调需提前规划以避免负面影响。阿西莫夫以汽车与城市规划为例，提醒我们保留“前AI时代”的人文价值可能更明智。
-
----
-
 ## <a name="11"></a>11. 椭圆式Python编程的艺术 
 <small>🔗 [susam.net](https://susam.net/elliptical-python-programming.html): Elliptical Python Programming</small>
 
 
-| 🔥🔥: 131 \| 💬: [20](https://news.ycombinator.com/item?id=43643292) \| 🗓️ 2025-04-10
+| 🔥🔥: 135 \| 💬: [21](https://news.ycombinator.com/item?id=43643292) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -161,7 +161,7 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 <small>🔗 [thecoder.cafe](https://www.thecoder.cafe/p/100-go-mistakes): So, I Wrote a Book: The Story Behind “100 Go Mistakes and How to Avoid Them”</small>
 
 
-| 🔥: 98 \| 💬: [37](https://news.ycombinator.com/item?id=43647880) \| 🗓️ 2025-04-10
+| 🔥🔥: 120 \| 💬: [44](https://news.ycombinator.com/item?id=43647880) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -170,10 +170,10 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 ---
 
 ## <a name="13"></a>13. SDL2 在 macOS 9 上的初步开发进展 
-<small>🔗 [macintoshgarden.org](https://macintoshgarden.org/apps/sdl2-macos-9-rough-draft): SDL2 for macOS 9 "rough draft"</small>
+<small>🔗 [macintoshgarden.org](https://macintoshgarden.org/apps/sdl2-macos-9-rough-draft): SDL2 for macOS 9 “rough draft”</small>
 
 
-| 🔥: 83 \| 💬: [32](https://news.ycombinator.com/item?id=43645183) \| 🗓️ 2025-04-10
+| 🔥: 89 \| 💬: [36](https://news.ycombinator.com/item?id=43645183) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -189,7 +189,7 @@ BUSY Bar是一款多功能LED像素屏生产力设备，集成**专注计时器*
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/ABoringDystopia/comments/1jw34qx/attorney_representing_a_student_protester/): Attorney representing a student protester detained by federal immigration agents</small>
 
 
-| 🔥: 80 \| 💬: [26](https://news.ycombinator.com/item?id=43647812) \| 🗓️ 2025-04-10
+| 🔥: 81 \| 💬: [27](https://news.ycombinator.com/item?id=43647812) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -197,23 +197,11 @@ Reddit社区热议一则新闻：一名参与抗议的学生被**联邦移民局
 
 ---
 
-## <a name="15"></a>15. Koreo：专为Kubernetes设计的平台工程工具包 
-<small>🔗 [koreo.dev](https://koreo.dev/): Show HN: Koreo – The platform engineering toolkit for Kubernetes</small>
-
-
-| 🔥: 71 \| 💬: [28](https://news.ycombinator.com/item?id=43644351) \| 🗓️ 2025-04-10
-
-
-<br />
-Koreo是一款创新的Kubernetes配置管理与资源编排工具，通过**可编程工作流**和**结构化数据**赋能开发者。它支持定义复杂多步骤流程，自动化从简单部署到完整云环境的操作，并将配置视为函数式模块，提升复用性与可维护性。其**声明式操作模型**确保基础设施状态一致性，内置测试框架和IDE工具链实现“配置即代码”。Koreo整合了Helm等工具的优势，适用于构建内部开发者平台、多云IaC和策略即代码等场景，由拥有十年平台工程经验的Real Kinetic团队开发。
-
----
-
-## <a name="16"></a>16. 揭秘 Shebang：内核如何执行脚本 
+## <a name="15"></a>15. 揭秘 Shebang：内核如何执行脚本 
 <small>🔗 [crocidb.com](https://crocidb.com/post/kernel-adventures/demystifying-the-shebang/): Demystifying the (Shebang): Kernel Adventures</small>
 
 
-| 🔥: 71 \| 💬: [15](https://news.ycombinator.com/item?id=43646698) \| 🗓️ 2025-04-10
+| 🔥: 80 \| 💬: [17](https://news.ycombinator.com/item?id=43646698) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -221,11 +209,11 @@ Koreo是一款创新的Kubernetes配置管理与资源编排工具，通过**可
 
 ---
 
-## <a name="17"></a>17. 我的私有二进制：Linux内核模块的独特入门指南 
+## <a name="16"></a>16. 我的私有二进制：Linux内核模块的独特入门指南 
 <small>🔗 [muppetlabs.com](https://www.muppetlabs.com/~breadbox/txt/mopb.html): My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules</small>
 
 
-| 🔥: 69 \| 💬: [5](https://news.ycombinator.com/item?id=43647294) \| 🗓️ 2025-04-10
+| 🔥: 75 \| 💬: [6](https://news.ycombinator.com/item?id=43647294) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -233,11 +221,23 @@ Koreo是一款创新的Kubernetes配置管理与资源编排工具，通过**可
 
 ---
 
+## <a name="17"></a>17. Koreo：专为Kubernetes设计的平台工程工具包 
+<small>🔗 [koreo.dev](https://koreo.dev/): Show HN: Koreo – A platform engineering toolkit for Kubernetes</small>
+
+
+| 🔥: 74 \| 💬: [29](https://news.ycombinator.com/item?id=43644351) \| 🗓️ 2025-04-10
+
+
+<br />
+Koreo是一款创新的Kubernetes配置管理与资源编排工具，通过**可编程工作流**和**结构化数据**赋能开发者。它支持定义复杂多步骤流程，自动化从简单部署到完整云环境的操作，并将配置视为函数式模块，提升复用性与可维护性。其**声明式操作模型**确保基础设施状态一致性，内置测试框架和IDE工具链实现“配置即代码”。Koreo整合了Helm等工具的优势，适用于构建内部开发者平台、多云IaC和策略即代码等场景，由拥有十年平台工程经验的Real Kinetic团队开发。
+
+---
+
 ## <a name="18"></a>18. 律师为被移民局扣押的学生抗议者辩护 
 <small>🔗 [npr.org](https://www.npr.org/2025/04/09/nx-s1-5357455/attorney-detained-by-immigration-authorities): Attorney representing a student protester detained by federal immigration agents</small>
 
 
-| 🔥: 69 \| 💬: [7](https://news.ycombinator.com/item?id=43647939) \| 🗓️ 2025-04-10
+| 🔥: 74 \| 💬: [8](https://news.ycombinator.com/item?id=43647939) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -249,7 +249,7 @@ Koreo是一款创新的Kubernetes配置管理与资源编排工具，通过**可
 <small>🔗 [404media.co](https://www.404media.co/how-a-2-000-made-in-the-usa-liberty-phone-phone-is-manufactured/): How a $2k 'Made in the USA' Phone Is Manufactured</small>
 
 
-| 🔥: 63 \| 💬: [59](https://news.ycombinator.com/item?id=43646920) \| 🗓️ 2025-04-10
+| 🔥: 65 \| 💬: [60](https://news.ycombinator.com/item?id=43646920) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -257,11 +257,23 @@ Purism公司推出的**Liberty Phone**是目前唯一获得FTC认证的“美国
 
 ---
 
-## <a name="20"></a>20. 蓝盾数据泄露事件（谷歌广告相关） 
+## <a name="20"></a>20. 通过激活传输精准控制语言与扩散模型 
+<small>🔗 [machinelearning.apple.com](https://machinelearning.apple.com/research/transporting-activations): Controlling Language and Diffusion Models by Transporting Activations</small>
+
+
+| 🔥: 63 \| 💬: [12](https://news.ycombinator.com/item?id=43646466) \| 🗓️ 2025-04-10
+
+
+<br />
+苹果研究人员提出**激活传输（AcT）**技术，通过**最优传输理论**动态调整模型内部激活分布，实现对生成结果的细粒度控制。该方法无需修改模型参数，仅需少量示例数据即可消除毒性内容、提升真实性（如Gemma-2-2b毒性降低7.5倍），或精确操控图像风格与元素（如移除“粉色大象”）。相比传统RLHF和微调，AcT计算成本极低且兼容多模态，已开源并将在ICLR 2025展示。
+
+---
+
+## <a name="21"></a>21. 蓝盾数据泄露事件（谷歌广告相关） 
 <small>🔗 [news.blueshieldca.com](https://news.blueshieldca.com/notice-of-data-breach): Blue Shield Data Breach (Google Ads)</small>
 
 
-| 🔥: 60 \| 💬: [43](https://news.ycombinator.com/item?id=43645331) \| 🗓️ 2025-04-10
+| 🔥: 62 \| 💬: [44](https://news.ycombinator.com/item?id=43645331) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -269,11 +281,11 @@ Purism公司推出的**Liberty Phone**是目前唯一获得FTC认证的“美国
 
 ---
 
-## <a name="21"></a>21. 用廉价摄像头定位隐形战机：无需AI或雷达 
+## <a name="22"></a>22. 用廉价摄像头定位隐形战机：无需AI或雷达 
 <small>🔗 [youtube.com](https://www.youtube.com/watch?v=m-b51C82-UE): Locating Stealth Fighters with Cheap Cameras Without Using AI or Radar [video]</small>
 
 
-| 🔥: 55 \| 💬: [49](https://news.ycombinator.com/item?id=43643207) \| 🗓️ 2025-04-10
+| 🔥: 55 \| 💬: [50](https://news.ycombinator.com/item?id=43643207) \| 🗓️ 2025-04-10
 
 
 <br />
@@ -281,7 +293,7 @@ Purism公司推出的**Liberty Phone**是目前唯一获得FTC认证的“美国
 
 ---
 
-## <a name="22"></a>22. 现在的孩子根本不会用电脑，这问题比你想象的更严重 
+## <a name="23"></a>23. 现在的孩子根本不会用电脑，这问题比你想象的更严重 
 <small>🔗 [coding2learn.org](http://coding2learn.org/blog/2013/07/29/kids-cant-use-computers/): Kids can't use computers and this is why it should worry you (2013)</small>
 
 
@@ -295,7 +307,7 @@ Purism公司推出的**Liberty Phone**是目前唯一获得FTC认证的“美国
 
 ---
 
-## <a name="23"></a>23. 美国人去欧洲还受欢迎吗？ 
+## <a name="24"></a>24. 美国人去欧洲还受欢迎吗？ 
 <small>🔗 [blog.ricksteves.com](https://blog.ricksteves.com/cameron/2025/03/americans-welcome-europe-2025/): Are Americans Still Welcome in Europe?</small>
 
 
@@ -307,7 +319,7 @@ Purism公司推出的**Liberty Phone**是目前唯一获得FTC认证的“美国
 
 ---
 
-## <a name="24"></a>24. Cloudflare R2数据目录：零出口费的托管Apache Iceberg表 
+## <a name="25"></a>25. Cloudflare R2数据目录：零出口费的托管Apache Iceberg表 
 <small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/r2-data-catalog-public-beta/): Cloudflare R2 Data Catalog: Managed Apache Iceberg tables with zero egress fees</small>
 
 
