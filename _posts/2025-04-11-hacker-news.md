@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共20条，具体内容您往下读...
+总共21条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [rakhim.exotext.com](https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse): But what if I want a faster horse?</small>
 
 
-| 🔥🔥: 1145 \| 💬: [515](https://news.ycombinator.com/item?id=43652723) \| 🗓️ 2025-04-11
+| 🔥🔥: 1170 \| 💬: [521](https://news.ycombinator.com/item?id=43652723) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [dropsitenews.com](https://www.dropsitenews.com/p/leaked-data-israeli-censorship-meta): Leaked Meta data reveals campaign to remove pro-Palestine posts</small>
 
 
-| 🔥🔥: 549 \| 💬: [327](https://news.ycombinator.com/item?id=43655603) \| 🗓️ 2025-04-11
+| 🔥🔥: 593 \| 💬: [339](https://news.ycombinator.com/item?id=43655603) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [lwn.net](https://lwn.net/Articles/1014979/): Fedora change aims for 99% package reproducibility</small>
 
 
-| 🔥🔥: 293 \| 💬: [123](https://news.ycombinator.com/item?id=43653672) \| 🗓️ 2025-04-11
+| 🔥🔥: 297 \| 💬: [131](https://news.ycombinator.com/item?id=43653672) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -63,7 +63,7 @@ Fedora项目正推进一项变革，目标是在Fedora 43开发周期中实现**
 <small>🔗 [terriblesoftware.org](https://terriblesoftware.org/2025/03/31/your-strengths-are-your-weaknesses/): Strengths Are Your Weaknesses</small>
 
 
-| 🔥🔥: 260 \| 💬: [88](https://news.ycombinator.com/item?id=43652024) \| 🗓️ 2025-04-11
+| 🔥🔥: 271 \| 💬: [90](https://news.ycombinator.com/item?id=43652024) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -75,7 +75,7 @@ Fedora项目正推进一项变革，目标是在Fedora 43开发周期中实现**
 <small>🔗 [funcall.blogspot.com](http://funcall.blogspot.com/2025/04/why-i-program-in-lisp.html): Why I Program in Lisp</small>
 
 
-| 🔥🔥: 221 \| 💬: [197](https://news.ycombinator.com/item?id=43651576) \| 🗓️ 2025-04-11
+| 🔥🔥: 230 \| 💬: [203](https://news.ycombinator.com/item?id=43651576) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -87,7 +87,7 @@ Fedora项目正推进一项变革，目标是在Fedora 43开发周期中实现**
 <small>🔗 [wired.com](https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/): Social Security Administration Moving Public Communications to X</small>
 
 
-| 🔥🔥: 183 \| 💬: [147](https://news.ycombinator.com/item?id=43657079) \| 🗓️ 2025-04-11
+| 🔥🔥: 193 \| 💬: [155](https://news.ycombinator.com/item?id=43657079) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -99,7 +99,7 @@ Fedora项目正推进一项变革，目标是在Fedora 43开发周期中实现**
 <small>🔗 [stevana.github.io](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html): Erlang's not about lightweight processes and message passing (2023)</small>
 
 
-| 🔥🔥: 170 \| 💬: [88](https://news.ycombinator.com/item?id=43655221) \| 🗓️ 2025-04-11
+| 🔥🔥: 180 \| 💬: [92](https://news.ycombinator.com/item?id=43655221) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -107,7 +107,31 @@ Erlang常被误解为以**轻量进程**和**消息传递**为核心，但其真
 
 ---
 
-## <a name="8"></a>8. 欧洲：如今真正的自由之地 
+## <a name="8"></a>8. Adobe遭抵制后删除Bluesky所有帖文 
+<small>🔗 [petapixel.com](https://petapixel.com/2025/04/10/adobe-deletes-bluesky-posts-after-furious-backlash/): Adobe deletes Bluesky posts after backlash</small>
+
+
+| 🔥🔥: 163 \| 💬: [245](https://news.ycombinator.com/item?id=43653885) \| 🗓️ 2025-04-11
+
+
+<br />
+Adobe在Twitter替代平台Bluesky的首次尝试引发强烈反弹。用户因不满其**订阅模式涨价**和**AI生成内容立场**，在帖文下集体抗议，迫使Adobe删除了所有内容。尽管账号保留，但首条问候帖和Photoshop账号的帖文均被清空，用户嘲讽此举“暴露了艺术家群体对Adobe的普遍厌恶”。矛盾根源可追溯至十年前Adobe转向订阅制，近年**价格飙升**和**社区沟通缺失**进一步激化矛盾。
+
+---
+
+## <a name="9"></a>9. Datastar：未来网页开发框架的新选择？ 
+<small>🔗 [chrismalek.me](https://chrismalek.me/posts/data-star-first-impressions/): Datastar: Web Framework for the Future?</small>
+
+
+| 🔥🔥: 156 \| 💬: [76](https://news.ycombinator.com/item?id=43655914) \| 🗓️ 2025-04-11
+
+
+<br />
+Datastar是一款新兴的**超媒体框架**，专注于简化实时网页应用开发。它采用**服务器驱动架构**，通过**信号机制**实现UI自动更新，并利用**服务器推送事件（SSE）**提升性能。相比HTMX，Datastar整合了前端状态管理与交互功能，无需依赖额外JS库，适合追求高效、厌恶复杂JavaScript生态的开发者。其核心理念强调后端主导、响应式编程，为传统前后端分离模式提供了另一种思路。
+
+---
+
+## <a name="10"></a>10. 欧洲：如今真正的自由之地 
 <small>🔗 [economist.com](https://www.economist.com/europe/2025/04/10/the-thing-about-europe-its-the-actual-land-of-the-free-now): The thing about Europe: it's the actual land of the free now</small>
 
 
@@ -119,35 +143,11 @@ Erlang常被误解为以**轻量进程**和**消息传递**为核心，但其真
 
 ---
 
-## <a name="9"></a>9. Datastar：未来网页开发框架的新选择？ 
-<small>🔗 [chrismalek.me](https://chrismalek.me/posts/data-star-first-impressions/): Datastar: Web Framework for the Future?</small>
-
-
-| 🔥🔥: 147 \| 💬: [68](https://news.ycombinator.com/item?id=43655914) \| 🗓️ 2025-04-11
-
-
-<br />
-Datastar是一款新兴的**超媒体框架**，专注于简化实时网页应用开发。它采用**服务器驱动架构**，通过**信号机制**实现UI自动更新，并利用**服务器推送事件（SSE）**提升性能。相比HTMX，Datastar整合了前端状态管理与交互功能，无需依赖额外JS库，适合追求高效、厌恶复杂JavaScript生态的开发者。其核心理念强调后端主导、响应式编程，为传统前后端分离模式提供了另一种思路。
-
----
-
-## <a name="10"></a>10. Adobe遭抵制后删除Bluesky所有帖文 
-<small>🔗 [petapixel.com](https://petapixel.com/2025/04/10/adobe-deletes-bluesky-posts-after-furious-backlash/): Adobe deletes Bluesky posts after backlash</small>
-
-
-| 🔥🔥: 137 \| 💬: [207](https://news.ycombinator.com/item?id=43653885) \| 🗓️ 2025-04-11
-
-
-<br />
-Adobe在Twitter替代平台Bluesky的首次尝试引发强烈反弹。用户因不满其**订阅模式涨价**和**AI生成内容立场**，在帖文下集体抗议，迫使Adobe删除了所有内容。尽管账号保留，但首条问候帖和Photoshop账号的帖文均被清空，用户嘲讽此举“暴露了艺术家群体对Adobe的普遍厌恶”。矛盾根源可追溯至十年前Adobe转向订阅制，近年**价格飙升**和**社区沟通缺失**进一步激化矛盾。
-
----
-
 ## <a name="11"></a>11. 如何制作长弓 
 <small>🔗 [howtomakealongbow.co.uk](https://www.howtomakealongbow.co.uk): How to Make a Longbow</small>
 
 
-| 🔥🔥: 118 \| 💬: [38](https://news.ycombinator.com/item?id=43652160) \| 🗓️ 2025-04-11
+| 🔥🔥: 121 \| 💬: [38](https://news.ycombinator.com/item?id=43652160) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -159,7 +159,7 @@ Adobe在Twitter替代平台Bluesky的首次尝试引发强烈反弹。用户因�
 <small>🔗 [darkcephas.github.io](https://darkcephas.github.io/ps3_failed/ps3_failed.html): The PS3 Licked the Many Cookie</small>
 
 
-| 🔥🔥: 112 \| 💬: [96](https://news.ycombinator.com/item?id=43656279) \| 🗓️ 2025-04-11
+| 🔥🔥: 116 \| 💬: [100](https://news.ycombinator.com/item?id=43656279) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -171,7 +171,7 @@ Adobe在Twitter替代平台Bluesky的首次尝试引发强烈反弹。用户因�
 <small>🔗 [gpuopen.com](https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/): Bilinear interpolation on a quadrilateral using Barycentric coordinates</small>
 
 
-| 🔥🔥: 101 \| 💬: [27](https://news.ycombinator.com/item?id=43654912) \| 🗓️ 2025-04-11
+| 🔥🔥: 107 \| 💬: [28](https://news.ycombinator.com/item?id=43654912) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -179,23 +179,11 @@ Adobe在Twitter替代平台Bluesky的首次尝试引发强烈反弹。用户因�
 
 ---
 
-## <a name="14"></a>14. Rust CUDA 项目：用 Rust 编写高性能 GPU 代码的生态 
-<small>🔗 [github.com](https://github.com/Rust-GPU/Rust-CUDA): Rust CUDA Project</small>
-
-
-| 🔥: 96 \| 💬: [32](https://news.ycombinator.com/item?id=43654881) \| 🗓️ 2025-04-11
-
-
-<br />
-该项目旨在构建一个完整的工具链和库生态系统，使 **Rust** 成为 **CUDA** 高性能 GPU 计算的一流语言。核心功能包括通过 `rustc_codegen_nvvm` 将 Rust 代码编译为优化的 PTX 指令，并提供 `cuda_std`、`cust` 等库支持 GPU/CPU 端开发。项目仍处早期阶段，但计划覆盖 CUDA 全生态（如深度学习库 `cudnn`、光线追踪 `optix`）。相比传统 LLVM PTX 方案，它更稳定且专为 Rust 设计，强调 **安全性** 和 **高性能**。项目采用 Apache-2.0/MIT 双协议，欢迎贡献。
-
----
-
-## <a name="15"></a>15. 铅对大脑的危害从未消失 
+## <a name="14"></a>14. 铅对大脑的危害从未消失 
 <small>🔗 [neurofrontiers.blog](https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/): Lead is still bad for your brain</small>
 
 
-| 🔥: 92 \| 💬: [99](https://news.ycombinator.com/item?id=43651532) \| 🗓️ 2025-04-11
+| 🔥🔥: 104 \| 💬: [103](https://news.ycombinator.com/item?id=43651532) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -203,23 +191,23 @@ Adobe在Twitter替代平台Bluesky的首次尝试引发强烈反弹。用户因�
 
 ---
 
-## <a name="16"></a>16. 给好奇者的WebRTC指南 
-<small>🔗 [webrtcforthecurious.com](https://webrtcforthecurious.com): WebRTC for the Curious</small>
+## <a name="15"></a>15. Rust CUDA 项目：用 Rust 编写高性能 GPU 代码的生态 
+<small>🔗 [github.com](https://github.com/Rust-GPU/Rust-CUDA): Rust CUDA Project</small>
 
 
-| 🔥: 80 \| 💬: [22](https://news.ycombinator.com/item?id=43654813) \| 🗓️ 2025-04-11
+| 🔥🔥: 102 \| 💬: [36](https://news.ycombinator.com/item?id=43654881) \| 🗓️ 2025-04-11
 
 
 <br />
-这是一本由WebRTC开发者编写的开源书籍，旨在分享**协议与API**的核心知识，而非特定软件。书中汇总了RFC文档和未公开的经验，采用**供应商中立**的视角，适合新手、进阶开发者及调试者。章节独立，可随时切入，解答“问题-方案-延伸学习”三层疑问。全书无追踪、无广告，采用**CC0许可**，允许自由使用。欢迎通过GitHub参与贡献！
+该项目旨在构建一个完整的工具链和库生态系统，使 **Rust** 成为 **CUDA** 高性能 GPU 计算的一流语言。核心功能包括通过 `rustc_codegen_nvvm` 将 Rust 代码编译为优化的 PTX 指令，并提供 `cuda_std`、`cust` 等库支持 GPU/CPU 端开发。项目仍处早期阶段，但计划覆盖 CUDA 全生态（如深度学习库 `cudnn`、光线追踪 `optix`）。相比传统 LLVM PTX 方案，它更稳定且专为 Rust 设计，强调 **安全性** 和 **高性能**。项目采用 Apache-2.0/MIT 双协议，欢迎贡献。
 
 ---
 
-## <a name="17"></a>17. Windows 2000 Server被用户评为微软巅峰之作 
+## <a name="16"></a>16. Windows 2000 Server被用户评为微软巅峰之作 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/11/windows_2000_best_microsoft/): Windows 2000 Server named peak Microsoft</small>
 
 
-| 🔥: 79 \| 💬: [103](https://news.ycombinator.com/item?id=43653421) \| 🗓️ 2025-04-11
+| 🔥: 91 \| 💬: [124](https://news.ycombinator.com/item?id=43653421) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -227,11 +215,23 @@ Adobe在Twitter替代平台Bluesky的首次尝试引发强烈反弹。用户因�
 
 ---
 
+## <a name="17"></a>17. 给好奇者的WebRTC指南 
+<small>🔗 [webrtcforthecurious.com](https://webrtcforthecurious.com): WebRTC for the Curious</small>
+
+
+| 🔥: 86 \| 💬: [23](https://news.ycombinator.com/item?id=43654813) \| 🗓️ 2025-04-11
+
+
+<br />
+这是一本由WebRTC开发者编写的开源书籍，旨在分享**协议与API**的核心知识，而非特定软件。书中汇总了RFC文档和未公开的经验，采用**供应商中立**的视角，适合新手、进阶开发者及调试者。章节独立，可随时切入，解答“问题-方案-延伸学习”三层疑问。全书无追踪、无广告，采用**CC0许可**，允许自由使用。欢迎通过GitHub参与贡献！
+
+---
+
 ## <a name="18"></a>18. 卡内基梅隆大学中国留学生毕业前夕突遭签证撤销 
 <small>🔗 [cbsnews.com](https://www.cbsnews.com/pittsburgh/news/carnegie-mellon-student-visa-revoked-interview/): Carnegie Mellon student with one semester left learns his visa was revoked</small>
 
 
-| 🔥: 76 \| 💬: [46](https://news.ycombinator.com/item?id=43653611) \| 🗓️ 2025-04-11
+| 🔥: 78 \| 💬: [46](https://news.ycombinator.com/item?id=43653611) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -243,7 +243,7 @@ Adobe在Twitter替代平台Bluesky的首次尝试引发强烈反弹。用户因�
 <small>🔗 [wordpress.com](https://wordpress.com/blog/2025/04/09/ai-website-builder/): Our New AI Website Builder</small>
 
 
-| 🔥: 65 \| 💬: [58](https://news.ycombinator.com/item?id=43654279) \| 🗓️ 2025-04-11
+| 🔥: 73 \| 💬: [61](https://news.ycombinator.com/item?id=43654279) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -253,11 +253,23 @@ WordPress.com推出**AI网站构建器**，只需输入想法，即可自动生�
 
 ---
 
-## <a name="20"></a>20. 美教育部长误将AI称为"A1"引热议 
+## <a name="20"></a>20. 现代6502处理器的创意项目集锦 
+<small>🔗 [mikekohn.net](https://www.mikekohn.net/micro/modern_6502.php): Modern 6502</small>
+
+
+| 🔥: 65 \| 💬: [5](https://news.ycombinator.com/item?id=43656609) \| 🗓️ 2025-04-11
+
+
+<br />
+作者分享了对**W65C02处理器**的热爱，并介绍了基于该芯片的**W65C265SXB开发板**的四个趣味项目：**LED闪烁**（汇编语言）、音乐播放（Java）、SPI DAC声音播放（汇编）以及脚踏板和弦发生器。开发板具备4个UART接口和内置音调生成器，支持6502/65C816双模式编程。文中还提及用该板读取磁带数据甚至煎饼上的巧克力图案等脑洞实验，展现了复古硬件的现代玩法。所有项目均开源，配套工具链包含naken_asm和Java Grinder。
+
+---
+
+## <a name="21"></a>21. 美教育部长误将AI称为"A1"引热议 
 <small>🔗 [latintimes.com](https://www.latintimes.com/education-secretary-wants-a1-classrooms-early-kindergarten-she-means-ai-580380): Education Secretary Wants 'A1' in Classrooms</small>
 
 
-| 🔥: 58 \| 💬: [39](https://news.ycombinator.com/item?id=43657465) \| 🗓️ 2025-04-11
+| 🔥: 59 \| 💬: [40](https://news.ycombinator.com/item?id=43657465) \| 🗓️ 2025-04-11
 
 
 <br />
