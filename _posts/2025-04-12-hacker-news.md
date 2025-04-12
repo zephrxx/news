@@ -8,38 +8,26 @@ tags:
 ---
 
 
-1. 开源可自托管的隐私友好型文件转换工具；
 1. 巴黎告别汽车：空气污染地图揭示巨变；
+1. 开源可自托管的隐私友好型文件转换工具；
 1. SVG创意动画与交互实现；
 1. AI编造虚假软件依赖包，引发供应链安全危机；
 1. “慢付、少付或不付”：蓝十字批准手术却拒赔；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
 ![](/assets/images/hacker_news.jpg)
 
 
-## <a name="1"></a>1. 开源可自托管的隐私友好型文件转换工具 
-<small>🔗 [vert.sh](https://vert.sh): Open source and self hostable/private file converter</small>
-
-
-| 🔥🔥: 389 \| 💬: [78](https://news.ycombinator.com/item?id=43663865) \| 🗓️ 2025-04-12
-
-
-<br />
-这是一款**完全在本地设备处理**的文件转换工具，支持图片、音频和视频格式转换，**无文件大小限制**且无广告。支持常见格式如PNG、MP3、MKV等，视频需默认上传至服务器处理（可配置本地运行）。**完全开源**，注重用户隐私，操作简单，只需拖放或点击上传即可快速转换。
-
----
-
-## <a name="2"></a>2. 巴黎告别汽车：空气污染地图揭示巨变 
+## <a name="1"></a>1. 巴黎告别汽车：空气污染地图揭示巨变 
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/climate-solutions/2025/04/12/air-pollution-paris-health-cars/): Air pollution fell substantially as Paris restricted car traffic</small>
 
 
-| 🔥🔥: 379 \| 💬: [325](https://news.ycombinator.com/item?id=43665793) \| 🗓️ 2025-04-12
+| 🔥🔥: 415 \| 💬: [357](https://news.ycombinator.com/item?id=43665793) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -47,11 +35,23 @@ tags:
 
 ---
 
+## <a name="2"></a>2. 开源可自托管的隐私友好型文件转换工具 
+<small>🔗 [vert.sh](https://vert.sh): Open source and self hostable/private file converter</small>
+
+
+| 🔥🔥: 402 \| 💬: [80](https://news.ycombinator.com/item?id=43663865) \| 🗓️ 2025-04-12
+
+
+<br />
+这是一款**完全在本地设备处理**的文件转换工具，支持图片、音频和视频格式转换，**无文件大小限制**且无广告。支持常见格式如PNG、MP3、MKV等，视频需默认上传至服务器处理（可配置本地运行）。**完全开源**，注重用户隐私，操作简单，只需拖放或点击上传即可快速转换。
+
+---
+
 ## <a name="3"></a>3. SVG创意动画与交互实现 
 <small>🔗 [fuma-nama.vercel.app](https://fuma-nama.vercel.app/blog/svg-art): Nice Things with SVG</small>
 
 
-| 🔥🔥: 220 \| 💬: [34](https://news.ycombinator.com/item?id=43666439) \| 🗓️ 2025-04-12
+| 🔥🔥: 256 \| 💬: [41](https://news.ycombinator.com/item?id=43666439) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/12/ai_code_suggestions_sabotage_supply_chain/): AI can't stop making up software dependencies and sabotaging everything</small>
 
 
-| 🔥🔥: 168 \| 💬: [152](https://news.ycombinator.com/item?id=43663777) \| 🗓️ 2025-04-12
+| 🔥🔥: 170 \| 💬: [155](https://news.ycombinator.com/item?id=43663777) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -75,7 +75,7 @@ AI代码助手常**虚构不存在的软件包名**（5.2%-21.7%概率），黑�
 <small>🔗 [propublica.org](https://www.propublica.org/article/blue-cross-blue-shield-louisiana-insurance-lawsuit-breast-cancer-doctors): "Slow Pay, Low Pay or No Pay": Blue Cross Approved Surgeries Then Refused to Pay</small>
 
 
-| 🔥🔥: 156 \| 💬: [184](https://news.ycombinator.com/item?id=43664660) \| 🗓️ 2025-04-12
+| 🔥🔥: 157 \| 💬: [189](https://news.ycombinator.com/item?id=43664660) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -87,7 +87,7 @@ AI代码助手常**虚构不存在的软件包名**（5.2%-21.7%概率），黑�
 <small>🔗 [protesilaos.com](https://protesilaos.com/emacs/emacs-lisp-elements): Emacs Lisp Elements</small>
 
 
-| 🔥🔥: 131 \| 💬: [14](https://news.ycombinator.com/item?id=43665046) \| 🗓️ 2025-04-12
+| 🔥🔥: 154 \| 💬: [18](https://news.ycombinator.com/item?id=43665046) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -99,7 +99,7 @@ AI代码助手常**虚构不存在的软件包名**（5.2%-21.7%概率），黑�
 <small>🔗 [tunarr.com](https://tunarr.com/): Tunarr: Create and configure live TV channels from media on your servers</small>
 
 
-| 🔥🔥: 128 \| 💬: [31](https://news.ycombinator.com/item?id=43665201) \| 🗓️ 2025-04-12
+| 🔥🔥: 136 \| 💬: [32](https://news.ycombinator.com/item?id=43665201) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -107,7 +107,19 @@ Tunarr是一款能将**Plex/Jellyfin服务器**中的媒体内容转换为直播
 
 ---
 
-## <a name="8"></a>8. Charts.css：纯CSS图表框架 
+## <a name="8"></a>8. 特朗普政府豁免手机、电脑等电子产品关税 
+<small>🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-04-12/trump-exempts-phones-computers-chips-from-reciprocal-tariffs): Trump exempts phones, computers, chips from 'reciprocal' tariffs</small>
+
+
+| 🔥🔥: 106 \| 💬: [356](https://news.ycombinator.com/item?id=43664121) \| 🗓️ 2025-04-12
+
+
+<br />
+美国海关与边境保护局宣布，**特朗普政府**将智能手机、电脑和芯片等电子产品排除在**“对等关税”**之外，为苹果、英伟达等科技企业提供重要缓冲。此次豁免涉及**125%的中国关税**和**10%的全球关税**，但可能仅为临时措施。新规于周五晚发布，缩小了关税征收范围。
+
+---
+
+## <a name="9"></a>9. Charts.css：纯CSS图表框架 
 <small>🔗 [chartscss.org](https://chartscss.org/): Charts.css</small>
 
 
@@ -119,11 +131,11 @@ Charts.css是一个**现代CSS框架**，通过**CSS工具类**将HTML元素快�
 
 ---
 
-## <a name="9"></a>9. ArkType：比Zod快100倍的TypeScript验证工具 
+## <a name="10"></a>10. ArkType：比Zod快100倍的TypeScript验证工具 
 <small>🔗 [arktype.io](https://arktype.io/): ArkType: Ergonomic TS validator 100x faster than Zod</small>
 
 
-| 🔥: 79 \| 💬: [27](https://news.ycombinator.com/item?id=43665540) \| 🗓️ 2025-04-12
+| 🔥: 92 \| 💬: [30](https://news.ycombinator.com/item?id=43665540) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -131,11 +143,11 @@ ArkType是一款**高性能TypeScript验证器**，提供从编辑器到运行�
 
 ---
 
-## <a name="10"></a>10. 苦涩的预言 
+## <a name="11"></a>11. 苦涩的预言 
 <small>🔗 [4zm.org](https://4zm.org/2025/04/05/bitter-prediction.html): The Bitter Prediction</small>
 
 
-| 🔥: 78 \| 💬: [54](https://news.ycombinator.com/item?id=43662686) \| 🗓️ 2025-04-12
+| 🔥: 79 \| 💬: [54](https://news.ycombinator.com/item?id=43662686) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -143,23 +155,23 @@ ArkType是一款**高性能TypeScript验证器**，提供从编辑器到运行�
 
 ---
 
-## <a name="11"></a>11. 特朗普政府豁免手机、电脑等电子产品关税 
-<small>🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-04-12/trump-exempts-phones-computers-chips-from-reciprocal-tariffs): Trump exempts phones, computers, chips from 'reciprocal' tariffs</small>
+## <a name="12"></a>12. Zod v4 测试版发布：更快、更小、更强大 
+<small>🔗 [v4.zod.dev](https://v4.zod.dev/v4): Zod v4 Beta</small>
 
 
-| 🔥: 76 \| 💬: [307](https://news.ycombinator.com/item?id=43664121) \| 🗓️ 2025-04-12
+| 🔥: 74 \| 💬: [13](https://news.ycombinator.com/item?id=43667925) \| 🗓️ 2025-04-12
 
 
 <br />
-美国海关与边境保护局宣布，**特朗普政府**将智能手机、电脑和芯片等电子产品排除在**“对等关税”**之外，为苹果、英伟达等科技企业提供重要缓冲。此次豁免涉及**125%的中国关税**和**10%的全球关税**，但可能仅为临时措施。新规于周五晚发布，缩小了关税征收范围。
+Zod 4 测试版正式推出，经过一年多的开发，性能提升显著：**字符串解析快 2.6 倍**，**数组解析快 3 倍**，**对象解析快 7 倍**。新版本优化了 TypeScript 兼容性，**减少了 20 倍的类型实例化**，并引入 **`@zod/mini`** 库，核心包体积缩小 85%。新增功能包括**元数据系统**、**JSON Schema 转换**和更精确的**可选属性控制**（通过 `z.interface()`）。感谢 Clerk 的支持，Zod 4 将成为未来多年的新基础。
 
 ---
 
-## <a name="12"></a>12. Amiga双启动ROM替换模块KickSmash32简介 
+## <a name="13"></a>13. Amiga双启动ROM替换模块KickSmash32简介 
 <small>🔗 [github.com](https://github.com/cdhooper/kicksmash32): Dual Kickstart ROM Replacement for Amiga</small>
 
 
-| 🔥: 64 \| 💬: [15](https://news.ycombinator.com/item?id=43666341) \| 🗓️ 2025-04-12
+| 🔥: 68 \| 💬: [17](https://news.ycombinator.com/item?id=43666341) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -167,11 +179,11 @@ KickSmash32是一款针对**Amiga 3000/4000系列**（含1200、3000T等型号�
 
 ---
 
-## <a name="13"></a>13. 固态变压器的革新：现代电网的转型利器 
+## <a name="14"></a>14. 固态变压器的革新：现代电网的转型利器 
 <small>🔗 [powermag.com](https://www.powermag.com/the-solid-state-shift-reinventing-the-transformer-for-modern-grids/): The Solid-State Shift: Reinventing the Transformer for Modern Grids</small>
 
 
-| 🔥: 43 \| 💬: [17](https://news.ycombinator.com/item?id=43666778) \| 🗓️ 2025-04-12
+| 🔥: 49 \| 💬: [20](https://news.ycombinator.com/item?id=43666778) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -179,11 +191,11 @@ KickSmash32是一款针对**Amiga 3000/4000系列**（含1200、3000T等型号�
 
 ---
 
-## <a name="14"></a>14. 苹果股价昨日疯涨，疑似内幕消息泄露 
+## <a name="15"></a>15. 苹果股价昨日疯涨，疑似内幕消息泄露 
 <small>🔗 [twitter.com](https://twitter.com/TradingThomas3/status/1911047516021281205): Apple was getting bid up like crazy yesterday, don't tell me this wasn't leaked</small>
 
 
-| 🔥: 41 \| 💬: [10](https://news.ycombinator.com/item?id=43664624) \| 🗓️ 2025-04-12
+| 🔥: 42 \| 💬: [10](https://news.ycombinator.com/item?id=43664624) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -191,11 +203,11 @@ KickSmash32是一款针对**Amiga 3000/4000系列**（含1200、3000T等型号�
 
 ---
 
-## <a name="15"></a>15. 哪些国家将从美国人才外流中受益最多？ 
+## <a name="16"></a>16. 哪些国家将从美国人才外流中受益最多？ 
 <small>🔗 [economist.com](https://www.economist.com/graphic-detail/2025/04/11/which-countries-would-benefit-most-from-an-american-brain-drain): Which countries would benefit most from an American brain drain?</small>
 
 
-| 🔥: 40 \| 💬: [75](https://news.ycombinator.com/item?id=43664996) \| 🗓️ 2025-04-12
+| 🔥: 41 \| 💬: [76](https://news.ycombinator.com/item?id=43664996) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -203,23 +215,11 @@ KickSmash32是一款针对**Amiga 3000/4000系列**（含1200、3000T等型号�
 
 ---
 
-## <a name="16"></a>16. 特朗普政府强行将6100名在世移民标记为"已死亡" 
-<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/politics/2025/04/12/trump-immigrants-dead-social-security/): Trump administration overrode Social Security staff to list immigrants as dead</small>
-
-
-| 🔥: 37 \| 💬: [11](https://news.ycombinator.com/item?id=43665027) \| 🗓️ 2025-04-12
-
-
-<br />
-美国社会保障局(Social Security Administration)在特朗普政府施压下，**非法篡改死亡数据库**，将6100名活着的移民(含未成年人)标记为死亡，导致他们无法合法工作或领取福利。技术主管Greg Pearre因反对该计划被强制离职。此举被专家指控违反隐私法，且**数据库漏洞**允许无需死亡证明即可修改记录。国土安全部声称这些移民与恐怖活动有关，但未提供证据。目前法律团队正认定该行为违法，维权组织已提起诉讼。
-
----
-
 ## <a name="17"></a>17. "奇异粒子"或成量子世界的第三王国 
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/paraparticles-would-be-a-third-kingdom-of-quantum-particle-20250411/): 'Paraparticles' Would Be a Third Kingdom of Quantum Particle</small>
 
 
-| 🔥: 37 \| 💬: [4](https://news.ycombinator.com/item?id=43665831) \| 🗓️ 2025-04-12
+| 🔥: 40 \| 💬: [4](https://news.ycombinator.com/item?id=43665831) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -227,27 +227,27 @@ KickSmash32是一款针对**Amiga 3000/4000系列**（含1200、3000T等型号�
 
 ---
 
-## <a name="18"></a>18. 中国率先批准无人驾驶飞行出租车商用 
+## <a name="18"></a>18. 特朗普政府强行将6100名在世移民标记为"已死亡" 
+<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/politics/2025/04/12/trump-immigrants-dead-social-security/): Trump administration overrode Social Security staff to list immigrants as dead</small>
+
+
+| 🔥: 38 \| 💬: [11](https://news.ycombinator.com/item?id=43665027) \| 🗓️ 2025-04-12
+
+
+<br />
+美国社会保障局(Social Security Administration)在特朗普政府施压下，**非法篡改死亡数据库**，将6100名活着的移民(含未成年人)标记为死亡，导致他们无法合法工作或领取福利。技术主管Greg Pearre因反对该计划被强制离职。此举被专家指控违反隐私法，且**数据库漏洞**允许无需死亡证明即可修改记录。国土安全部声称这些移民与恐怖活动有关，但未提供证据。目前法律团队正认定该行为违法，维权组织已提起诉讼。
+
+---
+
+## <a name="19"></a>19. 中国率先批准无人驾驶飞行出租车商用 
 <small>🔗 [engineerine.com](https://engineerine.com/chinas-flying-taxis/): China Just Approved Flying Taxis – No Pilot Needed</small>
 
 
-| 🔥: 34 \| 💬: [36](https://news.ycombinator.com/item?id=43666773) \| 🗓️ 2025-04-12
+| 🔥: 36 \| 💬: [39](https://news.ycombinator.com/item?id=43666773) \| 🗓️ 2025-04-12
 
 
 <br />
 中国民航局正式向亿航智能及其子公司颁发全球首个**无人驾驶飞行出租车**商用许可，标志着城市空中交通进入新阶段。该双座机型配备16个螺旋桨，**纯电动驱动**，航程35公里，最高时速130公里，适合短途接驳与旅游观光。运营初期将聚焦景区航线，未来计划扩展至城市通勤，并整合进地铁、机场等交通网络。**远程监控中心**确保飞行安全，零排放设计助力绿色出行。这一突破预计将推动全球空中交通产业爆发，市场规模或于2040年突破万亿美元。
-
----
-
-## <a name="19"></a>19. Zod v4 测试版发布：更快、更小、更强大 
-<small>🔗 [v4.zod.dev](https://v4.zod.dev/v4): Zod v4 Beta</small>
-
-
-| 🔥: 34 \| 💬: [1](https://news.ycombinator.com/item?id=43667925) \| 🗓️ 2025-04-12
-
-
-<br />
-Zod 4 测试版正式推出，经过一年多的开发，性能提升显著：**字符串解析快 2.6 倍**，**数组解析快 3 倍**，**对象解析快 7 倍**。新版本优化了 TypeScript 兼容性，**减少了 20 倍的类型实例化**，并引入 **`@zod/mini`** 库，核心包体积缩小 85%。新增功能包括**元数据系统**、**JSON Schema 转换**和更精确的**可选属性控制**（通过 `z.interface()`）。感谢 Clerk 的支持，Zod 4 将成为未来多年的新基础。
 
 ---
 
@@ -263,7 +263,19 @@ Zod 4 测试版正式推出，经过一年多的开发，性能提升显著：**
 
 ---
 
-## <a name="21"></a>21. 美国正遭遇"资本外逃" 
+## <a name="21"></a>21. Apache ECharts + Leaflet + shadcn 数据可视化方案 
+<small>🔗 [docs.evidence.dev](https://docs.evidence.dev/components/all-components/): Apache ECharts + Leaflet + shadcn for data viz</small>
+
+
+| 🔥: 32 \| 💬: [4](https://news.ycombinator.com/item?id=43664455) \| 🗓️ 2025-04-12
+
+
+<br />
+本文介绍了基于 **Apache ECharts**、**Leaflet** 和 **shadcn** 的数据可视化组件库，涵盖多种图表类型和交互功能。包括**折线图**、面积图、柱状图、散点图等基础图表，以及热力图、桑基图等高级可视化形式。同时支持地图展示（区域图、点图等）和UI组件（按钮组、输入框等），提供灵活的**自定义配置**选项，适用于复杂数据场景的多样化需求。
+
+---
+
+## <a name="22"></a>22. 美国正遭遇"资本外逃" 
 <small>🔗 [noahpinion.blog](https://www.noahpinion.blog/p/this-is-called-capital-flight): This is Called "Capital Flight"</small>
 
 
@@ -275,7 +287,19 @@ Zod 4 测试版正式推出，经过一年多的开发，性能提升显著：**
 
 ---
 
-## <a name="22"></a>22. 特朗普新关税豁免手机、电脑及芯片 
+## <a name="23"></a>23. 科技巨头，请停止将AI强行塞进操作系统 
+<small>🔗 [howtogeek.com](https://www.howtogeek.com/dear-big-tech-stop-shoving-ai-into-operating-systems/): Dear Big Tech, Stop Shoving AI into Operating Systems</small>
+
+
+| 🔥: 31 \| 💬: [19](https://news.ycombinator.com/item?id=43667488) \| 🗓️ 2025-04-12
+
+
+<br />
+当前微软、苹果和谷歌正将**生成式AI**（如Copilot、Apple Intelligence和Gemini）深度集成到操作系统中，但更多是出于**营销噱头**而非实际需求。用户更希望获得稳定、隐私友好且轻量化的系统，而非充斥广告、监控和冗余功能的AI工具。这些公司以“智能助手”为名，实则可能加剧数据收集，而多数AI功能本可作为独立应用存在。文章呼吁AI应作为可选模块，而非强制捆绑的系统组件。
+
+---
+
+## <a name="24"></a>24. 特朗普新关税豁免手机、电脑及芯片 
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/12/trump-exempts-phones-computers-chips-tariffs-apple-dell.html): Trump exempts phones, computers, chips from new tariffs</small>
 
 
@@ -287,19 +311,7 @@ Zod 4 测试版正式推出，经过一年多的开发，性能提升显著：**
 
 ---
 
-## <a name="23"></a>23. 科技巨头，请停止将AI强行塞进操作系统 
-<small>🔗 [howtogeek.com](https://www.howtogeek.com/dear-big-tech-stop-shoving-ai-into-operating-systems/): Dear Big Tech, Stop Shoving AI into Operating Systems</small>
-
-
-| 🔥: 29 \| 💬: [18](https://news.ycombinator.com/item?id=43667488) \| 🗓️ 2025-04-12
-
-
-<br />
-当前微软、苹果和谷歌正将**生成式AI**（如Copilot、Apple Intelligence和Gemini）深度集成到操作系统中，但更多是出于**营销噱头**而非实际需求。用户更希望获得稳定、隐私友好且轻量化的系统，而非充斥广告、监控和冗余功能的AI工具。这些公司以“智能助手”为名，实则可能加剧数据收集，而多数AI功能本可作为独立应用存在。文章呼吁AI应作为可选模块，而非强制捆绑的系统组件。
-
----
-
-## <a name="24"></a>24. 为什么训练AI不构成知识产权侵权 
+## <a name="25"></a>25. 为什么训练AI不构成知识产权侵权 
 <small>🔗 [blog.giovanh.com](https://blog.giovanh.com/blog/2025/04/03/why-training-ai-cant-be-ip-theft/): Why training AI can't be IP theft</small>
 
 
