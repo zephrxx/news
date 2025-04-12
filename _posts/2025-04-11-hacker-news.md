@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [rakhim.exotext.com](https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse): But what if I want a faster horse?</small>
 
 
-| 🔥🔥: 1248 \| 💬: [539](https://news.ycombinator.com/item?id=43652723) \| 🗓️ 2025-04-11
+| 🔥🔥: 1260 \| 💬: [544](https://news.ycombinator.com/item?id=43652723) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [dropsitenews.com](https://www.dropsitenews.com/p/leaked-data-israeli-censorship-meta): Leaked data reveals Israeli govt campaign to remove pro-Palestine posts on Meta</small>
 
 
-| 🔥🔥: 776 \| 💬: [450](https://news.ycombinator.com/item?id=43655603) \| 🗓️ 2025-04-11
+| 🔥🔥: 800 \| 💬: [495](https://news.ycombinator.com/item?id=43655603) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [lwn.net](https://lwn.net/Articles/1014979/): Fedora change aims for 99% package reproducibility</small>
 
 
-| 🔥🔥: 330 \| 💬: [162](https://news.ycombinator.com/item?id=43653672) \| 🗓️ 2025-04-11
+| 🔥🔥: 337 \| 💬: [163](https://news.ycombinator.com/item?id=43653672) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -63,7 +63,7 @@ Fedora项目正推进一项变革，目标是在Fedora 43开发周期中实现**
 <small>🔗 [terriblesoftware.org](https://terriblesoftware.org/2025/03/31/your-strengths-are-your-weaknesses/): Strengths Are Your Weaknesses</small>
 
 
-| 🔥🔥: 300 \| 💬: [96](https://news.ycombinator.com/item?id=43652024) \| 🗓️ 2025-04-11
+| 🔥🔥: 306 \| 💬: [97](https://news.ycombinator.com/item?id=43652024) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -75,7 +75,7 @@ Fedora项目正推进一项变革，目标是在Fedora 43开发周期中实现**
 <small>🔗 [petapixel.com](https://petapixel.com/2025/04/10/adobe-deletes-bluesky-posts-after-furious-backlash/): Adobe deletes Bluesky posts after backlash</small>
 
 
-| 🔥🔥: 264 \| 💬: [371](https://news.ycombinator.com/item?id=43653885) \| 🗓️ 2025-04-11
+| 🔥🔥: 293 \| 💬: [388](https://news.ycombinator.com/item?id=43653885) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -87,7 +87,7 @@ Adobe在Twitter替代平台Bluesky的首次尝试引发强烈反弹。用户因�
 <small>🔗 [funcall.blogspot.com](http://funcall.blogspot.com/2025/04/why-i-program-in-lisp.html): Why I Program in Lisp</small>
 
 
-| 🔥🔥: 253 \| 💬: [222](https://news.ycombinator.com/item?id=43651576) \| 🗓️ 2025-04-11
+| 🔥🔥: 254 \| 💬: [223](https://news.ycombinator.com/item?id=43651576) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -99,7 +99,7 @@ Adobe在Twitter替代平台Bluesky的首次尝试引发强烈反弹。用户因�
 <small>🔗 [stevana.github.io](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html): Erlang's not about lightweight processes and message passing (2023)</small>
 
 
-| 🔥🔥: 226 \| 💬: [127](https://news.ycombinator.com/item?id=43655221) \| 🗓️ 2025-04-11
+| 🔥🔥: 235 \| 💬: [131](https://news.ycombinator.com/item?id=43655221) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -107,35 +107,11 @@ Erlang常被误解为以**轻量进程**和**消息传递**为核心，但其真
 
 ---
 
-## <a name="8"></a>8. 美国社保局将公共沟通全面转向X平台 
-<small>🔗 [wired.com](https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/): Social Security Administration Moving Public Communications to X</small>
-
-
-| 🔥🔥: 202 \| 💬: [163](https://news.ycombinator.com/item?id=43657079) \| 🗓️ 2025-04-11
-
-
-<br />
-美国社会保障局（SSA）宣布**停止通过新闻稿和“同事信”与媒体及公众沟通**，转而**仅通过X平台（原推特）发布信息**。此举引发内部担忧，因员工需特殊申请才能用政府电脑访问社交媒体，可能影响工作效率。此外，**老年人等群体或难以获取关键福利信息**。同时，SSA正大幅裁员，区域办公室员工将削减87%，恐削弱反欺诈能力。白宫回应称“资源重组是为优化服务”，但员工质疑此举将导致“信息断层”。
-
----
-
-## <a name="9"></a>9. Datastar：未来网页开发框架的新选择？ 
-<small>🔗 [chrismalek.me](https://chrismalek.me/posts/data-star-first-impressions/): Datastar: Web Framework for the Future?</small>
-
-
-| 🔥🔥: 188 \| 💬: [101](https://news.ycombinator.com/item?id=43655914) \| 🗓️ 2025-04-11
-
-
-<br />
-Datastar是一款新兴的**超媒体框架**，专注于简化实时网页应用开发。它采用**服务器驱动架构**，通过**信号机制**实现UI自动更新，并利用**服务器推送事件（SSE）**提升性能。相比HTMX，Datastar整合了前端状态管理与交互功能，无需依赖额外JS库，适合追求高效、厌恶复杂JavaScript生态的开发者。其核心理念强调后端主导、响应式编程，为传统前后端分离模式提供了另一种思路。
-
----
-
-## <a name="10"></a>10. 你可能不需要WebSocket 
+## <a name="8"></a>8. 你可能不需要WebSocket 
 <small>🔗 [hntrl.io](https://hntrl.io/posts/you-dont-need-websockets/): You might not need WebSockets</small>
 
 
-| 🔥🔥: 183 \| 💬: [130](https://news.ycombinator.com/item?id=43659370) \| 🗓️ 2025-04-11
+| 🔥🔥: 209 \| 💬: [140](https://news.ycombinator.com/item?id=43659370) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -147,7 +123,43 @@ WebSocket虽能实现**双向实时通信**，但存在三大问题：**消息�
 
 ---
 
-## <a name="11"></a>11. 欧洲：如今真正的自由之地 
+## <a name="9"></a>9. 美国社保局将公共沟通全面转向X平台 
+<small>🔗 [wired.com](https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/): Social Security Administration Moving Public Communications to X</small>
+
+
+| 🔥🔥: 204 \| 💬: [163](https://news.ycombinator.com/item?id=43657079) \| 🗓️ 2025-04-11
+
+
+<br />
+美国社会保障局（SSA）宣布**停止通过新闻稿和“同事信”与媒体及公众沟通**，转而**仅通过X平台（原推特）发布信息**。此举引发内部担忧，因员工需特殊申请才能用政府电脑访问社交媒体，可能影响工作效率。此外，**老年人等群体或难以获取关键福利信息**。同时，SSA正大幅裁员，区域办公室员工将削减87%，恐削弱反欺诈能力。白宫回应称“资源重组是为优化服务”，但员工质疑此举将导致“信息断层”。
+
+---
+
+## <a name="10"></a>10. Datastar：未来网页开发框架的新选择？ 
+<small>🔗 [chrismalek.me](https://chrismalek.me/posts/data-star-first-impressions/): Datastar: Web Framework for the Future?</small>
+
+
+| 🔥🔥: 194 \| 💬: [104](https://news.ycombinator.com/item?id=43655914) \| 🗓️ 2025-04-11
+
+
+<br />
+Datastar是一款新兴的**超媒体框架**，专注于简化实时网页应用开发。它采用**服务器驱动架构**，通过**信号机制**实现UI自动更新，并利用**服务器推送事件（SSE）**提升性能。相比HTMX，Datastar整合了前端状态管理与交互功能，无需依赖额外JS库，适合追求高效、厌恶复杂JavaScript生态的开发者。其核心理念强调后端主导、响应式编程，为传统前后端分离模式提供了另一种思路。
+
+---
+
+## <a name="11"></a>11. 铅对大脑的危害从未消失 
+<small>🔗 [neurofrontiers.blog](https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/): Lead is still bad for your brain</small>
+
+
+| 🔥🔥: 155 \| 💬: [134](https://news.ycombinator.com/item?id=43651532) \| 🗓️ 2025-04-11
+
+
+<br />
+尽管铅已从汽油、油漆等产品中逐步淘汰，但其**持久性污染**仍威胁健康。铅是**不可降解的重金属**，会长期存在于环境与人体中，尤其对儿童危害更大——通过肠道或肺部吸收后，铅会沉积在骨骼和大脑，导致**认知缺陷、行为问题及智商下降**。研究证实，**任何剂量的铅暴露都不安全**，其毒性机制包括破坏细胞膜流动性、干扰钙信号和产生自由基。预防措施包括更换含铅建材、参与社区清理行动，而早期干预可部分逆转儿童铅中毒的影响。
+
+---
+
+## <a name="12"></a>12. 欧洲：如今真正的自由之地 
 <small>🔗 [economist.com](https://www.economist.com/europe/2025/04/10/the-thing-about-europe-its-the-actual-land-of-the-free-now): The thing about Europe: it's the actual land of the free now</small>
 
 
@@ -159,23 +171,11 @@ WebSocket虽能实现**双向实时通信**，但存在三大问题：**消息�
 
 ---
 
-## <a name="12"></a>12. 铅对大脑的危害从未消失 
-<small>🔗 [neurofrontiers.blog](https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/): Lead is still bad for your brain</small>
-
-
-| 🔥🔥: 147 \| 💬: [129](https://news.ycombinator.com/item?id=43651532) \| 🗓️ 2025-04-11
-
-
-<br />
-尽管铅已从汽油、油漆等产品中逐步淘汰，但其**持久性污染**仍威胁健康。铅是**不可降解的重金属**，会长期存在于环境与人体中，尤其对儿童危害更大——通过肠道或肺部吸收后，铅会沉积在骨骼和大脑，导致**认知缺陷、行为问题及智商下降**。研究证实，**任何剂量的铅暴露都不安全**，其毒性机制包括破坏细胞膜流动性、干扰钙信号和产生自由基。预防措施包括更换含铅建材、参与社区清理行动，而早期干预可部分逆转儿童铅中毒的影响。
-
----
-
 ## <a name="13"></a>13. 江诗丹顿刷新世界纪录，推出最复杂腕表 
 <small>🔗 [hodinkee.com](https://www.hodinkee.com/articles/introducing-vacheron-constantin-les-cabinotiers-solaria): Vacheron Constantin breaks the world record for most complicated wristwatch</small>
 
 
-| 🔥🔥: 134 \| 💬: [113](https://news.ycombinator.com/item?id=43659365) \| 🗓️ 2025-04-11
+| 🔥🔥: 152 \| 💬: [119](https://news.ycombinator.com/item?id=43659365) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -183,23 +183,11 @@ WebSocket虽能实现**双向实时通信**，但存在三大问题：**消息�
 
 ---
 
-## <a name="14"></a>14. PS3：一颗被舔过的多核糖果 
-<small>🔗 [darkcephas.github.io](https://darkcephas.github.io/ps3_failed/ps3_failed.html): The PS3 Licked the Many Cookie</small>
-
-
-| 🔥🔥: 126 \| 💬: [103](https://news.ycombinator.com/item?id=43656279) \| 🗓️ 2025-04-11
-
-
-<br />
-本文从开发者视角剖析PS3失败原因：其**异构计算架构**严重阻碍了开发效率。尽管Cell处理器SPE单元理论性能强大，但实际仅能调用5-6个核心，且**本地内存限制**（仅128KB可用）迫使代码必须深度定制。与Xbox360的统一架构相比，PS3的GPU算力分散（顶点/像素单元分离）、组件协同成本高昂，导致开发者需耗费大量精力优化基础功能。最终，这种**半成品多核设计**未能兑现性能承诺，反而成为行业教训。
-
----
-
-## <a name="15"></a>15. Windows 2000 Server被用户评为微软巅峰之作 
+## <a name="14"></a>14. Windows 2000 Server被用户评为微软巅峰之作 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/11/windows_2000_best_microsoft/): Windows 2000 Server named peak Microsoft</small>
 
 
-| 🔥🔥: 125 \| 💬: [181](https://news.ycombinator.com/item?id=43653421) \| 🗓️ 2025-04-11
+| 🔥🔥: 134 \| 💬: [187](https://news.ycombinator.com/item?id=43653421) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -207,7 +195,31 @@ WebSocket虽能实现**双向实时通信**，但存在三大问题：**消息�
 
 ---
 
-## <a name="16"></a>16. Rust CUDA 项目：用 Rust 编写高性能 GPU 代码的生态 
+## <a name="15"></a>15. PS3：一颗被舔过的多核糖果 
+<small>🔗 [darkcephas.github.io](https://darkcephas.github.io/ps3_failed/ps3_failed.html): The PS3 Licked the Many Cookie</small>
+
+
+| 🔥🔥: 127 \| 💬: [104](https://news.ycombinator.com/item?id=43656279) \| 🗓️ 2025-04-11
+
+
+<br />
+本文从开发者视角剖析PS3失败原因：其**异构计算架构**严重阻碍了开发效率。尽管Cell处理器SPE单元理论性能强大，但实际仅能调用5-6个核心，且**本地内存限制**（仅128KB可用）迫使代码必须深度定制。与Xbox360的统一架构相比，PS3的GPU算力分散（顶点/像素单元分离）、组件协同成本高昂，导致开发者需耗费大量精力优化基础功能。最终，这种**半成品多核设计**未能兑现性能承诺，反而成为行业教训。
+
+---
+
+## <a name="16"></a>16. 如何制作长弓 
+<small>🔗 [howtomakealongbow.co.uk](https://www.howtomakealongbow.co.uk): How to Make a Longbow</small>
+
+
+| 🔥🔥: 125 \| 💬: [38](https://news.ycombinator.com/item?id=43652160) \| 🗓️ 2025-04-11
+
+
+<br />
+该网站持续更新扩展内容，欢迎用户反馈希望获取的信息。**长弓制作**需要耐心和技巧，建议定期回访以获取最新指南。**关键材料**包括优质木材和专用工具，**核心步骤**涉及木材成型、弓弦安装及张力测试。用户互动是优化内容的重要方式。
+
+---
+
+## <a name="17"></a>17. Rust CUDA 项目：用 Rust 编写高性能 GPU 代码的生态 
 <small>🔗 [github.com](https://github.com/Rust-GPU/Rust-CUDA): Rust CUDA Project</small>
 
 
@@ -219,23 +231,11 @@ WebSocket虽能实现**双向实时通信**，但存在三大问题：**消息�
 
 ---
 
-## <a name="17"></a>17. 如何制作长弓 
-<small>🔗 [howtomakealongbow.co.uk](https://www.howtomakealongbow.co.uk): How to Make a Longbow</small>
-
-
-| 🔥🔥: 124 \| 💬: [38](https://news.ycombinator.com/item?id=43652160) \| 🗓️ 2025-04-11
-
-
-<br />
-该网站持续更新扩展内容，欢迎用户反馈希望获取的信息。**长弓制作**需要耐心和技巧，建议定期回访以获取最新指南。**关键材料**包括优质木材和专用工具，**核心步骤**涉及木材成型、弓弦安装及张力测试。用户互动是优化内容的重要方式。
-
----
-
 ## <a name="18"></a>18. 给好奇者的WebRTC指南 
 <small>🔗 [webrtcforthecurious.com](https://webrtcforthecurious.com): WebRTC for the Curious</small>
 
 
-| 🔥🔥: 113 \| 💬: [28](https://news.ycombinator.com/item?id=43654813) \| 🗓️ 2025-04-11
+| 🔥🔥: 119 \| 💬: [28](https://news.ycombinator.com/item?id=43654813) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -247,7 +247,7 @@ WebSocket虽能实现**双向实时通信**，但存在三大问题：**消息�
 <small>🔗 [gpuopen.com](https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/): Bilinear interpolation on a quadrilateral using Barycentric coordinates</small>
 
 
-| 🔥🔥: 112 \| 💬: [28](https://news.ycombinator.com/item?id=43654912) \| 🗓️ 2025-04-11
+| 🔥🔥: 114 \| 💬: [28](https://news.ycombinator.com/item?id=43654912) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -259,7 +259,7 @@ WebSocket虽能实现**双向实时通信**，但存在三大问题：**消息�
 <small>🔗 [mikekohn.net](https://www.mikekohn.net/micro/modern_6502.php): Modern 6502</small>
 
 
-| 🔥: 85 \| 💬: [7](https://news.ycombinator.com/item?id=43656609) \| 🗓️ 2025-04-11
+| 🔥: 88 \| 💬: [7](https://news.ycombinator.com/item?id=43656609) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -267,11 +267,23 @@ WebSocket虽能实现**双向实时通信**，但存在三大问题：**消息�
 
 ---
 
-## <a name="21"></a>21. 卡内基梅隆大学中国留学生毕业前夕突遭签证撤销 
+## <a name="21"></a>21. 微软重新推出Recall功能引发隐私争议 
+<small>🔗 [arstechnica.com](https://arstechnica.com/security/2025/04/microsoft-is-putting-privacy-endangering-recall-back-into-windows-11/): That groan you hear is users' reaction to Recall going back into Windows</small>
+
+
+| 🔥: 83 \| 💬: [75](https://news.ycombinator.com/item?id=43660914) \| 🗓️ 2025-04-11
+
+
+<br />
+微软在Windows 11中重新推出**Recall**功能，该工具会每三秒截图并存储用户活动，引发安全与隐私担忧。尽管微软要求用户**手动启用**并允许暂停，但批评者指出，即使用户A未启用，其发送给其他用户（如B或C）的敏感信息仍可能被截图并存储，包括密码、医疗记录等。此外，这一功能可能成为黑客或法律调查的**数据金矿**。隐私倡导者认为，Recall是“功能劣化”的典型例子，对用户弊大于利。
+
+---
+
+## <a name="22"></a>22. 卡内基梅隆大学中国留学生毕业前夕突遭签证撤销 
 <small>🔗 [cbsnews.com](https://www.cbsnews.com/pittsburgh/news/carnegie-mellon-student-visa-revoked-interview/): Carnegie Mellon student with one semester left learns his visa was revoked</small>
 
 
-| 🔥: 79 \| 💬: [48](https://news.ycombinator.com/item?id=43653611) \| 🗓️ 2025-04-11
+| 🔥: 81 \| 💬: [48](https://news.ycombinator.com/item?id=43653611) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -279,11 +291,11 @@ WebSocket虽能实现**双向实时通信**，但存在三大问题：**消息�
 
 ---
 
-## <a name="22"></a>22. 全新AI建站工具：用对话轻松打造专业网站 
+## <a name="23"></a>23. 全新AI建站工具：用对话轻松打造专业网站 
 <small>🔗 [wordpress.com](https://wordpress.com/blog/2025/04/09/ai-website-builder/): Our New AI Website Builder</small>
 
 
-| 🔥: 78 \| 💬: [62](https://news.ycombinator.com/item?id=43654279) \| 🗓️ 2025-04-11
+| 🔥: 81 \| 💬: [62](https://news.ycombinator.com/item?id=43654279) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -293,11 +305,11 @@ WordPress.com推出**AI网站构建器**，只需输入想法，即可自动生�
 
 ---
 
-## <a name="23"></a>23. 美教育部长误将AI称为"A1"引热议 
+## <a name="24"></a>24. 美教育部长误将AI称为"A1"引热议 
 <small>🔗 [latintimes.com](https://www.latintimes.com/education-secretary-wants-a1-classrooms-early-kindergarten-she-means-ai-580380): Education Secretary Wants 'A1' in Classrooms</small>
 
 
-| 🔥: 62 \| 💬: [40](https://news.ycombinator.com/item?id=43657465) \| 🗓️ 2025-04-11
+| 🔥: 63 \| 💬: [41](https://news.ycombinator.com/item?id=43657465) \| 🗓️ 2025-04-11
 
 
 <br />
