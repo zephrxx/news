@@ -27,7 +27,7 @@ tags:
 <small>🔗 [rakhim.exotext.com](https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse): But what if I want a faster horse?</small>
 
 
-| 🔥🔥: 1224 \| 💬: [532](https://news.ycombinator.com/item?id=43652723) \| 🗓️ 2025-04-11
+| 🔥🔥: 1234 \| 💬: [534](https://news.ycombinator.com/item?id=43652723) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [dropsitenews.com](https://www.dropsitenews.com/p/leaked-data-israeli-censorship-meta): Leaked data reveals Israeli govt campaign to remove pro-Palestine posts on Meta</small>
 
 
-| 🔥🔥: 704 \| 💬: [408](https://news.ycombinator.com/item?id=43655603) \| 🗓️ 2025-04-11
+| 🔥🔥: 744 \| 💬: [425](https://news.ycombinator.com/item?id=43655603) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [lwn.net](https://lwn.net/Articles/1014979/): Fedora change aims for 99% package reproducibility</small>
 
 
-| 🔥🔥: 315 \| 💬: [146](https://news.ycombinator.com/item?id=43653672) \| 🗓️ 2025-04-11
+| 🔥🔥: 323 \| 💬: [154](https://news.ycombinator.com/item?id=43653672) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -63,7 +63,7 @@ Fedora项目正推进一项变革，目标是在Fedora 43开发周期中实现**
 <small>🔗 [terriblesoftware.org](https://terriblesoftware.org/2025/03/31/your-strengths-are-your-weaknesses/): Strengths Are Your Weaknesses</small>
 
 
-| 🔥🔥: 288 \| 💬: [96](https://news.ycombinator.com/item?id=43652024) \| 🗓️ 2025-04-11
+| 🔥🔥: 295 \| 💬: [96](https://news.ycombinator.com/item?id=43652024) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -75,7 +75,7 @@ Fedora项目正推进一项变革，目标是在Fedora 43开发周期中实现**
 <small>🔗 [funcall.blogspot.com](http://funcall.blogspot.com/2025/04/why-i-program-in-lisp.html): Why I Program in Lisp</small>
 
 
-| 🔥🔥: 242 \| 💬: [215](https://news.ycombinator.com/item?id=43651576) \| 🗓️ 2025-04-11
+| 🔥🔥: 251 \| 💬: [220](https://news.ycombinator.com/item?id=43651576) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -87,7 +87,7 @@ Fedora项目正推进一项变革，目标是在Fedora 43开发周期中实现**
 <small>🔗 [petapixel.com](https://petapixel.com/2025/04/10/adobe-deletes-bluesky-posts-after-furious-backlash/): Adobe deletes Bluesky posts after backlash</small>
 
 
-| 🔥🔥: 229 \| 💬: [325](https://news.ycombinator.com/item?id=43653885) \| 🗓️ 2025-04-11
+| 🔥🔥: 240 \| 💬: [347](https://news.ycombinator.com/item?id=43653885) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -99,7 +99,7 @@ Adobe在Twitter替代平台Bluesky的首次尝试引发强烈反弹。用户因�
 <small>🔗 [stevana.github.io](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html): Erlang's not about lightweight processes and message passing (2023)</small>
 
 
-| 🔥🔥: 215 \| 💬: [115](https://news.ycombinator.com/item?id=43655221) \| 🗓️ 2025-04-11
+| 🔥🔥: 219 \| 💬: [123](https://news.ycombinator.com/item?id=43655221) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -111,7 +111,7 @@ Erlang常被误解为以**轻量进程**和**消息传递**为核心，但其真
 <small>🔗 [wired.com](https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/): Social Security Administration Moving Public Communications to X</small>
 
 
-| 🔥🔥: 200 \| 💬: [161](https://news.ycombinator.com/item?id=43657079) \| 🗓️ 2025-04-11
+| 🔥🔥: 200 \| 💬: [162](https://news.ycombinator.com/item?id=43657079) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -123,7 +123,7 @@ Erlang常被误解为以**轻量进程**和**消息传递**为核心，但其真
 <small>🔗 [chrismalek.me](https://chrismalek.me/posts/data-star-first-impressions/): Datastar: Web Framework for the Future?</small>
 
 
-| 🔥🔥: 178 \| 💬: [91](https://news.ycombinator.com/item?id=43655914) \| 🗓️ 2025-04-11
+| 🔥🔥: 182 \| 💬: [96](https://news.ycombinator.com/item?id=43655914) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -131,35 +131,11 @@ Datastar是一款新兴的**超媒体框架**，专注于简化实时网页应�
 
 ---
 
-## <a name="10"></a>10. 欧洲：如今真正的自由之地 
-<small>🔗 [economist.com](https://www.economist.com/europe/2025/04/10/the-thing-about-europe-its-the-actual-land-of-the-free-now): The thing about Europe: it's the actual land of the free now</small>
-
-
-| 🔥🔥: 152 \| 💬: [248](https://news.ycombinator.com/item?id=43651489) \| 🗓️ 2025-04-11
-
-
-<br />
-尽管欧洲常被嘲讽**过度监管**、缺乏像亚马逊或特斯拉这样的万亿级企业，但同时也避免了**科技寡头**对政治的操控。欧洲没有富豪将巨额资金注入竞选，也没有高管在社交媒体炫耀“粉碎国家机器”。相比之下，欧洲的**现实问题**反而显得不那么严峻，成为一片更纯粹的自由之地。
-
----
-
-## <a name="11"></a>11. 铅对大脑的危害从未消失 
-<small>🔗 [neurofrontiers.blog](https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/): Lead is still bad for your brain</small>
-
-
-| 🔥🔥: 133 \| 💬: [124](https://news.ycombinator.com/item?id=43651532) \| 🗓️ 2025-04-11
-
-
-<br />
-尽管铅已从汽油、油漆等产品中逐步淘汰，但其**持久性污染**仍威胁健康。铅是**不可降解的重金属**，会长期存在于环境与人体中，尤其对儿童危害更大——通过肠道或肺部吸收后，铅会沉积在骨骼和大脑，导致**认知缺陷、行为问题及智商下降**。研究证实，**任何剂量的铅暴露都不安全**，其毒性机制包括破坏细胞膜流动性、干扰钙信号和产生自由基。预防措施包括更换含铅建材、参与社区清理行动，而早期干预可部分逆转儿童铅中毒的影响。
-
----
-
-## <a name="12"></a>12. 你可能不需要WebSocket 
+## <a name="10"></a>10. 你可能不需要WebSocket 
 <small>🔗 [hntrl.io](https://hntrl.io/posts/you-dont-need-websockets/): You might not need WebSockets</small>
 
 
-| 🔥🔥: 129 \| 💬: [95](https://news.ycombinator.com/item?id=43659370) \| 🗓️ 2025-04-11
+| 🔥🔥: 159 \| 💬: [122](https://news.ycombinator.com/item?id=43659370) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -171,11 +147,35 @@ WebSocket虽能实现**双向实时通信**，但存在三大问题：**消息�
 
 ---
 
+## <a name="11"></a>11. 欧洲：如今真正的自由之地 
+<small>🔗 [economist.com](https://www.economist.com/europe/2025/04/10/the-thing-about-europe-its-the-actual-land-of-the-free-now): The thing about Europe: it's the actual land of the free now</small>
+
+
+| 🔥🔥: 152 \| 💬: [248](https://news.ycombinator.com/item?id=43651489) \| 🗓️ 2025-04-11
+
+
+<br />
+尽管欧洲常被嘲讽**过度监管**、缺乏像亚马逊或特斯拉这样的万亿级企业，但同时也避免了**科技寡头**对政治的操控。欧洲没有富豪将巨额资金注入竞选，也没有高管在社交媒体炫耀“粉碎国家机器”。相比之下，欧洲的**现实问题**反而显得不那么严峻，成为一片更纯粹的自由之地。
+
+---
+
+## <a name="12"></a>12. 铅对大脑的危害从未消失 
+<small>🔗 [neurofrontiers.blog](https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/): Lead is still bad for your brain</small>
+
+
+| 🔥🔥: 140 \| 💬: [126](https://news.ycombinator.com/item?id=43651532) \| 🗓️ 2025-04-11
+
+
+<br />
+尽管铅已从汽油、油漆等产品中逐步淘汰，但其**持久性污染**仍威胁健康。铅是**不可降解的重金属**，会长期存在于环境与人体中，尤其对儿童危害更大——通过肠道或肺部吸收后，铅会沉积在骨骼和大脑，导致**认知缺陷、行为问题及智商下降**。研究证实，**任何剂量的铅暴露都不安全**，其毒性机制包括破坏细胞膜流动性、干扰钙信号和产生自由基。预防措施包括更换含铅建材、参与社区清理行动，而早期干预可部分逆转儿童铅中毒的影响。
+
+---
+
 ## <a name="13"></a>13. PS3：一颗被舔过的多核糖果 
 <small>🔗 [darkcephas.github.io](https://darkcephas.github.io/ps3_failed/ps3_failed.html): The PS3 Licked the Many Cookie</small>
 
 
-| 🔥🔥: 122 \| 💬: [102](https://news.ycombinator.com/item?id=43656279) \| 🗓️ 2025-04-11
+| 🔥🔥: 124 \| 💬: [103](https://news.ycombinator.com/item?id=43656279) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -183,7 +183,19 @@ WebSocket虽能实现**双向实时通信**，但存在三大问题：**消息�
 
 ---
 
-## <a name="14"></a>14. 如何制作长弓 
+## <a name="14"></a>14. Rust CUDA 项目：用 Rust 编写高性能 GPU 代码的生态 
+<small>🔗 [github.com](https://github.com/Rust-GPU/Rust-CUDA): Rust CUDA Project</small>
+
+
+| 🔥🔥: 122 \| 💬: [38](https://news.ycombinator.com/item?id=43654881) \| 🗓️ 2025-04-11
+
+
+<br />
+该项目旨在构建一个完整的工具链和库生态系统，使 **Rust** 成为 **CUDA** 高性能 GPU 计算的一流语言。核心功能包括通过 `rustc_codegen_nvvm` 将 Rust 代码编译为优化的 PTX 指令，并提供 `cuda_std`、`cust` 等库支持 GPU/CPU 端开发。项目仍处早期阶段，但计划覆盖 CUDA 全生态（如深度学习库 `cudnn`、光线追踪 `optix`）。相比传统 LLVM PTX 方案，它更稳定且专为 Rust 设计，强调 **安全性** 和 **高性能**。项目采用 Apache-2.0/MIT 双协议，欢迎贡献。
+
+---
+
+## <a name="15"></a>15. 如何制作长弓 
 <small>🔗 [howtomakealongbow.co.uk](https://www.howtomakealongbow.co.uk): How to Make a Longbow</small>
 
 
@@ -195,59 +207,11 @@ WebSocket虽能实现**双向实时通信**，但存在三大问题：**消息�
 
 ---
 
-## <a name="15"></a>15. Rust CUDA 项目：用 Rust 编写高性能 GPU 代码的生态 
-<small>🔗 [github.com](https://github.com/Rust-GPU/Rust-CUDA): Rust CUDA Project</small>
-
-
-| 🔥🔥: 117 \| 💬: [38](https://news.ycombinator.com/item?id=43654881) \| 🗓️ 2025-04-11
-
-
-<br />
-该项目旨在构建一个完整的工具链和库生态系统，使 **Rust** 成为 **CUDA** 高性能 GPU 计算的一流语言。核心功能包括通过 `rustc_codegen_nvvm` 将 Rust 代码编译为优化的 PTX 指令，并提供 `cuda_std`、`cust` 等库支持 GPU/CPU 端开发。项目仍处早期阶段，但计划覆盖 CUDA 全生态（如深度学习库 `cudnn`、光线追踪 `optix`）。相比传统 LLVM PTX 方案，它更稳定且专为 Rust 设计，强调 **安全性** 和 **高性能**。项目采用 Apache-2.0/MIT 双协议，欢迎贡献。
-
----
-
-## <a name="16"></a>16. 基于重心坐标的四边形双线性插值法 
-<small>🔗 [gpuopen.com](https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/): Bilinear interpolation on a quadrilateral using Barycentric coordinates</small>
-
-
-| 🔥🔥: 111 \| 💬: [28](https://news.ycombinator.com/item?id=43654912) \| 🗓️ 2025-04-11
-
-
-<br />
-最新发布的**AgilitySDK预览版1.716.0**新增了对**Microsoft® DirectX®**和视频编码功能的支持。此次更新重点引入了利用**重心坐标**在四边形上实现双线性插值的先进技术，为图形处理和视频编码提供了更高效的解决方案。该版本要求开发者熟悉相关API，并适用于需要高精度插值的应用场景。
-
----
-
-## <a name="17"></a>17. Windows 2000 Server被用户评为微软巅峰之作 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/04/11/windows_2000_best_microsoft/): Windows 2000 Server named peak Microsoft</small>
-
-
-| 🔥🔥: 107 \| 💬: [159](https://news.ycombinator.com/item?id=43653421) \| 🗓️ 2025-04-11
-
-
-<br />
-《The Register》读者调查显示，**Windows 2000 Server**被视为微软的黄金时代产品，其稳定性和功能性广受赞誉。此后，尽管XP和Win7获得部分认可，但Win8及后续版本因移动化界面等问题反响平平。微软收购诺基亚后的**Windows Phone策略失败**，以及近年强推AI的举措也引发争议。评论认为，微软50年历程中，早期服务器系统成就最令人怀念，而未来能否靠AI再创辉煌仍是未知数。
-
----
-
-## <a name="18"></a>18. 给好奇者的WebRTC指南 
-<small>🔗 [webrtcforthecurious.com](https://webrtcforthecurious.com): WebRTC for the Curious</small>
-
-
-| 🔥🔥: 104 \| 💬: [25](https://news.ycombinator.com/item?id=43654813) \| 🗓️ 2025-04-11
-
-
-<br />
-这是一本由WebRTC开发者编写的开源书籍，旨在分享**协议与API**的核心知识，而非特定软件。书中汇总了RFC文档和未公开的经验，采用**供应商中立**的视角，适合新手、进阶开发者及调试者。章节独立，可随时切入，解答“问题-方案-延伸学习”三层疑问。全书无追踪、无广告，采用**CC0许可**，允许自由使用。欢迎通过GitHub参与贡献！
-
----
-
-## <a name="19"></a>19. 江诗丹顿刷新世界纪录，推出最复杂腕表 
+## <a name="16"></a>16. 江诗丹顿刷新世界纪录，推出最复杂腕表 
 <small>🔗 [hodinkee.com](https://www.hodinkee.com/articles/introducing-vacheron-constantin-les-cabinotiers-solaria): Vacheron Constantin breaks the world record for most complicated wristwatch</small>
 
 
-| 🔥: 96 \| 💬: [85](https://news.ycombinator.com/item?id=43659365) \| 🗓️ 2025-04-11
+| 🔥🔥: 120 \| 💬: [101](https://news.ycombinator.com/item?id=43659365) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -255,23 +219,47 @@ WebSocket虽能实现**双向实时通信**，但存在三大问题：**消息�
 
 ---
 
-## <a name="20"></a>20. 卡内基梅隆大学中国留学生毕业前夕突遭签证撤销 
-<small>🔗 [cbsnews.com](https://www.cbsnews.com/pittsburgh/news/carnegie-mellon-student-visa-revoked-interview/): Carnegie Mellon student with one semester left learns his visa was revoked</small>
+## <a name="17"></a>17. Windows 2000 Server被用户评为微软巅峰之作 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/04/11/windows_2000_best_microsoft/): Windows 2000 Server named peak Microsoft</small>
 
 
-| 🔥: 79 \| 💬: [47](https://news.ycombinator.com/item?id=43653611) \| 🗓️ 2025-04-11
+| 🔥🔥: 112 \| 💬: [172](https://news.ycombinator.com/item?id=43653421) \| 🗓️ 2025-04-11
 
 
 <br />
-卡内基梅隆大学大四学生**Jayson Ma**在仅剩3周毕业时，突然接到通知称其**学生签证被无故撤销**，且未获解释。他2016年从中国赴美读高中，现攻读电气计算机工程学位，母亲在中国身患晚期癌症仍坚持让他完成学业。律师推测可能与2023年一项已撤销的DUI记录有关。宾州多所高校也出现类似案例，校方建议国际学生随身携带证件以应对突发核查。Ma表示已做好随时离境准备，但仍希望完成学业。
+《The Register》读者调查显示，**Windows 2000 Server**被视为微软的黄金时代产品，其稳定性和功能性广受赞誉。此后，尽管XP和Win7获得部分认可，但Win8及后续版本因移动化界面等问题反响平平。微软收购诺基亚后的**Windows Phone策略失败**，以及近年强推AI的举措也引发争议。评论认为，微软50年历程中，早期服务器系统成就最令人怀念，而未来能否靠AI再创辉煌仍是未知数。
 
 ---
 
-## <a name="21"></a>21. 现代6502处理器的创意项目集锦 
+## <a name="18"></a>18. 基于重心坐标的四边形双线性插值法 
+<small>🔗 [gpuopen.com](https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/): Bilinear interpolation on a quadrilateral using Barycentric coordinates</small>
+
+
+| 🔥🔥: 112 \| 💬: [28](https://news.ycombinator.com/item?id=43654912) \| 🗓️ 2025-04-11
+
+
+<br />
+最新发布的**AgilitySDK预览版1.716.0**新增了对**Microsoft® DirectX®**和视频编码功能的支持。此次更新重点引入了利用**重心坐标**在四边形上实现双线性插值的先进技术，为图形处理和视频编码提供了更高效的解决方案。该版本要求开发者熟悉相关API，并适用于需要高精度插值的应用场景。
+
+---
+
+## <a name="19"></a>19. 给好奇者的WebRTC指南 
+<small>🔗 [webrtcforthecurious.com](https://webrtcforthecurious.com): WebRTC for the Curious</small>
+
+
+| 🔥🔥: 107 \| 💬: [27](https://news.ycombinator.com/item?id=43654813) \| 🗓️ 2025-04-11
+
+
+<br />
+这是一本由WebRTC开发者编写的开源书籍，旨在分享**协议与API**的核心知识，而非特定软件。书中汇总了RFC文档和未公开的经验，采用**供应商中立**的视角，适合新手、进阶开发者及调试者。章节独立，可随时切入，解答“问题-方案-延伸学习”三层疑问。全书无追踪、无广告，采用**CC0许可**，允许自由使用。欢迎通过GitHub参与贡献！
+
+---
+
+## <a name="20"></a>20. 现代6502处理器的创意项目集锦 
 <small>🔗 [mikekohn.net](https://www.mikekohn.net/micro/modern_6502.php): Modern 6502</small>
 
 
-| 🔥: 79 \| 💬: [7](https://news.ycombinator.com/item?id=43656609) \| 🗓️ 2025-04-11
+| 🔥: 84 \| 💬: [7](https://news.ycombinator.com/item?id=43656609) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -279,11 +267,23 @@ WebSocket虽能实现**双向实时通信**，但存在三大问题：**消息�
 
 ---
 
+## <a name="21"></a>21. 卡内基梅隆大学中国留学生毕业前夕突遭签证撤销 
+<small>🔗 [cbsnews.com](https://www.cbsnews.com/pittsburgh/news/carnegie-mellon-student-visa-revoked-interview/): Carnegie Mellon student with one semester left learns his visa was revoked</small>
+
+
+| 🔥: 79 \| 💬: [48](https://news.ycombinator.com/item?id=43653611) \| 🗓️ 2025-04-11
+
+
+<br />
+卡内基梅隆大学大四学生**Jayson Ma**在仅剩3周毕业时，突然接到通知称其**学生签证被无故撤销**，且未获解释。他2016年从中国赴美读高中，现攻读电气计算机工程学位，母亲在中国身患晚期癌症仍坚持让他完成学业。律师推测可能与2023年一项已撤销的DUI记录有关。宾州多所高校也出现类似案例，校方建议国际学生随身携带证件以应对突发核查。Ma表示已做好随时离境准备，但仍希望完成学业。
+
+---
+
 ## <a name="22"></a>22. 全新AI建站工具：用对话轻松打造专业网站 
 <small>🔗 [wordpress.com](https://wordpress.com/blog/2025/04/09/ai-website-builder/): Our New AI Website Builder</small>
 
 
-| 🔥: 76 \| 💬: [61](https://news.ycombinator.com/item?id=43654279) \| 🗓️ 2025-04-11
+| 🔥: 77 \| 💬: [61](https://news.ycombinator.com/item?id=43654279) \| 🗓️ 2025-04-11
 
 
 <br />
