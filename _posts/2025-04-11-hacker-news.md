@@ -27,7 +27,7 @@ tags:
 <small>🔗 [rakhim.exotext.com](https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse): But what if I want a faster horse?</small>
 
 
-| 🔥🔥: 1170 \| 💬: [521](https://news.ycombinator.com/item?id=43652723) \| 🗓️ 2025-04-11
+| 🔥🔥: 1187 \| 💬: [526](https://news.ycombinator.com/item?id=43652723) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [dropsitenews.com](https://www.dropsitenews.com/p/leaked-data-israeli-censorship-meta): Leaked Meta data reveals campaign to remove pro-Palestine posts</small>
 
 
-| 🔥🔥: 593 \| 💬: [339](https://news.ycombinator.com/item?id=43655603) \| 🗓️ 2025-04-11
+| 🔥🔥: 642 \| 💬: [359](https://news.ycombinator.com/item?id=43655603) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [lwn.net](https://lwn.net/Articles/1014979/): Fedora change aims for 99% package reproducibility</small>
 
 
-| 🔥🔥: 297 \| 💬: [131](https://news.ycombinator.com/item?id=43653672) \| 🗓️ 2025-04-11
+| 🔥🔥: 303 \| 💬: [136](https://news.ycombinator.com/item?id=43653672) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -63,7 +63,7 @@ Fedora项目正推进一项变革，目标是在Fedora 43开发周期中实现**
 <small>🔗 [terriblesoftware.org](https://terriblesoftware.org/2025/03/31/your-strengths-are-your-weaknesses/): Strengths Are Your Weaknesses</small>
 
 
-| 🔥🔥: 271 \| 💬: [90](https://news.ycombinator.com/item?id=43652024) \| 🗓️ 2025-04-11
+| 🔥🔥: 276 \| 💬: [91](https://news.ycombinator.com/item?id=43652024) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -75,7 +75,7 @@ Fedora项目正推进一项变革，目标是在Fedora 43开发周期中实现**
 <small>🔗 [funcall.blogspot.com](http://funcall.blogspot.com/2025/04/why-i-program-in-lisp.html): Why I Program in Lisp</small>
 
 
-| 🔥🔥: 230 \| 💬: [203](https://news.ycombinator.com/item?id=43651576) \| 🗓️ 2025-04-11
+| 🔥🔥: 236 \| 💬: [209](https://news.ycombinator.com/item?id=43651576) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -87,7 +87,7 @@ Fedora项目正推进一项变革，目标是在Fedora 43开发周期中实现**
 <small>🔗 [wired.com](https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/): Social Security Administration Moving Public Communications to X</small>
 
 
-| 🔥🔥: 193 \| 💬: [155](https://news.ycombinator.com/item?id=43657079) \| 🗓️ 2025-04-11
+| 🔥🔥: 198 \| 💬: [156](https://news.ycombinator.com/item?id=43657079) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -99,7 +99,7 @@ Fedora项目正推进一项变革，目标是在Fedora 43开发周期中实现**
 <small>🔗 [stevana.github.io](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html): Erlang's not about lightweight processes and message passing (2023)</small>
 
 
-| 🔥🔥: 180 \| 💬: [92](https://news.ycombinator.com/item?id=43655221) \| 🗓️ 2025-04-11
+| 🔥🔥: 192 \| 💬: [98](https://news.ycombinator.com/item?id=43655221) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -111,7 +111,7 @@ Erlang常被误解为以**轻量进程**和**消息传递**为核心，但其真
 <small>🔗 [petapixel.com](https://petapixel.com/2025/04/10/adobe-deletes-bluesky-posts-after-furious-backlash/): Adobe deletes Bluesky posts after backlash</small>
 
 
-| 🔥🔥: 163 \| 💬: [245](https://news.ycombinator.com/item?id=43653885) \| 🗓️ 2025-04-11
+| 🔥🔥: 180 \| 💬: [268](https://news.ycombinator.com/item?id=43653885) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -123,7 +123,7 @@ Adobe在Twitter替代平台Bluesky的首次尝试引发强烈反弹。用户因�
 <small>🔗 [chrismalek.me](https://chrismalek.me/posts/data-star-first-impressions/): Datastar: Web Framework for the Future?</small>
 
 
-| 🔥🔥: 156 \| 💬: [76](https://news.ycombinator.com/item?id=43655914) \| 🗓️ 2025-04-11
+| 🔥🔥: 165 \| 💬: [79](https://news.ycombinator.com/item?id=43655914) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -159,7 +159,7 @@ Datastar是一款新兴的**超媒体框架**，专注于简化实时网页应�
 <small>🔗 [darkcephas.github.io](https://darkcephas.github.io/ps3_failed/ps3_failed.html): The PS3 Licked the Many Cookie</small>
 
 
-| 🔥🔥: 116 \| 💬: [100](https://news.ycombinator.com/item?id=43656279) \| 🗓️ 2025-04-11
+| 🔥🔥: 119 \| 💬: [101](https://news.ycombinator.com/item?id=43656279) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -167,23 +167,11 @@ Datastar是一款新兴的**超媒体框架**，专注于简化实时网页应�
 
 ---
 
-## <a name="13"></a>13. 基于重心坐标的四边形双线性插值法 
-<small>🔗 [gpuopen.com](https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/): Bilinear interpolation on a quadrilateral using Barycentric coordinates</small>
-
-
-| 🔥🔥: 107 \| 💬: [28](https://news.ycombinator.com/item?id=43654912) \| 🗓️ 2025-04-11
-
-
-<br />
-最新发布的**AgilitySDK预览版1.716.0**新增了对**Microsoft® DirectX®**和视频编码功能的支持。此次更新重点引入了利用**重心坐标**在四边形上实现双线性插值的先进技术，为图形处理和视频编码提供了更高效的解决方案。该版本要求开发者熟悉相关API，并适用于需要高精度插值的应用场景。
-
----
-
-## <a name="14"></a>14. 铅对大脑的危害从未消失 
+## <a name="13"></a>13. 铅对大脑的危害从未消失 
 <small>🔗 [neurofrontiers.blog](https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/): Lead is still bad for your brain</small>
 
 
-| 🔥🔥: 104 \| 💬: [103](https://news.ycombinator.com/item?id=43651532) \| 🗓️ 2025-04-11
+| 🔥🔥: 116 \| 💬: [112](https://news.ycombinator.com/item?id=43651532) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -191,11 +179,11 @@ Datastar是一款新兴的**超媒体框架**，专注于简化实时网页应�
 
 ---
 
-## <a name="15"></a>15. Rust CUDA 项目：用 Rust 编写高性能 GPU 代码的生态 
+## <a name="14"></a>14. Rust CUDA 项目：用 Rust 编写高性能 GPU 代码的生态 
 <small>🔗 [github.com](https://github.com/Rust-GPU/Rust-CUDA): Rust CUDA Project</small>
 
 
-| 🔥🔥: 102 \| 💬: [36](https://news.ycombinator.com/item?id=43654881) \| 🗓️ 2025-04-11
+| 🔥🔥: 109 \| 💬: [36](https://news.ycombinator.com/item?id=43654881) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -203,11 +191,23 @@ Datastar是一款新兴的**超媒体框架**，专注于简化实时网页应�
 
 ---
 
+## <a name="15"></a>15. 基于重心坐标的四边形双线性插值法 
+<small>🔗 [gpuopen.com](https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/): Bilinear interpolation on a quadrilateral using Barycentric coordinates</small>
+
+
+| 🔥🔥: 109 \| 💬: [28](https://news.ycombinator.com/item?id=43654912) \| 🗓️ 2025-04-11
+
+
+<br />
+最新发布的**AgilitySDK预览版1.716.0**新增了对**Microsoft® DirectX®**和视频编码功能的支持。此次更新重点引入了利用**重心坐标**在四边形上实现双线性插值的先进技术，为图形处理和视频编码提供了更高效的解决方案。该版本要求开发者熟悉相关API，并适用于需要高精度插值的应用场景。
+
+---
+
 ## <a name="16"></a>16. Windows 2000 Server被用户评为微软巅峰之作 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/11/windows_2000_best_microsoft/): Windows 2000 Server named peak Microsoft</small>
 
 
-| 🔥: 91 \| 💬: [124](https://news.ycombinator.com/item?id=43653421) \| 🗓️ 2025-04-11
+| 🔥: 96 \| 💬: [135](https://news.ycombinator.com/item?id=43653421) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -219,7 +219,7 @@ Datastar是一款新兴的**超媒体框架**，专注于简化实时网页应�
 <small>🔗 [webrtcforthecurious.com](https://webrtcforthecurious.com): WebRTC for the Curious</small>
 
 
-| 🔥: 86 \| 💬: [23](https://news.ycombinator.com/item?id=43654813) \| 🗓️ 2025-04-11
+| 🔥: 89 \| 💬: [25](https://news.ycombinator.com/item?id=43654813) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -231,7 +231,7 @@ Datastar是一款新兴的**超媒体框架**，专注于简化实时网页应�
 <small>🔗 [cbsnews.com](https://www.cbsnews.com/pittsburgh/news/carnegie-mellon-student-visa-revoked-interview/): Carnegie Mellon student with one semester left learns his visa was revoked</small>
 
 
-| 🔥: 78 \| 💬: [46](https://news.ycombinator.com/item?id=43653611) \| 🗓️ 2025-04-11
+| 🔥: 79 \| 💬: [44](https://news.ycombinator.com/item?id=43653611) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -257,7 +257,7 @@ WordPress.com推出**AI网站构建器**，只需输入想法，即可自动生�
 <small>🔗 [mikekohn.net](https://www.mikekohn.net/micro/modern_6502.php): Modern 6502</small>
 
 
-| 🔥: 65 \| 💬: [5](https://news.ycombinator.com/item?id=43656609) \| 🗓️ 2025-04-11
+| 🔥: 70 \| 💬: [6](https://news.ycombinator.com/item?id=43656609) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -269,7 +269,7 @@ WordPress.com推出**AI网站构建器**，只需输入想法，即可自动生�
 <small>🔗 [latintimes.com](https://www.latintimes.com/education-secretary-wants-a1-classrooms-early-kindergarten-she-means-ai-580380): Education Secretary Wants 'A1' in Classrooms</small>
 
 
-| 🔥: 59 \| 💬: [40](https://news.ycombinator.com/item?id=43657465) \| 🗓️ 2025-04-11
+| 🔥: 60 \| 💬: [40](https://news.ycombinator.com/item?id=43657465) \| 🗓️ 2025-04-11
 
 
 <br />
