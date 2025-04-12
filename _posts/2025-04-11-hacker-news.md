@@ -12,7 +12,7 @@ tags:
 1. Meta内部数据曝光：以色列大规模删除亲巴勒斯坦内容；
 1. Fedora计划实现99%软件包的可复现构建；
 1. 优势即劣势；
-1. 为什么我选择用Lisp编程；
+1. Adobe遭抵制后删除Bluesky所有帖文；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [rakhim.exotext.com](https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse): But what if I want a faster horse?</small>
 
 
-| 🔥🔥: 1234 \| 💬: [534](https://news.ycombinator.com/item?id=43652723) \| 🗓️ 2025-04-11
+| 🔥🔥: 1248 \| 💬: [539](https://news.ycombinator.com/item?id=43652723) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [dropsitenews.com](https://www.dropsitenews.com/p/leaked-data-israeli-censorship-meta): Leaked data reveals Israeli govt campaign to remove pro-Palestine posts on Meta</small>
 
 
-| 🔥🔥: 744 \| 💬: [425](https://news.ycombinator.com/item?id=43655603) \| 🗓️ 2025-04-11
+| 🔥🔥: 776 \| 💬: [450](https://news.ycombinator.com/item?id=43655603) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [lwn.net](https://lwn.net/Articles/1014979/): Fedora change aims for 99% package reproducibility</small>
 
 
-| 🔥🔥: 323 \| 💬: [154](https://news.ycombinator.com/item?id=43653672) \| 🗓️ 2025-04-11
+| 🔥🔥: 330 \| 💬: [162](https://news.ycombinator.com/item?id=43653672) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -63,7 +63,7 @@ Fedora项目正推进一项变革，目标是在Fedora 43开发周期中实现**
 <small>🔗 [terriblesoftware.org](https://terriblesoftware.org/2025/03/31/your-strengths-are-your-weaknesses/): Strengths Are Your Weaknesses</small>
 
 
-| 🔥🔥: 295 \| 💬: [96](https://news.ycombinator.com/item?id=43652024) \| 🗓️ 2025-04-11
+| 🔥🔥: 300 \| 💬: [96](https://news.ycombinator.com/item?id=43652024) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -71,23 +71,11 @@ Fedora项目正推进一项变革，目标是在Fedora 43开发周期中实现**
 
 ---
 
-## <a name="5"></a>5. 为什么我选择用Lisp编程 
-<small>🔗 [funcall.blogspot.com](http://funcall.blogspot.com/2025/04/why-i-program-in-lisp.html): Why I Program in Lisp</small>
-
-
-| 🔥🔥: 251 \| 💬: [220](https://news.ycombinator.com/item?id=43651576) \| 🗓️ 2025-04-11
-
-
-<br />
-尽管Lisp并非最流行的语言，且其他语言拥有更丰富的库和社区支持，作者仍坚持使用Lisp。**Lisp语法统一**（如剑桥波兰表示法），减少了记忆负担；**支持函数式编程**，便于抽象和重构；**动态类型**和**REPL环境**则加速了原型开发与问题探索。此外，Lisp的**调试安全性**和**多态性**（如`+`运算符的泛用性）使其成为高效的问题解决工具。作者认为，Lisp的核心价值在于它能将编程转化为一种“思维工具”，从而提升创造乐趣。
-
----
-
-## <a name="6"></a>6. Adobe遭抵制后删除Bluesky所有帖文 
+## <a name="5"></a>5. Adobe遭抵制后删除Bluesky所有帖文 
 <small>🔗 [petapixel.com](https://petapixel.com/2025/04/10/adobe-deletes-bluesky-posts-after-furious-backlash/): Adobe deletes Bluesky posts after backlash</small>
 
 
-| 🔥🔥: 240 \| 💬: [347](https://news.ycombinator.com/item?id=43653885) \| 🗓️ 2025-04-11
+| 🔥🔥: 264 \| 💬: [371](https://news.ycombinator.com/item?id=43653885) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -95,11 +83,23 @@ Adobe在Twitter替代平台Bluesky的首次尝试引发强烈反弹。用户因�
 
 ---
 
+## <a name="6"></a>6. 为什么我选择用Lisp编程 
+<small>🔗 [funcall.blogspot.com](http://funcall.blogspot.com/2025/04/why-i-program-in-lisp.html): Why I Program in Lisp</small>
+
+
+| 🔥🔥: 253 \| 💬: [222](https://news.ycombinator.com/item?id=43651576) \| 🗓️ 2025-04-11
+
+
+<br />
+尽管Lisp并非最流行的语言，且其他语言拥有更丰富的库和社区支持，作者仍坚持使用Lisp。**Lisp语法统一**（如剑桥波兰表示法），减少了记忆负担；**支持函数式编程**，便于抽象和重构；**动态类型**和**REPL环境**则加速了原型开发与问题探索。此外，Lisp的**调试安全性**和**多态性**（如`+`运算符的泛用性）使其成为高效的问题解决工具。作者认为，Lisp的核心价值在于它能将编程转化为一种“思维工具”，从而提升创造乐趣。
+
+---
+
 ## <a name="7"></a>7. Erlang的核心并非轻量进程，而是行为模式 
 <small>🔗 [stevana.github.io](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html): Erlang's not about lightweight processes and message passing (2023)</small>
 
 
-| 🔥🔥: 219 \| 💬: [123](https://news.ycombinator.com/item?id=43655221) \| 🗓️ 2025-04-11
+| 🔥🔥: 226 \| 💬: [127](https://news.ycombinator.com/item?id=43655221) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -111,7 +111,7 @@ Erlang常被误解为以**轻量进程**和**消息传递**为核心，但其真
 <small>🔗 [wired.com](https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/): Social Security Administration Moving Public Communications to X</small>
 
 
-| 🔥🔥: 200 \| 💬: [162](https://news.ycombinator.com/item?id=43657079) \| 🗓️ 2025-04-11
+| 🔥🔥: 202 \| 💬: [163](https://news.ycombinator.com/item?id=43657079) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -123,7 +123,7 @@ Erlang常被误解为以**轻量进程**和**消息传递**为核心，但其真
 <small>🔗 [chrismalek.me](https://chrismalek.me/posts/data-star-first-impressions/): Datastar: Web Framework for the Future?</small>
 
 
-| 🔥🔥: 182 \| 💬: [96](https://news.ycombinator.com/item?id=43655914) \| 🗓️ 2025-04-11
+| 🔥🔥: 188 \| 💬: [101](https://news.ycombinator.com/item?id=43655914) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -135,7 +135,7 @@ Datastar是一款新兴的**超媒体框架**，专注于简化实时网页应�
 <small>🔗 [hntrl.io](https://hntrl.io/posts/you-dont-need-websockets/): You might not need WebSockets</small>
 
 
-| 🔥🔥: 159 \| 💬: [122](https://news.ycombinator.com/item?id=43659370) \| 🗓️ 2025-04-11
+| 🔥🔥: 183 \| 💬: [130](https://news.ycombinator.com/item?id=43659370) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -163,7 +163,7 @@ WebSocket虽能实现**双向实时通信**，但存在三大问题：**消息�
 <small>🔗 [neurofrontiers.blog](https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/): Lead is still bad for your brain</small>
 
 
-| 🔥🔥: 140 \| 💬: [126](https://news.ycombinator.com/item?id=43651532) \| 🗓️ 2025-04-11
+| 🔥🔥: 147 \| 💬: [129](https://news.ycombinator.com/item?id=43651532) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -171,47 +171,11 @@ WebSocket虽能实现**双向实时通信**，但存在三大问题：**消息�
 
 ---
 
-## <a name="13"></a>13. PS3：一颗被舔过的多核糖果 
-<small>🔗 [darkcephas.github.io](https://darkcephas.github.io/ps3_failed/ps3_failed.html): The PS3 Licked the Many Cookie</small>
-
-
-| 🔥🔥: 124 \| 💬: [103](https://news.ycombinator.com/item?id=43656279) \| 🗓️ 2025-04-11
-
-
-<br />
-本文从开发者视角剖析PS3失败原因：其**异构计算架构**严重阻碍了开发效率。尽管Cell处理器SPE单元理论性能强大，但实际仅能调用5-6个核心，且**本地内存限制**（仅128KB可用）迫使代码必须深度定制。与Xbox360的统一架构相比，PS3的GPU算力分散（顶点/像素单元分离）、组件协同成本高昂，导致开发者需耗费大量精力优化基础功能。最终，这种**半成品多核设计**未能兑现性能承诺，反而成为行业教训。
-
----
-
-## <a name="14"></a>14. Rust CUDA 项目：用 Rust 编写高性能 GPU 代码的生态 
-<small>🔗 [github.com](https://github.com/Rust-GPU/Rust-CUDA): Rust CUDA Project</small>
-
-
-| 🔥🔥: 122 \| 💬: [38](https://news.ycombinator.com/item?id=43654881) \| 🗓️ 2025-04-11
-
-
-<br />
-该项目旨在构建一个完整的工具链和库生态系统，使 **Rust** 成为 **CUDA** 高性能 GPU 计算的一流语言。核心功能包括通过 `rustc_codegen_nvvm` 将 Rust 代码编译为优化的 PTX 指令，并提供 `cuda_std`、`cust` 等库支持 GPU/CPU 端开发。项目仍处早期阶段，但计划覆盖 CUDA 全生态（如深度学习库 `cudnn`、光线追踪 `optix`）。相比传统 LLVM PTX 方案，它更稳定且专为 Rust 设计，强调 **安全性** 和 **高性能**。项目采用 Apache-2.0/MIT 双协议，欢迎贡献。
-
----
-
-## <a name="15"></a>15. 如何制作长弓 
-<small>🔗 [howtomakealongbow.co.uk](https://www.howtomakealongbow.co.uk): How to Make a Longbow</small>
-
-
-| 🔥🔥: 121 \| 💬: [38](https://news.ycombinator.com/item?id=43652160) \| 🗓️ 2025-04-11
-
-
-<br />
-该网站持续更新扩展内容，欢迎用户反馈希望获取的信息。**长弓制作**需要耐心和技巧，建议定期回访以获取最新指南。**关键材料**包括优质木材和专用工具，**核心步骤**涉及木材成型、弓弦安装及张力测试。用户互动是优化内容的重要方式。
-
----
-
-## <a name="16"></a>16. 江诗丹顿刷新世界纪录，推出最复杂腕表 
+## <a name="13"></a>13. 江诗丹顿刷新世界纪录，推出最复杂腕表 
 <small>🔗 [hodinkee.com](https://www.hodinkee.com/articles/introducing-vacheron-constantin-les-cabinotiers-solaria): Vacheron Constantin breaks the world record for most complicated wristwatch</small>
 
 
-| 🔥🔥: 120 \| 💬: [101](https://news.ycombinator.com/item?id=43659365) \| 🗓️ 2025-04-11
+| 🔥🔥: 134 \| 💬: [113](https://news.ycombinator.com/item?id=43659365) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -219,11 +183,23 @@ WebSocket虽能实现**双向实时通信**，但存在三大问题：**消息�
 
 ---
 
-## <a name="17"></a>17. Windows 2000 Server被用户评为微软巅峰之作 
+## <a name="14"></a>14. PS3：一颗被舔过的多核糖果 
+<small>🔗 [darkcephas.github.io](https://darkcephas.github.io/ps3_failed/ps3_failed.html): The PS3 Licked the Many Cookie</small>
+
+
+| 🔥🔥: 126 \| 💬: [103](https://news.ycombinator.com/item?id=43656279) \| 🗓️ 2025-04-11
+
+
+<br />
+本文从开发者视角剖析PS3失败原因：其**异构计算架构**严重阻碍了开发效率。尽管Cell处理器SPE单元理论性能强大，但实际仅能调用5-6个核心，且**本地内存限制**（仅128KB可用）迫使代码必须深度定制。与Xbox360的统一架构相比，PS3的GPU算力分散（顶点/像素单元分离）、组件协同成本高昂，导致开发者需耗费大量精力优化基础功能。最终，这种**半成品多核设计**未能兑现性能承诺，反而成为行业教训。
+
+---
+
+## <a name="15"></a>15. Windows 2000 Server被用户评为微软巅峰之作 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/11/windows_2000_best_microsoft/): Windows 2000 Server named peak Microsoft</small>
 
 
-| 🔥🔥: 112 \| 💬: [172](https://news.ycombinator.com/item?id=43653421) \| 🗓️ 2025-04-11
+| 🔥🔥: 125 \| 💬: [181](https://news.ycombinator.com/item?id=43653421) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -231,7 +207,43 @@ WebSocket虽能实现**双向实时通信**，但存在三大问题：**消息�
 
 ---
 
-## <a name="18"></a>18. 基于重心坐标的四边形双线性插值法 
+## <a name="16"></a>16. Rust CUDA 项目：用 Rust 编写高性能 GPU 代码的生态 
+<small>🔗 [github.com](https://github.com/Rust-GPU/Rust-CUDA): Rust CUDA Project</small>
+
+
+| 🔥🔥: 125 \| 💬: [38](https://news.ycombinator.com/item?id=43654881) \| 🗓️ 2025-04-11
+
+
+<br />
+该项目旨在构建一个完整的工具链和库生态系统，使 **Rust** 成为 **CUDA** 高性能 GPU 计算的一流语言。核心功能包括通过 `rustc_codegen_nvvm` 将 Rust 代码编译为优化的 PTX 指令，并提供 `cuda_std`、`cust` 等库支持 GPU/CPU 端开发。项目仍处早期阶段，但计划覆盖 CUDA 全生态（如深度学习库 `cudnn`、光线追踪 `optix`）。相比传统 LLVM PTX 方案，它更稳定且专为 Rust 设计，强调 **安全性** 和 **高性能**。项目采用 Apache-2.0/MIT 双协议，欢迎贡献。
+
+---
+
+## <a name="17"></a>17. 如何制作长弓 
+<small>🔗 [howtomakealongbow.co.uk](https://www.howtomakealongbow.co.uk): How to Make a Longbow</small>
+
+
+| 🔥🔥: 124 \| 💬: [38](https://news.ycombinator.com/item?id=43652160) \| 🗓️ 2025-04-11
+
+
+<br />
+该网站持续更新扩展内容，欢迎用户反馈希望获取的信息。**长弓制作**需要耐心和技巧，建议定期回访以获取最新指南。**关键材料**包括优质木材和专用工具，**核心步骤**涉及木材成型、弓弦安装及张力测试。用户互动是优化内容的重要方式。
+
+---
+
+## <a name="18"></a>18. 给好奇者的WebRTC指南 
+<small>🔗 [webrtcforthecurious.com](https://webrtcforthecurious.com): WebRTC for the Curious</small>
+
+
+| 🔥🔥: 113 \| 💬: [28](https://news.ycombinator.com/item?id=43654813) \| 🗓️ 2025-04-11
+
+
+<br />
+这是一本由WebRTC开发者编写的开源书籍，旨在分享**协议与API**的核心知识，而非特定软件。书中汇总了RFC文档和未公开的经验，采用**供应商中立**的视角，适合新手、进阶开发者及调试者。章节独立，可随时切入，解答“问题-方案-延伸学习”三层疑问。全书无追踪、无广告，采用**CC0许可**，允许自由使用。欢迎通过GitHub参与贡献！
+
+---
+
+## <a name="19"></a>19. 基于重心坐标的四边形双线性插值法 
 <small>🔗 [gpuopen.com](https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/): Bilinear interpolation on a quadrilateral using Barycentric coordinates</small>
 
 
@@ -243,23 +255,11 @@ WebSocket虽能实现**双向实时通信**，但存在三大问题：**消息�
 
 ---
 
-## <a name="19"></a>19. 给好奇者的WebRTC指南 
-<small>🔗 [webrtcforthecurious.com](https://webrtcforthecurious.com): WebRTC for the Curious</small>
-
-
-| 🔥🔥: 107 \| 💬: [27](https://news.ycombinator.com/item?id=43654813) \| 🗓️ 2025-04-11
-
-
-<br />
-这是一本由WebRTC开发者编写的开源书籍，旨在分享**协议与API**的核心知识，而非特定软件。书中汇总了RFC文档和未公开的经验，采用**供应商中立**的视角，适合新手、进阶开发者及调试者。章节独立，可随时切入，解答“问题-方案-延伸学习”三层疑问。全书无追踪、无广告，采用**CC0许可**，允许自由使用。欢迎通过GitHub参与贡献！
-
----
-
 ## <a name="20"></a>20. 现代6502处理器的创意项目集锦 
 <small>🔗 [mikekohn.net](https://www.mikekohn.net/micro/modern_6502.php): Modern 6502</small>
 
 
-| 🔥: 84 \| 💬: [7](https://news.ycombinator.com/item?id=43656609) \| 🗓️ 2025-04-11
+| 🔥: 85 \| 💬: [7](https://news.ycombinator.com/item?id=43656609) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -283,7 +283,7 @@ WebSocket虽能实现**双向实时通信**，但存在三大问题：**消息�
 <small>🔗 [wordpress.com](https://wordpress.com/blog/2025/04/09/ai-website-builder/): Our New AI Website Builder</small>
 
 
-| 🔥: 77 \| 💬: [61](https://news.ycombinator.com/item?id=43654279) \| 🗓️ 2025-04-11
+| 🔥: 78 \| 💬: [62](https://news.ycombinator.com/item?id=43654279) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -297,7 +297,7 @@ WordPress.com推出**AI网站构建器**，只需输入想法，即可自动生�
 <small>🔗 [latintimes.com](https://www.latintimes.com/education-secretary-wants-a1-classrooms-early-kindergarten-she-means-ai-580380): Education Secretary Wants 'A1' in Classrooms</small>
 
 
-| 🔥: 61 \| 💬: [40](https://news.ycombinator.com/item?id=43657465) \| 🗓️ 2025-04-11
+| 🔥: 62 \| 💬: [40](https://news.ycombinator.com/item?id=43657465) \| 🗓️ 2025-04-11
 
 
 <br />
