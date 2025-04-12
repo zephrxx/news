@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共22条，具体内容您往下读...
+总共23条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [rakhim.exotext.com](https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse): But what if I want a faster horse?</small>
 
 
-| 🔥🔥: 1208 \| 💬: [531](https://news.ycombinator.com/item?id=43652723) \| 🗓️ 2025-04-11
+| 🔥🔥: 1224 \| 💬: [532](https://news.ycombinator.com/item?id=43652723) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [dropsitenews.com](https://www.dropsitenews.com/p/leaked-data-israeli-censorship-meta): Leaked data reveals Israeli govt campaign to remove pro-Palestine posts on Meta</small>
 
 
-| 🔥🔥: 671 \| 💬: [370](https://news.ycombinator.com/item?id=43655603) \| 🗓️ 2025-04-11
+| 🔥🔥: 704 \| 💬: [408](https://news.ycombinator.com/item?id=43655603) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [lwn.net](https://lwn.net/Articles/1014979/): Fedora change aims for 99% package reproducibility</small>
 
 
-| 🔥🔥: 311 \| 💬: [141](https://news.ycombinator.com/item?id=43653672) \| 🗓️ 2025-04-11
+| 🔥🔥: 315 \| 💬: [146](https://news.ycombinator.com/item?id=43653672) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -63,7 +63,7 @@ Fedora项目正推进一项变革，目标是在Fedora 43开发周期中实现**
 <small>🔗 [terriblesoftware.org](https://terriblesoftware.org/2025/03/31/your-strengths-are-your-weaknesses/): Strengths Are Your Weaknesses</small>
 
 
-| 🔥🔥: 281 \| 💬: [95](https://news.ycombinator.com/item?id=43652024) \| 🗓️ 2025-04-11
+| 🔥🔥: 288 \| 💬: [96](https://news.ycombinator.com/item?id=43652024) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -75,7 +75,7 @@ Fedora项目正推进一项变革，目标是在Fedora 43开发周期中实现**
 <small>🔗 [funcall.blogspot.com](http://funcall.blogspot.com/2025/04/why-i-program-in-lisp.html): Why I Program in Lisp</small>
 
 
-| 🔥🔥: 239 \| 💬: [212](https://news.ycombinator.com/item?id=43651576) \| 🗓️ 2025-04-11
+| 🔥🔥: 242 \| 💬: [215](https://news.ycombinator.com/item?id=43651576) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -87,7 +87,7 @@ Fedora项目正推进一项变革，目标是在Fedora 43开发周期中实现**
 <small>🔗 [petapixel.com](https://petapixel.com/2025/04/10/adobe-deletes-bluesky-posts-after-furious-backlash/): Adobe deletes Bluesky posts after backlash</small>
 
 
-| 🔥🔥: 206 \| 💬: [302](https://news.ycombinator.com/item?id=43653885) \| 🗓️ 2025-04-11
+| 🔥🔥: 229 \| 💬: [325](https://news.ycombinator.com/item?id=43653885) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -99,7 +99,7 @@ Adobe在Twitter替代平台Bluesky的首次尝试引发强烈反弹。用户因�
 <small>🔗 [stevana.github.io](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html): Erlang's not about lightweight processes and message passing (2023)</small>
 
 
-| 🔥🔥: 202 \| 💬: [108](https://news.ycombinator.com/item?id=43655221) \| 🗓️ 2025-04-11
+| 🔥🔥: 215 \| 💬: [115](https://news.ycombinator.com/item?id=43655221) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -111,7 +111,7 @@ Erlang常被误解为以**轻量进程**和**消息传递**为核心，但其真
 <small>🔗 [wired.com](https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/): Social Security Administration Moving Public Communications to X</small>
 
 
-| 🔥🔥: 200 \| 💬: [159](https://news.ycombinator.com/item?id=43657079) \| 🗓️ 2025-04-11
+| 🔥🔥: 200 \| 💬: [161](https://news.ycombinator.com/item?id=43657079) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -123,7 +123,7 @@ Erlang常被误解为以**轻量进程**和**消息传递**为核心，但其真
 <small>🔗 [chrismalek.me](https://chrismalek.me/posts/data-star-first-impressions/): Datastar: Web Framework for the Future?</small>
 
 
-| 🔥🔥: 170 \| 💬: [87](https://news.ycombinator.com/item?id=43655914) \| 🗓️ 2025-04-11
+| 🔥🔥: 178 \| 💬: [91](https://news.ycombinator.com/item?id=43655914) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -147,7 +147,7 @@ Datastar是一款新兴的**超媒体框架**，专注于简化实时网页应�
 <small>🔗 [neurofrontiers.blog](https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/): Lead is still bad for your brain</small>
 
 
-| 🔥🔥: 127 \| 💬: [118](https://news.ycombinator.com/item?id=43651532) \| 🗓️ 2025-04-11
+| 🔥🔥: 133 \| 💬: [124](https://news.ycombinator.com/item?id=43651532) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -155,59 +155,11 @@ Datastar是一款新兴的**超媒体框架**，专注于简化实时网页应�
 
 ---
 
-## <a name="12"></a>12. 如何制作长弓 
-<small>🔗 [howtomakealongbow.co.uk](https://www.howtomakealongbow.co.uk): How to Make a Longbow</small>
-
-
-| 🔥🔥: 121 \| 💬: [38](https://news.ycombinator.com/item?id=43652160) \| 🗓️ 2025-04-11
-
-
-<br />
-该网站持续更新扩展内容，欢迎用户反馈希望获取的信息。**长弓制作**需要耐心和技巧，建议定期回访以获取最新指南。**关键材料**包括优质木材和专用工具，**核心步骤**涉及木材成型、弓弦安装及张力测试。用户互动是优化内容的重要方式。
-
----
-
-## <a name="13"></a>13. PS3：一颗被舔过的多核糖果 
-<small>🔗 [darkcephas.github.io](https://darkcephas.github.io/ps3_failed/ps3_failed.html): The PS3 Licked the Many Cookie</small>
-
-
-| 🔥🔥: 121 \| 💬: [102](https://news.ycombinator.com/item?id=43656279) \| 🗓️ 2025-04-11
-
-
-<br />
-本文从开发者视角剖析PS3失败原因：其**异构计算架构**严重阻碍了开发效率。尽管Cell处理器SPE单元理论性能强大，但实际仅能调用5-6个核心，且**本地内存限制**（仅128KB可用）迫使代码必须深度定制。与Xbox360的统一架构相比，PS3的GPU算力分散（顶点/像素单元分离）、组件协同成本高昂，导致开发者需耗费大量精力优化基础功能。最终，这种**半成品多核设计**未能兑现性能承诺，反而成为行业教训。
-
----
-
-## <a name="14"></a>14. Rust CUDA 项目：用 Rust 编写高性能 GPU 代码的生态 
-<small>🔗 [github.com](https://github.com/Rust-GPU/Rust-CUDA): Rust CUDA Project</small>
-
-
-| 🔥🔥: 113 \| 💬: [37](https://news.ycombinator.com/item?id=43654881) \| 🗓️ 2025-04-11
-
-
-<br />
-该项目旨在构建一个完整的工具链和库生态系统，使 **Rust** 成为 **CUDA** 高性能 GPU 计算的一流语言。核心功能包括通过 `rustc_codegen_nvvm` 将 Rust 代码编译为优化的 PTX 指令，并提供 `cuda_std`、`cust` 等库支持 GPU/CPU 端开发。项目仍处早期阶段，但计划覆盖 CUDA 全生态（如深度学习库 `cudnn`、光线追踪 `optix`）。相比传统 LLVM PTX 方案，它更稳定且专为 Rust 设计，强调 **安全性** 和 **高性能**。项目采用 Apache-2.0/MIT 双协议，欢迎贡献。
-
----
-
-## <a name="15"></a>15. 基于重心坐标的四边形双线性插值法 
-<small>🔗 [gpuopen.com](https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/): Bilinear interpolation on a quadrilateral using Barycentric coordinates</small>
-
-
-| 🔥🔥: 111 \| 💬: [28](https://news.ycombinator.com/item?id=43654912) \| 🗓️ 2025-04-11
-
-
-<br />
-最新发布的**AgilitySDK预览版1.716.0**新增了对**Microsoft® DirectX®**和视频编码功能的支持。此次更新重点引入了利用**重心坐标**在四边形上实现双线性插值的先进技术，为图形处理和视频编码提供了更高效的解决方案。该版本要求开发者熟悉相关API，并适用于需要高精度插值的应用场景。
-
----
-
-## <a name="16"></a>16. 你可能不需要WebSocket 
+## <a name="12"></a>12. 你可能不需要WebSocket 
 <small>🔗 [hntrl.io](https://hntrl.io/posts/you-dont-need-websockets/): You might not need WebSockets</small>
 
 
-| 🔥🔥: 105 \| 💬: [78](https://news.ycombinator.com/item?id=43659370) \| 🗓️ 2025-04-11
+| 🔥🔥: 129 \| 💬: [95](https://news.ycombinator.com/item?id=43659370) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -219,11 +171,59 @@ WebSocket虽能实现**双向实时通信**，但存在三大问题：**消息�
 
 ---
 
+## <a name="13"></a>13. PS3：一颗被舔过的多核糖果 
+<small>🔗 [darkcephas.github.io](https://darkcephas.github.io/ps3_failed/ps3_failed.html): The PS3 Licked the Many Cookie</small>
+
+
+| 🔥🔥: 122 \| 💬: [102](https://news.ycombinator.com/item?id=43656279) \| 🗓️ 2025-04-11
+
+
+<br />
+本文从开发者视角剖析PS3失败原因：其**异构计算架构**严重阻碍了开发效率。尽管Cell处理器SPE单元理论性能强大，但实际仅能调用5-6个核心，且**本地内存限制**（仅128KB可用）迫使代码必须深度定制。与Xbox360的统一架构相比，PS3的GPU算力分散（顶点/像素单元分离）、组件协同成本高昂，导致开发者需耗费大量精力优化基础功能。最终，这种**半成品多核设计**未能兑现性能承诺，反而成为行业教训。
+
+---
+
+## <a name="14"></a>14. 如何制作长弓 
+<small>🔗 [howtomakealongbow.co.uk](https://www.howtomakealongbow.co.uk): How to Make a Longbow</small>
+
+
+| 🔥🔥: 121 \| 💬: [38](https://news.ycombinator.com/item?id=43652160) \| 🗓️ 2025-04-11
+
+
+<br />
+该网站持续更新扩展内容，欢迎用户反馈希望获取的信息。**长弓制作**需要耐心和技巧，建议定期回访以获取最新指南。**关键材料**包括优质木材和专用工具，**核心步骤**涉及木材成型、弓弦安装及张力测试。用户互动是优化内容的重要方式。
+
+---
+
+## <a name="15"></a>15. Rust CUDA 项目：用 Rust 编写高性能 GPU 代码的生态 
+<small>🔗 [github.com](https://github.com/Rust-GPU/Rust-CUDA): Rust CUDA Project</small>
+
+
+| 🔥🔥: 117 \| 💬: [38](https://news.ycombinator.com/item?id=43654881) \| 🗓️ 2025-04-11
+
+
+<br />
+该项目旨在构建一个完整的工具链和库生态系统，使 **Rust** 成为 **CUDA** 高性能 GPU 计算的一流语言。核心功能包括通过 `rustc_codegen_nvvm` 将 Rust 代码编译为优化的 PTX 指令，并提供 `cuda_std`、`cust` 等库支持 GPU/CPU 端开发。项目仍处早期阶段，但计划覆盖 CUDA 全生态（如深度学习库 `cudnn`、光线追踪 `optix`）。相比传统 LLVM PTX 方案，它更稳定且专为 Rust 设计，强调 **安全性** 和 **高性能**。项目采用 Apache-2.0/MIT 双协议，欢迎贡献。
+
+---
+
+## <a name="16"></a>16. 基于重心坐标的四边形双线性插值法 
+<small>🔗 [gpuopen.com](https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/): Bilinear interpolation on a quadrilateral using Barycentric coordinates</small>
+
+
+| 🔥🔥: 111 \| 💬: [28](https://news.ycombinator.com/item?id=43654912) \| 🗓️ 2025-04-11
+
+
+<br />
+最新发布的**AgilitySDK预览版1.716.0**新增了对**Microsoft® DirectX®**和视频编码功能的支持。此次更新重点引入了利用**重心坐标**在四边形上实现双线性插值的先进技术，为图形处理和视频编码提供了更高效的解决方案。该版本要求开发者熟悉相关API，并适用于需要高精度插值的应用场景。
+
+---
+
 ## <a name="17"></a>17. Windows 2000 Server被用户评为微软巅峰之作 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/11/windows_2000_best_microsoft/): Windows 2000 Server named peak Microsoft</small>
 
 
-| 🔥🔥: 102 \| 💬: [150](https://news.ycombinator.com/item?id=43653421) \| 🗓️ 2025-04-11
+| 🔥🔥: 107 \| 💬: [159](https://news.ycombinator.com/item?id=43653421) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -235,7 +235,7 @@ WebSocket虽能实现**双向实时通信**，但存在三大问题：**消息�
 <small>🔗 [webrtcforthecurious.com](https://webrtcforthecurious.com): WebRTC for the Curious</small>
 
 
-| 🔥: 100 \| 💬: [25](https://news.ycombinator.com/item?id=43654813) \| 🗓️ 2025-04-11
+| 🔥🔥: 104 \| 💬: [25](https://news.ycombinator.com/item?id=43654813) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -243,11 +243,23 @@ WebSocket虽能实现**双向实时通信**，但存在三大问题：**消息�
 
 ---
 
-## <a name="19"></a>19. 卡内基梅隆大学中国留学生毕业前夕突遭签证撤销 
+## <a name="19"></a>19. 江诗丹顿刷新世界纪录，推出最复杂腕表 
+<small>🔗 [hodinkee.com](https://www.hodinkee.com/articles/introducing-vacheron-constantin-les-cabinotiers-solaria): Vacheron Constantin breaks the world record for most complicated wristwatch</small>
+
+
+| 🔥: 96 \| 💬: [85](https://news.ycombinator.com/item?id=43659365) \| 🗓️ 2025-04-11
+
+
+<br />
+江诗丹顿**Les Cabinotiers**部门打造的**"Solaria Ultra Grand Complication"**腕表以**41项复杂功能**和**13项专利发明**打破世界纪录，成为史上最复杂的腕表。这款腕表融合了天文、计时、报时等多项功能，包括**西敏寺钟声三问**、**双秒追针计时**和**天体显示**，同时保持了45毫米表径的佩戴舒适性。机芯由一位制表师耗时八年完成，展现了品牌在微型机械领域的巅峰技艺。
+
+---
+
+## <a name="20"></a>20. 卡内基梅隆大学中国留学生毕业前夕突遭签证撤销 
 <small>🔗 [cbsnews.com](https://www.cbsnews.com/pittsburgh/news/carnegie-mellon-student-visa-revoked-interview/): Carnegie Mellon student with one semester left learns his visa was revoked</small>
 
 
-| 🔥: 79 \| 💬: [45](https://news.ycombinator.com/item?id=43653611) \| 🗓️ 2025-04-11
+| 🔥: 79 \| 💬: [47](https://news.ycombinator.com/item?id=43653611) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -255,11 +267,11 @@ WebSocket虽能实现**双向实时通信**，但存在三大问题：**消息�
 
 ---
 
-## <a name="20"></a>20. 现代6502处理器的创意项目集锦 
+## <a name="21"></a>21. 现代6502处理器的创意项目集锦 
 <small>🔗 [mikekohn.net](https://www.mikekohn.net/micro/modern_6502.php): Modern 6502</small>
 
 
-| 🔥: 77 \| 💬: [7](https://news.ycombinator.com/item?id=43656609) \| 🗓️ 2025-04-11
+| 🔥: 79 \| 💬: [7](https://news.ycombinator.com/item?id=43656609) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -267,11 +279,11 @@ WebSocket虽能实现**双向实时通信**，但存在三大问题：**消息�
 
 ---
 
-## <a name="21"></a>21. 全新AI建站工具：用对话轻松打造专业网站 
+## <a name="22"></a>22. 全新AI建站工具：用对话轻松打造专业网站 
 <small>🔗 [wordpress.com](https://wordpress.com/blog/2025/04/09/ai-website-builder/): Our New AI Website Builder</small>
 
 
-| 🔥: 73 \| 💬: [61](https://news.ycombinator.com/item?id=43654279) \| 🗓️ 2025-04-11
+| 🔥: 76 \| 💬: [61](https://news.ycombinator.com/item?id=43654279) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -281,11 +293,11 @@ WordPress.com推出**AI网站构建器**，只需输入想法，即可自动生�
 
 ---
 
-## <a name="22"></a>22. 美教育部长误将AI称为"A1"引热议 
+## <a name="23"></a>23. 美教育部长误将AI称为"A1"引热议 
 <small>🔗 [latintimes.com](https://www.latintimes.com/education-secretary-wants-a1-classrooms-early-kindergarten-she-means-ai-580380): Education Secretary Wants 'A1' in Classrooms</small>
 
 
-| 🔥: 60 \| 💬: [40](https://news.ycombinator.com/item?id=43657465) \| 🗓️ 2025-04-11
+| 🔥: 61 \| 💬: [40](https://news.ycombinator.com/item?id=43657465) \| 🗓️ 2025-04-11
 
 
 <br />
