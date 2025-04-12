@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共21条，具体内容您往下读...
+总共22条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [rakhim.exotext.com](https://rakhim.exotext.com/but-what-if-i-really-want-a-faster-horse): But what if I want a faster horse?</small>
 
 
-| 🔥🔥: 1187 \| 💬: [526](https://news.ycombinator.com/item?id=43652723) \| 🗓️ 2025-04-11
+| 🔥🔥: 1208 \| 💬: [531](https://news.ycombinator.com/item?id=43652723) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -36,10 +36,10 @@ tags:
 ---
 
 ## <a name="2"></a>2. Meta内部数据曝光：以色列大规模删除亲巴勒斯坦内容 
-<small>🔗 [dropsitenews.com](https://www.dropsitenews.com/p/leaked-data-israeli-censorship-meta): Leaked Meta data reveals campaign to remove pro-Palestine posts</small>
+<small>🔗 [dropsitenews.com](https://www.dropsitenews.com/p/leaked-data-israeli-censorship-meta): Leaked data reveals Israeli govt campaign to remove pro-Palestine posts on Meta</small>
 
 
-| 🔥🔥: 642 \| 💬: [359](https://news.ycombinator.com/item?id=43655603) \| 🗓️ 2025-04-11
+| 🔥🔥: 671 \| 💬: [370](https://news.ycombinator.com/item?id=43655603) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [lwn.net](https://lwn.net/Articles/1014979/): Fedora change aims for 99% package reproducibility</small>
 
 
-| 🔥🔥: 303 \| 💬: [136](https://news.ycombinator.com/item?id=43653672) \| 🗓️ 2025-04-11
+| 🔥🔥: 311 \| 💬: [141](https://news.ycombinator.com/item?id=43653672) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -63,7 +63,7 @@ Fedora项目正推进一项变革，目标是在Fedora 43开发周期中实现**
 <small>🔗 [terriblesoftware.org](https://terriblesoftware.org/2025/03/31/your-strengths-are-your-weaknesses/): Strengths Are Your Weaknesses</small>
 
 
-| 🔥🔥: 276 \| 💬: [91](https://news.ycombinator.com/item?id=43652024) \| 🗓️ 2025-04-11
+| 🔥🔥: 281 \| 💬: [95](https://news.ycombinator.com/item?id=43652024) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -75,7 +75,7 @@ Fedora项目正推进一项变革，目标是在Fedora 43开发周期中实现**
 <small>🔗 [funcall.blogspot.com](http://funcall.blogspot.com/2025/04/why-i-program-in-lisp.html): Why I Program in Lisp</small>
 
 
-| 🔥🔥: 236 \| 💬: [209](https://news.ycombinator.com/item?id=43651576) \| 🗓️ 2025-04-11
+| 🔥🔥: 239 \| 💬: [212](https://news.ycombinator.com/item?id=43651576) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -83,35 +83,11 @@ Fedora项目正推进一项变革，目标是在Fedora 43开发周期中实现**
 
 ---
 
-## <a name="6"></a>6. 美国社保局将公共沟通全面转向X平台 
-<small>🔗 [wired.com](https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/): Social Security Administration Moving Public Communications to X</small>
-
-
-| 🔥🔥: 198 \| 💬: [156](https://news.ycombinator.com/item?id=43657079) \| 🗓️ 2025-04-11
-
-
-<br />
-美国社会保障局（SSA）宣布**停止通过新闻稿和“同事信”与媒体及公众沟通**，转而**仅通过X平台（原推特）发布信息**。此举引发内部担忧，因员工需特殊申请才能用政府电脑访问社交媒体，可能影响工作效率。此外，**老年人等群体或难以获取关键福利信息**。同时，SSA正大幅裁员，区域办公室员工将削减87%，恐削弱反欺诈能力。白宫回应称“资源重组是为优化服务”，但员工质疑此举将导致“信息断层”。
-
----
-
-## <a name="7"></a>7. Erlang的核心并非轻量进程，而是行为模式 
-<small>🔗 [stevana.github.io](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html): Erlang's not about lightweight processes and message passing (2023)</small>
-
-
-| 🔥🔥: 192 \| 💬: [98](https://news.ycombinator.com/item?id=43655221) \| 🗓️ 2025-04-11
-
-
-<br />
-Erlang常被误解为以**轻量进程**和**消息传递**为核心，但其真正价值在于**行为模式**（behaviours）。这些预定义的接口（如`gen_server`、`supervisor`）封装了并发与容错逻辑，开发者只需专注业务代码。例如，AXD301交换机系统通过122个`gen_server`实例和20个**监督树**构建，实现了九九个九的可靠性。行为模式将分布式系统的复杂性抽象为可复用的组件，其"快速失败+重启"哲学（**Let it crash**）大幅提升了系统稳定性。这一设计思想远超语言特性本身，成为构建高可用系统的范式。
-
----
-
-## <a name="8"></a>8. Adobe遭抵制后删除Bluesky所有帖文 
+## <a name="6"></a>6. Adobe遭抵制后删除Bluesky所有帖文 
 <small>🔗 [petapixel.com](https://petapixel.com/2025/04/10/adobe-deletes-bluesky-posts-after-furious-backlash/): Adobe deletes Bluesky posts after backlash</small>
 
 
-| 🔥🔥: 180 \| 💬: [268](https://news.ycombinator.com/item?id=43653885) \| 🗓️ 2025-04-11
+| 🔥🔥: 206 \| 💬: [302](https://news.ycombinator.com/item?id=43653885) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -119,11 +95,35 @@ Adobe在Twitter替代平台Bluesky的首次尝试引发强烈反弹。用户因�
 
 ---
 
+## <a name="7"></a>7. Erlang的核心并非轻量进程，而是行为模式 
+<small>🔗 [stevana.github.io](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html): Erlang's not about lightweight processes and message passing (2023)</small>
+
+
+| 🔥🔥: 202 \| 💬: [108](https://news.ycombinator.com/item?id=43655221) \| 🗓️ 2025-04-11
+
+
+<br />
+Erlang常被误解为以**轻量进程**和**消息传递**为核心，但其真正价值在于**行为模式**（behaviours）。这些预定义的接口（如`gen_server`、`supervisor`）封装了并发与容错逻辑，开发者只需专注业务代码。例如，AXD301交换机系统通过122个`gen_server`实例和20个**监督树**构建，实现了九九个九的可靠性。行为模式将分布式系统的复杂性抽象为可复用的组件，其"快速失败+重启"哲学（**Let it crash**）大幅提升了系统稳定性。这一设计思想远超语言特性本身，成为构建高可用系统的范式。
+
+---
+
+## <a name="8"></a>8. 美国社保局将公共沟通全面转向X平台 
+<small>🔗 [wired.com](https://www.wired.com/story/social-security-administration-regional-office-elon-musk-x/): Social Security Administration Moving Public Communications to X</small>
+
+
+| 🔥🔥: 200 \| 💬: [159](https://news.ycombinator.com/item?id=43657079) \| 🗓️ 2025-04-11
+
+
+<br />
+美国社会保障局（SSA）宣布**停止通过新闻稿和“同事信”与媒体及公众沟通**，转而**仅通过X平台（原推特）发布信息**。此举引发内部担忧，因员工需特殊申请才能用政府电脑访问社交媒体，可能影响工作效率。此外，**老年人等群体或难以获取关键福利信息**。同时，SSA正大幅裁员，区域办公室员工将削减87%，恐削弱反欺诈能力。白宫回应称“资源重组是为优化服务”，但员工质疑此举将导致“信息断层”。
+
+---
+
 ## <a name="9"></a>9. Datastar：未来网页开发框架的新选择？ 
 <small>🔗 [chrismalek.me](https://chrismalek.me/posts/data-star-first-impressions/): Datastar: Web Framework for the Future?</small>
 
 
-| 🔥🔥: 165 \| 💬: [79](https://news.ycombinator.com/item?id=43655914) \| 🗓️ 2025-04-11
+| 🔥🔥: 170 \| 💬: [87](https://news.ycombinator.com/item?id=43655914) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -143,7 +143,19 @@ Datastar是一款新兴的**超媒体框架**，专注于简化实时网页应�
 
 ---
 
-## <a name="11"></a>11. 如何制作长弓 
+## <a name="11"></a>11. 铅对大脑的危害从未消失 
+<small>🔗 [neurofrontiers.blog](https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/): Lead is still bad for your brain</small>
+
+
+| 🔥🔥: 127 \| 💬: [118](https://news.ycombinator.com/item?id=43651532) \| 🗓️ 2025-04-11
+
+
+<br />
+尽管铅已从汽油、油漆等产品中逐步淘汰，但其**持久性污染**仍威胁健康。铅是**不可降解的重金属**，会长期存在于环境与人体中，尤其对儿童危害更大——通过肠道或肺部吸收后，铅会沉积在骨骼和大脑，导致**认知缺陷、行为问题及智商下降**。研究证实，**任何剂量的铅暴露都不安全**，其毒性机制包括破坏细胞膜流动性、干扰钙信号和产生自由基。预防措施包括更换含铅建材、参与社区清理行动，而早期干预可部分逆转儿童铅中毒的影响。
+
+---
+
+## <a name="12"></a>12. 如何制作长弓 
 <small>🔗 [howtomakealongbow.co.uk](https://www.howtomakealongbow.co.uk): How to Make a Longbow</small>
 
 
@@ -155,11 +167,11 @@ Datastar是一款新兴的**超媒体框架**，专注于简化实时网页应�
 
 ---
 
-## <a name="12"></a>12. PS3：一颗被舔过的多核糖果 
+## <a name="13"></a>13. PS3：一颗被舔过的多核糖果 
 <small>🔗 [darkcephas.github.io](https://darkcephas.github.io/ps3_failed/ps3_failed.html): The PS3 Licked the Many Cookie</small>
 
 
-| 🔥🔥: 119 \| 💬: [101](https://news.ycombinator.com/item?id=43656279) \| 🗓️ 2025-04-11
+| 🔥🔥: 121 \| 💬: [102](https://news.ycombinator.com/item?id=43656279) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -167,23 +179,11 @@ Datastar是一款新兴的**超媒体框架**，专注于简化实时网页应�
 
 ---
 
-## <a name="13"></a>13. 铅对大脑的危害从未消失 
-<small>🔗 [neurofrontiers.blog](https://neurofrontiers.blog/why-lead-is-still-bad-for-your-brain/): Lead is still bad for your brain</small>
-
-
-| 🔥🔥: 116 \| 💬: [112](https://news.ycombinator.com/item?id=43651532) \| 🗓️ 2025-04-11
-
-
-<br />
-尽管铅已从汽油、油漆等产品中逐步淘汰，但其**持久性污染**仍威胁健康。铅是**不可降解的重金属**，会长期存在于环境与人体中，尤其对儿童危害更大——通过肠道或肺部吸收后，铅会沉积在骨骼和大脑，导致**认知缺陷、行为问题及智商下降**。研究证实，**任何剂量的铅暴露都不安全**，其毒性机制包括破坏细胞膜流动性、干扰钙信号和产生自由基。预防措施包括更换含铅建材、参与社区清理行动，而早期干预可部分逆转儿童铅中毒的影响。
-
----
-
 ## <a name="14"></a>14. Rust CUDA 项目：用 Rust 编写高性能 GPU 代码的生态 
 <small>🔗 [github.com](https://github.com/Rust-GPU/Rust-CUDA): Rust CUDA Project</small>
 
 
-| 🔥🔥: 109 \| 💬: [36](https://news.ycombinator.com/item?id=43654881) \| 🗓️ 2025-04-11
+| 🔥🔥: 113 \| 💬: [37](https://news.ycombinator.com/item?id=43654881) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -195,7 +195,7 @@ Datastar是一款新兴的**超媒体框架**，专注于简化实时网页应�
 <small>🔗 [gpuopen.com](https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/): Bilinear interpolation on a quadrilateral using Barycentric coordinates</small>
 
 
-| 🔥🔥: 109 \| 💬: [28](https://news.ycombinator.com/item?id=43654912) \| 🗓️ 2025-04-11
+| 🔥🔥: 111 \| 💬: [28](https://news.ycombinator.com/item?id=43654912) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -203,11 +203,27 @@ Datastar是一款新兴的**超媒体框架**，专注于简化实时网页应�
 
 ---
 
-## <a name="16"></a>16. Windows 2000 Server被用户评为微软巅峰之作 
+## <a name="16"></a>16. 你可能不需要WebSocket 
+<small>🔗 [hntrl.io](https://hntrl.io/posts/you-dont-need-websockets/): You might not need WebSockets</small>
+
+
+| 🔥🔥: 105 \| 💬: [78](https://news.ycombinator.com/item?id=43659370) \| 🗓️ 2025-04-11
+
+
+<br />
+WebSocket虽能实现**双向实时通信**，但存在三大问题：**消息无事务性**（错误难追踪）、**连接生命周期复杂**（需处理重连/错误）、**服务端实现繁琐**（握手升级协议）。  
+
+替代方案是**HTTP流式传输**：利用HTTP长连接推送数据，无需维护全双工通道。通过`ReadableStream`和异步迭代器，同样能实现实时更新，代码更简洁。  
+
+文末推荐了简化开发的库`eventkit`，适合轻量级实时应用场景。
+
+---
+
+## <a name="17"></a>17. Windows 2000 Server被用户评为微软巅峰之作 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/11/windows_2000_best_microsoft/): Windows 2000 Server named peak Microsoft</small>
 
 
-| 🔥: 96 \| 💬: [135](https://news.ycombinator.com/item?id=43653421) \| 🗓️ 2025-04-11
+| 🔥🔥: 102 \| 💬: [150](https://news.ycombinator.com/item?id=43653421) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -215,11 +231,11 @@ Datastar是一款新兴的**超媒体框架**，专注于简化实时网页应�
 
 ---
 
-## <a name="17"></a>17. 给好奇者的WebRTC指南 
+## <a name="18"></a>18. 给好奇者的WebRTC指南 
 <small>🔗 [webrtcforthecurious.com](https://webrtcforthecurious.com): WebRTC for the Curious</small>
 
 
-| 🔥: 89 \| 💬: [25](https://news.ycombinator.com/item?id=43654813) \| 🗓️ 2025-04-11
+| 🔥: 100 \| 💬: [25](https://news.ycombinator.com/item?id=43654813) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -227,11 +243,11 @@ Datastar是一款新兴的**超媒体框架**，专注于简化实时网页应�
 
 ---
 
-## <a name="18"></a>18. 卡内基梅隆大学中国留学生毕业前夕突遭签证撤销 
+## <a name="19"></a>19. 卡内基梅隆大学中国留学生毕业前夕突遭签证撤销 
 <small>🔗 [cbsnews.com](https://www.cbsnews.com/pittsburgh/news/carnegie-mellon-student-visa-revoked-interview/): Carnegie Mellon student with one semester left learns his visa was revoked</small>
 
 
-| 🔥: 79 \| 💬: [44](https://news.ycombinator.com/item?id=43653611) \| 🗓️ 2025-04-11
+| 🔥: 79 \| 💬: [45](https://news.ycombinator.com/item?id=43653611) \| 🗓️ 2025-04-11
 
 
 <br />
@@ -239,7 +255,19 @@ Datastar是一款新兴的**超媒体框架**，专注于简化实时网页应�
 
 ---
 
-## <a name="19"></a>19. 全新AI建站工具：用对话轻松打造专业网站 
+## <a name="20"></a>20. 现代6502处理器的创意项目集锦 
+<small>🔗 [mikekohn.net](https://www.mikekohn.net/micro/modern_6502.php): Modern 6502</small>
+
+
+| 🔥: 77 \| 💬: [7](https://news.ycombinator.com/item?id=43656609) \| 🗓️ 2025-04-11
+
+
+<br />
+作者分享了对**W65C02处理器**的热爱，并介绍了基于该芯片的**W65C265SXB开发板**的四个趣味项目：**LED闪烁**（汇编语言）、音乐播放（Java）、SPI DAC声音播放（汇编）以及脚踏板和弦发生器。开发板具备4个UART接口和内置音调生成器，支持6502/65C816双模式编程。文中还提及用该板读取磁带数据甚至煎饼上的巧克力图案等脑洞实验，展现了复古硬件的现代玩法。所有项目均开源，配套工具链包含naken_asm和Java Grinder。
+
+---
+
+## <a name="21"></a>21. 全新AI建站工具：用对话轻松打造专业网站 
 <small>🔗 [wordpress.com](https://wordpress.com/blog/2025/04/09/ai-website-builder/): Our New AI Website Builder</small>
 
 
@@ -253,19 +281,7 @@ WordPress.com推出**AI网站构建器**，只需输入想法，即可自动生�
 
 ---
 
-## <a name="20"></a>20. 现代6502处理器的创意项目集锦 
-<small>🔗 [mikekohn.net](https://www.mikekohn.net/micro/modern_6502.php): Modern 6502</small>
-
-
-| 🔥: 70 \| 💬: [6](https://news.ycombinator.com/item?id=43656609) \| 🗓️ 2025-04-11
-
-
-<br />
-作者分享了对**W65C02处理器**的热爱，并介绍了基于该芯片的**W65C265SXB开发板**的四个趣味项目：**LED闪烁**（汇编语言）、音乐播放（Java）、SPI DAC声音播放（汇编）以及脚踏板和弦发生器。开发板具备4个UART接口和内置音调生成器，支持6502/65C816双模式编程。文中还提及用该板读取磁带数据甚至煎饼上的巧克力图案等脑洞实验，展现了复古硬件的现代玩法。所有项目均开源，配套工具链包含naken_asm和Java Grinder。
-
----
-
-## <a name="21"></a>21. 美教育部长误将AI称为"A1"引热议 
+## <a name="22"></a>22. 美教育部长误将AI称为"A1"引热议 
 <small>🔗 [latintimes.com](https://www.latintimes.com/education-secretary-wants-a1-classrooms-early-kindergarten-she-means-ai-580380): Education Secretary Wants 'A1' in Classrooms</small>
 
 
