@@ -11,8 +11,8 @@ tags:
 1. 开源可自托管的隐私友好型文件转换工具；
 1. 巴黎告别汽车：空气污染地图揭示巨变；
 1. SVG创意动画与交互实现；
-1. Emacs Lisp 核心要素解析；
 1. 特朗普政府豁免手机、电脑等电子产品关税；
+1. Emacs Lisp 核心要素解析；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [vert.sh](https://vert.sh): Open source and self hostable/private file converter</small>
 
 
-| 🔥🔥: 453 \| 💬: [87](https://news.ycombinator.com/item?id=43663865) \| 🗓️ 2025-04-12
+| 🔥🔥: 461 \| 💬: [89](https://news.ycombinator.com/item?id=43663865) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/climate-solutions/2025/04/12/air-pollution-paris-health-cars/): Air pollution fell substantially as Paris restricted car traffic</small>
 
 
-| 🔥🔥: 450 \| 💬: [395](https://news.ycombinator.com/item?id=43665793) \| 🗓️ 2025-04-12
+| 🔥🔥: 454 \| 💬: [398](https://news.ycombinator.com/item?id=43665793) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -48,10 +48,10 @@ tags:
 ---
 
 ## <a name="3"></a>3. SVG创意动画与交互实现 
-<small>🔗 [fuma-nama.vercel.app](https://fuma-nama.vercel.app/blog/svg-art): Nice Things with SVG</small>
+<small>🔗 [fuma-nama.vercel.app](https://fuma-nama.vercel.app/blog/svg-art): Nice things with SVG</small>
 
 
-| 🔥🔥: 341 \| 💬: [58](https://news.ycombinator.com/item?id=43666439) \| 🗓️ 2025-04-12
+| 🔥🔥: 360 \| 💬: [59](https://news.ycombinator.com/item?id=43666439) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -59,23 +59,11 @@ tags:
 
 ---
 
-## <a name="4"></a>4. Emacs Lisp 核心要素解析 
-<small>🔗 [protesilaos.com](https://protesilaos.com/emacs/emacs-lisp-elements): Emacs Lisp Elements</small>
-
-
-| 🔥🔥: 210 \| 💬: [26](https://news.ycombinator.com/item?id=43665046) \| 🗓️ 2025-04-12
-
-
-<br />
-本书由 Prot（Protesilaos Stavrou）撰写，全面介绍 **Emacs Lisp** 编程语言，适用于从初学者到进阶用户。内容涵盖基础概念如 **缓冲区操作**、**函数副作用与返回值**，以及高级主题如宏和模式匹配。作者强调通过实践学习，鼓励读者在 Emacs 中实时测试代码，以深入理解编辑器扩展的灵活性。书中还提供了官方文档链接和代码仓库，方便进一步探索。
-
----
-
-## <a name="5"></a>5. 特朗普政府豁免手机、电脑等电子产品关税 
+## <a name="4"></a>4. 特朗普政府豁免手机、电脑等电子产品关税 
 <small>🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-04-12/trump-exempts-phones-computers-chips-from-reciprocal-tariffs): Trump exempts phones, computers, chips from 'reciprocal' tariffs</small>
 
 
-| 🔥🔥: 208 \| 💬: [483](https://news.ycombinator.com/item?id=43664121) \| 🗓️ 2025-04-12
+| 🔥🔥: 234 \| 💬: [506](https://news.ycombinator.com/item?id=43664121) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -83,11 +71,23 @@ tags:
 
 ---
 
+## <a name="5"></a>5. Emacs Lisp 核心要素解析 
+<small>🔗 [protesilaos.com](https://protesilaos.com/emacs/emacs-lisp-elements): Emacs Lisp Elements</small>
+
+
+| 🔥🔥: 220 \| 💬: [27](https://news.ycombinator.com/item?id=43665046) \| 🗓️ 2025-04-12
+
+
+<br />
+本书由 Prot（Protesilaos Stavrou）撰写，全面介绍 **Emacs Lisp** 编程语言，适用于从初学者到进阶用户。内容涵盖基础概念如 **缓冲区操作**、**函数副作用与返回值**，以及高级主题如宏和模式匹配。作者强调通过实践学习，鼓励读者在 Emacs 中实时测试代码，以深入理解编辑器扩展的灵活性。书中还提供了官方文档链接和代码仓库，方便进一步探索。
+
+---
+
 ## <a name="6"></a>6. AI编造虚假软件依赖包，引发供应链安全危机 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/12/ai_code_suggestions_sabotage_supply_chain/): AI can't stop making up software dependencies and sabotaging everything</small>
 
 
-| 🔥🔥: 174 \| 💬: [161](https://news.ycombinator.com/item?id=43663777) \| 🗓️ 2025-04-12
+| 🔥🔥: 177 \| 💬: [163](https://news.ycombinator.com/item?id=43663777) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -95,35 +95,11 @@ AI代码助手常**虚构不存在的软件包名**（5.2%-21.7%概率），黑�
 
 ---
 
-## <a name="7"></a>7. Tunarr：用本地媒体打造个性化电视频道 
-<small>🔗 [tunarr.com](https://tunarr.com/): Tunarr: Create and configure live TV channels from media on your servers</small>
-
-
-| 🔥🔥: 160 \| 💬: [39](https://news.ycombinator.com/item?id=43665201) \| 🗓️ 2025-04-12
-
-
-<br />
-Tunarr是一款能将**Plex/Jellyfin服务器**中的媒体内容转换为直播电视频道的工具。用户可通过其**网页界面**自定义频道、节目单和广告插播，并通过模拟的HDHomerun调谐器在Plex等平台观看，或生成M3U文件供第三方IPTV播放器使用。该项目基于dizqueTV重构，旨在**现代化技术栈**、提升稳定性及界面美观度，同时新增多项实用功能，适合影视爱好者打造专属电视体验。
-
----
-
-## <a name="8"></a>8. “慢付、少付或不付”：蓝十字批准手术却拒赔 
-<small>🔗 [propublica.org](https://www.propublica.org/article/blue-cross-blue-shield-louisiana-insurance-lawsuit-breast-cancer-doctors): "Slow Pay, Low Pay or No Pay": Blue Cross Approved Surgeries Then Refused to Pay</small>
-
-
-| 🔥🔥: 159 \| 💬: [196](https://news.ycombinator.com/item?id=43664660) \| 🗓️ 2025-04-12
-
-
-<br />
-美国路易斯安那州**蓝十字保险公司**在授权乳腺癌患者进行乳房切除及重建手术后，拒绝全额支付医院账单，甚至部分拒赔。涉事医院指控其存在系统性欺诈，陪审团裁定蓝十字赔偿**4.21亿美元**。调查发现，保险公司利用“预授权不保证赔付”条款推诿责任，同时高管却为亲属安排特殊赔付协议。此案揭露了医保体系中**权力失衡**问题——保险公司既是规则制定者又是仲裁者，而患者与医疗机构处于弱势。蓝十字已提起上诉。
-
----
-
-## <a name="9"></a>9. 阿努比斯防护系统的工作原理 
+## <a name="7"></a>7. 阿努比斯防护系统的工作原理 
 <small>🔗 [xeiaso.net](https://xeiaso.net/notes/2025/anubis-works/): Anubis Works</small>
 
 
-| 🔥🔥: 153 \| 💬: [80](https://news.ycombinator.com/item?id=43668433) \| 🗓️ 2025-04-12
+| 🔥🔥: 167 \| 💬: [96](https://news.ycombinator.com/item?id=43668433) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -131,11 +107,35 @@ Tunarr是一款能将**Plex/Jellyfin服务器**中的媒体内容转换为直播
 
 ---
 
+## <a name="8"></a>8. Tunarr：用本地媒体打造个性化电视频道 
+<small>🔗 [tunarr.com](https://tunarr.com/): Tunarr: Create and configure live TV channels from media on your servers</small>
+
+
+| 🔥🔥: 163 \| 💬: [42](https://news.ycombinator.com/item?id=43665201) \| 🗓️ 2025-04-12
+
+
+<br />
+Tunarr是一款能将**Plex/Jellyfin服务器**中的媒体内容转换为直播电视频道的工具。用户可通过其**网页界面**自定义频道、节目单和广告插播，并通过模拟的HDHomerun调谐器在Plex等平台观看，或生成M3U文件供第三方IPTV播放器使用。该项目基于dizqueTV重构，旨在**现代化技术栈**、提升稳定性及界面美观度，同时新增多项实用功能，适合影视爱好者打造专属电视体验。
+
+---
+
+## <a name="9"></a>9. “慢付、少付或不付”：蓝十字批准手术却拒赔 
+<small>🔗 [propublica.org](https://www.propublica.org/article/blue-cross-blue-shield-louisiana-insurance-lawsuit-breast-cancer-doctors): "Slow Pay, Low Pay or No Pay": Blue Cross Approved Surgeries Then Refused to Pay</small>
+
+
+| 🔥🔥: 159 \| 💬: [199](https://news.ycombinator.com/item?id=43664660) \| 🗓️ 2025-04-12
+
+
+<br />
+美国路易斯安那州**蓝十字保险公司**在授权乳腺癌患者进行乳房切除及重建手术后，拒绝全额支付医院账单，甚至部分拒赔。涉事医院指控其存在系统性欺诈，陪审团裁定蓝十字赔偿**4.21亿美元**。调查发现，保险公司利用“预授权不保证赔付”条款推诿责任，同时高管却为亲属安排特殊赔付协议。此案揭露了医保体系中**权力失衡**问题——保险公司既是规则制定者又是仲裁者，而患者与医疗机构处于弱势。蓝十字已提起上诉。
+
+---
+
 ## <a name="10"></a>10. Zod v4 测试版发布：更快、更小、更强大 
 <small>🔗 [v4.zod.dev](https://v4.zod.dev/v4): Zod v4 Beta</small>
 
 
-| 🔥🔥: 132 \| 💬: [28](https://news.ycombinator.com/item?id=43667925) \| 🗓️ 2025-04-12
+| 🔥🔥: 145 \| 💬: [32](https://news.ycombinator.com/item?id=43667925) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -147,7 +147,7 @@ Zod 4 测试版正式推出，经过一年多的开发，性能提升显著：**
 <small>🔗 [arktype.io](https://arktype.io/): ArkType: Ergonomic TS validator 100x faster than Zod</small>
 
 
-| 🔥🔥: 119 \| 💬: [48](https://news.ycombinator.com/item?id=43665540) \| 🗓️ 2025-04-12
+| 🔥🔥: 129 \| 💬: [50](https://news.ycombinator.com/item?id=43665540) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -155,7 +155,43 @@ ArkType是一款**高性能TypeScript验证器**，提供从编辑器到运行�
 
 ---
 
-## <a name="12"></a>12. Charts.css：纯CSS图表框架 
+## <a name="12"></a>12. Pixel 9a版GrapheneOS实验性发布 
+<small>🔗 [grapheneos.social](https://grapheneos.social/@GrapheneOS/114327666433966529): Experimental release of GrapheneOS for Pixel 9a</small>
+
+
+| 🔥🔥: 110 \| 💬: [48](https://news.ycombinator.com/item?id=43669185) \| 🗓️ 2025-04-12
+
+
+<br />
+为使用Mastodon网页应用，需**启用JavaScript**，或选择适合您平台的**原生应用**。此次发布针对Pixel 9a设备，标志着GrapheneOS这一注重**隐私安全**的安卓分支的进一步适配。实验性版本可能包含未完善功能，建议开发者或高级用户尝试。
+
+---
+
+## <a name="13"></a>13. IBM代码页437中的“小房子”从何而来？ 
+<small>🔗 [blog.glyphdrawing.club](https://blog.glyphdrawing.club/why-is-there-a-small-house-in-ibm-s-code-page-437/): Why is there a "small house" in IBM's Code page 437?</small>
+
+
+| 🔥🔥: 108 \| 💬: [32](https://news.ycombinator.com/item?id=43667010) \| 🗓️ 2025-04-12
+
+
+<br />
+IBM的**代码页437**（CP437）是1981年随IBM PC推出的字符集，其中控制字符`0x7F`（本应为删除符DEL）被设计成一个小房子（⌂）。这一奇特符号的起源尚无定论，但存在多种推测：可能是受**Blissymbolics**符号系统启发，或是误抄了Wang终端中的三角形符号。此外，也有人认为它象征**家用电脑**的普及，或与删除操作相关。尽管缺乏确凿证据，这个小房子因其独特的形状在早期文本游戏和ASCII艺术中被广泛复用，成为CP437的标志性符号之一。
+
+---
+
+## <a name="14"></a>14. BPS：鲜为人知的GPS替代方案 
+<small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard): BPS is a GPS alternative that nobody's heard of</small>
+
+
+| 🔥🔥: 103 \| 💬: [32](https://news.ycombinator.com/item?id=43669308) \| 🗓️ 2025-04-12
+
+
+<br />
+作者在NAB展会上发现了一项名为**BPS**的实验性定时技术，它通过电视信号（如ATSC 3.0）实现与GPS同步的**±10纳秒精度**。这项技术可能成为GPS的可靠地面备份，尤其适用于广播、电网和5G通信等关键领域。目前仅有少数电视台参与测试，但其潜力巨大，甚至可能用于航空导航备份。此外，文章还提到英特尔主板的**PPS同步功能**，展现了高精度定时的多样化应用。
+
+---
+
+## <a name="15"></a>15. Charts.css：纯CSS图表框架 
 <small>🔗 [chartscss.org](https://chartscss.org/): Charts.css</small>
 
 
@@ -167,43 +203,31 @@ Charts.css是一个**现代CSS框架**，通过**CSS工具类**将HTML元素快�
 
 ---
 
-## <a name="13"></a>13. IBM代码页437中的“小房子”从何而来？ 
-<small>🔗 [blog.glyphdrawing.club](https://blog.glyphdrawing.club/why-is-there-a-small-house-in-ibm-s-code-page-437/): Why is there a "small house" in IBM's Code page 437?</small>
+## <a name="16"></a>16. WebTUI：将终端界面美学带入浏览器的CSS库 
+<small>🔗 [webtui.ironclad.sh](https://webtui.ironclad.sh): WebTUI – A CSS Library That Brings the Beauty of Terminal UIs to the Browser</small>
 
 
-| 🔥: 96 \| 💬: [27](https://news.ycombinator.com/item?id=43667010) \| 🗓️ 2025-04-12
-
-
-<br />
-IBM的**代码页437**（CP437）是1981年随IBM PC推出的字符集，其中控制字符`0x7F`（本应为删除符DEL）被设计成一个小房子（⌂）。这一奇特符号的起源尚无定论，但存在多种推测：可能是受**Blissymbolics**符号系统启发，或是误抄了Wang终端中的三角形符号。此外，也有人认为它象征**家用电脑**的普及，或与删除操作相关。尽管缺乏确凿证据，这个小房子因其独特的形状在早期文本游戏和ASCII艺术中被广泛复用，成为CP437的标志性符号之一。
-
----
-
-## <a name="14"></a>14. Pixel 9a版GrapheneOS实验性发布 
-<small>🔗 [grapheneos.social](https://grapheneos.social/@GrapheneOS/114327666433966529): Experimental release of GrapheneOS for Pixel 9a</small>
-
-
-| 🔥: 87 \| 💬: [36](https://news.ycombinator.com/item?id=43669185) \| 🗓️ 2025-04-12
+| 🔥: 91 \| 💬: [9](https://news.ycombinator.com/item?id=43668250) \| 🗓️ 2025-04-12
 
 
 <br />
-为使用Mastodon网页应用，需**启用JavaScript**，或选择适合您平台的**原生应用**。此次发布针对Pixel 9a设备，标志着GrapheneOS这一注重**隐私安全**的安卓分支的进一步适配。实验性版本可能包含未完善功能，建议开发者或高级用户尝试。
+该CSS库通过**模块化设计**复现终端界面风格，提供**ASCII边框**、**等宽字体排版**等特色组件，支持主题插件（如Catppuccin/Nord配色方案）和**CSS变量自定义**。文档涵盖安装指南、组件使用（按钮/徽章/输入框）及插件开发规范，适用于快速构建具有TUI（文本用户界面）风格的网页应用。
 
 ---
 
-## <a name="15"></a>15. BPS：鲜为人知的GPS替代方案 
-<small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard): BPS is a GPS alternative that nobody's heard of</small>
+## <a name="17"></a>17. YAML的“挪威问题”：布尔值解析陷阱 
+<small>🔗 [bram.us](https://www.bram.us/2022/01/11/yaml-the-norway-problem/): YAML: The Norway Problem (2022)</small>
 
 
-| 🔥: 80 \| 💬: [22](https://news.ycombinator.com/item?id=43669308) \| 🗓️ 2025-04-12
+| 🔥: 81 \| 💬: [39](https://news.ycombinator.com/item?id=43668290) \| 🗓️ 2025-04-12
 
 
 <br />
-作者在NAB展会上发现了一项名为**BPS**的实验性定时技术，它通过电视信号（如ATSC 3.0）实现与GPS同步的**±10纳秒精度**。这项技术可能成为GPS的可靠地面备份，尤其适用于广播、电网和5G通信等关键领域。目前仅有少数电视台参与测试，但其潜力巨大，甚至可能用于航空导航备份。此外，文章还提到英特尔主板的**PPS同步功能**，展现了高精度定时的多样化应用。
+2022年，开发者Haroen Viaene指出YAML的**布尔值解析规则**存在严重缺陷：当数据中包含挪威的ISO代码`NO`时，YAML会错误地将其解析为`False`（如`countries: [GB, NO]`变为`['GB', False]`）。此问题源于YAML宽松的类型推断，类似问题还影响`.0`结尾的版本号和`Null`等字段。**解决方案**包括用双引号包裹值或使用**StrictYAML**等严格解析库。该问题凸显了YAML在数据精确性上的潜在风险。
 
 ---
 
-## <a name="16"></a>16. 苦涩的预言 
+## <a name="18"></a>18. 苦涩的预言 
 <small>🔗 [4zm.org](https://4zm.org/2025/04/05/bitter-prediction.html): The Bitter Prediction</small>
 
 
@@ -215,7 +239,7 @@ IBM的**代码页437**（CP437）是1981年随IBM PC推出的字符集，其中�
 
 ---
 
-## <a name="17"></a>17. Amiga双启动ROM替换模块KickSmash32简介 
+## <a name="19"></a>19. Amiga双启动ROM替换模块KickSmash32简介 
 <small>🔗 [github.com](https://github.com/cdhooper/kicksmash32): Dual Kickstart ROM Replacement for Amiga</small>
 
 
@@ -227,23 +251,11 @@ KickSmash32是一款针对**Amiga 3000/4000系列**（含1200、3000T等型号�
 
 ---
 
-## <a name="18"></a>18. YAML的“挪威问题”：布尔值解析陷阱 
-<small>🔗 [bram.us](https://www.bram.us/2022/01/11/yaml-the-norway-problem/): YAML: The Norway Problem (2022)</small>
+## <a name="20"></a>20. 新型小便池设计每天可减少26.5万加仑尿液飞溅 
+<small>🔗 [livescience.com](https://www.livescience.com/technology/engineering/new-urinal-designs-could-prevent-up-to-265-000-gallons-of-urine-from-spilling-onto-the-floor-each-day): New urinal designs</small>
 
 
-| 🔥: 73 \| 💬: [31](https://news.ycombinator.com/item?id=43668290) \| 🗓️ 2025-04-12
-
-
-<br />
-2022年，开发者Haroen Viaene指出YAML的**布尔值解析规则**存在严重缺陷：当数据中包含挪威的ISO代码`NO`时，YAML会错误地将其解析为`False`（如`countries: [GB, NO]`变为`['GB', False]`）。此问题源于YAML宽松的类型推断，类似问题还影响`.0`结尾的版本号和`Null`等字段。**解决方案**包括用双引号包裹值或使用**StrictYAML**等严格解析库。该问题凸显了YAML在数据精确性上的潜在风险。
-
----
-
-## <a name="19"></a>19. 新型小便池设计每天可减少26.5万加仑尿液飞溅 
-<small>🔗 [livescience.com](https://www.livescience.com/technology/engineering/new-urinal-designs-could-prevent-up-to-265-000-gallons-of-urine-from-spilling-onto-the-floor-each-day): New urinal designs prevent 265,000 gallons of urine splashing onto the floor</small>
-
-
-| 🔥: 72 \| 💬: [88](https://news.ycombinator.com/item?id=43668957) \| 🗓️ 2025-04-12
+| 🔥: 78 \| 💬: [91](https://news.ycombinator.com/item?id=43668957) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -251,23 +263,11 @@ KickSmash32是一款针对**Amiga 3000/4000系列**（含1200、3000T等型号�
 
 ---
 
-## <a name="20"></a>20. WebTUI：将终端界面美学带入浏览器的CSS库 
-<small>🔗 [webtui.ironclad.sh](https://webtui.ironclad.sh): WebTUI – A CSS Library That Brings the Beauty of Terminal UIs to the Browser</small>
-
-
-| 🔥: 71 \| 💬: [7](https://news.ycombinator.com/item?id=43668250) \| 🗓️ 2025-04-12
-
-
-<br />
-该CSS库通过**模块化设计**复现终端界面风格，提供**ASCII边框**、**等宽字体排版**等特色组件，支持主题插件（如Catppuccin/Nord配色方案）和**CSS变量自定义**。文档涵盖安装指南、组件使用（按钮/徽章/输入框）及插件开发规范，适用于快速构建具有TUI（文本用户界面）风格的网页应用。
-
----
-
 ## <a name="21"></a>21. Apache ECharts + Leaflet + shadcn 数据可视化方案 
 <small>🔗 [docs.evidence.dev](https://docs.evidence.dev/components/all-components/): Apache ECharts + Leaflet + shadcn for data viz</small>
 
 
-| 🔥: 57 \| 💬: [7](https://news.ycombinator.com/item?id=43664455) \| 🗓️ 2025-04-12
+| 🔥: 68 \| 💬: [7](https://news.ycombinator.com/item?id=43664455) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -279,7 +279,7 @@ KickSmash32是一款针对**Amiga 3000/4000系列**（含1200、3000T等型号�
 <small>🔗 [rust-gpu.github.io](https://rust-gpu.github.io/blog/2025/04/10/shadertoys/): Shadertoys Ported to Rust GPU</small>
 
 
-| 🔥: 54 \| 💬: [19](https://news.ycombinator.com/item?id=43667693) \| 🗓️ 2025-04-12
+| 🔥: 59 \| 💬: [21](https://news.ycombinator.com/item?id=43667693) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -291,7 +291,7 @@ KickSmash32是一款针对**Amiga 3000/4000系列**（含1200、3000T等型号�
 <small>🔗 [powermag.com](https://www.powermag.com/the-solid-state-shift-reinventing-the-transformer-for-modern-grids/): The Solid-State Shift: Reinventing the Transformer for Modern Grids</small>
 
 
-| 🔥: 52 \| 💬: [22](https://news.ycombinator.com/item?id=43666778) \| 🗓️ 2025-04-12
+| 🔥: 54 \| 💬: [22](https://news.ycombinator.com/item?id=43666778) \| 🗓️ 2025-04-12
 
 
 <br />
