@@ -27,7 +27,7 @@ tags:
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/climate-solutions/2025/04/12/air-pollution-paris-health-cars/): Air pollution fell substantially as Paris restricted car traffic</small>
 
 
-| 🔥🔥: 439 \| 💬: [385](https://news.ycombinator.com/item?id=43665793) \| 🗓️ 2025-04-12
+| 🔥🔥: 444 \| 💬: [391](https://news.ycombinator.com/item?id=43665793) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [vert.sh](https://vert.sh): Open source and self hostable/private file converter</small>
 
 
-| 🔥🔥: 433 \| 💬: [86](https://news.ycombinator.com/item?id=43663865) \| 🗓️ 2025-04-12
+| 🔥🔥: 442 \| 💬: [86](https://news.ycombinator.com/item?id=43663865) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [fuma-nama.vercel.app](https://fuma-nama.vercel.app/blog/svg-art): Nice Things with SVG</small>
 
 
-| 🔥🔥: 305 \| 💬: [47](https://news.ycombinator.com/item?id=43666439) \| 🗓️ 2025-04-12
+| 🔥🔥: 324 \| 💬: [48](https://news.ycombinator.com/item?id=43666439) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [protesilaos.com](https://protesilaos.com/emacs/emacs-lisp-elements): Emacs Lisp Elements</small>
 
 
-| 🔥🔥: 183 \| 💬: [22](https://news.ycombinator.com/item?id=43665046) \| 🗓️ 2025-04-12
+| 🔥🔥: 190 \| 💬: [24](https://news.ycombinator.com/item?id=43665046) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -83,23 +83,11 @@ AI代码助手常**虚构不存在的软件包名**（5.2%-21.7%概率），黑�
 
 ---
 
-## <a name="6"></a>6. “慢付、少付或不付”：蓝十字批准手术却拒赔 
-<small>🔗 [propublica.org](https://www.propublica.org/article/blue-cross-blue-shield-louisiana-insurance-lawsuit-breast-cancer-doctors): "Slow Pay, Low Pay or No Pay": Blue Cross Approved Surgeries Then Refused to Pay</small>
-
-
-| 🔥🔥: 158 \| 💬: [192](https://news.ycombinator.com/item?id=43664660) \| 🗓️ 2025-04-12
-
-
-<br />
-美国路易斯安那州**蓝十字保险公司**在授权乳腺癌患者进行乳房切除及重建手术后，拒绝全额支付医院账单，甚至部分拒赔。涉事医院指控其存在系统性欺诈，陪审团裁定蓝十字赔偿**4.21亿美元**。调查发现，保险公司利用“预授权不保证赔付”条款推诿责任，同时高管却为亲属安排特殊赔付协议。此案揭露了医保体系中**权力失衡**问题——保险公司既是规则制定者又是仲裁者，而患者与医疗机构处于弱势。蓝十字已提起上诉。
-
----
-
-## <a name="7"></a>7. 特朗普政府豁免手机、电脑等电子产品关税 
+## <a name="6"></a>6. 特朗普政府豁免手机、电脑等电子产品关税 
 <small>🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-04-12/trump-exempts-phones-computers-chips-from-reciprocal-tariffs): Trump exempts phones, computers, chips from 'reciprocal' tariffs</small>
 
 
-| 🔥🔥: 153 \| 💬: [423](https://news.ycombinator.com/item?id=43664121) \| 🗓️ 2025-04-12
+| 🔥🔥: 165 \| 💬: [438](https://news.ycombinator.com/item?id=43664121) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -107,11 +95,23 @@ AI代码助手常**虚构不存在的软件包名**（5.2%-21.7%概率），黑�
 
 ---
 
+## <a name="7"></a>7. “慢付、少付或不付”：蓝十字批准手术却拒赔 
+<small>🔗 [propublica.org](https://www.propublica.org/article/blue-cross-blue-shield-louisiana-insurance-lawsuit-breast-cancer-doctors): "Slow Pay, Low Pay or No Pay": Blue Cross Approved Surgeries Then Refused to Pay</small>
+
+
+| 🔥🔥: 158 \| 💬: [196](https://news.ycombinator.com/item?id=43664660) \| 🗓️ 2025-04-12
+
+
+<br />
+美国路易斯安那州**蓝十字保险公司**在授权乳腺癌患者进行乳房切除及重建手术后，拒绝全额支付医院账单，甚至部分拒赔。涉事医院指控其存在系统性欺诈，陪审团裁定蓝十字赔偿**4.21亿美元**。调查发现，保险公司利用“预授权不保证赔付”条款推诿责任，同时高管却为亲属安排特殊赔付协议。此案揭露了医保体系中**权力失衡**问题——保险公司既是规则制定者又是仲裁者，而患者与医疗机构处于弱势。蓝十字已提起上诉。
+
+---
+
 ## <a name="8"></a>8. Tunarr：用本地媒体打造个性化电视频道 
 <small>🔗 [tunarr.com](https://tunarr.com/): Tunarr: Create and configure live TV channels from media on your servers</small>
 
 
-| 🔥🔥: 151 \| 💬: [36](https://news.ycombinator.com/item?id=43665201) \| 🗓️ 2025-04-12
+| 🔥🔥: 155 \| 💬: [39](https://news.ycombinator.com/item?id=43665201) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -123,7 +123,7 @@ Tunarr是一款能将**Plex/Jellyfin服务器**中的媒体内容转换为直播
 <small>🔗 [v4.zod.dev](https://v4.zod.dev/v4): Zod v4 Beta</small>
 
 
-| 🔥🔥: 113 \| 💬: [23](https://news.ycombinator.com/item?id=43667925) \| 🗓️ 2025-04-12
+| 🔥🔥: 121 \| 💬: [24](https://news.ycombinator.com/item?id=43667925) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -135,7 +135,7 @@ Zod 4 测试版正式推出，经过一年多的开发，性能提升显著：**
 <small>🔗 [arktype.io](https://arktype.io/): ArkType: Ergonomic TS validator 100x faster than Zod</small>
 
 
-| 🔥🔥: 106 \| 💬: [36](https://news.ycombinator.com/item?id=43665540) \| 🗓️ 2025-04-12
+| 🔥🔥: 114 \| 💬: [38](https://news.ycombinator.com/item?id=43665540) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -143,11 +143,23 @@ ArkType是一款**高性能TypeScript验证器**，提供从编辑器到运行�
 
 ---
 
-## <a name="11"></a>11. Charts.css：纯CSS图表框架 
+## <a name="11"></a>11. 阿努比斯防护系统的工作原理 
+<small>🔗 [xeiaso.net](https://xeiaso.net/notes/2025/anubis-works/): Anubis Works</small>
+
+
+| 🔥🔥: 106 \| 💬: [44](https://news.ycombinator.com/item?id=43668433) \| 🗓️ 2025-04-12
+
+
+<br />
+该网站使用**阿努比斯防护系统**防止AI公司大规模爬取数据导致服务器瘫痪。其核心采用类似**Hashcash的工作量证明机制**，通过增加爬取成本遏制自动化工具。系统目前依赖JavaScript验证，未来计划开发无JS方案。**指纹识别技术**将用于区分合法用户与爬虫，减少对真实用户的干扰。
+
+---
+
+## <a name="12"></a>12. Charts.css：纯CSS图表框架 
 <small>🔗 [chartscss.org](https://chartscss.org/): Charts.css</small>
 
 
-| 🔥: 100 \| 💬: [22](https://news.ycombinator.com/item?id=43663880) \| 🗓️ 2025-04-12
+| 🔥: 100 \| 💬: [23](https://news.ycombinator.com/item?id=43663880) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -155,7 +167,7 @@ Charts.css是一个**现代CSS框架**，通过**CSS工具类**将HTML元素快�
 
 ---
 
-## <a name="12"></a>12. 苦涩的预言 
+## <a name="13"></a>13. 苦涩的预言 
 <small>🔗 [4zm.org](https://4zm.org/2025/04/05/bitter-prediction.html): The Bitter Prediction</small>
 
 
@@ -167,7 +179,7 @@ Charts.css是一个**现代CSS框架**，通过**CSS工具类**将HTML元素快�
 
 ---
 
-## <a name="13"></a>13. Amiga双启动ROM替换模块KickSmash32简介 
+## <a name="14"></a>14. Amiga双启动ROM替换模块KickSmash32简介 
 <small>🔗 [github.com](https://github.com/cdhooper/kicksmash32): Dual Kickstart ROM Replacement for Amiga</small>
 
 
@@ -179,23 +191,11 @@ KickSmash32是一款针对**Amiga 3000/4000系列**（含1200、3000T等型号�
 
 ---
 
-## <a name="14"></a>14. 阿努比斯防护系统的工作原理 
-<small>🔗 [xeiaso.net](https://xeiaso.net/notes/2025/anubis-works/): Anubis Works</small>
-
-
-| 🔥: 70 \| 💬: [32](https://news.ycombinator.com/item?id=43668433) \| 🗓️ 2025-04-12
-
-
-<br />
-该网站使用**阿努比斯防护系统**防止AI公司大规模爬取数据导致服务器瘫痪。其核心采用类似**Hashcash的工作量证明机制**，通过增加爬取成本遏制自动化工具。系统目前依赖JavaScript验证，未来计划开发无JS方案。**指纹识别技术**将用于区分合法用户与爬虫，减少对真实用户的干扰。
-
----
-
 ## <a name="15"></a>15. IBM代码页437中的“小房子”从何而来？ 
 <small>🔗 [blog.glyphdrawing.club](https://blog.glyphdrawing.club/why-is-there-a-small-house-in-ibm-s-code-page-437/): Why is there a "small house" in IBM's Code page 437?</small>
 
 
-| 🔥: 53 \| 💬: [15](https://news.ycombinator.com/item?id=43667010) \| 🗓️ 2025-04-12
+| 🔥: 70 \| 💬: [21](https://news.ycombinator.com/item?id=43667010) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -207,7 +207,7 @@ IBM的**代码页437**（CP437）是1981年随IBM PC推出的字符集，其中�
 <small>🔗 [powermag.com](https://www.powermag.com/the-solid-state-shift-reinventing-the-transformer-for-modern-grids/): The Solid-State Shift: Reinventing the Transformer for Modern Grids</small>
 
 
-| 🔥: 50 \| 💬: [21](https://news.ycombinator.com/item?id=43666778) \| 🗓️ 2025-04-12
+| 🔥: 51 \| 💬: [22](https://news.ycombinator.com/item?id=43666778) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -215,7 +215,31 @@ IBM的**代码页437**（CP437）是1981年随IBM PC推出的字符集，其中�
 
 ---
 
-## <a name="17"></a>17. "奇异粒子"或成量子世界的第三王国 
+## <a name="17"></a>17. YAML的“挪威问题”：布尔值解析陷阱 
+<small>🔗 [bram.us](https://www.bram.us/2022/01/11/yaml-the-norway-problem/): YAML: The Norway Problem (2022)</small>
+
+
+| 🔥: 50 \| 💬: [15](https://news.ycombinator.com/item?id=43668290) \| 🗓️ 2025-04-12
+
+
+<br />
+2022年，开发者Haroen Viaene指出YAML的**布尔值解析规则**存在严重缺陷：当数据中包含挪威的ISO代码`NO`时，YAML会错误地将其解析为`False`（如`countries: [GB, NO]`变为`['GB', False]`）。此问题源于YAML宽松的类型推断，类似问题还影响`.0`结尾的版本号和`Null`等字段。**解决方案**包括用双引号包裹值或使用**StrictYAML**等严格解析库。该问题凸显了YAML在数据精确性上的潜在风险。
+
+---
+
+## <a name="18"></a>18. 将Shadertoy着色器移植到Rust GPU 
+<small>🔗 [rust-gpu.github.io](https://rust-gpu.github.io/blog/2025/04/10/shadertoys/): Shadertoys Ported to Rust GPU</small>
+
+
+| 🔥: 49 \| 💬: [13](https://news.ycombinator.com/item?id=43667693) \| 🗓️ 2025-04-12
+
+
+<br />
+我们成功将多个流行的Shadertoy着色器移植到**Rust GPU**平台，过程流畅且代码已开源。**Rust GPU**允许开发者用Rust编写GPU程序（如着色器或内核），并编译为SPIR-V格式，兼容Vulkan工作流。移植中，我们利用Rust的**泛型**和**宏**减少重复代码，并通过`bytemuck`实现CPU/GPU数据无缝共享。标准Rust工具链（如`cargo check`）可直接用于着色器开发，显著提升效率。此外，我们还修复了`wgpu`和`naga`的多个问题，推动生态完善。欢迎加入这一实验性项目！
+
+---
+
+## <a name="19"></a>19. "奇异粒子"或成量子世界的第三王国 
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/paraparticles-would-be-a-third-kingdom-of-quantum-particle-20250411/): 'Paraparticles' Would Be a Third Kingdom of Quantum Particle</small>
 
 
@@ -227,11 +251,23 @@ IBM的**代码页437**（CP437）是1981年随IBM PC推出的字符集，其中�
 
 ---
 
-## <a name="18"></a>18. Apache ECharts + Leaflet + shadcn 数据可视化方案 
+## <a name="20"></a>20. 新型小便池设计每天可减少26.5万加仑尿液飞溅 
+<small>🔗 [livescience.com](https://www.livescience.com/technology/engineering/new-urinal-designs-could-prevent-up-to-265-000-gallons-of-urine-from-spilling-onto-the-floor-each-day): New urinal designs prevent 265,000 gallons of urine splashing onto the floor</small>
+
+
+| 🔥: 45 \| 💬: [43](https://news.ycombinator.com/item?id=43668957) \| 🗓️ 2025-04-12
+
+
+<br />
+科学家提出**Nautilus**和**Cornucopia**两种新型小便池设计，通过优化流体冲击角度（低于30度），将飞溅量降至传统设计的**1.4%**。美国每日因传统设计溅出的100万升尿液不仅滋生细菌、产生异味，还增加清洁成本。其中**Nautilus**因高度适配儿童和轮椅使用者、易清洁等优势更受青睐。若全美5600万小便池更新为此设计，每日可节省1000万升清洁用水，显著提升公共卫生与可持续性。
+
+---
+
+## <a name="21"></a>21. Apache ECharts + Leaflet + shadcn 数据可视化方案 
 <small>🔗 [docs.evidence.dev](https://docs.evidence.dev/components/all-components/): Apache ECharts + Leaflet + shadcn for data viz</small>
 
 
-| 🔥: 43 \| 💬: [7](https://news.ycombinator.com/item?id=43664455) \| 🗓️ 2025-04-12
+| 🔥: 44 \| 💬: [7](https://news.ycombinator.com/item?id=43664455) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -239,7 +275,7 @@ IBM的**代码页437**（CP437）是1981年随IBM PC推出的字符集，其中�
 
 ---
 
-## <a name="19"></a>19. 哪些国家将从美国人才外流中受益最多？ 
+## <a name="22"></a>22. 哪些国家将从美国人才外流中受益最多？ 
 <small>🔗 [economist.com](https://www.economist.com/graphic-detail/2025/04/11/which-countries-would-benefit-most-from-an-american-brain-drain): Which countries would benefit most from an American brain drain?</small>
 
 
@@ -251,7 +287,7 @@ IBM的**代码页437**（CP437）是1981年随IBM PC推出的字符集，其中�
 
 ---
 
-## <a name="20"></a>20. 苹果股价昨日疯涨，疑似内幕消息泄露 
+## <a name="23"></a>23. 苹果股价昨日疯涨，疑似内幕消息泄露 
 <small>🔗 [twitter.com](https://twitter.com/TradingThomas3/status/1911047516021281205): Apple was getting bid up like crazy yesterday, don't tell me this wasn't leaked</small>
 
 
@@ -263,7 +299,19 @@ IBM的**代码页437**（CP437）是1981年随IBM PC推出的字符集，其中�
 
 ---
 
-## <a name="21"></a>21. 中国率先批准无人驾驶飞行出租车商用 
+## <a name="24"></a>24. 特朗普政府强行将6100名在世移民标记为"已死亡" 
+<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/politics/2025/04/12/trump-immigrants-dead-social-security/): Trump administration overrode Social Security staff to list immigrants as dead</small>
+
+
+| 🔥: 39 \| 💬: [13](https://news.ycombinator.com/item?id=43665027) \| 🗓️ 2025-04-12
+
+
+<br />
+美国社会保障局(Social Security Administration)在特朗普政府施压下，**非法篡改死亡数据库**，将6100名活着的移民(含未成年人)标记为死亡，导致他们无法合法工作或领取福利。技术主管Greg Pearre因反对该计划被强制离职。此举被专家指控违反隐私法，且**数据库漏洞**允许无需死亡证明即可修改记录。国土安全部声称这些移民与恐怖活动有关，但未提供证据。目前法律团队正认定该行为违法，维权组织已提起诉讼。
+
+---
+
+## <a name="25"></a>25. 中国率先批准无人驾驶飞行出租车商用 
 <small>🔗 [engineerine.com](https://engineerine.com/chinas-flying-taxis/): China Just Approved Flying Taxis – No Pilot Needed</small>
 
 
@@ -272,53 +320,5 @@ IBM的**代码页437**（CP437）是1981年随IBM PC推出的字符集，其中�
 
 <br />
 中国民航局正式向亿航智能及其子公司颁发全球首个**无人驾驶飞行出租车**商用许可，标志着城市空中交通进入新阶段。该双座机型配备16个螺旋桨，**纯电动驱动**，航程35公里，最高时速130公里，适合短途接驳与旅游观光。运营初期将聚焦景区航线，未来计划扩展至城市通勤，并整合进地铁、机场等交通网络。**远程监控中心**确保飞行安全，零排放设计助力绿色出行。这一突破预计将推动全球空中交通产业爆发，市场规模或于2040年突破万亿美元。
-
----
-
-## <a name="22"></a>22. 特朗普政府强行将6100名在世移民标记为"已死亡" 
-<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/politics/2025/04/12/trump-immigrants-dead-social-security/): Trump administration overrode Social Security staff to list immigrants as dead</small>
-
-
-| 🔥: 38 \| 💬: [13](https://news.ycombinator.com/item?id=43665027) \| 🗓️ 2025-04-12
-
-
-<br />
-美国社会保障局(Social Security Administration)在特朗普政府施压下，**非法篡改死亡数据库**，将6100名活着的移民(含未成年人)标记为死亡，导致他们无法合法工作或领取福利。技术主管Greg Pearre因反对该计划被强制离职。此举被专家指控违反隐私法，且**数据库漏洞**允许无需死亡证明即可修改记录。国土安全部声称这些移民与恐怖活动有关，但未提供证据。目前法律团队正认定该行为违法，维权组织已提起诉讼。
-
----
-
-## <a name="23"></a>23. 科技巨头，请停止将AI强行塞进操作系统 
-<small>🔗 [howtogeek.com](https://www.howtogeek.com/dear-big-tech-stop-shoving-ai-into-operating-systems/): Dear Big Tech, Stop Shoving AI into Operating Systems</small>
-
-
-| 🔥: 35 \| 💬: [20](https://news.ycombinator.com/item?id=43667488) \| 🗓️ 2025-04-12
-
-
-<br />
-当前微软、苹果和谷歌正将**生成式AI**（如Copilot、Apple Intelligence和Gemini）深度集成到操作系统中，但更多是出于**营销噱头**而非实际需求。用户更希望获得稳定、隐私友好且轻量化的系统，而非充斥广告、监控和冗余功能的AI工具。这些公司以“智能助手”为名，实则可能加剧数据收集，而多数AI功能本可作为独立应用存在。文章呼吁AI应作为可选模块，而非强制捆绑的系统组件。
-
----
-
-## <a name="24"></a>24. 新破译的赫梯泥板为特洛伊战争提供新线索 
-<small>🔗 [anatolianarchaeology.net](https://www.anatolianarchaeology.net/a-remarkable-newly-deciphered-hittite-tablet-sheds-new-light-on-the-trojan-war/): A Remarkable Newly Deciphered Hittite Tablet Sheds New Light on the Trojan War</small>
-
-
-| 🔥: 34 \| 💬: [9](https://news.ycombinator.com/item?id=43667305) \| 🗓️ 2025-04-12
-
-
-<br />
-近日，牛津大学学者Michele Bianconi团队破译了一块赫梯泥板（编号Keilfischurkunden aus Boghazköi 24.1），揭示了**青铜时代安纳托利亚**与荷马史诗《伊利亚特》的重要联系。泥板记载了**阿希亚瓦人（Ahhiyawa）**攻击特洛伊（Wiluša）的史实，并首次发现一段**卢维语诗体残篇**，其开篇"女神啊，请歌唱怒火…"与《伊利亚特》句式高度相似。这表明特洛伊陷落的口头叙事传统可能早在荷马之前数世纪就已存在于安纳托利亚，为印欧史诗同源说提供了新证据。
-
----
-
-## <a name="25"></a>25. 美国正遭遇"资本外逃" 
-<small>🔗 [noahpinion.blog](https://www.noahpinion.blog/p/this-is-called-capital-flight): This is Called "Capital Flight"</small>
-
-
-| 🔥: 32 \| 💬: [20](https://news.ycombinator.com/item?id=43662456) \| 🗓️ 2025-04-12
-
-
-<br />
-本文指出，**资本外逃**这一通常发生在贫困国家的现象，如今正罕见地冲击美国。由于投资者大规模抛售美债等资产，美元汇率暴跌（1美元兑0.88欧元），同时国债收益率反常上升。**特朗普的关税政策引发市场动荡**，导致交易员被迫抛售美债套现，部分资金甚至彻底撤离美国。若持续下去，可能对美国经济造成灾难性后果。
 
 ---
