@@ -12,7 +12,7 @@ tags:
 1. 开源可自托管的隐私友好型文件转换工具；
 1. SVG创意动画与交互实现；
 1. AI编造虚假软件依赖包，引发供应链安全危机；
-1. “慢付、少付或不付”：蓝十字批准手术却拒赔；
+1. Emacs Lisp 核心要素解析；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/climate-solutions/2025/04/12/air-pollution-paris-health-cars/): Air pollution fell substantially as Paris restricted car traffic</small>
 
 
-| 🔥🔥: 415 \| 💬: [357](https://news.ycombinator.com/item?id=43665793) \| 🗓️ 2025-04-12
+| 🔥🔥: 433 \| 💬: [376](https://news.ycombinator.com/item?id=43665793) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [vert.sh](https://vert.sh): Open source and self hostable/private file converter</small>
 
 
-| 🔥🔥: 402 \| 💬: [80](https://news.ycombinator.com/item?id=43663865) \| 🗓️ 2025-04-12
+| 🔥🔥: 419 \| 💬: [81](https://news.ycombinator.com/item?id=43663865) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [fuma-nama.vercel.app](https://fuma-nama.vercel.app/blog/svg-art): Nice Things with SVG</small>
 
 
-| 🔥🔥: 256 \| 💬: [41](https://news.ycombinator.com/item?id=43666439) \| 🗓️ 2025-04-12
+| 🔥🔥: 281 \| 💬: [43](https://news.ycombinator.com/item?id=43666439) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/12/ai_code_suggestions_sabotage_supply_chain/): AI can't stop making up software dependencies and sabotaging everything</small>
 
 
-| 🔥🔥: 170 \| 💬: [155](https://news.ycombinator.com/item?id=43663777) \| 🗓️ 2025-04-12
+| 🔥🔥: 171 \| 💬: [156](https://news.ycombinator.com/item?id=43663777) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -71,23 +71,11 @@ AI代码助手常**虚构不存在的软件包名**（5.2%-21.7%概率），黑�
 
 ---
 
-## <a name="5"></a>5. “慢付、少付或不付”：蓝十字批准手术却拒赔 
-<small>🔗 [propublica.org](https://www.propublica.org/article/blue-cross-blue-shield-louisiana-insurance-lawsuit-breast-cancer-doctors): "Slow Pay, Low Pay or No Pay": Blue Cross Approved Surgeries Then Refused to Pay</small>
-
-
-| 🔥🔥: 157 \| 💬: [189](https://news.ycombinator.com/item?id=43664660) \| 🗓️ 2025-04-12
-
-
-<br />
-美国路易斯安那州**蓝十字保险公司**在授权乳腺癌患者进行乳房切除及重建手术后，拒绝全额支付医院账单，甚至部分拒赔。涉事医院指控其存在系统性欺诈，陪审团裁定蓝十字赔偿**4.21亿美元**。调查发现，保险公司利用“预授权不保证赔付”条款推诿责任，同时高管却为亲属安排特殊赔付协议。此案揭露了医保体系中**权力失衡**问题——保险公司既是规则制定者又是仲裁者，而患者与医疗机构处于弱势。蓝十字已提起上诉。
-
----
-
-## <a name="6"></a>6. Emacs Lisp 核心要素解析 
+## <a name="5"></a>5. Emacs Lisp 核心要素解析 
 <small>🔗 [protesilaos.com](https://protesilaos.com/emacs/emacs-lisp-elements): Emacs Lisp Elements</small>
 
 
-| 🔥🔥: 154 \| 💬: [18](https://news.ycombinator.com/item?id=43665046) \| 🗓️ 2025-04-12
+| 🔥🔥: 167 \| 💬: [19](https://news.ycombinator.com/item?id=43665046) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -95,11 +83,23 @@ AI代码助手常**虚构不存在的软件包名**（5.2%-21.7%概率），黑�
 
 ---
 
+## <a name="6"></a>6. “慢付、少付或不付”：蓝十字批准手术却拒赔 
+<small>🔗 [propublica.org](https://www.propublica.org/article/blue-cross-blue-shield-louisiana-insurance-lawsuit-breast-cancer-doctors): "Slow Pay, Low Pay or No Pay": Blue Cross Approved Surgeries Then Refused to Pay</small>
+
+
+| 🔥🔥: 158 \| 💬: [190](https://news.ycombinator.com/item?id=43664660) \| 🗓️ 2025-04-12
+
+
+<br />
+美国路易斯安那州**蓝十字保险公司**在授权乳腺癌患者进行乳房切除及重建手术后，拒绝全额支付医院账单，甚至部分拒赔。涉事医院指控其存在系统性欺诈，陪审团裁定蓝十字赔偿**4.21亿美元**。调查发现，保险公司利用“预授权不保证赔付”条款推诿责任，同时高管却为亲属安排特殊赔付协议。此案揭露了医保体系中**权力失衡**问题——保险公司既是规则制定者又是仲裁者，而患者与医疗机构处于弱势。蓝十字已提起上诉。
+
+---
+
 ## <a name="7"></a>7. Tunarr：用本地媒体打造个性化电视频道 
 <small>🔗 [tunarr.com](https://tunarr.com/): Tunarr: Create and configure live TV channels from media on your servers</small>
 
 
-| 🔥🔥: 136 \| 💬: [32](https://news.ycombinator.com/item?id=43665201) \| 🗓️ 2025-04-12
+| 🔥🔥: 141 \| 💬: [36](https://news.ycombinator.com/item?id=43665201) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -111,7 +111,7 @@ Tunarr是一款能将**Plex/Jellyfin服务器**中的媒体内容转换为直播
 <small>🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-04-12/trump-exempts-phones-computers-chips-from-reciprocal-tariffs): Trump exempts phones, computers, chips from 'reciprocal' tariffs</small>
 
 
-| 🔥🔥: 106 \| 💬: [356](https://news.ycombinator.com/item?id=43664121) \| 🗓️ 2025-04-12
+| 🔥🔥: 130 \| 💬: [393](https://news.ycombinator.com/item?id=43664121) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -135,7 +135,7 @@ Charts.css是一个**现代CSS框架**，通过**CSS工具类**将HTML元素快�
 <small>🔗 [arktype.io](https://arktype.io/): ArkType: Ergonomic TS validator 100x faster than Zod</small>
 
 
-| 🔥: 92 \| 💬: [30](https://news.ycombinator.com/item?id=43665540) \| 🗓️ 2025-04-12
+| 🔥: 99 \| 💬: [36](https://news.ycombinator.com/item?id=43665540) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -143,7 +143,19 @@ ArkType是一款**高性能TypeScript验证器**，提供从编辑器到运行�
 
 ---
 
-## <a name="11"></a>11. 苦涩的预言 
+## <a name="11"></a>11. Zod v4 测试版发布：更快、更小、更强大 
+<small>🔗 [v4.zod.dev](https://v4.zod.dev/v4): Zod v4 Beta</small>
+
+
+| 🔥: 96 \| 💬: [18](https://news.ycombinator.com/item?id=43667925) \| 🗓️ 2025-04-12
+
+
+<br />
+Zod 4 测试版正式推出，经过一年多的开发，性能提升显著：**字符串解析快 2.6 倍**，**数组解析快 3 倍**，**对象解析快 7 倍**。新版本优化了 TypeScript 兼容性，**减少了 20 倍的类型实例化**，并引入 **`@zod/mini`** 库，核心包体积缩小 85%。新增功能包括**元数据系统**、**JSON Schema 转换**和更精确的**可选属性控制**（通过 `z.interface()`）。感谢 Clerk 的支持，Zod 4 将成为未来多年的新基础。
+
+---
+
+## <a name="12"></a>12. 苦涩的预言 
 <small>🔗 [4zm.org](https://4zm.org/2025/04/05/bitter-prediction.html): The Bitter Prediction</small>
 
 
@@ -155,23 +167,11 @@ ArkType是一款**高性能TypeScript验证器**，提供从编辑器到运行�
 
 ---
 
-## <a name="12"></a>12. Zod v4 测试版发布：更快、更小、更强大 
-<small>🔗 [v4.zod.dev](https://v4.zod.dev/v4): Zod v4 Beta</small>
-
-
-| 🔥: 74 \| 💬: [13](https://news.ycombinator.com/item?id=43667925) \| 🗓️ 2025-04-12
-
-
-<br />
-Zod 4 测试版正式推出，经过一年多的开发，性能提升显著：**字符串解析快 2.6 倍**，**数组解析快 3 倍**，**对象解析快 7 倍**。新版本优化了 TypeScript 兼容性，**减少了 20 倍的类型实例化**，并引入 **`@zod/mini`** 库，核心包体积缩小 85%。新增功能包括**元数据系统**、**JSON Schema 转换**和更精确的**可选属性控制**（通过 `z.interface()`）。感谢 Clerk 的支持，Zod 4 将成为未来多年的新基础。
-
----
-
 ## <a name="13"></a>13. Amiga双启动ROM替换模块KickSmash32简介 
 <small>🔗 [github.com](https://github.com/cdhooper/kicksmash32): Dual Kickstart ROM Replacement for Amiga</small>
 
 
-| 🔥: 68 \| 💬: [17](https://news.ycombinator.com/item?id=43666341) \| 🗓️ 2025-04-12
+| 🔥: 69 \| 💬: [18](https://news.ycombinator.com/item?id=43666341) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -183,7 +183,7 @@ KickSmash32是一款针对**Amiga 3000/4000系列**（含1200、3000T等型号�
 <small>🔗 [powermag.com](https://www.powermag.com/the-solid-state-shift-reinventing-the-transformer-for-modern-grids/): The Solid-State Shift: Reinventing the Transformer for Modern Grids</small>
 
 
-| 🔥: 49 \| 💬: [20](https://news.ycombinator.com/item?id=43666778) \| 🗓️ 2025-04-12
+| 🔥: 49 \| 💬: [21](https://news.ycombinator.com/item?id=43666778) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -191,7 +191,31 @@ KickSmash32是一款针对**Amiga 3000/4000系列**（含1200、3000T等型号�
 
 ---
 
-## <a name="15"></a>15. 苹果股价昨日疯涨，疑似内幕消息泄露 
+## <a name="15"></a>15. IBM代码页437中的“小房子”从何而来？ 
+<small>🔗 [blog.glyphdrawing.club](https://blog.glyphdrawing.club/why-is-there-a-small-house-in-ibm-s-code-page-437/): Why is there a "small house" in IBM's Code page 437?</small>
+
+
+| 🔥: 45 \| 💬: [12](https://news.ycombinator.com/item?id=43667010) \| 🗓️ 2025-04-12
+
+
+<br />
+IBM的**代码页437**（CP437）是1981年随IBM PC推出的字符集，其中控制字符`0x7F`（本应为删除符DEL）被设计成一个小房子（⌂）。这一奇特符号的起源尚无定论，但存在多种推测：可能是受**Blissymbolics**符号系统启发，或是误抄了Wang终端中的三角形符号。此外，也有人认为它象征**家用电脑**的普及，或与删除操作相关。尽管缺乏确凿证据，这个小房子因其独特的形状在早期文本游戏和ASCII艺术中被广泛复用，成为CP437的标志性符号之一。
+
+---
+
+## <a name="16"></a>16. 阿努比斯防护系统的工作原理 
+<small>🔗 [xeiaso.net](https://xeiaso.net/notes/2025/anubis-works/): Anubis Works</small>
+
+
+| 🔥: 44 \| 💬: [18](https://news.ycombinator.com/item?id=43668433) \| 🗓️ 2025-04-12
+
+
+<br />
+该网站使用**阿努比斯防护系统**防止AI公司大规模爬取数据导致服务器瘫痪。其核心采用类似**Hashcash的工作量证明机制**，通过增加爬取成本遏制自动化工具。系统目前依赖JavaScript验证，未来计划开发无JS方案。**指纹识别技术**将用于区分合法用户与爬虫，减少对真实用户的干扰。
+
+---
+
+## <a name="17"></a>17. 苹果股价昨日疯涨，疑似内幕消息泄露 
 <small>🔗 [twitter.com](https://twitter.com/TradingThomas3/status/1911047516021281205): Apple was getting bid up like crazy yesterday, don't tell me this wasn't leaked</small>
 
 
@@ -203,11 +227,11 @@ KickSmash32是一款针对**Amiga 3000/4000系列**（含1200、3000T等型号�
 
 ---
 
-## <a name="16"></a>16. 哪些国家将从美国人才外流中受益最多？ 
+## <a name="18"></a>18. 哪些国家将从美国人才外流中受益最多？ 
 <small>🔗 [economist.com](https://www.economist.com/graphic-detail/2025/04/11/which-countries-would-benefit-most-from-an-american-brain-drain): Which countries would benefit most from an American brain drain?</small>
 
 
-| 🔥: 41 \| 💬: [76](https://news.ycombinator.com/item?id=43664996) \| 🗓️ 2025-04-12
+| 🔥: 42 \| 💬: [76](https://news.ycombinator.com/item?id=43664996) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -215,11 +239,11 @@ KickSmash32是一款针对**Amiga 3000/4000系列**（含1200、3000T等型号�
 
 ---
 
-## <a name="17"></a>17. "奇异粒子"或成量子世界的第三王国 
+## <a name="19"></a>19. "奇异粒子"或成量子世界的第三王国 
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/paraparticles-would-be-a-third-kingdom-of-quantum-particle-20250411/): 'Paraparticles' Would Be a Third Kingdom of Quantum Particle</small>
 
 
-| 🔥: 40 \| 💬: [4](https://news.ycombinator.com/item?id=43665831) \| 🗓️ 2025-04-12
+| 🔥: 42 \| 💬: [4](https://news.ycombinator.com/item?id=43665831) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -227,23 +251,11 @@ KickSmash32是一款针对**Amiga 3000/4000系列**（含1200、3000T等型号�
 
 ---
 
-## <a name="18"></a>18. 特朗普政府强行将6100名在世移民标记为"已死亡" 
-<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/politics/2025/04/12/trump-immigrants-dead-social-security/): Trump administration overrode Social Security staff to list immigrants as dead</small>
-
-
-| 🔥: 38 \| 💬: [11](https://news.ycombinator.com/item?id=43665027) \| 🗓️ 2025-04-12
-
-
-<br />
-美国社会保障局(Social Security Administration)在特朗普政府施压下，**非法篡改死亡数据库**，将6100名活着的移民(含未成年人)标记为死亡，导致他们无法合法工作或领取福利。技术主管Greg Pearre因反对该计划被强制离职。此举被专家指控违反隐私法，且**数据库漏洞**允许无需死亡证明即可修改记录。国土安全部声称这些移民与恐怖活动有关，但未提供证据。目前法律团队正认定该行为违法，维权组织已提起诉讼。
-
----
-
-## <a name="19"></a>19. 中国率先批准无人驾驶飞行出租车商用 
+## <a name="20"></a>20. 中国率先批准无人驾驶飞行出租车商用 
 <small>🔗 [engineerine.com](https://engineerine.com/chinas-flying-taxis/): China Just Approved Flying Taxis – No Pilot Needed</small>
 
 
-| 🔥: 36 \| 💬: [39](https://news.ycombinator.com/item?id=43666773) \| 🗓️ 2025-04-12
+| 🔥: 39 \| 💬: [42](https://news.ycombinator.com/item?id=43666773) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -251,23 +263,23 @@ KickSmash32是一款针对**Amiga 3000/4000系列**（含1200、3000T等型号�
 
 ---
 
-## <a name="20"></a>20. 新破译的赫梯泥板为特洛伊战争提供新线索 
-<small>🔗 [anatolianarchaeology.net](https://www.anatolianarchaeology.net/a-remarkable-newly-deciphered-hittite-tablet-sheds-new-light-on-the-trojan-war/): A Remarkable Newly Deciphered Hittite Tablet Sheds New Light on the Trojan War</small>
+## <a name="21"></a>21. 特朗普政府强行将6100名在世移民标记为"已死亡" 
+<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/politics/2025/04/12/trump-immigrants-dead-social-security/): Trump administration overrode Social Security staff to list immigrants as dead</small>
 
 
-| 🔥: 33 \| 💬: [9](https://news.ycombinator.com/item?id=43667305) \| 🗓️ 2025-04-12
+| 🔥: 38 \| 💬: [12](https://news.ycombinator.com/item?id=43665027) \| 🗓️ 2025-04-12
 
 
 <br />
-近日，牛津大学学者Michele Bianconi团队破译了一块赫梯泥板（编号Keilfischurkunden aus Boghazköi 24.1），揭示了**青铜时代安纳托利亚**与荷马史诗《伊利亚特》的重要联系。泥板记载了**阿希亚瓦人（Ahhiyawa）**攻击特洛伊（Wiluša）的史实，并首次发现一段**卢维语诗体残篇**，其开篇"女神啊，请歌唱怒火…"与《伊利亚特》句式高度相似。这表明特洛伊陷落的口头叙事传统可能早在荷马之前数世纪就已存在于安纳托利亚，为印欧史诗同源说提供了新证据。
+美国社会保障局(Social Security Administration)在特朗普政府施压下，**非法篡改死亡数据库**，将6100名活着的移民(含未成年人)标记为死亡，导致他们无法合法工作或领取福利。技术主管Greg Pearre因反对该计划被强制离职。此举被专家指控违反隐私法，且**数据库漏洞**允许无需死亡证明即可修改记录。国土安全部声称这些移民与恐怖活动有关，但未提供证据。目前法律团队正认定该行为违法，维权组织已提起诉讼。
 
 ---
 
-## <a name="21"></a>21. Apache ECharts + Leaflet + shadcn 数据可视化方案 
+## <a name="22"></a>22. Apache ECharts + Leaflet + shadcn 数据可视化方案 
 <small>🔗 [docs.evidence.dev](https://docs.evidence.dev/components/all-components/): Apache ECharts + Leaflet + shadcn for data viz</small>
 
 
-| 🔥: 32 \| 💬: [4](https://news.ycombinator.com/item?id=43664455) \| 🗓️ 2025-04-12
+| 🔥: 37 \| 💬: [7](https://news.ycombinator.com/item?id=43664455) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -275,7 +287,31 @@ KickSmash32是一款针对**Amiga 3000/4000系列**（含1200、3000T等型号�
 
 ---
 
-## <a name="22"></a>22. 美国正遭遇"资本外逃" 
+## <a name="23"></a>23. 新破译的赫梯泥板为特洛伊战争提供新线索 
+<small>🔗 [anatolianarchaeology.net](https://www.anatolianarchaeology.net/a-remarkable-newly-deciphered-hittite-tablet-sheds-new-light-on-the-trojan-war/): A Remarkable Newly Deciphered Hittite Tablet Sheds New Light on the Trojan War</small>
+
+
+| 🔥: 34 \| 💬: [9](https://news.ycombinator.com/item?id=43667305) \| 🗓️ 2025-04-12
+
+
+<br />
+近日，牛津大学学者Michele Bianconi团队破译了一块赫梯泥板（编号Keilfischurkunden aus Boghazköi 24.1），揭示了**青铜时代安纳托利亚**与荷马史诗《伊利亚特》的重要联系。泥板记载了**阿希亚瓦人（Ahhiyawa）**攻击特洛伊（Wiluša）的史实，并首次发现一段**卢维语诗体残篇**，其开篇"女神啊，请歌唱怒火…"与《伊利亚特》句式高度相似。这表明特洛伊陷落的口头叙事传统可能早在荷马之前数世纪就已存在于安纳托利亚，为印欧史诗同源说提供了新证据。
+
+---
+
+## <a name="24"></a>24. 科技巨头，请停止将AI强行塞进操作系统 
+<small>🔗 [howtogeek.com](https://www.howtogeek.com/dear-big-tech-stop-shoving-ai-into-operating-systems/): Dear Big Tech, Stop Shoving AI into Operating Systems</small>
+
+
+| 🔥: 34 \| 💬: [20](https://news.ycombinator.com/item?id=43667488) \| 🗓️ 2025-04-12
+
+
+<br />
+当前微软、苹果和谷歌正将**生成式AI**（如Copilot、Apple Intelligence和Gemini）深度集成到操作系统中，但更多是出于**营销噱头**而非实际需求。用户更希望获得稳定、隐私友好且轻量化的系统，而非充斥广告、监控和冗余功能的AI工具。这些公司以“智能助手”为名，实则可能加剧数据收集，而多数AI功能本可作为独立应用存在。文章呼吁AI应作为可选模块，而非强制捆绑的系统组件。
+
+---
+
+## <a name="25"></a>25. 美国正遭遇"资本外逃" 
 <small>🔗 [noahpinion.blog](https://www.noahpinion.blog/p/this-is-called-capital-flight): This is Called "Capital Flight"</small>
 
 
@@ -284,41 +320,5 @@ KickSmash32是一款针对**Amiga 3000/4000系列**（含1200、3000T等型号�
 
 <br />
 本文指出，**资本外逃**这一通常发生在贫困国家的现象，如今正罕见地冲击美国。由于投资者大规模抛售美债等资产，美元汇率暴跌（1美元兑0.88欧元），同时国债收益率反常上升。**特朗普的关税政策引发市场动荡**，导致交易员被迫抛售美债套现，部分资金甚至彻底撤离美国。若持续下去，可能对美国经济造成灾难性后果。
-
----
-
-## <a name="23"></a>23. 科技巨头，请停止将AI强行塞进操作系统 
-<small>🔗 [howtogeek.com](https://www.howtogeek.com/dear-big-tech-stop-shoving-ai-into-operating-systems/): Dear Big Tech, Stop Shoving AI into Operating Systems</small>
-
-
-| 🔥: 31 \| 💬: [19](https://news.ycombinator.com/item?id=43667488) \| 🗓️ 2025-04-12
-
-
-<br />
-当前微软、苹果和谷歌正将**生成式AI**（如Copilot、Apple Intelligence和Gemini）深度集成到操作系统中，但更多是出于**营销噱头**而非实际需求。用户更希望获得稳定、隐私友好且轻量化的系统，而非充斥广告、监控和冗余功能的AI工具。这些公司以“智能助手”为名，实则可能加剧数据收集，而多数AI功能本可作为独立应用存在。文章呼吁AI应作为可选模块，而非强制捆绑的系统组件。
-
----
-
-## <a name="24"></a>24. 特朗普新关税豁免手机、电脑及芯片 
-<small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/12/trump-exempts-phones-computers-chips-tariffs-apple-dell.html): Trump exempts phones, computers, chips from new tariffs</small>
-
-
-| 🔥: 29 \| 💬: [1](https://news.ycombinator.com/item?id=43664308) \| 🗓️ 2025-04-12
-
-
-<br />
-美国海关发布最新指引，**智能手机**、**笔记本电脑**、**半导体**等电子产品将豁免于特朗普政府对华征收的145%关税。此前该政策导致苹果等科技巨头市值暴跌，因其80%以上产品在中国生产。其他豁免项包括太阳能电池、电视面板及存储设备，未来或面临较低附加税。此举缓解了科技行业压力，但贸易不确定性仍持续冲击市场。
-
----
-
-## <a name="25"></a>25. 为什么训练AI不构成知识产权侵权 
-<small>🔗 [blog.giovanh.com](https://blog.giovanh.com/blog/2025/04/03/why-training-ai-cant-be-ip-theft/): Why training AI can't be IP theft</small>
-
-
-| 🔥: 26 \| 💬: [71](https://news.ycombinator.com/item?id=43663941) \| 🗓️ 2025-04-12
-
-
-<br />
-本文探讨了关于AI训练是否侵犯版权的争议。反对者认为，企业未经许可使用受版权保护的内容训练AI属于侵权，且AI产品直接与原作者竞争。但作者指出，**版权法**目前并未赋予创作者“禁止训练”的权利，强行将其纳入会导致严重后果。**人类学习权**必须保留——正如人们有权从观察中汲取灵感，AI训练也应被视为合理使用。尽管创作者担忧合理，但通过**扩张版权**来限制技术发展将扼杀创新，最终损害艺术生态。
 
 ---
