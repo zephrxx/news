@@ -8,8 +8,8 @@ tags:
 ---
 
 
-1. 开源可自托管的隐私友好型文件转换工具；
 1. 巴黎告别汽车：空气污染地图揭示巨变；
+1. 开源可自托管的隐私友好型文件转换工具；
 1. SVG创意动画与交互实现；
 1. 特朗普政府豁免手机、电脑等电子产品关税；
 1. Emacs Lisp 核心要素解析；
@@ -23,23 +23,11 @@ tags:
 ![](/assets/images/hacker_news.jpg)
 
 
-## <a name="1"></a>1. 开源可自托管的隐私友好型文件转换工具 
-<small>🔗 [vert.sh](https://vert.sh): Open source and self hostable/private file converter</small>
-
-
-| 🔥🔥: 461 \| 💬: [89](https://news.ycombinator.com/item?id=43663865) \| 🗓️ 2025-04-12
-
-
-<br />
-这是一款**完全在本地设备处理**的文件转换工具，支持图片、音频和视频格式转换，**无文件大小限制**且无广告。支持常见格式如PNG、MP3、MKV等，视频需默认上传至服务器处理（可配置本地运行）。**完全开源**，注重用户隐私，操作简单，只需拖放或点击上传即可快速转换。
-
----
-
-## <a name="2"></a>2. 巴黎告别汽车：空气污染地图揭示巨变 
+## <a name="1"></a>1. 巴黎告别汽车：空气污染地图揭示巨变 
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/climate-solutions/2025/04/12/air-pollution-paris-health-cars/): Air pollution fell substantially as Paris restricted car traffic</small>
 
 
-| 🔥🔥: 454 \| 💬: [398](https://news.ycombinator.com/item?id=43665793) \| 🗓️ 2025-04-12
+| 🔥🔥: 474 \| 💬: [404](https://news.ycombinator.com/item?id=43665793) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -47,11 +35,23 @@ tags:
 
 ---
 
+## <a name="2"></a>2. 开源可自托管的隐私友好型文件转换工具 
+<small>🔗 [vert.sh](https://vert.sh): Open source and self hostable/private file converter</small>
+
+
+| 🔥🔥: 472 \| 💬: [90](https://news.ycombinator.com/item?id=43663865) \| 🗓️ 2025-04-12
+
+
+<br />
+这是一款**完全在本地设备处理**的文件转换工具，支持图片、音频和视频格式转换，**无文件大小限制**且无广告。支持常见格式如PNG、MP3、MKV等，视频需默认上传至服务器处理（可配置本地运行）。**完全开源**，注重用户隐私，操作简单，只需拖放或点击上传即可快速转换。
+
+---
+
 ## <a name="3"></a>3. SVG创意动画与交互实现 
 <small>🔗 [fuma-nama.vercel.app](https://fuma-nama.vercel.app/blog/svg-art): Nice things with SVG</small>
 
 
-| 🔥🔥: 360 \| 💬: [59](https://news.ycombinator.com/item?id=43666439) \| 🗓️ 2025-04-12
+| 🔥🔥: 371 \| 💬: [62](https://news.ycombinator.com/item?id=43666439) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [bloomberg.com](https://www.bloomberg.com/news/articles/2025-04-12/trump-exempts-phones-computers-chips-from-reciprocal-tariffs): Trump exempts phones, computers, chips from 'reciprocal' tariffs</small>
 
 
-| 🔥🔥: 234 \| 💬: [506](https://news.ycombinator.com/item?id=43664121) \| 🗓️ 2025-04-12
+| 🔥🔥: 245 \| 💬: [530](https://news.ycombinator.com/item?id=43664121) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [protesilaos.com](https://protesilaos.com/emacs/emacs-lisp-elements): Emacs Lisp Elements</small>
 
 
-| 🔥🔥: 220 \| 💬: [27](https://news.ycombinator.com/item?id=43665046) \| 🗓️ 2025-04-12
+| 🔥🔥: 232 \| 💬: [29](https://news.ycombinator.com/item?id=43665046) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/12/ai_code_suggestions_sabotage_supply_chain/): AI can't stop making up software dependencies and sabotaging everything</small>
 
 
-| 🔥🔥: 177 \| 💬: [163](https://news.ycombinator.com/item?id=43663777) \| 🗓️ 2025-04-12
+| 🔥🔥: 178 \| 💬: [163](https://news.ycombinator.com/item?id=43663777) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -99,7 +99,7 @@ AI代码助手常**虚构不存在的软件包名**（5.2%-21.7%概率），黑�
 <small>🔗 [xeiaso.net](https://xeiaso.net/notes/2025/anubis-works/): Anubis Works</small>
 
 
-| 🔥🔥: 167 \| 💬: [96](https://news.ycombinator.com/item?id=43668433) \| 🗓️ 2025-04-12
+| 🔥🔥: 177 \| 💬: [101](https://news.ycombinator.com/item?id=43668433) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -111,7 +111,7 @@ AI代码助手常**虚构不存在的软件包名**（5.2%-21.7%概率），黑�
 <small>🔗 [tunarr.com](https://tunarr.com/): Tunarr: Create and configure live TV channels from media on your servers</small>
 
 
-| 🔥🔥: 163 \| 💬: [42](https://news.ycombinator.com/item?id=43665201) \| 🗓️ 2025-04-12
+| 🔥🔥: 165 \| 💬: [44](https://news.ycombinator.com/item?id=43665201) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -123,7 +123,7 @@ Tunarr是一款能将**Plex/Jellyfin服务器**中的媒体内容转换为直播
 <small>🔗 [propublica.org](https://www.propublica.org/article/blue-cross-blue-shield-louisiana-insurance-lawsuit-breast-cancer-doctors): "Slow Pay, Low Pay or No Pay": Blue Cross Approved Surgeries Then Refused to Pay</small>
 
 
-| 🔥🔥: 159 \| 💬: [199](https://news.ycombinator.com/item?id=43664660) \| 🗓️ 2025-04-12
+| 🔥🔥: 160 \| 💬: [199](https://news.ycombinator.com/item?id=43664660) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -135,7 +135,7 @@ Tunarr是一款能将**Plex/Jellyfin服务器**中的媒体内容转换为直播
 <small>🔗 [v4.zod.dev](https://v4.zod.dev/v4): Zod v4 Beta</small>
 
 
-| 🔥🔥: 145 \| 💬: [32](https://news.ycombinator.com/item?id=43667925) \| 🗓️ 2025-04-12
+| 🔥🔥: 153 \| 💬: [34](https://news.ycombinator.com/item?id=43667925) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -147,7 +147,7 @@ Zod 4 测试版正式推出，经过一年多的开发，性能提升显著：**
 <small>🔗 [arktype.io](https://arktype.io/): ArkType: Ergonomic TS validator 100x faster than Zod</small>
 
 
-| 🔥🔥: 129 \| 💬: [50](https://news.ycombinator.com/item?id=43665540) \| 🗓️ 2025-04-12
+| 🔥🔥: 136 \| 💬: [53](https://news.ycombinator.com/item?id=43665540) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -159,7 +159,7 @@ ArkType是一款**高性能TypeScript验证器**，提供从编辑器到运行�
 <small>🔗 [grapheneos.social](https://grapheneos.social/@GrapheneOS/114327666433966529): Experimental release of GrapheneOS for Pixel 9a</small>
 
 
-| 🔥🔥: 110 \| 💬: [48](https://news.ycombinator.com/item?id=43669185) \| 🗓️ 2025-04-12
+| 🔥🔥: 135 \| 💬: [65](https://news.ycombinator.com/item?id=43669185) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -167,23 +167,11 @@ ArkType是一款**高性能TypeScript验证器**，提供从编辑器到运行�
 
 ---
 
-## <a name="13"></a>13. IBM代码页437中的“小房子”从何而来？ 
-<small>🔗 [blog.glyphdrawing.club](https://blog.glyphdrawing.club/why-is-there-a-small-house-in-ibm-s-code-page-437/): Why is there a "small house" in IBM's Code page 437?</small>
-
-
-| 🔥🔥: 108 \| 💬: [32](https://news.ycombinator.com/item?id=43667010) \| 🗓️ 2025-04-12
-
-
-<br />
-IBM的**代码页437**（CP437）是1981年随IBM PC推出的字符集，其中控制字符`0x7F`（本应为删除符DEL）被设计成一个小房子（⌂）。这一奇特符号的起源尚无定论，但存在多种推测：可能是受**Blissymbolics**符号系统启发，或是误抄了Wang终端中的三角形符号。此外，也有人认为它象征**家用电脑**的普及，或与删除操作相关。尽管缺乏确凿证据，这个小房子因其独特的形状在早期文本游戏和ASCII艺术中被广泛复用，成为CP437的标志性符号之一。
-
----
-
-## <a name="14"></a>14. BPS：鲜为人知的GPS替代方案 
+## <a name="13"></a>13. BPS：鲜为人知的GPS替代方案 
 <small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard): BPS is a GPS alternative that nobody's heard of</small>
 
 
-| 🔥🔥: 103 \| 💬: [32](https://news.ycombinator.com/item?id=43669308) \| 🗓️ 2025-04-12
+| 🔥🔥: 127 \| 💬: [42](https://news.ycombinator.com/item?id=43669308) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -191,7 +179,31 @@ IBM的**代码页437**（CP437）是1981年随IBM PC推出的字符集，其中�
 
 ---
 
-## <a name="15"></a>15. Charts.css：纯CSS图表框架 
+## <a name="14"></a>14. IBM代码页437中的“小房子”从何而来？ 
+<small>🔗 [blog.glyphdrawing.club](https://blog.glyphdrawing.club/why-is-there-a-small-house-in-ibm-s-code-page-437/): Why is there a "small house" in IBM's Code page 437?</small>
+
+
+| 🔥🔥: 120 \| 💬: [33](https://news.ycombinator.com/item?id=43667010) \| 🗓️ 2025-04-12
+
+
+<br />
+IBM的**代码页437**（CP437）是1981年随IBM PC推出的字符集，其中控制字符`0x7F`（本应为删除符DEL）被设计成一个小房子（⌂）。这一奇特符号的起源尚无定论，但存在多种推测：可能是受**Blissymbolics**符号系统启发，或是误抄了Wang终端中的三角形符号。此外，也有人认为它象征**家用电脑**的普及，或与删除操作相关。尽管缺乏确凿证据，这个小房子因其独特的形状在早期文本游戏和ASCII艺术中被广泛复用，成为CP437的标志性符号之一。
+
+---
+
+## <a name="15"></a>15. WebTUI：将终端界面美学带入浏览器的CSS库 
+<small>🔗 [webtui.ironclad.sh](https://webtui.ironclad.sh): WebTUI – A CSS Library That Brings the Beauty of Terminal UIs to the Browser</small>
+
+
+| 🔥🔥: 106 \| 💬: [18](https://news.ycombinator.com/item?id=43668250) \| 🗓️ 2025-04-12
+
+
+<br />
+该CSS库通过**模块化设计**复现终端界面风格，提供**ASCII边框**、**等宽字体排版**等特色组件，支持主题插件（如Catppuccin/Nord配色方案）和**CSS变量自定义**。文档涵盖安装指南、组件使用（按钮/徽章/输入框）及插件开发规范，适用于快速构建具有TUI（文本用户界面）风格的网页应用。
+
+---
+
+## <a name="16"></a>16. Charts.css：纯CSS图表框架 
 <small>🔗 [chartscss.org](https://chartscss.org/): Charts.css</small>
 
 
@@ -203,23 +215,11 @@ Charts.css是一个**现代CSS框架**，通过**CSS工具类**将HTML元素快�
 
 ---
 
-## <a name="16"></a>16. WebTUI：将终端界面美学带入浏览器的CSS库 
-<small>🔗 [webtui.ironclad.sh](https://webtui.ironclad.sh): WebTUI – A CSS Library That Brings the Beauty of Terminal UIs to the Browser</small>
-
-
-| 🔥: 91 \| 💬: [9](https://news.ycombinator.com/item?id=43668250) \| 🗓️ 2025-04-12
-
-
-<br />
-该CSS库通过**模块化设计**复现终端界面风格，提供**ASCII边框**、**等宽字体排版**等特色组件，支持主题插件（如Catppuccin/Nord配色方案）和**CSS变量自定义**。文档涵盖安装指南、组件使用（按钮/徽章/输入框）及插件开发规范，适用于快速构建具有TUI（文本用户界面）风格的网页应用。
-
----
-
 ## <a name="17"></a>17. YAML的“挪威问题”：布尔值解析陷阱 
 <small>🔗 [bram.us](https://www.bram.us/2022/01/11/yaml-the-norway-problem/): YAML: The Norway Problem (2022)</small>
 
 
-| 🔥: 81 \| 💬: [39](https://news.ycombinator.com/item?id=43668290) \| 🗓️ 2025-04-12
+| 🔥: 95 \| 💬: [45](https://news.ycombinator.com/item?id=43668290) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -231,7 +231,7 @@ Charts.css是一个**现代CSS框架**，通过**CSS工具类**将HTML元素快�
 <small>🔗 [4zm.org](https://4zm.org/2025/04/05/bitter-prediction.html): The Bitter Prediction</small>
 
 
-| 🔥: 79 \| 💬: [54](https://news.ycombinator.com/item?id=43662686) \| 🗓️ 2025-04-12
+| 🔥: 85 \| 💬: [54](https://news.ycombinator.com/item?id=43662686) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -243,7 +243,7 @@ Charts.css是一个**现代CSS框架**，通过**CSS工具类**将HTML元素快�
 <small>🔗 [github.com](https://github.com/cdhooper/kicksmash32): Dual Kickstart ROM Replacement for Amiga</small>
 
 
-| 🔥: 78 \| 💬: [23](https://news.ycombinator.com/item?id=43666341) \| 🗓️ 2025-04-12
+| 🔥: 82 \| 💬: [23](https://news.ycombinator.com/item?id=43666341) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -255,7 +255,7 @@ KickSmash32是一款针对**Amiga 3000/4000系列**（含1200、3000T等型号�
 <small>🔗 [livescience.com](https://www.livescience.com/technology/engineering/new-urinal-designs-could-prevent-up-to-265-000-gallons-of-urine-from-spilling-onto-the-floor-each-day): New urinal designs</small>
 
 
-| 🔥: 78 \| 💬: [91](https://news.ycombinator.com/item?id=43668957) \| 🗓️ 2025-04-12
+| 🔥: 80 \| 💬: [93](https://news.ycombinator.com/item?id=43668957) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -263,11 +263,23 @@ KickSmash32是一款针对**Amiga 3000/4000系列**（含1200、3000T等型号�
 
 ---
 
-## <a name="21"></a>21. Apache ECharts + Leaflet + shadcn 数据可视化方案 
+## <a name="21"></a>21. 抛弃笔记本电脑后，我靠迷你PC和AR眼镜实现了移动办公自由 
+<small>🔗 [tomsguide.com](https://www.tomsguide.com/computing/i-ditched-my-laptop-for-a-pocketable-mini-pc-and-a-pair-of-ar-glasses-heres-what-happened): I ditched my laptop for a pocketable mini PC and a pair of AR glasses</small>
+
+
+| 🔥: 77 \| 💬: [58](https://news.ycombinator.com/item?id=43668192) \| 🗓️ 2025-04-12
+
+
+<br />
+作者放弃了传统笔记本电脑，改用**Khadas Mind 2S迷你PC**搭配**Xreal One AR眼镜**和超大容量充电宝，打造出极致便携的移动办公方案。这套设备不仅能在咖啡厅模拟多屏办公体验，还能在飞机上使用，**透明显示模式**让用户兼顾屏幕与现实环境。迷你PC的模块化设计、AR眼镜的即插即用特性，以及机械键盘的输入体验，共同解决了笔记本扩展性差、屏幕局限等问题，重新定义了移动生产力。
+
+---
+
+## <a name="22"></a>22. Apache ECharts + Leaflet + shadcn 数据可视化方案 
 <small>🔗 [docs.evidence.dev](https://docs.evidence.dev/components/all-components/): Apache ECharts + Leaflet + shadcn for data viz</small>
 
 
-| 🔥: 68 \| 💬: [7](https://news.ycombinator.com/item?id=43664455) \| 🗓️ 2025-04-12
+| 🔥: 70 \| 💬: [7](https://news.ycombinator.com/item?id=43664455) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -275,11 +287,11 @@ KickSmash32是一款针对**Amiga 3000/4000系列**（含1200、3000T等型号�
 
 ---
 
-## <a name="22"></a>22. 将Shadertoy着色器移植到Rust GPU 
+## <a name="23"></a>23. 将Shadertoy着色器移植到Rust GPU 
 <small>🔗 [rust-gpu.github.io](https://rust-gpu.github.io/blog/2025/04/10/shadertoys/): Shadertoys Ported to Rust GPU</small>
 
 
-| 🔥: 59 \| 💬: [21](https://news.ycombinator.com/item?id=43667693) \| 🗓️ 2025-04-12
+| 🔥: 65 \| 💬: [21](https://news.ycombinator.com/item?id=43667693) \| 🗓️ 2025-04-12
 
 
 <br />
@@ -287,7 +299,7 @@ KickSmash32是一款针对**Amiga 3000/4000系列**（含1200、3000T等型号�
 
 ---
 
-## <a name="23"></a>23. 固态变压器的革新：现代电网的转型利器 
+## <a name="24"></a>24. 固态变压器的革新：现代电网的转型利器 
 <small>🔗 [powermag.com](https://www.powermag.com/the-solid-state-shift-reinventing-the-transformer-for-modern-grids/): The Solid-State Shift: Reinventing the Transformer for Modern Grids</small>
 
 
@@ -299,7 +311,7 @@ KickSmash32是一款针对**Amiga 3000/4000系列**（含1200、3000T等型号�
 
 ---
 
-## <a name="24"></a>24. "奇异粒子"或成量子世界的第三王国 
+## <a name="25"></a>25. "奇异粒子"或成量子世界的第三王国 
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/paraparticles-would-be-a-third-kingdom-of-quantum-particle-20250411/): 'Paraparticles' Would Be a Third Kingdom of Quantum Particle</small>
 
 
@@ -308,17 +320,5 @@ KickSmash32是一款针对**Amiga 3000/4000系列**（含1200、3000T等型号�
 
 <br />
 物理学家提出**准粒子**（paraparticles）可能构成继费米子与玻色子之后的**第三类量子粒子**。这类粒子具有隐藏的量子态，交换位置时会协同变化，虽无法直接观测，但可能催生新型量子材料。研究突破了过去DHR理论对三维空间粒子种类的限制，实验或通过里德伯原子验证其存在。若证实，将开辟**奇异物质态**的新领域，但现阶段仍属理论探索。
-
----
-
-## <a name="25"></a>25. 苹果股价昨日疯涨，疑似内幕消息泄露 
-<small>🔗 [twitter.com](https://twitter.com/TradingThomas3/status/1911047516021281205): Apple was getting bid up like crazy yesterday, don't tell me this wasn't leaked</small>
-
-
-| 🔥: 43 \| 💬: [10](https://news.ycombinator.com/item?id=43664624) \| 🗓️ 2025-04-12
-
-
-<br />
-内容显示无法加载JavaScript，提示用户启用浏览器JavaScript功能或更换支持的浏览器以继续使用x.com（原Twitter）。页面同时提供了帮助中心链接、服务条款及隐私政策等信息，并建议禁用可能导致问题的隐私相关插件。**关键点**在于用户需调整浏览器设置以正常访问，但原文核心提到的**苹果股价异常波动**与**潜在信息泄露**的关联性未在错误页面中体现。
 
 ---
