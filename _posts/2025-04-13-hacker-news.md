@@ -27,7 +27,7 @@ tags:
 <small>🔗 [posthuman.blog](https://posthuman.blog/this-reddit-post-fried-my-brain/): A Reddit bot drove me insane</small>
 
 
-| 🔥🔥: 445 \| 💬: [217](https://news.ycombinator.com/item?id=43672139) \| 🗓️ 2025-04-13
+| 🔥🔥: 483 \| 💬: [231](https://news.ycombinator.com/item?id=43672139) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [newstatesman.com](https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson): The dark side of the Moomins</small>
 
 
-| 🔥🔥: 250 \| 💬: [69](https://news.ycombinator.com/item?id=43672593) \| 🗓️ 2025-04-13
+| 🔥🔥: 253 \| 💬: [71](https://news.ycombinator.com/item?id=43672593) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/ariebovenberg/whenever): Whenever – typed and DST-safe datetimes for Python</small>
 
 
-| 🔥🔥: 243 \| 💬: [120](https://news.ycombinator.com/item?id=43671308) \| 🗓️ 2025-04-13
+| 🔥🔥: 248 \| 💬: [121](https://news.ycombinator.com/item?id=43671308) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -63,7 +63,7 @@ Whenever 是一个**类型安全**且**支持夏令时（DST）**的 Python 日�
 <small>🔗 [github.com](https://github.com/jlevy/og-equity-compensation): Open guide to equity compensation</small>
 
 
-| 🔥🔥: 201 \| 💬: [75](https://news.ycombinator.com/item?id=43675126) \| 🗓️ 2025-04-13
+| 🔥🔥: 240 \| 💬: [102](https://news.ycombinator.com/item?id=43675126) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -75,7 +75,7 @@ Whenever 是一个**类型安全**且**支持夏令时（DST）**的 Python 日�
 <small>🔗 [fennel-lang.org](https://fennel-lang.org/rationale): Why Fennel?</small>
 
 
-| 🔥🔥: 182 \| 💬: [72](https://news.ycombinator.com/item?id=43673551) \| 🗓️ 2025-04-13
+| 🔥🔥: 188 \| 💬: [77](https://news.ycombinator.com/item?id=43673551) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -87,7 +87,7 @@ Fennel是基于**Lua运行时**的编程语言，继承了Lua的轻量、高效�
 <small>🔗 [github.com](https://github.com/SkyworkAI/Skywork-OR1): Skywork-OR1: new SOTA 32B thinking model with open weight</small>
 
 
-| 🔥🔥: 135 \| 💬: [28](https://news.ycombinator.com/item?id=43673151) \| 🗓️ 2025-04-13
+| 🔥🔥: 136 \| 💬: [28](https://news.ycombinator.com/item?id=43673151) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -99,7 +99,7 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 <small>🔗 [worksonmymachine.substack.com](https://worksonmymachine.substack.com/p/wasting-inferences-with-aider): Wasting Inferences with Aider</small>
 
 
-| 🔥🔥: 104 \| 💬: [81](https://news.ycombinator.com/item?id=43672712) \| 🗓️ 2025-04-13
+| 🔥🔥: 106 \| 💬: [86](https://news.ycombinator.com/item?id=43672712) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -111,7 +111,7 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 <small>🔗 [seattletimes.com](https://www.seattletimes.com/seattle-news/data/half-the-men-in-seattle-are-never-married-singles-for-the-first-time/): Half the men in Seattle are never-married singles, census data shows</small>
 
 
-| 🔥🔥: 103 \| 💬: [166](https://news.ycombinator.com/item?id=43673125) \| 🗓️ 2025-04-13
+| 🔥🔥: 103 \| 💬: [168](https://news.ycombinator.com/item?id=43673125) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -123,7 +123,7 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 <small>🔗 [grumpy.systems](https://grumpy.systems/2023/please-dont-sell-space-in-your-homelab/): Don't sell space in your homelab (2023)</small>
 
 
-| 🔥: 95 \| 💬: [81](https://news.ycombinator.com/item?id=43674267) \| 🗓️ 2025-04-13
+| 🔥: 97 \| 💬: [82](https://news.ycombinator.com/item?id=43674267) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -131,11 +131,23 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 
 ---
 
-## <a name="10"></a>10. 经典杂志《Compute!'s Gazette》时隔35年复刊，聚焦复古计算 
+## <a name="10"></a>10. 数学13：抽象数学导论 [PDF] 
+<small>🔗 [math.uci.edu](https://www.math.uci.edu/~ndonalds/math13/notes.pdf): Math 13 – An Introduction to Abstract Mathematics [pdf]</small>
+
+
+| 🔥: 86 \| 💬: [4](https://news.ycombinator.com/item?id=43675310) \| 🗓️ 2025-04-13
+
+
+<br />
+该PDF教材系统介绍了抽象数学的基础概念与方法。**核心章节**包括逻辑与证明语言、集合与函数、数学归纳法、集合论进阶（笛卡尔积、幂集）以及关系与划分。重点探讨了**欧几里得算法**、**命题逻辑**和**基数理论**，为读者构建严格的数学思维框架。内容从具体证明技巧延伸到无限集合的抽象性质，适合需要夯实数学基础的学生。
+
+---
+
+## <a name="11"></a>11. 经典杂志《Compute!'s Gazette》时隔35年复刊，聚焦复古计算 
 <small>🔗 [computesgazette.com](https://www.computesgazette.com/): Compute's Gazette Magazine Returns After 35 Yrs, Will Focus on Retro Computing</small>
 
 
-| 🔥: 84 \| 💬: [24](https://news.ycombinator.com/item?id=43671861) \| 🗓️ 2025-04-13
+| 🔥: 84 \| 💬: [29](https://news.ycombinator.com/item?id=43671861) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -143,11 +155,11 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 
 ---
 
-## <a name="11"></a>11. 用C#制作SNES游戏ROM 
+## <a name="12"></a>12. 用C#制作SNES游戏ROM 
 <small>🔗 [reddit.com](https://www.reddit.com/r/dotnet/s/fhm4TUNhlX): Making SNES ROMs using C#</small>
 
 
-| 🔥: 79 \| 💬: [13](https://news.ycombinator.com/item?id=43673011) \| 🗓️ 2025-04-13
+| 🔥: 80 \| 💬: [15](https://news.ycombinator.com/item?id=43673011) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -155,7 +167,7 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 
 ---
 
-## <a name="12"></a>12. 我的虚拟孩子不需要你的流媒体服务 
+## <a name="13"></a>13. 我的虚拟孩子不需要你的流媒体服务 
 <small>🔗 [shkspr.mobi](https://shkspr.mobi/blog/2021/04/my-imaginary-children-arent-using-your-streaming-service/): My imaginary children aren't using your streaming service</small>
 
 
@@ -167,11 +179,11 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 
 ---
 
-## <a name="13"></a>13. EXWM：基于Emacs的X窗口管理器 
+## <a name="14"></a>14. EXWM：基于Emacs的X窗口管理器 
 <small>🔗 [github.com](https://github.com/emacs-exwm/exwm): Exwm: Emacs X Window Manager</small>
 
 
-| 🔥: 69 \| 💬: [14](https://news.ycombinator.com/item?id=43674233) \| 🗓️ 2025-04-13
+| 🔥: 75 \| 💬: [18](https://news.ycombinator.com/item?id=43674233) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -179,35 +191,11 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 
 ---
 
-## <a name="14"></a>14. 数学13：抽象数学导论 [PDF] 
-<small>🔗 [math.uci.edu](https://www.math.uci.edu/~ndonalds/math13/notes.pdf): Math 13 – An Introduction to Abstract Mathematics [pdf]</small>
-
-
-| 🔥: 69 \| 💬: [3](https://news.ycombinator.com/item?id=43675310) \| 🗓️ 2025-04-13
-
-
-<br />
-该PDF教材系统介绍了抽象数学的基础概念与方法。**核心章节**包括逻辑与证明语言、集合与函数、数学归纳法、集合论进阶（笛卡尔积、幂集）以及关系与划分。重点探讨了**欧几里得算法**、**命题逻辑**和**基数理论**，为读者构建严格的数学思维框架。内容从具体证明技巧延伸到无限集合的抽象性质，适合需要夯实数学基础的学生。
-
----
-
-## <a name="15"></a>15. 美国科技关税豁免或仅为临时措施 
-<small>🔗 [ft.com](https://www.ft.com/content/9038804f-cf69-4193-9332-8b5ea1f9af4b): US tech tariff exemption may only be temporary, says Lutnick</small>
-
-
-| 🔥: 64 \| 💬: [55](https://news.ycombinator.com/item?id=43673327) \| 🗓️ 2025-04-13
-
-
-<br />
-卢特尼克指出，**美国对科技产品的关税豁免可能只是暂时性的**，未来或随政策调整取消。文章提及特朗普政府可能引发的**贸易战风险**，并强调需关注后续关税政策动向。同时，文中推广了FT的新闻订阅服务，提供深度分析与实时报道。
-
----
-
-## <a name="16"></a>16. 红网袋如何让橙子看起来更橙？ 
+## <a name="15"></a>15. 红网袋如何让橙子看起来更橙？ 
 <small>🔗 [alexanderell.is](https://alexanderell.is/posts/orange/): How much oranger do red orange bags make oranges look?</small>
 
 
-| 🔥: 62 \| 💬: [39](https://news.ycombinator.com/item?id=43673761) \| 🗓️ 2025-04-13
+| 🔥: 69 \| 💬: [46](https://news.ycombinator.com/item?id=43673761) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -215,59 +203,23 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 
 ---
 
-## <a name="17"></a>17. AMD NPU与Xilinx Versal AI引擎在射电天文信号处理中的应用（2024） 
-<small>🔗 [git.astron.nl](https://git.astron.nl/RD/acap/-/raw/main/Presentation_FPL24_Vincent_Sprave.pdf): AMD NPU and Xilinx Versal AI Engines Signal Processing in Radio Astronomy (2024) [pdf]</small>
+## <a name="16"></a>16. 美国科技关税豁免或仅为临时措施 
+<small>🔗 [ft.com](https://www.ft.com/content/9038804f-cf69-4193-9332-8b5ea1f9af4b): US tech tariff exemption may only be temporary, says Lutnick</small>
 
 
-| 🔥: 58 \| 💬: [26](https://news.ycombinator.com/item?id=43671940) \| 🗓️ 2025-04-13
-
-
-<br />
-该PDF文档探讨了**AMD NPU**和**Xilinx Versal AI引擎**在射电天文信号处理中的协同应用。重点介绍了如何利用这些**高性能计算单元**优化天文数据的实时处理能力，提升信号分析的效率和精度。文档还涉及硬件架构设计、算法优化及实际应用案例，展现了其在**大规模数据处理**中的潜力。
-
----
-
-## <a name="18"></a>18. 为什么Pascal不是我最爱的编程语言（1981） 
-<small>🔗 [doc.cat-v.org](https://doc.cat-v.org/bell_labs/why_pascal/why_pascal_is_not_my_favorite_language.pdf): Why Pascal is not my favorite programming language (1981) [pdf]</small>
-
-
-| 🔥: 55 \| 💬: [65](https://news.ycombinator.com/item?id=43672975) \| 🗓️ 2025-04-13
+| 🔥: 66 \| 💬: [55](https://news.ycombinator.com/item?id=43673327) \| 🗓️ 2025-04-13
 
 
 <br />
-这篇1981年的文章批评了Pascal语言的多个设计缺陷。作者指出Pascal**类型系统过于严格**，缺乏灵活性；**缺少动态数组**等关键功能；**编译器实现不一致**，导致可移植性问题。文章认为Pascal更适合教学而非实际开发，这些限制使其难以成为主流编程语言。
+卢特尼克指出，**美国对科技产品的关税豁免可能只是暂时性的**，未来或随政策调整取消。文章提及特朗普政府可能引发的**贸易战风险**，并强调需关注后续关税政策动向。同时，文中推广了FT的新闻订阅服务，提供深度分析与实时报道。
 
 ---
 
-## <a name="19"></a>19. 特斯拉推出减配版Cybertruck后驱版：性能大缩水，价格却不便宜 
-<small>🔗 [jalopnik.com](https://www.jalopnik.com/1832213/tesla-releases-cheaper-rwd-cybertruck/): Tesla Releases Stripped RWD Cybertruck: So Much Worse for Not Much Less Money</small>
-
-
-| 🔥: 54 \| 💬: [91](https://news.ycombinator.com/item?id=43673235) \| 🗓️ 2025-04-13
-
-
-<br />
-特斯拉近日推出**后驱版Cybertruck**，售价71,985美元，仅比四驱版便宜1万美元，但**配置大幅缩水**：取消空气悬架、电动卷帘盖、车内多项功能及豪华内饰，续航虽增至350英里，但加速、载重和拖拽能力均下降。对比竞品如福特F-150 Lightning等，性价比偏低。此前承诺的4万美元起售价未兑现，且车辆仍存在工艺问题，市场前景堪忧。
-
----
-
-## <a name="20"></a>20. 修复Commodore PET的曲折历程：追踪6.5个故障芯片 
-<small>🔗 [righto.com](http://www.righto.com/2025/04/commodore-pet-repair.html): A tricky Commodore PET repair: tracking down 6 1/2 bad chips</small>
-
-
-| 🔥: 53 \| 💬: [15](https://news.ycombinator.com/item?id=43673862) \| 🗓️ 2025-04-13
-
-
-<br />
-作者回忆了修复一台1977年Commodore PET电脑的艰难过程。这台经典电脑因**ROM和RAM芯片故障**导致启动异常，屏幕显示乱码。通过**逻辑分析仪**和逆向工程工具Ghidra，团队发现数据总线信号异常，最终定位到两片损坏的ROM和四片RAM芯片。其中一片ROM因编程电压不足导致数据错误，被戏称为“半个坏芯片”。修复过程涉及替换罕见型号的MOS芯片，并借助适配器改用标准EPROM。尽管耗时费力，最终成功让这台充满怀旧意义的电脑重现图形界面。
-
----
-
-## <a name="21"></a>21. 从零实现DeepSeek R1的GRPO算法 
+## <a name="17"></a>17. 从零实现DeepSeek R1的GRPO算法 
 <small>🔗 [github.com](https://github.com/policy-gradient/GRPO-Zero): Implementing DeepSeek R1's GRPO algorithm from scratch</small>
 
 
-| 🔥: 52 \| 💬: [0](https://news.ycombinator.com/item?id=43674825) \| 🗓️ 2025-04-13
+| 🔥: 61 \| 💬: [0](https://news.ycombinator.com/item?id=43674825) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -275,11 +227,59 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 
 ---
 
+## <a name="18"></a>18. AMD NPU与Xilinx Versal AI引擎在射电天文信号处理中的应用（2024） 
+<small>🔗 [git.astron.nl](https://git.astron.nl/RD/acap/-/raw/main/Presentation_FPL24_Vincent_Sprave.pdf): AMD NPU and Xilinx Versal AI Engines Signal Processing in Radio Astronomy (2024) [pdf]</small>
+
+
+| 🔥: 59 \| 💬: [26](https://news.ycombinator.com/item?id=43671940) \| 🗓️ 2025-04-13
+
+
+<br />
+该PDF文档探讨了**AMD NPU**和**Xilinx Versal AI引擎**在射电天文信号处理中的协同应用。重点介绍了如何利用这些**高性能计算单元**优化天文数据的实时处理能力，提升信号分析的效率和精度。文档还涉及硬件架构设计、算法优化及实际应用案例，展现了其在**大规模数据处理**中的潜力。
+
+---
+
+## <a name="19"></a>19. 为什么Pascal不是我最爱的编程语言（1981） 
+<small>🔗 [doc.cat-v.org](https://doc.cat-v.org/bell_labs/why_pascal/why_pascal_is_not_my_favorite_language.pdf): Why Pascal is not my favorite programming language (1981) [pdf]</small>
+
+
+| 🔥: 57 \| 💬: [67](https://news.ycombinator.com/item?id=43672975) \| 🗓️ 2025-04-13
+
+
+<br />
+这篇1981年的文章批评了Pascal语言的多个设计缺陷。作者指出Pascal**类型系统过于严格**，缺乏灵活性；**缺少动态数组**等关键功能；**编译器实现不一致**，导致可移植性问题。文章认为Pascal更适合教学而非实际开发，这些限制使其难以成为主流编程语言。
+
+---
+
+## <a name="20"></a>20. 特斯拉推出减配版Cybertruck后驱版：性能大缩水，价格却不便宜 
+<small>🔗 [jalopnik.com](https://www.jalopnik.com/1832213/tesla-releases-cheaper-rwd-cybertruck/): Tesla Releases Stripped RWD Cybertruck: So Much Worse for Not Much Less Money</small>
+
+
+| 🔥: 57 \| 💬: [94](https://news.ycombinator.com/item?id=43673235) \| 🗓️ 2025-04-13
+
+
+<br />
+特斯拉近日推出**后驱版Cybertruck**，售价71,985美元，仅比四驱版便宜1万美元，但**配置大幅缩水**：取消空气悬架、电动卷帘盖、车内多项功能及豪华内饰，续航虽增至350英里，但加速、载重和拖拽能力均下降。对比竞品如福特F-150 Lightning等，性价比偏低。此前承诺的4万美元起售价未兑现，且车辆仍存在工艺问题，市场前景堪忧。
+
+---
+
+## <a name="21"></a>21. 修复Commodore PET的曲折历程：追踪6.5个故障芯片 
+<small>🔗 [righto.com](http://www.righto.com/2025/04/commodore-pet-repair.html): A tricky Commodore PET repair: tracking down 6 1/2 bad chips</small>
+
+
+| 🔥: 54 \| 💬: [15](https://news.ycombinator.com/item?id=43673862) \| 🗓️ 2025-04-13
+
+
+<br />
+作者回忆了修复一台1977年Commodore PET电脑的艰难过程。这台经典电脑因**ROM和RAM芯片故障**导致启动异常，屏幕显示乱码。通过**逻辑分析仪**和逆向工程工具Ghidra，团队发现数据总线信号异常，最终定位到两片损坏的ROM和四片RAM芯片。其中一片ROM因编程电压不足导致数据错误，被戏称为“半个坏芯片”。修复过程涉及替换罕见型号的MOS芯片，并借助适配器改用标准EPROM。尽管耗时费力，最终成功让这台充满怀旧意义的电脑重现图形界面。
+
+---
+
 ## <a name="22"></a>22. 特朗普关税政策再度升级，负面影响加剧 
 <small>🔗 [paulkrugman.substack.com](https://paulkrugman.substack.com/p/the-trump-tariffs-just-got-even-worse): The Trump Tariffs Just Got Even Worse</small>
 
 
-| 🔥: 44 \| 💬: [18](https://news.ycombinator.com/item?id=43671260) \| 🗓️ 2025-04-13
+| 🔥: 45 \| 💬: [18](https://news.ycombinator.com/item?id=43671260) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -291,7 +291,7 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 <small>🔗 [colean.cc](https://colean.cc/journal/2024/08sep.html): Using bad hardware: why I work in the terminal (2024)</small>
 
 
-| 🔥: 42 \| 💬: [50](https://news.ycombinator.com/item?id=43673262) \| 🗓️ 2025-04-13
+| 🔥: 42 \| 💬: [51](https://news.ycombinator.com/item?id=43673262) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -303,7 +303,7 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/newsletters/archive/2025/04/facebook-marketplace-craiglist-buy-sell/682420/): Facebook is just Craigslist now</small>
 
 
-| 🔥: 39 \| 💬: [32](https://news.ycombinator.com/item?id=43671994) \| 🗓️ 2025-04-13
+| 🔥: 40 \| 💬: [32](https://news.ycombinator.com/item?id=43671994) \| 🗓️ 2025-04-13
 
 
 <br />
