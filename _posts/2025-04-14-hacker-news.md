@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共20条，具体内容您往下读...
+总共22条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [harvard.edu](https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/): Harvard's response to federal government letter demanding changes</small>
 
 
-| 🔥🔥: 697 \| 💬: [563](https://news.ycombinator.com/item?id=43684536) \| 🗓️ 2025-04-14
+| 🔥🔥: 774 \| 💬: [615](https://news.ycombinator.com/item?id=43684536) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [geoffreylitt.com](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs): A hackable AI assistant using a single SQLite table and a handful of cron jobs</small>
 
 
-| 🔥🔥: 404 \| 💬: [100](https://news.ycombinator.com/item?id=43681287) \| 🗓️ 2025-04-14
+| 🔥🔥: 430 \| 💬: [108](https://news.ycombinator.com/item?id=43681287) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine): The path to open-sourcing the DeepSeek inference engine</small>
 
 
-| 🔥🔥: 314 \| 💬: [19](https://news.ycombinator.com/item?id=43682088) \| 🗓️ 2025-04-14
+| 🔥🔥: 334 \| 💬: [20](https://news.ycombinator.com/item?id=43682088) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -63,7 +63,7 @@ DeepSeek 团队在开源周期间开源了多个库，获得社区积极反馈�
 <small>🔗 [blog.google](https://blog.google/technology/ai/dolphingemma/): DolphinGemma: How Google AI is helping decode dolphin communication</small>
 
 
-| 🔥🔥: 205 \| 💬: [76](https://news.ycombinator.com/item?id=43680899) \| 🗓️ 2025-04-14
+| 🔥🔥: 220 \| 💬: [79](https://news.ycombinator.com/item?id=43680899) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -75,7 +75,7 @@ DeepSeek 团队在开源周期间开源了多个库，获得社区积极反馈�
 <small>🔗 [openmymind.net](https://www.openmymind.net/Zigs-New-LinkedList-API/): Zig's new LinkedList API (it's time to learn fieldParentPtr)</small>
 
 
-| 🔥🔥: 161 \| 💬: [132](https://news.ycombinator.com/item?id=43679707) \| 🗓️ 2025-04-14
+| 🔥🔥: 164 \| 💬: [133](https://news.ycombinator.com/item?id=43679707) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -87,7 +87,7 @@ Zig最新提交的`SinglyLinkedList`和`DoublyLinkedList`改用**侵入式链表
 <small>🔗 [brooks.team](https://www.brooks.team/posts/how-to-bike-across-the-country/): How to Bike Across the Country</small>
 
 
-| 🔥🔥: 138 \| 💬: [71](https://news.ycombinator.com/item?id=43681936) \| 🗓️ 2025-04-14
+| 🔥🔥: 138 \| 💬: [72](https://news.ycombinator.com/item?id=43681936) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -99,7 +99,7 @@ Zig最新提交的`SinglyLinkedList`和`DoublyLinkedList`改用**侵入式链表
 <small>🔗 [omnom.zone](https://omnom.zone/?src=hn): Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots [showcase]</small>
 
 
-| 🔥🔥: 130 \| 💬: [44](https://news.ycombinator.com/item?id=43680232) \| 🗓️ 2025-04-14
+| 🔥🔥: 136 \| 💬: [44](https://news.ycombinator.com/item?id=43680232) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -111,7 +111,7 @@ Zig最新提交的`SinglyLinkedList`和`DoublyLinkedList`改用**侵入式链表
 <small>🔗 [github.com](https://github.com/codr7/hacktical-c): Hacktical C: practical hacker's guide to the C programming language</small>
 
 
-| 🔥🔥: 123 \| 💬: [112](https://news.ycombinator.com/item?id=43679781) \| 🗓️ 2025-04-14
+| 🔥🔥: 124 \| 💬: [113](https://news.ycombinator.com/item?id=43679781) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -123,7 +123,7 @@ Zig最新提交的`SinglyLinkedList`和`DoublyLinkedList`改用**侵入式链表
 <small>🔗 [github.com](https://github.com/meilisearch/meilisearch): Meilisearch – search engine API bringing AI-powered hybrid search</small>
 
 
-| 🔥🔥: 109 \| 💬: [48](https://news.ycombinator.com/item?id=43680699) \| 🗓️ 2025-04-14
+| 🔥🔥: 113 \| 💬: [49](https://news.ycombinator.com/item?id=43680699) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -135,7 +135,7 @@ Meilisearch是一款**闪电般快速**的搜索引擎API，为网站和应用�
 <small>🔗 [wheresyoured.at](https://www.wheresyoured.at/openai-is-a-systemic-risk-to-the-tech-industry-2/): OpenAI Is a Systemic Risk to the Tech Industry</small>
 
 
-| 🔥🔥: 104 \| 💬: [98](https://news.ycombinator.com/item?id=43683071) \| 🗓️ 2025-04-14
+| 🔥🔥: 106 \| 💬: [101](https://news.ycombinator.com/item?id=43683071) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -143,35 +143,11 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
-## <a name="11"></a>11. 联邦政府致函哈佛大学要求整改 
-<small>🔗 [harvard.edu](https://www.harvard.edu/research-funding/wp-content/uploads/sites/16/2025/04/Letter-Sent-to-Harvard-2025-04-11.pdf): Federal Government's letter to Harvard demanding changes [pdf]</small>
-
-
-| 🔥: 90 \| 💬: [32](https://news.ycombinator.com/item?id=43684386) \| 🗓️ 2025-04-14
-
-
-<br />
-该PDF文件为联邦政府向哈佛大学发出的正式信函，要求其针对某些问题进行调整。内容涉及**政策合规性**、**学术管理**以及**资金使用**等关键领域。信中未明确具体细节，但强调了整改的紧迫性，并可能涉及联邦资助项目的审查。文件格式为加密PDF，无法直接提取完整文本，但标题和部分内容表明这是一份严肃的行政文件。
-
----
-
-## <a name="12"></a>12. 多伦多女子在Lyft车内聊天后收到对话转录短信 
-<small>🔗 [cbc.ca](https://www.cbc.ca/news/canada/toronto/lyft-conversation-transcribed-1.7508106): She was chatting with friends in a Lyft. Then someone texted her what they said</small>
-
-
-| 🔥: 87 \| 💬: [81](https://news.ycombinator.com/item?id=43680039) \| 🗓️ 2025-04-14
-
-
-<br />
-一名多伦多女性在Lyft乘车期间与室友的私人对话被**录音并转录为短信**发送至其手机，引发隐私担忧。Lyft公司起初称此为美国试点项目，后改口称司机**未经同意擅自录音**并已对其采取行动。加拿大隐私专家指出，此举违反**《个人信息保护与电子文件法》**，强调企业必须明确告知并获用户同意才能收集数据。事件暴露了网约车场景下的隐私风险，涉事女性呼吁Lyft加强对用户数据的保护责任。
-
----
-
-## <a name="13"></a>13. 熵到底是什么？ 
+## <a name="11"></a>11. 熵到底是什么？ 
 <small>🔗 [jasonfantl.com](https://jasonfantl.com/posts/What-is-Entropy/): What Is Entropy?</small>
 
 
-| 🔥: 83 \| 💬: [25](https://news.ycombinator.com/item?id=43684560) \| 🗓️ 2025-04-14
+| 🔥🔥: 103 \| 💬: [34](https://news.ycombinator.com/item?id=43684560) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -179,11 +155,23 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
-## <a name="14"></a>14. AudioX：全能扩散Transformer模型实现任意模态到音频生成 
+## <a name="12"></a>12. 联邦政府致函哈佛大学要求整改 
+<small>🔗 [harvard.edu](https://www.harvard.edu/research-funding/wp-content/uploads/sites/16/2025/04/Letter-Sent-to-Harvard-2025-04-11.pdf): Federal Government's letter to Harvard demanding changes [pdf]</small>
+
+
+| 🔥: 98 \| 💬: [37](https://news.ycombinator.com/item?id=43684386) \| 🗓️ 2025-04-14
+
+
+<br />
+该PDF文件为联邦政府向哈佛大学发出的正式信函，要求其针对某些问题进行调整。内容涉及**政策合规性**、**学术管理**以及**资金使用**等关键领域。信中未明确具体细节，但强调了整改的紧迫性，并可能涉及联邦资助项目的审查。文件格式为加密PDF，无法直接提取完整文本，但标题和部分内容表明这是一份严肃的行政文件。
+
+---
+
+## <a name="13"></a>13. AudioX：全能扩散Transformer模型实现任意模态到音频生成 
 <small>🔗 [zeyuet.github.io](https://zeyuet.github.io/AudioX/): AudioX: Diffusion Transformer for Anything-to-Audio Generation</small>
 
 
-| 🔥: 80 \| 💬: [9](https://news.ycombinator.com/item?id=43683907) \| 🗓️ 2025-04-14
+| 🔥: 95 \| 💬: [10](https://news.ycombinator.com/item?id=43683907) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -191,15 +179,27 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
-## <a name="15"></a>15. 欧盟向赴美工作人员发放一次性手机 防范间谍活动 
-<small>🔗 [ft.com](https://www.ft.com/content/20d0678a-41b2-468d-ac10-14ce1eae357b): EU issues US-bound staff with burner phones over spying fears</small>
+## <a name="14"></a>14. 多伦多女子在Lyft车内聊天后收到对话转录短信 
+<small>🔗 [cbc.ca](https://www.cbc.ca/news/canada/toronto/lyft-conversation-transcribed-1.7508106): She was chatting with friends in a Lyft. Then someone texted her what they said</small>
 
 
-| 🔥: 71 \| 💬: [39](https://news.ycombinator.com/item?id=43680556) \| 🗓️ 2025-04-14
+| 🔥: 89 \| 💬: [81](https://news.ycombinator.com/item?id=43680039) \| 🗓️ 2025-04-14
 
 
 <br />
-欧盟因担心**间谍风险**，向即将前往美国的官员发放**一次性手机**，以防止敏感信息被监听。此举反映出欧美在**数据安全**领域的紧张关系升级。报道还提及英国《金融时报》提供的多项订阅服务，包括政治分析和贸易战追踪等内容。
+一名多伦多女性在Lyft乘车期间与室友的私人对话被**录音并转录为短信**发送至其手机，引发隐私担忧。Lyft公司起初称此为美国试点项目，后改口称司机**未经同意擅自录音**并已对其采取行动。加拿大隐私专家指出，此举违反**《个人信息保护与电子文件法》**，强调企业必须明确告知并获用户同意才能收集数据。事件暴露了网约车场景下的隐私风险，涉事女性呼吁Lyft加强对用户数据的保护责任。
+
+---
+
+## <a name="15"></a>15. Podman Quadlets：轻量级容器管理的系统化方案 
+<small>🔗 [podman-desktop.io](https://podman-desktop.io/blog/podman-quadlet): Podman Quadlets with Podman Desktop</small>
+
+
+| 🔥: 83 \| 💬: [31](https://news.ycombinator.com/item?id=43683641) \| 🗓️ 2025-04-14
+
+
+<br />
+本文介绍了**Podman Quadlets**——一种通过**systemd**声明式管理容器的方案，适用于单机或开发场景，避免Kubernetes的臃肿。Quadlet配置文件（如`.container`）可自动生成systemd单元文件，实现容器自启、故障恢复等功能。配合**Podman Desktop扩展**，用户能可视化创建、编辑Quadlet，并集成日志查看（`journalctl`），简化跨平台管理。示例展示了如何为Nginx生成Quadlet，凸显其易用性与系统深度整合的优势。
 
 ---
 
@@ -207,7 +207,7 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 <small>🔗 [github.com](https://github.com/nathanhleung/protobuf-ts-types): Show HN: Zero-codegen, no-compile TypeScript type inference from Protobufs</small>
 
 
-| 🔥: 70 \| 💬: [37](https://news.ycombinator.com/item?id=43682547) \| 🗓️ 2025-04-14
+| 🔥: 77 \| 💬: [39](https://news.ycombinator.com/item?id=43682547) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -222,23 +222,49 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
-## <a name="17"></a>17. Podman Quadlets：轻量级容器管理的系统化方案 
-<small>🔗 [podman-desktop.io](https://podman-desktop.io/blog/podman-quadlet): Podman Quadlets with Podman Desktop</small>
+## <a name="17"></a>17. 欧盟向赴美工作人员发放一次性手机 防范间谍活动 
+<small>🔗 [ft.com](https://www.ft.com/content/20d0678a-41b2-468d-ac10-14ce1eae357b): EU issues US-bound staff with burner phones over spying fears</small>
 
 
-| 🔥: 64 \| 💬: [14](https://news.ycombinator.com/item?id=43683641) \| 🗓️ 2025-04-14
+| 🔥: 75 \| 💬: [39](https://news.ycombinator.com/item?id=43680556) \| 🗓️ 2025-04-14
 
 
 <br />
-本文介绍了**Podman Quadlets**——一种通过**systemd**声明式管理容器的方案，适用于单机或开发场景，避免Kubernetes的臃肿。Quadlet配置文件（如`.container`）可自动生成systemd单元文件，实现容器自启、故障恢复等功能。配合**Podman Desktop扩展**，用户能可视化创建、编辑Quadlet，并集成日志查看（`journalctl`），简化跨平台管理。示例展示了如何为Nginx生成Quadlet，凸显其易用性与系统深度整合的优势。
+欧盟因担心**间谍风险**，向即将前往美国的官员发放**一次性手机**，以防止敏感信息被监听。此举反映出欧美在**数据安全**领域的紧张关系升级。报道还提及英国《金融时报》提供的多项订阅服务，包括政治分析和贸易战追踪等内容。
 
 ---
 
-## <a name="18"></a>18. 白宫证实特朗普正研究"驱逐"美国公民的途径 
+## <a name="18"></a>18. 英特尔以87.5亿美元估值出售Altera 51%股权给私募银湖资本 
+<small>🔗 [newsroom.intel.com](https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025): Intel sells 51% stake in Altera to private equity firm on a $8.75B valuation</small>
+
+
+| 🔥: 74 \| 💬: [47](https://news.ycombinator.com/item?id=43686773) \| 🗓️ 2025-04-14
+
+
+<br />
+英特尔宣布将**Altera** 51%的股份出售给科技投资巨头**银湖资本**，交易估值达87.5亿美元，使Altera成为独立运营的**FPGA（现场可编程门阵列）**领域龙头企业。英特尔保留49%股权，继续参与其未来发展。新任CEO Raghib Hussain将接替Sandra Rivera，推动Altera在AI、边缘计算等新兴市场的创新。交易预计2025年下半年完成，Altera 2024年营收15.4亿美元，非GAAP运营利润3500万美元。银湖资本称此为“一代人一次的投资机会”，将助力Altera巩固技术领先地位。
+
+---
+
+## <a name="19"></a>19. 用Python给Python包加关税？这个恶搞库有点意思！ 
+<small>🔗 [pypi.org](https://pypi.org/project/tariff/): Tariff: A Python package that imposes tariffs on Python imports</small>
+
+
+| 🔥: 65 \| 💬: [6](https://news.ycombinator.com/item?id=43681752) \| 🗓️ 2025-04-14
+
+
+<br />
+**Tariff** 是一个恶搞性质的Python包，宣称要"让导入再次伟大"。它通过**模拟关税机制**，让指定第三方库的导入速度变慢——比如对`numpy`加征50%的"关税"，其导入时间就会延长50%。  
+
+该库采用**猴子补丁技术**修改导入行为，并会输出夸张的提示信息（例如"美国包正在赢！"）。作者以政治 parody 的形式调侃技术生态，明确标注"高风险娱乐项目"，采用MIT协议，**仅支持Python 3.6+**。安装只需`pip install tariff`，但建议不要在生产环境使用这种故意降低性能的玩具库。
+
+---
+
+## <a name="20"></a>20. 白宫证实特朗普正研究"驱逐"美国公民的途径 
 <small>🔗 [huffpost.com](https://www.huffpost.com/entry/white-house-confirms-trump-is-exploring-ways-to-deport-us-citizens_n_67f580abe4b0a5ea5c7608d2): White House Confirms Trump Is Exploring Ways to 'Deport' U.S. Citizens</small>
 
 
-| 🔥: 63 \| 💬: [26](https://news.ycombinator.com/item?id=43682941) \| 🗓️ 2025-04-14
+| 🔥: 64 \| 💬: [29](https://news.ycombinator.com/item?id=43682941) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -246,11 +272,11 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
-## <a name="19"></a>19. 简易网页服务器 
+## <a name="21"></a>21. 简易网页服务器 
 <small>🔗 [simplewebserver.org](https://simplewebserver.org/): Simple Web Server</small>
 
 
-| 🔥: 57 \| 💬: [32](https://news.ycombinator.com/item?id=43684009) \| 🗓️ 2025-04-14
+| 🔥: 62 \| 💬: [38](https://news.ycombinator.com/item?id=43684009) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -258,7 +284,7 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
-## <a name="20"></a>20. 我因税务软件错误多缴1.2万美元，最终从IRS成功追回！ 
+## <a name="22"></a>22. 我因税务软件错误多缴1.2万美元，最终从IRS成功追回！ 
 <small>🔗 [mikekasberg.com](https://www.mikekasberg.com/blog/2025/04/13/i-fought-the-irs-for-over-12k-and-won.html): I Fought the IRS for Over $12K and won</small>
 
 
