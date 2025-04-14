@@ -9,14 +9,14 @@ tags:
 
 
 1. 一个Reddit机器人把我逼疯了；
-1. 姆明家族的暗面；
-1. Python 的现代化日期时间库：Whenever；
 1. 股权补偿开放指南；
+1. Python 的现代化日期时间库：Whenever；
+1. 姆明家族的暗面；
 1. 为什么选择Fennel？；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [posthuman.blog](https://posthuman.blog/this-reddit-post-fried-my-brain/): A Reddit bot drove me insane</small>
 
 
-| 🔥🔥: 483 \| 💬: [231](https://news.ycombinator.com/item?id=43672139) \| 🗓️ 2025-04-13
+| 🔥🔥: 500 \| 💬: [250](https://news.ycombinator.com/item?id=43672139) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -35,35 +35,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. 姆明家族的暗面 
-<small>🔗 [newstatesman.com](https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson): The dark side of the Moomins</small>
-
-
-| 🔥🔥: 253 \| 💬: [71](https://news.ycombinator.com/item?id=43672593) \| 🗓️ 2025-04-13
-
-
-<br />
-芬兰艺术家**托芙·扬松**创作的姆明系列看似温馨，实则暗藏**战争创伤**与个人挣扎。首作《姆明与大洪水》写于1939年苏芬战争期间，讲述流离失所的故事。随着系列发展，后期作品如《姆明谷的冬天》和《姆明爸爸出海》充满**抑郁与家庭崩解**，最终以荒诞的《十一月的姆明谷》收尾，打破读者对"治愈童话"的期待。扬松将自身焦虑、孤独与愤怒投射于角色，而商业成功却让她陷入创作与现实的矛盾。
-
----
-
-## <a name="3"></a>3. Python 的现代化日期时间库：Whenever 
-<small>🔗 [github.com](https://github.com/ariebovenberg/whenever): Whenever – typed and DST-safe datetimes for Python</small>
-
-
-| 🔥🔥: 248 \| 💬: [121](https://news.ycombinator.com/item?id=43671308) \| 🗓️ 2025-04-13
-
-
-<br />
-Whenever 是一个**类型安全**且**支持夏令时（DST）**的 Python 日期时间库，提供 Rust 或纯 Python 实现。它解决了标准库 `datetime` 的常见问题，如**DST 计算错误**和**类型混淆**，同时性能优于其他第三方库。支持 RFC3339 解析、时区转换、精确到纳秒的时间操作，并通过明确的类型（如 `Instant`、`ZonedDateTime`）避免常见错误。适用于需要高可靠性和性能的时间处理场景。
-
----
-
-## <a name="4"></a>4. 股权补偿开放指南 
+## <a name="2"></a>2. 股权补偿开放指南 
 <small>🔗 [github.com](https://github.com/jlevy/og-equity-compensation): Open guide to equity compensation</small>
 
 
-| 🔥🔥: 240 \| 💬: [102](https://news.ycombinator.com/item?id=43675126) \| 🗓️ 2025-04-13
+| 🔥🔥: 262 \| 💬: [128](https://news.ycombinator.com/item?id=43675126) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -71,11 +47,35 @@ Whenever 是一个**类型安全**且**支持夏令时（DST）**的 Python 日�
 
 ---
 
+## <a name="3"></a>3. Python 的现代化日期时间库：Whenever 
+<small>🔗 [github.com](https://github.com/ariebovenberg/whenever): Whenever – typed and DST-safe datetimes for Python</small>
+
+
+| 🔥🔥: 255 \| 💬: [121](https://news.ycombinator.com/item?id=43671308) \| 🗓️ 2025-04-13
+
+
+<br />
+Whenever 是一个**类型安全**且**支持夏令时（DST）**的 Python 日期时间库，提供 Rust 或纯 Python 实现。它解决了标准库 `datetime` 的常见问题，如**DST 计算错误**和**类型混淆**，同时性能优于其他第三方库。支持 RFC3339 解析、时区转换、精确到纳秒的时间操作，并通过明确的类型（如 `Instant`、`ZonedDateTime`）避免常见错误。适用于需要高可靠性和性能的时间处理场景。
+
+---
+
+## <a name="4"></a>4. 姆明家族的暗面 
+<small>🔗 [newstatesman.com](https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson): The dark side of the Moomins</small>
+
+
+| 🔥🔥: 253 \| 💬: [73](https://news.ycombinator.com/item?id=43672593) \| 🗓️ 2025-04-13
+
+
+<br />
+芬兰艺术家**托芙·扬松**创作的姆明系列看似温馨，实则暗藏**战争创伤**与个人挣扎。首作《姆明与大洪水》写于1939年苏芬战争期间，讲述流离失所的故事。随着系列发展，后期作品如《姆明谷的冬天》和《姆明爸爸出海》充满**抑郁与家庭崩解**，最终以荒诞的《十一月的姆明谷》收尾，打破读者对"治愈童话"的期待。扬松将自身焦虑、孤独与愤怒投射于角色，而商业成功却让她陷入创作与现实的矛盾。
+
+---
+
 ## <a name="5"></a>5. 为什么选择Fennel？ 
 <small>🔗 [fennel-lang.org](https://fennel-lang.org/rationale): Why Fennel?</small>
 
 
-| 🔥🔥: 188 \| 💬: [77](https://news.ycombinator.com/item?id=43673551) \| 🗓️ 2025-04-13
+| 🔥🔥: 193 \| 💬: [80](https://news.ycombinator.com/item?id=43673551) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -99,7 +99,7 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 <small>🔗 [worksonmymachine.substack.com](https://worksonmymachine.substack.com/p/wasting-inferences-with-aider): Wasting Inferences with Aider</small>
 
 
-| 🔥🔥: 106 \| 💬: [86](https://news.ycombinator.com/item?id=43672712) \| 🗓️ 2025-04-13
+| 🔥🔥: 110 \| 💬: [88](https://news.ycombinator.com/item?id=43672712) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -111,7 +111,7 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 <small>🔗 [seattletimes.com](https://www.seattletimes.com/seattle-news/data/half-the-men-in-seattle-are-never-married-singles-for-the-first-time/): Half the men in Seattle are never-married singles, census data shows</small>
 
 
-| 🔥🔥: 103 \| 💬: [168](https://news.ycombinator.com/item?id=43673125) \| 🗓️ 2025-04-13
+| 🔥🔥: 104 \| 💬: [168](https://news.ycombinator.com/item?id=43673125) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -123,7 +123,7 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 <small>🔗 [grumpy.systems](https://grumpy.systems/2023/please-dont-sell-space-in-your-homelab/): Don't sell space in your homelab (2023)</small>
 
 
-| 🔥: 97 \| 💬: [82](https://news.ycombinator.com/item?id=43674267) \| 🗓️ 2025-04-13
+| 🔥: 97 \| 💬: [84](https://news.ycombinator.com/item?id=43674267) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -135,7 +135,7 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 <small>🔗 [math.uci.edu](https://www.math.uci.edu/~ndonalds/math13/notes.pdf): Math 13 – An Introduction to Abstract Mathematics [pdf]</small>
 
 
-| 🔥: 86 \| 💬: [4](https://news.ycombinator.com/item?id=43675310) \| 🗓️ 2025-04-13
+| 🔥: 93 \| 💬: [4](https://news.ycombinator.com/item?id=43675310) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -167,23 +167,11 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 
 ---
 
-## <a name="13"></a>13. 我的虚拟孩子不需要你的流媒体服务 
-<small>🔗 [shkspr.mobi](https://shkspr.mobi/blog/2021/04/my-imaginary-children-arent-using-your-streaming-service/): My imaginary children aren't using your streaming service</small>
-
-
-| 🔥: 76 \| 💬: [118](https://news.ycombinator.com/item?id=43671098) \| 🗓️ 2025-04-13
-
-
-<br />
-每当打开Netflix时，系统总会询问是否要为孩子创建账户。作者既没有孩子，也不喜欢孩子，认为这种反复提醒既烦人又可能对**失去孩子的父母**或**不孕不育群体**造成伤害。多个流媒体平台（如BBC iPlayer、Amazon Prime、Channel 4）强制推送儿童账户或家长锁功能，且部分无法关闭。数据显示，**英国42%的家庭无子女**，但平台仍过度强调“儿童安全”，甚至影响用户体验。作者建议增加“不再询问”选项，并呼吁服务商尊重无子女用户的需求。
-
----
-
-## <a name="14"></a>14. EXWM：基于Emacs的X窗口管理器 
+## <a name="13"></a>13. EXWM：基于Emacs的X窗口管理器 
 <small>🔗 [github.com](https://github.com/emacs-exwm/exwm): Exwm: Emacs X Window Manager</small>
 
 
-| 🔥: 75 \| 💬: [18](https://news.ycombinator.com/item?id=43674233) \| 🗓️ 2025-04-13
+| 🔥: 80 \| 💬: [19](https://news.ycombinator.com/item?id=43674233) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -191,11 +179,23 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 
 ---
 
+## <a name="14"></a>14. 我的虚拟孩子不需要你的流媒体服务 
+<small>🔗 [shkspr.mobi](https://shkspr.mobi/blog/2021/04/my-imaginary-children-arent-using-your-streaming-service/): My imaginary children aren't using your streaming service</small>
+
+
+| 🔥: 79 \| 💬: [118](https://news.ycombinator.com/item?id=43671098) \| 🗓️ 2025-04-13
+
+
+<br />
+每当打开Netflix时，系统总会询问是否要为孩子创建账户。作者既没有孩子，也不喜欢孩子，认为这种反复提醒既烦人又可能对**失去孩子的父母**或**不孕不育群体**造成伤害。多个流媒体平台（如BBC iPlayer、Amazon Prime、Channel 4）强制推送儿童账户或家长锁功能，且部分无法关闭。数据显示，**英国42%的家庭无子女**，但平台仍过度强调“儿童安全”，甚至影响用户体验。作者建议增加“不再询问”选项，并呼吁服务商尊重无子女用户的需求。
+
+---
+
 ## <a name="15"></a>15. 红网袋如何让橙子看起来更橙？ 
 <small>🔗 [alexanderell.is](https://alexanderell.is/posts/orange/): How much oranger do red orange bags make oranges look?</small>
 
 
-| 🔥: 69 \| 💬: [46](https://news.ycombinator.com/item?id=43673761) \| 🗓️ 2025-04-13
+| 🔥: 74 \| 💬: [47](https://news.ycombinator.com/item?id=43673761) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -203,7 +203,19 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 
 ---
 
-## <a name="16"></a>16. 美国科技关税豁免或仅为临时措施 
+## <a name="16"></a>16. 从零实现DeepSeek R1的GRPO算法 
+<small>🔗 [github.com](https://github.com/policy-gradient/GRPO-Zero): Implementing DeepSeek R1's GRPO algorithm from scratch</small>
+
+
+| 🔥: 71 \| 💬: [0](https://news.ycombinator.com/item?id=43674825) \| 🗓️ 2025-04-13
+
+
+<br />
+该项目基于**GRPO算法**（分组相对策略优化），通过强化学习训练大语言模型解决数学任务。核心改进包括：**Token级策略梯度损失**（平等加权每个Token）、移除KL散度以节省显存、支持过长片段过滤。实验使用Qwen2.5-3B模型，在「倒计时」任务（用给定数字生成目标值的表达式）中，结合格式奖励（0.1分）和答案正确性奖励（1分）进行训练。代码仅依赖PyTorch和tokenizers，默认配置可在单卡A40（48GB显存）上运行数小时。
+
+---
+
+## <a name="17"></a>17. 美国科技关税豁免或仅为临时措施 
 <small>🔗 [ft.com](https://www.ft.com/content/9038804f-cf69-4193-9332-8b5ea1f9af4b): US tech tariff exemption may only be temporary, says Lutnick</small>
 
 
@@ -215,19 +227,19 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 
 ---
 
-## <a name="17"></a>17. 从零实现DeepSeek R1的GRPO算法 
-<small>🔗 [github.com](https://github.com/policy-gradient/GRPO-Zero): Implementing DeepSeek R1's GRPO algorithm from scratch</small>
+## <a name="18"></a>18. MCP协议的三重隐患：安全漏洞、交互缺陷与数据风险 
+<small>🔗 [blog.sshh.io](https://blog.sshh.io/p/everything-wrong-with-mcp): Everything wrong with MCP</small>
 
 
-| 🔥: 61 \| 💬: [0](https://news.ycombinator.com/item?id=43674825) \| 🗓️ 2025-04-13
+| 🔥: 62 \| 💬: [22](https://news.ycombinator.com/item?id=43676771) \| 🗓️ 2025-04-13
 
 
 <br />
-该项目基于**GRPO算法**（分组相对策略优化），通过强化学习训练大语言模型解决数学任务。核心改进包括：**Token级策略梯度损失**（平等加权每个Token）、移除KL散度以节省显存、支持过长片段过滤。实验使用Qwen2.5-3B模型，在「倒计时」任务（用给定数字生成目标值的表达式）中，结合格式奖励（0.1分）和答案正确性奖励（1分）进行训练。代码仅依赖PyTorch和tokenizers，默认配置可在单卡A40（48GB显存）上运行数小时。
+本文剖析了**模型上下文协议（MCP）**作为LLM工具集成标准的潜在问题：**协议安全性**（本地恶意代码执行、动态工具篡改）、**交互设计缺陷**（缺乏风险分级与成本控制）以及**LLM安全风险**（提示注入攻击、敏感数据意外泄露）。作者指出，尽管MCP提升了AI代理的自主性，但其宽松的权限机制和文本导向设计可能引发数据滥用与安全漏洞，需开发者与用户高度警惕。
 
 ---
 
-## <a name="18"></a>18. AMD NPU与Xilinx Versal AI引擎在射电天文信号处理中的应用（2024） 
+## <a name="19"></a>19. AMD NPU与Xilinx Versal AI引擎在射电天文信号处理中的应用（2024） 
 <small>🔗 [git.astron.nl](https://git.astron.nl/RD/acap/-/raw/main/Presentation_FPL24_Vincent_Sprave.pdf): AMD NPU and Xilinx Versal AI Engines Signal Processing in Radio Astronomy (2024) [pdf]</small>
 
 
@@ -239,7 +251,7 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 
 ---
 
-## <a name="19"></a>19. 为什么Pascal不是我最爱的编程语言（1981） 
+## <a name="20"></a>20. 为什么Pascal不是我最爱的编程语言（1981） 
 <small>🔗 [doc.cat-v.org](https://doc.cat-v.org/bell_labs/why_pascal/why_pascal_is_not_my_favorite_language.pdf): Why Pascal is not my favorite programming language (1981) [pdf]</small>
 
 
@@ -251,11 +263,11 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 
 ---
 
-## <a name="20"></a>20. 特斯拉推出减配版Cybertruck后驱版：性能大缩水，价格却不便宜 
+## <a name="21"></a>21. 特斯拉推出减配版Cybertruck后驱版：性能大缩水，价格却不便宜 
 <small>🔗 [jalopnik.com](https://www.jalopnik.com/1832213/tesla-releases-cheaper-rwd-cybertruck/): Tesla Releases Stripped RWD Cybertruck: So Much Worse for Not Much Less Money</small>
 
 
-| 🔥: 57 \| 💬: [94](https://news.ycombinator.com/item?id=43673235) \| 🗓️ 2025-04-13
+| 🔥: 57 \| 💬: [97](https://news.ycombinator.com/item?id=43673235) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -263,11 +275,11 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 
 ---
 
-## <a name="21"></a>21. 修复Commodore PET的曲折历程：追踪6.5个故障芯片 
+## <a name="22"></a>22. 修复Commodore PET的曲折历程：追踪6.5个故障芯片 
 <small>🔗 [righto.com](http://www.righto.com/2025/04/commodore-pet-repair.html): A tricky Commodore PET repair: tracking down 6 1/2 bad chips</small>
 
 
-| 🔥: 54 \| 💬: [15](https://news.ycombinator.com/item?id=43673862) \| 🗓️ 2025-04-13
+| 🔥: 57 \| 💬: [19](https://news.ycombinator.com/item?id=43673862) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -275,11 +287,23 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 
 ---
 
-## <a name="22"></a>22. 特朗普关税政策再度升级，负面影响加剧 
+## <a name="23"></a>23. Ollama与LangChain快速入门：MCP协议解析与实践 
+<small>🔗 [polarsparc.com](https://www.polarsparc.com/xhtml/MCP.html): Quick Primer on MCP Using Ollama and LangChain</small>
+
+
+| 🔥: 54 \| 💬: [9](https://news.ycombinator.com/item?id=43676084) \| 🗓️ 2025-04-13
+
+
+<br />
+本文介绍了**Model Context Protocol (MCP)**如何标准化LLM应用与企业工具的集成。MCP包含三个核心组件：**MCP Server**（连接数据源和工具）、**MCP Client**（标准化交互）和**MCP Host**（LLM应用）。通过Python示例演示了如何利用Ollama运行IBM Granite模型，并使用LangChain构建基于MCP的利息计算工具。MCP支持两种通信方式：**stdio**（命令行）和**sse**（网络服务），解决了框架间工具集成的碎片化问题。
+
+---
+
+## <a name="24"></a>24. 特朗普关税政策再度升级，负面影响加剧 
 <small>🔗 [paulkrugman.substack.com](https://paulkrugman.substack.com/p/the-trump-tariffs-just-got-even-worse): The Trump Tariffs Just Got Even Worse</small>
 
 
-| 🔥: 45 \| 💬: [18](https://news.ycombinator.com/item?id=43671260) \| 🗓️ 2025-04-13
+| 🔥: 46 \| 💬: [18](https://news.ycombinator.com/item?id=43671260) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -287,26 +311,14 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 
 ---
 
-## <a name="23"></a>23. 用低配硬件工作：我为何选择终端开发（2024） 
+## <a name="25"></a>25. 用低配硬件工作：我为何选择终端开发（2024） 
 <small>🔗 [colean.cc](https://colean.cc/journal/2024/08sep.html): Using bad hardware: why I work in the terminal (2024)</small>
 
 
-| 🔥: 42 \| 💬: [51](https://news.ycombinator.com/item?id=43673262) \| 🗓️ 2025-04-13
+| 🔥: 43 \| 💬: [51](https://news.ycombinator.com/item?id=43673262) \| 🗓️ 2025-04-13
 
 
 <br />
 作者长期使用**低性能设备**（如Intel Atom/Celeron处理器）进行编程，其高效工作流的核心在于：**Linux系统**（推荐轻量发行版如Arch）、**窗口管理器i3wm**（键盘驱动、低资源占用）以及**终端文本编辑器Neovim**（跨平台统一体验）。这套组合兼顾便携性与性能，尤其适合老旧硬件，同时贯彻**最小依赖原则**，避免功能冗余。全文强调工具链的自定义与极简主义。
-
----
-
-## <a name="24"></a>24. Facebook已沦为升级版Craigslist 
-<small>🔗 [theatlantic.com](https://www.theatlantic.com/newsletters/archive/2025/04/facebook-marketplace-craiglist-buy-sell/682420/): Facebook is just Craigslist now</small>
-
-
-| 🔥: 40 \| 💬: [32](https://news.ycombinator.com/item?id=43671994) \| 🗓️ 2025-04-13
-
-
-<br />
-这篇文章探讨了**Facebook Marketplace**如何逐渐取代Craigslist成为主流二手交易平台。作者指出，尽管界面粗糙、充斥**诈骗广告**和虚假标价，该功能仍吸引了12亿月活用户，甚至挽留了原本逃离Facebook的年轻群体。平台本质从社交连接转向**数字集市**，但讽刺的是，真正促进人际关系的反而是反商业的"Buy Nothing"赠物群组。文章揭示了社交媒体的终极悖论：当连接沦为交易，人们反而通过无偿给予重建真实纽带。
 
 ---
