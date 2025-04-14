@@ -10,8 +10,8 @@ tags:
 
 1. 一个Reddit机器人把我逼疯了；
 1. 股权补偿开放指南；
-1. Python 的现代化日期时间库：Whenever；
 1. 姆明家族的暗面；
+1. Python 的现代化日期时间库：Whenever；
 1. 为什么选择Fennel？；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [posthuman.blog](https://posthuman.blog/this-reddit-post-fried-my-brain/): A Reddit bot drove me insane</small>
 
 
-| 🔥🔥: 511 \| 💬: [266](https://news.ycombinator.com/item?id=43672139) \| 🗓️ 2025-04-13
+| 🔥🔥: 523 \| 💬: [269](https://news.ycombinator.com/item?id=43672139) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/jlevy/og-equity-compensation): Open guide to equity compensation</small>
 
 
-| 🔥🔥: 276 \| 💬: [143](https://news.ycombinator.com/item?id=43675126) \| 🗓️ 2025-04-13
+| 🔥🔥: 305 \| 💬: [148](https://news.ycombinator.com/item?id=43675126) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -47,23 +47,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. Python 的现代化日期时间库：Whenever 
-<small>🔗 [github.com](https://github.com/ariebovenberg/whenever): Whenever – typed and DST-safe datetimes for Python</small>
-
-
-| 🔥🔥: 259 \| 💬: [121](https://news.ycombinator.com/item?id=43671308) \| 🗓️ 2025-04-13
-
-
-<br />
-Whenever 是一个**类型安全**且**支持夏令时（DST）**的 Python 日期时间库，提供 Rust 或纯 Python 实现。它解决了标准库 `datetime` 的常见问题，如**DST 计算错误**和**类型混淆**，同时性能优于其他第三方库。支持 RFC3339 解析、时区转换、精确到纳秒的时间操作，并通过明确的类型（如 `Instant`、`ZonedDateTime`）避免常见错误。适用于需要高可靠性和性能的时间处理场景。
-
----
-
-## <a name="4"></a>4. 姆明家族的暗面 
+## <a name="3"></a>3. 姆明家族的暗面 
 <small>🔗 [newstatesman.com](https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson): The dark side of the Moomins</small>
 
 
-| 🔥🔥: 258 \| 💬: [73](https://news.ycombinator.com/item?id=43672593) \| 🗓️ 2025-04-13
+| 🔥🔥: 265 \| 💬: [74](https://news.ycombinator.com/item?id=43672593) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -71,11 +59,23 @@ Whenever 是一个**类型安全**且**支持夏令时（DST）**的 Python 日�
 
 ---
 
+## <a name="4"></a>4. Python 的现代化日期时间库：Whenever 
+<small>🔗 [github.com](https://github.com/ariebovenberg/whenever): Whenever – typed and DST-safe datetimes for Python</small>
+
+
+| 🔥🔥: 262 \| 💬: [122](https://news.ycombinator.com/item?id=43671308) \| 🗓️ 2025-04-13
+
+
+<br />
+Whenever 是一个**类型安全**且**支持夏令时（DST）**的 Python 日期时间库，提供 Rust 或纯 Python 实现。它解决了标准库 `datetime` 的常见问题，如**DST 计算错误**和**类型混淆**，同时性能优于其他第三方库。支持 RFC3339 解析、时区转换、精确到纳秒的时间操作，并通过明确的类型（如 `Instant`、`ZonedDateTime`）避免常见错误。适用于需要高可靠性和性能的时间处理场景。
+
+---
+
 ## <a name="5"></a>5. 为什么选择Fennel？ 
 <small>🔗 [fennel-lang.org](https://fennel-lang.org/rationale): Why Fennel?</small>
 
 
-| 🔥🔥: 194 \| 💬: [81](https://news.ycombinator.com/item?id=43673551) \| 🗓️ 2025-04-13
+| 🔥🔥: 201 \| 💬: [86](https://news.ycombinator.com/item?id=43673551) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -87,7 +87,7 @@ Fennel是基于**Lua运行时**的编程语言，继承了Lua的轻量、高效�
 <small>🔗 [github.com](https://github.com/SkyworkAI/Skywork-OR1): Skywork-OR1: new SOTA 32B thinking model with open weight</small>
 
 
-| 🔥🔥: 136 \| 💬: [28](https://news.ycombinator.com/item?id=43673151) \| 🗓️ 2025-04-13
+| 🔥🔥: 137 \| 💬: [28](https://news.ycombinator.com/item?id=43673151) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -99,7 +99,7 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 <small>🔗 [worksonmymachine.substack.com](https://worksonmymachine.substack.com/p/wasting-inferences-with-aider): Wasting Inferences with Aider</small>
 
 
-| 🔥🔥: 111 \| 💬: [90](https://news.ycombinator.com/item?id=43672712) \| 🗓️ 2025-04-13
+| 🔥🔥: 113 \| 💬: [90](https://news.ycombinator.com/item?id=43672712) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -111,7 +111,7 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 <small>🔗 [seattletimes.com](https://www.seattletimes.com/seattle-news/data/half-the-men-in-seattle-are-never-married-singles-for-the-first-time/): Half the men in Seattle are never-married singles, census data shows</small>
 
 
-| 🔥🔥: 105 \| 💬: [168](https://news.ycombinator.com/item?id=43673125) \| 🗓️ 2025-04-13
+| 🔥🔥: 108 \| 💬: [172](https://news.ycombinator.com/item?id=43673125) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -123,7 +123,7 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 <small>🔗 [math.uci.edu](https://www.math.uci.edu/~ndonalds/math13/notes.pdf): Math 13 – An Introduction to Abstract Mathematics [pdf]</small>
 
 
-| 🔥🔥: 101 \| 💬: [6](https://news.ycombinator.com/item?id=43675310) \| 🗓️ 2025-04-13
+| 🔥🔥: 107 \| 💬: [6](https://news.ycombinator.com/item?id=43675310) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -131,23 +131,11 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 
 ---
 
-## <a name="10"></a>10. 别在家用服务器上出售闲置空间（2023） 
-<small>🔗 [grumpy.systems](https://grumpy.systems/2023/please-dont-sell-space-in-your-homelab/): Don't sell space in your homelab (2023)</small>
-
-
-| 🔥: 100 \| 💬: [86](https://news.ycombinator.com/item?id=43674267) \| 🗓️ 2025-04-13
-
-
-<br />
-作者强烈建议不要将家用服务器的闲置空间商业化出租。**法律风险**、**硬件可靠性**和**网络安全**是主要障碍：住宅网络不符合商用需求，客户可能滥用服务导致法律纠纷，且维护成本（如备份、升级、合规审计）远超收益。若想利用闲置资源，可考虑为朋友托管、参与公益计算（如Folding@Home）或精简设备。
-
----
-
-## <a name="11"></a>11. MCP协议的三重隐患：安全漏洞、交互缺陷与数据风险 
+## <a name="10"></a>10. MCP协议的三重隐患：安全漏洞、交互缺陷与数据风险 
 <small>🔗 [blog.sshh.io](https://blog.sshh.io/p/everything-wrong-with-mcp): Everything wrong with MCP</small>
 
 
-| 🔥: 88 \| 💬: [45](https://news.ycombinator.com/item?id=43676771) \| 🗓️ 2025-04-13
+| 🔥🔥: 104 \| 💬: [55](https://news.ycombinator.com/item?id=43676771) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -155,11 +143,35 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 
 ---
 
-## <a name="12"></a>12. 红网袋如何让橙子看起来更橙？ 
+## <a name="11"></a>11. 别在家用服务器上出售闲置空间（2023） 
+<small>🔗 [grumpy.systems](https://grumpy.systems/2023/please-dont-sell-space-in-your-homelab/): Don't sell space in your homelab (2023)</small>
+
+
+| 🔥🔥: 103 \| 💬: [86](https://news.ycombinator.com/item?id=43674267) \| 🗓️ 2025-04-13
+
+
+<br />
+作者强烈建议不要将家用服务器的闲置空间商业化出租。**法律风险**、**硬件可靠性**和**网络安全**是主要障碍：住宅网络不符合商用需求，客户可能滥用服务导致法律纠纷，且维护成本（如备份、升级、合规审计）远超收益。若想利用闲置资源，可考虑为朋友托管、参与公益计算（如Folding@Home）或精简设备。
+
+---
+
+## <a name="12"></a>12. 我买了一台古董Mac电脑的奇幻冒险 
+<small>🔗 [loganius.org](https://loganius.org/2025/04/i-bought-a-mac/): I bought a Mac</small>
+
+
+| 🔥🔥: 103 \| 💬: [61](https://news.ycombinator.com/item?id=43677165) \| 🗓️ 2025-04-13
+
+
+<br />
+作者在2025年1月购入了一台2002年的**PowerMac G4 MDD**，初衷是为了修复Wii U的Linux内核问题，却意外开启了一段折腾之旅。这台电脑到手时几乎是个空壳，缺内存、硬盘和电池，作者不得不四处淘配件，甚至冒险改装**噪音巨大的风扇**。尽管最终问题被他人抢先解决，但这段经历让他体验了PowerPC时代的硬件魅力，也吐槽了苹果设计的反人类细节（比如电源里的扎带）。全文充满自嘲与硬核极客精神，结尾还晒了这台“工业美学怪兽”的靓照。
+
+---
+
+## <a name="13"></a>13. 红网袋如何让橙子看起来更橙？ 
 <small>🔗 [alexanderell.is](https://alexanderell.is/posts/orange/): How much oranger do red orange bags make oranges look?</small>
 
 
-| 🔥: 85 \| 💬: [51](https://news.ycombinator.com/item?id=43673761) \| 🗓️ 2025-04-13
+| 🔥: 90 \| 💬: [52](https://news.ycombinator.com/item?id=43673761) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -167,35 +179,11 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 
 ---
 
-## <a name="13"></a>13. 经典杂志《Compute!'s Gazette》时隔35年复刊，聚焦复古计算 
-<small>🔗 [computesgazette.com](https://www.computesgazette.com/): Compute's Gazette Magazine Returns After 35 Yrs, Will Focus on Retro Computing</small>
-
-
-| 🔥: 84 \| 💬: [30](https://news.ycombinator.com/item?id=43671861) \| 🗓️ 2025-04-13
-
-
-<br />
-停刊35年的**《Compute!'s Gazette》**宣布将于2025年7月复刊，推出全新印刷版与数字版，内容涵盖**复古计算**黄金时代的深度文章、开发技巧及怀旧故事。首期刊物开放预购，同时探讨生成式AI对游戏开发的影响。杂志将扩展为整个复古计算社区服务，并呼吁支持本地复古街机文化。总部位于得克萨斯州，订阅计划已上线。
-
----
-
-## <a name="14"></a>14. 用C#制作SNES游戏ROM 
-<small>🔗 [reddit.com](https://www.reddit.com/r/dotnet/s/fhm4TUNhlX): Making SNES ROMs using C#</small>
-
-
-| 🔥: 82 \| 💬: [15](https://news.ycombinator.com/item?id=43673011) \| 🗓️ 2025-04-13
-
-
-<br />
-开发者KallDrexx分享了一个实验性项目**DotnetSnes**，通过**dntc转译器**将C#代码转为C语言，再结合PVSnesLib SDK编译成可在真实SNES硬件运行的ROM。项目已成功移植马里奥平台游戏示例，但需注意SNES限制（如禁用动态内存分配）。尽管部分代码不够符合C#习惯，但展示了.NET生态跨硬件平台的潜力。
-
----
-
-## <a name="15"></a>15. EXWM：基于Emacs的X窗口管理器 
+## <a name="14"></a>14. EXWM：基于Emacs的X窗口管理器 
 <small>🔗 [github.com](https://github.com/emacs-exwm/exwm): Exwm: Emacs X Window Manager</small>
 
 
-| 🔥: 82 \| 💬: [21](https://news.ycombinator.com/item?id=43674233) \| 🗓️ 2025-04-13
+| 🔥: 87 \| 💬: [21](https://news.ycombinator.com/item?id=43674233) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -203,7 +191,43 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 
 ---
 
-## <a name="16"></a>16. 我的虚拟孩子不需要你的流媒体服务 
+## <a name="15"></a>15. 经典杂志《Compute!'s Gazette》时隔35年复刊，聚焦复古计算 
+<small>🔗 [computesgazette.com](https://www.computesgazette.com/): Compute's Gazette Magazine Returns After 35 Yrs, Will Focus on Retro Computing</small>
+
+
+| 🔥: 85 \| 💬: [30](https://news.ycombinator.com/item?id=43671861) \| 🗓️ 2025-04-13
+
+
+<br />
+停刊35年的**《Compute!'s Gazette》**宣布将于2025年7月复刊，推出全新印刷版与数字版，内容涵盖**复古计算**黄金时代的深度文章、开发技巧及怀旧故事。首期刊物开放预购，同时探讨生成式AI对游戏开发的影响。杂志将扩展为整个复古计算社区服务，并呼吁支持本地复古街机文化。总部位于得克萨斯州，订阅计划已上线。
+
+---
+
+## <a name="16"></a>16. 用C#制作SNES游戏ROM 
+<small>🔗 [reddit.com](https://www.reddit.com/r/dotnet/s/fhm4TUNhlX): Making SNES ROMs using C#</small>
+
+
+| 🔥: 84 \| 💬: [16](https://news.ycombinator.com/item?id=43673011) \| 🗓️ 2025-04-13
+
+
+<br />
+开发者KallDrexx分享了一个实验性项目**DotnetSnes**，通过**dntc转译器**将C#代码转为C语言，再结合PVSnesLib SDK编译成可在真实SNES硬件运行的ROM。项目已成功移植马里奥平台游戏示例，但需注意SNES限制（如禁用动态内存分配）。尽管部分代码不够符合C#习惯，但展示了.NET生态跨硬件平台的潜力。
+
+---
+
+## <a name="17"></a>17. 从零实现DeepSeek R1的GRPO算法 
+<small>🔗 [github.com](https://github.com/policy-gradient/GRPO-Zero): Implementing DeepSeek R1's GRPO algorithm from scratch</small>
+
+
+| 🔥: 83 \| 💬: [0](https://news.ycombinator.com/item?id=43674825) \| 🗓️ 2025-04-13
+
+
+<br />
+该项目基于**GRPO算法**（分组相对策略优化），通过强化学习训练大语言模型解决数学任务。核心改进包括：**Token级策略梯度损失**（平等加权每个Token）、移除KL散度以节省显存、支持过长片段过滤。实验使用Qwen2.5-3B模型，在「倒计时」任务（用给定数字生成目标值的表达式）中，结合格式奖励（0.1分）和答案正确性奖励（1分）进行训练。代码仅依赖PyTorch和tokenizers，默认配置可在单卡A40（48GB显存）上运行数小时。
+
+---
+
+## <a name="18"></a>18. 我的虚拟孩子不需要你的流媒体服务 
 <small>🔗 [shkspr.mobi](https://shkspr.mobi/blog/2021/04/my-imaginary-children-arent-using-your-streaming-service/): My imaginary children aren't using your streaming service</small>
 
 
@@ -215,31 +239,31 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 
 ---
 
-## <a name="17"></a>17. 我买了一台古董Mac电脑的奇幻冒险 
-<small>🔗 [loganius.org](https://loganius.org/2025/04/i-bought-a-mac/): I bought a Mac</small>
+## <a name="19"></a>19. 免费SEC文件分析工具：自动生成详细财报摘要 
+<small>🔗 [signalbloom.ai](https://www.signalbloom.ai/news/): Show HN: I made a free tool that analyzes SEC filings and posts detailed reports</small>
 
 
-| 🔥: 77 \| 💬: [52](https://news.ycombinator.com/item?id=43677165) \| 🗓️ 2025-04-13
-
-
-<br />
-作者在2025年1月购入了一台2002年的**PowerMac G4 MDD**，初衷是为了修复Wii U的Linux内核问题，却意外开启了一段折腾之旅。这台电脑到手时几乎是个空壳，缺内存、硬盘和电池，作者不得不四处淘配件，甚至冒险改装**噪音巨大的风扇**。尽管最终问题被他人抢先解决，但这段经历让他体验了PowerPC时代的硬件魅力，也吐槽了苹果设计的反人类细节（比如电源里的扎带）。全文充满自嘲与硬核极客精神，结尾还晒了这台“工业美学怪兽”的靓照。
-
----
-
-## <a name="18"></a>18. 从零实现DeepSeek R1的GRPO算法 
-<small>🔗 [github.com](https://github.com/policy-gradient/GRPO-Zero): Implementing DeepSeek R1's GRPO algorithm from scratch</small>
-
-
-| 🔥: 76 \| 💬: [0](https://news.ycombinator.com/item?id=43674825) \| 🗓️ 2025-04-13
+| 🔥: 78 \| 💬: [27](https://news.ycombinator.com/item?id=43675248) \| 🗓️ 2025-04-13
 
 
 <br />
-该项目基于**GRPO算法**（分组相对策略优化），通过强化学习训练大语言模型解决数学任务。核心改进包括：**Token级策略梯度损失**（平等加权每个Token）、移除KL散度以节省显存、支持过长片段过滤。实验使用Qwen2.5-3B模型，在「倒计时」任务（用给定数字生成目标值的表达式）中，结合格式奖励（0.1分）和答案正确性奖励（1分）进行训练。代码仅依赖PyTorch和tokenizers，默认配置可在单卡A40（48GB显存）上运行数小时。
+Wilson Bank Holding Company (**WBHC**)公布2025年**第一季度强劲业绩**，每股收益(**EPS**)同比显著增长，资产负债表持续扩张。该工具可自动解析SEC文件并生成深度报告，帮助投资者快速获取关键财务数据。5分钟即可阅读完整分析。
 
 ---
 
-## <a name="19"></a>19. 美国科技关税豁免或仅为临时措施 
+## <a name="20"></a>20. Ollama与LangChain快速入门：MCP协议解析与实践 
+<small>🔗 [polarsparc.com](https://www.polarsparc.com/xhtml/MCP.html): Quick Primer on MCP Using Ollama and LangChain</small>
+
+
+| 🔥: 72 \| 💬: [11](https://news.ycombinator.com/item?id=43676084) \| 🗓️ 2025-04-13
+
+
+<br />
+本文介绍了**Model Context Protocol (MCP)**如何标准化LLM应用与企业工具的集成。MCP包含三个核心组件：**MCP Server**（连接数据源和工具）、**MCP Client**（标准化交互）和**MCP Host**（LLM应用）。通过Python示例演示了如何利用Ollama运行IBM Granite模型，并使用LangChain构建基于MCP的利息计算工具。MCP支持两种通信方式：**stdio**（命令行）和**sse**（网络服务），解决了框架间工具集成的碎片化问题。
+
+---
+
+## <a name="21"></a>21. 美国科技关税豁免或仅为临时措施 
 <small>🔗 [ft.com](https://www.ft.com/content/9038804f-cf69-4193-9332-8b5ea1f9af4b): US tech tariff exemption may only be temporary, says Lutnick</small>
 
 
@@ -251,23 +275,11 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 
 ---
 
-## <a name="20"></a>20. Ollama与LangChain快速入门：MCP协议解析与实践 
-<small>🔗 [polarsparc.com](https://www.polarsparc.com/xhtml/MCP.html): Quick Primer on MCP Using Ollama and LangChain</small>
-
-
-| 🔥: 62 \| 💬: [11](https://news.ycombinator.com/item?id=43676084) \| 🗓️ 2025-04-13
-
-
-<br />
-本文介绍了**Model Context Protocol (MCP)**如何标准化LLM应用与企业工具的集成。MCP包含三个核心组件：**MCP Server**（连接数据源和工具）、**MCP Client**（标准化交互）和**MCP Host**（LLM应用）。通过Python示例演示了如何利用Ollama运行IBM Granite模型，并使用LangChain构建基于MCP的利息计算工具。MCP支持两种通信方式：**stdio**（命令行）和**sse**（网络服务），解决了框架间工具集成的碎片化问题。
-
----
-
-## <a name="21"></a>21. AMD NPU与Xilinx Versal AI引擎在射电天文信号处理中的应用（2024） 
+## <a name="22"></a>22. AMD NPU与Xilinx Versal AI引擎在射电天文信号处理中的应用（2024） 
 <small>🔗 [git.astron.nl](https://git.astron.nl/RD/acap/-/raw/main/Presentation_FPL24_Vincent_Sprave.pdf): AMD NPU and Xilinx Versal AI Engines Signal Processing in Radio Astronomy (2024) [pdf]</small>
 
 
-| 🔥: 59 \| 💬: [26](https://news.ycombinator.com/item?id=43671940) \| 🗓️ 2025-04-13
+| 🔥: 60 \| 💬: [27](https://news.ycombinator.com/item?id=43671940) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -275,23 +287,11 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 
 ---
 
-## <a name="22"></a>22. 修复Commodore PET的曲折历程：追踪6.5个故障芯片 
-<small>🔗 [righto.com](http://www.righto.com/2025/04/commodore-pet-repair.html): A tricky Commodore PET repair: tracking down 6 1/2 bad chips</small>
-
-
-| 🔥: 59 \| 💬: [20](https://news.ycombinator.com/item?id=43673862) \| 🗓️ 2025-04-13
-
-
-<br />
-作者回忆了修复一台1977年Commodore PET电脑的艰难过程。这台经典电脑因**ROM和RAM芯片故障**导致启动异常，屏幕显示乱码。通过**逻辑分析仪**和逆向工程工具Ghidra，团队发现数据总线信号异常，最终定位到两片损坏的ROM和四片RAM芯片。其中一片ROM因编程电压不足导致数据错误，被戏称为“半个坏芯片”。修复过程涉及替换罕见型号的MOS芯片，并借助适配器改用标准EPROM。尽管耗时费力，最终成功让这台充满怀旧意义的电脑重现图形界面。
-
----
-
 ## <a name="23"></a>23. 为什么Pascal不是我最爱的编程语言（1981） 
 <small>🔗 [doc.cat-v.org](https://doc.cat-v.org/bell_labs/why_pascal/why_pascal_is_not_my_favorite_language.pdf): Why Pascal is not my favorite programming language (1981) [pdf]</small>
 
 
-| 🔥: 58 \| 💬: [67](https://news.ycombinator.com/item?id=43672975) \| 🗓️ 2025-04-13
+| 🔥: 60 \| 💬: [68](https://news.ycombinator.com/item?id=43672975) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -299,15 +299,15 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 
 ---
 
-## <a name="24"></a>24. 免费SEC文件分析工具：自动生成详细财报摘要 
-<small>🔗 [signalbloom.ai](https://www.signalbloom.ai/news/): Show HN: I made a free tool that analyzes SEC filings and posts detailed reports</small>
+## <a name="24"></a>24. 修复Commodore PET的曲折历程：追踪6.5个故障芯片 
+<small>🔗 [righto.com](http://www.righto.com/2025/04/commodore-pet-repair.html): A tricky Commodore PET repair: tracking down 6 1/2 bad chips</small>
 
 
-| 🔥: 58 \| 💬: [18](https://news.ycombinator.com/item?id=43675248) \| 🗓️ 2025-04-13
+| 🔥: 59 \| 💬: [21](https://news.ycombinator.com/item?id=43673862) \| 🗓️ 2025-04-13
 
 
 <br />
-Wilson Bank Holding Company (**WBHC**)公布2025年**第一季度强劲业绩**，每股收益(**EPS**)同比显著增长，资产负债表持续扩张。该工具可自动解析SEC文件并生成深度报告，帮助投资者快速获取关键财务数据。5分钟即可阅读完整分析。
+作者回忆了修复一台1977年Commodore PET电脑的艰难过程。这台经典电脑因**ROM和RAM芯片故障**导致启动异常，屏幕显示乱码。通过**逻辑分析仪**和逆向工程工具Ghidra，团队发现数据总线信号异常，最终定位到两片损坏的ROM和四片RAM芯片。其中一片ROM因编程电压不足导致数据错误，被戏称为“半个坏芯片”。修复过程涉及替换罕见型号的MOS芯片，并借助适配器改用标准EPROM。尽管耗时费力，最终成功让这台充满怀旧意义的电脑重现图形界面。
 
 ---
 
@@ -315,7 +315,7 @@ Wilson Bank Holding Company (**WBHC**)公布2025年**第一季度强劲业绩**�
 <small>🔗 [jalopnik.com](https://www.jalopnik.com/1832213/tesla-releases-cheaper-rwd-cybertruck/): Tesla Releases Stripped RWD Cybertruck: So Much Worse for Not Much Less Money</small>
 
 
-| 🔥: 57 \| 💬: [99](https://news.ycombinator.com/item?id=43673235) \| 🗓️ 2025-04-13
+| 🔥: 58 \| 💬: [100](https://news.ycombinator.com/item?id=43673235) \| 🗓️ 2025-04-13
 
 
 <br />
