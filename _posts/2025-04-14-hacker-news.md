@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共17条，具体内容您往下读...
+总共20条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [harvard.edu](https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/): Harvard's response to federal government letter demanding changes</small>
 
 
-| 🔥🔥: 620 \| 💬: [474](https://news.ycombinator.com/item?id=43684536) \| 🗓️ 2025-04-14
+| 🔥🔥: 697 \| 💬: [563](https://news.ycombinator.com/item?id=43684536) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [geoffreylitt.com](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs): A hackable AI assistant using a single SQLite table and a handful of cron jobs</small>
 
 
-| 🔥🔥: 382 \| 💬: [95](https://news.ycombinator.com/item?id=43681287) \| 🗓️ 2025-04-14
+| 🔥🔥: 404 \| 💬: [100](https://news.ycombinator.com/item?id=43681287) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine): The path to open-sourcing the DeepSeek inference engine</small>
 
 
-| 🔥🔥: 289 \| 💬: [16](https://news.ycombinator.com/item?id=43682088) \| 🗓️ 2025-04-14
+| 🔥🔥: 314 \| 💬: [19](https://news.ycombinator.com/item?id=43682088) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -63,7 +63,7 @@ DeepSeek 团队在开源周期间开源了多个库，获得社区积极反馈�
 <small>🔗 [blog.google](https://blog.google/technology/ai/dolphingemma/): DolphinGemma: How Google AI is helping decode dolphin communication</small>
 
 
-| 🔥🔥: 187 \| 💬: [67](https://news.ycombinator.com/item?id=43680899) \| 🗓️ 2025-04-14
+| 🔥🔥: 205 \| 💬: [76](https://news.ycombinator.com/item?id=43680899) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -75,7 +75,7 @@ DeepSeek 团队在开源周期间开源了多个库，获得社区积极反馈�
 <small>🔗 [openmymind.net](https://www.openmymind.net/Zigs-New-LinkedList-API/): Zig's new LinkedList API (it's time to learn fieldParentPtr)</small>
 
 
-| 🔥🔥: 161 \| 💬: [127](https://news.ycombinator.com/item?id=43679707) \| 🗓️ 2025-04-14
+| 🔥🔥: 161 \| 💬: [132](https://news.ycombinator.com/item?id=43679707) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -87,7 +87,7 @@ Zig最新提交的`SinglyLinkedList`和`DoublyLinkedList`改用**侵入式链表
 <small>🔗 [brooks.team](https://www.brooks.team/posts/how-to-bike-across-the-country/): How to Bike Across the Country</small>
 
 
-| 🔥🔥: 133 \| 💬: [70](https://news.ycombinator.com/item?id=43681936) \| 🗓️ 2025-04-14
+| 🔥🔥: 138 \| 💬: [71](https://news.ycombinator.com/item?id=43681936) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -99,7 +99,7 @@ Zig最新提交的`SinglyLinkedList`和`DoublyLinkedList`改用**侵入式链表
 <small>🔗 [omnom.zone](https://omnom.zone/?src=hn): Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots [showcase]</small>
 
 
-| 🔥🔥: 129 \| 💬: [44](https://news.ycombinator.com/item?id=43680232) \| 🗓️ 2025-04-14
+| 🔥🔥: 130 \| 💬: [44](https://news.ycombinator.com/item?id=43680232) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -111,7 +111,7 @@ Zig最新提交的`SinglyLinkedList`和`DoublyLinkedList`改用**侵入式链表
 <small>🔗 [github.com](https://github.com/codr7/hacktical-c): Hacktical C: practical hacker's guide to the C programming language</small>
 
 
-| 🔥🔥: 123 \| 💬: [108](https://news.ycombinator.com/item?id=43679781) \| 🗓️ 2025-04-14
+| 🔥🔥: 123 \| 💬: [112](https://news.ycombinator.com/item?id=43679781) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -123,7 +123,7 @@ Zig最新提交的`SinglyLinkedList`和`DoublyLinkedList`改用**侵入式链表
 <small>🔗 [github.com](https://github.com/meilisearch/meilisearch): Meilisearch – search engine API bringing AI-powered hybrid search</small>
 
 
-| 🔥🔥: 102 \| 💬: [45](https://news.ycombinator.com/item?id=43680699) \| 🗓️ 2025-04-14
+| 🔥🔥: 109 \| 💬: [48](https://news.ycombinator.com/item?id=43680699) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -135,7 +135,7 @@ Meilisearch是一款**闪电般快速**的搜索引擎API，为网站和应用�
 <small>🔗 [wheresyoured.at](https://www.wheresyoured.at/openai-is-a-systemic-risk-to-the-tech-industry-2/): OpenAI Is a Systemic Risk to the Tech Industry</small>
 
 
-| 🔥: 100 \| 💬: [97](https://news.ycombinator.com/item?id=43683071) \| 🗓️ 2025-04-14
+| 🔥🔥: 104 \| 💬: [98](https://news.ycombinator.com/item?id=43683071) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -143,23 +143,11 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
-## <a name="11"></a>11. 多伦多女子在Lyft车内聊天后收到对话转录短信 
-<small>🔗 [cbc.ca](https://www.cbc.ca/news/canada/toronto/lyft-conversation-transcribed-1.7508106): She was chatting with friends in a Lyft. Then someone texted her what they said</small>
-
-
-| 🔥: 87 \| 💬: [79](https://news.ycombinator.com/item?id=43680039) \| 🗓️ 2025-04-14
-
-
-<br />
-一名多伦多女性在Lyft乘车期间与室友的私人对话被**录音并转录为短信**发送至其手机，引发隐私担忧。Lyft公司起初称此为美国试点项目，后改口称司机**未经同意擅自录音**并已对其采取行动。加拿大隐私专家指出，此举违反**《个人信息保护与电子文件法》**，强调企业必须明确告知并获用户同意才能收集数据。事件暴露了网约车场景下的隐私风险，涉事女性呼吁Lyft加强对用户数据的保护责任。
-
----
-
-## <a name="12"></a>12. 联邦政府致函哈佛大学要求整改 
+## <a name="11"></a>11. 联邦政府致函哈佛大学要求整改 
 <small>🔗 [harvard.edu](https://www.harvard.edu/research-funding/wp-content/uploads/sites/16/2025/04/Letter-Sent-to-Harvard-2025-04-11.pdf): Federal Government's letter to Harvard demanding changes [pdf]</small>
 
 
-| 🔥: 83 \| 💬: [26](https://news.ycombinator.com/item?id=43684386) \| 🗓️ 2025-04-14
+| 🔥: 90 \| 💬: [32](https://news.ycombinator.com/item?id=43684386) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -167,7 +155,43 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
-## <a name="13"></a>13. 欧盟向赴美工作人员发放一次性手机 防范间谍活动 
+## <a name="12"></a>12. 多伦多女子在Lyft车内聊天后收到对话转录短信 
+<small>🔗 [cbc.ca](https://www.cbc.ca/news/canada/toronto/lyft-conversation-transcribed-1.7508106): She was chatting with friends in a Lyft. Then someone texted her what they said</small>
+
+
+| 🔥: 87 \| 💬: [81](https://news.ycombinator.com/item?id=43680039) \| 🗓️ 2025-04-14
+
+
+<br />
+一名多伦多女性在Lyft乘车期间与室友的私人对话被**录音并转录为短信**发送至其手机，引发隐私担忧。Lyft公司起初称此为美国试点项目，后改口称司机**未经同意擅自录音**并已对其采取行动。加拿大隐私专家指出，此举违反**《个人信息保护与电子文件法》**，强调企业必须明确告知并获用户同意才能收集数据。事件暴露了网约车场景下的隐私风险，涉事女性呼吁Lyft加强对用户数据的保护责任。
+
+---
+
+## <a name="13"></a>13. 熵到底是什么？ 
+<small>🔗 [jasonfantl.com](https://jasonfantl.com/posts/What-is-Entropy/): What Is Entropy?</small>
+
+
+| 🔥: 83 \| 💬: [25](https://news.ycombinator.com/item?id=43684560) \| 🗓️ 2025-04-14
+
+
+<br />
+熵常被描述为**不确定性**的度量，最初由信息论创始人克劳德·香农提出。其核心公式为 **香农熵**：系统所有可能状态的**信息量**（$-log_2(p_i)$）的期望值。例如，公平骰子的熵高于偏态骰子，因前者结果更不确定。在统计力学中，熵反映**宏观状态**对应的**微观状态**数量——微观状态越多，熵越高。熵增解释了时间箭头：系统倾向于向更可能（高熵）的宏观状态演化。
+
+---
+
+## <a name="14"></a>14. AudioX：全能扩散Transformer模型实现任意模态到音频生成 
+<small>🔗 [zeyuet.github.io](https://zeyuet.github.io/AudioX/): AudioX: Diffusion Transformer for Anything-to-Audio Generation</small>
+
+
+| 🔥: 80 \| 💬: [9](https://news.ycombinator.com/item?id=43683907) \| 🗓️ 2025-04-14
+
+
+<br />
+现有音频生成模型存在**跨模态能力割裂**、**高质量多模态数据稀缺**和**输入整合困难**三大瓶颈。本文提出**AudioX**——基于扩散Transformer的统一框架，支持文本、视频、图像等多模态输入，可同时生成高质量普通音频与音乐，并实现自然语言灵活控制。其核心创新是**多模态掩码训练策略**，通过随机遮蔽不同模态输入迫使模型学习鲁棒的跨模态表征。为解决数据不足，团队构建了包含19万条音频描述的VGGSound-Caps和600万条音乐描述的V2M-Caps数据集。实验表明，AudioX不仅性能媲美专用模型，更在统一架构中展现出卓越的多任务适应性。
+
+---
+
+## <a name="15"></a>15. 欧盟向赴美工作人员发放一次性手机 防范间谍活动 
 <small>🔗 [ft.com](https://www.ft.com/content/20d0678a-41b2-468d-ac10-14ce1eae357b): EU issues US-bound staff with burner phones over spying fears</small>
 
 
@@ -179,23 +203,11 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
-## <a name="14"></a>14. AudioX：全能扩散Transformer模型实现任意模态到音频生成 
-<small>🔗 [zeyuet.github.io](https://zeyuet.github.io/AudioX/): AudioX: Diffusion Transformer for Anything-to-Audio Generation</small>
-
-
-| 🔥: 68 \| 💬: [8](https://news.ycombinator.com/item?id=43683907) \| 🗓️ 2025-04-14
-
-
-<br />
-现有音频生成模型存在**跨模态能力割裂**、**高质量多模态数据稀缺**和**输入整合困难**三大瓶颈。本文提出**AudioX**——基于扩散Transformer的统一框架，支持文本、视频、图像等多模态输入，可同时生成高质量普通音频与音乐，并实现自然语言灵活控制。其核心创新是**多模态掩码训练策略**，通过随机遮蔽不同模态输入迫使模型学习鲁棒的跨模态表征。为解决数据不足，团队构建了包含19万条音频描述的VGGSound-Caps和600万条音乐描述的V2M-Caps数据集。实验表明，AudioX不仅性能媲美专用模型，更在统一架构中展现出卓越的多任务适应性。
-
----
-
-## <a name="15"></a>15. 零代码生成：直接从Protobuf推断TypeScript类型 
+## <a name="16"></a>16. 零代码生成：直接从Protobuf推断TypeScript类型 
 <small>🔗 [github.com](https://github.com/nathanhleung/protobuf-ts-types): Show HN: Zero-codegen, no-compile TypeScript type inference from Protobufs</small>
 
 
-| 🔥: 67 \| 💬: [35](https://news.ycombinator.com/item?id=43682547) \| 🗓️ 2025-04-14
+| 🔥: 70 \| 💬: [37](https://news.ycombinator.com/item?id=43682547) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -210,26 +222,50 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
-## <a name="16"></a>16. 熵到底是什么？ 
-<small>🔗 [jasonfantl.com](https://jasonfantl.com/posts/What-is-Entropy/): What Is Entropy?</small>
+## <a name="17"></a>17. Podman Quadlets：轻量级容器管理的系统化方案 
+<small>🔗 [podman-desktop.io](https://podman-desktop.io/blog/podman-quadlet): Podman Quadlets with Podman Desktop</small>
 
 
-| 🔥: 61 \| 💬: [19](https://news.ycombinator.com/item?id=43684560) \| 🗓️ 2025-04-14
+| 🔥: 64 \| 💬: [14](https://news.ycombinator.com/item?id=43683641) \| 🗓️ 2025-04-14
 
 
 <br />
-熵常被描述为**不确定性**的度量，最初由信息论创始人克劳德·香农提出。其核心公式为 **香农熵**：系统所有可能状态的**信息量**（$-log_2(p_i)$）的期望值。例如，公平骰子的熵高于偏态骰子，因前者结果更不确定。在统计力学中，熵反映**宏观状态**对应的**微观状态**数量——微观状态越多，熵越高。熵增解释了时间箭头：系统倾向于向更可能（高熵）的宏观状态演化。
+本文介绍了**Podman Quadlets**——一种通过**systemd**声明式管理容器的方案，适用于单机或开发场景，避免Kubernetes的臃肿。Quadlet配置文件（如`.container`）可自动生成systemd单元文件，实现容器自启、故障恢复等功能。配合**Podman Desktop扩展**，用户能可视化创建、编辑Quadlet，并集成日志查看（`journalctl`），简化跨平台管理。示例展示了如何为Nginx生成Quadlet，凸显其易用性与系统深度整合的优势。
 
 ---
 
-## <a name="17"></a>17. 白宫证实特朗普正研究"驱逐"美国公民的途径 
+## <a name="18"></a>18. 白宫证实特朗普正研究"驱逐"美国公民的途径 
 <small>🔗 [huffpost.com](https://www.huffpost.com/entry/white-house-confirms-trump-is-exploring-ways-to-deport-us-citizens_n_67f580abe4b0a5ea5c7608d2): White House Confirms Trump Is Exploring Ways to 'Deport' U.S. Citizens</small>
 
 
-| 🔥: 60 \| 💬: [23](https://news.ycombinator.com/item?id=43682941) \| 🗓️ 2025-04-14
+| 🔥: 63 \| 💬: [26](https://news.ycombinator.com/item?id=43682941) \| 🗓️ 2025-04-14
 
 
 <br />
 白宫发言人卡洛琳·莱维特表示，**特朗普政府**正在探索将犯有**严重罪行**的美国公民"驱逐"至萨尔瓦多的法律途径，该国监狱以侵犯人权著称。尽管政府声称仅针对暴力惯犯，但特朗普曾暗示可能扩大至轻罪者。此举缺乏明确法律依据，并可能违宪。此前政府已利用《1798年外敌法案》将移民强制送往萨尔瓦多，但公民驱逐计划面临法律挑战。批评者指出该政策剥夺了**正当程序权利**。
+
+---
+
+## <a name="19"></a>19. 简易网页服务器 
+<small>🔗 [simplewebserver.org](https://simplewebserver.org/): Simple Web Server</small>
+
+
+| 🔥: 57 \| 💬: [32](https://news.ycombinator.com/item?id=43684009) \| 🗓️ 2025-04-14
+
+
+<br />
+这款工具**配置简单**，只需点击几下即可修改服务器选项。支持**同时运行多个服务器**，即使关闭应用也能在后台持续工作。特别针对**单页应用（SPA）**提供一键式URL重写功能。由@terreng和@ethanaobrien基于@kzahel的"Web Server for Chrome"改进开发，操作便捷且功能实用。
+
+---
+
+## <a name="20"></a>20. 我因税务软件错误多缴1.2万美元，最终从IRS成功追回！ 
+<small>🔗 [mikekasberg.com](https://www.mikekasberg.com/blog/2025/04/13/i-fought-the-irs-for-over-12k-and-won.html): I Fought the IRS for Over $12K and won</small>
+
+
+| 🔥: 49 \| 💬: [91](https://news.ycombinator.com/item?id=43680575) \| 🗓️ 2025-04-14
+
+
+<br />
+软件工程师Mike Kasberg因使用**TurboTax**申报2021年税务时，系统重复计算了**激励性股票期权(ISOs)**收入，导致多缴1.2万美元。尽管他及时提交了修正税表，但IRS因处理延迟和系统漏洞（修正税表未包含关键表格**6251**）拖延三年。通过多次联系IRS、调取税务记录并发现TurboTax的软件缺陷后，他终于在2025年追回全额退款及利息。事件暴露了税务软件的交互设计问题和IRS的低效流程。
 
 ---
