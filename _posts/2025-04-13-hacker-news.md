@@ -27,7 +27,7 @@ tags:
 <small>🔗 [posthuman.blog](https://posthuman.blog/this-reddit-post-fried-my-brain/): A Reddit bot drove me insane</small>
 
 
-| 🔥🔥: 500 \| 💬: [250](https://news.ycombinator.com/item?id=43672139) \| 🗓️ 2025-04-13
+| 🔥🔥: 511 \| 💬: [266](https://news.ycombinator.com/item?id=43672139) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/jlevy/og-equity-compensation): Open guide to equity compensation</small>
 
 
-| 🔥🔥: 262 \| 💬: [128](https://news.ycombinator.com/item?id=43675126) \| 🗓️ 2025-04-13
+| 🔥🔥: 276 \| 💬: [143](https://news.ycombinator.com/item?id=43675126) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/ariebovenberg/whenever): Whenever – typed and DST-safe datetimes for Python</small>
 
 
-| 🔥🔥: 255 \| 💬: [121](https://news.ycombinator.com/item?id=43671308) \| 🗓️ 2025-04-13
+| 🔥🔥: 259 \| 💬: [121](https://news.ycombinator.com/item?id=43671308) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -63,7 +63,7 @@ Whenever 是一个**类型安全**且**支持夏令时（DST）**的 Python 日�
 <small>🔗 [newstatesman.com](https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson): The dark side of the Moomins</small>
 
 
-| 🔥🔥: 253 \| 💬: [73](https://news.ycombinator.com/item?id=43672593) \| 🗓️ 2025-04-13
+| 🔥🔥: 258 \| 💬: [73](https://news.ycombinator.com/item?id=43672593) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -75,7 +75,7 @@ Whenever 是一个**类型安全**且**支持夏令时（DST）**的 Python 日�
 <small>🔗 [fennel-lang.org](https://fennel-lang.org/rationale): Why Fennel?</small>
 
 
-| 🔥🔥: 193 \| 💬: [80](https://news.ycombinator.com/item?id=43673551) \| 🗓️ 2025-04-13
+| 🔥🔥: 194 \| 💬: [81](https://news.ycombinator.com/item?id=43673551) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -99,7 +99,7 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 <small>🔗 [worksonmymachine.substack.com](https://worksonmymachine.substack.com/p/wasting-inferences-with-aider): Wasting Inferences with Aider</small>
 
 
-| 🔥🔥: 110 \| 💬: [88](https://news.ycombinator.com/item?id=43672712) \| 🗓️ 2025-04-13
+| 🔥🔥: 111 \| 💬: [90](https://news.ycombinator.com/item?id=43672712) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -111,7 +111,7 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 <small>🔗 [seattletimes.com](https://www.seattletimes.com/seattle-news/data/half-the-men-in-seattle-are-never-married-singles-for-the-first-time/): Half the men in Seattle are never-married singles, census data shows</small>
 
 
-| 🔥🔥: 104 \| 💬: [168](https://news.ycombinator.com/item?id=43673125) \| 🗓️ 2025-04-13
+| 🔥🔥: 105 \| 💬: [168](https://news.ycombinator.com/item?id=43673125) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -119,23 +119,11 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 
 ---
 
-## <a name="9"></a>9. 别在家用服务器上出售闲置空间（2023） 
-<small>🔗 [grumpy.systems](https://grumpy.systems/2023/please-dont-sell-space-in-your-homelab/): Don't sell space in your homelab (2023)</small>
-
-
-| 🔥: 97 \| 💬: [84](https://news.ycombinator.com/item?id=43674267) \| 🗓️ 2025-04-13
-
-
-<br />
-作者强烈建议不要将家用服务器的闲置空间商业化出租。**法律风险**、**硬件可靠性**和**网络安全**是主要障碍：住宅网络不符合商用需求，客户可能滥用服务导致法律纠纷，且维护成本（如备份、升级、合规审计）远超收益。若想利用闲置资源，可考虑为朋友托管、参与公益计算（如Folding@Home）或精简设备。
-
----
-
-## <a name="10"></a>10. 数学13：抽象数学导论 [PDF] 
+## <a name="9"></a>9. 数学13：抽象数学导论 [PDF] 
 <small>🔗 [math.uci.edu](https://www.math.uci.edu/~ndonalds/math13/notes.pdf): Math 13 – An Introduction to Abstract Mathematics [pdf]</small>
 
 
-| 🔥: 93 \| 💬: [4](https://news.ycombinator.com/item?id=43675310) \| 🗓️ 2025-04-13
+| 🔥🔥: 101 \| 💬: [6](https://news.ycombinator.com/item?id=43675310) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -143,11 +131,47 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 
 ---
 
-## <a name="11"></a>11. 经典杂志《Compute!'s Gazette》时隔35年复刊，聚焦复古计算 
+## <a name="10"></a>10. 别在家用服务器上出售闲置空间（2023） 
+<small>🔗 [grumpy.systems](https://grumpy.systems/2023/please-dont-sell-space-in-your-homelab/): Don't sell space in your homelab (2023)</small>
+
+
+| 🔥: 100 \| 💬: [86](https://news.ycombinator.com/item?id=43674267) \| 🗓️ 2025-04-13
+
+
+<br />
+作者强烈建议不要将家用服务器的闲置空间商业化出租。**法律风险**、**硬件可靠性**和**网络安全**是主要障碍：住宅网络不符合商用需求，客户可能滥用服务导致法律纠纷，且维护成本（如备份、升级、合规审计）远超收益。若想利用闲置资源，可考虑为朋友托管、参与公益计算（如Folding@Home）或精简设备。
+
+---
+
+## <a name="11"></a>11. MCP协议的三重隐患：安全漏洞、交互缺陷与数据风险 
+<small>🔗 [blog.sshh.io](https://blog.sshh.io/p/everything-wrong-with-mcp): Everything wrong with MCP</small>
+
+
+| 🔥: 88 \| 💬: [45](https://news.ycombinator.com/item?id=43676771) \| 🗓️ 2025-04-13
+
+
+<br />
+本文剖析了**模型上下文协议（MCP）**作为LLM工具集成标准的潜在问题：**协议安全性**（本地恶意代码执行、动态工具篡改）、**交互设计缺陷**（缺乏风险分级与成本控制）以及**LLM安全风险**（提示注入攻击、敏感数据意外泄露）。作者指出，尽管MCP提升了AI代理的自主性，但其宽松的权限机制和文本导向设计可能引发数据滥用与安全漏洞，需开发者与用户高度警惕。
+
+---
+
+## <a name="12"></a>12. 红网袋如何让橙子看起来更橙？ 
+<small>🔗 [alexanderell.is](https://alexanderell.is/posts/orange/): How much oranger do red orange bags make oranges look?</small>
+
+
+| 🔥: 85 \| 💬: [51](https://news.ycombinator.com/item?id=43673761) \| 🗓️ 2025-04-13
+
+
+<br />
+研究发现，美国超市常用**红色网袋**包装橙子，这种袋子会让橙子看起来更鲜艳。作者通过对比实验发现，红网袋使橙子的平均像素色值明显偏暖（RGB值中绿色减少），但实际观察时人眼感知的橙色比计算机分析的更强烈。实验还揭示橙皮表面其实含有大量**棕色**，而人脑会因环境色自动修正视觉偏差。尽管数据结果不如预期，但证实了**色彩欺骗效应**的存在。文末调侃称这种包装是商家的小心机，并建议消费者避免购买袋装水果以便仔细挑选。
+
+---
+
+## <a name="13"></a>13. 经典杂志《Compute!'s Gazette》时隔35年复刊，聚焦复古计算 
 <small>🔗 [computesgazette.com](https://www.computesgazette.com/): Compute's Gazette Magazine Returns After 35 Yrs, Will Focus on Retro Computing</small>
 
 
-| 🔥: 84 \| 💬: [29](https://news.ycombinator.com/item?id=43671861) \| 🗓️ 2025-04-13
+| 🔥: 84 \| 💬: [30](https://news.ycombinator.com/item?id=43671861) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -155,11 +179,11 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 
 ---
 
-## <a name="12"></a>12. 用C#制作SNES游戏ROM 
+## <a name="14"></a>14. 用C#制作SNES游戏ROM 
 <small>🔗 [reddit.com](https://www.reddit.com/r/dotnet/s/fhm4TUNhlX): Making SNES ROMs using C#</small>
 
 
-| 🔥: 80 \| 💬: [15](https://news.ycombinator.com/item?id=43673011) \| 🗓️ 2025-04-13
+| 🔥: 82 \| 💬: [15](https://news.ycombinator.com/item?id=43673011) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -167,11 +191,11 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 
 ---
 
-## <a name="13"></a>13. EXWM：基于Emacs的X窗口管理器 
+## <a name="15"></a>15. EXWM：基于Emacs的X窗口管理器 
 <small>🔗 [github.com](https://github.com/emacs-exwm/exwm): Exwm: Emacs X Window Manager</small>
 
 
-| 🔥: 80 \| 💬: [19](https://news.ycombinator.com/item?id=43674233) \| 🗓️ 2025-04-13
+| 🔥: 82 \| 💬: [21](https://news.ycombinator.com/item?id=43674233) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -179,7 +203,7 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 
 ---
 
-## <a name="14"></a>14. 我的虚拟孩子不需要你的流媒体服务 
+## <a name="16"></a>16. 我的虚拟孩子不需要你的流媒体服务 
 <small>🔗 [shkspr.mobi](https://shkspr.mobi/blog/2021/04/my-imaginary-children-arent-using-your-streaming-service/): My imaginary children aren't using your streaming service</small>
 
 
@@ -191,23 +215,23 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 
 ---
 
-## <a name="15"></a>15. 红网袋如何让橙子看起来更橙？ 
-<small>🔗 [alexanderell.is](https://alexanderell.is/posts/orange/): How much oranger do red orange bags make oranges look?</small>
+## <a name="17"></a>17. 我买了一台古董Mac电脑的奇幻冒险 
+<small>🔗 [loganius.org](https://loganius.org/2025/04/i-bought-a-mac/): I bought a Mac</small>
 
 
-| 🔥: 74 \| 💬: [47](https://news.ycombinator.com/item?id=43673761) \| 🗓️ 2025-04-13
+| 🔥: 77 \| 💬: [52](https://news.ycombinator.com/item?id=43677165) \| 🗓️ 2025-04-13
 
 
 <br />
-研究发现，美国超市常用**红色网袋**包装橙子，这种袋子会让橙子看起来更鲜艳。作者通过对比实验发现，红网袋使橙子的平均像素色值明显偏暖（RGB值中绿色减少），但实际观察时人眼感知的橙色比计算机分析的更强烈。实验还揭示橙皮表面其实含有大量**棕色**，而人脑会因环境色自动修正视觉偏差。尽管数据结果不如预期，但证实了**色彩欺骗效应**的存在。文末调侃称这种包装是商家的小心机，并建议消费者避免购买袋装水果以便仔细挑选。
+作者在2025年1月购入了一台2002年的**PowerMac G4 MDD**，初衷是为了修复Wii U的Linux内核问题，却意外开启了一段折腾之旅。这台电脑到手时几乎是个空壳，缺内存、硬盘和电池，作者不得不四处淘配件，甚至冒险改装**噪音巨大的风扇**。尽管最终问题被他人抢先解决，但这段经历让他体验了PowerPC时代的硬件魅力，也吐槽了苹果设计的反人类细节（比如电源里的扎带）。全文充满自嘲与硬核极客精神，结尾还晒了这台“工业美学怪兽”的靓照。
 
 ---
 
-## <a name="16"></a>16. 从零实现DeepSeek R1的GRPO算法 
+## <a name="18"></a>18. 从零实现DeepSeek R1的GRPO算法 
 <small>🔗 [github.com](https://github.com/policy-gradient/GRPO-Zero): Implementing DeepSeek R1's GRPO algorithm from scratch</small>
 
 
-| 🔥: 71 \| 💬: [0](https://news.ycombinator.com/item?id=43674825) \| 🗓️ 2025-04-13
+| 🔥: 76 \| 💬: [0](https://news.ycombinator.com/item?id=43674825) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -215,11 +239,11 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 
 ---
 
-## <a name="17"></a>17. 美国科技关税豁免或仅为临时措施 
+## <a name="19"></a>19. 美国科技关税豁免或仅为临时措施 
 <small>🔗 [ft.com](https://www.ft.com/content/9038804f-cf69-4193-9332-8b5ea1f9af4b): US tech tariff exemption may only be temporary, says Lutnick</small>
 
 
-| 🔥: 66 \| 💬: [55](https://news.ycombinator.com/item?id=43673327) \| 🗓️ 2025-04-13
+| 🔥: 69 \| 💬: [55](https://news.ycombinator.com/item?id=43673327) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -227,19 +251,19 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 
 ---
 
-## <a name="18"></a>18. MCP协议的三重隐患：安全漏洞、交互缺陷与数据风险 
-<small>🔗 [blog.sshh.io](https://blog.sshh.io/p/everything-wrong-with-mcp): Everything wrong with MCP</small>
+## <a name="20"></a>20. Ollama与LangChain快速入门：MCP协议解析与实践 
+<small>🔗 [polarsparc.com](https://www.polarsparc.com/xhtml/MCP.html): Quick Primer on MCP Using Ollama and LangChain</small>
 
 
-| 🔥: 62 \| 💬: [22](https://news.ycombinator.com/item?id=43676771) \| 🗓️ 2025-04-13
+| 🔥: 62 \| 💬: [11](https://news.ycombinator.com/item?id=43676084) \| 🗓️ 2025-04-13
 
 
 <br />
-本文剖析了**模型上下文协议（MCP）**作为LLM工具集成标准的潜在问题：**协议安全性**（本地恶意代码执行、动态工具篡改）、**交互设计缺陷**（缺乏风险分级与成本控制）以及**LLM安全风险**（提示注入攻击、敏感数据意外泄露）。作者指出，尽管MCP提升了AI代理的自主性，但其宽松的权限机制和文本导向设计可能引发数据滥用与安全漏洞，需开发者与用户高度警惕。
+本文介绍了**Model Context Protocol (MCP)**如何标准化LLM应用与企业工具的集成。MCP包含三个核心组件：**MCP Server**（连接数据源和工具）、**MCP Client**（标准化交互）和**MCP Host**（LLM应用）。通过Python示例演示了如何利用Ollama运行IBM Granite模型，并使用LangChain构建基于MCP的利息计算工具。MCP支持两种通信方式：**stdio**（命令行）和**sse**（网络服务），解决了框架间工具集成的碎片化问题。
 
 ---
 
-## <a name="19"></a>19. AMD NPU与Xilinx Versal AI引擎在射电天文信号处理中的应用（2024） 
+## <a name="21"></a>21. AMD NPU与Xilinx Versal AI引擎在射电天文信号处理中的应用（2024） 
 <small>🔗 [git.astron.nl](https://git.astron.nl/RD/acap/-/raw/main/Presentation_FPL24_Vincent_Sprave.pdf): AMD NPU and Xilinx Versal AI Engines Signal Processing in Radio Astronomy (2024) [pdf]</small>
 
 
@@ -251,35 +275,11 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 
 ---
 
-## <a name="20"></a>20. 为什么Pascal不是我最爱的编程语言（1981） 
-<small>🔗 [doc.cat-v.org](https://doc.cat-v.org/bell_labs/why_pascal/why_pascal_is_not_my_favorite_language.pdf): Why Pascal is not my favorite programming language (1981) [pdf]</small>
-
-
-| 🔥: 57 \| 💬: [67](https://news.ycombinator.com/item?id=43672975) \| 🗓️ 2025-04-13
-
-
-<br />
-这篇1981年的文章批评了Pascal语言的多个设计缺陷。作者指出Pascal**类型系统过于严格**，缺乏灵活性；**缺少动态数组**等关键功能；**编译器实现不一致**，导致可移植性问题。文章认为Pascal更适合教学而非实际开发，这些限制使其难以成为主流编程语言。
-
----
-
-## <a name="21"></a>21. 特斯拉推出减配版Cybertruck后驱版：性能大缩水，价格却不便宜 
-<small>🔗 [jalopnik.com](https://www.jalopnik.com/1832213/tesla-releases-cheaper-rwd-cybertruck/): Tesla Releases Stripped RWD Cybertruck: So Much Worse for Not Much Less Money</small>
-
-
-| 🔥: 57 \| 💬: [97](https://news.ycombinator.com/item?id=43673235) \| 🗓️ 2025-04-13
-
-
-<br />
-特斯拉近日推出**后驱版Cybertruck**，售价71,985美元，仅比四驱版便宜1万美元，但**配置大幅缩水**：取消空气悬架、电动卷帘盖、车内多项功能及豪华内饰，续航虽增至350英里，但加速、载重和拖拽能力均下降。对比竞品如福特F-150 Lightning等，性价比偏低。此前承诺的4万美元起售价未兑现，且车辆仍存在工艺问题，市场前景堪忧。
-
----
-
 ## <a name="22"></a>22. 修复Commodore PET的曲折历程：追踪6.5个故障芯片 
 <small>🔗 [righto.com](http://www.righto.com/2025/04/commodore-pet-repair.html): A tricky Commodore PET repair: tracking down 6 1/2 bad chips</small>
 
 
-| 🔥: 57 \| 💬: [19](https://news.ycombinator.com/item?id=43673862) \| 🗓️ 2025-04-13
+| 🔥: 59 \| 💬: [20](https://news.ycombinator.com/item?id=43673862) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -287,38 +287,38 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 
 ---
 
-## <a name="23"></a>23. Ollama与LangChain快速入门：MCP协议解析与实践 
-<small>🔗 [polarsparc.com](https://www.polarsparc.com/xhtml/MCP.html): Quick Primer on MCP Using Ollama and LangChain</small>
+## <a name="23"></a>23. 为什么Pascal不是我最爱的编程语言（1981） 
+<small>🔗 [doc.cat-v.org](https://doc.cat-v.org/bell_labs/why_pascal/why_pascal_is_not_my_favorite_language.pdf): Why Pascal is not my favorite programming language (1981) [pdf]</small>
 
 
-| 🔥: 54 \| 💬: [9](https://news.ycombinator.com/item?id=43676084) \| 🗓️ 2025-04-13
+| 🔥: 58 \| 💬: [67](https://news.ycombinator.com/item?id=43672975) \| 🗓️ 2025-04-13
 
 
 <br />
-本文介绍了**Model Context Protocol (MCP)**如何标准化LLM应用与企业工具的集成。MCP包含三个核心组件：**MCP Server**（连接数据源和工具）、**MCP Client**（标准化交互）和**MCP Host**（LLM应用）。通过Python示例演示了如何利用Ollama运行IBM Granite模型，并使用LangChain构建基于MCP的利息计算工具。MCP支持两种通信方式：**stdio**（命令行）和**sse**（网络服务），解决了框架间工具集成的碎片化问题。
+这篇1981年的文章批评了Pascal语言的多个设计缺陷。作者指出Pascal**类型系统过于严格**，缺乏灵活性；**缺少动态数组**等关键功能；**编译器实现不一致**，导致可移植性问题。文章认为Pascal更适合教学而非实际开发，这些限制使其难以成为主流编程语言。
 
 ---
 
-## <a name="24"></a>24. 特朗普关税政策再度升级，负面影响加剧 
-<small>🔗 [paulkrugman.substack.com](https://paulkrugman.substack.com/p/the-trump-tariffs-just-got-even-worse): The Trump Tariffs Just Got Even Worse</small>
+## <a name="24"></a>24. 免费SEC文件分析工具：自动生成详细财报摘要 
+<small>🔗 [signalbloom.ai](https://www.signalbloom.ai/news/): Show HN: I made a free tool that analyzes SEC filings and posts detailed reports</small>
 
 
-| 🔥: 46 \| 💬: [18](https://news.ycombinator.com/item?id=43671260) \| 🗓️ 2025-04-13
+| 🔥: 58 \| 💬: [18](https://news.ycombinator.com/item?id=43675248) \| 🗓️ 2025-04-13
 
 
 <br />
-保罗·克鲁格曼指出，特朗普政府近期突然豁免部分电子产品关税，但这一调整**并未缓解问题**，反而使政策更糟糕。**中间品关税高于成品**，变相打击美国制造业；**政策频繁变动**加剧市场不确定性；更严重的是，关税调整背后存在**权钱交易嫌疑**，部分企业因政治献金获得优待。这种混乱且腐败的政策环境正在侵蚀美国经济根基。
+Wilson Bank Holding Company (**WBHC**)公布2025年**第一季度强劲业绩**，每股收益(**EPS**)同比显著增长，资产负债表持续扩张。该工具可自动解析SEC文件并生成深度报告，帮助投资者快速获取关键财务数据。5分钟即可阅读完整分析。
 
 ---
 
-## <a name="25"></a>25. 用低配硬件工作：我为何选择终端开发（2024） 
-<small>🔗 [colean.cc](https://colean.cc/journal/2024/08sep.html): Using bad hardware: why I work in the terminal (2024)</small>
+## <a name="25"></a>25. 特斯拉推出减配版Cybertruck后驱版：性能大缩水，价格却不便宜 
+<small>🔗 [jalopnik.com](https://www.jalopnik.com/1832213/tesla-releases-cheaper-rwd-cybertruck/): Tesla Releases Stripped RWD Cybertruck: So Much Worse for Not Much Less Money</small>
 
 
-| 🔥: 43 \| 💬: [51](https://news.ycombinator.com/item?id=43673262) \| 🗓️ 2025-04-13
+| 🔥: 57 \| 💬: [99](https://news.ycombinator.com/item?id=43673235) \| 🗓️ 2025-04-13
 
 
 <br />
-作者长期使用**低性能设备**（如Intel Atom/Celeron处理器）进行编程，其高效工作流的核心在于：**Linux系统**（推荐轻量发行版如Arch）、**窗口管理器i3wm**（键盘驱动、低资源占用）以及**终端文本编辑器Neovim**（跨平台统一体验）。这套组合兼顾便携性与性能，尤其适合老旧硬件，同时贯彻**最小依赖原则**，避免功能冗余。全文强调工具链的自定义与极简主义。
+特斯拉近日推出**后驱版Cybertruck**，售价71,985美元，仅比四驱版便宜1万美元，但**配置大幅缩水**：取消空气悬架、电动卷帘盖、车内多项功能及豪华内饰，续航虽增至350英里，但加速、载重和拖拽能力均下降。对比竞品如福特F-150 Lightning等，性价比偏低。此前承诺的4万美元起售价未兑现，且车辆仍存在工艺问题，市场前景堪忧。
 
 ---
