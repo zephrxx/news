@@ -27,7 +27,7 @@ tags:
 <small>🔗 [posthuman.blog](https://posthuman.blog/this-reddit-post-fried-my-brain/): A Reddit bot drove me insane</small>
 
 
-| 🔥🔥: 523 \| 💬: [269](https://news.ycombinator.com/item?id=43672139) \| 🗓️ 2025-04-13
+| 🔥🔥: 536 \| 💬: [270](https://news.ycombinator.com/item?id=43672139) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/jlevy/og-equity-compensation): Open guide to equity compensation</small>
 
 
-| 🔥🔥: 305 \| 💬: [148](https://news.ycombinator.com/item?id=43675126) \| 🗓️ 2025-04-13
+| 🔥🔥: 340 \| 💬: [158](https://news.ycombinator.com/item?id=43675126) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [newstatesman.com](https://www.newstatesman.com/culture/books/2025/04/dark-side-of-the-moomins-tove-jansson): The dark side of the Moomins</small>
 
 
-| 🔥🔥: 265 \| 💬: [74](https://news.ycombinator.com/item?id=43672593) \| 🗓️ 2025-04-13
+| 🔥🔥: 270 \| 💬: [75](https://news.ycombinator.com/item?id=43672593) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -60,10 +60,10 @@ tags:
 ---
 
 ## <a name="4"></a>4. Python 的现代化日期时间库：Whenever 
-<small>🔗 [github.com](https://github.com/ariebovenberg/whenever): Whenever – typed and DST-safe datetimes for Python</small>
+<small>🔗 [github.com](https://github.com/ariebovenberg/whenever): Whenever: Typed and DST-safe datetimes for Python</small>
 
 
-| 🔥🔥: 262 \| 💬: [122](https://news.ycombinator.com/item?id=43671308) \| 🗓️ 2025-04-13
+| 🔥🔥: 265 \| 💬: [125](https://news.ycombinator.com/item?id=43671308) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -75,7 +75,7 @@ Whenever 是一个**类型安全**且**支持夏令时（DST）**的 Python 日�
 <small>🔗 [fennel-lang.org](https://fennel-lang.org/rationale): Why Fennel?</small>
 
 
-| 🔥🔥: 201 \| 💬: [86](https://news.ycombinator.com/item?id=43673551) \| 🗓️ 2025-04-13
+| 🔥🔥: 206 \| 💬: [93](https://news.ycombinator.com/item?id=43673551) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -87,7 +87,7 @@ Fennel是基于**Lua运行时**的编程语言，继承了Lua的轻量、高效�
 <small>🔗 [github.com](https://github.com/SkyworkAI/Skywork-OR1): Skywork-OR1: new SOTA 32B thinking model with open weight</small>
 
 
-| 🔥🔥: 137 \| 💬: [28](https://news.ycombinator.com/item?id=43673151) \| 🗓️ 2025-04-13
+| 🔥🔥: 139 \| 💬: [28](https://news.ycombinator.com/item?id=43673151) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -95,47 +95,11 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 
 ---
 
-## <a name="7"></a>7. 用Aider实现多模型并行调试：低成本高效修复Bug 
-<small>🔗 [worksonmymachine.substack.com](https://worksonmymachine.substack.com/p/wasting-inferences-with-aider): Wasting Inferences with Aider</small>
-
-
-| 🔥🔥: 113 \| 💬: [90](https://news.ycombinator.com/item?id=43672712) \| 🗓️ 2025-04-13
-
-
-<br />
-本文介绍了一种通过**多模型并行推理**自动修复代码Bug的实验。作者将Asana任务直接关联到Aider编程代理，触发**GPT-4o、Claude 3.5和Gemini 2.0**三个模型同时生成修复方案，最终自动提交三个PR供选择。关键发现：**成本仅9美分**，且自动化流程完全由项目管理工具驱动。这验证了“**冗余推理**”策略的可行性，预示未来AI协作开发可能成为常态。实验代码已开源，展示了当前技术下代理集群的简易实现。
-
----
-
-## <a name="8"></a>8. 西雅图半数男性从未结婚，人口普查数据显示 
-<small>🔗 [seattletimes.com](https://www.seattletimes.com/seattle-news/data/half-the-men-in-seattle-are-never-married-singles-for-the-first-time/): Half the men in Seattle are never-married singles, census data shows</small>
-
-
-| 🔥🔥: 108 \| 💬: [172](https://news.ycombinator.com/item?id=43673125) \| 🗓️ 2025-04-13
-
-
-<br />
-最新数据显示，**2023年西雅图15岁及以上男性中，50.4%从未结婚**，首次突破半数门槛。女性未婚比例为43.3%，全美普遍存在类似性别差异，原因包括**男性结婚年龄较晚**（华盛顿州男性初婚中位数30.4岁，女性28岁）及男性寿命较短。在全美50大城市中，西雅图是14个未婚男性超半数的城市之一，底特律比例最高（近60%）。尽管2015年同性婚姻合法化扩大了结婚人群，但西雅图未婚男性比例仍较2010年（48%）上升，可能与婚姻观念变化有关。
-
----
-
-## <a name="9"></a>9. 数学13：抽象数学导论 [PDF] 
-<small>🔗 [math.uci.edu](https://www.math.uci.edu/~ndonalds/math13/notes.pdf): Math 13 – An Introduction to Abstract Mathematics [pdf]</small>
-
-
-| 🔥🔥: 107 \| 💬: [6](https://news.ycombinator.com/item?id=43675310) \| 🗓️ 2025-04-13
-
-
-<br />
-该PDF教材系统介绍了抽象数学的基础概念与方法。**核心章节**包括逻辑与证明语言、集合与函数、数学归纳法、集合论进阶（笛卡尔积、幂集）以及关系与划分。重点探讨了**欧几里得算法**、**命题逻辑**和**基数理论**，为读者构建严格的数学思维框架。内容从具体证明技巧延伸到无限集合的抽象性质，适合需要夯实数学基础的学生。
-
----
-
-## <a name="10"></a>10. MCP协议的三重隐患：安全漏洞、交互缺陷与数据风险 
+## <a name="7"></a>7. MCP协议的三重隐患：安全漏洞、交互缺陷与数据风险 
 <small>🔗 [blog.sshh.io](https://blog.sshh.io/p/everything-wrong-with-mcp): Everything wrong with MCP</small>
 
 
-| 🔥🔥: 104 \| 💬: [55](https://news.ycombinator.com/item?id=43676771) \| 🗓️ 2025-04-13
+| 🔥🔥: 123 \| 💬: [67](https://news.ycombinator.com/item?id=43676771) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -143,23 +107,11 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 
 ---
 
-## <a name="11"></a>11. 别在家用服务器上出售闲置空间（2023） 
-<small>🔗 [grumpy.systems](https://grumpy.systems/2023/please-dont-sell-space-in-your-homelab/): Don't sell space in your homelab (2023)</small>
-
-
-| 🔥🔥: 103 \| 💬: [86](https://news.ycombinator.com/item?id=43674267) \| 🗓️ 2025-04-13
-
-
-<br />
-作者强烈建议不要将家用服务器的闲置空间商业化出租。**法律风险**、**硬件可靠性**和**网络安全**是主要障碍：住宅网络不符合商用需求，客户可能滥用服务导致法律纠纷，且维护成本（如备份、升级、合规审计）远超收益。若想利用闲置资源，可考虑为朋友托管、参与公益计算（如Folding@Home）或精简设备。
-
----
-
-## <a name="12"></a>12. 我买了一台古董Mac电脑的奇幻冒险 
+## <a name="8"></a>8. 我买了一台古董Mac电脑的奇幻冒险 
 <small>🔗 [loganius.org](https://loganius.org/2025/04/i-bought-a-mac/): I bought a Mac</small>
 
 
-| 🔥🔥: 103 \| 💬: [61](https://news.ycombinator.com/item?id=43677165) \| 🗓️ 2025-04-13
+| 🔥🔥: 120 \| 💬: [68](https://news.ycombinator.com/item?id=43677165) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -167,11 +119,59 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 
 ---
 
+## <a name="9"></a>9. 数学13：抽象数学导论 [PDF] 
+<small>🔗 [math.uci.edu](https://www.math.uci.edu/~ndonalds/math13/notes.pdf): Math 13 – An Introduction to Abstract Mathematics [pdf]</small>
+
+
+| 🔥🔥: 115 \| 💬: [6](https://news.ycombinator.com/item?id=43675310) \| 🗓️ 2025-04-13
+
+
+<br />
+该PDF教材系统介绍了抽象数学的基础概念与方法。**核心章节**包括逻辑与证明语言、集合与函数、数学归纳法、集合论进阶（笛卡尔积、幂集）以及关系与划分。重点探讨了**欧几里得算法**、**命题逻辑**和**基数理论**，为读者构建严格的数学思维框架。内容从具体证明技巧延伸到无限集合的抽象性质，适合需要夯实数学基础的学生。
+
+---
+
+## <a name="10"></a>10. 用Aider实现多模型并行调试：低成本高效修复Bug 
+<small>🔗 [worksonmymachine.substack.com](https://worksonmymachine.substack.com/p/wasting-inferences-with-aider): Wasting Inferences with Aider</small>
+
+
+| 🔥🔥: 114 \| 💬: [90](https://news.ycombinator.com/item?id=43672712) \| 🗓️ 2025-04-13
+
+
+<br />
+本文介绍了一种通过**多模型并行推理**自动修复代码Bug的实验。作者将Asana任务直接关联到Aider编程代理，触发**GPT-4o、Claude 3.5和Gemini 2.0**三个模型同时生成修复方案，最终自动提交三个PR供选择。关键发现：**成本仅9美分**，且自动化流程完全由项目管理工具驱动。这验证了“**冗余推理**”策略的可行性，预示未来AI协作开发可能成为常态。实验代码已开源，展示了当前技术下代理集群的简易实现。
+
+---
+
+## <a name="11"></a>11. 西雅图半数男性从未结婚，人口普查数据显示 
+<small>🔗 [seattletimes.com](https://www.seattletimes.com/seattle-news/data/half-the-men-in-seattle-are-never-married-singles-for-the-first-time/): Half the men in Seattle are never-married singles, census data shows</small>
+
+
+| 🔥🔥: 109 \| 💬: [173](https://news.ycombinator.com/item?id=43673125) \| 🗓️ 2025-04-13
+
+
+<br />
+最新数据显示，**2023年西雅图15岁及以上男性中，50.4%从未结婚**，首次突破半数门槛。女性未婚比例为43.3%，全美普遍存在类似性别差异，原因包括**男性结婚年龄较晚**（华盛顿州男性初婚中位数30.4岁，女性28岁）及男性寿命较短。在全美50大城市中，西雅图是14个未婚男性超半数的城市之一，底特律比例最高（近60%）。尽管2015年同性婚姻合法化扩大了结婚人群，但西雅图未婚男性比例仍较2010年（48%）上升，可能与婚姻观念变化有关。
+
+---
+
+## <a name="12"></a>12. 别在家用服务器上出售闲置空间（2023） 
+<small>🔗 [grumpy.systems](https://grumpy.systems/2023/please-dont-sell-space-in-your-homelab/): Don't sell space in your homelab (2023)</small>
+
+
+| 🔥🔥: 105 \| 💬: [86](https://news.ycombinator.com/item?id=43674267) \| 🗓️ 2025-04-13
+
+
+<br />
+作者强烈建议不要将家用服务器的闲置空间商业化出租。**法律风险**、**硬件可靠性**和**网络安全**是主要障碍：住宅网络不符合商用需求，客户可能滥用服务导致法律纠纷，且维护成本（如备份、升级、合规审计）远超收益。若想利用闲置资源，可考虑为朋友托管、参与公益计算（如Folding@Home）或精简设备。
+
+---
+
 ## <a name="13"></a>13. 红网袋如何让橙子看起来更橙？ 
 <small>🔗 [alexanderell.is](https://alexanderell.is/posts/orange/): How much oranger do red orange bags make oranges look?</small>
 
 
-| 🔥: 90 \| 💬: [52](https://news.ycombinator.com/item?id=43673761) \| 🗓️ 2025-04-13
+| 🔥: 98 \| 💬: [56](https://news.ycombinator.com/item?id=43673761) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -179,11 +179,23 @@ Skywork团队发布**Skywork-OR1系列**开源模型，包含32B通用预览版�
 
 ---
 
-## <a name="14"></a>14. EXWM：基于Emacs的X窗口管理器 
+## <a name="14"></a>14. 免费SEC文件分析工具：自动生成详细财报摘要 
+<small>🔗 [signalbloom.ai](https://www.signalbloom.ai/news/): Show HN: I made a free tool that analyzes SEC filings and posts detailed reports</small>
+
+
+| 🔥: 98 \| 💬: [32](https://news.ycombinator.com/item?id=43675248) \| 🗓️ 2025-04-13
+
+
+<br />
+Wilson Bank Holding Company (**WBHC**)公布2025年**第一季度强劲业绩**，每股收益(**EPS**)同比显著增长，资产负债表持续扩张。该工具可自动解析SEC文件并生成深度报告，帮助投资者快速获取关键财务数据。5分钟即可阅读完整分析。
+
+---
+
+## <a name="15"></a>15. EXWM：基于Emacs的X窗口管理器 
 <small>🔗 [github.com](https://github.com/emacs-exwm/exwm): Exwm: Emacs X Window Manager</small>
 
 
-| 🔥: 87 \| 💬: [21](https://news.ycombinator.com/item?id=43674233) \| 🗓️ 2025-04-13
+| 🔥: 92 \| 💬: [23](https://news.ycombinator.com/item?id=43674233) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -191,11 +203,23 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 
 ---
 
-## <a name="15"></a>15. 经典杂志《Compute!'s Gazette》时隔35年复刊，聚焦复古计算 
+## <a name="16"></a>16. 从零实现DeepSeek R1的GRPO算法 
+<small>🔗 [github.com](https://github.com/policy-gradient/GRPO-Zero): Implementing DeepSeek R1's GRPO algorithm from scratch</small>
+
+
+| 🔥: 90 \| 💬: [0](https://news.ycombinator.com/item?id=43674825) \| 🗓️ 2025-04-13
+
+
+<br />
+该项目基于**GRPO算法**（分组相对策略优化），通过强化学习训练大语言模型解决数学任务。核心改进包括：**Token级策略梯度损失**（平等加权每个Token）、移除KL散度以节省显存、支持过长片段过滤。实验使用Qwen2.5-3B模型，在「倒计时」任务（用给定数字生成目标值的表达式）中，结合格式奖励（0.1分）和答案正确性奖励（1分）进行训练。代码仅依赖PyTorch和tokenizers，默认配置可在单卡A40（48GB显存）上运行数小时。
+
+---
+
+## <a name="17"></a>17. 经典杂志《Compute!'s Gazette》时隔35年复刊，聚焦复古计算 
 <small>🔗 [computesgazette.com](https://www.computesgazette.com/): Compute's Gazette Magazine Returns After 35 Yrs, Will Focus on Retro Computing</small>
 
 
-| 🔥: 85 \| 💬: [30](https://news.ycombinator.com/item?id=43671861) \| 🗓️ 2025-04-13
+| 🔥: 86 \| 💬: [30](https://news.ycombinator.com/item?id=43671861) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -203,7 +227,7 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 
 ---
 
-## <a name="16"></a>16. 用C#制作SNES游戏ROM 
+## <a name="18"></a>18. 用C#制作SNES游戏ROM 
 <small>🔗 [reddit.com](https://www.reddit.com/r/dotnet/s/fhm4TUNhlX): Making SNES ROMs using C#</small>
 
 
@@ -215,23 +239,11 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 
 ---
 
-## <a name="17"></a>17. 从零实现DeepSeek R1的GRPO算法 
-<small>🔗 [github.com](https://github.com/policy-gradient/GRPO-Zero): Implementing DeepSeek R1's GRPO algorithm from scratch</small>
-
-
-| 🔥: 83 \| 💬: [0](https://news.ycombinator.com/item?id=43674825) \| 🗓️ 2025-04-13
-
-
-<br />
-该项目基于**GRPO算法**（分组相对策略优化），通过强化学习训练大语言模型解决数学任务。核心改进包括：**Token级策略梯度损失**（平等加权每个Token）、移除KL散度以节省显存、支持过长片段过滤。实验使用Qwen2.5-3B模型，在「倒计时」任务（用给定数字生成目标值的表达式）中，结合格式奖励（0.1分）和答案正确性奖励（1分）进行训练。代码仅依赖PyTorch和tokenizers，默认配置可在单卡A40（48GB显存）上运行数小时。
-
----
-
-## <a name="18"></a>18. 我的虚拟孩子不需要你的流媒体服务 
+## <a name="19"></a>19. 我的虚拟孩子不需要你的流媒体服务 
 <small>🔗 [shkspr.mobi](https://shkspr.mobi/blog/2021/04/my-imaginary-children-arent-using-your-streaming-service/): My imaginary children aren't using your streaming service</small>
 
 
-| 🔥: 79 \| 💬: [118](https://news.ycombinator.com/item?id=43671098) \| 🗓️ 2025-04-13
+| 🔥: 81 \| 💬: [118](https://news.ycombinator.com/item?id=43671098) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -239,23 +251,11 @@ EXWM是一款基于**XELB**的全功能平铺式X窗口管理器，深度集成�
 
 ---
 
-## <a name="19"></a>19. 免费SEC文件分析工具：自动生成详细财报摘要 
-<small>🔗 [signalbloom.ai](https://www.signalbloom.ai/news/): Show HN: I made a free tool that analyzes SEC filings and posts detailed reports</small>
-
-
-| 🔥: 78 \| 💬: [27](https://news.ycombinator.com/item?id=43675248) \| 🗓️ 2025-04-13
-
-
-<br />
-Wilson Bank Holding Company (**WBHC**)公布2025年**第一季度强劲业绩**，每股收益(**EPS**)同比显著增长，资产负债表持续扩张。该工具可自动解析SEC文件并生成深度报告，帮助投资者快速获取关键财务数据。5分钟即可阅读完整分析。
-
----
-
 ## <a name="20"></a>20. Ollama与LangChain快速入门：MCP协议解析与实践 
 <small>🔗 [polarsparc.com](https://www.polarsparc.com/xhtml/MCP.html): Quick Primer on MCP Using Ollama and LangChain</small>
 
 
-| 🔥: 72 \| 💬: [11](https://news.ycombinator.com/item?id=43676084) \| 🗓️ 2025-04-13
+| 🔥: 75 \| 💬: [11](https://news.ycombinator.com/item?id=43676084) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -275,15 +275,15 @@ Wilson Bank Holding Company (**WBHC**)公布2025年**第一季度强劲业绩**�
 
 ---
 
-## <a name="22"></a>22. AMD NPU与Xilinx Versal AI引擎在射电天文信号处理中的应用（2024） 
-<small>🔗 [git.astron.nl](https://git.astron.nl/RD/acap/-/raw/main/Presentation_FPL24_Vincent_Sprave.pdf): AMD NPU and Xilinx Versal AI Engines Signal Processing in Radio Astronomy (2024) [pdf]</small>
+## <a name="22"></a>22. 无需反向传播或前向传播的神经网络训练新方法：NoProp 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2503.24322): NoProp: Training neural networks without back-propagation or forward-propagation</small>
 
 
-| 🔥: 60 \| 💬: [27](https://news.ycombinator.com/item?id=43671940) \| 🗓️ 2025-04-13
+| 🔥: 67 \| 💬: [11](https://news.ycombinator.com/item?id=43676837) \| 🗓️ 2025-04-13
 
 
 <br />
-该PDF文档探讨了**AMD NPU**和**Xilinx Versal AI引擎**在射电天文信号处理中的协同应用。重点介绍了如何利用这些**高性能计算单元**优化天文数据的实时处理能力，提升信号分析的效率和精度。文档还涉及硬件架构设计、算法优化及实际应用案例，展现了其在**大规模数据处理**中的潜力。
+传统深度学习依赖**反向传播**计算梯度，形成层次化特征表示。本文提出**NoProp**，一种受扩散模型启发的全新训练方法，**无需前向或反向传播**。NoProp通过让每层独立学习对噪声目标的去噪过程，打破传统梯度更新范式，在MNIST等数据集上表现优异，**计算效率更高且更易使用**。该方法为梯度无关学习开辟了新方向，可能改变网络内部的信用分配机制，提升分布式学习效率。
 
 ---
 
@@ -291,7 +291,7 @@ Wilson Bank Holding Company (**WBHC**)公布2025年**第一季度强劲业绩**�
 <small>🔗 [doc.cat-v.org](https://doc.cat-v.org/bell_labs/why_pascal/why_pascal_is_not_my_favorite_language.pdf): Why Pascal is not my favorite programming language (1981) [pdf]</small>
 
 
-| 🔥: 60 \| 💬: [68](https://news.ycombinator.com/item?id=43672975) \| 🗓️ 2025-04-13
+| 🔥: 62 \| 💬: [68](https://news.ycombinator.com/item?id=43672975) \| 🗓️ 2025-04-13
 
 
 <br />
@@ -299,26 +299,26 @@ Wilson Bank Holding Company (**WBHC**)公布2025年**第一季度强劲业绩**�
 
 ---
 
-## <a name="24"></a>24. 修复Commodore PET的曲折历程：追踪6.5个故障芯片 
+## <a name="24"></a>24. AMD NPU与Xilinx Versal AI引擎在射电天文信号处理中的应用（2024） 
+<small>🔗 [git.astron.nl](https://git.astron.nl/RD/acap/-/raw/main/Presentation_FPL24_Vincent_Sprave.pdf): AMD NPU and Xilinx Versal AI Engines Signal Processing in Radio Astronomy (2024) [pdf]</small>
+
+
+| 🔥: 60 \| 💬: [28](https://news.ycombinator.com/item?id=43671940) \| 🗓️ 2025-04-13
+
+
+<br />
+该PDF文档探讨了**AMD NPU**和**Xilinx Versal AI引擎**在射电天文信号处理中的协同应用。重点介绍了如何利用这些**高性能计算单元**优化天文数据的实时处理能力，提升信号分析的效率和精度。文档还涉及硬件架构设计、算法优化及实际应用案例，展现了其在**大规模数据处理**中的潜力。
+
+---
+
+## <a name="25"></a>25. 修复Commodore PET的曲折历程：追踪6.5个故障芯片 
 <small>🔗 [righto.com](http://www.righto.com/2025/04/commodore-pet-repair.html): A tricky Commodore PET repair: tracking down 6 1/2 bad chips</small>
 
 
-| 🔥: 59 \| 💬: [21](https://news.ycombinator.com/item?id=43673862) \| 🗓️ 2025-04-13
+| 🔥: 60 \| 💬: [21](https://news.ycombinator.com/item?id=43673862) \| 🗓️ 2025-04-13
 
 
 <br />
 作者回忆了修复一台1977年Commodore PET电脑的艰难过程。这台经典电脑因**ROM和RAM芯片故障**导致启动异常，屏幕显示乱码。通过**逻辑分析仪**和逆向工程工具Ghidra，团队发现数据总线信号异常，最终定位到两片损坏的ROM和四片RAM芯片。其中一片ROM因编程电压不足导致数据错误，被戏称为“半个坏芯片”。修复过程涉及替换罕见型号的MOS芯片，并借助适配器改用标准EPROM。尽管耗时费力，最终成功让这台充满怀旧意义的电脑重现图形界面。
-
----
-
-## <a name="25"></a>25. 特斯拉推出减配版Cybertruck后驱版：性能大缩水，价格却不便宜 
-<small>🔗 [jalopnik.com](https://www.jalopnik.com/1832213/tesla-releases-cheaper-rwd-cybertruck/): Tesla Releases Stripped RWD Cybertruck: So Much Worse for Not Much Less Money</small>
-
-
-| 🔥: 58 \| 💬: [100](https://news.ycombinator.com/item?id=43673235) \| 🗓️ 2025-04-13
-
-
-<br />
-特斯拉近日推出**后驱版Cybertruck**，售价71,985美元，仅比四驱版便宜1万美元，但**配置大幅缩水**：取消空气悬架、电动卷帘盖、车内多项功能及豪华内饰，续航虽增至350英里，但加速、载重和拖拽能力均下降。对比竞品如福特F-150 Lightning等，性价比偏低。此前承诺的4万美元起售价未兑现，且车辆仍存在工艺问题，市场前景堪忧。
 
 ---
