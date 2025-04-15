@@ -12,7 +12,7 @@ tags:
 1. 用单表SQLite和定时任务打造可定制的AI管家；
 1. DeepSeek 推理引擎开源之路；
 1. 谷歌AI助力破解海豚语言：DolphinGemma项目突破；
-1. Zig语言新版LinkedList API解析：掌握@fieldParentPtr；
+1. 英特尔以87.5亿美元估值出售Altera 51%股权给私募银湖资本；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [harvard.edu](https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/): Harvard's response to federal government letter demanding changes</small>
 
 
-| 🔥🔥: 842 \| 💬: [681](https://news.ycombinator.com/item?id=43684536) \| 🗓️ 2025-04-14
+| 🔥🔥: 874 \| 💬: [747](https://news.ycombinator.com/item?id=43684536) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [geoffreylitt.com](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs): A hackable AI assistant using a single SQLite table and a handful of cron jobs</small>
 
 
-| 🔥🔥: 449 \| 💬: [118](https://news.ycombinator.com/item?id=43681287) \| 🗓️ 2025-04-14
+| 🔥🔥: 463 \| 💬: [120](https://news.ycombinator.com/item?id=43681287) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine): The path to open-sourcing the DeepSeek inference engine</small>
 
 
-| 🔥🔥: 347 \| 💬: [24](https://news.ycombinator.com/item?id=43682088) \| 🗓️ 2025-04-14
+| 🔥🔥: 360 \| 💬: [26](https://news.ycombinator.com/item?id=43682088) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -63,7 +63,7 @@ DeepSeek 团队在开源周期间开源了多个库，获得社区积极反馈�
 <small>🔗 [blog.google](https://blog.google/technology/ai/dolphingemma/): DolphinGemma: How Google AI is helping decode dolphin communication</small>
 
 
-| 🔥🔥: 232 \| 💬: [88](https://news.ycombinator.com/item?id=43680899) \| 🗓️ 2025-04-14
+| 🔥🔥: 243 \| 💬: [93](https://news.ycombinator.com/item?id=43680899) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -71,47 +71,11 @@ DeepSeek 团队在开源周期间开源了多个库，获得社区积极反馈�
 
 ---
 
-## <a name="5"></a>5. Zig语言新版LinkedList API解析：掌握@fieldParentPtr 
-<small>🔗 [openmymind.net](https://www.openmymind.net/Zigs-New-LinkedList-API/): Zig's new LinkedList API (it's time to learn fieldParentPtr)</small>
-
-
-| 🔥🔥: 166 \| 💬: [133](https://news.ycombinator.com/item?id=43679707) \| 🗓️ 2025-04-14
-
-
-<br />
-Zig最新提交的`SinglyLinkedList`和`DoublyLinkedList`改用**侵入式链表**设计，节点直接嵌入用户数据结构中，减少内存分配。新API移除了泛型，通过`@fieldParentPtr`内置函数从节点指针反向获取父结构（如`User`）。虽然该API性能更优，但需熟悉**内存偏移计算**和字段布局。示例演示了如何通过`@offsetOf`安全定位字段，并强调开发者需适应这种底层操作模式。
-
----
-
-## <a name="6"></a>6. Omnom：支持可搜索可视化快照的自托管书签工具 
-<small>🔗 [omnom.zone](https://omnom.zone/?src=hn): Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots [showcase]</small>
-
-
-| 🔥🔥: 141 \| 💬: [45](https://news.ycombinator.com/item?id=43680232) \| 🗓️ 2025-04-14
-
-
-<br />
-这是一个**只读演示版本**，用户可通过GitHub获取完整信息。Omnom是一款**自托管书签管理工具**，特色功能包括**可视化快照保存**（WYSIWYG）和全文搜索，方便用户高效归档与检索网页内容。项目开源，适合注重隐私与定制化的用户。
-
----
-
-## <a name="7"></a>7. 如何骑自行车横穿全国 
-<small>🔗 [brooks.team](https://www.brooks.team/posts/how-to-bike-across-the-country/): How to Bike Across the Country</small>
-
-
-| 🔥🔥: 140 \| 💬: [72](https://news.ycombinator.com/item?id=43681936) \| 🗓️ 2025-04-14
-
-
-<br />
-本文介绍了**长途骑行**的必备要点，包括路线规划、**装备选择**和体能训练。强调提前了解天气和地形，携带足够补给，并保持**循序渐进**的骑行节奏，确保安全与可持续性。适合骑行爱好者挑战自我，探索沿途风景。
-
----
-
-## <a name="8"></a>8. 英特尔以87.5亿美元估值出售Altera 51%股权给私募银湖资本 
+## <a name="5"></a>5. 英特尔以87.5亿美元估值出售Altera 51%股权给私募银湖资本 
 <small>🔗 [newsroom.intel.com](https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025): Intel sells 51% stake in Altera to private equity firm on a $8.75B valuation</small>
 
 
-| 🔥🔥: 126 \| 💬: [89](https://news.ycombinator.com/item?id=43686773) \| 🗓️ 2025-04-14
+| 🔥🔥: 172 \| 💬: [115](https://news.ycombinator.com/item?id=43686773) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -119,35 +83,47 @@ Zig最新提交的`SinglyLinkedList`和`DoublyLinkedList`改用**侵入式链表
 
 ---
 
-## <a name="9"></a>9. 《黑客实战C语言：C编程实用指南》 
-<small>🔗 [github.com](https://github.com/codr7/hacktical-c): Hacktical C: practical hacker's guide to the C programming language</small>
+## <a name="6"></a>6. Zig语言新版LinkedList API解析：掌握@fieldParentPtr 
+<small>🔗 [openmymind.net](https://www.openmymind.net/Zigs-New-LinkedList-API/): Zig's new LinkedList API (it's time to learn fieldParentPtr)</small>
 
 
-| 🔥🔥: 124 \| 💬: [114](https://news.ycombinator.com/item?id=43679781) \| 🗓️ 2025-04-14
-
-
-<br />
-这是一本面向**黑客**的C语言实用指南，强调**实战技巧**而非基础语法。作者作为资深开发者，分享多年积累的**高效编程方法**，包括宏、固定点数运算、侵入式双向链表等高级主题。书中探讨了C语言的独特优势——自由与责任并存，并对比现代语言的局限性。项目开源，支持捐赠，推荐在Linux环境下使用GNU扩展功能。适合已掌握基础、渴望深入C语言核心的开发者。
-
----
-
-## <a name="10"></a>10. Meilisearch：AI驱动的混合搜索引擎API 
-<small>🔗 [github.com](https://github.com/meilisearch/meilisearch): Meilisearch – search engine API bringing AI-powered hybrid search</small>
-
-
-| 🔥🔥: 119 \| 💬: [49](https://news.ycombinator.com/item?id=43680699) \| 🗓️ 2025-04-14
+| 🔥🔥: 167 \| 💬: [136](https://news.ycombinator.com/item?id=43679707) \| 🗓️ 2025-04-14
 
 
 <br />
-Meilisearch是一款**闪电般快速**的搜索引擎API，为网站和应用提供**AI驱动的混合搜索**（结合语义与全文搜索）。支持即时搜索、错字容错、多语言优化及地理搜索等功能，50毫秒内返回结果。提供RESTful API、多租户管理和丰富SDK，**开箱即用**且易于部署。开源MIT许可，社区活跃，适合电商、影视等场景。
+Zig最新提交的`SinglyLinkedList`和`DoublyLinkedList`改用**侵入式链表**设计，节点直接嵌入用户数据结构中，减少内存分配。新API移除了泛型，通过`@fieldParentPtr`内置函数从节点指针反向获取父结构（如`User`）。虽然该API性能更优，但需熟悉**内存偏移计算**和字段布局。示例演示了如何通过`@offsetOf`安全定位字段，并强调开发者需适应这种底层操作模式。
 
 ---
 
-## <a name="11"></a>11. 熵到底是什么？ 
+## <a name="7"></a>7. Omnom：支持可搜索可视化快照的自托管书签工具 
+<small>🔗 [omnom.zone](https://omnom.zone/?src=hn): Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots [showcase]</small>
+
+
+| 🔥🔥: 143 \| 💬: [45](https://news.ycombinator.com/item?id=43680232) \| 🗓️ 2025-04-14
+
+
+<br />
+这是一个**只读演示版本**，用户可通过GitHub获取完整信息。Omnom是一款**自托管书签管理工具**，特色功能包括**可视化快照保存**（WYSIWYG）和全文搜索，方便用户高效归档与检索网页内容。项目开源，适合注重隐私与定制化的用户。
+
+---
+
+## <a name="8"></a>8. 如何骑自行车横穿全国 
+<small>🔗 [brooks.team](https://www.brooks.team/posts/how-to-bike-across-the-country/): How to Bike Across the Country</small>
+
+
+| 🔥🔥: 140 \| 💬: [73](https://news.ycombinator.com/item?id=43681936) \| 🗓️ 2025-04-14
+
+
+<br />
+本文介绍了**长途骑行**的必备要点，包括路线规划、**装备选择**和体能训练。强调提前了解天气和地形，携带足够补给，并保持**循序渐进**的骑行节奏，确保安全与可持续性。适合骑行爱好者挑战自我，探索沿途风景。
+
+---
+
+## <a name="9"></a>9. 熵到底是什么？ 
 <small>🔗 [jasonfantl.com](https://jasonfantl.com/posts/What-is-Entropy/): What Is Entropy?</small>
 
 
-| 🔥🔥: 119 \| 💬: [42](https://news.ycombinator.com/item?id=43684560) \| 🗓️ 2025-04-14
+| 🔥🔥: 129 \| 💬: [45](https://news.ycombinator.com/item?id=43684560) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -155,11 +131,35 @@ Meilisearch是一款**闪电般快速**的搜索引擎API，为网站和应用�
 
 ---
 
+## <a name="10"></a>10. 《黑客实战C语言：C编程实用指南》 
+<small>🔗 [github.com](https://github.com/codr7/hacktical-c): Hacktical C: practical hacker's guide to the C programming language</small>
+
+
+| 🔥🔥: 125 \| 💬: [114](https://news.ycombinator.com/item?id=43679781) \| 🗓️ 2025-04-14
+
+
+<br />
+这是一本面向**黑客**的C语言实用指南，强调**实战技巧**而非基础语法。作者作为资深开发者，分享多年积累的**高效编程方法**，包括宏、固定点数运算、侵入式双向链表等高级主题。书中探讨了C语言的独特优势——自由与责任并存，并对比现代语言的局限性。项目开源，支持捐赠，推荐在Linux环境下使用GNU扩展功能。适合已掌握基础、渴望深入C语言核心的开发者。
+
+---
+
+## <a name="11"></a>11. Meilisearch：AI驱动的混合搜索引擎API 
+<small>🔗 [github.com](https://github.com/meilisearch/meilisearch): Meilisearch – search engine API bringing AI-powered hybrid search</small>
+
+
+| 🔥🔥: 125 \| 💬: [50](https://news.ycombinator.com/item?id=43680699) \| 🗓️ 2025-04-14
+
+
+<br />
+Meilisearch是一款**闪电般快速**的搜索引擎API，为网站和应用提供**AI驱动的混合搜索**（结合语义与全文搜索）。支持即时搜索、错字容错、多语言优化及地理搜索等功能，50毫秒内返回结果。提供RESTful API、多租户管理和丰富SDK，**开箱即用**且易于部署。开源MIT许可，社区活跃，适合电商、影视等场景。
+
+---
+
 ## <a name="12"></a>12. 联邦政府致函哈佛大学要求整改 
 <small>🔗 [harvard.edu](https://www.harvard.edu/research-funding/wp-content/uploads/sites/16/2025/04/Letter-Sent-to-Harvard-2025-04-11.pdf): Federal Government's letter to Harvard demanding changes [pdf]</small>
 
 
-| 🔥🔥: 112 \| 💬: [42](https://news.ycombinator.com/item?id=43684386) \| 🗓️ 2025-04-14
+| 🔥🔥: 113 \| 💬: [43](https://news.ycombinator.com/item?id=43684386) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -171,7 +171,7 @@ Meilisearch是一款**闪电般快速**的搜索引擎API，为网站和应用�
 <small>🔗 [wheresyoured.at](https://www.wheresyoured.at/openai-is-a-systemic-risk-to-the-tech-industry-2/): OpenAI Is a Systemic Risk to the Tech Industry</small>
 
 
-| 🔥🔥: 108 \| 💬: [101](https://news.ycombinator.com/item?id=43683071) \| 🗓️ 2025-04-14
+| 🔥🔥: 108 \| 💬: [103](https://news.ycombinator.com/item?id=43683071) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -183,7 +183,7 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 <small>🔗 [zeyuet.github.io](https://zeyuet.github.io/AudioX/): AudioX: Diffusion Transformer for Anything-to-Audio Generation</small>
 
 
-| 🔥: 99 \| 💬: [10](https://news.ycombinator.com/item?id=43683907) \| 🗓️ 2025-04-14
+| 🔥🔥: 106 \| 💬: [11](https://news.ycombinator.com/item?id=43683907) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -191,23 +191,11 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
-## <a name="15"></a>15. 多伦多女子在Lyft车内聊天后收到对话转录短信 
-<small>🔗 [cbc.ca](https://www.cbc.ca/news/canada/toronto/lyft-conversation-transcribed-1.7508106): She was chatting with friends in a Lyft. Then someone texted her what they said</small>
-
-
-| 🔥: 90 \| 💬: [81](https://news.ycombinator.com/item?id=43680039) \| 🗓️ 2025-04-14
-
-
-<br />
-一名多伦多女性在Lyft乘车期间与室友的私人对话被**录音并转录为短信**发送至其手机，引发隐私担忧。Lyft公司起初称此为美国试点项目，后改口称司机**未经同意擅自录音**并已对其采取行动。加拿大隐私专家指出，此举违反**《个人信息保护与电子文件法》**，强调企业必须明确告知并获用户同意才能收集数据。事件暴露了网约车场景下的隐私风险，涉事女性呼吁Lyft加强对用户数据的保护责任。
-
----
-
-## <a name="16"></a>16. Podman Quadlets：轻量级容器管理的系统化方案 
+## <a name="15"></a>15. Podman Quadlets：轻量级容器管理的系统化方案 
 <small>🔗 [podman-desktop.io](https://podman-desktop.io/blog/podman-quadlet): Podman Quadlets with Podman Desktop</small>
 
 
-| 🔥: 89 \| 💬: [35](https://news.ycombinator.com/item?id=43683641) \| 🗓️ 2025-04-14
+| 🔥: 96 \| 💬: [38](https://news.ycombinator.com/item?id=43683641) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -215,11 +203,23 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
+## <a name="16"></a>16. 多伦多女子在Lyft车内聊天后收到对话转录短信 
+<small>🔗 [cbc.ca](https://www.cbc.ca/news/canada/toronto/lyft-conversation-transcribed-1.7508106): She was chatting with friends in a Lyft. Then someone texted her what they said</small>
+
+
+| 🔥: 92 \| 💬: [81](https://news.ycombinator.com/item?id=43680039) \| 🗓️ 2025-04-14
+
+
+<br />
+一名多伦多女性在Lyft乘车期间与室友的私人对话被**录音并转录为短信**发送至其手机，引发隐私担忧。Lyft公司起初称此为美国试点项目，后改口称司机**未经同意擅自录音**并已对其采取行动。加拿大隐私专家指出，此举违反**《个人信息保护与电子文件法》**，强调企业必须明确告知并获用户同意才能收集数据。事件暴露了网约车场景下的隐私风险，涉事女性呼吁Lyft加强对用户数据的保护责任。
+
+---
+
 ## <a name="17"></a>17. 零代码生成：直接从Protobuf推断TypeScript类型 
 <small>🔗 [github.com](https://github.com/nathanhleung/protobuf-ts-types): Show HN: Zero-codegen, no-compile TypeScript type inference from Protobufs</small>
 
 
-| 🔥: 84 \| 💬: [45](https://news.ycombinator.com/item?id=43682547) \| 🗓️ 2025-04-14
+| 🔥: 88 \| 💬: [45](https://news.ycombinator.com/item?id=43682547) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -238,7 +238,7 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 <small>🔗 [pypi.org](https://pypi.org/project/tariff/): Tariff: A Python package that imposes tariffs on Python imports</small>
 
 
-| 🔥: 77 \| 💬: [6](https://news.ycombinator.com/item?id=43681752) \| 🗓️ 2025-04-14
+| 🔥: 86 \| 💬: [7](https://news.ycombinator.com/item?id=43681752) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -252,7 +252,7 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 <small>🔗 [ft.com](https://www.ft.com/content/20d0678a-41b2-468d-ac10-14ce1eae357b): EU issues US-bound staff with burner phones over spying fears</small>
 
 
-| 🔥: 75 \| 💬: [39](https://news.ycombinator.com/item?id=43680556) \| 🗓️ 2025-04-14
+| 🔥: 77 \| 💬: [39](https://news.ycombinator.com/item?id=43680556) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -264,7 +264,7 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 <small>🔗 [huffpost.com](https://www.huffpost.com/entry/white-house-confirms-trump-is-exploring-ways-to-deport-us-citizens_n_67f580abe4b0a5ea5c7608d2): White House Confirms Trump Is Exploring Ways to 'Deport' U.S. Citizens</small>
 
 
-| 🔥: 68 \| 💬: [30](https://news.ycombinator.com/item?id=43682941) \| 🗓️ 2025-04-14
+| 🔥: 69 \| 💬: [31](https://news.ycombinator.com/item?id=43682941) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -276,7 +276,7 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 <small>🔗 [simplewebserver.org](https://simplewebserver.org/): Simple Web Server</small>
 
 
-| 🔥: 63 \| 💬: [41](https://news.ycombinator.com/item?id=43684009) \| 🗓️ 2025-04-14
+| 🔥: 64 \| 💬: [42](https://news.ycombinator.com/item?id=43684009) \| 🗓️ 2025-04-14
 
 
 <br />
