@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [harvard.edu](https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/): Harvard's response to federal government letter demanding changes</small>
 
 
-| 🔥🔥: 906 \| 💬: [800](https://news.ycombinator.com/item?id=43684536) \| 🗓️ 2025-04-14
+| 🔥🔥: 945 \| 💬: [850](https://news.ycombinator.com/item?id=43684536) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [geoffreylitt.com](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs): A hackable AI assistant using a single SQLite table and a handful of cron jobs</small>
 
 
-| 🔥🔥: 486 \| 💬: [122](https://news.ycombinator.com/item?id=43681287) \| 🗓️ 2025-04-14
+| 🔥🔥: 505 \| 💬: [127](https://news.ycombinator.com/item?id=43681287) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine): The path to open-sourcing the DeepSeek inference engine</small>
 
 
-| 🔥🔥: 376 \| 💬: [27](https://news.ycombinator.com/item?id=43682088) \| 🗓️ 2025-04-14
+| 🔥🔥: 387 \| 💬: [29](https://news.ycombinator.com/item?id=43682088) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -63,7 +63,7 @@ DeepSeek 团队在开源周期间开源了多个库，获得社区积极反馈�
 <small>🔗 [blog.google](https://blog.google/technology/ai/dolphingemma/): DolphinGemma: How Google AI is helping decode dolphin communication</small>
 
 
-| 🔥🔥: 251 \| 💬: [97](https://news.ycombinator.com/item?id=43680899) \| 🗓️ 2025-04-14
+| 🔥🔥: 258 \| 💬: [99](https://news.ycombinator.com/item?id=43680899) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -75,7 +75,7 @@ DeepSeek 团队在开源周期间开源了多个库，获得社区积极反馈�
 <small>🔗 [newsroom.intel.com](https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025): Intel sells 51% stake in Altera to private equity firm on a $8.75B valuation</small>
 
 
-| 🔥🔥: 202 \| 💬: [136](https://news.ycombinator.com/item?id=43686773) \| 🗓️ 2025-04-14
+| 🔥🔥: 211 \| 💬: [146](https://news.ycombinator.com/item?id=43686773) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -95,23 +95,11 @@ Zig最新提交的`SinglyLinkedList`和`DoublyLinkedList`改用**侵入式链表
 
 ---
 
-## <a name="7"></a>7. Omnom：支持可搜索可视化快照的自托管书签工具 
-<small>🔗 [omnom.zone](https://omnom.zone/?src=hn): Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots [showcase]</small>
-
-
-| 🔥🔥: 144 \| 💬: [46](https://news.ycombinator.com/item?id=43680232) \| 🗓️ 2025-04-14
-
-
-<br />
-这是一个**只读演示版本**，用户可通过GitHub获取完整信息。Omnom是一款**自托管书签管理工具**，特色功能包括**可视化快照保存**（WYSIWYG）和全文搜索，方便用户高效归档与检索网页内容。项目开源，适合注重隐私与定制化的用户。
-
----
-
-## <a name="8"></a>8. 熵到底是什么？ 
+## <a name="7"></a>7. 熵到底是什么？ 
 <small>🔗 [jasonfantl.com](https://jasonfantl.com/posts/What-is-Entropy/): What Is Entropy?</small>
 
 
-| 🔥🔥: 144 \| 💬: [48](https://news.ycombinator.com/item?id=43684560) \| 🗓️ 2025-04-14
+| 🔥🔥: 155 \| 💬: [51](https://news.ycombinator.com/item?id=43684560) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -119,11 +107,23 @@ Zig最新提交的`SinglyLinkedList`和`DoublyLinkedList`改用**侵入式链表
 
 ---
 
+## <a name="8"></a>8. Omnom：支持可搜索可视化快照的自托管书签工具 
+<small>🔗 [omnom.zone](https://omnom.zone/?src=hn): Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots [showcase]</small>
+
+
+| 🔥🔥: 146 \| 💬: [46](https://news.ycombinator.com/item?id=43680232) \| 🗓️ 2025-04-14
+
+
+<br />
+这是一个**只读演示版本**，用户可通过GitHub获取完整信息。Omnom是一款**自托管书签管理工具**，特色功能包括**可视化快照保存**（WYSIWYG）和全文搜索，方便用户高效归档与检索网页内容。项目开源，适合注重隐私与定制化的用户。
+
+---
+
 ## <a name="9"></a>9. 如何骑自行车横穿全国 
 <small>🔗 [brooks.team](https://www.brooks.team/posts/how-to-bike-across-the-country/): How to Bike Across the Country</small>
 
 
-| 🔥🔥: 140 \| 💬: [73](https://news.ycombinator.com/item?id=43681936) \| 🗓️ 2025-04-14
+| 🔥🔥: 144 \| 💬: [77](https://news.ycombinator.com/item?id=43681936) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -135,7 +135,7 @@ Zig最新提交的`SinglyLinkedList`和`DoublyLinkedList`改用**侵入式链表
 <small>🔗 [github.com](https://github.com/meilisearch/meilisearch): Meilisearch – search engine API bringing AI-powered hybrid search</small>
 
 
-| 🔥🔥: 129 \| 💬: [51](https://news.ycombinator.com/item?id=43680699) \| 🗓️ 2025-04-14
+| 🔥🔥: 131 \| 💬: [52](https://news.ycombinator.com/item?id=43680699) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -159,7 +159,7 @@ Meilisearch是一款**闪电般快速**的搜索引擎API，为网站和应用�
 <small>🔗 [harvard.edu](https://www.harvard.edu/research-funding/wp-content/uploads/sites/16/2025/04/Letter-Sent-to-Harvard-2025-04-11.pdf): Federal Government's letter to Harvard demanding changes [pdf]</small>
 
 
-| 🔥🔥: 118 \| 💬: [43](https://news.ycombinator.com/item?id=43684386) \| 🗓️ 2025-04-14
+| 🔥🔥: 122 \| 💬: [46](https://news.ycombinator.com/item?id=43684386) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -171,7 +171,7 @@ Meilisearch是一款**闪电般快速**的搜索引擎API，为网站和应用�
 <small>🔗 [zeyuet.github.io](https://zeyuet.github.io/AudioX/): AudioX: Diffusion Transformer for Anything-to-Audio Generation</small>
 
 
-| 🔥🔥: 112 \| 💬: [11](https://news.ycombinator.com/item?id=43683907) \| 🗓️ 2025-04-14
+| 🔥🔥: 114 \| 💬: [11](https://news.ycombinator.com/item?id=43683907) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -183,7 +183,7 @@ Meilisearch是一款**闪电般快速**的搜索引擎API，为网站和应用�
 <small>🔗 [wheresyoured.at](https://www.wheresyoured.at/openai-is-a-systemic-risk-to-the-tech-industry-2/): OpenAI Is a Systemic Risk to the Tech Industry</small>
 
 
-| 🔥🔥: 108 \| 💬: [104](https://news.ycombinator.com/item?id=43683071) \| 🗓️ 2025-04-14
+| 🔥🔥: 110 \| 💬: [104](https://news.ycombinator.com/item?id=43683071) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -195,7 +195,7 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 <small>🔗 [podman-desktop.io](https://podman-desktop.io/blog/podman-quadlet): Podman Quadlets with Podman Desktop</small>
 
 
-| 🔥🔥: 101 \| 💬: [39](https://news.ycombinator.com/item?id=43683641) \| 🗓️ 2025-04-14
+| 🔥🔥: 106 \| 💬: [39](https://news.ycombinator.com/item?id=43683641) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -203,11 +203,25 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
-## <a name="16"></a>16. 零代码生成：直接从Protobuf推断TypeScript类型 
+## <a name="16"></a>16. 用Python给Python包加关税？这个恶搞库有点意思！ 
+<small>🔗 [pypi.org](https://pypi.org/project/tariff/): Tariff: A Python package that imposes tariffs on Python imports</small>
+
+
+| 🔥: 100 \| 💬: [10](https://news.ycombinator.com/item?id=43681752) \| 🗓️ 2025-04-14
+
+
+<br />
+**Tariff** 是一个恶搞性质的Python包，宣称要"让导入再次伟大"。它通过**模拟关税机制**，让指定第三方库的导入速度变慢——比如对`numpy`加征50%的"关税"，其导入时间就会延长50%。  
+
+该库采用**猴子补丁技术**修改导入行为，并会输出夸张的提示信息（例如"美国包正在赢！"）。作者以政治 parody 的形式调侃技术生态，明确标注"高风险娱乐项目"，采用MIT协议，**仅支持Python 3.6+**。安装只需`pip install tariff`，但建议不要在生产环境使用这种故意降低性能的玩具库。
+
+---
+
+## <a name="17"></a>17. 零代码生成：直接从Protobuf推断TypeScript类型 
 <small>🔗 [github.com](https://github.com/nathanhleung/protobuf-ts-types): Show HN: Zero-codegen, no-compile TypeScript type inference from Protobufs</small>
 
 
-| 🔥: 94 \| 💬: [46](https://news.ycombinator.com/item?id=43682547) \| 🗓️ 2025-04-14
+| 🔥: 97 \| 💬: [46](https://news.ycombinator.com/item?id=43682547) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -222,7 +236,7 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
-## <a name="17"></a>17. 多伦多女子在Lyft车内聊天后收到对话转录短信 
+## <a name="18"></a>18. 多伦多女子在Lyft车内聊天后收到对话转录短信 
 <small>🔗 [cbc.ca](https://www.cbc.ca/news/canada/toronto/lyft-conversation-transcribed-1.7508106): She was chatting with friends in a Lyft. Then someone texted her what they said</small>
 
 
@@ -234,21 +248,31 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
-## <a name="18"></a>18. 用Python给Python包加关税？这个恶搞库有点意思！ 
-<small>🔗 [pypi.org](https://pypi.org/project/tariff/): Tariff: A Python package that imposes tariffs on Python imports</small>
+## <a name="19"></a>19. 古墓引擎：开源自制《古墓丽影》游戏工具 
+<small>🔗 [tombengine.com](https://tombengine.com/): Tomb Engine</small>
 
 
-| 🔥: 93 \| 💬: [8](https://news.ycombinator.com/item?id=43681752) \| 🗓️ 2025-04-14
+| 🔥: 87 \| 💬: [17](https://news.ycombinator.com/item?id=43686936) \| 🗓️ 2025-04-14
 
 
 <br />
-**Tariff** 是一个恶搞性质的Python包，宣称要"让导入再次伟大"。它通过**模拟关税机制**，让指定第三方库的导入速度变慢——比如对`numpy`加征50%的"关税"，其导入时间就会延长50%。  
-
-该库采用**猴子补丁技术**修改导入行为，并会输出夸张的提示信息（例如"美国包正在赢！"）。作者以政治 parody 的形式调侃技术生态，明确标注"高风险娱乐项目"，采用MIT协议，**仅支持Python 3.6+**。安装只需`pip install tariff`，但建议不要在生产环境使用这种故意降低性能的玩具库。
+Tomb Engine 1.8.1 是一款**开源引擎**，专为《古墓丽影》粉丝打造自定义冒险游戏而设计。该项目由社区自发维护，**与官方无关联**，代码免费公开以促进学习和协作，但禁止商用或非法用途。开发团队强调，所有维护工作均由志愿者利用业余时间完成，**不提供任何担保**。支持平台包括GitHub、Discord等，欢迎爱好者参与贡献。
 
 ---
 
-## <a name="19"></a>19. 欧盟向赴美工作人员发放一次性手机 防范间谍活动 
+## <a name="20"></a>20. 被爬虫盯上的代价：LLM机器人与Vercel图片API的昂贵账单 
+<small>🔗 [metacast.app](https://metacast.app/blog/engineering/postmortem-llm-bots-image-optimization): The Cost of Being Crawled: LLM Bots and Vercel Image API Pricing</small>
+
+
+| 🔥: 78 \| 💬: [63](https://news.ycombinator.com/item?id=43687431) \| 🗓️ 2025-04-14
+
+
+<br />
+2025年2月，播客科技初创公司Metacast因**LLM机器人**（如Amazonbot、ClaudeBot等）疯狂爬取网站图片，触发了Vercel的**图片优化API**计费（每千次请求5美元），险些造成7000美元损失。问题根源在于**配置错误**：未限制外部图片优化，且未针对性屏蔽机器人流量。团队紧急禁用API、更新防火墙规则并优化robots.txt，同时反思云服务的**成本风险**。事件引发社交媒体热议，最终Vercel调整了定价，但团队仍选择自建图片优化方案。
+
+---
+
+## <a name="21"></a>21. 欧盟向赴美工作人员发放一次性手机 防范间谍活动 
 <small>🔗 [ft.com](https://www.ft.com/content/20d0678a-41b2-468d-ac10-14ce1eae357b): EU issues US-bound staff with burner phones over spying fears</small>
 
 
@@ -260,19 +284,7 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
-## <a name="20"></a>20. 古墓引擎：开源自制《古墓丽影》游戏工具 
-<small>🔗 [tombengine.com](https://tombengine.com/): Tomb Engine</small>
-
-
-| 🔥: 74 \| 💬: [14](https://news.ycombinator.com/item?id=43686936) \| 🗓️ 2025-04-14
-
-
-<br />
-Tomb Engine 1.8.1 是一款**开源引擎**，专为《古墓丽影》粉丝打造自定义冒险游戏而设计。该项目由社区自发维护，**与官方无关联**，代码免费公开以促进学习和协作，但禁止商用或非法用途。开发团队强调，所有维护工作均由志愿者利用业余时间完成，**不提供任何担保**。支持平台包括GitHub、Discord等，欢迎爱好者参与贡献。
-
----
-
-## <a name="21"></a>21. 白宫证实特朗普正研究"驱逐"美国公民的途径 
+## <a name="22"></a>22. 白宫证实特朗普正研究"驱逐"美国公民的途径 
 <small>🔗 [huffpost.com](https://www.huffpost.com/entry/white-house-confirms-trump-is-exploring-ways-to-deport-us-citizens_n_67f580abe4b0a5ea5c7608d2): White House Confirms Trump Is Exploring Ways to 'Deport' U.S. Citizens</small>
 
 
@@ -284,11 +296,11 @@ Tomb Engine 1.8.1 是一款**开源引擎**，专为《古墓丽影》粉丝打�
 
 ---
 
-## <a name="22"></a>22. 简易网页服务器 
+## <a name="23"></a>23. 简易网页服务器 
 <small>🔗 [simplewebserver.org](https://simplewebserver.org/): Simple Web Server</small>
 
 
-| 🔥: 68 \| 💬: [44](https://news.ycombinator.com/item?id=43684009) \| 🗓️ 2025-04-14
+| 🔥: 70 \| 💬: [45](https://news.ycombinator.com/item?id=43684009) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -296,7 +308,7 @@ Tomb Engine 1.8.1 是一款**开源引擎**，专为《古墓丽影》粉丝打�
 
 ---
 
-## <a name="23"></a>23. 我因税务软件错误多缴1.2万美元，最终从IRS成功追回！ 
+## <a name="24"></a>24. 我因税务软件错误多缴1.2万美元，最终从IRS成功追回！ 
 <small>🔗 [mikekasberg.com](https://www.mikekasberg.com/blog/2025/04/13/i-fought-the-irs-for-over-12k-and-won.html): I Fought the IRS for Over $12K and won</small>
 
 
