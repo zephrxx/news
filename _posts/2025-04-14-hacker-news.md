@@ -27,7 +27,7 @@ tags:
 <small>🔗 [harvard.edu](https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/): Harvard's response to federal government letter demanding changes</small>
 
 
-| 🔥🔥: 976 \| 💬: [898](https://news.ycombinator.com/item?id=43684536) \| 🗓️ 2025-04-14
+| 🔥🔥: 1017 \| 💬: [918](https://news.ycombinator.com/item?id=43684536) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [geoffreylitt.com](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs): A hackable AI assistant using a single SQLite table and a handful of cron jobs</small>
 
 
-| 🔥🔥: 537 \| 💬: [131](https://news.ycombinator.com/item?id=43681287) \| 🗓️ 2025-04-14
+| 🔥🔥: 558 \| 💬: [137](https://news.ycombinator.com/item?id=43681287) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine): The path to open-sourcing the DeepSeek inference engine</small>
 
 
-| 🔥🔥: 413 \| 💬: [33](https://news.ycombinator.com/item?id=43682088) \| 🗓️ 2025-04-14
+| 🔥🔥: 426 \| 💬: [39](https://news.ycombinator.com/item?id=43682088) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -63,7 +63,7 @@ DeepSeek 团队在开源周期间开源了多个库，获得社区积极反馈�
 <small>🔗 [blog.google](https://blog.google/technology/ai/dolphingemma/): DolphinGemma: How Google AI is helping decode dolphin communication</small>
 
 
-| 🔥🔥: 271 \| 💬: [102](https://news.ycombinator.com/item?id=43680899) \| 🗓️ 2025-04-14
+| 🔥🔥: 272 \| 💬: [103](https://news.ycombinator.com/item?id=43680899) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -75,7 +75,7 @@ DeepSeek 团队在开源周期间开源了多个库，获得社区积极反馈�
 <small>🔗 [newsroom.intel.com](https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025): Intel sells 51% stake in Altera to private equity firm on a $8.75B valuation</small>
 
 
-| 🔥🔥: 235 \| 💬: [164](https://news.ycombinator.com/item?id=43686773) \| 🗓️ 2025-04-14
+| 🔥🔥: 241 \| 💬: [173](https://news.ycombinator.com/item?id=43686773) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -87,7 +87,7 @@ DeepSeek 团队在开源周期间开源了多个库，获得社区积极反馈�
 <small>🔗 [jasonfantl.com](https://jasonfantl.com/posts/What-is-Entropy/): What Is Entropy?</small>
 
 
-| 🔥🔥: 171 \| 💬: [61](https://news.ycombinator.com/item?id=43684560) \| 🗓️ 2025-04-14
+| 🔥🔥: 179 \| 💬: [68](https://news.ycombinator.com/item?id=43684560) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -99,7 +99,7 @@ DeepSeek 团队在开源周期间开源了多个库，获得社区积极反馈�
 <small>🔗 [openmymind.net](https://www.openmymind.net/Zigs-New-LinkedList-API/): Zig's new LinkedList API (it's time to learn fieldParentPtr)</small>
 
 
-| 🔥🔥: 169 \| 💬: [139](https://news.ycombinator.com/item?id=43679707) \| 🗓️ 2025-04-14
+| 🔥🔥: 170 \| 💬: [139](https://news.ycombinator.com/item?id=43679707) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -108,10 +108,10 @@ Zig最新提交的`SinglyLinkedList`和`DoublyLinkedList`改用**侵入式链表
 ---
 
 ## <a name="8"></a>8. 如何骑自行车横穿全国 
-<small>🔗 [brooks.team](https://www.brooks.team/posts/how-to-bike-across-the-country/): How to Bike Across the Country</small>
+<small>🔗 [brooks.team](https://www.brooks.team/posts/how-to-bike-across-the-country/): How to bike across the country</small>
 
 
-| 🔥🔥: 160 \| 💬: [86](https://news.ycombinator.com/item?id=43681936) \| 🗓️ 2025-04-14
+| 🔥🔥: 167 \| 💬: [86](https://news.ycombinator.com/item?id=43681936) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -120,10 +120,10 @@ Zig最新提交的`SinglyLinkedList`和`DoublyLinkedList`改用**侵入式链表
 ---
 
 ## <a name="9"></a>9. Omnom：支持可搜索可视化快照的自托管书签工具 
-<small>🔗 [omnom.zone](https://omnom.zone/?src=hn): Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots [showcase]</small>
+<small>🔗 [omnom.zone](https://omnom.zone/?src=hn): Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots</small>
 
 
-| 🔥🔥: 147 \| 💬: [48](https://news.ycombinator.com/item?id=43680232) \| 🗓️ 2025-04-14
+| 🔥🔥: 149 \| 💬: [47](https://news.ycombinator.com/item?id=43680232) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -135,7 +135,7 @@ Zig最新提交的`SinglyLinkedList`和`DoublyLinkedList`改用**侵入式链表
 <small>🔗 [github.com](https://github.com/meilisearch/meilisearch): Meilisearch – search engine API bringing AI-powered hybrid search</small>
 
 
-| 🔥🔥: 136 \| 💬: [55](https://news.ycombinator.com/item?id=43680699) \| 🗓️ 2025-04-14
+| 🔥🔥: 139 \| 💬: [56](https://news.ycombinator.com/item?id=43680699) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -143,23 +143,11 @@ Meilisearch是一款**闪电般快速**的搜索引擎API，为网站和应用�
 
 ---
 
-## <a name="11"></a>11. 《黑客实战C语言：C编程实用指南》 
-<small>🔗 [github.com](https://github.com/codr7/hacktical-c): Hacktical C: practical hacker's guide to the C programming language</small>
-
-
-| 🔥🔥: 126 \| 💬: [115](https://news.ycombinator.com/item?id=43679781) \| 🗓️ 2025-04-14
-
-
-<br />
-这是一本面向**黑客**的C语言实用指南，强调**实战技巧**而非基础语法。作者作为资深开发者，分享多年积累的**高效编程方法**，包括宏、固定点数运算、侵入式双向链表等高级主题。书中探讨了C语言的独特优势——自由与责任并存，并对比现代语言的局限性。项目开源，支持捐赠，推荐在Linux环境下使用GNU扩展功能。适合已掌握基础、渴望深入C语言核心的开发者。
-
----
-
-## <a name="12"></a>12. 联邦政府致函哈佛大学要求整改 
+## <a name="11"></a>11. 联邦政府致函哈佛大学要求整改 
 <small>🔗 [harvard.edu](https://www.harvard.edu/research-funding/wp-content/uploads/sites/16/2025/04/Letter-Sent-to-Harvard-2025-04-11.pdf): Federal Government's letter to Harvard demanding changes [pdf]</small>
 
 
-| 🔥🔥: 125 \| 💬: [50](https://news.ycombinator.com/item?id=43684386) \| 🗓️ 2025-04-14
+| 🔥🔥: 132 \| 💬: [50](https://news.ycombinator.com/item?id=43684386) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -167,35 +155,11 @@ Meilisearch是一款**闪电般快速**的搜索引擎API，为网站和应用�
 
 ---
 
-## <a name="13"></a>13. Podman Quadlets：轻量级容器管理的系统化方案 
-<small>🔗 [podman-desktop.io](https://podman-desktop.io/blog/podman-quadlet): Podman Quadlets with Podman Desktop</small>
-
-
-| 🔥🔥: 122 \| 💬: [42](https://news.ycombinator.com/item?id=43683641) \| 🗓️ 2025-04-14
-
-
-<br />
-本文介绍了**Podman Quadlets**——一种通过**systemd**声明式管理容器的方案，适用于单机或开发场景，避免Kubernetes的臃肿。Quadlet配置文件（如`.container`）可自动生成systemd单元文件，实现容器自启、故障恢复等功能。配合**Podman Desktop扩展**，用户能可视化创建、编辑Quadlet，并集成日志查看（`journalctl`），简化跨平台管理。示例展示了如何为Nginx生成Quadlet，凸显其易用性与系统深度整合的优势。
-
----
-
-## <a name="14"></a>14. AudioX：全能扩散Transformer模型实现任意模态到音频生成 
-<small>🔗 [zeyuet.github.io](https://zeyuet.github.io/AudioX/): AudioX: Diffusion Transformer for Anything-to-Audio Generation</small>
-
-
-| 🔥🔥: 121 \| 💬: [12](https://news.ycombinator.com/item?id=43683907) \| 🗓️ 2025-04-14
-
-
-<br />
-现有音频生成模型存在**跨模态能力割裂**、**高质量多模态数据稀缺**和**输入整合困难**三大瓶颈。本文提出**AudioX**——基于扩散Transformer的统一框架，支持文本、视频、图像等多模态输入，可同时生成高质量普通音频与音乐，并实现自然语言灵活控制。其核心创新是**多模态掩码训练策略**，通过随机遮蔽不同模态输入迫使模型学习鲁棒的跨模态表征。为解决数据不足，团队构建了包含19万条音频描述的VGGSound-Caps和600万条音乐描述的V2M-Caps数据集。实验表明，AudioX不仅性能媲美专用模型，更在统一架构中展现出卓越的多任务适应性。
-
----
-
-## <a name="15"></a>15. 巴勒斯坦活动家赴公民面试遭ICE逮捕 
+## <a name="12"></a>12. 巴勒斯坦活动家赴公民面试遭ICE逮捕 
 <small>🔗 [cbc.ca](https://www.cbc.ca/lite/story/1.7510325): Palestinian activist arrested by ICE while expecting U.S. citizenship interview</small>
 
 
-| 🔥🔥: 119 \| 💬: [10](https://news.ycombinator.com/item?id=43688069) \| 🗓️ 2025-04-14
+| 🔥🔥: 130 \| 💬: [14](https://news.ycombinator.com/item?id=43688069) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -203,11 +167,47 @@ Meilisearch是一款**闪电般快速**的搜索引擎API，为网站和应用�
 
 ---
 
+## <a name="13"></a>13. 《黑客实战C语言：C编程实用指南》 
+<small>🔗 [github.com](https://github.com/codr7/hacktical-c): Hacktical C: practical hacker's guide to the C programming language</small>
+
+
+| 🔥🔥: 128 \| 💬: [118](https://news.ycombinator.com/item?id=43679781) \| 🗓️ 2025-04-14
+
+
+<br />
+这是一本面向**黑客**的C语言实用指南，强调**实战技巧**而非基础语法。作者作为资深开发者，分享多年积累的**高效编程方法**，包括宏、固定点数运算、侵入式双向链表等高级主题。书中探讨了C语言的独特优势——自由与责任并存，并对比现代语言的局限性。项目开源，支持捐赠，推荐在Linux环境下使用GNU扩展功能。适合已掌握基础、渴望深入C语言核心的开发者。
+
+---
+
+## <a name="14"></a>14. Podman Quadlets：轻量级容器管理的系统化方案 
+<small>🔗 [podman-desktop.io](https://podman-desktop.io/blog/podman-quadlet): Podman Quadlets with Podman Desktop</small>
+
+
+| 🔥🔥: 126 \| 💬: [45](https://news.ycombinator.com/item?id=43683641) \| 🗓️ 2025-04-14
+
+
+<br />
+本文介绍了**Podman Quadlets**——一种通过**systemd**声明式管理容器的方案，适用于单机或开发场景，避免Kubernetes的臃肿。Quadlet配置文件（如`.container`）可自动生成systemd单元文件，实现容器自启、故障恢复等功能。配合**Podman Desktop扩展**，用户能可视化创建、编辑Quadlet，并集成日志查看（`journalctl`），简化跨平台管理。示例展示了如何为Nginx生成Quadlet，凸显其易用性与系统深度整合的优势。
+
+---
+
+## <a name="15"></a>15. AudioX：全能扩散Transformer模型实现任意模态到音频生成 
+<small>🔗 [zeyuet.github.io](https://zeyuet.github.io/AudioX/): AudioX: Diffusion Transformer for Anything-to-Audio Generation</small>
+
+
+| 🔥🔥: 124 \| 💬: [13](https://news.ycombinator.com/item?id=43683907) \| 🗓️ 2025-04-14
+
+
+<br />
+现有音频生成模型存在**跨模态能力割裂**、**高质量多模态数据稀缺**和**输入整合困难**三大瓶颈。本文提出**AudioX**——基于扩散Transformer的统一框架，支持文本、视频、图像等多模态输入，可同时生成高质量普通音频与音乐，并实现自然语言灵活控制。其核心创新是**多模态掩码训练策略**，通过随机遮蔽不同模态输入迫使模型学习鲁棒的跨模态表征。为解决数据不足，团队构建了包含19万条音频描述的VGGSound-Caps和600万条音乐描述的V2M-Caps数据集。实验表明，AudioX不仅性能媲美专用模型，更在统一架构中展现出卓越的多任务适应性。
+
+---
+
 ## <a name="16"></a>16. 古墓引擎：开源自制《古墓丽影》游戏工具 
 <small>🔗 [tombengine.com](https://tombengine.com/): Tomb Engine</small>
 
 
-| 🔥🔥: 113 \| 💬: [21](https://news.ycombinator.com/item?id=43686936) \| 🗓️ 2025-04-14
+| 🔥🔥: 115 \| 💬: [21](https://news.ycombinator.com/item?id=43686936) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -215,8 +215,22 @@ Tomb Engine 1.8.1 是一款**开源引擎**，专为《古墓丽影》粉丝打�
 
 ---
 
-## <a name="17"></a>17. OpenAI正成为科技行业的系统性风险 
-<small>🔗 [wheresyoured.at](https://www.wheresyoured.at/openai-is-a-systemic-risk-to-the-tech-industry-2/): OpenAI Is a Systemic Risk to the Tech Industry</small>
+## <a name="17"></a>17. 用Python给Python包加关税？这个恶搞库有点意思！ 
+<small>🔗 [pypi.org](https://pypi.org/project/tariff/): Tariff: A Python package that imposes tariffs on Python imports</small>
+
+
+| 🔥🔥: 112 \| 💬: [12](https://news.ycombinator.com/item?id=43681752) \| 🗓️ 2025-04-14
+
+
+<br />
+**Tariff** 是一个恶搞性质的Python包，宣称要"让导入再次伟大"。它通过**模拟关税机制**，让指定第三方库的导入速度变慢——比如对`numpy`加征50%的"关税"，其导入时间就会延长50%。  
+
+该库采用**猴子补丁技术**修改导入行为，并会输出夸张的提示信息（例如"美国包正在赢！"）。作者以政治 parody 的形式调侃技术生态，明确标注"高风险娱乐项目"，采用MIT协议，**仅支持Python 3.6+**。安装只需`pip install tariff`，但建议不要在生产环境使用这种故意降低性能的玩具库。
+
+---
+
+## <a name="18"></a>18. OpenAI正成为科技行业的系统性风险 
+<small>🔗 [wheresyoured.at](https://www.wheresyoured.at/openai-is-a-systemic-risk-to-the-tech-industry-2/): OpenAI is a systemic risk to the tech industry</small>
 
 
 | 🔥🔥: 110 \| 💬: [104](https://news.ycombinator.com/item?id=43683071) \| 🗓️ 2025-04-14
@@ -227,25 +241,11 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
-## <a name="18"></a>18. 用Python给Python包加关税？这个恶搞库有点意思！ 
-<small>🔗 [pypi.org](https://pypi.org/project/tariff/): Tariff: A Python package that imposes tariffs on Python imports</small>
-
-
-| 🔥🔥: 108 \| 💬: [11](https://news.ycombinator.com/item?id=43681752) \| 🗓️ 2025-04-14
-
-
-<br />
-**Tariff** 是一个恶搞性质的Python包，宣称要"让导入再次伟大"。它通过**模拟关税机制**，让指定第三方库的导入速度变慢——比如对`numpy`加征50%的"关税"，其导入时间就会延长50%。  
-
-该库采用**猴子补丁技术**修改导入行为，并会输出夸张的提示信息（例如"美国包正在赢！"）。作者以政治 parody 的形式调侃技术生态，明确标注"高风险娱乐项目"，采用MIT协议，**仅支持Python 3.6+**。安装只需`pip install tariff`，但建议不要在生产环境使用这种故意降低性能的玩具库。
-
----
-
 ## <a name="19"></a>19. 零代码生成：直接从Protobuf推断TypeScript类型 
 <small>🔗 [github.com](https://github.com/nathanhleung/protobuf-ts-types): Show HN: Zero-codegen, no-compile TypeScript type inference from Protobufs</small>
 
 
-| 🔥🔥: 104 \| 💬: [47](https://news.ycombinator.com/item?id=43682547) \| 🗓️ 2025-04-14
+| 🔥🔥: 106 \| 💬: [46](https://news.ycombinator.com/item?id=43682547) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -260,23 +260,11 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
-## <a name="20"></a>20. 多伦多女子在Lyft车内聊天后收到对话转录短信 
-<small>🔗 [cbc.ca](https://www.cbc.ca/news/canada/toronto/lyft-conversation-transcribed-1.7508106): She was chatting with friends in a Lyft. Then someone texted her what they said</small>
-
-
-| 🔥: 93 \| 💬: [81](https://news.ycombinator.com/item?id=43680039) \| 🗓️ 2025-04-14
-
-
-<br />
-一名多伦多女性在Lyft乘车期间与室友的私人对话被**录音并转录为短信**发送至其手机，引发隐私担忧。Lyft公司起初称此为美国试点项目，后改口称司机**未经同意擅自录音**并已对其采取行动。加拿大隐私专家指出，此举违反**《个人信息保护与电子文件法》**，强调企业必须明确告知并获用户同意才能收集数据。事件暴露了网约车场景下的隐私风险，涉事女性呼吁Lyft加强对用户数据的保护责任。
-
----
-
-## <a name="21"></a>21. 被爬虫盯上的代价：LLM机器人与Vercel图片API的昂贵账单 
+## <a name="20"></a>20. 被爬虫盯上的代价：LLM机器人与Vercel图片API的昂贵账单 
 <small>🔗 [metacast.app](https://metacast.app/blog/engineering/postmortem-llm-bots-image-optimization): The Cost of Being Crawled: LLM Bots and Vercel Image API Pricing</small>
 
 
-| 🔥: 87 \| 💬: [69](https://news.ycombinator.com/item?id=43687431) \| 🗓️ 2025-04-14
+| 🔥: 96 \| 💬: [78](https://news.ycombinator.com/item?id=43687431) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -284,11 +272,23 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
+## <a name="21"></a>21. 多伦多女子在Lyft车内聊天后收到对话转录短信 
+<small>🔗 [cbc.ca](https://www.cbc.ca/news/canada/toronto/lyft-conversation-transcribed-1.7508106): She was chatting with friends in a Lyft. Then someone texted her what they said</small>
+
+
+| 🔥: 94 \| 💬: [81](https://news.ycombinator.com/item?id=43680039) \| 🗓️ 2025-04-14
+
+
+<br />
+一名多伦多女性在Lyft乘车期间与室友的私人对话被**录音并转录为短信**发送至其手机，引发隐私担忧。Lyft公司起初称此为美国试点项目，后改口称司机**未经同意擅自录音**并已对其采取行动。加拿大隐私专家指出，此举违反**《个人信息保护与电子文件法》**，强调企业必须明确告知并获用户同意才能收集数据。事件暴露了网约车场景下的隐私风险，涉事女性呼吁Lyft加强对用户数据的保护责任。
+
+---
+
 ## <a name="22"></a>22. 欧盟向赴美工作人员发放一次性手机 防范间谍活动 
 <small>🔗 [ft.com](https://www.ft.com/content/20d0678a-41b2-468d-ac10-14ce1eae357b): EU issues US-bound staff with burner phones over spying fears</small>
 
 
-| 🔥: 77 \| 💬: [41](https://news.ycombinator.com/item?id=43680556) \| 🗓️ 2025-04-14
+| 🔥: 78 \| 💬: [41](https://news.ycombinator.com/item?id=43680556) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -296,27 +296,27 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
-## <a name="23"></a>23. 白宫证实特朗普正研究"驱逐"美国公民的途径 
-<small>🔗 [huffpost.com](https://www.huffpost.com/entry/white-house-confirms-trump-is-exploring-ways-to-deport-us-citizens_n_67f580abe4b0a5ea5c7608d2): White House Confirms Trump Is Exploring Ways to 'Deport' U.S. Citizens</small>
-
-
-| 🔥: 73 \| 💬: [31](https://news.ycombinator.com/item?id=43682941) \| 🗓️ 2025-04-14
-
-
-<br />
-白宫发言人卡洛琳·莱维特表示，**特朗普政府**正在探索将犯有**严重罪行**的美国公民"驱逐"至萨尔瓦多的法律途径，该国监狱以侵犯人权著称。尽管政府声称仅针对暴力惯犯，但特朗普曾暗示可能扩大至轻罪者。此举缺乏明确法律依据，并可能违宪。此前政府已利用《1798年外敌法案》将移民强制送往萨尔瓦多，但公民驱逐计划面临法律挑战。批评者指出该政策剥夺了**正当程序权利**。
-
----
-
-## <a name="24"></a>24. 简易网页服务器 
+## <a name="23"></a>23. 简易网页服务器 
 <small>🔗 [simplewebserver.org](https://simplewebserver.org/): Simple Web Server</small>
 
 
-| 🔥: 73 \| 💬: [49](https://news.ycombinator.com/item?id=43684009) \| 🗓️ 2025-04-14
+| 🔥: 77 \| 💬: [52](https://news.ycombinator.com/item?id=43684009) \| 🗓️ 2025-04-14
 
 
 <br />
 这款工具**配置简单**，只需点击几下即可修改服务器选项。支持**同时运行多个服务器**，即使关闭应用也能在后台持续工作。特别针对**单页应用（SPA）**提供一键式URL重写功能。由@terreng和@ethanaobrien基于@kzahel的"Web Server for Chrome"改进开发，操作便捷且功能实用。
+
+---
+
+## <a name="24"></a>24. 白宫证实特朗普正研究"驱逐"美国公民的途径 
+<small>🔗 [huffpost.com](https://www.huffpost.com/entry/white-house-confirms-trump-is-exploring-ways-to-deport-us-citizens_n_67f580abe4b0a5ea5c7608d2): White House Confirms Trump Is Exploring Ways to 'Deport' U.S. Citizens</small>
+
+
+| 🔥: 74 \| 💬: [31](https://news.ycombinator.com/item?id=43682941) \| 🗓️ 2025-04-14
+
+
+<br />
+白宫发言人卡洛琳·莱维特表示，**特朗普政府**正在探索将犯有**严重罪行**的美国公民"驱逐"至萨尔瓦多的法律途径，该国监狱以侵犯人权著称。尽管政府声称仅针对暴力惯犯，但特朗普曾暗示可能扩大至轻罪者。此举缺乏明确法律依据，并可能违宪。此前政府已利用《1798年外敌法案》将移民强制送往萨尔瓦多，但公民驱逐计划面临法律挑战。批评者指出该政策剥夺了**正当程序权利**。
 
 ---
 
