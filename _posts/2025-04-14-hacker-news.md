@@ -27,7 +27,7 @@ tags:
 <small>🔗 [harvard.edu](https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/): Harvard's response to federal government letter demanding changes</small>
 
 
-| 🔥🔥: 951 \| 💬: [871](https://news.ycombinator.com/item?id=43684536) \| 🗓️ 2025-04-14
+| 🔥🔥: 976 \| 💬: [898](https://news.ycombinator.com/item?id=43684536) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [geoffreylitt.com](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs): A hackable AI assistant using a single SQLite table and a handful of cron jobs</small>
 
 
-| 🔥🔥: 520 \| 💬: [129](https://news.ycombinator.com/item?id=43681287) \| 🗓️ 2025-04-14
+| 🔥🔥: 537 \| 💬: [131](https://news.ycombinator.com/item?id=43681287) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine): The path to open-sourcing the DeepSeek inference engine</small>
 
 
-| 🔥🔥: 401 \| 💬: [31](https://news.ycombinator.com/item?id=43682088) \| 🗓️ 2025-04-14
+| 🔥🔥: 413 \| 💬: [33](https://news.ycombinator.com/item?id=43682088) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -63,7 +63,7 @@ DeepSeek 团队在开源周期间开源了多个库，获得社区积极反馈�
 <small>🔗 [blog.google](https://blog.google/technology/ai/dolphingemma/): DolphinGemma: How Google AI is helping decode dolphin communication</small>
 
 
-| 🔥🔥: 262 \| 💬: [100](https://news.ycombinator.com/item?id=43680899) \| 🗓️ 2025-04-14
+| 🔥🔥: 271 \| 💬: [102](https://news.ycombinator.com/item?id=43680899) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -75,7 +75,7 @@ DeepSeek 团队在开源周期间开源了多个库，获得社区积极反馈�
 <small>🔗 [newsroom.intel.com](https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025): Intel sells 51% stake in Altera to private equity firm on a $8.75B valuation</small>
 
 
-| 🔥🔥: 223 \| 💬: [158](https://news.ycombinator.com/item?id=43686773) \| 🗓️ 2025-04-14
+| 🔥🔥: 235 \| 💬: [164](https://news.ycombinator.com/item?id=43686773) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -83,23 +83,11 @@ DeepSeek 团队在开源周期间开源了多个库，获得社区积极反馈�
 
 ---
 
-## <a name="6"></a>6. Zig语言新版LinkedList API解析：掌握@fieldParentPtr 
-<small>🔗 [openmymind.net](https://www.openmymind.net/Zigs-New-LinkedList-API/): Zig's new LinkedList API (it's time to learn fieldParentPtr)</small>
-
-
-| 🔥🔥: 168 \| 💬: [139](https://news.ycombinator.com/item?id=43679707) \| 🗓️ 2025-04-14
-
-
-<br />
-Zig最新提交的`SinglyLinkedList`和`DoublyLinkedList`改用**侵入式链表**设计，节点直接嵌入用户数据结构中，减少内存分配。新API移除了泛型，通过`@fieldParentPtr`内置函数从节点指针反向获取父结构（如`User`）。虽然该API性能更优，但需熟悉**内存偏移计算**和字段布局。示例演示了如何通过`@offsetOf`安全定位字段，并强调开发者需适应这种底层操作模式。
-
----
-
-## <a name="7"></a>7. 熵到底是什么？ 
+## <a name="6"></a>6. 熵到底是什么？ 
 <small>🔗 [jasonfantl.com](https://jasonfantl.com/posts/What-is-Entropy/): What Is Entropy?</small>
 
 
-| 🔥🔥: 163 \| 💬: [56](https://news.ycombinator.com/item?id=43684560) \| 🗓️ 2025-04-14
+| 🔥🔥: 171 \| 💬: [61](https://news.ycombinator.com/item?id=43684560) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -107,11 +95,23 @@ Zig最新提交的`SinglyLinkedList`和`DoublyLinkedList`改用**侵入式链表
 
 ---
 
+## <a name="7"></a>7. Zig语言新版LinkedList API解析：掌握@fieldParentPtr 
+<small>🔗 [openmymind.net](https://www.openmymind.net/Zigs-New-LinkedList-API/): Zig's new LinkedList API (it's time to learn fieldParentPtr)</small>
+
+
+| 🔥🔥: 169 \| 💬: [139](https://news.ycombinator.com/item?id=43679707) \| 🗓️ 2025-04-14
+
+
+<br />
+Zig最新提交的`SinglyLinkedList`和`DoublyLinkedList`改用**侵入式链表**设计，节点直接嵌入用户数据结构中，减少内存分配。新API移除了泛型，通过`@fieldParentPtr`内置函数从节点指针反向获取父结构（如`User`）。虽然该API性能更优，但需熟悉**内存偏移计算**和字段布局。示例演示了如何通过`@offsetOf`安全定位字段，并强调开发者需适应这种底层操作模式。
+
+---
+
 ## <a name="8"></a>8. 如何骑自行车横穿全国 
 <small>🔗 [brooks.team](https://www.brooks.team/posts/how-to-bike-across-the-country/): How to Bike Across the Country</small>
 
 
-| 🔥🔥: 154 \| 💬: [80](https://news.ycombinator.com/item?id=43681936) \| 🗓️ 2025-04-14
+| 🔥🔥: 160 \| 💬: [86](https://news.ycombinator.com/item?id=43681936) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -123,7 +123,7 @@ Zig最新提交的`SinglyLinkedList`和`DoublyLinkedList`改用**侵入式链表
 <small>🔗 [omnom.zone](https://omnom.zone/?src=hn): Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots [showcase]</small>
 
 
-| 🔥🔥: 146 \| 💬: [48](https://news.ycombinator.com/item?id=43680232) \| 🗓️ 2025-04-14
+| 🔥🔥: 147 \| 💬: [48](https://news.ycombinator.com/item?id=43680232) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -135,7 +135,7 @@ Zig最新提交的`SinglyLinkedList`和`DoublyLinkedList`改用**侵入式链表
 <small>🔗 [github.com](https://github.com/meilisearch/meilisearch): Meilisearch – search engine API bringing AI-powered hybrid search</small>
 
 
-| 🔥🔥: 134 \| 💬: [52](https://news.ycombinator.com/item?id=43680699) \| 🗓️ 2025-04-14
+| 🔥🔥: 136 \| 💬: [55](https://news.ycombinator.com/item?id=43680699) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -147,7 +147,7 @@ Meilisearch是一款**闪电般快速**的搜索引擎API，为网站和应用�
 <small>🔗 [github.com](https://github.com/codr7/hacktical-c): Hacktical C: practical hacker's guide to the C programming language</small>
 
 
-| 🔥🔥: 126 \| 💬: [114](https://news.ycombinator.com/item?id=43679781) \| 🗓️ 2025-04-14
+| 🔥🔥: 126 \| 💬: [115](https://news.ycombinator.com/item?id=43679781) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -159,7 +159,7 @@ Meilisearch是一款**闪电般快速**的搜索引擎API，为网站和应用�
 <small>🔗 [harvard.edu](https://www.harvard.edu/research-funding/wp-content/uploads/sites/16/2025/04/Letter-Sent-to-Harvard-2025-04-11.pdf): Federal Government's letter to Harvard demanding changes [pdf]</small>
 
 
-| 🔥🔥: 123 \| 💬: [49](https://news.ycombinator.com/item?id=43684386) \| 🗓️ 2025-04-14
+| 🔥🔥: 125 \| 💬: [50](https://news.ycombinator.com/item?id=43684386) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -167,23 +167,11 @@ Meilisearch是一款**闪电般快速**的搜索引擎API，为网站和应用�
 
 ---
 
-## <a name="13"></a>13. AudioX：全能扩散Transformer模型实现任意模态到音频生成 
-<small>🔗 [zeyuet.github.io](https://zeyuet.github.io/AudioX/): AudioX: Diffusion Transformer for Anything-to-Audio Generation</small>
-
-
-| 🔥🔥: 117 \| 💬: [11](https://news.ycombinator.com/item?id=43683907) \| 🗓️ 2025-04-14
-
-
-<br />
-现有音频生成模型存在**跨模态能力割裂**、**高质量多模态数据稀缺**和**输入整合困难**三大瓶颈。本文提出**AudioX**——基于扩散Transformer的统一框架，支持文本、视频、图像等多模态输入，可同时生成高质量普通音频与音乐，并实现自然语言灵活控制。其核心创新是**多模态掩码训练策略**，通过随机遮蔽不同模态输入迫使模型学习鲁棒的跨模态表征。为解决数据不足，团队构建了包含19万条音频描述的VGGSound-Caps和600万条音乐描述的V2M-Caps数据集。实验表明，AudioX不仅性能媲美专用模型，更在统一架构中展现出卓越的多任务适应性。
-
----
-
-## <a name="14"></a>14. Podman Quadlets：轻量级容器管理的系统化方案 
+## <a name="13"></a>13. Podman Quadlets：轻量级容器管理的系统化方案 
 <small>🔗 [podman-desktop.io](https://podman-desktop.io/blog/podman-quadlet): Podman Quadlets with Podman Desktop</small>
 
 
-| 🔥🔥: 111 \| 💬: [39](https://news.ycombinator.com/item?id=43683641) \| 🗓️ 2025-04-14
+| 🔥🔥: 122 \| 💬: [42](https://news.ycombinator.com/item?id=43683641) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -191,7 +179,43 @@ Meilisearch是一款**闪电般快速**的搜索引擎API，为网站和应用�
 
 ---
 
-## <a name="15"></a>15. OpenAI正成为科技行业的系统性风险 
+## <a name="14"></a>14. AudioX：全能扩散Transformer模型实现任意模态到音频生成 
+<small>🔗 [zeyuet.github.io](https://zeyuet.github.io/AudioX/): AudioX: Diffusion Transformer for Anything-to-Audio Generation</small>
+
+
+| 🔥🔥: 121 \| 💬: [12](https://news.ycombinator.com/item?id=43683907) \| 🗓️ 2025-04-14
+
+
+<br />
+现有音频生成模型存在**跨模态能力割裂**、**高质量多模态数据稀缺**和**输入整合困难**三大瓶颈。本文提出**AudioX**——基于扩散Transformer的统一框架，支持文本、视频、图像等多模态输入，可同时生成高质量普通音频与音乐，并实现自然语言灵活控制。其核心创新是**多模态掩码训练策略**，通过随机遮蔽不同模态输入迫使模型学习鲁棒的跨模态表征。为解决数据不足，团队构建了包含19万条音频描述的VGGSound-Caps和600万条音乐描述的V2M-Caps数据集。实验表明，AudioX不仅性能媲美专用模型，更在统一架构中展现出卓越的多任务适应性。
+
+---
+
+## <a name="15"></a>15. 巴勒斯坦活动家赴公民面试遭ICE逮捕 
+<small>🔗 [cbc.ca](https://www.cbc.ca/lite/story/1.7510325): Palestinian activist arrested by ICE while expecting U.S. citizenship interview</small>
+
+
+| 🔥🔥: 119 \| 💬: [10](https://news.ycombinator.com/item?id=43688069) \| 🗓️ 2025-04-14
+
+
+<br />
+**莫森·马赫达维**（Mohsen Mahdawi）是哥伦比亚大学巴勒斯坦学生联盟联合创始人，持美国绿卡多年，近期在佛蒙特州移民局参加公民面试时被**ICE拘留**。其律师指控逮捕是因其**声援加沙的抗议活动**，属政治报复。联邦法院已受理禁止驱逐的请愿。佛蒙特州国会代表团谴责此举"不道德且违法"，要求立即释放。马赫达维的同伴称他始终遵守法律，被捕时仍以和平手势回应。此前，另一名巴勒斯坦学生马哈茂德·哈利勒也因类似原因被列为"国家安全威胁"面临驱逐。
+
+---
+
+## <a name="16"></a>16. 古墓引擎：开源自制《古墓丽影》游戏工具 
+<small>🔗 [tombengine.com](https://tombengine.com/): Tomb Engine</small>
+
+
+| 🔥🔥: 113 \| 💬: [21](https://news.ycombinator.com/item?id=43686936) \| 🗓️ 2025-04-14
+
+
+<br />
+Tomb Engine 1.8.1 是一款**开源引擎**，专为《古墓丽影》粉丝打造自定义冒险游戏而设计。该项目由社区自发维护，**与官方无关联**，代码免费公开以促进学习和协作，但禁止商用或非法用途。开发团队强调，所有维护工作均由志愿者利用业余时间完成，**不提供任何担保**。支持平台包括GitHub、Discord等，欢迎爱好者参与贡献。
+
+---
+
+## <a name="17"></a>17. OpenAI正成为科技行业的系统性风险 
 <small>🔗 [wheresyoured.at](https://www.wheresyoured.at/openai-is-a-systemic-risk-to-the-tech-industry-2/): OpenAI Is a Systemic Risk to the Tech Industry</small>
 
 
@@ -203,11 +227,11 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
-## <a name="16"></a>16. 用Python给Python包加关税？这个恶搞库有点意思！ 
+## <a name="18"></a>18. 用Python给Python包加关税？这个恶搞库有点意思！ 
 <small>🔗 [pypi.org](https://pypi.org/project/tariff/): Tariff: A Python package that imposes tariffs on Python imports</small>
 
 
-| 🔥🔥: 107 \| 💬: [11](https://news.ycombinator.com/item?id=43681752) \| 🗓️ 2025-04-14
+| 🔥🔥: 108 \| 💬: [11](https://news.ycombinator.com/item?id=43681752) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -217,23 +241,11 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
-## <a name="17"></a>17. 巴勒斯坦活动家赴公民面试遭ICE逮捕 
-<small>🔗 [cbc.ca](https://www.cbc.ca/lite/story/1.7510325): Palestinian activist arrested by ICE while expecting U.S. citizenship interview</small>
-
-
-| 🔥🔥: 104 \| 💬: [8](https://news.ycombinator.com/item?id=43688069) \| 🗓️ 2025-04-14
-
-
-<br />
-**莫森·马赫达维**（Mohsen Mahdawi）是哥伦比亚大学巴勒斯坦学生联盟联合创始人，持美国绿卡多年，近期在佛蒙特州移民局参加公民面试时被**ICE拘留**。其律师指控逮捕是因其**声援加沙的抗议活动**，属政治报复。联邦法院已受理禁止驱逐的请愿。佛蒙特州国会代表团谴责此举"不道德且违法"，要求立即释放。马赫达维的同伴称他始终遵守法律，被捕时仍以和平手势回应。此前，另一名巴勒斯坦学生马哈茂德·哈利勒也因类似原因被列为"国家安全威胁"面临驱逐。
-
----
-
-## <a name="18"></a>18. 零代码生成：直接从Protobuf推断TypeScript类型 
+## <a name="19"></a>19. 零代码生成：直接从Protobuf推断TypeScript类型 
 <small>🔗 [github.com](https://github.com/nathanhleung/protobuf-ts-types): Show HN: Zero-codegen, no-compile TypeScript type inference from Protobufs</small>
 
 
-| 🔥🔥: 102 \| 💬: [47](https://news.ycombinator.com/item?id=43682547) \| 🗓️ 2025-04-14
+| 🔥🔥: 104 \| 💬: [47](https://news.ycombinator.com/item?id=43682547) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -245,18 +257,6 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 3. **开发友好**：提供即时类型检查，若数据结构不匹配会触发TypeScript报错。  
 
 目前仅为**概念验证**版本，生产环境需注意限制（如不支持服务定义和文件导入）。示例代码演示了如何为`Person`和`Group`消息生成类型并实现类型安全的函数调用。
-
----
-
-## <a name="19"></a>19. 古墓引擎：开源自制《古墓丽影》游戏工具 
-<small>🔗 [tombengine.com](https://tombengine.com/): Tomb Engine</small>
-
-
-| 🔥🔥: 101 \| 💬: [20](https://news.ycombinator.com/item?id=43686936) \| 🗓️ 2025-04-14
-
-
-<br />
-Tomb Engine 1.8.1 是一款**开源引擎**，专为《古墓丽影》粉丝打造自定义冒险游戏而设计。该项目由社区自发维护，**与官方无关联**，代码免费公开以促进学习和协作，但禁止商用或非法用途。开发团队强调，所有维护工作均由志愿者利用业余时间完成，**不提供任何担保**。支持平台包括GitHub、Discord等，欢迎爱好者参与贡献。
 
 ---
 
@@ -276,7 +276,7 @@ Tomb Engine 1.8.1 是一款**开源引擎**，专为《古墓丽影》粉丝打�
 <small>🔗 [metacast.app](https://metacast.app/blog/engineering/postmortem-llm-bots-image-optimization): The Cost of Being Crawled: LLM Bots and Vercel Image API Pricing</small>
 
 
-| 🔥: 80 \| 💬: [65](https://news.ycombinator.com/item?id=43687431) \| 🗓️ 2025-04-14
+| 🔥: 87 \| 💬: [69](https://news.ycombinator.com/item?id=43687431) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -300,7 +300,7 @@ Tomb Engine 1.8.1 是一款**开源引擎**，专为《古墓丽影》粉丝打�
 <small>🔗 [huffpost.com](https://www.huffpost.com/entry/white-house-confirms-trump-is-exploring-ways-to-deport-us-citizens_n_67f580abe4b0a5ea5c7608d2): White House Confirms Trump Is Exploring Ways to 'Deport' U.S. Citizens</small>
 
 
-| 🔥: 72 \| 💬: [31](https://news.ycombinator.com/item?id=43682941) \| 🗓️ 2025-04-14
+| 🔥: 73 \| 💬: [31](https://news.ycombinator.com/item?id=43682941) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -312,7 +312,7 @@ Tomb Engine 1.8.1 是一款**开源引擎**，专为《古墓丽影》粉丝打�
 <small>🔗 [simplewebserver.org](https://simplewebserver.org/): Simple Web Server</small>
 
 
-| 🔥: 72 \| 💬: [46](https://news.ycombinator.com/item?id=43684009) \| 🗓️ 2025-04-14
+| 🔥: 73 \| 💬: [49](https://news.ycombinator.com/item?id=43684009) \| 🗓️ 2025-04-14
 
 
 <br />
