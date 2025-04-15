@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [npr.org](https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security): Whistleblower details how DOGE may have taken sensitive NLRB data</small>
 
 
-| 🔥🔥: 624 \| 💬: [321](https://news.ycombinator.com/item?id=43691142) \| 🗓️ 2025-04-15
+| 🔥🔥: 645 \| 💬: [330](https://news.ycombinator.com/item?id=43691142) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [seths.blog](https://seths.blog/2025/04/how-to-win-an-argument-with-a-toddler/): How to win an argument with a toddler</small>
 
 
-| 🔥🔥: 515 \| 💬: [391](https://news.ycombinator.com/item?id=43693402) \| 🗓️ 2025-04-15
+| 🔥🔥: 532 \| 💬: [405](https://news.ycombinator.com/item?id=43693402) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [knowyourmeme.com](https://knowyourmeme.com/memes/events/april-2025-4chan-sharty-hack-and-janitor-email-leak): 4chan Sharty Hack And Janitor Email Leak</small>
 
 
-| 🔥🔥: 353 \| 💬: [426](https://news.ycombinator.com/item?id=43691334) \| 🗓️ 2025-04-15
+| 🔥🔥: 386 \| 💬: [462](https://news.ycombinator.com/item?id=43691334) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/its-easier-ever-de-censor-videos): It's easier than ever to de-censor videos</small>
 
 
-| 🔥🔥: 284 \| 💬: [112](https://news.ycombinator.com/item?id=43695701) \| 🗓️ 2025-04-15
+| 🔥🔥: 311 \| 💬: [133](https://news.ycombinator.com/item?id=43695701) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -77,7 +77,7 @@ tags:
 <small>🔗 [molsonhart.com](https://www.molsonhart.com/blog/america-underestimates-the-difficulty-of-bringing-manufacturing-back): America Underestimates the Difficulty of Bringing Manufacturing Back</small>
 
 
-| 🔥🔥: 239 \| 💬: [407](https://news.ycombinator.com/item?id=43692677) \| 🗓️ 2025-04-15
+| 🔥🔥: 243 \| 💬: [412](https://news.ycombinator.com/item?id=43692677) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -89,7 +89,7 @@ tags:
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2410.03730): Teuken-7B-Base and Teuken-7B-Instruct: Towards European LLMs</small>
 
 
-| 🔥🔥: 231 \| 💬: [86](https://news.ycombinator.com/item?id=43690955) \| 🗓️ 2025-04-15
+| 🔥🔥: 234 \| 💬: [88](https://news.ycombinator.com/item?id=43690955) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -101,7 +101,7 @@ tags:
 <small>🔗 [steveblank.com](https://steveblank.com/2025/04/15/how-the-u-s-became-a-science-superpower/): How the U.S. became a science superpower</small>
 
 
-| 🔥🔥: 193 \| 💬: [175](https://news.ycombinator.com/item?id=43692360) \| 🗓️ 2025-04-15
+| 🔥🔥: 207 \| 💬: [201](https://news.ycombinator.com/item?id=43692360) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -113,7 +113,7 @@ tags:
 <small>🔗 [blog.google](https://blog.google/products/gemini/video-generation/): Generate videos in Gemini and Whisk with Veo 2</small>
 
 
-| 🔥🔥: 173 \| 💬: [76](https://news.ycombinator.com/item?id=43695592) \| 🗓️ 2025-04-15
+| 🔥🔥: 192 \| 💬: [79](https://news.ycombinator.com/item?id=43695592) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -121,11 +121,23 @@ Gemini Advanced订阅用户现可通过**Veo 2**将文本提示转换为8秒高�
 
 ---
 
-## <a name="9"></a>9. 育碧开源色盲模拟工具Chroma，助力游戏无障碍测试 
+## <a name="9"></a>9. 不确定计算器：用概率思维解决日常估算问题 
+<small>🔗 [filiph.github.io](https://filiph.github.io/unsure/): Show HN: Unsure Calculator – back-of-a-napkin probabilistic calculator</small>
+
+
+| 🔥🔥: 191 \| 💬: [34](https://news.ycombinator.com/item?id=43690289) \| 🗓️ 2025-04-15
+
+
+<br />
+Filip开发的**不确定计算器**允许用户输入**范围值**（如`10~15`），表示95%置信区间内的可能数值。通过蒙特卡洛模拟，工具能快速生成概率分布结果，帮助非专业人士量化不确定性。例如：计算跨国搬家财务风险（`-60~220美元/月`）或估算银河系文明数量（`0~450个`）。支持基础运算和三角函数，但界面简陋且仅支持正态分布。核心理念是**用简单符号降低统计门槛**，适用于商业决策、投资回报等场景。开发者强调其"草稿纸工具"定位，复杂需求仍需专业软件。
+
+---
+
+## <a name="10"></a>10. 育碧开源色盲模拟工具Chroma，助力游戏无障碍测试 
 <small>🔗 [github.com](https://github.com/ubisoft/Chroma): Chroma, Ubisoft's internal tool used to simulate color-blindness, open sourced</small>
 
 
-| 🔥🔥: 159 \| 💬: [45](https://news.ycombinator.com/item?id=43692089) \| 🗓️ 2025-04-15
+| 🔥🔥: 173 \| 💬: [51](https://news.ycombinator.com/item?id=43692089) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -133,11 +145,11 @@ Chroma是育碧开发的**实时色盲模拟工具**，可覆盖游戏画面并�
 
 ---
 
-## <a name="10"></a>10. Clolog：基于Clojure的嵌入式逻辑编程工具 
+## <a name="11"></a>11. Clolog：基于Clojure的嵌入式逻辑编程工具 
 <small>🔗 [github.com](https://github.com/bobschrag/clolog): Clolog</small>
 
 
-| 🔥🔥: 158 \| 💬: [22](https://news.ycombinator.com/item?id=43695620) \| 🗓️ 2025-04-15
+| 🔥🔥: 167 \| 💬: [23](https://news.ycombinator.com/item?id=43695620) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -145,11 +157,11 @@ Clolog是一个**全功能逻辑编程**（类似Prolog）系统，深度集成C
 
 ---
 
-## <a name="11"></a>11. 破解PostgreSQL有线协议的核心技术 
+## <a name="12"></a>12. 破解PostgreSQL有线协议的核心技术 
 <small>🔗 [pgdog.dev](https://pgdog.dev/blog/hacking-postgres-wire-protocol): Hacking the Postgres wire protocol</small>
 
 
-| 🔥🔥: 136 \| 💬: [29](https://news.ycombinator.com/item?id=43693326) \| 🗓️ 2025-04-15
+| 🔥🔥: 141 \| 💬: [29](https://news.ycombinator.com/item?id=43693326) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -157,7 +169,7 @@ PgDog是一款网络代理工具，能够解析**PostgreSQL有线协议**，实�
 
 ---
 
-## <a name="12"></a>12. 哥伦比亚大学哲学系学生赴公民面试遭ICE强行带走 
+## <a name="13"></a>13. 哥伦比亚大学哲学系学生赴公民面试遭ICE强行带走 
 <small>🔗 [dailynous.com](https://dailynous.com/2025/04/15/philosophy-major-snatched-by-ice-during-citizenship-interview/): Philosophy Major Snatched by ICE During Citizenship Interview</small>
 
 
@@ -169,23 +181,11 @@ PgDog是一款网络代理工具，能够解析**PostgreSQL有线协议**，实�
 
 ---
 
-## <a name="13"></a>13. 不确定计算器：用概率思维解决日常估算问题 
-<small>🔗 [filiph.github.io](https://filiph.github.io/unsure/): Show HN: Unsure Calculator – back-of-a-napkin probabilistic calculator</small>
-
-
-| 🔥🔥: 113 \| 💬: [24](https://news.ycombinator.com/item?id=43690289) \| 🗓️ 2025-04-15
-
-
-<br />
-Filip开发的**不确定计算器**允许用户输入**范围值**（如`10~15`），表示95%置信区间内的可能数值。通过蒙特卡洛模拟，工具能快速生成概率分布结果，帮助非专业人士量化不确定性。例如：计算跨国搬家财务风险（`-60~220美元/月`）或估算银河系文明数量（`0~450个`）。支持基础运算和三角函数，但界面简陋且仅支持正态分布。核心理念是**用简单符号降低统计门槛**，适用于商业决策、投资回报等场景。开发者强调其"草稿纸工具"定位，复杂需求仍需专业软件。
-
----
-
 ## <a name="14"></a>14. 目标三元组到底是什么？ 
 <small>🔗 [mcyoung.xyz](https://mcyoung.xyz/2025/04/14/target-triples/): What the hell is a target triple?</small>
 
 
-| 🔥🔥: 111 \| 💬: [78](https://news.ycombinator.com/item?id=43696756) \| 🗓️ 2025-04-15
+| 🔥🔥: 126 \| 💬: [92](https://news.ycombinator.com/item?id=43696756) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -197,7 +197,7 @@ Filip开发的**不确定计算器**允许用户输入**范围值**（如`10~15`
 <small>🔗 [sourcehut.org](https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/): You cannot have our user's data</small>
 
 
-| 🔥🔥: 108 \| 💬: [92](https://news.ycombinator.com/item?id=43692998) \| 🗓️ 2025-04-15
+| 🔥🔥: 108 \| 💬: [94](https://news.ycombinator.com/item?id=43692998) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -209,7 +209,7 @@ SourceHut明确反对LLM爬虫滥用公开数据，强调**用户数据不属于
 <small>🔗 [a.weird.one](https://a.weird.one): WEIRD – a way to be on the web</small>
 
 
-| 🔥: 96 \| 💬: [52](https://news.ycombinator.com/item?id=43691891) \| 🗓️ 2025-04-15
+| 🔥: 96 \| 💬: [53](https://news.ycombinator.com/item?id=43691891) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -221,7 +221,7 @@ SourceHut明确反对LLM爬虫滥用公开数据，强调**用户数据不属于
 <small>🔗 [scottaaronson.blog](https://scottaaronson.blog/?p=8805): I speak at Harvard as it faces its biggest crisis since 1636</small>
 
 
-| 🔥: 91 \| 💬: [92](https://news.ycombinator.com/item?id=43696010) \| 🗓️ 2025-04-15
+| 🔥: 94 \| 💬: [93](https://news.ycombinator.com/item?id=43696010) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -229,15 +229,17 @@ SourceHut明确反对LLM爬虫滥用公开数据，强调**用户数据不属于
 
 ---
 
-## <a name="18"></a>18. TLS证书有效期将正式缩短至47天 
-<small>🔗 [digicert.com](https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days): TLS Certificate Lifetimes Will Officially Reduce to 47 Days</small>
+## <a name="18"></a>18. UI线程在内核调用中挂起的案例 
+<small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20250411-00/?p=111066): The case of the UI thread that hung in a kernel call</small>
 
 
-| 🔥: 79 \| 💬: [153](https://news.ycombinator.com/item?id=43693900) \| 🗓️ 2025-04-15
+| 🔥: 82 \| 💬: [20](https://news.ycombinator.com/item?id=43695723) \| 🗓️ 2025-04-15
 
 
 <br />
-CA/Browser Forum已投票通过新规，**TLS证书有效期**将分阶段缩短：2026年3月降至200天，2027年3月降至100天，2029年3月最终降至**47天**。同时，域名验证信息的可重用期也将逐步压缩至10天。此举旨在推动**自动化证书管理**，解决证书信息时效性及吊销系统不可靠的问题。苹果等企业强调，频繁重新验证是保障安全的关键。证书机构表示，自动化普及后成本不会增加，且用户将更适应快速更换周期。
+一位客户反馈其UI线程在调用内核时**无故挂起**，且由于内存压力导致用户态堆栈被换出，无法通过内核转储分析。调查发现，该线程被**挂起超5小时**，而挂起操作源自客户自建的监控线程（用于定期捕获UI线程堆栈）。问题根源在于：监控线程试图获取UI线程堆栈时，**UI线程自身正持有函数表锁**（因异常处理被中断），导致双方死锁。  
+
+核心结论：**禁止在自身进程内挂起线程**，否则可能因资源互锁引发死锁。正确做法应通过外部进程执行挂起操作。此外，内核的挂起请求是异步的，需等待线程完成当前内核操作后才会生效。
 
 ---
 
@@ -245,7 +247,7 @@ CA/Browser Forum已投票通过新规，**TLS证书有效期**将分阶段缩短
 <small>🔗 [github.com](https://github.com/ripplebiz/MeshCore): MeshCore, a new lightweight, hybrid routing mesh protocol for packet radios</small>
 
 
-| 🔥: 77 \| 💬: [28](https://news.ycombinator.com/item?id=43693406) \| 🗓️ 2025-04-15
+| 🔥: 80 \| 💬: [28](https://news.ycombinator.com/item?id=43693406) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -257,25 +259,35 @@ MeshCore是一个轻量化的C++库，专为**嵌入式项目**设计，支持Lo
 
 ---
 
-## <a name="20"></a>20. UI线程在内核调用中挂起的案例 
-<small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20250411-00/?p=111066): The case of the UI thread that hung in a kernel call</small>
+## <a name="20"></a>20. TLS证书有效期将正式缩短至47天 
+<small>🔗 [digicert.com](https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days): TLS certificate lifetimes will officially reduce to 47 days</small>
 
 
-| 🔥: 76 \| 💬: [17](https://news.ycombinator.com/item?id=43695723) \| 🗓️ 2025-04-15
+| 🔥: 79 \| 💬: [153](https://news.ycombinator.com/item?id=43693900) \| 🗓️ 2025-04-15
 
 
 <br />
-一位客户反馈其UI线程在调用内核时**无故挂起**，且由于内存压力导致用户态堆栈被换出，无法通过内核转储分析。调查发现，该线程被**挂起超5小时**，而挂起操作源自客户自建的监控线程（用于定期捕获UI线程堆栈）。问题根源在于：监控线程试图获取UI线程堆栈时，**UI线程自身正持有函数表锁**（因异常处理被中断），导致双方死锁。  
-
-核心结论：**禁止在自身进程内挂起线程**，否则可能因资源互锁引发死锁。正确做法应通过外部进程执行挂起操作。此外，内核的挂起请求是异步的，需等待线程完成当前内核操作后才会生效。
+CA/Browser Forum已投票通过新规，**TLS证书有效期**将分阶段缩短：2026年3月降至200天，2027年3月降至100天，2029年3月最终降至**47天**。同时，域名验证信息的可重用期也将逐步压缩至10天。此举旨在推动**自动化证书管理**，解决证书信息时效性及吊销系统不可靠的问题。苹果等企业强调，频繁重新验证是保障安全的关键。证书机构表示，自动化普及后成本不会增加，且用户将更适应快速更换周期。
 
 ---
 
-## <a name="21"></a>21. Notion邮件功能上线 
-<small>🔗 [notion.com](https://www.notion.com/product/mail): Notion Mail Is Out</small>
+## <a name="21"></a>21. Cohere发布Embed 4：多模态企业搜索新标杆 
+<small>🔗 [cohere.com](https://cohere.com/blog/embed-4): Cohere Launches Embed 4</small>
 
 
-| 🔥: 75 \| 💬: [111](https://news.ycombinator.com/item?id=43694310) \| 🗓️ 2025-04-15
+| 🔥: 79 \| 💬: [40](https://news.ycombinator.com/item?id=43694546) \| 🗓️ 2025-04-15
+
+
+<br />
+Cohere团队于2025年4月15日推出**Embed 4**，该产品以**行业领先的准确性和效率**为核心，助力企业安全检索**多模态数据**，构建智能代理应用。这一突破性技术为AI驱动的商业解决方案提供了更强大的底层支持。
+
+---
+
+## <a name="22"></a>22. Notion邮件功能上线 
+<small>🔗 [notion.com](https://www.notion.com/product/mail): Notion Mail is out</small>
+
+
+| 🔥: 75 \| 💬: [116](https://news.ycombinator.com/item?id=43694310) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -283,7 +295,7 @@ Notion推出**移动端邮件服务**，用户现可通过iOS应用随时随地�
 
 ---
 
-## <a name="22"></a>22. GitHub遭连锁供应链攻击，超2.3万仓库CI/CD密钥泄露 
+## <a name="23"></a>23. GitHub遭连锁供应链攻击，超2.3万仓库CI/CD密钥泄露 
 <small>🔗 [infoworld.com](https://www.infoworld.com/article/3849245/github-suffers-a-cascading-supply-chain-attack-compromising-ci-cd-secrets.html): GitHub suffers a cascading supply chain attack compromising CI/CD secrets</small>
 
 
@@ -295,7 +307,7 @@ Notion推出**移动端邮件服务**，用户现可通过iOS应用随时随地�
 
 ---
 
-## <a name="23"></a>23. 两年Rust实战回顾 
+## <a name="24"></a>24. 两年Rust实战回顾 
 <small>🔗 [borretti.me](https://borretti.me/article/two-years-of-rust): Two Years of Rust</small>
 
 
