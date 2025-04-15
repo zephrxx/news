@@ -27,7 +27,7 @@ tags:
 <small>🔗 [harvard.edu](https://www.harvard.edu/president/news/2025/the-promise-of-american-higher-education/): Harvard's response to federal government letter demanding changes</small>
 
 
-| 🔥🔥: 774 \| 💬: [615](https://news.ycombinator.com/item?id=43684536) \| 🗓️ 2025-04-14
+| 🔥🔥: 842 \| 💬: [681](https://news.ycombinator.com/item?id=43684536) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [geoffreylitt.com](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs): A hackable AI assistant using a single SQLite table and a handful of cron jobs</small>
 
 
-| 🔥🔥: 430 \| 💬: [108](https://news.ycombinator.com/item?id=43681287) \| 🗓️ 2025-04-14
+| 🔥🔥: 449 \| 💬: [118](https://news.ycombinator.com/item?id=43681287) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/deepseek-ai/open-infra-index/tree/main/OpenSourcing_DeepSeek_Inference_Engine): The path to open-sourcing the DeepSeek inference engine</small>
 
 
-| 🔥🔥: 334 \| 💬: [20](https://news.ycombinator.com/item?id=43682088) \| 🗓️ 2025-04-14
+| 🔥🔥: 347 \| 💬: [24](https://news.ycombinator.com/item?id=43682088) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -63,7 +63,7 @@ DeepSeek 团队在开源周期间开源了多个库，获得社区积极反馈�
 <small>🔗 [blog.google](https://blog.google/technology/ai/dolphingemma/): DolphinGemma: How Google AI is helping decode dolphin communication</small>
 
 
-| 🔥🔥: 220 \| 💬: [79](https://news.ycombinator.com/item?id=43680899) \| 🗓️ 2025-04-14
+| 🔥🔥: 232 \| 💬: [88](https://news.ycombinator.com/item?id=43680899) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -75,7 +75,7 @@ DeepSeek 团队在开源周期间开源了多个库，获得社区积极反馈�
 <small>🔗 [openmymind.net](https://www.openmymind.net/Zigs-New-LinkedList-API/): Zig's new LinkedList API (it's time to learn fieldParentPtr)</small>
 
 
-| 🔥🔥: 164 \| 💬: [133](https://news.ycombinator.com/item?id=43679707) \| 🗓️ 2025-04-14
+| 🔥🔥: 166 \| 💬: [133](https://news.ycombinator.com/item?id=43679707) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -83,23 +83,11 @@ Zig最新提交的`SinglyLinkedList`和`DoublyLinkedList`改用**侵入式链表
 
 ---
 
-## <a name="6"></a>6. 如何骑自行车横穿全国 
-<small>🔗 [brooks.team](https://www.brooks.team/posts/how-to-bike-across-the-country/): How to Bike Across the Country</small>
-
-
-| 🔥🔥: 138 \| 💬: [72](https://news.ycombinator.com/item?id=43681936) \| 🗓️ 2025-04-14
-
-
-<br />
-本文介绍了**长途骑行**的必备要点，包括路线规划、**装备选择**和体能训练。强调提前了解天气和地形，携带足够补给，并保持**循序渐进**的骑行节奏，确保安全与可持续性。适合骑行爱好者挑战自我，探索沿途风景。
-
----
-
-## <a name="7"></a>7. Omnom：支持可搜索可视化快照的自托管书签工具 
+## <a name="6"></a>6. Omnom：支持可搜索可视化快照的自托管书签工具 
 <small>🔗 [omnom.zone](https://omnom.zone/?src=hn): Omnom: Self-hosted bookmarking with searchable, wysiwyg snapshots [showcase]</small>
 
 
-| 🔥🔥: 136 \| 💬: [44](https://news.ycombinator.com/item?id=43680232) \| 🗓️ 2025-04-14
+| 🔥🔥: 141 \| 💬: [45](https://news.ycombinator.com/item?id=43680232) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -107,11 +95,35 @@ Zig最新提交的`SinglyLinkedList`和`DoublyLinkedList`改用**侵入式链表
 
 ---
 
-## <a name="8"></a>8. 《黑客实战C语言：C编程实用指南》 
+## <a name="7"></a>7. 如何骑自行车横穿全国 
+<small>🔗 [brooks.team](https://www.brooks.team/posts/how-to-bike-across-the-country/): How to Bike Across the Country</small>
+
+
+| 🔥🔥: 140 \| 💬: [72](https://news.ycombinator.com/item?id=43681936) \| 🗓️ 2025-04-14
+
+
+<br />
+本文介绍了**长途骑行**的必备要点，包括路线规划、**装备选择**和体能训练。强调提前了解天气和地形，携带足够补给，并保持**循序渐进**的骑行节奏，确保安全与可持续性。适合骑行爱好者挑战自我，探索沿途风景。
+
+---
+
+## <a name="8"></a>8. 英特尔以87.5亿美元估值出售Altera 51%股权给私募银湖资本 
+<small>🔗 [newsroom.intel.com](https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025): Intel sells 51% stake in Altera to private equity firm on a $8.75B valuation</small>
+
+
+| 🔥🔥: 126 \| 💬: [89](https://news.ycombinator.com/item?id=43686773) \| 🗓️ 2025-04-14
+
+
+<br />
+英特尔宣布将**Altera** 51%的股份出售给科技投资巨头**银湖资本**，交易估值达87.5亿美元，使Altera成为独立运营的**FPGA（现场可编程门阵列）**领域龙头企业。英特尔保留49%股权，继续参与其未来发展。新任CEO Raghib Hussain将接替Sandra Rivera，推动Altera在AI、边缘计算等新兴市场的创新。交易预计2025年下半年完成，Altera 2024年营收15.4亿美元，非GAAP运营利润3500万美元。银湖资本称此为“一代人一次的投资机会”，将助力Altera巩固技术领先地位。
+
+---
+
+## <a name="9"></a>9. 《黑客实战C语言：C编程实用指南》 
 <small>🔗 [github.com](https://github.com/codr7/hacktical-c): Hacktical C: practical hacker's guide to the C programming language</small>
 
 
-| 🔥🔥: 124 \| 💬: [113](https://news.ycombinator.com/item?id=43679781) \| 🗓️ 2025-04-14
+| 🔥🔥: 124 \| 💬: [114](https://news.ycombinator.com/item?id=43679781) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -119,11 +131,11 @@ Zig最新提交的`SinglyLinkedList`和`DoublyLinkedList`改用**侵入式链表
 
 ---
 
-## <a name="9"></a>9. Meilisearch：AI驱动的混合搜索引擎API 
+## <a name="10"></a>10. Meilisearch：AI驱动的混合搜索引擎API 
 <small>🔗 [github.com](https://github.com/meilisearch/meilisearch): Meilisearch – search engine API bringing AI-powered hybrid search</small>
 
 
-| 🔥🔥: 113 \| 💬: [49](https://news.ycombinator.com/item?id=43680699) \| 🗓️ 2025-04-14
+| 🔥🔥: 119 \| 💬: [49](https://news.ycombinator.com/item?id=43680699) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -131,23 +143,11 @@ Meilisearch是一款**闪电般快速**的搜索引擎API，为网站和应用�
 
 ---
 
-## <a name="10"></a>10. OpenAI正成为科技行业的系统性风险 
-<small>🔗 [wheresyoured.at](https://www.wheresyoured.at/openai-is-a-systemic-risk-to-the-tech-industry-2/): OpenAI Is a Systemic Risk to the Tech Industry</small>
-
-
-| 🔥🔥: 106 \| 💬: [101](https://news.ycombinator.com/item?id=43683071) \| 🗓️ 2025-04-14
-
-
-<br />
-OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿），但面临严重财务压力：2024年收入40亿美元却亏损50亿，2025年预计支出280亿美元（含130亿微软算力费用和**19亿Stargate超算项目**投入）。其商业模式依赖高成本订阅和API，但**每用户均亏损**，且软银承诺的300亿资金存在变数。核心问题在于算力成本飙升（如CoreWeave合约每年需支付2.38亿），而收入增长依赖尚未成熟的“AI代理”产品。若资金链断裂，可能引发行业震荡。
-
----
-
 ## <a name="11"></a>11. 熵到底是什么？ 
 <small>🔗 [jasonfantl.com](https://jasonfantl.com/posts/What-is-Entropy/): What Is Entropy?</small>
 
 
-| 🔥🔥: 103 \| 💬: [34](https://news.ycombinator.com/item?id=43684560) \| 🗓️ 2025-04-14
+| 🔥🔥: 119 \| 💬: [42](https://news.ycombinator.com/item?id=43684560) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -159,7 +159,7 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 <small>🔗 [harvard.edu](https://www.harvard.edu/research-funding/wp-content/uploads/sites/16/2025/04/Letter-Sent-to-Harvard-2025-04-11.pdf): Federal Government's letter to Harvard demanding changes [pdf]</small>
 
 
-| 🔥: 98 \| 💬: [37](https://news.ycombinator.com/item?id=43684386) \| 🗓️ 2025-04-14
+| 🔥🔥: 112 \| 💬: [42](https://news.ycombinator.com/item?id=43684386) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -167,11 +167,23 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
-## <a name="13"></a>13. AudioX：全能扩散Transformer模型实现任意模态到音频生成 
+## <a name="13"></a>13. OpenAI正成为科技行业的系统性风险 
+<small>🔗 [wheresyoured.at](https://www.wheresyoured.at/openai-is-a-systemic-risk-to-the-tech-industry-2/): OpenAI Is a Systemic Risk to the Tech Industry</small>
+
+
+| 🔥🔥: 108 \| 💬: [101](https://news.ycombinator.com/item?id=43683071) \| 🗓️ 2025-04-14
+
+
+<br />
+OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿），但面临严重财务压力：2024年收入40亿美元却亏损50亿，2025年预计支出280亿美元（含130亿微软算力费用和**19亿Stargate超算项目**投入）。其商业模式依赖高成本订阅和API，但**每用户均亏损**，且软银承诺的300亿资金存在变数。核心问题在于算力成本飙升（如CoreWeave合约每年需支付2.38亿），而收入增长依赖尚未成熟的“AI代理”产品。若资金链断裂，可能引发行业震荡。
+
+---
+
+## <a name="14"></a>14. AudioX：全能扩散Transformer模型实现任意模态到音频生成 
 <small>🔗 [zeyuet.github.io](https://zeyuet.github.io/AudioX/): AudioX: Diffusion Transformer for Anything-to-Audio Generation</small>
 
 
-| 🔥: 95 \| 💬: [10](https://news.ycombinator.com/item?id=43683907) \| 🗓️ 2025-04-14
+| 🔥: 99 \| 💬: [10](https://news.ycombinator.com/item?id=43683907) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -179,11 +191,11 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
-## <a name="14"></a>14. 多伦多女子在Lyft车内聊天后收到对话转录短信 
+## <a name="15"></a>15. 多伦多女子在Lyft车内聊天后收到对话转录短信 
 <small>🔗 [cbc.ca](https://www.cbc.ca/news/canada/toronto/lyft-conversation-transcribed-1.7508106): She was chatting with friends in a Lyft. Then someone texted her what they said</small>
 
 
-| 🔥: 89 \| 💬: [81](https://news.ycombinator.com/item?id=43680039) \| 🗓️ 2025-04-14
+| 🔥: 90 \| 💬: [81](https://news.ycombinator.com/item?id=43680039) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -191,11 +203,11 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
-## <a name="15"></a>15. Podman Quadlets：轻量级容器管理的系统化方案 
+## <a name="16"></a>16. Podman Quadlets：轻量级容器管理的系统化方案 
 <small>🔗 [podman-desktop.io](https://podman-desktop.io/blog/podman-quadlet): Podman Quadlets with Podman Desktop</small>
 
 
-| 🔥: 83 \| 💬: [31](https://news.ycombinator.com/item?id=43683641) \| 🗓️ 2025-04-14
+| 🔥: 89 \| 💬: [35](https://news.ycombinator.com/item?id=43683641) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -203,11 +215,11 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
-## <a name="16"></a>16. 零代码生成：直接从Protobuf推断TypeScript类型 
+## <a name="17"></a>17. 零代码生成：直接从Protobuf推断TypeScript类型 
 <small>🔗 [github.com](https://github.com/nathanhleung/protobuf-ts-types): Show HN: Zero-codegen, no-compile TypeScript type inference from Protobufs</small>
 
 
-| 🔥: 77 \| 💬: [39](https://news.ycombinator.com/item?id=43682547) \| 🗓️ 2025-04-14
+| 🔥: 84 \| 💬: [45](https://news.ycombinator.com/item?id=43682547) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -222,7 +234,21 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
-## <a name="17"></a>17. 欧盟向赴美工作人员发放一次性手机 防范间谍活动 
+## <a name="18"></a>18. 用Python给Python包加关税？这个恶搞库有点意思！ 
+<small>🔗 [pypi.org](https://pypi.org/project/tariff/): Tariff: A Python package that imposes tariffs on Python imports</small>
+
+
+| 🔥: 77 \| 💬: [6](https://news.ycombinator.com/item?id=43681752) \| 🗓️ 2025-04-14
+
+
+<br />
+**Tariff** 是一个恶搞性质的Python包，宣称要"让导入再次伟大"。它通过**模拟关税机制**，让指定第三方库的导入速度变慢——比如对`numpy`加征50%的"关税"，其导入时间就会延长50%。  
+
+该库采用**猴子补丁技术**修改导入行为，并会输出夸张的提示信息（例如"美国包正在赢！"）。作者以政治 parody 的形式调侃技术生态，明确标注"高风险娱乐项目"，采用MIT协议，**仅支持Python 3.6+**。安装只需`pip install tariff`，但建议不要在生产环境使用这种故意降低性能的玩具库。
+
+---
+
+## <a name="19"></a>19. 欧盟向赴美工作人员发放一次性手机 防范间谍活动 
 <small>🔗 [ft.com](https://www.ft.com/content/20d0678a-41b2-468d-ac10-14ce1eae357b): EU issues US-bound staff with burner phones over spying fears</small>
 
 
@@ -234,37 +260,11 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 
 ---
 
-## <a name="18"></a>18. 英特尔以87.5亿美元估值出售Altera 51%股权给私募银湖资本 
-<small>🔗 [newsroom.intel.com](https://newsroom.intel.com/corporate/intel-partner-deal-news-april2025): Intel sells 51% stake in Altera to private equity firm on a $8.75B valuation</small>
-
-
-| 🔥: 74 \| 💬: [47](https://news.ycombinator.com/item?id=43686773) \| 🗓️ 2025-04-14
-
-
-<br />
-英特尔宣布将**Altera** 51%的股份出售给科技投资巨头**银湖资本**，交易估值达87.5亿美元，使Altera成为独立运营的**FPGA（现场可编程门阵列）**领域龙头企业。英特尔保留49%股权，继续参与其未来发展。新任CEO Raghib Hussain将接替Sandra Rivera，推动Altera在AI、边缘计算等新兴市场的创新。交易预计2025年下半年完成，Altera 2024年营收15.4亿美元，非GAAP运营利润3500万美元。银湖资本称此为“一代人一次的投资机会”，将助力Altera巩固技术领先地位。
-
----
-
-## <a name="19"></a>19. 用Python给Python包加关税？这个恶搞库有点意思！ 
-<small>🔗 [pypi.org](https://pypi.org/project/tariff/): Tariff: A Python package that imposes tariffs on Python imports</small>
-
-
-| 🔥: 65 \| 💬: [6](https://news.ycombinator.com/item?id=43681752) \| 🗓️ 2025-04-14
-
-
-<br />
-**Tariff** 是一个恶搞性质的Python包，宣称要"让导入再次伟大"。它通过**模拟关税机制**，让指定第三方库的导入速度变慢——比如对`numpy`加征50%的"关税"，其导入时间就会延长50%。  
-
-该库采用**猴子补丁技术**修改导入行为，并会输出夸张的提示信息（例如"美国包正在赢！"）。作者以政治 parody 的形式调侃技术生态，明确标注"高风险娱乐项目"，采用MIT协议，**仅支持Python 3.6+**。安装只需`pip install tariff`，但建议不要在生产环境使用这种故意降低性能的玩具库。
-
----
-
 ## <a name="20"></a>20. 白宫证实特朗普正研究"驱逐"美国公民的途径 
 <small>🔗 [huffpost.com](https://www.huffpost.com/entry/white-house-confirms-trump-is-exploring-ways-to-deport-us-citizens_n_67f580abe4b0a5ea5c7608d2): White House Confirms Trump Is Exploring Ways to 'Deport' U.S. Citizens</small>
 
 
-| 🔥: 64 \| 💬: [29](https://news.ycombinator.com/item?id=43682941) \| 🗓️ 2025-04-14
+| 🔥: 68 \| 💬: [30](https://news.ycombinator.com/item?id=43682941) \| 🗓️ 2025-04-14
 
 
 <br />
@@ -276,7 +276,7 @@ OpenAI近期以**3000亿美元估值**融资400亿美元（实际到账仅100亿
 <small>🔗 [simplewebserver.org](https://simplewebserver.org/): Simple Web Server</small>
 
 
-| 🔥: 62 \| 💬: [38](https://news.ycombinator.com/item?id=43684009) \| 🗓️ 2025-04-14
+| 🔥: 63 \| 💬: [41](https://news.ycombinator.com/item?id=43684009) \| 🗓️ 2025-04-14
 
 
 <br />
