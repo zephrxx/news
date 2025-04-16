@@ -27,7 +27,7 @@ tags:
 <small>🔗 [npr.org](https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security): Whistleblower details how DOGE may have taken sensitive NLRB data</small>
 
 
-| 🔥🔥: 676 \| 💬: [344](https://news.ycombinator.com/item?id=43691142) \| 🗓️ 2025-04-15
+| 🔥🔥: 713 \| 💬: [355](https://news.ycombinator.com/item?id=43691142) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [seths.blog](https://seths.blog/2025/04/how-to-win-an-argument-with-a-toddler/): How to win an argument with a toddler</small>
 
 
-| 🔥🔥: 545 \| 💬: [414](https://news.ycombinator.com/item?id=43693402) \| 🗓️ 2025-04-15
+| 🔥🔥: 562 \| 💬: [424](https://news.ycombinator.com/item?id=43693402) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [knowyourmeme.com](https://knowyourmeme.com/memes/events/april-2025-4chan-sharty-hack-and-janitor-email-leak): 4chan Sharty Hack And Janitor Email Leak</small>
 
 
-| 🔥🔥: 406 \| 💬: [511](https://news.ycombinator.com/item?id=43691334) \| 🗓️ 2025-04-15
+| 🔥🔥: 423 \| 💬: [532](https://news.ycombinator.com/item?id=43691334) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/its-easier-ever-de-censor-videos): It's easier than ever to de-censor videos</small>
 
 
-| 🔥🔥: 324 \| 💬: [138](https://news.ycombinator.com/item?id=43695701) \| 🗓️ 2025-04-15
+| 🔥🔥: 329 \| 💬: [139](https://news.ycombinator.com/item?id=43695701) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -77,7 +77,7 @@ tags:
 <small>🔗 [filiph.github.io](https://filiph.github.io/unsure/): Show HN: Unsure Calculator – back-of-a-napkin probabilistic calculator</small>
 
 
-| 🔥🔥: 266 \| 💬: [47](https://news.ycombinator.com/item?id=43690289) \| 🗓️ 2025-04-15
+| 🔥🔥: 307 \| 💬: [54](https://news.ycombinator.com/item?id=43690289) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -89,7 +89,7 @@ Filip开发的**不确定计算器**允许用户输入**范围值**（如`10~15`
 <small>🔗 [molsonhart.com](https://www.molsonhart.com/blog/america-underestimates-the-difficulty-of-bringing-manufacturing-back): America underestimates the difficulty of bringing manufacturing back</small>
 
 
-| 🔥🔥: 244 \| 💬: [412](https://news.ycombinator.com/item?id=43692677) \| 🗓️ 2025-04-15
+| 🔥🔥: 248 \| 💬: [413](https://news.ycombinator.com/item?id=43692677) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -97,7 +97,19 @@ Filip开发的**不确定计算器**允许用户输入**范围值**（如`10~15`
 
 ---
 
-## <a name="7"></a>7. Teuken-7B系列模型：迈向欧洲多语言大语言模型 
+## <a name="7"></a>7. 美国如何成为科学超级大国 
+<small>🔗 [steveblank.com](https://steveblank.com/2025/04/15/how-the-u-s-became-a-science-superpower/): How the U.S. became a science superpower</small>
+
+
+| 🔥🔥: 245 \| 💬: [255](https://news.ycombinator.com/item?id=43692360) \| 🗓️ 2025-04-15
+
+
+<br />
+二战前，美国在科学与工程领域远远落后。战后，美国通过**大学与政府合作**的创新模式超越英国，主导全球科技85年。**范内瓦·布什**推动政府资助大学研发，形成产学研生态；而英国依赖**政府实验室**，因资金短缺和缺乏商业化未能持续优势。战后美国通过**国家科学基金会**等机构巩固领先地位，而英国受限于社会主义政策与资本不足。如今，美国科技霸权或因政府削减研发经费而终结。
+
+---
+
+## <a name="8"></a>8. Teuken-7B系列模型：迈向欧洲多语言大语言模型 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2410.03730): Teuken-7B-Base and Teuken-7B-Instruct: Towards European LLMs (2024)</small>
 
 
@@ -109,23 +121,11 @@ Filip开发的**不确定计算器**允许用户输入**范围值**（如`10~15`
 
 ---
 
-## <a name="8"></a>8. 美国如何成为科学超级大国 
-<small>🔗 [steveblank.com](https://steveblank.com/2025/04/15/how-the-u-s-became-a-science-superpower/): How the U.S. became a science superpower</small>
-
-
-| 🔥🔥: 226 \| 💬: [234](https://news.ycombinator.com/item?id=43692360) \| 🗓️ 2025-04-15
-
-
-<br />
-二战前，美国在科学与工程领域远远落后。战后，美国通过**大学与政府合作**的创新模式超越英国，主导全球科技85年。**范内瓦·布什**推动政府资助大学研发，形成产学研生态；而英国依赖**政府实验室**，因资金短缺和缺乏商业化未能持续优势。战后美国通过**国家科学基金会**等机构巩固领先地位，而英国受限于社会主义政策与资本不足。如今，美国科技霸权或因政府削减研发经费而终结。
-
----
-
 ## <a name="9"></a>9. 用Veo 2在Gemini和Whisk中生成视频 
 <small>🔗 [blog.google](https://blog.google/products/gemini/video-generation/): Generate videos in Gemini and Whisk with Veo 2</small>
 
 
-| 🔥🔥: 203 \| 💬: [81](https://news.ycombinator.com/item?id=43695592) \| 🗓️ 2025-04-15
+| 🔥🔥: 217 \| 💬: [85](https://news.ycombinator.com/item?id=43695592) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -133,23 +133,11 @@ Gemini Advanced订阅用户现可通过**Veo 2**将文本提示转换为8秒高�
 
 ---
 
-## <a name="10"></a>10. 育碧开源色盲模拟工具Chroma，助力游戏无障碍测试 
-<small>🔗 [github.com](https://github.com/ubisoft/Chroma): Chroma: Ubisoft's internal tool used to simulate color-blindness</small>
-
-
-| 🔥🔥: 177 \| 💬: [55](https://news.ycombinator.com/item?id=43692089) \| 🗓️ 2025-04-15
-
-
-<br />
-Chroma是育碧开发的**实时色盲模拟工具**，可覆盖游戏画面并模拟**三种主要色盲类型**（Protanopia、Deuteranopia、Tritanopia），帮助开发团队快速识别色彩无障碍问题。其核心优势包括**跨游戏兼容性**、60帧流畅模拟及易用界面，支持实时截图记录问题。需注意CMake编译时若报错，需更新CPPWinRT库或使用Visual Studio 2022环境。该项目采用Apache-2.0许可证，已获111颗GitHub星标。
-
----
-
-## <a name="11"></a>11. Clolog：基于Clojure的嵌入式逻辑编程工具 
+## <a name="10"></a>10. Clolog：基于Clojure的嵌入式逻辑编程工具 
 <small>🔗 [github.com](https://github.com/bobschrag/clolog): Clolog</small>
 
 
-| 🔥🔥: 176 \| 💬: [24](https://news.ycombinator.com/item?id=43695620) \| 🗓️ 2025-04-15
+| 🔥🔥: 186 \| 💬: [25](https://news.ycombinator.com/item?id=43695620) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -157,11 +145,23 @@ Clolog是一个**全功能逻辑编程**（类似Prolog）系统，深度集成C
 
 ---
 
+## <a name="11"></a>11. 育碧开源色盲模拟工具Chroma，助力游戏无障碍测试 
+<small>🔗 [github.com](https://github.com/ubisoft/Chroma): Chroma: Ubisoft's internal tool used to simulate color-blindness</small>
+
+
+| 🔥🔥: 181 \| 💬: [56](https://news.ycombinator.com/item?id=43692089) \| 🗓️ 2025-04-15
+
+
+<br />
+Chroma是育碧开发的**实时色盲模拟工具**，可覆盖游戏画面并模拟**三种主要色盲类型**（Protanopia、Deuteranopia、Tritanopia），帮助开发团队快速识别色彩无障碍问题。其核心优势包括**跨游戏兼容性**、60帧流畅模拟及易用界面，支持实时截图记录问题。需注意CMake编译时若报错，需更新CPPWinRT库或使用Visual Studio 2022环境。该项目采用Apache-2.0许可证，已获111颗GitHub星标。
+
+---
+
 ## <a name="12"></a>12. 破解PostgreSQL有线协议的核心技术 
 <small>🔗 [pgdog.dev](https://pgdog.dev/blog/hacking-postgres-wire-protocol): Hacking the Postgres wire protocol</small>
 
 
-| 🔥🔥: 146 \| 💬: [30](https://news.ycombinator.com/item?id=43693326) \| 🗓️ 2025-04-15
+| 🔥🔥: 158 \| 💬: [35](https://news.ycombinator.com/item?id=43693326) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -173,7 +173,7 @@ PgDog是一款网络代理工具，能够解析**PostgreSQL有线协议**，实�
 <small>🔗 [mcyoung.xyz](https://mcyoung.xyz/2025/04/14/target-triples/): What the hell is a target triple?</small>
 
 
-| 🔥🔥: 136 \| 💬: [102](https://news.ycombinator.com/item?id=43696756) \| 🗓️ 2025-04-15
+| 🔥🔥: 140 \| 💬: [108](https://news.ycombinator.com/item?id=43696756) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -185,7 +185,7 @@ PgDog是一款网络代理工具，能够解析**PostgreSQL有线协议**，实�
 <small>🔗 [dailynous.com](https://dailynous.com/2025/04/15/philosophy-major-snatched-by-ice-during-citizenship-interview/): Philosophy Major Snatched by ICE During Citizenship Interview</small>
 
 
-| 🔥🔥: 126 \| 💬: [81](https://news.ycombinator.com/item?id=43693375) \| 🗓️ 2025-04-15
+| 🔥🔥: 129 \| 💬: [82](https://news.ycombinator.com/item?id=43693375) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -197,7 +197,7 @@ PgDog是一款网络代理工具，能够解析**PostgreSQL有线协议**，实�
 <small>🔗 [sourcehut.org](https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/): You cannot have our user's data</small>
 
 
-| 🔥🔥: 108 \| 💬: [95](https://news.ycombinator.com/item?id=43692998) \| 🗓️ 2025-04-15
+| 🔥🔥: 109 \| 💬: [99](https://news.ycombinator.com/item?id=43692998) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -205,11 +205,23 @@ SourceHut明确反对LLM爬虫滥用公开数据，强调**用户数据不属于
 
 ---
 
-## <a name="16"></a>16. 网络世界的独特存在——WEIRD 
+## <a name="16"></a>16. OpenAI或将进军社交网络领域，与马斯克、扎克伯格正面竞争 
+<small>🔗 [theverge.com](https://www.theverge.com/openai/648130/openai-social-network-x-competitor): OpenAI is building a social network?</small>
+
+
+| 🔥🔥: 107 \| 💬: [86](https://news.ycombinator.com/item?id=43694877) \| 🗓️ 2025-04-15
+
+
+<br />
+据知情人士透露，**OpenAI**正在开发一款类似X（原Twitter）的**社交网络平台**，目前处于早期原型阶段，可能整合ChatGPT的图像生成功能并包含社交信息流。CEO**Sam Altman**已私下征求外部反馈，但尚未决定将其作为独立应用还是集成至ChatGPT。此举可能加剧与**Elon Musk**（曾提出收购OpenAI未果）及**Meta**的竞争——后者也计划为AI助手添加社交功能。若成功，该平台将为OpenAI提供训练AI所需的实时数据，类似X与Grok、Meta与Llama的关系。内部设想包括利用AI优化内容分享，但项目最终能否落地仍存变数。
+
+---
+
+## <a name="17"></a>17. 网络世界的独特存在——WEIRD 
 <small>🔗 [a.weird.one](https://a.weird.one): WEIRD – a way to be on the web</small>
 
 
-| 🔥: 97 \| 💬: [54](https://news.ycombinator.com/item?id=43691891) \| 🗓️ 2025-04-15
+| 🔥: 98 \| 💬: [55](https://news.ycombinator.com/item?id=43691891) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -217,11 +229,23 @@ SourceHut明确反对LLM爬虫滥用公开数据，强调**用户数据不属于
 
 ---
 
-## <a name="17"></a>17. 哈佛面临1636年以来最大危机，我在此发表演讲 
+## <a name="18"></a>18. JSX 直传：颠覆传统API设计的新思路 
+<small>🔗 [overreacted.io](https://overreacted.io/jsx-over-the-wire/): JSX over the Wire</small>
+
+
+| 🔥: 96 \| 💬: [71](https://news.ycombinator.com/item?id=43694681) \| 🗓️ 2025-04-15
+
+
+<br />
+本文探讨了一种创新方法：**让API直接返回React组件**（如`<LikeButton>`），而非传统JSON数据。传统REST API设计常陷入**模型（Model）**与**视图模型（ViewModel）**的割裂——前者贴近数据库，后者服务于UI，导致接口难以维护。作者提出，通过API直接返回**JSX**，可将数据组装逻辑完全移至服务端，客户端只需渲染组件。这种“**好莱坞原则**”（“别调用我，我会调用你”）颠覆了前后端协作模式，尤其适合UI频繁变动的场景。核心矛盾在于：REST资源既非真实数据，亦非真实界面，而JSX直传让API与UI需求精准对齐。
+
+---
+
+## <a name="19"></a>19. 哈佛面临1636年以来最大危机，我在此发表演讲 
 <small>🔗 [scottaaronson.blog](https://scottaaronson.blog/?p=8805): I speak at Harvard as it faces its biggest crisis since 1636</small>
 
 
-| 🔥: 94 \| 💬: [98](https://news.ycombinator.com/item?id=43696010) \| 🗓️ 2025-04-15
+| 🔥: 96 \| 💬: [99](https://news.ycombinator.com/item?id=43696010) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -229,11 +253,11 @@ SourceHut明确反对LLM爬虫滥用公开数据，强调**用户数据不属于
 
 ---
 
-## <a name="18"></a>18. UI线程在内核调用中挂起的案例 
+## <a name="20"></a>20. UI线程在内核调用中挂起的案例 
 <small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20250411-00/?p=111066): The case of the UI thread that hung in a kernel call</small>
 
 
-| 🔥: 89 \| 💬: [22](https://news.ycombinator.com/item?id=43695723) \| 🗓️ 2025-04-15
+| 🔥: 93 \| 💬: [26](https://news.ycombinator.com/item?id=43695723) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -243,11 +267,35 @@ SourceHut明确反对LLM爬虫滥用公开数据，强调**用户数据不属于
 
 ---
 
-## <a name="19"></a>19. MeshCore：轻量级混合路由无线网格协议 
+## <a name="21"></a>21. TLS证书有效期将正式缩短至47天 
+<small>🔗 [digicert.com](https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days): TLS certificate lifetimes will officially reduce to 47 days</small>
+
+
+| 🔥: 86 \| 💬: [164](https://news.ycombinator.com/item?id=43693900) \| 🗓️ 2025-04-15
+
+
+<br />
+CA/Browser Forum已投票通过新规，**TLS证书有效期**将分阶段缩短：2026年3月降至200天，2027年3月降至100天，2029年3月最终降至**47天**。同时，域名验证信息的可重用期也将逐步压缩至10天。此举旨在推动**自动化证书管理**，解决证书信息时效性及吊销系统不可靠的问题。苹果等企业强调，频繁重新验证是保障安全的关键。证书机构表示，自动化普及后成本不会增加，且用户将更适应快速更换周期。
+
+---
+
+## <a name="22"></a>22. Cohere发布Embed 4：多模态企业搜索新标杆 
+<small>🔗 [cohere.com](https://cohere.com/blog/embed-4): Cohere Launches Embed 4</small>
+
+
+| 🔥: 85 \| 💬: [41](https://news.ycombinator.com/item?id=43694546) \| 🗓️ 2025-04-15
+
+
+<br />
+Cohere团队于2025年4月15日推出**Embed 4**，该产品以**行业领先的准确性和效率**为核心，助力企业安全检索**多模态数据**，构建智能代理应用。这一突破性技术为AI驱动的商业解决方案提供了更强大的底层支持。
+
+---
+
+## <a name="23"></a>23. MeshCore：轻量级混合路由无线网格协议 
 <small>🔗 [github.com](https://github.com/ripplebiz/MeshCore): MeshCore, a new lightweight, hybrid routing mesh protocol for packet radios</small>
 
 
-| 🔥: 82 \| 💬: [29](https://news.ycombinator.com/item?id=43693406) \| 🗓️ 2025-04-15
+| 🔥: 84 \| 💬: [29](https://news.ycombinator.com/item?id=43693406) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -259,35 +307,11 @@ MeshCore是一个轻量化的C++库，专为**嵌入式项目**设计，支持Lo
 
 ---
 
-## <a name="20"></a>20. TLS证书有效期将正式缩短至47天 
-<small>🔗 [digicert.com](https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days): TLS certificate lifetimes will officially reduce to 47 days</small>
-
-
-| 🔥: 82 \| 💬: [164](https://news.ycombinator.com/item?id=43693900) \| 🗓️ 2025-04-15
-
-
-<br />
-CA/Browser Forum已投票通过新规，**TLS证书有效期**将分阶段缩短：2026年3月降至200天，2027年3月降至100天，2029年3月最终降至**47天**。同时，域名验证信息的可重用期也将逐步压缩至10天。此举旨在推动**自动化证书管理**，解决证书信息时效性及吊销系统不可靠的问题。苹果等企业强调，频繁重新验证是保障安全的关键。证书机构表示，自动化普及后成本不会增加，且用户将更适应快速更换周期。
-
----
-
-## <a name="21"></a>21. Cohere发布Embed 4：多模态企业搜索新标杆 
-<small>🔗 [cohere.com](https://cohere.com/blog/embed-4): Cohere Launches Embed 4</small>
-
-
-| 🔥: 82 \| 💬: [41](https://news.ycombinator.com/item?id=43694546) \| 🗓️ 2025-04-15
-
-
-<br />
-Cohere团队于2025年4月15日推出**Embed 4**，该产品以**行业领先的准确性和效率**为核心，助力企业安全检索**多模态数据**，构建智能代理应用。这一突破性技术为AI驱动的商业解决方案提供了更强大的底层支持。
-
----
-
-## <a name="22"></a>22. 设计低成本高性能的10 MHz至15 GHz矢量网络分析仪 
+## <a name="24"></a>24. 设计低成本高性能的10 MHz至15 GHz矢量网络分析仪 
 <small>🔗 [hforsten.com](https://hforsten.com/designing-a-low-cost-high-performance-10-mhz-15-ghz-vector-network-analyzer.html): Designing a low-cost high-performance 10 MHz – 15 GHz vector network analyzer</small>
 
 
-| 🔥: 81 \| 💬: [17](https://news.ycombinator.com/item?id=43696798) \| 🗓️ 2025-04-15
+| 🔥: 82 \| 💬: [20](https://news.ycombinator.com/item?id=43696798) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -295,38 +319,14 @@ Cohere团队于2025年4月15日推出**Embed 4**，该产品以**行业领先的
 
 ---
 
-## <a name="23"></a>23. Notion邮件功能上线 
+## <a name="25"></a>25. Notion邮件功能上线 
 <small>🔗 [notion.com](https://www.notion.com/product/mail): Notion Mail is out</small>
 
 
-| 🔥: 77 \| 💬: [116](https://news.ycombinator.com/item?id=43694310) \| 🗓️ 2025-04-15
+| 🔥: 81 \| 💬: [118](https://news.ycombinator.com/item?id=43694310) \| 🗓️ 2025-04-15
 
 
 <br />
 Notion推出**移动端邮件服务**，用户现可通过iOS应用随时随地处理邮件。该功能目前处于**即将发布**阶段，具体上线时间尚未公布。此次更新进一步扩展了Notion的**生产力工具**生态，满足用户多场景办公需求。
-
----
-
-## <a name="24"></a>24. GitHub遭连锁供应链攻击，超2.3万仓库CI/CD密钥泄露 
-<small>🔗 [infoworld.com](https://www.infoworld.com/article/3849245/github-suffers-a-cascading-supply-chain-attack-compromising-ci-cd-secrets.html): GitHub suffers a cascading supply chain attack compromising CI/CD secrets</small>
-
-
-| 🔥: 71 \| 💬: [22](https://news.ycombinator.com/item?id=43691339) \| 🗓️ 2025-04-15
-
-
-<br />
-网络安全机构CISA确认，攻击者通过入侵**reviewdog/action-setup@v1**工具，进而渗透依赖该组件的**tj-actions/changed-files**，导致2.3万+仓库的敏感凭证（如GitHub访问令牌、npm密钥等）暴露。恶意代码通过Base64编码注入工作流日志，公开仓库的密钥可直接被窃取。Wiz研究团队指出，此次攻击揭示了开源项目权限管理的漏洞，建议开发者改用**不可变的提交哈希**替代版本标签，并启用GitHub操作白名单功能。目前漏洞已修复，但未轮换的密钥仍存在风险。
-
----
-
-## <a name="25"></a>25. 两年Rust实战回顾 
-<small>🔗 [borretti.me](https://borretti.me/article/two-years-of-rust): Two Years of Rust</small>
-
-
-| 🔥: 71 \| 💬: [49](https://news.ycombinator.com/item?id=43691856) \| 🗓️ 2025-04-15
-
-
-<br />
-作者总结了两年来使用Rust开发B2B SaaS后端的体验。**性能**方面，Rust默认高效，优化空间大；**工具链**如Cargo设计优秀，避免了常见痛点；**类型系统**和错误处理提升了代码可靠性。但**模块系统**和异步编程仍有改进空间。总体而言，Rust让开发者能自信构建高质量软件，尽管学习曲线陡峭（尤其是**借用检查器**）。与Python等语言相比，Rust减少了运行时焦虑，更适合长期维护。
 
 ---
