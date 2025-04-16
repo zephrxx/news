@@ -12,7 +12,7 @@ tags:
 1. 达尔文的孩子在《物种起源》手稿上涂鸦（2014）；
 1. OpenAI Codex CLI：终端轻量级编程助手；
 1. CVE基金会正式成立，确保全球漏洞管理生态长期稳定；
-1. 欧盟漏洞数据库（EUVD）；
+1. 因拒付5万美元安装费，他自建光纤网络惠及数百家庭；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [archive.org](https://archive.org/details/attentionkmartshoppers): Attention K-Mart Shoppers</small>
 
 
-| 🔥🔥: 279 \| 💬: [98](https://news.ycombinator.com/item?id=43706706) \| 🗓️ 2025-04-16
+| 🔥🔥: 291 \| 💬: [104](https://news.ycombinator.com/item?id=43706706) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [theappendix.net](https://theappendix.net/posts/2014/02/darwins-children-drew-vegetable-battles-on-the-origin-of-species): Darwin's children drew all over the “On the Origin of Species” manuscript (2014)</small>
 
 
-| 🔥🔥: 264 \| 💬: [76](https://news.ycombinator.com/item?id=43706037) \| 🗓️ 2025-04-16
+| 🔥🔥: 284 \| 💬: [82](https://news.ycombinator.com/item?id=43706037) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/openai/codex): OpenAI Codex CLI: Lightweight coding agent that runs in your terminal</small>
 
 
-| 🔥🔥: 228 \| 💬: [121](https://news.ycombinator.com/item?id=43708025) \| 🗓️ 2025-04-16
+| 🔥🔥: 266 \| 💬: [149](https://news.ycombinator.com/item?id=43708025) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -68,7 +68,7 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 <small>🔗 [thecvefoundation.org](https://www.thecvefoundation.org/home): CVE Foundation</small>
 
 
-| 🔥🔥: 217 \| 💬: [45](https://news.ycombinator.com/item?id=43704430) \| 🗓️ 2025-04-16
+| 🔥🔥: 245 \| 💬: [50](https://news.ycombinator.com/item?id=43704430) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -76,23 +76,11 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 
 ---
 
-## <a name="5"></a>5. 欧盟漏洞数据库（EUVD） 
-<small>🔗 [euvd.enisa.europa.eu](https://euvd.enisa.europa.eu/): European Union Vulnerability Database (EUVD)</small>
-
-
-| 🔥🔥: 208 \| 💬: [22](https://news.ycombinator.com/item?id=43703949) \| 🗓️ 2025-04-16
-
-
-<br />
-该内容提示用户需**启用JavaScript**才能运行此应用。主要介绍了**欧盟漏洞数据库**的相关信息，这是一个用于记录和管理漏洞的平台。关键点包括其功能及技术要求，强调**JavaScript**为必要运行条件。
-
----
-
-## <a name="6"></a>6. 因拒付5万美元安装费，他自建光纤网络惠及数百家庭 
+## <a name="5"></a>5. 因拒付5万美元安装费，他自建光纤网络惠及数百家庭 
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/): Man who built ISP instead of paying Comcast expands to hundreds of homes (2022)</small>
 
 
-| 🔥🔥: 166 \| 💬: [84](https://news.ycombinator.com/item?id=43709770) \| 🗓️ 2025-04-16
+| 🔥🔥: 222 \| 💬: [108](https://news.ycombinator.com/item?id=43709770) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -100,11 +88,23 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 
 ---
 
+## <a name="6"></a>6. 欧盟漏洞数据库（EUVD） 
+<small>🔗 [euvd.enisa.europa.eu](https://euvd.enisa.europa.eu/): European Union Vulnerability Database (EUVD)</small>
+
+
+| 🔥🔥: 211 \| 💬: [22](https://news.ycombinator.com/item?id=43703949) \| 🗓️ 2025-04-16
+
+
+<br />
+该内容提示用户需**启用JavaScript**才能运行此应用。主要介绍了**欧盟漏洞数据库**的相关信息，这是一个用于记录和管理漏洞的平台。关键点包括其功能及技术要求，强调**JavaScript**为必要运行条件。
+
+---
+
 ## <a name="7"></a>7. 重现Hacker News用户写作风格指纹分析 
 <small>🔗 [antirez.com](https://antirez.com/news/150): Reproducing Hacker News writing style fingerprinting</small>
 
 
-| 🔥🔥: 156 \| 💬: [79](https://news.ycombinator.com/item?id=43705632) \| 🗓️ 2025-04-16
+| 🔥🔥: 174 \| 💬: [84](https://news.ycombinator.com/item?id=43705632) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -112,23 +112,11 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 
 ---
 
-## <a name="8"></a>8. JetBrains IDE全面拥抱AI：推出智能编程助手Junie与免费套餐 
-<small>🔗 [blog.jetbrains.com](https://blog.jetbrains.com/blog/2025/04/16/jetbrains-ides-go-ai/): JetBrains IDEs Go AI: Coding Agent, Smarter Assistance, Free Tier</small>
-
-
-| 🔥🔥: 151 \| 💬: [113](https://news.ycombinator.com/item?id=43704579) \| 🗓️ 2025-04-16
-
-
-<br />
-JetBrains宣布在其IDE中集成**AI助手**和全新**编程代理Junie**，所有工具可通过单一订阅使用，并新增**免费套餐**。Junie由Anthropic的Claude和OpenAI大模型驱动，能处理复杂任务并提升代码质量。AI助手支持多模型选项（如Claude 3.7、Gemini 2.5），提供更精准的代码补全和跨文件编辑功能。JetBrains强调数据隐私，所有AI工具均注重安全性与透明度。
-
----
-
-## <a name="9"></a>9. 任天堂如何用法律手段绞杀雅达利游戏 
+## <a name="8"></a>8. 任天堂如何用法律手段绞杀雅达利游戏 
 <small>🔗 [thereader.mitpress.mit.edu](https://thereader.mitpress.mit.edu/how-nintendo-bled-atari-games-to-death/): Nintendo Bled Atari Games to Death</small>
 
 
-| 🔥🔥: 147 \| 💬: [116](https://news.ycombinator.com/item?id=43704596) \| 🗓️ 2025-04-16
+| 🔥🔥: 156 \| 💬: [122](https://news.ycombinator.com/item?id=43704596) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -136,47 +124,23 @@ JetBrains宣布在其IDE中集成**AI助手**和全新**编程代理Junie**，�
 
 ---
 
-## <a name="10"></a>10. 随机微积分入门：从理论到应用 
-<small>🔗 [bjlkeng.io](https://bjlkeng.io/posts/an-introduction-to-stochastic-calculus/): An Introduction to Stochastic Calculus (2022)</small>
+## <a name="9"></a>9. JetBrains IDE全面拥抱AI：推出智能编程助手Junie与免费套餐 
+<small>🔗 [blog.jetbrains.com](https://blog.jetbrains.com/blog/2025/04/16/jetbrains-ides-go-ai/): JetBrains IDEs Go AI: Coding Agent, Smarter Assistance, Free Tier</small>
 
 
-| 🔥🔥: 137 \| 💬: [36](https://news.ycombinator.com/item?id=43703623) \| 🗓️ 2025-04-16
-
-
-<br />
-本文探讨了**随机微积分**的核心概念及其在物理和金融领域的应用。作者从**测度论概率**的基础出发，逐步引入**随机过程**、**维纳过程**和**伊藤积分**等关键理论，并解释了如何用**随机微分方程**（如朗之万方程）建模随机现象。文中还通过**布莱克-斯科尔斯期权定价模型**等实例，展示了随机微积分的实际价值。尽管主题深奥，但作者力求兼顾直观与严谨，为读者提供了一份深入浅出的学习指南。
-
----
-
-## <a name="11"></a>11. 一家初创企业的失败复盘：英国住房市场的教训 
-<small>🔗 [buildwithtract.com](https://buildwithtract.com/): A Postmortem of a Startup</small>
-
-
-| 🔥🔥: 134 \| 💬: [106](https://news.ycombinator.com/item?id=43703682) \| 🗓️ 2025-04-16
+| 🔥🔥: 151 \| 💬: [114](https://news.ycombinator.com/item?id=43704579) \| 🗓️ 2025-04-16
 
 
 <br />
-2023年至2025年，Tract试图通过优化规划审批流程解决英国住房危机，但最终因**商业模式不可行**而关闭。尽管开发了**AI驱动的规划工具**并筹集了74.4万英镑，团队发现**房地产市场的保守性和碎片化**限制了技术颠覆的空间。关键教训包括：高估市场接受度、过早扩张团队、未聚焦收入验证。创始人建议创业者**优先验证市场**、保持精简，并警惕传统行业的变革阻力。
+JetBrains宣布在其IDE中集成**AI助手**和全新**编程代理Junie**，所有工具可通过单一订阅使用，并新增**免费套餐**。Junie由Anthropic的Claude和OpenAI大模型驱动，能处理复杂任务并提升代码质量。AI助手支持多模型选项（如Claude 3.7、Gemini 2.5），提供更精准的代码补全和跨文件编辑功能。JetBrains强调数据隐私，所有AI工具均注重安全性与透明度。
 
 ---
 
-## <a name="12"></a>12. 6502程序员的奇技淫巧（2019） 
-<small>🔗 [nurpax.github.io](https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html): Dirty tricks 6502 programmers use (2019)</small>
-
-
-| 🔥🔥: 131 \| 💬: [41](https://news.ycombinator.com/item?id=43705649) \| 🗓️ 2025-04-16
-
-
-<br />
-这篇文章总结了2019年Commodore 64编程竞赛中使用的**6502汇编技巧**，目标是绘制两条斜线并以最小字节数实现。获胜者仅用34字节完成。核心技巧包括：**利用ROM滚动函数**避免手动计算屏幕地址，**自修改代码**减少指令长度，以及**利用开机状态**的默认寄存器值和内存内容。此外，通过**篡改BASIC启动向量**或**堆栈返回地址**，参赛者跳过了12字节的BASIC头，进一步压缩程序体积。这些方法展现了6502极限优化的创造力。
-
----
-
-## <a name="13"></a>13. 易受攻击的MCP教学服务器 
+## <a name="10"></a>10. 易受攻击的MCP教学服务器 
 <small>🔗 [github.com](https://github.com/harishsg993010/damn-vulnerable-MCP-server): Damn Vulnerable MCP Server</small>
 
 
-| 🔥🔥: 130 \| 💬: [34](https://news.ycombinator.com/item?id=43707021) \| 🗓️ 2025-04-16
+| 🔥🔥: 142 \| 💬: [41](https://news.ycombinator.com/item?id=43707021) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -184,11 +148,47 @@ JetBrains宣布在其IDE中集成**AI助手**和全新**编程代理Junie**，�
 
 ---
 
+## <a name="11"></a>11. 随机微积分入门：从理论到应用 
+<small>🔗 [bjlkeng.io](https://bjlkeng.io/posts/an-introduction-to-stochastic-calculus/): An Introduction to Stochastic Calculus (2022)</small>
+
+
+| 🔥🔥: 141 \| 💬: [38](https://news.ycombinator.com/item?id=43703623) \| 🗓️ 2025-04-16
+
+
+<br />
+本文探讨了**随机微积分**的核心概念及其在物理和金融领域的应用。作者从**测度论概率**的基础出发，逐步引入**随机过程**、**维纳过程**和**伊藤积分**等关键理论，并解释了如何用**随机微分方程**（如朗之万方程）建模随机现象。文中还通过**布莱克-斯科尔斯期权定价模型**等实例，展示了随机微积分的实际价值。尽管主题深奥，但作者力求兼顾直观与严谨，为读者提供了一份深入浅出的学习指南。
+
+---
+
+## <a name="12"></a>12. 6502程序员的奇技淫巧（2019） 
+<small>🔗 [nurpax.github.io](https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html): Dirty tricks 6502 programmers use (2019)</small>
+
+
+| 🔥🔥: 135 \| 💬: [41](https://news.ycombinator.com/item?id=43705649) \| 🗓️ 2025-04-16
+
+
+<br />
+这篇文章总结了2019年Commodore 64编程竞赛中使用的**6502汇编技巧**，目标是绘制两条斜线并以最小字节数实现。获胜者仅用34字节完成。核心技巧包括：**利用ROM滚动函数**避免手动计算屏幕地址，**自修改代码**减少指令长度，以及**利用开机状态**的默认寄存器值和内存内容。此外，通过**篡改BASIC启动向量**或**堆栈返回地址**，参赛者跳过了12字节的BASIC头，进一步压缩程序体积。这些方法展现了6502极限优化的创造力。
+
+---
+
+## <a name="13"></a>13. 一家初创企业的失败复盘：英国住房市场的教训 
+<small>🔗 [buildwithtract.com](https://buildwithtract.com/): A Postmortem of a Startup</small>
+
+
+| 🔥🔥: 134 \| 💬: [108](https://news.ycombinator.com/item?id=43703682) \| 🗓️ 2025-04-16
+
+
+<br />
+2023年至2025年，Tract试图通过优化规划审批流程解决英国住房危机，但最终因**商业模式不可行**而关闭。尽管开发了**AI驱动的规划工具**并筹集了74.4万英镑，团队发现**房地产市场的保守性和碎片化**限制了技术颠覆的空间。关键教训包括：高估市场接受度、过早扩张团队、未聚焦收入验证。创始人建议创业者**优先验证市场**、保持精简，并警惕传统行业的变革阻力。
+
+---
+
 ## <a name="14"></a>14. Kaggle与维基媒体基金会合作推出开放数据 
 <small>🔗 [blog.google](https://blog.google/technology/developers/kaggle-wikimedia/): Kaggle and the Wikimedia Foundation are partnering on open data</small>
 
 
-| 🔥🔥: 112 \| 💬: [31](https://news.ycombinator.com/item?id=43707768) \| 🗓️ 2025-04-16
+| 🔥🔥: 117 \| 💬: [33](https://news.ycombinator.com/item?id=43707768) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -200,7 +200,7 @@ Kaggle平台现托管**维基媒体企业版**的结构化数据测试版（含�
 <small>🔗 [herb-tools.dev](https://herb-tools.dev/): Herb: Powerful and seamless HTML-aware ERB parsing and tooling</small>
 
 
-| 🔥: 99 \| 💬: [16](https://news.ycombinator.com/item?id=43704853) \| 🗓️ 2025-04-16
+| 🔥🔥: 105 \| 💬: [17](https://news.ycombinator.com/item?id=43704853) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -212,7 +212,7 @@ Herb是一款**智能识别HTML结构**的ERB模板解析工具，能够精准�
 <small>🔗 [github.com](https://github.com/onkernel/kernel-images): Show HN: We Put Chromium on a Unikernel (OSS Apache 2.0)</small>
 
 
-| 🔥: 96 \| 💬: [33](https://news.ycombinator.com/item?id=43705144) \| 🗓️ 2025-04-16
+| 🔥: 100 \| 💬: [33](https://news.ycombinator.com/item?id=43705144) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -224,7 +224,7 @@ Herb是一款**智能识别HTML结构**的ERB模板解析工具，能够精准�
 <small>🔗 [github.com](https://github.com/Validark/Accelerated-Zig-Parser): A high-throughput parser for the Zig programming language</small>
 
 
-| 🔥: 87 \| 💬: [6](https://news.ycombinator.com/item?id=43705824) \| 🗓️ 2025-04-16
+| 🔥: 94 \| 💬: [6](https://news.ycombinator.com/item?id=43705824) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -236,7 +236,7 @@ Herb是一款**智能识别HTML结构**的ERB模板解析工具，能够精准�
 <small>🔗 [github.com](https://github.com/elder-plinius/L1B3RT4S/blob/main/OPENAI.mkd): ChatGPT 4.1 Jailbreak Prompt</small>
 
 
-| 🔥: 81 \| 💬: [33](https://news.ycombinator.com/item?id=43705954) \| 🗓️ 2025-04-16
+| 🔥: 85 \| 💬: [33](https://news.ycombinator.com/item?id=43705954) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -255,7 +255,7 @@ Herb是一款**智能识别HTML结构**的ERB模板解析工具，能够精准�
 <small>🔗 [nsf-gov-resources.nsf.gov](https://nsf-gov-resources.nsf.gov/2023-04/EndlessFrontier75th_w.pdf): Science, the Endless Frontier (1945) [pdf]</small>
 
 
-| 🔥: 77 \| 💬: [15](https://news.ycombinator.com/item?id=43705796) \| 🗓️ 2025-04-16
+| 🔥: 81 \| 💬: [15](https://news.ycombinator.com/item?id=43705796) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -267,7 +267,7 @@ Herb是一款**智能识别HTML结构**的ERB模板解析工具，能够精准�
 <small>🔗 [docs.bauplanlabs.com](https://docs.bauplanlabs.com/en/latest/): Bauplan – Git-for-data pipelines on object storage</small>
 
 
-| 🔥: 73 \| 💬: [30](https://news.ycombinator.com/item?id=43705991) \| 🗓️ 2025-04-16
+| 🔥: 77 \| 💬: [31](https://news.ycombinator.com/item?id=43705991) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -279,7 +279,7 @@ Bauplan是一个**Python优先的无服务器数据湖平台**，专为大规模
 <small>🔗 [markbessey.blog](https://markbessey.blog/2025/04/14/a-blast-from-the-past/): The UCSD p-System, Apple Pascal, and a dream of cross-platform compatibility</small>
 
 
-| 🔥: 69 \| 💬: [32](https://news.ycombinator.com/item?id=43707805) \| 🗓️ 2025-04-16
+| 🔥: 70 \| 💬: [41](https://news.ycombinator.com/item?id=43707805) \| 🗓️ 2025-04-16
 
 
 <br />
