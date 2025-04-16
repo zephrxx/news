@@ -12,11 +12,11 @@ tags:
 1. 如何与幼儿“辩论”；
 1. 4chan遭黑客攻击，管理员邮箱及信息遭泄露；
 1. 视频打码不再安全：AI技术轻松破解像素化模糊；
-1. 美国低估了制造业回流的难度；
+1. 不确定计算器：用概率思维解决日常估算问题；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [npr.org](https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security): Whistleblower details how DOGE may have taken sensitive NLRB data</small>
 
 
-| 🔥🔥: 645 \| 💬: [330](https://news.ycombinator.com/item?id=43691142) \| 🗓️ 2025-04-15
+| 🔥🔥: 676 \| 💬: [344](https://news.ycombinator.com/item?id=43691142) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [seths.blog](https://seths.blog/2025/04/how-to-win-an-argument-with-a-toddler/): How to win an argument with a toddler</small>
 
 
-| 🔥🔥: 532 \| 💬: [405](https://news.ycombinator.com/item?id=43693402) \| 🗓️ 2025-04-15
+| 🔥🔥: 545 \| 💬: [414](https://news.ycombinator.com/item?id=43693402) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [knowyourmeme.com](https://knowyourmeme.com/memes/events/april-2025-4chan-sharty-hack-and-janitor-email-leak): 4chan Sharty Hack And Janitor Email Leak</small>
 
 
-| 🔥🔥: 386 \| 💬: [462](https://news.ycombinator.com/item?id=43691334) \| 🗓️ 2025-04-15
+| 🔥🔥: 406 \| 💬: [511](https://news.ycombinator.com/item?id=43691334) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/its-easier-ever-de-censor-videos): It's easier than ever to de-censor videos</small>
 
 
-| 🔥🔥: 311 \| 💬: [133](https://news.ycombinator.com/item?id=43695701) \| 🗓️ 2025-04-15
+| 🔥🔥: 324 \| 💬: [138](https://news.ycombinator.com/item?id=43695701) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -73,59 +73,11 @@ tags:
 
 ---
 
-## <a name="5"></a>5. 美国低估了制造业回流的难度 
-<small>🔗 [molsonhart.com](https://www.molsonhart.com/blog/america-underestimates-the-difficulty-of-bringing-manufacturing-back): America Underestimates the Difficulty of Bringing Manufacturing Back</small>
-
-
-| 🔥🔥: 243 \| 💬: [412](https://news.ycombinator.com/item?id=43692677) \| 🗓️ 2025-04-15
-
-
-<br />
-作者以15年制造业经验指出，**新关税政策无法实现制造业回流**，反而可能加剧经济困境。核心原因包括：**美国供应链薄弱**，关键组件依赖亚洲；**劳动力效率低下**，缺乏中国工人的技能与纪律；**基础设施不足**，电力与交通难以支撑大规模生产。此外，政策反复与复杂性导致企业观望，而技术断层（如模具制造）进一步阻碍本土化。最终，高成本与低效将使“美国制造”失去竞争力。
-
----
-
-## <a name="6"></a>6. Teuken-7B系列模型：迈向欧洲多语言大语言模型 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2410.03730): Teuken-7B-Base and Teuken-7B-Instruct: Towards European LLMs</small>
-
-
-| 🔥🔥: 234 \| 💬: [88](https://news.ycombinator.com/item?id=43690955) \| 🗓️ 2025-04-15
-
-
-<br />
-该研究介绍了**Teuken-7B-Base**和**Teuken-7B-Instruct**两款大语言模型，旨在支持欧盟全部24种官方语言，弥补现有模型以英语为主的局限性。模型采用**定制多语言分词器**，训练数据中约60%为非英语内容，并在多语言基准测试（如ARC、HellaSwag等）中表现优异。研究团队详细阐述了数据构成、分词优化及训练方法，推动欧洲语言多样性在AI领域的应用。
-
----
-
-## <a name="7"></a>7. 美国如何成为科学超级大国 
-<small>🔗 [steveblank.com](https://steveblank.com/2025/04/15/how-the-u-s-became-a-science-superpower/): How the U.S. became a science superpower</small>
-
-
-| 🔥🔥: 207 \| 💬: [201](https://news.ycombinator.com/item?id=43692360) \| 🗓️ 2025-04-15
-
-
-<br />
-二战前，美国在科学与工程领域远远落后。战后，美国通过**大学与政府合作**的创新模式超越英国，主导全球科技85年。**范内瓦·布什**推动政府资助大学研发，形成产学研生态；而英国依赖**政府实验室**，因资金短缺和缺乏商业化未能持续优势。战后美国通过**国家科学基金会**等机构巩固领先地位，而英国受限于社会主义政策与资本不足。如今，美国科技霸权或因政府削减研发经费而终结。
-
----
-
-## <a name="8"></a>8. 用Veo 2在Gemini和Whisk中生成视频 
-<small>🔗 [blog.google](https://blog.google/products/gemini/video-generation/): Generate videos in Gemini and Whisk with Veo 2</small>
-
-
-| 🔥🔥: 192 \| 💬: [79](https://news.ycombinator.com/item?id=43695592) \| 🗓️ 2025-04-15
-
-
-<br />
-Gemini Advanced订阅用户现可通过**Veo 2**将文本提示转换为8秒高清视频，而Google One AI高级用户还能在**Whisk Animate**中将图片转为动画片段。Veo 2支持电影级画质，理解物理与人体动作，生成流畅场景。用户可通过详细描述控制视频内容，并直接分享至社交平台。所有生成视频均嵌入**SynthID**水印以标识AI来源。功能即日起全球逐步上线，支持多语言。
-
----
-
-## <a name="9"></a>9. 不确定计算器：用概率思维解决日常估算问题 
+## <a name="5"></a>5. 不确定计算器：用概率思维解决日常估算问题 
 <small>🔗 [filiph.github.io](https://filiph.github.io/unsure/): Show HN: Unsure Calculator – back-of-a-napkin probabilistic calculator</small>
 
 
-| 🔥🔥: 191 \| 💬: [34](https://news.ycombinator.com/item?id=43690289) \| 🗓️ 2025-04-15
+| 🔥🔥: 266 \| 💬: [47](https://news.ycombinator.com/item?id=43690289) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -133,11 +85,59 @@ Filip开发的**不确定计算器**允许用户输入**范围值**（如`10~15`
 
 ---
 
+## <a name="6"></a>6. 美国低估了制造业回流的难度 
+<small>🔗 [molsonhart.com](https://www.molsonhart.com/blog/america-underestimates-the-difficulty-of-bringing-manufacturing-back): America underestimates the difficulty of bringing manufacturing back</small>
+
+
+| 🔥🔥: 244 \| 💬: [412](https://news.ycombinator.com/item?id=43692677) \| 🗓️ 2025-04-15
+
+
+<br />
+作者以15年制造业经验指出，**新关税政策无法实现制造业回流**，反而可能加剧经济困境。核心原因包括：**美国供应链薄弱**，关键组件依赖亚洲；**劳动力效率低下**，缺乏中国工人的技能与纪律；**基础设施不足**，电力与交通难以支撑大规模生产。此外，政策反复与复杂性导致企业观望，而技术断层（如模具制造）进一步阻碍本土化。最终，高成本与低效将使“美国制造”失去竞争力。
+
+---
+
+## <a name="7"></a>7. Teuken-7B系列模型：迈向欧洲多语言大语言模型 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2410.03730): Teuken-7B-Base and Teuken-7B-Instruct: Towards European LLMs (2024)</small>
+
+
+| 🔥🔥: 238 \| 💬: [90](https://news.ycombinator.com/item?id=43690955) \| 🗓️ 2025-04-15
+
+
+<br />
+该研究介绍了**Teuken-7B-Base**和**Teuken-7B-Instruct**两款大语言模型，旨在支持欧盟全部24种官方语言，弥补现有模型以英语为主的局限性。模型采用**定制多语言分词器**，训练数据中约60%为非英语内容，并在多语言基准测试（如ARC、HellaSwag等）中表现优异。研究团队详细阐述了数据构成、分词优化及训练方法，推动欧洲语言多样性在AI领域的应用。
+
+---
+
+## <a name="8"></a>8. 美国如何成为科学超级大国 
+<small>🔗 [steveblank.com](https://steveblank.com/2025/04/15/how-the-u-s-became-a-science-superpower/): How the U.S. became a science superpower</small>
+
+
+| 🔥🔥: 226 \| 💬: [234](https://news.ycombinator.com/item?id=43692360) \| 🗓️ 2025-04-15
+
+
+<br />
+二战前，美国在科学与工程领域远远落后。战后，美国通过**大学与政府合作**的创新模式超越英国，主导全球科技85年。**范内瓦·布什**推动政府资助大学研发，形成产学研生态；而英国依赖**政府实验室**，因资金短缺和缺乏商业化未能持续优势。战后美国通过**国家科学基金会**等机构巩固领先地位，而英国受限于社会主义政策与资本不足。如今，美国科技霸权或因政府削减研发经费而终结。
+
+---
+
+## <a name="9"></a>9. 用Veo 2在Gemini和Whisk中生成视频 
+<small>🔗 [blog.google](https://blog.google/products/gemini/video-generation/): Generate videos in Gemini and Whisk with Veo 2</small>
+
+
+| 🔥🔥: 203 \| 💬: [81](https://news.ycombinator.com/item?id=43695592) \| 🗓️ 2025-04-15
+
+
+<br />
+Gemini Advanced订阅用户现可通过**Veo 2**将文本提示转换为8秒高清视频，而Google One AI高级用户还能在**Whisk Animate**中将图片转为动画片段。Veo 2支持电影级画质，理解物理与人体动作，生成流畅场景。用户可通过详细描述控制视频内容，并直接分享至社交平台。所有生成视频均嵌入**SynthID**水印以标识AI来源。功能即日起全球逐步上线，支持多语言。
+
+---
+
 ## <a name="10"></a>10. 育碧开源色盲模拟工具Chroma，助力游戏无障碍测试 
-<small>🔗 [github.com](https://github.com/ubisoft/Chroma): Chroma, Ubisoft's internal tool used to simulate color-blindness, open sourced</small>
+<small>🔗 [github.com](https://github.com/ubisoft/Chroma): Chroma: Ubisoft's internal tool used to simulate color-blindness</small>
 
 
-| 🔥🔥: 173 \| 💬: [51](https://news.ycombinator.com/item?id=43692089) \| 🗓️ 2025-04-15
+| 🔥🔥: 177 \| 💬: [55](https://news.ycombinator.com/item?id=43692089) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -149,7 +149,7 @@ Chroma是育碧开发的**实时色盲模拟工具**，可覆盖游戏画面并�
 <small>🔗 [github.com](https://github.com/bobschrag/clolog): Clolog</small>
 
 
-| 🔥🔥: 167 \| 💬: [23](https://news.ycombinator.com/item?id=43695620) \| 🗓️ 2025-04-15
+| 🔥🔥: 176 \| 💬: [24](https://news.ycombinator.com/item?id=43695620) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -161,7 +161,7 @@ Clolog是一个**全功能逻辑编程**（类似Prolog）系统，深度集成C
 <small>🔗 [pgdog.dev](https://pgdog.dev/blog/hacking-postgres-wire-protocol): Hacking the Postgres wire protocol</small>
 
 
-| 🔥🔥: 141 \| 💬: [29](https://news.ycombinator.com/item?id=43693326) \| 🗓️ 2025-04-15
+| 🔥🔥: 146 \| 💬: [30](https://news.ycombinator.com/item?id=43693326) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -169,23 +169,11 @@ PgDog是一款网络代理工具，能够解析**PostgreSQL有线协议**，实�
 
 ---
 
-## <a name="13"></a>13. 哥伦比亚大学哲学系学生赴公民面试遭ICE强行带走 
-<small>🔗 [dailynous.com](https://dailynous.com/2025/04/15/philosophy-major-snatched-by-ice-during-citizenship-interview/): Philosophy Major Snatched by ICE During Citizenship Interview</small>
-
-
-| 🔥🔥: 126 \| 💬: [80](https://news.ycombinator.com/item?id=43693375) \| 🗓️ 2025-04-15
-
-
-<br />
-哥伦比亚大学哲学系应届毕业生**莫森·马赫达维**在佛蒙特州参加入籍面试时，被**蒙面ICE探员**强行押入无标识车辆带走，目前下落不明。其律师指控拘留是特朗普政府对其**巴勒斯坦裔身份**及声援加沙的报复，并已获联邦法院紧急禁令阻止驱逐。马赫达维持绿卡，生于约旦河西岸难民营，主张"反犹不公，巴勒斯坦自由与反种族主义并行"。此前他因参与哥伦比亚大学反以抗议接受《60分钟》采访引发关注。
-
----
-
-## <a name="14"></a>14. 目标三元组到底是什么？ 
+## <a name="13"></a>13. 目标三元组到底是什么？ 
 <small>🔗 [mcyoung.xyz](https://mcyoung.xyz/2025/04/14/target-triples/): What the hell is a target triple?</small>
 
 
-| 🔥🔥: 126 \| 💬: [92](https://news.ycombinator.com/item?id=43696756) \| 🗓️ 2025-04-15
+| 🔥🔥: 136 \| 💬: [102](https://news.ycombinator.com/item?id=43696756) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -193,11 +181,23 @@ PgDog是一款网络代理工具，能够解析**PostgreSQL有线协议**，实�
 
 ---
 
+## <a name="14"></a>14. 哥伦比亚大学哲学系学生赴公民面试遭ICE强行带走 
+<small>🔗 [dailynous.com](https://dailynous.com/2025/04/15/philosophy-major-snatched-by-ice-during-citizenship-interview/): Philosophy Major Snatched by ICE During Citizenship Interview</small>
+
+
+| 🔥🔥: 126 \| 💬: [81](https://news.ycombinator.com/item?id=43693375) \| 🗓️ 2025-04-15
+
+
+<br />
+哥伦比亚大学哲学系应届毕业生**莫森·马赫达维**在佛蒙特州参加入籍面试时，被**蒙面ICE探员**强行押入无标识车辆带走，目前下落不明。其律师指控拘留是特朗普政府对其**巴勒斯坦裔身份**及声援加沙的报复，并已获联邦法院紧急禁令阻止驱逐。马赫达维持绿卡，生于约旦河西岸难民营，主张"反犹不公，巴勒斯坦自由与反种族主义并行"。此前他因参与哥伦比亚大学反以抗议接受《60分钟》采访引发关注。
+
+---
+
 ## <a name="15"></a>15. 别想动我们用户的数据 
 <small>🔗 [sourcehut.org](https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/): You cannot have our user's data</small>
 
 
-| 🔥🔥: 108 \| 💬: [94](https://news.ycombinator.com/item?id=43692998) \| 🗓️ 2025-04-15
+| 🔥🔥: 108 \| 💬: [95](https://news.ycombinator.com/item?id=43692998) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -209,7 +209,7 @@ SourceHut明确反对LLM爬虫滥用公开数据，强调**用户数据不属于
 <small>🔗 [a.weird.one](https://a.weird.one): WEIRD – a way to be on the web</small>
 
 
-| 🔥: 96 \| 💬: [53](https://news.ycombinator.com/item?id=43691891) \| 🗓️ 2025-04-15
+| 🔥: 97 \| 💬: [54](https://news.ycombinator.com/item?id=43691891) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -221,7 +221,7 @@ SourceHut明确反对LLM爬虫滥用公开数据，强调**用户数据不属于
 <small>🔗 [scottaaronson.blog](https://scottaaronson.blog/?p=8805): I speak at Harvard as it faces its biggest crisis since 1636</small>
 
 
-| 🔥: 94 \| 💬: [93](https://news.ycombinator.com/item?id=43696010) \| 🗓️ 2025-04-15
+| 🔥: 94 \| 💬: [98](https://news.ycombinator.com/item?id=43696010) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -233,7 +233,7 @@ SourceHut明确反对LLM爬虫滥用公开数据，强调**用户数据不属于
 <small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20250411-00/?p=111066): The case of the UI thread that hung in a kernel call</small>
 
 
-| 🔥: 82 \| 💬: [20](https://news.ycombinator.com/item?id=43695723) \| 🗓️ 2025-04-15
+| 🔥: 89 \| 💬: [22](https://news.ycombinator.com/item?id=43695723) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -247,7 +247,7 @@ SourceHut明确反对LLM爬虫滥用公开数据，强调**用户数据不属于
 <small>🔗 [github.com](https://github.com/ripplebiz/MeshCore): MeshCore, a new lightweight, hybrid routing mesh protocol for packet radios</small>
 
 
-| 🔥: 80 \| 💬: [28](https://news.ycombinator.com/item?id=43693406) \| 🗓️ 2025-04-15
+| 🔥: 82 \| 💬: [29](https://news.ycombinator.com/item?id=43693406) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -263,7 +263,7 @@ MeshCore是一个轻量化的C++库，专为**嵌入式项目**设计，支持Lo
 <small>🔗 [digicert.com](https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days): TLS certificate lifetimes will officially reduce to 47 days</small>
 
 
-| 🔥: 79 \| 💬: [153](https://news.ycombinator.com/item?id=43693900) \| 🗓️ 2025-04-15
+| 🔥: 82 \| 💬: [164](https://news.ycombinator.com/item?id=43693900) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -275,7 +275,7 @@ CA/Browser Forum已投票通过新规，**TLS证书有效期**将分阶段缩短
 <small>🔗 [cohere.com](https://cohere.com/blog/embed-4): Cohere Launches Embed 4</small>
 
 
-| 🔥: 79 \| 💬: [40](https://news.ycombinator.com/item?id=43694546) \| 🗓️ 2025-04-15
+| 🔥: 82 \| 💬: [41](https://news.ycombinator.com/item?id=43694546) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -283,11 +283,23 @@ Cohere团队于2025年4月15日推出**Embed 4**，该产品以**行业领先的
 
 ---
 
-## <a name="22"></a>22. Notion邮件功能上线 
+## <a name="22"></a>22. 设计低成本高性能的10 MHz至15 GHz矢量网络分析仪 
+<small>🔗 [hforsten.com](https://hforsten.com/designing-a-low-cost-high-performance-10-mhz-15-ghz-vector-network-analyzer.html): Designing a low-cost high-performance 10 MHz – 15 GHz vector network analyzer</small>
+
+
+| 🔥: 81 \| 💬: [17](https://news.ycombinator.com/item?id=43696798) \| 🗓️ 2025-04-15
+
+
+<br />
+本文介绍了一种**自制矢量网络分析仪（VNA）**的设计过程，旨在以低成本实现10 MHz至15 GHz的高频测量。作者对比了市售廉价VNA（如nanoVNA和LibreVNA）的局限性，提出采用**双信号源架构**替代传统端口开关，以提升隔离度并降低成本。关键组件包括LMX2594 PLL芯片（10 MHz-15 GHz信号源）、ADL5802混频器（受限频段）和AD9238 ADC（动态范围-143 dBFS/Hz）。**自制定向耦合器**采用共享同轴巴伦设计，实测隔离度达20 dB。尽管高频性能受混频器限制，但该方案在7 GHz以下表现优异，成本远低于商用高端设备（如5.3万欧元的Keysight E5603）。
+
+---
+
+## <a name="23"></a>23. Notion邮件功能上线 
 <small>🔗 [notion.com](https://www.notion.com/product/mail): Notion Mail is out</small>
 
 
-| 🔥: 75 \| 💬: [116](https://news.ycombinator.com/item?id=43694310) \| 🗓️ 2025-04-15
+| 🔥: 77 \| 💬: [116](https://news.ycombinator.com/item?id=43694310) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -295,7 +307,7 @@ Notion推出**移动端邮件服务**，用户现可通过iOS应用随时随地�
 
 ---
 
-## <a name="23"></a>23. GitHub遭连锁供应链攻击，超2.3万仓库CI/CD密钥泄露 
+## <a name="24"></a>24. GitHub遭连锁供应链攻击，超2.3万仓库CI/CD密钥泄露 
 <small>🔗 [infoworld.com](https://www.infoworld.com/article/3849245/github-suffers-a-cascading-supply-chain-attack-compromising-ci-cd-secrets.html): GitHub suffers a cascading supply chain attack compromising CI/CD secrets</small>
 
 
@@ -307,7 +319,7 @@ Notion推出**移动端邮件服务**，用户现可通过iOS应用随时随地�
 
 ---
 
-## <a name="24"></a>24. 两年Rust实战回顾 
+## <a name="25"></a>25. 两年Rust实战回顾 
 <small>🔗 [borretti.me](https://borretti.me/article/two-years-of-rust): Two Years of Rust</small>
 
 
