@@ -27,7 +27,7 @@ tags:
 <small>🔗 [npr.org](https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security): Whistleblower details how DOGE may have taken sensitive NLRB data</small>
 
 
-| 🔥🔥: 775 \| 💬: [383](https://news.ycombinator.com/item?id=43691142) \| 🗓️ 2025-04-15
+| 🔥🔥: 805 \| 💬: [389](https://news.ycombinator.com/item?id=43691142) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [seths.blog](https://seths.blog/2025/04/how-to-win-an-argument-with-a-toddler/): How to win an argument with a toddler</small>
 
 
-| 🔥🔥: 589 \| 💬: [444](https://news.ycombinator.com/item?id=43693402) \| 🗓️ 2025-04-15
+| 🔥🔥: 602 \| 💬: [446](https://news.ycombinator.com/item?id=43693402) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [knowyourmeme.com](https://knowyourmeme.com/memes/events/april-2025-4chan-sharty-hack-and-janitor-email-leak): 4chan Sharty Hack And Janitor Email Leak</small>
 
 
-| 🔥🔥: 456 \| 💬: [570](https://news.ycombinator.com/item?id=43691334) \| 🗓️ 2025-04-15
+| 🔥🔥: 468 \| 💬: [591](https://news.ycombinator.com/item?id=43691334) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [filiph.github.io](https://filiph.github.io/unsure/): Show HN: Unsure Calculator – back-of-a-napkin probabilistic calculator</small>
 
 
-| 🔥🔥: 405 \| 💬: [65](https://news.ycombinator.com/item?id=43690289) \| 🗓️ 2025-04-15
+| 🔥🔥: 433 \| 💬: [70](https://news.ycombinator.com/item?id=43690289) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -75,7 +75,7 @@ Filip开发的**不确定计算器**允许用户输入**范围值**（如`10~15`
 <small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/its-easier-ever-de-censor-videos): It's easier than ever to de-censor videos</small>
 
 
-| 🔥🔥: 334 \| 💬: [141](https://news.ycombinator.com/item?id=43695701) \| 🗓️ 2025-04-15
+| 🔥🔥: 341 \| 💬: [141](https://news.ycombinator.com/item?id=43695701) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -89,7 +89,7 @@ Filip开发的**不确定计算器**允许用户输入**范围值**（如`10~15`
 <small>🔗 [steveblank.com](https://steveblank.com/2025/04/15/how-the-u-s-became-a-science-superpower/): How the U.S. became a science superpower</small>
 
 
-| 🔥🔥: 270 \| 💬: [282](https://news.ycombinator.com/item?id=43692360) \| 🗓️ 2025-04-15
+| 🔥🔥: 285 \| 💬: [288](https://news.ycombinator.com/item?id=43692360) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -97,11 +97,23 @@ Filip开发的**不确定计算器**允许用户输入**范围值**（如`10~15`
 
 ---
 
-## <a name="7"></a>7. 美国低估了制造业回流的难度 
+## <a name="7"></a>7. 美国国土安全部终止资助，网络安全基石CVE项目即将关闭 
+<small>🔗 [csoonline.com](https://www.csoonline.com/article/3963190/cve-program-faces-swift-end-after-dhs-fails-to-renew-contract-leaving-security-flaw-tracking-in-limbo.html): CVE program faces swift end after DHS fails to renew contract</small>
+
+
+| 🔥🔥: 280 \| 💬: [127](https://news.ycombinator.com/item?id=43700607) \| 🗓️ 2025-04-15
+
+
+<br />
+美国国土安全部（DHS）未续签合同，导致**MITRE**运营25年的**CVE漏洞数据库**项目将于2025年4月16日终止。这一项目是网络安全防御的核心基础，专家称其关闭是“悲剧性的”，将严重影响全球漏洞管理生态。尽管MITRE表示历史数据会保留在GitHub，但后续由谁接管仍不明朗。CISA称正紧急协调以减少影响，而私营企业如VulnCheck已开始储备CVE编号以备需求。
+
+---
+
+## <a name="8"></a>8. 美国低估了制造业回流的难度 
 <small>🔗 [molsonhart.com](https://www.molsonhart.com/blog/america-underestimates-the-difficulty-of-bringing-manufacturing-back): America underestimates the difficulty of bringing manufacturing back</small>
 
 
-| 🔥🔥: 251 \| 💬: [415](https://news.ycombinator.com/item?id=43692677) \| 🗓️ 2025-04-15
+| 🔥🔥: 253 \| 💬: [416](https://news.ycombinator.com/item?id=43692677) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -109,23 +121,11 @@ Filip开发的**不确定计算器**允许用户输入**范围值**（如`10~15`
 
 ---
 
-## <a name="8"></a>8. Teuken-7B系列模型：迈向欧洲多语言大语言模型 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2410.03730): Teuken-7B-Base and Teuken-7B-Instruct: Towards European LLMs (2024)</small>
-
-
-| 🔥🔥: 239 \| 💬: [90](https://news.ycombinator.com/item?id=43690955) \| 🗓️ 2025-04-15
-
-
-<br />
-该研究介绍了**Teuken-7B-Base**和**Teuken-7B-Instruct**两款大语言模型，旨在支持欧盟全部24种官方语言，弥补现有模型以英语为主的局限性。模型采用**定制多语言分词器**，训练数据中约60%为非英语内容，并在多语言基准测试（如ARC、HellaSwag等）中表现优异。研究团队详细阐述了数据构成、分词优化及训练方法，推动欧洲语言多样性在AI领域的应用。
-
----
-
 ## <a name="9"></a>9. 用Veo 2在Gemini和Whisk中生成视频 
 <small>🔗 [blog.google](https://blog.google/products/gemini/video-generation/): Generate videos in Gemini and Whisk with Veo 2</small>
 
 
-| 🔥🔥: 236 \| 💬: [87](https://news.ycombinator.com/item?id=43695592) \| 🗓️ 2025-04-15
+| 🔥🔥: 247 \| 💬: [89](https://news.ycombinator.com/item?id=43695592) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -133,11 +133,23 @@ Gemini Advanced订阅用户现可通过**Veo 2**将文本提示转换为8秒高�
 
 ---
 
-## <a name="10"></a>10. Clolog：基于Clojure的嵌入式逻辑编程工具 
+## <a name="10"></a>10. Teuken-7B系列模型：迈向欧洲多语言大语言模型 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2410.03730): Teuken-7B-Base and Teuken-7B-Instruct: Towards European LLMs (2024)</small>
+
+
+| 🔥🔥: 240 \| 💬: [90](https://news.ycombinator.com/item?id=43690955) \| 🗓️ 2025-04-15
+
+
+<br />
+该研究介绍了**Teuken-7B-Base**和**Teuken-7B-Instruct**两款大语言模型，旨在支持欧盟全部24种官方语言，弥补现有模型以英语为主的局限性。模型采用**定制多语言分词器**，训练数据中约60%为非英语内容，并在多语言基准测试（如ARC、HellaSwag等）中表现优异。研究团队详细阐述了数据构成、分词优化及训练方法，推动欧洲语言多样性在AI领域的应用。
+
+---
+
+## <a name="11"></a>11. Clolog：基于Clojure的嵌入式逻辑编程工具 
 <small>🔗 [github.com](https://github.com/bobschrag/clolog): Clolog</small>
 
 
-| 🔥🔥: 196 \| 💬: [33](https://news.ycombinator.com/item?id=43695620) \| 🗓️ 2025-04-15
+| 🔥🔥: 200 \| 💬: [33](https://news.ycombinator.com/item?id=43695620) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -145,11 +157,11 @@ Clolog是一个**全功能逻辑编程**（类似Prolog）系统，深度集成C
 
 ---
 
-## <a name="11"></a>11. 育碧开源色盲模拟工具Chroma，助力游戏无障碍测试 
+## <a name="12"></a>12. 育碧开源色盲模拟工具Chroma，助力游戏无障碍测试 
 <small>🔗 [github.com](https://github.com/ubisoft/Chroma): Chroma: Ubisoft's internal tool used to simulate color-blindness</small>
 
 
-| 🔥🔥: 190 \| 💬: [59](https://news.ycombinator.com/item?id=43692089) \| 🗓️ 2025-04-15
+| 🔥🔥: 194 \| 💬: [59](https://news.ycombinator.com/item?id=43692089) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -157,11 +169,11 @@ Chroma是育碧开发的**实时色盲模拟工具**，可覆盖游戏画面并�
 
 ---
 
-## <a name="12"></a>12. 破解PostgreSQL有线协议的核心技术 
+## <a name="13"></a>13. 破解PostgreSQL有线协议的核心技术 
 <small>🔗 [pgdog.dev](https://pgdog.dev/blog/hacking-postgres-wire-protocol): Hacking the Postgres wire protocol</small>
 
 
-| 🔥🔥: 179 \| 💬: [41](https://news.ycombinator.com/item?id=43693326) \| 🗓️ 2025-04-15
+| 🔥🔥: 179 \| 💬: [43](https://news.ycombinator.com/item?id=43693326) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -169,11 +181,11 @@ PgDog是一款网络代理工具，能够解析**PostgreSQL有线协议**，实�
 
 ---
 
-## <a name="13"></a>13. 目标三元组到底是什么？ 
+## <a name="14"></a>14. 目标三元组到底是什么？ 
 <small>🔗 [mcyoung.xyz](https://mcyoung.xyz/2025/04/14/target-triples/): What the hell is a target triple?</small>
 
 
-| 🔥🔥: 143 \| 💬: [111](https://news.ycombinator.com/item?id=43696756) \| 🗓️ 2025-04-15
+| 🔥🔥: 143 \| 💬: [114](https://news.ycombinator.com/item?id=43696756) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -181,23 +193,11 @@ PgDog是一款网络代理工具，能够解析**PostgreSQL有线协议**，实�
 
 ---
 
-## <a name="14"></a>14. 美国国土安全部停止资助CVE漏洞管理项目 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/04/16/homeland_security_funding_for_cve/): Homeland Security funding for CVE program expires</small>
-
-
-| 🔥🔥: 133 \| 💬: [5](https://news.ycombinator.com/item?id=43700258) \| 🗓️ 2025-04-15
-
-
-<br />
-美国政府对**CVE项目**（通用漏洞与暴露数据库）的资助于2025年4月16日终止，该项目是全球网络安全的核心系统，负责为漏洞分配唯一标识符（如Heartbleed和Meltdown）。资助中断可能导致漏洞管理混乱，威胁关键基础设施安全。非营利组织MITRE此前运营该项目，但合同未获续签。业界担忧若无人接手，标准化漏洞追踪体系将崩溃。部分企业已采取临时措施，但长期解决方案仍需行业协作。专家警告，此举将重创全球网络安全生态。
-
----
-
 ## <a name="15"></a>15. OpenAI或将进军社交网络领域，与马斯克、扎克伯格正面竞争 
 <small>🔗 [theverge.com](https://www.theverge.com/openai/648130/openai-social-network-x-competitor): OpenAI is building a social network?</small>
 
 
-| 🔥🔥: 132 \| 💬: [111](https://news.ycombinator.com/item?id=43694877) \| 🗓️ 2025-04-15
+| 🔥🔥: 139 \| 💬: [121](https://news.ycombinator.com/item?id=43694877) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -205,7 +205,31 @@ PgDog是一款网络代理工具，能够解析**PostgreSQL有线协议**，实�
 
 ---
 
-## <a name="16"></a>16. 哥伦比亚大学哲学系学生赴公民面试遭ICE强行带走 
+## <a name="16"></a>16. 美国国土安全部停止资助CVE漏洞管理项目 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/04/16/homeland_security_funding_for_cve/): Homeland Security funding for CVE program expires</small>
+
+
+| 🔥🔥: 135 \| 💬: [5](https://news.ycombinator.com/item?id=43700258) \| 🗓️ 2025-04-15
+
+
+<br />
+美国政府对**CVE项目**（通用漏洞与暴露数据库）的资助于2025年4月16日终止，该项目是全球网络安全的核心系统，负责为漏洞分配唯一标识符（如Heartbleed和Meltdown）。资助中断可能导致漏洞管理混乱，威胁关键基础设施安全。非营利组织MITRE此前运营该项目，但合同未获续签。业界担忧若无人接手，标准化漏洞追踪体系将崩溃。部分企业已采取临时措施，但长期解决方案仍需行业协作。专家警告，此举将重创全球网络安全生态。
+
+---
+
+## <a name="17"></a>17. JSX 直传：颠覆传统API设计的新思路 
+<small>🔗 [overreacted.io](https://overreacted.io/jsx-over-the-wire/): JSX over the Wire</small>
+
+
+| 🔥🔥: 130 \| 💬: [88](https://news.ycombinator.com/item?id=43694681) \| 🗓️ 2025-04-15
+
+
+<br />
+本文探讨了一种创新方法：**让API直接返回React组件**（如`<LikeButton>`），而非传统JSON数据。传统REST API设计常陷入**模型（Model）**与**视图模型（ViewModel）**的割裂——前者贴近数据库，后者服务于UI，导致接口难以维护。作者提出，通过API直接返回**JSX**，可将数据组装逻辑完全移至服务端，客户端只需渲染组件。这种“**好莱坞原则**”（“别调用我，我会调用你”）颠覆了前后端协作模式，尤其适合UI频繁变动的场景。核心矛盾在于：REST资源既非真实数据，亦非真实界面，而JSX直传让API与UI需求精准对齐。
+
+---
+
+## <a name="18"></a>18. 哥伦比亚大学哲学系学生赴公民面试遭ICE强行带走 
 <small>🔗 [dailynous.com](https://dailynous.com/2025/04/15/philosophy-major-snatched-by-ice-during-citizenship-interview/): Philosophy Major Snatched by ICE During Citizenship Interview</small>
 
 
@@ -217,19 +241,19 @@ PgDog是一款网络代理工具，能够解析**PostgreSQL有线协议**，实�
 
 ---
 
-## <a name="17"></a>17. JSX 直传：颠覆传统API设计的新思路 
-<small>🔗 [overreacted.io](https://overreacted.io/jsx-over-the-wire/): JSX over the Wire</small>
+## <a name="19"></a>19. 奶牛与农民的新帮手：机器人如何重塑乳业 
+<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/lely-dairy-robots): How dairy robots are changing work for cows and farmers</small>
 
 
-| 🔥🔥: 121 \| 💬: [83](https://news.ycombinator.com/item?id=43694681) \| 🗓️ 2025-04-15
+| 🔥🔥: 117 \| 💬: [64](https://news.ycombinator.com/item?id=43699188) \| 🗓️ 2025-04-15
 
 
 <br />
-本文探讨了一种创新方法：**让API直接返回React组件**（如`<LikeButton>`），而非传统JSON数据。传统REST API设计常陷入**模型（Model）**与**视图模型（ViewModel）**的割裂——前者贴近数据库，后者服务于UI，导致接口难以维护。作者提出，通过API直接返回**JSX**，可将数据组装逻辑完全移至服务端，客户端只需渲染组件。这种“**好莱坞原则**”（“别调用我，我会调用你”）颠覆了前后端协作模式，尤其适合UI频繁变动的场景。核心矛盾在于：REST资源既非真实数据，亦非真实界面，而JSX直传让API与UI需求精准对齐。
+乳业机器人正通过**自动化挤奶、喂食和清洁**大幅减轻农民负担，同时提升奶牛福利。荷兰Lely公司的**第五代挤奶机器人**允许奶牛自主决定挤奶时间，产量提升10%。此外，**饲料推送机器人**和**粪便清理机器人**进一步减少人工需求。研究显示，机器人不仅降低劳动强度，还让奶牛更放松，但专家对增产效果持保留态度。尽管初期成本高昂，机器人因长期效益和劳动力短缺正被更多农场采用，尤其在欧洲。未来，设计将更注重**奶牛与机器的自然互动**。
 
 ---
 
-## <a name="18"></a>18. 别想动我们用户的数据 
+## <a name="20"></a>20. 别想动我们用户的数据 
 <small>🔗 [sourcehut.org](https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/): You cannot have our user's data</small>
 
 
@@ -241,23 +265,11 @@ SourceHut明确反对LLM爬虫滥用公开数据，强调**用户数据不属于
 
 ---
 
-## <a name="19"></a>19. 奶牛与农民的新帮手：机器人如何重塑乳业 
-<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/lely-dairy-robots): How dairy robots are changing work for cows and farmers</small>
-
-
-| 🔥🔥: 108 \| 💬: [54](https://news.ycombinator.com/item?id=43699188) \| 🗓️ 2025-04-15
-
-
-<br />
-乳业机器人正通过**自动化挤奶、喂食和清洁**大幅减轻农民负担，同时提升奶牛福利。荷兰Lely公司的**第五代挤奶机器人**允许奶牛自主决定挤奶时间，产量提升10%。此外，**饲料推送机器人**和**粪便清理机器人**进一步减少人工需求。研究显示，机器人不仅降低劳动强度，还让奶牛更放松，但专家对增产效果持保留态度。尽管初期成本高昂，机器人因长期效益和劳动力短缺正被更多农场采用，尤其在欧洲。未来，设计将更注重**奶牛与机器的自然互动**。
-
----
-
-## <a name="20"></a>20. UI线程在内核调用中挂起的案例 
+## <a name="21"></a>21. UI线程在内核调用中挂起的案例 
 <small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20250411-00/?p=111066): The case of the UI thread that hung in a kernel call</small>
 
 
-| 🔥🔥: 106 \| 💬: [27](https://news.ycombinator.com/item?id=43695723) \| 🗓️ 2025-04-15
+| 🔥🔥: 110 \| 💬: [29](https://news.ycombinator.com/item?id=43695723) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -267,11 +279,11 @@ SourceHut明确反对LLM爬虫滥用公开数据，强调**用户数据不属于
 
 ---
 
-## <a name="21"></a>21. 网络世界的独特存在——WEIRD 
+## <a name="22"></a>22. 网络世界的独特存在——WEIRD 
 <small>🔗 [a.weird.one](https://a.weird.one): WEIRD – a way to be on the web</small>
 
 
-| 🔥🔥: 102 \| 💬: [56](https://news.ycombinator.com/item?id=43691891) \| 🗓️ 2025-04-15
+| 🔥🔥: 104 \| 💬: [56](https://news.ycombinator.com/item?id=43691891) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -279,11 +291,11 @@ SourceHut明确反对LLM爬虫滥用公开数据，强调**用户数据不属于
 
 ---
 
-## <a name="22"></a>22. 哈佛面临1636年以来最大危机，我在此发表演讲 
+## <a name="23"></a>23. 哈佛面临1636年以来最大危机，我在此发表演讲 
 <small>🔗 [scottaaronson.blog](https://scottaaronson.blog/?p=8805): I speak at Harvard as it faces its biggest crisis since 1636</small>
 
 
-| 🔥: 96 \| 💬: [99](https://news.ycombinator.com/item?id=43696010) \| 🗓️ 2025-04-15
+| 🔥: 97 \| 💬: [100](https://news.ycombinator.com/item?id=43696010) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -291,11 +303,11 @@ SourceHut明确反对LLM爬虫滥用公开数据，强调**用户数据不属于
 
 ---
 
-## <a name="23"></a>23. TLS证书有效期将正式缩短至47天 
+## <a name="24"></a>24. TLS证书有效期将正式缩短至47天 
 <small>🔗 [digicert.com](https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days): TLS certificate lifetimes will officially reduce to 47 days</small>
 
 
-| 🔥: 91 \| 💬: [168](https://news.ycombinator.com/item?id=43693900) \| 🗓️ 2025-04-15
+| 🔥: 92 \| 💬: [168](https://news.ycombinator.com/item?id=43693900) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -303,30 +315,14 @@ CA/Browser Forum已投票通过新规，**TLS证书有效期**将分阶段缩短
 
 ---
 
-## <a name="24"></a>24. Cohere发布Embed 4：多模态企业搜索新标杆 
+## <a name="25"></a>25. Cohere发布Embed 4：多模态企业搜索新标杆 
 <small>🔗 [cohere.com](https://cohere.com/blog/embed-4): Cohere Launches Embed 4</small>
 
 
-| 🔥: 87 \| 💬: [42](https://news.ycombinator.com/item?id=43694546) \| 🗓️ 2025-04-15
+| 🔥: 88 \| 💬: [42](https://news.ycombinator.com/item?id=43694546) \| 🗓️ 2025-04-15
 
 
 <br />
 Cohere团队于2025年4月15日推出**Embed 4**，该产品以**行业领先的准确性和效率**为核心，助力企业安全检索**多模态数据**，构建智能代理应用。这一突破性技术为AI驱动的商业解决方案提供了更强大的底层支持。
-
----
-
-## <a name="25"></a>25. MeshCore：轻量级混合路由无线网格协议 
-<small>🔗 [github.com](https://github.com/ripplebiz/MeshCore): MeshCore, a new lightweight, hybrid routing mesh protocol for packet radios</small>
-
-
-| 🔥: 85 \| 💬: [30](https://news.ycombinator.com/item?id=43693406) \| 🗓️ 2025-04-15
-
-
-<br />
-MeshCore是一个轻量化的C++库，专为**嵌入式项目**设计，支持LoRa等无线设备的**多跳分组路由**，适用于无互联网的分散式通信网络。它兼具简单性与扩展性，支持预编译固件直接烧录，无需手动编译。  
-
-**核心功能**包括多跳中继通信、低功耗运行、去中心化自愈网络，兼容Heltec、RAK Wireless等硬件。应用场景涵盖**应急通信**、户外活动、物联网传感网络等。  
-
-采用MIT开源协议，提供聊天、中继等示例应用，开发者可通过PlatformIO快速部署。需注意RAK4631需额外固件转换步骤。
 
 ---
