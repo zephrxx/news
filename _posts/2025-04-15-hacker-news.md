@@ -27,7 +27,7 @@ tags:
 <small>🔗 [npr.org](https://www.npr.org/2025/04/15/nx-s1-5355896/doge-nlrb-elon-musk-spacex-security): Whistleblower details how DOGE may have taken sensitive NLRB data</small>
 
 
-| 🔥🔥: 741 \| 💬: [368](https://news.ycombinator.com/item?id=43691142) \| 🗓️ 2025-04-15
+| 🔥🔥: 775 \| 💬: [383](https://news.ycombinator.com/item?id=43691142) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [seths.blog](https://seths.blog/2025/04/how-to-win-an-argument-with-a-toddler/): How to win an argument with a toddler</small>
 
 
-| 🔥🔥: 578 \| 💬: [436](https://news.ycombinator.com/item?id=43693402) \| 🗓️ 2025-04-15
+| 🔥🔥: 589 \| 💬: [444](https://news.ycombinator.com/item?id=43693402) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [knowyourmeme.com](https://knowyourmeme.com/memes/events/april-2025-4chan-sharty-hack-and-janitor-email-leak): 4chan Sharty Hack And Janitor Email Leak</small>
 
 
-| 🔥🔥: 443 \| 💬: [549](https://news.ycombinator.com/item?id=43691334) \| 🗓️ 2025-04-15
+| 🔥🔥: 456 \| 💬: [570](https://news.ycombinator.com/item?id=43691334) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [filiph.github.io](https://filiph.github.io/unsure/): Show HN: Unsure Calculator – back-of-a-napkin probabilistic calculator</small>
 
 
-| 🔥🔥: 355 \| 💬: [61](https://news.ycombinator.com/item?id=43690289) \| 🗓️ 2025-04-15
+| 🔥🔥: 405 \| 💬: [65](https://news.ycombinator.com/item?id=43690289) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -75,7 +75,7 @@ Filip开发的**不确定计算器**允许用户输入**范围值**（如`10~15`
 <small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/its-easier-ever-de-censor-videos): It's easier than ever to de-censor videos</small>
 
 
-| 🔥🔥: 333 \| 💬: [141](https://news.ycombinator.com/item?id=43695701) \| 🗓️ 2025-04-15
+| 🔥🔥: 334 \| 💬: [141](https://news.ycombinator.com/item?id=43695701) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -89,7 +89,7 @@ Filip开发的**不确定计算器**允许用户输入**范围值**（如`10~15`
 <small>🔗 [steveblank.com](https://steveblank.com/2025/04/15/how-the-u-s-became-a-science-superpower/): How the U.S. became a science superpower</small>
 
 
-| 🔥🔥: 253 \| 💬: [266](https://news.ycombinator.com/item?id=43692360) \| 🗓️ 2025-04-15
+| 🔥🔥: 270 \| 💬: [282](https://news.ycombinator.com/item?id=43692360) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -101,7 +101,7 @@ Filip开发的**不确定计算器**允许用户输入**范围值**（如`10~15`
 <small>🔗 [molsonhart.com](https://www.molsonhart.com/blog/america-underestimates-the-difficulty-of-bringing-manufacturing-back): America underestimates the difficulty of bringing manufacturing back</small>
 
 
-| 🔥🔥: 250 \| 💬: [414](https://news.ycombinator.com/item?id=43692677) \| 🗓️ 2025-04-15
+| 🔥🔥: 251 \| 💬: [415](https://news.ycombinator.com/item?id=43692677) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -113,7 +113,7 @@ Filip开发的**不确定计算器**允许用户输入**范围值**（如`10~15`
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2410.03730): Teuken-7B-Base and Teuken-7B-Instruct: Towards European LLMs (2024)</small>
 
 
-| 🔥🔥: 238 \| 💬: [90](https://news.ycombinator.com/item?id=43690955) \| 🗓️ 2025-04-15
+| 🔥🔥: 239 \| 💬: [90](https://news.ycombinator.com/item?id=43690955) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -125,7 +125,7 @@ Filip开发的**不确定计算器**允许用户输入**范围值**（如`10~15`
 <small>🔗 [blog.google](https://blog.google/products/gemini/video-generation/): Generate videos in Gemini and Whisk with Veo 2</small>
 
 
-| 🔥🔥: 228 \| 💬: [85](https://news.ycombinator.com/item?id=43695592) \| 🗓️ 2025-04-15
+| 🔥🔥: 236 \| 💬: [87](https://news.ycombinator.com/item?id=43695592) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -137,7 +137,7 @@ Gemini Advanced订阅用户现可通过**Veo 2**将文本提示转换为8秒高�
 <small>🔗 [github.com](https://github.com/bobschrag/clolog): Clolog</small>
 
 
-| 🔥🔥: 192 \| 💬: [29](https://news.ycombinator.com/item?id=43695620) \| 🗓️ 2025-04-15
+| 🔥🔥: 196 \| 💬: [33](https://news.ycombinator.com/item?id=43695620) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -149,7 +149,7 @@ Clolog是一个**全功能逻辑编程**（类似Prolog）系统，深度集成C
 <small>🔗 [github.com](https://github.com/ubisoft/Chroma): Chroma: Ubisoft's internal tool used to simulate color-blindness</small>
 
 
-| 🔥🔥: 188 \| 💬: [59](https://news.ycombinator.com/item?id=43692089) \| 🗓️ 2025-04-15
+| 🔥🔥: 190 \| 💬: [59](https://news.ycombinator.com/item?id=43692089) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -161,7 +161,7 @@ Chroma是育碧开发的**实时色盲模拟工具**，可覆盖游戏画面并�
 <small>🔗 [pgdog.dev](https://pgdog.dev/blog/hacking-postgres-wire-protocol): Hacking the Postgres wire protocol</small>
 
 
-| 🔥🔥: 170 \| 💬: [39](https://news.ycombinator.com/item?id=43693326) \| 🗓️ 2025-04-15
+| 🔥🔥: 179 \| 💬: [41](https://news.ycombinator.com/item?id=43693326) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -173,7 +173,7 @@ PgDog是一款网络代理工具，能够解析**PostgreSQL有线协议**，实�
 <small>🔗 [mcyoung.xyz](https://mcyoung.xyz/2025/04/14/target-triples/): What the hell is a target triple?</small>
 
 
-| 🔥🔥: 141 \| 💬: [109](https://news.ycombinator.com/item?id=43696756) \| 🗓️ 2025-04-15
+| 🔥🔥: 143 \| 💬: [111](https://news.ycombinator.com/item?id=43696756) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -181,15 +181,15 @@ PgDog是一款网络代理工具，能够解析**PostgreSQL有线协议**，实�
 
 ---
 
-## <a name="14"></a>14. 哥伦比亚大学哲学系学生赴公民面试遭ICE强行带走 
-<small>🔗 [dailynous.com](https://dailynous.com/2025/04/15/philosophy-major-snatched-by-ice-during-citizenship-interview/): Philosophy Major Snatched by ICE During Citizenship Interview</small>
+## <a name="14"></a>14. 美国国土安全部停止资助CVE漏洞管理项目 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/04/16/homeland_security_funding_for_cve/): Homeland Security funding for CVE program expires</small>
 
 
-| 🔥🔥: 129 \| 💬: [83](https://news.ycombinator.com/item?id=43693375) \| 🗓️ 2025-04-15
+| 🔥🔥: 133 \| 💬: [5](https://news.ycombinator.com/item?id=43700258) \| 🗓️ 2025-04-15
 
 
 <br />
-哥伦比亚大学哲学系应届毕业生**莫森·马赫达维**在佛蒙特州参加入籍面试时，被**蒙面ICE探员**强行押入无标识车辆带走，目前下落不明。其律师指控拘留是特朗普政府对其**巴勒斯坦裔身份**及声援加沙的报复，并已获联邦法院紧急禁令阻止驱逐。马赫达维持绿卡，生于约旦河西岸难民营，主张"反犹不公，巴勒斯坦自由与反种族主义并行"。此前他因参与哥伦比亚大学反以抗议接受《60分钟》采访引发关注。
+美国政府对**CVE项目**（通用漏洞与暴露数据库）的资助于2025年4月16日终止，该项目是全球网络安全的核心系统，负责为漏洞分配唯一标识符（如Heartbleed和Meltdown）。资助中断可能导致漏洞管理混乱，威胁关键基础设施安全。非营利组织MITRE此前运营该项目，但合同未获续签。业界担忧若无人接手，标准化漏洞追踪体系将崩溃。部分企业已采取临时措施，但长期解决方案仍需行业协作。专家警告，此举将重创全球网络安全生态。
 
 ---
 
@@ -197,7 +197,7 @@ PgDog是一款网络代理工具，能够解析**PostgreSQL有线协议**，实�
 <small>🔗 [theverge.com](https://www.theverge.com/openai/648130/openai-social-network-x-competitor): OpenAI is building a social network?</small>
 
 
-| 🔥🔥: 119 \| 💬: [98](https://news.ycombinator.com/item?id=43694877) \| 🗓️ 2025-04-15
+| 🔥🔥: 132 \| 💬: [111](https://news.ycombinator.com/item?id=43694877) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -205,11 +205,23 @@ PgDog是一款网络代理工具，能够解析**PostgreSQL有线协议**，实�
 
 ---
 
-## <a name="16"></a>16. JSX 直传：颠覆传统API设计的新思路 
+## <a name="16"></a>16. 哥伦比亚大学哲学系学生赴公民面试遭ICE强行带走 
+<small>🔗 [dailynous.com](https://dailynous.com/2025/04/15/philosophy-major-snatched-by-ice-during-citizenship-interview/): Philosophy Major Snatched by ICE During Citizenship Interview</small>
+
+
+| 🔥🔥: 129 \| 💬: [85](https://news.ycombinator.com/item?id=43693375) \| 🗓️ 2025-04-15
+
+
+<br />
+哥伦比亚大学哲学系应届毕业生**莫森·马赫达维**在佛蒙特州参加入籍面试时，被**蒙面ICE探员**强行押入无标识车辆带走，目前下落不明。其律师指控拘留是特朗普政府对其**巴勒斯坦裔身份**及声援加沙的报复，并已获联邦法院紧急禁令阻止驱逐。马赫达维持绿卡，生于约旦河西岸难民营，主张"反犹不公，巴勒斯坦自由与反种族主义并行"。此前他因参与哥伦比亚大学反以抗议接受《60分钟》采访引发关注。
+
+---
+
+## <a name="17"></a>17. JSX 直传：颠覆传统API设计的新思路 
 <small>🔗 [overreacted.io](https://overreacted.io/jsx-over-the-wire/): JSX over the Wire</small>
 
 
-| 🔥🔥: 110 \| 💬: [80](https://news.ycombinator.com/item?id=43694681) \| 🗓️ 2025-04-15
+| 🔥🔥: 121 \| 💬: [83](https://news.ycombinator.com/item?id=43694681) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -217,11 +229,11 @@ PgDog是一款网络代理工具，能够解析**PostgreSQL有线协议**，实�
 
 ---
 
-## <a name="17"></a>17. 别想动我们用户的数据 
+## <a name="18"></a>18. 别想动我们用户的数据 
 <small>🔗 [sourcehut.org](https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/): You cannot have our user's data</small>
 
 
-| 🔥🔥: 109 \| 💬: [100](https://news.ycombinator.com/item?id=43692998) \| 🗓️ 2025-04-15
+| 🔥🔥: 110 \| 💬: [100](https://news.ycombinator.com/item?id=43692998) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -229,23 +241,23 @@ SourceHut明确反对LLM爬虫滥用公开数据，强调**用户数据不属于
 
 ---
 
-## <a name="18"></a>18. 网络世界的独特存在——WEIRD 
-<small>🔗 [a.weird.one](https://a.weird.one): WEIRD – a way to be on the web</small>
+## <a name="19"></a>19. 奶牛与农民的新帮手：机器人如何重塑乳业 
+<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/lely-dairy-robots): How dairy robots are changing work for cows and farmers</small>
 
 
-| 🔥: 100 \| 💬: [56](https://news.ycombinator.com/item?id=43691891) \| 🗓️ 2025-04-15
+| 🔥🔥: 108 \| 💬: [54](https://news.ycombinator.com/item?id=43699188) \| 🗓️ 2025-04-15
 
 
 <br />
-这篇文章探讨了如何在网络世界中保持**独特性**和**真实性**，提出了“WEIRD”这一概念，鼓励人们打破常规，展现真实的自我。文中强调，在充斥着同质化内容的互联网中，**与众不同**不仅是个人品牌的亮点，也是吸引关注的关键。通过WEIRD的方式，用户可以在虚拟空间中找到属于自己的声音和风格。
+乳业机器人正通过**自动化挤奶、喂食和清洁**大幅减轻农民负担，同时提升奶牛福利。荷兰Lely公司的**第五代挤奶机器人**允许奶牛自主决定挤奶时间，产量提升10%。此外，**饲料推送机器人**和**粪便清理机器人**进一步减少人工需求。研究显示，机器人不仅降低劳动强度，还让奶牛更放松，但专家对增产效果持保留态度。尽管初期成本高昂，机器人因长期效益和劳动力短缺正被更多农场采用，尤其在欧洲。未来，设计将更注重**奶牛与机器的自然互动**。
 
 ---
 
-## <a name="19"></a>19. UI线程在内核调用中挂起的案例 
+## <a name="20"></a>20. UI线程在内核调用中挂起的案例 
 <small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20250411-00/?p=111066): The case of the UI thread that hung in a kernel call</small>
 
 
-| 🔥: 100 \| 💬: [26](https://news.ycombinator.com/item?id=43695723) \| 🗓️ 2025-04-15
+| 🔥🔥: 106 \| 💬: [27](https://news.ycombinator.com/item?id=43695723) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -255,7 +267,19 @@ SourceHut明确反对LLM爬虫滥用公开数据，强调**用户数据不属于
 
 ---
 
-## <a name="20"></a>20. 哈佛面临1636年以来最大危机，我在此发表演讲 
+## <a name="21"></a>21. 网络世界的独特存在——WEIRD 
+<small>🔗 [a.weird.one](https://a.weird.one): WEIRD – a way to be on the web</small>
+
+
+| 🔥🔥: 102 \| 💬: [56](https://news.ycombinator.com/item?id=43691891) \| 🗓️ 2025-04-15
+
+
+<br />
+这篇文章探讨了如何在网络世界中保持**独特性**和**真实性**，提出了“WEIRD”这一概念，鼓励人们打破常规，展现真实的自我。文中强调，在充斥着同质化内容的互联网中，**与众不同**不仅是个人品牌的亮点，也是吸引关注的关键。通过WEIRD的方式，用户可以在虚拟空间中找到属于自己的声音和风格。
+
+---
+
+## <a name="22"></a>22. 哈佛面临1636年以来最大危机，我在此发表演讲 
 <small>🔗 [scottaaronson.blog](https://scottaaronson.blog/?p=8805): I speak at Harvard as it faces its biggest crisis since 1636</small>
 
 
@@ -267,11 +291,11 @@ SourceHut明确反对LLM爬虫滥用公开数据，强调**用户数据不属于
 
 ---
 
-## <a name="21"></a>21. TLS证书有效期将正式缩短至47天 
+## <a name="23"></a>23. TLS证书有效期将正式缩短至47天 
 <small>🔗 [digicert.com](https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days): TLS certificate lifetimes will officially reduce to 47 days</small>
 
 
-| 🔥: 90 \| 💬: [165](https://news.ycombinator.com/item?id=43693900) \| 🗓️ 2025-04-15
+| 🔥: 91 \| 💬: [168](https://news.ycombinator.com/item?id=43693900) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -279,23 +303,11 @@ CA/Browser Forum已投票通过新规，**TLS证书有效期**将分阶段缩短
 
 ---
 
-## <a name="22"></a>22. 奶牛与农民的新帮手：机器人如何重塑乳业 
-<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/lely-dairy-robots): How dairy robots are changing work for cows and farmers</small>
-
-
-| 🔥: 90 \| 💬: [45](https://news.ycombinator.com/item?id=43699188) \| 🗓️ 2025-04-15
-
-
-<br />
-乳业机器人正通过**自动化挤奶、喂食和清洁**大幅减轻农民负担，同时提升奶牛福利。荷兰Lely公司的**第五代挤奶机器人**允许奶牛自主决定挤奶时间，产量提升10%。此外，**饲料推送机器人**和**粪便清理机器人**进一步减少人工需求。研究显示，机器人不仅降低劳动强度，还让奶牛更放松，但专家对增产效果持保留态度。尽管初期成本高昂，机器人因长期效益和劳动力短缺正被更多农场采用，尤其在欧洲。未来，设计将更注重**奶牛与机器的自然互动**。
-
----
-
-## <a name="23"></a>23. Cohere发布Embed 4：多模态企业搜索新标杆 
+## <a name="24"></a>24. Cohere发布Embed 4：多模态企业搜索新标杆 
 <small>🔗 [cohere.com](https://cohere.com/blog/embed-4): Cohere Launches Embed 4</small>
 
 
-| 🔥: 86 \| 💬: [42](https://news.ycombinator.com/item?id=43694546) \| 🗓️ 2025-04-15
+| 🔥: 87 \| 💬: [42](https://news.ycombinator.com/item?id=43694546) \| 🗓️ 2025-04-15
 
 
 <br />
@@ -303,7 +315,7 @@ Cohere团队于2025年4月15日推出**Embed 4**，该产品以**行业领先的
 
 ---
 
-## <a name="24"></a>24. MeshCore：轻量级混合路由无线网格协议 
+## <a name="25"></a>25. MeshCore：轻量级混合路由无线网格协议 
 <small>🔗 [github.com](https://github.com/ripplebiz/MeshCore): MeshCore, a new lightweight, hybrid routing mesh protocol for packet radios</small>
 
 
@@ -316,17 +328,5 @@ MeshCore是一个轻量化的C++库，专为**嵌入式项目**设计，支持Lo
 **核心功能**包括多跳中继通信、低功耗运行、去中心化自愈网络，兼容Heltec、RAK Wireless等硬件。应用场景涵盖**应急通信**、户外活动、物联网传感网络等。  
 
 采用MIT开源协议，提供聊天、中继等示例应用，开发者可通过PlatformIO快速部署。需注意RAK4631需额外固件转换步骤。
-
----
-
-## <a name="25"></a>25. 设计低成本高性能的10 MHz至15 GHz矢量网络分析仪 
-<small>🔗 [hforsten.com](https://hforsten.com/designing-a-low-cost-high-performance-10-mhz-15-ghz-vector-network-analyzer.html): Designing a low-cost high-performance 10 MHz – 15 GHz vector network analyzer</small>
-
-
-| 🔥: 83 \| 💬: [21](https://news.ycombinator.com/item?id=43696798) \| 🗓️ 2025-04-15
-
-
-<br />
-本文介绍了一种**自制矢量网络分析仪（VNA）**的设计过程，旨在以低成本实现10 MHz至15 GHz的高频测量。作者对比了市售廉价VNA（如nanoVNA和LibreVNA）的局限性，提出采用**双信号源架构**替代传统端口开关，以提升隔离度并降低成本。关键组件包括LMX2594 PLL芯片（10 MHz-15 GHz信号源）、ADL5802混频器（受限频段）和AD9238 ADC（动态范围-143 dBFS/Hz）。**自制定向耦合器**采用共享同轴巴伦设计，实测隔离度达20 dB。尽管高频性能受混频器限制，但该方案在7 GHz以下表现优异，成本远低于商用高端设备（如5.3万欧元的Keysight E5603）。
 
 ---
