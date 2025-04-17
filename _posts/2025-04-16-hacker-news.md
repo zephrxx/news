@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共21条，具体内容您往下读...
+总共22条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [archive.org](https://archive.org/details/attentionkmartshoppers): Attention K-Mart Shoppers</small>
 
 
-| 🔥🔥: 291 \| 💬: [104](https://news.ycombinator.com/item?id=43706706) \| 🗓️ 2025-04-16
+| 🔥🔥: 299 \| 💬: [105](https://news.ycombinator.com/item?id=43706706) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [theappendix.net](https://theappendix.net/posts/2014/02/darwins-children-drew-vegetable-battles-on-the-origin-of-species): Darwin's children drew all over the “On the Origin of Species” manuscript (2014)</small>
 
 
-| 🔥🔥: 284 \| 💬: [82](https://news.ycombinator.com/item?id=43706037) \| 🗓️ 2025-04-16
+| 🔥🔥: 296 \| 💬: [85](https://news.ycombinator.com/item?id=43706037) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/openai/codex): OpenAI Codex CLI: Lightweight coding agent that runs in your terminal</small>
 
 
-| 🔥🔥: 266 \| 💬: [149](https://news.ycombinator.com/item?id=43708025) \| 🗓️ 2025-04-16
+| 🔥🔥: 294 \| 💬: [170](https://news.ycombinator.com/item?id=43708025) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -68,7 +68,7 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 <small>🔗 [thecvefoundation.org](https://www.thecvefoundation.org/home): CVE Foundation</small>
 
 
-| 🔥🔥: 245 \| 💬: [50](https://news.ycombinator.com/item?id=43704430) \| 🗓️ 2025-04-16
+| 🔥🔥: 258 \| 💬: [55](https://news.ycombinator.com/item?id=43704430) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -80,7 +80,7 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/): Man who built ISP instead of paying Comcast expands to hundreds of homes (2022)</small>
 
 
-| 🔥🔥: 222 \| 💬: [108](https://news.ycombinator.com/item?id=43709770) \| 🗓️ 2025-04-16
+| 🔥🔥: 255 \| 💬: [119](https://news.ycombinator.com/item?id=43709770) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -92,7 +92,7 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 <small>🔗 [euvd.enisa.europa.eu](https://euvd.enisa.europa.eu/): European Union Vulnerability Database (EUVD)</small>
 
 
-| 🔥🔥: 211 \| 💬: [22](https://news.ycombinator.com/item?id=43703949) \| 🗓️ 2025-04-16
+| 🔥🔥: 213 \| 💬: [22](https://news.ycombinator.com/item?id=43703949) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -104,7 +104,7 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 <small>🔗 [antirez.com](https://antirez.com/news/150): Reproducing Hacker News writing style fingerprinting</small>
 
 
-| 🔥🔥: 174 \| 💬: [84](https://news.ycombinator.com/item?id=43705632) \| 🗓️ 2025-04-16
+| 🔥🔥: 192 \| 💬: [90](https://news.ycombinator.com/item?id=43705632) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -116,7 +116,7 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 <small>🔗 [thereader.mitpress.mit.edu](https://thereader.mitpress.mit.edu/how-nintendo-bled-atari-games-to-death/): Nintendo Bled Atari Games to Death</small>
 
 
-| 🔥🔥: 156 \| 💬: [122](https://news.ycombinator.com/item?id=43704596) \| 🗓️ 2025-04-16
+| 🔥🔥: 161 \| 💬: [123](https://news.ycombinator.com/item?id=43704596) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -128,7 +128,7 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 <small>🔗 [blog.jetbrains.com](https://blog.jetbrains.com/blog/2025/04/16/jetbrains-ides-go-ai/): JetBrains IDEs Go AI: Coding Agent, Smarter Assistance, Free Tier</small>
 
 
-| 🔥🔥: 151 \| 💬: [114](https://news.ycombinator.com/item?id=43704579) \| 🗓️ 2025-04-16
+| 🔥🔥: 151 \| 💬: [115](https://news.ycombinator.com/item?id=43704579) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -140,7 +140,7 @@ JetBrains宣布在其IDE中集成**AI助手**和全新**编程代理Junie**，�
 <small>🔗 [github.com](https://github.com/harishsg993010/damn-vulnerable-MCP-server): Damn Vulnerable MCP Server</small>
 
 
-| 🔥🔥: 142 \| 💬: [41](https://news.ycombinator.com/item?id=43707021) \| 🗓️ 2025-04-16
+| 🔥🔥: 148 \| 💬: [44](https://news.ycombinator.com/item?id=43707021) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -148,11 +148,23 @@ JetBrains宣布在其IDE中集成**AI助手**和全新**编程代理Junie**，�
 
 ---
 
-## <a name="11"></a>11. 随机微积分入门：从理论到应用 
+## <a name="11"></a>11. 赛斯·罗根怒怼亿万富豪遭视频删减 
+<small>🔗 [kottke.org](https://kottke.org/25/04/seth-rogan-speaks-truth-to-billionaires-gets-censored-for-it): Seth Rogen Speaks Truth to Billionaires, Gets Censored for It</small>
+
+
+| 🔥🔥: 144 \| 💬: [15](https://news.ycombinator.com/item?id=43711410) \| 🗓️ 2025-04-16
+
+
+<br />
+在今年的“科学突破奖”颁奖礼上，演员**赛斯·罗根**与爱德华·诺顿共同颁发物理学奖项时，公开批评特朗普政府破坏美国科研环境，并暗指在场富豪（如扎克伯格、贝索斯等）资助的政客导致科学事业受损。他的发言在直播中播出，但后续发布的**YouTube官方视频**中相关内容被删除。目前未公开完整未删减版本。事件引发对言论审查及富豪政治影响力的讨论。
+
+---
+
+## <a name="12"></a>12. 随机微积分入门：从理论到应用 
 <small>🔗 [bjlkeng.io](https://bjlkeng.io/posts/an-introduction-to-stochastic-calculus/): An Introduction to Stochastic Calculus (2022)</small>
 
 
-| 🔥🔥: 141 \| 💬: [38](https://news.ycombinator.com/item?id=43703623) \| 🗓️ 2025-04-16
+| 🔥🔥: 142 \| 💬: [39](https://news.ycombinator.com/item?id=43703623) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -160,11 +172,11 @@ JetBrains宣布在其IDE中集成**AI助手**和全新**编程代理Junie**，�
 
 ---
 
-## <a name="12"></a>12. 6502程序员的奇技淫巧（2019） 
+## <a name="13"></a>13. 6502程序员的奇技淫巧（2019） 
 <small>🔗 [nurpax.github.io](https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html): Dirty tricks 6502 programmers use (2019)</small>
 
 
-| 🔥🔥: 135 \| 💬: [41](https://news.ycombinator.com/item?id=43705649) \| 🗓️ 2025-04-16
+| 🔥🔥: 137 \| 💬: [41](https://news.ycombinator.com/item?id=43705649) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -172,11 +184,11 @@ JetBrains宣布在其IDE中集成**AI助手**和全新**编程代理Junie**，�
 
 ---
 
-## <a name="13"></a>13. 一家初创企业的失败复盘：英国住房市场的教训 
+## <a name="14"></a>14. 一家初创企业的失败复盘：英国住房市场的教训 
 <small>🔗 [buildwithtract.com](https://buildwithtract.com/): A Postmortem of a Startup</small>
 
 
-| 🔥🔥: 134 \| 💬: [108](https://news.ycombinator.com/item?id=43703682) \| 🗓️ 2025-04-16
+| 🔥🔥: 136 \| 💬: [109](https://news.ycombinator.com/item?id=43703682) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -184,11 +196,11 @@ JetBrains宣布在其IDE中集成**AI助手**和全新**编程代理Junie**，�
 
 ---
 
-## <a name="14"></a>14. Kaggle与维基媒体基金会合作推出开放数据 
+## <a name="15"></a>15. Kaggle与维基媒体基金会合作推出开放数据 
 <small>🔗 [blog.google](https://blog.google/technology/developers/kaggle-wikimedia/): Kaggle and the Wikimedia Foundation are partnering on open data</small>
 
 
-| 🔥🔥: 117 \| 💬: [33](https://news.ycombinator.com/item?id=43707768) \| 🗓️ 2025-04-16
+| 🔥🔥: 120 \| 💬: [33](https://news.ycombinator.com/item?id=43707768) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -196,7 +208,7 @@ Kaggle平台现托管**维基媒体企业版**的结构化数据测试版（含�
 
 ---
 
-## <a name="15"></a>15. Herb：强大且无缝的HTML感知型ERB解析工具 
+## <a name="16"></a>16. Herb：强大且无缝的HTML感知型ERB解析工具 
 <small>🔗 [herb-tools.dev](https://herb-tools.dev/): Herb: Powerful and seamless HTML-aware ERB parsing and tooling</small>
 
 
@@ -208,11 +220,11 @@ Herb是一款**智能识别HTML结构**的ERB模板解析工具，能够精准�
 
 ---
 
-## <a name="16"></a>16. 将Chromium浏览器移植到Unikernel的开源项目 
+## <a name="17"></a>17. 将Chromium浏览器移植到Unikernel的开源项目 
 <small>🔗 [github.com](https://github.com/onkernel/kernel-images): Show HN: We Put Chromium on a Unikernel (OSS Apache 2.0)</small>
 
 
-| 🔥: 100 \| 💬: [33](https://news.ycombinator.com/item?id=43705144) \| 🗓️ 2025-04-16
+| 🔥🔥: 102 \| 💬: [34](https://news.ycombinator.com/item?id=43705144) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -220,11 +232,11 @@ Herb是一款**智能识别HTML结构**的ERB模板解析工具，能够精准�
 
 ---
 
-## <a name="17"></a>17. Zig语言高性能解析器：速度提升2.75倍，内存减少2.47倍 
+## <a name="18"></a>18. Zig语言高性能解析器：速度提升2.75倍，内存减少2.47倍 
 <small>🔗 [github.com](https://github.com/Validark/Accelerated-Zig-Parser): A high-throughput parser for the Zig programming language</small>
 
 
-| 🔥: 94 \| 💬: [6](https://news.ycombinator.com/item?id=43705824) \| 🗓️ 2025-04-16
+| 🔥: 95 \| 💬: [8](https://news.ycombinator.com/item?id=43705824) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -232,7 +244,7 @@ Herb是一款**智能识别HTML结构**的ERB模板解析工具，能够精准�
 
 ---
 
-## <a name="18"></a>18. ChatGPT 4.1越狱提示解析 
+## <a name="19"></a>19. ChatGPT 4.1越狱提示解析 
 <small>🔗 [github.com](https://github.com/elder-plinius/L1B3RT4S/blob/main/OPENAI.mkd): ChatGPT 4.1 Jailbreak Prompt</small>
 
 
@@ -251,11 +263,11 @@ Herb是一款**智能识别HTML结构**的ERB模板解析工具，能够精准�
 
 ---
 
-## <a name="19"></a>19. 科学，无尽的边疆（1945） 
+## <a name="20"></a>20. 科学，无尽的边疆（1945） 
 <small>🔗 [nsf-gov-resources.nsf.gov](https://nsf-gov-resources.nsf.gov/2023-04/EndlessFrontier75th_w.pdf): Science, the Endless Frontier (1945) [pdf]</small>
 
 
-| 🔥: 81 \| 💬: [15](https://news.ycombinator.com/item?id=43705796) \| 🗓️ 2025-04-16
+| 🔥: 84 \| 💬: [16](https://news.ycombinator.com/item?id=43705796) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -263,11 +275,11 @@ Herb是一款**智能识别HTML结构**的ERB模板解析工具，能够精准�
 
 ---
 
-## <a name="20"></a>20. Bauplan：基于对象存储的Git式数据管道平台 
+## <a name="21"></a>21. Bauplan：基于对象存储的Git式数据管道平台 
 <small>🔗 [docs.bauplanlabs.com](https://docs.bauplanlabs.com/en/latest/): Bauplan – Git-for-data pipelines on object storage</small>
 
 
-| 🔥: 77 \| 💬: [31](https://news.ycombinator.com/item?id=43705991) \| 🗓️ 2025-04-16
+| 🔥: 79 \| 💬: [38](https://news.ycombinator.com/item?id=43705991) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -275,11 +287,11 @@ Bauplan是一个**Python优先的无服务器数据湖平台**，专为大规模
 
 ---
 
-## <a name="21"></a>21. UCSD p-System与Apple Pascal：未竟的跨平台兼容之梦 
+## <a name="22"></a>22. UCSD p-System与Apple Pascal：未竟的跨平台兼容之梦 
 <small>🔗 [markbessey.blog](https://markbessey.blog/2025/04/14/a-blast-from-the-past/): The UCSD p-System, Apple Pascal, and a dream of cross-platform compatibility</small>
 
 
-| 🔥: 70 \| 💬: [41](https://news.ycombinator.com/item?id=43707805) \| 🗓️ 2025-04-16
+| 🔥: 71 \| 💬: [43](https://news.ycombinator.com/item?id=43707805) \| 🗓️ 2025-04-16
 
 
 <br />
