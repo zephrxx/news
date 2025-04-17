@@ -27,7 +27,7 @@ tags:
 <small>🔗 [github.com](https://github.com/openai/codex): OpenAI Codex CLI: Lightweight coding agent that runs in your terminal</small>
 
 
-| 🔥🔥: 359 \| 💬: [199](https://news.ycombinator.com/item?id=43708025) \| 🗓️ 2025-04-16
+| 🔥🔥: 376 \| 💬: [203](https://news.ycombinator.com/item?id=43708025) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -44,7 +44,7 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/): Man who built ISP instead of paying Comcast expands to hundreds of homes (2022)</small>
 
 
-| 🔥🔥: 350 \| 💬: [168](https://news.ycombinator.com/item?id=43709770) \| 🗓️ 2025-04-16
+| 🔥🔥: 373 \| 💬: [171](https://news.ycombinator.com/item?id=43709770) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -56,7 +56,7 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 <small>🔗 [theappendix.net](https://theappendix.net/posts/2014/02/darwins-children-drew-vegetable-battles-on-the-origin-of-species): Darwin's children drew all over the “On the Origin of Species” manuscript (2014)</small>
 
 
-| 🔥🔥: 349 \| 💬: [101](https://news.ycombinator.com/item?id=43706037) \| 🗓️ 2025-04-16
+| 🔥🔥: 363 \| 💬: [103](https://news.ycombinator.com/item?id=43706037) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -68,7 +68,7 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 <small>🔗 [thecvefoundation.org](https://www.thecvefoundation.org/home): CVE Foundation</small>
 
 
-| 🔥🔥: 312 \| 💬: [62](https://news.ycombinator.com/item?id=43704430) \| 🗓️ 2025-04-16
+| 🔥🔥: 322 \| 💬: [63](https://news.ycombinator.com/item?id=43704430) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -88,11 +88,23 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 
 ---
 
-## <a name="6"></a>6. 重现Hacker News用户写作风格指纹分析 
+## <a name="6"></a>6. Zoom服务中断：因域名被误关导致全球访问故障 
+<small>🔗 [status.zoom.us](https://status.zoom.us/incidents/pw9r9vnq5rvk): Zoom outage caused by accidental 'shutting down' of the zoom.us domain</small>
+
+
+| 🔥🔥: 245 \| 💬: [117](https://news.ycombinator.com/item?id=43711957) \| 🗓️ 2025-04-16
+
+
+<br />
+4月16日，**zoom.us域名**因注册商Markmonitor与GoDaddy Registry之间的通信错误被**意外关闭**，导致全球用户约2小时无法访问Zoom服务。故障并非Zoom自身系统问题，三方已协作恢复并承诺改进流程。若仍遇连接问题，建议**刷新DNS缓存**。受影响服务包括会议、电话、客服中心及官网。
+
+---
+
+## <a name="7"></a>7. 重现Hacker News用户写作风格指纹分析 
 <small>🔗 [antirez.com](https://antirez.com/news/150): Reproducing Hacker News writing style fingerprinting</small>
 
 
-| 🔥🔥: 228 \| 💬: [114](https://news.ycombinator.com/item?id=43705632) \| 🗓️ 2025-04-16
+| 🔥🔥: 238 \| 💬: [121](https://news.ycombinator.com/item?id=43705632) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -100,7 +112,7 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 
 ---
 
-## <a name="7"></a>7. 欧盟漏洞数据库（EUVD） 
+## <a name="8"></a>8. 欧盟漏洞数据库（EUVD） 
 <small>🔗 [euvd.enisa.europa.eu](https://euvd.enisa.europa.eu/): European Union Vulnerability Database (EUVD)</small>
 
 
@@ -112,7 +124,19 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 
 ---
 
-## <a name="8"></a>8. 匿名组织曝光10TB数据：揭露克里姆林宫资产与俄罗斯商业内幕 
+## <a name="9"></a>9. 用Jellyfin替代Spotify的音乐自主之路 
+<small>🔗 [coppolaemilio.com](https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/): Jellyfin as a Spotify alternative</small>
+
+
+| 🔥🔥: 211 \| 💬: [184](https://news.ycombinator.com/item?id=43711706) \| 🗓️ 2025-04-16
+
+
+<br />
+作者放弃Spotify后尝试了多种本地音乐播放方案（如Winamp、VLC、foobar2000），均因**功能局限**或体验不佳放弃。随后自建网页播放器，但受限于离线访问问题。短暂使用苹果Music后，受YouTube视频启发转向**自托管Jellyfin**——支持跨设备同步、离线下载（通过Finamp等客户端），且无需专业设备（旧电脑即可搭建服务器）。这一方案不仅解决了音乐管理痛点，还推动作者探索**自托管生态**（如Immich）。开源工具让用户摆脱平台依赖，掌控数字资产成为可能。
+
+---
+
+## <a name="10"></a>10. 匿名组织曝光10TB数据：揭露克里姆林宫资产与俄罗斯商业内幕 
 <small>🔗 [trendsnewsline.com](https://trendsnewsline.com/2025/04/15/anonymous-leaks-10tb-of-data-on-russia-shocking-revelations/): Anonymous Release 10TB Leaked Data Exposing Kremlin Assets, Russian Businesses</small>
 
 
@@ -124,23 +148,11 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 
 ---
 
-## <a name="9"></a>9. Zoom服务中断：因域名被误关导致全球访问故障 
-<small>🔗 [status.zoom.us](https://status.zoom.us/incidents/pw9r9vnq5rvk): Zoom outage caused by accidental 'shutting down' of the zoom.us domain</small>
-
-
-| 🔥🔥: 199 \| 💬: [106](https://news.ycombinator.com/item?id=43711957) \| 🗓️ 2025-04-16
-
-
-<br />
-4月16日，**zoom.us域名**因注册商Markmonitor与GoDaddy Registry之间的通信错误被**意外关闭**，导致全球用户约2小时无法访问Zoom服务。故障并非Zoom自身系统问题，三方已协作恢复并承诺改进流程。若仍遇连接问题，建议**刷新DNS缓存**。受影响服务包括会议、电话、客服中心及官网。
-
----
-
-## <a name="10"></a>10. 任天堂如何用法律手段绞杀雅达利游戏 
+## <a name="11"></a>11. 任天堂如何用法律手段绞杀雅达利游戏 
 <small>🔗 [thereader.mitpress.mit.edu](https://thereader.mitpress.mit.edu/how-nintendo-bled-atari-games-to-death/): How Nintendo bled Atari games to death</small>
 
 
-| 🔥🔥: 181 \| 💬: [126](https://news.ycombinator.com/item?id=43704596) \| 🗓️ 2025-04-16
+| 🔥🔥: 183 \| 💬: [127](https://news.ycombinator.com/item?id=43704596) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -148,23 +160,11 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 
 ---
 
-## <a name="11"></a>11. 用Jellyfin替代Spotify的音乐自主之路 
-<small>🔗 [coppolaemilio.com](https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/): Jellyfin as a Spotify alternative</small>
-
-
-| 🔥🔥: 181 \| 💬: [164](https://news.ycombinator.com/item?id=43711706) \| 🗓️ 2025-04-16
-
-
-<br />
-作者放弃Spotify后尝试了多种本地音乐播放方案（如Winamp、VLC、foobar2000），均因**功能局限**或体验不佳放弃。随后自建网页播放器，但受限于离线访问问题。短暂使用苹果Music后，受YouTube视频启发转向**自托管Jellyfin**——支持跨设备同步、离线下载（通过Finamp等客户端），且无需专业设备（旧电脑即可搭建服务器）。这一方案不仅解决了音乐管理痛点，还推动作者探索**自托管生态**（如Immich）。开源工具让用户摆脱平台依赖，掌控数字资产成为可能。
-
----
-
 ## <a name="12"></a>12. 赛斯·罗根怒怼亿万富豪遭视频删减 
 <small>🔗 [kottke.org](https://kottke.org/25/04/seth-rogan-speaks-truth-to-billionaires-gets-censored-for-it): Seth Rogen Speaks Truth to Billionaires, Gets Censored for It</small>
 
 
-| 🔥🔥: 175 \| 💬: [32](https://news.ycombinator.com/item?id=43711410) \| 🗓️ 2025-04-16
+| 🔥🔥: 179 \| 💬: [35](https://news.ycombinator.com/item?id=43711410) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -176,7 +176,7 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 <small>🔗 [github.com](https://github.com/harishsg993010/damn-vulnerable-MCP-server): Damn Vulnerable MCP Server</small>
 
 
-| 🔥🔥: 164 \| 💬: [50](https://news.ycombinator.com/item?id=43707021) \| 🗓️ 2025-04-16
+| 🔥🔥: 172 \| 💬: [50](https://news.ycombinator.com/item?id=43707021) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -188,7 +188,7 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 <small>🔗 [blog.jetbrains.com](https://blog.jetbrains.com/blog/2025/04/16/jetbrains-ides-go-ai/): JetBrains IDEs Go AI: Coding Agent, Smarter Assistance, Free Tier</small>
 
 
-| 🔥🔥: 158 \| 💬: [117](https://news.ycombinator.com/item?id=43704579) \| 🗓️ 2025-04-16
+| 🔥🔥: 159 \| 💬: [118](https://news.ycombinator.com/item?id=43704579) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -200,7 +200,7 @@ JetBrains宣布在其IDE中集成**AI助手**和全新**编程代理Junie**，�
 <small>🔗 [bjlkeng.io](https://bjlkeng.io/posts/an-introduction-to-stochastic-calculus/): An Introduction to Stochastic Calculus (2022)</small>
 
 
-| 🔥🔥: 151 \| 💬: [41](https://news.ycombinator.com/item?id=43703623) \| 🗓️ 2025-04-16
+| 🔥🔥: 154 \| 💬: [41](https://news.ycombinator.com/item?id=43703623) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -212,7 +212,7 @@ JetBrains宣布在其IDE中集成**AI助手**和全新**编程代理Junie**，�
 <small>🔗 [buildwithtract.com](https://buildwithtract.com/): A Postmortem of a Startup</small>
 
 
-| 🔥🔥: 144 \| 💬: [110](https://news.ycombinator.com/item?id=43703682) \| 🗓️ 2025-04-16
+| 🔥🔥: 145 \| 💬: [111](https://news.ycombinator.com/item?id=43703682) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -224,7 +224,7 @@ JetBrains宣布在其IDE中集成**AI助手**和全新**编程代理Junie**，�
 <small>🔗 [nurpax.github.io](https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html): Dirty tricks 6502 programmers use (2019)</small>
 
 
-| 🔥🔥: 143 \| 💬: [44](https://news.ycombinator.com/item?id=43705649) \| 🗓️ 2025-04-16
+| 🔥🔥: 145 \| 💬: [44](https://news.ycombinator.com/item?id=43705649) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -236,7 +236,7 @@ JetBrains宣布在其IDE中集成**AI助手**和全新**编程代理Junie**，�
 <small>🔗 [blog.google](https://blog.google/technology/developers/kaggle-wikimedia/): Kaggle and the Wikimedia Foundation are partnering on open data</small>
 
 
-| 🔥🔥: 125 \| 💬: [34](https://news.ycombinator.com/item?id=43707768) \| 🗓️ 2025-04-16
+| 🔥🔥: 126 \| 💬: [34](https://news.ycombinator.com/item?id=43707768) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -260,7 +260,7 @@ Kaggle平台现托管**维基媒体企业版**的结构化数据测试版（含�
 <small>🔗 [github.com](https://github.com/Validark/Accelerated-Zig-Parser): A high-throughput parser for the Zig programming language</small>
 
 
-| 🔥🔥: 110 \| 💬: [9](https://news.ycombinator.com/item?id=43705824) \| 🗓️ 2025-04-16
+| 🔥🔥: 111 \| 💬: [9](https://news.ycombinator.com/item?id=43705824) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -272,7 +272,7 @@ Kaggle平台现托管**维基媒体企业版**的结构化数据测试版（含�
 <small>🔗 [herb-tools.dev](https://herb-tools.dev/): Herb: Powerful and seamless HTML-aware ERB parsing and tooling</small>
 
 
-| 🔥🔥: 107 \| 💬: [19](https://news.ycombinator.com/item?id=43704853) \| 🗓️ 2025-04-16
+| 🔥🔥: 108 \| 💬: [19](https://news.ycombinator.com/item?id=43704853) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -280,11 +280,23 @@ Herb是一款**智能识别HTML结构**的ERB模板解析工具，能够精准�
 
 ---
 
-## <a name="22"></a>22. 科学，无尽的边疆（1945） 
+## <a name="22"></a>22. 微软研发出可在CPU上运行的高效AI模型 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/04/16/microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus/): Microsoft researchers developed a hyper-efficient AI model that can run on CPUs</small>
+
+
+| 🔥🔥: 101 \| 💬: [38](https://news.ycombinator.com/item?id=43711227) \| 🗓️ 2025-04-16
+
+
+<br />
+微软研究人员开发了目前最大规模的**1比特AI模型**（BitNet b1.58 2B4T），采用MIT开源许可，可在包括苹果M2在内的CPU上运行。该模型将权重压缩为**-1、0、1**三个值，显著提升内存和计算效率。其2亿参数和4万亿token训练数据使其性能优于同类模型，并在部分基准测试中超越Meta、Google和阿里巴巴的竞品。不过，需依赖微软定制框架**bitnet.cpp**，且暂不支持GPU，兼容性仍是挑战。
+
+---
+
+## <a name="23"></a>23. 科学，无尽的边疆（1945） 
 <small>🔗 [nsf-gov-resources.nsf.gov](https://nsf-gov-resources.nsf.gov/2023-04/EndlessFrontier75th_w.pdf): Science, the Endless Frontier (1945) [pdf]</small>
 
 
-| 🔥: 93 \| 💬: [16](https://news.ycombinator.com/item?id=43705796) \| 🗓️ 2025-04-16
+| 🔥: 94 \| 💬: [16](https://news.ycombinator.com/item?id=43705796) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -292,7 +304,7 @@ Herb是一款**智能识别HTML结构**的ERB模板解析工具，能够精准�
 
 ---
 
-## <a name="23"></a>23. ChatGPT 4.1越狱提示解析 
+## <a name="24"></a>24. ChatGPT 4.1越狱提示解析 
 <small>🔗 [github.com](https://github.com/elder-plinius/L1B3RT4S/blob/main/OPENAI.mkd): ChatGPT 4.1 Jailbreak Prompt</small>
 
 
@@ -311,7 +323,7 @@ Herb是一款**智能识别HTML结构**的ERB模板解析工具，能够精准�
 
 ---
 
-## <a name="24"></a>24. Bauplan：基于对象存储的Git式数据管道平台 
+## <a name="25"></a>25. Bauplan：基于对象存储的Git式数据管道平台 
 <small>🔗 [docs.bauplanlabs.com](https://docs.bauplanlabs.com/en/latest/): Bauplan – Git-for-data pipelines on object storage</small>
 
 
@@ -320,17 +332,5 @@ Herb是一款**智能识别HTML结构**的ERB模板解析工具，能够精准�
 
 <br />
 Bauplan是一个**Python优先的无服务器数据湖平台**，专为大规模数据管道设计，提供类似Git的数据版本控制功能。它允许用户通过简单Python函数构建工作流，无需管理基础设施，支持在S3上直接操作**Apache Iceberg表**，实现ACID事务和零拷贝分支。平台核心特性包括**Git-for-data版本追踪**、无服务器管道和全版本SQL查询，适用于AI、ML及数据转换场景，显著降低云原生数据工程的复杂度。
-
----
-
-## <a name="25"></a>25. UCSD p-System与Apple Pascal：未竟的跨平台兼容之梦 
-<small>🔗 [markbessey.blog](https://markbessey.blog/2025/04/14/a-blast-from-the-past/): The UCSD p-System, Apple Pascal, and a dream of cross-platform compatibility</small>
-
-
-| 🔥: 77 \| 💬: [48](https://news.ycombinator.com/item?id=43707805) \| 🗓️ 2025-04-16
-
-
-<br />
-本文回顾了**UCSD p-System**这一1970年代由加州大学圣地亚哥分校开发的跨平台操作系统与编程环境。其核心是通过**p-machine虚拟机**实现Pascal程序的跨硬件运行，支持从PDP-11到Apple II等多种设备。作者分享了自己高中时期使用Apple Pascal的经历，并计划用现代工具（如Rust）重建p-System模拟器，以纪念这一影响深远的系统（启发了Java字节码等技术）。文中还推荐了相关历史资料网站，但指出许多链接已失效。
 
 ---
