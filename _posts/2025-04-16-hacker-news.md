@@ -8,38 +8,26 @@ tags:
 ---
 
 
-1. 达尔文的孩子在《物种起源》手稿上涂鸦（2014）；
 1. OpenAI Codex CLI：终端轻量级编程助手；
-1. 温馨提示：K-Mart顾客请注意；
+1. 达尔文的孩子在《物种起源》手稿上涂鸦（2014）；
 1. 因拒付5万美元安装费，他自建光纤网络惠及数百家庭；
+1. 温馨提示：K-Mart顾客请注意；
 1. CVE基金会正式成立，确保全球漏洞管理生态长期稳定；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共22条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
 ![](/assets/images/hacker_news.jpg)
 
 
-## <a name="1"></a>1. 达尔文的孩子在《物种起源》手稿上涂鸦（2014） 
-<small>🔗 [theappendix.net](https://theappendix.net/posts/2014/02/darwins-children-drew-vegetable-battles-on-the-origin-of-species): Darwin's children drew all over the “On the Origin of Species” manuscript (2014)</small>
-
-
-| 🔥🔥: 314 \| 💬: [96](https://news.ycombinator.com/item?id=43706037) \| 🗓️ 2025-04-16
-
-
-<br />
-2014年达尔文日之际，学者发现**《物种起源》手稿**残存的28页中，竟有达尔文子女的涂鸦。其中一幅被剑桥大学图书馆命名为**《水果蔬菜士兵大战》**，推测由三子弗朗西斯所画，融合了植物观察与战争想象。此外，孩子们还绘制了自然素描和家庭场景，甚至“入侵”了母亲艾玛的日记。这些痕迹展现了**达尔文家庭生活**的鲜活一面，而长女安妮早逝的纪念盒则揭示了科学巨匠背后的温情与伤痛。
-
----
-
-## <a name="2"></a>2. OpenAI Codex CLI：终端轻量级编程助手 
+## <a name="1"></a>1. OpenAI Codex CLI：终端轻量级编程助手 
 <small>🔗 [github.com](https://github.com/openai/codex): OpenAI Codex CLI: Lightweight coding agent that runs in your terminal</small>
 
 
-| 🔥🔥: 309 \| 💬: [185](https://news.ycombinator.com/item?id=43708025) \| 🗓️ 2025-04-16
+| 🔥🔥: 325 \| 💬: [188](https://news.ycombinator.com/item?id=43708025) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -52,23 +40,23 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 
 ---
 
-## <a name="3"></a>3. 温馨提示：K-Mart顾客请注意 
-<small>🔗 [archive.org](https://archive.org/details/attentionkmartshoppers): Attention K-Mart Shoppers</small>
+## <a name="2"></a>2. 达尔文的孩子在《物种起源》手稿上涂鸦（2014） 
+<small>🔗 [theappendix.net](https://theappendix.net/posts/2014/02/darwins-children-drew-vegetable-battles-on-the-origin-of-species): Darwin's children drew all over the “On the Origin of Species” manuscript (2014)</small>
 
 
-| 🔥🔥: 300 \| 💬: [105](https://news.ycombinator.com/item?id=43706706) \| 🗓️ 2025-04-16
+| 🔥🔥: 324 \| 💬: [97](https://news.ycombinator.com/item?id=43706037) \| 🗓️ 2025-04-16
 
 
 <br />
-您将被重定向至**archive.org**的轻量版页面。该操作旨在提升加载速度，尤其适用于网络环境较差的用户。**关键需求**包括确保兼容性与基础功能可用，同时减少数据消耗。请留意页面可能存在的功能限制。
+2014年达尔文日之际，学者发现**《物种起源》手稿**残存的28页中，竟有达尔文子女的涂鸦。其中一幅被剑桥大学图书馆命名为**《水果蔬菜士兵大战》**，推测由三子弗朗西斯所画，融合了植物观察与战争想象。此外，孩子们还绘制了自然素描和家庭场景，甚至“入侵”了母亲艾玛的日记。这些痕迹展现了**达尔文家庭生活**的鲜活一面，而长女安妮早逝的纪念盒则揭示了科学巨匠背后的温情与伤痛。
 
 ---
 
-## <a name="4"></a>4. 因拒付5万美元安装费，他自建光纤网络惠及数百家庭 
+## <a name="3"></a>3. 因拒付5万美元安装费，他自建光纤网络惠及数百家庭 
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/): Man who built ISP instead of paying Comcast expands to hundreds of homes (2022)</small>
 
 
-| 🔥🔥: 284 \| 💬: [132](https://news.ycombinator.com/item?id=43709770) \| 🗓️ 2025-04-16
+| 🔥🔥: 316 \| 💬: [144](https://news.ycombinator.com/item?id=43709770) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -76,11 +64,23 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 
 ---
 
+## <a name="4"></a>4. 温馨提示：K-Mart顾客请注意 
+<small>🔗 [archive.org](https://archive.org/details/attentionkmartshoppers): Attention K-Mart Shoppers</small>
+
+
+| 🔥🔥: 301 \| 💬: [105](https://news.ycombinator.com/item?id=43706706) \| 🗓️ 2025-04-16
+
+
+<br />
+您将被重定向至**archive.org**的轻量版页面。该操作旨在提升加载速度，尤其适用于网络环境较差的用户。**关键需求**包括确保兼容性与基础功能可用，同时减少数据消耗。请留意页面可能存在的功能限制。
+
+---
+
 ## <a name="5"></a>5. CVE基金会正式成立，确保全球漏洞管理生态长期稳定 
 <small>🔗 [thecvefoundation.org](https://www.thecvefoundation.org/home): CVE Foundation</small>
 
 
-| 🔥🔥: 273 \| 💬: [57](https://news.ycombinator.com/item?id=43704430) \| 🗓️ 2025-04-16
+| 🔥🔥: 285 \| 💬: [58](https://news.ycombinator.com/item?id=43704430) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -92,7 +92,7 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 <small>🔗 [euvd.enisa.europa.eu](https://euvd.enisa.europa.eu/): European Union Vulnerability Database (EUVD)</small>
 
 
-| 🔥🔥: 213 \| 💬: [22](https://news.ycombinator.com/item?id=43703949) \| 🗓️ 2025-04-16
+| 🔥🔥: 214 \| 💬: [22](https://news.ycombinator.com/item?id=43703949) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -104,7 +104,7 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 <small>🔗 [antirez.com](https://antirez.com/news/150): Reproducing Hacker News writing style fingerprinting</small>
 
 
-| 🔥🔥: 203 \| 💬: [95](https://news.ycombinator.com/item?id=43705632) \| 🗓️ 2025-04-16
+| 🔥🔥: 213 \| 💬: [101](https://news.ycombinator.com/item?id=43705632) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -113,10 +113,10 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 ---
 
 ## <a name="8"></a>8. 任天堂如何用法律手段绞杀雅达利游戏 
-<small>🔗 [thereader.mitpress.mit.edu](https://thereader.mitpress.mit.edu/how-nintendo-bled-atari-games-to-death/): Nintendo Bled Atari Games to Death</small>
+<small>🔗 [thereader.mitpress.mit.edu](https://thereader.mitpress.mit.edu/how-nintendo-bled-atari-games-to-death/): How Nintendo bled Atari games to death</small>
 
 
-| 🔥🔥: 164 \| 💬: [124](https://news.ycombinator.com/item?id=43704596) \| 🗓️ 2025-04-16
+| 🔥🔥: 171 \| 💬: [124](https://news.ycombinator.com/item?id=43704596) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -128,7 +128,7 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 <small>🔗 [kottke.org](https://kottke.org/25/04/seth-rogan-speaks-truth-to-billionaires-gets-censored-for-it): Seth Rogen Speaks Truth to Billionaires, Gets Censored for It</small>
 
 
-| 🔥🔥: 159 \| 💬: [25](https://news.ycombinator.com/item?id=43711410) \| 🗓️ 2025-04-16
+| 🔥🔥: 168 \| 💬: [31](https://news.ycombinator.com/item?id=43711410) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -140,7 +140,7 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 <small>🔗 [blog.jetbrains.com](https://blog.jetbrains.com/blog/2025/04/16/jetbrains-ides-go-ai/): JetBrains IDEs Go AI: Coding Agent, Smarter Assistance, Free Tier</small>
 
 
-| 🔥🔥: 154 \| 💬: [116](https://news.ycombinator.com/item?id=43704579) \| 🗓️ 2025-04-16
+| 🔥🔥: 156 \| 💬: [116](https://news.ycombinator.com/item?id=43704579) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -152,7 +152,7 @@ JetBrains宣布在其IDE中集成**AI助手**和全新**编程代理Junie**，�
 <small>🔗 [github.com](https://github.com/harishsg993010/damn-vulnerable-MCP-server): Damn Vulnerable MCP Server</small>
 
 
-| 🔥🔥: 150 \| 💬: [45](https://news.ycombinator.com/item?id=43707021) \| 🗓️ 2025-04-16
+| 🔥🔥: 154 \| 💬: [47](https://news.ycombinator.com/item?id=43707021) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -164,7 +164,7 @@ JetBrains宣布在其IDE中集成**AI助手**和全新**编程代理Junie**，�
 <small>🔗 [bjlkeng.io](https://bjlkeng.io/posts/an-introduction-to-stochastic-calculus/): An Introduction to Stochastic Calculus (2022)</small>
 
 
-| 🔥🔥: 143 \| 💬: [40](https://news.ycombinator.com/item?id=43703623) \| 🗓️ 2025-04-16
+| 🔥🔥: 144 \| 💬: [41](https://news.ycombinator.com/item?id=43703623) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -172,7 +172,19 @@ JetBrains宣布在其IDE中集成**AI助手**和全新**编程代理Junie**，�
 
 ---
 
-## <a name="13"></a>13. 6502程序员的奇技淫巧（2019） 
+## <a name="13"></a>13. 一家初创企业的失败复盘：英国住房市场的教训 
+<small>🔗 [buildwithtract.com](https://buildwithtract.com/): A Postmortem of a Startup</small>
+
+
+| 🔥🔥: 139 \| 💬: [109](https://news.ycombinator.com/item?id=43703682) \| 🗓️ 2025-04-16
+
+
+<br />
+2023年至2025年，Tract试图通过优化规划审批流程解决英国住房危机，但最终因**商业模式不可行**而关闭。尽管开发了**AI驱动的规划工具**并筹集了74.4万英镑，团队发现**房地产市场的保守性和碎片化**限制了技术颠覆的空间。关键教训包括：高估市场接受度、过早扩张团队、未聚焦收入验证。创始人建议创业者**优先验证市场**、保持精简，并警惕传统行业的变革阻力。
+
+---
+
+## <a name="14"></a>14. 6502程序员的奇技淫巧（2019） 
 <small>🔗 [nurpax.github.io](https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html): Dirty tricks 6502 programmers use (2019)</small>
 
 
@@ -184,23 +196,11 @@ JetBrains宣布在其IDE中集成**AI助手**和全新**编程代理Junie**，�
 
 ---
 
-## <a name="14"></a>14. 一家初创企业的失败复盘：英国住房市场的教训 
-<small>🔗 [buildwithtract.com](https://buildwithtract.com/): A Postmortem of a Startup</small>
-
-
-| 🔥🔥: 138 \| 💬: [109](https://news.ycombinator.com/item?id=43703682) \| 🗓️ 2025-04-16
-
-
-<br />
-2023年至2025年，Tract试图通过优化规划审批流程解决英国住房危机，但最终因**商业模式不可行**而关闭。尽管开发了**AI驱动的规划工具**并筹集了74.4万英镑，团队发现**房地产市场的保守性和碎片化**限制了技术颠覆的空间。关键教训包括：高估市场接受度、过早扩张团队、未聚焦收入验证。创始人建议创业者**优先验证市场**、保持精简，并警惕传统行业的变革阻力。
-
----
-
 ## <a name="15"></a>15. Kaggle与维基媒体基金会合作推出开放数据 
 <small>🔗 [blog.google](https://blog.google/technology/developers/kaggle-wikimedia/): Kaggle and the Wikimedia Foundation are partnering on open data</small>
 
 
-| 🔥🔥: 122 \| 💬: [34](https://news.ycombinator.com/item?id=43707768) \| 🗓️ 2025-04-16
+| 🔥🔥: 123 \| 💬: [34](https://news.ycombinator.com/item?id=43707768) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -208,7 +208,19 @@ Kaggle平台现托管**维基媒体企业版**的结构化数据测试版（含�
 
 ---
 
-## <a name="16"></a>16. Herb：强大且无缝的HTML感知型ERB解析工具 
+## <a name="16"></a>16. 用Jellyfin替代Spotify的音乐自主之路 
+<small>🔗 [coppolaemilio.com](https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/): Jellyfin as a Spotify alternative</small>
+
+
+| 🔥🔥: 119 \| 💬: [92](https://news.ycombinator.com/item?id=43711706) \| 🗓️ 2025-04-16
+
+
+<br />
+作者放弃Spotify后尝试了多种本地音乐播放方案（如Winamp、VLC、foobar2000），均因**功能局限**或体验不佳放弃。随后自建网页播放器，但受限于离线访问问题。短暂使用苹果Music后，受YouTube视频启发转向**自托管Jellyfin**——支持跨设备同步、离线下载（通过Finamp等客户端），且无需专业设备（旧电脑即可搭建服务器）。这一方案不仅解决了音乐管理痛点，还推动作者探索**自托管生态**（如Immich）。开源工具让用户摆脱平台依赖，掌控数字资产成为可能。
+
+---
+
+## <a name="17"></a>17. Herb：强大且无缝的HTML感知型ERB解析工具 
 <small>🔗 [herb-tools.dev](https://herb-tools.dev/): Herb: Powerful and seamless HTML-aware ERB parsing and tooling</small>
 
 
@@ -220,11 +232,11 @@ Herb是一款**智能识别HTML结构**的ERB模板解析工具，能够精准�
 
 ---
 
-## <a name="17"></a>17. 将Chromium浏览器移植到Unikernel的开源项目 
+## <a name="18"></a>18. 将Chromium浏览器移植到Unikernel的开源项目 
 <small>🔗 [github.com](https://github.com/onkernel/kernel-images): Show HN: We Put Chromium on a Unikernel (OSS Apache 2.0)</small>
 
 
-| 🔥🔥: 104 \| 💬: [35](https://news.ycombinator.com/item?id=43705144) \| 🗓️ 2025-04-16
+| 🔥🔥: 106 \| 💬: [36](https://news.ycombinator.com/item?id=43705144) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -232,11 +244,11 @@ Herb是一款**智能识别HTML结构**的ERB模板解析工具，能够精准�
 
 ---
 
-## <a name="18"></a>18. Zig语言高性能解析器：速度提升2.75倍，内存减少2.47倍 
+## <a name="19"></a>19. Zig语言高性能解析器：速度提升2.75倍，内存减少2.47倍 
 <small>🔗 [github.com](https://github.com/Validark/Accelerated-Zig-Parser): A high-throughput parser for the Zig programming language</small>
 
 
-| 🔥: 96 \| 💬: [8](https://news.ycombinator.com/item?id=43705824) \| 🗓️ 2025-04-16
+| 🔥🔥: 102 \| 💬: [8](https://news.ycombinator.com/item?id=43705824) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -244,11 +256,23 @@ Herb是一款**智能识别HTML结构**的ERB模板解析工具，能够精准�
 
 ---
 
-## <a name="19"></a>19. 科学，无尽的边疆（1945） 
+## <a name="20"></a>20. Zoom服务中断：因域名被误关导致全球访问故障 
+<small>🔗 [status.zoom.us](https://status.zoom.us/incidents/pw9r9vnq5rvk): Zoom outage caused by accidental 'shutting down' of the zoom.us domain</small>
+
+
+| 🔥: 90 \| 💬: [45](https://news.ycombinator.com/item?id=43711957) \| 🗓️ 2025-04-16
+
+
+<br />
+4月16日，**zoom.us域名**因注册商Markmonitor与GoDaddy Registry之间的通信错误被**意外关闭**，导致全球用户约2小时无法访问Zoom服务。故障并非Zoom自身系统问题，三方已协作恢复并承诺改进流程。若仍遇连接问题，建议**刷新DNS缓存**。受影响服务包括会议、电话、客服中心及官网。
+
+---
+
+## <a name="21"></a>21. 科学，无尽的边疆（1945） 
 <small>🔗 [nsf-gov-resources.nsf.gov](https://nsf-gov-resources.nsf.gov/2023-04/EndlessFrontier75th_w.pdf): Science, the Endless Frontier (1945) [pdf]</small>
 
 
-| 🔥: 87 \| 💬: [16](https://news.ycombinator.com/item?id=43705796) \| 🗓️ 2025-04-16
+| 🔥: 88 \| 💬: [15](https://news.ycombinator.com/item?id=43705796) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -256,7 +280,7 @@ Herb是一款**智能识别HTML结构**的ERB模板解析工具，能够精准�
 
 ---
 
-## <a name="20"></a>20. ChatGPT 4.1越狱提示解析 
+## <a name="22"></a>22. ChatGPT 4.1越狱提示解析 
 <small>🔗 [github.com](https://github.com/elder-plinius/L1B3RT4S/blob/main/OPENAI.mkd): ChatGPT 4.1 Jailbreak Prompt</small>
 
 
@@ -275,7 +299,7 @@ Herb是一款**智能识别HTML结构**的ERB模板解析工具，能够精准�
 
 ---
 
-## <a name="21"></a>21. Bauplan：基于对象存储的Git式数据管道平台 
+## <a name="23"></a>23. Bauplan：基于对象存储的Git式数据管道平台 
 <small>🔗 [docs.bauplanlabs.com](https://docs.bauplanlabs.com/en/latest/): Bauplan – Git-for-data pipelines on object storage</small>
 
 
@@ -287,11 +311,11 @@ Bauplan是一个**Python优先的无服务器数据湖平台**，专为大规模
 
 ---
 
-## <a name="22"></a>22. UCSD p-System与Apple Pascal：未竟的跨平台兼容之梦 
+## <a name="24"></a>24. UCSD p-System与Apple Pascal：未竟的跨平台兼容之梦 
 <small>🔗 [markbessey.blog](https://markbessey.blog/2025/04/14/a-blast-from-the-past/): The UCSD p-System, Apple Pascal, and a dream of cross-platform compatibility</small>
 
 
-| 🔥: 75 \| 💬: [45](https://news.ycombinator.com/item?id=43707805) \| 🗓️ 2025-04-16
+| 🔥: 76 \| 💬: [47](https://news.ycombinator.com/item?id=43707805) \| 🗓️ 2025-04-16
 
 
 <br />
