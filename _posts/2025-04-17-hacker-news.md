@@ -10,13 +10,13 @@ tags:
 
 1. TikTok正以工业级规模危害儿童健康；
 1. 深度解析DeepSeek分布式文件系统3FS；
-1. 科学家发现太阳系外行星存在潜在生命迹象；
 1. Gemini 2.5 Flash：谷歌推出高性价比混合推理模型；
+1. 科学家发现太阳系外行星存在潜在生命迹象；
 1. 美国政府威胁禁止哈佛招收国际学生；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共21条，具体内容您往下读...
+总共22条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [afterbabel.com](https://www.afterbabel.com/p/industrial-scale-harm-tiktok): TikTok is harming children at an industrial scale</small>
 
 
-| 🔥🔥: 550 \| 💬: [622](https://news.ycombinator.com/item?id=43716665) \| 🗓️ 2025-04-17
+| 🔥🔥: 552 \| 💬: [629](https://news.ycombinator.com/item?id=43716665) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [maknee.github.io](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/): An intro to DeepSeek's distributed file system</small>
 
 
-| 🔥🔥: 412 \| 💬: [67](https://news.ycombinator.com/item?id=43716058) \| 🗓️ 2025-04-17
+| 🔥🔥: 437 \| 💬: [67](https://news.ycombinator.com/item?id=43716058) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -47,23 +47,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 科学家发现太阳系外行星存在潜在生命迹象 
-<small>🔗 [skyatnightmagazine.com](https://www.skyatnightmagazine.com/news/k2-18b-dimethyl-sulfide): “Most promising signs yet” of alien life on a planet beyond our Solar System</small>
-
-
-| 🔥🔥: 385 \| 💬: [314](https://news.ycombinator.com/item?id=43714203) \| 🗓️ 2025-04-17
-
-
-<br />
-天文学家利用**詹姆斯·韦伯太空望远镜**在距地球124光年的**K2-18b**行星大气中检测到二甲基硫醚和二甲基二硫醚，这些化学物质在地球上仅由海洋微生物产生。该行星位于恒星宜居带，可能拥有液态水和富氢大气，符合"海洋行星"特征。虽然探测结果达到**三西格玛置信度**（偶然性概率0.3%），但团队强调仍需进一步验证，以排除非生物成因可能性。这是迄今为止太阳系外存在生命的最有力证据，或将成为人类探索宇宙生命的重要转折点。
-
----
-
-## <a name="4"></a>4. Gemini 2.5 Flash：谷歌推出高性价比混合推理模型 
+## <a name="3"></a>3. Gemini 2.5 Flash：谷歌推出高性价比混合推理模型 
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/): Gemini 2.5 Flash</small>
 
 
-| 🔥🔥: 351 \| 💬: [186](https://news.ycombinator.com/item?id=43720845) \| 🗓️ 2025-04-17
+| 🔥🔥: 413 \| 💬: [218](https://news.ycombinator.com/item?id=43720845) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -71,11 +59,23 @@ tags:
 
 ---
 
+## <a name="4"></a>4. 科学家发现太阳系外行星存在潜在生命迹象 
+<small>🔗 [skyatnightmagazine.com](https://www.skyatnightmagazine.com/news/k2-18b-dimethyl-sulfide): “Most promising signs yet” of alien life on a planet beyond our Solar System</small>
+
+
+| 🔥🔥: 387 \| 💬: [314](https://news.ycombinator.com/item?id=43714203) \| 🗓️ 2025-04-17
+
+
+<br />
+天文学家利用**詹姆斯·韦伯太空望远镜**在距地球124光年的**K2-18b**行星大气中检测到二甲基硫醚和二甲基二硫醚，这些化学物质在地球上仅由海洋微生物产生。该行星位于恒星宜居带，可能拥有液态水和富氢大气，符合"海洋行星"特征。虽然探测结果达到**三西格玛置信度**（偶然性概率0.3%），但团队强调仍需进一步验证，以排除非生物成因可能性。这是迄今为止太阳系外存在生命的最有力证据，或将成为人类探索宇宙生命的重要转折点。
+
+---
+
 ## <a name="5"></a>5. 美国政府威胁禁止哈佛招收国际学生 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c1egdy24v7po): US Government threatens Harvard with foreign student ban</small>
 
 
-| 🔥🔥: 267 \| 💬: [328](https://news.ycombinator.com/item?id=43715022) \| 🗓️ 2025-04-17
+| 🔥🔥: 293 \| 💬: [341](https://news.ycombinator.com/item?id=43715022) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [wired.com](https://www.wired.com/story/massive-blue-overwatch-ai-personas-police-suspects/): This 'College Protester' Isn't Real. It's an AI-Powered Undercover Bot for Cops</small>
 
 
-| 🔥🔥: 212 \| 💬: [213](https://news.ycombinator.com/item?id=43716939) \| 🗓️ 2025-04-17
+| 🔥🔥: 218 \| 💬: [215](https://news.ycombinator.com/item?id=43716939) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/04/11/encryption-is-not-a-crime/): Encryption Is Not a Crime</small>
 
 
-| 🔥🔥: 200 \| 💬: [202](https://news.ycombinator.com/item?id=43716138) \| 🗓️ 2025-04-17
+| 🔥🔥: 201 \| 💬: [202](https://news.ycombinator.com/item?id=43716138) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [sharpletters.net](https://sharpletters.net/2025/04/16/hdr-emoji/): HDR‑Infused Emoji</small>
 
 
-| 🔥🔥: 165 \| 💬: [95](https://news.ycombinator.com/item?id=43717606) \| 🗓️ 2025-04-17
+| 🔥🔥: 183 \| 💬: [106](https://news.ycombinator.com/item?id=43717606) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -123,7 +123,7 @@ tags:
 <small>🔗 [tokyoweekender.com](https://www.tokyoweekender.com/art_and_culture/japanese-culture/oda-ujiharu-the-weakest-samurai-warlord/): Oda Ujiharu: Why the ‘weakest Samurai warlord’ is admired</small>
 
 
-| 🔥🔥: 143 \| 💬: [56](https://news.ycombinator.com/item?id=43714619) \| 🗓️ 2025-04-17
+| 🔥🔥: 145 \| 💬: [56](https://news.ycombinator.com/item?id=43714619) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -135,7 +135,7 @@ tags:
 <small>🔗 [nvd.nist.gov](https://nvd.nist.gov/vuln/detail/CVE-2025-32433): Unauthenticated Remote Code Execution in Erlang/OTP SSH</small>
 
 
-| 🔥🔥: 138 \| 💬: [39](https://news.ycombinator.com/item?id=43716526) \| 🗓️ 2025-04-17
+| 🔥🔥: 144 \| 💬: [40](https://news.ycombinator.com/item?id=43716526) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -147,7 +147,7 @@ Erlang/OTP 是一套 Erlang 编程语言的库。在 **OTP-27.3.3、OTP-26.2.5.1
 <small>🔗 [feldera.com](https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates): Cutting down Rust compile times from 30 to 2 minutes with one thousand crates</small>
 
 
-| 🔥🔥: 122 \| 💬: [68](https://news.ycombinator.com/item?id=43715235) \| 🗓️ 2025-04-17
+| 🔥🔥: 124 \| 💬: [68](https://news.ycombinator.com/item?id=43715235) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -159,7 +159,7 @@ Feldera团队通过将**单一大箱体拆分为1106个小箱体**，成功将�
 <small>🔗 [uniforumchicago.org](http://uniforumchicago.org/slides/bash1.pdf): Advanced Shell Scripting with Bash (2006) [pdf]</small>
 
 
-| 🔥🔥: 118 \| 💬: [87](https://news.ycombinator.com/item?id=43714594) \| 🗓️ 2025-04-17
+| 🔥🔥: 120 \| 💬: [88](https://news.ycombinator.com/item?id=43714594) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -167,7 +167,31 @@ Feldera团队通过将**单一大箱体拆分为1106个小箱体**，成功将�
 
 ---
 
-## <a name="13"></a>13. 在Apple Silicon上使用UTM搭建Linux开发环境 
+## <a name="13"></a>13. AGI仍需30年：Ege Erdil与Tamay Besiroglu的长期预测 
+<small>🔗 [dwarkesh.com](https://www.dwarkesh.com/p/ege-tamay): AGI Is Still 30 Years Away – Ege Erdil and Tamay Besiroglu</small>
+
+
+| 🔥🔥: 117 \| 💬: [234](https://news.ycombinator.com/item?id=43719280) \| 🗓️ 2025-04-17
+
+
+<br />
+Ege Erdil和Tamay Besiroglu认为，**通用人工智能（AGI）**至少还需30年才能实现，预计在2045年后才可能替代人类完成所有远程工作。他们指出，当前AI虽在语言、推理等领域进步显著，但**经济全面自动化**仍需突破多项核心能力，且受限于算力增长的物理瓶颈。两人强调，**工业革命类比**更适用于理解AI发展——技术变革是多元协同的结果，而非单纯的“智能爆炸”。此外，他们认为现有模型仍缺乏长期自主性和多模态理解等关键能力，短期内无法替代复杂的人类工作。
+
+---
+
+## <a name="14"></a>14. 密尔沃基M18电池逆向工程揭秘 
+<small>🔗 [quagmirerepair.com](https://quagmirerepair.com/milwaukee-m18-battery-reverse-engineering): Milwaukee M18 Battery Reverse Engineering</small>
+
+
+| 🔥🔥: 107 \| 💬: [34](https://news.ycombinator.com/item?id=43718809) \| 🗓️ 2025-04-17
+
+
+<br />
+作者拆解了一款**密尔沃基M18 3Ah电池**（型号48-11-1828），发现其采用**德州仪器MSP430G2744微控制器**和**BQ76925电池监控芯片**，电路设计基本复刻了TI参考方案。逆向过程中遇到多层PCB解析、元件标记模糊等挑战，最终通过溶剂清洗和砂纸打磨揭示了各层走线。电池通过**2000波特率串口**与充电器通信，但部分工具（如LED手电筒）未启用该功能。后续由Tool Scientist团队进一步研究发现，工具与电池通过**12V/3V电压握手**触发交互，但原设计未实现电池均衡功能。
+
+---
+
+## <a name="15"></a>15. 在Apple Silicon上使用UTM搭建Linux开发环境 
 <small>🔗 [rkiselenko.dev](https://rkiselenko.dev/blog/development-on-mac-with-utm/development-on-mac-with-lima/): Development on Apple Silicon with UTM</small>
 
 
@@ -179,35 +203,11 @@ Feldera团队通过将**单一大箱体拆分为1106个小箱体**，成功将�
 
 ---
 
-## <a name="14"></a>14. 美国研究发现多款牙膏含铅等重金属 
-<small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/apr/17/toothpaste-lead-heavy-metals): Toothpaste widely contaminated with lead and other metals, US research finds</small>
-
-
-| 🔥: 97 \| 💬: [95](https://news.ycombinator.com/item?id=43716110) \| 🗓️ 2025-04-17
-
-
-<br />
-美国研究机构Lead Safe Mama检测51种牙膏品牌发现，**90%含铅**，65%含砷，近半数含汞，三分之一含镉。**儿童牙膏及标榜“天然”产品也未能幸免**，部分超标美国州标准。铅、砷等重金属可导致儿童认知损伤、心脏病及癌症。污染源可能来自羟基磷灰石、碳酸钙和膨润土等成分。目前涉事企业未承诺整改，部分辩称“痕量铅无法避免”。**华盛顿州已立法限制铅含量**，但FDA现行标准仍宽松。
-
----
-
-## <a name="15"></a>15. AGI仍需30年：Ege Erdil与Tamay Besiroglu的长期预测 
-<small>🔗 [dwarkesh.com](https://www.dwarkesh.com/p/ege-tamay): AGI Is Still 30 Years Away – Ege Erdil and Tamay Besiroglu</small>
-
-
-| 🔥: 95 \| 💬: [196](https://news.ycombinator.com/item?id=43719280) \| 🗓️ 2025-04-17
-
-
-<br />
-Ege Erdil和Tamay Besiroglu认为，**通用人工智能（AGI）**至少还需30年才能实现，预计在2045年后才可能替代人类完成所有远程工作。他们指出，当前AI虽在语言、推理等领域进步显著，但**经济全面自动化**仍需突破多项核心能力，且受限于算力增长的物理瓶颈。两人强调，**工业革命类比**更适用于理解AI发展——技术变革是多元协同的结果，而非单纯的“智能爆炸”。此外，他们认为现有模型仍缺乏长期自主性和多模态理解等关键能力，短期内无法替代复杂的人类工作。
-
----
-
 ## <a name="16"></a>16. OpenAI曾考虑收购Cursor开发商，后转向收购Windsurf 
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/17/openai-looked-at-cursor-before-considering-deal-with-rival-windsurf.html): OpenAI looked at buying Cursor creator before turning to Windsurf</small>
 
 
-| 🔥: 93 \| 💬: [73](https://news.ycombinator.com/item?id=43716856) \| 🗓️ 2025-04-17
+| 🔥: 98 \| 💬: [76](https://news.ycombinator.com/item?id=43716856) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -215,11 +215,23 @@ Ege Erdil和Tamay Besiroglu认为，**通用人工智能（AGI）**至少还需3
 
 ---
 
-## <a name="17"></a>17. AgentAPI：控制多款AI编程助手的HTTP接口工具 
+## <a name="17"></a>17. 美国研究发现多款牙膏含铅等重金属 
+<small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/apr/17/toothpaste-lead-heavy-metals): Toothpaste widely contaminated with lead and other metals, US research finds</small>
+
+
+| 🔥: 97 \| 💬: [96](https://news.ycombinator.com/item?id=43716110) \| 🗓️ 2025-04-17
+
+
+<br />
+美国研究机构Lead Safe Mama检测51种牙膏品牌发现，**90%含铅**，65%含砷，近半数含汞，三分之一含镉。**儿童牙膏及标榜“天然”产品也未能幸免**，部分超标美国州标准。铅、砷等重金属可导致儿童认知损伤、心脏病及癌症。污染源可能来自羟基磷灰石、碳酸钙和膨润土等成分。目前涉事企业未承诺整改，部分辩称“痕量铅无法避免”。**华盛顿州已立法限制铅含量**，但FDA现行标准仍宽松。
+
+---
+
+## <a name="18"></a>18. AgentAPI：控制多款AI编程助手的HTTP接口工具 
 <small>🔗 [github.com](https://github.com/coder/agentapi): Show HN: AgentAPI – HTTP API for Claude Code, Goose, Aider, and Codex</small>
 
 
-| 🔥: 90 \| 💬: [8](https://news.ycombinator.com/item?id=43719447) \| 🗓️ 2025-04-17
+| 🔥: 95 \| 💬: [8](https://news.ycombinator.com/item?id=43719447) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -227,23 +239,23 @@ Ege Erdil和Tamay Besiroglu认为，**通用人工智能（AGI）**至少还需3
 
 ---
 
-## <a name="18"></a>18. 密尔沃基M18电池逆向工程揭秘 
-<small>🔗 [quagmirerepair.com](https://quagmirerepair.com/milwaukee-m18-battery-reverse-engineering): Milwaukee M18 Battery Reverse Engineering</small>
+## <a name="19"></a>19. Discord试点人脸扫描年龄验证 或成行业趋势开端 
+<small>🔗 [bbc.com](https://www.bbc.com/news/articles/cjr75wypg0vo): Discord's face scanning age checks 'start of a bigger shift'</small>
 
 
-| 🔥: 89 \| 💬: [30](https://news.ycombinator.com/item?id=43718809) \| 🗓️ 2025-04-17
+| 🔥: 91 \| 💬: [142](https://news.ycombinator.com/item?id=43715884) \| 🗓️ 2025-04-17
 
 
 <br />
-作者拆解了一款**密尔沃基M18 3Ah电池**（型号48-11-1828），发现其采用**德州仪器MSP430G2744微控制器**和**BQ76925电池监控芯片**，电路设计基本复刻了TI参考方案。逆向过程中遇到多层PCB解析、元件标记模糊等挑战，最终通过溶剂清洗和砂纸打磨揭示了各层走线。电池通过**2000波特率串口**与充电器通信，但部分工具（如LED手电筒）未启用该功能。后续由Tool Scientist团队进一步研究发现，工具与电池通过**12V/3V电压握手**触发交互，但原设计未实现电池均衡功能。
+Discord正在英国和澳大利亚测试**人脸扫描年龄验证**，以应对即将生效的英国《网络安全法》对成人内容的严格监管。专家Matt Navarra指出，**"点击确认年龄13岁"的时代已终结**，未来平台可能普遍采用生物识别技术。但隐私组织警告，此类验证存在**数据泄露和数字排斥风险**。Discord强调扫描数据仅存于设备且不收集ID信息，而Meta等企业已先行类似措施。澳大利亚拟禁止16岁以下使用社媒，凸显全球对未成年网络保护的强化趋势。
 
 ---
 
-## <a name="19"></a>19. 用AI打造橄榄球赛事分析系统 
+## <a name="20"></a>20. 用AI打造橄榄球赛事分析系统 
 <small>🔗 [nickjones.tech](https://nickjones.tech/ai-watching-rugby/): Building an AI that watches rugby</small>
 
 
-| 🔥: 74 \| 💬: [40](https://news.ycombinator.com/item?id=43714902) \| 🗓️ 2025-04-17
+| 🔥: 76 \| 💬: [40](https://news.ycombinator.com/item?id=43714902) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -251,7 +263,19 @@ Ege Erdil和Tamay Besiroglu认为，**通用人工智能（AGI）**至少还需3
 
 ---
 
-## <a name="20"></a>20. 社区学院深陷“机器人学生”骗局，教师被迫化身侦探 
+## <a name="21"></a>21. mIRC 7.81 版本发布 
+<small>🔗 [mirc.com](https://www.mirc.com/): mIRC 7.81</small>
+
+
+| 🔥: 75 \| 💬: [90](https://news.ycombinator.com/item?id=43715306) \| 🗓️ 2025-04-17
+
+
+<br />
+mIRC 是一款**全球流行**的 IRC 聊天客户端，被个人和组织广泛用于沟通、娱乐和工作。经过二十多年的发展，它已成为一款**强大可靠**的工具。最新版本 **7.81** 已发布，用户可通过邮件订阅获取更新通知，或访问论坛参与讨论。mIRC 持续为网络社区提供高效便捷的交流体验。
+
+---
+
+## <a name="22"></a>22. 社区学院深陷“机器人学生”骗局，教师被迫化身侦探 
 <small>🔗 [voiceofsandiego.org](https://voiceofsandiego.org/2025/04/14/as-bot-students-continue-to-flood-in-community-colleges-struggle-to-respond/): As 'Bot' Students Continue to Flood In, Community Colleges Struggle to Respond</small>
 
 
@@ -260,17 +284,5 @@ Ege Erdil和Tamay Besiroglu认为，**通用人工智能（AGI）**至少还需3
 
 <br />
 自疫情推动在线课程激增以来，**社区学院**遭遇大规模**机器人学生**欺诈。这些虚假账号通过AI生成作业骗取**政府助学金**，导致教师耗费大量时间甄别真伪。加州2024年因此损失超1100万美元，部分课程甚至80%注册者为机器人。尽管学院成立专项小组并引入身份验证技术，但欺诈手段不断升级，教师批评校方应对迟缓。在线教育灵活性受威胁，真实学生选课难度增加，凸显技术漏洞与制度缺陷的双重困境。
-
----
-
-## <a name="21"></a>21. mIRC 7.81 版本发布 
-<small>🔗 [mirc.com](https://www.mirc.com/): mIRC 7.81</small>
-
-
-| 🔥: 72 \| 💬: [89](https://news.ycombinator.com/item?id=43715306) \| 🗓️ 2025-04-17
-
-
-<br />
-mIRC 是一款**全球流行**的 IRC 聊天客户端，被个人和组织广泛用于沟通、娱乐和工作。经过二十多年的发展，它已成为一款**强大可靠**的工具。最新版本 **7.81** 已发布，用户可通过邮件订阅获取更新通知，或访问论坛参与讨论。mIRC 持续为网络社区提供高效便捷的交流体验。
 
 ---
