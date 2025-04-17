@@ -8,8 +8,8 @@ tags:
 ---
 
 
-1. OpenAI Codex CLI：终端轻量级编程助手；
 1. 因拒付5万美元安装费，他自建光纤网络惠及数百家庭；
+1. OpenAI Codex CLI：终端轻量级编程助手；
 1. 达尔文的孩子在《物种起源》手稿上涂鸦（2014）；
 1. CVE基金会正式成立，确保全球漏洞管理生态长期稳定；
 1. 温馨提示：K-Mart顾客请注意；
@@ -23,11 +23,23 @@ tags:
 ![](/assets/images/hacker_news.jpg)
 
 
-## <a name="1"></a>1. OpenAI Codex CLI：终端轻量级编程助手 
+## <a name="1"></a>1. 因拒付5万美元安装费，他自建光纤网络惠及数百家庭 
+<small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/): Man who built ISP instead of paying Comcast expands to hundreds of homes (2022)</small>
+
+
+| 🔥🔥: 401 \| 💬: [174](https://news.ycombinator.com/item?id=43709770) \| 🗓️ 2025-04-16
+
+
+<br />
+美国密歇根州的**Jared Mauch**因无法从AT&T或康卡斯特获得可靠宽带服务，自建了光纤到户网络。如今，他获得**260万美元政府资金**支持，将服务扩展至600多户家庭。最初仅为30户提供服务的**Washtenaw Fiber Properties**公司，现以55美元/月的价格提供100Mbps对称网络，并承诺参与低收入家庭补贴计划。此前，康卡斯特曾向他索要5万美元安装费，而AT&T仅提供1.5Mbps的DSL服务。该项目预计2026年完工，但Mauch计划提前至2023年完成。
+
+---
+
+## <a name="2"></a>2. OpenAI Codex CLI：终端轻量级编程助手 
 <small>🔗 [github.com](https://github.com/openai/codex): OpenAI Codex CLI: Lightweight coding agent that runs in your terminal</small>
 
 
-| 🔥🔥: 376 \| 💬: [203](https://news.ycombinator.com/item?id=43708025) \| 🗓️ 2025-04-16
+| 🔥🔥: 392 \| 💬: [212](https://news.ycombinator.com/item?id=43708025) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -40,23 +52,11 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 
 ---
 
-## <a name="2"></a>2. 因拒付5万美元安装费，他自建光纤网络惠及数百家庭 
-<small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/): Man who built ISP instead of paying Comcast expands to hundreds of homes (2022)</small>
-
-
-| 🔥🔥: 373 \| 💬: [171](https://news.ycombinator.com/item?id=43709770) \| 🗓️ 2025-04-16
-
-
-<br />
-美国密歇根州的**Jared Mauch**因无法从AT&T或康卡斯特获得可靠宽带服务，自建了光纤到户网络。如今，他获得**260万美元政府资金**支持，将服务扩展至600多户家庭。最初仅为30户提供服务的**Washtenaw Fiber Properties**公司，现以55美元/月的价格提供100Mbps对称网络，并承诺参与低收入家庭补贴计划。此前，康卡斯特曾向他索要5万美元安装费，而AT&T仅提供1.5Mbps的DSL服务。该项目预计2026年完工，但Mauch计划提前至2023年完成。
-
----
-
 ## <a name="3"></a>3. 达尔文的孩子在《物种起源》手稿上涂鸦（2014） 
 <small>🔗 [theappendix.net](https://theappendix.net/posts/2014/02/darwins-children-drew-vegetable-battles-on-the-origin-of-species): Darwin's children drew all over the “On the Origin of Species” manuscript (2014)</small>
 
 
-| 🔥🔥: 363 \| 💬: [103](https://news.ycombinator.com/item?id=43706037) \| 🗓️ 2025-04-16
+| 🔥🔥: 379 \| 💬: [105](https://news.ycombinator.com/item?id=43706037) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -68,7 +68,7 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 <small>🔗 [thecvefoundation.org](https://www.thecvefoundation.org/home): CVE Foundation</small>
 
 
-| 🔥🔥: 322 \| 💬: [63](https://news.ycombinator.com/item?id=43704430) \| 🗓️ 2025-04-16
+| 🔥🔥: 342 \| 💬: [66](https://news.ycombinator.com/item?id=43704430) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -92,7 +92,7 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 <small>🔗 [status.zoom.us](https://status.zoom.us/incidents/pw9r9vnq5rvk): Zoom outage caused by accidental 'shutting down' of the zoom.us domain</small>
 
 
-| 🔥🔥: 245 \| 💬: [117](https://news.ycombinator.com/item?id=43711957) \| 🗓️ 2025-04-16
+| 🔥🔥: 278 \| 💬: [140](https://news.ycombinator.com/item?id=43711957) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -104,7 +104,7 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 <small>🔗 [antirez.com](https://antirez.com/news/150): Reproducing Hacker News writing style fingerprinting</small>
 
 
-| 🔥🔥: 238 \| 💬: [121](https://news.ycombinator.com/item?id=43705632) \| 🗓️ 2025-04-16
+| 🔥🔥: 257 \| 💬: [123](https://news.ycombinator.com/item?id=43705632) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -112,7 +112,19 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 
 ---
 
-## <a name="8"></a>8. 欧盟漏洞数据库（EUVD） 
+## <a name="8"></a>8. 用Jellyfin替代Spotify的音乐自主之路 
+<small>🔗 [coppolaemilio.com](https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/): Jellyfin as a Spotify alternative</small>
+
+
+| 🔥🔥: 247 \| 💬: [212](https://news.ycombinator.com/item?id=43711706) \| 🗓️ 2025-04-16
+
+
+<br />
+作者放弃Spotify后尝试了多种本地音乐播放方案（如Winamp、VLC、foobar2000），均因**功能局限**或体验不佳放弃。随后自建网页播放器，但受限于离线访问问题。短暂使用苹果Music后，受YouTube视频启发转向**自托管Jellyfin**——支持跨设备同步、离线下载（通过Finamp等客户端），且无需专业设备（旧电脑即可搭建服务器）。这一方案不仅解决了音乐管理痛点，还推动作者探索**自托管生态**（如Immich）。开源工具让用户摆脱平台依赖，掌控数字资产成为可能。
+
+---
+
+## <a name="9"></a>9. 欧盟漏洞数据库（EUVD） 
 <small>🔗 [euvd.enisa.europa.eu](https://euvd.enisa.europa.eu/): European Union Vulnerability Database (EUVD)</small>
 
 
@@ -124,23 +136,11 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 
 ---
 
-## <a name="9"></a>9. 用Jellyfin替代Spotify的音乐自主之路 
-<small>🔗 [coppolaemilio.com](https://coppolaemilio.com/entries/i-left-spotify-what-happened-next/): Jellyfin as a Spotify alternative</small>
-
-
-| 🔥🔥: 211 \| 💬: [184](https://news.ycombinator.com/item?id=43711706) \| 🗓️ 2025-04-16
-
-
-<br />
-作者放弃Spotify后尝试了多种本地音乐播放方案（如Winamp、VLC、foobar2000），均因**功能局限**或体验不佳放弃。随后自建网页播放器，但受限于离线访问问题。短暂使用苹果Music后，受YouTube视频启发转向**自托管Jellyfin**——支持跨设备同步、离线下载（通过Finamp等客户端），且无需专业设备（旧电脑即可搭建服务器）。这一方案不仅解决了音乐管理痛点，还推动作者探索**自托管生态**（如Immich）。开源工具让用户摆脱平台依赖，掌控数字资产成为可能。
-
----
-
 ## <a name="10"></a>10. 匿名组织曝光10TB数据：揭露克里姆林宫资产与俄罗斯商业内幕 
 <small>🔗 [trendsnewsline.com](https://trendsnewsline.com/2025/04/15/anonymous-leaks-10tb-of-data-on-russia-shocking-revelations/): Anonymous Release 10TB Leaked Data Exposing Kremlin Assets, Russian Businesses</small>
 
 
-| 🔥🔥: 210 \| 💬: [87](https://news.ycombinator.com/item?id=43703812) \| 🗓️ 2025-04-16
+| 🔥🔥: 211 \| 💬: [88](https://news.ycombinator.com/item?id=43703812) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -152,7 +152,7 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 <small>🔗 [thereader.mitpress.mit.edu](https://thereader.mitpress.mit.edu/how-nintendo-bled-atari-games-to-death/): How Nintendo bled Atari games to death</small>
 
 
-| 🔥🔥: 183 \| 💬: [127](https://news.ycombinator.com/item?id=43704596) \| 🗓️ 2025-04-16
+| 🔥🔥: 188 \| 💬: [132](https://news.ycombinator.com/item?id=43704596) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -164,7 +164,7 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 <small>🔗 [kottke.org](https://kottke.org/25/04/seth-rogan-speaks-truth-to-billionaires-gets-censored-for-it): Seth Rogen Speaks Truth to Billionaires, Gets Censored for It</small>
 
 
-| 🔥🔥: 179 \| 💬: [35](https://news.ycombinator.com/item?id=43711410) \| 🗓️ 2025-04-16
+| 🔥🔥: 183 \| 💬: [36](https://news.ycombinator.com/item?id=43711410) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -176,7 +176,7 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 <small>🔗 [github.com](https://github.com/harishsg993010/damn-vulnerable-MCP-server): Damn Vulnerable MCP Server</small>
 
 
-| 🔥🔥: 172 \| 💬: [50](https://news.ycombinator.com/item?id=43707021) \| 🗓️ 2025-04-16
+| 🔥🔥: 176 \| 💬: [52](https://news.ycombinator.com/item?id=43707021) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -188,7 +188,7 @@ OpenAI Codex CLI 是一款运行在终端的**轻量级编程助手**，支持�
 <small>🔗 [blog.jetbrains.com](https://blog.jetbrains.com/blog/2025/04/16/jetbrains-ides-go-ai/): JetBrains IDEs Go AI: Coding Agent, Smarter Assistance, Free Tier</small>
 
 
-| 🔥🔥: 159 \| 💬: [118](https://news.ycombinator.com/item?id=43704579) \| 🗓️ 2025-04-16
+| 🔥🔥: 161 \| 💬: [119](https://news.ycombinator.com/item?id=43704579) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -200,7 +200,7 @@ JetBrains宣布在其IDE中集成**AI助手**和全新**编程代理Junie**，�
 <small>🔗 [bjlkeng.io](https://bjlkeng.io/posts/an-introduction-to-stochastic-calculus/): An Introduction to Stochastic Calculus (2022)</small>
 
 
-| 🔥🔥: 154 \| 💬: [41](https://news.ycombinator.com/item?id=43703623) \| 🗓️ 2025-04-16
+| 🔥🔥: 155 \| 💬: [41](https://news.ycombinator.com/item?id=43703623) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -212,7 +212,7 @@ JetBrains宣布在其IDE中集成**AI助手**和全新**编程代理Junie**，�
 <small>🔗 [buildwithtract.com](https://buildwithtract.com/): A Postmortem of a Startup</small>
 
 
-| 🔥🔥: 145 \| 💬: [111](https://news.ycombinator.com/item?id=43703682) \| 🗓️ 2025-04-16
+| 🔥🔥: 147 \| 💬: [111](https://news.ycombinator.com/item?id=43703682) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -224,7 +224,7 @@ JetBrains宣布在其IDE中集成**AI助手**和全新**编程代理Junie**，�
 <small>🔗 [nurpax.github.io](https://nurpax.github.io/posts/2019-08-18-dirty-tricks-6502-programmers-use.html): Dirty tricks 6502 programmers use (2019)</small>
 
 
-| 🔥🔥: 145 \| 💬: [44](https://news.ycombinator.com/item?id=43705649) \| 🗓️ 2025-04-16
+| 🔥🔥: 147 \| 💬: [45](https://news.ycombinator.com/item?id=43705649) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -236,7 +236,7 @@ JetBrains宣布在其IDE中集成**AI助手**和全新**编程代理Junie**，�
 <small>🔗 [blog.google](https://blog.google/technology/developers/kaggle-wikimedia/): Kaggle and the Wikimedia Foundation are partnering on open data</small>
 
 
-| 🔥🔥: 126 \| 💬: [34](https://news.ycombinator.com/item?id=43707768) \| 🗓️ 2025-04-16
+| 🔥🔥: 126 \| 💬: [35](https://news.ycombinator.com/item?id=43707768) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -244,23 +244,11 @@ Kaggle平台现托管**维基媒体企业版**的结构化数据测试版（含�
 
 ---
 
-## <a name="19"></a>19. 将Chromium浏览器移植到Unikernel的开源项目 
-<small>🔗 [github.com](https://github.com/onkernel/kernel-images): Show HN: We Put Chromium on a Unikernel (OSS Apache 2.0)</small>
-
-
-| 🔥🔥: 111 \| 💬: [38](https://news.ycombinator.com/item?id=43705144) \| 🗓️ 2025-04-16
-
-
-<br />
-该项目通过**Unikernel技术**实现了轻量化、高性能的浏览器部署方案，支持Docker和Unikraft两种运行环境。核心功能包括预配置的**Chromium浏览器**（兼容Playwright/Puppeteer）、远程GUI监控及Anthropic AI代理集成。Unikernel版本独有优势：闲置时自动休眠（资源占用极低）、状态快照恢复、毫秒级冷启动。适用于自动化工作流、AI代理测试等场景，采用**Apache 2.0开源协议**，团队正招聘后端工程师拓展AI基础设施。
-
----
-
-## <a name="20"></a>20. Zig语言高性能解析器：速度提升2.75倍，内存减少2.47倍 
+## <a name="19"></a>19. Zig语言高性能解析器：速度提升2.75倍，内存减少2.47倍 
 <small>🔗 [github.com](https://github.com/Validark/Accelerated-Zig-Parser): A high-throughput parser for the Zig programming language</small>
 
 
-| 🔥🔥: 111 \| 💬: [9](https://news.ycombinator.com/item?id=43705824) \| 🗓️ 2025-04-16
+| 🔥🔥: 115 \| 💬: [9](https://news.ycombinator.com/item?id=43705824) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -268,15 +256,27 @@ Kaggle平台现托管**维基媒体企业版**的结构化数据测试版（含�
 
 ---
 
-## <a name="21"></a>21. Herb：强大且无缝的HTML感知型ERB解析工具 
-<small>🔗 [herb-tools.dev](https://herb-tools.dev/): Herb: Powerful and seamless HTML-aware ERB parsing and tooling</small>
+## <a name="20"></a>20. Plandex v2：开源AI编程助手，专为大型项目设计 
+<small>🔗 [github.com](https://github.com/plandex-ai/plandex): Show HN: Plandex v2 – open source AI coding agent for large projects and tasks</small>
 
 
-| 🔥🔥: 108 \| 💬: [19](https://news.ycombinator.com/item?id=43704853) \| 🗓️ 2025-04-16
+| 🔥🔥: 113 \| 💬: [25](https://news.ycombinator.com/item?id=43710576) \| 🗓️ 2025-04-16
 
 
 <br />
-Herb是一款**智能识别HTML结构**的ERB模板解析工具，能够精准处理**嵌套的HTML标记与Ruby代码**。其核心优势在于**无缝集成**现有工作流，提供高效的语法分析和导航功能，显著提升开发体验。
+Plandex是一款**开源AI编程代理工具**，专注于处理**大型项目**和复杂任务。它支持终端操作，能管理高达200万token的上下文，并通过tree-sitter项目地图索引更大规模的代码库。工具提供**沙盒环境**隔离AI生成的更改，确保项目文件安全，同时支持多模型组合（如Anthropic、OpenAI等）。具备**自动化调试**和版本控制功能，支持30多种语言，适合需要高精度和灵活性的开发者。安装简便，支持本地或云端部署，是提升大型项目开发效率的强力助手。
+
+---
+
+## <a name="21"></a>21. 将Chromium浏览器移植到Unikernel的开源项目 
+<small>🔗 [github.com](https://github.com/onkernel/kernel-images): Show HN: We Put Chromium on a Unikernel (OSS Apache 2.0)</small>
+
+
+| 🔥🔥: 111 \| 💬: [39](https://news.ycombinator.com/item?id=43705144) \| 🗓️ 2025-04-16
+
+
+<br />
+该项目通过**Unikernel技术**实现了轻量化、高性能的浏览器部署方案，支持Docker和Unikraft两种运行环境。核心功能包括预配置的**Chromium浏览器**（兼容Playwright/Puppeteer）、远程GUI监控及Anthropic AI代理集成。Unikernel版本独有优势：闲置时自动休眠（资源占用极低）、状态快照恢复、毫秒级冷启动。适用于自动化工作流、AI代理测试等场景，采用**Apache 2.0开源协议**，团队正招聘后端工程师拓展AI基础设施。
 
 ---
 
@@ -284,7 +284,7 @@ Herb是一款**智能识别HTML结构**的ERB模板解析工具，能够精准�
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/04/16/microsoft-researchers-say-theyve-developed-a-hyper-efficient-ai-model-that-can-run-on-cpus/): Microsoft researchers developed a hyper-efficient AI model that can run on CPUs</small>
 
 
-| 🔥🔥: 101 \| 💬: [38](https://news.ycombinator.com/item?id=43711227) \| 🗓️ 2025-04-16
+| 🔥🔥: 111 \| 💬: [47](https://news.ycombinator.com/item?id=43711227) \| 🗓️ 2025-04-16
 
 
 <br />
@@ -292,7 +292,19 @@ Herb是一款**智能识别HTML结构**的ERB模板解析工具，能够精准�
 
 ---
 
-## <a name="23"></a>23. 科学，无尽的边疆（1945） 
+## <a name="23"></a>23. Herb：强大且无缝的HTML感知型ERB解析工具 
+<small>🔗 [herb-tools.dev](https://herb-tools.dev/): Herb: Powerful and seamless HTML-aware ERB parsing and tooling</small>
+
+
+| 🔥🔥: 108 \| 💬: [20](https://news.ycombinator.com/item?id=43704853) \| 🗓️ 2025-04-16
+
+
+<br />
+Herb是一款**智能识别HTML结构**的ERB模板解析工具，能够精准处理**嵌套的HTML标记与Ruby代码**。其核心优势在于**无缝集成**现有工作流，提供高效的语法分析和导航功能，显著提升开发体验。
+
+---
+
+## <a name="24"></a>24. 科学，无尽的边疆（1945） 
 <small>🔗 [nsf-gov-resources.nsf.gov](https://nsf-gov-resources.nsf.gov/2023-04/EndlessFrontier75th_w.pdf): Science, the Endless Frontier (1945) [pdf]</small>
 
 
@@ -304,7 +316,7 @@ Herb是一款**智能识别HTML结构**的ERB模板解析工具，能够精准�
 
 ---
 
-## <a name="24"></a>24. ChatGPT 4.1越狱提示解析 
+## <a name="25"></a>25. ChatGPT 4.1越狱提示解析 
 <small>🔗 [github.com](https://github.com/elder-plinius/L1B3RT4S/blob/main/OPENAI.mkd): ChatGPT 4.1 Jailbreak Prompt</small>
 
 
@@ -320,17 +332,5 @@ Herb是一款**智能识别HTML结构**的ERB模板解析工具，能够精准�
 此外，文本还包含多种**触发指令**（如`!GODMODE`、`!KAEL`），用于切换AI的应答模式，甚至涉及**敏感内容生成**（如违禁品制作指南）。部分方法通过**图像隐写术**或**编码混淆**进一步隐藏越狱指令。  
 
 总结：这些提示试图通过**规则漏洞、语言操纵和技术技巧**，迫使AI突破伦理边界，生成高风险内容。
-
----
-
-## <a name="25"></a>25. Bauplan：基于对象存储的Git式数据管道平台 
-<small>🔗 [docs.bauplanlabs.com](https://docs.bauplanlabs.com/en/latest/): Bauplan – Git-for-data pipelines on object storage</small>
-
-
-| 🔥: 81 \| 💬: [40](https://news.ycombinator.com/item?id=43705991) \| 🗓️ 2025-04-16
-
-
-<br />
-Bauplan是一个**Python优先的无服务器数据湖平台**，专为大规模数据管道设计，提供类似Git的数据版本控制功能。它允许用户通过简单Python函数构建工作流，无需管理基础设施，支持在S3上直接操作**Apache Iceberg表**，实现ACID事务和零拷贝分支。平台核心特性包括**Git-for-data版本追踪**、无服务器管道和全版本SQL查询，适用于AI、ML及数据转换场景，显著降低云原生数据工程的复杂度。
 
 ---
