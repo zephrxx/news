@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/): Gemini 2.5 Flash</small>
 
 
-| 🔥🔥: 585 \| 💬: [317](https://news.ycombinator.com/item?id=43720845) \| 🗓️ 2025-04-17
+| 🔥🔥: 611 \| 💬: [326](https://news.ycombinator.com/item?id=43720845) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [afterbabel.com](https://www.afterbabel.com/p/industrial-scale-harm-tiktok): TikTok is harming children at an industrial scale</small>
 
 
-| 🔥🔥: 553 \| 💬: [635](https://news.ycombinator.com/item?id=43716665) \| 🗓️ 2025-04-17
+| 🔥🔥: 558 \| 💬: [637](https://news.ycombinator.com/item?id=43716665) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [maknee.github.io](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/): An intro to DeepSeek's distributed file system</small>
 
 
-| 🔥🔥: 477 \| 💬: [73](https://news.ycombinator.com/item?id=43716058) \| 🗓️ 2025-04-17
+| 🔥🔥: 484 \| 💬: [74](https://news.ycombinator.com/item?id=43716058) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [skyatnightmagazine.com](https://www.skyatnightmagazine.com/news/k2-18b-dimethyl-sulfide): “Most promising signs yet” of alien life on a planet beyond our Solar System</small>
 
 
-| 🔥🔥: 392 \| 💬: [322](https://news.ycombinator.com/item?id=43714203) \| 🗓️ 2025-04-17
+| 🔥🔥: 394 \| 💬: [324](https://news.ycombinator.com/item?id=43714203) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c1egdy24v7po): US Government threatens Harvard with foreign student ban</small>
 
 
-| 🔥🔥: 332 \| 💬: [364](https://news.ycombinator.com/item?id=43715022) \| 🗓️ 2025-04-17
+| 🔥🔥: 339 \| 💬: [363](https://news.ycombinator.com/item?id=43715022) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [wired.com](https://www.wired.com/story/massive-blue-overwatch-ai-personas-police-suspects/): This 'College Protester' Isn't Real. It's an AI-Powered Undercover Bot for Cops</small>
 
 
-| 🔥🔥: 223 \| 💬: [220](https://news.ycombinator.com/item?id=43716939) \| 🗓️ 2025-04-17
+| 🔥🔥: 224 \| 💬: [220](https://news.ycombinator.com/item?id=43716939) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [sharpletters.net](https://sharpletters.net/2025/04/16/hdr-emoji/): HDR‑Infused Emoji</small>
 
 
-| 🔥🔥: 206 \| 💬: [117](https://news.ycombinator.com/item?id=43717606) \| 🗓️ 2025-04-17
+| 🔥🔥: 212 \| 💬: [120](https://news.ycombinator.com/item?id=43717606) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/04/11/encryption-is-not-a-crime/): Encryption Is Not a Crime</small>
 
 
-| 🔥🔥: 204 \| 💬: [203](https://news.ycombinator.com/item?id=43716138) \| 🗓️ 2025-04-17
+| 🔥🔥: 205 \| 💬: [203](https://news.ycombinator.com/item?id=43716138) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -119,11 +119,23 @@ tags:
 
 ---
 
-## <a name="9"></a>9. Erlang/OTP SSH 存在未授权远程代码执行漏洞 
+## <a name="9"></a>9. Intuit旗下TurboTax击败美国纳税人：免费报税服务遭扼杀 
+<small>🔗 [prospect.org](https://prospect.org/power/2025-04-17-intuit-turbotax-wins-battle-against-taxpayers-irs-direct-file/): Intuit, Owner of TurboTax, Wins Battle Against America's Taxpayers</small>
+
+
+| 🔥🔥: 178 \| 💬: [103](https://news.ycombinator.com/item?id=43724267) \| 🗓️ 2025-04-17
+
+
+<br />
+美国国税局（IRS）的免费报税项目**Direct File**因Intuit的持续游说而面临关闭。该公司通过**巨额政治献金**（如向特朗普就职委员会捐赠100万美元）和立法施压，成功阻挠政府简化报税流程的尝试。尽管Direct File用户满意度超90%，Intuit仍以“公共部门竞争威胁”为由，推动国会终止该计划。此前，Intuit因**误导消费者付费使用本应免费的服务**被判赔偿1亿美元。这场持续数十年的博弈，最终以纳税人被迫继续支付高额报税费用告终。
+
+---
+
+## <a name="10"></a>10. Erlang/OTP SSH 存在未授权远程代码执行漏洞 
 <small>🔗 [nvd.nist.gov](https://nvd.nist.gov/vuln/detail/CVE-2025-32433): Unauthenticated Remote Code Execution in Erlang/OTP SSH</small>
 
 
-| 🔥🔥: 158 \| 💬: [43](https://news.ycombinator.com/item?id=43716526) \| 🗓️ 2025-04-17
+| 🔥🔥: 160 \| 💬: [44](https://news.ycombinator.com/item?id=43716526) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -131,7 +143,19 @@ Erlang/OTP 是一套 Erlang 编程语言的库。在 **OTP-27.3.3、OTP-26.2.5.1
 
 ---
 
-## <a name="10"></a>10. 战国“最弱大名”小田氏治为何备受推崇？ 
+## <a name="11"></a>11. Discord试点人脸扫描年龄验证 或成行业趋势开端 
+<small>🔗 [bbc.com](https://www.bbc.com/news/articles/cjr75wypg0vo): Discord's face scanning age checks 'start of a bigger shift'</small>
+
+
+| 🔥🔥: 157 \| 💬: [204](https://news.ycombinator.com/item?id=43715884) \| 🗓️ 2025-04-17
+
+
+<br />
+Discord正在英国和澳大利亚测试**人脸扫描年龄验证**，以应对即将生效的英国《网络安全法》对成人内容的严格监管。专家Matt Navarra指出，**"点击确认年龄13岁"的时代已终结**，未来平台可能普遍采用生物识别技术。但隐私组织警告，此类验证存在**数据泄露和数字排斥风险**。Discord强调扫描数据仅存于设备且不收集ID信息，而Meta等企业已先行类似措施。澳大利亚拟禁止16岁以下使用社媒，凸显全球对未成年网络保护的强化趋势。
+
+---
+
+## <a name="12"></a>12. 战国“最弱大名”小田氏治为何备受推崇？ 
 <small>🔗 [tokyoweekender.com](https://www.tokyoweekender.com/art_and_culture/japanese-culture/oda-ujiharu-the-weakest-samurai-warlord/): Oda Ujiharu: Why the ‘weakest Samurai warlord’ is admired</small>
 
 
@@ -143,35 +167,11 @@ Erlang/OTP 是一套 Erlang 编程语言的库。在 **OTP-27.3.3、OTP-26.2.5.1
 
 ---
 
-## <a name="11"></a>11. Discord试点人脸扫描年龄验证 或成行业趋势开端 
-<small>🔗 [bbc.com](https://www.bbc.com/news/articles/cjr75wypg0vo): Discord's face scanning age checks 'start of a bigger shift'</small>
-
-
-| 🔥🔥: 144 \| 💬: [199](https://news.ycombinator.com/item?id=43715884) \| 🗓️ 2025-04-17
-
-
-<br />
-Discord正在英国和澳大利亚测试**人脸扫描年龄验证**，以应对即将生效的英国《网络安全法》对成人内容的严格监管。专家Matt Navarra指出，**"点击确认年龄13岁"的时代已终结**，未来平台可能普遍采用生物识别技术。但隐私组织警告，此类验证存在**数据泄露和数字排斥风险**。Discord强调扫描数据仅存于设备且不收集ID信息，而Meta等企业已先行类似措施。澳大利亚拟禁止16岁以下使用社媒，凸显全球对未成年网络保护的强化趋势。
-
----
-
-## <a name="12"></a>12. AGI仍需30年：Ege Erdil与Tamay Besiroglu的长期预测 
-<small>🔗 [dwarkesh.com](https://www.dwarkesh.com/p/ege-tamay): AGI Is Still 30 Years Away – Ege Erdil and Tamay Besiroglu</small>
-
-
-| 🔥🔥: 142 \| 💬: [278](https://news.ycombinator.com/item?id=43719280) \| 🗓️ 2025-04-17
-
-
-<br />
-Ege Erdil和Tamay Besiroglu认为，**通用人工智能（AGI）**至少还需30年才能实现，预计在2045年后才可能替代人类完成所有远程工作。他们指出，当前AI虽在语言、推理等领域进步显著，但**经济全面自动化**仍需突破多项核心能力，且受限于算力增长的物理瓶颈。两人强调，**工业革命类比**更适用于理解AI发展——技术变革是多元协同的结果，而非单纯的“智能爆炸”。此外，他们认为现有模型仍缺乏长期自主性和多模态理解等关键能力，短期内无法替代复杂的人类工作。
-
----
-
 ## <a name="13"></a>13. 密尔沃基M18电池逆向工程揭秘 
 <small>🔗 [quagmirerepair.com](https://quagmirerepair.com/milwaukee-m18-battery-reverse-engineering): Milwaukee M18 Battery Reverse Engineering</small>
 
 
-| 🔥🔥: 135 \| 💬: [55](https://news.ycombinator.com/item?id=43718809) \| 🗓️ 2025-04-17
+| 🔥🔥: 146 \| 💬: [57](https://news.ycombinator.com/item?id=43718809) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -179,11 +179,23 @@ Ege Erdil和Tamay Besiroglu认为，**通用人工智能（AGI）**至少还需3
 
 ---
 
-## <a name="14"></a>14. 将Rust编译时间从30分钟缩短至2分钟的千箱奇技 
+## <a name="14"></a>14. AGI仍需30年：Ege Erdil与Tamay Besiroglu的长期预测 
+<small>🔗 [dwarkesh.com](https://www.dwarkesh.com/p/ege-tamay): AGI Is Still 30 Years Away – Ege Erdil and Tamay Besiroglu</small>
+
+
+| 🔥🔥: 146 \| 💬: [282](https://news.ycombinator.com/item?id=43719280) \| 🗓️ 2025-04-17
+
+
+<br />
+Ege Erdil和Tamay Besiroglu认为，**通用人工智能（AGI）**至少还需30年才能实现，预计在2045年后才可能替代人类完成所有远程工作。他们指出，当前AI虽在语言、推理等领域进步显著，但**经济全面自动化**仍需突破多项核心能力，且受限于算力增长的物理瓶颈。两人强调，**工业革命类比**更适用于理解AI发展——技术变革是多元协同的结果，而非单纯的“智能爆炸”。此外，他们认为现有模型仍缺乏长期自主性和多模态理解等关键能力，短期内无法替代复杂的人类工作。
+
+---
+
+## <a name="15"></a>15. 将Rust编译时间从30分钟缩短至2分钟的千箱奇技 
 <small>🔗 [feldera.com](https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates): Cutting down Rust compile times from 30 to 2 minutes with one thousand crates</small>
 
 
-| 🔥🔥: 129 \| 💬: [69](https://news.ycombinator.com/item?id=43715235) \| 🗓️ 2025-04-17
+| 🔥🔥: 132 \| 💬: [69](https://news.ycombinator.com/item?id=43715235) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -191,11 +203,11 @@ Feldera团队通过将**单一大箱体拆分为1106个小箱体**，成功将�
 
 ---
 
-## <a name="15"></a>15. Bash高级脚本编程指南（2006） 
+## <a name="16"></a>16. Bash高级脚本编程指南（2006） 
 <small>🔗 [uniforumchicago.org](http://uniforumchicago.org/slides/bash1.pdf): Advanced Shell Scripting with Bash (2006) [pdf]</small>
 
 
-| 🔥🔥: 121 \| 💬: [90](https://news.ycombinator.com/item?id=43714594) \| 🗓️ 2025-04-17
+| 🔥🔥: 122 \| 💬: [90](https://news.ycombinator.com/item?id=43714594) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -203,11 +215,11 @@ Feldera团队通过将**单一大箱体拆分为1106个小箱体**，成功将�
 
 ---
 
-## <a name="16"></a>16. DHL暂停向美国发送超800美元个人包裹 
+## <a name="17"></a>17. DHL暂停向美国发送超800美元个人包裹 
 <small>🔗 [dhl.com](https://www.dhl.com/au-en/home/important-information/2025/shipments-to-the-united-states-with-a-customs-value-exceeding-usd-800.html): DHL suspends B2C shipments over 800 USD until further notice</small>
 
 
-| 🔥🔥: 111 \| 💬: [49](https://news.ycombinator.com/item?id=43724123) \| 🗓️ 2025-04-17
+| 🔥🔥: 122 \| 💬: [55](https://news.ycombinator.com/item?id=43724123) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -215,23 +227,11 @@ Feldera团队通过将**单一大箱体拆分为1106个小箱体**，成功将�
 
 ---
 
-## <a name="17"></a>17. OpenAI曾考虑收购Cursor开发商，后转向收购Windsurf 
-<small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/17/openai-looked-at-cursor-before-considering-deal-with-rival-windsurf.html): OpenAI looked at buying Cursor creator before turning to Windsurf</small>
-
-
-| 🔥🔥: 104 \| 💬: [90](https://news.ycombinator.com/item?id=43716856) \| 🗓️ 2025-04-17
-
-
-<br />
-据CNBC报道，**OpenAI**在洽谈收购AI编程工具**Windsurf**（估值约30亿美元）前，曾与热门代码助手**Cursor**的开发商Anysphere进行收购谈判，但未达成协议。Cursor因整合Anthropic的Claude 3.5模型广受欢迎，日活用户超百万，估值近100亿美元。OpenAI近期推出专注编程的新模型，并计划通过收购强化AI编码领域布局。微软、GitHub Copilot等竞品也在加速AI工具开发。
-
----
-
 ## <a name="18"></a>18. AgentAPI：控制多款AI编程助手的HTTP接口工具 
 <small>🔗 [github.com](https://github.com/coder/agentapi): Show HN: AgentAPI – HTTP API for Claude Code, Goose, Aider, and Codex</small>
 
 
-| 🔥🔥: 104 \| 💬: [11](https://news.ycombinator.com/item?id=43719447) \| 🗓️ 2025-04-17
+| 🔥🔥: 108 \| 💬: [11](https://news.ycombinator.com/item?id=43719447) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -239,7 +239,19 @@ Feldera团队通过将**单一大箱体拆分为1106个小箱体**，成功将�
 
 ---
 
-## <a name="19"></a>19. 在Apple Silicon上使用UTM搭建Linux开发环境 
+## <a name="19"></a>19. OpenAI曾考虑收购Cursor开发商，后转向收购Windsurf 
+<small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/17/openai-looked-at-cursor-before-considering-deal-with-rival-windsurf.html): OpenAI looked at buying Cursor creator before turning to Windsurf</small>
+
+
+| 🔥🔥: 106 \| 💬: [90](https://news.ycombinator.com/item?id=43716856) \| 🗓️ 2025-04-17
+
+
+<br />
+据CNBC报道，**OpenAI**在洽谈收购AI编程工具**Windsurf**（估值约30亿美元）前，曾与热门代码助手**Cursor**的开发商Anysphere进行收购谈判，但未达成协议。Cursor因整合Anthropic的Claude 3.5模型广受欢迎，日活用户超百万，估值近100亿美元。OpenAI近期推出专注编程的新模型，并计划通过收购强化AI编码领域布局。微软、GitHub Copilot等竞品也在加速AI工具开发。
+
+---
+
+## <a name="20"></a>20. 在Apple Silicon上使用UTM搭建Linux开发环境 
 <small>🔗 [rkiselenko.dev](https://rkiselenko.dev/blog/development-on-mac-with-utm/development-on-mac-with-lima/): Development on Apple Silicon with UTM</small>
 
 
@@ -251,7 +263,7 @@ Feldera团队通过将**单一大箱体拆分为1106个小箱体**，成功将�
 
 ---
 
-## <a name="20"></a>20. 美国研究发现多款牙膏含铅等重金属 
+## <a name="21"></a>21. 美国研究发现多款牙膏含铅等重金属 
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/apr/17/toothpaste-lead-heavy-metals): Toothpaste widely contaminated with lead and other metals, US research finds</small>
 
 
@@ -263,11 +275,11 @@ Feldera团队通过将**单一大箱体拆分为1106个小箱体**，成功将�
 
 ---
 
-## <a name="21"></a>21. mIRC 7.81 版本发布 
+## <a name="22"></a>22. mIRC 7.81 版本发布 
 <small>🔗 [mirc.com](https://www.mirc.com/): mIRC 7.81</small>
 
 
-| 🔥: 88 \| 💬: [96](https://news.ycombinator.com/item?id=43715306) \| 🗓️ 2025-04-17
+| 🔥: 95 \| 💬: [97](https://news.ycombinator.com/item?id=43715306) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -275,7 +287,7 @@ mIRC 是一款**全球流行**的 IRC 聊天客户端，被个人和组织广泛
 
 ---
 
-## <a name="22"></a>22. 用AI打造橄榄球赛事分析系统 
+## <a name="23"></a>23. 用AI打造橄榄球赛事分析系统 
 <small>🔗 [nickjones.tech](https://nickjones.tech/ai-watching-rugby/): Building an AI that watches rugby</small>
 
 
@@ -287,11 +299,11 @@ mIRC 是一款**全球流行**的 IRC 聊天客户端，被个人和组织广泛
 
 ---
 
-## <a name="23"></a>23. 社区学院深陷“机器人学生”骗局，教师被迫化身侦探 
+## <a name="24"></a>24. 社区学院深陷“机器人学生”骗局，教师被迫化身侦探 
 <small>🔗 [voiceofsandiego.org](https://voiceofsandiego.org/2025/04/14/as-bot-students-continue-to-flood-in-community-colleges-struggle-to-respond/): As 'Bot' Students Continue to Flood In, Community Colleges Struggle to Respond</small>
 
 
-| 🔥: 73 \| 💬: [142](https://news.ycombinator.com/item?id=43715109) \| 🗓️ 2025-04-17
+| 🔥: 74 \| 💬: [142](https://news.ycombinator.com/item?id=43715109) \| 🗓️ 2025-04-17
 
 
 <br />
