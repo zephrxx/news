@@ -27,7 +27,7 @@ tags:
 <small>🔗 [afterbabel.com](https://www.afterbabel.com/p/industrial-scale-harm-tiktok): TikTok is harming children at an industrial scale</small>
 
 
-| 🔥🔥: 552 \| 💬: [629](https://news.ycombinator.com/item?id=43716665) \| 🗓️ 2025-04-17
+| 🔥🔥: 552 \| 💬: [631](https://news.ycombinator.com/item?id=43716665) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/): Gemini 2.5 Flash</small>
 
 
-| 🔥🔥: 450 \| 💬: [250](https://news.ycombinator.com/item?id=43720845) \| 🗓️ 2025-04-17
+| 🔥🔥: 498 \| 💬: [284](https://news.ycombinator.com/item?id=43720845) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [maknee.github.io](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/): An intro to DeepSeek's distributed file system</small>
 
 
-| 🔥🔥: 444 \| 💬: [68](https://news.ycombinator.com/item?id=43716058) \| 🗓️ 2025-04-17
+| 🔥🔥: 454 \| 💬: [68](https://news.ycombinator.com/item?id=43716058) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [skyatnightmagazine.com](https://www.skyatnightmagazine.com/news/k2-18b-dimethyl-sulfide): “Most promising signs yet” of alien life on a planet beyond our Solar System</small>
 
 
-| 🔥🔥: 388 \| 💬: [315](https://news.ycombinator.com/item?id=43714203) \| 🗓️ 2025-04-17
+| 🔥🔥: 389 \| 💬: [316](https://news.ycombinator.com/item?id=43714203) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c1egdy24v7po): US Government threatens Harvard with foreign student ban</small>
 
 
-| 🔥🔥: 312 \| 💬: [344](https://news.ycombinator.com/item?id=43715022) \| 🗓️ 2025-04-17
+| 🔥🔥: 321 \| 💬: [352](https://news.ycombinator.com/item?id=43715022) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [wired.com](https://www.wired.com/story/massive-blue-overwatch-ai-personas-police-suspects/): This 'College Protester' Isn't Real. It's an AI-Powered Undercover Bot for Cops</small>
 
 
-| 🔥🔥: 220 \| 💬: [216](https://news.ycombinator.com/item?id=43716939) \| 🗓️ 2025-04-17
+| 🔥🔥: 220 \| 💬: [219](https://news.ycombinator.com/item?id=43716939) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/04/11/encryption-is-not-a-crime/): Encryption Is Not a Crime</small>
 
 
-| 🔥🔥: 201 \| 💬: [202](https://news.ycombinator.com/item?id=43716138) \| 🗓️ 2025-04-17
+| 🔥🔥: 202 \| 💬: [202](https://news.ycombinator.com/item?id=43716138) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [sharpletters.net](https://sharpletters.net/2025/04/16/hdr-emoji/): HDR‑Infused Emoji</small>
 
 
-| 🔥🔥: 191 \| 💬: [108](https://news.ycombinator.com/item?id=43717606) \| 🗓️ 2025-04-17
+| 🔥🔥: 198 \| 💬: [110](https://news.ycombinator.com/item?id=43717606) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -119,23 +119,11 @@ tags:
 
 ---
 
-## <a name="9"></a>9. 战国“最弱大名”小田氏治为何备受推崇？ 
-<small>🔗 [tokyoweekender.com](https://www.tokyoweekender.com/art_and_culture/japanese-culture/oda-ujiharu-the-weakest-samurai-warlord/): Oda Ujiharu: Why the ‘weakest Samurai warlord’ is admired</small>
-
-
-| 🔥🔥: 150 \| 💬: [56](https://news.ycombinator.com/item?id=43714619) \| 🗓️ 2025-04-17
-
-
-<br />
-小田氏治是日本战国时代常败将军，因屡失居城**小田城**被称为“最弱大名”，但其**不屈精神**与**爱民之心**赢得后世尊敬。他虽九次丢城，却八次夺回，被称为“不死鸟”。军事上屡犯低级错误，但学者推测其主动出击是为避免百姓遭围城之苦。最终因拒绝臣服丰臣秀吉而失势，但对比其他战国枭雄的惨烈结局，其传奇色彩更显独特。
-
----
-
-## <a name="10"></a>10. Erlang/OTP SSH 存在未授权远程代码执行漏洞 
+## <a name="9"></a>9. Erlang/OTP SSH 存在未授权远程代码执行漏洞 
 <small>🔗 [nvd.nist.gov](https://nvd.nist.gov/vuln/detail/CVE-2025-32433): Unauthenticated Remote Code Execution in Erlang/OTP SSH</small>
 
 
-| 🔥🔥: 149 \| 💬: [42](https://news.ycombinator.com/item?id=43716526) \| 🗓️ 2025-04-17
+| 🔥🔥: 152 \| 💬: [42](https://news.ycombinator.com/item?id=43716526) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -143,11 +131,23 @@ Erlang/OTP 是一套 Erlang 编程语言的库。在 **OTP-27.3.3、OTP-26.2.5.1
 
 ---
 
+## <a name="10"></a>10. 战国“最弱大名”小田氏治为何备受推崇？ 
+<small>🔗 [tokyoweekender.com](https://www.tokyoweekender.com/art_and_culture/japanese-culture/oda-ujiharu-the-weakest-samurai-warlord/): Oda Ujiharu: Why the ‘weakest Samurai warlord’ is admired</small>
+
+
+| 🔥🔥: 150 \| 💬: [58](https://news.ycombinator.com/item?id=43714619) \| 🗓️ 2025-04-17
+
+
+<br />
+小田氏治是日本战国时代常败将军，因屡失居城**小田城**被称为“最弱大名”，但其**不屈精神**与**爱民之心**赢得后世尊敬。他虽九次丢城，却八次夺回，被称为“不死鸟”。军事上屡犯低级错误，但学者推测其主动出击是为避免百姓遭围城之苦。最终因拒绝臣服丰臣秀吉而失势，但对比其他战国枭雄的惨烈结局，其传奇色彩更显独特。
+
+---
+
 ## <a name="11"></a>11. AGI仍需30年：Ege Erdil与Tamay Besiroglu的长期预测 
 <small>🔗 [dwarkesh.com](https://www.dwarkesh.com/p/ege-tamay): AGI Is Still 30 Years Away – Ege Erdil and Tamay Besiroglu</small>
 
 
-| 🔥🔥: 132 \| 💬: [264](https://news.ycombinator.com/item?id=43719280) \| 🗓️ 2025-04-17
+| 🔥🔥: 138 \| 💬: [271](https://news.ycombinator.com/item?id=43719280) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -159,7 +159,7 @@ Ege Erdil和Tamay Besiroglu认为，**通用人工智能（AGI）**至少还需3
 <small>🔗 [feldera.com](https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates): Cutting down Rust compile times from 30 to 2 minutes with one thousand crates</small>
 
 
-| 🔥🔥: 125 \| 💬: [68](https://news.ycombinator.com/item?id=43715235) \| 🗓️ 2025-04-17
+| 🔥🔥: 126 \| 💬: [69](https://news.ycombinator.com/item?id=43715235) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -167,7 +167,19 @@ Feldera团队通过将**单一大箱体拆分为1106个小箱体**，成功将�
 
 ---
 
-## <a name="13"></a>13. Bash高级脚本编程指南（2006） 
+## <a name="13"></a>13. 密尔沃基M18电池逆向工程揭秘 
+<small>🔗 [quagmirerepair.com](https://quagmirerepair.com/milwaukee-m18-battery-reverse-engineering): Milwaukee M18 Battery Reverse Engineering</small>
+
+
+| 🔥🔥: 126 \| 💬: [44](https://news.ycombinator.com/item?id=43718809) \| 🗓️ 2025-04-17
+
+
+<br />
+作者拆解了一款**密尔沃基M18 3Ah电池**（型号48-11-1828），发现其采用**德州仪器MSP430G2744微控制器**和**BQ76925电池监控芯片**，电路设计基本复刻了TI参考方案。逆向过程中遇到多层PCB解析、元件标记模糊等挑战，最终通过溶剂清洗和砂纸打磨揭示了各层走线。电池通过**2000波特率串口**与充电器通信，但部分工具（如LED手电筒）未启用该功能。后续由Tool Scientist团队进一步研究发现，工具与电池通过**12V/3V电压握手**触发交互，但原设计未实现电池均衡功能。
+
+---
+
+## <a name="14"></a>14. Bash高级脚本编程指南（2006） 
 <small>🔗 [uniforumchicago.org](http://uniforumchicago.org/slides/bash1.pdf): Advanced Shell Scripting with Bash (2006) [pdf]</small>
 
 
@@ -179,23 +191,11 @@ Feldera团队通过将**单一大箱体拆分为1106个小箱体**，成功将�
 
 ---
 
-## <a name="14"></a>14. 密尔沃基M18电池逆向工程揭秘 
-<small>🔗 [quagmirerepair.com](https://quagmirerepair.com/milwaukee-m18-battery-reverse-engineering): Milwaukee M18 Battery Reverse Engineering</small>
-
-
-| 🔥🔥: 116 \| 💬: [40](https://news.ycombinator.com/item?id=43718809) \| 🗓️ 2025-04-17
-
-
-<br />
-作者拆解了一款**密尔沃基M18 3Ah电池**（型号48-11-1828），发现其采用**德州仪器MSP430G2744微控制器**和**BQ76925电池监控芯片**，电路设计基本复刻了TI参考方案。逆向过程中遇到多层PCB解析、元件标记模糊等挑战，最终通过溶剂清洗和砂纸打磨揭示了各层走线。电池通过**2000波特率串口**与充电器通信，但部分工具（如LED手电筒）未启用该功能。后续由Tool Scientist团队进一步研究发现，工具与电池通过**12V/3V电压握手**触发交互，但原设计未实现电池均衡功能。
-
----
-
 ## <a name="15"></a>15. Discord试点人脸扫描年龄验证 或成行业趋势开端 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/cjr75wypg0vo): Discord's face scanning age checks 'start of a bigger shift'</small>
 
 
-| 🔥🔥: 106 \| 💬: [168](https://news.ycombinator.com/item?id=43715884) \| 🗓️ 2025-04-17
+| 🔥🔥: 119 \| 💬: [174](https://news.ycombinator.com/item?id=43715884) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -203,7 +203,31 @@ Discord正在英国和澳大利亚测试**人脸扫描年龄验证**，以应对
 
 ---
 
-## <a name="16"></a>16. 在Apple Silicon上使用UTM搭建Linux开发环境 
+## <a name="16"></a>16. OpenAI曾考虑收购Cursor开发商，后转向收购Windsurf 
+<small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/17/openai-looked-at-cursor-before-considering-deal-with-rival-windsurf.html): OpenAI looked at buying Cursor creator before turning to Windsurf</small>
+
+
+| 🔥🔥: 103 \| 💬: [85](https://news.ycombinator.com/item?id=43716856) \| 🗓️ 2025-04-17
+
+
+<br />
+据CNBC报道，**OpenAI**在洽谈收购AI编程工具**Windsurf**（估值约30亿美元）前，曾与热门代码助手**Cursor**的开发商Anysphere进行收购谈判，但未达成协议。Cursor因整合Anthropic的Claude 3.5模型广受欢迎，日活用户超百万，估值近100亿美元。OpenAI近期推出专注编程的新模型，并计划通过收购强化AI编码领域布局。微软、GitHub Copilot等竞品也在加速AI工具开发。
+
+---
+
+## <a name="17"></a>17. AgentAPI：控制多款AI编程助手的HTTP接口工具 
+<small>🔗 [github.com](https://github.com/coder/agentapi): Show HN: AgentAPI – HTTP API for Claude Code, Goose, Aider, and Codex</small>
+
+
+| 🔥: 100 \| 💬: [11](https://news.ycombinator.com/item?id=43719447) \| 🗓️ 2025-04-17
+
+
+<br />
+该项目提供了一个**HTTP API**，用于统一管理**Claude Code**、Goose、Aider和Codex等AI编程助手。核心功能包括：通过终端模拟器将API调用转换为键盘指令，实时解析助手输出为结构化消息，并自动过滤终端界面冗余元素。支持快速部署本地服务器（默认端口3284）、Web聊天演示界面及SSE事件流监听。开发者可借此构建统一控制台、跨助手协作系统或代码审查工具。当前采用MIT协议开源，长期目标是为不同助手提供**通用适配层**，未来或根据官方SDK发展调整方向。
+
+---
+
+## <a name="18"></a>18. 在Apple Silicon上使用UTM搭建Linux开发环境 
 <small>🔗 [rkiselenko.dev](https://rkiselenko.dev/blog/development-on-mac-with-utm/development-on-mac-with-lima/): Development on Apple Silicon with UTM</small>
 
 
@@ -215,19 +239,7 @@ Discord正在英国和澳大利亚测试**人脸扫描年龄验证**，以应对
 
 ---
 
-## <a name="17"></a>17. OpenAI曾考虑收购Cursor开发商，后转向收购Windsurf 
-<small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/17/openai-looked-at-cursor-before-considering-deal-with-rival-windsurf.html): OpenAI looked at buying Cursor creator before turning to Windsurf</small>
-
-
-| 🔥: 99 \| 💬: [82](https://news.ycombinator.com/item?id=43716856) \| 🗓️ 2025-04-17
-
-
-<br />
-据CNBC报道，**OpenAI**在洽谈收购AI编程工具**Windsurf**（估值约30亿美元）前，曾与热门代码助手**Cursor**的开发商Anysphere进行收购谈判，但未达成协议。Cursor因整合Anthropic的Claude 3.5模型广受欢迎，日活用户超百万，估值近100亿美元。OpenAI近期推出专注编程的新模型，并计划通过收购强化AI编码领域布局。微软、GitHub Copilot等竞品也在加速AI工具开发。
-
----
-
-## <a name="18"></a>18. 美国研究发现多款牙膏含铅等重金属 
+## <a name="19"></a>19. 美国研究发现多款牙膏含铅等重金属 
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/apr/17/toothpaste-lead-heavy-metals): Toothpaste widely contaminated with lead and other metals, US research finds</small>
 
 
@@ -239,23 +251,11 @@ Discord正在英国和澳大利亚测试**人脸扫描年龄验证**，以应对
 
 ---
 
-## <a name="19"></a>19. AgentAPI：控制多款AI编程助手的HTTP接口工具 
-<small>🔗 [github.com](https://github.com/coder/agentapi): Show HN: AgentAPI – HTTP API for Claude Code, Goose, Aider, and Codex</small>
-
-
-| 🔥: 97 \| 💬: [10](https://news.ycombinator.com/item?id=43719447) \| 🗓️ 2025-04-17
-
-
-<br />
-该项目提供了一个**HTTP API**，用于统一管理**Claude Code**、Goose、Aider和Codex等AI编程助手。核心功能包括：通过终端模拟器将API调用转换为键盘指令，实时解析助手输出为结构化消息，并自动过滤终端界面冗余元素。支持快速部署本地服务器（默认端口3284）、Web聊天演示界面及SSE事件流监听。开发者可借此构建统一控制台、跨助手协作系统或代码审查工具。当前采用MIT协议开源，长期目标是为不同助手提供**通用适配层**，未来或根据官方SDK发展调整方向。
-
----
-
 ## <a name="20"></a>20. mIRC 7.81 版本发布 
 <small>🔗 [mirc.com](https://www.mirc.com/): mIRC 7.81</small>
 
 
-| 🔥: 78 \| 💬: [91](https://news.ycombinator.com/item?id=43715306) \| 🗓️ 2025-04-17
+| 🔥: 83 \| 💬: [93](https://news.ycombinator.com/item?id=43715306) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -267,7 +267,7 @@ mIRC 是一款**全球流行**的 IRC 聊天客户端，被个人和组织广泛
 <small>🔗 [nickjones.tech](https://nickjones.tech/ai-watching-rugby/): Building an AI that watches rugby</small>
 
 
-| 🔥: 76 \| 💬: [41](https://news.ycombinator.com/item?id=43714902) \| 🗓️ 2025-04-17
+| 🔥: 77 \| 💬: [41](https://news.ycombinator.com/item?id=43714902) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -279,7 +279,7 @@ mIRC 是一款**全球流行**的 IRC 聊天客户端，被个人和组织广泛
 <small>🔗 [voiceofsandiego.org](https://voiceofsandiego.org/2025/04/14/as-bot-students-continue-to-flood-in-community-colleges-struggle-to-respond/): As 'Bot' Students Continue to Flood In, Community Colleges Struggle to Respond</small>
 
 
-| 🔥: 72 \| 💬: [139](https://news.ycombinator.com/item?id=43715109) \| 🗓️ 2025-04-17
+| 🔥: 73 \| 💬: [139](https://news.ycombinator.com/item?id=43715109) \| 🗓️ 2025-04-17
 
 
 <br />
