@@ -9,8 +9,8 @@ tags:
 
 
 1. TikTok正以工业级规模危害儿童健康；
-1. 深度解析DeepSeek分布式文件系统3FS；
 1. Gemini 2.5 Flash：谷歌推出高性价比混合推理模型；
+1. 深度解析DeepSeek分布式文件系统3FS；
 1. 科学家发现太阳系外行星存在潜在生命迹象；
 1. 美国政府威胁禁止哈佛招收国际学生；
 
@@ -35,23 +35,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. 深度解析DeepSeek分布式文件系统3FS 
-<small>🔗 [maknee.github.io](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/): An intro to DeepSeek's distributed file system</small>
-
-
-| 🔥🔥: 437 \| 💬: [67](https://news.ycombinator.com/item?id=43716058) \| 🗓️ 2025-04-17
-
-
-<br />
-3FS是DeepSeek开源的**分布式文件系统**，通过抽象层让用户像操作本地文件一样访问跨多台机器的数据。其核心优势包括**海量存储**（支持PB级数据）、**高吞吐**和**容错性**（节点故障不影响运行）。系统由四种节点构成：**Meta**（管理元数据）、**Mgmtd**（集群配置）、**Storage**（数据存储）和**Client**（用户交互）。数据一致性通过**CRAQ协议**实现，写入需经链式节点确认，确保强一致性。3FS适用于AI训练、并行计算等场景，但性能受链式写入延迟限制。后续将深入测试其实际表现与优化空间。
-
----
-
-## <a name="3"></a>3. Gemini 2.5 Flash：谷歌推出高性价比混合推理模型 
+## <a name="2"></a>2. Gemini 2.5 Flash：谷歌推出高性价比混合推理模型 
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/): Gemini 2.5 Flash</small>
 
 
-| 🔥🔥: 413 \| 💬: [218](https://news.ycombinator.com/item?id=43720845) \| 🗓️ 2025-04-17
+| 🔥🔥: 450 \| 💬: [250](https://news.ycombinator.com/item?id=43720845) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -59,11 +47,23 @@ tags:
 
 ---
 
+## <a name="3"></a>3. 深度解析DeepSeek分布式文件系统3FS 
+<small>🔗 [maknee.github.io](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/): An intro to DeepSeek's distributed file system</small>
+
+
+| 🔥🔥: 444 \| 💬: [68](https://news.ycombinator.com/item?id=43716058) \| 🗓️ 2025-04-17
+
+
+<br />
+3FS是DeepSeek开源的**分布式文件系统**，通过抽象层让用户像操作本地文件一样访问跨多台机器的数据。其核心优势包括**海量存储**（支持PB级数据）、**高吞吐**和**容错性**（节点故障不影响运行）。系统由四种节点构成：**Meta**（管理元数据）、**Mgmtd**（集群配置）、**Storage**（数据存储）和**Client**（用户交互）。数据一致性通过**CRAQ协议**实现，写入需经链式节点确认，确保强一致性。3FS适用于AI训练、并行计算等场景，但性能受链式写入延迟限制。后续将深入测试其实际表现与优化空间。
+
+---
+
 ## <a name="4"></a>4. 科学家发现太阳系外行星存在潜在生命迹象 
 <small>🔗 [skyatnightmagazine.com](https://www.skyatnightmagazine.com/news/k2-18b-dimethyl-sulfide): “Most promising signs yet” of alien life on a planet beyond our Solar System</small>
 
 
-| 🔥🔥: 387 \| 💬: [314](https://news.ycombinator.com/item?id=43714203) \| 🗓️ 2025-04-17
+| 🔥🔥: 388 \| 💬: [315](https://news.ycombinator.com/item?id=43714203) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c1egdy24v7po): US Government threatens Harvard with foreign student ban</small>
 
 
-| 🔥🔥: 293 \| 💬: [341](https://news.ycombinator.com/item?id=43715022) \| 🗓️ 2025-04-17
+| 🔥🔥: 312 \| 💬: [344](https://news.ycombinator.com/item?id=43715022) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [wired.com](https://www.wired.com/story/massive-blue-overwatch-ai-personas-police-suspects/): This 'College Protester' Isn't Real. It's an AI-Powered Undercover Bot for Cops</small>
 
 
-| 🔥🔥: 218 \| 💬: [215](https://news.ycombinator.com/item?id=43716939) \| 🗓️ 2025-04-17
+| 🔥🔥: 220 \| 💬: [216](https://news.ycombinator.com/item?id=43716939) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [sharpletters.net](https://sharpletters.net/2025/04/16/hdr-emoji/): HDR‑Infused Emoji</small>
 
 
-| 🔥🔥: 183 \| 💬: [106](https://news.ycombinator.com/item?id=43717606) \| 🗓️ 2025-04-17
+| 🔥🔥: 191 \| 💬: [108](https://news.ycombinator.com/item?id=43717606) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -123,7 +123,7 @@ tags:
 <small>🔗 [tokyoweekender.com](https://www.tokyoweekender.com/art_and_culture/japanese-culture/oda-ujiharu-the-weakest-samurai-warlord/): Oda Ujiharu: Why the ‘weakest Samurai warlord’ is admired</small>
 
 
-| 🔥🔥: 145 \| 💬: [56](https://news.ycombinator.com/item?id=43714619) \| 🗓️ 2025-04-17
+| 🔥🔥: 150 \| 💬: [56](https://news.ycombinator.com/item?id=43714619) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -135,7 +135,7 @@ tags:
 <small>🔗 [nvd.nist.gov](https://nvd.nist.gov/vuln/detail/CVE-2025-32433): Unauthenticated Remote Code Execution in Erlang/OTP SSH</small>
 
 
-| 🔥🔥: 144 \| 💬: [40](https://news.ycombinator.com/item?id=43716526) \| 🗓️ 2025-04-17
+| 🔥🔥: 149 \| 💬: [42](https://news.ycombinator.com/item?id=43716526) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -143,11 +143,23 @@ Erlang/OTP 是一套 Erlang 编程语言的库。在 **OTP-27.3.3、OTP-26.2.5.1
 
 ---
 
-## <a name="11"></a>11. 将Rust编译时间从30分钟缩短至2分钟的千箱奇技 
+## <a name="11"></a>11. AGI仍需30年：Ege Erdil与Tamay Besiroglu的长期预测 
+<small>🔗 [dwarkesh.com](https://www.dwarkesh.com/p/ege-tamay): AGI Is Still 30 Years Away – Ege Erdil and Tamay Besiroglu</small>
+
+
+| 🔥🔥: 132 \| 💬: [264](https://news.ycombinator.com/item?id=43719280) \| 🗓️ 2025-04-17
+
+
+<br />
+Ege Erdil和Tamay Besiroglu认为，**通用人工智能（AGI）**至少还需30年才能实现，预计在2045年后才可能替代人类完成所有远程工作。他们指出，当前AI虽在语言、推理等领域进步显著，但**经济全面自动化**仍需突破多项核心能力，且受限于算力增长的物理瓶颈。两人强调，**工业革命类比**更适用于理解AI发展——技术变革是多元协同的结果，而非单纯的“智能爆炸”。此外，他们认为现有模型仍缺乏长期自主性和多模态理解等关键能力，短期内无法替代复杂的人类工作。
+
+---
+
+## <a name="12"></a>12. 将Rust编译时间从30分钟缩短至2分钟的千箱奇技 
 <small>🔗 [feldera.com](https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates): Cutting down Rust compile times from 30 to 2 minutes with one thousand crates</small>
 
 
-| 🔥🔥: 124 \| 💬: [68](https://news.ycombinator.com/item?id=43715235) \| 🗓️ 2025-04-17
+| 🔥🔥: 125 \| 💬: [68](https://news.ycombinator.com/item?id=43715235) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -155,7 +167,7 @@ Feldera团队通过将**单一大箱体拆分为1106个小箱体**，成功将�
 
 ---
 
-## <a name="12"></a>12. Bash高级脚本编程指南（2006） 
+## <a name="13"></a>13. Bash高级脚本编程指南（2006） 
 <small>🔗 [uniforumchicago.org](http://uniforumchicago.org/slides/bash1.pdf): Advanced Shell Scripting with Bash (2006) [pdf]</small>
 
 
@@ -167,23 +179,11 @@ Feldera团队通过将**单一大箱体拆分为1106个小箱体**，成功将�
 
 ---
 
-## <a name="13"></a>13. AGI仍需30年：Ege Erdil与Tamay Besiroglu的长期预测 
-<small>🔗 [dwarkesh.com](https://www.dwarkesh.com/p/ege-tamay): AGI Is Still 30 Years Away – Ege Erdil and Tamay Besiroglu</small>
-
-
-| 🔥🔥: 117 \| 💬: [234](https://news.ycombinator.com/item?id=43719280) \| 🗓️ 2025-04-17
-
-
-<br />
-Ege Erdil和Tamay Besiroglu认为，**通用人工智能（AGI）**至少还需30年才能实现，预计在2045年后才可能替代人类完成所有远程工作。他们指出，当前AI虽在语言、推理等领域进步显著，但**经济全面自动化**仍需突破多项核心能力，且受限于算力增长的物理瓶颈。两人强调，**工业革命类比**更适用于理解AI发展——技术变革是多元协同的结果，而非单纯的“智能爆炸”。此外，他们认为现有模型仍缺乏长期自主性和多模态理解等关键能力，短期内无法替代复杂的人类工作。
-
----
-
 ## <a name="14"></a>14. 密尔沃基M18电池逆向工程揭秘 
 <small>🔗 [quagmirerepair.com](https://quagmirerepair.com/milwaukee-m18-battery-reverse-engineering): Milwaukee M18 Battery Reverse Engineering</small>
 
 
-| 🔥🔥: 107 \| 💬: [34](https://news.ycombinator.com/item?id=43718809) \| 🗓️ 2025-04-17
+| 🔥🔥: 116 \| 💬: [40](https://news.ycombinator.com/item?id=43718809) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -191,11 +191,23 @@ Ege Erdil和Tamay Besiroglu认为，**通用人工智能（AGI）**至少还需3
 
 ---
 
-## <a name="15"></a>15. 在Apple Silicon上使用UTM搭建Linux开发环境 
+## <a name="15"></a>15. Discord试点人脸扫描年龄验证 或成行业趋势开端 
+<small>🔗 [bbc.com](https://www.bbc.com/news/articles/cjr75wypg0vo): Discord's face scanning age checks 'start of a bigger shift'</small>
+
+
+| 🔥🔥: 106 \| 💬: [168](https://news.ycombinator.com/item?id=43715884) \| 🗓️ 2025-04-17
+
+
+<br />
+Discord正在英国和澳大利亚测试**人脸扫描年龄验证**，以应对即将生效的英国《网络安全法》对成人内容的严格监管。专家Matt Navarra指出，**"点击确认年龄13岁"的时代已终结**，未来平台可能普遍采用生物识别技术。但隐私组织警告，此类验证存在**数据泄露和数字排斥风险**。Discord强调扫描数据仅存于设备且不收集ID信息，而Meta等企业已先行类似措施。澳大利亚拟禁止16岁以下使用社媒，凸显全球对未成年网络保护的强化趋势。
+
+---
+
+## <a name="16"></a>16. 在Apple Silicon上使用UTM搭建Linux开发环境 
 <small>🔗 [rkiselenko.dev](https://rkiselenko.dev/blog/development-on-mac-with-utm/development-on-mac-with-lima/): Development on Apple Silicon with UTM</small>
 
 
-| 🔥: 98 \| 💬: [62](https://news.ycombinator.com/item?id=43714959) \| 🗓️ 2025-04-17
+| 🔥: 99 \| 💬: [62](https://news.ycombinator.com/item?id=43714959) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -203,11 +215,11 @@ Ege Erdil和Tamay Besiroglu认为，**通用人工智能（AGI）**至少还需3
 
 ---
 
-## <a name="16"></a>16. OpenAI曾考虑收购Cursor开发商，后转向收购Windsurf 
+## <a name="17"></a>17. OpenAI曾考虑收购Cursor开发商，后转向收购Windsurf 
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/17/openai-looked-at-cursor-before-considering-deal-with-rival-windsurf.html): OpenAI looked at buying Cursor creator before turning to Windsurf</small>
 
 
-| 🔥: 98 \| 💬: [76](https://news.ycombinator.com/item?id=43716856) \| 🗓️ 2025-04-17
+| 🔥: 99 \| 💬: [82](https://news.ycombinator.com/item?id=43716856) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -215,7 +227,7 @@ Ege Erdil和Tamay Besiroglu认为，**通用人工智能（AGI）**至少还需3
 
 ---
 
-## <a name="17"></a>17. 美国研究发现多款牙膏含铅等重金属 
+## <a name="18"></a>18. 美国研究发现多款牙膏含铅等重金属 
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/apr/17/toothpaste-lead-heavy-metals): Toothpaste widely contaminated with lead and other metals, US research finds</small>
 
 
@@ -227,11 +239,11 @@ Ege Erdil和Tamay Besiroglu认为，**通用人工智能（AGI）**至少还需3
 
 ---
 
-## <a name="18"></a>18. AgentAPI：控制多款AI编程助手的HTTP接口工具 
+## <a name="19"></a>19. AgentAPI：控制多款AI编程助手的HTTP接口工具 
 <small>🔗 [github.com](https://github.com/coder/agentapi): Show HN: AgentAPI – HTTP API for Claude Code, Goose, Aider, and Codex</small>
 
 
-| 🔥: 95 \| 💬: [8](https://news.ycombinator.com/item?id=43719447) \| 🗓️ 2025-04-17
+| 🔥: 97 \| 💬: [10](https://news.ycombinator.com/item?id=43719447) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -239,35 +251,11 @@ Ege Erdil和Tamay Besiroglu认为，**通用人工智能（AGI）**至少还需3
 
 ---
 
-## <a name="19"></a>19. Discord试点人脸扫描年龄验证 或成行业趋势开端 
-<small>🔗 [bbc.com](https://www.bbc.com/news/articles/cjr75wypg0vo): Discord's face scanning age checks 'start of a bigger shift'</small>
-
-
-| 🔥: 91 \| 💬: [142](https://news.ycombinator.com/item?id=43715884) \| 🗓️ 2025-04-17
-
-
-<br />
-Discord正在英国和澳大利亚测试**人脸扫描年龄验证**，以应对即将生效的英国《网络安全法》对成人内容的严格监管。专家Matt Navarra指出，**"点击确认年龄13岁"的时代已终结**，未来平台可能普遍采用生物识别技术。但隐私组织警告，此类验证存在**数据泄露和数字排斥风险**。Discord强调扫描数据仅存于设备且不收集ID信息，而Meta等企业已先行类似措施。澳大利亚拟禁止16岁以下使用社媒，凸显全球对未成年网络保护的强化趋势。
-
----
-
-## <a name="20"></a>20. 用AI打造橄榄球赛事分析系统 
-<small>🔗 [nickjones.tech](https://nickjones.tech/ai-watching-rugby/): Building an AI that watches rugby</small>
-
-
-| 🔥: 76 \| 💬: [40](https://news.ycombinator.com/item?id=43714902) \| 🗓️ 2025-04-17
-
-
-<br />
-本文介绍了如何利用AI技术实时解析橄榄球比赛。作者团队开发的**Gainline应用**原本依赖结构化赛事数据，但无法捕捉裁判判罚原因、球员隐性表现等关键细节。为此，他们尝试通过**视觉模型**截取直播画面中的比分与时间，并用**Whisper语音识别**转录裁判与解说音频，从而生成更丰富的赛事分析。尽管OCR等传统技术效果有限，但AI原型已能低成本提取核心信息，未来有望实现自动化赛事叙事。这一实验展现了AI在体育领域的巨大潜力。
-
----
-
-## <a name="21"></a>21. mIRC 7.81 版本发布 
+## <a name="20"></a>20. mIRC 7.81 版本发布 
 <small>🔗 [mirc.com](https://www.mirc.com/): mIRC 7.81</small>
 
 
-| 🔥: 75 \| 💬: [90](https://news.ycombinator.com/item?id=43715306) \| 🗓️ 2025-04-17
+| 🔥: 78 \| 💬: [91](https://news.ycombinator.com/item?id=43715306) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -275,11 +263,23 @@ mIRC 是一款**全球流行**的 IRC 聊天客户端，被个人和组织广泛
 
 ---
 
+## <a name="21"></a>21. 用AI打造橄榄球赛事分析系统 
+<small>🔗 [nickjones.tech](https://nickjones.tech/ai-watching-rugby/): Building an AI that watches rugby</small>
+
+
+| 🔥: 76 \| 💬: [41](https://news.ycombinator.com/item?id=43714902) \| 🗓️ 2025-04-17
+
+
+<br />
+本文介绍了如何利用AI技术实时解析橄榄球比赛。作者团队开发的**Gainline应用**原本依赖结构化赛事数据，但无法捕捉裁判判罚原因、球员隐性表现等关键细节。为此，他们尝试通过**视觉模型**截取直播画面中的比分与时间，并用**Whisper语音识别**转录裁判与解说音频，从而生成更丰富的赛事分析。尽管OCR等传统技术效果有限，但AI原型已能低成本提取核心信息，未来有望实现自动化赛事叙事。这一实验展现了AI在体育领域的巨大潜力。
+
+---
+
 ## <a name="22"></a>22. 社区学院深陷“机器人学生”骗局，教师被迫化身侦探 
 <small>🔗 [voiceofsandiego.org](https://voiceofsandiego.org/2025/04/14/as-bot-students-continue-to-flood-in-community-colleges-struggle-to-respond/): As 'Bot' Students Continue to Flood In, Community Colleges Struggle to Respond</small>
 
 
-| 🔥: 72 \| 💬: [138](https://news.ycombinator.com/item?id=43715109) \| 🗓️ 2025-04-17
+| 🔥: 72 \| 💬: [139](https://news.ycombinator.com/item?id=43715109) \| 🗓️ 2025-04-17
 
 
 <br />
