@@ -27,7 +27,7 @@ tags:
 <small>🔗 [afterbabel.com](https://www.afterbabel.com/p/industrial-scale-harm-tiktok): TikTok is harming children at an industrial scale</small>
 
 
-| 🔥🔥: 552 \| 💬: [631](https://news.ycombinator.com/item?id=43716665) \| 🗓️ 2025-04-17
+| 🔥🔥: 553 \| 💬: [632](https://news.ycombinator.com/item?id=43716665) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/): Gemini 2.5 Flash</small>
 
 
-| 🔥🔥: 498 \| 💬: [284](https://news.ycombinator.com/item?id=43720845) \| 🗓️ 2025-04-17
+| 🔥🔥: 539 \| 💬: [300](https://news.ycombinator.com/item?id=43720845) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [maknee.github.io](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/): An intro to DeepSeek's distributed file system</small>
 
 
-| 🔥🔥: 454 \| 💬: [68](https://news.ycombinator.com/item?id=43716058) \| 🗓️ 2025-04-17
+| 🔥🔥: 467 \| 💬: [69](https://news.ycombinator.com/item?id=43716058) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [skyatnightmagazine.com](https://www.skyatnightmagazine.com/news/k2-18b-dimethyl-sulfide): “Most promising signs yet” of alien life on a planet beyond our Solar System</small>
 
 
-| 🔥🔥: 389 \| 💬: [316](https://news.ycombinator.com/item?id=43714203) \| 🗓️ 2025-04-17
+| 🔥🔥: 389 \| 💬: [319](https://news.ycombinator.com/item?id=43714203) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c1egdy24v7po): US Government threatens Harvard with foreign student ban</small>
 
 
-| 🔥🔥: 321 \| 💬: [352](https://news.ycombinator.com/item?id=43715022) \| 🗓️ 2025-04-17
+| 🔥🔥: 327 \| 💬: [358](https://news.ycombinator.com/item?id=43715022) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [wired.com](https://www.wired.com/story/massive-blue-overwatch-ai-personas-police-suspects/): This 'College Protester' Isn't Real. It's an AI-Powered Undercover Bot for Cops</small>
 
 
-| 🔥🔥: 220 \| 💬: [219](https://news.ycombinator.com/item?id=43716939) \| 🗓️ 2025-04-17
+| 🔥🔥: 223 \| 💬: [220](https://news.ycombinator.com/item?id=43716939) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -95,23 +95,11 @@ tags:
 
 ---
 
-## <a name="7"></a>7. 加密不是犯罪 
-<small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/04/11/encryption-is-not-a-crime/): Encryption Is Not a Crime</small>
-
-
-| 🔥🔥: 202 \| 💬: [202](https://news.ycombinator.com/item?id=43716138) \| 🗓️ 2025-04-17
-
-
-<br />
-加密是保护数字隐私的重要工具，而非犯罪手段。**端到端加密**确保只有通信双方能读取数据，防止黑客、政府监控和恶意攻击。然而，多国政府以“打击犯罪”为借口试图削弱加密，实则威胁公众安全。**加密后门**的设想存在致命漏洞，一旦实施，所有人的数据将暴露给犯罪分子。专家警告，破坏加密只会危害社会，而非保护儿童或安全。我们必须捍卫加密权利，使用加密工具并呼吁政策支持。
-
----
-
-## <a name="8"></a>8. 高动态范围（HDR）表情包制作指南 
+## <a name="7"></a>7. 高动态范围（HDR）表情包制作指南 
 <small>🔗 [sharpletters.net](https://sharpletters.net/2025/04/16/hdr-emoji/): HDR‑Infused Emoji</small>
 
 
-| 🔥🔥: 198 \| 💬: [110](https://news.ycombinator.com/item?id=43717606) \| 🗓️ 2025-04-17
+| 🔥🔥: 204 \| 💬: [115](https://news.ycombinator.com/item?id=43717606) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -119,11 +107,23 @@ tags:
 
 ---
 
+## <a name="8"></a>8. 加密不是犯罪 
+<small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/04/11/encryption-is-not-a-crime/): Encryption Is Not a Crime</small>
+
+
+| 🔥🔥: 203 \| 💬: [203](https://news.ycombinator.com/item?id=43716138) \| 🗓️ 2025-04-17
+
+
+<br />
+加密是保护数字隐私的重要工具，而非犯罪手段。**端到端加密**确保只有通信双方能读取数据，防止黑客、政府监控和恶意攻击。然而，多国政府以“打击犯罪”为借口试图削弱加密，实则威胁公众安全。**加密后门**的设想存在致命漏洞，一旦实施，所有人的数据将暴露给犯罪分子。专家警告，破坏加密只会危害社会，而非保护儿童或安全。我们必须捍卫加密权利，使用加密工具并呼吁政策支持。
+
+---
+
 ## <a name="9"></a>9. Erlang/OTP SSH 存在未授权远程代码执行漏洞 
 <small>🔗 [nvd.nist.gov](https://nvd.nist.gov/vuln/detail/CVE-2025-32433): Unauthenticated Remote Code Execution in Erlang/OTP SSH</small>
 
 
-| 🔥🔥: 152 \| 💬: [42](https://news.ycombinator.com/item?id=43716526) \| 🗓️ 2025-04-17
+| 🔥🔥: 156 \| 💬: [43](https://news.ycombinator.com/item?id=43716526) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -135,7 +135,7 @@ Erlang/OTP 是一套 Erlang 编程语言的库。在 **OTP-27.3.3、OTP-26.2.5.1
 <small>🔗 [tokyoweekender.com](https://www.tokyoweekender.com/art_and_culture/japanese-culture/oda-ujiharu-the-weakest-samurai-warlord/): Oda Ujiharu: Why the ‘weakest Samurai warlord’ is admired</small>
 
 
-| 🔥🔥: 150 \| 💬: [58](https://news.ycombinator.com/item?id=43714619) \| 🗓️ 2025-04-17
+| 🔥🔥: 151 \| 💬: [60](https://news.ycombinator.com/item?id=43714619) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -147,7 +147,7 @@ Erlang/OTP 是一套 Erlang 编程语言的库。在 **OTP-27.3.3、OTP-26.2.5.1
 <small>🔗 [dwarkesh.com](https://www.dwarkesh.com/p/ege-tamay): AGI Is Still 30 Years Away – Ege Erdil and Tamay Besiroglu</small>
 
 
-| 🔥🔥: 138 \| 💬: [271](https://news.ycombinator.com/item?id=43719280) \| 🗓️ 2025-04-17
+| 🔥🔥: 140 \| 💬: [275](https://news.ycombinator.com/item?id=43719280) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -155,47 +155,11 @@ Ege Erdil和Tamay Besiroglu认为，**通用人工智能（AGI）**至少还需3
 
 ---
 
-## <a name="12"></a>12. 将Rust编译时间从30分钟缩短至2分钟的千箱奇技 
-<small>🔗 [feldera.com](https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates): Cutting down Rust compile times from 30 to 2 minutes with one thousand crates</small>
-
-
-| 🔥🔥: 126 \| 💬: [69](https://news.ycombinator.com/item?id=43715235) \| 🗓️ 2025-04-17
-
-
-<br />
-Feldera团队通过将**单一大箱体拆分为1106个小箱体**，成功将复杂SQL转换的Rust代码编译时间从30-45分钟降至2分钟。核心突破在于利用**数据流图结构**，使每个算子生成独立箱体，利用哈希命名实现增量编译。尽管LLVM阶段仍受限于单线程，但多箱体策略让64核机器实现全负载并行，**编译效率提升15倍**。遗留问题包括超线性资源争用，但已为实时数据管道带来革命性优化。
-
----
-
-## <a name="13"></a>13. 密尔沃基M18电池逆向工程揭秘 
-<small>🔗 [quagmirerepair.com](https://quagmirerepair.com/milwaukee-m18-battery-reverse-engineering): Milwaukee M18 Battery Reverse Engineering</small>
-
-
-| 🔥🔥: 126 \| 💬: [44](https://news.ycombinator.com/item?id=43718809) \| 🗓️ 2025-04-17
-
-
-<br />
-作者拆解了一款**密尔沃基M18 3Ah电池**（型号48-11-1828），发现其采用**德州仪器MSP430G2744微控制器**和**BQ76925电池监控芯片**，电路设计基本复刻了TI参考方案。逆向过程中遇到多层PCB解析、元件标记模糊等挑战，最终通过溶剂清洗和砂纸打磨揭示了各层走线。电池通过**2000波特率串口**与充电器通信，但部分工具（如LED手电筒）未启用该功能。后续由Tool Scientist团队进一步研究发现，工具与电池通过**12V/3V电压握手**触发交互，但原设计未实现电池均衡功能。
-
----
-
-## <a name="14"></a>14. Bash高级脚本编程指南（2006） 
-<small>🔗 [uniforumchicago.org](http://uniforumchicago.org/slides/bash1.pdf): Advanced Shell Scripting with Bash (2006) [pdf]</small>
-
-
-| 🔥🔥: 120 \| 💬: [88](https://news.ycombinator.com/item?id=43714594) \| 🗓️ 2025-04-17
-
-
-<br />
-该PDF文档是一份关于**Bash脚本编程**的进阶教程，涵盖Shell脚本的**高级技巧**和实用方法。内容可能包括脚本优化、自动化任务处理以及**复杂命令组合**等主题，适合有一定基础的开发者提升技能。由于原文为PDF格式的二进制数据，具体细节需查阅完整文档。
-
----
-
-## <a name="15"></a>15. Discord试点人脸扫描年龄验证 或成行业趋势开端 
+## <a name="12"></a>12. Discord试点人脸扫描年龄验证 或成行业趋势开端 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/cjr75wypg0vo): Discord's face scanning age checks 'start of a bigger shift'</small>
 
 
-| 🔥🔥: 119 \| 💬: [174](https://news.ycombinator.com/item?id=43715884) \| 🗓️ 2025-04-17
+| 🔥🔥: 133 \| 💬: [184](https://news.ycombinator.com/item?id=43715884) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -203,11 +167,47 @@ Discord正在英国和澳大利亚测试**人脸扫描年龄验证**，以应对
 
 ---
 
+## <a name="13"></a>13. 密尔沃基M18电池逆向工程揭秘 
+<small>🔗 [quagmirerepair.com](https://quagmirerepair.com/milwaukee-m18-battery-reverse-engineering): Milwaukee M18 Battery Reverse Engineering</small>
+
+
+| 🔥🔥: 128 \| 💬: [48](https://news.ycombinator.com/item?id=43718809) \| 🗓️ 2025-04-17
+
+
+<br />
+作者拆解了一款**密尔沃基M18 3Ah电池**（型号48-11-1828），发现其采用**德州仪器MSP430G2744微控制器**和**BQ76925电池监控芯片**，电路设计基本复刻了TI参考方案。逆向过程中遇到多层PCB解析、元件标记模糊等挑战，最终通过溶剂清洗和砂纸打磨揭示了各层走线。电池通过**2000波特率串口**与充电器通信，但部分工具（如LED手电筒）未启用该功能。后续由Tool Scientist团队进一步研究发现，工具与电池通过**12V/3V电压握手**触发交互，但原设计未实现电池均衡功能。
+
+---
+
+## <a name="14"></a>14. 将Rust编译时间从30分钟缩短至2分钟的千箱奇技 
+<small>🔗 [feldera.com](https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates): Cutting down Rust compile times from 30 to 2 minutes with one thousand crates</small>
+
+
+| 🔥🔥: 127 \| 💬: [69](https://news.ycombinator.com/item?id=43715235) \| 🗓️ 2025-04-17
+
+
+<br />
+Feldera团队通过将**单一大箱体拆分为1106个小箱体**，成功将复杂SQL转换的Rust代码编译时间从30-45分钟降至2分钟。核心突破在于利用**数据流图结构**，使每个算子生成独立箱体，利用哈希命名实现增量编译。尽管LLVM阶段仍受限于单线程，但多箱体策略让64核机器实现全负载并行，**编译效率提升15倍**。遗留问题包括超线性资源争用，但已为实时数据管道带来革命性优化。
+
+---
+
+## <a name="15"></a>15. Bash高级脚本编程指南（2006） 
+<small>🔗 [uniforumchicago.org](http://uniforumchicago.org/slides/bash1.pdf): Advanced Shell Scripting with Bash (2006) [pdf]</small>
+
+
+| 🔥🔥: 120 \| 💬: [90](https://news.ycombinator.com/item?id=43714594) \| 🗓️ 2025-04-17
+
+
+<br />
+该PDF文档是一份关于**Bash脚本编程**的进阶教程，涵盖Shell脚本的**高级技巧**和实用方法。内容可能包括脚本优化、自动化任务处理以及**复杂命令组合**等主题，适合有一定基础的开发者提升技能。由于原文为PDF格式的二进制数据，具体细节需查阅完整文档。
+
+---
+
 ## <a name="16"></a>16. OpenAI曾考虑收购Cursor开发商，后转向收购Windsurf 
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/17/openai-looked-at-cursor-before-considering-deal-with-rival-windsurf.html): OpenAI looked at buying Cursor creator before turning to Windsurf</small>
 
 
-| 🔥🔥: 103 \| 💬: [85](https://news.ycombinator.com/item?id=43716856) \| 🗓️ 2025-04-17
+| 🔥🔥: 104 \| 💬: [89](https://news.ycombinator.com/item?id=43716856) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -219,7 +219,7 @@ Discord正在英国和澳大利亚测试**人脸扫描年龄验证**，以应对
 <small>🔗 [github.com](https://github.com/coder/agentapi): Show HN: AgentAPI – HTTP API for Claude Code, Goose, Aider, and Codex</small>
 
 
-| 🔥: 100 \| 💬: [11](https://news.ycombinator.com/item?id=43719447) \| 🗓️ 2025-04-17
+| 🔥🔥: 102 \| 💬: [11](https://news.ycombinator.com/item?id=43719447) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -255,7 +255,7 @@ Discord正在英国和澳大利亚测试**人脸扫描年龄验证**，以应对
 <small>🔗 [mirc.com](https://www.mirc.com/): mIRC 7.81</small>
 
 
-| 🔥: 83 \| 💬: [93](https://news.ycombinator.com/item?id=43715306) \| 🗓️ 2025-04-17
+| 🔥: 85 \| 💬: [94](https://news.ycombinator.com/item?id=43715306) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -279,7 +279,7 @@ mIRC 是一款**全球流行**的 IRC 聊天客户端，被个人和组织广泛
 <small>🔗 [voiceofsandiego.org](https://voiceofsandiego.org/2025/04/14/as-bot-students-continue-to-flood-in-community-colleges-struggle-to-respond/): As 'Bot' Students Continue to Flood In, Community Colleges Struggle to Respond</small>
 
 
-| 🔥: 73 \| 💬: [139](https://news.ycombinator.com/item?id=43715109) \| 🗓️ 2025-04-17
+| 🔥: 73 \| 💬: [141](https://news.ycombinator.com/item?id=43715109) \| 🗓️ 2025-04-17
 
 
 <br />
