@@ -12,11 +12,11 @@ tags:
 1. 网络安全行业的沉默震耳欲聋；
 1. 将《毁灭战士》游戏塞进二维码的神奇项目；
 1. 法官裁定大规模调取基站数据违宪；
-1. arXiv将服务从康奈尔服务器迁移至谷歌云；
+1. IBM强制美国销售与云员工回归办公室 同步削减DEI项目；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共20条，具体内容您往下读...
+总共21条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [defold.com](https://defold.com): Defold: cross-platform game engine</small>
 
 
-| 🔥🔥: 311 \| 💬: [125](https://news.ycombinator.com/item?id=43726051) \| 🗓️ 2025-04-18
+| 🔥🔥: 316 \| 💬: [130](https://news.ycombinator.com/item?id=43726051) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -39,7 +39,7 @@ Defold是一款**高性能**、**完全免费**的跨平台游戏引擎，支持
 <small>🔗 [forbes.com](https://www.forbes.com/sites/tonybradley/2025/04/16/deafening-silence-from-the-cybersecurity-industry/): Deafening Silence from the Cybersecurity Industry</small>
 
 
-| 🔥🔥: 298 \| 💬: [224](https://news.ycombinator.com/item?id=43726548) \| 🗓️ 2025-04-18
+| 🔥🔥: 299 \| 💬: [228](https://news.ycombinator.com/item?id=43726548) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -51,7 +51,7 @@ Defold是一款**高性能**、**完全免费**的跨平台游戏引擎，支持
 <small>🔗 [github.com](https://github.com/Kuberwastaken/backdooms): Show HN: I made a Doom-like game fit inside a QR code</small>
 
 
-| 🔥🔥: 261 \| 💬: [76](https://news.ycombinator.com/item?id=43729683) \| 🗓️ 2025-04-18
+| 🔥🔥: 285 \| 💬: [88](https://news.ycombinator.com/item?id=43729683) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -63,7 +63,7 @@ Defold是一款**高性能**、**完全免费**的跨平台游戏引擎，支持
 <small>🔗 [404media.co](https://www.404media.co/judge-rules-blanket-search-of-cell-tower-data-unconstitutional/): Judge Rules Blanket Search of Cell Tower Data Unconstitutional</small>
 
 
-| 🔥🔥: 221 \| 💬: [90](https://news.ycombinator.com/item?id=43730545) \| 🗓️ 2025-04-18
+| 🔥🔥: 255 \| 💬: [103](https://news.ycombinator.com/item?id=43730545) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -71,23 +71,11 @@ Defold是一款**高性能**、**完全免费**的跨平台游戏引擎，支持
 
 ---
 
-## <a name="5"></a>5. arXiv将服务从康奈尔服务器迁移至谷歌云 
-<small>🔗 [info.arxiv.org](https://info.arxiv.org/hiring/index.html): arXiv moving from Cornell servers to Google Cloud</small>
-
-
-| 🔥🔥: 176 \| 💬: [135](https://news.ycombinator.com/item?id=43726640) \| 🗓️ 2025-04-18
-
-
-<br />
-arXiv宣布启动**arXiv CE（云版本）项目**，计划将所有服务从康奈尔大学的虚拟机迁移至**谷歌云平台**。此举旨在提升系统扩展性、实现基础设施现代化，并重构后端代码（替换Perl/PHP）、优化异步处理流程及容器化部署。项目还将改善监控、日志和CI/CD管道，为后续功能升级（如扩展学科领域、完善元数据等）奠定基础。目前开放三个职位：**全栈工程师**、**DevOps专家**和**科学家/开发者**，需具备相关技术能力且优先考虑本地或混合办公者。
-
----
-
-## <a name="6"></a>6. IBM强制美国销售与云员工回归办公室 同步削减DEI项目 
+## <a name="5"></a>5. IBM强制美国销售与云员工回归办公室 同步削减DEI项目 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/18/ibm_orders_us_sales_staff/): IBM orders US sales to locate near customers, RTO for cloud staff, DEI purge</small>
 
 
-| 🔥🔥: 175 \| 💬: [246](https://news.ycombinator.com/item?id=43727727) \| 🗓️ 2025-04-18
+| 🔥🔥: 187 \| 💬: [293](https://news.ycombinator.com/item?id=43727727) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -95,23 +83,23 @@ IBM要求**美国销售团队**每周至少3天在客户现场、旗舰办公室
 
 ---
 
-## <a name="7"></a>7. 如何编写更高效的C++代码 
-<small>🔗 [github.com](https://github.com/ashvardanian/less_slow.cpp): Less Slow C++</small>
+## <a name="6"></a>6. arXiv将服务从康奈尔服务器迁移至谷歌云 
+<small>🔗 [info.arxiv.org](https://info.arxiv.org/hiring/index.html): arXiv moving from Cornell servers to Google Cloud</small>
 
 
-| 🔥🔥: 173 \| 💬: [76](https://news.ycombinator.com/item?id=43727743) \| 🗓️ 2025-04-18
+| 🔥🔥: 179 \| 💬: [140](https://news.ycombinator.com/item?id=43726640) \| 🗓️ 2025-04-18
 
 
 <br />
-该项目通过C++20、C99、CUDA和汇编等语言，从数值计算、SIMD到协程、范围库和网络编程，展示了**高性能编程**的核心技巧。内容涵盖编译器优化、并行算法、内存管理及GPU加速等，帮助开发者避开常见性能陷阱。例如，仅用3行代码即可让`std::sin`提速40倍，或通过自定义迭代器实现**4倍性能提升**。项目还对比了不同硬件（如Intel与Nvidia）的优化策略，并提供了详尽的基准测试方法。适合追求极致效率的开发者学习实践。
+arXiv宣布启动**arXiv CE（云版本）项目**，计划将所有服务从康奈尔大学的虚拟机迁移至**谷歌云平台**。此举旨在提升系统扩展性、实现基础设施现代化，并重构后端代码（替换Perl/PHP）、优化异步处理流程及容器化部署。项目还将改善监控、日志和CI/CD管道，为后续功能升级（如扩展学科领域、完善元数据等）奠定基础。目前开放三个职位：**全栈工程师**、**DevOps专家**和**科学家/开发者**，需具备相关技术能力且优先考虑本地或混合办公者。
 
 ---
 
-## <a name="8"></a>8. Python现已集成1.5万行经过验证的加密代码 
+## <a name="7"></a>7. Python现已集成1.5万行经过验证的加密代码 
 <small>🔗 [jonathan.protzenko.fr](https://jonathan.protzenko.fr/2025/04/18/python.html): 15,000 lines of verified cryptography now in Python</small>
 
 
-| 🔥🔥: 139 \| 💬: [26](https://news.ycombinator.com/item?id=43731165) \| 🗓️ 2025-04-18
+| 🔥🔥: 178 \| 💬: [43](https://news.ycombinator.com/item?id=43731165) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -119,11 +107,23 @@ IBM要求**美国销售团队**每周至少3天在客户现场、旗舰办公室
 
 ---
 
+## <a name="8"></a>8. 如何编写更高效的C++代码 
+<small>🔗 [github.com](https://github.com/ashvardanian/less_slow.cpp): Less Slow C++</small>
+
+
+| 🔥🔥: 175 \| 💬: [80](https://news.ycombinator.com/item?id=43727743) \| 🗓️ 2025-04-18
+
+
+<br />
+该项目通过C++20、C99、CUDA和汇编等语言，从数值计算、SIMD到协程、范围库和网络编程，展示了**高性能编程**的核心技巧。内容涵盖编译器优化、并行算法、内存管理及GPU加速等，帮助开发者避开常见性能陷阱。例如，仅用3行代码即可让`std::sin`提速40倍，或通过自定义迭代器实现**4倍性能提升**。项目还对比了不同硬件（如Intel与Nvidia）的优化策略，并提供了详尽的基准测试方法。适合追求极致效率的开发者学习实践。
+
+---
+
 ## <a name="9"></a>9. 围墙花园可能致命 
 <small>🔗 [aneesiqbal.ai](https://aneesiqbal.ai/2025-04-18-walled-gardens-can-kill): Walled Gardens Can Kill</small>
 
 
-| 🔥🔥: 136 \| 💬: [104](https://news.ycombinator.com/item?id=43726672) \| 🗓️ 2025-04-18
+| 🔥🔥: 138 \| 💬: [110](https://news.ycombinator.com/item?id=43726672) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -135,7 +135,7 @@ IBM要求**美国销售团队**每周至少3天在客户现场、旗舰办公室
 <small>🔗 [blog.trailofbits.com](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/): A New ASN.1 API for Python</small>
 
 
-| 🔥🔥: 128 \| 💬: [40](https://news.ycombinator.com/item?id=43728279) \| 🗓️ 2025-04-18
+| 🔥🔥: 132 \| 💬: [39](https://news.ycombinator.com/item?id=43728279) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -147,7 +147,7 @@ ASN.1是加密、PKI和底层网络协议的核心序列化语言，但现有Pyt
 <small>🔗 [architectsjournal.co.uk](https://www.architectsjournal.co.uk/news/opinion/waiting-100-years-for-a-home-isnt-a-housing-crisis-its-a-moral-collapse): Waiting 100 years for a home isn't a housing crisis, it's a moral collapse</small>
 
 
-| 🔥: 81 \| 💬: [167](https://news.ycombinator.com/item?id=43726261) \| 🗓️ 2025-04-18
+| 🔥: 82 \| 💬: [171](https://news.ycombinator.com/item?id=43726261) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -155,71 +155,11 @@ ASN.1是加密、PKI和底层网络协议的核心序列化语言，但现有Pyt
 
 ---
 
-## <a name="12"></a>12. 墨水与开关约束系统：突破性进展（2023年秋） 
-<small>🔗 [inkandswitch.com](https://www.inkandswitch.com/ink/notes/phase-2-constraint-system/): Ink and Switch Constraint System (2023)</small>
-
-
-| 🔥: 56 \| 💬: [7](https://news.ycombinator.com/item?id=43729932) \| 🗓️ 2025-04-18
-
-
-<br />
-本文总结了**约束系统**在动态媒介中的关键作用：它能实现机械构造（如滑轮绳索）的物理模拟、参数化双向计算（如建筑图纸随表格编辑自动更新）。针对传统约束系统的**“漂移”**、**“爆炸”**和性能问题，团队通过**“已知量传播”**和线性关系优化，将变量维度压缩，显著提升求解稳定性与效率。例如，角度约束通过θBA=θAB+π避免冗余计算。此外，**“聚类”**技术将约束分组独立求解，为并行化奠定基础。系统兼容多种求解器（如梯度下降法），并通过极坐标替代笛卡尔坐标进一步优化。早期测试中，原有不稳定构造在新系统中均运行良好。
-
----
-
-## <a name="13"></a>13. Attune：快速构建和发布APT仓库的开源工具 
-<small>🔗 [github.com](https://github.com/attunehq/attune): Show HN: Attune - Build and publish APT repositories in seconds</small>
-
-
-| 🔥: 53 \| 💬: [15](https://news.ycombinator.com/item?id=43729427) \| 🗓️ 2025-04-18
-
-
-<br />
-Attune是一个**开源工件注册中心**，支持快速搭建和发布Linux软件包仓库。它提供**灵活的部署方式**（自托管或云端托管），并采用**本地签名设计**确保密钥安全。当前支持APT（Debian/Ubuntu）仓库，未来将扩展更多格式。通过Docker和CLI工具，用户可在5分钟内完成仓库初始化、添加软件包及签名发布。项目采用**Apache 2.0许可证**，强调高效（增量索引重建）与安全。
-
----
-
-## <a name="14"></a>14. Zig语言与GPU编程的新趋势 
-<small>🔗 [alichraghi.github.io](https://alichraghi.github.io/blog/zig-gpu/): Zig and GPUs</small>
-
-
-| 🔥: 38 \| 💬: [7](https://news.ycombinator.com/item?id=43726413) \| 🗓️ 2025-04-18
-
-
-<br />
-传统GPU开发依赖复杂的C++工具链，而现代语言如**Zig**和Rust正简化这一流程。Zig已支持通过**SPIR-V**（Vulkan/OpenCL）、**PTX**（NVIDIA）和**AMDGCN**（AMD）后端直接生成GPU代码，无需依赖CUDA或HLSL。目前，其SPIR-V后端能通过约50%的Zig行为测试（Vulkan）和75%（OpenCL），但地址空间差异和数学指令精度问题仍是挑战。未来计划优化验证工具、增加CUDA/HIP绑定，并扩展标准库的GPU算法支持。
-
----
-
-## <a name="15"></a>15. 大学城：旧时代的都市主义遗产 
-<small>🔗 [governance.fyi](https://www.governance.fyi/p/college-towns-urbanism-from-a-past): College Towns: Urbanism from a Past Era</small>
-
-
-| 🔥: 37 \| 💬: [53](https://news.ycombinator.com/item?id=43729609) \| 🗓️ 2025-04-18
-
-
-<br />
-本文采访了南加州大学教授Ryan Allen，探讨了**大学城如何意外保留了美国步行友好的社区模式**。Allen指出，大学周边区域因历史规划避免了郊区化破坏，形成了独特的“战前”社区风貌。他批评了当前高等教育体系的问题，尤其是**博士就业市场的崩溃**，并强调需警惕盲目攻读博士的风险。此外，文章提到迪士尼乐园高价重现的步行街，讽刺了被郊区开发摧毁的原有城市肌理。Allen认为，大学与社区的矛盾（**“城镇与学袍”冲突**）源于对发展的抵制，而解决之道在于对抗停滞而非邻避主义。
-
----
-
-## <a name="16"></a>16. Evans《领域驱动设计》示例的UML图解 
-<small>🔗 [github.com](https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book): UML diagram for the DDD example in Evans' book</small>
-
-
-| 🔥: 36 \| 💬: [14](https://news.ycombinator.com/item?id=43731250) \| 🗓️ 2025-04-18
-
-
-<br />
-该项目通过**UML图表**展示了Eric Evans著作《领域驱动设计》中**货运系统示例**的结构与行为，基于GitHub上的dddsample-core项目源码绘制。图表涵盖领域模型概览、用户交互流程（如货物跟踪与预订）、系统整体架构（分为预订和运输网络上下文）等核心设计，帮助理解DDD的战略与战术实现。需使用Astah建模工具查看详细模型文件，图表支持类似Google Maps的缩放浏览功能。项目采用CC0许可，引用D3.js等开源库。
-
----
-
-## <a name="17"></a>17. 美国法庭记录全文检索平台 
+## <a name="12"></a>12. 美国法庭记录全文检索平台 
 <small>🔗 [judyrecords.com](https://www.judyrecords.com/): Full Text Search of US Court records</small>
 
 
-| 🔥: 34 \| 💬: [6](https://news.ycombinator.com/item?id=43731552) \| 🗓️ 2025-04-18
+| 🔥: 82 \| 💬: [13](https://news.ycombinator.com/item?id=43731552) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -227,11 +167,35 @@ Attune是一个**开源工件注册中心**，支持快速搭建和发布Linux�
 
 ---
 
-## <a name="18"></a>18. 电动推进的致命缺陷：锂电在航空与船舶领域为何无法盈利 
+## <a name="13"></a>13. 墨水与开关约束系统：突破性进展（2023年秋） 
+<small>🔗 [inkandswitch.com](https://www.inkandswitch.com/ink/notes/phase-2-constraint-system/): Ink and Switch Constraint System (2023)</small>
+
+
+| 🔥: 59 \| 💬: [7](https://news.ycombinator.com/item?id=43729932) \| 🗓️ 2025-04-18
+
+
+<br />
+本文总结了**约束系统**在动态媒介中的关键作用：它能实现机械构造（如滑轮绳索）的物理模拟、参数化双向计算（如建筑图纸随表格编辑自动更新）。针对传统约束系统的**“漂移”**、**“爆炸”**和性能问题，团队通过**“已知量传播”**和线性关系优化，将变量维度压缩，显著提升求解稳定性与效率。例如，角度约束通过θBA=θAB+π避免冗余计算。此外，**“聚类”**技术将约束分组独立求解，为并行化奠定基础。系统兼容多种求解器（如梯度下降法），并通过极坐标替代笛卡尔坐标进一步优化。早期测试中，原有不稳定构造在新系统中均运行良好。
+
+---
+
+## <a name="14"></a>14. Attune：快速构建和发布APT仓库的开源工具 
+<small>🔗 [github.com](https://github.com/attunehq/attune): Show HN: Attune - Build and publish APT repositories in seconds</small>
+
+
+| 🔥: 56 \| 💬: [18](https://news.ycombinator.com/item?id=43729427) \| 🗓️ 2025-04-18
+
+
+<br />
+Attune是一个**开源工件注册中心**，支持快速搭建和发布Linux软件包仓库。它提供**灵活的部署方式**（自托管或云端托管），并采用**本地签名设计**确保密钥安全。当前支持APT（Debian/Ubuntu）仓库，未来将扩展更多格式。通过Docker和CLI工具，用户可在5分钟内完成仓库初始化、添加软件包及签名发布。项目采用**Apache 2.0许可证**，强调高效（增量索引重建）与安全。
+
+---
+
+## <a name="15"></a>15. 电动推进的致命缺陷：锂电在航空与船舶领域为何无法盈利 
 <small>🔗 [kumarletter.com](https://kumarletter.com/posts/electric-propulsion-s-dirty-secret-why-lithium-can-t-fly-or-float-profitably): Electric Propulsion's Dirty Secret: Why Lithium Can't Fly (Or Float) Profitably</small>
 
 
-| 🔥: 27 \| 💬: [78](https://news.ycombinator.com/item?id=43731168) \| 🗓️ 2025-04-18
+| 🔥: 44 \| 💬: [124](https://news.ycombinator.com/item?id=43731168) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -239,11 +203,59 @@ Attune是一个**开源工件注册中心**，支持快速搭建和发布Linux�
 
 ---
 
-## <a name="19"></a>19. 爆料：狗狗币流入后数据泄露，俄罗斯黑客开始登录 
+## <a name="16"></a>16. Evans《领域驱动设计》示例的UML图解 
+<small>🔗 [github.com](https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book): UML diagram for the DDD example in Evans' book</small>
+
+
+| 🔥: 43 \| 💬: [22](https://news.ycombinator.com/item?id=43731250) \| 🗓️ 2025-04-18
+
+
+<br />
+该项目通过**UML图表**展示了Eric Evans著作《领域驱动设计》中**货运系统示例**的结构与行为，基于GitHub上的dddsample-core项目源码绘制。图表涵盖领域模型概览、用户交互流程（如货物跟踪与预订）、系统整体架构（分为预订和运输网络上下文）等核心设计，帮助理解DDD的战略与战术实现。需使用Astah建模工具查看详细模型文件，图表支持类似Google Maps的缩放浏览功能。项目采用CC0许可，引用D3.js等开源库。
+
+---
+
+## <a name="17"></a>17. Zig语言与GPU编程的新趋势 
+<small>🔗 [alichraghi.github.io](https://alichraghi.github.io/blog/zig-gpu/): Zig and GPUs</small>
+
+
+| 🔥: 40 \| 💬: [7](https://news.ycombinator.com/item?id=43726413) \| 🗓️ 2025-04-18
+
+
+<br />
+传统GPU开发依赖复杂的C++工具链，而现代语言如**Zig**和Rust正简化这一流程。Zig已支持通过**SPIR-V**（Vulkan/OpenCL）、**PTX**（NVIDIA）和**AMDGCN**（AMD）后端直接生成GPU代码，无需依赖CUDA或HLSL。目前，其SPIR-V后端能通过约50%的Zig行为测试（Vulkan）和75%（OpenCL），但地址空间差异和数学指令精度问题仍是挑战。未来计划优化验证工具、增加CUDA/HIP绑定，并扩展标准库的GPU算法支持。
+
+---
+
+## <a name="18"></a>18. 大学城：旧时代的都市主义遗产 
+<small>🔗 [governance.fyi](https://www.governance.fyi/p/college-towns-urbanism-from-a-past): College Towns: Urbanism from a Past Era</small>
+
+
+| 🔥: 40 \| 💬: [60](https://news.ycombinator.com/item?id=43729609) \| 🗓️ 2025-04-18
+
+
+<br />
+本文采访了南加州大学教授Ryan Allen，探讨了**大学城如何意外保留了美国步行友好的社区模式**。Allen指出，大学周边区域因历史规划避免了郊区化破坏，形成了独特的“战前”社区风貌。他批评了当前高等教育体系的问题，尤其是**博士就业市场的崩溃**，并强调需警惕盲目攻读博士的风险。此外，文章提到迪士尼乐园高价重现的步行街，讽刺了被郊区开发摧毁的原有城市肌理。Allen认为，大学与社区的矛盾（**“城镇与学袍”冲突**）源于对发展的抵制，而解决之道在于对抗停滞而非邻避主义。
+
+---
+
+## <a name="19"></a>19. 地球深处暗藏生命奥秘 
+<small>🔗 [noemamag.com](https://www.noemamag.com/theres-life-inside-earths-crust/): There's Life Inside Earth's Crust</small>
+
+
+| 🔥: 39 \| 💬: [9](https://news.ycombinator.com/item?id=43730701) \| 🗓️ 2025-04-18
+
+
+<br />
+科学家发现，**地球地壳深处**存在大量微生物（**"地内生命"**），它们无需阳光和氧气，通过呼吸砷、铀等元素存活，代谢速度极慢——单个细胞可存活数百万年。这些生命颠覆了传统对生命边界的认知，甚至可能影响全球气候：永久冻土中的微生物若因升温苏醒，或将释放巨量碳加剧变暖，但也可能通过固碳作用缓解危机。此外，它们与金属的互动或为新能源技术提供资源，但深海采矿可能破坏其生态平衡。
+
+---
+
+## <a name="20"></a>20. 爆料：狗狗币流入后数据泄露，俄罗斯黑客开始登录 
 <small>🔗 [threadreaderapp.com](https://threadreaderapp.com/thread/1913023007263543565.html): Whistleblower: Doge came in, data went out, and Russians started to login</small>
 
 
-| 🔥: 25 \| 💬: [9](https://news.ycombinator.com/item?id=43727051) \| 🗓️ 2025-04-18
+| 🔥: 27 \| 💬: [9](https://news.ycombinator.com/item?id=43727051) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -251,11 +263,11 @@ Attune是一个**开源工件注册中心**，支持快速搭建和发布Linux�
 
 ---
 
-## <a name="20"></a>20. 当CEO想用AI取代人类时，如何为“人”的价值辩护？ 
+## <a name="21"></a>21. 当CEO想用AI取代人类时，如何为“人”的价值辩护？ 
 <small>🔗 [lewislin.substack.com](https://lewislin.substack.com/p/dear-lewis-my-ceo-wants-ai-to-do): Dear Lewis, my CEO wants AI to do it all. How do I argue for humans?</small>
 
 
-| 🔥: 24 \| 💬: [85](https://news.ycombinator.com/item?id=43729712) \| 🗓️ 2025-04-18
+| 🔥: 24 \| 💬: [87](https://news.ycombinator.com/item?id=43729712) \| 🗓️ 2025-04-18
 
 
 <br />
