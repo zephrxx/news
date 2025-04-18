@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/): Gemini 2.5 Flash</small>
 
 
-| 🔥🔥: 611 \| 💬: [326](https://news.ycombinator.com/item?id=43720845) \| 🗓️ 2025-04-17
+| 🔥🔥: 640 \| 💬: [344](https://news.ycombinator.com/item?id=43720845) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [afterbabel.com](https://www.afterbabel.com/p/industrial-scale-harm-tiktok): TikTok is harming children at an industrial scale</small>
 
 
-| 🔥🔥: 558 \| 💬: [637](https://news.ycombinator.com/item?id=43716665) \| 🗓️ 2025-04-17
+| 🔥🔥: 559 \| 💬: [638](https://news.ycombinator.com/item?id=43716665) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [maknee.github.io](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/): An intro to DeepSeek's distributed file system</small>
 
 
-| 🔥🔥: 484 \| 💬: [74](https://news.ycombinator.com/item?id=43716058) \| 🗓️ 2025-04-17
+| 🔥🔥: 492 \| 💬: [74](https://news.ycombinator.com/item?id=43716058) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [skyatnightmagazine.com](https://www.skyatnightmagazine.com/news/k2-18b-dimethyl-sulfide): “Most promising signs yet” of alien life on a planet beyond our Solar System</small>
 
 
-| 🔥🔥: 394 \| 💬: [324](https://news.ycombinator.com/item?id=43714203) \| 🗓️ 2025-04-17
+| 🔥🔥: 395 \| 💬: [325](https://news.ycombinator.com/item?id=43714203) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c1egdy24v7po): US Government threatens Harvard with foreign student ban</small>
 
 
-| 🔥🔥: 339 \| 💬: [363](https://news.ycombinator.com/item?id=43715022) \| 🗓️ 2025-04-17
+| 🔥🔥: 340 \| 💬: [372](https://news.ycombinator.com/item?id=43715022) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -83,11 +83,23 @@ tags:
 
 ---
 
-## <a name="6"></a>6. 美国警方用AI虚拟卧底监控抗议者与犯罪网络 
+## <a name="6"></a>6. Intuit旗下TurboTax击败美国纳税人：免费报税服务遭扼杀 
+<small>🔗 [prospect.org](https://prospect.org/power/2025-04-17-intuit-turbotax-wins-battle-against-taxpayers-irs-direct-file/): Intuit, Owner of TurboTax, Wins Battle Against America's Taxpayers</small>
+
+
+| 🔥🔥: 316 \| 💬: [166](https://news.ycombinator.com/item?id=43724267) \| 🗓️ 2025-04-17
+
+
+<br />
+美国国税局（IRS）的免费报税项目**Direct File**因Intuit的持续游说而面临关闭。该公司通过**巨额政治献金**（如向特朗普就职委员会捐赠100万美元）和立法施压，成功阻挠政府简化报税流程的尝试。尽管Direct File用户满意度超90%，Intuit仍以“公共部门竞争威胁”为由，推动国会终止该计划。此前，Intuit因**误导消费者付费使用本应免费的服务**被判赔偿1亿美元。这场持续数十年的博弈，最终以纳税人被迫继续支付高额报税费用告终。
+
+---
+
+## <a name="7"></a>7. 美国警方用AI虚拟卧底监控抗议者与犯罪网络 
 <small>🔗 [wired.com](https://www.wired.com/story/massive-blue-overwatch-ai-personas-police-suspects/): This 'College Protester' Isn't Real. It's an AI-Powered Undercover Bot for Cops</small>
 
 
-| 🔥🔥: 224 \| 💬: [220](https://news.ycombinator.com/item?id=43716939) \| 🗓️ 2025-04-17
+| 🔥🔥: 224 \| 💬: [219](https://news.ycombinator.com/item?id=43716939) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -95,11 +107,11 @@ tags:
 
 ---
 
-## <a name="7"></a>7. 高动态范围（HDR）表情包制作指南 
+## <a name="8"></a>8. 高动态范围（HDR）表情包制作指南 
 <small>🔗 [sharpletters.net](https://sharpletters.net/2025/04/16/hdr-emoji/): HDR‑Infused Emoji</small>
 
 
-| 🔥🔥: 212 \| 💬: [120](https://news.ycombinator.com/item?id=43717606) \| 🗓️ 2025-04-17
+| 🔥🔥: 218 \| 💬: [122](https://news.ycombinator.com/item?id=43717606) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -107,7 +119,7 @@ tags:
 
 ---
 
-## <a name="8"></a>8. 加密不是犯罪 
+## <a name="9"></a>9. 加密不是犯罪 
 <small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/04/11/encryption-is-not-a-crime/): Encryption Is Not a Crime</small>
 
 
@@ -119,35 +131,11 @@ tags:
 
 ---
 
-## <a name="9"></a>9. Intuit旗下TurboTax击败美国纳税人：免费报税服务遭扼杀 
-<small>🔗 [prospect.org](https://prospect.org/power/2025-04-17-intuit-turbotax-wins-battle-against-taxpayers-irs-direct-file/): Intuit, Owner of TurboTax, Wins Battle Against America's Taxpayers</small>
-
-
-| 🔥🔥: 178 \| 💬: [103](https://news.ycombinator.com/item?id=43724267) \| 🗓️ 2025-04-17
-
-
-<br />
-美国国税局（IRS）的免费报税项目**Direct File**因Intuit的持续游说而面临关闭。该公司通过**巨额政治献金**（如向特朗普就职委员会捐赠100万美元）和立法施压，成功阻挠政府简化报税流程的尝试。尽管Direct File用户满意度超90%，Intuit仍以“公共部门竞争威胁”为由，推动国会终止该计划。此前，Intuit因**误导消费者付费使用本应免费的服务**被判赔偿1亿美元。这场持续数十年的博弈，最终以纳税人被迫继续支付高额报税费用告终。
-
----
-
-## <a name="10"></a>10. Erlang/OTP SSH 存在未授权远程代码执行漏洞 
-<small>🔗 [nvd.nist.gov](https://nvd.nist.gov/vuln/detail/CVE-2025-32433): Unauthenticated Remote Code Execution in Erlang/OTP SSH</small>
-
-
-| 🔥🔥: 160 \| 💬: [44](https://news.ycombinator.com/item?id=43716526) \| 🗓️ 2025-04-17
-
-
-<br />
-Erlang/OTP 是一套 Erlang 编程语言的库。在 **OTP-27.3.3、OTP-26.2.5.11 和 OTP-25.3.2.20** 之前的版本中，SSH 服务器存在一个严重漏洞（**CVE-2025-32433**），攻击者可利用 **SSH 协议消息处理缺陷** 实现**未授权远程代码执行（RCE）**，无需有效凭证即可在受影响系统上执行任意命令。该漏洞已在上述版本中修复，临时解决方案包括禁用 SSH 服务或通过防火墙限制访问。GitHub 评估其 CVSS 3.1 评分为 **10.0（高危）**。
-
----
-
-## <a name="11"></a>11. Discord试点人脸扫描年龄验证 或成行业趋势开端 
+## <a name="10"></a>10. Discord试点人脸扫描年龄验证 或成行业趋势开端 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/cjr75wypg0vo): Discord's face scanning age checks 'start of a bigger shift'</small>
 
 
-| 🔥🔥: 157 \| 💬: [204](https://news.ycombinator.com/item?id=43715884) \| 🗓️ 2025-04-17
+| 🔥🔥: 172 \| 💬: [208](https://news.ycombinator.com/item?id=43715884) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -155,7 +143,31 @@ Discord正在英国和澳大利亚测试**人脸扫描年龄验证**，以应对
 
 ---
 
-## <a name="12"></a>12. 战国“最弱大名”小田氏治为何备受推崇？ 
+## <a name="11"></a>11. Erlang/OTP SSH 存在未授权远程代码执行漏洞 
+<small>🔗 [nvd.nist.gov](https://nvd.nist.gov/vuln/detail/CVE-2025-32433): Unauthenticated Remote Code Execution in Erlang/OTP SSH</small>
+
+
+| 🔥🔥: 162 \| 💬: [44](https://news.ycombinator.com/item?id=43716526) \| 🗓️ 2025-04-17
+
+
+<br />
+Erlang/OTP 是一套 Erlang 编程语言的库。在 **OTP-27.3.3、OTP-26.2.5.11 和 OTP-25.3.2.20** 之前的版本中，SSH 服务器存在一个严重漏洞（**CVE-2025-32433**），攻击者可利用 **SSH 协议消息处理缺陷** 实现**未授权远程代码执行（RCE）**，无需有效凭证即可在受影响系统上执行任意命令。该漏洞已在上述版本中修复，临时解决方案包括禁用 SSH 服务或通过防火墙限制访问。GitHub 评估其 CVSS 3.1 评分为 **10.0（高危）**。
+
+---
+
+## <a name="12"></a>12. 密尔沃基M18电池逆向工程揭秘 
+<small>🔗 [quagmirerepair.com](https://quagmirerepair.com/milwaukee-m18-battery-reverse-engineering): Milwaukee M18 Battery Reverse Engineering</small>
+
+
+| 🔥🔥: 156 \| 💬: [62](https://news.ycombinator.com/item?id=43718809) \| 🗓️ 2025-04-17
+
+
+<br />
+作者拆解了一款**密尔沃基M18 3Ah电池**（型号48-11-1828），发现其采用**德州仪器MSP430G2744微控制器**和**BQ76925电池监控芯片**，电路设计基本复刻了TI参考方案。逆向过程中遇到多层PCB解析、元件标记模糊等挑战，最终通过溶剂清洗和砂纸打磨揭示了各层走线。电池通过**2000波特率串口**与充电器通信，但部分工具（如LED手电筒）未启用该功能。后续由Tool Scientist团队进一步研究发现，工具与电池通过**12V/3V电压握手**触发交互，但原设计未实现电池均衡功能。
+
+---
+
+## <a name="13"></a>13. 战国“最弱大名”小田氏治为何备受推崇？ 
 <small>🔗 [tokyoweekender.com](https://www.tokyoweekender.com/art_and_culture/japanese-culture/oda-ujiharu-the-weakest-samurai-warlord/): Oda Ujiharu: Why the ‘weakest Samurai warlord’ is admired</small>
 
 
@@ -167,23 +179,11 @@ Discord正在英国和澳大利亚测试**人脸扫描年龄验证**，以应对
 
 ---
 
-## <a name="13"></a>13. 密尔沃基M18电池逆向工程揭秘 
-<small>🔗 [quagmirerepair.com](https://quagmirerepair.com/milwaukee-m18-battery-reverse-engineering): Milwaukee M18 Battery Reverse Engineering</small>
-
-
-| 🔥🔥: 146 \| 💬: [57](https://news.ycombinator.com/item?id=43718809) \| 🗓️ 2025-04-17
-
-
-<br />
-作者拆解了一款**密尔沃基M18 3Ah电池**（型号48-11-1828），发现其采用**德州仪器MSP430G2744微控制器**和**BQ76925电池监控芯片**，电路设计基本复刻了TI参考方案。逆向过程中遇到多层PCB解析、元件标记模糊等挑战，最终通过溶剂清洗和砂纸打磨揭示了各层走线。电池通过**2000波特率串口**与充电器通信，但部分工具（如LED手电筒）未启用该功能。后续由Tool Scientist团队进一步研究发现，工具与电池通过**12V/3V电压握手**触发交互，但原设计未实现电池均衡功能。
-
----
-
 ## <a name="14"></a>14. AGI仍需30年：Ege Erdil与Tamay Besiroglu的长期预测 
 <small>🔗 [dwarkesh.com](https://www.dwarkesh.com/p/ege-tamay): AGI Is Still 30 Years Away – Ege Erdil and Tamay Besiroglu</small>
 
 
-| 🔥🔥: 146 \| 💬: [282](https://news.ycombinator.com/item?id=43719280) \| 🗓️ 2025-04-17
+| 🔥🔥: 150 \| 💬: [288](https://news.ycombinator.com/item?id=43719280) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -195,7 +195,7 @@ Ege Erdil和Tamay Besiroglu认为，**通用人工智能（AGI）**至少还需3
 <small>🔗 [feldera.com](https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates): Cutting down Rust compile times from 30 to 2 minutes with one thousand crates</small>
 
 
-| 🔥🔥: 132 \| 💬: [69](https://news.ycombinator.com/item?id=43715235) \| 🗓️ 2025-04-17
+| 🔥🔥: 133 \| 💬: [70](https://news.ycombinator.com/item?id=43715235) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -203,23 +203,11 @@ Feldera团队通过将**单一大箱体拆分为1106个小箱体**，成功将�
 
 ---
 
-## <a name="16"></a>16. Bash高级脚本编程指南（2006） 
-<small>🔗 [uniforumchicago.org](http://uniforumchicago.org/slides/bash1.pdf): Advanced Shell Scripting with Bash (2006) [pdf]</small>
-
-
-| 🔥🔥: 122 \| 💬: [90](https://news.ycombinator.com/item?id=43714594) \| 🗓️ 2025-04-17
-
-
-<br />
-该PDF文档是一份关于**Bash脚本编程**的进阶教程，涵盖Shell脚本的**高级技巧**和实用方法。内容可能包括脚本优化、自动化任务处理以及**复杂命令组合**等主题，适合有一定基础的开发者提升技能。由于原文为PDF格式的二进制数据，具体细节需查阅完整文档。
-
----
-
-## <a name="17"></a>17. DHL暂停向美国发送超800美元个人包裹 
+## <a name="16"></a>16. DHL暂停向美国发送超800美元个人包裹 
 <small>🔗 [dhl.com](https://www.dhl.com/au-en/home/important-information/2025/shipments-to-the-united-states-with-a-customs-value-exceeding-usd-800.html): DHL suspends B2C shipments over 800 USD until further notice</small>
 
 
-| 🔥🔥: 122 \| 💬: [55](https://news.ycombinator.com/item?id=43724123) \| 🗓️ 2025-04-17
+| 🔥🔥: 128 \| 💬: [58](https://news.ycombinator.com/item?id=43724123) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -227,11 +215,23 @@ Feldera团队通过将**单一大箱体拆分为1106个小箱体**，成功将�
 
 ---
 
+## <a name="17"></a>17. Bash高级脚本编程指南（2006） 
+<small>🔗 [uniforumchicago.org](http://uniforumchicago.org/slides/bash1.pdf): Advanced Shell Scripting with Bash (2006) [pdf]</small>
+
+
+| 🔥🔥: 122 \| 💬: [92](https://news.ycombinator.com/item?id=43714594) \| 🗓️ 2025-04-17
+
+
+<br />
+该PDF文档是一份关于**Bash脚本编程**的进阶教程，涵盖Shell脚本的**高级技巧**和实用方法。内容可能包括脚本优化、自动化任务处理以及**复杂命令组合**等主题，适合有一定基础的开发者提升技能。由于原文为PDF格式的二进制数据，具体细节需查阅完整文档。
+
+---
+
 ## <a name="18"></a>18. AgentAPI：控制多款AI编程助手的HTTP接口工具 
 <small>🔗 [github.com](https://github.com/coder/agentapi): Show HN: AgentAPI – HTTP API for Claude Code, Goose, Aider, and Codex</small>
 
 
-| 🔥🔥: 108 \| 💬: [11](https://news.ycombinator.com/item?id=43719447) \| 🗓️ 2025-04-17
+| 🔥🔥: 113 \| 💬: [11](https://news.ycombinator.com/item?id=43719447) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -243,7 +243,7 @@ Feldera团队通过将**单一大箱体拆分为1106个小箱体**，成功将�
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/17/openai-looked-at-cursor-before-considering-deal-with-rival-windsurf.html): OpenAI looked at buying Cursor creator before turning to Windsurf</small>
 
 
-| 🔥🔥: 106 \| 💬: [90](https://news.ycombinator.com/item?id=43716856) \| 🗓️ 2025-04-17
+| 🔥🔥: 107 \| 💬: [90](https://news.ycombinator.com/item?id=43716856) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -251,7 +251,31 @@ Feldera团队通过将**单一大箱体拆分为1106个小箱体**，成功将�
 
 ---
 
-## <a name="20"></a>20. 在Apple Silicon上使用UTM搭建Linux开发环境 
+## <a name="20"></a>20. mIRC 7.81 版本发布 
+<small>🔗 [mirc.com](https://www.mirc.com/): mIRC 7.81</small>
+
+
+| 🔥🔥: 101 \| 💬: [98](https://news.ycombinator.com/item?id=43715306) \| 🗓️ 2025-04-17
+
+
+<br />
+mIRC 是一款**全球流行**的 IRC 聊天客户端，被个人和组织广泛用于沟通、娱乐和工作。经过二十多年的发展，它已成为一款**强大可靠**的工具。最新版本 **7.81** 已发布，用户可通过邮件订阅获取更新通知，或访问论坛参与讨论。mIRC 持续为网络社区提供高效便捷的交流体验。
+
+---
+
+## <a name="21"></a>21. ChatGPT在GeoGuesser游戏中表现优异 
+<small>🔗 [flausch.social](https://flausch.social/@piegames/114352447253793517): ChatGPT now performs well at GeoGuesser</small>
+
+
+| 🔥: 100 \| 💬: [89](https://news.ycombinator.com/item?id=43723408) \| 🗓️ 2025-04-17
+
+
+<br />
+最新测试显示，**ChatGPT**在地理猜谜游戏**GeoGuesser**中展现出强大的分析能力，能够通过文字描述或图像线索准确推断地理位置。这一进步凸显了其在**多模态理解**和逻辑推理方面的显著提升，为AI在交互式应用中的潜力提供了新范例。
+
+---
+
+## <a name="22"></a>22. 在Apple Silicon上使用UTM搭建Linux开发环境 
 <small>🔗 [rkiselenko.dev](https://rkiselenko.dev/blog/development-on-mac-with-utm/development-on-mac-with-lima/): Development on Apple Silicon with UTM</small>
 
 
@@ -263,7 +287,7 @@ Feldera团队通过将**单一大箱体拆分为1106个小箱体**，成功将�
 
 ---
 
-## <a name="21"></a>21. 美国研究发现多款牙膏含铅等重金属 
+## <a name="23"></a>23. 美国研究发现多款牙膏含铅等重金属 
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/apr/17/toothpaste-lead-heavy-metals): Toothpaste widely contaminated with lead and other metals, US research finds</small>
 
 
@@ -275,19 +299,7 @@ Feldera团队通过将**单一大箱体拆分为1106个小箱体**，成功将�
 
 ---
 
-## <a name="22"></a>22. mIRC 7.81 版本发布 
-<small>🔗 [mirc.com](https://www.mirc.com/): mIRC 7.81</small>
-
-
-| 🔥: 95 \| 💬: [97](https://news.ycombinator.com/item?id=43715306) \| 🗓️ 2025-04-17
-
-
-<br />
-mIRC 是一款**全球流行**的 IRC 聊天客户端，被个人和组织广泛用于沟通、娱乐和工作。经过二十多年的发展，它已成为一款**强大可靠**的工具。最新版本 **7.81** 已发布，用户可通过邮件订阅获取更新通知，或访问论坛参与讨论。mIRC 持续为网络社区提供高效便捷的交流体验。
-
----
-
-## <a name="23"></a>23. 用AI打造橄榄球赛事分析系统 
+## <a name="24"></a>24. 用AI打造橄榄球赛事分析系统 
 <small>🔗 [nickjones.tech](https://nickjones.tech/ai-watching-rugby/): Building an AI that watches rugby</small>
 
 
@@ -299,11 +311,11 @@ mIRC 是一款**全球流行**的 IRC 聊天客户端，被个人和组织广泛
 
 ---
 
-## <a name="24"></a>24. 社区学院深陷“机器人学生”骗局，教师被迫化身侦探 
+## <a name="25"></a>25. 社区学院深陷“机器人学生”骗局，教师被迫化身侦探 
 <small>🔗 [voiceofsandiego.org](https://voiceofsandiego.org/2025/04/14/as-bot-students-continue-to-flood-in-community-colleges-struggle-to-respond/): As 'Bot' Students Continue to Flood In, Community Colleges Struggle to Respond</small>
 
 
-| 🔥: 74 \| 💬: [142](https://news.ycombinator.com/item?id=43715109) \| 🗓️ 2025-04-17
+| 🔥: 75 \| 💬: [142](https://news.ycombinator.com/item?id=43715109) \| 🗓️ 2025-04-17
 
 
 <br />
