@@ -12,7 +12,7 @@ tags:
 1. TikTok正以工业级规模危害儿童健康；
 1. 深度解析DeepSeek分布式文件系统3FS；
 1. 科学家发现太阳系外行星存在潜在生命迹象；
-1. 美国政府威胁禁止哈佛招收国际学生；
+1. Intuit旗下TurboTax击败美国纳税人：免费报税服务遭扼杀；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/start-building-with-gemini-25-flash/): Gemini 2.5 Flash</small>
 
 
-| 🔥🔥: 640 \| 💬: [344](https://news.ycombinator.com/item?id=43720845) \| 🗓️ 2025-04-17
+| 🔥🔥: 674 \| 💬: [364](https://news.ycombinator.com/item?id=43720845) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [afterbabel.com](https://www.afterbabel.com/p/industrial-scale-harm-tiktok): TikTok is harming children at an industrial scale</small>
 
 
-| 🔥🔥: 559 \| 💬: [638](https://news.ycombinator.com/item?id=43716665) \| 🗓️ 2025-04-17
+| 🔥🔥: 562 \| 💬: [638](https://news.ycombinator.com/item?id=43716665) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [maknee.github.io](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/): An intro to DeepSeek's distributed file system</small>
 
 
-| 🔥🔥: 492 \| 💬: [74](https://news.ycombinator.com/item?id=43716058) \| 🗓️ 2025-04-17
+| 🔥🔥: 504 \| 💬: [76](https://news.ycombinator.com/item?id=43716058) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [skyatnightmagazine.com](https://www.skyatnightmagazine.com/news/k2-18b-dimethyl-sulfide): “Most promising signs yet” of alien life on a planet beyond our Solar System</small>
 
 
-| 🔥🔥: 395 \| 💬: [325](https://news.ycombinator.com/item?id=43714203) \| 🗓️ 2025-04-17
+| 🔥🔥: 396 \| 💬: [326](https://news.ycombinator.com/item?id=43714203) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -71,27 +71,27 @@ tags:
 
 ---
 
-## <a name="5"></a>5. 美国政府威胁禁止哈佛招收国际学生 
-<small>🔗 [bbc.com](https://www.bbc.com/news/articles/c1egdy24v7po): US Government threatens Harvard with foreign student ban</small>
-
-
-| 🔥🔥: 340 \| 💬: [372](https://news.ycombinator.com/item?id=43715022) \| 🗓️ 2025-04-17
-
-
-<br />
-特朗普政府要求哈佛大学调整招聘、招生及教学政策以打击校园**反犹主义**，并威胁冻结其22亿美元联邦资金。哈佛校长**艾伦·加伯**强硬回应，拒绝妥协，强调不会放弃学术独立与宪法权利。国土安全部长**克里斯蒂·诺姆**要求校方提交外籍学生"非法暴力活动"记录，否则将取消其招收国际学生的资格。目前哈佛27%的学生为国际生，若失去税收豁免地位，校方每年将损失数百万美元。此前哥伦比亚大学已因类似压力妥协，但哈佛坚持划清底线。
-
----
-
-## <a name="6"></a>6. Intuit旗下TurboTax击败美国纳税人：免费报税服务遭扼杀 
+## <a name="5"></a>5. Intuit旗下TurboTax击败美国纳税人：免费报税服务遭扼杀 
 <small>🔗 [prospect.org](https://prospect.org/power/2025-04-17-intuit-turbotax-wins-battle-against-taxpayers-irs-direct-file/): Intuit, Owner of TurboTax, Wins Battle Against America's Taxpayers</small>
 
 
-| 🔥🔥: 316 \| 💬: [166](https://news.ycombinator.com/item?id=43724267) \| 🗓️ 2025-04-17
+| 🔥🔥: 342 \| 💬: [183](https://news.ycombinator.com/item?id=43724267) \| 🗓️ 2025-04-17
 
 
 <br />
 美国国税局（IRS）的免费报税项目**Direct File**因Intuit的持续游说而面临关闭。该公司通过**巨额政治献金**（如向特朗普就职委员会捐赠100万美元）和立法施压，成功阻挠政府简化报税流程的尝试。尽管Direct File用户满意度超90%，Intuit仍以“公共部门竞争威胁”为由，推动国会终止该计划。此前，Intuit因**误导消费者付费使用本应免费的服务**被判赔偿1亿美元。这场持续数十年的博弈，最终以纳税人被迫继续支付高额报税费用告终。
+
+---
+
+## <a name="6"></a>6. 美国政府威胁禁止哈佛招收国际学生 
+<small>🔗 [bbc.com](https://www.bbc.com/news/articles/c1egdy24v7po): US Government threatens Harvard with foreign student ban</small>
+
+
+| 🔥🔥: 340 \| 💬: [374](https://news.ycombinator.com/item?id=43715022) \| 🗓️ 2025-04-17
+
+
+<br />
+特朗普政府要求哈佛大学调整招聘、招生及教学政策以打击校园**反犹主义**，并威胁冻结其22亿美元联邦资金。哈佛校长**艾伦·加伯**强硬回应，拒绝妥协，强调不会放弃学术独立与宪法权利。国土安全部长**克里斯蒂·诺姆**要求校方提交外籍学生"非法暴力活动"记录，否则将取消其招收国际学生的资格。目前哈佛27%的学生为国际生，若失去税收豁免地位，校方每年将损失数百万美元。此前哥伦比亚大学已因类似压力妥协，但哈佛坚持划清底线。
 
 ---
 
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [sharpletters.net](https://sharpletters.net/2025/04/16/hdr-emoji/): HDR‑Infused Emoji</small>
 
 
-| 🔥🔥: 218 \| 💬: [122](https://news.ycombinator.com/item?id=43717606) \| 🗓️ 2025-04-17
+| 🔥🔥: 224 \| 💬: [123](https://news.ycombinator.com/item?id=43717606) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -135,7 +135,7 @@ tags:
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/cjr75wypg0vo): Discord's face scanning age checks 'start of a bigger shift'</small>
 
 
-| 🔥🔥: 172 \| 💬: [208](https://news.ycombinator.com/item?id=43715884) \| 🗓️ 2025-04-17
+| 🔥🔥: 184 \| 💬: [212](https://news.ycombinator.com/item?id=43715884) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -147,7 +147,7 @@ Discord正在英国和澳大利亚测试**人脸扫描年龄验证**，以应对
 <small>🔗 [nvd.nist.gov](https://nvd.nist.gov/vuln/detail/CVE-2025-32433): Unauthenticated Remote Code Execution in Erlang/OTP SSH</small>
 
 
-| 🔥🔥: 162 \| 💬: [44](https://news.ycombinator.com/item?id=43716526) \| 🗓️ 2025-04-17
+| 🔥🔥: 165 \| 💬: [44](https://news.ycombinator.com/item?id=43716526) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -159,7 +159,7 @@ Erlang/OTP 是一套 Erlang 编程语言的库。在 **OTP-27.3.3、OTP-26.2.5.1
 <small>🔗 [quagmirerepair.com](https://quagmirerepair.com/milwaukee-m18-battery-reverse-engineering): Milwaukee M18 Battery Reverse Engineering</small>
 
 
-| 🔥🔥: 156 \| 💬: [62](https://news.ycombinator.com/item?id=43718809) \| 🗓️ 2025-04-17
+| 🔥🔥: 165 \| 💬: [62](https://news.ycombinator.com/item?id=43718809) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -171,7 +171,7 @@ Erlang/OTP 是一套 Erlang 编程语言的库。在 **OTP-27.3.3、OTP-26.2.5.1
 <small>🔗 [tokyoweekender.com](https://www.tokyoweekender.com/art_and_culture/japanese-culture/oda-ujiharu-the-weakest-samurai-warlord/): Oda Ujiharu: Why the ‘weakest Samurai warlord’ is admired</small>
 
 
-| 🔥🔥: 151 \| 💬: [60](https://news.ycombinator.com/item?id=43714619) \| 🗓️ 2025-04-17
+| 🔥🔥: 152 \| 💬: [61](https://news.ycombinator.com/item?id=43714619) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -183,7 +183,7 @@ Erlang/OTP 是一套 Erlang 编程语言的库。在 **OTP-27.3.3、OTP-26.2.5.1
 <small>🔗 [dwarkesh.com](https://www.dwarkesh.com/p/ege-tamay): AGI Is Still 30 Years Away – Ege Erdil and Tamay Besiroglu</small>
 
 
-| 🔥🔥: 150 \| 💬: [288](https://news.ycombinator.com/item?id=43719280) \| 🗓️ 2025-04-17
+| 🔥🔥: 152 \| 💬: [291](https://news.ycombinator.com/item?id=43719280) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -207,7 +207,7 @@ Feldera团队通过将**单一大箱体拆分为1106个小箱体**，成功将�
 <small>🔗 [dhl.com](https://www.dhl.com/au-en/home/important-information/2025/shipments-to-the-united-states-with-a-customs-value-exceeding-usd-800.html): DHL suspends B2C shipments over 800 USD until further notice</small>
 
 
-| 🔥🔥: 128 \| 💬: [58](https://news.ycombinator.com/item?id=43724123) \| 🗓️ 2025-04-17
+| 🔥🔥: 130 \| 💬: [61](https://news.ycombinator.com/item?id=43724123) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -219,7 +219,7 @@ Feldera团队通过将**单一大箱体拆分为1106个小箱体**，成功将�
 <small>🔗 [uniforumchicago.org](http://uniforumchicago.org/slides/bash1.pdf): Advanced Shell Scripting with Bash (2006) [pdf]</small>
 
 
-| 🔥🔥: 122 \| 💬: [92](https://news.ycombinator.com/item?id=43714594) \| 🗓️ 2025-04-17
+| 🔥🔥: 122 \| 💬: [93](https://news.ycombinator.com/item?id=43714594) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -231,7 +231,7 @@ Feldera团队通过将**单一大箱体拆分为1106个小箱体**，成功将�
 <small>🔗 [github.com](https://github.com/coder/agentapi): Show HN: AgentAPI – HTTP API for Claude Code, Goose, Aider, and Codex</small>
 
 
-| 🔥🔥: 113 \| 💬: [11](https://news.ycombinator.com/item?id=43719447) \| 🗓️ 2025-04-17
+| 🔥🔥: 116 \| 💬: [11](https://news.ycombinator.com/item?id=43719447) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -243,7 +243,7 @@ Feldera团队通过将**单一大箱体拆分为1106个小箱体**，成功将�
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/17/openai-looked-at-cursor-before-considering-deal-with-rival-windsurf.html): OpenAI looked at buying Cursor creator before turning to Windsurf</small>
 
 
-| 🔥🔥: 107 \| 💬: [90](https://news.ycombinator.com/item?id=43716856) \| 🗓️ 2025-04-17
+| 🔥🔥: 112 \| 💬: [91](https://news.ycombinator.com/item?id=43716856) \| 🗓️ 2025-04-17
 
 
 <br />
@@ -251,27 +251,27 @@ Feldera团队通过将**单一大箱体拆分为1106个小箱体**，成功将�
 
 ---
 
-## <a name="20"></a>20. mIRC 7.81 版本发布 
-<small>🔗 [mirc.com](https://www.mirc.com/): mIRC 7.81</small>
-
-
-| 🔥🔥: 101 \| 💬: [98](https://news.ycombinator.com/item?id=43715306) \| 🗓️ 2025-04-17
-
-
-<br />
-mIRC 是一款**全球流行**的 IRC 聊天客户端，被个人和组织广泛用于沟通、娱乐和工作。经过二十多年的发展，它已成为一款**强大可靠**的工具。最新版本 **7.81** 已发布，用户可通过邮件订阅获取更新通知，或访问论坛参与讨论。mIRC 持续为网络社区提供高效便捷的交流体验。
-
----
-
-## <a name="21"></a>21. ChatGPT在GeoGuesser游戏中表现优异 
+## <a name="20"></a>20. ChatGPT在GeoGuesser游戏中表现优异 
 <small>🔗 [flausch.social](https://flausch.social/@piegames/114352447253793517): ChatGPT now performs well at GeoGuesser</small>
 
 
-| 🔥: 100 \| 💬: [89](https://news.ycombinator.com/item?id=43723408) \| 🗓️ 2025-04-17
+| 🔥🔥: 110 \| 💬: [94](https://news.ycombinator.com/item?id=43723408) \| 🗓️ 2025-04-17
 
 
 <br />
 最新测试显示，**ChatGPT**在地理猜谜游戏**GeoGuesser**中展现出强大的分析能力，能够通过文字描述或图像线索准确推断地理位置。这一进步凸显了其在**多模态理解**和逻辑推理方面的显著提升，为AI在交互式应用中的潜力提供了新范例。
+
+---
+
+## <a name="21"></a>21. mIRC 7.81 版本发布 
+<small>🔗 [mirc.com](https://www.mirc.com/): mIRC 7.81</small>
+
+
+| 🔥🔥: 107 \| 💬: [101](https://news.ycombinator.com/item?id=43715306) \| 🗓️ 2025-04-17
+
+
+<br />
+mIRC 是一款**全球流行**的 IRC 聊天客户端，被个人和组织广泛用于沟通、娱乐和工作。经过二十多年的发展，它已成为一款**强大可靠**的工具。最新版本 **7.81** 已发布，用户可通过邮件订阅获取更新通知，或访问论坛参与讨论。mIRC 持续为网络社区提供高效便捷的交流体验。
 
 ---
 
@@ -303,7 +303,7 @@ mIRC 是一款**全球流行**的 IRC 聊天客户端，被个人和组织广泛
 <small>🔗 [nickjones.tech](https://nickjones.tech/ai-watching-rugby/): Building an AI that watches rugby</small>
 
 
-| 🔥: 77 \| 💬: [41](https://news.ycombinator.com/item?id=43714902) \| 🗓️ 2025-04-17
+| 🔥: 78 \| 💬: [41](https://news.ycombinator.com/item?id=43714902) \| 🗓️ 2025-04-17
 
 
 <br />
