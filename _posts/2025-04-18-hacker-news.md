@@ -9,8 +9,8 @@ tags:
 
 
 1. 将《毁灭战士》游戏塞进二维码的神奇项目；
-1. Defold：免费跨平台游戏引擎；
 1. 法官裁定大规模调取基站数据违宪；
+1. Defold：免费跨平台游戏引擎；
 1. 网络安全行业的沉默震耳欲聋；
 1. Python现已集成1.5万行经过验证的加密代码；
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Kuberwastaken/backdooms): Show HN: I made a Doom-like game fit inside a QR code</small>
 
 
-| 🔥🔥: 346 \| 💬: [95](https://news.ycombinator.com/item?id=43729683) \| 🗓️ 2025-04-18
+| 🔥🔥: 355 \| 💬: [96](https://news.ycombinator.com/item?id=43729683) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -35,23 +35,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. Defold：免费跨平台游戏引擎 
-<small>🔗 [defold.com](https://defold.com): Defold: cross-platform game engine</small>
-
-
-| 🔥🔥: 334 \| 💬: [140](https://news.ycombinator.com/item?id=43726051) \| 🗓️ 2025-04-18
-
-
-<br />
-Defold是一款**高性能**、**完全免费**的跨平台游戏引擎，支持2D和3D游戏开发。其特点包括**零配置**快速启动、内置可视化编辑器、Lua脚本支持，以及一键发布至主流平台（如PS5、Switch、移动端等）。提供资产库、开源代码、活跃社区及每月更新，已成功助力多款商业游戏上线。无需授权费或分成，适合从独立开发者到专业团队使用。
-
----
-
-## <a name="3"></a>3. 法官裁定大规模调取基站数据违宪 
+## <a name="2"></a>2. 法官裁定大规模调取基站数据违宪 
 <small>🔗 [404media.co](https://www.404media.co/judge-rules-blanket-search-of-cell-tower-data-unconstitutional/): Judge Rules Blanket Search of Cell Tower Data Unconstitutional</small>
 
 
-| 🔥🔥: 333 \| 💬: [132](https://news.ycombinator.com/item?id=43730545) \| 🗓️ 2025-04-18
+| 🔥🔥: 349 \| 💬: [136](https://news.ycombinator.com/item?id=43730545) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -59,11 +47,23 @@ Defold是一款**高性能**、**完全免费**的跨平台游戏引擎，支持
 
 ---
 
+## <a name="3"></a>3. Defold：免费跨平台游戏引擎 
+<small>🔗 [defold.com](https://defold.com): Defold: cross-platform game engine</small>
+
+
+| 🔥🔥: 340 \| 💬: [144](https://news.ycombinator.com/item?id=43726051) \| 🗓️ 2025-04-18
+
+
+<br />
+Defold是一款**高性能**、**完全免费**的跨平台游戏引擎，支持2D和3D游戏开发。其特点包括**零配置**快速启动、内置可视化编辑器、Lua脚本支持，以及一键发布至主流平台（如PS5、Switch、移动端等）。提供资产库、开源代码、活跃社区及每月更新，已成功助力多款商业游戏上线。无需授权费或分成，适合从独立开发者到专业团队使用。
+
+---
+
 ## <a name="4"></a>4. 网络安全行业的沉默震耳欲聋 
 <small>🔗 [forbes.com](https://www.forbes.com/sites/tonybradley/2025/04/16/deafening-silence-from-the-cybersecurity-industry/): Deafening Silence from the Cybersecurity Industry</small>
 
 
-| 🔥🔥: 307 \| 💬: [233](https://news.ycombinator.com/item?id=43726548) \| 🗓️ 2025-04-18
+| 🔥🔥: 307 \| 💬: [235](https://news.ycombinator.com/item?id=43726548) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -75,7 +75,7 @@ Defold是一款**高性能**、**完全免费**的跨平台游戏引擎，支持
 <small>🔗 [jonathan.protzenko.fr](https://jonathan.protzenko.fr/2025/04/18/python.html): 15,000 lines of verified cryptography now in Python</small>
 
 
-| 🔥🔥: 271 \| 💬: [69](https://news.ycombinator.com/item?id=43731165) \| 🗓️ 2025-04-18
+| 🔥🔥: 280 \| 💬: [72](https://news.ycombinator.com/item?id=43731165) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -83,23 +83,11 @@ Defold是一款**高性能**、**完全免费**的跨平台游戏引擎，支持
 
 ---
 
-## <a name="6"></a>6. IBM强制美国销售与云员工回归办公室 同步削减DEI项目 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/04/18/ibm_orders_us_sales_staff/): IBM orders US sales to locate near customers, RTO for cloud staff, DEI purge</small>
-
-
-| 🔥🔥: 199 \| 💬: [368](https://news.ycombinator.com/item?id=43727727) \| 🗓️ 2025-04-18
-
-
-<br />
-IBM要求**美国销售团队**每周至少3天在客户现场、旗舰办公室或销售中心办公，否则需搬迁。**云部门员工**也需在7月前回归指定办公室。此举被质疑为变相裁员，因资深员工更可能拒绝调动。同时，IBM削减了**DEI（多元平等包容）**项目，移除高管激励中的多样性目标，并修改官网内容以淡化相关表述。公司正将招聘重心转向印度，计划在勒克瑙新建软件实验室。这些调整被认为与特朗普政府反DEI政策有关。
-
----
-
-## <a name="7"></a>7. 美国法庭记录全文检索平台 
+## <a name="6"></a>6. 美国法庭记录全文检索平台 
 <small>🔗 [judyrecords.com](https://www.judyrecords.com/): Full Text Search of US Court records</small>
 
 
-| 🔥🔥: 193 \| 💬: [38](https://news.ycombinator.com/item?id=43731552) \| 🗓️ 2025-04-18
+| 🔥🔥: 217 \| 💬: [41](https://news.ycombinator.com/item?id=43731552) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -107,11 +95,23 @@ IBM要求**美国销售团队**每周至少3天在客户现场、旗舰办公室
 
 ---
 
+## <a name="7"></a>7. IBM强制美国销售与云员工回归办公室 同步削减DEI项目 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/04/18/ibm_orders_us_sales_staff/): IBM orders US sales to locate near customers, RTO for cloud staff, DEI purge</small>
+
+
+| 🔥🔥: 200 \| 💬: [389](https://news.ycombinator.com/item?id=43727727) \| 🗓️ 2025-04-18
+
+
+<br />
+IBM要求**美国销售团队**每周至少3天在客户现场、旗舰办公室或销售中心办公，否则需搬迁。**云部门员工**也需在7月前回归指定办公室。此举被质疑为变相裁员，因资深员工更可能拒绝调动。同时，IBM削减了**DEI（多元平等包容）**项目，移除高管激励中的多样性目标，并修改官网内容以淡化相关表述。公司正将招聘重心转向印度，计划在勒克瑙新建软件实验室。这些调整被认为与特朗普政府反DEI政策有关。
+
+---
+
 ## <a name="8"></a>8. arXiv将服务从康奈尔服务器迁移至谷歌云 
 <small>🔗 [info.arxiv.org](https://info.arxiv.org/hiring/index.html): arXiv moving from Cornell servers to Google Cloud</small>
 
 
-| 🔥🔥: 192 \| 💬: [147](https://news.ycombinator.com/item?id=43726640) \| 🗓️ 2025-04-18
+| 🔥🔥: 197 \| 💬: [148](https://news.ycombinator.com/item?id=43726640) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -123,7 +123,7 @@ arXiv宣布启动**arXiv CE（云版本）项目**，计划将所有服务从康
 <small>🔗 [github.com](https://github.com/ashvardanian/less_slow.cpp): Less Slow C++</small>
 
 
-| 🔥🔥: 182 \| 💬: [88](https://news.ycombinator.com/item?id=43727743) \| 🗓️ 2025-04-18
+| 🔥🔥: 183 \| 💬: [90](https://news.ycombinator.com/item?id=43727743) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -135,7 +135,7 @@ arXiv宣布启动**arXiv CE（云版本）项目**，计划将所有服务从康
 <small>🔗 [unixdigest.com](https://unixdigest.com/articles/i-passionately-hate-hype-especially-the-ai-hype.html): I passionately hate hype, especially the AI hype</small>
 
 
-| 🔥🔥: 147 \| 💬: [130](https://news.ycombinator.com/item?id=43732047) \| 🗓️ 2025-04-18
+| 🔥🔥: 157 \| 💬: [163](https://news.ycombinator.com/item?id=43732047) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -159,7 +159,7 @@ arXiv宣布启动**arXiv CE（云版本）项目**，计划将所有服务从康
 <small>🔗 [blog.trailofbits.com](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/): A New ASN.1 API for Python</small>
 
 
-| 🔥🔥: 140 \| 💬: [51](https://news.ycombinator.com/item?id=43728279) \| 🗓️ 2025-04-18
+| 🔥🔥: 142 \| 💬: [52](https://news.ycombinator.com/item?id=43728279) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -167,23 +167,11 @@ ASN.1是加密、PKI和底层网络协议的核心序列化语言，但现有Pyt
 
 ---
 
-## <a name="13"></a>13. 等待100年才能获得住房不是危机，而是道德崩塌 
-<small>🔗 [architectsjournal.co.uk](https://www.architectsjournal.co.uk/news/opinion/waiting-100-years-for-a-home-isnt-a-housing-crisis-its-a-moral-collapse): Waiting 100 years for a home isn't a housing crisis, it's a moral collapse</small>
-
-
-| 🔥: 85 \| 💬: [178](https://news.ycombinator.com/item?id=43726261) \| 🗓️ 2025-04-18
-
-
-<br />
-作者通过亲身经历反思**社会住房**的意义：一个女孩因拥有独立房间而重燃学医梦想，揭示了体面居所如何改变人生。然而，英格兰部分地区家庭需等待**超过100年**才能获得合适的社会住房，164万家庭在排队，16.4万儿童暂居临时住所。这不仅是市场失灵，更是**社会道德溃败**。文章呼吁政府必须改革规划制度、提供税收激励，并摒弃“市场自会解决”的幻想，因为社会住房是公平社会的基石而非施舍。行业需打破沉默，支持所有可行方案——从提高建筑密度到释放绿地——时间已不等人。
-
----
-
-## <a name="14"></a>14. 超文本电视导航 
+## <a name="13"></a>13. 超文本电视导航 
 <small>🔗 [hypertext.tv](https://hypertext.tv/): Hypertext TV</small>
 
 
-| 🔥: 81 \| 💬: [8](https://news.ycombinator.com/item?id=43732805) \| 🗓️ 2025-04-18
+| 🔥: 91 \| 💬: [8](https://news.ycombinator.com/item?id=43732805) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -191,11 +179,23 @@ ASN.1是加密、PKI和底层网络协议的核心序列化语言，但现有Pyt
 
 ---
 
+## <a name="14"></a>14. 等待100年才能获得住房不是危机，而是道德崩塌 
+<small>🔗 [architectsjournal.co.uk](https://www.architectsjournal.co.uk/news/opinion/waiting-100-years-for-a-home-isnt-a-housing-crisis-its-a-moral-collapse): Waiting 100 years for a home isn't a housing crisis, it's a moral collapse</small>
+
+
+| 🔥: 85 \| 💬: [179](https://news.ycombinator.com/item?id=43726261) \| 🗓️ 2025-04-18
+
+
+<br />
+作者通过亲身经历反思**社会住房**的意义：一个女孩因拥有独立房间而重燃学医梦想，揭示了体面居所如何改变人生。然而，英格兰部分地区家庭需等待**超过100年**才能获得合适的社会住房，164万家庭在排队，16.4万儿童暂居临时住所。这不仅是市场失灵，更是**社会道德溃败**。文章呼吁政府必须改革规划制度、提供税收激励，并摒弃“市场自会解决”的幻想，因为社会住房是公平社会的基石而非施舍。行业需打破沉默，支持所有可行方案——从提高建筑密度到释放绿地——时间已不等人。
+
+---
+
 ## <a name="15"></a>15. OpenAI新推理模型幻觉问题加剧 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/): OpenAI's new reasoning AI models hallucinate more</small>
 
 
-| 🔥: 76 \| 💬: [59](https://news.ycombinator.com/item?id=43732506) \| 🗓️ 2025-04-18
+| 🔥: 81 \| 💬: [63](https://news.ycombinator.com/item?id=43732506) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -207,7 +207,7 @@ OpenAI最新发布的**o3**和**o4-mini**推理模型在代码和数学任务上
 <small>🔗 [inkandswitch.com](https://www.inkandswitch.com/ink/notes/phase-2-constraint-system/): Ink and Switch Constraint System (2023)</small>
 
 
-| 🔥: 75 \| 💬: [9](https://news.ycombinator.com/item?id=43729932) \| 🗓️ 2025-04-18
+| 🔥: 76 \| 💬: [9](https://news.ycombinator.com/item?id=43729932) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -219,7 +219,7 @@ OpenAI最新发布的**o3**和**o4-mini**推理模型在代码和数学任务上
 <small>🔗 [github.com](https://github.com/attunehq/attune): Show HN: Attune - Build and publish APT repositories in seconds</small>
 
 
-| 🔥: 72 \| 💬: [19](https://news.ycombinator.com/item?id=43729427) \| 🗓️ 2025-04-18
+| 🔥: 73 \| 💬: [20](https://news.ycombinator.com/item?id=43729427) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -231,7 +231,7 @@ Attune是一个**开源工件注册中心**，支持快速搭建和发布Linux�
 <small>🔗 [github.com](https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book): UML diagram for the DDD example in Evans' book</small>
 
 
-| 🔥: 67 \| 💬: [34](https://news.ycombinator.com/item?id=43731250) \| 🗓️ 2025-04-18
+| 🔥: 73 \| 💬: [35](https://news.ycombinator.com/item?id=43731250) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -243,7 +243,7 @@ Attune是一个**开源工件注册中心**，支持快速搭建和发布Linux�
 <small>🔗 [noemamag.com](https://www.noemamag.com/theres-life-inside-earths-crust/): There's Life Inside Earth's Crust</small>
 
 
-| 🔥: 64 \| 💬: [24](https://news.ycombinator.com/item?id=43730701) \| 🗓️ 2025-04-18
+| 🔥: 67 \| 💬: [26](https://news.ycombinator.com/item?id=43730701) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -255,7 +255,7 @@ Attune是一个**开源工件注册中心**，支持快速搭建和发布Linux�
 <small>🔗 [kumarletter.com](https://kumarletter.com/posts/electric-propulsion-s-dirty-secret-why-lithium-can-t-fly-or-float-profitably): Electric Propulsion's Dirty Secret: Why Lithium Can't Fly (Or Float) Profitably</small>
 
 
-| 🔥: 62 \| 💬: [164](https://news.ycombinator.com/item?id=43731168) \| 🗓️ 2025-04-18
+| 🔥: 62 \| 💬: [167](https://news.ycombinator.com/item?id=43731168) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -267,7 +267,7 @@ Attune是一个**开源工件注册中心**，支持快速搭建和发布Linux�
 <small>🔗 [governance.fyi](https://www.governance.fyi/p/college-towns-urbanism-from-a-past): College Towns: Urbanism from a Past Era</small>
 
 
-| 🔥: 57 \| 💬: [91](https://news.ycombinator.com/item?id=43729609) \| 🗓️ 2025-04-18
+| 🔥: 58 \| 💬: [94](https://news.ycombinator.com/item?id=43729609) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -279,7 +279,7 @@ Attune是一个**开源工件注册中心**，支持快速搭建和发布Linux�
 <small>🔗 [alichraghi.github.io](https://alichraghi.github.io/blog/zig-gpu/): Zig and GPUs</small>
 
 
-| 🔥: 47 \| 💬: [9](https://news.ycombinator.com/item?id=43726413) \| 🗓️ 2025-04-18
+| 🔥: 48 \| 💬: [9](https://news.ycombinator.com/item?id=43726413) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -291,7 +291,7 @@ Attune是一个**开源工件注册中心**，支持快速搭建和发布Linux�
 <small>🔗 [threadreaderapp.com](https://threadreaderapp.com/thread/1913023007263543565.html): Whistleblower: Doge came in, data went out, and Russians started to login</small>
 
 
-| 🔥: 29 \| 💬: [9](https://news.ycombinator.com/item?id=43727051) \| 🗓️ 2025-04-18
+| 🔥: 30 \| 💬: [9](https://news.ycombinator.com/item?id=43727051) \| 🗓️ 2025-04-18
 
 
 <br />
