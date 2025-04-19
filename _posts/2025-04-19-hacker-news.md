@@ -10,8 +10,8 @@ tags:
 
 1. 图书管理员很危险；
 1. 安卓手机闲置三天后将自动重启以增强安全性；
-1. 视频生成模型中下一帧预测的输入帧上下文打包技术；
 1. 树莓派激光雷达扫描仪项目概览；
+1. 视频生成模型中下一帧预测的输入帧上下文打包技术；
 1. 2023英国方言地图详解；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [bradmontague.substack.com](https://bradmontague.substack.com/p/librarians-are-dangerous): Librarians are dangerous</small>
 
 
-| 🔥🔥: 302 \| 💬: [307](https://news.ycombinator.com/item?id=43736791) \| 🗓️ 2025-04-19
+| 🔥🔥: 332 \| 💬: [327](https://news.ycombinator.com/item?id=43736791) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/04/android-phones-will-soon-reboot-themselves-after-sitting-unused-for-3-days/): Android phones will soon reboot themselves after sitting unused for three days</small>
 
 
-| 🔥🔥: 225 \| 💬: [177](https://news.ycombinator.com/item?id=43735902) \| 🗓️ 2025-04-19
+| 🔥🔥: 244 \| 💬: [197](https://news.ycombinator.com/item?id=43735902) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -47,23 +47,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 视频生成模型中下一帧预测的输入帧上下文打包技术 
-<small>🔗 [lllyasviel.github.io](https://lllyasviel.github.io/frame_pack_gitpage/): Packing Input Frame Context in Next-Frame Prediction Models for Video Generation</small>
-
-
-| 🔥🔥: 208 \| 💬: [25](https://news.ycombinator.com/item?id=43736193) \| 🗓️ 2025-04-19
-
-
-<br />
-该研究实现了**13B参数模型**在6GB笔记本GPU内存下以30fps生成数千帧视频，并支持在单台8xA100/H100节点上以**批量大小64**进行微调。个人RTX 4090生成速度达**2.5秒/帧**（未优化）或1.5秒/帧（teacache优化），无需时间步蒸馏。虽为视频扩散模型，体验却接近图像扩散。
-
----
-
-## <a name="4"></a>4. 树莓派激光雷达扫描仪项目概览 
+## <a name="3"></a>3. 树莓派激光雷达扫描仪项目概览 
 <small>🔗 [github.com](https://github.com/PiLiDAR/PiLiDAR): Raspberry Pi Lidar Scanner</small>
 
 
-| 🔥🔥: 196 \| 💬: [45](https://news.ycombinator.com/item?id=43738561) \| 🗓️ 2025-04-19
+| 🔥🔥: 232 \| 💬: [56](https://news.ycombinator.com/item?id=43738561) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -71,11 +59,23 @@ tags:
 
 ---
 
+## <a name="4"></a>4. 视频生成模型中下一帧预测的输入帧上下文打包技术 
+<small>🔗 [lllyasviel.github.io](https://lllyasviel.github.io/frame_pack_gitpage/): Packing Input Frame Context in Next-Frame Prediction Models for Video Generation</small>
+
+
+| 🔥🔥: 215 \| 💬: [25](https://news.ycombinator.com/item?id=43736193) \| 🗓️ 2025-04-19
+
+
+<br />
+该研究实现了**13B参数模型**在6GB笔记本GPU内存下以30fps生成数千帧视频，并支持在单台8xA100/H100节点上以**批量大小64**进行微调。个人RTX 4090生成速度达**2.5秒/帧**（未优化）或1.5秒/帧（teacache优化），无需时间步蒸馏。虽为视频扩散模型，体验却接近图像扩散。
+
+---
+
 ## <a name="5"></a>5. 2023英国方言地图详解 
 <small>🔗 [starkeycomics.com](https://starkeycomics.com/2023/11/07/map-of-british-english-dialects/): A Map of British Dialects (2023)</small>
 
 
-| 🔥🔥: 192 \| 💬: [144](https://news.ycombinator.com/item?id=43734953) \| 🗓️ 2025-04-19
+| 🔥🔥: 195 \| 💬: [147](https://news.ycombinator.com/item?id=43734953) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -83,23 +83,11 @@ tags:
 
 ---
 
-## <a name="6"></a>6. 修复1992年六玩家街机《Galaxian3 Theatre 6》 
-<small>🔗 [philwip.com](https://philwip.com/2025/04/14/galaxian-3-project-revival/): Restoring the Galaxian3 Theatre 6, 1992 six player arcade machine</small>
-
-
-| 🔥🔥: 177 \| 💬: [39](https://news.ycombinator.com/item?id=43735239) \| 🗓️ 2025-04-19
-
-
-<br />
-Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后缩改为**六人版本**GT-6。2024年，团队在Fun World街机发现仅存四台GT-6之一，但仅1、2号玩家可用且投影模糊。初步检测发现**PSN PCB故障**，并成功用专业设备保存了**激光碟片数据**和ROM。2025年计划二次修复，重点解决硬件通信问题与CRT投影仪"真菌"污染。
-
----
-
-## <a name="7"></a>7. 网络已崩坏：揭秘AI公司背后的僵尸网络 
+## <a name="6"></a>6. 网络已崩坏：揭秘AI公司背后的僵尸网络 
 <small>🔗 [jan.wildeboer.net](https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/): The Web Is Broken – Botnet Part 2</small>
 
 
-| 🔥🔥: 157 \| 💬: [66](https://news.ycombinator.com/item?id=43738603) \| 🗓️ 2025-04-19
+| 🔥🔥: 186 \| 💬: [81](https://news.ycombinator.com/item?id=43738603) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -109,11 +97,23 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 
 ---
 
+## <a name="7"></a>7. 修复1992年六玩家街机《Galaxian3 Theatre 6》 
+<small>🔗 [philwip.com](https://philwip.com/2025/04/14/galaxian-3-project-revival/): Restoring the Galaxian3 Theatre 6, 1992 six player arcade machine</small>
+
+
+| 🔥🔥: 183 \| 💬: [41](https://news.ycombinator.com/item?id=43735239) \| 🗓️ 2025-04-19
+
+
+<br />
+Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后缩改为**六人版本**GT-6。2024年，团队在Fun World街机发现仅存四台GT-6之一，但仅1、2号玩家可用且投影模糊。初步检测发现**PSN PCB故障**，并成功用专业设备保存了**激光碟片数据**和ROM。2025年计划二次修复，重点解决硬件通信问题与CRT投影仪"真菌"污染。
+
+---
+
 ## <a name="8"></a>8. SSL.com存在漏洞：可绕过DCV验证并伪造任意MX主机名证书 
 <small>🔗 [bugzilla.mozilla.org](https://bugzilla.mozilla.org/show_bug.cgi?id=1961406): Ssl.com: DCV bypass and issue fake certificates for any MX hostname</small>
 
 
-| 🔥🔥: 106 \| 💬: [26](https://news.ycombinator.com/item?id=43738485) \| 🗓️ 2025-04-19
+| 🔥🔥: 123 \| 💬: [32](https://news.ycombinator.com/item?id=43738485) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -133,11 +133,23 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 
 ---
 
-## <a name="10"></a>10. 开源SDR实现：基于GNU Radio与Codec2的DMR调制解调器 
+## <a name="10"></a>10. AI辅助编程不是低质量代码的借口 
+<small>🔗 [addyo.substack.com](https://addyo.substack.com/p/vibe-coding-is-not-an-excuse-for): Vibe Coding is not an excuse for low-quality work</small>
+
+
+| 🔥: 93 \| 💬: [75](https://news.ycombinator.com/item?id=43739037) \| 🗓️ 2025-04-19
+
+
+<br />
+文章强调**AI生成代码**虽能提升效率，但需警惕其潜在风险：**技术债务**激增、安全漏洞和可维护性差。作者建议将AI视为"初级开发者"，必须通过**人工审查**、重构和测试确保代码质量。核心原则是**人类主导设计**，AI仅辅助实现，同时需遵守编码规范并完善文档。适用于快速原型开发，但关键模块仍需手动编写。
+
+---
+
+## <a name="11"></a>11. 开源SDR实现：基于GNU Radio与Codec2的DMR调制解调器 
 <small>🔗 [qradiolink.org](https://qradiolink.org/open-source-DMR-transceiver-implementation.html): Open Source DMR Modem Implementation in SDR with GNU Radio and Codec2</small>
 
 
-| 🔥: 86 \| 💬: [11](https://news.ycombinator.com/item?id=43735945) \| 🗓️ 2025-04-19
+| 🔥: 88 \| 💬: [11](https://news.ycombinator.com/item?id=43735945) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -145,11 +157,11 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 
 ---
 
-## <a name="11"></a>11. 如何在2024年从零开始用Tensor Core实现快速矩阵乘法 
+## <a name="12"></a>12. 如何在2024年从零开始用Tensor Core实现快速矩阵乘法 
 <small>🔗 [alexarmbr.github.io](https://alexarmbr.github.io/2024/08/10/How-To-Write-A-Fast-Matrix-Multiplication-From-Scratch-With-Tensor-Cores.html): How to Write a Fast Matrix Multiplication from Scratch with Tensor Cores (2024)</small>
 
 
-| 🔥: 83 \| 💬: [5](https://news.ycombinator.com/item?id=43736739) \| 🗓️ 2025-04-19
+| 🔥: 87 \| 💬: [6](https://news.ycombinator.com/item?id=43736739) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -157,11 +169,11 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 
 ---
 
-## <a name="12"></a>12. 弗兰肯斯坦式的`__init__`方法 
+## <a name="13"></a>13. 弗兰肯斯坦式的`__init__`方法 
 <small>🔗 [ohadravid.github.io](https://ohadravid.github.io/posts/2025-04-19-frank/): Frankenstein's `__init__`</small>
 
 
-| 🔥: 81 \| 💬: [61](https://news.ycombinator.com/item?id=43735724) \| 🗓️ 2025-04-19
+| 🔥: 84 \| 💬: [62](https://news.ycombinator.com/item?id=43735724) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -169,11 +181,11 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 
 ---
 
-## <a name="13"></a>13. 美国高校焦虑：外国学生遭拘留签证被吊销 
+## <a name="14"></a>14. 美国高校焦虑：外国学生遭拘留签证被吊销 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c20xq5nd8jeo): Anxiety at US colleges as foreign students are detained and visas revoked</small>
 
 
-| 🔥: 73 \| 💬: [9](https://news.ycombinator.com/item?id=43735089) \| 🗓️ 2025-04-19
+| 🔥: 76 \| 💬: [9](https://news.ycombinator.com/item?id=43735089) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -181,11 +193,11 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 
 ---
 
-## <a name="14"></a>14. 恒星直接坍缩成黑洞，未发生超新星爆发（2017年） 
+## <a name="15"></a>15. 恒星直接坍缩成黑洞，未发生超新星爆发（2017年） 
 <small>🔗 [science.nasa.gov](https://science.nasa.gov/missions/hubble/collapsing-star-gives-birth-to-a-black-hole/): A star appears to have collapsed straight into a black hole without supernova (2017)</small>
 
 
-| 🔥: 72 \| 💬: [30](https://news.ycombinator.com/item?id=43735170) \| 🗓️ 2025-04-19
+| 🔥: 72 \| 💬: [31](https://news.ycombinator.com/item?id=43735170) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -193,7 +205,7 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 
 ---
 
-## <a name="15"></a>15. Neurite：融合分形与思维图谱的AI协作平台 
+## <a name="16"></a>16. Neurite：融合分形与思维图谱的AI协作平台 
 <small>🔗 [github.com](https://github.com/satellitecomponent/Neurite): Neurite</small>
 
 
@@ -207,23 +219,23 @@ Neurite是一个**开源知识管理工具**，将**分形几何**与思维导�
 
 ---
 
-## <a name="16"></a>16. AI辅助编程不是低质量代码的借口 
-<small>🔗 [addyo.substack.com](https://addyo.substack.com/p/vibe-coding-is-not-an-excuse-for): Vibe Coding is not an excuse for low-quality work</small>
+## <a name="17"></a>17. arXiv：改变科学交流的开放学术仓库 
+<small>🔗 [wired.com](https://www.wired.com/story/inside-arxiv-most-transformative-code-science/): Inside ArXiv</small>
 
 
-| 🔥: 69 \| 💬: [64](https://news.ycombinator.com/item?id=43739037) \| 🗓️ 2025-04-19
+| 🔥: 70 \| 💬: [10](https://news.ycombinator.com/item?id=43738478) \| 🗓️ 2025-04-19
 
 
 <br />
-文章强调**AI生成代码**虽能提升效率，但需警惕其潜在风险：**技术债务**激增、安全漏洞和可维护性差。作者建议将AI视为"初级开发者"，必须通过**人工审查**、重构和测试确保代码质量。核心原则是**人类主导设计**，AI仅辅助实现，同时需遵守编码规范并完善文档。适用于快速原型开发，但关键模块仍需手动编写。
+35年前，物理学家**Paul Ginsparg**创建了**arXiv**，一个无需同行评审即可分享研究成果的开放平台。如今，它已成为数学、物理等领域科学家不可或缺的工具，每月新增2万篇论文，用户超500万。arXiv颠覆了传统学术出版模式，让研究得以快速传播（如新冠期间的突破性发现）。尽管面临审核压力和技术挑战，其**开放共享**的理念仍深刻影响了科学界，甚至孕育了AI领域的里程碑论文（如"transformers"）。Ginsparg将其比作"离家却总回来捣乱的孩子"，但正是这种"混乱"推动了科学民主化。
 
 ---
 
-## <a name="17"></a>17. 反对“透明”的陷阱 
+## <a name="18"></a>18. 反对“透明”的陷阱 
 <small>🔗 [pluralistic.net](https://pluralistic.net/2025/04/19/gotcha/#known-to-the-state-of-california-to-cause-cancer): Against Transparency</small>
 
 
-| 🔥: 63 \| 💬: [15](https://news.ycombinator.com/item?id=43736718) \| 🗓️ 2025-04-19
+| 🔥: 65 \| 💬: [15](https://news.ycombinator.com/item?id=43736718) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -235,23 +247,11 @@ Neurite是一个**开源知识管理工具**，将**分形几何**与思维导�
 
 ---
 
-## <a name="18"></a>18. arXiv：改变科学交流的开放学术仓库 
-<small>🔗 [wired.com](https://www.wired.com/story/inside-arxiv-most-transformative-code-science/): Inside ArXiv</small>
-
-
-| 🔥: 63 \| 💬: [10](https://news.ycombinator.com/item?id=43738478) \| 🗓️ 2025-04-19
-
-
-<br />
-35年前，物理学家**Paul Ginsparg**创建了**arXiv**，一个无需同行评审即可分享研究成果的开放平台。如今，它已成为数学、物理等领域科学家不可或缺的工具，每月新增2万篇论文，用户超500万。arXiv颠覆了传统学术出版模式，让研究得以快速传播（如新冠期间的突破性发现）。尽管面临审核压力和技术挑战，其**开放共享**的理念仍深刻影响了科学界，甚至孕育了AI领域的里程碑论文（如"transformers"）。Ginsparg将其比作"离家却总回来捣乱的孩子"，但正是这种"混乱"推动了科学民主化。
-
----
-
 ## <a name="19"></a>19. 大语言模型系统发育关系推断与性能预测新方法 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2404.04671): Inferring the Phylogeny of Large Language Models</small>
 
 
-| 🔥: 59 \| 💬: [5](https://news.ycombinator.com/item?id=43736366) \| 🗓️ 2025-04-19
+| 🔥: 60 \| 💬: [5](https://news.ycombinator.com/item?id=43736366) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -259,11 +259,23 @@ Neurite是一个**开源知识管理工具**，将**分形几何**与思维导�
 
 ---
 
-## <a name="20"></a>20. 微软Copilot频现“不请自来”，AI越界问题引争议 
+## <a name="20"></a>20. 冰岛的选举制度解析 
+<small>🔗 [smarimccarthy.is](https://smarimccarthy.is/posts/2024-11-25-voting-system/): The Icelandic Voting System</small>
+
+
+| 🔥: 60 \| 💬: [42](https://news.ycombinator.com/item?id=43738675) \| 🗓️ 2025-04-19
+
+
+<br />
+冰岛采用**双比例分配制**，结合选区席位（CS）和调整席位（AS）确保选举公平性。选区席位通过**d'Hondt除数法**分配，而调整席位则在全国范围内按政党得票比例二次分配。但现行制度存在缺陷，如违反单调性准则（得票更多反而可能减少席位），且因法律表述复杂导致计算不精确。作者建议增加调整席位比例以减少投票权不平等，并推荐更优的选举方法如《多数判断》。文末附有选举模拟器的GitHub链接。
+
+---
+
+## <a name="21"></a>21. 微软Copilot频现“不请自来”，AI越界问题引争议 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/18/microsoft_copilot_not_wanted/): Microsoft Copilot shows AI increasingly appears like an unwanted party guest</small>
 
 
-| 🔥: 55 \| 💬: [14](https://news.ycombinator.com/item?id=43736578) \| 🗓️ 2025-04-19
+| 🔥: 57 \| 💬: [14](https://news.ycombinator.com/item?id=43736578) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -271,7 +283,31 @@ Neurite是一个**开源知识管理工具**，将**分形几何**与思维导�
 
 ---
 
-## <a name="21"></a>21. 中国正成为美国自我破坏的最大赢家 
+## <a name="22"></a>22. SSD断电长期存放测试：数据丢失与性能下降问题凸显 
+<small>🔗 [tomshardware.com](https://www.tomshardware.com/pc-components/storage/unpowered-ssd-endurance-investigation-finds-severe-data-loss-and-performance-issues-reminds-us-of-the-importance-of-refreshing-backups): Unpowered SSD endurance investigation finds data loss and performance issues</small>
+
+
+| 🔥: 57 \| 💬: [23](https://news.ycombinator.com/item?id=43739028) \| 🗓️ 2025-04-19
+
+
+<br />
+一项针对**SSD断电耐久性**的两年期测试发现，长期未通电的SSD会出现**数据丢失**和**性能下降**。测试使用四块128GB TLC SSD，其中两块写入量远超标称的60TB寿命。结果显示，重度使用的SSD两年后出现文件损坏且性能骤降，而轻度使用的SSD虽数据完整，但纠错码（ECC）异常增加，预示潜在风险。实验强调定期通电刷新备份的重要性，尤其对长期冷存储的SSD。
+
+---
+
+## <a name="23"></a>23. 澳大利亚沙漠照片揭示卫星污染问题 
+<small>🔗 [thisiscolossal.com](https://www.thisiscolossal.com/2025/04/a-stunning-image-of-the-australian-desert-illuminates-the-growing-problem-of-satellite-pollution/): An Image of the Australian Desert Illuminates Satellite Pollution</small>
+
+
+| 🔥: 54 \| 💬: [40](https://news.ycombinator.com/item?id=43737469) \| 🗓️ 2025-04-19
+
+
+<br />
+2021年，摄影师Joshua Rozells在澳大利亚西部的**尖峰石阵沙漠**拍摄星轨时，意外发现**卫星轨迹**几乎出现在每张照片中。他将343张照片合成一张图像，直观展现了日益严重的**卫星光污染**问题。自SpaceX 2019年发射首批60颗星链卫星后，近地轨道卫星已超1万颗，且未来计划发射数万颗。天文学家警告，缺乏监管的卫星激增将加剧光污染，影响天文观测。国际天文联合会等组织正呼吁加强对夜空保护。
+
+---
+
+## <a name="24"></a>24. 中国正成为美国自我破坏的最大赢家 
 <small>🔗 [minnalander.substack.com](https://minnalander.substack.com/p/china-can-have-it-all): China Can Have It All – China is currently winner of America's self-sabotage</small>
 
 
@@ -283,50 +319,14 @@ Neurite是一个**开源知识管理工具**，将**分形几何**与思维导�
 
 ---
 
-## <a name="22"></a>22. 冰岛的选举制度解析 
-<small>🔗 [smarimccarthy.is](https://smarimccarthy.is/posts/2024-11-25-voting-system/): The Icelandic Voting System</small>
-
-
-| 🔥: 50 \| 💬: [28](https://news.ycombinator.com/item?id=43738675) \| 🗓️ 2025-04-19
-
-
-<br />
-冰岛采用**双比例分配制**，结合选区席位（CS）和调整席位（AS）确保选举公平性。选区席位通过**d'Hondt除数法**分配，而调整席位则在全国范围内按政党得票比例二次分配。但现行制度存在缺陷，如违反单调性准则（得票更多反而可能减少席位），且因法律表述复杂导致计算不精确。作者建议增加调整席位比例以减少投票权不平等，并推荐更优的选举方法如《多数判断》。文末附有选举模拟器的GitHub链接。
-
----
-
-## <a name="23"></a>23. 特斯拉推迟在美推出“平价版Model Y” 
+## <a name="25"></a>25. 特斯拉推迟在美推出“平价版Model Y” 
 <small>🔗 [electrek.co](https://electrek.co/2025/04/18/tesla-delays-affordable-ev-stripped-down-model-y-us-report/): Tesla delays new 'affordable EV/stripped down Model Y' in the US</small>
 
 
-| 🔥: 48 \| 💬: [60](https://news.ycombinator.com/item?id=43735732) \| 🗓️ 2025-04-19
+| 🔥: 49 \| 💬: [60](https://news.ycombinator.com/item?id=43735732) \| 🗓️ 2025-04-19
 
 
 <br />
 据报道，特斯拉已推迟在美国发布**“平价电动车”**计划，该车型被描述为**简化版Model Y**。原定于2025年推出的项目因**生产优先级调整**暂缓，具体时间未公布。此举或与特斯拉集中资源推进自动驾驶及现有车型产能优化有关。
-
----
-
-## <a name="24"></a>24. 澳大利亚沙漠照片揭示卫星污染问题 
-<small>🔗 [thisiscolossal.com](https://www.thisiscolossal.com/2025/04/a-stunning-image-of-the-australian-desert-illuminates-the-growing-problem-of-satellite-pollution/): An Image of the Australian Desert Illuminates Satellite Pollution</small>
-
-
-| 🔥: 47 \| 💬: [32](https://news.ycombinator.com/item?id=43737469) \| 🗓️ 2025-04-19
-
-
-<br />
-2021年，摄影师Joshua Rozells在澳大利亚西部的**尖峰石阵沙漠**拍摄星轨时，意外发现**卫星轨迹**几乎出现在每张照片中。他将343张照片合成一张图像，直观展现了日益严重的**卫星光污染**问题。自SpaceX 2019年发射首批60颗星链卫星后，近地轨道卫星已超1万颗，且未来计划发射数万颗。天文学家警告，缺乏监管的卫星激增将加剧光污染，影响天文观测。国际天文联合会等组织正呼吁加强对夜空保护。
-
----
-
-## <a name="25"></a>25. 俄罗斯宣传渗透西方AI聊天机器人——新研究揭露隐患 
-<small>🔗 [forbes.com](https://www.forbes.com/sites/torconstantino/2025/03/10/russian-propaganda-has-now-infected-western-ai-chatbots---new-study/): Russian Propaganda Has Now Infected Western AI Chatbots – New Study</small>
-
-
-| 🔥: 42 \| 💬: [38](https://news.ycombinator.com/item?id=43735937) \| 🗓️ 2025-04-19
-
-
-<br />
-一项研究发现，**西方主流AI聊天机器人**正无意中传播**俄罗斯宣传内容**。莫斯科支持的“Pravda”虚假信息网络通过海量文章（2024年发布360万篇）污染搜索引擎和AI训练数据，导致10款AI中有33%重复其虚假叙事，其中7款甚至直接引用Pravda作为信源。专家警告，这种**“LLM数据投毒”**手法通过SEO和跨语言网站群操控AI输出，难以单纯屏蔽。例如，关于“乌克兰封禁特朗普社交应用”的假新闻被多数AI传播。研究呼吁加强AI内容审核，用户也需交叉验证敏感信息。
 
 ---
