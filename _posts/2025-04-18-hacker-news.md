@@ -27,7 +27,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Kuberwastaken/backdooms): Show HN: I made a Doom-like game fit inside a QR code</small>
 
 
-| 🔥🔥: 355 \| 💬: [96](https://news.ycombinator.com/item?id=43729683) \| 🗓️ 2025-04-18
+| 🔥🔥: 364 \| 💬: [97](https://news.ycombinator.com/item?id=43729683) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [404media.co](https://www.404media.co/judge-rules-blanket-search-of-cell-tower-data-unconstitutional/): Judge Rules Blanket Search of Cell Tower Data Unconstitutional</small>
 
 
-| 🔥🔥: 349 \| 💬: [136](https://news.ycombinator.com/item?id=43730545) \| 🗓️ 2025-04-18
+| 🔥🔥: 358 \| 💬: [142](https://news.ycombinator.com/item?id=43730545) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [defold.com](https://defold.com): Defold: cross-platform game engine</small>
 
 
-| 🔥🔥: 340 \| 💬: [144](https://news.ycombinator.com/item?id=43726051) \| 🗓️ 2025-04-18
+| 🔥🔥: 346 \| 💬: [145](https://news.ycombinator.com/item?id=43726051) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -63,7 +63,7 @@ Defold是一款**高性能**、**完全免费**的跨平台游戏引擎，支持
 <small>🔗 [forbes.com](https://www.forbes.com/sites/tonybradley/2025/04/16/deafening-silence-from-the-cybersecurity-industry/): Deafening Silence from the Cybersecurity Industry</small>
 
 
-| 🔥🔥: 307 \| 💬: [235](https://news.ycombinator.com/item?id=43726548) \| 🗓️ 2025-04-18
+| 🔥🔥: 308 \| 💬: [240](https://news.ycombinator.com/item?id=43726548) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -75,7 +75,7 @@ Defold是一款**高性能**、**完全免费**的跨平台游戏引擎，支持
 <small>🔗 [jonathan.protzenko.fr](https://jonathan.protzenko.fr/2025/04/18/python.html): 15,000 lines of verified cryptography now in Python</small>
 
 
-| 🔥🔥: 280 \| 💬: [72](https://news.ycombinator.com/item?id=43731165) \| 🗓️ 2025-04-18
+| 🔥🔥: 296 \| 💬: [77](https://news.ycombinator.com/item?id=43731165) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -87,7 +87,7 @@ Defold是一款**高性能**、**完全免费**的跨平台游戏引擎，支持
 <small>🔗 [judyrecords.com](https://www.judyrecords.com/): Full Text Search of US Court records</small>
 
 
-| 🔥🔥: 217 \| 💬: [41](https://news.ycombinator.com/item?id=43731552) \| 🗓️ 2025-04-18
+| 🔥🔥: 230 \| 💬: [43](https://news.ycombinator.com/item?id=43731552) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -99,7 +99,7 @@ Defold是一款**高性能**、**完全免费**的跨平台游戏引擎，支持
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/18/ibm_orders_us_sales_staff/): IBM orders US sales to locate near customers, RTO for cloud staff, DEI purge</small>
 
 
-| 🔥🔥: 200 \| 💬: [389](https://news.ycombinator.com/item?id=43727727) \| 🗓️ 2025-04-18
+| 🔥🔥: 202 \| 💬: [397](https://news.ycombinator.com/item?id=43727727) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -111,7 +111,7 @@ IBM要求**美国销售团队**每周至少3天在客户现场、旗舰办公室
 <small>🔗 [info.arxiv.org](https://info.arxiv.org/hiring/index.html): arXiv moving from Cornell servers to Google Cloud</small>
 
 
-| 🔥🔥: 197 \| 💬: [148](https://news.ycombinator.com/item?id=43726640) \| 🗓️ 2025-04-18
+| 🔥🔥: 199 \| 💬: [149](https://news.ycombinator.com/item?id=43726640) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -123,7 +123,7 @@ arXiv宣布启动**arXiv CE（云版本）项目**，计划将所有服务从康
 <small>🔗 [github.com](https://github.com/ashvardanian/less_slow.cpp): Less Slow C++</small>
 
 
-| 🔥🔥: 183 \| 💬: [90](https://news.ycombinator.com/item?id=43727743) \| 🗓️ 2025-04-18
+| 🔥🔥: 183 \| 💬: [91](https://news.ycombinator.com/item?id=43727743) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -135,7 +135,7 @@ arXiv宣布启动**arXiv CE（云版本）项目**，计划将所有服务从康
 <small>🔗 [unixdigest.com](https://unixdigest.com/articles/i-passionately-hate-hype-especially-the-ai-hype.html): I passionately hate hype, especially the AI hype</small>
 
 
-| 🔥🔥: 157 \| 💬: [163](https://news.ycombinator.com/item?id=43732047) \| 🗓️ 2025-04-18
+| 🔥🔥: 162 \| 💬: [172](https://news.ycombinator.com/item?id=43732047) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -143,23 +143,11 @@ arXiv宣布启动**arXiv CE（云版本）项目**，计划将所有服务从康
 
 ---
 
-## <a name="11"></a>11. 围墙花园可能致命 
-<small>🔗 [aneesiqbal.ai](https://aneesiqbal.ai/2025-04-18-walled-gardens-can-kill): Walled Gardens Can Kill</small>
-
-
-| 🔥🔥: 143 \| 💬: [116](https://news.ycombinator.com/item?id=43726672) \| 🗓️ 2025-04-18
-
-
-<br />
-作者作为长期苹果用户，上周因妻子突发疾病遭遇**生态封闭性**危机：急需安装阿联酋地区限定的医保App时，**苹果系统**因区域订阅限制阻止安装和切换账户地区。所幸作者因开发测试保留了安卓模拟器应急，最终通过热点共享在备用安卓手机完成就医手续。此事彻底改变其对封闭生态的看法，现常备安卓机存储医保信息。**全球性数字市场法案**或能避免类似险境。
-
----
-
-## <a name="12"></a>12. Python新ASN.1 API：高性能与现代化的密码学工具 
+## <a name="11"></a>11. Python新ASN.1 API：高性能与现代化的密码学工具 
 <small>🔗 [blog.trailofbits.com](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/): A New ASN.1 API for Python</small>
 
 
-| 🔥🔥: 142 \| 💬: [52](https://news.ycombinator.com/item?id=43728279) \| 🗓️ 2025-04-18
+| 🔥🔥: 145 \| 💬: [58](https://news.ycombinator.com/item?id=43728279) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -167,11 +155,23 @@ ASN.1是加密、PKI和底层网络协议的核心序列化语言，但现有Pyt
 
 ---
 
+## <a name="12"></a>12. 围墙花园可能致命 
+<small>🔗 [aneesiqbal.ai](https://aneesiqbal.ai/2025-04-18-walled-gardens-can-kill): Walled Gardens Can Kill</small>
+
+
+| 🔥🔥: 143 \| 💬: [117](https://news.ycombinator.com/item?id=43726672) \| 🗓️ 2025-04-18
+
+
+<br />
+作者作为长期苹果用户，上周因妻子突发疾病遭遇**生态封闭性**危机：急需安装阿联酋地区限定的医保App时，**苹果系统**因区域订阅限制阻止安装和切换账户地区。所幸作者因开发测试保留了安卓模拟器应急，最终通过热点共享在备用安卓手机完成就医手续。此事彻底改变其对封闭生态的看法，现常备安卓机存储医保信息。**全球性数字市场法案**或能避免类似险境。
+
+---
+
 ## <a name="13"></a>13. 超文本电视导航 
 <small>🔗 [hypertext.tv](https://hypertext.tv/): Hypertext TV</small>
 
 
-| 🔥: 91 \| 💬: [8](https://news.ycombinator.com/item?id=43732805) \| 🗓️ 2025-04-18
+| 🔥🔥: 110 \| 💬: [9](https://news.ycombinator.com/item?id=43732805) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -195,7 +195,7 @@ ASN.1是加密、PKI和底层网络协议的核心序列化语言，但现有Pyt
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/): OpenAI's new reasoning AI models hallucinate more</small>
 
 
-| 🔥: 81 \| 💬: [63](https://news.ycombinator.com/item?id=43732506) \| 🗓️ 2025-04-18
+| 🔥: 83 \| 💬: [66](https://news.ycombinator.com/item?id=43732506) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -207,7 +207,7 @@ OpenAI最新发布的**o3**和**o4-mini**推理模型在代码和数学任务上
 <small>🔗 [inkandswitch.com](https://www.inkandswitch.com/ink/notes/phase-2-constraint-system/): Ink and Switch Constraint System (2023)</small>
 
 
-| 🔥: 76 \| 💬: [9](https://news.ycombinator.com/item?id=43729932) \| 🗓️ 2025-04-18
+| 🔥: 77 \| 💬: [10](https://news.ycombinator.com/item?id=43729932) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -219,7 +219,7 @@ OpenAI最新发布的**o3**和**o4-mini**推理模型在代码和数学任务上
 <small>🔗 [github.com](https://github.com/attunehq/attune): Show HN: Attune - Build and publish APT repositories in seconds</small>
 
 
-| 🔥: 73 \| 💬: [20](https://news.ycombinator.com/item?id=43729427) \| 🗓️ 2025-04-18
+| 🔥: 76 \| 💬: [22](https://news.ycombinator.com/item?id=43729427) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -231,7 +231,7 @@ Attune是一个**开源工件注册中心**，支持快速搭建和发布Linux�
 <small>🔗 [github.com](https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book): UML diagram for the DDD example in Evans' book</small>
 
 
-| 🔥: 73 \| 💬: [35](https://news.ycombinator.com/item?id=43731250) \| 🗓️ 2025-04-18
+| 🔥: 76 \| 💬: [37](https://news.ycombinator.com/item?id=43731250) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -243,7 +243,7 @@ Attune是一个**开源工件注册中心**，支持快速搭建和发布Linux�
 <small>🔗 [noemamag.com](https://www.noemamag.com/theres-life-inside-earths-crust/): There's Life Inside Earth's Crust</small>
 
 
-| 🔥: 67 \| 💬: [26](https://news.ycombinator.com/item?id=43730701) \| 🗓️ 2025-04-18
+| 🔥: 75 \| 💬: [28](https://news.ycombinator.com/item?id=43730701) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -255,7 +255,7 @@ Attune是一个**开源工件注册中心**，支持快速搭建和发布Linux�
 <small>🔗 [kumarletter.com](https://kumarletter.com/posts/electric-propulsion-s-dirty-secret-why-lithium-can-t-fly-or-float-profitably): Electric Propulsion's Dirty Secret: Why Lithium Can't Fly (Or Float) Profitably</small>
 
 
-| 🔥: 62 \| 💬: [167](https://news.ycombinator.com/item?id=43731168) \| 🗓️ 2025-04-18
+| 🔥: 62 \| 💬: [168](https://news.ycombinator.com/item?id=43731168) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -267,7 +267,7 @@ Attune是一个**开源工件注册中心**，支持快速搭建和发布Linux�
 <small>🔗 [governance.fyi](https://www.governance.fyi/p/college-towns-urbanism-from-a-past): College Towns: Urbanism from a Past Era</small>
 
 
-| 🔥: 58 \| 💬: [94](https://news.ycombinator.com/item?id=43729609) \| 🗓️ 2025-04-18
+| 🔥: 59 \| 💬: [98](https://news.ycombinator.com/item?id=43729609) \| 🗓️ 2025-04-18
 
 
 <br />
