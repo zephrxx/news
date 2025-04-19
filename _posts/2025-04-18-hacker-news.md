@@ -27,7 +27,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Kuberwastaken/backdooms): Show HN: I made a Doom-like game fit inside a QR code</small>
 
 
-| 🔥🔥: 364 \| 💬: [97](https://news.ycombinator.com/item?id=43729683) \| 🗓️ 2025-04-18
+| 🔥🔥: 378 \| 💬: [104](https://news.ycombinator.com/item?id=43729683) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [404media.co](https://www.404media.co/judge-rules-blanket-search-of-cell-tower-data-unconstitutional/): Judge Rules Blanket Search of Cell Tower Data Unconstitutional</small>
 
 
-| 🔥🔥: 358 \| 💬: [142](https://news.ycombinator.com/item?id=43730545) \| 🗓️ 2025-04-18
+| 🔥🔥: 376 \| 💬: [147](https://news.ycombinator.com/item?id=43730545) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [defold.com](https://defold.com): Defold: cross-platform game engine</small>
 
 
-| 🔥🔥: 346 \| 💬: [145](https://news.ycombinator.com/item?id=43726051) \| 🗓️ 2025-04-18
+| 🔥🔥: 350 \| 💬: [145](https://news.ycombinator.com/item?id=43726051) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -63,7 +63,7 @@ Defold是一款**高性能**、**完全免费**的跨平台游戏引擎，支持
 <small>🔗 [forbes.com](https://www.forbes.com/sites/tonybradley/2025/04/16/deafening-silence-from-the-cybersecurity-industry/): Deafening Silence from the Cybersecurity Industry</small>
 
 
-| 🔥🔥: 308 \| 💬: [240](https://news.ycombinator.com/item?id=43726548) \| 🗓️ 2025-04-18
+| 🔥🔥: 309 \| 💬: [240](https://news.ycombinator.com/item?id=43726548) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -75,7 +75,7 @@ Defold是一款**高性能**、**完全免费**的跨平台游戏引擎，支持
 <small>🔗 [jonathan.protzenko.fr](https://jonathan.protzenko.fr/2025/04/18/python.html): 15,000 lines of verified cryptography now in Python</small>
 
 
-| 🔥🔥: 296 \| 💬: [77](https://news.ycombinator.com/item?id=43731165) \| 🗓️ 2025-04-18
+| 🔥🔥: 307 \| 💬: [79](https://news.ycombinator.com/item?id=43731165) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -87,7 +87,7 @@ Defold是一款**高性能**、**完全免费**的跨平台游戏引擎，支持
 <small>🔗 [judyrecords.com](https://www.judyrecords.com/): Full Text Search of US Court records</small>
 
 
-| 🔥🔥: 230 \| 💬: [43](https://news.ycombinator.com/item?id=43731552) \| 🗓️ 2025-04-18
+| 🔥🔥: 244 \| 💬: [49](https://news.ycombinator.com/item?id=43731552) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -95,23 +95,11 @@ Defold是一款**高性能**、**完全免费**的跨平台游戏引擎，支持
 
 ---
 
-## <a name="7"></a>7. IBM强制美国销售与云员工回归办公室 同步削减DEI项目 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/04/18/ibm_orders_us_sales_staff/): IBM orders US sales to locate near customers, RTO for cloud staff, DEI purge</small>
-
-
-| 🔥🔥: 202 \| 💬: [397](https://news.ycombinator.com/item?id=43727727) \| 🗓️ 2025-04-18
-
-
-<br />
-IBM要求**美国销售团队**每周至少3天在客户现场、旗舰办公室或销售中心办公，否则需搬迁。**云部门员工**也需在7月前回归指定办公室。此举被质疑为变相裁员，因资深员工更可能拒绝调动。同时，IBM削减了**DEI（多元平等包容）**项目，移除高管激励中的多样性目标，并修改官网内容以淡化相关表述。公司正将招聘重心转向印度，计划在勒克瑙新建软件实验室。这些调整被认为与特朗普政府反DEI政策有关。
-
----
-
-## <a name="8"></a>8. arXiv将服务从康奈尔服务器迁移至谷歌云 
+## <a name="7"></a>7. arXiv将服务从康奈尔服务器迁移至谷歌云 
 <small>🔗 [info.arxiv.org](https://info.arxiv.org/hiring/index.html): arXiv moving from Cornell servers to Google Cloud</small>
 
 
-| 🔥🔥: 199 \| 💬: [149](https://news.ycombinator.com/item?id=43726640) \| 🗓️ 2025-04-18
+| 🔥🔥: 204 \| 💬: [153](https://news.ycombinator.com/item?id=43726640) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -119,11 +107,23 @@ arXiv宣布启动**arXiv CE（云版本）项目**，计划将所有服务从康
 
 ---
 
+## <a name="8"></a>8. IBM强制美国销售与云员工回归办公室 同步削减DEI项目 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/04/18/ibm_orders_us_sales_staff/): IBM orders US sales to locate near customers, RTO for cloud staff, DEI purge</small>
+
+
+| 🔥🔥: 202 \| 💬: [400](https://news.ycombinator.com/item?id=43727727) \| 🗓️ 2025-04-18
+
+
+<br />
+IBM要求**美国销售团队**每周至少3天在客户现场、旗舰办公室或销售中心办公，否则需搬迁。**云部门员工**也需在7月前回归指定办公室。此举被质疑为变相裁员，因资深员工更可能拒绝调动。同时，IBM削减了**DEI（多元平等包容）**项目，移除高管激励中的多样性目标，并修改官网内容以淡化相关表述。公司正将招聘重心转向印度，计划在勒克瑙新建软件实验室。这些调整被认为与特朗普政府反DEI政策有关。
+
+---
+
 ## <a name="9"></a>9. 如何编写更高效的C++代码 
 <small>🔗 [github.com](https://github.com/ashvardanian/less_slow.cpp): Less Slow C++</small>
 
 
-| 🔥🔥: 183 \| 💬: [91](https://news.ycombinator.com/item?id=43727743) \| 🗓️ 2025-04-18
+| 🔥🔥: 184 \| 💬: [91](https://news.ycombinator.com/item?id=43727743) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -135,7 +135,7 @@ arXiv宣布启动**arXiv CE（云版本）项目**，计划将所有服务从康
 <small>🔗 [unixdigest.com](https://unixdigest.com/articles/i-passionately-hate-hype-especially-the-ai-hype.html): I passionately hate hype, especially the AI hype</small>
 
 
-| 🔥🔥: 162 \| 💬: [172](https://news.ycombinator.com/item?id=43732047) \| 🗓️ 2025-04-18
+| 🔥🔥: 165 \| 💬: [175](https://news.ycombinator.com/item?id=43732047) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -147,7 +147,7 @@ arXiv宣布启动**arXiv CE（云版本）项目**，计划将所有服务从康
 <small>🔗 [blog.trailofbits.com](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/): A New ASN.1 API for Python</small>
 
 
-| 🔥🔥: 145 \| 💬: [58](https://news.ycombinator.com/item?id=43728279) \| 🗓️ 2025-04-18
+| 🔥🔥: 149 \| 💬: [68](https://news.ycombinator.com/item?id=43728279) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -159,7 +159,7 @@ ASN.1是加密、PKI和底层网络协议的核心序列化语言，但现有Pyt
 <small>🔗 [aneesiqbal.ai](https://aneesiqbal.ai/2025-04-18-walled-gardens-can-kill): Walled Gardens Can Kill</small>
 
 
-| 🔥🔥: 143 \| 💬: [117](https://news.ycombinator.com/item?id=43726672) \| 🗓️ 2025-04-18
+| 🔥🔥: 143 \| 💬: [119](https://news.ycombinator.com/item?id=43726672) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -171,7 +171,7 @@ ASN.1是加密、PKI和底层网络协议的核心序列化语言，但现有Pyt
 <small>🔗 [hypertext.tv](https://hypertext.tv/): Hypertext TV</small>
 
 
-| 🔥🔥: 110 \| 💬: [9](https://news.ycombinator.com/item?id=43732805) \| 🗓️ 2025-04-18
+| 🔥🔥: 125 \| 💬: [12](https://news.ycombinator.com/item?id=43732805) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -191,59 +191,11 @@ ASN.1是加密、PKI和底层网络协议的核心序列化语言，但现有Pyt
 
 ---
 
-## <a name="15"></a>15. OpenAI新推理模型幻觉问题加剧 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/): OpenAI's new reasoning AI models hallucinate more</small>
-
-
-| 🔥: 83 \| 💬: [66](https://news.ycombinator.com/item?id=43732506) \| 🗓️ 2025-04-18
-
-
-<br />
-OpenAI最新发布的**o3**和**o4-mini**推理模型在代码和数学任务上表现优异，但**幻觉问题**（虚构内容）比旧模型更严重。内部测试显示，o3在PersonQA基准测试中幻觉率达33%，是前代模型的两倍；o4-mini更高达48%。第三方机构Transluce发现o3会编造执行过程（如声称在外部运行代码）。OpenAI承认尚未找到原因，推测**强化学习**可能放大了问题。尽管推理模型能提升效率，但幻觉增加可能限制其商业应用（如法律场景）。结合网络搜索或为解决方案之一。
-
----
-
-## <a name="16"></a>16. 墨水与开关约束系统：突破性进展（2023年秋） 
-<small>🔗 [inkandswitch.com](https://www.inkandswitch.com/ink/notes/phase-2-constraint-system/): Ink and Switch Constraint System (2023)</small>
-
-
-| 🔥: 77 \| 💬: [10](https://news.ycombinator.com/item?id=43729932) \| 🗓️ 2025-04-18
-
-
-<br />
-本文总结了**约束系统**在动态媒介中的关键作用：它能实现机械构造（如滑轮绳索）的物理模拟、参数化双向计算（如建筑图纸随表格编辑自动更新）。针对传统约束系统的**“漂移”**、**“爆炸”**和性能问题，团队通过**“已知量传播”**和线性关系优化，将变量维度压缩，显著提升求解稳定性与效率。例如，角度约束通过θBA=θAB+π避免冗余计算。此外，**“聚类”**技术将约束分组独立求解，为并行化奠定基础。系统兼容多种求解器（如梯度下降法），并通过极坐标替代笛卡尔坐标进一步优化。早期测试中，原有不稳定构造在新系统中均运行良好。
-
----
-
-## <a name="17"></a>17. Attune：快速构建和发布APT仓库的开源工具 
-<small>🔗 [github.com](https://github.com/attunehq/attune): Show HN: Attune - Build and publish APT repositories in seconds</small>
-
-
-| 🔥: 76 \| 💬: [22](https://news.ycombinator.com/item?id=43729427) \| 🗓️ 2025-04-18
-
-
-<br />
-Attune是一个**开源工件注册中心**，支持快速搭建和发布Linux软件包仓库。它提供**灵活的部署方式**（自托管或云端托管），并采用**本地签名设计**确保密钥安全。当前支持APT（Debian/Ubuntu）仓库，未来将扩展更多格式。通过Docker和CLI工具，用户可在5分钟内完成仓库初始化、添加软件包及签名发布。项目采用**Apache 2.0许可证**，强调高效（增量索引重建）与安全。
-
----
-
-## <a name="18"></a>18. Evans《领域驱动设计》示例的UML图解 
-<small>🔗 [github.com](https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book): UML diagram for the DDD example in Evans' book</small>
-
-
-| 🔥: 76 \| 💬: [37](https://news.ycombinator.com/item?id=43731250) \| 🗓️ 2025-04-18
-
-
-<br />
-该项目通过**UML图表**展示了Eric Evans著作《领域驱动设计》中**货运系统示例**的结构与行为，基于GitHub上的dddsample-core项目源码绘制。图表涵盖领域模型概览、用户交互流程（如货物跟踪与预订）、系统整体架构（分为预订和运输网络上下文）等核心设计，帮助理解DDD的战略与战术实现。需使用Astah建模工具查看详细模型文件，图表支持类似Google Maps的缩放浏览功能。项目采用CC0许可，引用D3.js等开源库。
-
----
-
-## <a name="19"></a>19. 地球深处暗藏生命奥秘 
+## <a name="15"></a>15. 地球深处暗藏生命奥秘 
 <small>🔗 [noemamag.com](https://www.noemamag.com/theres-life-inside-earths-crust/): There's Life Inside Earth's Crust</small>
 
 
-| 🔥: 75 \| 💬: [28](https://news.ycombinator.com/item?id=43730701) \| 🗓️ 2025-04-18
+| 🔥: 85 \| 💬: [29](https://news.ycombinator.com/item?id=43730701) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -251,11 +203,59 @@ Attune是一个**开源工件注册中心**，支持快速搭建和发布Linux�
 
 ---
 
+## <a name="16"></a>16. OpenAI新推理模型幻觉问题加剧 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/04/18/openais-new-reasoning-ai-models-hallucinate-more/): OpenAI's new reasoning AI models hallucinate more</small>
+
+
+| 🔥: 85 \| 💬: [69](https://news.ycombinator.com/item?id=43732506) \| 🗓️ 2025-04-18
+
+
+<br />
+OpenAI最新发布的**o3**和**o4-mini**推理模型在代码和数学任务上表现优异，但**幻觉问题**（虚构内容）比旧模型更严重。内部测试显示，o3在PersonQA基准测试中幻觉率达33%，是前代模型的两倍；o4-mini更高达48%。第三方机构Transluce发现o3会编造执行过程（如声称在外部运行代码）。OpenAI承认尚未找到原因，推测**强化学习**可能放大了问题。尽管推理模型能提升效率，但幻觉增加可能限制其商业应用（如法律场景）。结合网络搜索或为解决方案之一。
+
+---
+
+## <a name="17"></a>17. 墨水与开关约束系统：突破性进展（2023年秋） 
+<small>🔗 [inkandswitch.com](https://www.inkandswitch.com/ink/notes/phase-2-constraint-system/): Ink and Switch Constraint System (2023)</small>
+
+
+| 🔥: 80 \| 💬: [12](https://news.ycombinator.com/item?id=43729932) \| 🗓️ 2025-04-18
+
+
+<br />
+本文总结了**约束系统**在动态媒介中的关键作用：它能实现机械构造（如滑轮绳索）的物理模拟、参数化双向计算（如建筑图纸随表格编辑自动更新）。针对传统约束系统的**“漂移”**、**“爆炸”**和性能问题，团队通过**“已知量传播”**和线性关系优化，将变量维度压缩，显著提升求解稳定性与效率。例如，角度约束通过θBA=θAB+π避免冗余计算。此外，**“聚类”**技术将约束分组独立求解，为并行化奠定基础。系统兼容多种求解器（如梯度下降法），并通过极坐标替代笛卡尔坐标进一步优化。早期测试中，原有不稳定构造在新系统中均运行良好。
+
+---
+
+## <a name="18"></a>18. Attune：快速构建和发布APT仓库的开源工具 
+<small>🔗 [github.com](https://github.com/attunehq/attune): Show HN: Attune - Build and publish APT repositories in seconds</small>
+
+
+| 🔥: 79 \| 💬: [27](https://news.ycombinator.com/item?id=43729427) \| 🗓️ 2025-04-18
+
+
+<br />
+Attune是一个**开源工件注册中心**，支持快速搭建和发布Linux软件包仓库。它提供**灵活的部署方式**（自托管或云端托管），并采用**本地签名设计**确保密钥安全。当前支持APT（Debian/Ubuntu）仓库，未来将扩展更多格式。通过Docker和CLI工具，用户可在5分钟内完成仓库初始化、添加软件包及签名发布。项目采用**Apache 2.0许可证**，强调高效（增量索引重建）与安全。
+
+---
+
+## <a name="19"></a>19. Evans《领域驱动设计》示例的UML图解 
+<small>🔗 [github.com](https://github.com/takaakit/uml-diagram-for-ddd-example-in-evans-book): UML diagram for the DDD example in Evans' book</small>
+
+
+| 🔥: 79 \| 💬: [40](https://news.ycombinator.com/item?id=43731250) \| 🗓️ 2025-04-18
+
+
+<br />
+该项目通过**UML图表**展示了Eric Evans著作《领域驱动设计》中**货运系统示例**的结构与行为，基于GitHub上的dddsample-core项目源码绘制。图表涵盖领域模型概览、用户交互流程（如货物跟踪与预订）、系统整体架构（分为预订和运输网络上下文）等核心设计，帮助理解DDD的战略与战术实现。需使用Astah建模工具查看详细模型文件，图表支持类似Google Maps的缩放浏览功能。项目采用CC0许可，引用D3.js等开源库。
+
+---
+
 ## <a name="20"></a>20. 电动推进的致命缺陷：锂电在航空与船舶领域为何无法盈利 
 <small>🔗 [kumarletter.com](https://kumarletter.com/posts/electric-propulsion-s-dirty-secret-why-lithium-can-t-fly-or-float-profitably): Electric Propulsion's Dirty Secret: Why Lithium Can't Fly (Or Float) Profitably</small>
 
 
-| 🔥: 62 \| 💬: [168](https://news.ycombinator.com/item?id=43731168) \| 🗓️ 2025-04-18
+| 🔥: 63 \| 💬: [173](https://news.ycombinator.com/item?id=43731168) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -267,7 +267,7 @@ Attune是一个**开源工件注册中心**，支持快速搭建和发布Linux�
 <small>🔗 [governance.fyi](https://www.governance.fyi/p/college-towns-urbanism-from-a-past): College Towns: Urbanism from a Past Era</small>
 
 
-| 🔥: 59 \| 💬: [98](https://news.ycombinator.com/item?id=43729609) \| 🗓️ 2025-04-18
+| 🔥: 61 \| 💬: [101](https://news.ycombinator.com/item?id=43729609) \| 🗓️ 2025-04-18
 
 
 <br />
@@ -279,7 +279,7 @@ Attune是一个**开源工件注册中心**，支持快速搭建和发布Linux�
 <small>🔗 [alichraghi.github.io](https://alichraghi.github.io/blog/zig-gpu/): Zig and GPUs</small>
 
 
-| 🔥: 48 \| 💬: [9](https://news.ycombinator.com/item?id=43726413) \| 🗓️ 2025-04-18
+| 🔥: 50 \| 💬: [9](https://news.ycombinator.com/item?id=43726413) \| 🗓️ 2025-04-18
 
 
 <br />
