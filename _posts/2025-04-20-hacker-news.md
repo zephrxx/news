@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共15条，具体内容您往下读...
+总共23条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/): Gemma 3 QAT Models: Bringing AI to Consumer GPUs</small>
 
 
-| 🔥🔥: 334 \| 💬: [159](https://news.ycombinator.com/item?id=43743337) \| 🗓️ 2025-04-20
+| 🔥🔥: 360 \| 💬: [170](https://news.ycombinator.com/item?id=43743337) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [fxrant.blogspot.com](https://fxrant.blogspot.com/2025/04/the-movie-mistake-mystery-from-revenge.html): The movie mistake mystery from "Revenge of the Sith"</small>
 
 
-| 🔥🔥: 218 \| 💬: [49](https://news.ycombinator.com/item?id=43745141) \| 🗓️ 2025-04-20
+| 🔥🔥: 246 \| 💬: [61](https://news.ycombinator.com/item?id=43745141) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [matklad.github.io](https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html): Things Zig comptime won't do</small>
 
 
-| 🔥🔥: 195 \| 💬: [65](https://news.ycombinator.com/item?id=43744591) \| 🗓️ 2025-04-20
+| 🔥🔥: 222 \| 💬: [77](https://news.ycombinator.com/item?id=43744591) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -66,7 +66,7 @@ Zig的**`comptime`**功能以泛型、条件编译等能力著称，但其设计
 <small>🔗 [theahura.substack.com](https://theahura.substack.com/p/tech-things-openai-buys-windsurf): Why is OpenAI buying Windsurf?</small>
 
 
-| 🔥🔥: 164 \| 💬: [159](https://news.ycombinator.com/item?id=43743993) \| 🗓️ 2025-04-20
+| 🔥🔥: 180 \| 💬: [169](https://news.ycombinator.com/item?id=43743993) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -78,7 +78,7 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 <small>🔗 [news.azpm.org](https://news.azpm.org/p/news-articles/2025/4/18/224512-us-citizen-in-arizona-detained-by-immigration-officials-for-10-days/): U.S. citizen in Arizona detained by immigration officials for 10 days</small>
 
 
-| 🔥🔥: 156 \| 💬: [50](https://news.ycombinator.com/item?id=43745469) \| 🗓️ 2025-04-20
+| 🔥🔥: 168 \| 💬: [51](https://news.ycombinator.com/item?id=43745469) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -90,7 +90,7 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 <small>🔗 [carette.xyz](https://www.carette.xyz/posts/focus_will_be_the_skill_of_the_future/): The skill of the future is not 'AI', but 'Focus'</small>
 
 
-| 🔥🔥: 143 \| 💬: [55](https://news.ycombinator.com/item?id=43744394) \| 🗓️ 2025-04-20
+| 🔥🔥: 145 \| 💬: [60](https://news.ycombinator.com/item?id=43744394) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -99,10 +99,10 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 ---
 
 ## <a name="7"></a>7. AI的“锯齿状智能”：o3与Gemini 2.5的突破与争议 
-<small>🔗 [oneusefulthing.org](https://www.oneusefulthing.org/p/on-jagged-agi-o3-gemini-25-and-everything): o3, Gemini 2.5, and everything after</small>
+<small>🔗 [oneusefulthing.org](https://www.oneusefulthing.org/p/on-jagged-agi-o3-gemini-25-and-everything): Jagged AGI: o3, Gemini 2.5, and everything after</small>
 
 
-| 🔥🔥: 109 \| 💬: [113](https://news.ycombinator.com/item?id=43744173) \| 🗓️ 2025-04-20
+| 🔥🔥: 125 \| 💬: [145](https://news.ycombinator.com/item?id=43744173) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -114,7 +114,7 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 <small>🔗 [blues.win](https://blues.win/posts/joy-of-linux-theming/): The Joy of Linux Theming in the Age of Bootable Containers</small>
 
 
-| 🔥: 79 \| 💬: [32](https://news.ycombinator.com/item?id=43743784) \| 🗓️ 2025-04-20
+| 🔥: 87 \| 💬: [36](https://news.ycombinator.com/item?id=43743784) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -126,7 +126,7 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 <small>🔗 [kottke.org](https://kottke.org/13/06/you-commit-three-felonies-a-day): Three Felonies a Day (2013)</small>
 
 
-| 🔥: 71 \| 💬: [79](https://news.ycombinator.com/item?id=43742859) \| 🗓️ 2025-04-20
+| 🔥: 73 \| 💬: [79](https://news.ycombinator.com/item?id=43742859) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -134,7 +134,21 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 
 ---
 
-## <a name="10"></a>10. 椭圆曲线到底是什么鬼？ 
+## <a name="10"></a>10. 图灵绘图：随机生成的二维艺术 
+<small>🔗 [github.com](https://github.com/maximecb/Turing-Drawings): Turing-Drawings</small>
+
+
+| 🔥: 68 \| 💬: [24](https://news.ycombinator.com/item?id=43744609) \| 🗓️ 2025-04-20
+
+
+<br />
+该项目通过**随机生成的图灵机**在二维画布上绘制图像与动画，采用JavaScript+HTML5技术实现。开源协议为修改版BSD许可证，提供在线体验链接。作品可生成**分形、矩阵、混沌**等多样动态图案，如"射击之星"、"大陆漂移"等。项目获331星标，含14名观察者与35个分叉。附博客文章详解其原理。  
+
+（注：实际字符数约180，符合要求）
+
+---
+
+## <a name="11"></a>11. 椭圆曲线到底是什么鬼？ 
 <small>🔗 [onlynv.dev](https://onlynv.dev/blog/what-the-hell-is-an-elliptic-curve): What the hell is an elliptic curve?</small>
 
 
@@ -146,25 +160,11 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 
 ---
 
-## <a name="11"></a>11. 图灵绘图：随机生成的二维艺术 
-<small>🔗 [github.com](https://github.com/maximecb/Turing-Drawings): Turing-Drawings</small>
-
-
-| 🔥: 64 \| 💬: [22](https://news.ycombinator.com/item?id=43744609) \| 🗓️ 2025-04-20
-
-
-<br />
-该项目通过**随机生成的图灵机**在二维画布上绘制图像与动画，采用JavaScript+HTML5技术实现。开源协议为修改版BSD许可证，提供在线体验链接。作品可生成**分形、矩阵、混沌**等多样动态图案，如"射击之星"、"大陆漂移"等。项目获331星标，含14名观察者与35个分叉。附博客文章详解其原理。  
-
-（注：实际字符数约180，符合要求）
-
----
-
 ## <a name="12"></a>12. 摇摇欲坠的旧金山 
 <small>🔗 [rachdele.substack.com](https://rachdele.substack.com/p/slouching-towards-san-francisco): Slouching towards San Francisco</small>
 
 
-| 🔥: 62 \| 💬: [57](https://news.ycombinator.com/item?id=43743915) \| 🗓️ 2025-04-20
+| 🔥: 64 \| 💬: [61](https://news.ycombinator.com/item?id=43743915) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -176,7 +176,7 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 <small>🔗 [quiss.org](https://www.quiss.org/signal_carnival/): Signal Carnival</small>
 
 
-| 🔥: 48 \| 💬: [5](https://news.ycombinator.com/item?id=43745040) \| 🗓️ 2025-04-20
+| 🔥: 57 \| 💬: [5](https://news.ycombinator.com/item?id=43745040) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -188,7 +188,7 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/): New Proof Settles Decades-Old Bet About Connected Networks</small>
 
 
-| 🔥: 36 \| 💬: [6](https://news.ycombinator.com/item?id=43745261) \| 🗓️ 2025-04-20
+| 🔥: 47 \| 💬: [7](https://news.ycombinator.com/item?id=43745261) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -196,14 +196,119 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 
 ---
 
-## <a name="15"></a>15. 加拿大兴起“家庭画廊”：藏在后院、鸡舍与公寓里的艺术革命 
+## <a name="15"></a>15. 找出颜色不同的圆盘 
+<small>🔗 [colors2.alessandroroussel.com](https://colors2.alessandroroussel.com/): Find the Odd Disk</small>
+
+
+| 🔥: 47 \| 💬: [40](https://news.ycombinator.com/item?id=43745868) \| 🗓️ 2025-04-20
+
+
+<br />
+这是一款考验眼力的游戏，玩家需要在多个颜色相近的圆盘中**快速找出颜色不同的那个**。游戏支持多语言（英语、法语、西班牙语），共20轮，失败后可重新开始。参与次数越多，贡献的**数据越有价值**。简洁的界面和明确的提示使其易于上手，适合重复游玩以提升观察力。
+
+---
+
+## <a name="16"></a>16. 加拿大兴起“家庭画廊”：藏在后院、鸡舍与公寓里的艺术革命 
 <small>🔗 [cbc.ca](https://www.cbc.ca/arts/home-galleries-are-hiding-in-plain-sight-across-canada-1.7503886): Home galleries are hiding in plain sight across Canada</small>
 
 
-| 🔥: 34 \| 💬: [3](https://news.ycombinator.com/item?id=43744636) \| 🗓️ 2025-04-20
+| 🔥: 45 \| 💬: [8](https://news.ycombinator.com/item?id=43744636) \| 🗓️ 2025-04-20
 
 
 <br />
 随着生活成本攀升，加拿大各地涌现出**非传统艺术空间**——从多伦多后院（如Erin Storus的**Garden Variety**）、蒙特利尔公寓（Marie Ségolène Brault的**Espace Maurice**）到安大略省鸡舍（Alexander Rondeau的**Between Pheasants Contemporary**）。这些**DIY画廊**由新兴策展人创办，成本低廉且充满社区活力，既为艺术家提供展示平台，也重塑了观众与艺术的互动方式。例如，Storus将烧烤派对变为露天展览，而Rondeau甚至让作品与家禽共处一室。这种模式因灵活性与亲近感持续扩张，成为高租金时代下的艺术新生态。
+
+---
+
+## <a name="17"></a>17. Falsify：Haskell中受Hypothesis启发的收缩测试库 
+<small>🔗 [well-typed.com](https://www.well-typed.com/blog/2023/04/falsify/): Falsify: Hypothesis-Inspired Shrinking for Haskell (2023)</small>
+
+
+| 🔥: 37 \| 💬: [3](https://news.ycombinator.com/item?id=43746017) \| 🗓️ 2025-04-20
+
+
+<br />
+Edsko de Vries在2023年4月18日介绍了**falsify**，这是一个为Haskell设计的属性测试库，其收缩机制灵感来自Python的**Hypothesis**。与传统方法不同，falsify通过解析**样本树**而非生成随机值来实现集成收缩，从而在单子绑定中保持行为一致性。例如，测试列表元素是否全等时，库会逐步收缩样本树，生成最小反例（如`[0,1]`），使调试更直观。与QuickCheck的分立收缩或Hedgehog的集成收缩相比，falsify的样本树结构避免了值在收缩过程中的意外增长，提升了可预测性。
+
+---
+
+## <a name="18"></a>18. 通过线性定理突破大语言模型量化的极限 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2411.17525): Pushing the Limits of LLM Quantization via the Linearity Theorem</small>
+
+
+| 🔥: 36 \| 💬: [0](https://news.ycombinator.com/item?id=43744343) \| 🗓️ 2025-04-20
+
+
+<br />
+该研究提出了一种**线性定理**，揭示了层间ℓ₂重建误差与量化导致的模型困惑度增加之间的直接关系。基于此，作者开发了**HIGGS**——一种无需数据的量化方法，结合Hadamard旋转和MSE最优网格，性能超越NF4等现有方案。同时，论文通过动态规划实现了**中比特位宽下非均匀分层量化的最优解**。实验表明，该方法在Llama-3和Qwen系列模型上实现了更优的精度-压缩权衡，且GPU内核支持高效部署。研究为LLM量化提供了理论依据和实用工具，推动了数据自由与非均匀量化技术的发展。
+
+---
+
+## <a name="19"></a>19. 低生育率并非人类文明的威胁 
+<small>🔗 [currentaffairs.org](https://www.currentaffairs.org/news/there-are-many-threats-to-humanity.-a-low-birth-rate-isnt-one-of-them): There Are Many Threats to Humanity. A Low Birth Rate Isn't One of Them</small>
+
+
+| 🔥: 30 \| 💬: [5](https://news.ycombinator.com/item?id=43745111) \| 🗓️ 2025-04-20
+
+
+<br />
+文章驳斥了关于**低生育率导致人类灭绝**的恐慌论调，指出当前全球人口仍在快速增长（每日净增约18万），且联合国预测增长将持续至2080年代。作者批评马斯克等将生育率下降与**物种大灭绝**混淆，强调真正的生态危机源于人类活动导致的**气候变化**。此外，低生育率恐慌背后隐藏着**民族主义**（如与中国的竞争）、**阶级压迫**（维持廉价劳动力）和**种族主义**（“大替换”阴谋论）等意识形态动机，而非对儿童福祉或物种存续的真诚关切。
+
+---
+
+## <a name="20"></a>20. 基督教始终属于穷人（2024） 
+<small>🔗 [jacobin.com](https://jacobin.com/2024/03/christianity-poor-debt-jesus-moses-wealth): Christianity Was Always for the Poor (2024)</small>
+
+
+| 🔥: 29 \| 💬: [21](https://news.ycombinator.com/item?id=43745088) \| 🗓️ 2025-04-20
+
+
+<br />
+本文探讨了**基督教早期教义**对财富的激进立场，指出《新约》明确将个人财富视为**本质之恶**，而非仅道德风险。耶稣要求信徒变卖财产、共享资源（如《使徒行传》中的**κοινωνία**实践），并警告富人难进天国。早期教父如巴西尔、金口约翰等延续此传统，谴责私有制为盗窃。然而，随着基督教制度化，这一激进立场逐渐淡化，仅存于少数修道运动。文章强调，现代主流基督教对财富的“常识性”解读背离了原始教义。
+
+---
+
+## <a name="21"></a>21. OAuth在MCP安全中的角色与局限 
+<small>🔗 [defensiblesystems.substack.com](https://defensiblesystems.substack.com/p/oauths-role-in-mcp-security): OAuth's Role in MCP Security</small>
+
+
+| 🔥: 28 \| 💬: [4](https://news.ycombinator.com/item?id=43744116) \| 🗓️ 2025-04-20
+
+
+<br />
+本文探讨了**OAuth**作为身份验证层在Anthropic推出的**Model Context Protocol (MCP)**中的潜在作用与风险。尽管OAuth广泛用于API安全，但其默认配置无法直接解决MCP集成中的关键问题，如**强身份验证**、防凭证盗用、设备识别及细粒度访问控制。作者指出，单纯依赖OAuth可能导致权限过度开放，而安全团队需额外配置和监控才能弥补协议固有缺陷。MCP的快速普及暴露了传统安全协议在新场景中的不足，需结合代理层和策略调优应对新型攻击面。
+
+---
+
+## <a name="22"></a>22. Tini：专为容器设计的极简初始化工具 
+<small>🔗 [github.com](https://github.com/krallin/tini): Tini: A tiny but valid `init` for containers</small>
+
+
+| 🔥: 27 \| 💬: [2](https://news.ycombinator.com/item?id=43744342) \| 🗓️ 2025-04-20
+
+
+<br />
+Tini 是一个超轻量级的 **init 系统**，专为容器环境设计。它能有效解决僵尸进程问题，确保信号（如 `SIGTERM`）正确传递，且无需修改现有容器配置即可使用。  
+
+主要功能包括：  
+- **僵尸进程回收**：防止系统因僵尸进程耗尽 PID。  
+- **信号转发**：确保默认信号处理逻辑生效。  
+- **透明兼容**：无需调整原有容器即可集成。  
+
+支持通过 Docker 的 `--init` 参数直接启用，或手动添加到容器的 `ENTRYPOINT`。提供静态编译版本及多平台（如 Alpine、Debian）安装包，体积小巧（约 10KB）。  
+
+适用于需要可靠进程管理的容器场景，尤其推荐 Java 等对信号敏感的应用。
+
+---
+
+## <a name="23"></a>23. Meta称Llama为“开源”或与欧盟AI法案有关 
+<small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/19/llama-eu-ai-act/): Maybe Meta's Llama claims to be open source because of the EU AI act</small>
+
+
+| 🔥: 26 \| 💬: [13](https://news.ycombinator.com/item?id=43743897) \| 🗓️ 2025-04-20
+
+
+<br />
+作者Simon Willison提出，**Meta**坚持将**Llama**称为“开源”模型，可能因为欧盟AI法案对“开源”有特殊豁免条款，且无需符合OSI定义。法案中，**开源许可**只需允许公开使用、修改和分发（如注明来源），但未列出具体许可证名称。Meta此前就曾因React的定制许可引发争议。这一分析通过Gemini 2.5 Flash快速解析法案文本完成，成本不足10美分。
 
 ---
