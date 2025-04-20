@@ -27,7 +27,7 @@ tags:
 <small>🔗 [bradmontague.substack.com](https://bradmontague.substack.com/p/librarians-are-dangerous): Librarians are dangerous</small>
 
 
-| 🔥🔥: 406 \| 💬: [407](https://news.ycombinator.com/item?id=43736791) \| 🗓️ 2025-04-19
+| 🔥🔥: 419 \| 💬: [420](https://news.ycombinator.com/item?id=43736791) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/PiLiDAR/PiLiDAR): Raspberry Pi Lidar Scanner</small>
 
 
-| 🔥🔥: 338 \| 💬: [93](https://news.ycombinator.com/item?id=43738561) \| 🗓️ 2025-04-19
+| 🔥🔥: 353 \| 💬: [100](https://news.ycombinator.com/item?id=43738561) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/04/android-phones-will-soon-reboot-themselves-after-sitting-unused-for-3-days/): Android phones will soon reboot themselves after sitting unused for three days</small>
 
 
-| 🔥🔥: 282 \| 💬: [226](https://news.ycombinator.com/item?id=43735902) \| 🗓️ 2025-04-19
+| 🔥🔥: 291 \| 💬: [236](https://news.ycombinator.com/item?id=43735902) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [jan.wildeboer.net](https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/): The Web Is Broken – Botnet Part 2</small>
 
 
-| 🔥🔥: 267 \| 💬: [132](https://news.ycombinator.com/item?id=43738603) \| 🗓️ 2025-04-19
+| 🔥🔥: 280 \| 💬: [142](https://news.ycombinator.com/item?id=43738603) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -77,7 +77,7 @@ tags:
 <small>🔗 [lllyasviel.github.io](https://lllyasviel.github.io/frame_pack_gitpage/): Packing Input Frame Context in Next-Frame Prediction Models for Video Generation</small>
 
 
-| 🔥🔥: 227 \| 💬: [26](https://news.ycombinator.com/item?id=43736193) \| 🗓️ 2025-04-19
+| 🔥🔥: 229 \| 💬: [26](https://news.ycombinator.com/item?id=43736193) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -101,7 +101,7 @@ tags:
 <small>🔗 [philwip.com](https://philwip.com/2025/04/14/galaxian-3-project-revival/): Restoring the Galaxian3 Theatre 6, 1992 six player arcade machine</small>
 
 
-| 🔥🔥: 199 \| 💬: [45](https://news.ycombinator.com/item?id=43735239) \| 🗓️ 2025-04-19
+| 🔥🔥: 203 \| 💬: [45](https://news.ycombinator.com/item?id=43735239) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -113,7 +113,7 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 <small>🔗 [bugzilla.mozilla.org](https://bugzilla.mozilla.org/show_bug.cgi?id=1961406): Ssl.com: DCV bypass and issue fake certificates for any MX hostname</small>
 
 
-| 🔥🔥: 153 \| 💬: [37](https://news.ycombinator.com/item?id=43738485) \| 🗓️ 2025-04-19
+| 🔥🔥: 159 \| 💬: [39](https://news.ycombinator.com/item?id=43738485) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -125,7 +125,7 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 <small>🔗 [addyo.substack.com](https://addyo.substack.com/p/vibe-coding-is-not-an-excuse-for): Vibe Coding is not an excuse for low-quality work</small>
 
 
-| 🔥🔥: 142 \| 💬: [123](https://news.ycombinator.com/item?id=43739037) \| 🗓️ 2025-04-19
+| 🔥🔥: 158 \| 💬: [123](https://news.ycombinator.com/item?id=43739037) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -137,7 +137,7 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 <small>🔗 [github.com](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge): Show HN: I built an AI that turns GitHub codebases into easy tutorials</small>
 
 
-| 🔥🔥: 114 \| 💬: [23](https://news.ycombinator.com/item?id=43739456) \| 🗓️ 2025-04-19
+| 🔥🔥: 147 \| 💬: [26](https://news.ycombinator.com/item?id=43739456) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -156,7 +156,7 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 <small>🔗 [alexarmbr.github.io](https://alexarmbr.github.io/2024/08/10/How-To-Write-A-Fast-Matrix-Multiplication-From-Scratch-With-Tensor-Cores.html): How to Write a Fast Matrix Multiplication from Scratch with Tensor Cores (2024)</small>
 
 
-| 🔥🔥: 108 \| 💬: [10](https://news.ycombinator.com/item?id=43736739) \| 🗓️ 2025-04-19
+| 🔥🔥: 114 \| 💬: [13](https://news.ycombinator.com/item?id=43736739) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -168,7 +168,7 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 <small>🔗 [lexaloffle.com](https://www.lexaloffle.com/bbs/?pid=145596): Demo "The Mind" by Haujobb and Sweet16</small>
 
 
-| 🔥: 100 \| 💬: [9](https://news.ycombinator.com/item?id=43735592) \| 🗓️ 2025-04-19
+| 🔥🔥: 101 \| 💬: [9](https://news.ycombinator.com/item?id=43735592) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -180,7 +180,7 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 <small>🔗 [qradiolink.org](https://qradiolink.org/open-source-DMR-transceiver-implementation.html): Open Source DMR Modem Implementation in SDR with GNU Radio and Codec2</small>
 
 
-| 🔥: 93 \| 💬: [13](https://news.ycombinator.com/item?id=43735945) \| 🗓️ 2025-04-19
+| 🔥: 94 \| 💬: [14](https://news.ycombinator.com/item?id=43735945) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -188,7 +188,19 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 
 ---
 
-## <a name="14"></a>14. 弗兰肯斯坦式的`__init__`方法 
+## <a name="14"></a>14. SSD断电长期存放测试：数据丢失与性能下降问题凸显 
+<small>🔗 [tomshardware.com](https://www.tomshardware.com/pc-components/storage/unpowered-ssd-endurance-investigation-finds-severe-data-loss-and-performance-issues-reminds-us-of-the-importance-of-refreshing-backups): Unpowered SSD endurance investigation finds data loss and performance issues</small>
+
+
+| 🔥: 91 \| 💬: [60](https://news.ycombinator.com/item?id=43739028) \| 🗓️ 2025-04-19
+
+
+<br />
+一项针对**SSD断电耐久性**的两年期测试发现，长期未通电的SSD会出现**数据丢失**和**性能下降**。测试使用四块128GB TLC SSD，其中两块写入量远超标称的60TB寿命。结果显示，重度使用的SSD两年后出现文件损坏且性能骤降，而轻度使用的SSD虽数据完整，但纠错码（ECC）异常增加，预示潜在风险。实验强调定期通电刷新备份的重要性，尤其对长期冷存储的SSD。
+
+---
+
+## <a name="15"></a>15. 弗兰肯斯坦式的`__init__`方法 
 <small>🔗 [ohadravid.github.io](https://ohadravid.github.io/posts/2025-04-19-frank/): Frankenstein's `__init__`</small>
 
 
@@ -200,71 +212,11 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 
 ---
 
-## <a name="15"></a>15. SSD断电长期存放测试：数据丢失与性能下降问题凸显 
-<small>🔗 [tomshardware.com](https://www.tomshardware.com/pc-components/storage/unpowered-ssd-endurance-investigation-finds-severe-data-loss-and-performance-issues-reminds-us-of-the-importance-of-refreshing-backups): Unpowered SSD endurance investigation finds data loss and performance issues</small>
-
-
-| 🔥: 87 \| 💬: [56](https://news.ycombinator.com/item?id=43739028) \| 🗓️ 2025-04-19
-
-
-<br />
-一项针对**SSD断电耐久性**的两年期测试发现，长期未通电的SSD会出现**数据丢失**和**性能下降**。测试使用四块128GB TLC SSD，其中两块写入量远超标称的60TB寿命。结果显示，重度使用的SSD两年后出现文件损坏且性能骤降，而轻度使用的SSD虽数据完整，但纠错码（ECC）异常增加，预示潜在风险。实验强调定期通电刷新备份的重要性，尤其对长期冷存储的SSD。
-
----
-
-## <a name="16"></a>16. 美国高校焦虑：外国学生遭拘留签证被吊销 
-<small>🔗 [bbc.com](https://www.bbc.com/news/articles/c20xq5nd8jeo): Anxiety at US colleges as foreign students are detained and visas revoked</small>
-
-
-| 🔥: 81 \| 💬: [9](https://news.ycombinator.com/item?id=43735089) \| 🗓️ 2025-04-19
-
-
-<br />
-近期，美国多所高校的外国学生因参与**亲巴勒斯坦抗议**遭便衣**无端拘留**或**签证吊销**，引发恐慌。据统计，超千名国际学生受影响，部分仅因轻微交通违规，但多数与抗议活动相关。政府称此举为打击“危害国家安全”行为，但学生和民权组织指控其侵犯**宪法权利**。高校师生陷入恐惧，有人不敢出门，甚至提前准备应对逮捕。事件还导致海外研究者拒绝返美，部分院校面临资金冻结威胁。
-
----
-
-## <a name="17"></a>17. arXiv：改变科学交流的开放学术仓库 
-<small>🔗 [wired.com](https://www.wired.com/story/inside-arxiv-most-transformative-code-science/): Inside ArXiv</small>
-
-
-| 🔥: 79 \| 💬: [12](https://news.ycombinator.com/item?id=43738478) \| 🗓️ 2025-04-19
-
-
-<br />
-35年前，物理学家**Paul Ginsparg**创建了**arXiv**，一个无需同行评审即可分享研究成果的开放平台。如今，它已成为数学、物理等领域科学家不可或缺的工具，每月新增2万篇论文，用户超500万。arXiv颠覆了传统学术出版模式，让研究得以快速传播（如新冠期间的突破性发现）。尽管面临审核压力和技术挑战，其**开放共享**的理念仍深刻影响了科学界，甚至孕育了AI领域的里程碑论文（如"transformers"）。Ginsparg将其比作"离家却总回来捣乱的孩子"，但正是这种"混乱"推动了科学民主化。
-
----
-
-## <a name="18"></a>18. "超强思考"是Claude Code的魔法指令 
-<small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/19/claude-code-best-practices/): Ultrathink is a Claude Code a magic word</small>
-
-
-| 🔥: 79 \| 💬: [28](https://news.ycombinator.com/item?id=43739997) \| 🗓️ 2025-04-19
-
-
-<br />
-Anthropic的Claude Code CLI工具文档揭示了一个有趣技巧：使用**"think"**系列指令可触发不同级别的思考模式，如"think"（4000 tokens）、"think hard"（1万 tokens）和**"ultrathink"**（31999 tokens）。通过逆向工程发现，这些关键词直接关联系统内部的思考预算分配，其中"ultrathink"能最大化计算资源。该功能专属于Claude Code工具，而非基础模型。
-
----
-
-## <a name="19"></a>19. 《汇编语言的艺术（2010）》 
-<small>🔗 [plantation-productions.com](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html): The Art of Assembly Language (2010)</small>
-
-
-| 🔥: 78 \| 💬: [11](https://news.ycombinator.com/item?id=43739285) \| 🗓️ 2025-04-19
-
-
-<br />
-本书全面介绍**x86汇编语言编程**，涵盖基础数据类型、内存管理、CPU架构及指令集设计。重点讲解**HLA（高级汇编器）**的安装与使用，包括控制结构、标准库函数及浮点运算。同时探讨计算机组成原理，如总线系统、缓存机制及并行处理技术，并深入数据表示（如Unicode、BCD码）和文件操作。适合希望掌握底层编程及硬件交互的开发者。
-
----
-
-## <a name="20"></a>20. 独特声波可缓解晕动症 
+## <a name="16"></a>16. 独特声波可缓解晕动症 
 <small>🔗 [nagoya-u.ac.jp](https://www.nagoya-u.ac.jp/researchinfo/result-en/2025/04/20250408-01.html): A unique sound alleviates motion sickness</small>
 
 
-| 🔥: 77 \| 💬: [31](https://news.ycombinator.com/item?id=43740021) \| 🗓️ 2025-04-19
+| 🔥: 88 \| 💬: [33](https://news.ycombinator.com/item?id=43740021) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -272,11 +224,47 @@ Anthropic的Claude Code CLI工具文档揭示了一个有趣技巧：使用**"th
 
 ---
 
-## <a name="21"></a>21. 澳大利亚沙漠照片揭示卫星污染问题 
+## <a name="17"></a>17. "超强思考"是Claude Code的魔法指令 
+<small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/19/claude-code-best-practices/): Ultrathink is a Claude Code a magic word</small>
+
+
+| 🔥: 86 \| 💬: [31](https://news.ycombinator.com/item?id=43739997) \| 🗓️ 2025-04-19
+
+
+<br />
+Anthropic的Claude Code CLI工具文档揭示了一个有趣技巧：使用**"think"**系列指令可触发不同级别的思考模式，如"think"（4000 tokens）、"think hard"（1万 tokens）和**"ultrathink"**（31999 tokens）。通过逆向工程发现，这些关键词直接关联系统内部的思考预算分配，其中"ultrathink"能最大化计算资源。该功能专属于Claude Code工具，而非基础模型。
+
+---
+
+## <a name="18"></a>18. 美国高校焦虑：外国学生遭拘留签证被吊销 
+<small>🔗 [bbc.com](https://www.bbc.com/news/articles/c20xq5nd8jeo): Anxiety at US colleges as foreign students are detained and visas revoked</small>
+
+
+| 🔥: 84 \| 💬: [9](https://news.ycombinator.com/item?id=43735089) \| 🗓️ 2025-04-19
+
+
+<br />
+近期，美国多所高校的外国学生因参与**亲巴勒斯坦抗议**遭便衣**无端拘留**或**签证吊销**，引发恐慌。据统计，超千名国际学生受影响，部分仅因轻微交通违规，但多数与抗议活动相关。政府称此举为打击“危害国家安全”行为，但学生和民权组织指控其侵犯**宪法权利**。高校师生陷入恐惧，有人不敢出门，甚至提前准备应对逮捕。事件还导致海外研究者拒绝返美，部分院校面临资金冻结威胁。
+
+---
+
+## <a name="19"></a>19. 别强迫孩子学数学 
+<small>🔗 [blog.avocados.ovh](https://blog.avocados.ovh/posts/how-to-force-your-kids-to-do-math/): Don't force your kids to do math</small>
+
+
+| 🔥: 83 \| 💬: [66](https://news.ycombinator.com/item?id=43738195) \| 🗓️ 2025-04-19
+
+
+<br />
+作者主张**不强迫孩子学数学**，而是通过游戏和日常生活激发兴趣。他将数学视为探索世界的工具，像品尝食物或欣赏音乐一样自然。**关键是通过重复和趣味活动**（如数楼梯、购物计算）让孩子主动发现数学的乐趣。他强调**保护孩子的好奇心**比技能更重要，并反思家长需警惕将自己的兴趣强加给孩子。最终，孩子对无限大的自发思考证明，真正的目标是培养终身学习的热情。
+
+---
+
+## <a name="20"></a>20. 澳大利亚沙漠照片揭示卫星污染问题 
 <small>🔗 [thisiscolossal.com](https://www.thisiscolossal.com/2025/04/a-stunning-image-of-the-australian-desert-illuminates-the-growing-problem-of-satellite-pollution/): An image of the Australian desert illuminates satellite pollution</small>
 
 
-| 🔥: 76 \| 💬: [48](https://news.ycombinator.com/item?id=43737469) \| 🗓️ 2025-04-19
+| 🔥: 82 \| 💬: [56](https://news.ycombinator.com/item?id=43737469) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -284,7 +272,55 @@ Anthropic的Claude Code CLI工具文档揭示了一个有趣技巧：使用**"th
 
 ---
 
-## <a name="22"></a>22. 恒星直接坍缩成黑洞，未发生超新星爆发（2017年） 
+## <a name="21"></a>21. 《汇编语言的艺术（2010）》 
+<small>🔗 [plantation-productions.com](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html): The Art of Assembly Language (2010)</small>
+
+
+| 🔥: 82 \| 💬: [12](https://news.ycombinator.com/item?id=43739285) \| 🗓️ 2025-04-19
+
+
+<br />
+本书全面介绍**x86汇编语言编程**，涵盖基础数据类型、内存管理、CPU架构及指令集设计。重点讲解**HLA（高级汇编器）**的安装与使用，包括控制结构、标准库函数及浮点运算。同时探讨计算机组成原理，如总线系统、缓存机制及并行处理技术，并深入数据表示（如Unicode、BCD码）和文件操作。适合希望掌握底层编程及硬件交互的开发者。
+
+---
+
+## <a name="22"></a>22. arXiv：改变科学交流的开放学术仓库 
+<small>🔗 [wired.com](https://www.wired.com/story/inside-arxiv-most-transformative-code-science/): Inside ArXiv</small>
+
+
+| 🔥: 81 \| 💬: [13](https://news.ycombinator.com/item?id=43738478) \| 🗓️ 2025-04-19
+
+
+<br />
+35年前，物理学家**Paul Ginsparg**创建了**arXiv**，一个无需同行评审即可分享研究成果的开放平台。如今，它已成为数学、物理等领域科学家不可或缺的工具，每月新增2万篇论文，用户超500万。arXiv颠覆了传统学术出版模式，让研究得以快速传播（如新冠期间的突破性发现）。尽管面临审核压力和技术挑战，其**开放共享**的理念仍深刻影响了科学界，甚至孕育了AI领域的里程碑论文（如"transformers"）。Ginsparg将其比作"离家却总回来捣乱的孩子"，但正是这种"混乱"推动了科学民主化。
+
+---
+
+## <a name="23"></a>23. 冰岛的选举制度解析 
+<small>🔗 [smarimccarthy.is](https://smarimccarthy.is/posts/2024-11-25-voting-system/): The Icelandic Voting System (2024)</small>
+
+
+| 🔥: 74 \| 💬: [63](https://news.ycombinator.com/item?id=43738675) \| 🗓️ 2025-04-19
+
+
+<br />
+冰岛采用**双比例分配制**，结合选区席位（CS）和调整席位（AS）确保选举公平性。选区席位通过**d'Hondt除数法**分配，而调整席位则在全国范围内按政党得票比例二次分配。但现行制度存在缺陷，如违反单调性准则（得票更多反而可能减少席位），且因法律表述复杂导致计算不精确。作者建议增加调整席位比例以减少投票权不平等，并推荐更优的选举方法如《多数判断》。文末附有选举模拟器的GitHub链接。
+
+---
+
+## <a name="24"></a>24. 电磁学：一种纯粹的几何理论 
+<small>🔗 [iopscience.iop.org](https://iopscience.iop.org/article/10.1088/1742-6596/2987/1/012001): Electromagnetism as a Purely Geometric Theory</small>
+
+
+| 🔥: 74 \| 💬: [24](https://news.ycombinator.com/item?id=43739529) \| 🗓️ 2025-04-19
+
+
+<br />
+该内容实际为Radware Bot Manager的验证页面，**要求用户确认人类身份**以保障网站安全。若无法完成验证，需通过提供的链接联系技术支持，并附上问题截图。**事件ID**为82c6d3f5-cnvj-4c65-9f47-82a5b4bc314c，用于追踪问题。核心目的是**防止自动化程序滥用**，确保访问者真实性。
+
+---
+
+## <a name="25"></a>25. 恒星直接坍缩成黑洞，未发生超新星爆发（2017年） 
 <small>🔗 [science.nasa.gov](https://science.nasa.gov/missions/hubble/collapsing-star-gives-birth-to-a-black-hole/): A star appears to have collapsed straight into a black hole without supernova (2017)</small>
 
 
@@ -293,47 +329,5 @@ Anthropic的Claude Code CLI工具文档揭示了一个有趣技巧：使用**"th
 
 <br />
 天文学家观测到一颗质量约为太阳25倍的**大质量恒星**在死亡时并未如预期般发生剧烈超新星爆炸，而是直接坍缩形成**黑洞**。这一现象被称为“**失败的超新星**”，由俄亥俄州立大学团队通过哈勃、斯皮策望远镜及大型双筒望远镜发现。研究表明，约10%-30%的大质量恒星可能以这种“静默”方式形成黑洞，这解释了为何观测到的超新星数量少于理论预测。该发现对理解引力波探测到的超大质量黑洞起源具有重要意义。
-
----
-
-## <a name="23"></a>23. Neurite：融合分形与思维图谱的AI协作平台 
-<small>🔗 [github.com](https://github.com/satellitecomponent/Neurite): Neurite</small>
-
-
-| 🔥: 72 \| 💬: [12](https://news.ycombinator.com/item?id=43735693) \| 🗓️ 2025-04-19
-
-
-<br />
-Neurite是一个**开源知识管理工具**，将**分形几何**与思维导图结合，打造动态交互式工作空间。支持文本、图片、AI代理等多媒体节点，通过**实时分形导航**（如曼德勃罗集）实现非线性信息组织。核心功能包括**多AI代理协作**、双向同步笔记、本地/云端模型集成，以及实验性神经API。适用于研究、创作与开发，提供超越传统界面的沉浸式思维探索体验。  
-
-（注：实际字符数约180，符合要求）
-
----
-
-## <a name="24"></a>24. 反对“透明”的陷阱 
-<small>🔗 [pluralistic.net](https://pluralistic.net/2025/04/19/gotcha/#known-to-the-state-of-california-to-cause-cancer): Against Transparency</small>
-
-
-| 🔥: 70 \| 💬: [15](https://news.ycombinator.com/item?id=43736718) \| 🗓️ 2025-04-19
-
-
-<br />
-文章批评了美国加州**第65号提案**的无效性——泛滥的致癌物警告因过度普遍而失去警示作用，沦为“背景噪音”。作者指出，真正的解决方案应是**强制企业减少致癌物使用**，而非仅提供信息。  
-
-同理，**隐私政策**也形同虚设，无人阅读却成为企业侵犯隐私的合法借口。作者呼吁用**隐私法律**替代空洞的条款，并举例斯坦福学者提出的“默认规则”方案，主张简化合同条款。  
-
-最后，文章抨击了以马斯克为代表的富豪阶层对**消费者金融保护局（CFPB）**的敌视，强调监管机构对遏制欺诈的关键作用，揭露“买家自负”实为剥削的遮羞布。
-
----
-
-## <a name="25"></a>25. 冰岛的选举制度解析 
-<small>🔗 [smarimccarthy.is](https://smarimccarthy.is/posts/2024-11-25-voting-system/): The Icelandic Voting System (2024)</small>
-
-
-| 🔥: 69 \| 💬: [58](https://news.ycombinator.com/item?id=43738675) \| 🗓️ 2025-04-19
-
-
-<br />
-冰岛采用**双比例分配制**，结合选区席位（CS）和调整席位（AS）确保选举公平性。选区席位通过**d'Hondt除数法**分配，而调整席位则在全国范围内按政党得票比例二次分配。但现行制度存在缺陷，如违反单调性准则（得票更多反而可能减少席位），且因法律表述复杂导致计算不精确。作者建议增加调整席位比例以减少投票权不平等，并推荐更优的选举方法如《多数判断》。文末附有选举模拟器的GitHub链接。
 
 ---
