@@ -11,8 +11,8 @@ tags:
 1. 图书管理员很危险；
 1. 树莓派激光雷达扫描仪项目概览；
 1. 安卓手机闲置三天后将自动重启以增强安全性；
-1. 视频生成模型中下一帧预测的输入帧上下文打包技术；
 1. 网络已崩坏：揭秘AI公司背后的僵尸网络；
+1. 视频生成模型中下一帧预测的输入帧上下文打包技术；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [bradmontague.substack.com](https://bradmontague.substack.com/p/librarians-are-dangerous): Librarians are dangerous</small>
 
 
-| 🔥🔥: 352 \| 💬: [348](https://news.ycombinator.com/item?id=43736791) \| 🗓️ 2025-04-19
+| 🔥🔥: 368 \| 💬: [359](https://news.ycombinator.com/item?id=43736791) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/PiLiDAR/PiLiDAR): Raspberry Pi Lidar Scanner</small>
 
 
-| 🔥🔥: 263 \| 💬: [67](https://news.ycombinator.com/item?id=43738561) \| 🗓️ 2025-04-19
+| 🔥🔥: 294 \| 💬: [76](https://news.ycombinator.com/item?id=43738561) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/04/android-phones-will-soon-reboot-themselves-after-sitting-unused-for-3-days/): Android phones will soon reboot themselves after sitting unused for three days</small>
 
 
-| 🔥🔥: 257 \| 💬: [205](https://news.ycombinator.com/item?id=43735902) \| 🗓️ 2025-04-19
+| 🔥🔥: 268 \| 💬: [215](https://news.ycombinator.com/item?id=43735902) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -59,23 +59,11 @@ tags:
 
 ---
 
-## <a name="4"></a>4. 视频生成模型中下一帧预测的输入帧上下文打包技术 
-<small>🔗 [lllyasviel.github.io](https://lllyasviel.github.io/frame_pack_gitpage/): Packing Input Frame Context in Next-Frame Prediction Models for Video Generation</small>
-
-
-| 🔥🔥: 221 \| 💬: [26](https://news.ycombinator.com/item?id=43736193) \| 🗓️ 2025-04-19
-
-
-<br />
-该研究实现了**13B参数模型**在6GB笔记本GPU内存下以30fps生成数千帧视频，并支持在单台8xA100/H100节点上以**批量大小64**进行微调。个人RTX 4090生成速度达**2.5秒/帧**（未优化）或1.5秒/帧（teacache优化），无需时间步蒸馏。虽为视频扩散模型，体验却接近图像扩散。
-
----
-
-## <a name="5"></a>5. 网络已崩坏：揭秘AI公司背后的僵尸网络 
+## <a name="4"></a>4. 网络已崩坏：揭秘AI公司背后的僵尸网络 
 <small>🔗 [jan.wildeboer.net](https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/): The Web Is Broken – Botnet Part 2</small>
 
 
-| 🔥🔥: 207 \| 💬: [94](https://news.ycombinator.com/item?id=43738603) \| 🗓️ 2025-04-19
+| 🔥🔥: 233 \| 💬: [111](https://news.ycombinator.com/item?id=43738603) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -85,11 +73,23 @@ tags:
 
 ---
 
+## <a name="5"></a>5. 视频生成模型中下一帧预测的输入帧上下文打包技术 
+<small>🔗 [lllyasviel.github.io](https://lllyasviel.github.io/frame_pack_gitpage/): Packing Input Frame Context in Next-Frame Prediction Models for Video Generation</small>
+
+
+| 🔥🔥: 225 \| 💬: [26](https://news.ycombinator.com/item?id=43736193) \| 🗓️ 2025-04-19
+
+
+<br />
+该研究实现了**13B参数模型**在6GB笔记本GPU内存下以30fps生成数千帧视频，并支持在单台8xA100/H100节点上以**批量大小64**进行微调。个人RTX 4090生成速度达**2.5秒/帧**（未优化）或1.5秒/帧（teacache优化），无需时间步蒸馏。虽为视频扩散模型，体验却接近图像扩散。
+
+---
+
 ## <a name="6"></a>6. 2023英国方言地图详解 
 <small>🔗 [starkeycomics.com](https://starkeycomics.com/2023/11/07/map-of-british-english-dialects/): A Map of British Dialects (2023)</small>
 
 
-| 🔥🔥: 196 \| 💬: [149](https://news.ycombinator.com/item?id=43734953) \| 🗓️ 2025-04-19
+| 🔥🔥: 199 \| 💬: [149](https://news.ycombinator.com/item?id=43734953) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -101,7 +101,7 @@ tags:
 <small>🔗 [philwip.com](https://philwip.com/2025/04/14/galaxian-3-project-revival/): Restoring the Galaxian3 Theatre 6, 1992 six player arcade machine</small>
 
 
-| 🔥🔥: 187 \| 💬: [41](https://news.ycombinator.com/item?id=43735239) \| 🗓️ 2025-04-19
+| 🔥🔥: 193 \| 💬: [42](https://news.ycombinator.com/item?id=43735239) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -113,7 +113,7 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 <small>🔗 [bugzilla.mozilla.org](https://bugzilla.mozilla.org/show_bug.cgi?id=1961406): Ssl.com: DCV bypass and issue fake certificates for any MX hostname</small>
 
 
-| 🔥🔥: 134 \| 💬: [35](https://news.ycombinator.com/item?id=43738485) \| 🗓️ 2025-04-19
+| 🔥🔥: 143 \| 💬: [35](https://news.ycombinator.com/item?id=43738485) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -125,7 +125,7 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 <small>🔗 [addyo.substack.com](https://addyo.substack.com/p/vibe-coding-is-not-an-excuse-for): Vibe Coding is not an excuse for low-quality work</small>
 
 
-| 🔥🔥: 110 \| 💬: [85](https://news.ycombinator.com/item?id=43739037) \| 🗓️ 2025-04-19
+| 🔥🔥: 120 \| 💬: [101](https://news.ycombinator.com/item?id=43739037) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -133,23 +133,11 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 
 ---
 
-## <a name="10"></a>10. Haujobb与Sweet16联合发布新Demo《The Mind》 
-<small>🔗 [lexaloffle.com](https://www.lexaloffle.com/bbs/?pid=145596): Demo "The Mind" by Haujobb and Sweet16</small>
-
-
-| 🔥: 96 \| 💬: [9](https://news.ycombinator.com/item?id=43735592) \| 🗓️ 2025-04-19
-
-
-<br />
-在2024年Revision demoparty的**“幻想主机”竞赛**中，Haujobb与Sweet16展示了基于Pico-8平台的Demo《The Mind》。目前仅支持在线观看（推荐使用Firefox），**完整源代码**已上传至Pouet。Demo支持通过Pico8 Edu加载（指令：`load #themind1`），并已优化为可直接在BBS运行。此外，团队还分享了**音乐制作思路**及部分特效的独立版本（如《Interference》）。Demo融合了**3D多边形渲染**和像素艺术，创作遵循CC4-BY-NC-SA协议。
-
----
-
-## <a name="11"></a>11. 如何在2024年从零开始用Tensor Core实现快速矩阵乘法 
+## <a name="10"></a>10. 如何在2024年从零开始用Tensor Core实现快速矩阵乘法 
 <small>🔗 [alexarmbr.github.io](https://alexarmbr.github.io/2024/08/10/How-To-Write-A-Fast-Matrix-Multiplication-From-Scratch-With-Tensor-Cores.html): How to Write a Fast Matrix Multiplication from Scratch with Tensor Cores (2024)</small>
 
 
-| 🔥: 93 \| 💬: [7](https://news.ycombinator.com/item?id=43736739) \| 🗓️ 2025-04-19
+| 🔥: 100 \| 💬: [9](https://news.ycombinator.com/item?id=43736739) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -157,11 +145,23 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 
 ---
 
+## <a name="11"></a>11. Haujobb与Sweet16联合发布新Demo《The Mind》 
+<small>🔗 [lexaloffle.com](https://www.lexaloffle.com/bbs/?pid=145596): Demo "The Mind" by Haujobb and Sweet16</small>
+
+
+| 🔥: 98 \| 💬: [9](https://news.ycombinator.com/item?id=43735592) \| 🗓️ 2025-04-19
+
+
+<br />
+在2024年Revision demoparty的**“幻想主机”竞赛**中，Haujobb与Sweet16展示了基于Pico-8平台的Demo《The Mind》。目前仅支持在线观看（推荐使用Firefox），**完整源代码**已上传至Pouet。Demo支持通过Pico8 Edu加载（指令：`load #themind1`），并已优化为可直接在BBS运行。此外，团队还分享了**音乐制作思路**及部分特效的独立版本（如《Interference》）。Demo融合了**3D多边形渲染**和像素艺术，创作遵循CC4-BY-NC-SA协议。
+
+---
+
 ## <a name="12"></a>12. 开源SDR实现：基于GNU Radio与Codec2的DMR调制解调器 
 <small>🔗 [qradiolink.org](https://qradiolink.org/open-source-DMR-transceiver-implementation.html): Open Source DMR Modem Implementation in SDR with GNU Radio and Codec2</small>
 
 
-| 🔥: 92 \| 💬: [11](https://news.ycombinator.com/item?id=43735945) \| 🗓️ 2025-04-19
+| 🔥: 93 \| 💬: [13](https://news.ycombinator.com/item?id=43735945) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -173,7 +173,7 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 <small>🔗 [ohadravid.github.io](https://ohadravid.github.io/posts/2025-04-19-frank/): Frankenstein's `__init__`</small>
 
 
-| 🔥: 86 \| 💬: [66](https://news.ycombinator.com/item?id=43735724) \| 🗓️ 2025-04-19
+| 🔥: 88 \| 💬: [66](https://news.ycombinator.com/item?id=43735724) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -181,11 +181,23 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 
 ---
 
-## <a name="14"></a>14. 美国高校焦虑：外国学生遭拘留签证被吊销 
+## <a name="14"></a>14. SSD断电长期存放测试：数据丢失与性能下降问题凸显 
+<small>🔗 [tomshardware.com](https://www.tomshardware.com/pc-components/storage/unpowered-ssd-endurance-investigation-finds-severe-data-loss-and-performance-issues-reminds-us-of-the-importance-of-refreshing-backups): Unpowered SSD endurance investigation finds data loss and performance issues</small>
+
+
+| 🔥: 81 \| 💬: [42](https://news.ycombinator.com/item?id=43739028) \| 🗓️ 2025-04-19
+
+
+<br />
+一项针对**SSD断电耐久性**的两年期测试发现，长期未通电的SSD会出现**数据丢失**和**性能下降**。测试使用四块128GB TLC SSD，其中两块写入量远超标称的60TB寿命。结果显示，重度使用的SSD两年后出现文件损坏且性能骤降，而轻度使用的SSD虽数据完整，但纠错码（ECC）异常增加，预示潜在风险。实验强调定期通电刷新备份的重要性，尤其对长期冷存储的SSD。
+
+---
+
+## <a name="15"></a>15. 美国高校焦虑：外国学生遭拘留签证被吊销 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c20xq5nd8jeo): Anxiety at US colleges as foreign students are detained and visas revoked</small>
 
 
-| 🔥: 79 \| 💬: [9](https://news.ycombinator.com/item?id=43735089) \| 🗓️ 2025-04-19
+| 🔥: 80 \| 💬: [9](https://news.ycombinator.com/item?id=43735089) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -193,11 +205,11 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 
 ---
 
-## <a name="15"></a>15. arXiv：改变科学交流的开放学术仓库 
+## <a name="16"></a>16. arXiv：改变科学交流的开放学术仓库 
 <small>🔗 [wired.com](https://www.wired.com/story/inside-arxiv-most-transformative-code-science/): Inside ArXiv</small>
 
 
-| 🔥: 75 \| 💬: [11](https://news.ycombinator.com/item?id=43738478) \| 🗓️ 2025-04-19
+| 🔥: 76 \| 💬: [11](https://news.ycombinator.com/item?id=43738478) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -205,7 +217,19 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 
 ---
 
-## <a name="16"></a>16. 恒星直接坍缩成黑洞，未发生超新星爆发（2017年） 
+## <a name="17"></a>17. "超强思考"是Claude Code的魔法指令 
+<small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/19/claude-code-best-practices/): Ultrathink is a Claude Code a magic word</small>
+
+
+| 🔥: 73 \| 💬: [25](https://news.ycombinator.com/item?id=43739997) \| 🗓️ 2025-04-19
+
+
+<br />
+Anthropic的Claude Code CLI工具文档揭示了一个有趣技巧：使用**"think"**系列指令可触发不同级别的思考模式，如"think"（4000 tokens）、"think hard"（1万 tokens）和**"ultrathink"**（31999 tokens）。通过逆向工程发现，这些关键词直接关联系统内部的思考预算分配，其中"ultrathink"能最大化计算资源。该功能专属于Claude Code工具，而非基础模型。
+
+---
+
+## <a name="18"></a>18. 恒星直接坍缩成黑洞，未发生超新星爆发（2017年） 
 <small>🔗 [science.nasa.gov](https://science.nasa.gov/missions/hubble/collapsing-star-gives-birth-to-a-black-hole/): A star appears to have collapsed straight into a black hole without supernova (2017)</small>
 
 
@@ -217,19 +241,7 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 
 ---
 
-## <a name="17"></a>17. SSD断电长期存放测试：数据丢失与性能下降问题凸显 
-<small>🔗 [tomshardware.com](https://www.tomshardware.com/pc-components/storage/unpowered-ssd-endurance-investigation-finds-severe-data-loss-and-performance-issues-reminds-us-of-the-importance-of-refreshing-backups): Unpowered SSD endurance investigation finds data loss and performance issues</small>
-
-
-| 🔥: 72 \| 💬: [36](https://news.ycombinator.com/item?id=43739028) \| 🗓️ 2025-04-19
-
-
-<br />
-一项针对**SSD断电耐久性**的两年期测试发现，长期未通电的SSD会出现**数据丢失**和**性能下降**。测试使用四块128GB TLC SSD，其中两块写入量远超标称的60TB寿命。结果显示，重度使用的SSD两年后出现文件损坏且性能骤降，而轻度使用的SSD虽数据完整，但纠错码（ECC）异常增加，预示潜在风险。实验强调定期通电刷新备份的重要性，尤其对长期冷存储的SSD。
-
----
-
-## <a name="18"></a>18. Neurite：融合分形与思维图谱的AI协作平台 
+## <a name="19"></a>19. Neurite：融合分形与思维图谱的AI协作平台 
 <small>🔗 [github.com](https://github.com/satellitecomponent/Neurite): Neurite</small>
 
 
@@ -243,11 +255,23 @@ Neurite是一个**开源知识管理工具**，将**分形几何**与思维导�
 
 ---
 
-## <a name="19"></a>19. 反对“透明”的陷阱 
+## <a name="20"></a>20. 《汇编语言的艺术（2010）》 
+<small>🔗 [plantation-productions.com](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html): The Art of Assembly Language (2010)</small>
+
+
+| 🔥: 69 \| 💬: [8](https://news.ycombinator.com/item?id=43739285) \| 🗓️ 2025-04-19
+
+
+<br />
+本书全面介绍**x86汇编语言编程**，涵盖基础数据类型、内存管理、CPU架构及指令集设计。重点讲解**HLA（高级汇编器）**的安装与使用，包括控制结构、标准库函数及浮点运算。同时探讨计算机组成原理，如总线系统、缓存机制及并行处理技术，并深入数据表示（如Unicode、BCD码）和文件操作。适合希望掌握底层编程及硬件交互的开发者。
+
+---
+
+## <a name="21"></a>21. 反对“透明”的陷阱 
 <small>🔗 [pluralistic.net](https://pluralistic.net/2025/04/19/gotcha/#known-to-the-state-of-california-to-cause-cancer): Against Transparency</small>
 
 
-| 🔥: 66 \| 💬: [15](https://news.ycombinator.com/item?id=43736718) \| 🗓️ 2025-04-19
+| 🔥: 67 \| 💬: [15](https://news.ycombinator.com/item?id=43736718) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -259,35 +283,11 @@ Neurite是一个**开源知识管理工具**，将**分形几何**与思维导�
 
 ---
 
-## <a name="20"></a>20. 冰岛的选举制度解析 
-<small>🔗 [smarimccarthy.is](https://smarimccarthy.is/posts/2024-11-25-voting-system/): The Icelandic Voting System</small>
-
-
-| 🔥: 62 \| 💬: [50](https://news.ycombinator.com/item?id=43738675) \| 🗓️ 2025-04-19
-
-
-<br />
-冰岛采用**双比例分配制**，结合选区席位（CS）和调整席位（AS）确保选举公平性。选区席位通过**d'Hondt除数法**分配，而调整席位则在全国范围内按政党得票比例二次分配。但现行制度存在缺陷，如违反单调性准则（得票更多反而可能减少席位），且因法律表述复杂导致计算不精确。作者建议增加调整席位比例以减少投票权不平等，并推荐更优的选举方法如《多数判断》。文末附有选举模拟器的GitHub链接。
-
----
-
-## <a name="21"></a>21. 大语言模型系统发育关系推断与性能预测新方法 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2404.04671): Inferring the Phylogeny of Large Language Models</small>
-
-
-| 🔥: 61 \| 💬: [5](https://news.ycombinator.com/item?id=43736366) \| 🗓️ 2025-04-19
-
-
-<br />
-本文提出**PhyloLM**方法，将**系统发育算法**应用于大语言模型（LLMs），通过分析模型输出的相似性构建**距离指标**，进而生成树状图。该方法成功揭示了111个开源和45个闭源模型间的关联，且该距离能有效预测模型在基准测试中的表现。研究为快速评估LLM的演化关系和能力提供了新工具，尤其适用于训练信息不透明的场景。
-
----
-
 ## <a name="22"></a>22. 微软Copilot频现“不请自来”，AI越界问题引争议 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/18/microsoft_copilot_not_wanted/): Microsoft Copilot shows AI increasingly appears like an unwanted party guest</small>
 
 
-| 🔥: 60 \| 💬: [14](https://news.ycombinator.com/item?id=43736578) \| 🗓️ 2025-04-19
+| 🔥: 65 \| 💬: [17](https://news.ycombinator.com/item?id=43736578) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -295,38 +295,38 @@ Neurite是一个**开源知识管理工具**，将**分形几何**与思维导�
 
 ---
 
-## <a name="23"></a>23. 澳大利亚沙漠照片揭示卫星污染问题 
+## <a name="23"></a>23. 冰岛的选举制度解析 
+<small>🔗 [smarimccarthy.is](https://smarimccarthy.is/posts/2024-11-25-voting-system/): The Icelandic Voting System</small>
+
+
+| 🔥: 65 \| 💬: [55](https://news.ycombinator.com/item?id=43738675) \| 🗓️ 2025-04-19
+
+
+<br />
+冰岛采用**双比例分配制**，结合选区席位（CS）和调整席位（AS）确保选举公平性。选区席位通过**d'Hondt除数法**分配，而调整席位则在全国范围内按政党得票比例二次分配。但现行制度存在缺陷，如违反单调性准则（得票更多反而可能减少席位），且因法律表述复杂导致计算不精确。作者建议增加调整席位比例以减少投票权不平等，并推荐更优的选举方法如《多数判断》。文末附有选举模拟器的GitHub链接。
+
+---
+
+## <a name="24"></a>24. 大语言模型系统发育关系推断与性能预测新方法 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2404.04671): Inferring the Phylogeny of Large Language Models</small>
+
+
+| 🔥: 62 \| 💬: [5](https://news.ycombinator.com/item?id=43736366) \| 🗓️ 2025-04-19
+
+
+<br />
+本文提出**PhyloLM**方法，将**系统发育算法**应用于大语言模型（LLMs），通过分析模型输出的相似性构建**距离指标**，进而生成树状图。该方法成功揭示了111个开源和45个闭源模型间的关联，且该距离能有效预测模型在基准测试中的表现。研究为快速评估LLM的演化关系和能力提供了新工具，尤其适用于训练信息不透明的场景。
+
+---
+
+## <a name="25"></a>25. 澳大利亚沙漠照片揭示卫星污染问题 
 <small>🔗 [thisiscolossal.com](https://www.thisiscolossal.com/2025/04/a-stunning-image-of-the-australian-desert-illuminates-the-growing-problem-of-satellite-pollution/): An Image of the Australian Desert Illuminates Satellite Pollution</small>
 
 
-| 🔥: 57 \| 💬: [41](https://news.ycombinator.com/item?id=43737469) \| 🗓️ 2025-04-19
+| 🔥: 62 \| 💬: [41](https://news.ycombinator.com/item?id=43737469) \| 🗓️ 2025-04-19
 
 
 <br />
 2021年，摄影师Joshua Rozells在澳大利亚西部的**尖峰石阵沙漠**拍摄星轨时，意外发现**卫星轨迹**几乎出现在每张照片中。他将343张照片合成一张图像，直观展现了日益严重的**卫星光污染**问题。自SpaceX 2019年发射首批60颗星链卫星后，近地轨道卫星已超1万颗，且未来计划发射数万颗。天文学家警告，缺乏监管的卫星激增将加剧光污染，影响天文观测。国际天文联合会等组织正呼吁加强对夜空保护。
-
----
-
-## <a name="24"></a>24. 《汇编语言的艺术（2010）》 
-<small>🔗 [plantation-productions.com](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html): The Art of Assembly Language (2010)</small>
-
-
-| 🔥: 57 \| 💬: [7](https://news.ycombinator.com/item?id=43739285) \| 🗓️ 2025-04-19
-
-
-<br />
-本书全面介绍**x86汇编语言编程**，涵盖基础数据类型、内存管理、CPU架构及指令集设计。重点讲解**HLA（高级汇编器）**的安装与使用，包括控制结构、标准库函数及浮点运算。同时探讨计算机组成原理，如总线系统、缓存机制及并行处理技术，并深入数据表示（如Unicode、BCD码）和文件操作。适合希望掌握底层编程及硬件交互的开发者。
-
----
-
-## <a name="25"></a>25. 中国正成为美国自我破坏的最大赢家 
-<small>🔗 [minnalander.substack.com](https://minnalander.substack.com/p/china-can-have-it-all): China Can Have It All – China is currently winner of America's self-sabotage</small>
-
-
-| 🔥: 54 \| 💬: [30](https://news.ycombinator.com/item?id=43735870) \| 🗓️ 2025-04-19
-
-
-<br />
-当前美国在特朗普政策下的自我孤立行为（如贸易战、疏远盟友）正为**中国**创造战略优势。**日本、韩国**已恢复与华合作谈判，欧洲多国（如德国、法国、西班牙）也倾向对华示好，寻求替代美国的贸易伙伴。同时，**俄罗斯**因战争陷入对华依赖，成为中国的"附庸国"。而美国内部分裂使其难以有效应对中国崛起，欧洲则可能借机强化自主性。分析认为，中国正巧妙利用国际格局变动，将欧亚国家纳入自身战略轨道。
 
 ---
