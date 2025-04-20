@@ -27,7 +27,7 @@ tags:
 <small>🔗 [bradmontague.substack.com](https://bradmontague.substack.com/p/librarians-are-dangerous): Librarians are dangerous</small>
 
 
-| 🔥🔥: 433 \| 💬: [431](https://news.ycombinator.com/item?id=43736791) \| 🗓️ 2025-04-19
+| 🔥🔥: 453 \| 💬: [440](https://news.ycombinator.com/item?id=43736791) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/PiLiDAR/PiLiDAR): Raspberry Pi Lidar Scanner</small>
 
 
-| 🔥🔥: 367 \| 💬: [108](https://news.ycombinator.com/item?id=43738561) \| 🗓️ 2025-04-19
+| 🔥🔥: 382 \| 💬: [110](https://news.ycombinator.com/item?id=43738561) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [jan.wildeboer.net](https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/): The Web Is Broken – Botnet Part 2</small>
 
 
-| 🔥🔥: 298 \| 💬: [154](https://news.ycombinator.com/item?id=43738603) \| 🗓️ 2025-04-19
+| 🔥🔥: 311 \| 💬: [177](https://news.ycombinator.com/item?id=43738603) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -65,7 +65,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/04/android-phones-will-soon-reboot-themselves-after-sitting-unused-for-3-days/): Android phones will soon reboot themselves after sitting unused for three days</small>
 
 
-| 🔥🔥: 297 \| 💬: [241](https://news.ycombinator.com/item?id=43735902) \| 🗓️ 2025-04-19
+| 🔥🔥: 307 \| 💬: [242](https://news.ycombinator.com/item?id=43735902) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -77,7 +77,7 @@ tags:
 <small>🔗 [lllyasviel.github.io](https://lllyasviel.github.io/frame_pack_gitpage/): Packing Input Frame Context in Next-Frame Prediction Models for Video Generation</small>
 
 
-| 🔥🔥: 230 \| 💬: [26](https://news.ycombinator.com/item?id=43736193) \| 🗓️ 2025-04-19
+| 🔥🔥: 233 \| 💬: [26](https://news.ycombinator.com/item?id=43736193) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -85,35 +85,11 @@ tags:
 
 ---
 
-## <a name="6"></a>6. 2023英国方言地图详解 
-<small>🔗 [starkeycomics.com](https://starkeycomics.com/2023/11/07/map-of-british-english-dialects/): A Map of British Dialects (2023)</small>
-
-
-| 🔥🔥: 203 \| 💬: [155](https://news.ycombinator.com/item?id=43734953) \| 🗓️ 2025-04-19
-
-
-<br />
-这份耗时数年制作的**英国方言地图**试图展现英国英语的丰富多样性，但作者坦言其永远无法完全准确。**方言边界模糊**，常随地理、文化渐变，而非硬性划分。例如坎布里亚郡南北口音差异显著，但中间地带实为连续过渡。地图采用渐变色和虚线表示这种流动性，但受限于二维呈现。**非地域性方言**（如伦敦多元方言）未被详细标注，而苏格兰语等独立语言也未纳入。作者强调，该地图旨在致敬英国方言的复杂性，而非提供绝对答案。
-
----
-
-## <a name="7"></a>7. 修复1992年六玩家街机《Galaxian3 Theatre 6》 
-<small>🔗 [philwip.com](https://philwip.com/2025/04/14/galaxian-3-project-revival/): Restoring the Galaxian3 Theatre 6, 1992 six player arcade machine</small>
-
-
-| 🔥🔥: 203 \| 💬: [45](https://news.ycombinator.com/item?id=43735239) \| 🗓️ 2025-04-19
-
-
-<br />
-Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后缩改为**六人版本**GT-6。2024年，团队在Fun World街机发现仅存四台GT-6之一，但仅1、2号玩家可用且投影模糊。初步检测发现**PSN PCB故障**，并成功用专业设备保存了**激光碟片数据**和ROM。2025年计划二次修复，重点解决硬件通信问题与CRT投影仪"真菌"污染。
-
----
-
-## <a name="8"></a>8. 用AI将GitHub代码库转化为易懂教程的工具 
+## <a name="6"></a>6. 用AI将GitHub代码库转化为易懂教程的工具 
 <small>🔗 [github.com](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge): Show HN: I built an AI that turns GitHub codebases into easy tutorials</small>
 
 
-| 🔥🔥: 171 \| 💬: [33](https://news.ycombinator.com/item?id=43739456) \| 🗓️ 2025-04-19
+| 🔥🔥: 207 \| 💬: [38](https://news.ycombinator.com/item?id=43739456) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -128,23 +104,35 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 
 ---
 
-## <a name="9"></a>9. SSL.com存在漏洞：可绕过DCV验证并伪造任意MX主机名证书 
-<small>🔗 [bugzilla.mozilla.org](https://bugzilla.mozilla.org/show_bug.cgi?id=1961406): Ssl.com: DCV bypass and issue fake certificates for any MX hostname</small>
+## <a name="7"></a>7. 2023英国方言地图详解 
+<small>🔗 [starkeycomics.com](https://starkeycomics.com/2023/11/07/map-of-british-english-dialects/): A Map of British Dialects (2023)</small>
 
 
-| 🔥🔥: 167 \| 💬: [39](https://news.ycombinator.com/item?id=43738485) \| 🗓️ 2025-04-19
+| 🔥🔥: 205 \| 💬: [155](https://news.ycombinator.com/item?id=43734953) \| 🗓️ 2025-04-19
 
 
 <br />
-该漏洞报告指出，SSL.com在使用BR 3.2.2.4.14 DCV方法（通过DNS TXT联系邮箱验证域名）时，**错误地将验证者邮箱域名标记为已验证**。攻击者可通过伪造TXT记录，利用第三方邮箱（如aliyun.com）获取目标域名的证书。例如，攻击者未拥有aliyun.com的管理权限，却成功获取了该域名的合法证书。SSL.com已**紧急禁用该验证方法**，并承诺在2025-04-21前提交初步报告。此漏洞可能导致**任意MX主机名的证书被伪造**，威胁网络安全。
+这份耗时数年制作的**英国方言地图**试图展现英国英语的丰富多样性，但作者坦言其永远无法完全准确。**方言边界模糊**，常随地理、文化渐变，而非硬性划分。例如坎布里亚郡南北口音差异显著，但中间地带实为连续过渡。地图采用渐变色和虚线表示这种流动性，但受限于二维呈现。**非地域性方言**（如伦敦多元方言）未被详细标注，而苏格兰语等独立语言也未纳入。作者强调，该地图旨在致敬英国方言的复杂性，而非提供绝对答案。
 
 ---
 
-## <a name="10"></a>10. AI辅助编程不是低质量代码的借口 
+## <a name="8"></a>8. 修复1992年六玩家街机《Galaxian3 Theatre 6》 
+<small>🔗 [philwip.com](https://philwip.com/2025/04/14/galaxian-3-project-revival/): Restoring the Galaxian3 Theatre 6, 1992 six player arcade machine</small>
+
+
+| 🔥🔥: 204 \| 💬: [45](https://news.ycombinator.com/item?id=43735239) \| 🗓️ 2025-04-19
+
+
+<br />
+Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后缩改为**六人版本**GT-6。2024年，团队在Fun World街机发现仅存四台GT-6之一，但仅1、2号玩家可用且投影模糊。初步检测发现**PSN PCB故障**，并成功用专业设备保存了**激光碟片数据**和ROM。2025年计划二次修复，重点解决硬件通信问题与CRT投影仪"真菌"污染。
+
+---
+
+## <a name="9"></a>9. AI辅助编程不是低质量代码的借口 
 <small>🔗 [addyo.substack.com](https://addyo.substack.com/p/vibe-coding-is-not-an-excuse-for): Vibe Coding is not an excuse for low-quality work</small>
 
 
-| 🔥🔥: 167 \| 💬: [131](https://news.ycombinator.com/item?id=43739037) \| 🗓️ 2025-04-19
+| 🔥🔥: 182 \| 💬: [138](https://news.ycombinator.com/item?id=43739037) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -152,11 +140,23 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 
 ---
 
+## <a name="10"></a>10. SSL.com存在漏洞：可绕过DCV验证并伪造任意MX主机名证书 
+<small>🔗 [bugzilla.mozilla.org](https://bugzilla.mozilla.org/show_bug.cgi?id=1961406): Ssl.com: DCV bypass and issue fake certificates for any MX hostname</small>
+
+
+| 🔥🔥: 177 \| 💬: [43](https://news.ycombinator.com/item?id=43738485) \| 🗓️ 2025-04-19
+
+
+<br />
+该漏洞报告指出，SSL.com在使用BR 3.2.2.4.14 DCV方法（通过DNS TXT联系邮箱验证域名）时，**错误地将验证者邮箱域名标记为已验证**。攻击者可通过伪造TXT记录，利用第三方邮箱（如aliyun.com）获取目标域名的证书。例如，攻击者未拥有aliyun.com的管理权限，却成功获取了该域名的合法证书。SSL.com已**紧急禁用该验证方法**，并承诺在2025-04-21前提交初步报告。此漏洞可能导致**任意MX主机名的证书被伪造**，威胁网络安全。
+
+---
+
 ## <a name="11"></a>11. 如何在2024年从零开始用Tensor Core实现快速矩阵乘法 
 <small>🔗 [alexarmbr.github.io](https://alexarmbr.github.io/2024/08/10/How-To-Write-A-Fast-Matrix-Multiplication-From-Scratch-With-Tensor-Cores.html): How to Write a Fast Matrix Multiplication from Scratch with Tensor Cores (2024)</small>
 
 
-| 🔥🔥: 114 \| 💬: [13](https://news.ycombinator.com/item?id=43736739) \| 🗓️ 2025-04-19
+| 🔥🔥: 115 \| 💬: [13](https://news.ycombinator.com/item?id=43736739) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -164,47 +164,11 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 
 ---
 
-## <a name="12"></a>12. Haujobb与Sweet16联合发布新Demo《The Mind》 
-<small>🔗 [lexaloffle.com](https://www.lexaloffle.com/bbs/?pid=145596): Demo "The Mind" by Haujobb and Sweet16</small>
-
-
-| 🔥🔥: 102 \| 💬: [9](https://news.ycombinator.com/item?id=43735592) \| 🗓️ 2025-04-19
-
-
-<br />
-在2024年Revision demoparty的**“幻想主机”竞赛**中，Haujobb与Sweet16展示了基于Pico-8平台的Demo《The Mind》。目前仅支持在线观看（推荐使用Firefox），**完整源代码**已上传至Pouet。Demo支持通过Pico8 Edu加载（指令：`load #themind1`），并已优化为可直接在BBS运行。此外，团队还分享了**音乐制作思路**及部分特效的独立版本（如《Interference》）。Demo融合了**3D多边形渲染**和像素艺术，创作遵循CC4-BY-NC-SA协议。
-
----
-
-## <a name="13"></a>13. 独特声波可缓解晕动症 
-<small>🔗 [nagoya-u.ac.jp](https://www.nagoya-u.ac.jp/researchinfo/result-en/2025/04/20250408-01.html): A unique sound alleviates motion sickness</small>
-
-
-| 🔥: 97 \| 💬: [39](https://news.ycombinator.com/item?id=43740021) \| 🗓️ 2025-04-19
-
-
-<br />
-日本名古屋大学的研究团队发现，**100赫兹的特定声波刺激**（“声波香料®”）能有效减轻晕车症状。实验表明，仅需一分钟的刺激即可减少眩晕和恶心感，其原理是通过激活内耳**前庭系统**调节平衡功能。该技术安全（声压低于日常噪音标准），未来或应用于航空、航海等场景。研究成果发表于《环境健康与预防医学》。
-
----
-
-## <a name="14"></a>14. 开源SDR实现：基于GNU Radio与Codec2的DMR调制解调器 
-<small>🔗 [qradiolink.org](https://qradiolink.org/open-source-DMR-transceiver-implementation.html): Open Source DMR Modem Implementation in SDR with GNU Radio and Codec2</small>
-
-
-| 🔥: 96 \| 💬: [14](https://news.ycombinator.com/item?id=43735945) \| 🗓️ 2025-04-19
-
-
-<br />
-本文介绍了一种基于**软件定义无线电（SDR）**的开源DMR（数字移动无线电）调制解调器实现，结合GNU Radio处理物理层，并采用**Codec2**作为语音编解码器。DMR是ETSI制定的业余无线电流行标准，但商用设备存在使用门槛。该方案通过LimeSDR-mini等硬件支持**时分多址（TDMA）**传输，实现了中继模式与直通模式下的语音通话功能，并探索了未来扩展（如Tier III集群通信）。与依赖专利编解码器AMBE的传统方案不同，此项目选择完全开源的Codec2，虽兼容性受限，但规避了法律风险。
-
----
-
-## <a name="15"></a>15. 别强迫孩子学数学 
+## <a name="12"></a>12. 别强迫孩子学数学 
 <small>🔗 [blog.avocados.ovh](https://blog.avocados.ovh/posts/how-to-force-your-kids-to-do-math/): Don't force your kids to do math</small>
 
 
-| 🔥: 96 \| 💬: [78](https://news.ycombinator.com/item?id=43738195) \| 🗓️ 2025-04-19
+| 🔥🔥: 111 \| 💬: [90](https://news.ycombinator.com/item?id=43738195) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -212,11 +176,47 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 
 ---
 
+## <a name="13"></a>13. 独特声波可缓解晕动症 
+<small>🔗 [nagoya-u.ac.jp](https://www.nagoya-u.ac.jp/researchinfo/result-en/2025/04/20250408-01.html): A unique sound alleviates motion sickness</small>
+
+
+| 🔥🔥: 110 \| 💬: [42](https://news.ycombinator.com/item?id=43740021) \| 🗓️ 2025-04-19
+
+
+<br />
+日本名古屋大学的研究团队发现，**100赫兹的特定声波刺激**（“声波香料®”）能有效减轻晕车症状。实验表明，仅需一分钟的刺激即可减少眩晕和恶心感，其原理是通过激活内耳**前庭系统**调节平衡功能。该技术安全（声压低于日常噪音标准），未来或应用于航空、航海等场景。研究成果发表于《环境健康与预防医学》。
+
+---
+
+## <a name="14"></a>14. Haujobb与Sweet16联合发布新Demo《The Mind》 
+<small>🔗 [lexaloffle.com](https://www.lexaloffle.com/bbs/?pid=145596): Demo "The Mind" by Haujobb and Sweet16</small>
+
+
+| 🔥🔥: 103 \| 💬: [10](https://news.ycombinator.com/item?id=43735592) \| 🗓️ 2025-04-19
+
+
+<br />
+在2024年Revision demoparty的**“幻想主机”竞赛**中，Haujobb与Sweet16展示了基于Pico-8平台的Demo《The Mind》。目前仅支持在线观看（推荐使用Firefox），**完整源代码**已上传至Pouet。Demo支持通过Pico8 Edu加载（指令：`load #themind1`），并已优化为可直接在BBS运行。此外，团队还分享了**音乐制作思路**及部分特效的独立版本（如《Interference》）。Demo融合了**3D多边形渲染**和像素艺术，创作遵循CC4-BY-NC-SA协议。
+
+---
+
+## <a name="15"></a>15. 开源SDR实现：基于GNU Radio与Codec2的DMR调制解调器 
+<small>🔗 [qradiolink.org](https://qradiolink.org/open-source-DMR-transceiver-implementation.html): Open Source DMR Modem Implementation in SDR with GNU Radio and Codec2</small>
+
+
+| 🔥: 97 \| 💬: [14](https://news.ycombinator.com/item?id=43735945) \| 🗓️ 2025-04-19
+
+
+<br />
+本文介绍了一种基于**软件定义无线电（SDR）**的开源DMR（数字移动无线电）调制解调器实现，结合GNU Radio处理物理层，并采用**Codec2**作为语音编解码器。DMR是ETSI制定的业余无线电流行标准，但商用设备存在使用门槛。该方案通过LimeSDR-mini等硬件支持**时分多址（TDMA）**传输，实现了中继模式与直通模式下的语音通话功能，并探索了未来扩展（如Tier III集群通信）。与依赖专利编解码器AMBE的传统方案不同，此项目选择完全开源的Codec2，虽兼容性受限，但规避了法律风险。
+
+---
+
 ## <a name="16"></a>16. SSD断电长期存放测试：数据丢失与性能下降问题凸显 
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/pc-components/storage/unpowered-ssd-endurance-investigation-finds-severe-data-loss-and-performance-issues-reminds-us-of-the-importance-of-refreshing-backups): Unpowered SSD endurance investigation finds data loss and performance issues</small>
 
 
-| 🔥: 92 \| 💬: [63](https://news.ycombinator.com/item?id=43739028) \| 🗓️ 2025-04-19
+| 🔥: 95 \| 💬: [63](https://news.ycombinator.com/item?id=43739028) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -224,35 +224,11 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 
 ---
 
-## <a name="17"></a>17. 弗兰肯斯坦式的`__init__`方法 
-<small>🔗 [ohadravid.github.io](https://ohadravid.github.io/posts/2025-04-19-frank/): Frankenstein's `__init__`</small>
-
-
-| 🔥: 89 \| 💬: [66](https://news.ycombinator.com/item?id=43735724) \| 🗓️ 2025-04-19
-
-
-<br />
-这篇文章讲述了一个Python生产代码中**最疯狂的`__init__`方法**。作者在测试`FooBarWidget`时发现，有时会抛出`AttributeError`，提示缺少`should_exit`属性。调查后发现，`FooBarWidget`的`__init__`方法竟将父类的初始化逻辑放到**新线程**中执行，导致如果关闭实例过快，父类`FooWidget.__init__`可能还未完成。这种设计是为了解决ZeroMQ的**线程限制问题**，但代价是代码变得极其脆弱且反直觉。作者用《科学怪人》的经典台词形容这种“创造即毁灭”的编程行为。
-
----
-
-## <a name="18"></a>18. "超强思考"是Claude Code的魔法指令 
-<small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/19/claude-code-best-practices/): Ultrathink is a Claude Code a magic word</small>
-
-
-| 🔥: 89 \| 💬: [33](https://news.ycombinator.com/item?id=43739997) \| 🗓️ 2025-04-19
-
-
-<br />
-Anthropic的Claude Code CLI工具文档揭示了一个有趣技巧：使用**"think"**系列指令可触发不同级别的思考模式，如"think"（4000 tokens）、"think hard"（1万 tokens）和**"ultrathink"**（31999 tokens）。通过逆向工程发现，这些关键词直接关联系统内部的思考预算分配，其中"ultrathink"能最大化计算资源。该功能专属于Claude Code工具，而非基础模型。
-
----
-
-## <a name="19"></a>19. 澳大利亚沙漠照片揭示卫星污染问题 
+## <a name="17"></a>17. 澳大利亚沙漠照片揭示卫星污染问题 
 <small>🔗 [thisiscolossal.com](https://www.thisiscolossal.com/2025/04/a-stunning-image-of-the-australian-desert-illuminates-the-growing-problem-of-satellite-pollution/): An image of the Australian desert illuminates satellite pollution</small>
 
 
-| 🔥: 87 \| 💬: [58](https://news.ycombinator.com/item?id=43737469) \| 🗓️ 2025-04-19
+| 🔥: 92 \| 💬: [63](https://news.ycombinator.com/item?id=43737469) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -260,11 +236,35 @@ Anthropic的Claude Code CLI工具文档揭示了一个有趣技巧：使用**"th
 
 ---
 
+## <a name="18"></a>18. "超强思考"是Claude Code的魔法指令 
+<small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/19/claude-code-best-practices/): Ultrathink is a Claude Code a magic word</small>
+
+
+| 🔥: 91 \| 💬: [33](https://news.ycombinator.com/item?id=43739997) \| 🗓️ 2025-04-19
+
+
+<br />
+Anthropic的Claude Code CLI工具文档揭示了一个有趣技巧：使用**"think"**系列指令可触发不同级别的思考模式，如"think"（4000 tokens）、"think hard"（1万 tokens）和**"ultrathink"**（31999 tokens）。通过逆向工程发现，这些关键词直接关联系统内部的思考预算分配，其中"ultrathink"能最大化计算资源。该功能专属于Claude Code工具，而非基础模型。
+
+---
+
+## <a name="19"></a>19. 弗兰肯斯坦式的`__init__`方法 
+<small>🔗 [ohadravid.github.io](https://ohadravid.github.io/posts/2025-04-19-frank/): Frankenstein's `__init__`</small>
+
+
+| 🔥: 90 \| 💬: [66](https://news.ycombinator.com/item?id=43735724) \| 🗓️ 2025-04-19
+
+
+<br />
+这篇文章讲述了一个Python生产代码中**最疯狂的`__init__`方法**。作者在测试`FooBarWidget`时发现，有时会抛出`AttributeError`，提示缺少`should_exit`属性。调查后发现，`FooBarWidget`的`__init__`方法竟将父类的初始化逻辑放到**新线程**中执行，导致如果关闭实例过快，父类`FooWidget.__init__`可能还未完成。这种设计是为了解决ZeroMQ的**线程限制问题**，但代价是代码变得极其脆弱且反直觉。作者用《科学怪人》的经典台词形容这种“创造即毁灭”的编程行为。
+
+---
+
 ## <a name="20"></a>20. 《汇编语言的艺术（2010）》 
 <small>🔗 [plantation-productions.com](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html): The Art of Assembly Language (2010)</small>
 
 
-| 🔥: 86 \| 💬: [12](https://news.ycombinator.com/item?id=43739285) \| 🗓️ 2025-04-19
+| 🔥: 90 \| 💬: [13](https://news.ycombinator.com/item?id=43739285) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -272,11 +272,23 @@ Anthropic的Claude Code CLI工具文档揭示了一个有趣技巧：使用**"th
 
 ---
 
-## <a name="21"></a>21. 美国高校焦虑：外国学生遭拘留签证被吊销 
+## <a name="21"></a>21. 冰岛的选举制度解析 
+<small>🔗 [smarimccarthy.is](https://smarimccarthy.is/posts/2024-11-25-voting-system/): The Icelandic Voting System (2024)</small>
+
+
+| 🔥: 87 \| 💬: [65](https://news.ycombinator.com/item?id=43738675) \| 🗓️ 2025-04-19
+
+
+<br />
+冰岛采用**双比例分配制**，结合选区席位（CS）和调整席位（AS）确保选举公平性。选区席位通过**d'Hondt除数法**分配，而调整席位则在全国范围内按政党得票比例二次分配。但现行制度存在缺陷，如违反单调性准则（得票更多反而可能减少席位），且因法律表述复杂导致计算不精确。作者建议增加调整席位比例以减少投票权不平等，并推荐更优的选举方法如《多数判断》。文末附有选举模拟器的GitHub链接。
+
+---
+
+## <a name="22"></a>22. 美国高校焦虑：外国学生遭拘留签证被吊销 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c20xq5nd8jeo): Anxiety at US colleges as foreign students are detained and visas revoked</small>
 
 
-| 🔥: 84 \| 💬: [9](https://news.ycombinator.com/item?id=43735089) \| 🗓️ 2025-04-19
+| 🔥: 84 \| 💬: [8](https://news.ycombinator.com/item?id=43735089) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -284,7 +296,7 @@ Anthropic的Claude Code CLI工具文档揭示了一个有趣技巧：使用**"th
 
 ---
 
-## <a name="22"></a>22. arXiv：改变科学交流的开放学术仓库 
+## <a name="23"></a>23. arXiv：改变科学交流的开放学术仓库 
 <small>🔗 [wired.com](https://www.wired.com/story/inside-arxiv-most-transformative-code-science/): Inside ArXiv</small>
 
 
@@ -296,23 +308,11 @@ Anthropic的Claude Code CLI工具文档揭示了一个有趣技巧：使用**"th
 
 ---
 
-## <a name="23"></a>23. 冰岛的选举制度解析 
-<small>🔗 [smarimccarthy.is](https://smarimccarthy.is/posts/2024-11-25-voting-system/): The Icelandic Voting System (2024)</small>
-
-
-| 🔥: 79 \| 💬: [64](https://news.ycombinator.com/item?id=43738675) \| 🗓️ 2025-04-19
-
-
-<br />
-冰岛采用**双比例分配制**，结合选区席位（CS）和调整席位（AS）确保选举公平性。选区席位通过**d'Hondt除数法**分配，而调整席位则在全国范围内按政党得票比例二次分配。但现行制度存在缺陷，如违反单调性准则（得票更多反而可能减少席位），且因法律表述复杂导致计算不精确。作者建议增加调整席位比例以减少投票权不平等，并推荐更优的选举方法如《多数判断》。文末附有选举模拟器的GitHub链接。
-
----
-
 ## <a name="24"></a>24. 电磁学：一种纯粹的几何理论 
 <small>🔗 [iopscience.iop.org](https://iopscience.iop.org/article/10.1088/1742-6596/2987/1/012001): Electromagnetism as a Purely Geometric Theory</small>
 
 
-| 🔥: 78 \| 💬: [24](https://news.ycombinator.com/item?id=43739529) \| 🗓️ 2025-04-19
+| 🔥: 83 \| 💬: [26](https://news.ycombinator.com/item?id=43739529) \| 🗓️ 2025-04-19
 
 
 <br />
