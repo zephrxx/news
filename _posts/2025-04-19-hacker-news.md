@@ -27,7 +27,7 @@ tags:
 <small>🔗 [bradmontague.substack.com](https://bradmontague.substack.com/p/librarians-are-dangerous): Librarians are dangerous</small>
 
 
-| 🔥🔥: 368 \| 💬: [359](https://news.ycombinator.com/item?id=43736791) \| 🗓️ 2025-04-19
+| 🔥🔥: 392 \| 💬: [389](https://news.ycombinator.com/item?id=43736791) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/PiLiDAR/PiLiDAR): Raspberry Pi Lidar Scanner</small>
 
 
-| 🔥🔥: 294 \| 💬: [76](https://news.ycombinator.com/item?id=43738561) \| 🗓️ 2025-04-19
+| 🔥🔥: 321 \| 💬: [86](https://news.ycombinator.com/item?id=43738561) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/04/android-phones-will-soon-reboot-themselves-after-sitting-unused-for-3-days/): Android phones will soon reboot themselves after sitting unused for three days</small>
 
 
-| 🔥🔥: 268 \| 💬: [215](https://news.ycombinator.com/item?id=43735902) \| 🗓️ 2025-04-19
+| 🔥🔥: 274 \| 💬: [222](https://news.ycombinator.com/item?id=43735902) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [jan.wildeboer.net](https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/): The Web Is Broken – Botnet Part 2</small>
 
 
-| 🔥🔥: 233 \| 💬: [111](https://news.ycombinator.com/item?id=43738603) \| 🗓️ 2025-04-19
+| 🔥🔥: 252 \| 💬: [124](https://news.ycombinator.com/item?id=43738603) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -77,7 +77,7 @@ tags:
 <small>🔗 [lllyasviel.github.io](https://lllyasviel.github.io/frame_pack_gitpage/): Packing Input Frame Context in Next-Frame Prediction Models for Video Generation</small>
 
 
-| 🔥🔥: 225 \| 💬: [26](https://news.ycombinator.com/item?id=43736193) \| 🗓️ 2025-04-19
+| 🔥🔥: 227 \| 💬: [26](https://news.ycombinator.com/item?id=43736193) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -89,7 +89,7 @@ tags:
 <small>🔗 [starkeycomics.com](https://starkeycomics.com/2023/11/07/map-of-british-english-dialects/): A Map of British Dialects (2023)</small>
 
 
-| 🔥🔥: 199 \| 💬: [149](https://news.ycombinator.com/item?id=43734953) \| 🗓️ 2025-04-19
+| 🔥🔥: 201 \| 💬: [154](https://news.ycombinator.com/item?id=43734953) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -101,7 +101,7 @@ tags:
 <small>🔗 [philwip.com](https://philwip.com/2025/04/14/galaxian-3-project-revival/): Restoring the Galaxian3 Theatre 6, 1992 six player arcade machine</small>
 
 
-| 🔥🔥: 193 \| 💬: [42](https://news.ycombinator.com/item?id=43735239) \| 🗓️ 2025-04-19
+| 🔥🔥: 197 \| 💬: [43](https://news.ycombinator.com/item?id=43735239) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -113,7 +113,7 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 <small>🔗 [bugzilla.mozilla.org](https://bugzilla.mozilla.org/show_bug.cgi?id=1961406): Ssl.com: DCV bypass and issue fake certificates for any MX hostname</small>
 
 
-| 🔥🔥: 143 \| 💬: [35](https://news.ycombinator.com/item?id=43738485) \| 🗓️ 2025-04-19
+| 🔥🔥: 151 \| 💬: [35](https://news.ycombinator.com/item?id=43738485) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -125,7 +125,7 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 <small>🔗 [addyo.substack.com](https://addyo.substack.com/p/vibe-coding-is-not-an-excuse-for): Vibe Coding is not an excuse for low-quality work</small>
 
 
-| 🔥🔥: 120 \| 💬: [101](https://news.ycombinator.com/item?id=43739037) \| 🗓️ 2025-04-19
+| 🔥🔥: 128 \| 💬: [118](https://news.ycombinator.com/item?id=43739037) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -137,7 +137,7 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 <small>🔗 [alexarmbr.github.io](https://alexarmbr.github.io/2024/08/10/How-To-Write-A-Fast-Matrix-Multiplication-From-Scratch-With-Tensor-Cores.html): How to Write a Fast Matrix Multiplication from Scratch with Tensor Cores (2024)</small>
 
 
-| 🔥: 100 \| 💬: [9](https://news.ycombinator.com/item?id=43736739) \| 🗓️ 2025-04-19
+| 🔥🔥: 105 \| 💬: [10](https://news.ycombinator.com/item?id=43736739) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -149,7 +149,7 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 <small>🔗 [lexaloffle.com](https://www.lexaloffle.com/bbs/?pid=145596): Demo "The Mind" by Haujobb and Sweet16</small>
 
 
-| 🔥: 98 \| 💬: [9](https://news.ycombinator.com/item?id=43735592) \| 🗓️ 2025-04-19
+| 🔥: 100 \| 💬: [9](https://news.ycombinator.com/item?id=43735592) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -185,7 +185,7 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/pc-components/storage/unpowered-ssd-endurance-investigation-finds-severe-data-loss-and-performance-issues-reminds-us-of-the-importance-of-refreshing-backups): Unpowered SSD endurance investigation finds data loss and performance issues</small>
 
 
-| 🔥: 81 \| 💬: [42](https://news.ycombinator.com/item?id=43739028) \| 🗓️ 2025-04-19
+| 🔥: 86 \| 💬: [49](https://news.ycombinator.com/item?id=43739028) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -193,7 +193,26 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 
 ---
 
-## <a name="15"></a>15. 美国高校焦虑：外国学生遭拘留签证被吊销 
+## <a name="15"></a>15. 用AI将GitHub代码库转化为易懂教程的工具 
+<small>🔗 [github.com](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge): Show HN: I built an AI that turns GitHub codebases into easy tutorials</small>
+
+
+| 🔥: 86 \| 💬: [21](https://news.ycombinator.com/item?id=43739456) \| 🗓️ 2025-04-19
+
+
+<br />
+这个项目利用**AI技术**分析GitHub代码库，自动生成适合初学者的教程，帮助用户快速理解复杂代码。它通过爬取代码库、构建知识图谱，识别核心逻辑并生成带可视化说明的教程。支持多语言输出，可分析本地或在线仓库。  
+
+**关键功能**：  
+- 支持Python/JavaScript等文件类型过滤  
+- 可设置文件大小上限排除无关内容  
+- 使用**Gemini/Claude等大模型**生成教程  
+
+开发者采用**Agentic Coding**模式开发，依赖轻量级框架Pocket Flow实现自动化构建。提供YouTube教程和示例结果（如FastAPI、NumPy等热门项目解析）。
+
+---
+
+## <a name="16"></a>16. 美国高校焦虑：外国学生遭拘留签证被吊销 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c20xq5nd8jeo): Anxiety at US colleges as foreign students are detained and visas revoked</small>
 
 
@@ -205,11 +224,11 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 
 ---
 
-## <a name="16"></a>16. arXiv：改变科学交流的开放学术仓库 
+## <a name="17"></a>17. arXiv：改变科学交流的开放学术仓库 
 <small>🔗 [wired.com](https://www.wired.com/story/inside-arxiv-most-transformative-code-science/): Inside ArXiv</small>
 
 
-| 🔥: 76 \| 💬: [11](https://news.ycombinator.com/item?id=43738478) \| 🗓️ 2025-04-19
+| 🔥: 79 \| 💬: [11](https://news.ycombinator.com/item?id=43738478) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -217,11 +236,11 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 
 ---
 
-## <a name="17"></a>17. "超强思考"是Claude Code的魔法指令 
+## <a name="18"></a>18. "超强思考"是Claude Code的魔法指令 
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/19/claude-code-best-practices/): Ultrathink is a Claude Code a magic word</small>
 
 
-| 🔥: 73 \| 💬: [25](https://news.ycombinator.com/item?id=43739997) \| 🗓️ 2025-04-19
+| 🔥: 77 \| 💬: [27](https://news.ycombinator.com/item?id=43739997) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -229,7 +248,19 @@ Anthropic的Claude Code CLI工具文档揭示了一个有趣技巧：使用**"th
 
 ---
 
-## <a name="18"></a>18. 恒星直接坍缩成黑洞，未发生超新星爆发（2017年） 
+## <a name="19"></a>19. 《汇编语言的艺术（2010）》 
+<small>🔗 [plantation-productions.com](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html): The Art of Assembly Language (2010)</small>
+
+
+| 🔥: 75 \| 💬: [11](https://news.ycombinator.com/item?id=43739285) \| 🗓️ 2025-04-19
+
+
+<br />
+本书全面介绍**x86汇编语言编程**，涵盖基础数据类型、内存管理、CPU架构及指令集设计。重点讲解**HLA（高级汇编器）**的安装与使用，包括控制结构、标准库函数及浮点运算。同时探讨计算机组成原理，如总线系统、缓存机制及并行处理技术，并深入数据表示（如Unicode、BCD码）和文件操作。适合希望掌握底层编程及硬件交互的开发者。
+
+---
+
+## <a name="20"></a>20. 恒星直接坍缩成黑洞，未发生超新星爆发（2017年） 
 <small>🔗 [science.nasa.gov](https://science.nasa.gov/missions/hubble/collapsing-star-gives-birth-to-a-black-hole/): A star appears to have collapsed straight into a black hole without supernova (2017)</small>
 
 
@@ -241,11 +272,11 @@ Anthropic的Claude Code CLI工具文档揭示了一个有趣技巧：使用**"th
 
 ---
 
-## <a name="19"></a>19. Neurite：融合分形与思维图谱的AI协作平台 
+## <a name="21"></a>21. Neurite：融合分形与思维图谱的AI协作平台 
 <small>🔗 [github.com](https://github.com/satellitecomponent/Neurite): Neurite</small>
 
 
-| 🔥: 71 \| 💬: [12](https://news.ycombinator.com/item?id=43735693) \| 🗓️ 2025-04-19
+| 🔥: 72 \| 💬: [12](https://news.ycombinator.com/item?id=43735693) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -255,23 +286,11 @@ Neurite是一个**开源知识管理工具**，将**分形几何**与思维导�
 
 ---
 
-## <a name="20"></a>20. 《汇编语言的艺术（2010）》 
-<small>🔗 [plantation-productions.com](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html): The Art of Assembly Language (2010)</small>
-
-
-| 🔥: 69 \| 💬: [8](https://news.ycombinator.com/item?id=43739285) \| 🗓️ 2025-04-19
-
-
-<br />
-本书全面介绍**x86汇编语言编程**，涵盖基础数据类型、内存管理、CPU架构及指令集设计。重点讲解**HLA（高级汇编器）**的安装与使用，包括控制结构、标准库函数及浮点运算。同时探讨计算机组成原理，如总线系统、缓存机制及并行处理技术，并深入数据表示（如Unicode、BCD码）和文件操作。适合希望掌握底层编程及硬件交互的开发者。
-
----
-
-## <a name="21"></a>21. 反对“透明”的陷阱 
+## <a name="22"></a>22. 反对“透明”的陷阱 
 <small>🔗 [pluralistic.net](https://pluralistic.net/2025/04/19/gotcha/#known-to-the-state-of-california-to-cause-cancer): Against Transparency</small>
 
 
-| 🔥: 67 \| 💬: [15](https://news.ycombinator.com/item?id=43736718) \| 🗓️ 2025-04-19
+| 🔥: 68 \| 💬: [15](https://news.ycombinator.com/item?id=43736718) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -283,23 +302,23 @@ Neurite是一个**开源知识管理工具**，将**分形几何**与思维导�
 
 ---
 
-## <a name="22"></a>22. 微软Copilot频现“不请自来”，AI越界问题引争议 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/04/18/microsoft_copilot_not_wanted/): Microsoft Copilot shows AI increasingly appears like an unwanted party guest</small>
+## <a name="23"></a>23. 澳大利亚沙漠照片揭示卫星污染问题 
+<small>🔗 [thisiscolossal.com](https://www.thisiscolossal.com/2025/04/a-stunning-image-of-the-australian-desert-illuminates-the-growing-problem-of-satellite-pollution/): An Image of the Australian Desert Illuminates Satellite Pollution</small>
 
 
-| 🔥: 65 \| 💬: [17](https://news.ycombinator.com/item?id=43736578) \| 🗓️ 2025-04-19
+| 🔥: 68 \| 💬: [48](https://news.ycombinator.com/item?id=43737469) \| 🗓️ 2025-04-19
 
 
 <br />
-微软用户投诉**Copilot**无视关闭指令自动重启，开发者称其擅自启用导致**敏感代码泄露**。类似问题也出现在苹果、谷歌和Meta的AI服务中，用户难以彻底禁用。微软文档显示，卸载Copilot需复杂操作，而其他厂商的AI功能也通过更新强行激活。行业普遍将用户数据用于**AI训练**，引发隐私担忧。尽管部分企业（如DuckDuckGo）提供关闭选项，但巨头们对AI的巨额投资使其渗透愈发难以规避。
+2021年，摄影师Joshua Rozells在澳大利亚西部的**尖峰石阵沙漠**拍摄星轨时，意外发现**卫星轨迹**几乎出现在每张照片中。他将343张照片合成一张图像，直观展现了日益严重的**卫星光污染**问题。自SpaceX 2019年发射首批60颗星链卫星后，近地轨道卫星已超1万颗，且未来计划发射数万颗。天文学家警告，缺乏监管的卫星激增将加剧光污染，影响天文观测。国际天文联合会等组织正呼吁加强对夜空保护。
 
 ---
 
-## <a name="23"></a>23. 冰岛的选举制度解析 
+## <a name="24"></a>24. 冰岛的选举制度解析 
 <small>🔗 [smarimccarthy.is](https://smarimccarthy.is/posts/2024-11-25-voting-system/): The Icelandic Voting System</small>
 
 
-| 🔥: 65 \| 💬: [55](https://news.ycombinator.com/item?id=43738675) \| 🗓️ 2025-04-19
+| 🔥: 66 \| 💬: [55](https://news.ycombinator.com/item?id=43738675) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -307,26 +326,14 @@ Neurite是一个**开源知识管理工具**，将**分形几何**与思维导�
 
 ---
 
-## <a name="24"></a>24. 大语言模型系统发育关系推断与性能预测新方法 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2404.04671): Inferring the Phylogeny of Large Language Models</small>
+## <a name="25"></a>25. 微软Copilot频现“不请自来”，AI越界问题引争议 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/04/18/microsoft_copilot_not_wanted/): Microsoft Copilot shows AI increasingly appears like an unwanted party guest</small>
 
 
-| 🔥: 62 \| 💬: [5](https://news.ycombinator.com/item?id=43736366) \| 🗓️ 2025-04-19
-
-
-<br />
-本文提出**PhyloLM**方法，将**系统发育算法**应用于大语言模型（LLMs），通过分析模型输出的相似性构建**距离指标**，进而生成树状图。该方法成功揭示了111个开源和45个闭源模型间的关联，且该距离能有效预测模型在基准测试中的表现。研究为快速评估LLM的演化关系和能力提供了新工具，尤其适用于训练信息不透明的场景。
-
----
-
-## <a name="25"></a>25. 澳大利亚沙漠照片揭示卫星污染问题 
-<small>🔗 [thisiscolossal.com](https://www.thisiscolossal.com/2025/04/a-stunning-image-of-the-australian-desert-illuminates-the-growing-problem-of-satellite-pollution/): An Image of the Australian Desert Illuminates Satellite Pollution</small>
-
-
-| 🔥: 62 \| 💬: [41](https://news.ycombinator.com/item?id=43737469) \| 🗓️ 2025-04-19
+| 🔥: 65 \| 💬: [21](https://news.ycombinator.com/item?id=43736578) \| 🗓️ 2025-04-19
 
 
 <br />
-2021年，摄影师Joshua Rozells在澳大利亚西部的**尖峰石阵沙漠**拍摄星轨时，意外发现**卫星轨迹**几乎出现在每张照片中。他将343张照片合成一张图像，直观展现了日益严重的**卫星光污染**问题。自SpaceX 2019年发射首批60颗星链卫星后，近地轨道卫星已超1万颗，且未来计划发射数万颗。天文学家警告，缺乏监管的卫星激增将加剧光污染，影响天文观测。国际天文联合会等组织正呼吁加强对夜空保护。
+微软用户投诉**Copilot**无视关闭指令自动重启，开发者称其擅自启用导致**敏感代码泄露**。类似问题也出现在苹果、谷歌和Meta的AI服务中，用户难以彻底禁用。微软文档显示，卸载Copilot需复杂操作，而其他厂商的AI功能也通过更新强行激活。行业普遍将用户数据用于**AI训练**，引发隐私担忧。尽管部分企业（如DuckDuckGo）提供关闭选项，但巨头们对AI的巨额投资使其渗透愈发难以规避。
 
 ---
