@@ -27,7 +27,7 @@ tags:
 <small>🔗 [bradmontague.substack.com](https://bradmontague.substack.com/p/librarians-are-dangerous): Librarians are dangerous</small>
 
 
-| 🔥🔥: 392 \| 💬: [389](https://news.ycombinator.com/item?id=43736791) \| 🗓️ 2025-04-19
+| 🔥🔥: 406 \| 💬: [407](https://news.ycombinator.com/item?id=43736791) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/PiLiDAR/PiLiDAR): Raspberry Pi Lidar Scanner</small>
 
 
-| 🔥🔥: 321 \| 💬: [86](https://news.ycombinator.com/item?id=43738561) \| 🗓️ 2025-04-19
+| 🔥🔥: 338 \| 💬: [93](https://news.ycombinator.com/item?id=43738561) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/04/android-phones-will-soon-reboot-themselves-after-sitting-unused-for-3-days/): Android phones will soon reboot themselves after sitting unused for three days</small>
 
 
-| 🔥🔥: 274 \| 💬: [222](https://news.ycombinator.com/item?id=43735902) \| 🗓️ 2025-04-19
+| 🔥🔥: 282 \| 💬: [226](https://news.ycombinator.com/item?id=43735902) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [jan.wildeboer.net](https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/): The Web Is Broken – Botnet Part 2</small>
 
 
-| 🔥🔥: 252 \| 💬: [124](https://news.ycombinator.com/item?id=43738603) \| 🗓️ 2025-04-19
+| 🔥🔥: 267 \| 💬: [132](https://news.ycombinator.com/item?id=43738603) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -89,7 +89,7 @@ tags:
 <small>🔗 [starkeycomics.com](https://starkeycomics.com/2023/11/07/map-of-british-english-dialects/): A Map of British Dialects (2023)</small>
 
 
-| 🔥🔥: 201 \| 💬: [154](https://news.ycombinator.com/item?id=43734953) \| 🗓️ 2025-04-19
+| 🔥🔥: 203 \| 💬: [154](https://news.ycombinator.com/item?id=43734953) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -101,7 +101,7 @@ tags:
 <small>🔗 [philwip.com](https://philwip.com/2025/04/14/galaxian-3-project-revival/): Restoring the Galaxian3 Theatre 6, 1992 six player arcade machine</small>
 
 
-| 🔥🔥: 197 \| 💬: [43](https://news.ycombinator.com/item?id=43735239) \| 🗓️ 2025-04-19
+| 🔥🔥: 199 \| 💬: [45](https://news.ycombinator.com/item?id=43735239) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -113,7 +113,7 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 <small>🔗 [bugzilla.mozilla.org](https://bugzilla.mozilla.org/show_bug.cgi?id=1961406): Ssl.com: DCV bypass and issue fake certificates for any MX hostname</small>
 
 
-| 🔥🔥: 151 \| 💬: [35](https://news.ycombinator.com/item?id=43738485) \| 🗓️ 2025-04-19
+| 🔥🔥: 153 \| 💬: [37](https://news.ycombinator.com/item?id=43738485) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -125,7 +125,7 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 <small>🔗 [addyo.substack.com](https://addyo.substack.com/p/vibe-coding-is-not-an-excuse-for): Vibe Coding is not an excuse for low-quality work</small>
 
 
-| 🔥🔥: 128 \| 💬: [118](https://news.ycombinator.com/item?id=43739037) \| 🗓️ 2025-04-19
+| 🔥🔥: 142 \| 💬: [123](https://news.ycombinator.com/item?id=43739037) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -133,71 +133,11 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 
 ---
 
-## <a name="10"></a>10. 如何在2024年从零开始用Tensor Core实现快速矩阵乘法 
-<small>🔗 [alexarmbr.github.io](https://alexarmbr.github.io/2024/08/10/How-To-Write-A-Fast-Matrix-Multiplication-From-Scratch-With-Tensor-Cores.html): How to Write a Fast Matrix Multiplication from Scratch with Tensor Cores (2024)</small>
-
-
-| 🔥🔥: 105 \| 💬: [10](https://news.ycombinator.com/item?id=43736739) \| 🗓️ 2025-04-19
-
-
-<br />
-本文详细介绍了作者在NVIDIA Tesla T4 GPU上使用**Tensor Core**优化CUDA矩阵乘法内核的过程，目标是高效计算半精度浮点数的HGEMM（$D = \alpha * A * B + \beta * C$）。文章探讨了**内存墙**问题，通过**Roofline模型**分析计算强度（$I$）对性能的影响，并对比了Tensor Core与传统FFMA指令的吞吐量差异。作者通过6个迭代优化的内核，最终实现96%的cuBLAS性能，重点技术包括**分层分块**、共享内存优化和双缓冲等。现代GPU（如Hopper架构）通过硬件改进进一步降低了编程复杂度。
-
----
-
-## <a name="11"></a>11. Haujobb与Sweet16联合发布新Demo《The Mind》 
-<small>🔗 [lexaloffle.com](https://www.lexaloffle.com/bbs/?pid=145596): Demo "The Mind" by Haujobb and Sweet16</small>
-
-
-| 🔥: 100 \| 💬: [9](https://news.ycombinator.com/item?id=43735592) \| 🗓️ 2025-04-19
-
-
-<br />
-在2024年Revision demoparty的**“幻想主机”竞赛**中，Haujobb与Sweet16展示了基于Pico-8平台的Demo《The Mind》。目前仅支持在线观看（推荐使用Firefox），**完整源代码**已上传至Pouet。Demo支持通过Pico8 Edu加载（指令：`load #themind1`），并已优化为可直接在BBS运行。此外，团队还分享了**音乐制作思路**及部分特效的独立版本（如《Interference》）。Demo融合了**3D多边形渲染**和像素艺术，创作遵循CC4-BY-NC-SA协议。
-
----
-
-## <a name="12"></a>12. 开源SDR实现：基于GNU Radio与Codec2的DMR调制解调器 
-<small>🔗 [qradiolink.org](https://qradiolink.org/open-source-DMR-transceiver-implementation.html): Open Source DMR Modem Implementation in SDR with GNU Radio and Codec2</small>
-
-
-| 🔥: 93 \| 💬: [13](https://news.ycombinator.com/item?id=43735945) \| 🗓️ 2025-04-19
-
-
-<br />
-本文介绍了一种基于**软件定义无线电（SDR）**的开源DMR（数字移动无线电）调制解调器实现，结合GNU Radio处理物理层，并采用**Codec2**作为语音编解码器。DMR是ETSI制定的业余无线电流行标准，但商用设备存在使用门槛。该方案通过LimeSDR-mini等硬件支持**时分多址（TDMA）**传输，实现了中继模式与直通模式下的语音通话功能，并探索了未来扩展（如Tier III集群通信）。与依赖专利编解码器AMBE的传统方案不同，此项目选择完全开源的Codec2，虽兼容性受限，但规避了法律风险。
-
----
-
-## <a name="13"></a>13. 弗兰肯斯坦式的`__init__`方法 
-<small>🔗 [ohadravid.github.io](https://ohadravid.github.io/posts/2025-04-19-frank/): Frankenstein's `__init__`</small>
-
-
-| 🔥: 88 \| 💬: [66](https://news.ycombinator.com/item?id=43735724) \| 🗓️ 2025-04-19
-
-
-<br />
-这篇文章讲述了一个Python生产代码中**最疯狂的`__init__`方法**。作者在测试`FooBarWidget`时发现，有时会抛出`AttributeError`，提示缺少`should_exit`属性。调查后发现，`FooBarWidget`的`__init__`方法竟将父类的初始化逻辑放到**新线程**中执行，导致如果关闭实例过快，父类`FooWidget.__init__`可能还未完成。这种设计是为了解决ZeroMQ的**线程限制问题**，但代价是代码变得极其脆弱且反直觉。作者用《科学怪人》的经典台词形容这种“创造即毁灭”的编程行为。
-
----
-
-## <a name="14"></a>14. SSD断电长期存放测试：数据丢失与性能下降问题凸显 
-<small>🔗 [tomshardware.com](https://www.tomshardware.com/pc-components/storage/unpowered-ssd-endurance-investigation-finds-severe-data-loss-and-performance-issues-reminds-us-of-the-importance-of-refreshing-backups): Unpowered SSD endurance investigation finds data loss and performance issues</small>
-
-
-| 🔥: 86 \| 💬: [49](https://news.ycombinator.com/item?id=43739028) \| 🗓️ 2025-04-19
-
-
-<br />
-一项针对**SSD断电耐久性**的两年期测试发现，长期未通电的SSD会出现**数据丢失**和**性能下降**。测试使用四块128GB TLC SSD，其中两块写入量远超标称的60TB寿命。结果显示，重度使用的SSD两年后出现文件损坏且性能骤降，而轻度使用的SSD虽数据完整，但纠错码（ECC）异常增加，预示潜在风险。实验强调定期通电刷新备份的重要性，尤其对长期冷存储的SSD。
-
----
-
-## <a name="15"></a>15. 用AI将GitHub代码库转化为易懂教程的工具 
+## <a name="10"></a>10. 用AI将GitHub代码库转化为易懂教程的工具 
 <small>🔗 [github.com](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge): Show HN: I built an AI that turns GitHub codebases into easy tutorials</small>
 
 
-| 🔥: 86 \| 💬: [21](https://news.ycombinator.com/item?id=43739456) \| 🗓️ 2025-04-19
+| 🔥🔥: 114 \| 💬: [23](https://news.ycombinator.com/item?id=43739456) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -212,11 +152,71 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 
 ---
 
+## <a name="11"></a>11. 如何在2024年从零开始用Tensor Core实现快速矩阵乘法 
+<small>🔗 [alexarmbr.github.io](https://alexarmbr.github.io/2024/08/10/How-To-Write-A-Fast-Matrix-Multiplication-From-Scratch-With-Tensor-Cores.html): How to Write a Fast Matrix Multiplication from Scratch with Tensor Cores (2024)</small>
+
+
+| 🔥🔥: 108 \| 💬: [10](https://news.ycombinator.com/item?id=43736739) \| 🗓️ 2025-04-19
+
+
+<br />
+本文详细介绍了作者在NVIDIA Tesla T4 GPU上使用**Tensor Core**优化CUDA矩阵乘法内核的过程，目标是高效计算半精度浮点数的HGEMM（$D = \alpha * A * B + \beta * C$）。文章探讨了**内存墙**问题，通过**Roofline模型**分析计算强度（$I$）对性能的影响，并对比了Tensor Core与传统FFMA指令的吞吐量差异。作者通过6个迭代优化的内核，最终实现96%的cuBLAS性能，重点技术包括**分层分块**、共享内存优化和双缓冲等。现代GPU（如Hopper架构）通过硬件改进进一步降低了编程复杂度。
+
+---
+
+## <a name="12"></a>12. Haujobb与Sweet16联合发布新Demo《The Mind》 
+<small>🔗 [lexaloffle.com](https://www.lexaloffle.com/bbs/?pid=145596): Demo "The Mind" by Haujobb and Sweet16</small>
+
+
+| 🔥: 100 \| 💬: [9](https://news.ycombinator.com/item?id=43735592) \| 🗓️ 2025-04-19
+
+
+<br />
+在2024年Revision demoparty的**“幻想主机”竞赛**中，Haujobb与Sweet16展示了基于Pico-8平台的Demo《The Mind》。目前仅支持在线观看（推荐使用Firefox），**完整源代码**已上传至Pouet。Demo支持通过Pico8 Edu加载（指令：`load #themind1`），并已优化为可直接在BBS运行。此外，团队还分享了**音乐制作思路**及部分特效的独立版本（如《Interference》）。Demo融合了**3D多边形渲染**和像素艺术，创作遵循CC4-BY-NC-SA协议。
+
+---
+
+## <a name="13"></a>13. 开源SDR实现：基于GNU Radio与Codec2的DMR调制解调器 
+<small>🔗 [qradiolink.org](https://qradiolink.org/open-source-DMR-transceiver-implementation.html): Open Source DMR Modem Implementation in SDR with GNU Radio and Codec2</small>
+
+
+| 🔥: 93 \| 💬: [13](https://news.ycombinator.com/item?id=43735945) \| 🗓️ 2025-04-19
+
+
+<br />
+本文介绍了一种基于**软件定义无线电（SDR）**的开源DMR（数字移动无线电）调制解调器实现，结合GNU Radio处理物理层，并采用**Codec2**作为语音编解码器。DMR是ETSI制定的业余无线电流行标准，但商用设备存在使用门槛。该方案通过LimeSDR-mini等硬件支持**时分多址（TDMA）**传输，实现了中继模式与直通模式下的语音通话功能，并探索了未来扩展（如Tier III集群通信）。与依赖专利编解码器AMBE的传统方案不同，此项目选择完全开源的Codec2，虽兼容性受限，但规避了法律风险。
+
+---
+
+## <a name="14"></a>14. 弗兰肯斯坦式的`__init__`方法 
+<small>🔗 [ohadravid.github.io](https://ohadravid.github.io/posts/2025-04-19-frank/): Frankenstein's `__init__`</small>
+
+
+| 🔥: 88 \| 💬: [66](https://news.ycombinator.com/item?id=43735724) \| 🗓️ 2025-04-19
+
+
+<br />
+这篇文章讲述了一个Python生产代码中**最疯狂的`__init__`方法**。作者在测试`FooBarWidget`时发现，有时会抛出`AttributeError`，提示缺少`should_exit`属性。调查后发现，`FooBarWidget`的`__init__`方法竟将父类的初始化逻辑放到**新线程**中执行，导致如果关闭实例过快，父类`FooWidget.__init__`可能还未完成。这种设计是为了解决ZeroMQ的**线程限制问题**，但代价是代码变得极其脆弱且反直觉。作者用《科学怪人》的经典台词形容这种“创造即毁灭”的编程行为。
+
+---
+
+## <a name="15"></a>15. SSD断电长期存放测试：数据丢失与性能下降问题凸显 
+<small>🔗 [tomshardware.com](https://www.tomshardware.com/pc-components/storage/unpowered-ssd-endurance-investigation-finds-severe-data-loss-and-performance-issues-reminds-us-of-the-importance-of-refreshing-backups): Unpowered SSD endurance investigation finds data loss and performance issues</small>
+
+
+| 🔥: 87 \| 💬: [56](https://news.ycombinator.com/item?id=43739028) \| 🗓️ 2025-04-19
+
+
+<br />
+一项针对**SSD断电耐久性**的两年期测试发现，长期未通电的SSD会出现**数据丢失**和**性能下降**。测试使用四块128GB TLC SSD，其中两块写入量远超标称的60TB寿命。结果显示，重度使用的SSD两年后出现文件损坏且性能骤降，而轻度使用的SSD虽数据完整，但纠错码（ECC）异常增加，预示潜在风险。实验强调定期通电刷新备份的重要性，尤其对长期冷存储的SSD。
+
+---
+
 ## <a name="16"></a>16. 美国高校焦虑：外国学生遭拘留签证被吊销 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c20xq5nd8jeo): Anxiety at US colleges as foreign students are detained and visas revoked</small>
 
 
-| 🔥: 80 \| 💬: [9](https://news.ycombinator.com/item?id=43735089) \| 🗓️ 2025-04-19
+| 🔥: 81 \| 💬: [9](https://news.ycombinator.com/item?id=43735089) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -228,7 +228,7 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 <small>🔗 [wired.com](https://www.wired.com/story/inside-arxiv-most-transformative-code-science/): Inside ArXiv</small>
 
 
-| 🔥: 79 \| 💬: [11](https://news.ycombinator.com/item?id=43738478) \| 🗓️ 2025-04-19
+| 🔥: 79 \| 💬: [12](https://news.ycombinator.com/item?id=43738478) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -240,7 +240,7 @@ Namco于1990年推出**28人巨型街机**《Galaxian3: Project Dragoon》，后
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/19/claude-code-best-practices/): Ultrathink is a Claude Code a magic word</small>
 
 
-| 🔥: 77 \| 💬: [27](https://news.ycombinator.com/item?id=43739997) \| 🗓️ 2025-04-19
+| 🔥: 79 \| 💬: [28](https://news.ycombinator.com/item?id=43739997) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -252,7 +252,7 @@ Anthropic的Claude Code CLI工具文档揭示了一个有趣技巧：使用**"th
 <small>🔗 [plantation-productions.com](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html): The Art of Assembly Language (2010)</small>
 
 
-| 🔥: 75 \| 💬: [11](https://news.ycombinator.com/item?id=43739285) \| 🗓️ 2025-04-19
+| 🔥: 78 \| 💬: [11](https://news.ycombinator.com/item?id=43739285) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -260,7 +260,31 @@ Anthropic的Claude Code CLI工具文档揭示了一个有趣技巧：使用**"th
 
 ---
 
-## <a name="20"></a>20. 恒星直接坍缩成黑洞，未发生超新星爆发（2017年） 
+## <a name="20"></a>20. 独特声波可缓解晕动症 
+<small>🔗 [nagoya-u.ac.jp](https://www.nagoya-u.ac.jp/researchinfo/result-en/2025/04/20250408-01.html): A unique sound alleviates motion sickness</small>
+
+
+| 🔥: 77 \| 💬: [31](https://news.ycombinator.com/item?id=43740021) \| 🗓️ 2025-04-19
+
+
+<br />
+日本名古屋大学的研究团队发现，**100赫兹的特定声波刺激**（“声波香料®”）能有效减轻晕车症状。实验表明，仅需一分钟的刺激即可减少眩晕和恶心感，其原理是通过激活内耳**前庭系统**调节平衡功能。该技术安全（声压低于日常噪音标准），未来或应用于航空、航海等场景。研究成果发表于《环境健康与预防医学》。
+
+---
+
+## <a name="21"></a>21. 澳大利亚沙漠照片揭示卫星污染问题 
+<small>🔗 [thisiscolossal.com](https://www.thisiscolossal.com/2025/04/a-stunning-image-of-the-australian-desert-illuminates-the-growing-problem-of-satellite-pollution/): An image of the Australian desert illuminates satellite pollution</small>
+
+
+| 🔥: 76 \| 💬: [48](https://news.ycombinator.com/item?id=43737469) \| 🗓️ 2025-04-19
+
+
+<br />
+2021年，摄影师Joshua Rozells在澳大利亚西部的**尖峰石阵沙漠**拍摄星轨时，意外发现**卫星轨迹**几乎出现在每张照片中。他将343张照片合成一张图像，直观展现了日益严重的**卫星光污染**问题。自SpaceX 2019年发射首批60颗星链卫星后，近地轨道卫星已超1万颗，且未来计划发射数万颗。天文学家警告，缺乏监管的卫星激增将加剧光污染，影响天文观测。国际天文联合会等组织正呼吁加强对夜空保护。
+
+---
+
+## <a name="22"></a>22. 恒星直接坍缩成黑洞，未发生超新星爆发（2017年） 
 <small>🔗 [science.nasa.gov](https://science.nasa.gov/missions/hubble/collapsing-star-gives-birth-to-a-black-hole/): A star appears to have collapsed straight into a black hole without supernova (2017)</small>
 
 
@@ -272,7 +296,7 @@ Anthropic的Claude Code CLI工具文档揭示了一个有趣技巧：使用**"th
 
 ---
 
-## <a name="21"></a>21. Neurite：融合分形与思维图谱的AI协作平台 
+## <a name="23"></a>23. Neurite：融合分形与思维图谱的AI协作平台 
 <small>🔗 [github.com](https://github.com/satellitecomponent/Neurite): Neurite</small>
 
 
@@ -286,11 +310,11 @@ Neurite是一个**开源知识管理工具**，将**分形几何**与思维导�
 
 ---
 
-## <a name="22"></a>22. 反对“透明”的陷阱 
+## <a name="24"></a>24. 反对“透明”的陷阱 
 <small>🔗 [pluralistic.net](https://pluralistic.net/2025/04/19/gotcha/#known-to-the-state-of-california-to-cause-cancer): Against Transparency</small>
 
 
-| 🔥: 68 \| 💬: [15](https://news.ycombinator.com/item?id=43736718) \| 🗓️ 2025-04-19
+| 🔥: 70 \| 💬: [15](https://news.ycombinator.com/item?id=43736718) \| 🗓️ 2025-04-19
 
 
 <br />
@@ -302,38 +326,14 @@ Neurite是一个**开源知识管理工具**，将**分形几何**与思维导�
 
 ---
 
-## <a name="23"></a>23. 澳大利亚沙漠照片揭示卫星污染问题 
-<small>🔗 [thisiscolossal.com](https://www.thisiscolossal.com/2025/04/a-stunning-image-of-the-australian-desert-illuminates-the-growing-problem-of-satellite-pollution/): An Image of the Australian Desert Illuminates Satellite Pollution</small>
+## <a name="25"></a>25. 冰岛的选举制度解析 
+<small>🔗 [smarimccarthy.is](https://smarimccarthy.is/posts/2024-11-25-voting-system/): The Icelandic Voting System (2024)</small>
 
 
-| 🔥: 68 \| 💬: [48](https://news.ycombinator.com/item?id=43737469) \| 🗓️ 2025-04-19
-
-
-<br />
-2021年，摄影师Joshua Rozells在澳大利亚西部的**尖峰石阵沙漠**拍摄星轨时，意外发现**卫星轨迹**几乎出现在每张照片中。他将343张照片合成一张图像，直观展现了日益严重的**卫星光污染**问题。自SpaceX 2019年发射首批60颗星链卫星后，近地轨道卫星已超1万颗，且未来计划发射数万颗。天文学家警告，缺乏监管的卫星激增将加剧光污染，影响天文观测。国际天文联合会等组织正呼吁加强对夜空保护。
-
----
-
-## <a name="24"></a>24. 冰岛的选举制度解析 
-<small>🔗 [smarimccarthy.is](https://smarimccarthy.is/posts/2024-11-25-voting-system/): The Icelandic Voting System</small>
-
-
-| 🔥: 66 \| 💬: [55](https://news.ycombinator.com/item?id=43738675) \| 🗓️ 2025-04-19
+| 🔥: 69 \| 💬: [58](https://news.ycombinator.com/item?id=43738675) \| 🗓️ 2025-04-19
 
 
 <br />
 冰岛采用**双比例分配制**，结合选区席位（CS）和调整席位（AS）确保选举公平性。选区席位通过**d'Hondt除数法**分配，而调整席位则在全国范围内按政党得票比例二次分配。但现行制度存在缺陷，如违反单调性准则（得票更多反而可能减少席位），且因法律表述复杂导致计算不精确。作者建议增加调整席位比例以减少投票权不平等，并推荐更优的选举方法如《多数判断》。文末附有选举模拟器的GitHub链接。
-
----
-
-## <a name="25"></a>25. 微软Copilot频现“不请自来”，AI越界问题引争议 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/04/18/microsoft_copilot_not_wanted/): Microsoft Copilot shows AI increasingly appears like an unwanted party guest</small>
-
-
-| 🔥: 65 \| 💬: [21](https://news.ycombinator.com/item?id=43736578) \| 🗓️ 2025-04-19
-
-
-<br />
-微软用户投诉**Copilot**无视关闭指令自动重启，开发者称其擅自启用导致**敏感代码泄露**。类似问题也出现在苹果、谷歌和Meta的AI服务中，用户难以彻底禁用。微软文档显示，卸载Copilot需复杂操作，而其他厂商的AI功能也通过更新强行激活。行业普遍将用户数据用于**AI训练**，引发隐私担忧。尽管部分企业（如DuckDuckGo）提供关闭选项，但巨头们对AI的巨额投资使其渗透愈发难以规避。
 
 ---
