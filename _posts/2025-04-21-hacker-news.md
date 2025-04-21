@@ -11,12 +11,12 @@ tags:
 1. 被微软分叉的困境；
 1. 在任天堂Wii上运行的博客实验；
 1. 开源对话TTS模型Dia：一键生成超真实语音对话；
-1. 教皇方济各逝世 多国领导人哀悼；
 1. 美国化石燃料发电占比首次跌破50%；
+1. FTC指控优步欺诈性收费及取消服务违规；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共13条，具体内容您往下读...
+总共21条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [philiplaine.com](https://philiplaine.com/posts/getting-forked-by-microsoft/): Getting forked by Microsoft</small>
 
 
-| 🔥🔥: 1451 \| 💬: [762](https://news.ycombinator.com/item?id=43750535) \| 🗓️ 2025-04-21
+| 🔥🔥: 1489 \| 💬: [773](https://news.ycombinator.com/item?id=43750535) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [blog.infected.systems](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/): Blog hosted on a Nintendo Wii</small>
 
 
-| 🔥🔥: 235 \| 💬: [36](https://news.ycombinator.com/item?id=43754953) \| 🗓️ 2025-04-21
+| 🔥🔥: 284 \| 💬: [46](https://news.ycombinator.com/item?id=43754953) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/nari-labs/dia): Show HN: Dia, an open-weights TTS model for generating realistic dialogue</small>
 
 
-| 🔥🔥: 228 \| 💬: [60](https://news.ycombinator.com/item?id=43754124) \| 🗓️ 2025-04-21
+| 🔥🔥: 267 \| 💬: [69](https://news.ycombinator.com/item?id=43754124) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -59,23 +59,11 @@ Nari Labs推出的**Dia**是一款1.6B参数的开源权重文本转语音模型
 
 ---
 
-## <a name="4"></a>4. 教皇方济各逝世 多国领导人哀悼 
-<small>🔗 [bbc.co.uk](https://www.bbc.co.uk/news/live/crknlnzlrzdt): Pope Francis has died</small>
-
-
-| 🔥🔥: 221 \| 💬: [18](https://news.ycombinator.com/item?id=43749449) \| 🗓️ 2025-04-21
-
-
-<br />
-欧洲委员会主席**冯德莱恩**称教皇"以谦卑和纯粹的爱激励了数百万天主教徒及更广泛人群"。印度总理**莫迪**表示"深感悲痛"，波兰总理图斯克追忆其"善良、温暖而敏感"，埃及总统塞西赞其为"和平、爱与慈悲之声"。全球政要纷纷表达对这位精神领袖的深切缅怀。
-
----
-
-## <a name="5"></a>5. 美国化石燃料发电占比首次跌破50% 
+## <a name="4"></a>4. 美国化石燃料发电占比首次跌破50% 
 <small>🔗 [ember-energy.org](https://ember-energy.org/latest-updates/fossil-fuels-fall-below-50-of-us-electricity-for-the-first-month-on-record/): Fossil fuels fall below 50% of US electricity for the first month on record</small>
 
 
-| 🔥🔥: 214 \| 💬: [215](https://news.ycombinator.com/item?id=43750617) \| 🗓️ 2025-04-21
+| 🔥🔥: 238 \| 💬: [237](https://news.ycombinator.com/item?id=43750617) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -83,11 +71,23 @@ Nari Labs推出的**Dia**是一款1.6B参数的开源权重文本转语音模型
 
 ---
 
+## <a name="5"></a>5. FTC指控优步欺诈性收费及取消服务违规 
+<small>🔗 [ftc.gov](https://www.ftc.gov/news-events/news/press-releases/2025/04/ftc-takes-action-against-uber-deceptive-billing-cancellation-practices): FTC takes action against Uber for deceptive billing and cancellation practices</small>
+
+
+| 🔥🔥: 227 \| 💬: [101](https://news.ycombinator.com/item?id=43754274) \| 🗓️ 2025-04-21
+
+
+<br />
+美国联邦贸易委员会（FTC）于2025年4月21日对优步（Uber）采取行动，指控其存在**未经用户同意**订阅收费、**设置障碍**阻碍用户取消服务等**欺骗性行为**。FTC指出，优步通过隐蔽方式将消费者纳入付费订阅计划，并在取消流程中增加不必要的难度，损害了消费者权益。
+
+---
+
 ## <a name="6"></a>6. 管道操作：编程语言中最优雅的特性 
 <small>🔗 [herecomesthemoon.net](https://herecomesthemoon.net/2025/04/pipelining/): Pipelining might be my favorite programming language feature</small>
 
 
-| 🔥🔥: 199 \| 💬: [166](https://news.ycombinator.com/item?id=43751076) \| 🗓️ 2025-04-21
+| 🔥🔥: 223 \| 💬: [185](https://news.ycombinator.com/item?id=43751076) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -102,35 +102,23 @@ Nari Labs推出的**Dia**是一款1.6B参数的开源权重文本转语音模型
 
 ---
 
-## <a name="7"></a>7. FTC指控优步欺诈性收费及取消服务违规 
-<small>🔗 [ftc.gov](https://www.ftc.gov/news-events/news/press-releases/2025/04/ftc-takes-action-against-uber-deceptive-billing-cancellation-practices): FTC takes action against Uber for deceptive billing and cancellation practices</small>
+## <a name="7"></a>7. 教皇方济各逝世 多国领导人哀悼 
+<small>🔗 [bbc.co.uk](https://www.bbc.co.uk/news/live/crknlnzlrzdt): Pope Francis has died</small>
 
 
-| 🔥🔥: 196 \| 💬: [81](https://news.ycombinator.com/item?id=43754274) \| 🗓️ 2025-04-21
-
-
-<br />
-美国联邦贸易委员会（FTC）于2025年4月21日对优步（Uber）采取行动，指控其存在**未经用户同意**订阅收费、**设置障碍**阻碍用户取消服务等**欺骗性行为**。FTC指出，优步通过隐蔽方式将消费者纳入付费订阅计划，并在取消流程中增加不必要的难度，损害了消费者权益。
-
----
-
-## <a name="8"></a>8. LLM工具是开发者的“机甲战衣”，而非替代者 
-<small>🔗 [matthewsinclair.com](https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human): LLM-powered tools amplify developer capabilities rather than replacing them</small>
-
-
-| 🔥🔥: 162 \| 💬: [121](https://news.ycombinator.com/item?id=43752492) \| 🗓️ 2025-04-21
+| 🔥🔥: 221 \| 💬: [18](https://news.ycombinator.com/item?id=43749449) \| 🗓️ 2025-04-21
 
 
 <br />
-作者通过使用Claude Code快速构建两个项目的实践，指出**AI编程工具并非取代开发者，而是大幅增强其能力**。如同《异形》中雷普利操控动力装载机，开发者仍需掌控架构设计、质量标准和方向，但代码实现效率提升惊人。然而**AI存在过度行动倾向**，需开发者持续监督以避免错误决策。经验尤为关键——新手可能无法识别AI生成的隐患代码。未来开发者需掌握**与AI协作的新技能**，将重心从写代码转向业务理解与架构设计，同时培养果断推翻重来的勇气。这场变革中，人机协作的“半人马模式”将释放远超单独工作的潜力。
+欧洲委员会主席**冯德莱恩**称教皇"以谦卑和纯粹的爱激励了数百万天主教徒及更广泛人群"。印度总理**莫迪**表示"深感悲痛"，波兰总理图斯克追忆其"善良、温暖而敏感"，埃及总统塞西赞其为"和平、爱与慈悲之声"。全球政要纷纷表达对这位精神领袖的深切缅怀。
 
 ---
 
-## <a name="9"></a>9. Bluesky推出全新验证机制：蓝标认证与可信验证者 
+## <a name="8"></a>8. Bluesky推出全新验证机制：蓝标认证与可信验证者 
 <small>🔗 [bsky.social](https://bsky.social/about/blog/04-21-2025-verification): A new form of verification on Bluesky</small>
 
 
-| 🔥🔥: 157 \| 💬: [106](https://news.ycombinator.com/item?id=43753651) \| 🗓️ 2025-04-21
+| 🔥🔥: 167 \| 💬: [134](https://news.ycombinator.com/item?id=43753651) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -138,11 +126,23 @@ Bluesky宣布升级验证系统，新增**蓝标认证**功能，平台将主动
 
 ---
 
+## <a name="9"></a>9. LLM工具是开发者的“机甲战衣”，而非替代者 
+<small>🔗 [matthewsinclair.com](https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human): LLM-powered tools amplify developer capabilities rather than replacing them</small>
+
+
+| 🔥🔥: 165 \| 💬: [123](https://news.ycombinator.com/item?id=43752492) \| 🗓️ 2025-04-21
+
+
+<br />
+作者通过使用Claude Code快速构建两个项目的实践，指出**AI编程工具并非取代开发者，而是大幅增强其能力**。如同《异形》中雷普利操控动力装载机，开发者仍需掌控架构设计、质量标准和方向，但代码实现效率提升惊人。然而**AI存在过度行动倾向**，需开发者持续监督以避免错误决策。经验尤为关键——新手可能无法识别AI生成的隐患代码。未来开发者需掌握**与AI协作的新技能**，将重心从写代码转向业务理解与架构设计，同时培养果断推翻重来的勇气。这场变革中，人机协作的“半人马模式”将释放远超单独工作的潜力。
+
+---
+
 ## <a name="10"></a>10. 走出迷雾：越南“婴儿空运行动”的救赎与伤痕 
 <small>🔗 [theverge.com](https://www.theverge.com/cs/features/651701/vietnam-operation-babylift-adoption-transnational): Out of the Fog</small>
 
 
-| 🔥🔥: 122 \| 💬: [26](https://news.ycombinator.com/item?id=43752532) \| 🗓️ 2025-04-21
+| 🔥🔥: 123 \| 💬: [27](https://news.ycombinator.com/item?id=43752532) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -154,7 +154,7 @@ Bluesky宣布升级验证系统，新增**蓝标认证**功能，平台将主动
 <small>🔗 [capeindependent.com](https://www.capeindependent.com/article/the-campaign-to-subvert-africas-internet-registry): The campaign to subvert Africa's internet registry</small>
 
 
-| 🔥: 96 \| 💬: [14](https://news.ycombinator.com/item?id=43753738) \| 🗓️ 2025-04-21
+| 🔥: 99 \| 💬: [19](https://news.ycombinator.com/item?id=43753738) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -162,11 +162,23 @@ Bluesky宣布升级验证系统，新增**蓝标认证**功能，平台将主动
 
 ---
 
-## <a name="12"></a>12. 美国国家劳工关系委员会（NLRB）内部举报人揭露DOGE项目异常情况 
+## <a name="12"></a>12. AI驱动的搜索研究现已真正实用 
+<small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/21/ai-assisted-search/): AI assisted search-based research works now</small>
+
+
+| 🔥: 97 \| 💬: [49](https://news.ycombinator.com/item?id=43752262) \| 🗓️ 2025-04-21
+
+
+<br />
+Simon Willison在2025年4月21日的博客中指出，经过两年半的发展，**AI辅助搜索研究**终于达到实用水平。早期工具如Perplexity和GPT-4版Bing因**幻觉问题**令人失望，但2025年的**o3、o4-mini和Gemini 2.5 Pro**通过实时搜索与推理结合，显著提升了准确性和效率。例如，o4-mini成功帮作者迁移代码库，而Google和Anthropic的同类功能仍落后。这一进步可能颠覆传统搜索引擎的经济模式，但也引发对网络内容生态的担忧。
+
+---
+
+## <a name="13"></a>13. 美国国家劳工关系委员会（NLRB）内部举报人揭露DOGE项目异常情况 
 <small>🔗 [whistlebloweraid.org](https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf): Whistleblower statement on anomalies at time of DOGE work at NLRB [pdf]</small>
 
 
-| 🔥: 93 \| 💬: [13](https://news.ycombinator.com/item?id=43755298) \| 🗓️ 2025-04-21
+| 🔥: 97 \| 💬: [13](https://news.ycombinator.com/item?id=43755298) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -174,14 +186,98 @@ Bluesky宣布升级验证系统，新增**蓝标认证**功能，平台将主动
 
 ---
 
-## <a name="13"></a>13. Nerdlog：高效多主机日志查看工具，带时间轴直方图 
+## <a name="14"></a>14. 官方滥用国家安全手段：从恶劣走向骇人听闻 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/04/14/opinion_secret_state_security/?td=rt-3a): Official abuse of state security has always been bad, now it's horrifying</small>
+
+
+| 🔥: 92 \| 💬: [9](https://news.ycombinator.com/item?id=43750144) \| 🗓️ 2025-04-21
+
+
+<br />
+英国政府试图秘密要求**苹果**在iCloud加密系统中植入后门，但遭拒绝后，苹果直接移除了英国用户的相关功能。此事因**秘密法庭**的争议浮出水面——法庭驳回了政府保密请求，暴露了其滥用国家安全名义的行为。与此同时，美国前总统**特朗普**以“压制言论自由”为由，撤销网络安全官员的安全许可，将国家安全机制武器化。文章指出，**数字时代的安全滥用危害更大**，需通过法律手段严惩此类行为，否则将威胁民主根基。
+
+---
+
+## <a name="15"></a>15. Nerdlog：高效多主机日志查看工具，带时间轴直方图 
 <small>🔗 [github.com](https://github.com/dimonomid/nerdlog): Show HN: Nerdlog – Fast, multi-host TUI log viewer with timeline histogram</small>
 
 
-| 🔥: 91 \| 💬: [35](https://news.ycombinator.com/item?id=43750765) \| 🗓️ 2025-04-21
+| 🔥: 91 \| 💬: [37](https://news.ycombinator.com/item?id=43750765) \| 🗓️ 2025-04-21
 
 
 <br />
 Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，支持同时从多台远程主机获取日志，并生成时间轴直方图。无需中央服务器，直接通过SSH连接远程主机，**实时过滤和分析日志**，仅传输必要数据（如250条日志和直方图数据），节省带宽。适用于系统日志（如/var/log/messages），支持自定义日志格式和文件。提供类Vim的快捷键操作，包括查询历史、时间范围调整和日志导出功能。需SSH访问权限及Gawk支持，目前处于概念验证阶段，但已具备较高实用性。
+
+---
+
+## <a name="16"></a>16. 价格调整公告 
+<small>🔗 [windsurf.com](https://windsurf.com/blog/pricing-v2): An update to our pricing</small>
+
+
+| 🔥: 73 \| 💬: [46](https://news.ycombinator.com/item?id=43755321) \| 🗓️ 2025-04-21
+
+
+<br />
+本文为**风帆运动资讯**的订阅提醒，邀请用户通过填写**有效邮箱地址**及时获取最新动态。内容强调需确保邮箱格式正确以完成订阅，但未提及具体价格变动细节。核心目的是**提升用户订阅率**并保持信息触达的准确性。
+
+---
+
+## <a name="17"></a>17. 正则表达式并不难（2023） 
+<small>🔗 [timkellogg.me](https://timkellogg.me/blog/2023/07/11/regex): Regex Isn't Hard (2023)</small>
+
+
+| 🔥: 70 \| 💬: [87](https://news.ycombinator.com/item?id=43750314) \| 🗓️ 2025-04-21
+
+
+<br />
+正则表达式常因复杂而饱受诟病，但掌握其**核心子集**就能轻松应对多数场景。关键在于四个基础概念：**字符集**（如`[a-z]`匹配小写字母）、**重复符**（`?`、`*`、`+`）、**分组**（提取或重复子模式）以及**边界符**（`^`和`$`）。作者建议忽略非便携的复杂特性（如`\w`或`.`），专注跨语言通用的简洁语法。正则能以极简代码高效处理文本，远超传统过程式代码。尽管部分语言（如Rust）提供替代方案，正则仍是文本处理的利器，值得投入少量时间学习。
+
+---
+
+## <a name="18"></a>18. 表格化编程：受限环境下的表达性计算新范式 
+<small>🔗 [sam.elborai.me](https://sam.elborai.me/articles/tabular-programming/): Tabular Programming: A New Paradigm for Expressive Computing</small>
+
+
+| 🔥: 66 \| 💬: [15](https://news.ycombinator.com/item?id=43751168) \| 🗓️ 2025-04-21
+
+
+<br />
+作者受便携音乐设备m8启发，提出一种基于**表格化界面**的编程范式，专为8键微型硬件设计。核心是将代码组织为结构化表格，每行函数限定5个表达式，强制**原子化分解**，提升可维护性。通过硬件约束（如Teensy微控制器）重构编程逻辑，实现**无键盘操作**和显式数据流。文中以经典demo特效（如等离子动画）为例，展示如何在极简界面中完成复杂计算，并探讨其在像素艺术等创意工具中的潜力。
+
+---
+
+## <a name="19"></a>19. ChatGPT等AI工具正在削弱人类智力吗？ 
+<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/apr/19/dont-ask-what-ai-can-do-for-us-ask-what-it-is-doing-to-us-are-chatgpt-and-co-harming-human-intelligence): Are ChatGPT and co harming human intelligence?</small>
+
+
+| 🔥: 65 \| 💬: [76](https://news.ycombinator.com/item?id=43750165) \| 🗓️ 2025-04-21
+
+
+<br />
+近期研究显示，**人类智商（IQ）**出现下降趋势，可能与过度依赖AI处理认知任务有关。专家指出，**关键思维能力**和**记忆力**因AI代劳而退化，如同肌肉不用则萎缩。尽管环境因素复杂，但AI的便捷性导致人们减少主动思考，甚至影响创造力和抗风险能力。学者呼吁通过教育重建人类**批判性思维**优势，避免认知能力被算法取代。
+
+---
+
+## <a name="20"></a>20. 苹果用户遭窃后数据被永久封锁，受害者集体起诉 
+<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/04/20/apple-stolen-iphone-lawsuit-theft/): Thieves took their iPhones. Apple won't give their digital lives back</small>
+
+
+| 🔥: 64 \| 💬: [46](https://news.ycombinator.com/item?id=43755753) \| 🗓️ 2025-04-21
+
+
+<br />
+多名iPhone用户在手机被盗后，因**恢复密钥**被窃贼篡改，导致永久无法访问iCloud中的照片、工作文件等个人数据。尽管苹果掌握部分数据的解密密钥，却以**隐私保护政策**为由拒绝协助恢复。一起索赔500万美元的集体诉讼正在加州进行，原告指控苹果变相协助犯罪。最新推出的**失窃设备保护**功能需手动开启，多数用户并不知情。受害者呼吁苹果建立更灵活的身份验证机制，而非僵化执行安全协议。
+
+---
+
+## <a name="21"></a>21. Pixtrim：基于Rust和WASM的极速客户端图片压缩工具 
+<small>🔗 [image-compressor-five-azure.vercel.app](https://image-compressor-five-azure.vercel.app/): Show HN: Pixtrim – Fast Client-Side Image Compression (Rust and WASM)</small>
+
+
+| 🔥: 51 \| 💬: [3](https://news.ycombinator.com/item?id=43750360) \| 🗓️ 2025-04-21
+
+
+<br />
+这款名为**Pixtrim**的工具能**快速无损压缩图片**，提升网站性能。用户可直接上传图片并调节压缩比例，支持全设备响应式操作，处理过程完全在客户端完成，**隐私安全有保障**。其Rust与WASM技术栈确保秒级压缩效率，用户评价称赞其易用性和压缩质量。核心亮点包括**即时处理**、多端适配和零数据上传。
 
 ---
