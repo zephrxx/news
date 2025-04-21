@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共21条，具体内容您往下读...
+总共22条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [philiplaine.com](https://philiplaine.com/posts/getting-forked-by-microsoft/): Getting forked by Microsoft</small>
 
 
-| 🔥🔥: 1489 \| 💬: [773](https://news.ycombinator.com/item?id=43750535) \| 🗓️ 2025-04-21
+| 🔥🔥: 1514 \| 💬: [790](https://news.ycombinator.com/item?id=43750535) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [blog.infected.systems](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/): Blog hosted on a Nintendo Wii</small>
 
 
-| 🔥🔥: 284 \| 💬: [46](https://news.ycombinator.com/item?id=43754953) \| 🗓️ 2025-04-21
+| 🔥🔥: 317 \| 💬: [57](https://news.ycombinator.com/item?id=43754953) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/nari-labs/dia): Show HN: Dia, an open-weights TTS model for generating realistic dialogue</small>
 
 
-| 🔥🔥: 267 \| 💬: [69](https://news.ycombinator.com/item?id=43754124) \| 🗓️ 2025-04-21
+| 🔥🔥: 298 \| 💬: [82](https://news.ycombinator.com/item?id=43754124) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -63,7 +63,7 @@ Nari Labs推出的**Dia**是一款1.6B参数的开源权重文本转语音模型
 <small>🔗 [ember-energy.org](https://ember-energy.org/latest-updates/fossil-fuels-fall-below-50-of-us-electricity-for-the-first-month-on-record/): Fossil fuels fall below 50% of US electricity for the first month on record</small>
 
 
-| 🔥🔥: 238 \| 💬: [237](https://news.ycombinator.com/item?id=43750617) \| 🗓️ 2025-04-21
+| 🔥🔥: 259 \| 💬: [250](https://news.ycombinator.com/item?id=43750617) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -75,7 +75,7 @@ Nari Labs推出的**Dia**是一款1.6B参数的开源权重文本转语音模型
 <small>🔗 [ftc.gov](https://www.ftc.gov/news-events/news/press-releases/2025/04/ftc-takes-action-against-uber-deceptive-billing-cancellation-practices): FTC takes action against Uber for deceptive billing and cancellation practices</small>
 
 
-| 🔥🔥: 227 \| 💬: [101](https://news.ycombinator.com/item?id=43754274) \| 🗓️ 2025-04-21
+| 🔥🔥: 258 \| 💬: [125](https://news.ycombinator.com/item?id=43754274) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -87,7 +87,7 @@ Nari Labs推出的**Dia**是一款1.6B参数的开源权重文本转语音模型
 <small>🔗 [herecomesthemoon.net](https://herecomesthemoon.net/2025/04/pipelining/): Pipelining might be my favorite programming language feature</small>
 
 
-| 🔥🔥: 223 \| 💬: [185](https://news.ycombinator.com/item?id=43751076) \| 🗓️ 2025-04-21
+| 🔥🔥: 232 \| 💬: [192](https://news.ycombinator.com/item?id=43751076) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -118,7 +118,7 @@ Nari Labs推出的**Dia**是一款1.6B参数的开源权重文本转语音模型
 <small>🔗 [bsky.social](https://bsky.social/about/blog/04-21-2025-verification): A new form of verification on Bluesky</small>
 
 
-| 🔥🔥: 167 \| 💬: [134](https://news.ycombinator.com/item?id=43753651) \| 🗓️ 2025-04-21
+| 🔥🔥: 176 \| 💬: [145](https://news.ycombinator.com/item?id=43753651) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -130,7 +130,7 @@ Bluesky宣布升级验证系统，新增**蓝标认证**功能，平台将主动
 <small>🔗 [matthewsinclair.com](https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human): LLM-powered tools amplify developer capabilities rather than replacing them</small>
 
 
-| 🔥🔥: 165 \| 💬: [123](https://news.ycombinator.com/item?id=43752492) \| 🗓️ 2025-04-21
+| 🔥🔥: 175 \| 💬: [127](https://news.ycombinator.com/item?id=43752492) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -142,7 +142,7 @@ Bluesky宣布升级验证系统，新增**蓝标认证**功能，平台将主动
 <small>🔗 [theverge.com](https://www.theverge.com/cs/features/651701/vietnam-operation-babylift-adoption-transnational): Out of the Fog</small>
 
 
-| 🔥🔥: 123 \| 💬: [27](https://news.ycombinator.com/item?id=43752532) \| 🗓️ 2025-04-21
+| 🔥🔥: 125 \| 💬: [29](https://news.ycombinator.com/item?id=43752532) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -150,23 +150,11 @@ Bluesky宣布升级验证系统，新增**蓝标认证**功能，平台将主动
 
 ---
 
-## <a name="11"></a>11. 非洲互联网资源遭窃取：中国商人操控IP地址牟利 
-<small>🔗 [capeindependent.com](https://www.capeindependent.com/article/the-campaign-to-subvert-africas-internet-registry): The campaign to subvert Africa's internet registry</small>
-
-
-| 🔥: 99 \| 💬: [19](https://news.ycombinator.com/item?id=43753738) \| 🗓️ 2025-04-21
-
-
-<br />
-非洲互联网注册机构**AFRINIC**原定选举新董事会，但因中国公民**卢恒**通过诉讼冻结其资产而陷入瘫痪。卢恒通过空壳公司获取非洲稀缺的IPv4地址（占非洲总量5%），并违规转售至境外，部分IP甚至涉及儿童色情和赌博。AFRINIC曾收回其IP，但卢恒在毛里求斯发起25起诉讼，利用法律漏洞瘫痪该机构运营。目前AFRINIC由官方接管，但核心功能仍受阻，威胁非洲互联网发展。
-
----
-
-## <a name="12"></a>12. AI驱动的搜索研究现已真正实用 
+## <a name="11"></a>11. AI驱动的搜索研究现已真正实用 
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/21/ai-assisted-search/): AI assisted search-based research works now</small>
 
 
-| 🔥: 97 \| 💬: [49](https://news.ycombinator.com/item?id=43752262) \| 🗓️ 2025-04-21
+| 🔥🔥: 109 \| 💬: [57](https://news.ycombinator.com/item?id=43752262) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -174,11 +162,23 @@ Simon Willison在2025年4月21日的博客中指出，经过两年半的发展�
 
 ---
 
+## <a name="12"></a>12. 非洲互联网资源遭窃取：中国商人操控IP地址牟利 
+<small>🔗 [capeindependent.com](https://www.capeindependent.com/article/the-campaign-to-subvert-africas-internet-registry): The campaign to subvert Africa's internet registry</small>
+
+
+| 🔥: 100 \| 💬: [24](https://news.ycombinator.com/item?id=43753738) \| 🗓️ 2025-04-21
+
+
+<br />
+非洲互联网注册机构**AFRINIC**原定选举新董事会，但因中国公民**卢恒**通过诉讼冻结其资产而陷入瘫痪。卢恒通过空壳公司获取非洲稀缺的IPv4地址（占非洲总量5%），并违规转售至境外，部分IP甚至涉及儿童色情和赌博。AFRINIC曾收回其IP，但卢恒在毛里求斯发起25起诉讼，利用法律漏洞瘫痪该机构运营。目前AFRINIC由官方接管，但核心功能仍受阻，威胁非洲互联网发展。
+
+---
+
 ## <a name="13"></a>13. 美国国家劳工关系委员会（NLRB）内部举报人揭露DOGE项目异常情况 
 <small>🔗 [whistlebloweraid.org](https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf): Whistleblower statement on anomalies at time of DOGE work at NLRB [pdf]</small>
 
 
-| 🔥: 97 \| 💬: [13](https://news.ycombinator.com/item?id=43755298) \| 🗓️ 2025-04-21
+| 🔥: 100 \| 💬: [13](https://news.ycombinator.com/item?id=43755298) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -186,23 +186,11 @@ Simon Willison在2025年4月21日的博客中指出，经过两年半的发展�
 
 ---
 
-## <a name="14"></a>14. 官方滥用国家安全手段：从恶劣走向骇人听闻 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/04/14/opinion_secret_state_security/?td=rt-3a): Official abuse of state security has always been bad, now it's horrifying</small>
-
-
-| 🔥: 92 \| 💬: [9](https://news.ycombinator.com/item?id=43750144) \| 🗓️ 2025-04-21
-
-
-<br />
-英国政府试图秘密要求**苹果**在iCloud加密系统中植入后门，但遭拒绝后，苹果直接移除了英国用户的相关功能。此事因**秘密法庭**的争议浮出水面——法庭驳回了政府保密请求，暴露了其滥用国家安全名义的行为。与此同时，美国前总统**特朗普**以“压制言论自由”为由，撤销网络安全官员的安全许可，将国家安全机制武器化。文章指出，**数字时代的安全滥用危害更大**，需通过法律手段严惩此类行为，否则将威胁民主根基。
-
----
-
-## <a name="15"></a>15. Nerdlog：高效多主机日志查看工具，带时间轴直方图 
+## <a name="14"></a>14. Nerdlog：高效多主机日志查看工具，带时间轴直方图 
 <small>🔗 [github.com](https://github.com/dimonomid/nerdlog): Show HN: Nerdlog – Fast, multi-host TUI log viewer with timeline histogram</small>
 
 
-| 🔥: 91 \| 💬: [37](https://news.ycombinator.com/item?id=43750765) \| 🗓️ 2025-04-21
+| 🔥: 94 \| 💬: [37](https://news.ycombinator.com/item?id=43750765) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -210,11 +198,23 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 ---
 
+## <a name="15"></a>15. 官方滥用国家安全手段：从恶劣走向骇人听闻 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/04/14/opinion_secret_state_security/?td=rt-3a): Official abuse of state security has always been bad, now it's horrifying</small>
+
+
+| 🔥: 92 \| 💬: [10](https://news.ycombinator.com/item?id=43750144) \| 🗓️ 2025-04-21
+
+
+<br />
+英国政府试图秘密要求**苹果**在iCloud加密系统中植入后门，但遭拒绝后，苹果直接移除了英国用户的相关功能。此事因**秘密法庭**的争议浮出水面——法庭驳回了政府保密请求，暴露了其滥用国家安全名义的行为。与此同时，美国前总统**特朗普**以“压制言论自由”为由，撤销网络安全官员的安全许可，将国家安全机制武器化。文章指出，**数字时代的安全滥用危害更大**，需通过法律手段严惩此类行为，否则将威胁民主根基。
+
+---
+
 ## <a name="16"></a>16. 价格调整公告 
 <small>🔗 [windsurf.com](https://windsurf.com/blog/pricing-v2): An update to our pricing</small>
 
 
-| 🔥: 73 \| 💬: [46](https://news.ycombinator.com/item?id=43755321) \| 🗓️ 2025-04-21
+| 🔥: 87 \| 💬: [58](https://news.ycombinator.com/item?id=43755321) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -222,7 +222,31 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 ---
 
-## <a name="17"></a>17. 正则表达式并不难（2023） 
+## <a name="17"></a>17. 苹果用户遭窃后数据被永久封锁，受害者集体起诉 
+<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/04/20/apple-stolen-iphone-lawsuit-theft/): Thieves took their iPhones. Apple won't give their digital lives back</small>
+
+
+| 🔥: 76 \| 💬: [64](https://news.ycombinator.com/item?id=43755753) \| 🗓️ 2025-04-21
+
+
+<br />
+多名iPhone用户在手机被盗后，因**恢复密钥**被窃贼篡改，导致永久无法访问iCloud中的照片、工作文件等个人数据。尽管苹果掌握部分数据的解密密钥，却以**隐私保护政策**为由拒绝协助恢复。一起索赔500万美元的集体诉讼正在加州进行，原告指控苹果变相协助犯罪。最新推出的**失窃设备保护**功能需手动开启，多数用户并不知情。受害者呼吁苹果建立更灵活的身份验证机制，而非僵化执行安全协议。
+
+---
+
+## <a name="18"></a>18. 表格化编程：受限环境下的表达性计算新范式 
+<small>🔗 [sam.elborai.me](https://sam.elborai.me/articles/tabular-programming/): Tabular Programming: A New Paradigm for Expressive Computing</small>
+
+
+| 🔥: 74 \| 💬: [17](https://news.ycombinator.com/item?id=43751168) \| 🗓️ 2025-04-21
+
+
+<br />
+作者受便携音乐设备m8启发，提出一种基于**表格化界面**的编程范式，专为8键微型硬件设计。核心是将代码组织为结构化表格，每行函数限定5个表达式，强制**原子化分解**，提升可维护性。通过硬件约束（如Teensy微控制器）重构编程逻辑，实现**无键盘操作**和显式数据流。文中以经典demo特效（如等离子动画）为例，展示如何在极简界面中完成复杂计算，并探讨其在像素艺术等创意工具中的潜力。
+
+---
+
+## <a name="19"></a>19. 正则表达式并不难（2023） 
 <small>🔗 [timkellogg.me](https://timkellogg.me/blog/2023/07/11/regex): Regex Isn't Hard (2023)</small>
 
 
@@ -234,23 +258,11 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 ---
 
-## <a name="18"></a>18. 表格化编程：受限环境下的表达性计算新范式 
-<small>🔗 [sam.elborai.me](https://sam.elborai.me/articles/tabular-programming/): Tabular Programming: A New Paradigm for Expressive Computing</small>
-
-
-| 🔥: 66 \| 💬: [15](https://news.ycombinator.com/item?id=43751168) \| 🗓️ 2025-04-21
-
-
-<br />
-作者受便携音乐设备m8启发，提出一种基于**表格化界面**的编程范式，专为8键微型硬件设计。核心是将代码组织为结构化表格，每行函数限定5个表达式，强制**原子化分解**，提升可维护性。通过硬件约束（如Teensy微控制器）重构编程逻辑，实现**无键盘操作**和显式数据流。文中以经典demo特效（如等离子动画）为例，展示如何在极简界面中完成复杂计算，并探讨其在像素艺术等创意工具中的潜力。
-
----
-
-## <a name="19"></a>19. ChatGPT等AI工具正在削弱人类智力吗？ 
+## <a name="20"></a>20. ChatGPT等AI工具正在削弱人类智力吗？ 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/apr/19/dont-ask-what-ai-can-do-for-us-ask-what-it-is-doing-to-us-are-chatgpt-and-co-harming-human-intelligence): Are ChatGPT and co harming human intelligence?</small>
 
 
-| 🔥: 65 \| 💬: [76](https://news.ycombinator.com/item?id=43750165) \| 🗓️ 2025-04-21
+| 🔥: 66 \| 💬: [76](https://news.ycombinator.com/item?id=43750165) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -258,19 +270,19 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 ---
 
-## <a name="20"></a>20. 苹果用户遭窃后数据被永久封锁，受害者集体起诉 
-<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/04/20/apple-stolen-iphone-lawsuit-theft/): Thieves took their iPhones. Apple won't give their digital lives back</small>
+## <a name="21"></a>21. 1是质数吗？这个问题为何重要？ 
+<small>🔗 [mathenchant.wordpress.com](https://mathenchant.wordpress.com/2025/04/21/is-1-prime-and-does-it-matter/): Is 1 Prime, and Does It Matter?</small>
 
 
-| 🔥: 64 \| 💬: [46](https://news.ycombinator.com/item?id=43755753) \| 🗓️ 2025-04-21
+| 🔥: 58 \| 💬: [82](https://news.ycombinator.com/item?id=43755506) \| 🗓️ 2025-04-21
 
 
 <br />
-多名iPhone用户在手机被盗后，因**恢复密钥**被窃贼篡改，导致永久无法访问iCloud中的照片、工作文件等个人数据。尽管苹果掌握部分数据的解密密钥，却以**隐私保护政策**为由拒绝协助恢复。一起索赔500万美元的集体诉讼正在加州进行，原告指控苹果变相协助犯罪。最新推出的**失窃设备保护**功能需手动开启，多数用户并不知情。受害者呼吁苹果建立更灵活的身份验证机制，而非僵化执行安全协议。
+关于数字1是否属于**质数**的争议历史悠久。古希腊毕达哥拉斯学派认为1是构建数字的"单位"而非质数，而柏拉图学派则持相反观点。18世纪数学家欧拉和20世纪的哈代也曾将1归类为质数，体现了数学定义的灵活性。现代数学界达成共识将1排除在质数之外，主要因其会导致**算术基本定理**（唯一分解定理）等核心概念表述复杂化。但1的独特性使其被归为**单位数**，在代数数论中具有特殊地位。这场争论的本质并非数学真理的对立，而是人类为追求理论简洁性对术语的优化选择。
 
 ---
 
-## <a name="21"></a>21. Pixtrim：基于Rust和WASM的极速客户端图片压缩工具 
+## <a name="22"></a>22. Pixtrim：基于Rust和WASM的极速客户端图片压缩工具 
 <small>🔗 [image-compressor-five-azure.vercel.app](https://image-compressor-five-azure.vercel.app/): Show HN: Pixtrim – Fast Client-Side Image Compression (Rust and WASM)</small>
 
 
