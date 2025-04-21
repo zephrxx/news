@@ -27,7 +27,7 @@ tags:
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/): Gemma 3 QAT Models: Bringing AI to Consumer GPUs</small>
 
 
-| 🔥🔥: 449 \| 💬: [200](https://news.ycombinator.com/item?id=43743337) \| 🗓️ 2025-04-20
+| 🔥🔥: 461 \| 💬: [207](https://news.ycombinator.com/item?id=43743337) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [fxrant.blogspot.com](https://fxrant.blogspot.com/2025/04/the-movie-mistake-mystery-from-revenge.html): The movie mistake mystery from "Revenge of the Sith"</small>
 
 
-| 🔥🔥: 344 \| 💬: [102](https://news.ycombinator.com/item?id=43745141) \| 🗓️ 2025-04-20
+| 🔥🔥: 354 \| 💬: [110](https://news.ycombinator.com/item?id=43745141) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [matklad.github.io](https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html): Things Zig comptime won't do</small>
 
 
-| 🔥🔥: 309 \| 💬: [112](https://news.ycombinator.com/item?id=43744591) \| 🗓️ 2025-04-20
+| 🔥🔥: 324 \| 💬: [116](https://news.ycombinator.com/item?id=43744591) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -66,7 +66,7 @@ Zig的**`comptime`**功能以泛型、条件编译等能力著称，但其设计
 <small>🔗 [theahura.substack.com](https://theahura.substack.com/p/tech-things-openai-buys-windsurf): Why is OpenAI buying Windsurf?</small>
 
 
-| 🔥🔥: 193 \| 💬: [185](https://news.ycombinator.com/item?id=43743993) \| 🗓️ 2025-04-20
+| 🔥🔥: 197 \| 💬: [186](https://news.ycombinator.com/item?id=43743993) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -78,7 +78,7 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 <small>🔗 [news.azpm.org](https://news.azpm.org/p/news-articles/2025/4/18/224512-us-citizen-in-arizona-detained-by-immigration-officials-for-10-days/): U.S. citizen in Arizona detained by immigration officials for 10 days</small>
 
 
-| 🔥🔥: 187 \| 💬: [59](https://news.ycombinator.com/item?id=43745469) \| 🗓️ 2025-04-20
+| 🔥🔥: 188 \| 💬: [59](https://news.ycombinator.com/item?id=43745469) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -90,7 +90,7 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 <small>🔗 [oneusefulthing.org](https://www.oneusefulthing.org/p/on-jagged-agi-o3-gemini-25-and-everything): Jagged AGI: o3, Gemini 2.5, and everything after</small>
 
 
-| 🔥🔥: 170 \| 💬: [191](https://news.ycombinator.com/item?id=43744173) \| 🗓️ 2025-04-20
+| 🔥🔥: 180 \| 💬: [196](https://news.ycombinator.com/item?id=43744173) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -102,7 +102,7 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 <small>🔗 [carette.xyz](https://www.carette.xyz/posts/focus_will_be_the_skill_of_the_future/): The skill of the future is not 'AI', but 'Focus'</small>
 
 
-| 🔥🔥: 161 \| 💬: [66](https://news.ycombinator.com/item?id=43744394) \| 🗓️ 2025-04-20
+| 🔥🔥: 163 \| 💬: [67](https://news.ycombinator.com/item?id=43744394) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -114,7 +114,7 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 <small>🔗 [blues.win](https://blues.win/posts/joy-of-linux-theming/): The Joy of Linux Theming in the Age of Bootable Containers</small>
 
 
-| 🔥🔥: 120 \| 💬: [50](https://news.ycombinator.com/item?id=43743784) \| 🗓️ 2025-04-20
+| 🔥🔥: 122 \| 💬: [51](https://news.ycombinator.com/item?id=43743784) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -126,7 +126,7 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 <small>🔗 [colors2.alessandroroussel.com](https://colors2.alessandroroussel.com/): Find the Odd Disk</small>
 
 
-| 🔥: 96 \| 💬: [69](https://news.ycombinator.com/item?id=43745868) \| 🗓️ 2025-04-20
+| 🔥: 99 \| 💬: [73](https://news.ycombinator.com/item?id=43745868) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -138,7 +138,7 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 <small>🔗 [github.com](https://github.com/maximecb/Turing-Drawings): Turing-Drawings</small>
 
 
-| 🔥: 95 \| 💬: [32](https://news.ycombinator.com/item?id=43744609) \| 🗓️ 2025-04-20
+| 🔥: 97 \| 💬: [32](https://news.ycombinator.com/item?id=43744609) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -148,23 +148,11 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 
 ---
 
-## <a name="11"></a>11. 信号嘉年华 
-<small>🔗 [quiss.org](https://www.quiss.org/signal_carnival/): Signal Carnival</small>
-
-
-| 🔥: 90 \| 💬: [8](https://news.ycombinator.com/item?id=43745040) \| 🗓️ 2025-04-20
-
-
-<br />
-在Revision 2025上发布的《**信号嘉年华**》是一款创新的C64演示程序，要求用户交换音频和视频线缆。这是首个通过**视频信号生成音乐**（利用VIC芯片的246kHz写入速率）和**音频信号驱动屏幕**（通过SID芯片的即时音量寄存器）的作品。视频因模拟带通滤波而模糊，但巧妙利用纹理掩盖了缺陷。加载器支持实时音频生成，并采用动态GCR解码表生成工具。演示突破了传统硬件限制，展现了C64的另类潜能。
-
----
-
-## <a name="12"></a>12. 美防长被曝在私人聊天群泄露也门空袭细节 
+## <a name="11"></a>11. 美防长被曝在私人聊天群泄露也门空袭细节 
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/apr/20/pete-hegseth-signal-chat-yemen-attack): Pete Hegseth shared Yemen attack details in second Signal chat</small>
 
 
-| 🔥: 90 \| 💬: [27](https://news.ycombinator.com/item?id=43747310) \| 🗓️ 2025-04-20
+| 🔥: 97 \| 💬: [31](https://news.ycombinator.com/item?id=43747310) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -172,11 +160,23 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 
 ---
 
+## <a name="12"></a>12. 信号嘉年华 
+<small>🔗 [quiss.org](https://www.quiss.org/signal_carnival/): Signal Carnival</small>
+
+
+| 🔥: 93 \| 💬: [8](https://news.ycombinator.com/item?id=43745040) \| 🗓️ 2025-04-20
+
+
+<br />
+在Revision 2025上发布的《**信号嘉年华**》是一款创新的C64演示程序，要求用户交换音频和视频线缆。这是首个通过**视频信号生成音乐**（利用VIC芯片的246kHz写入速率）和**音频信号驱动屏幕**（通过SID芯片的即时音量寄存器）的作品。视频因模拟带通滤波而模糊，但巧妙利用纹理掩盖了缺陷。加载器支持实时音频生成，并采用动态GCR解码表生成工具。演示突破了传统硬件限制，展现了C64的另类潜能。
+
+---
+
 ## <a name="13"></a>13. 每日三宗罪：美国普通人如何被模糊法律围猎 
 <small>🔗 [kottke.org](https://kottke.org/13/06/you-commit-three-felonies-a-day): Three Felonies a Day (2013)</small>
 
 
-| 🔥: 80 \| 💬: [85](https://news.ycombinator.com/item?id=43742859) \| 🗓️ 2025-04-20
+| 🔥: 81 \| 💬: [85](https://news.ycombinator.com/item?id=43742859) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -188,7 +188,7 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/): New Proof Settles Decades-Old Bet About Connected Networks</small>
 
 
-| 🔥: 74 \| 💬: [15](https://news.ycombinator.com/item?id=43745261) \| 🗓️ 2025-04-20
+| 🔥: 75 \| 💬: [16](https://news.ycombinator.com/item?id=43745261) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -196,23 +196,11 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 
 ---
 
-## <a name="15"></a>15. 摇摇欲坠的旧金山 
-<small>🔗 [rachdele.substack.com](https://rachdele.substack.com/p/slouching-towards-san-francisco): Slouching towards San Francisco</small>
-
-
-| 🔥: 68 \| 💬: [65](https://news.ycombinator.com/item?id=43743915) \| 🗓️ 2025-04-20
-
-
-<br />
-作者以局外人视角观察**科技寡头**主导下的旧金山：AI派对中人们用ChatGPT验证观点，无人车与“停止雇佣人类”的广告并存。城市18.7%的岗位属科技业，却掌控着话语权，**贫富分化**加剧——豪华派对与无家可归者形成刺眼对比。科技资本正转向右翼政治，而公共教育、住房危机持续恶化。尽管城市仍有阳光下的咖啡馆和公园，但经济地震的阴影笼罩着所有人，**乌托邦承诺**与底层现实割裂成两个平行世界。
-
----
-
-## <a name="16"></a>16. 拆解事务型系统的核心逻辑 
+## <a name="15"></a>15. 拆解事务型系统的核心逻辑 
 <small>🔗 [transactional.blog](https://transactional.blog/blog/2025-decomposing-transactional-systems): Decomposing Transactional Systems</small>
 
 
-| 🔥: 67 \| 💬: [4](https://news.ycombinator.com/item?id=43746461) \| 🗓️ 2025-04-20
+| 🔥: 72 \| 💬: [4](https://news.ycombinator.com/item?id=43746461) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -220,7 +208,43 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 
 ---
 
-## <a name="17"></a>17. 椭圆曲线到底是什么鬼？ 
+## <a name="16"></a>16. 摇摇欲坠的旧金山 
+<small>🔗 [rachdele.substack.com](https://rachdele.substack.com/p/slouching-towards-san-francisco): Slouching towards San Francisco</small>
+
+
+| 🔥: 69 \| 💬: [65](https://news.ycombinator.com/item?id=43743915) \| 🗓️ 2025-04-20
+
+
+<br />
+作者以局外人视角观察**科技寡头**主导下的旧金山：AI派对中人们用ChatGPT验证观点，无人车与“停止雇佣人类”的广告并存。城市18.7%的岗位属科技业，却掌控着话语权，**贫富分化**加剧——豪华派对与无家可归者形成刺眼对比。科技资本正转向右翼政治，而公共教育、住房危机持续恶化。尽管城市仍有阳光下的咖啡馆和公园，但经济地震的阴影笼罩着所有人，**乌托邦承诺**与底层现实割裂成两个平行世界。
+
+---
+
+## <a name="17"></a>17. 数字影院加密技术解析 
+<small>🔗 [serverless.industries](https://serverless.industries/2024/05/31/digital-cinema.en.html): How encryption for Cinema Movies works</small>
+
+
+| 🔥: 67 \| 💬: [25](https://news.ycombinator.com/item?id=43745281) \| 🗓️ 2025-04-20
+
+
+<br />
+本文介绍了**数字影院倡议（DCI）**标准如何通过加密技术保护电影分发安全。**数字影院包（DCP）**包含加密的JPEG2000视频帧和音频数据，使用**AES-128密钥**静态加密。密钥通过**密钥传递消息（KDM）**动态分发，KDM使用投影系统的公钥加密，确保仅目标设备可解密。文中还提到证书过期导致《旺卡》放映失败的案例，并解释了补充DCP（VF）如何通过替换音轨支持多语言版本。
+
+---
+
+## <a name="18"></a>18. 加拿大兴起“家庭画廊”：藏在后院、鸡舍与公寓里的艺术革命 
+<small>🔗 [cbc.ca](https://www.cbc.ca/arts/home-galleries-are-hiding-in-plain-sight-across-canada-1.7503886): Home galleries are hiding in plain sight across Canada</small>
+
+
+| 🔥: 66 \| 💬: [20](https://news.ycombinator.com/item?id=43744636) \| 🗓️ 2025-04-20
+
+
+<br />
+随着生活成本攀升，加拿大各地涌现出**非传统艺术空间**——从多伦多后院（如Erin Storus的**Garden Variety**）、蒙特利尔公寓（Marie Ségolène Brault的**Espace Maurice**）到安大略省鸡舍（Alexander Rondeau的**Between Pheasants Contemporary**）。这些**DIY画廊**由新兴策展人创办，成本低廉且充满社区活力，既为艺术家提供展示平台，也重塑了观众与艺术的互动方式。例如，Storus将烧烤派对变为露天展览，而Rondeau甚至让作品与家禽共处一室。这种模式因灵活性与亲近感持续扩张，成为高租金时代下的艺术新生态。
+
+---
+
+## <a name="19"></a>19. 椭圆曲线到底是什么鬼？ 
 <small>🔗 [onlynv.dev](https://onlynv.dev/blog/what-the-hell-is-an-elliptic-curve): What the hell is an elliptic curve?</small>
 
 
@@ -232,23 +256,11 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 
 ---
 
-## <a name="18"></a>18. 加拿大兴起“家庭画廊”：藏在后院、鸡舍与公寓里的艺术革命 
-<small>🔗 [cbc.ca](https://www.cbc.ca/arts/home-galleries-are-hiding-in-plain-sight-across-canada-1.7503886): Home galleries are hiding in plain sight across Canada</small>
-
-
-| 🔥: 64 \| 💬: [20](https://news.ycombinator.com/item?id=43744636) \| 🗓️ 2025-04-20
-
-
-<br />
-随着生活成本攀升，加拿大各地涌现出**非传统艺术空间**——从多伦多后院（如Erin Storus的**Garden Variety**）、蒙特利尔公寓（Marie Ségolène Brault的**Espace Maurice**）到安大略省鸡舍（Alexander Rondeau的**Between Pheasants Contemporary**）。这些**DIY画廊**由新兴策展人创办，成本低廉且充满社区活力，既为艺术家提供展示平台，也重塑了观众与艺术的互动方式。例如，Storus将烧烤派对变为露天展览，而Rondeau甚至让作品与家禽共处一室。这种模式因灵活性与亲近感持续扩张，成为高租金时代下的艺术新生态。
-
----
-
-## <a name="19"></a>19. Falsify：Haskell中受Hypothesis启发的收缩测试库 
+## <a name="20"></a>20. Falsify：Haskell中受Hypothesis启发的收缩测试库 
 <small>🔗 [well-typed.com](https://www.well-typed.com/blog/2023/04/falsify/): Falsify: Hypothesis-Inspired Shrinking for Haskell (2023)</small>
 
 
-| 🔥: 56 \| 💬: [11](https://news.ycombinator.com/item?id=43746017) \| 🗓️ 2025-04-20
+| 🔥: 58 \| 💬: [11](https://news.ycombinator.com/item?id=43746017) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -256,11 +268,11 @@ Edsko de Vries在2023年4月18日介绍了**falsify**，这是一个为Haskell�
 
 ---
 
-## <a name="20"></a>20. 通过线性定理突破大语言模型量化的极限 
+## <a name="21"></a>21. 通过线性定理突破大语言模型量化的极限 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2411.17525): Pushing the Limits of LLM Quantization via the Linearity Theorem</small>
 
 
-| 🔥: 51 \| 💬: [2](https://news.ycombinator.com/item?id=43744343) \| 🗓️ 2025-04-20
+| 🔥: 56 \| 💬: [2](https://news.ycombinator.com/item?id=43744343) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -268,19 +280,19 @@ Edsko de Vries在2023年4月18日介绍了**falsify**，这是一个为Haskell�
 
 ---
 
-## <a name="21"></a>21. 数字影院加密技术解析 
-<small>🔗 [serverless.industries](https://serverless.industries/2024/05/31/digital-cinema.en.html): How encryption for Cinema Movies works</small>
+## <a name="22"></a>22. TikZJax：在HTML中嵌入LaTeX绘图工具 
+<small>🔗 [tikzjax.com](https://tikzjax.com/): TikZJax: Embedding LaTeX Drawings in HTML</small>
 
 
-| 🔥: 51 \| 💬: [21](https://news.ycombinator.com/item?id=43745281) \| 🗓️ 2025-04-20
+| 🔥: 51 \| 💬: [13](https://news.ycombinator.com/item?id=43746831) \| 🗓️ 2025-04-20
 
 
 <br />
-本文介绍了**数字影院倡议（DCI）**标准如何通过加密技术保护电影分发安全。**数字影院包（DCP）**包含加密的JPEG2000视频帧和音频数据，使用**AES-128密钥**静态加密。密钥通过**密钥传递消息（KDM）**动态分发，KDM使用投影系统的公钥加密，确保仅目标设备可解密。文中还提到证书过期导致《旺卡》放映失败的案例，并解释了补充DCP（VF）如何通过替换音轨支持多语言版本。
+TikZJax能将包含**TikZ代码**的`<script>`标签转换为**SVG图像**，无需服务器支持，完全在浏览器中运行。用户只需引入相关JS和CSS文件，即可在HTML中直接编写TikZ代码（如绘制圆形或交换图表），并自动渲染为矢量图形。其核心技术通过**WebAssembly**编译TeX引擎，结合SVG驱动实现高效转换，适用于数学公式、图表等场景。演示见[tikzjax.com](https://tikzjax.com/)。
 
 ---
 
-## <a name="22"></a>22. 低生育率并非人类文明的威胁 
+## <a name="23"></a>23. 低生育率并非人类文明的威胁 
 <small>🔗 [currentaffairs.org](https://www.currentaffairs.org/news/there-are-many-threats-to-humanity.-a-low-birth-rate-isnt-one-of-them): There Are Many Threats to Humanity. A Low Birth Rate Isn't One of Them</small>
 
 
@@ -292,11 +304,11 @@ Edsko de Vries在2023年4月18日介绍了**falsify**，这是一个为Haskell�
 
 ---
 
-## <a name="23"></a>23. 特斯拉和解种族歧视诉讼：员工控诉"欢迎来到种植园"言论 
+## <a name="24"></a>24. 特斯拉和解种族歧视诉讼：员工控诉"欢迎来到种植园"言论 
 <small>🔗 [the-independent.com](https://www.the-independent.com/news/world/americas/musk-tesla-fremont-california-lawsuit-discrimination-b2735810.html): Tesla settles with worker who claimed employees told "welcome to the plantation"</small>
 
 
-| 🔥: 39 \| 💬: [20](https://news.ycombinator.com/item?id=43745474) \| 🗓️ 2025-04-20
+| 🔥: 40 \| 💬: [20](https://news.ycombinator.com/item?id=43745474) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -304,26 +316,14 @@ Edsko de Vries在2023年4月18日介绍了**falsify**，这是一个为Haskell�
 
 ---
 
-## <a name="24"></a>24. OAuth在MCP安全中的角色与局限 
+## <a name="25"></a>25. OAuth在MCP安全中的角色与局限 
 <small>🔗 [defensiblesystems.substack.com](https://defensiblesystems.substack.com/p/oauths-role-in-mcp-security): OAuth's Role in MCP Security</small>
 
 
-| 🔥: 35 \| 💬: [6](https://news.ycombinator.com/item?id=43744116) \| 🗓️ 2025-04-20
+| 🔥: 36 \| 💬: [6](https://news.ycombinator.com/item?id=43744116) \| 🗓️ 2025-04-20
 
 
 <br />
 本文探讨了**OAuth**作为身份验证层在Anthropic推出的**Model Context Protocol (MCP)**中的潜在作用与风险。尽管OAuth广泛用于API安全，但其默认配置无法直接解决MCP集成中的关键问题，如**强身份验证**、防凭证盗用、设备识别及细粒度访问控制。作者指出，单纯依赖OAuth可能导致权限过度开放，而安全团队需额外配置和监控才能弥补协议固有缺陷。MCP的快速普及暴露了传统安全协议在新场景中的不足，需结合代理层和策略调优应对新型攻击面。
-
----
-
-## <a name="25"></a>25. 基督教始终属于穷人（2024） 
-<small>🔗 [jacobin.com](https://jacobin.com/2024/03/christianity-poor-debt-jesus-moses-wealth): Christianity Was Always for the Poor (2024)</small>
-
-
-| 🔥: 32 \| 💬: [27](https://news.ycombinator.com/item?id=43745088) \| 🗓️ 2025-04-20
-
-
-<br />
-本文探讨了**基督教早期教义**对财富的激进立场，指出《新约》明确将个人财富视为**本质之恶**，而非仅道德风险。耶稣要求信徒变卖财产、共享资源（如《使徒行传》中的**κοινωνία**实践），并警告富人难进天国。早期教父如巴西尔、金口约翰等延续此传统，谴责私有制为盗窃。然而，随着基督教制度化，这一激进立场逐渐淡化，仅存于少数修道运动。文章强调，现代主流基督教对财富的“常识性”解读背离了原始教义。
 
 ---
