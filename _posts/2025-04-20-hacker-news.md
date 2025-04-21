@@ -27,7 +27,7 @@ tags:
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/): Gemma 3 QAT Models: Bringing AI to Consumer GPUs</small>
 
 
-| 🔥🔥: 414 \| 💬: [192](https://news.ycombinator.com/item?id=43743337) \| 🗓️ 2025-04-20
+| 🔥🔥: 428 \| 💬: [196](https://news.ycombinator.com/item?id=43743337) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [fxrant.blogspot.com](https://fxrant.blogspot.com/2025/04/the-movie-mistake-mystery-from-revenge.html): The movie mistake mystery from "Revenge of the Sith"</small>
 
 
-| 🔥🔥: 311 \| 💬: [97](https://news.ycombinator.com/item?id=43745141) \| 🗓️ 2025-04-20
+| 🔥🔥: 325 \| 💬: [102](https://news.ycombinator.com/item?id=43745141) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [matklad.github.io](https://matklad.github.io/2025/04/19/things-zig-comptime-wont-do.html): Things Zig comptime won't do</small>
 
 
-| 🔥🔥: 289 \| 💬: [104](https://news.ycombinator.com/item?id=43744591) \| 🗓️ 2025-04-20
+| 🔥🔥: 301 \| 💬: [111](https://news.ycombinator.com/item?id=43744591) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -66,7 +66,7 @@ Zig的**`comptime`**功能以泛型、条件编译等能力著称，但其设计
 <small>🔗 [theahura.substack.com](https://theahura.substack.com/p/tech-things-openai-buys-windsurf): Why is OpenAI buying Windsurf?</small>
 
 
-| 🔥🔥: 189 \| 💬: [179](https://news.ycombinator.com/item?id=43743993) \| 🗓️ 2025-04-20
+| 🔥🔥: 191 \| 💬: [183](https://news.ycombinator.com/item?id=43743993) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -78,7 +78,7 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 <small>🔗 [news.azpm.org](https://news.azpm.org/p/news-articles/2025/4/18/224512-us-citizen-in-arizona-detained-by-immigration-officials-for-10-days/): U.S. citizen in Arizona detained by immigration officials for 10 days</small>
 
 
-| 🔥🔥: 183 \| 💬: [58](https://news.ycombinator.com/item?id=43745469) \| 🗓️ 2025-04-20
+| 🔥🔥: 184 \| 💬: [58](https://news.ycombinator.com/item?id=43745469) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -90,7 +90,7 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 <small>🔗 [oneusefulthing.org](https://www.oneusefulthing.org/p/on-jagged-agi-o3-gemini-25-and-everything): Jagged AGI: o3, Gemini 2.5, and everything after</small>
 
 
-| 🔥🔥: 156 \| 💬: [184](https://news.ycombinator.com/item?id=43744173) \| 🗓️ 2025-04-20
+| 🔥🔥: 160 \| 💬: [189](https://news.ycombinator.com/item?id=43744173) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -102,7 +102,7 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 <small>🔗 [carette.xyz](https://www.carette.xyz/posts/focus_will_be_the_skill_of_the_future/): The skill of the future is not 'AI', but 'Focus'</small>
 
 
-| 🔥🔥: 155 \| 💬: [63](https://news.ycombinator.com/item?id=43744394) \| 🗓️ 2025-04-20
+| 🔥🔥: 157 \| 💬: [65](https://news.ycombinator.com/item?id=43744394) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -114,7 +114,7 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 <small>🔗 [blues.win](https://blues.win/posts/joy-of-linux-theming/): The Joy of Linux Theming in the Age of Bootable Containers</small>
 
 
-| 🔥🔥: 109 \| 💬: [42](https://news.ycombinator.com/item?id=43743784) \| 🗓️ 2025-04-20
+| 🔥🔥: 115 \| 💬: [47](https://news.ycombinator.com/item?id=43743784) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -126,7 +126,7 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 <small>🔗 [github.com](https://github.com/maximecb/Turing-Drawings): Turing-Drawings</small>
 
 
-| 🔥: 92 \| 💬: [31](https://news.ycombinator.com/item?id=43744609) \| 🗓️ 2025-04-20
+| 🔥: 95 \| 💬: [32](https://news.ycombinator.com/item?id=43744609) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -136,11 +136,23 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 
 ---
 
-## <a name="10"></a>10. 信号嘉年华 
+## <a name="10"></a>10. 找出颜色不同的圆盘 
+<small>🔗 [colors2.alessandroroussel.com](https://colors2.alessandroroussel.com/): Find the Odd Disk</small>
+
+
+| 🔥: 88 \| 💬: [62](https://news.ycombinator.com/item?id=43745868) \| 🗓️ 2025-04-20
+
+
+<br />
+这是一款考验眼力的游戏，玩家需要在多个颜色相近的圆盘中**快速找出颜色不同的那个**。游戏支持多语言（英语、法语、西班牙语），共20轮，失败后可重新开始。参与次数越多，贡献的**数据越有价值**。简洁的界面和明确的提示使其易于上手，适合重复游玩以提升观察力。
+
+---
+
+## <a name="11"></a>11. 信号嘉年华 
 <small>🔗 [quiss.org](https://www.quiss.org/signal_carnival/): Signal Carnival</small>
 
 
-| 🔥: 81 \| 💬: [7](https://news.ycombinator.com/item?id=43745040) \| 🗓️ 2025-04-20
+| 🔥: 87 \| 💬: [8](https://news.ycombinator.com/item?id=43745040) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -148,7 +160,7 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 
 ---
 
-## <a name="11"></a>11. 每日三宗罪：美国普通人如何被模糊法律围猎 
+## <a name="12"></a>12. 每日三宗罪：美国普通人如何被模糊法律围猎 
 <small>🔗 [kottke.org](https://kottke.org/13/06/you-commit-three-felonies-a-day): Three Felonies a Day (2013)</small>
 
 
@@ -160,35 +172,11 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 
 ---
 
-## <a name="12"></a>12. 找出颜色不同的圆盘 
-<small>🔗 [colors2.alessandroroussel.com](https://colors2.alessandroroussel.com/): Find the Odd Disk</small>
-
-
-| 🔥: 73 \| 💬: [56](https://news.ycombinator.com/item?id=43745868) \| 🗓️ 2025-04-20
-
-
-<br />
-这是一款考验眼力的游戏，玩家需要在多个颜色相近的圆盘中**快速找出颜色不同的那个**。游戏支持多语言（英语、法语、西班牙语），共20轮，失败后可重新开始。参与次数越多，贡献的**数据越有价值**。简洁的界面和明确的提示使其易于上手，适合重复游玩以提升观察力。
-
----
-
-## <a name="13"></a>13. 新证明终结数十年争议：连通网络的最佳图结构之谜 
-<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/): New Proof Settles Decades-Old Bet About Connected Networks</small>
-
-
-| 🔥: 69 \| 💬: [11](https://news.ycombinator.com/item?id=43745261) \| 🗓️ 2025-04-20
-
-
-<br />
-数学家Noga Alon和Peter Sarnak在1980年代曾就**最优扩展图**（Ramanujan图）的普遍性打赌：Sarnak认为这类图罕见且构造复杂，Alon则认为随机图几乎总能达到最优。2025年，Horng-Tzer Yau团队借助**随机矩阵理论**和**普遍性猜想**证明，两人均未完全正确——**部分而非全部**正则图能达到Alon-Boppana边界。这一突破揭示了扩展图在稀疏性与连通性之间的精确平衡，对网络编码和统计建模具有重要意义。
-
----
-
-## <a name="14"></a>14. 美防长被曝在私人聊天群泄露也门空袭细节 
+## <a name="13"></a>13. 美防长被曝在私人聊天群泄露也门空袭细节 
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/apr/20/pete-hegseth-signal-chat-yemen-attack): Pete Hegseth shared Yemen attack details in second Signal chat</small>
 
 
-| 🔥: 67 \| 💬: [19](https://news.ycombinator.com/item?id=43747310) \| 🗓️ 2025-04-20
+| 🔥: 78 \| 💬: [23](https://news.ycombinator.com/item?id=43747310) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -196,11 +184,23 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 
 ---
 
+## <a name="14"></a>14. 新证明终结数十年争议：连通网络的最佳图结构之谜 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/new-proof-settles-decades-old-bet-about-connected-networks-20250418/): New Proof Settles Decades-Old Bet About Connected Networks</small>
+
+
+| 🔥: 71 \| 💬: [12](https://news.ycombinator.com/item?id=43745261) \| 🗓️ 2025-04-20
+
+
+<br />
+数学家Noga Alon和Peter Sarnak在1980年代曾就**最优扩展图**（Ramanujan图）的普遍性打赌：Sarnak认为这类图罕见且构造复杂，Alon则认为随机图几乎总能达到最优。2025年，Horng-Tzer Yau团队借助**随机矩阵理论**和**普遍性猜想**证明，两人均未完全正确——**部分而非全部**正则图能达到Alon-Boppana边界。这一突破揭示了扩展图在稀疏性与连通性之间的精确平衡，对网络编码和统计建模具有重要意义。
+
+---
+
 ## <a name="15"></a>15. 摇摇欲坠的旧金山 
 <small>🔗 [rachdele.substack.com](https://rachdele.substack.com/p/slouching-towards-san-francisco): Slouching towards San Francisco</small>
 
 
-| 🔥: 66 \| 💬: [62](https://news.ycombinator.com/item?id=43743915) \| 🗓️ 2025-04-20
+| 🔥: 67 \| 💬: [63](https://news.ycombinator.com/item?id=43743915) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -224,7 +224,7 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 <small>🔗 [cbc.ca](https://www.cbc.ca/arts/home-galleries-are-hiding-in-plain-sight-across-canada-1.7503886): Home galleries are hiding in plain sight across Canada</small>
 
 
-| 🔥: 60 \| 💬: [18](https://news.ycombinator.com/item?id=43744636) \| 🗓️ 2025-04-20
+| 🔥: 61 \| 💬: [19](https://news.ycombinator.com/item?id=43744636) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -232,35 +232,11 @@ OpenAI以**30亿美元**收购小众AI编程工具Windsurf（前身为Codeium）
 
 ---
 
-## <a name="18"></a>18. Falsify：Haskell中受Hypothesis启发的收缩测试库 
-<small>🔗 [well-typed.com](https://www.well-typed.com/blog/2023/04/falsify/): Falsify: Hypothesis-Inspired Shrinking for Haskell (2023)</small>
-
-
-| 🔥: 49 \| 💬: [7](https://news.ycombinator.com/item?id=43746017) \| 🗓️ 2025-04-20
-
-
-<br />
-Edsko de Vries在2023年4月18日介绍了**falsify**，这是一个为Haskell设计的属性测试库，其收缩机制灵感来自Python的**Hypothesis**。与传统方法不同，falsify通过解析**样本树**而非生成随机值来实现集成收缩，从而在单子绑定中保持行为一致性。例如，测试列表元素是否全等时，库会逐步收缩样本树，生成最小反例（如`[0,1]`），使调试更直观。与QuickCheck的分立收缩或Hedgehog的集成收缩相比，falsify的样本树结构避免了值在收缩过程中的意外增长，提升了可预测性。
-
----
-
-## <a name="19"></a>19. 通过线性定理突破大语言模型量化的极限 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2411.17525): Pushing the Limits of LLM Quantization via the Linearity Theorem</small>
-
-
-| 🔥: 41 \| 💬: [0](https://news.ycombinator.com/item?id=43744343) \| 🗓️ 2025-04-20
-
-
-<br />
-该研究提出了一种**线性定理**，揭示了层间ℓ₂重建误差与量化导致的模型困惑度增加之间的直接关系。基于此，作者开发了**HIGGS**——一种无需数据的量化方法，结合Hadamard旋转和MSE最优网格，性能超越NF4等现有方案。同时，论文通过动态规划实现了**中比特位宽下非均匀分层量化的最优解**。实验表明，该方法在Llama-3和Qwen系列模型上实现了更优的精度-压缩权衡，且GPU内核支持高效部署。研究为LLM量化提供了理论依据和实用工具，推动了数据自由与非均匀量化技术的发展。
-
----
-
-## <a name="20"></a>20. 拆解事务型系统的核心逻辑 
+## <a name="18"></a>18. 拆解事务型系统的核心逻辑 
 <small>🔗 [transactional.blog](https://transactional.blog/blog/2025-decomposing-transactional-systems): Decomposing Transactional Systems</small>
 
 
-| 🔥: 41 \| 💬: [3](https://news.ycombinator.com/item?id=43746461) \| 🗓️ 2025-04-20
+| 🔥: 55 \| 💬: [4](https://news.ycombinator.com/item?id=43746461) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -268,11 +244,35 @@ Edsko de Vries在2023年4月18日介绍了**falsify**，这是一个为Haskell�
 
 ---
 
+## <a name="19"></a>19. Falsify：Haskell中受Hypothesis启发的收缩测试库 
+<small>🔗 [well-typed.com](https://www.well-typed.com/blog/2023/04/falsify/): Falsify: Hypothesis-Inspired Shrinking for Haskell (2023)</small>
+
+
+| 🔥: 54 \| 💬: [9](https://news.ycombinator.com/item?id=43746017) \| 🗓️ 2025-04-20
+
+
+<br />
+Edsko de Vries在2023年4月18日介绍了**falsify**，这是一个为Haskell设计的属性测试库，其收缩机制灵感来自Python的**Hypothesis**。与传统方法不同，falsify通过解析**样本树**而非生成随机值来实现集成收缩，从而在单子绑定中保持行为一致性。例如，测试列表元素是否全等时，库会逐步收缩样本树，生成最小反例（如`[0,1]`），使调试更直观。与QuickCheck的分立收缩或Hedgehog的集成收缩相比，falsify的样本树结构避免了值在收缩过程中的意外增长，提升了可预测性。
+
+---
+
+## <a name="20"></a>20. 通过线性定理突破大语言模型量化的极限 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2411.17525): Pushing the Limits of LLM Quantization via the Linearity Theorem</small>
+
+
+| 🔥: 45 \| 💬: [1](https://news.ycombinator.com/item?id=43744343) \| 🗓️ 2025-04-20
+
+
+<br />
+该研究提出了一种**线性定理**，揭示了层间ℓ₂重建误差与量化导致的模型困惑度增加之间的直接关系。基于此，作者开发了**HIGGS**——一种无需数据的量化方法，结合Hadamard旋转和MSE最优网格，性能超越NF4等现有方案。同时，论文通过动态规划实现了**中比特位宽下非均匀分层量化的最优解**。实验表明，该方法在Llama-3和Qwen系列模型上实现了更优的精度-压缩权衡，且GPU内核支持高效部署。研究为LLM量化提供了理论依据和实用工具，推动了数据自由与非均匀量化技术的发展。
+
+---
+
 ## <a name="21"></a>21. 低生育率并非人类文明的威胁 
 <small>🔗 [currentaffairs.org](https://www.currentaffairs.org/news/there-are-many-threats-to-humanity.-a-low-birth-rate-isnt-one-of-them): There Are Many Threats to Humanity. A Low Birth Rate Isn't One of Them</small>
 
 
-| 🔥: 39 \| 💬: [19](https://news.ycombinator.com/item?id=43745111) \| 🗓️ 2025-04-20
+| 🔥: 41 \| 💬: [23](https://news.ycombinator.com/item?id=43745111) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -280,11 +280,23 @@ Edsko de Vries在2023年4月18日介绍了**falsify**，这是一个为Haskell�
 
 ---
 
-## <a name="22"></a>22. 特斯拉和解种族歧视诉讼：员工控诉"欢迎来到种植园"言论 
+## <a name="22"></a>22. 数字影院加密技术解析 
+<small>🔗 [serverless.industries](https://serverless.industries/2024/05/31/digital-cinema.en.html): How encryption for Cinema Movies works</small>
+
+
+| 🔥: 39 \| 💬: [13](https://news.ycombinator.com/item?id=43745281) \| 🗓️ 2025-04-20
+
+
+<br />
+本文介绍了**数字影院倡议（DCI）**标准如何通过加密技术保护电影分发安全。**数字影院包（DCP）**包含加密的JPEG2000视频帧和音频数据，使用**AES-128密钥**静态加密。密钥通过**密钥传递消息（KDM）**动态分发，KDM使用投影系统的公钥加密，确保仅目标设备可解密。文中还提到证书过期导致《旺卡》放映失败的案例，并解释了补充DCP（VF）如何通过替换音轨支持多语言版本。
+
+---
+
+## <a name="23"></a>23. 特斯拉和解种族歧视诉讼：员工控诉"欢迎来到种植园"言论 
 <small>🔗 [the-independent.com](https://www.the-independent.com/news/world/americas/musk-tesla-fremont-california-lawsuit-discrimination-b2735810.html): Tesla settles with worker who claimed employees told "welcome to the plantation"</small>
 
 
-| 🔥: 36 \| 💬: [14](https://news.ycombinator.com/item?id=43745474) \| 🗓️ 2025-04-20
+| 🔥: 38 \| 💬: [17](https://news.ycombinator.com/item?id=43745474) \| 🗓️ 2025-04-20
 
 
 <br />
@@ -292,7 +304,7 @@ Edsko de Vries在2023年4月18日介绍了**falsify**，这是一个为Haskell�
 
 ---
 
-## <a name="23"></a>23. OAuth在MCP安全中的角色与局限 
+## <a name="24"></a>24. OAuth在MCP安全中的角色与局限 
 <small>🔗 [defensiblesystems.substack.com](https://defensiblesystems.substack.com/p/oauths-role-in-mcp-security): OAuth's Role in MCP Security</small>
 
 
@@ -304,35 +316,14 @@ Edsko de Vries在2023年4月18日介绍了**falsify**，这是一个为Haskell�
 
 ---
 
-## <a name="24"></a>24. 基督教始终属于穷人（2024） 
+## <a name="25"></a>25. 基督教始终属于穷人（2024） 
 <small>🔗 [jacobin.com](https://jacobin.com/2024/03/christianity-poor-debt-jesus-moses-wealth): Christianity Was Always for the Poor (2024)</small>
 
 
-| 🔥: 31 \| 💬: [25](https://news.ycombinator.com/item?id=43745088) \| 🗓️ 2025-04-20
+| 🔥: 31 \| 💬: [26](https://news.ycombinator.com/item?id=43745088) \| 🗓️ 2025-04-20
 
 
 <br />
 本文探讨了**基督教早期教义**对财富的激进立场，指出《新约》明确将个人财富视为**本质之恶**，而非仅道德风险。耶稣要求信徒变卖财产、共享资源（如《使徒行传》中的**κοινωνία**实践），并警告富人难进天国。早期教父如巴西尔、金口约翰等延续此传统，谴责私有制为盗窃。然而，随着基督教制度化，这一激进立场逐渐淡化，仅存于少数修道运动。文章强调，现代主流基督教对财富的“常识性”解读背离了原始教义。
-
----
-
-## <a name="25"></a>25. Tini：专为容器设计的极简初始化工具 
-<small>🔗 [github.com](https://github.com/krallin/tini): Tini: A tiny but valid `init` for containers</small>
-
-
-| 🔥: 29 \| 💬: [2](https://news.ycombinator.com/item?id=43744342) \| 🗓️ 2025-04-20
-
-
-<br />
-Tini 是一个超轻量级的 **init 系统**，专为容器环境设计。它能有效解决僵尸进程问题，确保信号（如 `SIGTERM`）正确传递，且无需修改现有容器配置即可使用。  
-
-主要功能包括：  
-- **僵尸进程回收**：防止系统因僵尸进程耗尽 PID。  
-- **信号转发**：确保默认信号处理逻辑生效。  
-- **透明兼容**：无需调整原有容器即可集成。  
-
-支持通过 Docker 的 `--init` 参数直接启用，或手动添加到容器的 `ENTRYPOINT`。提供静态编译版本及多平台（如 Alpine、Debian）安装包，体积小巧（约 10KB）。  
-
-适用于需要可靠进程管理的容器场景，尤其推荐 Java 等对信号敏感的应用。
 
 ---
