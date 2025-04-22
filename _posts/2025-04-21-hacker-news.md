@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [philiplaine.com](https://philiplaine.com/posts/getting-forked-by-microsoft/): Getting forked by Microsoft</small>
 
 
-| 🔥🔥: 1529 \| 💬: [804](https://news.ycombinator.com/item?id=43750535) \| 🗓️ 2025-04-21
+| 🔥🔥: 1548 \| 💬: [813](https://news.ycombinator.com/item?id=43750535) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [blog.infected.systems](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/): Blog hosted on a Nintendo Wii</small>
 
 
-| 🔥🔥: 342 \| 💬: [61](https://news.ycombinator.com/item?id=43754953) \| 🗓️ 2025-04-21
+| 🔥🔥: 360 \| 💬: [68](https://news.ycombinator.com/item?id=43754953) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/nari-labs/dia): Show HN: Dia, an open-weights TTS model for generating realistic dialogue</small>
 
 
-| 🔥🔥: 323 \| 💬: [91](https://news.ycombinator.com/item?id=43754124) \| 🗓️ 2025-04-21
+| 🔥🔥: 339 \| 💬: [111](https://news.ycombinator.com/item?id=43754124) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -63,7 +63,7 @@ Nari Labs推出的**Dia**是一款1.6B参数的开源权重文本转语音模型
 <small>🔗 [ftc.gov](https://www.ftc.gov/news-events/news/press-releases/2025/04/ftc-takes-action-against-uber-deceptive-billing-cancellation-practices): FTC takes action against Uber for deceptive billing and cancellation practices</small>
 
 
-| 🔥🔥: 275 \| 💬: [138](https://news.ycombinator.com/item?id=43754274) \| 🗓️ 2025-04-21
+| 🔥🔥: 300 \| 💬: [166](https://news.ycombinator.com/item?id=43754274) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -75,7 +75,7 @@ Nari Labs推出的**Dia**是一款1.6B参数的开源权重文本转语音模型
 <small>🔗 [ember-energy.org](https://ember-energy.org/latest-updates/fossil-fuels-fall-below-50-of-us-electricity-for-the-first-month-on-record/): Fossil fuels fall below 50% of US electricity for the first month on record</small>
 
 
-| 🔥🔥: 264 \| 💬: [255](https://news.ycombinator.com/item?id=43750617) \| 🗓️ 2025-04-21
+| 🔥🔥: 270 \| 💬: [257](https://news.ycombinator.com/item?id=43750617) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -87,7 +87,7 @@ Nari Labs推出的**Dia**是一款1.6B参数的开源权重文本转语音模型
 <small>🔗 [herecomesthemoon.net](https://herecomesthemoon.net/2025/04/pipelining/): Pipelining might be my favorite programming language feature</small>
 
 
-| 🔥🔥: 246 \| 💬: [204](https://news.ycombinator.com/item?id=43751076) \| 🗓️ 2025-04-21
+| 🔥🔥: 254 \| 💬: [216](https://news.ycombinator.com/item?id=43751076) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -118,7 +118,7 @@ Nari Labs推出的**Dia**是一款1.6B参数的开源权重文本转语音模型
 <small>🔗 [bsky.social](https://bsky.social/about/blog/04-21-2025-verification): A new form of verification on Bluesky</small>
 
 
-| 🔥🔥: 199 \| 💬: [154](https://news.ycombinator.com/item?id=43753651) \| 🗓️ 2025-04-21
+| 🔥🔥: 215 \| 💬: [161](https://news.ycombinator.com/item?id=43753651) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -130,7 +130,7 @@ Bluesky宣布升级验证系统，新增**蓝标认证**功能，平台将主动
 <small>🔗 [matthewsinclair.com](https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human): LLM-powered tools amplify developer capabilities rather than replacing them</small>
 
 
-| 🔥🔥: 187 \| 💬: [131](https://news.ycombinator.com/item?id=43752492) \| 🗓️ 2025-04-21
+| 🔥🔥: 197 \| 💬: [139](https://news.ycombinator.com/item?id=43752492) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -138,35 +138,11 @@ Bluesky宣布升级验证系统，新增**蓝标认证**功能，平台将主动
 
 ---
 
-## <a name="10"></a>10. 走出迷雾：越南“婴儿空运行动”的救赎与伤痕 
-<small>🔗 [theverge.com](https://www.theverge.com/cs/features/651701/vietnam-operation-babylift-adoption-transnational): Out of the Fog</small>
-
-
-| 🔥🔥: 128 \| 💬: [31](https://news.ycombinator.com/item?id=43752532) \| 🗓️ 2025-04-21
-
-
-<br />
-1975年，美国在越战尾声发起**“婴儿空运行动”**，以“人道救援”名义将近3000名越南儿童送往西方收养。官方宣称这是拯救混血孤儿免遭迫害，但许多孩子实为与父母失散，甚至被强行带走。首架运输机坠毁导致138人死亡，后续航班却未停歇。数十年后，被收养者面临身份认同危机，部分人遭受虐待或与原生家庭永久分离。这场行动既暴露了**战争创伤**的复杂性，也揭示了跨国收养中**权力失衡**的阴影。
-
----
-
-## <a name="11"></a>11. AI驱动的搜索研究现已真正实用 
-<small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/21/ai-assisted-search/): AI assisted search-based research works now</small>
-
-
-| 🔥🔥: 122 \| 💬: [59](https://news.ycombinator.com/item?id=43752262) \| 🗓️ 2025-04-21
-
-
-<br />
-Simon Willison在2025年4月21日的博客中指出，经过两年半的发展，**AI辅助搜索研究**终于达到实用水平。早期工具如Perplexity和GPT-4版Bing因**幻觉问题**令人失望，但2025年的**o3、o4-mini和Gemini 2.5 Pro**通过实时搜索与推理结合，显著提升了准确性和效率。例如，o4-mini成功帮作者迁移代码库，而Google和Anthropic的同类功能仍落后。这一进步可能颠覆传统搜索引擎的经济模式，但也引发对网络内容生态的担忧。
-
----
-
-## <a name="12"></a>12. EverTop：续航超百小时的电子墨水屏IBM XT复古电脑 
+## <a name="10"></a>10. EverTop：续航超百小时的电子墨水屏IBM XT复古电脑 
 <small>🔗 [github.com](https://github.com/ericjenott/Evertop): Evertop: E-ink IBM XT clone with 100+ hours of battery life</small>
 
 
-| 🔥🔥: 113 \| 💬: [28](https://news.ycombinator.com/item?id=43757037) \| 🗓️ 2025-04-21
+| 🔥🔥: 161 \| 💬: [49](https://news.ycombinator.com/item?id=43757037) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -174,11 +150,35 @@ EverTop是一款**超低功耗**的便携式电脑，复刻了IBM XT架构（801
 
 ---
 
+## <a name="11"></a>11. AI驱动的搜索研究现已真正实用 
+<small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/21/ai-assisted-search/): AI assisted search-based research works now</small>
+
+
+| 🔥🔥: 134 \| 💬: [63](https://news.ycombinator.com/item?id=43752262) \| 🗓️ 2025-04-21
+
+
+<br />
+Simon Willison在2025年4月21日的博客中指出，经过两年半的发展，**AI辅助搜索研究**终于达到实用水平。早期工具如Perplexity和GPT-4版Bing因**幻觉问题**令人失望，但2025年的**o3、o4-mini和Gemini 2.5 Pro**通过实时搜索与推理结合，显著提升了准确性和效率。例如，o4-mini成功帮作者迁移代码库，而Google和Anthropic的同类功能仍落后。这一进步可能颠覆传统搜索引擎的经济模式，但也引发对网络内容生态的担忧。
+
+---
+
+## <a name="12"></a>12. 走出迷雾：越南“婴儿空运行动”的救赎与伤痕 
+<small>🔗 [theverge.com](https://www.theverge.com/cs/features/651701/vietnam-operation-babylift-adoption-transnational): Out of the Fog</small>
+
+
+| 🔥🔥: 131 \| 💬: [31](https://news.ycombinator.com/item?id=43752532) \| 🗓️ 2025-04-21
+
+
+<br />
+1975年，美国在越战尾声发起**“婴儿空运行动”**，以“人道救援”名义将近3000名越南儿童送往西方收养。官方宣称这是拯救混血孤儿免遭迫害，但许多孩子实为与父母失散，甚至被强行带走。首架运输机坠毁导致138人死亡，后续航班却未停歇。数十年后，被收养者面临身份认同危机，部分人遭受虐待或与原生家庭永久分离。这场行动既暴露了**战争创伤**的复杂性，也揭示了跨国收养中**权力失衡**的阴影。
+
+---
+
 ## <a name="13"></a>13. 非洲互联网资源遭窃取：中国商人操控IP地址牟利 
 <small>🔗 [capeindependent.com](https://www.capeindependent.com/article/the-campaign-to-subvert-africas-internet-registry): The campaign to subvert Africa's internet registry</small>
 
 
-| 🔥🔥: 102 \| 💬: [27](https://news.ycombinator.com/item?id=43753738) \| 🗓️ 2025-04-21
+| 🔥🔥: 104 \| 💬: [27](https://news.ycombinator.com/item?id=43753738) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -190,7 +190,7 @@ EverTop是一款**超低功耗**的便携式电脑，复刻了IBM XT架构（801
 <small>🔗 [whistlebloweraid.org](https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf): Whistleblower statement on anomalies at time of DOGE work at NLRB [pdf]</small>
 
 
-| 🔥🔥: 102 \| 💬: [13](https://news.ycombinator.com/item?id=43755298) \| 🗓️ 2025-04-21
+| 🔥🔥: 104 \| 💬: [13](https://news.ycombinator.com/item?id=43755298) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -202,7 +202,7 @@ EverTop是一款**超低功耗**的便携式电脑，复刻了IBM XT架构（801
 <small>🔗 [github.com](https://github.com/dimonomid/nerdlog): Show HN: Nerdlog – Fast, multi-host TUI log viewer with timeline histogram</small>
 
 
-| 🔥: 98 \| 💬: [37](https://news.ycombinator.com/item?id=43750765) \| 🗓️ 2025-04-21
+| 🔥: 99 \| 💬: [37](https://news.ycombinator.com/item?id=43750765) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -214,7 +214,7 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 <small>🔗 [windsurf.com](https://windsurf.com/blog/pricing-v2): An update to our pricing</small>
 
 
-| 🔥: 95 \| 💬: [61](https://news.ycombinator.com/item?id=43755321) \| 🗓️ 2025-04-21
+| 🔥: 99 \| 💬: [63](https://news.ycombinator.com/item?id=43755321) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -234,23 +234,11 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 ---
 
-## <a name="18"></a>18. 苹果用户遭窃后数据被永久封锁，受害者集体起诉 
-<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/04/20/apple-stolen-iphone-lawsuit-theft/): Thieves took their iPhones. Apple won't give their digital lives back</small>
-
-
-| 🔥: 82 \| 💬: [72](https://news.ycombinator.com/item?id=43755753) \| 🗓️ 2025-04-21
-
-
-<br />
-多名iPhone用户在手机被盗后，因**恢复密钥**被窃贼篡改，导致永久无法访问iCloud中的照片、工作文件等个人数据。尽管苹果掌握部分数据的解密密钥，却以**隐私保护政策**为由拒绝协助恢复。一起索赔500万美元的集体诉讼正在加州进行，原告指控苹果变相协助犯罪。最新推出的**失窃设备保护**功能需手动开启，多数用户并不知情。受害者呼吁苹果建立更灵活的身份验证机制，而非僵化执行安全协议。
-
----
-
-## <a name="19"></a>19. 表格化编程：受限环境下的表达性计算新范式 
+## <a name="18"></a>18. 表格化编程：受限环境下的表达性计算新范式 
 <small>🔗 [sam.elborai.me](https://sam.elborai.me/articles/tabular-programming/): Tabular Programming: A New Paradigm for Expressive Computing</small>
 
 
-| 🔥: 81 \| 💬: [18](https://news.ycombinator.com/item?id=43751168) \| 🗓️ 2025-04-21
+| 🔥: 86 \| 💬: [20](https://news.ycombinator.com/item?id=43751168) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -258,7 +246,43 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 ---
 
-## <a name="20"></a>20. 正则表达式并不难（2023） 
+## <a name="19"></a>19. 苹果用户遭窃后数据被永久封锁，受害者集体起诉 
+<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/04/20/apple-stolen-iphone-lawsuit-theft/): Thieves took their iPhones. Apple won't give their digital lives back</small>
+
+
+| 🔥: 84 \| 💬: [78](https://news.ycombinator.com/item?id=43755753) \| 🗓️ 2025-04-21
+
+
+<br />
+多名iPhone用户在手机被盗后，因**恢复密钥**被窃贼篡改，导致永久无法访问iCloud中的照片、工作文件等个人数据。尽管苹果掌握部分数据的解密密钥，却以**隐私保护政策**为由拒绝协助恢复。一起索赔500万美元的集体诉讼正在加州进行，原告指控苹果变相协助犯罪。最新推出的**失窃设备保护**功能需手动开启，多数用户并不知情。受害者呼吁苹果建立更灵活的身份验证机制，而非僵化执行安全协议。
+
+---
+
+## <a name="20"></a>20. 英伟达王冠松动：算力未来面临四大挑战 
+<small>🔗 [mohitdagarwal.substack.com](https://mohitdagarwal.substack.com/p/from-dominance-to-dilemma-nvidia): The Future of Compute: Nvidia's Crown Is Slipping</small>
+
+
+| 🔥: 80 \| 💬: [50](https://news.ycombinator.com/item?id=43757017) \| 🗓️ 2025-04-21
+
+
+<br />
+随着AI需求向**超大规模云厂商**集中，**定制芯片**崛起和**分布式训练**趋势加剧，英伟达的垄断地位正受冲击。谷歌TPU、亚马逊Trainium等自研芯片已替代部分GPU需求，而微软、Meta也在加速布局。**独立云服务商**因价格战陷入困境，进一步削弱英伟达的多元化客户基础。长期来看，超大规模企业主导的垂直整合模式可能重塑AI算力格局。
+
+---
+
+## <a name="21"></a>21. M.2 HDMI采集卡评测：小巧强悍的Linux兼容设备 
+<small>🔗 [interfacinglinux.com](https://interfacinglinux.com/2025/04/18/magewell-eco-m-2-hdmi-capture-card/): A M.2 HDMI capture card</small>
+
+
+| 🔥: 76 \| 💬: [26](https://news.ycombinator.com/item?id=43755286) \| 🗓️ 2025-04-21
+
+
+<br />
+文章评测了**Magewell Eco M.2 HDMI采集卡**，这款产品利用M.2接口替代传统PCIe插槽，支持双路1080p 60帧采集。作者详细记录了在**x86**和**ARM架构**（如Rockchip 3588）的Linux系统上安装驱动的过程，包括内核模块编译步骤。实测显示其画质与高端采集卡相当，且支持OBS和WebRTC应用。虽然原价较高（385美元），但二手市场60-100美元的性价比突出，适合需要**紧凑型专业采集方案**的用户。缺点是需要手动安装驱动且缺乏支架配件。
+
+---
+
+## <a name="22"></a>22. 正则表达式并不难（2023） 
 <small>🔗 [timkellogg.me](https://timkellogg.me/blog/2023/07/11/regex): Regex Isn't Hard (2023)</small>
 
 
@@ -270,11 +294,11 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 ---
 
-## <a name="21"></a>21. 1是质数吗？这个问题为何重要？ 
+## <a name="23"></a>23. 1是质数吗？这个问题为何重要？ 
 <small>🔗 [mathenchant.wordpress.com](https://mathenchant.wordpress.com/2025/04/21/is-1-prime-and-does-it-matter/): Is 1 Prime, and Does It Matter?</small>
 
 
-| 🔥: 67 \| 💬: [92](https://news.ycombinator.com/item?id=43755506) \| 🗓️ 2025-04-21
+| 🔥: 69 \| 💬: [108](https://news.ycombinator.com/item?id=43755506) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -282,11 +306,11 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 ---
 
-## <a name="22"></a>22. ChatGPT等AI工具正在削弱人类智力吗？ 
+## <a name="24"></a>24. ChatGPT等AI工具正在削弱人类智力吗？ 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/apr/19/dont-ask-what-ai-can-do-for-us-ask-what-it-is-doing-to-us-are-chatgpt-and-co-harming-human-intelligence): Are ChatGPT and co harming human intelligence?</small>
 
 
-| 🔥: 66 \| 💬: [76](https://news.ycombinator.com/item?id=43750165) \| 🗓️ 2025-04-21
+| 🔥: 66 \| 💬: [78](https://news.ycombinator.com/item?id=43750165) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -294,7 +318,7 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 ---
 
-## <a name="23"></a>23. Pixtrim：基于Rust和WASM的极速客户端图片压缩工具 
+## <a name="25"></a>25. Pixtrim：基于Rust和WASM的极速客户端图片压缩工具 
 <small>🔗 [image-compressor-five-azure.vercel.app](https://image-compressor-five-azure.vercel.app/): Show HN: Pixtrim – Fast Client-Side Image Compression (Rust and WASM)</small>
 
 
