@@ -12,7 +12,7 @@ tags:
 1. 在任天堂Wii上运行的博客实验；
 1. 开源对话TTS模型Dia：一键生成超真实语音对话；
 1. FTC指控优步欺诈性收费及取消服务违规；
-1. 美国化石燃料发电占比首次跌破50%；
+1. EverTop：续航超百小时的电子墨水屏IBM XT复古电脑；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [philiplaine.com](https://philiplaine.com/posts/getting-forked-by-microsoft/): Getting forked by Microsoft</small>
 
 
-| 🔥🔥: 1609 \| 💬: [856](https://news.ycombinator.com/item?id=43750535) \| 🗓️ 2025-04-21
+| 🔥🔥: 1632 \| 💬: [864](https://news.ycombinator.com/item?id=43750535) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [blog.infected.systems](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/): Blog hosted on a Nintendo Wii</small>
 
 
-| 🔥🔥: 400 \| 💬: [82](https://news.ycombinator.com/item?id=43754953) \| 🗓️ 2025-04-21
+| 🔥🔥: 417 \| 💬: [83](https://news.ycombinator.com/item?id=43754953) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/nari-labs/dia): Show HN: Dia, an open-weights TTS model for generating realistic dialogue</small>
 
 
-| 🔥🔥: 387 \| 💬: [134](https://news.ycombinator.com/item?id=43754124) \| 🗓️ 2025-04-21
+| 🔥🔥: 414 \| 💬: [137](https://news.ycombinator.com/item?id=43754124) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -63,7 +63,7 @@ Nari Labs推出的**Dia**是一款1.6B参数的开源权重文本转语音模型
 <small>🔗 [ftc.gov](https://www.ftc.gov/news-events/news/press-releases/2025/04/ftc-takes-action-against-uber-deceptive-billing-cancellation-practices): FTC takes action against Uber for deceptive billing and cancellation practices</small>
 
 
-| 🔥🔥: 341 \| 💬: [198](https://news.ycombinator.com/item?id=43754274) \| 🗓️ 2025-04-21
+| 🔥🔥: 357 \| 💬: [206](https://news.ycombinator.com/item?id=43754274) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -71,11 +71,23 @@ Nari Labs推出的**Dia**是一款1.6B参数的开源权重文本转语音模型
 
 ---
 
-## <a name="5"></a>5. 美国化石燃料发电占比首次跌破50% 
+## <a name="5"></a>5. EverTop：续航超百小时的电子墨水屏IBM XT复古电脑 
+<small>🔗 [github.com](https://github.com/ericjenott/Evertop): Evertop: E-ink IBM XT clone with 100+ hours of battery life</small>
+
+
+| 🔥🔥: 300 \| 💬: [106](https://news.ycombinator.com/item?id=43757037) \| 🗓️ 2025-04-21
+
+
+<br />
+EverTop是一款**超低功耗**的便携式电脑，复刻了IBM XT架构（80186处理器+1MB内存），支持运行DOS、Minix等80年代操作系统及Windows 3.0。其核心亮点包括：**电子墨水屏**显示（5.83英寸，无刷新不耗电）、**双10000mAh电池**与太阳能充电设计，单次充电可实现200至500小时持续使用，极端省电模式下甚至可达数千小时。内置丰富外设接口（PS/2、USB、以太网等），并支持蓝牙、Wi-Fi和LoRA无线通信。另有简化版"EverTop Min"移除键盘等部件以降低成本，保留核心功能。开发者通过ESP32微控制器实现硬件模拟，开源项目采用GPL-3.0协议。
+
+---
+
+## <a name="6"></a>6. 美国化石燃料发电占比首次跌破50% 
 <small>🔗 [ember-energy.org](https://ember-energy.org/latest-updates/fossil-fuels-fall-below-50-of-us-electricity-for-the-first-month-on-record/): Fossil fuels fall below 50% of US electricity for the first month on record</small>
 
 
-| 🔥🔥: 286 \| 💬: [274](https://news.ycombinator.com/item?id=43750617) \| 🗓️ 2025-04-21
+| 🔥🔥: 290 \| 💬: [280](https://news.ycombinator.com/item?id=43750617) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -83,11 +95,11 @@ Nari Labs推出的**Dia**是一款1.6B参数的开源权重文本转语音模型
 
 ---
 
-## <a name="6"></a>6. 管道操作：编程语言中最优雅的特性 
+## <a name="7"></a>7. 管道操作：编程语言中最优雅的特性 
 <small>🔗 [herecomesthemoon.net](https://herecomesthemoon.net/2025/04/pipelining/): Pipelining might be my favorite programming language feature</small>
 
 
-| 🔥🔥: 282 \| 💬: [246](https://news.ycombinator.com/item?id=43751076) \| 🗓️ 2025-04-21
+| 🔥🔥: 290 \| 💬: [255](https://news.ycombinator.com/item?id=43751076) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -102,23 +114,11 @@ Nari Labs推出的**Dia**是一款1.6B参数的开源权重文本转语音模型
 
 ---
 
-## <a name="7"></a>7. EverTop：续航超百小时的电子墨水屏IBM XT复古电脑 
-<small>🔗 [github.com](https://github.com/ericjenott/Evertop): Evertop: E-ink IBM XT clone with 100+ hours of battery life</small>
-
-
-| 🔥🔥: 265 \| 💬: [90](https://news.ycombinator.com/item?id=43757037) \| 🗓️ 2025-04-21
-
-
-<br />
-EverTop是一款**超低功耗**的便携式电脑，复刻了IBM XT架构（80186处理器+1MB内存），支持运行DOS、Minix等80年代操作系统及Windows 3.0。其核心亮点包括：**电子墨水屏**显示（5.83英寸，无刷新不耗电）、**双10000mAh电池**与太阳能充电设计，单次充电可实现200至500小时持续使用，极端省电模式下甚至可达数千小时。内置丰富外设接口（PS/2、USB、以太网等），并支持蓝牙、Wi-Fi和LoRA无线通信。另有简化版"EverTop Min"移除键盘等部件以降低成本，保留核心功能。开发者通过ESP32微控制器实现硬件模拟，开源项目采用GPL-3.0协议。
-
----
-
 ## <a name="8"></a>8. Bluesky推出全新验证机制：蓝标认证与可信验证者 
 <small>🔗 [bsky.social](https://bsky.social/about/blog/04-21-2025-verification): A new form of verification on Bluesky</small>
 
 
-| 🔥🔥: 255 \| 💬: [175](https://news.ycombinator.com/item?id=43753651) \| 🗓️ 2025-04-21
+| 🔥🔥: 268 \| 💬: [180](https://news.ycombinator.com/item?id=43753651) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -130,7 +130,7 @@ Bluesky宣布升级验证系统，新增**蓝标认证**功能，平台将主动
 <small>🔗 [matthewsinclair.com](https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human): LLM-powered tools amplify developer capabilities rather than replacing them</small>
 
 
-| 🔥🔥: 226 \| 💬: [146](https://news.ycombinator.com/item?id=43752492) \| 🗓️ 2025-04-21
+| 🔥🔥: 239 \| 💬: [150](https://news.ycombinator.com/item?id=43752492) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -154,7 +154,7 @@ Bluesky宣布升级验证系统，新增**蓝标认证**功能，平台将主动
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/21/ai-assisted-search/): AI assisted search-based research works now</small>
 
 
-| 🔥🔥: 164 \| 💬: [74](https://news.ycombinator.com/item?id=43752262) \| 🗓️ 2025-04-21
+| 🔥🔥: 175 \| 💬: [77](https://news.ycombinator.com/item?id=43752262) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -166,7 +166,7 @@ Simon Willison在2025年4月21日的博客中指出，经过两年半的发展�
 <small>🔗 [theverge.com](https://www.theverge.com/cs/features/651701/vietnam-operation-babylift-adoption-transnational): Out of the Fog</small>
 
 
-| 🔥🔥: 137 \| 💬: [31](https://news.ycombinator.com/item?id=43752532) \| 🗓️ 2025-04-21
+| 🔥🔥: 138 \| 💬: [31](https://news.ycombinator.com/item?id=43752532) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -178,7 +178,7 @@ Simon Willison在2025年4月21日的博客中指出，经过两年半的发展�
 <small>🔗 [mohitdagarwal.substack.com](https://mohitdagarwal.substack.com/p/from-dominance-to-dilemma-nvidia): The Future of Compute: Nvidia's Crown Is Slipping</small>
 
 
-| 🔥🔥: 118 \| 💬: [85](https://news.ycombinator.com/item?id=43757017) \| 🗓️ 2025-04-21
+| 🔥🔥: 123 \| 💬: [88](https://news.ycombinator.com/item?id=43757017) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -190,7 +190,7 @@ Simon Willison在2025年4月21日的博客中指出，经过两年半的发展�
 <small>🔗 [windsurf.com](https://windsurf.com/blog/pricing-v2): An update to our pricing</small>
 
 
-| 🔥🔥: 114 \| 💬: [69](https://news.ycombinator.com/item?id=43755321) \| 🗓️ 2025-04-21
+| 🔥🔥: 122 \| 💬: [71](https://news.ycombinator.com/item?id=43755321) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -202,7 +202,7 @@ Simon Willison在2025年4月21日的博客中指出，经过两年半的发展�
 <small>🔗 [capeindependent.com](https://www.capeindependent.com/article/the-campaign-to-subvert-africas-internet-registry): The campaign to subvert Africa's internet registry</small>
 
 
-| 🔥🔥: 109 \| 💬: [28](https://news.ycombinator.com/item?id=43753738) \| 🗓️ 2025-04-21
+| 🔥🔥: 112 \| 💬: [28](https://news.ycombinator.com/item?id=43753738) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -226,7 +226,7 @@ Simon Willison在2025年4月21日的博客中指出，经过两年半的发展�
 <small>🔗 [github.com](https://github.com/dimonomid/nerdlog): Show HN: Nerdlog – Fast, multi-host TUI log viewer with timeline histogram</small>
 
 
-| 🔥🔥: 103 \| 💬: [37](https://news.ycombinator.com/item?id=43750765) \| 🗓️ 2025-04-21
+| 🔥🔥: 106 \| 💬: [38](https://news.ycombinator.com/item?id=43750765) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -238,7 +238,7 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 <small>🔗 [interfacinglinux.com](https://interfacinglinux.com/2025/04/18/magewell-eco-m-2-hdmi-capture-card/): A M.2 HDMI capture card</small>
 
 
-| 🔥🔥: 101 \| 💬: [32](https://news.ycombinator.com/item?id=43755286) \| 🗓️ 2025-04-21
+| 🔥🔥: 105 \| 💬: [32](https://news.ycombinator.com/item?id=43755286) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -250,7 +250,7 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 <small>🔗 [sam.elborai.me](https://sam.elborai.me/articles/tabular-programming/): Tabular Programming: A New Paradigm for Expressive Computing</small>
 
 
-| 🔥: 96 \| 💬: [23](https://news.ycombinator.com/item?id=43751168) \| 🗓️ 2025-04-21
+| 🔥: 100 \| 💬: [25](https://news.ycombinator.com/item?id=43751168) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -274,7 +274,7 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/04/20/apple-stolen-iphone-lawsuit-theft/): Thieves took their iPhones. Apple won't give their digital lives back</small>
 
 
-| 🔥: 89 \| 💬: [84](https://news.ycombinator.com/item?id=43755753) \| 🗓️ 2025-04-21
+| 🔥: 91 \| 💬: [85](https://news.ycombinator.com/item?id=43755753) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -286,7 +286,7 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 <small>🔗 [mathenchant.wordpress.com](https://mathenchant.wordpress.com/2025/04/21/is-1-prime-and-does-it-matter/): Is 1 Prime, and Does It Matter?</small>
 
 
-| 🔥: 76 \| 💬: [119](https://news.ycombinator.com/item?id=43755506) \| 🗓️ 2025-04-21
+| 🔥: 76 \| 💬: [121](https://news.ycombinator.com/item?id=43755506) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -298,7 +298,7 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 <small>🔗 [timkellogg.me](https://timkellogg.me/blog/2023/07/11/regex): Regex Isn't Hard (2023)</small>
 
 
-| 🔥: 71 \| 💬: [88](https://news.ycombinator.com/item?id=43750314) \| 🗓️ 2025-04-21
+| 🔥: 71 \| 💬: [89](https://news.ycombinator.com/item?id=43750314) \| 🗓️ 2025-04-21
 
 
 <br />
