@@ -11,12 +11,12 @@ tags:
 1. 被微软分叉的困境；
 1. 在任天堂Wii上运行的博客实验；
 1. 开源对话TTS模型Dia：一键生成超真实语音对话；
-1. 美国化石燃料发电占比首次跌破50%；
 1. FTC指控优步欺诈性收费及取消服务违规；
+1. 美国化石燃料发电占比首次跌破50%；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共22条，具体内容您往下读...
+总共23条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [philiplaine.com](https://philiplaine.com/posts/getting-forked-by-microsoft/): Getting forked by Microsoft</small>
 
 
-| 🔥🔥: 1514 \| 💬: [790](https://news.ycombinator.com/item?id=43750535) \| 🗓️ 2025-04-21
+| 🔥🔥: 1529 \| 💬: [804](https://news.ycombinator.com/item?id=43750535) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [blog.infected.systems](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/): Blog hosted on a Nintendo Wii</small>
 
 
-| 🔥🔥: 317 \| 💬: [57](https://news.ycombinator.com/item?id=43754953) \| 🗓️ 2025-04-21
+| 🔥🔥: 342 \| 💬: [61](https://news.ycombinator.com/item?id=43754953) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/nari-labs/dia): Show HN: Dia, an open-weights TTS model for generating realistic dialogue</small>
 
 
-| 🔥🔥: 298 \| 💬: [82](https://news.ycombinator.com/item?id=43754124) \| 🗓️ 2025-04-21
+| 🔥🔥: 323 \| 💬: [91](https://news.ycombinator.com/item?id=43754124) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -59,23 +59,11 @@ Nari Labs推出的**Dia**是一款1.6B参数的开源权重文本转语音模型
 
 ---
 
-## <a name="4"></a>4. 美国化石燃料发电占比首次跌破50% 
-<small>🔗 [ember-energy.org](https://ember-energy.org/latest-updates/fossil-fuels-fall-below-50-of-us-electricity-for-the-first-month-on-record/): Fossil fuels fall below 50% of US electricity for the first month on record</small>
-
-
-| 🔥🔥: 259 \| 💬: [250](https://news.ycombinator.com/item?id=43750617) \| 🗓️ 2025-04-21
-
-
-<br />
-根据全球能源智库Ember数据，2025年3月，**化石燃料**在美国发电量中的占比降至**49.2%**，首次低于50%，清洁能源占比达**50.8%**。这一里程碑主要得益于**风电和太阳能**创纪录增长（占总发电量24.4%），其中太阳能发电同比激增37%，风电增长12%。过去十年间，美国风光发电份额从5.7%跃升至当前水平，而化石燃料占比从65%持续下降。报告指出，风光发电正推动美国能源系统迈向清洁能源主导的转折点。
-
----
-
-## <a name="5"></a>5. FTC指控优步欺诈性收费及取消服务违规 
+## <a name="4"></a>4. FTC指控优步欺诈性收费及取消服务违规 
 <small>🔗 [ftc.gov](https://www.ftc.gov/news-events/news/press-releases/2025/04/ftc-takes-action-against-uber-deceptive-billing-cancellation-practices): FTC takes action against Uber for deceptive billing and cancellation practices</small>
 
 
-| 🔥🔥: 258 \| 💬: [125](https://news.ycombinator.com/item?id=43754274) \| 🗓️ 2025-04-21
+| 🔥🔥: 275 \| 💬: [138](https://news.ycombinator.com/item?id=43754274) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -83,11 +71,23 @@ Nari Labs推出的**Dia**是一款1.6B参数的开源权重文本转语音模型
 
 ---
 
+## <a name="5"></a>5. 美国化石燃料发电占比首次跌破50% 
+<small>🔗 [ember-energy.org](https://ember-energy.org/latest-updates/fossil-fuels-fall-below-50-of-us-electricity-for-the-first-month-on-record/): Fossil fuels fall below 50% of US electricity for the first month on record</small>
+
+
+| 🔥🔥: 264 \| 💬: [255](https://news.ycombinator.com/item?id=43750617) \| 🗓️ 2025-04-21
+
+
+<br />
+根据全球能源智库Ember数据，2025年3月，**化石燃料**在美国发电量中的占比降至**49.2%**，首次低于50%，清洁能源占比达**50.8%**。这一里程碑主要得益于**风电和太阳能**创纪录增长（占总发电量24.4%），其中太阳能发电同比激增37%，风电增长12%。过去十年间，美国风光发电份额从5.7%跃升至当前水平，而化石燃料占比从65%持续下降。报告指出，风光发电正推动美国能源系统迈向清洁能源主导的转折点。
+
+---
+
 ## <a name="6"></a>6. 管道操作：编程语言中最优雅的特性 
 <small>🔗 [herecomesthemoon.net](https://herecomesthemoon.net/2025/04/pipelining/): Pipelining might be my favorite programming language feature</small>
 
 
-| 🔥🔥: 232 \| 💬: [192](https://news.ycombinator.com/item?id=43751076) \| 🗓️ 2025-04-21
+| 🔥🔥: 246 \| 💬: [204](https://news.ycombinator.com/item?id=43751076) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -118,7 +118,7 @@ Nari Labs推出的**Dia**是一款1.6B参数的开源权重文本转语音模型
 <small>🔗 [bsky.social](https://bsky.social/about/blog/04-21-2025-verification): A new form of verification on Bluesky</small>
 
 
-| 🔥🔥: 176 \| 💬: [145](https://news.ycombinator.com/item?id=43753651) \| 🗓️ 2025-04-21
+| 🔥🔥: 199 \| 💬: [154](https://news.ycombinator.com/item?id=43753651) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -130,7 +130,7 @@ Bluesky宣布升级验证系统，新增**蓝标认证**功能，平台将主动
 <small>🔗 [matthewsinclair.com](https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human): LLM-powered tools amplify developer capabilities rather than replacing them</small>
 
 
-| 🔥🔥: 175 \| 💬: [127](https://news.ycombinator.com/item?id=43752492) \| 🗓️ 2025-04-21
+| 🔥🔥: 187 \| 💬: [131](https://news.ycombinator.com/item?id=43752492) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -142,7 +142,7 @@ Bluesky宣布升级验证系统，新增**蓝标认证**功能，平台将主动
 <small>🔗 [theverge.com](https://www.theverge.com/cs/features/651701/vietnam-operation-babylift-adoption-transnational): Out of the Fog</small>
 
 
-| 🔥🔥: 125 \| 💬: [29](https://news.ycombinator.com/item?id=43752532) \| 🗓️ 2025-04-21
+| 🔥🔥: 128 \| 💬: [31](https://news.ycombinator.com/item?id=43752532) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -154,7 +154,7 @@ Bluesky宣布升级验证系统，新增**蓝标认证**功能，平台将主动
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/21/ai-assisted-search/): AI assisted search-based research works now</small>
 
 
-| 🔥🔥: 109 \| 💬: [57](https://news.ycombinator.com/item?id=43752262) \| 🗓️ 2025-04-21
+| 🔥🔥: 122 \| 💬: [59](https://news.ycombinator.com/item?id=43752262) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -162,11 +162,23 @@ Simon Willison在2025年4月21日的博客中指出，经过两年半的发展�
 
 ---
 
-## <a name="12"></a>12. 非洲互联网资源遭窃取：中国商人操控IP地址牟利 
+## <a name="12"></a>12. EverTop：续航超百小时的电子墨水屏IBM XT复古电脑 
+<small>🔗 [github.com](https://github.com/ericjenott/Evertop): Evertop: E-ink IBM XT clone with 100+ hours of battery life</small>
+
+
+| 🔥🔥: 113 \| 💬: [28](https://news.ycombinator.com/item?id=43757037) \| 🗓️ 2025-04-21
+
+
+<br />
+EverTop是一款**超低功耗**的便携式电脑，复刻了IBM XT架构（80186处理器+1MB内存），支持运行DOS、Minix等80年代操作系统及Windows 3.0。其核心亮点包括：**电子墨水屏**显示（5.83英寸，无刷新不耗电）、**双10000mAh电池**与太阳能充电设计，单次充电可实现200至500小时持续使用，极端省电模式下甚至可达数千小时。内置丰富外设接口（PS/2、USB、以太网等），并支持蓝牙、Wi-Fi和LoRA无线通信。另有简化版"EverTop Min"移除键盘等部件以降低成本，保留核心功能。开发者通过ESP32微控制器实现硬件模拟，开源项目采用GPL-3.0协议。
+
+---
+
+## <a name="13"></a>13. 非洲互联网资源遭窃取：中国商人操控IP地址牟利 
 <small>🔗 [capeindependent.com](https://www.capeindependent.com/article/the-campaign-to-subvert-africas-internet-registry): The campaign to subvert Africa's internet registry</small>
 
 
-| 🔥: 100 \| 💬: [24](https://news.ycombinator.com/item?id=43753738) \| 🗓️ 2025-04-21
+| 🔥🔥: 102 \| 💬: [27](https://news.ycombinator.com/item?id=43753738) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -174,11 +186,11 @@ Simon Willison在2025年4月21日的博客中指出，经过两年半的发展�
 
 ---
 
-## <a name="13"></a>13. 美国国家劳工关系委员会（NLRB）内部举报人揭露DOGE项目异常情况 
+## <a name="14"></a>14. 美国国家劳工关系委员会（NLRB）内部举报人揭露DOGE项目异常情况 
 <small>🔗 [whistlebloweraid.org](https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf): Whistleblower statement on anomalies at time of DOGE work at NLRB [pdf]</small>
 
 
-| 🔥: 100 \| 💬: [13](https://news.ycombinator.com/item?id=43755298) \| 🗓️ 2025-04-21
+| 🔥🔥: 102 \| 💬: [13](https://news.ycombinator.com/item?id=43755298) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -186,11 +198,11 @@ Simon Willison在2025年4月21日的博客中指出，经过两年半的发展�
 
 ---
 
-## <a name="14"></a>14. Nerdlog：高效多主机日志查看工具，带时间轴直方图 
+## <a name="15"></a>15. Nerdlog：高效多主机日志查看工具，带时间轴直方图 
 <small>🔗 [github.com](https://github.com/dimonomid/nerdlog): Show HN: Nerdlog – Fast, multi-host TUI log viewer with timeline histogram</small>
 
 
-| 🔥: 94 \| 💬: [37](https://news.ycombinator.com/item?id=43750765) \| 🗓️ 2025-04-21
+| 🔥: 98 \| 💬: [37](https://news.ycombinator.com/item?id=43750765) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -198,7 +210,19 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 ---
 
-## <a name="15"></a>15. 官方滥用国家安全手段：从恶劣走向骇人听闻 
+## <a name="16"></a>16. 价格调整公告 
+<small>🔗 [windsurf.com](https://windsurf.com/blog/pricing-v2): An update to our pricing</small>
+
+
+| 🔥: 95 \| 💬: [61](https://news.ycombinator.com/item?id=43755321) \| 🗓️ 2025-04-21
+
+
+<br />
+本文为**风帆运动资讯**的订阅提醒，邀请用户通过填写**有效邮箱地址**及时获取最新动态。内容强调需确保邮箱格式正确以完成订阅，但未提及具体价格变动细节。核心目的是**提升用户订阅率**并保持信息触达的准确性。
+
+---
+
+## <a name="17"></a>17. 官方滥用国家安全手段：从恶劣走向骇人听闻 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/14/opinion_secret_state_security/?td=rt-3a): Official abuse of state security has always been bad, now it's horrifying</small>
 
 
@@ -210,23 +234,11 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 ---
 
-## <a name="16"></a>16. 价格调整公告 
-<small>🔗 [windsurf.com](https://windsurf.com/blog/pricing-v2): An update to our pricing</small>
-
-
-| 🔥: 87 \| 💬: [58](https://news.ycombinator.com/item?id=43755321) \| 🗓️ 2025-04-21
-
-
-<br />
-本文为**风帆运动资讯**的订阅提醒，邀请用户通过填写**有效邮箱地址**及时获取最新动态。内容强调需确保邮箱格式正确以完成订阅，但未提及具体价格变动细节。核心目的是**提升用户订阅率**并保持信息触达的准确性。
-
----
-
-## <a name="17"></a>17. 苹果用户遭窃后数据被永久封锁，受害者集体起诉 
+## <a name="18"></a>18. 苹果用户遭窃后数据被永久封锁，受害者集体起诉 
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/04/20/apple-stolen-iphone-lawsuit-theft/): Thieves took their iPhones. Apple won't give their digital lives back</small>
 
 
-| 🔥: 76 \| 💬: [64](https://news.ycombinator.com/item?id=43755753) \| 🗓️ 2025-04-21
+| 🔥: 82 \| 💬: [72](https://news.ycombinator.com/item?id=43755753) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -234,11 +246,11 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 ---
 
-## <a name="18"></a>18. 表格化编程：受限环境下的表达性计算新范式 
+## <a name="19"></a>19. 表格化编程：受限环境下的表达性计算新范式 
 <small>🔗 [sam.elborai.me](https://sam.elborai.me/articles/tabular-programming/): Tabular Programming: A New Paradigm for Expressive Computing</small>
 
 
-| 🔥: 74 \| 💬: [17](https://news.ycombinator.com/item?id=43751168) \| 🗓️ 2025-04-21
+| 🔥: 81 \| 💬: [18](https://news.ycombinator.com/item?id=43751168) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -246,7 +258,7 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 ---
 
-## <a name="19"></a>19. 正则表达式并不难（2023） 
+## <a name="20"></a>20. 正则表达式并不难（2023） 
 <small>🔗 [timkellogg.me](https://timkellogg.me/blog/2023/07/11/regex): Regex Isn't Hard (2023)</small>
 
 
@@ -258,7 +270,19 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 ---
 
-## <a name="20"></a>20. ChatGPT等AI工具正在削弱人类智力吗？ 
+## <a name="21"></a>21. 1是质数吗？这个问题为何重要？ 
+<small>🔗 [mathenchant.wordpress.com](https://mathenchant.wordpress.com/2025/04/21/is-1-prime-and-does-it-matter/): Is 1 Prime, and Does It Matter?</small>
+
+
+| 🔥: 67 \| 💬: [92](https://news.ycombinator.com/item?id=43755506) \| 🗓️ 2025-04-21
+
+
+<br />
+关于数字1是否属于**质数**的争议历史悠久。古希腊毕达哥拉斯学派认为1是构建数字的"单位"而非质数，而柏拉图学派则持相反观点。18世纪数学家欧拉和20世纪的哈代也曾将1归类为质数，体现了数学定义的灵活性。现代数学界达成共识将1排除在质数之外，主要因其会导致**算术基本定理**（唯一分解定理）等核心概念表述复杂化。但1的独特性使其被归为**单位数**，在代数数论中具有特殊地位。这场争论的本质并非数学真理的对立，而是人类为追求理论简洁性对术语的优化选择。
+
+---
+
+## <a name="22"></a>22. ChatGPT等AI工具正在削弱人类智力吗？ 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/apr/19/dont-ask-what-ai-can-do-for-us-ask-what-it-is-doing-to-us-are-chatgpt-and-co-harming-human-intelligence): Are ChatGPT and co harming human intelligence?</small>
 
 
@@ -270,19 +294,7 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 ---
 
-## <a name="21"></a>21. 1是质数吗？这个问题为何重要？ 
-<small>🔗 [mathenchant.wordpress.com](https://mathenchant.wordpress.com/2025/04/21/is-1-prime-and-does-it-matter/): Is 1 Prime, and Does It Matter?</small>
-
-
-| 🔥: 58 \| 💬: [82](https://news.ycombinator.com/item?id=43755506) \| 🗓️ 2025-04-21
-
-
-<br />
-关于数字1是否属于**质数**的争议历史悠久。古希腊毕达哥拉斯学派认为1是构建数字的"单位"而非质数，而柏拉图学派则持相反观点。18世纪数学家欧拉和20世纪的哈代也曾将1归类为质数，体现了数学定义的灵活性。现代数学界达成共识将1排除在质数之外，主要因其会导致**算术基本定理**（唯一分解定理）等核心概念表述复杂化。但1的独特性使其被归为**单位数**，在代数数论中具有特殊地位。这场争论的本质并非数学真理的对立，而是人类为追求理论简洁性对术语的优化选择。
-
----
-
-## <a name="22"></a>22. Pixtrim：基于Rust和WASM的极速客户端图片压缩工具 
+## <a name="23"></a>23. Pixtrim：基于Rust和WASM的极速客户端图片压缩工具 
 <small>🔗 [image-compressor-five-azure.vercel.app](https://image-compressor-five-azure.vercel.app/): Show HN: Pixtrim – Fast Client-Side Image Compression (Rust and WASM)</small>
 
 
