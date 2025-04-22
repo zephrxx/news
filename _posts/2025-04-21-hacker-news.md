@@ -9,8 +9,8 @@ tags:
 
 
 1. 被微软分叉的困境；
-1. 在任天堂Wii上运行的博客实验；
 1. 开源对话TTS模型Dia：一键生成超真实语音对话；
+1. 在任天堂Wii上运行的博客实验；
 1. FTC指控优步欺诈性收费及取消服务违规；
 1. EverTop：续航超百小时的电子墨水屏IBM XT复古电脑；
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [philiplaine.com](https://philiplaine.com/posts/getting-forked-by-microsoft/): Getting forked by Microsoft</small>
 
 
-| 🔥🔥: 1632 \| 💬: [864](https://news.ycombinator.com/item?id=43750535) \| 🗓️ 2025-04-21
+| 🔥🔥: 1653 \| 💬: [877](https://news.ycombinator.com/item?id=43750535) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -35,23 +35,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. 在任天堂Wii上运行的博客实验 
-<small>🔗 [blog.infected.systems](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/): Blog hosted on a Nintendo Wii</small>
-
-
-| 🔥🔥: 417 \| 💬: [83](https://news.ycombinator.com/item?id=43754953) \| 🗓️ 2025-04-21
-
-
-<br />
-一位开发者成功将**NetBSD 10.1**移植到任天堂Wii主机，并部署了一个静态博客。Wii搭载的**PowerPC 750架构**单核处理器性能有限，但通过优化（如禁用非必要服务、使用Caddy反向代理处理TLS加密）实现了稳定运行。文章详细记录了从破解Wii、安装NetBSD到配置轻量级Web服务器的全过程，并对比了Wii与太空探测器（如詹姆斯·韦伯望远镜）同款芯片的有趣性能差异。最终，这台功耗仅18W的“服务器”以每月约3.47英镑的成本运行，展现了**非传统硬件**的另类可能性。
-
----
-
-## <a name="3"></a>3. 开源对话TTS模型Dia：一键生成超真实语音对话 
+## <a name="2"></a>2. 开源对话TTS模型Dia：一键生成超真实语音对话 
 <small>🔗 [github.com](https://github.com/nari-labs/dia): Show HN: Dia, an open-weights TTS model for generating realistic dialogue</small>
 
 
-| 🔥🔥: 414 \| 💬: [137](https://news.ycombinator.com/item?id=43754124) \| 🗓️ 2025-04-21
+| 🔥🔥: 433 \| 💬: [139](https://news.ycombinator.com/item?id=43754124) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -59,11 +47,23 @@ Nari Labs推出的**Dia**是一款1.6B参数的开源权重文本转语音模型
 
 ---
 
+## <a name="3"></a>3. 在任天堂Wii上运行的博客实验 
+<small>🔗 [blog.infected.systems](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/): Blog hosted on a Nintendo Wii</small>
+
+
+| 🔥🔥: 432 \| 💬: [87](https://news.ycombinator.com/item?id=43754953) \| 🗓️ 2025-04-21
+
+
+<br />
+一位开发者成功将**NetBSD 10.1**移植到任天堂Wii主机，并部署了一个静态博客。Wii搭载的**PowerPC 750架构**单核处理器性能有限，但通过优化（如禁用非必要服务、使用Caddy反向代理处理TLS加密）实现了稳定运行。文章详细记录了从破解Wii、安装NetBSD到配置轻量级Web服务器的全过程，并对比了Wii与太空探测器（如詹姆斯·韦伯望远镜）同款芯片的有趣性能差异。最终，这台功耗仅18W的“服务器”以每月约3.47英镑的成本运行，展现了**非传统硬件**的另类可能性。
+
+---
+
 ## <a name="4"></a>4. FTC指控优步欺诈性收费及取消服务违规 
 <small>🔗 [ftc.gov](https://www.ftc.gov/news-events/news/press-releases/2025/04/ftc-takes-action-against-uber-deceptive-billing-cancellation-practices): FTC takes action against Uber for deceptive billing and cancellation practices</small>
 
 
-| 🔥🔥: 357 \| 💬: [206](https://news.ycombinator.com/item?id=43754274) \| 🗓️ 2025-04-21
+| 🔥🔥: 365 \| 💬: [207](https://news.ycombinator.com/item?id=43754274) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -75,7 +75,7 @@ Nari Labs推出的**Dia**是一款1.6B参数的开源权重文本转语音模型
 <small>🔗 [github.com](https://github.com/ericjenott/Evertop): Evertop: E-ink IBM XT clone with 100+ hours of battery life</small>
 
 
-| 🔥🔥: 300 \| 💬: [106](https://news.ycombinator.com/item?id=43757037) \| 🗓️ 2025-04-21
+| 🔥🔥: 333 \| 💬: [110](https://news.ycombinator.com/item?id=43757037) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -83,23 +83,11 @@ EverTop是一款**超低功耗**的便携式电脑，复刻了IBM XT架构（801
 
 ---
 
-## <a name="6"></a>6. 美国化石燃料发电占比首次跌破50% 
-<small>🔗 [ember-energy.org](https://ember-energy.org/latest-updates/fossil-fuels-fall-below-50-of-us-electricity-for-the-first-month-on-record/): Fossil fuels fall below 50% of US electricity for the first month on record</small>
-
-
-| 🔥🔥: 290 \| 💬: [280](https://news.ycombinator.com/item?id=43750617) \| 🗓️ 2025-04-21
-
-
-<br />
-根据全球能源智库Ember数据，2025年3月，**化石燃料**在美国发电量中的占比降至**49.2%**，首次低于50%，清洁能源占比达**50.8%**。这一里程碑主要得益于**风电和太阳能**创纪录增长（占总发电量24.4%），其中太阳能发电同比激增37%，风电增长12%。过去十年间，美国风光发电份额从5.7%跃升至当前水平，而化石燃料占比从65%持续下降。报告指出，风光发电正推动美国能源系统迈向清洁能源主导的转折点。
-
----
-
-## <a name="7"></a>7. 管道操作：编程语言中最优雅的特性 
+## <a name="6"></a>6. 管道操作：编程语言中最优雅的特性 
 <small>🔗 [herecomesthemoon.net](https://herecomesthemoon.net/2025/04/pipelining/): Pipelining might be my favorite programming language feature</small>
 
 
-| 🔥🔥: 290 \| 💬: [255](https://news.ycombinator.com/item?id=43751076) \| 🗓️ 2025-04-21
+| 🔥🔥: 297 \| 💬: [262](https://news.ycombinator.com/item?id=43751076) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -114,11 +102,23 @@ EverTop是一款**超低功耗**的便携式电脑，复刻了IBM XT架构（801
 
 ---
 
+## <a name="7"></a>7. 美国化石燃料发电占比首次跌破50% 
+<small>🔗 [ember-energy.org](https://ember-energy.org/latest-updates/fossil-fuels-fall-below-50-of-us-electricity-for-the-first-month-on-record/): Fossil fuels fall below 50% of US electricity for the first month on record</small>
+
+
+| 🔥🔥: 294 \| 💬: [285](https://news.ycombinator.com/item?id=43750617) \| 🗓️ 2025-04-21
+
+
+<br />
+根据全球能源智库Ember数据，2025年3月，**化石燃料**在美国发电量中的占比降至**49.2%**，首次低于50%，清洁能源占比达**50.8%**。这一里程碑主要得益于**风电和太阳能**创纪录增长（占总发电量24.4%），其中太阳能发电同比激增37%，风电增长12%。过去十年间，美国风光发电份额从5.7%跃升至当前水平，而化石燃料占比从65%持续下降。报告指出，风光发电正推动美国能源系统迈向清洁能源主导的转折点。
+
+---
+
 ## <a name="8"></a>8. Bluesky推出全新验证机制：蓝标认证与可信验证者 
 <small>🔗 [bsky.social](https://bsky.social/about/blog/04-21-2025-verification): A new form of verification on Bluesky</small>
 
 
-| 🔥🔥: 268 \| 💬: [180](https://news.ycombinator.com/item?id=43753651) \| 🗓️ 2025-04-21
+| 🔥🔥: 281 \| 💬: [192](https://news.ycombinator.com/item?id=43753651) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -130,7 +130,7 @@ Bluesky宣布升级验证系统，新增**蓝标认证**功能，平台将主动
 <small>🔗 [matthewsinclair.com](https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human): LLM-powered tools amplify developer capabilities rather than replacing them</small>
 
 
-| 🔥🔥: 239 \| 💬: [150](https://news.ycombinator.com/item?id=43752492) \| 🗓️ 2025-04-21
+| 🔥🔥: 250 \| 💬: [157](https://news.ycombinator.com/item?id=43752492) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -154,7 +154,7 @@ Bluesky宣布升级验证系统，新增**蓝标认证**功能，平台将主动
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/21/ai-assisted-search/): AI assisted search-based research works now</small>
 
 
-| 🔥🔥: 175 \| 💬: [77](https://news.ycombinator.com/item?id=43752262) \| 🗓️ 2025-04-21
+| 🔥🔥: 183 \| 💬: [82](https://news.ycombinator.com/item?id=43752262) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -166,7 +166,7 @@ Simon Willison在2025年4月21日的博客中指出，经过两年半的发展�
 <small>🔗 [theverge.com](https://www.theverge.com/cs/features/651701/vietnam-operation-babylift-adoption-transnational): Out of the Fog</small>
 
 
-| 🔥🔥: 138 \| 💬: [31](https://news.ycombinator.com/item?id=43752532) \| 🗓️ 2025-04-21
+| 🔥🔥: 139 \| 💬: [31](https://news.ycombinator.com/item?id=43752532) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -178,7 +178,7 @@ Simon Willison在2025年4月21日的博客中指出，经过两年半的发展�
 <small>🔗 [mohitdagarwal.substack.com](https://mohitdagarwal.substack.com/p/from-dominance-to-dilemma-nvidia): The Future of Compute: Nvidia's Crown Is Slipping</small>
 
 
-| 🔥🔥: 123 \| 💬: [88](https://news.ycombinator.com/item?id=43757017) \| 🗓️ 2025-04-21
+| 🔥🔥: 127 \| 💬: [93](https://news.ycombinator.com/item?id=43757017) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -190,7 +190,7 @@ Simon Willison在2025年4月21日的博客中指出，经过两年半的发展�
 <small>🔗 [windsurf.com](https://windsurf.com/blog/pricing-v2): An update to our pricing</small>
 
 
-| 🔥🔥: 122 \| 💬: [71](https://news.ycombinator.com/item?id=43755321) \| 🗓️ 2025-04-21
+| 🔥🔥: 123 \| 💬: [80](https://news.ycombinator.com/item?id=43755321) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -202,7 +202,7 @@ Simon Willison在2025年4月21日的博客中指出，经过两年半的发展�
 <small>🔗 [capeindependent.com](https://www.capeindependent.com/article/the-campaign-to-subvert-africas-internet-registry): The campaign to subvert Africa's internet registry</small>
 
 
-| 🔥🔥: 112 \| 💬: [28](https://news.ycombinator.com/item?id=43753738) \| 🗓️ 2025-04-21
+| 🔥🔥: 113 \| 💬: [28](https://news.ycombinator.com/item?id=43753738) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -210,7 +210,31 @@ Simon Willison在2025年4月21日的博客中指出，经过两年半的发展�
 
 ---
 
-## <a name="16"></a>16. 美国国家劳工关系委员会（NLRB）内部举报人揭露DOGE项目异常情况 
+## <a name="16"></a>16. M.2 HDMI采集卡评测：小巧强悍的Linux兼容设备 
+<small>🔗 [interfacinglinux.com](https://interfacinglinux.com/2025/04/18/magewell-eco-m-2-hdmi-capture-card/): A M.2 HDMI capture card</small>
+
+
+| 🔥🔥: 109 \| 💬: [39](https://news.ycombinator.com/item?id=43755286) \| 🗓️ 2025-04-21
+
+
+<br />
+文章评测了**Magewell Eco M.2 HDMI采集卡**，这款产品利用M.2接口替代传统PCIe插槽，支持双路1080p 60帧采集。作者详细记录了在**x86**和**ARM架构**（如Rockchip 3588）的Linux系统上安装驱动的过程，包括内核模块编译步骤。实测显示其画质与高端采集卡相当，且支持OBS和WebRTC应用。虽然原价较高（385美元），但二手市场60-100美元的性价比突出，适合需要**紧凑型专业采集方案**的用户。缺点是需要手动安装驱动且缺乏支架配件。
+
+---
+
+## <a name="17"></a>17. Nerdlog：高效多主机日志查看工具，带时间轴直方图 
+<small>🔗 [github.com](https://github.com/dimonomid/nerdlog): Show HN: Nerdlog – Fast, multi-host TUI log viewer with timeline histogram</small>
+
+
+| 🔥🔥: 108 \| 💬: [38](https://news.ycombinator.com/item?id=43750765) \| 🗓️ 2025-04-21
+
+
+<br />
+Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，支持同时从多台远程主机获取日志，并生成时间轴直方图。无需中央服务器，直接通过SSH连接远程主机，**实时过滤和分析日志**，仅传输必要数据（如250条日志和直方图数据），节省带宽。适用于系统日志（如/var/log/messages），支持自定义日志格式和文件。提供类Vim的快捷键操作，包括查询历史、时间范围调整和日志导出功能。需SSH访问权限及Gawk支持，目前处于概念验证阶段，但已具备较高实用性。
+
+---
+
+## <a name="18"></a>18. 美国国家劳工关系委员会（NLRB）内部举报人揭露DOGE项目异常情况 
 <small>🔗 [whistlebloweraid.org](https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf): Whistleblower statement on anomalies at time of DOGE work at NLRB [pdf]</small>
 
 
@@ -222,35 +246,11 @@ Simon Willison在2025年4月21日的博客中指出，经过两年半的发展�
 
 ---
 
-## <a name="17"></a>17. Nerdlog：高效多主机日志查看工具，带时间轴直方图 
-<small>🔗 [github.com](https://github.com/dimonomid/nerdlog): Show HN: Nerdlog – Fast, multi-host TUI log viewer with timeline histogram</small>
-
-
-| 🔥🔥: 106 \| 💬: [38](https://news.ycombinator.com/item?id=43750765) \| 🗓️ 2025-04-21
-
-
-<br />
-Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，支持同时从多台远程主机获取日志，并生成时间轴直方图。无需中央服务器，直接通过SSH连接远程主机，**实时过滤和分析日志**，仅传输必要数据（如250条日志和直方图数据），节省带宽。适用于系统日志（如/var/log/messages），支持自定义日志格式和文件。提供类Vim的快捷键操作，包括查询历史、时间范围调整和日志导出功能。需SSH访问权限及Gawk支持，目前处于概念验证阶段，但已具备较高实用性。
-
----
-
-## <a name="18"></a>18. M.2 HDMI采集卡评测：小巧强悍的Linux兼容设备 
-<small>🔗 [interfacinglinux.com](https://interfacinglinux.com/2025/04/18/magewell-eco-m-2-hdmi-capture-card/): A M.2 HDMI capture card</small>
-
-
-| 🔥🔥: 105 \| 💬: [32](https://news.ycombinator.com/item?id=43755286) \| 🗓️ 2025-04-21
-
-
-<br />
-文章评测了**Magewell Eco M.2 HDMI采集卡**，这款产品利用M.2接口替代传统PCIe插槽，支持双路1080p 60帧采集。作者详细记录了在**x86**和**ARM架构**（如Rockchip 3588）的Linux系统上安装驱动的过程，包括内核模块编译步骤。实测显示其画质与高端采集卡相当，且支持OBS和WebRTC应用。虽然原价较高（385美元），但二手市场60-100美元的性价比突出，适合需要**紧凑型专业采集方案**的用户。缺点是需要手动安装驱动且缺乏支架配件。
-
----
-
 ## <a name="19"></a>19. 表格化编程：受限环境下的表达性计算新范式 
 <small>🔗 [sam.elborai.me](https://sam.elborai.me/articles/tabular-programming/): Tabular Programming: A New Paradigm for Expressive Computing</small>
 
 
-| 🔥: 100 \| 💬: [25](https://news.ycombinator.com/item?id=43751168) \| 🗓️ 2025-04-21
+| 🔥🔥: 101 \| 💬: [25](https://news.ycombinator.com/item?id=43751168) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -258,11 +258,23 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 ---
 
-## <a name="20"></a>20. 官方滥用国家安全手段：从恶劣走向骇人听闻 
+## <a name="20"></a>20. 在Go中挑战内存回收机制 
+<small>🔗 [mcyoung.xyz](https://mcyoung.xyz/2025/04/21/go-arenas/): Cheating the Reaper in Go</small>
+
+
+| 🔥: 95 \| 💬: [12](https://news.ycombinator.com/item?id=43756871) \| 🗓️ 2025-04-21
+
+
+<br />
+尽管作者是C++程序员，但Go语言因其**几乎不存在未定义行为**和简单的**GC语义**而吸引了他。文章探讨了如何在Go中实现**手动内存管理**，通过构建一个无类型的垃圾回收竞技场（arena）来展示这一可能性。Go的GC设计允许开发者在不依赖`runtime`包的情况下与GC协作，但需注意指针处理问题。通过基准测试，作者证明了arena分配器在性能上显著优于标准`new`操作，尤其在处理大内存块时提升可达2-4倍。关键挑战在于确保arena中的指针能被GC正确识别，避免提前释放。
+
+---
+
+## <a name="21"></a>21. 官方滥用国家安全手段：从恶劣走向骇人听闻 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/14/opinion_secret_state_security/?td=rt-3a): Official abuse of state security has always been bad, now it's horrifying</small>
 
 
-| 🔥: 93 \| 💬: [10](https://news.ycombinator.com/item?id=43750144) \| 🗓️ 2025-04-21
+| 🔥: 94 \| 💬: [10](https://news.ycombinator.com/item?id=43750144) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -270,11 +282,11 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 ---
 
-## <a name="21"></a>21. 苹果用户遭窃后数据被永久封锁，受害者集体起诉 
+## <a name="22"></a>22. 苹果用户遭窃后数据被永久封锁，受害者集体起诉 
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/04/20/apple-stolen-iphone-lawsuit-theft/): Thieves took their iPhones. Apple won't give their digital lives back</small>
 
 
-| 🔥: 91 \| 💬: [85](https://news.ycombinator.com/item?id=43755753) \| 🗓️ 2025-04-21
+| 🔥: 92 \| 💬: [85](https://news.ycombinator.com/item?id=43755753) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -282,11 +294,11 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 ---
 
-## <a name="22"></a>22. 1是质数吗？这个问题为何重要？ 
+## <a name="23"></a>23. 1是质数吗？这个问题为何重要？ 
 <small>🔗 [mathenchant.wordpress.com](https://mathenchant.wordpress.com/2025/04/21/is-1-prime-and-does-it-matter/): Is 1 Prime, and Does It Matter?</small>
 
 
-| 🔥: 76 \| 💬: [121](https://news.ycombinator.com/item?id=43755506) \| 🗓️ 2025-04-21
+| 🔥: 77 \| 💬: [124](https://news.ycombinator.com/item?id=43755506) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -294,7 +306,7 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 ---
 
-## <a name="23"></a>23. 正则表达式并不难（2023） 
+## <a name="24"></a>24. 正则表达式并不难（2023） 
 <small>🔗 [timkellogg.me](https://timkellogg.me/blog/2023/07/11/regex): Regex Isn't Hard (2023)</small>
 
 
@@ -306,7 +318,7 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 ---
 
-## <a name="24"></a>24. ChatGPT等AI工具正在削弱人类智力吗？ 
+## <a name="25"></a>25. ChatGPT等AI工具正在削弱人类智力吗？ 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/apr/19/dont-ask-what-ai-can-do-for-us-ask-what-it-is-doing-to-us-are-chatgpt-and-co-harming-human-intelligence): Are ChatGPT and co harming human intelligence?</small>
 
 
@@ -315,17 +327,5 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 <br />
 近期研究显示，**人类智商（IQ）**出现下降趋势，可能与过度依赖AI处理认知任务有关。专家指出，**关键思维能力**和**记忆力**因AI代劳而退化，如同肌肉不用则萎缩。尽管环境因素复杂，但AI的便捷性导致人们减少主动思考，甚至影响创造力和抗风险能力。学者呼吁通过教育重建人类**批判性思维**优势，避免认知能力被算法取代。
-
----
-
-## <a name="25"></a>25. Pixtrim：基于Rust和WASM的极速客户端图片压缩工具 
-<small>🔗 [image-compressor-five-azure.vercel.app](https://image-compressor-five-azure.vercel.app/): Show HN: Pixtrim – Fast Client-Side Image Compression (Rust and WASM)</small>
-
-
-| 🔥: 51 \| 💬: [3](https://news.ycombinator.com/item?id=43750360) \| 🗓️ 2025-04-21
-
-
-<br />
-这款名为**Pixtrim**的工具能**快速无损压缩图片**，提升网站性能。用户可直接上传图片并调节压缩比例，支持全设备响应式操作，处理过程完全在客户端完成，**隐私安全有保障**。其Rust与WASM技术栈确保秒级压缩效率，用户评价称赞其易用性和压缩质量。核心亮点包括**即时处理**、多端适配和零数据上传。
 
 ---
