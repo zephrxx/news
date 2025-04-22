@@ -27,7 +27,7 @@ tags:
 <small>🔗 [philiplaine.com](https://philiplaine.com/posts/getting-forked-by-microsoft/): Getting forked by Microsoft</small>
 
 
-| 🔥🔥: 1548 \| 💬: [813](https://news.ycombinator.com/item?id=43750535) \| 🗓️ 2025-04-21
+| 🔥🔥: 1567 \| 💬: [830](https://news.ycombinator.com/item?id=43750535) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [blog.infected.systems](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/): Blog hosted on a Nintendo Wii</small>
 
 
-| 🔥🔥: 360 \| 💬: [68](https://news.ycombinator.com/item?id=43754953) \| 🗓️ 2025-04-21
+| 🔥🔥: 376 \| 💬: [75](https://news.ycombinator.com/item?id=43754953) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/nari-labs/dia): Show HN: Dia, an open-weights TTS model for generating realistic dialogue</small>
 
 
-| 🔥🔥: 339 \| 💬: [111](https://news.ycombinator.com/item?id=43754124) \| 🗓️ 2025-04-21
+| 🔥🔥: 365 \| 💬: [122](https://news.ycombinator.com/item?id=43754124) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -63,7 +63,7 @@ Nari Labs推出的**Dia**是一款1.6B参数的开源权重文本转语音模型
 <small>🔗 [ftc.gov](https://www.ftc.gov/news-events/news/press-releases/2025/04/ftc-takes-action-against-uber-deceptive-billing-cancellation-practices): FTC takes action against Uber for deceptive billing and cancellation practices</small>
 
 
-| 🔥🔥: 300 \| 💬: [166](https://news.ycombinator.com/item?id=43754274) \| 🗓️ 2025-04-21
+| 🔥🔥: 311 \| 💬: [179](https://news.ycombinator.com/item?id=43754274) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -75,7 +75,7 @@ Nari Labs推出的**Dia**是一款1.6B参数的开源权重文本转语音模型
 <small>🔗 [ember-energy.org](https://ember-energy.org/latest-updates/fossil-fuels-fall-below-50-of-us-electricity-for-the-first-month-on-record/): Fossil fuels fall below 50% of US electricity for the first month on record</small>
 
 
-| 🔥🔥: 270 \| 💬: [257](https://news.ycombinator.com/item?id=43750617) \| 🗓️ 2025-04-21
+| 🔥🔥: 276 \| 💬: [261](https://news.ycombinator.com/item?id=43750617) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -87,7 +87,7 @@ Nari Labs推出的**Dia**是一款1.6B参数的开源权重文本转语音模型
 <small>🔗 [herecomesthemoon.net](https://herecomesthemoon.net/2025/04/pipelining/): Pipelining might be my favorite programming language feature</small>
 
 
-| 🔥🔥: 254 \| 💬: [216](https://news.ycombinator.com/item?id=43751076) \| 🗓️ 2025-04-21
+| 🔥🔥: 263 \| 💬: [232](https://news.ycombinator.com/item?id=43751076) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -102,7 +102,19 @@ Nari Labs推出的**Dia**是一款1.6B参数的开源权重文本转语音模型
 
 ---
 
-## <a name="7"></a>7. 教皇方济各逝世 多国领导人哀悼 
+## <a name="7"></a>7. Bluesky推出全新验证机制：蓝标认证与可信验证者 
+<small>🔗 [bsky.social](https://bsky.social/about/blog/04-21-2025-verification): A new form of verification on Bluesky</small>
+
+
+| 🔥🔥: 226 \| 💬: [165](https://news.ycombinator.com/item?id=43753651) \| 🗓️ 2025-04-21
+
+
+<br />
+Bluesky宣布升级验证系统，新增**蓝标认证**功能，平台将主动为真实且知名的账号添加蓝色勾选标记。同时引入**可信验证者**机制，允许《纽约时报》等权威机构直接为旗下账号颁发特殊蓝标（带锯齿边），平台会二次审核确保真实性。用户可点击蓝标查看验证来源，或通过设置隐藏验证标识。目前暂未开放主动申请通道，但鼓励用户通过**域名绑定用户名**完成自主验证。
+
+---
+
+## <a name="8"></a>8. 教皇方济各逝世 多国领导人哀悼 
 <small>🔗 [bbc.co.uk](https://www.bbc.co.uk/news/live/crknlnzlrzdt): Pope Francis has died</small>
 
 
@@ -114,23 +126,11 @@ Nari Labs推出的**Dia**是一款1.6B参数的开源权重文本转语音模型
 
 ---
 
-## <a name="8"></a>8. Bluesky推出全新验证机制：蓝标认证与可信验证者 
-<small>🔗 [bsky.social](https://bsky.social/about/blog/04-21-2025-verification): A new form of verification on Bluesky</small>
-
-
-| 🔥🔥: 215 \| 💬: [161](https://news.ycombinator.com/item?id=43753651) \| 🗓️ 2025-04-21
-
-
-<br />
-Bluesky宣布升级验证系统，新增**蓝标认证**功能，平台将主动为真实且知名的账号添加蓝色勾选标记。同时引入**可信验证者**机制，允许《纽约时报》等权威机构直接为旗下账号颁发特殊蓝标（带锯齿边），平台会二次审核确保真实性。用户可点击蓝标查看验证来源，或通过设置隐藏验证标识。目前暂未开放主动申请通道，但鼓励用户通过**域名绑定用户名**完成自主验证。
-
----
-
 ## <a name="9"></a>9. LLM工具是开发者的“机甲战衣”，而非替代者 
 <small>🔗 [matthewsinclair.com](https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human): LLM-powered tools amplify developer capabilities rather than replacing them</small>
 
 
-| 🔥🔥: 197 \| 💬: [139](https://news.ycombinator.com/item?id=43752492) \| 🗓️ 2025-04-21
+| 🔥🔥: 205 \| 💬: [139](https://news.ycombinator.com/item?id=43752492) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -142,7 +142,7 @@ Bluesky宣布升级验证系统，新增**蓝标认证**功能，平台将主动
 <small>🔗 [github.com](https://github.com/ericjenott/Evertop): Evertop: E-ink IBM XT clone with 100+ hours of battery life</small>
 
 
-| 🔥🔥: 161 \| 💬: [49](https://news.ycombinator.com/item?id=43757037) \| 🗓️ 2025-04-21
+| 🔥🔥: 202 \| 💬: [62](https://news.ycombinator.com/item?id=43757037) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -154,7 +154,7 @@ EverTop是一款**超低功耗**的便携式电脑，复刻了IBM XT架构（801
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/21/ai-assisted-search/): AI assisted search-based research works now</small>
 
 
-| 🔥🔥: 134 \| 💬: [63](https://news.ycombinator.com/item?id=43752262) \| 🗓️ 2025-04-21
+| 🔥🔥: 147 \| 💬: [70](https://news.ycombinator.com/item?id=43752262) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -166,7 +166,7 @@ Simon Willison在2025年4月21日的博客中指出，经过两年半的发展�
 <small>🔗 [theverge.com](https://www.theverge.com/cs/features/651701/vietnam-operation-babylift-adoption-transnational): Out of the Fog</small>
 
 
-| 🔥🔥: 131 \| 💬: [31](https://news.ycombinator.com/item?id=43752532) \| 🗓️ 2025-04-21
+| 🔥🔥: 134 \| 💬: [31](https://news.ycombinator.com/item?id=43752532) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -174,47 +174,11 @@ Simon Willison在2025年4月21日的博客中指出，经过两年半的发展�
 
 ---
 
-## <a name="13"></a>13. 非洲互联网资源遭窃取：中国商人操控IP地址牟利 
-<small>🔗 [capeindependent.com](https://www.capeindependent.com/article/the-campaign-to-subvert-africas-internet-registry): The campaign to subvert Africa's internet registry</small>
-
-
-| 🔥🔥: 104 \| 💬: [27](https://news.ycombinator.com/item?id=43753738) \| 🗓️ 2025-04-21
-
-
-<br />
-非洲互联网注册机构**AFRINIC**原定选举新董事会，但因中国公民**卢恒**通过诉讼冻结其资产而陷入瘫痪。卢恒通过空壳公司获取非洲稀缺的IPv4地址（占非洲总量5%），并违规转售至境外，部分IP甚至涉及儿童色情和赌博。AFRINIC曾收回其IP，但卢恒在毛里求斯发起25起诉讼，利用法律漏洞瘫痪该机构运营。目前AFRINIC由官方接管，但核心功能仍受阻，威胁非洲互联网发展。
-
----
-
-## <a name="14"></a>14. 美国国家劳工关系委员会（NLRB）内部举报人揭露DOGE项目异常情况 
-<small>🔗 [whistlebloweraid.org](https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf): Whistleblower statement on anomalies at time of DOGE work at NLRB [pdf]</small>
-
-
-| 🔥🔥: 104 \| 💬: [13](https://news.ycombinator.com/item?id=43755298) \| 🗓️ 2025-04-21
-
-
-<br />
-该PDF文件为举报人提交的正式声明，指控在美国国家劳工关系委员会（NLRB）**DOGE项目**工作期间发现的**异常操作**和潜在违规行为。文档包含技术元数据（如生成时间、操作系统版本等），但核心内容涉及内部流程中的**不当行为**，可能影响项目公正性。由于文件为加密PDF，具体细节未公开，但举报性质表明事件涉及**系统性风险**，需进一步调查。
-
----
-
-## <a name="15"></a>15. Nerdlog：高效多主机日志查看工具，带时间轴直方图 
-<small>🔗 [github.com](https://github.com/dimonomid/nerdlog): Show HN: Nerdlog – Fast, multi-host TUI log viewer with timeline histogram</small>
-
-
-| 🔥: 99 \| 💬: [37](https://news.ycombinator.com/item?id=43750765) \| 🗓️ 2025-04-21
-
-
-<br />
-Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，支持同时从多台远程主机获取日志，并生成时间轴直方图。无需中央服务器，直接通过SSH连接远程主机，**实时过滤和分析日志**，仅传输必要数据（如250条日志和直方图数据），节省带宽。适用于系统日志（如/var/log/messages），支持自定义日志格式和文件。提供类Vim的快捷键操作，包括查询历史、时间范围调整和日志导出功能。需SSH访问权限及Gawk支持，目前处于概念验证阶段，但已具备较高实用性。
-
----
-
-## <a name="16"></a>16. 价格调整公告 
+## <a name="13"></a>13. 价格调整公告 
 <small>🔗 [windsurf.com](https://windsurf.com/blog/pricing-v2): An update to our pricing</small>
 
 
-| 🔥: 99 \| 💬: [63](https://news.ycombinator.com/item?id=43755321) \| 🗓️ 2025-04-21
+| 🔥🔥: 107 \| 💬: [64](https://news.ycombinator.com/item?id=43755321) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -222,7 +186,55 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 ---
 
-## <a name="17"></a>17. 官方滥用国家安全手段：从恶劣走向骇人听闻 
+## <a name="14"></a>14. 美国国家劳工关系委员会（NLRB）内部举报人揭露DOGE项目异常情况 
+<small>🔗 [whistlebloweraid.org](https://whistlebloweraid.org/wp-content/uploads/2025/04/2025_0414_Berulis-Disclosure-HELP-and-Oversight-with-Exhibits.pdf): Whistleblower statement on anomalies at time of DOGE work at NLRB [pdf]</small>
+
+
+| 🔥🔥: 106 \| 💬: [13](https://news.ycombinator.com/item?id=43755298) \| 🗓️ 2025-04-21
+
+
+<br />
+该PDF文件为举报人提交的正式声明，指控在美国国家劳工关系委员会（NLRB）**DOGE项目**工作期间发现的**异常操作**和潜在违规行为。文档包含技术元数据（如生成时间、操作系统版本等），但核心内容涉及内部流程中的**不当行为**，可能影响项目公正性。由于文件为加密PDF，具体细节未公开，但举报性质表明事件涉及**系统性风险**，需进一步调查。
+
+---
+
+## <a name="15"></a>15. 非洲互联网资源遭窃取：中国商人操控IP地址牟利 
+<small>🔗 [capeindependent.com](https://www.capeindependent.com/article/the-campaign-to-subvert-africas-internet-registry): The campaign to subvert Africa's internet registry</small>
+
+
+| 🔥🔥: 105 \| 💬: [27](https://news.ycombinator.com/item?id=43753738) \| 🗓️ 2025-04-21
+
+
+<br />
+非洲互联网注册机构**AFRINIC**原定选举新董事会，但因中国公民**卢恒**通过诉讼冻结其资产而陷入瘫痪。卢恒通过空壳公司获取非洲稀缺的IPv4地址（占非洲总量5%），并违规转售至境外，部分IP甚至涉及儿童色情和赌博。AFRINIC曾收回其IP，但卢恒在毛里求斯发起25起诉讼，利用法律漏洞瘫痪该机构运营。目前AFRINIC由官方接管，但核心功能仍受阻，威胁非洲互联网发展。
+
+---
+
+## <a name="16"></a>16. Nerdlog：高效多主机日志查看工具，带时间轴直方图 
+<small>🔗 [github.com](https://github.com/dimonomid/nerdlog): Show HN: Nerdlog – Fast, multi-host TUI log viewer with timeline histogram</small>
+
+
+| 🔥: 100 \| 💬: [37](https://news.ycombinator.com/item?id=43750765) \| 🗓️ 2025-04-21
+
+
+<br />
+Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，支持同时从多台远程主机获取日志，并生成时间轴直方图。无需中央服务器，直接通过SSH连接远程主机，**实时过滤和分析日志**，仅传输必要数据（如250条日志和直方图数据），节省带宽。适用于系统日志（如/var/log/messages），支持自定义日志格式和文件。提供类Vim的快捷键操作，包括查询历史、时间范围调整和日志导出功能。需SSH访问权限及Gawk支持，目前处于概念验证阶段，但已具备较高实用性。
+
+---
+
+## <a name="17"></a>17. 英伟达王冠松动：算力未来面临四大挑战 
+<small>🔗 [mohitdagarwal.substack.com](https://mohitdagarwal.substack.com/p/from-dominance-to-dilemma-nvidia): The Future of Compute: Nvidia's Crown Is Slipping</small>
+
+
+| 🔥: 100 \| 💬: [64](https://news.ycombinator.com/item?id=43757017) \| 🗓️ 2025-04-21
+
+
+<br />
+随着AI需求向**超大规模云厂商**集中，**定制芯片**崛起和**分布式训练**趋势加剧，英伟达的垄断地位正受冲击。谷歌TPU、亚马逊Trainium等自研芯片已替代部分GPU需求，而微软、Meta也在加速布局。**独立云服务商**因价格战陷入困境，进一步削弱英伟达的多元化客户基础。长期来看，超大规模企业主导的垂直整合模式可能重塑AI算力格局。
+
+---
+
+## <a name="18"></a>18. 官方滥用国家安全手段：从恶劣走向骇人听闻 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/14/opinion_secret_state_security/?td=rt-3a): Official abuse of state security has always been bad, now it's horrifying</small>
 
 
@@ -234,11 +246,11 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 ---
 
-## <a name="18"></a>18. 表格化编程：受限环境下的表达性计算新范式 
+## <a name="19"></a>19. 表格化编程：受限环境下的表达性计算新范式 
 <small>🔗 [sam.elborai.me](https://sam.elborai.me/articles/tabular-programming/): Tabular Programming: A New Paradigm for Expressive Computing</small>
 
 
-| 🔥: 86 \| 💬: [20](https://news.ycombinator.com/item?id=43751168) \| 🗓️ 2025-04-21
+| 🔥: 89 \| 💬: [21](https://news.ycombinator.com/item?id=43751168) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -246,11 +258,11 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 ---
 
-## <a name="19"></a>19. 苹果用户遭窃后数据被永久封锁，受害者集体起诉 
+## <a name="20"></a>20. 苹果用户遭窃后数据被永久封锁，受害者集体起诉 
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/04/20/apple-stolen-iphone-lawsuit-theft/): Thieves took their iPhones. Apple won't give their digital lives back</small>
 
 
-| 🔥: 84 \| 💬: [78](https://news.ycombinator.com/item?id=43755753) \| 🗓️ 2025-04-21
+| 🔥: 87 \| 💬: [82](https://news.ycombinator.com/item?id=43755753) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -258,23 +270,11 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 ---
 
-## <a name="20"></a>20. 英伟达王冠松动：算力未来面临四大挑战 
-<small>🔗 [mohitdagarwal.substack.com](https://mohitdagarwal.substack.com/p/from-dominance-to-dilemma-nvidia): The Future of Compute: Nvidia's Crown Is Slipping</small>
-
-
-| 🔥: 80 \| 💬: [50](https://news.ycombinator.com/item?id=43757017) \| 🗓️ 2025-04-21
-
-
-<br />
-随着AI需求向**超大规模云厂商**集中，**定制芯片**崛起和**分布式训练**趋势加剧，英伟达的垄断地位正受冲击。谷歌TPU、亚马逊Trainium等自研芯片已替代部分GPU需求，而微软、Meta也在加速布局。**独立云服务商**因价格战陷入困境，进一步削弱英伟达的多元化客户基础。长期来看，超大规模企业主导的垂直整合模式可能重塑AI算力格局。
-
----
-
 ## <a name="21"></a>21. M.2 HDMI采集卡评测：小巧强悍的Linux兼容设备 
 <small>🔗 [interfacinglinux.com](https://interfacinglinux.com/2025/04/18/magewell-eco-m-2-hdmi-capture-card/): A M.2 HDMI capture card</small>
 
 
-| 🔥: 76 \| 💬: [26](https://news.ycombinator.com/item?id=43755286) \| 🗓️ 2025-04-21
+| 🔥: 84 \| 💬: [28](https://news.ycombinator.com/item?id=43755286) \| 🗓️ 2025-04-21
 
 
 <br />
@@ -282,7 +282,19 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 ---
 
-## <a name="22"></a>22. 正则表达式并不难（2023） 
+## <a name="22"></a>22. 1是质数吗？这个问题为何重要？ 
+<small>🔗 [mathenchant.wordpress.com](https://mathenchant.wordpress.com/2025/04/21/is-1-prime-and-does-it-matter/): Is 1 Prime, and Does It Matter?</small>
+
+
+| 🔥: 74 \| 💬: [115](https://news.ycombinator.com/item?id=43755506) \| 🗓️ 2025-04-21
+
+
+<br />
+关于数字1是否属于**质数**的争议历史悠久。古希腊毕达哥拉斯学派认为1是构建数字的"单位"而非质数，而柏拉图学派则持相反观点。18世纪数学家欧拉和20世纪的哈代也曾将1归类为质数，体现了数学定义的灵活性。现代数学界达成共识将1排除在质数之外，主要因其会导致**算术基本定理**（唯一分解定理）等核心概念表述复杂化。但1的独特性使其被归为**单位数**，在代数数论中具有特殊地位。这场争论的本质并非数学真理的对立，而是人类为追求理论简洁性对术语的优化选择。
+
+---
+
+## <a name="23"></a>23. 正则表达式并不难（2023） 
 <small>🔗 [timkellogg.me](https://timkellogg.me/blog/2023/07/11/regex): Regex Isn't Hard (2023)</small>
 
 
@@ -294,23 +306,11 @@ Nerdlog 是一款**快速、去中心化**的终端界面日志查看工具，�
 
 ---
 
-## <a name="23"></a>23. 1是质数吗？这个问题为何重要？ 
-<small>🔗 [mathenchant.wordpress.com](https://mathenchant.wordpress.com/2025/04/21/is-1-prime-and-does-it-matter/): Is 1 Prime, and Does It Matter?</small>
-
-
-| 🔥: 69 \| 💬: [108](https://news.ycombinator.com/item?id=43755506) \| 🗓️ 2025-04-21
-
-
-<br />
-关于数字1是否属于**质数**的争议历史悠久。古希腊毕达哥拉斯学派认为1是构建数字的"单位"而非质数，而柏拉图学派则持相反观点。18世纪数学家欧拉和20世纪的哈代也曾将1归类为质数，体现了数学定义的灵活性。现代数学界达成共识将1排除在质数之外，主要因其会导致**算术基本定理**（唯一分解定理）等核心概念表述复杂化。但1的独特性使其被归为**单位数**，在代数数论中具有特殊地位。这场争论的本质并非数学真理的对立，而是人类为追求理论简洁性对术语的优化选择。
-
----
-
 ## <a name="24"></a>24. ChatGPT等AI工具正在削弱人类智力吗？ 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/apr/19/dont-ask-what-ai-can-do-for-us-ask-what-it-is-doing-to-us-are-chatgpt-and-co-harming-human-intelligence): Are ChatGPT and co harming human intelligence?</small>
 
 
-| 🔥: 66 \| 💬: [78](https://news.ycombinator.com/item?id=43750165) \| 🗓️ 2025-04-21
+| 🔥: 67 \| 💬: [79](https://news.ycombinator.com/item?id=43750165) \| 🗓️ 2025-04-21
 
 
 <br />
