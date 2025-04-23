@@ -12,7 +12,7 @@ tags:
 1. Supabase完成2亿美元D轮融资，估值达20亿美元；
 1. Sapphire：基于Rust的macOS包管理器（Homebrew替代品）；
 1. ClickHouse引入惰性物化技术，查询性能提升千倍；
-1. 机器编织的代数语义；
+1. Atuin Desktop：让运维手册真正“跑起来”；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/): Whistleblower: DOGE Siphoned NLRB Case Data</small>
 
 
-| 🔥🔥: 774 \| 💬: [419](https://news.ycombinator.com/item?id=43760801) \| 🗓️ 2025-04-22
+| 🔥🔥: 776 \| 💬: [428](https://news.ycombinator.com/item?id=43760801) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [finance.yahoo.com](https://finance.yahoo.com/news/exclusive-supabase-raises-200-million-112154867.html): Supabase raises $200M Series D at $2B valuation</small>
 
 
-| 🔥🔥: 275 \| 💬: [251](https://news.ycombinator.com/item?id=43763225) \| 🗓️ 2025-04-22
+| 🔥🔥: 285 \| 💬: [258](https://news.ycombinator.com/item?id=43763225) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/alexykn/sapphire): Sapphire: Rust based package manager for macOS (Homebrew replacement)</small>
 
 
-| 🔥🔥: 229 \| 💬: [184](https://news.ycombinator.com/item?id=43765011) \| 🗓️ 2025-04-22
+| 🔥🔥: 249 \| 💬: [190](https://news.ycombinator.com/item?id=43765011) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -63,7 +63,7 @@ Sapphire是一款**实验性**的Rust开发包管理器，专为macOS设计，�
 <small>🔗 [clickhouse.com](https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization): ClickHouse gets lazier and faster: Introducing lazy materialization</small>
 
 
-| 🔥🔥: 204 \| 💬: [49](https://news.ycombinator.com/item?id=43763688) \| 🗓️ 2025-04-22
+| 🔥🔥: 216 \| 💬: [52](https://news.ycombinator.com/item?id=43763688) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -73,23 +73,11 @@ ClickHouse原有的**列式存储**、**稀疏索引**和**PREWHERE过滤**已�
 
 ---
 
-## <a name="5"></a>5. 机器编织的代数语义 
-<small>🔗 [uwplse.org](https://uwplse.org/2025/03/31/Algebraic-Knitting.html): Algebraic Semantics for Machine Knitting</small>
-
-
-| 🔥🔥: 177 \| 💬: [12](https://news.ycombinator.com/item?id=43763614) \| 🗓️ 2025-04-22
-
-
-<br />
-编程语言通常有严格的**语义**定义，但机器编织领域尚缺乏此类规范。作者探讨如何为机器编织建立数学语义，涉及**代数拓扑**、**群论**等理论。核心问题是判断编织指令是否可交换（如并行执行），传统编程依赖数据依赖性，而机器编织还需考虑三维空间中纱线的交叉缠绕（可能引发“钩挂”）。现有研究用纽结理论描述编织语义，但计算机难以处理连续变形，因此需转向更计算机友好的代数方法（如**辫群**）。这一探索甚至与拓扑量子计算存在奇妙关联。
-
----
-
-## <a name="6"></a>6. Atuin Desktop：让运维手册真正“跑起来” 
+## <a name="5"></a>5. Atuin Desktop：让运维手册真正“跑起来” 
 <small>🔗 [blog.atuin.sh](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/): Atuin Desktop: Runbooks That Run</small>
 
 
-| 🔥🔥: 175 \| 💬: [43](https://news.ycombinator.com/item?id=43766200) \| 🗓️ 2025-04-22
+| 🔥🔥: 203 \| 💬: [52](https://news.ycombinator.com/item?id=43766200) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -97,11 +85,23 @@ ClickHouse原有的**列式存储**、**稀疏索引**和**PREWHERE过滤**已�
 
 ---
 
+## <a name="6"></a>6. 机器编织的代数语义 
+<small>🔗 [uwplse.org](https://uwplse.org/2025/03/31/Algebraic-Knitting.html): Algebraic Semantics for Machine Knitting</small>
+
+
+| 🔥🔥: 180 \| 💬: [12](https://news.ycombinator.com/item?id=43763614) \| 🗓️ 2025-04-22
+
+
+<br />
+编程语言通常有严格的**语义**定义，但机器编织领域尚缺乏此类规范。作者探讨如何为机器编织建立数学语义，涉及**代数拓扑**、**群论**等理论。核心问题是判断编织指令是否可交换（如并行执行），传统编程依赖数据依赖性，而机器编织还需考虑三维空间中纱线的交叉缠绕（可能引发“钩挂”）。现有研究用纽结理论描述编织语义，但计算机难以处理连续变形，因此需转向更计算机友好的代数方法（如**辫群**）。这一探索甚至与拓扑量子计算存在奇妙关联。
+
+---
+
 ## <a name="7"></a>7. SerenityOS：一封献给90年代用户界面的情书 
 <small>🔗 [serenityos.org](https://serenityos.org/): SerenityOS is a love letter to '90s user interfaces</small>
 
 
-| 🔥🔥: 172 \| 💬: [176](https://news.ycombinator.com/item?id=43760626) \| 🗓️ 2025-04-22
+| 🔥🔥: 172 \| 💬: [178](https://news.ycombinator.com/item?id=43760626) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -113,7 +113,7 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 <small>🔗 [hey.earth](https://www.hey.earth/posts/duckdb-doom): Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)</small>
 
 
-| 🔥🔥: 165 \| 💬: [30](https://news.ycombinator.com/item?id=43761998) \| 🗓️ 2025-04-22
+| 🔥🔥: 166 \| 💬: [30](https://news.ycombinator.com/item?id=43761998) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -125,7 +125,7 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 <small>🔗 [nehalslearnings.substack.com](https://nehalslearnings.substack.com/p/i-should-have-loved-biology-too): I should have loved biology too</small>
 
 
-| 🔥🔥: 149 \| 💬: [102](https://news.ycombinator.com/item?id=43764076) \| 🗓️ 2025-04-22
+| 🔥🔥: 157 \| 💬: [110](https://news.ycombinator.com/item?id=43764076) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -133,23 +133,11 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 
 ---
 
-## <a name="10"></a>10. 开源基于ESP32和OpenAI的实时AI玩具公司项目 
-<small>🔗 [github.com](https://github.com/akdeb/ElatoAI): Show HN: I open-sourced my AI toy company that runs on ESP32 and OpenAI realtime</small>
-
-
-| 🔥🔥: 128 \| 💬: [63](https://news.ycombinator.com/item?id=43762409) \| 🗓️ 2025-04-22
-
-
-<br />
-该项目利用**ESP32微控制器**和**OpenAI实时API**，通过安全WebSocket与Deno边缘函数实现全球范围内超过10分钟的实时AI语音对话，适用于智能玩具、伴侣及设备。核心功能包括**实时语音转换**、自定义AI角色、Opus音频压缩及低延迟边缘计算。技术栈涵盖Next.js前端、Supabase数据库和Arduino框架，支持设备管理与用户认证。项目已开源，采用MIT许可证，欢迎开发者贡献。
-
----
-
-## <a name="11"></a>11. 多项式特征真是万恶之源吗？(2024) 
+## <a name="10"></a>10. 多项式特征真是万恶之源吗？(2024) 
 <small>🔗 [alexshtf.github.io](https://alexshtf.github.io/2024/01/21/Bernstein.html): Are polynomial features the root of all evil? (2024)</small>
 
 
-| 🔥🔥: 124 \| 💬: [45](https://news.ycombinator.com/item?id=43764101) \| 🗓️ 2025-04-22
+| 🔥🔥: 132 \| 💬: [47](https://news.ycombinator.com/item?id=43764101) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -157,11 +145,23 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 
 ---
 
+## <a name="11"></a>11. 开源基于ESP32和OpenAI的实时AI玩具公司项目 
+<small>🔗 [github.com](https://github.com/akdeb/ElatoAI): Show HN: I open-sourced my AI toy company that runs on ESP32 and OpenAI realtime</small>
+
+
+| 🔥🔥: 129 \| 💬: [63](https://news.ycombinator.com/item?id=43762409) \| 🗓️ 2025-04-22
+
+
+<br />
+该项目利用**ESP32微控制器**和**OpenAI实时API**，通过安全WebSocket与Deno边缘函数实现全球范围内超过10分钟的实时AI语音对话，适用于智能玩具、伴侣及设备。核心功能包括**实时语音转换**、自定义AI角色、Opus音频压缩及低延迟边缘计算。技术栈涵盖Next.js前端、Supabase数据库和Arduino框架，支持设备管理与用户认证。项目已开源，采用MIT许可证，欢迎开发者贡献。
+
+---
+
 ## <a name="12"></a>12. π0.5：具备开放世界泛化能力的视觉-语言-动作模型 
 <small>🔗 [pi.website](https://pi.website/blog/pi05): π0.5: A VLA with open-world generalization</small>
 
 
-| 🔥🔥: 115 \| 💬: [28](https://news.ycombinator.com/item?id=43764439) \| 🗓️ 2025-04-22
+| 🔥🔥: 119 \| 💬: [32](https://news.ycombinator.com/item?id=43764439) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -173,7 +173,7 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 <small>🔗 [technologizer.com](https://technologizer.com/home/2025/04/22/pc-connection-ads-raccoons/): The raccoons who made computer magazine ads great</small>
 
 
-| 🔥🔥: 112 \| 💬: [30](https://news.ycombinator.com/item?id=43761633) \| 🗓️ 2025-04-22
+| 🔥🔥: 117 \| 💬: [30](https://news.ycombinator.com/item?id=43761633) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -185,7 +185,7 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 <small>🔗 [github.com](https://github.com/morphik-org/morphik-core): Show HN: Morphik – Open-source RAG that understands PDF images, runs locally</small>
 
 
-| 🔥🔥: 108 \| 💬: [23](https://news.ycombinator.com/item?id=43763814) \| 🗓️ 2025-04-22
+| 🔥🔥: 116 \| 💬: [25](https://news.ycombinator.com/item?id=43763814) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -197,7 +197,7 @@ Morphik是一款**开源多模态检索增强生成（RAG）工具**，专为处
 <small>🔗 [thelogicaloptimist.com](https://thelogicaloptimist.com/index.php/2015/10/25/the-21-day-myth-create-new-habit/): How long does it take to create a new habit? (2015)</small>
 
 
-| 🔥: 99 \| 💬: [50](https://news.ycombinator.com/item?id=43765084) \| 🗓️ 2025-04-22
+| 🔥🔥: 114 \| 💬: [58](https://news.ycombinator.com/item?id=43765084) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -221,7 +221,7 @@ Morphik是一款**开源多模态检索增强生成（RAG）工具**，专为处
 <small>🔗 [cekrem.github.io](https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/): Coding as Craft: Going Back to the Old Gym</small>
 
 
-| 🔥: 95 \| 💬: [89](https://news.ycombinator.com/item?id=43760723) \| 🗓️ 2025-04-22
+| 🔥: 95 \| 💬: [90](https://news.ycombinator.com/item?id=43760723) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -229,23 +229,11 @@ Shopify CEO提出**“反射性使用AI”**已成为编码新标准，但作者
 
 ---
 
-## <a name="18"></a>18. FreeDOS 1.4 正式发布 
-<small>🔗 [freedos.org](https://www.freedos.org/download/announce.html): FreeDOS 1.4 Is Here</small>
-
-
-| 🔥: 87 \| 💬: [23](https://news.ycombinator.com/item?id=43760485) \| 🗓️ 2025-04-22
-
-
-<br />
-FreeDOS 1.4 是继 1.3 版本后的重大更新，包含多项改进：**程序包更新**（如 FreeCOM、Xcopy、Fdisk 等工具的优化与修复）、**精简包管理**（移除了不稳定的图形桌面，保留 OpenGEM）以及**安装介质重组**（优化 CD 内容分布，减少冗余）。新版本采用滚动测试发布机制，每月更新测试版，最终稳定版更高效可靠。此外，**内核暂未升级**，但未来将通过测试版逐步迭代。用户可通过 Live CD 或 USB 安装体验完整 DOS 环境。
-
----
-
-## <a name="19"></a>19. 大卫·汤的理论物理讲座与教材系列 
+## <a name="18"></a>18. 大卫·汤的理论物理讲座与教材系列 
 <small>🔗 [damtp.cam.ac.uk](https://www.damtp.cam.ac.uk/user/tong/books.html): David Tong Lectures on Theoretical Physics</small>
 
 
-| 🔥: 86 \| 💬: [12](https://news.ycombinator.com/item?id=43763223) \| 🗓️ 2025-04-22
+| 🔥: 91 \| 💬: [12](https://news.ycombinator.com/item?id=43763223) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -253,11 +241,23 @@ FreeDOS 1.4 是继 1.3 版本后的重大更新，包含多项改进：**程序�
 
 ---
 
+## <a name="19"></a>19. FreeDOS 1.4 正式发布 
+<small>🔗 [freedos.org](https://www.freedos.org/download/announce.html): FreeDOS 1.4 Is Here</small>
+
+
+| 🔥: 88 \| 💬: [24](https://news.ycombinator.com/item?id=43760485) \| 🗓️ 2025-04-22
+
+
+<br />
+FreeDOS 1.4 是继 1.3 版本后的重大更新，包含多项改进：**程序包更新**（如 FreeCOM、Xcopy、Fdisk 等工具的优化与修复）、**精简包管理**（移除了不稳定的图形桌面，保留 OpenGEM）以及**安装介质重组**（优化 CD 内容分布，减少冗余）。新版本采用滚动测试发布机制，每月更新测试版，最终稳定版更高效可靠。此外，**内核暂未升级**，但未来将通过测试版逐步迭代。用户可通过 Live CD 或 USB 安装体验完整 DOS 环境。
+
+---
+
 ## <a name="20"></a>20. 开源多智能体系统IDE：Rowboat 
 <small>🔗 [github.com](https://github.com/rowboatlabs/rowboat): Show HN: Rowboat – Open-source IDE for multi-agent systems</small>
 
 
-| 🔥: 81 \| 💬: [21](https://news.ycombinator.com/item?id=43763967) \| 🗓️ 2025-04-22
+| 🔥: 85 \| 💬: [24](https://news.ycombinator.com/item?id=43763967) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -269,7 +269,7 @@ Rowboat是一款**开源多智能体构建工具**，基于OpenAI的Agents SDK�
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/tariffs-electronics-prices): The many ways tarrifs will hit electronics</small>
 
 
-| 🔥: 79 \| 💬: [125](https://news.ycombinator.com/item?id=43760262) \| 🗓️ 2025-04-22
+| 🔥: 84 \| 💬: [128](https://news.ycombinator.com/item?id=43760262) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -293,7 +293,7 @@ IEEE Spectrum半导体编辑Samuel K. Moore采访了IPC首席经济学家Shawn D
 <small>🔗 [limit-of-rlvr.github.io](https://limit-of-rlvr.github.io/): Does RL Incentivize Reasoning in LLMs Beyond the Base Model?</small>
 
 
-| 🔥: 72 \| 💬: [26](https://news.ycombinator.com/item?id=43760625) \| 🗓️ 2025-04-22
+| 🔥: 73 \| 💬: [28](https://news.ycombinator.com/item?id=43760625) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -305,7 +305,7 @@ IEEE Spectrum半导体编辑Samuel K. Moore采访了IPC首席经济学家Shawn D
 <small>🔗 [math.ucr.edu](https://math.ucr.edu/home/baez/surprises.html): Surprises in Logic (2016)</small>
 
 
-| 🔥: 72 \| 💬: [31](https://news.ycombinator.com/item?id=43763291) \| 🗓️ 2025-04-22
+| 🔥: 73 \| 💬: [34](https://news.ycombinator.com/item?id=43763291) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -317,7 +317,7 @@ IEEE Spectrum半导体编辑Samuel K. Moore采访了IPC首席经济学家Shawn D
 <small>🔗 [madhavajay.com](https://madhavajay.com/the-cold-start-problem-using-network-effects-to-scale-your-product/): The Cold Start Problem: Using Network Effects to Scale Your Product – A Review</small>
 
 
-| 🔥: 69 \| 💬: [18](https://news.ycombinator.com/item?id=43761835) \| 🗓️ 2025-04-22
+| 🔥: 70 \| 💬: [20](https://news.ycombinator.com/item?id=43761835) \| 🗓️ 2025-04-22
 
 
 <br />
