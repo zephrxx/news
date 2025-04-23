@@ -10,8 +10,8 @@ tags:
 
 1. 《GTA圣安地列斯20年陈年老Bug竟在Win11 24H2现形》；
 1. 你不会偷字体；
-1. 美国网络安全防御正从内部被瓦解；
 1. NLRB举报人指控DOGE员工窃取敏感数据；
+1. 美国网络安全防御正从内部被瓦解；
 1. 苹果和Meta因违反欧盟法律被罚数亿欧元；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cookieplmonster.github.io](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/): How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2</small>
 
 
-| 🔥🔥: 781 \| 💬: [167](https://news.ycombinator.com/item?id=43772311) \| 🗓️ 2025-04-23
+| 🔥🔥: 821 \| 💬: [178](https://news.ycombinator.com/item?id=43772311) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [fedi.rib.gay](https://fedi.rib.gay/notes/a6xqityngfubsz0f): You wouldn't steal a font</small>
 
 
-| 🔥🔥: 384 \| 💬: [106](https://news.ycombinator.com/item?id=43775926) \| 🗓️ 2025-04-23
+| 🔥🔥: 495 \| 💬: [141](https://news.ycombinator.com/item?id=43775926) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -47,23 +47,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 美国网络安全防御正从内部被瓦解 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/04/23/trump_us_security/): America's cyber defenses are being dismantled from the inside</small>
+## <a name="3"></a>3. NLRB举报人指控DOGE员工窃取敏感数据 
+<small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/): DOGE Worker’s Code Supports NLRB Whistleblower</small>
 
 
-| 🔥🔥: 319 \| 💬: [179](https://news.ycombinator.com/item?id=43770382) \| 🗓️ 2025-04-23
-
-
-<br />
-文章指出，**特朗普政府**及其主导的“政府效率部”（**DOGE**）正在系统性削弱美国的网络安全体系。关键案例包括**CVE漏洞数据库**因资金短缺濒临崩溃，以及网络安全高官被无故撤职。此外，政府解散了网络安全审查委员会，并将防御责任推给各州，而各州显然缺乏应对国家级黑客攻击的能力。内部数据泄露风险加剧，敏感信息可能已被非法获取。这些举措不仅危及美国，也将影响全球网络安全。
-
----
-
-## <a name="4"></a>4. NLRB举报人指控DOGE员工窃取敏感数据 
-<small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/): Doge Worker's Code Supports NLRB Whistleblower</small>
-
-
-| 🔥🔥: 286 \| 💬: [107](https://news.ycombinator.com/item?id=43776476) \| 🗓️ 2025-04-23
+| 🔥🔥: 438 \| 💬: [201](https://news.ycombinator.com/item?id=43776476) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -71,11 +59,23 @@ tags:
 
 ---
 
+## <a name="4"></a>4. 美国网络安全防御正从内部被瓦解 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/04/23/trump_us_security/): America's cyber defenses are being dismantled from the inside</small>
+
+
+| 🔥🔥: 320 \| 💬: [180](https://news.ycombinator.com/item?id=43770382) \| 🗓️ 2025-04-23
+
+
+<br />
+文章指出，**特朗普政府**及其主导的“政府效率部”（**DOGE**）正在系统性削弱美国的网络安全体系。关键案例包括**CVE漏洞数据库**因资金短缺濒临崩溃，以及网络安全高官被无故撤职。此外，政府解散了网络安全审查委员会，并将防御责任推给各州，而各州显然缺乏应对国家级黑客攻击的能力。内部数据泄露风险加剧，敏感信息可能已被非法获取。这些举措不仅危及美国，也将影响全球网络安全。
+
+---
+
 ## <a name="5"></a>5. 苹果和Meta因违反欧盟法律被罚数亿欧元 
 <small>🔗 [ca.finance.yahoo.com](https://ca.finance.yahoo.com/news/apple-fined-570-million-meta-094701712.html): Apple and Meta fined millions for breaching EU law</small>
 
 
-| 🔥🔥: 283 \| 💬: [439](https://news.ycombinator.com/item?id=43770337) \| 🗓️ 2025-04-23
+| 🔥🔥: 302 \| 💬: [450](https://news.ycombinator.com/item?id=43770337) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [sebs.website](https://sebs.website/blog/the%20gruen-transfer-is-consuming-the-internet): The Gruen Transfer is consuming the internet</small>
 
 
-| 🔥🔥: 255 \| 💬: [203](https://news.ycombinator.com/item?id=43769936) \| 🗓️ 2025-04-23
+| 🔥🔥: 258 \| 💬: [205](https://news.ycombinator.com/item?id=43769936) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [minc.commandlinerevolution.nl](https://minc.commandlinerevolution.nl/english/home.html): MinC Is Not Cygwin</small>
 
 
-| 🔥🔥: 242 \| 💬: [171](https://news.ycombinator.com/item?id=43770445) \| 🗓️ 2025-04-23
+| 🔥🔥: 247 \| 💬: [173](https://news.ycombinator.com/item?id=43770445) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -111,7 +111,7 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 <small>🔗 [ingau.me](https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/): How I blog with Obsidian, Hugo, GitHub, and Cloudflare</small>
 
 
-| 🔥🔥: 231 \| 💬: [192](https://news.ycombinator.com/item?id=43771645) \| 🗓️ 2025-04-23
+| 🔥🔥: 241 \| 💬: [200](https://news.ycombinator.com/item?id=43771645) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -123,7 +123,7 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 <small>🔗 [rakhim.exotext.com](https://rakhim.exotext.com/they-made-computers-behave-like-annoying-salesmen): They made computers behave like annoying salesmen</small>
 
 
-| 🔥🔥: 207 \| 💬: [120](https://news.ycombinator.com/item?id=43773710) \| 🗓️ 2025-04-23
+| 🔥🔥: 232 \| 💬: [138](https://news.ycombinator.com/item?id=43773710) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -143,7 +143,19 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 
 ---
 
-## <a name="11"></a>11. 欧盟重罚苹果5亿欧元、Meta2亿欧元 
+## <a name="11"></a>11. 大语言模型如何学会三维建模？ 
+<small>🔗 [willpatrick.xyz](https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html): Teaching LLMs how to solid model</small>
+
+
+| 🔥🔥: 140 \| 💬: [39](https://news.ycombinator.com/item?id=43774990) \| 🗓️ 2025-04-23
+
+
+<br />
+研究发现，**大语言模型（LLM）** 已能生成简单机械零件的CAD模型，并有望快速提升能力。作者通过**OpenSCAD**（程序化建模工具）测试发现，LLM能编写有效代码生成三维模型，甚至能结合工程知识（如螺栓孔直径需略大于标称值）。为评估性能，作者开发了自动化测试流程，对比生成模型与参考模型的几何差异。结果显示，**推理型模型**（如Gemini 2.5 Pro）表现优异，但复杂任务仍易出错。尽管当前方法仍显笨拙，但为AI辅助CAD设计提供了可行方向。
+
+---
+
+## <a name="12"></a>12. 欧盟重罚苹果5亿欧元、Meta2亿欧元 
 <small>🔗 [politico.eu](https://www.politico.eu/article/eu-fines-apple-meta-breaking-europe-digital-markets-act-dma/): EU fines Apple €500M and Meta €200M</small>
 
 
@@ -155,23 +167,11 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 
 ---
 
-## <a name="12"></a>12. 大语言模型如何学会三维建模？ 
-<small>🔗 [willpatrick.xyz](https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html): Teaching LLMs how to solid model</small>
-
-
-| 🔥🔥: 127 \| 💬: [32](https://news.ycombinator.com/item?id=43774990) \| 🗓️ 2025-04-23
-
-
-<br />
-研究发现，**大语言模型（LLM）** 已能生成简单机械零件的CAD模型，并有望快速提升能力。作者通过**OpenSCAD**（程序化建模工具）测试发现，LLM能编写有效代码生成三维模型，甚至能结合工程知识（如螺栓孔直径需略大于标称值）。为评估性能，作者开发了自动化测试流程，对比生成模型与参考模型的几何差异。结果显示，**推理型模型**（如Gemini 2.5 Pro）表现优异，但复杂任务仍易出错。尽管当前方法仍显笨拙，但为AI辅助CAD设计提供了可行方向。
-
----
-
 ## <a name="13"></a>13. 告别“氛围编程”：一个新手的心声 
 <small>🔗 [varunraghu.com](https://varunraghu.com/why-i-wont-be-vibe-coding-anymore/): I won't be vibe coding anymore: a noob's perspective</small>
 
 
-| 🔥🔥: 118 \| 💬: [139](https://news.ycombinator.com/item?id=43773977) \| 🗓️ 2025-04-23
+| 🔥🔥: 122 \| 💬: [139](https://news.ycombinator.com/item?id=43773977) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -183,7 +183,7 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 <small>🔗 [bitoff.org](https://www.bitoff.org/geocoding-apis-comparison/): Geocoding APIs compared: Pricing, free tiers and terms of use</small>
 
 
-| 🔥🔥: 114 \| 💬: [75](https://news.ycombinator.com/item?id=43770446) \| 🗓️ 2025-04-23
+| 🔥🔥: 118 \| 💬: [79](https://news.ycombinator.com/item?id=43770446) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -195,7 +195,7 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 <small>🔗 [watershedmagazine.com](https://watershedmagazine.com/features/sixty-years-on-we-still-dream-of-the-arrow/): Sixty Years On, We Still Dream of the Arrow</small>
 
 
-| 🔥: 95 \| 💬: [74](https://news.ycombinator.com/item?id=43770228) \| 🗓️ 2025-04-23
+| 🔥: 96 \| 💬: [75](https://news.ycombinator.com/item?id=43770228) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -207,7 +207,7 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 <small>🔗 [github.com](https://github.com/trycua/cua): Launch HN: Cua (YC X25) – Open-Source Docker Container for Computer-Use Agents</small>
 
 
-| 🔥: 90 \| 💬: [41](https://news.ycombinator.com/item?id=43773563) \| 🗓️ 2025-04-23
+| 🔥: 92 \| 💬: [41](https://news.ycombinator.com/item?id=43773563) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -235,7 +235,7 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 <small>🔗 [kevingal.com](https://kevingal.com/blog/cl-livecoding.html): Graphics livecoding in Common Lisp</small>
 
 
-| 🔥: 74 \| 💬: [22](https://news.ycombinator.com/item?id=43774726) \| 🗓️ 2025-04-23
+| 🔥: 85 \| 💬: [24](https://news.ycombinator.com/item?id=43774726) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -247,7 +247,7 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 <small>🔗 [iamcharliegraham.substack.com](https://iamcharliegraham.substack.com/publish/post/161906169): The Future of MCPs</small>
 
 
-| 🔥: 69 \| 💬: [39](https://news.ycombinator.com/item?id=43774327) \| 🗓️ 2025-04-23
+| 🔥: 79 \| 💬: [44](https://news.ycombinator.com/item?id=43774327) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -255,23 +255,11 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 
 ---
 
-## <a name="20"></a>20. 开源框架Moose：用ClickHouse快速构建分析后端 
-<small>🔗 [docs.fiveonefour.com](https://docs.fiveonefour.com/moose): Show HN: Moose – OSS framework to build analytical back ends with ClickHouse</small>
-
-
-| 🔥: 64 \| 💬: [15](https://news.ycombinator.com/item?id=43773976) \| 🗓️ 2025-04-23
-
-
-<br />
-Moose是一个**开源框架**，允许开发者使用纯TypeScript或Python代码构建分析后端。它通过**类型安全的数据模型**统一管理数据摄入、存储和API基础设施，自动生成ClickHouse表和Redpanda流等组件，解决传统工具链的碎片化和模式漂移问题。支持**实时流处理**和本地热重载开发，一键启动集成环境，显著提升开发效率。适用于实时分析、ETL工作流等场景。
-
----
-
-## <a name="21"></a>21. 《永恒万物：科技巨头的救世幻想》 
+## <a name="20"></a>20. 《永恒万物：科技巨头的救世幻想》 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/04/23/books/review/more-everything-forever-adam-becker.html): More Everything Forever</small>
 
 
-| 🔥: 63 \| 💬: [84](https://news.ycombinator.com/item?id=43773746) \| 🗓️ 2025-04-23
+| 🔥: 74 \| 💬: [96](https://news.ycombinator.com/item?id=43773746) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -279,11 +267,11 @@ Moose是一个**开源框架**，允许开发者使用纯TypeScript或Python代�
 
 ---
 
-## <a name="22"></a>22. 帆船调校模拟器 
+## <a name="21"></a>21. 帆船调校模拟器 
 <small>🔗 [simulator.atterwind.info](https://simulator.atterwind.info/): Sail-Trim Simulator</small>
 
 
-| 🔥: 58 \| 💬: [14](https://news.ycombinator.com/item?id=43775283) \| 🗓️ 2025-04-23
+| 🔥: 66 \| 💬: [15](https://news.ycombinator.com/item?id=43775283) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -291,11 +279,23 @@ Moose是一个**开源框架**，允许开发者使用纯TypeScript或Python代�
 
 ---
 
+## <a name="22"></a>22. 开源框架Moose：用ClickHouse快速构建分析后端 
+<small>🔗 [docs.fiveonefour.com](https://docs.fiveonefour.com/moose): Show HN: Moose – OSS framework to build analytical back ends with ClickHouse</small>
+
+
+| 🔥: 65 \| 💬: [15](https://news.ycombinator.com/item?id=43773976) \| 🗓️ 2025-04-23
+
+
+<br />
+Moose是一个**开源框架**，允许开发者使用纯TypeScript或Python代码构建分析后端。它通过**类型安全的数据模型**统一管理数据摄入、存储和API基础设施，自动生成ClickHouse表和Redpanda流等组件，解决传统工具链的碎片化和模式漂移问题。支持**实时流处理**和本地热重载开发，一键启动集成环境，显著提升开发效率。适用于实时分析、ETL工作流等场景。
+
+---
+
 ## <a name="23"></a>23. AI的“空热量”：治标不治本的孤独解药？ 
 <small>🔗 [peakhorse.substack.com](https://peakhorse.substack.com/p/empty-calories-of-ai-a-cure-for-loneliness): Empty Calories of AI: A Cure for Loneliness Worse Than the Disease?</small>
 
 
-| 🔥: 53 \| 💬: [51](https://news.ycombinator.com/item?id=43772696) \| 🗓️ 2025-04-23
+| 🔥: 54 \| 💬: [52](https://news.ycombinator.com/item?id=43772696) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -307,7 +307,7 @@ Moose是一个**开源框架**，允许开发者使用纯TypeScript或Python代�
 <small>🔗 [ntrs.nasa.gov](https://ntrs.nasa.gov/api/citations/20060024675/downloads/20060024675.pdf): Automated Antenna Design with Evolutionary Algorithms [pdf] (2006)</small>
 
 
-| 🔥: 52 \| 💬: [34](https://news.ycombinator.com/item?id=43772503) \| 🗓️ 2025-04-23
+| 🔥: 53 \| 💬: [44](https://news.ycombinator.com/item?id=43772503) \| 🗓️ 2025-04-23
 
 
 <br />
