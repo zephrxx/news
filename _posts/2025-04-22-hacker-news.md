@@ -12,7 +12,7 @@ tags:
 1. Supabase完成2亿美元D轮融资，估值达20亿美元；
 1. Sapphire：基于Rust的macOS包管理器（Homebrew替代品）；
 1. ClickHouse引入惰性物化技术，查询性能提升千倍；
-1. SerenityOS：一封献给90年代用户界面的情书；
+1. 机器编织的代数语义；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/): Whistleblower: DOGE Siphoned NLRB Case Data</small>
 
 
-| 🔥🔥: 773 \| 💬: [410](https://news.ycombinator.com/item?id=43760801) \| 🗓️ 2025-04-22
+| 🔥🔥: 774 \| 💬: [419](https://news.ycombinator.com/item?id=43760801) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [finance.yahoo.com](https://finance.yahoo.com/news/exclusive-supabase-raises-200-million-112154867.html): Supabase raises $200M Series D at $2B valuation</small>
 
 
-| 🔥🔥: 266 \| 💬: [243](https://news.ycombinator.com/item?id=43763225) \| 🗓️ 2025-04-22
+| 🔥🔥: 275 \| 💬: [251](https://news.ycombinator.com/item?id=43763225) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/alexykn/sapphire): Sapphire: Rust based package manager for macOS (Homebrew replacement)</small>
 
 
-| 🔥🔥: 199 \| 💬: [168](https://news.ycombinator.com/item?id=43765011) \| 🗓️ 2025-04-22
+| 🔥🔥: 229 \| 💬: [184](https://news.ycombinator.com/item?id=43765011) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -63,7 +63,7 @@ Sapphire是一款**实验性**的Rust开发包管理器，专为macOS设计，�
 <small>🔗 [clickhouse.com](https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization): ClickHouse gets lazier and faster: Introducing lazy materialization</small>
 
 
-| 🔥🔥: 196 \| 💬: [47](https://news.ycombinator.com/item?id=43763688) \| 🗓️ 2025-04-22
+| 🔥🔥: 204 \| 💬: [49](https://news.ycombinator.com/item?id=43763688) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -73,23 +73,11 @@ ClickHouse原有的**列式存储**、**稀疏索引**和**PREWHERE过滤**已�
 
 ---
 
-## <a name="5"></a>5. SerenityOS：一封献给90年代用户界面的情书 
-<small>🔗 [serenityos.org](https://serenityos.org/): SerenityOS is a love letter to '90s user interfaces</small>
-
-
-| 🔥🔥: 171 \| 💬: [176](https://news.ycombinator.com/item?id=43760626) \| 🗓️ 2025-04-22
-
-
-<br />
-SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计，灵感源自**90年代经典界面美学**，同时融合了现代类Unix系统的强大功能。它以真诚的态度借鉴了多个系统的优秀设计，目标是结合**90年代生产力软件的风格**与2000年代末期类Unix系统的用户友好性。该项目由爱好者打造，完全基于个人喜好，提供GitHub源码、Discord社区及详细的文档支持。
-
----
-
-## <a name="6"></a>6. 机器编织的代数语义 
+## <a name="5"></a>5. 机器编织的代数语义 
 <small>🔗 [uwplse.org](https://uwplse.org/2025/03/31/Algebraic-Knitting.html): Algebraic Semantics for Machine Knitting</small>
 
 
-| 🔥🔥: 167 \| 💬: [11](https://news.ycombinator.com/item?id=43763614) \| 🗓️ 2025-04-22
+| 🔥🔥: 177 \| 💬: [12](https://news.ycombinator.com/item?id=43763614) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -97,23 +85,11 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 
 ---
 
-## <a name="7"></a>7. 用SQL画3D图形：在浏览器里滥用DuckDB-WASM的疯狂实验 
-<small>🔗 [hey.earth](https://www.hey.earth/posts/duckdb-doom): Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)</small>
-
-
-| 🔥🔥: 160 \| 💬: [30](https://news.ycombinator.com/item?id=43761998) \| 🗓️ 2025-04-22
-
-
-<br />
-作者通过**DuckDB-WASM**（浏览器内的分析型数据库）构建了一个文本风格的《毁灭战士》克隆版，完全用SQL管理游戏状态和渲染逻辑。**地图、玩家坐标、子弹碰撞**等均由SQL表存储和计算，甚至用递归CTE实现光线追踪渲染。虽然性能有限（约6-7帧/秒），但证明了SQL在非常规场景下的潜力。过程中克服了WASM加载、SQL方言差异、异步竞态等问题，最终形成了一种**混合SQL计算与JavaScript渲染**的奇特架构。
-
----
-
-## <a name="8"></a>8. Atuin Desktop：让运维手册真正“跑起来” 
+## <a name="6"></a>6. Atuin Desktop：让运维手册真正“跑起来” 
 <small>🔗 [blog.atuin.sh](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/): Atuin Desktop: Runbooks That Run</small>
 
 
-| 🔥🔥: 141 \| 💬: [35](https://news.ycombinator.com/item?id=43766200) \| 🗓️ 2025-04-22
+| 🔥🔥: 175 \| 💬: [43](https://news.ycombinator.com/item?id=43766200) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -121,11 +97,35 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 
 ---
 
+## <a name="7"></a>7. SerenityOS：一封献给90年代用户界面的情书 
+<small>🔗 [serenityos.org](https://serenityos.org/): SerenityOS is a love letter to '90s user interfaces</small>
+
+
+| 🔥🔥: 172 \| 💬: [176](https://news.ycombinator.com/item?id=43760626) \| 🗓️ 2025-04-22
+
+
+<br />
+SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计，灵感源自**90年代经典界面美学**，同时融合了现代类Unix系统的强大功能。它以真诚的态度借鉴了多个系统的优秀设计，目标是结合**90年代生产力软件的风格**与2000年代末期类Unix系统的用户友好性。该项目由爱好者打造，完全基于个人喜好，提供GitHub源码、Discord社区及详细的文档支持。
+
+---
+
+## <a name="8"></a>8. 用SQL画3D图形：在浏览器里滥用DuckDB-WASM的疯狂实验 
+<small>🔗 [hey.earth](https://www.hey.earth/posts/duckdb-doom): Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)</small>
+
+
+| 🔥🔥: 165 \| 💬: [30](https://news.ycombinator.com/item?id=43761998) \| 🗓️ 2025-04-22
+
+
+<br />
+作者通过**DuckDB-WASM**（浏览器内的分析型数据库）构建了一个文本风格的《毁灭战士》克隆版，完全用SQL管理游戏状态和渲染逻辑。**地图、玩家坐标、子弹碰撞**等均由SQL表存储和计算，甚至用递归CTE实现光线追踪渲染。虽然性能有限（约6-7帧/秒），但证明了SQL在非常规场景下的潜力。过程中克服了WASM加载、SQL方言差异、异步竞态等问题，最终形成了一种**混合SQL计算与JavaScript渲染**的奇特架构。
+
+---
+
 ## <a name="9"></a>9. 我本该爱上生物学 
 <small>🔗 [nehalslearnings.substack.com](https://nehalslearnings.substack.com/p/i-should-have-loved-biology-too): I should have loved biology too</small>
 
 
-| 🔥🔥: 140 \| 💬: [95](https://news.ycombinator.com/item?id=43764076) \| 🗓️ 2025-04-22
+| 🔥🔥: 149 \| 💬: [102](https://news.ycombinator.com/item?id=43764076) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -137,7 +137,7 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 <small>🔗 [github.com](https://github.com/akdeb/ElatoAI): Show HN: I open-sourced my AI toy company that runs on ESP32 and OpenAI realtime</small>
 
 
-| 🔥🔥: 126 \| 💬: [62](https://news.ycombinator.com/item?id=43762409) \| 🗓️ 2025-04-22
+| 🔥🔥: 128 \| 💬: [63](https://news.ycombinator.com/item?id=43762409) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -149,7 +149,7 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 <small>🔗 [alexshtf.github.io](https://alexshtf.github.io/2024/01/21/Bernstein.html): Are polynomial features the root of all evil? (2024)</small>
 
 
-| 🔥🔥: 117 \| 💬: [44](https://news.ycombinator.com/item?id=43764101) \| 🗓️ 2025-04-22
+| 🔥🔥: 124 \| 💬: [45](https://news.ycombinator.com/item?id=43764101) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -161,7 +161,7 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 <small>🔗 [pi.website](https://pi.website/blog/pi05): π0.5: A VLA with open-world generalization</small>
 
 
-| 🔥🔥: 107 \| 💬: [26](https://news.ycombinator.com/item?id=43764439) \| 🗓️ 2025-04-22
+| 🔥🔥: 115 \| 💬: [28](https://news.ycombinator.com/item?id=43764439) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -173,7 +173,7 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 <small>🔗 [technologizer.com](https://technologizer.com/home/2025/04/22/pc-connection-ads-raccoons/): The raccoons who made computer magazine ads great</small>
 
 
-| 🔥🔥: 103 \| 💬: [30](https://news.ycombinator.com/item?id=43761633) \| 🗓️ 2025-04-22
+| 🔥🔥: 112 \| 💬: [30](https://news.ycombinator.com/item?id=43761633) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -185,7 +185,7 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 <small>🔗 [github.com](https://github.com/morphik-org/morphik-core): Show HN: Morphik – Open-source RAG that understands PDF images, runs locally</small>
 
 
-| 🔥🔥: 101 \| 💬: [21](https://news.ycombinator.com/item?id=43763814) \| 🗓️ 2025-04-22
+| 🔥🔥: 108 \| 💬: [23](https://news.ycombinator.com/item?id=43763814) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -193,7 +193,19 @@ Morphik是一款**开源多模态检索增强生成（RAG）工具**，专为处
 
 ---
 
-## <a name="15"></a>15. 数据压缩专家都讨厌的这个神奇技巧 
+## <a name="15"></a>15. 习惯养成并非21天 
+<small>🔗 [thelogicaloptimist.com](https://thelogicaloptimist.com/index.php/2015/10/25/the-21-day-myth-create-new-habit/): How long does it take to create a new habit? (2015)</small>
+
+
+| 🔥: 99 \| 💬: [50](https://news.ycombinator.com/item?id=43765084) \| 🗓️ 2025-04-22
+
+
+<br />
+1960年，马尔茨博士提出“21天养成习惯”的说法，但这一观点仅是观察性结论，缺乏科学依据。2010年《欧洲社会心理学杂志》的研究显示，**习惯形成平均需66天**，且因习惯类型和个人差异，可能持续2至8个月。研究发现，**偶尔中断不会破坏习惯养成**，关键在于持续努力。作者强调，**习惯不应设时限**，专注“为何改变”比天数更重要。
+
+---
+
+## <a name="16"></a>16. 数据压缩专家都讨厌的这个神奇技巧 
 <small>🔗 [media.ccc.de](https://media.ccc.de/v/eh22-8-more-than-just-quite-ok-data-compression-nerds-hate-this-one-trick): Data Compression Nerds Hate This One Trick [video]</small>
 
 
@@ -205,11 +217,11 @@ Morphik是一款**开源多模态检索增强生成（RAG）工具**，专为处
 
 ---
 
-## <a name="16"></a>16. 重返编程的原始健身房：在AI时代守护手艺精神 
+## <a name="17"></a>17. 重返编程的原始健身房：在AI时代守护手艺精神 
 <small>🔗 [cekrem.github.io](https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/): Coding as Craft: Going Back to the Old Gym</small>
 
 
-| 🔥: 95 \| 💬: [88](https://news.ycombinator.com/item?id=43760723) \| 🗓️ 2025-04-22
+| 🔥: 95 \| 💬: [89](https://news.ycombinator.com/item?id=43760723) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -217,7 +229,7 @@ Shopify CEO提出**“反射性使用AI”**已成为编码新标准，但作者
 
 ---
 
-## <a name="17"></a>17. FreeDOS 1.4 正式发布 
+## <a name="18"></a>18. FreeDOS 1.4 正式发布 
 <small>🔗 [freedos.org](https://www.freedos.org/download/announce.html): FreeDOS 1.4 Is Here</small>
 
 
@@ -229,11 +241,11 @@ FreeDOS 1.4 是继 1.3 版本后的重大更新，包含多项改进：**程序�
 
 ---
 
-## <a name="18"></a>18. 大卫·汤的理论物理讲座与教材系列 
+## <a name="19"></a>19. 大卫·汤的理论物理讲座与教材系列 
 <small>🔗 [damtp.cam.ac.uk](https://www.damtp.cam.ac.uk/user/tong/books.html): David Tong Lectures on Theoretical Physics</small>
 
 
-| 🔥: 84 \| 💬: [9](https://news.ycombinator.com/item?id=43763223) \| 🗓️ 2025-04-22
+| 🔥: 86 \| 💬: [12](https://news.ycombinator.com/item?id=43763223) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -241,47 +253,11 @@ FreeDOS 1.4 是继 1.3 版本后的重大更新，包含多项改进：**程序�
 
 ---
 
-## <a name="19"></a>19. 习惯养成并非21天 
-<small>🔗 [thelogicaloptimist.com](https://thelogicaloptimist.com/index.php/2015/10/25/the-21-day-myth-create-new-habit/): It Does Not Take 21 Days to Form a Habit</small>
-
-
-| 🔥: 83 \| 💬: [37](https://news.ycombinator.com/item?id=43765084) \| 🗓️ 2025-04-22
-
-
-<br />
-1960年，马尔茨博士提出“21天养成习惯”的说法，但这一观点仅是观察性结论，缺乏科学依据。2010年《欧洲社会心理学杂志》的研究显示，**习惯形成平均需66天**，且因习惯类型和个人差异，可能持续2至8个月。研究发现，**偶尔中断不会破坏习惯养成**，关键在于持续努力。作者强调，**习惯不应设时限**，专注“为何改变”比天数更重要。
-
----
-
-## <a name="20"></a>20. 关税将如何影响你的电子产品 
-<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/tariffs-electronics-prices): The many ways tarrifs will hit electronics</small>
-
-
-| 🔥: 76 \| 💬: [122](https://news.ycombinator.com/item?id=43760262) \| 🗓️ 2025-04-22
-
-
-<br />
-IEEE Spectrum半导体编辑Samuel K. Moore采访了IPC首席经济学家Shawn DuBravac，探讨**关税**对消费电子产品的多重影响。文章以2025年4月纽约苹果零售店的iPhone为例，指出**供应链成本上升**可能导致电子产品价格上涨，并分析**全球贸易政策**对科技行业的潜在冲击。
-
----
-
-## <a name="21"></a>21. RISC-V RVA23配置文件：生态发展的重要里程碑 
-<small>🔗 [riscv.org](https://riscv.org/ecosystem-news/2025/04/risc-v-rva23-a-major-milestone/): RISC-V RVA23 Profile: A major milestone</small>
-
-
-| 🔥: 75 \| 💬: [24](https://news.ycombinator.com/item?id=43760686) \| 🗓️ 2025-04-22
-
-
-<br />
-2024年北美RISC-V峰会上，**RVA23配置文件**正式获批，标志着RISC-V生态迈出关键一步。该配置文件通过统一64位应用处理器的实现标准，确保**丰富的操作系统栈**可跨硬件移植，同时避免**供应商锁定**，为RISC-V在应用处理器领域竞争奠定基础。
-
----
-
-## <a name="22"></a>22. 开源多智能体系统IDE：Rowboat 
+## <a name="20"></a>20. 开源多智能体系统IDE：Rowboat 
 <small>🔗 [github.com](https://github.com/rowboatlabs/rowboat): Show HN: Rowboat – Open-source IDE for multi-agent systems</small>
 
 
-| 🔥: 72 \| 💬: [18](https://news.ycombinator.com/item?id=43763967) \| 🗓️ 2025-04-22
+| 🔥: 81 \| 💬: [21](https://news.ycombinator.com/item?id=43763967) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -289,11 +265,35 @@ Rowboat是一款**开源多智能体构建工具**，基于OpenAI的Agents SDK�
 
 ---
 
+## <a name="21"></a>21. 关税将如何影响你的电子产品 
+<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/tariffs-electronics-prices): The many ways tarrifs will hit electronics</small>
+
+
+| 🔥: 79 \| 💬: [125](https://news.ycombinator.com/item?id=43760262) \| 🗓️ 2025-04-22
+
+
+<br />
+IEEE Spectrum半导体编辑Samuel K. Moore采访了IPC首席经济学家Shawn DuBravac，探讨**关税**对消费电子产品的多重影响。文章以2025年4月纽约苹果零售店的iPhone为例，指出**供应链成本上升**可能导致电子产品价格上涨，并分析**全球贸易政策**对科技行业的潜在冲击。
+
+---
+
+## <a name="22"></a>22. RISC-V RVA23配置文件：生态发展的重要里程碑 
+<small>🔗 [riscv.org](https://riscv.org/ecosystem-news/2025/04/risc-v-rva23-a-major-milestone/): RISC-V RVA23 Profile: A major milestone</small>
+
+
+| 🔥: 76 \| 💬: [24](https://news.ycombinator.com/item?id=43760686) \| 🗓️ 2025-04-22
+
+
+<br />
+2024年北美RISC-V峰会上，**RVA23配置文件**正式获批，标志着RISC-V生态迈出关键一步。该配置文件通过统一64位应用处理器的实现标准，确保**丰富的操作系统栈**可跨硬件移植，同时避免**供应商锁定**，为RISC-V在应用处理器领域竞争奠定基础。
+
+---
+
 ## <a name="23"></a>23. 强化学习能否激励大语言模型超越基础模型的推理能力？ 
 <small>🔗 [limit-of-rlvr.github.io](https://limit-of-rlvr.github.io/): Does RL Incentivize Reasoning in LLMs Beyond the Base Model?</small>
 
 
-| 🔥: 71 \| 💬: [26](https://news.ycombinator.com/item?id=43760625) \| 🗓️ 2025-04-22
+| 🔥: 72 \| 💬: [26](https://news.ycombinator.com/item?id=43760625) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -305,7 +305,7 @@ Rowboat是一款**开源多智能体构建工具**，基于OpenAI的Agents SDK�
 <small>🔗 [math.ucr.edu](https://math.ucr.edu/home/baez/surprises.html): Surprises in Logic (2016)</small>
 
 
-| 🔥: 71 \| 💬: [29](https://news.ycombinator.com/item?id=43763291) \| 🗓️ 2025-04-22
+| 🔥: 72 \| 💬: [31](https://news.ycombinator.com/item?id=43763291) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -317,7 +317,7 @@ Rowboat是一款**开源多智能体构建工具**，基于OpenAI的Agents SDK�
 <small>🔗 [madhavajay.com](https://madhavajay.com/the-cold-start-problem-using-network-effects-to-scale-your-product/): The Cold Start Problem: Using Network Effects to Scale Your Product – A Review</small>
 
 
-| 🔥: 67 \| 💬: [13](https://news.ycombinator.com/item?id=43761835) \| 🗓️ 2025-04-22
+| 🔥: 69 \| 💬: [18](https://news.ycombinator.com/item?id=43761835) \| 🗓️ 2025-04-22
 
 
 <br />
