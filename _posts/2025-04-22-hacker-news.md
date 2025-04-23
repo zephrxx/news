@@ -27,7 +27,7 @@ tags:
 <small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/): Whistleblower: DOGE Siphoned NLRB Case Data</small>
 
 
-| 🔥🔥: 782 \| 💬: [434](https://news.ycombinator.com/item?id=43760801) \| 🗓️ 2025-04-22
+| 🔥🔥: 783 \| 💬: [436](https://news.ycombinator.com/item?id=43760801) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [blog.atuin.sh](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/): Atuin Desktop: Runbooks That Run</small>
 
 
-| 🔥🔥: 319 \| 💬: [80](https://news.ycombinator.com/item?id=43766200) \| 🗓️ 2025-04-22
+| 🔥🔥: 355 \| 💬: [86](https://news.ycombinator.com/item?id=43766200) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/alexykn/sapphire): Sapphire: Rust based package manager for macOS (Homebrew replacement)</small>
 
 
-| 🔥🔥: 312 \| 💬: [217](https://news.ycombinator.com/item?id=43765011) \| 🗓️ 2025-04-22
+| 🔥🔥: 322 \| 💬: [224](https://news.ycombinator.com/item?id=43765011) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -63,7 +63,7 @@ Sapphire是一款**实验性**的Rust开发包管理器，专为macOS设计，�
 <small>🔗 [finance.yahoo.com](https://finance.yahoo.com/news/exclusive-supabase-raises-200-million-112154867.html): Supabase raises $200M Series D at $2B valuation</small>
 
 
-| 🔥🔥: 300 \| 💬: [275](https://news.ycombinator.com/item?id=43763225) \| 🗓️ 2025-04-22
+| 🔥🔥: 300 \| 💬: [291](https://news.ycombinator.com/item?id=43763225) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -75,7 +75,7 @@ Sapphire是一款**实验性**的Rust开发包管理器，专为macOS设计，�
 <small>🔗 [clickhouse.com](https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization): ClickHouse gets lazier and faster: Introducing lazy materialization</small>
 
 
-| 🔥🔥: 253 \| 💬: [72](https://news.ycombinator.com/item?id=43763688) \| 🗓️ 2025-04-22
+| 🔥🔥: 262 \| 💬: [79](https://news.ycombinator.com/item?id=43763688) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -89,7 +89,7 @@ ClickHouse原有的**列式存储**、**稀疏索引**和**PREWHERE过滤**已�
 <small>🔗 [uwplse.org](https://uwplse.org/2025/03/31/Algebraic-Knitting.html): Algebraic Semantics for Machine Knitting</small>
 
 
-| 🔥🔥: 202 \| 💬: [12](https://news.ycombinator.com/item?id=43763614) \| 🗓️ 2025-04-22
+| 🔥🔥: 207 \| 💬: [13](https://news.ycombinator.com/item?id=43763614) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -101,7 +101,7 @@ ClickHouse原有的**列式存储**、**稀疏索引**和**PREWHERE过滤**已�
 <small>🔗 [nehalslearnings.substack.com](https://nehalslearnings.substack.com/p/i-should-have-loved-biology-too): I should have loved biology too</small>
 
 
-| 🔥🔥: 186 \| 💬: [126](https://news.ycombinator.com/item?id=43764076) \| 🗓️ 2025-04-22
+| 🔥🔥: 196 \| 💬: [132](https://news.ycombinator.com/item?id=43764076) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -109,23 +109,11 @@ ClickHouse原有的**列式存储**、**稀疏索引**和**PREWHERE过滤**已�
 
 ---
 
-## <a name="8"></a>8. SerenityOS：一封献给90年代用户界面的情书 
-<small>🔗 [serenityos.org](https://serenityos.org/): SerenityOS is a love letter to '90s user interfaces</small>
-
-
-| 🔥🔥: 175 \| 💬: [182](https://news.ycombinator.com/item?id=43760626) \| 🗓️ 2025-04-22
-
-
-<br />
-SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计，灵感源自**90年代经典界面美学**，同时融合了现代类Unix系统的强大功能。它以真诚的态度借鉴了多个系统的优秀设计，目标是结合**90年代生产力软件的风格**与2000年代末期类Unix系统的用户友好性。该项目由爱好者打造，完全基于个人喜好，提供GitHub源码、Discord社区及详细的文档支持。
-
----
-
-## <a name="9"></a>9. 用SQL画3D图形：在浏览器里滥用DuckDB-WASM的疯狂实验 
+## <a name="8"></a>8. 用SQL画3D图形：在浏览器里滥用DuckDB-WASM的疯狂实验 
 <small>🔗 [hey.earth](https://www.hey.earth/posts/duckdb-doom): Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)</small>
 
 
-| 🔥🔥: 175 \| 💬: [31](https://news.ycombinator.com/item?id=43761998) \| 🗓️ 2025-04-22
+| 🔥🔥: 178 \| 💬: [31](https://news.ycombinator.com/item?id=43761998) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -133,23 +121,23 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 
 ---
 
-## <a name="10"></a>10. 多项式特征真是万恶之源吗？(2024) 
-<small>🔗 [alexshtf.github.io](https://alexshtf.github.io/2024/01/21/Bernstein.html): Are polynomial features the root of all evil? (2024)</small>
+## <a name="9"></a>9. SerenityOS：一封献给90年代用户界面的情书 
+<small>🔗 [serenityos.org](https://serenityos.org/): SerenityOS is a love letter to '90s user interfaces</small>
 
 
-| 🔥🔥: 153 \| 💬: [56](https://news.ycombinator.com/item?id=43764101) \| 🗓️ 2025-04-22
+| 🔥🔥: 176 \| 💬: [183](https://news.ycombinator.com/item?id=43760626) \| 🗓️ 2025-04-22
 
 
 <br />
-本文探讨了**高次多项式**在机器学习中的误解，指出其“易过拟合”的坏名声源于两大误区：一是使用了不合适的**标准基**，二是误解了魏尔斯特拉斯逼近定理（仅适用于区间内连续函数）。通过对比**切比雪夫基**和**伯恩斯坦基**的实验，作者证明只要选择合适基函数（如伯恩斯坦基）并规范化数据，高次多项式也能通过常规正则化有效控制。**伯恩斯坦基**因其系数单位一致性和加权平均特性，特别适合拟合任务，打破了“多项式必然振荡”的刻板印象。
+SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计，灵感源自**90年代经典界面美学**，同时融合了现代类Unix系统的强大功能。它以真诚的态度借鉴了多个系统的优秀设计，目标是结合**90年代生产力软件的风格**与2000年代末期类Unix系统的用户友好性。该项目由爱好者打造，完全基于个人喜好，提供GitHub源码、Discord社区及详细的文档支持。
 
 ---
 
-## <a name="11"></a>11. 习惯养成并非21天 
+## <a name="10"></a>10. 习惯养成并非21天 
 <small>🔗 [thelogicaloptimist.com](https://thelogicaloptimist.com/index.php/2015/10/25/the-21-day-myth-create-new-habit/): How long does it take to create a new habit? (2015)</small>
 
 
-| 🔥🔥: 149 \| 💬: [72](https://news.ycombinator.com/item?id=43765084) \| 🗓️ 2025-04-22
+| 🔥🔥: 160 \| 💬: [83](https://news.ycombinator.com/item?id=43765084) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -157,11 +145,23 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 
 ---
 
+## <a name="11"></a>11. 多项式特征真是万恶之源吗？(2024) 
+<small>🔗 [alexshtf.github.io](https://alexshtf.github.io/2024/01/21/Bernstein.html): Are polynomial features the root of all evil? (2024)</small>
+
+
+| 🔥🔥: 157 \| 💬: [61](https://news.ycombinator.com/item?id=43764101) \| 🗓️ 2025-04-22
+
+
+<br />
+本文探讨了**高次多项式**在机器学习中的误解，指出其“易过拟合”的坏名声源于两大误区：一是使用了不合适的**标准基**，二是误解了魏尔斯特拉斯逼近定理（仅适用于区间内连续函数）。通过对比**切比雪夫基**和**伯恩斯坦基**的实验，作者证明只要选择合适基函数（如伯恩斯坦基）并规范化数据，高次多项式也能通过常规正则化有效控制。**伯恩斯坦基**因其系数单位一致性和加权平均特性，特别适合拟合任务，打破了“多项式必然振荡”的刻板印象。
+
+---
+
 ## <a name="12"></a>12. 开源多模态RAG工具Morphik：本地运行，支持PDF图像解析 
 <small>🔗 [github.com](https://github.com/morphik-org/morphik-core): Show HN: Morphik – Open-source RAG that understands PDF images, runs locally</small>
 
 
-| 🔥🔥: 146 \| 💬: [30](https://news.ycombinator.com/item?id=43763814) \| 🗓️ 2025-04-22
+| 🔥🔥: 148 \| 💬: [30](https://news.ycombinator.com/item?id=43763814) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -173,7 +173,7 @@ Morphik是一款**开源多模态检索增强生成（RAG）工具**，专为处
 <small>🔗 [pi.website](https://pi.website/blog/pi05): π0.5: A VLA with open-world generalization</small>
 
 
-| 🔥🔥: 139 \| 💬: [37](https://news.ycombinator.com/item?id=43764439) \| 🗓️ 2025-04-22
+| 🔥🔥: 144 \| 💬: [38](https://news.ycombinator.com/item?id=43764439) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -185,7 +185,7 @@ Morphik是一款**开源多模态检索增强生成（RAG）工具**，专为处
 <small>🔗 [technologizer.com](https://technologizer.com/home/2025/04/22/pc-connection-ads-raccoons/): The raccoons who made computer magazine ads great</small>
 
 
-| 🔥🔥: 133 \| 💬: [31](https://news.ycombinator.com/item?id=43761633) \| 🗓️ 2025-04-22
+| 🔥🔥: 137 \| 💬: [32](https://news.ycombinator.com/item?id=43761633) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -197,7 +197,7 @@ Morphik是一款**开源多模态检索增强生成（RAG）工具**，专为处
 <small>🔗 [github.com](https://github.com/akdeb/ElatoAI): Show HN: I open-sourced my AI toy company that runs on ESP32 and OpenAI realtime</small>
 
 
-| 🔥🔥: 133 \| 💬: [64](https://news.ycombinator.com/item?id=43762409) \| 🗓️ 2025-04-22
+| 🔥🔥: 134 \| 💬: [64](https://news.ycombinator.com/item?id=43762409) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -209,7 +209,7 @@ Morphik是一款**开源多模态检索增强生成（RAG）工具**，专为处
 <small>🔗 [github.com](https://github.com/rowboatlabs/rowboat): Show HN: Rowboat – Open-source IDE for multi-agent systems</small>
 
 
-| 🔥🔥: 103 \| 💬: [34](https://news.ycombinator.com/item?id=43763967) \| 🗓️ 2025-04-22
+| 🔥🔥: 109 \| 💬: [37](https://news.ycombinator.com/item?id=43763967) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -221,7 +221,7 @@ Rowboat是一款**开源多智能体构建工具**，基于OpenAI的Agents SDK�
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/04/google-wont-ditch-third-party-cookies-in-chrome-after-all/): Google won't ditch third-party cookies in Chrome after all</small>
 
 
-| 🔥🔥: 103 \| 💬: [60](https://news.ycombinator.com/item?id=43766803) \| 🗓️ 2025-04-22
+| 🔥🔥: 107 \| 💬: [61](https://news.ycombinator.com/item?id=43766803) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -233,7 +233,7 @@ Rowboat是一款**开源多智能体构建工具**，基于OpenAI的Agents SDK�
 <small>🔗 [media.ccc.de](https://media.ccc.de/v/eh22-8-more-than-just-quite-ok-data-compression-nerds-hate-this-one-trick): Data Compression Nerds Hate This One Trick [video]</small>
 
 
-| 🔥: 98 \| 💬: [38](https://news.ycombinator.com/item?id=43760099) \| 🗓️ 2025-04-22
+| 🔥: 98 \| 💬: [39](https://news.ycombinator.com/item?id=43760099) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -245,7 +245,7 @@ Rowboat是一款**开源多智能体构建工具**，基于OpenAI的Agents SDK�
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/tariffs-electronics-prices): The many ways tarrifs will hit electronics</small>
 
 
-| 🔥: 95 \| 💬: [137](https://news.ycombinator.com/item?id=43760262) \| 🗓️ 2025-04-22
+| 🔥: 98 \| 💬: [135](https://news.ycombinator.com/item?id=43760262) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -277,7 +277,19 @@ Shopify CEO提出**“反射性使用AI”**已成为编码新标准，但作者
 
 ---
 
-## <a name="22"></a>22. FreeDOS 1.4 正式发布 
+## <a name="22"></a>22. CSS地狱 
+<small>🔗 [csshell.com](https://csshell.com/): CSS Hell</small>
+
+
+| 🔥: 91 \| 💬: [38](https://news.ycombinator.com/item?id=43766715) \| 🗓️ 2025-04-22
+
+
+<br />
+该内容提示用户**需启用JavaScript**才能运行应用。核心问题聚焦于**CSS技术困境**，暗示开发者可能面临样式表导致的**兼容性或功能异常**问题。简短却直击痛点，未展开具体技术细节。
+
+---
+
+## <a name="23"></a>23. FreeDOS 1.4 正式发布 
 <small>🔗 [freedos.org](https://www.freedos.org/download/announce.html): FreeDOS 1.4 Is Here</small>
 
 
@@ -289,11 +301,11 @@ FreeDOS 1.4 是继 1.3 版本后的重大更新，包含多项改进：**程序�
 
 ---
 
-## <a name="23"></a>23. 开源木艺——Hyperwood家具系统 
+## <a name="24"></a>24. 开源木艺——Hyperwood家具系统 
 <small>🔗 [hyperwood.org](https://hyperwood.org/): Hyperwood – Open-Source Furniture</small>
 
 
-| 🔥: 82 \| 💬: [3](https://news.ycombinator.com/item?id=43763565) \| 🗓️ 2025-04-22
+| 🔥: 85 \| 💬: [3](https://news.ycombinator.com/item?id=43763565) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -301,26 +313,14 @@ Hyperwood是一个**开源家具制作系统**，通过简易木条实现家具�
 
 ---
 
-## <a name="24"></a>24. 逻辑中的惊人发现（2016） 
+## <a name="25"></a>25. 逻辑中的惊人发现（2016） 
 <small>🔗 [math.ucr.edu](https://math.ucr.edu/home/baez/surprises.html): Surprises in Logic (2016)</small>
 
 
-| 🔥: 78 \| 💬: [36](https://news.ycombinator.com/item?id=43763291) \| 🗓️ 2025-04-22
+| 🔥: 79 \| 💬: [37](https://news.ycombinator.com/item?id=43763291) \| 🗓️ 2025-04-22
 
 
 <br />
 约翰·贝兹在文中探讨了**逻辑的复杂性屏障**：存在一个极低的界限L，我们无法证明任何特定事物的复杂度超过L。这一现象与**柴廷不完备定理**相关，该定理指出，尽管无限多的字符串复杂度高于L，但无法具体指认任一字符串。文章还结合了**意外考试悖论**，揭示了数学系统自证一致性时的矛盾。最后，作者提到存在一种计算机模型能计算任何不可计算函数，展现了逻辑与计算的深层奥秘。
-
----
-
-## <a name="25"></a>25. RISC-V RVA23配置文件：生态发展的重要里程碑 
-<small>🔗 [riscv.org](https://riscv.org/ecosystem-news/2025/04/risc-v-rva23-a-major-milestone/): RISC-V RVA23 Profile: A major milestone</small>
-
-
-| 🔥: 76 \| 💬: [24](https://news.ycombinator.com/item?id=43760686) \| 🗓️ 2025-04-22
-
-
-<br />
-2024年北美RISC-V峰会上，**RVA23配置文件**正式获批，标志着RISC-V生态迈出关键一步。该配置文件通过统一64位应用处理器的实现标准，确保**丰富的操作系统栈**可跨硬件移植，同时避免**供应商锁定**，为RISC-V在应用处理器领域竞争奠定基础。
 
 ---
