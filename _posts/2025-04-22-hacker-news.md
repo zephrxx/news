@@ -27,7 +27,7 @@ tags:
 <small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/): Whistleblower: DOGE Siphoned NLRB Case Data</small>
 
 
-| 🔥🔥: 778 \| 💬: [433](https://news.ycombinator.com/item?id=43760801) \| 🗓️ 2025-04-22
+| 🔥🔥: 779 \| 💬: [433](https://news.ycombinator.com/item?id=43760801) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [finance.yahoo.com](https://finance.yahoo.com/news/exclusive-supabase-raises-200-million-112154867.html): Supabase raises $200M Series D at $2B valuation</small>
 
 
-| 🔥🔥: 292 \| 💬: [262](https://news.ycombinator.com/item?id=43763225) \| 🗓️ 2025-04-22
+| 🔥🔥: 296 \| 💬: [262](https://news.ycombinator.com/item?id=43763225) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/alexykn/sapphire): Sapphire: Rust based package manager for macOS (Homebrew replacement)</small>
 
 
-| 🔥🔥: 271 \| 💬: [198](https://news.ycombinator.com/item?id=43765011) \| 🗓️ 2025-04-22
+| 🔥🔥: 286 \| 💬: [205](https://news.ycombinator.com/item?id=43765011) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -63,7 +63,7 @@ Sapphire是一款**实验性**的Rust开发包管理器，专为macOS设计，�
 <small>🔗 [blog.atuin.sh](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/): Atuin Desktop: Runbooks That Run</small>
 
 
-| 🔥🔥: 238 \| 💬: [60](https://news.ycombinator.com/item?id=43766200) \| 🗓️ 2025-04-22
+| 🔥🔥: 261 \| 💬: [68](https://news.ycombinator.com/item?id=43766200) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -75,7 +75,7 @@ Sapphire是一款**实验性**的Rust开发包管理器，专为macOS设计，�
 <small>🔗 [clickhouse.com](https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization): ClickHouse gets lazier and faster: Introducing lazy materialization</small>
 
 
-| 🔥🔥: 227 \| 💬: [63](https://news.ycombinator.com/item?id=43763688) \| 🗓️ 2025-04-22
+| 🔥🔥: 237 \| 💬: [67](https://news.ycombinator.com/item?id=43763688) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -89,7 +89,7 @@ ClickHouse原有的**列式存储**、**稀疏索引**和**PREWHERE过滤**已�
 <small>🔗 [uwplse.org](https://uwplse.org/2025/03/31/Algebraic-Knitting.html): Algebraic Semantics for Machine Knitting</small>
 
 
-| 🔥🔥: 185 \| 💬: [12](https://news.ycombinator.com/item?id=43763614) \| 🗓️ 2025-04-22
+| 🔥🔥: 190 \| 💬: [12](https://news.ycombinator.com/item?id=43763614) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -101,7 +101,7 @@ ClickHouse原有的**列式存储**、**稀疏索引**和**PREWHERE过滤**已�
 <small>🔗 [serenityos.org](https://serenityos.org/): SerenityOS is a love letter to '90s user interfaces</small>
 
 
-| 🔥🔥: 173 \| 💬: [179](https://news.ycombinator.com/item?id=43760626) \| 🗓️ 2025-04-22
+| 🔥🔥: 175 \| 💬: [179](https://news.ycombinator.com/item?id=43760626) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -113,7 +113,7 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 <small>🔗 [hey.earth](https://www.hey.earth/posts/duckdb-doom): Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)</small>
 
 
-| 🔥🔥: 168 \| 💬: [30](https://news.ycombinator.com/item?id=43761998) \| 🗓️ 2025-04-22
+| 🔥🔥: 172 \| 💬: [31](https://news.ycombinator.com/item?id=43761998) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -125,7 +125,7 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 <small>🔗 [nehalslearnings.substack.com](https://nehalslearnings.substack.com/p/i-should-have-loved-biology-too): I should have loved biology too</small>
 
 
-| 🔥🔥: 164 \| 💬: [113](https://news.ycombinator.com/item?id=43764076) \| 🗓️ 2025-04-22
+| 🔥🔥: 170 \| 💬: [113](https://news.ycombinator.com/item?id=43764076) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -137,7 +137,7 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 <small>🔗 [alexshtf.github.io](https://alexshtf.github.io/2024/01/21/Bernstein.html): Are polynomial features the root of all evil? (2024)</small>
 
 
-| 🔥🔥: 136 \| 💬: [50](https://news.ycombinator.com/item?id=43764101) \| 🗓️ 2025-04-22
+| 🔥🔥: 145 \| 💬: [54](https://news.ycombinator.com/item?id=43764101) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -149,7 +149,7 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 <small>🔗 [github.com](https://github.com/akdeb/ElatoAI): Show HN: I open-sourced my AI toy company that runs on ESP32 and OpenAI realtime</small>
 
 
-| 🔥🔥: 130 \| 💬: [64](https://news.ycombinator.com/item?id=43762409) \| 🗓️ 2025-04-22
+| 🔥🔥: 131 \| 💬: [64](https://news.ycombinator.com/item?id=43762409) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -157,15 +157,15 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 
 ---
 
-## <a name="12"></a>12. π0.5：具备开放世界泛化能力的视觉-语言-动作模型 
-<small>🔗 [pi.website](https://pi.website/blog/pi05): π0.5: A VLA with open-world generalization</small>
+## <a name="12"></a>12. 习惯养成并非21天 
+<small>🔗 [thelogicaloptimist.com](https://thelogicaloptimist.com/index.php/2015/10/25/the-21-day-myth-create-new-habit/): How long does it take to create a new habit? (2015)</small>
 
 
-| 🔥🔥: 125 \| 💬: [34](https://news.ycombinator.com/item?id=43764439) \| 🗓️ 2025-04-22
+| 🔥🔥: 130 \| 💬: [64](https://news.ycombinator.com/item?id=43765084) \| 🗓️ 2025-04-22
 
 
 <br />
-由Physical Intelligence公司开发的**π0.5**是一种新型**视觉-语言-动作模型（VLA）**，专注于在陌生环境中实现任务泛化。该模型通过**异构数据协同训练**（如多模态网络数据、跨机器人动作数据等），使机器人能在未经训练的家庭场景中完成整理厨房、收拾卧室等复杂任务。实验显示，π0.5在100个训练环境后泛化性能接近直接训练基准，并能结合高层语义推理与底层动作控制，展现类人的灵活性和适应性。尽管仍需优化，这一成果标志着**通用物理智能**的重要进展。
+1960年，马尔茨博士提出“21天养成习惯”的说法，但这一观点仅是观察性结论，缺乏科学依据。2010年《欧洲社会心理学杂志》的研究显示，**习惯形成平均需66天**，且因习惯类型和个人差异，可能持续2至8个月。研究发现，**偶尔中断不会破坏习惯养成**，关键在于持续努力。作者强调，**习惯不应设时限**，专注“为何改变”比天数更重要。
 
 ---
 
@@ -173,7 +173,7 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 <small>🔗 [technologizer.com](https://technologizer.com/home/2025/04/22/pc-connection-ads-raccoons/): The raccoons who made computer magazine ads great</small>
 
 
-| 🔥🔥: 123 \| 💬: [30](https://news.ycombinator.com/item?id=43761633) \| 🗓️ 2025-04-22
+| 🔥🔥: 127 \| 💬: [31](https://news.ycombinator.com/item?id=43761633) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -185,7 +185,7 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 <small>🔗 [github.com](https://github.com/morphik-org/morphik-core): Show HN: Morphik – Open-source RAG that understands PDF images, runs locally</small>
 
 
-| 🔥🔥: 122 \| 💬: [26](https://news.ycombinator.com/item?id=43763814) \| 🗓️ 2025-04-22
+| 🔥🔥: 127 \| 💬: [28](https://news.ycombinator.com/item?id=43763814) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -193,15 +193,15 @@ Morphik是一款**开源多模态检索增强生成（RAG）工具**，专为处
 
 ---
 
-## <a name="15"></a>15. 习惯养成并非21天 
-<small>🔗 [thelogicaloptimist.com](https://thelogicaloptimist.com/index.php/2015/10/25/the-21-day-myth-create-new-habit/): How long does it take to create a new habit? (2015)</small>
+## <a name="15"></a>15. π0.5：具备开放世界泛化能力的视觉-语言-动作模型 
+<small>🔗 [pi.website](https://pi.website/blog/pi05): π0.5: A VLA with open-world generalization</small>
 
 
-| 🔥🔥: 121 \| 💬: [61](https://news.ycombinator.com/item?id=43765084) \| 🗓️ 2025-04-22
+| 🔥🔥: 127 \| 💬: [35](https://news.ycombinator.com/item?id=43764439) \| 🗓️ 2025-04-22
 
 
 <br />
-1960年，马尔茨博士提出“21天养成习惯”的说法，但这一观点仅是观察性结论，缺乏科学依据。2010年《欧洲社会心理学杂志》的研究显示，**习惯形成平均需66天**，且因习惯类型和个人差异，可能持续2至8个月。研究发现，**偶尔中断不会破坏习惯养成**，关键在于持续努力。作者强调，**习惯不应设时限**，专注“为何改变”比天数更重要。
+由Physical Intelligence公司开发的**π0.5**是一种新型**视觉-语言-动作模型（VLA）**，专注于在陌生环境中实现任务泛化。该模型通过**异构数据协同训练**（如多模态网络数据、跨机器人动作数据等），使机器人能在未经训练的家庭场景中完成整理厨房、收拾卧室等复杂任务。实验显示，π0.5在100个训练环境后泛化性能接近直接训练基准，并能结合高层语义推理与底层动作控制，展现类人的灵活性和适应性。尽管仍需优化，这一成果标志着**通用物理智能**的重要进展。
 
 ---
 
@@ -233,7 +233,7 @@ Shopify CEO提出**“反射性使用AI”**已成为编码新标准，但作者
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/tariffs-electronics-prices): The many ways tarrifs will hit electronics</small>
 
 
-| 🔥: 91 \| 💬: [132](https://news.ycombinator.com/item?id=43760262) \| 🗓️ 2025-04-22
+| 🔥: 92 \| 💬: [133](https://news.ycombinator.com/item?id=43760262) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -245,7 +245,7 @@ IEEE Spectrum半导体编辑Samuel K. Moore采访了IPC首席经济学家Shawn D
 <small>🔗 [damtp.cam.ac.uk](https://www.damtp.cam.ac.uk/user/tong/books.html): David Tong Lectures on Theoretical Physics</small>
 
 
-| 🔥: 91 \| 💬: [12](https://news.ycombinator.com/item?id=43763223) \| 🗓️ 2025-04-22
+| 🔥: 92 \| 💬: [12](https://news.ycombinator.com/item?id=43763223) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -253,7 +253,19 @@ IEEE Spectrum半导体编辑Samuel K. Moore采访了IPC首席经济学家Shawn D
 
 ---
 
-## <a name="20"></a>20. FreeDOS 1.4 正式发布 
+## <a name="20"></a>20. 开源多智能体系统IDE：Rowboat 
+<small>🔗 [github.com](https://github.com/rowboatlabs/rowboat): Show HN: Rowboat – Open-source IDE for multi-agent systems</small>
+
+
+| 🔥: 92 \| 💬: [32](https://news.ycombinator.com/item?id=43763967) \| 🗓️ 2025-04-22
+
+
+<br />
+Rowboat是一款**开源多智能体构建工具**，基于OpenAI的Agents SDK开发，可快速创建AI驱动的多智能体工作流。用户通过自然语言描述需求（如“构建外卖公司助手”），**AI协作者**会自动生成相应工作流。支持连接MCP服务器，并通过**HTTP API**或Python SDK集成到应用中。提供Docker快速部署，本地访问地址为`http://localhost:3000`。项目采用Apache-2.0许可，当前获49星。
+
+---
+
+## <a name="21"></a>21. FreeDOS 1.4 正式发布 
 <small>🔗 [freedos.org](https://www.freedos.org/download/announce.html): FreeDOS 1.4 Is Here</small>
 
 
@@ -265,23 +277,11 @@ FreeDOS 1.4 是继 1.3 版本后的重大更新，包含多项改进：**程序�
 
 ---
 
-## <a name="21"></a>21. 开源多智能体系统IDE：Rowboat 
-<small>🔗 [github.com](https://github.com/rowboatlabs/rowboat): Show HN: Rowboat – Open-source IDE for multi-agent systems</small>
-
-
-| 🔥: 89 \| 💬: [30](https://news.ycombinator.com/item?id=43763967) \| 🗓️ 2025-04-22
-
-
-<br />
-Rowboat是一款**开源多智能体构建工具**，基于OpenAI的Agents SDK开发，可快速创建AI驱动的多智能体工作流。用户通过自然语言描述需求（如“构建外卖公司助手”），**AI协作者**会自动生成相应工作流。支持连接MCP服务器，并通过**HTTP API**或Python SDK集成到应用中。提供Docker快速部署，本地访问地址为`http://localhost:3000`。项目采用Apache-2.0许可，当前获49星。
-
----
-
 ## <a name="22"></a>22. 谷歌决定保留Chrome浏览器中的第三方Cookie 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/04/google-wont-ditch-third-party-cookies-in-chrome-after-all/): Google won't ditch third-party cookies in Chrome after all</small>
 
 
-| 🔥: 84 \| 💬: [50](https://news.ycombinator.com/item?id=43766803) \| 🗓️ 2025-04-22
+| 🔥: 89 \| 💬: [53](https://news.ycombinator.com/item?id=43766803) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -305,7 +305,7 @@ Rowboat是一款**开源多智能体构建工具**，基于OpenAI的Agents SDK�
 <small>🔗 [math.ucr.edu](https://math.ucr.edu/home/baez/surprises.html): Surprises in Logic (2016)</small>
 
 
-| 🔥: 75 \| 💬: [35](https://news.ycombinator.com/item?id=43763291) \| 🗓️ 2025-04-22
+| 🔥: 76 \| 💬: [35](https://news.ycombinator.com/item?id=43763291) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -317,7 +317,7 @@ Rowboat是一款**开源多智能体构建工具**，基于OpenAI的Agents SDK�
 <small>🔗 [limit-of-rlvr.github.io](https://limit-of-rlvr.github.io/): Does RL Incentivize Reasoning in LLMs Beyond the Base Model?</small>
 
 
-| 🔥: 73 \| 💬: [28](https://news.ycombinator.com/item?id=43760625) \| 🗓️ 2025-04-22
+| 🔥: 73 \| 💬: [31](https://news.ycombinator.com/item?id=43760625) \| 🗓️ 2025-04-22
 
 
 <br />
