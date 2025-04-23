@@ -11,8 +11,8 @@ tags:
 1. 举报人指控DOGE窃取美国劳工关系委员会敏感数据；
 1. Supabase完成2亿美元D轮融资，估值达20亿美元；
 1. Sapphire：基于Rust的macOS包管理器（Homebrew替代品）；
-1. ClickHouse引入惰性物化技术，查询性能提升千倍；
 1. Atuin Desktop：让运维手册真正“跑起来”；
+1. ClickHouse引入惰性物化技术，查询性能提升千倍；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/): Whistleblower: DOGE Siphoned NLRB Case Data</small>
 
 
-| 🔥🔥: 776 \| 💬: [428](https://news.ycombinator.com/item?id=43760801) \| 🗓️ 2025-04-22
+| 🔥🔥: 778 \| 💬: [433](https://news.ycombinator.com/item?id=43760801) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [finance.yahoo.com](https://finance.yahoo.com/news/exclusive-supabase-raises-200-million-112154867.html): Supabase raises $200M Series D at $2B valuation</small>
 
 
-| 🔥🔥: 285 \| 💬: [258](https://news.ycombinator.com/item?id=43763225) \| 🗓️ 2025-04-22
+| 🔥🔥: 292 \| 💬: [262](https://news.ycombinator.com/item?id=43763225) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/alexykn/sapphire): Sapphire: Rust based package manager for macOS (Homebrew replacement)</small>
 
 
-| 🔥🔥: 249 \| 💬: [190](https://news.ycombinator.com/item?id=43765011) \| 🗓️ 2025-04-22
+| 🔥🔥: 271 \| 💬: [198](https://news.ycombinator.com/item?id=43765011) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -59,11 +59,23 @@ Sapphire是一款**实验性**的Rust开发包管理器，专为macOS设计，�
 
 ---
 
-## <a name="4"></a>4. ClickHouse引入惰性物化技术，查询性能提升千倍 
+## <a name="4"></a>4. Atuin Desktop：让运维手册真正“跑起来” 
+<small>🔗 [blog.atuin.sh](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/): Atuin Desktop: Runbooks That Run</small>
+
+
+| 🔥🔥: 238 \| 💬: [60](https://news.ycombinator.com/item?id=43766200) \| 🗓️ 2025-04-22
+
+
+<br />
+传统运维依赖零散记忆的指令和过时文档，**Atuin CLI**虽解决了历史命令同步问题，但团队需要更系统的解决方案。Atuin Desktop作为**本地优先的可执行手册编辑器**，将终端操作、数据库查询等整合为动态工作流，支持模板化与实时执行，确保文档不失效。其特点包括：**CRDT本地协同**、与Atuin Hub同步共享，现已用于发布管理、环境迁移等场景。团队版和自动化生成功能即将推出，现开放早期体验。
+
+---
+
+## <a name="5"></a>5. ClickHouse引入惰性物化技术，查询性能提升千倍 
 <small>🔗 [clickhouse.com](https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization): ClickHouse gets lazier and faster: Introducing lazy materialization</small>
 
 
-| 🔥🔥: 216 \| 💬: [52](https://news.ycombinator.com/item?id=43763688) \| 🗓️ 2025-04-22
+| 🔥🔥: 227 \| 💬: [63](https://news.ycombinator.com/item?id=43763688) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -73,23 +85,11 @@ ClickHouse原有的**列式存储**、**稀疏索引**和**PREWHERE过滤**已�
 
 ---
 
-## <a name="5"></a>5. Atuin Desktop：让运维手册真正“跑起来” 
-<small>🔗 [blog.atuin.sh](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/): Atuin Desktop: Runbooks That Run</small>
-
-
-| 🔥🔥: 203 \| 💬: [52](https://news.ycombinator.com/item?id=43766200) \| 🗓️ 2025-04-22
-
-
-<br />
-传统运维依赖零散记忆的指令和过时文档，**Atuin CLI**虽解决了历史命令同步问题，但团队需要更系统的解决方案。Atuin Desktop作为**本地优先的可执行手册编辑器**，将终端操作、数据库查询等整合为动态工作流，支持模板化与实时执行，确保文档不失效。其特点包括：**CRDT本地协同**、与Atuin Hub同步共享，现已用于发布管理、环境迁移等场景。团队版和自动化生成功能即将推出，现开放早期体验。
-
----
-
 ## <a name="6"></a>6. 机器编织的代数语义 
 <small>🔗 [uwplse.org](https://uwplse.org/2025/03/31/Algebraic-Knitting.html): Algebraic Semantics for Machine Knitting</small>
 
 
-| 🔥🔥: 180 \| 💬: [12](https://news.ycombinator.com/item?id=43763614) \| 🗓️ 2025-04-22
+| 🔥🔥: 185 \| 💬: [12](https://news.ycombinator.com/item?id=43763614) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -101,7 +101,7 @@ ClickHouse原有的**列式存储**、**稀疏索引**和**PREWHERE过滤**已�
 <small>🔗 [serenityos.org](https://serenityos.org/): SerenityOS is a love letter to '90s user interfaces</small>
 
 
-| 🔥🔥: 172 \| 💬: [178](https://news.ycombinator.com/item?id=43760626) \| 🗓️ 2025-04-22
+| 🔥🔥: 173 \| 💬: [179](https://news.ycombinator.com/item?id=43760626) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -113,7 +113,7 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 <small>🔗 [hey.earth](https://www.hey.earth/posts/duckdb-doom): Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)</small>
 
 
-| 🔥🔥: 166 \| 💬: [30](https://news.ycombinator.com/item?id=43761998) \| 🗓️ 2025-04-22
+| 🔥🔥: 168 \| 💬: [30](https://news.ycombinator.com/item?id=43761998) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -125,7 +125,7 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 <small>🔗 [nehalslearnings.substack.com](https://nehalslearnings.substack.com/p/i-should-have-loved-biology-too): I should have loved biology too</small>
 
 
-| 🔥🔥: 157 \| 💬: [110](https://news.ycombinator.com/item?id=43764076) \| 🗓️ 2025-04-22
+| 🔥🔥: 164 \| 💬: [113](https://news.ycombinator.com/item?id=43764076) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -137,7 +137,7 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 <small>🔗 [alexshtf.github.io](https://alexshtf.github.io/2024/01/21/Bernstein.html): Are polynomial features the root of all evil? (2024)</small>
 
 
-| 🔥🔥: 132 \| 💬: [47](https://news.ycombinator.com/item?id=43764101) \| 🗓️ 2025-04-22
+| 🔥🔥: 136 \| 💬: [50](https://news.ycombinator.com/item?id=43764101) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -149,7 +149,7 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 <small>🔗 [github.com](https://github.com/akdeb/ElatoAI): Show HN: I open-sourced my AI toy company that runs on ESP32 and OpenAI realtime</small>
 
 
-| 🔥🔥: 129 \| 💬: [63](https://news.ycombinator.com/item?id=43762409) \| 🗓️ 2025-04-22
+| 🔥🔥: 130 \| 💬: [64](https://news.ycombinator.com/item?id=43762409) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -161,7 +161,7 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 <small>🔗 [pi.website](https://pi.website/blog/pi05): π0.5: A VLA with open-world generalization</small>
 
 
-| 🔥🔥: 119 \| 💬: [32](https://news.ycombinator.com/item?id=43764439) \| 🗓️ 2025-04-22
+| 🔥🔥: 125 \| 💬: [34](https://news.ycombinator.com/item?id=43764439) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -173,7 +173,7 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 <small>🔗 [technologizer.com](https://technologizer.com/home/2025/04/22/pc-connection-ads-raccoons/): The raccoons who made computer magazine ads great</small>
 
 
-| 🔥🔥: 117 \| 💬: [30](https://news.ycombinator.com/item?id=43761633) \| 🗓️ 2025-04-22
+| 🔥🔥: 123 \| 💬: [30](https://news.ycombinator.com/item?id=43761633) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -185,7 +185,7 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 <small>🔗 [github.com](https://github.com/morphik-org/morphik-core): Show HN: Morphik – Open-source RAG that understands PDF images, runs locally</small>
 
 
-| 🔥🔥: 116 \| 💬: [25](https://news.ycombinator.com/item?id=43763814) \| 🗓️ 2025-04-22
+| 🔥🔥: 122 \| 💬: [26](https://news.ycombinator.com/item?id=43763814) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -197,7 +197,7 @@ Morphik是一款**开源多模态检索增强生成（RAG）工具**，专为处
 <small>🔗 [thelogicaloptimist.com](https://thelogicaloptimist.com/index.php/2015/10/25/the-21-day-myth-create-new-habit/): How long does it take to create a new habit? (2015)</small>
 
 
-| 🔥🔥: 114 \| 💬: [58](https://news.ycombinator.com/item?id=43765084) \| 🗓️ 2025-04-22
+| 🔥🔥: 121 \| 💬: [61](https://news.ycombinator.com/item?id=43765084) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -221,7 +221,7 @@ Morphik是一款**开源多模态检索增强生成（RAG）工具**，专为处
 <small>🔗 [cekrem.github.io](https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/): Coding as Craft: Going Back to the Old Gym</small>
 
 
-| 🔥: 95 \| 💬: [90](https://news.ycombinator.com/item?id=43760723) \| 🗓️ 2025-04-22
+| 🔥: 95 \| 💬: [91](https://news.ycombinator.com/item?id=43760723) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -229,7 +229,19 @@ Shopify CEO提出**“反射性使用AI”**已成为编码新标准，但作者
 
 ---
 
-## <a name="18"></a>18. 大卫·汤的理论物理讲座与教材系列 
+## <a name="18"></a>18. 关税将如何影响你的电子产品 
+<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/tariffs-electronics-prices): The many ways tarrifs will hit electronics</small>
+
+
+| 🔥: 91 \| 💬: [132](https://news.ycombinator.com/item?id=43760262) \| 🗓️ 2025-04-22
+
+
+<br />
+IEEE Spectrum半导体编辑Samuel K. Moore采访了IPC首席经济学家Shawn DuBravac，探讨**关税**对消费电子产品的多重影响。文章以2025年4月纽约苹果零售店的iPhone为例，指出**供应链成本上升**可能导致电子产品价格上涨，并分析**全球贸易政策**对科技行业的潜在冲击。
+
+---
+
+## <a name="19"></a>19. 大卫·汤的理论物理讲座与教材系列 
 <small>🔗 [damtp.cam.ac.uk](https://www.damtp.cam.ac.uk/user/tong/books.html): David Tong Lectures on Theoretical Physics</small>
 
 
@@ -241,11 +253,11 @@ Shopify CEO提出**“反射性使用AI”**已成为编码新标准，但作者
 
 ---
 
-## <a name="19"></a>19. FreeDOS 1.4 正式发布 
+## <a name="20"></a>20. FreeDOS 1.4 正式发布 
 <small>🔗 [freedos.org](https://www.freedos.org/download/announce.html): FreeDOS 1.4 Is Here</small>
 
 
-| 🔥: 88 \| 💬: [24](https://news.ycombinator.com/item?id=43760485) \| 🗓️ 2025-04-22
+| 🔥: 89 \| 💬: [24](https://news.ycombinator.com/item?id=43760485) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -253,11 +265,11 @@ FreeDOS 1.4 是继 1.3 版本后的重大更新，包含多项改进：**程序�
 
 ---
 
-## <a name="20"></a>20. 开源多智能体系统IDE：Rowboat 
+## <a name="21"></a>21. 开源多智能体系统IDE：Rowboat 
 <small>🔗 [github.com](https://github.com/rowboatlabs/rowboat): Show HN: Rowboat – Open-source IDE for multi-agent systems</small>
 
 
-| 🔥: 85 \| 💬: [24](https://news.ycombinator.com/item?id=43763967) \| 🗓️ 2025-04-22
+| 🔥: 89 \| 💬: [30](https://news.ycombinator.com/item?id=43763967) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -265,19 +277,19 @@ Rowboat是一款**开源多智能体构建工具**，基于OpenAI的Agents SDK�
 
 ---
 
-## <a name="21"></a>21. 关税将如何影响你的电子产品 
-<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/tariffs-electronics-prices): The many ways tarrifs will hit electronics</small>
+## <a name="22"></a>22. 谷歌决定保留Chrome浏览器中的第三方Cookie 
+<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/04/google-wont-ditch-third-party-cookies-in-chrome-after-all/): Google won't ditch third-party cookies in Chrome after all</small>
 
 
-| 🔥: 84 \| 💬: [128](https://news.ycombinator.com/item?id=43760262) \| 🗓️ 2025-04-22
+| 🔥: 84 \| 💬: [50](https://news.ycombinator.com/item?id=43766803) \| 🗓️ 2025-04-22
 
 
 <br />
-IEEE Spectrum半导体编辑Samuel K. Moore采访了IPC首席经济学家Shawn DuBravac，探讨**关税**对消费电子产品的多重影响。文章以2025年4月纽约苹果零售店的iPhone为例，指出**供应链成本上升**可能导致电子产品价格上涨，并分析**全球贸易政策**对科技行业的潜在冲击。
+谷歌宣布放弃原计划在**隐私沙盒**中禁用第三方Cookie的功能，维持现状。此前，谷歌试图通过**FLoC**和**Topics API**替代Cookie，但因行业抵制和法律风险屡次推迟。尽管广告行业对隐私重视度提升，谷歌仍保留用户手动禁用Cookie的选项。**隐身模式**将升级IP保护功能，但隐私沙盒的推广前景不明。这一决定反映了谷歌在反垄断压力下的妥协。
 
 ---
 
-## <a name="22"></a>22. RISC-V RVA23配置文件：生态发展的重要里程碑 
+## <a name="23"></a>23. RISC-V RVA23配置文件：生态发展的重要里程碑 
 <small>🔗 [riscv.org](https://riscv.org/ecosystem-news/2025/04/risc-v-rva23-a-major-milestone/): RISC-V RVA23 Profile: A major milestone</small>
 
 
@@ -289,7 +301,19 @@ IEEE Spectrum半导体编辑Samuel K. Moore采访了IPC首席经济学家Shawn D
 
 ---
 
-## <a name="23"></a>23. 强化学习能否激励大语言模型超越基础模型的推理能力？ 
+## <a name="24"></a>24. 逻辑中的惊人发现（2016） 
+<small>🔗 [math.ucr.edu](https://math.ucr.edu/home/baez/surprises.html): Surprises in Logic (2016)</small>
+
+
+| 🔥: 75 \| 💬: [35](https://news.ycombinator.com/item?id=43763291) \| 🗓️ 2025-04-22
+
+
+<br />
+约翰·贝兹在文中探讨了**逻辑的复杂性屏障**：存在一个极低的界限L，我们无法证明任何特定事物的复杂度超过L。这一现象与**柴廷不完备定理**相关，该定理指出，尽管无限多的字符串复杂度高于L，但无法具体指认任一字符串。文章还结合了**意外考试悖论**，揭示了数学系统自证一致性时的矛盾。最后，作者提到存在一种计算机模型能计算任何不可计算函数，展现了逻辑与计算的深层奥秘。
+
+---
+
+## <a name="25"></a>25. 强化学习能否激励大语言模型超越基础模型的推理能力？ 
 <small>🔗 [limit-of-rlvr.github.io](https://limit-of-rlvr.github.io/): Does RL Incentivize Reasoning in LLMs Beyond the Base Model?</small>
 
 
@@ -298,29 +322,5 @@ IEEE Spectrum半导体编辑Samuel K. Moore采访了IPC首席经济学家Shawn D
 
 <br />
 杨跃目前致力于研究**激励LLM/MLLM推理**的新范式、**广义世界模型**的构建以及**视觉语言模型（VLA）**的泛化能力探索。他寻求与企业合作，希望对方能提供自由探索前沿问题的空间、充足资源和浓厚技术氛围，同时也在寻找博士访学机会。欢迎有意向者联系洽谈合作。
-
----
-
-## <a name="24"></a>24. 逻辑中的惊人发现（2016） 
-<small>🔗 [math.ucr.edu](https://math.ucr.edu/home/baez/surprises.html): Surprises in Logic (2016)</small>
-
-
-| 🔥: 73 \| 💬: [34](https://news.ycombinator.com/item?id=43763291) \| 🗓️ 2025-04-22
-
-
-<br />
-约翰·贝兹在文中探讨了**逻辑的复杂性屏障**：存在一个极低的界限L，我们无法证明任何特定事物的复杂度超过L。这一现象与**柴廷不完备定理**相关，该定理指出，尽管无限多的字符串复杂度高于L，但无法具体指认任一字符串。文章还结合了**意外考试悖论**，揭示了数学系统自证一致性时的矛盾。最后，作者提到存在一种计算机模型能计算任何不可计算函数，展现了逻辑与计算的深层奥秘。
-
----
-
-## <a name="25"></a>25. 《冷启动难题：如何利用网络效应规模化产品》书评摘要 
-<small>🔗 [madhavajay.com](https://madhavajay.com/the-cold-start-problem-using-network-effects-to-scale-your-product/): The Cold Start Problem: Using Network Effects to Scale Your Product – A Review</small>
-
-
-| 🔥: 70 \| 💬: [20](https://news.ycombinator.com/item?id=43761835) \| 🗓️ 2025-04-22
-
-
-<br />
-本书深入探讨了构建网络化产品的核心策略，重点解析了**原子网络**（最小可独立运行的稳定用户群）和**硬边用户**（如Uber司机、Airbnb房东等创造核心价值的群体）的概念。作者Andrew Chen指出，成功网络效应的悖论在于：必须从**小规模原子网络**起步，通过解决硬边用户痛点（如早期Reddit人工填充内容）逐步扩张。常见误区包括过早追求大规模、忽视网络密度或依赖不可持续的补贴。关键策略分为**冷启动阶段**（聚焦工具价值、打造“魔法时刻”）和**增长阶段**（差异化防御竞争），强调“软件本身不构成壁垒，用户互动才是护城河”。
 
 ---
