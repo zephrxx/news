@@ -9,9 +9,9 @@ tags:
 
 
 1. 举报人指控DOGE窃取美国劳工关系委员会敏感数据；
-1. Supabase完成2亿美元D轮融资，估值达20亿美元；
-1. Sapphire：基于Rust的macOS包管理器（Homebrew替代品）；
 1. Atuin Desktop：让运维手册真正“跑起来”；
+1. Sapphire：基于Rust的macOS包管理器（Homebrew替代品）；
+1. Supabase完成2亿美元D轮融资，估值达20亿美元；
 1. ClickHouse引入惰性物化技术，查询性能提升千倍；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/04/whistleblower-doge-siphoned-nlrb-case-data/): Whistleblower: DOGE Siphoned NLRB Case Data</small>
 
 
-| 🔥🔥: 779 \| 💬: [433](https://news.ycombinator.com/item?id=43760801) \| 🗓️ 2025-04-22
+| 🔥🔥: 782 \| 💬: [434](https://news.ycombinator.com/item?id=43760801) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -35,35 +35,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. Supabase完成2亿美元D轮融资，估值达20亿美元 
-<small>🔗 [finance.yahoo.com](https://finance.yahoo.com/news/exclusive-supabase-raises-200-million-112154867.html): Supabase raises $200M Series D at $2B valuation</small>
-
-
-| 🔥🔥: 298 \| 💬: [266](https://news.ycombinator.com/item?id=43763225) \| 🗓️ 2025-04-22
-
-
-<br />
-开源应用开发平台**Supabase**宣布完成**2亿美元D轮融资**，估值达20亿美元，由Accel领投，Coatue、Y Combinator等跟投。联合创始人Paul Copplestone透露，Accel合伙人专程飞赴新西兰与其会面，最终敲定投资。Supabase目前拥有200万开发者用户，管理超350万个数据库，主打**Postgres兼容**和**“氛围编程”**（vibe coding）理念。公司坚持远程办公，全球团队中28%为连续创业者。名称灵感源自Nicki Minaj的热单《Super Bass》，现已成为开源领域新星。
-
----
-
-## <a name="3"></a>3. Sapphire：基于Rust的macOS包管理器（Homebrew替代品） 
-<small>🔗 [github.com](https://github.com/alexykn/sapphire): Sapphire: Rust based package manager for macOS (Homebrew replacement)</small>
-
-
-| 🔥🔥: 298 \| 💬: [211](https://news.ycombinator.com/item?id=43765011) \| 🗓️ 2025-04-22
-
-
-<br />
-Sapphire是一款**实验性**的Rust开发包管理器，专为macOS设计，旨在替代Homebrew。目前仅支持ARM架构，未来可能扩展x86。核心功能包括**公式（命令行工具）**和**Cask（桌面应用）**的安装与管理，支持并行下载、依赖自动解析及源码编译（早期阶段）。项目处于Alpha阶段，路径与Homebrew不兼容，需谨慎使用。未来计划支持升级、清理、环境初始化等功能。开发者可通过源码构建参与贡献，项目采用BSD-3-Clause许可证。
-
----
-
-## <a name="4"></a>4. Atuin Desktop：让运维手册真正“跑起来” 
+## <a name="2"></a>2. Atuin Desktop：让运维手册真正“跑起来” 
 <small>🔗 [blog.atuin.sh](https://blog.atuin.sh/atuin-desktop-runbooks-that-run/): Atuin Desktop: Runbooks That Run</small>
 
 
-| 🔥🔥: 294 \| 💬: [72](https://news.ycombinator.com/item?id=43766200) \| 🗓️ 2025-04-22
+| 🔥🔥: 319 \| 💬: [80](https://news.ycombinator.com/item?id=43766200) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -71,11 +47,35 @@ Sapphire是一款**实验性**的Rust开发包管理器，专为macOS设计，�
 
 ---
 
+## <a name="3"></a>3. Sapphire：基于Rust的macOS包管理器（Homebrew替代品） 
+<small>🔗 [github.com](https://github.com/alexykn/sapphire): Sapphire: Rust based package manager for macOS (Homebrew replacement)</small>
+
+
+| 🔥🔥: 312 \| 💬: [217](https://news.ycombinator.com/item?id=43765011) \| 🗓️ 2025-04-22
+
+
+<br />
+Sapphire是一款**实验性**的Rust开发包管理器，专为macOS设计，旨在替代Homebrew。目前仅支持ARM架构，未来可能扩展x86。核心功能包括**公式（命令行工具）**和**Cask（桌面应用）**的安装与管理，支持并行下载、依赖自动解析及源码编译（早期阶段）。项目处于Alpha阶段，路径与Homebrew不兼容，需谨慎使用。未来计划支持升级、清理、环境初始化等功能。开发者可通过源码构建参与贡献，项目采用BSD-3-Clause许可证。
+
+---
+
+## <a name="4"></a>4. Supabase完成2亿美元D轮融资，估值达20亿美元 
+<small>🔗 [finance.yahoo.com](https://finance.yahoo.com/news/exclusive-supabase-raises-200-million-112154867.html): Supabase raises $200M Series D at $2B valuation</small>
+
+
+| 🔥🔥: 300 \| 💬: [275](https://news.ycombinator.com/item?id=43763225) \| 🗓️ 2025-04-22
+
+
+<br />
+开源应用开发平台**Supabase**宣布完成**2亿美元D轮融资**，估值达20亿美元，由Accel领投，Coatue、Y Combinator等跟投。联合创始人Paul Copplestone透露，Accel合伙人专程飞赴新西兰与其会面，最终敲定投资。Supabase目前拥有200万开发者用户，管理超350万个数据库，主打**Postgres兼容**和**“氛围编程”**（vibe coding）理念。公司坚持远程办公，全球团队中28%为连续创业者。名称灵感源自Nicki Minaj的热单《Super Bass》，现已成为开源领域新星。
+
+---
+
 ## <a name="5"></a>5. ClickHouse引入惰性物化技术，查询性能提升千倍 
 <small>🔗 [clickhouse.com](https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization): ClickHouse gets lazier and faster: Introducing lazy materialization</small>
 
 
-| 🔥🔥: 241 \| 💬: [69](https://news.ycombinator.com/item?id=43763688) \| 🗓️ 2025-04-22
+| 🔥🔥: 253 \| 💬: [72](https://news.ycombinator.com/item?id=43763688) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -89,7 +89,7 @@ ClickHouse原有的**列式存储**、**稀疏索引**和**PREWHERE过滤**已�
 <small>🔗 [uwplse.org](https://uwplse.org/2025/03/31/Algebraic-Knitting.html): Algebraic Semantics for Machine Knitting</small>
 
 
-| 🔥🔥: 196 \| 💬: [12](https://news.ycombinator.com/item?id=43763614) \| 🗓️ 2025-04-22
+| 🔥🔥: 202 \| 💬: [12](https://news.ycombinator.com/item?id=43763614) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -101,7 +101,7 @@ ClickHouse原有的**列式存储**、**稀疏索引**和**PREWHERE过滤**已�
 <small>🔗 [nehalslearnings.substack.com](https://nehalslearnings.substack.com/p/i-should-have-loved-biology-too): I should have loved biology too</small>
 
 
-| 🔥🔥: 179 \| 💬: [119](https://news.ycombinator.com/item?id=43764076) \| 🗓️ 2025-04-22
+| 🔥🔥: 186 \| 💬: [126](https://news.ycombinator.com/item?id=43764076) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -137,7 +137,7 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 <small>🔗 [alexshtf.github.io](https://alexshtf.github.io/2024/01/21/Bernstein.html): Are polynomial features the root of all evil? (2024)</small>
 
 
-| 🔥🔥: 147 \| 💬: [54](https://news.ycombinator.com/item?id=43764101) \| 🗓️ 2025-04-22
+| 🔥🔥: 153 \| 💬: [56](https://news.ycombinator.com/item?id=43764101) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -149,7 +149,7 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 <small>🔗 [thelogicaloptimist.com](https://thelogicaloptimist.com/index.php/2015/10/25/the-21-day-myth-create-new-habit/): How long does it take to create a new habit? (2015)</small>
 
 
-| 🔥🔥: 140 \| 💬: [70](https://news.ycombinator.com/item?id=43765084) \| 🗓️ 2025-04-22
+| 🔥🔥: 149 \| 💬: [72](https://news.ycombinator.com/item?id=43765084) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -161,7 +161,7 @@ SerenityOS 是一款**图形化类Unix操作系统**，专为桌面电脑设计�
 <small>🔗 [github.com](https://github.com/morphik-org/morphik-core): Show HN: Morphik – Open-source RAG that understands PDF images, runs locally</small>
 
 
-| 🔥🔥: 138 \| 💬: [28](https://news.ycombinator.com/item?id=43763814) \| 🗓️ 2025-04-22
+| 🔥🔥: 146 \| 💬: [30](https://news.ycombinator.com/item?id=43763814) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -169,7 +169,31 @@ Morphik是一款**开源多模态检索增强生成（RAG）工具**，专为处
 
 ---
 
-## <a name="13"></a>13. 开源基于ESP32和OpenAI的实时AI玩具公司项目 
+## <a name="13"></a>13. π0.5：具备开放世界泛化能力的视觉-语言-动作模型 
+<small>🔗 [pi.website](https://pi.website/blog/pi05): π0.5: A VLA with open-world generalization</small>
+
+
+| 🔥🔥: 139 \| 💬: [37](https://news.ycombinator.com/item?id=43764439) \| 🗓️ 2025-04-22
+
+
+<br />
+由Physical Intelligence公司开发的**π0.5**是一种新型**视觉-语言-动作模型（VLA）**，专注于在陌生环境中实现任务泛化。该模型通过**异构数据协同训练**（如多模态网络数据、跨机器人动作数据等），使机器人能在未经训练的家庭场景中完成整理厨房、收拾卧室等复杂任务。实验显示，π0.5在100个训练环境后泛化性能接近直接训练基准，并能结合高层语义推理与底层动作控制，展现类人的灵活性和适应性。尽管仍需优化，这一成果标志着**通用物理智能**的重要进展。
+
+---
+
+## <a name="14"></a>14. 让电脑杂志广告焕发生机的浣熊们 
+<small>🔗 [technologizer.com](https://technologizer.com/home/2025/04/22/pc-connection-ads-raccoons/): The raccoons who made computer magazine ads great</small>
+
+
+| 🔥🔥: 133 \| 💬: [31](https://news.ycombinator.com/item?id=43761633) \| 🗓️ 2025-04-22
+
+
+<br />
+这篇文章回顾了20世纪80至90年代电脑杂志广告的黄金时代，重点讲述了**PC Connection**公司如何通过**拟人化浣熊插画**在众多邮购广告中脱颖而出。插画师Erick Ingraham和文案David Blistein合作，创作了一系列温馨幽默的乡村场景，将**高科技产品与人性化服务**巧妙结合。这些广告不仅强化了品牌形象，还成为杂志读者难忘的亮点。背后的故事源于创始人Patricia Gallup和David Hall在新罕布什尔州小镇的创业历程，以及他们对“消除电脑恐惧”的独特营销理念。
+
+---
+
+## <a name="15"></a>15. 开源基于ESP32和OpenAI的实时AI玩具公司项目 
 <small>🔗 [github.com](https://github.com/akdeb/ElatoAI): Show HN: I open-sourced my AI toy company that runs on ESP32 and OpenAI realtime</small>
 
 
@@ -181,31 +205,31 @@ Morphik是一款**开源多模态检索增强生成（RAG）工具**，专为处
 
 ---
 
-## <a name="14"></a>14. π0.5：具备开放世界泛化能力的视觉-语言-动作模型 
-<small>🔗 [pi.website](https://pi.website/blog/pi05): π0.5: A VLA with open-world generalization</small>
+## <a name="16"></a>16. 开源多智能体系统IDE：Rowboat 
+<small>🔗 [github.com](https://github.com/rowboatlabs/rowboat): Show HN: Rowboat – Open-source IDE for multi-agent systems</small>
 
 
-| 🔥🔥: 133 \| 💬: [36](https://news.ycombinator.com/item?id=43764439) \| 🗓️ 2025-04-22
-
-
-<br />
-由Physical Intelligence公司开发的**π0.5**是一种新型**视觉-语言-动作模型（VLA）**，专注于在陌生环境中实现任务泛化。该模型通过**异构数据协同训练**（如多模态网络数据、跨机器人动作数据等），使机器人能在未经训练的家庭场景中完成整理厨房、收拾卧室等复杂任务。实验显示，π0.5在100个训练环境后泛化性能接近直接训练基准，并能结合高层语义推理与底层动作控制，展现类人的灵活性和适应性。尽管仍需优化，这一成果标志着**通用物理智能**的重要进展。
-
----
-
-## <a name="15"></a>15. 让电脑杂志广告焕发生机的浣熊们 
-<small>🔗 [technologizer.com](https://technologizer.com/home/2025/04/22/pc-connection-ads-raccoons/): The raccoons who made computer magazine ads great</small>
-
-
-| 🔥🔥: 129 \| 💬: [31](https://news.ycombinator.com/item?id=43761633) \| 🗓️ 2025-04-22
+| 🔥🔥: 103 \| 💬: [34](https://news.ycombinator.com/item?id=43763967) \| 🗓️ 2025-04-22
 
 
 <br />
-这篇文章回顾了20世纪80至90年代电脑杂志广告的黄金时代，重点讲述了**PC Connection**公司如何通过**拟人化浣熊插画**在众多邮购广告中脱颖而出。插画师Erick Ingraham和文案David Blistein合作，创作了一系列温馨幽默的乡村场景，将**高科技产品与人性化服务**巧妙结合。这些广告不仅强化了品牌形象，还成为杂志读者难忘的亮点。背后的故事源于创始人Patricia Gallup和David Hall在新罕布什尔州小镇的创业历程，以及他们对“消除电脑恐惧”的独特营销理念。
+Rowboat是一款**开源多智能体构建工具**，基于OpenAI的Agents SDK开发，可快速创建AI驱动的多智能体工作流。用户通过自然语言描述需求（如“构建外卖公司助手”），**AI协作者**会自动生成相应工作流。支持连接MCP服务器，并通过**HTTP API**或Python SDK集成到应用中。提供Docker快速部署，本地访问地址为`http://localhost:3000`。项目采用Apache-2.0许可，当前获49星。
 
 ---
 
-## <a name="16"></a>16. 数据压缩专家都讨厌的这个神奇技巧 
+## <a name="17"></a>17. 谷歌决定保留Chrome浏览器中的第三方Cookie 
+<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/04/google-wont-ditch-third-party-cookies-in-chrome-after-all/): Google won't ditch third-party cookies in Chrome after all</small>
+
+
+| 🔥🔥: 103 \| 💬: [60](https://news.ycombinator.com/item?id=43766803) \| 🗓️ 2025-04-22
+
+
+<br />
+谷歌宣布放弃原计划在**隐私沙盒**中禁用第三方Cookie的功能，维持现状。此前，谷歌试图通过**FLoC**和**Topics API**替代Cookie，但因行业抵制和法律风险屡次推迟。尽管广告行业对隐私重视度提升，谷歌仍保留用户手动禁用Cookie的选项。**隐身模式**将升级IP保护功能，但隐私沙盒的推广前景不明。这一决定反映了谷歌在反垄断压力下的妥协。
+
+---
+
+## <a name="18"></a>18. 数据压缩专家都讨厌的这个神奇技巧 
 <small>🔗 [media.ccc.de](https://media.ccc.de/v/eh22-8-more-than-just-quite-ok-data-compression-nerds-hate-this-one-trick): Data Compression Nerds Hate This One Trick [video]</small>
 
 
@@ -217,19 +241,19 @@ Morphik是一款**开源多模态检索增强生成（RAG）工具**，专为处
 
 ---
 
-## <a name="17"></a>17. 开源多智能体系统IDE：Rowboat 
-<small>🔗 [github.com](https://github.com/rowboatlabs/rowboat): Show HN: Rowboat – Open-source IDE for multi-agent systems</small>
+## <a name="19"></a>19. 关税将如何影响你的电子产品 
+<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/tariffs-electronics-prices): The many ways tarrifs will hit electronics</small>
 
 
-| 🔥: 96 \| 💬: [33](https://news.ycombinator.com/item?id=43763967) \| 🗓️ 2025-04-22
+| 🔥: 95 \| 💬: [137](https://news.ycombinator.com/item?id=43760262) \| 🗓️ 2025-04-22
 
 
 <br />
-Rowboat是一款**开源多智能体构建工具**，基于OpenAI的Agents SDK开发，可快速创建AI驱动的多智能体工作流。用户通过自然语言描述需求（如“构建外卖公司助手”），**AI协作者**会自动生成相应工作流。支持连接MCP服务器，并通过**HTTP API**或Python SDK集成到应用中。提供Docker快速部署，本地访问地址为`http://localhost:3000`。项目采用Apache-2.0许可，当前获49星。
+IEEE Spectrum半导体编辑Samuel K. Moore采访了IPC首席经济学家Shawn DuBravac，探讨**关税**对消费电子产品的多重影响。文章以2025年4月纽约苹果零售店的iPhone为例，指出**供应链成本上升**可能导致电子产品价格上涨，并分析**全球贸易政策**对科技行业的潜在冲击。
 
 ---
 
-## <a name="18"></a>18. 重返编程的原始健身房：在AI时代守护手艺精神 
+## <a name="20"></a>20. 重返编程的原始健身房：在AI时代守护手艺精神 
 <small>🔗 [cekrem.github.io](https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/): Coding as Craft: Going Back to the Old Gym</small>
 
 
@@ -241,35 +265,11 @@ Shopify CEO提出**“反射性使用AI”**已成为编码新标准，但作者
 
 ---
 
-## <a name="19"></a>19. 关税将如何影响你的电子产品 
-<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/tariffs-electronics-prices): The many ways tarrifs will hit electronics</small>
-
-
-| 🔥: 94 \| 💬: [135](https://news.ycombinator.com/item?id=43760262) \| 🗓️ 2025-04-22
-
-
-<br />
-IEEE Spectrum半导体编辑Samuel K. Moore采访了IPC首席经济学家Shawn DuBravac，探讨**关税**对消费电子产品的多重影响。文章以2025年4月纽约苹果零售店的iPhone为例，指出**供应链成本上升**可能导致电子产品价格上涨，并分析**全球贸易政策**对科技行业的潜在冲击。
-
----
-
-## <a name="20"></a>20. 谷歌决定保留Chrome浏览器中的第三方Cookie 
-<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/04/google-wont-ditch-third-party-cookies-in-chrome-after-all/): Google won't ditch third-party cookies in Chrome after all</small>
-
-
-| 🔥: 93 \| 💬: [55](https://news.ycombinator.com/item?id=43766803) \| 🗓️ 2025-04-22
-
-
-<br />
-谷歌宣布放弃原计划在**隐私沙盒**中禁用第三方Cookie的功能，维持现状。此前，谷歌试图通过**FLoC**和**Topics API**替代Cookie，但因行业抵制和法律风险屡次推迟。尽管广告行业对隐私重视度提升，谷歌仍保留用户手动禁用Cookie的选项。**隐身模式**将升级IP保护功能，但隐私沙盒的推广前景不明。这一决定反映了谷歌在反垄断压力下的妥协。
-
----
-
 ## <a name="21"></a>21. 大卫·汤的理论物理讲座与教材系列 
 <small>🔗 [damtp.cam.ac.uk](https://www.damtp.cam.ac.uk/user/tong/books.html): David Tong Lectures on Theoretical Physics</small>
 
 
-| 🔥: 92 \| 💬: [12](https://news.ycombinator.com/item?id=43763223) \| 🗓️ 2025-04-22
+| 🔥: 94 \| 💬: [12](https://news.ycombinator.com/item?id=43763223) \| 🗓️ 2025-04-22
 
 
 <br />
@@ -289,7 +289,19 @@ FreeDOS 1.4 是继 1.3 版本后的重大更新，包含多项改进：**程序�
 
 ---
 
-## <a name="23"></a>23. 逻辑中的惊人发现（2016） 
+## <a name="23"></a>23. 开源木艺——Hyperwood家具系统 
+<small>🔗 [hyperwood.org](https://hyperwood.org/): Hyperwood – Open-Source Furniture</small>
+
+
+| 🔥: 82 \| 💬: [3](https://news.ycombinator.com/item?id=43763565) \| 🗓️ 2025-04-22
+
+
+<br />
+Hyperwood是一个**开源家具制作系统**，通过简易木条实现家具定制。受E.F.舒马赫《小即是美》和恩佐·马里“自主设计”理念启发，它让DIY爱好者、设计师等能用**本地材料**和基础工具打造坚固美观的家具。当前需一定编程基础使用其专用工具，未来将推出图形界面降低门槛。系统通过算法生成**个性化图纸**和优化耗材清单，兼顾环保与高效。
+
+---
+
+## <a name="24"></a>24. 逻辑中的惊人发现（2016） 
 <small>🔗 [math.ucr.edu](https://math.ucr.edu/home/baez/surprises.html): Surprises in Logic (2016)</small>
 
 
@@ -301,7 +313,7 @@ FreeDOS 1.4 是继 1.3 版本后的重大更新，包含多项改进：**程序�
 
 ---
 
-## <a name="24"></a>24. RISC-V RVA23配置文件：生态发展的重要里程碑 
+## <a name="25"></a>25. RISC-V RVA23配置文件：生态发展的重要里程碑 
 <small>🔗 [riscv.org](https://riscv.org/ecosystem-news/2025/04/risc-v-rva23-a-major-milestone/): RISC-V RVA23 Profile: A major milestone</small>
 
 
@@ -310,17 +322,5 @@ FreeDOS 1.4 是继 1.3 版本后的重大更新，包含多项改进：**程序�
 
 <br />
 2024年北美RISC-V峰会上，**RVA23配置文件**正式获批，标志着RISC-V生态迈出关键一步。该配置文件通过统一64位应用处理器的实现标准，确保**丰富的操作系统栈**可跨硬件移植，同时避免**供应商锁定**，为RISC-V在应用处理器领域竞争奠定基础。
-
----
-
-## <a name="25"></a>25. 强化学习能否激励大语言模型超越基础模型的推理能力？ 
-<small>🔗 [limit-of-rlvr.github.io](https://limit-of-rlvr.github.io/): Does RL Incentivize Reasoning in LLMs Beyond the Base Model?</small>
-
-
-| 🔥: 73 \| 💬: [31](https://news.ycombinator.com/item?id=43760625) \| 🗓️ 2025-04-22
-
-
-<br />
-杨跃目前致力于研究**激励LLM/MLLM推理**的新范式、**广义世界模型**的构建以及**视觉语言模型（VLA）**的泛化能力探索。他寻求与企业合作，希望对方能提供自由探索前沿问题的空间、充足资源和浓厚技术氛围，同时也在寻找博士访学机会。欢迎有意向者联系洽谈合作。
 
 ---
