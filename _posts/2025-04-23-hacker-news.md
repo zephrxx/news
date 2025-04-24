@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cookieplmonster.github.io](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/): How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2</small>
 
 
-| 🔥🔥: 927 \| 💬: [215](https://news.ycombinator.com/item?id=43772311) \| 🗓️ 2025-04-23
+| 🔥🔥: 950 \| 💬: [223](https://news.ycombinator.com/item?id=43772311) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [fedi.rib.gay](https://fedi.rib.gay/notes/a6xqityngfubsz0f): You wouldn't steal a font</small>
 
 
-| 🔥🔥: 741 \| 💬: [239](https://news.ycombinator.com/item?id=43775926) \| 🗓️ 2025-04-23
+| 🔥🔥: 775 \| 💬: [252](https://news.ycombinator.com/item?id=43775926) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/): DOGE worker’s code supports NLRB whistleblower</small>
 
 
-| 🔥🔥: 690 \| 💬: [374](https://news.ycombinator.com/item?id=43776476) \| 🗓️ 2025-04-23
+| 🔥🔥: 723 \| 💬: [386](https://news.ycombinator.com/item?id=43776476) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [ca.finance.yahoo.com](https://ca.finance.yahoo.com/news/apple-fined-570-million-meta-094701712.html): Apple and Meta fined millions for breaching EU law</small>
 
 
-| 🔥🔥: 352 \| 💬: [488](https://news.ycombinator.com/item?id=43770337) \| 🗓️ 2025-04-23
+| 🔥🔥: 363 \| 💬: [493](https://news.ycombinator.com/item?id=43770337) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/23/trump_us_security/): America's cyber defenses are being dismantled from the inside</small>
 
 
-| 🔥🔥: 328 \| 💬: [182](https://news.ycombinator.com/item?id=43770382) \| 🗓️ 2025-04-23
+| 🔥🔥: 329 \| 💬: [182](https://news.ycombinator.com/item?id=43770382) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [rakhim.exotext.com](https://rakhim.exotext.com/they-made-computers-behave-like-annoying-salesmen): They made computers behave like annoying salesmen</small>
 
 
-| 🔥🔥: 262 \| 💬: [172](https://news.ycombinator.com/item?id=43773710) \| 🗓️ 2025-04-23
+| 🔥🔥: 264 \| 💬: [174](https://news.ycombinator.com/item?id=43773710) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -95,23 +95,11 @@ tags:
 
 ---
 
-## <a name="7"></a>7. 互联网正被“格鲁恩转移”吞噬 
-<small>🔗 [sebs.website](https://sebs.website/blog/the%20gruen-transfer-is-consuming-the-internet): The Gruen Transfer is consuming the internet</small>
-
-
-| 🔥🔥: 261 \| 💬: [208](https://news.ycombinator.com/item?id=43769936) \| 🗓️ 2025-04-23
-
-
-<br />
-文章探讨了**格鲁恩转移**（消费者因混乱布局迷失初衷的现象）如何从实体店蔓延至互联网。以Facebook为例，原本用于关注好友动态的**信息流**如今被广告、网红内容充斥，用户陷入无意识刷屏。这种现象也出现在其他网站，甚至与**UX黑暗模式**（如繁琐的账户注销流程）结合，刻意制造混乱以促使用户冲动行为。欧盟已立法要求“取消订阅”与“订阅”流程同样简便，但作者呼吁将此类规则扩展至更多领域。
-
----
-
-## <a name="8"></a>8. MinC并非Cygwin 
+## <a name="7"></a>7. MinC并非Cygwin 
 <small>🔗 [minc.commandlinerevolution.nl](https://minc.commandlinerevolution.nl/english/home.html): MinC Is Not Cygwin</small>
 
 
-| 🔥🔥: 261 \| 💬: [180](https://news.ycombinator.com/item?id=43770445) \| 🗓️ 2025-04-23
+| 🔥🔥: 263 \| 💬: [180](https://news.ycombinator.com/item?id=43770445) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -119,11 +107,11 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 
 ---
 
-## <a name="9"></a>9. 用Obsidian+Hugo+GitHub+Cloudflare搭建极简博客系统 
+## <a name="8"></a>8. 用Obsidian+Hugo+GitHub+Cloudflare搭建极简博客系统 
 <small>🔗 [ingau.me](https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/): How I blog with Obsidian, Hugo, GitHub, and Cloudflare</small>
 
 
-| 🔥🔥: 259 \| 💬: [205](https://news.ycombinator.com/item?id=43771645) \| 🗓️ 2025-04-23
+| 🔥🔥: 262 \| 💬: [205](https://news.ycombinator.com/item?id=43771645) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -131,11 +119,23 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 
 ---
 
+## <a name="9"></a>9. 互联网正被“格鲁恩转移”吞噬 
+<small>🔗 [sebs.website](https://sebs.website/blog/the%20gruen-transfer-is-consuming-the-internet): The Gruen Transfer is consuming the internet</small>
+
+
+| 🔥🔥: 261 \| 💬: [209](https://news.ycombinator.com/item?id=43769936) \| 🗓️ 2025-04-23
+
+
+<br />
+文章探讨了**格鲁恩转移**（消费者因混乱布局迷失初衷的现象）如何从实体店蔓延至互联网。以Facebook为例，原本用于关注好友动态的**信息流**如今被广告、网红内容充斥，用户陷入无意识刷屏。这种现象也出现在其他网站，甚至与**UX黑暗模式**（如繁琐的账户注销流程）结合，刻意制造混乱以促使用户冲动行为。欧盟已立法要求“取消订阅”与“订阅”流程同样简便，但作者呼吁将此类规则扩展至更多领域。
+
+---
+
 ## <a name="10"></a>10. 大语言模型如何学会三维建模？ 
 <small>🔗 [willpatrick.xyz](https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html): Teaching LLMs how to solid model</small>
 
 
-| 🔥🔥: 187 \| 💬: [55](https://news.ycombinator.com/item?id=43774990) \| 🗓️ 2025-04-23
+| 🔥🔥: 200 \| 💬: [63](https://news.ycombinator.com/item?id=43774990) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -147,7 +147,7 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 <small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/04/chatgpt-head-tells-court-openai-is-interested-in-buying-chrome/): OpenAI wants to buy Chrome and make it an "AI-first" experience</small>
 
 
-| 🔥🔥: 144 \| 💬: [201](https://news.ycombinator.com/item?id=43770312) \| 🗓️ 2025-04-23
+| 🔥🔥: 145 \| 💬: [202](https://news.ycombinator.com/item?id=43770312) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -155,7 +155,31 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 
 ---
 
-## <a name="12"></a>12. 欧盟重罚苹果5亿欧元、Meta2亿欧元 
+## <a name="12"></a>12. 韩国81,998家酒吧最短步行路线挑战 
+<small>🔗 [math.uwaterloo.ca](https://www.math.uwaterloo.ca/tsp/korea/index.html): Shortest-possible walking tour to 81,998 bars in South Korea</small>
+
+
+| 🔥🔥: 135 \| 💬: [31](https://news.ycombinator.com/item?id=43778105) \| 🗓️ 2025-04-23
+
+
+<br />
+研究人员利用**旅行商问题（TSP）**算法，计算出走访韩国81,998家酒吧的**最优步行路线**，总耗时约178天。该路线通过开源路径规划工具（OSRM）生成，并经过数学验证为绝对最短路径，打破了此前荷兰57,912个站点的纪录。团队结合LKH和Concorde算法，采用**切割平面法**高效求解，避免了穷举所有可能路线的计算困境。这一成果展示了大规模优化问题的解决潜力，相关数据可交互式地图查看。
+
+---
+
+## <a name="13"></a>13. YAGRI原则：数据存储的前瞻性智慧 
+<small>🔗 [scottantipa.com](https://www.scottantipa.com/yagri): Yagri: You are gonna read it</small>
+
+
+| 🔥🔥: 131 \| 💬: [66](https://news.ycombinator.com/item?id=43776967) \| 🗓️ 2025-04-23
+
+
+<br />
+本文对比了**YAGNI原则**（避免过度开发）与作者提出的**YAGRI原则**（"你终将读取它"），强调在数据库设计中应前瞻性存储未来可能需要的元数据（如时间戳、操作者信息等）。虽然满足当前UI需求只需最小化数据，但忽略上下文信息可能导致后续调试或分析困难。例如用户删除操作时，应记录**谁**、**何时**、**为何**删除，而非仅删除数据。合理冗余的关键字段（如`created_at`）成本低，却能在关键时刻挽救问题，这是工程师对数据管理的核心责任。
+
+---
+
+## <a name="14"></a>14. 欧盟重罚苹果5亿欧元、Meta2亿欧元 
 <small>🔗 [politico.eu](https://www.politico.eu/article/eu-fines-apple-meta-breaking-europe-digital-markets-act-dma/): EU fines Apple €500M and Meta €200M</small>
 
 
@@ -167,11 +191,11 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 
 ---
 
-## <a name="13"></a>13. 地理编码API对比：价格、免费额度与使用条款 
+## <a name="15"></a>15. 地理编码API对比：价格、免费额度与使用条款 
 <small>🔗 [bitoff.org](https://www.bitoff.org/geocoding-apis-comparison/): Geocoding APIs compared: Pricing, free tiers and terms of use</small>
 
 
-| 🔥🔥: 126 \| 💬: [81](https://news.ycombinator.com/item?id=43770446) \| 🗓️ 2025-04-23
+| 🔥🔥: 128 \| 💬: [81](https://news.ycombinator.com/item?id=43770446) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -179,11 +203,11 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 
 ---
 
-## <a name="14"></a>14. 告别“氛围编程”：一个新手的心声 
+## <a name="16"></a>16. 告别“氛围编程”：一个新手的心声 
 <small>🔗 [varunraghu.com](https://varunraghu.com/why-i-wont-be-vibe-coding-anymore/): I won't be vibe coding anymore: a noob's perspective</small>
 
 
-| 🔥🔥: 126 \| 💬: [141](https://news.ycombinator.com/item?id=43773977) \| 🗓️ 2025-04-23
+| 🔥🔥: 128 \| 💬: [141](https://news.ycombinator.com/item?id=43773977) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -191,23 +215,11 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 
 ---
 
-## <a name="15"></a>15. YAGRI原则：数据存储的前瞻性智慧 
-<small>🔗 [scottantipa.com](https://www.scottantipa.com/yagri): Yagri: You are gonna read it</small>
-
-
-| 🔥🔥: 114 \| 💬: [59](https://news.ycombinator.com/item?id=43776967) \| 🗓️ 2025-04-23
-
-
-<br />
-本文对比了**YAGNI原则**（避免过度开发）与作者提出的**YAGRI原则**（"你终将读取它"），强调在数据库设计中应前瞻性存储未来可能需要的元数据（如时间戳、操作者信息等）。虽然满足当前UI需求只需最小化数据，但忽略上下文信息可能导致后续调试或分析困难。例如用户删除操作时，应记录**谁**、**何时**、**为何**删除，而非仅删除数据。合理冗余的关键字段（如`created_at`）成本低，却能在关键时刻挽救问题，这是工程师对数据管理的核心责任。
-
----
-
-## <a name="16"></a>16. 用Common Lisp实时编程实现图形动画 
+## <a name="17"></a>17. 用Common Lisp实时编程实现图形动画 
 <small>🔗 [kevingal.com](https://kevingal.com/blog/cl-livecoding.html): Graphics livecoding in Common Lisp</small>
 
 
-| 🔥🔥: 112 \| 💬: [29](https://news.ycombinator.com/item?id=43774726) \| 🗓️ 2025-04-23
+| 🔥🔥: 117 \| 💬: [32](https://news.ycombinator.com/item?id=43774726) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -215,11 +227,11 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 
 ---
 
-## <a name="17"></a>17. 开源Docker容器c/ua：为AI智能体打造高性能虚拟化环境 
+## <a name="18"></a>18. 开源Docker容器c/ua：为AI智能体打造高性能虚拟化环境 
 <small>🔗 [github.com](https://github.com/trycua/cua): Launch HN: Cua (YC X25) – Open-Source Docker Container for Computer-Use Agents</small>
 
 
-| 🔥🔥: 109 \| 💬: [42](https://news.ycombinator.com/item?id=43773563) \| 🗓️ 2025-04-23
+| 🔥🔥: 116 \| 💬: [43](https://news.ycombinator.com/item?id=43773563) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -231,11 +243,11 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 
 ---
 
-## <a name="18"></a>18. MCP协议：AI未来的关键拼图与垄断隐忧 
+## <a name="19"></a>19. MCP协议：AI未来的关键拼图与垄断隐忧 
 <small>🔗 [iamcharliegraham.substack.com](https://iamcharliegraham.substack.com/publish/post/161906169): The Future of MCPs</small>
 
 
-| 🔥🔥: 107 \| 💬: [52](https://news.ycombinator.com/item?id=43774327) \| 🗓️ 2025-04-23
+| 🔥🔥: 116 \| 💬: [53](https://news.ycombinator.com/item?id=43774327) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -243,19 +255,19 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 
 ---
 
-## <a name="19"></a>19. 韩国81,998家酒吧最短步行路线挑战 
-<small>🔗 [math.uwaterloo.ca](https://www.math.uwaterloo.ca/tsp/korea/index.html): Shortest-possible walking tour to 81,998 bars in South Korea</small>
+## <a name="20"></a>20. 《永恒万物：科技巨头的救世幻想》 
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/04/23/books/review/more-everything-forever-adam-becker.html): More Everything Forever</small>
 
 
-| 🔥🔥: 107 \| 💬: [21](https://news.ycombinator.com/item?id=43778105) \| 🗓️ 2025-04-23
+| 🔥🔥: 104 \| 💬: [164](https://news.ycombinator.com/item?id=43773746) \| 🗓️ 2025-04-23
 
 
 <br />
-研究人员利用**旅行商问题（TSP）**算法，计算出走访韩国81,998家酒吧的**最优步行路线**，总耗时约178天。该路线通过开源路径规划工具（OSRM）生成，并经过数学验证为绝对最短路径，打破了此前荷兰57,912个站点的纪录。团队结合LKH和Concorde算法，采用**切割平面法**高效求解，避免了穷举所有可能路线的计算困境。这一成果展示了大规模优化问题的解决潜力，相关数据可交互式地图查看。
+科学记者Adam Becker在新书《永恒万物》中批判了硅谷亿万富翁的**技术救世意识形态**。他驳斥了马斯克的火星殖民计划，指出火星辐射、毒尘和生存成本使其比地球更恶劣。书中还剖析了**人工智能**的乌托邦与末日论，揭示两者本质相同——都依赖技术超越现实限制。Becker认为，这些宏大愿景往往简化问题、追求利润，并承诺虚幻的**终极救赎**，却忽视实际道德与生态代价。
 
 ---
 
-## <a name="20"></a>20. 六十年后，我们仍在追忆“箭式”传奇 
+## <a name="21"></a>21. 六十年后，我们仍在追忆“箭式”传奇 
 <small>🔗 [watershedmagazine.com](https://watershedmagazine.com/features/sixty-years-on-we-still-dream-of-the-arrow/): Sixty Years On, We Still Dream of the Arrow</small>
 
 
@@ -267,23 +279,11 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 
 ---
 
-## <a name="21"></a>21. 《永恒万物：科技巨头的救世幻想》 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/04/23/books/review/more-everything-forever-adam-becker.html): More Everything Forever</small>
-
-
-| 🔥: 98 \| 💬: [154](https://news.ycombinator.com/item?id=43773746) \| 🗓️ 2025-04-23
-
-
-<br />
-科学记者Adam Becker在新书《永恒万物》中批判了硅谷亿万富翁的**技术救世意识形态**。他驳斥了马斯克的火星殖民计划，指出火星辐射、毒尘和生存成本使其比地球更恶劣。书中还剖析了**人工智能**的乌托邦与末日论，揭示两者本质相同——都依赖技术超越现实限制。Becker认为，这些宏大愿景往往简化问题、追求利润，并承诺虚幻的**终极救赎**，却忽视实际道德与生态代价。
-
----
-
 ## <a name="22"></a>22. 帆船调校模拟器 
 <small>🔗 [simulator.atterwind.info](https://simulator.atterwind.info/): Sail-Trim Simulator</small>
 
 
-| 🔥: 87 \| 💬: [21](https://news.ycombinator.com/item?id=43775283) \| 🗓️ 2025-04-23
+| 🔥: 90 \| 💬: [21](https://news.ycombinator.com/item?id=43775283) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -295,7 +295,7 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 <small>🔗 [gbragafibra.github.io](https://gbragafibra.github.io/2025/01/08/collatz_ant2.html): Collatz's Ant</small>
 
 
-| 🔥: 86 \| 💬: [16](https://news.ycombinator.com/item?id=43770615) \| 🗓️ 2025-04-23
+| 🔥: 87 \| 💬: [16](https://news.ycombinator.com/item?id=43770615) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -319,7 +319,7 @@ Moose是一个**开源框架**，允许开发者使用纯TypeScript或Python代�
 <small>🔗 [ntrs.nasa.gov](https://ntrs.nasa.gov/api/citations/20060024675/downloads/20060024675.pdf): Automated Antenna Design with Evolutionary Algorithms [pdf] (2006)</small>
 
 
-| 🔥: 59 \| 💬: [47](https://news.ycombinator.com/item?id=43772503) \| 🗓️ 2025-04-23
+| 🔥: 60 \| 💬: [47](https://news.ycombinator.com/item?id=43772503) \| 🗓️ 2025-04-23
 
 
 <br />
