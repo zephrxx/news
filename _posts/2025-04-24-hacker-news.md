@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共16条，具体内容您往下读...
+总共21条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [pluralistic.net](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf): Careless People</small>
 
 
-| 🔥🔥: 689 \| 💬: [373](https://news.ycombinator.com/item?id=43780363) \| 🗓️ 2025-04-24
+| 🔥🔥: 718 \| 💬: [386](https://news.ycombinator.com/item?id=43780363) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [code.mendhak.com](https://code.mendhak.com/gpl-v2-address-letter/): I wrote to the address in the GPLv2 license notice (2022)</small>
 
 
-| 🔥🔥: 489 \| 💬: [400](https://news.ycombinator.com/item?id=43781888) \| 🗓️ 2025-04-24
+| 🔥🔥: 510 \| 💬: [420](https://news.ycombinator.com/item?id=43781888) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -48,10 +48,10 @@ tags:
 ---
 
 ## <a name="3"></a>3. 职场忠诚度的真相 
-<small>🔗 [talentstuff.com](https://www.talentstuff.com/blog/on-loyalty-to-your-employer): On loyalty to Your Employer</small>
+<small>🔗 [medium.com](https://medium.com/hackernoon/on-loyalty-to-your-employer-c674c4b06b3a): On loyalty to your employer (2018)</small>
 
 
-| 🔥🔥: 360 \| 💬: [386](https://news.ycombinator.com/item?id=43780815) \| 🗓️ 2025-04-24
+| 🔥🔥: 371 \| 💬: [397](https://news.ycombinator.com/item?id=43780815) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [newyorker.com](https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over): Mark Zuckerberg says social media is over</small>
 
 
-| 🔥🔥: 326 \| 💬: [592](https://news.ycombinator.com/item?id=43780377) \| 🗓️ 2025-04-24
+| 🔥🔥: 353 \| 💬: [636](https://news.ycombinator.com/item?id=43780377) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [rook2root.co](https://rook2root.co/articles/20250424-manufacturing-consensus-on-x): Manufactured consensus on x.com</small>
 
 
-| 🔥🔥: 240 \| 💬: [176](https://news.ycombinator.com/item?id=43784915) \| 🗓️ 2025-04-24
+| 🔥🔥: 251 \| 💬: [198](https://news.ycombinator.com/item?id=43784915) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [motherduck.com](https://motherduck.com/blog/introducing-instant-sql/): Instant SQL for results as you type in DuckDB UI</small>
 
 
-| 🔥🔥: 232 \| 💬: [81](https://news.ycombinator.com/item?id=43782406) \| 🗓️ 2025-04-24
+| 🔥🔥: 244 \| 💬: [84](https://news.ycombinator.com/item?id=43782406) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -99,7 +99,7 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 <small>🔗 [bigthink.com](https://bigthink.com/starts-with-a-bang/21cm-magic-length/): One quantum transition makes light at 21 cm</small>
 
 
-| 🔥🔥: 163 \| 💬: [102](https://news.ycombinator.com/item?id=43784721) \| 🗓️ 2025-04-24
+| 🔥🔥: 176 \| 💬: [108](https://news.ycombinator.com/item?id=43784721) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -111,7 +111,7 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 <small>🔗 [web.stanford.edu](https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html): Assignment 5: Cars and Key Fobs</small>
 
 
-| 🔥🔥: 157 \| 💬: [144](https://news.ycombinator.com/item?id=43780876) \| 🗓️ 2025-04-24
+| 🔥🔥: 170 \| 💬: [150](https://news.ycombinator.com/item?id=43780876) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -123,7 +123,7 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 <small>🔗 [fedify.dev](https://fedify.dev/tutorial/microblog): Creating your own federated microblog</small>
 
 
-| 🔥🔥: 132 \| 💬: [25](https://news.ycombinator.com/item?id=43780785) \| 🗓️ 2025-04-24
+| 🔥🔥: 143 \| 💬: [31](https://news.ycombinator.com/item?id=43780785) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -135,7 +135,7 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 <small>🔗 [ssp.sh](https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/): Vim Language, Motions, and Modes Explained (2023)</small>
 
 
-| 🔥🔥: 102 \| 💬: [94](https://news.ycombinator.com/item?id=43780682) \| 🗓️ 2025-04-24
+| 🔥🔥: 102 \| 💬: [95](https://news.ycombinator.com/item?id=43780682) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -147,7 +147,7 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 <small>🔗 [bitsnbites.eu](https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/): Three Fundamental Flaws of SIMD ISAs (2023)</small>
 
 
-| 🔥: 84 \| 💬: [45](https://news.ycombinator.com/item?id=43783416) \| 🗓️ 2025-04-24
+| 🔥: 92 \| 💬: [49](https://news.ycombinator.com/item?id=43783416) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -155,35 +155,11 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 
 ---
 
-## <a name="12"></a>12. 欧盟将于2025年6月起对手机和平板实施能源标签制度 
-<small>🔗 [energy-efficient-products.ec.europa.eu](https://energy-efficient-products.ec.europa.eu/product-list/smartphones-and-tablets_en): EU Energy labelling will apply to phones and tablets from June 2025</small>
-
-
-| 🔥: 83 \| 💬: [75](https://news.ycombinator.com/item?id=43781933) \| 🗓️ 2025-04-24
-
-
-<br />
-从2025年6月20日起，欧盟将对智能手机、功能手机、无绳电话和平板电脑实施**生态设计**和**能源标签**要求。新规聚焦延长产品寿命，包括**电池耐久性**（至少800次充放电后保持80%容量）、可维修性（提供7年备件）和系统更新支持（至少5年）。能源标签将显示能效等级、抗摔性及维修评分，帮助消费者做出环保选择。预计到2030年，新规将节省14太瓦时能源，减少24%用户开支，并降低电子废弃物。
-
----
-
-## <a name="13"></a>13. AI领域的收购、整合与创新 
-<small>🔗 [frontierai.substack.com](https://frontierai.substack.com/p/acquisitions-consolidation-and-innovation): Acquisitions, consolidation, and innovation in AI</small>
-
-
-| 🔥: 63 \| 💬: [30](https://news.ycombinator.com/item?id=43785919) \| 🗓️ 2025-04-24
-
-
-<br />
-近期OpenAI可能收购Windsurf的传闻引发热议，包括对**应用层扩张**的担忧、行业**整合加速**的恐惧，以及AI初创公司生存空间的讨论。文章指出，**模型创新**与**应用创新**所需团队和能力截然不同，前者集中于少数大公司，后者则由众多小公司主导。尽管基础模型价值仍在，但应用层市场潜力更大，收购潮不可避免，但成功与否取决于文化融合。最终，**为客户提供实际价值**的企业将成为赢家，而非仅靠技术或收购的公司。
-
----
-
-## <a name="14"></a>14. OpenVSX服务中断24小时，多款VSCode衍生编辑器受影响 
+## <a name="12"></a>12. OpenVSX服务中断24小时，多款VSCode衍生编辑器受影响 
 <small>🔗 [status.open-vsx.org](https://status.open-vsx.org/): OpenVSX, which VSCode forks rely on for extensions, down for 24 hours</small>
 
 
-| 🔥: 61 \| 💬: [13](https://news.ycombinator.com/item?id=43785039) \| 🗓️ 2025-04-24
+| 🔥: 86 \| 💬: [22](https://news.ycombinator.com/item?id=43785039) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -191,11 +167,35 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 
 ---
 
+## <a name="13"></a>13. 欧盟将于2025年6月起对手机和平板实施能源标签制度 
+<small>🔗 [energy-efficient-products.ec.europa.eu](https://energy-efficient-products.ec.europa.eu/product-list/smartphones-and-tablets_en): EU Energy labelling will apply to phones and tablets from June 2025</small>
+
+
+| 🔥: 84 \| 💬: [75](https://news.ycombinator.com/item?id=43781933) \| 🗓️ 2025-04-24
+
+
+<br />
+从2025年6月20日起，欧盟将对智能手机、功能手机、无绳电话和平板电脑实施**生态设计**和**能源标签**要求。新规聚焦延长产品寿命，包括**电池耐久性**（至少800次充放电后保持80%容量）、可维修性（提供7年备件）和系统更新支持（至少5年）。能源标签将显示能效等级、抗摔性及维修评分，帮助消费者做出环保选择。预计到2030年，新规将节省14太瓦时能源，减少24%用户开支，并降低电子废弃物。
+
+---
+
+## <a name="14"></a>14. AI领域的收购、整合与创新 
+<small>🔗 [frontierai.substack.com](https://frontierai.substack.com/p/acquisitions-consolidation-and-innovation): Acquisitions, consolidation, and innovation in AI</small>
+
+
+| 🔥: 70 \| 💬: [36](https://news.ycombinator.com/item?id=43785919) \| 🗓️ 2025-04-24
+
+
+<br />
+近期OpenAI可能收购Windsurf的传闻引发热议，包括对**应用层扩张**的担忧、行业**整合加速**的恐惧，以及AI初创公司生存空间的讨论。文章指出，**模型创新**与**应用创新**所需团队和能力截然不同，前者集中于少数大公司，后者则由众多小公司主导。尽管基础模型价值仍在，但应用层市场潜力更大，收购潮不可避免，但成功与否取决于文化融合。最终，**为客户提供实际价值**的企业将成为赢家，而非仅靠技术或收购的公司。
+
+---
+
 ## <a name="15"></a>15. IBM z17 内部探秘：新一代大型机的技术亮点 
 <small>🔗 [community.ibm.com](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/elizabeth-k-joseph1/2025/04/23/a-tour-inside-the-ibm-z17?communityKey=e7b7d299-8509-4572-8cf1-c1112684644f): A Tour Inside the IBM Z17</small>
 
 
-| 🔥: 60 \| 💬: [68](https://news.ycombinator.com/item?id=43783997) \| 🗓️ 2025-04-24
+| 🔥: 64 \| 💬: [74](https://news.ycombinator.com/item?id=43783997) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -207,10 +207,70 @@ IBM 最新发布的 **z17** 大型机延续了前代 z16 的 19 英寸机架设�
 <small>🔗 [claudiu-ivan.com](https://www.claudiu-ivan.com/writing/search-dsl): A Principled Approach to Querying Data – A Type-Safe Search DSL</small>
 
 
-| 🔥: 52 \| 💬: [6](https://news.ycombinator.com/item?id=43784200) \| 🗓️ 2025-04-24
+| 🔥: 56 \| 💬: [7](https://news.ycombinator.com/item?id=43784200) \| 🗓️ 2025-04-24
 
 
 <br />
 本文探讨了如何通过**类型驱动**和**函数式编程**技术，为本地优先应用设计高效的客户端搜索系统。核心方案是创建一个**领域特定语言（DSL）**，利用解析器组合器将查询字符串转换为抽象语法树（AST），再生成类型安全的谓词函数过滤数据。该方法强调错误处理（使用`Either`类型）、模块化解析逻辑，并支持布尔组合查询。性能测试显示其可处理百万级数据集，同时提出了索引和缓存等优化方向。最终实现兼顾了表达力、可维护性与扩展性，适用于从问题跟踪到文档管理等多种场景。
+
+---
+
+## <a name="17"></a>17. Alphabet 2025年第一季度财报概览 
+<small>🔗 [abc.xyz](https://abc.xyz/assets/34/fa/ee06f3de4338b99acffc5c229d9f/2025q1-alphabet-earnings-release.pdf): Alphabet Q1 2025 Earnings [pdf]</small>
+
+
+| 🔥: 54 \| 💬: [24](https://news.ycombinator.com/item?id=43786956) \| 🗓️ 2025-04-24
+
+
+<br />
+该文档是Alphabet（谷歌母公司）2025年第一季度的**官方财报PDF**，包含10页内容，涵盖**财务数据**、**非GAAP货币调整**等关键信息。文件由Workiva平台生成，标注了创建和修改日期（2025年4月24日）。虽然具体财务细节未在摘要中体现，但文档结构显示其包含**收入对账**和**业务概览**等核心板块，适用于投资者和分析师参考。
+
+---
+
+## <a name="18"></a>18. 自制TRMNL电子墨水终端：从硬件破解到云端服务集成 
+<small>🔗 [stavros.io](https://www.stavros.io/posts/making-a-trmnl-device/): Show HN: I made my own TRMNL e-ink device</small>
+
+
+| 🔥: 46 \| 💬: [19](https://news.ycombinator.com/item?id=43781465) \| 🗓️ 2025-04-24
+
+
+<br />
+作者因痴迷**电子墨水屏**，在预购TRMNL设备（一款电池驱动的云端图像推送终端）后，因交货周期长决定自行组装。他花费约80美元采购Waveshare 7.5英寸屏和ESP32驱动板，通过改造**TRMNL开源固件**（适配引脚定义并移除电池/按钮支持），成功实现与官方服务的对接（需购买50美元BYOD许可）。最终成果通过3D打印外壳呈现，并计划改用木质底座优化外观。作者强调该方案**兼顾低成本与快速部署**，同时为TRMNL生态拓展了硬件兼容性。
+
+---
+
+## <a name="19"></a>19. 我逆向工程顶级网站，打造了一个动画UI库 
+<small>🔗 [reverseui.com](https://reverseui.com): Show HN: I reverse engineered top websites to build an animated UI library</small>
+
+
+| 🔥: 46 \| 💬: [16](https://news.ycombinator.com/item?id=43785464) \| 🗓️ 2025-04-24
+
+
+<br />
+开发者通过**逆向分析**多个知名网站的UI设计，构建了一个包含**28种动画组件**的开箱即用库。所有组件均预置样式与动画效果，支持一键集成到项目中。亮点包括**指纹扫描**、**AI聊天界面**、**流光按钮**等，部分组件标注了更新时间。限时提供50美元终身访问优惠（原价100美元）。
+
+---
+
+## <a name="20"></a>20. 有人误打误撞省了50万美元 
+<small>🔗 [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/): Someoen accidentally saved half a million-dollars</small>
+
+
+| 🔥: 43 \| 💬: [4](https://news.ycombinator.com/item?id=43780520) \| 🗓️ 2025-04-24
+
+
+<br />
+一名员工通过**点击五个按钮**，在五分钟内为公司节省了50万美元。原因是公司耗资百万搭建的“高级分析平台”（**AAP**）存在严重技术债务：数据库闲置时间过长、流程冗余且漏洞百出。尽管此举暴露了管理层长期的低效与谎言，作者却因“破坏部门政治平衡”而陷入更多会议和PPT汇报。**最终教训**：在这种环境中，解决问题反而会招致惩罚。
+
+---
+
+## <a name="21"></a>21. Infat：macOS 声明式文件与URL关联管理工具 
+<small>🔗 [github.com](https://github.com/philocalyst/infat): Show HN: Infat – Declaritive application assocation manager for macOS</small>
+
+
+| 🔥: 43 \| 💬: [15](https://news.ycombinator.com/item?id=43785350) \| 🗓️ 2025-04-24
+
+
+<br />
+Infat 是一款 **macOS 原生命令行工具**，用于通过 **声明式配置** 管理文件类型和 URL 协议的默认打开应用。用户无需反复手动设置，只需通过 TOML 配置文件（支持 `[files]` 和 `[schemes]` 表）即可批量绑定应用，例如指定 `TextEdit` 打开 `.md` 文件或 `Safari` 处理 `web` 链接。工具支持 **脚本化操作**（如 `infat set` 命令）、详细日志调试，并基于 macOS 原生 API 实现稳定集成。可通过 Homebrew 或源码安装，遵循 MIT 开源协议，适合开发者和系统管理员使用。
 
 ---
