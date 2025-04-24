@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cookieplmonster.github.io](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/): How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2</small>
 
 
-| 🔥🔥: 911 \| 💬: [206](https://news.ycombinator.com/item?id=43772311) \| 🗓️ 2025-04-23
+| 🔥🔥: 927 \| 💬: [215](https://news.ycombinator.com/item?id=43772311) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [fedi.rib.gay](https://fedi.rib.gay/notes/a6xqityngfubsz0f): You wouldn't steal a font</small>
 
 
-| 🔥🔥: 705 \| 💬: [223](https://news.ycombinator.com/item?id=43775926) \| 🗓️ 2025-04-23
+| 🔥🔥: 741 \| 💬: [239](https://news.ycombinator.com/item?id=43775926) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -48,10 +48,10 @@ tags:
 ---
 
 ## <a name="3"></a>3. NLRB举报人指控DOGE员工窃取敏感数据 
-<small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/): DOGE Worker’s Code Supports NLRB Whistleblower</small>
+<small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/): DOGE worker’s code supports NLRB whistleblower</small>
 
 
-| 🔥🔥: 639 \| 💬: [328](https://news.ycombinator.com/item?id=43776476) \| 🗓️ 2025-04-23
+| 🔥🔥: 690 \| 💬: [374](https://news.ycombinator.com/item?id=43776476) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [ca.finance.yahoo.com](https://ca.finance.yahoo.com/news/apple-fined-570-million-meta-094701712.html): Apple and Meta fined millions for breaching EU law</small>
 
 
-| 🔥🔥: 341 \| 💬: [479](https://news.ycombinator.com/item?id=43770337) \| 🗓️ 2025-04-23
+| 🔥🔥: 352 \| 💬: [488](https://news.ycombinator.com/item?id=43770337) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/23/trump_us_security/): America's cyber defenses are being dismantled from the inside</small>
 
 
-| 🔥🔥: 323 \| 💬: [182](https://news.ycombinator.com/item?id=43770382) \| 🗓️ 2025-04-23
+| 🔥🔥: 328 \| 💬: [182](https://news.ycombinator.com/item?id=43770382) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -83,7 +83,19 @@ tags:
 
 ---
 
-## <a name="6"></a>6. 互联网正被“格鲁恩转移”吞噬 
+## <a name="6"></a>6. 他们把电脑变成了烦人的推销员 
+<small>🔗 [rakhim.exotext.com](https://rakhim.exotext.com/they-made-computers-behave-like-annoying-salesmen): They made computers behave like annoying salesmen</small>
+
+
+| 🔥🔥: 262 \| 💬: [172](https://news.ycombinator.com/item?id=43773710) \| 🗓️ 2025-04-23
+
+
+<br />
+电脑本是**精确的机器**，但科技公司为追求用户体验，将软件设计得像人类（尤其是**死缠烂打的推销员**），用"周三合适吗？""怎样您才会改主意？"等话术反复骚扰用户。这种行为模糊了机器的本质，让年轻一代误以为软件就该是**不可靠且 manipulative** 的。例如，用户对YouTube明确说"不感兴趣"，仍会被反复推送同类内容。问题的根源在于企业将增长指标凌驾于用户真实需求之上。
+
+---
+
+## <a name="7"></a>7. 互联网正被“格鲁恩转移”吞噬 
 <small>🔗 [sebs.website](https://sebs.website/blog/the%20gruen-transfer-is-consuming-the-internet): The Gruen Transfer is consuming the internet</small>
 
 
@@ -95,11 +107,11 @@ tags:
 
 ---
 
-## <a name="7"></a>7. MinC并非Cygwin 
+## <a name="8"></a>8. MinC并非Cygwin 
 <small>🔗 [minc.commandlinerevolution.nl](https://minc.commandlinerevolution.nl/english/home.html): MinC Is Not Cygwin</small>
 
 
-| 🔥🔥: 259 \| 💬: [178](https://news.ycombinator.com/item?id=43770445) \| 🗓️ 2025-04-23
+| 🔥🔥: 261 \| 💬: [180](https://news.ycombinator.com/item?id=43770445) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -107,23 +119,11 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 
 ---
 
-## <a name="8"></a>8. 他们把电脑变成了烦人的推销员 
-<small>🔗 [rakhim.exotext.com](https://rakhim.exotext.com/they-made-computers-behave-like-annoying-salesmen): They made computers behave like annoying salesmen</small>
-
-
-| 🔥🔥: 256 \| 💬: [165](https://news.ycombinator.com/item?id=43773710) \| 🗓️ 2025-04-23
-
-
-<br />
-电脑本是**精确的机器**，但科技公司为追求用户体验，将软件设计得像人类（尤其是**死缠烂打的推销员**），用"周三合适吗？""怎样您才会改主意？"等话术反复骚扰用户。这种行为模糊了机器的本质，让年轻一代误以为软件就该是**不可靠且 manipulative** 的。例如，用户对YouTube明确说"不感兴趣"，仍会被反复推送同类内容。问题的根源在于企业将增长指标凌驾于用户真实需求之上。
-
----
-
 ## <a name="9"></a>9. 用Obsidian+Hugo+GitHub+Cloudflare搭建极简博客系统 
 <small>🔗 [ingau.me](https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/): How I blog with Obsidian, Hugo, GitHub, and Cloudflare</small>
 
 
-| 🔥🔥: 255 \| 💬: [202](https://news.ycombinator.com/item?id=43771645) \| 🗓️ 2025-04-23
+| 🔥🔥: 259 \| 💬: [205](https://news.ycombinator.com/item?id=43771645) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -135,7 +135,7 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 <small>🔗 [willpatrick.xyz](https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html): Teaching LLMs how to solid model</small>
 
 
-| 🔥🔥: 176 \| 💬: [52](https://news.ycombinator.com/item?id=43774990) \| 🗓️ 2025-04-23
+| 🔥🔥: 187 \| 💬: [55](https://news.ycombinator.com/item?id=43774990) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -147,7 +147,7 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 <small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/04/chatgpt-head-tells-court-openai-is-interested-in-buying-chrome/): OpenAI wants to buy Chrome and make it an "AI-first" experience</small>
 
 
-| 🔥🔥: 142 \| 💬: [201](https://news.ycombinator.com/item?id=43770312) \| 🗓️ 2025-04-23
+| 🔥🔥: 144 \| 💬: [201](https://news.ycombinator.com/item?id=43770312) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -167,7 +167,19 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 
 ---
 
-## <a name="13"></a>13. 告别“氛围编程”：一个新手的心声 
+## <a name="13"></a>13. 地理编码API对比：价格、免费额度与使用条款 
+<small>🔗 [bitoff.org](https://www.bitoff.org/geocoding-apis-comparison/): Geocoding APIs compared: Pricing, free tiers and terms of use</small>
+
+
+| 🔥🔥: 126 \| 💬: [81](https://news.ycombinator.com/item?id=43770446) \| 🗓️ 2025-04-23
+
+
+<br />
+本文对比了主流**地理编码API**（如HERE、Google Maps、Azure Maps等）的**定价策略**、**免费额度**及数据使用限制。重点分析了不同使用场景下的成本差异：小规模项目可优先选择免费额度高的服务（如TomTom或HERE），中高流量需求则需权衡月费制（如OpenCage）与按量付费（如Google Maps）。**商业用途**需注意Google Maps的强制绑定条款，而开源方案Nominatim仅适合非商用场景。
+
+---
+
+## <a name="14"></a>14. 告别“氛围编程”：一个新手的心声 
 <small>🔗 [varunraghu.com](https://varunraghu.com/why-i-wont-be-vibe-coding-anymore/): I won't be vibe coding anymore: a noob's perspective</small>
 
 
@@ -179,23 +191,35 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 
 ---
 
-## <a name="14"></a>14. 地理编码API对比：价格、免费额度与使用条款 
-<small>🔗 [bitoff.org](https://www.bitoff.org/geocoding-apis-comparison/): Geocoding APIs compared: Pricing, free tiers and terms of use</small>
+## <a name="15"></a>15. YAGRI原则：数据存储的前瞻性智慧 
+<small>🔗 [scottantipa.com](https://www.scottantipa.com/yagri): Yagri: You are gonna read it</small>
 
 
-| 🔥🔥: 124 \| 💬: [81](https://news.ycombinator.com/item?id=43770446) \| 🗓️ 2025-04-23
+| 🔥🔥: 114 \| 💬: [59](https://news.ycombinator.com/item?id=43776967) \| 🗓️ 2025-04-23
 
 
 <br />
-本文对比了主流**地理编码API**（如HERE、Google Maps、Azure Maps等）的**定价策略**、**免费额度**及数据使用限制。重点分析了不同使用场景下的成本差异：小规模项目可优先选择免费额度高的服务（如TomTom或HERE），中高流量需求则需权衡月费制（如OpenCage）与按量付费（如Google Maps）。**商业用途**需注意Google Maps的强制绑定条款，而开源方案Nominatim仅适合非商用场景。
+本文对比了**YAGNI原则**（避免过度开发）与作者提出的**YAGRI原则**（"你终将读取它"），强调在数据库设计中应前瞻性存储未来可能需要的元数据（如时间戳、操作者信息等）。虽然满足当前UI需求只需最小化数据，但忽略上下文信息可能导致后续调试或分析困难。例如用户删除操作时，应记录**谁**、**何时**、**为何**删除，而非仅删除数据。合理冗余的关键字段（如`created_at`）成本低，却能在关键时刻挽救问题，这是工程师对数据管理的核心责任。
 
 ---
 
-## <a name="15"></a>15. 开源Docker容器c/ua：为AI智能体打造高性能虚拟化环境 
+## <a name="16"></a>16. 用Common Lisp实时编程实现图形动画 
+<small>🔗 [kevingal.com](https://kevingal.com/blog/cl-livecoding.html): Graphics livecoding in Common Lisp</small>
+
+
+| 🔥🔥: 112 \| 💬: [29](https://news.ycombinator.com/item?id=43774726) \| 🗓️ 2025-04-23
+
+
+<br />
+本文介绍了如何利用**Common Lisp**的**实时编程**（livecoding）特性，在不重启程序的情况下动态开发一个模拟鸟群行为的Boids算法。通过**Sketch图形框架**，作者展示了如何实时修改代码并立即看到效果，例如调整鸟群的分离、聚集和对齐规则。这种开发方式不仅高效，还能通过**条件系统**即时修复错误。最终，程序实现了鸟群跟随鼠标的交互效果，全程无需等待编译或重启。
+
+---
+
+## <a name="17"></a>17. 开源Docker容器c/ua：为AI智能体打造高性能虚拟化环境 
 <small>🔗 [github.com](https://github.com/trycua/cua): Launch HN: Cua (YC X25) – Open-Source Docker Container for Computer-Use Agents</small>
 
 
-| 🔥🔥: 106 \| 💬: [42](https://news.ycombinator.com/item?id=43773563) \| 🗓️ 2025-04-23
+| 🔥🔥: 109 \| 💬: [42](https://news.ycombinator.com/item?id=43773563) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -207,11 +231,11 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 
 ---
 
-## <a name="16"></a>16. MCP协议：AI未来的关键拼图与垄断隐忧 
+## <a name="18"></a>18. MCP协议：AI未来的关键拼图与垄断隐忧 
 <small>🔗 [iamcharliegraham.substack.com](https://iamcharliegraham.substack.com/publish/post/161906169): The Future of MCPs</small>
 
 
-| 🔥🔥: 104 \| 💬: [48](https://news.ycombinator.com/item?id=43774327) \| 🗓️ 2025-04-23
+| 🔥🔥: 107 \| 💬: [52](https://news.ycombinator.com/item?id=43774327) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -219,35 +243,23 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 
 ---
 
-## <a name="17"></a>17. 用Common Lisp实时编程实现图形动画 
-<small>🔗 [kevingal.com](https://kevingal.com/blog/cl-livecoding.html): Graphics livecoding in Common Lisp</small>
+## <a name="19"></a>19. 韩国81,998家酒吧最短步行路线挑战 
+<small>🔗 [math.uwaterloo.ca](https://www.math.uwaterloo.ca/tsp/korea/index.html): Shortest-possible walking tour to 81,998 bars in South Korea</small>
 
 
-| 🔥🔥: 103 \| 💬: [28](https://news.ycombinator.com/item?id=43774726) \| 🗓️ 2025-04-23
-
-
-<br />
-本文介绍了如何利用**Common Lisp**的**实时编程**（livecoding）特性，在不重启程序的情况下动态开发一个模拟鸟群行为的Boids算法。通过**Sketch图形框架**，作者展示了如何实时修改代码并立即看到效果，例如调整鸟群的分离、聚集和对齐规则。这种开发方式不仅高效，还能通过**条件系统**即时修复错误。最终，程序实现了鸟群跟随鼠标的交互效果，全程无需等待编译或重启。
-
----
-
-## <a name="18"></a>18. YAGRI原则：数据存储的前瞻性智慧 
-<small>🔗 [scottantipa.com](https://www.scottantipa.com/yagri): Yagri: You are gonna read it</small>
-
-
-| 🔥: 99 \| 💬: [48](https://news.ycombinator.com/item?id=43776967) \| 🗓️ 2025-04-23
+| 🔥🔥: 107 \| 💬: [21](https://news.ycombinator.com/item?id=43778105) \| 🗓️ 2025-04-23
 
 
 <br />
-本文对比了**YAGNI原则**（避免过度开发）与作者提出的**YAGRI原则**（"你终将读取它"），强调在数据库设计中应前瞻性存储未来可能需要的元数据（如时间戳、操作者信息等）。虽然满足当前UI需求只需最小化数据，但忽略上下文信息可能导致后续调试或分析困难。例如用户删除操作时，应记录**谁**、**何时**、**为何**删除，而非仅删除数据。合理冗余的关键字段（如`created_at`）成本低，却能在关键时刻挽救问题，这是工程师对数据管理的核心责任。
+研究人员利用**旅行商问题（TSP）**算法，计算出走访韩国81,998家酒吧的**最优步行路线**，总耗时约178天。该路线通过开源路径规划工具（OSRM）生成，并经过数学验证为绝对最短路径，打破了此前荷兰57,912个站点的纪录。团队结合LKH和Concorde算法，采用**切割平面法**高效求解，避免了穷举所有可能路线的计算困境。这一成果展示了大规模优化问题的解决潜力，相关数据可交互式地图查看。
 
 ---
 
-## <a name="19"></a>19. 六十年后，我们仍在追忆“箭式”传奇 
+## <a name="20"></a>20. 六十年后，我们仍在追忆“箭式”传奇 
 <small>🔗 [watershedmagazine.com](https://watershedmagazine.com/features/sixty-years-on-we-still-dream-of-the-arrow/): Sixty Years On, We Still Dream of the Arrow</small>
 
 
-| 🔥: 97 \| 💬: [80](https://news.ycombinator.com/item?id=43770228) \| 🗓️ 2025-04-23
+| 🔥: 99 \| 💬: [80](https://news.ycombinator.com/item?id=43770228) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -255,11 +267,11 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 
 ---
 
-## <a name="20"></a>20. 《永恒万物：科技巨头的救世幻想》 
+## <a name="21"></a>21. 《永恒万物：科技巨头的救世幻想》 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/04/23/books/review/more-everything-forever-adam-becker.html): More Everything Forever</small>
 
 
-| 🔥: 93 \| 💬: [140](https://news.ycombinator.com/item?id=43773746) \| 🗓️ 2025-04-23
+| 🔥: 98 \| 💬: [154](https://news.ycombinator.com/item?id=43773746) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -267,7 +279,19 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 
 ---
 
-## <a name="21"></a>21. 科拉茨蚂蚁：可视化序列的奇妙探索 
+## <a name="22"></a>22. 帆船调校模拟器 
+<small>🔗 [simulator.atterwind.info](https://simulator.atterwind.info/): Sail-Trim Simulator</small>
+
+
+| 🔥: 87 \| 💬: [21](https://news.ycombinator.com/item?id=43775283) \| 🗓️ 2025-04-23
+
+
+<br />
+这款工具通过**风梯度**、**视风角**和**帆面扭转**的动态模拟，帮助用户建立更直观的风帆力学认知。重点提升**高性能帆船**在加速时的调帆技巧，并与真实A级水翼双体船DNA F1x的设定数据对比。支持鼠标、键盘、触控操作及链接分享，开源代码与文档详见GitHub。
+
+---
+
+## <a name="23"></a>23. 科拉茨蚂蚁：可视化序列的奇妙探索 
 <small>🔗 [gbragafibra.github.io](https://gbragafibra.github.io/2025/01/08/collatz_ant2.html): Collatz's Ant</small>
 
 
@@ -279,23 +303,11 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 
 ---
 
-## <a name="22"></a>22. 帆船调校模拟器 
-<small>🔗 [simulator.atterwind.info](https://simulator.atterwind.info/): Sail-Trim Simulator</small>
-
-
-| 🔥: 81 \| 💬: [21](https://news.ycombinator.com/item?id=43775283) \| 🗓️ 2025-04-23
-
-
-<br />
-这款工具通过**风梯度**、**视风角**和**帆面扭转**的动态模拟，帮助用户建立更直观的风帆力学认知。重点提升**高性能帆船**在加速时的调帆技巧，并与真实A级水翼双体船DNA F1x的设定数据对比。支持鼠标、键盘、触控操作及链接分享，开源代码与文档详见GitHub。
-
----
-
-## <a name="23"></a>23. 开源框架Moose：用ClickHouse快速构建分析后端 
+## <a name="24"></a>24. 开源框架Moose：用ClickHouse快速构建分析后端 
 <small>🔗 [docs.fiveonefour.com](https://docs.fiveonefour.com/moose): Show HN: Moose – OSS framework to build analytical back ends with ClickHouse</small>
 
 
-| 🔥: 68 \| 💬: [15](https://news.ycombinator.com/item?id=43773976) \| 🗓️ 2025-04-23
+| 🔥: 69 \| 💬: [15](https://news.ycombinator.com/item?id=43773976) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -303,26 +315,14 @@ Moose是一个**开源框架**，允许开发者使用纯TypeScript或Python代�
 
 ---
 
-## <a name="24"></a>24. 基于进化算法的天线自动化设计（2006） 
+## <a name="25"></a>25. 基于进化算法的天线自动化设计（2006） 
 <small>🔗 [ntrs.nasa.gov](https://ntrs.nasa.gov/api/citations/20060024675/downloads/20060024675.pdf): Automated Antenna Design with Evolutionary Algorithms [pdf] (2006)</small>
 
 
-| 🔥: 57 \| 💬: [46](https://news.ycombinator.com/item?id=43772503) \| 🗓️ 2025-04-23
+| 🔥: 59 \| 💬: [47](https://news.ycombinator.com/item?id=43772503) \| 🗓️ 2025-04-23
 
 
 <br />
 该研究探讨了利用**进化算法**实现天线设计的自动化流程。通过模拟自然选择机制，算法能够优化天线结构参数，显著提升设计效率。研究重点包括**遗传编程**的应用以及**多目标优化**策略，展示了该技术在复杂电磁环境中的适应性。论文提供了算法框架验证及实际案例，为天线工程领域提供了创新解决方案。
-
----
-
-## <a name="25"></a>25. AI的“空热量”：治标不治本的孤独解药？ 
-<small>🔗 [peakhorse.substack.com](https://peakhorse.substack.com/p/empty-calories-of-ai-a-cure-for-loneliness): Empty Calories of AI: A Cure for Loneliness Worse Than the Disease?</small>
-
-
-| 🔥: 54 \| 💬: [52](https://news.ycombinator.com/item?id=43772696) \| 🗓️ 2025-04-23
-
-
-<br />
-哈佛研究表明，**AI聊天机器人**能缓解孤独感，效果堪比真人互动。然而，类似快餐解决饥饿却引发肥胖，**AI陪伴**可能制造更隐蔽的问题——它提供即时满足，却缺乏真实人际关系的挑战与成长。案例显示，过度依赖AI会导致社交能力退化，甚至引发悲剧（如青少年因AI聊天机器人自杀）。真正的解决方案应是重建社区联结，而非用**技术捷径**替代人类情感。社会需警惕用“空热量”式安慰掩盖孤独危机的本质。
 
 ---
