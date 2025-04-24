@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cookieplmonster.github.io](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/): How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2</small>
 
 
-| 🔥🔥: 821 \| 💬: [178](https://news.ycombinator.com/item?id=43772311) \| 🗓️ 2025-04-23
+| 🔥🔥: 856 \| 💬: [192](https://news.ycombinator.com/item?id=43772311) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [fedi.rib.gay](https://fedi.rib.gay/notes/a6xqityngfubsz0f): You wouldn't steal a font</small>
 
 
-| 🔥🔥: 495 \| 💬: [141](https://news.ycombinator.com/item?id=43775926) \| 🗓️ 2025-04-23
+| 🔥🔥: 583 \| 💬: [173](https://news.ycombinator.com/item?id=43775926) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/): DOGE Worker’s Code Supports NLRB Whistleblower</small>
 
 
-| 🔥🔥: 438 \| 💬: [201](https://news.ycombinator.com/item?id=43776476) \| 🗓️ 2025-04-23
+| 🔥🔥: 512 \| 💬: [253](https://news.ycombinator.com/item?id=43776476) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/23/trump_us_security/): America's cyber defenses are being dismantled from the inside</small>
 
 
-| 🔥🔥: 320 \| 💬: [180](https://news.ycombinator.com/item?id=43770382) \| 🗓️ 2025-04-23
+| 🔥🔥: 321 \| 💬: [182](https://news.ycombinator.com/item?id=43770382) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [ca.finance.yahoo.com](https://ca.finance.yahoo.com/news/apple-fined-570-million-meta-094701712.html): Apple and Meta fined millions for breaching EU law</small>
 
 
-| 🔥🔥: 302 \| 💬: [450](https://news.ycombinator.com/item?id=43770337) \| 🗓️ 2025-04-23
+| 🔥🔥: 315 \| 💬: [468](https://news.ycombinator.com/item?id=43770337) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [sebs.website](https://sebs.website/blog/the%20gruen-transfer-is-consuming-the-internet): The Gruen Transfer is consuming the internet</small>
 
 
-| 🔥🔥: 258 \| 💬: [205](https://news.ycombinator.com/item?id=43769936) \| 🗓️ 2025-04-23
+| 🔥🔥: 259 \| 💬: [206](https://news.ycombinator.com/item?id=43769936) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [minc.commandlinerevolution.nl](https://minc.commandlinerevolution.nl/english/home.html): MinC Is Not Cygwin</small>
 
 
-| 🔥🔥: 247 \| 💬: [173](https://news.ycombinator.com/item?id=43770445) \| 🗓️ 2025-04-23
+| 🔥🔥: 252 \| 💬: [175](https://news.ycombinator.com/item?id=43770445) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -111,7 +111,7 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 <small>🔗 [ingau.me](https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/): How I blog with Obsidian, Hugo, GitHub, and Cloudflare</small>
 
 
-| 🔥🔥: 241 \| 💬: [200](https://news.ycombinator.com/item?id=43771645) \| 🗓️ 2025-04-23
+| 🔥🔥: 247 \| 💬: [200](https://news.ycombinator.com/item?id=43771645) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -123,7 +123,7 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 <small>🔗 [rakhim.exotext.com](https://rakhim.exotext.com/they-made-computers-behave-like-annoying-salesmen): They made computers behave like annoying salesmen</small>
 
 
-| 🔥🔥: 232 \| 💬: [138](https://news.ycombinator.com/item?id=43773710) \| 🗓️ 2025-04-23
+| 🔥🔥: 243 \| 💬: [154](https://news.ycombinator.com/item?id=43773710) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -131,23 +131,11 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 
 ---
 
-## <a name="10"></a>10. OpenAI有意收购Chrome 打造“AI优先”浏览器体验 
-<small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/04/chatgpt-head-tells-court-openai-is-interested-in-buying-chrome/): OpenAI wants to buy Chrome and make it an "AI-first" experience</small>
-
-
-| 🔥🔥: 140 \| 💬: [201](https://news.ycombinator.com/item?id=43770312) \| 🗓️ 2025-04-23
-
-
-<br />
-美国司法部针对谷歌反垄断案进入补救阶段，可能强制其出售Chrome浏览器。**OpenAI产品主管Nick Turley**在庭审中透露，若谷歌被迫出售，公司将考虑收购。OpenAI已招募前谷歌Chrome开发成员，并计划基于Chromium自研浏览器。拥有**67%市场份额**的Chrome可为OpenAI带来海量用户数据，用于训练**AI代理模型**，并深度整合ChatGPT功能。尽管法官对拆分方案存疑，但若交易达成，Chrome或转型为以AI为核心的全新体验。
-
----
-
-## <a name="11"></a>11. 大语言模型如何学会三维建模？ 
+## <a name="10"></a>10. 大语言模型如何学会三维建模？ 
 <small>🔗 [willpatrick.xyz](https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html): Teaching LLMs how to solid model</small>
 
 
-| 🔥🔥: 140 \| 💬: [39](https://news.ycombinator.com/item?id=43774990) \| 🗓️ 2025-04-23
+| 🔥🔥: 152 \| 💬: [44](https://news.ycombinator.com/item?id=43774990) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -155,11 +143,23 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 
 ---
 
+## <a name="11"></a>11. OpenAI有意收购Chrome 打造“AI优先”浏览器体验 
+<small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/04/chatgpt-head-tells-court-openai-is-interested-in-buying-chrome/): OpenAI wants to buy Chrome and make it an "AI-first" experience</small>
+
+
+| 🔥🔥: 141 \| 💬: [201](https://news.ycombinator.com/item?id=43770312) \| 🗓️ 2025-04-23
+
+
+<br />
+美国司法部针对谷歌反垄断案进入补救阶段，可能强制其出售Chrome浏览器。**OpenAI产品主管Nick Turley**在庭审中透露，若谷歌被迫出售，公司将考虑收购。OpenAI已招募前谷歌Chrome开发成员，并计划基于Chromium自研浏览器。拥有**67%市场份额**的Chrome可为OpenAI带来海量用户数据，用于训练**AI代理模型**，并深度整合ChatGPT功能。尽管法官对拆分方案存疑，但若交易达成，Chrome或转型为以AI为核心的全新体验。
+
+---
+
 ## <a name="12"></a>12. 欧盟重罚苹果5亿欧元、Meta2亿欧元 
 <small>🔗 [politico.eu](https://www.politico.eu/article/eu-fines-apple-meta-breaking-europe-digital-markets-act-dma/): EU fines Apple €500M and Meta €200M</small>
 
 
-| 🔥🔥: 129 \| 💬: [2](https://news.ycombinator.com/item?id=43770396) \| 🗓️ 2025-04-23
+| 🔥🔥: 130 \| 💬: [2](https://news.ycombinator.com/item?id=43770396) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -171,7 +171,7 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 <small>🔗 [varunraghu.com](https://varunraghu.com/why-i-wont-be-vibe-coding-anymore/): I won't be vibe coding anymore: a noob's perspective</small>
 
 
-| 🔥🔥: 122 \| 💬: [139](https://news.ycombinator.com/item?id=43773977) \| 🗓️ 2025-04-23
+| 🔥🔥: 124 \| 💬: [140](https://news.ycombinator.com/item?id=43773977) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -183,7 +183,7 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 <small>🔗 [bitoff.org](https://www.bitoff.org/geocoding-apis-comparison/): Geocoding APIs compared: Pricing, free tiers and terms of use</small>
 
 
-| 🔥🔥: 118 \| 💬: [79](https://news.ycombinator.com/item?id=43770446) \| 🗓️ 2025-04-23
+| 🔥🔥: 120 \| 💬: [81](https://news.ycombinator.com/item?id=43770446) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -195,7 +195,7 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 <small>🔗 [watershedmagazine.com](https://watershedmagazine.com/features/sixty-years-on-we-still-dream-of-the-arrow/): Sixty Years On, We Still Dream of the Arrow</small>
 
 
-| 🔥: 96 \| 💬: [75](https://news.ycombinator.com/item?id=43770228) \| 🗓️ 2025-04-23
+| 🔥: 97 \| 💬: [79](https://news.ycombinator.com/item?id=43770228) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -207,7 +207,7 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 <small>🔗 [github.com](https://github.com/trycua/cua): Launch HN: Cua (YC X25) – Open-Source Docker Container for Computer-Use Agents</small>
 
 
-| 🔥: 92 \| 💬: [41](https://news.ycombinator.com/item?id=43773563) \| 🗓️ 2025-04-23
+| 🔥: 96 \| 💬: [41](https://news.ycombinator.com/item?id=43773563) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -219,7 +219,31 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 
 ---
 
-## <a name="17"></a>17. 科拉茨蚂蚁：可视化序列的奇妙探索 
+## <a name="17"></a>17. 用Common Lisp实时编程实现图形动画 
+<small>🔗 [kevingal.com](https://kevingal.com/blog/cl-livecoding.html): Graphics livecoding in Common Lisp</small>
+
+
+| 🔥: 93 \| 💬: [26](https://news.ycombinator.com/item?id=43774726) \| 🗓️ 2025-04-23
+
+
+<br />
+本文介绍了如何利用**Common Lisp**的**实时编程**（livecoding）特性，在不重启程序的情况下动态开发一个模拟鸟群行为的Boids算法。通过**Sketch图形框架**，作者展示了如何实时修改代码并立即看到效果，例如调整鸟群的分离、聚集和对齐规则。这种开发方式不仅高效，还能通过**条件系统**即时修复错误。最终，程序实现了鸟群跟随鼠标的交互效果，全程无需等待编译或重启。
+
+---
+
+## <a name="18"></a>18. MCP协议：AI未来的关键拼图与垄断隐忧 
+<small>🔗 [iamcharliegraham.substack.com](https://iamcharliegraham.substack.com/publish/post/161906169): The Future of MCPs</small>
+
+
+| 🔥: 87 \| 💬: [46](https://news.ycombinator.com/item?id=43774327) \| 🗓️ 2025-04-23
+
+
+<br />
+本文探讨了**模型上下文协议（MCP）**的潜力与挑战。MCP作为标准化API，让LLM（如ChatGPT）能连接外部数据源并执行实时操作（如查询机票、管理文件），但当前用户体验粗糙且存在**安全隐患**。作者通过开发两个实验性MCP服务器发现，**客户端（如OpenAI、Claude）将主导生态**，可能形成类似应用商店的垄断格局，控制工具分发与变现。未来或出现垂直化MCP客户端、企业私有解决方案及安全中间件，但核心矛盾仍在于：技术开放性与商业控制权的博弈。
+
+---
+
+## <a name="19"></a>19. 科拉茨蚂蚁：可视化序列的奇妙探索 
 <small>🔗 [gbragafibra.github.io](https://gbragafibra.github.io/2025/01/08/collatz_ant2.html): Collatz's Ant</small>
 
 
@@ -231,35 +255,11 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 
 ---
 
-## <a name="18"></a>18. 用Common Lisp实时编程实现图形动画 
-<small>🔗 [kevingal.com](https://kevingal.com/blog/cl-livecoding.html): Graphics livecoding in Common Lisp</small>
-
-
-| 🔥: 85 \| 💬: [24](https://news.ycombinator.com/item?id=43774726) \| 🗓️ 2025-04-23
-
-
-<br />
-本文介绍了如何利用**Common Lisp**的**实时编程**（livecoding）特性，在不重启程序的情况下动态开发一个模拟鸟群行为的Boids算法。通过**Sketch图形框架**，作者展示了如何实时修改代码并立即看到效果，例如调整鸟群的分离、聚集和对齐规则。这种开发方式不仅高效，还能通过**条件系统**即时修复错误。最终，程序实现了鸟群跟随鼠标的交互效果，全程无需等待编译或重启。
-
----
-
-## <a name="19"></a>19. MCP协议：AI未来的关键拼图与垄断隐忧 
-<small>🔗 [iamcharliegraham.substack.com](https://iamcharliegraham.substack.com/publish/post/161906169): The Future of MCPs</small>
-
-
-| 🔥: 79 \| 💬: [44](https://news.ycombinator.com/item?id=43774327) \| 🗓️ 2025-04-23
-
-
-<br />
-本文探讨了**模型上下文协议（MCP）**的潜力与挑战。MCP作为标准化API，让LLM（如ChatGPT）能连接外部数据源并执行实时操作（如查询机票、管理文件），但当前用户体验粗糙且存在**安全隐患**。作者通过开发两个实验性MCP服务器发现，**客户端（如OpenAI、Claude）将主导生态**，可能形成类似应用商店的垄断格局，控制工具分发与变现。未来或出现垂直化MCP客户端、企业私有解决方案及安全中间件，但核心矛盾仍在于：技术开放性与商业控制权的博弈。
-
----
-
 ## <a name="20"></a>20. 《永恒万物：科技巨头的救世幻想》 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/04/23/books/review/more-everything-forever-adam-becker.html): More Everything Forever</small>
 
 
-| 🔥: 74 \| 💬: [96](https://news.ycombinator.com/item?id=43773746) \| 🗓️ 2025-04-23
+| 🔥: 82 \| 💬: [122](https://news.ycombinator.com/item?id=43773746) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -271,7 +271,7 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 <small>🔗 [simulator.atterwind.info](https://simulator.atterwind.info/): Sail-Trim Simulator</small>
 
 
-| 🔥: 66 \| 💬: [15](https://news.ycombinator.com/item?id=43775283) \| 🗓️ 2025-04-23
+| 🔥: 72 \| 💬: [20](https://news.ycombinator.com/item?id=43775283) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -283,7 +283,7 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 <small>🔗 [docs.fiveonefour.com](https://docs.fiveonefour.com/moose): Show HN: Moose – OSS framework to build analytical back ends with ClickHouse</small>
 
 
-| 🔥: 65 \| 💬: [15](https://news.ycombinator.com/item?id=43773976) \| 🗓️ 2025-04-23
+| 🔥: 67 \| 💬: [15](https://news.ycombinator.com/item?id=43773976) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -291,7 +291,19 @@ Moose是一个**开源框架**，允许开发者使用纯TypeScript或Python代�
 
 ---
 
-## <a name="23"></a>23. AI的“空热量”：治标不治本的孤独解药？ 
+## <a name="23"></a>23. 基于进化算法的天线自动化设计（2006） 
+<small>🔗 [ntrs.nasa.gov](https://ntrs.nasa.gov/api/citations/20060024675/downloads/20060024675.pdf): Automated Antenna Design with Evolutionary Algorithms [pdf] (2006)</small>
+
+
+| 🔥: 54 \| 💬: [45](https://news.ycombinator.com/item?id=43772503) \| 🗓️ 2025-04-23
+
+
+<br />
+该研究探讨了利用**进化算法**实现天线设计的自动化流程。通过模拟自然选择机制，算法能够优化天线结构参数，显著提升设计效率。研究重点包括**遗传编程**的应用以及**多目标优化**策略，展示了该技术在复杂电磁环境中的适应性。论文提供了算法框架验证及实际案例，为天线工程领域提供了创新解决方案。
+
+---
+
+## <a name="24"></a>24. AI的“空热量”：治标不治本的孤独解药？ 
 <small>🔗 [peakhorse.substack.com](https://peakhorse.substack.com/p/empty-calories-of-ai-a-cure-for-loneliness): Empty Calories of AI: A Cure for Loneliness Worse Than the Disease?</small>
 
 
@@ -300,17 +312,5 @@ Moose是一个**开源框架**，允许开发者使用纯TypeScript或Python代�
 
 <br />
 哈佛研究表明，**AI聊天机器人**能缓解孤独感，效果堪比真人互动。然而，类似快餐解决饥饿却引发肥胖，**AI陪伴**可能制造更隐蔽的问题——它提供即时满足，却缺乏真实人际关系的挑战与成长。案例显示，过度依赖AI会导致社交能力退化，甚至引发悲剧（如青少年因AI聊天机器人自杀）。真正的解决方案应是重建社区联结，而非用**技术捷径**替代人类情感。社会需警惕用“空热量”式安慰掩盖孤独危机的本质。
-
----
-
-## <a name="24"></a>24. 基于进化算法的天线自动化设计（2006） 
-<small>🔗 [ntrs.nasa.gov](https://ntrs.nasa.gov/api/citations/20060024675/downloads/20060024675.pdf): Automated Antenna Design with Evolutionary Algorithms [pdf] (2006)</small>
-
-
-| 🔥: 53 \| 💬: [44](https://news.ycombinator.com/item?id=43772503) \| 🗓️ 2025-04-23
-
-
-<br />
-该研究探讨了利用**进化算法**实现天线设计的自动化流程。通过模拟自然选择机制，算法能够优化天线结构参数，显著提升设计效率。研究重点包括**遗传编程**的应用以及**多目标优化**策略，展示了该技术在复杂电磁环境中的适应性。论文提供了算法框架验证及实际案例，为天线工程领域提供了创新解决方案。
 
 ---
