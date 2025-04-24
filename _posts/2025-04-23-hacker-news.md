@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cookieplmonster.github.io](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/): How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2</small>
 
 
-| 🔥🔥: 977 \| 💬: [230](https://news.ycombinator.com/item?id=43772311) \| 🗓️ 2025-04-23
+| 🔥🔥: 1003 \| 💬: [235](https://news.ycombinator.com/item?id=43772311) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [fedi.rib.gay](https://fedi.rib.gay/notes/a6xqityngfubsz0f): You wouldn't steal a font</small>
 
 
-| 🔥🔥: 794 \| 💬: [258](https://news.ycombinator.com/item?id=43775926) \| 🗓️ 2025-04-23
+| 🔥🔥: 830 \| 💬: [271](https://news.ycombinator.com/item?id=43775926) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/): DOGE worker’s code supports NLRB whistleblower</small>
 
 
-| 🔥🔥: 744 \| 💬: [396](https://news.ycombinator.com/item?id=43776476) \| 🗓️ 2025-04-23
+| 🔥🔥: 768 \| 💬: [413](https://news.ycombinator.com/item?id=43776476) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [ca.finance.yahoo.com](https://ca.finance.yahoo.com/news/apple-fined-570-million-meta-094701712.html): Apple and Meta fined millions for breaching EU law</small>
 
 
-| 🔥🔥: 375 \| 💬: [503](https://news.ycombinator.com/item?id=43770337) \| 🗓️ 2025-04-23
+| 🔥🔥: 389 \| 💬: [518](https://news.ycombinator.com/item?id=43770337) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/23/trump_us_security/): America's cyber defenses are being dismantled from the inside</small>
 
 
-| 🔥🔥: 329 \| 💬: [182](https://news.ycombinator.com/item?id=43770382) \| 🗓️ 2025-04-23
+| 🔥🔥: 329 \| 💬: [183](https://news.ycombinator.com/item?id=43770382) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [rakhim.exotext.com](https://rakhim.exotext.com/they-made-computers-behave-like-annoying-salesmen): They made computers behave like annoying salesmen</small>
 
 
-| 🔥🔥: 270 \| 💬: [177](https://news.ycombinator.com/item?id=43773710) \| 🗓️ 2025-04-23
+| 🔥🔥: 275 \| 💬: [178](https://news.ycombinator.com/item?id=43773710) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -95,23 +95,11 @@ tags:
 
 ---
 
-## <a name="7"></a>7. MinC并非Cygwin 
-<small>🔗 [minc.commandlinerevolution.nl](https://minc.commandlinerevolution.nl/english/home.html): MinC Is Not Cygwin</small>
-
-
-| 🔥🔥: 264 \| 💬: [180](https://news.ycombinator.com/item?id=43770445) \| 🗓️ 2025-04-23
-
-
-<br />
-MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育学生设计，可免去虚拟化学习的繁琐。它能在除Win95/98外的所有Windows版本上运行，通过微型内核直接在Windows中调用**OpenBSD 6.1**的完整软件生态，实现原生速度体验。其核心目标是帮助用户零门槛学习**Linux**操作环境。
-
----
-
-## <a name="8"></a>8. 用Obsidian+Hugo+GitHub+Cloudflare搭建极简博客系统 
+## <a name="7"></a>7. 用Obsidian+Hugo+GitHub+Cloudflare搭建极简博客系统 
 <small>🔗 [ingau.me](https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/): How I blog with Obsidian, Hugo, GitHub, and Cloudflare</small>
 
 
-| 🔥🔥: 263 \| 💬: [205](https://news.ycombinator.com/item?id=43771645) \| 🗓️ 2025-04-23
+| 🔥🔥: 270 \| 💬: [209](https://news.ycombinator.com/item?id=43771645) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -119,11 +107,23 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 
 ---
 
+## <a name="8"></a>8. MinC并非Cygwin 
+<small>🔗 [minc.commandlinerevolution.nl](https://minc.commandlinerevolution.nl/english/home.html): MinC Is Not Cygwin</small>
+
+
+| 🔥🔥: 265 \| 💬: [181](https://news.ycombinator.com/item?id=43770445) \| 🗓️ 2025-04-23
+
+
+<br />
+MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育学生设计，可免去虚拟化学习的繁琐。它能在除Win95/98外的所有Windows版本上运行，通过微型内核直接在Windows中调用**OpenBSD 6.1**的完整软件生态，实现原生速度体验。其核心目标是帮助用户零门槛学习**Linux**操作环境。
+
+---
+
 ## <a name="9"></a>9. 互联网正被“格鲁恩转移”吞噬 
 <small>🔗 [sebs.website](https://sebs.website/blog/the%20gruen-transfer-is-consuming-the-internet): The Gruen Transfer is consuming the internet</small>
 
 
-| 🔥🔥: 261 \| 💬: [209](https://news.ycombinator.com/item?id=43769936) \| 🗓️ 2025-04-23
+| 🔥🔥: 261 \| 💬: [210](https://news.ycombinator.com/item?id=43769936) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -135,7 +135,7 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 <small>🔗 [willpatrick.xyz](https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html): Teaching LLMs how to solid model</small>
 
 
-| 🔥🔥: 209 \| 💬: [66](https://news.ycombinator.com/item?id=43774990) \| 🗓️ 2025-04-23
+| 🔥🔥: 216 \| 💬: [68](https://news.ycombinator.com/item?id=43774990) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -147,7 +147,7 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 <small>🔗 [math.uwaterloo.ca](https://www.math.uwaterloo.ca/tsp/korea/index.html): Shortest-possible walking tour to 81,998 bars in South Korea</small>
 
 
-| 🔥🔥: 171 \| 💬: [36](https://news.ycombinator.com/item?id=43778105) \| 🗓️ 2025-04-23
+| 🔥🔥: 201 \| 💬: [46](https://news.ycombinator.com/item?id=43778105) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -155,23 +155,11 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 
 ---
 
-## <a name="12"></a>12. OpenAI有意收购Chrome 打造“AI优先”浏览器体验 
-<small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/04/chatgpt-head-tells-court-openai-is-interested-in-buying-chrome/): OpenAI wants to buy Chrome and make it an "AI-first" experience</small>
+## <a name="12"></a>12. YAGRI原则：数据存储的前瞻性智慧 
+<small>🔗 [scottantipa.com](https://www.scottantipa.com/yagri): YAGRI: You are gonna read it</small>
 
 
-| 🔥🔥: 145 \| 💬: [204](https://news.ycombinator.com/item?id=43770312) \| 🗓️ 2025-04-23
-
-
-<br />
-美国司法部针对谷歌反垄断案进入补救阶段，可能强制其出售Chrome浏览器。**OpenAI产品主管Nick Turley**在庭审中透露，若谷歌被迫出售，公司将考虑收购。OpenAI已招募前谷歌Chrome开发成员，并计划基于Chromium自研浏览器。拥有**67%市场份额**的Chrome可为OpenAI带来海量用户数据，用于训练**AI代理模型**，并深度整合ChatGPT功能。尽管法官对拆分方案存疑，但若交易达成，Chrome或转型为以AI为核心的全新体验。
-
----
-
-## <a name="13"></a>13. YAGRI原则：数据存储的前瞻性智慧 
-<small>🔗 [scottantipa.com](https://www.scottantipa.com/yagri): Yagri: You are gonna read it</small>
-
-
-| 🔥🔥: 139 \| 💬: [72](https://news.ycombinator.com/item?id=43776967) \| 🗓️ 2025-04-23
+| 🔥🔥: 155 \| 💬: [81](https://news.ycombinator.com/item?id=43776967) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -179,7 +167,43 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 
 ---
 
-## <a name="14"></a>14. 欧盟重罚苹果5亿欧元、Meta2亿欧元 
+## <a name="13"></a>13. OpenAI有意收购Chrome 打造“AI优先”浏览器体验 
+<small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/04/chatgpt-head-tells-court-openai-is-interested-in-buying-chrome/): OpenAI wants to buy Chrome and make it an "AI-first" experience</small>
+
+
+| 🔥🔥: 146 \| 💬: [204](https://news.ycombinator.com/item?id=43770312) \| 🗓️ 2025-04-23
+
+
+<br />
+美国司法部针对谷歌反垄断案进入补救阶段，可能强制其出售Chrome浏览器。**OpenAI产品主管Nick Turley**在庭审中透露，若谷歌被迫出售，公司将考虑收购。OpenAI已招募前谷歌Chrome开发成员，并计划基于Chromium自研浏览器。拥有**67%市场份额**的Chrome可为OpenAI带来海量用户数据，用于训练**AI代理模型**，并深度整合ChatGPT功能。尽管法官对拆分方案存疑，但若交易达成，Chrome或转型为以AI为核心的全新体验。
+
+---
+
+## <a name="14"></a>14. 用Common Lisp实时编程实现图形动画 
+<small>🔗 [kevingal.com](https://kevingal.com/blog/cl-livecoding.html): Graphics livecoding in Common Lisp</small>
+
+
+| 🔥🔥: 140 \| 💬: [33](https://news.ycombinator.com/item?id=43774726) \| 🗓️ 2025-04-23
+
+
+<br />
+本文介绍了如何利用**Common Lisp**的**实时编程**（livecoding）特性，在不重启程序的情况下动态开发一个模拟鸟群行为的Boids算法。通过**Sketch图形框架**，作者展示了如何实时修改代码并立即看到效果，例如调整鸟群的分离、聚集和对齐规则。这种开发方式不仅高效，还能通过**条件系统**即时修复错误。最终，程序实现了鸟群跟随鼠标的交互效果，全程无需等待编译或重启。
+
+---
+
+## <a name="15"></a>15. 从零开发的UNIX风格操作系统内核，可运行DOOM 
+<small>🔗 [github.com](https://github.com/UnmappedStack/TacOS): Show HN: My from-scratch OS kernel that runs DOOM</small>
+
+
+| 🔥🔥: 137 \| 💬: [28](https://news.ycombinator.com/item?id=43778081) \| 🗓️ 2025-04-23
+
+
+<br />
+开发者UnmappedStack开源了一个名为**TacOS**的x86_64架构操作系统内核项目，完全从零用**C语言和汇编**编写。该系统具备**UNIX-like**特性，包含虚拟文件系统（VFS）、任务调度、虚拟内存管理等核心功能，并成功移植了经典游戏《DOOM》。目前支持Qemu模拟器和真实硬件运行，但开发者强调这仍是**实验性项目**，存在已知缺陷。构建需Qemu、NASM和Clang环境，采用MPL-2.0开源协议。项目获29星关注，代码仓库已开放。
+
+---
+
+## <a name="16"></a>16. 欧盟重罚苹果5亿欧元、Meta2亿欧元 
 <small>🔗 [politico.eu](https://www.politico.eu/article/eu-fines-apple-meta-breaking-europe-digital-markets-act-dma/): EU fines Apple €500M and Meta €200M</small>
 
 
@@ -191,23 +215,11 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 
 ---
 
-## <a name="15"></a>15. 用Common Lisp实时编程实现图形动画 
-<small>🔗 [kevingal.com](https://kevingal.com/blog/cl-livecoding.html): Graphics livecoding in Common Lisp</small>
-
-
-| 🔥🔥: 129 \| 💬: [32](https://news.ycombinator.com/item?id=43774726) \| 🗓️ 2025-04-23
-
-
-<br />
-本文介绍了如何利用**Common Lisp**的**实时编程**（livecoding）特性，在不重启程序的情况下动态开发一个模拟鸟群行为的Boids算法。通过**Sketch图形框架**，作者展示了如何实时修改代码并立即看到效果，例如调整鸟群的分离、聚集和对齐规则。这种开发方式不仅高效，还能通过**条件系统**即时修复错误。最终，程序实现了鸟群跟随鼠标的交互效果，全程无需等待编译或重启。
-
----
-
-## <a name="16"></a>16. 地理编码API对比：价格、免费额度与使用条款 
+## <a name="17"></a>17. 地理编码API对比：价格、免费额度与使用条款 
 <small>🔗 [bitoff.org](https://www.bitoff.org/geocoding-apis-comparison/): Geocoding APIs compared: Pricing, free tiers and terms of use</small>
 
 
-| 🔥🔥: 128 \| 💬: [82](https://news.ycombinator.com/item?id=43770446) \| 🗓️ 2025-04-23
+| 🔥🔥: 128 \| 💬: [84](https://news.ycombinator.com/item?id=43770446) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -215,7 +227,7 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 
 ---
 
-## <a name="17"></a>17. 告别“氛围编程”：一个新手的心声 
+## <a name="18"></a>18. 告别“氛围编程”：一个新手的心声 
 <small>🔗 [varunraghu.com](https://varunraghu.com/why-i-wont-be-vibe-coding-anymore/): I won't be vibe coding anymore: a noob's perspective</small>
 
 
@@ -227,11 +239,11 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 
 ---
 
-## <a name="18"></a>18. MCP协议：AI未来的关键拼图与垄断隐忧 
+## <a name="19"></a>19. MCP协议：AI未来的关键拼图与垄断隐忧 
 <small>🔗 [iamcharliegraham.substack.com](https://iamcharliegraham.substack.com/publish/post/161906169): The Future of MCPs</small>
 
 
-| 🔥🔥: 124 \| 💬: [54](https://news.ycombinator.com/item?id=43774327) \| 🗓️ 2025-04-23
+| 🔥🔥: 128 \| 💬: [55](https://news.ycombinator.com/item?id=43774327) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -239,11 +251,11 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 
 ---
 
-## <a name="19"></a>19. 开源Docker容器c/ua：为AI智能体打造高性能虚拟化环境 
+## <a name="20"></a>20. 开源Docker容器c/ua：为AI智能体打造高性能虚拟化环境 
 <small>🔗 [github.com](https://github.com/trycua/cua): Launch HN: Cua (YC X25) – Open-Source Docker Container for Computer-Use Agents</small>
 
 
-| 🔥🔥: 119 \| 💬: [44](https://news.ycombinator.com/item?id=43773563) \| 🗓️ 2025-04-23
+| 🔥🔥: 122 \| 💬: [46](https://news.ycombinator.com/item?id=43773563) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -255,23 +267,11 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 
 ---
 
-## <a name="20"></a>20. 从零开发的UNIX风格操作系统内核，可运行DOOM 
-<small>🔗 [github.com](https://github.com/UnmappedStack/TacOS): Show HN: My from-scratch OS kernel that runs DOOM</small>
-
-
-| 🔥🔥: 116 \| 💬: [25](https://news.ycombinator.com/item?id=43778081) \| 🗓️ 2025-04-23
-
-
-<br />
-开发者UnmappedStack开源了一个名为**TacOS**的x86_64架构操作系统内核项目，完全从零用**C语言和汇编**编写。该系统具备**UNIX-like**特性，包含虚拟文件系统（VFS）、任务调度、虚拟内存管理等核心功能，并成功移植了经典游戏《DOOM》。目前支持Qemu模拟器和真实硬件运行，但开发者强调这仍是**实验性项目**，存在已知缺陷。构建需Qemu、NASM和Clang环境，采用MPL-2.0开源协议。项目获29星关注，代码仓库已开放。
-
----
-
 ## <a name="21"></a>21. 《永恒万物：科技巨头的救世幻想》 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/04/23/books/review/more-everything-forever-adam-becker.html): More Everything Forever</small>
 
 
-| 🔥🔥: 110 \| 💬: [172](https://news.ycombinator.com/item?id=43773746) \| 🗓️ 2025-04-23
+| 🔥🔥: 114 \| 💬: [176](https://news.ycombinator.com/item?id=43773746) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -279,11 +279,23 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 
 ---
 
-## <a name="22"></a>22. 六十年后，我们仍在追忆“箭式”传奇 
+## <a name="22"></a>22. 全球首次利用无人机成功触发并引导闪电 
+<small>🔗 [group.ntt](https://group.ntt/en/newsrelease/2025/04/18/250418a.html): First Successful Lightning Triggering and Guiding Using a Drone</small>
+
+
+| 🔥🔥: 101 \| 💬: [41](https://news.ycombinator.com/item?id=43775766) \| 🗓️ 2025-04-23
+
+
+<br />
+NTT公司于2025年4月宣布，**全球首次**通过无人机成功触发并引导闪电。实验利用电场波动技术，在雷暴云下飞行配备**闪电防护笼**的无人机，主动引发闪电并将其安全导离。该防护笼设计可承受150千安电流（远超自然闪电平均值），确保无人机被击中后仍能稳定运行。未来，NTT计划通过**“闪电无人机”**保护城市与基础设施，并探索闪电能量的捕获与利用，目标实现“零雷击灾害社会”。
+
+---
+
+## <a name="23"></a>23. 六十年后，我们仍在追忆“箭式”传奇 
 <small>🔗 [watershedmagazine.com](https://watershedmagazine.com/features/sixty-years-on-we-still-dream-of-the-arrow/): Sixty Years On, We Still Dream of the Arrow</small>
 
 
-| 🔥: 99 \| 💬: [80](https://news.ycombinator.com/item?id=43770228) \| 🗓️ 2025-04-23
+| 🔥: 100 \| 💬: [80](https://news.ycombinator.com/item?id=43770228) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -291,11 +303,11 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 
 ---
 
-## <a name="23"></a>23. 帆船调校模拟器 
+## <a name="24"></a>24. 帆船调校模拟器 
 <small>🔗 [simulator.atterwind.info](https://simulator.atterwind.info/): Sail-Trim Simulator</small>
 
 
-| 🔥: 95 \| 💬: [21](https://news.ycombinator.com/item?id=43775283) \| 🗓️ 2025-04-23
+| 🔥: 100 \| 💬: [21](https://news.ycombinator.com/item?id=43775283) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -303,7 +315,7 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 
 ---
 
-## <a name="24"></a>24. 科拉茨蚂蚁：可视化序列的奇妙探索 
+## <a name="25"></a>25. 科拉茨蚂蚁：可视化序列的奇妙探索 
 <small>🔗 [gbragafibra.github.io](https://gbragafibra.github.io/2025/01/08/collatz_ant2.html): Collatz's Ant</small>
 
 
@@ -312,17 +324,5 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 
 <br />
 本文延续了前作对**科拉茨猜想**的可视化研究，通过**科拉茨蚂蚁**模型（基于朗顿蚂蚁规则）展现序列路径。蚂蚁根据数n的奇偶性转向（顺时针90°或逆时针90°），并移动一格，直至n=1。研究发现，**相似轨迹可能对应相同停止时间**，但反之不成立（如n=10²⁰+1与n=10²⁰+16）。通过对比大数序列（如10²⁰至10²⁰+100），发现**子轨迹收敛时路径旋转相似**（如差5步旋转90°，差100步旋转180°），但随步数增加，细节差异逐渐显著。
-
----
-
-## <a name="25"></a>25. 开源框架Moose：用ClickHouse快速构建分析后端 
-<small>🔗 [docs.fiveonefour.com](https://docs.fiveonefour.com/moose): Show HN: Moose – OSS framework to build analytical back ends with ClickHouse</small>
-
-
-| 🔥: 69 \| 💬: [15](https://news.ycombinator.com/item?id=43773976) \| 🗓️ 2025-04-23
-
-
-<br />
-Moose是一个**开源框架**，允许开发者使用纯TypeScript或Python代码构建分析后端。它通过**类型安全的数据模型**统一管理数据摄入、存储和API基础设施，自动生成ClickHouse表和Redpanda流等组件，解决传统工具链的碎片化和模式漂移问题。支持**实时流处理**和本地热重载开发，一键启动集成环境，显著提升开发效率。适用于实时分析、ETL工作流等场景。
 
 ---
