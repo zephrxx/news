@@ -11,12 +11,12 @@ tags:
 1. 《GTA圣安地列斯20年陈年老Bug竟在Win11 24H2现形》；
 1. 你不会偷字体；
 1. NLRB举报人指控DOGE员工窃取敏感数据；
-1. 美国网络安全防御正从内部被瓦解；
 1. 苹果和Meta因违反欧盟法律被罚数亿欧元；
+1. 美国网络安全防御正从内部被瓦解；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cookieplmonster.github.io](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/): How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2</small>
 
 
-| 🔥🔥: 856 \| 💬: [192](https://news.ycombinator.com/item?id=43772311) \| 🗓️ 2025-04-23
+| 🔥🔥: 886 \| 💬: [203](https://news.ycombinator.com/item?id=43772311) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [fedi.rib.gay](https://fedi.rib.gay/notes/a6xqityngfubsz0f): You wouldn't steal a font</small>
 
 
-| 🔥🔥: 583 \| 💬: [173](https://news.ycombinator.com/item?id=43775926) \| 🗓️ 2025-04-23
+| 🔥🔥: 664 \| 💬: [189](https://news.ycombinator.com/item?id=43775926) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/): DOGE Worker’s Code Supports NLRB Whistleblower</small>
 
 
-| 🔥🔥: 512 \| 💬: [253](https://news.ycombinator.com/item?id=43776476) \| 🗓️ 2025-04-23
+| 🔥🔥: 579 \| 💬: [286](https://news.ycombinator.com/item?id=43776476) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -59,23 +59,11 @@ tags:
 
 ---
 
-## <a name="4"></a>4. 美国网络安全防御正从内部被瓦解 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/04/23/trump_us_security/): America's cyber defenses are being dismantled from the inside</small>
-
-
-| 🔥🔥: 321 \| 💬: [182](https://news.ycombinator.com/item?id=43770382) \| 🗓️ 2025-04-23
-
-
-<br />
-文章指出，**特朗普政府**及其主导的“政府效率部”（**DOGE**）正在系统性削弱美国的网络安全体系。关键案例包括**CVE漏洞数据库**因资金短缺濒临崩溃，以及网络安全高官被无故撤职。此外，政府解散了网络安全审查委员会，并将防御责任推给各州，而各州显然缺乏应对国家级黑客攻击的能力。内部数据泄露风险加剧，敏感信息可能已被非法获取。这些举措不仅危及美国，也将影响全球网络安全。
-
----
-
-## <a name="5"></a>5. 苹果和Meta因违反欧盟法律被罚数亿欧元 
+## <a name="4"></a>4. 苹果和Meta因违反欧盟法律被罚数亿欧元 
 <small>🔗 [ca.finance.yahoo.com](https://ca.finance.yahoo.com/news/apple-fined-570-million-meta-094701712.html): Apple and Meta fined millions for breaching EU law</small>
 
 
-| 🔥🔥: 315 \| 💬: [468](https://news.ycombinator.com/item?id=43770337) \| 🗓️ 2025-04-23
+| 🔥🔥: 329 \| 💬: [473](https://news.ycombinator.com/item?id=43770337) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -83,11 +71,23 @@ tags:
 
 ---
 
+## <a name="5"></a>5. 美国网络安全防御正从内部被瓦解 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/04/23/trump_us_security/): America's cyber defenses are being dismantled from the inside</small>
+
+
+| 🔥🔥: 323 \| 💬: [182](https://news.ycombinator.com/item?id=43770382) \| 🗓️ 2025-04-23
+
+
+<br />
+文章指出，**特朗普政府**及其主导的“政府效率部”（**DOGE**）正在系统性削弱美国的网络安全体系。关键案例包括**CVE漏洞数据库**因资金短缺濒临崩溃，以及网络安全高官被无故撤职。此外，政府解散了网络安全审查委员会，并将防御责任推给各州，而各州显然缺乏应对国家级黑客攻击的能力。内部数据泄露风险加剧，敏感信息可能已被非法获取。这些举措不仅危及美国，也将影响全球网络安全。
+
+---
+
 ## <a name="6"></a>6. 互联网正被“格鲁恩转移”吞噬 
 <small>🔗 [sebs.website](https://sebs.website/blog/the%20gruen-transfer-is-consuming-the-internet): The Gruen Transfer is consuming the internet</small>
 
 
-| 🔥🔥: 259 \| 💬: [206](https://news.ycombinator.com/item?id=43769936) \| 🗓️ 2025-04-23
+| 🔥🔥: 260 \| 💬: [208](https://news.ycombinator.com/item?id=43769936) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [minc.commandlinerevolution.nl](https://minc.commandlinerevolution.nl/english/home.html): MinC Is Not Cygwin</small>
 
 
-| 🔥🔥: 252 \| 💬: [175](https://news.ycombinator.com/item?id=43770445) \| 🗓️ 2025-04-23
+| 🔥🔥: 257 \| 💬: [177](https://news.ycombinator.com/item?id=43770445) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -111,7 +111,7 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 <small>🔗 [ingau.me](https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/): How I blog with Obsidian, Hugo, GitHub, and Cloudflare</small>
 
 
-| 🔥🔥: 247 \| 💬: [200](https://news.ycombinator.com/item?id=43771645) \| 🗓️ 2025-04-23
+| 🔥🔥: 252 \| 💬: [201](https://news.ycombinator.com/item?id=43771645) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -123,7 +123,7 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 <small>🔗 [rakhim.exotext.com](https://rakhim.exotext.com/they-made-computers-behave-like-annoying-salesmen): They made computers behave like annoying salesmen</small>
 
 
-| 🔥🔥: 243 \| 💬: [154](https://news.ycombinator.com/item?id=43773710) \| 🗓️ 2025-04-23
+| 🔥🔥: 252 \| 💬: [161](https://news.ycombinator.com/item?id=43773710) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -135,7 +135,7 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 <small>🔗 [willpatrick.xyz](https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html): Teaching LLMs how to solid model</small>
 
 
-| 🔥🔥: 152 \| 💬: [44](https://news.ycombinator.com/item?id=43774990) \| 🗓️ 2025-04-23
+| 🔥🔥: 163 \| 💬: [49](https://news.ycombinator.com/item?id=43774990) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -171,7 +171,7 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 <small>🔗 [varunraghu.com](https://varunraghu.com/why-i-wont-be-vibe-coding-anymore/): I won't be vibe coding anymore: a noob's perspective</small>
 
 
-| 🔥🔥: 124 \| 💬: [140](https://news.ycombinator.com/item?id=43773977) \| 🗓️ 2025-04-23
+| 🔥🔥: 125 \| 💬: [141](https://news.ycombinator.com/item?id=43773977) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -183,7 +183,7 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 <small>🔗 [bitoff.org](https://www.bitoff.org/geocoding-apis-comparison/): Geocoding APIs compared: Pricing, free tiers and terms of use</small>
 
 
-| 🔥🔥: 120 \| 💬: [81](https://news.ycombinator.com/item?id=43770446) \| 🗓️ 2025-04-23
+| 🔥🔥: 123 \| 💬: [81](https://news.ycombinator.com/item?id=43770446) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -191,23 +191,11 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 
 ---
 
-## <a name="15"></a>15. 六十年后，我们仍在追忆“箭式”传奇 
-<small>🔗 [watershedmagazine.com](https://watershedmagazine.com/features/sixty-years-on-we-still-dream-of-the-arrow/): Sixty Years On, We Still Dream of the Arrow</small>
-
-
-| 🔥: 97 \| 💬: [79](https://news.ycombinator.com/item?id=43770228) \| 🗓️ 2025-04-23
-
-
-<br />
-本文回顾了加拿大**Avro CF-105箭式战斗机**的辉煌与悲情。这款1950年代设计的**超音速拦截机**曾代表全球顶尖航空技术，却因成本过高和导弹时代来临被时任总理**迪芬贝克**于1959年叫停，原型机与图纸均被销毁。尽管项目夭折，其传奇色彩至今未褪：从测试飞行员祖拉科夫斯基的轶事，到民间“幸存箭式”的都市传说，再到近年湖底模型打捞行动，这款“未完成的杰作”始终承载着加拿大人的民族自豪与遗憾。文章指出，箭式的悲剧本质是冷战技术迭代与小国工业野心的碰撞。
-
----
-
-## <a name="16"></a>16. 开源Docker容器c/ua：为AI智能体打造高性能虚拟化环境 
+## <a name="15"></a>15. 开源Docker容器c/ua：为AI智能体打造高性能虚拟化环境 
 <small>🔗 [github.com](https://github.com/trycua/cua): Launch HN: Cua (YC X25) – Open-Source Docker Container for Computer-Use Agents</small>
 
 
-| 🔥: 96 \| 💬: [41](https://news.ycombinator.com/item?id=43773563) \| 🗓️ 2025-04-23
+| 🔥🔥: 103 \| 💬: [41](https://news.ycombinator.com/item?id=43773563) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -219,23 +207,11 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 
 ---
 
-## <a name="17"></a>17. 用Common Lisp实时编程实现图形动画 
-<small>🔗 [kevingal.com](https://kevingal.com/blog/cl-livecoding.html): Graphics livecoding in Common Lisp</small>
-
-
-| 🔥: 93 \| 💬: [26](https://news.ycombinator.com/item?id=43774726) \| 🗓️ 2025-04-23
-
-
-<br />
-本文介绍了如何利用**Common Lisp**的**实时编程**（livecoding）特性，在不重启程序的情况下动态开发一个模拟鸟群行为的Boids算法。通过**Sketch图形框架**，作者展示了如何实时修改代码并立即看到效果，例如调整鸟群的分离、聚集和对齐规则。这种开发方式不仅高效，还能通过**条件系统**即时修复错误。最终，程序实现了鸟群跟随鼠标的交互效果，全程无需等待编译或重启。
-
----
-
-## <a name="18"></a>18. MCP协议：AI未来的关键拼图与垄断隐忧 
+## <a name="16"></a>16. MCP协议：AI未来的关键拼图与垄断隐忧 
 <small>🔗 [iamcharliegraham.substack.com](https://iamcharliegraham.substack.com/publish/post/161906169): The Future of MCPs</small>
 
 
-| 🔥: 87 \| 💬: [46](https://news.ycombinator.com/item?id=43774327) \| 🗓️ 2025-04-23
+| 🔥: 99 \| 💬: [48](https://news.ycombinator.com/item?id=43774327) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -243,7 +219,43 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 
 ---
 
-## <a name="19"></a>19. 科拉茨蚂蚁：可视化序列的奇妙探索 
+## <a name="17"></a>17. 用Common Lisp实时编程实现图形动画 
+<small>🔗 [kevingal.com](https://kevingal.com/blog/cl-livecoding.html): Graphics livecoding in Common Lisp</small>
+
+
+| 🔥: 98 \| 💬: [28](https://news.ycombinator.com/item?id=43774726) \| 🗓️ 2025-04-23
+
+
+<br />
+本文介绍了如何利用**Common Lisp**的**实时编程**（livecoding）特性，在不重启程序的情况下动态开发一个模拟鸟群行为的Boids算法。通过**Sketch图形框架**，作者展示了如何实时修改代码并立即看到效果，例如调整鸟群的分离、聚集和对齐规则。这种开发方式不仅高效，还能通过**条件系统**即时修复错误。最终，程序实现了鸟群跟随鼠标的交互效果，全程无需等待编译或重启。
+
+---
+
+## <a name="18"></a>18. 六十年后，我们仍在追忆“箭式”传奇 
+<small>🔗 [watershedmagazine.com](https://watershedmagazine.com/features/sixty-years-on-we-still-dream-of-the-arrow/): Sixty Years On, We Still Dream of the Arrow</small>
+
+
+| 🔥: 97 \| 💬: [79](https://news.ycombinator.com/item?id=43770228) \| 🗓️ 2025-04-23
+
+
+<br />
+本文回顾了加拿大**Avro CF-105箭式战斗机**的辉煌与悲情。这款1950年代设计的**超音速拦截机**曾代表全球顶尖航空技术，却因成本过高和导弹时代来临被时任总理**迪芬贝克**于1959年叫停，原型机与图纸均被销毁。尽管项目夭折，其传奇色彩至今未褪：从测试飞行员祖拉科夫斯基的轶事，到民间“幸存箭式”的都市传说，再到近年湖底模型打捞行动，这款“未完成的杰作”始终承载着加拿大人的民族自豪与遗憾。文章指出，箭式的悲剧本质是冷战技术迭代与小国工业野心的碰撞。
+
+---
+
+## <a name="19"></a>19. 《永恒万物：科技巨头的救世幻想》 
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/04/23/books/review/more-everything-forever-adam-becker.html): More Everything Forever</small>
+
+
+| 🔥: 88 \| 💬: [132](https://news.ycombinator.com/item?id=43773746) \| 🗓️ 2025-04-23
+
+
+<br />
+科学记者Adam Becker在新书《永恒万物》中批判了硅谷亿万富翁的**技术救世意识形态**。他驳斥了马斯克的火星殖民计划，指出火星辐射、毒尘和生存成本使其比地球更恶劣。书中还剖析了**人工智能**的乌托邦与末日论，揭示两者本质相同——都依赖技术超越现实限制。Becker认为，这些宏大愿景往往简化问题、追求利润，并承诺虚幻的**终极救赎**，却忽视实际道德与生态代价。
+
+---
+
+## <a name="20"></a>20. 科拉茨蚂蚁：可视化序列的奇妙探索 
 <small>🔗 [gbragafibra.github.io](https://gbragafibra.github.io/2025/01/08/collatz_ant2.html): Collatz's Ant</small>
 
 
@@ -255,23 +267,11 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 
 ---
 
-## <a name="20"></a>20. 《永恒万物：科技巨头的救世幻想》 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/04/23/books/review/more-everything-forever-adam-becker.html): More Everything Forever</small>
-
-
-| 🔥: 82 \| 💬: [122](https://news.ycombinator.com/item?id=43773746) \| 🗓️ 2025-04-23
-
-
-<br />
-科学记者Adam Becker在新书《永恒万物》中批判了硅谷亿万富翁的**技术救世意识形态**。他驳斥了马斯克的火星殖民计划，指出火星辐射、毒尘和生存成本使其比地球更恶劣。书中还剖析了**人工智能**的乌托邦与末日论，揭示两者本质相同——都依赖技术超越现实限制。Becker认为，这些宏大愿景往往简化问题、追求利润，并承诺虚幻的**终极救赎**，却忽视实际道德与生态代价。
-
----
-
 ## <a name="21"></a>21. 帆船调校模拟器 
 <small>🔗 [simulator.atterwind.info](https://simulator.atterwind.info/): Sail-Trim Simulator</small>
 
 
-| 🔥: 72 \| 💬: [20](https://news.ycombinator.com/item?id=43775283) \| 🗓️ 2025-04-23
+| 🔥: 76 \| 💬: [20](https://news.ycombinator.com/item?id=43775283) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -279,11 +279,23 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 
 ---
 
-## <a name="22"></a>22. 开源框架Moose：用ClickHouse快速构建分析后端 
+## <a name="22"></a>22. YAGRI原则：数据存储的前瞻性智慧 
+<small>🔗 [scottantipa.com](https://www.scottantipa.com/yagri): Yagri: You are gonna read it</small>
+
+
+| 🔥: 73 \| 💬: [39](https://news.ycombinator.com/item?id=43776967) \| 🗓️ 2025-04-23
+
+
+<br />
+本文对比了**YAGNI原则**（避免过度开发）与作者提出的**YAGRI原则**（"你终将读取它"），强调在数据库设计中应前瞻性存储未来可能需要的元数据（如时间戳、操作者信息等）。虽然满足当前UI需求只需最小化数据，但忽略上下文信息可能导致后续调试或分析困难。例如用户删除操作时，应记录**谁**、**何时**、**为何**删除，而非仅删除数据。合理冗余的关键字段（如`created_at`）成本低，却能在关键时刻挽救问题，这是工程师对数据管理的核心责任。
+
+---
+
+## <a name="23"></a>23. 开源框架Moose：用ClickHouse快速构建分析后端 
 <small>🔗 [docs.fiveonefour.com](https://docs.fiveonefour.com/moose): Show HN: Moose – OSS framework to build analytical back ends with ClickHouse</small>
 
 
-| 🔥: 67 \| 💬: [15](https://news.ycombinator.com/item?id=43773976) \| 🗓️ 2025-04-23
+| 🔥: 68 \| 💬: [15](https://news.ycombinator.com/item?id=43773976) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -291,11 +303,11 @@ Moose是一个**开源框架**，允许开发者使用纯TypeScript或Python代�
 
 ---
 
-## <a name="23"></a>23. 基于进化算法的天线自动化设计（2006） 
+## <a name="24"></a>24. 基于进化算法的天线自动化设计（2006） 
 <small>🔗 [ntrs.nasa.gov](https://ntrs.nasa.gov/api/citations/20060024675/downloads/20060024675.pdf): Automated Antenna Design with Evolutionary Algorithms [pdf] (2006)</small>
 
 
-| 🔥: 54 \| 💬: [45](https://news.ycombinator.com/item?id=43772503) \| 🗓️ 2025-04-23
+| 🔥: 55 \| 💬: [46](https://news.ycombinator.com/item?id=43772503) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -303,7 +315,7 @@ Moose是一个**开源框架**，允许开发者使用纯TypeScript或Python代�
 
 ---
 
-## <a name="24"></a>24. AI的“空热量”：治标不治本的孤独解药？ 
+## <a name="25"></a>25. AI的“空热量”：治标不治本的孤独解药？ 
 <small>🔗 [peakhorse.substack.com](https://peakhorse.substack.com/p/empty-calories-of-ai-a-cure-for-loneliness): Empty Calories of AI: A Cure for Loneliness Worse Than the Disease?</small>
 
 
