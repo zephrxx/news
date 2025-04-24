@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cookieplmonster.github.io](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/): How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2</small>
 
 
-| 🔥🔥: 886 \| 💬: [203](https://news.ycombinator.com/item?id=43772311) \| 🗓️ 2025-04-23
+| 🔥🔥: 911 \| 💬: [206](https://news.ycombinator.com/item?id=43772311) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [fedi.rib.gay](https://fedi.rib.gay/notes/a6xqityngfubsz0f): You wouldn't steal a font</small>
 
 
-| 🔥🔥: 664 \| 💬: [189](https://news.ycombinator.com/item?id=43775926) \| 🗓️ 2025-04-23
+| 🔥🔥: 705 \| 💬: [223](https://news.ycombinator.com/item?id=43775926) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/04/doge-workers-code-supports-nlrb-whistleblower/): DOGE Worker’s Code Supports NLRB Whistleblower</small>
 
 
-| 🔥🔥: 579 \| 💬: [286](https://news.ycombinator.com/item?id=43776476) \| 🗓️ 2025-04-23
+| 🔥🔥: 639 \| 💬: [328](https://news.ycombinator.com/item?id=43776476) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [ca.finance.yahoo.com](https://ca.finance.yahoo.com/news/apple-fined-570-million-meta-094701712.html): Apple and Meta fined millions for breaching EU law</small>
 
 
-| 🔥🔥: 329 \| 💬: [473](https://news.ycombinator.com/item?id=43770337) \| 🗓️ 2025-04-23
+| 🔥🔥: 341 \| 💬: [479](https://news.ycombinator.com/item?id=43770337) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [sebs.website](https://sebs.website/blog/the%20gruen-transfer-is-consuming-the-internet): The Gruen Transfer is consuming the internet</small>
 
 
-| 🔥🔥: 260 \| 💬: [208](https://news.ycombinator.com/item?id=43769936) \| 🗓️ 2025-04-23
+| 🔥🔥: 261 \| 💬: [208](https://news.ycombinator.com/item?id=43769936) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [minc.commandlinerevolution.nl](https://minc.commandlinerevolution.nl/english/home.html): MinC Is Not Cygwin</small>
 
 
-| 🔥🔥: 257 \| 💬: [177](https://news.ycombinator.com/item?id=43770445) \| 🗓️ 2025-04-23
+| 🔥🔥: 259 \| 💬: [178](https://news.ycombinator.com/item?id=43770445) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -107,23 +107,11 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 
 ---
 
-## <a name="8"></a>8. 用Obsidian+Hugo+GitHub+Cloudflare搭建极简博客系统 
-<small>🔗 [ingau.me](https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/): How I blog with Obsidian, Hugo, GitHub, and Cloudflare</small>
-
-
-| 🔥🔥: 252 \| 💬: [201](https://news.ycombinator.com/item?id=43771645) \| 🗓️ 2025-04-23
-
-
-<br />
-作者分享了一套**零成本、高自由度**的博客工作流：在**Obsidian**中撰写Markdown内容（支持多设备同步），通过**Hugo**静态生成器搭配Bear主题快速构建网站，最后利用**GitHub+Cloudflare Pages**实现自动化部署。关键优势在于完全掌控数据、无平台依赖，且发布仅需切换front matter中的draft状态并推送至GitHub。虽然需要技术基础配置，但长期回报显著——所有内容以纯文本存储，写作与发布流程无缝衔接。
-
----
-
-## <a name="9"></a>9. 他们把电脑变成了烦人的推销员 
+## <a name="8"></a>8. 他们把电脑变成了烦人的推销员 
 <small>🔗 [rakhim.exotext.com](https://rakhim.exotext.com/they-made-computers-behave-like-annoying-salesmen): They made computers behave like annoying salesmen</small>
 
 
-| 🔥🔥: 252 \| 💬: [161](https://news.ycombinator.com/item?id=43773710) \| 🗓️ 2025-04-23
+| 🔥🔥: 256 \| 💬: [165](https://news.ycombinator.com/item?id=43773710) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -131,11 +119,23 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 
 ---
 
+## <a name="9"></a>9. 用Obsidian+Hugo+GitHub+Cloudflare搭建极简博客系统 
+<small>🔗 [ingau.me](https://ingau.me/blog/how-i-write-my-blogs-in-obsidian-and-publish-instantly/): How I blog with Obsidian, Hugo, GitHub, and Cloudflare</small>
+
+
+| 🔥🔥: 255 \| 💬: [202](https://news.ycombinator.com/item?id=43771645) \| 🗓️ 2025-04-23
+
+
+<br />
+作者分享了一套**零成本、高自由度**的博客工作流：在**Obsidian**中撰写Markdown内容（支持多设备同步），通过**Hugo**静态生成器搭配Bear主题快速构建网站，最后利用**GitHub+Cloudflare Pages**实现自动化部署。关键优势在于完全掌控数据、无平台依赖，且发布仅需切换front matter中的draft状态并推送至GitHub。虽然需要技术基础配置，但长期回报显著——所有内容以纯文本存储，写作与发布流程无缝衔接。
+
+---
+
 ## <a name="10"></a>10. 大语言模型如何学会三维建模？ 
 <small>🔗 [willpatrick.xyz](https://willpatrick.xyz/technology/2025/04/23/teaching-llms-how-to-solid-model.html): Teaching LLMs how to solid model</small>
 
 
-| 🔥🔥: 163 \| 💬: [49](https://news.ycombinator.com/item?id=43774990) \| 🗓️ 2025-04-23
+| 🔥🔥: 176 \| 💬: [52](https://news.ycombinator.com/item?id=43774990) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -147,7 +147,7 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 <small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/04/chatgpt-head-tells-court-openai-is-interested-in-buying-chrome/): OpenAI wants to buy Chrome and make it an "AI-first" experience</small>
 
 
-| 🔥🔥: 141 \| 💬: [201](https://news.ycombinator.com/item?id=43770312) \| 🗓️ 2025-04-23
+| 🔥🔥: 142 \| 💬: [201](https://news.ycombinator.com/item?id=43770312) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -171,7 +171,7 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 <small>🔗 [varunraghu.com](https://varunraghu.com/why-i-wont-be-vibe-coding-anymore/): I won't be vibe coding anymore: a noob's perspective</small>
 
 
-| 🔥🔥: 125 \| 💬: [141](https://news.ycombinator.com/item?id=43773977) \| 🗓️ 2025-04-23
+| 🔥🔥: 126 \| 💬: [141](https://news.ycombinator.com/item?id=43773977) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -183,7 +183,7 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 <small>🔗 [bitoff.org](https://www.bitoff.org/geocoding-apis-comparison/): Geocoding APIs compared: Pricing, free tiers and terms of use</small>
 
 
-| 🔥🔥: 123 \| 💬: [81](https://news.ycombinator.com/item?id=43770446) \| 🗓️ 2025-04-23
+| 🔥🔥: 124 \| 💬: [81](https://news.ycombinator.com/item?id=43770446) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -195,7 +195,7 @@ MinC是一款基于**OpenBSD**的Windows平台Unix模拟器，专为职业教育
 <small>🔗 [github.com](https://github.com/trycua/cua): Launch HN: Cua (YC X25) – Open-Source Docker Container for Computer-Use Agents</small>
 
 
-| 🔥🔥: 103 \| 💬: [41](https://news.ycombinator.com/item?id=43773563) \| 🗓️ 2025-04-23
+| 🔥🔥: 106 \| 💬: [42](https://news.ycombinator.com/item?id=43773563) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -211,7 +211,7 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 <small>🔗 [iamcharliegraham.substack.com](https://iamcharliegraham.substack.com/publish/post/161906169): The Future of MCPs</small>
 
 
-| 🔥: 99 \| 💬: [48](https://news.ycombinator.com/item?id=43774327) \| 🗓️ 2025-04-23
+| 🔥🔥: 104 \| 💬: [48](https://news.ycombinator.com/item?id=43774327) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -223,7 +223,7 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 <small>🔗 [kevingal.com](https://kevingal.com/blog/cl-livecoding.html): Graphics livecoding in Common Lisp</small>
 
 
-| 🔥: 98 \| 💬: [28](https://news.ycombinator.com/item?id=43774726) \| 🗓️ 2025-04-23
+| 🔥🔥: 103 \| 💬: [28](https://news.ycombinator.com/item?id=43774726) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -231,11 +231,23 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 
 ---
 
-## <a name="18"></a>18. 六十年后，我们仍在追忆“箭式”传奇 
+## <a name="18"></a>18. YAGRI原则：数据存储的前瞻性智慧 
+<small>🔗 [scottantipa.com](https://www.scottantipa.com/yagri): Yagri: You are gonna read it</small>
+
+
+| 🔥: 99 \| 💬: [48](https://news.ycombinator.com/item?id=43776967) \| 🗓️ 2025-04-23
+
+
+<br />
+本文对比了**YAGNI原则**（避免过度开发）与作者提出的**YAGRI原则**（"你终将读取它"），强调在数据库设计中应前瞻性存储未来可能需要的元数据（如时间戳、操作者信息等）。虽然满足当前UI需求只需最小化数据，但忽略上下文信息可能导致后续调试或分析困难。例如用户删除操作时，应记录**谁**、**何时**、**为何**删除，而非仅删除数据。合理冗余的关键字段（如`created_at`）成本低，却能在关键时刻挽救问题，这是工程师对数据管理的核心责任。
+
+---
+
+## <a name="19"></a>19. 六十年后，我们仍在追忆“箭式”传奇 
 <small>🔗 [watershedmagazine.com](https://watershedmagazine.com/features/sixty-years-on-we-still-dream-of-the-arrow/): Sixty Years On, We Still Dream of the Arrow</small>
 
 
-| 🔥: 97 \| 💬: [79](https://news.ycombinator.com/item?id=43770228) \| 🗓️ 2025-04-23
+| 🔥: 97 \| 💬: [80](https://news.ycombinator.com/item?id=43770228) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -243,11 +255,11 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 
 ---
 
-## <a name="19"></a>19. 《永恒万物：科技巨头的救世幻想》 
+## <a name="20"></a>20. 《永恒万物：科技巨头的救世幻想》 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/04/23/books/review/more-everything-forever-adam-becker.html): More Everything Forever</small>
 
 
-| 🔥: 88 \| 💬: [132](https://news.ycombinator.com/item?id=43773746) \| 🗓️ 2025-04-23
+| 🔥: 93 \| 💬: [140](https://news.ycombinator.com/item?id=43773746) \| 🗓️ 2025-04-23
 
 
 <br />
@@ -255,7 +267,7 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 
 ---
 
-## <a name="20"></a>20. 科拉茨蚂蚁：可视化序列的奇妙探索 
+## <a name="21"></a>21. 科拉茨蚂蚁：可视化序列的奇妙探索 
 <small>🔗 [gbragafibra.github.io](https://gbragafibra.github.io/2025/01/08/collatz_ant2.html): Collatz's Ant</small>
 
 
@@ -267,27 +279,15 @@ c/ua（发音"koo-ah"）是一个开源框架，专为**计算机使用型AI智�
 
 ---
 
-## <a name="21"></a>21. 帆船调校模拟器 
+## <a name="22"></a>22. 帆船调校模拟器 
 <small>🔗 [simulator.atterwind.info](https://simulator.atterwind.info/): Sail-Trim Simulator</small>
 
 
-| 🔥: 76 \| 💬: [20](https://news.ycombinator.com/item?id=43775283) \| 🗓️ 2025-04-23
+| 🔥: 81 \| 💬: [21](https://news.ycombinator.com/item?id=43775283) \| 🗓️ 2025-04-23
 
 
 <br />
 这款工具通过**风梯度**、**视风角**和**帆面扭转**的动态模拟，帮助用户建立更直观的风帆力学认知。重点提升**高性能帆船**在加速时的调帆技巧，并与真实A级水翼双体船DNA F1x的设定数据对比。支持鼠标、键盘、触控操作及链接分享，开源代码与文档详见GitHub。
-
----
-
-## <a name="22"></a>22. YAGRI原则：数据存储的前瞻性智慧 
-<small>🔗 [scottantipa.com](https://www.scottantipa.com/yagri): Yagri: You are gonna read it</small>
-
-
-| 🔥: 73 \| 💬: [39](https://news.ycombinator.com/item?id=43776967) \| 🗓️ 2025-04-23
-
-
-<br />
-本文对比了**YAGNI原则**（避免过度开发）与作者提出的**YAGRI原则**（"你终将读取它"），强调在数据库设计中应前瞻性存储未来可能需要的元数据（如时间戳、操作者信息等）。虽然满足当前UI需求只需最小化数据，但忽略上下文信息可能导致后续调试或分析困难。例如用户删除操作时，应记录**谁**、**何时**、**为何**删除，而非仅删除数据。合理冗余的关键字段（如`created_at`）成本低，却能在关键时刻挽救问题，这是工程师对数据管理的核心责任。
 
 ---
 
@@ -307,7 +307,7 @@ Moose是一个**开源框架**，允许开发者使用纯TypeScript或Python代�
 <small>🔗 [ntrs.nasa.gov](https://ntrs.nasa.gov/api/citations/20060024675/downloads/20060024675.pdf): Automated Antenna Design with Evolutionary Algorithms [pdf] (2006)</small>
 
 
-| 🔥: 55 \| 💬: [46](https://news.ycombinator.com/item?id=43772503) \| 🗓️ 2025-04-23
+| 🔥: 57 \| 💬: [46](https://news.ycombinator.com/item?id=43772503) \| 🗓️ 2025-04-23
 
 
 <br />
