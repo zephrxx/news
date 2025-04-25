@@ -27,7 +27,7 @@ tags:
 <small>🔗 [pluralistic.net](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf): Careless People</small>
 
 
-| 🔥🔥: 781 \| 💬: [406](https://news.ycombinator.com/item?id=43780363) \| 🗓️ 2025-04-24
+| 🔥🔥: 788 \| 💬: [410](https://news.ycombinator.com/item?id=43780363) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [code.mendhak.com](https://code.mendhak.com/gpl-v2-address-letter/): I wrote to the address in the GPLv2 license notice (2022)</small>
 
 
-| 🔥🔥: 581 \| 💬: [459](https://news.ycombinator.com/item?id=43781888) \| 🗓️ 2025-04-24
+| 🔥🔥: 591 \| 💬: [462](https://news.ycombinator.com/item?id=43781888) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [newyorker.com](https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over): Mark Zuckerberg says social media is over</small>
 
 
-| 🔥🔥: 446 \| 💬: [778](https://news.ycombinator.com/item?id=43780377) \| 🗓️ 2025-04-24
+| 🔥🔥: 465 \| 💬: [799](https://news.ycombinator.com/item?id=43780377) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [medium.com](https://medium.com/hackernoon/on-loyalty-to-your-employer-c674c4b06b3a): On loyalty to your employer (2018)</small>
 
 
-| 🔥🔥: 381 \| 💬: [411](https://news.ycombinator.com/item?id=43780815) \| 🗓️ 2025-04-24
+| 🔥🔥: 382 \| 💬: [413](https://news.ycombinator.com/item?id=43780815) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [motherduck.com](https://motherduck.com/blog/introducing-instant-sql/): Instant SQL for results as you type in DuckDB UI</small>
 
 
-| 🔥🔥: 280 \| 💬: [94](https://news.ycombinator.com/item?id=43782406) \| 🗓️ 2025-04-24
+| 🔥🔥: 286 \| 💬: [95](https://news.ycombinator.com/item?id=43782406) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -87,7 +87,7 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 <small>🔗 [rook2root.co](https://rook2root.co/articles/20250424-manufacturing-consensus-on-x): Manufactured consensus on x.com</small>
 
 
-| 🔥🔥: 280 \| 💬: [218](https://news.ycombinator.com/item?id=43784915) \| 🗓️ 2025-04-24
+| 🔥🔥: 284 \| 💬: [218](https://news.ycombinator.com/item?id=43784915) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -99,7 +99,7 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 <small>🔗 [bigthink.com](https://bigthink.com/starts-with-a-bang/21cm-magic-length/): One quantum transition makes light at 21 cm</small>
 
 
-| 🔥🔥: 200 \| 💬: [128](https://news.ycombinator.com/item?id=43784721) \| 🗓️ 2025-04-24
+| 🔥🔥: 204 \| 💬: [131](https://news.ycombinator.com/item?id=43784721) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -111,7 +111,7 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 <small>🔗 [web.stanford.edu](https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html): Assignment 5: Cars and Key Fobs (2022)</small>
 
 
-| 🔥🔥: 193 \| 💬: [162](https://news.ycombinator.com/item?id=43780876) \| 🗓️ 2025-04-24
+| 🔥🔥: 196 \| 💬: [165](https://news.ycombinator.com/item?id=43780876) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -123,7 +123,7 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 <small>🔗 [fedify.dev](https://fedify.dev/tutorial/microblog): Creating your own federated microblog</small>
 
 
-| 🔥🔥: 169 \| 💬: [36](https://news.ycombinator.com/item?id=43780785) \| 🗓️ 2025-04-24
+| 🔥🔥: 171 \| 💬: [36](https://news.ycombinator.com/item?id=43780785) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -135,7 +135,7 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 <small>🔗 [status.open-vsx.org](https://status.open-vsx.org/): OpenVSX, which VSCode forks rely on for extensions, down for 24 hours</small>
 
 
-| 🔥🔥: 143 \| 💬: [59](https://news.ycombinator.com/item?id=43785039) \| 🗓️ 2025-04-24
+| 🔥🔥: 150 \| 💬: [65](https://news.ycombinator.com/item?id=43785039) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -143,23 +143,11 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 
 ---
 
-## <a name="11"></a>11. 消费者声称愿为“美国制造”买单？我们做了个A/B测试 
-<small>🔗 [afina.com](https://afina.com/blogs/news/made-in-usa): People say they’ll pay more for “made in the USA” so we ran a test</small>
-
-
-| 🔥🔥: 115 \| 💬: [118](https://news.ycombinator.com/item?id=43787647) \| 🗓️ 2025-04-24
-
-
-<br />
-一家生产过滤花洒的小企业将**美国制造**版本定价比亚洲版高85%（239美元 vs 129美元），通过隐藏落地页让25,650名顾客选择。结果**美国版加购仅24次，零成交**。测试排除了技术问题，证实**价格才是关键**。尽管消费者口头支持本土制造，但通胀压力下，多数人无法承担溢价。企业指出，若无政策支持或自动化升级，**回流生产难以持续**。数据揭示了理想主义在价格现实前的脆弱性。
-
----
-
-## <a name="12"></a>12. 国家空域系统状态 
+## <a name="11"></a>11. 国家空域系统状态 
 <small>🔗 [nasstatus.faa.gov](https://nasstatus.faa.gov/): National Airspace System Status</small>
 
 
-| 🔥🔥: 112 \| 💬: [17](https://news.ycombinator.com/item?id=43787730) \| 🗓️ 2025-04-24
+| 🔥🔥: 122 \| 💬: [18](https://news.ycombinator.com/item?id=43787730) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -167,11 +155,23 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 
 ---
 
+## <a name="12"></a>12. 消费者声称愿为“美国制造”买单？我们做了个A/B测试 
+<small>🔗 [afina.com](https://afina.com/blogs/news/made-in-usa): People say they’ll pay more for “made in the USA” so we ran a test</small>
+
+
+| 🔥🔥: 117 \| 💬: [122](https://news.ycombinator.com/item?id=43787647) \| 🗓️ 2025-04-24
+
+
+<br />
+一家生产过滤花洒的小企业将**美国制造**版本定价比亚洲版高85%（239美元 vs 129美元），通过隐藏落地页让25,650名顾客选择。结果**美国版加购仅24次，零成交**。测试排除了技术问题，证实**价格才是关键**。尽管消费者口头支持本土制造，但通胀压力下，多数人无法承担溢价。企业指出，若无政策支持或自动化升级，**回流生产难以持续**。数据揭示了理想主义在价格现实前的脆弱性。
+
+---
+
 ## <a name="13"></a>13. 谷歌地图不懂街道地址规则 
 <small>🔗 [randomascii.wordpress.com](https://randomascii.wordpress.com/2025/04/24/google-maps-doesnt-know-how-street-addresses-work/): Street address errors in Google Maps</small>
 
 
-| 🔥🔥: 110 \| 💬: [104](https://news.ycombinator.com/item?id=43788832) \| 🗓️ 2025-04-24
+| 🔥🔥: 113 \| 💬: [110](https://news.ycombinator.com/item?id=43788832) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -179,35 +179,11 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 
 ---
 
-## <a name="14"></a>14. Vim语言与高效编辑的艺术（2023） 
-<small>🔗 [ssp.sh](https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/): Vim Language, Motions, and Modes Explained (2023)</small>
-
-
-| 🔥🔥: 104 \| 💬: [95](https://news.ycombinator.com/item?id=43780682) \| 🗓️ 2025-04-24
-
-
-<br />
-作者分享从传统编辑器转向**Vim**的历程，强调其独特的**语言式快捷键**（如`yy`复制行、`3dd`删除三行）和**模态编辑**（普通/插入/视觉模式）如何提升效率。Vim通过组合动词（如`d`删除）、对象（如`w`单词）和数量实现精准编辑，而非死记硬背。尽管学习曲线陡峭，但掌握后能实现“**思维速度的编辑**”。文中还推荐了现代衍生工具如**Neovim**和LunarVim，并指出Vim不仅适用于编程，还能优化写作流程。核心观点：Vim的本质是**语言逻辑**，而非编辑器本身，其设计理念可迁移至其他工具。
-
----
-
-## <a name="15"></a>15. SIMD指令集的三大根本缺陷（2023） 
-<small>🔗 [bitsnbites.eu](https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/): Fundamental flaws of SIMD ISAs (2021)</small>
-
-
-| 🔥: 98 \| 💬: [71](https://news.ycombinator.com/item?id=43783416) \| 🗓️ 2025-04-24
-
-
-<br />
-本文剖析了现代CPU中常见的**打包SIMD指令集架构**（如x86的SSE、ARM的NEON）的三大核心问题：**固定寄存器宽度**导致扩展性差，需不断新增指令集；**流水线依赖**迫使循环展开，降低代码密度和缓存效率；**尾部处理**需额外控制逻辑，增加代码复杂度。相比之下，**向量处理器**（如RISC-V RVV、ARM SVE）通过动态长度和硬件掩码规避了这些问题，代码更简洁高效。文中以`saxpy`函数为例，对比了SSE与向量架构的汇编实现，凸显后者在指令精简和适应性上的优势。
-
----
-
-## <a name="16"></a>16. 科学家研发人工树叶，利用阳光生产高价值化学品 
+## <a name="14"></a>14. 科学家研发人工树叶，利用阳光生产高价值化学品 
 <small>🔗 [newscenter.lbl.gov](https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/): Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals</small>
 
 
-| 🔥: 97 \| 💬: [36](https://news.ycombinator.com/item?id=43788053) \| 🗓️ 2025-04-24
+| 🔥🔥: 105 \| 💬: [41](https://news.ycombinator.com/item?id=43788053) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -215,23 +191,23 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 
 ---
 
-## <a name="17"></a>17. 微软限制C/C++扩展使用范围，开发者抗议 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/): Microsoft subtracts C/C++ extension from VS Code forks</small>
+## <a name="15"></a>15. Vim语言与高效编辑的艺术（2023） 
+<small>🔗 [ssp.sh](https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/): Vim Language, Motions, and Modes Explained (2023)</small>
 
 
-| 🔥: 94 \| 💬: [84](https://news.ycombinator.com/item?id=43788125) \| 🗓️ 2025-04-24
+| 🔥🔥: 104 \| 💬: [97](https://news.ycombinator.com/item?id=43780682) \| 🗓️ 2025-04-24
 
 
 <br />
-微软近期更新了**VS Code**的**C/C++扩展**（v1.24.5），禁止其在衍生编辑器（如**VS Codium**和**Cursor**）中运行，仅限微软自家产品使用。此举导致开发者工作流中断，并引发垄断争议。Cursor已计划转向开源替代方案，而部分开发者向美国联邦贸易委员会投诉微软**不公平竞争**。微软此前许可条款已限制扩展使用，但此次是首次通过技术手段强制执行。
+作者分享从传统编辑器转向**Vim**的历程，强调其独特的**语言式快捷键**（如`yy`复制行、`3dd`删除三行）和**模态编辑**（普通/插入/视觉模式）如何提升效率。Vim通过组合动词（如`d`删除）、对象（如`w`单词）和数量实现精准编辑，而非死记硬背。尽管学习曲线陡峭，但掌握后能实现“**思维速度的编辑**”。文中还推荐了现代衍生工具如**Neovim**和LunarVim，并指出Vim不仅适用于编程，还能优化写作流程。核心观点：Vim的本质是**语言逻辑**，而非编辑器本身，其设计理念可迁移至其他工具。
 
 ---
 
-## <a name="18"></a>18. 成为伟大设计师无需名声加持 
+## <a name="16"></a>16. 成为伟大设计师无需名声加持 
 <small>🔗 [chrbutler.com](https://www.chrbutler.com/you-can-be-a-great-designer-and-be-completely-unknown): You Can Be a Great Designer and Be Completely Unknown</small>
 
 
-| 🔥: 92 \| 💬: [31](https://news.ycombinator.com/item?id=43787676) \| 🗓️ 2025-04-24
+| 🔥🔥: 104 \| 💬: [42](https://news.ycombinator.com/item?id=43787676) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -239,7 +215,43 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 
 ---
 
-## <a name="19"></a>19. 欧盟将于2025年6月起对手机和平板实施能源标签制度 
+## <a name="17"></a>17. SIMD指令集的三大根本缺陷（2023） 
+<small>🔗 [bitsnbites.eu](https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/): Fundamental flaws of SIMD ISAs (2021)</small>
+
+
+| 🔥🔥: 102 \| 💬: [77](https://news.ycombinator.com/item?id=43783416) \| 🗓️ 2025-04-24
+
+
+<br />
+本文剖析了现代CPU中常见的**打包SIMD指令集架构**（如x86的SSE、ARM的NEON）的三大核心问题：**固定寄存器宽度**导致扩展性差，需不断新增指令集；**流水线依赖**迫使循环展开，降低代码密度和缓存效率；**尾部处理**需额外控制逻辑，增加代码复杂度。相比之下，**向量处理器**（如RISC-V RVV、ARM SVE）通过动态长度和硬件掩码规避了这些问题，代码更简洁高效。文中以`saxpy`函数为例，对比了SSE与向量架构的汇编实现，凸显后者在指令精简和适应性上的优势。
+
+---
+
+## <a name="18"></a>18. 微软限制C/C++扩展使用范围，开发者抗议 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/): Microsoft subtracts C/C++ extension from VS Code forks</small>
+
+
+| 🔥🔥: 102 \| 💬: [89](https://news.ycombinator.com/item?id=43788125) \| 🗓️ 2025-04-24
+
+
+<br />
+微软近期更新了**VS Code**的**C/C++扩展**（v1.24.5），禁止其在衍生编辑器（如**VS Codium**和**Cursor**）中运行，仅限微软自家产品使用。此举导致开发者工作流中断，并引发垄断争议。Cursor已计划转向开源替代方案，而部分开发者向美国联邦贸易委员会投诉微软**不公平竞争**。微软此前许可条款已限制扩展使用，但此次是首次通过技术手段强制执行。
+
+---
+
+## <a name="19"></a>19. 我逆向工程顶级网站，打造了一个动画UI库 
+<small>🔗 [reverseui.com](https://reverseui.com): Show HN: I reverse engineered top websites to build an animated UI library</small>
+
+
+| 🔥: 89 \| 💬: [38](https://news.ycombinator.com/item?id=43785464) \| 🗓️ 2025-04-24
+
+
+<br />
+开发者通过**逆向分析**多个知名网站的UI设计，构建了一个包含**28种动画组件**的开箱即用库。所有组件均预置样式与动画效果，支持一键集成到项目中。亮点包括**指纹扫描**、**AI聊天界面**、**流光按钮**等，部分组件标注了更新时间。限时提供50美元终身访问优惠（原价100美元）。
+
+---
+
+## <a name="20"></a>20. 欧盟将于2025年6月起对手机和平板实施能源标签制度 
 <small>🔗 [energy-efficient-products.ec.europa.eu](https://energy-efficient-products.ec.europa.eu/product-list/smartphones-and-tablets_en): EU Energy labelling will apply to phones and tablets from June 2025</small>
 
 
@@ -251,23 +263,11 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 
 ---
 
-## <a name="20"></a>20. 我逆向工程顶级网站，打造了一个动画UI库 
-<small>🔗 [reverseui.com](https://reverseui.com): Show HN: I reverse engineered top websites to build an animated UI library</small>
-
-
-| 🔥: 81 \| 💬: [35](https://news.ycombinator.com/item?id=43785464) \| 🗓️ 2025-04-24
-
-
-<br />
-开发者通过**逆向分析**多个知名网站的UI设计，构建了一个包含**28种动画组件**的开箱即用库。所有组件均预置样式与动画效果，支持一键集成到项目中。亮点包括**指纹扫描**、**AI聊天界面**、**流光按钮**等，部分组件标注了更新时间。限时提供50美元终身访问优惠（原价100美元）。
-
----
-
 ## <a name="21"></a>21. AI领域的收购、整合与创新 
 <small>🔗 [frontierai.substack.com](https://frontierai.substack.com/p/acquisitions-consolidation-and-innovation): Acquisitions, consolidation, and innovation in AI</small>
 
 
-| 🔥: 76 \| 💬: [37](https://news.ycombinator.com/item?id=43785919) \| 🗓️ 2025-04-24
+| 🔥: 76 \| 💬: [38](https://news.ycombinator.com/item?id=43785919) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -279,7 +279,7 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 <small>🔗 [community.ibm.com](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/elizabeth-k-joseph1/2025/04/23/a-tour-inside-the-ibm-z17?communityKey=e7b7d299-8509-4572-8cf1-c1112684644f): A Tour Inside the IBM Z17</small>
 
 
-| 🔥: 68 \| 💬: [115](https://news.ycombinator.com/item?id=43783997) \| 🗓️ 2025-04-24
+| 🔥: 69 \| 💬: [117](https://news.ycombinator.com/item?id=43783997) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -291,7 +291,7 @@ IBM 最新发布的 **z17** 大型机延续了前代 z16 的 19 英寸机架设�
 <small>🔗 [claudiu-ivan.com](https://www.claudiu-ivan.com/writing/search-dsl): A Principled Approach to Querying Data – A Type-Safe Search DSL</small>
 
 
-| 🔥: 66 \| 💬: [8](https://news.ycombinator.com/item?id=43784200) \| 🗓️ 2025-04-24
+| 🔥: 67 \| 💬: [8](https://news.ycombinator.com/item?id=43784200) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -303,7 +303,7 @@ IBM 最新发布的 **z17** 大型机延续了前代 z16 的 19 英寸机架设�
 <small>🔗 [abc.xyz](https://abc.xyz/assets/34/fa/ee06f3de4338b99acffc5c229d9f/2025q1-alphabet-earnings-release.pdf): Alphabet Q1 2025 Earnings [pdf]</small>
 
 
-| 🔥: 60 \| 💬: [24](https://news.ycombinator.com/item?id=43786956) \| 🗓️ 2025-04-24
+| 🔥: 60 \| 💬: [25](https://news.ycombinator.com/item?id=43786956) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -315,7 +315,7 @@ IBM 最新发布的 **z17** 大型机延续了前代 z16 的 19 英寸机架设�
 <small>🔗 [github.com](https://github.com/philocalyst/infat): Show HN: Infat – Declaritive application assocation manager for macOS</small>
 
 
-| 🔥: 56 \| 💬: [20](https://news.ycombinator.com/item?id=43785350) \| 🗓️ 2025-04-24
+| 🔥: 59 \| 💬: [20](https://news.ycombinator.com/item?id=43785350) \| 🗓️ 2025-04-24
 
 
 <br />
