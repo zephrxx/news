@@ -27,7 +27,7 @@ tags:
 <small>🔗 [pluralistic.net](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf): Careless People</small>
 
 
-| 🔥🔥: 798 \| 💬: [420](https://news.ycombinator.com/item?id=43780363) \| 🗓️ 2025-04-24
+| 🔥🔥: 808 \| 💬: [423](https://news.ycombinator.com/item?id=43780363) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [code.mendhak.com](https://code.mendhak.com/gpl-v2-address-letter/): I wrote to the address in the GPLv2 license notice (2022)</small>
 
 
-| 🔥🔥: 598 \| 💬: [464](https://news.ycombinator.com/item?id=43781888) \| 🗓️ 2025-04-24
+| 🔥🔥: 613 \| 💬: [468](https://news.ycombinator.com/item?id=43781888) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [newyorker.com](https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over): Mark Zuckerberg says social media is over</small>
 
 
-| 🔥🔥: 474 \| 💬: [811](https://news.ycombinator.com/item?id=43780377) \| 🗓️ 2025-04-24
+| 🔥🔥: 478 \| 💬: [811](https://news.ycombinator.com/item?id=43780377) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [medium.com](https://medium.com/hackernoon/on-loyalty-to-your-employer-c674c4b06b3a): On loyalty to your employer (2018)</small>
 
 
-| 🔥🔥: 386 \| 💬: [417](https://news.ycombinator.com/item?id=43780815) \| 🗓️ 2025-04-24
+| 🔥🔥: 386 \| 💬: [418](https://news.ycombinator.com/item?id=43780815) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [motherduck.com](https://motherduck.com/blog/introducing-instant-sql/): Instant SQL for results as you type in DuckDB UI</small>
 
 
-| 🔥🔥: 288 \| 💬: [96](https://news.ycombinator.com/item?id=43782406) \| 🗓️ 2025-04-24
+| 🔥🔥: 294 \| 💬: [96](https://news.ycombinator.com/item?id=43782406) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -87,7 +87,7 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 <small>🔗 [rook2root.co](https://rook2root.co/articles/20250424-manufacturing-consensus-on-x): Manufactured consensus on x.com</small>
 
 
-| 🔥🔥: 284 \| 💬: [218](https://news.ycombinator.com/item?id=43784915) \| 🗓️ 2025-04-24
+| 🔥🔥: 285 \| 💬: [221](https://news.ycombinator.com/item?id=43784915) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -99,7 +99,7 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 <small>🔗 [bigthink.com](https://bigthink.com/starts-with-a-bang/21cm-magic-length/): One quantum transition makes light at 21 cm</small>
 
 
-| 🔥🔥: 208 \| 💬: [133](https://news.ycombinator.com/item?id=43784721) \| 🗓️ 2025-04-24
+| 🔥🔥: 212 \| 💬: [135](https://news.ycombinator.com/item?id=43784721) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -111,7 +111,7 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 <small>🔗 [web.stanford.edu](https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html): Assignment 5: Cars and Key Fobs (2022)</small>
 
 
-| 🔥🔥: 199 \| 💬: [165](https://news.ycombinator.com/item?id=43780876) \| 🗓️ 2025-04-24
+| 🔥🔥: 199 \| 💬: [166](https://news.ycombinator.com/item?id=43780876) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -119,7 +119,19 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 
 ---
 
-## <a name="9"></a>9. 手把手教你搭建联邦式微博平台 
+## <a name="9"></a>9. OpenVSX服务中断24小时，多款VSCode衍生编辑器受影响 
+<small>🔗 [status.open-vsx.org](https://status.open-vsx.org/): OpenVSX, which VSCode forks rely on for extensions, down for 24 hours</small>
+
+
+| 🔥🔥: 174 \| 💬: [72](https://news.ycombinator.com/item?id=43785039) \| 🗓️ 2025-04-24
+
+
+<br />
+OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**后端存储故障**已宕机24小时，导致主页、查询API、搜索API及VSCode资源API等服务不可用。团队从4月23日起持续修复，但截至4月24日下午仍未完全恢复。此次故障可能影响依赖该平台的开发者扩展安装与更新。
+
+---
+
+## <a name="10"></a>10. 手把手教你搭建联邦式微博平台 
 <small>🔗 [fedify.dev](https://fedify.dev/tutorial/microblog): Creating your own federated microblog</small>
 
 
@@ -131,23 +143,11 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 
 ---
 
-## <a name="10"></a>10. OpenVSX服务中断24小时，多款VSCode衍生编辑器受影响 
-<small>🔗 [status.open-vsx.org](https://status.open-vsx.org/): OpenVSX, which VSCode forks rely on for extensions, down for 24 hours</small>
-
-
-| 🔥🔥: 161 \| 💬: [67](https://news.ycombinator.com/item?id=43785039) \| 🗓️ 2025-04-24
-
-
-<br />
-OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**后端存储故障**已宕机24小时，导致主页、查询API、搜索API及VSCode资源API等服务不可用。团队从4月23日起持续修复，但截至4月24日下午仍未完全恢复。此次故障可能影响依赖该平台的开发者扩展安装与更新。
-
----
-
 ## <a name="11"></a>11. 国家空域系统状态 
 <small>🔗 [nasstatus.faa.gov](https://nasstatus.faa.gov/): National Airspace System Status</small>
 
 
-| 🔥🔥: 130 \| 💬: [18](https://news.ycombinator.com/item?id=43787730) \| 🗓️ 2025-04-24
+| 🔥🔥: 138 \| 💬: [19](https://news.ycombinator.com/item?id=43787730) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -155,47 +155,11 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 
 ---
 
-## <a name="12"></a>12. 消费者声称愿为“美国制造”买单？我们做了个A/B测试 
-<small>🔗 [afina.com](https://afina.com/blogs/news/made-in-usa): People say they’ll pay more for “made in the USA” so we ran a test</small>
-
-
-| 🔥🔥: 120 \| 💬: [122](https://news.ycombinator.com/item?id=43787647) \| 🗓️ 2025-04-24
-
-
-<br />
-一家生产过滤花洒的小企业将**美国制造**版本定价比亚洲版高85%（239美元 vs 129美元），通过隐藏落地页让25,650名顾客选择。结果**美国版加购仅24次，零成交**。测试排除了技术问题，证实**价格才是关键**。尽管消费者口头支持本土制造，但通胀压力下，多数人无法承担溢价。企业指出，若无政策支持或自动化升级，**回流生产难以持续**。数据揭示了理想主义在价格现实前的脆弱性。
-
----
-
-## <a name="13"></a>13. 谷歌地图不懂街道地址规则 
-<small>🔗 [randomascii.wordpress.com](https://randomascii.wordpress.com/2025/04/24/google-maps-doesnt-know-how-street-addresses-work/): Street address errors in Google Maps</small>
-
-
-| 🔥🔥: 118 \| 💬: [113](https://news.ycombinator.com/item?id=43788832) \| 🗓️ 2025-04-24
-
-
-<br />
-文章揭露了谷歌地图在加拿大不列颠哥伦比亚省多个城市出现的**地址定位错误**问题。例如，输入真实地址"138 W 6th Ave"会被错误定位到2.4公里外，甚至相邻门牌号的导航距离也显示异常。作者发现至少5个类似案例，推测错误源于**数据库录入缺乏校验机制**（如未验证街区范围或城市边界）。部分错误可能由人工或AI误读门牌号导致，例如将单元号"5"误判为街道号。尽管用户反馈系统曾有效，但近期修正延迟严重，且错误数据可能成批出现，影响实际导航（如演员面试迟到）。**核心问题在于谷歌地图未内置地址逻辑规则**，导致错误数据覆盖了合理的算法推测位置。
-
----
-
-## <a name="14"></a>14. 成为伟大设计师无需名声加持 
-<small>🔗 [chrbutler.com](https://www.chrbutler.com/you-can-be-a-great-designer-and-be-completely-unknown): You Can Be a Great Designer and Be Completely Unknown</small>
-
-
-| 🔥🔥: 115 \| 💬: [47](https://news.ycombinator.com/item?id=43787676) \| 🗓️ 2025-04-24
-
-
-<br />
-克里斯托弗·巴特勒指出，**设计伟大与否与知名度无关**。达·芬奇等传奇人物让人误以为天才极其罕见，但事实上，**未被认可的卓越设计无处不在**——从符合人体工学的削皮器到清晰的医疗系统界面。当代社会将曝光度等同于价值，导致设计为吸引眼球而牺牲实用性（如特斯拉Cybertruck）。真正的设计应**以解决问题为核心**，而非追求奖项或粉丝。那些默默无闻的设计师可能创造了最精妙的解决方案，却因设计过于自然流畅而隐于无形。**伟大设计的标准是功能而非名声**。
-
----
-
-## <a name="15"></a>15. 微软限制C/C++扩展使用范围，开发者抗议 
+## <a name="12"></a>12. 微软限制C/C++扩展使用范围，开发者抗议 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/): Microsoft subtracts C/C++ extension from VS Code forks</small>
 
 
-| 🔥🔥: 114 \| 💬: [104](https://news.ycombinator.com/item?id=43788125) \| 🗓️ 2025-04-24
+| 🔥🔥: 127 \| 💬: [125](https://news.ycombinator.com/item?id=43788125) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -203,11 +167,47 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 
 ---
 
+## <a name="13"></a>13. 成为伟大设计师无需名声加持 
+<small>🔗 [chrbutler.com](https://www.chrbutler.com/you-can-be-a-great-designer-and-be-completely-unknown): You Can Be a Great Designer and Be Completely Unknown</small>
+
+
+| 🔥🔥: 126 \| 💬: [51](https://news.ycombinator.com/item?id=43787676) \| 🗓️ 2025-04-24
+
+
+<br />
+克里斯托弗·巴特勒指出，**设计伟大与否与知名度无关**。达·芬奇等传奇人物让人误以为天才极其罕见，但事实上，**未被认可的卓越设计无处不在**——从符合人体工学的削皮器到清晰的医疗系统界面。当代社会将曝光度等同于价值，导致设计为吸引眼球而牺牲实用性（如特斯拉Cybertruck）。真正的设计应**以解决问题为核心**，而非追求奖项或粉丝。那些默默无闻的设计师可能创造了最精妙的解决方案，却因设计过于自然流畅而隐于无形。**伟大设计的标准是功能而非名声**。
+
+---
+
+## <a name="14"></a>14. 消费者声称愿为“美国制造”买单？我们做了个A/B测试 
+<small>🔗 [afina.com](https://afina.com/blogs/news/made-in-usa): People say they’ll pay more for “made in the USA” so we ran a test</small>
+
+
+| 🔥🔥: 124 \| 💬: [124](https://news.ycombinator.com/item?id=43787647) \| 🗓️ 2025-04-24
+
+
+<br />
+一家生产过滤花洒的小企业将**美国制造**版本定价比亚洲版高85%（239美元 vs 129美元），通过隐藏落地页让25,650名顾客选择。结果**美国版加购仅24次，零成交**。测试排除了技术问题，证实**价格才是关键**。尽管消费者口头支持本土制造，但通胀压力下，多数人无法承担溢价。企业指出，若无政策支持或自动化升级，**回流生产难以持续**。数据揭示了理想主义在价格现实前的脆弱性。
+
+---
+
+## <a name="15"></a>15. 谷歌地图不懂街道地址规则 
+<small>🔗 [randomascii.wordpress.com](https://randomascii.wordpress.com/2025/04/24/google-maps-doesnt-know-how-street-addresses-work/): Street address errors in Google Maps</small>
+
+
+| 🔥🔥: 121 \| 💬: [117](https://news.ycombinator.com/item?id=43788832) \| 🗓️ 2025-04-24
+
+
+<br />
+文章揭露了谷歌地图在加拿大不列颠哥伦比亚省多个城市出现的**地址定位错误**问题。例如，输入真实地址"138 W 6th Ave"会被错误定位到2.4公里外，甚至相邻门牌号的导航距离也显示异常。作者发现至少5个类似案例，推测错误源于**数据库录入缺乏校验机制**（如未验证街区范围或城市边界）。部分错误可能由人工或AI误读门牌号导致，例如将单元号"5"误判为街道号。尽管用户反馈系统曾有效，但近期修正延迟严重，且错误数据可能成批出现，影响实际导航（如演员面试迟到）。**核心问题在于谷歌地图未内置地址逻辑规则**，导致错误数据覆盖了合理的算法推测位置。
+
+---
+
 ## <a name="16"></a>16. 科学家研发人工树叶，利用阳光生产高价值化学品 
 <small>🔗 [newscenter.lbl.gov](https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/): Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals</small>
 
 
-| 🔥🔥: 113 \| 💬: [43](https://news.ycombinator.com/item?id=43788053) \| 🗓️ 2025-04-24
+| 🔥🔥: 120 \| 💬: [44](https://news.ycombinator.com/item?id=43788053) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -219,7 +219,7 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 <small>🔗 [bitsnbites.eu](https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/): Fundamental flaws of SIMD ISAs (2021)</small>
 
 
-| 🔥🔥: 105 \| 💬: [77](https://news.ycombinator.com/item?id=43783416) \| 🗓️ 2025-04-24
+| 🔥🔥: 109 \| 💬: [79](https://news.ycombinator.com/item?id=43783416) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -243,7 +243,7 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 <small>🔗 [reverseui.com](https://reverseui.com): Show HN: I reverse engineered top websites to build an animated UI library</small>
 
 
-| 🔥: 95 \| 💬: [44](https://news.ycombinator.com/item?id=43785464) \| 🗓️ 2025-04-24
+| 🔥🔥: 102 \| 💬: [46](https://news.ycombinator.com/item?id=43785464) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -279,7 +279,7 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 <small>🔗 [community.ibm.com](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/elizabeth-k-joseph1/2025/04/23/a-tour-inside-the-ibm-z17?communityKey=e7b7d299-8509-4572-8cf1-c1112684644f): A Tour Inside the IBM Z17</small>
 
 
-| 🔥: 71 \| 💬: [118](https://news.ycombinator.com/item?id=43783997) \| 🗓️ 2025-04-24
+| 🔥: 72 \| 💬: [119](https://news.ycombinator.com/item?id=43783997) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -291,7 +291,7 @@ IBM 最新发布的 **z17** 大型机延续了前代 z16 的 19 英寸机架设�
 <small>🔗 [claudiu-ivan.com](https://www.claudiu-ivan.com/writing/search-dsl): A Principled Approach to Querying Data – A Type-Safe Search DSL</small>
 
 
-| 🔥: 68 \| 💬: [8](https://news.ycombinator.com/item?id=43784200) \| 🗓️ 2025-04-24
+| 🔥: 69 \| 💬: [8](https://news.ycombinator.com/item?id=43784200) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -303,7 +303,7 @@ IBM 最新发布的 **z17** 大型机延续了前代 z16 的 19 英寸机架设�
 <small>🔗 [github.com](https://github.com/philocalyst/infat): Show HN: Infat – Declaritive application assocation manager for macOS</small>
 
 
-| 🔥: 60 \| 💬: [21](https://news.ycombinator.com/item?id=43785350) \| 🗓️ 2025-04-24
+| 🔥: 62 \| 💬: [22](https://news.ycombinator.com/item?id=43785350) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -315,7 +315,7 @@ Infat 是一款 **macOS 原生命令行工具**，用于通过 **声明式配置
 <small>🔗 [abc.xyz](https://abc.xyz/assets/34/fa/ee06f3de4338b99acffc5c229d9f/2025q1-alphabet-earnings-release.pdf): Alphabet Q1 2025 Earnings [pdf]</small>
 
 
-| 🔥: 60 \| 💬: [25](https://news.ycombinator.com/item?id=43786956) \| 🗓️ 2025-04-24
+| 🔥: 61 \| 💬: [25](https://news.ycombinator.com/item?id=43786956) \| 🗓️ 2025-04-24
 
 
 <br />
