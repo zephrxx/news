@@ -12,7 +12,7 @@ tags:
 1. 我给GPLv2许可证通知中的地址写了封信（2022年）；
 1. 扎克伯格：社交媒体时代已终结；
 1. 职场忠诚度的真相；
-1. 社交平台的算法共识操控；
+1. DuckDB推出即时SQL功能：输入即得结果，颠覆传统查询体验；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [pluralistic.net](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf): Careless People</small>
 
 
-| 🔥🔥: 769 \| 💬: [403](https://news.ycombinator.com/item?id=43780363) \| 🗓️ 2025-04-24
+| 🔥🔥: 781 \| 💬: [406](https://news.ycombinator.com/item?id=43780363) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [code.mendhak.com](https://code.mendhak.com/gpl-v2-address-letter/): I wrote to the address in the GPLv2 license notice (2022)</small>
 
 
-| 🔥🔥: 568 \| 💬: [451](https://news.ycombinator.com/item?id=43781888) \| 🗓️ 2025-04-24
+| 🔥🔥: 581 \| 💬: [459](https://news.ycombinator.com/item?id=43781888) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [newyorker.com](https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over): Mark Zuckerberg says social media is over</small>
 
 
-| 🔥🔥: 432 \| 💬: [765](https://news.ycombinator.com/item?id=43780377) \| 🗓️ 2025-04-24
+| 🔥🔥: 446 \| 💬: [778](https://news.ycombinator.com/item?id=43780377) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [medium.com](https://medium.com/hackernoon/on-loyalty-to-your-employer-c674c4b06b3a): On loyalty to your employer (2018)</small>
 
 
-| 🔥🔥: 378 \| 💬: [410](https://news.ycombinator.com/item?id=43780815) \| 🗓️ 2025-04-24
+| 🔥🔥: 381 \| 💬: [411](https://news.ycombinator.com/item?id=43780815) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -71,23 +71,11 @@ tags:
 
 ---
 
-## <a name="5"></a>5. 社交平台的算法共识操控 
-<small>🔗 [rook2root.co](https://rook2root.co/articles/20250424-manufacturing-consensus-on-x): Manufactured consensus on x.com</small>
-
-
-| 🔥🔥: 275 \| 💬: [216](https://news.ycombinator.com/item?id=43784915) \| 🗓️ 2025-04-24
-
-
-<br />
-在X.com等平台上，**算法权威**和影响力用户通过互动信号（如点赞、静默）悄然操控内容可见性。**高权重账户**的轻微互动即可触发内容被压制或推广，制造**虚假共识**。这种机制无需删帖，仅通过优先级调整就能扭曲公众认知，引导舆论走向。真正的共识沦为算法筛选的幸存者，而用户却误以为自己在自由选择。
-
----
-
-## <a name="6"></a>6. DuckDB推出即时SQL功能：输入即得结果，颠覆传统查询体验 
+## <a name="5"></a>5. DuckDB推出即时SQL功能：输入即得结果，颠覆传统查询体验 
 <small>🔗 [motherduck.com](https://motherduck.com/blog/introducing-instant-sql/): Instant SQL for results as you type in DuckDB UI</small>
 
 
-| 🔥🔥: 273 \| 💬: [94](https://news.ycombinator.com/item?id=43782406) \| 🗓️ 2025-04-24
+| 🔥🔥: 280 \| 💬: [94](https://news.ycombinator.com/item?id=43782406) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -95,11 +83,23 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 
 ---
 
+## <a name="6"></a>6. 社交平台的算法共识操控 
+<small>🔗 [rook2root.co](https://rook2root.co/articles/20250424-manufacturing-consensus-on-x): Manufactured consensus on x.com</small>
+
+
+| 🔥🔥: 280 \| 💬: [218](https://news.ycombinator.com/item?id=43784915) \| 🗓️ 2025-04-24
+
+
+<br />
+在X.com等平台上，**算法权威**和影响力用户通过互动信号（如点赞、静默）悄然操控内容可见性。**高权重账户**的轻微互动即可触发内容被压制或推广，制造**虚假共识**。这种机制无需删帖，仅通过优先级调整就能扭曲公众认知，引导舆论走向。真正的共识沦为算法筛选的幸存者，而用户却误以为自己在自由选择。
+
+---
+
 ## <a name="7"></a>7. 氢原子自旋翻转：宇宙的21厘米魔法波长 
 <small>🔗 [bigthink.com](https://bigthink.com/starts-with-a-bang/21cm-magic-length/): One quantum transition makes light at 21 cm</small>
 
 
-| 🔥🔥: 195 \| 💬: [125](https://news.ycombinator.com/item?id=43784721) \| 🗓️ 2025-04-24
+| 🔥🔥: 200 \| 💬: [128](https://news.ycombinator.com/item?id=43784721) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -111,7 +111,7 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 <small>🔗 [web.stanford.edu](https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html): Assignment 5: Cars and Key Fobs (2022)</small>
 
 
-| 🔥🔥: 190 \| 💬: [162](https://news.ycombinator.com/item?id=43780876) \| 🗓️ 2025-04-24
+| 🔥🔥: 193 \| 💬: [162](https://news.ycombinator.com/item?id=43780876) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -123,7 +123,7 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 <small>🔗 [fedify.dev](https://fedify.dev/tutorial/microblog): Creating your own federated microblog</small>
 
 
-| 🔥🔥: 166 \| 💬: [36](https://news.ycombinator.com/item?id=43780785) \| 🗓️ 2025-04-24
+| 🔥🔥: 169 \| 💬: [36](https://news.ycombinator.com/item?id=43780785) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -135,7 +135,7 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 <small>🔗 [status.open-vsx.org](https://status.open-vsx.org/): OpenVSX, which VSCode forks rely on for extensions, down for 24 hours</small>
 
 
-| 🔥🔥: 137 \| 💬: [52](https://news.ycombinator.com/item?id=43785039) \| 🗓️ 2025-04-24
+| 🔥🔥: 143 \| 💬: [59](https://news.ycombinator.com/item?id=43785039) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -147,7 +147,7 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 <small>🔗 [afina.com](https://afina.com/blogs/news/made-in-usa): People say they’ll pay more for “made in the USA” so we ran a test</small>
 
 
-| 🔥🔥: 112 \| 💬: [113](https://news.ycombinator.com/item?id=43787647) \| 🗓️ 2025-04-24
+| 🔥🔥: 115 \| 💬: [118](https://news.ycombinator.com/item?id=43787647) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -155,7 +155,31 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 
 ---
 
-## <a name="12"></a>12. Vim语言与高效编辑的艺术（2023） 
+## <a name="12"></a>12. 国家空域系统状态 
+<small>🔗 [nasstatus.faa.gov](https://nasstatus.faa.gov/): National Airspace System Status</small>
+
+
+| 🔥🔥: 112 \| 💬: [17](https://news.ycombinator.com/item?id=43787730) \| 🗓️ 2025-04-24
+
+
+<br />
+该页面提示用户需**启用JavaScript**才能运行应用，但未提供具体功能或内容描述。核心信息仅强调技术依赖项，未涉及空域状态、航班动态等预期数据。可能为实时监控系统的入口界面，需进一步交互才能获取**关键空域信息**。当前内容无法判断系统实际状态或服务范围。
+
+---
+
+## <a name="13"></a>13. 谷歌地图不懂街道地址规则 
+<small>🔗 [randomascii.wordpress.com](https://randomascii.wordpress.com/2025/04/24/google-maps-doesnt-know-how-street-addresses-work/): Street address errors in Google Maps</small>
+
+
+| 🔥🔥: 110 \| 💬: [104](https://news.ycombinator.com/item?id=43788832) \| 🗓️ 2025-04-24
+
+
+<br />
+文章揭露了谷歌地图在加拿大不列颠哥伦比亚省多个城市出现的**地址定位错误**问题。例如，输入真实地址"138 W 6th Ave"会被错误定位到2.4公里外，甚至相邻门牌号的导航距离也显示异常。作者发现至少5个类似案例，推测错误源于**数据库录入缺乏校验机制**（如未验证街区范围或城市边界）。部分错误可能由人工或AI误读门牌号导致，例如将单元号"5"误判为街道号。尽管用户反馈系统曾有效，但近期修正延迟严重，且错误数据可能成批出现，影响实际导航（如演员面试迟到）。**核心问题在于谷歌地图未内置地址逻辑规则**，导致错误数据覆盖了合理的算法推测位置。
+
+---
+
+## <a name="14"></a>14. Vim语言与高效编辑的艺术（2023） 
 <small>🔗 [ssp.sh](https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/): Vim Language, Motions, and Modes Explained (2023)</small>
 
 
@@ -167,11 +191,11 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 
 ---
 
-## <a name="13"></a>13. SIMD指令集的三大根本缺陷（2023） 
-<small>🔗 [bitsnbites.eu](https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/): Three Fundamental Flaws of SIMD ISAs (2023)</small>
+## <a name="15"></a>15. SIMD指令集的三大根本缺陷（2023） 
+<small>🔗 [bitsnbites.eu](https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/): Fundamental flaws of SIMD ISAs (2021)</small>
 
 
-| 🔥: 98 \| 💬: [67](https://news.ycombinator.com/item?id=43783416) \| 🗓️ 2025-04-24
+| 🔥: 98 \| 💬: [71](https://news.ycombinator.com/item?id=43783416) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -179,35 +203,23 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 
 ---
 
-## <a name="14"></a>14. 国家空域系统状态 
-<small>🔗 [nasstatus.faa.gov](https://nasstatus.faa.gov/): National Airspace System Status</small>
+## <a name="16"></a>16. 科学家研发人工树叶，利用阳光生产高价值化学品 
+<small>🔗 [newscenter.lbl.gov](https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/): Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals</small>
 
 
-| 🔥: 96 \| 💬: [12](https://news.ycombinator.com/item?id=43787730) \| 🗓️ 2025-04-24
-
-
-<br />
-该页面提示用户需**启用JavaScript**才能运行应用，但未提供具体功能或内容描述。核心信息仅强调技术依赖项，未涉及空域状态、航班动态等预期数据。可能为实时监控系统的入口界面，需进一步交互才能获取**关键空域信息**。当前内容无法判断系统实际状态或服务范围。
-
----
-
-## <a name="15"></a>15. 谷歌地图不懂街道地址规则 
-<small>🔗 [randomascii.wordpress.com](https://randomascii.wordpress.com/2025/04/24/google-maps-doesnt-know-how-street-addresses-work/): Google Maps Doesn't Know How Street Addresses Work</small>
-
-
-| 🔥: 88 \| 💬: [74](https://news.ycombinator.com/item?id=43788832) \| 🗓️ 2025-04-24
+| 🔥: 97 \| 💬: [36](https://news.ycombinator.com/item?id=43788053) \| 🗓️ 2025-04-24
 
 
 <br />
-文章揭露了谷歌地图在加拿大不列颠哥伦比亚省多个城市出现的**地址定位错误**问题。例如，输入真实地址"138 W 6th Ave"会被错误定位到2.4公里外，甚至相邻门牌号的导航距离也显示异常。作者发现至少5个类似案例，推测错误源于**数据库录入缺乏校验机制**（如未验证街区范围或城市边界）。部分错误可能由人工或AI误读门牌号导致，例如将单元号"5"误判为街道号。尽管用户反馈系统曾有效，但近期修正延迟严重，且错误数据可能成批出现，影响实际导航（如演员面试迟到）。**核心问题在于谷歌地图未内置地址逻辑规则**，导致错误数据覆盖了合理的算法推测位置。
+美国劳伦斯伯克利国家实验室与多国团队合作，在《自然·催化》发表成果，开发出一种基于**钙钛矿**和**铜**的人工光合作用系统。该系统仅需阳光就能将二氧化碳转化为**C2化学品**（塑料、航空燃料等的前体），尺寸仅邮票大小。这项突破属于“液态阳光联盟”（LiSA）项目，通过模拟植物叶片的光合作用机制，采用无机材料铜替代生物酶，提升了系统的稳定性和寿命。未来研究将聚焦提高效率与扩大规模，推动太阳能燃料的实用化。
 
 ---
 
-## <a name="16"></a>16. 微软限制C/C++扩展使用范围，开发者抗议 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/): Devs sound alarm after Microsoft subtracts C/C++ extension from VS Code forks</small>
+## <a name="17"></a>17. 微软限制C/C++扩展使用范围，开发者抗议 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/): Microsoft subtracts C/C++ extension from VS Code forks</small>
 
 
-| 🔥: 86 \| 💬: [82](https://news.ycombinator.com/item?id=43788125) \| 🗓️ 2025-04-24
+| 🔥: 94 \| 💬: [84](https://news.ycombinator.com/item?id=43788125) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -215,7 +227,19 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 
 ---
 
-## <a name="17"></a>17. 欧盟将于2025年6月起对手机和平板实施能源标签制度 
+## <a name="18"></a>18. 成为伟大设计师无需名声加持 
+<small>🔗 [chrbutler.com](https://www.chrbutler.com/you-can-be-a-great-designer-and-be-completely-unknown): You Can Be a Great Designer and Be Completely Unknown</small>
+
+
+| 🔥: 92 \| 💬: [31](https://news.ycombinator.com/item?id=43787676) \| 🗓️ 2025-04-24
+
+
+<br />
+克里斯托弗·巴特勒指出，**设计伟大与否与知名度无关**。达·芬奇等传奇人物让人误以为天才极其罕见，但事实上，**未被认可的卓越设计无处不在**——从符合人体工学的削皮器到清晰的医疗系统界面。当代社会将曝光度等同于价值，导致设计为吸引眼球而牺牲实用性（如特斯拉Cybertruck）。真正的设计应**以解决问题为核心**，而非追求奖项或粉丝。那些默默无闻的设计师可能创造了最精妙的解决方案，却因设计过于自然流畅而隐于无形。**伟大设计的标准是功能而非名声**。
+
+---
+
+## <a name="19"></a>19. 欧盟将于2025年6月起对手机和平板实施能源标签制度 
 <small>🔗 [energy-efficient-products.ec.europa.eu](https://energy-efficient-products.ec.europa.eu/product-list/smartphones-and-tablets_en): EU Energy labelling will apply to phones and tablets from June 2025</small>
 
 
@@ -227,47 +251,11 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 
 ---
 
-## <a name="18"></a>18. 科学家研发人工树叶，利用阳光生产高价值化学品 
-<small>🔗 [newscenter.lbl.gov](https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/): Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals</small>
-
-
-| 🔥: 79 \| 💬: [31](https://news.ycombinator.com/item?id=43788053) \| 🗓️ 2025-04-24
-
-
-<br />
-美国劳伦斯伯克利国家实验室与多国团队合作，在《自然·催化》发表成果，开发出一种基于**钙钛矿**和**铜**的人工光合作用系统。该系统仅需阳光就能将二氧化碳转化为**C2化学品**（塑料、航空燃料等的前体），尺寸仅邮票大小。这项突破属于“液态阳光联盟”（LiSA）项目，通过模拟植物叶片的光合作用机制，采用无机材料铜替代生物酶，提升了系统的稳定性和寿命。未来研究将聚焦提高效率与扩大规模，推动太阳能燃料的实用化。
-
----
-
-## <a name="19"></a>19. 成为伟大设计师无需名声加持 
-<small>🔗 [chrbutler.com](https://www.chrbutler.com/you-can-be-a-great-designer-and-be-completely-unknown): You Can Be a Great Designer and Be Completely Unknown</small>
-
-
-| 🔥: 76 \| 💬: [28](https://news.ycombinator.com/item?id=43787676) \| 🗓️ 2025-04-24
-
-
-<br />
-克里斯托弗·巴特勒指出，**设计伟大与否与知名度无关**。达·芬奇等传奇人物让人误以为天才极其罕见，但事实上，**未被认可的卓越设计无处不在**——从符合人体工学的削皮器到清晰的医疗系统界面。当代社会将曝光度等同于价值，导致设计为吸引眼球而牺牲实用性（如特斯拉Cybertruck）。真正的设计应**以解决问题为核心**，而非追求奖项或粉丝。那些默默无闻的设计师可能创造了最精妙的解决方案，却因设计过于自然流畅而隐于无形。**伟大设计的标准是功能而非名声**。
-
----
-
-## <a name="20"></a>20. AI领域的收购、整合与创新 
-<small>🔗 [frontierai.substack.com](https://frontierai.substack.com/p/acquisitions-consolidation-and-innovation): Acquisitions, consolidation, and innovation in AI</small>
-
-
-| 🔥: 74 \| 💬: [37](https://news.ycombinator.com/item?id=43785919) \| 🗓️ 2025-04-24
-
-
-<br />
-近期OpenAI可能收购Windsurf的传闻引发热议，包括对**应用层扩张**的担忧、行业**整合加速**的恐惧，以及AI初创公司生存空间的讨论。文章指出，**模型创新**与**应用创新**所需团队和能力截然不同，前者集中于少数大公司，后者则由众多小公司主导。尽管基础模型价值仍在，但应用层市场潜力更大，收购潮不可避免，但成功与否取决于文化融合。最终，**为客户提供实际价值**的企业将成为赢家，而非仅靠技术或收购的公司。
-
----
-
-## <a name="21"></a>21. 我逆向工程顶级网站，打造了一个动画UI库 
+## <a name="20"></a>20. 我逆向工程顶级网站，打造了一个动画UI库 
 <small>🔗 [reverseui.com](https://reverseui.com): Show HN: I reverse engineered top websites to build an animated UI library</small>
 
 
-| 🔥: 69 \| 💬: [32](https://news.ycombinator.com/item?id=43785464) \| 🗓️ 2025-04-24
+| 🔥: 81 \| 💬: [35](https://news.ycombinator.com/item?id=43785464) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -275,11 +263,23 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 
 ---
 
+## <a name="21"></a>21. AI领域的收购、整合与创新 
+<small>🔗 [frontierai.substack.com](https://frontierai.substack.com/p/acquisitions-consolidation-and-innovation): Acquisitions, consolidation, and innovation in AI</small>
+
+
+| 🔥: 76 \| 💬: [37](https://news.ycombinator.com/item?id=43785919) \| 🗓️ 2025-04-24
+
+
+<br />
+近期OpenAI可能收购Windsurf的传闻引发热议，包括对**应用层扩张**的担忧、行业**整合加速**的恐惧，以及AI初创公司生存空间的讨论。文章指出，**模型创新**与**应用创新**所需团队和能力截然不同，前者集中于少数大公司，后者则由众多小公司主导。尽管基础模型价值仍在，但应用层市场潜力更大，收购潮不可避免，但成功与否取决于文化融合。最终，**为客户提供实际价值**的企业将成为赢家，而非仅靠技术或收购的公司。
+
+---
+
 ## <a name="22"></a>22. IBM z17 内部探秘：新一代大型机的技术亮点 
 <small>🔗 [community.ibm.com](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/elizabeth-k-joseph1/2025/04/23/a-tour-inside-the-ibm-z17?communityKey=e7b7d299-8509-4572-8cf1-c1112684644f): A Tour Inside the IBM Z17</small>
 
 
-| 🔥: 68 \| 💬: [105](https://news.ycombinator.com/item?id=43783997) \| 🗓️ 2025-04-24
+| 🔥: 68 \| 💬: [115](https://news.ycombinator.com/item?id=43783997) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -291,7 +291,7 @@ IBM 最新发布的 **z17** 大型机延续了前代 z16 的 19 英寸机架设�
 <small>🔗 [claudiu-ivan.com](https://www.claudiu-ivan.com/writing/search-dsl): A Principled Approach to Querying Data – A Type-Safe Search DSL</small>
 
 
-| 🔥: 64 \| 💬: [7](https://news.ycombinator.com/item?id=43784200) \| 🗓️ 2025-04-24
+| 🔥: 66 \| 💬: [8](https://news.ycombinator.com/item?id=43784200) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -303,7 +303,7 @@ IBM 最新发布的 **z17** 大型机延续了前代 z16 的 19 英寸机架设�
 <small>🔗 [abc.xyz](https://abc.xyz/assets/34/fa/ee06f3de4338b99acffc5c229d9f/2025q1-alphabet-earnings-release.pdf): Alphabet Q1 2025 Earnings [pdf]</small>
 
 
-| 🔥: 59 \| 💬: [24](https://news.ycombinator.com/item?id=43786956) \| 🗓️ 2025-04-24
+| 🔥: 60 \| 💬: [24](https://news.ycombinator.com/item?id=43786956) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -315,7 +315,7 @@ IBM 最新发布的 **z17** 大型机延续了前代 z16 的 19 英寸机架设�
 <small>🔗 [github.com](https://github.com/philocalyst/infat): Show HN: Infat – Declaritive application assocation manager for macOS</small>
 
 
-| 🔥: 52 \| 💬: [20](https://news.ycombinator.com/item?id=43785350) \| 🗓️ 2025-04-24
+| 🔥: 56 \| 💬: [20](https://news.ycombinator.com/item?id=43785350) \| 🗓️ 2025-04-24
 
 
 <br />
