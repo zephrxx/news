@@ -11,8 +11,8 @@ tags:
 1. FBI逮捕被控协助移民逃避执法的法官；
 1. 2万美元的美国制造电动皮卡：无油漆、无音响、无屏幕；
 1. 当修改/etc/hosts文件导致Substack编辑器崩溃：一次Web内容过滤的探索；
+1. 70%体积缩减，100%精度保留：动态长度浮点数实现无损LLM压缩；
 1. 欧拉模块旋钮创意：磁编码器与插孔的混合设计；
-1. AI时代如何避免技能退化；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [apnews.com](https://apnews.com/article/immigration-judge-arrested-7997186bbca5730e70a25f2347e631f6): FBI arrests judge accused of helping man evade immigration authorities</small>
 
 
-| 🔥🔥: 868 \| 💬: [725](https://news.ycombinator.com/item?id=43794576) \| 🗓️ 2025-04-25
+| 🔥🔥: 882 \| 💬: [759](https://news.ycombinator.com/item?id=43794576) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [theverge.com](https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos): A $20k American-made electric pickup with no paint, no stereo, no screen</small>
 
 
-| 🔥🔥: 755 \| 💬: [723](https://news.ycombinator.com/item?id=43794284) \| 🗓️ 2025-04-25
+| 🔥🔥: 832 \| 💬: [788](https://news.ycombinator.com/item?id=43794284) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -51,7 +51,7 @@ Slate Auto推出了一款**极简主义电动皮卡**，售价低于2万美元�
 <small>🔗 [scalewithlee.substack.com](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack): Writing "/etc/hosts" breaks the Substack editor</small>
 
 
-| 🔥🔥: 433 \| 💬: [242](https://news.ycombinator.com/item?id=43793526) \| 🗓️ 2025-04-25
+| 🔥🔥: 453 \| 💬: [250](https://news.ycombinator.com/item?id=43793526) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -59,35 +59,11 @@ Slate Auto推出了一款**极简主义电动皮卡**，售价低于2万美元�
 
 ---
 
-## <a name="4"></a>4. 欧拉模块旋钮创意：磁编码器与插孔的混合设计 
-<small>🔗 [mitxela.com](https://mitxela.com/projects/euroknob): Eurorack Knob Idea</small>
-
-
-| 🔥🔥: 210 \| 💬: [86](https://news.ycombinator.com/item?id=43793288) \| 🗓️ 2025-04-25
-
-
-<br />
-作者设计了一款**磁编码旋钮**，将3.5mm音频插孔与AS5600磁编码器结合，通过嵌入插头的磁铁实现旋钮与信号线的功能切换。这一设计旨在解决模块化合成器（**Eurorack**）因空间限制而牺牲操作性的问题。原型测试成功，但商业化面临成本与兼容性挑战，例如需搭配电压控制电位器。尽管专利与量产难度高，作者认为**同轴电位器插孔**或更具市场潜力。项目开源，但坦言缺乏商业运作能力，呼吁合作者参与。
-
----
-
-## <a name="5"></a>5. AI时代如何避免技能退化 
-<small>🔗 [addyo.substack.com](https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age): Avoiding skill atrophy in the age of AI</small>
-
-
-| 🔥🔥: 209 \| 💬: [223](https://news.ycombinator.com/item?id=43791474) \| 🗓️ 2025-04-25
-
-
-<br />
-随着AI编程助手的普及，开发者面临**技能萎缩**的风险——过度依赖AI可能导致**批判性思维**和基础编码能力退化。研究表明，长期依赖AI会削弱独立解决问题的能力，甚至影响系统设计等高阶技能。文章建议将AI视为协作工具而非万能答案，通过定期练习无AI编码、主动验证AI输出、优先尝试自主解决问题等方式保持技能敏锐。关键在于平衡效率与深度学习，避免用短期便利换取长期专业能力的空心化。
-
----
-
-## <a name="6"></a>6. 70%体积缩减，100%精度保留：动态长度浮点数实现无损LLM压缩 
+## <a name="4"></a>4. 70%体积缩减，100%精度保留：动态长度浮点数实现无损LLM压缩 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2504.11651): Lossless LLM compression for efficient GPU inference via dynamic-length float</small>
 
 
-| 🔥🔥: 195 \| 💬: [64](https://news.ycombinator.com/item?id=43796935) \| 🗓️ 2025-04-25
+| 🔥🔥: 217 \| 💬: [72](https://news.ycombinator.com/item?id=43796935) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -95,11 +71,35 @@ Slate Auto推出了一款**极简主义电动皮卡**，售价低于2万美元�
 
 ---
 
+## <a name="5"></a>5. 欧拉模块旋钮创意：磁编码器与插孔的混合设计 
+<small>🔗 [mitxela.com](https://mitxela.com/projects/euroknob): Eurorack Knob Idea</small>
+
+
+| 🔥🔥: 215 \| 💬: [87](https://news.ycombinator.com/item?id=43793288) \| 🗓️ 2025-04-25
+
+
+<br />
+作者设计了一款**磁编码旋钮**，将3.5mm音频插孔与AS5600磁编码器结合，通过嵌入插头的磁铁实现旋钮与信号线的功能切换。这一设计旨在解决模块化合成器（**Eurorack**）因空间限制而牺牲操作性的问题。原型测试成功，但商业化面临成本与兼容性挑战，例如需搭配电压控制电位器。尽管专利与量产难度高，作者认为**同轴电位器插孔**或更具市场潜力。项目开源，但坦言缺乏商业运作能力，呼吁合作者参与。
+
+---
+
+## <a name="6"></a>6. AI时代如何避免技能退化 
+<small>🔗 [addyo.substack.com](https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age): Avoiding skill atrophy in the age of AI</small>
+
+
+| 🔥🔥: 210 \| 💬: [226](https://news.ycombinator.com/item?id=43791474) \| 🗓️ 2025-04-25
+
+
+<br />
+随着AI编程助手的普及，开发者面临**技能萎缩**的风险——过度依赖AI可能导致**批判性思维**和基础编码能力退化。研究表明，长期依赖AI会削弱独立解决问题的能力，甚至影响系统设计等高阶技能。文章建议将AI视为协作工具而非万能答案，通过定期练习无AI编码、主动验证AI输出、优先尝试自主解决问题等方式保持技能敏锐。关键在于平衡效率与深度学习，避免用短期便利换取长期专业能力的空心化。
+
+---
+
 ## <a name="7"></a>7. GCC 15.1 正式发布：重大更新与致谢 
 <small>🔗 [gcc.gnu.org](https://gcc.gnu.org/gcc-15/): GCC 15.1</small>
 
 
-| 🔥🔥: 167 \| 💬: [107](https://news.ycombinator.com/item?id=43792248) \| 🗓️ 2025-04-25
+| 🔥🔥: 176 \| 💬: [114](https://news.ycombinator.com/item?id=43792248) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -119,23 +119,11 @@ GCC开发团队于2025年4月25日发布了**GCC 15.1**，这是继GCC 14.x后�
 
 ---
 
-## <a name="9"></a>9. BugStalker：一款专为Rust设计的现代调试工具 
-<small>🔗 [github.com](https://github.com/godzie44/BugStalker): Show HN: BugStalker - a modern Rust debugger</small>
-
-
-| 🔥🔥: 101 \| 💬: [15](https://news.ycombinator.com/item?id=43793627) \| 🗓️ 2025-04-25
-
-
-<br />
-BugStalker是一款针对**Linux x86-64平台**的**Rust原生调试器**，专注于简化调试流程并深度集成Rust特性。支持**断点调试、多线程应用检查**和**Tokio运行时分析**，提供控制台与TUI双模式切换。其扩展架构允许通过Oracle机制增强功能，且内置无需代码修改的Tokio监控工具。项目采用MIT协议开源，目前获723星标，欢迎开发者贡献代码或提出建议。
-
----
-
-## <a name="10"></a>10. Magnitude：开源AI驱动的Web应用测试框架 
+## <a name="9"></a>9. Magnitude：开源AI驱动的Web应用测试框架 
 <small>🔗 [github.com](https://github.com/magnitudedev/magnitude): Show HN: Magnitude – open-source, AI-native test framework for web apps</small>
 
 
-| 🔥: 99 \| 💬: [30](https://news.ycombinator.com/item?id=43796003) \| 🗓️ 2025-04-25
+| 🔥🔥: 106 \| 💬: [30](https://news.ycombinator.com/item?id=43796003) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -143,11 +131,23 @@ Magnitude是一款**开源AI原生测试框架**，专为Web应用设计，结�
 
 ---
 
+## <a name="10"></a>10. BugStalker：一款专为Rust设计的现代调试工具 
+<small>🔗 [github.com](https://github.com/godzie44/BugStalker): Show HN: BugStalker - a modern Rust debugger</small>
+
+
+| 🔥🔥: 102 \| 💬: [15](https://news.ycombinator.com/item?id=43793627) \| 🗓️ 2025-04-25
+
+
+<br />
+BugStalker是一款针对**Linux x86-64平台**的**Rust原生调试器**，专注于简化调试流程并深度集成Rust特性。支持**断点调试、多线程应用检查**和**Tokio运行时分析**，提供控制台与TUI双模式切换。其扩展架构允许通过Oracle机制增强功能，且内置无需代码修改的Tokio监控工具。项目采用MIT协议开源，目前获723星标，欢迎开发者贡献代码或提出建议。
+
+---
+
 ## <a name="11"></a>11. 大型复制项目未能验证生物医学研究结果 
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-01266-x): Huge reproducibility project fails to validate biomedical studies</small>
 
 
-| 🔥: 96 \| 💬: [65](https://news.ycombinator.com/item?id=43795300) \| 🗓️ 2025-04-25
+| 🔥🔥: 102 \| 💬: [66](https://news.ycombinator.com/item?id=43795300) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -155,23 +155,11 @@ Magnitude是一款**开源AI原生测试框架**，专为Web应用设计，结�
 
 ---
 
-## <a name="12"></a>12. 大语言模型对劳动力市场影响有限 
-<small>🔗 [bfi.uchicago.edu](https://bfi.uchicago.edu/wp-content/uploads/2025/04/BFI_WP_2025-56-1.pdf): Large language models, small labor market effects [pdf]</small>
-
-
-| 🔥: 76 \| 💬: [16](https://news.ycombinator.com/item?id=43791385) \| 🗓️ 2025-04-25
-
-
-<br />
-该研究探讨了**大语言模型**（如GPT等）对就业市场的实际影响，发现其替代效应目前较为有限。尽管这类技术在部分领域（如文案生成、客服等）展现出潜力，但整体上尚未对劳动力市场造成显著冲击。研究指出，**技术应用速度**和**职业适应性**是关键变量，而当前影响主要集中在**特定低技能岗位**。未来需持续观察技术与人力协作的长期趋势。
-
----
-
-## <a name="13"></a>13. Curry：一种融合函数式与逻辑编程的多范式语言 
+## <a name="12"></a>12. Curry：一种融合函数式与逻辑编程的多范式语言 
 <small>🔗 [curry-lang.org](https://curry-lang.org/): Curry: A functional logic programming language</small>
 
 
-| 🔥: 73 \| 💬: [13](https://news.ycombinator.com/item?id=43797212) \| 🗓️ 2025-04-25
+| 🔥: 83 \| 💬: [13](https://news.ycombinator.com/item?id=43797212) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -179,23 +167,23 @@ Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编
 
 ---
 
-## <a name="14"></a>14. 从微观视角看美国财政：削减开支真的能减少国债吗？ 
-<small>🔗 [debtinperspective.com](https://www.debtinperspective.com/): A Scaled Down Look at Spending, Revenue, and What's Being Cut</small>
+## <a name="13"></a>13. 大语言模型对劳动力市场影响有限 
+<small>🔗 [bfi.uchicago.edu](https://bfi.uchicago.edu/wp-content/uploads/2025/04/BFI_WP_2025-56-1.pdf): Large language models, small labor market effects [pdf]</small>
 
 
-| 🔥: 61 \| 💬: [35](https://news.ycombinator.com/item?id=43795703) \| 🗓️ 2025-04-25
+| 🔥: 80 \| 💬: [18](https://news.ycombinator.com/item?id=43791385) \| 🗓️ 2025-04-25
 
 
 <br />
-美国国债已达**36万亿美元**，但人类大脑难以理解如此庞大的数字。若将财政数据缩小3600万倍，可发现所谓"削减开支"（如取消社会福利拨款）仅节省15美分，对债务影响微乎其微。**利息支出**每年耗资5000亿美元，而取消弱势群体援助等政策虽社会代价巨大，却仅占预算的千万分之一。真正有效的解决方案是向企业海外收入征税或征收碳排放税，十年可节省数千亿美元。财政问题的核心在于**规模认知偏差**与**象征性削减**的无效性。
+该研究探讨了**大语言模型**（如GPT等）对就业市场的实际影响，发现其替代效应目前较为有限。尽管这类技术在部分领域（如文案生成、客服等）展现出潜力，但整体上尚未对劳动力市场造成显著冲击。研究指出，**技术应用速度**和**职业适应性**是关键变量，而当前影响主要集中在**特定低技能岗位**。未来需持续观察技术与人力协作的长期趋势。
 
 ---
 
-## <a name="15"></a>15. 用Lean定理证明器形式化《数学原理》 
+## <a name="14"></a>14. 用Lean定理证明器形式化《数学原理》 
 <small>🔗 [github.com](https://github.com/ndrwnaguib/principia): Show HN: Formalizing Principia Mathematica using Lean</small>
 
 
-| 🔥: 60 \| 💬: [20](https://news.ycombinator.com/item?id=43797256) \| 🗓️ 2025-04-25
+| 🔥: 71 \| 💬: [21](https://news.ycombinator.com/item?id=43797256) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -203,11 +191,23 @@ Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编
 
 ---
 
+## <a name="15"></a>15. 从微观视角看美国财政：削减开支真的能减少国债吗？ 
+<small>🔗 [debtinperspective.com](https://www.debtinperspective.com/): A Scaled Down Look at Spending, Revenue, and What's Being Cut</small>
+
+
+| 🔥: 61 \| 💬: [38](https://news.ycombinator.com/item?id=43795703) \| 🗓️ 2025-04-25
+
+
+<br />
+美国国债已达**36万亿美元**，但人类大脑难以理解如此庞大的数字。若将财政数据缩小3600万倍，可发现所谓"削减开支"（如取消社会福利拨款）仅节省15美分，对债务影响微乎其微。**利息支出**每年耗资5000亿美元，而取消弱势群体援助等政策虽社会代价巨大，却仅占预算的千万分之一。真正有效的解决方案是向企业海外收入征税或征收碳排放税，十年可节省数千亿美元。财政问题的核心在于**规模认知偏差**与**象征性削减**的无效性。
+
+---
+
 ## <a name="16"></a>16. 论文转代码：机器学习论文的自动化代码生成 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2504.17192): Paper2Code: Automating Code Generation from Scientific Papers</small>
 
 
-| 🔥: 51 \| 💬: [7](https://news.ycombinator.com/item?id=43796419) \| 🗓️ 2025-04-25
+| 🔥: 59 \| 💬: [8](https://news.ycombinator.com/item?id=43796419) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -227,7 +227,19 @@ Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编
 
 ---
 
-## <a name="18"></a>18. GCC 15中的新C++特性 
+## <a name="18"></a>18. 差分覆盖率调试法 
+<small>🔗 [research.swtch.com](https://research.swtch.com/diffcover): Differential Coverage for Debugging</small>
+
+
+| 🔥: 37 \| 💬: [2](https://news.ycombinator.com/item?id=43795090) \| 🗓️ 2025-04-25
+
+
+<br />
+本文介绍了一种高效的调试技术——**差分覆盖率**，通过对比成功与失败测试用例的代码覆盖率，快速定位问题代码。作者以Go语言测试为例，演示如何生成并分析覆盖率差异文件（`.prof`），**绿色标记**突出显示仅失败测试执行的代码（可疑区域），**红色标记**则表明未被失败测试覆盖的代码（可排除）。该方法在示例中精准定位了15,000行代码中的10行关键问题，尤其适合**数据依赖性错误**或**未触发常规逻辑**的故障。此外，单一测试的覆盖率分析也能辅助调试，直接关联错误路径。差分覆盖率虽非万能，但能显著缩小排查范围，提升效率。
+
+---
+
+## <a name="19"></a>19. GCC 15中的新C++特性 
 <small>🔗 [developers.redhat.com](https://developers.redhat.com/articles/2025/04/24/new-c-features-gcc-15): New C++ features in GCC 15</small>
 
 
@@ -239,23 +251,11 @@ GCC 15.1计划于2025年4月或5月发布，带来多项C++26实验性功能，�
 
 ---
 
-## <a name="19"></a>19. 差分覆盖率调试法 
-<small>🔗 [research.swtch.com](https://research.swtch.com/diffcover): Differential Coverage for Debugging</small>
-
-
-| 🔥: 34 \| 💬: [2](https://news.ycombinator.com/item?id=43795090) \| 🗓️ 2025-04-25
-
-
-<br />
-本文介绍了一种高效的调试技术——**差分覆盖率**，通过对比成功与失败测试用例的代码覆盖率，快速定位问题代码。作者以Go语言测试为例，演示如何生成并分析覆盖率差异文件（`.prof`），**绿色标记**突出显示仅失败测试执行的代码（可疑区域），**红色标记**则表明未被失败测试覆盖的代码（可排除）。该方法在示例中精准定位了15,000行代码中的10行关键问题，尤其适合**数据依赖性错误**或**未触发常规逻辑**的故障。此外，单一测试的覆盖率分析也能辅助调试，直接关联错误路径。差分覆盖率虽非万能，但能显著缩小排查范围，提升效率。
-
----
-
 ## <a name="20"></a>20. 下一代GPU编程：Mojo与Max Modular HQ实战体验 
 <small>🔗 [youtube.com](https://www.youtube.com/live/uul6hZ5NXC8?si=mKxZJy2xAD-rOc3g): Next-Gen GPU Programming: Hands-On with Mojo and Max Modular HQ</small>
 
 
-| 🔥: 33 \| 💬: [14](https://news.ycombinator.com/item?id=43797058) \| 🗓️ 2025-04-25
+| 🔥: 35 \| 💬: [14](https://news.ycombinator.com/item?id=43797058) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -267,7 +267,7 @@ GCC 15.1计划于2025年4月或5月发布，带来多项C++26实验性功能，�
 <small>🔗 [scientificamerican.com](https://www.scientificamerican.com/article/dolphins-communicate-with-fountains-of-pee/): Dolphins Communicate with 'Fountains of Pee'</small>
 
 
-| 🔥: 28 \| 💬: [16](https://news.ycombinator.com/item?id=43795961) \| 🗓️ 2025-04-25
+| 🔥: 30 \| 💬: [16](https://news.ycombinator.com/item?id=43795961) \| 🗓️ 2025-04-25
 
 
 <br />
