@@ -27,7 +27,7 @@ tags:
 <small>🔗 [pluralistic.net](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf): Careless People</small>
 
 
-| 🔥🔥: 788 \| 💬: [410](https://news.ycombinator.com/item?id=43780363) \| 🗓️ 2025-04-24
+| 🔥🔥: 798 \| 💬: [420](https://news.ycombinator.com/item?id=43780363) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [code.mendhak.com](https://code.mendhak.com/gpl-v2-address-letter/): I wrote to the address in the GPLv2 license notice (2022)</small>
 
 
-| 🔥🔥: 591 \| 💬: [462](https://news.ycombinator.com/item?id=43781888) \| 🗓️ 2025-04-24
+| 🔥🔥: 598 \| 💬: [464](https://news.ycombinator.com/item?id=43781888) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [newyorker.com](https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over): Mark Zuckerberg says social media is over</small>
 
 
-| 🔥🔥: 465 \| 💬: [799](https://news.ycombinator.com/item?id=43780377) \| 🗓️ 2025-04-24
+| 🔥🔥: 474 \| 💬: [811](https://news.ycombinator.com/item?id=43780377) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [medium.com](https://medium.com/hackernoon/on-loyalty-to-your-employer-c674c4b06b3a): On loyalty to your employer (2018)</small>
 
 
-| 🔥🔥: 382 \| 💬: [413](https://news.ycombinator.com/item?id=43780815) \| 🗓️ 2025-04-24
+| 🔥🔥: 386 \| 💬: [417](https://news.ycombinator.com/item?id=43780815) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [motherduck.com](https://motherduck.com/blog/introducing-instant-sql/): Instant SQL for results as you type in DuckDB UI</small>
 
 
-| 🔥🔥: 286 \| 💬: [95](https://news.ycombinator.com/item?id=43782406) \| 🗓️ 2025-04-24
+| 🔥🔥: 288 \| 💬: [96](https://news.ycombinator.com/item?id=43782406) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -99,7 +99,7 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 <small>🔗 [bigthink.com](https://bigthink.com/starts-with-a-bang/21cm-magic-length/): One quantum transition makes light at 21 cm</small>
 
 
-| 🔥🔥: 204 \| 💬: [131](https://news.ycombinator.com/item?id=43784721) \| 🗓️ 2025-04-24
+| 🔥🔥: 208 \| 💬: [133](https://news.ycombinator.com/item?id=43784721) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -111,7 +111,7 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 <small>🔗 [web.stanford.edu](https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html): Assignment 5: Cars and Key Fobs (2022)</small>
 
 
-| 🔥🔥: 196 \| 💬: [165](https://news.ycombinator.com/item?id=43780876) \| 🗓️ 2025-04-24
+| 🔥🔥: 199 \| 💬: [165](https://news.ycombinator.com/item?id=43780876) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -123,7 +123,7 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 <small>🔗 [fedify.dev](https://fedify.dev/tutorial/microblog): Creating your own federated microblog</small>
 
 
-| 🔥🔥: 171 \| 💬: [36](https://news.ycombinator.com/item?id=43780785) \| 🗓️ 2025-04-24
+| 🔥🔥: 172 \| 💬: [36](https://news.ycombinator.com/item?id=43780785) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -135,7 +135,7 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 <small>🔗 [status.open-vsx.org](https://status.open-vsx.org/): OpenVSX, which VSCode forks rely on for extensions, down for 24 hours</small>
 
 
-| 🔥🔥: 150 \| 💬: [65](https://news.ycombinator.com/item?id=43785039) \| 🗓️ 2025-04-24
+| 🔥🔥: 161 \| 💬: [67](https://news.ycombinator.com/item?id=43785039) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -147,7 +147,7 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 <small>🔗 [nasstatus.faa.gov](https://nasstatus.faa.gov/): National Airspace System Status</small>
 
 
-| 🔥🔥: 122 \| 💬: [18](https://news.ycombinator.com/item?id=43787730) \| 🗓️ 2025-04-24
+| 🔥🔥: 130 \| 💬: [18](https://news.ycombinator.com/item?id=43787730) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -159,7 +159,7 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 <small>🔗 [afina.com](https://afina.com/blogs/news/made-in-usa): People say they’ll pay more for “made in the USA” so we ran a test</small>
 
 
-| 🔥🔥: 117 \| 💬: [122](https://news.ycombinator.com/item?id=43787647) \| 🗓️ 2025-04-24
+| 🔥🔥: 120 \| 💬: [122](https://news.ycombinator.com/item?id=43787647) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -171,7 +171,7 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 <small>🔗 [randomascii.wordpress.com](https://randomascii.wordpress.com/2025/04/24/google-maps-doesnt-know-how-street-addresses-work/): Street address errors in Google Maps</small>
 
 
-| 🔥🔥: 113 \| 💬: [110](https://news.ycombinator.com/item?id=43788832) \| 🗓️ 2025-04-24
+| 🔥🔥: 118 \| 💬: [113](https://news.ycombinator.com/item?id=43788832) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -179,11 +179,35 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 
 ---
 
-## <a name="14"></a>14. 科学家研发人工树叶，利用阳光生产高价值化学品 
+## <a name="14"></a>14. 成为伟大设计师无需名声加持 
+<small>🔗 [chrbutler.com](https://www.chrbutler.com/you-can-be-a-great-designer-and-be-completely-unknown): You Can Be a Great Designer and Be Completely Unknown</small>
+
+
+| 🔥🔥: 115 \| 💬: [47](https://news.ycombinator.com/item?id=43787676) \| 🗓️ 2025-04-24
+
+
+<br />
+克里斯托弗·巴特勒指出，**设计伟大与否与知名度无关**。达·芬奇等传奇人物让人误以为天才极其罕见，但事实上，**未被认可的卓越设计无处不在**——从符合人体工学的削皮器到清晰的医疗系统界面。当代社会将曝光度等同于价值，导致设计为吸引眼球而牺牲实用性（如特斯拉Cybertruck）。真正的设计应**以解决问题为核心**，而非追求奖项或粉丝。那些默默无闻的设计师可能创造了最精妙的解决方案，却因设计过于自然流畅而隐于无形。**伟大设计的标准是功能而非名声**。
+
+---
+
+## <a name="15"></a>15. 微软限制C/C++扩展使用范围，开发者抗议 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/): Microsoft subtracts C/C++ extension from VS Code forks</small>
+
+
+| 🔥🔥: 114 \| 💬: [104](https://news.ycombinator.com/item?id=43788125) \| 🗓️ 2025-04-24
+
+
+<br />
+微软近期更新了**VS Code**的**C/C++扩展**（v1.24.5），禁止其在衍生编辑器（如**VS Codium**和**Cursor**）中运行，仅限微软自家产品使用。此举导致开发者工作流中断，并引发垄断争议。Cursor已计划转向开源替代方案，而部分开发者向美国联邦贸易委员会投诉微软**不公平竞争**。微软此前许可条款已限制扩展使用，但此次是首次通过技术手段强制执行。
+
+---
+
+## <a name="16"></a>16. 科学家研发人工树叶，利用阳光生产高价值化学品 
 <small>🔗 [newscenter.lbl.gov](https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/): Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals</small>
 
 
-| 🔥🔥: 105 \| 💬: [41](https://news.ycombinator.com/item?id=43788053) \| 🗓️ 2025-04-24
+| 🔥🔥: 113 \| 💬: [43](https://news.ycombinator.com/item?id=43788053) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -191,7 +215,19 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 
 ---
 
-## <a name="15"></a>15. Vim语言与高效编辑的艺术（2023） 
+## <a name="17"></a>17. SIMD指令集的三大根本缺陷（2023） 
+<small>🔗 [bitsnbites.eu](https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/): Fundamental flaws of SIMD ISAs (2021)</small>
+
+
+| 🔥🔥: 105 \| 💬: [77](https://news.ycombinator.com/item?id=43783416) \| 🗓️ 2025-04-24
+
+
+<br />
+本文剖析了现代CPU中常见的**打包SIMD指令集架构**（如x86的SSE、ARM的NEON）的三大核心问题：**固定寄存器宽度**导致扩展性差，需不断新增指令集；**流水线依赖**迫使循环展开，降低代码密度和缓存效率；**尾部处理**需额外控制逻辑，增加代码复杂度。相比之下，**向量处理器**（如RISC-V RVV、ARM SVE）通过动态长度和硬件掩码规避了这些问题，代码更简洁高效。文中以`saxpy`函数为例，对比了SSE与向量架构的汇编实现，凸显后者在指令精简和适应性上的优势。
+
+---
+
+## <a name="18"></a>18. Vim语言与高效编辑的艺术（2023） 
 <small>🔗 [ssp.sh](https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/): Vim Language, Motions, and Modes Explained (2023)</small>
 
 
@@ -203,47 +239,11 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 
 ---
 
-## <a name="16"></a>16. 成为伟大设计师无需名声加持 
-<small>🔗 [chrbutler.com](https://www.chrbutler.com/you-can-be-a-great-designer-and-be-completely-unknown): You Can Be a Great Designer and Be Completely Unknown</small>
-
-
-| 🔥🔥: 104 \| 💬: [42](https://news.ycombinator.com/item?id=43787676) \| 🗓️ 2025-04-24
-
-
-<br />
-克里斯托弗·巴特勒指出，**设计伟大与否与知名度无关**。达·芬奇等传奇人物让人误以为天才极其罕见，但事实上，**未被认可的卓越设计无处不在**——从符合人体工学的削皮器到清晰的医疗系统界面。当代社会将曝光度等同于价值，导致设计为吸引眼球而牺牲实用性（如特斯拉Cybertruck）。真正的设计应**以解决问题为核心**，而非追求奖项或粉丝。那些默默无闻的设计师可能创造了最精妙的解决方案，却因设计过于自然流畅而隐于无形。**伟大设计的标准是功能而非名声**。
-
----
-
-## <a name="17"></a>17. SIMD指令集的三大根本缺陷（2023） 
-<small>🔗 [bitsnbites.eu](https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/): Fundamental flaws of SIMD ISAs (2021)</small>
-
-
-| 🔥🔥: 102 \| 💬: [77](https://news.ycombinator.com/item?id=43783416) \| 🗓️ 2025-04-24
-
-
-<br />
-本文剖析了现代CPU中常见的**打包SIMD指令集架构**（如x86的SSE、ARM的NEON）的三大核心问题：**固定寄存器宽度**导致扩展性差，需不断新增指令集；**流水线依赖**迫使循环展开，降低代码密度和缓存效率；**尾部处理**需额外控制逻辑，增加代码复杂度。相比之下，**向量处理器**（如RISC-V RVV、ARM SVE）通过动态长度和硬件掩码规避了这些问题，代码更简洁高效。文中以`saxpy`函数为例，对比了SSE与向量架构的汇编实现，凸显后者在指令精简和适应性上的优势。
-
----
-
-## <a name="18"></a>18. 微软限制C/C++扩展使用范围，开发者抗议 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/): Microsoft subtracts C/C++ extension from VS Code forks</small>
-
-
-| 🔥🔥: 102 \| 💬: [89](https://news.ycombinator.com/item?id=43788125) \| 🗓️ 2025-04-24
-
-
-<br />
-微软近期更新了**VS Code**的**C/C++扩展**（v1.24.5），禁止其在衍生编辑器（如**VS Codium**和**Cursor**）中运行，仅限微软自家产品使用。此举导致开发者工作流中断，并引发垄断争议。Cursor已计划转向开源替代方案，而部分开发者向美国联邦贸易委员会投诉微软**不公平竞争**。微软此前许可条款已限制扩展使用，但此次是首次通过技术手段强制执行。
-
----
-
 ## <a name="19"></a>19. 我逆向工程顶级网站，打造了一个动画UI库 
 <small>🔗 [reverseui.com](https://reverseui.com): Show HN: I reverse engineered top websites to build an animated UI library</small>
 
 
-| 🔥: 89 \| 💬: [38](https://news.ycombinator.com/item?id=43785464) \| 🗓️ 2025-04-24
+| 🔥: 95 \| 💬: [44](https://news.ycombinator.com/item?id=43785464) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -279,7 +279,7 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 <small>🔗 [community.ibm.com](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/elizabeth-k-joseph1/2025/04/23/a-tour-inside-the-ibm-z17?communityKey=e7b7d299-8509-4572-8cf1-c1112684644f): A Tour Inside the IBM Z17</small>
 
 
-| 🔥: 69 \| 💬: [117](https://news.ycombinator.com/item?id=43783997) \| 🗓️ 2025-04-24
+| 🔥: 71 \| 💬: [118](https://news.ycombinator.com/item?id=43783997) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -291,7 +291,7 @@ IBM 最新发布的 **z17** 大型机延续了前代 z16 的 19 英寸机架设�
 <small>🔗 [claudiu-ivan.com](https://www.claudiu-ivan.com/writing/search-dsl): A Principled Approach to Querying Data – A Type-Safe Search DSL</small>
 
 
-| 🔥: 67 \| 💬: [8](https://news.ycombinator.com/item?id=43784200) \| 🗓️ 2025-04-24
+| 🔥: 68 \| 💬: [8](https://news.ycombinator.com/item?id=43784200) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -299,7 +299,19 @@ IBM 最新发布的 **z17** 大型机延续了前代 z16 的 19 英寸机架设�
 
 ---
 
-## <a name="24"></a>24. Alphabet 2025年第一季度财报概览 
+## <a name="24"></a>24. Infat：macOS 声明式文件与URL关联管理工具 
+<small>🔗 [github.com](https://github.com/philocalyst/infat): Show HN: Infat – Declaritive application assocation manager for macOS</small>
+
+
+| 🔥: 60 \| 💬: [21](https://news.ycombinator.com/item?id=43785350) \| 🗓️ 2025-04-24
+
+
+<br />
+Infat 是一款 **macOS 原生命令行工具**，用于通过 **声明式配置** 管理文件类型和 URL 协议的默认打开应用。用户无需反复手动设置，只需通过 TOML 配置文件（支持 `[files]` 和 `[schemes]` 表）即可批量绑定应用，例如指定 `TextEdit` 打开 `.md` 文件或 `Safari` 处理 `web` 链接。工具支持 **脚本化操作**（如 `infat set` 命令）、详细日志调试，并基于 macOS 原生 API 实现稳定集成。可通过 Homebrew 或源码安装，遵循 MIT 开源协议，适合开发者和系统管理员使用。
+
+---
+
+## <a name="25"></a>25. Alphabet 2025年第一季度财报概览 
 <small>🔗 [abc.xyz](https://abc.xyz/assets/34/fa/ee06f3de4338b99acffc5c229d9f/2025q1-alphabet-earnings-release.pdf): Alphabet Q1 2025 Earnings [pdf]</small>
 
 
@@ -308,17 +320,5 @@ IBM 最新发布的 **z17** 大型机延续了前代 z16 的 19 英寸机架设�
 
 <br />
 该文档是Alphabet（谷歌母公司）2025年第一季度的**官方财报PDF**，包含10页内容，涵盖**财务数据**、**非GAAP货币调整**等关键信息。文件由Workiva平台生成，标注了创建和修改日期（2025年4月24日）。虽然具体财务细节未在摘要中体现，但文档结构显示其包含**收入对账**和**业务概览**等核心板块，适用于投资者和分析师参考。
-
----
-
-## <a name="25"></a>25. Infat：macOS 声明式文件与URL关联管理工具 
-<small>🔗 [github.com](https://github.com/philocalyst/infat): Show HN: Infat – Declaritive application assocation manager for macOS</small>
-
-
-| 🔥: 59 \| 💬: [20](https://news.ycombinator.com/item?id=43785350) \| 🗓️ 2025-04-24
-
-
-<br />
-Infat 是一款 **macOS 原生命令行工具**，用于通过 **声明式配置** 管理文件类型和 URL 协议的默认打开应用。用户无需反复手动设置，只需通过 TOML 配置文件（支持 `[files]` 和 `[schemes]` 表）即可批量绑定应用，例如指定 `TextEdit` 打开 `.md` 文件或 `Safari` 处理 `web` 链接。工具支持 **脚本化操作**（如 `infat set` 命令）、详细日志调试，并基于 macOS 原生 API 实现稳定集成。可通过 Homebrew 或源码安装，遵循 MIT 开源协议，适合开发者和系统管理员使用。
 
 ---
