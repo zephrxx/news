@@ -27,7 +27,7 @@ tags:
 <small>🔗 [pluralistic.net](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf): Careless People</small>
 
 
-| 🔥🔥: 763 \| 💬: [401](https://news.ycombinator.com/item?id=43780363) \| 🗓️ 2025-04-24
+| 🔥🔥: 769 \| 💬: [403](https://news.ycombinator.com/item?id=43780363) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [code.mendhak.com](https://code.mendhak.com/gpl-v2-address-letter/): I wrote to the address in the GPLv2 license notice (2022)</small>
 
 
-| 🔥🔥: 555 \| 💬: [447](https://news.ycombinator.com/item?id=43781888) \| 🗓️ 2025-04-24
+| 🔥🔥: 568 \| 💬: [451](https://news.ycombinator.com/item?id=43781888) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [newyorker.com](https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over): Mark Zuckerberg says social media is over</small>
 
 
-| 🔥🔥: 416 \| 💬: [739](https://news.ycombinator.com/item?id=43780377) \| 🗓️ 2025-04-24
+| 🔥🔥: 432 \| 💬: [765](https://news.ycombinator.com/item?id=43780377) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [medium.com](https://medium.com/hackernoon/on-loyalty-to-your-employer-c674c4b06b3a): On loyalty to your employer (2018)</small>
 
 
-| 🔥🔥: 375 \| 💬: [407](https://news.ycombinator.com/item?id=43780815) \| 🗓️ 2025-04-24
+| 🔥🔥: 378 \| 💬: [410](https://news.ycombinator.com/item?id=43780815) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [rook2root.co](https://rook2root.co/articles/20250424-manufacturing-consensus-on-x): Manufactured consensus on x.com</small>
 
 
-| 🔥🔥: 269 \| 💬: [214](https://news.ycombinator.com/item?id=43784915) \| 🗓️ 2025-04-24
+| 🔥🔥: 275 \| 💬: [216](https://news.ycombinator.com/item?id=43784915) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [motherduck.com](https://motherduck.com/blog/introducing-instant-sql/): Instant SQL for results as you type in DuckDB UI</small>
 
 
-| 🔥🔥: 268 \| 💬: [90](https://news.ycombinator.com/item?id=43782406) \| 🗓️ 2025-04-24
+| 🔥🔥: 273 \| 💬: [94](https://news.ycombinator.com/item?id=43782406) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -99,7 +99,7 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 <small>🔗 [bigthink.com](https://bigthink.com/starts-with-a-bang/21cm-magic-length/): One quantum transition makes light at 21 cm</small>
 
 
-| 🔥🔥: 191 \| 💬: [124](https://news.ycombinator.com/item?id=43784721) \| 🗓️ 2025-04-24
+| 🔥🔥: 195 \| 💬: [125](https://news.ycombinator.com/item?id=43784721) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -108,10 +108,10 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 ---
 
 ## <a name="8"></a>8. 作业5：汽车与钥匙扣的安全隐患 
-<small>🔗 [web.stanford.edu](https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html): Assignment 5: Cars and Key Fobs</small>
+<small>🔗 [web.stanford.edu](https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html): Assignment 5: Cars and Key Fobs (2022)</small>
 
 
-| 🔥🔥: 186 \| 💬: [157](https://news.ycombinator.com/item?id=43780876) \| 🗓️ 2025-04-24
+| 🔥🔥: 190 \| 💬: [162](https://news.ycombinator.com/item?id=43780876) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -123,7 +123,7 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 <small>🔗 [fedify.dev](https://fedify.dev/tutorial/microblog): Creating your own federated microblog</small>
 
 
-| 🔥🔥: 161 \| 💬: [34](https://news.ycombinator.com/item?id=43780785) \| 🗓️ 2025-04-24
+| 🔥🔥: 166 \| 💬: [36](https://news.ycombinator.com/item?id=43780785) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -135,7 +135,7 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 <small>🔗 [status.open-vsx.org](https://status.open-vsx.org/): OpenVSX, which VSCode forks rely on for extensions, down for 24 hours</small>
 
 
-| 🔥🔥: 129 \| 💬: [47](https://news.ycombinator.com/item?id=43785039) \| 🗓️ 2025-04-24
+| 🔥🔥: 137 \| 💬: [52](https://news.ycombinator.com/item?id=43785039) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -147,7 +147,7 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 <small>🔗 [afina.com](https://afina.com/blogs/news/made-in-usa): People say they’ll pay more for “made in the USA” so we ran a test</small>
 
 
-| 🔥🔥: 105 \| 💬: [103](https://news.ycombinator.com/item?id=43787647) \| 🗓️ 2025-04-24
+| 🔥🔥: 112 \| 💬: [113](https://news.ycombinator.com/item?id=43787647) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -171,7 +171,7 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 <small>🔗 [bitsnbites.eu](https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/): Three Fundamental Flaws of SIMD ISAs (2023)</small>
 
 
-| 🔥: 98 \| 💬: [61](https://news.ycombinator.com/item?id=43783416) \| 🗓️ 2025-04-24
+| 🔥: 98 \| 💬: [67](https://news.ycombinator.com/item?id=43783416) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -179,7 +179,43 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 
 ---
 
-## <a name="14"></a>14. 欧盟将于2025年6月起对手机和平板实施能源标签制度 
+## <a name="14"></a>14. 国家空域系统状态 
+<small>🔗 [nasstatus.faa.gov](https://nasstatus.faa.gov/): National Airspace System Status</small>
+
+
+| 🔥: 96 \| 💬: [12](https://news.ycombinator.com/item?id=43787730) \| 🗓️ 2025-04-24
+
+
+<br />
+该页面提示用户需**启用JavaScript**才能运行应用，但未提供具体功能或内容描述。核心信息仅强调技术依赖项，未涉及空域状态、航班动态等预期数据。可能为实时监控系统的入口界面，需进一步交互才能获取**关键空域信息**。当前内容无法判断系统实际状态或服务范围。
+
+---
+
+## <a name="15"></a>15. 谷歌地图不懂街道地址规则 
+<small>🔗 [randomascii.wordpress.com](https://randomascii.wordpress.com/2025/04/24/google-maps-doesnt-know-how-street-addresses-work/): Google Maps Doesn't Know How Street Addresses Work</small>
+
+
+| 🔥: 88 \| 💬: [74](https://news.ycombinator.com/item?id=43788832) \| 🗓️ 2025-04-24
+
+
+<br />
+文章揭露了谷歌地图在加拿大不列颠哥伦比亚省多个城市出现的**地址定位错误**问题。例如，输入真实地址"138 W 6th Ave"会被错误定位到2.4公里外，甚至相邻门牌号的导航距离也显示异常。作者发现至少5个类似案例，推测错误源于**数据库录入缺乏校验机制**（如未验证街区范围或城市边界）。部分错误可能由人工或AI误读门牌号导致，例如将单元号"5"误判为街道号。尽管用户反馈系统曾有效，但近期修正延迟严重，且错误数据可能成批出现，影响实际导航（如演员面试迟到）。**核心问题在于谷歌地图未内置地址逻辑规则**，导致错误数据覆盖了合理的算法推测位置。
+
+---
+
+## <a name="16"></a>16. 微软限制C/C++扩展使用范围，开发者抗议 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/): Devs sound alarm after Microsoft subtracts C/C++ extension from VS Code forks</small>
+
+
+| 🔥: 86 \| 💬: [82](https://news.ycombinator.com/item?id=43788125) \| 🗓️ 2025-04-24
+
+
+<br />
+微软近期更新了**VS Code**的**C/C++扩展**（v1.24.5），禁止其在衍生编辑器（如**VS Codium**和**Cursor**）中运行，仅限微软自家产品使用。此举导致开发者工作流中断，并引发垄断争议。Cursor已计划转向开源替代方案，而部分开发者向美国联邦贸易委员会投诉微软**不公平竞争**。微软此前许可条款已限制扩展使用，但此次是首次通过技术手段强制执行。
+
+---
+
+## <a name="17"></a>17. 欧盟将于2025年6月起对手机和平板实施能源标签制度 
 <small>🔗 [energy-efficient-products.ec.europa.eu](https://energy-efficient-products.ec.europa.eu/product-list/smartphones-and-tablets_en): EU Energy labelling will apply to phones and tablets from June 2025</small>
 
 
@@ -191,31 +227,31 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 
 ---
 
-## <a name="15"></a>15. 国家空域系统状态 
-<small>🔗 [nasstatus.faa.gov](https://nasstatus.faa.gov/): National Airspace System Status</small>
+## <a name="18"></a>18. 科学家研发人工树叶，利用阳光生产高价值化学品 
+<small>🔗 [newscenter.lbl.gov](https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/): Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals</small>
 
 
-| 🔥: 83 \| 💬: [12](https://news.ycombinator.com/item?id=43787730) \| 🗓️ 2025-04-24
-
-
-<br />
-该页面提示用户需**启用JavaScript**才能运行应用，但未提供具体功能或内容描述。核心信息仅强调技术依赖项，未涉及空域状态、航班动态等预期数据。可能为实时监控系统的入口界面，需进一步交互才能获取**关键空域信息**。当前内容无法判断系统实际状态或服务范围。
-
----
-
-## <a name="16"></a>16. 微软限制C/C++扩展使用范围，开发者抗议 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/): Devs sound alarm after Microsoft subtracts C/C++ extension from VS Code forks</small>
-
-
-| 🔥: 77 \| 💬: [72](https://news.ycombinator.com/item?id=43788125) \| 🗓️ 2025-04-24
+| 🔥: 79 \| 💬: [31](https://news.ycombinator.com/item?id=43788053) \| 🗓️ 2025-04-24
 
 
 <br />
-微软近期更新了**VS Code**的**C/C++扩展**（v1.24.5），禁止其在衍生编辑器（如**VS Codium**和**Cursor**）中运行，仅限微软自家产品使用。此举导致开发者工作流中断，并引发垄断争议。Cursor已计划转向开源替代方案，而部分开发者向美国联邦贸易委员会投诉微软**不公平竞争**。微软此前许可条款已限制扩展使用，但此次是首次通过技术手段强制执行。
+美国劳伦斯伯克利国家实验室与多国团队合作，在《自然·催化》发表成果，开发出一种基于**钙钛矿**和**铜**的人工光合作用系统。该系统仅需阳光就能将二氧化碳转化为**C2化学品**（塑料、航空燃料等的前体），尺寸仅邮票大小。这项突破属于“液态阳光联盟”（LiSA）项目，通过模拟植物叶片的光合作用机制，采用无机材料铜替代生物酶，提升了系统的稳定性和寿命。未来研究将聚焦提高效率与扩大规模，推动太阳能燃料的实用化。
 
 ---
 
-## <a name="17"></a>17. AI领域的收购、整合与创新 
+## <a name="19"></a>19. 成为伟大设计师无需名声加持 
+<small>🔗 [chrbutler.com](https://www.chrbutler.com/you-can-be-a-great-designer-and-be-completely-unknown): You Can Be a Great Designer and Be Completely Unknown</small>
+
+
+| 🔥: 76 \| 💬: [28](https://news.ycombinator.com/item?id=43787676) \| 🗓️ 2025-04-24
+
+
+<br />
+克里斯托弗·巴特勒指出，**设计伟大与否与知名度无关**。达·芬奇等传奇人物让人误以为天才极其罕见，但事实上，**未被认可的卓越设计无处不在**——从符合人体工学的削皮器到清晰的医疗系统界面。当代社会将曝光度等同于价值，导致设计为吸引眼球而牺牲实用性（如特斯拉Cybertruck）。真正的设计应**以解决问题为核心**，而非追求奖项或粉丝。那些默默无闻的设计师可能创造了最精妙的解决方案，却因设计过于自然流畅而隐于无形。**伟大设计的标准是功能而非名声**。
+
+---
+
+## <a name="20"></a>20. AI领域的收购、整合与创新 
 <small>🔗 [frontierai.substack.com](https://frontierai.substack.com/p/acquisitions-consolidation-and-innovation): Acquisitions, consolidation, and innovation in AI</small>
 
 
@@ -227,35 +263,11 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 
 ---
 
-## <a name="18"></a>18. IBM z17 内部探秘：新一代大型机的技术亮点 
-<small>🔗 [community.ibm.com](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/elizabeth-k-joseph1/2025/04/23/a-tour-inside-the-ibm-z17?communityKey=e7b7d299-8509-4572-8cf1-c1112684644f): A Tour Inside the IBM Z17</small>
-
-
-| 🔥: 66 \| 💬: [105](https://news.ycombinator.com/item?id=43783997) \| 🗓️ 2025-04-24
-
-
-<br />
-IBM 最新发布的 **z17** 大型机延续了前代 z16 的 19 英寸机架设计，支持 1 至 4 个机架配置，最高可搭载 **64TB 内存**（较 z16 提升 60%）。其核心为 **Telum II 处理器**，配备 8 个 5.5GHz 高性能核心、AI 加速单元（算力提升 4 倍）及低延迟 **DPU**（重构 I/O 子系统）。此外，专为 AI 负载设计的 **Spyre Accelerator** 采用 5nm 工艺，集成 32 个加速核心。IBM 同步发布了详细的技术指南和红皮书，供开发者深入探索。
-
----
-
-## <a name="19"></a>19. 科学家研发人工树叶，利用阳光生产高价值化学品 
-<small>🔗 [newscenter.lbl.gov](https://newscenter.lbl.gov/2025/04/24/scientists-develop-artificial-leaf-that-uses-sunlight-to-produce-valuable-chemicals/): Scientists Develop Artificial Leaf, Uses Sunlight to Produce Valuable Chemicals</small>
-
-
-| 🔥: 66 \| 💬: [26](https://news.ycombinator.com/item?id=43788053) \| 🗓️ 2025-04-24
-
-
-<br />
-美国劳伦斯伯克利国家实验室与多国团队合作，在《自然·催化》发表成果，开发出一种基于**钙钛矿**和**铜**的人工光合作用系统。该系统仅需阳光就能将二氧化碳转化为**C2化学品**（塑料、航空燃料等的前体），尺寸仅邮票大小。这项突破属于“液态阳光联盟”（LiSA）项目，通过模拟植物叶片的光合作用机制，采用无机材料铜替代生物酶，提升了系统的稳定性和寿命。未来研究将聚焦提高效率与扩大规模，推动太阳能燃料的实用化。
-
----
-
-## <a name="20"></a>20. 我逆向工程顶级网站，打造了一个动画UI库 
+## <a name="21"></a>21. 我逆向工程顶级网站，打造了一个动画UI库 
 <small>🔗 [reverseui.com](https://reverseui.com): Show HN: I reverse engineered top websites to build an animated UI library</small>
 
 
-| 🔥: 64 \| 💬: [27](https://news.ycombinator.com/item?id=43785464) \| 🗓️ 2025-04-24
+| 🔥: 69 \| 💬: [32](https://news.ycombinator.com/item?id=43785464) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -263,11 +275,23 @@ IBM 最新发布的 **z17** 大型机延续了前代 z16 的 19 英寸机架设�
 
 ---
 
-## <a name="21"></a>21. 构建类型安全的领域特定搜索语言：一种原则性方法 
+## <a name="22"></a>22. IBM z17 内部探秘：新一代大型机的技术亮点 
+<small>🔗 [community.ibm.com](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/elizabeth-k-joseph1/2025/04/23/a-tour-inside-the-ibm-z17?communityKey=e7b7d299-8509-4572-8cf1-c1112684644f): A Tour Inside the IBM Z17</small>
+
+
+| 🔥: 68 \| 💬: [105](https://news.ycombinator.com/item?id=43783997) \| 🗓️ 2025-04-24
+
+
+<br />
+IBM 最新发布的 **z17** 大型机延续了前代 z16 的 19 英寸机架设计，支持 1 至 4 个机架配置，最高可搭载 **64TB 内存**（较 z16 提升 60%）。其核心为 **Telum II 处理器**，配备 8 个 5.5GHz 高性能核心、AI 加速单元（算力提升 4 倍）及低延迟 **DPU**（重构 I/O 子系统）。此外，专为 AI 负载设计的 **Spyre Accelerator** 采用 5nm 工艺，集成 32 个加速核心。IBM 同步发布了详细的技术指南和红皮书，供开发者深入探索。
+
+---
+
+## <a name="23"></a>23. 构建类型安全的领域特定搜索语言：一种原则性方法 
 <small>🔗 [claudiu-ivan.com](https://www.claudiu-ivan.com/writing/search-dsl): A Principled Approach to Querying Data – A Type-Safe Search DSL</small>
 
 
-| 🔥: 63 \| 💬: [7](https://news.ycombinator.com/item?id=43784200) \| 🗓️ 2025-04-24
+| 🔥: 64 \| 💬: [7](https://news.ycombinator.com/item?id=43784200) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -275,11 +299,11 @@ IBM 最新发布的 **z17** 大型机延续了前代 z16 的 19 英寸机架设�
 
 ---
 
-## <a name="22"></a>22. Alphabet 2025年第一季度财报概览 
+## <a name="24"></a>24. Alphabet 2025年第一季度财报概览 
 <small>🔗 [abc.xyz](https://abc.xyz/assets/34/fa/ee06f3de4338b99acffc5c229d9f/2025q1-alphabet-earnings-release.pdf): Alphabet Q1 2025 Earnings [pdf]</small>
 
 
-| 🔥: 57 \| 💬: [24](https://news.ycombinator.com/item?id=43786956) \| 🗓️ 2025-04-24
+| 🔥: 59 \| 💬: [24](https://news.ycombinator.com/item?id=43786956) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -287,38 +311,14 @@ IBM 最新发布的 **z17** 大型机延续了前代 z16 的 19 英寸机架设�
 
 ---
 
-## <a name="23"></a>23. Infat：macOS 声明式文件与URL关联管理工具 
+## <a name="25"></a>25. Infat：macOS 声明式文件与URL关联管理工具 
 <small>🔗 [github.com](https://github.com/philocalyst/infat): Show HN: Infat – Declaritive application assocation manager for macOS</small>
 
 
-| 🔥: 51 \| 💬: [18](https://news.ycombinator.com/item?id=43785350) \| 🗓️ 2025-04-24
+| 🔥: 52 \| 💬: [20](https://news.ycombinator.com/item?id=43785350) \| 🗓️ 2025-04-24
 
 
 <br />
 Infat 是一款 **macOS 原生命令行工具**，用于通过 **声明式配置** 管理文件类型和 URL 协议的默认打开应用。用户无需反复手动设置，只需通过 TOML 配置文件（支持 `[files]` 和 `[schemes]` 表）即可批量绑定应用，例如指定 `TextEdit` 打开 `.md` 文件或 `Safari` 处理 `web` 链接。工具支持 **脚本化操作**（如 `infat set` 命令）、详细日志调试，并基于 macOS 原生 API 实现稳定集成。可通过 Homebrew 或源码安装，遵循 MIT 开源协议，适合开发者和系统管理员使用。
-
----
-
-## <a name="24"></a>24. 自制TRMNL电子墨水终端：从硬件破解到云端服务集成 
-<small>🔗 [stavros.io](https://www.stavros.io/posts/making-a-trmnl-device/): Show HN: I made my own TRMNL e-ink device</small>
-
-
-| 🔥: 49 \| 💬: [21](https://news.ycombinator.com/item?id=43781465) \| 🗓️ 2025-04-24
-
-
-<br />
-作者因痴迷**电子墨水屏**，在预购TRMNL设备（一款电池驱动的云端图像推送终端）后，因交货周期长决定自行组装。他花费约80美元采购Waveshare 7.5英寸屏和ESP32驱动板，通过改造**TRMNL开源固件**（适配引脚定义并移除电池/按钮支持），成功实现与官方服务的对接（需购买50美元BYOD许可）。最终成果通过3D打印外壳呈现，并计划改用木质底座优化外观。作者强调该方案**兼顾低成本与快速部署**，同时为TRMNL生态拓展了硬件兼容性。
-
----
-
-## <a name="25"></a>25. 有人误打误撞省了50万美元 
-<small>🔗 [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/): Someoen accidentally saved half a million-dollars</small>
-
-
-| 🔥: 43 \| 💬: [4](https://news.ycombinator.com/item?id=43780520) \| 🗓️ 2025-04-24
-
-
-<br />
-一名员工通过**点击五个按钮**，在五分钟内为公司节省了50万美元。原因是公司耗资百万搭建的“高级分析平台”（**AAP**）存在严重技术债务：数据库闲置时间过长、流程冗余且漏洞百出。尽管此举暴露了管理层长期的低效与谎言，作者却因“破坏部门政治平衡”而陷入更多会议和PPT汇报。**最终教训**：在这种环境中，解决问题反而会招致惩罚。
 
 ---
