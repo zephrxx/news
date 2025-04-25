@@ -12,11 +12,11 @@ tags:
 1. 我给GPLv2许可证通知中的地址写了封信（2022年）；
 1. 扎克伯格：社交媒体时代已终结；
 1. 职场忠诚度的真相；
-1. 社交平台的算法共识操控；
+1. DuckDB推出即时SQL功能：输入即得结果，颠覆传统查询体验；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共22条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [pluralistic.net](https://pluralistic.net/2025/04/23/zuckerstreisand/#zdgaf): Careless People</small>
 
 
-| 🔥🔥: 737 \| 💬: [392](https://news.ycombinator.com/item?id=43780363) \| 🗓️ 2025-04-24
+| 🔥🔥: 749 \| 💬: [397](https://news.ycombinator.com/item?id=43780363) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [code.mendhak.com](https://code.mendhak.com/gpl-v2-address-letter/): I wrote to the address in the GPLv2 license notice (2022)</small>
 
 
-| 🔥🔥: 525 \| 💬: [434](https://news.ycombinator.com/item?id=43781888) \| 🗓️ 2025-04-24
+| 🔥🔥: 545 \| 💬: [443](https://news.ycombinator.com/item?id=43781888) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [newyorker.com](https://www.newyorker.com/culture/infinite-scroll/mark-zuckerberg-says-social-media-is-over): Mark Zuckerberg says social media is over</small>
 
 
-| 🔥🔥: 374 \| 💬: [688](https://news.ycombinator.com/item?id=43780377) \| 🗓️ 2025-04-24
+| 🔥🔥: 400 \| 💬: [710](https://news.ycombinator.com/item?id=43780377) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [medium.com](https://medium.com/hackernoon/on-loyalty-to-your-employer-c674c4b06b3a): On loyalty to your employer (2018)</small>
 
 
-| 🔥🔥: 374 \| 💬: [401](https://news.ycombinator.com/item?id=43780815) \| 🗓️ 2025-04-24
+| 🔥🔥: 375 \| 💬: [403](https://news.ycombinator.com/item?id=43780815) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -71,23 +71,11 @@ tags:
 
 ---
 
-## <a name="5"></a>5. 社交平台的算法共识操控 
-<small>🔗 [rook2root.co](https://rook2root.co/articles/20250424-manufacturing-consensus-on-x): Manufactured consensus on x.com</small>
-
-
-| 🔥🔥: 257 \| 💬: [207](https://news.ycombinator.com/item?id=43784915) \| 🗓️ 2025-04-24
-
-
-<br />
-在X.com等平台上，**算法权威**和影响力用户通过互动信号（如点赞、静默）悄然操控内容可见性。**高权重账户**的轻微互动即可触发内容被压制或推广，制造**虚假共识**。这种机制无需删帖，仅通过优先级调整就能扭曲公众认知，引导舆论走向。真正的共识沦为算法筛选的幸存者，而用户却误以为自己在自由选择。
-
----
-
-## <a name="6"></a>6. DuckDB推出即时SQL功能：输入即得结果，颠覆传统查询体验 
+## <a name="5"></a>5. DuckDB推出即时SQL功能：输入即得结果，颠覆传统查询体验 
 <small>🔗 [motherduck.com](https://motherduck.com/blog/introducing-instant-sql/): Instant SQL for results as you type in DuckDB UI</small>
 
 
-| 🔥🔥: 254 \| 💬: [86](https://news.ycombinator.com/item?id=43782406) \| 🗓️ 2025-04-24
+| 🔥🔥: 265 \| 💬: [89](https://news.ycombinator.com/item?id=43782406) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -95,11 +83,23 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 
 ---
 
+## <a name="6"></a>6. 社交平台的算法共识操控 
+<small>🔗 [rook2root.co](https://rook2root.co/articles/20250424-manufacturing-consensus-on-x): Manufactured consensus on x.com</small>
+
+
+| 🔥🔥: 264 \| 💬: [214](https://news.ycombinator.com/item?id=43784915) \| 🗓️ 2025-04-24
+
+
+<br />
+在X.com等平台上，**算法权威**和影响力用户通过互动信号（如点赞、静默）悄然操控内容可见性。**高权重账户**的轻微互动即可触发内容被压制或推广，制造**虚假共识**。这种机制无需删帖，仅通过优先级调整就能扭曲公众认知，引导舆论走向。真正的共识沦为算法筛选的幸存者，而用户却误以为自己在自由选择。
+
+---
+
 ## <a name="7"></a>7. 氢原子自旋翻转：宇宙的21厘米魔法波长 
 <small>🔗 [bigthink.com](https://bigthink.com/starts-with-a-bang/21cm-magic-length/): One quantum transition makes light at 21 cm</small>
 
 
-| 🔥🔥: 180 \| 💬: [117](https://news.ycombinator.com/item?id=43784721) \| 🗓️ 2025-04-24
+| 🔥🔥: 185 \| 💬: [121](https://news.ycombinator.com/item?id=43784721) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -111,7 +111,7 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 <small>🔗 [web.stanford.edu](https://web.stanford.edu/class/ee26n/Assignments/Assignment5.html): Assignment 5: Cars and Key Fobs</small>
 
 
-| 🔥🔥: 175 \| 💬: [155](https://news.ycombinator.com/item?id=43780876) \| 🗓️ 2025-04-24
+| 🔥🔥: 179 \| 💬: [157](https://news.ycombinator.com/item?id=43780876) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -123,7 +123,7 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 <small>🔗 [fedify.dev](https://fedify.dev/tutorial/microblog): Creating your own federated microblog</small>
 
 
-| 🔥🔥: 148 \| 💬: [32](https://news.ycombinator.com/item?id=43780785) \| 🗓️ 2025-04-24
+| 🔥🔥: 155 \| 💬: [33](https://news.ycombinator.com/item?id=43780785) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -135,7 +135,7 @@ DuckDB发布**即时SQL**功能，用户输入SQL时可**实时预览结果**，
 <small>🔗 [status.open-vsx.org](https://status.open-vsx.org/): OpenVSX, which VSCode forks rely on for extensions, down for 24 hours</small>
 
 
-| 🔥🔥: 104 \| 💬: [31](https://news.ycombinator.com/item?id=43785039) \| 🗓️ 2025-04-24
+| 🔥🔥: 116 \| 💬: [39](https://news.ycombinator.com/item?id=43785039) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -147,7 +147,7 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 <small>🔗 [ssp.sh](https://www.ssp.sh/blog/why-using-neovim-data-engineer-and-writer-2023/): Vim Language, Motions, and Modes Explained (2023)</small>
 
 
-| 🔥🔥: 103 \| 💬: [95](https://news.ycombinator.com/item?id=43780682) \| 🗓️ 2025-04-24
+| 🔥🔥: 104 \| 💬: [95](https://news.ycombinator.com/item?id=43780682) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -159,7 +159,7 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 <small>🔗 [bitsnbites.eu](https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/): Three Fundamental Flaws of SIMD ISAs (2023)</small>
 
 
-| 🔥: 94 \| 💬: [53](https://news.ycombinator.com/item?id=43783416) \| 🗓️ 2025-04-24
+| 🔥: 94 \| 💬: [59](https://news.ycombinator.com/item?id=43783416) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -171,7 +171,7 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 <small>🔗 [afina.com](https://afina.com/blogs/news/made-in-usa): Everyone Says They'll Pay More for "Made in the USA" So We Ran an A/B Test</small>
 
 
-| 🔥: 85 \| 💬: [83](https://news.ycombinator.com/item?id=43787647) \| 🗓️ 2025-04-24
+| 🔥: 93 \| 💬: [92](https://news.ycombinator.com/item?id=43787647) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -195,7 +195,7 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 <small>🔗 [frontierai.substack.com](https://frontierai.substack.com/p/acquisitions-consolidation-and-innovation): Acquisitions, consolidation, and innovation in AI</small>
 
 
-| 🔥: 74 \| 💬: [36](https://news.ycombinator.com/item?id=43785919) \| 🗓️ 2025-04-24
+| 🔥: 74 \| 💬: [37](https://news.ycombinator.com/item?id=43785919) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -203,11 +203,23 @@ OpenVSX（为多款**VSCode分支编辑器**提供扩展支持的服务）因**�
 
 ---
 
-## <a name="16"></a>16. IBM z17 内部探秘：新一代大型机的技术亮点 
+## <a name="16"></a>16. 微软限制C/C++扩展使用范围，开发者抗议 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/04/24/microsoft_vs_code_subtracts_cc_extension/): Devs sound alarm after Microsoft subtracts C/C++ extension from VS Code forks</small>
+
+
+| 🔥: 67 \| 💬: [56](https://news.ycombinator.com/item?id=43788125) \| 🗓️ 2025-04-24
+
+
+<br />
+微软近期更新了**VS Code**的**C/C++扩展**（v1.24.5），禁止其在衍生编辑器（如**VS Codium**和**Cursor**）中运行，仅限微软自家产品使用。此举导致开发者工作流中断，并引发垄断争议。Cursor已计划转向开源替代方案，而部分开发者向美国联邦贸易委员会投诉微软**不公平竞争**。微软此前许可条款已限制扩展使用，但此次是首次通过技术手段强制执行。
+
+---
+
+## <a name="17"></a>17. IBM z17 内部探秘：新一代大型机的技术亮点 
 <small>🔗 [community.ibm.com](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/elizabeth-k-joseph1/2025/04/23/a-tour-inside-the-ibm-z17?communityKey=e7b7d299-8509-4572-8cf1-c1112684644f): A Tour Inside the IBM Z17</small>
 
 
-| 🔥: 65 \| 💬: [86](https://news.ycombinator.com/item?id=43783997) \| 🗓️ 2025-04-24
+| 🔥: 66 \| 💬: [100](https://news.ycombinator.com/item?id=43783997) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -215,11 +227,23 @@ IBM 最新发布的 **z17** 大型机延续了前代 z16 的 19 英寸机架设�
 
 ---
 
-## <a name="17"></a>17. 构建类型安全的领域特定搜索语言：一种原则性方法 
+## <a name="18"></a>18. 国家空域系统状态 
+<small>🔗 [nasstatus.faa.gov](https://nasstatus.faa.gov/): National Airspace System Status</small>
+
+
+| 🔥: 63 \| 💬: [7](https://news.ycombinator.com/item?id=43787730) \| 🗓️ 2025-04-24
+
+
+<br />
+该页面提示用户需**启用JavaScript**才能运行应用，但未提供具体功能或内容描述。核心信息仅强调技术依赖项，未涉及空域状态、航班动态等预期数据。可能为实时监控系统的入口界面，需进一步交互才能获取**关键空域信息**。当前内容无法判断系统实际状态或服务范围。
+
+---
+
+## <a name="19"></a>19. 构建类型安全的领域特定搜索语言：一种原则性方法 
 <small>🔗 [claudiu-ivan.com](https://www.claudiu-ivan.com/writing/search-dsl): A Principled Approach to Querying Data – A Type-Safe Search DSL</small>
 
 
-| 🔥: 58 \| 💬: [7](https://news.ycombinator.com/item?id=43784200) \| 🗓️ 2025-04-24
+| 🔥: 60 \| 💬: [7](https://news.ycombinator.com/item?id=43784200) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -227,11 +251,11 @@ IBM 最新发布的 **z17** 大型机延续了前代 z16 的 19 英寸机架设�
 
 ---
 
-## <a name="18"></a>18. Alphabet 2025年第一季度财报概览 
+## <a name="20"></a>20. Alphabet 2025年第一季度财报概览 
 <small>🔗 [abc.xyz](https://abc.xyz/assets/34/fa/ee06f3de4338b99acffc5c229d9f/2025q1-alphabet-earnings-release.pdf): Alphabet Q1 2025 Earnings [pdf]</small>
 
 
-| 🔥: 56 \| 💬: [24](https://news.ycombinator.com/item?id=43786956) \| 🗓️ 2025-04-24
+| 🔥: 57 \| 💬: [23](https://news.ycombinator.com/item?id=43786956) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -239,11 +263,11 @@ IBM 最新发布的 **z17** 大型机延续了前代 z16 的 19 英寸机架设�
 
 ---
 
-## <a name="19"></a>19. 我逆向工程顶级网站，打造了一个动画UI库 
+## <a name="21"></a>21. 我逆向工程顶级网站，打造了一个动画UI库 
 <small>🔗 [reverseui.com](https://reverseui.com): Show HN: I reverse engineered top websites to build an animated UI library</small>
 
 
-| 🔥: 50 \| 💬: [20](https://news.ycombinator.com/item?id=43785464) \| 🗓️ 2025-04-24
+| 🔥: 56 \| 💬: [22](https://news.ycombinator.com/item?id=43785464) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -251,11 +275,11 @@ IBM 最新发布的 **z17** 大型机延续了前代 z16 的 19 英寸机架设�
 
 ---
 
-## <a name="20"></a>20. 自制TRMNL电子墨水终端：从硬件破解到云端服务集成 
+## <a name="22"></a>22. 自制TRMNL电子墨水终端：从硬件破解到云端服务集成 
 <small>🔗 [stavros.io](https://www.stavros.io/posts/making-a-trmnl-device/): Show HN: I made my own TRMNL e-ink device</small>
 
 
-| 🔥: 47 \| 💬: [21](https://news.ycombinator.com/item?id=43781465) \| 🗓️ 2025-04-24
+| 🔥: 48 \| 💬: [21](https://news.ycombinator.com/item?id=43781465) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -263,11 +287,11 @@ IBM 最新发布的 **z17** 大型机延续了前代 z16 的 19 英寸机架设�
 
 ---
 
-## <a name="21"></a>21. Infat：macOS 声明式文件与URL关联管理工具 
+## <a name="23"></a>23. Infat：macOS 声明式文件与URL关联管理工具 
 <small>🔗 [github.com](https://github.com/philocalyst/infat): Show HN: Infat – Declaritive application assocation manager for macOS</small>
 
 
-| 🔥: 47 \| 💬: [16](https://news.ycombinator.com/item?id=43785350) \| 🗓️ 2025-04-24
+| 🔥: 48 \| 💬: [16](https://news.ycombinator.com/item?id=43785350) \| 🗓️ 2025-04-24
 
 
 <br />
@@ -275,7 +299,7 @@ Infat 是一款 **macOS 原生命令行工具**，用于通过 **声明式配置
 
 ---
 
-## <a name="22"></a>22. 有人误打误撞省了50万美元 
+## <a name="24"></a>24. 有人误打误撞省了50万美元 
 <small>🔗 [ludic.mataroa.blog](https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/): Someoen accidentally saved half a million-dollars</small>
 
 
