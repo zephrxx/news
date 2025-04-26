@@ -27,7 +27,7 @@ tags:
 <small>🔗 [theverge.com](https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos): A $20k American-made electric pickup with no paint, no stereo, no screen</small>
 
 
-| 🔥🔥: 960 \| 💬: [883](https://news.ycombinator.com/item?id=43794284) \| 🗓️ 2025-04-25
+| 🔥🔥: 1005 \| 💬: [902](https://news.ycombinator.com/item?id=43794284) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -39,7 +39,7 @@ Slate Auto推出了一款**极简主义电动皮卡**，售价低于2万美元�
 <small>🔗 [apnews.com](https://apnews.com/article/immigration-judge-arrested-7997186bbca5730e70a25f2347e631f6): FBI arrests judge accused of helping man evade immigration authorities</small>
 
 
-| 🔥🔥: 918 \| 💬: [821](https://news.ycombinator.com/item?id=43794576) \| 🗓️ 2025-04-25
+| 🔥🔥: 922 \| 💬: [836](https://news.ycombinator.com/item?id=43794576) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -51,7 +51,7 @@ Slate Auto推出了一款**极简主义电动皮卡**，售价低于2万美元�
 <small>🔗 [scalewithlee.substack.com](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack): Writing "/etc/hosts" breaks the Substack editor</small>
 
 
-| 🔥🔥: 482 \| 💬: [276](https://news.ycombinator.com/item?id=43793526) \| 🗓️ 2025-04-25
+| 🔥🔥: 489 \| 💬: [279](https://news.ycombinator.com/item?id=43793526) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -63,7 +63,7 @@ Slate Auto推出了一款**极简主义电动皮卡**，售价低于2万美元�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2504.11651): Lossless LLM compression for efficient GPU inference via dynamic-length float</small>
 
 
-| 🔥🔥: 273 \| 💬: [90](https://news.ycombinator.com/item?id=43796935) \| 🗓️ 2025-04-25
+| 🔥🔥: 280 \| 💬: [94](https://news.ycombinator.com/item?id=43796935) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -75,7 +75,7 @@ Slate Auto推出了一款**极简主义电动皮卡**，售价低于2万美元�
 <small>🔗 [mitxela.com](https://mitxela.com/projects/euroknob): Eurorack Knob Idea</small>
 
 
-| 🔥🔥: 247 \| 💬: [96](https://news.ycombinator.com/item?id=43793288) \| 🗓️ 2025-04-25
+| 🔥🔥: 252 \| 💬: [97](https://news.ycombinator.com/item?id=43793288) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -83,11 +83,23 @@ Slate Auto推出了一款**极简主义电动皮卡**，售价低于2万美元�
 
 ---
 
-## <a name="6"></a>6. AI时代如何避免技能退化 
+## <a name="6"></a>6. 华盛顿检方质疑维基百科非营利组织资格 
+<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/): Wikipedia’s nonprofit status questioned by D.C. U.S. attorney</small>
+
+
+| 🔥🔥: 235 \| 💬: [191](https://news.ycombinator.com/item?id=43799302) \| 🗓️ 2025-04-25
+
+
+<br />
+美国华盛顿特区代理检察官埃德·马丁致信**维基媒体基金会**，指控其作为免税非营利组织，**纵容外国势力操纵内容**并传播对美 propaganda，可能违反501(c)(3)条款。信中要求基金会说明编辑审核机制及反干预措施。此事与特朗普政府近期针对自由派机构的行动相呼应，保守派长期批评维基百科存在**左倾偏见**。基金会回应称平台内容由全球志愿者协作确保中立，未直接回应指控。马丁此前曾质疑其他机构，其本人与俄罗斯媒体的关联亦受争议。
+
+---
+
+## <a name="7"></a>7. AI时代如何避免技能退化 
 <small>🔗 [addyo.substack.com](https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age): Avoiding skill atrophy in the age of AI</small>
 
 
-| 🔥🔥: 214 \| 💬: [233](https://news.ycombinator.com/item?id=43791474) \| 🗓️ 2025-04-25
+| 🔥🔥: 216 \| 💬: [233](https://news.ycombinator.com/item?id=43791474) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -95,27 +107,15 @@ Slate Auto推出了一款**极简主义电动皮卡**，售价低于2万美元�
 
 ---
 
-## <a name="7"></a>7. GCC 15.1 正式发布：重大更新与致谢 
+## <a name="8"></a>8. GCC 15.1 正式发布：重大更新与致谢 
 <small>🔗 [gcc.gnu.org](https://gcc.gnu.org/gcc-15/): GCC 15.1</small>
 
 
-| 🔥🔥: 199 \| 💬: [120](https://news.ycombinator.com/item?id=43792248) \| 🗓️ 2025-04-25
+| 🔥🔥: 208 \| 💬: [120](https://news.ycombinator.com/item?id=43792248) \| 🗓️ 2025-04-25
 
 
 <br />
 GCC开发团队于2025年4月25日发布了**GCC 15.1**，这是继GCC 14.x后的**重大版本更新**，包含多项新功能和改进。GCC原名“GNU C编译器”，现因支持多语言更名为**GNU编译器集合**。团队特别感谢全球贡献者的代码、测试与反馈，并推荐通过官网、镜像站或邮件列表获取帮助。本文档允许自由转载，但需保留版权声明。
-
----
-
-## <a name="8"></a>8. 华盛顿检方质疑维基百科非营利组织资格 
-<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/): Wikipedia’s nonprofit status questioned by D.C. U.S. attorney</small>
-
-
-| 🔥🔥: 192 \| 💬: [164](https://news.ycombinator.com/item?id=43799302) \| 🗓️ 2025-04-25
-
-
-<br />
-美国华盛顿特区代理检察官埃德·马丁致信**维基媒体基金会**，指控其作为免税非营利组织，**纵容外国势力操纵内容**并传播对美 propaganda，可能违反501(c)(3)条款。信中要求基金会说明编辑审核机制及反干预措施。此事与特朗普政府近期针对自由派机构的行动相呼应，保守派长期批评维基百科存在**左倾偏见**。基金会回应称平台内容由全球志愿者协作确保中立，未直接回应指控。马丁此前曾质疑其他机构，其本人与俄罗斯媒体的关联亦受争议。
 
 ---
 
@@ -135,7 +135,7 @@ GCC开发团队于2025年4月25日发布了**GCC 15.1**，这是继GCC 14.x后�
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-01266-x): Reproducibility project fails to validate dozens of biomedical studies</small>
 
 
-| 🔥🔥: 131 \| 💬: [81](https://news.ycombinator.com/item?id=43795300) \| 🗓️ 2025-04-25
+| 🔥🔥: 143 \| 💬: [83](https://news.ycombinator.com/item?id=43795300) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -147,7 +147,7 @@ GCC开发团队于2025年4月25日发布了**GCC 15.1**，这是继GCC 14.x后�
 <small>🔗 [github.com](https://github.com/magnitudedev/magnitude): Show HN: Magnitude – open-source, AI-native test framework for web apps</small>
 
 
-| 🔥🔥: 122 \| 💬: [31](https://news.ycombinator.com/item?id=43796003) \| 🗓️ 2025-04-25
+| 🔥🔥: 128 \| 💬: [31](https://news.ycombinator.com/item?id=43796003) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -155,59 +155,11 @@ Magnitude是一款**开源AI原生测试框架**，专为Web应用设计，结�
 
 ---
 
-## <a name="12"></a>12. BugStalker：一款专为Rust设计的现代调试工具 
-<small>🔗 [github.com](https://github.com/godzie44/BugStalker): Show HN: BugStalker - a modern Rust debugger</small>
-
-
-| 🔥🔥: 105 \| 💬: [15](https://news.ycombinator.com/item?id=43793627) \| 🗓️ 2025-04-25
-
-
-<br />
-BugStalker是一款针对**Linux x86-64平台**的**Rust原生调试器**，专注于简化调试流程并深度集成Rust特性。支持**断点调试、多线程应用检查**和**Tokio运行时分析**，提供控制台与TUI双模式切换。其扩展架构允许通过Oracle机制增强功能，且内置无需代码修改的Tokio监控工具。项目采用MIT协议开源，目前获723星标，欢迎开发者贡献代码或提出建议。
-
----
-
-## <a name="13"></a>13. Curry：一种融合函数式与逻辑编程的多范式语言 
-<small>🔗 [curry-lang.org](https://curry-lang.org/): Curry: A functional logic programming language</small>
-
-
-| 🔥🔥: 104 \| 💬: [20](https://news.ycombinator.com/item?id=43797212) \| 🗓️ 2025-04-25
-
-
-<br />
-Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编程**（嵌套表达式、高阶函数、强类型、惰性求值）和**逻辑编程**（非确定性、内置搜索、自由变量、部分数据结构）的特性。其核心优势包括纯声明式设计、自动类型推断、非确定性操作支持，以及通过自由变量实现灵活的模式匹配。Curry的开发由国际社区推动，提供PAKCS等编译器、包管理工具CPM及API搜索引擎Curr(y)gle，适用于教学与研究。
-
----
-
-## <a name="14"></a>14. 大语言模型对劳动力市场影响有限 
-<small>🔗 [bfi.uchicago.edu](https://bfi.uchicago.edu/wp-content/uploads/2025/04/BFI_WP_2025-56-1.pdf): Large language models, small labor market effects [pdf]</small>
-
-
-| 🔥🔥: 103 \| 💬: [26](https://news.ycombinator.com/item?id=43791385) \| 🗓️ 2025-04-25
-
-
-<br />
-该研究探讨了**大语言模型**（如GPT等）对就业市场的实际影响，发现其替代效应目前较为有限。尽管这类技术在部分领域（如文案生成、客服等）展现出潜力，但整体上尚未对劳动力市场造成显著冲击。研究指出，**技术应用速度**和**职业适应性**是关键变量，而当前影响主要集中在**特定低技能岗位**。未来需持续观察技术与人力协作的长期趋势。
-
----
-
-## <a name="15"></a>15. 用Lean定理证明器形式化《数学原理》 
-<small>🔗 [github.com](https://github.com/ndrwnaguib/principia): Show HN: Formalizing Principia Mathematica using Lean</small>
-
-
-| 🔥: 100 \| 💬: [22](https://news.ycombinator.com/item?id=43797256) \| 🗓️ 2025-04-25
-
-
-<br />
-该项目旨在使用**Lean4**定理证明器对伯特兰·罗素的《数学原理》第一卷进行形式化验证，力求严格遵循原书逻辑。作者通过**元编程**复现了罗素独特的点记法（Peano-Russell notation），并开发了`Syll`战术来模拟原书的演绎推理链。尽管该形式化工作目前仅获8星关注，且存在更成熟的Coq版本，但作者认为此项目对理解数学基础构建极具启发意义。项目强调**严谨性**，每个定理均附带LaTeX片段与原书对照，未来或将继续形式化塔尔斯基的《逻辑、语义与元数学》。
-
----
-
-## <a name="16"></a>16. 用OpenAI图像API打造个性化填色书服务 
+## <a name="12"></a>12. 用OpenAI图像API打造个性化填色书服务 
 <small>🔗 [clevercoloringbook.com](https://clevercoloringbook.com/): Show HN: I used OpenAI's new image API for a personalized coloring book service</small>
 
 
-| 🔥: 94 \| 💬: [48](https://news.ycombinator.com/item?id=43791992) \| 🗓️ 2025-04-25
+| 🔥🔥: 113 \| 💬: [58](https://news.ycombinator.com/item?id=43791992) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -215,11 +167,59 @@ Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编
 
 ---
 
+## <a name="13"></a>13. Curry：一种融合函数式与逻辑编程的多范式语言 
+<small>🔗 [curry-lang.org](https://curry-lang.org/): Curry: A functional logic programming language</small>
+
+
+| 🔥🔥: 108 \| 💬: [22](https://news.ycombinator.com/item?id=43797212) \| 🗓️ 2025-04-25
+
+
+<br />
+Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编程**（嵌套表达式、高阶函数、强类型、惰性求值）和**逻辑编程**（非确定性、内置搜索、自由变量、部分数据结构）的特性。其核心优势包括纯声明式设计、自动类型推断、非确定性操作支持，以及通过自由变量实现灵活的模式匹配。Curry的开发由国际社区推动，提供PAKCS等编译器、包管理工具CPM及API搜索引擎Curr(y)gle，适用于教学与研究。
+
+---
+
+## <a name="14"></a>14. BugStalker：一款专为Rust设计的现代调试工具 
+<small>🔗 [github.com](https://github.com/godzie44/BugStalker): Show HN: BugStalker - a modern Rust debugger</small>
+
+
+| 🔥🔥: 107 \| 💬: [15](https://news.ycombinator.com/item?id=43793627) \| 🗓️ 2025-04-25
+
+
+<br />
+BugStalker是一款针对**Linux x86-64平台**的**Rust原生调试器**，专注于简化调试流程并深度集成Rust特性。支持**断点调试、多线程应用检查**和**Tokio运行时分析**，提供控制台与TUI双模式切换。其扩展架构允许通过Oracle机制增强功能，且内置无需代码修改的Tokio监控工具。项目采用MIT协议开源，目前获723星标，欢迎开发者贡献代码或提出建议。
+
+---
+
+## <a name="15"></a>15. 大语言模型对劳动力市场影响有限 
+<small>🔗 [bfi.uchicago.edu](https://bfi.uchicago.edu/wp-content/uploads/2025/04/BFI_WP_2025-56-1.pdf): Large language models, small labor market effects [pdf]</small>
+
+
+| 🔥🔥: 106 \| 💬: [26](https://news.ycombinator.com/item?id=43791385) \| 🗓️ 2025-04-25
+
+
+<br />
+该研究探讨了**大语言模型**（如GPT等）对就业市场的实际影响，发现其替代效应目前较为有限。尽管这类技术在部分领域（如文案生成、客服等）展现出潜力，但整体上尚未对劳动力市场造成显著冲击。研究指出，**技术应用速度**和**职业适应性**是关键变量，而当前影响主要集中在**特定低技能岗位**。未来需持续观察技术与人力协作的长期趋势。
+
+---
+
+## <a name="16"></a>16. 用Lean定理证明器形式化《数学原理》 
+<small>🔗 [github.com](https://github.com/ndrwnaguib/principia): Show HN: Formalizing Principia Mathematica using Lean</small>
+
+
+| 🔥🔥: 104 \| 💬: [25](https://news.ycombinator.com/item?id=43797256) \| 🗓️ 2025-04-25
+
+
+<br />
+该项目旨在使用**Lean4**定理证明器对伯特兰·罗素的《数学原理》第一卷进行形式化验证，力求严格遵循原书逻辑。作者通过**元编程**复现了罗素独特的点记法（Peano-Russell notation），并开发了`Syll`战术来模拟原书的演绎推理链。尽管该形式化工作目前仅获8星关注，且存在更成熟的Coq版本，但作者认为此项目对理解数学基础构建极具启发意义。项目强调**严谨性**，每个定理均附带LaTeX片段与原书对照，未来或将继续形式化塔尔斯基的《逻辑、语义与元数学》。
+
+---
+
 ## <a name="17"></a>17. 论文转代码：机器学习论文的自动化代码生成 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2504.17192): Paper2Code: Automating Code Generation from Scientific Papers</small>
 
 
-| 🔥: 78 \| 💬: [10](https://news.ycombinator.com/item?id=43796419) \| 🗓️ 2025-04-25
+| 🔥: 87 \| 💬: [11](https://news.ycombinator.com/item?id=43796419) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -231,7 +231,7 @@ Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编
 <small>🔗 [madebyoll.in](https://madebyoll.in/posts/world_emulation_via_dnn/): World Emulation via Neural Network</small>
 
 
-| 🔥: 73 \| 💬: [16](https://news.ycombinator.com/item?id=43798757) \| 🗓️ 2025-04-25
+| 🔥: 82 \| 💬: [16](https://news.ycombinator.com/item?id=43798757) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -239,7 +239,19 @@ Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编
 
 ---
 
-## <a name="19"></a>19. 从微观视角看美国财政：削减开支真的能减少国债吗？ 
+## <a name="19"></a>19. 《我曾写过一本叫〈烂城记〉的书，当时觉得挺好笑》 
+<small>🔗 [samj.substack.com](https://samj.substack.com/p/that-joke-isnt-funny-any-more): I wrote a book called "Crap Towns". It seemed funny at the time</small>
+
+
+| 🔥: 73 \| 💬: [33](https://news.ycombinator.com/item?id=43799820) \| 🗓️ 2025-04-25
+
+
+<br />
+作者回顾了2003年出版的《烂城记》，这本书通过网友提名和调侃，盘点英国最差城镇，意图以幽默引发对城市问题的讨论。如今，许多人认为该书在**当下政治敏感度**高涨的时代难以出版。作者反思了**幽默的边界**，承认书中尖锐的讽刺可能加剧了社会负面情绪，但也担忧当代对玩笑的过度审查会扼杀批判性思考。尽管部分人认为这类作品已过时，作者仍强调**自嘲式幽默**的价值——它能揭示真相，但需平衡善意与冒犯。
+
+---
+
+## <a name="20"></a>20. 从微观视角看美国财政：削减开支真的能减少国债吗？ 
 <small>🔗 [debtinperspective.com](https://www.debtinperspective.com/): A Scaled Down Look at Spending, Revenue, and What's Being Cut</small>
 
 
@@ -251,11 +263,11 @@ Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编
 
 ---
 
-## <a name="20"></a>20. D语言编程教程与参考手册 
+## <a name="21"></a>21. D语言编程教程与参考手册 
 <small>🔗 [ddili.org](https://ddili.org/ders/d.en/): Programming in D: Tutorial and Reference</small>
 
 
-| 🔥: 58 \| 💬: [23](https://news.ycombinator.com/item?id=43798009) \| 🗓️ 2025-04-25
+| 🔥: 66 \| 💬: [26](https://news.ycombinator.com/item?id=43798009) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -263,11 +275,23 @@ Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编
 
 ---
 
-## <a name="21"></a>21. 现代电子表格工具GS-Calc：支持Python集成与大数据处理 
+## <a name="22"></a>22. 用代码设计LED点阵PCB 
+<small>🔗 [docs.tscircuit.com](https://docs.tscircuit.com/tutorials/building-led-matrix): I designed my LED matrix PCB with code</small>
+
+
+| 🔥: 61 \| 💬: [25](https://news.ycombinator.com/item?id=43798832) \| 🗓️ 2025-04-25
+
+
+<br />
+本教程演示如何通过**Raspberry Pi Pico**和**WS2812B智能LED**构建3x5 WiFi可控点阵，适用于标牌、数据可视化等场景。核心步骤包括：使用`tscircuit`工具链式连接LED、通过**GP6引脚**控制数据流，并利用网格函数快速布局15颗LED。最终通过网页界面实现远程调光调色，所有电路设计均以代码生成，可直接导出PCB文件至JLCPCB生产。
+
+---
+
+## <a name="23"></a>23. 现代电子表格工具GS-Calc：支持Python集成与大数据处理 
 <small>🔗 [citadel5.com](https://citadel5.com/gs-calc.htm): Show HN: A modern spreadsheet with Python integration</small>
 
 
-| 🔥: 56 \| 💬: [7](https://news.ycombinator.com/item?id=43796898) \| 🗓️ 2025-04-25
+| 🔥: 60 \| 💬: [10](https://news.ycombinator.com/item?id=43796898) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -275,7 +299,19 @@ GS-Calc是一款**高性能电子表格软件**，专为处理**超大规模数�
 
 ---
 
-## <a name="22"></a>22. 如何快速配置新MacBook 
+## <a name="24"></a>24. 差分覆盖率调试法 
+<small>🔗 [research.swtch.com](https://research.swtch.com/diffcover): Differential Coverage for Debugging</small>
+
+
+| 🔥: 49 \| 💬: [5](https://news.ycombinator.com/item?id=43795090) \| 🗓️ 2025-04-25
+
+
+<br />
+本文介绍了一种高效的调试技术——**差分覆盖率**，通过对比成功与失败测试用例的代码覆盖率，快速定位问题代码。作者以Go语言测试为例，演示如何生成并分析覆盖率差异文件（`.prof`），**绿色标记**突出显示仅失败测试执行的代码（可疑区域），**红色标记**则表明未被失败测试覆盖的代码（可排除）。该方法在示例中精准定位了15,000行代码中的10行关键问题，尤其适合**数据依赖性错误**或**未触发常规逻辑**的故障。此外，单一测试的覆盖率分析也能辅助调试，直接关联错误路径。差分覆盖率虽非万能，但能显著缩小排查范围，提升效率。
+
+---
+
+## <a name="25"></a>25. 如何快速配置新MacBook 
 <small>🔗 [catalins.tech](https://catalins.tech/how-i-setup-new-macbooks/): How I set up new MacBooks</small>
 
 
@@ -284,41 +320,5 @@ GS-Calc是一款**高性能电子表格软件**，专为处理**超大规模数�
 
 <br />
 作者分享了一套高效设置新MacBook的自动化方案，避免手动安装应用的繁琐。**Brewfile** 可批量安装命令行工具、应用和字体（如Git、Chrome、VS Code插件等）。通过**macOS defaults命令**一键修改系统设置（如触控板点击、显示隐藏文件）。此外还推荐了**Zsh插件**（语法高亮、别名提醒）提升终端效率。全文强调"干净安装"理念，拒绝Time Machine迁移旧数据。
-
----
-
-## <a name="23"></a>23. 差分覆盖率调试法 
-<small>🔗 [research.swtch.com](https://research.swtch.com/diffcover): Differential Coverage for Debugging</small>
-
-
-| 🔥: 44 \| 💬: [2](https://news.ycombinator.com/item?id=43795090) \| 🗓️ 2025-04-25
-
-
-<br />
-本文介绍了一种高效的调试技术——**差分覆盖率**，通过对比成功与失败测试用例的代码覆盖率，快速定位问题代码。作者以Go语言测试为例，演示如何生成并分析覆盖率差异文件（`.prof`），**绿色标记**突出显示仅失败测试执行的代码（可疑区域），**红色标记**则表明未被失败测试覆盖的代码（可排除）。该方法在示例中精准定位了15,000行代码中的10行关键问题，尤其适合**数据依赖性错误**或**未触发常规逻辑**的故障。此外，单一测试的覆盖率分析也能辅助调试，直接关联错误路径。差分覆盖率虽非万能，但能显著缩小排查范围，提升效率。
-
----
-
-## <a name="24"></a>24. GCC 15中的新C++特性 
-<small>🔗 [developers.redhat.com](https://developers.redhat.com/articles/2025/04/24/new-c-features-gcc-15): New C++ features in GCC 15</small>
-
-
-| 🔥: 36 \| 💬: [6](https://news.ycombinator.com/item?id=43792348) \| 🗓️ 2025-04-25
-
-
-<br />
-GCC 15.1计划于2025年4月或5月发布，带来多项C++26实验性功能，包括**包索引**（`pack...[N]`语法）、**结构化绑定的属性支持**以及**删除函数的原因说明**（`=delete("reason")`）。此外，新增`#embed`指令支持二进制数据嵌入，并修复了范围循环的临时对象生命周期问题。GCC 15默认仍为C++17，但支持`-std=c++23`等选项启用新特性，同时移除了Concepts TS支持，优化了编译速度与模块功能。
-
----
-
-## <a name="25"></a>25. 下一代GPU编程：Mojo与Max Modular HQ实战体验 
-<small>🔗 [youtube.com](https://www.youtube.com/live/uul6hZ5NXC8?si=mKxZJy2xAD-rOc3g): Next-Gen GPU Programming: Hands-On with Mojo and Max Modular HQ</small>
-
-
-| 🔥: 36 \| 💬: [15](https://news.ycombinator.com/item?id=43797058) \| 🗓️ 2025-04-25
-
-
-<br />
-本文探讨了**下一代GPU编程**技术，重点介绍了**Mojo**和**Max Modular HQ**工具的实际应用。内容涵盖开发要求、性能优化及创新功能，适合对**高性能计算**感兴趣的开发者。视频中还提及版权、隐私政策等平台相关条款。
 
 ---
