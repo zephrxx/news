@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共21条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [apnews.com](https://apnews.com/article/immigration-judge-arrested-7997186bbca5730e70a25f2347e631f6): FBI arrests judge accused of helping man evade immigration authorities</small>
 
 
-| 🔥🔥: 882 \| 💬: [759](https://news.ycombinator.com/item?id=43794576) \| 🗓️ 2025-04-25
+| 🔥🔥: 896 \| 💬: [774](https://news.ycombinator.com/item?id=43794576) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [theverge.com](https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos): A $20k American-made electric pickup with no paint, no stereo, no screen</small>
 
 
-| 🔥🔥: 832 \| 💬: [788](https://news.ycombinator.com/item?id=43794284) \| 🗓️ 2025-04-25
+| 🔥🔥: 877 \| 💬: [832](https://news.ycombinator.com/item?id=43794284) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -51,7 +51,7 @@ Slate Auto推出了一款**极简主义电动皮卡**，售价低于2万美元�
 <small>🔗 [scalewithlee.substack.com](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack): Writing "/etc/hosts" breaks the Substack editor</small>
 
 
-| 🔥🔥: 453 \| 💬: [250](https://news.ycombinator.com/item?id=43793526) \| 🗓️ 2025-04-25
+| 🔥🔥: 463 \| 💬: [263](https://news.ycombinator.com/item?id=43793526) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -63,7 +63,7 @@ Slate Auto推出了一款**极简主义电动皮卡**，售价低于2万美元�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2504.11651): Lossless LLM compression for efficient GPU inference via dynamic-length float</small>
 
 
-| 🔥🔥: 217 \| 💬: [72](https://news.ycombinator.com/item?id=43796935) \| 🗓️ 2025-04-25
+| 🔥🔥: 239 \| 💬: [79](https://news.ycombinator.com/item?id=43796935) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -75,7 +75,7 @@ Slate Auto推出了一款**极简主义电动皮卡**，售价低于2万美元�
 <small>🔗 [mitxela.com](https://mitxela.com/projects/euroknob): Eurorack Knob Idea</small>
 
 
-| 🔥🔥: 215 \| 💬: [87](https://news.ycombinator.com/item?id=43793288) \| 🗓️ 2025-04-25
+| 🔥🔥: 227 \| 💬: [89](https://news.ycombinator.com/item?id=43793288) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -87,7 +87,7 @@ Slate Auto推出了一款**极简主义电动皮卡**，售价低于2万美元�
 <small>🔗 [addyo.substack.com](https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age): Avoiding skill atrophy in the age of AI</small>
 
 
-| 🔥🔥: 210 \| 💬: [226](https://news.ycombinator.com/item?id=43791474) \| 🗓️ 2025-04-25
+| 🔥🔥: 212 \| 💬: [228](https://news.ycombinator.com/item?id=43791474) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -99,7 +99,7 @@ Slate Auto推出了一款**极简主义电动皮卡**，售价低于2万美元�
 <small>🔗 [gcc.gnu.org](https://gcc.gnu.org/gcc-15/): GCC 15.1</small>
 
 
-| 🔥🔥: 176 \| 💬: [114](https://news.ycombinator.com/item?id=43792248) \| 🗓️ 2025-04-25
+| 🔥🔥: 185 \| 💬: [117](https://news.ycombinator.com/item?id=43792248) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -111,7 +111,7 @@ GCC开发团队于2025年4月25日发布了**GCC 15.1**，这是继GCC 14.x后�
 <small>🔗 [apnews.com](https://apnews.com/article/hegseth-signal-chat-dirty-internet-line-6a64707f10ca553eb905e5a70e10bd9d): Hegseth had an unsecured internet line set up in his office to connect to Signal</small>
 
 
-| 🔥🔥: 140 \| 💬: [135](https://news.ycombinator.com/item?id=43792157) \| 🗓️ 2025-04-25
+| 🔥🔥: 145 \| 💬: [144](https://news.ycombinator.com/item?id=43792157) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -123,7 +123,7 @@ GCC开发团队于2025年4月25日发布了**GCC 15.1**，这是继GCC 14.x后�
 <small>🔗 [github.com](https://github.com/magnitudedev/magnitude): Show HN: Magnitude – open-source, AI-native test framework for web apps</small>
 
 
-| 🔥🔥: 106 \| 💬: [30](https://news.ycombinator.com/item?id=43796003) \| 🗓️ 2025-04-25
+| 🔥🔥: 116 \| 💬: [30](https://news.ycombinator.com/item?id=43796003) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -131,23 +131,11 @@ Magnitude是一款**开源AI原生测试框架**，专为Web应用设计，结�
 
 ---
 
-## <a name="10"></a>10. BugStalker：一款专为Rust设计的现代调试工具 
-<small>🔗 [github.com](https://github.com/godzie44/BugStalker): Show HN: BugStalker - a modern Rust debugger</small>
+## <a name="10"></a>10. 大型复制项目未能验证生物医学研究结果 
+<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-01266-x): Reproducibility project fails to validate dozens of biomedical studies</small>
 
 
-| 🔥🔥: 102 \| 💬: [15](https://news.ycombinator.com/item?id=43793627) \| 🗓️ 2025-04-25
-
-
-<br />
-BugStalker是一款针对**Linux x86-64平台**的**Rust原生调试器**，专注于简化调试流程并深度集成Rust特性。支持**断点调试、多线程应用检查**和**Tokio运行时分析**，提供控制台与TUI双模式切换。其扩展架构允许通过Oracle机制增强功能，且内置无需代码修改的Tokio监控工具。项目采用MIT协议开源，目前获723星标，欢迎开发者贡献代码或提出建议。
-
----
-
-## <a name="11"></a>11. 大型复制项目未能验证生物医学研究结果 
-<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-01266-x): Huge reproducibility project fails to validate biomedical studies</small>
-
-
-| 🔥🔥: 102 \| 💬: [66](https://news.ycombinator.com/item?id=43795300) \| 🗓️ 2025-04-25
+| 🔥🔥: 110 \| 💬: [74](https://news.ycombinator.com/item?id=43795300) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -155,15 +143,27 @@ BugStalker是一款针对**Linux x86-64平台**的**Rust原生调试器**，专�
 
 ---
 
-## <a name="12"></a>12. Curry：一种融合函数式与逻辑编程的多范式语言 
-<small>🔗 [curry-lang.org](https://curry-lang.org/): Curry: A functional logic programming language</small>
+## <a name="11"></a>11. BugStalker：一款专为Rust设计的现代调试工具 
+<small>🔗 [github.com](https://github.com/godzie44/BugStalker): Show HN: BugStalker - a modern Rust debugger</small>
 
 
-| 🔥: 83 \| 💬: [13](https://news.ycombinator.com/item?id=43797212) \| 🗓️ 2025-04-25
+| 🔥🔥: 103 \| 💬: [15](https://news.ycombinator.com/item?id=43793627) \| 🗓️ 2025-04-25
 
 
 <br />
-Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编程**（嵌套表达式、高阶函数、强类型、惰性求值）和**逻辑编程**（非确定性、内置搜索、自由变量、部分数据结构）的特性。其核心优势包括纯声明式设计、自动类型推断、非确定性操作支持，以及通过自由变量实现灵活的模式匹配。Curry的开发由国际社区推动，提供PAKCS等编译器、包管理工具CPM及API搜索引擎Curr(y)gle，适用于教学与研究。
+BugStalker是一款针对**Linux x86-64平台**的**Rust原生调试器**，专注于简化调试流程并深度集成Rust特性。支持**断点调试、多线程应用检查**和**Tokio运行时分析**，提供控制台与TUI双模式切换。其扩展架构允许通过Oracle机制增强功能，且内置无需代码修改的Tokio监控工具。项目采用MIT协议开源，目前获723星标，欢迎开发者贡献代码或提出建议。
+
+---
+
+## <a name="12"></a>12. 华盛顿检方质疑维基百科非营利组织资格 
+<small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/): Wikipedia’s nonprofit status questioned by D.C. U.S. attorney</small>
+
+
+| 🔥: 98 \| 💬: [74](https://news.ycombinator.com/item?id=43799302) \| 🗓️ 2025-04-25
+
+
+<br />
+美国华盛顿特区代理检察官埃德·马丁致信**维基媒体基金会**，指控其作为免税非营利组织，**纵容外国势力操纵内容**并传播对美 propaganda，可能违反501(c)(3)条款。信中要求基金会说明编辑审核机制及反干预措施。此事与特朗普政府近期针对自由派机构的行动相呼应，保守派长期批评维基百科存在**左倾偏见**。基金会回应称平台内容由全球志愿者协作确保中立，未直接回应指控。马丁此前曾质疑其他机构，其本人与俄罗斯媒体的关联亦受争议。
 
 ---
 
@@ -171,7 +171,7 @@ Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编
 <small>🔗 [bfi.uchicago.edu](https://bfi.uchicago.edu/wp-content/uploads/2025/04/BFI_WP_2025-56-1.pdf): Large language models, small labor market effects [pdf]</small>
 
 
-| 🔥: 80 \| 💬: [18](https://news.ycombinator.com/item?id=43791385) \| 🗓️ 2025-04-25
+| 🔥: 90 \| 💬: [22](https://news.ycombinator.com/item?id=43791385) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -179,11 +179,23 @@ Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编
 
 ---
 
-## <a name="14"></a>14. 用Lean定理证明器形式化《数学原理》 
+## <a name="14"></a>14. Curry：一种融合函数式与逻辑编程的多范式语言 
+<small>🔗 [curry-lang.org](https://curry-lang.org/): Curry: A functional logic programming language</small>
+
+
+| 🔥: 90 \| 💬: [14](https://news.ycombinator.com/item?id=43797212) \| 🗓️ 2025-04-25
+
+
+<br />
+Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编程**（嵌套表达式、高阶函数、强类型、惰性求值）和**逻辑编程**（非确定性、内置搜索、自由变量、部分数据结构）的特性。其核心优势包括纯声明式设计、自动类型推断、非确定性操作支持，以及通过自由变量实现灵活的模式匹配。Curry的开发由国际社区推动，提供PAKCS等编译器、包管理工具CPM及API搜索引擎Curr(y)gle，适用于教学与研究。
+
+---
+
+## <a name="15"></a>15. 用Lean定理证明器形式化《数学原理》 
 <small>🔗 [github.com](https://github.com/ndrwnaguib/principia): Show HN: Formalizing Principia Mathematica using Lean</small>
 
 
-| 🔥: 71 \| 💬: [21](https://news.ycombinator.com/item?id=43797256) \| 🗓️ 2025-04-25
+| 🔥: 87 \| 💬: [21](https://news.ycombinator.com/item?id=43797256) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -191,11 +203,11 @@ Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编
 
 ---
 
-## <a name="15"></a>15. 从微观视角看美国财政：削减开支真的能减少国债吗？ 
+## <a name="16"></a>16. 从微观视角看美国财政：削减开支真的能减少国债吗？ 
 <small>🔗 [debtinperspective.com](https://www.debtinperspective.com/): A Scaled Down Look at Spending, Revenue, and What's Being Cut</small>
 
 
-| 🔥: 61 \| 💬: [38](https://news.ycombinator.com/item?id=43795703) \| 🗓️ 2025-04-25
+| 🔥: 67 \| 💬: [39](https://news.ycombinator.com/item?id=43795703) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -203,11 +215,11 @@ Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编
 
 ---
 
-## <a name="16"></a>16. 论文转代码：机器学习论文的自动化代码生成 
+## <a name="17"></a>17. 论文转代码：机器学习论文的自动化代码生成 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2504.17192): Paper2Code: Automating Code Generation from Scientific Papers</small>
 
 
-| 🔥: 59 \| 💬: [8](https://news.ycombinator.com/item?id=43796419) \| 🗓️ 2025-04-25
+| 🔥: 66 \| 💬: [9](https://news.ycombinator.com/item?id=43796419) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -215,7 +227,19 @@ Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编
 
 ---
 
-## <a name="17"></a>17. 如何快速配置新MacBook 
+## <a name="18"></a>18. 用OpenAI图像API打造个性化填色书服务 
+<small>🔗 [clevercoloringbook.com](https://clevercoloringbook.com/): Show HN: I used OpenAI's new image API for a personalized coloring book service</small>
+
+
+| 🔥: 50 \| 💬: [26](https://news.ycombinator.com/item?id=43791992) \| 🗓️ 2025-04-25
+
+
+<br />
+这项服务可将**用户上传的照片**转换为黑白线稿，制作成实体填色书，售价**23.99美元**。操作简单：上传8-24张照片，系统通过**OpenAI的Sora模型**处理并印刷成册，邮寄到家。需遵守OpenAI内容政策，仅用于订单通知的联系信息严格保密。支持全球多国配送，结账自动生成账户方便查询。
+
+---
+
+## <a name="19"></a>19. 如何快速配置新MacBook 
 <small>🔗 [catalins.tech](https://catalins.tech/how-i-setup-new-macbooks/): How I set up new MacBooks</small>
 
 
@@ -227,11 +251,23 @@ Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编
 
 ---
 
-## <a name="18"></a>18. 差分覆盖率调试法 
+## <a name="20"></a>20. 现代电子表格工具GS-Calc：支持Python集成与大数据处理 
+<small>🔗 [citadel5.com](https://citadel5.com/gs-calc.htm): Show HN: A modern spreadsheet with Python integration</small>
+
+
+| 🔥: 45 \| 💬: [6](https://news.ycombinator.com/item?id=43796898) \| 🗓️ 2025-04-25
+
+
+<br />
+GS-Calc是一款**高性能电子表格软件**，专为处理**超大规模数据集**设计，支持3200万行×1.6万列的数据操作，无文件大小限制。其核心优势包括：**极速加载/计算**（如百万级VLOOKUP即时更新）、**多核并行处理**（支持64核）、**Python集成**（自定义函数返回矩阵/图像等）。此外，提供蒙特卡洛模拟、正则表达式过滤、动态拆分合并XLSX/CSV文件等功能，兼容多种数据库格式，且完全离线运行。适用于金融分析、科研建模等场景。
+
+---
+
+## <a name="21"></a>21. 差分覆盖率调试法 
 <small>🔗 [research.swtch.com](https://research.swtch.com/diffcover): Differential Coverage for Debugging</small>
 
 
-| 🔥: 37 \| 💬: [2](https://news.ycombinator.com/item?id=43795090) \| 🗓️ 2025-04-25
+| 🔥: 40 \| 💬: [2](https://news.ycombinator.com/item?id=43795090) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -239,7 +275,7 @@ Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编
 
 ---
 
-## <a name="19"></a>19. GCC 15中的新C++特性 
+## <a name="22"></a>22. GCC 15中的新C++特性 
 <small>🔗 [developers.redhat.com](https://developers.redhat.com/articles/2025/04/24/new-c-features-gcc-15): New C++ features in GCC 15</small>
 
 
@@ -251,11 +287,11 @@ GCC 15.1计划于2025年4月或5月发布，带来多项C++26实验性功能，�
 
 ---
 
-## <a name="20"></a>20. 下一代GPU编程：Mojo与Max Modular HQ实战体验 
+## <a name="23"></a>23. 下一代GPU编程：Mojo与Max Modular HQ实战体验 
 <small>🔗 [youtube.com](https://www.youtube.com/live/uul6hZ5NXC8?si=mKxZJy2xAD-rOc3g): Next-Gen GPU Programming: Hands-On with Mojo and Max Modular HQ</small>
 
 
-| 🔥: 35 \| 💬: [14](https://news.ycombinator.com/item?id=43797058) \| 🗓️ 2025-04-25
+| 🔥: 35 \| 💬: [15](https://news.ycombinator.com/item?id=43797058) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -263,11 +299,11 @@ GCC 15.1计划于2025年4月或5月发布，带来多项C++26实验性功能，�
 
 ---
 
-## <a name="21"></a>21. 海豚用“尿液喷泉”传递社交信号 
+## <a name="24"></a>24. 海豚用“尿液喷泉”传递社交信号 
 <small>🔗 [scientificamerican.com](https://www.scientificamerican.com/article/dolphins-communicate-with-fountains-of-pee/): Dolphins Communicate with 'Fountains of Pee'</small>
 
 
-| 🔥: 30 \| 💬: [16](https://news.ycombinator.com/item?id=43795961) \| 🗓️ 2025-04-25
+| 🔥: 32 \| 💬: [16](https://news.ycombinator.com/item?id=43795961) \| 🗓️ 2025-04-25
 
 
 <br />
