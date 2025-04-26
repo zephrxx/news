@@ -8,38 +8,26 @@ tags:
 ---
 
 
-1. FBI逮捕被控协助移民逃避执法的法官；
 1. 2万美元的美国制造电动皮卡：无油漆、无音响、无屏幕；
+1. FBI逮捕被控协助移民逃避执法的法官；
 1. 当修改/etc/hosts文件导致Substack编辑器崩溃：一次Web内容过滤的探索；
 1. 70%体积缩减，100%精度保留：动态长度浮点数实现无损LLM压缩；
 1. 欧拉模块旋钮创意：磁编码器与插孔的混合设计；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
 ![](/assets/images/hacker_news.jpg)
 
 
-## <a name="1"></a>1. FBI逮捕被控协助移民逃避执法的法官 
-<small>🔗 [apnews.com](https://apnews.com/article/immigration-judge-arrested-7997186bbca5730e70a25f2347e631f6): FBI arrests judge accused of helping man evade immigration authorities</small>
-
-
-| 🔥🔥: 896 \| 💬: [774](https://news.ycombinator.com/item?id=43794576) \| 🗓️ 2025-04-25
-
-
-<br />
-美国密尔沃基县法官**汉娜·杜根**因涉嫌妨碍移民执法被捕。FBI指控她在法庭上**故意误导**联邦探员，导致一名面临轻罪指控的墨西哥移民**爱德华多·弗洛雷斯·鲁伊斯**逃脱拘留。事件引发争议，部分法官批评ICE在法院逮捕移民的做法会阻碍司法程序。杜根曾任贫困律师，2016年当选法官。此案是特朗普政府重启后首例地方官员因干预移民执法被起诉的案件。
-
----
-
-## <a name="2"></a>2. 2万美元的美国制造电动皮卡：无油漆、无音响、无屏幕 
+## <a name="1"></a>1. 2万美元的美国制造电动皮卡：无油漆、无音响、无屏幕 
 <small>🔗 [theverge.com](https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos): A $20k American-made electric pickup with no paint, no stereo, no screen</small>
 
 
-| 🔥🔥: 877 \| 💬: [832](https://news.ycombinator.com/item?id=43794284) \| 🗓️ 2025-04-25
+| 🔥🔥: 922 \| 💬: [862](https://news.ycombinator.com/item?id=43794284) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -47,11 +35,23 @@ Slate Auto推出了一款**极简主义电动皮卡**，售价低于2万美元�
 
 ---
 
+## <a name="2"></a>2. FBI逮捕被控协助移民逃避执法的法官 
+<small>🔗 [apnews.com](https://apnews.com/article/immigration-judge-arrested-7997186bbca5730e70a25f2347e631f6): FBI arrests judge accused of helping man evade immigration authorities</small>
+
+
+| 🔥🔥: 913 \| 💬: [809](https://news.ycombinator.com/item?id=43794576) \| 🗓️ 2025-04-25
+
+
+<br />
+美国密尔沃基县法官**汉娜·杜根**因涉嫌妨碍移民执法被捕。FBI指控她在法庭上**故意误导**联邦探员，导致一名面临轻罪指控的墨西哥移民**爱德华多·弗洛雷斯·鲁伊斯**逃脱拘留。事件引发争议，部分法官批评ICE在法院逮捕移民的做法会阻碍司法程序。杜根曾任贫困律师，2016年当选法官。此案是特朗普政府重启后首例地方官员因干预移民执法被起诉的案件。
+
+---
+
 ## <a name="3"></a>3. 当修改/etc/hosts文件导致Substack编辑器崩溃：一次Web内容过滤的探索 
 <small>🔗 [scalewithlee.substack.com](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack): Writing "/etc/hosts" breaks the Substack editor</small>
 
 
-| 🔥🔥: 463 \| 💬: [263](https://news.ycombinator.com/item?id=43793526) \| 🗓️ 2025-04-25
+| 🔥🔥: 473 \| 💬: [269](https://news.ycombinator.com/item?id=43793526) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -63,7 +63,7 @@ Slate Auto推出了一款**极简主义电动皮卡**，售价低于2万美元�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2504.11651): Lossless LLM compression for efficient GPU inference via dynamic-length float</small>
 
 
-| 🔥🔥: 239 \| 💬: [79](https://news.ycombinator.com/item?id=43796935) \| 🗓️ 2025-04-25
+| 🔥🔥: 260 \| 💬: [86](https://news.ycombinator.com/item?id=43796935) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -75,7 +75,7 @@ Slate Auto推出了一款**极简主义电动皮卡**，售价低于2万美元�
 <small>🔗 [mitxela.com](https://mitxela.com/projects/euroknob): Eurorack Knob Idea</small>
 
 
-| 🔥🔥: 227 \| 💬: [89](https://news.ycombinator.com/item?id=43793288) \| 🗓️ 2025-04-25
+| 🔥🔥: 237 \| 💬: [94](https://news.ycombinator.com/item?id=43793288) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -87,7 +87,7 @@ Slate Auto推出了一款**极简主义电动皮卡**，售价低于2万美元�
 <small>🔗 [addyo.substack.com](https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age): Avoiding skill atrophy in the age of AI</small>
 
 
-| 🔥🔥: 212 \| 💬: [228](https://news.ycombinator.com/item?id=43791474) \| 🗓️ 2025-04-25
+| 🔥🔥: 213 \| 💬: [233](https://news.ycombinator.com/item?id=43791474) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -99,7 +99,7 @@ Slate Auto推出了一款**极简主义电动皮卡**，售价低于2万美元�
 <small>🔗 [gcc.gnu.org](https://gcc.gnu.org/gcc-15/): GCC 15.1</small>
 
 
-| 🔥🔥: 185 \| 💬: [117](https://news.ycombinator.com/item?id=43792248) \| 🗓️ 2025-04-25
+| 🔥🔥: 190 \| 💬: [118](https://news.ycombinator.com/item?id=43792248) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -107,59 +107,11 @@ GCC开发团队于2025年4月25日发布了**GCC 15.1**，这是继GCC 14.x后�
 
 ---
 
-## <a name="8"></a>8. 美防长被曝私设未加密网络使用Signal 
-<small>🔗 [apnews.com](https://apnews.com/article/hegseth-signal-chat-dirty-internet-line-6a64707f10ca553eb905e5a70e10bd9d): Hegseth had an unsecured internet line set up in his office to connect to Signal</small>
-
-
-| 🔥🔥: 145 \| 💬: [144](https://news.ycombinator.com/item?id=43792157) \| 🗓️ 2025-04-25
-
-
-<br />
-美国防部长**皮特·赫格塞思**被曝在办公室私设**未加密网络线路**，绕过五角大楼安全协议，用于在个人电脑上使用加密通讯应用**Signal**。此举可能使敏感国防信息面临黑客或监控风险。该线路被称为“脏线”，直接连接公共互联网，缺乏军方网络安全防护。赫格塞思此前被曝在Signal群聊中泄露军事行动细节，目前正接受国防部调查。白宫虽表态支持，但两党议员均对此提出质疑。
-
----
-
-## <a name="9"></a>9. Magnitude：开源AI驱动的Web应用测试框架 
-<small>🔗 [github.com](https://github.com/magnitudedev/magnitude): Show HN: Magnitude – open-source, AI-native test framework for web apps</small>
-
-
-| 🔥🔥: 116 \| 💬: [30](https://news.ycombinator.com/item?id=43796003) \| 🗓️ 2025-04-25
-
-
-<br />
-Magnitude是一款**开源AI原生测试框架**，专为Web应用设计，结合**视觉AI代理**与自然语言交互，实现端到端测试。用户可通过自然语言编写测试用例，框架内置**智能规划代理**和快速视觉执行代理，自动适应UI变化。支持本地或CI/CD环境运行，兼容多种LLM模型（如Gemini、Moondream）。提供5,000次免费Moondream请求，适合高效测试开发。
-
----
-
-## <a name="10"></a>10. 大型复制项目未能验证生物医学研究结果 
-<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-01266-x): Reproducibility project fails to validate dozens of biomedical studies</small>
-
-
-| 🔥🔥: 110 \| 💬: [74](https://news.ycombinator.com/item?id=43795300) \| 🗓️ 2025-04-25
-
-
-<br />
-一项由50多个研究团队参与的**大规模复制研究**发现，巴西生物医学研究中仅有不到一半的实验结果可被复现。该项目聚焦于三种常用实验方法，并分析了1998至2017年间发表的论文。结果显示，**21%的实验**符合复现标准，且原始研究的**效应量平均高估60%**。研究者呼吁通过政策或学术改革提升科研可靠性。该预印本尚未经同行评审。
-
----
-
-## <a name="11"></a>11. BugStalker：一款专为Rust设计的现代调试工具 
-<small>🔗 [github.com](https://github.com/godzie44/BugStalker): Show HN: BugStalker - a modern Rust debugger</small>
-
-
-| 🔥🔥: 103 \| 💬: [15](https://news.ycombinator.com/item?id=43793627) \| 🗓️ 2025-04-25
-
-
-<br />
-BugStalker是一款针对**Linux x86-64平台**的**Rust原生调试器**，专注于简化调试流程并深度集成Rust特性。支持**断点调试、多线程应用检查**和**Tokio运行时分析**，提供控制台与TUI双模式切换。其扩展架构允许通过Oracle机制增强功能，且内置无需代码修改的Tokio监控工具。项目采用MIT协议开源，目前获723星标，欢迎开发者贡献代码或提出建议。
-
----
-
-## <a name="12"></a>12. 华盛顿检方质疑维基百科非营利组织资格 
+## <a name="8"></a>8. 华盛顿检方质疑维基百科非营利组织资格 
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/): Wikipedia’s nonprofit status questioned by D.C. U.S. attorney</small>
 
 
-| 🔥: 98 \| 💬: [74](https://news.ycombinator.com/item?id=43799302) \| 🗓️ 2025-04-25
+| 🔥🔥: 154 \| 💬: [120](https://news.ycombinator.com/item?id=43799302) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -167,23 +119,59 @@ BugStalker是一款针对**Linux x86-64平台**的**Rust原生调试器**，专�
 
 ---
 
-## <a name="13"></a>13. 大语言模型对劳动力市场影响有限 
-<small>🔗 [bfi.uchicago.edu](https://bfi.uchicago.edu/wp-content/uploads/2025/04/BFI_WP_2025-56-1.pdf): Large language models, small labor market effects [pdf]</small>
+## <a name="9"></a>9. 美防长被曝私设未加密网络使用Signal 
+<small>🔗 [apnews.com](https://apnews.com/article/hegseth-signal-chat-dirty-internet-line-6a64707f10ca553eb905e5a70e10bd9d): Hegseth had an unsecured internet line set up in his office to connect to Signal</small>
 
 
-| 🔥: 90 \| 💬: [22](https://news.ycombinator.com/item?id=43791385) \| 🗓️ 2025-04-25
+| 🔥🔥: 146 \| 💬: [148](https://news.ycombinator.com/item?id=43792157) \| 🗓️ 2025-04-25
 
 
 <br />
-该研究探讨了**大语言模型**（如GPT等）对就业市场的实际影响，发现其替代效应目前较为有限。尽管这类技术在部分领域（如文案生成、客服等）展现出潜力，但整体上尚未对劳动力市场造成显著冲击。研究指出，**技术应用速度**和**职业适应性**是关键变量，而当前影响主要集中在**特定低技能岗位**。未来需持续观察技术与人力协作的长期趋势。
+美国防部长**皮特·赫格塞思**被曝在办公室私设**未加密网络线路**，绕过五角大楼安全协议，用于在个人电脑上使用加密通讯应用**Signal**。此举可能使敏感国防信息面临黑客或监控风险。该线路被称为“脏线”，直接连接公共互联网，缺乏军方网络安全防护。赫格塞思此前被曝在Signal群聊中泄露军事行动细节，目前正接受国防部调查。白宫虽表态支持，但两党议员均对此提出质疑。
 
 ---
 
-## <a name="14"></a>14. Curry：一种融合函数式与逻辑编程的多范式语言 
+## <a name="10"></a>10. 大型复制项目未能验证生物医学研究结果 
+<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-01266-x): Reproducibility project fails to validate dozens of biomedical studies</small>
+
+
+| 🔥🔥: 123 \| 💬: [78](https://news.ycombinator.com/item?id=43795300) \| 🗓️ 2025-04-25
+
+
+<br />
+一项由50多个研究团队参与的**大规模复制研究**发现，巴西生物医学研究中仅有不到一半的实验结果可被复现。该项目聚焦于三种常用实验方法，并分析了1998至2017年间发表的论文。结果显示，**21%的实验**符合复现标准，且原始研究的**效应量平均高估60%**。研究者呼吁通过政策或学术改革提升科研可靠性。该预印本尚未经同行评审。
+
+---
+
+## <a name="11"></a>11. Magnitude：开源AI驱动的Web应用测试框架 
+<small>🔗 [github.com](https://github.com/magnitudedev/magnitude): Show HN: Magnitude – open-source, AI-native test framework for web apps</small>
+
+
+| 🔥🔥: 118 \| 💬: [31](https://news.ycombinator.com/item?id=43796003) \| 🗓️ 2025-04-25
+
+
+<br />
+Magnitude是一款**开源AI原生测试框架**，专为Web应用设计，结合**视觉AI代理**与自然语言交互，实现端到端测试。用户可通过自然语言编写测试用例，框架内置**智能规划代理**和快速视觉执行代理，自动适应UI变化。支持本地或CI/CD环境运行，兼容多种LLM模型（如Gemini、Moondream）。提供5,000次免费Moondream请求，适合高效测试开发。
+
+---
+
+## <a name="12"></a>12. BugStalker：一款专为Rust设计的现代调试工具 
+<small>🔗 [github.com](https://github.com/godzie44/BugStalker): Show HN: BugStalker - a modern Rust debugger</small>
+
+
+| 🔥🔥: 105 \| 💬: [15](https://news.ycombinator.com/item?id=43793627) \| 🗓️ 2025-04-25
+
+
+<br />
+BugStalker是一款针对**Linux x86-64平台**的**Rust原生调试器**，专注于简化调试流程并深度集成Rust特性。支持**断点调试、多线程应用检查**和**Tokio运行时分析**，提供控制台与TUI双模式切换。其扩展架构允许通过Oracle机制增强功能，且内置无需代码修改的Tokio监控工具。项目采用MIT协议开源，目前获723星标，欢迎开发者贡献代码或提出建议。
+
+---
+
+## <a name="13"></a>13. Curry：一种融合函数式与逻辑编程的多范式语言 
 <small>🔗 [curry-lang.org](https://curry-lang.org/): Curry: A functional logic programming language</small>
 
 
-| 🔥: 90 \| 💬: [14](https://news.ycombinator.com/item?id=43797212) \| 🗓️ 2025-04-25
+| 🔥: 99 \| 💬: [17](https://news.ycombinator.com/item?id=43797212) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -191,11 +179,23 @@ Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编
 
 ---
 
+## <a name="14"></a>14. 大语言模型对劳动力市场影响有限 
+<small>🔗 [bfi.uchicago.edu](https://bfi.uchicago.edu/wp-content/uploads/2025/04/BFI_WP_2025-56-1.pdf): Large language models, small labor market effects [pdf]</small>
+
+
+| 🔥: 98 \| 💬: [22](https://news.ycombinator.com/item?id=43791385) \| 🗓️ 2025-04-25
+
+
+<br />
+该研究探讨了**大语言模型**（如GPT等）对就业市场的实际影响，发现其替代效应目前较为有限。尽管这类技术在部分领域（如文案生成、客服等）展现出潜力，但整体上尚未对劳动力市场造成显著冲击。研究指出，**技术应用速度**和**职业适应性**是关键变量，而当前影响主要集中在**特定低技能岗位**。未来需持续观察技术与人力协作的长期趋势。
+
+---
+
 ## <a name="15"></a>15. 用Lean定理证明器形式化《数学原理》 
 <small>🔗 [github.com](https://github.com/ndrwnaguib/principia): Show HN: Formalizing Principia Mathematica using Lean</small>
 
 
-| 🔥: 87 \| 💬: [21](https://news.ycombinator.com/item?id=43797256) \| 🗓️ 2025-04-25
+| 🔥: 96 \| 💬: [22](https://news.ycombinator.com/item?id=43797256) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -203,35 +203,11 @@ Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编
 
 ---
 
-## <a name="16"></a>16. 从微观视角看美国财政：削减开支真的能减少国债吗？ 
-<small>🔗 [debtinperspective.com](https://www.debtinperspective.com/): A Scaled Down Look at Spending, Revenue, and What's Being Cut</small>
-
-
-| 🔥: 67 \| 💬: [39](https://news.ycombinator.com/item?id=43795703) \| 🗓️ 2025-04-25
-
-
-<br />
-美国国债已达**36万亿美元**，但人类大脑难以理解如此庞大的数字。若将财政数据缩小3600万倍，可发现所谓"削减开支"（如取消社会福利拨款）仅节省15美分，对债务影响微乎其微。**利息支出**每年耗资5000亿美元，而取消弱势群体援助等政策虽社会代价巨大，却仅占预算的千万分之一。真正有效的解决方案是向企业海外收入征税或征收碳排放税，十年可节省数千亿美元。财政问题的核心在于**规模认知偏差**与**象征性削减**的无效性。
-
----
-
-## <a name="17"></a>17. 论文转代码：机器学习论文的自动化代码生成 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2504.17192): Paper2Code: Automating Code Generation from Scientific Papers</small>
-
-
-| 🔥: 66 \| 💬: [9](https://news.ycombinator.com/item?id=43796419) \| 🗓️ 2025-04-25
-
-
-<br />
-该研究提出**PaperCoder**，一个基于**多智能体大语言模型（LLM）**的框架，用于将机器学习论文自动转化为可运行的代码库。其工作流程分为三阶段：**规划**（生成系统架构与配置文件）、**分析**（解析实现细节）和**生成**（输出模块化代码）。实验表明，该框架在**PaperBench**基准测试中显著优于基线模型，并能生成高质量、符合论文原意的代码实现，解决了研究复现效率低下的问题。
-
----
-
-## <a name="18"></a>18. 用OpenAI图像API打造个性化填色书服务 
+## <a name="16"></a>16. 用OpenAI图像API打造个性化填色书服务 
 <small>🔗 [clevercoloringbook.com](https://clevercoloringbook.com/): Show HN: I used OpenAI's new image API for a personalized coloring book service</small>
 
 
-| 🔥: 50 \| 💬: [26](https://news.ycombinator.com/item?id=43791992) \| 🗓️ 2025-04-25
+| 🔥: 77 \| 💬: [39](https://news.ycombinator.com/item?id=43791992) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -239,7 +215,67 @@ Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编
 
 ---
 
-## <a name="19"></a>19. 如何快速配置新MacBook 
+## <a name="17"></a>17. 论文转代码：机器学习论文的自动化代码生成 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2504.17192): Paper2Code: Automating Code Generation from Scientific Papers</small>
+
+
+| 🔥: 73 \| 💬: [10](https://news.ycombinator.com/item?id=43796419) \| 🗓️ 2025-04-25
+
+
+<br />
+该研究提出**PaperCoder**，一个基于**多智能体大语言模型（LLM）**的框架，用于将机器学习论文自动转化为可运行的代码库。其工作流程分为三阶段：**规划**（生成系统架构与配置文件）、**分析**（解析实现细节）和**生成**（输出模块化代码）。实验表明，该框架在**PaperBench**基准测试中显著优于基线模型，并能生成高质量、符合论文原意的代码实现，解决了研究复现效率低下的问题。
+
+---
+
+## <a name="18"></a>18. 从微观视角看美国财政：削减开支真的能减少国债吗？ 
+<small>🔗 [debtinperspective.com](https://www.debtinperspective.com/): A Scaled Down Look at Spending, Revenue, and What's Being Cut</small>
+
+
+| 🔥: 68 \| 💬: [39](https://news.ycombinator.com/item?id=43795703) \| 🗓️ 2025-04-25
+
+
+<br />
+美国国债已达**36万亿美元**，但人类大脑难以理解如此庞大的数字。若将财政数据缩小3600万倍，可发现所谓"削减开支"（如取消社会福利拨款）仅节省15美分，对债务影响微乎其微。**利息支出**每年耗资5000亿美元，而取消弱势群体援助等政策虽社会代价巨大，却仅占预算的千万分之一。真正有效的解决方案是向企业海外收入征税或征收碳排放税，十年可节省数千亿美元。财政问题的核心在于**规模认知偏差**与**象征性削减**的无效性。
+
+---
+
+## <a name="19"></a>19. 用神经网络模拟世界 
+<small>🔗 [madebyoll.in](https://madebyoll.in/posts/world_emulation_via_dnn/): World Emulation via Neural Network</small>
+
+
+| 🔥: 56 \| 💬: [11](https://news.ycombinator.com/item?id=43798757) \| 🗓️ 2025-04-25
+
+
+<br />
+作者通过**神经网络**将公寓附近的森林小径转化为可交互的虚拟世界，用户可在浏览器中离线探索。与传统游戏不同，该世界完全由神经网络实时生成图像，无需预设几何或光影代码。为实现这一效果，作者用手机录制了15分钟视频及运动数据，并升级了训练方法（如增加**多尺度输入**和**对抗损失**）。尽管当前效果仍不完美，但作者认为，**神经世界**像早期摄影一样，未来将随技术进步变得更真实、便捷，甚至成为独立创作媒介。
+
+---
+
+## <a name="20"></a>20. D语言编程教程与参考手册 
+<small>🔗 [ddili.org](https://ddili.org/ders/d.en/): Programming in D: Tutorial and Reference</small>
+
+
+| 🔥: 52 \| 💬: [22](https://news.ycombinator.com/item?id=43798009) \| 🗓️ 2025-04-25
+
+
+<br />
+本书是Ali Çehreli编写的**D语言**权威指南，涵盖从基础语法到高级特性的全面内容。重点包括**基本数据类型**、**控制结构**、**函数与模板**、**面向对象编程**（如类和继承），以及并发编程（如**并行计算**和消息传递）。提供多种格式（PDF、EPUB等）和代码示例下载，适合初学者和进阶开发者。书中还涉及内存管理、契约编程等深度主题，是学习D语言的实用资源。
+
+---
+
+## <a name="21"></a>21. 现代电子表格工具GS-Calc：支持Python集成与大数据处理 
+<small>🔗 [citadel5.com](https://citadel5.com/gs-calc.htm): Show HN: A modern spreadsheet with Python integration</small>
+
+
+| 🔥: 49 \| 💬: [6](https://news.ycombinator.com/item?id=43796898) \| 🗓️ 2025-04-25
+
+
+<br />
+GS-Calc是一款**高性能电子表格软件**，专为处理**超大规模数据集**设计，支持3200万行×1.6万列的数据操作，无文件大小限制。其核心优势包括：**极速加载/计算**（如百万级VLOOKUP即时更新）、**多核并行处理**（支持64核）、**Python集成**（自定义函数返回矩阵/图像等）。此外，提供蒙特卡洛模拟、正则表达式过滤、动态拆分合并XLSX/CSV文件等功能，兼容多种数据库格式，且完全离线运行。适用于金融分析、科研建模等场景。
+
+---
+
+## <a name="22"></a>22. 如何快速配置新MacBook 
 <small>🔗 [catalins.tech](https://catalins.tech/how-i-setup-new-macbooks/): How I set up new MacBooks</small>
 
 
@@ -251,19 +287,7 @@ Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编
 
 ---
 
-## <a name="20"></a>20. 现代电子表格工具GS-Calc：支持Python集成与大数据处理 
-<small>🔗 [citadel5.com](https://citadel5.com/gs-calc.htm): Show HN: A modern spreadsheet with Python integration</small>
-
-
-| 🔥: 45 \| 💬: [6](https://news.ycombinator.com/item?id=43796898) \| 🗓️ 2025-04-25
-
-
-<br />
-GS-Calc是一款**高性能电子表格软件**，专为处理**超大规模数据集**设计，支持3200万行×1.6万列的数据操作，无文件大小限制。其核心优势包括：**极速加载/计算**（如百万级VLOOKUP即时更新）、**多核并行处理**（支持64核）、**Python集成**（自定义函数返回矩阵/图像等）。此外，提供蒙特卡洛模拟、正则表达式过滤、动态拆分合并XLSX/CSV文件等功能，兼容多种数据库格式，且完全离线运行。适用于金融分析、科研建模等场景。
-
----
-
-## <a name="21"></a>21. 差分覆盖率调试法 
+## <a name="23"></a>23. 差分覆盖率调试法 
 <small>🔗 [research.swtch.com](https://research.swtch.com/diffcover): Differential Coverage for Debugging</small>
 
 
@@ -275,7 +299,7 @@ GS-Calc是一款**高性能电子表格软件**，专为处理**超大规模数�
 
 ---
 
-## <a name="22"></a>22. GCC 15中的新C++特性 
+## <a name="24"></a>24. GCC 15中的新C++特性 
 <small>🔗 [developers.redhat.com](https://developers.redhat.com/articles/2025/04/24/new-c-features-gcc-15): New C++ features in GCC 15</small>
 
 
@@ -287,26 +311,14 @@ GCC 15.1计划于2025年4月或5月发布，带来多项C++26实验性功能，�
 
 ---
 
-## <a name="23"></a>23. 下一代GPU编程：Mojo与Max Modular HQ实战体验 
+## <a name="25"></a>25. 下一代GPU编程：Mojo与Max Modular HQ实战体验 
 <small>🔗 [youtube.com](https://www.youtube.com/live/uul6hZ5NXC8?si=mKxZJy2xAD-rOc3g): Next-Gen GPU Programming: Hands-On with Mojo and Max Modular HQ</small>
 
 
-| 🔥: 35 \| 💬: [15](https://news.ycombinator.com/item?id=43797058) \| 🗓️ 2025-04-25
+| 🔥: 36 \| 💬: [15](https://news.ycombinator.com/item?id=43797058) \| 🗓️ 2025-04-25
 
 
 <br />
 本文探讨了**下一代GPU编程**技术，重点介绍了**Mojo**和**Max Modular HQ**工具的实际应用。内容涵盖开发要求、性能优化及创新功能，适合对**高性能计算**感兴趣的开发者。视频中还提及版权、隐私政策等平台相关条款。
-
----
-
-## <a name="24"></a>24. 海豚用“尿液喷泉”传递社交信号 
-<small>🔗 [scientificamerican.com](https://www.scientificamerican.com/article/dolphins-communicate-with-fountains-of-pee/): Dolphins Communicate with 'Fountains of Pee'</small>
-
-
-| 🔥: 32 \| 💬: [16](https://news.ycombinator.com/item?id=43795961) \| 🗓️ 2025-04-25
-
-
-<br />
-研究发现，**亚马逊河豚**会通过**空中排尿**进行交流——雄性个体仰面喷射尿液时，近70%的情况下会有另一只雄性靠近。科学家推测这可能用于传递**社会地位或身体状况**等信息。尿液交流在动物界普遍存在，如灵长类通过尿液识别同类性别、群组，龙虾用头部排尿传递交配意愿，雌性棘鱼则通过尿液气味选择免疫系统匹配的配偶。研究强调，嗅觉信息在动物交流中长期被低估，尿液是重要的化学信号载体。
 
 ---
