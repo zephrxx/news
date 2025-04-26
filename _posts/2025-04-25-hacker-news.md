@@ -27,7 +27,7 @@ tags:
 <small>🔗 [theverge.com](https://www.theverge.com/electric-cars/655527/slate-electric-truck-price-paint-radio-bezos): A $20k American-made electric pickup with no paint, no stereo, no screen</small>
 
 
-| 🔥🔥: 922 \| 💬: [862](https://news.ycombinator.com/item?id=43794284) \| 🗓️ 2025-04-25
+| 🔥🔥: 960 \| 💬: [883](https://news.ycombinator.com/item?id=43794284) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -39,7 +39,7 @@ Slate Auto推出了一款**极简主义电动皮卡**，售价低于2万美元�
 <small>🔗 [apnews.com](https://apnews.com/article/immigration-judge-arrested-7997186bbca5730e70a25f2347e631f6): FBI arrests judge accused of helping man evade immigration authorities</small>
 
 
-| 🔥🔥: 913 \| 💬: [809](https://news.ycombinator.com/item?id=43794576) \| 🗓️ 2025-04-25
+| 🔥🔥: 918 \| 💬: [821](https://news.ycombinator.com/item?id=43794576) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -51,7 +51,7 @@ Slate Auto推出了一款**极简主义电动皮卡**，售价低于2万美元�
 <small>🔗 [scalewithlee.substack.com](https://scalewithlee.substack.com/p/when-etchsts-breaks-your-substack): Writing "/etc/hosts" breaks the Substack editor</small>
 
 
-| 🔥🔥: 473 \| 💬: [269](https://news.ycombinator.com/item?id=43793526) \| 🗓️ 2025-04-25
+| 🔥🔥: 482 \| 💬: [276](https://news.ycombinator.com/item?id=43793526) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -63,7 +63,7 @@ Slate Auto推出了一款**极简主义电动皮卡**，售价低于2万美元�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2504.11651): Lossless LLM compression for efficient GPU inference via dynamic-length float</small>
 
 
-| 🔥🔥: 260 \| 💬: [86](https://news.ycombinator.com/item?id=43796935) \| 🗓️ 2025-04-25
+| 🔥🔥: 273 \| 💬: [90](https://news.ycombinator.com/item?id=43796935) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -75,7 +75,7 @@ Slate Auto推出了一款**极简主义电动皮卡**，售价低于2万美元�
 <small>🔗 [mitxela.com](https://mitxela.com/projects/euroknob): Eurorack Knob Idea</small>
 
 
-| 🔥🔥: 237 \| 💬: [94](https://news.ycombinator.com/item?id=43793288) \| 🗓️ 2025-04-25
+| 🔥🔥: 247 \| 💬: [96](https://news.ycombinator.com/item?id=43793288) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -87,7 +87,7 @@ Slate Auto推出了一款**极简主义电动皮卡**，售价低于2万美元�
 <small>🔗 [addyo.substack.com](https://addyo.substack.com/p/avoiding-skill-atrophy-in-the-age): Avoiding skill atrophy in the age of AI</small>
 
 
-| 🔥🔥: 213 \| 💬: [233](https://news.ycombinator.com/item?id=43791474) \| 🗓️ 2025-04-25
+| 🔥🔥: 214 \| 💬: [233](https://news.ycombinator.com/item?id=43791474) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -99,7 +99,7 @@ Slate Auto推出了一款**极简主义电动皮卡**，售价低于2万美元�
 <small>🔗 [gcc.gnu.org](https://gcc.gnu.org/gcc-15/): GCC 15.1</small>
 
 
-| 🔥🔥: 190 \| 💬: [118](https://news.ycombinator.com/item?id=43792248) \| 🗓️ 2025-04-25
+| 🔥🔥: 199 \| 💬: [120](https://news.ycombinator.com/item?id=43792248) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -111,7 +111,7 @@ GCC开发团队于2025年4月25日发布了**GCC 15.1**，这是继GCC 14.x后�
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/technology/2025/04/25/wikipedia-nonprofit-ed-martin-letter/): Wikipedia’s nonprofit status questioned by D.C. U.S. attorney</small>
 
 
-| 🔥🔥: 154 \| 💬: [120](https://news.ycombinator.com/item?id=43799302) \| 🗓️ 2025-04-25
+| 🔥🔥: 192 \| 💬: [164](https://news.ycombinator.com/item?id=43799302) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -123,7 +123,7 @@ GCC开发团队于2025年4月25日发布了**GCC 15.1**，这是继GCC 14.x后�
 <small>🔗 [apnews.com](https://apnews.com/article/hegseth-signal-chat-dirty-internet-line-6a64707f10ca553eb905e5a70e10bd9d): Hegseth had an unsecured internet line set up in his office to connect to Signal</small>
 
 
-| 🔥🔥: 146 \| 💬: [148](https://news.ycombinator.com/item?id=43792157) \| 🗓️ 2025-04-25
+| 🔥🔥: 146 \| 💬: [151](https://news.ycombinator.com/item?id=43792157) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -135,7 +135,7 @@ GCC开发团队于2025年4月25日发布了**GCC 15.1**，这是继GCC 14.x后�
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-01266-x): Reproducibility project fails to validate dozens of biomedical studies</small>
 
 
-| 🔥🔥: 123 \| 💬: [78](https://news.ycombinator.com/item?id=43795300) \| 🗓️ 2025-04-25
+| 🔥🔥: 131 \| 💬: [81](https://news.ycombinator.com/item?id=43795300) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -147,7 +147,7 @@ GCC开发团队于2025年4月25日发布了**GCC 15.1**，这是继GCC 14.x后�
 <small>🔗 [github.com](https://github.com/magnitudedev/magnitude): Show HN: Magnitude – open-source, AI-native test framework for web apps</small>
 
 
-| 🔥🔥: 118 \| 💬: [31](https://news.ycombinator.com/item?id=43796003) \| 🗓️ 2025-04-25
+| 🔥🔥: 122 \| 💬: [31](https://news.ycombinator.com/item?id=43796003) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -171,7 +171,7 @@ BugStalker是一款针对**Linux x86-64平台**的**Rust原生调试器**，专�
 <small>🔗 [curry-lang.org](https://curry-lang.org/): Curry: A functional logic programming language</small>
 
 
-| 🔥: 99 \| 💬: [17](https://news.ycombinator.com/item?id=43797212) \| 🗓️ 2025-04-25
+| 🔥🔥: 104 \| 💬: [20](https://news.ycombinator.com/item?id=43797212) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -183,7 +183,7 @@ Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编
 <small>🔗 [bfi.uchicago.edu](https://bfi.uchicago.edu/wp-content/uploads/2025/04/BFI_WP_2025-56-1.pdf): Large language models, small labor market effects [pdf]</small>
 
 
-| 🔥: 98 \| 💬: [22](https://news.ycombinator.com/item?id=43791385) \| 🗓️ 2025-04-25
+| 🔥🔥: 103 \| 💬: [26](https://news.ycombinator.com/item?id=43791385) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -195,7 +195,7 @@ Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编
 <small>🔗 [github.com](https://github.com/ndrwnaguib/principia): Show HN: Formalizing Principia Mathematica using Lean</small>
 
 
-| 🔥: 96 \| 💬: [22](https://news.ycombinator.com/item?id=43797256) \| 🗓️ 2025-04-25
+| 🔥: 100 \| 💬: [22](https://news.ycombinator.com/item?id=43797256) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -207,7 +207,7 @@ Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编
 <small>🔗 [clevercoloringbook.com](https://clevercoloringbook.com/): Show HN: I used OpenAI's new image API for a personalized coloring book service</small>
 
 
-| 🔥: 77 \| 💬: [39](https://news.ycombinator.com/item?id=43791992) \| 🗓️ 2025-04-25
+| 🔥: 94 \| 💬: [48](https://news.ycombinator.com/item?id=43791992) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -219,7 +219,7 @@ Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2504.17192): Paper2Code: Automating Code Generation from Scientific Papers</small>
 
 
-| 🔥: 73 \| 💬: [10](https://news.ycombinator.com/item?id=43796419) \| 🗓️ 2025-04-25
+| 🔥: 78 \| 💬: [10](https://news.ycombinator.com/item?id=43796419) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -227,7 +227,19 @@ Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编
 
 ---
 
-## <a name="18"></a>18. 从微观视角看美国财政：削减开支真的能减少国债吗？ 
+## <a name="18"></a>18. 用神经网络模拟世界 
+<small>🔗 [madebyoll.in](https://madebyoll.in/posts/world_emulation_via_dnn/): World Emulation via Neural Network</small>
+
+
+| 🔥: 73 \| 💬: [16](https://news.ycombinator.com/item?id=43798757) \| 🗓️ 2025-04-25
+
+
+<br />
+作者通过**神经网络**将公寓附近的森林小径转化为可交互的虚拟世界，用户可在浏览器中离线探索。与传统游戏不同，该世界完全由神经网络实时生成图像，无需预设几何或光影代码。为实现这一效果，作者用手机录制了15分钟视频及运动数据，并升级了训练方法（如增加**多尺度输入**和**对抗损失**）。尽管当前效果仍不完美，但作者认为，**神经世界**像早期摄影一样，未来将随技术进步变得更真实、便捷，甚至成为独立创作媒介。
+
+---
+
+## <a name="19"></a>19. 从微观视角看美国财政：削减开支真的能减少国债吗？ 
 <small>🔗 [debtinperspective.com](https://www.debtinperspective.com/): A Scaled Down Look at Spending, Revenue, and What's Being Cut</small>
 
 
@@ -239,23 +251,11 @@ Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编
 
 ---
 
-## <a name="19"></a>19. 用神经网络模拟世界 
-<small>🔗 [madebyoll.in](https://madebyoll.in/posts/world_emulation_via_dnn/): World Emulation via Neural Network</small>
-
-
-| 🔥: 56 \| 💬: [11](https://news.ycombinator.com/item?id=43798757) \| 🗓️ 2025-04-25
-
-
-<br />
-作者通过**神经网络**将公寓附近的森林小径转化为可交互的虚拟世界，用户可在浏览器中离线探索。与传统游戏不同，该世界完全由神经网络实时生成图像，无需预设几何或光影代码。为实现这一效果，作者用手机录制了15分钟视频及运动数据，并升级了训练方法（如增加**多尺度输入**和**对抗损失**）。尽管当前效果仍不完美，但作者认为，**神经世界**像早期摄影一样，未来将随技术进步变得更真实、便捷，甚至成为独立创作媒介。
-
----
-
 ## <a name="20"></a>20. D语言编程教程与参考手册 
 <small>🔗 [ddili.org](https://ddili.org/ders/d.en/): Programming in D: Tutorial and Reference</small>
 
 
-| 🔥: 52 \| 💬: [22](https://news.ycombinator.com/item?id=43798009) \| 🗓️ 2025-04-25
+| 🔥: 58 \| 💬: [23](https://news.ycombinator.com/item?id=43798009) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -267,7 +267,7 @@ Curry是一种**声明式多范式编程语言**，无缝整合了**函数式编
 <small>🔗 [citadel5.com](https://citadel5.com/gs-calc.htm): Show HN: A modern spreadsheet with Python integration</small>
 
 
-| 🔥: 49 \| 💬: [6](https://news.ycombinator.com/item?id=43796898) \| 🗓️ 2025-04-25
+| 🔥: 56 \| 💬: [7](https://news.ycombinator.com/item?id=43796898) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -279,7 +279,7 @@ GS-Calc是一款**高性能电子表格软件**，专为处理**超大规模数�
 <small>🔗 [catalins.tech](https://catalins.tech/how-i-setup-new-macbooks/): How I set up new MacBooks</small>
 
 
-| 🔥: 45 \| 💬: [42](https://news.ycombinator.com/item?id=43791941) \| 🗓️ 2025-04-25
+| 🔥: 46 \| 💬: [42](https://news.ycombinator.com/item?id=43791941) \| 🗓️ 2025-04-25
 
 
 <br />
@@ -291,7 +291,7 @@ GS-Calc是一款**高性能电子表格软件**，专为处理**超大规模数�
 <small>🔗 [research.swtch.com](https://research.swtch.com/diffcover): Differential Coverage for Debugging</small>
 
 
-| 🔥: 40 \| 💬: [2](https://news.ycombinator.com/item?id=43795090) \| 🗓️ 2025-04-25
+| 🔥: 44 \| 💬: [2](https://news.ycombinator.com/item?id=43795090) \| 🗓️ 2025-04-25
 
 
 <br />
