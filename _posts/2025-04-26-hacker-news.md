@@ -8,8 +8,8 @@ tags:
 ---
 
 
-1. ICE强行驱逐三名美国公民儿童 剥夺法律与医疗救助引发众怒；
 1. 看AI模型o3猜照片地点：既科幻又令人不安的体验；
+1. ICE强行驱逐三名美国公民儿童 剥夺法律与医疗救助引发众怒；
 1. 前列腺问题的终结？；
 1. 友谊衰退：失落的联结艺术；
 1. 个人编写的复古操作系统成功运行在IBM ThinkPad上；
@@ -23,23 +23,11 @@ tags:
 ![](/assets/images/hacker_news.jpg)
 
 
-## <a name="1"></a>1. ICE强行驱逐三名美国公民儿童 剥夺法律与医疗救助引发众怒 
-<small>🔗 [aclu.org](https://www.aclu.org/press-releases/ice-deports-3-u-s-citizen-children-held-incommunicado-prior-to-the-deportation): ICE Deports 3 U.S. Citizen Children Held Incommunicado Prior to the Deportation</small>
-
-
-| 🔥🔥: 679 \| 💬: [693](https://news.ycombinator.com/item?id=43801959) \| 🗓️ 2025-04-26
-
-
-<br />
-美国移民与海关执法局（ICE）在新奥尔良秘密驱逐了两户家庭，其中包括**三名美国公民儿童**（2岁、4岁和7岁）及一名孕妇。这些家庭被拘留期间被切断与律师和亲属的联系，**剥夺法律程序权利**。一名患癌儿童被驱逐时未获药物，孕妇亦无产检保障。多个人权组织谴责此举违反**基本人权**和ICE自身规定，要求政府承担责任并让家庭返美。事件暴露移民执法的系统性暴力，引发对特朗普政府政策的强烈批评。
-
----
-
-## <a name="2"></a>2. 看AI模型o3猜照片地点：既科幻又令人不安的体验 
+## <a name="1"></a>1. 看AI模型o3猜照片地点：既科幻又令人不安的体验 
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/26/o3-photo-locations/): Watching o3 guess a photo's location is surreal, dystopian and entertaining</small>
 
 
-| 🔥🔥: 678 \| 💬: [316](https://news.ycombinator.com/item?id=43803243) \| 🗓️ 2025-04-26
+| 🔥🔥: 707 \| 💬: [324](https://news.ycombinator.com/item?id=43803243) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -49,11 +37,23 @@ tags:
 
 ---
 
+## <a name="2"></a>2. ICE强行驱逐三名美国公民儿童 剥夺法律与医疗救助引发众怒 
+<small>🔗 [aclu.org](https://www.aclu.org/press-releases/ice-deports-3-u-s-citizen-children-held-incommunicado-prior-to-the-deportation): ICE Deports 3 U.S. Citizen Children Held Incommunicado Prior to the Deportation</small>
+
+
+| 🔥🔥: 685 \| 💬: [703](https://news.ycombinator.com/item?id=43801959) \| 🗓️ 2025-04-26
+
+
+<br />
+美国移民与海关执法局（ICE）在新奥尔良秘密驱逐了两户家庭，其中包括**三名美国公民儿童**（2岁、4岁和7岁）及一名孕妇。这些家庭被拘留期间被切断与律师和亲属的联系，**剥夺法律程序权利**。一名患癌儿童被驱逐时未获药物，孕妇亦无产检保障。多个人权组织谴责此举违反**基本人权**和ICE自身规定，要求政府承担责任并让家庭返美。事件暴露移民执法的系统性暴力，引发对特朗普政府政策的强烈批评。
+
+---
+
 ## <a name="3"></a>3. 前列腺问题的终结？ 
 <small>🔗 [yarchive.net](https://yarchive.net/blog/prostate/): An end to all this prostate trouble?</small>
 
 
-| 🔥🔥: 531 \| 💬: [231](https://news.ycombinator.com/item?id=43801906) \| 🗓️ 2025-04-26
+| 🔥🔥: 549 \| 💬: [240](https://news.ycombinator.com/item?id=43801906) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -65,7 +65,7 @@ tags:
 <small>🔗 [happiness.hks.harvard.edu](https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting): The Friendship Recession: The lost art of connecting</small>
 
 
-| 🔥🔥: 376 \| 💬: [291](https://news.ycombinator.com/item?id=43802727) \| 🗓️ 2025-04-26
+| 🔥🔥: 383 \| 💬: [308](https://news.ycombinator.com/item?id=43802727) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -77,7 +77,7 @@ tags:
 <small>🔗 [github.com](https://github.com/joexbayer/RetrOS-32): Show HN: My self-written hobby OS is finally running on my vintage IBM ThinkPad</small>
 
 
-| 🔥🔥: 357 \| 💬: [78](https://news.ycombinator.com/item?id=43803148) \| 🗓️ 2025-04-26
+| 🔥🔥: 371 \| 💬: [79](https://news.ycombinator.com/item?id=43803148) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -89,7 +89,7 @@ tags:
 <small>🔗 [morpheus-research.com](https://www.morpheus-research.com/backblaze/): Backblaze: Mounting Losses, Lawsuits, Sham Accounting, Insider Selling</small>
 
 
-| 🔥🔥: 227 \| 💬: [139](https://news.ycombinator.com/item?id=43802675) \| 🗓️ 2025-04-26
+| 🔥🔥: 231 \| 💬: [139](https://news.ycombinator.com/item?id=43802675) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -101,7 +101,7 @@ tags:
 <small>🔗 [pluralistic.net](https://pluralistic.net/2025/04/18/chatty-zucky/): Mark Zuckerberg personally lost the Facebook antitrust case</small>
 
 
-| 🔥🔥: 223 \| 💬: [90](https://news.ycombinator.com/item?id=43802497) \| 🗓️ 2025-04-26
+| 🔥🔥: 224 \| 💬: [90](https://news.ycombinator.com/item?id=43802497) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -113,7 +113,7 @@ tags:
 <small>🔗 [github.com](https://github.com/facebookresearch/MILS): LLMs can see and hear without any training</small>
 
 
-| 🔥🔥: 171 \| 💬: [61](https://news.ycombinator.com/item?id=43803518) \| 🗓️ 2025-04-26
+| 🔥🔥: 176 \| 💬: [61](https://news.ycombinator.com/item?id=43803518) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -125,7 +125,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/04/mypillow-ceos-lawyers-used-ai-in-brief-citing-fictional-cases-judge-says/): Mike Lindell's lawyers used AI to write brief–judge finds nearly 30 mistakes</small>
 
 
-| 🔥🔥: 170 \| 💬: [134](https://news.ycombinator.com/item?id=43802063) \| 🗓️ 2025-04-26
+| 🔥🔥: 171 \| 💬: [135](https://news.ycombinator.com/item?id=43802063) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -137,7 +137,7 @@ tags:
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/changemyview/comments/1k8b2hj/meta_unauthorized_experiment_on_cmv_involving/): Unauthorized experiment on r/changemyview involving AI-generated comments</small>
 
 
-| 🔥🔥: 148 \| 💬: [107](https://news.ycombinator.com/item?id=43806940) \| 🗓️ 2025-04-26
+| 🔥🔥: 154 \| 💬: [108](https://news.ycombinator.com/item?id=43806940) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -149,11 +149,23 @@ tags:
 
 ---
 
-## <a name="11"></a>11. 用NaN塞数据：Stuffed-Na(a)N库的妙用 
+## <a name="11"></a>11. 亚马逊“巧合”在独立书店日大促，遭书商怒怼 
+<small>🔗 [gizmodo.com](https://gizmodo.com/amazon-just-happens-to-hold-book-sale-during-independent-bookstore-day-2000594958): Amazon Just Happens to Hold Book Sale During Independent Bookstore Day</small>
+
+
+| 🔥🔥: 127 \| 💬: [89](https://news.ycombinator.com/item?id=43808334) \| 🗓️ 2025-04-26
+
+
+<br />
+4月26日是**独立书店日**，全美1600多家书店联合庆祝。而亚马逊“恰好”将年度图书促销（仅第二年举办）定在4月23日至28日，直接覆盖这一节日。书商批评此举**蓄意打压**，指出去年促销日期并未冲突。亚马逊辩称“无意重叠”，但业界认为其延续了**低价挤压实体书店**的一贯策略。尽管亚马逊来势汹汹，独立书店仍通过社区黏性和独特体验顽强生存，甚至反向进军线上。文章呼吁读者多支持本地书店，体验算法无法替代的个性化服务。
+
+---
+
+## <a name="12"></a>12. 用NaN塞数据：Stuffed-Na(a)N库的妙用 
 <small>🔗 [github.com](https://github.com/si14/stuffed-naan-js): Stuffed-Na(a)N: stuff your NaNs</small>
 
 
-| 🔥🔥: 108 \| 💬: [47](https://news.ycombinator.com/item?id=43803724) \| 🗓️ 2025-04-26
+| 🔥🔥: 111 \| 💬: [47](https://news.ycombinator.com/item?id=43803724) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -165,11 +177,11 @@ tags:
 
 ---
 
-## <a name="12"></a>12. 裸机系统上的C标准库：用Newlib实现printf功能 
+## <a name="13"></a>13. 裸机系统上的C标准库：用Newlib实现printf功能 
 <small>🔗 [popovicu.com](https://popovicu.com/posts/bare-metal-printf/): Bare metal printf – C standard library without OS</small>
 
 
-| 🔥🔥: 105 \| 💬: [30](https://news.ycombinator.com/item?id=43807404) \| 🗓️ 2025-04-26
+| 🔥🔥: 110 \| 💬: [33](https://news.ycombinator.com/item?id=43807404) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -177,23 +189,11 @@ tags:
 
 ---
 
-## <a name="13"></a>13. 亚马逊“巧合”在独立书店日大促，遭书商怒怼 
-<small>🔗 [gizmodo.com](https://gizmodo.com/amazon-just-happens-to-hold-book-sale-during-independent-bookstore-day-2000594958): Amazon Just Happens to Hold Book Sale During Independent Bookstore Day</small>
-
-
-| 🔥🔥: 101 \| 💬: [56](https://news.ycombinator.com/item?id=43808334) \| 🗓️ 2025-04-26
-
-
-<br />
-4月26日是**独立书店日**，全美1600多家书店联合庆祝。而亚马逊“恰好”将年度图书促销（仅第二年举办）定在4月23日至28日，直接覆盖这一节日。书商批评此举**蓄意打压**，指出去年促销日期并未冲突。亚马逊辩称“无意重叠”，但业界认为其延续了**低价挤压实体书店**的一贯策略。尽管亚马逊来势汹汹，独立书店仍通过社区黏性和独特体验顽强生存，甚至反向进军线上。文章呼吁读者多支持本地书店，体验算法无法替代的个性化服务。
-
----
-
 ## <a name="14"></a>14. 萨尔瓦多监狱暴行：布克尔政府下的酷刑与死亡黑幕 
 <small>🔗 [english.elpais.com](https://english.elpais.com/international/2023-05-29/inmates-in-el-salvador-tortured-and-strangled-a-report-denounces-hellish-conditions-in-bukeles-prisons.html): Inmates in ElSalvador tortured/strangled-hellish conditions in Bukele's prisons (2023)</small>
 
 
-| 🔥: 94 \| 💬: [59](https://news.ycombinator.com/item?id=43802491) \| 🗓️ 2025-04-26
+| 🔥: 95 \| 💬: [60](https://news.ycombinator.com/item?id=43802491) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -205,7 +205,7 @@ tags:
 <small>🔗 [github.com](https://github.com/tilt-dev/tilt): Tilt: dev environment as code</small>
 
 
-| 🔥: 84 \| 💬: [40](https://news.ycombinator.com/item?id=43806296) \| 🗓️ 2025-04-26
+| 🔥: 91 \| 💬: [43](https://news.ycombinator.com/item?id=43806296) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -213,7 +213,31 @@ Tilt 是一个专为 **Kubernetes** 微服务应用设计的工具，允许开�
 
 ---
 
-## <a name="16"></a>16. 滑铁卢大学因疑似使用AI而暂扣编程比赛结果 
+## <a name="16"></a>16. BART推出动漫吉祥物推广公共交通 
+<small>🔗 [bart.gov](https://www.bart.gov/news/fun/anime): BART's Anime Mascots</small>
+
+
+| 🔥: 88 \| 💬: [36](https://news.ycombinator.com/item?id=43806281) \| 🗓️ 2025-04-26
+
+
+<br />
+BART近日发布以**动漫角色Mira和Jasmine**为主题的涂色卡及**BART列车cosplay制作指南**，旨在通过年轻化形象吸引青少年乘客。这些吉祥物灵感源自日本和台湾的交通宣传模式，由加州艺术家设计，于2023年正式亮相。角色包括热爱火车的时尚学生Jasmine、列车员Mira等，均配有周边商品。项目强调**社区联结**与**公共交通推广**，鼓励粉丝参与角色扮演。
+
+---
+
+## <a name="17"></a>17. 经济学家也懵了：全球经济数据质量堪忧 
+<small>🔗 [economist.com](https://www.economist.com/finance-and-economics/2025/04/24/economists-dont-know-whats-going-on): Economists don't know what's going on</small>
+
+
+| 🔥: 84 \| 💬: [160](https://news.ycombinator.com/item?id=43806375) \| 🗓️ 2025-04-26
+
+
+<br />
+英国政府正调查国家统计局（ONS），因其GDP计算数据出现错误，导致投资者对月度就业报告失去信任。这一事件反映出**全球经济数据质量急剧下滑**的严峻趋势。**统计机构公信力崩塌**正让决策者和市场陷入"盲飞"状态，而数据失真可能加剧经济误判风险。
+
+---
+
+## <a name="18"></a>18. 滑铁卢大学因疑似使用AI而暂扣编程比赛结果 
 <small>🔗 [thelogic.co](https://thelogic.co/news/waterloo-university-coding-competition-ai-cheating/): University of Waterloo withholds coding contest results over suspected AI use</small>
 
 
@@ -225,19 +249,19 @@ Tilt 是一个专为 **Kubernetes** 微服务应用设计的工具，允许开�
 
 ---
 
-## <a name="17"></a>17. 经济学家也懵了：全球经济数据质量堪忧 
-<small>🔗 [economist.com](https://www.economist.com/finance-and-economics/2025/04/24/economists-dont-know-whats-going-on): Economists don't know what's going on</small>
+## <a name="19"></a>19. 七年重生法则 
+<small>🔗 [macsparky.com](https://www.macsparky.com/blog/2025/04/the-seven-year-rule/): The Seven-Year Rule</small>
 
 
-| 🔥: 82 \| 💬: [157](https://news.ycombinator.com/item?id=43806375) \| 🗓️ 2025-04-26
+| 🔥: 79 \| 💬: [67](https://news.ycombinator.com/item?id=43805369) \| 🗓️ 2025-04-26
 
 
 <br />
-英国政府正调查国家统计局（ONS），因其GDP计算数据出现错误，导致投资者对月度就业报告失去信任。这一事件反映出**全球经济数据质量急剧下滑**的严峻趋势。**统计机构公信力崩塌**正让决策者和市场陷入"盲飞"状态，而数据失真可能加剧经济误判风险。
+达赖喇嘛曾提出一个有趣观点：**每七年**，人体细胞会全部更新，意味着你已蜕变为全新的自己。这一**生理规律**提醒我们，过去犯错的"旧我"早已不存在，未来版本也尚未形成。与其纠结历史或焦虑未来，不如专注当下——因为此刻的你正经历着细胞、心理与精神的**持续蜕变**。接纳这种流动状态，方能真正活在当下。
 
 ---
 
-## <a name="18"></a>18. 巴洛的成人行为准则 
+## <a name="20"></a>20. 巴洛的成人行为准则 
 <small>🔗 [mail-archive.com](https://www.mail-archive.com/silklist@lists.hserus.net/msg08034.html): Barlow's Principles of Adult Behaviour</small>
 
 
@@ -249,31 +273,19 @@ Tilt 是一个专为 **Kubernetes** 微服务应用设计的工具，允许开�
 
 ---
 
-## <a name="19"></a>19. 七年重生法则 
-<small>🔗 [macsparky.com](https://www.macsparky.com/blog/2025/04/the-seven-year-rule/): The Seven-Year Rule</small>
+## <a name="21"></a>21. 比尔·盖茨在8位BASIC中隐藏的彩蛋（2008） 
+<small>🔗 [pagetable.com](https://www.pagetable.com/?p=43): Bill Gates's Personal Easter Eggs in 8 Bit BASIC (2008)</small>
 
 
-| 🔥: 77 \| 💬: [65](https://news.ycombinator.com/item?id=43805369) \| 🗓️ 2025-04-26
-
-
-<br />
-达赖喇嘛曾提出一个有趣观点：**每七年**，人体细胞会全部更新，意味着你已蜕变为全新的自己。这一**生理规律**提醒我们，过去犯错的"旧我"早已不存在，未来版本也尚未形成。与其纠结历史或焦虑未来，不如专注当下——因为此刻的你正经历着细胞、心理与精神的**持续蜕变**。接纳这种流动状态，方能真正活在当下。
-
----
-
-## <a name="20"></a>20. BART推出动漫吉祥物推广公共交通 
-<small>🔗 [bart.gov](https://www.bart.gov/news/fun/anime): BART's Anime Mascots</small>
-
-
-| 🔥: 77 \| 💬: [34](https://news.ycombinator.com/item?id=43806281) \| 🗓️ 2025-04-26
+| 🔥: 78 \| 💬: [18](https://news.ycombinator.com/item?id=43806491) \| 🗓️ 2025-04-26
 
 
 <br />
-BART近日发布以**动漫角色Mira和Jasmine**为主题的涂色卡及**BART列车cosplay制作指南**，旨在通过年轻化形象吸引青少年乘客。这些吉祥物灵感源自日本和台湾的交通宣传模式，由加州艺术家设计，于2023年正式亮相。角色包括热爱火车的时尚学生Jasmine、列车员Mira等，均配有周边商品。项目强调**社区联结**与**公共交通推广**，鼓励粉丝参与角色扮演。
+1979年，在Commodore PET的BASIC V2中输入`WAIT6502,1`，屏幕左上角会显示**“MICROSOFT!”**。传说这是比尔·盖茨在与Commodore创始人杰克·特拉梅尔争执后植入的彩蛋，旨在防止Commodore声称代码非微软所写。微软还在其他BASIC版本中隐藏了相同字符串，如TRS-80 Color Computer的`CLS9`指令。这些彩蛋揭示了微软早期如何通过**隐蔽手段**维护版权声明，并反映了其与硬件厂商的微妙关系。Commodore发现后愤怒删除了相关代码，但六年后又在BASIC V7中重新加入了微软版权信息。
 
 ---
 
-## <a name="21"></a>21. 初代和第二代Nest恒温器将于2025年10月停止支持 
+## <a name="22"></a>22. 初代和第二代Nest恒温器将于2025年10月停止支持 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/04/google-ending-support-for-older-nest-thermostats-will-stop-selling-nests-in-europe/): First and 2nd gen Nest Thermostats will lose support in Oct 2025</small>
 
 
@@ -285,11 +297,11 @@ BART近日发布以**动漫角色Mira和Jasmine**为主题的涂色卡及**BART�
 
 ---
 
-## <a name="22"></a>22. 感谢你帮我拿鸭子（2021） 
+## <a name="23"></a>23. 感谢你帮我拿鸭子（2021） 
 <small>🔗 [naml.us](https://naml.us/post/thank-you-for-holding-my-duck/): Thank you for holding my duck (2021)</small>
 
 
-| 🔥: 75 \| 💬: [22](https://news.ycombinator.com/item?id=43803659) \| 🗓️ 2025-04-26
+| 🔥: 76 \| 💬: [22](https://news.ycombinator.com/item?id=43803659) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -297,23 +309,11 @@ BART近日发布以**动漫角色Mira和Jasmine**为主题的涂色卡及**BART�
 
 ---
 
-## <a name="23"></a>23. 比尔·盖茨在8位BASIC中隐藏的彩蛋（2008） 
-<small>🔗 [pagetable.com](https://www.pagetable.com/?p=43): Bill Gates's Personal Easter Eggs in 8 Bit BASIC (2008)</small>
-
-
-| 🔥: 74 \| 💬: [18](https://news.ycombinator.com/item?id=43806491) \| 🗓️ 2025-04-26
-
-
-<br />
-1979年，在Commodore PET的BASIC V2中输入`WAIT6502,1`，屏幕左上角会显示**“MICROSOFT!”**。传说这是比尔·盖茨在与Commodore创始人杰克·特拉梅尔争执后植入的彩蛋，旨在防止Commodore声称代码非微软所写。微软还在其他BASIC版本中隐藏了相同字符串，如TRS-80 Color Computer的`CLS9`指令。这些彩蛋揭示了微软早期如何通过**隐蔽手段**维护版权声明，并反映了其与硬件厂商的微妙关系。Commodore发现后愤怒删除了相关代码，但六年后又在BASIC V7中重新加入了微软版权信息。
-
----
-
 ## <a name="24"></a>24. 美国国家科学基金会再终止数百项资助，局长突然辞职 
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-01312-8): Hundreds more NSF grants terminated after agency director resigns</small>
 
 
-| 🔥: 64 \| 💬: [36](https://news.ycombinator.com/item?id=43806694) \| 🗓️ 2025-04-26
+| 🔥: 66 \| 💬: [36](https://news.ycombinator.com/item?id=43806694) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -321,14 +321,14 @@ BART近日发布以**动漫角色Mira和Jasmine**为主题的涂色卡及**BART�
 
 ---
 
-## <a name="25"></a>25. 人工智能时代，人文学科将何去何从？ 
-<small>🔗 [newyorker.com](https://www.newyorker.com/culture/the-weekend-essay/will-the-humanities-survive-artificial-intelligence): Will the Humanities Survive Artificial Intelligence?</small>
+## <a name="25"></a>25. 顶级员工监控软件泄露2100万用户截图 
+<small>🔗 [techradar.com](https://www.techradar.com/pro/security/top-employee-monitoring-app-leaks-21-million-screenshots-on-thousands-of-users): Top employee monitoring app leaks 21M screenshots on users</small>
 
 
-| 🔥: 40 \| 💬: [64](https://news.ycombinator.com/item?id=43802436) \| 🗓️ 2025-04-26
+| 🔥: 41 \| 💬: [4](https://news.ycombinator.com/item?id=43803325) \| 🗓️ 2025-04-26
 
 
 <br />
-文章探讨了人工智能对人文学科的冲击。作者作为历史学教授，观察到高校对AI工具普遍采取**禁止政策**，但认为这种回避态度不可持续。通过实例展示，AI已能**深度解析学术内容**（如生成课程播客、模拟宗教冥想对话），甚至挑战传统学术产出的价值。学生与AI的互动揭示了其作为**“亦敌亦友”**的存在——既能辅助研究，又引发对知识本质的反思。作者警示，人文学科必须直面这场变革，重新定义自身在技术时代的角色。
+网络安全研究人员发现，**WorkComposer**（一款员工生产力监控工具）的**未加密亚马逊S3存储桶**公开了超过2100万张实时截图。这些截图可能包含敏感信息，如密码、邮件和专有数据，导致用户面临身份盗窃和欺诈风险。尽管公司已封锁存储桶，但若此前被黑客访问，后果严重。此次事件再次凸显企业**云安全责任意识薄弱**的问题。
 
 ---
