@@ -27,7 +27,7 @@ tags:
 <small>🔗 [aclu.org](https://www.aclu.org/press-releases/ice-deports-3-u-s-citizen-children-held-incommunicado-prior-to-the-deportation): ICE Deports 3 U.S. Citizen Children Held Incommunicado Prior to the Deportation</small>
 
 
-| 🔥🔥: 663 \| 💬: [646](https://news.ycombinator.com/item?id=43801959) \| 🗓️ 2025-04-26
+| 🔥🔥: 666 \| 💬: [656](https://news.ycombinator.com/item?id=43801959) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/26/o3-photo-locations/): Watching o3 guess a photo's location is surreal, dystopian and entertaining</small>
 
 
-| 🔥🔥: 617 \| 💬: [301](https://news.ycombinator.com/item?id=43803243) \| 🗓️ 2025-04-26
+| 🔥🔥: 633 \| 💬: [303](https://news.ycombinator.com/item?id=43803243) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -53,7 +53,7 @@ tags:
 <small>🔗 [yarchive.net](https://yarchive.net/blog/prostate/): An end to all this prostate trouble?</small>
 
 
-| 🔥🔥: 487 \| 💬: [216](https://news.ycombinator.com/item?id=43801906) \| 🗓️ 2025-04-26
+| 🔥🔥: 500 \| 💬: [219](https://news.ycombinator.com/item?id=43801906) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -65,7 +65,7 @@ tags:
 <small>🔗 [happiness.hks.harvard.edu](https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting): The Friendship Recession: The lost art of connecting</small>
 
 
-| 🔥🔥: 338 \| 💬: [263](https://news.ycombinator.com/item?id=43802727) \| 🗓️ 2025-04-26
+| 🔥🔥: 350 \| 💬: [277](https://news.ycombinator.com/item?id=43802727) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -77,7 +77,7 @@ tags:
 <small>🔗 [github.com](https://github.com/joexbayer/RetrOS-32): Show HN: My self-written hobby OS is finally running on my vintage IBM ThinkPad</small>
 
 
-| 🔥🔥: 312 \| 💬: [64](https://news.ycombinator.com/item?id=43803148) \| 🗓️ 2025-04-26
+| 🔥🔥: 334 \| 💬: [71](https://news.ycombinator.com/item?id=43803148) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -85,23 +85,11 @@ tags:
 
 ---
 
-## <a name="6"></a>6. 扎克伯格因内部文件坐实反垄断指控，Meta面临拆分危机 
-<small>🔗 [pluralistic.net](https://pluralistic.net/2025/04/18/chatty-zucky/): Mark Zuckerberg personally lost the Facebook antitrust case</small>
-
-
-| 🔥🔥: 223 \| 💬: [88](https://news.ycombinator.com/item?id=43802497) \| 🗓️ 2025-04-26
-
-
-<br />
-美国联邦贸易委员会（FTC）起诉Meta（原Facebook）的反垄断案取得关键进展。**扎克伯格**的大量内部通信被曝光，直接证明他收购Instagram和WhatsApp是为了**扼杀竞争**，而非业务互补。文件显示，他明确承认收购Instagram是为消除“战略风险”，并压制其发展以维持垄断。此外，Meta被指控收购后降低服务质量并增加广告量，进一步损害用户利益。尽管Meta辩称面临TikTok等竞争，但扎克伯格过往的“社交网络”市场定义言论使其难以自圆其说。此案可能迫使Meta拆分，或成为继微软、IBM后又一被反垄断重塑的科技巨头。
-
----
-
-## <a name="7"></a>7. Backblaze深陷财务丑闻：持续亏损、诉讼缠身、高管套现 
+## <a name="6"></a>6. Backblaze深陷财务丑闻：持续亏损、诉讼缠身、高管套现 
 <small>🔗 [morpheus-research.com](https://www.morpheus-research.com/backblaze/): Backblaze: Mounting Losses, Lawsuits, Sham Accounting, Insider Selling</small>
 
 
-| 🔥🔥: 223 \| 💬: [134](https://news.ycombinator.com/item?id=43802675) \| 🗓️ 2025-04-26
+| 🔥🔥: 225 \| 💬: [134](https://news.ycombinator.com/item?id=43802675) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -109,11 +97,23 @@ tags:
 
 ---
 
+## <a name="7"></a>7. 扎克伯格因内部文件坐实反垄断指控，Meta面临拆分危机 
+<small>🔗 [pluralistic.net](https://pluralistic.net/2025/04/18/chatty-zucky/): Mark Zuckerberg personally lost the Facebook antitrust case</small>
+
+
+| 🔥🔥: 223 \| 💬: [89](https://news.ycombinator.com/item?id=43802497) \| 🗓️ 2025-04-26
+
+
+<br />
+美国联邦贸易委员会（FTC）起诉Meta（原Facebook）的反垄断案取得关键进展。**扎克伯格**的大量内部通信被曝光，直接证明他收购Instagram和WhatsApp是为了**扼杀竞争**，而非业务互补。文件显示，他明确承认收购Instagram是为消除“战略风险”，并压制其发展以维持垄断。此外，Meta被指控收购后降低服务质量并增加广告量，进一步损害用户利益。尽管Meta辩称面临TikTok等竞争，但扎克伯格过往的“社交网络”市场定义言论使其难以自圆其说。此案可能迫使Meta拆分，或成为继微软、IBM后又一被反垄断重塑的科技巨头。
+
+---
+
 ## <a name="8"></a>8. 迈克·林德尔的律师用AI撰写法律简报，法官发现近30处错误 
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/04/mypillow-ceos-lawyers-used-ai-in-brief-citing-fictional-cases-judge-says/): Mike Lindell's lawyers used AI to write brief–judge finds nearly 30 mistakes</small>
 
 
-| 🔥🔥: 166 \| 💬: [127](https://news.ycombinator.com/item?id=43802063) \| 🗓️ 2025-04-26
+| 🔥🔥: 168 \| 💬: [132](https://news.ycombinator.com/item?id=43802063) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -125,7 +125,7 @@ tags:
 <small>🔗 [github.com](https://github.com/facebookresearch/MILS): LLMs can see and hear without any training</small>
 
 
-| 🔥🔥: 156 \| 💬: [55](https://news.ycombinator.com/item?id=43803518) \| 🗓️ 2025-04-26
+| 🔥🔥: 162 \| 💬: [61](https://news.ycombinator.com/item?id=43803518) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -137,7 +137,7 @@ tags:
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/changemyview/comments/1k8b2hj/meta_unauthorized_experiment_on_cmv_involving/): Unauthorized experiment on r/changemyview involving AI-generated comments</small>
 
 
-| 🔥🔥: 109 \| 💬: [72](https://news.ycombinator.com/item?id=43806940) \| 🗓️ 2025-04-26
+| 🔥🔥: 131 \| 💬: [94](https://news.ycombinator.com/item?id=43806940) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -153,7 +153,7 @@ tags:
 <small>🔗 [github.com](https://github.com/si14/stuffed-naan-js): Stuffed-Na(a)N: stuff your NaNs</small>
 
 
-| 🔥: 99 \| 💬: [44](https://news.ycombinator.com/item?id=43803724) \| 🗓️ 2025-04-26
+| 🔥🔥: 105 \| 💬: [45](https://news.ycombinator.com/item?id=43803724) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -169,7 +169,7 @@ tags:
 <small>🔗 [english.elpais.com](https://english.elpais.com/international/2023-05-29/inmates-in-el-salvador-tortured-and-strangled-a-report-denounces-hellish-conditions-in-bukeles-prisons.html): Inmates in ElSalvador tortured/strangled-hellish conditions in Bukele's prisons (2023)</small>
 
 
-| 🔥: 88 \| 💬: [59](https://news.ycombinator.com/item?id=43802491) \| 🗓️ 2025-04-26
+| 🔥: 91 \| 💬: [59](https://news.ycombinator.com/item?id=43802491) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -177,11 +177,23 @@ tags:
 
 ---
 
-## <a name="13"></a>13. 经济学家也懵了：全球经济数据质量堪忧 
+## <a name="13"></a>13. 裸机系统上的C标准库：用Newlib实现printf功能 
+<small>🔗 [popovicu.com](https://popovicu.com/posts/bare-metal-printf/): Bare metal printf – C standard library without OS</small>
+
+
+| 🔥: 84 \| 💬: [25](https://news.ycombinator.com/item?id=43807404) \| 🗓️ 2025-04-26
+
+
+<br />
+本文探讨如何在**裸机系统**上利用**Newlib**构建精简的C标准库，重点实现`printf`功能。通过RISC-V平台示例，作者演示了如何为UART设备编写基础驱动（如字符读写），并将其作为Newlib的底层**系统调用**接口。Newlib的核心思想是提供可定制的轻量级库框架，开发者只需实现关键底层函数（如`_write`），即可自动获得高级功能（如格式化输出）。文中还详细介绍了交叉编译工具链的配置要点，强调裸机环境下需手动处理硬件交互，与操作系统支持的完整标准库形成鲜明对比。
+
+---
+
+## <a name="14"></a>14. 经济学家也懵了：全球经济数据质量堪忧 
 <small>🔗 [economist.com](https://www.economist.com/finance-and-economics/2025/04/24/economists-dont-know-whats-going-on): Economists don't know what's going on</small>
 
 
-| 🔥: 81 \| 💬: [145](https://news.ycombinator.com/item?id=43806375) \| 🗓️ 2025-04-26
+| 🔥: 81 \| 💬: [149](https://news.ycombinator.com/item?id=43806375) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -189,7 +201,19 @@ tags:
 
 ---
 
-## <a name="14"></a>14. 初代和第二代Nest恒温器将于2025年10月停止支持 
+## <a name="15"></a>15. 滑铁卢大学因疑似使用AI而暂扣编程比赛结果 
+<small>🔗 [thelogic.co](https://thelogic.co/news/waterloo-university-coding-competition-ai-cheating/): University of Waterloo withholds coding contest results over suspected AI use</small>
+
+
+| 🔥: 78 \| 💬: [60](https://news.ycombinator.com/item?id=43805238) \| 🗓️ 2025-04-26
+
+
+<br />
+胡安·马鲁兰达·德洛斯里奥斯本不必参加这场三小时的考试，但他主动选择挑战。在语言可能成为障碍的体系中，**数字**对他而言更显可靠。校方因怀疑参赛者使用**人工智能辅助答题**，决定暂不公布比赛结果。事件引发对学术诚信与**技术边界**的讨论，同时提醒用户订阅服务条款中的隐私条款可随时修改。
+
+---
+
+## <a name="16"></a>16. 初代和第二代Nest恒温器将于2025年10月停止支持 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/04/google-ending-support-for-older-nest-thermostats-will-stop-selling-nests-in-europe/): First and 2nd gen Nest Thermostats will lose support in Oct 2025</small>
 
 
@@ -201,23 +225,11 @@ tags:
 
 ---
 
-## <a name="15"></a>15. 滑铁卢大学因疑似使用AI而暂扣编程比赛结果 
-<small>🔗 [thelogic.co](https://thelogic.co/news/waterloo-university-coding-competition-ai-cheating/): University of Waterloo withholds coding contest results over suspected AI use</small>
-
-
-| 🔥: 74 \| 💬: [59](https://news.ycombinator.com/item?id=43805238) \| 🗓️ 2025-04-26
-
-
-<br />
-胡安·马鲁兰达·德洛斯里奥斯本不必参加这场三小时的考试，但他主动选择挑战。在语言可能成为障碍的体系中，**数字**对他而言更显可靠。校方因怀疑参赛者使用**人工智能辅助答题**，决定暂不公布比赛结果。事件引发对学术诚信与**技术边界**的讨论，同时提醒用户订阅服务条款中的隐私条款可随时修改。
-
----
-
-## <a name="16"></a>16. 巴洛的成人行为准则 
+## <a name="17"></a>17. 巴洛的成人行为准则 
 <small>🔗 [mail-archive.com](https://www.mail-archive.com/silklist@lists.hserus.net/msg08034.html): Barlow's Principles of Adult Behaviour</small>
 
 
-| 🔥: 74 \| 💬: [42](https://news.ycombinator.com/item?id=43805729) \| 🗓️ 2025-04-26
+| 🔥: 75 \| 💬: [43](https://news.ycombinator.com/item?id=43805729) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -225,11 +237,11 @@ tags:
 
 ---
 
-## <a name="17"></a>17. 七年重生法则 
+## <a name="18"></a>18. 七年重生法则 
 <small>🔗 [macsparky.com](https://www.macsparky.com/blog/2025/04/the-seven-year-rule/): The Seven-Year Rule</small>
 
 
-| 🔥: 68 \| 💬: [56](https://news.ycombinator.com/item?id=43805369) \| 🗓️ 2025-04-26
+| 🔥: 73 \| 💬: [64](https://news.ycombinator.com/item?id=43805369) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -237,11 +249,11 @@ tags:
 
 ---
 
-## <a name="18"></a>18. 感谢你帮我拿鸭子（2021） 
+## <a name="19"></a>19. 感谢你帮我拿鸭子（2021） 
 <small>🔗 [naml.us](https://naml.us/post/thank-you-for-holding-my-duck/): Thank you for holding my duck (2021)</small>
 
 
-| 🔥: 66 \| 💬: [21](https://news.ycombinator.com/item?id=43803659) \| 🗓️ 2025-04-26
+| 🔥: 70 \| 💬: [21](https://news.ycombinator.com/item?id=43803659) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -249,47 +261,11 @@ tags:
 
 ---
 
-## <a name="19"></a>19. 裸机系统上的C标准库：用Newlib实现printf功能 
-<small>🔗 [popovicu.com](https://popovicu.com/posts/bare-metal-printf/): Bare metal printf – C standard library without OS</small>
-
-
-| 🔥: 65 \| 💬: [20](https://news.ycombinator.com/item?id=43807404) \| 🗓️ 2025-04-26
-
-
-<br />
-本文探讨如何在**裸机系统**上利用**Newlib**构建精简的C标准库，重点实现`printf`功能。通过RISC-V平台示例，作者演示了如何为UART设备编写基础驱动（如字符读写），并将其作为Newlib的底层**系统调用**接口。Newlib的核心思想是提供可定制的轻量级库框架，开发者只需实现关键底层函数（如`_write`），即可自动获得高级功能（如格式化输出）。文中还详细介绍了交叉编译工具链的配置要点，强调裸机环境下需手动处理硬件交互，与操作系统支持的完整标准库形成鲜明对比。
-
----
-
-## <a name="20"></a>20. 美国国家科学基金会再终止数百项资助，局长突然辞职 
-<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-01312-8): Hundreds more NSF grants terminated after agency director resigns</small>
-
-
-| 🔥: 60 \| 💬: [36](https://news.ycombinator.com/item?id=43806694) \| 🗓️ 2025-04-26
-
-
-<br />
-美国国家科学基金会（NSF）因预算削减和机构重组陷入动荡。局长**塞图拉曼·潘查纳坦**突然辞职，同日基金会再终止数百项研究资助，此前已终止数百项。特朗普政府计划将NSF的90亿美元预算削减55%，并裁员50%。内部文件显示，至少387项总值2.37亿美元的资助被取消，其中45%资金已拨付。**教育部门的资助**占比超三分之一。争议源于共和党议员泰德·克鲁兹此前公布的“促进多元化”资助清单，但民主党分析指出其存在严重错误。NSF临时由首席幕僚**布莱恩·斯通**接管，白宫尚未任命新局长。
-
----
-
-## <a name="21"></a>21. BART推出动漫吉祥物推广公共交通 
-<small>🔗 [bart.gov](https://www.bart.gov/news/fun/anime): BART's Anime Mascots</small>
-
-
-| 🔥: 51 \| 💬: [20](https://news.ycombinator.com/item?id=43806281) \| 🗓️ 2025-04-26
-
-
-<br />
-BART近日发布以**动漫角色Mira和Jasmine**为主题的涂色卡及**BART列车cosplay制作指南**，旨在通过年轻化形象吸引青少年乘客。这些吉祥物灵感源自日本和台湾的交通宣传模式，由加州艺术家设计，于2023年正式亮相。角色包括热爱火车的时尚学生Jasmine、列车员Mira等，均配有周边商品。项目强调**社区联结**与**公共交通推广**，鼓励粉丝参与角色扮演。
-
----
-
-## <a name="22"></a>22. Tilt：将开发环境代码化 
+## <a name="20"></a>20. Tilt：将开发环境代码化 
 <small>🔗 [github.com](https://github.com/tilt-dev/tilt): Tilt: dev environment as code</small>
 
 
-| 🔥: 51 \| 💬: [33](https://news.ycombinator.com/item?id=43806296) \| 🗓️ 2025-04-26
+| 🔥: 65 \| 💬: [35](https://news.ycombinator.com/item?id=43806296) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -297,11 +273,35 @@ Tilt 是一个专为 **Kubernetes** 微服务应用设计的工具，允许开�
 
 ---
 
+## <a name="21"></a>21. BART推出动漫吉祥物推广公共交通 
+<small>🔗 [bart.gov](https://www.bart.gov/news/fun/anime): BART's Anime Mascots</small>
+
+
+| 🔥: 63 \| 💬: [28](https://news.ycombinator.com/item?id=43806281) \| 🗓️ 2025-04-26
+
+
+<br />
+BART近日发布以**动漫角色Mira和Jasmine**为主题的涂色卡及**BART列车cosplay制作指南**，旨在通过年轻化形象吸引青少年乘客。这些吉祥物灵感源自日本和台湾的交通宣传模式，由加州艺术家设计，于2023年正式亮相。角色包括热爱火车的时尚学生Jasmine、列车员Mira等，均配有周边商品。项目强调**社区联结**与**公共交通推广**，鼓励粉丝参与角色扮演。
+
+---
+
+## <a name="22"></a>22. 美国国家科学基金会再终止数百项资助，局长突然辞职 
+<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-01312-8): Hundreds more NSF grants terminated after agency director resigns</small>
+
+
+| 🔥: 61 \| 💬: [36](https://news.ycombinator.com/item?id=43806694) \| 🗓️ 2025-04-26
+
+
+<br />
+美国国家科学基金会（NSF）因预算削减和机构重组陷入动荡。局长**塞图拉曼·潘查纳坦**突然辞职，同日基金会再终止数百项研究资助，此前已终止数百项。特朗普政府计划将NSF的90亿美元预算削减55%，并裁员50%。内部文件显示，至少387项总值2.37亿美元的资助被取消，其中45%资金已拨付。**教育部门的资助**占比超三分之一。争议源于共和党议员泰德·克鲁兹此前公布的“促进多元化”资助清单，但民主党分析指出其存在严重错误。NSF临时由首席幕僚**布莱恩·斯通**接管，白宫尚未任命新局长。
+
+---
+
 ## <a name="23"></a>23. 比尔·盖茨在8位BASIC中隐藏的彩蛋（2008） 
 <small>🔗 [pagetable.com](https://www.pagetable.com/?p=43): Bill Gates's Personal Easter Eggs in 8 Bit BASIC (2008)</small>
 
 
-| 🔥: 50 \| 💬: [12](https://news.ycombinator.com/item?id=43806491) \| 🗓️ 2025-04-26
+| 🔥: 59 \| 💬: [13](https://news.ycombinator.com/item?id=43806491) \| 🗓️ 2025-04-26
 
 
 <br />
