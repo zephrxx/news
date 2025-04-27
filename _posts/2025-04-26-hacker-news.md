@@ -27,7 +27,7 @@ tags:
 <small>🔗 [aclu.org](https://www.aclu.org/press-releases/ice-deports-3-u-s-citizen-children-held-incommunicado-prior-to-the-deportation): ICE Deports 3 U.S. Citizen Children Held Incommunicado Prior to the Deportation</small>
 
 
-| 🔥🔥: 666 \| 💬: [656](https://news.ycombinator.com/item?id=43801959) \| 🗓️ 2025-04-26
+| 🔥🔥: 671 \| 💬: [667](https://news.ycombinator.com/item?id=43801959) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/26/o3-photo-locations/): Watching o3 guess a photo's location is surreal, dystopian and entertaining</small>
 
 
-| 🔥🔥: 633 \| 💬: [303](https://news.ycombinator.com/item?id=43803243) \| 🗓️ 2025-04-26
+| 🔥🔥: 656 \| 💬: [309](https://news.ycombinator.com/item?id=43803243) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -53,7 +53,7 @@ tags:
 <small>🔗 [yarchive.net](https://yarchive.net/blog/prostate/): An end to all this prostate trouble?</small>
 
 
-| 🔥🔥: 500 \| 💬: [219](https://news.ycombinator.com/item?id=43801906) \| 🗓️ 2025-04-26
+| 🔥🔥: 514 \| 💬: [226](https://news.ycombinator.com/item?id=43801906) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -65,7 +65,7 @@ tags:
 <small>🔗 [happiness.hks.harvard.edu](https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting): The Friendship Recession: The lost art of connecting</small>
 
 
-| 🔥🔥: 350 \| 💬: [277](https://news.ycombinator.com/item?id=43802727) \| 🗓️ 2025-04-26
+| 🔥🔥: 362 \| 💬: [285](https://news.ycombinator.com/item?id=43802727) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -77,7 +77,7 @@ tags:
 <small>🔗 [github.com](https://github.com/joexbayer/RetrOS-32): Show HN: My self-written hobby OS is finally running on my vintage IBM ThinkPad</small>
 
 
-| 🔥🔥: 334 \| 💬: [71](https://news.ycombinator.com/item?id=43803148) \| 🗓️ 2025-04-26
+| 🔥🔥: 343 \| 💬: [75](https://news.ycombinator.com/item?id=43803148) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -101,7 +101,7 @@ tags:
 <small>🔗 [pluralistic.net](https://pluralistic.net/2025/04/18/chatty-zucky/): Mark Zuckerberg personally lost the Facebook antitrust case</small>
 
 
-| 🔥🔥: 223 \| 💬: [89](https://news.ycombinator.com/item?id=43802497) \| 🗓️ 2025-04-26
+| 🔥🔥: 223 \| 💬: [90](https://news.ycombinator.com/item?id=43802497) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -113,7 +113,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/04/mypillow-ceos-lawyers-used-ai-in-brief-citing-fictional-cases-judge-says/): Mike Lindell's lawyers used AI to write brief–judge finds nearly 30 mistakes</small>
 
 
-| 🔥🔥: 168 \| 💬: [132](https://news.ycombinator.com/item?id=43802063) \| 🗓️ 2025-04-26
+| 🔥🔥: 170 \| 💬: [132](https://news.ycombinator.com/item?id=43802063) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -125,7 +125,7 @@ tags:
 <small>🔗 [github.com](https://github.com/facebookresearch/MILS): LLMs can see and hear without any training</small>
 
 
-| 🔥🔥: 162 \| 💬: [61](https://news.ycombinator.com/item?id=43803518) \| 🗓️ 2025-04-26
+| 🔥🔥: 166 \| 💬: [61](https://news.ycombinator.com/item?id=43803518) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -137,7 +137,7 @@ tags:
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/changemyview/comments/1k8b2hj/meta_unauthorized_experiment_on_cmv_involving/): Unauthorized experiment on r/changemyview involving AI-generated comments</small>
 
 
-| 🔥🔥: 131 \| 💬: [94](https://news.ycombinator.com/item?id=43806940) \| 🗓️ 2025-04-26
+| 🔥🔥: 139 \| 💬: [102](https://news.ycombinator.com/item?id=43806940) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -153,7 +153,7 @@ tags:
 <small>🔗 [github.com](https://github.com/si14/stuffed-naan-js): Stuffed-Na(a)N: stuff your NaNs</small>
 
 
-| 🔥🔥: 105 \| 💬: [45](https://news.ycombinator.com/item?id=43803724) \| 🗓️ 2025-04-26
+| 🔥🔥: 107 \| 💬: [46](https://news.ycombinator.com/item?id=43803724) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -169,7 +169,7 @@ tags:
 <small>🔗 [english.elpais.com](https://english.elpais.com/international/2023-05-29/inmates-in-el-salvador-tortured-and-strangled-a-report-denounces-hellish-conditions-in-bukeles-prisons.html): Inmates in ElSalvador tortured/strangled-hellish conditions in Bukele's prisons (2023)</small>
 
 
-| 🔥: 91 \| 💬: [59](https://news.ycombinator.com/item?id=43802491) \| 🗓️ 2025-04-26
+| 🔥: 92 \| 💬: [58](https://news.ycombinator.com/item?id=43802491) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -181,7 +181,7 @@ tags:
 <small>🔗 [popovicu.com](https://popovicu.com/posts/bare-metal-printf/): Bare metal printf – C standard library without OS</small>
 
 
-| 🔥: 84 \| 💬: [25](https://news.ycombinator.com/item?id=43807404) \| 🗓️ 2025-04-26
+| 🔥: 92 \| 💬: [30](https://news.ycombinator.com/item?id=43807404) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -193,7 +193,7 @@ tags:
 <small>🔗 [economist.com](https://www.economist.com/finance-and-economics/2025/04/24/economists-dont-know-whats-going-on): Economists don't know what's going on</small>
 
 
-| 🔥: 81 \| 💬: [149](https://news.ycombinator.com/item?id=43806375) \| 🗓️ 2025-04-26
+| 🔥: 82 \| 💬: [155](https://news.ycombinator.com/item?id=43806375) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -205,7 +205,7 @@ tags:
 <small>🔗 [thelogic.co](https://thelogic.co/news/waterloo-university-coding-competition-ai-cheating/): University of Waterloo withholds coding contest results over suspected AI use</small>
 
 
-| 🔥: 78 \| 💬: [60](https://news.ycombinator.com/item?id=43805238) \| 🗓️ 2025-04-26
+| 🔥: 81 \| 💬: [63](https://news.ycombinator.com/item?id=43805238) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -213,23 +213,11 @@ tags:
 
 ---
 
-## <a name="16"></a>16. 初代和第二代Nest恒温器将于2025年10月停止支持 
-<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/04/google-ending-support-for-older-nest-thermostats-will-stop-selling-nests-in-europe/): First and 2nd gen Nest Thermostats will lose support in Oct 2025</small>
-
-
-| 🔥: 75 \| 💬: [62](https://news.ycombinator.com/item?id=43802574) \| 🗓️ 2025-04-26
-
-
-<br />
-谷歌宣布**初代和第二代Nest Learning恒温器**将于2025年10月终止服务，届时设备将无法连接云端功能，但仍可作为普通温控器使用。北美用户可获**130美元折扣**升级至第四代产品，而欧洲用户因无替代机型，可获第三方Tado恒温器五折优惠。此举与谷歌近期裁减硬件部门有关，但官方强调这些设备已远超五年支持承诺。欧洲市场将不再推出新款Nest恒温器，标志着该产品线退出当地市场。
-
----
-
-## <a name="17"></a>17. 巴洛的成人行为准则 
+## <a name="16"></a>16. 巴洛的成人行为准则 
 <small>🔗 [mail-archive.com](https://www.mail-archive.com/silklist@lists.hserus.net/msg08034.html): Barlow's Principles of Adult Behaviour</small>
 
 
-| 🔥: 75 \| 💬: [43](https://news.ycombinator.com/item?id=43805729) \| 🗓️ 2025-04-26
+| 🔥: 77 \| 💬: [44](https://news.ycombinator.com/item?id=43805729) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -237,11 +225,23 @@ tags:
 
 ---
 
+## <a name="17"></a>17. 初代和第二代Nest恒温器将于2025年10月停止支持 
+<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/04/google-ending-support-for-older-nest-thermostats-will-stop-selling-nests-in-europe/): First and 2nd gen Nest Thermostats will lose support in Oct 2025</small>
+
+
+| 🔥: 76 \| 💬: [62](https://news.ycombinator.com/item?id=43802574) \| 🗓️ 2025-04-26
+
+
+<br />
+谷歌宣布**初代和第二代Nest Learning恒温器**将于2025年10月终止服务，届时设备将无法连接云端功能，但仍可作为普通温控器使用。北美用户可获**130美元折扣**升级至第四代产品，而欧洲用户因无替代机型，可获第三方Tado恒温器五折优惠。此举与谷歌近期裁减硬件部门有关，但官方强调这些设备已远超五年支持承诺。欧洲市场将不再推出新款Nest恒温器，标志着该产品线退出当地市场。
+
+---
+
 ## <a name="18"></a>18. 七年重生法则 
 <small>🔗 [macsparky.com](https://www.macsparky.com/blog/2025/04/the-seven-year-rule/): The Seven-Year Rule</small>
 
 
-| 🔥: 73 \| 💬: [64](https://news.ycombinator.com/item?id=43805369) \| 🗓️ 2025-04-26
+| 🔥: 75 \| 💬: [65](https://news.ycombinator.com/item?id=43805369) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -249,23 +249,11 @@ tags:
 
 ---
 
-## <a name="19"></a>19. 感谢你帮我拿鸭子（2021） 
-<small>🔗 [naml.us](https://naml.us/post/thank-you-for-holding-my-duck/): Thank you for holding my duck (2021)</small>
-
-
-| 🔥: 70 \| 💬: [21](https://news.ycombinator.com/item?id=43803659) \| 🗓️ 2025-04-26
-
-
-<br />
-这篇文章讲述了一个源自**Xerox PARC**的有趣传统：研究人员遇到难题时，会拿着**橡皮鸭**找同事，通过解释问题自行找到答案，最后说“**谢谢帮我拿鸭子**”。作者追溯发现，这一做法经由Pixar团队传播，演变为“虚拟鸭子”——即倾听者只需安静聆听，无需回应。尽管源头难以考证，但故事生动体现了“向他人阐述问题”对激发思路的关键作用。
-
----
-
-## <a name="20"></a>20. Tilt：将开发环境代码化 
+## <a name="19"></a>19. Tilt：将开发环境代码化 
 <small>🔗 [github.com](https://github.com/tilt-dev/tilt): Tilt: dev environment as code</small>
 
 
-| 🔥: 65 \| 💬: [35](https://news.ycombinator.com/item?id=43806296) \| 🗓️ 2025-04-26
+| 🔥: 74 \| 💬: [37](https://news.ycombinator.com/item?id=43806296) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -273,11 +261,23 @@ Tilt 是一个专为 **Kubernetes** 微服务应用设计的工具，允许开�
 
 ---
 
+## <a name="20"></a>20. 感谢你帮我拿鸭子（2021） 
+<small>🔗 [naml.us](https://naml.us/post/thank-you-for-holding-my-duck/): Thank you for holding my duck (2021)</small>
+
+
+| 🔥: 71 \| 💬: [22](https://news.ycombinator.com/item?id=43803659) \| 🗓️ 2025-04-26
+
+
+<br />
+这篇文章讲述了一个源自**Xerox PARC**的有趣传统：研究人员遇到难题时，会拿着**橡皮鸭**找同事，通过解释问题自行找到答案，最后说“**谢谢帮我拿鸭子**”。作者追溯发现，这一做法经由Pixar团队传播，演变为“虚拟鸭子”——即倾听者只需安静聆听，无需回应。尽管源头难以考证，但故事生动体现了“向他人阐述问题”对激发思路的关键作用。
+
+---
+
 ## <a name="21"></a>21. BART推出动漫吉祥物推广公共交通 
 <small>🔗 [bart.gov](https://www.bart.gov/news/fun/anime): BART's Anime Mascots</small>
 
 
-| 🔥: 63 \| 💬: [28](https://news.ycombinator.com/item?id=43806281) \| 🗓️ 2025-04-26
+| 🔥: 67 \| 💬: [33](https://news.ycombinator.com/item?id=43806281) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -285,23 +285,11 @@ BART近日发布以**动漫角色Mira和Jasmine**为主题的涂色卡及**BART�
 
 ---
 
-## <a name="22"></a>22. 美国国家科学基金会再终止数百项资助，局长突然辞职 
-<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-01312-8): Hundreds more NSF grants terminated after agency director resigns</small>
-
-
-| 🔥: 61 \| 💬: [36](https://news.ycombinator.com/item?id=43806694) \| 🗓️ 2025-04-26
-
-
-<br />
-美国国家科学基金会（NSF）因预算削减和机构重组陷入动荡。局长**塞图拉曼·潘查纳坦**突然辞职，同日基金会再终止数百项研究资助，此前已终止数百项。特朗普政府计划将NSF的90亿美元预算削减55%，并裁员50%。内部文件显示，至少387项总值2.37亿美元的资助被取消，其中45%资金已拨付。**教育部门的资助**占比超三分之一。争议源于共和党议员泰德·克鲁兹此前公布的“促进多元化”资助清单，但民主党分析指出其存在严重错误。NSF临时由首席幕僚**布莱恩·斯通**接管，白宫尚未任命新局长。
-
----
-
-## <a name="23"></a>23. 比尔·盖茨在8位BASIC中隐藏的彩蛋（2008） 
+## <a name="22"></a>22. 比尔·盖茨在8位BASIC中隐藏的彩蛋（2008） 
 <small>🔗 [pagetable.com](https://www.pagetable.com/?p=43): Bill Gates's Personal Easter Eggs in 8 Bit BASIC (2008)</small>
 
 
-| 🔥: 59 \| 💬: [13](https://news.ycombinator.com/item?id=43806491) \| 🗓️ 2025-04-26
+| 🔥: 67 \| 💬: [14](https://news.ycombinator.com/item?id=43806491) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -309,7 +297,31 @@ BART近日发布以**动漫角色Mira和Jasmine**为主题的涂色卡及**BART�
 
 ---
 
-## <a name="24"></a>24. 人工智能时代，人文学科将何去何从？ 
+## <a name="23"></a>23. 美国国家科学基金会再终止数百项资助，局长突然辞职 
+<small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-01312-8): Hundreds more NSF grants terminated after agency director resigns</small>
+
+
+| 🔥: 63 \| 💬: [36](https://news.ycombinator.com/item?id=43806694) \| 🗓️ 2025-04-26
+
+
+<br />
+美国国家科学基金会（NSF）因预算削减和机构重组陷入动荡。局长**塞图拉曼·潘查纳坦**突然辞职，同日基金会再终止数百项研究资助，此前已终止数百项。特朗普政府计划将NSF的90亿美元预算削减55%，并裁员50%。内部文件显示，至少387项总值2.37亿美元的资助被取消，其中45%资金已拨付。**教育部门的资助**占比超三分之一。争议源于共和党议员泰德·克鲁兹此前公布的“促进多元化”资助清单，但民主党分析指出其存在严重错误。NSF临时由首席幕僚**布莱恩·斯通**接管，白宫尚未任命新局长。
+
+---
+
+## <a name="24"></a>24. 亚马逊“巧合”在独立书店日大促，遭书商怒怼 
+<small>🔗 [gizmodo.com](https://gizmodo.com/amazon-just-happens-to-hold-book-sale-during-independent-bookstore-day-2000594958): Amazon Just Happens to Hold Book Sale During Independent Bookstore Day</small>
+
+
+| 🔥: 62 \| 💬: [27](https://news.ycombinator.com/item?id=43808334) \| 🗓️ 2025-04-26
+
+
+<br />
+4月26日是**独立书店日**，全美1600多家书店联合庆祝。而亚马逊“恰好”将年度图书促销（仅第二年举办）定在4月23日至28日，直接覆盖这一节日。书商批评此举**蓄意打压**，指出去年促销日期并未冲突。亚马逊辩称“无意重叠”，但业界认为其延续了**低价挤压实体书店**的一贯策略。尽管亚马逊来势汹汹，独立书店仍通过社区黏性和独特体验顽强生存，甚至反向进军线上。文章呼吁读者多支持本地书店，体验算法无法替代的个性化服务。
+
+---
+
+## <a name="25"></a>25. 人工智能时代，人文学科将何去何从？ 
 <small>🔗 [newyorker.com](https://www.newyorker.com/culture/the-weekend-essay/will-the-humanities-survive-artificial-intelligence): Will the Humanities Survive Artificial Intelligence?</small>
 
 
@@ -318,17 +330,5 @@ BART近日发布以**动漫角色Mira和Jasmine**为主题的涂色卡及**BART�
 
 <br />
 文章探讨了人工智能对人文学科的冲击。作者作为历史学教授，观察到高校对AI工具普遍采取**禁止政策**，但认为这种回避态度不可持续。通过实例展示，AI已能**深度解析学术内容**（如生成课程播客、模拟宗教冥想对话），甚至挑战传统学术产出的价值。学生与AI的互动揭示了其作为**“亦敌亦友”**的存在——既能辅助研究，又引发对知识本质的反思。作者警示，人文学科必须直面这场变革，重新定义自身在技术时代的角色。
-
----
-
-## <a name="25"></a>25. 顶级员工监控软件泄露2100万用户截图 
-<small>🔗 [techradar.com](https://www.techradar.com/pro/security/top-employee-monitoring-app-leaks-21-million-screenshots-on-thousands-of-users): Top employee monitoring app leaks 21M screenshots on users</small>
-
-
-| 🔥: 40 \| 💬: [4](https://news.ycombinator.com/item?id=43803325) \| 🗓️ 2025-04-26
-
-
-<br />
-网络安全研究人员发现，**WorkComposer**（一款员工生产力监控工具）的**未加密亚马逊S3存储桶**公开了超过2100万张实时截图。这些截图可能包含敏感信息，如密码、邮件和专有数据，导致用户面临身份盗窃和欺诈风险。尽管公司已封锁存储桶，但若此前被黑客访问，后果严重。此次事件再次凸显企业**云安全责任意识薄弱**的问题。
 
 ---
