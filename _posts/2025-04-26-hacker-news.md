@@ -27,7 +27,7 @@ tags:
 <small>🔗 [aclu.org](https://www.aclu.org/press-releases/ice-deports-3-u-s-citizen-children-held-incommunicado-prior-to-the-deportation): ICE Deports 3 U.S. Citizen Children Held Incommunicado Prior to the Deportation</small>
 
 
-| 🔥🔥: 671 \| 💬: [667](https://news.ycombinator.com/item?id=43801959) \| 🗓️ 2025-04-26
+| 🔥🔥: 679 \| 💬: [693](https://news.ycombinator.com/item?id=43801959) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/26/o3-photo-locations/): Watching o3 guess a photo's location is surreal, dystopian and entertaining</small>
 
 
-| 🔥🔥: 656 \| 💬: [309](https://news.ycombinator.com/item?id=43803243) \| 🗓️ 2025-04-26
+| 🔥🔥: 678 \| 💬: [316](https://news.ycombinator.com/item?id=43803243) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -53,7 +53,7 @@ tags:
 <small>🔗 [yarchive.net](https://yarchive.net/blog/prostate/): An end to all this prostate trouble?</small>
 
 
-| 🔥🔥: 514 \| 💬: [226](https://news.ycombinator.com/item?id=43801906) \| 🗓️ 2025-04-26
+| 🔥🔥: 531 \| 💬: [231](https://news.ycombinator.com/item?id=43801906) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -65,7 +65,7 @@ tags:
 <small>🔗 [happiness.hks.harvard.edu](https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting): The Friendship Recession: The lost art of connecting</small>
 
 
-| 🔥🔥: 362 \| 💬: [285](https://news.ycombinator.com/item?id=43802727) \| 🗓️ 2025-04-26
+| 🔥🔥: 376 \| 💬: [291](https://news.ycombinator.com/item?id=43802727) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -77,7 +77,7 @@ tags:
 <small>🔗 [github.com](https://github.com/joexbayer/RetrOS-32): Show HN: My self-written hobby OS is finally running on my vintage IBM ThinkPad</small>
 
 
-| 🔥🔥: 343 \| 💬: [75](https://news.ycombinator.com/item?id=43803148) \| 🗓️ 2025-04-26
+| 🔥🔥: 357 \| 💬: [78](https://news.ycombinator.com/item?id=43803148) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -89,7 +89,7 @@ tags:
 <small>🔗 [morpheus-research.com](https://www.morpheus-research.com/backblaze/): Backblaze: Mounting Losses, Lawsuits, Sham Accounting, Insider Selling</small>
 
 
-| 🔥🔥: 225 \| 💬: [134](https://news.ycombinator.com/item?id=43802675) \| 🗓️ 2025-04-26
+| 🔥🔥: 227 \| 💬: [139](https://news.ycombinator.com/item?id=43802675) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -109,23 +109,11 @@ tags:
 
 ---
 
-## <a name="8"></a>8. 迈克·林德尔的律师用AI撰写法律简报，法官发现近30处错误 
-<small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/04/mypillow-ceos-lawyers-used-ai-in-brief-citing-fictional-cases-judge-says/): Mike Lindell's lawyers used AI to write brief–judge finds nearly 30 mistakes</small>
-
-
-| 🔥🔥: 170 \| 💬: [132](https://news.ycombinator.com/item?id=43802063) \| 🗓️ 2025-04-26
-
-
-<br />
-美国联邦法官指出，**MyPillow公司CEO迈克·林德尔的律师**在一起诽谤案中使用**人工智能**起草法律简报，其中包含近30处错误引用，包括虚构案例和错误引述。法官要求律师解释为何不应受到制裁，并质疑其职业操守。律师承认使用AI生成内容但未仔细核对，导致引用失实。案件涉及前Dominion员工指控林德尔散布选举欺诈谣言。涉事律师需在5月5日前提交详细说明。
-
----
-
-## <a name="9"></a>9. 大语言模型无需训练即可实现视觉与听觉理解 
+## <a name="8"></a>8. 大语言模型无需训练即可实现视觉与听觉理解 
 <small>🔗 [github.com](https://github.com/facebookresearch/MILS): LLMs can see and hear without any training</small>
 
 
-| 🔥🔥: 166 \| 💬: [61](https://news.ycombinator.com/item?id=43803518) \| 🗓️ 2025-04-26
+| 🔥🔥: 171 \| 💬: [61](https://news.ycombinator.com/item?id=43803518) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -133,11 +121,23 @@ tags:
 
 ---
 
+## <a name="9"></a>9. 迈克·林德尔的律师用AI撰写法律简报，法官发现近30处错误 
+<small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/04/mypillow-ceos-lawyers-used-ai-in-brief-citing-fictional-cases-judge-says/): Mike Lindell's lawyers used AI to write brief–judge finds nearly 30 mistakes</small>
+
+
+| 🔥🔥: 170 \| 💬: [134](https://news.ycombinator.com/item?id=43802063) \| 🗓️ 2025-04-26
+
+
+<br />
+美国联邦法官指出，**MyPillow公司CEO迈克·林德尔的律师**在一起诽谤案中使用**人工智能**起草法律简报，其中包含近30处错误引用，包括虚构案例和错误引述。法官要求律师解释为何不应受到制裁，并质疑其职业操守。律师承认使用AI生成内容但未仔细核对，导致引用失实。案件涉及前Dominion员工指控林德尔散布选举欺诈谣言。涉事律师需在5月5日前提交详细说明。
+
+---
+
 ## <a name="10"></a>10. 苏黎世大学未经许可在CMV论坛进行AI评论实验引发伦理争议 
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/changemyview/comments/1k8b2hj/meta_unauthorized_experiment_on_cmv_involving/): Unauthorized experiment on r/changemyview involving AI-generated comments</small>
 
 
-| 🔥🔥: 139 \| 💬: [102](https://news.ycombinator.com/item?id=43806940) \| 🗓️ 2025-04-26
+| 🔥🔥: 148 \| 💬: [107](https://news.ycombinator.com/item?id=43806940) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -153,7 +153,7 @@ tags:
 <small>🔗 [github.com](https://github.com/si14/stuffed-naan-js): Stuffed-Na(a)N: stuff your NaNs</small>
 
 
-| 🔥🔥: 107 \| 💬: [46](https://news.ycombinator.com/item?id=43803724) \| 🗓️ 2025-04-26
+| 🔥🔥: 108 \| 💬: [47](https://news.ycombinator.com/item?id=43803724) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -165,23 +165,11 @@ tags:
 
 ---
 
-## <a name="12"></a>12. 萨尔瓦多监狱暴行：布克尔政府下的酷刑与死亡黑幕 
-<small>🔗 [english.elpais.com](https://english.elpais.com/international/2023-05-29/inmates-in-el-salvador-tortured-and-strangled-a-report-denounces-hellish-conditions-in-bukeles-prisons.html): Inmates in ElSalvador tortured/strangled-hellish conditions in Bukele's prisons (2023)</small>
-
-
-| 🔥: 92 \| 💬: [58](https://news.ycombinator.com/item?id=43802491) \| 🗓️ 2025-04-26
-
-
-<br />
-人权组织Cristosal调查揭露，**萨尔瓦多**在总统布克尔实施的"打击帮派"紧急状态期间，监狱内存在系统性酷刑与虐囚。**153名囚犯非正常死亡**，其中29例确认暴力致死，46例疑似暴力致死，死因包括**机械性窒息**、殴打及医疗忽视。幸存者证言描述囚犯被迫用嘴捡食、电击虐待及隔离牢房折磨。政府否认指控，称死亡均属"自然原因"。报告直指该国重回军事独裁时期的黑暗模式，人权状况急剧恶化。
-
----
-
-## <a name="13"></a>13. 裸机系统上的C标准库：用Newlib实现printf功能 
+## <a name="12"></a>12. 裸机系统上的C标准库：用Newlib实现printf功能 
 <small>🔗 [popovicu.com](https://popovicu.com/posts/bare-metal-printf/): Bare metal printf – C standard library without OS</small>
 
 
-| 🔥: 92 \| 💬: [30](https://news.ycombinator.com/item?id=43807404) \| 🗓️ 2025-04-26
+| 🔥🔥: 105 \| 💬: [30](https://news.ycombinator.com/item?id=43807404) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -189,23 +177,47 @@ tags:
 
 ---
 
-## <a name="14"></a>14. 经济学家也懵了：全球经济数据质量堪忧 
-<small>🔗 [economist.com](https://www.economist.com/finance-and-economics/2025/04/24/economists-dont-know-whats-going-on): Economists don't know what's going on</small>
+## <a name="13"></a>13. 亚马逊“巧合”在独立书店日大促，遭书商怒怼 
+<small>🔗 [gizmodo.com](https://gizmodo.com/amazon-just-happens-to-hold-book-sale-during-independent-bookstore-day-2000594958): Amazon Just Happens to Hold Book Sale During Independent Bookstore Day</small>
 
 
-| 🔥: 82 \| 💬: [155](https://news.ycombinator.com/item?id=43806375) \| 🗓️ 2025-04-26
+| 🔥🔥: 101 \| 💬: [56](https://news.ycombinator.com/item?id=43808334) \| 🗓️ 2025-04-26
 
 
 <br />
-英国政府正调查国家统计局（ONS），因其GDP计算数据出现错误，导致投资者对月度就业报告失去信任。这一事件反映出**全球经济数据质量急剧下滑**的严峻趋势。**统计机构公信力崩塌**正让决策者和市场陷入"盲飞"状态，而数据失真可能加剧经济误判风险。
+4月26日是**独立书店日**，全美1600多家书店联合庆祝。而亚马逊“恰好”将年度图书促销（仅第二年举办）定在4月23日至28日，直接覆盖这一节日。书商批评此举**蓄意打压**，指出去年促销日期并未冲突。亚马逊辩称“无意重叠”，但业界认为其延续了**低价挤压实体书店**的一贯策略。尽管亚马逊来势汹汹，独立书店仍通过社区黏性和独特体验顽强生存，甚至反向进军线上。文章呼吁读者多支持本地书店，体验算法无法替代的个性化服务。
 
 ---
 
-## <a name="15"></a>15. 滑铁卢大学因疑似使用AI而暂扣编程比赛结果 
+## <a name="14"></a>14. 萨尔瓦多监狱暴行：布克尔政府下的酷刑与死亡黑幕 
+<small>🔗 [english.elpais.com](https://english.elpais.com/international/2023-05-29/inmates-in-el-salvador-tortured-and-strangled-a-report-denounces-hellish-conditions-in-bukeles-prisons.html): Inmates in ElSalvador tortured/strangled-hellish conditions in Bukele's prisons (2023)</small>
+
+
+| 🔥: 94 \| 💬: [59](https://news.ycombinator.com/item?id=43802491) \| 🗓️ 2025-04-26
+
+
+<br />
+人权组织Cristosal调查揭露，**萨尔瓦多**在总统布克尔实施的"打击帮派"紧急状态期间，监狱内存在系统性酷刑与虐囚。**153名囚犯非正常死亡**，其中29例确认暴力致死，46例疑似暴力致死，死因包括**机械性窒息**、殴打及医疗忽视。幸存者证言描述囚犯被迫用嘴捡食、电击虐待及隔离牢房折磨。政府否认指控，称死亡均属"自然原因"。报告直指该国重回军事独裁时期的黑暗模式，人权状况急剧恶化。
+
+---
+
+## <a name="15"></a>15. Tilt：将开发环境代码化 
+<small>🔗 [github.com](https://github.com/tilt-dev/tilt): Tilt: dev environment as code</small>
+
+
+| 🔥: 84 \| 💬: [40](https://news.ycombinator.com/item?id=43806296) \| 🗓️ 2025-04-26
+
+
+<br />
+Tilt 是一个专为 **Kubernetes** 微服务应用设计的工具，允许开发者通过代码定义开发环境。它自动化了从代码变更到部署的整个流程，包括文件监控、容器镜像构建和环境更新，类似 `docker build && kubectl apply` 的增强版。支持多种语言（如 **Go**、**Python**、**NodeJS** 等），提供详细教程和API参考。社区活跃，支持扩展功能，并遵循Apache 2.0许可。强调安全性和用户隐私，匿名数据用于改进产品。
+
+---
+
+## <a name="16"></a>16. 滑铁卢大学因疑似使用AI而暂扣编程比赛结果 
 <small>🔗 [thelogic.co](https://thelogic.co/news/waterloo-university-coding-competition-ai-cheating/): University of Waterloo withholds coding contest results over suspected AI use</small>
 
 
-| 🔥: 81 \| 💬: [63](https://news.ycombinator.com/item?id=43805238) \| 🗓️ 2025-04-26
+| 🔥: 82 \| 💬: [63](https://news.ycombinator.com/item?id=43805238) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -213,11 +225,23 @@ tags:
 
 ---
 
-## <a name="16"></a>16. 巴洛的成人行为准则 
+## <a name="17"></a>17. 经济学家也懵了：全球经济数据质量堪忧 
+<small>🔗 [economist.com](https://www.economist.com/finance-and-economics/2025/04/24/economists-dont-know-whats-going-on): Economists don't know what's going on</small>
+
+
+| 🔥: 82 \| 💬: [157](https://news.ycombinator.com/item?id=43806375) \| 🗓️ 2025-04-26
+
+
+<br />
+英国政府正调查国家统计局（ONS），因其GDP计算数据出现错误，导致投资者对月度就业报告失去信任。这一事件反映出**全球经济数据质量急剧下滑**的严峻趋势。**统计机构公信力崩塌**正让决策者和市场陷入"盲飞"状态，而数据失真可能加剧经济误判风险。
+
+---
+
+## <a name="18"></a>18. 巴洛的成人行为准则 
 <small>🔗 [mail-archive.com](https://www.mail-archive.com/silklist@lists.hserus.net/msg08034.html): Barlow's Principles of Adult Behaviour</small>
 
 
-| 🔥: 77 \| 💬: [44](https://news.ycombinator.com/item?id=43805729) \| 🗓️ 2025-04-26
+| 🔥: 78 \| 💬: [45](https://news.ycombinator.com/item?id=43805729) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -225,7 +249,31 @@ tags:
 
 ---
 
-## <a name="17"></a>17. 初代和第二代Nest恒温器将于2025年10月停止支持 
+## <a name="19"></a>19. 七年重生法则 
+<small>🔗 [macsparky.com](https://www.macsparky.com/blog/2025/04/the-seven-year-rule/): The Seven-Year Rule</small>
+
+
+| 🔥: 77 \| 💬: [65](https://news.ycombinator.com/item?id=43805369) \| 🗓️ 2025-04-26
+
+
+<br />
+达赖喇嘛曾提出一个有趣观点：**每七年**，人体细胞会全部更新，意味着你已蜕变为全新的自己。这一**生理规律**提醒我们，过去犯错的"旧我"早已不存在，未来版本也尚未形成。与其纠结历史或焦虑未来，不如专注当下——因为此刻的你正经历着细胞、心理与精神的**持续蜕变**。接纳这种流动状态，方能真正活在当下。
+
+---
+
+## <a name="20"></a>20. BART推出动漫吉祥物推广公共交通 
+<small>🔗 [bart.gov](https://www.bart.gov/news/fun/anime): BART's Anime Mascots</small>
+
+
+| 🔥: 77 \| 💬: [34](https://news.ycombinator.com/item?id=43806281) \| 🗓️ 2025-04-26
+
+
+<br />
+BART近日发布以**动漫角色Mira和Jasmine**为主题的涂色卡及**BART列车cosplay制作指南**，旨在通过年轻化形象吸引青少年乘客。这些吉祥物灵感源自日本和台湾的交通宣传模式，由加州艺术家设计，于2023年正式亮相。角色包括热爱火车的时尚学生Jasmine、列车员Mira等，均配有周边商品。项目强调**社区联结**与**公共交通推广**，鼓励粉丝参与角色扮演。
+
+---
+
+## <a name="21"></a>21. 初代和第二代Nest恒温器将于2025年10月停止支持 
 <small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/04/google-ending-support-for-older-nest-thermostats-will-stop-selling-nests-in-europe/): First and 2nd gen Nest Thermostats will lose support in Oct 2025</small>
 
 
@@ -237,35 +285,11 @@ tags:
 
 ---
 
-## <a name="18"></a>18. 七年重生法则 
-<small>🔗 [macsparky.com](https://www.macsparky.com/blog/2025/04/the-seven-year-rule/): The Seven-Year Rule</small>
-
-
-| 🔥: 75 \| 💬: [65](https://news.ycombinator.com/item?id=43805369) \| 🗓️ 2025-04-26
-
-
-<br />
-达赖喇嘛曾提出一个有趣观点：**每七年**，人体细胞会全部更新，意味着你已蜕变为全新的自己。这一**生理规律**提醒我们，过去犯错的"旧我"早已不存在，未来版本也尚未形成。与其纠结历史或焦虑未来，不如专注当下——因为此刻的你正经历着细胞、心理与精神的**持续蜕变**。接纳这种流动状态，方能真正活在当下。
-
----
-
-## <a name="19"></a>19. Tilt：将开发环境代码化 
-<small>🔗 [github.com](https://github.com/tilt-dev/tilt): Tilt: dev environment as code</small>
-
-
-| 🔥: 74 \| 💬: [37](https://news.ycombinator.com/item?id=43806296) \| 🗓️ 2025-04-26
-
-
-<br />
-Tilt 是一个专为 **Kubernetes** 微服务应用设计的工具，允许开发者通过代码定义开发环境。它自动化了从代码变更到部署的整个流程，包括文件监控、容器镜像构建和环境更新，类似 `docker build && kubectl apply` 的增强版。支持多种语言（如 **Go**、**Python**、**NodeJS** 等），提供详细教程和API参考。社区活跃，支持扩展功能，并遵循Apache 2.0许可。强调安全性和用户隐私，匿名数据用于改进产品。
-
----
-
-## <a name="20"></a>20. 感谢你帮我拿鸭子（2021） 
+## <a name="22"></a>22. 感谢你帮我拿鸭子（2021） 
 <small>🔗 [naml.us](https://naml.us/post/thank-you-for-holding-my-duck/): Thank you for holding my duck (2021)</small>
 
 
-| 🔥: 71 \| 💬: [22](https://news.ycombinator.com/item?id=43803659) \| 🗓️ 2025-04-26
+| 🔥: 75 \| 💬: [22](https://news.ycombinator.com/item?id=43803659) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -273,23 +297,11 @@ Tilt 是一个专为 **Kubernetes** 微服务应用设计的工具，允许开�
 
 ---
 
-## <a name="21"></a>21. BART推出动漫吉祥物推广公共交通 
-<small>🔗 [bart.gov](https://www.bart.gov/news/fun/anime): BART's Anime Mascots</small>
-
-
-| 🔥: 67 \| 💬: [33](https://news.ycombinator.com/item?id=43806281) \| 🗓️ 2025-04-26
-
-
-<br />
-BART近日发布以**动漫角色Mira和Jasmine**为主题的涂色卡及**BART列车cosplay制作指南**，旨在通过年轻化形象吸引青少年乘客。这些吉祥物灵感源自日本和台湾的交通宣传模式，由加州艺术家设计，于2023年正式亮相。角色包括热爱火车的时尚学生Jasmine、列车员Mira等，均配有周边商品。项目强调**社区联结**与**公共交通推广**，鼓励粉丝参与角色扮演。
-
----
-
-## <a name="22"></a>22. 比尔·盖茨在8位BASIC中隐藏的彩蛋（2008） 
+## <a name="23"></a>23. 比尔·盖茨在8位BASIC中隐藏的彩蛋（2008） 
 <small>🔗 [pagetable.com](https://www.pagetable.com/?p=43): Bill Gates's Personal Easter Eggs in 8 Bit BASIC (2008)</small>
 
 
-| 🔥: 67 \| 💬: [14](https://news.ycombinator.com/item?id=43806491) \| 🗓️ 2025-04-26
+| 🔥: 74 \| 💬: [18](https://news.ycombinator.com/item?id=43806491) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -297,11 +309,11 @@ BART近日发布以**动漫角色Mira和Jasmine**为主题的涂色卡及**BART�
 
 ---
 
-## <a name="23"></a>23. 美国国家科学基金会再终止数百项资助，局长突然辞职 
+## <a name="24"></a>24. 美国国家科学基金会再终止数百项资助，局长突然辞职 
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-01312-8): Hundreds more NSF grants terminated after agency director resigns</small>
 
 
-| 🔥: 63 \| 💬: [36](https://news.ycombinator.com/item?id=43806694) \| 🗓️ 2025-04-26
+| 🔥: 64 \| 💬: [36](https://news.ycombinator.com/item?id=43806694) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -309,23 +321,11 @@ BART近日发布以**动漫角色Mira和Jasmine**为主题的涂色卡及**BART�
 
 ---
 
-## <a name="24"></a>24. 亚马逊“巧合”在独立书店日大促，遭书商怒怼 
-<small>🔗 [gizmodo.com](https://gizmodo.com/amazon-just-happens-to-hold-book-sale-during-independent-bookstore-day-2000594958): Amazon Just Happens to Hold Book Sale During Independent Bookstore Day</small>
-
-
-| 🔥: 62 \| 💬: [27](https://news.ycombinator.com/item?id=43808334) \| 🗓️ 2025-04-26
-
-
-<br />
-4月26日是**独立书店日**，全美1600多家书店联合庆祝。而亚马逊“恰好”将年度图书促销（仅第二年举办）定在4月23日至28日，直接覆盖这一节日。书商批评此举**蓄意打压**，指出去年促销日期并未冲突。亚马逊辩称“无意重叠”，但业界认为其延续了**低价挤压实体书店**的一贯策略。尽管亚马逊来势汹汹，独立书店仍通过社区黏性和独特体验顽强生存，甚至反向进军线上。文章呼吁读者多支持本地书店，体验算法无法替代的个性化服务。
-
----
-
 ## <a name="25"></a>25. 人工智能时代，人文学科将何去何从？ 
 <small>🔗 [newyorker.com](https://www.newyorker.com/culture/the-weekend-essay/will-the-humanities-survive-artificial-intelligence): Will the Humanities Survive Artificial Intelligence?</small>
 
 
-| 🔥: 40 \| 💬: [63](https://news.ycombinator.com/item?id=43802436) \| 🗓️ 2025-04-26
+| 🔥: 40 \| 💬: [64](https://news.ycombinator.com/item?id=43802436) \| 🗓️ 2025-04-26
 
 
 <br />
