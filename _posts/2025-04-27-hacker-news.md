@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [ted.com](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads): We're building a dystopia just to make people click on ads [video]</small>
 
 
-| 🔥🔥: 239 \| 💬: [204](https://news.ycombinator.com/item?id=43812379) \| 🗓️ 2025-04-27
+| 🔥🔥: 247 \| 💬: [208](https://news.ycombinator.com/item?id=43812379) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [blog.julik.nl](https://blog.julik.nl/2025/04/a-can-of-shardines): Shardines: SQLite3 Database-per-Tenant with ActiveRecord</small>
 
 
-| 🔥🔥: 187 \| 💬: [59](https://news.ycombinator.com/item?id=43811400) \| 🗓️ 2025-04-27
+| 🔥🔥: 192 \| 💬: [61](https://news.ycombinator.com/item?id=43811400) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:Database_download): Wikipedia: Database Download</small>
 
 
-| 🔥🔥: 185 \| 💬: [88](https://news.ycombinator.com/item?id=43811732) \| 🗓️ 2025-04-27
+| 🔥🔥: 186 \| 💬: [88](https://news.ycombinator.com/item?id=43811732) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/health/2025/04/25/autism-registry-privacy-rfk-research/): U.S. autism data project sparks uproar over ethics, privacy and intent</small>
 
 
-| 🔥🔥: 173 \| 💬: [194](https://news.ycombinator.com/item?id=43810561) \| 🗓️ 2025-04-27
+| 🔥🔥: 174 \| 💬: [195](https://news.ycombinator.com/item?id=43810561) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [thereader.mitpress.mit.edu](https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/): Read the Obits</small>
 
 
-| 🔥🔥: 154 \| 💬: [58](https://news.ycombinator.com/item?id=43813175) \| 🗓️ 2025-04-27
+| 🔥🔥: 160 \| 💬: [62](https://news.ycombinator.com/item?id=43813175) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -84,10 +84,10 @@ tags:
 ---
 
 ## <a name="6"></a>6. 反向地理编码的难题 
-<small>🔗 [shkspr.mobi](https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/): Reverse Geocoding Is Hard</small>
+<small>🔗 [shkspr.mobi](https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/): Reverse geocoding is hard</small>
 
 
-| 🔥🔥: 147 \| 💬: [82](https://news.ycombinator.com/item?id=43812323) \| 🗓️ 2025-04-27
+| 🔥🔥: 154 \| 💬: [88](https://news.ycombinator.com/item?id=43812323) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -99,7 +99,7 @@ OpenBenches是一个收录近4万张纪念长椅的众包数据库，每张长�
 <small>🔗 [zetier.com](https://zetier.com/5g-imsi-catcher/): Did 5G Kill the IMSI Catcher?</small>
 
 
-| 🔥🔥: 128 \| 💬: [44](https://news.ycombinator.com/item?id=43813083) \| 🗓️ 2025-04-27
+| 🔥🔥: 139 \| 💬: [46](https://news.ycombinator.com/item?id=43813083) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -107,23 +107,11 @@ OpenBenches是一个收录近4万张纪念长椅的众包数据库，每张长�
 
 ---
 
-## <a name="8"></a>8. ZFS：苹果未实现的下一代文件系统（2016） 
-<small>🔗 [ahl.dtrace.org](https://ahl.dtrace.org/2016/06/15/apple_and_zfs/): ZFS: Apple's New Filesystem that wasn't (2016)</small>
-
-
-| 🔥🔥: 127 \| 💬: [116](https://news.ycombinator.com/item?id=43810566) \| 🗓️ 2025-04-27
-
-
-<br />
-2006年，苹果在WWDC上发布**Time Machine**备份工具时，开发者曾猜测其基于Solaris的**ZFS文件系统**，但实际仅采用硬链接技术。2007年，苹果计划移植ZFS至Mac OS X，却因Sun CEO提前泄密而受阻。尽管2008年ZFS出现在开发者版本中，最终因**Sun被甲骨文收购**、专利诉讼风险及苹果内部“非我发明”心态而搁浅。2016年，苹果推出自研的APFS替代HFS，但作者认为错过ZFS是行业损失。ZFS社区至今维护非官方移植版。
-
----
-
-## <a name="9"></a>9. Wii自制库libogc被曝窃取RTEMS及任天堂SDK代码 
+## <a name="8"></a>8. Wii自制库libogc被曝窃取RTEMS及任天堂SDK代码 
 <small>🔗 [github.com](https://github.com/fail0verflow/hbc/blob/80a80251f83f1993c272c58e471d040f3eb1dee9/README.md): Libogc (Wii homebrew library) discovered to contain code stolen from RTEMS</small>
 
 
-| 🔥🔥: 127 \| 💬: [70](https://news.ycombinator.com/item?id=43812995) \| 🗓️ 2025-04-27
+| 🔥🔥: 138 \| 💬: [79](https://news.ycombinator.com/item?id=43812995) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -131,15 +119,27 @@ OpenBenches是一个收录近4万张纪念长椅的众包数据库，每张长�
 
 ---
 
-## <a name="10"></a>10. OpenBSD 7.7 正式发布 
-<small>🔗 [openbsd.org](https://www.openbsd.org/77.html): OpenBSD 7.7 Released</small>
+## <a name="9"></a>9. ZFS：苹果未实现的下一代文件系统（2016） 
+<small>🔗 [ahl.dtrace.org](https://ahl.dtrace.org/2016/06/15/apple_and_zfs/): ZFS: Apple's New Filesystem that wasn't (2016)</small>
 
 
-| 🔥🔥: 110 \| 💬: [13](https://news.ycombinator.com/item?id=43814058) \| 🗓️ 2025-04-27
+| 🔥🔥: 128 \| 💬: [118](https://news.ycombinator.com/item?id=43810566) \| 🗓️ 2025-04-27
 
 
 <br />
-OpenBSD 7.7 于 2025 年 4 月 28 日发布，这是该系统的第 58 个版本。本次更新包含多项重要改进，包括 **arm64 平台优化**（如 M1 MacBook 的 SMC 初始化修复和 SVE 支持）、**amd64 的 AMD SEV 虚拟化增强**，以及多线程和 SMP 性能提升。此外，内核改进了 **OOM 响应速度**，并新增了对 **DRM 6.12.21** 和最新显卡硬件的支持。用户工具方面，优化了 `sysctl`、`security` 和 `lldb` 等功能，并修复了大量硬件驱动问题。
+2006年，苹果在WWDC上发布**Time Machine**备份工具时，开发者曾猜测其基于Solaris的**ZFS文件系统**，但实际仅采用硬链接技术。2007年，苹果计划移植ZFS至Mac OS X，却因Sun CEO提前泄密而受阻。尽管2008年ZFS出现在开发者版本中，最终因**Sun被甲骨文收购**、专利诉讼风险及苹果内部“非我发明”心态而搁浅。2016年，苹果推出自研的APFS替代HFS，但作者认为错过ZFS是行业损失。ZFS社区至今维护非官方移植版。
+
+---
+
+## <a name="10"></a>10. 将互联网装进盒子 
+<small>🔗 [internet-in-a-box.org](https://internet-in-a-box.org/): Internet in a Box</small>
+
+
+| 🔥🔥: 122 \| 💬: [33](https://news.ycombinator.com/item?id=43814433) \| 🗓️ 2025-04-27
+
+
+<br />
+**Internet-in-a-Box** 是一款无需联网的**离线学习热点**设备，通过本地Wi-Fi为智能手机、平板或电脑提供免费教育资源。它采用35美元的树莓派搭建，预装**维基百科**等优质内容，适用于偏远地区的学校、诊所或家庭。用户可自定义内容包，包括视频、地图和教学应用，并得到全球志愿者社区支持。自2013年推出以来，已在数十个国家帮助弱势群体获取知识。
 
 ---
 
@@ -147,7 +147,7 @@ OpenBSD 7.7 于 2025 年 4 月 28 日发布，这是该系统的第 58 个版本
 <small>🔗 [verdikapuku.com](https://verdikapuku.com/posts/business-founders-are-less-valuable-than-they-think/): Business co-founders in tech startups are less valuable than they think</small>
 
 
-| 🔥🔥: 106 \| 💬: [81](https://news.ycombinator.com/item?id=43814497) \| 🗓️ 2025-04-27
+| 🔥🔥: 119 \| 💬: [102](https://news.ycombinator.com/item?id=43814497) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -157,11 +157,23 @@ OpenBSD 7.7 于 2025 年 4 月 28 日发布，这是该系统的第 58 个版本
 
 ---
 
-## <a name="12"></a>12. TmuxAI：AI驱动的非侵入式终端助手 
+## <a name="12"></a>12. OpenBSD 7.7 正式发布 
+<small>🔗 [openbsd.org](https://www.openbsd.org/77.html): OpenBSD 7.7 Released</small>
+
+
+| 🔥🔥: 114 \| 💬: [14](https://news.ycombinator.com/item?id=43814058) \| 🗓️ 2025-04-27
+
+
+<br />
+OpenBSD 7.7 于 2025 年 4 月 28 日发布，这是该系统的第 58 个版本。本次更新包含多项重要改进，包括 **arm64 平台优化**（如 M1 MacBook 的 SMC 初始化修复和 SVE 支持）、**amd64 的 AMD SEV 虚拟化增强**，以及多线程和 SMP 性能提升。此外，内核改进了 **OOM 响应速度**，并新增了对 **DRM 6.12.21** 和最新显卡硬件的支持。用户工具方面，优化了 `sysctl`、`security` 和 `lldb` 等功能，并修复了大量硬件驱动问题。
+
+---
+
+## <a name="13"></a>13. TmuxAI：AI驱动的非侵入式终端助手 
 <small>🔗 [tmuxai.dev](https://tmuxai.dev/): TmuxAI: AI-Powered, Non-Intrusive Terminal Assistant</small>
 
 
-| 🔥: 95 \| 💬: [23](https://news.ycombinator.com/item?id=43812646) \| 🗓️ 2025-04-27
+| 🔥: 100 \| 💬: [27](https://news.ycombinator.com/item?id=43812646) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -169,11 +181,23 @@ TmuxAI是一款**非侵入式终端助手**，可在tmux窗口中实时协作。
 
 ---
 
-## <a name="13"></a>13. NASA如何用图技术与大语言模型构建人才知识图谱 
+## <a name="14"></a>14. 一行代码如何让你的iPhone变砖 
+<small>🔗 [rambo.codes](https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone): How a single line of code could brick your iPhone</small>
+
+
+| 🔥: 99 \| 💬: [25](https://news.ycombinator.com/item?id=43814360) \| 🗓️ 2025-04-27
+
+
+<br />
+本文揭示了iOS系统中一个基于**Darwin通知机制**的高危漏洞。研究者发现，任何应用无需特殊权限即可发送系统级通知，例如伪造`com.apple.MobileSync.BackupAgent.RestoreStarted`触发强制恢复模式。通过**恶意小组件扩展**反复崩溃并发送该通知，可实现设备无限重启的**软砖攻击**。苹果在iOS 18.3中通过限制敏感通知的发送权限（需`com.apple.private.darwin-notification.restrict-post`授权）修复漏洞，并向研究者支付17,500美元漏洞赏金。
+
+---
+
+## <a name="15"></a>15. NASA如何用图技术与大语言模型构建人才知识图谱 
 <small>🔗 [memgraph.com](https://memgraph.com/blog/nasa-memgraph-people-knowledge-graph): How NASA Is Using Graph Technology and LLMs to Build a People Knowledge Graph</small>
 
 
-| 🔥: 87 \| 💬: [24](https://news.ycombinator.com/item?id=43813036) \| 🗓️ 2025-04-27
+| 🔥: 91 \| 💬: [28](https://news.ycombinator.com/item?id=43813036) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -181,59 +205,11 @@ NASA通过**图数据库**和**大语言模型（LLM）**构建了“人才图�
 
 ---
 
-## <a name="14"></a>14. 是时候辞掉无意义的工作，成为道德野心家并改变世界了 
-<small>🔗 [theguardian.com](https://www.theguardian.com/lifeandstyle/2025/apr/19/no-youre-not-fine-just-the-way-you-are-time-to-quit-your-pointless-job-become-morally-ambitious-and-change-the-world): Time to quit your pointless job, become morally ambitious and change the world</small>
+## <a name="16"></a>16. 即将到来的知识工作供应链危机 
+<small>🔗 [worksonmymachine.substack.com](https://worksonmymachine.substack.com/p/the-coming-knowledge-work-supply): The coming knowledge-work supply-chain crisis</small>
 
 
-| 🔥: 79 \| 💬: [83](https://news.ycombinator.com/item?id=43812318) \| 🗓️ 2025-04-27
-
-
-<br />
-文章批判了现代职场中**浪费才华**的普遍现象，提出**道德野心**的概念——将职业追求与解决全球重大问题（如气候危机、不平等）相结合。作者将工作分为四类：无价值岗位（如"狗屁工作"）、高薪但损害社会的职业（如投行）、有理想但缺乏行动力的"小确幸"群体，以及理想的**道德野心家**——像废奴先驱克拉克森那样，用卓越能力推动实质变革。核心观点是：人生仅有一次，8万工作小时的应用是最重要的道德选择，与其追求虚名或躺平，不如投身真正改变世界的事业。
-
----
-
-## <a name="15"></a>15. 沃尔玛计划几年内在全美铺设电动汽车充电网络 
-<small>🔗 [evchargingstations.com](https://evchargingstations.com/chargingnews/exclusive-walmart-ev-charging-network/): Walmart plans EV Charging network which will blanket the US within a few years</small>
-
-
-| 🔥: 79 \| 💬: [70](https://news.ycombinator.com/item?id=43814380) \| 🗓️ 2025-04-27
-
-
-<br />
-沃尔玛宣布将在美国大规模建设**电动汽车充电站**，目标是在未来几年内实现全国覆盖。此举旨在满足日益增长的**电动车充电需求**，并巩固其零售业领导地位。用户评论提到阿肯色州斯普林代尔的具体选址，显示项目已进入实施阶段。该计划将显著提升**充电基础设施**的便利性，推动电动车普及。
-
----
-
-## <a name="16"></a>16. 将互联网装进盒子 
-<small>🔗 [internet-in-a-box.org](https://internet-in-a-box.org/): Internet in a Box</small>
-
-
-| 🔥: 79 \| 💬: [22](https://news.ycombinator.com/item?id=43814433) \| 🗓️ 2025-04-27
-
-
-<br />
-**Internet-in-a-Box** 是一款无需联网的**离线学习热点**设备，通过本地Wi-Fi为智能手机、平板或电脑提供免费教育资源。它采用35美元的树莓派搭建，预装**维基百科**等优质内容，适用于偏远地区的学校、诊所或家庭。用户可自定义内容包，包括视频、地图和教学应用，并得到全球志愿者社区支持。自2013年推出以来，已在数十个国家帮助弱势群体获取知识。
-
----
-
-## <a name="17"></a>17. YC创始人指出：程序员不必为警察国家效力 
-<small>🔗 [bird.makeup](https://bird.makeup/users/paulg/statuses/1913338841068404903): YC founder points out that jobs exist outside of working for police state</small>
-
-
-| 🔥: 78 \| 💬: [46](https://news.ycombinator.com/item?id=43813389) \| 🗓️ 2025-04-27
-
-
-<br />
-当前科技行业充满机遇，**顶尖程序员**拥有大量职业选择，无需加入为**警察国家**构建基础设施的公司。一位YC创始人强调，从业者应关注更具社会价值的领域，而非助长监控技术发展。原文链接提供了相关推文讨论。
-
----
-
-## <a name="18"></a>18. 即将到来的知识工作供应链危机 
-<small>🔗 [worksonmymachine.substack.com](https://worksonmymachine.substack.com/p/the-coming-knowledge-work-supply): The Coming Knowledge-Work Supply-Chain Crisis</small>
-
-
-| 🔥: 70 \| 💬: [43](https://news.ycombinator.com/item?id=43812459) \| 🗓️ 2025-04-27
+| 🔥: 82 \| 💬: [50](https://news.ycombinator.com/item?id=43812459) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -241,11 +217,47 @@ AI正以指数级速度提升知识工作的**生产环节**，但人类的**决
 
 ---
 
-## <a name="19"></a>19. 超快DOM截图工具snapDOM：精准捕获网页元素为图片 
+## <a name="17"></a>17. 沃尔玛计划几年内在全美铺设电动汽车充电网络 
+<small>🔗 [evchargingstations.com](https://evchargingstations.com/chargingnews/exclusive-walmart-ev-charging-network/): Walmart plans EV Charging network which will blanket the US within a few years</small>
+
+
+| 🔥: 81 \| 💬: [73](https://news.ycombinator.com/item?id=43814380) \| 🗓️ 2025-04-27
+
+
+<br />
+沃尔玛宣布将在美国大规模建设**电动汽车充电站**，目标是在未来几年内实现全国覆盖。此举旨在满足日益增长的**电动车充电需求**，并巩固其零售业领导地位。用户评论提到阿肯色州斯普林代尔的具体选址，显示项目已进入实施阶段。该计划将显著提升**充电基础设施**的便利性，推动电动车普及。
+
+---
+
+## <a name="18"></a>18. 是时候辞掉无意义的工作，成为道德野心家并改变世界了 
+<small>🔗 [theguardian.com](https://www.theguardian.com/lifeandstyle/2025/apr/19/no-youre-not-fine-just-the-way-you-are-time-to-quit-your-pointless-job-become-morally-ambitious-and-change-the-world): Time to quit your pointless job, become morally ambitious and change the world</small>
+
+
+| 🔥: 80 \| 💬: [83](https://news.ycombinator.com/item?id=43812318) \| 🗓️ 2025-04-27
+
+
+<br />
+文章批判了现代职场中**浪费才华**的普遍现象，提出**道德野心**的概念——将职业追求与解决全球重大问题（如气候危机、不平等）相结合。作者将工作分为四类：无价值岗位（如"狗屁工作"）、高薪但损害社会的职业（如投行）、有理想但缺乏行动力的"小确幸"群体，以及理想的**道德野心家**——像废奴先驱克拉克森那样，用卓越能力推动实质变革。核心观点是：人生仅有一次，8万工作小时的应用是最重要的道德选择，与其追求虚名或躺平，不如投身真正改变世界的事业。
+
+---
+
+## <a name="19"></a>19. YC创始人指出：程序员不必为警察国家效力 
+<small>🔗 [bird.makeup](https://bird.makeup/users/paulg/statuses/1913338841068404903): YC founder points out that jobs exist outside of working for police state</small>
+
+
+| 🔥: 80 \| 💬: [46](https://news.ycombinator.com/item?id=43813389) \| 🗓️ 2025-04-27
+
+
+<br />
+当前科技行业充满机遇，**顶尖程序员**拥有大量职业选择，无需加入为**警察国家**构建基础设施的公司。一位YC创始人强调，从业者应关注更具社会价值的领域，而非助长监控技术发展。原文链接提供了相关推文讨论。
+
+---
+
+## <a name="20"></a>20. 超快DOM截图工具snapDOM：精准捕获网页元素为图片 
 <small>🔗 [github.com](https://github.com/zumerlab/snapdom): Show HN: I created snapDOM to capture DOM nodes as images with exceptional speed</small>
 
 
-| 🔥: 68 \| 💬: [31](https://news.ycombinator.com/item?id=43813330) \| 🗓️ 2025-04-27
+| 🔥: 73 \| 💬: [31](https://news.ycombinator.com/item?id=43813330) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -253,11 +265,23 @@ snapDOM是一款**高性能DOM截图工具**，可将任意HTML元素转换为SV
 
 ---
 
-## <a name="20"></a>20. 正在开发中的Common Lisp实现，支持ASDF 
+## <a name="21"></a>21. AI编程助手价值有限，因为程序员的核心工作是思考 
+<small>🔗 [doliver.org](https://www.doliver.org/articles/programming-is-a-thinkers-game): AI Coding assistants provide little value because a programmer's job is to think</small>
+
+
+| 🔥: 71 \| 💬: [101](https://news.ycombinator.com/item?id=43815033) \| 🗓️ 2025-04-27
+
+
+<br />
+文章指出，**代码文本**与**实际运行的程序**之间存在巨大差异。以一段简单的JavaScript事件监听器为例，代码无法体现运行时环境、外部依赖、执行顺序等关键因素。**人类工程师**通过经验和推理填补这些空白，而AI仅能生成**看似可行但缺乏深层逻辑**的代码片段，反而增加验证成本。真正的编程在于**理解需求**和设计解决方案，而非机械堆砌代码。模块化库、文档和开源项目比AI生成的代码更可靠，因为它们提供了完整上下文和经过验证的抽象。编程的本质是思考，而AI目前无法替代这一过程。
+
+---
+
+## <a name="22"></a>22. 正在开发中的Common Lisp实现，支持ASDF 
 <small>🔗 [savannah.nongnu.org](https://savannah.nongnu.org/p/alisp): Show HN: A Common Lisp implementation in development, supports ASDF</small>
 
 
-| 🔥: 67 \| 💬: [34](https://news.ycombinator.com/item?id=43811432) \| 🗓️ 2025-04-27
+| 🔥: 68 \| 💬: [37](https://news.ycombinator.com/item?id=43811432) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -269,11 +293,11 @@ snapDOM是一款**高性能DOM截图工具**，可将任意HTML元素转换为SV
 
 ---
 
-## <a name="21"></a>21. 马斯克关闭曾资助特斯拉的政府贷款办公室 
+## <a name="23"></a>23. 马斯克关闭曾资助特斯拉的政府贷款办公室 
 <small>🔗 [jalopnik.com](https://www.jalopnik.com/1843586/elon-musk-doe-cuts-tesla/): Musk Shutting Down Government Loan Office That Gave Him the Money to Grow Tesla</small>
 
 
-| 🔥: 62 \| 💬: [6](https://news.ycombinator.com/item?id=43811824) \| 🗓️ 2025-04-27
+| 🔥: 64 \| 💬: [8](https://news.ycombinator.com/item?id=43811824) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -281,11 +305,11 @@ snapDOM是一款**高性能DOM截图工具**，可将任意HTML元素转换为SV
 
 ---
 
-## <a name="22"></a>22. 自闭症发病率上升的真相是什么？ 
+## <a name="24"></a>24. 自闭症发病率上升的真相是什么？ 
 <small>🔗 [cremieux.xyz](https://www.cremieux.xyz/p/whats-the-deal-with-autism-rates): What's the Deal with Autism Rates?</small>
 
 
-| 🔥: 62 \| 💬: [38](https://news.ycombinator.com/item?id=43813441) \| 🗓️ 2025-04-27
+| 🔥: 64 \| 💬: [41](https://news.ycombinator.com/item?id=43813441) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -293,23 +317,11 @@ snapDOM是一款**高性能DOM截图工具**，可将任意HTML元素转换为SV
 
 ---
 
-## <a name="23"></a>23. 一行代码如何让你的iPhone变砖 
-<small>🔗 [rambo.codes](https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone): How a Single Line Of Code Could Brick Your iPhone</small>
-
-
-| 🔥: 61 \| 💬: [12](https://news.ycombinator.com/item?id=43814360) \| 🗓️ 2025-04-27
-
-
-<br />
-本文揭示了iOS系统中一个基于**Darwin通知机制**的高危漏洞。研究者发现，任何应用无需特殊权限即可发送系统级通知，例如伪造`com.apple.MobileSync.BackupAgent.RestoreStarted`触发强制恢复模式。通过**恶意小组件扩展**反复崩溃并发送该通知，可实现设备无限重启的**软砖攻击**。苹果在iOS 18.3中通过限制敏感通知的发送权限（需`com.apple.private.darwin-notification.restrict-post`授权）修复漏洞，并向研究者支付17,500美元漏洞赏金。
-
----
-
-## <a name="24"></a>24. 显卡价格追踪工具 
+## <a name="25"></a>25. 显卡价格追踪工具 
 <small>🔗 [unitedcompute.ai](https://www.unitedcompute.ai/gpu-price-tracker): GPU Price Tracker</small>
 
 
-| 🔥: 50 \| 💬: [38](https://news.ycombinator.com/item?id=43811105) \| 🗓️ 2025-04-27
+| 🔥: 50 \| 💬: [39](https://news.ycombinator.com/item?id=43811105) \| 🗓️ 2025-04-27
 
 
 <br />
