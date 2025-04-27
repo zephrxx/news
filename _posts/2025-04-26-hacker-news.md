@@ -27,7 +27,7 @@ tags:
 <small>🔗 [aclu.org](https://www.aclu.org/press-releases/ice-deports-3-u-s-citizen-children-held-incommunicado-prior-to-the-deportation): ICE Deports 3 U.S. Citizen Children Held Incommunicado Prior to the Deportation</small>
 
 
-| 🔥🔥: 658 \| 💬: [628](https://news.ycombinator.com/item?id=43801959) \| 🗓️ 2025-04-26
+| 🔥🔥: 663 \| 💬: [646](https://news.ycombinator.com/item?id=43801959) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/26/o3-photo-locations/): Watching o3 guess a photo's location is surreal, dystopian and entertaining</small>
 
 
-| 🔥🔥: 591 \| 💬: [298](https://news.ycombinator.com/item?id=43803243) \| 🗓️ 2025-04-26
+| 🔥🔥: 617 \| 💬: [301](https://news.ycombinator.com/item?id=43803243) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -53,7 +53,7 @@ tags:
 <small>🔗 [yarchive.net](https://yarchive.net/blog/prostate/): An end to all this prostate trouble?</small>
 
 
-| 🔥🔥: 472 \| 💬: [206](https://news.ycombinator.com/item?id=43801906) \| 🗓️ 2025-04-26
+| 🔥🔥: 487 \| 💬: [216](https://news.ycombinator.com/item?id=43801906) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -65,7 +65,7 @@ tags:
 <small>🔗 [happiness.hks.harvard.edu](https://www.happiness.hks.harvard.edu/february-2025-issue/the-friendship-recession-the-lost-art-of-connecting): The Friendship Recession: The lost art of connecting</small>
 
 
-| 🔥🔥: 325 \| 💬: [255](https://news.ycombinator.com/item?id=43802727) \| 🗓️ 2025-04-26
+| 🔥🔥: 338 \| 💬: [263](https://news.ycombinator.com/item?id=43802727) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -77,7 +77,7 @@ tags:
 <small>🔗 [github.com](https://github.com/joexbayer/RetrOS-32): Show HN: My self-written hobby OS is finally running on my vintage IBM ThinkPad</small>
 
 
-| 🔥🔥: 296 \| 💬: [62](https://news.ycombinator.com/item?id=43803148) \| 🗓️ 2025-04-26
+| 🔥🔥: 312 \| 💬: [64](https://news.ycombinator.com/item?id=43803148) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -101,7 +101,7 @@ tags:
 <small>🔗 [morpheus-research.com](https://www.morpheus-research.com/backblaze/): Backblaze: Mounting Losses, Lawsuits, Sham Accounting, Insider Selling</small>
 
 
-| 🔥🔥: 222 \| 💬: [130](https://news.ycombinator.com/item?id=43802675) \| 🗓️ 2025-04-26
+| 🔥🔥: 223 \| 💬: [134](https://news.ycombinator.com/item?id=43802675) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -113,7 +113,7 @@ tags:
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/04/mypillow-ceos-lawyers-used-ai-in-brief-citing-fictional-cases-judge-says/): Mike Lindell's lawyers used AI to write brief–judge finds nearly 30 mistakes</small>
 
 
-| 🔥🔥: 163 \| 💬: [127](https://news.ycombinator.com/item?id=43802063) \| 🗓️ 2025-04-26
+| 🔥🔥: 166 \| 💬: [127](https://news.ycombinator.com/item?id=43802063) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -125,7 +125,7 @@ tags:
 <small>🔗 [github.com](https://github.com/facebookresearch/MILS): LLMs can see and hear without any training</small>
 
 
-| 🔥🔥: 153 \| 💬: [53](https://news.ycombinator.com/item?id=43803518) \| 🗓️ 2025-04-26
+| 🔥🔥: 156 \| 💬: [55](https://news.ycombinator.com/item?id=43803518) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -133,75 +133,11 @@ tags:
 
 ---
 
-## <a name="10"></a>10. 用NaN塞数据：Stuffed-Na(a)N库的妙用 
-<small>🔗 [github.com](https://github.com/si14/stuffed-naan-js): Stuffed-Na(a)N: stuff your NaNs</small>
-
-
-| 🔥: 94 \| 💬: [43](https://news.ycombinator.com/item?id=43803724) \| 🗓️ 2025-04-26
-
-
-<br />
-这个名为**Stuffed-Na(a)N**的JavaScript库利用`NaN`（非数字）的IEEE 754浮点数特性，将数据编码到其**尾数部分**，实现“隐形”存储。例如，字符串"Hello world"可被编码为`[NaN, NaN, NaN]`，且经数学运算后仍能无损解码。  
-
-库特点包括：**高压缩率**（社区版-25%）、**隐私保护**（数据无法直接复制），并支持浏览器和Node.js。企业版还提供更高效的编码。作者调侃这是“用敌人的优势反制敌人”，并呼吁支持公益。  
-
-（注：NaN为IEEE标准中的特殊值，通过操纵其二进制位实现数据隐藏。）
-
----
-
-## <a name="11"></a>11. 萨尔瓦多监狱暴行：布克尔政府下的酷刑与死亡黑幕 
-<small>🔗 [english.elpais.com](https://english.elpais.com/international/2023-05-29/inmates-in-el-salvador-tortured-and-strangled-a-report-denounces-hellish-conditions-in-bukeles-prisons.html): Inmates in ElSalvador tortured/strangled-hellish conditions in Bukele's prisons (2023)</small>
-
-
-| 🔥: 88 \| 💬: [57](https://news.ycombinator.com/item?id=43802491) \| 🗓️ 2025-04-26
-
-
-<br />
-人权组织Cristosal调查揭露，**萨尔瓦多**在总统布克尔实施的"打击帮派"紧急状态期间，监狱内存在系统性酷刑与虐囚。**153名囚犯非正常死亡**，其中29例确认暴力致死，46例疑似暴力致死，死因包括**机械性窒息**、殴打及医疗忽视。幸存者证言描述囚犯被迫用嘴捡食、电击虐待及隔离牢房折磨。政府否认指控，称死亡均属"自然原因"。报告直指该国重回军事独裁时期的黑暗模式，人权状况急剧恶化。
-
----
-
-## <a name="12"></a>12. 经济学家也懵了：全球经济数据质量堪忧 
-<small>🔗 [economist.com](https://www.economist.com/finance-and-economics/2025/04/24/economists-dont-know-whats-going-on): Economists don't know what's going on</small>
-
-
-| 🔥: 79 \| 💬: [142](https://news.ycombinator.com/item?id=43806375) \| 🗓️ 2025-04-26
-
-
-<br />
-英国政府正调查国家统计局（ONS），因其GDP计算数据出现错误，导致投资者对月度就业报告失去信任。这一事件反映出**全球经济数据质量急剧下滑**的严峻趋势。**统计机构公信力崩塌**正让决策者和市场陷入"盲飞"状态，而数据失真可能加剧经济误判风险。
-
----
-
-## <a name="13"></a>13. 初代和第二代Nest恒温器将于2025年10月停止支持 
-<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/04/google-ending-support-for-older-nest-thermostats-will-stop-selling-nests-in-europe/): First and 2nd gen Nest Thermostats will lose support in Oct 2025</small>
-
-
-| 🔥: 75 \| 💬: [62](https://news.ycombinator.com/item?id=43802574) \| 🗓️ 2025-04-26
-
-
-<br />
-谷歌宣布**初代和第二代Nest Learning恒温器**将于2025年10月终止服务，届时设备将无法连接云端功能，但仍可作为普通温控器使用。北美用户可获**130美元折扣**升级至第四代产品，而欧洲用户因无替代机型，可获第三方Tado恒温器五折优惠。此举与谷歌近期裁减硬件部门有关，但官方强调这些设备已远超五年支持承诺。欧洲市场将不再推出新款Nest恒温器，标志着该产品线退出当地市场。
-
----
-
-## <a name="14"></a>14. 巴洛的成人行为准则 
-<small>🔗 [mail-archive.com](https://www.mail-archive.com/silklist@lists.hserus.net/msg08034.html): Barlow's Principles of Adult Behaviour</small>
-
-
-| 🔥: 74 \| 💬: [41](https://news.ycombinator.com/item?id=43805729) \| 🗓️ 2025-04-26
-
-
-<br />
-约翰·佩里·巴洛在30岁生日前夕（1977年）写下25条行为准则，旨在引导自己以更负责任的方式生活。核心原则包括：**保持耐心**、**拒绝背后诋毁他人**、**承认错误并谦逊行事**。他强调宽容、自我反思、尊重他人生命与尊严，并建议追求使命而非短暂快乐。巴洛坦言未能完美践行这些准则，但将其作为终身努力的方向，并邀请亲友监督。这份个人化清单既是对自我的要求，也暗含对他人成长的启示。
-
----
-
-## <a name="15"></a>15. 苏黎世大学未经许可在CMV论坛进行AI评论实验引发伦理争议 
+## <a name="10"></a>10. 苏黎世大学未经许可在CMV论坛进行AI评论实验引发伦理争议 
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/changemyview/comments/1k8b2hj/meta_unauthorized_experiment_on_cmv_involving/): Unauthorized experiment on r/changemyview involving AI-generated comments</small>
 
 
-| 🔥: 74 \| 💬: [51](https://news.ycombinator.com/item?id=43806940) \| 🗓️ 2025-04-26
+| 🔥🔥: 109 \| 💬: [72](https://news.ycombinator.com/item?id=43806940) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -213,11 +149,63 @@ tags:
 
 ---
 
-## <a name="16"></a>16. 滑铁卢大学因疑似使用AI而暂扣编程比赛结果 
+## <a name="11"></a>11. 用NaN塞数据：Stuffed-Na(a)N库的妙用 
+<small>🔗 [github.com](https://github.com/si14/stuffed-naan-js): Stuffed-Na(a)N: stuff your NaNs</small>
+
+
+| 🔥: 99 \| 💬: [44](https://news.ycombinator.com/item?id=43803724) \| 🗓️ 2025-04-26
+
+
+<br />
+这个名为**Stuffed-Na(a)N**的JavaScript库利用`NaN`（非数字）的IEEE 754浮点数特性，将数据编码到其**尾数部分**，实现“隐形”存储。例如，字符串"Hello world"可被编码为`[NaN, NaN, NaN]`，且经数学运算后仍能无损解码。  
+
+库特点包括：**高压缩率**（社区版-25%）、**隐私保护**（数据无法直接复制），并支持浏览器和Node.js。企业版还提供更高效的编码。作者调侃这是“用敌人的优势反制敌人”，并呼吁支持公益。  
+
+（注：NaN为IEEE标准中的特殊值，通过操纵其二进制位实现数据隐藏。）
+
+---
+
+## <a name="12"></a>12. 萨尔瓦多监狱暴行：布克尔政府下的酷刑与死亡黑幕 
+<small>🔗 [english.elpais.com](https://english.elpais.com/international/2023-05-29/inmates-in-el-salvador-tortured-and-strangled-a-report-denounces-hellish-conditions-in-bukeles-prisons.html): Inmates in ElSalvador tortured/strangled-hellish conditions in Bukele's prisons (2023)</small>
+
+
+| 🔥: 88 \| 💬: [59](https://news.ycombinator.com/item?id=43802491) \| 🗓️ 2025-04-26
+
+
+<br />
+人权组织Cristosal调查揭露，**萨尔瓦多**在总统布克尔实施的"打击帮派"紧急状态期间，监狱内存在系统性酷刑与虐囚。**153名囚犯非正常死亡**，其中29例确认暴力致死，46例疑似暴力致死，死因包括**机械性窒息**、殴打及医疗忽视。幸存者证言描述囚犯被迫用嘴捡食、电击虐待及隔离牢房折磨。政府否认指控，称死亡均属"自然原因"。报告直指该国重回军事独裁时期的黑暗模式，人权状况急剧恶化。
+
+---
+
+## <a name="13"></a>13. 经济学家也懵了：全球经济数据质量堪忧 
+<small>🔗 [economist.com](https://www.economist.com/finance-and-economics/2025/04/24/economists-dont-know-whats-going-on): Economists don't know what's going on</small>
+
+
+| 🔥: 81 \| 💬: [145](https://news.ycombinator.com/item?id=43806375) \| 🗓️ 2025-04-26
+
+
+<br />
+英国政府正调查国家统计局（ONS），因其GDP计算数据出现错误，导致投资者对月度就业报告失去信任。这一事件反映出**全球经济数据质量急剧下滑**的严峻趋势。**统计机构公信力崩塌**正让决策者和市场陷入"盲飞"状态，而数据失真可能加剧经济误判风险。
+
+---
+
+## <a name="14"></a>14. 初代和第二代Nest恒温器将于2025年10月停止支持 
+<small>🔗 [arstechnica.com](https://arstechnica.com/gadgets/2025/04/google-ending-support-for-older-nest-thermostats-will-stop-selling-nests-in-europe/): First and 2nd gen Nest Thermostats will lose support in Oct 2025</small>
+
+
+| 🔥: 75 \| 💬: [62](https://news.ycombinator.com/item?id=43802574) \| 🗓️ 2025-04-26
+
+
+<br />
+谷歌宣布**初代和第二代Nest Learning恒温器**将于2025年10月终止服务，届时设备将无法连接云端功能，但仍可作为普通温控器使用。北美用户可获**130美元折扣**升级至第四代产品，而欧洲用户因无替代机型，可获第三方Tado恒温器五折优惠。此举与谷歌近期裁减硬件部门有关，但官方强调这些设备已远超五年支持承诺。欧洲市场将不再推出新款Nest恒温器，标志着该产品线退出当地市场。
+
+---
+
+## <a name="15"></a>15. 滑铁卢大学因疑似使用AI而暂扣编程比赛结果 
 <small>🔗 [thelogic.co](https://thelogic.co/news/waterloo-university-coding-competition-ai-cheating/): University of Waterloo withholds coding contest results over suspected AI use</small>
 
 
-| 🔥: 66 \| 💬: [57](https://news.ycombinator.com/item?id=43805238) \| 🗓️ 2025-04-26
+| 🔥: 74 \| 💬: [59](https://news.ycombinator.com/item?id=43805238) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -225,11 +213,23 @@ tags:
 
 ---
 
+## <a name="16"></a>16. 巴洛的成人行为准则 
+<small>🔗 [mail-archive.com](https://www.mail-archive.com/silklist@lists.hserus.net/msg08034.html): Barlow's Principles of Adult Behaviour</small>
+
+
+| 🔥: 74 \| 💬: [42](https://news.ycombinator.com/item?id=43805729) \| 🗓️ 2025-04-26
+
+
+<br />
+约翰·佩里·巴洛在30岁生日前夕（1977年）写下25条行为准则，旨在引导自己以更负责任的方式生活。核心原则包括：**保持耐心**、**拒绝背后诋毁他人**、**承认错误并谦逊行事**。他强调宽容、自我反思、尊重他人生命与尊严，并建议追求使命而非短暂快乐。巴洛坦言未能完美践行这些准则，但将其作为终身努力的方向，并邀请亲友监督。这份个人化清单既是对自我的要求，也暗含对他人成长的启示。
+
+---
+
 ## <a name="17"></a>17. 七年重生法则 
 <small>🔗 [macsparky.com](https://www.macsparky.com/blog/2025/04/the-seven-year-rule/): The Seven-Year Rule</small>
 
 
-| 🔥: 62 \| 💬: [52](https://news.ycombinator.com/item?id=43805369) \| 🗓️ 2025-04-26
+| 🔥: 68 \| 💬: [56](https://news.ycombinator.com/item?id=43805369) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -241,7 +241,7 @@ tags:
 <small>🔗 [naml.us](https://naml.us/post/thank-you-for-holding-my-duck/): Thank you for holding my duck (2021)</small>
 
 
-| 🔥: 61 \| 💬: [20](https://news.ycombinator.com/item?id=43803659) \| 🗓️ 2025-04-26
+| 🔥: 66 \| 💬: [21](https://news.ycombinator.com/item?id=43803659) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -249,11 +249,23 @@ tags:
 
 ---
 
-## <a name="19"></a>19. 美国国家科学基金会再终止数百项资助，局长突然辞职 
+## <a name="19"></a>19. 裸机系统上的C标准库：用Newlib实现printf功能 
+<small>🔗 [popovicu.com](https://popovicu.com/posts/bare-metal-printf/): Bare metal printf – C standard library without OS</small>
+
+
+| 🔥: 65 \| 💬: [20](https://news.ycombinator.com/item?id=43807404) \| 🗓️ 2025-04-26
+
+
+<br />
+本文探讨如何在**裸机系统**上利用**Newlib**构建精简的C标准库，重点实现`printf`功能。通过RISC-V平台示例，作者演示了如何为UART设备编写基础驱动（如字符读写），并将其作为Newlib的底层**系统调用**接口。Newlib的核心思想是提供可定制的轻量级库框架，开发者只需实现关键底层函数（如`_write`），即可自动获得高级功能（如格式化输出）。文中还详细介绍了交叉编译工具链的配置要点，强调裸机环境下需手动处理硬件交互，与操作系统支持的完整标准库形成鲜明对比。
+
+---
+
+## <a name="20"></a>20. 美国国家科学基金会再终止数百项资助，局长突然辞职 
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-01312-8): Hundreds more NSF grants terminated after agency director resigns</small>
 
 
-| 🔥: 59 \| 💬: [35](https://news.ycombinator.com/item?id=43806694) \| 🗓️ 2025-04-26
+| 🔥: 60 \| 💬: [36](https://news.ycombinator.com/item?id=43806694) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -261,11 +273,35 @@ tags:
 
 ---
 
-## <a name="20"></a>20. 比尔·盖茨在8位BASIC中隐藏的彩蛋（2008） 
+## <a name="21"></a>21. BART推出动漫吉祥物推广公共交通 
+<small>🔗 [bart.gov](https://www.bart.gov/news/fun/anime): BART's Anime Mascots</small>
+
+
+| 🔥: 51 \| 💬: [20](https://news.ycombinator.com/item?id=43806281) \| 🗓️ 2025-04-26
+
+
+<br />
+BART近日发布以**动漫角色Mira和Jasmine**为主题的涂色卡及**BART列车cosplay制作指南**，旨在通过年轻化形象吸引青少年乘客。这些吉祥物灵感源自日本和台湾的交通宣传模式，由加州艺术家设计，于2023年正式亮相。角色包括热爱火车的时尚学生Jasmine、列车员Mira等，均配有周边商品。项目强调**社区联结**与**公共交通推广**，鼓励粉丝参与角色扮演。
+
+---
+
+## <a name="22"></a>22. Tilt：将开发环境代码化 
+<small>🔗 [github.com](https://github.com/tilt-dev/tilt): Tilt: dev environment as code</small>
+
+
+| 🔥: 51 \| 💬: [33](https://news.ycombinator.com/item?id=43806296) \| 🗓️ 2025-04-26
+
+
+<br />
+Tilt 是一个专为 **Kubernetes** 微服务应用设计的工具，允许开发者通过代码定义开发环境。它自动化了从代码变更到部署的整个流程，包括文件监控、容器镜像构建和环境更新，类似 `docker build && kubectl apply` 的增强版。支持多种语言（如 **Go**、**Python**、**NodeJS** 等），提供详细教程和API参考。社区活跃，支持扩展功能，并遵循Apache 2.0许可。强调安全性和用户隐私，匿名数据用于改进产品。
+
+---
+
+## <a name="23"></a>23. 比尔·盖茨在8位BASIC中隐藏的彩蛋（2008） 
 <small>🔗 [pagetable.com](https://www.pagetable.com/?p=43): Bill Gates's Personal Easter Eggs in 8 Bit BASIC (2008)</small>
 
 
-| 🔥: 44 \| 💬: [9](https://news.ycombinator.com/item?id=43806491) \| 🗓️ 2025-04-26
+| 🔥: 50 \| 💬: [12](https://news.ycombinator.com/item?id=43806491) \| 🗓️ 2025-04-26
 
 
 <br />
@@ -273,7 +309,7 @@ tags:
 
 ---
 
-## <a name="21"></a>21. 人工智能时代，人文学科将何去何从？ 
+## <a name="24"></a>24. 人工智能时代，人文学科将何去何从？ 
 <small>🔗 [newyorker.com](https://www.newyorker.com/culture/the-weekend-essay/will-the-humanities-survive-artificial-intelligence): Will the Humanities Survive Artificial Intelligence?</small>
 
 
@@ -285,7 +321,7 @@ tags:
 
 ---
 
-## <a name="22"></a>22. 顶级员工监控软件泄露2100万用户截图 
+## <a name="25"></a>25. 顶级员工监控软件泄露2100万用户截图 
 <small>🔗 [techradar.com](https://www.techradar.com/pro/security/top-employee-monitoring-app-leaks-21-million-screenshots-on-thousands-of-users): Top employee monitoring app leaks 21M screenshots on users</small>
 
 
@@ -294,41 +330,5 @@ tags:
 
 <br />
 网络安全研究人员发现，**WorkComposer**（一款员工生产力监控工具）的**未加密亚马逊S3存储桶**公开了超过2100万张实时截图。这些截图可能包含敏感信息，如密码、邮件和专有数据，导致用户面临身份盗窃和欺诈风险。尽管公司已封锁存储桶，但若此前被黑客访问，后果严重。此次事件再次凸显企业**云安全责任意识薄弱**的问题。
-
----
-
-## <a name="23"></a>23. 裸机系统上的C标准库：用Newlib实现printf功能 
-<small>🔗 [popovicu.com](https://popovicu.com/posts/bare-metal-printf/): Bare metal printf – C standard library without OS</small>
-
-
-| 🔥: 40 \| 💬: [14](https://news.ycombinator.com/item?id=43807404) \| 🗓️ 2025-04-26
-
-
-<br />
-本文探讨如何在**裸机系统**上利用**Newlib**构建精简的C标准库，重点实现`printf`功能。通过RISC-V平台示例，作者演示了如何为UART设备编写基础驱动（如字符读写），并将其作为Newlib的底层**系统调用**接口。Newlib的核心思想是提供可定制的轻量级库框架，开发者只需实现关键底层函数（如`_write`），即可自动获得高级功能（如格式化输出）。文中还详细介绍了交叉编译工具链的配置要点，强调裸机环境下需手动处理硬件交互，与操作系统支持的完整标准库形成鲜明对比。
-
----
-
-## <a name="24"></a>24. Tilt：将开发环境代码化 
-<small>🔗 [github.com](https://github.com/tilt-dev/tilt): Tilt: dev environment as code</small>
-
-
-| 🔥: 37 \| 💬: [30](https://news.ycombinator.com/item?id=43806296) \| 🗓️ 2025-04-26
-
-
-<br />
-Tilt 是一个专为 **Kubernetes** 微服务应用设计的工具，允许开发者通过代码定义开发环境。它自动化了从代码变更到部署的整个流程，包括文件监控、容器镜像构建和环境更新，类似 `docker build && kubectl apply` 的增强版。支持多种语言（如 **Go**、**Python**、**NodeJS** 等），提供详细教程和API参考。社区活跃，支持扩展功能，并遵循Apache 2.0许可。强调安全性和用户隐私，匿名数据用于改进产品。
-
----
-
-## <a name="25"></a>25. 特朗普政府驱逐多名患癌美国公民儿童 
-<small>🔗 [rollingstone.com](https://www.rollingstone.com/politics/politics-news/trump-deport-child-cancer-us-citizen-1235325778/): Trump Has Now Deported Multiple U.S. Citizen Children with Cancer</small>
-
-
-| 🔥: 31 \| 💬: [5](https://news.ycombinator.com/item?id=43801961) \| 🗓️ 2025-04-26
-
-
-<br />
-2025年4月23日，美国新奥尔良移民与海关执法局（ICE）在特朗普的移民政策下，驱逐了两名母亲及其三名美国公民子女（分别为2岁、4岁和7岁）。**其中一名儿童患有转移性癌症**，被驱逐时未携带药物或咨询医生；另一名母亲已怀孕，未获得产前护理保障。美国公民自由联盟（ACLU）指出，这些家庭被拘留后**未获得法律代表协助**，且驱逐程序涉嫌剥夺正当程序权利。法官批评政府“未经合理程序驱逐美国公民”。这是特朗普政府第二次驱逐患癌儿童，此前一名10岁脑癌患儿也被强制遣返。民间组织谴责此举“残忍”，呼吁停止资助ICE。
 
 ---
