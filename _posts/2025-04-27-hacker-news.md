@@ -27,7 +27,7 @@ tags:
 <small>🔗 [internet-in-a-box.org](https://internet-in-a-box.org/): Internet in a Box</small>
 
 
-| 🔥🔥: 314 \| 💬: [99](https://news.ycombinator.com/item?id=43814433) \| 🗓️ 2025-04-27
+| 🔥🔥: 346 \| 💬: [107](https://news.ycombinator.com/item?id=43814433) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [ted.com](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads): We're building a dystopia just to make people click on ads [video]</small>
 
 
-| 🔥🔥: 268 \| 💬: [227](https://news.ycombinator.com/item?id=43812379) \| 🗓️ 2025-04-27
+| 🔥🔥: 270 \| 💬: [228](https://news.ycombinator.com/item?id=43812379) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [blog.julik.nl](https://blog.julik.nl/2025/04/a-can-of-shardines): Shardines: SQLite3 Database-per-Tenant with ActiveRecord</small>
 
 
-| 🔥🔥: 221 \| 💬: [67](https://news.ycombinator.com/item?id=43811400) \| 🗓️ 2025-04-27
+| 🔥🔥: 229 \| 💬: [67](https://news.ycombinator.com/item?id=43811400) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [rambo.codes](https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone): How a single line of code could brick your iPhone</small>
 
 
-| 🔥🔥: 212 \| 💬: [60](https://news.ycombinator.com/item?id=43814360) \| 🗓️ 2025-04-27
+| 🔥🔥: 226 \| 💬: [63](https://news.ycombinator.com/item?id=43814360) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [thereader.mitpress.mit.edu](https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/): Read the Obits</small>
 
 
-| 🔥🔥: 200 \| 💬: [76](https://news.ycombinator.com/item?id=43813175) \| 🗓️ 2025-04-27
+| 🔥🔥: 206 \| 💬: [79](https://news.ycombinator.com/item?id=43813175) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -83,11 +83,37 @@ tags:
 
 ---
 
-## <a name="6"></a>6. 美国自闭症数据项目引发伦理、隐私与意图争议 
+## <a name="6"></a>6. 科技初创企业中，商业联合创始人的价值被高估了 
+<small>🔗 [verdikapuku.com](https://verdikapuku.com/posts/business-founders-are-less-valuable-than-they-think/): Business co-founders in tech startups are less valuable than they think</small>
+
+
+| 🔥🔥: 203 \| 💬: [165](https://news.ycombinator.com/item?id=43814497) \| 🗓️ 2025-04-27
+
+
+<br />
+许多非技术背景的创业者常陷入困境：他们带着创意寻找技术合伙人，却屡屡碰壁。**核心问题在于，他们高估了自己的贡献**——创意本身价值有限，真正的价值在于执行（如Twitter和Facebook的案例）。技术人才往往不愿为"自以为是史蒂夫·乔布斯"的霸道商业合伙人打工。  
+
+**解决方案是证明自己的商业能力**：通过生成千人候补名单或20+企业意向书，展示获取客户的能力。**关键价值在于关系网建设**——拥有难以复制的客户或投资人资源才是不可替代的优势。顶尖商业创始人的共同特质正是快速建立高价值人脉的能力。
+
+---
+
+## <a name="7"></a>7. 反向地理编码的难题 
+<small>🔗 [shkspr.mobi](https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/): Reverse geocoding is hard</small>
+
+
+| 🔥🔥: 195 \| 💬: [95](https://news.ycombinator.com/item?id=43812323) \| 🗓️ 2025-04-27
+
+
+<br />
+OpenBenches是一个收录近4万张纪念长椅的众包数据库，每张长椅都带有经纬度坐标。但如何将这些数字转换为人类可读的地址？虽然现有API（如**OpenCage**、**OpenStreetMap**）能提供精确地址，但问题在于：**公园长椅无门牌号**，且街道地址可能误导用户。此外，地址格式因地区而异（如“纽约，纽约”有效，但“柏林，柏林”无效），且需考虑多语言显示（如日文地址）。解决方案是优先使用附近POI（兴趣点）作为位置参考，但自动化处理仍面临逻辑距离与本地化挑战。最终计划：通过StadiaMaps获取POI并拼接名称与粗略位置，等待用户反馈优化。
+
+---
+
+## <a name="8"></a>8. 美国自闭症数据项目引发伦理、隐私与意图争议 
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/health/2025/04/25/autism-registry-privacy-rfk-research/): U.S. autism data project sparks uproar over ethics, privacy and intent</small>
 
 
-| 🔥🔥: 192 \| 💬: [222](https://news.ycombinator.com/item?id=43810561) \| 🗓️ 2025-04-27
+| 🔥🔥: 193 \| 💬: [222](https://news.ycombinator.com/item?id=43810561) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -95,7 +121,7 @@ tags:
 
 ---
 
-## <a name="7"></a>7. 维基百科数据库下载指南 
+## <a name="9"></a>9. 维基百科数据库下载指南 
 <small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:Database_download): Wikipedia: Database Download</small>
 
 
@@ -107,37 +133,11 @@ tags:
 
 ---
 
-## <a name="8"></a>8. 反向地理编码的难题 
-<small>🔗 [shkspr.mobi](https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/): Reverse geocoding is hard</small>
-
-
-| 🔥🔥: 190 \| 💬: [93](https://news.ycombinator.com/item?id=43812323) \| 🗓️ 2025-04-27
-
-
-<br />
-OpenBenches是一个收录近4万张纪念长椅的众包数据库，每张长椅都带有经纬度坐标。但如何将这些数字转换为人类可读的地址？虽然现有API（如**OpenCage**、**OpenStreetMap**）能提供精确地址，但问题在于：**公园长椅无门牌号**，且街道地址可能误导用户。此外，地址格式因地区而异（如“纽约，纽约”有效，但“柏林，柏林”无效），且需考虑多语言显示（如日文地址）。解决方案是优先使用附近POI（兴趣点）作为位置参考，但自动化处理仍面临逻辑距离与本地化挑战。最终计划：通过StadiaMaps获取POI并拼接名称与粗略位置，等待用户反馈优化。
-
----
-
-## <a name="9"></a>9. 科技初创企业中，商业联合创始人的价值被高估了 
-<small>🔗 [verdikapuku.com](https://verdikapuku.com/posts/business-founders-are-less-valuable-than-they-think/): Business co-founders in tech startups are less valuable than they think</small>
-
-
-| 🔥🔥: 187 \| 💬: [160](https://news.ycombinator.com/item?id=43814497) \| 🗓️ 2025-04-27
-
-
-<br />
-许多非技术背景的创业者常陷入困境：他们带着创意寻找技术合伙人，却屡屡碰壁。**核心问题在于，他们高估了自己的贡献**——创意本身价值有限，真正的价值在于执行（如Twitter和Facebook的案例）。技术人才往往不愿为"自以为是史蒂夫·乔布斯"的霸道商业合伙人打工。  
-
-**解决方案是证明自己的商业能力**：通过生成千人候补名单或20+企业意向书，展示获取客户的能力。**关键价值在于关系网建设**——拥有难以复制的客户或投资人资源才是不可替代的优势。顶尖商业创始人的共同特质正是快速建立高价值人脉的能力。
-
----
-
 ## <a name="10"></a>10. 5G能否终结IMSI捕获器的时代？ 
 <small>🔗 [zetier.com](https://zetier.com/5g-imsi-catcher/): Did 5G kill the IMSI catcher?</small>
 
 
-| 🔥🔥: 171 \| 💬: [60](https://news.ycombinator.com/item?id=43813083) \| 🗓️ 2025-04-27
+| 🔥🔥: 177 \| 💬: [65](https://news.ycombinator.com/item?id=43813083) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -149,7 +149,7 @@ OpenBenches是一个收录近4万张纪念长椅的众包数据库，每张长�
 <small>🔗 [github.com](https://github.com/fail0verflow/hbc/blob/80a80251f83f1993c272c58e471d040f3eb1dee9/README.md): Libogc (Wii homebrew library) discovered to contain code stolen from RTEMS</small>
 
 
-| 🔥🔥: 160 \| 💬: [107](https://news.ycombinator.com/item?id=43812995) \| 🗓️ 2025-04-27
+| 🔥🔥: 161 \| 💬: [109](https://news.ycombinator.com/item?id=43812995) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -161,7 +161,7 @@ OpenBenches是一个收录近4万张纪念长椅的众包数据库，每张长�
 <small>🔗 [ahl.dtrace.org](https://ahl.dtrace.org/2016/06/15/apple_and_zfs/): ZFS: Apple's new filesystem that wasn't (2016)</small>
 
 
-| 🔥🔥: 149 \| 💬: [143](https://news.ycombinator.com/item?id=43810566) \| 🗓️ 2025-04-27
+| 🔥🔥: 155 \| 💬: [147](https://news.ycombinator.com/item?id=43810566) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -173,7 +173,7 @@ OpenBenches是一个收录近4万张纪念长椅的众包数据库，每张长�
 <small>🔗 [worksonmymachine.substack.com](https://worksonmymachine.substack.com/p/the-coming-knowledge-work-supply): The coming knowledge-work supply-chain crisis</small>
 
 
-| 🔥🔥: 135 \| 💬: [77](https://news.ycombinator.com/item?id=43812459) \| 🗓️ 2025-04-27
+| 🔥🔥: 145 \| 💬: [84](https://news.ycombinator.com/item?id=43812459) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -185,7 +185,7 @@ AI正以指数级速度提升知识工作的**生产环节**，但人类的**决
 <small>🔗 [tmuxai.dev](https://tmuxai.dev/): TmuxAI: AI-Powered, Non-Intrusive Terminal Assistant</small>
 
 
-| 🔥🔥: 130 \| 💬: [35](https://news.ycombinator.com/item?id=43812646) \| 🗓️ 2025-04-27
+| 🔥🔥: 132 \| 💬: [37](https://news.ycombinator.com/item?id=43812646) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -197,7 +197,7 @@ TmuxAI是一款**非侵入式终端助手**，可在tmux窗口中实时协作。
 <small>🔗 [openbsd.org](https://www.openbsd.org/77.html): OpenBSD 7.7 Released</small>
 
 
-| 🔥🔥: 122 \| 💬: [22](https://news.ycombinator.com/item?id=43814058) \| 🗓️ 2025-04-27
+| 🔥🔥: 124 \| 💬: [22](https://news.ycombinator.com/item?id=43814058) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -205,11 +205,23 @@ OpenBSD 7.7 于 2025 年 4 月 28 日发布，这是该系统的第 58 个版本
 
 ---
 
-## <a name="16"></a>16. 我只想写代码（2023） 
+## <a name="16"></a>16. AI揭示阿尔茨海默病新病因并发现潜在疗法 
+<small>🔗 [today.ucsd.edu](https://today.ucsd.edu/story/ai-helps-unravel-a-cause-of-alzheimers-disease-and-identify-a-therapeutic-candidate): AI helps unravel a cause of Alzheimer’s and identify a therapeutic candidate</small>
+
+
+| 🔥🔥: 120 \| 💬: [50](https://news.ycombinator.com/item?id=43815591) \| 🗓️ 2025-04-27
+
+
+<br />
+加州大学圣地亚哥分校的研究团队利用**人工智能**发现，基因**PHGDH**不仅是阿尔茨海默病的生物标志物，还是其致病原因。该基因通过一种此前未知的**“兼职功能”**（调控基因开关）触发脑细胞功能紊乱，导致疾病。AI还协助筛选出小分子抑制剂**NCT-503**，能特异性阻断该致病机制，在动物实验中显著改善记忆和焦虑症状。这一发现为开发口服疗法提供了新方向，目前研究已发表于《细胞》期刊。
+
+---
+
+## <a name="17"></a>17. 我只想写代码（2023） 
 <small>🔗 [zachbellay.com](https://www.zachbellay.com/daily/i-just-want-to-code/): I just want to code (2023)</small>
 
 
-| 🔥: 99 \| 💬: [37](https://news.ycombinator.com/item?id=43814708) \| 🗓️ 2025-04-27
+| 🔥🔥: 116 \| 💬: [39](https://news.ycombinator.com/item?id=43814708) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -219,11 +231,23 @@ OpenBSD 7.7 于 2025 年 4 月 28 日发布，这是该系统的第 58 个版本
 
 ---
 
-## <a name="17"></a>17. NASA如何用图技术与大语言模型构建人才知识图谱 
+## <a name="18"></a>18. 我开发了一款基于网页的免费版Screen Studio替代品 
+<small>🔗 [screenrecorder.me](https://www.screenrecorder.me): Show HN: I made a web-based, free alternative to Screen Studio</small>
+
+
+| 🔥: 97 \| 💬: [34](https://news.ycombinator.com/item?id=43816419) \| 🗓️ 2025-04-27
+
+
+<br />
+这款工具让你**直接在浏览器中**创建精美的屏幕录制视频，无需登录即可快速**捕捉、编辑和分享**内容。支持自定义壁纸、屏幕样式（圆角/阴影/边框）和**摄像头特效**，还能添加流畅的物理动画效果。专为制作产品演示和教程设计，操作简单，几分钟即可完成专业级录制。
+
+---
+
+## <a name="19"></a>19. NASA如何用图技术与大语言模型构建人才知识图谱 
 <small>🔗 [memgraph.com](https://memgraph.com/blog/nasa-memgraph-people-knowledge-graph): How NASA Is Using Graph Technology and LLMs to Build a People Knowledge Graph</small>
 
 
-| 🔥: 92 \| 💬: [34](https://news.ycombinator.com/item?id=43813036) \| 🗓️ 2025-04-27
+| 🔥: 93 \| 💬: [36](https://news.ycombinator.com/item?id=43813036) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -231,23 +255,11 @@ NASA通过**图数据库**和**大语言模型（LLM）**构建了“人才图�
 
 ---
 
-## <a name="18"></a>18. AI揭示阿尔茨海默病新病因并发现潜在疗法 
-<small>🔗 [today.ucsd.edu](https://today.ucsd.edu/story/ai-helps-unravel-a-cause-of-alzheimers-disease-and-identify-a-therapeutic-candidate): AI helps unravel a cause of Alzheimer’s and identify a therapeutic candidate</small>
-
-
-| 🔥: 92 \| 💬: [32](https://news.ycombinator.com/item?id=43815591) \| 🗓️ 2025-04-27
-
-
-<br />
-加州大学圣地亚哥分校的研究团队利用**人工智能**发现，基因**PHGDH**不仅是阿尔茨海默病的生物标志物，还是其致病原因。该基因通过一种此前未知的**“兼职功能”**（调控基因开关）触发脑细胞功能紊乱，导致疾病。AI还协助筛选出小分子抑制剂**NCT-503**，能特异性阻断该致病机制，在动物实验中显著改善记忆和焦虑症状。这一发现为开发口服疗法提供了新方向，目前研究已发表于《细胞》期刊。
-
----
-
-## <a name="19"></a>19. 超快DOM截图工具snapDOM：精准捕获网页元素为图片 
+## <a name="20"></a>20. 超快DOM截图工具snapDOM：精准捕获网页元素为图片 
 <small>🔗 [github.com](https://github.com/zumerlab/snapdom): Show HN: I created snapDOM to capture DOM nodes as images with exceptional speed</small>
 
 
-| 🔥: 90 \| 💬: [35](https://news.ycombinator.com/item?id=43813330) \| 🗓️ 2025-04-27
+| 🔥: 93 \| 💬: [35](https://news.ycombinator.com/item?id=43813330) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -255,7 +267,19 @@ snapDOM是一款**高性能DOM截图工具**，可将任意HTML元素转换为SV
 
 ---
 
-## <a name="20"></a>20. 沃尔玛计划几年内在全美铺设电动汽车充电网络 
+## <a name="21"></a>21. AI编程助手价值有限，因为程序员的核心工作是思考 
+<small>🔗 [doliver.org](https://www.doliver.org/articles/programming-is-a-thinkers-game): AI Coding assistants provide little value because a programmer's job is to think</small>
+
+
+| 🔥: 90 \| 💬: [157](https://news.ycombinator.com/item?id=43815033) \| 🗓️ 2025-04-27
+
+
+<br />
+文章指出，**代码文本**与**实际运行的程序**之间存在巨大差异。以一段简单的JavaScript事件监听器为例，代码无法体现运行时环境、外部依赖、执行顺序等关键因素。**人类工程师**通过经验和推理填补这些空白，而AI仅能生成**看似可行但缺乏深层逻辑**的代码片段，反而增加验证成本。真正的编程在于**理解需求**和设计解决方案，而非机械堆砌代码。模块化库、文档和开源项目比AI生成的代码更可靠，因为它们提供了完整上下文和经过验证的抽象。编程的本质是思考，而AI目前无法替代这一过程。
+
+---
+
+## <a name="22"></a>22. 沃尔玛计划几年内在全美铺设电动汽车充电网络 
 <small>🔗 [evchargingstations.com](https://evchargingstations.com/chargingnews/exclusive-walmart-ev-charging-network/): Walmart plans EV Charging network which will blanket the US within a few years</small>
 
 
@@ -267,23 +291,11 @@ snapDOM是一款**高性能DOM截图工具**，可将任意HTML元素转换为SV
 
 ---
 
-## <a name="21"></a>21. AI编程助手价值有限，因为程序员的核心工作是思考 
-<small>🔗 [doliver.org](https://www.doliver.org/articles/programming-is-a-thinkers-game): AI Coding assistants provide little value because a programmer's job is to think</small>
-
-
-| 🔥: 88 \| 💬: [157](https://news.ycombinator.com/item?id=43815033) \| 🗓️ 2025-04-27
-
-
-<br />
-文章指出，**代码文本**与**实际运行的程序**之间存在巨大差异。以一段简单的JavaScript事件监听器为例，代码无法体现运行时环境、外部依赖、执行顺序等关键因素。**人类工程师**通过经验和推理填补这些空白，而AI仅能生成**看似可行但缺乏深层逻辑**的代码片段，反而增加验证成本。真正的编程在于**理解需求**和设计解决方案，而非机械堆砌代码。模块化库、文档和开源项目比AI生成的代码更可靠，因为它们提供了完整上下文和经过验证的抽象。编程的本质是思考，而AI目前无法替代这一过程。
-
----
-
-## <a name="22"></a>22. YC创始人指出：程序员不必为警察国家效力 
+## <a name="23"></a>23. YC创始人指出：程序员不必为警察国家效力 
 <small>🔗 [bird.makeup](https://bird.makeup/users/paulg/statuses/1913338841068404903): YC founder points out that jobs exist outside of working for police state</small>
 
 
-| 🔥: 85 \| 💬: [48](https://news.ycombinator.com/item?id=43813389) \| 🗓️ 2025-04-27
+| 🔥: 87 \| 💬: [48](https://news.ycombinator.com/item?id=43813389) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -291,11 +303,11 @@ snapDOM是一款**高性能DOM截图工具**，可将任意HTML元素转换为SV
 
 ---
 
-## <a name="23"></a>23. 是时候辞掉无意义的工作，成为道德野心家并改变世界了 
+## <a name="24"></a>24. 是时候辞掉无意义的工作，成为道德野心家并改变世界了 
 <small>🔗 [theguardian.com](https://www.theguardian.com/lifeandstyle/2025/apr/19/no-youre-not-fine-just-the-way-you-are-time-to-quit-your-pointless-job-become-morally-ambitious-and-change-the-world): Time to quit your pointless job, become morally ambitious and change the world</small>
 
 
-| 🔥: 84 \| 💬: [90](https://news.ycombinator.com/item?id=43812318) \| 🗓️ 2025-04-27
+| 🔥: 85 \| 💬: [91](https://news.ycombinator.com/item?id=43812318) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -303,11 +315,11 @@ snapDOM是一款**高性能DOM截图工具**，可将任意HTML元素转换为SV
 
 ---
 
-## <a name="24"></a>24. 正在开发中的Common Lisp实现，支持ASDF 
+## <a name="25"></a>25. 正在开发中的Common Lisp实现，支持ASDF 
 <small>🔗 [savannah.nongnu.org](https://savannah.nongnu.org/p/alisp): Show HN: A Common Lisp implementation in development, supports ASDF</small>
 
 
-| 🔥: 73 \| 💬: [42](https://news.ycombinator.com/item?id=43811432) \| 🗓️ 2025-04-27
+| 🔥: 73 \| 💬: [44](https://news.ycombinator.com/item?id=43811432) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -316,17 +328,5 @@ snapDOM是一款**高性能DOM截图工具**，可将任意HTML元素转换为SV
 项目采用**GPLv3+协议**，开发者鼓励提交错误报告和建议，但暂不接受代码贡献。最新版本（1.1）改进了LOOP宏、文件编译器及调试功能。可通过Git克隆仓库或下载发布包获取代码。  
 
 开发者Andrea Monaco独立维护该项目，并接受捐赠支持。注册于2022年，目前处于**Beta阶段**。
-
----
-
-## <a name="25"></a>25. 马斯克关闭曾资助特斯拉的政府贷款办公室 
-<small>🔗 [jalopnik.com](https://www.jalopnik.com/1843586/elon-musk-doe-cuts-tesla/): Musk Shutting Down Government Loan Office That Gave Him the Money to Grow Tesla</small>
-
-
-| 🔥: 69 \| 💬: [11](https://news.ycombinator.com/item?id=43811824) \| 🗓️ 2025-04-27
-
-
-<br />
-15年前，美国能源部**贷款项目办公室（LPO）**向初创企业特斯拉提供4.65亿美元贷款，助其建立工厂并量产Model S。如今，马斯克在特朗普政府中主导对该部门的裁撤，导致60%员工被解雇，多个清洁能源项目停滞。**LPO**专为高风险能源项目提供资金，曾推动美国电动车及核能发展，甚至为政府创收。此次裁撤已迫使电池制造商Kore Power等企业取消建厂计划，并威胁到PG&E的150亿美元基建贷款。批评者指出，此举将**扼杀美国清洁能源未来**，而马斯克正“抽走自己爬过的梯子”。
 
 ---
