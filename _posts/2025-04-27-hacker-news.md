@@ -27,7 +27,7 @@ tags:
 <small>🔗 [ted.com](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads): We're building a dystopia just to make people click on ads [video]</small>
 
 
-| 🔥🔥: 247 \| 💬: [208](https://news.ycombinator.com/item?id=43812379) \| 🗓️ 2025-04-27
+| 🔥🔥: 253 \| 💬: [215](https://news.ycombinator.com/item?id=43812379) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [blog.julik.nl](https://blog.julik.nl/2025/04/a-can-of-shardines): Shardines: SQLite3 Database-per-Tenant with ActiveRecord</small>
 
 
-| 🔥🔥: 192 \| 💬: [61](https://news.ycombinator.com/item?id=43811400) \| 🗓️ 2025-04-27
+| 🔥🔥: 202 \| 💬: [65](https://news.ycombinator.com/item?id=43811400) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Wikipedia:Database_download): Wikipedia: Database Download</small>
 
 
-| 🔥🔥: 186 \| 💬: [88](https://news.ycombinator.com/item?id=43811732) \| 🗓️ 2025-04-27
+| 🔥🔥: 189 \| 💬: [89](https://news.ycombinator.com/item?id=43811732) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/health/2025/04/25/autism-registry-privacy-rfk-research/): U.S. autism data project sparks uproar over ethics, privacy and intent</small>
 
 
-| 🔥🔥: 174 \| 💬: [195](https://news.ycombinator.com/item?id=43810561) \| 🗓️ 2025-04-27
+| 🔥🔥: 176 \| 💬: [199](https://news.ycombinator.com/item?id=43810561) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [thereader.mitpress.mit.edu](https://thereader.mitpress.mit.edu/the-creativity-hack-no-one-told-you-about-read-the-obits/): Read the Obits</small>
 
 
-| 🔥🔥: 160 \| 💬: [62](https://news.ycombinator.com/item?id=43813175) \| 🗓️ 2025-04-27
+| 🔥🔥: 171 \| 💬: [64](https://news.ycombinator.com/item?id=43813175) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [shkspr.mobi](https://shkspr.mobi/blog/2025/04/reverse-geocoding-is-hard/): Reverse geocoding is hard</small>
 
 
-| 🔥🔥: 154 \| 💬: [88](https://news.ycombinator.com/item?id=43812323) \| 🗓️ 2025-04-27
+| 🔥🔥: 164 \| 💬: [87](https://news.ycombinator.com/item?id=43812323) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -95,47 +95,11 @@ OpenBenches是一个收录近4万张纪念长椅的众包数据库，每张长�
 
 ---
 
-## <a name="7"></a>7. 5G能否终结IMSI捕获器的时代？ 
-<small>🔗 [zetier.com](https://zetier.com/5g-imsi-catcher/): Did 5G Kill the IMSI Catcher?</small>
-
-
-| 🔥🔥: 139 \| 💬: [46](https://news.ycombinator.com/item?id=43813083) \| 🗓️ 2025-04-27
-
-
-<br />
-本文探讨了移动网络长期存在的安全漏洞——**IMSI捕获器**，分析了其在2G至5G网络中的演变。**IMSI**（国际移动用户识别码）是SIM卡的唯一标识，过去在2G/3G/4G网络中会以明文传输，易被捕获。5G通过加密的**SUPI/SUCI**标识符解决了这一问题，但实际部署中仍存在漏洞（如5G非独立组网模式或网络配置错误）。作者指出，完全防御IMSI捕获器仍不现实，建议用户优先使用5G独立组网或启用飞行模式规避风险。文章揭示了移动网络**移动性特性**与安全之间的永恒矛盾。
-
----
-
-## <a name="8"></a>8. Wii自制库libogc被曝窃取RTEMS及任天堂SDK代码 
-<small>🔗 [github.com](https://github.com/fail0verflow/hbc/blob/80a80251f83f1993c272c58e471d040f3eb1dee9/README.md): Libogc (Wii homebrew library) discovered to contain code stolen from RTEMS</small>
-
-
-| 🔥🔥: 138 \| 💬: [79](https://news.ycombinator.com/item?id=43812995) \| 🗓️ 2025-04-27
-
-
-<br />
-该存档仓库揭露，**libogc**（Wii自制软件核心库）大量代码剽窃自**RTEMS开源实时系统**和**任天堂官方SDK**，且删除了所有版权信息。开发者不仅长期隐瞒事实，还在问题曝光后关闭议题并辱骂举报者。目前项目法律风险极高，**Homebrew Channel团队**已终止使用并呼吁社区抵制此类行为。对比代码可确认，其线程实现与RTEMS旧版高度雷同，绝非巧合。该事件暴露了Wii自制生态建立在侵权代码基础上的黑幕。
-
----
-
-## <a name="9"></a>9. ZFS：苹果未实现的下一代文件系统（2016） 
-<small>🔗 [ahl.dtrace.org](https://ahl.dtrace.org/2016/06/15/apple_and_zfs/): ZFS: Apple's New Filesystem that wasn't (2016)</small>
-
-
-| 🔥🔥: 128 \| 💬: [118](https://news.ycombinator.com/item?id=43810566) \| 🗓️ 2025-04-27
-
-
-<br />
-2006年，苹果在WWDC上发布**Time Machine**备份工具时，开发者曾猜测其基于Solaris的**ZFS文件系统**，但实际仅采用硬链接技术。2007年，苹果计划移植ZFS至Mac OS X，却因Sun CEO提前泄密而受阻。尽管2008年ZFS出现在开发者版本中，最终因**Sun被甲骨文收购**、专利诉讼风险及苹果内部“非我发明”心态而搁浅。2016年，苹果推出自研的APFS替代HFS，但作者认为错过ZFS是行业损失。ZFS社区至今维护非官方移植版。
-
----
-
-## <a name="10"></a>10. 将互联网装进盒子 
+## <a name="7"></a>7. 将互联网装进盒子 
 <small>🔗 [internet-in-a-box.org](https://internet-in-a-box.org/): Internet in a Box</small>
 
 
-| 🔥🔥: 122 \| 💬: [33](https://news.ycombinator.com/item?id=43814433) \| 🗓️ 2025-04-27
+| 🔥🔥: 158 \| 💬: [47](https://news.ycombinator.com/item?id=43814433) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -143,11 +107,35 @@ OpenBenches是一个收录近4万张纪念长椅的众包数据库，每张长�
 
 ---
 
-## <a name="11"></a>11. 科技初创企业中，商业联合创始人的价值被高估了 
+## <a name="8"></a>8. Wii自制库libogc被曝窃取RTEMS及任天堂SDK代码 
+<small>🔗 [github.com](https://github.com/fail0verflow/hbc/blob/80a80251f83f1993c272c58e471d040f3eb1dee9/README.md): Libogc (Wii homebrew library) discovered to contain code stolen from RTEMS</small>
+
+
+| 🔥🔥: 146 \| 💬: [90](https://news.ycombinator.com/item?id=43812995) \| 🗓️ 2025-04-27
+
+
+<br />
+该存档仓库揭露，**libogc**（Wii自制软件核心库）大量代码剽窃自**RTEMS开源实时系统**和**任天堂官方SDK**，且删除了所有版权信息。开发者不仅长期隐瞒事实，还在问题曝光后关闭议题并辱骂举报者。目前项目法律风险极高，**Homebrew Channel团队**已终止使用并呼吁社区抵制此类行为。对比代码可确认，其线程实现与RTEMS旧版高度雷同，绝非巧合。该事件暴露了Wii自制生态建立在侵权代码基础上的黑幕。
+
+---
+
+## <a name="9"></a>9. 5G能否终结IMSI捕获器的时代？ 
+<small>🔗 [zetier.com](https://zetier.com/5g-imsi-catcher/): Did 5G Kill the IMSI Catcher?</small>
+
+
+| 🔥🔥: 143 \| 💬: [51](https://news.ycombinator.com/item?id=43813083) \| 🗓️ 2025-04-27
+
+
+<br />
+本文探讨了移动网络长期存在的安全漏洞——**IMSI捕获器**，分析了其在2G至5G网络中的演变。**IMSI**（国际移动用户识别码）是SIM卡的唯一标识，过去在2G/3G/4G网络中会以明文传输，易被捕获。5G通过加密的**SUPI/SUCI**标识符解决了这一问题，但实际部署中仍存在漏洞（如5G非独立组网模式或网络配置错误）。作者指出，完全防御IMSI捕获器仍不现实，建议用户优先使用5G独立组网或启用飞行模式规避风险。文章揭示了移动网络**移动性特性**与安全之间的永恒矛盾。
+
+---
+
+## <a name="10"></a>10. 科技初创企业中，商业联合创始人的价值被高估了 
 <small>🔗 [verdikapuku.com](https://verdikapuku.com/posts/business-founders-are-less-valuable-than-they-think/): Business co-founders in tech startups are less valuable than they think</small>
 
 
-| 🔥🔥: 119 \| 💬: [102](https://news.ycombinator.com/item?id=43814497) \| 🗓️ 2025-04-27
+| 🔥🔥: 138 \| 💬: [125](https://news.ycombinator.com/item?id=43814497) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -157,35 +145,11 @@ OpenBenches是一个收录近4万张纪念长椅的众包数据库，每张长�
 
 ---
 
-## <a name="12"></a>12. OpenBSD 7.7 正式发布 
-<small>🔗 [openbsd.org](https://www.openbsd.org/77.html): OpenBSD 7.7 Released</small>
-
-
-| 🔥🔥: 114 \| 💬: [14](https://news.ycombinator.com/item?id=43814058) \| 🗓️ 2025-04-27
-
-
-<br />
-OpenBSD 7.7 于 2025 年 4 月 28 日发布，这是该系统的第 58 个版本。本次更新包含多项重要改进，包括 **arm64 平台优化**（如 M1 MacBook 的 SMC 初始化修复和 SVE 支持）、**amd64 的 AMD SEV 虚拟化增强**，以及多线程和 SMP 性能提升。此外，内核改进了 **OOM 响应速度**，并新增了对 **DRM 6.12.21** 和最新显卡硬件的支持。用户工具方面，优化了 `sysctl`、`security` 和 `lldb` 等功能，并修复了大量硬件驱动问题。
-
----
-
-## <a name="13"></a>13. TmuxAI：AI驱动的非侵入式终端助手 
-<small>🔗 [tmuxai.dev](https://tmuxai.dev/): TmuxAI: AI-Powered, Non-Intrusive Terminal Assistant</small>
-
-
-| 🔥: 100 \| 💬: [27](https://news.ycombinator.com/item?id=43812646) \| 🗓️ 2025-04-27
-
-
-<br />
-TmuxAI是一款**非侵入式终端助手**，可在tmux窗口中实时协作。它像同事一样观察屏幕内容，**基于上下文提供智能帮助**，例如查找大文件或清理空间。支持**零配置安装**，兼容各种终端环境（包括SSH和数据库CLI），具备**主动监控模式**和开源特性，能精准识别命令并建议优化。演示中展示了自动启动MySQL容器并连接数据库的全流程。
-
----
-
-## <a name="14"></a>14. 一行代码如何让你的iPhone变砖 
+## <a name="11"></a>11. 一行代码如何让你的iPhone变砖 
 <small>🔗 [rambo.codes](https://rambo.codes/posts/2025-04-24-how-a-single-line-of-code-could-brick-your-iphone): How a single line of code could brick your iPhone</small>
 
 
-| 🔥: 99 \| 💬: [25](https://news.ycombinator.com/item?id=43814360) \| 🗓️ 2025-04-27
+| 🔥🔥: 135 \| 💬: [31](https://news.ycombinator.com/item?id=43814360) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -193,23 +157,47 @@ TmuxAI是一款**非侵入式终端助手**，可在tmux窗口中实时协作。
 
 ---
 
-## <a name="15"></a>15. NASA如何用图技术与大语言模型构建人才知识图谱 
-<small>🔗 [memgraph.com](https://memgraph.com/blog/nasa-memgraph-people-knowledge-graph): How NASA Is Using Graph Technology and LLMs to Build a People Knowledge Graph</small>
+## <a name="12"></a>12. ZFS：苹果未实现的下一代文件系统（2016） 
+<small>🔗 [ahl.dtrace.org](https://ahl.dtrace.org/2016/06/15/apple_and_zfs/): ZFS: Apple's new filesystem that wasn't (2016)</small>
 
 
-| 🔥: 91 \| 💬: [28](https://news.ycombinator.com/item?id=43813036) \| 🗓️ 2025-04-27
+| 🔥🔥: 131 \| 💬: [120](https://news.ycombinator.com/item?id=43810566) \| 🗓️ 2025-04-27
 
 
 <br />
-NASA通过**图数据库**和**大语言模型（LLM）**构建了“人才图谱”，用于分析员工技能、项目关联及跨学科专家发现。该系统整合了AWS云架构、Memgraph图数据库及Ollama本地LLM，支持实时查询与自然语言交互。关键技术包括**GraphRAG**实现语义搜索、动态关系建模（如项目相似性分析），并计划扩展至50万节点规模。当前挑战包括数据消歧与自动化流程优化，但已显著提升人才管理效率。
+2006年，苹果在WWDC上发布**Time Machine**备份工具时，开发者曾猜测其基于Solaris的**ZFS文件系统**，但实际仅采用硬链接技术。2007年，苹果计划移植ZFS至Mac OS X，却因Sun CEO提前泄密而受阻。尽管2008年ZFS出现在开发者版本中，最终因**Sun被甲骨文收购**、专利诉讼风险及苹果内部“非我发明”心态而搁浅。2016年，苹果推出自研的APFS替代HFS，但作者认为错过ZFS是行业损失。ZFS社区至今维护非官方移植版。
 
 ---
 
-## <a name="16"></a>16. 即将到来的知识工作供应链危机 
+## <a name="13"></a>13. OpenBSD 7.7 正式发布 
+<small>🔗 [openbsd.org](https://www.openbsd.org/77.html): OpenBSD 7.7 Released</small>
+
+
+| 🔥🔥: 117 \| 💬: [18](https://news.ycombinator.com/item?id=43814058) \| 🗓️ 2025-04-27
+
+
+<br />
+OpenBSD 7.7 于 2025 年 4 月 28 日发布，这是该系统的第 58 个版本。本次更新包含多项重要改进，包括 **arm64 平台优化**（如 M1 MacBook 的 SMC 初始化修复和 SVE 支持）、**amd64 的 AMD SEV 虚拟化增强**，以及多线程和 SMP 性能提升。此外，内核改进了 **OOM 响应速度**，并新增了对 **DRM 6.12.21** 和最新显卡硬件的支持。用户工具方面，优化了 `sysctl`、`security` 和 `lldb` 等功能，并修复了大量硬件驱动问题。
+
+---
+
+## <a name="14"></a>14. TmuxAI：AI驱动的非侵入式终端助手 
+<small>🔗 [tmuxai.dev](https://tmuxai.dev/): TmuxAI: AI-Powered, Non-Intrusive Terminal Assistant</small>
+
+
+| 🔥🔥: 107 \| 💬: [29](https://news.ycombinator.com/item?id=43812646) \| 🗓️ 2025-04-27
+
+
+<br />
+TmuxAI是一款**非侵入式终端助手**，可在tmux窗口中实时协作。它像同事一样观察屏幕内容，**基于上下文提供智能帮助**，例如查找大文件或清理空间。支持**零配置安装**，兼容各种终端环境（包括SSH和数据库CLI），具备**主动监控模式**和开源特性，能精准识别命令并建议优化。演示中展示了自动启动MySQL容器并连接数据库的全流程。
+
+---
+
+## <a name="15"></a>15. 即将到来的知识工作供应链危机 
 <small>🔗 [worksonmymachine.substack.com](https://worksonmymachine.substack.com/p/the-coming-knowledge-work-supply): The coming knowledge-work supply-chain crisis</small>
 
 
-| 🔥: 82 \| 💬: [50](https://news.ycombinator.com/item?id=43812459) \| 🗓️ 2025-04-27
+| 🔥: 96 \| 💬: [62](https://news.ycombinator.com/item?id=43812459) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -217,11 +205,23 @@ AI正以指数级速度提升知识工作的**生产环节**，但人类的**决
 
 ---
 
+## <a name="16"></a>16. NASA如何用图技术与大语言模型构建人才知识图谱 
+<small>🔗 [memgraph.com](https://memgraph.com/blog/nasa-memgraph-people-knowledge-graph): How NASA Is Using Graph Technology and LLMs to Build a People Knowledge Graph</small>
+
+
+| 🔥: 91 \| 💬: [30](https://news.ycombinator.com/item?id=43813036) \| 🗓️ 2025-04-27
+
+
+<br />
+NASA通过**图数据库**和**大语言模型（LLM）**构建了“人才图谱”，用于分析员工技能、项目关联及跨学科专家发现。该系统整合了AWS云架构、Memgraph图数据库及Ollama本地LLM，支持实时查询与自然语言交互。关键技术包括**GraphRAG**实现语义搜索、动态关系建模（如项目相似性分析），并计划扩展至50万节点规模。当前挑战包括数据消歧与自动化流程优化，但已显著提升人才管理效率。
+
+---
+
 ## <a name="17"></a>17. 沃尔玛计划几年内在全美铺设电动汽车充电网络 
 <small>🔗 [evchargingstations.com](https://evchargingstations.com/chargingnews/exclusive-walmart-ev-charging-network/): Walmart plans EV Charging network which will blanket the US within a few years</small>
 
 
-| 🔥: 81 \| 💬: [73](https://news.ycombinator.com/item?id=43814380) \| 🗓️ 2025-04-27
+| 🔥: 85 \| 💬: [79](https://news.ycombinator.com/item?id=43814380) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -229,47 +229,11 @@ AI正以指数级速度提升知识工作的**生产环节**，但人类的**决
 
 ---
 
-## <a name="18"></a>18. 是时候辞掉无意义的工作，成为道德野心家并改变世界了 
-<small>🔗 [theguardian.com](https://www.theguardian.com/lifeandstyle/2025/apr/19/no-youre-not-fine-just-the-way-you-are-time-to-quit-your-pointless-job-become-morally-ambitious-and-change-the-world): Time to quit your pointless job, become morally ambitious and change the world</small>
-
-
-| 🔥: 80 \| 💬: [83](https://news.ycombinator.com/item?id=43812318) \| 🗓️ 2025-04-27
-
-
-<br />
-文章批判了现代职场中**浪费才华**的普遍现象，提出**道德野心**的概念——将职业追求与解决全球重大问题（如气候危机、不平等）相结合。作者将工作分为四类：无价值岗位（如"狗屁工作"）、高薪但损害社会的职业（如投行）、有理想但缺乏行动力的"小确幸"群体，以及理想的**道德野心家**——像废奴先驱克拉克森那样，用卓越能力推动实质变革。核心观点是：人生仅有一次，8万工作小时的应用是最重要的道德选择，与其追求虚名或躺平，不如投身真正改变世界的事业。
-
----
-
-## <a name="19"></a>19. YC创始人指出：程序员不必为警察国家效力 
-<small>🔗 [bird.makeup](https://bird.makeup/users/paulg/statuses/1913338841068404903): YC founder points out that jobs exist outside of working for police state</small>
-
-
-| 🔥: 80 \| 💬: [46](https://news.ycombinator.com/item?id=43813389) \| 🗓️ 2025-04-27
-
-
-<br />
-当前科技行业充满机遇，**顶尖程序员**拥有大量职业选择，无需加入为**警察国家**构建基础设施的公司。一位YC创始人强调，从业者应关注更具社会价值的领域，而非助长监控技术发展。原文链接提供了相关推文讨论。
-
----
-
-## <a name="20"></a>20. 超快DOM截图工具snapDOM：精准捕获网页元素为图片 
-<small>🔗 [github.com](https://github.com/zumerlab/snapdom): Show HN: I created snapDOM to capture DOM nodes as images with exceptional speed</small>
-
-
-| 🔥: 73 \| 💬: [31](https://news.ycombinator.com/item?id=43813330) \| 🗓️ 2025-04-27
-
-
-<br />
-snapDOM是一款**高性能DOM截图工具**，可将任意HTML元素转换为SVG/PNG等格式的图片，**保留完整样式**（包括阴影DOM、伪元素、字体等）。它基于纯Web API开发，**无第三方依赖**，支持多格式导出（SVG/PNG/JPG/WebP/canvas）。实测显示，其速度远超html2canvas等库，尤其擅长处理大尺寸页面截图。特别支持**Web组件阴影DOM捕获**和**动态字体加载等待**，但需注意跨域图片限制。MIT开源，支持CDN、模块化等多种接入方式。
-
----
-
-## <a name="21"></a>21. AI编程助手价值有限，因为程序员的核心工作是思考 
+## <a name="18"></a>18. AI编程助手价值有限，因为程序员的核心工作是思考 
 <small>🔗 [doliver.org](https://www.doliver.org/articles/programming-is-a-thinkers-game): AI Coding assistants provide little value because a programmer's job is to think</small>
 
 
-| 🔥: 71 \| 💬: [101](https://news.ycombinator.com/item?id=43815033) \| 🗓️ 2025-04-27
+| 🔥: 84 \| 💬: [135](https://news.ycombinator.com/item?id=43815033) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -277,11 +241,47 @@ snapDOM是一款**高性能DOM截图工具**，可将任意HTML元素转换为SV
 
 ---
 
+## <a name="19"></a>19. YC创始人指出：程序员不必为警察国家效力 
+<small>🔗 [bird.makeup](https://bird.makeup/users/paulg/statuses/1913338841068404903): YC founder points out that jobs exist outside of working for police state</small>
+
+
+| 🔥: 82 \| 💬: [46](https://news.ycombinator.com/item?id=43813389) \| 🗓️ 2025-04-27
+
+
+<br />
+当前科技行业充满机遇，**顶尖程序员**拥有大量职业选择，无需加入为**警察国家**构建基础设施的公司。一位YC创始人强调，从业者应关注更具社会价值的领域，而非助长监控技术发展。原文链接提供了相关推文讨论。
+
+---
+
+## <a name="20"></a>20. 是时候辞掉无意义的工作，成为道德野心家并改变世界了 
+<small>🔗 [theguardian.com](https://www.theguardian.com/lifeandstyle/2025/apr/19/no-youre-not-fine-just-the-way-you-are-time-to-quit-your-pointless-job-become-morally-ambitious-and-change-the-world): Time to quit your pointless job, become morally ambitious and change the world</small>
+
+
+| 🔥: 81 \| 💬: [84](https://news.ycombinator.com/item?id=43812318) \| 🗓️ 2025-04-27
+
+
+<br />
+文章批判了现代职场中**浪费才华**的普遍现象，提出**道德野心**的概念——将职业追求与解决全球重大问题（如气候危机、不平等）相结合。作者将工作分为四类：无价值岗位（如"狗屁工作"）、高薪但损害社会的职业（如投行）、有理想但缺乏行动力的"小确幸"群体，以及理想的**道德野心家**——像废奴先驱克拉克森那样，用卓越能力推动实质变革。核心观点是：人生仅有一次，8万工作小时的应用是最重要的道德选择，与其追求虚名或躺平，不如投身真正改变世界的事业。
+
+---
+
+## <a name="21"></a>21. 超快DOM截图工具snapDOM：精准捕获网页元素为图片 
+<small>🔗 [github.com](https://github.com/zumerlab/snapdom): Show HN: I created snapDOM to capture DOM nodes as images with exceptional speed</small>
+
+
+| 🔥: 80 \| 💬: [31](https://news.ycombinator.com/item?id=43813330) \| 🗓️ 2025-04-27
+
+
+<br />
+snapDOM是一款**高性能DOM截图工具**，可将任意HTML元素转换为SVG/PNG等格式的图片，**保留完整样式**（包括阴影DOM、伪元素、字体等）。它基于纯Web API开发，**无第三方依赖**，支持多格式导出（SVG/PNG/JPG/WebP/canvas）。实测显示，其速度远超html2canvas等库，尤其擅长处理大尺寸页面截图。特别支持**Web组件阴影DOM捕获**和**动态字体加载等待**，但需注意跨域图片限制。MIT开源，支持CDN、模块化等多种接入方式。
+
+---
+
 ## <a name="22"></a>22. 正在开发中的Common Lisp实现，支持ASDF 
 <small>🔗 [savannah.nongnu.org](https://savannah.nongnu.org/p/alisp): Show HN: A Common Lisp implementation in development, supports ASDF</small>
 
 
-| 🔥: 68 \| 💬: [37](https://news.ycombinator.com/item?id=43811432) \| 🗓️ 2025-04-27
+| 🔥: 69 \| 💬: [39](https://news.ycombinator.com/item?id=43811432) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -297,7 +297,7 @@ snapDOM是一款**高性能DOM截图工具**，可将任意HTML元素转换为SV
 <small>🔗 [jalopnik.com](https://www.jalopnik.com/1843586/elon-musk-doe-cuts-tesla/): Musk Shutting Down Government Loan Office That Gave Him the Money to Grow Tesla</small>
 
 
-| 🔥: 64 \| 💬: [8](https://news.ycombinator.com/item?id=43811824) \| 🗓️ 2025-04-27
+| 🔥: 66 \| 💬: [8](https://news.ycombinator.com/item?id=43811824) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -306,10 +306,10 @@ snapDOM是一款**高性能DOM截图工具**，可将任意HTML元素转换为SV
 ---
 
 ## <a name="24"></a>24. 自闭症发病率上升的真相是什么？ 
-<small>🔗 [cremieux.xyz](https://www.cremieux.xyz/p/whats-the-deal-with-autism-rates): What's the Deal with Autism Rates?</small>
+<small>🔗 [cremieux.xyz](https://www.cremieux.xyz/p/whats-the-deal-with-autism-rates): What's the deal with autism rates?</small>
 
 
-| 🔥: 64 \| 💬: [41](https://news.ycombinator.com/item?id=43813441) \| 🗓️ 2025-04-27
+| 🔥: 64 \| 💬: [42](https://news.ycombinator.com/item?id=43813441) \| 🗓️ 2025-04-27
 
 
 <br />
@@ -321,7 +321,7 @@ snapDOM是一款**高性能DOM截图工具**，可将任意HTML元素转换为SV
 <small>🔗 [unitedcompute.ai](https://www.unitedcompute.ai/gpu-price-tracker): GPU Price Tracker</small>
 
 
-| 🔥: 50 \| 💬: [39](https://news.ycombinator.com/item?id=43811105) \| 🗓️ 2025-04-27
+| 🔥: 51 \| 💬: [39](https://news.ycombinator.com/item?id=43811105) \| 🗓️ 2025-04-27
 
 
 <br />
