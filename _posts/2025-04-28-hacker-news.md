@@ -11,8 +11,8 @@ tags:
 1. 西班牙葡萄牙大范围停电致马德里网球公开赛取消；
 1. 我造了一款能直接运行Python的硬件处理器；
 1. 从Rust迁移的决策与收获；
-1. 西班牙和葡萄牙多地突发大规模停电；
 1. Qwen3重磅发布：更智能的混合思维大模型；
+1. 西班牙和葡萄牙多地突发大规模停电；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [bbc.com](https://www.bbc.com/news/live/c9wpq8xrvd9t): Widespread power outage in Spain and Portugal</small>
 
 
-| 🔥🔥: 1163 \| 💬: [875](https://news.ycombinator.com/item?id=43819791) \| 🗓️ 2025-04-28
+| 🔥🔥: 1201 \| 💬: [889](https://news.ycombinator.com/item?id=43819791) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [runpyxl.com](https://www.runpyxl.com/gpio): Show HN: I built a hardware processor that runs Python</small>
 
 
-| 🔥🔥: 802 \| 💬: [219](https://news.ycombinator.com/item?id=43820228) \| 🗓️ 2025-04-28
+| 🔥🔥: 821 \| 💬: [223](https://news.ycombinator.com/item?id=43820228) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [deadmoney.gg](https://deadmoney.gg/news/articles/migrating-away-from-rust): Migrating away from Rust</small>
 
 
-| 🔥🔥: 363 \| 💬: [306](https://news.ycombinator.com/item?id=43824640) \| 🗓️ 2025-04-28
+| 🔥🔥: 387 \| 💬: [340](https://news.ycombinator.com/item?id=43824640) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -59,7 +59,19 @@ tags:
 
 ---
 
-## <a name="4"></a>4. 西班牙和葡萄牙多地突发大规模停电 
+## <a name="4"></a>4. Qwen3重磅发布：更智能的混合思维大模型 
+<small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwen3/): Qwen3: Think deeper, act faster</small>
+
+
+| 🔥🔥: 342 \| 💬: [117](https://news.ycombinator.com/item?id=43825900) \| 🗓️ 2025-04-28
+
+
+<br />
+阿里云推出新一代大语言模型**Qwen3**，包含2350亿参数的MoE模型**Qwen3-235B-A22B**和6款密集模型，性能超越前代并支持**混合思维模式**（深度推理/快速响应）。模型预训练数据达36万亿token，覆盖119种语言，特别优化了编程与数学能力。开源版本支持Hugging Face等平台，并提供**动态思维切换**功能，用户可通过`/think`指令灵活控制响应方式。
+
+---
+
+## <a name="5"></a>5. 西班牙和葡萄牙多地突发大规模停电 
 <small>🔗 [bbc.com](https://www.bbc.com/news/live/c9wpq8xrvd9t): Reports of widespread power cuts in Spain and Portugal</small>
 
 
@@ -71,23 +83,11 @@ tags:
 
 ---
 
-## <a name="5"></a>5. Qwen3重磅发布：更智能的混合思维大模型 
-<small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwen3/): Qwen3: Think deeper, act faster</small>
-
-
-| 🔥🔥: 283 \| 💬: [102](https://news.ycombinator.com/item?id=43825900) \| 🗓️ 2025-04-28
-
-
-<br />
-阿里云推出新一代大语言模型**Qwen3**，包含2350亿参数的MoE模型**Qwen3-235B-A22B**和6款密集模型，性能超越前代并支持**混合思维模式**（深度推理/快速响应）。模型预训练数据达36万亿token，覆盖119种语言，特别优化了编程与数学能力。开源版本支持Hugging Face等平台，并提供**动态思维切换**功能，用户可通过`/think`指令灵活控制响应方式。
-
----
-
 ## <a name="6"></a>6. 地狱般的副业：我在初创公司的血泪史 
 <small>🔗 [blog.jacobstechtavern.com](https://blog.jacobstechtavern.com/p/the-side-hustle-from-hell): The side hustle from hell</small>
 
 
-| 🔥🔥: 262 \| 💬: [111](https://news.ycombinator.com/item?id=43823620) \| 🗓️ 2025-04-28
+| 🔥🔥: 271 \| 💬: [113](https://news.ycombinator.com/item?id=43823620) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [mrwint.github.io](https://mrwint.github.io/winter/writeup/writeup.html): Uncovering the mechanics of The Games: Winter Challenge</small>
 
 
-| 🔥🔥: 251 \| 💬: [102](https://news.ycombinator.com/item?id=43820076) \| 🗓️ 2025-04-28
+| 🔥🔥: 252 \| 💬: [102](https://news.ycombinator.com/item?id=43820076) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [github.com](https://github.com/skyzh/tiny-llm): Tiny-LLM – a course of serving LLM on Apple Silicon for systems engineers</small>
 
 
-| 🔥🔥: 211 \| 💬: [24](https://news.ycombinator.com/item?id=43820022) \| 🗓️ 2025-04-28
+| 🔥🔥: 220 \| 💬: [24](https://news.ycombinator.com/item?id=43820022) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -123,7 +123,7 @@ tags:
 <small>🔗 [github.com](https://github.com/xdadda/mini-photo-editor): Show HN: A pure WebGL image editor with filters, crop and perspective correction</small>
 
 
-| 🔥🔥: 138 \| 💬: [37](https://news.ycombinator.com/item?id=43823044) \| 🗓️ 2025-04-28
+| 🔥🔥: 148 \| 💬: [40](https://news.ycombinator.com/item?id=43823044) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -135,7 +135,7 @@ tags:
 <small>🔗 [asteriskmag.com](https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated): Reports of the death of California High-Speed Rail have been greatly exaggerated</small>
 
 
-| 🔥🔥: 118 \| 💬: [222](https://news.ycombinator.com/item?id=43824544) \| 🗓️ 2025-04-28
+| 🔥🔥: 125 \| 💬: [245](https://news.ycombinator.com/item?id=43824544) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -143,23 +143,11 @@ tags:
 
 ---
 
-## <a name="11"></a>11. 现实检验：OpenAI的荒谬营收预言 
-<small>🔗 [wheresyoured.at](https://www.wheresyoured.at/reality-check/): Reality Check</small>
-
-
-| 🔥🔥: 114 \| 💬: [85](https://news.ycombinator.com/item?id=43823492) \| 🗓️ 2025-04-28
-
-
-<br />
-作者激烈批评科技媒体对**OpenAI**不切实际的乐观报道，尤其针对其宣称2029年营收将达**1250亿美元**的预测。文中指出，OpenAI的**AI代理产品**尚未成熟，却声称今年能创收30亿美元，主要依赖软银单一客户。此外，**推理成本**逐年飙升（2025年预计60亿美元），而订阅收入仅80亿，商业模式堪忧。作者斥责媒体盲目追捧，忽视基本经济逻辑，并嘲讽行业对"早期阶段"的辩解，强调当前AI技术远未达到盈利规模。
-
----
-
-## <a name="12"></a>12. 开源AI智能体工作流构建工具：Sim Studio 
+## <a name="11"></a>11. 开源AI智能体工作流构建工具：Sim Studio 
 <small>🔗 [github.com](https://github.com/simstudioai/sim): Show HN: Sim Studio – Open-Source Agent Workflow GUI</small>
 
 
-| 🔥🔥: 112 \| 💬: [36](https://news.ycombinator.com/item?id=43823096) \| 🗓️ 2025-04-28
+| 🔥🔥: 116 \| 💬: [38](https://news.ycombinator.com/item?id=43823096) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -167,11 +155,23 @@ Sim Studio是一款**开源**的AI智能体工作流构建平台，基于**Next.
 
 ---
 
+## <a name="12"></a>12. 现实检验：OpenAI的荒谬营收预言 
+<small>🔗 [wheresyoured.at](https://www.wheresyoured.at/reality-check/): Reality Check</small>
+
+
+| 🔥🔥: 114 \| 💬: [89](https://news.ycombinator.com/item?id=43823492) \| 🗓️ 2025-04-28
+
+
+<br />
+作者激烈批评科技媒体对**OpenAI**不切实际的乐观报道，尤其针对其宣称2029年营收将达**1250亿美元**的预测。文中指出，OpenAI的**AI代理产品**尚未成熟，却声称今年能创收30亿美元，主要依赖软银单一客户。此外，**推理成本**逐年飙升（2025年预计60亿美元），而订阅收入仅80亿，商业模式堪忧。作者斥责媒体盲目追捧，忽视基本经济逻辑，并嘲讽行业对"早期阶段"的辩解，强调当前AI技术远未达到盈利规模。
+
+---
+
 ## <a name="13"></a>13. 《地海传奇》全集：勒古恩的奇幻经典 
 <small>🔗 [lars.ingebrigtsen.no](https://lars.ingebrigtsen.no/2025/04/28/book-club-2025-the-books-of-earthsea-by-ursula-k-le-guin/): The Books of Earthsea by Ursula K. Le Guin</small>
 
 
-| 🔥🔥: 102 \| 💬: [45](https://news.ycombinator.com/item?id=43823462) \| 🗓️ 2025-04-28
+| 🔥🔥: 106 \| 💬: [45](https://news.ycombinator.com/item?id=43823462) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -183,7 +183,7 @@ Sim Studio是一款**开源**的AI智能体工作流构建平台，基于**Next.
 <small>🔗 [eieio.games](https://eieio.games/blog/one-million-chessboards/): One Million Chessboards</small>
 
 
-| 🔥: 78 \| 💬: [18](https://news.ycombinator.com/item?id=43825336) \| 🗓️ 2025-04-28
+| 🔥🔥: 102 \| 💬: [22](https://news.ycombinator.com/item?id=43825336) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -195,7 +195,7 @@ Sim Studio是一款**开源**的AI智能体工作流构建平台，基于**Next.
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/28/give-it-away-for-free/): Giving Software Away for Free</small>
 
 
-| 🔥: 73 \| 💬: [46](https://news.ycombinator.com/item?id=43824153) \| 🗓️ 2025-04-28
+| 🔥: 76 \| 💬: [47](https://news.ycombinator.com/item?id=43824153) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -207,7 +207,7 @@ Sim Studio是一款**开源**的AI智能体工作流构建平台，基于**Next.
 <small>🔗 [levs.fyi](https://www.levs.fyi/blog/we-found-insurance-fraud-in-our-crash-data/): We Found Insurance Fraud in Our Crash Data</small>
 
 
-| 🔥: 70 \| 💬: [66](https://news.ycombinator.com/item?id=43821578) \| 🗓️ 2025-04-28
+| 🔥: 70 \| 💬: [68](https://news.ycombinator.com/item?id=43821578) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -219,7 +219,7 @@ Matrisk AI团队在构建车辆碰撞地理风险评分时，意外通过**车�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2309.16588): Vision Transformers Need Registers</small>
 
 
-| 🔥: 69 \| 💬: [8](https://news.ycombinator.com/item?id=43823485) \| 🗓️ 2025-04-28
+| 🔥: 70 \| 💬: [8](https://news.ycombinator.com/item?id=43823485) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -227,23 +227,11 @@ Matrisk AI团队在构建车辆碰撞地理风险评分时，意外通过**车�
 
 ---
 
-## <a name="18"></a>18. GitHub下架破解OnlyFans DRM的Widevine项目 
-<small>🔗 [torrentfreak.com](https://torrentfreak.com/drm-free-onlyfans-downloads-see-widevine-project-nuked-from-github-250428/): DRM-Free OnlyFans Downloads See Widevine Project Nuked from GitHub</small>
-
-
-| 🔥: 66 \| 💬: [17](https://news.ycombinator.com/item?id=43825716) \| 🗓️ 2025-04-28
-
-
-<br />
-数字版权管理（**DRM**）系统（如谷歌的**Widevine**）被广泛用于保护流媒体内容，但屡遭破解。2025年4月，OnlyFans母公司Fenix International以违反DMCA为由，要求GitHub删除**CDRM-Project**仓库，称其包含破解Widevine的代码，可将受保护视频转为无DRM的MP4。尽管GitHub给予开发者申诉机会，最终整个项目及分叉仓库仍被移除。Fenix罕见地提供了项目所有者信息，凸显其打击力度。目前该项目已迁移至独立网站，但前景未卜。DRM的过度限制常损害正版用户体验，反而可能助长破解需求。
-
----
-
-## <a name="19"></a>19. AI营销泛滥时代，出站销售将走向终结？ 
+## <a name="18"></a>18. AI营销泛滥时代，出站销售将走向终结？ 
 <small>🔗 [rnikhil.com](https://rnikhil.com/2025/04/25/sales-outbound-ai-dead): Is outbound going to die?</small>
 
 
-| 🔥: 64 \| 💬: [70](https://news.ycombinator.com/item?id=43823851) \| 🗓️ 2025-04-28
+| 🔥: 68 \| 💬: [73](https://news.ycombinator.com/item?id=43823851) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -251,11 +239,35 @@ AI驱动的销售工具正以**超个性化内容**和**海量触达**重塑营�
 
 ---
 
-## <a name="20"></a>20. 让AI编程助手自主调试的Web评估工具 
+## <a name="19"></a>19. GitHub下架破解OnlyFans DRM的Widevine项目 
+<small>🔗 [torrentfreak.com](https://torrentfreak.com/drm-free-onlyfans-downloads-see-widevine-project-nuked-from-github-250428/): DRM-Free OnlyFans Downloads See Widevine Project Nuked from GitHub</small>
+
+
+| 🔥: 68 \| 💬: [19](https://news.ycombinator.com/item?id=43825716) \| 🗓️ 2025-04-28
+
+
+<br />
+数字版权管理（**DRM**）系统（如谷歌的**Widevine**）被广泛用于保护流媒体内容，但屡遭破解。2025年4月，OnlyFans母公司Fenix International以违反DMCA为由，要求GitHub删除**CDRM-Project**仓库，称其包含破解Widevine的代码，可将受保护视频转为无DRM的MP4。尽管GitHub给予开发者申诉机会，最终整个项目及分叉仓库仍被移除。Fenix罕见地提供了项目所有者信息，凸显其打击力度。目前该项目已迁移至独立网站，但前景未卜。DRM的过度限制常损害正版用户体验，反而可能助长破解需求。
+
+---
+
+## <a name="20"></a>20. 12位彩虹调色板的设计与应用 
+<small>🔗 [iamkate.com](https://iamkate.com/data/12-bit-rainbow/): The 12-bit rainbow palette</small>
+
+
+| 🔥: 65 \| 💬: [20](https://news.ycombinator.com/item?id=43827108) \| 🗓️ 2025-04-28
+
+
+<br />
+本文介绍了专为National Grid: Live设计的**12位彩虹调色板**，包含12种颜色，兼顾**人眼对亮度、色度和色调的感知**。采用12位色深，每个颜色仅需4字符的十六进制代码（如`#817`）。传统RGB调色板的亮度差异明显，而**LCH色彩空间**通过调整亮度、色度和色调实现更均匀的视觉表现。通过动态调整亮度（如黄色最亮），并控制色度与色调变化，最终生成色彩平滑过渡的调色板。
+
+---
+
+## <a name="21"></a>21. 让AI编程助手自主调试的Web评估工具 
 <small>🔗 [github.com](https://github.com/Operative-Sh/web-eval-agent): Show HN: Web-eval-agent – Let the coding agent debug itself</small>
 
 
-| 🔥: 58 \| 💬: [9](https://news.ycombinator.com/item?id=43822659) \| 🗓️ 2025-04-28
+| 🔥: 59 \| 💬: [9](https://news.ycombinator.com/item?id=43822659) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -263,7 +275,7 @@ AI驱动的销售工具正以**超个性化内容**和**海量触达**重塑营�
 
 ---
 
-## <a name="21"></a>21. 葡萄牙和西班牙全国停电导致互联网中断 
+## <a name="22"></a>22. 葡萄牙和西班牙全国停电导致互联网中断 
 <small>🔗 [twitter.com](https://twitter.com/CloudflareRadar/status/1916811587408536055): Nationwide Power Outages Also Disrupt Internet Traffic in Portugal and Spain</small>
 
 
@@ -275,11 +287,11 @@ AI驱动的销售工具正以**超个性化内容**和**海量触达**重塑营�
 
 ---
 
-## <a name="22"></a>22. 首款iOS心率区间分析工具：Heart Rate Zones Plus 
+## <a name="23"></a>23. 首款iOS心率区间分析工具：Heart Rate Zones Plus 
 <small>🔗 [apps.apple.com](https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232): Show HN: Heart Rate Zones Plus – The first iOS app I ever developed</small>
 
 
-| 🔥: 50 \| 💬: [29](https://news.ycombinator.com/item?id=43824583) \| 🗓️ 2025-04-28
+| 🔥: 52 \| 💬: [32](https://news.ycombinator.com/item?id=43824583) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -287,23 +299,11 @@ AI驱动的销售工具正以**超个性化内容**和**海量触达**重塑营�
 
 ---
 
-## <a name="23"></a>23. 问题不在激励机制（2018） 
-<small>🔗 [talyarkoni.org](https://talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/): It's Not the Incentives (2018)</small>
-
-
-| 🔥: 43 \| 💬: [48](https://news.ycombinator.com/item?id=43824534) \| 🗓️ 2025-04-28
-
-
-<br />
-本文批判了科学界日益普遍的借口——将**不良行为**归咎于**“激励机制”**。作者指出，许多科学家以“体制逼迫”为由，合理化数据操纵、忽视学术伦理等行为，却对同类借口在极端案例（如数据造假）中的使用嗤之以鼻。这种双重标准暴露了**虚伪性**：若激励机制不能为严重学术不端开脱，也不该为轻微违规辩护。作者强调，科学家应拒绝“体制无能”的消极叙事，主动承担伦理责任，而非将个人利益凌驾于学术诚信之上。
-
----
-
 ## <a name="24"></a>24. OpenAI推出购物功能，直接挑战谷歌购物搜索 
 <small>🔗 [wired.com](https://www.wired.com/story/openai-adds-shopping-to-chatgpt/): OpenAI Adds Shopping to ChatGPT in a Challenge to Google</small>
 
 
-| 🔥: 42 \| 💬: [13](https://news.ycombinator.com/item?id=43824952) \| 🗓️ 2025-04-28
+| 🔥: 45 \| 💬: [14](https://news.ycombinator.com/item?id=43824952) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -311,14 +311,14 @@ OpenAI宣布ChatGPT将新增**购物按钮**，用户可通过AI搜索直接购�
 
 ---
 
-## <a name="25"></a>25. 开源平台ACI.dev：为AI代理提供600+工具的统一调用接口 
-<small>🔗 [github.com](https://github.com/aipotheosis-labs/aci): Show HN: Open-Source Infra for a Single MCP Server to Search and Use 600 Tools</small>
+## <a name="25"></a>25. 问题不在激励机制（2018） 
+<small>🔗 [talyarkoni.org](https://talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/): It's Not the Incentives (2018)</small>
 
 
-| 🔥: 41 \| 💬: [0](https://news.ycombinator.com/item?id=43821038) \| 🗓️ 2025-04-28
+| 🔥: 44 \| 💬: [48](https://news.ycombinator.com/item?id=43824534) \| 🗓️ 2025-04-28
 
 
 <br />
-ACI.dev是一个**开源基础设施平台**，专为AI代理设计，提供**600多种预置工具集成**（如Google Calendar、Slack等），支持多租户认证、细粒度权限管理和动态工具发现。开发者可通过**统一MCP服务器**或轻量级Python SDK直接调用功能，无需重复开发OAuth流程和API客户端。其核心优势包括自然语言权限控制、框架无关性及Apache 2.0开源协议，适用于个人助手、销售自动化等场景。平台提供完整开发文档和社区支持，助力快速构建生产级AI应用。
+本文批判了科学界日益普遍的借口——将**不良行为**归咎于**“激励机制”**。作者指出，许多科学家以“体制逼迫”为由，合理化数据操纵、忽视学术伦理等行为，却对同类借口在极端案例（如数据造假）中的使用嗤之以鼻。这种双重标准暴露了**虚伪性**：若激励机制不能为严重学术不端开脱，也不该为轻微违规辩护。作者强调，科学家应拒绝“体制无能”的消极叙事，主动承担伦理责任，而非将个人利益凌驾于学术诚信之上。
 
 ---
