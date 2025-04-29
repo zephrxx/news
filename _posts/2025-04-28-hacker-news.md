@@ -27,7 +27,7 @@ tags:
 <small>🔗 [bbc.com](https://www.bbc.com/news/live/c9wpq8xrvd9t): Widespread power outage in Spain and Portugal</small>
 
 
-| 🔥🔥: 1279 \| 💬: [920](https://news.ycombinator.com/item?id=43819791) \| 🗓️ 2025-04-28
+| 🔥🔥: 1310 \| 💬: [935](https://news.ycombinator.com/item?id=43819791) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [runpyxl.com](https://www.runpyxl.com/gpio): Show HN: I built a hardware processor that runs Python</small>
 
 
-| 🔥🔥: 860 \| 💬: [231](https://news.ycombinator.com/item?id=43820228) \| 🗓️ 2025-04-28
+| 🔥🔥: 876 \| 💬: [231](https://news.ycombinator.com/item?id=43820228) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwen3/): Qwen3: Think deeper, act faster</small>
 
 
-| 🔥🔥: 462 \| 💬: [184](https://news.ycombinator.com/item?id=43825900) \| 🗓️ 2025-04-28
+| 🔥🔥: 498 \| 💬: [196](https://news.ycombinator.com/item?id=43825900) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [deadmoney.gg](https://deadmoney.gg/news/articles/migrating-away-from-rust): Migrating away from Rust</small>
 
 
-| 🔥🔥: 450 \| 💬: [400](https://news.ycombinator.com/item?id=43824640) \| 🗓️ 2025-04-28
+| 🔥🔥: 464 \| 💬: [412](https://news.ycombinator.com/item?id=43824640) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [blog.jacobstechtavern.com](https://blog.jacobstechtavern.com/p/the-side-hustle-from-hell): The side hustle from hell</small>
 
 
-| 🔥🔥: 302 \| 💬: [123](https://news.ycombinator.com/item?id=43823620) \| 🗓️ 2025-04-28
+| 🔥🔥: 308 \| 💬: [123](https://news.ycombinator.com/item?id=43823620) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [mrwint.github.io](https://mrwint.github.io/winter/writeup/writeup.html): Uncovering the mechanics of The Games: Winter Challenge</small>
 
 
-| 🔥🔥: 252 \| 💬: [103](https://news.ycombinator.com/item?id=43820076) \| 🗓️ 2025-04-28
+| 🔥🔥: 253 \| 💬: [103](https://news.ycombinator.com/item?id=43820076) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [github.com](https://github.com/skyzh/tiny-llm): Tiny-LLM – a course of serving LLM on Apple Silicon for systems engineers</small>
 
 
-| 🔥🔥: 236 \| 💬: [27](https://news.ycombinator.com/item?id=43820022) \| 🗓️ 2025-04-28
+| 🔥🔥: 244 \| 💬: [27](https://news.ycombinator.com/item?id=43820022) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -119,35 +119,11 @@ tags:
 
 ---
 
-## <a name="9"></a>9. 纯WebGL图像编辑器：在线滤镜、裁剪与透视校正工具 
-<small>🔗 [github.com](https://github.com/xdadda/mini-photo-editor): Show HN: A pure WebGL image editor with filters, crop and perspective correction</small>
-
-
-| 🔥🔥: 161 \| 💬: [49](https://news.ycombinator.com/item?id=43823044) \| 🗓️ 2025-04-28
-
-
-<br />
-这是一款基于**WebGL2技术**的在线图片编辑器，支持**滤镜特效**、**裁剪**和**透视校正**功能。项目使用MIT协议开源，核心依赖`mini-js`和`mini-gl`库。目前获得21颗星、2个分叉，开发者可通过提供的链接直接体验。编辑器无需安装，适合快速处理图片需求。
-
----
-
-## <a name="10"></a>10. 12位彩虹调色板的设计与应用 
-<small>🔗 [iamkate.com](https://iamkate.com/data/12-bit-rainbow/): The 12-bit rainbow palette</small>
-
-
-| 🔥🔥: 161 \| 💬: [45](https://news.ycombinator.com/item?id=43827108) \| 🗓️ 2025-04-28
-
-
-<br />
-本文介绍了专为National Grid: Live设计的**12位彩虹调色板**，包含12种颜色，兼顾**人眼对亮度、色度和色调的感知**。采用12位色深，每个颜色仅需4字符的十六进制代码（如`#817`）。传统RGB调色板的亮度差异明显，而**LCH色彩空间**通过调整亮度、色度和色调实现更均匀的视觉表现。通过动态调整亮度（如黄色最亮），并控制色度与色调变化，最终生成色彩平滑过渡的调色板。
-
----
-
-## <a name="11"></a>11. 百万棋盘：全球实时共弈的疯狂实验 
+## <a name="9"></a>9. 百万棋盘：全球实时共弈的疯狂实验 
 <small>🔗 [onemillionchessboards.com](https://onemillionchessboards.com/#199,276): One Million Chessboards</small>
 
 
-| 🔥🔥: 160 \| 💬: [39](https://news.ycombinator.com/item?id=43825336) \| 🗓️ 2025-04-28
+| 🔥🔥: 173 \| 💬: [40](https://news.ycombinator.com/item?id=43825336) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -155,11 +131,35 @@ tags:
 
 ---
 
+## <a name="10"></a>10. 12位彩虹调色板的设计与应用 
+<small>🔗 [iamkate.com](https://iamkate.com/data/12-bit-rainbow/): The 12-bit rainbow palette</small>
+
+
+| 🔥🔥: 167 \| 💬: [49](https://news.ycombinator.com/item?id=43827108) \| 🗓️ 2025-04-28
+
+
+<br />
+本文介绍了专为National Grid: Live设计的**12位彩虹调色板**，包含12种颜色，兼顾**人眼对亮度、色度和色调的感知**。采用12位色深，每个颜色仅需4字符的十六进制代码（如`#817`）。传统RGB调色板的亮度差异明显，而**LCH色彩空间**通过调整亮度、色度和色调实现更均匀的视觉表现。通过动态调整亮度（如黄色最亮），并控制色度与色调变化，最终生成色彩平滑过渡的调色板。
+
+---
+
+## <a name="11"></a>11. 纯WebGL图像编辑器：在线滤镜、裁剪与透视校正工具 
+<small>🔗 [github.com](https://github.com/xdadda/mini-photo-editor): Show HN: A pure WebGL image editor with filters, crop and perspective correction</small>
+
+
+| 🔥🔥: 164 \| 💬: [50](https://news.ycombinator.com/item?id=43823044) \| 🗓️ 2025-04-28
+
+
+<br />
+这是一款基于**WebGL2技术**的在线图片编辑器，支持**滤镜特效**、**裁剪**和**透视校正**功能。项目使用MIT协议开源，核心依赖`mini-js`和`mini-gl`库。目前获得21颗星、2个分叉，开发者可通过提供的链接直接体验。编辑器无需安装，适合快速处理图片需求。
+
+---
+
 ## <a name="12"></a>12. 加州高铁项目远未终结，批评者忽视了真正挑战 
 <small>🔗 [asteriskmag.com](https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated): Reports of the death of California High-Speed Rail have been greatly exaggerated</small>
 
 
-| 🔥🔥: 152 \| 💬: [294](https://news.ycombinator.com/item?id=43824544) \| 🗓️ 2025-04-28
+| 🔥🔥: 156 \| 💬: [302](https://news.ycombinator.com/item?id=43824544) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -171,7 +171,7 @@ tags:
 <small>🔗 [github.com](https://github.com/simstudioai/sim): Show HN: Sim Studio – Open-Source Agent Workflow GUI</small>
 
 
-| 🔥🔥: 125 \| 💬: [47](https://news.ycombinator.com/item?id=43823096) \| 🗓️ 2025-04-28
+| 🔥🔥: 130 \| 💬: [47](https://news.ycombinator.com/item?id=43823096) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -195,7 +195,7 @@ Sim Studio是一款**开源**的AI智能体工作流构建平台，基于**Next.
 <small>🔗 [lars.ingebrigtsen.no](https://lars.ingebrigtsen.no/2025/04/28/book-club-2025-the-books-of-earthsea-by-ursula-k-le-guin/): The Books of Earthsea by Ursula K. Le Guin</small>
 
 
-| 🔥🔥: 108 \| 💬: [45](https://news.ycombinator.com/item?id=43823462) \| 🗓️ 2025-04-28
+| 🔥🔥: 109 \| 💬: [45](https://news.ycombinator.com/item?id=43823462) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -203,59 +203,11 @@ Sim Studio是一款**开源**的AI智能体工作流构建平台，基于**Next.
 
 ---
 
-## <a name="16"></a>16. AI营销泛滥时代，出站销售将走向终结？ 
-<small>🔗 [rnikhil.com](https://rnikhil.com/2025/04/25/sales-outbound-ai-dead): Is outbound going to die?</small>
-
-
-| 🔥: 92 \| 💬: [88](https://news.ycombinator.com/item?id=43823851) \| 🗓️ 2025-04-28
-
-
-<br />
-AI驱动的销售工具正以**超个性化内容**和**海量触达**重塑营销，短期内效果显著。但用户将逐渐对**AI垃圾信息**产生疲劳，导致信任崩塌、转化率下降。当所有企业都使用相同工具轰炸同一批客户时，竞争将陷入红海。未来，**私域流量**和**人际关系**成为核心——通过社群运营、口碑传播和CEO个人品牌构建护城河，企业自有渠道与网络效应将取代传统出站销售。
-
----
-
-## <a name="17"></a>17. 免费发布软件的最佳实践 
-<small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/28/give-it-away-for-free/): Giving Software Away for Free</small>
-
-
-| 🔥: 80 \| 💬: [49](https://news.ycombinator.com/item?id=43824153) \| 🗓️ 2025-04-28
-
-
-<br />
-作者推荐使用**静态HTML和JavaScript**搭配免费可靠的网络托管服务（如GitHub Pages）来发布完全免费的软件，这种方式借助**WebAssembly**和Pyodide等工具能支持丰富的应用类型。关键在于选择长期稳定的托管平台（如GitHub），避免因维护成本或平台变动导致服务中断。同时强调**开源许可**虽必要，但直接提供可运行的链接对用户更实用。文章对比了Heroku等平台的兴衰，突显托管选择的重要性。
-
----
-
-## <a name="18"></a>18. GitHub下架破解OnlyFans DRM的Widevine项目 
-<small>🔗 [torrentfreak.com](https://torrentfreak.com/drm-free-onlyfans-downloads-see-widevine-project-nuked-from-github-250428/): DRM-Free OnlyFans Downloads See Widevine Project Nuked from GitHub</small>
-
-
-| 🔥: 80 \| 💬: [24](https://news.ycombinator.com/item?id=43825716) \| 🗓️ 2025-04-28
-
-
-<br />
-数字版权管理（**DRM**）系统（如谷歌的**Widevine**）被广泛用于保护流媒体内容，但屡遭破解。2025年4月，OnlyFans母公司Fenix International以违反DMCA为由，要求GitHub删除**CDRM-Project**仓库，称其包含破解Widevine的代码，可将受保护视频转为无DRM的MP4。尽管GitHub给予开发者申诉机会，最终整个项目及分叉仓库仍被移除。Fenix罕见地提供了项目所有者信息，凸显其打击力度。目前该项目已迁移至独立网站，但前景未卜。DRM的过度限制常损害正版用户体验，反而可能助长破解需求。
-
----
-
-## <a name="19"></a>19. 视觉Transformer需要寄存器 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2309.16588): Vision Transformers Need Registers</small>
-
-
-| 🔥: 76 \| 💬: [9](https://news.ycombinator.com/item?id=43823485) \| 🗓️ 2025-04-28
-
-
-<br />
-该论文发现**监督学习和自监督学习**的ViT网络在特征图中存在**高范数令牌**的伪影，这些令牌通常出现在图像低信息量的背景区域。作者提出通过向输入序列添加额外令牌（寄存器）来解决问题。该方法不仅修复了特征图异常，还在密集视觉预测任务中刷新了自监督模型的**SOTA性能**，同时提升了特征图和注意力图的下游处理效果。
-
----
-
-## <a name="20"></a>20. 为何Windows 7使用纯色背景会导致登录变慢数月？ 
+## <a name="16"></a>16. 为何Windows 7使用纯色背景会导致登录变慢数月？ 
 <small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121): Why did Windows 7 log on slower for months if you had a solid color background?</small>
 
 
-| 🔥: 75 \| 💬: [27](https://news.ycombinator.com/item?id=43827214) \| 🗓️ 2025-04-28
+| 🔥🔥: 109 \| 💬: [34](https://news.ycombinator.com/item?id=43827214) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -263,11 +215,59 @@ Windows 7和Windows Server 2008 R2中，若将桌面背景设为**纯色**，登
 
 ---
 
+## <a name="17"></a>17. AI营销泛滥时代，出站销售将走向终结？ 
+<small>🔗 [rnikhil.com](https://rnikhil.com/2025/04/25/sales-outbound-ai-dead): Is outbound going to die?</small>
+
+
+| 🔥: 97 \| 💬: [88](https://news.ycombinator.com/item?id=43823851) \| 🗓️ 2025-04-28
+
+
+<br />
+AI驱动的销售工具正以**超个性化内容**和**海量触达**重塑营销，短期内效果显著。但用户将逐渐对**AI垃圾信息**产生疲劳，导致信任崩塌、转化率下降。当所有企业都使用相同工具轰炸同一批客户时，竞争将陷入红海。未来，**私域流量**和**人际关系**成为核心——通过社群运营、口碑传播和CEO个人品牌构建护城河，企业自有渠道与网络效应将取代传统出站销售。
+
+---
+
+## <a name="18"></a>18. 免费发布软件的最佳实践 
+<small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/28/give-it-away-for-free/): Giving Software Away for Free</small>
+
+
+| 🔥: 82 \| 💬: [49](https://news.ycombinator.com/item?id=43824153) \| 🗓️ 2025-04-28
+
+
+<br />
+作者推荐使用**静态HTML和JavaScript**搭配免费可靠的网络托管服务（如GitHub Pages）来发布完全免费的软件，这种方式借助**WebAssembly**和Pyodide等工具能支持丰富的应用类型。关键在于选择长期稳定的托管平台（如GitHub），避免因维护成本或平台变动导致服务中断。同时强调**开源许可**虽必要，但直接提供可运行的链接对用户更实用。文章对比了Heroku等平台的兴衰，突显托管选择的重要性。
+
+---
+
+## <a name="19"></a>19. GitHub下架破解OnlyFans DRM的Widevine项目 
+<small>🔗 [torrentfreak.com](https://torrentfreak.com/drm-free-onlyfans-downloads-see-widevine-project-nuked-from-github-250428/): DRM-Free OnlyFans Downloads See Widevine Project Nuked from GitHub</small>
+
+
+| 🔥: 82 \| 💬: [27](https://news.ycombinator.com/item?id=43825716) \| 🗓️ 2025-04-28
+
+
+<br />
+数字版权管理（**DRM**）系统（如谷歌的**Widevine**）被广泛用于保护流媒体内容，但屡遭破解。2025年4月，OnlyFans母公司Fenix International以违反DMCA为由，要求GitHub删除**CDRM-Project**仓库，称其包含破解Widevine的代码，可将受保护视频转为无DRM的MP4。尽管GitHub给予开发者申诉机会，最终整个项目及分叉仓库仍被移除。Fenix罕见地提供了项目所有者信息，凸显其打击力度。目前该项目已迁移至独立网站，但前景未卜。DRM的过度限制常损害正版用户体验，反而可能助长破解需求。
+
+---
+
+## <a name="20"></a>20. 视觉Transformer需要寄存器 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2309.16588): Vision Transformers Need Registers</small>
+
+
+| 🔥: 79 \| 💬: [9](https://news.ycombinator.com/item?id=43823485) \| 🗓️ 2025-04-28
+
+
+<br />
+该论文发现**监督学习和自监督学习**的ViT网络在特征图中存在**高范数令牌**的伪影，这些令牌通常出现在图像低信息量的背景区域。作者提出通过向输入序列添加额外令牌（寄存器）来解决问题。该方法不仅修复了特征图异常，还在密集视觉预测任务中刷新了自监督模型的**SOTA性能**，同时提升了特征图和注意力图的下游处理效果。
+
+---
+
 ## <a name="21"></a>21. 我们在车祸数据中发现了保险欺诈 
 <small>🔗 [levs.fyi](https://www.levs.fyi/blog/we-found-insurance-fraud-in-our-crash-data/): We Found Insurance Fraud in Our Crash Data</small>
 
 
-| 🔥: 71 \| 💬: [68](https://news.ycombinator.com/item?id=43821578) \| 🗓️ 2025-04-28
+| 🔥: 72 \| 💬: [68](https://news.ycombinator.com/item?id=43821578) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -275,7 +275,19 @@ Matrisk AI团队在构建车辆碰撞地理风险评分时，意外通过**车�
 
 ---
 
-## <a name="22"></a>22. 让AI编程助手自主调试的Web评估工具 
+## <a name="22"></a>22. 国会通过漏洞百出的《下架法案》引发争议 
+<small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/04/congress-passes-take-it-down-act-despite-major-flaws): Congress passes Take It Down act despite major flaws</small>
+
+
+| 🔥: 65 \| 💬: [11](https://news.ycombinator.com/item?id=43828568) \| 🗓️ 2025-04-28
+
+
+<br />
+美国国会通过的《下架法案》（TAKE IT DOWN Act）赋予权势阶层**滥用内容删除权**的新途径，可能压制合法言论。法案涵盖范围过广，涉及**亲密或性内容图像**，却缺乏对恶意投诉的防范机制，迫使平台依赖**错误频出的自动化过滤系统**。48小时的紧急删除时限进一步加剧误删风险，尤其威胁小型平台的生存。尽管旨在保护隐私，该法案实则危及加密通信和网络安全，被批为"治标不治本"。立法者应完善现有法律而非仓促推出易被滥用的新规。
+
+---
+
+## <a name="23"></a>23. 让AI编程助手自主调试的Web评估工具 
 <small>🔗 [github.com](https://github.com/Operative-Sh/web-eval-agent): Show HN: Web-eval-agent – Let the coding agent debug itself</small>
 
 
@@ -287,11 +299,11 @@ Matrisk AI团队在构建车辆碰撞地理风险评分时，意外通过**车�
 
 ---
 
-## <a name="23"></a>23. 首款iOS心率区间分析工具：Heart Rate Zones Plus 
+## <a name="24"></a>24. 首款iOS心率区间分析工具：Heart Rate Zones Plus 
 <small>🔗 [apps.apple.com](https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232): Show HN: Heart Rate Zones Plus – The first iOS app I ever developed</small>
 
 
-| 🔥: 61 \| 💬: [36](https://news.ycombinator.com/item?id=43824583) \| 🗓️ 2025-04-28
+| 🔥: 61 \| 💬: [40](https://news.ycombinator.com/item?id=43824583) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -299,26 +311,14 @@ Matrisk AI团队在构建车辆碰撞地理风险评分时，意外通过**车�
 
 ---
 
-## <a name="24"></a>24. OpenAI推出购物功能，直接挑战谷歌购物搜索 
+## <a name="25"></a>25. OpenAI推出购物功能，直接挑战谷歌购物搜索 
 <small>🔗 [wired.com](https://www.wired.com/story/openai-adds-shopping-to-chatgpt/): OpenAI Adds Shopping to ChatGPT in a Challenge to Google</small>
 
 
-| 🔥: 57 \| 💬: [14](https://news.ycombinator.com/item?id=43824952) \| 🗓️ 2025-04-28
+| 🔥: 58 \| 💬: [14](https://news.ycombinator.com/item?id=43824952) \| 🗓️ 2025-04-28
 
 
 <br />
 OpenAI宣布ChatGPT将新增**购物按钮**，用户可通过AI搜索直接购买商品，但需跳转至商家网站完成交易。推荐结果基于用户偏好和全网评价，**不含广告**。与谷歌购物不同，ChatGPT采用**个性化对话模式**筛选产品，并整合WIRED等媒体评测。OpenAI暂未明确分成模式，但强调优先优化用户体验。此前其竞品Perplexity和谷歌也已布局AI购物功能。
-
----
-
-## <a name="25"></a>25. 葡萄牙和西班牙全国停电导致互联网中断 
-<small>🔗 [twitter.com](https://twitter.com/CloudflareRadar/status/1916811587408536055): Nationwide Power Outages Also Disrupt Internet Traffic in Portugal and Spain</small>
-
-
-| 🔥: 54 \| 💬: [2](https://news.ycombinator.com/item?id=43819914) \| 🗓️ 2025-04-28
-
-
-<br />
-由于**全国性停电**，葡萄牙和西班牙的**互联网流量**受到严重影响。用户访问社交媒体平台时遇到技术问题，提示需启用**JavaScript**或更换浏览器。部分隐私扩展也可能导致访问异常，建议禁用后重试。此次事件凸显基础设施脆弱性对数字服务的关键影响。
 
 ---
