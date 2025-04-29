@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共14条，具体内容您往下读...
+总共18条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [punchbowl.news](https://punchbowl.news/article/tech/amazon-display-tariff-costs/): Amazon to display tariff costs for consumers</small>
 
 
-| 🔥🔥: 429 \| 💬: [386](https://news.ycombinator.com/item?id=43831027) \| 🗓️ 2025-04-29
+| 🔥🔥: 431 \| 💬: [392](https://news.ycombinator.com/item?id=43831027) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/29/generative_ai_no_effect_jobs_wages/): Generative AI is not replacing jobs or hurting wages at all, say economists</small>
 
 
-| 🔥🔥: 302 \| 💬: [435](https://news.ycombinator.com/item?id=43830613) \| 🗓️ 2025-04-29
+| 🔥🔥: 303 \| 💬: [448](https://news.ycombinator.com/item?id=43830613) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts): Chain of Recursive Thoughts: Make AI think harder by making it argue with itself</small>
 
 
-| 🔥🔥: 232 \| 💬: [108](https://news.ycombinator.com/item?id=43835445) \| 🗓️ 2025-04-29
+| 🔥🔥: 276 \| 💬: [129](https://news.ycombinator.com/item?id=43835445) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/): Indian court orders blocking of Proton Mail</small>
 
 
-| 🔥🔥: 214 \| 💬: [90](https://news.ycombinator.com/item?id=43834942) \| 🗓️ 2025-04-29
+| 🔥🔥: 237 \| 💬: [100](https://news.ycombinator.com/item?id=43834942) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [purplesyringa.moe](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/): Performance optimization is hard because it's fundamentally a brute-force task</small>
 
 
-| 🔥🔥: 185 \| 💬: [82](https://news.ycombinator.com/item?id=43831705) \| 🗓️ 2025-04-29
+| 🔥🔥: 193 \| 💬: [88](https://news.ycombinator.com/item?id=43831705) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [blog.bymitch.com](https://blog.bymitch.com/posts/reject-cookies/): Show HN: A Chrome extension that will auto-reject non-essential cookies</small>
 
 
-| 🔥🔥: 171 \| 💬: [119](https://news.ycombinator.com/item?id=43831298) \| 🗓️ 2025-04-29
+| 🔥🔥: 181 \| 💬: [120](https://news.ycombinator.com/item?id=43831298) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [blog.tylerglaiel.com](https://blog.tylerglaiel.com/p/programming-languages-should-have): Programming languages should have a tree traversal primitive</small>
 
 
-| 🔥🔥: 138 \| 💬: [113](https://news.ycombinator.com/item?id=43831628) \| 🗓️ 2025-04-29
+| 🔥🔥: 147 \| 💬: [121](https://news.ycombinator.com/item?id=43831628) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [happyfellow.bearblog.dev](https://happyfellow.bearblog.dev/i-cant-pay-rent-because-devs-just-dont-care/): I can't pay rent because devs just don't care</small>
 
 
-| 🔥🔥: 125 \| 💬: [99](https://news.ycombinator.com/item?id=43836619) \| 🗓️ 2025-04-29
+| 🔥🔥: 129 \| 💬: [106](https://news.ycombinator.com/item?id=43836619) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -119,35 +119,11 @@ tags:
 
 ---
 
-## <a name="9"></a>9. 苏联金星探测器残骸53年后将失控坠回地球 
-<small>🔗 [gizmodo.com](https://gizmodo.com/after-53-years-a-failed-soviet-venus-spacecraft-is-crashing-back-to-earth-2000595234): After 53 years, a failed Soviet Venus spacecraft is crashing back to Earth</small>
-
-
-| 🔥🔥: 116 \| 💬: [41](https://news.ycombinator.com/item?id=43831602) \| 🗓️ 2025-04-29
-
-
-<br />
-1972年苏联发射的**金星探测器"宇宙482号"**因推进故障未能脱离地球轨道，其重达495公斤的着陆舱预计在2025年5月10日左右失控再入大气层。由于该设备原设计可承受金星高温大气，专家警告**部分残骸可能完整撞击地表**，但风险等级接近陨石概率。目前坠落时间和地点仍受太阳活动影响难以精确预测，但大概率会坠入无人海域。这是冷战时期航天遗产的意外回归。
-
----
-
-## <a name="10"></a>10. ArkFlow：基于 Rust 的高性能流处理引擎 
-<small>🔗 [github.com](https://github.com/arkflow-rs/arkflow): ArkFlow: High-performance Rust stream processing engine</small>
-
-
-| 🔥🔥: 116 \| 💬: [22](https://news.ycombinator.com/item?id=43833310) \| 🗓️ 2025-04-29
-
-
-<br />
-ArkFlow 是一个用 **Rust** 开发的高性能流处理引擎，支持多数据源输入/输出和强大的处理能力。其核心特性包括：**低延迟异步运行时**（基于 Tokio）、**多数据源支持**（如 Kafka、MySQL、文件等），以及内置 **SQL 查询** 和 JSON 处理等功能。采用模块化设计，易于扩展，适用于实时数据分析场景。项目开源，遵循 Apache-2.0 协议，社区活跃。
-
----
-
-## <a name="11"></a>11. 如何培养内在动机：科学研究的启示 
+## <a name="9"></a>9. 如何培养内在动机：科学研究的启示 
 <small>🔗 [erringtowardsanswers.substack.com](https://erringtowardsanswers.substack.com/p/intrinsic-motivation): How to build Intrinsic Motivation: a review of the science</small>
 
 
-| 🔥🔥: 115 \| 💬: [23](https://news.ycombinator.com/item?id=43830544) \| 🗓️ 2025-04-29
+| 🔥🔥: 125 \| 💬: [26](https://news.ycombinator.com/item?id=43830544) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -155,11 +131,59 @@ ArkFlow 是一个用 **Rust** 开发的高性能流处理引擎，支持多数�
 
 ---
 
-## <a name="12"></a>12. Pyrefly：用Rust编写的更快Python类型检查器 
+## <a name="10"></a>10. 亚马逊RDS for PostgreSQL 17.4的隔离级别异常分析 
+<small>🔗 [jepsen.io](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4): Amazon RDS for PostgreSQL 17.4</small>
+
+
+| 🔥🔥: 123 \| 💬: [35](https://news.ycombinator.com/item?id=43833195) \| 🗓️ 2025-04-29
+
+
+<br />
+测试发现，**亚马逊RDS for PostgreSQL多可用区集群**未完全实现**快照隔离**，而是可能提供稍弱的**并行快照隔离**。在健康状态下，测试中观察到非相邻的G循环（如长分叉），表明读事务可能无法看到其他事务的完整提交顺序。此行为与单节点PostgreSQL的快照隔离表现不同。建议用户对关键事务使用写入端点或包含写入操作以确保一致性。测试覆盖了13.15至17.4版本，但未证明系统完全正确。
+
+---
+
+## <a name="11"></a>11. Beatsync：跨设备精准同步音频的开源工具 
+<small>🔗 [github.com](https://github.com/freeman-jiang/beatsync): Show HN: Beatsync – perfect audio sync across multiple devices</small>
+
+
+| 🔥🔥: 121 \| 💬: [42](https://news.ycombinator.com/item?id=43835584) \| 🗓️ 2025-04-29
+
+
+<br />
+Beatsync是一款基于网页的**高精度音频播放器**，专为多设备同步播放和**空间音频**设计。它采用类似NTP的时间同步技术，实现毫秒级精准同步，支持跨平台使用（推荐Chrome浏览器）。用户可通过虚拟声源控制各设备音量，创造沉浸式听觉效果。项目提供自托管选项，当前处于早期开发阶段，桌面端Chrome支持最佳，移动端尚不稳定。采用Turborepo架构，包含Next.js前端和Bun后端，需配置.env文件后通过`bun dev`启动服务。
+
+---
+
+## <a name="12"></a>12. ArkFlow：基于 Rust 的高性能流处理引擎 
+<small>🔗 [github.com](https://github.com/arkflow-rs/arkflow): ArkFlow: High-performance Rust stream processing engine</small>
+
+
+| 🔥🔥: 120 \| 💬: [26](https://news.ycombinator.com/item?id=43833310) \| 🗓️ 2025-04-29
+
+
+<br />
+ArkFlow 是一个用 **Rust** 开发的高性能流处理引擎，支持多数据源输入/输出和强大的处理能力。其核心特性包括：**低延迟异步运行时**（基于 Tokio）、**多数据源支持**（如 Kafka、MySQL、文件等），以及内置 **SQL 查询** 和 JSON 处理等功能。采用模块化设计，易于扩展，适用于实时数据分析场景。项目开源，遵循 Apache-2.0 协议，社区活跃。
+
+---
+
+## <a name="13"></a>13. 苏联金星探测器残骸53年后将失控坠回地球 
+<small>🔗 [gizmodo.com](https://gizmodo.com/after-53-years-a-failed-soviet-venus-spacecraft-is-crashing-back-to-earth-2000595234): After 53 years, a failed Soviet Venus spacecraft is crashing back to Earth</small>
+
+
+| 🔥🔥: 117 \| 💬: [42](https://news.ycombinator.com/item?id=43831602) \| 🗓️ 2025-04-29
+
+
+<br />
+1972年苏联发射的**金星探测器"宇宙482号"**因推进故障未能脱离地球轨道，其重达495公斤的着陆舱预计在2025年5月10日左右失控再入大气层。由于该设备原设计可承受金星高温大气，专家警告**部分残骸可能完整撞击地表**，但风险等级接近陨石概率。目前坠落时间和地点仍受太阳活动影响难以精确预测，但大概率会坠入无人海域。这是冷战时期航天遗产的意外回归。
+
+---
+
+## <a name="14"></a>14. Pyrefly：用Rust编写的更快Python类型检查器 
 <small>🔗 [pyrefly.org](https://pyrefly.org/): Pyrefly - A faster Python type checker written in Rust</small>
 
 
-| 🔥🔥: 104 \| 💬: [62](https://news.ycombinator.com/item?id=43831524) \| 🗓️ 2025-04-29
+| 🔥🔥: 109 \| 💬: [62](https://news.ycombinator.com/item?id=43831524) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -167,11 +191,23 @@ Pyrefly是一款基于**Rust**开发的Python类型检查工具，旨在显著�
 
 ---
 
-## <a name="13"></a>13. 什么是"诱发大气振动"？ 
+## <a name="15"></a>15. Bamba：开源混合模型，突破Transformer的二次方瓶颈 
+<small>🔗 [research.ibm.com](https://research.ibm.com/blog/bamba-ssm-transformer-model): Bamba: An open-source LLM that crosses a transformer with an SSM</small>
+
+
+| 🔥🔥: 101 \| 💬: [30](https://news.ycombinator.com/item?id=43835495) \| 🗓️ 2025-04-29
+
+
+<br />
+IBM开源了**Bamba**，一种结合**Transformer**与**状态空间模型（SSM）**的混合架构，显著降低了KV缓存内存需求，推理速度可达同类Transformer的两倍。Bamba-9B在关键基准测试中媲美Meta的Llama-3.1 8B，且支持32,000词长上下文。团队与Red Hat合作优化vLLM支持SSM，未来或实现百万级词长处理。这一创新有望解决Transformer的二次方计算瓶颈，提升效率与性能。
+
+---
+
+## <a name="16"></a>16. 什么是"诱发大气振动"？ 
 <small>🔗 [physics.stackexchange.com](https://physics.stackexchange.com/questions/848666/what-is-induced-atmospheric-vibration): What Is "Induced Atmospheric Vibration"?</small>
 
 
-| 🔥: 95 \| 💬: [51](https://news.ycombinator.com/item?id=43831708) \| 🗓️ 2025-04-29
+| 🔥: 97 \| 💬: [52](https://news.ycombinator.com/item?id=43831708) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -183,14 +219,26 @@ Pyrefly是一款基于**Rust**开发的Python类型检查工具，旨在显著�
 
 ---
 
-## <a name="14"></a>14. Bamba：开源混合模型，突破Transformer的二次方瓶颈 
-<small>🔗 [research.ibm.com](https://research.ibm.com/blog/bamba-ssm-transformer-model): Bamba: An open-source LLM that crosses a transformer with an SSM</small>
+## <a name="17"></a>17. Meta推出基于Llama 4的AI语音助手应用 
+<small>🔗 [about.fb.com](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/): Meta AI App built with Llama 4</small>
 
 
-| 🔥: 87 \| 💬: [26](https://news.ycombinator.com/item?id=43835495) \| 🗓️ 2025-04-29
+| 🔥: 86 \| 💬: [99](https://news.ycombinator.com/item?id=43833783) \| 🗓️ 2025-04-29
 
 
 <br />
-IBM开源了**Bamba**，一种结合**Transformer**与**状态空间模型（SSM）**的混合架构，显著降低了KV缓存内存需求，推理速度可达同类Transformer的两倍。Bamba-9B在关键基准测试中媲美Meta的Llama-3.1 8B，且支持32,000词长上下文。团队与Red Hat合作优化vLLM支持SSM，未来或实现百万级词长处理。这一创新有望解决Transformer的二次方计算瓶颈，提升效率与性能。
+Meta发布全新**Meta AI应用**，内置**Llama 4**模型，主打语音交互与个性化体验。用户可通过独立应用与AI进行自然对话，并整合图像生成、编辑等功能。目前支持美国、加拿大等地区，提供**全双工语音技术**演示（需手动开启）。AI能根据用户偏好（如旅行、语言学习）提供个性化回答，并同步Facebook/Instagram数据优化响应。应用还包含Discover社区供分享AI创意，并支持与Ray-Ban智能眼镜及网页端无缝切换。用户可随时控制语音开关及隐私设置。
+
+---
+
+## <a name="18"></a>18. 日本推出全球首款太阳能超级面板 
+<small>🔗 [japanenergyevent.com](https://www.japanenergyevent.com/media-insights-hub/industry-news/japan-unveils-world-s-first-solar-super-panel-more-powerful-than-20-nuclear-reactors/): Japan unveils first solar super-panel</small>
+
+
+| 🔥: 78 \| 💬: [41](https://news.ycombinator.com/item?id=43831667) \| 🗓️ 2025-04-29
+
+
+<br />
+日本发布全球首个**钙钛矿太阳能电池（PSC）**技术，其发电量相当于20座核电站，计划到2040年实现20吉瓦产能。这种**轻量化、柔性可弯曲**的电池可安装在建筑外墙、车窗等城市空间，解决土地短缺问题。日本凭借全球第二大碘产国的优势，构建本土供应链，推动2050年净零排放目标。目前PSC仍面临耐久性与成本挑战，但预计到2040年成本将降至10日元/瓦。日本太阳能发电占比已从2014年的1.9%升至10%，未来目标为2030年可再生能源占比36%-38%。
 
 ---
