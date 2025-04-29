@@ -27,7 +27,7 @@ tags:
 <small>🔗 [punchbowl.news](https://punchbowl.news/article/tech/amazon-display-tariff-costs/): Amazon to display tariff costs for consumers</small>
 
 
-| 🔥🔥: 431 \| 💬: [392](https://news.ycombinator.com/item?id=43831027) \| 🗓️ 2025-04-29
+| 🔥🔥: 432 \| 💬: [397](https://news.ycombinator.com/item?id=43831027) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/29/generative_ai_no_effect_jobs_wages/): Generative AI is not replacing jobs or hurting wages at all, say economists</small>
 
 
-| 🔥🔥: 303 \| 💬: [448](https://news.ycombinator.com/item?id=43830613) \| 🗓️ 2025-04-29
+| 🔥🔥: 308 \| 💬: [451](https://news.ycombinator.com/item?id=43830613) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts): Chain of Recursive Thoughts: Make AI think harder by making it argue with itself</small>
 
 
-| 🔥🔥: 276 \| 💬: [129](https://news.ycombinator.com/item?id=43835445) \| 🗓️ 2025-04-29
+| 🔥🔥: 305 \| 💬: [150](https://news.ycombinator.com/item?id=43835445) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/): Indian court orders blocking of Proton Mail</small>
 
 
-| 🔥🔥: 237 \| 💬: [100](https://news.ycombinator.com/item?id=43834942) \| 🗓️ 2025-04-29
+| 🔥🔥: 255 \| 💬: [106](https://news.ycombinator.com/item?id=43834942) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [purplesyringa.moe](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/): Performance optimization is hard because it's fundamentally a brute-force task</small>
 
 
-| 🔥🔥: 193 \| 💬: [88](https://news.ycombinator.com/item?id=43831705) \| 🗓️ 2025-04-29
+| 🔥🔥: 196 \| 💬: [92](https://news.ycombinator.com/item?id=43831705) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [blog.bymitch.com](https://blog.bymitch.com/posts/reject-cookies/): Show HN: A Chrome extension that will auto-reject non-essential cookies</small>
 
 
-| 🔥🔥: 181 \| 💬: [120](https://news.ycombinator.com/item?id=43831298) \| 🗓️ 2025-04-29
+| 🔥🔥: 192 \| 💬: [121](https://news.ycombinator.com/item?id=43831298) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -95,47 +95,11 @@ tags:
 
 ---
 
-## <a name="7"></a>7. 编程语言应内置树形遍历原语 
-<small>🔗 [blog.tylerglaiel.com](https://blog.tylerglaiel.com/p/programming-languages-should-have): Programming languages should have a tree traversal primitive</small>
+## <a name="7"></a>7. 亚马逊RDS for PostgreSQL 17.4的隔离级别异常分析 
+<small>🔗 [jepsen.io](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4): Jepsen: Amazon RDS for PostgreSQL 17.4</small>
 
 
-| 🔥🔥: 147 \| 💬: [121](https://news.ycombinator.com/item?id=43831628) \| 🗓️ 2025-04-29
-
-
-<br />
-作者Tyler Glaiel提出，现代编程语言缺乏类似`for/foreach`的**树形遍历控制结构**，导致开发者频繁手动实现递归函数。他设计了一个`for_tree`语法原型：通过**分支表达式**自动展开递归（如`N : {N->left, N->right}`），支持`break`、`continue`和独有的`prune`（跳过子节点）。该设计不仅简化代码，还能处理内存中不存在的逻辑树（如生成字符串组合）。虽然深度优先遍历更易实现，但广度优先需额外内存。文末附有C++模板实现的实验性代码。
-
----
-
-## <a name="8"></a>8. 开发者漠不关心，我连房租都交不起了 
-<small>🔗 [happyfellow.bearblog.dev](https://happyfellow.bearblog.dev/i-cant-pay-rent-because-devs-just-dont-care/): I can't pay rent because devs just don't care</small>
-
-
-| 🔥🔥: 129 \| 💬: [106](https://news.ycombinator.com/item?id=43836619) \| 🗓️ 2025-04-29
-
-
-<br />
-作者因**银行应用更新失败**导致无法登录支付房租，愤怒抨击开发者忽视用户体验。旧手机无法运行臃肿应用，**追踪脚本和冗余代码**加剧资源消耗，而开发者却以“性能达标”为借口。文中痛斥技术团队滥用资源，导致普通用户为**电池损耗和硬件淘汰**买单，尤其批评政府服务网站对老旧设备兼容性差，认为这种“优化惰性”让弱势群体陷入困境。
-
----
-
-## <a name="9"></a>9. 如何培养内在动机：科学研究的启示 
-<small>🔗 [erringtowardsanswers.substack.com](https://erringtowardsanswers.substack.com/p/intrinsic-motivation): How to build Intrinsic Motivation: a review of the science</small>
-
-
-| 🔥🔥: 125 \| 💬: [26](https://news.ycombinator.com/item?id=43830544) \| 🗓️ 2025-04-29
-
-
-<br />
-本文探讨了**内在动机**的本质及其重要性。作者通过个人经历引出主题：当行为源于兴趣而非外部奖励时（如学习、运动），人们会表现出更强的持久力和愉悦感。研究指出，**自我决定理论（SDT）**认为内在动机是人类探索和发展的核心驱动力，而外部压力可能抑制这种天性。关键因素包括**自主性**和兴趣培养，过度依赖奖惩会削弱内在动力。文章还回顾了相关实验，证明动物和人类天生具有探索欲望，这与行为主义的强化理论形成对比。
-
----
-
-## <a name="10"></a>10. 亚马逊RDS for PostgreSQL 17.4的隔离级别异常分析 
-<small>🔗 [jepsen.io](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4): Amazon RDS for PostgreSQL 17.4</small>
-
-
-| 🔥🔥: 123 \| 💬: [35](https://news.ycombinator.com/item?id=43833195) \| 🗓️ 2025-04-29
+| 🔥🔥: 180 \| 💬: [53](https://news.ycombinator.com/item?id=43833195) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -143,11 +107,11 @@ tags:
 
 ---
 
-## <a name="11"></a>11. Beatsync：跨设备精准同步音频的开源工具 
+## <a name="8"></a>8. Beatsync：跨设备精准同步音频的开源工具 
 <small>🔗 [github.com](https://github.com/freeman-jiang/beatsync): Show HN: Beatsync – perfect audio sync across multiple devices</small>
 
 
-| 🔥🔥: 121 \| 💬: [42](https://news.ycombinator.com/item?id=43835584) \| 🗓️ 2025-04-29
+| 🔥🔥: 158 \| 💬: [46](https://news.ycombinator.com/item?id=43835584) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -155,11 +119,47 @@ Beatsync是一款基于网页的**高精度音频播放器**，专为多设备�
 
 ---
 
+## <a name="9"></a>9. 编程语言应内置树形遍历原语 
+<small>🔗 [blog.tylerglaiel.com](https://blog.tylerglaiel.com/p/programming-languages-should-have): Programming languages should have a tree traversal primitive</small>
+
+
+| 🔥🔥: 157 \| 💬: [126](https://news.ycombinator.com/item?id=43831628) \| 🗓️ 2025-04-29
+
+
+<br />
+作者Tyler Glaiel提出，现代编程语言缺乏类似`for/foreach`的**树形遍历控制结构**，导致开发者频繁手动实现递归函数。他设计了一个`for_tree`语法原型：通过**分支表达式**自动展开递归（如`N : {N->left, N->right}`），支持`break`、`continue`和独有的`prune`（跳过子节点）。该设计不仅简化代码，还能处理内存中不存在的逻辑树（如生成字符串组合）。虽然深度优先遍历更易实现，但广度优先需额外内存。文末附有C++模板实现的实验性代码。
+
+---
+
+## <a name="10"></a>10. 开发者漠不关心，我连房租都交不起了 
+<small>🔗 [happyfellow.bearblog.dev](https://happyfellow.bearblog.dev/i-cant-pay-rent-because-devs-just-dont-care/): I can't pay rent because devs just don't care</small>
+
+
+| 🔥🔥: 134 \| 💬: [110](https://news.ycombinator.com/item?id=43836619) \| 🗓️ 2025-04-29
+
+
+<br />
+作者因**银行应用更新失败**导致无法登录支付房租，愤怒抨击开发者忽视用户体验。旧手机无法运行臃肿应用，**追踪脚本和冗余代码**加剧资源消耗，而开发者却以“性能达标”为借口。文中痛斥技术团队滥用资源，导致普通用户为**电池损耗和硬件淘汰**买单，尤其批评政府服务网站对老旧设备兼容性差，认为这种“优化惰性”让弱势群体陷入困境。
+
+---
+
+## <a name="11"></a>11. 如何培养内在动机：科学研究的启示 
+<small>🔗 [erringtowardsanswers.substack.com](https://erringtowardsanswers.substack.com/p/intrinsic-motivation): How to build Intrinsic Motivation: a review of the science</small>
+
+
+| 🔥🔥: 131 \| 💬: [29](https://news.ycombinator.com/item?id=43830544) \| 🗓️ 2025-04-29
+
+
+<br />
+本文探讨了**内在动机**的本质及其重要性。作者通过个人经历引出主题：当行为源于兴趣而非外部奖励时（如学习、运动），人们会表现出更强的持久力和愉悦感。研究指出，**自我决定理论（SDT）**认为内在动机是人类探索和发展的核心驱动力，而外部压力可能抑制这种天性。关键因素包括**自主性**和兴趣培养，过度依赖奖惩会削弱内在动力。文章还回顾了相关实验，证明动物和人类天生具有探索欲望，这与行为主义的强化理论形成对比。
+
+---
+
 ## <a name="12"></a>12. ArkFlow：基于 Rust 的高性能流处理引擎 
 <small>🔗 [github.com](https://github.com/arkflow-rs/arkflow): ArkFlow: High-performance Rust stream processing engine</small>
 
 
-| 🔥🔥: 120 \| 💬: [26](https://news.ycombinator.com/item?id=43833310) \| 🗓️ 2025-04-29
+| 🔥🔥: 125 \| 💬: [27](https://news.ycombinator.com/item?id=43833310) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -171,7 +171,7 @@ ArkFlow 是一个用 **Rust** 开发的高性能流处理引擎，支持多数�
 <small>🔗 [gizmodo.com](https://gizmodo.com/after-53-years-a-failed-soviet-venus-spacecraft-is-crashing-back-to-earth-2000595234): After 53 years, a failed Soviet Venus spacecraft is crashing back to Earth</small>
 
 
-| 🔥🔥: 117 \| 💬: [42](https://news.ycombinator.com/item?id=43831602) \| 🗓️ 2025-04-29
+| 🔥🔥: 120 \| 💬: [43](https://news.ycombinator.com/item?id=43831602) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -183,7 +183,7 @@ ArkFlow 是一个用 **Rust** 开发的高性能流处理引擎，支持多数�
 <small>🔗 [pyrefly.org](https://pyrefly.org/): Pyrefly - A faster Python type checker written in Rust</small>
 
 
-| 🔥🔥: 109 \| 💬: [62](https://news.ycombinator.com/item?id=43831524) \| 🗓️ 2025-04-29
+| 🔥🔥: 115 \| 💬: [65](https://news.ycombinator.com/item?id=43831524) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -195,7 +195,7 @@ Pyrefly是一款基于**Rust**开发的Python类型检查工具，旨在显著�
 <small>🔗 [research.ibm.com](https://research.ibm.com/blog/bamba-ssm-transformer-model): Bamba: An open-source LLM that crosses a transformer with an SSM</small>
 
 
-| 🔥🔥: 101 \| 💬: [30](https://news.ycombinator.com/item?id=43835495) \| 🗓️ 2025-04-29
+| 🔥🔥: 110 \| 💬: [34](https://news.ycombinator.com/item?id=43835495) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -207,7 +207,7 @@ IBM开源了**Bamba**，一种结合**Transformer**与**状态空间模型（SSM
 <small>🔗 [physics.stackexchange.com](https://physics.stackexchange.com/questions/848666/what-is-induced-atmospheric-vibration): What Is "Induced Atmospheric Vibration"?</small>
 
 
-| 🔥: 97 \| 💬: [52](https://news.ycombinator.com/item?id=43831708) \| 🗓️ 2025-04-29
+| 🔥: 99 \| 💬: [53](https://news.ycombinator.com/item?id=43831708) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -223,7 +223,7 @@ IBM开源了**Bamba**，一种结合**Transformer**与**状态空间模型（SSM
 <small>🔗 [about.fb.com](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/): Meta AI App built with Llama 4</small>
 
 
-| 🔥: 86 \| 💬: [99](https://news.ycombinator.com/item?id=43833783) \| 🗓️ 2025-04-29
+| 🔥: 88 \| 💬: [100](https://news.ycombinator.com/item?id=43833783) \| 🗓️ 2025-04-29
 
 
 <br />
