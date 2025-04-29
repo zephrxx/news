@@ -27,7 +27,7 @@ tags:
 <small>🔗 [bbc.com](https://www.bbc.com/news/live/c9wpq8xrvd9t): Widespread power outage in Spain and Portugal</small>
 
 
-| 🔥🔥: 1310 \| 💬: [935](https://news.ycombinator.com/item?id=43819791) \| 🗓️ 2025-04-28
+| 🔥🔥: 1339 \| 💬: [951](https://news.ycombinator.com/item?id=43819791) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [runpyxl.com](https://www.runpyxl.com/gpio): Show HN: I built a hardware processor that runs Python</small>
 
 
-| 🔥🔥: 876 \| 💬: [231](https://news.ycombinator.com/item?id=43820228) \| 🗓️ 2025-04-28
+| 🔥🔥: 888 \| 💬: [232](https://news.ycombinator.com/item?id=43820228) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwen3/): Qwen3: Think deeper, act faster</small>
 
 
-| 🔥🔥: 498 \| 💬: [196](https://news.ycombinator.com/item?id=43825900) \| 🗓️ 2025-04-28
+| 🔥🔥: 534 \| 💬: [216](https://news.ycombinator.com/item?id=43825900) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [deadmoney.gg](https://deadmoney.gg/news/articles/migrating-away-from-rust): Migrating away from Rust</small>
 
 
-| 🔥🔥: 464 \| 💬: [412](https://news.ycombinator.com/item?id=43824640) \| 🗓️ 2025-04-28
+| 🔥🔥: 492 \| 💬: [434](https://news.ycombinator.com/item?id=43824640) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [blog.jacobstechtavern.com](https://blog.jacobstechtavern.com/p/the-side-hustle-from-hell): The side hustle from hell</small>
 
 
-| 🔥🔥: 308 \| 💬: [123](https://news.ycombinator.com/item?id=43823620) \| 🗓️ 2025-04-28
+| 🔥🔥: 311 \| 💬: [123](https://news.ycombinator.com/item?id=43823620) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [mrwint.github.io](https://mrwint.github.io/winter/writeup/writeup.html): Uncovering the mechanics of The Games: Winter Challenge</small>
 
 
-| 🔥🔥: 253 \| 💬: [103](https://news.ycombinator.com/item?id=43820076) \| 🗓️ 2025-04-28
+| 🔥🔥: 254 \| 💬: [103](https://news.ycombinator.com/item?id=43820076) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [github.com](https://github.com/skyzh/tiny-llm): Tiny-LLM – a course of serving LLM on Apple Silicon for systems engineers</small>
 
 
-| 🔥🔥: 244 \| 💬: [27](https://news.ycombinator.com/item?id=43820022) \| 🗓️ 2025-04-28
+| 🔥🔥: 251 \| 💬: [27](https://news.ycombinator.com/item?id=43820022) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -123,7 +123,7 @@ tags:
 <small>🔗 [onemillionchessboards.com](https://onemillionchessboards.com/#199,276): One Million Chessboards</small>
 
 
-| 🔥🔥: 173 \| 💬: [40](https://news.ycombinator.com/item?id=43825336) \| 🗓️ 2025-04-28
+| 🔥🔥: 190 \| 💬: [41](https://news.ycombinator.com/item?id=43825336) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -135,7 +135,7 @@ tags:
 <small>🔗 [iamkate.com](https://iamkate.com/data/12-bit-rainbow/): The 12-bit rainbow palette</small>
 
 
-| 🔥🔥: 167 \| 💬: [49](https://news.ycombinator.com/item?id=43827108) \| 🗓️ 2025-04-28
+| 🔥🔥: 184 \| 💬: [50](https://news.ycombinator.com/item?id=43827108) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -147,7 +147,7 @@ tags:
 <small>🔗 [github.com](https://github.com/xdadda/mini-photo-editor): Show HN: A pure WebGL image editor with filters, crop and perspective correction</small>
 
 
-| 🔥🔥: 164 \| 💬: [50](https://news.ycombinator.com/item?id=43823044) \| 🗓️ 2025-04-28
+| 🔥🔥: 173 \| 💬: [50](https://news.ycombinator.com/item?id=43823044) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -159,7 +159,7 @@ tags:
 <small>🔗 [asteriskmag.com](https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated): Reports of the death of California High-Speed Rail have been greatly exaggerated</small>
 
 
-| 🔥🔥: 156 \| 💬: [302](https://news.ycombinator.com/item?id=43824544) \| 🗓️ 2025-04-28
+| 🔥🔥: 164 \| 💬: [313](https://news.ycombinator.com/item?id=43824544) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -167,11 +167,23 @@ tags:
 
 ---
 
-## <a name="13"></a>13. 开源AI智能体工作流构建工具：Sim Studio 
+## <a name="13"></a>13. 为何Windows 7使用纯色背景会导致登录变慢数月？ 
+<small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121): Why did Windows 7 log on slower for months if you had a solid color background?</small>
+
+
+| 🔥🔥: 142 \| 💬: [56](https://news.ycombinator.com/item?id=43827214) \| 🗓️ 2025-04-28
+
+
+<br />
+Windows 7和Windows Server 2008 R2中，若将桌面背景设为**纯色**，登录时欢迎界面可能持续30秒。原因是系统等待**壁纸加载完成信号**，但纯色背景的代码未触发该信号，导致超时。类似问题也出现在**“隐藏桌面图标”组策略**中——策略检查包裹了状态报告代码，导致未反馈就绪状态。微软在2009年11月修复了此问题。作者还提到，默认配置更易复现问题，且早期因内存限制避免使用壁纸。
+
+---
+
+## <a name="14"></a>14. 开源AI智能体工作流构建工具：Sim Studio 
 <small>🔗 [github.com](https://github.com/simstudioai/sim): Show HN: Sim Studio – Open-Source Agent Workflow GUI</small>
 
 
-| 🔥🔥: 130 \| 💬: [47](https://news.ycombinator.com/item?id=43823096) \| 🗓️ 2025-04-28
+| 🔥🔥: 133 \| 💬: [47](https://news.ycombinator.com/item?id=43823096) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -179,11 +191,11 @@ Sim Studio是一款**开源**的AI智能体工作流构建平台，基于**Next.
 
 ---
 
-## <a name="14"></a>14. 现实检验：OpenAI的荒谬营收预言 
+## <a name="15"></a>15. 现实检验：OpenAI的荒谬营收预言 
 <small>🔗 [wheresyoured.at](https://www.wheresyoured.at/reality-check/): Reality Check</small>
 
 
-| 🔥🔥: 114 \| 💬: [92](https://news.ycombinator.com/item?id=43823492) \| 🗓️ 2025-04-28
+| 🔥🔥: 115 \| 💬: [92](https://news.ycombinator.com/item?id=43823492) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -191,7 +203,7 @@ Sim Studio是一款**开源**的AI智能体工作流构建平台，基于**Next.
 
 ---
 
-## <a name="15"></a>15. 《地海传奇》全集：勒古恩的奇幻经典 
+## <a name="16"></a>16. 《地海传奇》全集：勒古恩的奇幻经典 
 <small>🔗 [lars.ingebrigtsen.no](https://lars.ingebrigtsen.no/2025/04/28/book-club-2025-the-books-of-earthsea-by-ursula-k-le-guin/): The Books of Earthsea by Ursula K. Le Guin</small>
 
 
@@ -203,23 +215,23 @@ Sim Studio是一款**开源**的AI智能体工作流构建平台，基于**Next.
 
 ---
 
-## <a name="16"></a>16. 为何Windows 7使用纯色背景会导致登录变慢数月？ 
-<small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/oldnewthing/20250428-00/?p=111121): Why did Windows 7 log on slower for months if you had a solid color background?</small>
+## <a name="17"></a>17. 所谓知识型社会，呵呵 
+<small>🔗 [mihaiolteanu.me](https://mihaiolteanu.me/knowledge-based-society-my-ass): Knowledge-based society, my ass</small>
 
 
-| 🔥🔥: 109 \| 💬: [34](https://news.ycombinator.com/item?id=43827214) \| 🗓️ 2025-04-28
+| 🔥🔥: 102 \| 💬: [14](https://news.ycombinator.com/item?id=43828713) \| 🗓️ 2025-04-28
 
 
 <br />
-Windows 7和Windows Server 2008 R2中，若将桌面背景设为**纯色**，登录时欢迎界面可能持续30秒。原因是系统等待**壁纸加载完成信号**，但纯色背景的代码未触发该信号，导致超时。类似问题也出现在**“隐藏桌面图标”组策略**中——策略检查包裹了状态报告代码，导致未反馈就绪状态。微软在2009年11月修复了此问题。作者还提到，默认配置更易复现问题，且早期因内存限制避免使用壁纸。
+作者满怀期待开始博士生涯，却发现导师**漠不关心**，既无指导也无设备，甚至拒绝提供基础研究资源。在官僚化的大学体系中，他被迫用简陋的计算机模拟完成论文，目睹教授们**形式主义**和抄袭成风。最终，他选择妥协，以重复性研究应付毕业要求，同时嘲讽这个**金玉其外**的学术体制。整个经历揭示了高等教育中理想与现实的巨大鸿沟。
 
 ---
 
-## <a name="17"></a>17. AI营销泛滥时代，出站销售将走向终结？ 
+## <a name="18"></a>18. AI营销泛滥时代，出站销售将走向终结？ 
 <small>🔗 [rnikhil.com](https://rnikhil.com/2025/04/25/sales-outbound-ai-dead): Is outbound going to die?</small>
 
 
-| 🔥: 97 \| 💬: [88](https://news.ycombinator.com/item?id=43823851) \| 🗓️ 2025-04-28
+| 🔥🔥: 101 \| 💬: [89](https://news.ycombinator.com/item?id=43823851) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -227,23 +239,23 @@ AI驱动的销售工具正以**超个性化内容**和**海量触达**重塑营�
 
 ---
 
-## <a name="18"></a>18. 免费发布软件的最佳实践 
-<small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/28/give-it-away-for-free/): Giving Software Away for Free</small>
+## <a name="19"></a>19. 国会通过漏洞百出的《下架法案》引发争议 
+<small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/04/congress-passes-take-it-down-act-despite-major-flaws): Congress passes Take It Down act despite major flaws</small>
 
 
-| 🔥: 82 \| 💬: [49](https://news.ycombinator.com/item?id=43824153) \| 🗓️ 2025-04-28
+| 🔥: 100 \| 💬: [27](https://news.ycombinator.com/item?id=43828568) \| 🗓️ 2025-04-28
 
 
 <br />
-作者推荐使用**静态HTML和JavaScript**搭配免费可靠的网络托管服务（如GitHub Pages）来发布完全免费的软件，这种方式借助**WebAssembly**和Pyodide等工具能支持丰富的应用类型。关键在于选择长期稳定的托管平台（如GitHub），避免因维护成本或平台变动导致服务中断。同时强调**开源许可**虽必要，但直接提供可运行的链接对用户更实用。文章对比了Heroku等平台的兴衰，突显托管选择的重要性。
+美国国会通过的《下架法案》（TAKE IT DOWN Act）赋予权势阶层**滥用内容删除权**的新途径，可能压制合法言论。法案涵盖范围过广，涉及**亲密或性内容图像**，却缺乏对恶意投诉的防范机制，迫使平台依赖**错误频出的自动化过滤系统**。48小时的紧急删除时限进一步加剧误删风险，尤其威胁小型平台的生存。尽管旨在保护隐私，该法案实则危及加密通信和网络安全，被批为"治标不治本"。立法者应完善现有法律而非仓促推出易被滥用的新规。
 
 ---
 
-## <a name="19"></a>19. GitHub下架破解OnlyFans DRM的Widevine项目 
+## <a name="20"></a>20. GitHub下架破解OnlyFans DRM的Widevine项目 
 <small>🔗 [torrentfreak.com](https://torrentfreak.com/drm-free-onlyfans-downloads-see-widevine-project-nuked-from-github-250428/): DRM-Free OnlyFans Downloads See Widevine Project Nuked from GitHub</small>
 
 
-| 🔥: 82 \| 💬: [27](https://news.ycombinator.com/item?id=43825716) \| 🗓️ 2025-04-28
+| 🔥: 85 \| 💬: [27](https://news.ycombinator.com/item?id=43825716) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -251,11 +263,23 @@ AI驱动的销售工具正以**超个性化内容**和**海量触达**重塑营�
 
 ---
 
-## <a name="20"></a>20. 视觉Transformer需要寄存器 
+## <a name="21"></a>21. 免费发布软件的最佳实践 
+<small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/28/give-it-away-for-free/): Giving Software Away for Free</small>
+
+
+| 🔥: 83 \| 💬: [49](https://news.ycombinator.com/item?id=43824153) \| 🗓️ 2025-04-28
+
+
+<br />
+作者推荐使用**静态HTML和JavaScript**搭配免费可靠的网络托管服务（如GitHub Pages）来发布完全免费的软件，这种方式借助**WebAssembly**和Pyodide等工具能支持丰富的应用类型。关键在于选择长期稳定的托管平台（如GitHub），避免因维护成本或平台变动导致服务中断。同时强调**开源许可**虽必要，但直接提供可运行的链接对用户更实用。文章对比了Heroku等平台的兴衰，突显托管选择的重要性。
+
+---
+
+## <a name="22"></a>22. 视觉Transformer需要寄存器 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2309.16588): Vision Transformers Need Registers</small>
 
 
-| 🔥: 79 \| 💬: [9](https://news.ycombinator.com/item?id=43823485) \| 🗓️ 2025-04-28
+| 🔥: 81 \| 💬: [9](https://news.ycombinator.com/item?id=43823485) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -263,7 +287,7 @@ AI驱动的销售工具正以**超个性化内容**和**海量触达**重塑营�
 
 ---
 
-## <a name="21"></a>21. 我们在车祸数据中发现了保险欺诈 
+## <a name="23"></a>23. 我们在车祸数据中发现了保险欺诈 
 <small>🔗 [levs.fyi](https://www.levs.fyi/blog/we-found-insurance-fraud-in-our-crash-data/): We Found Insurance Fraud in Our Crash Data</small>
 
 
@@ -275,23 +299,11 @@ Matrisk AI团队在构建车辆碰撞地理风险评分时，意外通过**车�
 
 ---
 
-## <a name="22"></a>22. 国会通过漏洞百出的《下架法案》引发争议 
-<small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/04/congress-passes-take-it-down-act-despite-major-flaws): Congress passes Take It Down act despite major flaws</small>
-
-
-| 🔥: 65 \| 💬: [11](https://news.ycombinator.com/item?id=43828568) \| 🗓️ 2025-04-28
-
-
-<br />
-美国国会通过的《下架法案》（TAKE IT DOWN Act）赋予权势阶层**滥用内容删除权**的新途径，可能压制合法言论。法案涵盖范围过广，涉及**亲密或性内容图像**，却缺乏对恶意投诉的防范机制，迫使平台依赖**错误频出的自动化过滤系统**。48小时的紧急删除时限进一步加剧误删风险，尤其威胁小型平台的生存。尽管旨在保护隐私，该法案实则危及加密通信和网络安全，被批为"治标不治本"。立法者应完善现有法律而非仓促推出易被滥用的新规。
-
----
-
-## <a name="23"></a>23. 让AI编程助手自主调试的Web评估工具 
+## <a name="24"></a>24. 让AI编程助手自主调试的Web评估工具 
 <small>🔗 [github.com](https://github.com/Operative-Sh/web-eval-agent): Show HN: Web-eval-agent – Let the coding agent debug itself</small>
 
 
-| 🔥: 61 \| 💬: [10](https://news.ycombinator.com/item?id=43822659) \| 🗓️ 2025-04-28
+| 🔥: 66 \| 💬: [11](https://news.ycombinator.com/item?id=43822659) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -299,26 +311,14 @@ Matrisk AI团队在构建车辆碰撞地理风险评分时，意外通过**车�
 
 ---
 
-## <a name="24"></a>24. 首款iOS心率区间分析工具：Heart Rate Zones Plus 
-<small>🔗 [apps.apple.com](https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232): Show HN: Heart Rate Zones Plus – The first iOS app I ever developed</small>
+## <a name="25"></a>25. 首款iOS心率区间分析工具：Heart Rate Zones Plus 
+<small>🔗 [apps.apple.com](https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232): Show HN: Heart Rate Zones Plus – The first iOS app I developed</small>
 
 
-| 🔥: 61 \| 💬: [40](https://news.ycombinator.com/item?id=43824583) \| 🗓️ 2025-04-28
+| 🔥: 63 \| 💬: [39](https://news.ycombinator.com/item?id=43824583) \| 🗓️ 2025-04-28
 
 
 <br />
 这是一款专注于**心率区间追踪**的iOS健康应用，开发者Tobias Willmann通过Apple HealthKit获取数据，**不收集用户隐私**。核心功能包括：自定义时段（日/周/月）的**五大心率区间统计**、运动类型与区间关联分析、多种科学计算最大心率公式（含性别差异），以及个性化目标设定。支持深色/浅色模式，适合运动员、康复者及量化自我爱好者，通过可视化进度条帮助用户**精准优化训练强度**。应用仅6.6MB，免费下载。
-
----
-
-## <a name="25"></a>25. OpenAI推出购物功能，直接挑战谷歌购物搜索 
-<small>🔗 [wired.com](https://www.wired.com/story/openai-adds-shopping-to-chatgpt/): OpenAI Adds Shopping to ChatGPT in a Challenge to Google</small>
-
-
-| 🔥: 58 \| 💬: [14](https://news.ycombinator.com/item?id=43824952) \| 🗓️ 2025-04-28
-
-
-<br />
-OpenAI宣布ChatGPT将新增**购物按钮**，用户可通过AI搜索直接购买商品，但需跳转至商家网站完成交易。推荐结果基于用户偏好和全网评价，**不含广告**。与谷歌购物不同，ChatGPT采用**个性化对话模式**筛选产品，并整合WIRED等媒体评测。OpenAI暂未明确分成模式，但强调优先优化用户体验。此前其竞品Perplexity和谷歌也已布局AI购物功能。
 
 ---
