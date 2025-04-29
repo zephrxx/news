@@ -27,7 +27,7 @@ tags:
 <small>🔗 [bbc.com](https://www.bbc.com/news/live/c9wpq8xrvd9t): Widespread power outage in Spain and Portugal</small>
 
 
-| 🔥🔥: 1227 \| 💬: [898](https://news.ycombinator.com/item?id=43819791) \| 🗓️ 2025-04-28
+| 🔥🔥: 1247 \| 💬: [912](https://news.ycombinator.com/item?id=43819791) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [runpyxl.com](https://www.runpyxl.com/gpio): Show HN: I built a hardware processor that runs Python</small>
 
 
-| 🔥🔥: 836 \| 💬: [225](https://news.ycombinator.com/item?id=43820228) \| 🗓️ 2025-04-28
+| 🔥🔥: 846 \| 💬: [227](https://news.ycombinator.com/item?id=43820228) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [deadmoney.gg](https://deadmoney.gg/news/articles/migrating-away-from-rust): Migrating away from Rust</small>
 
 
-| 🔥🔥: 416 \| 💬: [366](https://news.ycombinator.com/item?id=43824640) \| 🗓️ 2025-04-28
+| 🔥🔥: 435 \| 💬: [388](https://news.ycombinator.com/item?id=43824640) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwen3/): Qwen3: Think deeper, act faster</small>
 
 
-| 🔥🔥: 376 \| 💬: [144](https://news.ycombinator.com/item?id=43825900) \| 🗓️ 2025-04-28
+| 🔥🔥: 415 \| 💬: [165](https://news.ycombinator.com/item?id=43825900) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [bbc.com](https://www.bbc.com/news/live/c9wpq8xrvd9t): Reports of widespread power cuts in Spain and Portugal</small>
 
 
-| 🔥🔥: 325 \| 💬: [19](https://news.ycombinator.com/item?id=43820043) \| 🗓️ 2025-04-28
+| 🔥🔥: 326 \| 💬: [20](https://news.ycombinator.com/item?id=43820043) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [blog.jacobstechtavern.com](https://blog.jacobstechtavern.com/p/the-side-hustle-from-hell): The side hustle from hell</small>
 
 
-| 🔥🔥: 281 \| 💬: [119](https://news.ycombinator.com/item?id=43823620) \| 🗓️ 2025-04-28
+| 🔥🔥: 294 \| 💬: [123](https://news.ycombinator.com/item?id=43823620) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [mrwint.github.io](https://mrwint.github.io/winter/writeup/writeup.html): Uncovering the mechanics of The Games: Winter Challenge</small>
 
 
-| 🔥🔥: 252 \| 💬: [102](https://news.ycombinator.com/item?id=43820076) \| 🗓️ 2025-04-28
+| 🔥🔥: 252 \| 💬: [103](https://news.ycombinator.com/item?id=43820076) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [github.com](https://github.com/skyzh/tiny-llm): Tiny-LLM – a course of serving LLM on Apple Silicon for systems engineers</small>
 
 
-| 🔥🔥: 225 \| 💬: [25](https://news.ycombinator.com/item?id=43820022) \| 🗓️ 2025-04-28
+| 🔥🔥: 228 \| 💬: [26](https://news.ycombinator.com/item?id=43820022) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -123,7 +123,7 @@ tags:
 <small>🔗 [github.com](https://github.com/xdadda/mini-photo-editor): Show HN: A pure WebGL image editor with filters, crop and perspective correction</small>
 
 
-| 🔥🔥: 152 \| 💬: [45](https://news.ycombinator.com/item?id=43823044) \| 🗓️ 2025-04-28
+| 🔥🔥: 159 \| 💬: [48](https://news.ycombinator.com/item?id=43823044) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -135,7 +135,7 @@ tags:
 <small>🔗 [asteriskmag.com](https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated): Reports of the death of California High-Speed Rail have been greatly exaggerated</small>
 
 
-| 🔥🔥: 131 \| 💬: [267](https://news.ycombinator.com/item?id=43824544) \| 🗓️ 2025-04-28
+| 🔥🔥: 145 \| 💬: [278](https://news.ycombinator.com/item?id=43824544) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -144,10 +144,10 @@ tags:
 ---
 
 ## <a name="11"></a>11. 百万棋盘：全球实时共弈的疯狂实验 
-<small>🔗 [eieio.games](https://eieio.games/blog/one-million-chessboards/): One Million Chessboards</small>
+<small>🔗 [onemillionchessboards.com](https://onemillionchessboards.com/#199,276): One Million Chessboards</small>
 
 
-| 🔥🔥: 122 \| 💬: [26](https://news.ycombinator.com/item?id=43825336) \| 🗓️ 2025-04-28
+| 🔥🔥: 141 \| 💬: [33](https://news.ycombinator.com/item?id=43825336) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -155,11 +155,23 @@ tags:
 
 ---
 
-## <a name="12"></a>12. 开源AI智能体工作流构建工具：Sim Studio 
+## <a name="12"></a>12. 12位彩虹调色板的设计与应用 
+<small>🔗 [iamkate.com](https://iamkate.com/data/12-bit-rainbow/): The 12-bit rainbow palette</small>
+
+
+| 🔥🔥: 129 \| 💬: [42](https://news.ycombinator.com/item?id=43827108) \| 🗓️ 2025-04-28
+
+
+<br />
+本文介绍了专为National Grid: Live设计的**12位彩虹调色板**，包含12种颜色，兼顾**人眼对亮度、色度和色调的感知**。采用12位色深，每个颜色仅需4字符的十六进制代码（如`#817`）。传统RGB调色板的亮度差异明显，而**LCH色彩空间**通过调整亮度、色度和色调实现更均匀的视觉表现。通过动态调整亮度（如黄色最亮），并控制色度与色调变化，最终生成色彩平滑过渡的调色板。
+
+---
+
+## <a name="13"></a>13. 开源AI智能体工作流构建工具：Sim Studio 
 <small>🔗 [github.com](https://github.com/simstudioai/sim): Show HN: Sim Studio – Open-Source Agent Workflow GUI</small>
 
 
-| 🔥🔥: 120 \| 💬: [38](https://news.ycombinator.com/item?id=43823096) \| 🗓️ 2025-04-28
+| 🔥🔥: 124 \| 💬: [41](https://news.ycombinator.com/item?id=43823096) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -167,7 +179,7 @@ Sim Studio是一款**开源**的AI智能体工作流构建平台，基于**Next.
 
 ---
 
-## <a name="13"></a>13. 现实检验：OpenAI的荒谬营收预言 
+## <a name="14"></a>14. 现实检验：OpenAI的荒谬营收预言 
 <small>🔗 [wheresyoured.at](https://www.wheresyoured.at/reality-check/): Reality Check</small>
 
 
@@ -179,11 +191,11 @@ Sim Studio是一款**开源**的AI智能体工作流构建平台，基于**Next.
 
 ---
 
-## <a name="14"></a>14. 《地海传奇》全集：勒古恩的奇幻经典 
+## <a name="15"></a>15. 《地海传奇》全集：勒古恩的奇幻经典 
 <small>🔗 [lars.ingebrigtsen.no](https://lars.ingebrigtsen.no/2025/04/28/book-club-2025-the-books-of-earthsea-by-ursula-k-le-guin/): The Books of Earthsea by Ursula K. Le Guin</small>
 
 
-| 🔥🔥: 106 \| 💬: [45](https://news.ycombinator.com/item?id=43823462) \| 🗓️ 2025-04-28
+| 🔥🔥: 107 \| 💬: [45](https://news.ycombinator.com/item?id=43823462) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -191,35 +203,11 @@ Sim Studio是一款**开源**的AI智能体工作流构建平台，基于**Next.
 
 ---
 
-## <a name="15"></a>15. 12位彩虹调色板的设计与应用 
-<small>🔗 [iamkate.com](https://iamkate.com/data/12-bit-rainbow/): The 12-bit rainbow palette</small>
-
-
-| 🔥🔥: 102 \| 💬: [35](https://news.ycombinator.com/item?id=43827108) \| 🗓️ 2025-04-28
-
-
-<br />
-本文介绍了专为National Grid: Live设计的**12位彩虹调色板**，包含12种颜色，兼顾**人眼对亮度、色度和色调的感知**。采用12位色深，每个颜色仅需4字符的十六进制代码（如`#817`）。传统RGB调色板的亮度差异明显，而**LCH色彩空间**通过调整亮度、色度和色调实现更均匀的视觉表现。通过动态调整亮度（如黄色最亮），并控制色度与色调变化，最终生成色彩平滑过渡的调色板。
-
----
-
-## <a name="16"></a>16. 免费发布软件的最佳实践 
-<small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/28/give-it-away-for-free/): Giving Software Away for Free</small>
-
-
-| 🔥: 78 \| 💬: [47](https://news.ycombinator.com/item?id=43824153) \| 🗓️ 2025-04-28
-
-
-<br />
-作者推荐使用**静态HTML和JavaScript**搭配免费可靠的网络托管服务（如GitHub Pages）来发布完全免费的软件，这种方式借助**WebAssembly**和Pyodide等工具能支持丰富的应用类型。关键在于选择长期稳定的托管平台（如GitHub），避免因维护成本或平台变动导致服务中断。同时强调**开源许可**虽必要，但直接提供可运行的链接对用户更实用。文章对比了Heroku等平台的兴衰，突显托管选择的重要性。
-
----
-
-## <a name="17"></a>17. AI营销泛滥时代，出站销售将走向终结？ 
+## <a name="16"></a>16. AI营销泛滥时代，出站销售将走向终结？ 
 <small>🔗 [rnikhil.com](https://rnikhil.com/2025/04/25/sales-outbound-ai-dead): Is outbound going to die?</small>
 
 
-| 🔥: 76 \| 💬: [84](https://news.ycombinator.com/item?id=43823851) \| 🗓️ 2025-04-28
+| 🔥: 84 \| 💬: [86](https://news.ycombinator.com/item?id=43823851) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -227,11 +215,23 @@ AI驱动的销售工具正以**超个性化内容**和**海量触达**重塑营�
 
 ---
 
+## <a name="17"></a>17. 免费发布软件的最佳实践 
+<small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/28/give-it-away-for-free/): Giving Software Away for Free</small>
+
+
+| 🔥: 79 \| 💬: [48](https://news.ycombinator.com/item?id=43824153) \| 🗓️ 2025-04-28
+
+
+<br />
+作者推荐使用**静态HTML和JavaScript**搭配免费可靠的网络托管服务（如GitHub Pages）来发布完全免费的软件，这种方式借助**WebAssembly**和Pyodide等工具能支持丰富的应用类型。关键在于选择长期稳定的托管平台（如GitHub），避免因维护成本或平台变动导致服务中断。同时强调**开源许可**虽必要，但直接提供可运行的链接对用户更实用。文章对比了Heroku等平台的兴衰，突显托管选择的重要性。
+
+---
+
 ## <a name="18"></a>18. GitHub下架破解OnlyFans DRM的Widevine项目 
 <small>🔗 [torrentfreak.com](https://torrentfreak.com/drm-free-onlyfans-downloads-see-widevine-project-nuked-from-github-250428/): DRM-Free OnlyFans Downloads See Widevine Project Nuked from GitHub</small>
 
 
-| 🔥: 74 \| 💬: [21](https://news.ycombinator.com/item?id=43825716) \| 🗓️ 2025-04-28
+| 🔥: 76 \| 💬: [24](https://news.ycombinator.com/item?id=43825716) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -243,7 +243,7 @@ AI驱动的销售工具正以**超个性化内容**和**海量触达**重塑营�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2309.16588): Vision Transformers Need Registers</small>
 
 
-| 🔥: 73 \| 💬: [9](https://news.ycombinator.com/item?id=43823485) \| 🗓️ 2025-04-28
+| 🔥: 74 \| 💬: [9](https://news.ycombinator.com/item?id=43823485) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -267,7 +267,7 @@ Matrisk AI团队在构建车辆碰撞地理风险评分时，意外通过**车�
 <small>🔗 [github.com](https://github.com/Operative-Sh/web-eval-agent): Show HN: Web-eval-agent – Let the coding agent debug itself</small>
 
 
-| 🔥: 59 \| 💬: [9](https://news.ycombinator.com/item?id=43822659) \| 🗓️ 2025-04-28
+| 🔥: 61 \| 💬: [10](https://news.ycombinator.com/item?id=43822659) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -279,7 +279,7 @@ Matrisk AI团队在构建车辆碰撞地理风险评分时，意外通过**车�
 <small>🔗 [apps.apple.com](https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232): Show HN: Heart Rate Zones Plus – The first iOS app I ever developed</small>
 
 
-| 🔥: 55 \| 💬: [33](https://news.ycombinator.com/item?id=43824583) \| 🗓️ 2025-04-28
+| 🔥: 57 \| 💬: [33](https://news.ycombinator.com/item?id=43824583) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -303,7 +303,7 @@ Matrisk AI团队在构建车辆碰撞地理风险评分时，意外通过**车�
 <small>🔗 [wired.com](https://www.wired.com/story/openai-adds-shopping-to-chatgpt/): OpenAI Adds Shopping to ChatGPT in a Challenge to Google</small>
 
 
-| 🔥: 51 \| 💬: [14](https://news.ycombinator.com/item?id=43824952) \| 🗓️ 2025-04-28
+| 🔥: 54 \| 💬: [14](https://news.ycombinator.com/item?id=43824952) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -315,7 +315,7 @@ OpenAI宣布ChatGPT将新增**购物按钮**，用户可通过AI搜索直接购�
 <small>🔗 [talyarkoni.org](https://talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/): It's Not the Incentives (2018)</small>
 
 
-| 🔥: 45 \| 💬: [48](https://news.ycombinator.com/item?id=43824534) \| 🗓️ 2025-04-28
+| 🔥: 46 \| 💬: [48](https://news.ycombinator.com/item?id=43824534) \| 🗓️ 2025-04-28
 
 
 <br />
