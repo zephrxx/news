@@ -27,7 +27,7 @@ tags:
 <small>🔗 [bbc.com](https://www.bbc.com/news/live/c9wpq8xrvd9t): Widespread power outage in Spain and Portugal</small>
 
 
-| 🔥🔥: 1201 \| 💬: [889](https://news.ycombinator.com/item?id=43819791) \| 🗓️ 2025-04-28
+| 🔥🔥: 1227 \| 💬: [898](https://news.ycombinator.com/item?id=43819791) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [runpyxl.com](https://www.runpyxl.com/gpio): Show HN: I built a hardware processor that runs Python</small>
 
 
-| 🔥🔥: 821 \| 💬: [223](https://news.ycombinator.com/item?id=43820228) \| 🗓️ 2025-04-28
+| 🔥🔥: 836 \| 💬: [225](https://news.ycombinator.com/item?id=43820228) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [deadmoney.gg](https://deadmoney.gg/news/articles/migrating-away-from-rust): Migrating away from Rust</small>
 
 
-| 🔥🔥: 387 \| 💬: [340](https://news.ycombinator.com/item?id=43824640) \| 🗓️ 2025-04-28
+| 🔥🔥: 416 \| 💬: [366](https://news.ycombinator.com/item?id=43824640) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [qwenlm.github.io](https://qwenlm.github.io/blog/qwen3/): Qwen3: Think deeper, act faster</small>
 
 
-| 🔥🔥: 342 \| 💬: [117](https://news.ycombinator.com/item?id=43825900) \| 🗓️ 2025-04-28
+| 🔥🔥: 376 \| 💬: [144](https://news.ycombinator.com/item?id=43825900) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [blog.jacobstechtavern.com](https://blog.jacobstechtavern.com/p/the-side-hustle-from-hell): The side hustle from hell</small>
 
 
-| 🔥🔥: 271 \| 💬: [113](https://news.ycombinator.com/item?id=43823620) \| 🗓️ 2025-04-28
+| 🔥🔥: 281 \| 💬: [119](https://news.ycombinator.com/item?id=43823620) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [github.com](https://github.com/skyzh/tiny-llm): Tiny-LLM – a course of serving LLM on Apple Silicon for systems engineers</small>
 
 
-| 🔥🔥: 220 \| 💬: [24](https://news.ycombinator.com/item?id=43820022) \| 🗓️ 2025-04-28
+| 🔥🔥: 225 \| 💬: [25](https://news.ycombinator.com/item?id=43820022) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -123,7 +123,7 @@ tags:
 <small>🔗 [github.com](https://github.com/xdadda/mini-photo-editor): Show HN: A pure WebGL image editor with filters, crop and perspective correction</small>
 
 
-| 🔥🔥: 148 \| 💬: [40](https://news.ycombinator.com/item?id=43823044) \| 🗓️ 2025-04-28
+| 🔥🔥: 152 \| 💬: [45](https://news.ycombinator.com/item?id=43823044) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -135,7 +135,7 @@ tags:
 <small>🔗 [asteriskmag.com](https://asteriskmag.com/issues/10/reports-of-the-death-of-california-high-speed-rail-have-been-greatly-exaggerated): Reports of the death of California High-Speed Rail have been greatly exaggerated</small>
 
 
-| 🔥🔥: 125 \| 💬: [245](https://news.ycombinator.com/item?id=43824544) \| 🗓️ 2025-04-28
+| 🔥🔥: 131 \| 💬: [267](https://news.ycombinator.com/item?id=43824544) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -143,11 +143,23 @@ tags:
 
 ---
 
-## <a name="11"></a>11. 开源AI智能体工作流构建工具：Sim Studio 
+## <a name="11"></a>11. 百万棋盘：全球实时共弈的疯狂实验 
+<small>🔗 [eieio.games](https://eieio.games/blog/one-million-chessboards/): One Million Chessboards</small>
+
+
+| 🔥🔥: 122 \| 💬: [26](https://news.ycombinator.com/item?id=43825336) \| 🗓️ 2025-04-28
+
+
+<br />
+开发者创建了一个名为**百万棋盘**的网站，内含100万个可实时同步的象棋盘。**所有玩家可同时移动棋子**，无回合限制，且改动会即时全局生效。技术层面，该项目采用**单服务器内存存储**（64百万uint64数组），后端用Go编写，前端通过**乐观更新与回滚机制**处理冲突。这是开发者继"百万复选框"后的又一创意实验，耗时7天攻克1600行核心代码。现已在官网开放体验。
+
+---
+
+## <a name="12"></a>12. 开源AI智能体工作流构建工具：Sim Studio 
 <small>🔗 [github.com](https://github.com/simstudioai/sim): Show HN: Sim Studio – Open-Source Agent Workflow GUI</small>
 
 
-| 🔥🔥: 116 \| 💬: [38](https://news.ycombinator.com/item?id=43823096) \| 🗓️ 2025-04-28
+| 🔥🔥: 120 \| 💬: [38](https://news.ycombinator.com/item?id=43823096) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -155,11 +167,11 @@ Sim Studio是一款**开源**的AI智能体工作流构建平台，基于**Next.
 
 ---
 
-## <a name="12"></a>12. 现实检验：OpenAI的荒谬营收预言 
+## <a name="13"></a>13. 现实检验：OpenAI的荒谬营收预言 
 <small>🔗 [wheresyoured.at](https://www.wheresyoured.at/reality-check/): Reality Check</small>
 
 
-| 🔥🔥: 114 \| 💬: [89](https://news.ycombinator.com/item?id=43823492) \| 🗓️ 2025-04-28
+| 🔥🔥: 114 \| 💬: [90](https://news.ycombinator.com/item?id=43823492) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -167,7 +179,7 @@ Sim Studio是一款**开源**的AI智能体工作流构建平台，基于**Next.
 
 ---
 
-## <a name="13"></a>13. 《地海传奇》全集：勒古恩的奇幻经典 
+## <a name="14"></a>14. 《地海传奇》全集：勒古恩的奇幻经典 
 <small>🔗 [lars.ingebrigtsen.no](https://lars.ingebrigtsen.no/2025/04/28/book-club-2025-the-books-of-earthsea-by-ursula-k-le-guin/): The Books of Earthsea by Ursula K. Le Guin</small>
 
 
@@ -179,23 +191,23 @@ Sim Studio是一款**开源**的AI智能体工作流构建平台，基于**Next.
 
 ---
 
-## <a name="14"></a>14. 百万棋盘：全球实时共弈的疯狂实验 
-<small>🔗 [eieio.games](https://eieio.games/blog/one-million-chessboards/): One Million Chessboards</small>
+## <a name="15"></a>15. 12位彩虹调色板的设计与应用 
+<small>🔗 [iamkate.com](https://iamkate.com/data/12-bit-rainbow/): The 12-bit rainbow palette</small>
 
 
-| 🔥🔥: 102 \| 💬: [22](https://news.ycombinator.com/item?id=43825336) \| 🗓️ 2025-04-28
+| 🔥🔥: 102 \| 💬: [35](https://news.ycombinator.com/item?id=43827108) \| 🗓️ 2025-04-28
 
 
 <br />
-开发者创建了一个名为**百万棋盘**的网站，内含100万个可实时同步的象棋盘。**所有玩家可同时移动棋子**，无回合限制，且改动会即时全局生效。技术层面，该项目采用**单服务器内存存储**（64百万uint64数组），后端用Go编写，前端通过**乐观更新与回滚机制**处理冲突。这是开发者继"百万复选框"后的又一创意实验，耗时7天攻克1600行核心代码。现已在官网开放体验。
+本文介绍了专为National Grid: Live设计的**12位彩虹调色板**，包含12种颜色，兼顾**人眼对亮度、色度和色调的感知**。采用12位色深，每个颜色仅需4字符的十六进制代码（如`#817`）。传统RGB调色板的亮度差异明显，而**LCH色彩空间**通过调整亮度、色度和色调实现更均匀的视觉表现。通过动态调整亮度（如黄色最亮），并控制色度与色调变化，最终生成色彩平滑过渡的调色板。
 
 ---
 
-## <a name="15"></a>15. 免费发布软件的最佳实践 
+## <a name="16"></a>16. 免费发布软件的最佳实践 
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/Apr/28/give-it-away-for-free/): Giving Software Away for Free</small>
 
 
-| 🔥: 76 \| 💬: [47](https://news.ycombinator.com/item?id=43824153) \| 🗓️ 2025-04-28
+| 🔥: 78 \| 💬: [47](https://news.ycombinator.com/item?id=43824153) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -203,35 +215,11 @@ Sim Studio是一款**开源**的AI智能体工作流构建平台，基于**Next.
 
 ---
 
-## <a name="16"></a>16. 我们在车祸数据中发现了保险欺诈 
-<small>🔗 [levs.fyi](https://www.levs.fyi/blog/we-found-insurance-fraud-in-our-crash-data/): We Found Insurance Fraud in Our Crash Data</small>
-
-
-| 🔥: 70 \| 💬: [68](https://news.ycombinator.com/item?id=43821578) \| 🗓️ 2025-04-28
-
-
-<br />
-Matrisk AI团队在构建车辆碰撞地理风险评分时，意外通过**车辆识别码（VIN）**和事故时间轴发现了潜在的保险欺诈模式。分析约1500万起事故后，他们识别出可疑特征：**同一车辆6个月内多次事故**、**频繁更换保险公司**、**夜间单车无证人碰撞**等。例如，某车辆3次事故均发生在低流量时段，且保险公司在事故前快速切换。虽然无法直接定罪，但这些异常模式为保险公司调查提供了重要线索，揭示了数据在识别欺诈中的价值。
-
----
-
-## <a name="17"></a>17. 视觉Transformer需要寄存器 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2309.16588): Vision Transformers Need Registers</small>
-
-
-| 🔥: 70 \| 💬: [8](https://news.ycombinator.com/item?id=43823485) \| 🗓️ 2025-04-28
-
-
-<br />
-该论文发现**监督学习和自监督学习**的ViT网络在特征图中存在**高范数令牌**的伪影，这些令牌通常出现在图像低信息量的背景区域。作者提出通过向输入序列添加额外令牌（寄存器）来解决问题。该方法不仅修复了特征图异常，还在密集视觉预测任务中刷新了自监督模型的**SOTA性能**，同时提升了特征图和注意力图的下游处理效果。
-
----
-
-## <a name="18"></a>18. AI营销泛滥时代，出站销售将走向终结？ 
+## <a name="17"></a>17. AI营销泛滥时代，出站销售将走向终结？ 
 <small>🔗 [rnikhil.com](https://rnikhil.com/2025/04/25/sales-outbound-ai-dead): Is outbound going to die?</small>
 
 
-| 🔥: 68 \| 💬: [73](https://news.ycombinator.com/item?id=43823851) \| 🗓️ 2025-04-28
+| 🔥: 76 \| 💬: [84](https://news.ycombinator.com/item?id=43823851) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -239,11 +227,11 @@ AI驱动的销售工具正以**超个性化内容**和**海量触达**重塑营�
 
 ---
 
-## <a name="19"></a>19. GitHub下架破解OnlyFans DRM的Widevine项目 
+## <a name="18"></a>18. GitHub下架破解OnlyFans DRM的Widevine项目 
 <small>🔗 [torrentfreak.com](https://torrentfreak.com/drm-free-onlyfans-downloads-see-widevine-project-nuked-from-github-250428/): DRM-Free OnlyFans Downloads See Widevine Project Nuked from GitHub</small>
 
 
-| 🔥: 68 \| 💬: [19](https://news.ycombinator.com/item?id=43825716) \| 🗓️ 2025-04-28
+| 🔥: 74 \| 💬: [21](https://news.ycombinator.com/item?id=43825716) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -251,15 +239,27 @@ AI驱动的销售工具正以**超个性化内容**和**海量触达**重塑营�
 
 ---
 
-## <a name="20"></a>20. 12位彩虹调色板的设计与应用 
-<small>🔗 [iamkate.com](https://iamkate.com/data/12-bit-rainbow/): The 12-bit rainbow palette</small>
+## <a name="19"></a>19. 视觉Transformer需要寄存器 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2309.16588): Vision Transformers Need Registers</small>
 
 
-| 🔥: 65 \| 💬: [20](https://news.ycombinator.com/item?id=43827108) \| 🗓️ 2025-04-28
+| 🔥: 73 \| 💬: [9](https://news.ycombinator.com/item?id=43823485) \| 🗓️ 2025-04-28
 
 
 <br />
-本文介绍了专为National Grid: Live设计的**12位彩虹调色板**，包含12种颜色，兼顾**人眼对亮度、色度和色调的感知**。采用12位色深，每个颜色仅需4字符的十六进制代码（如`#817`）。传统RGB调色板的亮度差异明显，而**LCH色彩空间**通过调整亮度、色度和色调实现更均匀的视觉表现。通过动态调整亮度（如黄色最亮），并控制色度与色调变化，最终生成色彩平滑过渡的调色板。
+该论文发现**监督学习和自监督学习**的ViT网络在特征图中存在**高范数令牌**的伪影，这些令牌通常出现在图像低信息量的背景区域。作者提出通过向输入序列添加额外令牌（寄存器）来解决问题。该方法不仅修复了特征图异常，还在密集视觉预测任务中刷新了自监督模型的**SOTA性能**，同时提升了特征图和注意力图的下游处理效果。
+
+---
+
+## <a name="20"></a>20. 我们在车祸数据中发现了保险欺诈 
+<small>🔗 [levs.fyi](https://www.levs.fyi/blog/we-found-insurance-fraud-in-our-crash-data/): We Found Insurance Fraud in Our Crash Data</small>
+
+
+| 🔥: 71 \| 💬: [68](https://news.ycombinator.com/item?id=43821578) \| 🗓️ 2025-04-28
+
+
+<br />
+Matrisk AI团队在构建车辆碰撞地理风险评分时，意外通过**车辆识别码（VIN）**和事故时间轴发现了潜在的保险欺诈模式。分析约1500万起事故后，他们识别出可疑特征：**同一车辆6个月内多次事故**、**频繁更换保险公司**、**夜间单车无证人碰撞**等。例如，某车辆3次事故均发生在低流量时段，且保险公司在事故前快速切换。虽然无法直接定罪，但这些异常模式为保险公司调查提供了重要线索，揭示了数据在识别欺诈中的价值。
 
 ---
 
@@ -275,7 +275,19 @@ AI驱动的销售工具正以**超个性化内容**和**海量触达**重塑营�
 
 ---
 
-## <a name="22"></a>22. 葡萄牙和西班牙全国停电导致互联网中断 
+## <a name="22"></a>22. 首款iOS心率区间分析工具：Heart Rate Zones Plus 
+<small>🔗 [apps.apple.com](https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232): Show HN: Heart Rate Zones Plus – The first iOS app I ever developed</small>
+
+
+| 🔥: 55 \| 💬: [33](https://news.ycombinator.com/item?id=43824583) \| 🗓️ 2025-04-28
+
+
+<br />
+这是一款专注于**心率区间追踪**的iOS健康应用，开发者Tobias Willmann通过Apple HealthKit获取数据，**不收集用户隐私**。核心功能包括：自定义时段（日/周/月）的**五大心率区间统计**、运动类型与区间关联分析、多种科学计算最大心率公式（含性别差异），以及个性化目标设定。支持深色/浅色模式，适合运动员、康复者及量化自我爱好者，通过可视化进度条帮助用户**精准优化训练强度**。应用仅6.6MB，免费下载。
+
+---
+
+## <a name="23"></a>23. 葡萄牙和西班牙全国停电导致互联网中断 
 <small>🔗 [twitter.com](https://twitter.com/CloudflareRadar/status/1916811587408536055): Nationwide Power Outages Also Disrupt Internet Traffic in Portugal and Spain</small>
 
 
@@ -287,23 +299,11 @@ AI驱动的销售工具正以**超个性化内容**和**海量触达**重塑营�
 
 ---
 
-## <a name="23"></a>23. 首款iOS心率区间分析工具：Heart Rate Zones Plus 
-<small>🔗 [apps.apple.com](https://apps.apple.com/us/app/heart-rate-zones-plus/id6744743232): Show HN: Heart Rate Zones Plus – The first iOS app I ever developed</small>
-
-
-| 🔥: 52 \| 💬: [32](https://news.ycombinator.com/item?id=43824583) \| 🗓️ 2025-04-28
-
-
-<br />
-这是一款专注于**心率区间追踪**的iOS健康应用，开发者Tobias Willmann通过Apple HealthKit获取数据，**不收集用户隐私**。核心功能包括：自定义时段（日/周/月）的**五大心率区间统计**、运动类型与区间关联分析、多种科学计算最大心率公式（含性别差异），以及个性化目标设定。支持深色/浅色模式，适合运动员、康复者及量化自我爱好者，通过可视化进度条帮助用户**精准优化训练强度**。应用仅6.6MB，免费下载。
-
----
-
 ## <a name="24"></a>24. OpenAI推出购物功能，直接挑战谷歌购物搜索 
 <small>🔗 [wired.com](https://www.wired.com/story/openai-adds-shopping-to-chatgpt/): OpenAI Adds Shopping to ChatGPT in a Challenge to Google</small>
 
 
-| 🔥: 45 \| 💬: [14](https://news.ycombinator.com/item?id=43824952) \| 🗓️ 2025-04-28
+| 🔥: 51 \| 💬: [14](https://news.ycombinator.com/item?id=43824952) \| 🗓️ 2025-04-28
 
 
 <br />
@@ -315,7 +315,7 @@ OpenAI宣布ChatGPT将新增**购物按钮**，用户可通过AI搜索直接购�
 <small>🔗 [talyarkoni.org](https://talyarkoni.org/blog/2018/10/02/no-its-not-the-incentives-its-you/): It's Not the Incentives (2018)</small>
 
 
-| 🔥: 44 \| 💬: [48](https://news.ycombinator.com/item?id=43824534) \| 🗓️ 2025-04-28
+| 🔥: 45 \| 💬: [48](https://news.ycombinator.com/item?id=43824534) \| 🗓️ 2025-04-28
 
 
 <br />
