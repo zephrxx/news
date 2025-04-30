@@ -9,14 +9,14 @@ tags:
 
 
 1. 亚马逊将向消费者展示关税成本；
-1. 经济学家：生成式AI尚未影响就业与工资水平；
 1. 递归思维链：让AI自我辩论以提升思考能力；
+1. 经济学家：生成式AI尚未影响就业与工资水平；
 1. 印度法院下令封禁Proton Mail加密邮箱服务；
-1. 性能优化为何如此艰难？本质是暴力穷举的苦差；
+1. 亚马逊RDS for PostgreSQL 17.4的隔离级别异常分析；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共18条，具体内容您往下读...
+总共19条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [punchbowl.news](https://punchbowl.news/article/tech/amazon-display-tariff-costs/): Amazon to display tariff costs for consumers</small>
 
 
-| 🔥🔥: 432 \| 💬: [397](https://news.ycombinator.com/item?id=43831027) \| 🗓️ 2025-04-29
+| 🔥🔥: 434 \| 💬: [399](https://news.ycombinator.com/item?id=43831027) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -35,23 +35,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. 经济学家：生成式AI尚未影响就业与工资水平 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/04/29/generative_ai_no_effect_jobs_wages/): Generative AI is not replacing jobs or hurting wages at all, say economists</small>
-
-
-| 🔥🔥: 308 \| 💬: [451](https://news.ycombinator.com/item?id=43830613) \| 🗓️ 2025-04-29
-
-
-<br />
-一项针对丹麦11个职业的研究显示，**生成式AI**（如ChatGPT等）目前对工资和工作时长的影响微乎其微。尽管AI工具被广泛采用，但**实际经济效益**有限，仅节省约2.8%的工作时间，且部分被新增任务抵消。研究指出，企业投入与工人收益之间存在差距，仅3%-7%的生产力提升转化为工资增长。专家认为，AI的**变革性潜力**尚未在短期内显现。
-
----
-
-## <a name="3"></a>3. 递归思维链：让AI自我辩论以提升思考能力 
+## <a name="2"></a>2. 递归思维链：让AI自我辩论以提升思考能力 
 <small>🔗 [github.com](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts): Chain of Recursive Thoughts: Make AI think harder by making it argue with itself</small>
 
 
-| 🔥🔥: 305 \| 💬: [150](https://news.ycombinator.com/item?id=43835445) \| 🗓️ 2025-04-29
+| 🔥🔥: 324 \| 💬: [160](https://news.ycombinator.com/item?id=43835445) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -59,11 +47,23 @@ tags:
 
 ---
 
+## <a name="3"></a>3. 经济学家：生成式AI尚未影响就业与工资水平 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/04/29/generative_ai_no_effect_jobs_wages/): Generative AI is not replacing jobs or hurting wages at all, say economists</small>
+
+
+| 🔥🔥: 310 \| 💬: [453](https://news.ycombinator.com/item?id=43830613) \| 🗓️ 2025-04-29
+
+
+<br />
+一项针对丹麦11个职业的研究显示，**生成式AI**（如ChatGPT等）目前对工资和工作时长的影响微乎其微。尽管AI工具被广泛采用，但**实际经济效益**有限，仅节省约2.8%的工作时间，且部分被新增任务抵消。研究指出，企业投入与工人收益之间存在差距，仅3%-7%的生产力提升转化为工资增长。专家认为，AI的**变革性潜力**尚未在短期内显现。
+
+---
+
 ## <a name="4"></a>4. 印度法院下令封禁Proton Mail加密邮箱服务 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/): Indian court orders blocking of Proton Mail</small>
 
 
-| 🔥🔥: 255 \| 💬: [106](https://news.ycombinator.com/item?id=43834942) \| 🗓️ 2025-04-29
+| 🔥🔥: 275 \| 💬: [114](https://news.ycombinator.com/item?id=43834942) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -71,35 +71,11 @@ tags:
 
 ---
 
-## <a name="5"></a>5. 性能优化为何如此艰难？本质是暴力穷举的苦差 
-<small>🔗 [purplesyringa.moe](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/): Performance optimization is hard because it's fundamentally a brute-force task</small>
-
-
-| 🔥🔥: 196 \| 💬: [92](https://news.ycombinator.com/item?id=43831705) \| 🗓️ 2025-04-29
-
-
-<br />
-性能优化的核心难点在于其**暴力穷举**的本质：需测试大量代码变体（如25种算法组合）才能确定最优方案，且优化策略可能相互冲突（如组合后反而性能下降）。**硬件反直觉行为**（如分支预测失败、向量化意外提速）和**工具链缺陷**（编译器无法理解高阶抽象、缺乏Apple Silicon详细文档）加剧了复杂性。尽管可通过团队协作分摊工作量，但最终仍需依赖**反复试错**与性能分析，而微小的改动（如概率分支阈值）可能导致显著性能波动。作者认为，即使10%的优化也是艺术，其累积效应能显著提升用户体验。
-
----
-
-## <a name="6"></a>6. 一键拒绝非必要Cookie的Chrome扩展 
-<small>🔗 [blog.bymitch.com](https://blog.bymitch.com/posts/reject-cookies/): Show HN: A Chrome extension that will auto-reject non-essential cookies</small>
-
-
-| 🔥🔥: 192 \| 💬: [121](https://news.ycombinator.com/item?id=43831298) \| 🗓️ 2025-04-29
-
-
-<br />
-这款Chrome扩展旨在**自动拒绝非必要Cookie**，解决用户频繁手动关闭Cookie弹窗的痛点。与现有自动接受Cookie的扩展不同，它优先尝试**拒绝Cookie**，失败则直接关闭弹窗，符合**GDPR**和《电子隐私指令》要求。扩展通过识别主流Cookie管理平台（如OneTrust）的特定元素实现功能，代码已开源。目前支持有限，鼓励用户反馈未覆盖的网站或问题，帮助完善功能。
-
----
-
-## <a name="7"></a>7. 亚马逊RDS for PostgreSQL 17.4的隔离级别异常分析 
+## <a name="5"></a>5. 亚马逊RDS for PostgreSQL 17.4的隔离级别异常分析 
 <small>🔗 [jepsen.io](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4): Jepsen: Amazon RDS for PostgreSQL 17.4</small>
 
 
-| 🔥🔥: 180 \| 💬: [53](https://news.ycombinator.com/item?id=43833195) \| 🗓️ 2025-04-29
+| 🔥🔥: 204 \| 💬: [62](https://news.ycombinator.com/item?id=43833195) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -107,11 +83,35 @@ tags:
 
 ---
 
+## <a name="6"></a>6. 性能优化为何如此艰难？本质是暴力穷举的苦差 
+<small>🔗 [purplesyringa.moe](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/): Performance optimization is hard because it's fundamentally a brute-force task</small>
+
+
+| 🔥🔥: 202 \| 💬: [93](https://news.ycombinator.com/item?id=43831705) \| 🗓️ 2025-04-29
+
+
+<br />
+性能优化的核心难点在于其**暴力穷举**的本质：需测试大量代码变体（如25种算法组合）才能确定最优方案，且优化策略可能相互冲突（如组合后反而性能下降）。**硬件反直觉行为**（如分支预测失败、向量化意外提速）和**工具链缺陷**（编译器无法理解高阶抽象、缺乏Apple Silicon详细文档）加剧了复杂性。尽管可通过团队协作分摊工作量，但最终仍需依赖**反复试错**与性能分析，而微小的改动（如概率分支阈值）可能导致显著性能波动。作者认为，即使10%的优化也是艺术，其累积效应能显著提升用户体验。
+
+---
+
+## <a name="7"></a>7. 一键拒绝非必要Cookie的Chrome扩展 
+<small>🔗 [blog.bymitch.com](https://blog.bymitch.com/posts/reject-cookies/): Show HN: A Chrome extension that will auto-reject non-essential cookies</small>
+
+
+| 🔥🔥: 196 \| 💬: [121](https://news.ycombinator.com/item?id=43831298) \| 🗓️ 2025-04-29
+
+
+<br />
+这款Chrome扩展旨在**自动拒绝非必要Cookie**，解决用户频繁手动关闭Cookie弹窗的痛点。与现有自动接受Cookie的扩展不同，它优先尝试**拒绝Cookie**，失败则直接关闭弹窗，符合**GDPR**和《电子隐私指令》要求。扩展通过识别主流Cookie管理平台（如OneTrust）的特定元素实现功能，代码已开源。目前支持有限，鼓励用户反馈未覆盖的网站或问题，帮助完善功能。
+
+---
+
 ## <a name="8"></a>8. Beatsync：跨设备精准同步音频的开源工具 
 <small>🔗 [github.com](https://github.com/freeman-jiang/beatsync): Show HN: Beatsync – perfect audio sync across multiple devices</small>
 
 
-| 🔥🔥: 158 \| 💬: [46](https://news.ycombinator.com/item?id=43835584) \| 🗓️ 2025-04-29
+| 🔥🔥: 173 \| 💬: [48](https://news.ycombinator.com/item?id=43835584) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -123,7 +123,7 @@ Beatsync是一款基于网页的**高精度音频播放器**，专为多设备�
 <small>🔗 [blog.tylerglaiel.com](https://blog.tylerglaiel.com/p/programming-languages-should-have): Programming languages should have a tree traversal primitive</small>
 
 
-| 🔥🔥: 157 \| 💬: [126](https://news.ycombinator.com/item?id=43831628) \| 🗓️ 2025-04-29
+| 🔥🔥: 170 \| 💬: [133](https://news.ycombinator.com/item?id=43831628) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -131,11 +131,23 @@ Beatsync是一款基于网页的**高精度音频播放器**，专为多设备�
 
 ---
 
-## <a name="10"></a>10. 开发者漠不关心，我连房租都交不起了 
+## <a name="10"></a>10. Waymo与丰田合作 推动个人自动驾驶汽车发展 
+<small>🔗 [waymo.com](https://waymo.com/blog/2025/04/waymo-and-toyota-outline-strategic-partnership): Waymo partners with Toyota to bring autonomous driving to personal vehicles</small>
+
+
+| 🔥🔥: 159 \| 💬: [103](https://news.ycombinator.com/item?id=43839123) \| 🗓️ 2025-04-29
+
+
+<br />
+丰田汽车与Waymo达成初步协议，将共同探索**自动驾驶技术**的开发与部署。合作将整合Waymo的自动驾驶系统和丰田的车辆制造优势，重点提升**个人车辆（POV）**的智能化水平。双方致力于通过技术创新提升道路安全，并推动丰田“零交通事故”愿景的实现。Waymo作为全球自动驾驶领导者，已在美国多地运营数十万次自动驾驶服务，事故率较人类驾驶降低81%。此次合作或将为丰田车主带来Waymo的**自动驾驶技术**，进一步普及安全出行方案。
+
+---
+
+## <a name="11"></a>11. 开发者漠不关心，我连房租都交不起了 
 <small>🔗 [happyfellow.bearblog.dev](https://happyfellow.bearblog.dev/i-cant-pay-rent-because-devs-just-dont-care/): I can't pay rent because devs just don't care</small>
 
 
-| 🔥🔥: 134 \| 💬: [110](https://news.ycombinator.com/item?id=43836619) \| 🗓️ 2025-04-29
+| 🔥🔥: 139 \| 💬: [115](https://news.ycombinator.com/item?id=43836619) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -143,11 +155,11 @@ Beatsync是一款基于网页的**高精度音频播放器**，专为多设备�
 
 ---
 
-## <a name="11"></a>11. 如何培养内在动机：科学研究的启示 
+## <a name="12"></a>12. 如何培养内在动机：科学研究的启示 
 <small>🔗 [erringtowardsanswers.substack.com](https://erringtowardsanswers.substack.com/p/intrinsic-motivation): How to build Intrinsic Motivation: a review of the science</small>
 
 
-| 🔥🔥: 131 \| 💬: [29](https://news.ycombinator.com/item?id=43830544) \| 🗓️ 2025-04-29
+| 🔥🔥: 131 \| 💬: [30](https://news.ycombinator.com/item?id=43830544) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -155,11 +167,11 @@ Beatsync是一款基于网页的**高精度音频播放器**，专为多设备�
 
 ---
 
-## <a name="12"></a>12. ArkFlow：基于 Rust 的高性能流处理引擎 
+## <a name="13"></a>13. ArkFlow：基于 Rust 的高性能流处理引擎 
 <small>🔗 [github.com](https://github.com/arkflow-rs/arkflow): ArkFlow: High-performance Rust stream processing engine</small>
 
 
-| 🔥🔥: 125 \| 💬: [27](https://news.ycombinator.com/item?id=43833310) \| 🗓️ 2025-04-29
+| 🔥🔥: 127 \| 💬: [27](https://news.ycombinator.com/item?id=43833310) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -167,35 +179,11 @@ ArkFlow 是一个用 **Rust** 开发的高性能流处理引擎，支持多数�
 
 ---
 
-## <a name="13"></a>13. 苏联金星探测器残骸53年后将失控坠回地球 
-<small>🔗 [gizmodo.com](https://gizmodo.com/after-53-years-a-failed-soviet-venus-spacecraft-is-crashing-back-to-earth-2000595234): After 53 years, a failed Soviet Venus spacecraft is crashing back to Earth</small>
-
-
-| 🔥🔥: 120 \| 💬: [43](https://news.ycombinator.com/item?id=43831602) \| 🗓️ 2025-04-29
-
-
-<br />
-1972年苏联发射的**金星探测器"宇宙482号"**因推进故障未能脱离地球轨道，其重达495公斤的着陆舱预计在2025年5月10日左右失控再入大气层。由于该设备原设计可承受金星高温大气，专家警告**部分残骸可能完整撞击地表**，但风险等级接近陨石概率。目前坠落时间和地点仍受太阳活动影响难以精确预测，但大概率会坠入无人海域。这是冷战时期航天遗产的意外回归。
-
----
-
-## <a name="14"></a>14. Pyrefly：用Rust编写的更快Python类型检查器 
-<small>🔗 [pyrefly.org](https://pyrefly.org/): Pyrefly - A faster Python type checker written in Rust</small>
-
-
-| 🔥🔥: 115 \| 💬: [65](https://news.ycombinator.com/item?id=43831524) \| 🗓️ 2025-04-29
-
-
-<br />
-Pyrefly是一款基于**Rust**开发的Python类型检查工具，旨在显著提升类型检查速度。通过利用Rust的高性能特性，它能够比传统Python工具（如mypy）更高效地处理代码分析。该项目专注于**静态类型验证**，适合大型代码库，同时保持与现有Python类型注解的兼容性。开发者可借此优化工作流，减少等待时间。
-
----
-
-## <a name="15"></a>15. Bamba：开源混合模型，突破Transformer的二次方瓶颈 
+## <a name="14"></a>14. Bamba：开源混合模型，突破Transformer的二次方瓶颈 
 <small>🔗 [research.ibm.com](https://research.ibm.com/blog/bamba-ssm-transformer-model): Bamba: An open-source LLM that crosses a transformer with an SSM</small>
 
 
-| 🔥🔥: 110 \| 💬: [34](https://news.ycombinator.com/item?id=43835495) \| 🗓️ 2025-04-29
+| 🔥🔥: 123 \| 💬: [36](https://news.ycombinator.com/item?id=43835495) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -203,11 +191,35 @@ IBM开源了**Bamba**，一种结合**Transformer**与**状态空间模型（SSM
 
 ---
 
-## <a name="16"></a>16. 什么是"诱发大气振动"？ 
+## <a name="15"></a>15. 苏联金星探测器残骸53年后将失控坠回地球 
+<small>🔗 [gizmodo.com](https://gizmodo.com/after-53-years-a-failed-soviet-venus-spacecraft-is-crashing-back-to-earth-2000595234): After 53 years, a failed Soviet Venus spacecraft is crashing back to Earth</small>
+
+
+| 🔥🔥: 121 \| 💬: [44](https://news.ycombinator.com/item?id=43831602) \| 🗓️ 2025-04-29
+
+
+<br />
+1972年苏联发射的**金星探测器"宇宙482号"**因推进故障未能脱离地球轨道，其重达495公斤的着陆舱预计在2025年5月10日左右失控再入大气层。由于该设备原设计可承受金星高温大气，专家警告**部分残骸可能完整撞击地表**，但风险等级接近陨石概率。目前坠落时间和地点仍受太阳活动影响难以精确预测，但大概率会坠入无人海域。这是冷战时期航天遗产的意外回归。
+
+---
+
+## <a name="16"></a>16. Pyrefly：用Rust编写的更快Python类型检查器 
+<small>🔗 [pyrefly.org](https://pyrefly.org/): Pyrefly - A faster Python type checker written in Rust</small>
+
+
+| 🔥🔥: 117 \| 💬: [66](https://news.ycombinator.com/item?id=43831524) \| 🗓️ 2025-04-29
+
+
+<br />
+Pyrefly是一款基于**Rust**开发的Python类型检查工具，旨在显著提升类型检查速度。通过利用Rust的高性能特性，它能够比传统Python工具（如mypy）更高效地处理代码分析。该项目专注于**静态类型验证**，适合大型代码库，同时保持与现有Python类型注解的兼容性。开发者可借此优化工作流，减少等待时间。
+
+---
+
+## <a name="17"></a>17. 什么是"诱发大气振动"？ 
 <small>🔗 [physics.stackexchange.com](https://physics.stackexchange.com/questions/848666/what-is-induced-atmospheric-vibration): What Is "Induced Atmospheric Vibration"?</small>
 
 
-| 🔥: 99 \| 💬: [53](https://news.ycombinator.com/item?id=43831708) \| 🗓️ 2025-04-29
+| 🔥: 99 \| 💬: [54](https://news.ycombinator.com/item?id=43831708) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -219,11 +231,11 @@ IBM开源了**Bamba**，一种结合**Transformer**与**状态空间模型（SSM
 
 ---
 
-## <a name="17"></a>17. Meta推出基于Llama 4的AI语音助手应用 
+## <a name="18"></a>18. Meta推出基于Llama 4的AI语音助手应用 
 <small>🔗 [about.fb.com](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/): Meta AI App built with Llama 4</small>
 
 
-| 🔥: 88 \| 💬: [100](https://news.ycombinator.com/item?id=43833783) \| 🗓️ 2025-04-29
+| 🔥: 89 \| 💬: [100](https://news.ycombinator.com/item?id=43833783) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -231,7 +243,7 @@ Meta发布全新**Meta AI应用**，内置**Llama 4**模型，主打语音交互
 
 ---
 
-## <a name="18"></a>18. 日本推出全球首款太阳能超级面板 
+## <a name="19"></a>19. 日本推出全球首款太阳能超级面板 
 <small>🔗 [japanenergyevent.com](https://www.japanenergyevent.com/media-insights-hub/industry-news/japan-unveils-world-s-first-solar-super-panel-more-powerful-than-20-nuclear-reactors/): Japan unveils first solar super-panel</small>
 
 
