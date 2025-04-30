@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共18条，具体内容您往下读...
+总共23条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [jayd.ml](https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html): Someone at YouTube needs glasses</small>
 
 
-| 🔥🔥: 793 \| 💬: [463](https://news.ycombinator.com/item?id=43846487) \| 🗓️ 2025-04-30
+| 🔥🔥: 860 \| 💬: [491](https://news.ycombinator.com/item?id=43846487) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [yle.fi](https://yle.fi/a/74-20158886): Finland Bans Smartphones in Schools</small>
 
 
-| 🔥🔥: 697 \| 💬: [426](https://news.ycombinator.com/item?id=43842856) \| 🗓️ 2025-04-30
+| 🔥🔥: 705 \| 💬: [434](https://news.ycombinator.com/item?id=43842856) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/29/port-of-los-angeles-sees-shipping-volume-down-35percent-next-week-as-tariffs-bite.html): Port of Los Angeles says shipping volume will plummet 35% next week</small>
 
 
-| 🔥🔥: 576 \| 💬: [515](https://news.ycombinator.com/item?id=43844708) \| 🗓️ 2025-04-30
+| 🔥🔥: 610 \| 💬: [531](https://news.ycombinator.com/item?id=43844708) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [github.com](https://github.com/XiaomiMiMo/MiMo): Xiaomi MiMo Reasoning Model</small>
 
 
-| 🔥🔥: 371 \| 💬: [142](https://news.ycombinator.com/item?id=43842683) \| 🗓️ 2025-04-30
+| 🔥🔥: 377 \| 💬: [143](https://news.ycombinator.com/item?id=43842683) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [fortune.com](https://fortune.com/article/retailers-weeks-of-inventory-left-trump-china-trade-war/): Retailers will soon have only about 7 weeks of full inventories left</small>
 
 
-| 🔥🔥: 341 \| 💬: [524](https://news.ycombinator.com/item?id=43843821) \| 🗓️ 2025-04-30
+| 🔥🔥: 376 \| 💬: [587](https://news.ycombinator.com/item?id=43843821) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [anildash.com](https://www.anildash.com//2025/04/19/ai-first-is-the-new-return-to-office/): "AI-first" is the new Return To Office</small>
 
 
-| 🔥🔥: 268 \| 💬: [158](https://news.ycombinator.com/item?id=43845089) \| 🗓️ 2025-04-30
+| 🔥🔥: 276 \| 💬: [167](https://news.ycombinator.com/item?id=43845089) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [github.com](https://github.com/deepseek-ai/DeepSeek-Prover-V2): DeepSeek-Prover-V2</small>
 
 
-| 🔥🔥: 243 \| 💬: [48](https://news.ycombinator.com/item?id=43847432) \| 🗓️ 2025-04-30
+| 🔥🔥: 259 \| 💬: [49](https://news.ycombinator.com/item?id=43847432) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -111,7 +111,7 @@ DeepSeek-Prover-V2 是一款专为 **Lean 4** 形式化定理证明设计的开�
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/04/29/us/politics/trump-crypto-world-liberty-financial.html): Secret Deals, Foreign Investments: The Rise of Trump’s Crypto Firm</small>
 
 
-| 🔥🔥: 216 \| 💬: [136](https://news.ycombinator.com/item?id=43843621) \| 🗓️ 2025-04-30
+| 🔥🔥: 219 \| 💬: [138](https://news.ycombinator.com/item?id=43843621) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -123,7 +123,7 @@ DeepSeek-Prover-V2 是一款专为 **Lean 4** 形式化定理证明设计的开�
 <small>🔗 [blog.google](https://blog.google/technology/google-labs/notebooklm-audio-overviews-50-languages/): NotebookLM Audio Overviews are now available in over 50 languages</small>
 
 
-| 🔥🔥: 175 \| 💬: [47](https://news.ycombinator.com/item?id=43848325) \| 🗓️ 2025-04-30
+| 🔥🔥: 192 \| 💬: [52](https://news.ycombinator.com/item?id=43848325) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -131,23 +131,11 @@ NotebookLM的**音频概述**功能新增支持超过50种语言，包括南非�
 
 ---
 
-## <a name="10"></a>10. 40年前加入Sun微系统的传奇经历 
-<small>🔗 [akapugs.blog](https://akapugs.blog/2022/05/03/674/): Joining Sun Microsystems – 40 years ago (2022)</small>
-
-
-| 🔥🔥: 146 \| 💬: [104](https://news.ycombinator.com/item?id=43846187) \| 🗓️ 2025-04-30
-
-
-<br />
-1982年5月3日，作者作为**第8号员工**加入初创公司Sun Microsystems。此前他在Amdahl公司从事UNIX移植工作，因对创业热潮心动而主动寻找机会。凭借**UNIX技术背景**和兄弟在Xerox的工作站经验，他敏锐关注到斯坦福的SUN项目。经Bill Joy推荐，Scott McNealy邀他面试，最终因**Bill Joy的加盟**和Sun的技术愿景选择加入。早期团队在Santa Clara办公，他成功修复磁盘驱动bug，助力Sun-1发货。一年后，Sun已成长为拥有Mountain View新园区、大量搭载BSD UNIX和以太网的工作站明星企业。
-
----
-
-## <a name="11"></a>11. 谷歌应用商店应用数量一年内暴跌47% 
+## <a name="10"></a>10. 谷歌应用商店应用数量一年内暴跌47% 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/04/29/google-play-sees-47-decline-in-apps-since-start-of-last-year/): Google Play sees 47% decline in apps since start of last year</small>
 
 
-| 🔥🔥: 106 \| 💬: [43](https://news.ycombinator.com/item?id=43849383) \| 🗓️ 2025-04-30
+| 🔥🔥: 166 \| 💬: [82](https://news.ycombinator.com/item?id=43849383) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -155,11 +143,35 @@ NotebookLM的**音频概述**功能新增支持超过50种语言，包括南非�
 
 ---
 
-## <a name="12"></a>12. OCaml的机器学习翅膀：Raven生态系统 
+## <a name="11"></a>11. 40年前加入Sun微系统的传奇经历 
+<small>🔗 [akapugs.blog](https://akapugs.blog/2022/05/03/674/): Joining Sun Microsystems – 40 years ago (2022)</small>
+
+
+| 🔥🔥: 152 \| 💬: [117](https://news.ycombinator.com/item?id=43846187) \| 🗓️ 2025-04-30
+
+
+<br />
+1982年5月3日，作者作为**第8号员工**加入初创公司Sun Microsystems。此前他在Amdahl公司从事UNIX移植工作，因对创业热潮心动而主动寻找机会。凭借**UNIX技术背景**和兄弟在Xerox的工作站经验，他敏锐关注到斯坦福的SUN项目。经Bill Joy推荐，Scott McNealy邀他面试，最终因**Bill Joy的加盟**和Sun的技术愿景选择加入。早期团队在Santa Clara办公，他成功修复磁盘驱动bug，助力Sun-1发货。一年后，Sun已成长为拥有Mountain View新园区、大量搭载BSD UNIX和以太网的工作站明星企业。
+
+---
+
+## <a name="12"></a>12. JetBrains因删除AI助手差评引发争议 
+<small>🔗 [devclass.com](https://devclass.com/2025/04/30/jetbrains-defends-removal-of-negative-reviews-for-unpopular-ai-assistant/): JetBrains defends removal of negative reviews for unpopular AI Assistant</small>
+
+
+| 🔥: 99 \| 💬: [45](https://news.ycombinator.com/item?id=43850377) \| 🗓️ 2025-04-30
+
+
+<br />
+JetBrains为其在插件市场删除**AI助手**的负面评价辩护，称此举或因内容过时，或违反政策（如含辱骂）。该工具下载量超2200万次，但评分仅2.3/5。用户指责公司**删除差评**损害信任，而官方解释称已修复提及的问题。争议暴露了该助手的诸多缺陷，如**强制安装**、高延迟和功能限制。同期推出的新AI工具Junie虽获好评，但被指定价过高。JetBrains面临开发者工具市场竞争压力，需平衡免费策略与付费模式。
+
+---
+
+## <a name="13"></a>13. OCaml的机器学习翅膀：Raven生态系统 
 <small>🔗 [github.com](https://github.com/raven-ml/raven): OCaml's Wings for Machine Learning</small>
 
 
-| 🔥: 95 \| 💬: [47](https://news.ycombinator.com/item?id=43844279) \| 🗓️ 2025-04-30
+| 🔥: 96 \| 💬: [49](https://news.ycombinator.com/item?id=43844279) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -167,11 +179,11 @@ Raven是一个为OCaml打造的**机器学习与数据科学**工具集，旨在
 
 ---
 
-## <a name="13"></a>13. 机械联动与铰链实现的可逆计算 
+## <a name="14"></a>14. 机械联动与铰链实现的可逆计算 
 <small>🔗 [tennysontbardwell.com](https://tennysontbardwell.com/blog/2025/04/30/mechanical-computing/index.html): Reversible computing with mechanical links and pivots</small>
 
 
-| 🔥: 75 \| 💬: [28](https://news.ycombinator.com/item?id=43848398) \| 🗓️ 2025-04-30
+| 🔥: 89 \| 💬: [37](https://news.ycombinator.com/item?id=43848398) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -179,11 +191,23 @@ Raven是一个为OCaml打造的**机器学习与数据科学**工具集，旨在
 
 ---
 
-## <a name="14"></a>14. 常春藤名校为何承受不起数亿美元损失？ 
+## <a name="15"></a>15. Linux内核漏洞利用：Vsock攻击剖析 
+<small>🔗 [hoefler.dev](https://hoefler.dev/articles/vsock.html): Linux Kernel Exploitation: Attack of the Vsock</small>
+
+
+| 🔥: 83 \| 💬: [24](https://news.ycombinator.com/item?id=43849373) \| 🗓️ 2025-04-30
+
+
+<br />
+本文详细分析了CVE-2025-21756漏洞的利用过程。作者通过**引用计数错误**触发**UAF（释放后重用）**，成功实现权限提升。关键步骤包括：利用`vsock_diag_dump`绕过AppArmor检测、通过管道喷射覆盖`skc_net`指针泄露内核地址，最终构造ROP链劫持控制流。该漏洞仅需数行补丁修复，却揭示了**内核对象生命周期管理**的重要性。整个利用过程涉及跨缓存攻击、侧信道泄露和堆布局操控等高级技术。
+
+---
+
+## <a name="16"></a>16. 常春藤名校为何承受不起数亿美元损失？ 
 <small>🔗 [economist.com](https://www.economist.com/briefing/2025/04/10/why-cant-stinking-rich-ivies-cope-with-losing-a-few-hundred-million): Why can't Ivies cope with losing a few hundred million?</small>
 
 
-| 🔥: 69 \| 💬: [220](https://news.ycombinator.com/item?id=43845874) \| 🗓️ 2025-04-30
+| 🔥: 70 \| 💬: [231](https://news.ycombinator.com/item?id=43845874) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -191,11 +215,11 @@ Raven是一个为OCaml打造的**机器学习与数据科学**工具集，旨在
 
 ---
 
-## <a name="15"></a>15. 维基百科宣布引入AI辅助编辑，但不会取代人类志愿者 
+## <a name="17"></a>17. 维基百科宣布引入AI辅助编辑，但不会取代人类志愿者 
 <small>🔗 [wikimediafoundation.org](https://wikimediafoundation.org/news/2025/04/30/our-new-ai-strategy-puts-wikipedias-humans-first/): Wikipedia says it will use AI, but not to replace human volunteers</small>
 
 
-| 🔥: 67 \| 💬: [38](https://news.ycombinator.com/item?id=43846052) \| 🗓️ 2025-04-30
+| 🔥: 68 \| 💬: [39](https://news.ycombinator.com/item?id=43846052) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -203,7 +227,19 @@ Raven是一个为OCaml打造的**机器学习与数据科学**工具集，旨在
 
 ---
 
-## <a name="16"></a>16. 拒绝即服务（NAAS）：随机生成优雅回绝理由的API 
+## <a name="18"></a>18. Boox推出首款彩色E Ink显示器Mira Pro Color 
+<small>🔗 [theverge.com](https://www.theverge.com/news/658705/boox-mira-pro-color-e-ink-desktop-monitor): The Mira Pro Color is Boox's first color E Ink monitor</small>
+
+
+| 🔥: 66 \| 💬: [31](https://news.ycombinator.com/item?id=43848381) \| 🗓️ 2025-04-30
+
+
+<br />
+Boox发布了其首款**25.3英寸彩色E Ink桌面显示器**Mira Pro Color，采用与Kindle Color相同的**E Ink Kaleido 3技术**，支持4,096色显示。这款显示器适合文字处理或表格工作，**反射式屏幕**更护眼，但刷新率较低，不适合游戏或视频编辑。其售价为1,899.99美元，仅从中国发货，可能需额外关税。配备前光调节、扬声器及多种接口，适合长时间办公用户。
+
+---
+
+## <a name="19"></a>19. 拒绝即服务（NAAS）：随机生成优雅回绝理由的API 
 <small>🔗 [github.com](https://github.com/hotheadhacker/no-as-a-service): No as a Service</small>
 
 
@@ -215,11 +251,11 @@ NAAS是一个**轻量级API**，提供随机、幽默或专业的拒绝理由，
 
 ---
 
-## <a name="17"></a>17. 用Google Sheets轻松定制专属AI模型 
+## <a name="20"></a>20. 用Google Sheets轻松定制专属AI模型 
 <small>🔗 [promptrepo.com](https://promptrepo.com/finetune/): Show HN: Create your own finetuned AI model using Google Sheets</small>
 
 
-| 🔥: 57 \| 💬: [25](https://news.ycombinator.com/item?id=43846964) \| 🗓️ 2025-04-30
+| 🔥: 62 \| 💬: [27](https://news.ycombinator.com/item?id=43846964) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -227,14 +263,38 @@ NAAS是一个**轻量级API**，提供随机、幽默或专业的拒绝理由，
 
 ---
 
-## <a name="18"></a>18. Boox推出首款彩色E Ink显示器Mira Pro Color 
-<small>🔗 [theverge.com](https://www.theverge.com/news/658705/boox-mira-pro-color-e-ink-desktop-monitor): The Mira Pro Color is Boox's first color E Ink monitor</small>
+## <a name="21"></a>21. OSU开源实验室面临关停危机 
+<small>🔗 [osuosl.org](https://osuosl.org/blog/osl-future/): Future of OSU Open Source Lab in Jeopardy</small>
 
 
-| 🔥: 51 \| 💬: [27](https://news.ycombinator.com/item?id=43848381) \| 🗓️ 2025-04-30
+| 🔥: 60 \| 💬: [17](https://news.ycombinator.com/item?id=43849271) \| 🗓️ 2025-04-30
 
 
 <br />
-Boox发布了其首款**25.3英寸彩色E Ink桌面显示器**Mira Pro Color，采用与Kindle Color相同的**E Ink Kaleido 3技术**，支持4,096色显示。这款显示器适合文字处理或表格工作，**反射式屏幕**更护眼，但刷新率较低，不适合游戏或视频编辑。其售价为1,899.99美元，仅从中国发货，可能需额外关税。配备前光调节、扬声器及多种接口，适合长时间办公用户。
+由于**企业捐款减少**，俄勒冈州立大学开源实验室（OSL）长期处于亏损状态。尽管工程学院（CoE）此前提供资金支持，但近期大学预算削减导致CoE无法继续填补缺口。**若无法在5月14日前筹集25万美元**，实验室将于年内关闭。OSL为全球500多个开源项目（如Firefox、Apache、Linux等）提供关键托管服务，并培养了大量技术人才。此外，校园数据中心因设备老化面临搬迁，但**资金短缺是当前首要问题**。呼吁各界通过donations@osuosl.org提供援助。
+
+---
+
+## <a name="22"></a>22. 开源强化学习框架ART：用GRPO算法高效训练LLM智能体 
+<small>🔗 [github.com](https://github.com/OpenPipe/ART): Show HN: ART – a new open-source RL framework for training agents</small>
+
+
+| 🔥: 55 \| 💬: [8](https://news.ycombinator.com/item?id=43846690) \| 🗓️ 2025-04-30
+
+
+<br />
+OpenPipe推出的**ART**是一个开源强化学习框架，专为提升**大语言模型（LLM）**在智能体任务中的表现设计。其核心采用**GRPO算法**，支持用户通过最小代码改动实现高性能训练，并保留现有代码库的工作流。ART分为客户端与服务端：客户端兼容OpenAI接口，服务端负责RL训练循环（如轨迹收集、奖励分配、LoRA微调）。目前已测试2048、井字棋等任务，支持多数vLLM/Transformers模型（Gemma 3暂不兼容）。项目处于**Alpha阶段**，欢迎开发者通过Discord或GitHub参与贡献。
+
+---
+
+## <a name="23"></a>23. 年轻人幸福感持续下降，全球繁荣研究揭示严峻趋势 
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/04/30/well/mind/happiness-flourishing-young-adult-study.html): Young people aren't as happy as they used to be [Global Flourishing Study]</small>
+
+
+| 🔥: 39 \| 💬: [64](https://news.ycombinator.com/item?id=43847368) \| 🗓️ 2025-04-30
+
+
+<br />
+最新发表在《自然-心理健康》上的**全球繁荣研究**显示，传统U型幸福曲线（年轻时高、中年低谷、老年回升）正在崩塌。基于2023年20余国20万人的调查数据，**18-29岁群体**在**心理健康**、经济安全、人生意义等多维度表现低迷，美国差异尤为显著。哈佛学者指出，这一现象警示社会对青年福祉的投资不足。
 
 ---
