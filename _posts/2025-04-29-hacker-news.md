@@ -12,7 +12,7 @@ tags:
 1. 递归思维链：让AI自我辩论以提升思考能力；
 1. 经济学家：生成式AI尚未影响就业与工资水平；
 1. 印度法院下令封禁Proton Mail加密邮箱服务；
-1. 亚马逊RDS for PostgreSQL 17.4的隔离级别异常分析；
+1. Waymo与丰田合作 推动个人自动驾驶汽车发展；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [punchbowl.news](https://punchbowl.news/article/tech/amazon-display-tariff-costs/): Amazon to display tariff costs for consumers</small>
 
 
-| 🔥🔥: 434 \| 💬: [399](https://news.ycombinator.com/item?id=43831027) \| 🗓️ 2025-04-29
+| 🔥🔥: 437 \| 💬: [400](https://news.ycombinator.com/item?id=43831027) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts): Chain of Recursive Thoughts: Make AI think harder by making it argue with itself</small>
 
 
-| 🔥🔥: 324 \| 💬: [160](https://news.ycombinator.com/item?id=43835445) \| 🗓️ 2025-04-29
+| 🔥🔥: 342 \| 💬: [170](https://news.ycombinator.com/item?id=43835445) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/29/generative_ai_no_effect_jobs_wages/): Generative AI is not replacing jobs or hurting wages at all, say economists</small>
 
 
-| 🔥🔥: 310 \| 💬: [453](https://news.ycombinator.com/item?id=43830613) \| 🗓️ 2025-04-29
+| 🔥🔥: 312 \| 💬: [458](https://news.ycombinator.com/item?id=43830613) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/): Indian court orders blocking of Proton Mail</small>
 
 
-| 🔥🔥: 275 \| 💬: [114](https://news.ycombinator.com/item?id=43834942) \| 🗓️ 2025-04-29
+| 🔥🔥: 289 \| 💬: [126](https://news.ycombinator.com/item?id=43834942) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -71,71 +71,11 @@ tags:
 
 ---
 
-## <a name="5"></a>5. 亚马逊RDS for PostgreSQL 17.4的隔离级别异常分析 
-<small>🔗 [jepsen.io](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4): Jepsen: Amazon RDS for PostgreSQL 17.4</small>
-
-
-| 🔥🔥: 204 \| 💬: [62](https://news.ycombinator.com/item?id=43833195) \| 🗓️ 2025-04-29
-
-
-<br />
-测试发现，**亚马逊RDS for PostgreSQL多可用区集群**未完全实现**快照隔离**，而是可能提供稍弱的**并行快照隔离**。在健康状态下，测试中观察到非相邻的G循环（如长分叉），表明读事务可能无法看到其他事务的完整提交顺序。此行为与单节点PostgreSQL的快照隔离表现不同。建议用户对关键事务使用写入端点或包含写入操作以确保一致性。测试覆盖了13.15至17.4版本，但未证明系统完全正确。
-
----
-
-## <a name="6"></a>6. 性能优化为何如此艰难？本质是暴力穷举的苦差 
-<small>🔗 [purplesyringa.moe](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/): Performance optimization is hard because it's fundamentally a brute-force task</small>
-
-
-| 🔥🔥: 202 \| 💬: [93](https://news.ycombinator.com/item?id=43831705) \| 🗓️ 2025-04-29
-
-
-<br />
-性能优化的核心难点在于其**暴力穷举**的本质：需测试大量代码变体（如25种算法组合）才能确定最优方案，且优化策略可能相互冲突（如组合后反而性能下降）。**硬件反直觉行为**（如分支预测失败、向量化意外提速）和**工具链缺陷**（编译器无法理解高阶抽象、缺乏Apple Silicon详细文档）加剧了复杂性。尽管可通过团队协作分摊工作量，但最终仍需依赖**反复试错**与性能分析，而微小的改动（如概率分支阈值）可能导致显著性能波动。作者认为，即使10%的优化也是艺术，其累积效应能显著提升用户体验。
-
----
-
-## <a name="7"></a>7. 一键拒绝非必要Cookie的Chrome扩展 
-<small>🔗 [blog.bymitch.com](https://blog.bymitch.com/posts/reject-cookies/): Show HN: A Chrome extension that will auto-reject non-essential cookies</small>
-
-
-| 🔥🔥: 196 \| 💬: [121](https://news.ycombinator.com/item?id=43831298) \| 🗓️ 2025-04-29
-
-
-<br />
-这款Chrome扩展旨在**自动拒绝非必要Cookie**，解决用户频繁手动关闭Cookie弹窗的痛点。与现有自动接受Cookie的扩展不同，它优先尝试**拒绝Cookie**，失败则直接关闭弹窗，符合**GDPR**和《电子隐私指令》要求。扩展通过识别主流Cookie管理平台（如OneTrust）的特定元素实现功能，代码已开源。目前支持有限，鼓励用户反馈未覆盖的网站或问题，帮助完善功能。
-
----
-
-## <a name="8"></a>8. Beatsync：跨设备精准同步音频的开源工具 
-<small>🔗 [github.com](https://github.com/freeman-jiang/beatsync): Show HN: Beatsync – perfect audio sync across multiple devices</small>
-
-
-| 🔥🔥: 173 \| 💬: [48](https://news.ycombinator.com/item?id=43835584) \| 🗓️ 2025-04-29
-
-
-<br />
-Beatsync是一款基于网页的**高精度音频播放器**，专为多设备同步播放和**空间音频**设计。它采用类似NTP的时间同步技术，实现毫秒级精准同步，支持跨平台使用（推荐Chrome浏览器）。用户可通过虚拟声源控制各设备音量，创造沉浸式听觉效果。项目提供自托管选项，当前处于早期开发阶段，桌面端Chrome支持最佳，移动端尚不稳定。采用Turborepo架构，包含Next.js前端和Bun后端，需配置.env文件后通过`bun dev`启动服务。
-
----
-
-## <a name="9"></a>9. 编程语言应内置树形遍历原语 
-<small>🔗 [blog.tylerglaiel.com](https://blog.tylerglaiel.com/p/programming-languages-should-have): Programming languages should have a tree traversal primitive</small>
-
-
-| 🔥🔥: 170 \| 💬: [133](https://news.ycombinator.com/item?id=43831628) \| 🗓️ 2025-04-29
-
-
-<br />
-作者Tyler Glaiel提出，现代编程语言缺乏类似`for/foreach`的**树形遍历控制结构**，导致开发者频繁手动实现递归函数。他设计了一个`for_tree`语法原型：通过**分支表达式**自动展开递归（如`N : {N->left, N->right}`），支持`break`、`continue`和独有的`prune`（跳过子节点）。该设计不仅简化代码，还能处理内存中不存在的逻辑树（如生成字符串组合）。虽然深度优先遍历更易实现，但广度优先需额外内存。文末附有C++模板实现的实验性代码。
-
----
-
-## <a name="10"></a>10. Waymo与丰田合作 推动个人自动驾驶汽车发展 
+## <a name="5"></a>5. Waymo与丰田合作 推动个人自动驾驶汽车发展 
 <small>🔗 [waymo.com](https://waymo.com/blog/2025/04/waymo-and-toyota-outline-strategic-partnership): Waymo partners with Toyota to bring autonomous driving to personal vehicles</small>
 
 
-| 🔥🔥: 159 \| 💬: [103](https://news.ycombinator.com/item?id=43839123) \| 🗓️ 2025-04-29
+| 🔥🔥: 276 \| 💬: [208](https://news.ycombinator.com/item?id=43839123) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -143,11 +83,71 @@ Beatsync是一款基于网页的**高精度音频播放器**，专为多设备�
 
 ---
 
+## <a name="6"></a>6. 亚马逊RDS for PostgreSQL 17.4的隔离级别异常分析 
+<small>🔗 [jepsen.io](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4): Jepsen: Amazon RDS for PostgreSQL 17.4</small>
+
+
+| 🔥🔥: 232 \| 💬: [70](https://news.ycombinator.com/item?id=43833195) \| 🗓️ 2025-04-29
+
+
+<br />
+测试发现，**亚马逊RDS for PostgreSQL多可用区集群**未完全实现**快照隔离**，而是可能提供稍弱的**并行快照隔离**。在健康状态下，测试中观察到非相邻的G循环（如长分叉），表明读事务可能无法看到其他事务的完整提交顺序。此行为与单节点PostgreSQL的快照隔离表现不同。建议用户对关键事务使用写入端点或包含写入操作以确保一致性。测试覆盖了13.15至17.4版本，但未证明系统完全正确。
+
+---
+
+## <a name="7"></a>7. 性能优化为何如此艰难？本质是暴力穷举的苦差 
+<small>🔗 [purplesyringa.moe](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/): Performance optimization is hard because it's fundamentally a brute-force task</small>
+
+
+| 🔥🔥: 210 \| 💬: [96](https://news.ycombinator.com/item?id=43831705) \| 🗓️ 2025-04-29
+
+
+<br />
+性能优化的核心难点在于其**暴力穷举**的本质：需测试大量代码变体（如25种算法组合）才能确定最优方案，且优化策略可能相互冲突（如组合后反而性能下降）。**硬件反直觉行为**（如分支预测失败、向量化意外提速）和**工具链缺陷**（编译器无法理解高阶抽象、缺乏Apple Silicon详细文档）加剧了复杂性。尽管可通过团队协作分摊工作量，但最终仍需依赖**反复试错**与性能分析，而微小的改动（如概率分支阈值）可能导致显著性能波动。作者认为，即使10%的优化也是艺术，其累积效应能显著提升用户体验。
+
+---
+
+## <a name="8"></a>8. 一键拒绝非必要Cookie的Chrome扩展 
+<small>🔗 [blog.bymitch.com](https://blog.bymitch.com/posts/reject-cookies/): Show HN: A Chrome extension that will auto-reject non-essential cookies</small>
+
+
+| 🔥🔥: 201 \| 💬: [124](https://news.ycombinator.com/item?id=43831298) \| 🗓️ 2025-04-29
+
+
+<br />
+这款Chrome扩展旨在**自动拒绝非必要Cookie**，解决用户频繁手动关闭Cookie弹窗的痛点。与现有自动接受Cookie的扩展不同，它优先尝试**拒绝Cookie**，失败则直接关闭弹窗，符合**GDPR**和《电子隐私指令》要求。扩展通过识别主流Cookie管理平台（如OneTrust）的特定元素实现功能，代码已开源。目前支持有限，鼓励用户反馈未覆盖的网站或问题，帮助完善功能。
+
+---
+
+## <a name="9"></a>9. Beatsync：跨设备精准同步音频的开源工具 
+<small>🔗 [github.com](https://github.com/freeman-jiang/beatsync): Show HN: Beatsync – perfect audio sync across multiple devices</small>
+
+
+| 🔥🔥: 190 \| 💬: [50](https://news.ycombinator.com/item?id=43835584) \| 🗓️ 2025-04-29
+
+
+<br />
+Beatsync是一款基于网页的**高精度音频播放器**，专为多设备同步播放和**空间音频**设计。它采用类似NTP的时间同步技术，实现毫秒级精准同步，支持跨平台使用（推荐Chrome浏览器）。用户可通过虚拟声源控制各设备音量，创造沉浸式听觉效果。项目提供自托管选项，当前处于早期开发阶段，桌面端Chrome支持最佳，移动端尚不稳定。采用Turborepo架构，包含Next.js前端和Bun后端，需配置.env文件后通过`bun dev`启动服务。
+
+---
+
+## <a name="10"></a>10. 编程语言应内置树形遍历原语 
+<small>🔗 [blog.tylerglaiel.com](https://blog.tylerglaiel.com/p/programming-languages-should-have): Programming languages should have a tree traversal primitive</small>
+
+
+| 🔥🔥: 180 \| 💬: [139](https://news.ycombinator.com/item?id=43831628) \| 🗓️ 2025-04-29
+
+
+<br />
+作者Tyler Glaiel提出，现代编程语言缺乏类似`for/foreach`的**树形遍历控制结构**，导致开发者频繁手动实现递归函数。他设计了一个`for_tree`语法原型：通过**分支表达式**自动展开递归（如`N : {N->left, N->right}`），支持`break`、`continue`和独有的`prune`（跳过子节点）。该设计不仅简化代码，还能处理内存中不存在的逻辑树（如生成字符串组合）。虽然深度优先遍历更易实现，但广度优先需额外内存。文末附有C++模板实现的实验性代码。
+
+---
+
 ## <a name="11"></a>11. 开发者漠不关心，我连房租都交不起了 
 <small>🔗 [happyfellow.bearblog.dev](https://happyfellow.bearblog.dev/i-cant-pay-rent-because-devs-just-dont-care/): I can't pay rent because devs just don't care</small>
 
 
-| 🔥🔥: 139 \| 💬: [115](https://news.ycombinator.com/item?id=43836619) \| 🗓️ 2025-04-29
+| 🔥🔥: 141 \| 💬: [116](https://news.ycombinator.com/item?id=43836619) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -159,7 +159,7 @@ Beatsync是一款基于网页的**高精度音频播放器**，专为多设备�
 <small>🔗 [erringtowardsanswers.substack.com](https://erringtowardsanswers.substack.com/p/intrinsic-motivation): How to build Intrinsic Motivation: a review of the science</small>
 
 
-| 🔥🔥: 131 \| 💬: [30](https://news.ycombinator.com/item?id=43830544) \| 🗓️ 2025-04-29
+| 🔥🔥: 134 \| 💬: [30](https://news.ycombinator.com/item?id=43830544) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -171,7 +171,7 @@ Beatsync是一款基于网页的**高精度音频播放器**，专为多设备�
 <small>🔗 [github.com](https://github.com/arkflow-rs/arkflow): ArkFlow: High-performance Rust stream processing engine</small>
 
 
-| 🔥🔥: 127 \| 💬: [27](https://news.ycombinator.com/item?id=43833310) \| 🗓️ 2025-04-29
+| 🔥🔥: 132 \| 💬: [28](https://news.ycombinator.com/item?id=43833310) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -183,7 +183,7 @@ ArkFlow 是一个用 **Rust** 开发的高性能流处理引擎，支持多数�
 <small>🔗 [research.ibm.com](https://research.ibm.com/blog/bamba-ssm-transformer-model): Bamba: An open-source LLM that crosses a transformer with an SSM</small>
 
 
-| 🔥🔥: 123 \| 💬: [36](https://news.ycombinator.com/item?id=43835495) \| 🗓️ 2025-04-29
+| 🔥🔥: 126 \| 💬: [37](https://news.ycombinator.com/item?id=43835495) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -207,7 +207,7 @@ IBM开源了**Bamba**，一种结合**Transformer**与**状态空间模型（SSM
 <small>🔗 [pyrefly.org](https://pyrefly.org/): Pyrefly - A faster Python type checker written in Rust</small>
 
 
-| 🔥🔥: 117 \| 💬: [66](https://news.ycombinator.com/item?id=43831524) \| 🗓️ 2025-04-29
+| 🔥🔥: 118 \| 💬: [66](https://news.ycombinator.com/item?id=43831524) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -235,7 +235,7 @@ Pyrefly是一款基于**Rust**开发的Python类型检查工具，旨在显著�
 <small>🔗 [about.fb.com](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/): Meta AI App built with Llama 4</small>
 
 
-| 🔥: 89 \| 💬: [100](https://news.ycombinator.com/item?id=43833783) \| 🗓️ 2025-04-29
+| 🔥: 90 \| 💬: [100](https://news.ycombinator.com/item?id=43833783) \| 🗓️ 2025-04-29
 
 
 <br />
