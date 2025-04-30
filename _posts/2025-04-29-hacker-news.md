@@ -11,8 +11,8 @@ tags:
 1. 亚马逊将向消费者展示关税成本；
 1. 递归思维链：让AI自我辩论以提升思考能力；
 1. Waymo与丰田合作 推动个人自动驾驶汽车发展；
-1. 经济学家：生成式AI尚未影响就业与工资水平；
 1. 印度法院下令封禁Proton Mail加密邮箱服务；
+1. 经济学家：生成式AI尚未影响就业与工资水平；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [punchbowl.news](https://punchbowl.news/article/tech/amazon-display-tariff-costs/): Amazon to display tariff costs for consumers</small>
 
 
-| 🔥🔥: 438 \| 💬: [401](https://news.ycombinator.com/item?id=43831027) \| 🗓️ 2025-04-29
+| 🔥🔥: 439 \| 💬: [405](https://news.ycombinator.com/item?id=43831027) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts): Chain of Recursive Thoughts: Make AI think harder by making it argue with itself</small>
 
 
-| 🔥🔥: 375 \| 💬: [181](https://news.ycombinator.com/item?id=43835445) \| 🗓️ 2025-04-29
+| 🔥🔥: 393 \| 💬: [187](https://news.ycombinator.com/item?id=43835445) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [waymo.com](https://waymo.com/blog/2025/04/waymo-and-toyota-outline-strategic-partnership): Waymo and Toyota outline partnership to advance autonomous driving deployment</small>
 
 
-| 🔥🔥: 335 \| 💬: [274](https://news.ycombinator.com/item?id=43839123) \| 🗓️ 2025-04-29
+| 🔥🔥: 348 \| 💬: [290](https://news.ycombinator.com/item?id=43839123) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -59,23 +59,11 @@ tags:
 
 ---
 
-## <a name="4"></a>4. 经济学家：生成式AI尚未影响就业与工资水平 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/04/29/generative_ai_no_effect_jobs_wages/): Generative AI is not replacing jobs or hurting wages at all, say economists</small>
-
-
-| 🔥🔥: 313 \| 💬: [460](https://news.ycombinator.com/item?id=43830613) \| 🗓️ 2025-04-29
-
-
-<br />
-一项针对丹麦11个职业的研究显示，**生成式AI**（如ChatGPT等）目前对工资和工作时长的影响微乎其微。尽管AI工具被广泛采用，但**实际经济效益**有限，仅节省约2.8%的工作时间，且部分被新增任务抵消。研究指出，企业投入与工人收益之间存在差距，仅3%-7%的生产力提升转化为工资增长。专家认为，AI的**变革性潜力**尚未在短期内显现。
-
----
-
-## <a name="5"></a>5. 印度法院下令封禁Proton Mail加密邮箱服务 
+## <a name="4"></a>4. 印度法院下令封禁Proton Mail加密邮箱服务 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/): Indian court orders blocking of Proton Mail</small>
 
 
-| 🔥🔥: 306 \| 💬: [137](https://news.ycombinator.com/item?id=43834942) \| 🗓️ 2025-04-29
+| 🔥🔥: 323 \| 💬: [147](https://news.ycombinator.com/item?id=43834942) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -83,11 +71,23 @@ tags:
 
 ---
 
+## <a name="5"></a>5. 经济学家：生成式AI尚未影响就业与工资水平 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/04/29/generative_ai_no_effect_jobs_wages/): Generative AI is not replacing jobs or hurting wages at all, say economists</small>
+
+
+| 🔥🔥: 319 \| 💬: [461](https://news.ycombinator.com/item?id=43830613) \| 🗓️ 2025-04-29
+
+
+<br />
+一项针对丹麦11个职业的研究显示，**生成式AI**（如ChatGPT等）目前对工资和工作时长的影响微乎其微。尽管AI工具被广泛采用，但**实际经济效益**有限，仅节省约2.8%的工作时间，且部分被新增任务抵消。研究指出，企业投入与工人收益之间存在差距，仅3%-7%的生产力提升转化为工资增长。专家认为，AI的**变革性潜力**尚未在短期内显现。
+
+---
+
 ## <a name="6"></a>6. 亚马逊RDS for PostgreSQL 17.4的隔离级别异常分析 
 <small>🔗 [jepsen.io](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4): Jepsen: Amazon RDS for PostgreSQL 17.4</small>
 
 
-| 🔥🔥: 294 \| 💬: [83](https://news.ycombinator.com/item?id=43833195) \| 🗓️ 2025-04-29
+| 🔥🔥: 313 \| 💬: [85](https://news.ycombinator.com/item?id=43833195) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [purplesyringa.moe](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/): Performance optimization is hard because it's fundamentally a brute-force task</small>
 
 
-| 🔥🔥: 228 \| 💬: [97](https://news.ycombinator.com/item?id=43831705) \| 🗓️ 2025-04-29
+| 🔥🔥: 235 \| 💬: [98](https://news.ycombinator.com/item?id=43831705) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [github.com](https://github.com/freeman-jiang/beatsync): Show HN: Beatsync – perfect audio sync across multiple devices</small>
 
 
-| 🔥🔥: 214 \| 💬: [53](https://news.ycombinator.com/item?id=43835584) \| 🗓️ 2025-04-29
+| 🔥🔥: 223 \| 💬: [54](https://news.ycombinator.com/item?id=43835584) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -123,7 +123,7 @@ Beatsync是一款基于网页的**高精度音频播放器**，专为多设备�
 <small>🔗 [blog.bymitch.com](https://blog.bymitch.com/posts/reject-cookies/): Show HN: A Chrome extension that will auto-reject non-essential cookies</small>
 
 
-| 🔥🔥: 213 \| 💬: [129](https://news.ycombinator.com/item?id=43831298) \| 🗓️ 2025-04-29
+| 🔥🔥: 219 \| 💬: [130](https://news.ycombinator.com/item?id=43831298) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -135,7 +135,7 @@ Beatsync是一款基于网页的**高精度音频播放器**，专为多设备�
 <small>🔗 [blog.tylerglaiel.com](https://blog.tylerglaiel.com/p/programming-languages-should-have): Programming languages should have a tree traversal primitive</small>
 
 
-| 🔥🔥: 193 \| 💬: [143](https://news.ycombinator.com/item?id=43831628) \| 🗓️ 2025-04-29
+| 🔥🔥: 202 \| 💬: [144](https://news.ycombinator.com/item?id=43831628) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -147,7 +147,7 @@ Beatsync是一款基于网页的**高精度音频播放器**，专为多设备�
 <small>🔗 [happyfellow.bearblog.dev](https://happyfellow.bearblog.dev/i-cant-pay-rent-because-devs-just-dont-care/): I can't pay rent because devs just don't care</small>
 
 
-| 🔥🔥: 146 \| 💬: [124](https://news.ycombinator.com/item?id=43836619) \| 🗓️ 2025-04-29
+| 🔥🔥: 148 \| 💬: [125](https://news.ycombinator.com/item?id=43836619) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -155,7 +155,31 @@ Beatsync是一款基于网页的**高精度音频播放器**，专为多设备�
 
 ---
 
-## <a name="12"></a>12. 如何培养内在动机：科学研究的启示 
+## <a name="12"></a>12. ArkFlow：基于 Rust 的高性能流处理引擎 
+<small>🔗 [github.com](https://github.com/arkflow-rs/arkflow): ArkFlow: High-performance Rust stream processing engine</small>
+
+
+| 🔥🔥: 144 \| 💬: [29](https://news.ycombinator.com/item?id=43833310) \| 🗓️ 2025-04-29
+
+
+<br />
+ArkFlow 是一个用 **Rust** 开发的高性能流处理引擎，支持多数据源输入/输出和强大的处理能力。其核心特性包括：**低延迟异步运行时**（基于 Tokio）、**多数据源支持**（如 Kafka、MySQL、文件等），以及内置 **SQL 查询** 和 JSON 处理等功能。采用模块化设计，易于扩展，适用于实时数据分析场景。项目开源，遵循 Apache-2.0 协议，社区活跃。
+
+---
+
+## <a name="13"></a>13. Bamba：开源混合模型，突破Transformer的二次方瓶颈 
+<small>🔗 [research.ibm.com](https://research.ibm.com/blog/bamba-ssm-transformer-model): Bamba: An open-source LLM that crosses a transformer with an SSM</small>
+
+
+| 🔥🔥: 143 \| 💬: [46](https://news.ycombinator.com/item?id=43835495) \| 🗓️ 2025-04-29
+
+
+<br />
+IBM开源了**Bamba**，一种结合**Transformer**与**状态空间模型（SSM）**的混合架构，显著降低了KV缓存内存需求，推理速度可达同类Transformer的两倍。Bamba-9B在关键基准测试中媲美Meta的Llama-3.1 8B，且支持32,000词长上下文。团队与Red Hat合作优化vLLM支持SSM，未来或实现百万级词长处理。这一创新有望解决Transformer的二次方计算瓶颈，提升效率与性能。
+
+---
+
+## <a name="14"></a>14. 如何培养内在动机：科学研究的启示 
 <small>🔗 [erringtowardsanswers.substack.com](https://erringtowardsanswers.substack.com/p/intrinsic-motivation): How to build Intrinsic Motivation: a review of the science</small>
 
 
@@ -167,35 +191,11 @@ Beatsync是一款基于网页的**高精度音频播放器**，专为多设备�
 
 ---
 
-## <a name="13"></a>13. ArkFlow：基于 Rust 的高性能流处理引擎 
-<small>🔗 [github.com](https://github.com/arkflow-rs/arkflow): ArkFlow: High-performance Rust stream processing engine</small>
-
-
-| 🔥🔥: 139 \| 💬: [29](https://news.ycombinator.com/item?id=43833310) \| 🗓️ 2025-04-29
-
-
-<br />
-ArkFlow 是一个用 **Rust** 开发的高性能流处理引擎，支持多数据源输入/输出和强大的处理能力。其核心特性包括：**低延迟异步运行时**（基于 Tokio）、**多数据源支持**（如 Kafka、MySQL、文件等），以及内置 **SQL 查询** 和 JSON 处理等功能。采用模块化设计，易于扩展，适用于实时数据分析场景。项目开源，遵循 Apache-2.0 协议，社区活跃。
-
----
-
-## <a name="14"></a>14. Bamba：开源混合模型，突破Transformer的二次方瓶颈 
-<small>🔗 [research.ibm.com](https://research.ibm.com/blog/bamba-ssm-transformer-model): Bamba: An open-source LLM that crosses a transformer with an SSM</small>
-
-
-| 🔥🔥: 134 \| 💬: [43](https://news.ycombinator.com/item?id=43835495) \| 🗓️ 2025-04-29
-
-
-<br />
-IBM开源了**Bamba**，一种结合**Transformer**与**状态空间模型（SSM）**的混合架构，显著降低了KV缓存内存需求，推理速度可达同类Transformer的两倍。Bamba-9B在关键基准测试中媲美Meta的Llama-3.1 8B，且支持32,000词长上下文。团队与Red Hat合作优化vLLM支持SSM，未来或实现百万级词长处理。这一创新有望解决Transformer的二次方计算瓶颈，提升效率与性能。
-
----
-
 ## <a name="15"></a>15. 苏联金星探测器残骸53年后将失控坠回地球 
 <small>🔗 [gizmodo.com](https://gizmodo.com/after-53-years-a-failed-soviet-venus-spacecraft-is-crashing-back-to-earth-2000595234): After 53 years, a failed Soviet Venus spacecraft is crashing back to Earth</small>
 
 
-| 🔥🔥: 123 \| 💬: [45](https://news.ycombinator.com/item?id=43831602) \| 🗓️ 2025-04-29
+| 🔥🔥: 124 \| 💬: [45](https://news.ycombinator.com/item?id=43831602) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -235,7 +235,7 @@ Pyrefly是一款基于**Rust**开发的Python类型检查工具，旨在显著�
 <small>🔗 [about.fb.com](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/): Meta AI App built with Llama 4</small>
 
 
-| 🔥: 92 \| 💬: [100](https://news.ycombinator.com/item?id=43833783) \| 🗓️ 2025-04-29
+| 🔥: 92 \| 💬: [101](https://news.ycombinator.com/item?id=43833783) \| 🗓️ 2025-04-29
 
 
 <br />
