@@ -10,9 +10,9 @@ tags:
 
 1. 亚马逊将向消费者展示关税成本；
 1. 递归思维链：让AI自我辩论以提升思考能力；
+1. Waymo与丰田合作 推动个人自动驾驶汽车发展；
 1. 经济学家：生成式AI尚未影响就业与工资水平；
 1. 印度法院下令封禁Proton Mail加密邮箱服务；
-1. Waymo与丰田合作 推动个人自动驾驶汽车发展；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts): Chain of Recursive Thoughts: Make AI think harder by making it argue with itself</small>
 
 
-| 🔥🔥: 342 \| 💬: [170](https://news.ycombinator.com/item?id=43835445) \| 🗓️ 2025-04-29
+| 🔥🔥: 364 \| 💬: [176](https://news.ycombinator.com/item?id=43835445) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -47,35 +47,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 经济学家：生成式AI尚未影响就业与工资水平 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/04/29/generative_ai_no_effect_jobs_wages/): Generative AI is not replacing jobs or hurting wages at all, say economists</small>
+## <a name="3"></a>3. Waymo与丰田合作 推动个人自动驾驶汽车发展 
+<small>🔗 [waymo.com](https://waymo.com/blog/2025/04/waymo-and-toyota-outline-strategic-partnership): Waymo and Toyota outline partnership to advance autonomous driving deployment</small>
 
 
-| 🔥🔥: 312 \| 💬: [458](https://news.ycombinator.com/item?id=43830613) \| 🗓️ 2025-04-29
-
-
-<br />
-一项针对丹麦11个职业的研究显示，**生成式AI**（如ChatGPT等）目前对工资和工作时长的影响微乎其微。尽管AI工具被广泛采用，但**实际经济效益**有限，仅节省约2.8%的工作时间，且部分被新增任务抵消。研究指出，企业投入与工人收益之间存在差距，仅3%-7%的生产力提升转化为工资增长。专家认为，AI的**变革性潜力**尚未在短期内显现。
-
----
-
-## <a name="4"></a>4. 印度法院下令封禁Proton Mail加密邮箱服务 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/): Indian court orders blocking of Proton Mail</small>
-
-
-| 🔥🔥: 289 \| 💬: [126](https://news.ycombinator.com/item?id=43834942) \| 🗓️ 2025-04-29
-
-
-<br />
-印度卡纳塔克邦高等法院下令政府封禁加密邮箱服务**Proton Mail**，原因是新德里公司M Moser Design Associates投诉其员工收到通过该平台发送的**淫秽内容邮件**，而Proton Mail拒绝提供发件人信息。法院依据《2008年信息技术法》要求政府执行封锁，但截至报道时尚未生效。这是Proton Mail在印度面临的第二次封禁令，此前泰米尔纳德邦警方也因**虚假炸弹威胁邮件**要求封禁，但瑞士当局介入阻止。Proton Mail强调封禁只会影响守法用户，无法阻止境外犯罪分子改用其他服务。
-
----
-
-## <a name="5"></a>5. Waymo与丰田合作 推动个人自动驾驶汽车发展 
-<small>🔗 [waymo.com](https://waymo.com/blog/2025/04/waymo-and-toyota-outline-strategic-partnership): Waymo partners with Toyota to bring autonomous driving to personal vehicles</small>
-
-
-| 🔥🔥: 276 \| 💬: [208](https://news.ycombinator.com/item?id=43839123) \| 🗓️ 2025-04-29
+| 🔥🔥: 323 \| 💬: [245](https://news.ycombinator.com/item?id=43839123) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -83,11 +59,35 @@ tags:
 
 ---
 
+## <a name="4"></a>4. 经济学家：生成式AI尚未影响就业与工资水平 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/04/29/generative_ai_no_effect_jobs_wages/): Generative AI is not replacing jobs or hurting wages at all, say economists</small>
+
+
+| 🔥🔥: 313 \| 💬: [458](https://news.ycombinator.com/item?id=43830613) \| 🗓️ 2025-04-29
+
+
+<br />
+一项针对丹麦11个职业的研究显示，**生成式AI**（如ChatGPT等）目前对工资和工作时长的影响微乎其微。尽管AI工具被广泛采用，但**实际经济效益**有限，仅节省约2.8%的工作时间，且部分被新增任务抵消。研究指出，企业投入与工人收益之间存在差距，仅3%-7%的生产力提升转化为工资增长。专家认为，AI的**变革性潜力**尚未在短期内显现。
+
+---
+
+## <a name="5"></a>5. 印度法院下令封禁Proton Mail加密邮箱服务 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/): Indian court orders blocking of Proton Mail</small>
+
+
+| 🔥🔥: 298 \| 💬: [134](https://news.ycombinator.com/item?id=43834942) \| 🗓️ 2025-04-29
+
+
+<br />
+印度卡纳塔克邦高等法院下令政府封禁加密邮箱服务**Proton Mail**，原因是新德里公司M Moser Design Associates投诉其员工收到通过该平台发送的**淫秽内容邮件**，而Proton Mail拒绝提供发件人信息。法院依据《2008年信息技术法》要求政府执行封锁，但截至报道时尚未生效。这是Proton Mail在印度面临的第二次封禁令，此前泰米尔纳德邦警方也因**虚假炸弹威胁邮件**要求封禁，但瑞士当局介入阻止。Proton Mail强调封禁只会影响守法用户，无法阻止境外犯罪分子改用其他服务。
+
+---
+
 ## <a name="6"></a>6. 亚马逊RDS for PostgreSQL 17.4的隔离级别异常分析 
 <small>🔗 [jepsen.io](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4): Jepsen: Amazon RDS for PostgreSQL 17.4</small>
 
 
-| 🔥🔥: 232 \| 💬: [70](https://news.ycombinator.com/item?id=43833195) \| 🗓️ 2025-04-29
+| 🔥🔥: 269 \| 💬: [77](https://news.ycombinator.com/item?id=43833195) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [purplesyringa.moe](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/): Performance optimization is hard because it's fundamentally a brute-force task</small>
 
 
-| 🔥🔥: 210 \| 💬: [96](https://news.ycombinator.com/item?id=43831705) \| 🗓️ 2025-04-29
+| 🔥🔥: 219 \| 💬: [97](https://news.ycombinator.com/item?id=43831705) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -111,7 +111,7 @@ tags:
 <small>🔗 [blog.bymitch.com](https://blog.bymitch.com/posts/reject-cookies/): Show HN: A Chrome extension that will auto-reject non-essential cookies</small>
 
 
-| 🔥🔥: 201 \| 💬: [124](https://news.ycombinator.com/item?id=43831298) \| 🗓️ 2025-04-29
+| 🔥🔥: 208 \| 💬: [126](https://news.ycombinator.com/item?id=43831298) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -123,7 +123,7 @@ tags:
 <small>🔗 [github.com](https://github.com/freeman-jiang/beatsync): Show HN: Beatsync – perfect audio sync across multiple devices</small>
 
 
-| 🔥🔥: 190 \| 💬: [50](https://news.ycombinator.com/item?id=43835584) \| 🗓️ 2025-04-29
+| 🔥🔥: 205 \| 💬: [52](https://news.ycombinator.com/item?id=43835584) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -135,7 +135,7 @@ Beatsync是一款基于网页的**高精度音频播放器**，专为多设备�
 <small>🔗 [blog.tylerglaiel.com](https://blog.tylerglaiel.com/p/programming-languages-should-have): Programming languages should have a tree traversal primitive</small>
 
 
-| 🔥🔥: 180 \| 💬: [139](https://news.ycombinator.com/item?id=43831628) \| 🗓️ 2025-04-29
+| 🔥🔥: 187 \| 💬: [140](https://news.ycombinator.com/item?id=43831628) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -147,7 +147,7 @@ Beatsync是一款基于网页的**高精度音频播放器**，专为多设备�
 <small>🔗 [happyfellow.bearblog.dev](https://happyfellow.bearblog.dev/i-cant-pay-rent-because-devs-just-dont-care/): I can't pay rent because devs just don't care</small>
 
 
-| 🔥🔥: 141 \| 💬: [116](https://news.ycombinator.com/item?id=43836619) \| 🗓️ 2025-04-29
+| 🔥🔥: 145 \| 💬: [119](https://news.ycombinator.com/item?id=43836619) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -159,7 +159,7 @@ Beatsync是一款基于网页的**高精度音频播放器**，专为多设备�
 <small>🔗 [erringtowardsanswers.substack.com](https://erringtowardsanswers.substack.com/p/intrinsic-motivation): How to build Intrinsic Motivation: a review of the science</small>
 
 
-| 🔥🔥: 134 \| 💬: [30](https://news.ycombinator.com/item?id=43830544) \| 🗓️ 2025-04-29
+| 🔥🔥: 137 \| 💬: [32](https://news.ycombinator.com/item?id=43830544) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -171,7 +171,7 @@ Beatsync是一款基于网页的**高精度音频播放器**，专为多设备�
 <small>🔗 [github.com](https://github.com/arkflow-rs/arkflow): ArkFlow: High-performance Rust stream processing engine</small>
 
 
-| 🔥🔥: 132 \| 💬: [28](https://news.ycombinator.com/item?id=43833310) \| 🗓️ 2025-04-29
+| 🔥🔥: 136 \| 💬: [29](https://news.ycombinator.com/item?id=43833310) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -183,7 +183,7 @@ ArkFlow 是一个用 **Rust** 开发的高性能流处理引擎，支持多数�
 <small>🔗 [research.ibm.com](https://research.ibm.com/blog/bamba-ssm-transformer-model): Bamba: An open-source LLM that crosses a transformer with an SSM</small>
 
 
-| 🔥🔥: 126 \| 💬: [37](https://news.ycombinator.com/item?id=43835495) \| 🗓️ 2025-04-29
+| 🔥🔥: 130 \| 💬: [39](https://news.ycombinator.com/item?id=43835495) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -195,7 +195,7 @@ IBM开源了**Bamba**，一种结合**Transformer**与**状态空间模型（SSM
 <small>🔗 [gizmodo.com](https://gizmodo.com/after-53-years-a-failed-soviet-venus-spacecraft-is-crashing-back-to-earth-2000595234): After 53 years, a failed Soviet Venus spacecraft is crashing back to Earth</small>
 
 
-| 🔥🔥: 121 \| 💬: [44](https://news.ycombinator.com/item?id=43831602) \| 🗓️ 2025-04-29
+| 🔥🔥: 122 \| 💬: [44](https://news.ycombinator.com/item?id=43831602) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -207,7 +207,7 @@ IBM开源了**Bamba**，一种结合**Transformer**与**状态空间模型（SSM
 <small>🔗 [pyrefly.org](https://pyrefly.org/): Pyrefly - A faster Python type checker written in Rust</small>
 
 
-| 🔥🔥: 118 \| 💬: [66](https://news.ycombinator.com/item?id=43831524) \| 🗓️ 2025-04-29
+| 🔥🔥: 119 \| 💬: [66](https://news.ycombinator.com/item?id=43831524) \| 🗓️ 2025-04-29
 
 
 <br />
