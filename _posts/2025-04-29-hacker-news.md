@@ -11,8 +11,8 @@ tags:
 1. 亚马逊将向消费者展示关税成本；
 1. 递归思维链：让AI自我辩论以提升思考能力；
 1. Waymo与丰田合作 推动个人自动驾驶汽车发展；
-1. 印度法院下令封禁Proton Mail加密邮箱服务；
 1. 亚马逊RDS for PostgreSQL 17.4的隔离级别异常分析；
+1. 印度法院下令封禁Proton Mail加密邮箱服务；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts): Chain of Recursive Thoughts: Make AI think harder by making it argue with itself</small>
 
 
-| 🔥🔥: 406 \| 💬: [191](https://news.ycombinator.com/item?id=43835445) \| 🗓️ 2025-04-29
+| 🔥🔥: 416 \| 💬: [195](https://news.ycombinator.com/item?id=43835445) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [waymo.com](https://waymo.com/blog/2025/04/waymo-and-toyota-outline-strategic-partnership): Waymo and Toyota outline partnership to advance autonomous driving deployment</small>
 
 
-| 🔥🔥: 362 \| 💬: [301](https://news.ycombinator.com/item?id=43839123) \| 🗓️ 2025-04-29
+| 🔥🔥: 365 \| 💬: [306](https://news.ycombinator.com/item?id=43839123) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -59,27 +59,27 @@ tags:
 
 ---
 
-## <a name="4"></a>4. 印度法院下令封禁Proton Mail加密邮箱服务 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/): Indian court orders blocking of Proton Mail</small>
-
-
-| 🔥🔥: 333 \| 💬: [154](https://news.ycombinator.com/item?id=43834942) \| 🗓️ 2025-04-29
-
-
-<br />
-印度卡纳塔克邦高等法院下令政府封禁加密邮箱服务**Proton Mail**，原因是新德里公司M Moser Design Associates投诉其员工收到通过该平台发送的**淫秽内容邮件**，而Proton Mail拒绝提供发件人信息。法院依据《2008年信息技术法》要求政府执行封锁，但截至报道时尚未生效。这是Proton Mail在印度面临的第二次封禁令，此前泰米尔纳德邦警方也因**虚假炸弹威胁邮件**要求封禁，但瑞士当局介入阻止。Proton Mail强调封禁只会影响守法用户，无法阻止境外犯罪分子改用其他服务。
-
----
-
-## <a name="5"></a>5. 亚马逊RDS for PostgreSQL 17.4的隔离级别异常分析 
+## <a name="4"></a>4. 亚马逊RDS for PostgreSQL 17.4的隔离级别异常分析 
 <small>🔗 [jepsen.io](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4): Jepsen: Amazon RDS for PostgreSQL 17.4</small>
 
 
-| 🔥🔥: 331 \| 💬: [88](https://news.ycombinator.com/item?id=43833195) \| 🗓️ 2025-04-29
+| 🔥🔥: 347 \| 💬: [88](https://news.ycombinator.com/item?id=43833195) \| 🗓️ 2025-04-29
 
 
 <br />
 测试发现，**亚马逊RDS for PostgreSQL多可用区集群**未完全实现**快照隔离**，而是可能提供稍弱的**并行快照隔离**。在健康状态下，测试中观察到非相邻的G循环（如长分叉），表明读事务可能无法看到其他事务的完整提交顺序。此行为与单节点PostgreSQL的快照隔离表现不同。建议用户对关键事务使用写入端点或包含写入操作以确保一致性。测试覆盖了13.15至17.4版本，但未证明系统完全正确。
+
+---
+
+## <a name="5"></a>5. 印度法院下令封禁Proton Mail加密邮箱服务 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/): Indian court orders blocking of Proton Mail</small>
+
+
+| 🔥🔥: 347 \| 💬: [161](https://news.ycombinator.com/item?id=43834942) \| 🗓️ 2025-04-29
+
+
+<br />
+印度卡纳塔克邦高等法院下令政府封禁加密邮箱服务**Proton Mail**，原因是新德里公司M Moser Design Associates投诉其员工收到通过该平台发送的**淫秽内容邮件**，而Proton Mail拒绝提供发件人信息。法院依据《2008年信息技术法》要求政府执行封锁，但截至报道时尚未生效。这是Proton Mail在印度面临的第二次封禁令，此前泰米尔纳德邦警方也因**虚假炸弹威胁邮件**要求封禁，但瑞士当局介入阻止。Proton Mail强调封禁只会影响守法用户，无法阻止境外犯罪分子改用其他服务。
 
 ---
 
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [github.com](https://github.com/freeman-jiang/beatsync): Show HN: Beatsync – perfect audio sync across multiple devices</small>
 
 
-| 🔥🔥: 247 \| 💬: [61](https://news.ycombinator.com/item?id=43835584) \| 🗓️ 2025-04-29
+| 🔥🔥: 260 \| 💬: [65](https://news.ycombinator.com/item?id=43835584) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -111,7 +111,7 @@ Beatsync是一款基于网页的**高精度音频播放器**，专为多设备�
 <small>🔗 [purplesyringa.moe](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/): Performance optimization is hard because it's fundamentally a brute-force task</small>
 
 
-| 🔥🔥: 239 \| 💬: [100](https://news.ycombinator.com/item?id=43831705) \| 🗓️ 2025-04-29
+| 🔥🔥: 246 \| 💬: [103](https://news.ycombinator.com/item?id=43831705) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -123,7 +123,7 @@ Beatsync是一款基于网页的**高精度音频播放器**，专为多设备�
 <small>🔗 [blog.bymitch.com](https://blog.bymitch.com/posts/reject-cookies/): Show HN: A Chrome extension that will auto-reject non-essential cookies</small>
 
 
-| 🔥🔥: 225 \| 💬: [132](https://news.ycombinator.com/item?id=43831298) \| 🗓️ 2025-04-29
+| 🔥🔥: 229 \| 💬: [134](https://news.ycombinator.com/item?id=43831298) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -135,7 +135,7 @@ Beatsync是一款基于网页的**高精度音频播放器**，专为多设备�
 <small>🔗 [blog.tylerglaiel.com](https://blog.tylerglaiel.com/p/programming-languages-should-have): Programming languages should have a tree traversal primitive</small>
 
 
-| 🔥🔥: 205 \| 💬: [147](https://news.ycombinator.com/item?id=43831628) \| 🗓️ 2025-04-29
+| 🔥🔥: 215 \| 💬: [148](https://news.ycombinator.com/item?id=43831628) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -147,7 +147,7 @@ Beatsync是一款基于网页的**高精度音频播放器**，专为多设备�
 <small>🔗 [research.ibm.com](https://research.ibm.com/blog/bamba-ssm-transformer-model): Bamba: An open-source LLM that crosses a transformer with an SSM</small>
 
 
-| 🔥🔥: 151 \| 💬: [47](https://news.ycombinator.com/item?id=43835495) \| 🗓️ 2025-04-29
+| 🔥🔥: 158 \| 💬: [52](https://news.ycombinator.com/item?id=43835495) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -159,7 +159,7 @@ IBM开源了**Bamba**，一种结合**Transformer**与**状态空间模型（SSM
 <small>🔗 [happyfellow.bearblog.dev](https://happyfellow.bearblog.dev/i-cant-pay-rent-because-devs-just-dont-care/): I can't pay rent because devs just don't care</small>
 
 
-| 🔥🔥: 150 \| 💬: [127](https://news.ycombinator.com/item?id=43836619) \| 🗓️ 2025-04-29
+| 🔥🔥: 152 \| 💬: [128](https://news.ycombinator.com/item?id=43836619) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -171,7 +171,7 @@ IBM开源了**Bamba**，一种结合**Transformer**与**状态空间模型（SSM
 <small>🔗 [github.com](https://github.com/arkflow-rs/arkflow): ArkFlow: High-performance Rust stream processing engine</small>
 
 
-| 🔥🔥: 148 \| 💬: [29](https://news.ycombinator.com/item?id=43833310) \| 🗓️ 2025-04-29
+| 🔥🔥: 151 \| 💬: [29](https://news.ycombinator.com/item?id=43833310) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -183,7 +183,7 @@ ArkFlow 是一个用 **Rust** 开发的高性能流处理引擎，支持多数�
 <small>🔗 [erringtowardsanswers.substack.com](https://erringtowardsanswers.substack.com/p/intrinsic-motivation): How to build Intrinsic Motivation: a review of the science</small>
 
 
-| 🔥🔥: 143 \| 💬: [34](https://news.ycombinator.com/item?id=43830544) \| 🗓️ 2025-04-29
+| 🔥🔥: 146 \| 💬: [34](https://news.ycombinator.com/item?id=43830544) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -207,7 +207,7 @@ ArkFlow 是一个用 **Rust** 开发的高性能流处理引擎，支持多数�
 <small>🔗 [pyrefly.org](https://pyrefly.org/): Pyrefly - A faster Python type checker written in Rust</small>
 
 
-| 🔥🔥: 123 \| 💬: [66](https://news.ycombinator.com/item?id=43831524) \| 🗓️ 2025-04-29
+| 🔥🔥: 123 \| 💬: [69](https://news.ycombinator.com/item?id=43831524) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -235,7 +235,7 @@ Pyrefly是一款基于**Rust**开发的Python类型检查工具，旨在显著�
 <small>🔗 [about.fb.com](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/): Meta AI App built with Llama 4</small>
 
 
-| 🔥: 93 \| 💬: [102](https://news.ycombinator.com/item?id=43833783) \| 🗓️ 2025-04-29
+| 🔥: 94 \| 💬: [102](https://news.ycombinator.com/item?id=43833783) \| 🗓️ 2025-04-29
 
 
 <br />
