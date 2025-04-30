@@ -27,7 +27,7 @@ tags:
 <small>🔗 [punchbowl.news](https://punchbowl.news/article/tech/amazon-display-tariff-costs/): Amazon to display tariff costs for consumers</small>
 
 
-| 🔥🔥: 437 \| 💬: [400](https://news.ycombinator.com/item?id=43831027) \| 🗓️ 2025-04-29
+| 🔥🔥: 438 \| 💬: [401](https://news.ycombinator.com/item?id=43831027) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/PhialsBasement/Chain-of-Recursive-Thoughts): Chain of Recursive Thoughts: Make AI think harder by making it argue with itself</small>
 
 
-| 🔥🔥: 364 \| 💬: [176](https://news.ycombinator.com/item?id=43835445) \| 🗓️ 2025-04-29
+| 🔥🔥: 375 \| 💬: [181](https://news.ycombinator.com/item?id=43835445) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [waymo.com](https://waymo.com/blog/2025/04/waymo-and-toyota-outline-strategic-partnership): Waymo and Toyota outline partnership to advance autonomous driving deployment</small>
 
 
-| 🔥🔥: 323 \| 💬: [245](https://news.ycombinator.com/item?id=43839123) \| 🗓️ 2025-04-29
+| 🔥🔥: 335 \| 💬: [274](https://news.ycombinator.com/item?id=43839123) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [theregister.com](https://www.theregister.com/2025/04/29/generative_ai_no_effect_jobs_wages/): Generative AI is not replacing jobs or hurting wages at all, say economists</small>
 
 
-| 🔥🔥: 313 \| 💬: [458](https://news.ycombinator.com/item?id=43830613) \| 🗓️ 2025-04-29
+| 🔥🔥: 313 \| 💬: [460](https://news.ycombinator.com/item?id=43830613) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/04/29/indian-court-orders-blocking-of-proton-mail/): Indian court orders blocking of Proton Mail</small>
 
 
-| 🔥🔥: 298 \| 💬: [134](https://news.ycombinator.com/item?id=43834942) \| 🗓️ 2025-04-29
+| 🔥🔥: 306 \| 💬: [137](https://news.ycombinator.com/item?id=43834942) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [jepsen.io](https://jepsen.io/analyses/amazon-rds-for-postgresql-17.4): Jepsen: Amazon RDS for PostgreSQL 17.4</small>
 
 
-| 🔥🔥: 269 \| 💬: [77](https://news.ycombinator.com/item?id=43833195) \| 🗓️ 2025-04-29
+| 🔥🔥: 294 \| 💬: [83](https://news.ycombinator.com/item?id=43833195) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [purplesyringa.moe](https://purplesyringa.moe/blog/why-performance-optimization-is-hard-work/): Performance optimization is hard because it's fundamentally a brute-force task</small>
 
 
-| 🔥🔥: 219 \| 💬: [97](https://news.ycombinator.com/item?id=43831705) \| 🗓️ 2025-04-29
+| 🔥🔥: 228 \| 💬: [97](https://news.ycombinator.com/item?id=43831705) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -107,23 +107,11 @@ tags:
 
 ---
 
-## <a name="8"></a>8. 一键拒绝非必要Cookie的Chrome扩展 
-<small>🔗 [blog.bymitch.com](https://blog.bymitch.com/posts/reject-cookies/): Show HN: A Chrome extension that will auto-reject non-essential cookies</small>
-
-
-| 🔥🔥: 208 \| 💬: [126](https://news.ycombinator.com/item?id=43831298) \| 🗓️ 2025-04-29
-
-
-<br />
-这款Chrome扩展旨在**自动拒绝非必要Cookie**，解决用户频繁手动关闭Cookie弹窗的痛点。与现有自动接受Cookie的扩展不同，它优先尝试**拒绝Cookie**，失败则直接关闭弹窗，符合**GDPR**和《电子隐私指令》要求。扩展通过识别主流Cookie管理平台（如OneTrust）的特定元素实现功能，代码已开源。目前支持有限，鼓励用户反馈未覆盖的网站或问题，帮助完善功能。
-
----
-
-## <a name="9"></a>9. Beatsync：跨设备精准同步音频的开源工具 
+## <a name="8"></a>8. Beatsync：跨设备精准同步音频的开源工具 
 <small>🔗 [github.com](https://github.com/freeman-jiang/beatsync): Show HN: Beatsync – perfect audio sync across multiple devices</small>
 
 
-| 🔥🔥: 205 \| 💬: [52](https://news.ycombinator.com/item?id=43835584) \| 🗓️ 2025-04-29
+| 🔥🔥: 214 \| 💬: [53](https://news.ycombinator.com/item?id=43835584) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -131,11 +119,23 @@ Beatsync是一款基于网页的**高精度音频播放器**，专为多设备�
 
 ---
 
+## <a name="9"></a>9. 一键拒绝非必要Cookie的Chrome扩展 
+<small>🔗 [blog.bymitch.com](https://blog.bymitch.com/posts/reject-cookies/): Show HN: A Chrome extension that will auto-reject non-essential cookies</small>
+
+
+| 🔥🔥: 213 \| 💬: [129](https://news.ycombinator.com/item?id=43831298) \| 🗓️ 2025-04-29
+
+
+<br />
+这款Chrome扩展旨在**自动拒绝非必要Cookie**，解决用户频繁手动关闭Cookie弹窗的痛点。与现有自动接受Cookie的扩展不同，它优先尝试**拒绝Cookie**，失败则直接关闭弹窗，符合**GDPR**和《电子隐私指令》要求。扩展通过识别主流Cookie管理平台（如OneTrust）的特定元素实现功能，代码已开源。目前支持有限，鼓励用户反馈未覆盖的网站或问题，帮助完善功能。
+
+---
+
 ## <a name="10"></a>10. 编程语言应内置树形遍历原语 
 <small>🔗 [blog.tylerglaiel.com](https://blog.tylerglaiel.com/p/programming-languages-should-have): Programming languages should have a tree traversal primitive</small>
 
 
-| 🔥🔥: 187 \| 💬: [140](https://news.ycombinator.com/item?id=43831628) \| 🗓️ 2025-04-29
+| 🔥🔥: 193 \| 💬: [143](https://news.ycombinator.com/item?id=43831628) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -147,7 +147,7 @@ Beatsync是一款基于网页的**高精度音频播放器**，专为多设备�
 <small>🔗 [happyfellow.bearblog.dev](https://happyfellow.bearblog.dev/i-cant-pay-rent-because-devs-just-dont-care/): I can't pay rent because devs just don't care</small>
 
 
-| 🔥🔥: 145 \| 💬: [119](https://news.ycombinator.com/item?id=43836619) \| 🗓️ 2025-04-29
+| 🔥🔥: 146 \| 💬: [124](https://news.ycombinator.com/item?id=43836619) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -159,7 +159,7 @@ Beatsync是一款基于网页的**高精度音频播放器**，专为多设备�
 <small>🔗 [erringtowardsanswers.substack.com](https://erringtowardsanswers.substack.com/p/intrinsic-motivation): How to build Intrinsic Motivation: a review of the science</small>
 
 
-| 🔥🔥: 137 \| 💬: [32](https://news.ycombinator.com/item?id=43830544) \| 🗓️ 2025-04-29
+| 🔥🔥: 139 \| 💬: [34](https://news.ycombinator.com/item?id=43830544) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -171,7 +171,7 @@ Beatsync是一款基于网页的**高精度音频播放器**，专为多设备�
 <small>🔗 [github.com](https://github.com/arkflow-rs/arkflow): ArkFlow: High-performance Rust stream processing engine</small>
 
 
-| 🔥🔥: 136 \| 💬: [29](https://news.ycombinator.com/item?id=43833310) \| 🗓️ 2025-04-29
+| 🔥🔥: 139 \| 💬: [29](https://news.ycombinator.com/item?id=43833310) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -183,7 +183,7 @@ ArkFlow 是一个用 **Rust** 开发的高性能流处理引擎，支持多数�
 <small>🔗 [research.ibm.com](https://research.ibm.com/blog/bamba-ssm-transformer-model): Bamba: An open-source LLM that crosses a transformer with an SSM</small>
 
 
-| 🔥🔥: 130 \| 💬: [39](https://news.ycombinator.com/item?id=43835495) \| 🗓️ 2025-04-29
+| 🔥🔥: 134 \| 💬: [43](https://news.ycombinator.com/item?id=43835495) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -195,7 +195,7 @@ IBM开源了**Bamba**，一种结合**Transformer**与**状态空间模型（SSM
 <small>🔗 [gizmodo.com](https://gizmodo.com/after-53-years-a-failed-soviet-venus-spacecraft-is-crashing-back-to-earth-2000595234): After 53 years, a failed Soviet Venus spacecraft is crashing back to Earth</small>
 
 
-| 🔥🔥: 122 \| 💬: [44](https://news.ycombinator.com/item?id=43831602) \| 🗓️ 2025-04-29
+| 🔥🔥: 123 \| 💬: [45](https://news.ycombinator.com/item?id=43831602) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -207,7 +207,7 @@ IBM开源了**Bamba**，一种结合**Transformer**与**状态空间模型（SSM
 <small>🔗 [pyrefly.org](https://pyrefly.org/): Pyrefly - A faster Python type checker written in Rust</small>
 
 
-| 🔥🔥: 119 \| 💬: [66](https://news.ycombinator.com/item?id=43831524) \| 🗓️ 2025-04-29
+| 🔥🔥: 122 \| 💬: [66](https://news.ycombinator.com/item?id=43831524) \| 🗓️ 2025-04-29
 
 
 <br />
@@ -235,7 +235,7 @@ Pyrefly是一款基于**Rust**开发的Python类型检查工具，旨在显著�
 <small>🔗 [about.fb.com](https://about.fb.com/news/2025/04/introducing-meta-ai-app-new-way-access-ai-assistant/): Meta AI App built with Llama 4</small>
 
 
-| 🔥: 90 \| 💬: [100](https://news.ycombinator.com/item?id=43833783) \| 🗓️ 2025-04-29
+| 🔥: 92 \| 💬: [100](https://news.ycombinator.com/item?id=43833783) \| 🗓️ 2025-04-29
 
 
 <br />
