@@ -11,12 +11,12 @@ tags:
 1. YouTube首页设计越来越离谱了；
 1. 芬兰立法限制校园手机使用；
 1. 洛杉矶港预计下周货运量将暴跌35%；
-1. 小米MiMo推理模型：解锁语言模型的推理潜能；
 1. 中美贸易战导致零售商库存仅剩7周；
+1. 小米MiMo推理模型：解锁语言模型的推理潜能；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [jayd.ml](https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html): Someone at YouTube needs glasses</small>
 
 
-| 🔥🔥: 860 \| 💬: [491](https://news.ycombinator.com/item?id=43846487) \| 🗓️ 2025-04-30
+| 🔥🔥: 913 \| 💬: [521](https://news.ycombinator.com/item?id=43846487) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [yle.fi](https://yle.fi/a/74-20158886): Finland Bans Smartphones in Schools</small>
 
 
-| 🔥🔥: 705 \| 💬: [434](https://news.ycombinator.com/item?id=43842856) \| 🗓️ 2025-04-30
+| 🔥🔥: 709 \| 💬: [440](https://news.ycombinator.com/item?id=43842856) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/29/port-of-los-angeles-sees-shipping-volume-down-35percent-next-week-as-tariffs-bite.html): Port of Los Angeles says shipping volume will plummet 35% next week</small>
 
 
-| 🔥🔥: 610 \| 💬: [531](https://news.ycombinator.com/item?id=43844708) \| 🗓️ 2025-04-30
+| 🔥🔥: 629 \| 💬: [542](https://news.ycombinator.com/item?id=43844708) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -59,23 +59,11 @@ tags:
 
 ---
 
-## <a name="4"></a>4. 小米MiMo推理模型：解锁语言模型的推理潜能 
-<small>🔗 [github.com](https://github.com/XiaomiMiMo/MiMo): Xiaomi MiMo Reasoning Model</small>
-
-
-| 🔥🔥: 377 \| 💬: [143](https://news.ycombinator.com/item?id=43842683) \| 🗓️ 2025-04-30
-
-
-<br />
-小米推出**MiMo-7B系列模型**，专注于数学与代码推理任务。该模型通过优化预训练数据（25万亿token）和引入**多阶段混合策略**，显著提升小模型（7B参数）的推理能力，性能超越部分32B大模型。其强化学习（RL）训练采用**难度驱动的奖励机制**，结合高效推理引擎，在MATH500等基准测试中表现优异（95.8%准确率）。模型已开源，支持HuggingFace与vLLM部署，为社区提供高效推理解决方案。
-
----
-
-## <a name="5"></a>5. 中美贸易战导致零售商库存仅剩7周 
+## <a name="4"></a>4. 中美贸易战导致零售商库存仅剩7周 
 <small>🔗 [fortune.com](https://fortune.com/article/retailers-weeks-of-inventory-left-trump-china-trade-war/): Retailers will soon have only about 7 weeks of full inventories left</small>
 
 
-| 🔥🔥: 376 \| 💬: [587](https://news.ycombinator.com/item?id=43843821) \| 🗓️ 2025-04-30
+| 🔥🔥: 395 \| 💬: [625](https://news.ycombinator.com/item?id=43843821) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -83,11 +71,23 @@ tags:
 
 ---
 
+## <a name="5"></a>5. 小米MiMo推理模型：解锁语言模型的推理潜能 
+<small>🔗 [github.com](https://github.com/XiaomiMiMo/MiMo): Xiaomi MiMo Reasoning Model</small>
+
+
+| 🔥🔥: 387 \| 💬: [145](https://news.ycombinator.com/item?id=43842683) \| 🗓️ 2025-04-30
+
+
+<br />
+小米推出**MiMo-7B系列模型**，专注于数学与代码推理任务。该模型通过优化预训练数据（25万亿token）和引入**多阶段混合策略**，显著提升小模型（7B参数）的推理能力，性能超越部分32B大模型。其强化学习（RL）训练采用**难度驱动的奖励机制**，结合高效推理引擎，在MATH500等基准测试中表现优异（95.8%准确率）。模型已开源，支持HuggingFace与vLLM部署，为社区提供高效推理解决方案。
+
+---
+
 ## <a name="6"></a>6. "AI优先"是新版"强制返工" 
 <small>🔗 [anildash.com](https://www.anildash.com//2025/04/19/ai-first-is-the-new-return-to-office/): "AI-first" is the new Return To Office</small>
 
 
-| 🔥🔥: 276 \| 💬: [167](https://news.ycombinator.com/item?id=43845089) \| 🗓️ 2025-04-30
+| 🔥🔥: 286 \| 💬: [175](https://news.ycombinator.com/item?id=43845089) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [github.com](https://github.com/deepseek-ai/DeepSeek-Prover-V2): DeepSeek-Prover-V2</small>
 
 
-| 🔥🔥: 259 \| 💬: [49](https://news.ycombinator.com/item?id=43847432) \| 🗓️ 2025-04-30
+| 🔥🔥: 271 \| 💬: [52](https://news.ycombinator.com/item?id=43847432) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -111,7 +111,7 @@ DeepSeek-Prover-V2 是一款专为 **Lean 4** 形式化定理证明设计的开�
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/04/29/us/politics/trump-crypto-world-liberty-financial.html): Secret Deals, Foreign Investments: The Rise of Trump’s Crypto Firm</small>
 
 
-| 🔥🔥: 219 \| 💬: [138](https://news.ycombinator.com/item?id=43843621) \| 🗓️ 2025-04-30
+| 🔥🔥: 222 \| 💬: [141](https://news.ycombinator.com/item?id=43843621) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -119,23 +119,11 @@ DeepSeek-Prover-V2 是一款专为 **Lean 4** 形式化定理证明设计的开�
 
 ---
 
-## <a name="9"></a>9. NotebookLM音频概述功能现已支持50多种语言 
-<small>🔗 [blog.google](https://blog.google/technology/google-labs/notebooklm-audio-overviews-50-languages/): NotebookLM Audio Overviews are now available in over 50 languages</small>
-
-
-| 🔥🔥: 192 \| 💬: [52](https://news.ycombinator.com/item?id=43848325) \| 🗓️ 2025-04-30
-
-
-<br />
-NotebookLM的**音频概述**功能新增支持超过50种语言，包括南非荷兰语、印地语和土耳其语等。该功能可将文本源转换为类似播客的对话，现通过Gemini的原生音频支持实现多语言输出。用户可在设置中选择**输出语言**，随时切换并生成对应语言的音频内容。例如，教师可上传多语言资料，学生则能获取母语的关键信息摘要，有效打破语言障碍。立即访问notebooklm.google体验。
-
----
-
-## <a name="10"></a>10. 谷歌应用商店应用数量一年内暴跌47% 
+## <a name="9"></a>9. 谷歌应用商店应用数量一年内暴跌47% 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/04/29/google-play-sees-47-decline-in-apps-since-start-of-last-year/): Google Play sees 47% decline in apps since start of last year</small>
 
 
-| 🔥🔥: 166 \| 💬: [82](https://news.ycombinator.com/item?id=43849383) \| 🗓️ 2025-04-30
+| 🔥🔥: 209 \| 💬: [123](https://news.ycombinator.com/item?id=43849383) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -143,11 +131,23 @@ NotebookLM的**音频概述**功能新增支持超过50种语言，包括南非�
 
 ---
 
+## <a name="10"></a>10. NotebookLM音频概述功能现已支持50多种语言 
+<small>🔗 [blog.google](https://blog.google/technology/google-labs/notebooklm-audio-overviews-50-languages/): NotebookLM Audio Overviews are now available in over 50 languages</small>
+
+
+| 🔥🔥: 204 \| 💬: [63](https://news.ycombinator.com/item?id=43848325) \| 🗓️ 2025-04-30
+
+
+<br />
+NotebookLM的**音频概述**功能新增支持超过50种语言，包括南非荷兰语、印地语和土耳其语等。该功能可将文本源转换为类似播客的对话，现通过Gemini的原生音频支持实现多语言输出。用户可在设置中选择**输出语言**，随时切换并生成对应语言的音频内容。例如，教师可上传多语言资料，学生则能获取母语的关键信息摘要，有效打破语言障碍。立即访问notebooklm.google体验。
+
+---
+
 ## <a name="11"></a>11. 40年前加入Sun微系统的传奇经历 
 <small>🔗 [akapugs.blog](https://akapugs.blog/2022/05/03/674/): Joining Sun Microsystems – 40 years ago (2022)</small>
 
 
-| 🔥🔥: 152 \| 💬: [117](https://news.ycombinator.com/item?id=43846187) \| 🗓️ 2025-04-30
+| 🔥🔥: 158 \| 💬: [126](https://news.ycombinator.com/item?id=43846187) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -159,7 +159,7 @@ NotebookLM的**音频概述**功能新增支持超过50种语言，包括南非�
 <small>🔗 [devclass.com](https://devclass.com/2025/04/30/jetbrains-defends-removal-of-negative-reviews-for-unpopular-ai-assistant/): JetBrains defends removal of negative reviews for unpopular AI Assistant</small>
 
 
-| 🔥: 99 \| 💬: [45](https://news.ycombinator.com/item?id=43850377) \| 🗓️ 2025-04-30
+| 🔥🔥: 121 \| 💬: [62](https://news.ycombinator.com/item?id=43850377) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -167,35 +167,11 @@ JetBrains为其在插件市场删除**AI助手**的负面评价辩护，称此�
 
 ---
 
-## <a name="13"></a>13. OCaml的机器学习翅膀：Raven生态系统 
-<small>🔗 [github.com](https://github.com/raven-ml/raven): OCaml's Wings for Machine Learning</small>
-
-
-| 🔥: 96 \| 💬: [49](https://news.ycombinator.com/item?id=43844279) \| 🗓️ 2025-04-30
-
-
-<br />
-Raven是一个为OCaml打造的**机器学习与数据科学**工具集，旨在结合OCaml的**类型安全**与高性能优势，提供媲美Python的开发体验。当前处于预-alpha阶段，核心组件包括多维数组库**Ndarray**、可视化工具Hugin、自动微分库Rune等。项目采用ISC许可，欢迎开发者参与贡献，共同推动OCaml在AI领域的应用。
-
----
-
-## <a name="14"></a>14. 机械联动与铰链实现的可逆计算 
-<small>🔗 [tennysontbardwell.com](https://tennysontbardwell.com/blog/2025/04/30/mechanical-computing/index.html): Reversible computing with mechanical links and pivots</small>
-
-
-| 🔥: 89 \| 💬: [37](https://news.ycombinator.com/item?id=43848398) \| 🗓️ 2025-04-30
-
-
-<br />
-随着“摩尔定律失效”的担忧加剧，**可逆计算**因理论上能达到**能量效率极限**（兰道尔原理指出不可逆操作至少消耗2.9×10⁻²¹ J/次）而备受关注。当前CPU（如AMD Ryzen）的能效仍比理论值低9个数量级。一篇论文提出仅用**机械连杆与旋转关节**构建图灵完备计算机：基础元件“**锁**”通过三角形滑动实现互斥，结合“平衡器”和“曲柄”可组成通用NAND门。该设计甚至能以30nm碳结构实现，为后摩尔时代计算提供新思路。
-
----
-
-## <a name="15"></a>15. Linux内核漏洞利用：Vsock攻击剖析 
+## <a name="13"></a>13. Linux内核漏洞利用：Vsock攻击剖析 
 <small>🔗 [hoefler.dev](https://hoefler.dev/articles/vsock.html): Linux Kernel Exploitation: Attack of the Vsock</small>
 
 
-| 🔥: 83 \| 💬: [24](https://news.ycombinator.com/item?id=43849373) \| 🗓️ 2025-04-30
+| 🔥🔥: 104 \| 💬: [27](https://news.ycombinator.com/item?id=43849373) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -203,11 +179,47 @@ Raven是一个为OCaml打造的**机器学习与数据科学**工具集，旨在
 
 ---
 
-## <a name="16"></a>16. 常春藤名校为何承受不起数亿美元损失？ 
+## <a name="14"></a>14. OCaml的机器学习翅膀：Raven生态系统 
+<small>🔗 [github.com](https://github.com/raven-ml/raven): OCaml's Wings for Machine Learning</small>
+
+
+| 🔥: 98 \| 💬: [54](https://news.ycombinator.com/item?id=43844279) \| 🗓️ 2025-04-30
+
+
+<br />
+Raven是一个为OCaml打造的**机器学习与数据科学**工具集，旨在结合OCaml的**类型安全**与高性能优势，提供媲美Python的开发体验。当前处于预-alpha阶段，核心组件包括多维数组库**Ndarray**、可视化工具Hugin、自动微分库Rune等。项目采用ISC许可，欢迎开发者参与贡献，共同推动OCaml在AI领域的应用。
+
+---
+
+## <a name="15"></a>15. OSU开源实验室面临关停危机 
+<small>🔗 [osuosl.org](https://osuosl.org/blog/osl-future/): Future of OSU Open Source Lab in Jeopardy</small>
+
+
+| 🔥: 96 \| 💬: [27](https://news.ycombinator.com/item?id=43849271) \| 🗓️ 2025-04-30
+
+
+<br />
+由于**企业捐款减少**，俄勒冈州立大学开源实验室（OSL）长期处于亏损状态。尽管工程学院（CoE）此前提供资金支持，但近期大学预算削减导致CoE无法继续填补缺口。**若无法在5月14日前筹集25万美元**，实验室将于年内关闭。OSL为全球500多个开源项目（如Firefox、Apache、Linux等）提供关键托管服务，并培养了大量技术人才。此外，校园数据中心因设备老化面临搬迁，但**资金短缺是当前首要问题**。呼吁各界通过donations@osuosl.org提供援助。
+
+---
+
+## <a name="16"></a>16. 机械联动与铰链实现的可逆计算 
+<small>🔗 [tennysontbardwell.com](https://tennysontbardwell.com/blog/2025/04/30/mechanical-computing/index.html): Reversible computing with mechanical links and pivots</small>
+
+
+| 🔥: 92 \| 💬: [45](https://news.ycombinator.com/item?id=43848398) \| 🗓️ 2025-04-30
+
+
+<br />
+随着“摩尔定律失效”的担忧加剧，**可逆计算**因理论上能达到**能量效率极限**（兰道尔原理指出不可逆操作至少消耗2.9×10⁻²¹ J/次）而备受关注。当前CPU（如AMD Ryzen）的能效仍比理论值低9个数量级。一篇论文提出仅用**机械连杆与旋转关节**构建图灵完备计算机：基础元件“**锁**”通过三角形滑动实现互斥，结合“平衡器”和“曲柄”可组成通用NAND门。该设计甚至能以30nm碳结构实现，为后摩尔时代计算提供新思路。
+
+---
+
+## <a name="17"></a>17. 常春藤名校为何承受不起数亿美元损失？ 
 <small>🔗 [economist.com](https://www.economist.com/briefing/2025/04/10/why-cant-stinking-rich-ivies-cope-with-losing-a-few-hundred-million): Why can't Ivies cope with losing a few hundred million?</small>
 
 
-| 🔥: 70 \| 💬: [231](https://news.ycombinator.com/item?id=43845874) \| 🗓️ 2025-04-30
+| 🔥: 72 \| 💬: [242](https://news.ycombinator.com/item?id=43845874) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -215,11 +227,11 @@ Raven是一个为OCaml打造的**机器学习与数据科学**工具集，旨在
 
 ---
 
-## <a name="17"></a>17. 维基百科宣布引入AI辅助编辑，但不会取代人类志愿者 
+## <a name="18"></a>18. 维基百科宣布引入AI辅助编辑，但不会取代人类志愿者 
 <small>🔗 [wikimediafoundation.org](https://wikimediafoundation.org/news/2025/04/30/our-new-ai-strategy-puts-wikipedias-humans-first/): Wikipedia says it will use AI, but not to replace human volunteers</small>
 
 
-| 🔥: 68 \| 💬: [39](https://news.ycombinator.com/item?id=43846052) \| 🗓️ 2025-04-30
+| 🔥: 70 \| 💬: [40](https://news.ycombinator.com/item?id=43846052) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -227,11 +239,11 @@ Raven是一个为OCaml打造的**机器学习与数据科学**工具集，旨在
 
 ---
 
-## <a name="18"></a>18. Boox推出首款彩色E Ink显示器Mira Pro Color 
+## <a name="19"></a>19. Boox推出首款彩色E Ink显示器Mira Pro Color 
 <small>🔗 [theverge.com](https://www.theverge.com/news/658705/boox-mira-pro-color-e-ink-desktop-monitor): The Mira Pro Color is Boox's first color E Ink monitor</small>
 
 
-| 🔥: 66 \| 💬: [31](https://news.ycombinator.com/item?id=43848381) \| 🗓️ 2025-04-30
+| 🔥: 70 \| 💬: [32](https://news.ycombinator.com/item?id=43848381) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -239,7 +251,31 @@ Boox发布了其首款**25.3英寸彩色E Ink桌面显示器**Mira Pro Color，�
 
 ---
 
-## <a name="19"></a>19. 拒绝即服务（NAAS）：随机生成优雅回绝理由的API 
+## <a name="20"></a>20. 2025年初纽约房价上涨10%，曼哈顿领跑 
+<small>🔗 [qns.com](https://qns.com/2025/04/home-prices-rise-early-2025-malba-highest-queens/): NYC home prices rise 10% in early 2025</small>
+
+
+| 🔥: 68 \| 💬: [45](https://news.ycombinator.com/item?id=43849791) \| 🗓️ 2025-04-30
+
+
+<br />
+根据PropertyShark报告，2025年第一季度纽约市** median sale price**同比上涨10%，达到76.8万美元。**曼哈顿**涨幅最显著，Hudson Yards以535.5万美元的** median sale price**位居全市最贵社区榜首。皇后区Malba以155万美元排名第11，而布鲁克林的Madison房价飙升145%，涨幅居全市之首。布朗克斯涨幅最小，未进入前50名。
+
+---
+
+## <a name="21"></a>21. 用Google Sheets轻松定制专属AI模型 
+<small>🔗 [promptrepo.com](https://promptrepo.com/finetune/): Show HN: Create your own finetuned AI model using Google Sheets</small>
+
+
+| 🔥: 67 \| 💬: [29](https://news.ycombinator.com/item?id=43846964) \| 🗓️ 2025-04-30
+
+
+<br />
+该工具允许用户通过**Google表格数据**直接训练和部署AI模型，支持**OpenAI、Mistral和LLaMA**等平台，无需编程即可创建分类、提取和生成式模型。提供API集成、版本控制及模型评估功能，适用于客户对话分析、电子签名等场景，尤其适合需要快速迭代的领域专家。
+
+---
+
+## <a name="22"></a>22. 拒绝即服务（NAAS）：随机生成优雅回绝理由的API 
 <small>🔗 [github.com](https://github.com/hotheadhacker/no-as-a-service): No as a Service</small>
 
 
@@ -251,35 +287,11 @@ NAAS是一个**轻量级API**，提供随机、幽默或专业的拒绝理由，
 
 ---
 
-## <a name="20"></a>20. 用Google Sheets轻松定制专属AI模型 
-<small>🔗 [promptrepo.com](https://promptrepo.com/finetune/): Show HN: Create your own finetuned AI model using Google Sheets</small>
-
-
-| 🔥: 62 \| 💬: [27](https://news.ycombinator.com/item?id=43846964) \| 🗓️ 2025-04-30
-
-
-<br />
-该工具允许用户通过**Google表格数据**直接训练和部署AI模型，支持**OpenAI、Mistral和LLaMA**等平台，无需编程即可创建分类、提取和生成式模型。提供API集成、版本控制及模型评估功能，适用于客户对话分析、电子签名等场景，尤其适合需要快速迭代的领域专家。
-
----
-
-## <a name="21"></a>21. OSU开源实验室面临关停危机 
-<small>🔗 [osuosl.org](https://osuosl.org/blog/osl-future/): Future of OSU Open Source Lab in Jeopardy</small>
-
-
-| 🔥: 60 \| 💬: [17](https://news.ycombinator.com/item?id=43849271) \| 🗓️ 2025-04-30
-
-
-<br />
-由于**企业捐款减少**，俄勒冈州立大学开源实验室（OSL）长期处于亏损状态。尽管工程学院（CoE）此前提供资金支持，但近期大学预算削减导致CoE无法继续填补缺口。**若无法在5月14日前筹集25万美元**，实验室将于年内关闭。OSL为全球500多个开源项目（如Firefox、Apache、Linux等）提供关键托管服务，并培养了大量技术人才。此外，校园数据中心因设备老化面临搬迁，但**资金短缺是当前首要问题**。呼吁各界通过donations@osuosl.org提供援助。
-
----
-
-## <a name="22"></a>22. 开源强化学习框架ART：用GRPO算法高效训练LLM智能体 
+## <a name="23"></a>23. 开源强化学习框架ART：用GRPO算法高效训练LLM智能体 
 <small>🔗 [github.com](https://github.com/OpenPipe/ART): Show HN: ART – a new open-source RL framework for training agents</small>
 
 
-| 🔥: 55 \| 💬: [8](https://news.ycombinator.com/item?id=43846690) \| 🗓️ 2025-04-30
+| 🔥: 62 \| 💬: [8](https://news.ycombinator.com/item?id=43846690) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -287,11 +299,11 @@ OpenPipe推出的**ART**是一个开源强化学习框架，专为提升**大语
 
 ---
 
-## <a name="23"></a>23. 年轻人幸福感持续下降，全球繁荣研究揭示严峻趋势 
+## <a name="24"></a>24. 年轻人幸福感持续下降，全球繁荣研究揭示严峻趋势 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/04/30/well/mind/happiness-flourishing-young-adult-study.html): Young people aren't as happy as they used to be [Global Flourishing Study]</small>
 
 
-| 🔥: 39 \| 💬: [64](https://news.ycombinator.com/item?id=43847368) \| 🗓️ 2025-04-30
+| 🔥: 39 \| 💬: [65](https://news.ycombinator.com/item?id=43847368) \| 🗓️ 2025-04-30
 
 
 <br />
