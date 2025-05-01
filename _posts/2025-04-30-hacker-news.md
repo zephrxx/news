@@ -27,7 +27,7 @@ tags:
 <small>🔗 [jayd.ml](https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html): Someone at YouTube needs glasses</small>
 
 
-| 🔥🔥: 1050 \| 💬: [568](https://news.ycombinator.com/item?id=43846487) \| 🗓️ 2025-04-30
+| 🔥🔥: 1068 \| 💬: [574](https://news.ycombinator.com/item?id=43846487) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [yle.fi](https://yle.fi/a/74-20158886): Finland Bans Smartphones in Schools</small>
 
 
-| 🔥🔥: 727 \| 💬: [446](https://news.ycombinator.com/item?id=43842856) \| 🗓️ 2025-04-30
+| 🔥🔥: 729 \| 💬: [446](https://news.ycombinator.com/item?id=43842856) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/29/port-of-los-angeles-sees-shipping-volume-down-35percent-next-week-as-tariffs-bite.html): Port of Los Angeles says shipping volume will plummet 35% next week</small>
 
 
-| 🔥🔥: 677 \| 💬: [590](https://news.ycombinator.com/item?id=43844708) \| 🗓️ 2025-04-30
+| 🔥🔥: 679 \| 💬: [593](https://news.ycombinator.com/item?id=43844708) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [fortune.com](https://fortune.com/article/retailers-weeks-of-inventory-left-trump-china-trade-war/): Retailers will soon have only about 7 weeks of full inventories left</small>
 
 
-| 🔥🔥: 458 \| 💬: [773](https://news.ycombinator.com/item?id=43843821) \| 🗓️ 2025-04-30
+| 🔥🔥: 462 \| 💬: [785](https://news.ycombinator.com/item?id=43843821) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [github.com](https://github.com/XiaomiMiMo/MiMo): Xiaomi MiMo Reasoning Model</small>
 
 
-| 🔥🔥: 416 \| 💬: [152](https://news.ycombinator.com/item?id=43842683) \| 🗓️ 2025-04-30
+| 🔥🔥: 417 \| 💬: [153](https://news.ycombinator.com/item?id=43842683) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [github.com](https://github.com/deepseek-ai/DeepSeek-Prover-V2): DeepSeek-Prover-V2</small>
 
 
-| 🔥🔥: 318 \| 💬: [62](https://news.ycombinator.com/item?id=43847432) \| 🗓️ 2025-04-30
+| 🔥🔥: 321 \| 💬: [63](https://news.ycombinator.com/item?id=43847432) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -99,7 +99,7 @@ DeepSeek-Prover-V2 是一款专为 **Lean 4** 形式化定理证明设计的开�
 <small>🔗 [anildash.com](https://www.anildash.com//2025/04/19/ai-first-is-the-new-return-to-office/): "AI-first" is the new Return To Office</small>
 
 
-| 🔥🔥: 309 \| 💬: [187](https://news.ycombinator.com/item?id=43845089) \| 🗓️ 2025-04-30
+| 🔥🔥: 310 \| 💬: [188](https://news.ycombinator.com/item?id=43845089) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -111,7 +111,7 @@ DeepSeek-Prover-V2 是一款专为 **Lean 4** 形式化定理证明设计的开�
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/04/29/google-play-sees-47-decline-in-apps-since-start-of-last-year/): Google Play sees 47% decline in apps since start of last year</small>
 
 
-| 🔥🔥: 289 \| 💬: [200](https://news.ycombinator.com/item?id=43849383) \| 🗓️ 2025-04-30
+| 🔥🔥: 293 \| 💬: [200](https://news.ycombinator.com/item?id=43849383) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -123,7 +123,7 @@ DeepSeek-Prover-V2 是一款专为 **Lean 4** 形式化定理证明设计的开�
 <small>🔗 [blog.google](https://blog.google/technology/google-labs/notebooklm-audio-overviews-50-languages/): NotebookLM Audio Overviews are now available in over 50 languages</small>
 
 
-| 🔥🔥: 244 \| 💬: [77](https://news.ycombinator.com/item?id=43848325) \| 🗓️ 2025-04-30
+| 🔥🔥: 249 \| 💬: [77](https://news.ycombinator.com/item?id=43848325) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -135,7 +135,7 @@ NotebookLM的**音频概述**功能新增支持超过50种语言，包括南非�
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/04/29/us/politics/trump-crypto-world-liberty-financial.html): Secret Deals, Foreign Investments: The Rise of Trump’s Crypto Firm</small>
 
 
-| 🔥🔥: 229 \| 💬: [145](https://news.ycombinator.com/item?id=43843621) \| 🗓️ 2025-04-30
+| 🔥🔥: 229 \| 💬: [147](https://news.ycombinator.com/item?id=43843621) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -147,7 +147,7 @@ NotebookLM的**音频概述**功能新增支持超过50种语言，包括南非�
 <small>🔗 [osuosl.org](https://osuosl.org/blog/osl-future/): Future of OSU Open Source Lab in Jeopardy</small>
 
 
-| 🔥🔥: 185 \| 💬: [56](https://news.ycombinator.com/item?id=43849271) \| 🗓️ 2025-04-30
+| 🔥🔥: 193 \| 💬: [61](https://news.ycombinator.com/item?id=43849271) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -159,7 +159,7 @@ NotebookLM的**音频概述**功能新增支持超过50种语言，包括南非�
 <small>🔗 [akapugs.blog](https://akapugs.blog/2022/05/03/674/): Joining Sun Microsystems – 40 years ago (2022)</small>
 
 
-| 🔥🔥: 167 \| 💬: [138](https://news.ycombinator.com/item?id=43846187) \| 🗓️ 2025-04-30
+| 🔥🔥: 167 \| 💬: [139](https://news.ycombinator.com/item?id=43846187) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -171,7 +171,7 @@ NotebookLM的**音频概述**功能新增支持超过50种语言，包括南非�
 <small>🔗 [hoefler.dev](https://hoefler.dev/articles/vsock.html): Linux Kernel Exploitation: Attack of the Vsock</small>
 
 
-| 🔥🔥: 155 \| 💬: [41](https://news.ycombinator.com/item?id=43849373) \| 🗓️ 2025-04-30
+| 🔥🔥: 162 \| 💬: [42](https://news.ycombinator.com/item?id=43849373) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -183,7 +183,7 @@ NotebookLM的**音频概述**功能新增支持超过50种语言，包括南非�
 <small>🔗 [devclass.com](https://devclass.com/2025/04/30/jetbrains-defends-removal-of-negative-reviews-for-unpopular-ai-assistant/): JetBrains defends removal of negative reviews for unpopular AI Assistant</small>
 
 
-| 🔥🔥: 147 \| 💬: [88](https://news.ycombinator.com/item?id=43850377) \| 🗓️ 2025-04-30
+| 🔥🔥: 151 \| 💬: [88](https://news.ycombinator.com/item?id=43850377) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -195,7 +195,7 @@ JetBrains为其在插件市场删除**AI助手**的负面评价辩护，称此�
 <small>🔗 [tennysontbardwell.com](https://tennysontbardwell.com/blog/2025/04/30/mechanical-computing/index.html): Reversible computing with mechanical links and pivots</small>
 
 
-| 🔥🔥: 119 \| 💬: [57](https://news.ycombinator.com/item?id=43848398) \| 🗓️ 2025-04-30
+| 🔥🔥: 122 \| 💬: [57](https://news.ycombinator.com/item?id=43848398) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -203,23 +203,11 @@ JetBrains为其在插件市场删除**AI助手**的负面评价辩护，称此�
 
 ---
 
-## <a name="16"></a>16. 兆芯KX-7000：国产x86处理器的世纪大道架构突破 
-<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/zhaoxins-kx-7000): Zhaoxin's KX-7000</small>
-
-
-| 🔥🔥: 115 \| 💬: [29](https://news.ycombinator.com/item?id=43850238) \| 🗓️ 2025-04-30
-
-
-<br />
-兆芯KX-7000采用新一代**世纪大道**架构，升级为4宽解码、支持AVX2指令集，性能较前代KX-6640MA显著提升，主频达3.2GHz。其**8核芯片组设计**类似AMD锐龙，共享32MB L3缓存，但内存子系统仍存短板，如L3延迟较高（27纳秒）、分支预测性能较弱。作为VIA与上海政府合资企业产品，兆芯依托**x86-64生态优势**，瞄准国产化市场，但整体性能仍落后于国际主流水平。
-
----
-
-## <a name="17"></a>17. Espressif ESP32-C5芯片已进入量产阶段 
+## <a name="16"></a>16. Espressif ESP32-C5芯片已进入量产阶段 
 <small>🔗 [espressif.com](https://www.espressif.com/en/news/ESP32-C5_Mass_Production): Espressif's ESP32-C5 Is Now in Mass Production</small>
 
 
-| 🔥🔥: 110 \| 💬: [70](https://news.ycombinator.com/item?id=43851314) \| 🗓️ 2025-04-30
+| 🔥🔥: 119 \| 💬: [81](https://news.ycombinator.com/item?id=43851314) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -227,35 +215,23 @@ Espressif Systems宣布其**ESP32-C5**芯片正式投入**大规模生产**。�
 
 ---
 
-## <a name="18"></a>18. OCaml的机器学习翅膀：Raven生态系统 
-<small>🔗 [github.com](https://github.com/raven-ml/raven): OCaml's Wings for Machine Learning</small>
+## <a name="17"></a>17. 兆芯KX-7000：国产x86处理器的世纪大道架构突破 
+<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/zhaoxins-kx-7000): Zhaoxin's KX-7000</small>
 
 
-| 🔥🔥: 102 \| 💬: [61](https://news.ycombinator.com/item?id=43844279) \| 🗓️ 2025-04-30
-
-
-<br />
-Raven是一个为OCaml打造的**机器学习与数据科学**工具集，旨在结合OCaml的**类型安全**与高性能优势，提供媲美Python的开发体验。当前处于预-alpha阶段，核心组件包括多维数组库**Ndarray**、可视化工具Hugin、自动微分库Rune等。项目采用ISC许可，欢迎开发者参与贡献，共同推动OCaml在AI领域的应用。
-
----
-
-## <a name="19"></a>19. 用Google Sheets轻松定制专属AI模型 
-<small>🔗 [promptrepo.com](https://promptrepo.com/finetune/): Show HN: Create your own finetuned AI model using Google Sheets</small>
-
-
-| 🔥🔥: 101 \| 💬: [34](https://news.ycombinator.com/item?id=43846964) \| 🗓️ 2025-04-30
+| 🔥🔥: 118 \| 💬: [30](https://news.ycombinator.com/item?id=43850238) \| 🗓️ 2025-04-30
 
 
 <br />
-该工具允许用户通过**Google表格数据**直接训练和部署AI模型，支持**OpenAI、Mistral和LLaMA**等平台，无需编程即可创建分类、提取和生成式模型。提供API集成、版本控制及模型评估功能，适用于客户对话分析、电子签名等场景，尤其适合需要快速迭代的领域专家。
+兆芯KX-7000采用新一代**世纪大道**架构，升级为4宽解码、支持AVX2指令集，性能较前代KX-6640MA显著提升，主频达3.2GHz。其**8核芯片组设计**类似AMD锐龙，共享32MB L3缓存，但内存子系统仍存短板，如L3延迟较高（27纳秒）、分支预测性能较弱。作为VIA与上海政府合资企业产品，兆芯依托**x86-64生态优势**，瞄准国产化市场，但整体性能仍落后于国际主流水平。
 
 ---
 
-## <a name="20"></a>20. 攻破Ladybird浏览器：LibJS引擎UAF漏洞分析 
+## <a name="18"></a>18. 攻破Ladybird浏览器：LibJS引擎UAF漏洞分析 
 <small>🔗 [jessie.cafe](https://jessie.cafe/posts/pwning-ladybirds-libjs/): Pwning the Ladybird Browser</small>
 
 
-| 🔥: 99 \| 💬: [13](https://news.ycombinator.com/item?id=43852096) \| 🗓️ 2025-04-30
+| 🔥🔥: 117 \| 💬: [13](https://news.ycombinator.com/item?id=43852096) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -263,11 +239,35 @@ Raven是一个为OCaml打造的**机器学习与数据科学**工具集，旨在
 
 ---
 
+## <a name="19"></a>19. OCaml的机器学习翅膀：Raven生态系统 
+<small>🔗 [github.com](https://github.com/raven-ml/raven): OCaml's Wings for Machine Learning</small>
+
+
+| 🔥🔥: 103 \| 💬: [61](https://news.ycombinator.com/item?id=43844279) \| 🗓️ 2025-04-30
+
+
+<br />
+Raven是一个为OCaml打造的**机器学习与数据科学**工具集，旨在结合OCaml的**类型安全**与高性能优势，提供媲美Python的开发体验。当前处于预-alpha阶段，核心组件包括多维数组库**Ndarray**、可视化工具Hugin、自动微分库Rune等。项目采用ISC许可，欢迎开发者参与贡献，共同推动OCaml在AI领域的应用。
+
+---
+
+## <a name="20"></a>20. 用Google Sheets轻松定制专属AI模型 
+<small>🔗 [promptrepo.com](https://promptrepo.com/finetune/): Show HN: Create your own finetuned AI model using Google Sheets</small>
+
+
+| 🔥🔥: 102 \| 💬: [34](https://news.ycombinator.com/item?id=43846964) \| 🗓️ 2025-04-30
+
+
+<br />
+该工具允许用户通过**Google表格数据**直接训练和部署AI模型，支持**OpenAI、Mistral和LLaMA**等平台，无需编程即可创建分类、提取和生成式模型。提供API集成、版本控制及模型评估功能，适用于客户对话分析、电子签名等场景，尤其适合需要快速迭代的领域专家。
+
+---
+
 ## <a name="21"></a>21. 二战美军密码破译专家朱莉娅·帕森斯逝世，享年104岁 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/04/30/world/julia-parsons-dead.html): Julia Parsons, U.S. Navy Code Breaker During World War II, Dies at 104</small>
 
 
-| 🔥: 89 \| 💬: [4](https://news.ycombinator.com/item?id=43852220) \| 🗓️ 2025-04-30
+| 🔥🔥: 101 \| 💬: [7](https://news.ycombinator.com/item?id=43852220) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -279,7 +279,7 @@ Raven是一个为OCaml打造的**机器学习与数据科学**工具集，旨在
 <small>🔗 [qns.com](https://qns.com/2025/04/home-prices-rise-early-2025-malba-highest-queens/): NYC home prices rise 10% in early 2025</small>
 
 
-| 🔥: 88 \| 💬: [75](https://news.ycombinator.com/item?id=43849791) \| 🗓️ 2025-04-30
+| 🔥: 88 \| 💬: [76](https://news.ycombinator.com/item?id=43849791) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -291,7 +291,7 @@ Raven是一个为OCaml打造的**机器学习与数据科学**工具集，旨在
 <small>🔗 [economist.com](https://www.economist.com/briefing/2025/04/10/why-cant-stinking-rich-ivies-cope-with-losing-a-few-hundred-million): Why can't Ivies cope with losing a few hundred million?</small>
 
 
-| 🔥: 83 \| 💬: [266](https://news.ycombinator.com/item?id=43845874) \| 🗓️ 2025-04-30
+| 🔥: 83 \| 💬: [268](https://news.ycombinator.com/item?id=43845874) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -311,14 +311,14 @@ Boox发布了其首款**25.3英寸彩色E Ink桌面显示器**Mira Pro Color，�
 
 ---
 
-## <a name="25"></a>25. 维基百科宣布引入AI辅助编辑，但不会取代人类志愿者 
-<small>🔗 [wikimediafoundation.org](https://wikimediafoundation.org/news/2025/04/30/our-new-ai-strategy-puts-wikipedias-humans-first/): Wikipedia says it will use AI, but not to replace human volunteers</small>
+## <a name="25"></a>25. 开源强化学习框架ART：用GRPO算法高效训练LLM智能体 
+<small>🔗 [github.com](https://github.com/OpenPipe/ART): Show HN: ART – a new open-source RL framework for training agents</small>
 
 
-| 🔥: 73 \| 💬: [40](https://news.ycombinator.com/item?id=43846052) \| 🗓️ 2025-04-30
+| 🔥: 75 \| 💬: [8](https://news.ycombinator.com/item?id=43846690) \| 🗓️ 2025-04-30
 
 
 <br />
-维基百科强调，其成功核心在于**人类志愿者**25年来对知识严谨性的坚持，这是AI无法替代的。新AI战略将专注于**提升志愿者效率**，例如通过自动化繁琐任务、优化信息检索、辅助多语言翻译及新人培训。所有AI工具将遵循**开源透明**原则，并以维基百科的价值观为指导，确保技术服务于人类协作与知识自由共享的使命。
+OpenPipe推出的**ART**是一个开源强化学习框架，专为提升**大语言模型（LLM）**在智能体任务中的表现设计。其核心采用**GRPO算法**，支持用户通过最小代码改动实现高性能训练，并保留现有代码库的工作流。ART分为客户端与服务端：客户端兼容OpenAI接口，服务端负责RL训练循环（如轨迹收集、奖励分配、LoRA微调）。目前已测试2048、井字棋等任务，支持多数vLLM/Transformers模型（Gemma 3暂不兼容）。项目处于**Alpha阶段**，欢迎开发者通过Discord或GitHub参与贡献。
 
 ---
