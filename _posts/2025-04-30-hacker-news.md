@@ -27,7 +27,7 @@ tags:
 <small>🔗 [jayd.ml](https://jayd.ml/2025/04/30/someone-at-youtube-needs-glasses.html): Someone at YouTube needs glasses</small>
 
 
-| 🔥🔥: 1014 \| 💬: [551](https://news.ycombinator.com/item?id=43846487) \| 🗓️ 2025-04-30
+| 🔥🔥: 1031 \| 💬: [562](https://news.ycombinator.com/item?id=43846487) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [yle.fi](https://yle.fi/a/74-20158886): Finland Bans Smartphones in Schools</small>
 
 
-| 🔥🔥: 720 \| 💬: [442](https://news.ycombinator.com/item?id=43842856) \| 🗓️ 2025-04-30
+| 🔥🔥: 723 \| 💬: [446](https://news.ycombinator.com/item?id=43842856) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/04/29/port-of-los-angeles-sees-shipping-volume-down-35percent-next-week-as-tariffs-bite.html): Port of Los Angeles says shipping volume will plummet 35% next week</small>
 
 
-| 🔥🔥: 669 \| 💬: [578](https://news.ycombinator.com/item?id=43844708) \| 🗓️ 2025-04-30
+| 🔥🔥: 675 \| 💬: [582](https://news.ycombinator.com/item?id=43844708) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [fortune.com](https://fortune.com/article/retailers-weeks-of-inventory-left-trump-china-trade-war/): Retailers will soon have only about 7 weeks of full inventories left</small>
 
 
-| 🔥🔥: 445 \| 💬: [726](https://news.ycombinator.com/item?id=43843821) \| 🗓️ 2025-04-30
+| 🔥🔥: 455 \| 💬: [762](https://news.ycombinator.com/item?id=43843821) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [github.com](https://github.com/XiaomiMiMo/MiMo): Xiaomi MiMo Reasoning Model</small>
 
 
-| 🔥🔥: 401 \| 💬: [152](https://news.ycombinator.com/item?id=43842683) \| 🗓️ 2025-04-30
+| 🔥🔥: 405 \| 💬: [152](https://news.ycombinator.com/item?id=43842683) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [github.com](https://github.com/deepseek-ai/DeepSeek-Prover-V2): DeepSeek-Prover-V2</small>
 
 
-| 🔥🔥: 305 \| 💬: [60](https://news.ycombinator.com/item?id=43847432) \| 🗓️ 2025-04-30
+| 🔥🔥: 312 \| 💬: [60](https://news.ycombinator.com/item?id=43847432) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -99,7 +99,7 @@ DeepSeek-Prover-V2 是一款专为 **Lean 4** 形式化定理证明设计的开�
 <small>🔗 [anildash.com](https://www.anildash.com//2025/04/19/ai-first-is-the-new-return-to-office/): "AI-first" is the new Return To Office</small>
 
 
-| 🔥🔥: 297 \| 💬: [182](https://news.ycombinator.com/item?id=43845089) \| 🗓️ 2025-04-30
+| 🔥🔥: 305 \| 💬: [184](https://news.ycombinator.com/item?id=43845089) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -111,7 +111,7 @@ DeepSeek-Prover-V2 是一款专为 **Lean 4** 形式化定理证明设计的开�
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/04/29/google-play-sees-47-decline-in-apps-since-start-of-last-year/): Google Play sees 47% decline in apps since start of last year</small>
 
 
-| 🔥🔥: 269 \| 💬: [186](https://news.ycombinator.com/item?id=43849383) \| 🗓️ 2025-04-30
+| 🔥🔥: 280 \| 💬: [197](https://news.ycombinator.com/item?id=43849383) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -119,23 +119,11 @@ DeepSeek-Prover-V2 是一款专为 **Lean 4** 形式化定理证明设计的开�
 
 ---
 
-## <a name="9"></a>9. 秘密交易与外资涌入：特朗普加密公司的崛起 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/04/29/us/politics/trump-crypto-world-liberty-financial.html): Secret Deals, Foreign Investments: The Rise of Trump’s Crypto Firm</small>
-
-
-| 🔥🔥: 227 \| 💬: [142](https://news.ycombinator.com/item?id=43843621) \| 🗓️ 2025-04-30
-
-
-<br />
-《纽约时报》调查发现，特朗普家族推出的加密货币公司**World Liberty Financial**曾通过加密通讯应用Signal向多家企业提出合作，要求对方支付**数百万美元秘密费用**以换取品牌关联。尽管部分公司因认为该交易**不道德**而拒绝，World Liberty仍通过类似交易在全球筹集超5.5亿美元，其中大部分利润流向特朗普家族。公司高管坚称操作合法，但合作方指控其变相出售总统背书并隐瞒公众。
-
----
-
-## <a name="10"></a>10. NotebookLM音频概述功能现已支持50多种语言 
+## <a name="9"></a>9. NotebookLM音频概述功能现已支持50多种语言 
 <small>🔗 [blog.google](https://blog.google/technology/google-labs/notebooklm-audio-overviews-50-languages/): NotebookLM Audio Overviews are now available in over 50 languages</small>
 
 
-| 🔥🔥: 226 \| 💬: [72](https://news.ycombinator.com/item?id=43848325) \| 🗓️ 2025-04-30
+| 🔥🔥: 235 \| 💬: [78](https://news.ycombinator.com/item?id=43848325) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -143,23 +131,23 @@ NotebookLM的**音频概述**功能新增支持超过50种语言，包括南非�
 
 ---
 
-## <a name="11"></a>11. 40年前加入Sun微系统的传奇经历 
-<small>🔗 [akapugs.blog](https://akapugs.blog/2022/05/03/674/): Joining Sun Microsystems – 40 years ago (2022)</small>
+## <a name="10"></a>10. 秘密交易与外资涌入：特朗普加密公司的崛起 
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/04/29/us/politics/trump-crypto-world-liberty-financial.html): Secret Deals, Foreign Investments: The Rise of Trump’s Crypto Firm</small>
 
 
-| 🔥🔥: 164 \| 💬: [135](https://news.ycombinator.com/item?id=43846187) \| 🗓️ 2025-04-30
+| 🔥🔥: 227 \| 💬: [145](https://news.ycombinator.com/item?id=43843621) \| 🗓️ 2025-04-30
 
 
 <br />
-1982年5月3日，作者作为**第8号员工**加入初创公司Sun Microsystems。此前他在Amdahl公司从事UNIX移植工作，因对创业热潮心动而主动寻找机会。凭借**UNIX技术背景**和兄弟在Xerox的工作站经验，他敏锐关注到斯坦福的SUN项目。经Bill Joy推荐，Scott McNealy邀他面试，最终因**Bill Joy的加盟**和Sun的技术愿景选择加入。早期团队在Santa Clara办公，他成功修复磁盘驱动bug，助力Sun-1发货。一年后，Sun已成长为拥有Mountain View新园区、大量搭载BSD UNIX和以太网的工作站明星企业。
+《纽约时报》调查发现，特朗普家族推出的加密货币公司**World Liberty Financial**曾通过加密通讯应用Signal向多家企业提出合作，要求对方支付**数百万美元秘密费用**以换取品牌关联。尽管部分公司因认为该交易**不道德**而拒绝，World Liberty仍通过类似交易在全球筹集超5.5亿美元，其中大部分利润流向特朗普家族。公司高管坚称操作合法，但合作方指控其变相出售总统背书并隐瞒公众。
 
 ---
 
-## <a name="12"></a>12. OSU开源实验室面临关停危机 
+## <a name="11"></a>11. OSU开源实验室面临关停危机 
 <small>🔗 [osuosl.org](https://osuosl.org/blog/osl-future/): Future of OSU Open Source Lab in Jeopardy</small>
 
 
-| 🔥🔥: 164 \| 💬: [49](https://news.ycombinator.com/item?id=43849271) \| 🗓️ 2025-04-30
+| 🔥🔥: 173 \| 💬: [54](https://news.ycombinator.com/item?id=43849271) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -167,23 +155,23 @@ NotebookLM的**音频概述**功能新增支持超过50种语言，包括南非�
 
 ---
 
-## <a name="13"></a>13. JetBrains因删除AI助手差评引发争议 
-<small>🔗 [devclass.com](https://devclass.com/2025/04/30/jetbrains-defends-removal-of-negative-reviews-for-unpopular-ai-assistant/): JetBrains defends removal of negative reviews for unpopular AI Assistant</small>
+## <a name="12"></a>12. 40年前加入Sun微系统的传奇经历 
+<small>🔗 [akapugs.blog](https://akapugs.blog/2022/05/03/674/): Joining Sun Microsystems – 40 years ago (2022)</small>
 
 
-| 🔥🔥: 143 \| 💬: [83](https://news.ycombinator.com/item?id=43850377) \| 🗓️ 2025-04-30
+| 🔥🔥: 165 \| 💬: [138](https://news.ycombinator.com/item?id=43846187) \| 🗓️ 2025-04-30
 
 
 <br />
-JetBrains为其在插件市场删除**AI助手**的负面评价辩护，称此举或因内容过时，或违反政策（如含辱骂）。该工具下载量超2200万次，但评分仅2.3/5。用户指责公司**删除差评**损害信任，而官方解释称已修复提及的问题。争议暴露了该助手的诸多缺陷，如**强制安装**、高延迟和功能限制。同期推出的新AI工具Junie虽获好评，但被指定价过高。JetBrains面临开发者工具市场竞争压力，需平衡免费策略与付费模式。
+1982年5月3日，作者作为**第8号员工**加入初创公司Sun Microsystems。此前他在Amdahl公司从事UNIX移植工作，因对创业热潮心动而主动寻找机会。凭借**UNIX技术背景**和兄弟在Xerox的工作站经验，他敏锐关注到斯坦福的SUN项目。经Bill Joy推荐，Scott McNealy邀他面试，最终因**Bill Joy的加盟**和Sun的技术愿景选择加入。早期团队在Santa Clara办公，他成功修复磁盘驱动bug，助力Sun-1发货。一年后，Sun已成长为拥有Mountain View新园区、大量搭载BSD UNIX和以太网的工作站明星企业。
 
 ---
 
-## <a name="14"></a>14. Linux内核漏洞利用：Vsock攻击剖析 
+## <a name="13"></a>13. Linux内核漏洞利用：Vsock攻击剖析 
 <small>🔗 [hoefler.dev](https://hoefler.dev/articles/vsock.html): Linux Kernel Exploitation: Attack of the Vsock</small>
 
 
-| 🔥🔥: 139 \| 💬: [35](https://news.ycombinator.com/item?id=43849373) \| 🗓️ 2025-04-30
+| 🔥🔥: 146 \| 💬: [40](https://news.ycombinator.com/item?id=43849373) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -191,11 +179,23 @@ JetBrains为其在插件市场删除**AI助手**的负面评价辩护，称此�
 
 ---
 
+## <a name="14"></a>14. JetBrains因删除AI助手差评引发争议 
+<small>🔗 [devclass.com](https://devclass.com/2025/04/30/jetbrains-defends-removal-of-negative-reviews-for-unpopular-ai-assistant/): JetBrains defends removal of negative reviews for unpopular AI Assistant</small>
+
+
+| 🔥🔥: 145 \| 💬: [86](https://news.ycombinator.com/item?id=43850377) \| 🗓️ 2025-04-30
+
+
+<br />
+JetBrains为其在插件市场删除**AI助手**的负面评价辩护，称此举或因内容过时，或违反政策（如含辱骂）。该工具下载量超2200万次，但评分仅2.3/5。用户指责公司**删除差评**损害信任，而官方解释称已修复提及的问题。争议暴露了该助手的诸多缺陷，如**强制安装**、高延迟和功能限制。同期推出的新AI工具Junie虽获好评，但被指定价过高。JetBrains面临开发者工具市场竞争压力，需平衡免费策略与付费模式。
+
+---
+
 ## <a name="15"></a>15. 机械联动与铰链实现的可逆计算 
 <small>🔗 [tennysontbardwell.com](https://tennysontbardwell.com/blog/2025/04/30/mechanical-computing/index.html): Reversible computing with mechanical links and pivots</small>
 
 
-| 🔥🔥: 116 \| 💬: [56](https://news.ycombinator.com/item?id=43848398) \| 🗓️ 2025-04-30
+| 🔥🔥: 117 \| 💬: [57](https://news.ycombinator.com/item?id=43848398) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -219,7 +219,7 @@ Raven是一个为OCaml打造的**机器学习与数据科学**工具集，旨在
 <small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/zhaoxins-kx-7000): Zhaoxin's KX-7000</small>
 
 
-| 🔥: 96 \| 💬: [25](https://news.ycombinator.com/item?id=43850238) \| 🗓️ 2025-04-30
+| 🔥🔥: 101 \| 💬: [29](https://news.ycombinator.com/item?id=43850238) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -231,7 +231,7 @@ Raven是一个为OCaml打造的**机器学习与数据科学**工具集，旨在
 <small>🔗 [promptrepo.com](https://promptrepo.com/finetune/): Show HN: Create your own finetuned AI model using Google Sheets</small>
 
 
-| 🔥: 90 \| 💬: [33](https://news.ycombinator.com/item?id=43846964) \| 🗓️ 2025-04-30
+| 🔥: 98 \| 💬: [34](https://news.ycombinator.com/item?id=43846964) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -243,7 +243,7 @@ Raven是一个为OCaml打造的**机器学习与数据科学**工具集，旨在
 <small>🔗 [espressif.com](https://www.espressif.com/en/news/ESP32-C5_Mass_Production): Espressif's ESP32-C5 Is Now in Mass Production</small>
 
 
-| 🔥: 89 \| 💬: [57](https://news.ycombinator.com/item?id=43851314) \| 🗓️ 2025-04-30
+| 🔥: 96 \| 💬: [63](https://news.ycombinator.com/item?id=43851314) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -255,7 +255,7 @@ Espressif Systems宣布其**ESP32-C5**芯片正式投入**大规模生产**。�
 <small>🔗 [qns.com](https://qns.com/2025/04/home-prices-rise-early-2025-malba-highest-queens/): NYC home prices rise 10% in early 2025</small>
 
 
-| 🔥: 85 \| 💬: [73](https://news.ycombinator.com/item?id=43849791) \| 🗓️ 2025-04-30
+| 🔥: 88 \| 💬: [74](https://news.ycombinator.com/item?id=43849791) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -263,11 +263,23 @@ Espressif Systems宣布其**ESP32-C5**芯片正式投入**大规模生产**。�
 
 ---
 
-## <a name="21"></a>21. 常春藤名校为何承受不起数亿美元损失？ 
+## <a name="21"></a>21. 攻破Ladybird浏览器：LibJS引擎UAF漏洞分析 
+<small>🔗 [jessie.cafe](https://jessie.cafe/posts/pwning-ladybirds-libjs/): Pwning the Ladybird Browser</small>
+
+
+| 🔥: 82 \| 💬: [11](https://news.ycombinator.com/item?id=43852096) \| 🗓️ 2025-04-30
+
+
+<br />
+本文深入研究了新兴浏览器引擎**Ladybird**（源自SerenityOS项目）的JavaScript引擎**LibJS**。通过**Fuzzilli**模糊测试工具，作者发现了10个独特崩溃案例，其中最关键的是一个**堆使用后释放（UAF）漏洞**。该漏洞源于代理构造函数调用时，参数缓冲区在原型获取阶段被意外释放，导致后续执行时访问无效内存。文中详细分析了漏洞触发条件（如恶意`[[Get]]`处理程序的操作），并提供了修复方案——将原型获取操作延后至参数缓冲区初始化完成之后。攻击面涉及glibc的malloc堆，虽可利用性受限，但仍具备潜在危害。
+
+---
+
+## <a name="22"></a>22. 常春藤名校为何承受不起数亿美元损失？ 
 <small>🔗 [economist.com](https://www.economist.com/briefing/2025/04/10/why-cant-stinking-rich-ivies-cope-with-losing-a-few-hundred-million): Why can't Ivies cope with losing a few hundred million?</small>
 
 
-| 🔥: 81 \| 💬: [258](https://news.ycombinator.com/item?id=43845874) \| 🗓️ 2025-04-30
+| 🔥: 81 \| 💬: [265](https://news.ycombinator.com/item?id=43845874) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -275,11 +287,11 @@ Espressif Systems宣布其**ESP32-C5**芯片正式投入**大规模生产**。�
 
 ---
 
-## <a name="22"></a>22. Boox推出首款彩色E Ink显示器Mira Pro Color 
+## <a name="23"></a>23. Boox推出首款彩色E Ink显示器Mira Pro Color 
 <small>🔗 [theverge.com](https://www.theverge.com/news/658705/boox-mira-pro-color-e-ink-desktop-monitor): The Mira Pro Color is Boox's first color E Ink monitor</small>
 
 
-| 🔥: 74 \| 💬: [36](https://news.ycombinator.com/item?id=43848381) \| 🗓️ 2025-04-30
+| 🔥: 78 \| 💬: [36](https://news.ycombinator.com/item?id=43848381) \| 🗓️ 2025-04-30
 
 
 <br />
@@ -287,7 +299,7 @@ Boox发布了其首款**25.3英寸彩色E Ink桌面显示器**Mira Pro Color，�
 
 ---
 
-## <a name="23"></a>23. 维基百科宣布引入AI辅助编辑，但不会取代人类志愿者 
+## <a name="24"></a>24. 维基百科宣布引入AI辅助编辑，但不会取代人类志愿者 
 <small>🔗 [wikimediafoundation.org](https://wikimediafoundation.org/news/2025/04/30/our-new-ai-strategy-puts-wikipedias-humans-first/): Wikipedia says it will use AI, but not to replace human volunteers</small>
 
 
@@ -299,26 +311,14 @@ Boox发布了其首款**25.3英寸彩色E Ink桌面显示器**Mira Pro Color，�
 
 ---
 
-## <a name="24"></a>24. 开源强化学习框架ART：用GRPO算法高效训练LLM智能体 
+## <a name="25"></a>25. 开源强化学习框架ART：用GRPO算法高效训练LLM智能体 
 <small>🔗 [github.com](https://github.com/OpenPipe/ART): Show HN: ART – a new open-source RL framework for training agents</small>
 
 
-| 🔥: 69 \| 💬: [8](https://news.ycombinator.com/item?id=43846690) \| 🗓️ 2025-04-30
+| 🔥: 71 \| 💬: [8](https://news.ycombinator.com/item?id=43846690) \| 🗓️ 2025-04-30
 
 
 <br />
 OpenPipe推出的**ART**是一个开源强化学习框架，专为提升**大语言模型（LLM）**在智能体任务中的表现设计。其核心采用**GRPO算法**，支持用户通过最小代码改动实现高性能训练，并保留现有代码库的工作流。ART分为客户端与服务端：客户端兼容OpenAI接口，服务端负责RL训练循环（如轨迹收集、奖励分配、LoRA微调）。目前已测试2048、井字棋等任务，支持多数vLLM/Transformers模型（Gemma 3暂不兼容）。项目处于**Alpha阶段**，欢迎开发者通过Discord或GitHub参与贡献。
-
----
-
-## <a name="25"></a>25. 拒绝即服务（NAAS）：随机生成优雅回绝理由的API 
-<small>🔗 [github.com](https://github.com/hotheadhacker/no-as-a-service): No as a Service</small>
-
-
-| 🔥: 63 \| 💬: [46](https://news.ycombinator.com/item?id=43845016) \| 🗓️ 2025-04-30
-
-
-<br />
-NAAS是一个**轻量级API**，提供随机、幽默或专业的拒绝理由，适用于各种场景。用户可通过GET请求获取如`{"reason": "未来的我肯定会骂现在的我同意这事"`的创意回绝。支持**10次/分钟**的调用频率，并允许**自托管**（基于ExpressJS，含1000+预设理由）。项目开源，遵循MIT协议，开发者可自由集成至应用或机器人中。
 
 ---
