@@ -12,11 +12,11 @@ tags:
 1. 极简博客搭建指南；
 1. 我们为何放弃Next.js，重新拥抱Ruby on Rails；
 1. 为什么HTML本身不支持文件包含功能？；
-1. 在苹果神经引擎上运行大语言模型（LLM）；
+1. AI省下的时间被新增工作抵消？丹麦研究揭示早期影响；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共22条，具体内容您往下读...
+总共23条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [breezepdf.com](https://breezepdf.com): Show HN: Free, in-browser PDF editor</small>
 
 
-| 🔥🔥: 346 \| 💬: [82](https://news.ycombinator.com/item?id=43880962) \| 🗓️ 2025-05-03
+| 🔥🔥: 363 \| 💬: [84](https://news.ycombinator.com/item?id=43880962) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -39,7 +39,7 @@ Breeze PDF是一款**完全免费**的浏览器PDF编辑器，所有操作均在
 <small>🔗 [ostwilkens.se](https://ostwilkens.se/blog/setting-up-blog): Minimum Viable Blog</small>
 
 
-| 🔥🔥: 294 \| 💬: [145](https://news.ycombinator.com/item?id=43877797) \| 🗓️ 2025-05-03
+| 🔥🔥: 298 \| 💬: [146](https://news.ycombinator.com/item?id=43877797) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -51,7 +51,7 @@ Breeze PDF是一款**完全免费**的浏览器PDF编辑器，所有操作均在
 <small>🔗 [hardcover.app](https://hardcover.app/blog/part-1-how-we-fell-out-of-love-with-next-js-and-back-in-love-with-ruby-on-rails-inertia-js): We fell out of love with Next.js and back in love with Ruby on Rails</small>
 
 
-| 🔥🔥: 286 \| 💬: [265](https://news.ycombinator.com/item?id=43881035) \| 🗓️ 2025-05-03
+| 🔥🔥: 295 \| 💬: [273](https://news.ycombinator.com/item?id=43881035) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -63,7 +63,7 @@ Breeze PDF是一款**完全免费**的浏览器PDF编辑器，所有操作均在
 <small>🔗 [frontendmasters.com](https://frontendmasters.com/blog/seeking-an-answer-why-cant-html-alone-do-includes/): Why can't HTML alone do includes?</small>
 
 
-| 🔥🔥: 236 \| 💬: [197](https://news.ycombinator.com/item?id=43878728) \| 🗓️ 2025-05-03
+| 🔥🔥: 243 \| 💬: [207](https://news.ycombinator.com/item?id=43878728) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -71,23 +71,11 @@ Breeze PDF是一款**完全免费**的浏览器PDF编辑器，所有操作均在
 
 ---
 
-## <a name="5"></a>5. 在苹果神经引擎上运行大语言模型（LLM） 
-<small>🔗 [github.com](https://github.com/Anemll/Anemll): Run LLMs on Apple Neural Engine (ANE)</small>
-
-
-| 🔥🔥: 218 \| 💬: [94](https://news.ycombinator.com/item?id=43879702) \| 🗓️ 2025-05-03
-
-
-<br />
-ANEMLL（发音类似“animal”）是一个开源项目，旨在将**大语言模型**加速移植到张量处理器，特别是**苹果神经引擎（ANE）**。该项目提供从模型转换到推理的全流程工具，支持在iOS和macOS设备上实现**低功耗、高隐私**的本地推理。当前版本（0.3.0 Alpha）支持LLaMA 3.1架构模型（如DeepSeek和DeepHermes），并提供Swift和Python的参考实现、示例应用及性能测试工具。未来计划扩展更多模型支持，并优化量化技术。
-
----
-
-## <a name="6"></a>6. AI省下的时间被新增工作抵消？丹麦研究揭示早期影响 
+## <a name="5"></a>5. AI省下的时间被新增工作抵消？丹麦研究揭示早期影响 
 <small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/05/time-saved-by-ai-offset-by-new-work-created-study-suggests/): Time saved by AI offset by new work created, study suggests</small>
 
 
-| 🔥🔥: 207 \| 💬: [206](https://news.ycombinator.com/item?id=43878850) \| 🗓️ 2025-05-03
+| 🔥🔥: 221 \| 💬: [223](https://news.ycombinator.com/item?id=43878850) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -95,11 +83,23 @@ ANEMLL（发音类似“animal”）是一个开源项目，旨在将**大语言
 
 ---
 
+## <a name="6"></a>6. 在苹果神经引擎上运行大语言模型（LLM） 
+<small>🔗 [github.com](https://github.com/Anemll/Anemll): Run LLMs on Apple Neural Engine (ANE)</small>
+
+
+| 🔥🔥: 220 \| 💬: [94](https://news.ycombinator.com/item?id=43879702) \| 🗓️ 2025-05-03
+
+
+<br />
+ANEMLL（发音类似“animal”）是一个开源项目，旨在将**大语言模型**加速移植到张量处理器，特别是**苹果神经引擎（ANE）**。该项目提供从模型转换到推理的全流程工具，支持在iOS和macOS设备上实现**低功耗、高隐私**的本地推理。当前版本（0.3.0 Alpha）支持LLaMA 3.1架构模型（如DeepSeek和DeepHermes），并提供Swift和Python的参考实现、示例应用及性能测试工具。未来计划扩展更多模型支持，并优化量化技术。
+
+---
+
 ## <a name="7"></a>7. DuckDB可能是过去十年最重要的地理空间软件 
 <small>🔗 [dbreunig.com](https://www.dbreunig.com/2025/05/03/duckdb-is-the-most-impactful-geospatial-software-in-a-decade.html): DuckDB is probably the most important geospatial software of the last decade</small>
 
 
-| 🔥🔥: 171 \| 💬: [65](https://news.ycombinator.com/item?id=43881468) \| 🗓️ 2025-05-03
+| 🔥🔥: 184 \| 💬: [68](https://news.ycombinator.com/item?id=43881468) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -111,7 +111,7 @@ ANEMLL（发音类似“animal”）是一个开源项目，旨在将**大语言
 <small>🔗 [n8n.io](https://n8n.io/): N8n – Flexible AI workflow automation for technical teams</small>
 
 
-| 🔥🔥: 167 \| 💬: [89](https://news.ycombinator.com/item?id=43879282) \| 🗓️ 2025-05-03
+| 🔥🔥: 169 \| 💬: [89](https://news.ycombinator.com/item?id=43879282) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -123,7 +123,7 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 <small>🔗 [github.com](https://github.com/AaronFriel/qmodem-4.51): QModem 4.51 Source Code</small>
 
 
-| 🔥🔥: 161 \| 💬: [60](https://news.ycombinator.com/item?id=43879715) \| 🗓️ 2025-05-03
+| 🔥🔥: 165 \| 💬: [63](https://news.ycombinator.com/item?id=43879715) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -135,7 +135,7 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 <small>🔗 [halletecco.substack.com](https://halletecco.substack.com/p/why-i-stopped-angel-investing-after): Why I stopped angel investing after 15 years (and what I'm doing instead)</small>
 
 
-| 🔥🔥: 150 \| 💬: [126](https://news.ycombinator.com/item?id=43878878) \| 🗓️ 2025-05-03
+| 🔥🔥: 155 \| 💬: [132](https://news.ycombinator.com/item?id=43878878) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -146,10 +146,10 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 ---
 
 ## <a name="11"></a>11. 当平价搬家公司拒接你的电话时 
-<small>🔗 [aphyr.com](https://aphyr.com/posts/381-when-flat-rate-movers-wont-answer-your-calls): When Flat Rate Movers Won't Answer Your Calls</small>
+<small>🔗 [aphyr.com](https://aphyr.com/posts/381-when-flat-rate-movers-wont-answer-your-calls): When flat rate movers won't answer your calls</small>
 
 
-| 🔥🔥: 123 \| 💬: [74](https://news.ycombinator.com/item?id=43882150) \| 🗓️ 2025-05-03
+| 🔥🔥: 129 \| 💬: [88](https://news.ycombinator.com/item?id=43882150) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -161,7 +161,7 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 <small>🔗 [lwn.net](https://lwn.net/Articles/1019217/): How LWN is faring in 2025</small>
 
 
-| 🔥🔥: 118 \| 💬: [19](https://news.ycombinator.com/item?id=43880068) \| 🗓️ 2025-05-03
+| 🔥🔥: 118 \| 💬: [20](https://news.ycombinator.com/item?id=43880068) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -177,7 +177,7 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 <small>🔗 [github.com](https://github.com/Jacksaur/Gorgeous-GRUB): Gorgeous-GRUB: collection of decent community-made GRUB themes</small>
 
 
-| 🔥: 96 \| 💬: [14](https://news.ycombinator.com/item?id=43883040) \| 🗓️ 2025-05-03
+| 🔥🔥: 114 \| 💬: [18](https://news.ycombinator.com/item?id=43883040) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -189,7 +189,7 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 <small>🔗 [arstechnica.com](https://arstechnica.com/space/2025/05/we-finally-know-a-little-more-about-amazons-super-secret-satellites/): We know a little more about Amazon's satellites</small>
 
 
-| 🔥: 85 \| 💬: [102](https://news.ycombinator.com/item?id=43877907) \| 🗓️ 2025-05-03
+| 🔥: 86 \| 💬: [102](https://news.ycombinator.com/item?id=43877907) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -201,7 +201,7 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 <small>🔗 [thesoftwarephilosopher.com](https://thesoftwarephilosopher.com/blog/2025-05-03-why-i-ever-wrote-clojure.html): Why I ever wrote Clojure</small>
 
 
-| 🔥: 84 \| 💬: [44](https://news.ycombinator.com/item?id=43879259) \| 🗓️ 2025-05-03
+| 🔥: 84 \| 💬: [45](https://news.ycombinator.com/item?id=43879259) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -213,7 +213,7 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 <small>🔗 [github.com](https://github.com/Stream29/ProxyAsLocalModel): Show HN: Use Third Party LLM API in JetBrains AI Assistant</small>
 
 
-| 🔥: 81 \| 💬: [35](https://news.ycombinator.com/item?id=43878461) \| 🗓️ 2025-05-03
+| 🔥: 82 \| 💬: [35](https://news.ycombinator.com/item?id=43878461) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -221,7 +221,19 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 
 ---
 
-## <a name="17"></a>17. 《逆向工程与速通优化：〈超人总动员：地下阴谋者〉模改实战》 
+## <a name="17"></a>17. Tcl中的闭包实现探索 
+<small>🔗 [world-playground-deceit.net](https://world-playground-deceit.net/blog/2024/10/tcl-closures.html): Closures in Tcl</small>
+
+
+| 🔥: 77 \| 💬: [25](https://news.ycombinator.com/item?id=43878824) \| 🗓️ 2025-05-03
+
+
+<br />
+本文探讨了Tcl语言中**闭包**的模拟实现。作者通过对比C++（值捕获）和Python（真实闭包）的特性，指出Tcl因变量绑定随栈帧销毁而无法原生支持闭包。解决方案是利用**TclOO对象系统**创建独立命名空间保存变量，通过`apply`方法模拟闭包调用，并提供了环境变量访问接口`lexenv`。虽然实现仍受限于环境拷贝（类似C++），但通过显式管理生命周期（需手动调用`destroy`）实现了基础功能。文中代码示例展示了计数器闭包的具体实现，同时提及了未来可能的改进方向（如环境回写机制）。
+
+---
+
+## <a name="18"></a>18. 《逆向工程与速通优化：〈超人总动员：地下阴谋者〉模改实战》 
 <small>🔗 [farlow.dev](https://farlow.dev/2025/05/02/rotu): Speedrunning and Modding the Incredibles: Rise of the Underminer</small>
 
 
@@ -233,39 +245,27 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 
 ---
 
-## <a name="18"></a>18. Tcl中的闭包实现探索 
-<small>🔗 [world-playground-deceit.net](https://world-playground-deceit.net/blog/2024/10/tcl-closures.html): Closures in Tcl</small>
-
-
-| 🔥: 75 \| 💬: [25](https://news.ycombinator.com/item?id=43878824) \| 🗓️ 2025-05-03
-
-
-<br />
-本文探讨了Tcl语言中**闭包**的模拟实现。作者通过对比C++（值捕获）和Python（真实闭包）的特性，指出Tcl因变量绑定随栈帧销毁而无法原生支持闭包。解决方案是利用**TclOO对象系统**创建独立命名空间保存变量，通过`apply`方法模拟闭包调用，并提供了环境变量访问接口`lexenv`。虽然实现仍受限于环境拷贝（类似C++），但通过显式管理生命周期（需手动调用`destroy`）实现了基础功能。文中代码示例展示了计数器闭包的具体实现，同时提及了未来可能的改进方向（如环境回写机制）。
-
----
-
-## <a name="19"></a>19. RethinkDNS：一款支持多平台部署的服务器less DNS解析器 
-<small>🔗 [github.com](https://github.com/serverless-dns/serverless-dns): RethinkDNS Resolver That Deploys to CF Workers, Deno Deploy, Fastly, Fly.io</small>
-
-
-| 🔥: 69 \| 💬: [6](https://news.ycombinator.com/item?id=43880883) \| 🗓️ 2025-05-03
-
-
-<br />
-RethinkDNS是一款类似**Pi-Hole**的DNS解析器，支持**DNS-over-HTTPS (DoH)** 和 **DNS-over-TLS (DoT)**，可部署在Cloudflare Workers、Deno Deploy、Fastly和Fly.io等平台。它提供广告拦截功能，免费套餐可满足10-20台设备的月度DNS需求。该解析器采用高效的数据结构（Succinct Radix Trie）压缩190多个拦截列表，响应延迟低至10-30毫秒。用户可自行托管，并支持日志分析和身份验证功能。
-
----
-
-## <a name="20"></a>20. 美国批准CRISPR基因编辑猪进入食品市场 
+## <a name="19"></a>19. 美国批准CRISPR基因编辑猪进入食品市场 
 <small>🔗 [technologyreview.com](https://www.technologyreview.com/2025/05/02/1116059/the-us-approves-crispr-pigs-for-food/): The US has approved CRISPR pigs for food</small>
 
 
-| 🔥: 68 \| 💬: [89](https://news.ycombinator.com/item?id=43879288) \| 🗓️ 2025-05-03
+| 🔥: 74 \| 💬: [95](https://news.ycombinator.com/item?id=43879288) \| 🗓️ 2025-05-03
 
 
 <br />
 美国食品药品监督管理局（FDA）近日批准了英国公司**Genus**利用**CRISPR基因编辑技术**培育的抗病猪上市。这种猪通过删除细胞中**PRRS病毒**的受体基因，实现对99%以上病毒变种的免疫，每年可为美国养猪业避免约3亿美元损失。这是继转基因三文鱼后，第二种获准食用的基因编辑动物，标志着CRISPR技术在农业领域的重大突破。Genus下一步计划推动中国、墨西哥等主要猪肉进口国的审批，预计明年美国市场将出现无标签的基因编辑猪肉产品。
+
+---
+
+## <a name="20"></a>20. RethinkDNS：一款支持多平台部署的服务器less DNS解析器 
+<small>🔗 [github.com](https://github.com/serverless-dns/serverless-dns): RethinkDNS Resolver That Deploys to CF Workers, Deno Deploy, Fastly, Fly.io</small>
+
+
+| 🔥: 71 \| 💬: [6](https://news.ycombinator.com/item?id=43880883) \| 🗓️ 2025-05-03
+
+
+<br />
+RethinkDNS是一款类似**Pi-Hole**的DNS解析器，支持**DNS-over-HTTPS (DoH)** 和 **DNS-over-TLS (DoT)**，可部署在Cloudflare Workers、Deno Deploy、Fastly和Fly.io等平台。它提供广告拦截功能，免费套餐可满足10-20台设备的月度DNS需求。该解析器采用高效的数据结构（Succinct Radix Trie）压缩190多个拦截列表，响应延迟低至10-30毫秒。用户可自行托管，并支持日志分析和身份验证功能。
 
 ---
 
@@ -281,7 +281,19 @@ RethinkDNS是一款类似**Pi-Hole**的DNS解析器，支持**DNS-over-HTTPS (Do
 
 ---
 
-## <a name="22"></a>22. Bethesda盛赞粉丝重制版《上古卷轴4》，并表示支持 
+## <a name="22"></a>22. 联邦法院叫停特朗普政府解散国家图书馆机构 
+<small>🔗 [ala.org](https://www.ala.org/news/2025/05/federal-court-halts-dismantling-federal-library-agency-ala-lawsuit): Federal Court Halts Dismantling of Federal Library Agency in ALA Lawsuit</small>
+
+
+| 🔥: 61 \| 💬: [0](https://news.ycombinator.com/item?id=43881391) \| 🗓️ 2025-05-03
+
+
+<br />
+2025年5月1日，美国哥伦比亚特区联邦法院发布**临时限制令**，阻止特朗普政府根据行政命令解散**美国博物馆与图书馆服务署（IMLS）**。该裁决源于美国图书馆协会（ALA）及工会组织AFSCME提起的诉讼，指控政府此前解雇员工、终止资助等行为导致IMLS无法履行法定职责。ALA主席称此裁决是“全美图书馆的胜利”，但呼吁国会通过2026财年拨款法案以长期保障资金。目前ALA正动员民众敦促议员签署支持IMLS的联名信，截止期为5月中旬。
+
+---
+
+## <a name="23"></a>23. Bethesda盛赞粉丝重制版《上古卷轴4》，并表示支持 
 <small>🔗 [kotaku.com](https://kotaku.com/bethesda-oblivion-remastered-skyblivion-mod-support-1851778773): Bethesda Thinks Fan Remaster of Oblivion Is 'Very Special' and Supports It</small>
 
 
