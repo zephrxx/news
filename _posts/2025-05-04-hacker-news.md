@@ -8,38 +8,26 @@ tags:
 ---
 
 
-1. 阿拉巴马永不消逝的热线；
 1. 3D打印设计的关键原则；
-1. Oberon Pi：树莓派上的经典操作系统复刻；
 1. 我宁愿看原始提示；
+1. 阿拉巴马永不消逝的热线；
+1. Oberon Pi：树莓派上的经典操作系统复刻；
 1. 现代LLM采样技术简明指南；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共17条，具体内容您往下读...
+总共21条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
 ![](/assets/images/hacker_news.jpg)
 
 
-## <a name="1"></a>1. 阿拉巴马永不消逝的热线 
-<small>🔗 [oxfordamerican.org](https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing): An Alabama landline that keeps ringing</small>
-
-
-| 🔥🔥: 230 \| 💬: [77](https://news.ycombinator.com/item?id=43886243) \| 🗓️ 2025-05-04
-
-
-<br />
-奥本大学的**福伊信息台**自1953年起持续为公众答疑，70年来学生接线员接听过千奇百怪的提问——从法律生死界定到《使命召唤》游戏攻略，甚至深夜恶作剧电话。这个传统服务最初面向学生，后扩展至全球，成为**无网络人群的“人工搜索引擎”**。学生遵循“礼貌、不评判”原则，通过碎片信息想象来电者生活，如独居老人或孤独孩童。资深接线员科拉分享了一次改变职业方向的占星来电，印证了这份工作**超越信息传递的情感联结**。如今，老式百科全书已被iMac取代，但号码未变，温暖依旧。
-
----
-
-## <a name="2"></a>2. 3D打印设计的关键原则 
+## <a name="1"></a>1. 3D打印设计的关键原则 
 <small>🔗 [blog.rahix.de](https://blog.rahix.de/design-for-3d-printing/): Design for 3D-Printing</small>
 
 
-| 🔥🔥: 230 \| 💬: [59](https://news.ycombinator.com/item?id=43888117) \| 🗓️ 2025-05-04
+| 🔥🔥: 273 \| 💬: [72](https://news.ycombinator.com/item?id=43888117) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -54,23 +42,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. Oberon Pi：树莓派上的经典操作系统复刻 
-<small>🔗 [pascal.hansotten.com](http://pascal.hansotten.com/niklaus-wirth/project-oberon/oberon-pi/): Oberon Pi</small>
-
-
-| 🔥🔥: 147 \| 💬: [22](https://news.ycombinator.com/item?id=43885478) \| 🗓️ 2025-05-04
-
-
-<br />
-Oberon Pi是Richard Gleaves将Peter de Wachter的**Oberon模拟器**移植到树莓派OS的版本，旨在降低这一由Niklaus Wirth开发的经典系统的学习门槛。项目优化了用户界面，修复了编译器漏洞，并整合了Andreas Pirklbauer的改进（如完整支持**CASE语句**）。其核心亮点是丰富的文档，包括新版用户指南和Wirth原始论文（添加目录增强可读性）。系统可在树莓派OS中以窗口应用运行，保留Oberon独特设计的同时，移除了过时的交互方式（如**鼠标连击**），更适合教学与研究。支持32/64位系统，需树莓派4/5及桌面版OS。
-
----
-
-## <a name="4"></a>4. 我宁愿看原始提示 
+## <a name="2"></a>2. 我宁愿看原始提示 
 <small>🔗 [claytonwramsey.com](https://claytonwramsey.com/blog/prompt/): I'd rather read the prompt</small>
 
 
-| 🔥🔥: 140 \| 💬: [80](https://news.ycombinator.com/item?id=43888803) \| 🗓️ 2025-05-04
+| 🔥🔥: 252 \| 💬: [160](https://news.ycombinator.com/item?id=43888803) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -78,11 +54,35 @@ Oberon Pi是Richard Gleaves将Peter de Wachter的**Oberon模拟器**移植到树
 
 ---
 
+## <a name="3"></a>3. 阿拉巴马永不消逝的热线 
+<small>🔗 [oxfordamerican.org](https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing): An Alabama landline that keeps ringing</small>
+
+
+| 🔥🔥: 235 \| 💬: [81](https://news.ycombinator.com/item?id=43886243) \| 🗓️ 2025-05-04
+
+
+<br />
+奥本大学的**福伊信息台**自1953年起持续为公众答疑，70年来学生接线员接听过千奇百怪的提问——从法律生死界定到《使命召唤》游戏攻略，甚至深夜恶作剧电话。这个传统服务最初面向学生，后扩展至全球，成为**无网络人群的“人工搜索引擎”**。学生遵循“礼貌、不评判”原则，通过碎片信息想象来电者生活，如独居老人或孤独孩童。资深接线员科拉分享了一次改变职业方向的占星来电，印证了这份工作**超越信息传递的情感联结**。如今，老式百科全书已被iMac取代，但号码未变，温暖依旧。
+
+---
+
+## <a name="4"></a>4. Oberon Pi：树莓派上的经典操作系统复刻 
+<small>🔗 [pascal.hansotten.com](http://pascal.hansotten.com/niklaus-wirth/project-oberon/oberon-pi/): Oberon Pi</small>
+
+
+| 🔥🔥: 151 \| 💬: [25](https://news.ycombinator.com/item?id=43885478) \| 🗓️ 2025-05-04
+
+
+<br />
+Oberon Pi是Richard Gleaves将Peter de Wachter的**Oberon模拟器**移植到树莓派OS的版本，旨在降低这一由Niklaus Wirth开发的经典系统的学习门槛。项目优化了用户界面，修复了编译器漏洞，并整合了Andreas Pirklbauer的改进（如完整支持**CASE语句**）。其核心亮点是丰富的文档，包括新版用户指南和Wirth原始论文（添加目录增强可读性）。系统可在树莓派OS中以窗口应用运行，保留Oberon独特设计的同时，移除了过时的交互方式（如**鼠标连击**），更适合教学与研究。支持32/64位系统，需树莓派4/5及桌面版OS。
+
+---
+
 ## <a name="5"></a>5. 现代LLM采样技术简明指南 
 <small>🔗 [rentry.co](https://rentry.co/samplers): Dummy's Guide to Modern LLM Sampling</small>
 
 
-| 🔥🔥: 107 \| 💬: [21](https://news.ycombinator.com/item?id=43887637) \| 🗓️ 2025-05-04
+| 🔥🔥: 123 \| 💬: [23](https://news.ycombinator.com/item?id=43887637) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -94,7 +94,7 @@ Oberon Pi是Richard Gleaves将Peter de Wachter的**Oberon模拟器**移植到树
 <small>🔗 [github.com](https://github.com/Foreseerr/TScale): TScale – distributed training on consumer GPUs</small>
 
 
-| 🔥🔥: 101 \| 💬: [22](https://news.ycombinator.com/item?id=43886601) \| 🗓️ 2025-05-04
+| 🔥🔥: 104 \| 💬: [23](https://news.ycombinator.com/item?id=43886601) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -106,7 +106,7 @@ TScale是一个用C++和CUDA编写的**Transformer训练与推理框架**，专�
 <small>🔗 [farina00.github.io](https://farina00.github.io/essays/nevermind/): Nevermind, an album on major chords</small>
 
 
-| 🔥: 68 \| 💬: [71](https://news.ycombinator.com/item?id=43886368) \| 🗓️ 2025-05-04
+| 🔥: 68 \| 💬: [73](https://news.ycombinator.com/item?id=43886368) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -114,7 +114,19 @@ TScale是一个用C++和CUDA编写的**Transformer训练与推理框架**，专�
 
 ---
 
-## <a name="8"></a>8. 《奇异世界：一位妻子打破俄罗斯方块世界纪录的奇妙之旅》 
+## <a name="8"></a>8. 负载-存储冲突对几何解码性能的影响 
+<small>🔗 [zeux.io](https://zeux.io/2025/05/03/load-store-conflicts/): Load-Store Conflicts</small>
+
+
+| 🔥: 66 \| 💬: [5](https://news.ycombinator.com/item?id=43888005) \| 🗓️ 2025-05-04
+
+
+<br />
+meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器版本差异出现显著波动。研究发现，关键在于**边缘FIFO**的访问方式：gcc-14通过向量化读写（64位操作）提升吞吐至7.5 GB/s，而gcc-15改用32位分次写入后性能骤降至4.8 GB/s。核心问题在于**存储转发冲突**——当64位加载需合并两个32位存储时，现代CPU（如Zen 4）可能无法高效处理，导致延迟激增。这一案例揭示了微架构优化对高性能代码的深远影响。
+
+---
+
+## <a name="9"></a>9. 《奇异世界：一位妻子打破俄罗斯方块世界纪录的奇妙之旅》 
 <small>🔗 [archive.boston.com](https://archive.boston.com/news/globe/magazine/articles/2007/08/19/bizarro_world/): 'Bizarro World' (2007)</small>
 
 
@@ -126,23 +138,11 @@ TScale是一个用C++和CUDA编写的**Transformer训练与推理框架**，专�
 
 ---
 
-## <a name="9"></a>9. 莉莉丝电脑与Modula-2语言的发展 
-<small>🔗 [astrobe.com](https://astrobe.com/Modula2/): Lilith and Modula-2</small>
-
-
-| 🔥: 53 \| 💬: [5](https://news.ycombinator.com/item?id=43886271) \| 🗓️ 2025-05-04
-
-
-<br />
-本文介绍了由**Niklaus Wirth**教授于1979年开发的**Modula-2**编程语言及其配套硬件项目**Lilith**工作站。1980年问世的Lilith配备了编译器、操作系统及图形编辑器等软件。文章详细列出了多个版本的Modula-2编译器源码，包括多遍编译器和单遍编译器，并提到单遍编译器效率更高。此外，还提及了适用于Macintosh的MacMETH系统及相关学术论文。最后提供了Lilith模拟器和Modula-2资源的链接。
-
----
-
 ## <a name="10"></a>10. Tippy Coco：一款受《史莱姆排球》启发的免费开源游戏 
 <small>🔗 [tippycoco.com](https://tippycoco.com/): Tippy Coco: A Free, Open-Source Game Inspired by Slime Volleyball</small>
 
 
-| 🔥: 52 \| 💬: [13](https://news.ycombinator.com/item?id=43886213) \| 🗓️ 2025-05-04
+| 🔥: 55 \| 💬: [13](https://news.ycombinator.com/item?id=43886213) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -150,35 +150,23 @@ TScale是一个用C++和CUDA编写的**Transformer训练与推理框架**，专�
 
 ---
 
-## <a name="11"></a>11. 负载-存储冲突对几何解码性能的影响 
-<small>🔗 [zeux.io](https://zeux.io/2025/05/03/load-store-conflicts/): Load-Store Conflicts</small>
+## <a name="11"></a>11. 莉莉丝电脑与Modula-2语言的发展 
+<small>🔗 [astrobe.com](https://astrobe.com/Modula2/): Lilith and Modula-2</small>
 
 
-| 🔥: 50 \| 💬: [5](https://news.ycombinator.com/item?id=43888005) \| 🗓️ 2025-05-04
-
-
-<br />
-meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器版本差异出现显著波动。研究发现，关键在于**边缘FIFO**的访问方式：gcc-14通过向量化读写（64位操作）提升吞吐至7.5 GB/s，而gcc-15改用32位分次写入后性能骤降至4.8 GB/s。核心问题在于**存储转发冲突**——当64位加载需合并两个32位存储时，现代CPU（如Zen 4）可能无法高效处理，导致延迟激增。这一案例揭示了微架构优化对高性能代码的深远影响。
-
----
-
-## <a name="12"></a>12. 亚马逊惊现AI撰写的ADHD“危险指南” 
-<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/04/dangerous-nonsense-ai-authored-books-about-adhd-for-sale-on-amazon): 'Dangerous nonsense': AI-authored books about ADHD for sale on Amazon</small>
-
-
-| 🔥: 42 \| 💬: [17](https://news.ycombinator.com/item?id=43888754) \| 🗓️ 2025-05-04
+| 🔥: 53 \| 💬: [7](https://news.ycombinator.com/item?id=43886271) \| 🗓️ 2025-05-04
 
 
 <br />
-亚马逊平台出售多本疑似由**ChatGPT等AI生成**的ADHD（注意力缺陷多动障碍）自助书籍，内容包含**误导性甚至有害建议**。检测显示部分书籍AI生成概率达100%，专家警告此类内容可能加剧患者病情。学者指出，平台缺乏对AI作品的监管，而亚马逊商业模式变相鼓励此类行为。目前无法律强制标注AI作者，但广告法规禁止冒充人类创作。一名患者家属购书后发现内容充斥历史错误和危言耸听的论断，直指平台“纵容牟利骗局”。亚马逊回应称已投入资源筛查违规内容。
+本文介绍了由**Niklaus Wirth**教授于1979年开发的**Modula-2**编程语言及其配套硬件项目**Lilith**工作站。1980年问世的Lilith配备了编译器、操作系统及图形编辑器等软件。文章详细列出了多个版本的Modula-2编译器源码，包括多遍编译器和单遍编译器，并提到单遍编译器效率更高。此外，还提及了适用于Macintosh的MacMETH系统及相关学术论文。最后提供了Lilith模拟器和Modula-2资源的链接。
 
 ---
 
-## <a name="13"></a>13. 极简Linux引导程序解析（2018） 
+## <a name="12"></a>12. 极简Linux引导程序解析（2018） 
 <small>🔗 [raw.githubusercontent.com](https://raw.githubusercontent.com/Stefan20162016/linux-insides-code/master/bootloader.asm): Minimal Linux Bootloader (2018)</small>
 
 
-| 🔥: 36 \| 💬: [13](https://news.ycombinator.com/item?id=43887708) \| 🗓️ 2025-05-04
+| 🔥: 46 \| 💬: [13](https://news.ycombinator.com/item?id=43887708) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -186,11 +174,11 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="14"></a>14. 无穷的阶数 
+## <a name="13"></a>13. 无穷的阶数 
 <small>🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/): Orders of Infinity</small>
 
 
-| 🔥: 35 \| 💬: [2](https://news.ycombinator.com/item?id=43888239) \| 🗓️ 2025-05-04
+| 🔥: 45 \| 💬: [5](https://news.ycombinator.com/item?id=43888239) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -198,15 +186,27 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="15"></a>15. 简易卫星手动追踪套件EZ-TRAK 
-<small>🔗 [github.com](https://github.com/benb0jangles/EzTrak): Show HN: EZ-TRAK Satellite Hand Tracking Suite</small>
+## <a name="14"></a>14. 亚马逊惊现AI撰写的ADHD“危险指南” 
+<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/04/dangerous-nonsense-ai-authored-books-about-adhd-for-sale-on-amazon): 'Dangerous nonsense': AI-authored books about ADHD for sale on Amazon</small>
 
 
-| 🔥: 31 \| 💬: [5](https://news.ycombinator.com/item?id=43887546) \| 🗓️ 2025-05-04
+| 🔥: 43 \| 💬: [21](https://news.ycombinator.com/item?id=43888754) \| 🗓️ 2025-05-04
 
 
 <br />
-EZ-TRAK是一款面向业余无线电爱好者、气象卫星追踪者及教育用途的**卫星追踪软件**，通过蓝牙连接专用硬件设备，实时显示卫星方位角与仰角数据，辅助手动调整天线指向。核心功能包括**动态追踪**、过境预测、多源TLE数据支持及轨迹记录，提供图形化极坐标界面和简易配置工具。需搭配Python环境及BLE设备使用，适用于便携式卫星天线场景。软件为闭源项目，强调易用性和实时性，适合户外操作。
+亚马逊平台出售多本疑似由**ChatGPT等AI生成**的ADHD（注意力缺陷多动障碍）自助书籍，内容包含**误导性甚至有害建议**。检测显示部分书籍AI生成概率达100%，专家警告此类内容可能加剧患者病情。学者指出，平台缺乏对AI作品的监管，而亚马逊商业模式变相鼓励此类行为。目前无法律强制标注AI作者，但广告法规禁止冒充人类创作。一名患者家属购书后发现内容充斥历史错误和危言耸听的论断，直指平台“纵容牟利骗局”。亚马逊回应称已投入资源筛查违规内容。
+
+---
+
+## <a name="15"></a>15. 威尼斯总督选举的复杂流程 
+<small>🔗 [theballotboy.com](https://www.theballotboy.com/electing-the-doge): The complicated business of electing a Doge</small>
+
+
+| 🔥: 38 \| 💬: [18](https://news.ycombinator.com/item?id=43888777) \| 🗓️ 2025-05-04
+
+
+<br />
+威尼斯共和国在1268至1797年间采用了一套**极其繁琐**的选举制度来推选总督（Doge）。首先，通过抽签从大议会中选出30人，再缩减至9人；这9人提名40名候选人，经多轮抽签和提名后，最终由41人组成的选举团投票。**候选人需获得至少25票**才能当选。整个过程融合了抽签、提名和层层筛选，既确保权力制衡，又充满仪式感，被称为“荒诞而深刻”的政治表演。
 
 ---
 
@@ -214,7 +214,7 @@ EZ-TRAK是一款面向业余无线电爱好者、气象卫星追踪者及教育�
 <small>🔗 [pluralistic.net](https://pluralistic.net/2025/04/27/some-animals/#are-more-equal-than-others): The Enshittification of Tech Jobs</small>
 
 
-| 🔥: 30 \| 💬: [8](https://news.ycombinator.com/item?id=43886946) \| 🗓️ 2025-05-04
+| 🔥: 32 \| 💬: [8](https://news.ycombinator.com/item?id=43886946) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -222,11 +222,23 @@ EZ-TRAK是一款面向业余无线电爱好者、气象卫星追踪者及教育�
 
 ---
 
-## <a name="17"></a>17. Feather：一个跳过Rust异步模板的轻量级Web框架 
+## <a name="17"></a>17. 简易卫星手动追踪套件EZ-TRAK 
+<small>🔗 [github.com](https://github.com/benb0jangles/EzTrak): Show HN: EZ-TRAK Satellite Hand Tracking Suite</small>
+
+
+| 🔥: 32 \| 💬: [5](https://news.ycombinator.com/item?id=43887546) \| 🗓️ 2025-05-04
+
+
+<br />
+EZ-TRAK是一款面向业余无线电爱好者、气象卫星追踪者及教育用途的**卫星追踪软件**，通过蓝牙连接专用硬件设备，实时显示卫星方位角与仰角数据，辅助手动调整天线指向。核心功能包括**动态追踪**、过境预测、多源TLE数据支持及轨迹记录，提供图形化极坐标界面和简易配置工具。需搭配Python环境及BLE设备使用，适用于便携式卫星天线场景。软件为闭源项目，强调易用性和实时性，适合户外操作。
+
+---
+
+## <a name="18"></a>18. Feather：一个跳过Rust异步模板的轻量级Web框架 
 <small>🔗 [github.com](https://github.com/BersisSe/feather): Feather: Feather: A web framework that skips Rust's async boilerplate and jus</small>
 
 
-| 🔥: 30 \| 💬: [37](https://news.ycombinator.com/item?id=43887494) \| 🗓️ 2025-05-04
+| 🔥: 31 \| 💬: [38](https://news.ycombinator.com/item?id=43887494) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -237,5 +249,41 @@ Feather是一个**轻量级**、**开发者体验优先**的Rust Web框架，灵
 3. **模块化设计**：按需选用功能，避免冗余开销。  
 
 示例代码展示极简路由和JWT集成，适合快速开发。项目MIT开源，目标成为Rust中最易上手的Web框架。
+
+---
+
+## <a name="19"></a>19. 探索Lisp的类型系统：从动态到代数类型 
+<small>🔗 [alhassy.com](https://alhassy.com/TypedLisp.html): Typed Lisp, a Primer</small>
+
+
+| 🔥: 31 \| 💬: [2](https://news.ycombinator.com/item?id=43887998) \| 🗓️ 2025-05-04
+
+
+<br />
+本文以**Common Lisp**和**Emacs Lisp**为例，深入探讨Lisp语言中丰富而灵活的类型系统。作者通过与**Haskell**的对比，展示了Lisp独特的类型设计：其类型是**值而非变量**的属性，支持动态检查与运行时推断。核心亮点包括**联合类型**（`or`）、**谓词类型**（`satisfies`）等高级特性，以及如何用宏实现类似Haskell的代数数据类型（如`Maybe`）。文章还幽默地指出，Lisp的括号哲学和类型正交性虽被诟病，却隐藏着强大的表达力，值得静态类型爱好者重新审视。
+
+---
+
+## <a name="20"></a>20. Riot Games如何用“Vanguard”系统打击游戏作弊 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/03/how-riot-games-is-fighting-the-war-against-video-game-hackers/): How Riot Games is fighting the war against video game hackers</small>
+
+
+| 🔥: 30 \| 💬: [67](https://news.ycombinator.com/item?id=43888501) \| 🗓️ 2025-05-04
+
+
+<br />
+Riot Games通过**内核级反作弊系统Vanguard**，结合硬件指纹识别、渗透作弊社区等策略，将《Valorant》的作弊率压至全球1%以下。该系统强制启用Windows安全功能（如**TPM**和**Secure Boot**），并监控硬件驱动，阻断作弊软件加载。团队还通过公开羞辱作弊开发者、放缓封禁节奏等心理战术，削弱作弊产业链。目前，作弊者主要分两类：使用廉价工具的“愤怒作弊者”和依赖**DMA硬件攻击**的高端用户。Riot坦言，未来AI作弊是潜在威胁，但坚持透明化反作弊措施以换取玩家信任。
+
+---
+
+## <a name="21"></a>21. Debian测试版trixie在amd64架构上实现95%以上可复现性 
+<small>🔗 [micronews.debian.org](https://micronews.debian.org/2025/1746302888.html): The Debian testing/trixie release on amd64 is now reproducible for over 95%</small>
+
+
+| 🔥: 27 \| 💬: [3](https://news.ycombinator.com/item?id=43887282) \| 🗓️ 2025-05-04
+
+
+<br />
+Debian在防范供应链攻击方面取得重要进展：**amd64架构的testing/trixie版本**目前**可复现性超过95%**，且仍在提升。用户可通过新工具**debian-repro-status**查询已安装软件包的可复现状态。更多详情可访问[reproduce.debian.net](https://reproduce.debian.net/)。该进展由Joost van Baal-Ilić于2025年5月3日提交。
 
 ---
