@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共14条，具体内容您往下读...
+总共22条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -194,5 +194,101 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 
 <br />
 亚马逊近日通过社交媒体发布了其**Kuiper卫星网络**的首批实拍视频，揭开了此前高度保密的卫星设计。这些**梯形卫星**与竞争对手SpaceX的扁平化Starlink设计不同，更接近OneWeb的折叠式太阳能板结构。Kuiper项目负责人Rajeev Badyal曾任职SpaceX，其团队采用传统分散式部署架构，单颗卫星重约537-571公斤。目前亚马逊计划发射3,232颗卫星，但进度远落后于已部署7,300颗卫星的Starlink。此次披露标志着亚马逊正式加入全球低轨宽带卫星竞赛。
+
+---
+
+## <a name="15"></a>15. 我为何曾痴迷Clojure 
+<small>🔗 [thesoftwarephilosopher.com](https://thesoftwarephilosopher.com/blog/2025-05-03-why-i-ever-wrote-clojure.html): Why I ever wrote Clojure</small>
+
+
+| 🔥: 84 \| 💬: [44](https://news.ycombinator.com/item?id=43879259) \| 🗓️ 2025-05-03
+
+
+<br />
+作者曾用**Clojure**开发五年，从热爱到厌倦，核心矛盾在于**企业级代码的无趣性**。他认为这类工作本质枯燥，但若能用新颖语言（如Clojure/Go/Rust）注入趣味，便能忍受。推测Clojure的诞生和其在**金融科技**的流行，正源于高智商工程师对"智力痒点"的追求——高薪岗位用语言自由度换取人才留存率。文末补充：2007年Java/C++的缺陷催生了Clojure等语言的革命。
+
+---
+
+## <a name="16"></a>16. 在JetBrains AI助手中使用第三方LLM API的代理工具 
+<small>🔗 [github.com](https://github.com/Stream29/ProxyAsLocalModel): Show HN: Use Third Party LLM API in JetBrains AI Assistant</small>
+
+
+| 🔥: 81 \| 💬: [35](https://news.ycombinator.com/item?id=43878461) \| 🗓️ 2025-05-03
+
+
+<br />
+该项目开发了一个**代理服务器**，可将OpenAI、Claude等第三方大语言模型API伪装成Ollama/LM Studio的本地模型接口，从而实现在JetBrains系列IDE的AI助手中调用。开发者因官方免费额度不足而创建此方案，采用**Ktor框架**实现无反射的轻量级代理，支持流式聊天补全功能。工具提供可热更新的配置文件，支持多平台运行（含GraalVM原生镜像），目前已兼容8种主流API服务。
+
+---
+
+## <a name="17"></a>17. 《逆向工程与速通优化：〈超人总动员：地下阴谋者〉模改实战》 
+<small>🔗 [farlow.dev](https://farlow.dev/2025/05/02/rotu): Speedrunning and Modding the Incredibles: Rise of the Underminer</small>
+
+
+| 🔥: 76 \| 💬: [6](https://news.ycombinator.com/item?id=43878191) \| 🗓️ 2025-05-03
+
+
+<br />
+作者通过逆向工程GameCube游戏《超人总动员：地下阴谋者》，探索**速通优化**方法。利用Ghidra分析游戏代码，发现**调试符号**意外保留，简化了函数定位。开发了显示敌人血量的**模组**，通过Action Replay代码实现，揭示了战斗系统的隐藏机制（如连击伤害倍增）。此外，破解了未公开的开发者作弊码（如“NUKE”），并发现了一些穿墙漏洞。研究旨在助力小众速通社区，代码已开源。
+
+---
+
+## <a name="18"></a>18. Tcl中的闭包实现探索 
+<small>🔗 [world-playground-deceit.net](https://world-playground-deceit.net/blog/2024/10/tcl-closures.html): Closures in Tcl</small>
+
+
+| 🔥: 75 \| 💬: [25](https://news.ycombinator.com/item?id=43878824) \| 🗓️ 2025-05-03
+
+
+<br />
+本文探讨了Tcl语言中**闭包**的模拟实现。作者通过对比C++（值捕获）和Python（真实闭包）的特性，指出Tcl因变量绑定随栈帧销毁而无法原生支持闭包。解决方案是利用**TclOO对象系统**创建独立命名空间保存变量，通过`apply`方法模拟闭包调用，并提供了环境变量访问接口`lexenv`。虽然实现仍受限于环境拷贝（类似C++），但通过显式管理生命周期（需手动调用`destroy`）实现了基础功能。文中代码示例展示了计数器闭包的具体实现，同时提及了未来可能的改进方向（如环境回写机制）。
+
+---
+
+## <a name="19"></a>19. RethinkDNS：一款支持多平台部署的服务器less DNS解析器 
+<small>🔗 [github.com](https://github.com/serverless-dns/serverless-dns): RethinkDNS Resolver That Deploys to CF Workers, Deno Deploy, Fastly, Fly.io</small>
+
+
+| 🔥: 69 \| 💬: [6](https://news.ycombinator.com/item?id=43880883) \| 🗓️ 2025-05-03
+
+
+<br />
+RethinkDNS是一款类似**Pi-Hole**的DNS解析器，支持**DNS-over-HTTPS (DoH)** 和 **DNS-over-TLS (DoT)**，可部署在Cloudflare Workers、Deno Deploy、Fastly和Fly.io等平台。它提供广告拦截功能，免费套餐可满足10-20台设备的月度DNS需求。该解析器采用高效的数据结构（Succinct Radix Trie）压缩190多个拦截列表，响应延迟低至10-30毫秒。用户可自行托管，并支持日志分析和身份验证功能。
+
+---
+
+## <a name="20"></a>20. 美国批准CRISPR基因编辑猪进入食品市场 
+<small>🔗 [technologyreview.com](https://www.technologyreview.com/2025/05/02/1116059/the-us-approves-crispr-pigs-for-food/): The US has approved CRISPR pigs for food</small>
+
+
+| 🔥: 68 \| 💬: [89](https://news.ycombinator.com/item?id=43879288) \| 🗓️ 2025-05-03
+
+
+<br />
+美国食品药品监督管理局（FDA）近日批准了英国公司**Genus**利用**CRISPR基因编辑技术**培育的抗病猪上市。这种猪通过删除细胞中**PRRS病毒**的受体基因，实现对99%以上病毒变种的免疫，每年可为美国养猪业避免约3亿美元损失。这是继转基因三文鱼后，第二种获准食用的基因编辑动物，标志着CRISPR技术在农业领域的重大突破。Genus下一步计划推动中国、墨西哥等主要猪肉进口国的审批，预计明年美国市场将出现无标签的基因编辑猪肉产品。
+
+---
+
+## <a name="21"></a>21. 得州法案引发审查担忧，阿比林书店发起抵制 
+<small>🔗 [bigcountryhomepage.com](https://www.bigcountryhomepage.com/news/censorship-concerns-rise-over-texas-bill-abilene-bookstore-pushes-back/): Censorship concerns rise over Texas bill; Abilene bookstore pushes back</small>
+
+
+| 🔥: 68 \| 💬: [47](https://news.ycombinator.com/item?id=43879685) \| 🗓️ 2025-05-03
+
+
+<br />
+得州众议院司法委员会审议的**HB1375法案**引发争议，该法案允许个人对向未成年人提供"有害内容"的企业提起诉讼。阿比林书店店主Arlene Kasselman批评法案**定义模糊**，可能导致针对书店的滥诉，威胁小企业生存。支持阅读自由的团体指出，法案将**审查范围扩大至私营书店**，可能压制文化自由。尽管共和党地方主席认为法案通过概率低，但反对者担忧其潜在影响，并援引历史警示审查危害。听证会将于周三举行。
+
+---
+
+## <a name="22"></a>22. Bethesda盛赞粉丝重制版《上古卷轴4》，并表示支持 
+<small>🔗 [kotaku.com](https://kotaku.com/bethesda-oblivion-remastered-skyblivion-mod-support-1851778773): Bethesda Thinks Fan Remaster of Oblivion Is 'Very Special' and Supports It</small>
+
+
+| 🔥: 60 \| 💬: [37](https://news.ycombinator.com/item?id=43879748) \| 🗓️ 2025-05-03
+
+
+<br />
+Bethesda近期发布了《上古卷轴4：湮没》的重制版，但粉丝团队**Skyblivion**（自2012年起开发的项目）的同类重制计划一度引发担忧。然而，Bethesda不仅未采取法律行动，反而在开发者视频中公开称赞该项目**“非常特别”**，并分享了其游戏片段。艺术总监Dan Lee表示期待粉丝的创意诠释，而**Skyblivion团队**也回应感谢支持，并透露Bethesda还赠送了重制版游戏。此举展现了Bethesda对玩家创作的开明态度。
 
 ---
