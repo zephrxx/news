@@ -27,7 +27,7 @@ tags:
 <small>🔗 [breezepdf.com](https://breezepdf.com): Show HN: Free, in-browser PDF editor</small>
 
 
-| 🔥🔥: 385 \| 💬: [85](https://news.ycombinator.com/item?id=43880962) \| 🗓️ 2025-05-03
+| 🔥🔥: 408 \| 💬: [87](https://news.ycombinator.com/item?id=43880962) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -39,7 +39,7 @@ Breeze PDF是一款**完全免费**的浏览器PDF编辑器，所有操作均在
 <small>🔗 [hardcover.app](https://hardcover.app/blog/part-1-how-we-fell-out-of-love-with-next-js-and-back-in-love-with-ruby-on-rails-inertia-js): We fell out of love with Next.js and back in love with Ruby on Rails</small>
 
 
-| 🔥🔥: 313 \| 💬: [287](https://news.ycombinator.com/item?id=43881035) \| 🗓️ 2025-05-03
+| 🔥🔥: 322 \| 💬: [297](https://news.ycombinator.com/item?id=43881035) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -51,7 +51,7 @@ Breeze PDF是一款**完全免费**的浏览器PDF编辑器，所有操作均在
 <small>🔗 [ostwilkens.se](https://ostwilkens.se/blog/setting-up-blog): Minimum Viable Blog</small>
 
 
-| 🔥🔥: 301 \| 💬: [148](https://news.ycombinator.com/item?id=43877797) \| 🗓️ 2025-05-03
+| 🔥🔥: 305 \| 💬: [150](https://news.ycombinator.com/item?id=43877797) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -63,7 +63,7 @@ Breeze PDF是一款**完全免费**的浏览器PDF编辑器，所有操作均在
 <small>🔗 [frontendmasters.com](https://frontendmasters.com/blog/seeking-an-answer-why-cant-html-alone-do-includes/): Why can't HTML alone do includes?</small>
 
 
-| 🔥🔥: 251 \| 💬: [212](https://news.ycombinator.com/item?id=43878728) \| 🗓️ 2025-05-03
+| 🔥🔥: 264 \| 💬: [219](https://news.ycombinator.com/item?id=43878728) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -75,7 +75,7 @@ Breeze PDF是一款**完全免费**的浏览器PDF编辑器，所有操作均在
 <small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/05/time-saved-by-ai-offset-by-new-work-created-study-suggests/): Time saved by AI offset by new work created, study suggests</small>
 
 
-| 🔥🔥: 240 \| 💬: [237](https://news.ycombinator.com/item?id=43878850) \| 🗓️ 2025-05-03
+| 🔥🔥: 262 \| 💬: [246](https://news.ycombinator.com/item?id=43878850) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -87,7 +87,7 @@ Breeze PDF是一款**完全免费**的浏览器PDF编辑器，所有操作均在
 <small>🔗 [github.com](https://github.com/Anemll/Anemll): Run LLMs on Apple Neural Engine (ANE)</small>
 
 
-| 🔥🔥: 224 \| 💬: [95](https://news.ycombinator.com/item?id=43879702) \| 🗓️ 2025-05-03
+| 🔥🔥: 229 \| 💬: [98](https://news.ycombinator.com/item?id=43879702) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -99,7 +99,7 @@ ANEMLL（发音类似“animal”）是一个开源项目，旨在将**大语言
 <small>🔗 [dbreunig.com](https://www.dbreunig.com/2025/05/03/duckdb-is-the-most-impactful-geospatial-software-in-a-decade.html): DuckDB is probably the most important geospatial software of the last decade</small>
 
 
-| 🔥🔥: 199 \| 💬: [67](https://news.ycombinator.com/item?id=43881468) \| 🗓️ 2025-05-03
+| 🔥🔥: 218 \| 💬: [71](https://news.ycombinator.com/item?id=43881468) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -111,7 +111,7 @@ ANEMLL（发音类似“animal”）是一个开源项目，旨在将**大语言
 <small>🔗 [n8n.io](https://n8n.io/): N8n – Flexible AI workflow automation for technical teams</small>
 
 
-| 🔥🔥: 172 \| 💬: [89](https://news.ycombinator.com/item?id=43879282) \| 🗓️ 2025-05-03
+| 🔥🔥: 174 \| 💬: [89](https://news.ycombinator.com/item?id=43879282) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -119,11 +119,23 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 
 ---
 
-## <a name="9"></a>9. QModem 4.51源代码：经典DOS通信程序的历史遗产 
+## <a name="9"></a>9. 当平价搬家公司拒接你的电话时 
+<small>🔗 [aphyr.com](https://aphyr.com/posts/381-when-flat-rate-movers-wont-answer-your-calls): When flat rate movers won't answer your calls</small>
+
+
+| 🔥🔥: 173 \| 💬: [113](https://news.ycombinator.com/item?id=43882150) \| 🗓️ 2025-05-03
+
+
+<br />
+作者2023年使用**Flat Rate Movers**跨州搬家，支付1.4万美元购买全包服务，但实际由外包团队接手，导致家具、房屋严重损坏。公司**拒绝沟通**，甚至不回应自家保险公司。作者通过联邦数据库查到其承保商**Hanover Insurance**，直接索赔成功，但公司至今未退费或赔偿房屋损失。**关键教训**：遭遇类似情况可绕过搬家公司，直接联系其保险公司维权。
+
+---
+
+## <a name="10"></a>10. QModem 4.51源代码：经典DOS通信程序的历史遗产 
 <small>🔗 [github.com](https://github.com/AaronFriel/qmodem-4.51): QModem 4.51 Source Code</small>
 
 
-| 🔥🔥: 170 \| 💬: [66](https://news.ycombinator.com/item?id=43879715) \| 🗓️ 2025-05-03
+| 🔥🔥: 172 \| 💬: [66](https://news.ycombinator.com/item?id=43879715) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -131,11 +143,11 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 
 ---
 
-## <a name="10"></a>10. 为什么我停止天使投资15年后转向新方向 
+## <a name="11"></a>11. 为什么我停止天使投资15年后转向新方向 
 <small>🔗 [halletecco.substack.com](https://halletecco.substack.com/p/why-i-stopped-angel-investing-after): Why I stopped angel investing after 15 years (and what I'm doing instead)</small>
 
 
-| 🔥🔥: 161 \| 💬: [140](https://news.ycombinator.com/item?id=43878878) \| 🗓️ 2025-05-03
+| 🔥🔥: 164 \| 💬: [148](https://news.ycombinator.com/item?id=43878878) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -145,23 +157,11 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 
 ---
 
-## <a name="11"></a>11. 当平价搬家公司拒接你的电话时 
-<small>🔗 [aphyr.com](https://aphyr.com/posts/381-when-flat-rate-movers-wont-answer-your-calls): When flat rate movers won't answer your calls</small>
-
-
-| 🔥🔥: 150 \| 💬: [101](https://news.ycombinator.com/item?id=43882150) \| 🗓️ 2025-05-03
-
-
-<br />
-作者2023年使用**Flat Rate Movers**跨州搬家，支付1.4万美元购买全包服务，但实际由外包团队接手，导致家具、房屋严重损坏。公司**拒绝沟通**，甚至不回应自家保险公司。作者通过联邦数据库查到其承保商**Hanover Insurance**，直接索赔成功，但公司至今未退费或赔偿房屋损失。**关键教训**：遭遇类似情况可绕过搬家公司，直接联系其保险公司维权。
-
----
-
 ## <a name="12"></a>12. 精美GRUB主题集：社区精选GRUB2主题合集 
 <small>🔗 [github.com](https://github.com/Jacksaur/Gorgeous-GRUB): Gorgeous-GRUB: collection of decent community-made GRUB themes</small>
 
 
-| 🔥🔥: 126 \| 💬: [23](https://news.ycombinator.com/item?id=43883040) \| 🗓️ 2025-05-03
+| 🔥🔥: 151 \| 💬: [30](https://news.ycombinator.com/item?id=43883040) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -173,7 +173,7 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 <small>🔗 [lwn.net](https://lwn.net/Articles/1019217/): How LWN is faring in 2025</small>
 
 
-| 🔥🔥: 118 \| 💬: [20](https://news.ycombinator.com/item?id=43880068) \| 🗓️ 2025-05-03
+| 🔥🔥: 122 \| 💬: [21](https://news.ycombinator.com/item?id=43880068) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -185,11 +185,23 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 
 ---
 
-## <a name="14"></a>14. 亚马逊卫星项目Kuiper细节首次曝光 
+## <a name="14"></a>14. 无线USB为何失败：标准之争与技术局限 
+<small>🔗 [oldvcr.blogspot.com](http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html): What went wrong with wireless USB</small>
+
+
+| 🔥: 92 \| 💬: [8](https://news.ycombinator.com/item?id=43883902) \| 🗓️ 2025-05-03
+
+
+<br />
+本文探讨了**无线USB技术**的兴衰史。早期**超宽带（UWB）**技术为短距离高速传输提供了可能，但市场因**MB-OFDM与DS-UWB两大标准阵营**分裂而陷入僵局。英特尔主导的WiMedia联盟与摩托罗拉支持的UWB论坛互不相让，导致产品碎片化。尽管无线USB曾试图通过加密和适配器兼容现有设备，但最终因技术复杂、成本高昂及Wi-Fi的普及而退出市场。**关键问题**在于缺乏统一标准与实用场景的缺失。
+
+---
+
+## <a name="15"></a>15. 亚马逊卫星项目Kuiper细节首次曝光 
 <small>🔗 [arstechnica.com](https://arstechnica.com/space/2025/05/we-finally-know-a-little-more-about-amazons-super-secret-satellites/): We know a little more about Amazon's satellites</small>
 
 
-| 🔥: 88 \| 💬: [102](https://news.ycombinator.com/item?id=43877907) \| 🗓️ 2025-05-03
+| 🔥: 89 \| 💬: [102](https://news.ycombinator.com/item?id=43877907) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -197,11 +209,11 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 
 ---
 
-## <a name="15"></a>15. 我为何曾痴迷Clojure 
+## <a name="16"></a>16. 我为何曾痴迷Clojure 
 <small>🔗 [thesoftwarephilosopher.com](https://thesoftwarephilosopher.com/blog/2025-05-03-why-i-ever-wrote-clojure.html): Why I ever wrote Clojure</small>
 
 
-| 🔥: 84 \| 💬: [45](https://news.ycombinator.com/item?id=43879259) \| 🗓️ 2025-05-03
+| 🔥: 84 \| 💬: [47](https://news.ycombinator.com/item?id=43879259) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -209,11 +221,11 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 
 ---
 
-## <a name="16"></a>16. 在JetBrains AI助手中使用第三方LLM API的代理工具 
+## <a name="17"></a>17. 在JetBrains AI助手中使用第三方LLM API的代理工具 
 <small>🔗 [github.com](https://github.com/Stream29/ProxyAsLocalModel): Show HN: Use Third Party LLM API in JetBrains AI Assistant</small>
 
 
-| 🔥: 83 \| 💬: [36](https://news.ycombinator.com/item?id=43878461) \| 🗓️ 2025-05-03
+| 🔥: 83 \| 💬: [38](https://news.ycombinator.com/item?id=43878461) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -221,7 +233,19 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 
 ---
 
-## <a name="17"></a>17. Tcl中的闭包实现探索 
+## <a name="18"></a>18. 美国批准CRISPR基因编辑猪进入食品市场 
+<small>🔗 [technologyreview.com](https://www.technologyreview.com/2025/05/02/1116059/the-us-approves-crispr-pigs-for-food/): The US has approved CRISPR pigs for food</small>
+
+
+| 🔥: 83 \| 💬: [105](https://news.ycombinator.com/item?id=43879288) \| 🗓️ 2025-05-03
+
+
+<br />
+美国食品药品监督管理局（FDA）近日批准了英国公司**Genus**利用**CRISPR基因编辑技术**培育的抗病猪上市。这种猪通过删除细胞中**PRRS病毒**的受体基因，实现对99%以上病毒变种的免疫，每年可为美国养猪业避免约3亿美元损失。这是继转基因三文鱼后，第二种获准食用的基因编辑动物，标志着CRISPR技术在农业领域的重大突破。Genus下一步计划推动中国、墨西哥等主要猪肉进口国的审批，预计明年美国市场将出现无标签的基因编辑猪肉产品。
+
+---
+
+## <a name="19"></a>19. Tcl中的闭包实现探索 
 <small>🔗 [world-playground-deceit.net](https://world-playground-deceit.net/blog/2024/10/tcl-closures.html): Closures in Tcl</small>
 
 
@@ -233,19 +257,7 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 
 ---
 
-## <a name="18"></a>18. 美国批准CRISPR基因编辑猪进入食品市场 
-<small>🔗 [technologyreview.com](https://www.technologyreview.com/2025/05/02/1116059/the-us-approves-crispr-pigs-for-food/): The US has approved CRISPR pigs for food</small>
-
-
-| 🔥: 78 \| 💬: [100](https://news.ycombinator.com/item?id=43879288) \| 🗓️ 2025-05-03
-
-
-<br />
-美国食品药品监督管理局（FDA）近日批准了英国公司**Genus**利用**CRISPR基因编辑技术**培育的抗病猪上市。这种猪通过删除细胞中**PRRS病毒**的受体基因，实现对99%以上病毒变种的免疫，每年可为美国养猪业避免约3亿美元损失。这是继转基因三文鱼后，第二种获准食用的基因编辑动物，标志着CRISPR技术在农业领域的重大突破。Genus下一步计划推动中国、墨西哥等主要猪肉进口国的审批，预计明年美国市场将出现无标签的基因编辑猪肉产品。
-
----
-
-## <a name="19"></a>19. 《逆向工程与速通优化：〈超人总动员：地下阴谋者〉模改实战》 
+## <a name="20"></a>20. 《逆向工程与速通优化：〈超人总动员：地下阴谋者〉模改实战》 
 <small>🔗 [farlow.dev](https://farlow.dev/2025/05/02/rotu): Speedrunning and Modding the Incredibles: Rise of the Underminer</small>
 
 
@@ -257,11 +269,11 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 
 ---
 
-## <a name="20"></a>20. RethinkDNS：一款支持多平台部署的服务器less DNS解析器 
+## <a name="21"></a>21. RethinkDNS：一款支持多平台部署的服务器less DNS解析器 
 <small>🔗 [github.com](https://github.com/serverless-dns/serverless-dns): RethinkDNS Resolver That Deploys to CF Workers, Deno Deploy, Fastly, Fly.io</small>
 
 
-| 🔥: 73 \| 💬: [6](https://news.ycombinator.com/item?id=43880883) \| 🗓️ 2025-05-03
+| 🔥: 75 \| 💬: [6](https://news.ycombinator.com/item?id=43880883) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -269,23 +281,11 @@ RethinkDNS是一款类似**Pi-Hole**的DNS解析器，支持**DNS-over-HTTPS (Do
 
 ---
 
-## <a name="21"></a>21. 无线USB为何失败：标准之争与技术局限 
-<small>🔗 [oldvcr.blogspot.com](http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html): What went wrong with wireless USB</small>
-
-
-| 🔥: 70 \| 💬: [6](https://news.ycombinator.com/item?id=43883902) \| 🗓️ 2025-05-03
-
-
-<br />
-本文探讨了**无线USB技术**的兴衰史。早期**超宽带（UWB）**技术为短距离高速传输提供了可能，但市场因**MB-OFDM与DS-UWB两大标准阵营**分裂而陷入僵局。英特尔主导的WiMedia联盟与摩托罗拉支持的UWB论坛互不相让，导致产品碎片化。尽管无线USB曾试图通过加密和适配器兼容现有设备，但最终因技术复杂、成本高昂及Wi-Fi的普及而退出市场。**关键问题**在于缺乏统一标准与实用场景的缺失。
-
----
-
 ## <a name="22"></a>22. 我为何不买电脑（1987） 
 <small>🔗 [classes.matthewjbrown.net](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf): Why I Am Not Going to Buy a Computer (1987) [pdf]</small>
 
 
-| 🔥: 69 \| 💬: [39](https://news.ycombinator.com/item?id=43882809) \| 🗓️ 2025-05-03
+| 🔥: 72 \| 💬: [41](https://news.ycombinator.com/item?id=43882809) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -293,7 +293,19 @@ RethinkDNS是一款类似**Pi-Hole**的DNS解析器，支持**DNS-over-HTTPS (Do
 
 ---
 
-## <a name="23"></a>23. 得州法案引发审查担忧，阿比林书店发起抵制 
+## <a name="23"></a>23. 谷歌Gemini的API体验堪称灾难 
+<small>🔗 [venki.dev](https://venki.dev/notes/google-gemini-is-bad): Google Gemini has the worst LLM API</small>
+
+
+| 🔥: 72 \| 💬: [55](https://news.ycombinator.com/item?id=43882905) \| 🗓️ 2025-05-03
+
+
+<br />
+尽管Gemini拥有**超长上下文支持**、**多模态微调**等前沿技术，但其开发者体验却极其糟糕。**文档分散混乱**，AI Studio与Vertex AI功能不同步，TypeScript SDK甚至不支持微调模型。身份验证复杂，**前缀缓存设计反人类**，开发者需手动维护缓存。建议通过Vercel AI SDK等第三方工具规避问题，但Gemini仍是目前性价比最高的长上下文模型选择。
+
+---
+
+## <a name="24"></a>24. 得州法案引发审查担忧，阿比林书店发起抵制 
 <small>🔗 [bigcountryhomepage.com](https://www.bigcountryhomepage.com/news/censorship-concerns-rise-over-texas-bill-abilene-bookstore-pushes-back/): Censorship concerns rise over Texas bill; Abilene bookstore pushes back</small>
 
 
@@ -305,26 +317,14 @@ RethinkDNS是一款类似**Pi-Hole**的DNS解析器，支持**DNS-over-HTTPS (Do
 
 ---
 
-## <a name="24"></a>24. 联邦法院叫停特朗普政府解散国家图书馆机构 
+## <a name="25"></a>25. 联邦法院叫停特朗普政府解散国家图书馆机构 
 <small>🔗 [ala.org](https://www.ala.org/news/2025/05/federal-court-halts-dismantling-federal-library-agency-ala-lawsuit): Federal Court Halts Dismantling of Federal Library Agency in ALA Lawsuit</small>
 
 
-| 🔥: 63 \| 💬: [0](https://news.ycombinator.com/item?id=43881391) \| 🗓️ 2025-05-03
+| 🔥: 67 \| 💬: [0](https://news.ycombinator.com/item?id=43881391) \| 🗓️ 2025-05-03
 
 
 <br />
 2025年5月1日，美国哥伦比亚特区联邦法院发布**临时限制令**，阻止特朗普政府根据行政命令解散**美国博物馆与图书馆服务署（IMLS）**。该裁决源于美国图书馆协会（ALA）及工会组织AFSCME提起的诉讼，指控政府此前解雇员工、终止资助等行为导致IMLS无法履行法定职责。ALA主席称此裁决是“全美图书馆的胜利”，但呼吁国会通过2026财年拨款法案以长期保障资金。目前ALA正动员民众敦促议员签署支持IMLS的联名信，截止期为5月中旬。
-
----
-
-## <a name="25"></a>25. Bethesda盛赞粉丝重制版《上古卷轴4》，并表示支持 
-<small>🔗 [kotaku.com](https://kotaku.com/bethesda-oblivion-remastered-skyblivion-mod-support-1851778773): Bethesda Thinks Fan Remaster of Oblivion Is 'Very Special' and Supports It</small>
-
-
-| 🔥: 60 \| 💬: [38](https://news.ycombinator.com/item?id=43879748) \| 🗓️ 2025-05-03
-
-
-<br />
-Bethesda近期发布了《上古卷轴4：湮没》的重制版，但粉丝团队**Skyblivion**（自2012年起开发的项目）的同类重制计划一度引发担忧。然而，Bethesda不仅未采取法律行动，反而在开发者视频中公开称赞该项目**“非常特别”**，并分享了其游戏片段。艺术总监Dan Lee表示期待粉丝的创意诠释，而**Skyblivion团队**也回应感谢支持，并透露Bethesda还赠送了重制版游戏。此举展现了Bethesda对玩家创作的开明态度。
 
 ---
