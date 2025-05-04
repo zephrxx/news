@@ -9,14 +9,14 @@ tags:
 
 
 1. 免费浏览器PDF编辑器：Breeze PDF；
-1. 极简博客搭建指南；
 1. 我们为何放弃Next.js，重新拥抱Ruby on Rails；
+1. 极简博客搭建指南；
 1. 为什么HTML本身不支持文件包含功能？；
 1. AI省下的时间被新增工作抵消？丹麦研究揭示早期影响；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [breezepdf.com](https://breezepdf.com): Show HN: Free, in-browser PDF editor</small>
 
 
-| 🔥🔥: 363 \| 💬: [84](https://news.ycombinator.com/item?id=43880962) \| 🗓️ 2025-05-03
+| 🔥🔥: 385 \| 💬: [85](https://news.ycombinator.com/item?id=43880962) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -35,23 +35,11 @@ Breeze PDF是一款**完全免费**的浏览器PDF编辑器，所有操作均在
 
 ---
 
-## <a name="2"></a>2. 极简博客搭建指南 
-<small>🔗 [ostwilkens.se](https://ostwilkens.se/blog/setting-up-blog): Minimum Viable Blog</small>
-
-
-| 🔥🔥: 298 \| 💬: [146](https://news.ycombinator.com/item?id=43877797) \| 🗓️ 2025-05-03
-
-
-<br />
-作者分享了一个**极简静态博客**的搭建过程，核心需求包括：使用现有域名、符合现代网页标准、**SEO友好**、内容更新便捷。方案摒弃了Jekyll等复杂工具，仅用Python脚本（markdown2库转换MD文件）和基础HTML模板实现。关键步骤：编写模板文件→批量渲染Markdown文章→自动生成索引页。全文透露出对**极简主义**的推崇，最终成果仅需静态托管即可运行，代码示例包含模板结构和渲染逻辑。文末附2025年手动更新记录及音乐推荐。
-
----
-
-## <a name="3"></a>3. 我们为何放弃Next.js，重新拥抱Ruby on Rails 
+## <a name="2"></a>2. 我们为何放弃Next.js，重新拥抱Ruby on Rails 
 <small>🔗 [hardcover.app](https://hardcover.app/blog/part-1-how-we-fell-out-of-love-with-next-js-and-back-in-love-with-ruby-on-rails-inertia-js): We fell out of love with Next.js and back in love with Ruby on Rails</small>
 
 
-| 🔥🔥: 295 \| 💬: [273](https://news.ycombinator.com/item?id=43881035) \| 🗓️ 2025-05-03
+| 🔥🔥: 313 \| 💬: [287](https://news.ycombinator.com/item?id=43881035) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -59,11 +47,23 @@ Breeze PDF是一款**完全免费**的浏览器PDF编辑器，所有操作均在
 
 ---
 
+## <a name="3"></a>3. 极简博客搭建指南 
+<small>🔗 [ostwilkens.se](https://ostwilkens.se/blog/setting-up-blog): Minimum Viable Blog</small>
+
+
+| 🔥🔥: 301 \| 💬: [148](https://news.ycombinator.com/item?id=43877797) \| 🗓️ 2025-05-03
+
+
+<br />
+作者分享了一个**极简静态博客**的搭建过程，核心需求包括：使用现有域名、符合现代网页标准、**SEO友好**、内容更新便捷。方案摒弃了Jekyll等复杂工具，仅用Python脚本（markdown2库转换MD文件）和基础HTML模板实现。关键步骤：编写模板文件→批量渲染Markdown文章→自动生成索引页。全文透露出对**极简主义**的推崇，最终成果仅需静态托管即可运行，代码示例包含模板结构和渲染逻辑。文末附2025年手动更新记录及音乐推荐。
+
+---
+
 ## <a name="4"></a>4. 为什么HTML本身不支持文件包含功能？ 
 <small>🔗 [frontendmasters.com](https://frontendmasters.com/blog/seeking-an-answer-why-cant-html-alone-do-includes/): Why can't HTML alone do includes?</small>
 
 
-| 🔥🔥: 243 \| 💬: [207](https://news.ycombinator.com/item?id=43878728) \| 🗓️ 2025-05-03
+| 🔥🔥: 251 \| 💬: [212](https://news.ycombinator.com/item?id=43878728) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -75,7 +75,7 @@ Breeze PDF是一款**完全免费**的浏览器PDF编辑器，所有操作均在
 <small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/05/time-saved-by-ai-offset-by-new-work-created-study-suggests/): Time saved by AI offset by new work created, study suggests</small>
 
 
-| 🔥🔥: 221 \| 💬: [223](https://news.ycombinator.com/item?id=43878850) \| 🗓️ 2025-05-03
+| 🔥🔥: 240 \| 💬: [237](https://news.ycombinator.com/item?id=43878850) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -87,7 +87,7 @@ Breeze PDF是一款**完全免费**的浏览器PDF编辑器，所有操作均在
 <small>🔗 [github.com](https://github.com/Anemll/Anemll): Run LLMs on Apple Neural Engine (ANE)</small>
 
 
-| 🔥🔥: 220 \| 💬: [94](https://news.ycombinator.com/item?id=43879702) \| 🗓️ 2025-05-03
+| 🔥🔥: 224 \| 💬: [95](https://news.ycombinator.com/item?id=43879702) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -99,7 +99,7 @@ ANEMLL（发音类似“animal”）是一个开源项目，旨在将**大语言
 <small>🔗 [dbreunig.com](https://www.dbreunig.com/2025/05/03/duckdb-is-the-most-impactful-geospatial-software-in-a-decade.html): DuckDB is probably the most important geospatial software of the last decade</small>
 
 
-| 🔥🔥: 184 \| 💬: [68](https://news.ycombinator.com/item?id=43881468) \| 🗓️ 2025-05-03
+| 🔥🔥: 199 \| 💬: [67](https://news.ycombinator.com/item?id=43881468) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -111,7 +111,7 @@ ANEMLL（发音类似“animal”）是一个开源项目，旨在将**大语言
 <small>🔗 [n8n.io](https://n8n.io/): N8n – Flexible AI workflow automation for technical teams</small>
 
 
-| 🔥🔥: 169 \| 💬: [89](https://news.ycombinator.com/item?id=43879282) \| 🗓️ 2025-05-03
+| 🔥🔥: 172 \| 💬: [89](https://news.ycombinator.com/item?id=43879282) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -123,7 +123,7 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 <small>🔗 [github.com](https://github.com/AaronFriel/qmodem-4.51): QModem 4.51 Source Code</small>
 
 
-| 🔥🔥: 165 \| 💬: [63](https://news.ycombinator.com/item?id=43879715) \| 🗓️ 2025-05-03
+| 🔥🔥: 170 \| 💬: [66](https://news.ycombinator.com/item?id=43879715) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -135,7 +135,7 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 <small>🔗 [halletecco.substack.com](https://halletecco.substack.com/p/why-i-stopped-angel-investing-after): Why I stopped angel investing after 15 years (and what I'm doing instead)</small>
 
 
-| 🔥🔥: 155 \| 💬: [132](https://news.ycombinator.com/item?id=43878878) \| 🗓️ 2025-05-03
+| 🔥🔥: 161 \| 💬: [140](https://news.ycombinator.com/item?id=43878878) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -149,7 +149,7 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 <small>🔗 [aphyr.com](https://aphyr.com/posts/381-when-flat-rate-movers-wont-answer-your-calls): When flat rate movers won't answer your calls</small>
 
 
-| 🔥🔥: 129 \| 💬: [88](https://news.ycombinator.com/item?id=43882150) \| 🗓️ 2025-05-03
+| 🔥🔥: 150 \| 💬: [101](https://news.ycombinator.com/item?id=43882150) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -157,7 +157,19 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 
 ---
 
-## <a name="12"></a>12. LWN 2025年现状报告 
+## <a name="12"></a>12. 精美GRUB主题集：社区精选GRUB2主题合集 
+<small>🔗 [github.com](https://github.com/Jacksaur/Gorgeous-GRUB): Gorgeous-GRUB: collection of decent community-made GRUB themes</small>
+
+
+| 🔥🔥: 126 \| 💬: [23](https://news.ycombinator.com/item?id=43883040) \| 🗓️ 2025-05-03
+
+
+<br />
+该项目汇集了**高质量社区制作的GRUB主题**，解决优质主题分散难寻的问题。包含多种风格（如赛博朋克、复古、极简等），支持**高度自定义**（背景、字体、布局等）。提供安装指南、贡献方式及实用工具链接（如背景轮换脚本）。强调为喜爱的主题评分以支持创作者，推动社区生态发展。
+
+---
+
+## <a name="13"></a>13. LWN 2025年现状报告 
 <small>🔗 [lwn.net](https://lwn.net/Articles/1019217/): How LWN is faring in 2025</small>
 
 
@@ -173,23 +185,11 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 
 ---
 
-## <a name="13"></a>13. 精美GRUB主题集：社区精选GRUB2主题合集 
-<small>🔗 [github.com](https://github.com/Jacksaur/Gorgeous-GRUB): Gorgeous-GRUB: collection of decent community-made GRUB themes</small>
-
-
-| 🔥🔥: 114 \| 💬: [18](https://news.ycombinator.com/item?id=43883040) \| 🗓️ 2025-05-03
-
-
-<br />
-该项目汇集了**高质量社区制作的GRUB主题**，解决优质主题分散难寻的问题。包含多种风格（如赛博朋克、复古、极简等），支持**高度自定义**（背景、字体、布局等）。提供安装指南、贡献方式及实用工具链接（如背景轮换脚本）。强调为喜爱的主题评分以支持创作者，推动社区生态发展。
-
----
-
 ## <a name="14"></a>14. 亚马逊卫星项目Kuiper细节首次曝光 
 <small>🔗 [arstechnica.com](https://arstechnica.com/space/2025/05/we-finally-know-a-little-more-about-amazons-super-secret-satellites/): We know a little more about Amazon's satellites</small>
 
 
-| 🔥: 86 \| 💬: [102](https://news.ycombinator.com/item?id=43877907) \| 🗓️ 2025-05-03
+| 🔥: 88 \| 💬: [102](https://news.ycombinator.com/item?id=43877907) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -213,7 +213,7 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 <small>🔗 [github.com](https://github.com/Stream29/ProxyAsLocalModel): Show HN: Use Third Party LLM API in JetBrains AI Assistant</small>
 
 
-| 🔥: 82 \| 💬: [35](https://news.ycombinator.com/item?id=43878461) \| 🗓️ 2025-05-03
+| 🔥: 83 \| 💬: [36](https://news.ycombinator.com/item?id=43878461) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -225,7 +225,7 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 <small>🔗 [world-playground-deceit.net](https://world-playground-deceit.net/blog/2024/10/tcl-closures.html): Closures in Tcl</small>
 
 
-| 🔥: 77 \| 💬: [25](https://news.ycombinator.com/item?id=43878824) \| 🗓️ 2025-05-03
+| 🔥: 78 \| 💬: [25](https://news.ycombinator.com/item?id=43878824) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -233,23 +233,11 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 
 ---
 
-## <a name="18"></a>18. 《逆向工程与速通优化：〈超人总动员：地下阴谋者〉模改实战》 
-<small>🔗 [farlow.dev](https://farlow.dev/2025/05/02/rotu): Speedrunning and Modding the Incredibles: Rise of the Underminer</small>
-
-
-| 🔥: 76 \| 💬: [6](https://news.ycombinator.com/item?id=43878191) \| 🗓️ 2025-05-03
-
-
-<br />
-作者通过逆向工程GameCube游戏《超人总动员：地下阴谋者》，探索**速通优化**方法。利用Ghidra分析游戏代码，发现**调试符号**意外保留，简化了函数定位。开发了显示敌人血量的**模组**，通过Action Replay代码实现，揭示了战斗系统的隐藏机制（如连击伤害倍增）。此外，破解了未公开的开发者作弊码（如“NUKE”），并发现了一些穿墙漏洞。研究旨在助力小众速通社区，代码已开源。
-
----
-
-## <a name="19"></a>19. 美国批准CRISPR基因编辑猪进入食品市场 
+## <a name="18"></a>18. 美国批准CRISPR基因编辑猪进入食品市场 
 <small>🔗 [technologyreview.com](https://www.technologyreview.com/2025/05/02/1116059/the-us-approves-crispr-pigs-for-food/): The US has approved CRISPR pigs for food</small>
 
 
-| 🔥: 74 \| 💬: [95](https://news.ycombinator.com/item?id=43879288) \| 🗓️ 2025-05-03
+| 🔥: 78 \| 💬: [100](https://news.ycombinator.com/item?id=43879288) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -257,11 +245,23 @@ n8n是一款**高度灵活**的工作流自动化平台，专为技术团队设�
 
 ---
 
+## <a name="19"></a>19. 《逆向工程与速通优化：〈超人总动员：地下阴谋者〉模改实战》 
+<small>🔗 [farlow.dev](https://farlow.dev/2025/05/02/rotu): Speedrunning and Modding the Incredibles: Rise of the Underminer</small>
+
+
+| 🔥: 76 \| 💬: [7](https://news.ycombinator.com/item?id=43878191) \| 🗓️ 2025-05-03
+
+
+<br />
+作者通过逆向工程GameCube游戏《超人总动员：地下阴谋者》，探索**速通优化**方法。利用Ghidra分析游戏代码，发现**调试符号**意外保留，简化了函数定位。开发了显示敌人血量的**模组**，通过Action Replay代码实现，揭示了战斗系统的隐藏机制（如连击伤害倍增）。此外，破解了未公开的开发者作弊码（如“NUKE”），并发现了一些穿墙漏洞。研究旨在助力小众速通社区，代码已开源。
+
+---
+
 ## <a name="20"></a>20. RethinkDNS：一款支持多平台部署的服务器less DNS解析器 
 <small>🔗 [github.com](https://github.com/serverless-dns/serverless-dns): RethinkDNS Resolver That Deploys to CF Workers, Deno Deploy, Fastly, Fly.io</small>
 
 
-| 🔥: 71 \| 💬: [6](https://news.ycombinator.com/item?id=43880883) \| 🗓️ 2025-05-03
+| 🔥: 73 \| 💬: [6](https://news.ycombinator.com/item?id=43880883) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -269,7 +269,31 @@ RethinkDNS是一款类似**Pi-Hole**的DNS解析器，支持**DNS-over-HTTPS (Do
 
 ---
 
-## <a name="21"></a>21. 得州法案引发审查担忧，阿比林书店发起抵制 
+## <a name="21"></a>21. 无线USB为何失败：标准之争与技术局限 
+<small>🔗 [oldvcr.blogspot.com](http://oldvcr.blogspot.com/2025/05/what-went-wrong-with-wireless-usb.html): What went wrong with wireless USB</small>
+
+
+| 🔥: 70 \| 💬: [6](https://news.ycombinator.com/item?id=43883902) \| 🗓️ 2025-05-03
+
+
+<br />
+本文探讨了**无线USB技术**的兴衰史。早期**超宽带（UWB）**技术为短距离高速传输提供了可能，但市场因**MB-OFDM与DS-UWB两大标准阵营**分裂而陷入僵局。英特尔主导的WiMedia联盟与摩托罗拉支持的UWB论坛互不相让，导致产品碎片化。尽管无线USB曾试图通过加密和适配器兼容现有设备，但最终因技术复杂、成本高昂及Wi-Fi的普及而退出市场。**关键问题**在于缺乏统一标准与实用场景的缺失。
+
+---
+
+## <a name="22"></a>22. 我为何不买电脑（1987） 
+<small>🔗 [classes.matthewjbrown.net](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf): Why I Am Not Going to Buy a Computer (1987) [pdf]</small>
+
+
+| 🔥: 69 \| 💬: [39](https://news.ycombinator.com/item?id=43882809) \| 🗓️ 2025-05-03
+
+
+<br />
+这篇1987年的文章通过杂乱的PDF代码展现了作者对计算机的抗拒态度。核心观点包括：**技术依赖**对人类思维的侵蚀、**自然生活**方式的推崇，以及对**工业化社会**的批判。作者以碎片化的文字表达了对数字化浪潮的警惕，暗示科技并非绝对进步。文中未解码的内容强化了这种反技术立场，形成对现代性的哲学反思。
+
+---
+
+## <a name="23"></a>23. 得州法案引发审查担忧，阿比林书店发起抵制 
 <small>🔗 [bigcountryhomepage.com](https://www.bigcountryhomepage.com/news/censorship-concerns-rise-over-texas-bill-abilene-bookstore-pushes-back/): Censorship concerns rise over Texas bill; Abilene bookstore pushes back</small>
 
 
@@ -281,11 +305,11 @@ RethinkDNS是一款类似**Pi-Hole**的DNS解析器，支持**DNS-over-HTTPS (Do
 
 ---
 
-## <a name="22"></a>22. 联邦法院叫停特朗普政府解散国家图书馆机构 
+## <a name="24"></a>24. 联邦法院叫停特朗普政府解散国家图书馆机构 
 <small>🔗 [ala.org](https://www.ala.org/news/2025/05/federal-court-halts-dismantling-federal-library-agency-ala-lawsuit): Federal Court Halts Dismantling of Federal Library Agency in ALA Lawsuit</small>
 
 
-| 🔥: 61 \| 💬: [0](https://news.ycombinator.com/item?id=43881391) \| 🗓️ 2025-05-03
+| 🔥: 63 \| 💬: [0](https://news.ycombinator.com/item?id=43881391) \| 🗓️ 2025-05-03
 
 
 <br />
@@ -293,11 +317,11 @@ RethinkDNS是一款类似**Pi-Hole**的DNS解析器，支持**DNS-over-HTTPS (Do
 
 ---
 
-## <a name="23"></a>23. Bethesda盛赞粉丝重制版《上古卷轴4》，并表示支持 
+## <a name="25"></a>25. Bethesda盛赞粉丝重制版《上古卷轴4》，并表示支持 
 <small>🔗 [kotaku.com](https://kotaku.com/bethesda-oblivion-remastered-skyblivion-mod-support-1851778773): Bethesda Thinks Fan Remaster of Oblivion Is 'Very Special' and Supports It</small>
 
 
-| 🔥: 60 \| 💬: [37](https://news.ycombinator.com/item?id=43879748) \| 🗓️ 2025-05-03
+| 🔥: 60 \| 💬: [38](https://news.ycombinator.com/item?id=43879748) \| 🗓️ 2025-05-03
 
 
 <br />
