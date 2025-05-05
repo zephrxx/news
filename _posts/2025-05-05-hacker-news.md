@@ -27,7 +27,7 @@ tags:
 <small>🔗 [afterbabel.com](https://www.afterbabel.com/p/on-the-death-of-daydreaming): The Death of Daydreaming</small>
 
 
-| 🔥🔥: 489 \| 💬: [201](https://news.ycombinator.com/item?id=43894305) \| 🗓️ 2025-05-05
+| 🔥🔥: 505 \| 💬: [203](https://news.ycombinator.com/item?id=43894305) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [bjango.com](https://bjango.com/articles/daftpunkvocaleffects/): The vocal effects of Daft Punk</small>
 
 
-| 🔥🔥: 333 \| 💬: [70](https://news.ycombinator.com/item?id=43893601) \| 🗓️ 2025-05-05
+| 🔥🔥: 343 \| 💬: [72](https://news.ycombinator.com/item?id=43893601) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -51,7 +51,7 @@ Daft Punk在其作品中广泛运用了**声码器**、**Talk Box**和**和声�
 <small>🔗 [wired.com](https://www.wired.com/story/meta-lawsuit-copyright-hearing-artificial-intelligence/): Judge said Meta illegally used books to build its AI</small>
 
 
-| 🔥🔥: 329 \| 💬: [286](https://news.ycombinator.com/item?id=43893762) \| 🗓️ 2025-05-05
+| 🔥🔥: 330 \| 💬: [293](https://news.ycombinator.com/item?id=43893762) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -63,7 +63,7 @@ Meta与包括Sarah Silverman、Ta-Nehisi Coates在内的作家团体陷入版权
 <small>🔗 [minimaxir.com](https://minimaxir.com/2025/05/llm-use/): As an experienced LLM user, I don't use generative LLMs often</small>
 
 
-| 🔥🔥: 214 \| 💬: [129](https://news.ycombinator.com/item?id=43897320) \| 🗓️ 2025-05-05
+| 🔥🔥: 230 \| 💬: [136](https://news.ycombinator.com/item?id=43897320) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -75,7 +75,7 @@ Meta与包括Sarah Silverman、Ta-Nehisi Coates在内的作家团体陷入版权
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/may/04/trump-tariffs-foreign-movies): Trump announces 100% tariffs on movies ‘produced in foreign lands’</small>
 
 
-| 🔥🔥: 192 \| 💬: [433](https://news.ycombinator.com/item?id=43893310) \| 🗓️ 2025-05-05
+| 🔥🔥: 193 \| 💬: [440](https://news.ycombinator.com/item?id=43893310) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -87,7 +87,7 @@ Meta与包括Sarah Silverman、Ta-Nehisi Coates在内的作家团体陷入版权
 <small>🔗 [vectorvfs.readthedocs.io](https://vectorvfs.readthedocs.io/en/latest/): Show HN: VectorVFS, your filesystem as a vector database</small>
 
 
-| 🔥🔥: 179 \| 💬: [86](https://news.ycombinator.com/item?id=43896011) \| 🗓️ 2025-05-05
+| 🔥🔥: 192 \| 💬: [93](https://news.ycombinator.com/item?id=43896011) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -99,7 +99,7 @@ VectorVFS是一款**Python工具包**，通过Linux的**虚拟文件系统（VFS
 <small>🔗 [token.security](https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk): AWS Built a Security Tool. It Introduced a Security Risk</small>
 
 
-| 🔥🔥: 174 \| 💬: [70](https://news.ycombinator.com/item?id=43893906) \| 🗓️ 2025-05-05
+| 🔥🔥: 178 \| 💬: [72](https://news.ycombinator.com/item?id=43893906) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -111,7 +111,7 @@ AWS推出的**Account Assessment for AWS Organizations**工具本用于审计跨
 <small>🔗 [den.dev](https://den.dev/blog/pihole/): The Beauty of Having a Pi-Hole (2024)</small>
 
 
-| 🔥🔥: 146 \| 💬: [107](https://news.ycombinator.com/item?id=43894175) \| 🗓️ 2025-05-05
+| 🔥🔥: 158 \| 💬: [114](https://news.ycombinator.com/item?id=43894175) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -127,7 +127,7 @@ AWS推出的**Account Assessment for AWS Organizations**工具本用于审计跨
 <small>🔗 [vin01.github.io](https://vin01.github.io/piptagole/cybcecrime/security/cybersecurity/2025/05/05/state-cyber-security.html): How are cyber criminals rolling in 2025?</small>
 
 
-| 🔥🔥: 135 \| 💬: [47](https://news.ycombinator.com/item?id=43896188) \| 🗓️ 2025-05-05
+| 🔥🔥: 149 \| 💬: [55](https://news.ycombinator.com/item?id=43896188) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -135,47 +135,11 @@ AWS推出的**Account Assessment for AWS Organizations**工具本用于审计跨
 
 ---
 
-## <a name="10"></a>10. 自托管赛事管理系统Bracket：支持多赛制的开源解决方案 
-<small>🔗 [github.com](https://github.com/evroon/bracket): Show HN: Bracket – selfhosted tournament system</small>
-
-
-| 🔥🔥: 110 \| 💬: [25](https://news.ycombinator.com/item?id=43895456) \| 🗓️ 2025-05-05
-
-
-<br />
-Bracket是一个基于**FastAPI**（异步Python）和**Next.js**构建的自托管赛事管理平台，支持单淘汰、循环赛和瑞士制等多种赛制。核心功能包括多阶段赛事编排、拖拽调整赛程、多俱乐部管理及动态瑞士制匹配。提供30分钟在线演示，支持Docker快速部署（含PostgreSQL），默认账号为test@example.org/aeGhoe1ahng2Aezai0Dei6Aih6dieHoo。采用**AGPL-3.0协议**开源，已获378星标，支持通过Crowdin贡献多语言翻译。
-
----
-
-## <a name="11"></a>11. 冷战情报中的“潜伏狡辩”陷阱 
-<small>🔗 [kucharski.substack.com](https://kucharski.substack.com/p/possibly-a-serious-possibility): Possibly a Serious Possibility</small>
-
-
-| 🔥🔥: 110 \| 💬: [31](https://news.ycombinator.com/item?id=43898380) \| 🗓️ 2025-05-05
-
-
-<br />
-1951年，CIA分析师Sherman Kent发现术语**“严重可能性”**在评估苏联入侵南斯拉夫风险时引发混乱——同事对其概率的理解从20%到80%不等。这暴露了情报界长期存在的**语言模糊性**问题：专业术语（如“可能”“很可能”）缺乏统一量化标准，导致决策误判。Kent将情报分为事实、可推断与不可推断三类，指出后两类因不确定性易滋生**“潜伏狡辩”**（如法律中的“非随意怀疑”），即用权威措辞推卸责任。近年英国等尝试用概率标尺（如“极可能”=80%-95%）规范表述，但人类对不确定性的沟通仍面临挑战。
-
----
-
-## <a name="12"></a>12. 没有Instagram，就没有隐私 
-<small>🔗 [blog.wouterjanleys.com](https://blog.wouterjanleys.com/blog/no-instagram-no-privacy/): No Instagram, no privacy</small>
-
-
-| 🔥🔥: 105 \| 💬: [94](https://news.ycombinator.com/item?id=43896228) \| 🗓️ 2025-05-05
-
-
-<br />
-作者庆幸自己没有Instagram账号，避免了社交媒体的压力，但发现**他人通过朋友发布的动态**仍能了解自己的私生活。这种**信息失控**让他感到不安，尤其是无法掌控他人如何解读这些内容。虽然现实社交中人们会注意言辞，但社交媒体的公开性让这种**细腻沟通**消失。他提出可能需要建立新的社交礼仪，限制聚会内容的分享范围，但承认这与社交媒体本质相悖。最后，他选择继续享受无知带来的平静，希望未被邀请的朋友能理解并保持关系。
-
----
-
-## <a name="13"></a>13. 实时AI语音聊天：延迟仅500毫秒的自然对话工具 
+## <a name="10"></a>10. 实时AI语音聊天：延迟仅500毫秒的自然对话工具 
 <small>🔗 [github.com](https://github.com/KoljaB/RealtimeVoiceChat): Show HN: Real-time AI Voice Chat at ~500ms Latency</small>
 
 
-| 🔥🔥: 103 \| 💬: [45](https://news.ycombinator.com/item?id=43899028) \| 🗓️ 2025-05-05
+| 🔥🔥: 146 \| 💬: [73](https://news.ycombinator.com/item?id=43899028) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -183,7 +147,69 @@ Bracket是一个基于**FastAPI**（异步Python）和**Next.js**构建的自托
 
 ---
 
-## <a name="14"></a>14. 西班牙和葡萄牙停电期间的互联网使用模式 
+## <a name="11"></a>11. 冷战情报中的“潜伏狡辩”陷阱 
+<small>🔗 [kucharski.substack.com](https://kucharski.substack.com/p/possibly-a-serious-possibility): Possibly a Serious Possibility</small>
+
+
+| 🔥🔥: 130 \| 💬: [51](https://news.ycombinator.com/item?id=43898380) \| 🗓️ 2025-05-05
+
+
+<br />
+1951年，CIA分析师Sherman Kent发现术语**“严重可能性”**在评估苏联入侵南斯拉夫风险时引发混乱——同事对其概率的理解从20%到80%不等。这暴露了情报界长期存在的**语言模糊性**问题：专业术语（如“可能”“很可能”）缺乏统一量化标准，导致决策误判。Kent将情报分为事实、可推断与不可推断三类，指出后两类因不确定性易滋生**“潜伏狡辩”**（如法律中的“非随意怀疑”），即用权威措辞推卸责任。近年英国等尝试用概率标尺（如“极可能”=80%-95%）规范表述，但人类对不确定性的沟通仍面临挑战。
+
+---
+
+## <a name="12"></a>12. 自托管赛事管理系统Bracket：支持多赛制的开源解决方案 
+<small>🔗 [github.com](https://github.com/evroon/bracket): Show HN: Bracket – selfhosted tournament system</small>
+
+
+| 🔥🔥: 118 \| 💬: [26](https://news.ycombinator.com/item?id=43895456) \| 🗓️ 2025-05-05
+
+
+<br />
+Bracket是一个基于**FastAPI**（异步Python）和**Next.js**构建的自托管赛事管理平台，支持单淘汰、循环赛和瑞士制等多种赛制。核心功能包括多阶段赛事编排、拖拽调整赛程、多俱乐部管理及动态瑞士制匹配。提供30分钟在线演示，支持Docker快速部署（含PostgreSQL），默认账号为test@example.org/aeGhoe1ahng2Aezai0Dei6Aih6dieHoo。采用**AGPL-3.0协议**开源，已获378星标，支持通过Crowdin贡献多语言翻译。
+
+---
+
+## <a name="13"></a>13. 没有Instagram，就没有隐私 
+<small>🔗 [blog.wouterjanleys.com](https://blog.wouterjanleys.com/blog/no-instagram-no-privacy/): No Instagram, no privacy</small>
+
+
+| 🔥🔥: 108 \| 💬: [97](https://news.ycombinator.com/item?id=43896228) \| 🗓️ 2025-05-05
+
+
+<br />
+作者庆幸自己没有Instagram账号，避免了社交媒体的压力，但发现**他人通过朋友发布的动态**仍能了解自己的私生活。这种**信息失控**让他感到不安，尤其是无法掌控他人如何解读这些内容。虽然现实社交中人们会注意言辞，但社交媒体的公开性让这种**细腻沟通**消失。他提出可能需要建立新的社交礼仪，限制聚会内容的分享范围，但承认这与社交媒体本质相悖。最后，他选择继续享受无知带来的平静，希望未被邀请的朋友能理解并保持关系。
+
+---
+
+## <a name="14"></a>14. 用SQL轻松查询CSV/JSON/Excel数据的本地工具 
+<small>🔗 [textquery.app](https://textquery.app/): Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL</small>
+
+
+| 🔥🔥: 101 \| 💬: [36](https://news.ycombinator.com/item?id=43897129) \| 🗓️ 2025-05-05
+
+
+<br />
+TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可视化CSV/JSON/XLSX等文件数据，无需编写代码或定义结构。提供**智能SQL编辑器**（自动补全、历史记录）、多种图表（折线/饼图等）及数据导出功能。所有操作在本地完成，**保障数据隐私**，支持一次性买断授权。免费版可试用，适合数据分析师快速处理本地文件。
+
+---
+
+## <a name="15"></a>15. 从几何视角理解反函数的微积分（2023） 
+<small>🔗 [tobylam.xyz](https://tobylam.xyz/2023/11/27/inverse-functions-legendre-part-1): Geometrically understanding calculus of inverse functions (2023)</small>
+
+
+| 🔥: 92 \| 💬: [4](https://news.ycombinator.com/item?id=43895852) \| 🗓️ 2025-05-05
+
+
+<br />
+本文通过几何方法探讨**反函数定理**和**勒让德变换**，避免枯燥的公式推导。反函数定理表明，若函数\(f\)在点\(a\)可导且导数非零，则其反函数\(f^{-1}\)的导数为\(\frac{1}{f'(f^{-1}(x))}\)。几何上，反函数是原函数图像关于直线\(y=x\)的对称变换，斜率也随之取倒数。  
+
+对于积分，勒让德变换将原函数积分与反函数积分关联，公式为\(G(y) = y \cdot g(y) - F(g(y)) + C\)。例如，通过\(\tan x\)的积分可推导出\(\arctan x\)的积分表达式。这种方法不仅直观，还在物理学中有广泛应用。
+
+---
+
+## <a name="16"></a>16. 西班牙和葡萄牙停电期间的互联网使用模式 
 <small>🔗 [blog.akamai-mpulse.com](https://blog.akamai-mpulse.com/blog/2025-05-03-iberian-power-outage/): Internet usage pattern during power outage in Spain and Portugal</small>
 
 
@@ -195,37 +221,11 @@ Bracket是一个基于**FastAPI**（异步Python）和**Next.js**构建的自托
 
 ---
 
-## <a name="15"></a>15. 用SQL轻松查询CSV/JSON/Excel数据的本地工具 
-<small>🔗 [textquery.app](https://textquery.app/): Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL</small>
-
-
-| 🔥: 90 \| 💬: [35](https://news.ycombinator.com/item?id=43897129) \| 🗓️ 2025-05-05
-
-
-<br />
-TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可视化CSV/JSON/XLSX等文件数据，无需编写代码或定义结构。提供**智能SQL编辑器**（自动补全、历史记录）、多种图表（折线/饼图等）及数据导出功能。所有操作在本地完成，**保障数据隐私**，支持一次性买断授权。免费版可试用，适合数据分析师快速处理本地文件。
-
----
-
-## <a name="16"></a>16. 从几何视角理解反函数的微积分（2023） 
-<small>🔗 [tobylam.xyz](https://tobylam.xyz/2023/11/27/inverse-functions-legendre-part-1): Geometrically understanding calculus of inverse functions (2023)</small>
-
-
-| 🔥: 89 \| 💬: [4](https://news.ycombinator.com/item?id=43895852) \| 🗓️ 2025-05-05
-
-
-<br />
-本文通过几何方法探讨**反函数定理**和**勒让德变换**，避免枯燥的公式推导。反函数定理表明，若函数\(f\)在点\(a\)可导且导数非零，则其反函数\(f^{-1}\)的导数为\(\frac{1}{f'(f^{-1}(x))}\)。几何上，反函数是原函数图像关于直线\(y=x\)的对称变换，斜率也随之取倒数。  
-
-对于积分，勒让德变换将原函数积分与反函数积分关联，公式为\(G(y) = y \cdot g(y) - F(g(y)) + C\)。例如，通过\(\tan x\)的积分可推导出\(\arctan x\)的积分表达式。这种方法不仅直观，还在物理学中有广泛应用。
-
----
-
 ## <a name="17"></a>17. 雅达利2600经典游戏《冒险》的开发秘史 
 <small>🔗 [atariarchive.org](https://www.atariarchive.org/blog/adventure-march-1980/): History of "Adventure" for the Atari 2600</small>
 
 
-| 🔥: 80 \| 💬: [13](https://news.ycombinator.com/item?id=43895237) \| 🗓️ 2025-05-05
+| 🔥: 83 \| 💬: [13](https://news.ycombinator.com/item?id=43895237) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -233,11 +233,23 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="18"></a>18. SpaceX曾向联邦调查局提出“狙击手”炸毁火箭的离奇理论 
+## <a name="18"></a>18. 数学家证实126维空间存在奇异扭曲形状 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/): Dimension 126 Contains Twisted Shapes, Mathematicians Prove</small>
+
+
+| 🔥: 83 \| 💬: [43](https://news.ycombinator.com/item?id=43896199) \| 🗓️ 2025-05-05
+
+
+<br />
+经过65年的研究，数学家最终证明**126维空间**中存在无法通过简单手术转化为球体的**奇异扭曲形状**。这一发现与**拓扑学**中高维球面的关系密切相关。此前，类似形状仅在2、6、14、30和62维中被发现。复旦大学和加州大学的团队通过计算机计算与理论结合，解决了这一遗留问题，标志着拓扑学领域一项重大突破。
+
+---
+
+## <a name="19"></a>19. SpaceX曾向联邦调查局提出“狙击手”炸毁火箭的离奇理论 
 <small>🔗 [arstechnica.com](https://arstechnica.com/space/2025/05/spacex-pushed-sniper-theory-with-the-feds-far-more-than-is-publicly-known/): SpaceX pushed "sniper" theory with the feds</small>
 
 
-| 🔥: 79 \| 💬: [48](https://news.ycombinator.com/item?id=43894678) \| 🗓️ 2025-05-05
+| 🔥: 81 \| 💬: [49](https://news.ycombinator.com/item?id=43894678) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -245,11 +257,11 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="19"></a>19. 泰克TDS 684B示波器：揭秘CCD模拟存储技术 
+## <a name="20"></a>20. 泰克TDS 684B示波器：揭秘CCD模拟存储技术 
 <small>🔗 [tomverbeure.github.io](https://tomverbeure.github.io/2025/05/04/TDS684B-CCD-Memory.html): A Tektronix TDS 684B Oscilloscope Uses CCD Analog Memory</small>
 
 
-| 🔥: 78 \| 💬: [48](https://news.ycombinator.com/item?id=43895622) \| 🗓️ 2025-05-05
+| 🔥: 80 \| 💬: [48](https://news.ycombinator.com/item?id=43895622) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -257,7 +269,7 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="20"></a>20. 欧盟拟2027年起全面禁止匿名加密货币账户和隐私币 
+## <a name="21"></a>21. 欧盟拟2027年起全面禁止匿名加密货币账户和隐私币 
 <small>🔗 [cointelegraph.com](https://cointelegraph.com/news/eu-crypto-ban-anonymous-privacy-tokens-2027): EU to ban anonymous crypto accounts and privacy coins by 2027</small>
 
 
@@ -269,23 +281,11 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="21"></a>21. 数学家证实126维空间存在奇异扭曲形状 
-<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/): Dimension 126 Contains Twisted Shapes, Mathematicians Prove</small>
-
-
-| 🔥: 77 \| 💬: [37](https://news.ycombinator.com/item?id=43896199) \| 🗓️ 2025-05-05
-
-
-<br />
-经过65年的研究，数学家最终证明**126维空间**中存在无法通过简单手术转化为球体的**奇异扭曲形状**。这一发现与**拓扑学**中高维球面的关系密切相关。此前，类似形状仅在2、6、14、30和62维中被发现。复旦大学和加州大学的团队通过计算机计算与理论结合，解决了这一遗留问题，标志着拓扑学领域一项重大突破。
-
----
-
 ## <a name="22"></a>22. 美国政府官员使用的定制版Signal应用TeleMessage遭黑客入侵 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/05/telemessage-a-modified-signal-clone-used-by-us-govt-officials-has-been-hacked/): TeleMessage, a modified Signal clone used by US govt. officials, has been hacked</small>
 
 
-| 🔥: 73 \| 💬: [6](https://news.ycombinator.com/item?id=43893550) \| 🗓️ 2025-05-05
+| 🔥: 74 \| 💬: [6](https://news.ycombinator.com/item?id=43893550) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -297,7 +297,7 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 <small>🔗 [github.com](https://github.com/mrktsm/codecafe): Show HN: CodeCafé – A real-time collaborative code editor in the browser</small>
 
 
-| 🔥: 69 \| 💬: [9](https://news.ycombinator.com/item?id=43892856) \| 🗓️ 2025-05-05
+| 🔥: 70 \| 💬: [9](https://news.ycombinator.com/item?id=43892856) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -309,7 +309,7 @@ CodeCafé 是一款基于浏览器的**实时协作代码编辑器**，专为团
 <small>🔗 [ft.com](https://www.ft.com/content/a7b34d53-a844-4e69-a55c-b9dee9a97dd2): Cursor hits $9B valuation</small>
 
 
-| 🔥: 69 \| 💬: [121](https://news.ycombinator.com/item?id=43895516) \| 🗓️ 2025-05-05
+| 🔥: 70 \| 💬: [125](https://news.ycombinator.com/item?id=43895516) \| 🗓️ 2025-05-05
 
 
 <br />
