@@ -27,7 +27,7 @@ tags:
 <small>🔗 [claytonwramsey.com](https://claytonwramsey.com/blog/prompt/): I'd rather read the prompt</small>
 
 
-| 🔥🔥: 567 \| 💬: [393](https://news.ycombinator.com/item?id=43888803) \| 🗓️ 2025-05-04
+| 🔥🔥: 629 \| 💬: [427](https://news.ycombinator.com/item?id=43888803) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [blog.rahix.de](https://blog.rahix.de/design-for-3d-printing/): Design for 3D-Printing</small>
 
 
-| 🔥🔥: 415 \| 💬: [114](https://news.ycombinator.com/item?id=43888117) \| 🗓️ 2025-05-04
+| 🔥🔥: 428 \| 💬: [123](https://news.ycombinator.com/item?id=43888117) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -58,7 +58,7 @@ tags:
 <small>🔗 [oxfordamerican.org](https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing): An Alabama landline that keeps ringing</small>
 
 
-| 🔥🔥: 264 \| 💬: [87](https://news.ycombinator.com/item?id=43886243) \| 🗓️ 2025-05-04
+| 🔥🔥: 265 \| 💬: [89](https://news.ycombinator.com/item?id=43886243) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -70,7 +70,7 @@ tags:
 <small>🔗 [rentry.co](https://rentry.co/samplers): Dummy's Guide to Modern LLM Sampling</small>
 
 
-| 🔥🔥: 170 \| 💬: [28](https://news.ycombinator.com/item?id=43887637) \| 🗓️ 2025-05-04
+| 🔥🔥: 177 \| 💬: [29](https://news.ycombinator.com/item?id=43887637) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -82,7 +82,7 @@ tags:
 <small>🔗 [pascal.hansotten.com](http://pascal.hansotten.com/niklaus-wirth/project-oberon/oberon-pi/): Oberon Pi</small>
 
 
-| 🔥🔥: 167 \| 💬: [30](https://news.ycombinator.com/item?id=43885478) \| 🗓️ 2025-05-04
+| 🔥🔥: 169 \| 💬: [30](https://news.ycombinator.com/item?id=43885478) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -94,7 +94,7 @@ Oberon Pi是Richard Gleaves将Peter de Wachter的**Oberon模拟器**移植到树
 <small>🔗 [github.com](https://github.com/Foreseerr/TScale): TScale – Distributed training on consumer GPUs</small>
 
 
-| 🔥🔥: 118 \| 💬: [27](https://news.ycombinator.com/item?id=43886601) \| 🗓️ 2025-05-04
+| 🔥🔥: 119 \| 💬: [27](https://news.ycombinator.com/item?id=43886601) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -106,7 +106,7 @@ TScale是一个用C++和CUDA编写的**Transformer训练与推理框架**，专�
 <small>🔗 [rollingstone.com](https://www.rollingstone.com/culture/culture-features/ai-spiritual-delusions-destroying-human-relationships-1235330175/): People are losing loved ones to AI-fueled spiritual fantasies</small>
 
 
-| 🔥: 87 \| 💬: [64](https://news.ycombinator.com/item?id=43890649) \| 🗓️ 2025-05-04
+| 🔥🔥: 104 \| 💬: [83](https://news.ycombinator.com/item?id=43890649) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -118,7 +118,7 @@ TScale是一个用C++和CUDA编写的**Transformer训练与推理框架**，专�
 <small>🔗 [zeux.io](https://zeux.io/2025/05/03/load-store-conflicts/): Load-Store Conflicts</small>
 
 
-| 🔥: 86 \| 💬: [5](https://news.ycombinator.com/item?id=43888005) \| 🗓️ 2025-05-04
+| 🔥: 88 \| 💬: [5](https://news.ycombinator.com/item?id=43888005) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -130,7 +130,7 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 <small>🔗 [404media.co](https://www.404media.co/the-signal-clone-the-trump-admin-uses-was-hacked/): The Signal Clone the Trump Admin Uses Was Hacked</small>
 
 
-| 🔥: 74 \| 💬: [13](https://news.ycombinator.com/item?id=43890179) \| 🗓️ 2025-05-04
+| 🔥: 81 \| 💬: [17](https://news.ycombinator.com/item?id=43890179) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -142,7 +142,7 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 <small>🔗 [alhassy.com](https://alhassy.com/TypedLisp.html): Typed Lisp, a Primer</small>
 
 
-| 🔥: 72 \| 💬: [26](https://news.ycombinator.com/item?id=43887998) \| 🗓️ 2025-05-04
+| 🔥: 80 \| 💬: [30](https://news.ycombinator.com/item?id=43887998) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -154,7 +154,7 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 <small>🔗 [farina00.github.io](https://farina00.github.io/essays/nevermind/): Nevermind, an album on major chords</small>
 
 
-| 🔥: 71 \| 💬: [77](https://news.ycombinator.com/item?id=43886368) \| 🗓️ 2025-05-04
+| 🔥: 71 \| 💬: [78](https://news.ycombinator.com/item?id=43886368) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -162,7 +162,79 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="12"></a>12. 《奇异世界：一位妻子打破俄罗斯方块世界纪录的奇妙之旅》 
+## <a name="12"></a>12. 夜滑布鲁克林：用轮滑头盔实现3D扫描的创意实验 
+<small>🔗 [owentrueblood.com](https://owentrueblood.com/blog/2025/05/04/helmdar/): Helmdar: 3D Scanning Brooklyn on Rollerblades</small>
+
+
+| 🔥: 70 \| 💬: [8](https://news.ycombinator.com/item?id=43889875) \| 🗓️ 2025-05-04
+
+
+<br />
+作者热爱夜间轮滑探索城市，十年间用**2D LiDAR扫描仪**（最初固定在木棍上）记录街道轮廓。后升级为**头盔式3D扫描系统**（Helmdar），结合手机ARCore定位与激光雷达，实时构建动态点云地图。扫描数据呈现独特的“扭曲美学”，反映滑行速度与路径，甚至捕捉到回头观察车辆的轨迹。实验还尝试用**AprilTags标记**进行VFX合成，虽遇技术挑战，最终通过Blender手动校准实现扫描动画。项目模糊了实用测绘与艺术表达的边界，展现了城市夜间的另类视角。
+
+---
+
+## <a name="13"></a>13. 让老旧打印机无线化：开源驱动的无驱打印服务器 
+<small>🔗 [printserver.ink](https://printserver.ink/): Show HN: Driverless print server for legacy printers, profit goes to open-source</small>
+
+
+| 🔥: 67 \| 💬: [18](https://news.ycombinator.com/item?id=43888157) \| 🗓️ 2025-05-04
+
+
+<br />
+UoWPrint 是一款**无驱打印服务器**，可将老旧USB打印机升级为支持Wi-Fi的无线设备，兼容Windows/macOS/Linux及iOS/Android系统。它内置通用驱动，无需在终端安装驱动，支持**AirPrint**和**Mopria**协议，覆盖多数2018年前的惠普、三星等品牌设备。硬件基于OrangePi Zero 3开发，开源固件且默认禁用联网功能，售价35美元，每售出一台即向开源项目捐赠4美元。适合追求环保、低成本复用的用户，但专业打印需谨慎测试兼容性。
+
+---
+
+## <a name="14"></a>14. 威尼斯总督选举的复杂流程 
+<small>🔗 [theballotboy.com](https://www.theballotboy.com/electing-the-doge): The complicated business of electing a Doge</small>
+
+
+| 🔥: 67 \| 💬: [31](https://news.ycombinator.com/item?id=43888777) \| 🗓️ 2025-05-04
+
+
+<br />
+威尼斯共和国在1268至1797年间采用了一套**极其繁琐**的选举制度来推选总督（Doge）。首先，通过抽签从大议会中选出30人，再缩减至9人；这9人提名40名候选人，经多轮抽签和提名后，最终由41人组成的选举团投票。**候选人需获得至少25票**才能当选。整个过程融合了抽签、提名和层层筛选，既确保权力制衡，又充满仪式感，被称为“荒诞而深刻”的政治表演。
+
+---
+
+## <a name="15"></a>15. 不带相机——用记忆代替快照 
+<small>🔗 [hedgehogreview.com](https://hedgehogreview.com/issues/after-neoliberalism/articles/on-not-carrying-a-camera): On Not Carrying a Camera – Cultivating memories instead of snapshots</small>
+
+
+| 🔥: 67 \| 💬: [80](https://news.ycombinator.com/item?id=43890525) \| 🗓️ 2025-05-04
+
+
+<br />
+作者在故乡教堂山从不携带相机，认为**拍照会让人分心**，无法真正体验当下。他回忆儿子出生时，自己只顾寻找拍摄角度，却忽略了陪伴妻子的重要时刻，这让他意识到**相机成了情感的屏障**。如今在智能手机时代，他仍坚持少拍照，认为**未被镜头记录的空白才是记忆最肥沃的土壤**。唯一保留的分娩照片因过于私密而尘封，象征了影像与情感之间的复杂关系。
+
+---
+
+## <a name="16"></a>16. 无穷的阶数 
+<small>🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/): Orders of Infinity</small>
+
+
+| 🔥: 65 \| 💬: [5](https://news.ycombinator.com/item?id=43888239) \| 🗓️ 2025-05-04
+
+
+<br />
+该内容来自WordPress博客，作者为Ben Eastaugh和Chris Sternal-Johnson。文章探讨了**无穷的不同阶数**，涉及数学中**无限集合**的比较与分类。通过**康托尔的理论**，分析了可数无穷与不可数无穷的差异，揭示了无穷概念的深度与复杂性。
+
+---
+
+## <a name="17"></a>17. Tippy Coco：一款受《史莱姆排球》启发的免费开源游戏 
+<small>🔗 [tippycoco.com](https://tippycoco.com/): Tippy Coco: A Free, Open-Source Game Inspired by Slime Volleyball</small>
+
+
+| 🔥: 63 \| 💬: [15](https://news.ycombinator.com/item?id=43886213) \| 🗓️ 2025-05-04
+
+
+<br />
+**Tippy Coco** 是一款专为**电脑**设计的游戏，不支持手机或平板（仅iPad搭配折叠键盘可运行）。游戏灵感源自经典作品《**史莱姆排球**》，玩家需按空格键启动。作为**开源项目**，它免费提供，但需注意设备兼容性限制。
+
+---
+
+## <a name="18"></a>18. 《奇异世界：一位妻子打破俄罗斯方块世界纪录的奇妙之旅》 
 <small>🔗 [archive.boston.com](https://archive.boston.com/news/globe/magazine/articles/2007/08/19/bizarro_world/): 'Bizarro World' (2007)</small>
 
 
@@ -174,59 +246,11 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="13"></a>13. 无穷的阶数 
-<small>🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/): Orders of Infinity</small>
-
-
-| 🔥: 63 \| 💬: [5](https://news.ycombinator.com/item?id=43888239) \| 🗓️ 2025-05-04
-
-
-<br />
-该内容来自WordPress博客，作者为Ben Eastaugh和Chris Sternal-Johnson。文章探讨了**无穷的不同阶数**，涉及数学中**无限集合**的比较与分类。通过**康托尔的理论**，分析了可数无穷与不可数无穷的差异，揭示了无穷概念的深度与复杂性。
-
----
-
-## <a name="14"></a>14. Tippy Coco：一款受《史莱姆排球》启发的免费开源游戏 
-<small>🔗 [tippycoco.com](https://tippycoco.com/): Tippy Coco: A Free, Open-Source Game Inspired by Slime Volleyball</small>
-
-
-| 🔥: 62 \| 💬: [15](https://news.ycombinator.com/item?id=43886213) \| 🗓️ 2025-05-04
-
-
-<br />
-**Tippy Coco** 是一款专为**电脑**设计的游戏，不支持手机或平板（仅iPad搭配折叠键盘可运行）。游戏灵感源自经典作品《**史莱姆排球**》，玩家需按空格键启动。作为**开源项目**，它免费提供，但需注意设备兼容性限制。
-
----
-
-## <a name="15"></a>15. 威尼斯总督选举的复杂流程 
-<small>🔗 [theballotboy.com](https://www.theballotboy.com/electing-the-doge): The complicated business of electing a Doge</small>
-
-
-| 🔥: 62 \| 💬: [31](https://news.ycombinator.com/item?id=43888777) \| 🗓️ 2025-05-04
-
-
-<br />
-威尼斯共和国在1268至1797年间采用了一套**极其繁琐**的选举制度来推选总督（Doge）。首先，通过抽签从大议会中选出30人，再缩减至9人；这9人提名40名候选人，经多轮抽签和提名后，最终由41人组成的选举团投票。**候选人需获得至少25票**才能当选。整个过程融合了抽签、提名和层层筛选，既确保权力制衡，又充满仪式感，被称为“荒诞而深刻”的政治表演。
-
----
-
-## <a name="16"></a>16. 夜滑布鲁克林：用轮滑头盔实现3D扫描的创意实验 
-<small>🔗 [owentrueblood.com](https://owentrueblood.com/blog/2025/05/04/helmdar/): Helmdar: 3D Scanning Brooklyn on Rollerblades</small>
-
-
-| 🔥: 62 \| 💬: [5](https://news.ycombinator.com/item?id=43889875) \| 🗓️ 2025-05-04
-
-
-<br />
-作者热爱夜间轮滑探索城市，十年间用**2D LiDAR扫描仪**（最初固定在木棍上）记录街道轮廓。后升级为**头盔式3D扫描系统**（Helmdar），结合手机ARCore定位与激光雷达，实时构建动态点云地图。扫描数据呈现独特的“扭曲美学”，反映滑行速度与路径，甚至捕捉到回头观察车辆的轨迹。实验还尝试用**AprilTags标记**进行VFX合成，虽遇技术挑战，最终通过Blender手动校准实现扫描动画。项目模糊了实用测绘与艺术表达的边界，展现了城市夜间的另类视角。
-
----
-
-## <a name="17"></a>17. 极简Linux引导程序解析（2018） 
+## <a name="19"></a>19. 极简Linux引导程序解析（2018） 
 <small>🔗 [raw.githubusercontent.com](https://raw.githubusercontent.com/Stefan20162016/linux-insides-code/master/bootloader.asm): Minimal Linux Bootloader (2018)</small>
 
 
-| 🔥: 59 \| 💬: [15](https://news.ycombinator.com/item?id=43887708) \| 🗓️ 2025-05-04
+| 🔥: 63 \| 💬: [16](https://news.ycombinator.com/item?id=43887708) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -234,11 +258,11 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="18"></a>18. 科技公司为何误解人们对AI的反感？ 
+## <a name="20"></a>20. 科技公司为何误解人们对AI的反感？ 
 <small>🔗 [soatok.blog](https://soatok.blog/2025/05/04/tech-companies-apparently-do-not-understand-why-we-dislike-ai/): An appeal to companies doing AI</small>
 
 
-| 🔥: 56 \| 💬: [41](https://news.ycombinator.com/item?id=43890502) \| 🗓️ 2025-05-04
+| 🔥: 58 \| 💬: [42](https://news.ycombinator.com/item?id=43890502) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -246,19 +270,7 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="19"></a>19. 让老旧打印机无线化：开源驱动的无驱打印服务器 
-<small>🔗 [printserver.ink](https://printserver.ink/): Show HN: Driverless print server for legacy printers, profit goes to open-source</small>
-
-
-| 🔥: 55 \| 💬: [17](https://news.ycombinator.com/item?id=43888157) \| 🗓️ 2025-05-04
-
-
-<br />
-UoWPrint 是一款**无驱打印服务器**，可将老旧USB打印机升级为支持Wi-Fi的无线设备，兼容Windows/macOS/Linux及iOS/Android系统。它内置通用驱动，无需在终端安装驱动，支持**AirPrint**和**Mopria**协议，覆盖多数2018年前的惠普、三星等品牌设备。硬件基于OrangePi Zero 3开发，开源固件且默认禁用联网功能，售价35美元，每售出一台即向开源项目捐赠4美元。适合追求环保、低成本复用的用户，但专业打印需谨慎测试兼容性。
-
----
-
-## <a name="20"></a>20. 莉莉丝电脑与Modula-2语言的发展 
+## <a name="21"></a>21. 莉莉丝电脑与Modula-2语言的发展 
 <small>🔗 [astrobe.com](https://astrobe.com/Modula2/): Lilith and Modula-2</small>
 
 
@@ -270,7 +282,7 @@ UoWPrint 是一款**无驱打印服务器**，可将老旧USB打印机升级为�
 
 ---
 
-## <a name="21"></a>21. 亚马逊惊现AI撰写的ADHD“危险指南” 
+## <a name="22"></a>22. 亚马逊惊现AI撰写的ADHD“危险指南” 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/04/dangerous-nonsense-ai-authored-books-about-adhd-for-sale-on-amazon): 'Dangerous nonsense': AI-authored books about ADHD for sale on Amazon</small>
 
 
@@ -282,11 +294,11 @@ UoWPrint 是一款**无驱打印服务器**，可将老旧USB打印机升级为�
 
 ---
 
-## <a name="22"></a>22. Riot Games如何用“Vanguard”系统打击游戏作弊 
+## <a name="23"></a>23. Riot Games如何用“Vanguard”系统打击游戏作弊 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/03/how-riot-games-is-fighting-the-war-against-video-game-hackers/): How Riot Games is fighting the war against video game hackers</small>
 
 
-| 🔥: 47 \| 💬: [115](https://news.ycombinator.com/item?id=43888501) \| 🗓️ 2025-05-04
+| 🔥: 48 \| 💬: [116](https://news.ycombinator.com/item?id=43888501) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -294,11 +306,11 @@ Riot Games通过**内核级反作弊系统Vanguard**，结合硬件指纹识别�
 
 ---
 
-## <a name="23"></a>23. Feather：一个跳过Rust异步模板的轻量级Web框架 
+## <a name="24"></a>24. Feather：一个跳过Rust异步模板的轻量级Web框架 
 <small>🔗 [github.com](https://github.com/BersisSe/feather): Feather: Feather: A web framework that skips Rust's async boilerplate and jus</small>
 
 
-| 🔥: 38 \| 💬: [39](https://news.ycombinator.com/item?id=43887494) \| 🗓️ 2025-05-04
+| 🔥: 38 \| 💬: [40](https://news.ycombinator.com/item?id=43887494) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -312,7 +324,7 @@ Feather是一个**轻量级**、**开发者体验优先**的Rust Web框架，灵
 
 ---
 
-## <a name="24"></a>24. 简易卫星手动追踪套件EZ-TRAK 
+## <a name="25"></a>25. 简易卫星手动追踪套件EZ-TRAK 
 <small>🔗 [github.com](https://github.com/benb0jangles/EzTrak): Show HN: EZ-TRAK Satellite Hand Tracking Suite</small>
 
 
@@ -321,17 +333,5 @@ Feather是一个**轻量级**、**开发者体验优先**的Rust Web框架，灵
 
 <br />
 EZ-TRAK是一款面向业余无线电爱好者、气象卫星追踪者及教育用途的**卫星追踪软件**，通过蓝牙连接专用硬件设备，实时显示卫星方位角与仰角数据，辅助手动调整天线指向。核心功能包括**动态追踪**、过境预测、多源TLE数据支持及轨迹记录，提供图形化极坐标界面和简易配置工具。需搭配Python环境及BLE设备使用，适用于便携式卫星天线场景。软件为闭源项目，强调易用性和实时性，适合户外操作。
-
----
-
-## <a name="25"></a>25. 科技行业的“劣化”：劳工防线崩塌 
-<small>🔗 [pluralistic.net](https://pluralistic.net/2025/04/27/some-animals/#are-more-equal-than-others): The Enshittification of Tech Jobs</small>
-
-
-| 🔥: 33 \| 💬: [9](https://news.ycombinator.com/item?id=43886946) \| 🗓️ 2025-05-04
-
-
-<br />
-科技从业者曾因稀缺性享受高薪、股票福利和奢华办公环境，但**职业崇拜**让他们长期超时工作。如今，企业通过裁员、增加工时、削减福利（如谷歌要求每周60小时）和AI监控（如亚马逊记录员工按键）压榨员工。**工会缺失**使科技劳工与工厂工人同样脆弱，唯有联合才能对抗资本剥削。文章指出，这是**阶级战争**，科技巨头正将“临时创始人幻觉”粉碎为赤裸裸的压榨现实。
 
 ---
