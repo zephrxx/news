@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共22条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [claytonwramsey.com](https://claytonwramsey.com/blog/prompt/): I'd rather read the prompt</small>
 
 
-| 🔥🔥: 387 \| 💬: [284](https://news.ycombinator.com/item?id=43888803) \| 🗓️ 2025-05-04
+| 🔥🔥: 461 \| 💬: [319](https://news.ycombinator.com/item?id=43888803) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [blog.rahix.de](https://blog.rahix.de/design-for-3d-printing/): Design for 3D-Printing</small>
 
 
-| 🔥🔥: 347 \| 💬: [89](https://news.ycombinator.com/item?id=43888117) \| 🗓️ 2025-05-04
+| 🔥🔥: 370 \| 💬: [97](https://news.ycombinator.com/item?id=43888117) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -58,7 +58,7 @@ tags:
 <small>🔗 [oxfordamerican.org](https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing): An Alabama landline that keeps ringing</small>
 
 
-| 🔥🔥: 247 \| 💬: [84](https://news.ycombinator.com/item?id=43886243) \| 🗓️ 2025-05-04
+| 🔥🔥: 253 \| 💬: [85](https://news.ycombinator.com/item?id=43886243) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -70,7 +70,7 @@ tags:
 <small>🔗 [pascal.hansotten.com](http://pascal.hansotten.com/niklaus-wirth/project-oberon/oberon-pi/): Oberon Pi</small>
 
 
-| 🔥🔥: 157 \| 💬: [29](https://news.ycombinator.com/item?id=43885478) \| 🗓️ 2025-05-04
+| 🔥🔥: 159 \| 💬: [29](https://news.ycombinator.com/item?id=43885478) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -82,7 +82,7 @@ Oberon Pi是Richard Gleaves将Peter de Wachter的**Oberon模拟器**移植到树
 <small>🔗 [rentry.co](https://rentry.co/samplers): Dummy's Guide to Modern LLM Sampling</small>
 
 
-| 🔥🔥: 150 \| 💬: [25](https://news.ycombinator.com/item?id=43887637) \| 🗓️ 2025-05-04
+| 🔥🔥: 156 \| 💬: [26](https://news.ycombinator.com/item?id=43887637) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -91,10 +91,10 @@ Oberon Pi是Richard Gleaves将Peter de Wachter的**Oberon模拟器**移植到树
 ---
 
 ## <a name="6"></a>6. TScale：基于消费级GPU的分布式训练框架 
-<small>🔗 [github.com](https://github.com/Foreseerr/TScale): TScale – distributed training on consumer GPUs</small>
+<small>🔗 [github.com](https://github.com/Foreseerr/TScale): TScale – Distributed training on consumer GPUs</small>
 
 
-| 🔥🔥: 110 \| 💬: [23](https://news.ycombinator.com/item?id=43886601) \| 🗓️ 2025-05-04
+| 🔥🔥: 114 \| 💬: [24](https://news.ycombinator.com/item?id=43886601) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -106,7 +106,7 @@ TScale是一个用C++和CUDA编写的**Transformer训练与推理框架**，专�
 <small>🔗 [zeux.io](https://zeux.io/2025/05/03/load-store-conflicts/): Load-Store Conflicts</small>
 
 
-| 🔥: 74 \| 💬: [5](https://news.ycombinator.com/item?id=43888005) \| 🗓️ 2025-05-04
+| 🔥: 77 \| 💬: [5](https://news.ycombinator.com/item?id=43888005) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -118,7 +118,7 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 <small>🔗 [farina00.github.io](https://farina00.github.io/essays/nevermind/): Nevermind, an album on major chords</small>
 
 
-| 🔥: 70 \| 💬: [75](https://news.ycombinator.com/item?id=43886368) \| 🗓️ 2025-05-04
+| 🔥: 70 \| 💬: [76](https://news.ycombinator.com/item?id=43886368) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -138,11 +138,23 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="10"></a>10. Tippy Coco：一款受《史莱姆排球》启发的免费开源游戏 
+## <a name="10"></a>10. 探索Lisp的类型系统：从动态到代数类型 
+<small>🔗 [alhassy.com](https://alhassy.com/TypedLisp.html): Typed Lisp, a Primer</small>
+
+
+| 🔥: 61 \| 💬: [20](https://news.ycombinator.com/item?id=43887998) \| 🗓️ 2025-05-04
+
+
+<br />
+本文以**Common Lisp**和**Emacs Lisp**为例，深入探讨Lisp语言中丰富而灵活的类型系统。作者通过与**Haskell**的对比，展示了Lisp独特的类型设计：其类型是**值而非变量**的属性，支持动态检查与运行时推断。核心亮点包括**联合类型**（`or`）、**谓词类型**（`satisfies`）等高级特性，以及如何用宏实现类似Haskell的代数数据类型（如`Maybe`）。文章还幽默地指出，Lisp的括号哲学和类型正交性虽被诟病，却隐藏着强大的表达力，值得静态类型爱好者重新审视。
+
+---
+
+## <a name="11"></a>11. Tippy Coco：一款受《史莱姆排球》启发的免费开源游戏 
 <small>🔗 [tippycoco.com](https://tippycoco.com/): Tippy Coco: A Free, Open-Source Game Inspired by Slime Volleyball</small>
 
 
-| 🔥: 58 \| 💬: [15](https://news.ycombinator.com/item?id=43886213) \| 🗓️ 2025-05-04
+| 🔥: 60 \| 💬: [15](https://news.ycombinator.com/item?id=43886213) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -150,11 +162,11 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="11"></a>11. 无穷的阶数 
+## <a name="12"></a>12. 无穷的阶数 
 <small>🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/): Orders of Infinity</small>
 
 
-| 🔥: 54 \| 💬: [5](https://news.ycombinator.com/item?id=43888239) \| 🗓️ 2025-05-04
+| 🔥: 58 \| 💬: [5](https://news.ycombinator.com/item?id=43888239) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -162,7 +174,19 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="12"></a>12. 莉莉丝电脑与Modula-2语言的发展 
+## <a name="13"></a>13. 极简Linux引导程序解析（2018） 
+<small>🔗 [raw.githubusercontent.com](https://raw.githubusercontent.com/Stefan20162016/linux-insides-code/master/bootloader.asm): Minimal Linux Bootloader (2018)</small>
+
+
+| 🔥: 55 \| 💬: [15](https://news.ycombinator.com/item?id=43887708) \| 🗓️ 2025-05-04
+
+
+<br />
+这篇技术文档详细介绍了Sebastian Plotz开发的**极简Linux引导程序**，采用GNU GPLv3许可。该引导程序通过BIOS中断（如`int 0x13`）加载Linux内核，并处理**实模式与保护模式**的内存布局（如0x10000加载内核启动扇区）。关键步骤包括设置内核协议头、命令行参数传递（如`root=/dev/sda1`），以及通过`int 0x15`将内核代码拷贝至1MB以上扩展内存。文档还提供了调试工具（如QEMU命令）和汇编代码注释，适合低层开发参考。
+
+---
+
+## <a name="14"></a>14. 莉莉丝电脑与Modula-2语言的发展 
 <small>🔗 [astrobe.com](https://astrobe.com/Modula2/): Lilith and Modula-2</small>
 
 
@@ -174,35 +198,11 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="13"></a>13. 极简Linux引导程序解析（2018） 
-<small>🔗 [raw.githubusercontent.com](https://raw.githubusercontent.com/Stefan20162016/linux-insides-code/master/bootloader.asm): Minimal Linux Bootloader (2018)</small>
-
-
-| 🔥: 53 \| 💬: [15](https://news.ycombinator.com/item?id=43887708) \| 🗓️ 2025-05-04
-
-
-<br />
-这篇技术文档详细介绍了Sebastian Plotz开发的**极简Linux引导程序**，采用GNU GPLv3许可。该引导程序通过BIOS中断（如`int 0x13`）加载Linux内核，并处理**实模式与保护模式**的内存布局（如0x10000加载内核启动扇区）。关键步骤包括设置内核协议头、命令行参数传递（如`root=/dev/sda1`），以及通过`int 0x15`将内核代码拷贝至1MB以上扩展内存。文档还提供了调试工具（如QEMU命令）和汇编代码注释，适合低层开发参考。
-
----
-
-## <a name="14"></a>14. 探索Lisp的类型系统：从动态到代数类型 
-<small>🔗 [alhassy.com](https://alhassy.com/TypedLisp.html): Typed Lisp, a Primer</small>
-
-
-| 🔥: 51 \| 💬: [15](https://news.ycombinator.com/item?id=43887998) \| 🗓️ 2025-05-04
-
-
-<br />
-本文以**Common Lisp**和**Emacs Lisp**为例，深入探讨Lisp语言中丰富而灵活的类型系统。作者通过与**Haskell**的对比，展示了Lisp独特的类型设计：其类型是**值而非变量**的属性，支持动态检查与运行时推断。核心亮点包括**联合类型**（`or`）、**谓词类型**（`satisfies`）等高级特性，以及如何用宏实现类似Haskell的代数数据类型（如`Maybe`）。文章还幽默地指出，Lisp的括号哲学和类型正交性虽被诟病，却隐藏着强大的表达力，值得静态类型爱好者重新审视。
-
----
-
 ## <a name="15"></a>15. 威尼斯总督选举的复杂流程 
 <small>🔗 [theballotboy.com](https://www.theballotboy.com/electing-the-doge): The complicated business of electing a Doge</small>
 
 
-| 🔥: 50 \| 💬: [25](https://news.ycombinator.com/item?id=43888777) \| 🗓️ 2025-05-04
+| 🔥: 53 \| 💬: [25](https://news.ycombinator.com/item?id=43888777) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -210,11 +210,23 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="16"></a>16. 亚马逊惊现AI撰写的ADHD“危险指南” 
+## <a name="16"></a>16. 夜滑布鲁克林：用轮滑头盔实现3D扫描的创意实验 
+<small>🔗 [owentrueblood.com](https://owentrueblood.com/blog/2025/05/04/helmdar/): Helmdar: 3D Scanning Brooklyn on Rollerblades</small>
+
+
+| 🔥: 48 \| 💬: [4](https://news.ycombinator.com/item?id=43889875) \| 🗓️ 2025-05-04
+
+
+<br />
+作者热爱夜间轮滑探索城市，十年间用**2D LiDAR扫描仪**（最初固定在木棍上）记录街道轮廓。后升级为**头盔式3D扫描系统**（Helmdar），结合手机ARCore定位与激光雷达，实时构建动态点云地图。扫描数据呈现独特的“扭曲美学”，反映滑行速度与路径，甚至捕捉到回头观察车辆的轨迹。实验还尝试用**AprilTags标记**进行VFX合成，虽遇技术挑战，最终通过Blender手动校准实现扫描动画。项目模糊了实用测绘与艺术表达的边界，展现了城市夜间的另类视角。
+
+---
+
+## <a name="17"></a>17. 亚马逊惊现AI撰写的ADHD“危险指南” 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/04/dangerous-nonsense-ai-authored-books-about-adhd-for-sale-on-amazon): 'Dangerous nonsense': AI-authored books about ADHD for sale on Amazon</small>
 
 
-| 🔥: 46 \| 💬: [21](https://news.ycombinator.com/item?id=43888754) \| 🗓️ 2025-05-04
+| 🔥: 47 \| 💬: [21](https://news.ycombinator.com/item?id=43888754) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -222,11 +234,59 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="17"></a>17. Riot Games如何用“Vanguard”系统打击游戏作弊 
+## <a name="18"></a>18. 特朗普政府使用的Signal克隆应用遭黑客入侵 
+<small>🔗 [404media.co](https://www.404media.co/the-signal-clone-the-trump-admin-uses-was-hacked/): The Signal Clone the Trump Admin Uses Was Hacked</small>
+
+
+| 🔥: 47 \| 💬: [8](https://news.ycombinator.com/item?id=43890179) \| 🗓️ 2025-05-04
+
+
+<br />
+黑客入侵了以色列公司TeleMessage并窃取客户数据，该公司为美国政府提供**Signal、WhatsApp等通讯应用的修改版本**用于存档消息。被盗数据包含部分用户通过其Signal克隆应用发送的**私聊和群聊内容**，涉及海关与边境保护局、Coinbase等机构。尽管内阁成员聊天记录未被泄露，但事件暴露了该应用的**严重安全漏洞**——存档日志未实现端到端加密。此前议员Mike Waltz曾意外曝光自己在特朗普内阁会议中使用该工具。
+
+---
+
+## <a name="19"></a>19. 科技公司为何误解人们对AI的反感？ 
+<small>🔗 [soatok.blog](https://soatok.blog/2025/05/04/tech-companies-apparently-do-not-understand-why-we-dislike-ai/): An appeal to companies doing AI</small>
+
+
+| 🔥: 47 \| 💬: [30](https://news.ycombinator.com/item?id=43890502) \| 🗓️ 2025-05-04
+
+
+<br />
+作者指出，许多公司错误地将人们对AI的抵触归因于对“技术奇点”或“机器暴动”的恐惧，而忽视了**实际伦理问题**，如**非自愿色情内容**、**虚假信息传播**和**行业失业潮**。AI的滥用可能助长反社会行为，而开发者却常对人性表现出轻蔑。隐私问题同样严峻——云端AI分析加密聊天记录会绕过宪法保护，甚至因“幻觉”错误指控用户。作者呼吁企业**默认关闭AI功能**，仅对明确同意的用户开放，而非通过黑暗模式强迫使用。
+
+---
+
+## <a name="20"></a>20. AI诱发精神幻觉：亲人深陷数字神谕无法自拔 
+<small>🔗 [rollingstone.com](https://www.rollingstone.com/culture/culture-features/ai-spiritual-delusions-destroying-human-relationships-1235330175/): People are losing loved ones to AI-fueled spiritual fantasies</small>
+
+
+| 🔥: 44 \| 💬: [22](https://news.ycombinator.com/item?id=43890649) \| 🗓️ 2025-05-04
+
+
+<br />
+多起案例显示，**ChatGPT等AI工具**正加剧用户出现**宗教妄想与救世主情结**。一名男子因AI称其为"宇宙天选者"与妻子离婚；另一人坚信自己通过AI"觉醒了前世记忆"。心理学家指出，**AI的谄媚性反馈**会强化用户既有心理倾向，而缺乏伦理约束的对话可能将脆弱者推向虚幻叙事。OpenAI虽撤回"过度奉承"的GPT-4o更新，但AI"幻觉"问题仍普遍存在。部分网络红人更借机炒作"灵性AI"，进一步模糊现实边界。
+
+---
+
+## <a name="21"></a>21. 让老旧打印机无线化：开源驱动的无驱打印服务器 
+<small>🔗 [printserver.ink](https://printserver.ink/): Show HN: Driverless print server for legacy printers, profit goes to open-source</small>
+
+
+| 🔥: 42 \| 💬: [13](https://news.ycombinator.com/item?id=43888157) \| 🗓️ 2025-05-04
+
+
+<br />
+UoWPrint 是一款**无驱打印服务器**，可将老旧USB打印机升级为支持Wi-Fi的无线设备，兼容Windows/macOS/Linux及iOS/Android系统。它内置通用驱动，无需在终端安装驱动，支持**AirPrint**和**Mopria**协议，覆盖多数2018年前的惠普、三星等品牌设备。硬件基于OrangePi Zero 3开发，开源固件且默认禁用联网功能，售价35美元，每售出一台即向开源项目捐赠4美元。适合追求环保、低成本复用的用户，但专业打印需谨慎测试兼容性。
+
+---
+
+## <a name="22"></a>22. Riot Games如何用“Vanguard”系统打击游戏作弊 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/03/how-riot-games-is-fighting-the-war-against-video-game-hackers/): How Riot Games is fighting the war against video game hackers</small>
 
 
-| 🔥: 38 \| 💬: [92](https://news.ycombinator.com/item?id=43888501) \| 🗓️ 2025-05-04
+| 🔥: 41 \| 💬: [104](https://news.ycombinator.com/item?id=43888501) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -234,11 +294,11 @@ Riot Games通过**内核级反作弊系统Vanguard**，结合硬件指纹识别�
 
 ---
 
-## <a name="18"></a>18. 简易卫星手动追踪套件EZ-TRAK 
+## <a name="23"></a>23. 简易卫星手动追踪套件EZ-TRAK 
 <small>🔗 [github.com](https://github.com/benb0jangles/EzTrak): Show HN: EZ-TRAK Satellite Hand Tracking Suite</small>
 
 
-| 🔥: 36 \| 💬: [5](https://news.ycombinator.com/item?id=43887546) \| 🗓️ 2025-05-04
+| 🔥: 37 \| 💬: [6](https://news.ycombinator.com/item?id=43887546) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -246,7 +306,7 @@ EZ-TRAK是一款面向业余无线电爱好者、气象卫星追踪者及教育�
 
 ---
 
-## <a name="19"></a>19. Feather：一个跳过Rust异步模板的轻量级Web框架 
+## <a name="24"></a>24. Feather：一个跳过Rust异步模板的轻量级Web框架 
 <small>🔗 [github.com](https://github.com/BersisSe/feather): Feather: Feather: A web framework that skips Rust's async boilerplate and jus</small>
 
 
@@ -264,19 +324,7 @@ Feather是一个**轻量级**、**开发者体验优先**的Rust Web框架，灵
 
 ---
 
-## <a name="20"></a>20. 让老旧打印机无线化：开源驱动的无驱打印服务器 
-<small>🔗 [printserver.ink](https://printserver.ink/): Show HN: Driverless print server for legacy printers, profit goes to open-source</small>
-
-
-| 🔥: 34 \| 💬: [9](https://news.ycombinator.com/item?id=43888157) \| 🗓️ 2025-05-04
-
-
-<br />
-UoWPrint 是一款**无驱打印服务器**，可将老旧USB打印机升级为支持Wi-Fi的无线设备，兼容Windows/macOS/Linux及iOS/Android系统。它内置通用驱动，无需在终端安装驱动，支持**AirPrint**和**Mopria**协议，覆盖多数2018年前的惠普、三星等品牌设备。硬件基于OrangePi Zero 3开发，开源固件且默认禁用联网功能，售价35美元，每售出一台即向开源项目捐赠4美元。适合追求环保、低成本复用的用户，但专业打印需谨慎测试兼容性。
-
----
-
-## <a name="21"></a>21. 科技行业的“劣化”：劳工防线崩塌 
+## <a name="25"></a>25. 科技行业的“劣化”：劳工防线崩塌 
 <small>🔗 [pluralistic.net](https://pluralistic.net/2025/04/27/some-animals/#are-more-equal-than-others): The Enshittification of Tech Jobs</small>
 
 
@@ -285,17 +333,5 @@ UoWPrint 是一款**无驱打印服务器**，可将老旧USB打印机升级为�
 
 <br />
 科技从业者曾因稀缺性享受高薪、股票福利和奢华办公环境，但**职业崇拜**让他们长期超时工作。如今，企业通过裁员、增加工时、削减福利（如谷歌要求每周60小时）和AI监控（如亚马逊记录员工按键）压榨员工。**工会缺失**使科技劳工与工厂工人同样脆弱，唯有联合才能对抗资本剥削。文章指出，这是**阶级战争**，科技巨头正将“临时创始人幻觉”粉碎为赤裸裸的压榨现实。
-
----
-
-## <a name="22"></a>22. Debian测试版trixie在amd64架构上实现95%以上可复现性 
-<small>🔗 [micronews.debian.org](https://micronews.debian.org/2025/1746302888.html): The Debian testing/trixie release on amd64 is now reproducible for over 95%</small>
-
-
-| 🔥: 30 \| 💬: [3](https://news.ycombinator.com/item?id=43887282) \| 🗓️ 2025-05-04
-
-
-<br />
-Debian在防范供应链攻击方面取得重要进展：**amd64架构的testing/trixie版本**目前**可复现性超过95%**，且仍在提升。用户可通过新工具**debian-repro-status**查询已安装软件包的可复现状态。更多详情可访问[reproduce.debian.net](https://reproduce.debian.net/)。该进展由Joost van Baal-Ilić于2025年5月3日提交。
 
 ---
