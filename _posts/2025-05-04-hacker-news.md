@@ -27,7 +27,7 @@ tags:
 <small>🔗 [claytonwramsey.com](https://claytonwramsey.com/blog/prompt/): I'd rather read the prompt</small>
 
 
-| 🔥🔥: 516 \| 💬: [356](https://news.ycombinator.com/item?id=43888803) \| 🗓️ 2025-05-04
+| 🔥🔥: 567 \| 💬: [393](https://news.ycombinator.com/item?id=43888803) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [blog.rahix.de](https://blog.rahix.de/design-for-3d-printing/): Design for 3D-Printing</small>
 
 
-| 🔥🔥: 392 \| 💬: [107](https://news.ycombinator.com/item?id=43888117) \| 🗓️ 2025-05-04
+| 🔥🔥: 415 \| 💬: [114](https://news.ycombinator.com/item?id=43888117) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -58,7 +58,7 @@ tags:
 <small>🔗 [oxfordamerican.org](https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing): An Alabama landline that keeps ringing</small>
 
 
-| 🔥🔥: 259 \| 💬: [86](https://news.ycombinator.com/item?id=43886243) \| 🗓️ 2025-05-04
+| 🔥🔥: 264 \| 💬: [87](https://news.ycombinator.com/item?id=43886243) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -70,7 +70,7 @@ tags:
 <small>🔗 [rentry.co](https://rentry.co/samplers): Dummy's Guide to Modern LLM Sampling</small>
 
 
-| 🔥🔥: 165 \| 💬: [27](https://news.ycombinator.com/item?id=43887637) \| 🗓️ 2025-05-04
+| 🔥🔥: 170 \| 💬: [28](https://news.ycombinator.com/item?id=43887637) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -82,7 +82,7 @@ tags:
 <small>🔗 [pascal.hansotten.com](http://pascal.hansotten.com/niklaus-wirth/project-oberon/oberon-pi/): Oberon Pi</small>
 
 
-| 🔥🔥: 164 \| 💬: [30](https://news.ycombinator.com/item?id=43885478) \| 🗓️ 2025-05-04
+| 🔥🔥: 167 \| 💬: [30](https://news.ycombinator.com/item?id=43885478) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -94,7 +94,7 @@ Oberon Pi是Richard Gleaves将Peter de Wachter的**Oberon模拟器**移植到树
 <small>🔗 [github.com](https://github.com/Foreseerr/TScale): TScale – Distributed training on consumer GPUs</small>
 
 
-| 🔥🔥: 116 \| 💬: [25](https://news.ycombinator.com/item?id=43886601) \| 🗓️ 2025-05-04
+| 🔥🔥: 118 \| 💬: [27](https://news.ycombinator.com/item?id=43886601) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -102,23 +102,11 @@ TScale是一个用C++和CUDA编写的**Transformer训练与推理框架**，专�
 
 ---
 
-## <a name="7"></a>7. 负载-存储冲突对几何解码性能的影响 
-<small>🔗 [zeux.io](https://zeux.io/2025/05/03/load-store-conflicts/): Load-Store Conflicts</small>
-
-
-| 🔥: 82 \| 💬: [5](https://news.ycombinator.com/item?id=43888005) \| 🗓️ 2025-05-04
-
-
-<br />
-meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器版本差异出现显著波动。研究发现，关键在于**边缘FIFO**的访问方式：gcc-14通过向量化读写（64位操作）提升吞吐至7.5 GB/s，而gcc-15改用32位分次写入后性能骤降至4.8 GB/s。核心问题在于**存储转发冲突**——当64位加载需合并两个32位存储时，现代CPU（如Zen 4）可能无法高效处理，导致延迟激增。这一案例揭示了微架构优化对高性能代码的深远影响。
-
----
-
-## <a name="8"></a>8. AI诱发精神幻觉：亲人深陷数字神谕无法自拔 
+## <a name="7"></a>7. AI诱发精神幻觉：亲人深陷数字神谕无法自拔 
 <small>🔗 [rollingstone.com](https://www.rollingstone.com/culture/culture-features/ai-spiritual-delusions-destroying-human-relationships-1235330175/): People are losing loved ones to AI-fueled spiritual fantasies</small>
 
 
-| 🔥: 74 \| 💬: [47](https://news.ycombinator.com/item?id=43890649) \| 🗓️ 2025-05-04
+| 🔥: 87 \| 💬: [64](https://news.ycombinator.com/item?id=43890649) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -126,15 +114,27 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="9"></a>9. 《Nevermind》：一张全用大调和弦打造的传奇专辑 
-<small>🔗 [farina00.github.io](https://farina00.github.io/essays/nevermind/): Nevermind, an album on major chords</small>
+## <a name="8"></a>8. 负载-存储冲突对几何解码性能的影响 
+<small>🔗 [zeux.io](https://zeux.io/2025/05/03/load-store-conflicts/): Load-Store Conflicts</small>
 
 
-| 🔥: 70 \| 💬: [77](https://news.ycombinator.com/item?id=43886368) \| 🗓️ 2025-05-04
+| 🔥: 86 \| 💬: [5](https://news.ycombinator.com/item?id=43888005) \| 🗓️ 2025-05-04
 
 
 <br />
-1991年，Nirvana的专辑**《Nevermind》**以粗糙的吉他音色和直白的风格震撼乐坛，但很少有人深究其艺术性。30多年后，作者发现这张专辑的独特之处在于**全篇使用大调和弦**，摒弃了小调及复杂和弦（如七和弦、九和弦等），创造出突破传统的和声进行。**Kurt Cobain**坦言自己不懂乐理，仅凭直觉创作，却无意中成就了这张颠覆性的作品。
+meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器版本差异出现显著波动。研究发现，关键在于**边缘FIFO**的访问方式：gcc-14通过向量化读写（64位操作）提升吞吐至7.5 GB/s，而gcc-15改用32位分次写入后性能骤降至4.8 GB/s。核心问题在于**存储转发冲突**——当64位加载需合并两个32位存储时，现代CPU（如Zen 4）可能无法高效处理，导致延迟激增。这一案例揭示了微架构优化对高性能代码的深远影响。
+
+---
+
+## <a name="9"></a>9. 特朗普政府使用的Signal克隆应用遭黑客入侵 
+<small>🔗 [404media.co](https://www.404media.co/the-signal-clone-the-trump-admin-uses-was-hacked/): The Signal Clone the Trump Admin Uses Was Hacked</small>
+
+
+| 🔥: 74 \| 💬: [13](https://news.ycombinator.com/item?id=43890179) \| 🗓️ 2025-05-04
+
+
+<br />
+黑客入侵了以色列公司TeleMessage并窃取客户数据，该公司为美国政府提供**Signal、WhatsApp等通讯应用的修改版本**用于存档消息。被盗数据包含部分用户通过其Signal克隆应用发送的**私聊和群聊内容**，涉及海关与边境保护局、Coinbase等机构。尽管内阁成员聊天记录未被泄露，但事件暴露了该应用的**严重安全漏洞**——存档日志未实现端到端加密。此前议员Mike Waltz曾意外曝光自己在特朗普内阁会议中使用该工具。
 
 ---
 
@@ -142,7 +142,7 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 <small>🔗 [alhassy.com](https://alhassy.com/TypedLisp.html): Typed Lisp, a Primer</small>
 
 
-| 🔥: 69 \| 💬: [21](https://news.ycombinator.com/item?id=43887998) \| 🗓️ 2025-05-04
+| 🔥: 72 \| 💬: [26](https://news.ycombinator.com/item?id=43887998) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -150,15 +150,15 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="11"></a>11. 特朗普政府使用的Signal克隆应用遭黑客入侵 
-<small>🔗 [404media.co](https://www.404media.co/the-signal-clone-the-trump-admin-uses-was-hacked/): The Signal Clone the Trump Admin Uses Was Hacked</small>
+## <a name="11"></a>11. 《Nevermind》：一张全用大调和弦打造的传奇专辑 
+<small>🔗 [farina00.github.io](https://farina00.github.io/essays/nevermind/): Nevermind, an album on major chords</small>
 
 
-| 🔥: 65 \| 💬: [12](https://news.ycombinator.com/item?id=43890179) \| 🗓️ 2025-05-04
+| 🔥: 71 \| 💬: [77](https://news.ycombinator.com/item?id=43886368) \| 🗓️ 2025-05-04
 
 
 <br />
-黑客入侵了以色列公司TeleMessage并窃取客户数据，该公司为美国政府提供**Signal、WhatsApp等通讯应用的修改版本**用于存档消息。被盗数据包含部分用户通过其Signal克隆应用发送的**私聊和群聊内容**，涉及海关与边境保护局、Coinbase等机构。尽管内阁成员聊天记录未被泄露，但事件暴露了该应用的**严重安全漏洞**——存档日志未实现端到端加密。此前议员Mike Waltz曾意外曝光自己在特朗普内阁会议中使用该工具。
+1991年，Nirvana的专辑**《Nevermind》**以粗糙的吉他音色和直白的风格震撼乐坛，但很少有人深究其艺术性。30多年后，作者发现这张专辑的独特之处在于**全篇使用大调和弦**，摒弃了小调及复杂和弦（如七和弦、九和弦等），创造出突破传统的和声进行。**Kurt Cobain**坦言自己不懂乐理，仅凭直觉创作，却无意中成就了这张颠覆性的作品。
 
 ---
 
@@ -174,23 +174,11 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="13"></a>13. Tippy Coco：一款受《史莱姆排球》启发的免费开源游戏 
-<small>🔗 [tippycoco.com](https://tippycoco.com/): Tippy Coco: A Free, Open-Source Game Inspired by Slime Volleyball</small>
-
-
-| 🔥: 61 \| 💬: [15](https://news.ycombinator.com/item?id=43886213) \| 🗓️ 2025-05-04
-
-
-<br />
-**Tippy Coco** 是一款专为**电脑**设计的游戏，不支持手机或平板（仅iPad搭配折叠键盘可运行）。游戏灵感源自经典作品《**史莱姆排球**》，玩家需按空格键启动。作为**开源项目**，它免费提供，但需注意设备兼容性限制。
-
----
-
-## <a name="14"></a>14. 无穷的阶数 
+## <a name="13"></a>13. 无穷的阶数 
 <small>🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/): Orders of Infinity</small>
 
 
-| 🔥: 60 \| 💬: [5](https://news.ycombinator.com/item?id=43888239) \| 🗓️ 2025-05-04
+| 🔥: 63 \| 💬: [5](https://news.ycombinator.com/item?id=43888239) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -198,23 +186,23 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="15"></a>15. 极简Linux引导程序解析（2018） 
-<small>🔗 [raw.githubusercontent.com](https://raw.githubusercontent.com/Stefan20162016/linux-insides-code/master/bootloader.asm): Minimal Linux Bootloader (2018)</small>
+## <a name="14"></a>14. Tippy Coco：一款受《史莱姆排球》启发的免费开源游戏 
+<small>🔗 [tippycoco.com](https://tippycoco.com/): Tippy Coco: A Free, Open-Source Game Inspired by Slime Volleyball</small>
 
 
-| 🔥: 58 \| 💬: [15](https://news.ycombinator.com/item?id=43887708) \| 🗓️ 2025-05-04
+| 🔥: 62 \| 💬: [15](https://news.ycombinator.com/item?id=43886213) \| 🗓️ 2025-05-04
 
 
 <br />
-这篇技术文档详细介绍了Sebastian Plotz开发的**极简Linux引导程序**，采用GNU GPLv3许可。该引导程序通过BIOS中断（如`int 0x13`）加载Linux内核，并处理**实模式与保护模式**的内存布局（如0x10000加载内核启动扇区）。关键步骤包括设置内核协议头、命令行参数传递（如`root=/dev/sda1`），以及通过`int 0x15`将内核代码拷贝至1MB以上扩展内存。文档还提供了调试工具（如QEMU命令）和汇编代码注释，适合低层开发参考。
+**Tippy Coco** 是一款专为**电脑**设计的游戏，不支持手机或平板（仅iPad搭配折叠键盘可运行）。游戏灵感源自经典作品《**史莱姆排球**》，玩家需按空格键启动。作为**开源项目**，它免费提供，但需注意设备兼容性限制。
 
 ---
 
-## <a name="16"></a>16. 威尼斯总督选举的复杂流程 
+## <a name="15"></a>15. 威尼斯总督选举的复杂流程 
 <small>🔗 [theballotboy.com](https://www.theballotboy.com/electing-the-doge): The complicated business of electing a Doge</small>
 
 
-| 🔥: 56 \| 💬: [28](https://news.ycombinator.com/item?id=43888777) \| 🗓️ 2025-05-04
+| 🔥: 62 \| 💬: [31](https://news.ycombinator.com/item?id=43888777) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -222,11 +210,35 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="17"></a>17. 科技公司为何误解人们对AI的反感？ 
+## <a name="16"></a>16. 夜滑布鲁克林：用轮滑头盔实现3D扫描的创意实验 
+<small>🔗 [owentrueblood.com](https://owentrueblood.com/blog/2025/05/04/helmdar/): Helmdar: 3D Scanning Brooklyn on Rollerblades</small>
+
+
+| 🔥: 62 \| 💬: [5](https://news.ycombinator.com/item?id=43889875) \| 🗓️ 2025-05-04
+
+
+<br />
+作者热爱夜间轮滑探索城市，十年间用**2D LiDAR扫描仪**（最初固定在木棍上）记录街道轮廓。后升级为**头盔式3D扫描系统**（Helmdar），结合手机ARCore定位与激光雷达，实时构建动态点云地图。扫描数据呈现独特的“扭曲美学”，反映滑行速度与路径，甚至捕捉到回头观察车辆的轨迹。实验还尝试用**AprilTags标记**进行VFX合成，虽遇技术挑战，最终通过Blender手动校准实现扫描动画。项目模糊了实用测绘与艺术表达的边界，展现了城市夜间的另类视角。
+
+---
+
+## <a name="17"></a>17. 极简Linux引导程序解析（2018） 
+<small>🔗 [raw.githubusercontent.com](https://raw.githubusercontent.com/Stefan20162016/linux-insides-code/master/bootloader.asm): Minimal Linux Bootloader (2018)</small>
+
+
+| 🔥: 59 \| 💬: [15](https://news.ycombinator.com/item?id=43887708) \| 🗓️ 2025-05-04
+
+
+<br />
+这篇技术文档详细介绍了Sebastian Plotz开发的**极简Linux引导程序**，采用GNU GPLv3许可。该引导程序通过BIOS中断（如`int 0x13`）加载Linux内核，并处理**实模式与保护模式**的内存布局（如0x10000加载内核启动扇区）。关键步骤包括设置内核协议头、命令行参数传递（如`root=/dev/sda1`），以及通过`int 0x15`将内核代码拷贝至1MB以上扩展内存。文档还提供了调试工具（如QEMU命令）和汇编代码注释，适合低层开发参考。
+
+---
+
+## <a name="18"></a>18. 科技公司为何误解人们对AI的反感？ 
 <small>🔗 [soatok.blog](https://soatok.blog/2025/05/04/tech-companies-apparently-do-not-understand-why-we-dislike-ai/): An appeal to companies doing AI</small>
 
 
-| 🔥: 54 \| 💬: [39](https://news.ycombinator.com/item?id=43890502) \| 🗓️ 2025-05-04
+| 🔥: 56 \| 💬: [41](https://news.ycombinator.com/item?id=43890502) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -234,23 +246,11 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="18"></a>18. 莉莉丝电脑与Modula-2语言的发展 
-<small>🔗 [astrobe.com](https://astrobe.com/Modula2/): Lilith and Modula-2</small>
-
-
-| 🔥: 53 \| 💬: [7](https://news.ycombinator.com/item?id=43886271) \| 🗓️ 2025-05-04
-
-
-<br />
-本文介绍了由**Niklaus Wirth**教授于1979年开发的**Modula-2**编程语言及其配套硬件项目**Lilith**工作站。1980年问世的Lilith配备了编译器、操作系统及图形编辑器等软件。文章详细列出了多个版本的Modula-2编译器源码，包括多遍编译器和单遍编译器，并提到单遍编译器效率更高。此外，还提及了适用于Macintosh的MacMETH系统及相关学术论文。最后提供了Lilith模拟器和Modula-2资源的链接。
-
----
-
 ## <a name="19"></a>19. 让老旧打印机无线化：开源驱动的无驱打印服务器 
 <small>🔗 [printserver.ink](https://printserver.ink/): Show HN: Driverless print server for legacy printers, profit goes to open-source</small>
 
 
-| 🔥: 52 \| 💬: [17](https://news.ycombinator.com/item?id=43888157) \| 🗓️ 2025-05-04
+| 🔥: 55 \| 💬: [17](https://news.ycombinator.com/item?id=43888157) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -258,15 +258,15 @@ UoWPrint 是一款**无驱打印服务器**，可将老旧USB打印机升级为�
 
 ---
 
-## <a name="20"></a>20. 夜滑布鲁克林：用轮滑头盔实现3D扫描的创意实验 
-<small>🔗 [owentrueblood.com](https://owentrueblood.com/blog/2025/05/04/helmdar/): Helmdar: 3D Scanning Brooklyn on Rollerblades</small>
+## <a name="20"></a>20. 莉莉丝电脑与Modula-2语言的发展 
+<small>🔗 [astrobe.com](https://astrobe.com/Modula2/): Lilith and Modula-2</small>
 
 
-| 🔥: 52 \| 💬: [4](https://news.ycombinator.com/item?id=43889875) \| 🗓️ 2025-05-04
+| 🔥: 54 \| 💬: [7](https://news.ycombinator.com/item?id=43886271) \| 🗓️ 2025-05-04
 
 
 <br />
-作者热爱夜间轮滑探索城市，十年间用**2D LiDAR扫描仪**（最初固定在木棍上）记录街道轮廓。后升级为**头盔式3D扫描系统**（Helmdar），结合手机ARCore定位与激光雷达，实时构建动态点云地图。扫描数据呈现独特的“扭曲美学”，反映滑行速度与路径，甚至捕捉到回头观察车辆的轨迹。实验还尝试用**AprilTags标记**进行VFX合成，虽遇技术挑战，最终通过Blender手动校准实现扫描动画。项目模糊了实用测绘与艺术表达的边界，展现了城市夜间的另类视角。
+本文介绍了由**Niklaus Wirth**教授于1979年开发的**Modula-2**编程语言及其配套硬件项目**Lilith**工作站。1980年问世的Lilith配备了编译器、操作系统及图形编辑器等软件。文章详细列出了多个版本的Modula-2编译器源码，包括多遍编译器和单遍编译器，并提到单遍编译器效率更高。此外，还提及了适用于Macintosh的MacMETH系统及相关学术论文。最后提供了Lilith模拟器和Modula-2资源的链接。
 
 ---
 
@@ -286,7 +286,7 @@ UoWPrint 是一款**无驱打印服务器**，可将老旧USB打印机升级为�
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/03/how-riot-games-is-fighting-the-war-against-video-game-hackers/): How Riot Games is fighting the war against video game hackers</small>
 
 
-| 🔥: 45 \| 💬: [110](https://news.ycombinator.com/item?id=43888501) \| 🗓️ 2025-05-04
+| 🔥: 47 \| 💬: [115](https://news.ycombinator.com/item?id=43888501) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -298,7 +298,7 @@ Riot Games通过**内核级反作弊系统Vanguard**，结合硬件指纹识别�
 <small>🔗 [github.com](https://github.com/BersisSe/feather): Feather: Feather: A web framework that skips Rust's async boilerplate and jus</small>
 
 
-| 🔥: 37 \| 💬: [39](https://news.ycombinator.com/item?id=43887494) \| 🗓️ 2025-05-04
+| 🔥: 38 \| 💬: [39](https://news.ycombinator.com/item?id=43887494) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -316,7 +316,7 @@ Feather是一个**轻量级**、**开发者体验优先**的Rust Web框架，灵
 <small>🔗 [github.com](https://github.com/benb0jangles/EzTrak): Show HN: EZ-TRAK Satellite Hand Tracking Suite</small>
 
 
-| 🔥: 37 \| 💬: [7](https://news.ycombinator.com/item?id=43887546) \| 🗓️ 2025-05-04
+| 🔥: 38 \| 💬: [7](https://news.ycombinator.com/item?id=43887546) \| 🗓️ 2025-05-04
 
 
 <br />
