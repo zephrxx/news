@@ -27,7 +27,7 @@ tags:
 <small>🔗 [claytonwramsey.com](https://claytonwramsey.com/blog/prompt/): I'd rather read the prompt</small>
 
 
-| 🔥🔥: 629 \| 💬: [427](https://news.ycombinator.com/item?id=43888803) \| 🗓️ 2025-05-04
+| 🔥🔥: 686 \| 💬: [451](https://news.ycombinator.com/item?id=43888803) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [blog.rahix.de](https://blog.rahix.de/design-for-3d-printing/): Design for 3D-Printing</small>
 
 
-| 🔥🔥: 428 \| 💬: [123](https://news.ycombinator.com/item?id=43888117) \| 🗓️ 2025-05-04
+| 🔥🔥: 451 \| 💬: [132](https://news.ycombinator.com/item?id=43888117) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -58,7 +58,7 @@ tags:
 <small>🔗 [oxfordamerican.org](https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing): An Alabama landline that keeps ringing</small>
 
 
-| 🔥🔥: 265 \| 💬: [89](https://news.ycombinator.com/item?id=43886243) \| 🗓️ 2025-05-04
+| 🔥🔥: 269 \| 💬: [90](https://news.ycombinator.com/item?id=43886243) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -70,7 +70,7 @@ tags:
 <small>🔗 [rentry.co](https://rentry.co/samplers): Dummy's Guide to Modern LLM Sampling</small>
 
 
-| 🔥🔥: 177 \| 💬: [29](https://news.ycombinator.com/item?id=43887637) \| 🗓️ 2025-05-04
+| 🔥🔥: 179 \| 💬: [29](https://news.ycombinator.com/item?id=43887637) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -82,7 +82,7 @@ tags:
 <small>🔗 [pascal.hansotten.com](http://pascal.hansotten.com/niklaus-wirth/project-oberon/oberon-pi/): Oberon Pi</small>
 
 
-| 🔥🔥: 169 \| 💬: [30](https://news.ycombinator.com/item?id=43885478) \| 🗓️ 2025-05-04
+| 🔥🔥: 171 \| 💬: [30](https://news.ycombinator.com/item?id=43885478) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -94,7 +94,7 @@ Oberon Pi是Richard Gleaves将Peter de Wachter的**Oberon模拟器**移植到树
 <small>🔗 [github.com](https://github.com/Foreseerr/TScale): TScale – Distributed training on consumer GPUs</small>
 
 
-| 🔥🔥: 119 \| 💬: [27](https://news.ycombinator.com/item?id=43886601) \| 🗓️ 2025-05-04
+| 🔥🔥: 120 \| 💬: [27](https://news.ycombinator.com/item?id=43886601) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -106,7 +106,7 @@ TScale是一个用C++和CUDA编写的**Transformer训练与推理框架**，专�
 <small>🔗 [rollingstone.com](https://www.rollingstone.com/culture/culture-features/ai-spiritual-delusions-destroying-human-relationships-1235330175/): People are losing loved ones to AI-fueled spiritual fantasies</small>
 
 
-| 🔥🔥: 104 \| 💬: [83](https://news.ycombinator.com/item?id=43890649) \| 🗓️ 2025-05-04
+| 🔥🔥: 116 \| 💬: [99](https://news.ycombinator.com/item?id=43890649) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -114,23 +114,11 @@ TScale是一个用C++和CUDA编写的**Transformer训练与推理框架**，专�
 
 ---
 
-## <a name="8"></a>8. 负载-存储冲突对几何解码性能的影响 
-<small>🔗 [zeux.io](https://zeux.io/2025/05/03/load-store-conflicts/): Load-Store Conflicts</small>
-
-
-| 🔥: 88 \| 💬: [5](https://news.ycombinator.com/item?id=43888005) \| 🗓️ 2025-05-04
-
-
-<br />
-meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器版本差异出现显著波动。研究发现，关键在于**边缘FIFO**的访问方式：gcc-14通过向量化读写（64位操作）提升吞吐至7.5 GB/s，而gcc-15改用32位分次写入后性能骤降至4.8 GB/s。核心问题在于**存储转发冲突**——当64位加载需合并两个32位存储时，现代CPU（如Zen 4）可能无法高效处理，导致延迟激增。这一案例揭示了微架构优化对高性能代码的深远影响。
-
----
-
-## <a name="9"></a>9. 特朗普政府使用的Signal克隆应用遭黑客入侵 
+## <a name="8"></a>8. 特朗普政府使用的Signal克隆应用遭黑客入侵 
 <small>🔗 [404media.co](https://www.404media.co/the-signal-clone-the-trump-admin-uses-was-hacked/): The Signal Clone the Trump Admin Uses Was Hacked</small>
 
 
-| 🔥: 81 \| 💬: [17](https://news.ycombinator.com/item?id=43890179) \| 🗓️ 2025-05-04
+| 🔥: 90 \| 💬: [17](https://news.ycombinator.com/item?id=43890179) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -138,11 +126,35 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="10"></a>10. 探索Lisp的类型系统：从动态到代数类型 
+## <a name="9"></a>9. 负载-存储冲突对几何解码性能的影响 
+<small>🔗 [zeux.io](https://zeux.io/2025/05/03/load-store-conflicts/): Load-Store Conflicts</small>
+
+
+| 🔥: 89 \| 💬: [5](https://news.ycombinator.com/item?id=43888005) \| 🗓️ 2025-05-04
+
+
+<br />
+meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器版本差异出现显著波动。研究发现，关键在于**边缘FIFO**的访问方式：gcc-14通过向量化读写（64位操作）提升吞吐至7.5 GB/s，而gcc-15改用32位分次写入后性能骤降至4.8 GB/s。核心问题在于**存储转发冲突**——当64位加载需合并两个32位存储时，现代CPU（如Zen 4）可能无法高效处理，导致延迟激增。这一案例揭示了微架构优化对高性能代码的深远影响。
+
+---
+
+## <a name="10"></a>10. 不带相机——用记忆代替快照 
+<small>🔗 [hedgehogreview.com](https://hedgehogreview.com/issues/after-neoliberalism/articles/on-not-carrying-a-camera): On Not Carrying a Camera – Cultivating memories instead of snapshots</small>
+
+
+| 🔥: 89 \| 💬: [90](https://news.ycombinator.com/item?id=43890525) \| 🗓️ 2025-05-04
+
+
+<br />
+作者在故乡教堂山从不携带相机，认为**拍照会让人分心**，无法真正体验当下。他回忆儿子出生时，自己只顾寻找拍摄角度，却忽略了陪伴妻子的重要时刻，这让他意识到**相机成了情感的屏障**。如今在智能手机时代，他仍坚持少拍照，认为**未被镜头记录的空白才是记忆最肥沃的土壤**。唯一保留的分娩照片因过于私密而尘封，象征了影像与情感之间的复杂关系。
+
+---
+
+## <a name="11"></a>11. 探索Lisp的类型系统：从动态到代数类型 
 <small>🔗 [alhassy.com](https://alhassy.com/TypedLisp.html): Typed Lisp, a Primer</small>
 
 
-| 🔥: 80 \| 💬: [30](https://news.ycombinator.com/item?id=43887998) \| 🗓️ 2025-05-04
+| 🔥: 82 \| 💬: [32](https://news.ycombinator.com/item?id=43887998) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -150,7 +162,19 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="11"></a>11. 《Nevermind》：一张全用大调和弦打造的传奇专辑 
+## <a name="12"></a>12. 让老旧打印机无线化：开源驱动的无驱打印服务器 
+<small>🔗 [printserver.ink](https://printserver.ink/): Show HN: Driverless print server for legacy printers, profit goes to open-source</small>
+
+
+| 🔥: 75 \| 💬: [20](https://news.ycombinator.com/item?id=43888157) \| 🗓️ 2025-05-04
+
+
+<br />
+UoWPrint 是一款**无驱打印服务器**，可将老旧USB打印机升级为支持Wi-Fi的无线设备，兼容Windows/macOS/Linux及iOS/Android系统。它内置通用驱动，无需在终端安装驱动，支持**AirPrint**和**Mopria**协议，覆盖多数2018年前的惠普、三星等品牌设备。硬件基于OrangePi Zero 3开发，开源固件且默认禁用联网功能，售价35美元，每售出一台即向开源项目捐赠4美元。适合追求环保、低成本复用的用户，但专业打印需谨慎测试兼容性。
+
+---
+
+## <a name="13"></a>13. 《Nevermind》：一张全用大调和弦打造的传奇专辑 
 <small>🔗 [farina00.github.io](https://farina00.github.io/essays/nevermind/): Nevermind, an album on major chords</small>
 
 
@@ -162,11 +186,11 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="12"></a>12. 夜滑布鲁克林：用轮滑头盔实现3D扫描的创意实验 
+## <a name="14"></a>14. 夜滑布鲁克林：用轮滑头盔实现3D扫描的创意实验 
 <small>🔗 [owentrueblood.com](https://owentrueblood.com/blog/2025/05/04/helmdar/): Helmdar: 3D Scanning Brooklyn on Rollerblades</small>
 
 
-| 🔥: 70 \| 💬: [8](https://news.ycombinator.com/item?id=43889875) \| 🗓️ 2025-05-04
+| 🔥: 71 \| 💬: [8](https://news.ycombinator.com/item?id=43889875) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -174,23 +198,11 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="13"></a>13. 让老旧打印机无线化：开源驱动的无驱打印服务器 
-<small>🔗 [printserver.ink](https://printserver.ink/): Show HN: Driverless print server for legacy printers, profit goes to open-source</small>
-
-
-| 🔥: 67 \| 💬: [18](https://news.ycombinator.com/item?id=43888157) \| 🗓️ 2025-05-04
-
-
-<br />
-UoWPrint 是一款**无驱打印服务器**，可将老旧USB打印机升级为支持Wi-Fi的无线设备，兼容Windows/macOS/Linux及iOS/Android系统。它内置通用驱动，无需在终端安装驱动，支持**AirPrint**和**Mopria**协议，覆盖多数2018年前的惠普、三星等品牌设备。硬件基于OrangePi Zero 3开发，开源固件且默认禁用联网功能，售价35美元，每售出一台即向开源项目捐赠4美元。适合追求环保、低成本复用的用户，但专业打印需谨慎测试兼容性。
-
----
-
-## <a name="14"></a>14. 威尼斯总督选举的复杂流程 
+## <a name="15"></a>15. 威尼斯总督选举的复杂流程 
 <small>🔗 [theballotboy.com](https://www.theballotboy.com/electing-the-doge): The complicated business of electing a Doge</small>
 
 
-| 🔥: 67 \| 💬: [31](https://news.ycombinator.com/item?id=43888777) \| 🗓️ 2025-05-04
+| 🔥: 70 \| 💬: [34](https://news.ycombinator.com/item?id=43888777) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -198,23 +210,11 @@ UoWPrint 是一款**无驱打印服务器**，可将老旧USB打印机升级为�
 
 ---
 
-## <a name="15"></a>15. 不带相机——用记忆代替快照 
-<small>🔗 [hedgehogreview.com](https://hedgehogreview.com/issues/after-neoliberalism/articles/on-not-carrying-a-camera): On Not Carrying a Camera – Cultivating memories instead of snapshots</small>
-
-
-| 🔥: 67 \| 💬: [80](https://news.ycombinator.com/item?id=43890525) \| 🗓️ 2025-05-04
-
-
-<br />
-作者在故乡教堂山从不携带相机，认为**拍照会让人分心**，无法真正体验当下。他回忆儿子出生时，自己只顾寻找拍摄角度，却忽略了陪伴妻子的重要时刻，这让他意识到**相机成了情感的屏障**。如今在智能手机时代，他仍坚持少拍照，认为**未被镜头记录的空白才是记忆最肥沃的土壤**。唯一保留的分娩照片因过于私密而尘封，象征了影像与情感之间的复杂关系。
-
----
-
 ## <a name="16"></a>16. 无穷的阶数 
 <small>🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/): Orders of Infinity</small>
 
 
-| 🔥: 65 \| 💬: [5](https://news.ycombinator.com/item?id=43888239) \| 🗓️ 2025-05-04
+| 🔥: 69 \| 💬: [6](https://news.ycombinator.com/item?id=43888239) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -222,11 +222,23 @@ UoWPrint 是一款**无驱打印服务器**，可将老旧USB打印机升级为�
 
 ---
 
-## <a name="17"></a>17. Tippy Coco：一款受《史莱姆排球》启发的免费开源游戏 
+## <a name="17"></a>17. 极简Linux引导程序解析（2018） 
+<small>🔗 [raw.githubusercontent.com](https://raw.githubusercontent.com/Stefan20162016/linux-insides-code/master/bootloader.asm): Minimal Linux Bootloader (2018)</small>
+
+
+| 🔥: 66 \| 💬: [16](https://news.ycombinator.com/item?id=43887708) \| 🗓️ 2025-05-04
+
+
+<br />
+这篇技术文档详细介绍了Sebastian Plotz开发的**极简Linux引导程序**，采用GNU GPLv3许可。该引导程序通过BIOS中断（如`int 0x13`）加载Linux内核，并处理**实模式与保护模式**的内存布局（如0x10000加载内核启动扇区）。关键步骤包括设置内核协议头、命令行参数传递（如`root=/dev/sda1`），以及通过`int 0x15`将内核代码拷贝至1MB以上扩展内存。文档还提供了调试工具（如QEMU命令）和汇编代码注释，适合低层开发参考。
+
+---
+
+## <a name="18"></a>18. Tippy Coco：一款受《史莱姆排球》启发的免费开源游戏 
 <small>🔗 [tippycoco.com](https://tippycoco.com/): Tippy Coco: A Free, Open-Source Game Inspired by Slime Volleyball</small>
 
 
-| 🔥: 63 \| 💬: [15](https://news.ycombinator.com/item?id=43886213) \| 🗓️ 2025-05-04
+| 🔥: 64 \| 💬: [15](https://news.ycombinator.com/item?id=43886213) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -234,7 +246,7 @@ UoWPrint 是一款**无驱打印服务器**，可将老旧USB打印机升级为�
 
 ---
 
-## <a name="18"></a>18. 《奇异世界：一位妻子打破俄罗斯方块世界纪录的奇妙之旅》 
+## <a name="19"></a>19. 《奇异世界：一位妻子打破俄罗斯方块世界纪录的奇妙之旅》 
 <small>🔗 [archive.boston.com](https://archive.boston.com/news/globe/magazine/articles/2007/08/19/bizarro_world/): 'Bizarro World' (2007)</small>
 
 
@@ -246,23 +258,23 @@ UoWPrint 是一款**无驱打印服务器**，可将老旧USB打印机升级为�
 
 ---
 
-## <a name="19"></a>19. 极简Linux引导程序解析（2018） 
-<small>🔗 [raw.githubusercontent.com](https://raw.githubusercontent.com/Stefan20162016/linux-insides-code/master/bootloader.asm): Minimal Linux Bootloader (2018)</small>
+## <a name="20"></a>20. AI原生简历：开发者Jake Gaylor的创新自我展示 
+<small>🔗 [ai.jakegaylor.com](https://ai.jakegaylor.com/): Show HN: My AI Native Resume</small>
 
 
-| 🔥: 63 \| 💬: [16](https://news.ycombinator.com/item?id=43887708) \| 🗓️ 2025-05-04
+| 🔥: 63 \| 💬: [46](https://news.ycombinator.com/item?id=43891245) \| 🗓️ 2025-05-04
 
 
 <br />
-这篇技术文档详细介绍了Sebastian Plotz开发的**极简Linux引导程序**，采用GNU GPLv3许可。该引导程序通过BIOS中断（如`int 0x13`）加载Linux内核，并处理**实模式与保护模式**的内存布局（如0x10000加载内核启动扇区）。关键步骤包括设置内核协议头、命令行参数传递（如`root=/dev/sda1`），以及通过`int 0x15`将内核代码拷贝至1MB以上扩展内存。文档还提供了调试工具（如QEMU命令）和汇编代码注释，适合低层开发参考。
+开发者Jake Gaylor创建了一个**AI原生简历系统**，通过Model Context Protocol（**MCP**）协议为AI助手提供实时访问其职业数据的接口。该系统支持SSE和HTTP端点连接，包含完整的简历文本、技术栈（如Kubernetes、AWS）和15年全栈开发经验。用户可直接复制简历内容，或通过API获取动态评估（如技能匹配分析、模拟面试问题）。核心亮点是**自动化人才评估**功能，能根据职位描述生成定制化分析报告，大幅提升招聘效率。
 
 ---
 
-## <a name="20"></a>20. 科技公司为何误解人们对AI的反感？ 
+## <a name="21"></a>21. 科技公司为何误解人们对AI的反感？ 
 <small>🔗 [soatok.blog](https://soatok.blog/2025/05/04/tech-companies-apparently-do-not-understand-why-we-dislike-ai/): An appeal to companies doing AI</small>
 
 
-| 🔥: 58 \| 💬: [42](https://news.ycombinator.com/item?id=43890502) \| 🗓️ 2025-05-04
+| 🔥: 60 \| 💬: [42](https://news.ycombinator.com/item?id=43890502) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -270,11 +282,11 @@ UoWPrint 是一款**无驱打印服务器**，可将老旧USB打印机升级为�
 
 ---
 
-## <a name="21"></a>21. 莉莉丝电脑与Modula-2语言的发展 
+## <a name="22"></a>22. 莉莉丝电脑与Modula-2语言的发展 
 <small>🔗 [astrobe.com](https://astrobe.com/Modula2/): Lilith and Modula-2</small>
 
 
-| 🔥: 54 \| 💬: [7](https://news.ycombinator.com/item?id=43886271) \| 🗓️ 2025-05-04
+| 🔥: 55 \| 💬: [7](https://news.ycombinator.com/item?id=43886271) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -282,7 +294,19 @@ UoWPrint 是一款**无驱打印服务器**，可将老旧USB打印机升级为�
 
 ---
 
-## <a name="22"></a>22. 亚马逊惊现AI撰写的ADHD“危险指南” 
+## <a name="23"></a>23. Riot Games如何用“Vanguard”系统打击游戏作弊 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/03/how-riot-games-is-fighting-the-war-against-video-game-hackers/): How Riot Games is fighting the war against video game hackers</small>
+
+
+| 🔥: 51 \| 💬: [116](https://news.ycombinator.com/item?id=43888501) \| 🗓️ 2025-05-04
+
+
+<br />
+Riot Games通过**内核级反作弊系统Vanguard**，结合硬件指纹识别、渗透作弊社区等策略，将《Valorant》的作弊率压至全球1%以下。该系统强制启用Windows安全功能（如**TPM**和**Secure Boot**），并监控硬件驱动，阻断作弊软件加载。团队还通过公开羞辱作弊开发者、放缓封禁节奏等心理战术，削弱作弊产业链。目前，作弊者主要分两类：使用廉价工具的“愤怒作弊者”和依赖**DMA硬件攻击**的高端用户。Riot坦言，未来AI作弊是潜在威胁，但坚持透明化反作弊措施以换取玩家信任。
+
+---
+
+## <a name="24"></a>24. 亚马逊惊现AI撰写的ADHD“危险指南” 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/04/dangerous-nonsense-ai-authored-books-about-adhd-for-sale-on-amazon): 'Dangerous nonsense': AI-authored books about ADHD for sale on Amazon</small>
 
 
@@ -294,19 +318,7 @@ UoWPrint 是一款**无驱打印服务器**，可将老旧USB打印机升级为�
 
 ---
 
-## <a name="23"></a>23. Riot Games如何用“Vanguard”系统打击游戏作弊 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/03/how-riot-games-is-fighting-the-war-against-video-game-hackers/): How Riot Games is fighting the war against video game hackers</small>
-
-
-| 🔥: 48 \| 💬: [116](https://news.ycombinator.com/item?id=43888501) \| 🗓️ 2025-05-04
-
-
-<br />
-Riot Games通过**内核级反作弊系统Vanguard**，结合硬件指纹识别、渗透作弊社区等策略，将《Valorant》的作弊率压至全球1%以下。该系统强制启用Windows安全功能（如**TPM**和**Secure Boot**），并监控硬件驱动，阻断作弊软件加载。团队还通过公开羞辱作弊开发者、放缓封禁节奏等心理战术，削弱作弊产业链。目前，作弊者主要分两类：使用廉价工具的“愤怒作弊者”和依赖**DMA硬件攻击**的高端用户。Riot坦言，未来AI作弊是潜在威胁，但坚持透明化反作弊措施以换取玩家信任。
-
----
-
-## <a name="24"></a>24. Feather：一个跳过Rust异步模板的轻量级Web框架 
+## <a name="25"></a>25. Feather：一个跳过Rust异步模板的轻量级Web框架 
 <small>🔗 [github.com](https://github.com/BersisSe/feather): Feather: Feather: A web framework that skips Rust's async boilerplate and jus</small>
 
 
@@ -321,17 +333,5 @@ Feather是一个**轻量级**、**开发者体验优先**的Rust Web框架，灵
 3. **模块化设计**：按需选用功能，避免冗余开销。  
 
 示例代码展示极简路由和JWT集成，适合快速开发。项目MIT开源，目标成为Rust中最易上手的Web框架。
-
----
-
-## <a name="25"></a>25. 简易卫星手动追踪套件EZ-TRAK 
-<small>🔗 [github.com](https://github.com/benb0jangles/EzTrak): Show HN: EZ-TRAK Satellite Hand Tracking Suite</small>
-
-
-| 🔥: 38 \| 💬: [7](https://news.ycombinator.com/item?id=43887546) \| 🗓️ 2025-05-04
-
-
-<br />
-EZ-TRAK是一款面向业余无线电爱好者、气象卫星追踪者及教育用途的**卫星追踪软件**，通过蓝牙连接专用硬件设备，实时显示卫星方位角与仰角数据，辅助手动调整天线指向。核心功能包括**动态追踪**、过境预测、多源TLE数据支持及轨迹记录，提供图形化极坐标界面和简易配置工具。需搭配Python环境及BLE设备使用，适用于便携式卫星天线场景。软件为闭源项目，强调易用性和实时性，适合户外操作。
 
 ---
