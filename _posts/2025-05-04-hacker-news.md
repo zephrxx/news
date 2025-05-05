@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共21条，具体内容您往下读...
+总共22条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [claytonwramsey.com](https://claytonwramsey.com/blog/prompt/): I'd rather read the prompt</small>
 
 
-| 🔥🔥: 323 \| 💬: [226](https://news.ycombinator.com/item?id=43888803) \| 🗓️ 2025-05-04
+| 🔥🔥: 387 \| 💬: [284](https://news.ycombinator.com/item?id=43888803) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [blog.rahix.de](https://blog.rahix.de/design-for-3d-printing/): Design for 3D-Printing</small>
 
 
-| 🔥🔥: 314 \| 💬: [79](https://news.ycombinator.com/item?id=43888117) \| 🗓️ 2025-05-04
+| 🔥🔥: 347 \| 💬: [89](https://news.ycombinator.com/item?id=43888117) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -58,7 +58,7 @@ tags:
 <small>🔗 [oxfordamerican.org](https://oxfordamerican.org/oa-now/the-alabama-landline-that-keeps-ringing): An Alabama landline that keeps ringing</small>
 
 
-| 🔥🔥: 243 \| 💬: [83](https://news.ycombinator.com/item?id=43886243) \| 🗓️ 2025-05-04
+| 🔥🔥: 247 \| 💬: [84](https://news.ycombinator.com/item?id=43886243) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -70,7 +70,7 @@ tags:
 <small>🔗 [pascal.hansotten.com](http://pascal.hansotten.com/niklaus-wirth/project-oberon/oberon-pi/): Oberon Pi</small>
 
 
-| 🔥🔥: 155 \| 💬: [28](https://news.ycombinator.com/item?id=43885478) \| 🗓️ 2025-05-04
+| 🔥🔥: 157 \| 💬: [29](https://news.ycombinator.com/item?id=43885478) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -82,7 +82,7 @@ Oberon Pi是Richard Gleaves将Peter de Wachter的**Oberon模拟器**移植到树
 <small>🔗 [rentry.co](https://rentry.co/samplers): Dummy's Guide to Modern LLM Sampling</small>
 
 
-| 🔥🔥: 138 \| 💬: [25](https://news.ycombinator.com/item?id=43887637) \| 🗓️ 2025-05-04
+| 🔥🔥: 150 \| 💬: [25](https://news.ycombinator.com/item?id=43887637) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -94,7 +94,7 @@ Oberon Pi是Richard Gleaves将Peter de Wachter的**Oberon模拟器**移植到树
 <small>🔗 [github.com](https://github.com/Foreseerr/TScale): TScale – distributed training on consumer GPUs</small>
 
 
-| 🔥🔥: 108 \| 💬: [23](https://news.ycombinator.com/item?id=43886601) \| 🗓️ 2025-05-04
+| 🔥🔥: 110 \| 💬: [23](https://news.ycombinator.com/item?id=43886601) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -106,7 +106,7 @@ TScale是一个用C++和CUDA编写的**Transformer训练与推理框架**，专�
 <small>🔗 [zeux.io](https://zeux.io/2025/05/03/load-store-conflicts/): Load-Store Conflicts</small>
 
 
-| 🔥: 71 \| 💬: [5](https://news.ycombinator.com/item?id=43888005) \| 🗓️ 2025-05-04
+| 🔥: 74 \| 💬: [5](https://news.ycombinator.com/item?id=43888005) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -118,7 +118,7 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 <small>🔗 [farina00.github.io](https://farina00.github.io/essays/nevermind/): Nevermind, an album on major chords</small>
 
 
-| 🔥: 69 \| 💬: [73](https://news.ycombinator.com/item?id=43886368) \| 🗓️ 2025-05-04
+| 🔥: 70 \| 💬: [75](https://news.ycombinator.com/item?id=43886368) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -142,7 +142,7 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 <small>🔗 [tippycoco.com](https://tippycoco.com/): Tippy Coco: A Free, Open-Source Game Inspired by Slime Volleyball</small>
 
 
-| 🔥: 55 \| 💬: [14](https://news.ycombinator.com/item?id=43886213) \| 🗓️ 2025-05-04
+| 🔥: 58 \| 💬: [15](https://news.ycombinator.com/item?id=43886213) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -150,7 +150,19 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="11"></a>11. 莉莉丝电脑与Modula-2语言的发展 
+## <a name="11"></a>11. 无穷的阶数 
+<small>🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/): Orders of Infinity</small>
+
+
+| 🔥: 54 \| 💬: [5](https://news.ycombinator.com/item?id=43888239) \| 🗓️ 2025-05-04
+
+
+<br />
+该内容来自WordPress博客，作者为Ben Eastaugh和Chris Sternal-Johnson。文章探讨了**无穷的不同阶数**，涉及数学中**无限集合**的比较与分类。通过**康托尔的理论**，分析了可数无穷与不可数无穷的差异，揭示了无穷概念的深度与复杂性。
+
+---
+
+## <a name="12"></a>12. 莉莉丝电脑与Modula-2语言的发展 
 <small>🔗 [astrobe.com](https://astrobe.com/Modula2/): Lilith and Modula-2</small>
 
 
@@ -162,23 +174,11 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="12"></a>12. 无穷的阶数 
-<small>🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/): Orders of Infinity</small>
-
-
-| 🔥: 52 \| 💬: [5](https://news.ycombinator.com/item?id=43888239) \| 🗓️ 2025-05-04
-
-
-<br />
-该内容来自WordPress博客，作者为Ben Eastaugh和Chris Sternal-Johnson。文章探讨了**无穷的不同阶数**，涉及数学中**无限集合**的比较与分类。通过**康托尔的理论**，分析了可数无穷与不可数无穷的差异，揭示了无穷概念的深度与复杂性。
-
----
-
 ## <a name="13"></a>13. 极简Linux引导程序解析（2018） 
 <small>🔗 [raw.githubusercontent.com](https://raw.githubusercontent.com/Stefan20162016/linux-insides-code/master/bootloader.asm): Minimal Linux Bootloader (2018)</small>
 
 
-| 🔥: 50 \| 💬: [15](https://news.ycombinator.com/item?id=43887708) \| 🗓️ 2025-05-04
+| 🔥: 53 \| 💬: [15](https://news.ycombinator.com/item?id=43887708) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -186,23 +186,11 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="14"></a>14. 亚马逊惊现AI撰写的ADHD“危险指南” 
-<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/04/dangerous-nonsense-ai-authored-books-about-adhd-for-sale-on-amazon): 'Dangerous nonsense': AI-authored books about ADHD for sale on Amazon</small>
-
-
-| 🔥: 45 \| 💬: [21](https://news.ycombinator.com/item?id=43888754) \| 🗓️ 2025-05-04
-
-
-<br />
-亚马逊平台出售多本疑似由**ChatGPT等AI生成**的ADHD（注意力缺陷多动障碍）自助书籍，内容包含**误导性甚至有害建议**。检测显示部分书籍AI生成概率达100%，专家警告此类内容可能加剧患者病情。学者指出，平台缺乏对AI作品的监管，而亚马逊商业模式变相鼓励此类行为。目前无法律强制标注AI作者，但广告法规禁止冒充人类创作。一名患者家属购书后发现内容充斥历史错误和危言耸听的论断，直指平台“纵容牟利骗局”。亚马逊回应称已投入资源筛查违规内容。
-
----
-
-## <a name="15"></a>15. 探索Lisp的类型系统：从动态到代数类型 
+## <a name="14"></a>14. 探索Lisp的类型系统：从动态到代数类型 
 <small>🔗 [alhassy.com](https://alhassy.com/TypedLisp.html): Typed Lisp, a Primer</small>
 
 
-| 🔥: 44 \| 💬: [10](https://news.ycombinator.com/item?id=43887998) \| 🗓️ 2025-05-04
+| 🔥: 51 \| 💬: [15](https://news.ycombinator.com/item?id=43887998) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -210,11 +198,11 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="16"></a>16. 威尼斯总督选举的复杂流程 
+## <a name="15"></a>15. 威尼斯总督选举的复杂流程 
 <small>🔗 [theballotboy.com](https://www.theballotboy.com/electing-the-doge): The complicated business of electing a Doge</small>
 
 
-| 🔥: 44 \| 💬: [23](https://news.ycombinator.com/item?id=43888777) \| 🗓️ 2025-05-04
+| 🔥: 50 \| 💬: [25](https://news.ycombinator.com/item?id=43888777) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -222,23 +210,23 @@ meshoptimizer的**索引解码器**在解压网格数据时，性能因编译器
 
 ---
 
-## <a name="17"></a>17. 简易卫星手动追踪套件EZ-TRAK 
-<small>🔗 [github.com](https://github.com/benb0jangles/EzTrak): Show HN: EZ-TRAK Satellite Hand Tracking Suite</small>
+## <a name="16"></a>16. 亚马逊惊现AI撰写的ADHD“危险指南” 
+<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/04/dangerous-nonsense-ai-authored-books-about-adhd-for-sale-on-amazon): 'Dangerous nonsense': AI-authored books about ADHD for sale on Amazon</small>
 
 
-| 🔥: 35 \| 💬: [5](https://news.ycombinator.com/item?id=43887546) \| 🗓️ 2025-05-04
+| 🔥: 46 \| 💬: [21](https://news.ycombinator.com/item?id=43888754) \| 🗓️ 2025-05-04
 
 
 <br />
-EZ-TRAK是一款面向业余无线电爱好者、气象卫星追踪者及教育用途的**卫星追踪软件**，通过蓝牙连接专用硬件设备，实时显示卫星方位角与仰角数据，辅助手动调整天线指向。核心功能包括**动态追踪**、过境预测、多源TLE数据支持及轨迹记录，提供图形化极坐标界面和简易配置工具。需搭配Python环境及BLE设备使用，适用于便携式卫星天线场景。软件为闭源项目，强调易用性和实时性，适合户外操作。
+亚马逊平台出售多本疑似由**ChatGPT等AI生成**的ADHD（注意力缺陷多动障碍）自助书籍，内容包含**误导性甚至有害建议**。检测显示部分书籍AI生成概率达100%，专家警告此类内容可能加剧患者病情。学者指出，平台缺乏对AI作品的监管，而亚马逊商业模式变相鼓励此类行为。目前无法律强制标注AI作者，但广告法规禁止冒充人类创作。一名患者家属购书后发现内容充斥历史错误和危言耸听的论断，直指平台“纵容牟利骗局”。亚马逊回应称已投入资源筛查违规内容。
 
 ---
 
-## <a name="18"></a>18. Riot Games如何用“Vanguard”系统打击游戏作弊 
+## <a name="17"></a>17. Riot Games如何用“Vanguard”系统打击游戏作弊 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/03/how-riot-games-is-fighting-the-war-against-video-game-hackers/): How Riot Games is fighting the war against video game hackers</small>
 
 
-| 🔥: 35 \| 💬: [78](https://news.ycombinator.com/item?id=43888501) \| 🗓️ 2025-05-04
+| 🔥: 38 \| 💬: [92](https://news.ycombinator.com/item?id=43888501) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -246,11 +234,23 @@ Riot Games通过**内核级反作弊系统Vanguard**，结合硬件指纹识别�
 
 ---
 
+## <a name="18"></a>18. 简易卫星手动追踪套件EZ-TRAK 
+<small>🔗 [github.com](https://github.com/benb0jangles/EzTrak): Show HN: EZ-TRAK Satellite Hand Tracking Suite</small>
+
+
+| 🔥: 36 \| 💬: [5](https://news.ycombinator.com/item?id=43887546) \| 🗓️ 2025-05-04
+
+
+<br />
+EZ-TRAK是一款面向业余无线电爱好者、气象卫星追踪者及教育用途的**卫星追踪软件**，通过蓝牙连接专用硬件设备，实时显示卫星方位角与仰角数据，辅助手动调整天线指向。核心功能包括**动态追踪**、过境预测、多源TLE数据支持及轨迹记录，提供图形化极坐标界面和简易配置工具。需搭配Python环境及BLE设备使用，适用于便携式卫星天线场景。软件为闭源项目，强调易用性和实时性，适合户外操作。
+
+---
+
 ## <a name="19"></a>19. Feather：一个跳过Rust异步模板的轻量级Web框架 
 <small>🔗 [github.com](https://github.com/BersisSe/feather): Feather: Feather: A web framework that skips Rust's async boilerplate and jus</small>
 
 
-| 🔥: 34 \| 💬: [38](https://news.ycombinator.com/item?id=43887494) \| 🗓️ 2025-05-04
+| 🔥: 35 \| 💬: [39](https://news.ycombinator.com/item?id=43887494) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -264,11 +264,23 @@ Feather是一个**轻量级**、**开发者体验优先**的Rust Web框架，灵
 
 ---
 
-## <a name="20"></a>20. 科技行业的“劣化”：劳工防线崩塌 
+## <a name="20"></a>20. 让老旧打印机无线化：开源驱动的无驱打印服务器 
+<small>🔗 [printserver.ink](https://printserver.ink/): Show HN: Driverless print server for legacy printers, profit goes to open-source</small>
+
+
+| 🔥: 34 \| 💬: [9](https://news.ycombinator.com/item?id=43888157) \| 🗓️ 2025-05-04
+
+
+<br />
+UoWPrint 是一款**无驱打印服务器**，可将老旧USB打印机升级为支持Wi-Fi的无线设备，兼容Windows/macOS/Linux及iOS/Android系统。它内置通用驱动，无需在终端安装驱动，支持**AirPrint**和**Mopria**协议，覆盖多数2018年前的惠普、三星等品牌设备。硬件基于OrangePi Zero 3开发，开源固件且默认禁用联网功能，售价35美元，每售出一台即向开源项目捐赠4美元。适合追求环保、低成本复用的用户，但专业打印需谨慎测试兼容性。
+
+---
+
+## <a name="21"></a>21. 科技行业的“劣化”：劳工防线崩塌 
 <small>🔗 [pluralistic.net](https://pluralistic.net/2025/04/27/some-animals/#are-more-equal-than-others): The Enshittification of Tech Jobs</small>
 
 
-| 🔥: 32 \| 💬: [8](https://news.ycombinator.com/item?id=43886946) \| 🗓️ 2025-05-04
+| 🔥: 33 \| 💬: [9](https://news.ycombinator.com/item?id=43886946) \| 🗓️ 2025-05-04
 
 
 <br />
@@ -276,11 +288,11 @@ Feather是一个**轻量级**、**开发者体验优先**的Rust Web框架，灵
 
 ---
 
-## <a name="21"></a>21. Debian测试版trixie在amd64架构上实现95%以上可复现性 
+## <a name="22"></a>22. Debian测试版trixie在amd64架构上实现95%以上可复现性 
 <small>🔗 [micronews.debian.org](https://micronews.debian.org/2025/1746302888.html): The Debian testing/trixie release on amd64 is now reproducible for over 95%</small>
 
 
-| 🔥: 29 \| 💬: [3](https://news.ycombinator.com/item?id=43887282) \| 🗓️ 2025-05-04
+| 🔥: 30 \| 💬: [3](https://news.ycombinator.com/item?id=43887282) \| 🗓️ 2025-05-04
 
 
 <br />
