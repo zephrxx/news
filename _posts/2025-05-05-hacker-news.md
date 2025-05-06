@@ -27,7 +27,7 @@ tags:
 <small>🔗 [afterbabel.com](https://www.afterbabel.com/p/on-the-death-of-daydreaming): The Death of Daydreaming</small>
 
 
-| 🔥🔥: 542 \| 💬: [219](https://news.ycombinator.com/item?id=43894305) \| 🗓️ 2025-05-05
+| 🔥🔥: 552 \| 💬: [219](https://news.ycombinator.com/item?id=43894305) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [bjango.com](https://bjango.com/articles/daftpunkvocaleffects/): The vocal effects of Daft Punk</small>
 
 
-| 🔥🔥: 363 \| 💬: [89](https://news.ycombinator.com/item?id=43893601) \| 🗓️ 2025-05-05
+| 🔥🔥: 374 \| 💬: [92](https://news.ycombinator.com/item?id=43893601) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -51,7 +51,7 @@ Daft Punk在其作品中广泛运用了**声码器**、**Talk Box**和**和声�
 <small>🔗 [wired.com](https://www.wired.com/story/meta-lawsuit-copyright-hearing-artificial-intelligence/): Judge said Meta illegally used books to build its AI</small>
 
 
-| 🔥🔥: 340 \| 💬: [296](https://news.ycombinator.com/item?id=43893762) \| 🗓️ 2025-05-05
+| 🔥🔥: 345 \| 💬: [297](https://news.ycombinator.com/item?id=43893762) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -63,7 +63,7 @@ Meta与包括Sarah Silverman、Ta-Nehisi Coates在内的作家团体陷入版权
 <small>🔗 [minimaxir.com](https://minimaxir.com/2025/05/llm-use/): As an experienced LLM user, I don't use generative LLMs often</small>
 
 
-| 🔥🔥: 263 \| 💬: [148](https://news.ycombinator.com/item?id=43897320) \| 🗓️ 2025-05-05
+| 🔥🔥: 274 \| 💬: [149](https://news.ycombinator.com/item?id=43897320) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -75,7 +75,7 @@ Meta与包括Sarah Silverman、Ta-Nehisi Coates在内的作家团体陷入版权
 <small>🔗 [github.com](https://github.com/KoljaB/RealtimeVoiceChat): Show HN: Real-time AI Voice Chat at ~500ms Latency</small>
 
 
-| 🔥🔥: 217 \| 💬: [100](https://news.ycombinator.com/item?id=43899028) \| 🗓️ 2025-05-05
+| 🔥🔥: 239 \| 💬: [108](https://news.ycombinator.com/item?id=43899028) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -87,7 +87,7 @@ Meta与包括Sarah Silverman、Ta-Nehisi Coates在内的作家团体陷入版权
 <small>🔗 [vectorvfs.readthedocs.io](https://vectorvfs.readthedocs.io/en/latest/): Show HN: VectorVFS, your filesystem as a vector database</small>
 
 
-| 🔥🔥: 211 \| 💬: [105](https://news.ycombinator.com/item?id=43896011) \| 🗓️ 2025-05-05
+| 🔥🔥: 217 \| 💬: [107](https://news.ycombinator.com/item?id=43896011) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -99,7 +99,7 @@ VectorVFS是一款**Python工具包**，通过Linux的**虚拟文件系统（VFS
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/may/04/trump-tariffs-foreign-movies): Trump announces 100% tariffs on movies ‘produced in foreign lands’</small>
 
 
-| 🔥🔥: 197 \| 💬: [444](https://news.ycombinator.com/item?id=43893310) \| 🗓️ 2025-05-05
+| 🔥🔥: 199 \| 💬: [448](https://news.ycombinator.com/item?id=43893310) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -111,7 +111,7 @@ VectorVFS是一款**Python工具包**，通过Linux的**虚拟文件系统（VFS
 <small>🔗 [token.security](https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk): AWS Built a Security Tool. It Introduced a Security Risk</small>
 
 
-| 🔥🔥: 188 \| 💬: [72](https://news.ycombinator.com/item?id=43893906) \| 🗓️ 2025-05-05
+| 🔥🔥: 189 \| 💬: [74](https://news.ycombinator.com/item?id=43893906) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -123,7 +123,7 @@ AWS推出的**Account Assessment for AWS Organizations**工具本用于审计跨
 <small>🔗 [vin01.github.io](https://vin01.github.io/piptagole/cybcecrime/security/cybersecurity/2025/05/05/state-cyber-security.html): How are cyber criminals rolling in 2025?</small>
 
 
-| 🔥🔥: 183 \| 💬: [64](https://news.ycombinator.com/item?id=43896188) \| 🗓️ 2025-05-05
+| 🔥🔥: 188 \| 💬: [65](https://news.ycombinator.com/item?id=43896188) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -135,7 +135,7 @@ AWS推出的**Account Assessment for AWS Organizations**工具本用于审计跨
 <small>🔗 [den.dev](https://den.dev/blog/pihole/): The Beauty of Having a Pi-Hole (2024)</small>
 
 
-| 🔥🔥: 178 \| 💬: [135](https://news.ycombinator.com/item?id=43894175) \| 🗓️ 2025-05-05
+| 🔥🔥: 187 \| 💬: [138](https://news.ycombinator.com/item?id=43894175) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -151,7 +151,7 @@ AWS推出的**Account Assessment for AWS Organizations**工具本用于审计跨
 <small>🔗 [kucharski.substack.com](https://kucharski.substack.com/p/possibly-a-serious-possibility): Possibly a Serious Possibility</small>
 
 
-| 🔥🔥: 168 \| 💬: [65](https://news.ycombinator.com/item?id=43898380) \| 🗓️ 2025-05-05
+| 🔥🔥: 177 \| 💬: [74](https://news.ycombinator.com/item?id=43898380) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -163,7 +163,7 @@ AWS推出的**Account Assessment for AWS Organizations**工具本用于审计跨
 <small>🔗 [blog.yaakov.online](https://blog.yaakov.online/replacing-kubernetes-with-systemd/): Replacing Kubernetes with systemd (2024)</small>
 
 
-| 🔥🔥: 152 \| 💬: [80](https://news.ycombinator.com/item?id=43899236) \| 🗓️ 2025-05-05
+| 🔥🔥: 168 \| 💬: [93](https://news.ycombinator.com/item?id=43899236) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -175,7 +175,7 @@ AWS推出的**Account Assessment for AWS Organizations**工具本用于审计跨
 <small>🔗 [github.com](https://github.com/evroon/bracket): Show HN: Bracket – selfhosted tournament system</small>
 
 
-| 🔥🔥: 126 \| 💬: [26](https://news.ycombinator.com/item?id=43895456) \| 🗓️ 2025-05-05
+| 🔥🔥: 130 \| 💬: [26](https://news.ycombinator.com/item?id=43895456) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -183,7 +183,19 @@ Bracket是一个基于**FastAPI**（异步Python）和**Next.js**构建的自托
 
 ---
 
-## <a name="14"></a>14. 没有Instagram，就没有隐私 
+## <a name="14"></a>14. 用SQL轻松查询CSV/JSON/Excel数据的本地工具 
+<small>🔗 [textquery.app](https://textquery.app/): Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL</small>
+
+
+| 🔥🔥: 122 \| 💬: [45](https://news.ycombinator.com/item?id=43897129) \| 🗓️ 2025-05-05
+
+
+<br />
+TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可视化CSV/JSON/XLSX等文件数据，无需编写代码或定义结构。提供**智能SQL编辑器**（自动补全、历史记录）、多种图表（折线/饼图等）及数据导出功能。所有操作在本地完成，**保障数据隐私**，支持一次性买断授权。免费版可试用，适合数据分析师快速处理本地文件。
+
+---
+
+## <a name="15"></a>15. 没有Instagram，就没有隐私 
 <small>🔗 [blog.wouterjanleys.com](https://blog.wouterjanleys.com/blog/no-instagram-no-privacy/): No Instagram, no privacy</small>
 
 
@@ -195,23 +207,23 @@ Bracket是一个基于**FastAPI**（异步Python）和**Next.js**构建的自托
 
 ---
 
-## <a name="15"></a>15. 用SQL轻松查询CSV/JSON/Excel数据的本地工具 
-<small>🔗 [textquery.app](https://textquery.app/): Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL</small>
+## <a name="16"></a>16. Databricks拟10亿美元收购开源数据库公司Neon 
+<small>🔗 [upstartsmedia.com](https://www.upstartsmedia.com/p/scoop-databricks-talks-to-acquire-neon): Databricks in talks to acquire startup Neon for about $1B</small>
 
 
-| 🔥🔥: 117 \| 💬: [44](https://news.ycombinator.com/item?id=43897129) \| 🗓️ 2025-05-05
+| 🔥🔥: 110 \| 💬: [68](https://news.ycombinator.com/item?id=43899016) \| 🗓️ 2025-05-05
 
 
 <br />
-TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可视化CSV/JSON/XLSX等文件数据，无需编写代码或定义结构。提供**智能SQL编辑器**（自动补全、历史记录）、多种图表（折线/饼图等）及数据导出功能。所有操作在本地完成，**保障数据隐私**，支持一次性买断授权。免费版可试用，适合数据分析师快速处理本地文件。
+据独家消息，**数据与AI巨头Databricks**正就收购开源Postgres引擎开发商**Neon**进行深入谈判，交易估值约**10亿美元**。知情人士透露，若计入员工留任方案，最终金额可能超这一数字。但交易尚未最终敲定，仍存变数。Neon CEO及公司均未置评，Databricks亦拒绝回应。此次收购将延续该独角兽企业通过并购扩张的战略。
 
 ---
 
-## <a name="16"></a>16. 从几何视角理解反函数的微积分（2023） 
+## <a name="17"></a>17. 从几何视角理解反函数的微积分（2023） 
 <small>🔗 [tobylam.xyz](https://tobylam.xyz/2023/11/27/inverse-functions-legendre-part-1): Geometrically understanding calculus of inverse functions (2023)</small>
 
 
-| 🔥🔥: 103 \| 💬: [4](https://news.ycombinator.com/item?id=43895852) \| 🗓️ 2025-05-05
+| 🔥🔥: 109 \| 💬: [4](https://news.ycombinator.com/item?id=43895852) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -221,23 +233,11 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="17"></a>17. Databricks拟10亿美元收购开源数据库公司Neon 
-<small>🔗 [upstartsmedia.com](https://www.upstartsmedia.com/p/scoop-databricks-talks-to-acquire-neon): Databricks in talks to acquire startup Neon for about $1B</small>
-
-
-| 🔥: 100 \| 💬: [63](https://news.ycombinator.com/item?id=43899016) \| 🗓️ 2025-05-05
-
-
-<br />
-据独家消息，**数据与AI巨头Databricks**正就收购开源Postgres引擎开发商**Neon**进行深入谈判，交易估值约**10亿美元**。知情人士透露，若计入员工留任方案，最终金额可能超这一数字。但交易尚未最终敲定，仍存变数。Neon CEO及公司均未置评，Databricks亦拒绝回应。此次收购将延续该独角兽企业通过并购扩张的战略。
-
----
-
 ## <a name="18"></a>18. 数学家证实126维空间存在奇异扭曲形状 
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/): Dimension 126 Contains Twisted Shapes, Mathematicians Prove</small>
 
 
-| 🔥: 98 \| 💬: [55](https://news.ycombinator.com/item?id=43896199) \| 🗓️ 2025-05-05
+| 🔥🔥: 101 \| 💬: [59](https://news.ycombinator.com/item?id=43896199) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -249,7 +249,7 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 <small>🔗 [blog.akamai-mpulse.com](https://blog.akamai-mpulse.com/blog/2025-05-03-iberian-power-outage/): Internet usage pattern during power outage in Spain and Portugal</small>
 
 
-| 🔥: 95 \| 💬: [101](https://news.ycombinator.com/item?id=43894363) \| 🗓️ 2025-05-05
+| 🔥: 97 \| 💬: [101](https://news.ycombinator.com/item?id=43894363) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -261,7 +261,7 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 <small>🔗 [atariarchive.org](https://www.atariarchive.org/blog/adventure-march-1980/): History of "Adventure" for the Atari 2600</small>
 
 
-| 🔥: 92 \| 💬: [17](https://news.ycombinator.com/item?id=43895237) \| 🗓️ 2025-05-05
+| 🔥: 94 \| 💬: [18](https://news.ycombinator.com/item?id=43895237) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -273,7 +273,7 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 <small>🔗 [tomverbeure.github.io](https://tomverbeure.github.io/2025/05/04/TDS684B-CCD-Memory.html): A Tektronix TDS 684B Oscilloscope Uses CCD Analog Memory</small>
 
 
-| 🔥: 89 \| 💬: [54](https://news.ycombinator.com/item?id=43895622) \| 🗓️ 2025-05-05
+| 🔥: 93 \| 💬: [55](https://news.ycombinator.com/item?id=43895622) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -285,7 +285,7 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 <small>🔗 [arstechnica.com](https://arstechnica.com/space/2025/05/spacex-pushed-sniper-theory-with-the-feds-far-more-than-is-publicly-known/): SpaceX pushed "sniper" theory with the feds</small>
 
 
-| 🔥: 87 \| 💬: [49](https://news.ycombinator.com/item?id=43894678) \| 🗓️ 2025-05-05
+| 🔥: 89 \| 💬: [49](https://news.ycombinator.com/item?id=43894678) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -297,7 +297,7 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 <small>🔗 [virtualize.sh](https://virtualize.sh/blog/you-cant-git-clone-a-team/): You can't git clone a team</small>
 
 
-| 🔥: 83 \| 💬: [65](https://news.ycombinator.com/item?id=43895637) \| 🗓️ 2025-05-05
+| 🔥: 88 \| 💬: [67](https://news.ycombinator.com/item?id=43895637) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -309,7 +309,7 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 <small>🔗 [ft.com](https://www.ft.com/content/a7b34d53-a844-4e69-a55c-b9dee9a97dd2): Cursor hits $9B valuation</small>
 
 
-| 🔥: 81 \| 💬: [139](https://news.ycombinator.com/item?id=43895516) \| 🗓️ 2025-05-05
+| 🔥: 82 \| 💬: [139](https://news.ycombinator.com/item?id=43895516) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -317,14 +317,14 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="25"></a>25. 欧盟拟2027年起全面禁止匿名加密货币账户和隐私币 
-<small>🔗 [cointelegraph.com](https://cointelegraph.com/news/eu-crypto-ban-anonymous-privacy-tokens-2027): EU to ban anonymous crypto accounts and privacy coins by 2027</small>
+## <a name="25"></a>25. 美国政府官员使用的定制版Signal应用TeleMessage遭黑客入侵 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/05/telemessage-a-modified-signal-clone-used-by-us-govt-officials-has-been-hacked/): TeleMessage, a modified Signal clone used by US govt. officials, has been hacked</small>
 
 
-| 🔥: 77 \| 💬: [104](https://news.ycombinator.com/item?id=43892964) \| 🗓️ 2025-05-05
+| 🔥: 78 \| 💬: [6](https://news.ycombinator.com/item?id=43893550) \| 🗓️ 2025-05-05
 
 
 <br />
-欧盟将于2027年实施新**反洗钱法规（AMLR）**，禁止金融机构和**加密货币服务商（CASPs）**处理匿名账户或**隐私币**（如门罗币、Zcash）。新规要求对超1000欧元交易进行客户尽职调查，并直接监管跨国运营的CASPs。此举是欧盟加强加密货币监管的一部分，旨在提升透明度并打击非法金融活动。
+黑客利用**TeleMessage**的漏洞窃取了美国官员及企业的**存档消息**和联系人信息。该应用提供定制版Signal、Telegram等加密通讯工具的存档服务，但曝光的聊天记录显示其**存储过程未端到端加密**。尽管内阁成员数据未泄露，但海关、Coinbase和银行信息被提取。母公司Smarsh暂未回应。
 
 ---
