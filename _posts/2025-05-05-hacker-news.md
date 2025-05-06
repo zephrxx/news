@@ -27,7 +27,7 @@ tags:
 <small>🔗 [afterbabel.com](https://www.afterbabel.com/p/on-the-death-of-daydreaming): The Death of Daydreaming</small>
 
 
-| 🔥🔥: 518 \| 💬: [207](https://news.ycombinator.com/item?id=43894305) \| 🗓️ 2025-05-05
+| 🔥🔥: 530 \| 💬: [211](https://news.ycombinator.com/item?id=43894305) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [bjango.com](https://bjango.com/articles/daftpunkvocaleffects/): The vocal effects of Daft Punk</small>
 
 
-| 🔥🔥: 347 \| 💬: [76](https://news.ycombinator.com/item?id=43893601) \| 🗓️ 2025-05-05
+| 🔥🔥: 353 \| 💬: [85](https://news.ycombinator.com/item?id=43893601) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -51,7 +51,7 @@ Daft Punk在其作品中广泛运用了**声码器**、**Talk Box**和**和声�
 <small>🔗 [wired.com](https://www.wired.com/story/meta-lawsuit-copyright-hearing-artificial-intelligence/): Judge said Meta illegally used books to build its AI</small>
 
 
-| 🔥🔥: 332 \| 💬: [294](https://news.ycombinator.com/item?id=43893762) \| 🗓️ 2025-05-05
+| 🔥🔥: 336 \| 💬: [296](https://news.ycombinator.com/item?id=43893762) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -63,7 +63,7 @@ Meta与包括Sarah Silverman、Ta-Nehisi Coates在内的作家团体陷入版权
 <small>🔗 [minimaxir.com](https://minimaxir.com/2025/05/llm-use/): As an experienced LLM user, I don't use generative LLMs often</small>
 
 
-| 🔥🔥: 245 \| 💬: [142](https://news.ycombinator.com/item?id=43897320) \| 🗓️ 2025-05-05
+| 🔥🔥: 252 \| 💬: [144](https://news.ycombinator.com/item?id=43897320) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -75,7 +75,7 @@ Meta与包括Sarah Silverman、Ta-Nehisi Coates在内的作家团体陷入版权
 <small>🔗 [vectorvfs.readthedocs.io](https://vectorvfs.readthedocs.io/en/latest/): Show HN: VectorVFS, your filesystem as a vector database</small>
 
 
-| 🔥🔥: 197 \| 💬: [95](https://news.ycombinator.com/item?id=43896011) \| 🗓️ 2025-05-05
+| 🔥🔥: 206 \| 💬: [101](https://news.ycombinator.com/item?id=43896011) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -87,7 +87,7 @@ VectorVFS是一款**Python工具包**，通过Linux的**虚拟文件系统（VFS
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/may/04/trump-tariffs-foreign-movies): Trump announces 100% tariffs on movies ‘produced in foreign lands’</small>
 
 
-| 🔥🔥: 196 \| 💬: [440](https://news.ycombinator.com/item?id=43893310) \| 🗓️ 2025-05-05
+| 🔥🔥: 197 \| 💬: [442](https://news.ycombinator.com/item?id=43893310) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -95,11 +95,23 @@ VectorVFS是一款**Python工具包**，通过Linux的**虚拟文件系统（VFS
 
 ---
 
-## <a name="7"></a>7. AWS安全工具反成漏洞源头：跨账户权限升级风险曝光 
+## <a name="7"></a>7. 实时AI语音聊天：延迟仅500毫秒的自然对话工具 
+<small>🔗 [github.com](https://github.com/KoljaB/RealtimeVoiceChat): Show HN: Real-time AI Voice Chat at ~500ms Latency</small>
+
+
+| 🔥🔥: 189 \| 💬: [92](https://news.ycombinator.com/item?id=43899028) \| 🗓️ 2025-05-05
+
+
+<br />
+该项目通过**浏览器麦克风**捕捉用户语音，利用WebSocket实时传输至Python后端，经**Whisper模型**快速转文本后，由Ollama或OpenAI等**大语言模型**生成响应，再通过TTS引擎转换为语音回传。支持打断交互、多语音选项，并提供Docker一键部署。核心优势在于低延迟架构设计，需NVIDIA GPU保障性能，适合开发者快速搭建AI语音对话系统。
+
+---
+
+## <a name="8"></a>8. AWS安全工具反成漏洞源头：跨账户权限升级风险曝光 
 <small>🔗 [token.security](https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk): AWS Built a Security Tool. It Introduced a Security Risk</small>
 
 
-| 🔥🔥: 180 \| 💬: [72](https://news.ycombinator.com/item?id=43893906) \| 🗓️ 2025-05-05
+| 🔥🔥: 184 \| 💬: [72](https://news.ycombinator.com/item?id=43893906) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -107,11 +119,23 @@ AWS推出的**Account Assessment for AWS Organizations**工具本用于审计跨
 
 ---
 
-## <a name="8"></a>8. 2024年拥有Pi-Hole的妙处 
+## <a name="9"></a>9. 2025年网络犯罪分子的敛财新招 
+<small>🔗 [vin01.github.io](https://vin01.github.io/piptagole/cybcecrime/security/cybersecurity/2025/05/05/state-cyber-security.html): How are cyber criminals rolling in 2025?</small>
+
+
+| 🔥🔥: 171 \| 💬: [61](https://news.ycombinator.com/item?id=43896188) \| 🗓️ 2025-05-05
+
+
+<br />
+网络犯罪分子正利用**政府机构**、**高校**等组织的薄弱网络安全防线，将其作为免费内容托管平台。他们通过SEO优化和**可信域名**（如Google服务）绕过企业安全工具检测，散布虚假链接。攻击手段包括过时的WordPress插件、缓存投毒和子域名劫持，最终通过多层跳转链接牟利或实施钓鱼（如针对儿童的游戏货币“**Robux**”诈骗）。尽管部分漏洞已修复，但攻击者仍持续进化，传统防御措施难以应对。
+
+---
+
+## <a name="10"></a>10. 2024年拥有Pi-Hole的妙处 
 <small>🔗 [den.dev](https://den.dev/blog/pihole/): The Beauty of Having a Pi-Hole (2024)</small>
 
 
-| 🔥🔥: 165 \| 💬: [125](https://news.ycombinator.com/item?id=43894175) \| 🗓️ 2025-05-05
+| 🔥🔥: 170 \| 💬: [128](https://news.ycombinator.com/item?id=43894175) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -123,35 +147,11 @@ AWS推出的**Account Assessment for AWS Organizations**工具本用于审计跨
 
 ---
 
-## <a name="9"></a>9. 实时AI语音聊天：延迟仅500毫秒的自然对话工具 
-<small>🔗 [github.com](https://github.com/KoljaB/RealtimeVoiceChat): Show HN: Real-time AI Voice Chat at ~500ms Latency</small>
-
-
-| 🔥🔥: 162 \| 💬: [86](https://news.ycombinator.com/item?id=43899028) \| 🗓️ 2025-05-05
-
-
-<br />
-该项目通过**浏览器麦克风**捕捉用户语音，利用WebSocket实时传输至Python后端，经**Whisper模型**快速转文本后，由Ollama或OpenAI等**大语言模型**生成响应，再通过TTS引擎转换为语音回传。支持打断交互、多语音选项，并提供Docker一键部署。核心优势在于低延迟架构设计，需NVIDIA GPU保障性能，适合开发者快速搭建AI语音对话系统。
-
----
-
-## <a name="10"></a>10. 2025年网络犯罪分子的敛财新招 
-<small>🔗 [vin01.github.io](https://vin01.github.io/piptagole/cybcecrime/security/cybersecurity/2025/05/05/state-cyber-security.html): How are cyber criminals rolling in 2025?</small>
-
-
-| 🔥🔥: 161 \| 💬: [60](https://news.ycombinator.com/item?id=43896188) \| 🗓️ 2025-05-05
-
-
-<br />
-网络犯罪分子正利用**政府机构**、**高校**等组织的薄弱网络安全防线，将其作为免费内容托管平台。他们通过SEO优化和**可信域名**（如Google服务）绕过企业安全工具检测，散布虚假链接。攻击手段包括过时的WordPress插件、缓存投毒和子域名劫持，最终通过多层跳转链接牟利或实施钓鱼（如针对儿童的游戏货币“**Robux**”诈骗）。尽管部分漏洞已修复，但攻击者仍持续进化，传统防御措施难以应对。
-
----
-
 ## <a name="11"></a>11. 冷战情报中的“潜伏狡辩”陷阱 
 <small>🔗 [kucharski.substack.com](https://kucharski.substack.com/p/possibly-a-serious-possibility): Possibly a Serious Possibility</small>
 
 
-| 🔥🔥: 144 \| 💬: [58](https://news.ycombinator.com/item?id=43898380) \| 🗓️ 2025-05-05
+| 🔥🔥: 153 \| 💬: [62](https://news.ycombinator.com/item?id=43898380) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -159,11 +159,23 @@ AWS推出的**Account Assessment for AWS Organizations**工具本用于审计跨
 
 ---
 
-## <a name="12"></a>12. 自托管赛事管理系统Bracket：支持多赛制的开源解决方案 
+## <a name="12"></a>12. 2024年：用systemd替代Kubernetes的实践 
+<small>🔗 [blog.yaakov.online](https://blog.yaakov.online/replacing-kubernetes-with-systemd/): Replacing Kubernetes with systemd (2024)</small>
+
+
+| 🔥🔥: 130 \| 💬: [76](https://news.ycombinator.com/item?id=43899236) \| 🗓️ 2025-05-05
+
+
+<br />
+作者回顾了2018年使用**Kubernetes**搭建家庭集群的经历，发现其虽能通过**自动化循环**（如创建Pod、管理证书）实现强大功能，但资源消耗过高（CPU常驻6%-12%），导致设备发热、噪音大，甚至影响睡眠。尽管依赖其便捷的GitOps和容器更新能力，作者最终转向**Podman**方案：通过生成systemd服务文件实现容器自启，结合`io.containers.autoupdate`标签自动更新镜像，辅以用户常驻（`loginctl enable-linger`），以极低开销复现了Kubernetes 99%的核心功能。迁移后，新VPS性能更轻量、成本更低，但Podman未来可能转向Quadlet配置，留下新学习课题。
+
+---
+
+## <a name="13"></a>13. 自托管赛事管理系统Bracket：支持多赛制的开源解决方案 
 <small>🔗 [github.com](https://github.com/evroon/bracket): Show HN: Bracket – selfhosted tournament system</small>
 
 
-| 🔥🔥: 120 \| 💬: [26](https://news.ycombinator.com/item?id=43895456) \| 🗓️ 2025-05-05
+| 🔥🔥: 121 \| 💬: [26](https://news.ycombinator.com/item?id=43895456) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -171,11 +183,11 @@ Bracket是一个基于**FastAPI**（异步Python）和**Next.js**构建的自托
 
 ---
 
-## <a name="13"></a>13. 没有Instagram，就没有隐私 
+## <a name="14"></a>14. 没有Instagram，就没有隐私 
 <small>🔗 [blog.wouterjanleys.com](https://blog.wouterjanleys.com/blog/no-instagram-no-privacy/): No Instagram, no privacy</small>
 
 
-| 🔥🔥: 111 \| 💬: [97](https://news.ycombinator.com/item?id=43896228) \| 🗓️ 2025-05-05
+| 🔥🔥: 112 \| 💬: [97](https://news.ycombinator.com/item?id=43896228) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -183,11 +195,11 @@ Bracket是一个基于**FastAPI**（异步Python）和**Next.js**构建的自托
 
 ---
 
-## <a name="14"></a>14. 用SQL轻松查询CSV/JSON/Excel数据的本地工具 
+## <a name="15"></a>15. 用SQL轻松查询CSV/JSON/Excel数据的本地工具 
 <small>🔗 [textquery.app](https://textquery.app/): Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL</small>
 
 
-| 🔥🔥: 107 \| 💬: [40](https://news.ycombinator.com/item?id=43897129) \| 🗓️ 2025-05-05
+| 🔥🔥: 112 \| 💬: [43](https://news.ycombinator.com/item?id=43897129) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -195,11 +207,11 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="15"></a>15. 从几何视角理解反函数的微积分（2023） 
+## <a name="16"></a>16. 从几何视角理解反函数的微积分（2023） 
 <small>🔗 [tobylam.xyz](https://tobylam.xyz/2023/11/27/inverse-functions-legendre-part-1): Geometrically understanding calculus of inverse functions (2023)</small>
 
 
-| 🔥: 96 \| 💬: [4](https://news.ycombinator.com/item?id=43895852) \| 🗓️ 2025-05-05
+| 🔥: 100 \| 💬: [4](https://news.ycombinator.com/item?id=43895852) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -209,35 +221,11 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="16"></a>16. 2024年：用systemd替代Kubernetes的实践 
-<small>🔗 [blog.yaakov.online](https://blog.yaakov.online/replacing-kubernetes-with-systemd/): Replacing Kubernetes with systemd (2024)</small>
-
-
-| 🔥: 96 \| 💬: [55](https://news.ycombinator.com/item?id=43899236) \| 🗓️ 2025-05-05
-
-
-<br />
-作者回顾了2018年使用**Kubernetes**搭建家庭集群的经历，发现其虽能通过**自动化循环**（如创建Pod、管理证书）实现强大功能，但资源消耗过高（CPU常驻6%-12%），导致设备发热、噪音大，甚至影响睡眠。尽管依赖其便捷的GitOps和容器更新能力，作者最终转向**Podman**方案：通过生成systemd服务文件实现容器自启，结合`io.containers.autoupdate`标签自动更新镜像，辅以用户常驻（`loginctl enable-linger`），以极低开销复现了Kubernetes 99%的核心功能。迁移后，新VPS性能更轻量、成本更低，但Podman未来可能转向Quadlet配置，留下新学习课题。
-
----
-
-## <a name="17"></a>17. 西班牙和葡萄牙停电期间的互联网使用模式 
-<small>🔗 [blog.akamai-mpulse.com](https://blog.akamai-mpulse.com/blog/2025-05-03-iberian-power-outage/): Internet usage pattern during power outage in Spain and Portugal</small>
-
-
-| 🔥: 92 \| 💬: [100](https://news.ycombinator.com/item?id=43894363) \| 🗓️ 2025-05-05
-
-
-<br />
-本文分析了2025年4月28日伊比利亚半岛大停电期间的网络流量数据。**西班牙和葡萄牙**的桌面流量骤降80%，而移动流量仅减少40%，表明用户转向手机上网。**移动设备**主要通过蜂窝网络连接，WiFi使用量下降50%。用户主要访问**政府网站**和新闻平台，西班牙人更依赖官方信息，而葡萄牙人则频繁查询食品安全。手机电量比平时低10%，但随着电力恢复逐渐正常。此次事件凸显了分布式网络基础设施在紧急情况下的重要性。
-
----
-
-## <a name="18"></a>18. 数学家证实126维空间存在奇异扭曲形状 
+## <a name="17"></a>17. 数学家证实126维空间存在奇异扭曲形状 
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/): Dimension 126 Contains Twisted Shapes, Mathematicians Prove</small>
 
 
-| 🔥: 91 \| 💬: [47](https://news.ycombinator.com/item?id=43896199) \| 🗓️ 2025-05-05
+| 🔥: 94 \| 💬: [51](https://news.ycombinator.com/item?id=43896199) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -245,11 +233,35 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="19"></a>19. 雅达利2600经典游戏《冒险》的开发秘史 
+## <a name="18"></a>18. 西班牙和葡萄牙停电期间的互联网使用模式 
+<small>🔗 [blog.akamai-mpulse.com](https://blog.akamai-mpulse.com/blog/2025-05-03-iberian-power-outage/): Internet usage pattern during power outage in Spain and Portugal</small>
+
+
+| 🔥: 93 \| 💬: [100](https://news.ycombinator.com/item?id=43894363) \| 🗓️ 2025-05-05
+
+
+<br />
+本文分析了2025年4月28日伊比利亚半岛大停电期间的网络流量数据。**西班牙和葡萄牙**的桌面流量骤降80%，而移动流量仅减少40%，表明用户转向手机上网。**移动设备**主要通过蜂窝网络连接，WiFi使用量下降50%。用户主要访问**政府网站**和新闻平台，西班牙人更依赖官方信息，而葡萄牙人则频繁查询食品安全。手机电量比平时低10%，但随着电力恢复逐渐正常。此次事件凸显了分布式网络基础设施在紧急情况下的重要性。
+
+---
+
+## <a name="19"></a>19. Databricks拟10亿美元收购开源数据库公司Neon 
+<small>🔗 [upstartsmedia.com](https://www.upstartsmedia.com/p/scoop-databricks-talks-to-acquire-neon): Databricks in talks to acquire startup Neon for about $1B</small>
+
+
+| 🔥: 90 \| 💬: [52](https://news.ycombinator.com/item?id=43899016) \| 🗓️ 2025-05-05
+
+
+<br />
+据独家消息，**数据与AI巨头Databricks**正就收购开源Postgres引擎开发商**Neon**进行深入谈判，交易估值约**10亿美元**。知情人士透露，若计入员工留任方案，最终金额可能超这一数字。但交易尚未最终敲定，仍存变数。Neon CEO及公司均未置评，Databricks亦拒绝回应。此次收购将延续该独角兽企业通过并购扩张的战略。
+
+---
+
+## <a name="20"></a>20. 雅达利2600经典游戏《冒险》的开发秘史 
 <small>🔗 [atariarchive.org](https://www.atariarchive.org/blog/adventure-march-1980/): History of "Adventure" for the Atari 2600</small>
 
 
-| 🔥: 86 \| 💬: [14](https://news.ycombinator.com/item?id=43895237) \| 🗓️ 2025-05-05
+| 🔥: 87 \| 💬: [15](https://news.ycombinator.com/item?id=43895237) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -257,23 +269,11 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="20"></a>20. SpaceX曾向联邦调查局提出“狙击手”炸毁火箭的离奇理论 
-<small>🔗 [arstechnica.com](https://arstechnica.com/space/2025/05/spacex-pushed-sniper-theory-with-the-feds-far-more-than-is-publicly-known/): SpaceX pushed "sniper" theory with the feds</small>
-
-
-| 🔥: 83 \| 💬: [49](https://news.ycombinator.com/item?id=43894678) \| 🗓️ 2025-05-05
-
-
-<br />
-2016年9月，SpaceX的**猎鹰9号**火箭在静态点火测试中突然爆炸，导致价值不菲的Amos-6卫星损毁。事故调查初期，由于缺乏明确原因，SpaceX创始人**埃隆·马斯克**一度怀疑是竞争对手ULA（联合发射联盟）的狙击手从附近建筑屋顶射击所致。公司甚至进行了实弹测试并请求检查ULA屋顶，但最终被FAA和FBI否决。真相是**超低温燃料加载过快**导致氦气罐破裂。这一事件成为SpaceX低谷，但随后公司迅速崛起，如今发射量远超ULA。
-
----
-
 ## <a name="21"></a>21. 泰克TDS 684B示波器：揭秘CCD模拟存储技术 
 <small>🔗 [tomverbeure.github.io](https://tomverbeure.github.io/2025/05/04/TDS684B-CCD-Memory.html): A Tektronix TDS 684B Oscilloscope Uses CCD Analog Memory</small>
 
 
-| 🔥: 82 \| 💬: [49](https://news.ycombinator.com/item?id=43895622) \| 🗓️ 2025-05-05
+| 🔥: 86 \| 💬: [51](https://news.ycombinator.com/item?id=43895622) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -281,7 +281,31 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="22"></a>22. 欧盟拟2027年起全面禁止匿名加密货币账户和隐私币 
+## <a name="22"></a>22. SpaceX曾向联邦调查局提出“狙击手”炸毁火箭的离奇理论 
+<small>🔗 [arstechnica.com](https://arstechnica.com/space/2025/05/spacex-pushed-sniper-theory-with-the-feds-far-more-than-is-publicly-known/): SpaceX pushed "sniper" theory with the feds</small>
+
+
+| 🔥: 84 \| 💬: [49](https://news.ycombinator.com/item?id=43894678) \| 🗓️ 2025-05-05
+
+
+<br />
+2016年9月，SpaceX的**猎鹰9号**火箭在静态点火测试中突然爆炸，导致价值不菲的Amos-6卫星损毁。事故调查初期，由于缺乏明确原因，SpaceX创始人**埃隆·马斯克**一度怀疑是竞争对手ULA（联合发射联盟）的狙击手从附近建筑屋顶射击所致。公司甚至进行了实弹测试并请求检查ULA屋顶，但最终被FAA和FBI否决。真相是**超低温燃料加载过快**导致氦气罐破裂。这一事件成为SpaceX低谷，但随后公司迅速崛起，如今发射量远超ULA。
+
+---
+
+## <a name="23"></a>23. AI编程工具Cursor估值飙升至90亿美元 
+<small>🔗 [ft.com](https://www.ft.com/content/a7b34d53-a844-4e69-a55c-b9dee9a97dd2): Cursor hits $9B valuation</small>
+
+
+| 🔥: 79 \| 💬: [136](https://news.ycombinator.com/item?id=43895516) \| 🗓️ 2025-05-05
+
+
+<br />
+人工智能编程应用**Cursor**的开发商近期估值达到**90亿美元**，引发市场关注。该工具主打“氛围编程”（**vibe coding**）概念，旨在提升开发效率。文章同时介绍了《金融时报》的订阅方案，包括标准版、高级版及印刷+数字组合套餐，提供全球新闻、专家分析和独家内容。
+
+---
+
+## <a name="24"></a>24. 欧盟拟2027年起全面禁止匿名加密货币账户和隐私币 
 <small>🔗 [cointelegraph.com](https://cointelegraph.com/news/eu-crypto-ban-anonymous-privacy-tokens-2027): EU to ban anonymous crypto accounts and privacy coins by 2027</small>
 
 
@@ -293,35 +317,11 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="23"></a>23. AI编程工具Cursor估值飙升至90亿美元 
-<small>🔗 [ft.com](https://www.ft.com/content/a7b34d53-a844-4e69-a55c-b9dee9a97dd2): Cursor hits $9B valuation</small>
-
-
-| 🔥: 76 \| 💬: [134](https://news.ycombinator.com/item?id=43895516) \| 🗓️ 2025-05-05
-
-
-<br />
-人工智能编程应用**Cursor**的开发商近期估值达到**90亿美元**，引发市场关注。该工具主打“氛围编程”（**vibe coding**）概念，旨在提升开发效率。文章同时介绍了《金融时报》的订阅方案，包括标准版、高级版及印刷+数字组合套餐，提供全球新闻、专家分析和独家内容。
-
----
-
-## <a name="24"></a>24. Databricks拟10亿美元收购开源数据库公司Neon 
-<small>🔗 [upstartsmedia.com](https://www.upstartsmedia.com/p/scoop-databricks-talks-to-acquire-neon): Databricks in Talks to Acquire Startup Neon for About $1B</small>
-
-
-| 🔥: 76 \| 💬: [43](https://news.ycombinator.com/item?id=43899016) \| 🗓️ 2025-05-05
-
-
-<br />
-据独家消息，**数据与AI巨头Databricks**正就收购开源Postgres引擎开发商**Neon**进行深入谈判，交易估值约**10亿美元**。知情人士透露，若计入员工留任方案，最终金额可能超这一数字。但交易尚未最终敲定，仍存变数。Neon CEO及公司均未置评，Databricks亦拒绝回应。此次收购将延续该独角兽企业通过并购扩张的战略。
-
----
-
 ## <a name="25"></a>25. 美国政府官员使用的定制版Signal应用TeleMessage遭黑客入侵 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/05/telemessage-a-modified-signal-clone-used-by-us-govt-officials-has-been-hacked/): TeleMessage, a modified Signal clone used by US govt. officials, has been hacked</small>
 
 
-| 🔥: 74 \| 💬: [6](https://news.ycombinator.com/item?id=43893550) \| 🗓️ 2025-05-05
+| 🔥: 75 \| 💬: [6](https://news.ycombinator.com/item?id=43893550) \| 🗓️ 2025-05-05
 
 
 <br />
