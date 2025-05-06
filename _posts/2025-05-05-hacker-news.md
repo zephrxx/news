@@ -12,7 +12,7 @@ tags:
 1. Daft Punk的声码效果解析；
 1. 法官裁定Meta非法使用书籍构建AI模型；
 1. 作为资深LLM用户，我为何不常使用生成式大模型；
-1. 将文件系统变为向量数据库：VectorVFS轻量级工具；
+1. 实时AI语音聊天：延迟仅500毫秒的自然对话工具；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [afterbabel.com](https://www.afterbabel.com/p/on-the-death-of-daydreaming): The Death of Daydreaming</small>
 
 
-| 🔥🔥: 530 \| 💬: [211](https://news.ycombinator.com/item?id=43894305) \| 🗓️ 2025-05-05
+| 🔥🔥: 542 \| 💬: [219](https://news.ycombinator.com/item?id=43894305) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [bjango.com](https://bjango.com/articles/daftpunkvocaleffects/): The vocal effects of Daft Punk</small>
 
 
-| 🔥🔥: 353 \| 💬: [85](https://news.ycombinator.com/item?id=43893601) \| 🗓️ 2025-05-05
+| 🔥🔥: 363 \| 💬: [89](https://news.ycombinator.com/item?id=43893601) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -51,7 +51,7 @@ Daft Punk在其作品中广泛运用了**声码器**、**Talk Box**和**和声�
 <small>🔗 [wired.com](https://www.wired.com/story/meta-lawsuit-copyright-hearing-artificial-intelligence/): Judge said Meta illegally used books to build its AI</small>
 
 
-| 🔥🔥: 336 \| 💬: [296](https://news.ycombinator.com/item?id=43893762) \| 🗓️ 2025-05-05
+| 🔥🔥: 340 \| 💬: [296](https://news.ycombinator.com/item?id=43893762) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -63,7 +63,7 @@ Meta与包括Sarah Silverman、Ta-Nehisi Coates在内的作家团体陷入版权
 <small>🔗 [minimaxir.com](https://minimaxir.com/2025/05/llm-use/): As an experienced LLM user, I don't use generative LLMs often</small>
 
 
-| 🔥🔥: 252 \| 💬: [144](https://news.ycombinator.com/item?id=43897320) \| 🗓️ 2025-05-05
+| 🔥🔥: 263 \| 💬: [148](https://news.ycombinator.com/item?id=43897320) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -71,35 +71,11 @@ Meta与包括Sarah Silverman、Ta-Nehisi Coates在内的作家团体陷入版权
 
 ---
 
-## <a name="5"></a>5. 将文件系统变为向量数据库：VectorVFS轻量级工具 
-<small>🔗 [vectorvfs.readthedocs.io](https://vectorvfs.readthedocs.io/en/latest/): Show HN: VectorVFS, your filesystem as a vector database</small>
-
-
-| 🔥🔥: 206 \| 💬: [101](https://news.ycombinator.com/item?id=43896011) \| 🗓️ 2025-05-05
-
-
-<br />
-VectorVFS是一款**Python工具包**，通过Linux的**虚拟文件系统（VFS）扩展属性**，将本地文件系统直接转化为**向量数据库**。它无需额外索引或外部数据库，而是将向量嵌入数据存储在文件的原生属性中，支持基于语义的高效搜索。当前版本集成Meta的Perception Encoders（PE），在零样本图像任务中表现优异，支持CPU/GPU计算，但首次处理大量图像时可能耗时较长。其核心优势包括零开销索引、无缝检索和轻量化设计，完全依赖Linux原生功能，无需后台服务。目前仅支持PE模型和图像类型，未来将扩展更多数据类型。
-
----
-
-## <a name="6"></a>6. 特朗普宣布对"外国制作"电影征收100%关税 
-<small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/may/04/trump-tariffs-foreign-movies): Trump announces 100% tariffs on movies ‘produced in foreign lands’</small>
-
-
-| 🔥🔥: 197 \| 💬: [442](https://news.ycombinator.com/item?id=43893310) \| 🗓️ 2025-05-05
-
-
-<br />
-美国前总统特朗普在社交媒体Truth Social上宣布，将对所有**"外国制作"电影**征收100%关税，称此举旨在保护**美国电影产业**，并指责其他国家通过税收优惠吸引美国制片方，构成**"国家安全威胁"**。美国商务部长回应已着手实施，但未透露细节。澳大利亚和新西兰政府表示将捍卫本国影视业利益。此前，特朗普的关税政策已引发中美贸易摩擦，中国减少了美国电影进口配额。专家警告，此举可能引发报复性措施，重创美国电影行业。
-
----
-
-## <a name="7"></a>7. 实时AI语音聊天：延迟仅500毫秒的自然对话工具 
+## <a name="5"></a>5. 实时AI语音聊天：延迟仅500毫秒的自然对话工具 
 <small>🔗 [github.com](https://github.com/KoljaB/RealtimeVoiceChat): Show HN: Real-time AI Voice Chat at ~500ms Latency</small>
 
 
-| 🔥🔥: 189 \| 💬: [92](https://news.ycombinator.com/item?id=43899028) \| 🗓️ 2025-05-05
+| 🔥🔥: 217 \| 💬: [100](https://news.ycombinator.com/item?id=43899028) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -107,11 +83,35 @@ VectorVFS是一款**Python工具包**，通过Linux的**虚拟文件系统（VFS
 
 ---
 
+## <a name="6"></a>6. 将文件系统变为向量数据库：VectorVFS轻量级工具 
+<small>🔗 [vectorvfs.readthedocs.io](https://vectorvfs.readthedocs.io/en/latest/): Show HN: VectorVFS, your filesystem as a vector database</small>
+
+
+| 🔥🔥: 211 \| 💬: [105](https://news.ycombinator.com/item?id=43896011) \| 🗓️ 2025-05-05
+
+
+<br />
+VectorVFS是一款**Python工具包**，通过Linux的**虚拟文件系统（VFS）扩展属性**，将本地文件系统直接转化为**向量数据库**。它无需额外索引或外部数据库，而是将向量嵌入数据存储在文件的原生属性中，支持基于语义的高效搜索。当前版本集成Meta的Perception Encoders（PE），在零样本图像任务中表现优异，支持CPU/GPU计算，但首次处理大量图像时可能耗时较长。其核心优势包括零开销索引、无缝检索和轻量化设计，完全依赖Linux原生功能，无需后台服务。目前仅支持PE模型和图像类型，未来将扩展更多数据类型。
+
+---
+
+## <a name="7"></a>7. 特朗普宣布对"外国制作"电影征收100%关税 
+<small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/may/04/trump-tariffs-foreign-movies): Trump announces 100% tariffs on movies ‘produced in foreign lands’</small>
+
+
+| 🔥🔥: 197 \| 💬: [444](https://news.ycombinator.com/item?id=43893310) \| 🗓️ 2025-05-05
+
+
+<br />
+美国前总统特朗普在社交媒体Truth Social上宣布，将对所有**"外国制作"电影**征收100%关税，称此举旨在保护**美国电影产业**，并指责其他国家通过税收优惠吸引美国制片方，构成**"国家安全威胁"**。美国商务部长回应已着手实施，但未透露细节。澳大利亚和新西兰政府表示将捍卫本国影视业利益。此前，特朗普的关税政策已引发中美贸易摩擦，中国减少了美国电影进口配额。专家警告，此举可能引发报复性措施，重创美国电影行业。
+
+---
+
 ## <a name="8"></a>8. AWS安全工具反成漏洞源头：跨账户权限升级风险曝光 
 <small>🔗 [token.security](https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk): AWS Built a Security Tool. It Introduced a Security Risk</small>
 
 
-| 🔥🔥: 184 \| 💬: [72](https://news.ycombinator.com/item?id=43893906) \| 🗓️ 2025-05-05
+| 🔥🔥: 188 \| 💬: [72](https://news.ycombinator.com/item?id=43893906) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -123,7 +123,7 @@ AWS推出的**Account Assessment for AWS Organizations**工具本用于审计跨
 <small>🔗 [vin01.github.io](https://vin01.github.io/piptagole/cybcecrime/security/cybersecurity/2025/05/05/state-cyber-security.html): How are cyber criminals rolling in 2025?</small>
 
 
-| 🔥🔥: 171 \| 💬: [61](https://news.ycombinator.com/item?id=43896188) \| 🗓️ 2025-05-05
+| 🔥🔥: 183 \| 💬: [64](https://news.ycombinator.com/item?id=43896188) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -135,7 +135,7 @@ AWS推出的**Account Assessment for AWS Organizations**工具本用于审计跨
 <small>🔗 [den.dev](https://den.dev/blog/pihole/): The Beauty of Having a Pi-Hole (2024)</small>
 
 
-| 🔥🔥: 170 \| 💬: [128](https://news.ycombinator.com/item?id=43894175) \| 🗓️ 2025-05-05
+| 🔥🔥: 178 \| 💬: [135](https://news.ycombinator.com/item?id=43894175) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -151,7 +151,7 @@ AWS推出的**Account Assessment for AWS Organizations**工具本用于审计跨
 <small>🔗 [kucharski.substack.com](https://kucharski.substack.com/p/possibly-a-serious-possibility): Possibly a Serious Possibility</small>
 
 
-| 🔥🔥: 153 \| 💬: [62](https://news.ycombinator.com/item?id=43898380) \| 🗓️ 2025-05-05
+| 🔥🔥: 168 \| 💬: [65](https://news.ycombinator.com/item?id=43898380) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -163,7 +163,7 @@ AWS推出的**Account Assessment for AWS Organizations**工具本用于审计跨
 <small>🔗 [blog.yaakov.online](https://blog.yaakov.online/replacing-kubernetes-with-systemd/): Replacing Kubernetes with systemd (2024)</small>
 
 
-| 🔥🔥: 130 \| 💬: [76](https://news.ycombinator.com/item?id=43899236) \| 🗓️ 2025-05-05
+| 🔥🔥: 152 \| 💬: [80](https://news.ycombinator.com/item?id=43899236) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -175,7 +175,7 @@ AWS推出的**Account Assessment for AWS Organizations**工具本用于审计跨
 <small>🔗 [github.com](https://github.com/evroon/bracket): Show HN: Bracket – selfhosted tournament system</small>
 
 
-| 🔥🔥: 121 \| 💬: [26](https://news.ycombinator.com/item?id=43895456) \| 🗓️ 2025-05-05
+| 🔥🔥: 126 \| 💬: [26](https://news.ycombinator.com/item?id=43895456) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -187,7 +187,7 @@ Bracket是一个基于**FastAPI**（异步Python）和**Next.js**构建的自托
 <small>🔗 [blog.wouterjanleys.com](https://blog.wouterjanleys.com/blog/no-instagram-no-privacy/): No Instagram, no privacy</small>
 
 
-| 🔥🔥: 112 \| 💬: [97](https://news.ycombinator.com/item?id=43896228) \| 🗓️ 2025-05-05
+| 🔥🔥: 117 \| 💬: [102](https://news.ycombinator.com/item?id=43896228) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -199,7 +199,7 @@ Bracket是一个基于**FastAPI**（异步Python）和**Next.js**构建的自托
 <small>🔗 [textquery.app](https://textquery.app/): Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL</small>
 
 
-| 🔥🔥: 112 \| 💬: [43](https://news.ycombinator.com/item?id=43897129) \| 🗓️ 2025-05-05
+| 🔥🔥: 117 \| 💬: [44](https://news.ycombinator.com/item?id=43897129) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -211,7 +211,7 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 <small>🔗 [tobylam.xyz](https://tobylam.xyz/2023/11/27/inverse-functions-legendre-part-1): Geometrically understanding calculus of inverse functions (2023)</small>
 
 
-| 🔥: 100 \| 💬: [4](https://news.ycombinator.com/item?id=43895852) \| 🗓️ 2025-05-05
+| 🔥🔥: 103 \| 💬: [4](https://news.ycombinator.com/item?id=43895852) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -221,35 +221,11 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="17"></a>17. 数学家证实126维空间存在奇异扭曲形状 
-<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/): Dimension 126 Contains Twisted Shapes, Mathematicians Prove</small>
-
-
-| 🔥: 94 \| 💬: [51](https://news.ycombinator.com/item?id=43896199) \| 🗓️ 2025-05-05
-
-
-<br />
-经过65年的研究，数学家最终证明**126维空间**中存在无法通过简单手术转化为球体的**奇异扭曲形状**。这一发现与**拓扑学**中高维球面的关系密切相关。此前，类似形状仅在2、6、14、30和62维中被发现。复旦大学和加州大学的团队通过计算机计算与理论结合，解决了这一遗留问题，标志着拓扑学领域一项重大突破。
-
----
-
-## <a name="18"></a>18. 西班牙和葡萄牙停电期间的互联网使用模式 
-<small>🔗 [blog.akamai-mpulse.com](https://blog.akamai-mpulse.com/blog/2025-05-03-iberian-power-outage/): Internet usage pattern during power outage in Spain and Portugal</small>
-
-
-| 🔥: 93 \| 💬: [100](https://news.ycombinator.com/item?id=43894363) \| 🗓️ 2025-05-05
-
-
-<br />
-本文分析了2025年4月28日伊比利亚半岛大停电期间的网络流量数据。**西班牙和葡萄牙**的桌面流量骤降80%，而移动流量仅减少40%，表明用户转向手机上网。**移动设备**主要通过蜂窝网络连接，WiFi使用量下降50%。用户主要访问**政府网站**和新闻平台，西班牙人更依赖官方信息，而葡萄牙人则频繁查询食品安全。手机电量比平时低10%，但随着电力恢复逐渐正常。此次事件凸显了分布式网络基础设施在紧急情况下的重要性。
-
----
-
-## <a name="19"></a>19. Databricks拟10亿美元收购开源数据库公司Neon 
+## <a name="17"></a>17. Databricks拟10亿美元收购开源数据库公司Neon 
 <small>🔗 [upstartsmedia.com](https://www.upstartsmedia.com/p/scoop-databricks-talks-to-acquire-neon): Databricks in talks to acquire startup Neon for about $1B</small>
 
 
-| 🔥: 90 \| 💬: [52](https://news.ycombinator.com/item?id=43899016) \| 🗓️ 2025-05-05
+| 🔥: 100 \| 💬: [63](https://news.ycombinator.com/item?id=43899016) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -257,11 +233,35 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
+## <a name="18"></a>18. 数学家证实126维空间存在奇异扭曲形状 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/): Dimension 126 Contains Twisted Shapes, Mathematicians Prove</small>
+
+
+| 🔥: 98 \| 💬: [55](https://news.ycombinator.com/item?id=43896199) \| 🗓️ 2025-05-05
+
+
+<br />
+经过65年的研究，数学家最终证明**126维空间**中存在无法通过简单手术转化为球体的**奇异扭曲形状**。这一发现与**拓扑学**中高维球面的关系密切相关。此前，类似形状仅在2、6、14、30和62维中被发现。复旦大学和加州大学的团队通过计算机计算与理论结合，解决了这一遗留问题，标志着拓扑学领域一项重大突破。
+
+---
+
+## <a name="19"></a>19. 西班牙和葡萄牙停电期间的互联网使用模式 
+<small>🔗 [blog.akamai-mpulse.com](https://blog.akamai-mpulse.com/blog/2025-05-03-iberian-power-outage/): Internet usage pattern during power outage in Spain and Portugal</small>
+
+
+| 🔥: 95 \| 💬: [101](https://news.ycombinator.com/item?id=43894363) \| 🗓️ 2025-05-05
+
+
+<br />
+本文分析了2025年4月28日伊比利亚半岛大停电期间的网络流量数据。**西班牙和葡萄牙**的桌面流量骤降80%，而移动流量仅减少40%，表明用户转向手机上网。**移动设备**主要通过蜂窝网络连接，WiFi使用量下降50%。用户主要访问**政府网站**和新闻平台，西班牙人更依赖官方信息，而葡萄牙人则频繁查询食品安全。手机电量比平时低10%，但随着电力恢复逐渐正常。此次事件凸显了分布式网络基础设施在紧急情况下的重要性。
+
+---
+
 ## <a name="20"></a>20. 雅达利2600经典游戏《冒险》的开发秘史 
 <small>🔗 [atariarchive.org](https://www.atariarchive.org/blog/adventure-march-1980/): History of "Adventure" for the Atari 2600</small>
 
 
-| 🔥: 87 \| 💬: [15](https://news.ycombinator.com/item?id=43895237) \| 🗓️ 2025-05-05
+| 🔥: 92 \| 💬: [17](https://news.ycombinator.com/item?id=43895237) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -273,7 +273,7 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 <small>🔗 [tomverbeure.github.io](https://tomverbeure.github.io/2025/05/04/TDS684B-CCD-Memory.html): A Tektronix TDS 684B Oscilloscope Uses CCD Analog Memory</small>
 
 
-| 🔥: 86 \| 💬: [51](https://news.ycombinator.com/item?id=43895622) \| 🗓️ 2025-05-05
+| 🔥: 89 \| 💬: [54](https://news.ycombinator.com/item?id=43895622) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -285,7 +285,7 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 <small>🔗 [arstechnica.com](https://arstechnica.com/space/2025/05/spacex-pushed-sniper-theory-with-the-feds-far-more-than-is-publicly-known/): SpaceX pushed "sniper" theory with the feds</small>
 
 
-| 🔥: 84 \| 💬: [49](https://news.ycombinator.com/item?id=43894678) \| 🗓️ 2025-05-05
+| 🔥: 87 \| 💬: [49](https://news.ycombinator.com/item?id=43894678) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -293,11 +293,23 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="23"></a>23. AI编程工具Cursor估值飙升至90亿美元 
+## <a name="23"></a>23. 你无法用 git clone 复制一个团队 
+<small>🔗 [virtualize.sh](https://virtualize.sh/blog/you-cant-git-clone-a-team/): You can't git clone a team</small>
+
+
+| 🔥: 83 \| 💬: [65](https://news.ycombinator.com/item?id=43895637) \| 🗓️ 2025-05-05
+
+
+<br />
+本文探讨了**深度技术领域**面临的人才危机：系统级开发（如**虚拟机管理程序**）需要跨领域专家，但这类人才稀缺且培养周期长。开源社区核心贡献者老龄化，而教育体系忽视底层技术，导致知识传承断层。作者提出解决方案：与高校合作培养早期人才、降低贡献门槛、加强行业与学术合作，并强调**资金与营销**对维持团队的重要性。最终指出，技术栈的复杂性并非最大挑战，**人才与文化传承**才是关键。
+
+---
+
+## <a name="24"></a>24. AI编程工具Cursor估值飙升至90亿美元 
 <small>🔗 [ft.com](https://www.ft.com/content/a7b34d53-a844-4e69-a55c-b9dee9a97dd2): Cursor hits $9B valuation</small>
 
 
-| 🔥: 79 \| 💬: [136](https://news.ycombinator.com/item?id=43895516) \| 🗓️ 2025-05-05
+| 🔥: 81 \| 💬: [139](https://news.ycombinator.com/item?id=43895516) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -305,7 +317,7 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="24"></a>24. 欧盟拟2027年起全面禁止匿名加密货币账户和隐私币 
+## <a name="25"></a>25. 欧盟拟2027年起全面禁止匿名加密货币账户和隐私币 
 <small>🔗 [cointelegraph.com](https://cointelegraph.com/news/eu-crypto-ban-anonymous-privacy-tokens-2027): EU to ban anonymous crypto accounts and privacy coins by 2027</small>
 
 
@@ -314,17 +326,5 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 <br />
 欧盟将于2027年实施新**反洗钱法规（AMLR）**，禁止金融机构和**加密货币服务商（CASPs）**处理匿名账户或**隐私币**（如门罗币、Zcash）。新规要求对超1000欧元交易进行客户尽职调查，并直接监管跨国运营的CASPs。此举是欧盟加强加密货币监管的一部分，旨在提升透明度并打击非法金融活动。
-
----
-
-## <a name="25"></a>25. 美国政府官员使用的定制版Signal应用TeleMessage遭黑客入侵 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/05/telemessage-a-modified-signal-clone-used-by-us-govt-officials-has-been-hacked/): TeleMessage, a modified Signal clone used by US govt. officials, has been hacked</small>
-
-
-| 🔥: 75 \| 💬: [6](https://news.ycombinator.com/item?id=43893550) \| 🗓️ 2025-05-05
-
-
-<br />
-黑客利用**TeleMessage**的漏洞窃取了美国官员及企业的**存档消息**和联系人信息。该应用提供定制版Signal、Telegram等加密通讯工具的存档服务，但曝光的聊天记录显示其**存储过程未端到端加密**。尽管内阁成员数据未泄露，但海关、Coinbase和银行信息被提取。母公司Smarsh暂未回应。
 
 ---
