@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共16条，具体内容您往下读...
+总共21条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [felixrieseberg.github.io](https://felixrieseberg.github.io/clippy/): Show HN: Clippy – 90s UI for local LLMs</small>
 
 
-| 🔥🔥: 472 \| 💬: [135](https://news.ycombinator.com/item?id=43905942) \| 🗓️ 2025-05-06
+| 🔥🔥: 527 \| 💬: [145](https://news.ycombinator.com/item?id=43905942) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/): Gemini 2.5 Pro Preview</small>
 
 
-| 🔥🔥: 385 \| 💬: [363](https://news.ycombinator.com/item?id=43906018) \| 🗓️ 2025-05-06
+| 🔥🔥: 416 \| 💬: [392](https://news.ycombinator.com/item?id=43906018) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -48,10 +48,10 @@ Google提前发布了**Gemini 2.5 Pro预览版（I/O版）**，重点提升了**
 ---
 
 ## <a name="3"></a>3. curl创始人怒斥AI生成的安全漏洞报告泛滥 
-<small>🔗 [linkedin.com](https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1): Curl: We still have not seen a single valid security report done with AI help</small>
+<small>🔗 [linkedin.com](https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1): Curl: We still have not seen a valid security report done with AI help</small>
 
 
-| 🔥🔥: 267 \| 💬: [128](https://news.ycombinator.com/item?id=43907376) \| 🗓️ 2025-05-06
+| 🔥🔥: 304 \| 💬: [152](https://news.ycombinator.com/item?id=43907376) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -63,7 +63,7 @@ curl创始人Daniel Stenberg发文表示，**将严打AI生成的无效安全报
 <small>🔗 [seangoedecke.com](https://www.seangoedecke.com/getting-things-done/): Getting things “done” in large tech companies</small>
 
 
-| 🔥🔥: 258 \| 💬: [177](https://news.ycombinator.com/item?id=43903741) \| 🗓️ 2025-05-06
+| 🔥🔥: 262 \| 💬: [180](https://news.ycombinator.com/item?id=43903741) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -75,7 +75,7 @@ curl创始人Daniel Stenberg发文表示，**将严打AI生成的无效安全报
 <small>🔗 [collabora.com](https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/): Matt Godbolt sold me on Rust by showing me C++</small>
 
 
-| 🔥🔥: 213 \| 💬: [156](https://news.ycombinator.com/item?id=43907820) \| 🗓️ 2025-05-06
+| 🔥🔥: 245 \| 💬: [183](https://news.ycombinator.com/item?id=43907820) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -87,7 +87,7 @@ curl创始人Daniel Stenberg发文表示，**将严打AI生成的无效安全报
 <small>🔗 [github.com](https://github.com/al13n321/nnd): Nnd – a TUI debugger alternative to GDB, LLDB</small>
 
 
-| 🔥🔥: 179 \| 💬: [57](https://news.ycombinator.com/item?id=43905185) \| 🗓️ 2025-05-06
+| 🔥🔥: 191 \| 💬: [59](https://news.ycombinator.com/item?id=43905185) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -101,7 +101,7 @@ Nnd是一款专为**Linux系统**设计的**终端用户界面（TUI）调试器
 <small>🔗 [trifectatech.org](https://trifectatech.org/blog/memory-safe-sudo-to-become-the-default-in-ubuntu/): Memory-safe sudo to become the default in Ubuntu</small>
 
 
-| 🔥🔥: 173 \| 💬: [180](https://news.ycombinator.com/item?id=43903853) \| 🗓️ 2025-05-06
+| 🔥🔥: 181 \| 💬: [197](https://news.ycombinator.com/item?id=43903853) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -113,7 +113,7 @@ Nnd是一款专为**Linux系统**设计的**终端用户界面（TUI）调试器
 <small>🔗 [accent-strength.boldvoice.com](https://accent-strength.boldvoice.com/): Accents in latent spaces: How AI hears accent strength in English</small>
 
 
-| 🔥🔥: 143 \| 💬: [68](https://news.ycombinator.com/item?id=43905299) \| 🗓️ 2025-05-06
+| 🔥🔥: 157 \| 💬: [75](https://news.ycombinator.com/item?id=43905299) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -122,10 +122,10 @@ BoldVoice团队利用**口音指纹**（768维嵌入向量）构建潜在空间�
 ---
 
 ## <a name="9"></a>9. 让莱姆病不再可怕 
-<small>🔗 [news.northwestern.edu](https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/): Taking the bite out of Lyme disease</small>
+<small>🔗 [news.northwestern.edu](https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/): New studies offer insight into Lyme disease’s treatment, lingering symptoms</small>
 
 
-| 🔥🔥: 138 \| 💬: [74](https://news.ycombinator.com/item?id=43903959) \| 🗓️ 2025-05-06
+| 🔥🔥: 143 \| 💬: [75](https://news.ycombinator.com/item?id=43903959) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -133,11 +133,23 @@ BoldVoice团队利用**口音指纹**（768维嵌入向量）构建潜在空间�
 
 ---
 
-## <a name="10"></a>10. 土耳其字母“İ”问题及其重要性（2012年） 
+## <a name="10"></a>10. 特朗普团队使用的TeleMessage可获取明文聊天记录 
+<small>🔗 [micahflee.com](https://micahflee.com/despite-misleading-marketing-israeli-company-telemessage-used-by-trump-officials-can-access-plaintext-chat-logs/): TeleMessage, used by Trump officials, can access plaintext chat logs</small>
+
+
+| 🔥🔥: 116 \| 💬: [21](https://news.ycombinator.com/item?id=43909220) \| 🗓️ 2025-05-06
+
+
+<br />
+调查发现，TeleMessage公司提供的**篡改版Signal应用TM SGNL**存在严重安全隐患。该应用虽声称支持端到端加密，实则会将用户**明文聊天记录**上传至其服务器，且服务器托管于公共AWS云，可能被第三方（包括以色列情报部门）访问。分析其安卓源代码显示，应用通过同步服务定期将解密后的消息发送至TeleMessage服务器，完全破坏了Signal原有的加密保护。此前，该公司已因黑客攻击导致数据泄露，引发国家安全担忧。
+
+---
+
+## <a name="11"></a>11. 土耳其字母“İ”问题及其重要性（2012年） 
 <small>🔗 [haacked.com](https://haacked.com/archive/2012/07/05/turkish-i-problem-and-why-you-should-care.aspx/): The Turkish İ Problem and Why You Should Care (2012)</small>
 
 
-| 🔥: 96 \| 💬: [136](https://news.ycombinator.com/item?id=43902869) \| 🗓️ 2025-05-06
+| 🔥: 98 \| 💬: [137](https://news.ycombinator.com/item?id=43902869) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -145,11 +157,11 @@ BoldVoice团队利用**口音指纹**（768维嵌入向量）构建潜在空间�
 
 ---
 
-## <a name="11"></a>11. 命题即类型：编程与逻辑的深刻联系 
+## <a name="12"></a>12. 命题即类型：编程与逻辑的深刻联系 
 <small>🔗 [homepages.inf.ed.ac.uk](https://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf): Propositions as Types (2014) [pdf]</small>
 
 
-| 🔥: 87 \| 💬: [46](https://news.ycombinator.com/item?id=43903945) \| 🗓️ 2025-05-06
+| 🔥: 91 \| 💬: [49](https://news.ycombinator.com/item?id=43903945) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -157,11 +169,11 @@ BoldVoice团队利用**口音指纹**（768维嵌入向量）构建潜在空间�
 
 ---
 
-## <a name="12"></a>12. Skype即将停用，用户可迁移至Teams 
+## <a name="13"></a>13. Skype即将停用，用户可迁移至Teams 
 <small>🔗 [microsoft.com](https://www.microsoft.com/en-us/microsoft-365/blog/2025/02/28/the-next-chapter-moving-from-skype-to-microsoft-teams/): RIP Skype</small>
 
 
-| 🔥: 85 \| 💬: [78](https://news.ycombinator.com/item?id=43902938) \| 🗓️ 2025-05-06
+| 🔥: 87 \| 💬: [79](https://news.ycombinator.com/item?id=43902938) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -173,11 +185,11 @@ BoldVoice团队利用**口音指纹**（768维嵌入向量）构建潜在空间�
 
 ---
 
-## <a name="13"></a>13. 用自然语言构建机器学习模型：Plexe 
+## <a name="14"></a>14. 用自然语言构建机器学习模型：Plexe 
 <small>🔗 [github.com](https://github.com/plexe-ai/plexe): Show HN: Plexe – ML Models from a Prompt</small>
 
 
-| 🔥: 69 \| 💬: [35](https://news.ycombinator.com/item?id=43906346) \| 🗓️ 2025-05-06
+| 🔥: 76 \| 💬: [37](https://news.ycombinator.com/item?id=43906346) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -185,23 +197,35 @@ Plexe 是一个通过**自然语言描述**快速生成机器学习模型的工�
 
 ---
 
-## <a name="14"></a>14. 特朗普团队使用的TeleMessage可获取明文聊天记录 
-<small>🔗 [micahflee.com](https://micahflee.com/despite-misleading-marketing-israeli-company-telemessage-used-by-trump-officials-can-access-plaintext-chat-logs/): TeleMessage, used by Trump officials, can access plaintext chat logs</small>
+## <a name="15"></a>15. iOS版Kindle应用新增“获取书籍”按钮，顺应App Store新规 
+<small>🔗 [theverge.com](https://www.theverge.com/news/661719/amazon-app-ios-apple-iphone-ipad-kindle-buy-books): iOS Kindle app now has a ‘get book’ button after changes to App Store rules</small>
 
 
-| 🔥: 62 \| 💬: [8](https://news.ycombinator.com/item?id=43909220) \| 🗓️ 2025-05-06
+| 🔥: 70 \| 💬: [41](https://news.ycombinator.com/item?id=43909432) \| 🗓️ 2025-05-06
 
 
 <br />
-调查发现，TeleMessage公司提供的**篡改版Signal应用TM SGNL**存在严重安全隐患。该应用虽声称支持端到端加密，实则会将用户**明文聊天记录**上传至其服务器，且服务器托管于公共AWS云，可能被第三方（包括以色列情报部门）访问。分析其安卓源代码显示，应用通过同步服务定期将解密后的消息发送至TeleMessage服务器，完全破坏了Signal原有的加密保护。此前，该公司已因黑客攻击导致数据泄露，引发国家安全担忧。
+亚马逊更新了iOS版Kindle应用，新增**“获取书籍”**按钮，允许用户通过浏览器直接购买电子书。这一改动源于4月30日Epic诉苹果案裁决后，苹果被迫放宽支付限制，不再对应用外交易收取27%佣金。此前因苹果抽成规则，Kindle应用内长期屏蔽购书功能，用户需跳转网页完成购买。亚马逊表示此举旨在优化体验，但若苹果上诉成功，此功能可能再度关闭。**电子书市场**竞争与**平台抽成**矛盾仍是焦点。
 
 ---
 
-## <a name="15"></a>15. Godot高性能地形系统MTerrain：开源插件助力开放世界开发 
+## <a name="16"></a>16. 用Rust实现的POSIX/Bash兼容Shell：Brush 
+<small>🔗 [github.com](https://github.com/reubeno/brush): Brush (Bo(u)rn(e) RUsty SHell) a POSIX and Bash-Compatible Shell in Rust</small>
+
+
+| 🔥: 65 \| 💬: [26](https://news.ycombinator.com/item?id=43908368) \| 🗓️ 2025-05-06
+
+
+<br />
+Brush（**Bo(u)rn(e) RUsty SHell**）是一个基于Rust开发的**POSIX与Bash兼容**的Shell，支持Linux、macOS及实验性Windows/WSL环境。它已具备日常交互使用能力，可运行多数sh/bash脚本，但暂不建议用于生产环境。项目采用**MIT许可证**，欢迎贡献。安装方式包括`cargo install`或通过Nix/Arch Linux包管理器。已知局限包括部分`set/shopt`功能未完全实现，测试覆盖550+用例。依赖关键库如`reedline`和`tokio`，并参考了`nushell`等同类项目。
+
+---
+
+## <a name="17"></a>17. Godot高性能地形系统MTerrain：开源插件助力开放世界开发 
 <small>🔗 [github.com](https://github.com/mohsenph69/Godot-MTerrain-plugin): MTerrain: Optimized terrain system and editor for Godot</small>
 
 
-| 🔥: 58 \| 💬: [4](https://news.ycombinator.com/item?id=43904865) \| 🗓️ 2025-05-06
+| 🔥: 60 \| 💬: [4](https://news.ycombinator.com/item?id=43904865) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -209,14 +233,52 @@ MTerrain是一款为Godot引擎设计的**地形系统扩展插件**，支持生
 
 ---
 
-## <a name="16"></a>16. 开源外发Webhook与事件目的地基础设施Outpost 
+## <a name="18"></a>18. 开源外发Webhook与事件目的地基础设施Outpost 
 <small>🔗 [github.com](https://github.com/hookdeck/outpost): Show HN: Outpost – OSS infra for outbound webhooks and event destinations</small>
 
 
-| 🔥: 55 \| 💬: [8](https://news.ycombinator.com/item?id=43904511) \| 🗓️ 2025-05-06
+| 🔥: 57 \| 💬: [8](https://news.ycombinator.com/item?id=43904511) \| 🗓️ 2025-05-06
 
 
 <br />
 Outpost是一个**自托管开源**基础设施，帮助开发者轻松集成**外发Webhook**和多种**事件目的地**（如Amazon EventBridge、AWS SQS、GCP Pub/Sub等）。支持高吞吐、低成本的运行环境，依赖Redis和PostgreSQL等组件，提供**至少一次投递保证**、多租户管理和用户门户。通过Docker快速部署，含API、SDK及自动重试功能，遵循Apache-2.0协议。
+
+---
+
+## <a name="19"></a>19. 氛围编程很爽，但氛围重构才是王道 
+<small>🔗 [dawidmakowski.com](https://dawidmakowski.com/en/2025/04/vibe-coding-is-fun-but-vibe-refactoring-pays-the-bills/): Vibe Coding Is Fun–But Vibe Refactoring Pays the Bills</small>
+
+
+| 🔥: 56 \| 💬: [50](https://news.ycombinator.com/item?id=43904664) \| 🗓️ 2025-05-06
+
+
+<br />
+文章对比了**氛围编程**（即兴高效编码的快感）与**氛围重构**（利用相同能量优化代码的长期价值）。后者通过每周15-20分钟无压力的代码探索，清理技术债务（如未完成的TODO、冗余代码），借助IDE提示和LLM建议逐步提升质量。关键收益包括**稳定性累积**、部署风险降低和团队协作顺畅。强调以轻松态度持续实践，将维护转化为高回报的探索。最终结论：氛围编程带来短暂激情，**氛围重构**创造持久价值。
+
+---
+
+## <a name="20"></a>20. 我为何如此厌恶"氛围编程"这个说法 
+<small>🔗 [artiss.blog](https://artiss.blog/2025/03/i-so-hate-the-phrase-vibe-coding/): I so hate the phrase "vibe coding"</small>
+
+
+| 🔥: 51 \| 💬: [61](https://news.ycombinator.com/item?id=43904356) \| 🗓️ 2025-05-06
+
+
+<br />
+作者David Artiss批评了当下流行的术语"**氛围编程**"（vibe coding），即通过AI生成代码而无需深入理解其原理。他指出，这种做法本质上是**剽窃开源社区**的成果，且生成的代码质量低劣，后期调试反而更耗时。  
+
+他强调，优秀的代码如同**艺术**，而AI生成的代码不仅缺乏艺术性，还可能存在安全隐患（如示例插件中的13个漏洞）。最后，他呼吁标记AI生成的代码并保护开源代码不被AI滥用。
+
+---
+
+## <a name="21"></a>21. 美国俄勒冈州立大学开源实验室面临资金危机 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/05/02/osl_short_of_money/): Oregon State University's Open Source Lab Is Running on Fumes</small>
+
+
+| 🔥: 51 \| 💬: [6](https://news.ycombinator.com/item?id=43904854) \| 🗓️ 2025-05-06
+
+
+<br />
+由于美国联邦教育经费削减，**俄勒冈州立大学开源实验室（OSL）**正面临25万美元的资金缺口，威胁其22年的运营。该实验室曾为**Mozilla Firefox**、**Apache软件基金会**等知名项目提供关键支持，目前仍托管Drupal、Gentoo Linux等数百个开源项目。负责人Lance Albertson表示，资金短缺可能迫使这一**中立开源孵化平台**关闭。社区反响强烈，多名开发者回忆其职业影响，呼吁企业援助（如Meta）。校方警告联邦经费削减将直接冲击研究机构。
 
 ---
