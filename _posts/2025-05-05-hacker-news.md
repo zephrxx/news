@@ -27,7 +27,7 @@ tags:
 <small>🔗 [afterbabel.com](https://www.afterbabel.com/p/on-the-death-of-daydreaming): The Death of Daydreaming</small>
 
 
-| 🔥🔥: 562 \| 💬: [219](https://news.ycombinator.com/item?id=43894305) \| 🗓️ 2025-05-05
+| 🔥🔥: 574 \| 💬: [221](https://news.ycombinator.com/item?id=43894305) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [bjango.com](https://bjango.com/articles/daftpunkvocaleffects/): The vocal effects of Daft Punk</small>
 
 
-| 🔥🔥: 377 \| 💬: [92](https://news.ycombinator.com/item?id=43893601) \| 🗓️ 2025-05-05
+| 🔥🔥: 384 \| 💬: [97](https://news.ycombinator.com/item?id=43893601) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -51,7 +51,7 @@ Daft Punk在其作品中广泛运用了**声码器**、**Talk Box**和**和声�
 <small>🔗 [wired.com](https://www.wired.com/story/meta-lawsuit-copyright-hearing-artificial-intelligence/): Judge said Meta illegally used books to build its AI</small>
 
 
-| 🔥🔥: 348 \| 💬: [299](https://news.ycombinator.com/item?id=43893762) \| 🗓️ 2025-05-05
+| 🔥🔥: 354 \| 💬: [307](https://news.ycombinator.com/item?id=43893762) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -63,7 +63,7 @@ Meta与包括Sarah Silverman、Ta-Nehisi Coates在内的作家团体陷入版权
 <small>🔗 [minimaxir.com](https://minimaxir.com/2025/05/llm-use/): As an experienced LLM user, I don't use generative LLMs often</small>
 
 
-| 🔥🔥: 280 \| 💬: [154](https://news.ycombinator.com/item?id=43897320) \| 🗓️ 2025-05-05
+| 🔥🔥: 289 \| 💬: [155](https://news.ycombinator.com/item?id=43897320) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -75,7 +75,7 @@ Meta与包括Sarah Silverman、Ta-Nehisi Coates在内的作家团体陷入版权
 <small>🔗 [github.com](https://github.com/KoljaB/RealtimeVoiceChat): Show HN: Real-time AI Voice Chat at ~500ms Latency</small>
 
 
-| 🔥🔥: 264 \| 💬: [114](https://news.ycombinator.com/item?id=43899028) \| 🗓️ 2025-05-05
+| 🔥🔥: 287 \| 💬: [127](https://news.ycombinator.com/item?id=43899028) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -87,7 +87,7 @@ Meta与包括Sarah Silverman、Ta-Nehisi Coates在内的作家团体陷入版权
 <small>🔗 [vectorvfs.readthedocs.io](https://vectorvfs.readthedocs.io/en/latest/): Show HN: VectorVFS, your filesystem as a vector database</small>
 
 
-| 🔥🔥: 222 \| 💬: [107](https://news.ycombinator.com/item?id=43896011) \| 🗓️ 2025-05-05
+| 🔥🔥: 227 \| 💬: [109](https://news.ycombinator.com/item?id=43896011) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -95,23 +95,11 @@ VectorVFS是一款**Python工具包**，通过Linux的**虚拟文件系统（VFS
 
 ---
 
-## <a name="7"></a>7. 特朗普宣布对"外国制作"电影征收100%关税 
-<small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/may/04/trump-tariffs-foreign-movies): Trump announces 100% tariffs on movies ‘produced in foreign lands’</small>
-
-
-| 🔥🔥: 200 \| 💬: [450](https://news.ycombinator.com/item?id=43893310) \| 🗓️ 2025-05-05
-
-
-<br />
-美国前总统特朗普在社交媒体Truth Social上宣布，将对所有**"外国制作"电影**征收100%关税，称此举旨在保护**美国电影产业**，并指责其他国家通过税收优惠吸引美国制片方，构成**"国家安全威胁"**。美国商务部长回应已着手实施，但未透露细节。澳大利亚和新西兰政府表示将捍卫本国影视业利益。此前，特朗普的关税政策已引发中美贸易摩擦，中国减少了美国电影进口配额。专家警告，此举可能引发报复性措施，重创美国电影行业。
-
----
-
-## <a name="8"></a>8. 2024年拥有Pi-Hole的妙处 
+## <a name="7"></a>7. 2024年拥有Pi-Hole的妙处 
 <small>🔗 [den.dev](https://den.dev/blog/pihole/): The Beauty of Having a Pi-Hole (2024)</small>
 
 
-| 🔥🔥: 196 \| 💬: [144](https://news.ycombinator.com/item?id=43894175) \| 🗓️ 2025-05-05
+| 🔥🔥: 211 \| 💬: [146](https://news.ycombinator.com/item?id=43894175) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -123,47 +111,11 @@ VectorVFS是一款**Python工具包**，通过Linux的**虚拟文件系统（VFS
 
 ---
 
-## <a name="9"></a>9. 2025年网络犯罪分子的敛财新招 
-<small>🔗 [vin01.github.io](https://vin01.github.io/piptagole/cybcecrime/security/cybersecurity/2025/05/05/state-cyber-security.html): How are cyber criminals rolling in 2025?</small>
-
-
-| 🔥🔥: 192 \| 💬: [67](https://news.ycombinator.com/item?id=43896188) \| 🗓️ 2025-05-05
-
-
-<br />
-网络犯罪分子正利用**政府机构**、**高校**等组织的薄弱网络安全防线，将其作为免费内容托管平台。他们通过SEO优化和**可信域名**（如Google服务）绕过企业安全工具检测，散布虚假链接。攻击手段包括过时的WordPress插件、缓存投毒和子域名劫持，最终通过多层跳转链接牟利或实施钓鱼（如针对儿童的游戏货币“**Robux**”诈骗）。尽管部分漏洞已修复，但攻击者仍持续进化，传统防御措施难以应对。
-
----
-
-## <a name="10"></a>10. AWS安全工具反成漏洞源头：跨账户权限升级风险曝光 
-<small>🔗 [token.security](https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk): AWS Built a Security Tool. It Introduced a Security Risk</small>
-
-
-| 🔥🔥: 191 \| 💬: [76](https://news.ycombinator.com/item?id=43893906) \| 🗓️ 2025-05-05
-
-
-<br />
-AWS推出的**Account Assessment for AWS Organizations**工具本用于审计跨账户访问策略，却因部署指南缺陷导致严重安全隐患。官方文档错误建议将核心**hub角色**部署在非管理账户（如开发环境），使得低安全账户能通过信任链获取高敏感账户权限。攻击者一旦入侵开发账户，可借此横向移动至生产和管理账户，列举IAM角色、S3存储桶等关键资源。AWS于2025年1月28日更新文档，明确要求将hub角色部署在与管理账户同等级的安全环境中。已部署该工具的企业需检查角色创建时间，若早于修复日期应立即卸载并重新配置。
-
----
-
-## <a name="11"></a>11. 冷战情报中的“潜伏狡辩”陷阱 
-<small>🔗 [kucharski.substack.com](https://kucharski.substack.com/p/possibly-a-serious-possibility): Possibly a Serious Possibility</small>
-
-
-| 🔥🔥: 188 \| 💬: [80](https://news.ycombinator.com/item?id=43898380) \| 🗓️ 2025-05-05
-
-
-<br />
-1951年，CIA分析师Sherman Kent发现术语**“严重可能性”**在评估苏联入侵南斯拉夫风险时引发混乱——同事对其概率的理解从20%到80%不等。这暴露了情报界长期存在的**语言模糊性**问题：专业术语（如“可能”“很可能”）缺乏统一量化标准，导致决策误判。Kent将情报分为事实、可推断与不可推断三类，指出后两类因不确定性易滋生**“潜伏狡辩”**（如法律中的“非随意怀疑”），即用权威措辞推卸责任。近年英国等尝试用概率标尺（如“极可能”=80%-95%）规范表述，但人类对不确定性的沟通仍面临挑战。
-
----
-
-## <a name="12"></a>12. 2024年：用systemd替代Kubernetes的实践 
+## <a name="8"></a>8. 2024年：用systemd替代Kubernetes的实践 
 <small>🔗 [blog.yaakov.online](https://blog.yaakov.online/replacing-kubernetes-with-systemd/): Replacing Kubernetes with systemd (2024)</small>
 
 
-| 🔥🔥: 181 \| 💬: [99](https://news.ycombinator.com/item?id=43899236) \| 🗓️ 2025-05-05
+| 🔥🔥: 206 \| 💬: [106](https://news.ycombinator.com/item?id=43899236) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -171,11 +123,59 @@ AWS推出的**Account Assessment for AWS Organizations**工具本用于审计跨
 
 ---
 
+## <a name="9"></a>9. 特朗普宣布对"外国制作"电影征收100%关税 
+<small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/may/04/trump-tariffs-foreign-movies): Trump announces 100% tariffs on movies ‘produced in foreign lands’</small>
+
+
+| 🔥🔥: 202 \| 💬: [454](https://news.ycombinator.com/item?id=43893310) \| 🗓️ 2025-05-05
+
+
+<br />
+美国前总统特朗普在社交媒体Truth Social上宣布，将对所有**"外国制作"电影**征收100%关税，称此举旨在保护**美国电影产业**，并指责其他国家通过税收优惠吸引美国制片方，构成**"国家安全威胁"**。美国商务部长回应已着手实施，但未透露细节。澳大利亚和新西兰政府表示将捍卫本国影视业利益。此前，特朗普的关税政策已引发中美贸易摩擦，中国减少了美国电影进口配额。专家警告，此举可能引发报复性措施，重创美国电影行业。
+
+---
+
+## <a name="10"></a>10. 2025年网络犯罪分子的敛财新招 
+<small>🔗 [vin01.github.io](https://vin01.github.io/piptagole/cybcecrime/security/cybersecurity/2025/05/05/state-cyber-security.html): How are cyber criminals rolling in 2025?</small>
+
+
+| 🔥🔥: 201 \| 💬: [68](https://news.ycombinator.com/item?id=43896188) \| 🗓️ 2025-05-05
+
+
+<br />
+网络犯罪分子正利用**政府机构**、**高校**等组织的薄弱网络安全防线，将其作为免费内容托管平台。他们通过SEO优化和**可信域名**（如Google服务）绕过企业安全工具检测，散布虚假链接。攻击手段包括过时的WordPress插件、缓存投毒和子域名劫持，最终通过多层跳转链接牟利或实施钓鱼（如针对儿童的游戏货币“**Robux**”诈骗）。尽管部分漏洞已修复，但攻击者仍持续进化，传统防御措施难以应对。
+
+---
+
+## <a name="11"></a>11. 冷战情报中的“潜伏狡辩”陷阱 
+<small>🔗 [kucharski.substack.com](https://kucharski.substack.com/p/possibly-a-serious-possibility): Possibly a Serious Possibility</small>
+
+
+| 🔥🔥: 199 \| 💬: [86](https://news.ycombinator.com/item?id=43898380) \| 🗓️ 2025-05-05
+
+
+<br />
+1951年，CIA分析师Sherman Kent发现术语**“严重可能性”**在评估苏联入侵南斯拉夫风险时引发混乱——同事对其概率的理解从20%到80%不等。这暴露了情报界长期存在的**语言模糊性**问题：专业术语（如“可能”“很可能”）缺乏统一量化标准，导致决策误判。Kent将情报分为事实、可推断与不可推断三类，指出后两类因不确定性易滋生**“潜伏狡辩”**（如法律中的“非随意怀疑”），即用权威措辞推卸责任。近年英国等尝试用概率标尺（如“极可能”=80%-95%）规范表述，但人类对不确定性的沟通仍面临挑战。
+
+---
+
+## <a name="12"></a>12. AWS安全工具反成漏洞源头：跨账户权限升级风险曝光 
+<small>🔗 [token.security](https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk): AWS Built a Security Tool. It Introduced a Security Risk</small>
+
+
+| 🔥🔥: 194 \| 💬: [77](https://news.ycombinator.com/item?id=43893906) \| 🗓️ 2025-05-05
+
+
+<br />
+AWS推出的**Account Assessment for AWS Organizations**工具本用于审计跨账户访问策略，却因部署指南缺陷导致严重安全隐患。官方文档错误建议将核心**hub角色**部署在非管理账户（如开发环境），使得低安全账户能通过信任链获取高敏感账户权限。攻击者一旦入侵开发账户，可借此横向移动至生产和管理账户，列举IAM角色、S3存储桶等关键资源。AWS于2025年1月28日更新文档，明确要求将hub角色部署在与管理账户同等级的安全环境中。已部署该工具的企业需检查角色创建时间，若早于修复日期应立即卸载并重新配置。
+
+---
+
 ## <a name="13"></a>13. 自托管赛事管理系统Bracket：支持多赛制的开源解决方案 
 <small>🔗 [github.com](https://github.com/evroon/bracket): Show HN: Bracket – selfhosted tournament system</small>
 
 
-| 🔥🔥: 135 \| 💬: [28](https://news.ycombinator.com/item?id=43895456) \| 🗓️ 2025-05-05
+| 🔥🔥: 137 \| 💬: [28](https://news.ycombinator.com/item?id=43895456) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -183,23 +183,11 @@ Bracket是一个基于**FastAPI**（异步Python）和**Next.js**构建的自托
 
 ---
 
-## <a name="14"></a>14. 用SQL轻松查询CSV/JSON/Excel数据的本地工具 
-<small>🔗 [textquery.app](https://textquery.app/): Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL</small>
-
-
-| 🔥🔥: 127 \| 💬: [47](https://news.ycombinator.com/item?id=43897129) \| 🗓️ 2025-05-05
-
-
-<br />
-TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可视化CSV/JSON/XLSX等文件数据，无需编写代码或定义结构。提供**智能SQL编辑器**（自动补全、历史记录）、多种图表（折线/饼图等）及数据导出功能。所有操作在本地完成，**保障数据隐私**，支持一次性买断授权。免费版可试用，适合数据分析师快速处理本地文件。
-
----
-
-## <a name="15"></a>15. Databricks拟10亿美元收购开源数据库公司Neon 
+## <a name="14"></a>14. Databricks拟10亿美元收购开源数据库公司Neon 
 <small>🔗 [upstartsmedia.com](https://www.upstartsmedia.com/p/scoop-databricks-talks-to-acquire-neon): Databricks in talks to acquire startup Neon for about $1B</small>
 
 
-| 🔥🔥: 123 \| 💬: [76](https://news.ycombinator.com/item?id=43899016) \| 🗓️ 2025-05-05
+| 🔥🔥: 132 \| 💬: [86](https://news.ycombinator.com/item?id=43899016) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -207,11 +195,23 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
+## <a name="15"></a>15. 用SQL轻松查询CSV/JSON/Excel数据的本地工具 
+<small>🔗 [textquery.app](https://textquery.app/): Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL</small>
+
+
+| 🔥🔥: 129 \| 💬: [49](https://news.ycombinator.com/item?id=43897129) \| 🗓️ 2025-05-05
+
+
+<br />
+TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可视化CSV/JSON/XLSX等文件数据，无需编写代码或定义结构。提供**智能SQL编辑器**（自动补全、历史记录）、多种图表（折线/饼图等）及数据导出功能。所有操作在本地完成，**保障数据隐私**，支持一次性买断授权。免费版可试用，适合数据分析师快速处理本地文件。
+
+---
+
 ## <a name="16"></a>16. 没有Instagram，就没有隐私 
 <small>🔗 [blog.wouterjanleys.com](https://blog.wouterjanleys.com/blog/no-instagram-no-privacy/): No Instagram, no privacy</small>
 
 
-| 🔥🔥: 119 \| 💬: [102](https://news.ycombinator.com/item?id=43896228) \| 🗓️ 2025-05-05
+| 🔥🔥: 119 \| 💬: [103](https://news.ycombinator.com/item?id=43896228) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -219,11 +219,23 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="17"></a>17. 从几何视角理解反函数的微积分（2023） 
+## <a name="17"></a>17. 谷歌拥有我大部分邮件，因为它拥有你们所有人的邮件（2014年） 
+<small>🔗 [mako.cc](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours): Google has most of my email because it has all of yours (2014)</small>
+
+
+| 🔥🔥: 113 \| 💬: [63](https://news.ycombinator.com/item?id=43901204) \| 🗓️ 2025-05-05
+
+
+<br />
+作者运营个人邮件服务器15年以保护隐私，却发现**即使不使用Gmail**，谷歌仍可能通过收发件人获取其邮件。分析显示，**约三分之一收件箱邮件**经谷歌服务器中转，而回复的邮件中**57%流向谷歌**。数据表明，**隐私自主权在通信网络中难以完全实现**，即便自建服务器，谷歌仍间接掌控大量个人通信。文章呼吁读者反思：是否愿让谷歌掌握所有邮件？分析代码已开源。
+
+---
+
+## <a name="18"></a>18. 从几何视角理解反函数的微积分（2023） 
 <small>🔗 [tobylam.xyz](https://tobylam.xyz/2023/11/27/inverse-functions-legendre-part-1): Geometrically understanding calculus of inverse functions (2023)</small>
 
 
-| 🔥🔥: 109 \| 💬: [4](https://news.ycombinator.com/item?id=43895852) \| 🗓️ 2025-05-05
+| 🔥🔥: 111 \| 💬: [4](https://news.ycombinator.com/item?id=43895852) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -233,11 +245,11 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="18"></a>18. 数学家证实126维空间存在奇异扭曲形状 
+## <a name="19"></a>19. 数学家证实126维空间存在奇异扭曲形状 
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/): Dimension 126 Contains Twisted Shapes, Mathematicians Prove</small>
 
 
-| 🔥🔥: 104 \| 💬: [61](https://news.ycombinator.com/item?id=43896199) \| 🗓️ 2025-05-05
+| 🔥🔥: 106 \| 💬: [62](https://news.ycombinator.com/item?id=43896199) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -245,11 +257,11 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="19"></a>19. 雅达利2600经典游戏《冒险》的开发秘史 
+## <a name="20"></a>20. 雅达利2600经典游戏《冒险》的开发秘史 
 <small>🔗 [atariarchive.org](https://www.atariarchive.org/blog/adventure-march-1980/): History of “Adventure” for the Atari 2600</small>
 
 
-| 🔥: 98 \| 💬: [18](https://news.ycombinator.com/item?id=43895237) \| 🗓️ 2025-05-05
+| 🔥: 98 \| 💬: [20](https://news.ycombinator.com/item?id=43895237) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -257,7 +269,7 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="20"></a>20. 西班牙和葡萄牙停电期间的互联网使用模式 
+## <a name="21"></a>21. 西班牙和葡萄牙停电期间的互联网使用模式 
 <small>🔗 [blog.akamai-mpulse.com](https://blog.akamai-mpulse.com/blog/2025-05-03-iberian-power-outage/): Internet usage pattern during power outage in Spain and Portugal</small>
 
 
@@ -269,11 +281,11 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="21"></a>21. 你无法用 git clone 复制一个团队 
+## <a name="22"></a>22. 你无法用 git clone 复制一个团队 
 <small>🔗 [virtualize.sh](https://virtualize.sh/blog/you-cant-git-clone-a-team/): You can't git clone a team</small>
 
 
-| 🔥: 94 \| 💬: [71](https://news.ycombinator.com/item?id=43895637) \| 🗓️ 2025-05-05
+| 🔥: 95 \| 💬: [72](https://news.ycombinator.com/item?id=43895637) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -281,11 +293,11 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="22"></a>22. 泰克TDS 684B示波器：揭秘CCD模拟存储技术 
+## <a name="23"></a>23. 泰克TDS 684B示波器：揭秘CCD模拟存储技术 
 <small>🔗 [tomverbeure.github.io](https://tomverbeure.github.io/2025/05/04/TDS684B-CCD-Memory.html): A Tektronix TDS 684B Oscilloscope Uses CCD Analog Memory</small>
 
 
-| 🔥: 93 \| 💬: [56](https://news.ycombinator.com/item?id=43895622) \| 🗓️ 2025-05-05
+| 🔥: 94 \| 💬: [56](https://news.ycombinator.com/item?id=43895622) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -293,23 +305,11 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="23"></a>23. 谷歌拥有我大部分邮件，因为它拥有你们所有人的邮件（2014年） 
-<small>🔗 [mako.cc](https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours): Google has most of my email because it has all of yours (2014)</small>
-
-
-| 🔥: 91 \| 💬: [54](https://news.ycombinator.com/item?id=43901204) \| 🗓️ 2025-05-05
-
-
-<br />
-作者运营个人邮件服务器15年以保护隐私，却发现**即使不使用Gmail**，谷歌仍可能通过收发件人获取其邮件。分析显示，**约三分之一收件箱邮件**经谷歌服务器中转，而回复的邮件中**57%流向谷歌**。数据表明，**隐私自主权在通信网络中难以完全实现**，即便自建服务器，谷歌仍间接掌控大量个人通信。文章呼吁读者反思：是否愿让谷歌掌握所有邮件？分析代码已开源。
-
----
-
 ## <a name="24"></a>24. SpaceX曾向联邦调查局提出“狙击手”炸毁火箭的离奇理论 
 <small>🔗 [arstechnica.com](https://arstechnica.com/space/2025/05/spacex-pushed-sniper-theory-with-the-feds-far-more-than-is-publicly-known/): SpaceX pushed "sniper" theory with the feds</small>
 
 
-| 🔥: 89 \| 💬: [49](https://news.ycombinator.com/item?id=43894678) \| 🗓️ 2025-05-05
+| 🔥: 90 \| 💬: [49](https://news.ycombinator.com/item?id=43894678) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -321,7 +321,7 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 <small>🔗 [ft.com](https://www.ft.com/content/a7b34d53-a844-4e69-a55c-b9dee9a97dd2): Cursor hits $9B valuation</small>
 
 
-| 🔥: 82 \| 💬: [139](https://news.ycombinator.com/item?id=43895516) \| 🗓️ 2025-05-05
+| 🔥: 84 \| 💬: [141](https://news.ycombinator.com/item?id=43895516) \| 🗓️ 2025-05-05
 
 
 <br />
