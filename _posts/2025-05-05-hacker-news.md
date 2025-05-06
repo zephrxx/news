@@ -12,11 +12,11 @@ tags:
 1. Daft Punk的声码效果解析；
 1. 法官裁定Meta非法使用书籍构建AI模型；
 1. 作为资深LLM用户，我为何不常使用生成式大模型；
-1. 特朗普宣布对"外国制作"电影征收100%关税；
+1. 将文件系统变为向量数据库：VectorVFS轻量级工具；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [afterbabel.com](https://www.afterbabel.com/p/on-the-death-of-daydreaming): The Death of Daydreaming</small>
 
 
-| 🔥🔥: 505 \| 💬: [203](https://news.ycombinator.com/item?id=43894305) \| 🗓️ 2025-05-05
+| 🔥🔥: 518 \| 💬: [207](https://news.ycombinator.com/item?id=43894305) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [bjango.com](https://bjango.com/articles/daftpunkvocaleffects/): The vocal effects of Daft Punk</small>
 
 
-| 🔥🔥: 343 \| 💬: [72](https://news.ycombinator.com/item?id=43893601) \| 🗓️ 2025-05-05
+| 🔥🔥: 347 \| 💬: [76](https://news.ycombinator.com/item?id=43893601) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -51,7 +51,7 @@ Daft Punk在其作品中广泛运用了**声码器**、**Talk Box**和**和声�
 <small>🔗 [wired.com](https://www.wired.com/story/meta-lawsuit-copyright-hearing-artificial-intelligence/): Judge said Meta illegally used books to build its AI</small>
 
 
-| 🔥🔥: 330 \| 💬: [293](https://news.ycombinator.com/item?id=43893762) \| 🗓️ 2025-05-05
+| 🔥🔥: 332 \| 💬: [294](https://news.ycombinator.com/item?id=43893762) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -63,7 +63,7 @@ Meta与包括Sarah Silverman、Ta-Nehisi Coates在内的作家团体陷入版权
 <small>🔗 [minimaxir.com](https://minimaxir.com/2025/05/llm-use/): As an experienced LLM user, I don't use generative LLMs often</small>
 
 
-| 🔥🔥: 230 \| 💬: [136](https://news.ycombinator.com/item?id=43897320) \| 🗓️ 2025-05-05
+| 🔥🔥: 245 \| 💬: [142](https://news.ycombinator.com/item?id=43897320) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -71,23 +71,11 @@ Meta与包括Sarah Silverman、Ta-Nehisi Coates在内的作家团体陷入版权
 
 ---
 
-## <a name="5"></a>5. 特朗普宣布对"外国制作"电影征收100%关税 
-<small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/may/04/trump-tariffs-foreign-movies): Trump announces 100% tariffs on movies ‘produced in foreign lands’</small>
-
-
-| 🔥🔥: 193 \| 💬: [440](https://news.ycombinator.com/item?id=43893310) \| 🗓️ 2025-05-05
-
-
-<br />
-美国前总统特朗普在社交媒体Truth Social上宣布，将对所有**"外国制作"电影**征收100%关税，称此举旨在保护**美国电影产业**，并指责其他国家通过税收优惠吸引美国制片方，构成**"国家安全威胁"**。美国商务部长回应已着手实施，但未透露细节。澳大利亚和新西兰政府表示将捍卫本国影视业利益。此前，特朗普的关税政策已引发中美贸易摩擦，中国减少了美国电影进口配额。专家警告，此举可能引发报复性措施，重创美国电影行业。
-
----
-
-## <a name="6"></a>6. 将文件系统变为向量数据库：VectorVFS轻量级工具 
+## <a name="5"></a>5. 将文件系统变为向量数据库：VectorVFS轻量级工具 
 <small>🔗 [vectorvfs.readthedocs.io](https://vectorvfs.readthedocs.io/en/latest/): Show HN: VectorVFS, your filesystem as a vector database</small>
 
 
-| 🔥🔥: 192 \| 💬: [93](https://news.ycombinator.com/item?id=43896011) \| 🗓️ 2025-05-05
+| 🔥🔥: 197 \| 💬: [95](https://news.ycombinator.com/item?id=43896011) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -95,11 +83,23 @@ VectorVFS是一款**Python工具包**，通过Linux的**虚拟文件系统（VFS
 
 ---
 
+## <a name="6"></a>6. 特朗普宣布对"外国制作"电影征收100%关税 
+<small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/may/04/trump-tariffs-foreign-movies): Trump announces 100% tariffs on movies ‘produced in foreign lands’</small>
+
+
+| 🔥🔥: 196 \| 💬: [440](https://news.ycombinator.com/item?id=43893310) \| 🗓️ 2025-05-05
+
+
+<br />
+美国前总统特朗普在社交媒体Truth Social上宣布，将对所有**"外国制作"电影**征收100%关税，称此举旨在保护**美国电影产业**，并指责其他国家通过税收优惠吸引美国制片方，构成**"国家安全威胁"**。美国商务部长回应已着手实施，但未透露细节。澳大利亚和新西兰政府表示将捍卫本国影视业利益。此前，特朗普的关税政策已引发中美贸易摩擦，中国减少了美国电影进口配额。专家警告，此举可能引发报复性措施，重创美国电影行业。
+
+---
+
 ## <a name="7"></a>7. AWS安全工具反成漏洞源头：跨账户权限升级风险曝光 
 <small>🔗 [token.security](https://www.token.security/blog/aws-built-a-security-tool-it-introduced-a-security-risk): AWS Built a Security Tool. It Introduced a Security Risk</small>
 
 
-| 🔥🔥: 178 \| 💬: [72](https://news.ycombinator.com/item?id=43893906) \| 🗓️ 2025-05-05
+| 🔥🔥: 180 \| 💬: [72](https://news.ycombinator.com/item?id=43893906) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -111,7 +111,7 @@ AWS推出的**Account Assessment for AWS Organizations**工具本用于审计跨
 <small>🔗 [den.dev](https://den.dev/blog/pihole/): The Beauty of Having a Pi-Hole (2024)</small>
 
 
-| 🔥🔥: 158 \| 💬: [114](https://news.ycombinator.com/item?id=43894175) \| 🗓️ 2025-05-05
+| 🔥🔥: 165 \| 💬: [125](https://news.ycombinator.com/item?id=43894175) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -123,23 +123,11 @@ AWS推出的**Account Assessment for AWS Organizations**工具本用于审计跨
 
 ---
 
-## <a name="9"></a>9. 2025年网络犯罪分子的敛财新招 
-<small>🔗 [vin01.github.io](https://vin01.github.io/piptagole/cybcecrime/security/cybersecurity/2025/05/05/state-cyber-security.html): How are cyber criminals rolling in 2025?</small>
-
-
-| 🔥🔥: 149 \| 💬: [55](https://news.ycombinator.com/item?id=43896188) \| 🗓️ 2025-05-05
-
-
-<br />
-网络犯罪分子正利用**政府机构**、**高校**等组织的薄弱网络安全防线，将其作为免费内容托管平台。他们通过SEO优化和**可信域名**（如Google服务）绕过企业安全工具检测，散布虚假链接。攻击手段包括过时的WordPress插件、缓存投毒和子域名劫持，最终通过多层跳转链接牟利或实施钓鱼（如针对儿童的游戏货币“**Robux**”诈骗）。尽管部分漏洞已修复，但攻击者仍持续进化，传统防御措施难以应对。
-
----
-
-## <a name="10"></a>10. 实时AI语音聊天：延迟仅500毫秒的自然对话工具 
+## <a name="9"></a>9. 实时AI语音聊天：延迟仅500毫秒的自然对话工具 
 <small>🔗 [github.com](https://github.com/KoljaB/RealtimeVoiceChat): Show HN: Real-time AI Voice Chat at ~500ms Latency</small>
 
 
-| 🔥🔥: 146 \| 💬: [73](https://news.ycombinator.com/item?id=43899028) \| 🗓️ 2025-05-05
+| 🔥🔥: 162 \| 💬: [86](https://news.ycombinator.com/item?id=43899028) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -147,11 +135,23 @@ AWS推出的**Account Assessment for AWS Organizations**工具本用于审计跨
 
 ---
 
+## <a name="10"></a>10. 2025年网络犯罪分子的敛财新招 
+<small>🔗 [vin01.github.io](https://vin01.github.io/piptagole/cybcecrime/security/cybersecurity/2025/05/05/state-cyber-security.html): How are cyber criminals rolling in 2025?</small>
+
+
+| 🔥🔥: 161 \| 💬: [60](https://news.ycombinator.com/item?id=43896188) \| 🗓️ 2025-05-05
+
+
+<br />
+网络犯罪分子正利用**政府机构**、**高校**等组织的薄弱网络安全防线，将其作为免费内容托管平台。他们通过SEO优化和**可信域名**（如Google服务）绕过企业安全工具检测，散布虚假链接。攻击手段包括过时的WordPress插件、缓存投毒和子域名劫持，最终通过多层跳转链接牟利或实施钓鱼（如针对儿童的游戏货币“**Robux**”诈骗）。尽管部分漏洞已修复，但攻击者仍持续进化，传统防御措施难以应对。
+
+---
+
 ## <a name="11"></a>11. 冷战情报中的“潜伏狡辩”陷阱 
 <small>🔗 [kucharski.substack.com](https://kucharski.substack.com/p/possibly-a-serious-possibility): Possibly a Serious Possibility</small>
 
 
-| 🔥🔥: 130 \| 💬: [51](https://news.ycombinator.com/item?id=43898380) \| 🗓️ 2025-05-05
+| 🔥🔥: 144 \| 💬: [58](https://news.ycombinator.com/item?id=43898380) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -163,7 +163,7 @@ AWS推出的**Account Assessment for AWS Organizations**工具本用于审计跨
 <small>🔗 [github.com](https://github.com/evroon/bracket): Show HN: Bracket – selfhosted tournament system</small>
 
 
-| 🔥🔥: 118 \| 💬: [26](https://news.ycombinator.com/item?id=43895456) \| 🗓️ 2025-05-05
+| 🔥🔥: 120 \| 💬: [26](https://news.ycombinator.com/item?id=43895456) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -175,7 +175,7 @@ Bracket是一个基于**FastAPI**（异步Python）和**Next.js**构建的自托
 <small>🔗 [blog.wouterjanleys.com](https://blog.wouterjanleys.com/blog/no-instagram-no-privacy/): No Instagram, no privacy</small>
 
 
-| 🔥🔥: 108 \| 💬: [97](https://news.ycombinator.com/item?id=43896228) \| 🗓️ 2025-05-05
+| 🔥🔥: 111 \| 💬: [97](https://news.ycombinator.com/item?id=43896228) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -187,7 +187,7 @@ Bracket是一个基于**FastAPI**（异步Python）和**Next.js**构建的自托
 <small>🔗 [textquery.app](https://textquery.app/): Show HN: TextQuery – Query CSV, JSON, XLSX Files with SQL</small>
 
 
-| 🔥🔥: 101 \| 💬: [36](https://news.ycombinator.com/item?id=43897129) \| 🗓️ 2025-05-05
+| 🔥🔥: 107 \| 💬: [40](https://news.ycombinator.com/item?id=43897129) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -199,7 +199,7 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 <small>🔗 [tobylam.xyz](https://tobylam.xyz/2023/11/27/inverse-functions-legendre-part-1): Geometrically understanding calculus of inverse functions (2023)</small>
 
 
-| 🔥: 92 \| 💬: [4](https://news.ycombinator.com/item?id=43895852) \| 🗓️ 2025-05-05
+| 🔥: 96 \| 💬: [4](https://news.ycombinator.com/item?id=43895852) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -209,11 +209,23 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="16"></a>16. 西班牙和葡萄牙停电期间的互联网使用模式 
+## <a name="16"></a>16. 2024年：用systemd替代Kubernetes的实践 
+<small>🔗 [blog.yaakov.online](https://blog.yaakov.online/replacing-kubernetes-with-systemd/): Replacing Kubernetes with systemd (2024)</small>
+
+
+| 🔥: 96 \| 💬: [55](https://news.ycombinator.com/item?id=43899236) \| 🗓️ 2025-05-05
+
+
+<br />
+作者回顾了2018年使用**Kubernetes**搭建家庭集群的经历，发现其虽能通过**自动化循环**（如创建Pod、管理证书）实现强大功能，但资源消耗过高（CPU常驻6%-12%），导致设备发热、噪音大，甚至影响睡眠。尽管依赖其便捷的GitOps和容器更新能力，作者最终转向**Podman**方案：通过生成systemd服务文件实现容器自启，结合`io.containers.autoupdate`标签自动更新镜像，辅以用户常驻（`loginctl enable-linger`），以极低开销复现了Kubernetes 99%的核心功能。迁移后，新VPS性能更轻量、成本更低，但Podman未来可能转向Quadlet配置，留下新学习课题。
+
+---
+
+## <a name="17"></a>17. 西班牙和葡萄牙停电期间的互联网使用模式 
 <small>🔗 [blog.akamai-mpulse.com](https://blog.akamai-mpulse.com/blog/2025-05-03-iberian-power-outage/): Internet usage pattern during power outage in Spain and Portugal</small>
 
 
-| 🔥: 91 \| 💬: [99](https://news.ycombinator.com/item?id=43894363) \| 🗓️ 2025-05-05
+| 🔥: 92 \| 💬: [100](https://news.ycombinator.com/item?id=43894363) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -221,23 +233,11 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="17"></a>17. 雅达利2600经典游戏《冒险》的开发秘史 
-<small>🔗 [atariarchive.org](https://www.atariarchive.org/blog/adventure-march-1980/): History of "Adventure" for the Atari 2600</small>
-
-
-| 🔥: 83 \| 💬: [13](https://news.ycombinator.com/item?id=43895237) \| 🗓️ 2025-05-05
-
-
-<br />
-《冒险》是雅达利2600最具影响力的原创游戏之一，由**沃伦·罗宾内特**受文字游戏《巨洞冒险》启发开发。游戏将文本探索转化为图形界面，玩家需在30个屏幕中收集圣杯、对抗**三条性格各异的龙**，并解开迷宫谜题。罗宾内特秘密加入了史上首个广为人知的**彩蛋**——隐藏房间中的开发者署名，此举后来成为游戏行业传统。游戏还首创了难度分级和随机物品机制，奠定了早期动作冒险游戏的框架。
-
----
-
 ## <a name="18"></a>18. 数学家证实126维空间存在奇异扭曲形状 
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/dimension-126-contains-strangely-twisted-shapes-mathematicians-prove-20250505/): Dimension 126 Contains Twisted Shapes, Mathematicians Prove</small>
 
 
-| 🔥: 83 \| 💬: [43](https://news.ycombinator.com/item?id=43896199) \| 🗓️ 2025-05-05
+| 🔥: 91 \| 💬: [47](https://news.ycombinator.com/item?id=43896199) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -245,11 +245,23 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="19"></a>19. SpaceX曾向联邦调查局提出“狙击手”炸毁火箭的离奇理论 
+## <a name="19"></a>19. 雅达利2600经典游戏《冒险》的开发秘史 
+<small>🔗 [atariarchive.org](https://www.atariarchive.org/blog/adventure-march-1980/): History of "Adventure" for the Atari 2600</small>
+
+
+| 🔥: 86 \| 💬: [14](https://news.ycombinator.com/item?id=43895237) \| 🗓️ 2025-05-05
+
+
+<br />
+《冒险》是雅达利2600最具影响力的原创游戏之一，由**沃伦·罗宾内特**受文字游戏《巨洞冒险》启发开发。游戏将文本探索转化为图形界面，玩家需在30个屏幕中收集圣杯、对抗**三条性格各异的龙**，并解开迷宫谜题。罗宾内特秘密加入了史上首个广为人知的**彩蛋**——隐藏房间中的开发者署名，此举后来成为游戏行业传统。游戏还首创了难度分级和随机物品机制，奠定了早期动作冒险游戏的框架。
+
+---
+
+## <a name="20"></a>20. SpaceX曾向联邦调查局提出“狙击手”炸毁火箭的离奇理论 
 <small>🔗 [arstechnica.com](https://arstechnica.com/space/2025/05/spacex-pushed-sniper-theory-with-the-feds-far-more-than-is-publicly-known/): SpaceX pushed "sniper" theory with the feds</small>
 
 
-| 🔥: 81 \| 💬: [49](https://news.ycombinator.com/item?id=43894678) \| 🗓️ 2025-05-05
+| 🔥: 83 \| 💬: [49](https://news.ycombinator.com/item?id=43894678) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -257,11 +269,11 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="20"></a>20. 泰克TDS 684B示波器：揭秘CCD模拟存储技术 
+## <a name="21"></a>21. 泰克TDS 684B示波器：揭秘CCD模拟存储技术 
 <small>🔗 [tomverbeure.github.io](https://tomverbeure.github.io/2025/05/04/TDS684B-CCD-Memory.html): A Tektronix TDS 684B Oscilloscope Uses CCD Analog Memory</small>
 
 
-| 🔥: 80 \| 💬: [48](https://news.ycombinator.com/item?id=43895622) \| 🗓️ 2025-05-05
+| 🔥: 82 \| 💬: [49](https://news.ycombinator.com/item?id=43895622) \| 🗓️ 2025-05-05
 
 
 <br />
@@ -269,7 +281,7 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="21"></a>21. 欧盟拟2027年起全面禁止匿名加密货币账户和隐私币 
+## <a name="22"></a>22. 欧盟拟2027年起全面禁止匿名加密货币账户和隐私币 
 <small>🔗 [cointelegraph.com](https://cointelegraph.com/news/eu-crypto-ban-anonymous-privacy-tokens-2027): EU to ban anonymous crypto accounts and privacy coins by 2027</small>
 
 
@@ -281,7 +293,31 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 ---
 
-## <a name="22"></a>22. 美国政府官员使用的定制版Signal应用TeleMessage遭黑客入侵 
+## <a name="23"></a>23. AI编程工具Cursor估值飙升至90亿美元 
+<small>🔗 [ft.com](https://www.ft.com/content/a7b34d53-a844-4e69-a55c-b9dee9a97dd2): Cursor hits $9B valuation</small>
+
+
+| 🔥: 76 \| 💬: [134](https://news.ycombinator.com/item?id=43895516) \| 🗓️ 2025-05-05
+
+
+<br />
+人工智能编程应用**Cursor**的开发商近期估值达到**90亿美元**，引发市场关注。该工具主打“氛围编程”（**vibe coding**）概念，旨在提升开发效率。文章同时介绍了《金融时报》的订阅方案，包括标准版、高级版及印刷+数字组合套餐，提供全球新闻、专家分析和独家内容。
+
+---
+
+## <a name="24"></a>24. Databricks拟10亿美元收购开源数据库公司Neon 
+<small>🔗 [upstartsmedia.com](https://www.upstartsmedia.com/p/scoop-databricks-talks-to-acquire-neon): Databricks in Talks to Acquire Startup Neon for About $1B</small>
+
+
+| 🔥: 76 \| 💬: [43](https://news.ycombinator.com/item?id=43899016) \| 🗓️ 2025-05-05
+
+
+<br />
+据独家消息，**数据与AI巨头Databricks**正就收购开源Postgres引擎开发商**Neon**进行深入谈判，交易估值约**10亿美元**。知情人士透露，若计入员工留任方案，最终金额可能超这一数字。但交易尚未最终敲定，仍存变数。Neon CEO及公司均未置评，Databricks亦拒绝回应。此次收购将延续该独角兽企业通过并购扩张的战略。
+
+---
+
+## <a name="25"></a>25. 美国政府官员使用的定制版Signal应用TeleMessage遭黑客入侵 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/05/telemessage-a-modified-signal-clone-used-by-us-govt-officials-has-been-hacked/): TeleMessage, a modified Signal clone used by US govt. officials, has been hacked</small>
 
 
@@ -290,29 +326,5 @@ TextQuery是一款**桌面应用**，支持通过SQL直接查询、修改和可�
 
 <br />
 黑客利用**TeleMessage**的漏洞窃取了美国官员及企业的**存档消息**和联系人信息。该应用提供定制版Signal、Telegram等加密通讯工具的存档服务，但曝光的聊天记录显示其**存储过程未端到端加密**。尽管内阁成员数据未泄露，但海关、Coinbase和银行信息被提取。母公司Smarsh暂未回应。
-
----
-
-## <a name="23"></a>23. 浏览器中的实时协作代码编辑器：CodeCafé 
-<small>🔗 [github.com](https://github.com/mrktsm/codecafe): Show HN: CodeCafé – A real-time collaborative code editor in the browser</small>
-
-
-| 🔥: 70 \| 💬: [9](https://news.ycombinator.com/item?id=43892856) \| 🗓️ 2025-05-05
-
-
-<br />
-CodeCafé 是一款基于浏览器的**实时协作代码编辑器**，专为团队编程、教学和远程协作设计。其核心功能包括**像素级实时预览**（支持HTML/CSS/JS）、基于**操作转换（OT）技术**的多用户同步编辑，以及类似VS Code的 Monaco 编辑器体验。技术栈涵盖React、Spring Boot、Redis和WebSocket，部署于AWS和Vercel。无需安装，开箱即用，适合快速结对编程或项目协作。项目采用AGPL-3.0开源协议，未来计划加入用户认证、语音聊天等功能。
-
----
-
-## <a name="24"></a>24. AI编程工具Cursor估值飙升至90亿美元 
-<small>🔗 [ft.com](https://www.ft.com/content/a7b34d53-a844-4e69-a55c-b9dee9a97dd2): Cursor hits $9B valuation</small>
-
-
-| 🔥: 70 \| 💬: [125](https://news.ycombinator.com/item?id=43895516) \| 🗓️ 2025-05-05
-
-
-<br />
-人工智能编程应用**Cursor**的开发商近期估值达到**90亿美元**，引发市场关注。该工具主打“氛围编程”（**vibe coding**）概念，旨在提升开发效率。文章同时介绍了《金融时报》的订阅方案，包括标准版、高级版及印刷+数字组合套餐，提供全球新闻、专家分析和独家内容。
 
 ---
