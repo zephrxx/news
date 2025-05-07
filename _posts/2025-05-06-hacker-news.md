@@ -27,7 +27,7 @@ tags:
 <small>🔗 [felixrieseberg.github.io](https://felixrieseberg.github.io/clippy/): Show HN: Clippy – 90s UI for local LLMs</small>
 
 
-| 🔥🔥: 721 \| 💬: [187](https://news.ycombinator.com/item?id=43905942) \| 🗓️ 2025-05-06
+| 🔥🔥: 756 \| 💬: [191](https://news.ycombinator.com/item?id=43905942) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/): Gemini 2.5 Pro Preview</small>
 
 
-| 🔥🔥: 520 \| 💬: [483](https://news.ycombinator.com/item?id=43906018) \| 🗓️ 2025-05-06
+| 🔥🔥: 533 \| 💬: [489](https://news.ycombinator.com/item?id=43906018) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -51,7 +51,7 @@ Google提前发布了**Gemini 2.5 Pro预览版（I/O版）**，重点提升了**
 <small>🔗 [linkedin.com](https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1): Curl: We still have not seen a valid security report done with AI help</small>
 
 
-| 🔥🔥: 377 \| 💬: [198](https://news.ycombinator.com/item?id=43907376) \| 🗓️ 2025-05-06
+| 🔥🔥: 378 \| 💬: [198](https://news.ycombinator.com/item?id=43907376) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -63,7 +63,7 @@ curl创始人Daniel Stenberg发文表示，**将严打AI生成的无效安全报
 <small>🔗 [collabora.com](https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/): Matt Godbolt sold me on Rust by showing me C++</small>
 
 
-| 🔥🔥: 313 \| 💬: [258](https://news.ycombinator.com/item?id=43907820) \| 🗓️ 2025-05-06
+| 🔥🔥: 334 \| 💬: [267](https://news.ycombinator.com/item?id=43907820) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -75,7 +75,7 @@ curl创始人Daniel Stenberg发文表示，**将严打AI生成的无效安全报
 <small>🔗 [seangoedecke.com](https://www.seangoedecke.com/getting-things-done/): Getting things “done” in large tech companies</small>
 
 
-| 🔥🔥: 280 \| 💬: [192](https://news.ycombinator.com/item?id=43903741) \| 🗓️ 2025-05-06
+| 🔥🔥: 282 \| 💬: [194](https://news.ycombinator.com/item?id=43903741) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -87,7 +87,7 @@ curl创始人Daniel Stenberg发文表示，**将严打AI生成的无效安全报
 <small>🔗 [github.com](https://github.com/al13n321/nnd): Nnd – a TUI debugger alternative to GDB, LLDB</small>
 
 
-| 🔥🔥: 219 \| 💬: [73](https://news.ycombinator.com/item?id=43905185) \| 🗓️ 2025-05-06
+| 🔥🔥: 223 \| 💬: [74](https://news.ycombinator.com/item?id=43905185) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -101,7 +101,7 @@ Nnd是一款专为**Linux系统**设计的**终端用户界面（TUI）调试器
 <small>🔗 [micahflee.com](https://micahflee.com/despite-misleading-marketing-israeli-company-telemessage-used-by-trump-officials-can-access-plaintext-chat-logs/): TeleMessage, used by Trump officials, can access plaintext chat logs</small>
 
 
-| 🔥🔥: 212 \| 💬: [63](https://news.ycombinator.com/item?id=43909220) \| 🗓️ 2025-05-06
+| 🔥🔥: 217 \| 💬: [63](https://news.ycombinator.com/item?id=43909220) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -113,7 +113,7 @@ Nnd是一款专为**Linux系统**设计的**终端用户界面（TUI）调试器
 <small>🔗 [trifectatech.org](https://trifectatech.org/blog/memory-safe-sudo-to-become-the-default-in-ubuntu/): Memory-safe sudo to become the default in Ubuntu</small>
 
 
-| 🔥🔥: 192 \| 💬: [216](https://news.ycombinator.com/item?id=43903853) \| 🗓️ 2025-05-06
+| 🔥🔥: 193 \| 💬: [217](https://news.ycombinator.com/item?id=43903853) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -125,7 +125,7 @@ Nnd是一款专为**Linux系统**设计的**终端用户界面（TUI）调试器
 <small>🔗 [accent-strength.boldvoice.com](https://accent-strength.boldvoice.com/): Accents in latent spaces: How AI hears accent strength in English</small>
 
 
-| 🔥🔥: 185 \| 💬: [96](https://news.ycombinator.com/item?id=43905299) \| 🗓️ 2025-05-06
+| 🔥🔥: 193 \| 💬: [99](https://news.ycombinator.com/item?id=43905299) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -137,7 +137,7 @@ BoldVoice团队利用**口音指纹**（768维嵌入向量）构建潜在空间�
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/05/ftc-bans-hidden-fees-for-live-events-and-short-term-rentals-effective-may-12/): FTC bans hidden fees for live events and short-term rentals, effective May 12</small>
 
 
-| 🔥🔥: 176 \| 💬: [3](https://news.ycombinator.com/item?id=43910794) \| 🗓️ 2025-05-06
+| 🔥🔥: 177 \| 💬: [4](https://news.ycombinator.com/item?id=43910794) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -149,7 +149,7 @@ BoldVoice团队利用**口音指纹**（768维嵌入向量）构建潜在空间�
 <small>🔗 [news.northwestern.edu](https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/): New studies offer insight into Lyme disease’s treatment, lingering symptoms</small>
 
 
-| 🔥🔥: 164 \| 💬: [100](https://news.ycombinator.com/item?id=43903959) \| 🗓️ 2025-05-06
+| 🔥🔥: 172 \| 💬: [104](https://news.ycombinator.com/item?id=43903959) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -161,7 +161,7 @@ BoldVoice团队利用**口音指纹**（768维嵌入向量）构建潜在空间�
 <small>🔗 [theverge.com](https://www.theverge.com/news/661719/amazon-app-ios-apple-iphone-ipad-kindle-buy-books): iOS Kindle app now has a ‘get book’ button after changes to App Store rules</small>
 
 
-| 🔥🔥: 146 \| 💬: [143](https://news.ycombinator.com/item?id=43909432) \| 🗓️ 2025-05-06
+| 🔥🔥: 154 \| 💬: [144](https://news.ycombinator.com/item?id=43909432) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -169,23 +169,49 @@ BoldVoice团队利用**口音指纹**（768维嵌入向量）构建潜在空间�
 
 ---
 
-## <a name="13"></a>13. 用Rust实现的POSIX/Bash兼容Shell：Brush 
-<small>🔗 [github.com](https://github.com/reubeno/brush): Brush (Bo(u)rn(e) RUsty SHell) a POSIX and Bash-Compatible Shell in Rust</small>
+## <a name="13"></a>13. 《VVVVVV》游戏源代码公开 
+<small>🔗 [github.com](https://github.com/TerryCavanagh/VVVVVV): VVVVVV Source Code</small>
 
 
-| 🔥🔥: 103 \| 💬: [57](https://news.ycombinator.com/item?id=43908368) \| 🗓️ 2025-05-06
+| 🔥🔥: 116 \| 💬: [18](https://news.ycombinator.com/item?id=43910681) \| 🗓️ 2025-05-06
 
 
 <br />
-Brush（**Bo(u)rn(e) RUsty SHell**）是一个基于Rust开发的**POSIX与Bash兼容**的Shell，支持Linux、macOS及实验性Windows/WSL环境。它已具备日常交互使用能力，可运行多数sh/bash脚本，但暂不建议用于生产环境。项目采用**MIT许可证**，欢迎贡献。安装方式包括`cargo install`或通过Nix/Arch Linux包管理器。已知局限包括部分`set/shopt`功能未完全实现，测试覆盖550+用例。依赖关键库如`reedline`和`tokio`，并参考了`nushell`等同类项目。
+这是2010年由**Terry Cavanagh**开发的独立游戏《VVVVVV》的源代码，包含桌面版代码及**Magnus Pålsson**创作的音乐。游戏仍可通过官网购买支持，但允许个人自由编译。**分发编译版本需遵守许可证**（详见LICENSE.md）。更新讨论主要在VVVVVV Discord的代码频道进行。  
+
+**主要贡献者**包括Bennett Foddy（关卡命名）、Simon Roth（C++移植）、Ethan Lee（SDL2/Steamworks适配）等。源代码托管于GitHub，已获7.2k星标。
 
 ---
 
-## <a name="14"></a>14. 美国缉毒局悄然取消执法记录仪计划 
+## <a name="14"></a>14. 美国环保署拟取消能源之星计划 
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/06/climate/epa-energy-star-eliminated.html): EPA Plans to Shut Down the Energy Star Program</small>
+
+
+| 🔥🔥: 116 \| 💬: [74](https://news.ycombinator.com/item?id=43911252) \| 🗓️ 2025-05-06
+
+
+<br />
+根据内部文件和会议录音，**美国环保署（EPA）**计划终止**能源之星（Energy Star）**项目，该项目为家用电器提供能效认证。EPA在重组中将裁撤气候与能效部门，包括气候办公室和能源之星管理机构。该项目运行33年来，通过蓝色标签帮助消费者选择节能产品，累计节省5000亿美元能源开支，减少40亿吨温室气体排放。此次调整意味着非法律强制的气候工作将被边缘化。
+
+---
+
+## <a name="15"></a>15. FTC新规：5月12日起禁止隐性收费 
+<small>🔗 [ftc.gov](https://www.ftc.gov/news-events/news/press-releases/2025/05/ftc-rule-unfair-or-deceptive-fees-take-effect-may-12-2025): FTC rule on unfair or deceptive fees to take effect on May 12</small>
+
+
+| 🔥🔥: 114 \| 💬: [80](https://news.ycombinator.com/item?id=43903400) \| 🗓️ 2025-05-06
+
+
+<br />
+美国联邦贸易委员会（FTC）针对**不公平或欺骗性收费**的新规将于2025年5月12日生效。FTC已发布**常见问题解答**，帮助消费者和企业理解规则内容。该规定旨在打击商家通过隐藏费用误导消费者的行为，**提升市场透明度**。
+
+---
+
+## <a name="16"></a>16. 美国缉毒局悄然取消执法记录仪计划 
 <small>🔗 [propublica.org](https://www.propublica.org/article/drug-enforcement-administration-ends-body-camera-program-trump): The DEA is now abandoning body cameras</small>
 
 
-| 🔥🔥: 103 \| 💬: [28](https://news.ycombinator.com/item?id=43910720) \| 🗓️ 2025-05-06
+| 🔥🔥: 109 \| 💬: [29](https://news.ycombinator.com/item?id=43910720) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -195,7 +221,19 @@ DEA此前称记录仪能**“增强透明度”**，但如今以“不评论技�
 
 ---
 
-## <a name="15"></a>15. 土耳其字母“İ”问题及其重要性（2012年） 
+## <a name="17"></a>17. 用Rust实现的POSIX/Bash兼容Shell：Brush 
+<small>🔗 [github.com](https://github.com/reubeno/brush): Brush (Bo(u)rn(e) RUsty SHell) a POSIX and Bash-Compatible Shell in Rust</small>
+
+
+| 🔥🔥: 106 \| 💬: [61](https://news.ycombinator.com/item?id=43908368) \| 🗓️ 2025-05-06
+
+
+<br />
+Brush（**Bo(u)rn(e) RUsty SHell**）是一个基于Rust开发的**POSIX与Bash兼容**的Shell，支持Linux、macOS及实验性Windows/WSL环境。它已具备日常交互使用能力，可运行多数sh/bash脚本，但暂不建议用于生产环境。项目采用**MIT许可证**，欢迎贡献。安装方式包括`cargo install`或通过Nix/Arch Linux包管理器。已知局限包括部分`set/shopt`功能未完全实现，测试覆盖550+用例。依赖关键库如`reedline`和`tokio`，并参考了`nushell`等同类项目。
+
+---
+
+## <a name="18"></a>18. 土耳其字母“İ”问题及其重要性（2012年） 
 <small>🔗 [haacked.com](https://haacked.com/archive/2012/07/05/turkish-i-problem-and-why-you-should-care.aspx/): The Turkish İ Problem and Why You Should Care (2012)</small>
 
 
@@ -207,7 +245,7 @@ DEA此前称记录仪能**“增强透明度”**，但如今以“不评论技�
 
 ---
 
-## <a name="16"></a>16. 命题即类型：编程与逻辑的深刻联系 
+## <a name="19"></a>19. 命题即类型：编程与逻辑的深刻联系 
 <small>🔗 [homepages.inf.ed.ac.uk](https://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf): Propositions as Types (2014) [pdf]</small>
 
 
@@ -219,11 +257,11 @@ DEA此前称记录仪能**“增强透明度”**，但如今以“不评论技�
 
 ---
 
-## <a name="17"></a>17. 用自然语言构建机器学习模型：Plexe 
+## <a name="20"></a>20. 用自然语言构建机器学习模型：Plexe 
 <small>🔗 [github.com](https://github.com/plexe-ai/plexe): Show HN: Plexe – ML Models from a Prompt</small>
 
 
-| 🔥: 92 \| 💬: [42](https://news.ycombinator.com/item?id=43906346) \| 🗓️ 2025-05-06
+| 🔥: 95 \| 💬: [43](https://news.ycombinator.com/item?id=43906346) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -231,33 +269,7 @@ Plexe 是一个通过**自然语言描述**快速生成机器学习模型的工�
 
 ---
 
-## <a name="18"></a>18. FTC新规：5月12日起禁止隐性收费 
-<small>🔗 [ftc.gov](https://www.ftc.gov/news-events/news/press-releases/2025/05/ftc-rule-unfair-or-deceptive-fees-take-effect-may-12-2025): FTC rule on unfair or deceptive fees to take effect on May 12</small>
-
-
-| 🔥: 91 \| 💬: [72](https://news.ycombinator.com/item?id=43903400) \| 🗓️ 2025-05-06
-
-
-<br />
-美国联邦贸易委员会（FTC）针对**不公平或欺骗性收费**的新规将于2025年5月12日生效。FTC已发布**常见问题解答**，帮助消费者和企业理解规则内容。该规定旨在打击商家通过隐藏费用误导消费者的行为，**提升市场透明度**。
-
----
-
-## <a name="19"></a>19. 《VVVVVV》游戏源代码公开 
-<small>🔗 [github.com](https://github.com/TerryCavanagh/VVVVVV): VVVVVV Source Code</small>
-
-
-| 🔥: 88 \| 💬: [14](https://news.ycombinator.com/item?id=43910681) \| 🗓️ 2025-05-06
-
-
-<br />
-这是2010年由**Terry Cavanagh**开发的独立游戏《VVVVVV》的源代码，包含桌面版代码及**Magnus Pålsson**创作的音乐。游戏仍可通过官网购买支持，但允许个人自由编译。**分发编译版本需遵守许可证**（详见LICENSE.md）。更新讨论主要在VVVVVV Discord的代码频道进行。  
-
-**主要贡献者**包括Bennett Foddy（关卡命名）、Simon Roth（C++移植）、Ethan Lee（SDL2/Steamworks适配）等。源代码托管于GitHub，已获7.2k星标。
-
----
-
-## <a name="20"></a>20. Skype即将停用，用户可迁移至Teams 
+## <a name="21"></a>21. Skype即将停用，用户可迁移至Teams 
 <small>🔗 [microsoft.com](https://www.microsoft.com/en-us/microsoft-365/blog/2025/02/28/the-next-chapter-moving-from-skype-to-microsoft-teams/): RIP Skype</small>
 
 
@@ -273,11 +285,11 @@ Plexe 是一个通过**自然语言描述**快速生成机器学习模型的工�
 
 ---
 
-## <a name="21"></a>21. Godot高性能地形系统MTerrain：开源插件助力开放世界开发 
+## <a name="22"></a>22. Godot高性能地形系统MTerrain：开源插件助力开放世界开发 
 <small>🔗 [github.com](https://github.com/mohsenph69/Godot-MTerrain-plugin): MTerrain: Optimized terrain system and editor for Godot</small>
 
 
-| 🔥: 77 \| 💬: [6](https://news.ycombinator.com/item?id=43904865) \| 🗓️ 2025-05-06
+| 🔥: 78 \| 💬: [6](https://news.ycombinator.com/item?id=43904865) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -285,11 +297,11 @@ MTerrain是一款为Godot引擎设计的**地形系统扩展插件**，支持生
 
 ---
 
-## <a name="22"></a>22. 当机器停转时，我们该如何应对？ 
+## <a name="23"></a>23. 当机器停转时，我们该如何应对？ 
 <small>🔗 [idiallo.com](https://idiallo.com/blog/when-the-machine-stops): Preparing for when the machine stops</small>
 
 
-| 🔥: 65 \| 💬: [45](https://news.ycombinator.com/item?id=43909111) \| 🗓️ 2025-05-06
+| 🔥: 66 \| 💬: [46](https://news.ycombinator.com/item?id=43909111) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -297,7 +309,19 @@ MTerrain是一款为Godot引擎设计的**地形系统扩展插件**，支持生
 
 ---
 
-## <a name="23"></a>23. 氛围编程很爽，但氛围重构才是王道 
+## <a name="24"></a>24. 开源外发Webhook与事件目的地基础设施Outpost 
+<small>🔗 [github.com](https://github.com/hookdeck/outpost): Show HN: Outpost – OSS infra for outbound webhooks and event destinations</small>
+
+
+| 🔥: 61 \| 💬: [8](https://news.ycombinator.com/item?id=43904511) \| 🗓️ 2025-05-06
+
+
+<br />
+Outpost是一个**自托管开源**基础设施，帮助开发者轻松集成**外发Webhook**和多种**事件目的地**（如Amazon EventBridge、AWS SQS、GCP Pub/Sub等）。支持高吞吐、低成本的运行环境，依赖Redis和PostgreSQL等组件，提供**至少一次投递保证**、多租户管理和用户门户。通过Docker快速部署，含API、SDK及自动重试功能，遵循Apache-2.0协议。
+
+---
+
+## <a name="25"></a>25. 氛围编程很爽，但氛围重构才是王道 
 <small>🔗 [dawidmakowski.com](https://dawidmakowski.com/en/2025/04/vibe-coding-is-fun-but-vibe-refactoring-pays-the-bills/): Vibe Coding Is Fun–But Vibe Refactoring Pays the Bills</small>
 
 
@@ -306,31 +330,5 @@ MTerrain是一款为Godot引擎设计的**地形系统扩展插件**，支持生
 
 <br />
 文章对比了**氛围编程**（即兴高效编码的快感）与**氛围重构**（利用相同能量优化代码的长期价值）。后者通过每周15-20分钟无压力的代码探索，清理技术债务（如未完成的TODO、冗余代码），借助IDE提示和LLM建议逐步提升质量。关键收益包括**稳定性累积**、部署风险降低和团队协作顺畅。强调以轻松态度持续实践，将维护转化为高回报的探索。最终结论：氛围编程带来短暂激情，**氛围重构**创造持久价值。
-
----
-
-## <a name="24"></a>24. 开源外发Webhook与事件目的地基础设施Outpost 
-<small>🔗 [github.com](https://github.com/hookdeck/outpost): Show HN: Outpost – OSS infra for outbound webhooks and event destinations</small>
-
-
-| 🔥: 60 \| 💬: [8](https://news.ycombinator.com/item?id=43904511) \| 🗓️ 2025-05-06
-
-
-<br />
-Outpost是一个**自托管开源**基础设施，帮助开发者轻松集成**外发Webhook**和多种**事件目的地**（如Amazon EventBridge、AWS SQS、GCP Pub/Sub等）。支持高吞吐、低成本的运行环境，依赖Redis和PostgreSQL等组件，提供**至少一次投递保证**、多租户管理和用户门户。通过Docker快速部署，含API、SDK及自动重试功能，遵循Apache-2.0协议。
-
----
-
-## <a name="25"></a>25. 我为何如此厌恶"氛围编程"这个说法 
-<small>🔗 [artiss.blog](https://artiss.blog/2025/03/i-so-hate-the-phrase-vibe-coding/): I so hate the phrase "vibe coding"</small>
-
-
-| 🔥: 51 \| 💬: [61](https://news.ycombinator.com/item?id=43904356) \| 🗓️ 2025-05-06
-
-
-<br />
-作者David Artiss批评了当下流行的术语"**氛围编程**"（vibe coding），即通过AI生成代码而无需深入理解其原理。他指出，这种做法本质上是**剽窃开源社区**的成果，且生成的代码质量低劣，后期调试反而更耗时。  
-
-他强调，优秀的代码如同**艺术**，而AI生成的代码不仅缺乏艺术性，还可能存在安全隐患（如示例插件中的13个漏洞）。最后，他呼吁标记AI生成的代码并保护开源代码不被AI滥用。
 
 ---
