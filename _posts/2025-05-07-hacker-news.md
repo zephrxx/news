@@ -27,7 +27,7 @@ tags:
 <small>🔗 [blog.jetbrains.com](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/): CLion Is Now Free for Non-Commercial Use</small>
 
 
-| 🔥🔥: 487 \| 💬: [307](https://news.ycombinator.com/item?id=43914705) \| 🗓️ 2025-05-07
+| 🔥🔥: 499 \| 💬: [313](https://news.ycombinator.com/item?id=43914705) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -39,7 +39,7 @@ JetBrains宣布其**跨平台C/C++集成开发环境CLion**现可免费用于**�
 <small>🔗 [mfkl.github.io](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html): Unity’s Open-Source Double Standard: the ban of VLC</small>
 
 
-| 🔥🔥: 446 \| 💬: [122](https://news.ycombinator.com/item?id=43914832) \| 🗓️ 2025-05-07
+| 🔥🔥: 453 \| 💬: [125](https://news.ycombinator.com/item?id=43914832) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -53,7 +53,7 @@ JetBrains宣布其**跨平台C/C++集成开发环境CLion**现可免费用于**�
 <small>🔗 [github.com](https://github.com/astral-sh/ty): Ty: A fast Python type checker and language server</small>
 
 
-| 🔥🔥: 403 \| 💬: [112](https://news.ycombinator.com/item?id=43918484) \| 🗓️ 2025-05-07
+| 🔥🔥: 449 \| 💬: [130](https://news.ycombinator.com/item?id=43918484) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -65,7 +65,7 @@ Ty 是一款**用 Rust 编写**的 Python **类型检查工具**和语言服务�
 <small>🔗 [pganalyze.com](https://pganalyze.com/blog/postgres-18-async-io): Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O</small>
 
 
-| 🔥🔥: 331 \| 💬: [86](https://news.ycombinator.com/item?id=43916577) \| 🗓️ 2025-05-07
+| 🔥🔥: 345 \| 💬: [90](https://news.ycombinator.com/item?id=43916577) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -77,7 +77,7 @@ PostgreSQL 18引入了**异步I/O**（AIO）功能，通过并行处理磁盘读
 <small>🔗 [dynomight.net](https://dynomight.net/blood/): So Much Blood</small>
 
 
-| 🔥🔥: 293 \| 💬: [122](https://news.ycombinator.com/item?id=43913751) \| 🗓️ 2025-05-07
+| 🔥🔥: 306 \| 💬: [134](https://news.ycombinator.com/item?id=43913751) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -85,23 +85,11 @@ PostgreSQL 18引入了**异步I/O**（AIO）功能，通过并行处理磁盘读
 
 ---
 
-## <a name="6"></a>6. 让摩托车骑行更安全的创新之旅 
-<small>🔗 [gill.net.in](https://gill.net.in/posts/my-quest-to-make-motorcycle-riding-safer/): My quest to make motorcycle riding that tad bit safer</small>
-
-
-| 🔥🔥: 193 \| 💬: [218](https://news.ycombinator.com/item?id=43914235) \| 🗓️ 2025-05-07
-
-
-<br />
-作者重拾摩托车爱好时，在一次培训中意识到**引擎制动时后车难以察觉减速**的风险。受此启发，他开发了**BrakeBright**——一款智能刹车灯系统，通过加速度传感器自动检测减速并激活刹车灯（包括紧急闪烁功能）。历经多次迭代和实地测试（如苏格兰NC500路线），该设备克服了振动干扰等问题，最终实现防水抗震的可靠设计。目前产品已量产，支持用户自定义固件升级，旨在**普及高端车型才有的安全技术**，让骑行更安全。
-
----
-
-## <a name="7"></a>7. Mistral推出企业级本地化AI助手Le Chat Enterprise 
+## <a name="6"></a>6. Mistral推出企业级本地化AI助手Le Chat Enterprise 
 <small>🔗 [mistral.ai](https://mistral.ai/news/le-chat-enterprise): Mistral ships le chat – enterprise AI assistant that can run on prem</small>
 
 
-| 🔥🔥: 187 \| 💬: [68](https://news.ycombinator.com/item?id=43916098) \| 🗓️ 2025-05-07
+| 🔥🔥: 206 \| 💬: [68](https://news.ycombinator.com/item?id=43916098) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -109,11 +97,23 @@ Mistral AI发布**Le Chat Enterprise**，搭载全新Mistral Medium 3模型，�
 
 ---
 
+## <a name="7"></a>7. 让摩托车骑行更安全的创新之旅 
+<small>🔗 [gill.net.in](https://gill.net.in/posts/my-quest-to-make-motorcycle-riding-safer/): My quest to make motorcycle riding that tad bit safer</small>
+
+
+| 🔥🔥: 198 \| 💬: [224](https://news.ycombinator.com/item?id=43914235) \| 🗓️ 2025-05-07
+
+
+<br />
+作者重拾摩托车爱好时，在一次培训中意识到**引擎制动时后车难以察觉减速**的风险。受此启发，他开发了**BrakeBright**——一款智能刹车灯系统，通过加速度传感器自动检测减速并激活刹车灯（包括紧急闪烁功能）。历经多次迭代和实地测试（如苏格兰NC500路线），该设备克服了振动干扰等问题，最终实现防水抗震的可靠设计。目前产品已量产，支持用户自定义固件升级，旨在**普及高端车型才有的安全技术**，让骑行更安全。
+
+---
+
 ## <a name="8"></a>8. 专为电子墨水屏优化的漫画转换工具Kindle Comic Converter 
 <small>🔗 [github.com](https://github.com/ciromattia/kcc): Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)</small>
 
 
-| 🔥🔥: 181 \| 💬: [36](https://news.ycombinator.com/item?id=43916956) \| 🗓️ 2025-05-07
+| 🔥🔥: 184 \| 💬: [38](https://news.ycombinator.com/item?id=43916956) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -127,7 +127,7 @@ Kindle Comic Converter（KCC）是一款**开源工具**，可将漫画、漫画
 <small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/en-us/three-chapters-at-cloudflare-programmer-to-cto-to-board-of-directors/): Three Chapters at Cloudflare: Programmer to CTO to Board of Directors</small>
 
 
-| 🔥🔥: 140 \| 💬: [27](https://news.ycombinator.com/item?id=43918600) \| 🗓️ 2025-05-07
+| 🔥🔥: 142 \| 💬: [27](https://news.ycombinator.com/item?id=43918600) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -135,23 +135,11 @@ Cloudflare前CTO John Graham-Cumming回顾了他在公司的13年职业生涯：
 
 ---
 
-## <a name="10"></a>10. 变老并非你想的那样 
-<small>🔗 [katycowan.co.uk](https://www.katycowan.co.uk/blog/getting-old): Getting Older Isn't What You Think</small>
-
-
-| 🔥🔥: 134 \| 💬: [170](https://news.ycombinator.com/item?id=43917855) \| 🗓️ 2025-05-07
-
-
-<br />
-作者Katy Cowan以幽默笔触反思中年心境：36岁被称“老”令人失笑，50岁临近却发现自己**偏爱宁静**——早睡、爵士乐和书籍取代了音乐节喧嚣。作为夹在X世代与千禧一代之间的“Xennials”，她见证从磁带流媒体、拨号上网到AI的巨变，**兼具线下与线上生活的智慧**。文章批判社交媒体制造的焦虑，呼吁保持好奇与开放：“**确定性被高估，倾听却被低估**”——年龄增长不是封闭，而是更清晰地认识自我与世界的开始。
-
----
-
-## <a name="11"></a>11. Gemini 2.0 预览版上线：AI 图像生成与编辑新功能 
+## <a name="10"></a>10. Gemini 2.0 预览版上线：AI 图像生成与编辑新功能 
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/): Create and edit images with Gemini 2.0 in preview</small>
 
 
-| 🔥🔥: 128 \| 💬: [56](https://news.ycombinator.com/item?id=43917461) \| 🗓️ 2025-05-07
+| 🔥🔥: 135 \| 💬: [58](https://news.ycombinator.com/item?id=43917461) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -159,11 +147,23 @@ Google AI Studio 宣布 **Gemini 2.0 Flash** 预览版开放图像生成功能�
 
 ---
 
+## <a name="11"></a>11. 变老并非你想的那样 
+<small>🔗 [katycowan.co.uk](https://www.katycowan.co.uk/blog/getting-old): Getting Older Isn't What You Think</small>
+
+
+| 🔥🔥: 135 \| 💬: [189](https://news.ycombinator.com/item?id=43917855) \| 🗓️ 2025-05-07
+
+
+<br />
+作者Katy Cowan以幽默笔触反思中年心境：36岁被称“老”令人失笑，50岁临近却发现自己**偏爱宁静**——早睡、爵士乐和书籍取代了音乐节喧嚣。作为夹在X世代与千禧一代之间的“Xennials”，她见证从磁带流媒体、拨号上网到AI的巨变，**兼具线下与线上生活的智慧**。文章批判社交媒体制造的焦虑，呼吁保持好奇与开放：“**确定性被高估，倾听却被低估**”——年龄增长不是封闭，而是更清晰地认识自我与世界的开始。
+
+---
+
 ## <a name="12"></a>12. 开源替代Google Analytics的工具：Rybbit 
 <small>🔗 [github.com](https://github.com/rybbit-io/rybbit): Open source Google Analytics replacement</small>
 
 
-| 🔥🔥: 110 \| 💬: [58](https://news.ycombinator.com/item?id=43918620) \| 🗓️ 2025-05-07
+| 🔥🔥: 133 \| 💬: [69](https://news.ycombinator.com/item?id=43918620) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -171,7 +171,19 @@ Rybbit是一款**开源、隐私友好**的Google Analytics替代方案，比传
 
 ---
 
-## <a name="13"></a>13. 密西西比州的教育逆袭：偏见之下的成功典范 
+## <a name="13"></a>13. Anthropic API推出网页搜索功能 
+<small>🔗 [anthropic.com](https://www.anthropic.com/news/web-search-api): Introducing Web Search on the Anthropic API</small>
+
+
+| 🔥🔥: 112 \| 💬: [24](https://news.ycombinator.com/item?id=43920188) \| 🗓️ 2025-05-07
+
+
+<br />
+Anthropic宣布为Claude API新增**网页搜索工具**，开发者可构建能获取实时信息的AI应用。Claude能自主判断是否需要搜索，生成精准查询并分析结果，提供带引用的答案。**金融、法律、开发工具**等领域均可受益。管理员可通过域名白名单/黑名单控制访问范围，确保数据安全。该功能已集成至Claude Code，支持查询最新技术文档。定价为每千次搜索10美元，现支持Claude 3.7 Sonnet等模型。
+
+---
+
+## <a name="14"></a>14. 密西西比州的教育逆袭：偏见之下的成功典范 
 <small>🔗 [educationdaly.us](https://www.educationdaly.us/p/mississippi-cant-possibly-have-good): Mississippi Can't Possibly Have Good Schools</small>
 
 
@@ -183,7 +195,19 @@ Rybbit是一款**开源、隐私友好**的Google Analytics替代方案，比传
 
 ---
 
-## <a name="14"></a>14. 大学生正用AI作弊席卷校园 
+## <a name="15"></a>15. OpenSearch 3.0正式发布：性能提升9.5倍，助力AI搜索与分析 
+<small>🔗 [opensearch.org](https://opensearch.org/blog/opensearch-3-0-enhances-vector-database-performance/): OpenSearch 3.0 Released</small>
+
+
+| 🔥: 86 \| 💬: [23](https://news.ycombinator.com/item?id=43917122) \| 🗓️ 2025-05-07
+
+
+<br />
+OpenSearch 3.0作为开源搜索与分析平台的最新版本，**性能较1.3版提升9.5倍**，并针对AI应用（如生成式AI、混合搜索和推荐系统）优化了**向量搜索**能力。新增**GPU加速**功能可将索引构建速度提高9.3倍，同时降低3.75倍成本。平台还引入gRPC支持、Apache Calcite集成等数据管理改进，并升级至Lucene 10和Java 21，增强可维护性与扩展性。该版本由OpenSearch软件基金会发布，致力于推动开放协作与创新。
+
+---
+
+## <a name="16"></a>16. 大学生正用AI作弊席卷校园 
 <small>🔗 [nymag.com](https://nymag.com/intelligencer/article/openai-chatgpt-ai-cheating-education-college-students-school.html): Everyone Is Cheating Their Way Through College</small>
 
 
@@ -195,7 +219,7 @@ Rybbit是一款**开源、隐私友好**的Google Analytics替代方案，比传
 
 ---
 
-## <a name="15"></a>15. 全球最富10%人群造成三分之二气候变暖 
+## <a name="17"></a>17. 全球最富10%人群造成三分之二气候变暖 
 <small>🔗 [e360.yale.edu](https://e360.yale.edu/digest/worlds-richest-10-percent-responsible-for-two-thirds-of-warming): Richest 10 Percent Responsible for Two-Thirds of Warming</small>
 
 
@@ -207,35 +231,11 @@ Rybbit是一款**开源、隐私友好**的Google Analytics替代方案，比传
 
 ---
 
-## <a name="16"></a>16. OpenSearch 3.0正式发布：性能提升9.5倍，助力AI搜索与分析 
-<small>🔗 [opensearch.org](https://opensearch.org/blog/opensearch-3-0-enhances-vector-database-performance/): OpenSearch 3.0 Released</small>
-
-
-| 🔥: 85 \| 💬: [20](https://news.ycombinator.com/item?id=43917122) \| 🗓️ 2025-05-07
-
-
-<br />
-OpenSearch 3.0作为开源搜索与分析平台的最新版本，**性能较1.3版提升9.5倍**，并针对AI应用（如生成式AI、混合搜索和推荐系统）优化了**向量搜索**能力。新增**GPU加速**功能可将索引构建速度提高9.3倍，同时降低3.75倍成本。平台还引入gRPC支持、Apache Calcite集成等数据管理改进，并升级至Lucene 10和Java 21，增强可维护性与扩展性。该版本由OpenSearch软件基金会发布，致力于推动开放协作与创新。
-
----
-
-## <a name="17"></a>17. Anthropic API推出网页搜索功能 
-<small>🔗 [anthropic.com](https://www.anthropic.com/news/web-search-api): Introducing Web Search on the Anthropic API</small>
-
-
-| 🔥: 82 \| 💬: [14](https://news.ycombinator.com/item?id=43920188) \| 🗓️ 2025-05-07
-
-
-<br />
-Anthropic宣布为Claude API新增**网页搜索工具**，开发者可构建能获取实时信息的AI应用。Claude能自主判断是否需要搜索，生成精准查询并分析结果，提供带引用的答案。**金融、法律、开发工具**等领域均可受益。管理员可通过域名白名单/黑名单控制访问范围，确保数据安全。该功能已集成至Claude Code，支持查询最新技术文档。定价为每千次搜索10美元，现支持Claude 3.7 Sonnet等模型。
-
----
-
 ## <a name="18"></a>18. 12年前的老主板竟获M.2 SSD启动支持 
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/pc-components/motherboards/sandy-bridge-era-motherboard-gains-m-2-ssd-boot-support-12-years-after-launch-first-new-bios-in-a-decade-for-decommissioned-motherboard): Sandy Bridge-era motherboard gets M.2 SSD boot support 12 years after launch</small>
 
 
-| 🔥: 70 \| 💬: [38](https://news.ycombinator.com/item?id=43914677) \| 🗓️ 2025-05-07
+| 🔥: 70 \| 💬: [39](https://news.ycombinator.com/item?id=43914677) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -243,7 +243,35 @@ Anthropic宣布为Claude API新增**网页搜索工具**，开发者可构建能
 
 ---
 
-## <a name="19"></a>19. Zed编辑器推出革命性AI代理编辑功能 
+## <a name="19"></a>19. 我花钱买了整块GPU，就要物尽其用 
+<small>🔗 [modal.com](https://modal.com/blog/gpu-utilization-guide): 'I paid for the whole GPU, I am going to use the whole GPU'</small>
+
+
+| 🔥: 67 \| 💬: [14](https://news.ycombinator.com/item?id=43920544) \| 🗓️ 2025-05-07
+
+
+<br />
+本文探讨了**GPU利用率**的三种衡量维度：**分配利用率**（GPU运行应用代码的时间占比）、**内核利用率**（GPU执行计算任务的时间占比）以及**模型浮点运算利用率（MFU）**（实际算力与理论算力的比值）。作者指出，由于GPU成本高昂，优化利用率至关重要，但不同层级的瓶颈（如经济限制、主机开销或数据传输）可能导致利用率低下。文中以Modal平台为例，说明通过快速资源分配、多云集群管理和定制化容器技术，可将分配利用率提升至90%以上。同时强调，高内核利用率未必代表高效算力使用，需结合通信优化和批处理等策略提升MFU。
+
+---
+
+## <a name="20"></a>20. Mac主题花园：经典Mac主题的宝库上线 
+<small>🔗 [damien.zone](https://damien.zone/introducing-mac-themes-garden/): Mac Themes Garden</small>
+
+
+| 🔥: 63 \| 💬: [19](https://news.ycombinator.com/item?id=43919868) \| 🗓️ 2025-05-07
+
+
+<br />
+Mac主题花园（Mac Themes Garden）是一个展示**3000多款**经典Mac时代Kaleidoscope主题的网站，支持浏览、下载和探索。网站还提供RSS订阅功能，方便用户获取最新主题更新。  
+
+开发者通过手动截图和记录信息，耗时数年整理这些主题，尽管过程繁琐，但确保了数据的准确性。网站采用**Astro框架**构建，优化了性能以处理近5000个页面。UI设计复刻了Mac OS 9的风格，运用了大量**CSS技巧**还原经典界面元素，如窗口边框和按钮。  
+
+目前项目已完成约一半，但开发者决定提前发布，让用户尽早体验这一怀旧宝藏。
+
+---
+
+## <a name="21"></a>21. Zed编辑器推出革命性AI代理编辑功能 
 <small>🔗 [zed.dev](https://zed.dev/blog/fastest-ai-code-editor?e=60): Agentic Editing in Zed</small>
 
 
@@ -255,59 +283,11 @@ Zed作为全球最快的**开源Rust代码编辑器**，新增了**AI代理面�
 
 ---
 
-## <a name="20"></a>20. 关税扼杀了Arduboy游戏机 
-<small>🔗 [community.arduboy.com](https://community.arduboy.com/t/tariffs-killed-arduboy/12675): Tariffs Killed Arduboy</small>
+## <a name="22"></a>22. 迷走神经刺激疗法彻底消除PTSD症状 
+<small>🔗 [neurosciencenews.com](https://neurosciencenews.com/vagus-nerve-stimulation-ptsd-28818/): Vagus Nerve Stimulation Erases PTSD: Study</small>
 
 
-| 🔥: 55 \| 💬: [21](https://news.ycombinator.com/item?id=43918425) \| 🗓️ 2025-05-07
-
-
-<br />
-Arduboy创始人表示，这款微型Game Boy风格的游戏机因**特朗普关税政策**而难以为继。原本生意蒸蒸日上，但**25%的额外关税**导致生产成本飙升，迫使项目停摆。创始人坦言，小企业无法承受此类突发政策冲击，最终选择终止运营。
-
----
-
-## <a name="21"></a>21. 寡头的愤怒：他们想要吞噬一切 
-<small>🔗 [rollingstone.com](https://www.rollingstone.com/politics/politics-features/naomi-klein-trump-musk-thiel-oligarchs-climate-science-1235330780/): Rage of the Oligarchs Naomi Klein: 'What They Want Is Absolutely Everything</small>
-
-
-| 🔥: 53 \| 💬: [13](https://news.ycombinator.com/item?id=43914789) \| 🗓️ 2025-05-07
-
-
-<br />
-娜奥米·克莱因在《卫报》撰文警告，科技亿万富翁如**马斯克**和**彼得·蒂尔**正推动一种**末日生存主义**意识形态，利用危机推进精英议程。她指出，当前资本主义已进入激进阶段，寡头们不再相信集体未来，而是为“大筛选”做准备，甚至公开接受优生学思想。克莱因强调，财富集中腐蚀人性，使超级富豪自视为神，并因权力受限而暴怒。此外，特朗普政府反科学的立场源于对监管的恐惧，正如气候否认者拒绝承认科学以维护利益。
-
----
-
-## <a name="22"></a>22. 1996年：大卫·鲍伊与在线音乐分发的实验性突破 
-<small>🔗 [cybercultural.com](https://cybercultural.com/p/online-music-distribution-1996/): Telling Lies: Bowie and Online Music Distribution in 1996</small>
-
-
-| 🔥: 52 \| 💬: [44](https://news.ycombinator.com/item?id=43917376) \| 🗓️ 2025-05-07
-
-
-<br />
-1996年，**大卫·鲍伊**与数字合作伙伴**N2K**合作，在其官网免费发布单曲《Telling Lies》，成为主流音乐人首次尝试在线分发。尽管受限于当时的**低带宽**，用户需通过RealAudio或Liquid Audio等格式下载（耗时长达45分钟），但两周内仍吸引45万次下载，验证了互联网音乐分发的潜力。N2K CEO拉里·罗森认为这预示了“绕过唱片公司直接电子分发”的未来模式，而鲍伊则将此举视为探索未知的**艺术实验**。尽管音质和技术尚不成熟，这一事件标志着音乐产业数字化转型的早期里程碑。
-
----
-
-## <a name="23"></a>23. 社交AI伴侣对18岁以下青少年构成不可接受的风险 
-<small>🔗 [commonsensemedia.org](https://www.commonsensemedia.org/ai-ratings/social-ai-companions): Social AI companions pose unacceptable risks to teens and children under 18</small>
-
-
-| 🔥: 52 \| 💬: [43](https://news.ycombinator.com/item?id=43918596) \| 🗓️ 2025-05-07
-
-
-<br />
-Common Sense Media发布报告指出，**社交AI伴侣**可能对未成年人的心理健康、隐私和社交能力产生**严重负面影响**。研究强调，这类技术缺乏监管，可能加剧青少年**情感依赖**和数据泄露风险。机构呼吁开发者和政策制定者优先保护未成年人权益，并推出首个AI内容评级框架以引导行业规范。
-
----
-
-## <a name="24"></a>24. 迷走神经刺激疗法彻底消除PTSD症状 
-<small>🔗 [neurosciencenews.com](https://neurosciencenews.com/vagus-nerve-stimulation-ptsd-28818/): Vagus Nerve Stimulation Erases PTSD</small>
-
-
-| 🔥: 52 \| 💬: [38](https://news.ycombinator.com/item?id=43919812) \| 🗓️ 2025-05-07
+| 🔥: 58 \| 💬: [44](https://news.ycombinator.com/item?id=43919812) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -315,14 +295,38 @@ Common Sense Media发布报告指出，**社交AI伴侣**可能对未成年人�
 
 ---
 
-## <a name="25"></a>25. 中型模型迎来高光时刻 
-<small>🔗 [mistral.ai](https://mistral.ai/news/mistral-medium-3): Medium Is the New Large</small>
+## <a name="23"></a>23. 关税扼杀了Arduboy游戏机 
+<small>🔗 [community.arduboy.com](https://community.arduboy.com/t/tariffs-killed-arduboy/12675): Tariffs Killed Arduboy</small>
 
 
-| 🔥: 51 \| 💬: [14](https://news.ycombinator.com/item?id=43915995) \| 🗓️ 2025-05-07
+| 🔥: 56 \| 💬: [21](https://news.ycombinator.com/item?id=43918425) \| 🗓️ 2025-05-07
 
 
 <br />
-Mistral AI发布**Mistral Medium 3**，以**8倍成本优势**实现顶尖性能，专为企业场景优化。该模型在编程、STEM任务中媲美大型竞品，支持混合部署与定制训练，已应用于金融、医疗等领域。API现已在多个云平台上线，同时预告即将推出更强大的"大型"模型。
+Arduboy创始人表示，这款微型Game Boy风格的游戏机因**特朗普关税政策**而难以为继。原本生意蒸蒸日上，但**25%的额外关税**导致生产成本飙升，迫使项目停摆。创始人坦言，小企业无法承受此类突发政策冲击，最终选择终止运营。
+
+---
+
+## <a name="24"></a>24. 寡头的愤怒：他们想要吞噬一切 
+<small>🔗 [rollingstone.com](https://www.rollingstone.com/politics/politics-features/naomi-klein-trump-musk-thiel-oligarchs-climate-science-1235330780/): Rage of the Oligarchs Naomi Klein: 'What They Want Is Absolutely Everything</small>
+
+
+| 🔥: 54 \| 💬: [14](https://news.ycombinator.com/item?id=43914789) \| 🗓️ 2025-05-07
+
+
+<br />
+娜奥米·克莱因在《卫报》撰文警告，科技亿万富翁如**马斯克**和**彼得·蒂尔**正推动一种**末日生存主义**意识形态，利用危机推进精英议程。她指出，当前资本主义已进入激进阶段，寡头们不再相信集体未来，而是为“大筛选”做准备，甚至公开接受优生学思想。克莱因强调，财富集中腐蚀人性，使超级富豪自视为神，并因权力受限而暴怒。此外，特朗普政府反科学的立场源于对监管的恐惧，正如气候否认者拒绝承认科学以维护利益。
+
+---
+
+## <a name="25"></a>25. 1996年：大卫·鲍伊与在线音乐分发的实验性突破 
+<small>🔗 [cybercultural.com](https://cybercultural.com/p/online-music-distribution-1996/): Telling Lies: Bowie and Online Music Distribution in 1996</small>
+
+
+| 🔥: 54 \| 💬: [50](https://news.ycombinator.com/item?id=43917376) \| 🗓️ 2025-05-07
+
+
+<br />
+1996年，**大卫·鲍伊**与数字合作伙伴**N2K**合作，在其官网免费发布单曲《Telling Lies》，成为主流音乐人首次尝试在线分发。尽管受限于当时的**低带宽**，用户需通过RealAudio或Liquid Audio等格式下载（耗时长达45分钟），但两周内仍吸引45万次下载，验证了互联网音乐分发的潜力。N2K CEO拉里·罗森认为这预示了“绕过唱片公司直接电子分发”的未来模式，而鲍伊则将此举视为探索未知的**艺术实验**。尽管音质和技术尚不成熟，这一事件标志着音乐产业数字化转型的早期里程碑。
 
 ---
