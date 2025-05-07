@@ -27,7 +27,7 @@ tags:
 <small>🔗 [felixrieseberg.github.io](https://felixrieseberg.github.io/clippy/): Show HN: Clippy – 90s UI for local LLMs</small>
 
 
-| 🔥🔥: 569 \| 💬: [155](https://news.ycombinator.com/item?id=43905942) \| 🗓️ 2025-05-06
+| 🔥🔥: 600 \| 💬: [163](https://news.ycombinator.com/item?id=43905942) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/): Gemini 2.5 Pro Preview</small>
 
 
-| 🔥🔥: 435 \| 💬: [420](https://news.ycombinator.com/item?id=43906018) \| 🗓️ 2025-05-06
+| 🔥🔥: 457 \| 💬: [437](https://news.ycombinator.com/item?id=43906018) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -51,7 +51,7 @@ Google提前发布了**Gemini 2.5 Pro预览版（I/O版）**，重点提升了**
 <small>🔗 [linkedin.com](https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1): Curl: We still have not seen a valid security report done with AI help</small>
 
 
-| 🔥🔥: 328 \| 💬: [167](https://news.ycombinator.com/item?id=43907376) \| 🗓️ 2025-05-06
+| 🔥🔥: 347 \| 💬: [189](https://news.ycombinator.com/item?id=43907376) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -63,7 +63,7 @@ curl创始人Daniel Stenberg发文表示，**将严打AI生成的无效安全报
 <small>🔗 [seangoedecke.com](https://www.seangoedecke.com/getting-things-done/): Getting things “done” in large tech companies</small>
 
 
-| 🔥🔥: 263 \| 💬: [184](https://news.ycombinator.com/item?id=43903741) \| 🗓️ 2025-05-06
+| 🔥🔥: 268 \| 💬: [188](https://news.ycombinator.com/item?id=43903741) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -75,7 +75,7 @@ curl创始人Daniel Stenberg发文表示，**将严打AI生成的无效安全报
 <small>🔗 [collabora.com](https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/): Matt Godbolt sold me on Rust by showing me C++</small>
 
 
-| 🔥🔥: 258 \| 💬: [203](https://news.ycombinator.com/item?id=43907820) \| 🗓️ 2025-05-06
+| 🔥🔥: 268 \| 💬: [223](https://news.ycombinator.com/item?id=43907820) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -87,7 +87,7 @@ curl创始人Daniel Stenberg发文表示，**将严打AI生成的无效安全报
 <small>🔗 [github.com](https://github.com/al13n321/nnd): Nnd – a TUI debugger alternative to GDB, LLDB</small>
 
 
-| 🔥🔥: 200 \| 💬: [65](https://news.ycombinator.com/item?id=43905185) \| 🗓️ 2025-05-06
+| 🔥🔥: 205 \| 💬: [68](https://news.ycombinator.com/item?id=43905185) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -101,7 +101,7 @@ Nnd是一款专为**Linux系统**设计的**终端用户界面（TUI）调试器
 <small>🔗 [trifectatech.org](https://trifectatech.org/blog/memory-safe-sudo-to-become-the-default-in-ubuntu/): Memory-safe sudo to become the default in Ubuntu</small>
 
 
-| 🔥🔥: 182 \| 💬: [203](https://news.ycombinator.com/item?id=43903853) \| 🗓️ 2025-05-06
+| 🔥🔥: 186 \| 💬: [209](https://news.ycombinator.com/item?id=43903853) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -113,7 +113,7 @@ Nnd是一款专为**Linux系统**设计的**终端用户界面（TUI）调试器
 <small>🔗 [accent-strength.boldvoice.com](https://accent-strength.boldvoice.com/): Accents in latent spaces: How AI hears accent strength in English</small>
 
 
-| 🔥🔥: 164 \| 💬: [79](https://news.ycombinator.com/item?id=43905299) \| 🗓️ 2025-05-06
+| 🔥🔥: 168 \| 💬: [82](https://news.ycombinator.com/item?id=43905299) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -121,23 +121,11 @@ BoldVoice团队利用**口音指纹**（768维嵌入向量）构建潜在空间�
 
 ---
 
-## <a name="9"></a>9. 让莱姆病不再可怕 
-<small>🔗 [news.northwestern.edu](https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/): New studies offer insight into Lyme disease’s treatment, lingering symptoms</small>
-
-
-| 🔥🔥: 149 \| 💬: [78](https://news.ycombinator.com/item?id=43903959) \| 🗓️ 2025-05-06
-
-
-<br />
-文章指出**麻疹“并非良性疾病”**，并强调了对莱姆病的防治重要性。通过分析疾病特点与预防措施，呼吁公众提高警惕，采取有效防护手段。**早期诊断**和**科学治疗**是避免严重后果的关键。
-
----
-
-## <a name="10"></a>10. 特朗普团队使用的TeleMessage可获取明文聊天记录 
+## <a name="9"></a>9. 特朗普团队使用的TeleMessage可获取明文聊天记录 
 <small>🔗 [micahflee.com](https://micahflee.com/despite-misleading-marketing-israeli-company-telemessage-used-by-trump-officials-can-access-plaintext-chat-logs/): TeleMessage, used by Trump officials, can access plaintext chat logs</small>
 
 
-| 🔥🔥: 138 \| 💬: [26](https://news.ycombinator.com/item?id=43909220) \| 🗓️ 2025-05-06
+| 🔥🔥: 168 \| 💬: [40](https://news.ycombinator.com/item?id=43909220) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -145,11 +133,23 @@ BoldVoice团队利用**口音指纹**（768维嵌入向量）构建潜在空间�
 
 ---
 
+## <a name="10"></a>10. 让莱姆病不再可怕 
+<small>🔗 [news.northwestern.edu](https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/): New studies offer insight into Lyme disease’s treatment, lingering symptoms</small>
+
+
+| 🔥🔥: 155 \| 💬: [81](https://news.ycombinator.com/item?id=43903959) \| 🗓️ 2025-05-06
+
+
+<br />
+文章指出**麻疹“并非良性疾病”**，并强调了对莱姆病的防治重要性。通过分析疾病特点与预防措施，呼吁公众提高警惕，采取有效防护手段。**早期诊断**和**科学治疗**是避免严重后果的关键。
+
+---
+
 ## <a name="11"></a>11. iOS版Kindle应用新增“获取书籍”按钮，顺应App Store新规 
 <small>🔗 [theverge.com](https://www.theverge.com/news/661719/amazon-app-ios-apple-iphone-ipad-kindle-buy-books): iOS Kindle app now has a ‘get book’ button after changes to App Store rules</small>
 
 
-| 🔥🔥: 102 \| 💬: [88](https://news.ycombinator.com/item?id=43909432) \| 🗓️ 2025-05-06
+| 🔥🔥: 118 \| 💬: [117](https://news.ycombinator.com/item?id=43909432) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -161,7 +161,7 @@ BoldVoice团队利用**口音指纹**（768维嵌入向量）构建潜在空间�
 <small>🔗 [haacked.com](https://haacked.com/archive/2012/07/05/turkish-i-problem-and-why-you-should-care.aspx/): The Turkish İ Problem and Why You Should Care (2012)</small>
 
 
-| 🔥: 99 \| 💬: [139](https://news.ycombinator.com/item?id=43902869) \| 🗓️ 2025-05-06
+| 🔥🔥: 102 \| 💬: [141](https://news.ycombinator.com/item?id=43902869) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -173,7 +173,7 @@ BoldVoice团队利用**口音指纹**（768维嵌入向量）构建潜在空间�
 <small>🔗 [homepages.inf.ed.ac.uk](https://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf): Propositions as Types (2014) [pdf]</small>
 
 
-| 🔥: 93 \| 💬: [49](https://news.ycombinator.com/item?id=43903945) \| 🗓️ 2025-05-06
+| 🔥: 95 \| 💬: [49](https://news.ycombinator.com/item?id=43903945) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -201,7 +201,7 @@ BoldVoice团队利用**口音指纹**（768维嵌入向量）构建潜在空间�
 <small>🔗 [github.com](https://github.com/plexe-ai/plexe): Show HN: Plexe – ML Models from a Prompt</small>
 
 
-| 🔥: 81 \| 💬: [38](https://news.ycombinator.com/item?id=43906346) \| 🗓️ 2025-05-06
+| 🔥: 83 \| 💬: [39](https://news.ycombinator.com/item?id=43906346) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -213,7 +213,7 @@ Plexe 是一个通过**自然语言描述**快速生成机器学习模型的工�
 <small>🔗 [github.com](https://github.com/reubeno/brush): Brush (Bo(u)rn(e) RUsty SHell) a POSIX and Bash-Compatible Shell in Rust</small>
 
 
-| 🔥: 75 \| 💬: [33](https://news.ycombinator.com/item?id=43908368) \| 🗓️ 2025-05-06
+| 🔥: 83 \| 💬: [42](https://news.ycombinator.com/item?id=43908368) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -225,7 +225,7 @@ Brush（**Bo(u)rn(e) RUsty SHell**）是一个基于Rust开发的**POSIX与Bash�
 <small>🔗 [github.com](https://github.com/mohsenph69/Godot-MTerrain-plugin): MTerrain: Optimized terrain system and editor for Godot</small>
 
 
-| 🔥: 63 \| 💬: [5](https://news.ycombinator.com/item?id=43904865) \| 🗓️ 2025-05-06
+| 🔥: 67 \| 💬: [5](https://news.ycombinator.com/item?id=43904865) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -237,7 +237,7 @@ MTerrain是一款为Godot引擎设计的**地形系统扩展插件**，支持生
 <small>🔗 [idiallo.com](https://idiallo.com/blog/when-the-machine-stops): Preparing for when the machine stops</small>
 
 
-| 🔥: 62 \| 💬: [41](https://news.ycombinator.com/item?id=43909111) \| 🗓️ 2025-05-06
+| 🔥: 64 \| 💬: [43](https://news.ycombinator.com/item?id=43909111) \| 🗓️ 2025-05-06
 
 
 <br />
