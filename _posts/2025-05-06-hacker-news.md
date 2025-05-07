@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [felixrieseberg.github.io](https://felixrieseberg.github.io/clippy/): Show HN: Clippy – 90s UI for local LLMs</small>
 
 
-| 🔥🔥: 636 \| 💬: [169](https://news.ycombinator.com/item?id=43905942) \| 🗓️ 2025-05-06
+| 🔥🔥: 671 \| 💬: [178](https://news.ycombinator.com/item?id=43905942) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/): Gemini 2.5 Pro Preview</small>
 
 
-| 🔥🔥: 468 \| 💬: [450](https://news.ycombinator.com/item?id=43906018) \| 🗓️ 2025-05-06
+| 🔥🔥: 481 \| 💬: [461](https://news.ycombinator.com/item?id=43906018) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -51,7 +51,7 @@ Google提前发布了**Gemini 2.5 Pro预览版（I/O版）**，重点提升了**
 <small>🔗 [linkedin.com](https://www.linkedin.com/posts/danielstenberg_hackerone-curl-activity-7324820893862363136-glb1): Curl: We still have not seen a valid security report done with AI help</small>
 
 
-| 🔥🔥: 355 \| 💬: [190](https://news.ycombinator.com/item?id=43907376) \| 🗓️ 2025-05-06
+| 🔥🔥: 360 \| 💬: [190](https://news.ycombinator.com/item?id=43907376) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -63,7 +63,7 @@ curl创始人Daniel Stenberg发文表示，**将严打AI生成的无效安全报
 <small>🔗 [collabora.com](https://www.collabora.com/news-and-blog/blog/2025/05/06/matt-godbolt-sold-me-on-rust-by-showing-me-c-plus-plus/): Matt Godbolt sold me on Rust by showing me C++</small>
 
 
-| 🔥🔥: 274 \| 💬: [230](https://news.ycombinator.com/item?id=43907820) \| 🗓️ 2025-05-06
+| 🔥🔥: 278 \| 💬: [237](https://news.ycombinator.com/item?id=43907820) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -75,7 +75,7 @@ curl创始人Daniel Stenberg发文表示，**将严打AI生成的无效安全报
 <small>🔗 [seangoedecke.com](https://www.seangoedecke.com/getting-things-done/): Getting things “done” in large tech companies</small>
 
 
-| 🔥🔥: 268 \| 💬: [192](https://news.ycombinator.com/item?id=43903741) \| 🗓️ 2025-05-06
+| 🔥🔥: 272 \| 💬: [192](https://news.ycombinator.com/item?id=43903741) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -87,7 +87,7 @@ curl创始人Daniel Stenberg发文表示，**将严打AI生成的无效安全报
 <small>🔗 [github.com](https://github.com/al13n321/nnd): Nnd – a TUI debugger alternative to GDB, LLDB</small>
 
 
-| 🔥🔥: 208 \| 💬: [70](https://news.ycombinator.com/item?id=43905185) \| 🗓️ 2025-05-06
+| 🔥🔥: 211 \| 💬: [71](https://news.ycombinator.com/item?id=43905185) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -101,7 +101,7 @@ Nnd是一款专为**Linux系统**设计的**终端用户界面（TUI）调试器
 <small>🔗 [micahflee.com](https://micahflee.com/despite-misleading-marketing-israeli-company-telemessage-used-by-trump-officials-can-access-plaintext-chat-logs/): TeleMessage, used by Trump officials, can access plaintext chat logs</small>
 
 
-| 🔥🔥: 202 \| 💬: [51](https://news.ycombinator.com/item?id=43909220) \| 🗓️ 2025-05-06
+| 🔥🔥: 207 \| 💬: [59](https://news.ycombinator.com/item?id=43909220) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -113,7 +113,7 @@ Nnd是一款专为**Linux系统**设计的**终端用户界面（TUI）调试器
 <small>🔗 [trifectatech.org](https://trifectatech.org/blog/memory-safe-sudo-to-become-the-default-in-ubuntu/): Memory-safe sudo to become the default in Ubuntu</small>
 
 
-| 🔥🔥: 188 \| 💬: [211](https://news.ycombinator.com/item?id=43903853) \| 🗓️ 2025-05-06
+| 🔥🔥: 189 \| 💬: [215](https://news.ycombinator.com/item?id=43903853) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -125,7 +125,7 @@ Nnd是一款专为**Linux系统**设计的**终端用户界面（TUI）调试器
 <small>🔗 [accent-strength.boldvoice.com](https://accent-strength.boldvoice.com/): Accents in latent spaces: How AI hears accent strength in English</small>
 
 
-| 🔥🔥: 174 \| 💬: [90](https://news.ycombinator.com/item?id=43905299) \| 🗓️ 2025-05-06
+| 🔥🔥: 180 \| 💬: [93](https://news.ycombinator.com/item?id=43905299) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -133,11 +133,23 @@ BoldVoice团队利用**口音指纹**（768维嵌入向量）构建潜在空间�
 
 ---
 
-## <a name="10"></a>10. 让莱姆病不再可怕 
+## <a name="10"></a>10. FTC新规：5月12日起禁止演唱会及短租平台隐藏收费 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/05/ftc-bans-hidden-fees-for-live-events-and-short-term-rentals-effective-may-12/): FTC bans hidden fees for live events and short-term rentals, effective May 12</small>
+
+
+| 🔥🔥: 174 \| 💬: [3](https://news.ycombinator.com/item?id=43910794) \| 🗓️ 2025-05-06
+
+
+<br />
+美国联邦贸易委员会（FTC）发布新规，要求**演唱会门票**、酒店及**短租平台**（如Airbnb）必须**明示总价**，禁止隐藏费用和误导性标价。新规涵盖第三方平台和代理商，需在广告中突出显示含所有费用的总价，并禁止使用模糊术语（如“服务费”）。动态定价仍被允许，但不得误导消费者。部分费用（如税费、可选服务费）可除外，但需提前说明。该规定旨在提升消费透明度，2024年12月已通过。
+
+---
+
+## <a name="11"></a>11. 让莱姆病不再可怕 
 <small>🔗 [news.northwestern.edu](https://news.northwestern.edu/stories/2025/04/taking-the-bite-out-of-lyme-disease/): New studies offer insight into Lyme disease’s treatment, lingering symptoms</small>
 
 
-| 🔥🔥: 159 \| 💬: [88](https://news.ycombinator.com/item?id=43903959) \| 🗓️ 2025-05-06
+| 🔥🔥: 162 \| 💬: [98](https://news.ycombinator.com/item?id=43903959) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -145,11 +157,11 @@ BoldVoice团队利用**口音指纹**（768维嵌入向量）构建潜在空间�
 
 ---
 
-## <a name="11"></a>11. iOS版Kindle应用新增“获取书籍”按钮，顺应App Store新规 
+## <a name="12"></a>12. iOS版Kindle应用新增“获取书籍”按钮，顺应App Store新规 
 <small>🔗 [theverge.com](https://www.theverge.com/news/661719/amazon-app-ios-apple-iphone-ipad-kindle-buy-books): iOS Kindle app now has a ‘get book’ button after changes to App Store rules</small>
 
 
-| 🔥🔥: 128 \| 💬: [122](https://news.ycombinator.com/item?id=43909432) \| 🗓️ 2025-05-06
+| 🔥🔥: 129 \| 💬: [129](https://news.ycombinator.com/item?id=43909432) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -157,11 +169,11 @@ BoldVoice团队利用**口音指纹**（768维嵌入向量）构建潜在空间�
 
 ---
 
-## <a name="12"></a>12. 土耳其字母“İ”问题及其重要性（2012年） 
+## <a name="13"></a>13. 土耳其字母“İ”问题及其重要性（2012年） 
 <small>🔗 [haacked.com](https://haacked.com/archive/2012/07/05/turkish-i-problem-and-why-you-should-care.aspx/): The Turkish İ Problem and Why You Should Care (2012)</small>
 
 
-| 🔥🔥: 102 \| 💬: [142](https://news.ycombinator.com/item?id=43902869) \| 🗓️ 2025-05-06
+| 🔥🔥: 102 \| 💬: [143](https://news.ycombinator.com/item?id=43902869) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -169,7 +181,7 @@ BoldVoice团队利用**口音指纹**（768维嵌入向量）构建潜在空间�
 
 ---
 
-## <a name="13"></a>13. 命题即类型：编程与逻辑的深刻联系 
+## <a name="14"></a>14. 命题即类型：编程与逻辑的深刻联系 
 <small>🔗 [homepages.inf.ed.ac.uk](https://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf): Propositions as Types (2014) [pdf]</small>
 
 
@@ -181,23 +193,11 @@ BoldVoice团队利用**口音指纹**（768维嵌入向量）构建潜在空间�
 
 ---
 
-## <a name="14"></a>14. FTC新规：5月12日起禁止演唱会及短租平台隐藏收费 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/05/ftc-bans-hidden-fees-for-live-events-and-short-term-rentals-effective-may-12/): FTC bans hidden fees for live events and short-term rentals, effective May 12</small>
-
-
-| 🔥: 95 \| 💬: [21](https://news.ycombinator.com/item?id=43910794) \| 🗓️ 2025-05-06
-
-
-<br />
-美国联邦贸易委员会（FTC）发布新规，要求**演唱会门票**、酒店及**短租平台**（如Airbnb）必须**明示总价**，禁止隐藏费用和误导性标价。新规涵盖第三方平台和代理商，需在广告中突出显示含所有费用的总价，并禁止使用模糊术语（如“服务费”）。动态定价仍被允许，但不得误导消费者。部分费用（如税费、可选服务费）可除外，但需提前说明。该规定旨在提升消费透明度，2024年12月已通过。
-
----
-
 ## <a name="15"></a>15. 用Rust实现的POSIX/Bash兼容Shell：Brush 
 <small>🔗 [github.com](https://github.com/reubeno/brush): Brush (Bo(u)rn(e) RUsty SHell) a POSIX and Bash-Compatible Shell in Rust</small>
 
 
-| 🔥: 92 \| 💬: [46](https://news.ycombinator.com/item?id=43908368) \| 🗓️ 2025-05-06
+| 🔥: 94 \| 💬: [50](https://news.ycombinator.com/item?id=43908368) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -225,7 +225,7 @@ Brush（**Bo(u)rn(e) RUsty SHell**）是一个基于Rust开发的**POSIX与Bash�
 <small>🔗 [github.com](https://github.com/plexe-ai/plexe): Show HN: Plexe – ML Models from a Prompt</small>
 
 
-| 🔥: 85 \| 💬: [40](https://news.ycombinator.com/item?id=43906346) \| 🗓️ 2025-05-06
+| 🔥: 85 \| 💬: [41](https://news.ycombinator.com/item?id=43906346) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -237,7 +237,7 @@ Plexe 是一个通过**自然语言描述**快速生成机器学习模型的工�
 <small>🔗 [github.com](https://github.com/mohsenph69/Godot-MTerrain-plugin): MTerrain: Optimized terrain system and editor for Godot</small>
 
 
-| 🔥: 74 \| 💬: [6](https://news.ycombinator.com/item?id=43904865) \| 🗓️ 2025-05-06
+| 🔥: 75 \| 💬: [6](https://news.ycombinator.com/item?id=43904865) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -245,7 +245,21 @@ MTerrain是一款为Godot引擎设计的**地形系统扩展插件**，支持生
 
 ---
 
-## <a name="19"></a>19. 当机器停转时，我们该如何应对？ 
+## <a name="19"></a>19. 美国缉毒局悄然取消执法记录仪计划 
+<small>🔗 [propublica.org](https://www.propublica.org/article/drug-enforcement-administration-ends-body-camera-program-trump): The DEA is now abandoning body cameras</small>
+
+
+| 🔥: 72 \| 💬: [16](https://news.ycombinator.com/item?id=43910720) \| 🗓️ 2025-05-06
+
+
+<br />
+根据ProPublica获取的内部邮件，**美国缉毒局（DEA）**在推行执法记录仪四年后，于4月1日终止该计划，理由是配合特朗普政府撤销拜登时期相关行政令。但司法部下属的**法警局**和**烟酒枪炮及爆炸物管理局**仍在使用记录仪。  
+
+DEA此前称记录仪能**“增强透明度”**，但如今以“不评论技术工具”为由拒绝回应。专家指出，记录仪既能保护公众，也能减少针对警员的投诉。司法部曾投入3040万美元采购设备，但仅支付了六分之一款项。
+
+---
+
+## <a name="20"></a>20. 当机器停转时，我们该如何应对？ 
 <small>🔗 [idiallo.com](https://idiallo.com/blog/when-the-machine-stops): Preparing for when the machine stops</small>
 
 
@@ -257,11 +271,11 @@ MTerrain是一款为Godot引擎设计的**地形系统扩展插件**，支持生
 
 ---
 
-## <a name="20"></a>20. 氛围编程很爽，但氛围重构才是王道 
+## <a name="21"></a>21. 氛围编程很爽，但氛围重构才是王道 
 <small>🔗 [dawidmakowski.com](https://dawidmakowski.com/en/2025/04/vibe-coding-is-fun-but-vibe-refactoring-pays-the-bills/): Vibe Coding Is Fun–But Vibe Refactoring Pays the Bills</small>
 
 
-| 🔥: 59 \| 💬: [50](https://news.ycombinator.com/item?id=43904664) \| 🗓️ 2025-05-06
+| 🔥: 59 \| 💬: [51](https://news.ycombinator.com/item?id=43904664) \| 🗓️ 2025-05-06
 
 
 <br />
@@ -269,7 +283,7 @@ MTerrain是一款为Godot引擎设计的**地形系统扩展插件**，支持生
 
 ---
 
-## <a name="21"></a>21. 开源外发Webhook与事件目的地基础设施Outpost 
+## <a name="22"></a>22. 开源外发Webhook与事件目的地基础设施Outpost 
 <small>🔗 [github.com](https://github.com/hookdeck/outpost): Show HN: Outpost – OSS infra for outbound webhooks and event destinations</small>
 
 
@@ -281,7 +295,7 @@ Outpost是一个**自托管开源**基础设施，帮助开发者轻松集成**�
 
 ---
 
-## <a name="22"></a>22. 我为何如此厌恶"氛围编程"这个说法 
+## <a name="23"></a>23. 我为何如此厌恶"氛围编程"这个说法 
 <small>🔗 [artiss.blog](https://artiss.blog/2025/03/i-so-hate-the-phrase-vibe-coding/): I so hate the phrase "vibe coding"</small>
 
 
@@ -295,7 +309,7 @@ Outpost是一个**自托管开源**基础设施，帮助开发者轻松集成**�
 
 ---
 
-## <a name="23"></a>23. 美国俄勒冈州立大学开源实验室面临资金危机 
+## <a name="24"></a>24. 美国俄勒冈州立大学开源实验室面临资金危机 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/05/02/osl_short_of_money/): Oregon State University's Open Source Lab Is Running on Fumes</small>
 
 
