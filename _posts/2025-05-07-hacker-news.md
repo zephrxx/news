@@ -27,7 +27,7 @@ tags:
 <small>🔗 [github.com](https://github.com/astral-sh/ty): Ty: A fast Python type checker and language server</small>
 
 
-| 🔥🔥: 626 \| 💬: [170](https://news.ycombinator.com/item?id=43918484) \| 🗓️ 2025-05-07
+| 🔥🔥: 656 \| 💬: [180](https://news.ycombinator.com/item?id=43918484) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -39,7 +39,7 @@ Ty 是一款**用 Rust 编写**的 Python **类型检查工具**和语言服务�
 <small>🔗 [blog.jetbrains.com](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/): CLion Is Now Free for Non-Commercial Use</small>
 
 
-| 🔥🔥: 537 \| 💬: [336](https://news.ycombinator.com/item?id=43914705) \| 🗓️ 2025-05-07
+| 🔥🔥: 547 \| 💬: [338](https://news.ycombinator.com/item?id=43914705) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -51,7 +51,7 @@ JetBrains宣布其**跨平台C/C++集成开发环境CLion**现可免费用于**�
 <small>🔗 [mfkl.github.io](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html): Unity’s Open-Source Double Standard: the ban of VLC</small>
 
 
-| 🔥🔥: 483 \| 💬: [141](https://news.ycombinator.com/item?id=43914832) \| 🗓️ 2025-05-07
+| 🔥🔥: 486 \| 💬: [144](https://news.ycombinator.com/item?id=43914832) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -65,7 +65,7 @@ JetBrains宣布其**跨平台C/C++集成开发环境CLion**现可免费用于**�
 <small>🔗 [pganalyze.com](https://pganalyze.com/blog/postgres-18-async-io): Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O</small>
 
 
-| 🔥🔥: 410 \| 💬: [101](https://news.ycombinator.com/item?id=43916577) \| 🗓️ 2025-05-07
+| 🔥🔥: 419 \| 💬: [102](https://news.ycombinator.com/item?id=43916577) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -77,7 +77,7 @@ PostgreSQL 18引入了**异步I/O**（AIO）功能，通过并行处理磁盘读
 <small>🔗 [dynomight.net](https://dynomight.net/blood/): So Much Blood</small>
 
 
-| 🔥🔥: 353 \| 💬: [156](https://news.ycombinator.com/item?id=43913751) \| 🗓️ 2025-05-07
+| 🔥🔥: 359 \| 💬: [158](https://news.ycombinator.com/item?id=43913751) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -86,10 +86,10 @@ PostgreSQL 18引入了**异步I/O**（AIO）功能，通过并行处理磁盘读
 ---
 
 ## <a name="6"></a>6. Mistral推出企业级本地化AI助手Le Chat Enterprise 
-<small>🔗 [mistral.ai](https://mistral.ai/news/le-chat-enterprise): Mistral ships le chat – enterprise AI assistant that can run on prem</small>
+<small>🔗 [mistral.ai](https://mistral.ai/news/le-chat-enterprise): Mistral ships Le Chat – enterprise AI assistant that can run on prem</small>
 
 
-| 🔥🔥: 298 \| 💬: [87](https://news.ycombinator.com/item?id=43916098) \| 🗓️ 2025-05-07
+| 🔥🔥: 319 \| 💬: [88](https://news.ycombinator.com/item?id=43916098) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -101,7 +101,7 @@ Mistral AI发布**Le Chat Enterprise**，搭载全新Mistral Medium 3模型，�
 <small>🔗 [gill.net.in](https://gill.net.in/posts/my-quest-to-make-motorcycle-riding-safer/): My quest to make motorcycle riding that tad bit safer</small>
 
 
-| 🔥🔥: 234 \| 💬: [264](https://news.ycombinator.com/item?id=43914235) \| 🗓️ 2025-05-07
+| 🔥🔥: 246 \| 💬: [273](https://news.ycombinator.com/item?id=43914235) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -113,7 +113,7 @@ Mistral AI发布**Le Chat Enterprise**，搭载全新Mistral Medium 3模型，�
 <small>🔗 [github.com](https://github.com/rybbit-io/rybbit): Open source Google Analytics replacement</small>
 
 
-| 🔥🔥: 223 \| 💬: [109](https://news.ycombinator.com/item?id=43918620) \| 🗓️ 2025-05-07
+| 🔥🔥: 235 \| 💬: [118](https://news.ycombinator.com/item?id=43918620) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -125,7 +125,7 @@ Rybbit是一款**开源、隐私友好**的Google Analytics替代方案，比传
 <small>🔗 [github.com](https://github.com/ciromattia/kcc): Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)</small>
 
 
-| 🔥🔥: 208 \| 💬: [41](https://news.ycombinator.com/item?id=43916956) \| 🗓️ 2025-05-07
+| 🔥🔥: 211 \| 💬: [41](https://news.ycombinator.com/item?id=43916956) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -139,7 +139,7 @@ Kindle Comic Converter（KCC）是一款**开源工具**，可将漫画、漫画
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/web-search-api): Web search on the Anthropic API</small>
 
 
-| 🔥🔥: 194 \| 💬: [46](https://news.ycombinator.com/item?id=43920188) \| 🗓️ 2025-05-07
+| 🔥🔥: 202 \| 💬: [46](https://news.ycombinator.com/item?id=43920188) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -151,7 +151,7 @@ Anthropic宣布为Claude API新增**网页搜索工具**，开发者可构建能
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/): Create and edit images with Gemini 2.0 in preview</small>
 
 
-| 🔥🔥: 184 \| 💬: [83](https://news.ycombinator.com/item?id=43917461) \| 🗓️ 2025-05-07
+| 🔥🔥: 189 \| 💬: [84](https://news.ycombinator.com/item?id=43917461) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -159,23 +159,11 @@ Google AI Studio 宣布 **Gemini 2.0 Flash** 预览版开放图像生成功能�
 
 ---
 
-## <a name="12"></a>12. 从程序员到CTO再到董事会：我在Cloudflare的13年旅程 
-<small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/en-us/three-chapters-at-cloudflare-programmer-to-cto-to-board-of-directors/): Three Chapters at Cloudflare: Programmer to CTO to Board of Directors</small>
-
-
-| 🔥🔥: 146 \| 💬: [27](https://news.ycombinator.com/item?id=43918600) \| 🗓️ 2025-05-07
-
-
-<br />
-Cloudflare前CTO John Graham-Cumming回顾了他在公司的13年职业生涯：从2012年以**程序员**身份加入初创团队，到主导推出**Universal SSL**等关键技术，再到如今加入董事会。他特别提到2017年**Cloudbleed事件**中团队展现的危机处理能力，以及建立伦敦和里斯本国际办公室的经历。作为技术领导者，他参与了WAF、DNS等核心产品的开发，并推动公司通过Project Galileo等项目践行"构建更好互联网"的使命。文章最后介绍了新任CTO Dane Knecht的接任，并表达了自己将以董事会成员身份继续关注AI等前沿技术领域的发展。
-
----
-
-## <a name="13"></a>13. Mac主题花园：经典Mac主题的宝库上线 
+## <a name="12"></a>12. Mac主题花园：经典Mac主题的宝库上线 
 <small>🔗 [damien.zone](https://damien.zone/introducing-mac-themes-garden/): Mac Themes Garden</small>
 
 
-| 🔥🔥: 144 \| 💬: [40](https://news.ycombinator.com/item?id=43919868) \| 🗓️ 2025-05-07
+| 🔥🔥: 148 \| 💬: [41](https://news.ycombinator.com/item?id=43919868) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -187,11 +175,23 @@ Mac主题花园（Mac Themes Garden）是一个展示**3000多款**经典Mac时�
 
 ---
 
+## <a name="13"></a>13. 从程序员到CTO再到董事会：我在Cloudflare的13年旅程 
+<small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/en-us/three-chapters-at-cloudflare-programmer-to-cto-to-board-of-directors/): Three Chapters at Cloudflare: Programmer to CTO to Board of Directors</small>
+
+
+| 🔥🔥: 146 \| 💬: [27](https://news.ycombinator.com/item?id=43918600) \| 🗓️ 2025-05-07
+
+
+<br />
+Cloudflare前CTO John Graham-Cumming回顾了他在公司的13年职业生涯：从2012年以**程序员**身份加入初创团队，到主导推出**Universal SSL**等关键技术，再到如今加入董事会。他特别提到2017年**Cloudbleed事件**中团队展现的危机处理能力，以及建立伦敦和里斯本国际办公室的经历。作为技术领导者，他参与了WAF、DNS等核心产品的开发，并推动公司通过Project Galileo等项目践行"构建更好互联网"的使命。文章最后介绍了新任CTO Dane Knecht的接任，并表达了自己将以董事会成员身份继续关注AI等前沿技术领域的发展。
+
+---
+
 ## <a name="14"></a>14. 变老并非你想的那样 
 <small>🔗 [katycowan.co.uk](https://www.katycowan.co.uk/blog/getting-old): Getting Older Isn't What You Think</small>
 
 
-| 🔥🔥: 138 \| 💬: [215](https://news.ycombinator.com/item?id=43917855) \| 🗓️ 2025-05-07
+| 🔥🔥: 141 \| 💬: [216](https://news.ycombinator.com/item?id=43917855) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -203,7 +203,7 @@ Mac主题花园（Mac Themes Garden）是一个展示**3000多款**经典Mac时�
 <small>🔗 [modal.com](https://modal.com/blog/gpu-utilization-guide): 'I paid for the whole GPU, I am going to use the whole GPU'</small>
 
 
-| 🔥🔥: 124 \| 💬: [40](https://news.ycombinator.com/item?id=43920544) \| 🗓️ 2025-05-07
+| 🔥🔥: 127 \| 💬: [40](https://news.ycombinator.com/item?id=43920544) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -211,15 +211,15 @@ Mac主题花园（Mac Themes Garden）是一个展示**3000多款**经典Mac时�
 
 ---
 
-## <a name="16"></a>16. 迷走神经刺激疗法彻底消除PTSD症状 
-<small>🔗 [neurosciencenews.com](https://neurosciencenews.com/vagus-nerve-stimulation-ptsd-28818/): Vagus Nerve Stimulation Erases PTSD: Study</small>
+## <a name="16"></a>16. 从诗人到菲尔兹奖得主：许埈珥的数学奇迹 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/): June Huh dropped out to become a poet, now he’s won a Fields Medal (2022)</small>
 
 
-| 🔥🔥: 109 \| 💬: [65](https://news.ycombinator.com/item?id=43919812) \| 🗓️ 2025-05-07
+| 🔥🔥: 114 \| 💬: [65](https://news.ycombinator.com/item?id=43920792) \| 🗓️ 2025-05-07
 
 
 <br />
-一项突破性临床研究表明，将**迷走神经刺激（VNS）**与传统暴露疗法结合后，所有参与研究的创伤后应激障碍（PTSD）患者在治疗结束六个月内均摆脱了诊断。这种疗法通过植入设备发送短脉冲刺激颈部迷走神经，显著增强**神经可塑性**，使难治性PTSD患者获得持久缓解。目前第二阶段双盲试验正在进行，有望为现有疗法无效的患者提供新选择。该研究由得克萨斯大学达拉斯分校团队主导，成果发表于《Brain Stimulation》期刊。
+许埈珥（June Huh）高中辍学追求诗歌，却在大学第六年偶然接触数学后彻底改变人生。2022年，他因**连接组合数学与几何学**的突破性成果获得**菲尔兹奖**。他的研究揭示了图论中**色多项式系数**的深层几何结构，解决了40年未解的猜想。许埈珥将艺术直觉融入数学，认为探索真理的过程如同“捕捉已存在的美”。从“迷失的诗人”到顶尖数学家，他的故事展现了偶然与坚持的奇妙交织。
 
 ---
 
@@ -227,7 +227,7 @@ Mac主题花园（Mac Themes Garden）是一个展示**3000多款**经典Mac时�
 <small>🔗 [engadget.com](https://www.engadget.com/audio/samsung-is-paying-350-million-for-audio-brands-bowers--wilkins-denon-marantz-and-polk-131514754.html): Samsung is paying $350M for audio brands B&W, Denon, Marantz and Polk</small>
 
 
-| 🔥🔥: 105 \| 💬: [131](https://news.ycombinator.com/item?id=43918437) \| 🗓️ 2025-05-07
+| 🔥🔥: 111 \| 💬: [142](https://news.ycombinator.com/item?id=43918437) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -235,11 +235,23 @@ Mac主题花园（Mac Themes Garden）是一个展示**3000多款**经典Mac时�
 
 ---
 
-## <a name="18"></a>18. Yggdrasil：一种去中心化的实验性紧凑路由方案 
+## <a name="18"></a>18. 迷走神经刺激疗法彻底消除PTSD症状 
+<small>🔗 [neurosciencenews.com](https://neurosciencenews.com/vagus-nerve-stimulation-ptsd-28818/): Vagus Nerve Stimulation Erases PTSD: Study</small>
+
+
+| 🔥🔥: 111 \| 💬: [67](https://news.ycombinator.com/item?id=43919812) \| 🗓️ 2025-05-07
+
+
+<br />
+一项突破性临床研究表明，将**迷走神经刺激（VNS）**与传统暴露疗法结合后，所有参与研究的创伤后应激障碍（PTSD）患者在治疗结束六个月内均摆脱了诊断。这种疗法通过植入设备发送短脉冲刺激颈部迷走神经，显著增强**神经可塑性**，使难治性PTSD患者获得持久缓解。目前第二阶段双盲试验正在进行，有望为现有疗法无效的患者提供新选择。该研究由得克萨斯大学达拉斯分校团队主导，成果发表于《Brain Stimulation》期刊。
+
+---
+
+## <a name="19"></a>19. Yggdrasil：一种去中心化的实验性紧凑路由方案 
 <small>🔗 [yggdrasil-network.github.io](https://yggdrasil-network.github.io/about.html): Yggdrasil is an experimental compact routing scheme that is fully decentralised</small>
 
 
-| 🔥🔥: 103 \| 💬: [25](https://news.ycombinator.com/item?id=43921624) \| 🗓️ 2025-05-07
+| 🔥🔥: 111 \| 💬: [31](https://news.ycombinator.com/item?id=43921624) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -247,7 +259,7 @@ Yggdrasil 是一种**完全去中心化**的实验性路由方案，仅需少量
 
 ---
 
-## <a name="19"></a>19. OpenSearch 3.0正式发布：性能提升9.5倍，助力AI搜索与分析 
+## <a name="20"></a>20. OpenSearch 3.0正式发布：性能提升9.5倍，助力AI搜索与分析 
 <small>🔗 [opensearch.org](https://opensearch.org/blog/opensearch-3-0-enhances-vector-database-performance/): OpenSearch 3.0 Released</small>
 
 
@@ -259,23 +271,11 @@ OpenSearch 3.0作为开源搜索与分析平台的最新版本，**性能较1.3�
 
 ---
 
-## <a name="20"></a>20. 从诗人到菲尔兹奖得主：许埈珥的数学奇迹 
-<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/): June Huh dropped out to become a poet, now he’s won a Fields Medal (2022)</small>
-
-
-| 🔥🔥: 101 \| 💬: [60](https://news.ycombinator.com/item?id=43920792) \| 🗓️ 2025-05-07
-
-
-<br />
-许埈珥（June Huh）高中辍学追求诗歌，却在大学第六年偶然接触数学后彻底改变人生。2022年，他因**连接组合数学与几何学**的突破性成果获得**菲尔兹奖**。他的研究揭示了图论中**色多项式系数**的深层几何结构，解决了40年未解的猜想。许埈珥将艺术直觉融入数学，认为探索真理的过程如同“捕捉已存在的美”。从“迷失的诗人”到顶尖数学家，他的故事展现了偶然与坚持的奇妙交织。
-
----
-
 ## <a name="21"></a>21. 巴基斯坦公司向美国走私芬太尼类似物并实施诈骗 
 <small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/): Pakistani firm shipped fentanyl analogs, scams to us</small>
 
 
-| 🔥: 97 \| 💬: [36](https://news.ycombinator.com/item?id=43921129) \| 🗓️ 2025-05-07
+| 🔥: 98 \| 💬: [36](https://news.ycombinator.com/item?id=43921129) \| 🗓️ 2025-05-07
 
 
 <br />
