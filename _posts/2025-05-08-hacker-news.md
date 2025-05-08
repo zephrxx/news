@@ -27,7 +27,7 @@ tags:
 <small>🔗 [blog.hayman.net](https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html): From: Steve Jobs. "Great idea, thank you."</small>
 
 
-| 🔥🔥: 451 \| 💬: [119](https://news.ycombinator.com/item?id=43929724) \| 🗓️ 2025-05-08
+| 🔥🔥: 533 \| 💬: [135](https://news.ycombinator.com/item?id=43929724) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/voideditor/void): Void: Open-source Cursor alternative</small>
 
 
-| 🔥🔥: 434 \| 💬: [194](https://news.ycombinator.com/item?id=43927926) \| 🗓️ 2025-05-08
+| 🔥🔥: 471 \| 💬: [211](https://news.ycombinator.com/item?id=43927926) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -51,7 +51,7 @@ Void是一款基于**VS Code**的开源AI代码编辑器，支持**任意大模�
 <small>🔗 [cnn.com](https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25): First American pope elected and will be known as Pope Leo XIV</small>
 
 
-| 🔥🔥: 369 \| 💬: [591](https://news.ycombinator.com/item?id=43927856) \| 🗓️ 2025-05-08
+| 🔥🔥: 411 \| 💬: [627](https://news.ycombinator.com/item?id=43927856) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -63,7 +63,7 @@ Void是一款基于**VS Code**的开源AI代码编辑器，支持**任意大模�
 <small>🔗 [radioandnukes.substack.com](https://radioandnukes.substack.com/p/how-dare-you-transmit-at-14-ghz): Using NASA’s SMAP satellite to detect L-band interference</small>
 
 
-| 🔥🔥: 286 \| 💬: [63](https://news.ycombinator.com/item?id=43924358) \| 🗓️ 2025-05-08
+| 🔥🔥: 288 \| 💬: [64](https://news.ycombinator.com/item?id=43924358) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -75,7 +75,7 @@ NASA的**SMAP卫星**原本用于监测土壤湿度和海洋盐度，却在2025�
 <small>🔗 [nexo.sh](https://nexo.sh/posts/microservices-for-startups/): Microservices are a tax your startup probably can't afford</small>
 
 
-| 🔥🔥: 260 \| 💬: [214](https://news.ycombinator.com/item?id=43925892) \| 🗓️ 2025-05-08
+| 🔥🔥: 268 \| 💬: [217](https://news.ycombinator.com/item?id=43925892) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -87,7 +87,7 @@ NASA的**SMAP卫星**原本用于监测土壤湿度和海洋盐度，却在2025�
 <small>🔗 [samwho.dev](https://samwho.dev/reservoir-sampling/): Reservoir Sampling</small>
 
 
-| 🔥🔥: 212 \| 💬: [47](https://news.ycombinator.com/item?id=43928315) \| 🗓️ 2025-05-08
+| 🔥🔥: 235 \| 💬: [52](https://news.ycombinator.com/item?id=43928315) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -99,7 +99,7 @@ NASA的**SMAP卫星**原本用于监测土壤湿度和海洋盐度，却在2025�
 <small>🔗 [catholicreview.org](https://catholicreview.org/chicago-native-cardinal-prevost-elected-pope-takes-name-leo-xiv/): Chicago native Cardinal Prevost elected pope, takes name Leo XIV</small>
 
 
-| 🔥🔥: 211 \| 💬: [2](https://news.ycombinator.com/item?id=43928742) \| 🗓️ 2025-05-08
+| 🔥🔥: 212 \| 💬: [2](https://news.ycombinator.com/item?id=43928742) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -111,7 +111,7 @@ NASA的**SMAP卫星**原本用于监测土壤湿度和海洋盐度，却在2025�
 <small>🔗 [github.com](https://github.com/qpoint-io/qtap): Show HN: Using eBPF to see through encryption without a proxy</small>
 
 
-| 🔥🔥: 155 \| 💬: [46](https://news.ycombinator.com/item?id=43928118) \| 🗓️ 2025-05-08
+| 🔥🔥: 171 \| 💬: [49](https://news.ycombinator.com/item?id=43928118) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -128,7 +128,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [propublica.org](https://www.propublica.org/article/trump-nih-cuts-transgender-research-grants): Trump's NIH axed research grants even after a judge blocked the cuts</small>
 
 
-| 🔥🔥: 134 \| 💬: [117](https://news.ycombinator.com/item?id=43926149) \| 🗓️ 2025-05-08
+| 🔥🔥: 135 \| 💬: [123](https://news.ycombinator.com/item?id=43926149) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -140,7 +140,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [fusionenergybase.com](https://www.fusionenergybase.com/articles/continuing-progress-toward-fusion-energy-breakeven-and-gain-as-measured-against-the-lawson-criteria): Progress toward fusion energy gain as measured against the Lawson criteria</small>
 
 
-| 🔥🔥: 121 \| 💬: [45](https://news.ycombinator.com/item?id=43927337) \| 🗓️ 2025-05-08
+| 🔥🔥: 129 \| 💬: [53](https://news.ycombinator.com/item?id=43927337) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -152,7 +152,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [ghiculescu.substack.com](https://ghiculescu.substack.com/p/nobody-codes-here-anymore): Notes on rolling out Cursor and Claude Code</small>
 
 
-| 🔥🔥: 108 \| 💬: [35](https://news.ycombinator.com/item?id=43927914) \| 🗓️ 2025-05-08
+| 🔥🔥: 123 \| 💬: [48](https://news.ycombinator.com/item?id=43927914) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -160,29 +160,29 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 
 ---
 
-## <a name="12"></a>12. 越来越多人选择洗掉纹身 
-<small>🔗 [gq.com](https://www.gq.com/story/why-is-everyone-getting-their-tattoos-removed): More people are getting tattoos removed</small>
-
-
-| 🔥: 86 \| 💬: [145](https://news.ycombinator.com/item?id=43927948) \| 🗓️ 2025-05-08
-
-
-<br />
-文章探讨了**激光洗纹身**的流行趋势及其背后的原因。尽管过程痛苦（伴随灼烧感和刺耳声响），但技术进步使洗纹身更普及。**皮秒激光**通过粉碎墨水颗粒让免疫系统清除残留，通常需1-2年完成。约25%的纹身者后悔，尤其是千禧一代因生活阶段变化寻求改变。名人如Pete Davidson的“去纹身”形象助推了这一潮流。行业也从中获利，连锁机构如Removery获巨额投资。纹身正从“永久标记”转向**时尚消费品**，甚至引发传统纹身文化的争议。
-
----
-
-## <a name="13"></a>13. Stack Overflow问题被关闭后，我写了一篇关于CoreWCF的博客 
+## <a name="12"></a>12. Stack Overflow问题被关闭后，我写了一篇关于CoreWCF的博客 
 <small>🔗 [richardcocks.github.io](https://richardcocks.github.io/2025-05-08-CoreWCF.html): My stackoverflow question was closed so here's a blog post about CoreWCF</small>
 
 
-| 🔥: 80 \| 💬: [115](https://news.ycombinator.com/item?id=43925355) \| 🗓️ 2025-05-08
+| 🔥: 90 \| 💬: [127](https://news.ycombinator.com/item?id=43925355) \| 🗓️ 2025-05-08
 
 
 <br />
 作者在尝试实现**.NET Framework与dotnet 8之间的RPC通信**时，遇到**CoreWCF服务在客户端关闭后仍持续占用CPU**的问题。由于问题涉及不同版本的WCF混淆（CoreWCF、.NET Core的WCF客户端等），他未选择提交GitHub issue，而是转向Stack Overflow提问，但因包含外部链接和代码不完整被关闭。  
 
 他重构问题后提供了完整的最小复现代码，但问题仍被永久关闭。于是通过博客分享实验：尝试用**WCF流式传输随机数**，发现服务端在客户端断开后仍持续写入流，缺乏背压机制。最终质疑WCF流是否仅适用于固定长度的数据传输，并探讨替代方案（如分片消息或会话模式）。文末呼吁读者通过社交平台交流解惑。
+
+---
+
+## <a name="13"></a>13. 越来越多人选择洗掉纹身 
+<small>🔗 [gq.com](https://www.gq.com/story/why-is-everyone-getting-their-tattoos-removed): More people are getting tattoos removed</small>
+
+
+| 🔥: 88 \| 💬: [150](https://news.ycombinator.com/item?id=43927948) \| 🗓️ 2025-05-08
+
+
+<br />
+文章探讨了**激光洗纹身**的流行趋势及其背后的原因。尽管过程痛苦（伴随灼烧感和刺耳声响），但技术进步使洗纹身更普及。**皮秒激光**通过粉碎墨水颗粒让免疫系统清除残留，通常需1-2年完成。约25%的纹身者后悔，尤其是千禧一代因生活阶段变化寻求改变。名人如Pete Davidson的“去纹身”形象助推了这一潮流。行业也从中获利，连锁机构如Removery获巨额投资。纹身正从“永久标记”转向**时尚消费品**，甚至引发传统纹身文化的争议。
 
 ---
 
@@ -202,7 +202,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [news.artnet.com](https://news.artnet.com/art-world/hidden-messages-paris-luxor-obelisk-2636508): Egyptologist uncovers hidden messages on Paris’s iconic obelisk</small>
 
 
-| 🔥: 68 \| 💬: [65](https://news.ycombinator.com/item?id=43924117) \| 🗓️ 2025-05-08
+| 🔥: 72 \| 💬: [65](https://news.ycombinator.com/item?id=43924117) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -210,11 +210,23 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 
 ---
 
-## <a name="16"></a>16. 全球化并未掏空美国中产阶级 
+## <a name="16"></a>16. 静态即服务：当React服务端组件遇上零成本托管 
+<small>🔗 [overreacted.io](https://overreacted.io/static-as-a-server/): Static as a Server</small>
+
+
+| 🔥: 63 \| 💬: [41](https://news.ycombinator.com/item?id=43929054) \| 🗓️ 2025-05-08
+
+
+<br />
+本文探讨了**React服务端组件(RSC)**如何通过**混合框架**实现静态化部署。作者以Next.js为例，演示了在构建阶段预渲染动态内容，最终通过Cloudflare免费CDN托管的技术方案。核心观点在于：**"静态"本质是提前运行的"服务端"**，现代框架已模糊二者界限。这种模式既保留服务端开发的灵活性，又能享受静态部署的成本优势，同时避免工具链碎片化。关键在于框架需支持按路由选择渲染方式，实现动静结合的渐进式开发。
+
+---
+
+## <a name="17"></a>17. 全球化并未掏空美国中产阶级 
 <small>🔗 [noahpinion.blog](https://www.noahpinion.blog/p/globalization-did-not-hollow-out): Globalization did not hollow out the American middle class</small>
 
 
-| 🔥: 61 \| 💬: [59](https://news.ycombinator.com/item?id=43925911) \| 🗓️ 2025-05-08
+| 🔥: 61 \| 💬: [60](https://news.ycombinator.com/item?id=43925911) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -222,7 +234,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 
 ---
 
-## <a name="17"></a>17. 苹果II鼠标卡中断信号确实与垂直消隐同步 
+## <a name="18"></a>18. 苹果II鼠标卡中断信号确实与垂直消隐同步 
 <small>🔗 [colino.net](https://www.colino.net/wordpress/en/archives/2025/05/08/yes-the-apple-ii-mousecard-irq-is-synced-to-the-vbl/): Yes, the Apple II MouseCard IRQ is synced to the VBL</small>
 
 
@@ -240,19 +252,19 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 
 ---
 
-## <a name="18"></a>18. 静态即服务：当React服务端组件遇上零成本托管 
-<small>🔗 [overreacted.io](https://overreacted.io/static-as-a-server/): Static as a Server</small>
+## <a name="19"></a>19. 优步“淋浴门”丑闻暴露高管双标 
+<small>🔗 [teamblind.com](https://www.teamblind.com/post/ubers-shower-gate-scandal-KpqjYBkP): Uber's Shower Gate Scandal</small>
 
 
-| 🔥: 57 \| 💬: [38](https://news.ycombinator.com/item?id=43929054) \| 🗓️ 2025-05-08
+| 🔥: 59 \| 💬: [15](https://news.ycombinator.com/item?id=43928267) \| 🗓️ 2025-05-08
 
 
 <br />
-本文探讨了**React服务端组件(RSC)**如何通过**混合框架**实现静态化部署。作者以Next.js为例，演示了在构建阶段预渲染动态内容，最终通过Cloudflare免费CDN托管的技术方案。核心观点在于：**"静态"本质是提前运行的"服务端"**，现代框架已模糊二者界限。这种模式既保留服务端开发的灵活性，又能享受静态部署的成本优势，同时避免工具链碎片化。关键在于框架需支持按路由选择渲染方式，实现动静结合的渐进式开发。
+优步在全员会议上要求员工**强制返岗（RTO）**，但两名高管却远程参会：一位在酒店房间被拍到有半裸男子从身后走过，另一位则炫耀自己在纳帕度假。与此同时，公司取消远程办公许可、延长带薪休假门槛至8年，引发员工愤怒。**“高管特权”与员工待遇的鲜明对比**激化了矛盾，内部聊天区爆发抗议，甚至出现裁员。这场风波被员工称为“何不食肉糜”时刻，凸显管理层与基层的割裂。
 
 ---
 
-## <a name="19"></a>19. 蛋白质设计工具能否解决抗蛇毒血清短缺问题？ 
+## <a name="20"></a>20. 蛋白质设计工具能否解决抗蛇毒血清短缺问题？ 
 <small>🔗 [owlposting.com](https://www.owlposting.com/p/will-protein-design-tools-solve-the): Will protein design tools solve the snake antivenom shortage?</small>
 
 
@@ -261,18 +273,6 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 
 <br />
 本文探讨了**抗蛇毒血清**生产面临的严峻挑战，包括高昂成本、地域性短缺以及**蛇毒成分的高度异质性**（不同蛇种、地域甚至个体间的差异）。作者分析了计算蛋白质设计工具（如RFDiffusion）的潜力，认为其可能通过精准设计结合毒素的蛋白质来替代传统血清，但需克服蛇毒复杂性和临床验证等障碍。全球每年约8-13万人死于蛇咬伤，而现有血清市场因利润低、信任危机而萎缩，凸显技术革新的紧迫性。
-
----
-
-## <a name="20"></a>20. 优步“淋浴门”丑闻暴露高管双标 
-<small>🔗 [teamblind.com](https://www.teamblind.com/post/ubers-shower-gate-scandal-KpqjYBkP): Uber's Shower Gate Scandal</small>
-
-
-| 🔥: 53 \| 💬: [13](https://news.ycombinator.com/item?id=43928267) \| 🗓️ 2025-05-08
-
-
-<br />
-优步在全员会议上要求员工**强制返岗（RTO）**，但两名高管却远程参会：一位在酒店房间被拍到有半裸男子从身后走过，另一位则炫耀自己在纳帕度假。与此同时，公司取消远程办公许可、延长带薪休假门槛至8年，引发员工愤怒。**“高管特权”与员工待遇的鲜明对比**激化了矛盾，内部聊天区爆发抗议，甚至出现裁员。这场风波被员工称为“何不食肉糜”时刻，凸显管理层与基层的割裂。
 
 ---
 
