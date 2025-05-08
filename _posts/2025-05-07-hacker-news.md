@@ -9,8 +9,8 @@ tags:
 
 
 1. JetBrains宣布CLion免费供非商业用途使用；
-1. Unity的双标开源政策：封杀VLC事件始末；
 1. Ty：基于 Rust 的极速 Python 类型检查器与语言服务器；
+1. Unity的双标开源政策：封杀VLC事件始末；
 1. PostgreSQL 18前瞻：异步I/O加速磁盘读取性能；
 1. 美国血液出口真相：数据背后的玄机；
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [blog.jetbrains.com](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/): CLion Is Now Free for Non-Commercial Use</small>
 
 
-| 🔥🔥: 499 \| 💬: [313](https://news.ycombinator.com/item?id=43914705) \| 🗓️ 2025-05-07
+| 🔥🔥: 508 \| 💬: [317](https://news.ycombinator.com/item?id=43914705) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -35,11 +35,23 @@ JetBrains宣布其**跨平台C/C++集成开发环境CLion**现可免费用于**�
 
 ---
 
-## <a name="2"></a>2. Unity的双标开源政策：封杀VLC事件始末 
+## <a name="2"></a>2. Ty：基于 Rust 的极速 Python 类型检查器与语言服务器 
+<small>🔗 [github.com](https://github.com/astral-sh/ty): Ty: A fast Python type checker and language server</small>
+
+
+| 🔥🔥: 483 \| 💬: [142](https://news.ycombinator.com/item?id=43918484) \| 🗓️ 2025-05-07
+
+
+<br />
+Ty 是一款**用 Rust 编写**的 Python **类型检查工具**和语言服务器，主打**极高性能**，目前仍处于开发阶段，尚未投入生产环境。项目采用 MIT 许可证，开发者可通过提交 Issue 反馈问题，或前往 Ruff 仓库参与代码贡献（核心 Rust 代码位于 ruff 子模块）。当前已获 319 颗星，但需注意其**非稳定版本**的特性。
+
+---
+
+## <a name="3"></a>3. Unity的双标开源政策：封杀VLC事件始末 
 <small>🔗 [mfkl.github.io](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html): Unity’s Open-Source Double Standard: the ban of VLC</small>
 
 
-| 🔥🔥: 453 \| 💬: [125](https://news.ycombinator.com/item?id=43914832) \| 🗓️ 2025-05-07
+| 🔥🔥: 463 \| 💬: [128](https://news.ycombinator.com/item?id=43914832) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -49,23 +61,11 @@ JetBrains宣布其**跨平台C/C++集成开发环境CLion**现可免费用于**�
 
 ---
 
-## <a name="3"></a>3. Ty：基于 Rust 的极速 Python 类型检查器与语言服务器 
-<small>🔗 [github.com](https://github.com/astral-sh/ty): Ty: A fast Python type checker and language server</small>
-
-
-| 🔥🔥: 449 \| 💬: [130](https://news.ycombinator.com/item?id=43918484) \| 🗓️ 2025-05-07
-
-
-<br />
-Ty 是一款**用 Rust 编写**的 Python **类型检查工具**和语言服务器，主打**极高性能**，目前仍处于开发阶段，尚未投入生产环境。项目采用 MIT 许可证，开发者可通过提交 Issue 反馈问题，或前往 Ruff 仓库参与代码贡献（核心 Rust 代码位于 ruff 子模块）。当前已获 319 颗星，但需注意其**非稳定版本**的特性。
-
----
-
 ## <a name="4"></a>4. PostgreSQL 18前瞻：异步I/O加速磁盘读取性能 
 <small>🔗 [pganalyze.com](https://pganalyze.com/blog/postgres-18-async-io): Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O</small>
 
 
-| 🔥🔥: 345 \| 💬: [90](https://news.ycombinator.com/item?id=43916577) \| 🗓️ 2025-05-07
+| 🔥🔥: 357 \| 💬: [93](https://news.ycombinator.com/item?id=43916577) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -77,7 +77,7 @@ PostgreSQL 18引入了**异步I/O**（AIO）功能，通过并行处理磁盘读
 <small>🔗 [dynomight.net](https://dynomight.net/blood/): So Much Blood</small>
 
 
-| 🔥🔥: 306 \| 💬: [134](https://news.ycombinator.com/item?id=43913751) \| 🗓️ 2025-05-07
+| 🔥🔥: 321 \| 💬: [142](https://news.ycombinator.com/item?id=43913751) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -89,7 +89,7 @@ PostgreSQL 18引入了**异步I/O**（AIO）功能，通过并行处理磁盘读
 <small>🔗 [mistral.ai](https://mistral.ai/news/le-chat-enterprise): Mistral ships le chat – enterprise AI assistant that can run on prem</small>
 
 
-| 🔥🔥: 206 \| 💬: [68](https://news.ycombinator.com/item?id=43916098) \| 🗓️ 2025-05-07
+| 🔥🔥: 231 \| 💬: [72](https://news.ycombinator.com/item?id=43916098) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -101,7 +101,7 @@ Mistral AI发布**Le Chat Enterprise**，搭载全新Mistral Medium 3模型，�
 <small>🔗 [gill.net.in](https://gill.net.in/posts/my-quest-to-make-motorcycle-riding-safer/): My quest to make motorcycle riding that tad bit safer</small>
 
 
-| 🔥🔥: 198 \| 💬: [224](https://news.ycombinator.com/item?id=43914235) \| 🗓️ 2025-05-07
+| 🔥🔥: 205 \| 💬: [238](https://news.ycombinator.com/item?id=43914235) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -113,7 +113,7 @@ Mistral AI发布**Le Chat Enterprise**，搭载全新Mistral Medium 3模型，�
 <small>🔗 [github.com](https://github.com/ciromattia/kcc): Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)</small>
 
 
-| 🔥🔥: 184 \| 💬: [38](https://news.ycombinator.com/item?id=43916956) \| 🗓️ 2025-05-07
+| 🔥🔥: 192 \| 💬: [38](https://news.ycombinator.com/item?id=43916956) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -123,7 +123,31 @@ Kindle Comic Converter（KCC）是一款**开源工具**，可将漫画、漫画
 
 ---
 
-## <a name="9"></a>9. 从程序员到CTO再到董事会：我在Cloudflare的13年旅程 
+## <a name="9"></a>9. 开源替代Google Analytics的工具：Rybbit 
+<small>🔗 [github.com](https://github.com/rybbit-io/rybbit): Open source Google Analytics replacement</small>
+
+
+| 🔥🔥: 151 \| 💬: [77](https://news.ycombinator.com/item?id=43918620) \| 🗓️ 2025-05-07
+
+
+<br />
+Rybbit是一款**开源、隐私友好**的Google Analytics替代方案，比传统工具**直观10倍**。它提供所有核心网站分析指标（如会话、独立用户、页面浏览量等），且**无需Cookie或用户追踪**，完全符合GDPR和CCPA规范。支持实时仪表盘、自定义事件、地理位置追踪（国家→地区→城市）及高级过滤功能，可自托管或使用托管服务。目前已在GitHub获得970颗星，采用AGPL-3.0许可证。
+
+---
+
+## <a name="10"></a>10. Gemini 2.0 预览版上线：AI 图像生成与编辑新功能 
+<small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/): Create and edit images with Gemini 2.0 in preview</small>
+
+
+| 🔥🔥: 148 \| 💬: [66](https://news.ycombinator.com/item?id=43917461) \| 🗓️ 2025-05-07
+
+
+<br />
+Google AI Studio 宣布 **Gemini 2.0 Flash** 预览版开放图像生成功能，开发者可通过 API 集成对话式图像创作与编辑，并享受更高的速率限制。新版本优化了**视觉质量**和**文本渲染准确性**，同时大幅降低过滤拦截率。支持实时协作编辑、局部图像修改及动态生成产品图等场景。开发者现可通过 Google AI Studio 或 Vertex AI 体验这一功能，未来还将推出更多改进。
+
+---
+
+## <a name="11"></a>11. 从程序员到CTO再到董事会：我在Cloudflare的13年旅程 
 <small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/en-us/three-chapters-at-cloudflare-programmer-to-cto-to-board-of-directors/): Three Chapters at Cloudflare: Programmer to CTO to Board of Directors</small>
 
 
@@ -135,23 +159,11 @@ Cloudflare前CTO John Graham-Cumming回顾了他在公司的13年职业生涯：
 
 ---
 
-## <a name="10"></a>10. Gemini 2.0 预览版上线：AI 图像生成与编辑新功能 
-<small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/): Create and edit images with Gemini 2.0 in preview</small>
-
-
-| 🔥🔥: 135 \| 💬: [58](https://news.ycombinator.com/item?id=43917461) \| 🗓️ 2025-05-07
-
-
-<br />
-Google AI Studio 宣布 **Gemini 2.0 Flash** 预览版开放图像生成功能，开发者可通过 API 集成对话式图像创作与编辑，并享受更高的速率限制。新版本优化了**视觉质量**和**文本渲染准确性**，同时大幅降低过滤拦截率。支持实时协作编辑、局部图像修改及动态生成产品图等场景。开发者现可通过 Google AI Studio 或 Vertex AI 体验这一功能，未来还将推出更多改进。
-
----
-
-## <a name="11"></a>11. 变老并非你想的那样 
+## <a name="12"></a>12. 变老并非你想的那样 
 <small>🔗 [katycowan.co.uk](https://www.katycowan.co.uk/blog/getting-old): Getting Older Isn't What You Think</small>
 
 
-| 🔥🔥: 135 \| 💬: [189](https://news.ycombinator.com/item?id=43917855) \| 🗓️ 2025-05-07
+| 🔥🔥: 135 \| 💬: [193](https://news.ycombinator.com/item?id=43917855) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -159,23 +171,11 @@ Google AI Studio 宣布 **Gemini 2.0 Flash** 预览版开放图像生成功能�
 
 ---
 
-## <a name="12"></a>12. 开源替代Google Analytics的工具：Rybbit 
-<small>🔗 [github.com](https://github.com/rybbit-io/rybbit): Open source Google Analytics replacement</small>
-
-
-| 🔥🔥: 133 \| 💬: [69](https://news.ycombinator.com/item?id=43918620) \| 🗓️ 2025-05-07
-
-
-<br />
-Rybbit是一款**开源、隐私友好**的Google Analytics替代方案，比传统工具**直观10倍**。它提供所有核心网站分析指标（如会话、独立用户、页面浏览量等），且**无需Cookie或用户追踪**，完全符合GDPR和CCPA规范。支持实时仪表盘、自定义事件、地理位置追踪（国家→地区→城市）及高级过滤功能，可自托管或使用托管服务。目前已在GitHub获得970颗星，采用AGPL-3.0许可证。
-
----
-
 ## <a name="13"></a>13. Anthropic API推出网页搜索功能 
-<small>🔗 [anthropic.com](https://www.anthropic.com/news/web-search-api): Introducing Web Search on the Anthropic API</small>
+<small>🔗 [anthropic.com](https://www.anthropic.com/news/web-search-api): Web search on the Anthropic API</small>
 
 
-| 🔥🔥: 112 \| 💬: [24](https://news.ycombinator.com/item?id=43920188) \| 🗓️ 2025-05-07
+| 🔥🔥: 132 \| 💬: [26](https://news.ycombinator.com/item?id=43920188) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -199,7 +199,7 @@ Anthropic宣布为Claude API新增**网页搜索工具**，开发者可构建能
 <small>🔗 [opensearch.org](https://opensearch.org/blog/opensearch-3-0-enhances-vector-database-performance/): OpenSearch 3.0 Released</small>
 
 
-| 🔥: 86 \| 💬: [23](https://news.ycombinator.com/item?id=43917122) \| 🗓️ 2025-05-07
+| 🔥: 92 \| 💬: [23](https://news.ycombinator.com/item?id=43917122) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -207,47 +207,11 @@ OpenSearch 3.0作为开源搜索与分析平台的最新版本，**性能较1.3�
 
 ---
 
-## <a name="16"></a>16. 大学生正用AI作弊席卷校园 
-<small>🔗 [nymag.com](https://nymag.com/intelligencer/article/openai-chatgpt-ai-cheating-education-college-students-school.html): Everyone Is Cheating Their Way Through College</small>
-
-
-| 🔥: 85 \| 💬: [138](https://news.ycombinator.com/item?id=43914834) \| 🗓️ 2025-05-07
-
-
-<br />
-文章揭露了以哥伦比亚大学学生Chungin "Roy" Lee为代表的**AI作弊现象**：他通过ChatGPT完成80%的作业，甚至开发面试作弊工具。调查显示近90%学生用AI辅助作业，教授们难以甄别**AI生成内容**。尽管学校尝试限制，学生仍将AI视为"必备工具"，甚至依赖其完成论文框架。学者警告这可能导致**学历贬值**，削弱批判性思维。教育界陷入监管困境，而学生已无法想象脱离AI的学习方式。
-
----
-
-## <a name="17"></a>17. 全球最富10%人群造成三分之二气候变暖 
-<small>🔗 [e360.yale.edu](https://e360.yale.edu/digest/worlds-richest-10-percent-responsible-for-two-thirds-of-warming): Richest 10 Percent Responsible for Two-Thirds of Warming</small>
-
-
-| 🔥: 85 \| 💬: [63](https://news.ycombinator.com/item?id=43914876) \| 🗓️ 2025-05-07
-
-
-<br />
-《自然·气候变化》最新研究显示，自1990年以来，**全球最富有的10%人口**贡献了三分之二的气候变暖，其中**最富1%人群**单独导致五分之一的升温。其影响不仅源于高能耗生活方式，更因投资**化石燃料等重污染行业**。该群体对极端高温的“贡献”是普通人的26倍，并导致亚马逊干旱风险激增17倍。研究指出，科学已能追溯企业气候责任，例如雪佛龙公司或需为全球高温损失承担3.6万亿美元赔偿。
-
----
-
-## <a name="18"></a>18. 12年前的老主板竟获M.2 SSD启动支持 
-<small>🔗 [tomshardware.com](https://www.tomshardware.com/pc-components/motherboards/sandy-bridge-era-motherboard-gains-m-2-ssd-boot-support-12-years-after-launch-first-new-bios-in-a-decade-for-decommissioned-motherboard): Sandy Bridge-era motherboard gets M.2 SSD boot support 12 years after launch</small>
-
-
-| 🔥: 70 \| 💬: [39](https://news.ycombinator.com/item?id=43914677) \| 🗓️ 2025-05-07
-
-
-<br />
-中国网友WhiteCamellia发现，**技嘉**为已停产的**B75M-D3H**主板（2012年发布）发布了新固件F16f，主要修复2024年曝光的PKfail漏洞，但意外加入了**NVMe启动支持**。这款主板原本仅配备SATA接口，但通过PCIe转接卡可连接M.2 SSD。尽管受限于PCIe 2.0带宽（实测读写约2000MB/s），性能仍远超传统SATA III。这是该主板十年来首次更新，尚不清楚该功能是否为技嘉有意添加。类似情况可能也存在于同期其他主板中。
-
----
-
-## <a name="19"></a>19. 我花钱买了整块GPU，就要物尽其用 
+## <a name="16"></a>16. 我花钱买了整块GPU，就要物尽其用 
 <small>🔗 [modal.com](https://modal.com/blog/gpu-utilization-guide): 'I paid for the whole GPU, I am going to use the whole GPU'</small>
 
 
-| 🔥: 67 \| 💬: [14](https://news.ycombinator.com/item?id=43920544) \| 🗓️ 2025-05-07
+| 🔥: 88 \| 💬: [19](https://news.ycombinator.com/item?id=43920544) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -255,11 +219,11 @@ OpenSearch 3.0作为开源搜索与分析平台的最新版本，**性能较1.3�
 
 ---
 
-## <a name="20"></a>20. Mac主题花园：经典Mac主题的宝库上线 
+## <a name="17"></a>17. Mac主题花园：经典Mac主题的宝库上线 
 <small>🔗 [damien.zone](https://damien.zone/introducing-mac-themes-garden/): Mac Themes Garden</small>
 
 
-| 🔥: 63 \| 💬: [19](https://news.ycombinator.com/item?id=43919868) \| 🗓️ 2025-05-07
+| 🔥: 86 \| 💬: [21](https://news.ycombinator.com/item?id=43919868) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -271,7 +235,69 @@ Mac主题花园（Mac Themes Garden）是一个展示**3000多款**经典Mac时�
 
 ---
 
-## <a name="21"></a>21. Zed编辑器推出革命性AI代理编辑功能 
+## <a name="18"></a>18. 大学生正用AI作弊席卷校园 
+<small>🔗 [nymag.com](https://nymag.com/intelligencer/article/openai-chatgpt-ai-cheating-education-college-students-school.html): Everyone Is Cheating Their Way Through College</small>
+
+
+| 🔥: 85 \| 💬: [138](https://news.ycombinator.com/item?id=43914834) \| 🗓️ 2025-05-07
+
+
+<br />
+文章揭露了以哥伦比亚大学学生Chungin "Roy" Lee为代表的**AI作弊现象**：他通过ChatGPT完成80%的作业，甚至开发面试作弊工具。调查显示近90%学生用AI辅助作业，教授们难以甄别**AI生成内容**。尽管学校尝试限制，学生仍将AI视为"必备工具"，甚至依赖其完成论文框架。学者警告这可能导致**学历贬值**，削弱批判性思维。教育界陷入监管困境，而学生已无法想象脱离AI的学习方式。
+
+---
+
+## <a name="19"></a>19. 全球最富10%人群造成三分之二气候变暖 
+<small>🔗 [e360.yale.edu](https://e360.yale.edu/digest/worlds-richest-10-percent-responsible-for-two-thirds-of-warming): Richest 10 Percent Responsible for Two-Thirds of Warming</small>
+
+
+| 🔥: 85 \| 💬: [63](https://news.ycombinator.com/item?id=43914876) \| 🗓️ 2025-05-07
+
+
+<br />
+《自然·气候变化》最新研究显示，自1990年以来，**全球最富有的10%人口**贡献了三分之二的气候变暖，其中**最富1%人群**单独导致五分之一的升温。其影响不仅源于高能耗生活方式，更因投资**化石燃料等重污染行业**。该群体对极端高温的“贡献”是普通人的26倍，并导致亚马逊干旱风险激增17倍。研究指出，科学已能追溯企业气候责任，例如雪佛龙公司或需为全球高温损失承担3.6万亿美元赔偿。
+
+---
+
+## <a name="20"></a>20. 巴基斯坦公司向美国走私芬太尼类似物并实施诈骗 
+<small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/): Pakistani firm shipped fentanyl analogs, scams to us</small>
+
+
+| 🔥: 85 \| 💬: [31](https://news.ycombinator.com/item?id=43921129) \| 🗓️ 2025-05-07
+
+
+<br />
+调查显示，**eWorldTrade**这家德州公司涉嫌通过在线平台分销合成阿片类药物（如比芬太尼更强的**异托尼太嗪**和卡芬太尼），并与巴基斯坦的**Abtach Ltd**等企业构成庞大诈骗网络。这些公司以低价商标注册、图书出版和网站设计为诱饵，骗取西方客户钱财后实施**勒索**。  
+
+Abtach创始人Azneem Bilwani还涉及巴基斯坦史上最大洗钱案，其关联公司Digitonics Labs通过伪造商标证书和钓鱼网站月入250万美元。部分涉案人员曾效力于**Axact**（2015年因贩卖假文凭被查），如今以新名义继续行骗。美国德州多家关联企业也因欺诈和违约被起诉。
+
+---
+
+## <a name="21"></a>21. 迷走神经刺激疗法彻底消除PTSD症状 
+<small>🔗 [neurosciencenews.com](https://neurosciencenews.com/vagus-nerve-stimulation-ptsd-28818/): Vagus Nerve Stimulation Erases PTSD: Study</small>
+
+
+| 🔥: 77 \| 💬: [50](https://news.ycombinator.com/item?id=43919812) \| 🗓️ 2025-05-07
+
+
+<br />
+一项突破性临床研究表明，将**迷走神经刺激（VNS）**与传统暴露疗法结合后，所有参与研究的创伤后应激障碍（PTSD）患者在治疗结束六个月内均摆脱了诊断。这种疗法通过植入设备发送短脉冲刺激颈部迷走神经，显著增强**神经可塑性**，使难治性PTSD患者获得持久缓解。目前第二阶段双盲试验正在进行，有望为现有疗法无效的患者提供新选择。该研究由得克萨斯大学达拉斯分校团队主导，成果发表于《Brain Stimulation》期刊。
+
+---
+
+## <a name="22"></a>22. 12年前的老主板竟获M.2 SSD启动支持 
+<small>🔗 [tomshardware.com](https://www.tomshardware.com/pc-components/motherboards/sandy-bridge-era-motherboard-gains-m-2-ssd-boot-support-12-years-after-launch-first-new-bios-in-a-decade-for-decommissioned-motherboard): Sandy Bridge-era motherboard gets M.2 SSD boot support 12 years after launch</small>
+
+
+| 🔥: 70 \| 💬: [39](https://news.ycombinator.com/item?id=43914677) \| 🗓️ 2025-05-07
+
+
+<br />
+中国网友WhiteCamellia发现，**技嘉**为已停产的**B75M-D3H**主板（2012年发布）发布了新固件F16f，主要修复2024年曝光的PKfail漏洞，但意外加入了**NVMe启动支持**。这款主板原本仅配备SATA接口，但通过PCIe转接卡可连接M.2 SSD。尽管受限于PCIe 2.0带宽（实测读写约2000MB/s），性能仍远超传统SATA III。这是该主板十年来首次更新，尚不清楚该功能是否为技嘉有意添加。类似情况可能也存在于同期其他主板中。
+
+---
+
+## <a name="23"></a>23. Zed编辑器推出革命性AI代理编辑功能 
 <small>🔗 [zed.dev](https://zed.dev/blog/fastest-ai-code-editor?e=60): Agentic Editing in Zed</small>
 
 
@@ -283,50 +309,26 @@ Zed作为全球最快的**开源Rust代码编辑器**，新增了**AI代理面�
 
 ---
 
-## <a name="22"></a>22. 迷走神经刺激疗法彻底消除PTSD症状 
-<small>🔗 [neurosciencenews.com](https://neurosciencenews.com/vagus-nerve-stimulation-ptsd-28818/): Vagus Nerve Stimulation Erases PTSD: Study</small>
-
-
-| 🔥: 58 \| 💬: [44](https://news.ycombinator.com/item?id=43919812) \| 🗓️ 2025-05-07
-
-
-<br />
-一项突破性临床研究表明，将**迷走神经刺激（VNS）**与传统暴露疗法结合后，所有参与研究的创伤后应激障碍（PTSD）患者在治疗结束六个月内均摆脱了诊断。这种疗法通过植入设备发送短脉冲刺激颈部迷走神经，显著增强**神经可塑性**，使难治性PTSD患者获得持久缓解。目前第二阶段双盲试验正在进行，有望为现有疗法无效的患者提供新选择。该研究由得克萨斯大学达拉斯分校团队主导，成果发表于《Brain Stimulation》期刊。
-
----
-
-## <a name="23"></a>23. 关税扼杀了Arduboy游戏机 
-<small>🔗 [community.arduboy.com](https://community.arduboy.com/t/tariffs-killed-arduboy/12675): Tariffs Killed Arduboy</small>
-
-
-| 🔥: 56 \| 💬: [21](https://news.ycombinator.com/item?id=43918425) \| 🗓️ 2025-05-07
-
-
-<br />
-Arduboy创始人表示，这款微型Game Boy风格的游戏机因**特朗普关税政策**而难以为继。原本生意蒸蒸日上，但**25%的额外关税**导致生产成本飙升，迫使项目停摆。创始人坦言，小企业无法承受此类突发政策冲击，最终选择终止运营。
-
----
-
-## <a name="24"></a>24. 寡头的愤怒：他们想要吞噬一切 
-<small>🔗 [rollingstone.com](https://www.rollingstone.com/politics/politics-features/naomi-klein-trump-musk-thiel-oligarchs-climate-science-1235330780/): Rage of the Oligarchs Naomi Klein: 'What They Want Is Absolutely Everything</small>
-
-
-| 🔥: 54 \| 💬: [14](https://news.ycombinator.com/item?id=43914789) \| 🗓️ 2025-05-07
-
-
-<br />
-娜奥米·克莱因在《卫报》撰文警告，科技亿万富翁如**马斯克**和**彼得·蒂尔**正推动一种**末日生存主义**意识形态，利用危机推进精英议程。她指出，当前资本主义已进入激进阶段，寡头们不再相信集体未来，而是为“大筛选”做准备，甚至公开接受优生学思想。克莱因强调，财富集中腐蚀人性，使超级富豪自视为神，并因权力受限而暴怒。此外，特朗普政府反科学的立场源于对监管的恐惧，正如气候否认者拒绝承认科学以维护利益。
-
----
-
-## <a name="25"></a>25. 1996年：大卫·鲍伊与在线音乐分发的实验性突破 
+## <a name="24"></a>24. 1996年：大卫·鲍伊与在线音乐分发的实验性突破 
 <small>🔗 [cybercultural.com](https://cybercultural.com/p/online-music-distribution-1996/): Telling Lies: Bowie and Online Music Distribution in 1996</small>
 
 
-| 🔥: 54 \| 💬: [50](https://news.ycombinator.com/item?id=43917376) \| 🗓️ 2025-05-07
+| 🔥: 58 \| 💬: [51](https://news.ycombinator.com/item?id=43917376) \| 🗓️ 2025-05-07
 
 
 <br />
 1996年，**大卫·鲍伊**与数字合作伙伴**N2K**合作，在其官网免费发布单曲《Telling Lies》，成为主流音乐人首次尝试在线分发。尽管受限于当时的**低带宽**，用户需通过RealAudio或Liquid Audio等格式下载（耗时长达45分钟），但两周内仍吸引45万次下载，验证了互联网音乐分发的潜力。N2K CEO拉里·罗森认为这预示了“绕过唱片公司直接电子分发”的未来模式，而鲍伊则将此举视为探索未知的**艺术实验**。尽管音质和技术尚不成熟，这一事件标志着音乐产业数字化转型的早期里程碑。
+
+---
+
+## <a name="25"></a>25. 关税扼杀了Arduboy游戏机 
+<small>🔗 [community.arduboy.com](https://community.arduboy.com/t/tariffs-killed-arduboy/12675): Tariffs Killed Arduboy</small>
+
+
+| 🔥: 58 \| 💬: [21](https://news.ycombinator.com/item?id=43918425) \| 🗓️ 2025-05-07
+
+
+<br />
+Arduboy创始人表示，这款微型Game Boy风格的游戏机因**特朗普关税政策**而难以为继。原本生意蒸蒸日上，但**25%的额外关税**导致生产成本飙升，迫使项目停摆。创始人坦言，小企业无法承受此类突发政策冲击，最终选择终止运营。
 
 ---
