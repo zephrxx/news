@@ -8,8 +8,8 @@ tags:
 ---
 
 
-1. JetBrains宣布CLion免费供非商业用途使用；
 1. Ty：基于 Rust 的极速 Python 类型检查器与语言服务器；
+1. JetBrains宣布CLion免费供非商业用途使用；
 1. Unity的双标开源政策：封杀VLC事件始末；
 1. PostgreSQL 18前瞻：异步I/O加速磁盘读取性能；
 1. 美国血液出口真相：数据背后的玄机；
@@ -23,23 +23,11 @@ tags:
 ![](/assets/images/hacker_news.jpg)
 
 
-## <a name="1"></a>1. JetBrains宣布CLion免费供非商业用途使用 
-<small>🔗 [blog.jetbrains.com](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/): CLion Is Now Free for Non-Commercial Use</small>
-
-
-| 🔥🔥: 508 \| 💬: [317](https://news.ycombinator.com/item?id=43914705) \| 🗓️ 2025-05-07
-
-
-<br />
-JetBrains宣布其**跨平台C/C++集成开发环境CLion**现可免费用于**非商业用途**，包括学习、开源项目、内容创作及个人爱好开发。此举旨在降低使用门槛，支持开发者学习和创新。**商业用途**仍需付费订阅。免费版功能与付费版几乎相同，但需同意收集**匿名使用数据**以改进产品。用户可通过IDE内选项直接申请非商业许可证。
-
----
-
-## <a name="2"></a>2. Ty：基于 Rust 的极速 Python 类型检查器与语言服务器 
+## <a name="1"></a>1. Ty：基于 Rust 的极速 Python 类型检查器与语言服务器 
 <small>🔗 [github.com](https://github.com/astral-sh/ty): Ty: A fast Python type checker and language server</small>
 
 
-| 🔥🔥: 483 \| 💬: [142](https://news.ycombinator.com/item?id=43918484) \| 🗓️ 2025-05-07
+| 🔥🔥: 523 \| 💬: [151](https://news.ycombinator.com/item?id=43918484) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -47,11 +35,23 @@ Ty 是一款**用 Rust 编写**的 Python **类型检查工具**和语言服务�
 
 ---
 
+## <a name="2"></a>2. JetBrains宣布CLion免费供非商业用途使用 
+<small>🔗 [blog.jetbrains.com](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/): CLion Is Now Free for Non-Commercial Use</small>
+
+
+| 🔥🔥: 520 \| 💬: [321](https://news.ycombinator.com/item?id=43914705) \| 🗓️ 2025-05-07
+
+
+<br />
+JetBrains宣布其**跨平台C/C++集成开发环境CLion**现可免费用于**非商业用途**，包括学习、开源项目、内容创作及个人爱好开发。此举旨在降低使用门槛，支持开发者学习和创新。**商业用途**仍需付费订阅。免费版功能与付费版几乎相同，但需同意收集**匿名使用数据**以改进产品。用户可通过IDE内选项直接申请非商业许可证。
+
+---
+
 ## <a name="3"></a>3. Unity的双标开源政策：封杀VLC事件始末 
 <small>🔗 [mfkl.github.io](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html): Unity’s Open-Source Double Standard: the ban of VLC</small>
 
 
-| 🔥🔥: 463 \| 💬: [128](https://news.ycombinator.com/item?id=43914832) \| 🗓️ 2025-05-07
+| 🔥🔥: 469 \| 💬: [132](https://news.ycombinator.com/item?id=43914832) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -65,7 +65,7 @@ Ty 是一款**用 Rust 编写**的 Python **类型检查工具**和语言服务�
 <small>🔗 [pganalyze.com](https://pganalyze.com/blog/postgres-18-async-io): Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O</small>
 
 
-| 🔥🔥: 357 \| 💬: [93](https://news.ycombinator.com/item?id=43916577) \| 🗓️ 2025-05-07
+| 🔥🔥: 370 \| 💬: [97](https://news.ycombinator.com/item?id=43916577) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -77,7 +77,7 @@ PostgreSQL 18引入了**异步I/O**（AIO）功能，通过并行处理磁盘读
 <small>🔗 [dynomight.net](https://dynomight.net/blood/): So Much Blood</small>
 
 
-| 🔥🔥: 321 \| 💬: [142](https://news.ycombinator.com/item?id=43913751) \| 🗓️ 2025-05-07
+| 🔥🔥: 329 \| 💬: [148](https://news.ycombinator.com/item?id=43913751) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -89,7 +89,7 @@ PostgreSQL 18引入了**异步I/O**（AIO）功能，通过并行处理磁盘读
 <small>🔗 [mistral.ai](https://mistral.ai/news/le-chat-enterprise): Mistral ships le chat – enterprise AI assistant that can run on prem</small>
 
 
-| 🔥🔥: 231 \| 💬: [72](https://news.ycombinator.com/item?id=43916098) \| 🗓️ 2025-05-07
+| 🔥🔥: 248 \| 💬: [78](https://news.ycombinator.com/item?id=43916098) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -101,7 +101,7 @@ Mistral AI发布**Le Chat Enterprise**，搭载全新Mistral Medium 3模型，�
 <small>🔗 [gill.net.in](https://gill.net.in/posts/my-quest-to-make-motorcycle-riding-safer/): My quest to make motorcycle riding that tad bit safer</small>
 
 
-| 🔥🔥: 205 \| 💬: [238](https://news.ycombinator.com/item?id=43914235) \| 🗓️ 2025-05-07
+| 🔥🔥: 215 \| 💬: [247](https://news.ycombinator.com/item?id=43914235) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -113,7 +113,7 @@ Mistral AI发布**Le Chat Enterprise**，搭载全新Mistral Medium 3模型，�
 <small>🔗 [github.com](https://github.com/ciromattia/kcc): Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)</small>
 
 
-| 🔥🔥: 192 \| 💬: [38](https://news.ycombinator.com/item?id=43916956) \| 🗓️ 2025-05-07
+| 🔥🔥: 197 \| 💬: [39](https://news.ycombinator.com/item?id=43916956) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -127,7 +127,7 @@ Kindle Comic Converter（KCC）是一款**开源工具**，可将漫画、漫画
 <small>🔗 [github.com](https://github.com/rybbit-io/rybbit): Open source Google Analytics replacement</small>
 
 
-| 🔥🔥: 151 \| 💬: [77](https://news.ycombinator.com/item?id=43918620) \| 🗓️ 2025-05-07
+| 🔥🔥: 165 \| 💬: [83](https://news.ycombinator.com/item?id=43918620) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -139,7 +139,7 @@ Rybbit是一款**开源、隐私友好**的Google Analytics替代方案，比传
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/): Create and edit images with Gemini 2.0 in preview</small>
 
 
-| 🔥🔥: 148 \| 💬: [66](https://news.ycombinator.com/item?id=43917461) \| 🗓️ 2025-05-07
+| 🔥🔥: 156 \| 💬: [66](https://news.ycombinator.com/item?id=43917461) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -147,35 +147,11 @@ Google AI Studio 宣布 **Gemini 2.0 Flash** 预览版开放图像生成功能�
 
 ---
 
-## <a name="11"></a>11. 从程序员到CTO再到董事会：我在Cloudflare的13年旅程 
-<small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/en-us/three-chapters-at-cloudflare-programmer-to-cto-to-board-of-directors/): Three Chapters at Cloudflare: Programmer to CTO to Board of Directors</small>
-
-
-| 🔥🔥: 142 \| 💬: [27](https://news.ycombinator.com/item?id=43918600) \| 🗓️ 2025-05-07
-
-
-<br />
-Cloudflare前CTO John Graham-Cumming回顾了他在公司的13年职业生涯：从2012年以**程序员**身份加入初创团队，到主导推出**Universal SSL**等关键技术，再到如今加入董事会。他特别提到2017年**Cloudbleed事件**中团队展现的危机处理能力，以及建立伦敦和里斯本国际办公室的经历。作为技术领导者，他参与了WAF、DNS等核心产品的开发，并推动公司通过Project Galileo等项目践行"构建更好互联网"的使命。文章最后介绍了新任CTO Dane Knecht的接任，并表达了自己将以董事会成员身份继续关注AI等前沿技术领域的发展。
-
----
-
-## <a name="12"></a>12. 变老并非你想的那样 
-<small>🔗 [katycowan.co.uk](https://www.katycowan.co.uk/blog/getting-old): Getting Older Isn't What You Think</small>
-
-
-| 🔥🔥: 135 \| 💬: [193](https://news.ycombinator.com/item?id=43917855) \| 🗓️ 2025-05-07
-
-
-<br />
-作者Katy Cowan以幽默笔触反思中年心境：36岁被称“老”令人失笑，50岁临近却发现自己**偏爱宁静**——早睡、爵士乐和书籍取代了音乐节喧嚣。作为夹在X世代与千禧一代之间的“Xennials”，她见证从磁带流媒体、拨号上网到AI的巨变，**兼具线下与线上生活的智慧**。文章批判社交媒体制造的焦虑，呼吁保持好奇与开放：“**确定性被高估，倾听却被低估**”——年龄增长不是封闭，而是更清晰地认识自我与世界的开始。
-
----
-
-## <a name="13"></a>13. Anthropic API推出网页搜索功能 
+## <a name="11"></a>11. Anthropic API推出网页搜索功能 
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/web-search-api): Web search on the Anthropic API</small>
 
 
-| 🔥🔥: 132 \| 💬: [26](https://news.ycombinator.com/item?id=43920188) \| 🗓️ 2025-05-07
+| 🔥🔥: 148 \| 💬: [29](https://news.ycombinator.com/item?id=43920188) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -183,35 +159,35 @@ Anthropic宣布为Claude API新增**网页搜索工具**，开发者可构建能
 
 ---
 
-## <a name="14"></a>14. 密西西比州的教育逆袭：偏见之下的成功典范 
-<small>🔗 [educationdaly.us](https://www.educationdaly.us/p/mississippi-cant-possibly-have-good): Mississippi Can't Possibly Have Good Schools</small>
+## <a name="12"></a>12. 从程序员到CTO再到董事会：我在Cloudflare的13年旅程 
+<small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/en-us/three-chapters-at-cloudflare-programmer-to-cto-to-board-of-directors/): Three Chapters at Cloudflare: Programmer to CTO to Board of Directors</small>
 
 
-| 🔥: 94 \| 💬: [179](https://news.ycombinator.com/item?id=43915586) \| 🗓️ 2025-05-07
-
-
-<br />
-尽管密西西比州长期因**贫困、健康问题**和**历史遗留问题**被视为教育洼地，但近年来其教育系统却成为全美进步最快的典范。调整学生 demographics 后，该州在四年级数学和阅读测试中排名**全美第一**，黑人学生成绩甚至超越许多经费更充裕的州。然而，这种成功常被精英阶层的**地域偏见**忽视，甚至引发质疑。文章指出，这种“教育势利”阻碍了其他州向南方学习，导致资源浪费和进步停滞。同时，作者警告两党：民主党需重视教育议题，而共和党应避免因文化战争分散教育改革的专注力。
-
----
-
-## <a name="15"></a>15. OpenSearch 3.0正式发布：性能提升9.5倍，助力AI搜索与分析 
-<small>🔗 [opensearch.org](https://opensearch.org/blog/opensearch-3-0-enhances-vector-database-performance/): OpenSearch 3.0 Released</small>
-
-
-| 🔥: 92 \| 💬: [23](https://news.ycombinator.com/item?id=43917122) \| 🗓️ 2025-05-07
+| 🔥🔥: 143 \| 💬: [27](https://news.ycombinator.com/item?id=43918600) \| 🗓️ 2025-05-07
 
 
 <br />
-OpenSearch 3.0作为开源搜索与分析平台的最新版本，**性能较1.3版提升9.5倍**，并针对AI应用（如生成式AI、混合搜索和推荐系统）优化了**向量搜索**能力。新增**GPU加速**功能可将索引构建速度提高9.3倍，同时降低3.75倍成本。平台还引入gRPC支持、Apache Calcite集成等数据管理改进，并升级至Lucene 10和Java 21，增强可维护性与扩展性。该版本由OpenSearch软件基金会发布，致力于推动开放协作与创新。
+Cloudflare前CTO John Graham-Cumming回顾了他在公司的13年职业生涯：从2012年以**程序员**身份加入初创团队，到主导推出**Universal SSL**等关键技术，再到如今加入董事会。他特别提到2017年**Cloudbleed事件**中团队展现的危机处理能力，以及建立伦敦和里斯本国际办公室的经历。作为技术领导者，他参与了WAF、DNS等核心产品的开发，并推动公司通过Project Galileo等项目践行"构建更好互联网"的使命。文章最后介绍了新任CTO Dane Knecht的接任，并表达了自己将以董事会成员身份继续关注AI等前沿技术领域的发展。
 
 ---
 
-## <a name="16"></a>16. 我花钱买了整块GPU，就要物尽其用 
+## <a name="13"></a>13. 变老并非你想的那样 
+<small>🔗 [katycowan.co.uk](https://www.katycowan.co.uk/blog/getting-old): Getting Older Isn't What You Think</small>
+
+
+| 🔥🔥: 136 \| 💬: [197](https://news.ycombinator.com/item?id=43917855) \| 🗓️ 2025-05-07
+
+
+<br />
+作者Katy Cowan以幽默笔触反思中年心境：36岁被称“老”令人失笑，50岁临近却发现自己**偏爱宁静**——早睡、爵士乐和书籍取代了音乐节喧嚣。作为夹在X世代与千禧一代之间的“Xennials”，她见证从磁带流媒体、拨号上网到AI的巨变，**兼具线下与线上生活的智慧**。文章批判社交媒体制造的焦虑，呼吁保持好奇与开放：“**确定性被高估，倾听却被低估**”——年龄增长不是封闭，而是更清晰地认识自我与世界的开始。
+
+---
+
+## <a name="14"></a>14. 我花钱买了整块GPU，就要物尽其用 
 <small>🔗 [modal.com](https://modal.com/blog/gpu-utilization-guide): 'I paid for the whole GPU, I am going to use the whole GPU'</small>
 
 
-| 🔥: 88 \| 💬: [19](https://news.ycombinator.com/item?id=43920544) \| 🗓️ 2025-05-07
+| 🔥🔥: 104 \| 💬: [27](https://news.ycombinator.com/item?id=43920544) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -219,11 +195,11 @@ OpenSearch 3.0作为开源搜索与分析平台的最新版本，**性能较1.3�
 
 ---
 
-## <a name="17"></a>17. Mac主题花园：经典Mac主题的宝库上线 
+## <a name="15"></a>15. Mac主题花园：经典Mac主题的宝库上线 
 <small>🔗 [damien.zone](https://damien.zone/introducing-mac-themes-garden/): Mac Themes Garden</small>
 
 
-| 🔥: 86 \| 💬: [21](https://news.ycombinator.com/item?id=43919868) \| 🗓️ 2025-05-07
+| 🔥🔥: 101 \| 💬: [25](https://news.ycombinator.com/item?id=43919868) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -235,7 +211,57 @@ Mac主题花园（Mac Themes Garden）是一个展示**3000多款**经典Mac时�
 
 ---
 
-## <a name="18"></a>18. 大学生正用AI作弊席卷校园 
+## <a name="16"></a>16. OpenSearch 3.0正式发布：性能提升9.5倍，助力AI搜索与分析 
+<small>🔗 [opensearch.org](https://opensearch.org/blog/opensearch-3-0-enhances-vector-database-performance/): OpenSearch 3.0 Released</small>
+
+
+| 🔥: 95 \| 💬: [23](https://news.ycombinator.com/item?id=43917122) \| 🗓️ 2025-05-07
+
+
+<br />
+OpenSearch 3.0作为开源搜索与分析平台的最新版本，**性能较1.3版提升9.5倍**，并针对AI应用（如生成式AI、混合搜索和推荐系统）优化了**向量搜索**能力。新增**GPU加速**功能可将索引构建速度提高9.3倍，同时降低3.75倍成本。平台还引入gRPC支持、Apache Calcite集成等数据管理改进，并升级至Lucene 10和Java 21，增强可维护性与扩展性。该版本由OpenSearch软件基金会发布，致力于推动开放协作与创新。
+
+---
+
+## <a name="17"></a>17. 密西西比州的教育逆袭：偏见之下的成功典范 
+<small>🔗 [educationdaly.us](https://www.educationdaly.us/p/mississippi-cant-possibly-have-good): Mississippi Can't Possibly Have Good Schools</small>
+
+
+| 🔥: 94 \| 💬: [179](https://news.ycombinator.com/item?id=43915586) \| 🗓️ 2025-05-07
+
+
+<br />
+尽管密西西比州长期因**贫困、健康问题**和**历史遗留问题**被视为教育洼地，但近年来其教育系统却成为全美进步最快的典范。调整学生 demographics 后，该州在四年级数学和阅读测试中排名**全美第一**，黑人学生成绩甚至超越许多经费更充裕的州。然而，这种成功常被精英阶层的**地域偏见**忽视，甚至引发质疑。文章指出，这种“教育势利”阻碍了其他州向南方学习，导致资源浪费和进步停滞。同时，作者警告两党：民主党需重视教育议题，而共和党应避免因文化战争分散教育改革的专注力。
+
+---
+
+## <a name="18"></a>18. 巴基斯坦公司向美国走私芬太尼类似物并实施诈骗 
+<small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/): Pakistani firm shipped fentanyl analogs, scams to us</small>
+
+
+| 🔥: 92 \| 💬: [37](https://news.ycombinator.com/item?id=43921129) \| 🗓️ 2025-05-07
+
+
+<br />
+调查显示，**eWorldTrade**这家德州公司涉嫌通过在线平台分销合成阿片类药物（如比芬太尼更强的**异托尼太嗪**和卡芬太尼），并与巴基斯坦的**Abtach Ltd**等企业构成庞大诈骗网络。这些公司以低价商标注册、图书出版和网站设计为诱饵，骗取西方客户钱财后实施**勒索**。  
+
+Abtach创始人Azneem Bilwani还涉及巴基斯坦史上最大洗钱案，其关联公司Digitonics Labs通过伪造商标证书和钓鱼网站月入250万美元。部分涉案人员曾效力于**Axact**（2015年因贩卖假文凭被查），如今以新名义继续行骗。美国德州多家关联企业也因欺诈和违约被起诉。
+
+---
+
+## <a name="19"></a>19. 迷走神经刺激疗法彻底消除PTSD症状 
+<small>🔗 [neurosciencenews.com](https://neurosciencenews.com/vagus-nerve-stimulation-ptsd-28818/): Vagus Nerve Stimulation Erases PTSD: Study</small>
+
+
+| 🔥: 88 \| 💬: [56](https://news.ycombinator.com/item?id=43919812) \| 🗓️ 2025-05-07
+
+
+<br />
+一项突破性临床研究表明，将**迷走神经刺激（VNS）**与传统暴露疗法结合后，所有参与研究的创伤后应激障碍（PTSD）患者在治疗结束六个月内均摆脱了诊断。这种疗法通过植入设备发送短脉冲刺激颈部迷走神经，显著增强**神经可塑性**，使难治性PTSD患者获得持久缓解。目前第二阶段双盲试验正在进行，有望为现有疗法无效的患者提供新选择。该研究由得克萨斯大学达拉斯分校团队主导，成果发表于《Brain Stimulation》期刊。
+
+---
+
+## <a name="20"></a>20. 大学生正用AI作弊席卷校园 
 <small>🔗 [nymag.com](https://nymag.com/intelligencer/article/openai-chatgpt-ai-cheating-education-college-students-school.html): Everyone Is Cheating Their Way Through College</small>
 
 
@@ -247,7 +273,7 @@ Mac主题花园（Mac Themes Garden）是一个展示**3000多款**经典Mac时�
 
 ---
 
-## <a name="19"></a>19. 全球最富10%人群造成三分之二气候变暖 
+## <a name="21"></a>21. 全球最富10%人群造成三分之二气候变暖 
 <small>🔗 [e360.yale.edu](https://e360.yale.edu/digest/worlds-richest-10-percent-responsible-for-two-thirds-of-warming): Richest 10 Percent Responsible for Two-Thirds of Warming</small>
 
 
@@ -256,32 +282,6 @@ Mac主题花园（Mac Themes Garden）是一个展示**3000多款**经典Mac时�
 
 <br />
 《自然·气候变化》最新研究显示，自1990年以来，**全球最富有的10%人口**贡献了三分之二的气候变暖，其中**最富1%人群**单独导致五分之一的升温。其影响不仅源于高能耗生活方式，更因投资**化石燃料等重污染行业**。该群体对极端高温的“贡献”是普通人的26倍，并导致亚马逊干旱风险激增17倍。研究指出，科学已能追溯企业气候责任，例如雪佛龙公司或需为全球高温损失承担3.6万亿美元赔偿。
-
----
-
-## <a name="20"></a>20. 巴基斯坦公司向美国走私芬太尼类似物并实施诈骗 
-<small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/): Pakistani firm shipped fentanyl analogs, scams to us</small>
-
-
-| 🔥: 85 \| 💬: [31](https://news.ycombinator.com/item?id=43921129) \| 🗓️ 2025-05-07
-
-
-<br />
-调查显示，**eWorldTrade**这家德州公司涉嫌通过在线平台分销合成阿片类药物（如比芬太尼更强的**异托尼太嗪**和卡芬太尼），并与巴基斯坦的**Abtach Ltd**等企业构成庞大诈骗网络。这些公司以低价商标注册、图书出版和网站设计为诱饵，骗取西方客户钱财后实施**勒索**。  
-
-Abtach创始人Azneem Bilwani还涉及巴基斯坦史上最大洗钱案，其关联公司Digitonics Labs通过伪造商标证书和钓鱼网站月入250万美元。部分涉案人员曾效力于**Axact**（2015年因贩卖假文凭被查），如今以新名义继续行骗。美国德州多家关联企业也因欺诈和违约被起诉。
-
----
-
-## <a name="21"></a>21. 迷走神经刺激疗法彻底消除PTSD症状 
-<small>🔗 [neurosciencenews.com](https://neurosciencenews.com/vagus-nerve-stimulation-ptsd-28818/): Vagus Nerve Stimulation Erases PTSD: Study</small>
-
-
-| 🔥: 77 \| 💬: [50](https://news.ycombinator.com/item?id=43919812) \| 🗓️ 2025-05-07
-
-
-<br />
-一项突破性临床研究表明，将**迷走神经刺激（VNS）**与传统暴露疗法结合后，所有参与研究的创伤后应激障碍（PTSD）患者在治疗结束六个月内均摆脱了诊断。这种疗法通过植入设备发送短脉冲刺激颈部迷走神经，显著增强**神经可塑性**，使难治性PTSD患者获得持久缓解。目前第二阶段双盲试验正在进行，有望为现有疗法无效的患者提供新选择。该研究由得克萨斯大学达拉斯分校团队主导，成果发表于《Brain Stimulation》期刊。
 
 ---
 
@@ -297,7 +297,31 @@ Abtach创始人Azneem Bilwani还涉及巴基斯坦史上最大洗钱案，其关
 
 ---
 
-## <a name="23"></a>23. Zed编辑器推出革命性AI代理编辑功能 
+## <a name="23"></a>23. 1996年：大卫·鲍伊与在线音乐分发的实验性突破 
+<small>🔗 [cybercultural.com](https://cybercultural.com/p/online-music-distribution-1996/): Telling Lies: Bowie and Online Music Distribution in 1996</small>
+
+
+| 🔥: 60 \| 💬: [52](https://news.ycombinator.com/item?id=43917376) \| 🗓️ 2025-05-07
+
+
+<br />
+1996年，**大卫·鲍伊**与数字合作伙伴**N2K**合作，在其官网免费发布单曲《Telling Lies》，成为主流音乐人首次尝试在线分发。尽管受限于当时的**低带宽**，用户需通过RealAudio或Liquid Audio等格式下载（耗时长达45分钟），但两周内仍吸引45万次下载，验证了互联网音乐分发的潜力。N2K CEO拉里·罗森认为这预示了“绕过唱片公司直接电子分发”的未来模式，而鲍伊则将此举视为探索未知的**艺术实验**。尽管音质和技术尚不成熟，这一事件标志着音乐产业数字化转型的早期里程碑。
+
+---
+
+## <a name="24"></a>24. 关税扼杀了Arduboy游戏机 
+<small>🔗 [community.arduboy.com](https://community.arduboy.com/t/tariffs-killed-arduboy/12675): Tariffs Killed Arduboy</small>
+
+
+| 🔥: 59 \| 💬: [22](https://news.ycombinator.com/item?id=43918425) \| 🗓️ 2025-05-07
+
+
+<br />
+Arduboy创始人表示，这款微型Game Boy风格的游戏机因**特朗普关税政策**而难以为继。原本生意蒸蒸日上，但**25%的额外关税**导致生产成本飙升，迫使项目停摆。创始人坦言，小企业无法承受此类突发政策冲击，最终选择终止运营。
+
+---
+
+## <a name="25"></a>25. Zed编辑器推出革命性AI代理编辑功能 
 <small>🔗 [zed.dev](https://zed.dev/blog/fastest-ai-code-editor?e=60): Agentic Editing in Zed</small>
 
 
@@ -306,29 +330,5 @@ Abtach创始人Azneem Bilwani还涉及巴基斯坦史上最大洗钱案，其关
 
 <br />
 Zed作为全球最快的**开源Rust代码编辑器**，新增了**AI代理面板**功能，支持用户通过自然语言指令完成代码查询、修改和编写。所有AI功能均开源且默认保护隐私，数据不会上传服务器。编辑器支持多模型接入（包括Claude、Gemini及本地Ollama），提供三种预设工具配置模式，并可扩展数据库、PR创建等能力。目前免费版每月提供50次AI调用，专业版20美元/月含500次。Windows版本预计2025年发布。
-
----
-
-## <a name="24"></a>24. 1996年：大卫·鲍伊与在线音乐分发的实验性突破 
-<small>🔗 [cybercultural.com](https://cybercultural.com/p/online-music-distribution-1996/): Telling Lies: Bowie and Online Music Distribution in 1996</small>
-
-
-| 🔥: 58 \| 💬: [51](https://news.ycombinator.com/item?id=43917376) \| 🗓️ 2025-05-07
-
-
-<br />
-1996年，**大卫·鲍伊**与数字合作伙伴**N2K**合作，在其官网免费发布单曲《Telling Lies》，成为主流音乐人首次尝试在线分发。尽管受限于当时的**低带宽**，用户需通过RealAudio或Liquid Audio等格式下载（耗时长达45分钟），但两周内仍吸引45万次下载，验证了互联网音乐分发的潜力。N2K CEO拉里·罗森认为这预示了“绕过唱片公司直接电子分发”的未来模式，而鲍伊则将此举视为探索未知的**艺术实验**。尽管音质和技术尚不成熟，这一事件标志着音乐产业数字化转型的早期里程碑。
-
----
-
-## <a name="25"></a>25. 关税扼杀了Arduboy游戏机 
-<small>🔗 [community.arduboy.com](https://community.arduboy.com/t/tariffs-killed-arduboy/12675): Tariffs Killed Arduboy</small>
-
-
-| 🔥: 58 \| 💬: [21](https://news.ycombinator.com/item?id=43918425) \| 🗓️ 2025-05-07
-
-
-<br />
-Arduboy创始人表示，这款微型Game Boy风格的游戏机因**特朗普关税政策**而难以为继。原本生意蒸蒸日上，但**25%的额外关税**导致生产成本飙升，迫使项目停摆。创始人坦言，小企业无法承受此类突发政策冲击，最终选择终止运营。
 
 ---
