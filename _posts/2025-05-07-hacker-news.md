@@ -27,7 +27,7 @@ tags:
 <small>🔗 [github.com](https://github.com/astral-sh/ty): Ty: A fast Python type checker and language server</small>
 
 
-| 🔥🔥: 523 \| 💬: [151](https://news.ycombinator.com/item?id=43918484) \| 🗓️ 2025-05-07
+| 🔥🔥: 547 \| 💬: [159](https://news.ycombinator.com/item?id=43918484) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -39,7 +39,7 @@ Ty 是一款**用 Rust 编写**的 Python **类型检查工具**和语言服务�
 <small>🔗 [blog.jetbrains.com](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/): CLion Is Now Free for Non-Commercial Use</small>
 
 
-| 🔥🔥: 520 \| 💬: [321](https://news.ycombinator.com/item?id=43914705) \| 🗓️ 2025-05-07
+| 🔥🔥: 525 \| 💬: [323](https://news.ycombinator.com/item?id=43914705) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -51,7 +51,7 @@ JetBrains宣布其**跨平台C/C++集成开发环境CLion**现可免费用于**�
 <small>🔗 [mfkl.github.io](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html): Unity’s Open-Source Double Standard: the ban of VLC</small>
 
 
-| 🔥🔥: 469 \| 💬: [132](https://news.ycombinator.com/item?id=43914832) \| 🗓️ 2025-05-07
+| 🔥🔥: 474 \| 💬: [134](https://news.ycombinator.com/item?id=43914832) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -65,7 +65,7 @@ JetBrains宣布其**跨平台C/C++集成开发环境CLion**现可免费用于**�
 <small>🔗 [pganalyze.com](https://pganalyze.com/blog/postgres-18-async-io): Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O</small>
 
 
-| 🔥🔥: 370 \| 💬: [97](https://news.ycombinator.com/item?id=43916577) \| 🗓️ 2025-05-07
+| 🔥🔥: 380 \| 💬: [98](https://news.ycombinator.com/item?id=43916577) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -77,7 +77,7 @@ PostgreSQL 18引入了**异步I/O**（AIO）功能，通过并行处理磁盘读
 <small>🔗 [dynomight.net](https://dynomight.net/blood/): So Much Blood</small>
 
 
-| 🔥🔥: 329 \| 💬: [148](https://news.ycombinator.com/item?id=43913751) \| 🗓️ 2025-05-07
+| 🔥🔥: 337 \| 💬: [154](https://news.ycombinator.com/item?id=43913751) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -89,7 +89,7 @@ PostgreSQL 18引入了**异步I/O**（AIO）功能，通过并行处理磁盘读
 <small>🔗 [mistral.ai](https://mistral.ai/news/le-chat-enterprise): Mistral ships le chat – enterprise AI assistant that can run on prem</small>
 
 
-| 🔥🔥: 248 \| 💬: [78](https://news.ycombinator.com/item?id=43916098) \| 🗓️ 2025-05-07
+| 🔥🔥: 262 \| 💬: [81](https://news.ycombinator.com/item?id=43916098) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -101,7 +101,7 @@ Mistral AI发布**Le Chat Enterprise**，搭载全新Mistral Medium 3模型，�
 <small>🔗 [gill.net.in](https://gill.net.in/posts/my-quest-to-make-motorcycle-riding-safer/): My quest to make motorcycle riding that tad bit safer</small>
 
 
-| 🔥🔥: 215 \| 💬: [247](https://news.ycombinator.com/item?id=43914235) \| 🗓️ 2025-05-07
+| 🔥🔥: 219 \| 💬: [253](https://news.ycombinator.com/item?id=43914235) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -113,7 +113,7 @@ Mistral AI发布**Le Chat Enterprise**，搭载全新Mistral Medium 3模型，�
 <small>🔗 [github.com](https://github.com/ciromattia/kcc): Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)</small>
 
 
-| 🔥🔥: 197 \| 💬: [39](https://news.ycombinator.com/item?id=43916956) \| 🗓️ 2025-05-07
+| 🔥🔥: 201 \| 💬: [41](https://news.ycombinator.com/item?id=43916956) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -127,7 +127,7 @@ Kindle Comic Converter（KCC）是一款**开源工具**，可将漫画、漫画
 <small>🔗 [github.com](https://github.com/rybbit-io/rybbit): Open source Google Analytics replacement</small>
 
 
-| 🔥🔥: 165 \| 💬: [83](https://news.ycombinator.com/item?id=43918620) \| 🗓️ 2025-05-07
+| 🔥🔥: 180 \| 💬: [92](https://news.ycombinator.com/item?id=43918620) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -139,7 +139,7 @@ Rybbit是一款**开源、隐私友好**的Google Analytics替代方案，比传
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/): Create and edit images with Gemini 2.0 in preview</small>
 
 
-| 🔥🔥: 156 \| 💬: [66](https://news.ycombinator.com/item?id=43917461) \| 🗓️ 2025-05-07
+| 🔥🔥: 165 \| 💬: [69](https://news.ycombinator.com/item?id=43917461) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -151,7 +151,7 @@ Google AI Studio 宣布 **Gemini 2.0 Flash** 预览版开放图像生成功能�
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/web-search-api): Web search on the Anthropic API</small>
 
 
-| 🔥🔥: 148 \| 💬: [29](https://news.ycombinator.com/item?id=43920188) \| 🗓️ 2025-05-07
+| 🔥🔥: 158 \| 💬: [37](https://news.ycombinator.com/item?id=43920188) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -163,7 +163,7 @@ Anthropic宣布为Claude API新增**网页搜索工具**，开发者可构建能
 <small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/en-us/three-chapters-at-cloudflare-programmer-to-cto-to-board-of-directors/): Three Chapters at Cloudflare: Programmer to CTO to Board of Directors</small>
 
 
-| 🔥🔥: 143 \| 💬: [27](https://news.ycombinator.com/item?id=43918600) \| 🗓️ 2025-05-07
+| 🔥🔥: 144 \| 💬: [27](https://news.ycombinator.com/item?id=43918600) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -175,7 +175,7 @@ Cloudflare前CTO John Graham-Cumming回顾了他在公司的13年职业生涯：
 <small>🔗 [katycowan.co.uk](https://www.katycowan.co.uk/blog/getting-old): Getting Older Isn't What You Think</small>
 
 
-| 🔥🔥: 136 \| 💬: [197](https://news.ycombinator.com/item?id=43917855) \| 🗓️ 2025-05-07
+| 🔥🔥: 136 \| 💬: [201](https://news.ycombinator.com/item?id=43917855) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -183,23 +183,11 @@ Cloudflare前CTO John Graham-Cumming回顾了他在公司的13年职业生涯：
 
 ---
 
-## <a name="14"></a>14. 我花钱买了整块GPU，就要物尽其用 
-<small>🔗 [modal.com](https://modal.com/blog/gpu-utilization-guide): 'I paid for the whole GPU, I am going to use the whole GPU'</small>
-
-
-| 🔥🔥: 104 \| 💬: [27](https://news.ycombinator.com/item?id=43920544) \| 🗓️ 2025-05-07
-
-
-<br />
-本文探讨了**GPU利用率**的三种衡量维度：**分配利用率**（GPU运行应用代码的时间占比）、**内核利用率**（GPU执行计算任务的时间占比）以及**模型浮点运算利用率（MFU）**（实际算力与理论算力的比值）。作者指出，由于GPU成本高昂，优化利用率至关重要，但不同层级的瓶颈（如经济限制、主机开销或数据传输）可能导致利用率低下。文中以Modal平台为例，说明通过快速资源分配、多云集群管理和定制化容器技术，可将分配利用率提升至90%以上。同时强调，高内核利用率未必代表高效算力使用，需结合通信优化和批处理等策略提升MFU。
-
----
-
-## <a name="15"></a>15. Mac主题花园：经典Mac主题的宝库上线 
+## <a name="14"></a>14. Mac主题花园：经典Mac主题的宝库上线 
 <small>🔗 [damien.zone](https://damien.zone/introducing-mac-themes-garden/): Mac Themes Garden</small>
 
 
-| 🔥🔥: 101 \| 💬: [25](https://news.ycombinator.com/item?id=43919868) \| 🗓️ 2025-05-07
+| 🔥🔥: 115 \| 💬: [30](https://news.ycombinator.com/item?id=43919868) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -211,11 +199,35 @@ Mac主题花园（Mac Themes Garden）是一个展示**3000多款**经典Mac时�
 
 ---
 
-## <a name="16"></a>16. OpenSearch 3.0正式发布：性能提升9.5倍，助力AI搜索与分析 
+## <a name="15"></a>15. 我花钱买了整块GPU，就要物尽其用 
+<small>🔗 [modal.com](https://modal.com/blog/gpu-utilization-guide): 'I paid for the whole GPU, I am going to use the whole GPU'</small>
+
+
+| 🔥🔥: 115 \| 💬: [31](https://news.ycombinator.com/item?id=43920544) \| 🗓️ 2025-05-07
+
+
+<br />
+本文探讨了**GPU利用率**的三种衡量维度：**分配利用率**（GPU运行应用代码的时间占比）、**内核利用率**（GPU执行计算任务的时间占比）以及**模型浮点运算利用率（MFU）**（实际算力与理论算力的比值）。作者指出，由于GPU成本高昂，优化利用率至关重要，但不同层级的瓶颈（如经济限制、主机开销或数据传输）可能导致利用率低下。文中以Modal平台为例，说明通过快速资源分配、多云集群管理和定制化容器技术，可将分配利用率提升至90%以上。同时强调，高内核利用率未必代表高效算力使用，需结合通信优化和批处理等策略提升MFU。
+
+---
+
+## <a name="16"></a>16. 迷走神经刺激疗法彻底消除PTSD症状 
+<small>🔗 [neurosciencenews.com](https://neurosciencenews.com/vagus-nerve-stimulation-ptsd-28818/): Vagus Nerve Stimulation Erases PTSD: Study</small>
+
+
+| 🔥🔥: 101 \| 💬: [64](https://news.ycombinator.com/item?id=43919812) \| 🗓️ 2025-05-07
+
+
+<br />
+一项突破性临床研究表明，将**迷走神经刺激（VNS）**与传统暴露疗法结合后，所有参与研究的创伤后应激障碍（PTSD）患者在治疗结束六个月内均摆脱了诊断。这种疗法通过植入设备发送短脉冲刺激颈部迷走神经，显著增强**神经可塑性**，使难治性PTSD患者获得持久缓解。目前第二阶段双盲试验正在进行，有望为现有疗法无效的患者提供新选择。该研究由得克萨斯大学达拉斯分校团队主导，成果发表于《Brain Stimulation》期刊。
+
+---
+
+## <a name="17"></a>17. OpenSearch 3.0正式发布：性能提升9.5倍，助力AI搜索与分析 
 <small>🔗 [opensearch.org](https://opensearch.org/blog/opensearch-3-0-enhances-vector-database-performance/): OpenSearch 3.0 Released</small>
 
 
-| 🔥: 95 \| 💬: [23](https://news.ycombinator.com/item?id=43917122) \| 🗓️ 2025-05-07
+| 🔥: 97 \| 💬: [23](https://news.ycombinator.com/item?id=43917122) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -223,7 +235,7 @@ OpenSearch 3.0作为开源搜索与分析平台的最新版本，**性能较1.3�
 
 ---
 
-## <a name="17"></a>17. 密西西比州的教育逆袭：偏见之下的成功典范 
+## <a name="18"></a>18. 密西西比州的教育逆袭：偏见之下的成功典范 
 <small>🔗 [educationdaly.us](https://www.educationdaly.us/p/mississippi-cant-possibly-have-good): Mississippi Can't Possibly Have Good Schools</small>
 
 
@@ -235,29 +247,17 @@ OpenSearch 3.0作为开源搜索与分析平台的最新版本，**性能较1.3�
 
 ---
 
-## <a name="18"></a>18. 巴基斯坦公司向美国走私芬太尼类似物并实施诈骗 
+## <a name="19"></a>19. 巴基斯坦公司向美国走私芬太尼类似物并实施诈骗 
 <small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/): Pakistani firm shipped fentanyl analogs, scams to us</small>
 
 
-| 🔥: 92 \| 💬: [37](https://news.ycombinator.com/item?id=43921129) \| 🗓️ 2025-05-07
+| 🔥: 93 \| 💬: [33](https://news.ycombinator.com/item?id=43921129) \| 🗓️ 2025-05-07
 
 
 <br />
 调查显示，**eWorldTrade**这家德州公司涉嫌通过在线平台分销合成阿片类药物（如比芬太尼更强的**异托尼太嗪**和卡芬太尼），并与巴基斯坦的**Abtach Ltd**等企业构成庞大诈骗网络。这些公司以低价商标注册、图书出版和网站设计为诱饵，骗取西方客户钱财后实施**勒索**。  
 
 Abtach创始人Azneem Bilwani还涉及巴基斯坦史上最大洗钱案，其关联公司Digitonics Labs通过伪造商标证书和钓鱼网站月入250万美元。部分涉案人员曾效力于**Axact**（2015年因贩卖假文凭被查），如今以新名义继续行骗。美国德州多家关联企业也因欺诈和违约被起诉。
-
----
-
-## <a name="19"></a>19. 迷走神经刺激疗法彻底消除PTSD症状 
-<small>🔗 [neurosciencenews.com](https://neurosciencenews.com/vagus-nerve-stimulation-ptsd-28818/): Vagus Nerve Stimulation Erases PTSD: Study</small>
-
-
-| 🔥: 88 \| 💬: [56](https://news.ycombinator.com/item?id=43919812) \| 🗓️ 2025-05-07
-
-
-<br />
-一项突破性临床研究表明，将**迷走神经刺激（VNS）**与传统暴露疗法结合后，所有参与研究的创伤后应激障碍（PTSD）患者在治疗结束六个月内均摆脱了诊断。这种疗法通过植入设备发送短脉冲刺激颈部迷走神经，显著增强**神经可塑性**，使难治性PTSD患者获得持久缓解。目前第二阶段双盲试验正在进行，有望为现有疗法无效的患者提供新选择。该研究由得克萨斯大学达拉斯分校团队主导，成果发表于《Brain Stimulation》期刊。
 
 ---
 
@@ -285,11 +285,23 @@ Abtach创始人Azneem Bilwani还涉及巴基斯坦史上最大洗钱案，其关
 
 ---
 
-## <a name="22"></a>22. 12年前的老主板竟获M.2 SSD启动支持 
+## <a name="22"></a>22. 三星斥资3.5亿美元收购B&W、天龙、马兰士等音频品牌 
+<small>🔗 [engadget.com](https://www.engadget.com/audio/samsung-is-paying-350-million-for-audio-brands-bowers--wilkins-denon-marantz-and-polk-131514754.html): Samsung is paying $350M for audio brands B&W, Denon, Marantz and Polk</small>
+
+
+| 🔥: 73 \| 💬: [89](https://news.ycombinator.com/item?id=43918437) \| 🗓️ 2025-05-07
+
+
+<br />
+三星旗下**哈曼国际**以3.5亿美元现金收购医疗科技公司Masimo的音频业务，交易预计2025年底完成。此次收购将整合**宝华韦健（B&W）**、天龙、马兰士等品牌，强化哈曼在消费音频市场的领先地位。三星计划将这些技术应用于手机、电视等设备，同时保留原团队以推动创新。哈曼去年占据便携音频设备60%市场份额，此次收购旨在巩固其全球第一地位。
+
+---
+
+## <a name="23"></a>23. 12年前的老主板竟获M.2 SSD启动支持 
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/pc-components/motherboards/sandy-bridge-era-motherboard-gains-m-2-ssd-boot-support-12-years-after-launch-first-new-bios-in-a-decade-for-decommissioned-motherboard): Sandy Bridge-era motherboard gets M.2 SSD boot support 12 years after launch</small>
 
 
-| 🔥: 70 \| 💬: [39](https://news.ycombinator.com/item?id=43914677) \| 🗓️ 2025-05-07
+| 🔥: 71 \| 💬: [39](https://news.ycombinator.com/item?id=43914677) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -297,11 +309,11 @@ Abtach创始人Azneem Bilwani还涉及巴基斯坦史上最大洗钱案，其关
 
 ---
 
-## <a name="23"></a>23. 1996年：大卫·鲍伊与在线音乐分发的实验性突破 
+## <a name="24"></a>24. 1996年：大卫·鲍伊与在线音乐分发的实验性突破 
 <small>🔗 [cybercultural.com](https://cybercultural.com/p/online-music-distribution-1996/): Telling Lies: Bowie and Online Music Distribution in 1996</small>
 
 
-| 🔥: 60 \| 💬: [52](https://news.ycombinator.com/item?id=43917376) \| 🗓️ 2025-05-07
+| 🔥: 61 \| 💬: [52](https://news.ycombinator.com/item?id=43917376) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -309,26 +321,14 @@ Abtach创始人Azneem Bilwani还涉及巴基斯坦史上最大洗钱案，其关
 
 ---
 
-## <a name="24"></a>24. 关税扼杀了Arduboy游戏机 
+## <a name="25"></a>25. 关税扼杀了Arduboy游戏机 
 <small>🔗 [community.arduboy.com](https://community.arduboy.com/t/tariffs-killed-arduboy/12675): Tariffs Killed Arduboy</small>
 
 
-| 🔥: 59 \| 💬: [22](https://news.ycombinator.com/item?id=43918425) \| 🗓️ 2025-05-07
+| 🔥: 60 \| 💬: [22](https://news.ycombinator.com/item?id=43918425) \| 🗓️ 2025-05-07
 
 
 <br />
 Arduboy创始人表示，这款微型Game Boy风格的游戏机因**特朗普关税政策**而难以为继。原本生意蒸蒸日上，但**25%的额外关税**导致生产成本飙升，迫使项目停摆。创始人坦言，小企业无法承受此类突发政策冲击，最终选择终止运营。
-
----
-
-## <a name="25"></a>25. Zed编辑器推出革命性AI代理编辑功能 
-<small>🔗 [zed.dev](https://zed.dev/blog/fastest-ai-code-editor?e=60): Agentic Editing in Zed</small>
-
-
-| 🔥: 58 \| 💬: [2](https://news.ycombinator.com/item?id=43913896) \| 🗓️ 2025-05-07
-
-
-<br />
-Zed作为全球最快的**开源Rust代码编辑器**，新增了**AI代理面板**功能，支持用户通过自然语言指令完成代码查询、修改和编写。所有AI功能均开源且默认保护隐私，数据不会上传服务器。编辑器支持多模型接入（包括Claude、Gemini及本地Ollama），提供三种预设工具配置模式，并可扩展数据库、PR创建等能力。目前免费版每月提供50次AI调用，专业版20美元/月含500次。Windows版本预计2025年发布。
 
 ---
