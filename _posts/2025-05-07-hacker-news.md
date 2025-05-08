@@ -27,7 +27,7 @@ tags:
 <small>🔗 [github.com](https://github.com/astral-sh/ty): Ty: A fast Python type checker and language server</small>
 
 
-| 🔥🔥: 607 \| 💬: [165](https://news.ycombinator.com/item?id=43918484) \| 🗓️ 2025-05-07
+| 🔥🔥: 626 \| 💬: [170](https://news.ycombinator.com/item?id=43918484) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -39,7 +39,7 @@ Ty 是一款**用 Rust 编写**的 Python **类型检查工具**和语言服务�
 <small>🔗 [blog.jetbrains.com](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/): CLion Is Now Free for Non-Commercial Use</small>
 
 
-| 🔥🔥: 536 \| 💬: [333](https://news.ycombinator.com/item?id=43914705) \| 🗓️ 2025-05-07
+| 🔥🔥: 537 \| 💬: [336](https://news.ycombinator.com/item?id=43914705) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -51,7 +51,7 @@ JetBrains宣布其**跨平台C/C++集成开发环境CLion**现可免费用于**�
 <small>🔗 [mfkl.github.io](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html): Unity’s Open-Source Double Standard: the ban of VLC</small>
 
 
-| 🔥🔥: 480 \| 💬: [139](https://news.ycombinator.com/item?id=43914832) \| 🗓️ 2025-05-07
+| 🔥🔥: 483 \| 💬: [141](https://news.ycombinator.com/item?id=43914832) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -65,7 +65,7 @@ JetBrains宣布其**跨平台C/C++集成开发环境CLion**现可免费用于**�
 <small>🔗 [pganalyze.com](https://pganalyze.com/blog/postgres-18-async-io): Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O</small>
 
 
-| 🔥🔥: 396 \| 💬: [100](https://news.ycombinator.com/item?id=43916577) \| 🗓️ 2025-05-07
+| 🔥🔥: 410 \| 💬: [101](https://news.ycombinator.com/item?id=43916577) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -77,7 +77,7 @@ PostgreSQL 18引入了**异步I/O**（AIO）功能，通过并行处理磁盘读
 <small>🔗 [dynomight.net](https://dynomight.net/blood/): So Much Blood</small>
 
 
-| 🔥🔥: 348 \| 💬: [154](https://news.ycombinator.com/item?id=43913751) \| 🗓️ 2025-05-07
+| 🔥🔥: 353 \| 💬: [156](https://news.ycombinator.com/item?id=43913751) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -89,7 +89,7 @@ PostgreSQL 18引入了**异步I/O**（AIO）功能，通过并行处理磁盘读
 <small>🔗 [mistral.ai](https://mistral.ai/news/le-chat-enterprise): Mistral ships le chat – enterprise AI assistant that can run on prem</small>
 
 
-| 🔥🔥: 280 \| 💬: [84](https://news.ycombinator.com/item?id=43916098) \| 🗓️ 2025-05-07
+| 🔥🔥: 298 \| 💬: [87](https://news.ycombinator.com/item?id=43916098) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -101,7 +101,7 @@ Mistral AI发布**Le Chat Enterprise**，搭载全新Mistral Medium 3模型，�
 <small>🔗 [gill.net.in](https://gill.net.in/posts/my-quest-to-make-motorcycle-riding-safer/): My quest to make motorcycle riding that tad bit safer</small>
 
 
-| 🔥🔥: 229 \| 💬: [260](https://news.ycombinator.com/item?id=43914235) \| 🗓️ 2025-05-07
+| 🔥🔥: 234 \| 💬: [264](https://news.ycombinator.com/item?id=43914235) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -113,7 +113,7 @@ Mistral AI发布**Le Chat Enterprise**，搭载全新Mistral Medium 3模型，�
 <small>🔗 [github.com](https://github.com/rybbit-io/rybbit): Open source Google Analytics replacement</small>
 
 
-| 🔥🔥: 214 \| 💬: [107](https://news.ycombinator.com/item?id=43918620) \| 🗓️ 2025-05-07
+| 🔥🔥: 223 \| 💬: [109](https://news.ycombinator.com/item?id=43918620) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -125,7 +125,7 @@ Rybbit是一款**开源、隐私友好**的Google Analytics替代方案，比传
 <small>🔗 [github.com](https://github.com/ciromattia/kcc): Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)</small>
 
 
-| 🔥🔥: 204 \| 💬: [41](https://news.ycombinator.com/item?id=43916956) \| 🗓️ 2025-05-07
+| 🔥🔥: 208 \| 💬: [41](https://news.ycombinator.com/item?id=43916956) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -139,7 +139,7 @@ Kindle Comic Converter（KCC）是一款**开源工具**，可将漫画、漫画
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/web-search-api): Web search on the Anthropic API</small>
 
 
-| 🔥🔥: 184 \| 💬: [43](https://news.ycombinator.com/item?id=43920188) \| 🗓️ 2025-05-07
+| 🔥🔥: 194 \| 💬: [46](https://news.ycombinator.com/item?id=43920188) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -151,7 +151,7 @@ Anthropic宣布为Claude API新增**网页搜索工具**，开发者可构建能
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/): Create and edit images with Gemini 2.0 in preview</small>
 
 
-| 🔥🔥: 177 \| 💬: [76](https://news.ycombinator.com/item?id=43917461) \| 🗓️ 2025-05-07
+| 🔥🔥: 184 \| 💬: [83](https://news.ycombinator.com/item?id=43917461) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -171,23 +171,11 @@ Cloudflare前CTO John Graham-Cumming回顾了他在公司的13年职业生涯：
 
 ---
 
-## <a name="13"></a>13. 变老并非你想的那样 
-<small>🔗 [katycowan.co.uk](https://www.katycowan.co.uk/blog/getting-old): Getting Older Isn't What You Think</small>
-
-
-| 🔥🔥: 138 \| 💬: [206](https://news.ycombinator.com/item?id=43917855) \| 🗓️ 2025-05-07
-
-
-<br />
-作者Katy Cowan以幽默笔触反思中年心境：36岁被称“老”令人失笑，50岁临近却发现自己**偏爱宁静**——早睡、爵士乐和书籍取代了音乐节喧嚣。作为夹在X世代与千禧一代之间的“Xennials”，她见证从磁带流媒体、拨号上网到AI的巨变，**兼具线下与线上生活的智慧**。文章批判社交媒体制造的焦虑，呼吁保持好奇与开放：“**确定性被高估，倾听却被低估**”——年龄增长不是封闭，而是更清晰地认识自我与世界的开始。
-
----
-
-## <a name="14"></a>14. Mac主题花园：经典Mac主题的宝库上线 
+## <a name="13"></a>13. Mac主题花园：经典Mac主题的宝库上线 
 <small>🔗 [damien.zone](https://damien.zone/introducing-mac-themes-garden/): Mac Themes Garden</small>
 
 
-| 🔥🔥: 131 \| 💬: [36](https://news.ycombinator.com/item?id=43919868) \| 🗓️ 2025-05-07
+| 🔥🔥: 144 \| 💬: [40](https://news.ycombinator.com/item?id=43919868) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -199,11 +187,23 @@ Mac主题花园（Mac Themes Garden）是一个展示**3000多款**经典Mac时�
 
 ---
 
+## <a name="14"></a>14. 变老并非你想的那样 
+<small>🔗 [katycowan.co.uk](https://www.katycowan.co.uk/blog/getting-old): Getting Older Isn't What You Think</small>
+
+
+| 🔥🔥: 138 \| 💬: [215](https://news.ycombinator.com/item?id=43917855) \| 🗓️ 2025-05-07
+
+
+<br />
+作者Katy Cowan以幽默笔触反思中年心境：36岁被称“老”令人失笑，50岁临近却发现自己**偏爱宁静**——早睡、爵士乐和书籍取代了音乐节喧嚣。作为夹在X世代与千禧一代之间的“Xennials”，她见证从磁带流媒体、拨号上网到AI的巨变，**兼具线下与线上生活的智慧**。文章批判社交媒体制造的焦虑，呼吁保持好奇与开放：“**确定性被高估，倾听却被低估**”——年龄增长不是封闭，而是更清晰地认识自我与世界的开始。
+
+---
+
 ## <a name="15"></a>15. 我花钱买了整块GPU，就要物尽其用 
 <small>🔗 [modal.com](https://modal.com/blog/gpu-utilization-guide): 'I paid for the whole GPU, I am going to use the whole GPU'</small>
 
 
-| 🔥🔥: 122 \| 💬: [40](https://news.ycombinator.com/item?id=43920544) \| 🗓️ 2025-05-07
+| 🔥🔥: 124 \| 💬: [40](https://news.ycombinator.com/item?id=43920544) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -215,7 +215,7 @@ Mac主题花园（Mac Themes Garden）是一个展示**3000多款**经典Mac时�
 <small>🔗 [neurosciencenews.com](https://neurosciencenews.com/vagus-nerve-stimulation-ptsd-28818/): Vagus Nerve Stimulation Erases PTSD: Study</small>
 
 
-| 🔥🔥: 106 \| 💬: [64](https://news.ycombinator.com/item?id=43919812) \| 🗓️ 2025-05-07
+| 🔥🔥: 109 \| 💬: [65](https://news.ycombinator.com/item?id=43919812) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -223,11 +223,35 @@ Mac主题花园（Mac Themes Garden）是一个展示**3000多款**经典Mac时�
 
 ---
 
-## <a name="17"></a>17. OpenSearch 3.0正式发布：性能提升9.5倍，助力AI搜索与分析 
+## <a name="17"></a>17. 三星斥资3.5亿美元收购B&W、天龙、马兰士等音频品牌 
+<small>🔗 [engadget.com](https://www.engadget.com/audio/samsung-is-paying-350-million-for-audio-brands-bowers--wilkins-denon-marantz-and-polk-131514754.html): Samsung is paying $350M for audio brands B&W, Denon, Marantz and Polk</small>
+
+
+| 🔥🔥: 105 \| 💬: [131](https://news.ycombinator.com/item?id=43918437) \| 🗓️ 2025-05-07
+
+
+<br />
+三星旗下**哈曼国际**以3.5亿美元现金收购医疗科技公司Masimo的音频业务，交易预计2025年底完成。此次收购将整合**宝华韦健（B&W）**、天龙、马兰士等品牌，强化哈曼在消费音频市场的领先地位。三星计划将这些技术应用于手机、电视等设备，同时保留原团队以推动创新。哈曼去年占据便携音频设备60%市场份额，此次收购旨在巩固其全球第一地位。
+
+---
+
+## <a name="18"></a>18. Yggdrasil：一种去中心化的实验性紧凑路由方案 
+<small>🔗 [yggdrasil-network.github.io](https://yggdrasil-network.github.io/about.html): Yggdrasil is an experimental compact routing scheme that is fully decentralised</small>
+
+
+| 🔥🔥: 103 \| 💬: [25](https://news.ycombinator.com/item?id=43921624) \| 🗓️ 2025-05-07
+
+
+<br />
+Yggdrasil 是一种**完全去中心化**的实验性路由方案，仅需少量状态即可运行。它采用**最短路径算法**，节点通过对等连接自动传递流量，支持跨NAT通信，并能自我修复网络故障。每个节点拥有**加密身份**，生成稳定的IPv6地址，适合网状网络和边缘计算。与Tor等匿名覆盖网络不同，Yggdrasil 不追求匿名性，也非传统VPN，而是专注于测试路由方案的可扩展性。目前处于Alpha阶段，欢迎参与公测，但暂不建议用于关键任务。
+
+---
+
+## <a name="19"></a>19. OpenSearch 3.0正式发布：性能提升9.5倍，助力AI搜索与分析 
 <small>🔗 [opensearch.org](https://opensearch.org/blog/opensearch-3-0-enhances-vector-database-performance/): OpenSearch 3.0 Released</small>
 
 
-| 🔥: 100 \| 💬: [23](https://news.ycombinator.com/item?id=43917122) \| 🗓️ 2025-05-07
+| 🔥🔥: 101 \| 💬: [25](https://news.ycombinator.com/item?id=43917122) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -235,11 +259,23 @@ OpenSearch 3.0作为开源搜索与分析平台的最新版本，**性能较1.3�
 
 ---
 
-## <a name="18"></a>18. 巴基斯坦公司向美国走私芬太尼类似物并实施诈骗 
+## <a name="20"></a>20. 从诗人到菲尔兹奖得主：许埈珥的数学奇迹 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/): June Huh dropped out to become a poet, now he’s won a Fields Medal (2022)</small>
+
+
+| 🔥🔥: 101 \| 💬: [60](https://news.ycombinator.com/item?id=43920792) \| 🗓️ 2025-05-07
+
+
+<br />
+许埈珥（June Huh）高中辍学追求诗歌，却在大学第六年偶然接触数学后彻底改变人生。2022年，他因**连接组合数学与几何学**的突破性成果获得**菲尔兹奖**。他的研究揭示了图论中**色多项式系数**的深层几何结构，解决了40年未解的猜想。许埈珥将艺术直觉融入数学，认为探索真理的过程如同“捕捉已存在的美”。从“迷失的诗人”到顶尖数学家，他的故事展现了偶然与坚持的奇妙交织。
+
+---
+
+## <a name="21"></a>21. 巴基斯坦公司向美国走私芬太尼类似物并实施诈骗 
 <small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/): Pakistani firm shipped fentanyl analogs, scams to us</small>
 
 
-| 🔥: 96 \| 💬: [35](https://news.ycombinator.com/item?id=43921129) \| 🗓️ 2025-05-07
+| 🔥: 97 \| 💬: [36](https://news.ycombinator.com/item?id=43921129) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -249,19 +285,7 @@ Abtach创始人Azneem Bilwani还涉及巴基斯坦史上最大洗钱案，其关
 
 ---
 
-## <a name="19"></a>19. Yggdrasil：一种去中心化的实验性紧凑路由方案 
-<small>🔗 [yggdrasil-network.github.io](https://yggdrasil-network.github.io/about.html): Yggdrasil is an experimental compact routing scheme that is fully decentralised</small>
-
-
-| 🔥: 95 \| 💬: [23](https://news.ycombinator.com/item?id=43921624) \| 🗓️ 2025-05-07
-
-
-<br />
-Yggdrasil 是一种**完全去中心化**的实验性路由方案，仅需少量状态即可运行。它采用**最短路径算法**，节点通过对等连接自动传递流量，支持跨NAT通信，并能自我修复网络故障。每个节点拥有**加密身份**，生成稳定的IPv6地址，适合网状网络和边缘计算。与Tor等匿名覆盖网络不同，Yggdrasil 不追求匿名性，也非传统VPN，而是专注于测试路由方案的可扩展性。目前处于Alpha阶段，欢迎参与公测，但暂不建议用于关键任务。
-
----
-
-## <a name="20"></a>20. 密西西比州的教育逆袭：偏见之下的成功典范 
+## <a name="22"></a>22. 密西西比州的教育逆袭：偏见之下的成功典范 
 <small>🔗 [educationdaly.us](https://www.educationdaly.us/p/mississippi-cant-possibly-have-good): Mississippi Can't Possibly Have Good Schools</small>
 
 
@@ -270,30 +294,6 @@ Yggdrasil 是一种**完全去中心化**的实验性路由方案，仅需少量
 
 <br />
 尽管密西西比州长期因**贫困、健康问题**和**历史遗留问题**被视为教育洼地，但近年来其教育系统却成为全美进步最快的典范。调整学生 demographics 后，该州在四年级数学和阅读测试中排名**全美第一**，黑人学生成绩甚至超越许多经费更充裕的州。然而，这种成功常被精英阶层的**地域偏见**忽视，甚至引发质疑。文章指出，这种“教育势利”阻碍了其他州向南方学习，导致资源浪费和进步停滞。同时，作者警告两党：民主党需重视教育议题，而共和党应避免因文化战争分散教育改革的专注力。
-
----
-
-## <a name="21"></a>21. 三星斥资3.5亿美元收购B&W、天龙、马兰士等音频品牌 
-<small>🔗 [engadget.com](https://www.engadget.com/audio/samsung-is-paying-350-million-for-audio-brands-bowers--wilkins-denon-marantz-and-polk-131514754.html): Samsung is paying $350M for audio brands B&W, Denon, Marantz and Polk</small>
-
-
-| 🔥: 94 \| 💬: [120](https://news.ycombinator.com/item?id=43918437) \| 🗓️ 2025-05-07
-
-
-<br />
-三星旗下**哈曼国际**以3.5亿美元现金收购医疗科技公司Masimo的音频业务，交易预计2025年底完成。此次收购将整合**宝华韦健（B&W）**、天龙、马兰士等品牌，强化哈曼在消费音频市场的领先地位。三星计划将这些技术应用于手机、电视等设备，同时保留原团队以推动创新。哈曼去年占据便携音频设备60%市场份额，此次收购旨在巩固其全球第一地位。
-
----
-
-## <a name="22"></a>22. 从诗人到菲尔兹奖得主：许埈珥的数学奇迹 
-<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/): June Huh dropped out to become a poet, now he’s won a Fields Medal (2022)</small>
-
-
-| 🔥: 94 \| 💬: [51](https://news.ycombinator.com/item?id=43920792) \| 🗓️ 2025-05-07
-
-
-<br />
-许埈珥（June Huh）高中辍学追求诗歌，却在大学第六年偶然接触数学后彻底改变人生。2022年，他因**连接组合数学与几何学**的突破性成果获得**菲尔兹奖**。他的研究揭示了图论中**色多项式系数**的深层几何结构，解决了40年未解的猜想。许埈珥将艺术直觉融入数学，认为探索真理的过程如同“捕捉已存在的美”。从“迷失的诗人”到顶尖数学家，他的故事展现了偶然与坚持的奇妙交织。
 
 ---
 
