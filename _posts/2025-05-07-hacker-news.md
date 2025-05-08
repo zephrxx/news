@@ -27,7 +27,7 @@ tags:
 <small>🔗 [github.com](https://github.com/astral-sh/ty): Ty: A fast Python type checker and language server</small>
 
 
-| 🔥🔥: 547 \| 💬: [159](https://news.ycombinator.com/item?id=43918484) \| 🗓️ 2025-05-07
+| 🔥🔥: 577 \| 💬: [163](https://news.ycombinator.com/item?id=43918484) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -39,7 +39,7 @@ Ty 是一款**用 Rust 编写**的 Python **类型检查工具**和语言服务�
 <small>🔗 [blog.jetbrains.com](https://blog.jetbrains.com/clion/2025/05/clion-is-now-free-for-non-commercial-use/): CLion Is Now Free for Non-Commercial Use</small>
 
 
-| 🔥🔥: 525 \| 💬: [323](https://news.ycombinator.com/item?id=43914705) \| 🗓️ 2025-05-07
+| 🔥🔥: 530 \| 💬: [326](https://news.ycombinator.com/item?id=43914705) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -51,7 +51,7 @@ JetBrains宣布其**跨平台C/C++集成开发环境CLion**现可免费用于**�
 <small>🔗 [mfkl.github.io](https://mfkl.github.io/2024/01/10/unity-double-oss-standards.html): Unity’s Open-Source Double Standard: the ban of VLC</small>
 
 
-| 🔥🔥: 474 \| 💬: [134](https://news.ycombinator.com/item?id=43914832) \| 🗓️ 2025-05-07
+| 🔥🔥: 476 \| 💬: [136](https://news.ycombinator.com/item?id=43914832) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -65,7 +65,7 @@ JetBrains宣布其**跨平台C/C++集成开发环境CLion**现可免费用于**�
 <small>🔗 [pganalyze.com](https://pganalyze.com/blog/postgres-18-async-io): Waiting for Postgres 18: Accelerating Disk Reads with Asynchronous I/O</small>
 
 
-| 🔥🔥: 380 \| 💬: [98](https://news.ycombinator.com/item?id=43916577) \| 🗓️ 2025-05-07
+| 🔥🔥: 386 \| 💬: [99](https://news.ycombinator.com/item?id=43916577) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -77,7 +77,7 @@ PostgreSQL 18引入了**异步I/O**（AIO）功能，通过并行处理磁盘读
 <small>🔗 [dynomight.net](https://dynomight.net/blood/): So Much Blood</small>
 
 
-| 🔥🔥: 337 \| 💬: [154](https://news.ycombinator.com/item?id=43913751) \| 🗓️ 2025-05-07
+| 🔥🔥: 344 \| 💬: [154](https://news.ycombinator.com/item?id=43913751) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -89,7 +89,7 @@ PostgreSQL 18引入了**异步I/O**（AIO）功能，通过并行处理磁盘读
 <small>🔗 [mistral.ai](https://mistral.ai/news/le-chat-enterprise): Mistral ships le chat – enterprise AI assistant that can run on prem</small>
 
 
-| 🔥🔥: 262 \| 💬: [81](https://news.ycombinator.com/item?id=43916098) \| 🗓️ 2025-05-07
+| 🔥🔥: 271 \| 💬: [83](https://news.ycombinator.com/item?id=43916098) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -101,7 +101,7 @@ Mistral AI发布**Le Chat Enterprise**，搭载全新Mistral Medium 3模型，�
 <small>🔗 [gill.net.in](https://gill.net.in/posts/my-quest-to-make-motorcycle-riding-safer/): My quest to make motorcycle riding that tad bit safer</small>
 
 
-| 🔥🔥: 219 \| 💬: [253](https://news.ycombinator.com/item?id=43914235) \| 🗓️ 2025-05-07
+| 🔥🔥: 227 \| 💬: [258](https://news.ycombinator.com/item?id=43914235) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -113,7 +113,7 @@ Mistral AI发布**Le Chat Enterprise**，搭载全新Mistral Medium 3模型，�
 <small>🔗 [github.com](https://github.com/ciromattia/kcc): Show HN: eInk optimized manga with Kindle Comic Converter (+Kobo/ReMarkable)</small>
 
 
-| 🔥🔥: 201 \| 💬: [41](https://news.ycombinator.com/item?id=43916956) \| 🗓️ 2025-05-07
+| 🔥🔥: 203 \| 💬: [41](https://news.ycombinator.com/item?id=43916956) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -127,7 +127,7 @@ Kindle Comic Converter（KCC）是一款**开源工具**，可将漫画、漫画
 <small>🔗 [github.com](https://github.com/rybbit-io/rybbit): Open source Google Analytics replacement</small>
 
 
-| 🔥🔥: 180 \| 💬: [92](https://news.ycombinator.com/item?id=43918620) \| 🗓️ 2025-05-07
+| 🔥🔥: 200 \| 💬: [100](https://news.ycombinator.com/item?id=43918620) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -135,23 +135,11 @@ Rybbit是一款**开源、隐私友好**的Google Analytics替代方案，比传
 
 ---
 
-## <a name="10"></a>10. Gemini 2.0 预览版上线：AI 图像生成与编辑新功能 
-<small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/): Create and edit images with Gemini 2.0 in preview</small>
-
-
-| 🔥🔥: 165 \| 💬: [69](https://news.ycombinator.com/item?id=43917461) \| 🗓️ 2025-05-07
-
-
-<br />
-Google AI Studio 宣布 **Gemini 2.0 Flash** 预览版开放图像生成功能，开发者可通过 API 集成对话式图像创作与编辑，并享受更高的速率限制。新版本优化了**视觉质量**和**文本渲染准确性**，同时大幅降低过滤拦截率。支持实时协作编辑、局部图像修改及动态生成产品图等场景。开发者现可通过 Google AI Studio 或 Vertex AI 体验这一功能，未来还将推出更多改进。
-
----
-
-## <a name="11"></a>11. Anthropic API推出网页搜索功能 
+## <a name="10"></a>10. Anthropic API推出网页搜索功能 
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/web-search-api): Web search on the Anthropic API</small>
 
 
-| 🔥🔥: 158 \| 💬: [37](https://news.ycombinator.com/item?id=43920188) \| 🗓️ 2025-05-07
+| 🔥🔥: 172 \| 💬: [41](https://news.ycombinator.com/item?id=43920188) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -159,11 +147,23 @@ Anthropic宣布为Claude API新增**网页搜索工具**，开发者可构建能
 
 ---
 
+## <a name="11"></a>11. Gemini 2.0 预览版上线：AI 图像生成与编辑新功能 
+<small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/): Create and edit images with Gemini 2.0 in preview</small>
+
+
+| 🔥🔥: 171 \| 💬: [74](https://news.ycombinator.com/item?id=43917461) \| 🗓️ 2025-05-07
+
+
+<br />
+Google AI Studio 宣布 **Gemini 2.0 Flash** 预览版开放图像生成功能，开发者可通过 API 集成对话式图像创作与编辑，并享受更高的速率限制。新版本优化了**视觉质量**和**文本渲染准确性**，同时大幅降低过滤拦截率。支持实时协作编辑、局部图像修改及动态生成产品图等场景。开发者现可通过 Google AI Studio 或 Vertex AI 体验这一功能，未来还将推出更多改进。
+
+---
+
 ## <a name="12"></a>12. 从程序员到CTO再到董事会：我在Cloudflare的13年旅程 
 <small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/en-us/three-chapters-at-cloudflare-programmer-to-cto-to-board-of-directors/): Three Chapters at Cloudflare: Programmer to CTO to Board of Directors</small>
 
 
-| 🔥🔥: 144 \| 💬: [27](https://news.ycombinator.com/item?id=43918600) \| 🗓️ 2025-05-07
+| 🔥🔥: 145 \| 💬: [27](https://news.ycombinator.com/item?id=43918600) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -175,7 +175,7 @@ Cloudflare前CTO John Graham-Cumming回顾了他在公司的13年职业生涯：
 <small>🔗 [katycowan.co.uk](https://www.katycowan.co.uk/blog/getting-old): Getting Older Isn't What You Think</small>
 
 
-| 🔥🔥: 136 \| 💬: [201](https://news.ycombinator.com/item?id=43917855) \| 🗓️ 2025-05-07
+| 🔥🔥: 136 \| 💬: [202](https://news.ycombinator.com/item?id=43917855) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -187,7 +187,7 @@ Cloudflare前CTO John Graham-Cumming回顾了他在公司的13年职业生涯：
 <small>🔗 [damien.zone](https://damien.zone/introducing-mac-themes-garden/): Mac Themes Garden</small>
 
 
-| 🔥🔥: 115 \| 💬: [30](https://news.ycombinator.com/item?id=43919868) \| 🗓️ 2025-05-07
+| 🔥🔥: 122 \| 💬: [32](https://news.ycombinator.com/item?id=43919868) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -203,7 +203,7 @@ Mac主题花园（Mac Themes Garden）是一个展示**3000多款**经典Mac时�
 <small>🔗 [modal.com](https://modal.com/blog/gpu-utilization-guide): 'I paid for the whole GPU, I am going to use the whole GPU'</small>
 
 
-| 🔥🔥: 115 \| 💬: [31](https://news.ycombinator.com/item?id=43920544) \| 🗓️ 2025-05-07
+| 🔥🔥: 120 \| 💬: [36](https://news.ycombinator.com/item?id=43920544) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -215,7 +215,7 @@ Mac主题花园（Mac Themes Garden）是一个展示**3000多款**经典Mac时�
 <small>🔗 [neurosciencenews.com](https://neurosciencenews.com/vagus-nerve-stimulation-ptsd-28818/): Vagus Nerve Stimulation Erases PTSD: Study</small>
 
 
-| 🔥🔥: 101 \| 💬: [64](https://news.ycombinator.com/item?id=43919812) \| 🗓️ 2025-05-07
+| 🔥🔥: 104 \| 💬: [64](https://news.ycombinator.com/item?id=43919812) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -251,7 +251,7 @@ OpenSearch 3.0作为开源搜索与分析平台的最新版本，**性能较1.3�
 <small>🔗 [krebsonsecurity.com](https://krebsonsecurity.com/2025/05/pakistani-firm-shipped-fentanyl-analogs-scams-to-us/): Pakistani firm shipped fentanyl analogs, scams to us</small>
 
 
-| 🔥: 93 \| 💬: [33](https://news.ycombinator.com/item?id=43921129) \| 🗓️ 2025-05-07
+| 🔥: 94 \| 💬: [35](https://news.ycombinator.com/item?id=43921129) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -285,11 +285,23 @@ Abtach创始人Azneem Bilwani还涉及巴基斯坦史上最大洗钱案，其关
 
 ---
 
-## <a name="22"></a>22. 三星斥资3.5亿美元收购B&W、天龙、马兰士等音频品牌 
+## <a name="22"></a>22. Yggdrasil：一种去中心化的实验性紧凑路由方案 
+<small>🔗 [yggdrasil-network.github.io](https://yggdrasil-network.github.io/about.html): Yggdrasil is an experimental compact routing scheme that is fully decentralised</small>
+
+
+| 🔥: 84 \| 💬: [18](https://news.ycombinator.com/item?id=43921624) \| 🗓️ 2025-05-07
+
+
+<br />
+Yggdrasil 是一种**完全去中心化**的实验性路由方案，仅需少量状态即可运行。它采用**最短路径算法**，节点通过对等连接自动传递流量，支持跨NAT通信，并能自我修复网络故障。每个节点拥有**加密身份**，生成稳定的IPv6地址，适合网状网络和边缘计算。与Tor等匿名覆盖网络不同，Yggdrasil 不追求匿名性，也非传统VPN，而是专注于测试路由方案的可扩展性。目前处于Alpha阶段，欢迎参与公测，但暂不建议用于关键任务。
+
+---
+
+## <a name="23"></a>23. 三星斥资3.5亿美元收购B&W、天龙、马兰士等音频品牌 
 <small>🔗 [engadget.com](https://www.engadget.com/audio/samsung-is-paying-350-million-for-audio-brands-bowers--wilkins-denon-marantz-and-polk-131514754.html): Samsung is paying $350M for audio brands B&W, Denon, Marantz and Polk</small>
 
 
-| 🔥: 73 \| 💬: [89](https://news.ycombinator.com/item?id=43918437) \| 🗓️ 2025-05-07
+| 🔥: 83 \| 💬: [104](https://news.ycombinator.com/item?id=43918437) \| 🗓️ 2025-05-07
 
 
 <br />
@@ -297,7 +309,19 @@ Abtach创始人Azneem Bilwani还涉及巴基斯坦史上最大洗钱案，其关
 
 ---
 
-## <a name="23"></a>23. 12年前的老主板竟获M.2 SSD启动支持 
+## <a name="24"></a>24. 从诗人到菲尔兹奖得主：许埈珥的数学奇迹 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/): June Huh dropped out to become a poet, now he’s won a Fields Medal (2022)</small>
+
+
+| 🔥: 78 \| 💬: [44](https://news.ycombinator.com/item?id=43920792) \| 🗓️ 2025-05-07
+
+
+<br />
+许埈珥（June Huh）高中辍学追求诗歌，却在大学第六年偶然接触数学后彻底改变人生。2022年，他因**连接组合数学与几何学**的突破性成果获得**菲尔兹奖**。他的研究揭示了图论中**色多项式系数**的深层几何结构，解决了40年未解的猜想。许埈珥将艺术直觉融入数学，认为探索真理的过程如同“捕捉已存在的美”。从“迷失的诗人”到顶尖数学家，他的故事展现了偶然与坚持的奇妙交织。
+
+---
+
+## <a name="25"></a>25. 12年前的老主板竟获M.2 SSD启动支持 
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/pc-components/motherboards/sandy-bridge-era-motherboard-gains-m-2-ssd-boot-support-12-years-after-launch-first-new-bios-in-a-decade-for-decommissioned-motherboard): Sandy Bridge-era motherboard gets M.2 SSD boot support 12 years after launch</small>
 
 
@@ -306,29 +330,5 @@ Abtach创始人Azneem Bilwani还涉及巴基斯坦史上最大洗钱案，其关
 
 <br />
 中国网友WhiteCamellia发现，**技嘉**为已停产的**B75M-D3H**主板（2012年发布）发布了新固件F16f，主要修复2024年曝光的PKfail漏洞，但意外加入了**NVMe启动支持**。这款主板原本仅配备SATA接口，但通过PCIe转接卡可连接M.2 SSD。尽管受限于PCIe 2.0带宽（实测读写约2000MB/s），性能仍远超传统SATA III。这是该主板十年来首次更新，尚不清楚该功能是否为技嘉有意添加。类似情况可能也存在于同期其他主板中。
-
----
-
-## <a name="24"></a>24. 1996年：大卫·鲍伊与在线音乐分发的实验性突破 
-<small>🔗 [cybercultural.com](https://cybercultural.com/p/online-music-distribution-1996/): Telling Lies: Bowie and Online Music Distribution in 1996</small>
-
-
-| 🔥: 61 \| 💬: [52](https://news.ycombinator.com/item?id=43917376) \| 🗓️ 2025-05-07
-
-
-<br />
-1996年，**大卫·鲍伊**与数字合作伙伴**N2K**合作，在其官网免费发布单曲《Telling Lies》，成为主流音乐人首次尝试在线分发。尽管受限于当时的**低带宽**，用户需通过RealAudio或Liquid Audio等格式下载（耗时长达45分钟），但两周内仍吸引45万次下载，验证了互联网音乐分发的潜力。N2K CEO拉里·罗森认为这预示了“绕过唱片公司直接电子分发”的未来模式，而鲍伊则将此举视为探索未知的**艺术实验**。尽管音质和技术尚不成熟，这一事件标志着音乐产业数字化转型的早期里程碑。
-
----
-
-## <a name="25"></a>25. 关税扼杀了Arduboy游戏机 
-<small>🔗 [community.arduboy.com](https://community.arduboy.com/t/tariffs-killed-arduboy/12675): Tariffs Killed Arduboy</small>
-
-
-| 🔥: 60 \| 💬: [22](https://news.ycombinator.com/item?id=43918425) \| 🗓️ 2025-05-07
-
-
-<br />
-Arduboy创始人表示，这款微型Game Boy风格的游戏机因**特朗普关税政策**而难以为继。原本生意蒸蒸日上，但**25%的额外关税**导致生产成本飙升，迫使项目停摆。创始人坦言，小企业无法承受此类突发政策冲击，最终选择终止运营。
 
 ---
