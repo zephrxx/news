@@ -11,8 +11,8 @@ tags:
 1. ALICE实验首次在LHC中实现铅到金的转化；
 1. WebAssembly 2.0 核心标准概述；
 1. Sofie：开源网页版电视新闻直播自动化系统；
-1. Hyvector：一款快速现代的SVG编辑器；
 1. AMD 9950X实现21 GB/s的CSV解析：SIMD优化与性能突破；
+1. Hyvector：一款快速现代的SVG编辑器；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [home.cern](https://www.home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc): ALICE detects the conversion of lead into gold at the LHC</small>
 
 
-| 🔥🔥: 431 \| 💬: [232](https://news.ycombinator.com/item?id=43937214) \| 🗓️ 2025-05-09
+| 🔥🔥: 453 \| 💬: [239](https://news.ycombinator.com/item?id=43937214) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [w3.org](https://www.w3.org/TR/wasm-core-2/): WASM 2.0</small>
 
 
-| 🔥🔥: 292 \| 💬: [123](https://news.ycombinator.com/item?id=43934711) \| 🗓️ 2025-05-09
+| 🔥🔥: 293 \| 💬: [124](https://news.ycombinator.com/item?id=43934711) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -55,7 +55,7 @@ Wasm 2.0 基于虚拟指令集架构（**虚拟 ISA**），提供四种基础数
 <small>🔗 [nrkno.github.io](https://nrkno.github.io/sofie-core/): Sofie: open-source web based system for automating live TV news production</small>
 
 
-| 🔥🔥: 241 \| 💬: [33](https://news.ycombinator.com/item?id=43936408) \| 🗓️ 2025-05-09
+| 🔥🔥: 251 \| 💬: [32](https://news.ycombinator.com/item?id=43936408) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -63,23 +63,11 @@ Sofie 是一款**开源**的网页端系统，专为**自动化电视新闻直�
 
 ---
 
-## <a name="4"></a>4. Hyvector：一款快速现代的SVG编辑器 
-<small>🔗 [hyvector.com](https://www.hyvector.com): Show HN: Hyvector – A fast and modern SVG editor</small>
-
-
-| 🔥🔥: 225 \| 💬: [55](https://news.ycombinator.com/item?id=43935394) \| 🗓️ 2025-05-09
-
-
-<br />
-Hyvector是一款**快速**且**现代化**的SVG编辑器，但需要**启用JavaScript**才能正常运行。该工具专注于高效处理矢量图形，适合设计师和开发者使用。目前访问时若禁用JavaScript，页面将无法加载。
-
----
-
-## <a name="5"></a>5. AMD 9950X实现21 GB/s的CSV解析：SIMD优化与性能突破 
+## <a name="4"></a>4. AMD 9950X实现21 GB/s的CSV解析：SIMD优化与性能突破 
 <small>🔗 [nietras.com](https://nietras.com/2025/05/09/sep-0-10-0/): 21 GB/s CSV Parsing Using SIMD on AMD 9950X</small>
 
 
-| 🔥🔥: 222 \| 💬: [108](https://news.ycombinator.com/item?id=43936592) \| 🗓️ 2025-05-09
+| 🔥🔥: 229 \| 💬: [111](https://news.ycombinator.com/item?id=43936592) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -87,11 +75,23 @@ Hyvector是一款**快速**且**现代化**的SVG编辑器，但需要**启用Ja
 
 ---
 
+## <a name="5"></a>5. Hyvector：一款快速现代的SVG编辑器 
+<small>🔗 [hyvector.com](https://www.hyvector.com): Show HN: Hyvector – A fast and modern SVG editor</small>
+
+
+| 🔥🔥: 228 \| 💬: [59](https://news.ycombinator.com/item?id=43935394) \| 🗓️ 2025-05-09
+
+
+<br />
+Hyvector是一款**快速**且**现代化**的SVG编辑器，但需要**启用JavaScript**才能正常运行。该工具专注于高效处理矢量图形，适合设计师和开发者使用。目前访问时若禁用JavaScript，页面将无法加载。
+
+---
+
 ## <a name="6"></a>6. 亚马逊Vulcan机器人仓储效率超越人类 
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/amazon-stowing-robots): Amazon's Vulcan Robots Now Stow Items Faster Than Humans</small>
 
 
-| 🔥🔥: 181 \| 💬: [246](https://news.ycombinator.com/item?id=43935586) \| 🗓️ 2025-05-09
+| 🔥🔥: 183 \| 💬: [249](https://news.ycombinator.com/item?id=43935586) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -103,7 +103,7 @@ Hyvector是一款**快速**且**现代化**的SVG编辑器，但需要**启用Ja
 <small>🔗 [itter.sh](https://www.itter.sh/): Itter.sh – Micro-Blogging via Terminal</small>
 
 
-| 🔥🔥: 161 \| 💬: [56](https://news.ycombinator.com/item?id=43936884) \| 🗓️ 2025-05-09
+| 🔥🔥: 176 \| 💬: [59](https://news.ycombinator.com/item?id=43936884) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -115,7 +115,7 @@ itter.sh是一款**纯终端操作**的微博客工具，通过SSH直接访问�
 <small>🔗 [aberdeenjs.org](https://aberdeenjs.org/): Show HN: Aberdeen – An elegant approach to reactive UIs</small>
 
 
-| 🔥🔥: 160 \| 💬: [90](https://news.ycombinator.com/item?id=43936097) \| 🗓️ 2025-05-09
+| 🔥🔥: 167 \| 💬: [98](https://news.ycombinator.com/item?id=43936097) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -127,7 +127,7 @@ Aberdeen是一个基于纯TypeScript/JavaScript的**轻量级UI框架**（约5KB
 <small>🔗 [404media.co](https://www.404media.co/man-disappeared-by-ice-was-on-el-salvador-flight-manifest-hacked-data-shows/): Man 'Disappeared' by ICE Was on El Salvador Flight Manifest, Hacked Data Shows</small>
 
 
-| 🔥🔥: 154 \| 💬: [62](https://news.ycombinator.com/item?id=43939006) \| 🗓️ 2025-05-09
+| 🔥🔥: 165 \| 💬: [64](https://news.ycombinator.com/item?id=43939006) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -139,7 +139,7 @@ Aberdeen是一个基于纯TypeScript/JavaScript的**轻量级UI框架**（约5KB
 <small>🔗 [kqed.org](https://www.kqed.org/news/12039472/bart-shuts-down-entire-train-service-due-to-computer-networking-problem): All BART trains were stopped due to ‘computer networking problem’</small>
 
 
-| 🔥🔥: 153 \| 💬: [112](https://news.ycombinator.com/item?id=43937242) \| 🗓️ 2025-05-09
+| 🔥🔥: 161 \| 💬: [124](https://news.ycombinator.com/item?id=43937242) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -151,7 +151,7 @@ Aberdeen是一个基于纯TypeScript/JavaScript的**轻量级UI框架**（约5KB
 <small>🔗 [cryptpad.org](https://cryptpad.org/): CryptPad: An Alternative to the Google Suite</small>
 
 
-| 🔥🔥: 128 \| 💬: [35](https://news.ycombinator.com/item?id=43935707) \| 🗓️ 2025-05-09
+| 🔥🔥: 135 \| 💬: [47](https://news.ycombinator.com/item?id=43935707) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -159,23 +159,11 @@ CryptPad 是一款**端到端加密**、**开源**的在线协作办公套件，
 
 ---
 
-## <a name="12"></a>12. 实现结构体数组的高效存储方案 
-<small>🔗 [brevzin.github.io](https://brevzin.github.io/c++/2025/05/02/soa/): Implementing a Struct of Arrays</small>
-
-
-| 🔥🔥: 109 \| 💬: [41](https://news.ycombinator.com/item?id=43935434) \| 🗓️ 2025-05-09
-
-
-<br />
-本文探讨了如何通过**结构体数组（SoA）**优化内存布局，提升性能。作者以Zig语言中的`MultiArrayList`为例，展示了将传统数组结构（AoS）转换为SoA的简洁方法。在C++26中，利用**反射机制**动态生成存储结构，分离不同成员到独立数组，同时保持统一的大小和容量管理。关键点包括：1) 使用`std::meta::define_aggregate`自动生成指针结构；2) 实现`push_back`和索引操作时处理多数组同步；3) 通过`PointRef`引用类型支持元素修改。这种方法显著减少了内存浪费，尤其适合需要高效访问特定成员字段的场景。
-
----
-
-## <a name="13"></a>13. Rust的依赖问题让我感到担忧 
+## <a name="12"></a>12. Rust的依赖问题让我感到担忧 
 <small>🔗 [vincents.dev](https://vincents.dev/blog/rust-dependencies-scare-me/?): Rust’s dependencies are starting to worry me</small>
 
 
-| 🔥: 97 \| 💬: [127](https://news.ycombinator.com/item?id=43935067) \| 🗓️ 2025-05-09
+| 🔥🔥: 127 \| 💬: [178](https://news.ycombinator.com/item?id=43935067) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -183,59 +171,23 @@ CryptPad 是一款**端到端加密**、**开源**的在线协作办公套件，
 
 ---
 
-## <a name="14"></a>14. Sorbet类型语法的过去、现在与未来 
-<small>🔗 [blog.jez.io](https://blog.jez.io/history-of-sorbet-syntax/): Past, present, and future of Sorbet type syntax</small>
+## <a name="13"></a>13. 实现结构体数组的高效存储方案 
+<small>🔗 [brevzin.github.io](https://brevzin.github.io/c++/2025/05/02/soa/): Implementing a Struct of Arrays</small>
 
 
-| 🔥: 91 \| 💬: [65](https://news.ycombinator.com/item?id=43938400) \| 🗓️ 2025-05-09
-
-
-<br />
-Sorbet的类型语法常被诟病**冗长、不美观**，但作者强调**语义比语法更重要**——类型是帮助开发者将思维转化为代码的“纠错机制”。Sorbet诞生于Stripe工程师对Ruby代码库**静态类型检查**的强烈需求，其语法设计经历了多次迭代，权衡了兼容性（如避免强制构建步骤）与表达力。未来可能优化语法，但核心目标始终是**兼顾静态与运行时类型安全**，而非迎合审美偏好。
-
----
-
-## <a name="15"></a>15. 特斯拉"Robotaxi"商标申请被拒：名称过于描述性 
-<small>🔗 [arstechnica.com](https://arstechnica.com/cars/2025/05/robotaxi-and-cybercab-are-too-unoriginal-to-trademark-uspto-tells-tesla/): USPTO refuses Tesla Robotaxi trademark as "merely descriptive"</small>
-
-
-| 🔥: 88 \| 💬: [63](https://news.ycombinator.com/item?id=43936198) \| 🗓️ 2025-05-09
+| 🔥🔥: 110 \| 💬: [42](https://news.ycombinator.com/item?id=43935434) \| 🗓️ 2025-05-09
 
 
 <br />
-美国专利商标局（USPTO）驳回了特斯拉申请注册**"Robotaxi"**商标的请求，认为该术语**过于通用且缺乏独特性**，并引用维基百科、The Verge等来源佐证。特斯拉若想挑战这一决定，需提交详细产品差异证明，但竞争对手Zoox已使用相同名称。此外，特斯拉另一商标**"Cybercab"**也因与其他公司冲突被拒。该公司计划下月在奥斯汀测试无方向盘的双座自动驾驶车，但其FSD系统此前被曝每13英里需人工干预一次，安全性存疑。
+本文探讨了如何通过**结构体数组（SoA）**优化内存布局，提升性能。作者以Zig语言中的`MultiArrayList`为例，展示了将传统数组结构（AoS）转换为SoA的简洁方法。在C++26中，利用**反射机制**动态生成存储结构，分离不同成员到独立数组，同时保持统一的大小和容量管理。关键点包括：1) 使用`std::meta::define_aggregate`自动生成指针结构；2) 实现`push_back`和索引操作时处理多数组同步；3) 通过`PointRef`引用类型支持元素修改。这种方法显著减少了内存浪费，尤其适合需要高效访问特定成员字段的场景。
 
 ---
 
-## <a name="16"></a>16. 网络科学如何"预测"新教皇：揭秘梵蒂冈权力图谱 
-<small>🔗 [unibocconi.it](https://www.unibocconi.it/en/news/network-conclave): In the Network of the Conclav: How we "guessed" the Pope using network science</small>
-
-
-| 🔥: 88 \| 💬: [59](https://news.ycombinator.com/item?id=43939419) \| 🗓️ 2025-05-09
-
-
-<br />
-博科尼大学团队运用**社会网络分析**研究枢机主教关系网，通过**官方共事记录**、**主教传承谱系**和**非正式联盟**构建三维模型。研究发现**地位中心性**、**信息控制力**和**联盟构建能力**是成为教皇候选人的关键因素，模型还纳入历史年龄偏好修正。虽然无法精确预测选举结果，但揭示了当前教廷核心人物（如帕罗林、拉格朗日等）的权力分布，表明**温和自由派**占据网络中心。研究者强调这仅是分析工具，最终选举仍受神圣性与多重变量影响。
-
----
-
-## <a name="17"></a>17. 37signals告别AWS：完成S3迁移并预计节省1000万美元 
-<small>🔗 [systemadministration.net](https://systemadministration.net/37signals-says-goodbye-to-aws-full-s3-migration-and-10m-in-projected-savings/): 37signals Says Goodbye to AWS: Full S3 Migration and $10M in Projected Savings</small>
-
-
-| 🔥: 83 \| 💬: [38](https://news.ycombinator.com/item?id=43936754) \| 🗓️ 2025-05-09
-
-
-<br />
-37signals宣布全面迁移**AWS S3**服务，预计未来五年将节省**1000万美元**成本。此次迁移标志着公司对**云成本优化**的重视，同时展示了自建基础设施的可行性。Kalker作为一款科学计算器，在此过程中未受影响，继续提供高级计算功能。
-
----
-
-## <a name="18"></a>18. 美元霸权时代或将走向终结 
+## <a name="14"></a>14. 美元霸权时代或将走向终结 
 <small>🔗 [news.harvard.edu](https://news.harvard.edu/gazette/story/2025/05/era-of-u-s-dollar-may-be-winding-down/): Era of U.S. dollar may be winding down</small>
 
 
-| 🔥: 82 \| 💬: [83](https://news.ycombinator.com/item?id=43940865) \| 🗓️ 2025-05-09
+| 🔥🔥: 110 \| 💬: [145](https://news.ycombinator.com/item?id=43940865) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -243,11 +195,59 @@ Sorbet的类型语法常被诟病**冗长、不美观**，但作者强调**语�
 
 ---
 
+## <a name="15"></a>15. Sorbet类型语法的过去、现在与未来 
+<small>🔗 [blog.jez.io](https://blog.jez.io/history-of-sorbet-syntax/): Past, present, and future of Sorbet type syntax</small>
+
+
+| 🔥: 95 \| 💬: [66](https://news.ycombinator.com/item?id=43938400) \| 🗓️ 2025-05-09
+
+
+<br />
+Sorbet的类型语法常被诟病**冗长、不美观**，但作者强调**语义比语法更重要**——类型是帮助开发者将思维转化为代码的“纠错机制”。Sorbet诞生于Stripe工程师对Ruby代码库**静态类型检查**的强烈需求，其语法设计经历了多次迭代，权衡了兼容性（如避免强制构建步骤）与表达力。未来可能优化语法，但核心目标始终是**兼顾静态与运行时类型安全**，而非迎合审美偏好。
+
+---
+
+## <a name="16"></a>16. 特斯拉"Robotaxi"商标申请被拒：名称过于描述性 
+<small>🔗 [arstechnica.com](https://arstechnica.com/cars/2025/05/robotaxi-and-cybercab-are-too-unoriginal-to-trademark-uspto-tells-tesla/): USPTO refuses Tesla Robotaxi trademark as "merely descriptive"</small>
+
+
+| 🔥: 90 \| 💬: [66](https://news.ycombinator.com/item?id=43936198) \| 🗓️ 2025-05-09
+
+
+<br />
+美国专利商标局（USPTO）驳回了特斯拉申请注册**"Robotaxi"**商标的请求，认为该术语**过于通用且缺乏独特性**，并引用维基百科、The Verge等来源佐证。特斯拉若想挑战这一决定，需提交详细产品差异证明，但竞争对手Zoox已使用相同名称。此外，特斯拉另一商标**"Cybercab"**也因与其他公司冲突被拒。该公司计划下月在奥斯汀测试无方向盘的双座自动驾驶车，但其FSD系统此前被曝每13英里需人工干预一次，安全性存疑。
+
+---
+
+## <a name="17"></a>17. 网络科学如何"预测"新教皇：揭秘梵蒂冈权力图谱 
+<small>🔗 [unibocconi.it](https://www.unibocconi.it/en/news/network-conclave): In the Network of the Conclav: How we "guessed" the Pope using network science</small>
+
+
+| 🔥: 89 \| 💬: [62](https://news.ycombinator.com/item?id=43939419) \| 🗓️ 2025-05-09
+
+
+<br />
+博科尼大学团队运用**社会网络分析**研究枢机主教关系网，通过**官方共事记录**、**主教传承谱系**和**非正式联盟**构建三维模型。研究发现**地位中心性**、**信息控制力**和**联盟构建能力**是成为教皇候选人的关键因素，模型还纳入历史年龄偏好修正。虽然无法精确预测选举结果，但揭示了当前教廷核心人物（如帕罗林、拉格朗日等）的权力分布，表明**温和自由派**占据网络中心。研究者强调这仅是分析工具，最终选举仍受神圣性与多重变量影响。
+
+---
+
+## <a name="18"></a>18. 37signals告别AWS：完成S3迁移并预计节省1000万美元 
+<small>🔗 [systemadministration.net](https://systemadministration.net/37signals-says-goodbye-to-aws-full-s3-migration-and-10m-in-projected-savings/): 37signals Says Goodbye to AWS: Full S3 Migration and $10M in Projected Savings</small>
+
+
+| 🔥: 83 \| 💬: [39](https://news.ycombinator.com/item?id=43936754) \| 🗓️ 2025-05-09
+
+
+<br />
+37signals宣布全面迁移**AWS S3**服务，预计未来五年将节省**1000万美元**成本。此次迁移标志着公司对**云成本优化**的重视，同时展示了自建基础设施的可行性。Kalker作为一款科学计算器，在此过程中未受影响，继续提供高级计算功能。
+
+---
+
 ## <a name="19"></a>19. 美国前最高法院大法官戴维·苏特逝世，享年85岁 
 <small>🔗 [npr.org](https://www.npr.org/2025/05/09/g-s1-65326/justice-david-souter-dies): Former Supreme Court justice David Souter has died</small>
 
 
-| 🔥: 78 \| 💬: [41](https://news.ycombinator.com/item?id=43937750) \| 🗓️ 2025-05-09
+| 🔥: 81 \| 💬: [42](https://news.ycombinator.com/item?id=43937750) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -259,7 +259,7 @@ Sorbet的类型语法常被诟病**冗长、不美观**，但作者强调**语�
 <small>🔗 [blog.kleine-koenig.org](https://blog.kleine-koenig.org/ukl/the-linux-kernels-pgp-web-of-trust.html): The Linux Kernel's PGP Web of Trust</small>
 
 
-| 🔥: 75 \| 💬: [12](https://news.ycombinator.com/item?id=43935356) \| 🗓️ 2025-05-09
+| 🔥: 76 \| 💬: [12](https://news.ycombinator.com/item?id=43935356) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -271,7 +271,7 @@ Linux内核开发依赖**PGP签名**机制，维护者需通过签名标签向Li
 <small>🔗 [liliputing.com](https://liliputing.com/dasung-paperlike-13k-is-a-13-3-inch-e-ink-color-monitor-crowdfunding/): Dasung Paperlike 13K is a 13.3 inch E Ink color monitor</small>
 
 
-| 🔥: 72 \| 💬: [54](https://news.ycombinator.com/item?id=43936813) \| 🗓️ 2025-05-09
+| 🔥: 72 \| 💬: [55](https://news.ycombinator.com/item?id=43936813) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -283,7 +283,7 @@ Linux内核开发依赖**PGP签名**机制，维护者需通过签名标签向Li
 <small>🔗 [testflight.apple.com](https://testflight.apple.com/join/Epq1P3Cw): Show HN: Oliphaunt – A native Mastodon client for macOS</small>
 
 
-| 🔥: 68 \| 💬: [24](https://news.ycombinator.com/item?id=43938530) \| 🗓️ 2025-05-09
+| 🔥: 70 \| 💬: [26](https://news.ycombinator.com/item?id=43938530) \| 🗓️ 2025-05-09
 
 
 <br />
