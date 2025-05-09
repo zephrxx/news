@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共18条，具体内容您往下读...
+总共23条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [home.cern](https://www.home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc): ALICE detects the conversion of lead into gold at the LHC</small>
 
 
-| 🔥🔥: 401 \| 💬: [218](https://news.ycombinator.com/item?id=43937214) \| 🗓️ 2025-05-09
+| 🔥🔥: 431 \| 💬: [232](https://news.ycombinator.com/item?id=43937214) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [w3.org](https://www.w3.org/TR/wasm-core-2/): WASM 2.0</small>
 
 
-| 🔥🔥: 288 \| 💬: [121](https://news.ycombinator.com/item?id=43934711) \| 🗓️ 2025-05-09
+| 🔥🔥: 292 \| 💬: [123](https://news.ycombinator.com/item?id=43934711) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -55,7 +55,7 @@ Wasm 2.0 基于虚拟指令集架构（**虚拟 ISA**），提供四种基础数
 <small>🔗 [nrkno.github.io](https://nrkno.github.io/sofie-core/): Sofie: open-source web based system for automating live TV news production</small>
 
 
-| 🔥🔥: 226 \| 💬: [30](https://news.ycombinator.com/item?id=43936408) \| 🗓️ 2025-05-09
+| 🔥🔥: 241 \| 💬: [33](https://news.ycombinator.com/item?id=43936408) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -67,7 +67,7 @@ Sofie 是一款**开源**的网页端系统，专为**自动化电视新闻直�
 <small>🔗 [hyvector.com](https://www.hyvector.com): Show HN: Hyvector – A fast and modern SVG editor</small>
 
 
-| 🔥🔥: 222 \| 💬: [51](https://news.ycombinator.com/item?id=43935394) \| 🗓️ 2025-05-09
+| 🔥🔥: 225 \| 💬: [55](https://news.ycombinator.com/item?id=43935394) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -79,7 +79,7 @@ Hyvector是一款**快速**且**现代化**的SVG编辑器，但需要**启用Ja
 <small>🔗 [nietras.com](https://nietras.com/2025/05/09/sep-0-10-0/): 21 GB/s CSV Parsing Using SIMD on AMD 9950X</small>
 
 
-| 🔥🔥: 206 \| 💬: [98](https://news.ycombinator.com/item?id=43936592) \| 🗓️ 2025-05-09
+| 🔥🔥: 222 \| 💬: [108](https://news.ycombinator.com/item?id=43936592) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -91,7 +91,7 @@ Hyvector是一款**快速**且**现代化**的SVG编辑器，但需要**启用Ja
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/amazon-stowing-robots): Amazon's Vulcan Robots Now Stow Items Faster Than Humans</small>
 
 
-| 🔥🔥: 178 \| 💬: [240](https://news.ycombinator.com/item?id=43935586) \| 🗓️ 2025-05-09
+| 🔥🔥: 181 \| 💬: [246](https://news.ycombinator.com/item?id=43935586) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -99,35 +99,11 @@ Hyvector是一款**快速**且**现代化**的SVG编辑器，但需要**启用Ja
 
 ---
 
-## <a name="7"></a>7. Aberdeen：一种优雅的响应式UI开发方案 
-<small>🔗 [aberdeenjs.org](https://aberdeenjs.org/): Show HN: Aberdeen – An elegant approach to reactive UIs</small>
-
-
-| 🔥🔥: 158 \| 💬: [89](https://news.ycombinator.com/item?id=43936097) \| 🗓️ 2025-05-09
-
-
-<br />
-Aberdeen是一个基于纯TypeScript/JavaScript的**轻量级UI框架**（约5KB），无需虚拟DOM即可构建**声明式**且高性能的界面。其核心通过**代理数据**自动触发匿名函数更新DOM，支持复杂数据结构，并内置路由、CSS局部作用域等实用功能。优势包括代码简洁、无构建步骤、极速渲染，但生态和社区尚不成熟。示例展示了井字棋实现，凸显其直观的响应式编程风格。
-
----
-
-## <a name="8"></a>8. 被ICE"消失"男子现身萨尔瓦多航班名单 黑客数据揭露矛盾 
-<small>🔗 [404media.co](https://www.404media.co/man-disappeared-by-ice-was-on-el-salvador-flight-manifest-hacked-data-shows/): Man 'Disappeared' by ICE Was on El Salvador Flight Manifest, Hacked Data Shows</small>
-
-
-| 🔥🔥: 148 \| 💬: [58](https://news.ycombinator.com/item?id=43939006) \| 🗓️ 2025-05-09
-
-
-<br />
-黑客获取的航空公司数据显示，委内瑞拉男子**Ricardo Prada Vásquez**（其家属称遭"强迫失踪"）出现在3月15日飞往萨尔瓦多的包机名单上，而此前政府否认其被遣送至该国。这暴露了**政府记录与私营航空公司数据的严重出入**，引发对ICE（移民海关执法局）**遣送程序透明度**的质疑。维权组织指出，当局甚至未准确记录被遣送者去向，可能有多人同样"失踪"。专家警告萨尔瓦多 mega prison（大型监狱）如同"黑洞"，进一步加剧家属担忧。
-
----
-
-## <a name="9"></a>9. Itter.sh：极简终端微博客平台 
+## <a name="7"></a>7. Itter.sh：极简终端微博客平台 
 <small>🔗 [itter.sh](https://www.itter.sh/): Itter.sh – Micro-Blogging via Terminal</small>
 
 
-| 🔥🔥: 147 \| 💬: [49](https://news.ycombinator.com/item?id=43936884) \| 🗓️ 2025-05-09
+| 🔥🔥: 161 \| 💬: [56](https://news.ycombinator.com/item?id=43936884) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -135,11 +111,35 @@ itter.sh是一款**纯终端操作**的微博客工具，通过SSH直接访问�
 
 ---
 
+## <a name="8"></a>8. Aberdeen：一种优雅的响应式UI开发方案 
+<small>🔗 [aberdeenjs.org](https://aberdeenjs.org/): Show HN: Aberdeen – An elegant approach to reactive UIs</small>
+
+
+| 🔥🔥: 160 \| 💬: [90](https://news.ycombinator.com/item?id=43936097) \| 🗓️ 2025-05-09
+
+
+<br />
+Aberdeen是一个基于纯TypeScript/JavaScript的**轻量级UI框架**（约5KB），无需虚拟DOM即可构建**声明式**且高性能的界面。其核心通过**代理数据**自动触发匿名函数更新DOM，支持复杂数据结构，并内置路由、CSS局部作用域等实用功能。优势包括代码简洁、无构建步骤、极速渲染，但生态和社区尚不成熟。示例展示了井字棋实现，凸显其直观的响应式编程风格。
+
+---
+
+## <a name="9"></a>9. 被ICE"消失"男子现身萨尔瓦多航班名单 黑客数据揭露矛盾 
+<small>🔗 [404media.co](https://www.404media.co/man-disappeared-by-ice-was-on-el-salvador-flight-manifest-hacked-data-shows/): Man 'Disappeared' by ICE Was on El Salvador Flight Manifest, Hacked Data Shows</small>
+
+
+| 🔥🔥: 154 \| 💬: [62](https://news.ycombinator.com/item?id=43939006) \| 🗓️ 2025-05-09
+
+
+<br />
+黑客获取的航空公司数据显示，委内瑞拉男子**Ricardo Prada Vásquez**（其家属称遭"强迫失踪"）出现在3月15日飞往萨尔瓦多的包机名单上，而此前政府否认其被遣送至该国。这暴露了**政府记录与私营航空公司数据的严重出入**，引发对ICE（移民海关执法局）**遣送程序透明度**的质疑。维权组织指出，当局甚至未准确记录被遣送者去向，可能有多人同样"失踪"。专家警告萨尔瓦多 mega prison（大型监狱）如同"黑洞"，进一步加剧家属担忧。
+
+---
+
 ## <a name="10"></a>10. BART全线列车因网络故障停运 
 <small>🔗 [kqed.org](https://www.kqed.org/news/12039472/bart-shuts-down-entire-train-service-due-to-computer-networking-problem): All BART trains were stopped due to ‘computer networking problem’</small>
 
 
-| 🔥🔥: 140 \| 💬: [101](https://news.ycombinator.com/item?id=43937242) \| 🗓️ 2025-05-09
+| 🔥🔥: 153 \| 💬: [112](https://news.ycombinator.com/item?id=43937242) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -151,7 +151,7 @@ itter.sh是一款**纯终端操作**的微博客工具，通过SSH直接访问�
 <small>🔗 [cryptpad.org](https://cryptpad.org/): CryptPad: An Alternative to the Google Suite</small>
 
 
-| 🔥🔥: 123 \| 💬: [32](https://news.ycombinator.com/item?id=43935707) \| 🗓️ 2025-05-09
+| 🔥🔥: 128 \| 💬: [35](https://news.ycombinator.com/item?id=43935707) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -163,7 +163,7 @@ CryptPad 是一款**端到端加密**、**开源**的在线协作办公套件，
 <small>🔗 [brevzin.github.io](https://brevzin.github.io/c++/2025/05/02/soa/): Implementing a Struct of Arrays</small>
 
 
-| 🔥🔥: 105 \| 💬: [38](https://news.ycombinator.com/item?id=43935434) \| 🗓️ 2025-05-09
+| 🔥🔥: 109 \| 💬: [41](https://news.ycombinator.com/item?id=43935434) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -171,15 +171,15 @@ CryptPad 是一款**端到端加密**、**开源**的在线协作办公套件，
 
 ---
 
-## <a name="13"></a>13. 特斯拉"Robotaxi"商标申请被拒：名称过于描述性 
-<small>🔗 [arstechnica.com](https://arstechnica.com/cars/2025/05/robotaxi-and-cybercab-are-too-unoriginal-to-trademark-uspto-tells-tesla/): USPTO refuses Tesla Robotaxi trademark as "merely descriptive"</small>
+## <a name="13"></a>13. Rust的依赖问题让我感到担忧 
+<small>🔗 [vincents.dev](https://vincents.dev/blog/rust-dependencies-scare-me/?): Rust’s dependencies are starting to worry me</small>
 
 
-| 🔥: 88 \| 💬: [54](https://news.ycombinator.com/item?id=43936198) \| 🗓️ 2025-05-09
+| 🔥: 97 \| 💬: [127](https://news.ycombinator.com/item?id=43935067) \| 🗓️ 2025-05-09
 
 
 <br />
-美国专利商标局（USPTO）驳回了特斯拉申请注册**"Robotaxi"**商标的请求，认为该术语**过于通用且缺乏独特性**，并引用维基百科、The Verge等来源佐证。特斯拉若想挑战这一决定，需提交详细产品差异证明，但竞争对手Zoox已使用相同名称。此外，特斯拉另一商标**"Cybercab"**也因与其他公司冲突被拒。该公司计划下月在奥斯汀测试无方向盘的双座自动驾驶车，但其FSD系统此前被曝每13英里需人工干预一次，安全性存疑。
+作者表达了对Rust生态中**依赖管理**的忧虑。虽然**Cargo**工具极大提升了开发效率，但过度依赖第三方库（如`dotenv`和`Tokio`）带来了潜在风险：未维护的代码、庞大的依赖树（单项目达360万行）以及难以审计的问题。尽管标准库扩展（如Go语言风格）可能缓解问题，但这与Rust的**模块化设计**目标冲突。最终，作者质疑行业如何平衡便利性与安全性，并以Cloudflare等公司为例，指出该问题尚无明确解决方案。
 
 ---
 
@@ -187,7 +187,7 @@ CryptPad 是一款**端到端加密**、**开源**的在线协作办公套件，
 <small>🔗 [blog.jez.io](https://blog.jez.io/history-of-sorbet-syntax/): Past, present, and future of Sorbet type syntax</small>
 
 
-| 🔥: 85 \| 💬: [47](https://news.ycombinator.com/item?id=43938400) \| 🗓️ 2025-05-09
+| 🔥: 91 \| 💬: [65](https://news.ycombinator.com/item?id=43938400) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -195,11 +195,23 @@ Sorbet的类型语法常被诟病**冗长、不美观**，但作者强调**语�
 
 ---
 
-## <a name="15"></a>15. 网络科学如何"预测"新教皇：揭秘梵蒂冈权力图谱 
+## <a name="15"></a>15. 特斯拉"Robotaxi"商标申请被拒：名称过于描述性 
+<small>🔗 [arstechnica.com](https://arstechnica.com/cars/2025/05/robotaxi-and-cybercab-are-too-unoriginal-to-trademark-uspto-tells-tesla/): USPTO refuses Tesla Robotaxi trademark as "merely descriptive"</small>
+
+
+| 🔥: 88 \| 💬: [63](https://news.ycombinator.com/item?id=43936198) \| 🗓️ 2025-05-09
+
+
+<br />
+美国专利商标局（USPTO）驳回了特斯拉申请注册**"Robotaxi"**商标的请求，认为该术语**过于通用且缺乏独特性**，并引用维基百科、The Verge等来源佐证。特斯拉若想挑战这一决定，需提交详细产品差异证明，但竞争对手Zoox已使用相同名称。此外，特斯拉另一商标**"Cybercab"**也因与其他公司冲突被拒。该公司计划下月在奥斯汀测试无方向盘的双座自动驾驶车，但其FSD系统此前被曝每13英里需人工干预一次，安全性存疑。
+
+---
+
+## <a name="16"></a>16. 网络科学如何"预测"新教皇：揭秘梵蒂冈权力图谱 
 <small>🔗 [unibocconi.it](https://www.unibocconi.it/en/news/network-conclave): In the Network of the Conclav: How we "guessed" the Pope using network science</small>
 
 
-| 🔥: 83 \| 💬: [56](https://news.ycombinator.com/item?id=43939419) \| 🗓️ 2025-05-09
+| 🔥: 88 \| 💬: [59](https://news.ycombinator.com/item?id=43939419) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -207,11 +219,11 @@ Sorbet的类型语法常被诟病**冗长、不美观**，但作者强调**语�
 
 ---
 
-## <a name="16"></a>16. 37signals告别AWS：完成S3迁移并预计节省1000万美元 
+## <a name="17"></a>17. 37signals告别AWS：完成S3迁移并预计节省1000万美元 
 <small>🔗 [systemadministration.net](https://systemadministration.net/37signals-says-goodbye-to-aws-full-s3-migration-and-10m-in-projected-savings/): 37signals Says Goodbye to AWS: Full S3 Migration and $10M in Projected Savings</small>
 
 
-| 🔥: 77 \| 💬: [37](https://news.ycombinator.com/item?id=43936754) \| 🗓️ 2025-05-09
+| 🔥: 83 \| 💬: [38](https://news.ycombinator.com/item?id=43936754) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -219,11 +231,23 @@ Sorbet的类型语法常被诟病**冗长、不美观**，但作者强调**语�
 
 ---
 
-## <a name="17"></a>17. 美国前最高法院大法官戴维·苏特逝世，享年85岁 
+## <a name="18"></a>18. 美元霸权时代或将走向终结 
+<small>🔗 [news.harvard.edu](https://news.harvard.edu/gazette/story/2025/05/era-of-u-s-dollar-may-be-winding-down/): Era of U.S. dollar may be winding down</small>
+
+
+| 🔥: 82 \| 💬: [83](https://news.ycombinator.com/item?id=43940865) \| 🗓️ 2025-05-09
+
+
+<br />
+经济学家肯尼斯·罗格夫在新书中指出，**美元主导地位正逐渐削弱**，虽仍为全球首要货币，但独特性已不如从前。书中结合个人经历分析美元崛起史，并警告**美国财政赤字、美联储独立性下降**及外部挑战（如中国推动去美元化）将加速这一趋势。罗格夫强调，若失去美元特权，美国将面临更高利率和危机应对能力下降。书名源自1971年尼克松放弃金本位时财长康纳利的傲慢言论，暗示美元问题终将反噬自身。
+
+---
+
+## <a name="19"></a>19. 美国前最高法院大法官戴维·苏特逝世，享年85岁 
 <small>🔗 [npr.org](https://www.npr.org/2025/05/09/g-s1-65326/justice-david-souter-dies): Former Supreme Court justice David Souter has died</small>
 
 
-| 🔥: 77 \| 💬: [36](https://news.ycombinator.com/item?id=43937750) \| 🗓️ 2025-05-09
+| 🔥: 78 \| 💬: [41](https://news.ycombinator.com/item?id=43937750) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -231,14 +255,50 @@ Sorbet的类型语法常被诟病**冗长、不美观**，但作者强调**语�
 
 ---
 
-## <a name="18"></a>18. Linux内核的PGP信任网络现状与挑战 
+## <a name="20"></a>20. Linux内核的PGP信任网络现状与挑战 
 <small>🔗 [blog.kleine-koenig.org](https://blog.kleine-koenig.org/ukl/the-linux-kernels-pgp-web-of-trust.html): The Linux Kernel's PGP Web of Trust</small>
 
 
-| 🔥: 74 \| 💬: [12](https://news.ycombinator.com/item?id=43935356) \| 🗓️ 2025-05-09
+| 🔥: 75 \| 💬: [12](https://news.ycombinator.com/item?id=43935356) \| 🗓️ 2025-05-09
 
 
 <br />
 Linux内核开发依赖**PGP签名**机制，维护者需通过签名标签向Linus Torvalds提交代码。目前密钥库收录602个有效密钥，要求**信任路径长度≤5**。但SHA-1签名淘汰危机显现：GnuPG 2.4.x已拒绝此类签名，现有6045个SHA-1签名若失效，将导致485个密钥（包括多位核心开发者）失去资格，**信任集规模从358骤减至94**。为解决此问题，2025年嵌入式大会将举办密钥签名活动以更新信任链。
+
+---
+
+## <a name="21"></a>21. 大上科技Paperlike 13K：13.3英寸彩色电子墨水屏显示器 
+<small>🔗 [liliputing.com](https://liliputing.com/dasung-paperlike-13k-is-a-13-3-inch-e-ink-color-monitor-crowdfunding/): Dasung Paperlike 13K is a 13.3 inch E Ink color monitor</small>
+
+
+| 🔥: 72 \| 💬: [54](https://news.ycombinator.com/item?id=43936813) \| 🗓️ 2025-05-09
+
+
+<br />
+大上科技推出**Paperlike 13K**，这是一款13.3英寸彩色电子墨水屏显示器，分辨率为3200×2400，**灰度显示精度达300ppi**（彩色模式下降至150ppi）。支持37Hz刷新率，但高刷新率可能影响画质。预售价749美元（黑白版679美元），配备USB-C/HDMI接口、触控及反向触控功能，内置扬声器，附赠便携支架和磁吸保护套。采用**E Ink Kaleido 3面板**，色彩较淡且无背光（彩色版有前光），兼容Windows/Linux/Android，暂不支持苹果设备。预计2025年5月中下旬发货。
+
+---
+
+## <a name="22"></a>22. Oliphaunt：专为macOS打造的Mastodon原生客户端 
+<small>🔗 [testflight.apple.com](https://testflight.apple.com/join/Epq1P3Cw): Show HN: Oliphaunt – A native Mastodon client for macOS</small>
+
+
+| 🔥: 68 \| 💬: [24](https://news.ycombinator.com/item?id=43938530) \| 🗓️ 2025-05-09
+
+
+<br />
+本文介绍了如何通过**TestFlight**测试macOS平台上的Mastodon客户端Oliphaunt。测试者需接受开发者邀请，并满足设备与系统要求（如**macOS 12或更高版本**）。测试周期最长90天，支持多语言，安装后可通过TestFlight管理自动更新或提交反馈。开发者可设定测试条件，用户需通过邮件或公开链接获取测试资格。
+
+---
+
+## <a name="23"></a>23. Python异步编程解析：async/await工作原理（2021） 
+<small>🔗 [tenthousandmeters.com](https://tenthousandmeters.com/blog/python-behind-the-scenes-12-how-asyncawait-works-in-python/): How async/await works in Python (2021)</small>
+
+
+| 🔥: 59 \| 💬: [7](https://news.ycombinator.com/item?id=43935452) \| 🗓️ 2025-05-09
+
+
+<br />
+本文深入浅出地解析了Python中**async/await**的实现机制。通过标记函数为`async`并用`await`调用，程序可异步执行，在等待I/O操作时处理其他任务。其核心依赖**事件循环**和**协程**，本质是单线程下的**并发**（非并行）。作者以TCP回显服务器为例，对比了阻塞式、多线程及基于**I/O多路复用**（如`selectors`模块）的实现，最终过渡到异步方案。关键点在于：**协程调度**由事件循环管理，通过`yield`暂停/恢复任务，避免线程开销。
 
 ---
