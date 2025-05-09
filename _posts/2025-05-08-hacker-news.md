@@ -27,7 +27,7 @@ tags:
 <small>🔗 [blog.hayman.net](https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html): From: Steve Jobs. "Great idea, thank you."</small>
 
 
-| 🔥🔥: 737 \| 💬: [202](https://news.ycombinator.com/item?id=43929724) \| 🗓️ 2025-05-08
+| 🔥🔥: 769 \| 💬: [212](https://news.ycombinator.com/item?id=43929724) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/voideditor/void): Void: Open-source Cursor alternative</small>
 
 
-| 🔥🔥: 606 \| 💬: [257](https://news.ycombinator.com/item?id=43927926) \| 🗓️ 2025-05-08
+| 🔥🔥: 625 \| 💬: [266](https://news.ycombinator.com/item?id=43927926) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -51,7 +51,7 @@ Void是一款基于**VS Code**的开源AI代码编辑器，支持**任意大模�
 <small>🔗 [cnn.com](https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25): First American pope elected and will be known as Pope Leo XIV</small>
 
 
-| 🔥🔥: 477 \| 💬: [735](https://news.ycombinator.com/item?id=43927856) \| 🗓️ 2025-05-08
+| 🔥🔥: 489 \| 💬: [758](https://news.ycombinator.com/item?id=43927856) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -63,7 +63,7 @@ Void是一款基于**VS Code**的开源AI代码编辑器，支持**任意大模�
 <small>🔗 [samwho.dev](https://samwho.dev/reservoir-sampling/): Reservoir Sampling</small>
 
 
-| 🔥🔥: 304 \| 💬: [64](https://news.ycombinator.com/item?id=43928315) \| 🗓️ 2025-05-08
+| 🔥🔥: 321 \| 💬: [70](https://news.ycombinator.com/item?id=43928315) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -87,7 +87,7 @@ NASA的**SMAP卫星**原本用于监测土壤湿度和海洋盐度，却在2025�
 <small>🔗 [nexo.sh](https://nexo.sh/posts/microservices-for-startups/): Microservices are a tax your startup probably can't afford</small>
 
 
-| 🔥🔥: 281 \| 💬: [232](https://news.ycombinator.com/item?id=43925892) \| 🗓️ 2025-05-08
+| 🔥🔥: 283 \| 💬: [232](https://news.ycombinator.com/item?id=43925892) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -99,7 +99,7 @@ NASA的**SMAP卫星**原本用于监测土壤湿度和海洋盐度，却在2025�
 <small>🔗 [github.com](https://github.com/qpoint-io/qtap): Show HN: Using eBPF to see through encryption without a proxy</small>
 
 
-| 🔥🔥: 214 \| 💬: [68](https://news.ycombinator.com/item?id=43928118) \| 🗓️ 2025-05-08
+| 🔥🔥: 219 \| 💬: [71](https://news.ycombinator.com/item?id=43928118) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -116,7 +116,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [catholicreview.org](https://catholicreview.org/chicago-native-cardinal-prevost-elected-pope-takes-name-leo-xiv/): Chicago native Cardinal Prevost elected pope, takes name Leo XIV</small>
 
 
-| 🔥🔥: 214 \| 💬: [2](https://news.ycombinator.com/item?id=43928742) \| 🗓️ 2025-05-08
+| 🔥🔥: 215 \| 💬: [2](https://news.ycombinator.com/item?id=43928742) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -128,7 +128,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [fusionenergybase.com](https://www.fusionenergybase.com/articles/continuing-progress-toward-fusion-energy-breakeven-and-gain-as-measured-against-the-lawson-criteria): Progress toward fusion energy gain as measured against the Lawson criteria</small>
 
 
-| 🔥🔥: 168 \| 💬: [75](https://news.ycombinator.com/item?id=43927337) \| 🗓️ 2025-05-08
+| 🔥🔥: 174 \| 💬: [79](https://news.ycombinator.com/item?id=43927337) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -140,7 +140,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [ghiculescu.substack.com](https://ghiculescu.substack.com/p/nobody-codes-here-anymore): Notes on rolling out Cursor and Claude Code</small>
 
 
-| 🔥🔥: 164 \| 💬: [79](https://news.ycombinator.com/item?id=43927914) \| 🗓️ 2025-05-08
+| 🔥🔥: 168 \| 💬: [84](https://news.ycombinator.com/item?id=43927914) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -164,7 +164,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [richardcocks.github.io](https://richardcocks.github.io/2025-05-08-CoreWCF.html): My stackoverflow question was closed so here's a blog post about CoreWCF</small>
 
 
-| 🔥🔥: 101 \| 💬: [146](https://news.ycombinator.com/item?id=43925355) \| 🗓️ 2025-05-08
+| 🔥🔥: 104 \| 💬: [149](https://news.ycombinator.com/item?id=43925355) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -178,7 +178,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [support.anthropic.com](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan): A flat pricing subscription for Claude Code</small>
 
 
-| 🔥: 97 \| 💬: [83](https://news.ycombinator.com/item?id=43931409) \| 🗓️ 2025-05-08
+| 🔥🔥: 103 \| 💬: [90](https://news.ycombinator.com/item?id=43931409) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -190,7 +190,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [gq.com](https://www.gq.com/story/why-is-everyone-getting-their-tattoos-removed): More people are getting tattoos removed</small>
 
 
-| 🔥: 95 \| 💬: [159](https://news.ycombinator.com/item?id=43927948) \| 🗓️ 2025-05-08
+| 🔥: 95 \| 💬: [160](https://news.ycombinator.com/item?id=43927948) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -202,7 +202,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [news.artnet.com](https://news.artnet.com/art-world/hidden-messages-paris-luxor-obelisk-2636508): Egyptologist uncovers hidden messages on Paris’s iconic obelisk</small>
 
 
-| 🔥: 86 \| 💬: [80](https://news.ycombinator.com/item?id=43924117) \| 🗓️ 2025-05-08
+| 🔥: 88 \| 💬: [81](https://news.ycombinator.com/item?id=43924117) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -226,7 +226,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [overreacted.io](https://overreacted.io/static-as-a-server/): Static as a Server</small>
 
 
-| 🔥: 81 \| 💬: [58](https://news.ycombinator.com/item?id=43929054) \| 🗓️ 2025-05-08
+| 🔥: 83 \| 💬: [59](https://news.ycombinator.com/item?id=43929054) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -238,7 +238,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [prigoose.substack.com](https://prigoose.substack.com/p/how-to-start-a-university): How to start a school with your friends</small>
 
 
-| 🔥: 74 \| 💬: [31](https://news.ycombinator.com/item?id=43930397) \| 🗓️ 2025-05-08
+| 🔥: 81 \| 💬: [35](https://news.ycombinator.com/item?id=43930397) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -246,23 +246,11 @@ FractalU是一个由纽约市客厅课堂组成的**成人学校**，已开设10
 
 ---
 
-## <a name="19"></a>19. 动态语言的稳定性之谜：Clojure为何与众不同？ 
-<small>🔗 [potetm.com](https://potetm.com/devtalk/stability-by-design.html): Stability by Design</small>
-
-
-| 🔥: 72 \| 💬: [16](https://news.ycombinator.com/item?id=43930584) \| 🗓️ 2025-05-08
-
-
-<br />
-一位开发者吐槽动态类型语言升级时的不确定性，但**Clojure**生态却以**稳定性**著称。作者通过社区讨论、代码保留率及亲身案例（如修复库时优先兼容旧代码）证明：Clojure通过**不可变数据**、**命名空间隔离**和**避免破坏性变更**（如重命名、增减参数）实现稳定。其核心在于**不随意改动接口**，宁可新增函数而非修改旧逻辑。这种设计哲学与静态/动态类型无关，而是对开发者协作的深刻尊重。
-
----
-
-## <a name="20"></a>20. FUI：TTY环境下操作帧缓冲区的C语言库 
+## <a name="19"></a>19. FUI：TTY环境下操作帧缓冲区的C语言库 
 <small>🔗 [github.com](https://github.com/martinfama/fui): Fui: C library for interacting with the framebuffer in a TTY context</small>
 
 
-| 🔥: 70 \| 💬: [22](https://news.ycombinator.com/item?id=43931845) \| 🗓️ 2025-05-08
+| 🔥: 77 \| 💬: [26](https://news.ycombinator.com/item?id=43931845) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -270,11 +258,35 @@ FractalU是一个由纽约市客厅课堂组成的**成人学校**，已开设10
 
 ---
 
-## <a name="21"></a>21. 优步“淋浴门”丑闻暴露高管双标 
+## <a name="20"></a>20. 动态语言的稳定性之谜：Clojure为何与众不同？ 
+<small>🔗 [potetm.com](https://potetm.com/devtalk/stability-by-design.html): Stability by Design</small>
+
+
+| 🔥: 75 \| 💬: [17](https://news.ycombinator.com/item?id=43930584) \| 🗓️ 2025-05-08
+
+
+<br />
+一位开发者吐槽动态类型语言升级时的不确定性，但**Clojure**生态却以**稳定性**著称。作者通过社区讨论、代码保留率及亲身案例（如修复库时优先兼容旧代码）证明：Clojure通过**不可变数据**、**命名空间隔离**和**避免破坏性变更**（如重命名、增减参数）实现稳定。其核心在于**不随意改动接口**，宁可新增函数而非修改旧逻辑。这种设计哲学与静态/动态类型无关，而是对开发者协作的深刻尊重。
+
+---
+
+## <a name="21"></a>21. 二战期间美国如何建造5000艘船只 
+<small>🔗 [construction-physics.com](https://www.construction-physics.com/p/how-the-us-built-5000-ships-in-wwii): How the US built 5k ships in WWII</small>
+
+
+| 🔥: 72 \| 💬: [50](https://news.ycombinator.com/item?id=43931285) \| 🗓️ 2025-05-08
+
+
+<br />
+二战前，美国造船业萧条，但战时需求激增。通过**政府主导**与**私营企业合作**，美国建造了3600多艘货船、700多艘油轮及1300多艘军舰。关键突破包括采用**焊接技术**和**预制构件**，大幅提升效率。亨利·凯泽等工业巨头新建船厂，以竞争和创新驱动生产，最终打造出著名的**自由轮**，支撑盟军后勤。这一成就展现了战时工业动员的巨大潜力。
+
+---
+
+## <a name="22"></a>22. 优步“淋浴门”丑闻暴露高管双标 
 <small>🔗 [teamblind.com](https://www.teamblind.com/post/ubers-shower-gate-scandal-KpqjYBkP): Uber's Shower Gate Scandal</small>
 
 
-| 🔥: 64 \| 💬: [17](https://news.ycombinator.com/item?id=43928267) \| 🗓️ 2025-05-08
+| 🔥: 65 \| 💬: [17](https://news.ycombinator.com/item?id=43928267) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -282,11 +294,11 @@ FractalU是一个由纽约市客厅课堂组成的**成人学校**，已开设10
 
 ---
 
-## <a name="22"></a>22. 苹果II鼠标卡中断信号确实与垂直消隐同步 
+## <a name="23"></a>23. 苹果II鼠标卡中断信号确实与垂直消隐同步 
 <small>🔗 [colino.net](https://www.colino.net/wordpress/en/archives/2025/05/08/yes-the-apple-ii-mousecard-irq-is-synced-to-the-vbl/): Yes, the Apple II MouseCard IRQ is synced to the VBL</small>
 
 
-| 🔥: 61 \| 💬: [24](https://news.ycombinator.com/item?id=43925414) \| 🗓️ 2025-05-08
+| 🔥: 62 \| 💬: [25](https://news.ycombinator.com/item?id=43925414) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -300,11 +312,11 @@ FractalU是一个由纽约市客厅课堂组成的**成人学校**，已开设10
 
 ---
 
-## <a name="23"></a>23. 全球化并未掏空美国中产阶级 
+## <a name="24"></a>24. 全球化并未掏空美国中产阶级 
 <small>🔗 [noahpinion.blog](https://www.noahpinion.blog/p/globalization-did-not-hollow-out): Globalization did not hollow out the American middle class</small>
 
 
-| 🔥: 61 \| 💬: [61](https://news.ycombinator.com/item?id=43925911) \| 🗓️ 2025-05-08
+| 🔥: 62 \| 💬: [61](https://news.ycombinator.com/item?id=43925911) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -312,7 +324,7 @@ FractalU是一个由纽约市客厅课堂组成的**成人学校**，已开设10
 
 ---
 
-## <a name="24"></a>24. 蛋白质设计工具能否解决抗蛇毒血清短缺问题？ 
+## <a name="25"></a>25. 蛋白质设计工具能否解决抗蛇毒血清短缺问题？ 
 <small>🔗 [owlposting.com](https://www.owlposting.com/p/will-protein-design-tools-solve-the): Will protein design tools solve the snake antivenom shortage?</small>
 
 
@@ -321,17 +333,5 @@ FractalU是一个由纽约市客厅课堂组成的**成人学校**，已开设10
 
 <br />
 本文探讨了**抗蛇毒血清**生产面临的严峻挑战，包括高昂成本、地域性短缺以及**蛇毒成分的高度异质性**（不同蛇种、地域甚至个体间的差异）。作者分析了计算蛋白质设计工具（如RFDiffusion）的潜力，认为其可能通过精准设计结合毒素的蛋白质来替代传统血清，但需克服蛇毒复杂性和临床验证等障碍。全球每年约8-13万人死于蛇咬伤，而现有血清市场因利润低、信任危机而萎缩，凸显技术革新的紧迫性。
-
----
-
-## <a name="25"></a>25. 扎克伯格再抛“AI读心术”噱头：广告商的幻觉游戏 
-<small>🔗 [pluralistic.net](https://pluralistic.net/2025/05/07/rah-rah-rasputin/#credulous-dolts): Mark Zuckerberg announces mind-control</small>
-
-
-| 🔥: 44 \| 💬: [12](https://news.ycombinator.com/item?id=43925869) \| 🗓️ 2025-05-08
-
-
-<br />
-文章揭露马克·扎克伯格向投资者兜售**“AI心智控制射线”**概念，声称Meta将利用AI设计**无法抗拒的广告**，以此维持公司增长神话。作者指出，这种叙事与早年“大数据操控”如出一辙，本质是**利用市场对“增长故事”的盲目信仰**。尽管Meta在元宇宙亏损超700亿美元，扎克伯格仍通过“神童天才”人设吸引投资，而广告商因渴望“精准投放”幻想甘愿买单。文章批评科技巨头和市场的**“客体恒存性缺失”**——像婴儿玩躲猫猫般反复被同一套话术愚弄。
 
 ---
