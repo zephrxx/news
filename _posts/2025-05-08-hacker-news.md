@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共21条，具体内容您往下读...
+总共22条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [blog.hayman.net](https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html): From: Steve Jobs. "Great idea, thank you."</small>
 
 
-| 🔥🔥: 533 \| 💬: [135](https://news.ycombinator.com/item?id=43929724) \| 🗓️ 2025-05-08
+| 🔥🔥: 592 \| 💬: [155](https://news.ycombinator.com/item?id=43929724) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/voideditor/void): Void: Open-source Cursor alternative</small>
 
 
-| 🔥🔥: 471 \| 💬: [211](https://news.ycombinator.com/item?id=43927926) \| 🗓️ 2025-05-08
+| 🔥🔥: 515 \| 💬: [219](https://news.ycombinator.com/item?id=43927926) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -51,7 +51,7 @@ Void是一款基于**VS Code**的开源AI代码编辑器，支持**任意大模�
 <small>🔗 [cnn.com](https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25): First American pope elected and will be known as Pope Leo XIV</small>
 
 
-| 🔥🔥: 411 \| 💬: [627](https://news.ycombinator.com/item?id=43927856) \| 🗓️ 2025-05-08
+| 🔥🔥: 438 \| 💬: [666](https://news.ycombinator.com/item?id=43927856) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -63,7 +63,7 @@ Void是一款基于**VS Code**的开源AI代码编辑器，支持**任意大模�
 <small>🔗 [radioandnukes.substack.com](https://radioandnukes.substack.com/p/how-dare-you-transmit-at-14-ghz): Using NASA’s SMAP satellite to detect L-band interference</small>
 
 
-| 🔥🔥: 288 \| 💬: [64](https://news.ycombinator.com/item?id=43924358) \| 🗓️ 2025-05-08
+| 🔥🔥: 291 \| 💬: [65](https://news.ycombinator.com/item?id=43924358) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -75,7 +75,7 @@ NASA的**SMAP卫星**原本用于监测土壤湿度和海洋盐度，却在2025�
 <small>🔗 [nexo.sh](https://nexo.sh/posts/microservices-for-startups/): Microservices are a tax your startup probably can't afford</small>
 
 
-| 🔥🔥: 268 \| 💬: [217](https://news.ycombinator.com/item?id=43925892) \| 🗓️ 2025-05-08
+| 🔥🔥: 272 \| 💬: [219](https://news.ycombinator.com/item?id=43925892) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -87,7 +87,7 @@ NASA的**SMAP卫星**原本用于监测土壤湿度和海洋盐度，却在2025�
 <small>🔗 [samwho.dev](https://samwho.dev/reservoir-sampling/): Reservoir Sampling</small>
 
 
-| 🔥🔥: 235 \| 💬: [52](https://news.ycombinator.com/item?id=43928315) \| 🗓️ 2025-05-08
+| 🔥🔥: 252 \| 💬: [58](https://news.ycombinator.com/item?id=43928315) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -99,7 +99,7 @@ NASA的**SMAP卫星**原本用于监测土壤湿度和海洋盐度，却在2025�
 <small>🔗 [catholicreview.org](https://catholicreview.org/chicago-native-cardinal-prevost-elected-pope-takes-name-leo-xiv/): Chicago native Cardinal Prevost elected pope, takes name Leo XIV</small>
 
 
-| 🔥🔥: 212 \| 💬: [2](https://news.ycombinator.com/item?id=43928742) \| 🗓️ 2025-05-08
+| 🔥🔥: 213 \| 💬: [2](https://news.ycombinator.com/item?id=43928742) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -111,7 +111,7 @@ NASA的**SMAP卫星**原本用于监测土壤湿度和海洋盐度，却在2025�
 <small>🔗 [github.com](https://github.com/qpoint-io/qtap): Show HN: Using eBPF to see through encryption without a proxy</small>
 
 
-| 🔥🔥: 171 \| 💬: [49](https://news.ycombinator.com/item?id=43928118) \| 🗓️ 2025-05-08
+| 🔥🔥: 186 \| 💬: [55](https://news.ycombinator.com/item?id=43928118) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -124,7 +124,31 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 
 ---
 
-## <a name="9"></a>9. 特朗普政府无视法院禁令，继续削减NIH研究经费 
+## <a name="9"></a>9. AI编程助手Cursor与Claude的实战观察 
+<small>🔗 [ghiculescu.substack.com](https://ghiculescu.substack.com/p/nobody-codes-here-anymore): Notes on rolling out Cursor and Claude Code</small>
+
+
+| 🔥🔥: 139 \| 💬: [51](https://news.ycombinator.com/item?id=43927914) \| 🗓️ 2025-05-08
+
+
+<br />
+作者分享了在12年历史的Ruby on Rails项目中为40名开发者部署**Cursor**和**Claude Code**的经验。调查显示，约20%开发者已依赖AI完成大部分编码，50%交替使用。**Claude**擅长整体功能生成但需谨慎验证，**Cursor**则专注小范围修改。AI使非技术背景的同事也能高效提交代码，但存在自动修复错误时测试盲区的风险。**生产力提升约20%**，尤其体现在繁琐重构和跨代码库理解场景。当前局限包括过度注释、风格同质化，以及需人工优化提示词技巧。未来，善用AI的开发者将成为"10倍提示工程师"。
+
+---
+
+## <a name="10"></a>10. 聚变能量增益的进展：以劳森判据为衡量标准 
+<small>🔗 [fusionenergybase.com](https://www.fusionenergybase.com/articles/continuing-progress-toward-fusion-energy-breakeven-and-gain-as-measured-against-the-lawson-criteria): Progress toward fusion energy gain as measured against the Lawson criteria</small>
+
+
+| 🔥🔥: 138 \| 💬: [63](https://news.ycombinator.com/item?id=43927337) \| 🗓️ 2025-05-08
+
+
+<br />
+该研究探讨了核聚变能源实现**能量增益**的最新进展，并以**劳森判据**为核心评估标准。劳森判据是判断聚变反应能否持续产生净能量的关键指标，涉及等离子体温度、密度和约束时间。研究强调了当前技术突破（如**惯性约束**和磁约束）的成果，同时指出仍需克服的挑战，如等离子体稳定性与材料耐久性。这一领域的发展对清洁能源的未来至关重要。
+
+---
+
+## <a name="11"></a>11. 特朗普政府无视法院禁令，继续削减NIH研究经费 
 <small>🔗 [propublica.org](https://www.propublica.org/article/trump-nih-cuts-transgender-research-grants): Trump's NIH axed research grants even after a judge blocked the cuts</small>
 
 
@@ -136,35 +160,23 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 
 ---
 
-## <a name="10"></a>10. 聚变能量增益的进展：以劳森判据为衡量标准 
-<small>🔗 [fusionenergybase.com](https://www.fusionenergybase.com/articles/continuing-progress-toward-fusion-energy-breakeven-and-gain-as-measured-against-the-lawson-criteria): Progress toward fusion energy gain as measured against the Lawson criteria</small>
+## <a name="12"></a>12. 越来越多人选择洗掉纹身 
+<small>🔗 [gq.com](https://www.gq.com/story/why-is-everyone-getting-their-tattoos-removed): More people are getting tattoos removed</small>
 
 
-| 🔥🔥: 129 \| 💬: [53](https://news.ycombinator.com/item?id=43927337) \| 🗓️ 2025-05-08
-
-
-<br />
-该研究探讨了核聚变能源实现**能量增益**的最新进展，并以**劳森判据**为核心评估标准。劳森判据是判断聚变反应能否持续产生净能量的关键指标，涉及等离子体温度、密度和约束时间。研究强调了当前技术突破（如**惯性约束**和磁约束）的成果，同时指出仍需克服的挑战，如等离子体稳定性与材料耐久性。这一领域的发展对清洁能源的未来至关重要。
-
----
-
-## <a name="11"></a>11. AI编程助手Cursor与Claude的实战观察 
-<small>🔗 [ghiculescu.substack.com](https://ghiculescu.substack.com/p/nobody-codes-here-anymore): Notes on rolling out Cursor and Claude Code</small>
-
-
-| 🔥🔥: 123 \| 💬: [48](https://news.ycombinator.com/item?id=43927914) \| 🗓️ 2025-05-08
+| 🔥: 94 \| 💬: [152](https://news.ycombinator.com/item?id=43927948) \| 🗓️ 2025-05-08
 
 
 <br />
-作者分享了在12年历史的Ruby on Rails项目中为40名开发者部署**Cursor**和**Claude Code**的经验。调查显示，约20%开发者已依赖AI完成大部分编码，50%交替使用。**Claude**擅长整体功能生成但需谨慎验证，**Cursor**则专注小范围修改。AI使非技术背景的同事也能高效提交代码，但存在自动修复错误时测试盲区的风险。**生产力提升约20%**，尤其体现在繁琐重构和跨代码库理解场景。当前局限包括过度注释、风格同质化，以及需人工优化提示词技巧。未来，善用AI的开发者将成为"10倍提示工程师"。
+文章探讨了**激光洗纹身**的流行趋势及其背后的原因。尽管过程痛苦（伴随灼烧感和刺耳声响），但技术进步使洗纹身更普及。**皮秒激光**通过粉碎墨水颗粒让免疫系统清除残留，通常需1-2年完成。约25%的纹身者后悔，尤其是千禧一代因生活阶段变化寻求改变。名人如Pete Davidson的“去纹身”形象助推了这一潮流。行业也从中获利，连锁机构如Removery获巨额投资。纹身正从“永久标记”转向**时尚消费品**，甚至引发传统纹身文化的争议。
 
 ---
 
-## <a name="12"></a>12. Stack Overflow问题被关闭后，我写了一篇关于CoreWCF的博客 
+## <a name="13"></a>13. Stack Overflow问题被关闭后，我写了一篇关于CoreWCF的博客 
 <small>🔗 [richardcocks.github.io](https://richardcocks.github.io/2025-05-08-CoreWCF.html): My stackoverflow question was closed so here's a blog post about CoreWCF</small>
 
 
-| 🔥: 90 \| 💬: [127](https://news.ycombinator.com/item?id=43925355) \| 🗓️ 2025-05-08
+| 🔥: 92 \| 💬: [135](https://news.ycombinator.com/item?id=43925355) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -174,23 +186,11 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 
 ---
 
-## <a name="13"></a>13. 越来越多人选择洗掉纹身 
-<small>🔗 [gq.com](https://www.gq.com/story/why-is-everyone-getting-their-tattoos-removed): More people are getting tattoos removed</small>
-
-
-| 🔥: 88 \| 💬: [150](https://news.ycombinator.com/item?id=43927948) \| 🗓️ 2025-05-08
-
-
-<br />
-文章探讨了**激光洗纹身**的流行趋势及其背后的原因。尽管过程痛苦（伴随灼烧感和刺耳声响），但技术进步使洗纹身更普及。**皮秒激光**通过粉碎墨水颗粒让免疫系统清除残留，通常需1-2年完成。约25%的纹身者后悔，尤其是千禧一代因生活阶段变化寻求改变。名人如Pete Davidson的“去纹身”形象助推了这一潮流。行业也从中获利，连锁机构如Removery获巨额投资。纹身正从“永久标记”转向**时尚消费品**，甚至引发传统纹身文化的争议。
-
----
-
 ## <a name="14"></a>14. 华为发布首款搭载自研鸿蒙系统的笔记本电脑 
 <small>🔗 [scmp.com](https://www.scmp.com/tech/big-tech/article/3309569/huawei-unveils-first-laptop-running-self-developed-harmonyos-windows-licence-expires): Huawei unveils laptop running self-developed HarmonyOS as Windows licence expire</small>
 
 
-| 🔥: 78 \| 💬: [55](https://news.ycombinator.com/item?id=43926350) \| 🗓️ 2025-05-08
+| 🔥: 80 \| 💬: [55](https://news.ycombinator.com/item?id=43926350) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -202,7 +202,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [news.artnet.com](https://news.artnet.com/art-world/hidden-messages-paris-luxor-obelisk-2636508): Egyptologist uncovers hidden messages on Paris’s iconic obelisk</small>
 
 
-| 🔥: 72 \| 💬: [65](https://news.ycombinator.com/item?id=43924117) \| 🗓️ 2025-05-08
+| 🔥: 74 \| 💬: [67](https://news.ycombinator.com/item?id=43924117) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -214,7 +214,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [overreacted.io](https://overreacted.io/static-as-a-server/): Static as a Server</small>
 
 
-| 🔥: 63 \| 💬: [41](https://news.ycombinator.com/item?id=43929054) \| 🗓️ 2025-05-08
+| 🔥: 74 \| 💬: [43](https://news.ycombinator.com/item?id=43929054) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -222,23 +222,35 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 
 ---
 
-## <a name="17"></a>17. 全球化并未掏空美国中产阶级 
-<small>🔗 [noahpinion.blog](https://www.noahpinion.blog/p/globalization-did-not-hollow-out): Globalization did not hollow out the American middle class</small>
+## <a name="17"></a>17. Claude Code 的统一定价订阅方案 
+<small>🔗 [support.anthropic.com](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan): A flat pricing subscription for Claude Code</small>
 
 
-| 🔥: 61 \| 💬: [60](https://news.ycombinator.com/item?id=43925911) \| 🗓️ 2025-05-08
+| 🔥: 73 \| 💬: [46](https://news.ycombinator.com/item?id=43931409) \| 🗓️ 2025-05-08
 
 
 <br />
-本文驳斥了“全球化导致美国制造业衰退和中产阶级萎缩”的主流叙事。作者指出，**贸易逆差仅占美国GDP的1%**，且进口商品中消费占比有限，因此全球化对制造业的影响被夸大。数据显示，**美国中产阶级实际收入50年来增长50%**，低收入群体工资涨幅超40%，且就业正转向高技能服务业。尽管中国进口竞争在2000年代冲击了部分地区，但受影响区域经济已复苏。**制造业占比下降是全球趋势**，与贸易政策关联有限。文章强调，保护主义叙事掩盖了美国经济真正的结构性变化。
+**Max 订阅用户**可直接在终端使用 **Claude Code**（命令行工具），通过同一订阅同时访问网页/桌面/移动端 Claude 和终端编程助手。支持**共享速率限制**（5x Pro 套餐每小时约 225 条消息或 50-200 次代码提示，20x Pro 套餐容量翻倍）。安装后需用 Max 账户认证，超额时可升级套餐或切换至按量付费。适用于复杂编码任务与日常 AI 协作。
 
 ---
 
-## <a name="18"></a>18. 苹果II鼠标卡中断信号确实与垂直消隐同步 
+## <a name="18"></a>18. 优步“淋浴门”丑闻暴露高管双标 
+<small>🔗 [teamblind.com](https://www.teamblind.com/post/ubers-shower-gate-scandal-KpqjYBkP): Uber's Shower Gate Scandal</small>
+
+
+| 🔥: 62 \| 💬: [15](https://news.ycombinator.com/item?id=43928267) \| 🗓️ 2025-05-08
+
+
+<br />
+优步在全员会议上要求员工**强制返岗（RTO）**，但两名高管却远程参会：一位在酒店房间被拍到有半裸男子从身后走过，另一位则炫耀自己在纳帕度假。与此同时，公司取消远程办公许可、延长带薪休假门槛至8年，引发员工愤怒。**“高管特权”与员工待遇的鲜明对比**激化了矛盾，内部聊天区爆发抗议，甚至出现裁员。这场风波被员工称为“何不食肉糜”时刻，凸显管理层与基层的割裂。
+
+---
+
+## <a name="19"></a>19. 苹果II鼠标卡中断信号确实与垂直消隐同步 
 <small>🔗 [colino.net](https://www.colino.net/wordpress/en/archives/2025/05/08/yes-the-apple-ii-mousecard-irq-is-synced-to-the-vbl/): Yes, the Apple II MouseCard IRQ is synced to the VBL</small>
 
 
-| 🔥: 60 \| 💬: [24](https://news.ycombinator.com/item?id=43925414) \| 🗓️ 2025-05-08
+| 🔥: 61 \| 💬: [24](https://news.ycombinator.com/item?id=43925414) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -252,23 +264,23 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 
 ---
 
-## <a name="19"></a>19. 优步“淋浴门”丑闻暴露高管双标 
-<small>🔗 [teamblind.com](https://www.teamblind.com/post/ubers-shower-gate-scandal-KpqjYBkP): Uber's Shower Gate Scandal</small>
+## <a name="20"></a>20. 全球化并未掏空美国中产阶级 
+<small>🔗 [noahpinion.blog](https://www.noahpinion.blog/p/globalization-did-not-hollow-out): Globalization did not hollow out the American middle class</small>
 
 
-| 🔥: 59 \| 💬: [15](https://news.ycombinator.com/item?id=43928267) \| 🗓️ 2025-05-08
+| 🔥: 61 \| 💬: [61](https://news.ycombinator.com/item?id=43925911) \| 🗓️ 2025-05-08
 
 
 <br />
-优步在全员会议上要求员工**强制返岗（RTO）**，但两名高管却远程参会：一位在酒店房间被拍到有半裸男子从身后走过，另一位则炫耀自己在纳帕度假。与此同时，公司取消远程办公许可、延长带薪休假门槛至8年，引发员工愤怒。**“高管特权”与员工待遇的鲜明对比**激化了矛盾，内部聊天区爆发抗议，甚至出现裁员。这场风波被员工称为“何不食肉糜”时刻，凸显管理层与基层的割裂。
+本文驳斥了“全球化导致美国制造业衰退和中产阶级萎缩”的主流叙事。作者指出，**贸易逆差仅占美国GDP的1%**，且进口商品中消费占比有限，因此全球化对制造业的影响被夸大。数据显示，**美国中产阶级实际收入50年来增长50%**，低收入群体工资涨幅超40%，且就业正转向高技能服务业。尽管中国进口竞争在2000年代冲击了部分地区，但受影响区域经济已复苏。**制造业占比下降是全球趋势**，与贸易政策关联有限。文章强调，保护主义叙事掩盖了美国经济真正的结构性变化。
 
 ---
 
-## <a name="20"></a>20. 蛋白质设计工具能否解决抗蛇毒血清短缺问题？ 
+## <a name="21"></a>21. 蛋白质设计工具能否解决抗蛇毒血清短缺问题？ 
 <small>🔗 [owlposting.com](https://www.owlposting.com/p/will-protein-design-tools-solve-the): Will protein design tools solve the snake antivenom shortage?</small>
 
 
-| 🔥: 54 \| 💬: [24](https://news.ycombinator.com/item?id=43925325) \| 🗓️ 2025-05-08
+| 🔥: 55 \| 💬: [24](https://news.ycombinator.com/item?id=43925325) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -276,7 +288,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 
 ---
 
-## <a name="21"></a>21. 扎克伯格再抛“AI读心术”噱头：广告商的幻觉游戏 
+## <a name="22"></a>22. 扎克伯格再抛“AI读心术”噱头：广告商的幻觉游戏 
 <small>🔗 [pluralistic.net](https://pluralistic.net/2025/05/07/rah-rah-rasputin/#credulous-dolts): Mark Zuckerberg announces mind-control</small>
 
 
