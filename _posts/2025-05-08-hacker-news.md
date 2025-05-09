@@ -27,7 +27,7 @@ tags:
 <small>🔗 [blog.hayman.net](https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html): From: Steve Jobs. "Great idea, thank you."</small>
 
 
-| 🔥🔥: 592 \| 💬: [155](https://news.ycombinator.com/item?id=43929724) \| 🗓️ 2025-05-08
+| 🔥🔥: 649 \| 💬: [178](https://news.ycombinator.com/item?id=43929724) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/voideditor/void): Void: Open-source Cursor alternative</small>
 
 
-| 🔥🔥: 515 \| 💬: [219](https://news.ycombinator.com/item?id=43927926) \| 🗓️ 2025-05-08
+| 🔥🔥: 545 \| 💬: [234](https://news.ycombinator.com/item?id=43927926) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -51,7 +51,7 @@ Void是一款基于**VS Code**的开源AI代码编辑器，支持**任意大模�
 <small>🔗 [cnn.com](https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25): First American pope elected and will be known as Pope Leo XIV</small>
 
 
-| 🔥🔥: 438 \| 💬: [666](https://news.ycombinator.com/item?id=43927856) \| 🗓️ 2025-05-08
+| 🔥🔥: 448 \| 💬: [696](https://news.ycombinator.com/item?id=43927856) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -63,7 +63,7 @@ Void是一款基于**VS Code**的开源AI代码编辑器，支持**任意大模�
 <small>🔗 [radioandnukes.substack.com](https://radioandnukes.substack.com/p/how-dare-you-transmit-at-14-ghz): Using NASA’s SMAP satellite to detect L-band interference</small>
 
 
-| 🔥🔥: 291 \| 💬: [65](https://news.ycombinator.com/item?id=43924358) \| 🗓️ 2025-05-08
+| 🔥🔥: 295 \| 💬: [65](https://news.ycombinator.com/item?id=43924358) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -75,7 +75,7 @@ NASA的**SMAP卫星**原本用于监测土壤湿度和海洋盐度，却在2025�
 <small>🔗 [nexo.sh](https://nexo.sh/posts/microservices-for-startups/): Microservices are a tax your startup probably can't afford</small>
 
 
-| 🔥🔥: 272 \| 💬: [219](https://news.ycombinator.com/item?id=43925892) \| 🗓️ 2025-05-08
+| 🔥🔥: 277 \| 💬: [224](https://news.ycombinator.com/item?id=43925892) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -87,7 +87,7 @@ NASA的**SMAP卫星**原本用于监测土壤湿度和海洋盐度，却在2025�
 <small>🔗 [samwho.dev](https://samwho.dev/reservoir-sampling/): Reservoir Sampling</small>
 
 
-| 🔥🔥: 252 \| 💬: [58](https://news.ycombinator.com/item?id=43928315) \| 🗓️ 2025-05-08
+| 🔥🔥: 266 \| 💬: [58](https://news.ycombinator.com/item?id=43928315) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -99,7 +99,7 @@ NASA的**SMAP卫星**原本用于监测土壤湿度和海洋盐度，却在2025�
 <small>🔗 [catholicreview.org](https://catholicreview.org/chicago-native-cardinal-prevost-elected-pope-takes-name-leo-xiv/): Chicago native Cardinal Prevost elected pope, takes name Leo XIV</small>
 
 
-| 🔥🔥: 213 \| 💬: [2](https://news.ycombinator.com/item?id=43928742) \| 🗓️ 2025-05-08
+| 🔥🔥: 214 \| 💬: [2](https://news.ycombinator.com/item?id=43928742) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -111,7 +111,7 @@ NASA的**SMAP卫星**原本用于监测土壤湿度和海洋盐度，却在2025�
 <small>🔗 [github.com](https://github.com/qpoint-io/qtap): Show HN: Using eBPF to see through encryption without a proxy</small>
 
 
-| 🔥🔥: 186 \| 💬: [55](https://news.ycombinator.com/item?id=43928118) \| 🗓️ 2025-05-08
+| 🔥🔥: 191 \| 💬: [57](https://news.ycombinator.com/item?id=43928118) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -128,7 +128,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [ghiculescu.substack.com](https://ghiculescu.substack.com/p/nobody-codes-here-anymore): Notes on rolling out Cursor and Claude Code</small>
 
 
-| 🔥🔥: 139 \| 💬: [51](https://news.ycombinator.com/item?id=43927914) \| 🗓️ 2025-05-08
+| 🔥🔥: 149 \| 💬: [66](https://news.ycombinator.com/item?id=43927914) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -140,7 +140,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [fusionenergybase.com](https://www.fusionenergybase.com/articles/continuing-progress-toward-fusion-energy-breakeven-and-gain-as-measured-against-the-lawson-criteria): Progress toward fusion energy gain as measured against the Lawson criteria</small>
 
 
-| 🔥🔥: 138 \| 💬: [63](https://news.ycombinator.com/item?id=43927337) \| 🗓️ 2025-05-08
+| 🔥🔥: 146 \| 💬: [64](https://news.ycombinator.com/item?id=43927337) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -152,7 +152,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [propublica.org](https://www.propublica.org/article/trump-nih-cuts-transgender-research-grants): Trump's NIH axed research grants even after a judge blocked the cuts</small>
 
 
-| 🔥🔥: 135 \| 💬: [123](https://news.ycombinator.com/item?id=43926149) \| 🗓️ 2025-05-08
+| 🔥🔥: 136 \| 💬: [123](https://news.ycombinator.com/item?id=43926149) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -164,7 +164,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [gq.com](https://www.gq.com/story/why-is-everyone-getting-their-tattoos-removed): More people are getting tattoos removed</small>
 
 
-| 🔥: 94 \| 💬: [152](https://news.ycombinator.com/item?id=43927948) \| 🗓️ 2025-05-08
+| 🔥: 95 \| 💬: [153](https://news.ycombinator.com/item?id=43927948) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -176,7 +176,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [richardcocks.github.io](https://richardcocks.github.io/2025-05-08-CoreWCF.html): My stackoverflow question was closed so here's a blog post about CoreWCF</small>
 
 
-| 🔥: 92 \| 💬: [135](https://news.ycombinator.com/item?id=43925355) \| 🗓️ 2025-05-08
+| 🔥: 94 \| 💬: [137](https://news.ycombinator.com/item?id=43925355) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -186,47 +186,11 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 
 ---
 
-## <a name="14"></a>14. 华为发布首款搭载自研鸿蒙系统的笔记本电脑 
-<small>🔗 [scmp.com](https://www.scmp.com/tech/big-tech/article/3309569/huawei-unveils-first-laptop-running-self-developed-harmonyos-windows-licence-expires): Huawei unveils laptop running self-developed HarmonyOS as Windows licence expire</small>
-
-
-| 🔥: 80 \| 💬: [55](https://news.ycombinator.com/item?id=43926350) \| 🗓️ 2025-05-08
-
-
-<br />
-华为在Windows授权到期后，推出首款运行**HarmonyOS 5**（又称HarmonyOS Next）的笔记本电脑。该设备配备**AI助手Celia**，支持会议纪要总结、幻灯片制作等功能，并预装WPS、钉钉等本土软件。同时兼容哔哩哔哩、飞书等移动应用，预计年底支持超2000款应用。此举标志着华为在操作系统领域的进一步自主化。
-
----
-
-## <a name="15"></a>15. 埃及学家破译巴黎方尖碑上的隐秘铭文 
-<small>🔗 [news.artnet.com](https://news.artnet.com/art-world/hidden-messages-paris-luxor-obelisk-2636508): Egyptologist uncovers hidden messages on Paris’s iconic obelisk</small>
-
-
-| 🔥: 74 \| 💬: [67](https://news.ycombinator.com/item?id=43924117) \| 🗓️ 2025-05-08
-
-
-<br />
-埃及学家**让-纪尧姆·奥莱特-佩尔蒂埃**在巴黎协和广场的方尖碑上发现了**加密象形文字**。这座高70英尺的纪念碑原属拉美西斯二世时期（约公元前1279-1213年），19世纪30年代从埃及卢克索神庙迁至巴黎。经近距离检查，他确认碑上至少七处暗藏信息，旨在向古埃及**贵族精英**传达拉美西斯二世的神选身份与血统。这些文字仅在尼罗河泛滥节的特定角度可见，属于巩固王权的**政治宣传**。
-
----
-
-## <a name="16"></a>16. 静态即服务：当React服务端组件遇上零成本托管 
-<small>🔗 [overreacted.io](https://overreacted.io/static-as-a-server/): Static as a Server</small>
-
-
-| 🔥: 74 \| 💬: [43](https://news.ycombinator.com/item?id=43929054) \| 🗓️ 2025-05-08
-
-
-<br />
-本文探讨了**React服务端组件(RSC)**如何通过**混合框架**实现静态化部署。作者以Next.js为例，演示了在构建阶段预渲染动态内容，最终通过Cloudflare免费CDN托管的技术方案。核心观点在于：**"静态"本质是提前运行的"服务端"**，现代框架已模糊二者界限。这种模式既保留服务端开发的灵活性，又能享受静态部署的成本优势，同时避免工具链碎片化。关键在于框架需支持按路由选择渲染方式，实现动静结合的渐进式开发。
-
----
-
-## <a name="17"></a>17. Claude Code 的统一定价订阅方案 
+## <a name="14"></a>14. Claude Code 的统一定价订阅方案 
 <small>🔗 [support.anthropic.com](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan): A flat pricing subscription for Claude Code</small>
 
 
-| 🔥: 73 \| 💬: [46](https://news.ycombinator.com/item?id=43931409) \| 🗓️ 2025-05-08
+| 🔥: 86 \| 💬: [68](https://news.ycombinator.com/item?id=43931409) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -234,11 +198,47 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 
 ---
 
+## <a name="15"></a>15. 埃及学家破译巴黎方尖碑上的隐秘铭文 
+<small>🔗 [news.artnet.com](https://news.artnet.com/art-world/hidden-messages-paris-luxor-obelisk-2636508): Egyptologist uncovers hidden messages on Paris’s iconic obelisk</small>
+
+
+| 🔥: 80 \| 💬: [71](https://news.ycombinator.com/item?id=43924117) \| 🗓️ 2025-05-08
+
+
+<br />
+埃及学家**让-纪尧姆·奥莱特-佩尔蒂埃**在巴黎协和广场的方尖碑上发现了**加密象形文字**。这座高70英尺的纪念碑原属拉美西斯二世时期（约公元前1279-1213年），19世纪30年代从埃及卢克索神庙迁至巴黎。经近距离检查，他确认碑上至少七处暗藏信息，旨在向古埃及**贵族精英**传达拉美西斯二世的神选身份与血统。这些文字仅在尼罗河泛滥节的特定角度可见，属于巩固王权的**政治宣传**。
+
+---
+
+## <a name="16"></a>16. 华为发布首款搭载自研鸿蒙系统的笔记本电脑 
+<small>🔗 [scmp.com](https://www.scmp.com/tech/big-tech/article/3309569/huawei-unveils-first-laptop-running-self-developed-harmonyos-windows-licence-expires): Huawei unveils laptop running self-developed HarmonyOS as Windows licence expire</small>
+
+
+| 🔥: 80 \| 💬: [57](https://news.ycombinator.com/item?id=43926350) \| 🗓️ 2025-05-08
+
+
+<br />
+华为在Windows授权到期后，推出首款运行**HarmonyOS 5**（又称HarmonyOS Next）的笔记本电脑。该设备配备**AI助手Celia**，支持会议纪要总结、幻灯片制作等功能，并预装WPS、钉钉等本土软件。同时兼容哔哩哔哩、飞书等移动应用，预计年底支持超2000款应用。此举标志着华为在操作系统领域的进一步自主化。
+
+---
+
+## <a name="17"></a>17. 静态即服务：当React服务端组件遇上零成本托管 
+<small>🔗 [overreacted.io](https://overreacted.io/static-as-a-server/): Static as a Server</small>
+
+
+| 🔥: 77 \| 💬: [47](https://news.ycombinator.com/item?id=43929054) \| 🗓️ 2025-05-08
+
+
+<br />
+本文探讨了**React服务端组件(RSC)**如何通过**混合框架**实现静态化部署。作者以Next.js为例，演示了在构建阶段预渲染动态内容，最终通过Cloudflare免费CDN托管的技术方案。核心观点在于：**"静态"本质是提前运行的"服务端"**，现代框架已模糊二者界限。这种模式既保留服务端开发的灵活性，又能享受静态部署的成本优势，同时避免工具链碎片化。关键在于框架需支持按路由选择渲染方式，实现动静结合的渐进式开发。
+
+---
+
 ## <a name="18"></a>18. 优步“淋浴门”丑闻暴露高管双标 
 <small>🔗 [teamblind.com](https://www.teamblind.com/post/ubers-shower-gate-scandal-KpqjYBkP): Uber's Shower Gate Scandal</small>
 
 
-| 🔥: 62 \| 💬: [15](https://news.ycombinator.com/item?id=43928267) \| 🗓️ 2025-05-08
+| 🔥: 62 \| 💬: [17](https://news.ycombinator.com/item?id=43928267) \| 🗓️ 2025-05-08
 
 
 <br />
