@@ -27,7 +27,7 @@ tags:
 <small>🔗 [blog.hayman.net](https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html): From: Steve Jobs. "Great idea, thank you."</small>
 
 
-| 🔥🔥: 769 \| 💬: [212](https://news.ycombinator.com/item?id=43929724) \| 🗓️ 2025-05-08
+| 🔥🔥: 807 \| 💬: [222](https://news.ycombinator.com/item?id=43929724) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/voideditor/void): Void: Open-source Cursor alternative</small>
 
 
-| 🔥🔥: 625 \| 💬: [266](https://news.ycombinator.com/item?id=43927926) \| 🗓️ 2025-05-08
+| 🔥🔥: 642 \| 💬: [269](https://news.ycombinator.com/item?id=43927926) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -51,7 +51,7 @@ Void是一款基于**VS Code**的开源AI代码编辑器，支持**任意大模�
 <small>🔗 [cnn.com](https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25): First American pope elected and will be known as Pope Leo XIV</small>
 
 
-| 🔥🔥: 489 \| 💬: [758](https://news.ycombinator.com/item?id=43927856) \| 🗓️ 2025-05-08
+| 🔥🔥: 502 \| 💬: [776](https://news.ycombinator.com/item?id=43927856) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -63,7 +63,7 @@ Void是一款基于**VS Code**的开源AI代码编辑器，支持**任意大模�
 <small>🔗 [samwho.dev](https://samwho.dev/reservoir-sampling/): Reservoir Sampling</small>
 
 
-| 🔥🔥: 321 \| 💬: [70](https://news.ycombinator.com/item?id=43928315) \| 🗓️ 2025-05-08
+| 🔥🔥: 332 \| 💬: [71](https://news.ycombinator.com/item?id=43928315) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -87,7 +87,7 @@ NASA的**SMAP卫星**原本用于监测土壤湿度和海洋盐度，却在2025�
 <small>🔗 [nexo.sh](https://nexo.sh/posts/microservices-for-startups/): Microservices are a tax your startup probably can't afford</small>
 
 
-| 🔥🔥: 283 \| 💬: [232](https://news.ycombinator.com/item?id=43925892) \| 🗓️ 2025-05-08
+| 🔥🔥: 285 \| 💬: [233](https://news.ycombinator.com/item?id=43925892) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -99,7 +99,7 @@ NASA的**SMAP卫星**原本用于监测土壤湿度和海洋盐度，却在2025�
 <small>🔗 [github.com](https://github.com/qpoint-io/qtap): Show HN: Using eBPF to see through encryption without a proxy</small>
 
 
-| 🔥🔥: 219 \| 💬: [71](https://news.ycombinator.com/item?id=43928118) \| 🗓️ 2025-05-08
+| 🔥🔥: 225 \| 💬: [71](https://news.ycombinator.com/item?id=43928118) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -128,7 +128,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [fusionenergybase.com](https://www.fusionenergybase.com/articles/continuing-progress-toward-fusion-energy-breakeven-and-gain-as-measured-against-the-lawson-criteria): Progress toward fusion energy gain as measured against the Lawson criteria</small>
 
 
-| 🔥🔥: 174 \| 💬: [79](https://news.ycombinator.com/item?id=43927337) \| 🗓️ 2025-05-08
+| 🔥🔥: 178 \| 💬: [81](https://news.ycombinator.com/item?id=43927337) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -140,7 +140,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [ghiculescu.substack.com](https://ghiculescu.substack.com/p/nobody-codes-here-anymore): Notes on rolling out Cursor and Claude Code</small>
 
 
-| 🔥🔥: 168 \| 💬: [84](https://news.ycombinator.com/item?id=43927914) \| 🗓️ 2025-05-08
+| 🔥🔥: 169 \| 💬: [86](https://news.ycombinator.com/item?id=43927914) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -152,7 +152,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [propublica.org](https://www.propublica.org/article/trump-nih-cuts-transgender-research-grants): Trump's NIH axed research grants even after a judge blocked the cuts</small>
 
 
-| 🔥🔥: 138 \| 💬: [125](https://news.ycombinator.com/item?id=43926149) \| 🗓️ 2025-05-08
+| 🔥🔥: 139 \| 💬: [125](https://news.ycombinator.com/item?id=43926149) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -160,29 +160,29 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 
 ---
 
-## <a name="12"></a>12. Stack Overflow问题被关闭后，我写了一篇关于CoreWCF的博客 
+## <a name="12"></a>12. Claude Code 的统一定价订阅方案 
+<small>🔗 [support.anthropic.com](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan): A flat pricing subscription for Claude Code</small>
+
+
+| 🔥🔥: 113 \| 💬: [103](https://news.ycombinator.com/item?id=43931409) \| 🗓️ 2025-05-08
+
+
+<br />
+**Max 订阅用户**可直接在终端使用 **Claude Code**（命令行工具），通过同一订阅同时访问网页/桌面/移动端 Claude 和终端编程助手。支持**共享速率限制**（5x Pro 套餐每小时约 225 条消息或 50-200 次代码提示，20x Pro 套餐容量翻倍）。安装后需用 Max 账户认证，超额时可升级套餐或切换至按量付费。适用于复杂编码任务与日常 AI 协作。
+
+---
+
+## <a name="13"></a>13. Stack Overflow问题被关闭后，我写了一篇关于CoreWCF的博客 
 <small>🔗 [richardcocks.github.io](https://richardcocks.github.io/2025-05-08-CoreWCF.html): My stackoverflow question was closed so here's a blog post about CoreWCF</small>
 
 
-| 🔥🔥: 104 \| 💬: [149](https://news.ycombinator.com/item?id=43925355) \| 🗓️ 2025-05-08
+| 🔥🔥: 107 \| 💬: [155](https://news.ycombinator.com/item?id=43925355) \| 🗓️ 2025-05-08
 
 
 <br />
 作者在尝试实现**.NET Framework与dotnet 8之间的RPC通信**时，遇到**CoreWCF服务在客户端关闭后仍持续占用CPU**的问题。由于问题涉及不同版本的WCF混淆（CoreWCF、.NET Core的WCF客户端等），他未选择提交GitHub issue，而是转向Stack Overflow提问，但因包含外部链接和代码不完整被关闭。  
 
 他重构问题后提供了完整的最小复现代码，但问题仍被永久关闭。于是通过博客分享实验：尝试用**WCF流式传输随机数**，发现服务端在客户端断开后仍持续写入流，缺乏背压机制。最终质疑WCF流是否仅适用于固定长度的数据传输，并探讨替代方案（如分片消息或会话模式）。文末呼吁读者通过社交平台交流解惑。
-
----
-
-## <a name="13"></a>13. Claude Code 的统一定价订阅方案 
-<small>🔗 [support.anthropic.com](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan): A flat pricing subscription for Claude Code</small>
-
-
-| 🔥🔥: 103 \| 💬: [90](https://news.ycombinator.com/item?id=43931409) \| 🗓️ 2025-05-08
-
-
-<br />
-**Max 订阅用户**可直接在终端使用 **Claude Code**（命令行工具），通过同一订阅同时访问网页/桌面/移动端 Claude 和终端编程助手。支持**共享速率限制**（5x Pro 套餐每小时约 225 条消息或 50-200 次代码提示，20x Pro 套餐容量翻倍）。安装后需用 Max 账户认证，超额时可升级套餐或切换至按量付费。适用于复杂编码任务与日常 AI 协作。
 
 ---
 
@@ -202,7 +202,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [news.artnet.com](https://news.artnet.com/art-world/hidden-messages-paris-luxor-obelisk-2636508): Egyptologist uncovers hidden messages on Paris’s iconic obelisk</small>
 
 
-| 🔥: 88 \| 💬: [81](https://news.ycombinator.com/item?id=43924117) \| 🗓️ 2025-05-08
+| 🔥: 94 \| 💬: [82](https://news.ycombinator.com/item?id=43924117) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -210,7 +210,55 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 
 ---
 
-## <a name="16"></a>16. 华为发布首款搭载自研鸿蒙系统的笔记本电脑 
+## <a name="16"></a>16. 如何与朋友一起创办成人学校 
+<small>🔗 [prigoose.substack.com](https://prigoose.substack.com/p/how-to-start-a-university): How to start a school with your friends</small>
+
+
+| 🔥: 89 \| 💬: [39](https://news.ycombinator.com/item?id=43930397) \| 🗓️ 2025-05-08
+
+
+<br />
+FractalU是一个由纽约市客厅课堂组成的**成人学校**，已开设100多门课程，学员超千人。课程由业余教师（多为在职人士）在晚间或周末授课，内容涵盖烹饪、写作、计算生物学等。**核心模式**是通过朋友共学提高完成率（在线课程平均完成率仅5-15%），并利用社区空间降低运营成本。学校无正式架构，仅由4人志愿管理，通过社交推荐筛选教师。**关键优势**在于将学习转化为社交活动，激发持续动力。
+
+---
+
+## <a name="17"></a>17. 静态即服务：当React服务端组件遇上零成本托管 
+<small>🔗 [overreacted.io](https://overreacted.io/static-as-a-server/): Static as a Server</small>
+
+
+| 🔥: 88 \| 💬: [61](https://news.ycombinator.com/item?id=43929054) \| 🗓️ 2025-05-08
+
+
+<br />
+本文探讨了**React服务端组件(RSC)**如何通过**混合框架**实现静态化部署。作者以Next.js为例，演示了在构建阶段预渲染动态内容，最终通过Cloudflare免费CDN托管的技术方案。核心观点在于：**"静态"本质是提前运行的"服务端"**，现代框架已模糊二者界限。这种模式既保留服务端开发的灵活性，又能享受静态部署的成本优势，同时避免工具链碎片化。关键在于框架需支持按路由选择渲染方式，实现动静结合的渐进式开发。
+
+---
+
+## <a name="18"></a>18. FUI：TTY环境下操作帧缓冲区的C语言库 
+<small>🔗 [github.com](https://github.com/martinfama/fui): Fui: C library for interacting with the framebuffer in a TTY context</small>
+
+
+| 🔥: 88 \| 💬: [27](https://news.ycombinator.com/item?id=43931845) \| 🗓️ 2025-05-08
+
+
+<br />
+**FUI**（帧缓冲用户界面）是一个用于在**TTY环境**中直接操作帧缓冲设备的C语言库。它通过分层系统进行绘制，支持**像素绘制**、基础图形（线条/矩形/圆形）、位图字体文本渲染，以及基于libevdev的键盘/鼠标事件处理。此外还集成了ALSA音频系统，可播放正弦波和和弦。需静态链接库文件（`-l:libfui.a`），附示例代码和测试（如小行星游戏）。当前获45星关注，暂无分叉版本。
+
+---
+
+## <a name="19"></a>19. 动态语言的稳定性之谜：Clojure为何与众不同？ 
+<small>🔗 [potetm.com](https://potetm.com/devtalk/stability-by-design.html): Stability by Design</small>
+
+
+| 🔥: 84 \| 💬: [23](https://news.ycombinator.com/item?id=43930584) \| 🗓️ 2025-05-08
+
+
+<br />
+一位开发者吐槽动态类型语言升级时的不确定性，但**Clojure**生态却以**稳定性**著称。作者通过社区讨论、代码保留率及亲身案例（如修复库时优先兼容旧代码）证明：Clojure通过**不可变数据**、**命名空间隔离**和**避免破坏性变更**（如重命名、增减参数）实现稳定。其核心在于**不随意改动接口**，宁可新增函数而非修改旧逻辑。这种设计哲学与静态/动态类型无关，而是对开发者协作的深刻尊重。
+
+---
+
+## <a name="20"></a>20. 华为发布首款搭载自研鸿蒙系统的笔记本电脑 
 <small>🔗 [scmp.com](https://www.scmp.com/tech/big-tech/article/3309569/huawei-unveils-first-laptop-running-self-developed-harmonyos-windows-licence-expires): Huawei unveils laptop running self-developed HarmonyOS as Windows licence expire</small>
 
 
@@ -222,59 +270,11 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 
 ---
 
-## <a name="17"></a>17. 静态即服务：当React服务端组件遇上零成本托管 
-<small>🔗 [overreacted.io](https://overreacted.io/static-as-a-server/): Static as a Server</small>
-
-
-| 🔥: 83 \| 💬: [59](https://news.ycombinator.com/item?id=43929054) \| 🗓️ 2025-05-08
-
-
-<br />
-本文探讨了**React服务端组件(RSC)**如何通过**混合框架**实现静态化部署。作者以Next.js为例，演示了在构建阶段预渲染动态内容，最终通过Cloudflare免费CDN托管的技术方案。核心观点在于：**"静态"本质是提前运行的"服务端"**，现代框架已模糊二者界限。这种模式既保留服务端开发的灵活性，又能享受静态部署的成本优势，同时避免工具链碎片化。关键在于框架需支持按路由选择渲染方式，实现动静结合的渐进式开发。
-
----
-
-## <a name="18"></a>18. 如何与朋友一起创办成人学校 
-<small>🔗 [prigoose.substack.com](https://prigoose.substack.com/p/how-to-start-a-university): How to start a school with your friends</small>
-
-
-| 🔥: 81 \| 💬: [35](https://news.ycombinator.com/item?id=43930397) \| 🗓️ 2025-05-08
-
-
-<br />
-FractalU是一个由纽约市客厅课堂组成的**成人学校**，已开设100多门课程，学员超千人。课程由业余教师（多为在职人士）在晚间或周末授课，内容涵盖烹饪、写作、计算生物学等。**核心模式**是通过朋友共学提高完成率（在线课程平均完成率仅5-15%），并利用社区空间降低运营成本。学校无正式架构，仅由4人志愿管理，通过社交推荐筛选教师。**关键优势**在于将学习转化为社交活动，激发持续动力。
-
----
-
-## <a name="19"></a>19. FUI：TTY环境下操作帧缓冲区的C语言库 
-<small>🔗 [github.com](https://github.com/martinfama/fui): Fui: C library for interacting with the framebuffer in a TTY context</small>
-
-
-| 🔥: 77 \| 💬: [26](https://news.ycombinator.com/item?id=43931845) \| 🗓️ 2025-05-08
-
-
-<br />
-**FUI**（帧缓冲用户界面）是一个用于在**TTY环境**中直接操作帧缓冲设备的C语言库。它通过分层系统进行绘制，支持**像素绘制**、基础图形（线条/矩形/圆形）、位图字体文本渲染，以及基于libevdev的键盘/鼠标事件处理。此外还集成了ALSA音频系统，可播放正弦波和和弦。需静态链接库文件（`-l:libfui.a`），附示例代码和测试（如小行星游戏）。当前获45星关注，暂无分叉版本。
-
----
-
-## <a name="20"></a>20. 动态语言的稳定性之谜：Clojure为何与众不同？ 
-<small>🔗 [potetm.com](https://potetm.com/devtalk/stability-by-design.html): Stability by Design</small>
-
-
-| 🔥: 75 \| 💬: [17](https://news.ycombinator.com/item?id=43930584) \| 🗓️ 2025-05-08
-
-
-<br />
-一位开发者吐槽动态类型语言升级时的不确定性，但**Clojure**生态却以**稳定性**著称。作者通过社区讨论、代码保留率及亲身案例（如修复库时优先兼容旧代码）证明：Clojure通过**不可变数据**、**命名空间隔离**和**避免破坏性变更**（如重命名、增减参数）实现稳定。其核心在于**不随意改动接口**，宁可新增函数而非修改旧逻辑。这种设计哲学与静态/动态类型无关，而是对开发者协作的深刻尊重。
-
----
-
 ## <a name="21"></a>21. 二战期间美国如何建造5000艘船只 
 <small>🔗 [construction-physics.com](https://www.construction-physics.com/p/how-the-us-built-5000-ships-in-wwii): How the US built 5k ships in WWII</small>
 
 
-| 🔥: 72 \| 💬: [50](https://news.ycombinator.com/item?id=43931285) \| 🗓️ 2025-05-08
+| 🔥: 81 \| 💬: [57](https://news.ycombinator.com/item?id=43931285) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -298,7 +298,7 @@ FractalU是一个由纽约市客厅课堂组成的**成人学校**，已开设10
 <small>🔗 [colino.net](https://www.colino.net/wordpress/en/archives/2025/05/08/yes-the-apple-ii-mousecard-irq-is-synced-to-the-vbl/): Yes, the Apple II MouseCard IRQ is synced to the VBL</small>
 
 
-| 🔥: 62 \| 💬: [25](https://news.ycombinator.com/item?id=43925414) \| 🗓️ 2025-05-08
+| 🔥: 62 \| 💬: [26](https://news.ycombinator.com/item?id=43925414) \| 🗓️ 2025-05-08
 
 
 <br />
