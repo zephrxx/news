@@ -11,12 +11,12 @@ tags:
 1. 乔布斯的邮件：一个菜鸟的乌龙与惊喜；
 1. 开源AI代码编辑器Void：Cursor的替代选择；
 1. 首位美国籍教皇当选 封号利奥十四世；
-1. NASA土壤监测卫星意外成为电子战侦察利器；
 1. 蓄水池抽样：未知数据流中的公平采样术；
+1. NASA土壤监测卫星意外成为电子战侦察利器；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [blog.hayman.net](https://blog.hayman.net/2025/05/06/from-steve-jobs-great-idea.html): From: Steve Jobs. "Great idea, thank you."</small>
 
 
-| 🔥🔥: 690 \| 💬: [193](https://news.ycombinator.com/item?id=43929724) \| 🗓️ 2025-05-08
+| 🔥🔥: 737 \| 💬: [202](https://news.ycombinator.com/item?id=43929724) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/voideditor/void): Void: Open-source Cursor alternative</small>
 
 
-| 🔥🔥: 583 \| 💬: [243](https://news.ycombinator.com/item?id=43927926) \| 🗓️ 2025-05-08
+| 🔥🔥: 606 \| 💬: [257](https://news.ycombinator.com/item?id=43927926) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -51,7 +51,7 @@ Void是一款基于**VS Code**的开源AI代码编辑器，支持**任意大模�
 <small>🔗 [cnn.com](https://www.cnn.com/world/live-news/new-pope-conclave-day-two-05-08-25): First American pope elected and will be known as Pope Leo XIV</small>
 
 
-| 🔥🔥: 462 \| 💬: [728](https://news.ycombinator.com/item?id=43927856) \| 🗓️ 2025-05-08
+| 🔥🔥: 477 \| 💬: [735](https://news.ycombinator.com/item?id=43927856) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -59,23 +59,11 @@ Void是一款基于**VS Code**的开源AI代码编辑器，支持**任意大模�
 
 ---
 
-## <a name="4"></a>4. NASA土壤监测卫星意外成为电子战侦察利器 
-<small>🔗 [radioandnukes.substack.com](https://radioandnukes.substack.com/p/how-dare-you-transmit-at-14-ghz): Using NASA’s SMAP satellite to detect L-band interference</small>
-
-
-| 🔥🔥: 297 \| 💬: [67](https://news.ycombinator.com/item?id=43924358) \| 🗓️ 2025-05-08
-
-
-<br />
-NASA的**SMAP卫星**原本用于监测土壤湿度和海洋盐度，却在2025年初意外探测到1.4GHz频段的异常高温信号。这一**受保护频段**本应静默，但数据显示乌克兰前线、俄罗斯电子战基地等地出现强烈**射频干扰**（亮度温度超370K），疑似军用干扰器活动。开源分析揭示，这些干扰可能针对无人机通信和卫星导航，直接映射出现代战场上的电磁对抗实况。
-
----
-
-## <a name="5"></a>5. 蓄水池抽样：未知数据流中的公平采样术 
+## <a name="4"></a>4. 蓄水池抽样：未知数据流中的公平采样术 
 <small>🔗 [samwho.dev](https://samwho.dev/reservoir-sampling/): Reservoir Sampling</small>
 
 
-| 🔥🔥: 286 \| 💬: [61](https://news.ycombinator.com/item?id=43928315) \| 🗓️ 2025-05-08
+| 🔥🔥: 304 \| 💬: [64](https://news.ycombinator.com/item?id=43928315) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -83,11 +71,23 @@ NASA的**SMAP卫星**原本用于监测土壤湿度和海洋盐度，却在2025�
 
 ---
 
+## <a name="5"></a>5. NASA土壤监测卫星意外成为电子战侦察利器 
+<small>🔗 [radioandnukes.substack.com](https://radioandnukes.substack.com/p/how-dare-you-transmit-at-14-ghz): Using NASA’s SMAP satellite to detect L-band interference</small>
+
+
+| 🔥🔥: 298 \| 💬: [67](https://news.ycombinator.com/item?id=43924358) \| 🗓️ 2025-05-08
+
+
+<br />
+NASA的**SMAP卫星**原本用于监测土壤湿度和海洋盐度，却在2025年初意外探测到1.4GHz频段的异常高温信号。这一**受保护频段**本应静默，但数据显示乌克兰前线、俄罗斯电子战基地等地出现强烈**射频干扰**（亮度温度超370K），疑似军用干扰器活动。开源分析揭示，这些干扰可能针对无人机通信和卫星导航，直接映射出现代战场上的电磁对抗实况。
+
+---
+
 ## <a name="6"></a>6. 初创公司过早采用微服务是在交智商税 
 <small>🔗 [nexo.sh](https://nexo.sh/posts/microservices-for-startups/): Microservices are a tax your startup probably can't afford</small>
 
 
-| 🔥🔥: 280 \| 💬: [228](https://news.ycombinator.com/item?id=43925892) \| 🗓️ 2025-05-08
+| 🔥🔥: 281 \| 💬: [232](https://news.ycombinator.com/item?id=43925892) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -95,23 +95,11 @@ NASA的**SMAP卫星**原本用于监测土壤湿度和海洋盐度，却在2025�
 
 ---
 
-## <a name="7"></a>7. 芝加哥出生的普雷沃斯特枢机当选教宗，尊号利奥十四世 
-<small>🔗 [catholicreview.org](https://catholicreview.org/chicago-native-cardinal-prevost-elected-pope-takes-name-leo-xiv/): Chicago native Cardinal Prevost elected pope, takes name Leo XIV</small>
-
-
-| 🔥🔥: 214 \| 💬: [2](https://news.ycombinator.com/item?id=43928742) \| 🗓️ 2025-05-08
-
-
-<br />
-5月8日，**芝加哥出生**的枢机主教罗伯特·F·普雷沃斯特当选第267任教宗，尊号**利奥十四世**，成为**首位北美籍教宗**。他曾任主教部主席，协助方济各挑选全球主教，主张服务型领导风格。新教宗通晓多国语言，拥有数学与神学背景，长期在秘鲁传教。选举后，圣彼得广场聚集数万民众庆祝，梵蒂冈仪式庄严隆重。
-
----
-
-## <a name="8"></a>8. 用eBPF技术无代理解密网络流量的开源工具 
+## <a name="7"></a>7. 用eBPF技术无代理解密网络流量的开源工具 
 <small>🔗 [github.com](https://github.com/qpoint-io/qtap): Show HN: Using eBPF to see through encryption without a proxy</small>
 
 
-| 🔥🔥: 205 \| 💬: [62](https://news.ycombinator.com/item?id=43928118) \| 🗓️ 2025-05-08
+| 🔥🔥: 214 \| 💬: [68](https://news.ycombinator.com/item?id=43928118) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -124,11 +112,23 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 
 ---
 
+## <a name="8"></a>8. 芝加哥出生的普雷沃斯特枢机当选教宗，尊号利奥十四世 
+<small>🔗 [catholicreview.org](https://catholicreview.org/chicago-native-cardinal-prevost-elected-pope-takes-name-leo-xiv/): Chicago native Cardinal Prevost elected pope, takes name Leo XIV</small>
+
+
+| 🔥🔥: 214 \| 💬: [2](https://news.ycombinator.com/item?id=43928742) \| 🗓️ 2025-05-08
+
+
+<br />
+5月8日，**芝加哥出生**的枢机主教罗伯特·F·普雷沃斯特当选第267任教宗，尊号**利奥十四世**，成为**首位北美籍教宗**。他曾任主教部主席，协助方济各挑选全球主教，主张服务型领导风格。新教宗通晓多国语言，拥有数学与神学背景，长期在秘鲁传教。选举后，圣彼得广场聚集数万民众庆祝，梵蒂冈仪式庄严隆重。
+
+---
+
 ## <a name="9"></a>9. 聚变能量增益的进展：以劳森判据为衡量标准 
 <small>🔗 [fusionenergybase.com](https://www.fusionenergybase.com/articles/continuing-progress-toward-fusion-energy-breakeven-and-gain-as-measured-against-the-lawson-criteria): Progress toward fusion energy gain as measured against the Lawson criteria</small>
 
 
-| 🔥🔥: 158 \| 💬: [68](https://news.ycombinator.com/item?id=43927337) \| 🗓️ 2025-05-08
+| 🔥🔥: 168 \| 💬: [75](https://news.ycombinator.com/item?id=43927337) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -140,7 +140,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [ghiculescu.substack.com](https://ghiculescu.substack.com/p/nobody-codes-here-anymore): Notes on rolling out Cursor and Claude Code</small>
 
 
-| 🔥🔥: 156 \| 💬: [75](https://news.ycombinator.com/item?id=43927914) \| 🗓️ 2025-05-08
+| 🔥🔥: 164 \| 💬: [79](https://news.ycombinator.com/item?id=43927914) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -164,7 +164,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [richardcocks.github.io](https://richardcocks.github.io/2025-05-08-CoreWCF.html): My stackoverflow question was closed so here's a blog post about CoreWCF</small>
 
 
-| 🔥: 97 \| 💬: [138](https://news.ycombinator.com/item?id=43925355) \| 🗓️ 2025-05-08
+| 🔥🔥: 101 \| 💬: [146](https://news.ycombinator.com/item?id=43925355) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -174,23 +174,11 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 
 ---
 
-## <a name="13"></a>13. 越来越多人选择洗掉纹身 
-<small>🔗 [gq.com](https://www.gq.com/story/why-is-everyone-getting-their-tattoos-removed): More people are getting tattoos removed</small>
-
-
-| 🔥: 95 \| 💬: [155](https://news.ycombinator.com/item?id=43927948) \| 🗓️ 2025-05-08
-
-
-<br />
-文章探讨了**激光洗纹身**的流行趋势及其背后的原因。尽管过程痛苦（伴随灼烧感和刺耳声响），但技术进步使洗纹身更普及。**皮秒激光**通过粉碎墨水颗粒让免疫系统清除残留，通常需1-2年完成。约25%的纹身者后悔，尤其是千禧一代因生活阶段变化寻求改变。名人如Pete Davidson的“去纹身”形象助推了这一潮流。行业也从中获利，连锁机构如Removery获巨额投资。纹身正从“永久标记”转向**时尚消费品**，甚至引发传统纹身文化的争议。
-
----
-
-## <a name="14"></a>14. Claude Code 的统一定价订阅方案 
+## <a name="13"></a>13. Claude Code 的统一定价订阅方案 
 <small>🔗 [support.anthropic.com](https://support.anthropic.com/en/articles/11145838-using-claude-code-with-your-max-plan): A flat pricing subscription for Claude Code</small>
 
 
-| 🔥: 90 \| 💬: [78](https://news.ycombinator.com/item?id=43931409) \| 🗓️ 2025-05-08
+| 🔥: 97 \| 💬: [83](https://news.ycombinator.com/item?id=43931409) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -198,11 +186,23 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 
 ---
 
+## <a name="14"></a>14. 越来越多人选择洗掉纹身 
+<small>🔗 [gq.com](https://www.gq.com/story/why-is-everyone-getting-their-tattoos-removed): More people are getting tattoos removed</small>
+
+
+| 🔥: 95 \| 💬: [159](https://news.ycombinator.com/item?id=43927948) \| 🗓️ 2025-05-08
+
+
+<br />
+文章探讨了**激光洗纹身**的流行趋势及其背后的原因。尽管过程痛苦（伴随灼烧感和刺耳声响），但技术进步使洗纹身更普及。**皮秒激光**通过粉碎墨水颗粒让免疫系统清除残留，通常需1-2年完成。约25%的纹身者后悔，尤其是千禧一代因生活阶段变化寻求改变。名人如Pete Davidson的“去纹身”形象助推了这一潮流。行业也从中获利，连锁机构如Removery获巨额投资。纹身正从“永久标记”转向**时尚消费品**，甚至引发传统纹身文化的争议。
+
+---
+
 ## <a name="15"></a>15. 埃及学家破译巴黎方尖碑上的隐秘铭文 
 <small>🔗 [news.artnet.com](https://news.artnet.com/art-world/hidden-messages-paris-luxor-obelisk-2636508): Egyptologist uncovers hidden messages on Paris’s iconic obelisk</small>
 
 
-| 🔥: 83 \| 💬: [73](https://news.ycombinator.com/item?id=43924117) \| 🗓️ 2025-05-08
+| 🔥: 86 \| 💬: [80](https://news.ycombinator.com/item?id=43924117) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -214,7 +214,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [scmp.com](https://www.scmp.com/tech/big-tech/article/3309569/huawei-unveils-first-laptop-running-self-developed-harmonyos-windows-licence-expires): Huawei unveils laptop running self-developed HarmonyOS as Windows licence expire</small>
 
 
-| 🔥: 82 \| 💬: [58](https://news.ycombinator.com/item?id=43926350) \| 🗓️ 2025-05-08
+| 🔥: 83 \| 💬: [58](https://news.ycombinator.com/item?id=43926350) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -226,7 +226,7 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 <small>🔗 [overreacted.io](https://overreacted.io/static-as-a-server/): Static as a Server</small>
 
 
-| 🔥: 79 \| 💬: [54](https://news.ycombinator.com/item?id=43929054) \| 🗓️ 2025-05-08
+| 🔥: 81 \| 💬: [58](https://news.ycombinator.com/item?id=43929054) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -234,23 +234,11 @@ Qtap是一款基于**eBPF技术**的Linux内核流量捕获工具，通过挂钩
 
 ---
 
-## <a name="18"></a>18. 动态语言的稳定性之谜：Clojure为何与众不同？ 
-<small>🔗 [potetm.com](https://potetm.com/devtalk/stability-by-design.html): Stability by Design</small>
-
-
-| 🔥: 68 \| 💬: [14](https://news.ycombinator.com/item?id=43930584) \| 🗓️ 2025-05-08
-
-
-<br />
-一位开发者吐槽动态类型语言升级时的不确定性，但**Clojure**生态却以**稳定性**著称。作者通过社区讨论、代码保留率及亲身案例（如修复库时优先兼容旧代码）证明：Clojure通过**不可变数据**、**命名空间隔离**和**避免破坏性变更**（如重命名、增减参数）实现稳定。其核心在于**不随意改动接口**，宁可新增函数而非修改旧逻辑。这种设计哲学与静态/动态类型无关，而是对开发者协作的深刻尊重。
-
----
-
-## <a name="19"></a>19. 如何与朋友一起创办成人学校 
+## <a name="18"></a>18. 如何与朋友一起创办成人学校 
 <small>🔗 [prigoose.substack.com](https://prigoose.substack.com/p/how-to-start-a-university): How to start a school with your friends</small>
 
 
-| 🔥: 66 \| 💬: [24](https://news.ycombinator.com/item?id=43930397) \| 🗓️ 2025-05-08
+| 🔥: 74 \| 💬: [31](https://news.ycombinator.com/item?id=43930397) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -258,11 +246,35 @@ FractalU是一个由纽约市客厅课堂组成的**成人学校**，已开设10
 
 ---
 
-## <a name="20"></a>20. 优步“淋浴门”丑闻暴露高管双标 
+## <a name="19"></a>19. 动态语言的稳定性之谜：Clojure为何与众不同？ 
+<small>🔗 [potetm.com](https://potetm.com/devtalk/stability-by-design.html): Stability by Design</small>
+
+
+| 🔥: 72 \| 💬: [16](https://news.ycombinator.com/item?id=43930584) \| 🗓️ 2025-05-08
+
+
+<br />
+一位开发者吐槽动态类型语言升级时的不确定性，但**Clojure**生态却以**稳定性**著称。作者通过社区讨论、代码保留率及亲身案例（如修复库时优先兼容旧代码）证明：Clojure通过**不可变数据**、**命名空间隔离**和**避免破坏性变更**（如重命名、增减参数）实现稳定。其核心在于**不随意改动接口**，宁可新增函数而非修改旧逻辑。这种设计哲学与静态/动态类型无关，而是对开发者协作的深刻尊重。
+
+---
+
+## <a name="20"></a>20. FUI：TTY环境下操作帧缓冲区的C语言库 
+<small>🔗 [github.com](https://github.com/martinfama/fui): Fui: C library for interacting with the framebuffer in a TTY context</small>
+
+
+| 🔥: 70 \| 💬: [22](https://news.ycombinator.com/item?id=43931845) \| 🗓️ 2025-05-08
+
+
+<br />
+**FUI**（帧缓冲用户界面）是一个用于在**TTY环境**中直接操作帧缓冲设备的C语言库。它通过分层系统进行绘制，支持**像素绘制**、基础图形（线条/矩形/圆形）、位图字体文本渲染，以及基于libevdev的键盘/鼠标事件处理。此外还集成了ALSA音频系统，可播放正弦波和和弦。需静态链接库文件（`-l:libfui.a`），附示例代码和测试（如小行星游戏）。当前获45星关注，暂无分叉版本。
+
+---
+
+## <a name="21"></a>21. 优步“淋浴门”丑闻暴露高管双标 
 <small>🔗 [teamblind.com](https://www.teamblind.com/post/ubers-shower-gate-scandal-KpqjYBkP): Uber's Shower Gate Scandal</small>
 
 
-| 🔥: 63 \| 💬: [17](https://news.ycombinator.com/item?id=43928267) \| 🗓️ 2025-05-08
+| 🔥: 64 \| 💬: [17](https://news.ycombinator.com/item?id=43928267) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -270,7 +282,7 @@ FractalU是一个由纽约市客厅课堂组成的**成人学校**，已开设10
 
 ---
 
-## <a name="21"></a>21. 苹果II鼠标卡中断信号确实与垂直消隐同步 
+## <a name="22"></a>22. 苹果II鼠标卡中断信号确实与垂直消隐同步 
 <small>🔗 [colino.net](https://www.colino.net/wordpress/en/archives/2025/05/08/yes-the-apple-ii-mousecard-irq-is-synced-to-the-vbl/): Yes, the Apple II MouseCard IRQ is synced to the VBL</small>
 
 
@@ -288,7 +300,7 @@ FractalU是一个由纽约市客厅课堂组成的**成人学校**，已开设10
 
 ---
 
-## <a name="22"></a>22. 全球化并未掏空美国中产阶级 
+## <a name="23"></a>23. 全球化并未掏空美国中产阶级 
 <small>🔗 [noahpinion.blog](https://www.noahpinion.blog/p/globalization-did-not-hollow-out): Globalization did not hollow out the American middle class</small>
 
 
@@ -300,11 +312,11 @@ FractalU是一个由纽约市客厅课堂组成的**成人学校**，已开设10
 
 ---
 
-## <a name="23"></a>23. 蛋白质设计工具能否解决抗蛇毒血清短缺问题？ 
+## <a name="24"></a>24. 蛋白质设计工具能否解决抗蛇毒血清短缺问题？ 
 <small>🔗 [owlposting.com](https://www.owlposting.com/p/will-protein-design-tools-solve-the): Will protein design tools solve the snake antivenom shortage?</small>
 
 
-| 🔥: 55 \| 💬: [24](https://news.ycombinator.com/item?id=43925325) \| 🗓️ 2025-05-08
+| 🔥: 57 \| 💬: [24](https://news.ycombinator.com/item?id=43925325) \| 🗓️ 2025-05-08
 
 
 <br />
@@ -312,7 +324,7 @@ FractalU是一个由纽约市客厅课堂组成的**成人学校**，已开设10
 
 ---
 
-## <a name="24"></a>24. 扎克伯格再抛“AI读心术”噱头：广告商的幻觉游戏 
+## <a name="25"></a>25. 扎克伯格再抛“AI读心术”噱头：广告商的幻觉游戏 
 <small>🔗 [pluralistic.net](https://pluralistic.net/2025/05/07/rah-rah-rasputin/#credulous-dolts): Mark Zuckerberg announces mind-control</small>
 
 
