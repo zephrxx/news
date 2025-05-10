@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [home.cern](https://www.home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc): ALICE detects the conversion of lead into gold at the LHC</small>
 
 
-| 🔥🔥: 478 \| 💬: [253](https://news.ycombinator.com/item?id=43937214) \| 🗓️ 2025-05-09
+| 🔥🔥: 487 \| 💬: [256](https://news.ycombinator.com/item?id=43937214) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [w3.org](https://www.w3.org/TR/wasm-core-2/): WASM 2.0</small>
 
 
-| 🔥🔥: 301 \| 💬: [129](https://news.ycombinator.com/item?id=43934711) \| 🗓️ 2025-05-09
+| 🔥🔥: 302 \| 💬: [131](https://news.ycombinator.com/item?id=43934711) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -55,7 +55,7 @@ Wasm 2.0 基于虚拟指令集架构（**虚拟 ISA**），提供四种基础数
 <small>🔗 [nrkno.github.io](https://nrkno.github.io/sofie-core/): Sofie: open-source web based system for automating live TV news production</small>
 
 
-| 🔥🔥: 267 \| 💬: [35](https://news.ycombinator.com/item?id=43936408) \| 🗓️ 2025-05-09
+| 🔥🔥: 274 \| 💬: [35](https://news.ycombinator.com/item?id=43936408) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -67,7 +67,7 @@ Sofie 是一款**开源**的网页端系统，专为**自动化电视新闻直�
 <small>🔗 [hyvector.com](https://www.hyvector.com): Show HN: Hyvector – A fast and modern SVG editor</small>
 
 
-| 🔥🔥: 243 \| 💬: [64](https://news.ycombinator.com/item?id=43935394) \| 🗓️ 2025-05-09
+| 🔥🔥: 247 \| 💬: [65](https://news.ycombinator.com/item?id=43935394) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -79,7 +79,7 @@ Hyvector是一款**快速**且**现代化**的SVG编辑器，但需要**启用Ja
 <small>🔗 [nietras.com](https://nietras.com/2025/05/09/sep-0-10-0/): 21 GB/s CSV Parsing Using SIMD on AMD 9950X</small>
 
 
-| 🔥🔥: 243 \| 💬: [120](https://news.ycombinator.com/item?id=43936592) \| 🗓️ 2025-05-09
+| 🔥🔥: 246 \| 💬: [125](https://news.ycombinator.com/item?id=43936592) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -91,7 +91,7 @@ Hyvector是一款**快速**且**现代化**的SVG编辑器，但需要**启用Ja
 <small>🔗 [itter.sh](https://www.itter.sh/): Itter.sh – Micro-Blogging via Terminal</small>
 
 
-| 🔥🔥: 195 \| 💬: [60](https://news.ycombinator.com/item?id=43936884) \| 🗓️ 2025-05-09
+| 🔥🔥: 201 \| 💬: [62](https://news.ycombinator.com/item?id=43936884) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -99,47 +99,11 @@ itter.sh是一款**纯终端操作**的微博客工具，通过SSH直接访问�
 
 ---
 
-## <a name="7"></a>7. 亚马逊Vulcan机器人仓储效率超越人类 
-<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/amazon-stowing-robots): Amazon's Vulcan Robots Now Stow Items Faster Than Humans</small>
-
-
-| 🔥🔥: 187 \| 💬: [254](https://news.ycombinator.com/item?id=43935586) \| 🗓️ 2025-05-09
-
-
-<br />
-亚马逊在德国仓库测试的**Vulcan机器人**已实现比人类更快的物品存储速度。与行业普遍关注分拣技术不同，亚马逊重点攻克了**仓储装箱**这一技术难题。IEEE Spectrum报道称，该突破由机器人编辑Evan Ackerman跟踪披露，凸显了亚马逊在**物流自动化**领域的领先优势。
-
----
-
-## <a name="8"></a>8. Aberdeen：一种优雅的响应式UI开发方案 
-<small>🔗 [aberdeenjs.org](https://aberdeenjs.org/): Show HN: Aberdeen – An elegant approach to reactive UIs</small>
-
-
-| 🔥🔥: 183 \| 💬: [101](https://news.ycombinator.com/item?id=43936097) \| 🗓️ 2025-05-09
-
-
-<br />
-Aberdeen是一个基于纯TypeScript/JavaScript的**轻量级UI框架**（约5KB），无需虚拟DOM即可构建**声明式**且高性能的界面。其核心通过**代理数据**自动触发匿名函数更新DOM，支持复杂数据结构，并内置路由、CSS局部作用域等实用功能。优势包括代码简洁、无构建步骤、极速渲染，但生态和社区尚不成熟。示例展示了井字棋实现，凸显其直观的响应式编程风格。
-
----
-
-## <a name="9"></a>9. BART全线列车因网络故障停运 
-<small>🔗 [kqed.org](https://www.kqed.org/news/12039472/bart-shuts-down-entire-train-service-due-to-computer-networking-problem): All BART trains were stopped due to ‘computer networking problem’</small>
-
-
-| 🔥🔥: 177 \| 💬: [143](https://news.ycombinator.com/item?id=43937242) \| 🗓️ 2025-05-09
-
-
-<br />
-由于**计算机联网问题**，BART（湾区捷运）系统所有列车服务已暂停，恢复时间待定。乘客需**寻找替代交通工具**。此次故障影响范围覆盖整个运营网络，建议出行者及时调整行程安排。
-
----
-
-## <a name="10"></a>10. Rust的依赖问题让我感到担忧 
+## <a name="7"></a>7. Rust的依赖问题让我感到担忧 
 <small>🔗 [vincents.dev](https://vincents.dev/blog/rust-dependencies-scare-me/?): Rust’s dependencies are starting to worry me</small>
 
 
-| 🔥🔥: 175 \| 💬: [225](https://news.ycombinator.com/item?id=43935067) \| 🗓️ 2025-05-09
+| 🔥🔥: 194 \| 💬: [239](https://news.ycombinator.com/item?id=43935067) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -147,11 +111,47 @@ Aberdeen是一个基于纯TypeScript/JavaScript的**轻量级UI框架**（约5KB
 
 ---
 
+## <a name="8"></a>8. 亚马逊Vulcan机器人仓储效率超越人类 
+<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/amazon-stowing-robots): Amazon's Vulcan Robots Now Stow Items Faster Than Humans</small>
+
+
+| 🔥🔥: 187 \| 💬: [257](https://news.ycombinator.com/item?id=43935586) \| 🗓️ 2025-05-09
+
+
+<br />
+亚马逊在德国仓库测试的**Vulcan机器人**已实现比人类更快的物品存储速度。与行业普遍关注分拣技术不同，亚马逊重点攻克了**仓储装箱**这一技术难题。IEEE Spectrum报道称，该突破由机器人编辑Evan Ackerman跟踪披露，凸显了亚马逊在**物流自动化**领域的领先优势。
+
+---
+
+## <a name="9"></a>9. Aberdeen：一种优雅的响应式UI开发方案 
+<small>🔗 [aberdeenjs.org](https://aberdeenjs.org/): Show HN: Aberdeen – An elegant approach to reactive UIs</small>
+
+
+| 🔥🔥: 187 \| 💬: [101](https://news.ycombinator.com/item?id=43936097) \| 🗓️ 2025-05-09
+
+
+<br />
+Aberdeen是一个基于纯TypeScript/JavaScript的**轻量级UI框架**（约5KB），无需虚拟DOM即可构建**声明式**且高性能的界面。其核心通过**代理数据**自动触发匿名函数更新DOM，支持复杂数据结构，并内置路由、CSS局部作用域等实用功能。优势包括代码简洁、无构建步骤、极速渲染，但生态和社区尚不成熟。示例展示了井字棋实现，凸显其直观的响应式编程风格。
+
+---
+
+## <a name="10"></a>10. BART全线列车因网络故障停运 
+<small>🔗 [kqed.org](https://www.kqed.org/news/12039472/bart-shuts-down-entire-train-service-due-to-computer-networking-problem): All BART trains were stopped due to ‘computer networking problem’</small>
+
+
+| 🔥🔥: 181 \| 💬: [150](https://news.ycombinator.com/item?id=43937242) \| 🗓️ 2025-05-09
+
+
+<br />
+由于**计算机联网问题**，BART（湾区捷运）系统所有列车服务已暂停，恢复时间待定。乘客需**寻找替代交通工具**。此次故障影响范围覆盖整个运营网络，建议出行者及时调整行程安排。
+
+---
+
 ## <a name="11"></a>11. 被ICE"消失"男子现身萨尔瓦多航班名单 黑客数据揭露矛盾 
 <small>🔗 [404media.co](https://www.404media.co/man-disappeared-by-ice-was-on-el-salvador-flight-manifest-hacked-data-shows/): Man 'Disappeared' by ICE Was on El Salvador Flight Manifest, Hacked Data Shows</small>
 
 
-| 🔥🔥: 172 \| 💬: [66](https://news.ycombinator.com/item?id=43939006) \| 🗓️ 2025-05-09
+| 🔥🔥: 178 \| 💬: [68](https://news.ycombinator.com/item?id=43939006) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -163,7 +163,7 @@ Aberdeen是一个基于纯TypeScript/JavaScript的**轻量级UI框架**（约5KB
 <small>🔗 [cryptpad.org](https://cryptpad.org/): CryptPad: An Alternative to the Google Suite</small>
 
 
-| 🔥🔥: 151 \| 💬: [56](https://news.ycombinator.com/item?id=43935707) \| 🗓️ 2025-05-09
+| 🔥🔥: 157 \| 💬: [61](https://news.ycombinator.com/item?id=43935707) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -175,7 +175,7 @@ CryptPad 是一款**端到端加密**、**开源**的在线协作办公套件，
 <small>🔗 [news.harvard.edu](https://news.harvard.edu/gazette/story/2025/05/era-of-u-s-dollar-may-be-winding-down/): Era of U.S. dollar may be winding down</small>
 
 
-| 🔥🔥: 146 \| 💬: [189](https://news.ycombinator.com/item?id=43940865) \| 🗓️ 2025-05-09
+| 🔥🔥: 154 \| 💬: [202](https://news.ycombinator.com/item?id=43940865) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -187,7 +187,7 @@ CryptPad 是一款**端到端加密**、**开源**的在线协作办公套件，
 <small>🔗 [brevzin.github.io](https://brevzin.github.io/c++/2025/05/02/soa/): Implementing a Struct of Arrays</small>
 
 
-| 🔥🔥: 112 \| 💬: [43](https://news.ycombinator.com/item?id=43935434) \| 🗓️ 2025-05-09
+| 🔥🔥: 113 \| 💬: [43](https://news.ycombinator.com/item?id=43935434) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -195,23 +195,11 @@ CryptPad 是一款**端到端加密**、**开源**的在线协作办公套件，
 
 ---
 
-## <a name="15"></a>15. Sorbet类型语法的过去、现在与未来 
-<small>🔗 [blog.jez.io](https://blog.jez.io/history-of-sorbet-syntax/): Past, present, and future of Sorbet type syntax</small>
-
-
-| 🔥🔥: 106 \| 💬: [69](https://news.ycombinator.com/item?id=43938400) \| 🗓️ 2025-05-09
-
-
-<br />
-Sorbet的类型语法常被诟病**冗长、不美观**，但作者强调**语义比语法更重要**——类型是帮助开发者将思维转化为代码的“纠错机制”。Sorbet诞生于Stripe工程师对Ruby代码库**静态类型检查**的强烈需求，其语法设计经历了多次迭代，权衡了兼容性（如避免强制构建步骤）与表达力。未来可能优化语法，但核心目标始终是**兼顾静态与运行时类型安全**，而非迎合审美偏好。
-
----
-
-## <a name="16"></a>16. Swift 6.2 新特性速览 
+## <a name="15"></a>15. Swift 6.2 新特性速览 
 <small>🔗 [hackingwithswift.com](https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2): What’s new in Swift 6.2</small>
 
 
-| 🔥🔥: 102 \| 💬: [69](https://news.ycombinator.com/item?id=43940539) \| 🗓️ 2025-05-09
+| 🔥🔥: 112 \| 💬: [90](https://news.ycombinator.com/item?id=43940539) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -219,11 +207,23 @@ Swift 6.2 带来了多项重要更新：**默认主线程隔离**简化并发编
 
 ---
 
+## <a name="16"></a>16. Sorbet类型语法的过去、现在与未来 
+<small>🔗 [blog.jez.io](https://blog.jez.io/history-of-sorbet-syntax/): Past, present, and future of Sorbet type syntax</small>
+
+
+| 🔥🔥: 108 \| 💬: [71](https://news.ycombinator.com/item?id=43938400) \| 🗓️ 2025-05-09
+
+
+<br />
+Sorbet的类型语法常被诟病**冗长、不美观**，但作者强调**语义比语法更重要**——类型是帮助开发者将思维转化为代码的“纠错机制”。Sorbet诞生于Stripe工程师对Ruby代码库**静态类型检查**的强烈需求，其语法设计经历了多次迭代，权衡了兼容性（如避免强制构建步骤）与表达力。未来可能优化语法，但核心目标始终是**兼顾静态与运行时类型安全**，而非迎合审美偏好。
+
+---
+
 ## <a name="17"></a>17. 特斯拉"Robotaxi"商标申请被拒：名称过于描述性 
 <small>🔗 [arstechnica.com](https://arstechnica.com/cars/2025/05/robotaxi-and-cybercab-are-too-unoriginal-to-trademark-uspto-tells-tesla/): USPTO refuses Tesla Robotaxi trademark as "merely descriptive"</small>
 
 
-| 🔥: 92 \| 💬: [71](https://news.ycombinator.com/item?id=43936198) \| 🗓️ 2025-05-09
+| 🔥: 94 \| 💬: [72](https://news.ycombinator.com/item?id=43936198) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -235,7 +235,7 @@ Swift 6.2 带来了多项重要更新：**默认主线程隔离**简化并发编
 <small>🔗 [unibocconi.it](https://www.unibocconi.it/en/news/network-conclave): In the Network of the Conclav: How we "guessed" the Pope using network science</small>
 
 
-| 🔥: 91 \| 💬: [63](https://news.ycombinator.com/item?id=43939419) \| 🗓️ 2025-05-09
+| 🔥: 91 \| 💬: [64](https://news.ycombinator.com/item?id=43939419) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -243,7 +243,31 @@ Swift 6.2 带来了多项重要更新：**默认主线程隔离**简化并发编
 
 ---
 
-## <a name="19"></a>19. 37signals告别AWS：完成S3迁移并预计节省1000万美元 
+## <a name="19"></a>19. 商业书籍只是娱乐，而非战略工具 
+<small>🔗 [theorthagonist.substack.com](https://theorthagonist.substack.com/p/why-reading-business-books-is-a-waste): Business books are entertainment, not strategic tools</small>
+
+
+| 🔥: 86 \| 💬: [36](https://news.ycombinator.com/item?id=43940747) \| 🗓️ 2025-05-09
+
+
+<br />
+大多数商业书籍追求**情感共鸣**而非严谨思考，将复杂市场简化为励志口号。例如，《从0到1》夸大垄断价值却忽略现实中的迭代过程；《每周工作4小时》将边缘案例包装成普适真理。真正的商业智慧来自**实战经验**和系统学习（如波特《竞争战略》），而非快餐式成功学。作者以自身量化分析背景强调：**细节执行**和持续优化比空洞理论更重要。
+
+---
+
+## <a name="20"></a>20. 美国前最高法院大法官戴维·苏特逝世，享年85岁 
+<small>🔗 [npr.org](https://www.npr.org/2025/05/09/g-s1-65326/justice-david-souter-dies): Former Supreme Court justice David Souter has died</small>
+
+
+| 🔥: 85 \| 💬: [44](https://news.ycombinator.com/item?id=43937750) \| 🗓️ 2025-05-09
+
+
+<br />
+**戴维·苏特**于5月9日在新罕布什尔州的家中去世，享年85岁。他由**老布什总统**任命，1990年进入最高法院，任职近20年。尽管被预期为保守派，苏特却逐渐转向**自由派阵营**，成为“意外的大法官”。他拒绝现代科技，坚持手写法律意见，并厌恶华盛顿生活，常年返回家乡新罕布什尔州。首席大法官罗伯茨称赞他“以非凡智慧与仁慈奉献公共服务”。
+
+---
+
+## <a name="21"></a>21. 37signals告别AWS：完成S3迁移并预计节省1000万美元 
 <small>🔗 [systemadministration.net](https://systemadministration.net/37signals-says-goodbye-to-aws-full-s3-migration-and-10m-in-projected-savings/): 37signals Says Goodbye to AWS: Full S3 Migration and $10M in Projected Savings</small>
 
 
@@ -255,19 +279,7 @@ Swift 6.2 带来了多项重要更新：**默认主线程隔离**简化并发编
 
 ---
 
-## <a name="20"></a>20. 美国前最高法院大法官戴维·苏特逝世，享年85岁 
-<small>🔗 [npr.org](https://www.npr.org/2025/05/09/g-s1-65326/justice-david-souter-dies): Former Supreme Court justice David Souter has died</small>
-
-
-| 🔥: 84 \| 💬: [44](https://news.ycombinator.com/item?id=43937750) \| 🗓️ 2025-05-09
-
-
-<br />
-**戴维·苏特**于5月9日在新罕布什尔州的家中去世，享年85岁。他由**老布什总统**任命，1990年进入最高法院，任职近20年。尽管被预期为保守派，苏特却逐渐转向**自由派阵营**，成为“意外的大法官”。他拒绝现代科技，坚持手写法律意见，并厌恶华盛顿生活，常年返回家乡新罕布什尔州。首席大法官罗伯茨称赞他“以非凡智慧与仁慈奉献公共服务”。
-
----
-
-## <a name="21"></a>21. Oliphaunt：专为macOS打造的Mastodon原生客户端 
+## <a name="22"></a>22. Oliphaunt：专为macOS打造的Mastodon原生客户端 
 <small>🔗 [testflight.apple.com](https://testflight.apple.com/join/Epq1P3Cw): Show HN: Oliphaunt – A native Mastodon client for macOS</small>
 
 
@@ -279,11 +291,11 @@ Swift 6.2 带来了多项重要更新：**默认主线程隔离**简化并发编
 
 ---
 
-## <a name="22"></a>22. Linux内核的PGP信任网络现状与挑战 
+## <a name="23"></a>23. Linux内核的PGP信任网络现状与挑战 
 <small>🔗 [blog.kleine-koenig.org](https://blog.kleine-koenig.org/ukl/the-linux-kernels-pgp-web-of-trust.html): The Linux Kernel's PGP Web of Trust</small>
 
 
-| 🔥: 77 \| 💬: [12](https://news.ycombinator.com/item?id=43935356) \| 🗓️ 2025-05-09
+| 🔥: 78 \| 💬: [12](https://news.ycombinator.com/item?id=43935356) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -291,11 +303,11 @@ Linux内核开发依赖**PGP签名**机制，维护者需通过签名标签向Li
 
 ---
 
-## <a name="23"></a>23. 大上科技Paperlike 13K：13.3英寸彩色电子墨水屏显示器 
+## <a name="24"></a>24. 大上科技Paperlike 13K：13.3英寸彩色电子墨水屏显示器 
 <small>🔗 [liliputing.com](https://liliputing.com/dasung-paperlike-13k-is-a-13-3-inch-e-ink-color-monitor-crowdfunding/): Dasung Paperlike 13K is a 13.3 inch E Ink color monitor</small>
 
 
-| 🔥: 73 \| 💬: [55](https://news.ycombinator.com/item?id=43936813) \| 🗓️ 2025-05-09
+| 🔥: 74 \| 💬: [55](https://news.ycombinator.com/item?id=43936813) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -303,7 +315,7 @@ Linux内核开发依赖**PGP签名**机制，维护者需通过签名标签向Li
 
 ---
 
-## <a name="24"></a>24. Python异步编程解析：async/await工作原理（2021） 
+## <a name="25"></a>25. Python异步编程解析：async/await工作原理（2021） 
 <small>🔗 [tenthousandmeters.com](https://tenthousandmeters.com/blog/python-behind-the-scenes-12-how-asyncawait-works-in-python/): How async/await works in Python (2021)</small>
 
 
