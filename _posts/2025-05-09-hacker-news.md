@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [home.cern](https://www.home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc): ALICE detects the conversion of lead into gold at the LHC</small>
 
 
-| 🔥🔥: 453 \| 💬: [239](https://news.ycombinator.com/item?id=43937214) \| 🗓️ 2025-05-09
+| 🔥🔥: 468 \| 💬: [249](https://news.ycombinator.com/item?id=43937214) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [w3.org](https://www.w3.org/TR/wasm-core-2/): WASM 2.0</small>
 
 
-| 🔥🔥: 293 \| 💬: [124](https://news.ycombinator.com/item?id=43934711) \| 🗓️ 2025-05-09
+| 🔥🔥: 298 \| 💬: [128](https://news.ycombinator.com/item?id=43934711) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -55,7 +55,7 @@ Wasm 2.0 基于虚拟指令集架构（**虚拟 ISA**），提供四种基础数
 <small>🔗 [nrkno.github.io](https://nrkno.github.io/sofie-core/): Sofie: open-source web based system for automating live TV news production</small>
 
 
-| 🔥🔥: 251 \| 💬: [32](https://news.ycombinator.com/item?id=43936408) \| 🗓️ 2025-05-09
+| 🔥🔥: 259 \| 💬: [35](https://news.ycombinator.com/item?id=43936408) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -67,7 +67,7 @@ Sofie 是一款**开源**的网页端系统，专为**自动化电视新闻直�
 <small>🔗 [nietras.com](https://nietras.com/2025/05/09/sep-0-10-0/): 21 GB/s CSV Parsing Using SIMD on AMD 9950X</small>
 
 
-| 🔥🔥: 229 \| 💬: [111](https://news.ycombinator.com/item?id=43936592) \| 🗓️ 2025-05-09
+| 🔥🔥: 239 \| 💬: [112](https://news.ycombinator.com/item?id=43936592) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -79,7 +79,7 @@ Sofie 是一款**开源**的网页端系统，专为**自动化电视新闻直�
 <small>🔗 [hyvector.com](https://www.hyvector.com): Show HN: Hyvector – A fast and modern SVG editor</small>
 
 
-| 🔥🔥: 228 \| 💬: [59](https://news.ycombinator.com/item?id=43935394) \| 🗓️ 2025-05-09
+| 🔥🔥: 238 \| 💬: [61](https://news.ycombinator.com/item?id=43935394) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -91,7 +91,7 @@ Hyvector是一款**快速**且**现代化**的SVG编辑器，但需要**启用Ja
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/amazon-stowing-robots): Amazon's Vulcan Robots Now Stow Items Faster Than Humans</small>
 
 
-| 🔥🔥: 183 \| 💬: [249](https://news.ycombinator.com/item?id=43935586) \| 🗓️ 2025-05-09
+| 🔥🔥: 187 \| 💬: [253](https://news.ycombinator.com/item?id=43935586) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -103,7 +103,7 @@ Hyvector是一款**快速**且**现代化**的SVG编辑器，但需要**启用Ja
 <small>🔗 [itter.sh](https://www.itter.sh/): Itter.sh – Micro-Blogging via Terminal</small>
 
 
-| 🔥🔥: 176 \| 💬: [59](https://news.ycombinator.com/item?id=43936884) \| 🗓️ 2025-05-09
+| 🔥🔥: 187 \| 💬: [59](https://news.ycombinator.com/item?id=43936884) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -115,7 +115,7 @@ itter.sh是一款**纯终端操作**的微博客工具，通过SSH直接访问�
 <small>🔗 [aberdeenjs.org](https://aberdeenjs.org/): Show HN: Aberdeen – An elegant approach to reactive UIs</small>
 
 
-| 🔥🔥: 167 \| 💬: [98](https://news.ycombinator.com/item?id=43936097) \| 🗓️ 2025-05-09
+| 🔥🔥: 178 \| 💬: [99](https://news.ycombinator.com/item?id=43936097) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -123,23 +123,11 @@ Aberdeen是一个基于纯TypeScript/JavaScript的**轻量级UI框架**（约5KB
 
 ---
 
-## <a name="9"></a>9. 被ICE"消失"男子现身萨尔瓦多航班名单 黑客数据揭露矛盾 
-<small>🔗 [404media.co](https://www.404media.co/man-disappeared-by-ice-was-on-el-salvador-flight-manifest-hacked-data-shows/): Man 'Disappeared' by ICE Was on El Salvador Flight Manifest, Hacked Data Shows</small>
-
-
-| 🔥🔥: 165 \| 💬: [64](https://news.ycombinator.com/item?id=43939006) \| 🗓️ 2025-05-09
-
-
-<br />
-黑客获取的航空公司数据显示，委内瑞拉男子**Ricardo Prada Vásquez**（其家属称遭"强迫失踪"）出现在3月15日飞往萨尔瓦多的包机名单上，而此前政府否认其被遣送至该国。这暴露了**政府记录与私营航空公司数据的严重出入**，引发对ICE（移民海关执法局）**遣送程序透明度**的质疑。维权组织指出，当局甚至未准确记录被遣送者去向，可能有多人同样"失踪"。专家警告萨尔瓦多 mega prison（大型监狱）如同"黑洞"，进一步加剧家属担忧。
-
----
-
-## <a name="10"></a>10. BART全线列车因网络故障停运 
+## <a name="9"></a>9. BART全线列车因网络故障停运 
 <small>🔗 [kqed.org](https://www.kqed.org/news/12039472/bart-shuts-down-entire-train-service-due-to-computer-networking-problem): All BART trains were stopped due to ‘computer networking problem’</small>
 
 
-| 🔥🔥: 161 \| 💬: [124](https://news.ycombinator.com/item?id=43937242) \| 🗓️ 2025-05-09
+| 🔥🔥: 171 \| 💬: [138](https://news.ycombinator.com/item?id=43937242) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -147,23 +135,23 @@ Aberdeen是一个基于纯TypeScript/JavaScript的**轻量级UI框架**（约5KB
 
 ---
 
-## <a name="11"></a>11. CryptPad：谷歌办公套件的隐私优先替代方案 
-<small>🔗 [cryptpad.org](https://cryptpad.org/): CryptPad: An Alternative to the Google Suite</small>
+## <a name="10"></a>10. 被ICE"消失"男子现身萨尔瓦多航班名单 黑客数据揭露矛盾 
+<small>🔗 [404media.co](https://www.404media.co/man-disappeared-by-ice-was-on-el-salvador-flight-manifest-hacked-data-shows/): Man 'Disappeared' by ICE Was on El Salvador Flight Manifest, Hacked Data Shows</small>
 
 
-| 🔥🔥: 135 \| 💬: [47](https://news.ycombinator.com/item?id=43935707) \| 🗓️ 2025-05-09
+| 🔥🔥: 167 \| 💬: [65](https://news.ycombinator.com/item?id=43939006) \| 🗓️ 2025-05-09
 
 
 <br />
-CryptPad 是一款**端到端加密**、**开源**的在线协作办公套件，提供文档、表格、看板等工具，支持实时编辑与文件共享。用户无需注册即可访问共享内容，且数据**完全匿名**，避免被追踪。众多用户称赞其易用性、跨平台兼容性及隐私保护能力，尤其适合教育、非营利组织及注重数据安全的团队。作为谷歌文档的替代品，它在功能不缩水的前提下，真正实现了隐私与协作的平衡。
+黑客获取的航空公司数据显示，委内瑞拉男子**Ricardo Prada Vásquez**（其家属称遭"强迫失踪"）出现在3月15日飞往萨尔瓦多的包机名单上，而此前政府否认其被遣送至该国。这暴露了**政府记录与私营航空公司数据的严重出入**，引发对ICE（移民海关执法局）**遣送程序透明度**的质疑。维权组织指出，当局甚至未准确记录被遣送者去向，可能有多人同样"失踪"。专家警告萨尔瓦多 mega prison（大型监狱）如同"黑洞"，进一步加剧家属担忧。
 
 ---
 
-## <a name="12"></a>12. Rust的依赖问题让我感到担忧 
+## <a name="11"></a>11. Rust的依赖问题让我感到担忧 
 <small>🔗 [vincents.dev](https://vincents.dev/blog/rust-dependencies-scare-me/?): Rust’s dependencies are starting to worry me</small>
 
 
-| 🔥🔥: 127 \| 💬: [178](https://news.ycombinator.com/item?id=43935067) \| 🗓️ 2025-05-09
+| 🔥🔥: 155 \| 💬: [207](https://news.ycombinator.com/item?id=43935067) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -171,23 +159,23 @@ CryptPad 是一款**端到端加密**、**开源**的在线协作办公套件，
 
 ---
 
-## <a name="13"></a>13. 实现结构体数组的高效存储方案 
-<small>🔗 [brevzin.github.io](https://brevzin.github.io/c++/2025/05/02/soa/): Implementing a Struct of Arrays</small>
+## <a name="12"></a>12. CryptPad：谷歌办公套件的隐私优先替代方案 
+<small>🔗 [cryptpad.org](https://cryptpad.org/): CryptPad: An Alternative to the Google Suite</small>
 
 
-| 🔥🔥: 110 \| 💬: [42](https://news.ycombinator.com/item?id=43935434) \| 🗓️ 2025-05-09
+| 🔥🔥: 142 \| 💬: [50](https://news.ycombinator.com/item?id=43935707) \| 🗓️ 2025-05-09
 
 
 <br />
-本文探讨了如何通过**结构体数组（SoA）**优化内存布局，提升性能。作者以Zig语言中的`MultiArrayList`为例，展示了将传统数组结构（AoS）转换为SoA的简洁方法。在C++26中，利用**反射机制**动态生成存储结构，分离不同成员到独立数组，同时保持统一的大小和容量管理。关键点包括：1) 使用`std::meta::define_aggregate`自动生成指针结构；2) 实现`push_back`和索引操作时处理多数组同步；3) 通过`PointRef`引用类型支持元素修改。这种方法显著减少了内存浪费，尤其适合需要高效访问特定成员字段的场景。
+CryptPad 是一款**端到端加密**、**开源**的在线协作办公套件，提供文档、表格、看板等工具，支持实时编辑与文件共享。用户无需注册即可访问共享内容，且数据**完全匿名**，避免被追踪。众多用户称赞其易用性、跨平台兼容性及隐私保护能力，尤其适合教育、非营利组织及注重数据安全的团队。作为谷歌文档的替代品，它在功能不缩水的前提下，真正实现了隐私与协作的平衡。
 
 ---
 
-## <a name="14"></a>14. 美元霸权时代或将走向终结 
+## <a name="13"></a>13. 美元霸权时代或将走向终结 
 <small>🔗 [news.harvard.edu](https://news.harvard.edu/gazette/story/2025/05/era-of-u-s-dollar-may-be-winding-down/): Era of U.S. dollar may be winding down</small>
 
 
-| 🔥🔥: 110 \| 💬: [145](https://news.ycombinator.com/item?id=43940865) \| 🗓️ 2025-05-09
+| 🔥🔥: 134 \| 💬: [177](https://news.ycombinator.com/item?id=43940865) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -195,11 +183,23 @@ CryptPad 是一款**端到端加密**、**开源**的在线协作办公套件，
 
 ---
 
+## <a name="14"></a>14. 实现结构体数组的高效存储方案 
+<small>🔗 [brevzin.github.io](https://brevzin.github.io/c++/2025/05/02/soa/): Implementing a Struct of Arrays</small>
+
+
+| 🔥🔥: 111 \| 💬: [43](https://news.ycombinator.com/item?id=43935434) \| 🗓️ 2025-05-09
+
+
+<br />
+本文探讨了如何通过**结构体数组（SoA）**优化内存布局，提升性能。作者以Zig语言中的`MultiArrayList`为例，展示了将传统数组结构（AoS）转换为SoA的简洁方法。在C++26中，利用**反射机制**动态生成存储结构，分离不同成员到独立数组，同时保持统一的大小和容量管理。关键点包括：1) 使用`std::meta::define_aggregate`自动生成指针结构；2) 实现`push_back`和索引操作时处理多数组同步；3) 通过`PointRef`引用类型支持元素修改。这种方法显著减少了内存浪费，尤其适合需要高效访问特定成员字段的场景。
+
+---
+
 ## <a name="15"></a>15. Sorbet类型语法的过去、现在与未来 
 <small>🔗 [blog.jez.io](https://blog.jez.io/history-of-sorbet-syntax/): Past, present, and future of Sorbet type syntax</small>
 
 
-| 🔥: 95 \| 💬: [66](https://news.ycombinator.com/item?id=43938400) \| 🗓️ 2025-05-09
+| 🔥🔥: 101 \| 💬: [68](https://news.ycombinator.com/item?id=43938400) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -211,7 +211,7 @@ Sorbet的类型语法常被诟病**冗长、不美观**，但作者强调**语�
 <small>🔗 [arstechnica.com](https://arstechnica.com/cars/2025/05/robotaxi-and-cybercab-are-too-unoriginal-to-trademark-uspto-tells-tesla/): USPTO refuses Tesla Robotaxi trademark as "merely descriptive"</small>
 
 
-| 🔥: 90 \| 💬: [66](https://news.ycombinator.com/item?id=43936198) \| 🗓️ 2025-05-09
+| 🔥: 92 \| 💬: [69](https://news.ycombinator.com/item?id=43936198) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -223,7 +223,7 @@ Sorbet的类型语法常被诟病**冗长、不美观**，但作者强调**语�
 <small>🔗 [unibocconi.it](https://www.unibocconi.it/en/news/network-conclave): In the Network of the Conclav: How we "guessed" the Pope using network science</small>
 
 
-| 🔥: 89 \| 💬: [62](https://news.ycombinator.com/item?id=43939419) \| 🗓️ 2025-05-09
+| 🔥: 91 \| 💬: [62](https://news.ycombinator.com/item?id=43939419) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -231,7 +231,19 @@ Sorbet的类型语法常被诟病**冗长、不美观**，但作者强调**语�
 
 ---
 
-## <a name="18"></a>18. 37signals告别AWS：完成S3迁移并预计节省1000万美元 
+## <a name="18"></a>18. Swift 6.2 新特性速览 
+<small>🔗 [hackingwithswift.com](https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2): What's New in Swift 6.2?</small>
+
+
+| 🔥: 87 \| 💬: [50](https://news.ycombinator.com/item?id=43940539) \| 🗓️ 2025-05-09
+
+
+<br />
+Swift 6.2 带来了多项重要更新：**默认主线程隔离**简化并发编程，开发者可通过编译器标志统一标注代码运行于主线程；**原始标识符**支持特殊字符命名（如枚举值直接使用数字）；**字符串插值默认值**优化可选值处理，允许为 `nil` 提供类型灵活的默认值。此外，`enumerated()` 现支持 `Collection` 协议，方法键路径扩展至函数调用，并新增 **内存安全检查** 和 **调用栈追踪** 工具，进一步提升开发效率与安全性。
+
+---
+
+## <a name="19"></a>19. 37signals告别AWS：完成S3迁移并预计节省1000万美元 
 <small>🔗 [systemadministration.net](https://systemadministration.net/37signals-says-goodbye-to-aws-full-s3-migration-and-10m-in-projected-savings/): 37signals Says Goodbye to AWS: Full S3 Migration and $10M in Projected Savings</small>
 
 
@@ -243,11 +255,11 @@ Sorbet的类型语法常被诟病**冗长、不美观**，但作者强调**语�
 
 ---
 
-## <a name="19"></a>19. 美国前最高法院大法官戴维·苏特逝世，享年85岁 
+## <a name="20"></a>20. 美国前最高法院大法官戴维·苏特逝世，享年85岁 
 <small>🔗 [npr.org](https://www.npr.org/2025/05/09/g-s1-65326/justice-david-souter-dies): Former Supreme Court justice David Souter has died</small>
 
 
-| 🔥: 81 \| 💬: [42](https://news.ycombinator.com/item?id=43937750) \| 🗓️ 2025-05-09
+| 🔥: 82 \| 💬: [43](https://news.ycombinator.com/item?id=43937750) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -255,11 +267,11 @@ Sorbet的类型语法常被诟病**冗长、不美观**，但作者强调**语�
 
 ---
 
-## <a name="20"></a>20. Linux内核的PGP信任网络现状与挑战 
+## <a name="21"></a>21. Linux内核的PGP信任网络现状与挑战 
 <small>🔗 [blog.kleine-koenig.org](https://blog.kleine-koenig.org/ukl/the-linux-kernels-pgp-web-of-trust.html): The Linux Kernel's PGP Web of Trust</small>
 
 
-| 🔥: 76 \| 💬: [12](https://news.ycombinator.com/item?id=43935356) \| 🗓️ 2025-05-09
+| 🔥: 77 \| 💬: [12](https://news.ycombinator.com/item?id=43935356) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -267,23 +279,11 @@ Linux内核开发依赖**PGP签名**机制，维护者需通过签名标签向Li
 
 ---
 
-## <a name="21"></a>21. 大上科技Paperlike 13K：13.3英寸彩色电子墨水屏显示器 
-<small>🔗 [liliputing.com](https://liliputing.com/dasung-paperlike-13k-is-a-13-3-inch-e-ink-color-monitor-crowdfunding/): Dasung Paperlike 13K is a 13.3 inch E Ink color monitor</small>
-
-
-| 🔥: 72 \| 💬: [55](https://news.ycombinator.com/item?id=43936813) \| 🗓️ 2025-05-09
-
-
-<br />
-大上科技推出**Paperlike 13K**，这是一款13.3英寸彩色电子墨水屏显示器，分辨率为3200×2400，**灰度显示精度达300ppi**（彩色模式下降至150ppi）。支持37Hz刷新率，但高刷新率可能影响画质。预售价749美元（黑白版679美元），配备USB-C/HDMI接口、触控及反向触控功能，内置扬声器，附赠便携支架和磁吸保护套。采用**E Ink Kaleido 3面板**，色彩较淡且无背光（彩色版有前光），兼容Windows/Linux/Android，暂不支持苹果设备。预计2025年5月中下旬发货。
-
----
-
 ## <a name="22"></a>22. Oliphaunt：专为macOS打造的Mastodon原生客户端 
 <small>🔗 [testflight.apple.com](https://testflight.apple.com/join/Epq1P3Cw): Show HN: Oliphaunt – A native Mastodon client for macOS</small>
 
 
-| 🔥: 70 \| 💬: [26](https://news.ycombinator.com/item?id=43938530) \| 🗓️ 2025-05-09
+| 🔥: 76 \| 💬: [27](https://news.ycombinator.com/item?id=43938530) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -291,7 +291,19 @@ Linux内核开发依赖**PGP签名**机制，维护者需通过签名标签向Li
 
 ---
 
-## <a name="23"></a>23. Python异步编程解析：async/await工作原理（2021） 
+## <a name="23"></a>23. 大上科技Paperlike 13K：13.3英寸彩色电子墨水屏显示器 
+<small>🔗 [liliputing.com](https://liliputing.com/dasung-paperlike-13k-is-a-13-3-inch-e-ink-color-monitor-crowdfunding/): Dasung Paperlike 13K is a 13.3 inch E Ink color monitor</small>
+
+
+| 🔥: 73 \| 💬: [55](https://news.ycombinator.com/item?id=43936813) \| 🗓️ 2025-05-09
+
+
+<br />
+大上科技推出**Paperlike 13K**，这是一款13.3英寸彩色电子墨水屏显示器，分辨率为3200×2400，**灰度显示精度达300ppi**（彩色模式下降至150ppi）。支持37Hz刷新率，但高刷新率可能影响画质。预售价749美元（黑白版679美元），配备USB-C/HDMI接口、触控及反向触控功能，内置扬声器，附赠便携支架和磁吸保护套。采用**E Ink Kaleido 3面板**，色彩较淡且无背光（彩色版有前光），兼容Windows/Linux/Android，暂不支持苹果设备。预计2025年5月中下旬发货。
+
+---
+
+## <a name="24"></a>24. Python异步编程解析：async/await工作原理（2021） 
 <small>🔗 [tenthousandmeters.com](https://tenthousandmeters.com/blog/python-behind-the-scenes-12-how-asyncawait-works-in-python/): How async/await works in Python (2021)</small>
 
 
