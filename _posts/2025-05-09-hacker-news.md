@@ -11,8 +11,8 @@ tags:
 1. ALICE实验首次在LHC中实现铅到金的转化；
 1. WebAssembly 2.0 核心标准概述；
 1. Sofie：开源网页版电视新闻直播自动化系统；
-1. AMD 9950X实现21 GB/s的CSV解析：SIMD优化与性能突破；
 1. Hyvector：一款快速现代的SVG编辑器；
+1. AMD 9950X实现21 GB/s的CSV解析：SIMD优化与性能突破；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [home.cern](https://www.home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc): ALICE detects the conversion of lead into gold at the LHC</small>
 
 
-| 🔥🔥: 468 \| 💬: [249](https://news.ycombinator.com/item?id=43937214) \| 🗓️ 2025-05-09
+| 🔥🔥: 478 \| 💬: [253](https://news.ycombinator.com/item?id=43937214) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [w3.org](https://www.w3.org/TR/wasm-core-2/): WASM 2.0</small>
 
 
-| 🔥🔥: 298 \| 💬: [128](https://news.ycombinator.com/item?id=43934711) \| 🗓️ 2025-05-09
+| 🔥🔥: 301 \| 💬: [129](https://news.ycombinator.com/item?id=43934711) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -55,7 +55,7 @@ Wasm 2.0 基于虚拟指令集架构（**虚拟 ISA**），提供四种基础数
 <small>🔗 [nrkno.github.io](https://nrkno.github.io/sofie-core/): Sofie: open-source web based system for automating live TV news production</small>
 
 
-| 🔥🔥: 259 \| 💬: [35](https://news.ycombinator.com/item?id=43936408) \| 🗓️ 2025-05-09
+| 🔥🔥: 267 \| 💬: [35](https://news.ycombinator.com/item?id=43936408) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -63,23 +63,11 @@ Sofie 是一款**开源**的网页端系统，专为**自动化电视新闻直�
 
 ---
 
-## <a name="4"></a>4. AMD 9950X实现21 GB/s的CSV解析：SIMD优化与性能突破 
-<small>🔗 [nietras.com](https://nietras.com/2025/05/09/sep-0-10-0/): 21 GB/s CSV Parsing Using SIMD on AMD 9950X</small>
-
-
-| 🔥🔥: 239 \| 💬: [112](https://news.ycombinator.com/item?id=43936592) \| 🗓️ 2025-05-09
-
-
-<br />
-本文介绍了**Sep 0.10.0**如何通过**AVX-512指令集**在AMD 9950X（Zen 5）上实现惊人的21 GB/s CSV解析速度。通过优化.NET 9.0的机器代码生成，解决了掩码寄存器（mask registers）的低效问题，并对比了AVX-512与AVX2解析器的性能差异。最终，新开发的**AVX-512-to-256解析器**成功突破性能瓶颈，较上一代（Zen 3）提升1.6倍，展现了硬件与软件协同优化的巨大潜力。
-
----
-
-## <a name="5"></a>5. Hyvector：一款快速现代的SVG编辑器 
+## <a name="4"></a>4. Hyvector：一款快速现代的SVG编辑器 
 <small>🔗 [hyvector.com](https://www.hyvector.com): Show HN: Hyvector – A fast and modern SVG editor</small>
 
 
-| 🔥🔥: 238 \| 💬: [61](https://news.ycombinator.com/item?id=43935394) \| 🗓️ 2025-05-09
+| 🔥🔥: 243 \| 💬: [64](https://news.ycombinator.com/item?id=43935394) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -87,23 +75,23 @@ Hyvector是一款**快速**且**现代化**的SVG编辑器，但需要**启用Ja
 
 ---
 
-## <a name="6"></a>6. 亚马逊Vulcan机器人仓储效率超越人类 
-<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/amazon-stowing-robots): Amazon's Vulcan Robots Now Stow Items Faster Than Humans</small>
+## <a name="5"></a>5. AMD 9950X实现21 GB/s的CSV解析：SIMD优化与性能突破 
+<small>🔗 [nietras.com](https://nietras.com/2025/05/09/sep-0-10-0/): 21 GB/s CSV Parsing Using SIMD on AMD 9950X</small>
 
 
-| 🔥🔥: 187 \| 💬: [253](https://news.ycombinator.com/item?id=43935586) \| 🗓️ 2025-05-09
+| 🔥🔥: 243 \| 💬: [120](https://news.ycombinator.com/item?id=43936592) \| 🗓️ 2025-05-09
 
 
 <br />
-亚马逊在德国仓库测试的**Vulcan机器人**已实现比人类更快的物品存储速度。与行业普遍关注分拣技术不同，亚马逊重点攻克了**仓储装箱**这一技术难题。IEEE Spectrum报道称，该突破由机器人编辑Evan Ackerman跟踪披露，凸显了亚马逊在**物流自动化**领域的领先优势。
+本文介绍了**Sep 0.10.0**如何通过**AVX-512指令集**在AMD 9950X（Zen 5）上实现惊人的21 GB/s CSV解析速度。通过优化.NET 9.0的机器代码生成，解决了掩码寄存器（mask registers）的低效问题，并对比了AVX-512与AVX2解析器的性能差异。最终，新开发的**AVX-512-to-256解析器**成功突破性能瓶颈，较上一代（Zen 3）提升1.6倍，展现了硬件与软件协同优化的巨大潜力。
 
 ---
 
-## <a name="7"></a>7. Itter.sh：极简终端微博客平台 
+## <a name="6"></a>6. Itter.sh：极简终端微博客平台 
 <small>🔗 [itter.sh](https://www.itter.sh/): Itter.sh – Micro-Blogging via Terminal</small>
 
 
-| 🔥🔥: 187 \| 💬: [59](https://news.ycombinator.com/item?id=43936884) \| 🗓️ 2025-05-09
+| 🔥🔥: 195 \| 💬: [60](https://news.ycombinator.com/item?id=43936884) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -111,11 +99,23 @@ itter.sh是一款**纯终端操作**的微博客工具，通过SSH直接访问�
 
 ---
 
+## <a name="7"></a>7. 亚马逊Vulcan机器人仓储效率超越人类 
+<small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/amazon-stowing-robots): Amazon's Vulcan Robots Now Stow Items Faster Than Humans</small>
+
+
+| 🔥🔥: 187 \| 💬: [254](https://news.ycombinator.com/item?id=43935586) \| 🗓️ 2025-05-09
+
+
+<br />
+亚马逊在德国仓库测试的**Vulcan机器人**已实现比人类更快的物品存储速度。与行业普遍关注分拣技术不同，亚马逊重点攻克了**仓储装箱**这一技术难题。IEEE Spectrum报道称，该突破由机器人编辑Evan Ackerman跟踪披露，凸显了亚马逊在**物流自动化**领域的领先优势。
+
+---
+
 ## <a name="8"></a>8. Aberdeen：一种优雅的响应式UI开发方案 
 <small>🔗 [aberdeenjs.org](https://aberdeenjs.org/): Show HN: Aberdeen – An elegant approach to reactive UIs</small>
 
 
-| 🔥🔥: 178 \| 💬: [99](https://news.ycombinator.com/item?id=43936097) \| 🗓️ 2025-05-09
+| 🔥🔥: 183 \| 💬: [101](https://news.ycombinator.com/item?id=43936097) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -127,7 +127,7 @@ Aberdeen是一个基于纯TypeScript/JavaScript的**轻量级UI框架**（约5KB
 <small>🔗 [kqed.org](https://www.kqed.org/news/12039472/bart-shuts-down-entire-train-service-due-to-computer-networking-problem): All BART trains were stopped due to ‘computer networking problem’</small>
 
 
-| 🔥🔥: 171 \| 💬: [138](https://news.ycombinator.com/item?id=43937242) \| 🗓️ 2025-05-09
+| 🔥🔥: 177 \| 💬: [143](https://news.ycombinator.com/item?id=43937242) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -135,23 +135,11 @@ Aberdeen是一个基于纯TypeScript/JavaScript的**轻量级UI框架**（约5KB
 
 ---
 
-## <a name="10"></a>10. 被ICE"消失"男子现身萨尔瓦多航班名单 黑客数据揭露矛盾 
-<small>🔗 [404media.co](https://www.404media.co/man-disappeared-by-ice-was-on-el-salvador-flight-manifest-hacked-data-shows/): Man 'Disappeared' by ICE Was on El Salvador Flight Manifest, Hacked Data Shows</small>
-
-
-| 🔥🔥: 167 \| 💬: [65](https://news.ycombinator.com/item?id=43939006) \| 🗓️ 2025-05-09
-
-
-<br />
-黑客获取的航空公司数据显示，委内瑞拉男子**Ricardo Prada Vásquez**（其家属称遭"强迫失踪"）出现在3月15日飞往萨尔瓦多的包机名单上，而此前政府否认其被遣送至该国。这暴露了**政府记录与私营航空公司数据的严重出入**，引发对ICE（移民海关执法局）**遣送程序透明度**的质疑。维权组织指出，当局甚至未准确记录被遣送者去向，可能有多人同样"失踪"。专家警告萨尔瓦多 mega prison（大型监狱）如同"黑洞"，进一步加剧家属担忧。
-
----
-
-## <a name="11"></a>11. Rust的依赖问题让我感到担忧 
+## <a name="10"></a>10. Rust的依赖问题让我感到担忧 
 <small>🔗 [vincents.dev](https://vincents.dev/blog/rust-dependencies-scare-me/?): Rust’s dependencies are starting to worry me</small>
 
 
-| 🔥🔥: 155 \| 💬: [207](https://news.ycombinator.com/item?id=43935067) \| 🗓️ 2025-05-09
+| 🔥🔥: 175 \| 💬: [225](https://news.ycombinator.com/item?id=43935067) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -159,11 +147,23 @@ Aberdeen是一个基于纯TypeScript/JavaScript的**轻量级UI框架**（约5KB
 
 ---
 
+## <a name="11"></a>11. 被ICE"消失"男子现身萨尔瓦多航班名单 黑客数据揭露矛盾 
+<small>🔗 [404media.co](https://www.404media.co/man-disappeared-by-ice-was-on-el-salvador-flight-manifest-hacked-data-shows/): Man 'Disappeared' by ICE Was on El Salvador Flight Manifest, Hacked Data Shows</small>
+
+
+| 🔥🔥: 172 \| 💬: [66](https://news.ycombinator.com/item?id=43939006) \| 🗓️ 2025-05-09
+
+
+<br />
+黑客获取的航空公司数据显示，委内瑞拉男子**Ricardo Prada Vásquez**（其家属称遭"强迫失踪"）出现在3月15日飞往萨尔瓦多的包机名单上，而此前政府否认其被遣送至该国。这暴露了**政府记录与私营航空公司数据的严重出入**，引发对ICE（移民海关执法局）**遣送程序透明度**的质疑。维权组织指出，当局甚至未准确记录被遣送者去向，可能有多人同样"失踪"。专家警告萨尔瓦多 mega prison（大型监狱）如同"黑洞"，进一步加剧家属担忧。
+
+---
+
 ## <a name="12"></a>12. CryptPad：谷歌办公套件的隐私优先替代方案 
 <small>🔗 [cryptpad.org](https://cryptpad.org/): CryptPad: An Alternative to the Google Suite</small>
 
 
-| 🔥🔥: 142 \| 💬: [50](https://news.ycombinator.com/item?id=43935707) \| 🗓️ 2025-05-09
+| 🔥🔥: 151 \| 💬: [56](https://news.ycombinator.com/item?id=43935707) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -175,7 +175,7 @@ CryptPad 是一款**端到端加密**、**开源**的在线协作办公套件，
 <small>🔗 [news.harvard.edu](https://news.harvard.edu/gazette/story/2025/05/era-of-u-s-dollar-may-be-winding-down/): Era of U.S. dollar may be winding down</small>
 
 
-| 🔥🔥: 134 \| 💬: [177](https://news.ycombinator.com/item?id=43940865) \| 🗓️ 2025-05-09
+| 🔥🔥: 146 \| 💬: [189](https://news.ycombinator.com/item?id=43940865) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -187,7 +187,7 @@ CryptPad 是一款**端到端加密**、**开源**的在线协作办公套件，
 <small>🔗 [brevzin.github.io](https://brevzin.github.io/c++/2025/05/02/soa/): Implementing a Struct of Arrays</small>
 
 
-| 🔥🔥: 111 \| 💬: [43](https://news.ycombinator.com/item?id=43935434) \| 🗓️ 2025-05-09
+| 🔥🔥: 112 \| 💬: [43](https://news.ycombinator.com/item?id=43935434) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -199,7 +199,7 @@ CryptPad 是一款**端到端加密**、**开源**的在线协作办公套件，
 <small>🔗 [blog.jez.io](https://blog.jez.io/history-of-sorbet-syntax/): Past, present, and future of Sorbet type syntax</small>
 
 
-| 🔥🔥: 101 \| 💬: [68](https://news.ycombinator.com/item?id=43938400) \| 🗓️ 2025-05-09
+| 🔥🔥: 106 \| 💬: [69](https://news.ycombinator.com/item?id=43938400) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -207,35 +207,11 @@ Sorbet的类型语法常被诟病**冗长、不美观**，但作者强调**语�
 
 ---
 
-## <a name="16"></a>16. 特斯拉"Robotaxi"商标申请被拒：名称过于描述性 
-<small>🔗 [arstechnica.com](https://arstechnica.com/cars/2025/05/robotaxi-and-cybercab-are-too-unoriginal-to-trademark-uspto-tells-tesla/): USPTO refuses Tesla Robotaxi trademark as "merely descriptive"</small>
+## <a name="16"></a>16. Swift 6.2 新特性速览 
+<small>🔗 [hackingwithswift.com](https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2): What’s new in Swift 6.2</small>
 
 
-| 🔥: 92 \| 💬: [69](https://news.ycombinator.com/item?id=43936198) \| 🗓️ 2025-05-09
-
-
-<br />
-美国专利商标局（USPTO）驳回了特斯拉申请注册**"Robotaxi"**商标的请求，认为该术语**过于通用且缺乏独特性**，并引用维基百科、The Verge等来源佐证。特斯拉若想挑战这一决定，需提交详细产品差异证明，但竞争对手Zoox已使用相同名称。此外，特斯拉另一商标**"Cybercab"**也因与其他公司冲突被拒。该公司计划下月在奥斯汀测试无方向盘的双座自动驾驶车，但其FSD系统此前被曝每13英里需人工干预一次，安全性存疑。
-
----
-
-## <a name="17"></a>17. 网络科学如何"预测"新教皇：揭秘梵蒂冈权力图谱 
-<small>🔗 [unibocconi.it](https://www.unibocconi.it/en/news/network-conclave): In the Network of the Conclav: How we "guessed" the Pope using network science</small>
-
-
-| 🔥: 91 \| 💬: [62](https://news.ycombinator.com/item?id=43939419) \| 🗓️ 2025-05-09
-
-
-<br />
-博科尼大学团队运用**社会网络分析**研究枢机主教关系网，通过**官方共事记录**、**主教传承谱系**和**非正式联盟**构建三维模型。研究发现**地位中心性**、**信息控制力**和**联盟构建能力**是成为教皇候选人的关键因素，模型还纳入历史年龄偏好修正。虽然无法精确预测选举结果，但揭示了当前教廷核心人物（如帕罗林、拉格朗日等）的权力分布，表明**温和自由派**占据网络中心。研究者强调这仅是分析工具，最终选举仍受神圣性与多重变量影响。
-
----
-
-## <a name="18"></a>18. Swift 6.2 新特性速览 
-<small>🔗 [hackingwithswift.com](https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2): What's New in Swift 6.2?</small>
-
-
-| 🔥: 87 \| 💬: [50](https://news.ycombinator.com/item?id=43940539) \| 🗓️ 2025-05-09
+| 🔥🔥: 102 \| 💬: [69](https://news.ycombinator.com/item?id=43940539) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -243,11 +219,35 @@ Swift 6.2 带来了多项重要更新：**默认主线程隔离**简化并发编
 
 ---
 
+## <a name="17"></a>17. 特斯拉"Robotaxi"商标申请被拒：名称过于描述性 
+<small>🔗 [arstechnica.com](https://arstechnica.com/cars/2025/05/robotaxi-and-cybercab-are-too-unoriginal-to-trademark-uspto-tells-tesla/): USPTO refuses Tesla Robotaxi trademark as "merely descriptive"</small>
+
+
+| 🔥: 92 \| 💬: [71](https://news.ycombinator.com/item?id=43936198) \| 🗓️ 2025-05-09
+
+
+<br />
+美国专利商标局（USPTO）驳回了特斯拉申请注册**"Robotaxi"**商标的请求，认为该术语**过于通用且缺乏独特性**，并引用维基百科、The Verge等来源佐证。特斯拉若想挑战这一决定，需提交详细产品差异证明，但竞争对手Zoox已使用相同名称。此外，特斯拉另一商标**"Cybercab"**也因与其他公司冲突被拒。该公司计划下月在奥斯汀测试无方向盘的双座自动驾驶车，但其FSD系统此前被曝每13英里需人工干预一次，安全性存疑。
+
+---
+
+## <a name="18"></a>18. 网络科学如何"预测"新教皇：揭秘梵蒂冈权力图谱 
+<small>🔗 [unibocconi.it](https://www.unibocconi.it/en/news/network-conclave): In the Network of the Conclav: How we "guessed" the Pope using network science</small>
+
+
+| 🔥: 91 \| 💬: [63](https://news.ycombinator.com/item?id=43939419) \| 🗓️ 2025-05-09
+
+
+<br />
+博科尼大学团队运用**社会网络分析**研究枢机主教关系网，通过**官方共事记录**、**主教传承谱系**和**非正式联盟**构建三维模型。研究发现**地位中心性**、**信息控制力**和**联盟构建能力**是成为教皇候选人的关键因素，模型还纳入历史年龄偏好修正。虽然无法精确预测选举结果，但揭示了当前教廷核心人物（如帕罗林、拉格朗日等）的权力分布，表明**温和自由派**占据网络中心。研究者强调这仅是分析工具，最终选举仍受神圣性与多重变量影响。
+
+---
+
 ## <a name="19"></a>19. 37signals告别AWS：完成S3迁移并预计节省1000万美元 
 <small>🔗 [systemadministration.net](https://systemadministration.net/37signals-says-goodbye-to-aws-full-s3-migration-and-10m-in-projected-savings/): 37signals Says Goodbye to AWS: Full S3 Migration and $10M in Projected Savings</small>
 
 
-| 🔥: 83 \| 💬: [39](https://news.ycombinator.com/item?id=43936754) \| 🗓️ 2025-05-09
+| 🔥: 84 \| 💬: [39](https://news.ycombinator.com/item?id=43936754) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -259,7 +259,7 @@ Swift 6.2 带来了多项重要更新：**默认主线程隔离**简化并发编
 <small>🔗 [npr.org](https://www.npr.org/2025/05/09/g-s1-65326/justice-david-souter-dies): Former Supreme Court justice David Souter has died</small>
 
 
-| 🔥: 82 \| 💬: [43](https://news.ycombinator.com/item?id=43937750) \| 🗓️ 2025-05-09
+| 🔥: 84 \| 💬: [44](https://news.ycombinator.com/item?id=43937750) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -267,7 +267,19 @@ Swift 6.2 带来了多项重要更新：**默认主线程隔离**简化并发编
 
 ---
 
-## <a name="21"></a>21. Linux内核的PGP信任网络现状与挑战 
+## <a name="21"></a>21. Oliphaunt：专为macOS打造的Mastodon原生客户端 
+<small>🔗 [testflight.apple.com](https://testflight.apple.com/join/Epq1P3Cw): Show HN: Oliphaunt – A native Mastodon client for macOS</small>
+
+
+| 🔥: 83 \| 💬: [28](https://news.ycombinator.com/item?id=43938530) \| 🗓️ 2025-05-09
+
+
+<br />
+本文介绍了如何通过**TestFlight**测试macOS平台上的Mastodon客户端Oliphaunt。测试者需接受开发者邀请，并满足设备与系统要求（如**macOS 12或更高版本**）。测试周期最长90天，支持多语言，安装后可通过TestFlight管理自动更新或提交反馈。开发者可设定测试条件，用户需通过邮件或公开链接获取测试资格。
+
+---
+
+## <a name="22"></a>22. Linux内核的PGP信任网络现状与挑战 
 <small>🔗 [blog.kleine-koenig.org](https://blog.kleine-koenig.org/ukl/the-linux-kernels-pgp-web-of-trust.html): The Linux Kernel's PGP Web of Trust</small>
 
 
@@ -276,18 +288,6 @@ Swift 6.2 带来了多项重要更新：**默认主线程隔离**简化并发编
 
 <br />
 Linux内核开发依赖**PGP签名**机制，维护者需通过签名标签向Linus Torvalds提交代码。目前密钥库收录602个有效密钥，要求**信任路径长度≤5**。但SHA-1签名淘汰危机显现：GnuPG 2.4.x已拒绝此类签名，现有6045个SHA-1签名若失效，将导致485个密钥（包括多位核心开发者）失去资格，**信任集规模从358骤减至94**。为解决此问题，2025年嵌入式大会将举办密钥签名活动以更新信任链。
-
----
-
-## <a name="22"></a>22. Oliphaunt：专为macOS打造的Mastodon原生客户端 
-<small>🔗 [testflight.apple.com](https://testflight.apple.com/join/Epq1P3Cw): Show HN: Oliphaunt – A native Mastodon client for macOS</small>
-
-
-| 🔥: 76 \| 💬: [27](https://news.ycombinator.com/item?id=43938530) \| 🗓️ 2025-05-09
-
-
-<br />
-本文介绍了如何通过**TestFlight**测试macOS平台上的Mastodon客户端Oliphaunt。测试者需接受开发者邀请，并满足设备与系统要求（如**macOS 12或更高版本**）。测试周期最长90天，支持多语言，安装后可通过TestFlight管理自动更新或提交反馈。开发者可设定测试条件，用户需通过邮件或公开链接获取测试资格。
 
 ---
 
