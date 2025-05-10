@@ -27,7 +27,7 @@ tags:
 <small>🔗 [home.cern](https://www.home.cern/news/news/physics/alice-detects-conversion-lead-gold-lhc): ALICE detects the conversion of lead into gold at the LHC</small>
 
 
-| 🔥🔥: 497 \| 💬: [258](https://news.ycombinator.com/item?id=43937214) \| 🗓️ 2025-05-09
+| 🔥🔥: 504 \| 💬: [262](https://news.ycombinator.com/item?id=43937214) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [w3.org](https://www.w3.org/TR/wasm-core-2/): WASM 2.0</small>
 
 
-| 🔥🔥: 303 \| 💬: [132](https://news.ycombinator.com/item?id=43934711) \| 🗓️ 2025-05-09
+| 🔥🔥: 304 \| 💬: [132](https://news.ycombinator.com/item?id=43934711) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -55,7 +55,7 @@ Wasm 2.0 基于虚拟指令集架构（**虚拟 ISA**），提供四种基础数
 <small>🔗 [nrkno.github.io](https://nrkno.github.io/sofie-core/): Sofie: open-source web based system for automating live TV news production</small>
 
 
-| 🔥🔥: 279 \| 💬: [36](https://news.ycombinator.com/item?id=43936408) \| 🗓️ 2025-05-09
+| 🔥🔥: 283 \| 💬: [36](https://news.ycombinator.com/item?id=43936408) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -67,7 +67,7 @@ Sofie 是一款**开源**的网页端系统，专为**自动化电视新闻直�
 <small>🔗 [nietras.com](https://nietras.com/2025/05/09/sep-0-10-0/): 21 GB/s CSV Parsing Using SIMD on AMD 9950X</small>
 
 
-| 🔥🔥: 252 \| 💬: [132](https://news.ycombinator.com/item?id=43936592) \| 🗓️ 2025-05-09
+| 🔥🔥: 258 \| 💬: [136](https://news.ycombinator.com/item?id=43936592) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -79,7 +79,7 @@ Sofie 是一款**开源**的网页端系统，专为**自动化电视新闻直�
 <small>🔗 [hyvector.com](https://www.hyvector.com): Show HN: Hyvector – A fast and modern SVG editor</small>
 
 
-| 🔥🔥: 251 \| 💬: [69](https://news.ycombinator.com/item?id=43935394) \| 🗓️ 2025-05-09
+| 🔥🔥: 254 \| 💬: [70](https://news.ycombinator.com/item?id=43935394) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -87,23 +87,11 @@ Hyvector是一款**快速**且**现代化**的SVG编辑器，但需要**启用Ja
 
 ---
 
-## <a name="6"></a>6. Itter.sh：极简终端微博客平台 
-<small>🔗 [itter.sh](https://www.itter.sh/): Itter.sh – Micro-Blogging via Terminal</small>
-
-
-| 🔥🔥: 209 \| 💬: [65](https://news.ycombinator.com/item?id=43936884) \| 🗓️ 2025-05-09
-
-
-<br />
-itter.sh是一款**纯终端操作**的微博客工具，通过SSH直接访问，摒弃网页与算法推荐。用户可发布180字符的短帖（**"eets"**），支持#标签和@提及。注册需SSH密钥，登录后通过命令行交互，功能包括发帖、关注、实时浏览等。平台基于Python和AsyncSSH开发，强调**极简主义**与**终端怀旧**，适合追求纯粹社交体验的用户。
-
----
-
-## <a name="7"></a>7. Rust的依赖问题让我感到担忧 
+## <a name="6"></a>6. Rust的依赖问题让我感到担忧 
 <small>🔗 [vincents.dev](https://vincents.dev/blog/rust-dependencies-scare-me/?): Rust’s dependencies are starting to worry me</small>
 
 
-| 🔥🔥: 205 \| 💬: [255](https://news.ycombinator.com/item?id=43935067) \| 🗓️ 2025-05-09
+| 🔥🔥: 218 \| 💬: [262](https://news.ycombinator.com/item?id=43935067) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -111,11 +99,23 @@ itter.sh是一款**纯终端操作**的微博客工具，通过SSH直接访问�
 
 ---
 
+## <a name="7"></a>7. Itter.sh：极简终端微博客平台 
+<small>🔗 [itter.sh](https://www.itter.sh/): Itter.sh – Micro-Blogging via Terminal</small>
+
+
+| 🔥🔥: 217 \| 💬: [65](https://news.ycombinator.com/item?id=43936884) \| 🗓️ 2025-05-09
+
+
+<br />
+itter.sh是一款**纯终端操作**的微博客工具，通过SSH直接访问，摒弃网页与算法推荐。用户可发布180字符的短帖（**"eets"**），支持#标签和@提及。注册需SSH密钥，登录后通过命令行交互，功能包括发帖、关注、实时浏览等。平台基于Python和AsyncSSH开发，强调**极简主义**与**终端怀旧**，适合追求纯粹社交体验的用户。
+
+---
+
 ## <a name="8"></a>8. Aberdeen：一种优雅的响应式UI开发方案 
 <small>🔗 [aberdeenjs.org](https://aberdeenjs.org/): Show HN: Aberdeen – An elegant approach to reactive UIs</small>
 
 
-| 🔥🔥: 191 \| 💬: [105](https://news.ycombinator.com/item?id=43936097) \| 🗓️ 2025-05-09
+| 🔥🔥: 194 \| 💬: [106](https://news.ycombinator.com/item?id=43936097) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -127,7 +127,7 @@ Aberdeen是一个基于纯TypeScript/JavaScript的**轻量级UI框架**（约5KB
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/amazon-stowing-robots): Amazon's Vulcan Robots Now Stow Items Faster Than Humans</small>
 
 
-| 🔥🔥: 188 \| 💬: [259](https://news.ycombinator.com/item?id=43935586) \| 🗓️ 2025-05-09
+| 🔥🔥: 190 \| 💬: [263](https://news.ycombinator.com/item?id=43935586) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -139,7 +139,7 @@ Aberdeen是一个基于纯TypeScript/JavaScript的**轻量级UI框架**（约5KB
 <small>🔗 [404media.co](https://www.404media.co/man-disappeared-by-ice-was-on-el-salvador-flight-manifest-hacked-data-shows/): Man 'Disappeared' by ICE Was on El Salvador Flight Manifest, Hacked Data Shows</small>
 
 
-| 🔥🔥: 184 \| 💬: [69](https://news.ycombinator.com/item?id=43939006) \| 🗓️ 2025-05-09
+| 🔥🔥: 189 \| 💬: [73](https://news.ycombinator.com/item?id=43939006) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -151,7 +151,7 @@ Aberdeen是一个基于纯TypeScript/JavaScript的**轻量级UI框架**（约5KB
 <small>🔗 [kqed.org](https://www.kqed.org/news/12039472/bart-shuts-down-entire-train-service-due-to-computer-networking-problem): All BART trains were stopped due to ‘computer networking problem’</small>
 
 
-| 🔥🔥: 182 \| 💬: [160](https://news.ycombinator.com/item?id=43937242) \| 🗓️ 2025-05-09
+| 🔥🔥: 184 \| 💬: [162](https://news.ycombinator.com/item?id=43937242) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -163,7 +163,7 @@ Aberdeen是一个基于纯TypeScript/JavaScript的**轻量级UI框架**（约5KB
 <small>🔗 [cryptpad.org](https://cryptpad.org/): CryptPad: An Alternative to the Google Suite</small>
 
 
-| 🔥🔥: 163 \| 💬: [63](https://news.ycombinator.com/item?id=43935707) \| 🗓️ 2025-05-09
+| 🔥🔥: 169 \| 💬: [64](https://news.ycombinator.com/item?id=43935707) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -175,7 +175,7 @@ CryptPad 是一款**端到端加密**、**开源**的在线协作办公套件，
 <small>🔗 [news.harvard.edu](https://news.harvard.edu/gazette/story/2025/05/era-of-u-s-dollar-may-be-winding-down/): Era of U.S. dollar may be winding down</small>
 
 
-| 🔥🔥: 155 \| 💬: [210](https://news.ycombinator.com/item?id=43940865) \| 🗓️ 2025-05-09
+| 🔥🔥: 157 \| 💬: [224](https://news.ycombinator.com/item?id=43940865) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -187,7 +187,7 @@ CryptPad 是一款**端到端加密**、**开源**的在线协作办公套件，
 <small>🔗 [theorthagonist.substack.com](https://theorthagonist.substack.com/p/why-reading-business-books-is-a-waste): Business books are entertainment, not strategic tools</small>
 
 
-| 🔥🔥: 122 \| 💬: [50](https://news.ycombinator.com/item?id=43940747) \| 🗓️ 2025-05-09
+| 🔥🔥: 151 \| 💬: [61](https://news.ycombinator.com/item?id=43940747) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -199,7 +199,7 @@ CryptPad 是一款**端到端加密**、**开源**的在线协作办公套件，
 <small>🔗 [hackingwithswift.com](https://www.hackingwithswift.com/articles/277/whats-new-in-swift-6-2): What’s new in Swift 6.2</small>
 
 
-| 🔥🔥: 119 \| 💬: [103](https://news.ycombinator.com/item?id=43940539) \| 🗓️ 2025-05-09
+| 🔥🔥: 127 \| 💬: [110](https://news.ycombinator.com/item?id=43940539) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -223,7 +223,7 @@ Swift 6.2 带来了多项重要更新：**默认主线程隔离**简化并发编
 <small>🔗 [blog.jez.io](https://blog.jez.io/history-of-sorbet-syntax/): Past, present, and future of Sorbet type syntax</small>
 
 
-| 🔥🔥: 112 \| 💬: [72](https://news.ycombinator.com/item?id=43938400) \| 🗓️ 2025-05-09
+| 🔥🔥: 114 \| 💬: [72](https://news.ycombinator.com/item?id=43938400) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -247,7 +247,7 @@ Sorbet的类型语法常被诟病**冗长、不美观**，但作者强调**语�
 <small>🔗 [unibocconi.it](https://www.unibocconi.it/en/news/network-conclave): In the Network of the Conclav: How we "guessed" the Pope using network science</small>
 
 
-| 🔥: 92 \| 💬: [64](https://news.ycombinator.com/item?id=43939419) \| 🗓️ 2025-05-09
+| 🔥: 93 \| 💬: [64](https://news.ycombinator.com/item?id=43939419) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -255,11 +255,23 @@ Sorbet的类型语法常被诟病**冗长、不美观**，但作者强调**语�
 
 ---
 
-## <a name="20"></a>20. 37signals告别AWS：完成S3迁移并预计节省1000万美元 
+## <a name="20"></a>20. WebGL水模拟（2010） 
+<small>🔗 [madebyevan.com](https://madebyevan.com/webgl-water/): WebGL Water (2010)</small>
+
+
+| 🔥: 90 \| 💬: [26](https://news.ycombinator.com/item?id=43942149) \| 🗓️ 2025-05-09
+
+
+<br />
+由Evan Wallace开发的**WebGL水模拟**是一款基于浏览器的3D交互演示，需高性能显卡支持。用户可通过绘制水面制造波纹、拖动背景旋转视角、移动球体或切换**重力效果**。核心特性包括**光线追踪反射/折射**、动态水面模拟及柔化阴影，同时依赖特定WebGL扩展实现环境光遮蔽和焦散效果。按空格键暂停，L/G键分别调整光源和重力开关。
+
+---
+
+## <a name="21"></a>21. 37signals告别AWS：完成S3迁移并预计节省1000万美元 
 <small>🔗 [systemadministration.net](https://systemadministration.net/37signals-says-goodbye-to-aws-full-s3-migration-and-10m-in-projected-savings/): 37signals Says Goodbye to AWS: Full S3 Migration and $10M in Projected Savings</small>
 
 
-| 🔥: 87 \| 💬: [39](https://news.ycombinator.com/item?id=43936754) \| 🗓️ 2025-05-09
+| 🔥: 87 \| 💬: [40](https://news.ycombinator.com/item?id=43936754) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -267,7 +279,7 @@ Sorbet的类型语法常被诟病**冗长、不美观**，但作者强调**语�
 
 ---
 
-## <a name="21"></a>21. 美国前最高法院大法官戴维·苏特逝世，享年85岁 
+## <a name="22"></a>22. 美国前最高法院大法官戴维·苏特逝世，享年85岁 
 <small>🔗 [npr.org](https://www.npr.org/2025/05/09/g-s1-65326/justice-david-souter-dies): Former Supreme Court justice David Souter has died</small>
 
 
@@ -279,11 +291,11 @@ Sorbet的类型语法常被诟病**冗长、不美观**，但作者强调**语�
 
 ---
 
-## <a name="22"></a>22. Oliphaunt：专为macOS打造的Mastodon原生客户端 
+## <a name="23"></a>23. Oliphaunt：专为macOS打造的Mastodon原生客户端 
 <small>🔗 [testflight.apple.com](https://testflight.apple.com/join/Epq1P3Cw): Show HN: Oliphaunt – A native Mastodon client for macOS</small>
 
 
-| 🔥: 85 \| 💬: [30](https://news.ycombinator.com/item?id=43938530) \| 🗓️ 2025-05-09
+| 🔥: 85 \| 💬: [31](https://news.ycombinator.com/item?id=43938530) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -291,11 +303,11 @@ Sorbet的类型语法常被诟病**冗长、不美观**，但作者强调**语�
 
 ---
 
-## <a name="23"></a>23. Linux内核的PGP信任网络现状与挑战 
+## <a name="24"></a>24. Linux内核的PGP信任网络现状与挑战 
 <small>🔗 [blog.kleine-koenig.org](https://blog.kleine-koenig.org/ukl/the-linux-kernels-pgp-web-of-trust.html): The Linux Kernel's PGP Web of Trust</small>
 
 
-| 🔥: 79 \| 💬: [12](https://news.ycombinator.com/item?id=43935356) \| 🗓️ 2025-05-09
+| 🔥: 80 \| 💬: [12](https://news.ycombinator.com/item?id=43935356) \| 🗓️ 2025-05-09
 
 
 <br />
@@ -303,26 +315,14 @@ Linux内核开发依赖**PGP签名**机制，维护者需通过签名标签向Li
 
 ---
 
-## <a name="24"></a>24. 大上科技Paperlike 13K：13.3英寸彩色电子墨水屏显示器 
+## <a name="25"></a>25. 大上科技Paperlike 13K：13.3英寸彩色电子墨水屏显示器 
 <small>🔗 [liliputing.com](https://liliputing.com/dasung-paperlike-13k-is-a-13-3-inch-e-ink-color-monitor-crowdfunding/): Dasung Paperlike 13K is a 13.3 inch E Ink color monitor</small>
 
 
-| 🔥: 74 \| 💬: [56](https://news.ycombinator.com/item?id=43936813) \| 🗓️ 2025-05-09
+| 🔥: 75 \| 💬: [57](https://news.ycombinator.com/item?id=43936813) \| 🗓️ 2025-05-09
 
 
 <br />
 大上科技推出**Paperlike 13K**，这是一款13.3英寸彩色电子墨水屏显示器，分辨率为3200×2400，**灰度显示精度达300ppi**（彩色模式下降至150ppi）。支持37Hz刷新率，但高刷新率可能影响画质。预售价749美元（黑白版679美元），配备USB-C/HDMI接口、触控及反向触控功能，内置扬声器，附赠便携支架和磁吸保护套。采用**E Ink Kaleido 3面板**，色彩较淡且无背光（彩色版有前光），兼容Windows/Linux/Android，暂不支持苹果设备。预计2025年5月中下旬发货。
-
----
-
-## <a name="25"></a>25. Python异步编程解析：async/await工作原理（2021） 
-<small>🔗 [tenthousandmeters.com](https://tenthousandmeters.com/blog/python-behind-the-scenes-12-how-asyncawait-works-in-python/): How async/await works in Python (2021)</small>
-
-
-| 🔥: 59 \| 💬: [7](https://news.ycombinator.com/item?id=43935452) \| 🗓️ 2025-05-09
-
-
-<br />
-本文深入浅出地解析了Python中**async/await**的实现机制。通过标记函数为`async`并用`await`调用，程序可异步执行，在等待I/O操作时处理其他任务。其核心依赖**事件循环**和**协程**，本质是单线程下的**并发**（非并行）。作者以TCP回显服务器为例，对比了阻塞式、多线程及基于**I/O多路复用**（如`selectors`模块）的实现，最终过渡到异步方案。关键点在于：**协程调度**由事件循环管理，通过`yield`暂停/恢复任务，避免线程开销。
 
 ---
