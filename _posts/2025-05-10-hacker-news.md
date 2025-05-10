@@ -9,14 +9,14 @@ tags:
 
 
 1. Y Combinator提交法庭之友简报支持美国政府诉谷歌案；
-1. 临终谬误（2018）；
 1. 对MCP协议的深度批判；
+1. 临终谬误（2018）；
 1. LTXVideo 13B：AI视频生成的革命性突破；
-1. 山姆·奥特曼想扫描你的眼球；
+1. 商业崇拜：创业工作伦理的历史；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共16条，具体内容您往下读...
+总共23条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [storage.courtlistener.com](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf): US vs. Google amicus curiae brief of Y Combinator in support of plaintiffs [pdf]</small>
 
 
-| 🔥🔥: 265 \| 💬: [390](https://news.ycombinator.com/item?id=43945820) \| 🗓️ 2025-05-10
+| 🔥🔥: 284 \| 💬: [427](https://news.ycombinator.com/item?id=43945820) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -35,23 +35,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. 临终谬误（2018） 
-<small>🔗 [hjorthjort.xyz](https://www.hjorthjort.xyz/2018/02/21/the-deathbed-fallacy.html): The Deathbed Fallacy (2018)</small>
-
-
-| 🔥🔥: 216 \| 💬: [101](https://news.ycombinator.com/item?id=43944467) \| 🗓️ 2025-05-10
-
-
-<br />
-文章批判了人们常引用临终者悔恨（如“应多陪家人”“少些忧虑”）来指导当下生活的误区，称之为**临终谬误**。作者提出三点质疑：1. **临终状态不具代表性**，将死之人的需求与人生黄金期截然不同；2. **我们误解过去的自己**，当下判断未必优于年轻时的选择；3. **时代差异被忽视**，老一辈的遗憾未必适用于当代人。最后指出，盲目追随“临终清单”可能适得其反，应结合现实需求与幸福学研究，而非被虚构的“未来自我”绑架。
-
----
-
-## <a name="3"></a>3. 对MCP协议的深度批判 
+## <a name="2"></a>2. 对MCP协议的深度批判 
 <small>🔗 [raz.sh](https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp): A Critical Look at MCP</small>
 
 
-| 🔥🔥: 212 \| 💬: [125](https://news.ycombinator.com/item?id=43945993) \| 🗓️ 2025-05-10
+| 🔥🔥: 252 \| 💬: [155](https://news.ycombinator.com/item?id=43945993) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -59,11 +47,23 @@ MCP（模型上下文协议）旨在为LLM与外部工具交互提供标准化�
 
 ---
 
+## <a name="3"></a>3. 临终谬误（2018） 
+<small>🔗 [hjorthjort.xyz](https://www.hjorthjort.xyz/2018/02/21/the-deathbed-fallacy.html): The Deathbed Fallacy (2018)</small>
+
+
+| 🔥🔥: 222 \| 💬: [105](https://news.ycombinator.com/item?id=43944467) \| 🗓️ 2025-05-10
+
+
+<br />
+文章批判了人们常引用临终者悔恨（如“应多陪家人”“少些忧虑”）来指导当下生活的误区，称之为**临终谬误**。作者提出三点质疑：1. **临终状态不具代表性**，将死之人的需求与人生黄金期截然不同；2. **我们误解过去的自己**，当下判断未必优于年轻时的选择；3. **时代差异被忽视**，老一辈的遗憾未必适用于当代人。最后指出，盲目追随“临终清单”可能适得其反，应结合现实需求与幸福学研究，而非被虚构的“未来自我”绑架。
+
+---
+
 ## <a name="4"></a>4. LTXVideo 13B：AI视频生成的革命性突破 
 <small>🔗 [ltxv.video](https://ltxv.video/): LTXVideo 13B AI video generation</small>
 
 
-| 🔥🔥: 193 \| 💬: [60](https://news.ycombinator.com/item?id=43944974) \| 🗓️ 2025-05-10
+| 🔥🔥: 198 \| 💬: [60](https://news.ycombinator.com/item?id=43944974) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -71,23 +71,11 @@ Lightricks推出的**LTXV-13B**是一款拥有130亿参数的AI视频生成模�
 
 ---
 
-## <a name="5"></a>5. 山姆·奥特曼想扫描你的眼球 
-<small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/05/10/sam-altman-wants-your-eyeball/): Sam Altman Wants Your Eyeball</small>
-
-
-| 🔥🔥: 127 \| 💬: [127](https://news.ycombinator.com/item?id=43946766) \| 🗓️ 2025-05-10
-
-
-<br />
-OpenAI CEO山姆·奥特曼联合创立的**Worldcoin项目**（现更名为World）在美国开设6家门店，通过**眼球扫描**为用户生成生物识别标签，以验证身份并推广其应用与加密货币。该项目被批评为“反乌托邦”，因涉嫌利用贫困地区人群测试技术，并存在隐私风险。**生物数据**一旦泄露无法更改，且可能终结网络匿名性。尽管公司宣称数据“本地存储”，但实际操作中敏感信息仍可能外泄。肯尼亚已因隐私问题叫停其运营。
-
----
-
-## <a name="6"></a>6. 商业崇拜：创业工作伦理的历史 
+## <a name="5"></a>5. 商业崇拜：创业工作伦理的历史 
 <small>🔗 [commonwealmagazine.org](https://www.commonwealmagazine.org/calvert-work-entrepreneur-ethic-baker-review-job): The cult of doing business</small>
 
 
-| 🔥🔥: 126 \| 💬: [103](https://news.ycombinator.com/item?id=43945162) \| 🗓️ 2025-05-10
+| 🔥🔥: 129 \| 💬: [105](https://news.ycombinator.com/item?id=43945162) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -95,23 +83,23 @@ OpenAI CEO山姆·奥特曼联合创立的**Worldcoin项目**（现更名为Worl
 
 ---
 
-## <a name="7"></a>7. 美国政府考虑暂停人身保护令 
-<small>🔗 [bbc.com](https://www.bbc.com/news/articles/c0qgz18glljo): US Government considering suspending habeas corpus</small>
+## <a name="6"></a>6. 山姆·奥特曼想扫描你的眼球 
+<small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/05/10/sam-altman-wants-your-eyeball/): Sam Altman Wants Your Eyeball</small>
 
 
-| 🔥: 81 \| 💬: [17](https://news.ycombinator.com/item?id=43944687) \| 🗓️ 2025-05-10
+| 🔥🔥: 129 \| 💬: [133](https://news.ycombinator.com/item?id=43946766) \| 🗓️ 2025-05-10
 
 
 <br />
-特朗普政府正“积极考虑”暂停**人身保护令**（即被拘留者向法院申诉的权利）。白宫副幕僚长斯蒂芬·米勒称，美国宪法允许在“叛乱或入侵”时暂停这一权利，并暗示此举与近期法院挑战移民拘留案件有关。法律专家反驳称，暂停权仅属国会。历史上美国曾四次暂停该权利，但均由国会行使。特朗普未直接提及此事，但强调将采取措施应对阻碍其驱逐行动的禁令。
+OpenAI CEO山姆·奥特曼联合创立的**Worldcoin项目**（现更名为World）在美国开设6家门店，通过**眼球扫描**为用户生成生物识别标签，以验证身份并推广其应用与加密货币。该项目被批评为“反乌托邦”，因涉嫌利用贫困地区人群测试技术，并存在隐私风险。**生物数据**一旦泄露无法更改，且可能终结网络匿名性。尽管公司宣称数据“本地存储”，但实际操作中敏感信息仍可能外泄。肯尼亚已因隐私问题叫停其运营。
 
 ---
 
-## <a name="8"></a>8. 逆向工程386处理器的预取队列电路 
+## <a name="7"></a>7. 逆向工程386处理器的预取队列电路 
 <small>🔗 [righto.com](http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html): Reverse engineering the 386 processor's prefetch queue circuitry</small>
 
 
-| 🔥: 79 \| 💬: [28](https://news.ycombinator.com/item?id=43946824) \| 🗓️ 2025-05-10
+| 🔥: 90 \| 💬: [29](https://news.ycombinator.com/item?id=43946824) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -119,23 +107,11 @@ OpenAI CEO山姆·奥特曼联合创立的**Worldcoin项目**（现更名为Worl
 
 ---
 
-## <a name="9"></a>9. Radxa Orion O6：中端Arm主板，潜力与问题并存 
-<small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc): Radxa Orion O6 brings Arm to the midrange PC (with caveats)</small>
-
-
-| 🔥: 75 \| 💬: [56](https://news.ycombinator.com/item?id=43945041) \| 🗓️ 2025-05-10
-
-
-<br />
-Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（最高2.6GHz）和64GB内存，起售价约200美元。它通过**SystemReady SR认证**，可原生运行Windows on Arm和Linux，但存在诸多固件问题，如核心调度异常、性能不稳定（实测仅8核可用）和驱动兼容性差（尤其Windows环境）。尽管内存带宽达40-50GB/s，其效率仍落后于Apple M1或骁龙X。亮点包括**PCIe 4.0扩展能力**和低功耗设计，但15W待机功耗偏高。适合技术爱好者折腾，普通用户建议观望。
-
----
-
-## <a name="10"></a>10. 英国专家警告：AI心理治疗聊天机器人存在安全隐患 
+## <a name="8"></a>8. 英国专家警告：AI心理治疗聊天机器人存在安全隐患 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/07/experts-warn-therapy-ai-chatbots-are-not-safe-to-use): 'It cannot provide nuance': UK experts warn AI therapy chatbots are not safe</small>
 
 
-| 🔥: 75 \| 💬: [74](https://news.ycombinator.com/item?id=43946498) \| 🗓️ 2025-05-10
+| 🔥: 83 \| 💬: [91](https://news.ycombinator.com/item?id=43946498) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -143,23 +119,23 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 
 ---
 
-## <a name="11"></a>11. 行业团体不满特朗普政府拟取消"能源之星"计划 
-<small>🔗 [insideclimatenews.org](https://insideclimatenews.org/news/08052025/energy-star-program-could-be-eliminated-by-trump-administration/): Industry groups are not happy about the imminent demise of Energy Star</small>
+## <a name="9"></a>9. 美国政府考虑暂停人身保护令 
+<small>🔗 [bbc.com](https://www.bbc.com/news/articles/c0qgz18glljo): US Government considering suspending habeas corpus</small>
 
 
-| 🔥: 74 \| 💬: [100](https://news.ycombinator.com/item?id=43945138) \| 🗓️ 2025-05-10
+| 🔥: 82 \| 💬: [19](https://news.ycombinator.com/item?id=43944687) \| 🗓️ 2025-05-10
 
 
 <br />
-美国环保署计划终止已有33年历史的**"能源之星"**能效认证项目，引发制造商和环保人士强烈反对。该由共和党政府发起的自愿性项目累计为消费者节省5000亿美元，其蓝色标签被90%美国家庭认可。批评者认为此举体现政府**"反气候行动"**意识形态，而行业则警告取消认证将导致市场混乱。尽管法律障碍存在，但环保署正通过机构重组推进该计划，其每年3200万美元的运营成本与为家庭节省的400亿能源开支形成鲜明对比。
+特朗普政府正“积极考虑”暂停**人身保护令**（即被拘留者向法院申诉的权利）。白宫副幕僚长斯蒂芬·米勒称，美国宪法允许在“叛乱或入侵”时暂停这一权利，并暗示此举与近期法院挑战移民拘留案件有关。法律专家反驳称，暂停权仅属国会。历史上美国曾四次暂停该权利，但均由国会行使。特朗普未直接提及此事，但强调将采取措施应对阻碍其驱逐行动的禁令。
 
 ---
 
-## <a name="12"></a>12. 展示：Code Claude代码交互工具 
+## <a name="10"></a>10. 展示：Code Claude代码交互工具 
 <small>🔗 [github.com](https://github.com/RVCA212/codesys): Show HN: Code Claude Code</small>
 
 
-| 🔥: 70 \| 💬: [17](https://news.ycombinator.com/item?id=43946066) \| 🗓️ 2025-05-10
+| 🔥: 80 \| 💬: [16](https://news.ycombinator.com/item?id=43946066) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -167,11 +143,35 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 
 ---
 
+## <a name="11"></a>11. Radxa Orion O6：中端Arm主板，潜力与问题并存 
+<small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc): Radxa Orion O6 brings Arm to the midrange PC (with caveats)</small>
+
+
+| 🔥: 78 \| 💬: [59](https://news.ycombinator.com/item?id=43945041) \| 🗓️ 2025-05-10
+
+
+<br />
+Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（最高2.6GHz）和64GB内存，起售价约200美元。它通过**SystemReady SR认证**，可原生运行Windows on Arm和Linux，但存在诸多固件问题，如核心调度异常、性能不稳定（实测仅8核可用）和驱动兼容性差（尤其Windows环境）。尽管内存带宽达40-50GB/s，其效率仍落后于Apple M1或骁龙X。亮点包括**PCIe 4.0扩展能力**和低功耗设计，但15W待机功耗偏高。适合技术爱好者折腾，普通用户建议观望。
+
+---
+
+## <a name="12"></a>12. 行业团体不满特朗普政府拟取消"能源之星"计划 
+<small>🔗 [insideclimatenews.org](https://insideclimatenews.org/news/08052025/energy-star-program-could-be-eliminated-by-trump-administration/): Industry groups are not happy about the imminent demise of Energy Star</small>
+
+
+| 🔥: 75 \| 💬: [101](https://news.ycombinator.com/item?id=43945138) \| 🗓️ 2025-05-10
+
+
+<br />
+美国环保署计划终止已有33年历史的**"能源之星"**能效认证项目，引发制造商和环保人士强烈反对。该由共和党政府发起的自愿性项目累计为消费者节省5000亿美元，其蓝色标签被90%美国家庭认可。批评者认为此举体现政府**"反气候行动"**意识形态，而行业则警告取消认证将导致市场混乱。尽管法律障碍存在，但环保署正通过机构重组推进该计划，其每年3200万美元的运营成本与为家庭节省的400亿能源开支形成鲜明对比。
+
+---
+
 ## <a name="13"></a>13. 英特尔：辉煌与挑战 
 <small>🔗 [abortretry.fail](https://www.abortretry.fail/p/intel-winning-and-losing): Intel: Winning and Losing</small>
 
 
-| 🔥: 69 \| 💬: [34](https://news.ycombinator.com/item?id=43944790) \| 🗓️ 2025-05-10
+| 🔥: 72 \| 💬: [39](https://news.ycombinator.com/item?id=43944790) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -179,23 +179,11 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 
 ---
 
-## <a name="14"></a>14. 特斯拉保险业务亏损严重，赔付率远超行业水平 
-<small>🔗 [insideevs.com](https://insideevs.com/news/759156/tesla-insurance-loss-higher-average/): Even Tesla's Insurance Arm Is Getting Wrecked</small>
-
-
-| 🔥: 59 \| 💬: [76](https://news.ycombinator.com/item?id=43947690) \| 🗓️ 2025-05-10
-
-
-<br />
-特斯拉的保险业务因**赔付率高达103.3%**（2024年数据）而持续亏损，远高于行业平均的66.1%。尽管特斯拉曾试图通过**全自动驾驶数据**降低保费，但高昂的维修成本（比燃油车高32%）和糟糕的客户服务（投诉包括漫长维修期和低效理赔）导致其保险业务难以为继。近年来，特斯拉保费上涨30%，但亏损仍未见改善。
-
----
-
-## <a name="15"></a>15. Linux下C/POSIX标准库实现对比 
+## <a name="14"></a>14. Linux下C/POSIX标准库实现对比 
 <small>🔗 [etalabs.net](https://www.etalabs.net/compare_libcs.html): Comparison of C/POSIX standard library implementations for Linux</small>
 
 
-| 🔥: 57 \| 💬: [21](https://news.ycombinator.com/item?id=43946149) \| 🗓️ 2025-05-10
+| 🔥: 69 \| 💬: [21](https://news.ycombinator.com/item?id=43946149) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -203,14 +191,110 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 
 ---
 
-## <a name="16"></a>16. 谷歌Gemini更新变"保守派"，致创伤幸存者应用崩溃 
+## <a name="15"></a>15. 特斯拉保险业务亏损严重，赔付率远超行业水平 
+<small>🔗 [insideevs.com](https://insideevs.com/news/759156/tesla-insurance-loss-higher-average/): Even Tesla's Insurance Arm Is Getting Wrecked</small>
+
+
+| 🔥: 65 \| 💬: [82](https://news.ycombinator.com/item?id=43947690) \| 🗓️ 2025-05-10
+
+
+<br />
+特斯拉的保险业务因**赔付率高达103.3%**（2024年数据）而持续亏损，远高于行业平均的66.1%。尽管特斯拉曾试图通过**全自动驾驶数据**降低保费，但高昂的维修成本（比燃油车高32%）和糟糕的客户服务（投诉包括漫长维修期和低效理赔）导致其保险业务难以为继。近年来，特斯拉保费上涨30%，但亏损仍未见改善。
+
+---
+
+## <a name="16"></a>16. 1982年广告：595美元买到双倍价格都买不到的独特价值 
+<small>🔗 [s3data.computerhistory.org](https://s3data.computerhistory.org/brochures/commodore.commodore64.1982.102646264.pdf): For $595, you get what nobody else can give you for twice the price (1982) [pdf]</small>
+
+
+| 🔥: 63 \| 💬: [20](https://news.ycombinator.com/item?id=43947630) \| 🗓️ 2025-05-10
+
+
+<br />
+这份1982年的PDF文档展示了一则经典广告，强调以**595美元**的价格提供**无可替代的价值**，暗示其性价比远超市场同类产品。内容虽以技术性PDF代码为主，但核心信息突出**稀缺性**和**独特性**，吸引消费者关注其超值优惠。广告风格简洁直接，符合当时营销特点。
+
+---
+
+## <a name="17"></a>17. 微软Teams将新增会议防截屏功能 
+<small>🔗 [bleepingcomputer.com](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/): Microsoft Teams will soon block screen capture during meetings</small>
+
+
+| 🔥: 58 \| 💬: [89](https://news.ycombinator.com/item?id=43948291) \| 🗓️ 2025-05-10
+
+
+<br />
+微软计划于2025年7月在全球推出**防截屏功能**，阻止用户在会议中截取敏感信息。若尝试截图，会议窗口将变黑。该功能覆盖桌面端（Windows/Mac）和移动端（iOS/Android），但需注意**拍照仍可泄露内容**。同期还将推出会议权限管理、Copilot语音摘要等更新。此前Meta也在WhatsApp中推出了类似隐私保护功能。
+
+---
+
+## <a name="18"></a>18. 谷歌Gemini更新变"保守派"，致创伤幸存者应用崩溃 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/05/08/google_gemini_update_prevents_disabling/): Update turns Google Gemini into a prude, breaking apps for trauma survivors</small>
 
 
-| 🔥: 55 \| 💬: [61](https://news.ycombinator.com/item?id=43947731) \| 🗓️ 2025-05-10
+| 🔥: 57 \| 💬: [64](https://news.ycombinator.com/item?id=43947731) \| 🗓️ 2025-05-10
 
 
 <br />
 谷歌最新**Gemini 2.5 Pro Preview**更新导致安全设置功能异常，**强制过滤敏感内容**，即使开发者已通过API调整设置允许相关讨论。此举影响了为性侵受害者提供支持的**VOXHELIX**等应用，导致用户在倾诉创伤时收到"无法协助"的错误提示。开发者称，该问题还波及心理健康类应用，如帮助PTSD患者的**InnerPiece**。谷歌尚未明确回应是故障还是政策调整，但此次"静默更新"已引发开发者社区强烈不满，称其违背了API对"内容许可"的承诺。
+
+---
+
+## <a name="19"></a>19. 过度吹捧Cursor的人往往技术能力不足 
+<small>🔗 [en.smallyu.net](https://en.smallyu.net/2025/04/12/People%20Who%20Hype%20Cursor%20Usually%20Lack%20Technical%20Skills/): People Who Hype Cursor Usually Lack Technical Skills</small>
+
+
+| 🔥: 54 \| 💬: [39](https://news.ycombinator.com/item?id=43945467) \| 🗓️ 2025-05-10
+
+
+<br />
+本文指出，**Cursor**与**GitHub Copilot**底层模型相同（Claude/GPT），功能差异不大。Cursor的优势在于主动引用项目文件，但有时会过度修改代码；Copilot则更保守。作者认为，狂热推崇Cursor的人可能混淆了**生成式AI**的能力与工具本身，并强调编辑器选择是个人偏好，无需争论。日常使用中，**o1模型**的准确度更高，而Cursor的代码导航功能较弱，依赖项目结构。最终结论：可用Cursor，但不必神化。
+
+---
+
+## <a name="20"></a>20. DOGE正让致命职业病卷土重来 
+<small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/05/doge-silicosis-prevention/682745/): DOGE Is Bringing Back a Deadly Disease</small>
+
+
+| 🔥: 53 \| 💬: [14](https://news.ycombinator.com/item?id=43947850) \| 🗓️ 2025-05-10
+
+
+<br />
+**硅肺病**患者连呼吸都需挣扎，日常活动成为奢望。这种因长期吸入**二氧化硅粉尘**引发的疾病曾因奥巴马政府的严格标准得到控制，但特朗普政府撤销了关键防护措施：解散煤矿工人健康监测团队，叫停矿山安全局（MSHA）新规，并关闭多个 OSHA 检查办公室。与此同时，人造石台面加工业正爆发新疫情，200多名拉丁裔工人确诊，但监管机构因资源匮乏难以追踪。**公共健康防护体系的瓦解**将导致更多可预防的悲剧。
+
+---
+
+## <a name="21"></a>21. 技术封建主义的谬误（2024） 
+<small>🔗 [petrapalusova.com](https://petrapalusova.com/articles/tech-platforms-digital-economy-techno-feudalism): The Fallacy of Techno-Feudalism (2024)</small>
+
+
+| 🔥: 49 \| 💬: [65](https://news.ycombinator.com/item?id=43944809) \| 🗓️ 2025-05-10
+
+
+<br />
+本文探讨了数字时代经济形态的演变，反驳了将**大型科技平台**比作**封建领主**的“技术封建主义”理论。作者指出，尽管科技巨头垄断数据、主导平台并加剧经济不平等，但数字经济的**自愿参与性**、创新竞争环境、资源开放性和全球互联性等特质，与中世纪封建制度的强制性、地域封闭性及阶层固化存在本质差异。文章强调，需超越简单类比，以更 nuanced 的视角理解数字经济的权力动态与机遇。
+
+---
+
+## <a name="22"></a>22. 我想爱上Linux，但它不爱我 
+<small>🔗 [fireborn.mataroa.blog](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-1-built-for-control-but-not-for-people/): I Want to Love Linux. It Doesn't Love Me Back</small>
+
+
+| 🔥: 47 \| 💬: [34](https://news.ycombinator.com/item?id=43945373) \| 🗓️ 2025-05-10
+
+
+<br />
+一位视障用户长期使用Linux的无奈控诉：尽管**Linux**拥有自由定制、配置透明等优势，但其**无障碍功能**从启动阶段就已支离破碎——安装程序无语音提示、登录界面读屏失效、音频堆栈混乱不堪。开发者虽努力维护辅助工具，但**系统级支持**长期被忽视，导致用户被迫依赖脚本拼凑解决方案。唯一稳定的桌面环境**MATE**仅是“勉强可用”，而新兴技术如Wayland和GTK4甚至倒退式地破坏了无障碍兼容性。作者最终坦言：即便深爱Linux的开放性，也无法向他人推荐这个“默认拒绝视障者”的系统。
+
+---
+
+## <a name="23"></a>23. Almquist Shell（Ash）变种发展史 
+<small>🔗 [in-ulm.de](https://www.in-ulm.de/~mascheck/various/ash/): Ash (Almquist Shell) Variants</small>
+
+
+| 🔥: 45 \| 💬: [2](https://news.ycombinator.com/item?id=43943984) \| 🗓️ 2025-05-10
+
+
+<br />
+本文追溯了**Almquist Shell（Ash）**的演变历程，从1989年Kenneth Almquist为替代System V Bourne Shell而开发的原版开始，到衍生出的多个变种（如NetBSD、FreeBSD、dash、BusyBox等）。文章详细对比了各版本的差异，包括**POSIX兼容性改进**（如算术扩展`$((...))`）、**特性增减**（如`printf`内置命令的引入与移除）以及**关键修复**（如嵌套反引号转义问题）。重点提及了传统BSD系统（4.3BSD至4.4BSD-Lite2）的迭代，以及商业分支（如BSD/OS）和现代变种（如Android和BusyBox）的适配。**核心差异**包括参数扩展语法、作业控制及信号处理等，凸显了Ash家族在轻量级Shell中的持久影响力。
 
 ---
