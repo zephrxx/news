@@ -27,7 +27,7 @@ tags:
 <small>🔗 [storage.courtlistener.com](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf): US vs. Google amicus curiae brief of Y Combinator in support of plaintiffs [pdf]</small>
 
 
-| 🔥🔥: 284 \| 💬: [427](https://news.ycombinator.com/item?id=43945820) \| 🗓️ 2025-05-10
+| 🔥🔥: 298 \| 💬: [458](https://news.ycombinator.com/item?id=43945820) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [raz.sh](https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp): A Critical Look at MCP</small>
 
 
-| 🔥🔥: 252 \| 💬: [155](https://news.ycombinator.com/item?id=43945993) \| 🗓️ 2025-05-10
+| 🔥🔥: 282 \| 💬: [167](https://news.ycombinator.com/item?id=43945993) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -51,7 +51,7 @@ MCP（模型上下文协议）旨在为LLM与外部工具交互提供标准化�
 <small>🔗 [hjorthjort.xyz](https://www.hjorthjort.xyz/2018/02/21/the-deathbed-fallacy.html): The Deathbed Fallacy (2018)</small>
 
 
-| 🔥🔥: 222 \| 💬: [105](https://news.ycombinator.com/item?id=43944467) \| 🗓️ 2025-05-10
+| 🔥🔥: 228 \| 💬: [107](https://news.ycombinator.com/item?id=43944467) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -63,7 +63,7 @@ MCP（模型上下文协议）旨在为LLM与外部工具交互提供标准化�
 <small>🔗 [ltxv.video](https://ltxv.video/): LTXVideo 13B AI video generation</small>
 
 
-| 🔥🔥: 198 \| 💬: [60](https://news.ycombinator.com/item?id=43944974) \| 🗓️ 2025-05-10
+| 🔥🔥: 201 \| 💬: [60](https://news.ycombinator.com/item?id=43944974) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -75,7 +75,7 @@ Lightricks推出的**LTXV-13B**是一款拥有130亿参数的AI视频生成模�
 <small>🔗 [commonwealmagazine.org](https://www.commonwealmagazine.org/calvert-work-entrepreneur-ethic-baker-review-job): The cult of doing business</small>
 
 
-| 🔥🔥: 129 \| 💬: [105](https://news.ycombinator.com/item?id=43945162) \| 🗓️ 2025-05-10
+| 🔥🔥: 131 \| 💬: [105](https://news.ycombinator.com/item?id=43945162) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -87,7 +87,7 @@ Lightricks推出的**LTXV-13B**是一款拥有130亿参数的AI视频生成模�
 <small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/05/10/sam-altman-wants-your-eyeball/): Sam Altman Wants Your Eyeball</small>
 
 
-| 🔥🔥: 129 \| 💬: [133](https://news.ycombinator.com/item?id=43946766) \| 🗓️ 2025-05-10
+| 🔥🔥: 131 \| 💬: [135](https://news.ycombinator.com/item?id=43946766) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -99,7 +99,7 @@ OpenAI CEO山姆·奥特曼联合创立的**Worldcoin项目**（现更名为Worl
 <small>🔗 [righto.com](http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html): Reverse engineering the 386 processor's prefetch queue circuitry</small>
 
 
-| 🔥: 90 \| 💬: [29](https://news.ycombinator.com/item?id=43946824) \| 🗓️ 2025-05-10
+| 🔥: 100 \| 💬: [29](https://news.ycombinator.com/item?id=43946824) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -111,7 +111,7 @@ OpenAI CEO山姆·奥特曼联合创立的**Worldcoin项目**（现更名为Worl
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/07/experts-warn-therapy-ai-chatbots-are-not-safe-to-use): 'It cannot provide nuance': UK experts warn AI therapy chatbots are not safe</small>
 
 
-| 🔥: 83 \| 💬: [91](https://news.ycombinator.com/item?id=43946498) \| 🗓️ 2025-05-10
+| 🔥: 94 \| 💬: [102](https://news.ycombinator.com/item?id=43946498) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -119,23 +119,11 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 
 ---
 
-## <a name="9"></a>9. 美国政府考虑暂停人身保护令 
-<small>🔗 [bbc.com](https://www.bbc.com/news/articles/c0qgz18glljo): US Government considering suspending habeas corpus</small>
-
-
-| 🔥: 82 \| 💬: [19](https://news.ycombinator.com/item?id=43944687) \| 🗓️ 2025-05-10
-
-
-<br />
-特朗普政府正“积极考虑”暂停**人身保护令**（即被拘留者向法院申诉的权利）。白宫副幕僚长斯蒂芬·米勒称，美国宪法允许在“叛乱或入侵”时暂停这一权利，并暗示此举与近期法院挑战移民拘留案件有关。法律专家反驳称，暂停权仅属国会。历史上美国曾四次暂停该权利，但均由国会行使。特朗普未直接提及此事，但强调将采取措施应对阻碍其驱逐行动的禁令。
-
----
-
-## <a name="10"></a>10. 展示：Code Claude代码交互工具 
+## <a name="9"></a>9. 展示：Code Claude代码交互工具 
 <small>🔗 [github.com](https://github.com/RVCA212/codesys): Show HN: Code Claude Code</small>
 
 
-| 🔥: 80 \| 💬: [16](https://news.ycombinator.com/item?id=43946066) \| 🗓️ 2025-05-10
+| 🔥: 89 \| 💬: [19](https://news.ycombinator.com/item?id=43946066) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -143,71 +131,11 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 
 ---
 
-## <a name="11"></a>11. Radxa Orion O6：中端Arm主板，潜力与问题并存 
-<small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc): Radxa Orion O6 brings Arm to the midrange PC (with caveats)</small>
-
-
-| 🔥: 78 \| 💬: [59](https://news.ycombinator.com/item?id=43945041) \| 🗓️ 2025-05-10
-
-
-<br />
-Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（最高2.6GHz）和64GB内存，起售价约200美元。它通过**SystemReady SR认证**，可原生运行Windows on Arm和Linux，但存在诸多固件问题，如核心调度异常、性能不稳定（实测仅8核可用）和驱动兼容性差（尤其Windows环境）。尽管内存带宽达40-50GB/s，其效率仍落后于Apple M1或骁龙X。亮点包括**PCIe 4.0扩展能力**和低功耗设计，但15W待机功耗偏高。适合技术爱好者折腾，普通用户建议观望。
-
----
-
-## <a name="12"></a>12. 行业团体不满特朗普政府拟取消"能源之星"计划 
-<small>🔗 [insideclimatenews.org](https://insideclimatenews.org/news/08052025/energy-star-program-could-be-eliminated-by-trump-administration/): Industry groups are not happy about the imminent demise of Energy Star</small>
-
-
-| 🔥: 75 \| 💬: [101](https://news.ycombinator.com/item?id=43945138) \| 🗓️ 2025-05-10
-
-
-<br />
-美国环保署计划终止已有33年历史的**"能源之星"**能效认证项目，引发制造商和环保人士强烈反对。该由共和党政府发起的自愿性项目累计为消费者节省5000亿美元，其蓝色标签被90%美国家庭认可。批评者认为此举体现政府**"反气候行动"**意识形态，而行业则警告取消认证将导致市场混乱。尽管法律障碍存在，但环保署正通过机构重组推进该计划，其每年3200万美元的运营成本与为家庭节省的400亿能源开支形成鲜明对比。
-
----
-
-## <a name="13"></a>13. 英特尔：辉煌与挑战 
-<small>🔗 [abortretry.fail](https://www.abortretry.fail/p/intel-winning-and-losing): Intel: Winning and Losing</small>
-
-
-| 🔥: 72 \| 💬: [39](https://news.ycombinator.com/item?id=43944790) \| 🗓️ 2025-05-10
-
-
-<br />
-2008年，英特尔凭借**Atom处理器**重返低功耗市场，但受限于配套芯片组尺寸，未能打入手持设备领域。同年推出的**Nehalem微架构**（Core i7/Xeon）采用45nm工艺，集成内存控制器与QPI总线，性能提升20%。2010年，32nm工艺的**Westmere**带来六核处理器与AES加速，而2011年的Sandy Bridge进一步整合GPU并支持AVX指令集。尽管在PC和服务器市场占据主导，英特尔在移动领域面临ARM等对手的激烈竞争，开始通过MeeGo系统和Android合作寻求突破。
-
----
-
-## <a name="14"></a>14. Linux下C/POSIX标准库实现对比 
-<small>🔗 [etalabs.net](https://www.etalabs.net/compare_libcs.html): Comparison of C/POSIX standard library implementations for Linux</small>
-
-
-| 🔥: 69 \| 💬: [21](https://news.ycombinator.com/item?id=43946149) \| 🗓️ 2025-05-10
-
-
-<br />
-本文对比了Linux平台上四种C/POSIX标准库实现（**musl**、**uClibc**、**dietlibc**和**glibc**），重点分析**代码体积**、**资源耗尽行为**、**性能**及**功能支持**。musl以轻量化和安全性见长，glibc功能全面但臃肿，uClibc和dietlibc则介于两者之间。测试涵盖内存占用、线程处理、字符串操作等关键指标，并指出各库在ABI兼容性、算法优化（如**strstr**和正则表达式）及跨架构支持上的差异。作者（musl开发者）强调客观性，但承认可能存在倾向性选择。
-
----
-
-## <a name="15"></a>15. 特斯拉保险业务亏损严重，赔付率远超行业水平 
-<small>🔗 [insideevs.com](https://insideevs.com/news/759156/tesla-insurance-loss-higher-average/): Even Tesla's Insurance Arm Is Getting Wrecked</small>
-
-
-| 🔥: 65 \| 💬: [82](https://news.ycombinator.com/item?id=43947690) \| 🗓️ 2025-05-10
-
-
-<br />
-特斯拉的保险业务因**赔付率高达103.3%**（2024年数据）而持续亏损，远高于行业平均的66.1%。尽管特斯拉曾试图通过**全自动驾驶数据**降低保费，但高昂的维修成本（比燃油车高32%）和糟糕的客户服务（投诉包括漫长维修期和低效理赔）导致其保险业务难以为继。近年来，特斯拉保费上涨30%，但亏损仍未见改善。
-
----
-
-## <a name="16"></a>16. 1982年广告：595美元买到双倍价格都买不到的独特价值 
+## <a name="10"></a>10. 1982年广告：595美元买到双倍价格都买不到的独特价值 
 <small>🔗 [s3data.computerhistory.org](https://s3data.computerhistory.org/brochures/commodore.commodore64.1982.102646264.pdf): For $595, you get what nobody else can give you for twice the price (1982) [pdf]</small>
 
 
-| 🔥: 63 \| 💬: [20](https://news.ycombinator.com/item?id=43947630) \| 🗓️ 2025-05-10
+| 🔥: 89 \| 💬: [41](https://news.ycombinator.com/item?id=43947630) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -215,11 +143,71 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 
 ---
 
-## <a name="17"></a>17. 微软Teams将新增会议防截屏功能 
+## <a name="11"></a>11. 美国政府考虑暂停人身保护令 
+<small>🔗 [bbc.com](https://www.bbc.com/news/articles/c0qgz18glljo): US Government considering suspending habeas corpus</small>
+
+
+| 🔥: 83 \| 💬: [17](https://news.ycombinator.com/item?id=43944687) \| 🗓️ 2025-05-10
+
+
+<br />
+特朗普政府正“积极考虑”暂停**人身保护令**（即被拘留者向法院申诉的权利）。白宫副幕僚长斯蒂芬·米勒称，美国宪法允许在“叛乱或入侵”时暂停这一权利，并暗示此举与近期法院挑战移民拘留案件有关。法律专家反驳称，暂停权仅属国会。历史上美国曾四次暂停该权利，但均由国会行使。特朗普未直接提及此事，但强调将采取措施应对阻碍其驱逐行动的禁令。
+
+---
+
+## <a name="12"></a>12. Radxa Orion O6：中端Arm主板，潜力与问题并存 
+<small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc): Radxa Orion O6 brings Arm to the midrange PC (with caveats)</small>
+
+
+| 🔥: 79 \| 💬: [59](https://news.ycombinator.com/item?id=43945041) \| 🗓️ 2025-05-10
+
+
+<br />
+Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（最高2.6GHz）和64GB内存，起售价约200美元。它通过**SystemReady SR认证**，可原生运行Windows on Arm和Linux，但存在诸多固件问题，如核心调度异常、性能不稳定（实测仅8核可用）和驱动兼容性差（尤其Windows环境）。尽管内存带宽达40-50GB/s，其效率仍落后于Apple M1或骁龙X。亮点包括**PCIe 4.0扩展能力**和低功耗设计，但15W待机功耗偏高。适合技术爱好者折腾，普通用户建议观望。
+
+---
+
+## <a name="13"></a>13. Linux下C/POSIX标准库实现对比 
+<small>🔗 [etalabs.net](https://www.etalabs.net/compare_libcs.html): Comparison of C/POSIX standard library implementations for Linux</small>
+
+
+| 🔥: 78 \| 💬: [24](https://news.ycombinator.com/item?id=43946149) \| 🗓️ 2025-05-10
+
+
+<br />
+本文对比了Linux平台上四种C/POSIX标准库实现（**musl**、**uClibc**、**dietlibc**和**glibc**），重点分析**代码体积**、**资源耗尽行为**、**性能**及**功能支持**。musl以轻量化和安全性见长，glibc功能全面但臃肿，uClibc和dietlibc则介于两者之间。测试涵盖内存占用、线程处理、字符串操作等关键指标，并指出各库在ABI兼容性、算法优化（如**strstr**和正则表达式）及跨架构支持上的差异。作者（musl开发者）强调客观性，但承认可能存在倾向性选择。
+
+---
+
+## <a name="14"></a>14. 行业团体不满特朗普政府拟取消"能源之星"计划 
+<small>🔗 [insideclimatenews.org](https://insideclimatenews.org/news/08052025/energy-star-program-could-be-eliminated-by-trump-administration/): Industry groups are not happy about the imminent demise of Energy Star</small>
+
+
+| 🔥: 76 \| 💬: [102](https://news.ycombinator.com/item?id=43945138) \| 🗓️ 2025-05-10
+
+
+<br />
+美国环保署计划终止已有33年历史的**"能源之星"**能效认证项目，引发制造商和环保人士强烈反对。该由共和党政府发起的自愿性项目累计为消费者节省5000亿美元，其蓝色标签被90%美国家庭认可。批评者认为此举体现政府**"反气候行动"**意识形态，而行业则警告取消认证将导致市场混乱。尽管法律障碍存在，但环保署正通过机构重组推进该计划，其每年3200万美元的运营成本与为家庭节省的400亿能源开支形成鲜明对比。
+
+---
+
+## <a name="15"></a>15. 英特尔：辉煌与挑战 
+<small>🔗 [abortretry.fail](https://www.abortretry.fail/p/intel-winning-and-losing): Intel: Winning and Losing</small>
+
+
+| 🔥: 75 \| 💬: [44](https://news.ycombinator.com/item?id=43944790) \| 🗓️ 2025-05-10
+
+
+<br />
+2008年，英特尔凭借**Atom处理器**重返低功耗市场，但受限于配套芯片组尺寸，未能打入手持设备领域。同年推出的**Nehalem微架构**（Core i7/Xeon）采用45nm工艺，集成内存控制器与QPI总线，性能提升20%。2010年，32nm工艺的**Westmere**带来六核处理器与AES加速，而2011年的Sandy Bridge进一步整合GPU并支持AVX指令集。尽管在PC和服务器市场占据主导，英特尔在移动领域面临ARM等对手的激烈竞争，开始通过MeeGo系统和Android合作寻求突破。
+
+---
+
+## <a name="16"></a>16. 微软Teams将新增会议防截屏功能 
 <small>🔗 [bleepingcomputer.com](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/): Microsoft Teams will soon block screen capture during meetings</small>
 
 
-| 🔥: 58 \| 💬: [89](https://news.ycombinator.com/item?id=43948291) \| 🗓️ 2025-05-10
+| 🔥: 73 \| 💬: [123](https://news.ycombinator.com/item?id=43948291) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -227,11 +215,23 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 
 ---
 
+## <a name="17"></a>17. 特斯拉保险业务亏损严重，赔付率远超行业水平 
+<small>🔗 [insideevs.com](https://insideevs.com/news/759156/tesla-insurance-loss-higher-average/): Even Tesla's Insurance Arm Is Getting Wrecked</small>
+
+
+| 🔥: 68 \| 💬: [85](https://news.ycombinator.com/item?id=43947690) \| 🗓️ 2025-05-10
+
+
+<br />
+特斯拉的保险业务因**赔付率高达103.3%**（2024年数据）而持续亏损，远高于行业平均的66.1%。尽管特斯拉曾试图通过**全自动驾驶数据**降低保费，但高昂的维修成本（比燃油车高32%）和糟糕的客户服务（投诉包括漫长维修期和低效理赔）导致其保险业务难以为继。近年来，特斯拉保费上涨30%，但亏损仍未见改善。
+
+---
+
 ## <a name="18"></a>18. 谷歌Gemini更新变"保守派"，致创伤幸存者应用崩溃 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/05/08/google_gemini_update_prevents_disabling/): Update turns Google Gemini into a prude, breaking apps for trauma survivors</small>
 
 
-| 🔥: 57 \| 💬: [64](https://news.ycombinator.com/item?id=43947731) \| 🗓️ 2025-05-10
+| 🔥: 59 \| 💬: [68](https://news.ycombinator.com/item?id=43947731) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -243,7 +243,7 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 <small>🔗 [en.smallyu.net](https://en.smallyu.net/2025/04/12/People%20Who%20Hype%20Cursor%20Usually%20Lack%20Technical%20Skills/): People Who Hype Cursor Usually Lack Technical Skills</small>
 
 
-| 🔥: 54 \| 💬: [39](https://news.ycombinator.com/item?id=43945467) \| 🗓️ 2025-05-10
+| 🔥: 58 \| 💬: [42](https://news.ycombinator.com/item?id=43945467) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -255,7 +255,7 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/05/doge-silicosis-prevention/682745/): DOGE Is Bringing Back a Deadly Disease</small>
 
 
-| 🔥: 53 \| 💬: [14](https://news.ycombinator.com/item?id=43947850) \| 🗓️ 2025-05-10
+| 🔥: 57 \| 💬: [15](https://news.ycombinator.com/item?id=43947850) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -279,7 +279,7 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 <small>🔗 [fireborn.mataroa.blog](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-1-built-for-control-but-not-for-people/): I Want to Love Linux. It Doesn't Love Me Back</small>
 
 
-| 🔥: 47 \| 💬: [34](https://news.ycombinator.com/item?id=43945373) \| 🗓️ 2025-05-10
+| 🔥: 49 \| 💬: [35](https://news.ycombinator.com/item?id=43945373) \| 🗓️ 2025-05-10
 
 
 <br />
