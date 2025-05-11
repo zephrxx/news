@@ -12,7 +12,7 @@ tags:
 1. Y Combinator提交法庭之友简报支持美国政府诉谷歌案；
 1. 临终谬误（2018）；
 1. LTXVideo 13B：AI视频生成的革命性突破；
-1. 山姆·奥特曼想扫描你的眼球；
+1. 1982年广告：595美元买到双倍价格都买不到的独特价值；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [raz.sh](https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp): A critical look at MCP</small>
 
 
-| 🔥🔥: 361 \| 💬: [207](https://news.ycombinator.com/item?id=43945993) \| 🗓️ 2025-05-10
+| 🔥🔥: 376 \| 💬: [213](https://news.ycombinator.com/item?id=43945993) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -39,7 +39,7 @@ MCP（模型上下文协议）旨在为LLM与外部工具交互提供标准化�
 <small>🔗 [storage.courtlistener.com](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf): US vs. Google amicus curiae brief of Y Combinator in support of plaintiffs [pdf]</small>
 
 
-| 🔥🔥: 332 \| 💬: [590](https://news.ycombinator.com/item?id=43945820) \| 🗓️ 2025-05-10
+| 🔥🔥: 335 \| 💬: [610](https://news.ycombinator.com/item?id=43945820) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -51,7 +51,7 @@ MCP（模型上下文协议）旨在为LLM与外部工具交互提供标准化�
 <small>🔗 [hjorthjort.xyz](https://www.hjorthjort.xyz/2018/02/21/the-deathbed-fallacy.html): The Deathbed Fallacy (2018)</small>
 
 
-| 🔥🔥: 241 \| 💬: [116](https://news.ycombinator.com/item?id=43944467) \| 🗓️ 2025-05-10
+| 🔥🔥: 245 \| 💬: [116](https://news.ycombinator.com/item?id=43944467) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -71,23 +71,11 @@ Lightricks推出的**LTXV-13B**是一款拥有130亿参数的AI视频生成模�
 
 ---
 
-## <a name="5"></a>5. 山姆·奥特曼想扫描你的眼球 
-<small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/05/10/sam-altman-wants-your-eyeball/): Sam Altman Wants Your Eyeball</small>
-
-
-| 🔥🔥: 138 \| 💬: [142](https://news.ycombinator.com/item?id=43946766) \| 🗓️ 2025-05-10
-
-
-<br />
-OpenAI CEO山姆·奥特曼联合创立的**Worldcoin项目**（现更名为World）在美国开设6家门店，通过**眼球扫描**为用户生成生物识别标签，以验证身份并推广其应用与加密货币。该项目被批评为“反乌托邦”，因涉嫌利用贫困地区人群测试技术，并存在隐私风险。**生物数据**一旦泄露无法更改，且可能终结网络匿名性。尽管公司宣称数据“本地存储”，但实际操作中敏感信息仍可能外泄。肯尼亚已因隐私问题叫停其运营。
-
----
-
-## <a name="6"></a>6. 1982年广告：595美元买到双倍价格都买不到的独特价值 
+## <a name="5"></a>5. 1982年广告：595美元买到双倍价格都买不到的独特价值 
 <small>🔗 [s3data.computerhistory.org](https://s3data.computerhistory.org/brochures/commodore.commodore64.1982.102646264.pdf): For $595, you get what nobody else can give you for twice the price (1982) [pdf]</small>
 
 
-| 🔥🔥: 137 \| 💬: [86](https://news.ycombinator.com/item?id=43947630) \| 🗓️ 2025-05-10
+| 🔥🔥: 145 \| 💬: [89](https://news.ycombinator.com/item?id=43947630) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -95,23 +83,11 @@ OpenAI CEO山姆·奥特曼联合创立的**Worldcoin项目**（现更名为Worl
 
 ---
 
-## <a name="7"></a>7. 商业崇拜：创业工作伦理的历史 
-<small>🔗 [commonwealmagazine.org](https://www.commonwealmagazine.org/calvert-work-entrepreneur-ethic-baker-review-job): The cult of doing business</small>
-
-
-| 🔥🔥: 134 \| 💬: [108](https://news.ycombinator.com/item?id=43945162) \| 🗓️ 2025-05-10
-
-
-<br />
-埃里克·贝克（Erik Baker）探讨了**创业文化**的演变，分析了其对现代**工作伦理**的影响。文章由德鲁·卡尔弗特（Drew Calvert）撰写，发表于2025年4月29日，涉及政治、文化、书籍和劳动等领域。核心观点聚焦于**企业家精神**如何从个人追求演变为一种社会现象。
-
----
-
-## <a name="8"></a>8. 微软Teams将新增会议防截屏功能 
+## <a name="6"></a>6. 微软Teams将新增会议防截屏功能 
 <small>🔗 [bleepingcomputer.com](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/): Microsoft Teams will soon block screen capture during meetings</small>
 
 
-| 🔥🔥: 132 \| 💬: [198](https://news.ycombinator.com/item?id=43948291) \| 🗓️ 2025-05-10
+| 🔥🔥: 144 \| 💬: [205](https://news.ycombinator.com/item?id=43948291) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -119,11 +95,35 @@ OpenAI CEO山姆·奥特曼联合创立的**Worldcoin项目**（现更名为Worl
 
 ---
 
+## <a name="7"></a>7. 山姆·奥特曼想扫描你的眼球 
+<small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/05/10/sam-altman-wants-your-eyeball/): Sam Altman Wants Your Eyeball</small>
+
+
+| 🔥🔥: 142 \| 💬: [142](https://news.ycombinator.com/item?id=43946766) \| 🗓️ 2025-05-10
+
+
+<br />
+OpenAI CEO山姆·奥特曼联合创立的**Worldcoin项目**（现更名为World）在美国开设6家门店，通过**眼球扫描**为用户生成生物识别标签，以验证身份并推广其应用与加密货币。该项目被批评为“反乌托邦”，因涉嫌利用贫困地区人群测试技术，并存在隐私风险。**生物数据**一旦泄露无法更改，且可能终结网络匿名性。尽管公司宣称数据“本地存储”，但实际操作中敏感信息仍可能外泄。肯尼亚已因隐私问题叫停其运营。
+
+---
+
+## <a name="8"></a>8. 商业崇拜：创业工作伦理的历史 
+<small>🔗 [commonwealmagazine.org](https://www.commonwealmagazine.org/calvert-work-entrepreneur-ethic-baker-review-job): The cult of doing business</small>
+
+
+| 🔥🔥: 137 \| 💬: [108](https://news.ycombinator.com/item?id=43945162) \| 🗓️ 2025-05-10
+
+
+<br />
+埃里克·贝克（Erik Baker）探讨了**创业文化**的演变，分析了其对现代**工作伦理**的影响。文章由德鲁·卡尔弗特（Drew Calvert）撰写，发表于2025年4月29日，涉及政治、文化、书籍和劳动等领域。核心观点聚焦于**企业家精神**如何从个人追求演变为一种社会现象。
+
+---
+
 ## <a name="9"></a>9. 英国专家警告：AI心理治疗聊天机器人存在安全隐患 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/07/experts-warn-therapy-ai-chatbots-are-not-safe-to-use): 'It cannot provide nuance': UK experts warn AI therapy chatbots are not safe</small>
 
 
-| 🔥🔥: 122 \| 💬: [149](https://news.ycombinator.com/item?id=43946498) \| 🗓️ 2025-05-10
+| 🔥🔥: 124 \| 💬: [149](https://news.ycombinator.com/item?id=43946498) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -131,23 +131,11 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 
 ---
 
-## <a name="10"></a>10. 逆向工程386处理器的预取队列电路 
-<small>🔗 [righto.com](http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html): Reverse engineering the 386 processor's prefetch queue circuitry</small>
-
-
-| 🔥🔥: 118 \| 💬: [39](https://news.ycombinator.com/item?id=43946824) \| 🗓️ 2025-05-10
-
-
-<br />
-1985年，英特尔推出了划时代的**386处理器**，这是x86架构中首款32位处理器。其**16字节预取队列**通过提前从内存获取指令来提升性能，利用处理器“空闲”时间避免内存等待。本文详细解析了预取队列的电路设计，包括**曼彻斯特进位链**实现的高速增量器、数据对齐网络和符号扩展电路。通过动态逻辑优化，电路在固定宽度布局中高效运行，同时减少功耗。预取队列还包含段限检查机制，确保指令在有效内存范围内获取。
-
----
-
-## <a name="11"></a>11. 人际观察的21个微妙洞察 
+## <a name="10"></a>10. 人际观察的21个微妙洞察 
 <small>🔗 [skincontact.substack.com](https://skincontact.substack.com/p/21-observations-from-people-watching): Observations from people watching</small>
 
 
-| 🔥🔥: 106 \| 💬: [46](https://news.ycombinator.com/item?id=43949542) \| 🗓️ 2025-05-10
+| 🔥🔥: 124 \| 💬: [59](https://news.ycombinator.com/item?id=43949542) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -155,11 +143,23 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 
 ---
 
+## <a name="11"></a>11. 逆向工程386处理器的预取队列电路 
+<small>🔗 [righto.com](http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html): Reverse engineering the 386 processor's prefetch queue circuitry</small>
+
+
+| 🔥🔥: 120 \| 💬: [39](https://news.ycombinator.com/item?id=43946824) \| 🗓️ 2025-05-10
+
+
+<br />
+1985年，英特尔推出了划时代的**386处理器**，这是x86架构中首款32位处理器。其**16字节预取队列**通过提前从内存获取指令来提升性能，利用处理器“空闲”时间避免内存等待。本文详细解析了预取队列的电路设计，包括**曼彻斯特进位链**实现的高速增量器、数据对齐网络和符号扩展电路。通过动态逻辑优化，电路在固定宽度布局中高效运行，同时减少功耗。预取队列还包含段限检查机制，确保指令在有效内存范围内获取。
+
+---
+
 ## <a name="12"></a>12. 位运算与谢尔宾斯基三角的奇妙邂逅 
 <small>🔗 [lcamtuf.substack.com](https://lcamtuf.substack.com/p/sierpinski-triangle-in-my-bitwise): Sierpiński Triangle? In My Bitwise and?</small>
 
 
-| 🔥🔥: 104 \| 💬: [31](https://news.ycombinator.com/item?id=43949238) \| 🗓️ 2025-05-10
+| 🔥🔥: 111 \| 💬: [31](https://news.ycombinator.com/item?id=43949238) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -171,7 +171,7 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 <small>🔗 [github.com](https://github.com/RVCA212/codesys): Show HN: Code Claude Code</small>
 
 
-| 🔥: 97 \| 💬: [23](https://news.ycombinator.com/item?id=43946066) \| 🗓️ 2025-05-10
+| 🔥🔥: 101 \| 💬: [23](https://news.ycombinator.com/item?id=43946066) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -183,7 +183,7 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 <small>🔗 [etalabs.net](https://www.etalabs.net/compare_libcs.html): Comparison of C/POSIX standard library implementations for Linux</small>
 
 
-| 🔥: 91 \| 💬: [30](https://news.ycombinator.com/item?id=43946149) \| 🗓️ 2025-05-10
+| 🔥: 95 \| 💬: [31](https://news.ycombinator.com/item?id=43946149) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -191,11 +191,23 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 
 ---
 
-## <a name="15"></a>15. 美国政府考虑暂停人身保护令 
+## <a name="15"></a>15. 无点域名：互联网中的特殊存在 
+<small>🔗 [lab.avl.la](https://lab.avl.la/dotless/): Dotless Domains</small>
+
+
+| 🔥: 88 \| 💬: [43](https://news.ycombinator.com/item?id=43950525) \| 🗓️ 2025-05-10
+
+
+<br />
+无点域名指顶级域名（TLD）本身可作为可访问的网站或邮箱地址（如 `http://com/` 或 `contact@gov`），其DNS根区包含 **A/AAAA** 或 **MX记录**。尽管ICANN和IAB反对此做法并禁止通用顶级域名（gTLD）使用，但部分国家代码顶级域名（ccTLD）仍存在此类案例。例如，`.bd`、`.cm` 等可通过浏览器访问，而 `.mr` 等虽支持邮箱但受SMTP协议限制无法实际使用。文章还探讨了理论上根域名（`.`）也可实现无点访问，但实际可能性极低。
+
+---
+
+## <a name="16"></a>16. 美国政府考虑暂停人身保护令 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c0qgz18glljo): US Government considering suspending habeas corpus</small>
 
 
-| 🔥: 86 \| 💬: [20](https://news.ycombinator.com/item?id=43944687) \| 🗓️ 2025-05-10
+| 🔥: 86 \| 💬: [23](https://news.ycombinator.com/item?id=43944687) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -203,11 +215,11 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 
 ---
 
-## <a name="16"></a>16. Radxa Orion O6：中端Arm主板，潜力与问题并存 
+## <a name="17"></a>17. Radxa Orion O6：中端Arm主板，潜力与问题并存 
 <small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc): Radxa Orion O6 brings Arm to the midrange PC (with caveats)</small>
 
 
-| 🔥: 84 \| 💬: [62](https://news.ycombinator.com/item?id=43945041) \| 🗓️ 2025-05-10
+| 🔥: 85 \| 💬: [63](https://news.ycombinator.com/item?id=43945041) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -215,11 +227,11 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 
 ---
 
-## <a name="17"></a>17. 英特尔：辉煌与挑战 
+## <a name="18"></a>18. 英特尔：辉煌与挑战 
 <small>🔗 [abortretry.fail](https://www.abortretry.fail/p/intel-winning-and-losing): Intel: Winning and Losing</small>
 
 
-| 🔥: 81 \| 💬: [59](https://news.ycombinator.com/item?id=43944790) \| 🗓️ 2025-05-10
+| 🔥: 81 \| 💬: [61](https://news.ycombinator.com/item?id=43944790) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -227,11 +239,11 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 
 ---
 
-## <a name="18"></a>18. 行业团体不满特朗普政府拟取消"能源之星"计划 
+## <a name="19"></a>19. 行业团体不满特朗普政府拟取消"能源之星"计划 
 <small>🔗 [insideclimatenews.org](https://insideclimatenews.org/news/08052025/energy-star-program-could-be-eliminated-by-trump-administration/): Industry groups are not happy about the imminent demise of Energy Star</small>
 
 
-| 🔥: 78 \| 💬: [104](https://news.ycombinator.com/item?id=43945138) \| 🗓️ 2025-05-10
+| 🔥: 79 \| 💬: [104](https://news.ycombinator.com/item?id=43945138) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -239,7 +251,19 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 
 ---
 
-## <a name="19"></a>19. 特斯拉保险业务亏损严重，赔付率远超行业水平 
+## <a name="20"></a>20. 树莓派监控系统：我的食肉植物宠物实验室 
+<small>🔗 [github.com](https://github.com/blackrabbit17/xenolab): Show HN: Xenolab – Rasp Pi monitor for my pet carnivourus plants</small>
+
+
+| 🔥: 74 \| 💬: [23](https://news.ycombinator.com/item?id=43948945) \| 🗓️ 2025-05-10
+
+
+<br />
+这是一个基于**树莓派5**的智能监控站，专为**食肉植物**设计，具备温湿度监测、土壤湿度感应、RGB补光灯和模拟风扇等功能。作者结合3D打印与电子工程，打造了这个充满趣味且略微“过度设计”的项目，并警告系统**不适用于具有攻击性的植物**（如三裂树）。设备包含多种传感器、USB继电器和7英寸触控屏，全部通过CAD设计并手工组装，展现了从编程到硬件的跨界尝试。
+
+---
+
+## <a name="21"></a>21. 特斯拉保险业务亏损严重，赔付率远超行业水平 
 <small>🔗 [insideevs.com](https://insideevs.com/news/759156/tesla-insurance-loss-higher-average/): Even Tesla's Insurance Arm Is Getting Wrecked</small>
 
 
@@ -251,19 +275,7 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 
 ---
 
-## <a name="20"></a>20. 树莓派监控系统：我的食肉植物宠物实验室 
-<small>🔗 [github.com](https://github.com/blackrabbit17/xenolab): Show HN: Xenolab – Rasp Pi monitor for my pet carnivourus plants</small>
-
-
-| 🔥: 70 \| 💬: [21](https://news.ycombinator.com/item?id=43948945) \| 🗓️ 2025-05-10
-
-
-<br />
-这是一个基于**树莓派5**的智能监控站，专为**食肉植物**设计，具备温湿度监测、土壤湿度感应、RGB补光灯和模拟风扇等功能。作者结合3D打印与电子工程，打造了这个充满趣味且略微“过度设计”的项目，并警告系统**不适用于具有攻击性的植物**（如三裂树）。设备包含多种传感器、USB继电器和7英寸触控屏，全部通过CAD设计并手工组装，展现了从编程到硬件的跨界尝试。
-
----
-
-## <a name="21"></a>21. DOGE正让致命职业病卷土重来 
+## <a name="22"></a>22. DOGE正让致命职业病卷土重来 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/05/doge-silicosis-prevention/682745/): DOGE Is Bringing Back a Deadly Disease</small>
 
 
@@ -275,7 +287,7 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 
 ---
 
-## <a name="22"></a>22. 过度吹捧Cursor的人往往技术能力不足 
+## <a name="23"></a>23. 过度吹捧Cursor的人往往技术能力不足 
 <small>🔗 [en.smallyu.net](https://en.smallyu.net/2025/04/12/People%20Who%20Hype%20Cursor%20Usually%20Lack%20Technical%20Skills/): People Who Hype Cursor Usually Lack Technical Skills</small>
 
 
@@ -287,11 +299,11 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 
 ---
 
-## <a name="23"></a>23. 谷歌Gemini更新变"保守派"，致创伤幸存者应用崩溃 
+## <a name="24"></a>24. 谷歌Gemini更新变"保守派"，致创伤幸存者应用崩溃 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/05/08/google_gemini_update_prevents_disabling/): Update turns Google Gemini into a prude, breaking apps for trauma survivors</small>
 
 
-| 🔥: 62 \| 💬: [70](https://news.ycombinator.com/item?id=43947731) \| 🗓️ 2025-05-10
+| 🔥: 63 \| 💬: [70](https://news.ycombinator.com/item?id=43947731) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -299,26 +311,14 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 
 ---
 
-## <a name="24"></a>24. 我想爱上Linux，但它不爱我 
+## <a name="25"></a>25. 我想爱上Linux，但它不爱我 
 <small>🔗 [fireborn.mataroa.blog](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-1-built-for-control-but-not-for-people/): I Want to Love Linux. It Doesn't Love Me Back</small>
 
 
-| 🔥: 56 \| 💬: [40](https://news.ycombinator.com/item?id=43945373) \| 🗓️ 2025-05-10
+| 🔥: 57 \| 💬: [40](https://news.ycombinator.com/item?id=43945373) \| 🗓️ 2025-05-10
 
 
 <br />
 一位视障用户长期使用Linux的无奈控诉：尽管**Linux**拥有自由定制、配置透明等优势，但其**无障碍功能**从启动阶段就已支离破碎——安装程序无语音提示、登录界面读屏失效、音频堆栈混乱不堪。开发者虽努力维护辅助工具，但**系统级支持**长期被忽视，导致用户被迫依赖脚本拼凑解决方案。唯一稳定的桌面环境**MATE**仅是“勉强可用”，而新兴技术如Wayland和GTK4甚至倒退式地破坏了无障碍兼容性。作者最终坦言：即便深爱Linux的开放性，也无法向他人推荐这个“默认拒绝视障者”的系统。
-
----
-
-## <a name="25"></a>25. 技术封建主义的谬误（2024） 
-<small>🔗 [petrapalusova.com](https://petrapalusova.com/articles/tech-platforms-digital-economy-techno-feudalism): The Fallacy of Techno-Feudalism (2024)</small>
-
-
-| 🔥: 50 \| 💬: [66](https://news.ycombinator.com/item?id=43944809) \| 🗓️ 2025-05-10
-
-
-<br />
-本文探讨了数字时代经济形态的演变，反驳了将**大型科技平台**比作**封建领主**的“技术封建主义”理论。作者指出，尽管科技巨头垄断数据、主导平台并加剧经济不平等，但数字经济的**自愿参与性**、创新竞争环境、资源开放性和全球互联性等特质，与中世纪封建制度的强制性、地域封闭性及阶层固化存在本质差异。文章强调，需超越简单类比，以更 nuanced 的视角理解数字经济的权力动态与机遇。
 
 ---
