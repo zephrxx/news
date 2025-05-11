@@ -12,11 +12,11 @@ tags:
 1. 2025年风投泡沫破裂：AI成最后赌注，OpenAI独木难支；
 1. 用纯C语言编写的轻量级Windows待办事项应用；
 1. 赫库兰尼姆古卷经数字技术破解 确认作者与书名；
-1. 2038年危机：全球数字定时炸弹；
+1. 在Linux和Windows（WSL）上开发iOS应用；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [plainvanillaweb.com](https://plainvanillaweb.com/index.html): Plain Vanilla Web</small>
 
 
-| 🔥🔥: 470 \| 💬: [255](https://news.ycombinator.com/item?id=43954896) \| 🗓️ 2025-05-11
+| 🔥🔥: 534 \| 💬: [290](https://news.ycombinator.com/item?id=43954896) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [pivot-to-ai.com](https://pivot-to-ai.com/2025/05/03/in-2025-venture-capital-cant-pretend-everything-is-fine-any-more/): In 2025, venture capital can't pretend everything is fine any more</small>
 
 
-| 🔥🔥: 239 \| 💬: [212](https://news.ycombinator.com/item?id=43953884) \| 🗓️ 2025-05-11
+| 🔥🔥: 244 \| 💬: [217](https://news.ycombinator.com/item?id=43953884) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Efeckc17/simple-todo-c): I built a native Windows Todo app in pure C (278 KB, no frameworks)</small>
 
 
-| 🔥🔥: 200 \| 💬: [106](https://news.ycombinator.com/item?id=43954649) \| 🗓️ 2025-05-11
+| 🔥🔥: 235 \| 💬: [125](https://news.ycombinator.com/item?id=43954649) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [finebooksmagazine.com](https://www.finebooksmagazine.com/fine-books-news/title-work-deciphered-sealed-herculaneum-scroll-digital-unwrapping): Title of work deciphered in sealed Herculaneum scroll via digital unwrapping</small>
 
 
-| 🔥🔥: 158 \| 💬: [64](https://news.ycombinator.com/item?id=43953883) \| 🗓️ 2025-05-11
+| 🔥🔥: 166 \| 💬: [68](https://news.ycombinator.com/item?id=43953883) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -71,11 +71,35 @@ tags:
 
 ---
 
-## <a name="5"></a>5. 2038年危机：全球数字定时炸弹 
+## <a name="5"></a>5. 在Linux和Windows（WSL）上开发iOS应用 
+<small>🔗 [forums.swift.org](https://forums.swift.org/t/xtool-cross-platform-xcode-replacement-build-ios-apps-on-linux-and-more/79803): Build iOS Apps on Linux and Windows</small>
+
+
+| 🔥🔥: 164 \| 💬: [18](https://news.ycombinator.com/item?id=43952239) \| 🗓️ 2025-05-11
+
+
+<br />
+GitHub项目 **xtool-org/xtool** 是一个跨平台的 **Xcode替代工具**，支持在Linux、Windows和macOS上通过 **SwiftPM** 构建和部署iOS应用。该项目为开发者提供了在不使用苹果官方IDE的情况下开发iOS应用的可能性，尤其适合非macOS环境的用户。
+
+---
+
+## <a name="6"></a>6. Klarna从AI客服回归人工服务：强调共情与效率平衡 
+<small>🔗 [customerexperiencedive.com](https://www.customerexperiencedive.com/news/klarna-reinvests-human-talent-customer-service-AI-chatbot/747586/): Klarna changes its AI tune and again recruits humans for customer service</small>
+
+
+| 🔥🔥: 162 \| 💬: [67](https://news.ycombinator.com/item?id=43955374) \| 🗓️ 2025-05-11
+
+
+<br />
+Klarna在宣称AI聊天机器人可替代700名客服人员一年后，重新转向**人工服务**，确保客户始终能联系真人。公司承认早期过度追求**成本节约**导致服务质量下降，现推出混合模式：AI处理常规问题（占咨询量的2/3），人类专家解决复杂或情感需求。CEO表示将投资"优步式"灵活用工团队，取代外包员工。调研指出，86%消费者认为**共情能力**比快速响应更重要，Klarna的调整反映了AI作为辅助工具而非替代品的行业趋势。
+
+---
+
+## <a name="7"></a>7. 2038年危机：全球数字定时炸弹 
 <small>🔗 [epochalypse-project.org](https://epochalypse-project.org/): The Epochalypse Project</small>
 
 
-| 🔥🔥: 150 \| 💬: [69](https://news.ycombinator.com/item?id=43952714) \| 🗓️ 2025-05-11
+| 🔥🔥: 154 \| 💬: [69](https://news.ycombinator.com/item?id=43952714) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -85,35 +109,11 @@ tags:
 
 ---
 
-## <a name="6"></a>6. 在Linux和Windows（WSL）上开发iOS应用 
-<small>🔗 [forums.swift.org](https://forums.swift.org/t/xtool-cross-platform-xcode-replacement-build-ios-apps-on-linux-and-more/79803): Build iOS Apps on Linux and Windows (WSL)</small>
-
-
-| 🔥🔥: 148 \| 💬: [11](https://news.ycombinator.com/item?id=43952239) \| 🗓️ 2025-05-11
-
-
-<br />
-GitHub项目 **xtool-org/xtool** 是一个跨平台的 **Xcode替代工具**，支持在Linux、Windows和macOS上通过 **SwiftPM** 构建和部署iOS应用。该项目为开发者提供了在不使用苹果官方IDE的情况下开发iOS应用的可能性，尤其适合非macOS环境的用户。
-
----
-
-## <a name="7"></a>7. Klarna从AI客服回归人工服务：强调共情与效率平衡 
-<small>🔗 [customerexperiencedive.com](https://www.customerexperiencedive.com/news/klarna-reinvests-human-talent-customer-service-AI-chatbot/747586/): Klarna changes its AI tune and again recruits humans for customer service</small>
-
-
-| 🔥🔥: 141 \| 💬: [62](https://news.ycombinator.com/item?id=43955374) \| 🗓️ 2025-05-11
-
-
-<br />
-Klarna在宣称AI聊天机器人可替代700名客服人员一年后，重新转向**人工服务**，确保客户始终能联系真人。公司承认早期过度追求**成本节约**导致服务质量下降，现推出混合模式：AI处理常规问题（占咨询量的2/3），人类专家解决复杂或情感需求。CEO表示将投资"优步式"灵活用工团队，取代外包员工。调研指出，86%消费者认为**共情能力**比快速响应更重要，Klarna的调整反映了AI作为辅助工具而非替代品的行业趋势。
-
----
-
 ## <a name="8"></a>8. DNS反盗版封锁令：谷歌、Cloudflare与OpenDNS反应各异 
 <small>🔗 [torrentfreak.com](https://torrentfreak.com/dns-piracy-blocking-orders-google-cloudflare-and-opendns-respond-differently-250511/): DNS piracy blocking orders: Google, Cloudflare, and OpenDNS respond differently</small>
 
 
-| 🔥🔥: 137 \| 💬: [117](https://news.ycombinator.com/item?id=43954459) \| 🗓️ 2025-05-11
+| 🔥🔥: 146 \| 💬: [134](https://news.ycombinator.com/item?id=43954459) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -125,7 +125,7 @@ Klarna在宣称AI聊天机器人可替代700名客服人员一年后，重新转
 <small>🔗 [insideevs.com](https://insideevs.com/features/759153/car-companies-software-companies/): Car companies are in a billion-dollar software war</small>
 
 
-| 🔥🔥: 115 \| 💬: [181](https://news.ycombinator.com/item?id=43955525) \| 🗓️ 2025-05-11
+| 🔥🔥: 132 \| 💬: [236](https://news.ycombinator.com/item?id=43955525) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -137,7 +137,7 @@ Klarna在宣称AI聊天机器人可替代700名客服人员一年后，重新转
 <small>🔗 [harudagondi.space](https://www.harudagondi.space/blog/rust-documentation-ecosystem-review/): A Rust Documentation Ecosystem Review</small>
 
 
-| 🔥: 85 \| 💬: [13](https://news.ycombinator.com/item?id=43953229) \| 🗓️ 2025-05-11
+| 🔥: 86 \| 💬: [13](https://news.ycombinator.com/item?id=43953229) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -149,7 +149,7 @@ Klarna在宣称AI聊天机器人可替代700名客服人员一年后，重新转
 <small>🔗 [news.wm.edu](https://news.wm.edu/2025/05/06/2024-sea-level-report-cards-map-futures-of-u-s-coastal-communities/): 2024 sea level 'report cards' map futures of U.S. coastal communities</small>
 
 
-| 🔥: 80 \| 💬: [68](https://news.ycombinator.com/item?id=43956115) \| 🗓️ 2025-05-11
+| 🔥: 85 \| 💬: [77](https://news.ycombinator.com/item?id=43956115) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -161,7 +161,7 @@ Klarna在宣称AI聊天机器人可替代700名客服人员一年后，重新转
 <small>🔗 [openjdk.org](https://openjdk.org/jeps/515): JEP 515: Ahead-of-Time Method Profiling</small>
 
 
-| 🔥: 79 \| 💬: [3](https://news.ycombinator.com/item?id=43954178) \| 🗓️ 2025-05-11
+| 🔥: 83 \| 💬: [5](https://news.ycombinator.com/item?id=43954178) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -173,7 +173,7 @@ Klarna在宣称AI聊天机器人可替代700名客服人员一年后，重新转
 <small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Gonzalo_Guerrero): Gonzalo Guerrero</small>
 
 
-| 🔥: 70 \| 💬: [22](https://news.ycombinator.com/item?id=43954249) \| 🗓️ 2025-05-11
+| 🔥: 76 \| 💬: [22](https://news.ycombinator.com/item?id=43954249) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -181,35 +181,11 @@ Klarna在宣称AI聊天机器人可替代700名客服人员一年后，重新转
 
 ---
 
-## <a name="14"></a>14. 开源工具GlassFlow：实现Kafka到ClickHouse的实时数据去重与流连接 
-<small>🔗 [github.com](https://github.com/glassflow/clickhouse-etl): Show HN: GlassFlow – OSS streaming dedup and joins from Kafka to ClickHouse</small>
-
-
-| 🔥: 62 \| 💬: [25](https://news.ycombinator.com/item?id=43953722) \| 🗓️ 2025-05-11
-
-
-<br />
-GlassFlow是一款**开源流处理工具**，专为Kafka到ClickHouse的实时ETL设计，提供**数据去重**和**时序连接**功能。它通过直观的Web界面简化管道配置，支持7天时间窗口的去重与流合并，确保数据准确性和低延迟。内置Kafka连接器和ClickHouse优化写入，适合高吞吐场景，并支持Docker本地部署。核心特性包括自动Schema管理、Exactly-Once语义及自托管能力，助力数据工程师高效构建实时管道。
-
----
-
-## <a name="15"></a>15. 经典物理学的应用 
-<small>🔗 [pmaweb.caltech.edu](http://pmaweb.caltech.edu/Courses/ph136/yr2012/): Applications of Classical Physics</small>
-
-
-| 🔥: 58 \| 💬: [15](https://news.ycombinator.com/item?id=43955326) \| 🗓️ 2025-05-11
-
-
-<br />
-该教材由Roger D. Blandford和Kip S. Thorne编写，2012-2013年版，涵盖**牛顿力学**、**统计力学**、**流体动力学**、**等离子体物理**及**广义相对论**等多个领域。内容从基础理论（如几何光学、衍射）到前沿课题（如**黑洞**、引力波），系统性强，版本更新细致，适合深入学习经典物理学及其现代应用。
-
----
-
-## <a name="16"></a>16. 用200行Clojure代码实现LSP客户端 
+## <a name="14"></a>14. 用200行Clojure代码实现LSP客户端 
 <small>🔗 [vlaaad.github.io](https://vlaaad.github.io/lsp-client-in-200-lines-of-code): LSP client in Clojure in 200 lines of code</small>
 
 
-| 🔥: 58 \| 💬: [0](https://news.ycombinator.com/item?id=43955397) \| 🗓️ 2025-05-11
+| 🔥: 66 \| 💬: [1](https://news.ycombinator.com/item?id=43955397) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -217,35 +193,11 @@ GlassFlow是一款**开源流处理工具**，专为Kafka到ClickHouse的实时E
 
 ---
 
-## <a name="17"></a>17. 1800万美元补助金本可大幅减少食物浪费，却被EPA突然取消 
-<small>🔗 [grist.org](https://grist.org/food-and-agriculture/trump-epa-community-change-grants-program-food-waste/): An $18M grant would have drastically reduced food waste. Then the EPA cut it</small>
-
-
-| 🔥: 55 \| 💬: [39](https://news.ycombinator.com/item?id=43954810) \| 🗓️ 2025-05-11
-
-
-<br />
-美国非营利组织Groundwork RI通过**社区堆肥计划**收集家庭厨余，将其转化为肥料以减少垃圾填埋。美国每年浪费超1/3食物，产生大量温室气体。2023年EPA曾批准1800万美元补助金用于扩大该项目，但特朗普政府近期以**“不符合优先事项”**为由突然取消拨款，导致全美400多项环保补助被终止。该资金原计划创造27个就业岗位，服务1.5万户家庭，并减少1.5万吨碳排放。批评者指出此举**加剧了环保资源分配不公**，弱势群体将更难参与减废行动。
-
----
-
-## <a name="18"></a>18. IBM调查：企业AI投资多因FOMO，而非实际回报 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/05/06/ibm_ai_investments/): Most AI spending driven by FOMO, not ROI, CEOs tell IBM</small>
-
-
-| 🔥: 53 \| 💬: [19](https://news.ycombinator.com/item?id=43952254) \| 🗓️ 2025-05-11
-
-
-<br />
-IBM对2000名CEO的调查显示，仅**25%**的AI项目实现了预期回报，但企业对AI的热情不减，61%正加速投资。**FOMO（错失恐惧症）**是主要驱动力，64%的CEO在未评估实际价值前就匆忙部署。尽管面临成本高、技术分散等挑战，85%的高管仍乐观认为，**生成式AI**将在两年后带来正收益。IBM同时发布了简化AI代理开发的Watsonx框架及多项合作计划。
-
----
-
-## <a name="19"></a>19. Scraperr：一款强大的自托管网络爬虫工具 
+## <a name="15"></a>15. Scraperr：一款强大的自托管网络爬虫工具 
 <small>🔗 [github.com](https://github.com/jaypyles/Scraperr): Scraperr – A Self Hosted Webscraper</small>
 
 
-| 🔥: 53 \| 💬: [10](https://news.ycombinator.com/item?id=43955842) \| 🗓️ 2025-05-11
+| 🔥: 65 \| 💬: [16](https://news.ycombinator.com/item?id=43955842) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -253,15 +205,63 @@ Scraperr 是一款**自托管**的网页数据抓取工具，支持通过**XPath
 
 ---
 
-## <a name="20"></a>20. 先吃卷饼，后付款：金融创新如何重塑信贷市场 
+## <a name="16"></a>16. 开源工具GlassFlow：实现Kafka到ClickHouse的实时数据去重与流连接 
+<small>🔗 [github.com](https://github.com/glassflow/clickhouse-etl): Show HN: GlassFlow – OSS streaming dedup and joins from Kafka to ClickHouse</small>
+
+
+| 🔥: 64 \| 💬: [27](https://news.ycombinator.com/item?id=43953722) \| 🗓️ 2025-05-11
+
+
+<br />
+GlassFlow是一款**开源流处理工具**，专为Kafka到ClickHouse的实时ETL设计，提供**数据去重**和**时序连接**功能。它通过直观的Web界面简化管道配置，支持7天时间窗口的去重与流合并，确保数据准确性和低延迟。内置Kafka连接器和ClickHouse优化写入，适合高吞吐场景，并支持Docker本地部署。核心特性包括自动Schema管理、Exactly-Once语义及自托管能力，助力数据工程师高效构建实时管道。
+
+---
+
+## <a name="17"></a>17. 经典物理学的应用 
+<small>🔗 [pmaweb.caltech.edu](http://pmaweb.caltech.edu/Courses/ph136/yr2012/): Applications of Classical Physics</small>
+
+
+| 🔥: 63 \| 💬: [25](https://news.ycombinator.com/item?id=43955326) \| 🗓️ 2025-05-11
+
+
+<br />
+该教材由Roger D. Blandford和Kip S. Thorne编写，2012-2013年版，涵盖**牛顿力学**、**统计力学**、**流体动力学**、**等离子体物理**及**广义相对论**等多个领域。内容从基础理论（如几何光学、衍射）到前沿课题（如**黑洞**、引力波），系统性强，版本更新细致，适合深入学习经典物理学及其现代应用。
+
+---
+
+## <a name="18"></a>18. 1800万美元补助金本可大幅减少食物浪费，却被EPA突然取消 
+<small>🔗 [grist.org](https://grist.org/food-and-agriculture/trump-epa-community-change-grants-program-food-waste/): An $18M grant would have drastically reduced food waste. Then the EPA cut it</small>
+
+
+| 🔥: 60 \| 💬: [38](https://news.ycombinator.com/item?id=43954810) \| 🗓️ 2025-05-11
+
+
+<br />
+美国非营利组织Groundwork RI通过**社区堆肥计划**收集家庭厨余，将其转化为肥料以减少垃圾填埋。美国每年浪费超1/3食物，产生大量温室气体。2023年EPA曾批准1800万美元补助金用于扩大该项目，但特朗普政府近期以**“不符合优先事项”**为由突然取消拨款，导致全美400多项环保补助被终止。该资金原计划创造27个就业岗位，服务1.5万户家庭，并减少1.5万吨碳排放。批评者指出此举**加剧了环保资源分配不公**，弱势群体将更难参与减废行动。
+
+---
+
+## <a name="19"></a>19. 先吃卷饼，后付款：金融创新如何重塑信贷市场 
 <small>🔗 [enterprisevalue.substack.com](https://enterprisevalue.substack.com/p/burrito-now-pay-later): Burrito Now, Pay Later</small>
 
 
-| 🔥: 49 \| 💬: [41](https://news.ycombinator.com/item?id=43956723) \| 🗓️ 2025-05-11
+| 🔥: 54 \| 💬: [52](https://news.ycombinator.com/item?id=43956723) \| 🗓️ 2025-05-11
 
 
 <br />
 本文探讨了**先买后付（BNPL）**模式如何通过证券化将小额短期贷款转化为可交易资产，从而降低借贷成本并提升市场效率。BNPL为消费者提供零息分期付款，商户则通过支付更高手续费换取销量增长，而投资者则获得年化22.8%的高收益。文章强调，这种**市场完善（Market Completion）**机制通过细分风险定价，使信贷市场更透明、高效。尽管存在逾期风险，但短期贷款特性避免了系统性危机，且风险由专业投资者承担。未来，BNPL证券化或衍生出更多细分指数，进一步推动金融创新。
+
+---
+
+## <a name="20"></a>20. IBM调查：企业AI投资多因FOMO，而非实际回报 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/05/06/ibm_ai_investments/): Most AI spending driven by FOMO, not ROI, CEOs tell IBM</small>
+
+
+| 🔥: 53 \| 💬: [20](https://news.ycombinator.com/item?id=43952254) \| 🗓️ 2025-05-11
+
+
+<br />
+IBM对2000名CEO的调查显示，仅**25%**的AI项目实现了预期回报，但企业对AI的热情不减，61%正加速投资。**FOMO（错失恐惧症）**是主要驱动力，64%的CEO在未评估实际价值前就匆忙部署。尽管面临成本高、技术分散等挑战，85%的高管仍乐观认为，**生成式AI**将在两年后带来正收益。IBM同时发布了简化AI代理开发的Watsonx框架及多项合作计划。
 
 ---
 
@@ -283,23 +283,11 @@ Zig是由Andrew Kelley设计的系统编程语言，标榜为**“稳健、高�
 
 ---
 
-## <a name="22"></a>22. 伊丽莎白·霍姆斯伴侣融资数千万 创办新血液检测公司 
-<small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/may/11/elizabeth-holmes-partner-blood-testing-startup): Elizabeth Holmes's partner raises millions for blood-testing startup</small>
-
-
-| 🔥: 44 \| 💬: [64](https://news.ycombinator.com/item?id=43955117) \| 🗓️ 2025-05-11
-
-
-<br />
-前Theranos CEO **伊丽莎白·霍姆斯**的伴侣比利·埃文斯（Billy Evans）近期为其新公司**Haemanthus**筹集近2000万美元。该公司声称能通过血液、尿液和唾液进行疾病诊断，技术类似Theranos。埃文斯与霍姆斯育有两子，公司计划先为动物检测，再扩展至人类。霍姆斯因Theranos欺诈案被判11年监禁，而埃文斯在营销材料中强调其激光扫描技术可快速检测疾病。部分投资者已拒绝投资，但埃文斯仍从亲友处获得资金支持。
-
----
-
-## <a name="23"></a>23. 通过UART启动RP2350微控制器的实践指南 
+## <a name="22"></a>22. 通过UART启动RP2350微控制器的实践指南 
 <small>🔗 [pfister.dev](https://pfister.dev/blog/2025/rp2350-uart-bl.html): Booting the RP2350 from UART</small>
 
 
-| 🔥: 41 \| 💬: [2](https://news.ycombinator.com/item?id=43954054) \| 🗓️ 2025-05-11
+| 🔥: 47 \| 💬: [4](https://news.ycombinator.com/item?id=43954054) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -307,7 +295,31 @@ Zig是由Andrew Kelley设计的系统编程语言，标榜为**“稳健、高�
 
 ---
 
-## <a name="24"></a>24. 知名电商组件中发现后门漏洞 
+## <a name="23"></a>23. 线上展览：当代码出错变成艺术 
+<small>🔗 [glitchgallery.org](https://glitchgallery.org/): An online exhibition of pretty software bugs</small>
+
+
+| 🔥: 46 \| 💬: [1](https://news.ycombinator.com/item?id=43955333) \| 🗓️ 2025-05-11
+
+
+<br />
+欢迎来到**Glitch Gallery**，一个展示**美丽软件故障**的在线展览！这里将程序错误视为**意外艺术**，收录了众多开发者提交的视觉奇观，如《Interpolation Space Agency》《Snoflake》系列等。展览鼓励用户分享自己遇到的“故障艺术品”，共同探索代码世界中的**意外之美**。
+
+---
+
+## <a name="24"></a>24. 伊丽莎白·霍姆斯伴侣融资数千万 创办新血液检测公司 
+<small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/may/11/elizabeth-holmes-partner-blood-testing-startup): Elizabeth Holmes's partner raises millions for blood-testing startup</small>
+
+
+| 🔥: 45 \| 💬: [67](https://news.ycombinator.com/item?id=43955117) \| 🗓️ 2025-05-11
+
+
+<br />
+前Theranos CEO **伊丽莎白·霍姆斯**的伴侣比利·埃文斯（Billy Evans）近期为其新公司**Haemanthus**筹集近2000万美元。该公司声称能通过血液、尿液和唾液进行疾病诊断，技术类似Theranos。埃文斯与霍姆斯育有两子，公司计划先为动物检测，再扩展至人类。霍姆斯因Theranos欺诈案被判11年监禁，而埃文斯在营销材料中强调其激光扫描技术可快速检测疾病。部分投资者已拒绝投资，但埃文斯仍从亲友处获得资金支持。
+
+---
+
+## <a name="25"></a>25. 知名电商组件中发现后门漏洞 
 <small>🔗 [sansec.io](https://sansec.io/research/license-backdoor): Backdoor found in popular ecommerce components</small>
 
 
