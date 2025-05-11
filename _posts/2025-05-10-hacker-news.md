@@ -12,7 +12,7 @@ tags:
 1. Y Combinator提交法庭之友简报支持美国政府诉谷歌案；
 1. 临终谬误（2018）；
 1. LTXVideo 13B：AI视频生成的革命性突破；
-1. 微软Teams将新增会议防截屏功能；
+1. 人际观察的21个微妙洞察；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [raz.sh](https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp): A critical look at MCP</small>
 
 
-| 🔥🔥: 391 \| 💬: [222](https://news.ycombinator.com/item?id=43945993) \| 🗓️ 2025-05-10
+| 🔥🔥: 403 \| 💬: [229](https://news.ycombinator.com/item?id=43945993) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -39,7 +39,7 @@ MCP（模型上下文协议）旨在为LLM与外部工具交互提供标准化�
 <small>🔗 [storage.courtlistener.com](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf): US vs. Google amicus curiae brief of Y Combinator in support of plaintiffs [pdf]</small>
 
 
-| 🔥🔥: 342 \| 💬: [633](https://news.ycombinator.com/item?id=43945820) \| 🗓️ 2025-05-10
+| 🔥🔥: 348 \| 💬: [667](https://news.ycombinator.com/item?id=43945820) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -63,7 +63,7 @@ MCP（模型上下文协议）旨在为LLM与外部工具交互提供标准化�
 <small>🔗 [ltxv.video](https://ltxv.video/): LTXVideo 13B AI video generation</small>
 
 
-| 🔥🔥: 205 \| 💬: [62](https://news.ycombinator.com/item?id=43944974) \| 🗓️ 2025-05-10
+| 🔥🔥: 207 \| 💬: [63](https://news.ycombinator.com/item?id=43944974) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -71,47 +71,11 @@ Lightricks推出的**LTXV-13B**是一款拥有130亿参数的AI视频生成模�
 
 ---
 
-## <a name="5"></a>5. 微软Teams将新增会议防截屏功能 
-<small>🔗 [bleepingcomputer.com](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/): Microsoft Teams will soon block screen capture during meetings</small>
-
-
-| 🔥🔥: 157 \| 💬: [220](https://news.ycombinator.com/item?id=43948291) \| 🗓️ 2025-05-10
-
-
-<br />
-微软计划于2025年7月在全球推出**防截屏功能**，阻止用户在会议中截取敏感信息。若尝试截图，会议窗口将变黑。该功能覆盖桌面端（Windows/Mac）和移动端（iOS/Android），但需注意**拍照仍可泄露内容**。同期还将推出会议权限管理、Copilot语音摘要等更新。此前Meta也在WhatsApp中推出了类似隐私保护功能。
-
----
-
-## <a name="6"></a>6. 1982年广告：595美元买到双倍价格都买不到的独特价值 
-<small>🔗 [s3data.computerhistory.org](https://s3data.computerhistory.org/brochures/commodore.commodore64.1982.102646264.pdf): For $595, you get what nobody else can give you for twice the price (1982) [pdf]</small>
-
-
-| 🔥🔥: 154 \| 💬: [96](https://news.ycombinator.com/item?id=43947630) \| 🗓️ 2025-05-10
-
-
-<br />
-这份1982年的PDF文档展示了一则经典广告，强调以**595美元**的价格提供**无可替代的价值**，暗示其性价比远超市场同类产品。内容虽以技术性PDF代码为主，但核心信息突出**稀缺性**和**独特性**，吸引消费者关注其超值优惠。广告风格简洁直接，符合当时营销特点。
-
----
-
-## <a name="7"></a>7. 山姆·奥特曼想扫描你的眼球 
-<small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/05/10/sam-altman-wants-your-eyeball/): Sam Altman Wants Your Eyeball</small>
-
-
-| 🔥🔥: 142 \| 💬: [142](https://news.ycombinator.com/item?id=43946766) \| 🗓️ 2025-05-10
-
-
-<br />
-OpenAI CEO山姆·奥特曼联合创立的**Worldcoin项目**（现更名为World）在美国开设6家门店，通过**眼球扫描**为用户生成生物识别标签，以验证身份并推广其应用与加密货币。该项目被批评为“反乌托邦”，因涉嫌利用贫困地区人群测试技术，并存在隐私风险。**生物数据**一旦泄露无法更改，且可能终结网络匿名性。尽管公司宣称数据“本地存储”，但实际操作中敏感信息仍可能外泄。肯尼亚已因隐私问题叫停其运营。
-
----
-
-## <a name="8"></a>8. 人际观察的21个微妙洞察 
+## <a name="5"></a>5. 人际观察的21个微妙洞察 
 <small>🔗 [skincontact.substack.com](https://skincontact.substack.com/p/21-observations-from-people-watching): Observations from people watching</small>
 
 
-| 🔥🔥: 140 \| 💬: [73](https://news.ycombinator.com/item?id=43949542) \| 🗓️ 2025-05-10
+| 🔥🔥: 171 \| 💬: [89](https://news.ycombinator.com/item?id=43949542) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -119,11 +83,47 @@ OpenAI CEO山姆·奥特曼联合创立的**Worldcoin项目**（现更名为Worl
 
 ---
 
+## <a name="6"></a>6. 微软Teams将新增会议防截屏功能 
+<small>🔗 [bleepingcomputer.com](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/): Microsoft Teams will soon block screen capture during meetings</small>
+
+
+| 🔥🔥: 165 \| 💬: [230](https://news.ycombinator.com/item?id=43948291) \| 🗓️ 2025-05-10
+
+
+<br />
+微软计划于2025年7月在全球推出**防截屏功能**，阻止用户在会议中截取敏感信息。若尝试截图，会议窗口将变黑。该功能覆盖桌面端（Windows/Mac）和移动端（iOS/Android），但需注意**拍照仍可泄露内容**。同期还将推出会议权限管理、Copilot语音摘要等更新。此前Meta也在WhatsApp中推出了类似隐私保护功能。
+
+---
+
+## <a name="7"></a>7. 1982年广告：595美元买到双倍价格都买不到的独特价值 
+<small>🔗 [s3data.computerhistory.org](https://s3data.computerhistory.org/brochures/commodore.commodore64.1982.102646264.pdf): For $595, you get what nobody else can give you for twice the price (1982) [pdf]</small>
+
+
+| 🔥🔥: 162 \| 💬: [98](https://news.ycombinator.com/item?id=43947630) \| 🗓️ 2025-05-10
+
+
+<br />
+这份1982年的PDF文档展示了一则经典广告，强调以**595美元**的价格提供**无可替代的价值**，暗示其性价比远超市场同类产品。内容虽以技术性PDF代码为主，但核心信息突出**稀缺性**和**独特性**，吸引消费者关注其超值优惠。广告风格简洁直接，符合当时营销特点。
+
+---
+
+## <a name="8"></a>8. 山姆·奥特曼想扫描你的眼球 
+<small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/05/10/sam-altman-wants-your-eyeball/): Sam Altman Wants Your Eyeball</small>
+
+
+| 🔥🔥: 143 \| 💬: [142](https://news.ycombinator.com/item?id=43946766) \| 🗓️ 2025-05-10
+
+
+<br />
+OpenAI CEO山姆·奥特曼联合创立的**Worldcoin项目**（现更名为World）在美国开设6家门店，通过**眼球扫描**为用户生成生物识别标签，以验证身份并推广其应用与加密货币。该项目被批评为“反乌托邦”，因涉嫌利用贫困地区人群测试技术，并存在隐私风险。**生物数据**一旦泄露无法更改，且可能终结网络匿名性。尽管公司宣称数据“本地存储”，但实际操作中敏感信息仍可能外泄。肯尼亚已因隐私问题叫停其运营。
+
+---
+
 ## <a name="9"></a>9. 商业崇拜：创业工作伦理的历史 
 <small>🔗 [commonwealmagazine.org](https://www.commonwealmagazine.org/calvert-work-entrepreneur-ethic-baker-review-job): The cult of doing business</small>
 
 
-| 🔥🔥: 139 \| 💬: [109](https://news.ycombinator.com/item?id=43945162) \| 🗓️ 2025-05-10
+| 🔥🔥: 142 \| 💬: [109](https://news.ycombinator.com/item?id=43945162) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -135,7 +135,7 @@ OpenAI CEO山姆·奥特曼联合创立的**Worldcoin项目**（现更名为Worl
 <small>🔗 [righto.com](http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html): Reverse engineering the 386 processor's prefetch queue circuitry</small>
 
 
-| 🔥🔥: 128 \| 💬: [41](https://news.ycombinator.com/item?id=43946824) \| 🗓️ 2025-05-10
+| 🔥🔥: 132 \| 💬: [41](https://news.ycombinator.com/item?id=43946824) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -147,7 +147,7 @@ OpenAI CEO山姆·奥特曼联合创立的**Worldcoin项目**（现更名为Worl
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/07/experts-warn-therapy-ai-chatbots-are-not-safe-to-use): 'It cannot provide nuance': UK experts warn AI therapy chatbots are not safe</small>
 
 
-| 🔥🔥: 126 \| 💬: [155](https://news.ycombinator.com/item?id=43946498) \| 🗓️ 2025-05-10
+| 🔥🔥: 131 \| 💬: [155](https://news.ycombinator.com/item?id=43946498) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -159,7 +159,7 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 <small>🔗 [lcamtuf.substack.com](https://lcamtuf.substack.com/p/sierpinski-triangle-in-my-bitwise): Sierpiński Triangle? In My Bitwise and?</small>
 
 
-| 🔥🔥: 120 \| 💬: [31](https://news.ycombinator.com/item?id=43949238) \| 🗓️ 2025-05-10
+| 🔥🔥: 127 \| 💬: [32](https://news.ycombinator.com/item?id=43949238) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -171,7 +171,7 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 <small>🔗 [lab.avl.la](https://lab.avl.la/dotless/): Dotless Domains</small>
 
 
-| 🔥🔥: 109 \| 💬: [69](https://news.ycombinator.com/item?id=43950525) \| 🗓️ 2025-05-10
+| 🔥🔥: 119 \| 💬: [74](https://news.ycombinator.com/item?id=43950525) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -195,7 +195,7 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 <small>🔗 [etalabs.net](https://www.etalabs.net/compare_libcs.html): Comparison of C/POSIX standard library implementations for Linux</small>
 
 
-| 🔥: 98 \| 💬: [33](https://news.ycombinator.com/item?id=43946149) \| 🗓️ 2025-05-10
+| 🔥🔥: 103 \| 💬: [33](https://news.ycombinator.com/item?id=43946149) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -203,11 +203,23 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 
 ---
 
-## <a name="16"></a>16. 美国政府考虑暂停人身保护令 
+## <a name="16"></a>16. Fandom将Giant Bomb出售给独立创作者 
+<small>🔗 [about.fandom.com](https://about.fandom.com/news/fandom-sells-giant-bomb-to-independent-creators): Fandom Sells Giant Bomb to Independent Creators</small>
+
+
+| 🔥: 91 \| 💬: [21](https://news.ycombinator.com/item?id=43950046) \| 🗓️ 2025-05-10
+
+
+<br />
+2025年5月10日，全球最大粉丝平台**Fandom**宣布将游戏媒体品牌**Giant Bomb**出售给长期运营该平台的资深内容创作者**Jeff Bakalar和Jeff Grubb**。交易金额未公开，Giant Bomb此前暂停的节目将尽快恢复。Fandom表示此举是为了让品牌回归独立运营，同时支持创作者生态。两位新所有者强调，未来将依靠社区支持继续发展，并承诺所有资源将直接用于团队建设。Giant Bomb成立于2008年，以独特的游戏行业视角和内容创新著称。
+
+---
+
+## <a name="17"></a>17. 美国政府考虑暂停人身保护令 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c0qgz18glljo): US Government considering suspending habeas corpus</small>
 
 
-| 🔥: 86 \| 💬: [23](https://news.ycombinator.com/item?id=43944687) \| 🗓️ 2025-05-10
+| 🔥: 88 \| 💬: [25](https://news.ycombinator.com/item?id=43944687) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -215,35 +227,11 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 
 ---
 
-## <a name="17"></a>17. Radxa Orion O6：中端Arm主板，潜力与问题并存 
-<small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc): Radxa Orion O6 brings Arm to the midrange PC (with caveats)</small>
-
-
-| 🔥: 85 \| 💬: [63](https://news.ycombinator.com/item?id=43945041) \| 🗓️ 2025-05-10
-
-
-<br />
-Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（最高2.6GHz）和64GB内存，起售价约200美元。它通过**SystemReady SR认证**，可原生运行Windows on Arm和Linux，但存在诸多固件问题，如核心调度异常、性能不稳定（实测仅8核可用）和驱动兼容性差（尤其Windows环境）。尽管内存带宽达40-50GB/s，其效率仍落后于Apple M1或骁龙X。亮点包括**PCIe 4.0扩展能力**和低功耗设计，但15W待机功耗偏高。适合技术爱好者折腾，普通用户建议观望。
-
----
-
-## <a name="18"></a>18. 英特尔：辉煌与挑战 
-<small>🔗 [abortretry.fail](https://www.abortretry.fail/p/intel-winning-and-losing): Intel: Winning and Losing</small>
-
-
-| 🔥: 82 \| 💬: [62](https://news.ycombinator.com/item?id=43944790) \| 🗓️ 2025-05-10
-
-
-<br />
-2008年，英特尔凭借**Atom处理器**重返低功耗市场，但受限于配套芯片组尺寸，未能打入手持设备领域。同年推出的**Nehalem微架构**（Core i7/Xeon）采用45nm工艺，集成内存控制器与QPI总线，性能提升20%。2010年，32nm工艺的**Westmere**带来六核处理器与AES加速，而2011年的Sandy Bridge进一步整合GPU并支持AVX指令集。尽管在PC和服务器市场占据主导，英特尔在移动领域面临ARM等对手的激烈竞争，开始通过MeeGo系统和Android合作寻求突破。
-
----
-
-## <a name="19"></a>19. 树莓派监控系统：我的食肉植物宠物实验室 
+## <a name="18"></a>18. 树莓派监控系统：我的食肉植物宠物实验室 
 <small>🔗 [github.com](https://github.com/blackrabbit17/xenolab): Show HN: Xenolab – Rasp Pi monitor for my pet carnivourus plants</small>
 
 
-| 🔥: 82 \| 💬: [25](https://news.ycombinator.com/item?id=43948945) \| 🗓️ 2025-05-10
+| 🔥: 86 \| 💬: [26](https://news.ycombinator.com/item?id=43948945) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -251,7 +239,43 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 
 ---
 
-## <a name="20"></a>20. 行业团体不满特朗普政府拟取消"能源之星"计划 
+## <a name="19"></a>19. 英特尔：辉煌与挑战 
+<small>🔗 [abortretry.fail](https://www.abortretry.fail/p/intel-winning-and-losing): Intel: Winning and Losing</small>
+
+
+| 🔥: 85 \| 💬: [70](https://news.ycombinator.com/item?id=43944790) \| 🗓️ 2025-05-10
+
+
+<br />
+2008年，英特尔凭借**Atom处理器**重返低功耗市场，但受限于配套芯片组尺寸，未能打入手持设备领域。同年推出的**Nehalem微架构**（Core i7/Xeon）采用45nm工艺，集成内存控制器与QPI总线，性能提升20%。2010年，32nm工艺的**Westmere**带来六核处理器与AES加速，而2011年的Sandy Bridge进一步整合GPU并支持AVX指令集。尽管在PC和服务器市场占据主导，英特尔在移动领域面临ARM等对手的激烈竞争，开始通过MeeGo系统和Android合作寻求突破。
+
+---
+
+## <a name="20"></a>20. Radxa Orion O6：中端Arm主板，潜力与问题并存 
+<small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc): Radxa Orion O6 brings Arm to the midrange PC (with caveats)</small>
+
+
+| 🔥: 85 \| 💬: [64](https://news.ycombinator.com/item?id=43945041) \| 🗓️ 2025-05-10
+
+
+<br />
+Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（最高2.6GHz）和64GB内存，起售价约200美元。它通过**SystemReady SR认证**，可原生运行Windows on Arm和Linux，但存在诸多固件问题，如核心调度异常、性能不稳定（实测仅8核可用）和驱动兼容性差（尤其Windows环境）。尽管内存带宽达40-50GB/s，其效率仍落后于Apple M1或骁龙X。亮点包括**PCIe 4.0扩展能力**和低功耗设计，但15W待机功耗偏高。适合技术爱好者折腾，普通用户建议观望。
+
+---
+
+## <a name="21"></a>21. 离开谷歌：19年与Go语言的旅程 
+<small>🔗 [airs.com](https://www.airs.com/blog/archives/670): Leaving Google</small>
+
+
+| 🔥: 85 \| 💬: [60](https://news.ycombinator.com/item?id=43950976) \| 🗓️ 2025-05-10
+
+
+<br />
+在谷歌工作19年后，Ian Lance Taylor宣布离职。他长期参与**Go语言**开发，从2008年加入团队至今，见证了Go从实验性项目成长为主流语言的过程。他主导了多项关键工作，包括GCC前端集成、**泛型支持**（Go 1.18）等，但也反思了自己对新方向（如模块代理）反应不足。他认为编程语言需持续进化，未来仍希望为Go贡献。离职主因是与当前项目方向不再契合。
+
+---
+
+## <a name="22"></a>22. 行业团体不满特朗普政府拟取消"能源之星"计划 
 <small>🔗 [insideclimatenews.org](https://insideclimatenews.org/news/08052025/energy-star-program-could-be-eliminated-by-trump-administration/): Industry groups are not happy about the imminent demise of Energy Star</small>
 
 
@@ -263,23 +287,11 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 
 ---
 
-## <a name="21"></a>21. 离开谷歌：19年与Go语言的旅程 
-<small>🔗 [airs.com](https://www.airs.com/blog/archives/670): Leaving Google</small>
-
-
-| 🔥: 79 \| 💬: [56](https://news.ycombinator.com/item?id=43950976) \| 🗓️ 2025-05-10
-
-
-<br />
-在谷歌工作19年后，Ian Lance Taylor宣布离职。他长期参与**Go语言**开发，从2008年加入团队至今，见证了Go从实验性项目成长为主流语言的过程。他主导了多项关键工作，包括GCC前端集成、**泛型支持**（Go 1.18）等，但也反思了自己对新方向（如模块代理）反应不足。他认为编程语言需持续进化，未来仍希望为Go贡献。离职主因是与当前项目方向不再契合。
-
----
-
-## <a name="22"></a>22. 特斯拉保险业务亏损严重，赔付率远超行业水平 
+## <a name="23"></a>23. 特斯拉保险业务亏损严重，赔付率远超行业水平 
 <small>🔗 [insideevs.com](https://insideevs.com/news/759156/tesla-insurance-loss-higher-average/): Even Tesla's Insurance Arm Is Getting Wrecked</small>
 
 
-| 🔥: 71 \| 💬: [96](https://news.ycombinator.com/item?id=43947690) \| 🗓️ 2025-05-10
+| 🔥: 74 \| 💬: [97](https://news.ycombinator.com/item?id=43947690) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -287,7 +299,7 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 
 ---
 
-## <a name="23"></a>23. DOGE正让致命职业病卷土重来 
+## <a name="24"></a>24. DOGE正让致命职业病卷土重来 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/05/doge-silicosis-prevention/682745/): DOGE Is Bringing Back a Deadly Disease</small>
 
 
@@ -299,26 +311,14 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 
 ---
 
-## <a name="24"></a>24. 过度吹捧Cursor的人往往技术能力不足 
+## <a name="25"></a>25. 过度吹捧Cursor的人往往技术能力不足 
 <small>🔗 [en.smallyu.net](https://en.smallyu.net/2025/04/12/People%20Who%20Hype%20Cursor%20Usually%20Lack%20Technical%20Skills/): People Who Hype Cursor Usually Lack Technical Skills</small>
 
 
-| 🔥: 63 \| 💬: [44](https://news.ycombinator.com/item?id=43945467) \| 🗓️ 2025-05-10
+| 🔥: 64 \| 💬: [44](https://news.ycombinator.com/item?id=43945467) \| 🗓️ 2025-05-10
 
 
 <br />
 本文指出，**Cursor**与**GitHub Copilot**底层模型相同（Claude/GPT），功能差异不大。Cursor的优势在于主动引用项目文件，但有时会过度修改代码；Copilot则更保守。作者认为，狂热推崇Cursor的人可能混淆了**生成式AI**的能力与工具本身，并强调编辑器选择是个人偏好，无需争论。日常使用中，**o1模型**的准确度更高，而Cursor的代码导航功能较弱，依赖项目结构。最终结论：可用Cursor，但不必神化。
-
----
-
-## <a name="25"></a>25. 谷歌Gemini更新变"保守派"，致创伤幸存者应用崩溃 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/05/08/google_gemini_update_prevents_disabling/): Update turns Google Gemini into a prude, breaking apps for trauma survivors</small>
-
-
-| 🔥: 63 \| 💬: [72](https://news.ycombinator.com/item?id=43947731) \| 🗓️ 2025-05-10
-
-
-<br />
-谷歌最新**Gemini 2.5 Pro Preview**更新导致安全设置功能异常，**强制过滤敏感内容**，即使开发者已通过API调整设置允许相关讨论。此举影响了为性侵受害者提供支持的**VOXHELIX**等应用，导致用户在倾诉创伤时收到"无法协助"的错误提示。开发者称，该问题还波及心理健康类应用，如帮助PTSD患者的**InnerPiece**。谷歌尚未明确回应是故障还是政策调整，但此次"静默更新"已引发开发者社区强烈不满，称其违背了API对"内容许可"的承诺。
 
 ---
