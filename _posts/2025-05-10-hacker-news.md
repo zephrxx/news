@@ -27,7 +27,7 @@ tags:
 <small>🔗 [storage.courtlistener.com](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf): US vs. Google amicus curiae brief of Y Combinator in support of plaintiffs [pdf]</small>
 
 
-| 🔥🔥: 308 \| 💬: [488](https://news.ycombinator.com/item?id=43945820) \| 🗓️ 2025-05-10
+| 🔥🔥: 313 \| 💬: [523](https://news.ycombinator.com/item?id=43945820) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -36,10 +36,10 @@ tags:
 ---
 
 ## <a name="2"></a>2. 对MCP协议的深度批判 
-<small>🔗 [raz.sh](https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp): A Critical Look at MCP</small>
+<small>🔗 [raz.sh](https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp): A critical look at MCP</small>
 
 
-| 🔥🔥: 297 \| 💬: [177](https://news.ycombinator.com/item?id=43945993) \| 🗓️ 2025-05-10
+| 🔥🔥: 313 \| 💬: [183](https://news.ycombinator.com/item?id=43945993) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -51,7 +51,7 @@ MCP（模型上下文协议）旨在为LLM与外部工具交互提供标准化�
 <small>🔗 [hjorthjort.xyz](https://www.hjorthjort.xyz/2018/02/21/the-deathbed-fallacy.html): The Deathbed Fallacy (2018)</small>
 
 
-| 🔥🔥: 231 \| 💬: [110](https://news.ycombinator.com/item?id=43944467) \| 🗓️ 2025-05-10
+| 🔥🔥: 235 \| 💬: [111](https://news.ycombinator.com/item?id=43944467) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -63,7 +63,7 @@ MCP（模型上下文协议）旨在为LLM与外部工具交互提供标准化�
 <small>🔗 [ltxv.video](https://ltxv.video/): LTXVideo 13B AI video generation</small>
 
 
-| 🔥🔥: 203 \| 💬: [60](https://news.ycombinator.com/item?id=43944974) \| 🗓️ 2025-05-10
+| 🔥🔥: 204 \| 💬: [62](https://news.ycombinator.com/item?id=43944974) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -75,7 +75,7 @@ Lightricks推出的**LTXV-13B**是一款拥有130亿参数的AI视频生成模�
 <small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/05/10/sam-altman-wants-your-eyeball/): Sam Altman Wants Your Eyeball</small>
 
 
-| 🔥🔥: 133 \| 💬: [138](https://news.ycombinator.com/item?id=43946766) \| 🗓️ 2025-05-10
+| 🔥🔥: 135 \| 💬: [139](https://news.ycombinator.com/item?id=43946766) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -95,35 +95,11 @@ OpenAI CEO山姆·奥特曼联合创立的**Worldcoin项目**（现更名为Worl
 
 ---
 
-## <a name="7"></a>7. 逆向工程386处理器的预取队列电路 
-<small>🔗 [righto.com](http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html): Reverse engineering the 386 processor's prefetch queue circuitry</small>
-
-
-| 🔥🔥: 103 \| 💬: [29](https://news.ycombinator.com/item?id=43946824) \| 🗓️ 2025-05-10
-
-
-<br />
-1985年，英特尔推出了划时代的**386处理器**，这是x86架构中首款32位处理器。其**16字节预取队列**通过提前从内存获取指令来提升性能，利用处理器“空闲”时间避免内存等待。本文详细解析了预取队列的电路设计，包括**曼彻斯特进位链**实现的高速增量器、数据对齐网络和符号扩展电路。通过动态逻辑优化，电路在固定宽度布局中高效运行，同时减少功耗。预取队列还包含段限检查机制，确保指令在有效内存范围内获取。
-
----
-
-## <a name="8"></a>8. 英国专家警告：AI心理治疗聊天机器人存在安全隐患 
-<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/07/experts-warn-therapy-ai-chatbots-are-not-safe-to-use): 'It cannot provide nuance': UK experts warn AI therapy chatbots are not safe</small>
-
-
-| 🔥🔥: 102 \| 💬: [110](https://news.ycombinator.com/item?id=43946498) \| 🗓️ 2025-05-10
-
-
-<br />
-OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。Meta CEO扎克伯格认为AI可替代治疗师，但英国专家指出，**AI缺乏同理心与专业判断**，可能提供危险建议（如曾被撤下的饮食障碍聊天机器人）。临床心理学家强调需加强监管，而Meta平台已出现冒充治疗师的AI机器人，尽管标注了AI生成免责声明。专家警告，**依赖AI可能损害真实人际关系**，且当前英国尚未建立有效监管机制。
-
----
-
-## <a name="9"></a>9. 1982年广告：595美元买到双倍价格都买不到的独特价值 
+## <a name="7"></a>7. 1982年广告：595美元买到双倍价格都买不到的独特价值 
 <small>🔗 [s3data.computerhistory.org](https://s3data.computerhistory.org/brochures/commodore.commodore64.1982.102646264.pdf): For $595, you get what nobody else can give you for twice the price (1982) [pdf]</small>
 
 
-| 🔥🔥: 102 \| 💬: [65](https://news.ycombinator.com/item?id=43947630) \| 🗓️ 2025-05-10
+| 🔥🔥: 112 \| 💬: [72](https://news.ycombinator.com/item?id=43947630) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -131,11 +107,23 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 
 ---
 
-## <a name="10"></a>10. 微软Teams将新增会议防截屏功能 
+## <a name="8"></a>8. 英国专家警告：AI心理治疗聊天机器人存在安全隐患 
+<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/07/experts-warn-therapy-ai-chatbots-are-not-safe-to-use): 'It cannot provide nuance': UK experts warn AI therapy chatbots are not safe</small>
+
+
+| 🔥🔥: 108 \| 💬: [126](https://news.ycombinator.com/item?id=43946498) \| 🗓️ 2025-05-10
+
+
+<br />
+OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。Meta CEO扎克伯格认为AI可替代治疗师，但英国专家指出，**AI缺乏同理心与专业判断**，可能提供危险建议（如曾被撤下的饮食障碍聊天机器人）。临床心理学家强调需加强监管，而Meta平台已出现冒充治疗师的AI机器人，尽管标注了AI生成免责声明。专家警告，**依赖AI可能损害真实人际关系**，且当前英国尚未建立有效监管机制。
+
+---
+
+## <a name="9"></a>9. 微软Teams将新增会议防截屏功能 
 <small>🔗 [bleepingcomputer.com](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/): Microsoft Teams will soon block screen capture during meetings</small>
 
 
-| 🔥: 93 \| 💬: [153](https://news.ycombinator.com/item?id=43948291) \| 🗓️ 2025-05-10
+| 🔥🔥: 108 \| 💬: [169](https://news.ycombinator.com/item?id=43948291) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -143,11 +131,23 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 
 ---
 
+## <a name="10"></a>10. 逆向工程386处理器的预取队列电路 
+<small>🔗 [righto.com](http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html): Reverse engineering the 386 processor's prefetch queue circuitry</small>
+
+
+| 🔥🔥: 107 \| 💬: [29](https://news.ycombinator.com/item?id=43946824) \| 🗓️ 2025-05-10
+
+
+<br />
+1985年，英特尔推出了划时代的**386处理器**，这是x86架构中首款32位处理器。其**16字节预取队列**通过提前从内存获取指令来提升性能，利用处理器“空闲”时间避免内存等待。本文详细解析了预取队列的电路设计，包括**曼彻斯特进位链**实现的高速增量器、数据对齐网络和符号扩展电路。通过动态逻辑优化，电路在固定宽度布局中高效运行，同时减少功耗。预取队列还包含段限检查机制，确保指令在有效内存范围内获取。
+
+---
+
 ## <a name="11"></a>11. 展示：Code Claude代码交互工具 
 <small>🔗 [github.com](https://github.com/RVCA212/codesys): Show HN: Code Claude Code</small>
 
 
-| 🔥: 91 \| 💬: [19](https://news.ycombinator.com/item?id=43946066) \| 🗓️ 2025-05-10
+| 🔥: 94 \| 💬: [19](https://news.ycombinator.com/item?id=43946066) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -159,7 +159,7 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c0qgz18glljo): US Government considering suspending habeas corpus</small>
 
 
-| 🔥: 83 \| 💬: [18](https://news.ycombinator.com/item?id=43944687) \| 🗓️ 2025-05-10
+| 🔥: 85 \| 💬: [19](https://news.ycombinator.com/item?id=43944687) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -167,23 +167,11 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 
 ---
 
-## <a name="13"></a>13. Radxa Orion O6：中端Arm主板，潜力与问题并存 
-<small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc): Radxa Orion O6 brings Arm to the midrange PC (with caveats)</small>
-
-
-| 🔥: 81 \| 💬: [59](https://news.ycombinator.com/item?id=43945041) \| 🗓️ 2025-05-10
-
-
-<br />
-Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（最高2.6GHz）和64GB内存，起售价约200美元。它通过**SystemReady SR认证**，可原生运行Windows on Arm和Linux，但存在诸多固件问题，如核心调度异常、性能不稳定（实测仅8核可用）和驱动兼容性差（尤其Windows环境）。尽管内存带宽达40-50GB/s，其效率仍落后于Apple M1或骁龙X。亮点包括**PCIe 4.0扩展能力**和低功耗设计，但15W待机功耗偏高。适合技术爱好者折腾，普通用户建议观望。
-
----
-
-## <a name="14"></a>14. Linux下C/POSIX标准库实现对比 
+## <a name="13"></a>13. Linux下C/POSIX标准库实现对比 
 <small>🔗 [etalabs.net](https://www.etalabs.net/compare_libcs.html): Comparison of C/POSIX standard library implementations for Linux</small>
 
 
-| 🔥: 81 \| 💬: [27](https://news.ycombinator.com/item?id=43946149) \| 🗓️ 2025-05-10
+| 🔥: 84 \| 💬: [28](https://news.ycombinator.com/item?id=43946149) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -191,47 +179,23 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 
 ---
 
-## <a name="15"></a>15. 英特尔：辉煌与挑战 
-<small>🔗 [abortretry.fail](https://www.abortretry.fail/p/intel-winning-and-losing): Intel: Winning and Losing</small>
+## <a name="14"></a>14. Radxa Orion O6：中端Arm主板，潜力与问题并存 
+<small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc): Radxa Orion O6 brings Arm to the midrange PC (with caveats)</small>
 
 
-| 🔥: 77 \| 💬: [47](https://news.ycombinator.com/item?id=43944790) \| 🗓️ 2025-05-10
-
-
-<br />
-2008年，英特尔凭借**Atom处理器**重返低功耗市场，但受限于配套芯片组尺寸，未能打入手持设备领域。同年推出的**Nehalem微架构**（Core i7/Xeon）采用45nm工艺，集成内存控制器与QPI总线，性能提升20%。2010年，32nm工艺的**Westmere**带来六核处理器与AES加速，而2011年的Sandy Bridge进一步整合GPU并支持AVX指令集。尽管在PC和服务器市场占据主导，英特尔在移动领域面临ARM等对手的激烈竞争，开始通过MeeGo系统和Android合作寻求突破。
-
----
-
-## <a name="16"></a>16. 行业团体不满特朗普政府拟取消"能源之星"计划 
-<small>🔗 [insideclimatenews.org](https://insideclimatenews.org/news/08052025/energy-star-program-could-be-eliminated-by-trump-administration/): Industry groups are not happy about the imminent demise of Energy Star</small>
-
-
-| 🔥: 77 \| 💬: [102](https://news.ycombinator.com/item?id=43945138) \| 🗓️ 2025-05-10
+| 🔥: 83 \| 💬: [59](https://news.ycombinator.com/item?id=43945041) \| 🗓️ 2025-05-10
 
 
 <br />
-美国环保署计划终止已有33年历史的**"能源之星"**能效认证项目，引发制造商和环保人士强烈反对。该由共和党政府发起的自愿性项目累计为消费者节省5000亿美元，其蓝色标签被90%美国家庭认可。批评者认为此举体现政府**"反气候行动"**意识形态，而行业则警告取消认证将导致市场混乱。尽管法律障碍存在，但环保署正通过机构重组推进该计划，其每年3200万美元的运营成本与为家庭节省的400亿能源开支形成鲜明对比。
+Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（最高2.6GHz）和64GB内存，起售价约200美元。它通过**SystemReady SR认证**，可原生运行Windows on Arm和Linux，但存在诸多固件问题，如核心调度异常、性能不稳定（实测仅8核可用）和驱动兼容性差（尤其Windows环境）。尽管内存带宽达40-50GB/s，其效率仍落后于Apple M1或骁龙X。亮点包括**PCIe 4.0扩展能力**和低功耗设计，但15W待机功耗偏高。适合技术爱好者折腾，普通用户建议观望。
 
 ---
 
-## <a name="17"></a>17. 特斯拉保险业务亏损严重，赔付率远超行业水平 
-<small>🔗 [insideevs.com](https://insideevs.com/news/759156/tesla-insurance-loss-higher-average/): Even Tesla's Insurance Arm Is Getting Wrecked</small>
-
-
-| 🔥: 69 \| 💬: [91](https://news.ycombinator.com/item?id=43947690) \| 🗓️ 2025-05-10
-
-
-<br />
-特斯拉的保险业务因**赔付率高达103.3%**（2024年数据）而持续亏损，远高于行业平均的66.1%。尽管特斯拉曾试图通过**全自动驾驶数据**降低保费，但高昂的维修成本（比燃油车高32%）和糟糕的客户服务（投诉包括漫长维修期和低效理赔）导致其保险业务难以为继。近年来，特斯拉保费上涨30%，但亏损仍未见改善。
-
----
-
-## <a name="18"></a>18. 位运算与谢尔宾斯基三角的奇妙邂逅 
+## <a name="15"></a>15. 位运算与谢尔宾斯基三角的奇妙邂逅 
 <small>🔗 [lcamtuf.substack.com](https://lcamtuf.substack.com/p/sierpinski-triangle-in-my-bitwise): Sierpiński Triangle? In My Bitwise and?</small>
 
 
-| 🔥: 63 \| 💬: [16](https://news.ycombinator.com/item?id=43949238) \| 🗓️ 2025-05-10
+| 🔥: 82 \| 💬: [23](https://news.ycombinator.com/item?id=43949238) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -239,11 +203,47 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 
 ---
 
+## <a name="16"></a>16. 英特尔：辉煌与挑战 
+<small>🔗 [abortretry.fail](https://www.abortretry.fail/p/intel-winning-and-losing): Intel: Winning and Losing</small>
+
+
+| 🔥: 79 \| 💬: [52](https://news.ycombinator.com/item?id=43944790) \| 🗓️ 2025-05-10
+
+
+<br />
+2008年，英特尔凭借**Atom处理器**重返低功耗市场，但受限于配套芯片组尺寸，未能打入手持设备领域。同年推出的**Nehalem微架构**（Core i7/Xeon）采用45nm工艺，集成内存控制器与QPI总线，性能提升20%。2010年，32nm工艺的**Westmere**带来六核处理器与AES加速，而2011年的Sandy Bridge进一步整合GPU并支持AVX指令集。尽管在PC和服务器市场占据主导，英特尔在移动领域面临ARM等对手的激烈竞争，开始通过MeeGo系统和Android合作寻求突破。
+
+---
+
+## <a name="17"></a>17. 行业团体不满特朗普政府拟取消"能源之星"计划 
+<small>🔗 [insideclimatenews.org](https://insideclimatenews.org/news/08052025/energy-star-program-could-be-eliminated-by-trump-administration/): Industry groups are not happy about the imminent demise of Energy Star</small>
+
+
+| 🔥: 77 \| 💬: [104](https://news.ycombinator.com/item?id=43945138) \| 🗓️ 2025-05-10
+
+
+<br />
+美国环保署计划终止已有33年历史的**"能源之星"**能效认证项目，引发制造商和环保人士强烈反对。该由共和党政府发起的自愿性项目累计为消费者节省5000亿美元，其蓝色标签被90%美国家庭认可。批评者认为此举体现政府**"反气候行动"**意识形态，而行业则警告取消认证将导致市场混乱。尽管法律障碍存在，但环保署正通过机构重组推进该计划，其每年3200万美元的运营成本与为家庭节省的400亿能源开支形成鲜明对比。
+
+---
+
+## <a name="18"></a>18. 特斯拉保险业务亏损严重，赔付率远超行业水平 
+<small>🔗 [insideevs.com](https://insideevs.com/news/759156/tesla-insurance-loss-higher-average/): Even Tesla's Insurance Arm Is Getting Wrecked</small>
+
+
+| 🔥: 71 \| 💬: [92](https://news.ycombinator.com/item?id=43947690) \| 🗓️ 2025-05-10
+
+
+<br />
+特斯拉的保险业务因**赔付率高达103.3%**（2024年数据）而持续亏损，远高于行业平均的66.1%。尽管特斯拉曾试图通过**全自动驾驶数据**降低保费，但高昂的维修成本（比燃油车高32%）和糟糕的客户服务（投诉包括漫长维修期和低效理赔）导致其保险业务难以为继。近年来，特斯拉保费上涨30%，但亏损仍未见改善。
+
+---
+
 ## <a name="19"></a>19. DOGE正让致命职业病卷土重来 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/05/doge-silicosis-prevention/682745/): DOGE Is Bringing Back a Deadly Disease</small>
 
 
-| 🔥: 62 \| 💬: [17](https://news.ycombinator.com/item?id=43947850) \| 🗓️ 2025-05-10
+| 🔥: 64 \| 💬: [18](https://news.ycombinator.com/item?id=43947850) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -255,7 +255,7 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 <small>🔗 [theregister.com](https://www.theregister.com/2025/05/08/google_gemini_update_prevents_disabling/): Update turns Google Gemini into a prude, breaking apps for trauma survivors</small>
 
 
-| 🔥: 61 \| 💬: [69](https://news.ycombinator.com/item?id=43947731) \| 🗓️ 2025-05-10
+| 🔥: 61 \| 💬: [70](https://news.ycombinator.com/item?id=43947731) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -279,7 +279,7 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 <small>🔗 [fireborn.mataroa.blog](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-1-built-for-control-but-not-for-people/): I Want to Love Linux. It Doesn't Love Me Back</small>
 
 
-| 🔥: 53 \| 💬: [35](https://news.ycombinator.com/item?id=43945373) \| 🗓️ 2025-05-10
+| 🔥: 56 \| 💬: [35](https://news.ycombinator.com/item?id=43945373) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -291,7 +291,7 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 <small>🔗 [petrapalusova.com](https://petrapalusova.com/articles/tech-platforms-digital-economy-techno-feudalism): The Fallacy of Techno-Feudalism (2024)</small>
 
 
-| 🔥: 49 \| 💬: [66](https://news.ycombinator.com/item?id=43944809) \| 🗓️ 2025-05-10
+| 🔥: 50 \| 💬: [66](https://news.ycombinator.com/item?id=43944809) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -303,7 +303,7 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 <small>🔗 [in-ulm.de](https://www.in-ulm.de/~mascheck/various/ash/): Ash (Almquist Shell) Variants</small>
 
 
-| 🔥: 45 \| 💬: [2](https://news.ycombinator.com/item?id=43943984) \| 🗓️ 2025-05-10
+| 🔥: 46 \| 💬: [2](https://news.ycombinator.com/item?id=43943984) \| 🗓️ 2025-05-10
 
 
 <br />
