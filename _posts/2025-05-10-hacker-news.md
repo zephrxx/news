@@ -27,7 +27,7 @@ tags:
 <small>🔗 [raz.sh](https://raz.sh/blog/2025-05-02_a_critical_look_at_mcp): A critical look at MCP</small>
 
 
-| 🔥🔥: 337 \| 💬: [193](https://news.ycombinator.com/item?id=43945993) \| 🗓️ 2025-05-10
+| 🔥🔥: 361 \| 💬: [207](https://news.ycombinator.com/item?id=43945993) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -39,7 +39,7 @@ MCP（模型上下文协议）旨在为LLM与外部工具交互提供标准化�
 <small>🔗 [storage.courtlistener.com](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1300.1.pdf): US vs. Google amicus curiae brief of Y Combinator in support of plaintiffs [pdf]</small>
 
 
-| 🔥🔥: 322 \| 💬: [558](https://news.ycombinator.com/item?id=43945820) \| 🗓️ 2025-05-10
+| 🔥🔥: 332 \| 💬: [590](https://news.ycombinator.com/item?id=43945820) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -51,7 +51,7 @@ MCP（模型上下文协议）旨在为LLM与外部工具交互提供标准化�
 <small>🔗 [hjorthjort.xyz](https://www.hjorthjort.xyz/2018/02/21/the-deathbed-fallacy.html): The Deathbed Fallacy (2018)</small>
 
 
-| 🔥🔥: 238 \| 💬: [113](https://news.ycombinator.com/item?id=43944467) \| 🗓️ 2025-05-10
+| 🔥🔥: 241 \| 💬: [116](https://news.ycombinator.com/item?id=43944467) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -75,7 +75,7 @@ Lightricks推出的**LTXV-13B**是一款拥有130亿参数的AI视频生成模�
 <small>🔗 [privacyguides.org](https://www.privacyguides.org/articles/2025/05/10/sam-altman-wants-your-eyeball/): Sam Altman Wants Your Eyeball</small>
 
 
-| 🔥🔥: 136 \| 💬: [142](https://news.ycombinator.com/item?id=43946766) \| 🗓️ 2025-05-10
+| 🔥🔥: 138 \| 💬: [142](https://news.ycombinator.com/item?id=43946766) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -83,23 +83,11 @@ OpenAI CEO山姆·奥特曼联合创立的**Worldcoin项目**（现更名为Worl
 
 ---
 
-## <a name="6"></a>6. 商业崇拜：创业工作伦理的历史 
-<small>🔗 [commonwealmagazine.org](https://www.commonwealmagazine.org/calvert-work-entrepreneur-ethic-baker-review-job): The cult of doing business</small>
-
-
-| 🔥🔥: 132 \| 💬: [109](https://news.ycombinator.com/item?id=43945162) \| 🗓️ 2025-05-10
-
-
-<br />
-埃里克·贝克（Erik Baker）探讨了**创业文化**的演变，分析了其对现代**工作伦理**的影响。文章由德鲁·卡尔弗特（Drew Calvert）撰写，发表于2025年4月29日，涉及政治、文化、书籍和劳动等领域。核心观点聚焦于**企业家精神**如何从个人追求演变为一种社会现象。
-
----
-
-## <a name="7"></a>7. 1982年广告：595美元买到双倍价格都买不到的独特价值 
+## <a name="6"></a>6. 1982年广告：595美元买到双倍价格都买不到的独特价值 
 <small>🔗 [s3data.computerhistory.org](https://s3data.computerhistory.org/brochures/commodore.commodore64.1982.102646264.pdf): For $595, you get what nobody else can give you for twice the price (1982) [pdf]</small>
 
 
-| 🔥🔥: 124 \| 💬: [79](https://news.ycombinator.com/item?id=43947630) \| 🗓️ 2025-05-10
+| 🔥🔥: 137 \| 💬: [86](https://news.ycombinator.com/item?id=43947630) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -107,11 +95,23 @@ OpenAI CEO山姆·奥特曼联合创立的**Worldcoin项目**（现更名为Worl
 
 ---
 
+## <a name="7"></a>7. 商业崇拜：创业工作伦理的历史 
+<small>🔗 [commonwealmagazine.org](https://www.commonwealmagazine.org/calvert-work-entrepreneur-ethic-baker-review-job): The cult of doing business</small>
+
+
+| 🔥🔥: 134 \| 💬: [108](https://news.ycombinator.com/item?id=43945162) \| 🗓️ 2025-05-10
+
+
+<br />
+埃里克·贝克（Erik Baker）探讨了**创业文化**的演变，分析了其对现代**工作伦理**的影响。文章由德鲁·卡尔弗特（Drew Calvert）撰写，发表于2025年4月29日，涉及政治、文化、书籍和劳动等领域。核心观点聚焦于**企业家精神**如何从个人追求演变为一种社会现象。
+
+---
+
 ## <a name="8"></a>8. 微软Teams将新增会议防截屏功能 
 <small>🔗 [bleepingcomputer.com](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-will-soon-block-screen-capture-during-meetings/): Microsoft Teams will soon block screen capture during meetings</small>
 
 
-| 🔥🔥: 120 \| 💬: [182](https://news.ycombinator.com/item?id=43948291) \| 🗓️ 2025-05-10
+| 🔥🔥: 132 \| 💬: [198](https://news.ycombinator.com/item?id=43948291) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -123,7 +123,7 @@ OpenAI CEO山姆·奥特曼联合创立的**Worldcoin项目**（现更名为Worl
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/07/experts-warn-therapy-ai-chatbots-are-not-safe-to-use): 'It cannot provide nuance': UK experts warn AI therapy chatbots are not safe</small>
 
 
-| 🔥🔥: 118 \| 💬: [140](https://news.ycombinator.com/item?id=43946498) \| 🗓️ 2025-05-10
+| 🔥🔥: 122 \| 💬: [149](https://news.ycombinator.com/item?id=43946498) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -135,7 +135,7 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 <small>🔗 [righto.com](http://www.righto.com/2025/05/386-prefetch-circuitry-reverse-engineered.html): Reverse engineering the 386 processor's prefetch queue circuitry</small>
 
 
-| 🔥🔥: 115 \| 💬: [35](https://news.ycombinator.com/item?id=43946824) \| 🗓️ 2025-05-10
+| 🔥🔥: 118 \| 💬: [39](https://news.ycombinator.com/item?id=43946824) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -143,15 +143,15 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 
 ---
 
-## <a name="11"></a>11. 展示：Code Claude代码交互工具 
-<small>🔗 [github.com](https://github.com/RVCA212/codesys): Show HN: Code Claude Code</small>
+## <a name="11"></a>11. 人际观察的21个微妙洞察 
+<small>🔗 [skincontact.substack.com](https://skincontact.substack.com/p/21-observations-from-people-watching): Observations from people watching</small>
 
 
-| 🔥: 96 \| 💬: [21](https://news.ycombinator.com/item?id=43946066) \| 🗓️ 2025-05-10
+| 🔥🔥: 106 \| 💬: [46](https://news.ycombinator.com/item?id=43949542) \| 🗓️ 2025-05-10
 
 
 <br />
-这是一个**Python SDK**，用于与**Claude CLI工具**交互。核心功能包括通过`Agent`类执行指令、支持流式输出及自定义工具权限。典型工作流为：先通过`generate_plan`生成任务计划，再用`execute_plan`执行。需预装Claude CLI并配置API密钥，适合**自动化代码任务**。提供MIT许可，示例包含工具限制、手动流处理等场景。
+作者通过多年观察陌生人互动，总结出**人类行为背后的心理架构**：从对话中的**节奏与注意力**能判断对方是否投入，快乐与礼貌的区别在于是否遵循脚本，而**自我接纳程度**往往反映在对他人的态度上。最有趣的是，人们表达欲望、控制欲或孤独感的方式——比如强颜欢笑的人、用轻蔑掩饰自卑的人，或是像"张开的手掌"般接纳世界的人。观察这些细节，能看透一个人如何与自我及他人相处。
 
 ---
 
@@ -159,7 +159,7 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 <small>🔗 [lcamtuf.substack.com](https://lcamtuf.substack.com/p/sierpinski-triangle-in-my-bitwise): Sierpiński Triangle? In My Bitwise and?</small>
 
 
-| 🔥: 95 \| 💬: [28](https://news.ycombinator.com/item?id=43949238) \| 🗓️ 2025-05-10
+| 🔥🔥: 104 \| 💬: [31](https://news.ycombinator.com/item?id=43949238) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -167,11 +167,23 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 
 ---
 
-## <a name="13"></a>13. Linux下C/POSIX标准库实现对比 
+## <a name="13"></a>13. 展示：Code Claude代码交互工具 
+<small>🔗 [github.com](https://github.com/RVCA212/codesys): Show HN: Code Claude Code</small>
+
+
+| 🔥: 97 \| 💬: [23](https://news.ycombinator.com/item?id=43946066) \| 🗓️ 2025-05-10
+
+
+<br />
+这是一个**Python SDK**，用于与**Claude CLI工具**交互。核心功能包括通过`Agent`类执行指令、支持流式输出及自定义工具权限。典型工作流为：先通过`generate_plan`生成任务计划，再用`execute_plan`执行。需预装Claude CLI并配置API密钥，适合**自动化代码任务**。提供MIT许可，示例包含工具限制、手动流处理等场景。
+
+---
+
+## <a name="14"></a>14. Linux下C/POSIX标准库实现对比 
 <small>🔗 [etalabs.net](https://www.etalabs.net/compare_libcs.html): Comparison of C/POSIX standard library implementations for Linux</small>
 
 
-| 🔥: 87 \| 💬: [30](https://news.ycombinator.com/item?id=43946149) \| 🗓️ 2025-05-10
+| 🔥: 91 \| 💬: [30](https://news.ycombinator.com/item?id=43946149) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -179,7 +191,7 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 
 ---
 
-## <a name="14"></a>14. 美国政府考虑暂停人身保护令 
+## <a name="15"></a>15. 美国政府考虑暂停人身保护令 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c0qgz18glljo): US Government considering suspending habeas corpus</small>
 
 
@@ -191,7 +203,7 @@ OpenAI近期下架了因**过度奉承用户**而引发争议的ChatGPT版本。
 
 ---
 
-## <a name="15"></a>15. Radxa Orion O6：中端Arm主板，潜力与问题并存 
+## <a name="16"></a>16. Radxa Orion O6：中端Arm主板，潜力与问题并存 
 <small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/radxa-orion-o6-brings-arm-midrange-pc): Radxa Orion O6 brings Arm to the midrange PC (with caveats)</small>
 
 
@@ -203,11 +215,11 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 
 ---
 
-## <a name="16"></a>16. 英特尔：辉煌与挑战 
+## <a name="17"></a>17. 英特尔：辉煌与挑战 
 <small>🔗 [abortretry.fail](https://www.abortretry.fail/p/intel-winning-and-losing): Intel: Winning and Losing</small>
 
 
-| 🔥: 79 \| 💬: [57](https://news.ycombinator.com/item?id=43944790) \| 🗓️ 2025-05-10
+| 🔥: 81 \| 💬: [59](https://news.ycombinator.com/item?id=43944790) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -215,11 +227,11 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 
 ---
 
-## <a name="17"></a>17. 行业团体不满特朗普政府拟取消"能源之星"计划 
+## <a name="18"></a>18. 行业团体不满特朗普政府拟取消"能源之星"计划 
 <small>🔗 [insideclimatenews.org](https://insideclimatenews.org/news/08052025/energy-star-program-could-be-eliminated-by-trump-administration/): Industry groups are not happy about the imminent demise of Energy Star</small>
 
 
-| 🔥: 77 \| 💬: [104](https://news.ycombinator.com/item?id=43945138) \| 🗓️ 2025-05-10
+| 🔥: 78 \| 💬: [104](https://news.ycombinator.com/item?id=43945138) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -227,23 +239,11 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 
 ---
 
-## <a name="18"></a>18. 人际观察的21个微妙洞察 
-<small>🔗 [skincontact.substack.com](https://skincontact.substack.com/p/21-observations-from-people-watching): Observations from people watching</small>
-
-
-| 🔥: 72 \| 💬: [25](https://news.ycombinator.com/item?id=43949542) \| 🗓️ 2025-05-10
-
-
-<br />
-作者通过多年观察陌生人互动，总结出**人类行为背后的心理架构**：从对话中的**节奏与注意力**能判断对方是否投入，快乐与礼貌的区别在于是否遵循脚本，而**自我接纳程度**往往反映在对他人的态度上。最有趣的是，人们表达欲望、控制欲或孤独感的方式——比如强颜欢笑的人、用轻蔑掩饰自卑的人，或是像"张开的手掌"般接纳世界的人。观察这些细节，能看透一个人如何与自我及他人相处。
-
----
-
 ## <a name="19"></a>19. 特斯拉保险业务亏损严重，赔付率远超行业水平 
 <small>🔗 [insideevs.com](https://insideevs.com/news/759156/tesla-insurance-loss-higher-average/): Even Tesla's Insurance Arm Is Getting Wrecked</small>
 
 
-| 🔥: 71 \| 💬: [94](https://news.ycombinator.com/item?id=43947690) \| 🗓️ 2025-05-10
+| 🔥: 71 \| 💬: [96](https://news.ycombinator.com/item?id=43947690) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -251,23 +251,11 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 
 ---
 
-## <a name="20"></a>20. DOGE正让致命职业病卷土重来 
-<small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/05/doge-silicosis-prevention/682745/): DOGE Is Bringing Back a Deadly Disease</small>
-
-
-| 🔥: 65 \| 💬: [19](https://news.ycombinator.com/item?id=43947850) \| 🗓️ 2025-05-10
-
-
-<br />
-**硅肺病**患者连呼吸都需挣扎，日常活动成为奢望。这种因长期吸入**二氧化硅粉尘**引发的疾病曾因奥巴马政府的严格标准得到控制，但特朗普政府撤销了关键防护措施：解散煤矿工人健康监测团队，叫停矿山安全局（MSHA）新规，并关闭多个 OSHA 检查办公室。与此同时，人造石台面加工业正爆发新疫情，200多名拉丁裔工人确诊，但监管机构因资源匮乏难以追踪。**公共健康防护体系的瓦解**将导致更多可预防的悲剧。
-
----
-
-## <a name="21"></a>21. 树莓派监控系统：我的食肉植物宠物实验室 
+## <a name="20"></a>20. 树莓派监控系统：我的食肉植物宠物实验室 
 <small>🔗 [github.com](https://github.com/blackrabbit17/xenolab): Show HN: Xenolab – Rasp Pi monitor for my pet carnivourus plants</small>
 
 
-| 🔥: 64 \| 💬: [19](https://news.ycombinator.com/item?id=43948945) \| 🗓️ 2025-05-10
+| 🔥: 70 \| 💬: [21](https://news.ycombinator.com/item?id=43948945) \| 🗓️ 2025-05-10
 
 
 <br />
@@ -275,7 +263,31 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 
 ---
 
-## <a name="22"></a>22. 谷歌Gemini更新变"保守派"，致创伤幸存者应用崩溃 
+## <a name="21"></a>21. DOGE正让致命职业病卷土重来 
+<small>🔗 [theatlantic.com](https://www.theatlantic.com/ideas/archive/2025/05/doge-silicosis-prevention/682745/): DOGE Is Bringing Back a Deadly Disease</small>
+
+
+| 🔥: 66 \| 💬: [19](https://news.ycombinator.com/item?id=43947850) \| 🗓️ 2025-05-10
+
+
+<br />
+**硅肺病**患者连呼吸都需挣扎，日常活动成为奢望。这种因长期吸入**二氧化硅粉尘**引发的疾病曾因奥巴马政府的严格标准得到控制，但特朗普政府撤销了关键防护措施：解散煤矿工人健康监测团队，叫停矿山安全局（MSHA）新规，并关闭多个 OSHA 检查办公室。与此同时，人造石台面加工业正爆发新疫情，200多名拉丁裔工人确诊，但监管机构因资源匮乏难以追踪。**公共健康防护体系的瓦解**将导致更多可预防的悲剧。
+
+---
+
+## <a name="22"></a>22. 过度吹捧Cursor的人往往技术能力不足 
+<small>🔗 [en.smallyu.net](https://en.smallyu.net/2025/04/12/People%20Who%20Hype%20Cursor%20Usually%20Lack%20Technical%20Skills/): People Who Hype Cursor Usually Lack Technical Skills</small>
+
+
+| 🔥: 63 \| 💬: [44](https://news.ycombinator.com/item?id=43945467) \| 🗓️ 2025-05-10
+
+
+<br />
+本文指出，**Cursor**与**GitHub Copilot**底层模型相同（Claude/GPT），功能差异不大。Cursor的优势在于主动引用项目文件，但有时会过度修改代码；Copilot则更保守。作者认为，狂热推崇Cursor的人可能混淆了**生成式AI**的能力与工具本身，并强调编辑器选择是个人偏好，无需争论。日常使用中，**o1模型**的准确度更高，而Cursor的代码导航功能较弱，依赖项目结构。最终结论：可用Cursor，但不必神化。
+
+---
+
+## <a name="23"></a>23. 谷歌Gemini更新变"保守派"，致创伤幸存者应用崩溃 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/05/08/google_gemini_update_prevents_disabling/): Update turns Google Gemini into a prude, breaking apps for trauma survivors</small>
 
 
@@ -287,23 +299,11 @@ Radxa Orion O6是一款基于**Armv9.2架构**的ITX主板，配备12核CPU（�
 
 ---
 
-## <a name="23"></a>23. 过度吹捧Cursor的人往往技术能力不足 
-<small>🔗 [en.smallyu.net](https://en.smallyu.net/2025/04/12/People%20Who%20Hype%20Cursor%20Usually%20Lack%20Technical%20Skills/): People Who Hype Cursor Usually Lack Technical Skills</small>
-
-
-| 🔥: 61 \| 💬: [44](https://news.ycombinator.com/item?id=43945467) \| 🗓️ 2025-05-10
-
-
-<br />
-本文指出，**Cursor**与**GitHub Copilot**底层模型相同（Claude/GPT），功能差异不大。Cursor的优势在于主动引用项目文件，但有时会过度修改代码；Copilot则更保守。作者认为，狂热推崇Cursor的人可能混淆了**生成式AI**的能力与工具本身，并强调编辑器选择是个人偏好，无需争论。日常使用中，**o1模型**的准确度更高，而Cursor的代码导航功能较弱，依赖项目结构。最终结论：可用Cursor，但不必神化。
-
----
-
 ## <a name="24"></a>24. 我想爱上Linux，但它不爱我 
 <small>🔗 [fireborn.mataroa.blog](https://fireborn.mataroa.blog/blog/i-want-to-love-linux-it-doesnt-love-me-back-post-1-built-for-control-but-not-for-people/): I Want to Love Linux. It Doesn't Love Me Back</small>
 
 
-| 🔥: 56 \| 💬: [36](https://news.ycombinator.com/item?id=43945373) \| 🗓️ 2025-05-10
+| 🔥: 56 \| 💬: [40](https://news.ycombinator.com/item?id=43945373) \| 🗓️ 2025-05-10
 
 
 <br />
