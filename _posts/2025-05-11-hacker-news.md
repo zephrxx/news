@@ -27,7 +27,7 @@ tags:
 <small>🔗 [plainvanillaweb.com](https://plainvanillaweb.com/index.html): Plain Vanilla Web</small>
 
 
-| 🔥🔥: 827 \| 💬: [434](https://news.ycombinator.com/item?id=43954896) \| 🗓️ 2025-05-11
+| 🔥🔥: 886 \| 💬: [447](https://news.ycombinator.com/item?id=43954896) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Efeckc17/simple-todo-c): I built a native Windows Todo app in pure C (278 KB, no frameworks)</small>
 
 
-| 🔥🔥: 293 \| 💬: [158](https://news.ycombinator.com/item?id=43954649) \| 🗓️ 2025-05-11
+| 🔥🔥: 301 \| 💬: [159](https://news.ycombinator.com/item?id=43954649) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [insideevs.com](https://insideevs.com/features/759153/car-companies-software-companies/): Car companies are in a billion-dollar software war</small>
 
 
-| 🔥🔥: 263 \| 💬: [438](https://news.ycombinator.com/item?id=43955525) \| 🗓️ 2025-05-11
+| 🔥🔥: 282 \| 💬: [462](https://news.ycombinator.com/item?id=43955525) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [pivot-to-ai.com](https://pivot-to-ai.com/2025/05/03/in-2025-venture-capital-cant-pretend-everything-is-fine-any-more/): In 2025, venture capital can't pretend everything is fine any more</small>
 
 
-| 🔥🔥: 254 \| 💬: [228](https://news.ycombinator.com/item?id=43953884) \| 🗓️ 2025-05-11
+| 🔥🔥: 258 \| 💬: [228](https://news.ycombinator.com/item?id=43953884) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [customerexperiencedive.com](https://www.customerexperiencedive.com/news/klarna-reinvests-human-talent-customer-service-AI-chatbot/747586/): Klarna changes its AI tune and again recruits humans for customer service</small>
 
 
-| 🔥🔥: 217 \| 💬: [89](https://news.ycombinator.com/item?id=43955374) \| 🗓️ 2025-05-11
+| 🔥🔥: 220 \| 💬: [93](https://news.ycombinator.com/item?id=43955374) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -83,23 +83,11 @@ Klarna在宣称AI聊天机器人可替代700名客服人员一年后，重新转
 
 ---
 
-## <a name="6"></a>6. 赫库兰尼姆古卷经数字技术破解 确认作者与书名 
-<small>🔗 [finebooksmagazine.com](https://www.finebooksmagazine.com/fine-books-news/title-work-deciphered-sealed-herculaneum-scroll-digital-unwrapping): Title of work deciphered in sealed Herculaneum scroll via digital unwrapping</small>
-
-
-| 🔥🔥: 197 \| 💬: [78](https://news.ycombinator.com/item?id=43953883) \| 🗓️ 2025-05-11
-
-
-<br />
-研究人员首次通过**"虚拟展开"技术**成功解读了赫库兰尼姆出土的密封古卷PHerc.172，确认其为古希腊哲学家**菲洛德穆**的伦理学著作《论恶习及其对立美德》。牛津大学博德利图书馆与"维苏威挑战"项目组宣布，该卷轴在同步辐射光源扫描后，由两个独立团队几乎同时破译出书名页内容。尽管书卷编号尚存争议（可能为第一卷），这一发现为研究伊壁鸠鲁学派伦理观提供了珍贵材料。项目组强调，**人工智能技术**为古籍研究开辟了新途径，这项突破也获得了6万美元的"首题奖"。
-
----
-
-## <a name="7"></a>7. 在Linux和Windows（WSL）上开发iOS应用 
+## <a name="6"></a>6. 在Linux和Windows（WSL）上开发iOS应用 
 <small>🔗 [forums.swift.org](https://forums.swift.org/t/xtool-cross-platform-xcode-replacement-build-ios-apps-on-linux-and-more/79803): Build iOS Apps on Linux and Windows</small>
 
 
-| 🔥🔥: 195 \| 💬: [34](https://news.ycombinator.com/item?id=43952239) \| 🗓️ 2025-05-11
+| 🔥🔥: 201 \| 💬: [38](https://news.ycombinator.com/item?id=43952239) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -107,11 +95,23 @@ GitHub项目 **xtool-org/xtool** 是一个跨平台的 **Xcode替代工具**，�
 
 ---
 
+## <a name="7"></a>7. 赫库兰尼姆古卷经数字技术破解 确认作者与书名 
+<small>🔗 [finebooksmagazine.com](https://www.finebooksmagazine.com/fine-books-news/title-work-deciphered-sealed-herculaneum-scroll-digital-unwrapping): Title of work deciphered in sealed Herculaneum scroll via digital unwrapping</small>
+
+
+| 🔥🔥: 200 \| 💬: [82](https://news.ycombinator.com/item?id=43953883) \| 🗓️ 2025-05-11
+
+
+<br />
+研究人员首次通过**"虚拟展开"技术**成功解读了赫库兰尼姆出土的密封古卷PHerc.172，确认其为古希腊哲学家**菲洛德穆**的伦理学著作《论恶习及其对立美德》。牛津大学博德利图书馆与"维苏威挑战"项目组宣布，该卷轴在同步辐射光源扫描后，由两个独立团队几乎同时破译出书名页内容。尽管书卷编号尚存争议（可能为第一卷），这一发现为研究伊壁鸠鲁学派伦理观提供了珍贵材料。项目组强调，**人工智能技术**为古籍研究开辟了新途径，这项突破也获得了6万美元的"首题奖"。
+
+---
+
 ## <a name="8"></a>8. 2038年危机：全球数字定时炸弹 
 <small>🔗 [epochalypse-project.org](https://epochalypse-project.org/): The Epochalypse Project</small>
 
 
-| 🔥🔥: 173 \| 💬: [75](https://news.ycombinator.com/item?id=43952714) \| 🗓️ 2025-05-11
+| 🔥🔥: 177 \| 💬: [75](https://news.ycombinator.com/item?id=43952714) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -125,7 +125,7 @@ GitHub项目 **xtool-org/xtool** 是一个跨平台的 **Xcode替代工具**，�
 <small>🔗 [torrentfreak.com](https://torrentfreak.com/dns-piracy-blocking-orders-google-cloudflare-and-opendns-respond-differently-250511/): DNS piracy blocking orders: Google, Cloudflare, and OpenDNS respond differently</small>
 
 
-| 🔥🔥: 164 \| 💬: [149](https://news.ycombinator.com/item?id=43954459) \| 🗓️ 2025-05-11
+| 🔥🔥: 165 \| 💬: [149](https://news.ycombinator.com/item?id=43954459) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -137,7 +137,7 @@ GitHub项目 **xtool-org/xtool** 是一个跨平台的 **Xcode替代工具**，�
 <small>🔗 [1517.substack.com](https://1517.substack.com/p/why-bell-labs-worked): Why Bell Labs Worked</small>
 
 
-| 🔥🔥: 144 \| 💬: [109](https://news.ycombinator.com/item?id=43957010) \| 🗓️ 2025-05-11
+| 🔥🔥: 159 \| 💬: [122](https://news.ycombinator.com/item?id=43957010) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -151,7 +151,7 @@ GitHub项目 **xtool-org/xtool** 是一个跨平台的 **Xcode替代工具**，�
 <small>🔗 [github.com](https://github.com/jaypyles/Scraperr): Scraperr – A Self Hosted Webscraper</small>
 
 
-| 🔥🔥: 141 \| 💬: [47](https://news.ycombinator.com/item?id=43955842) \| 🗓️ 2025-05-11
+| 🔥🔥: 155 \| 💬: [52](https://news.ycombinator.com/item?id=43955842) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -163,7 +163,7 @@ Scraperr 是一款**自托管**的网页数据抓取工具，支持通过**XPath
 <small>🔗 [enterprisevalue.substack.com](https://enterprisevalue.substack.com/p/burrito-now-pay-later): Burrito Now, Pay Later</small>
 
 
-| 🔥🔥: 120 \| 💬: [176](https://news.ycombinator.com/item?id=43956723) \| 🗓️ 2025-05-11
+| 🔥🔥: 125 \| 💬: [185](https://news.ycombinator.com/item?id=43956723) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -175,7 +175,7 @@ Scraperr 是一款**自托管**的网页数据抓取工具，支持通过**XPath
 <small>🔗 [vlaaad.github.io](https://vlaaad.github.io/lsp-client-in-200-lines-of-code): LSP client in Clojure in 200 lines of code</small>
 
 
-| 🔥🔥: 114 \| 💬: [11](https://news.ycombinator.com/item?id=43955397) \| 🗓️ 2025-05-11
+| 🔥🔥: 122 \| 💬: [12](https://news.ycombinator.com/item?id=43955397) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -183,35 +183,11 @@ Scraperr 是一款**自托管**的网页数据抓取工具，支持通过**XPath
 
 ---
 
-## <a name="14"></a>14. 2024年美国海平面"成绩单"预测沿海社区未来 
-<small>🔗 [news.wm.edu](https://news.wm.edu/2025/05/06/2024-sea-level-report-cards-map-futures-of-u-s-coastal-communities/): 2024 sea level 'report cards' map futures of U.S. coastal communities</small>
-
-
-| 🔥: 94 \| 💬: [94](https://news.ycombinator.com/item?id=43956115) \| 🗓️ 2025-05-11
-
-
-<br />
-威廉玛丽学院巴顿学院与弗吉尼亚海洋科学研究所（VIMS）发布了2024年美国海平面"成绩单"，整合55年历史数据，为36个沿海社区提供**海平面上升趋势**与2050年水位预测。新增安纳波利斯等4个潮汐监测站数据，并通过交互式仪表盘展示。报告指出，**墨西哥湾沿岸**上升最快，而东南部州如南卡罗来纳因格陵兰冰盖融化加速明显。西海岸则相对稳定，与早期预测不符。这些数据帮助居民与政府制定应对**风暴潮**等风险的长期规划。
-
----
-
-## <a name="15"></a>15. JEP 515：AOT方法性能分析预缓存 
-<small>🔗 [openjdk.org](https://openjdk.org/jeps/515): JEP 515: Ahead-of-Time Method Profiling</small>
-
-
-| 🔥: 92 \| 💬: [9](https://news.ycombinator.com/item?id=43954178) \| 🗓️ 2025-05-11
-
-
-<br />
-该提案旨在通过**预缓存方法执行性能分析数据**，缩短Java应用的启动预热时间。在训练运行中收集的**方法调用频率**和类型信息将存入AOT缓存，使生产运行时JIT编译器能立即基于历史数据优化热点代码，无需等待实时分析。例如，测试程序预热时间减少19%，仅增加2.5%的缓存空间。**动态类加载**和**多态调用**等场景仍依赖运行时分析，但预缓存数据可显著加速初期编译决策。此功能是现有AOT缓存（JEP 483）的扩展，不影响应用代码或运行时行为。
-
----
-
-## <a name="16"></a>16. 避开AI越来越难，但我们必须捍卫选择退出的自由 
+## <a name="14"></a>14. 避开AI越来越难，但我们必须捍卫选择退出的自由 
 <small>🔗 [theconversation.com](https://theconversation.com/avoiding-ai-is-hard-but-our-freedom-to-opt-out-must-be-protected-255873): Avoiding AI is hard – but our freedom to opt out must be protected</small>
 
 
-| 🔥: 91 \| 💬: [62](https://news.ycombinator.com/item?id=43958382) \| 🗓️ 2025-05-11
+| 🔥🔥: 101 \| 💬: [71](https://news.ycombinator.com/item?id=43958382) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -219,11 +195,35 @@ AI已渗透到医疗、金融、招聘等关键领域，甚至影响新闻推送
 
 ---
 
+## <a name="15"></a>15. 2024年美国海平面"成绩单"预测沿海社区未来 
+<small>🔗 [news.wm.edu](https://news.wm.edu/2025/05/06/2024-sea-level-report-cards-map-futures-of-u-s-coastal-communities/): 2024 sea level 'report cards' map futures of U.S. coastal communities</small>
+
+
+| 🔥: 95 \| 💬: [94](https://news.ycombinator.com/item?id=43956115) \| 🗓️ 2025-05-11
+
+
+<br />
+威廉玛丽学院巴顿学院与弗吉尼亚海洋科学研究所（VIMS）发布了2024年美国海平面"成绩单"，整合55年历史数据，为36个沿海社区提供**海平面上升趋势**与2050年水位预测。新增安纳波利斯等4个潮汐监测站数据，并通过交互式仪表盘展示。报告指出，**墨西哥湾沿岸**上升最快，而东南部州如南卡罗来纳因格陵兰冰盖融化加速明显。西海岸则相对稳定，与早期预测不符。这些数据帮助居民与政府制定应对**风暴潮**等风险的长期规划。
+
+---
+
+## <a name="16"></a>16. JEP 515：AOT方法性能分析预缓存 
+<small>🔗 [openjdk.org](https://openjdk.org/jeps/515): JEP 515: Ahead-of-Time Method Profiling</small>
+
+
+| 🔥: 93 \| 💬: [9](https://news.ycombinator.com/item?id=43954178) \| 🗓️ 2025-05-11
+
+
+<br />
+该提案旨在通过**预缓存方法执行性能分析数据**，缩短Java应用的启动预热时间。在训练运行中收集的**方法调用频率**和类型信息将存入AOT缓存，使生产运行时JIT编译器能立即基于历史数据优化热点代码，无需等待实时分析。例如，测试程序预热时间减少19%，仅增加2.5%的缓存空间。**动态类加载**和**多态调用**等场景仍依赖运行时分析，但预缓存数据可显著加速初期编译决策。此功能是现有AOT缓存（JEP 483）的扩展，不影响应用代码或运行时行为。
+
+---
+
 ## <a name="17"></a>17. Rust文档生态体系深度评析 
 <small>🔗 [harudagondi.space](https://www.harudagondi.space/blog/rust-documentation-ecosystem-review/): A Rust Documentation Ecosystem Review</small>
 
 
-| 🔥: 88 \| 💬: [14](https://news.ycombinator.com/item?id=43953229) \| 🗓️ 2025-05-11
+| 🔥: 89 \| 💬: [14](https://news.ycombinator.com/item?id=43953229) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -243,23 +243,11 @@ AI已渗透到医疗、金融、招聘等关键领域，甚至影响新闻推送
 
 ---
 
-## <a name="19"></a>19. 经典物理学的应用 
-<small>🔗 [pmaweb.caltech.edu](http://pmaweb.caltech.edu/Courses/ph136/yr2012/): Applications of Classical Physics</small>
-
-
-| 🔥: 72 \| 💬: [35](https://news.ycombinator.com/item?id=43955326) \| 🗓️ 2025-05-11
-
-
-<br />
-该教材由Roger D. Blandford和Kip S. Thorne编写，2012-2013年版，涵盖**牛顿力学**、**统计力学**、**流体动力学**、**等离子体物理**及**广义相对论**等多个领域。内容从基础理论（如几何光学、衍射）到前沿课题（如**黑洞**、引力波），系统性强，版本更新细致，适合深入学习经典物理学及其现代应用。
-
----
-
-## <a name="20"></a>20. 线上展览：当代码出错变成艺术 
+## <a name="19"></a>19. 线上展览：当代码出错变成艺术 
 <small>🔗 [glitchgallery.org](https://glitchgallery.org/): An online exhibition of pretty software bugs</small>
 
 
-| 🔥: 72 \| 💬: [1](https://news.ycombinator.com/item?id=43955333) \| 🗓️ 2025-05-11
+| 🔥: 81 \| 💬: [1](https://news.ycombinator.com/item?id=43955333) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -267,11 +255,35 @@ AI已渗透到医疗、金融、招聘等关键领域，甚至影响新闻推送
 
 ---
 
-## <a name="21"></a>21. 1800万美元补助金本可大幅减少食物浪费，却被EPA突然取消 
+## <a name="20"></a>20. 连续思维机器：生物启发的时序神经网络新架构 
+<small>🔗 [pub.sakana.ai](https://pub.sakana.ai/ctm/): Continuous Thought Machines</small>
+
+
+| 🔥: 75 \| 💬: [6](https://news.ycombinator.com/item?id=43959071) \| 🗓️ 2025-05-11
+
+
+<br />
+该研究提出**连续思维机器（CTM）**，一种新型神经网络架构，通过模拟生物神经元的**时序同步机制**来提升AI的灵活性与适应性。与传统AI忽略神经动态不同，CTM引入**神经元级模型（NLM）**和**同步表征**，将神经活动的时间演化作为核心计算要素。实验显示，这种生物启发设计在迷宫求解等任务中展现出潜力，为弥合人工与生物智能的差距提供了新方向。
+
+---
+
+## <a name="21"></a>21. 经典物理学的应用 
+<small>🔗 [pmaweb.caltech.edu](http://pmaweb.caltech.edu/Courses/ph136/yr2012/): Applications of Classical Physics</small>
+
+
+| 🔥: 74 \| 💬: [36](https://news.ycombinator.com/item?id=43955326) \| 🗓️ 2025-05-11
+
+
+<br />
+该教材由Roger D. Blandford和Kip S. Thorne编写，2012-2013年版，涵盖**牛顿力学**、**统计力学**、**流体动力学**、**等离子体物理**及**广义相对论**等多个领域。内容从基础理论（如几何光学、衍射）到前沿课题（如**黑洞**、引力波），系统性强，版本更新细致，适合深入学习经典物理学及其现代应用。
+
+---
+
+## <a name="22"></a>22. 1800万美元补助金本可大幅减少食物浪费，却被EPA突然取消 
 <small>🔗 [grist.org](https://grist.org/food-and-agriculture/trump-epa-community-change-grants-program-food-waste/): An $18M grant would have drastically reduced food waste. Then the EPA cut it</small>
 
 
-| 🔥: 70 \| 💬: [41](https://news.ycombinator.com/item?id=43954810) \| 🗓️ 2025-05-11
+| 🔥: 71 \| 💬: [42](https://news.ycombinator.com/item?id=43954810) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -279,11 +291,11 @@ AI已渗透到医疗、金融、招聘等关键领域，甚至影响新闻推送
 
 ---
 
-## <a name="22"></a>22. 开源工具GlassFlow：实现Kafka到ClickHouse的实时数据去重与流连接 
+## <a name="23"></a>23. 开源工具GlassFlow：实现Kafka到ClickHouse的实时数据去重与流连接 
 <small>🔗 [github.com](https://github.com/glassflow/clickhouse-etl): Show HN: GlassFlow – OSS streaming dedup and joins from Kafka to ClickHouse</small>
 
 
-| 🔥: 68 \| 💬: [29](https://news.ycombinator.com/item?id=43953722) \| 🗓️ 2025-05-11
+| 🔥: 69 \| 💬: [31](https://news.ycombinator.com/item?id=43953722) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -291,11 +303,11 @@ GlassFlow是一款**开源流处理工具**，专为Kafka到ClickHouse的实时E
 
 ---
 
-## <a name="23"></a>23. 通过UART启动RP2350微控制器的实践指南 
+## <a name="24"></a>24. 通过UART启动RP2350微控制器的实践指南 
 <small>🔗 [pfister.dev](https://pfister.dev/blog/2025/rp2350-uart-bl.html): Booting the RP2350 from UART</small>
 
 
-| 🔥: 65 \| 💬: [8](https://news.ycombinator.com/item?id=43954054) \| 🗓️ 2025-05-11
+| 🔥: 67 \| 💬: [8](https://news.ycombinator.com/item?id=43954054) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -303,26 +315,14 @@ GlassFlow是一款**开源流处理工具**，专为Kafka到ClickHouse的实时E
 
 ---
 
-## <a name="24"></a>24. 为何不采用对象能力语言？ 
+## <a name="25"></a>25. 为何不采用对象能力语言？ 
 <small>🔗 [blog.plan99.net](https://blog.plan99.net/why-not-capability-languages-a8e6cbdf9682): Why not object capability languages?</small>
 
 
-| 🔥: 59 \| 💬: [27](https://news.ycombinator.com/item?id=43956095) \| 🗓️ 2025-05-11
+| 🔥: 61 \| 💬: [28](https://news.ycombinator.com/item?id=43956095) \| 🗓️ 2025-05-11
 
 
 <br />
 本文探讨了**对象能力语言**在解决软件供应链攻击中的潜力与挑战。作者指出，当前依赖链过长导致安全风险，而能力模型（如文件描述符、JWT令牌）虽能限制权限，但主流语言（如Java、Python）缺乏内存隔离等关键支持。以**Joe-E**（Java安全子集）和Chrome的**Mojo系统**为例，分析了实现纯能力语言的难点：需移除反射、全局变量等特性，且面临用户体验与兼容性问题。最后指出，硬件隔离（如Chrome多进程架构）虽有效，但依赖平台特定代码，难以普及。核心矛盾在于**安全强度**与**开发便利性**的权衡。
-
----
-
-## <a name="25"></a>25. IBM调查：企业AI投资多因FOMO，而非实际回报 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/05/06/ibm_ai_investments/): Most AI spending driven by FOMO, not ROI, CEOs tell IBM</small>
-
-
-| 🔥: 56 \| 💬: [23](https://news.ycombinator.com/item?id=43952254) \| 🗓️ 2025-05-11
-
-
-<br />
-IBM对2000名CEO的调查显示，仅**25%**的AI项目实现了预期回报，但企业对AI的热情不减，61%正加速投资。**FOMO（错失恐惧症）**是主要驱动力，64%的CEO在未评估实际价值前就匆忙部署。尽管面临成本高、技术分散等挑战，85%的高管仍乐观认为，**生成式AI**将在两年后带来正收益。IBM同时发布了简化AI代理开发的Watsonx框架及多项合作计划。
 
 ---
