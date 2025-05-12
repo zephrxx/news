@@ -11,8 +11,8 @@ tags:
 1. 纯原生Web开发指南；
 1. 用纯C语言编写的轻量级Windows待办事项应用；
 1. 2025年风投泡沫破裂：AI成最后赌注，OpenAI独木难支；
-1. 在Linux和Windows（WSL）上开发iOS应用；
 1. Klarna从AI客服回归人工服务：强调共情与效率平衡；
+1. 在Linux和Windows（WSL）上开发iOS应用；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [plainvanillaweb.com](https://plainvanillaweb.com/index.html): Plain Vanilla Web</small>
 
 
-| 🔥🔥: 582 \| 💬: [317](https://news.ycombinator.com/item?id=43954896) \| 🗓️ 2025-05-11
+| 🔥🔥: 642 \| 💬: [342](https://news.ycombinator.com/item?id=43954896) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Efeckc17/simple-todo-c): I built a native Windows Todo app in pure C (278 KB, no frameworks)</small>
 
 
-| 🔥🔥: 253 \| 💬: [137](https://news.ycombinator.com/item?id=43954649) \| 🗓️ 2025-05-11
+| 🔥🔥: 258 \| 💬: [142](https://news.ycombinator.com/item?id=43954649) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [pivot-to-ai.com](https://pivot-to-ai.com/2025/05/03/in-2025-venture-capital-cant-pretend-everything-is-fine-any-more/): In 2025, venture capital can't pretend everything is fine any more</small>
 
 
-| 🔥🔥: 247 \| 💬: [220](https://news.ycombinator.com/item?id=43953884) \| 🗓️ 2025-05-11
+| 🔥🔥: 248 \| 💬: [223](https://news.ycombinator.com/item?id=43953884) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -59,23 +59,11 @@ tags:
 
 ---
 
-## <a name="4"></a>4. 在Linux和Windows（WSL）上开发iOS应用 
-<small>🔗 [forums.swift.org](https://forums.swift.org/t/xtool-cross-platform-xcode-replacement-build-ios-apps-on-linux-and-more/79803): Build iOS Apps on Linux and Windows</small>
-
-
-| 🔥🔥: 178 \| 💬: [26](https://news.ycombinator.com/item?id=43952239) \| 🗓️ 2025-05-11
-
-
-<br />
-GitHub项目 **xtool-org/xtool** 是一个跨平台的 **Xcode替代工具**，支持在Linux、Windows和macOS上通过 **SwiftPM** 构建和部署iOS应用。该项目为开发者提供了在不使用苹果官方IDE的情况下开发iOS应用的可能性，尤其适合非macOS环境的用户。
-
----
-
-## <a name="5"></a>5. Klarna从AI客服回归人工服务：强调共情与效率平衡 
+## <a name="4"></a>4. Klarna从AI客服回归人工服务：强调共情与效率平衡 
 <small>🔗 [customerexperiencedive.com](https://www.customerexperiencedive.com/news/klarna-reinvests-human-talent-customer-service-AI-chatbot/747586/): Klarna changes its AI tune and again recruits humans for customer service</small>
 
 
-| 🔥🔥: 178 \| 💬: [72](https://news.ycombinator.com/item?id=43955374) \| 🗓️ 2025-05-11
+| 🔥🔥: 189 \| 💬: [81](https://news.ycombinator.com/item?id=43955374) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -83,23 +71,23 @@ Klarna在宣称AI聊天机器人可替代700名客服人员一年后，重新转
 
 ---
 
-## <a name="6"></a>6. 赫库兰尼姆古卷经数字技术破解 确认作者与书名 
-<small>🔗 [finebooksmagazine.com](https://www.finebooksmagazine.com/fine-books-news/title-work-deciphered-sealed-herculaneum-scroll-digital-unwrapping): Title of work deciphered in sealed Herculaneum scroll via digital unwrapping</small>
+## <a name="5"></a>5. 在Linux和Windows（WSL）上开发iOS应用 
+<small>🔗 [forums.swift.org](https://forums.swift.org/t/xtool-cross-platform-xcode-replacement-build-ios-apps-on-linux-and-more/79803): Build iOS Apps on Linux and Windows</small>
 
 
-| 🔥🔥: 169 \| 💬: [71](https://news.ycombinator.com/item?id=43953883) \| 🗓️ 2025-05-11
+| 🔥🔥: 187 \| 💬: [30](https://news.ycombinator.com/item?id=43952239) \| 🗓️ 2025-05-11
 
 
 <br />
-研究人员首次通过**"虚拟展开"技术**成功解读了赫库兰尼姆出土的密封古卷PHerc.172，确认其为古希腊哲学家**菲洛德穆**的伦理学著作《论恶习及其对立美德》。牛津大学博德利图书馆与"维苏威挑战"项目组宣布，该卷轴在同步辐射光源扫描后，由两个独立团队几乎同时破译出书名页内容。尽管书卷编号尚存争议（可能为第一卷），这一发现为研究伊壁鸠鲁学派伦理观提供了珍贵材料。项目组强调，**人工智能技术**为古籍研究开辟了新途径，这项突破也获得了6万美元的"首题奖"。
+GitHub项目 **xtool-org/xtool** 是一个跨平台的 **Xcode替代工具**，支持在Linux、Windows和macOS上通过 **SwiftPM** 构建和部署iOS应用。该项目为开发者提供了在不使用苹果官方IDE的情况下开发iOS应用的可能性，尤其适合非macOS环境的用户。
 
 ---
 
-## <a name="7"></a>7. 汽车巨头深陷千亿软件战争泥潭 
+## <a name="6"></a>6. 汽车巨头深陷千亿软件战争泥潭 
 <small>🔗 [insideevs.com](https://insideevs.com/features/759153/car-companies-software-companies/): Car companies are in a billion-dollar software war</small>
 
 
-| 🔥🔥: 163 \| 💬: [287](https://news.ycombinator.com/item?id=43955525) \| 🗓️ 2025-05-11
+| 🔥🔥: 184 \| 💬: [318](https://news.ycombinator.com/item?id=43955525) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -107,11 +95,23 @@ Klarna在宣称AI聊天机器人可替代700名客服人员一年后，重新转
 
 ---
 
+## <a name="7"></a>7. 赫库兰尼姆古卷经数字技术破解 确认作者与书名 
+<small>🔗 [finebooksmagazine.com](https://www.finebooksmagazine.com/fine-books-news/title-work-deciphered-sealed-herculaneum-scroll-digital-unwrapping): Title of work deciphered in sealed Herculaneum scroll via digital unwrapping</small>
+
+
+| 🔥🔥: 174 \| 💬: [75](https://news.ycombinator.com/item?id=43953883) \| 🗓️ 2025-05-11
+
+
+<br />
+研究人员首次通过**"虚拟展开"技术**成功解读了赫库兰尼姆出土的密封古卷PHerc.172，确认其为古希腊哲学家**菲洛德穆**的伦理学著作《论恶习及其对立美德》。牛津大学博德利图书馆与"维苏威挑战"项目组宣布，该卷轴在同步辐射光源扫描后，由两个独立团队几乎同时破译出书名页内容。尽管书卷编号尚存争议（可能为第一卷），这一发现为研究伊壁鸠鲁学派伦理观提供了珍贵材料。项目组强调，**人工智能技术**为古籍研究开辟了新途径，这项突破也获得了6万美元的"首题奖"。
+
+---
+
 ## <a name="8"></a>8. 2038年危机：全球数字定时炸弹 
 <small>🔗 [epochalypse-project.org](https://epochalypse-project.org/): The Epochalypse Project</small>
 
 
-| 🔥🔥: 158 \| 💬: [70](https://news.ycombinator.com/item?id=43952714) \| 🗓️ 2025-05-11
+| 🔥🔥: 163 \| 💬: [71](https://news.ycombinator.com/item?id=43952714) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -125,7 +125,7 @@ Klarna在宣称AI聊天机器人可替代700名客服人员一年后，重新转
 <small>🔗 [torrentfreak.com](https://torrentfreak.com/dns-piracy-blocking-orders-google-cloudflare-and-opendns-respond-differently-250511/): DNS piracy blocking orders: Google, Cloudflare, and OpenDNS respond differently</small>
 
 
-| 🔥🔥: 155 \| 💬: [142](https://news.ycombinator.com/item?id=43954459) \| 🗓️ 2025-05-11
+| 🔥🔥: 156 \| 💬: [145](https://news.ycombinator.com/item?id=43954459) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -133,47 +133,11 @@ Klarna在宣称AI聊天机器人可替代700名客服人员一年后，重新转
 
 ---
 
-## <a name="10"></a>10. Rust文档生态体系深度评析 
-<small>🔗 [harudagondi.space](https://www.harudagondi.space/blog/rust-documentation-ecosystem-review/): A Rust Documentation Ecosystem Review</small>
-
-
-| 🔥: 88 \| 💬: [13](https://news.ycombinator.com/item?id=43953229) \| 🗓️ 2025-05-11
-
-
-<br />
-本文探讨了Rust文档质量的四大象限分类法——**教程**、**操作指南**、**技术参考**和**原理解析**，并分析了它们在**全面性**、**可发现性**和**设计哲学**维度的表现。作者指出，优秀文档需平衡初学者友好度与深度技术细节，尤其强调被忽视的"原理解析"对理解库架构的关键作用。通过评估`rand`、`tokio`等20余个主流Rust库的文档现状，揭示了当前生态在教程实用性和API参考完整性方面的优势，但在哲学阐述和知识可发现性上存在明显短板。
-
----
-
-## <a name="11"></a>11. 2024年美国海平面"成绩单"预测沿海社区未来 
-<small>🔗 [news.wm.edu](https://news.wm.edu/2025/05/06/2024-sea-level-report-cards-map-futures-of-u-s-coastal-communities/): 2024 sea level 'report cards' map futures of U.S. coastal communities</small>
-
-
-| 🔥: 88 \| 💬: [81](https://news.ycombinator.com/item?id=43956115) \| 🗓️ 2025-05-11
-
-
-<br />
-威廉玛丽学院巴顿学院与弗吉尼亚海洋科学研究所（VIMS）发布了2024年美国海平面"成绩单"，整合55年历史数据，为36个沿海社区提供**海平面上升趋势**与2050年水位预测。新增安纳波利斯等4个潮汐监测站数据，并通过交互式仪表盘展示。报告指出，**墨西哥湾沿岸**上升最快，而东南部州如南卡罗来纳因格陵兰冰盖融化加速明显。西海岸则相对稳定，与早期预测不符。这些数据帮助居民与政府制定应对**风暴潮**等风险的长期规划。
-
----
-
-## <a name="12"></a>12. JEP 515：AOT方法性能分析预缓存 
-<small>🔗 [openjdk.org](https://openjdk.org/jeps/515): JEP 515: Ahead-of-Time Method Profiling</small>
-
-
-| 🔥: 86 \| 💬: [5](https://news.ycombinator.com/item?id=43954178) \| 🗓️ 2025-05-11
-
-
-<br />
-该提案旨在通过**预缓存方法执行性能分析数据**，缩短Java应用的启动预热时间。在训练运行中收集的**方法调用频率**和类型信息将存入AOT缓存，使生产运行时JIT编译器能立即基于历史数据优化热点代码，无需等待实时分析。例如，测试程序预热时间减少19%，仅增加2.5%的缓存空间。**动态类加载**和**多态调用**等场景仍依赖运行时分析，但预缓存数据可显著加速初期编译决策。此功能是现有AOT缓存（JEP 483）的扩展，不影响应用代码或运行时行为。
-
----
-
-## <a name="13"></a>13. 用200行Clojure代码实现LSP客户端 
+## <a name="10"></a>10. 用200行Clojure代码实现LSP客户端 
 <small>🔗 [vlaaad.github.io](https://vlaaad.github.io/lsp-client-in-200-lines-of-code): LSP client in Clojure in 200 lines of code</small>
 
 
-| 🔥: 84 \| 💬: [3](https://news.ycombinator.com/item?id=43955397) \| 🗓️ 2025-05-11
+| 🔥: 95 \| 💬: [7](https://news.ycombinator.com/item?id=43955397) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -181,11 +145,11 @@ Klarna在宣称AI聊天机器人可替代700名客服人员一年后，重新转
 
 ---
 
-## <a name="14"></a>14. Scraperr：一款强大的自托管网络爬虫工具 
+## <a name="11"></a>11. Scraperr：一款强大的自托管网络爬虫工具 
 <small>🔗 [github.com](https://github.com/jaypyles/Scraperr): Scraperr – A Self Hosted Webscraper</small>
 
 
-| 🔥: 84 \| 💬: [25](https://news.ycombinator.com/item?id=43955842) \| 🗓️ 2025-05-11
+| 🔥: 95 \| 💬: [32](https://news.ycombinator.com/item?id=43955842) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -193,47 +157,47 @@ Scraperr 是一款**自托管**的网页数据抓取工具，支持通过**XPath
 
 ---
 
-## <a name="15"></a>15. 西班牙叛逆者：玛雅战士贡萨洛·格雷罗 
-<small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Gonzalo_Guerrero): Gonzalo Guerrero</small>
+## <a name="12"></a>12. 2024年美国海平面"成绩单"预测沿海社区未来 
+<small>🔗 [news.wm.edu](https://news.wm.edu/2025/05/06/2024-sea-level-report-cards-map-futures-of-u-s-coastal-communities/): 2024 sea level 'report cards' map futures of U.S. coastal communities</small>
 
 
-| 🔥: 79 \| 💬: [22](https://news.ycombinator.com/item?id=43954249) \| 🗓️ 2025-05-11
-
-
-<br />
-贡萨洛·格雷罗是16世纪西班牙水手，因海难流落尤卡坦半岛，被玛雅人奴役后逆转为**玛雅军事领袖**。他拒绝重返西班牙阵营，娶玛雅贵族之妻并生育了美洲最早的**混血后代**之一。格雷罗多次率军抵抗西班牙征服者，包括科尔特斯和阿尔瓦拉多的入侵，最终在1536年洪都拉斯战役中战死。他的故事成为墨西哥文化中**身份认同**的象征，从殖民叛徒演变为混血文明的传奇先驱。
-
----
-
-## <a name="16"></a>16. 开源工具GlassFlow：实现Kafka到ClickHouse的实时数据去重与流连接 
-<small>🔗 [github.com](https://github.com/glassflow/clickhouse-etl): Show HN: GlassFlow – OSS streaming dedup and joins from Kafka to ClickHouse</small>
-
-
-| 🔥: 67 \| 💬: [27](https://news.ycombinator.com/item?id=43953722) \| 🗓️ 2025-05-11
+| 🔥: 89 \| 💬: [86](https://news.ycombinator.com/item?id=43956115) \| 🗓️ 2025-05-11
 
 
 <br />
-GlassFlow是一款**开源流处理工具**，专为Kafka到ClickHouse的实时ETL设计，提供**数据去重**和**时序连接**功能。它通过直观的Web界面简化管道配置，支持7天时间窗口的去重与流合并，确保数据准确性和低延迟。内置Kafka连接器和ClickHouse优化写入，适合高吞吐场景，并支持Docker本地部署。核心特性包括自动Schema管理、Exactly-Once语义及自托管能力，助力数据工程师高效构建实时管道。
+威廉玛丽学院巴顿学院与弗吉尼亚海洋科学研究所（VIMS）发布了2024年美国海平面"成绩单"，整合55年历史数据，为36个沿海社区提供**海平面上升趋势**与2050年水位预测。新增安纳波利斯等4个潮汐监测站数据，并通过交互式仪表盘展示。报告指出，**墨西哥湾沿岸**上升最快，而东南部州如南卡罗来纳因格陵兰冰盖融化加速明显。西海岸则相对稳定，与早期预测不符。这些数据帮助居民与政府制定应对**风暴潮**等风险的长期规划。
 
 ---
 
-## <a name="17"></a>17. 经典物理学的应用 
-<small>🔗 [pmaweb.caltech.edu](http://pmaweb.caltech.edu/Courses/ph136/yr2012/): Applications of Classical Physics</small>
+## <a name="13"></a>13. Rust文档生态体系深度评析 
+<small>🔗 [harudagondi.space](https://www.harudagondi.space/blog/rust-documentation-ecosystem-review/): A Rust Documentation Ecosystem Review</small>
 
 
-| 🔥: 67 \| 💬: [26](https://news.ycombinator.com/item?id=43955326) \| 🗓️ 2025-05-11
+| 🔥: 88 \| 💬: [14](https://news.ycombinator.com/item?id=43953229) \| 🗓️ 2025-05-11
 
 
 <br />
-该教材由Roger D. Blandford和Kip S. Thorne编写，2012-2013年版，涵盖**牛顿力学**、**统计力学**、**流体动力学**、**等离子体物理**及**广义相对论**等多个领域。内容从基础理论（如几何光学、衍射）到前沿课题（如**黑洞**、引力波），系统性强，版本更新细致，适合深入学习经典物理学及其现代应用。
+本文探讨了Rust文档质量的四大象限分类法——**教程**、**操作指南**、**技术参考**和**原理解析**，并分析了它们在**全面性**、**可发现性**和**设计哲学**维度的表现。作者指出，优秀文档需平衡初学者友好度与深度技术细节，尤其强调被忽视的"原理解析"对理解库架构的关键作用。通过评估`rand`、`tokio`等20余个主流Rust库的文档现状，揭示了当前生态在教程实用性和API参考完整性方面的优势，但在哲学阐述和知识可发现性上存在明显短板。
 
 ---
 
-## <a name="18"></a>18. 先吃卷饼，后付款：金融创新如何重塑信贷市场 
+## <a name="14"></a>14. JEP 515：AOT方法性能分析预缓存 
+<small>🔗 [openjdk.org](https://openjdk.org/jeps/515): JEP 515: Ahead-of-Time Method Profiling</small>
+
+
+| 🔥: 88 \| 💬: [6](https://news.ycombinator.com/item?id=43954178) \| 🗓️ 2025-05-11
+
+
+<br />
+该提案旨在通过**预缓存方法执行性能分析数据**，缩短Java应用的启动预热时间。在训练运行中收集的**方法调用频率**和类型信息将存入AOT缓存，使生产运行时JIT编译器能立即基于历史数据优化热点代码，无需等待实时分析。例如，测试程序预热时间减少19%，仅增加2.5%的缓存空间。**动态类加载**和**多态调用**等场景仍依赖运行时分析，但预缓存数据可显著加速初期编译决策。此功能是现有AOT缓存（JEP 483）的扩展，不影响应用代码或运行时行为。
+
+---
+
+## <a name="15"></a>15. 先吃卷饼，后付款：金融创新如何重塑信贷市场 
 <small>🔗 [enterprisevalue.substack.com](https://enterprisevalue.substack.com/p/burrito-now-pay-later): Burrito Now, Pay Later</small>
 
 
-| 🔥: 67 \| 💬: [85](https://news.ycombinator.com/item?id=43956723) \| 🗓️ 2025-05-11
+| 🔥: 87 \| 💬: [128](https://news.ycombinator.com/item?id=43956723) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -241,23 +205,23 @@ GlassFlow是一款**开源流处理工具**，专为Kafka到ClickHouse的实时E
 
 ---
 
-## <a name="19"></a>19. 1800万美元补助金本可大幅减少食物浪费，却被EPA突然取消 
-<small>🔗 [grist.org](https://grist.org/food-and-agriculture/trump-epa-community-change-grants-program-food-waste/): An $18M grant would have drastically reduced food waste. Then the EPA cut it</small>
+## <a name="16"></a>16. 西班牙叛逆者：玛雅战士贡萨洛·格雷罗 
+<small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Gonzalo_Guerrero): Gonzalo Guerrero</small>
 
 
-| 🔥: 63 \| 💬: [39](https://news.ycombinator.com/item?id=43954810) \| 🗓️ 2025-05-11
+| 🔥: 80 \| 💬: [23](https://news.ycombinator.com/item?id=43954249) \| 🗓️ 2025-05-11
 
 
 <br />
-美国非营利组织Groundwork RI通过**社区堆肥计划**收集家庭厨余，将其转化为肥料以减少垃圾填埋。美国每年浪费超1/3食物，产生大量温室气体。2023年EPA曾批准1800万美元补助金用于扩大该项目，但特朗普政府近期以**“不符合优先事项”**为由突然取消拨款，导致全美400多项环保补助被终止。该资金原计划创造27个就业岗位，服务1.5万户家庭，并减少1.5万吨碳排放。批评者指出此举**加剧了环保资源分配不公**，弱势群体将更难参与减废行动。
+贡萨洛·格雷罗是16世纪西班牙水手，因海难流落尤卡坦半岛，被玛雅人奴役后逆转为**玛雅军事领袖**。他拒绝重返西班牙阵营，娶玛雅贵族之妻并生育了美洲最早的**混血后代**之一。格雷罗多次率军抵抗西班牙征服者，包括科尔特斯和阿尔瓦拉多的入侵，最终在1536年洪都拉斯战役中战死。他的故事成为墨西哥文化中**身份认同**的象征，从殖民叛徒演变为混血文明的传奇先驱。
 
 ---
 
-## <a name="20"></a>20. 贝尔实验室为何成功：自由与天才的化学反应 
+## <a name="17"></a>17. 贝尔实验室为何成功：自由与天才的化学反应 
 <small>🔗 [1517.substack.com](https://1517.substack.com/p/why-bell-labs-worked): Why Bell Labs Worked</small>
 
 
-| 🔥: 60 \| 💬: [44](https://news.ycombinator.com/item?id=43957010) \| 🗓️ 2025-05-11
+| 🔥: 73 \| 💬: [49](https://news.ycombinator.com/item?id=43957010) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -267,11 +231,47 @@ GlassFlow是一款**开源流处理工具**，专为Kafka到ClickHouse的实时E
 
 ---
 
+## <a name="18"></a>18. 开源工具GlassFlow：实现Kafka到ClickHouse的实时数据去重与流连接 
+<small>🔗 [github.com](https://github.com/glassflow/clickhouse-etl): Show HN: GlassFlow – OSS streaming dedup and joins from Kafka to ClickHouse</small>
+
+
+| 🔥: 68 \| 💬: [27](https://news.ycombinator.com/item?id=43953722) \| 🗓️ 2025-05-11
+
+
+<br />
+GlassFlow是一款**开源流处理工具**，专为Kafka到ClickHouse的实时ETL设计，提供**数据去重**和**时序连接**功能。它通过直观的Web界面简化管道配置，支持7天时间窗口的去重与流合并，确保数据准确性和低延迟。内置Kafka连接器和ClickHouse优化写入，适合高吞吐场景，并支持Docker本地部署。核心特性包括自动Schema管理、Exactly-Once语义及自托管能力，助力数据工程师高效构建实时管道。
+
+---
+
+## <a name="19"></a>19. 经典物理学的应用 
+<small>🔗 [pmaweb.caltech.edu](http://pmaweb.caltech.edu/Courses/ph136/yr2012/): Applications of Classical Physics</small>
+
+
+| 🔥: 68 \| 💬: [27](https://news.ycombinator.com/item?id=43955326) \| 🗓️ 2025-05-11
+
+
+<br />
+该教材由Roger D. Blandford和Kip S. Thorne编写，2012-2013年版，涵盖**牛顿力学**、**统计力学**、**流体动力学**、**等离子体物理**及**广义相对论**等多个领域。内容从基础理论（如几何光学、衍射）到前沿课题（如**黑洞**、引力波），系统性强，版本更新细致，适合深入学习经典物理学及其现代应用。
+
+---
+
+## <a name="20"></a>20. 1800万美元补助金本可大幅减少食物浪费，却被EPA突然取消 
+<small>🔗 [grist.org](https://grist.org/food-and-agriculture/trump-epa-community-change-grants-program-food-waste/): An $18M grant would have drastically reduced food waste. Then the EPA cut it</small>
+
+
+| 🔥: 65 \| 💬: [40](https://news.ycombinator.com/item?id=43954810) \| 🗓️ 2025-05-11
+
+
+<br />
+美国非营利组织Groundwork RI通过**社区堆肥计划**收集家庭厨余，将其转化为肥料以减少垃圾填埋。美国每年浪费超1/3食物，产生大量温室气体。2023年EPA曾批准1800万美元补助金用于扩大该项目，但特朗普政府近期以**“不符合优先事项”**为由突然取消拨款，导致全美400多项环保补助被终止。该资金原计划创造27个就业岗位，服务1.5万户家庭，并减少1.5万吨碳排放。批评者指出此举**加剧了环保资源分配不公**，弱势群体将更难参与减废行动。
+
+---
+
 ## <a name="21"></a>21. 线上展览：当代码出错变成艺术 
 <small>🔗 [glitchgallery.org](https://glitchgallery.org/): An online exhibition of pretty software bugs</small>
 
 
-| 🔥: 54 \| 💬: [1](https://news.ycombinator.com/item?id=43955333) \| 🗓️ 2025-05-11
+| 🔥: 59 \| 💬: [1](https://news.ycombinator.com/item?id=43955333) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -279,23 +279,11 @@ GlassFlow是一款**开源流处理工具**，专为Kafka到ClickHouse的实时E
 
 ---
 
-## <a name="22"></a>22. IBM调查：企业AI投资多因FOMO，而非实际回报 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/05/06/ibm_ai_investments/): Most AI spending driven by FOMO, not ROI, CEOs tell IBM</small>
-
-
-| 🔥: 53 \| 💬: [20](https://news.ycombinator.com/item?id=43952254) \| 🗓️ 2025-05-11
-
-
-<br />
-IBM对2000名CEO的调查显示，仅**25%**的AI项目实现了预期回报，但企业对AI的热情不减，61%正加速投资。**FOMO（错失恐惧症）**是主要驱动力，64%的CEO在未评估实际价值前就匆忙部署。尽管面临成本高、技术分散等挑战，85%的高管仍乐观认为，**生成式AI**将在两年后带来正收益。IBM同时发布了简化AI代理开发的Watsonx框架及多项合作计划。
-
----
-
-## <a name="23"></a>23. 通过UART启动RP2350微控制器的实践指南 
+## <a name="22"></a>22. 通过UART启动RP2350微控制器的实践指南 
 <small>🔗 [pfister.dev](https://pfister.dev/blog/2025/rp2350-uart-bl.html): Booting the RP2350 from UART</small>
 
 
-| 🔥: 53 \| 💬: [5](https://news.ycombinator.com/item?id=43954054) \| 🗓️ 2025-05-11
+| 🔥: 55 \| 💬: [6](https://news.ycombinator.com/item?id=43954054) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -303,7 +291,31 @@ IBM对2000名CEO的调查显示，仅**25%**的AI项目实现了预期回报，�
 
 ---
 
-## <a name="24"></a>24. Zig：系统编程语言的新方向？ 
+## <a name="23"></a>23. IBM调查：企业AI投资多因FOMO，而非实际回报 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/05/06/ibm_ai_investments/): Most AI spending driven by FOMO, not ROI, CEOs tell IBM</small>
+
+
+| 🔥: 54 \| 💬: [20](https://news.ycombinator.com/item?id=43952254) \| 🗓️ 2025-05-11
+
+
+<br />
+IBM对2000名CEO的调查显示，仅**25%**的AI项目实现了预期回报，但企业对AI的热情不减，61%正加速投资。**FOMO（错失恐惧症）**是主要驱动力，64%的CEO在未评估实际价值前就匆忙部署。尽管面临成本高、技术分散等挑战，85%的高管仍乐观认为，**生成式AI**将在两年后带来正收益。IBM同时发布了简化AI代理开发的Watsonx框架及多项合作计划。
+
+---
+
+## <a name="24"></a>24. 为何不采用对象能力语言？ 
+<small>🔗 [blog.plan99.net](https://blog.plan99.net/why-not-capability-languages-a8e6cbdf9682): Why not object capability languages?</small>
+
+
+| 🔥: 52 \| 💬: [19](https://news.ycombinator.com/item?id=43956095) \| 🗓️ 2025-05-11
+
+
+<br />
+本文探讨了**对象能力语言**在解决软件供应链攻击中的潜力与挑战。作者指出，当前依赖链过长导致安全风险，而能力模型（如文件描述符、JWT令牌）虽能限制权限，但主流语言（如Java、Python）缺乏内存隔离等关键支持。以**Joe-E**（Java安全子集）和Chrome的**Mojo系统**为例，分析了实现纯能力语言的难点：需移除反射、全局变量等特性，且面临用户体验与兼容性问题。最后指出，硬件隔离（如Chrome多进程架构）虽有效，但依赖平台特定代码，难以普及。核心矛盾在于**安全强度**与**开发便利性**的权衡。
+
+---
+
+## <a name="25"></a>25. Zig：系统编程语言的新方向？ 
 <small>🔗 [bitshifters.cc](http://bitshifters.cc/2025/05/04/zig.html): Zig: A new direction for low-level programming?</small>
 
 
@@ -318,17 +330,5 @@ Zig是由Andrew Kelley设计的系统编程语言，标榜为**“稳健、高�
 - **语法复杂性**：强制命名初始化、冗长的类型转换（如`@intFromFloat`）和独特的循环语法（`while`替代`for`）提高了学习门槛。  
 
 此外，Zig的**编译时泛型**功能强大但隐晦，IDE支持困难，且项目开发十年仍未发布1.0版本，长期稳定性存疑。
-
----
-
-## <a name="25"></a>25. 伊丽莎白·霍姆斯伴侣融资数千万 创办新血液检测公司 
-<small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/may/11/elizabeth-holmes-partner-blood-testing-startup): Elizabeth Holmes's partner raises millions for blood-testing startup</small>
-
-
-| 🔥: 46 \| 💬: [67](https://news.ycombinator.com/item?id=43955117) \| 🗓️ 2025-05-11
-
-
-<br />
-前Theranos CEO **伊丽莎白·霍姆斯**的伴侣比利·埃文斯（Billy Evans）近期为其新公司**Haemanthus**筹集近2000万美元。该公司声称能通过血液、尿液和唾液进行疾病诊断，技术类似Theranos。埃文斯与霍姆斯育有两子，公司计划先为动物检测，再扩展至人类。霍姆斯因Theranos欺诈案被判11年监禁，而埃文斯在营销材料中强调其激光扫描技术可快速检测疾病。部分投资者已拒绝投资，但埃文斯仍从亲友处获得资金支持。
 
 ---
