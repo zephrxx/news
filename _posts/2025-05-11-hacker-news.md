@@ -27,7 +27,7 @@ tags:
 <small>🔗 [plainvanillaweb.com](https://plainvanillaweb.com/index.html): Plain Vanilla Web</small>
 
 
-| 🔥🔥: 697 \| 💬: [361](https://news.ycombinator.com/item?id=43954896) \| 🗓️ 2025-05-11
+| 🔥🔥: 733 \| 💬: [389](https://news.ycombinator.com/item?id=43954896) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Efeckc17/simple-todo-c): I built a native Windows Todo app in pure C (278 KB, no frameworks)</small>
 
 
-| 🔥🔥: 272 \| 💬: [150](https://news.ycombinator.com/item?id=43954649) \| 🗓️ 2025-05-11
+| 🔥🔥: 277 \| 💬: [152](https://news.ycombinator.com/item?id=43954649) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [pivot-to-ai.com](https://pivot-to-ai.com/2025/05/03/in-2025-venture-capital-cant-pretend-everything-is-fine-any-more/): In 2025, venture capital can't pretend everything is fine any more</small>
 
 
-| 🔥🔥: 249 \| 💬: [225](https://news.ycombinator.com/item?id=43953884) \| 🗓️ 2025-05-11
+| 🔥🔥: 253 \| 💬: [227](https://news.ycombinator.com/item?id=43953884) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [insideevs.com](https://insideevs.com/features/759153/car-companies-software-companies/): Car companies are in a billion-dollar software war</small>
 
 
-| 🔥🔥: 204 \| 💬: [356](https://news.ycombinator.com/item?id=43955525) \| 🗓️ 2025-05-11
+| 🔥🔥: 220 \| 💬: [377](https://news.ycombinator.com/item?id=43955525) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [customerexperiencedive.com](https://www.customerexperiencedive.com/news/klarna-reinvests-human-talent-customer-service-AI-chatbot/747586/): Klarna changes its AI tune and again recruits humans for customer service</small>
 
 
-| 🔥🔥: 196 \| 💬: [82](https://news.ycombinator.com/item?id=43955374) \| 🗓️ 2025-05-11
+| 🔥🔥: 208 \| 💬: [84](https://news.ycombinator.com/item?id=43955374) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -87,7 +87,7 @@ Klarna在宣称AI聊天机器人可替代700名客服人员一年后，重新转
 <small>🔗 [forums.swift.org](https://forums.swift.org/t/xtool-cross-platform-xcode-replacement-build-ios-apps-on-linux-and-more/79803): Build iOS Apps on Linux and Windows</small>
 
 
-| 🔥🔥: 190 \| 💬: [32](https://news.ycombinator.com/item?id=43952239) \| 🗓️ 2025-05-11
+| 🔥🔥: 194 \| 💬: [32](https://news.ycombinator.com/item?id=43952239) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -99,7 +99,7 @@ GitHub项目 **xtool-org/xtool** 是一个跨平台的 **Xcode替代工具**，�
 <small>🔗 [finebooksmagazine.com](https://www.finebooksmagazine.com/fine-books-news/title-work-deciphered-sealed-herculaneum-scroll-digital-unwrapping): Title of work deciphered in sealed Herculaneum scroll via digital unwrapping</small>
 
 
-| 🔥🔥: 184 \| 💬: [76](https://news.ycombinator.com/item?id=43953883) \| 🗓️ 2025-05-11
+| 🔥🔥: 187 \| 💬: [76](https://news.ycombinator.com/item?id=43953883) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -111,7 +111,7 @@ GitHub项目 **xtool-org/xtool** 是一个跨平台的 **Xcode替代工具**，�
 <small>🔗 [epochalypse-project.org](https://epochalypse-project.org/): The Epochalypse Project</small>
 
 
-| 🔥🔥: 165 \| 💬: [74](https://news.ycombinator.com/item?id=43952714) \| 🗓️ 2025-05-11
+| 🔥🔥: 169 \| 💬: [75](https://news.ycombinator.com/item?id=43952714) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -125,7 +125,7 @@ GitHub项目 **xtool-org/xtool** 是一个跨平台的 **Xcode替代工具**，�
 <small>🔗 [torrentfreak.com](https://torrentfreak.com/dns-piracy-blocking-orders-google-cloudflare-and-opendns-respond-differently-250511/): DNS piracy blocking orders: Google, Cloudflare, and OpenDNS respond differently</small>
 
 
-| 🔥🔥: 158 \| 💬: [146](https://news.ycombinator.com/item?id=43954459) \| 🗓️ 2025-05-11
+| 🔥🔥: 159 \| 💬: [149](https://news.ycombinator.com/item?id=43954459) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -137,7 +137,7 @@ GitHub项目 **xtool-org/xtool** 是一个跨平台的 **Xcode替代工具**，�
 <small>🔗 [github.com](https://github.com/jaypyles/Scraperr): Scraperr – A Self Hosted Webscraper</small>
 
 
-| 🔥🔥: 108 \| 💬: [38](https://news.ycombinator.com/item?id=43955842) \| 🗓️ 2025-05-11
+| 🔥🔥: 121 \| 💬: [41](https://news.ycombinator.com/item?id=43955842) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -145,23 +145,11 @@ Scraperr 是一款**自托管**的网页数据抓取工具，支持通过**XPath
 
 ---
 
-## <a name="11"></a>11. 用200行Clojure代码实现LSP客户端 
-<small>🔗 [vlaaad.github.io](https://vlaaad.github.io/lsp-client-in-200-lines-of-code): LSP client in Clojure in 200 lines of code</small>
-
-
-| 🔥: 99 \| 💬: [7](https://news.ycombinator.com/item?id=43955397) \| 🗓️ 2025-05-11
-
-
-<br />
-作者分享了一个极简的**语言服务器协议(LSP)**客户端实现，仅用200行Clojure代码完成。核心包含三层架构：基于字节流的**基础通信层**、处理JSON-RPC协议的**中间层**，以及面向用户的API封装。文章重点解析了如何通过虚拟线程高效处理双向通信，并演示了与语言服务器的请求/响应交互。虽然省略了文档同步等编辑器功能，但完整实现了**代码导航**和**静态分析**的核心机制。该项目最初是为探索LLM与LSP集成而开发的原型，最终演变为一个简洁的LSP技术演示。
-
----
-
-## <a name="12"></a>12. 贝尔实验室为何成功：自由与天才的化学反应 
+## <a name="11"></a>11. 贝尔实验室为何成功：自由与天才的化学反应 
 <small>🔗 [1517.substack.com](https://1517.substack.com/p/why-bell-labs-worked): Why Bell Labs Worked</small>
 
 
-| 🔥: 99 \| 💬: [55](https://news.ycombinator.com/item?id=43957010) \| 🗓️ 2025-05-11
+| 🔥🔥: 116 \| 💬: [74](https://news.ycombinator.com/item?id=43957010) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -171,11 +159,23 @@ Scraperr 是一款**自托管**的网页数据抓取工具，支持通过**XPath
 
 ---
 
+## <a name="12"></a>12. 用200行Clojure代码实现LSP客户端 
+<small>🔗 [vlaaad.github.io](https://vlaaad.github.io/lsp-client-in-200-lines-of-code): LSP client in Clojure in 200 lines of code</small>
+
+
+| 🔥🔥: 105 \| 💬: [8](https://news.ycombinator.com/item?id=43955397) \| 🗓️ 2025-05-11
+
+
+<br />
+作者分享了一个极简的**语言服务器协议(LSP)**客户端实现，仅用200行Clojure代码完成。核心包含三层架构：基于字节流的**基础通信层**、处理JSON-RPC协议的**中间层**，以及面向用户的API封装。文章重点解析了如何通过虚拟线程高效处理双向通信，并演示了与语言服务器的请求/响应交互。虽然省略了文档同步等编辑器功能，但完整实现了**代码导航**和**静态分析**的核心机制。该项目最初是为探索LLM与LSP集成而开发的原型，最终演变为一个简洁的LSP技术演示。
+
+---
+
 ## <a name="13"></a>13. 先吃卷饼，后付款：金融创新如何重塑信贷市场 
 <small>🔗 [enterprisevalue.substack.com](https://enterprisevalue.substack.com/p/burrito-now-pay-later): Burrito Now, Pay Later</small>
 
 
-| 🔥: 96 \| 💬: [146](https://news.ycombinator.com/item?id=43956723) \| 🗓️ 2025-05-11
+| 🔥🔥: 103 \| 💬: [156](https://news.ycombinator.com/item?id=43956723) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -187,7 +187,7 @@ Scraperr 是一款**自托管**的网页数据抓取工具，支持通过**XPath
 <small>🔗 [openjdk.org](https://openjdk.org/jeps/515): JEP 515: Ahead-of-Time Method Profiling</small>
 
 
-| 🔥: 92 \| 💬: [8](https://news.ycombinator.com/item?id=43954178) \| 🗓️ 2025-05-11
+| 🔥: 92 \| 💬: [9](https://news.ycombinator.com/item?id=43954178) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -199,7 +199,7 @@ Scraperr 是一款**自托管**的网页数据抓取工具，支持通过**XPath
 <small>🔗 [news.wm.edu](https://news.wm.edu/2025/05/06/2024-sea-level-report-cards-map-futures-of-u-s-coastal-communities/): 2024 sea level 'report cards' map futures of U.S. coastal communities</small>
 
 
-| 🔥: 91 \| 💬: [88](https://news.ycombinator.com/item?id=43956115) \| 🗓️ 2025-05-11
+| 🔥: 92 \| 💬: [89](https://news.ycombinator.com/item?id=43956115) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -223,7 +223,7 @@ Scraperr 是一款**自托管**的网页数据抓取工具，支持通过**XPath
 <small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Gonzalo_Guerrero): Gonzalo Guerrero</small>
 
 
-| 🔥: 82 \| 💬: [24](https://news.ycombinator.com/item?id=43954249) \| 🗓️ 2025-05-11
+| 🔥: 83 \| 💬: [25](https://news.ycombinator.com/item?id=43954249) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -235,7 +235,7 @@ Scraperr 是一款**自托管**的网页数据抓取工具，支持通过**XPath
 <small>🔗 [pmaweb.caltech.edu](http://pmaweb.caltech.edu/Courses/ph136/yr2012/): Applications of Classical Physics</small>
 
 
-| 🔥: 69 \| 💬: [29](https://news.ycombinator.com/item?id=43955326) \| 🗓️ 2025-05-11
+| 🔥: 70 \| 💬: [30](https://news.ycombinator.com/item?id=43955326) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -259,7 +259,7 @@ GlassFlow是一款**开源流处理工具**，专为Kafka到ClickHouse的实时E
 <small>🔗 [grist.org](https://grist.org/food-and-agriculture/trump-epa-community-change-grants-program-food-waste/): An $18M grant would have drastically reduced food waste. Then the EPA cut it</small>
 
 
-| 🔥: 67 \| 💬: [40](https://news.ycombinator.com/item?id=43954810) \| 🗓️ 2025-05-11
+| 🔥: 67 \| 💬: [41](https://news.ycombinator.com/item?id=43954810) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -271,7 +271,7 @@ GlassFlow是一款**开源流处理工具**，专为Kafka到ClickHouse的实时E
 <small>🔗 [glitchgallery.org](https://glitchgallery.org/): An online exhibition of pretty software bugs</small>
 
 
-| 🔥: 62 \| 💬: [1](https://news.ycombinator.com/item?id=43955333) \| 🗓️ 2025-05-11
+| 🔥: 66 \| 💬: [1](https://news.ycombinator.com/item?id=43955333) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -283,7 +283,7 @@ GlassFlow是一款**开源流处理工具**，专为Kafka到ClickHouse的实时E
 <small>🔗 [pfister.dev](https://pfister.dev/blog/2025/rp2350-uart-bl.html): Booting the RP2350 from UART</small>
 
 
-| 🔥: 60 \| 💬: [6](https://news.ycombinator.com/item?id=43954054) \| 🗓️ 2025-05-11
+| 🔥: 63 \| 💬: [7](https://news.ycombinator.com/item?id=43954054) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -291,15 +291,15 @@ GlassFlow是一款**开源流处理工具**，专为Kafka到ClickHouse的实时E
 
 ---
 
-## <a name="23"></a>23. IBM调查：企业AI投资多因FOMO，而非实际回报 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/05/06/ibm_ai_investments/): Most AI spending driven by FOMO, not ROI, CEOs tell IBM</small>
+## <a name="23"></a>23. 避开AI越来越难，但我们必须捍卫选择退出的自由 
+<small>🔗 [theconversation.com](https://theconversation.com/avoiding-ai-is-hard-but-our-freedom-to-opt-out-must-be-protected-255873): Avoiding AI is hard – but our freedom to opt out must be protected</small>
 
 
-| 🔥: 55 \| 💬: [20](https://news.ycombinator.com/item?id=43952254) \| 🗓️ 2025-05-11
+| 🔥: 59 \| 💬: [35](https://news.ycombinator.com/item?id=43958382) \| 🗓️ 2025-05-11
 
 
 <br />
-IBM对2000名CEO的调查显示，仅**25%**的AI项目实现了预期回报，但企业对AI的热情不减，61%正加速投资。**FOMO（错失恐惧症）**是主要驱动力，64%的CEO在未评估实际价值前就匆忙部署。尽管面临成本高、技术分散等挑战，85%的高管仍乐观认为，**生成式AI**将在两年后带来正收益。IBM同时发布了简化AI代理开发的Watsonx框架及多项合作计划。
+AI已渗透到医疗、金融、招聘等关键领域，甚至影响新闻推送和公共服务。**算法偏见**导致不公平，例如自动化招聘工具歧视特定人群。然而，**退出AI系统**几乎意味着脱离现代社会。文章呼吁保障**拒绝AI的权利**，要求决策透明化、加强数字素养教育，并制定尊重个人自由的政策，防止技术垄断演变为社会压迫。
 
 ---
 
@@ -307,7 +307,7 @@ IBM对2000名CEO的调查显示，仅**25%**的AI项目实现了预期回报，�
 <small>🔗 [blog.plan99.net](https://blog.plan99.net/why-not-capability-languages-a8e6cbdf9682): Why not object capability languages?</small>
 
 
-| 🔥: 55 \| 💬: [20](https://news.ycombinator.com/item?id=43956095) \| 🗓️ 2025-05-11
+| 🔥: 58 \| 💬: [22](https://news.ycombinator.com/item?id=43956095) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -315,20 +315,14 @@ IBM对2000名CEO的调查显示，仅**25%**的AI项目实现了预期回报，�
 
 ---
 
-## <a name="25"></a>25. Zig：系统编程语言的新方向？ 
-<small>🔗 [bitshifters.cc](http://bitshifters.cc/2025/05/04/zig.html): Zig: A new direction for low-level programming?</small>
+## <a name="25"></a>25. IBM调查：企业AI投资多因FOMO，而非实际回报 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/05/06/ibm_ai_investments/): Most AI spending driven by FOMO, not ROI, CEOs tell IBM</small>
 
 
-| 🔥: 48 \| 💬: [2](https://news.ycombinator.com/item?id=43952746) \| 🗓️ 2025-05-11
+| 🔥: 56 \| 💬: [21](https://news.ycombinator.com/item?id=43952254) \| 🗓️ 2025-05-11
 
 
 <br />
-Zig是由Andrew Kelley设计的系统编程语言，标榜为**“稳健、高效且可复用”**的解决方案。其核心哲学强调**显式控制**，要求程序员明确处理内存分配、错误流程等。尽管支持者称其为“最佳C替代语言”，但争议颇多：  
-
-- **性能争议**：早期“比C更快”的基准测试被证实存在偏差，实际性能与C相当。  
-- **安全性问题**：依赖调试模式捕获未定义行为（UB），生产环境可能遗留风险，与Rust等语言的安全机制差距明显。  
-- **语法复杂性**：强制命名初始化、冗长的类型转换（如`@intFromFloat`）和独特的循环语法（`while`替代`for`）提高了学习门槛。  
-
-此外，Zig的**编译时泛型**功能强大但隐晦，IDE支持困难，且项目开发十年仍未发布1.0版本，长期稳定性存疑。
+IBM对2000名CEO的调查显示，仅**25%**的AI项目实现了预期回报，但企业对AI的热情不减，61%正加速投资。**FOMO（错失恐惧症）**是主要驱动力，64%的CEO在未评估实际价值前就匆忙部署。尽管面临成本高、技术分散等挑战，85%的高管仍乐观认为，**生成式AI**将在两年后带来正收益。IBM同时发布了简化AI代理开发的Watsonx框架及多项合作计划。
 
 ---
