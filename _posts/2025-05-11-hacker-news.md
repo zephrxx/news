@@ -10,8 +10,8 @@ tags:
 
 1. 纯原生Web开发指南；
 1. 用纯C语言编写的轻量级Windows待办事项应用；
-1. 2025年风投泡沫破裂：AI成最后赌注，OpenAI独木难支；
 1. 汽车巨头深陷千亿软件战争泥潭；
+1. 2025年风投泡沫破裂：AI成最后赌注，OpenAI独木难支；
 1. Klarna从AI客服回归人工服务：强调共情与效率平衡；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [plainvanillaweb.com](https://plainvanillaweb.com/index.html): Plain Vanilla Web</small>
 
 
-| 🔥🔥: 782 \| 💬: [416](https://news.ycombinator.com/item?id=43954896) \| 🗓️ 2025-05-11
+| 🔥🔥: 827 \| 💬: [434](https://news.ycombinator.com/item?id=43954896) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Efeckc17/simple-todo-c): I built a native Windows Todo app in pure C (278 KB, no frameworks)</small>
 
 
-| 🔥🔥: 282 \| 💬: [154](https://news.ycombinator.com/item?id=43954649) \| 🗓️ 2025-05-11
+| 🔥🔥: 293 \| 💬: [158](https://news.ycombinator.com/item?id=43954649) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -47,23 +47,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 2025年风投泡沫破裂：AI成最后赌注，OpenAI独木难支 
-<small>🔗 [pivot-to-ai.com](https://pivot-to-ai.com/2025/05/03/in-2025-venture-capital-cant-pretend-everything-is-fine-any-more/): In 2025, venture capital can't pretend everything is fine any more</small>
-
-
-| 🔥🔥: 254 \| 💬: [227](https://news.ycombinator.com/item?id=43953884) \| 🗓️ 2025-05-11
-
-
-<br />
-2025年第一季度数据显示，**风险投资行业陷入系统性危机**，仅靠**AI赛道**（尤其是OpenAI）勉强支撑。报告将困境归咎于**特朗普关税政策**和零利率时代终结——低息环境曾催生大量泡沫项目（如WeWork），如今资金转向国债等稳定收益。风投机构盲目押注AI，57.9%全球资金流向AI初创企业，但核心问题在于：IPO市场冻结、估值虚高、退出渠道瘫痪。行业既无解决方案，也未吸取历史教训，仅寄望于市场奇迹。讽刺的是，曾支持特朗普的硅谷精英反遭政策反噬。
-
----
-
-## <a name="4"></a>4. 汽车巨头深陷千亿软件战争泥潭 
+## <a name="3"></a>3. 汽车巨头深陷千亿软件战争泥潭 
 <small>🔗 [insideevs.com](https://insideevs.com/features/759153/car-companies-software-companies/): Car companies are in a billion-dollar software war</small>
 
 
-| 🔥🔥: 245 \| 💬: [411](https://news.ycombinator.com/item?id=43955525) \| 🗓️ 2025-05-11
+| 🔥🔥: 263 \| 💬: [438](https://news.ycombinator.com/item?id=43955525) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -71,11 +59,23 @@ tags:
 
 ---
 
+## <a name="4"></a>4. 2025年风投泡沫破裂：AI成最后赌注，OpenAI独木难支 
+<small>🔗 [pivot-to-ai.com](https://pivot-to-ai.com/2025/05/03/in-2025-venture-capital-cant-pretend-everything-is-fine-any-more/): In 2025, venture capital can't pretend everything is fine any more</small>
+
+
+| 🔥🔥: 254 \| 💬: [228](https://news.ycombinator.com/item?id=43953884) \| 🗓️ 2025-05-11
+
+
+<br />
+2025年第一季度数据显示，**风险投资行业陷入系统性危机**，仅靠**AI赛道**（尤其是OpenAI）勉强支撑。报告将困境归咎于**特朗普关税政策**和零利率时代终结——低息环境曾催生大量泡沫项目（如WeWork），如今资金转向国债等稳定收益。风投机构盲目押注AI，57.9%全球资金流向AI初创企业，但核心问题在于：IPO市场冻结、估值虚高、退出渠道瘫痪。行业既无解决方案，也未吸取历史教训，仅寄望于市场奇迹。讽刺的是，曾支持特朗普的硅谷精英反遭政策反噬。
+
+---
+
 ## <a name="5"></a>5. Klarna从AI客服回归人工服务：强调共情与效率平衡 
 <small>🔗 [customerexperiencedive.com](https://www.customerexperiencedive.com/news/klarna-reinvests-human-talent-customer-service-AI-chatbot/747586/): Klarna changes its AI tune and again recruits humans for customer service</small>
 
 
-| 🔥🔥: 214 \| 💬: [87](https://news.ycombinator.com/item?id=43955374) \| 🗓️ 2025-05-11
+| 🔥🔥: 217 \| 💬: [89](https://news.ycombinator.com/item?id=43955374) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -83,23 +83,11 @@ Klarna在宣称AI聊天机器人可替代700名客服人员一年后，重新转
 
 ---
 
-## <a name="6"></a>6. 在Linux和Windows（WSL）上开发iOS应用 
-<small>🔗 [forums.swift.org](https://forums.swift.org/t/xtool-cross-platform-xcode-replacement-build-ios-apps-on-linux-and-more/79803): Build iOS Apps on Linux and Windows</small>
-
-
-| 🔥🔥: 194 \| 💬: [32](https://news.ycombinator.com/item?id=43952239) \| 🗓️ 2025-05-11
-
-
-<br />
-GitHub项目 **xtool-org/xtool** 是一个跨平台的 **Xcode替代工具**，支持在Linux、Windows和macOS上通过 **SwiftPM** 构建和部署iOS应用。该项目为开发者提供了在不使用苹果官方IDE的情况下开发iOS应用的可能性，尤其适合非macOS环境的用户。
-
----
-
-## <a name="7"></a>7. 赫库兰尼姆古卷经数字技术破解 确认作者与书名 
+## <a name="6"></a>6. 赫库兰尼姆古卷经数字技术破解 确认作者与书名 
 <small>🔗 [finebooksmagazine.com](https://www.finebooksmagazine.com/fine-books-news/title-work-deciphered-sealed-herculaneum-scroll-digital-unwrapping): Title of work deciphered in sealed Herculaneum scroll via digital unwrapping</small>
 
 
-| 🔥🔥: 191 \| 💬: [77](https://news.ycombinator.com/item?id=43953883) \| 🗓️ 2025-05-11
+| 🔥🔥: 197 \| 💬: [78](https://news.ycombinator.com/item?id=43953883) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -107,11 +95,23 @@ GitHub项目 **xtool-org/xtool** 是一个跨平台的 **Xcode替代工具**，�
 
 ---
 
+## <a name="7"></a>7. 在Linux和Windows（WSL）上开发iOS应用 
+<small>🔗 [forums.swift.org](https://forums.swift.org/t/xtool-cross-platform-xcode-replacement-build-ios-apps-on-linux-and-more/79803): Build iOS Apps on Linux and Windows</small>
+
+
+| 🔥🔥: 195 \| 💬: [34](https://news.ycombinator.com/item?id=43952239) \| 🗓️ 2025-05-11
+
+
+<br />
+GitHub项目 **xtool-org/xtool** 是一个跨平台的 **Xcode替代工具**，支持在Linux、Windows和macOS上通过 **SwiftPM** 构建和部署iOS应用。该项目为开发者提供了在不使用苹果官方IDE的情况下开发iOS应用的可能性，尤其适合非macOS环境的用户。
+
+---
+
 ## <a name="8"></a>8. 2038年危机：全球数字定时炸弹 
 <small>🔗 [epochalypse-project.org](https://epochalypse-project.org/): The Epochalypse Project</small>
 
 
-| 🔥🔥: 172 \| 💬: [75](https://news.ycombinator.com/item?id=43952714) \| 🗓️ 2025-05-11
+| 🔥🔥: 173 \| 💬: [75](https://news.ycombinator.com/item?id=43952714) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -125,7 +125,7 @@ GitHub项目 **xtool-org/xtool** 是一个跨平台的 **Xcode替代工具**，�
 <small>🔗 [torrentfreak.com](https://torrentfreak.com/dns-piracy-blocking-orders-google-cloudflare-and-opendns-respond-differently-250511/): DNS piracy blocking orders: Google, Cloudflare, and OpenDNS respond differently</small>
 
 
-| 🔥🔥: 163 \| 💬: [148](https://news.ycombinator.com/item?id=43954459) \| 🗓️ 2025-05-11
+| 🔥🔥: 164 \| 💬: [149](https://news.ycombinator.com/item?id=43954459) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -133,23 +133,11 @@ GitHub项目 **xtool-org/xtool** 是一个跨平台的 **Xcode替代工具**，�
 
 ---
 
-## <a name="10"></a>10. Scraperr：一款强大的自托管网络爬虫工具 
-<small>🔗 [github.com](https://github.com/jaypyles/Scraperr): Scraperr – A Self Hosted Webscraper</small>
-
-
-| 🔥🔥: 131 \| 💬: [44](https://news.ycombinator.com/item?id=43955842) \| 🗓️ 2025-05-11
-
-
-<br />
-Scraperr 是一款**自托管**的网页数据抓取工具，支持通过**XPath选择器**精准提取内容，并提供直观界面管理任务与导出数据。核心功能包括队列管理、域名爬取、自定义请求头及多媒体下载，同时强调遵守**robots.txt**与网站服务条款。采用MIT开源协议，适合开发者快速部署。
-
----
-
-## <a name="11"></a>11. 贝尔实验室为何成功：自由与天才的化学反应 
+## <a name="10"></a>10. 贝尔实验室为何成功：自由与天才的化学反应 
 <small>🔗 [1517.substack.com](https://1517.substack.com/p/why-bell-labs-worked): Why Bell Labs Worked</small>
 
 
-| 🔥🔥: 130 \| 💬: [95](https://news.ycombinator.com/item?id=43957010) \| 🗓️ 2025-05-11
+| 🔥🔥: 144 \| 💬: [109](https://news.ycombinator.com/item?id=43957010) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -159,11 +147,23 @@ Scraperr 是一款**自托管**的网页数据抓取工具，支持通过**XPath
 
 ---
 
+## <a name="11"></a>11. Scraperr：一款强大的自托管网络爬虫工具 
+<small>🔗 [github.com](https://github.com/jaypyles/Scraperr): Scraperr – A Self Hosted Webscraper</small>
+
+
+| 🔥🔥: 141 \| 💬: [47](https://news.ycombinator.com/item?id=43955842) \| 🗓️ 2025-05-11
+
+
+<br />
+Scraperr 是一款**自托管**的网页数据抓取工具，支持通过**XPath选择器**精准提取内容，并提供直观界面管理任务与导出数据。核心功能包括队列管理、域名爬取、自定义请求头及多媒体下载，同时强调遵守**robots.txt**与网站服务条款。采用MIT开源协议，适合开发者快速部署。
+
+---
+
 ## <a name="12"></a>12. 先吃卷饼，后付款：金融创新如何重塑信贷市场 
 <small>🔗 [enterprisevalue.substack.com](https://enterprisevalue.substack.com/p/burrito-now-pay-later): Burrito Now, Pay Later</small>
 
 
-| 🔥🔥: 111 \| 💬: [170](https://news.ycombinator.com/item?id=43956723) \| 🗓️ 2025-05-11
+| 🔥🔥: 120 \| 💬: [176](https://news.ycombinator.com/item?id=43956723) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -175,7 +175,7 @@ Scraperr 是一款**自托管**的网页数据抓取工具，支持通过**XPath
 <small>🔗 [vlaaad.github.io](https://vlaaad.github.io/lsp-client-in-200-lines-of-code): LSP client in Clojure in 200 lines of code</small>
 
 
-| 🔥🔥: 107 \| 💬: [10](https://news.ycombinator.com/item?id=43955397) \| 🗓️ 2025-05-11
+| 🔥🔥: 114 \| 💬: [11](https://news.ycombinator.com/item?id=43955397) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -187,7 +187,7 @@ Scraperr 是一款**自托管**的网页数据抓取工具，支持通过**XPath
 <small>🔗 [news.wm.edu](https://news.wm.edu/2025/05/06/2024-sea-level-report-cards-map-futures-of-u-s-coastal-communities/): 2024 sea level 'report cards' map futures of U.S. coastal communities</small>
 
 
-| 🔥: 93 \| 💬: [93](https://news.ycombinator.com/item?id=43956115) \| 🗓️ 2025-05-11
+| 🔥: 94 \| 💬: [94](https://news.ycombinator.com/item?id=43956115) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -207,7 +207,19 @@ Scraperr 是一款**自托管**的网页数据抓取工具，支持通过**XPath
 
 ---
 
-## <a name="16"></a>16. Rust文档生态体系深度评析 
+## <a name="16"></a>16. 避开AI越来越难，但我们必须捍卫选择退出的自由 
+<small>🔗 [theconversation.com](https://theconversation.com/avoiding-ai-is-hard-but-our-freedom-to-opt-out-must-be-protected-255873): Avoiding AI is hard – but our freedom to opt out must be protected</small>
+
+
+| 🔥: 91 \| 💬: [62](https://news.ycombinator.com/item?id=43958382) \| 🗓️ 2025-05-11
+
+
+<br />
+AI已渗透到医疗、金融、招聘等关键领域，甚至影响新闻推送和公共服务。**算法偏见**导致不公平，例如自动化招聘工具歧视特定人群。然而，**退出AI系统**几乎意味着脱离现代社会。文章呼吁保障**拒绝AI的权利**，要求决策透明化、加强数字素养教育，并制定尊重个人自由的政策，防止技术垄断演变为社会压迫。
+
+---
+
+## <a name="17"></a>17. Rust文档生态体系深度评析 
 <small>🔗 [harudagondi.space](https://www.harudagondi.space/blog/rust-documentation-ecosystem-review/): A Rust Documentation Ecosystem Review</small>
 
 
@@ -219,11 +231,11 @@ Scraperr 是一款**自托管**的网页数据抓取工具，支持通过**XPath
 
 ---
 
-## <a name="17"></a>17. 西班牙叛逆者：玛雅战士贡萨洛·格雷罗 
+## <a name="18"></a>18. 西班牙叛逆者：玛雅战士贡萨洛·格雷罗 
 <small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Gonzalo_Guerrero): Gonzalo Guerrero</small>
 
 
-| 🔥: 86 \| 💬: [25](https://news.ycombinator.com/item?id=43954249) \| 🗓️ 2025-05-11
+| 🔥: 87 \| 💬: [25](https://news.ycombinator.com/item?id=43954249) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -231,23 +243,11 @@ Scraperr 是一款**自托管**的网页数据抓取工具，支持通过**XPath
 
 ---
 
-## <a name="18"></a>18. 避开AI越来越难，但我们必须捍卫选择退出的自由 
-<small>🔗 [theconversation.com](https://theconversation.com/avoiding-ai-is-hard-but-our-freedom-to-opt-out-must-be-protected-255873): Avoiding AI is hard – but our freedom to opt out must be protected</small>
-
-
-| 🔥: 76 \| 💬: [47](https://news.ycombinator.com/item?id=43958382) \| 🗓️ 2025-05-11
-
-
-<br />
-AI已渗透到医疗、金融、招聘等关键领域，甚至影响新闻推送和公共服务。**算法偏见**导致不公平，例如自动化招聘工具歧视特定人群。然而，**退出AI系统**几乎意味着脱离现代社会。文章呼吁保障**拒绝AI的权利**，要求决策透明化、加强数字素养教育，并制定尊重个人自由的政策，防止技术垄断演变为社会压迫。
-
----
-
 ## <a name="19"></a>19. 经典物理学的应用 
 <small>🔗 [pmaweb.caltech.edu](http://pmaweb.caltech.edu/Courses/ph136/yr2012/): Applications of Classical Physics</small>
 
 
-| 🔥: 71 \| 💬: [31](https://news.ycombinator.com/item?id=43955326) \| 🗓️ 2025-05-11
+| 🔥: 72 \| 💬: [35](https://news.ycombinator.com/item?id=43955326) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -255,7 +255,19 @@ AI已渗透到医疗、金融、招聘等关键领域，甚至影响新闻推送
 
 ---
 
-## <a name="20"></a>20. 1800万美元补助金本可大幅减少食物浪费，却被EPA突然取消 
+## <a name="20"></a>20. 线上展览：当代码出错变成艺术 
+<small>🔗 [glitchgallery.org](https://glitchgallery.org/): An online exhibition of pretty software bugs</small>
+
+
+| 🔥: 72 \| 💬: [1](https://news.ycombinator.com/item?id=43955333) \| 🗓️ 2025-05-11
+
+
+<br />
+欢迎来到**Glitch Gallery**，一个展示**美丽软件故障**的在线展览！这里将程序错误视为**意外艺术**，收录了众多开发者提交的视觉奇观，如《Interpolation Space Agency》《Snoflake》系列等。展览鼓励用户分享自己遇到的“故障艺术品”，共同探索代码世界中的**意外之美**。
+
+---
+
+## <a name="21"></a>21. 1800万美元补助金本可大幅减少食物浪费，却被EPA突然取消 
 <small>🔗 [grist.org](https://grist.org/food-and-agriculture/trump-epa-community-change-grants-program-food-waste/): An $18M grant would have drastically reduced food waste. Then the EPA cut it</small>
 
 
@@ -267,7 +279,7 @@ AI已渗透到医疗、金融、招聘等关键领域，甚至影响新闻推送
 
 ---
 
-## <a name="21"></a>21. 开源工具GlassFlow：实现Kafka到ClickHouse的实时数据去重与流连接 
+## <a name="22"></a>22. 开源工具GlassFlow：实现Kafka到ClickHouse的实时数据去重与流连接 
 <small>🔗 [github.com](https://github.com/glassflow/clickhouse-etl): Show HN: GlassFlow – OSS streaming dedup and joins from Kafka to ClickHouse</small>
 
 
@@ -279,23 +291,11 @@ GlassFlow是一款**开源流处理工具**，专为Kafka到ClickHouse的实时E
 
 ---
 
-## <a name="22"></a>22. 线上展览：当代码出错变成艺术 
-<small>🔗 [glitchgallery.org](https://glitchgallery.org/): An online exhibition of pretty software bugs</small>
-
-
-| 🔥: 68 \| 💬: [1](https://news.ycombinator.com/item?id=43955333) \| 🗓️ 2025-05-11
-
-
-<br />
-欢迎来到**Glitch Gallery**，一个展示**美丽软件故障**的在线展览！这里将程序错误视为**意外艺术**，收录了众多开发者提交的视觉奇观，如《Interpolation Space Agency》《Snoflake》系列等。展览鼓励用户分享自己遇到的“故障艺术品”，共同探索代码世界中的**意外之美**。
-
----
-
 ## <a name="23"></a>23. 通过UART启动RP2350微控制器的实践指南 
 <small>🔗 [pfister.dev](https://pfister.dev/blog/2025/rp2350-uart-bl.html): Booting the RP2350 from UART</small>
 
 
-| 🔥: 63 \| 💬: [8](https://news.ycombinator.com/item?id=43954054) \| 🗓️ 2025-05-11
+| 🔥: 65 \| 💬: [8](https://news.ycombinator.com/item?id=43954054) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -307,7 +307,7 @@ GlassFlow是一款**开源流处理工具**，专为Kafka到ClickHouse的实时E
 <small>🔗 [blog.plan99.net](https://blog.plan99.net/why-not-capability-languages-a8e6cbdf9682): Why not object capability languages?</small>
 
 
-| 🔥: 59 \| 💬: [26](https://news.ycombinator.com/item?id=43956095) \| 🗓️ 2025-05-11
+| 🔥: 59 \| 💬: [27](https://news.ycombinator.com/item?id=43956095) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -319,7 +319,7 @@ GlassFlow是一款**开源流处理工具**，专为Kafka到ClickHouse的实时E
 <small>🔗 [theregister.com](https://www.theregister.com/2025/05/06/ibm_ai_investments/): Most AI spending driven by FOMO, not ROI, CEOs tell IBM</small>
 
 
-| 🔥: 56 \| 💬: [21](https://news.ycombinator.com/item?id=43952254) \| 🗓️ 2025-05-11
+| 🔥: 56 \| 💬: [23](https://news.ycombinator.com/item?id=43952254) \| 🗓️ 2025-05-11
 
 
 <br />
