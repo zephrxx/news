@@ -8,38 +8,26 @@ tags:
 ---
 
 
-1. 美国版权局认定AI公司侵权 局长次日遭解雇；
 1. 嵌入技术被严重低估了；
 1. 我黑了一个交友软件（以及如何错误对待安全研究员）；
+1. 美国版权局认定AI公司侵权 局长次日遭解雇；
 1. 巴比肯艺术中心的建筑奇遇；
 1. FTC推迟执行“一键取消”新规；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共16条，具体内容您往下读...
+总共22条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
 ![](/assets/images/hacker_news.jpg)
 
 
-## <a name="1"></a>1. 美国版权局认定AI公司侵权 局长次日遭解雇 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/05/12/us_copyright_office_ai_copyright/): US Copyright Office found AI companies breach copyright. Its boss was fired</small>
+## <a name="1"></a>1. 嵌入技术被严重低估了 
+<small>🔗 [technicalwriting.dev](https://technicalwriting.dev/ml/embeddings/overview.html): Embeddings are underrated (2024)</small>
 
 
-| 🔥🔥: 391 \| 💬: [319](https://news.ycombinator.com/item?id=43961247) \| 🗓️ 2025-05-12
-
-
-<br />
-美国版权局发布报告草案，指出**AI公司在商业用途中使用受版权保护的内容训练模型**，已超出合理使用范围。报告认为，此类行为可能损害原创作品市场价值，对正在诉讼中的谷歌、Meta等公司不利。次日，局长希拉·珀尔穆特被特朗普政府解雇。民主党议员质疑此举与**马斯克推动AI训练免版权计划**有关，而白宫则称解雇是因图书馆（版权局上级机构）负责人“过度推行DEI政策”。事件引发对AI版权争议与政治干预的担忧。
-
----
-
-## <a name="2"></a>2. 嵌入技术被严重低估了 
-<small>🔗 [technicalwriting.dev](https://technicalwriting.dev/ml/embeddings/overview.html): Embeddings are underrated</small>
-
-
-| 🔥🔥: 375 \| 💬: [115](https://news.ycombinator.com/item?id=43963868) \| 🗓️ 2025-05-12
+| 🔥🔥: 410 \| 💬: [121](https://news.ycombinator.com/item?id=43963868) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -47,11 +35,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 我黑了一个交友软件（以及如何错误对待安全研究员） 
+## <a name="2"></a>2. 我黑了一个交友软件（以及如何错误对待安全研究员） 
 <small>🔗 [alexschapiro.com](https://alexschapiro.com/blog/security/vulnerability/2025/04/21/startups-need-to-take-security-seriously): I hacked a dating app (and how not to treat a security researcher)</small>
 
 
-| 🔥🔥: 375 \| 💬: [204](https://news.ycombinator.com/item?id=43964937) \| 🗓️ 2025-05-12
+| 🔥🔥: 405 \| 💬: [231](https://news.ycombinator.com/item?id=43964937) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -59,11 +47,23 @@ tags:
 
 ---
 
+## <a name="3"></a>3. 美国版权局认定AI公司侵权 局长次日遭解雇 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/05/12/us_copyright_office_ai_copyright/): US Copyright Office found AI companies breach copyright. Its boss was fired</small>
+
+
+| 🔥🔥: 401 \| 💬: [338](https://news.ycombinator.com/item?id=43961247) \| 🗓️ 2025-05-12
+
+
+<br />
+美国版权局发布报告草案，指出**AI公司在商业用途中使用受版权保护的内容训练模型**，已超出合理使用范围。报告认为，此类行为可能损害原创作品市场价值，对正在诉讼中的谷歌、Meta等公司不利。次日，局长希拉·珀尔穆特被特朗普政府解雇。民主党议员质疑此举与**马斯克推动AI训练免版权计划**有关，而白宫则称解雇是因图书馆（版权局上级机构）负责人“过度推行DEI政策”。事件引发对AI版权争议与政治干预的担忧。
+
+---
+
 ## <a name="4"></a>4. 巴比肯艺术中心的建筑奇遇 
 <small>🔗 [arslan.io](https://arslan.io/2025/05/12/barbican-estate/): The Barbican</small>
 
 
-| 🔥🔥: 291 \| 💬: [108](https://news.ycombinator.com/item?id=43964136) \| 🗓️ 2025-05-12
+| 🔥🔥: 318 \| 💬: [125](https://news.ycombinator.com/item?id=43964136) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [theverge.com](https://www.theverge.com/news/664730/ftc-delay-click-to-cancel-rule): The FTC puts off enforcing its 'click-to-cancel' rule</small>
 
 
-| 🔥🔥: 272 \| 💬: [166](https://news.ycombinator.com/item?id=43962528) \| 🗓️ 2025-05-12
+| 🔥🔥: 278 \| 💬: [171](https://news.ycombinator.com/item?id=43962528) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [comaps.app](https://www.comaps.app/news/2025-05-12/3/): A community-led fork of Organic Maps</small>
 
 
-| 🔥🔥: 245 \| 💬: [166](https://news.ycombinator.com/item?id=43961908) \| 🗓️ 2025-05-12
+| 🔥🔥: 252 \| 💬: [173](https://news.ycombinator.com/item?id=43961908) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -101,7 +101,7 @@ tags:
 <small>🔗 [news.utexas.edu](https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/): University of Texas-led team solves a big problem for fusion energy</small>
 
 
-| 🔥🔥: 186 \| 💬: [139](https://news.ycombinator.com/item?id=43962148) \| 🗓️ 2025-05-12
+| 🔥🔥: 193 \| 💬: [144](https://news.ycombinator.com/item?id=43962148) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -109,35 +109,11 @@ tags:
 
 ---
 
-## <a name="8"></a>8. 就用HTML，别整那些没用的 
-<small>🔗 [justfuckingusehtml.com](https://justfuckingusehtml.com): Just use HTML</small>
-
-
-| 🔥🔥: 144 \| 💬: [132](https://news.ycombinator.com/item?id=43962942) \| 🗓️ 2025-05-12
-
-
-<br />
-这篇文章用激烈言辞抨击现代前端框架的过度复杂化，**强调HTML作为网页基础语言的持久性和实用性**。作者指出HTML无需依赖框架就能实现按钮、表单、对话框等基础功能，且**兼容性极强**，而现代框架却带来依赖臃肿、部署繁琐等问题。文中还嘲讽了“水合错误”等框架术语，并举例说明HTML原生支持的交互功能（如折叠面板、弹窗）。最后呼吁开发者回归本质：**“HTML早把车造好了，你却在 reinvent the wheel”**。
-
----
-
-## <a name="9"></a>9. 加密货币创始人伪造死亡，被曝藏身父亲家中 
-<small>🔗 [sfstandard.com](https://sfstandard.com/2025/05/08/jeffy-yu-zerebro-fake-death/): A crypto founder faked his death. We found him alive at his dad's house</small>
-
-
-| 🔥🔥: 142 \| 💬: [123](https://news.ycombinator.com/item?id=43962503) \| 🗓️ 2025-05-12
-
-
-<br />
-23岁的加密货币创始人**Jeffy Yu**发布疑似自杀视频并发布讣告，自称"科技神童"，其发行的**Zerebro代币**市值达4400万美元。网友质疑视频真实性后，媒体在其父母家中找到他。Yu承认遭遇骚扰，但拒绝解释伪造死亡原因。链上数据显示，其关联账户在"死后"转移了**140万美元**加密货币，被质疑为"假死套现"策略。其发布的纪念币$LLJEFFY也被指为营销手段。事件仍在发酵，有人计划为其举办"区块链葬礼"。
-
----
-
-## <a name="10"></a>10. Ruby 3.5 新特性：读取时命名空间 
+## <a name="8"></a>8. Ruby 3.5 新特性：读取时命名空间 
 <small>🔗 [bugs.ruby-lang.org](https://bugs.ruby-lang.org/issues/21311): Ruby 3.5 Feature: Namespace on read</small>
 
 
-| 🔥🔥: 141 \| 💬: [65](https://news.ycombinator.com/item?id=43962770) \| 🗓️ 2025-05-12
+| 🔥🔥: 150 \| 💬: [73](https://news.ycombinator.com/item?id=43962770) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -152,11 +128,35 @@ Ruby 3.5 将引入一项实验性功能——**读取时命名空间**，允许�
 
 ---
 
+## <a name="9"></a>9. 就用HTML，别整那些没用的 
+<small>🔗 [justfuckingusehtml.com](https://justfuckingusehtml.com): Just use HTML</small>
+
+
+| 🔥🔥: 147 \| 💬: [133](https://news.ycombinator.com/item?id=43962942) \| 🗓️ 2025-05-12
+
+
+<br />
+这篇文章用激烈言辞抨击现代前端框架的过度复杂化，**强调HTML作为网页基础语言的持久性和实用性**。作者指出HTML无需依赖框架就能实现按钮、表单、对话框等基础功能，且**兼容性极强**，而现代框架却带来依赖臃肿、部署繁琐等问题。文中还嘲讽了“水合错误”等框架术语，并举例说明HTML原生支持的交互功能（如折叠面板、弹窗）。最后呼吁开发者回归本质：**“HTML早把车造好了，你却在 reinvent the wheel”**。
+
+---
+
+## <a name="10"></a>10. 加密货币创始人伪造死亡，被曝藏身父亲家中 
+<small>🔗 [sfstandard.com](https://sfstandard.com/2025/05/08/jeffy-yu-zerebro-fake-death/): A crypto founder faked his death. We found him alive at his dad's house</small>
+
+
+| 🔥🔥: 142 \| 💬: [123](https://news.ycombinator.com/item?id=43962503) \| 🗓️ 2025-05-12
+
+
+<br />
+23岁的加密货币创始人**Jeffy Yu**发布疑似自杀视频并发布讣告，自称"科技神童"，其发行的**Zerebro代币**市值达4400万美元。网友质疑视频真实性后，媒体在其父母家中找到他。Yu承认遭遇骚扰，但拒绝解释伪造死亡原因。链上数据显示，其关联账户在"死后"转移了**140万美元**加密货币，被质疑为"假死套现"策略。其发布的纪念币$LLJEFFY也被指为营销手段。事件仍在发酵，有人计划为其举办"区块链葬礼"。
+
+---
+
 ## <a name="11"></a>11. 美国零工平台剥削工人权利：算法操控与工资陷阱 
 <small>🔗 [hrw.org](https://www.hrw.org/news/2025/05/12/us-major-companies-violate-gig-workers-rights): Gig Companies Violate Workers Rights</small>
 
 
-| 🔥🔥: 134 \| 💬: [85](https://news.ycombinator.com/item?id=43962535) \| 🗓️ 2025-05-12
+| 🔥🔥: 137 \| 💬: [88](https://news.ycombinator.com/item?id=43962535) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -168,7 +168,7 @@ Ruby 3.5 将引入一项实验性功能——**读取时命名空间**，允许�
 <small>🔗 [asteriskmag.com](https://asteriskmag.com/issues/10/traffic-fatalities-are-a-choice): Traffic Fatalities Are a Choice</small>
 
 
-| 🔥🔥: 104 \| 💬: [137](https://news.ycombinator.com/item?id=43964304) \| 🗓️ 2025-05-12
+| 🔥🔥: 108 \| 💬: [145](https://news.ycombinator.com/item?id=43964304) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -176,11 +176,23 @@ Ruby 3.5 将引入一项实验性功能——**读取时命名空间**，允许�
 
 ---
 
-## <a name="13"></a>13. USENIX年度技术大会落幕：一个时代的终结 
+## <a name="13"></a>13. 复兴1930年代的模块化货运自行车设计 
+<small>🔗 [core77.com](https://www.core77.com/posts/136773/Reviving-a-Modular-Cargo-Bike-Design-from-the-1930s): Reviving a modular cargo bike design from the 1930s</small>
+
+
+| 🔥🔥: 104 \| 💬: [94](https://news.ycombinator.com/item?id=43963397) \| 🗓️ 2025-05-12
+
+
+<br />
+法国移动出行公司Cyclauto重新设计了1930年代**Auguste Reymond**的创意，推出**模块化货运自行车Cyclauto**。该设计将骑手置于前轮上方，直接蹬踏前轮，**无需链条**，减少维护需求。后部可拆卸的货箱类似半挂车，支持多种用途（载货、载人甚至商用设备）。两段式车架便于运输，且**转弯半径更小**，适合城市环境。目前尚未公布量产计划。
+
+---
+
+## <a name="14"></a>14. USENIX年度技术大会落幕：一个时代的终结 
 <small>🔗 [bcantrill.dtrace.org](https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/): RIP Usenix ATC</small>
 
 
-| 🔥: 96 \| 💬: [19](https://news.ycombinator.com/item?id=43964827) \| 🗓️ 2025-05-12
+| 🔥🔥: 103 \| 💬: [19](https://news.ycombinator.com/item?id=43964827) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -188,11 +200,11 @@ USENIX宣布停办其旗舰会议**年度技术大会（ATC）**，这一始于1
 
 ---
 
-## <a name="14"></a>14. Spade：一种简化硬件设计的现代语言 
+## <a name="15"></a>15. Spade：一种简化硬件设计的现代语言 
 <small>🔗 [spade-lang.org](https://spade-lang.org/): Spade Hardware Description Language</small>
 
 
-| 🔥: 94 \| 💬: [49](https://news.ycombinator.com/item?id=43962138) \| 🗓️ 2025-05-12
+| 🔥: 98 \| 💬: [51](https://news.ycombinator.com/item?id=43962138) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -205,26 +217,86 @@ Spade仍处早期阶段，但已支持生成Verilog，适用于学术与工业�
 
 ---
 
-## <a name="15"></a>15. 复兴1930年代的模块化货运自行车设计 
-<small>🔗 [core77.com](https://www.core77.com/posts/136773/Reviving-a-Modular-Cargo-Bike-Design-from-the-1930s): Reviving a modular cargo bike design from the 1930s</small>
-
-
-| 🔥: 94 \| 💬: [84](https://news.ycombinator.com/item?id=43963397) \| 🗓️ 2025-05-12
-
-
-<br />
-法国移动出行公司Cyclauto重新设计了1930年代**Auguste Reymond**的创意，推出**模块化货运自行车Cyclauto**。该设计将骑手置于前轮上方，直接蹬踏前轮，**无需链条**，减少维护需求。后部可拆卸的货箱类似半挂车，支持多种用途（载货、载人甚至商用设备）。两段式车架便于运输，且**转弯半径更小**，适合城市环境。目前尚未公布量产计划。
-
----
-
 ## <a name="16"></a>16. 英国特种部队前成员揭露战友涉嫌战争罪行 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/cj3j5gxgz0do): Ex-UK Special Forces break silence on 'war crimes' by colleagues</small>
 
 
-| 🔥: 93 \| 💬: [36](https://news.ycombinator.com/item?id=43964885) \| 🗓️ 2025-05-12
+| 🔥: 98 \| 💬: [43](https://news.ycombinator.com/item?id=43964885) \| 🗓️ 2025-05-12
 
 
 <br />
 英国特种部队（包括SAS和SBS）前成员首次公开指控战友在伊拉克和阿富汗犯下**战争罪行**，包括杀害手无寸铁的平民、儿童和伤员。目击者称，士兵会伪造现场，如放置武器掩盖非法杀戮，并篡改行动报告以逃避调查。时任首相卡梅伦被曝多次收到相关警告，但未采取行动。目前英国已启动公开调查，但军方拒绝评论具体指控。**国际法严禁**此类行为，但部分士兵表现出"心理变态倾向"，甚至以杀人为乐。
+
+---
+
+## <a name="17"></a>17. Airweave：让智能代理无缝搜索任何应用的工具 
+<small>🔗 [github.com](https://github.com/airweave-ai/airweave): Show HN: Airweave – Let agents search any app</small>
+
+
+| 🔥: 96 \| 💬: [24](https://news.ycombinator.com/item?id=43964201) \| 🗓️ 2025-05-12
+
+
+<br />
+Airweave 是一个支持**智能代理**语义化搜索任何应用的平台，兼容MCP协议，可无缝连接应用、数据库或API，将其内容转化为代理可用的知识库。它提供**数据同步**、实体提取、版本管理及语义搜索功能，支持25+数据源，并配备Python/TypeScript SDK。技术栈包括React、FastAPI和Qdrant，采用MIT开源协议，适合开发者快速集成。
+
+---
+
+## <a name="18"></a>18. GitHub仓库风险检测工具：自动识别虚假Star与依赖陷阱 
+<small>🔗 [github.com](https://github.com/m-ahmed-elbeskeri/Starguard): Show HN: CLI that spots fake GitHub stars, risky dependencies and licence traps</small>
+
+
+| 🔥: 84 \| 💬: [51](https://news.ycombinator.com/item?id=43962427) \| 🗓️ 2025-05-12
+
+
+<br />
+StarGuard是一款**CLI工具**，专为检测GitHub仓库风险设计，包括**虚假Star刷量**、高风险依赖项和许可证陷阱。其核心功能通过算法分析星标增长异常（如突发刷量）、依赖包来源（如未注册或恶意包）及许可证合规性（如GPL/AGPL风险），并生成**信任评分**。适用于CTO、安全团队和投资者快速自动化审计开源项目，支持多格式报告输出。基于Apache-2.0开源，仅需Python环境即可运行。
+
+---
+
+## <a name="19"></a>19. Tailscale 4via6：规模化连接边缘部署的解决方案 
+<small>🔗 [tailscale.com](https://tailscale.com/blog/4via6-connectivity-to-edge-devices): Tailscale 4via6 – Connect Edge Deployments at Scale</small>
+
+
+| 🔥: 83 \| 💬: [21](https://news.ycombinator.com/item?id=43962992) \| 🗓️ 2025-05-12
+
+
+<br />
+Tailscale推出**4via6子网路由**功能，专为解决复杂边缘部署中的网络难题，如IP冲突、多重NAT和严格防火墙限制。该功能支持在机器人、边缘设备或多VPC场景中无缝连接，无需管理IP或CIDR范围。**4via6**通过为每个网络分配唯一标识符，实现跨环境（如LTE、5G或卫星网络）的安全访问，同时支持云部署中的VPC互联。结合Tailscale的精细ACL策略，用户可轻松管理分布式设备，如传感器、摄像头或AI服务器，提升远程运维效率。
+
+---
+
+## <a name="20"></a>20. macOS权限弹窗还能信任吗？ 
+<small>🔗 [wts.dev](https://wts.dev/posts/tcc-who/): Can you trust that permission pop-up on macOS?</small>
+
+
+| 🔥: 83 \| 💬: [44](https://news.ycombinator.com/item?id=43966089) \| 🗓️ 2025-05-12
+
+
+<br />
+近日，macOS Sequoia 15.5修复了一个高危漏洞（CVE-2025-31250），该漏洞允许**恶意应用A**伪造**应用B**的权限请求弹窗，却将用户授权结果应用于**完全无关的应用C**。攻击者无需构建虚假应用或篡改Dock图标，仅需通过**XPC消息**向系统守护进程`tccd`发送特制指令即可实现欺骗。漏洞根源在于`TCCAccessRequestIndirect`函数未验证弹窗显示对象与实际权限接收对象的一致性，导致权限体系被绕过。尽管需用户点击授权，但该漏洞仍可能被用于诱导用户授予敏感权限（如访问摄像头或通讯录）。苹果通过更新修复了此逻辑缺陷。
+
+---
+
+## <a name="21"></a>21. 字节潜在变换器：块比词元更具扩展性 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2412.09871): Byte latent transformer: Patches scale better than tokens</small>
+
+
+| 🔥: 71 \| 💬: [21](https://news.ycombinator.com/item?id=43965099) \| 🗓️ 2025-05-12
+
+
+<br />
+该研究提出了一种名为**字节潜在变换器（BLT）**的新型字节级大语言模型架构。与传统基于词元化的模型不同，BLT通过**动态分块**处理字节数据，根据下一字节的熵值调整计算资源分配。实验表明，BLT在8B参数和4T训练字节规模下，首次实现了与词元化模型相当的性能，同时显著提升了推理效率和鲁棒性。其核心优势在于：**动态长块处理可预测数据**，并在固定计算成本下展现出更优的扩展性，尤其在推理和长尾泛化任务中表现突出。
+
+---
+
+## <a name="22"></a>22. 保罗·麦卡特尼、埃尔顿·约翰等艺术家呼吁AI公司公开数据抓取行为 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/05/12/uk_creatives_ai_letter/): Paul McCartney, Elton John and other creatives demand AI comes clean on scraping</small>
+
+
+| 🔥: 66 \| 💬: [91](https://news.ycombinator.com/item?id=43962662) \| 🗓️ 2025-05-12
+
+
+<br />
+超过400名英国顶尖媒体和艺术界人士联名致信首相，要求修改《数据使用与访问法案》，以确保**AI模型训练中使用的受版权保护内容透明化**。签署者包括保罗·麦卡特尼、埃尔顿·约翰、理查德·柯蒂斯等知名人士。他们批评政府提出的“**版权例外**”条款可能纵容AI公司侵权，并强调**透明度要求**是保护创作者权益的关键。此外，美国版权局近期也认定部分AI公司滥用版权，引发广泛争议。
 
 ---
