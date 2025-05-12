@@ -11,8 +11,8 @@ tags:
 1. 纯原生Web开发指南；
 1. 用纯C语言编写的轻量级Windows待办事项应用；
 1. 2025年风投泡沫破裂：AI成最后赌注，OpenAI独木难支；
+1. 汽车巨头深陷千亿软件战争泥潭；
 1. Klarna从AI客服回归人工服务：强调共情与效率平衡；
-1. 在Linux和Windows（WSL）上开发iOS应用；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [plainvanillaweb.com](https://plainvanillaweb.com/index.html): Plain Vanilla Web</small>
 
 
-| 🔥🔥: 642 \| 💬: [342](https://news.ycombinator.com/item?id=43954896) \| 🗓️ 2025-05-11
+| 🔥🔥: 697 \| 💬: [361](https://news.ycombinator.com/item?id=43954896) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [github.com](https://github.com/Efeckc17/simple-todo-c): I built a native Windows Todo app in pure C (278 KB, no frameworks)</small>
 
 
-| 🔥🔥: 258 \| 💬: [142](https://news.ycombinator.com/item?id=43954649) \| 🗓️ 2025-05-11
+| 🔥🔥: 272 \| 💬: [150](https://news.ycombinator.com/item?id=43954649) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [pivot-to-ai.com](https://pivot-to-ai.com/2025/05/03/in-2025-venture-capital-cant-pretend-everything-is-fine-any-more/): In 2025, venture capital can't pretend everything is fine any more</small>
 
 
-| 🔥🔥: 248 \| 💬: [223](https://news.ycombinator.com/item?id=43953884) \| 🗓️ 2025-05-11
+| 🔥🔥: 249 \| 💬: [225](https://news.ycombinator.com/item?id=43953884) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -59,35 +59,11 @@ tags:
 
 ---
 
-## <a name="4"></a>4. Klarna从AI客服回归人工服务：强调共情与效率平衡 
-<small>🔗 [customerexperiencedive.com](https://www.customerexperiencedive.com/news/klarna-reinvests-human-talent-customer-service-AI-chatbot/747586/): Klarna changes its AI tune and again recruits humans for customer service</small>
-
-
-| 🔥🔥: 189 \| 💬: [81](https://news.ycombinator.com/item?id=43955374) \| 🗓️ 2025-05-11
-
-
-<br />
-Klarna在宣称AI聊天机器人可替代700名客服人员一年后，重新转向**人工服务**，确保客户始终能联系真人。公司承认早期过度追求**成本节约**导致服务质量下降，现推出混合模式：AI处理常规问题（占咨询量的2/3），人类专家解决复杂或情感需求。CEO表示将投资"优步式"灵活用工团队，取代外包员工。调研指出，86%消费者认为**共情能力**比快速响应更重要，Klarna的调整反映了AI作为辅助工具而非替代品的行业趋势。
-
----
-
-## <a name="5"></a>5. 在Linux和Windows（WSL）上开发iOS应用 
-<small>🔗 [forums.swift.org](https://forums.swift.org/t/xtool-cross-platform-xcode-replacement-build-ios-apps-on-linux-and-more/79803): Build iOS Apps on Linux and Windows</small>
-
-
-| 🔥🔥: 187 \| 💬: [30](https://news.ycombinator.com/item?id=43952239) \| 🗓️ 2025-05-11
-
-
-<br />
-GitHub项目 **xtool-org/xtool** 是一个跨平台的 **Xcode替代工具**，支持在Linux、Windows和macOS上通过 **SwiftPM** 构建和部署iOS应用。该项目为开发者提供了在不使用苹果官方IDE的情况下开发iOS应用的可能性，尤其适合非macOS环境的用户。
-
----
-
-## <a name="6"></a>6. 汽车巨头深陷千亿软件战争泥潭 
+## <a name="4"></a>4. 汽车巨头深陷千亿软件战争泥潭 
 <small>🔗 [insideevs.com](https://insideevs.com/features/759153/car-companies-software-companies/): Car companies are in a billion-dollar software war</small>
 
 
-| 🔥🔥: 184 \| 💬: [318](https://news.ycombinator.com/item?id=43955525) \| 🗓️ 2025-05-11
+| 🔥🔥: 204 \| 💬: [356](https://news.ycombinator.com/item?id=43955525) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -95,11 +71,35 @@ GitHub项目 **xtool-org/xtool** 是一个跨平台的 **Xcode替代工具**，�
 
 ---
 
+## <a name="5"></a>5. Klarna从AI客服回归人工服务：强调共情与效率平衡 
+<small>🔗 [customerexperiencedive.com](https://www.customerexperiencedive.com/news/klarna-reinvests-human-talent-customer-service-AI-chatbot/747586/): Klarna changes its AI tune and again recruits humans for customer service</small>
+
+
+| 🔥🔥: 196 \| 💬: [82](https://news.ycombinator.com/item?id=43955374) \| 🗓️ 2025-05-11
+
+
+<br />
+Klarna在宣称AI聊天机器人可替代700名客服人员一年后，重新转向**人工服务**，确保客户始终能联系真人。公司承认早期过度追求**成本节约**导致服务质量下降，现推出混合模式：AI处理常规问题（占咨询量的2/3），人类专家解决复杂或情感需求。CEO表示将投资"优步式"灵活用工团队，取代外包员工。调研指出，86%消费者认为**共情能力**比快速响应更重要，Klarna的调整反映了AI作为辅助工具而非替代品的行业趋势。
+
+---
+
+## <a name="6"></a>6. 在Linux和Windows（WSL）上开发iOS应用 
+<small>🔗 [forums.swift.org](https://forums.swift.org/t/xtool-cross-platform-xcode-replacement-build-ios-apps-on-linux-and-more/79803): Build iOS Apps on Linux and Windows</small>
+
+
+| 🔥🔥: 190 \| 💬: [32](https://news.ycombinator.com/item?id=43952239) \| 🗓️ 2025-05-11
+
+
+<br />
+GitHub项目 **xtool-org/xtool** 是一个跨平台的 **Xcode替代工具**，支持在Linux、Windows和macOS上通过 **SwiftPM** 构建和部署iOS应用。该项目为开发者提供了在不使用苹果官方IDE的情况下开发iOS应用的可能性，尤其适合非macOS环境的用户。
+
+---
+
 ## <a name="7"></a>7. 赫库兰尼姆古卷经数字技术破解 确认作者与书名 
 <small>🔗 [finebooksmagazine.com](https://www.finebooksmagazine.com/fine-books-news/title-work-deciphered-sealed-herculaneum-scroll-digital-unwrapping): Title of work deciphered in sealed Herculaneum scroll via digital unwrapping</small>
 
 
-| 🔥🔥: 174 \| 💬: [75](https://news.ycombinator.com/item?id=43953883) \| 🗓️ 2025-05-11
+| 🔥🔥: 184 \| 💬: [76](https://news.ycombinator.com/item?id=43953883) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -111,7 +111,7 @@ GitHub项目 **xtool-org/xtool** 是一个跨平台的 **Xcode替代工具**，�
 <small>🔗 [epochalypse-project.org](https://epochalypse-project.org/): The Epochalypse Project</small>
 
 
-| 🔥🔥: 163 \| 💬: [71](https://news.ycombinator.com/item?id=43952714) \| 🗓️ 2025-05-11
+| 🔥🔥: 165 \| 💬: [74](https://news.ycombinator.com/item?id=43952714) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -125,7 +125,7 @@ GitHub项目 **xtool-org/xtool** 是一个跨平台的 **Xcode替代工具**，�
 <small>🔗 [torrentfreak.com](https://torrentfreak.com/dns-piracy-blocking-orders-google-cloudflare-and-opendns-respond-differently-250511/): DNS piracy blocking orders: Google, Cloudflare, and OpenDNS respond differently</small>
 
 
-| 🔥🔥: 156 \| 💬: [145](https://news.ycombinator.com/item?id=43954459) \| 🗓️ 2025-05-11
+| 🔥🔥: 158 \| 💬: [146](https://news.ycombinator.com/item?id=43954459) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -133,23 +133,11 @@ GitHub项目 **xtool-org/xtool** 是一个跨平台的 **Xcode替代工具**，�
 
 ---
 
-## <a name="10"></a>10. 用200行Clojure代码实现LSP客户端 
-<small>🔗 [vlaaad.github.io](https://vlaaad.github.io/lsp-client-in-200-lines-of-code): LSP client in Clojure in 200 lines of code</small>
-
-
-| 🔥: 95 \| 💬: [7](https://news.ycombinator.com/item?id=43955397) \| 🗓️ 2025-05-11
-
-
-<br />
-作者分享了一个极简的**语言服务器协议(LSP)**客户端实现，仅用200行Clojure代码完成。核心包含三层架构：基于字节流的**基础通信层**、处理JSON-RPC协议的**中间层**，以及面向用户的API封装。文章重点解析了如何通过虚拟线程高效处理双向通信，并演示了与语言服务器的请求/响应交互。虽然省略了文档同步等编辑器功能，但完整实现了**代码导航**和**静态分析**的核心机制。该项目最初是为探索LLM与LSP集成而开发的原型，最终演变为一个简洁的LSP技术演示。
-
----
-
-## <a name="11"></a>11. Scraperr：一款强大的自托管网络爬虫工具 
+## <a name="10"></a>10. Scraperr：一款强大的自托管网络爬虫工具 
 <small>🔗 [github.com](https://github.com/jaypyles/Scraperr): Scraperr – A Self Hosted Webscraper</small>
 
 
-| 🔥: 95 \| 💬: [32](https://news.ycombinator.com/item?id=43955842) \| 🗓️ 2025-05-11
+| 🔥🔥: 108 \| 💬: [38](https://news.ycombinator.com/item?id=43955842) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -157,11 +145,61 @@ Scraperr 是一款**自托管**的网页数据抓取工具，支持通过**XPath
 
 ---
 
-## <a name="12"></a>12. 2024年美国海平面"成绩单"预测沿海社区未来 
+## <a name="11"></a>11. 用200行Clojure代码实现LSP客户端 
+<small>🔗 [vlaaad.github.io](https://vlaaad.github.io/lsp-client-in-200-lines-of-code): LSP client in Clojure in 200 lines of code</small>
+
+
+| 🔥: 99 \| 💬: [7](https://news.ycombinator.com/item?id=43955397) \| 🗓️ 2025-05-11
+
+
+<br />
+作者分享了一个极简的**语言服务器协议(LSP)**客户端实现，仅用200行Clojure代码完成。核心包含三层架构：基于字节流的**基础通信层**、处理JSON-RPC协议的**中间层**，以及面向用户的API封装。文章重点解析了如何通过虚拟线程高效处理双向通信，并演示了与语言服务器的请求/响应交互。虽然省略了文档同步等编辑器功能，但完整实现了**代码导航**和**静态分析**的核心机制。该项目最初是为探索LLM与LSP集成而开发的原型，最终演变为一个简洁的LSP技术演示。
+
+---
+
+## <a name="12"></a>12. 贝尔实验室为何成功：自由与天才的化学反应 
+<small>🔗 [1517.substack.com](https://1517.substack.com/p/why-bell-labs-worked): Why Bell Labs Worked</small>
+
+
+| 🔥: 99 \| 💬: [55](https://news.ycombinator.com/item?id=43957010) \| 🗓️ 2025-05-11
+
+
+<br />
+贝尔实验室的辉煌源于**激进自由**的管理模式：创始人亚历山大·格雷厄姆·贝尔和领导者梅文·凯利拒绝微观管理，以**"天才无需监管"**为信条，聚集顶尖人才并赋予长期探索的自由。二战期间，实验室在雷达、声呐等领域突破连连，战后更诞生了晶体管等划时代发明。  
+
+其衰落映射现代科研困境：**MBA文化**侵蚀了创造力，学者深陷申请经费的泥潭，而企业虽资金充沛却缺乏耐心。核心公式在于：用**品味**筛选雄心勃勃的人才，构建跨界协作的"熔炉"，并容忍资源与时间的"浪费"。如今，少数机构如1517基金正尝试复刻这一模式，但真正的贝尔实验室仍需时代对自由的重新拥抱。
+
+---
+
+## <a name="13"></a>13. 先吃卷饼，后付款：金融创新如何重塑信贷市场 
+<small>🔗 [enterprisevalue.substack.com](https://enterprisevalue.substack.com/p/burrito-now-pay-later): Burrito Now, Pay Later</small>
+
+
+| 🔥: 96 \| 💬: [146](https://news.ycombinator.com/item?id=43956723) \| 🗓️ 2025-05-11
+
+
+<br />
+本文探讨了**先买后付（BNPL）**模式如何通过证券化将小额短期贷款转化为可交易资产，从而降低借贷成本并提升市场效率。BNPL为消费者提供零息分期付款，商户则通过支付更高手续费换取销量增长，而投资者则获得年化22.8%的高收益。文章强调，这种**市场完善（Market Completion）**机制通过细分风险定价，使信贷市场更透明、高效。尽管存在逾期风险，但短期贷款特性避免了系统性危机，且风险由专业投资者承担。未来，BNPL证券化或衍生出更多细分指数，进一步推动金融创新。
+
+---
+
+## <a name="14"></a>14. JEP 515：AOT方法性能分析预缓存 
+<small>🔗 [openjdk.org](https://openjdk.org/jeps/515): JEP 515: Ahead-of-Time Method Profiling</small>
+
+
+| 🔥: 92 \| 💬: [8](https://news.ycombinator.com/item?id=43954178) \| 🗓️ 2025-05-11
+
+
+<br />
+该提案旨在通过**预缓存方法执行性能分析数据**，缩短Java应用的启动预热时间。在训练运行中收集的**方法调用频率**和类型信息将存入AOT缓存，使生产运行时JIT编译器能立即基于历史数据优化热点代码，无需等待实时分析。例如，测试程序预热时间减少19%，仅增加2.5%的缓存空间。**动态类加载**和**多态调用**等场景仍依赖运行时分析，但预缓存数据可显著加速初期编译决策。此功能是现有AOT缓存（JEP 483）的扩展，不影响应用代码或运行时行为。
+
+---
+
+## <a name="15"></a>15. 2024年美国海平面"成绩单"预测沿海社区未来 
 <small>🔗 [news.wm.edu](https://news.wm.edu/2025/05/06/2024-sea-level-report-cards-map-futures-of-u-s-coastal-communities/): 2024 sea level 'report cards' map futures of U.S. coastal communities</small>
 
 
-| 🔥: 89 \| 💬: [86](https://news.ycombinator.com/item?id=43956115) \| 🗓️ 2025-05-11
+| 🔥: 91 \| 💬: [88](https://news.ycombinator.com/item?id=43956115) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -169,7 +207,7 @@ Scraperr 是一款**自托管**的网页数据抓取工具，支持通过**XPath
 
 ---
 
-## <a name="13"></a>13. Rust文档生态体系深度评析 
+## <a name="16"></a>16. Rust文档生态体系深度评析 
 <small>🔗 [harudagondi.space](https://www.harudagondi.space/blog/rust-documentation-ecosystem-review/): A Rust Documentation Ecosystem Review</small>
 
 
@@ -181,35 +219,11 @@ Scraperr 是一款**自托管**的网页数据抓取工具，支持通过**XPath
 
 ---
 
-## <a name="14"></a>14. JEP 515：AOT方法性能分析预缓存 
-<small>🔗 [openjdk.org](https://openjdk.org/jeps/515): JEP 515: Ahead-of-Time Method Profiling</small>
-
-
-| 🔥: 88 \| 💬: [6](https://news.ycombinator.com/item?id=43954178) \| 🗓️ 2025-05-11
-
-
-<br />
-该提案旨在通过**预缓存方法执行性能分析数据**，缩短Java应用的启动预热时间。在训练运行中收集的**方法调用频率**和类型信息将存入AOT缓存，使生产运行时JIT编译器能立即基于历史数据优化热点代码，无需等待实时分析。例如，测试程序预热时间减少19%，仅增加2.5%的缓存空间。**动态类加载**和**多态调用**等场景仍依赖运行时分析，但预缓存数据可显著加速初期编译决策。此功能是现有AOT缓存（JEP 483）的扩展，不影响应用代码或运行时行为。
-
----
-
-## <a name="15"></a>15. 先吃卷饼，后付款：金融创新如何重塑信贷市场 
-<small>🔗 [enterprisevalue.substack.com](https://enterprisevalue.substack.com/p/burrito-now-pay-later): Burrito Now, Pay Later</small>
-
-
-| 🔥: 87 \| 💬: [128](https://news.ycombinator.com/item?id=43956723) \| 🗓️ 2025-05-11
-
-
-<br />
-本文探讨了**先买后付（BNPL）**模式如何通过证券化将小额短期贷款转化为可交易资产，从而降低借贷成本并提升市场效率。BNPL为消费者提供零息分期付款，商户则通过支付更高手续费换取销量增长，而投资者则获得年化22.8%的高收益。文章强调，这种**市场完善（Market Completion）**机制通过细分风险定价，使信贷市场更透明、高效。尽管存在逾期风险，但短期贷款特性避免了系统性危机，且风险由专业投资者承担。未来，BNPL证券化或衍生出更多细分指数，进一步推动金融创新。
-
----
-
-## <a name="16"></a>16. 西班牙叛逆者：玛雅战士贡萨洛·格雷罗 
+## <a name="17"></a>17. 西班牙叛逆者：玛雅战士贡萨洛·格雷罗 
 <small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Gonzalo_Guerrero): Gonzalo Guerrero</small>
 
 
-| 🔥: 80 \| 💬: [23](https://news.ycombinator.com/item?id=43954249) \| 🗓️ 2025-05-11
+| 🔥: 82 \| 💬: [24](https://news.ycombinator.com/item?id=43954249) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -217,37 +231,11 @@ Scraperr 是一款**自托管**的网页数据抓取工具，支持通过**XPath
 
 ---
 
-## <a name="17"></a>17. 贝尔实验室为何成功：自由与天才的化学反应 
-<small>🔗 [1517.substack.com](https://1517.substack.com/p/why-bell-labs-worked): Why Bell Labs Worked</small>
-
-
-| 🔥: 73 \| 💬: [49](https://news.ycombinator.com/item?id=43957010) \| 🗓️ 2025-05-11
-
-
-<br />
-贝尔实验室的辉煌源于**激进自由**的管理模式：创始人亚历山大·格雷厄姆·贝尔和领导者梅文·凯利拒绝微观管理，以**"天才无需监管"**为信条，聚集顶尖人才并赋予长期探索的自由。二战期间，实验室在雷达、声呐等领域突破连连，战后更诞生了晶体管等划时代发明。  
-
-其衰落映射现代科研困境：**MBA文化**侵蚀了创造力，学者深陷申请经费的泥潭，而企业虽资金充沛却缺乏耐心。核心公式在于：用**品味**筛选雄心勃勃的人才，构建跨界协作的"熔炉"，并容忍资源与时间的"浪费"。如今，少数机构如1517基金正尝试复刻这一模式，但真正的贝尔实验室仍需时代对自由的重新拥抱。
-
----
-
-## <a name="18"></a>18. 开源工具GlassFlow：实现Kafka到ClickHouse的实时数据去重与流连接 
-<small>🔗 [github.com](https://github.com/glassflow/clickhouse-etl): Show HN: GlassFlow – OSS streaming dedup and joins from Kafka to ClickHouse</small>
-
-
-| 🔥: 68 \| 💬: [27](https://news.ycombinator.com/item?id=43953722) \| 🗓️ 2025-05-11
-
-
-<br />
-GlassFlow是一款**开源流处理工具**，专为Kafka到ClickHouse的实时ETL设计，提供**数据去重**和**时序连接**功能。它通过直观的Web界面简化管道配置，支持7天时间窗口的去重与流合并，确保数据准确性和低延迟。内置Kafka连接器和ClickHouse优化写入，适合高吞吐场景，并支持Docker本地部署。核心特性包括自动Schema管理、Exactly-Once语义及自托管能力，助力数据工程师高效构建实时管道。
-
----
-
-## <a name="19"></a>19. 经典物理学的应用 
+## <a name="18"></a>18. 经典物理学的应用 
 <small>🔗 [pmaweb.caltech.edu](http://pmaweb.caltech.edu/Courses/ph136/yr2012/): Applications of Classical Physics</small>
 
 
-| 🔥: 68 \| 💬: [27](https://news.ycombinator.com/item?id=43955326) \| 🗓️ 2025-05-11
+| 🔥: 69 \| 💬: [29](https://news.ycombinator.com/item?id=43955326) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -255,11 +243,23 @@ GlassFlow是一款**开源流处理工具**，专为Kafka到ClickHouse的实时E
 
 ---
 
+## <a name="19"></a>19. 开源工具GlassFlow：实现Kafka到ClickHouse的实时数据去重与流连接 
+<small>🔗 [github.com](https://github.com/glassflow/clickhouse-etl): Show HN: GlassFlow – OSS streaming dedup and joins from Kafka to ClickHouse</small>
+
+
+| 🔥: 68 \| 💬: [28](https://news.ycombinator.com/item?id=43953722) \| 🗓️ 2025-05-11
+
+
+<br />
+GlassFlow是一款**开源流处理工具**，专为Kafka到ClickHouse的实时ETL设计，提供**数据去重**和**时序连接**功能。它通过直观的Web界面简化管道配置，支持7天时间窗口的去重与流合并，确保数据准确性和低延迟。内置Kafka连接器和ClickHouse优化写入，适合高吞吐场景，并支持Docker本地部署。核心特性包括自动Schema管理、Exactly-Once语义及自托管能力，助力数据工程师高效构建实时管道。
+
+---
+
 ## <a name="20"></a>20. 1800万美元补助金本可大幅减少食物浪费，却被EPA突然取消 
 <small>🔗 [grist.org](https://grist.org/food-and-agriculture/trump-epa-community-change-grants-program-food-waste/): An $18M grant would have drastically reduced food waste. Then the EPA cut it</small>
 
 
-| 🔥: 65 \| 💬: [40](https://news.ycombinator.com/item?id=43954810) \| 🗓️ 2025-05-11
+| 🔥: 67 \| 💬: [40](https://news.ycombinator.com/item?id=43954810) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -271,7 +271,7 @@ GlassFlow是一款**开源流处理工具**，专为Kafka到ClickHouse的实时E
 <small>🔗 [glitchgallery.org](https://glitchgallery.org/): An online exhibition of pretty software bugs</small>
 
 
-| 🔥: 59 \| 💬: [1](https://news.ycombinator.com/item?id=43955333) \| 🗓️ 2025-05-11
+| 🔥: 62 \| 💬: [1](https://news.ycombinator.com/item?id=43955333) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -283,7 +283,7 @@ GlassFlow是一款**开源流处理工具**，专为Kafka到ClickHouse的实时E
 <small>🔗 [pfister.dev](https://pfister.dev/blog/2025/rp2350-uart-bl.html): Booting the RP2350 from UART</small>
 
 
-| 🔥: 55 \| 💬: [6](https://news.ycombinator.com/item?id=43954054) \| 🗓️ 2025-05-11
+| 🔥: 60 \| 💬: [6](https://news.ycombinator.com/item?id=43954054) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -295,7 +295,7 @@ GlassFlow是一款**开源流处理工具**，专为Kafka到ClickHouse的实时E
 <small>🔗 [theregister.com](https://www.theregister.com/2025/05/06/ibm_ai_investments/): Most AI spending driven by FOMO, not ROI, CEOs tell IBM</small>
 
 
-| 🔥: 54 \| 💬: [20](https://news.ycombinator.com/item?id=43952254) \| 🗓️ 2025-05-11
+| 🔥: 55 \| 💬: [20](https://news.ycombinator.com/item?id=43952254) \| 🗓️ 2025-05-11
 
 
 <br />
@@ -307,7 +307,7 @@ IBM对2000名CEO的调查显示，仅**25%**的AI项目实现了预期回报，�
 <small>🔗 [blog.plan99.net](https://blog.plan99.net/why-not-capability-languages-a8e6cbdf9682): Why not object capability languages?</small>
 
 
-| 🔥: 52 \| 💬: [19](https://news.ycombinator.com/item?id=43956095) \| 🗓️ 2025-05-11
+| 🔥: 55 \| 💬: [20](https://news.ycombinator.com/item?id=43956095) \| 🗓️ 2025-05-11
 
 
 <br />
