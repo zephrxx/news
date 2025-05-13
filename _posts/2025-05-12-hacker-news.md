@@ -27,7 +27,7 @@ tags:
 <small>🔗 [alexschapiro.com](https://alexschapiro.com/blog/security/vulnerability/2025/04/21/startups-need-to-take-security-seriously): I hacked a dating app (and how not to treat a security researcher)</small>
 
 
-| 🔥🔥: 438 \| 💬: [259](https://news.ycombinator.com/item?id=43964937) \| 🗓️ 2025-05-12
+| 🔥🔥: 451 \| 💬: [267](https://news.ycombinator.com/item?id=43964937) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [technicalwriting.dev](https://technicalwriting.dev/ml/embeddings/overview.html): Embeddings are underrated (2024)</small>
 
 
-| 🔥🔥: 427 \| 💬: [124](https://news.ycombinator.com/item?id=43963868) \| 🗓️ 2025-05-12
+| 🔥🔥: 433 \| 💬: [127](https://news.ycombinator.com/item?id=43963868) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [theregister.com](https://www.theregister.com/2025/05/12/us_copyright_office_ai_copyright/): US Copyright Office found AI companies breach copyright. Its boss was fired</small>
 
 
-| 🔥🔥: 410 \| 💬: [345](https://news.ycombinator.com/item?id=43961247) \| 🗓️ 2025-05-12
+| 🔥🔥: 413 \| 💬: [345](https://news.ycombinator.com/item?id=43961247) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [arslan.io](https://arslan.io/2025/05/12/barbican-estate/): The Barbican</small>
 
 
-| 🔥🔥: 367 \| 💬: [149](https://news.ycombinator.com/item?id=43964136) \| 🗓️ 2025-05-12
+| 🔥🔥: 388 \| 💬: [150](https://news.ycombinator.com/item?id=43964136) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [theverge.com](https://www.theverge.com/news/664730/ftc-delay-click-to-cancel-rule): The FTC puts off enforcing its 'click-to-cancel' rule</small>
 
 
-| 🔥🔥: 289 \| 💬: [179](https://news.ycombinator.com/item?id=43962528) \| 🗓️ 2025-05-12
+| 🔥🔥: 290 \| 💬: [178](https://news.ycombinator.com/item?id=43962528) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [comaps.app](https://www.comaps.app/news/2025-05-12/3/): A community-led fork of Organic Maps</small>
 
 
-| 🔥🔥: 266 \| 💬: [177](https://news.ycombinator.com/item?id=43961908) \| 🗓️ 2025-05-12
+| 🔥🔥: 269 \| 💬: [180](https://news.ycombinator.com/item?id=43961908) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -101,7 +101,7 @@ tags:
 <small>🔗 [news.utexas.edu](https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/): University of Texas-led team solves a big problem for fusion energy</small>
 
 
-| 🔥🔥: 203 \| 💬: [147](https://news.ycombinator.com/item?id=43962148) \| 🗓️ 2025-05-12
+| 🔥🔥: 208 \| 💬: [148](https://news.ycombinator.com/item?id=43962148) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -113,7 +113,7 @@ tags:
 <small>🔗 [bugs.ruby-lang.org](https://bugs.ruby-lang.org/issues/21311): Ruby 3.5 Feature: Namespace on read</small>
 
 
-| 🔥🔥: 167 \| 💬: [79](https://news.ycombinator.com/item?id=43962770) \| 🗓️ 2025-05-12
+| 🔥🔥: 172 \| 💬: [80](https://news.ycombinator.com/item?id=43962770) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -132,7 +132,7 @@ Ruby 3.5 将引入一项实验性功能——**读取时命名空间**，允许�
 <small>🔗 [justfuckingusehtml.com](https://justfuckingusehtml.com): Just use HTML</small>
 
 
-| 🔥🔥: 151 \| 💬: [134](https://news.ycombinator.com/item?id=43962942) \| 🗓️ 2025-05-12
+| 🔥🔥: 151 \| 💬: [136](https://news.ycombinator.com/item?id=43962942) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -140,7 +140,19 @@ Ruby 3.5 将引入一项实验性功能——**读取时命名空间**，允许�
 
 ---
 
-## <a name="10"></a>10. 加密货币创始人伪造死亡，被曝藏身父亲家中 
+## <a name="10"></a>10. macOS权限弹窗还能信任吗？ 
+<small>🔗 [wts.dev](https://wts.dev/posts/tcc-who/): Can you trust that permission pop-up on macOS?</small>
+
+
+| 🔥🔥: 150 \| 💬: [124](https://news.ycombinator.com/item?id=43966089) \| 🗓️ 2025-05-12
+
+
+<br />
+近日，macOS Sequoia 15.5修复了一个高危漏洞（CVE-2025-31250），该漏洞允许**恶意应用A**伪造**应用B**的权限请求弹窗，却将用户授权结果应用于**完全无关的应用C**。攻击者无需构建虚假应用或篡改Dock图标，仅需通过**XPC消息**向系统守护进程`tccd`发送特制指令即可实现欺骗。漏洞根源在于`TCCAccessRequestIndirect`函数未验证弹窗显示对象与实际权限接收对象的一致性，导致权限体系被绕过。尽管需用户点击授权，但该漏洞仍可能被用于诱导用户授予敏感权限（如访问摄像头或通讯录）。苹果通过更新修复了此逻辑缺陷。
+
+---
+
+## <a name="11"></a>11. 加密货币创始人伪造死亡，被曝藏身父亲家中 
 <small>🔗 [sfstandard.com](https://sfstandard.com/2025/05/08/jeffy-yu-zerebro-fake-death/): A crypto founder faked his death. We found him alive at his dad's house</small>
 
 
@@ -152,11 +164,11 @@ Ruby 3.5 将引入一项实验性功能——**读取时命名空间**，允许�
 
 ---
 
-## <a name="11"></a>11. 美国零工平台剥削工人权利：算法操控与工资陷阱 
+## <a name="12"></a>12. 美国零工平台剥削工人权利：算法操控与工资陷阱 
 <small>🔗 [hrw.org](https://www.hrw.org/news/2025/05/12/us-major-companies-violate-gig-workers-rights): Gig Companies Violate Workers Rights</small>
 
 
-| 🔥🔥: 138 \| 💬: [88](https://news.ycombinator.com/item?id=43962535) \| 🗓️ 2025-05-12
+| 🔥🔥: 138 \| 💬: [89](https://news.ycombinator.com/item?id=43962535) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -164,11 +176,11 @@ Ruby 3.5 将引入一项实验性功能——**读取时命名空间**，允许�
 
 ---
 
-## <a name="12"></a>12. USENIX年度技术大会落幕：一个时代的终结 
+## <a name="13"></a>13. USENIX年度技术大会落幕：一个时代的终结 
 <small>🔗 [bcantrill.dtrace.org](https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/): RIP Usenix ATC</small>
 
 
-| 🔥🔥: 126 \| 💬: [24](https://news.ycombinator.com/item?id=43964827) \| 🗓️ 2025-05-12
+| 🔥🔥: 131 \| 💬: [26](https://news.ycombinator.com/item?id=43964827) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -176,23 +188,11 @@ USENIX宣布停办其旗舰会议**年度技术大会（ATC）**，这一始于1
 
 ---
 
-## <a name="13"></a>13. macOS权限弹窗还能信任吗？ 
-<small>🔗 [wts.dev](https://wts.dev/posts/tcc-who/): Can you trust that permission pop-up on macOS?</small>
-
-
-| 🔥🔥: 123 \| 💬: [114](https://news.ycombinator.com/item?id=43966089) \| 🗓️ 2025-05-12
-
-
-<br />
-近日，macOS Sequoia 15.5修复了一个高危漏洞（CVE-2025-31250），该漏洞允许**恶意应用A**伪造**应用B**的权限请求弹窗，却将用户授权结果应用于**完全无关的应用C**。攻击者无需构建虚假应用或篡改Dock图标，仅需通过**XPC消息**向系统守护进程`tccd`发送特制指令即可实现欺骗。漏洞根源在于`TCCAccessRequestIndirect`函数未验证弹窗显示对象与实际权限接收对象的一致性，导致权限体系被绕过。尽管需用户点击授权，但该漏洞仍可能被用于诱导用户授予敏感权限（如访问摄像头或通讯录）。苹果通过更新修复了此逻辑缺陷。
-
----
-
 ## <a name="14"></a>14. 复兴1930年代的模块化货运自行车设计 
 <small>🔗 [core77.com](https://www.core77.com/posts/136773/Reviving-a-Modular-Cargo-Bike-Design-from-the-1930s): Reviving a modular cargo bike design from the 1930s</small>
 
 
-| 🔥🔥: 121 \| 💬: [97](https://news.ycombinator.com/item?id=43963397) \| 🗓️ 2025-05-12
+| 🔥🔥: 126 \| 💬: [100](https://news.ycombinator.com/item?id=43963397) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -204,7 +204,7 @@ USENIX宣布停办其旗舰会议**年度技术大会（ATC）**，这一始于1
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/cj3j5gxgz0do): Ex-UK Special Forces break silence on 'war crimes' by colleagues</small>
 
 
-| 🔥🔥: 115 \| 💬: [49](https://news.ycombinator.com/item?id=43964885) \| 🗓️ 2025-05-12
+| 🔥🔥: 120 \| 💬: [54](https://news.ycombinator.com/item?id=43964885) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -212,23 +212,11 @@ USENIX宣布停办其旗舰会议**年度技术大会（ATC）**，这一始于1
 
 ---
 
-## <a name="16"></a>16. 美国交通高死亡率是政策选择的结果 
-<small>🔗 [asteriskmag.com](https://asteriskmag.com/issues/10/traffic-fatalities-are-a-choice): Traffic Fatalities Are a Choice</small>
-
-
-| 🔥🔥: 111 \| 💬: [155](https://news.ycombinator.com/item?id=43964304) \| 🗓️ 2025-05-12
-
-
-<br />
-美国道路死亡率（12.8人/10万）是发达国家的两到六倍，2022年造成4.2万人死亡。**安全系统方法**（**Safe System**）通过道路设计减少人为错误，如荷兰的自行车道和瑞典的**2+1道路**，使这些国家死亡率骤降。美国虽有个别城市试点改造（如芝加哥保护性自行车道），但缺乏全国性政策协调，州级部门常阻碍地方改革。联邦虽口头支持安全系统，却未落实资金或强制标准，导致事故预防效果有限。
-
----
-
-## <a name="17"></a>17. Airweave：让智能代理无缝搜索任何应用的工具 
+## <a name="16"></a>16. Airweave：让智能代理无缝搜索任何应用的工具 
 <small>🔗 [github.com](https://github.com/airweave-ai/airweave): Show HN: Airweave – Let agents search any app</small>
 
 
-| 🔥🔥: 105 \| 💬: [30](https://news.ycombinator.com/item?id=43964201) \| 🗓️ 2025-05-12
+| 🔥🔥: 112 \| 💬: [32](https://news.ycombinator.com/item?id=43964201) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -236,11 +224,23 @@ Airweave 是一个支持**智能代理**语义化搜索任何应用的平台，�
 
 ---
 
+## <a name="17"></a>17. 美国交通高死亡率是政策选择的结果 
+<small>🔗 [asteriskmag.com](https://asteriskmag.com/issues/10/traffic-fatalities-are-a-choice): Traffic Fatalities Are a Choice</small>
+
+
+| 🔥🔥: 112 \| 💬: [156](https://news.ycombinator.com/item?id=43964304) \| 🗓️ 2025-05-12
+
+
+<br />
+美国道路死亡率（12.8人/10万）是发达国家的两到六倍，2022年造成4.2万人死亡。**安全系统方法**（**Safe System**）通过道路设计减少人为错误，如荷兰的自行车道和瑞典的**2+1道路**，使这些国家死亡率骤降。美国虽有个别城市试点改造（如芝加哥保护性自行车道），但缺乏全国性政策协调，州级部门常阻碍地方改革。联邦虽口头支持安全系统，却未落实资金或强制标准，导致事故预防效果有限。
+
+---
+
 ## <a name="18"></a>18. 为何国家实验室正大力投资人工智能？ 
-<small>🔗 [lanl.gov](https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet): Why National Labs are investing (heavily) in AI</small>
+<small>🔗 [lanl.gov](https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet): A conversation about AI for science with Jason Pruet</small>
 
 
-| 🔥🔥: 102 \| 💬: [79](https://news.ycombinator.com/item?id=43966843) \| 🗓️ 2025-05-12
+| 🔥🔥: 112 \| 💬: [92](https://news.ycombinator.com/item?id=43966843) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -248,11 +248,23 @@ Airweave 是一个支持**智能代理**语义化搜索任何应用的平台，�
 
 ---
 
-## <a name="19"></a>19. Spade：一种简化硬件设计的现代语言 
+## <a name="19"></a>19. 打造本地化、设备端的专属Siri助手 
+<small>🔗 [thehyperplane.substack.com](https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device): Build your own Siri locally and on-device</small>
+
+
+| 🔥🔥: 108 \| 💬: [21](https://news.ycombinator.com/item?id=43966694) \| 🗓️ 2025-05-12
+
+
+<br />
+本文介绍如何构建一个**完全离线运行**的语音助手，无需依赖云端服务，保障用户隐私。通过**微调LLaMA 3.1模型**并整合Whisper语音识别，实现自然语言指令到本地功能的直接调用（如锁屏、笔记等）。课程涵盖数据集构建、模型量化（GGUF格式）及端到端部署，特别适合开发隐私优先应用或敏感场景的团队。核心优势在于**数据完全存储在设备端**，且支持macOS/Linux/移动平台。
+
+---
+
+## <a name="20"></a>20. Spade：一种简化硬件设计的现代语言 
 <small>🔗 [spade-lang.org](https://spade-lang.org/): Spade Hardware Description Language</small>
 
 
-| 🔥🔥: 101 \| 💬: [51](https://news.ycombinator.com/item?id=43962138) \| 🗓️ 2025-05-12
+| 🔥🔥: 101 \| 💬: [52](https://news.ycombinator.com/item?id=43962138) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -265,11 +277,11 @@ Spade仍处早期阶段，但已支持生成Verilog，适用于学术与工业�
 
 ---
 
-## <a name="20"></a>20. Tailscale 4via6：规模化连接边缘部署的解决方案 
+## <a name="21"></a>21. Tailscale 4via6：规模化连接边缘部署的解决方案 
 <small>🔗 [tailscale.com](https://tailscale.com/blog/4via6-connectivity-to-edge-devices): Tailscale 4via6 – Connect Edge Deployments at Scale</small>
 
 
-| 🔥: 94 \| 💬: [23](https://news.ycombinator.com/item?id=43962992) \| 🗓️ 2025-05-12
+| 🔥: 96 \| 💬: [26](https://news.ycombinator.com/item?id=43962992) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -277,11 +289,11 @@ Tailscale推出**4via6子网路由**功能，专为解决复杂边缘部署中�
 
 ---
 
-## <a name="21"></a>21. GitHub仓库风险检测工具：自动识别虚假Star与依赖陷阱 
+## <a name="22"></a>22. GitHub仓库风险检测工具：自动识别虚假Star与依赖陷阱 
 <small>🔗 [github.com](https://github.com/m-ahmed-elbeskeri/Starguard): Show HN: CLI that spots fake GitHub stars, risky dependencies and licence traps</small>
 
 
-| 🔥: 92 \| 💬: [59](https://news.ycombinator.com/item?id=43962427) \| 🗓️ 2025-05-12
+| 🔥: 94 \| 💬: [59](https://news.ycombinator.com/item?id=43962427) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -289,23 +301,11 @@ StarGuard是一款**CLI工具**，专为检测GitHub仓库风险设计，包括*
 
 ---
 
-## <a name="22"></a>22. 打造本地化、设备端的专属Siri助手 
-<small>🔗 [thehyperplane.substack.com](https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device): Build your own Siri locally and on-device</small>
-
-
-| 🔥: 90 \| 💬: [17](https://news.ycombinator.com/item?id=43966694) \| 🗓️ 2025-05-12
-
-
-<br />
-本文介绍如何构建一个**完全离线运行**的语音助手，无需依赖云端服务，保障用户隐私。通过**微调LLaMA 3.1模型**并整合Whisper语音识别，实现自然语言指令到本地功能的直接调用（如锁屏、笔记等）。课程涵盖数据集构建、模型量化（GGUF格式）及端到端部署，特别适合开发隐私优先应用或敏感场景的团队。核心优势在于**数据完全存储在设备端**，且支持macOS/Linux/移动平台。
-
----
-
 ## <a name="23"></a>23. 字节潜在变换器：块比词元更具扩展性 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2412.09871): Byte latent transformer: Patches scale better than tokens</small>
 
 
-| 🔥: 89 \| 💬: [21](https://news.ycombinator.com/item?id=43965099) \| 🗓️ 2025-05-12
+| 🔥: 92 \| 💬: [21](https://news.ycombinator.com/item?id=43965099) \| 🗓️ 2025-05-12
 
 
 <br />
