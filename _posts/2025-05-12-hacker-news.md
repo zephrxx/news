@@ -27,7 +27,7 @@ tags:
 <small>🔗 [alexschapiro.com](https://alexschapiro.com/blog/security/vulnerability/2025/04/21/startups-need-to-take-security-seriously): I hacked a dating app (and how not to treat a security researcher)</small>
 
 
-| 🔥🔥: 485 \| 💬: [276](https://news.ycombinator.com/item?id=43964937) \| 🗓️ 2025-05-12
+| 🔥🔥: 489 \| 💬: [279](https://news.ycombinator.com/item?id=43964937) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [arslan.io](https://arslan.io/2025/05/12/barbican-estate/): The Barbican</small>
 
 
-| 🔥🔥: 454 \| 💬: [158](https://news.ycombinator.com/item?id=43964136) \| 🗓️ 2025-05-12
+| 🔥🔥: 477 \| 💬: [162](https://news.ycombinator.com/item?id=43964136) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [technicalwriting.dev](https://technicalwriting.dev/ml/embeddings/overview.html): Embeddings are underrated (2024)</small>
 
 
-| 🔥🔥: 449 \| 💬: [140](https://news.ycombinator.com/item?id=43963868) \| 🗓️ 2025-05-12
+| 🔥🔥: 450 \| 💬: [140](https://news.ycombinator.com/item?id=43963868) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [theregister.com](https://www.theregister.com/2025/05/12/us_copyright_office_ai_copyright/): US Copyright Office found AI companies breach copyright. Its boss was fired</small>
 
 
-| 🔥🔥: 427 \| 💬: [367](https://news.ycombinator.com/item?id=43961247) \| 🗓️ 2025-05-12
+| 🔥🔥: 428 \| 💬: [371](https://news.ycombinator.com/item?id=43961247) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [theverge.com](https://www.theverge.com/news/664730/ftc-delay-click-to-cancel-rule): The FTC puts off enforcing its 'click-to-cancel' rule</small>
 
 
-| 🔥🔥: 304 \| 💬: [186](https://news.ycombinator.com/item?id=43962528) \| 🗓️ 2025-05-12
+| 🔥🔥: 307 \| 💬: [189](https://news.ycombinator.com/item?id=43962528) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [comaps.app](https://www.comaps.app/news/2025-05-12/3/): A community-led fork of Organic Maps</small>
 
 
-| 🔥🔥: 284 \| 💬: [187](https://news.ycombinator.com/item?id=43961908) \| 🗓️ 2025-05-12
+| 🔥🔥: 289 \| 💬: [190](https://news.ycombinator.com/item?id=43961908) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -97,23 +97,11 @@ tags:
 
 ---
 
-## <a name="7"></a>7. 德州大学团队突破核聚变能源关键难题 
-<small>🔗 [news.utexas.edu](https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/): University of Texas-led team solves a big problem for fusion energy</small>
-
-
-| 🔥🔥: 223 \| 💬: [156](https://news.ycombinator.com/item?id=43962148) \| 🗓️ 2025-05-12
-
-
-<br />
-由德州大学奥斯汀分校、洛斯阿拉莫斯国家实验室和Type One Energy Group组成的研究团队，在《物理评论快报》发表论文，解决了**仿星器**（一种核聚变装置）中**高能粒子泄漏**的长期难题。传统方法需耗费大量计算资源定位磁场漏洞，而新方法基于**对称性理论**，将设计效率提升10倍且不损失精度。该突破为1950年代提出的仿星器设计扫清了最大障碍，并可能应用于托卡马克装置中的逃逸电子问题。团队称这是"70年来未解难题的范式转变"。研究获美国能源部支持。
-
----
-
-## <a name="8"></a>8. macOS权限弹窗还能信任吗？ 
+## <a name="7"></a>7. macOS权限弹窗还能信任吗？ 
 <small>🔗 [wts.dev](https://wts.dev/posts/tcc-who/): Can you trust that permission pop-up on macOS?</small>
 
 
-| 🔥🔥: 223 \| 💬: [161](https://news.ycombinator.com/item?id=43966089) \| 🗓️ 2025-05-12
+| 🔥🔥: 239 \| 💬: [168](https://news.ycombinator.com/item?id=43966089) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -121,11 +109,38 @@ tags:
 
 ---
 
-## <a name="9"></a>9. Ruby 3.5 新特性：读取时命名空间 
+## <a name="8"></a>8. 德州大学团队突破核聚变能源关键难题 
+<small>🔗 [news.utexas.edu](https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/): University of Texas-led team solves a big problem for fusion energy</small>
+
+
+| 🔥🔥: 232 \| 💬: [157](https://news.ycombinator.com/item?id=43962148) \| 🗓️ 2025-05-12
+
+
+<br />
+由德州大学奥斯汀分校、洛斯阿拉莫斯国家实验室和Type One Energy Group组成的研究团队，在《物理评论快报》发表论文，解决了**仿星器**（一种核聚变装置）中**高能粒子泄漏**的长期难题。传统方法需耗费大量计算资源定位磁场漏洞，而新方法基于**对称性理论**，将设计效率提升10倍且不损失精度。该突破为1950年代提出的仿星器设计扫清了最大障碍，并可能应用于托卡马克装置中的逃逸电子问题。团队称这是"70年来未解难题的范式转变"。研究获美国能源部支持。
+
+---
+
+## <a name="9"></a>9. 苹果发布FastVLM：速度大幅提升的高效视觉语言模型 
+<small>🔗 [github.com](https://github.com/apple/ml-fastvlm): Fastvlm: Efficient vision encoding for vision language models</small>
+
+
+| 🔥🔥: 196 \| 💬: [37](https://news.ycombinator.com/item?id=43968897) \| 🗓️ 2025-05-12
+
+
+<br />
+该仓库是CVPR 2025论文《**FastVLM**：高效视觉语言模型的视觉编码技术》的官方实现，核心亮点包括：  
+1. 提出**FastViTHD**混合视觉编码器，显著减少高分辨率图像的编码时间和输出令牌数；  
+2. 最小模型性能超越LLaVA-0.5B，**视觉编码速度快85倍**且体积缩小3.4倍；  
+3. 支持iOS演示应用，并提供模型训练、推理及苹果设备部署指南。论文代码开源，含多阶段预训练模型和量化工具。
+
+---
+
+## <a name="10"></a>10. Ruby 3.5 新特性：读取时命名空间 
 <small>🔗 [bugs.ruby-lang.org](https://bugs.ruby-lang.org/issues/21311): Ruby 3.5 Feature: Namespace on read</small>
 
 
-| 🔥🔥: 190 \| 💬: [88](https://news.ycombinator.com/item?id=43962770) \| 🗓️ 2025-05-12
+| 🔥🔥: 192 \| 💬: [91](https://news.ycombinator.com/item?id=43962770) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -140,38 +155,11 @@ Ruby 3.5 将引入一项实验性功能——**读取时命名空间**，允许�
 
 ---
 
-## <a name="10"></a>10. 苹果发布FastVLM：速度大幅提升的高效视觉语言模型 
-<small>🔗 [github.com](https://github.com/apple/ml-fastvlm): Fastvlm: Efficient vision encoding for vision language models</small>
-
-
-| 🔥🔥: 168 \| 💬: [34](https://news.ycombinator.com/item?id=43968897) \| 🗓️ 2025-05-12
-
-
-<br />
-该仓库是CVPR 2025论文《**FastVLM**：高效视觉语言模型的视觉编码技术》的官方实现，核心亮点包括：  
-1. 提出**FastViTHD**混合视觉编码器，显著减少高分辨率图像的编码时间和输出令牌数；  
-2. 最小模型性能超越LLaVA-0.5B，**视觉编码速度快85倍**且体积缩小3.4倍；  
-3. 支持iOS演示应用，并提供模型训练、推理及苹果设备部署指南。论文代码开源，含多阶段预训练模型和量化工具。
-
----
-
-## <a name="11"></a>11. 就用HTML，别整那些没用的 
-<small>🔗 [justfuckingusehtml.com](https://justfuckingusehtml.com): Just use HTML</small>
-
-
-| 🔥🔥: 156 \| 💬: [142](https://news.ycombinator.com/item?id=43962942) \| 🗓️ 2025-05-12
-
-
-<br />
-这篇文章用激烈言辞抨击现代前端框架的过度复杂化，**强调HTML作为网页基础语言的持久性和实用性**。作者指出HTML无需依赖框架就能实现按钮、表单、对话框等基础功能，且**兼容性极强**，而现代框架却带来依赖臃肿、部署繁琐等问题。文中还嘲讽了“水合错误”等框架术语，并举例说明HTML原生支持的交互功能（如折叠面板、弹窗）。最后呼吁开发者回归本质：**“HTML早把车造好了，你却在 reinvent the wheel”**。
-
----
-
-## <a name="12"></a>12. 复兴1930年代的模块化货运自行车设计 
+## <a name="11"></a>11. 复兴1930年代的模块化货运自行车设计 
 <small>🔗 [core77.com](https://www.core77.com/posts/136773/Reviving-a-Modular-Cargo-Bike-Design-from-the-1930s): Reviving a modular cargo bike design from the 1930s</small>
 
 
-| 🔥🔥: 151 \| 💬: [128](https://news.ycombinator.com/item?id=43963397) \| 🗓️ 2025-05-12
+| 🔥🔥: 160 \| 💬: [131](https://news.ycombinator.com/item?id=43963397) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -179,11 +167,23 @@ Ruby 3.5 将引入一项实验性功能——**读取时命名空间**，允许�
 
 ---
 
+## <a name="12"></a>12. 就用HTML，别整那些没用的 
+<small>🔗 [justfuckingusehtml.com](https://justfuckingusehtml.com): Just use HTML</small>
+
+
+| 🔥🔥: 156 \| 💬: [144](https://news.ycombinator.com/item?id=43962942) \| 🗓️ 2025-05-12
+
+
+<br />
+这篇文章用激烈言辞抨击现代前端框架的过度复杂化，**强调HTML作为网页基础语言的持久性和实用性**。作者指出HTML无需依赖框架就能实现按钮、表单、对话框等基础功能，且**兼容性极强**，而现代框架却带来依赖臃肿、部署繁琐等问题。文中还嘲讽了“水合错误”等框架术语，并举例说明HTML原生支持的交互功能（如折叠面板、弹窗）。最后呼吁开发者回归本质：**“HTML早把车造好了，你却在 reinvent the wheel”**。
+
+---
+
 ## <a name="13"></a>13. USENIX年度技术大会落幕：一个时代的终结 
 <small>🔗 [bcantrill.dtrace.org](https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/): RIP Usenix ATC</small>
 
 
-| 🔥🔥: 148 \| 💬: [33](https://news.ycombinator.com/item?id=43964827) \| 🗓️ 2025-05-12
+| 🔥🔥: 156 \| 💬: [34](https://news.ycombinator.com/item?id=43964827) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -219,7 +219,7 @@ USENIX宣布停办其旗舰会议**年度技术大会（ATC）**，这一始于1
 <small>🔗 [lanl.gov](https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet): A conversation about AI for science with Jason Pruet</small>
 
 
-| 🔥🔥: 136 \| 💬: [108](https://news.ycombinator.com/item?id=43966843) \| 🗓️ 2025-05-12
+| 🔥🔥: 140 \| 💬: [114](https://news.ycombinator.com/item?id=43966843) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -227,23 +227,11 @@ USENIX宣布停办其旗舰会议**年度技术大会（ATC）**，这一始于1
 
 ---
 
-## <a name="17"></a>17. Airweave：让智能代理无缝搜索任何应用的工具 
-<small>🔗 [github.com](https://github.com/airweave-ai/airweave): Show HN: Airweave – Let agents search any app</small>
-
-
-| 🔥🔥: 135 \| 💬: [34](https://news.ycombinator.com/item?id=43964201) \| 🗓️ 2025-05-12
-
-
-<br />
-Airweave 是一个支持**智能代理**语义化搜索任何应用的平台，兼容MCP协议，可无缝连接应用、数据库或API，将其内容转化为代理可用的知识库。它提供**数据同步**、实体提取、版本管理及语义搜索功能，支持25+数据源，并配备Python/TypeScript SDK。技术栈包括React、FastAPI和Qdrant，采用MIT开源协议，适合开发者快速集成。
-
----
-
-## <a name="18"></a>18. 打造本地化、设备端的专属Siri助手 
+## <a name="17"></a>17. 打造本地化、设备端的专属Siri助手 
 <small>🔗 [thehyperplane.substack.com](https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device): Build your own Siri locally and on-device</small>
 
 
-| 🔥🔥: 134 \| 💬: [31](https://news.ycombinator.com/item?id=43966694) \| 🗓️ 2025-05-12
+| 🔥🔥: 139 \| 💬: [31](https://news.ycombinator.com/item?id=43966694) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -251,11 +239,23 @@ Airweave 是一个支持**智能代理**语义化搜索任何应用的平台，�
 
 ---
 
+## <a name="18"></a>18. Airweave：让智能代理无缝搜索任何应用的工具 
+<small>🔗 [github.com](https://github.com/airweave-ai/airweave): Show HN: Airweave – Let agents search any app</small>
+
+
+| 🔥🔥: 138 \| 💬: [34](https://news.ycombinator.com/item?id=43964201) \| 🗓️ 2025-05-12
+
+
+<br />
+Airweave 是一个支持**智能代理**语义化搜索任何应用的平台，兼容MCP协议，可无缝连接应用、数据库或API，将其内容转化为代理可用的知识库。它提供**数据同步**、实体提取、版本管理及语义搜索功能，支持25+数据源，并配备Python/TypeScript SDK。技术栈包括React、FastAPI和Qdrant，采用MIT开源协议，适合开发者快速集成。
+
+---
+
 ## <a name="19"></a>19. 英国特种部队前成员揭露战友涉嫌战争罪行 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/cj3j5gxgz0do): Ex-UK Special Forces break silence on 'war crimes' by colleagues</small>
 
 
-| 🔥🔥: 126 \| 💬: [61](https://news.ycombinator.com/item?id=43964885) \| 🗓️ 2025-05-12
+| 🔥🔥: 128 \| 💬: [61](https://news.ycombinator.com/item?id=43964885) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -267,7 +267,7 @@ Airweave 是一个支持**智能代理**语义化搜索任何应用的平台，�
 <small>🔗 [asteriskmag.com](https://asteriskmag.com/issues/10/traffic-fatalities-are-a-choice): Traffic Fatalities Are a Choice</small>
 
 
-| 🔥🔥: 116 \| 💬: [161](https://news.ycombinator.com/item?id=43964304) \| 🗓️ 2025-05-12
+| 🔥🔥: 118 \| 💬: [162](https://news.ycombinator.com/item?id=43964304) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -279,7 +279,7 @@ Airweave 是一个支持**智能代理**语义化搜索任何应用的平台，�
 <small>🔗 [spade-lang.org](https://spade-lang.org/): Spade Hardware Description Language</small>
 
 
-| 🔥🔥: 105 \| 💬: [53](https://news.ycombinator.com/item?id=43962138) \| 🗓️ 2025-05-12
+| 🔥🔥: 106 \| 💬: [53](https://news.ycombinator.com/item?id=43962138) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -296,7 +296,7 @@ Spade仍处早期阶段，但已支持生成Verilog，适用于学术与工业�
 <small>🔗 [tailscale.com](https://tailscale.com/blog/4via6-connectivity-to-edge-devices): Tailscale 4via6 – Connect Edge Deployments at Scale</small>
 
 
-| 🔥🔥: 102 \| 💬: [31](https://news.ycombinator.com/item?id=43962992) \| 🗓️ 2025-05-12
+| 🔥🔥: 104 \| 💬: [32](https://news.ycombinator.com/item?id=43962992) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -320,7 +320,7 @@ Tailscale推出**4via6子网路由**功能，专为解决复杂边缘部署中�
 <small>🔗 [github.com](https://github.com/m-ahmed-elbeskeri/Starguard): Show HN: CLI that spots fake GitHub stars, risky dependencies and licence traps</small>
 
 
-| 🔥: 99 \| 💬: [62](https://news.ycombinator.com/item?id=43962427) \| 🗓️ 2025-05-12
+| 🔥: 100 \| 💬: [62](https://news.ycombinator.com/item?id=43962427) \| 🗓️ 2025-05-12
 
 
 <br />
