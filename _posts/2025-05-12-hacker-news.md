@@ -10,13 +10,13 @@ tags:
 
 1. 我黑了一个交友软件（以及如何错误对待安全研究员）；
 1. 嵌入技术被严重低估了；
-1. 美国版权局认定AI公司侵权 局长次日遭解雇；
 1. 巴比肯艺术中心的建筑奇遇；
+1. 美国版权局认定AI公司侵权 局长次日遭解雇；
 1. FTC推迟执行“一键取消”新规；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [alexschapiro.com](https://alexschapiro.com/blog/security/vulnerability/2025/04/21/startups-need-to-take-security-seriously): I hacked a dating app (and how not to treat a security researcher)</small>
 
 
-| 🔥🔥: 463 \| 💬: [268](https://news.ycombinator.com/item?id=43964937) \| 🗓️ 2025-05-12
+| 🔥🔥: 468 \| 💬: [270](https://news.ycombinator.com/item?id=43964937) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [technicalwriting.dev](https://technicalwriting.dev/ml/embeddings/overview.html): Embeddings are underrated (2024)</small>
 
 
-| 🔥🔥: 447 \| 💬: [137](https://news.ycombinator.com/item?id=43963868) \| 🗓️ 2025-05-12
+| 🔥🔥: 447 \| 💬: [138](https://news.ycombinator.com/item?id=43963868) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -47,23 +47,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 美国版权局认定AI公司侵权 局长次日遭解雇 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/05/12/us_copyright_office_ai_copyright/): US Copyright Office found AI companies breach copyright. Its boss was fired</small>
-
-
-| 🔥🔥: 418 \| 💬: [353](https://news.ycombinator.com/item?id=43961247) \| 🗓️ 2025-05-12
-
-
-<br />
-美国版权局发布报告草案，指出**AI公司在商业用途中使用受版权保护的内容训练模型**，已超出合理使用范围。报告认为，此类行为可能损害原创作品市场价值，对正在诉讼中的谷歌、Meta等公司不利。次日，局长希拉·珀尔穆特被特朗普政府解雇。民主党议员质疑此举与**马斯克推动AI训练免版权计划**有关，而白宫则称解雇是因图书馆（版权局上级机构）负责人“过度推行DEI政策”。事件引发对AI版权争议与政治干预的担忧。
-
----
-
-## <a name="4"></a>4. 巴比肯艺术中心的建筑奇遇 
+## <a name="3"></a>3. 巴比肯艺术中心的建筑奇遇 
 <small>🔗 [arslan.io](https://arslan.io/2025/05/12/barbican-estate/): The Barbican</small>
 
 
-| 🔥🔥: 403 \| 💬: [153](https://news.ycombinator.com/item?id=43964136) \| 🗓️ 2025-05-12
+| 🔥🔥: 424 \| 💬: [154](https://news.ycombinator.com/item?id=43964136) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -71,11 +59,23 @@ tags:
 
 ---
 
+## <a name="4"></a>4. 美国版权局认定AI公司侵权 局长次日遭解雇 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/05/12/us_copyright_office_ai_copyright/): US Copyright Office found AI companies breach copyright. Its boss was fired</small>
+
+
+| 🔥🔥: 422 \| 💬: [362](https://news.ycombinator.com/item?id=43961247) \| 🗓️ 2025-05-12
+
+
+<br />
+美国版权局发布报告草案，指出**AI公司在商业用途中使用受版权保护的内容训练模型**，已超出合理使用范围。报告认为，此类行为可能损害原创作品市场价值，对正在诉讼中的谷歌、Meta等公司不利。次日，局长希拉·珀尔穆特被特朗普政府解雇。民主党议员质疑此举与**马斯克推动AI训练免版权计划**有关，而白宫则称解雇是因图书馆（版权局上级机构）负责人“过度推行DEI政策”。事件引发对AI版权争议与政治干预的担忧。
+
+---
+
 ## <a name="5"></a>5. FTC推迟执行“一键取消”新规 
 <small>🔗 [theverge.com](https://www.theverge.com/news/664730/ftc-delay-click-to-cancel-rule): The FTC puts off enforcing its 'click-to-cancel' rule</small>
 
 
-| 🔥🔥: 292 \| 💬: [179](https://news.ycombinator.com/item?id=43962528) \| 🗓️ 2025-05-12
+| 🔥🔥: 298 \| 💬: [182](https://news.ycombinator.com/item?id=43962528) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [comaps.app](https://www.comaps.app/news/2025-05-12/3/): A community-led fork of Organic Maps</small>
 
 
-| 🔥🔥: 272 \| 💬: [181](https://news.ycombinator.com/item?id=43961908) \| 🗓️ 2025-05-12
+| 🔥🔥: 278 \| 💬: [183](https://news.ycombinator.com/item?id=43961908) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -101,7 +101,7 @@ tags:
 <small>🔗 [news.utexas.edu](https://news.utexas.edu/2025/05/05/university-of-texas-led-team-solves-a-big-problem-for-fusion-energy/): University of Texas-led team solves a big problem for fusion energy</small>
 
 
-| 🔥🔥: 212 \| 💬: [151](https://news.ycombinator.com/item?id=43962148) \| 🗓️ 2025-05-12
+| 🔥🔥: 214 \| 💬: [151](https://news.ycombinator.com/item?id=43962148) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -109,11 +109,23 @@ tags:
 
 ---
 
-## <a name="8"></a>8. Ruby 3.5 新特性：读取时命名空间 
+## <a name="8"></a>8. macOS权限弹窗还能信任吗？ 
+<small>🔗 [wts.dev](https://wts.dev/posts/tcc-who/): Can you trust that permission pop-up on macOS?</small>
+
+
+| 🔥🔥: 186 \| 💬: [149](https://news.ycombinator.com/item?id=43966089) \| 🗓️ 2025-05-12
+
+
+<br />
+近日，macOS Sequoia 15.5修复了一个高危漏洞（CVE-2025-31250），该漏洞允许**恶意应用A**伪造**应用B**的权限请求弹窗，却将用户授权结果应用于**完全无关的应用C**。攻击者无需构建虚假应用或篡改Dock图标，仅需通过**XPC消息**向系统守护进程`tccd`发送特制指令即可实现欺骗。漏洞根源在于`TCCAccessRequestIndirect`函数未验证弹窗显示对象与实际权限接收对象的一致性，导致权限体系被绕过。尽管需用户点击授权，但该漏洞仍可能被用于诱导用户授予敏感权限（如访问摄像头或通讯录）。苹果通过更新修复了此逻辑缺陷。
+
+---
+
+## <a name="9"></a>9. Ruby 3.5 新特性：读取时命名空间 
 <small>🔗 [bugs.ruby-lang.org](https://bugs.ruby-lang.org/issues/21311): Ruby 3.5 Feature: Namespace on read</small>
 
 
-| 🔥🔥: 177 \| 💬: [84](https://news.ycombinator.com/item?id=43962770) \| 🗓️ 2025-05-12
+| 🔥🔥: 182 \| 💬: [86](https://news.ycombinator.com/item?id=43962770) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -128,23 +140,11 @@ Ruby 3.5 将引入一项实验性功能——**读取时命名空间**，允许�
 
 ---
 
-## <a name="9"></a>9. macOS权限弹窗还能信任吗？ 
-<small>🔗 [wts.dev](https://wts.dev/posts/tcc-who/): Can you trust that permission pop-up on macOS?</small>
-
-
-| 🔥🔥: 163 \| 💬: [136](https://news.ycombinator.com/item?id=43966089) \| 🗓️ 2025-05-12
-
-
-<br />
-近日，macOS Sequoia 15.5修复了一个高危漏洞（CVE-2025-31250），该漏洞允许**恶意应用A**伪造**应用B**的权限请求弹窗，却将用户授权结果应用于**完全无关的应用C**。攻击者无需构建虚假应用或篡改Dock图标，仅需通过**XPC消息**向系统守护进程`tccd`发送特制指令即可实现欺骗。漏洞根源在于`TCCAccessRequestIndirect`函数未验证弹窗显示对象与实际权限接收对象的一致性，导致权限体系被绕过。尽管需用户点击授权，但该漏洞仍可能被用于诱导用户授予敏感权限（如访问摄像头或通讯录）。苹果通过更新修复了此逻辑缺陷。
-
----
-
 ## <a name="10"></a>10. 就用HTML，别整那些没用的 
 <small>🔗 [justfuckingusehtml.com](https://justfuckingusehtml.com): Just use HTML</small>
 
 
-| 🔥🔥: 154 \| 💬: [137](https://news.ycombinator.com/item?id=43962942) \| 🗓️ 2025-05-12
+| 🔥🔥: 155 \| 💬: [137](https://news.ycombinator.com/item?id=43962942) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -156,7 +156,7 @@ Ruby 3.5 将引入一项实验性功能——**读取时命名空间**，允许�
 <small>🔗 [sfstandard.com](https://sfstandard.com/2025/05/08/jeffy-yu-zerebro-fake-death/): A crypto founder faked his death. We found him alive at his dad's house</small>
 
 
-| 🔥🔥: 145 \| 💬: [125](https://news.ycombinator.com/item?id=43962503) \| 🗓️ 2025-05-12
+| 🔥🔥: 146 \| 💬: [125](https://news.ycombinator.com/item?id=43962503) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -168,7 +168,7 @@ Ruby 3.5 将引入一项实验性功能——**读取时命名空间**，允许�
 <small>🔗 [hrw.org](https://www.hrw.org/news/2025/05/12/us-major-companies-violate-gig-workers-rights): Gig Companies Violate Workers Rights</small>
 
 
-| 🔥🔥: 141 \| 💬: [89](https://news.ycombinator.com/item?id=43962535) \| 🗓️ 2025-05-12
+| 🔥🔥: 143 \| 💬: [90](https://news.ycombinator.com/item?id=43962535) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -180,7 +180,7 @@ Ruby 3.5 将引入一项实验性功能——**读取时命名空间**，允许�
 <small>🔗 [bcantrill.dtrace.org](https://bcantrill.dtrace.org/2025/05/11/rip-usenix-atc/): RIP Usenix ATC</small>
 
 
-| 🔥🔥: 135 \| 💬: [29](https://news.ycombinator.com/item?id=43964827) \| 🗓️ 2025-05-12
+| 🔥🔥: 142 \| 💬: [32](https://news.ycombinator.com/item?id=43964827) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -192,7 +192,7 @@ USENIX宣布停办其旗舰会议**年度技术大会（ATC）**，这一始于1
 <small>🔗 [core77.com](https://www.core77.com/posts/136773/Reviving-a-Modular-Cargo-Bike-Design-from-the-1930s): Reviving a modular cargo bike design from the 1930s</small>
 
 
-| 🔥🔥: 133 \| 💬: [103](https://news.ycombinator.com/item?id=43963397) \| 🗓️ 2025-05-12
+| 🔥🔥: 141 \| 💬: [112](https://news.ycombinator.com/item?id=43963397) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -204,7 +204,7 @@ USENIX宣布停办其旗舰会议**年度技术大会（ATC）**，这一始于1
 <small>🔗 [lanl.gov](https://www.lanl.gov/media/publications/1663/0125-qa-jason-pruet): A conversation about AI for science with Jason Pruet</small>
 
 
-| 🔥🔥: 123 \| 💬: [95](https://news.ycombinator.com/item?id=43966843) \| 🗓️ 2025-05-12
+| 🔥🔥: 128 \| 💬: [101](https://news.ycombinator.com/item?id=43966843) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -212,23 +212,11 @@ USENIX宣布停办其旗舰会议**年度技术大会（ATC）**，这一始于1
 
 ---
 
-## <a name="16"></a>16. 英国特种部队前成员揭露战友涉嫌战争罪行 
-<small>🔗 [bbc.com](https://www.bbc.com/news/articles/cj3j5gxgz0do): Ex-UK Special Forces break silence on 'war crimes' by colleagues</small>
-
-
-| 🔥🔥: 121 \| 💬: [58](https://news.ycombinator.com/item?id=43964885) \| 🗓️ 2025-05-12
-
-
-<br />
-英国特种部队（包括SAS和SBS）前成员首次公开指控战友在伊拉克和阿富汗犯下**战争罪行**，包括杀害手无寸铁的平民、儿童和伤员。目击者称，士兵会伪造现场，如放置武器掩盖非法杀戮，并篡改行动报告以逃避调查。时任首相卡梅伦被曝多次收到相关警告，但未采取行动。目前英国已启动公开调查，但军方拒绝评论具体指控。**国际法严禁**此类行为，但部分士兵表现出"心理变态倾向"，甚至以杀人为乐。
-
----
-
-## <a name="17"></a>17. 打造本地化、设备端的专属Siri助手 
+## <a name="16"></a>16. 打造本地化、设备端的专属Siri助手 
 <small>🔗 [thehyperplane.substack.com](https://thehyperplane.substack.com/p/build-your-own-siri-locally-on-device): Build your own Siri locally and on-device</small>
 
 
-| 🔥🔥: 121 \| 💬: [23](https://news.ycombinator.com/item?id=43966694) \| 🗓️ 2025-05-12
+| 🔥🔥: 126 \| 💬: [25](https://news.ycombinator.com/item?id=43966694) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -236,11 +224,11 @@ USENIX宣布停办其旗舰会议**年度技术大会（ATC）**，这一始于1
 
 ---
 
-## <a name="18"></a>18. Airweave：让智能代理无缝搜索任何应用的工具 
+## <a name="17"></a>17. Airweave：让智能代理无缝搜索任何应用的工具 
 <small>🔗 [github.com](https://github.com/airweave-ai/airweave): Show HN: Airweave – Let agents search any app</small>
 
 
-| 🔥🔥: 116 \| 💬: [32](https://news.ycombinator.com/item?id=43964201) \| 🗓️ 2025-05-12
+| 🔥🔥: 125 \| 💬: [33](https://news.ycombinator.com/item?id=43964201) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -248,11 +236,23 @@ Airweave 是一个支持**智能代理**语义化搜索任何应用的平台，�
 
 ---
 
+## <a name="18"></a>18. 英国特种部队前成员揭露战友涉嫌战争罪行 
+<small>🔗 [bbc.com](https://www.bbc.com/news/articles/cj3j5gxgz0do): Ex-UK Special Forces break silence on 'war crimes' by colleagues</small>
+
+
+| 🔥🔥: 123 \| 💬: [60](https://news.ycombinator.com/item?id=43964885) \| 🗓️ 2025-05-12
+
+
+<br />
+英国特种部队（包括SAS和SBS）前成员首次公开指控战友在伊拉克和阿富汗犯下**战争罪行**，包括杀害手无寸铁的平民、儿童和伤员。目击者称，士兵会伪造现场，如放置武器掩盖非法杀戮，并篡改行动报告以逃避调查。时任首相卡梅伦被曝多次收到相关警告，但未采取行动。目前英国已启动公开调查，但军方拒绝评论具体指控。**国际法严禁**此类行为，但部分士兵表现出"心理变态倾向"，甚至以杀人为乐。
+
+---
+
 ## <a name="19"></a>19. 美国交通高死亡率是政策选择的结果 
 <small>🔗 [asteriskmag.com](https://asteriskmag.com/issues/10/traffic-fatalities-are-a-choice): Traffic Fatalities Are a Choice</small>
 
 
-| 🔥🔥: 114 \| 💬: [157](https://news.ycombinator.com/item?id=43964304) \| 🗓️ 2025-05-12
+| 🔥🔥: 116 \| 💬: [158](https://news.ycombinator.com/item?id=43964304) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -264,7 +264,7 @@ Airweave 是一个支持**智能代理**语义化搜索任何应用的平台，�
 <small>🔗 [spade-lang.org](https://spade-lang.org/): Spade Hardware Description Language</small>
 
 
-| 🔥🔥: 103 \| 💬: [53](https://news.ycombinator.com/item?id=43962138) \| 🗓️ 2025-05-12
+| 🔥🔥: 104 \| 💬: [53](https://news.ycombinator.com/item?id=43962138) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -277,7 +277,34 @@ Spade仍处早期阶段，但已支持生成Verilog，适用于学术与工业�
 
 ---
 
-## <a name="21"></a>21. 字节潜在变换器：块比词元更具扩展性 
+## <a name="21"></a>21. 苹果发布FastVLM：速度大幅提升的高效视觉语言模型 
+<small>🔗 [github.com](https://github.com/apple/ml-fastvlm): FastVLM: Dramatically Faster Vision Language Model from Apple</small>
+
+
+| 🔥🔥: 104 \| 💬: [17](https://news.ycombinator.com/item?id=43968897) \| 🗓️ 2025-05-12
+
+
+<br />
+该仓库是CVPR 2025论文《**FastVLM**：高效视觉语言模型的视觉编码技术》的官方实现，核心亮点包括：  
+1. 提出**FastViTHD**混合视觉编码器，显著减少高分辨率图像的编码时间和输出令牌数；  
+2. 最小模型性能超越LLaVA-0.5B，**视觉编码速度快85倍**且体积缩小3.4倍；  
+3. 支持iOS演示应用，并提供模型训练、推理及苹果设备部署指南。论文代码开源，含多阶段预训练模型和量化工具。
+
+---
+
+## <a name="22"></a>22. Tailscale 4via6：规模化连接边缘部署的解决方案 
+<small>🔗 [tailscale.com](https://tailscale.com/blog/4via6-connectivity-to-edge-devices): Tailscale 4via6 – Connect Edge Deployments at Scale</small>
+
+
+| 🔥: 99 \| 💬: [29](https://news.ycombinator.com/item?id=43962992) \| 🗓️ 2025-05-12
+
+
+<br />
+Tailscale推出**4via6子网路由**功能，专为解决复杂边缘部署中的网络难题，如IP冲突、多重NAT和严格防火墙限制。该功能支持在机器人、边缘设备或多VPC场景中无缝连接，无需管理IP或CIDR范围。**4via6**通过为每个网络分配唯一标识符，实现跨环境（如LTE、5G或卫星网络）的安全访问，同时支持云部署中的VPC互联。结合Tailscale的精细ACL策略，用户可轻松管理分布式设备，如传感器、摄像头或AI服务器，提升远程运维效率。
+
+---
+
+## <a name="23"></a>23. 字节潜在变换器：块比词元更具扩展性 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2412.09871): Byte latent transformer: Patches scale better than tokens (2024)</small>
 
 
@@ -289,23 +316,11 @@ Spade仍处早期阶段，但已支持生成Verilog，适用于学术与工业�
 
 ---
 
-## <a name="22"></a>22. Tailscale 4via6：规模化连接边缘部署的解决方案 
-<small>🔗 [tailscale.com](https://tailscale.com/blog/4via6-connectivity-to-edge-devices): Tailscale 4via6 – Connect Edge Deployments at Scale</small>
-
-
-| 🔥: 97 \| 💬: [29](https://news.ycombinator.com/item?id=43962992) \| 🗓️ 2025-05-12
-
-
-<br />
-Tailscale推出**4via6子网路由**功能，专为解决复杂边缘部署中的网络难题，如IP冲突、多重NAT和严格防火墙限制。该功能支持在机器人、边缘设备或多VPC场景中无缝连接，无需管理IP或CIDR范围。**4via6**通过为每个网络分配唯一标识符，实现跨环境（如LTE、5G或卫星网络）的安全访问，同时支持云部署中的VPC互联。结合Tailscale的精细ACL策略，用户可轻松管理分布式设备，如传感器、摄像头或AI服务器，提升远程运维效率。
-
----
-
-## <a name="23"></a>23. GitHub仓库风险检测工具：自动识别虚假Star与依赖陷阱 
+## <a name="24"></a>24. GitHub仓库风险检测工具：自动识别虚假Star与依赖陷阱 
 <small>🔗 [github.com](https://github.com/m-ahmed-elbeskeri/Starguard): Show HN: CLI that spots fake GitHub stars, risky dependencies and licence traps</small>
 
 
-| 🔥: 94 \| 💬: [60](https://news.ycombinator.com/item?id=43962427) \| 🗓️ 2025-05-12
+| 🔥: 97 \| 💬: [61](https://news.ycombinator.com/item?id=43962427) \| 🗓️ 2025-05-12
 
 
 <br />
@@ -313,7 +328,7 @@ StarGuard是一款**CLI工具**，专为检测GitHub仓库风险设计，包括*
 
 ---
 
-## <a name="24"></a>24. 保罗·麦卡特尼、埃尔顿·约翰等艺术家呼吁AI公司公开数据抓取行为 
+## <a name="25"></a>25. 保罗·麦卡特尼、埃尔顿·约翰等艺术家呼吁AI公司公开数据抓取行为 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/05/12/uk_creatives_ai_letter/): Paul McCartney, Elton John and other creatives demand AI comes clean on scraping</small>
 
 
