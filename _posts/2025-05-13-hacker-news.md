@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/ID_AA_Carmack/status/1922100771392520710): The world could run on older hardware if software optimization was a priority</small>
 
 
-| 🔥🔥: 527 \| 💬: [518](https://news.ycombinator.com/item?id=43971464) \| 🗓️ 2025-05-13
+| 🔥🔥: 552 \| 💬: [533](https://news.ycombinator.com/item?id=43971464) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [openwall.com](https://www.openwall.com/lists/oss-security/2025/05/12/1): Multiple security issues in GNU Screen</small>
 
 
-| 🔥🔥: 324 \| 💬: [189](https://news.ycombinator.com/item?id=43971716) \| 🗓️ 2025-05-13
+| 🔥🔥: 328 \| 💬: [195](https://news.ycombinator.com/item?id=43971716) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [comsec.ethz.ch](https://comsec.ethz.ch/research/microarch/branch-privilege-injection/): Branch Privilege Injection: Exploiting branch predictor race conditions</small>
 
 
-| 🔥🔥: 297 \| 💬: [109](https://news.ycombinator.com/item?id=43974891) \| 🗓️ 2025-05-13
+| 🔥🔥: 311 \| 💬: [120](https://news.ycombinator.com/item?id=43974891) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [wqtz.bearblog.dev](https://wqtz.bearblog.dev/high-stress-job-relationships/): In a high-stress work environment, prioritize relationships</small>
 
 
-| 🔥🔥: 270 \| 💬: [173](https://news.ycombinator.com/item?id=43972535) \| 🗓️ 2025-05-13
+| 🔥🔥: 277 \| 💬: [176](https://news.ycombinator.com/item?id=43972535) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [theregister.com](https://www.theregister.com/2025/05/13/nextcloud_play_store_complaint/): Nextcloud cries foul over Google Play Store app rejection</small>
 
 
-| 🔥🔥: 243 \| 💬: [153](https://news.ycombinator.com/item?id=43970959) \| 🗓️ 2025-05-13
+| 🔥🔥: 244 \| 💬: [153](https://news.ycombinator.com/item?id=43970959) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -83,35 +83,11 @@ tags:
 
 ---
 
-## <a name="6"></a>6. 我为何辞去美国国家科学基金会职务 
-<small>🔗 [time.com](https://time.com/7285045/resigning-national-science-foundation-library-congress/): Why I'm resigning from the National Science Foundation</small>
-
-
-| 🔥🔥: 214 \| 💬: [243](https://news.ycombinator.com/item?id=43973210) \| 🗓️ 2025-05-13
-
-
-<br />
-作者因**白宫威胁宪政民主**、削减科研经费，以及**联邦机构诚信受损**而辞职。文中指出，国家科学基金会（NSF）和国会图书馆的咨询职能已被架空，**科学自由受政治干预**，例如未经审查否决拨款、解雇倡导多元化的官员。辞职是对**知识管控**和**体制空洞化**的抗议，强调顾问角色需真正影响决策，而非沦为形式。作者引用赫希曼的“退出与发声”理论，表明离开是为更自由地批判现状，坚守机构初心。
-
----
-
-## <a name="7"></a>7. PDF文本提取：一个看似简单却极具挑战的技术难题 
-<small>🔗 [marginalia.nu](https://www.marginalia.nu/log/a_119_pdf/): PDF to Text, a challenging problem</small>
-
-
-| 🔥🔥: 204 \| 💬: [110](https://news.ycombinator.com/item?id=43973721) \| 🗓️ 2025-05-13
-
-
-<br />
-PDF本质是**图形格式**而非文本格式，其文字以**字形坐标映射**形式存储，导致提取时面临旋转、重叠、无序排列等难题。搜索引擎需要结构化HTML，但传统工具如PDFBox仅能提取原始文本，忽略**标题语义**等关键信息。改进方案通过统计每页字体大小（如正文中位值的120%识别标题）和行距分布优化段落划分，虽非完美但显著提升处理效果。学术论文等复杂排版仍存在多行标题合并等未解难题，但已能满足搜索引擎对核心内容抓取的需求。
-
----
-
-## <a name="8"></a>8. 2025年了，银行为何还在用落后的身份验证？ 
+## <a name="6"></a>6. 2025年了，银行为何还在用落后的身份验证？ 
 <small>🔗 [jamal.haba.sh](https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/): Why are banks still getting authentication so wrong?</small>
 
 
-| 🔥🔥: 199 \| 💬: [260](https://news.ycombinator.com/item?id=43976359) \| 🗓️ 2025-05-13
+| 🔥🔥: 220 \| 💬: [288](https://news.ycombinator.com/item?id=43976359) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -119,35 +95,35 @@ PDF本质是**图形格式**而非文本格式，其文字以**字形坐标映�
 
 ---
 
-## <a name="9"></a>9. 奥丁：为我量身打造的高效编程语言 
-<small>🔗 [zylinski.se](https://zylinski.se/posts/a-programming-language-for-me/): Odin: A programming language made for me</small>
+## <a name="7"></a>7. 我为何辞去美国国家科学基金会职务 
+<small>🔗 [time.com](https://time.com/7285045/resigning-national-science-foundation-library-congress/): Why I'm resigning from the National Science Foundation</small>
 
 
-| 🔥🔥: 162 \| 💬: [175](https://news.ycombinator.com/item?id=43970800) \| 🗓️ 2025-05-13
-
-
-<br />
-作者Karl Zylinski分享了他对**奥丁语言**的喜爱，认为它完美融合了C语言的高效实践与现代特性。文中重点介绍了**自定义分配器**（如临时分配器、追踪分配器）、**零值初始化**（ZII）和**缓存友好编程**（如#soa数组布局）等核心设计，这些特性直接内置于语言基础库，简化了内存管理并提升性能。奥丁保持了C的简洁性，同时引入泛型等现代功能，适合游戏开发等场景。作者强调，奥丁的易用性源于其与自身C编程经验的契合，但也推荐新手通过他的书籍系统学习。
-
----
-
-## <a name="10"></a>10. 暮光操作系统：为文明崩溃设计的极简计算系统 
-<small>🔗 [duskos.org](https://duskos.org/): Dusk OS</small>
-
-
-| 🔥🔥: 156 \| 💬: [97](https://news.ycombinator.com/item?id=43976862) \| 🗓️ 2025-05-13
+| 🔥🔥: 216 \| 💬: [250](https://news.ycombinator.com/item?id=43973210) \| 🗓️ 2025-05-13
 
 
 <br />
-**暮光操作系统（Dusk OS）** 是一款32位Forth系统，专为**文明崩溃初期**设计，目标是在无法生产现代计算机时仍能利用现有设备。其核心设计理念是**极简主义**，通过牺牲传统约束实现高“功率密度”，并内置**类C编译器**以复用UNIX代码。支持多种硬件架构（如i386、ARM、RISC-V），仅需6000行代码即可实现自举，包含编辑器、汇编器等工具。系统强调**操作者控制权**，无并发设计允许直接硬件操控，挑战现代软件堆栈的复杂性。
+作者因**白宫威胁宪政民主**、削减科研经费，以及**联邦机构诚信受损**而辞职。文中指出，国家科学基金会（NSF）和国会图书馆的咨询职能已被架空，**科学自由受政治干预**，例如未经审查否决拨款、解雇倡导多元化的官员。辞职是对**知识管控**和**体制空洞化**的抗议，强调顾问角色需真正影响决策，而非沦为形式。作者引用赫希曼的“退出与发声”理论，表明离开是为更自由地批判现状，坚守机构初心。
 
 ---
 
-## <a name="11"></a>11. 谷歌秘密开发安卓桌面模式，挑战三星DeX 
+## <a name="8"></a>8. PDF文本提取：一个看似简单却极具挑战的技术难题 
+<small>🔗 [marginalia.nu](https://www.marginalia.nu/log/a_119_pdf/): PDF to Text, a challenging problem</small>
+
+
+| 🔥🔥: 215 \| 💬: [118](https://news.ycombinator.com/item?id=43973721) \| 🗓️ 2025-05-13
+
+
+<br />
+PDF本质是**图形格式**而非文本格式，其文字以**字形坐标映射**形式存储，导致提取时面临旋转、重叠、无序排列等难题。搜索引擎需要结构化HTML，但传统工具如PDFBox仅能提取原始文本，忽略**标题语义**等关键信息。改进方案通过统计每页字体大小（如正文中位值的120%识别标题）和行距分布优化段落划分，虽非完美但显著提升处理效果。学术论文等复杂排版仍存在多行标题合并等未解难题，但已能满足搜索引擎对核心内容抓取的需求。
+
+---
+
+## <a name="9"></a>9. 谷歌秘密开发安卓桌面模式，挑战三星DeX 
 <small>🔗 [androidauthority.com](https://www.androidauthority.com/android-desktop-mode-leak-3550321/): Google is building its own DeX: First look at Android's Desktop Mode</small>
 
 
-| 🔥🔥: 154 \| 💬: [143](https://news.ycombinator.com/item?id=43973395) \| 🗓️ 2025-05-13
+| 🔥🔥: 180 \| 💬: [155](https://news.ycombinator.com/item?id=43973395) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -155,23 +131,35 @@ PDF本质是**图形格式**而非文本格式，其文字以**字形坐标映�
 
 ---
 
-## <a name="12"></a>12. 微软将裁员3%以优化管理层结构 
-<small>🔗 [cnbc.com](https://www.cnbc.com/2025/05/13/microsoft-is-cutting-3percent-of-workers-across-the-software-company.html): Microsoft is Cutting 3% of All Workers</small>
+## <a name="10"></a>10. 奥丁：为我量身打造的高效编程语言 
+<small>🔗 [zylinski.se](https://zylinski.se/posts/a-programming-language-for-me/): Odin: A programming language made for me</small>
 
 
-| 🔥🔥: 113 \| 💬: [23](https://news.ycombinator.com/item?id=43973399) \| 🗓️ 2025-05-13
+| 🔥🔥: 162 \| 💬: [177](https://news.ycombinator.com/item?id=43970800) \| 🗓️ 2025-05-13
 
 
 <br />
-微软宣布将在全球范围内裁员**3%**，涉及所有层级和地区。截至去年6月，该公司拥有22.8万名员工，此次裁员将影响数千人。此举旨在**减少管理层级**，以适应市场变化。尽管微软近期财报表现强劲（季度净利润258亿美元），但这是继2023年裁员1万人后的又一次大规模调整。发言人强调，此次裁员与绩效无关，而是**组织优化**的一部分。同时，微软Azure云业务因AI驱动增长超预期，股价近期创下年内新高。
+作者Karl Zylinski分享了他对**奥丁语言**的喜爱，认为它完美融合了C语言的高效实践与现代特性。文中重点介绍了**自定义分配器**（如临时分配器、追踪分配器）、**零值初始化**（ZII）和**缓存友好编程**（如#soa数组布局）等核心设计，这些特性直接内置于语言基础库，简化了内存管理并提升性能。奥丁保持了C的简洁性，同时引入泛型等现代功能，适合游戏开发等场景。作者强调，奥丁的易用性源于其与自身C编程经验的契合，但也推荐新手通过他的书籍系统学习。
 
 ---
 
-## <a name="13"></a>13. 实验在等待：当诗歌与科学碰撞的奇迹 
+## <a name="11"></a>11. 暮光操作系统：为文明崩溃设计的极简计算系统 
+<small>🔗 [duskos.org](https://duskos.org/): Dusk OS</small>
+
+
+| 🔥🔥: 160 \| 💬: [100](https://news.ycombinator.com/item?id=43976862) \| 🗓️ 2025-05-13
+
+
+<br />
+**暮光操作系统（Dusk OS）** 是一款32位Forth系统，专为**文明崩溃初期**设计，目标是在无法生产现代计算机时仍能利用现有设备。其核心设计理念是**极简主义**，通过牺牲传统约束实现高“功率密度”，并内置**类C编译器**以复用UNIX代码。支持多种硬件架构（如i386、ARM、RISC-V），仅需6000行代码即可实现自举，包含编辑器、汇编器等工具。系统强调**操作者控制权**，无并发设计允许直接硬件操控，挑战现代软件堆栈的复杂性。
+
+---
+
+## <a name="12"></a>12. 实验在等待：当诗歌与科学碰撞的奇迹 
 <small>🔗 [rifters.com](https://www.rifters.com/crawl/?p=11511): It Awaits Your Experiments</small>
 
 
-| 🔥🔥: 112 \| 💬: [34](https://news.ycombinator.com/item?id=43974005) \| 🗓️ 2025-05-13
+| 🔥🔥: 120 \| 💬: [34](https://news.ycombinator.com/item?id=43974005) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -179,11 +167,35 @@ PDF本质是**图形格式**而非文本格式，其文字以**字形坐标映�
 
 ---
 
-## <a name="14"></a>14. 反人类计算（2023） 
+## <a name="13"></a>13. 微软将裁员3%以优化管理层结构 
+<small>🔗 [cnbc.com](https://www.cnbc.com/2025/05/13/microsoft-is-cutting-3percent-of-workers-across-the-software-company.html): Microsoft is Cutting 3% of All Workers</small>
+
+
+| 🔥🔥: 115 \| 💬: [23](https://news.ycombinator.com/item?id=43973399) \| 🗓️ 2025-05-13
+
+
+<br />
+微软宣布将在全球范围内裁员**3%**，涉及所有层级和地区。截至去年6月，该公司拥有22.8万名员工，此次裁员将影响数千人。此举旨在**减少管理层级**，以适应市场变化。尽管微软近期财报表现强劲（季度净利润258亿美元），但这是继2023年裁员1万人后的又一次大规模调整。发言人强调，此次裁员与绩效无关，而是**组织优化**的一部分。同时，微软Azure云业务因AI驱动增长超预期，股价近期创下年内新高。
+
+---
+
+## <a name="14"></a>14. 太空数据中心Starcloud：用轨道算力训练下一代AI 
+<small>🔗 [ycombinator.com](https://www.ycombinator.com/companies/starcloud): Starcloud</small>
+
+
+| 🔥🔥: 114 \| 💬: [219](https://news.ycombinator.com/item?id=43977188) \| 🗓️ 2025-05-13
+
+
+<br />
+Starcloud（前身为Lumen Orbit）计划在太空部署**兆瓦级数据中心网络**，未来可扩展至千兆瓦规模，旨在利用**太空太阳能**和**被动冷却**优势，解决地球算力扩张对能源与环境的压力。其首颗演示卫星将于2025年7月发射，搭载比现有太空GPU强**100倍**的算力，并与英伟达合作。团队由航天与AI专家组成，已获千万美元融资，目标为GPT6等大模型提供可持续的轨道训练环境。
+
+---
+
+## <a name="15"></a>15. 反人类计算（2023） 
 <small>🔗 [erratique.ch](https://erratique.ch/writings/anti-personnel-computing): Anti-Personnel Computing (2023)</small>
 
 
-| 🔥🔥: 111 \| 💬: [50](https://news.ycombinator.com/item?id=43970637) \| 🗓️ 2025-05-13
+| 🔥🔥: 112 \| 💬: [50](https://news.ycombinator.com/item?id=43970637) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -191,35 +203,11 @@ PDF本质是**图形格式**而非文本格式，其文字以**字形坐标映�
 
 ---
 
-## <a name="15"></a>15. 美国漏洞追踪体系失灵，欧盟推出自主安全漏洞数据库 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/05/13/eu_security_bug_database/): As US vuln-tracking falters, EU enters with its own security bug database</small>
-
-
-| 🔥🔥: 106 \| 💬: [39](https://news.ycombinator.com/item?id=43972438) \| 🗓️ 2025-05-13
-
-
-<br />
-欧盟漏洞数据库（**EUVD**）正式上线，提供实时监控**关键漏洞**和**活跃攻击漏洞**的平台，以应对美国CVE项目因预算削减、披露延迟等问题导致的混乱。该数据库由欧盟网络安全局（**ENISA**）开发，整合多方数据源，界面简洁高效。与此同时，美国CISA削减网络安全预算并停止公开漏洞警报，引发行业担忧。EUVD的推出标志着全球漏洞追踪体系的分化趋势。
-
----
-
-## <a name="16"></a>16. 共和党将十年AI监管禁令塞入预算法案 
-<small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/05/gop-sneaks-decade-long-ai-regulation-ban-into-spending-bill/): GOP sneaks decade-long AI regulation ban into spending bill</small>
-
-
-| 🔥: 100 \| 💬: [105](https://news.ycombinator.com/item?id=43975254) \| 🗓️ 2025-05-13
-
-
-<br />
-美国众议院共和党人近日在预算法案中新增条款，**禁止各州及地方政府在未来10年内监管人工智能**。该提案由肯塔基州众议员Brett Guthrie提出，措辞宽泛，可能导致加州、纽约等地现有及拟议的AI保护法规失效，例如医疗AI披露义务和招聘算法偏见审计。法案还限制各州分配联邦AI资金的方式，削弱地方与白宫技术政策的差异。批评者称此举是**"给科技巨头的礼物"**，将放任深度伪造和算法偏见等风险。特朗普政府与AI行业关系密切，多名科技高管担任顾问，进一步推动去监管化。
-
----
-
-## <a name="17"></a>17. HelixDB：专为AI应用打造的开源图向量数据库（Rust） 
+## <a name="16"></a>16. HelixDB：专为AI应用打造的开源图向量数据库（Rust） 
 <small>🔗 [github.com](https://github.com/HelixDB/helix-db/): Show HN: HelixDB – Open-source vector-graph database for AI applications (Rust)</small>
 
 
-| 🔥: 97 \| 💬: [49](https://news.ycombinator.com/item?id=43975423) \| 🗓️ 2025-05-13
+| 🔥🔥: 110 \| 💬: [50](https://news.ycombinator.com/item?id=43975423) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -227,7 +215,31 @@ HelixDB是一款基于**Rust**开发的高性能**图向量数据库**，专为*
 
 ---
 
-## <a name="18"></a>18. OpenAI"星际之门"项目因关税问题陷入停滞 
+## <a name="17"></a>17. 美国漏洞追踪体系失灵，欧盟推出自主安全漏洞数据库 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/05/13/eu_security_bug_database/): As US vuln-tracking falters, EU enters with its own security bug database</small>
+
+
+| 🔥🔥: 108 \| 💬: [39](https://news.ycombinator.com/item?id=43972438) \| 🗓️ 2025-05-13
+
+
+<br />
+欧盟漏洞数据库（**EUVD**）正式上线，提供实时监控**关键漏洞**和**活跃攻击漏洞**的平台，以应对美国CVE项目因预算削减、披露延迟等问题导致的混乱。该数据库由欧盟网络安全局（**ENISA**）开发，整合多方数据源，界面简洁高效。与此同时，美国CISA削减网络安全预算并停止公开漏洞警报，引发行业担忧。EUVD的推出标志着全球漏洞追踪体系的分化趋势。
+
+---
+
+## <a name="18"></a>18. 共和党将十年AI监管禁令塞入预算法案 
+<small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/05/gop-sneaks-decade-long-ai-regulation-ban-into-spending-bill/): GOP sneaks decade-long AI regulation ban into spending bill</small>
+
+
+| 🔥: 100 \| 💬: [107](https://news.ycombinator.com/item?id=43975254) \| 🗓️ 2025-05-13
+
+
+<br />
+美国众议院共和党人近日在预算法案中新增条款，**禁止各州及地方政府在未来10年内监管人工智能**。该提案由肯塔基州众议员Brett Guthrie提出，措辞宽泛，可能导致加州、纽约等地现有及拟议的AI保护法规失效，例如医疗AI披露义务和招聘算法偏见审计。法案还限制各州分配联邦AI资金的方式，削弱地方与白宫技术政策的差异。批评者称此举是**"给科技巨头的礼物"**，将放任深度伪造和算法偏见等风险。特朗普政府与AI行业关系密切，多名科技高管担任顾问，进一步推动去监管化。
+
+---
+
+## <a name="19"></a>19. OpenAI"星际之门"项目因关税问题陷入停滞 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/12/openais-stargate-project-reportedly-struggling-to-get-off-the-ground-thanks-to-tariffs/): OpenAI's Stargate project struggling to get off the ground, due to tariffs</small>
 
 
@@ -239,19 +251,19 @@ OpenAI耗资5亿美元的**"星际之门"**数据中心项目因关税导致的�
 
 ---
 
-## <a name="19"></a>19. 太空数据中心Starcloud：用轨道算力训练下一代AI 
-<small>🔗 [ycombinator.com](https://www.ycombinator.com/companies/starcloud): Starcloud</small>
+## <a name="20"></a>20. Y Combinator指控谷歌垄断，却避谈与OpenAI的密切关系 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/13/y-combinator-says-google-is-a-monopolist-that-has-stunted-the-startup-ecosystem/): Y Combinator says Google is a monopolist, no comment about its OpenAI ties</small>
 
 
-| 🔥: 88 \| 💬: [154](https://news.ycombinator.com/item?id=43977188) \| 🗓️ 2025-05-13
+| 🔥: 90 \| 💬: [23](https://news.ycombinator.com/item?id=43978224) \| 🗓️ 2025-05-13
 
 
 <br />
-Starcloud（前身为Lumen Orbit）计划在太空部署**兆瓦级数据中心网络**，未来可扩展至千兆瓦规模，旨在利用**太空太阳能**和**被动冷却**优势，解决地球算力扩张对能源与环境的压力。其首颗演示卫星将于2025年7月发射，搭载比现有太空GPU强**100倍**的算力，并与英伟达合作。团队由航天与AI专家组成，已获千万美元融资，目标为GPT6等大模型提供可持续的轨道训练环境。
+知名创投机构Y Combinator在提交给美国政府对谷歌反垄断案的法庭文件中，**指责谷歌垄断**并压制初创生态，导致风投不敢投资可能挑战其地位的搜索和AI公司。YC称谷歌通过默认搜索协议等**反竞争手段**冻结市场创新，要求其开放搜索索引供竞争对手训练AI模型，否则建议分拆业务。值得注意的是，YC与OpenAI关系紧密（CEO曾任职YC），但未提及自身利益关联。谷歌未回应指控，此前曾称政府整改方案会损害消费者利益。
 
 ---
 
-## <a name="20"></a>20. AI就像个不靠谱的顾问 
+## <a name="21"></a>21. AI就像个不靠谱的顾问 
 <small>🔗 [lukekanies.com](https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/): AI Is Like a Crappy Consultant</small>
 
 
@@ -263,11 +275,11 @@ Starcloud（前身为Lumen Orbit）计划在太空部署**兆瓦级数据中心�
 
 ---
 
-## <a name="21"></a>21. 别再用unwrap处理Option了：这里有更好的方法（2024） 
+## <a name="22"></a>22. 别再用unwrap处理Option了：这里有更好的方法（2024） 
 <small>🔗 [corrode.dev](https://corrode.dev/blog/rust-option-handling-best-practices/): Don't unwrap options: There are better ways (2024)</small>
 
 
-| 🔥: 82 \| 💬: [48](https://news.ycombinator.com/item?id=43975785) \| 🗓️ 2025-05-13
+| 🔥: 85 \| 💬: [50](https://news.ycombinator.com/item?id=43975785) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -275,11 +287,11 @@ Starcloud（前身为Lumen Orbit）计划在太空部署**兆瓦级数据中心�
 
 ---
 
-## <a name="22"></a>22. 高效生活的101条法则 
+## <a name="23"></a>23. 高效生活的101条法则 
 <small>🔗 [mitchhorowitz.substack.com](https://mitchhorowitz.substack.com/p/101-rules-of-effective-living): One hundred and one rules of effective living</small>
 
 
-| 🔥: 81 \| 💬: [76](https://news.ycombinator.com/item?id=43971791) \| 🗓️ 2025-05-13
+| 🔥: 84 \| 💬: [81](https://news.ycombinator.com/item?id=43971791) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -287,7 +299,7 @@ Starcloud（前身为Lumen Orbit）计划在太空部署**兆瓦级数据中心�
 
 ---
 
-## <a name="23"></a>23. 全球等面积毫米级地理空间索引系统A5 
+## <a name="24"></a>24. 全球等面积毫米级地理空间索引系统A5 
 <small>🔗 [github.com](https://github.com/felixpalmer/a5): Show HN: A5</small>
 
 
@@ -299,7 +311,7 @@ A5是一种基于**五边形网格**的全球地理空间索引系统（DGGS）�
 
 ---
 
-## <a name="24"></a>24. 美国如何放弃科学霸主地位 
+## <a name="25"></a>25. 美国如何放弃科学霸主地位 
 <small>🔗 [steveblank.com](https://steveblank.com/2025/05/13/how-the-united-states-became-a-science-superpower-and-how-quickly-it-could-crumble/): How the United States Gave Up Being a Science Superpower</small>
 
 
