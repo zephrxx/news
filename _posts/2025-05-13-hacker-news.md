@@ -27,7 +27,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/ID_AA_Carmack/status/1922100771392520710): The world could run on older hardware if software optimization was a priority</small>
 
 
-| 🔥🔥: 598 \| 💬: [568](https://news.ycombinator.com/item?id=43971464) \| 🗓️ 2025-05-13
+| 🔥🔥: 607 \| 💬: [572](https://news.ycombinator.com/item?id=43971464) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [openwall.com](https://www.openwall.com/lists/oss-security/2025/05/12/1): Multiple security issues in GNU Screen</small>
 
 
-| 🔥🔥: 349 \| 💬: [212](https://news.ycombinator.com/item?id=43971716) \| 🗓️ 2025-05-13
+| 🔥🔥: 353 \| 💬: [215](https://news.ycombinator.com/item?id=43971716) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [comsec.ethz.ch](https://comsec.ethz.ch/research/microarch/branch-privilege-injection/): Branch Privilege Injection: Exploiting branch predictor race conditions</small>
 
 
-| 🔥🔥: 333 \| 💬: [132](https://news.ycombinator.com/item?id=43974891) \| 🗓️ 2025-05-13
+| 🔥🔥: 336 \| 💬: [132](https://news.ycombinator.com/item?id=43974891) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [wqtz.bearblog.dev](https://wqtz.bearblog.dev/high-stress-job-relationships/): In a high-stress work environment, prioritize relationships</small>
 
 
-| 🔥🔥: 300 \| 💬: [185](https://news.ycombinator.com/item?id=43972535) \| 🗓️ 2025-05-13
+| 🔥🔥: 301 \| 💬: [188](https://news.ycombinator.com/item?id=43972535) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [theregister.com](https://www.theregister.com/2025/05/13/nextcloud_play_store_complaint/): Nextcloud cries foul over Google Play Store app rejection</small>
 
 
-| 🔥🔥: 248 \| 💬: [154](https://news.ycombinator.com/item?id=43970959) \| 🗓️ 2025-05-13
+| 🔥🔥: 248 \| 💬: [160](https://news.ycombinator.com/item?id=43970959) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [marginalia.nu](https://www.marginalia.nu/log/a_119_pdf/): PDF to Text, a challenging problem</small>
 
 
-| 🔥🔥: 240 \| 💬: [132](https://news.ycombinator.com/item?id=43973721) \| 🗓️ 2025-05-13
+| 🔥🔥: 246 \| 💬: [138](https://news.ycombinator.com/item?id=43973721) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -99,7 +99,7 @@ PDF本质是**图形格式**而非文本格式，其文字以**字形坐标映�
 <small>🔗 [jamal.haba.sh](https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/): Why are banks still getting authentication so wrong?</small>
 
 
-| 🔥🔥: 240 \| 💬: [317](https://news.ycombinator.com/item?id=43976359) \| 🗓️ 2025-05-13
+| 🔥🔥: 243 \| 💬: [323](https://news.ycombinator.com/item?id=43976359) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -111,7 +111,7 @@ PDF本质是**图形格式**而非文本格式，其文字以**字形坐标映�
 <small>🔗 [androidauthority.com](https://www.androidauthority.com/android-desktop-mode-leak-3550321/): Google is building its own DeX: First look at Android's Desktop Mode</small>
 
 
-| 🔥🔥: 230 \| 💬: [184](https://news.ycombinator.com/item?id=43973395) \| 🗓️ 2025-05-13
+| 🔥🔥: 240 \| 💬: [202](https://news.ycombinator.com/item?id=43973395) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -123,7 +123,7 @@ PDF本质是**图形格式**而非文本格式，其文字以**字形坐标映�
 <small>🔗 [time.com](https://time.com/7285045/resigning-national-science-foundation-library-congress/): Why I'm resigning from the National Science Foundation</small>
 
 
-| 🔥🔥: 221 \| 💬: [260](https://news.ycombinator.com/item?id=43973210) \| 🗓️ 2025-05-13
+| 🔥🔥: 221 \| 💬: [263](https://news.ycombinator.com/item?id=43973210) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -135,7 +135,7 @@ PDF本质是**图形格式**而非文本格式，其文字以**字形坐标映�
 <small>🔗 [zylinski.se](https://zylinski.se/posts/a-programming-language-for-me/): Odin: A programming language made for me</small>
 
 
-| 🔥🔥: 169 \| 💬: [185](https://news.ycombinator.com/item?id=43970800) \| 🗓️ 2025-05-13
+| 🔥🔥: 169 \| 💬: [187](https://news.ycombinator.com/item?id=43970800) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -147,7 +147,7 @@ PDF本质是**图形格式**而非文本格式，其文字以**字形坐标映�
 <small>🔗 [duskos.org](https://duskos.org/): Dusk OS</small>
 
 
-| 🔥🔥: 164 \| 💬: [105](https://news.ycombinator.com/item?id=43976862) \| 🗓️ 2025-05-13
+| 🔥🔥: 166 \| 💬: [105](https://news.ycombinator.com/item?id=43976862) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -159,7 +159,7 @@ PDF本质是**图形格式**而非文本格式，其文字以**字形坐标映�
 <small>🔗 [rifters.com](https://www.rifters.com/crawl/?p=11511): It Awaits Your Experiments</small>
 
 
-| 🔥🔥: 139 \| 💬: [45](https://news.ycombinator.com/item?id=43974005) \| 🗓️ 2025-05-13
+| 🔥🔥: 143 \| 💬: [48](https://news.ycombinator.com/item?id=43974005) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -171,7 +171,7 @@ PDF本质是**图形格式**而非文本格式，其文字以**字形坐标映�
 <small>🔗 [ycombinator.com](https://www.ycombinator.com/companies/starcloud): Starcloud</small>
 
 
-| 🔥🔥: 136 \| 💬: [270](https://news.ycombinator.com/item?id=43977188) \| 🗓️ 2025-05-13
+| 🔥🔥: 138 \| 💬: [279](https://news.ycombinator.com/item?id=43977188) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -183,7 +183,7 @@ Starcloud（前身为Lumen Orbit）计划在太空部署**兆瓦级数据中心�
 <small>🔗 [github.com](https://github.com/HelixDB/helix-db/): Show HN: HelixDB – Open-source vector-graph database for AI applications (Rust)</small>
 
 
-| 🔥🔥: 131 \| 💬: [54](https://news.ycombinator.com/item?id=43975423) \| 🗓️ 2025-05-13
+| 🔥🔥: 135 \| 💬: [59](https://news.ycombinator.com/item?id=43975423) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -191,11 +191,35 @@ HelixDB是一款基于**Rust**开发的高性能**图向量数据库**，专为*
 
 ---
 
-## <a name="15"></a>15. 微软将裁员3%以优化管理层结构 
+## <a name="15"></a>15. 基于类型约束的语言模型代码生成方法 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2504.09246): Type-constrained code generation with language models</small>
+
+
+| 🔥🔥: 125 \| 💬: [48](https://news.ycombinator.com/item?id=43978357) \| 🗓️ 2025-05-13
+
+
+<br />
+该研究针对**大型语言模型（LLM）**在代码生成中频繁出现**类型错误**的问题，提出了一种新型的**类型约束解码方法**。通过结合前缀自动机和可居住类型搜索技术，该方法能强制保证生成代码的类型正确性。实验表明，在HumanEval和MBPP数据集上，该方法将编译错误减少超50%，并显著提升代码合成、翻译和修复任务的功能正确率，且适用于不同规模的模型（包括参数量超300亿的开源模型）。研究以TypeScript为例验证了其通用性，为形式化类型系统与LLM的协同应用提供了新思路。
+
+---
+
+## <a name="16"></a>16. 我在Kagi搜索的带回家作业中失败了 
+<small>🔗 [bloggeroo.dev](https://bloggeroo.dev/articles/202504031434): I failed a take-home assignment from Kagi Search</small>
+
+
+| 🔥🔥: 123 \| 💬: [67](https://news.ycombinator.com/item?id=43980036) \| 🗓️ 2025-05-13
+
+
+<br />
+作者申请Kagi搜索的后端开发岗位时，收到一份**开放式带回家作业**：开发一个简易终端风格的电邮客户端。尽管作业要求模糊且工作量庞大，作者仍投入一周全职时间完成了一个部署在AWS上的全功能Web应用，并提交详细提案。然而，招聘经理的反馈敷衍，最终以“其他候选人的方案更简单、更强”为由拒绝，且**招聘广告长期未撤下**。作者批判此类无偿作业浪费求职者时间，呼吁企业采用更合理的评估方式（如代码审查），并建议求职者抵制类似要求。文末附作品链接及求职联系方式。
+
+---
+
+## <a name="17"></a>17. 微软将裁员3%以优化管理层结构 
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/05/13/microsoft-is-cutting-3percent-of-workers-across-the-software-company.html): Microsoft is Cutting 3% of All Workers</small>
 
 
-| 🔥🔥: 120 \| 💬: [24](https://news.ycombinator.com/item?id=43973399) \| 🗓️ 2025-05-13
+| 🔥🔥: 122 \| 💬: [24](https://news.ycombinator.com/item?id=43973399) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -203,7 +227,7 @@ HelixDB是一款基于**Rust**开发的高性能**图向量数据库**，专为*
 
 ---
 
-## <a name="16"></a>16. Y Combinator指控谷歌垄断，却避谈与OpenAI的密切关系 
+## <a name="18"></a>18. Y Combinator指控谷歌垄断，却避谈与OpenAI的密切关系 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/13/y-combinator-says-google-is-a-monopolist-that-has-stunted-the-startup-ecosystem/): Y Combinator says Google is a monopolist, no comment about its OpenAI ties</small>
 
 
@@ -215,11 +239,11 @@ HelixDB是一款基于**Rust**开发的高性能**图向量数据库**，专为*
 
 ---
 
-## <a name="17"></a>17. 反人类计算（2023） 
+## <a name="19"></a>19. 反人类计算（2023） 
 <small>🔗 [erratique.ch](https://erratique.ch/writings/anti-personnel-computing): Anti-Personnel Computing (2023)</small>
 
 
-| 🔥🔥: 114 \| 💬: [51](https://news.ycombinator.com/item?id=43970637) \| 🗓️ 2025-05-13
+| 🔥🔥: 115 \| 💬: [51](https://news.ycombinator.com/item?id=43970637) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -227,47 +251,11 @@ HelixDB是一款基于**Rust**开发的高性能**图向量数据库**，专为*
 
 ---
 
-## <a name="18"></a>18. 美国漏洞追踪体系失灵，欧盟推出自主安全漏洞数据库 
-<small>🔗 [theregister.com](https://www.theregister.com/2025/05/13/eu_security_bug_database/): As US vuln-tracking falters, EU enters with its own security bug database</small>
+## <a name="20"></a>20. 降低Rust语言的学习门槛 
+<small>🔗 [corrode.dev](https://corrode.dev/blog/flattening-rusts-learning-curve/): Flattening Rust’s learning curve</small>
 
 
-| 🔥🔥: 110 \| 💬: [42](https://news.ycombinator.com/item?id=43972438) \| 🗓️ 2025-05-13
-
-
-<br />
-欧盟漏洞数据库（**EUVD**）正式上线，提供实时监控**关键漏洞**和**活跃攻击漏洞**的平台，以应对美国CVE项目因预算削减、披露延迟等问题导致的混乱。该数据库由欧盟网络安全局（**ENISA**）开发，整合多方数据源，界面简洁高效。与此同时，美国CISA削减网络安全预算并停止公开漏洞警报，引发行业担忧。EUVD的推出标志着全球漏洞追踪体系的分化趋势。
-
----
-
-## <a name="19"></a>19. 基于类型约束的语言模型代码生成方法 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2504.09246): Type-constrained code generation with language models</small>
-
-
-| 🔥🔥: 106 \| 💬: [45](https://news.ycombinator.com/item?id=43978357) \| 🗓️ 2025-05-13
-
-
-<br />
-该研究针对**大型语言模型（LLM）**在代码生成中频繁出现**类型错误**的问题，提出了一种新型的**类型约束解码方法**。通过结合前缀自动机和可居住类型搜索技术，该方法能强制保证生成代码的类型正确性。实验表明，在HumanEval和MBPP数据集上，该方法将编译错误减少超50%，并显著提升代码合成、翻译和修复任务的功能正确率，且适用于不同规模的模型（包括参数量超300亿的开源模型）。研究以TypeScript为例验证了其通用性，为形式化类型系统与LLM的协同应用提供了新思路。
-
----
-
-## <a name="20"></a>20. 共和党将十年AI监管禁令塞入预算法案 
-<small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/05/gop-sneaks-decade-long-ai-regulation-ban-into-spending-bill/): GOP sneaks decade-long AI regulation ban into spending bill</small>
-
-
-| 🔥🔥: 104 \| 💬: [116](https://news.ycombinator.com/item?id=43975254) \| 🗓️ 2025-05-13
-
-
-<br />
-美国众议院共和党人近日在预算法案中新增条款，**禁止各州及地方政府在未来10年内监管人工智能**。该提案由肯塔基州众议员Brett Guthrie提出，措辞宽泛，可能导致加州、纽约等地现有及拟议的AI保护法规失效，例如医疗AI披露义务和招聘算法偏见审计。法案还限制各州分配联邦AI资金的方式，削弱地方与白宫技术政策的差异。批评者称此举是**"给科技巨头的礼物"**，将放任深度伪造和算法偏见等风险。特朗普政府与AI行业关系密切，多名科技高管担任顾问，进一步推动去监管化。
-
----
-
-## <a name="21"></a>21. 降低Rust语言的学习门槛 
-<small>🔗 [corrode.dev](https://corrode.dev/blog/flattening-rusts-learning-curve/): Flattening Rust's learning curve</small>
-
-
-| 🔥: 95 \| 💬: [71](https://news.ycombinator.com/item?id=43978435) \| 🗓️ 2025-05-13
+| 🔥🔥: 114 \| 💬: [97](https://news.ycombinator.com/item?id=43978435) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -275,7 +263,31 @@ HelixDB是一款基于**Rust**开发的高性能**图向量数据库**，专为*
 
 ---
 
-## <a name="22"></a>22. OpenAI"星际之门"项目因关税问题陷入停滞 
+## <a name="21"></a>21. 美国漏洞追踪体系失灵，欧盟推出自主安全漏洞数据库 
+<small>🔗 [theregister.com](https://www.theregister.com/2025/05/13/eu_security_bug_database/): As US vuln-tracking falters, EU enters with its own security bug database</small>
+
+
+| 🔥🔥: 111 \| 💬: [42](https://news.ycombinator.com/item?id=43972438) \| 🗓️ 2025-05-13
+
+
+<br />
+欧盟漏洞数据库（**EUVD**）正式上线，提供实时监控**关键漏洞**和**活跃攻击漏洞**的平台，以应对美国CVE项目因预算削减、披露延迟等问题导致的混乱。该数据库由欧盟网络安全局（**ENISA**）开发，整合多方数据源，界面简洁高效。与此同时，美国CISA削减网络安全预算并停止公开漏洞警报，引发行业担忧。EUVD的推出标志着全球漏洞追踪体系的分化趋势。
+
+---
+
+## <a name="22"></a>22. 共和党将十年AI监管禁令塞入预算法案 
+<small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/05/gop-sneaks-decade-long-ai-regulation-ban-into-spending-bill/): GOP sneaks decade-long AI regulation ban into spending bill</small>
+
+
+| 🔥🔥: 105 \| 💬: [118](https://news.ycombinator.com/item?id=43975254) \| 🗓️ 2025-05-13
+
+
+<br />
+美国众议院共和党人近日在预算法案中新增条款，**禁止各州及地方政府在未来10年内监管人工智能**。该提案由肯塔基州众议员Brett Guthrie提出，措辞宽泛，可能导致加州、纽约等地现有及拟议的AI保护法规失效，例如医疗AI披露义务和招聘算法偏见审计。法案还限制各州分配联邦AI资金的方式，削弱地方与白宫技术政策的差异。批评者称此举是**"给科技巨头的礼物"**，将放任深度伪造和算法偏见等风险。特朗普政府与AI行业关系密切，多名科技高管担任顾问，进一步推动去监管化。
+
+---
+
+## <a name="23"></a>23. OpenAI"星际之门"项目因关税问题陷入停滞 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/12/openais-stargate-project-reportedly-struggling-to-get-off-the-ground-thanks-to-tariffs/): OpenAI's Stargate project struggling to get off the ground, due to tariffs</small>
 
 
@@ -287,11 +299,11 @@ OpenAI耗资5亿美元的**"星际之门"**数据中心项目因关税导致的�
 
 ---
 
-## <a name="23"></a>23. 别再用unwrap处理Option了：这里有更好的方法（2024） 
+## <a name="24"></a>24. 别再用unwrap处理Option了：这里有更好的方法（2024） 
 <small>🔗 [corrode.dev](https://corrode.dev/blog/rust-option-handling-best-practices/): Don't unwrap options: There are better ways (2024)</small>
 
 
-| 🔥: 89 \| 💬: [53](https://news.ycombinator.com/item?id=43975785) \| 🗓️ 2025-05-13
+| 🔥: 91 \| 💬: [54](https://news.ycombinator.com/item?id=43975785) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -299,26 +311,14 @@ OpenAI耗资5亿美元的**"星际之门"**数据中心项目因关税导致的�
 
 ---
 
-## <a name="24"></a>24. 高效生活的101条法则 
+## <a name="25"></a>25. 高效生活的101条法则 
 <small>🔗 [mitchhorowitz.substack.com](https://mitchhorowitz.substack.com/p/101-rules-of-effective-living): One hundred and one rules of effective living</small>
 
 
-| 🔥: 86 \| 💬: [84](https://news.ycombinator.com/item?id=43971791) \| 🗓️ 2025-05-13
+| 🔥: 86 \| 💬: [86](https://news.ycombinator.com/item?id=43971791) \| 🗓️ 2025-05-13
 
 
 <br />
 作者Mitch Horowitz基于三十年的经验，总结了**诚实守信、专注执行、人际智慧**三大核心原则。包括：准时完成工作、直面失败、减少抱怨、远离恶人、重视实践而非空谈、尊重他人、保持好奇心等。强调**道德自省**（如"道德评判他人，伦理约束自我"）和**危机意识**（"自然灾难时，生存是唯一法则"）。最后提醒：过度关注厌恶你的人，只会放大自我投射的不安。
-
----
-
-## <a name="25"></a>25. AI就像个不靠谱的顾问 
-<small>🔗 [lukekanies.com](https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/): AI Is Like a Crappy Consultant</small>
-
-
-| 🔥: 86 \| 💬: [98](https://news.ycombinator.com/item?id=43972088) \| 🗓️ 2025-05-13
-
-
-<br />
-作者通过尝试用AI辅助Swift编程发现，**AI适合处理基础工作**（如快速定位语法错误），但无法胜任架构设计等复杂任务。它常给出**糟糕的解决方案**（如盲目捕获错误而非重构），且缺乏真正的思考能力。关键在于**严格控制AI的参与度**——像带实习生一样，只委托机械性工作并严格审查输出。最终结论：AI是高效的工具，但绝不能替代人类决策。
 
 ---
