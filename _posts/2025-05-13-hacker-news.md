@@ -12,7 +12,7 @@ tags:
 1. GNU Screen 存在多个安全漏洞；
 1. 分支特权注入：利用分支预测器竞态条件的新漏洞；
 1. 高压职场中，人际关系优先；
-1. Nextcloud控诉谷歌Play Store下架其应用涉嫌打压竞争；
+1. 谷歌秘密开发安卓桌面模式，挑战三星DeX；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/ID_AA_Carmack/status/1922100771392520710): The world could run on older hardware if software optimization was a priority</small>
 
 
-| 🔥🔥: 607 \| 💬: [572](https://news.ycombinator.com/item?id=43971464) \| 🗓️ 2025-05-13
+| 🔥🔥: 621 \| 💬: [575](https://news.ycombinator.com/item?id=43971464) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [openwall.com](https://www.openwall.com/lists/oss-security/2025/05/12/1): Multiple security issues in GNU Screen</small>
 
 
-| 🔥🔥: 353 \| 💬: [215](https://news.ycombinator.com/item?id=43971716) \| 🗓️ 2025-05-13
+| 🔥🔥: 357 \| 💬: [216](https://news.ycombinator.com/item?id=43971716) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [comsec.ethz.ch](https://comsec.ethz.ch/research/microarch/branch-privilege-injection/): Branch Privilege Injection: Exploiting branch predictor race conditions</small>
 
 
-| 🔥🔥: 336 \| 💬: [132](https://news.ycombinator.com/item?id=43974891) \| 🗓️ 2025-05-13
+| 🔥🔥: 345 \| 💬: [133](https://news.ycombinator.com/item?id=43974891) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [wqtz.bearblog.dev](https://wqtz.bearblog.dev/high-stress-job-relationships/): In a high-stress work environment, prioritize relationships</small>
 
 
-| 🔥🔥: 301 \| 💬: [188](https://news.ycombinator.com/item?id=43972535) \| 🗓️ 2025-05-13
+| 🔥🔥: 301 \| 💬: [189](https://news.ycombinator.com/item?id=43972535) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -71,11 +71,23 @@ tags:
 
 ---
 
-## <a name="5"></a>5. Nextcloud控诉谷歌Play Store下架其应用涉嫌打压竞争 
+## <a name="5"></a>5. 谷歌秘密开发安卓桌面模式，挑战三星DeX 
+<small>🔗 [androidauthority.com](https://www.androidauthority.com/android-desktop-mode-leak-3550321/): Google is building its own DeX: First look at Android's Desktop Mode</small>
+
+
+| 🔥🔥: 254 \| 💬: [208](https://news.ycombinator.com/item?id=43973395) \| 🗓️ 2025-05-13
+
+
+<br />
+谷歌正在测试名为**“Desktop View”**的新功能，可将安卓手机连接外接显示器后切换为PC界面，支持**任务栏**、**可调整窗口**及**拖拽多任务**操作。目前该功能仍隐藏在开发者选项中，但进展迅速，未来可能让所有安卓设备具备类似三星DeX的桌面体验。此举旨在打破三星在移动桌面领域的垄断，推动安卓向全功能操作系统进化。
+
+---
+
+## <a name="6"></a>6. Nextcloud控诉谷歌Play Store下架其应用涉嫌打压竞争 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/05/13/nextcloud_play_store_complaint/): Nextcloud cries foul over Google Play Store app rejection</small>
 
 
-| 🔥🔥: 248 \| 💬: [160](https://news.ycombinator.com/item?id=43970959) \| 🗓️ 2025-05-13
+| 🔥🔥: 248 \| 💬: [162](https://news.ycombinator.com/item?id=43970959) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -83,11 +95,11 @@ tags:
 
 ---
 
-## <a name="6"></a>6. PDF文本提取：一个看似简单却极具挑战的技术难题 
+## <a name="7"></a>7. PDF文本提取：一个看似简单却极具挑战的技术难题 
 <small>🔗 [marginalia.nu](https://www.marginalia.nu/log/a_119_pdf/): PDF to Text, a challenging problem</small>
 
 
-| 🔥🔥: 246 \| 💬: [138](https://news.ycombinator.com/item?id=43973721) \| 🗓️ 2025-05-13
+| 🔥🔥: 248 \| 💬: [148](https://news.ycombinator.com/item?id=43973721) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -95,27 +107,15 @@ PDF本质是**图形格式**而非文本格式，其文字以**字形坐标映�
 
 ---
 
-## <a name="7"></a>7. 2025年了，银行为何还在用落后的身份验证？ 
+## <a name="8"></a>8. 2025年了，银行为何还在用落后的身份验证？ 
 <small>🔗 [jamal.haba.sh](https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/): Why are banks still getting authentication so wrong?</small>
 
 
-| 🔥🔥: 243 \| 💬: [323](https://news.ycombinator.com/item?id=43976359) \| 🗓️ 2025-05-13
+| 🔥🔥: 245 \| 💬: [324](https://news.ycombinator.com/item?id=43976359) \| 🗓️ 2025-05-13
 
 
 <br />
 作者因国际旅行时无法接收加拿大短信，被TD银行**SMS双因素认证（2FA）**系统锁死账户，即便安装了专用验证应用仍陷入死循环。文章批评银行依赖**不安全的短信验证**（易受SIM卡劫持和钓鱼攻击），却拒绝支持**TOTP标准**或通行密钥（Passkeys）等现代方案。安全性与用户体验本可兼顾，但银行固守陈旧技术，甚至三年后仍未改进。关键问题在于：**安全设计应以用户为中心**，而非制造障碍。
-
----
-
-## <a name="8"></a>8. 谷歌秘密开发安卓桌面模式，挑战三星DeX 
-<small>🔗 [androidauthority.com](https://www.androidauthority.com/android-desktop-mode-leak-3550321/): Google is building its own DeX: First look at Android's Desktop Mode</small>
-
-
-| 🔥🔥: 240 \| 💬: [202](https://news.ycombinator.com/item?id=43973395) \| 🗓️ 2025-05-13
-
-
-<br />
-谷歌正在测试名为**“Desktop View”**的新功能，可将安卓手机连接外接显示器后切换为PC界面，支持**任务栏**、**可调整窗口**及**拖拽多任务**操作。目前该功能仍隐藏在开发者选项中，但进展迅速，未来可能让所有安卓设备具备类似三星DeX的桌面体验。此举旨在打破三星在移动桌面领域的垄断，推动安卓向全功能操作系统进化。
 
 ---
 
@@ -135,7 +135,7 @@ PDF本质是**图形格式**而非文本格式，其文字以**字形坐标映�
 <small>🔗 [zylinski.se](https://zylinski.se/posts/a-programming-language-for-me/): Odin: A programming language made for me</small>
 
 
-| 🔥🔥: 169 \| 💬: [187](https://news.ycombinator.com/item?id=43970800) \| 🗓️ 2025-05-13
+| 🔥🔥: 173 \| 💬: [188](https://news.ycombinator.com/item?id=43970800) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -147,7 +147,7 @@ PDF本质是**图形格式**而非文本格式，其文字以**字形坐标映�
 <small>🔗 [duskos.org](https://duskos.org/): Dusk OS</small>
 
 
-| 🔥🔥: 166 \| 💬: [105](https://news.ycombinator.com/item?id=43976862) \| 🗓️ 2025-05-13
+| 🔥🔥: 169 \| 💬: [106](https://news.ycombinator.com/item?id=43976862) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -155,59 +155,11 @@ PDF本质是**图形格式**而非文本格式，其文字以**字形坐标映�
 
 ---
 
-## <a name="12"></a>12. 实验在等待：当诗歌与科学碰撞的奇迹 
-<small>🔗 [rifters.com](https://www.rifters.com/crawl/?p=11511): It Awaits Your Experiments</small>
-
-
-| 🔥🔥: 143 \| 💬: [48](https://news.ycombinator.com/item?id=43974005) \| 🗓️ 2025-05-13
-
-
-<br />
-这篇文章讲述了诗人**Christian Bök**历时二十余年的**《异种文本实验》**，将诗歌编码进**耐辐射奇球菌**（Deinococcus radiodurans）的DNA中。这种微生物堪称“细菌界的终结者”，能在极端环境中存活，甚至可能比人类文明更长久。Bök的诗歌不仅是一段文字，还与生成的蛋白质形成“奥菲斯与欧律狄刻”般的对话，并发出荧光。尽管科学界曾质疑其可行性，Bök最终在2025年成功，让艺术驱动了科学。这部作品不仅是诗歌，更是**跨越时空的生命艺术**，或将成为人类留给外星文明的遗产。
-
----
-
-## <a name="13"></a>13. 太空数据中心Starcloud：用轨道算力训练下一代AI 
-<small>🔗 [ycombinator.com](https://www.ycombinator.com/companies/starcloud): Starcloud</small>
-
-
-| 🔥🔥: 138 \| 💬: [279](https://news.ycombinator.com/item?id=43977188) \| 🗓️ 2025-05-13
-
-
-<br />
-Starcloud（前身为Lumen Orbit）计划在太空部署**兆瓦级数据中心网络**，未来可扩展至千兆瓦规模，旨在利用**太空太阳能**和**被动冷却**优势，解决地球算力扩张对能源与环境的压力。其首颗演示卫星将于2025年7月发射，搭载比现有太空GPU强**100倍**的算力，并与英伟达合作。团队由航天与AI专家组成，已获千万美元融资，目标为GPT6等大模型提供可持续的轨道训练环境。
-
----
-
-## <a name="14"></a>14. HelixDB：专为AI应用打造的开源图向量数据库（Rust） 
-<small>🔗 [github.com](https://github.com/HelixDB/helix-db/): Show HN: HelixDB – Open-source vector-graph database for AI applications (Rust)</small>
-
-
-| 🔥🔥: 135 \| 💬: [59](https://news.ycombinator.com/item?id=43975423) \| 🗓️ 2025-05-13
-
-
-<br />
-HelixDB是一款基于**Rust**开发的高性能**图向量数据库**，专为**RAG（检索增强生成）**和AI应用设计。它结合了图数据库的关系处理能力与向量数据库的相似性搜索功能，并采用LMDB作为存储引擎，确保**ACID兼容**与高效持久化。性能表现卓越（比Neo4j快1000倍，与Qdrant向量搜索相当），提供CLI工具和多种语言SDK（如TypeScript/Python），支持快速部署查询。开源协议为AGPL-3.0，同时提供商业托管服务。
-
----
-
-## <a name="15"></a>15. 基于类型约束的语言模型代码生成方法 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2504.09246): Type-constrained code generation with language models</small>
-
-
-| 🔥🔥: 125 \| 💬: [48](https://news.ycombinator.com/item?id=43978357) \| 🗓️ 2025-05-13
-
-
-<br />
-该研究针对**大型语言模型（LLM）**在代码生成中频繁出现**类型错误**的问题，提出了一种新型的**类型约束解码方法**。通过结合前缀自动机和可居住类型搜索技术，该方法能强制保证生成代码的类型正确性。实验表明，在HumanEval和MBPP数据集上，该方法将编译错误减少超50%，并显著提升代码合成、翻译和修复任务的功能正确率，且适用于不同规模的模型（包括参数量超300亿的开源模型）。研究以TypeScript为例验证了其通用性，为形式化类型系统与LLM的协同应用提供了新思路。
-
----
-
-## <a name="16"></a>16. 我在Kagi搜索的带回家作业中失败了 
+## <a name="12"></a>12. 我在Kagi搜索的带回家作业中失败了 
 <small>🔗 [bloggeroo.dev](https://bloggeroo.dev/articles/202504031434): I failed a take-home assignment from Kagi Search</small>
 
 
-| 🔥🔥: 123 \| 💬: [67](https://news.ycombinator.com/item?id=43980036) \| 🗓️ 2025-05-13
+| 🔥🔥: 162 \| 💬: [131](https://news.ycombinator.com/item?id=43980036) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -215,47 +167,59 @@ HelixDB是一款基于**Rust**开发的高性能**图向量数据库**，专为*
 
 ---
 
-## <a name="17"></a>17. 微软将裁员3%以优化管理层结构 
-<small>🔗 [cnbc.com](https://www.cnbc.com/2025/05/13/microsoft-is-cutting-3percent-of-workers-across-the-software-company.html): Microsoft is Cutting 3% of All Workers</small>
+## <a name="13"></a>13. 实验在等待：当诗歌与科学碰撞的奇迹 
+<small>🔗 [rifters.com](https://www.rifters.com/crawl/?p=11511): It Awaits Your Experiments</small>
 
 
-| 🔥🔥: 122 \| 💬: [24](https://news.ycombinator.com/item?id=43973399) \| 🗓️ 2025-05-13
-
-
-<br />
-微软宣布将在全球范围内裁员**3%**，涉及所有层级和地区。截至去年6月，该公司拥有22.8万名员工，此次裁员将影响数千人。此举旨在**减少管理层级**，以适应市场变化。尽管微软近期财报表现强劲（季度净利润258亿美元），但这是继2023年裁员1万人后的又一次大规模调整。发言人强调，此次裁员与绩效无关，而是**组织优化**的一部分。同时，微软Azure云业务因AI驱动增长超预期，股价近期创下年内新高。
-
----
-
-## <a name="18"></a>18. Y Combinator指控谷歌垄断，却避谈与OpenAI的密切关系 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/13/y-combinator-says-google-is-a-monopolist-that-has-stunted-the-startup-ecosystem/): Y Combinator says Google is a monopolist, no comment about its OpenAI ties</small>
-
-
-| 🔥🔥: 118 \| 💬: [39](https://news.ycombinator.com/item?id=43978224) \| 🗓️ 2025-05-13
+| 🔥🔥: 147 \| 💬: [51](https://news.ycombinator.com/item?id=43974005) \| 🗓️ 2025-05-13
 
 
 <br />
-知名创投机构Y Combinator在提交给美国政府对谷歌反垄断案的法庭文件中，**指责谷歌垄断**并压制初创生态，导致风投不敢投资可能挑战其地位的搜索和AI公司。YC称谷歌通过默认搜索协议等**反竞争手段**冻结市场创新，要求其开放搜索索引供竞争对手训练AI模型，否则建议分拆业务。值得注意的是，YC与OpenAI关系紧密（CEO曾任职YC），但未提及自身利益关联。谷歌未回应指控，此前曾称政府整改方案会损害消费者利益。
+这篇文章讲述了诗人**Christian Bök**历时二十余年的**《异种文本实验》**，将诗歌编码进**耐辐射奇球菌**（Deinococcus radiodurans）的DNA中。这种微生物堪称“细菌界的终结者”，能在极端环境中存活，甚至可能比人类文明更长久。Bök的诗歌不仅是一段文字，还与生成的蛋白质形成“奥菲斯与欧律狄刻”般的对话，并发出荧光。尽管科学界曾质疑其可行性，Bök最终在2025年成功，让艺术驱动了科学。这部作品不仅是诗歌，更是**跨越时空的生命艺术**，或将成为人类留给外星文明的遗产。
 
 ---
 
-## <a name="19"></a>19. 反人类计算（2023） 
-<small>🔗 [erratique.ch](https://erratique.ch/writings/anti-personnel-computing): Anti-Personnel Computing (2023)</small>
+## <a name="14"></a>14. 基于类型约束的语言模型代码生成方法 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2504.09246): Type-constrained code generation with language models</small>
 
 
-| 🔥🔥: 115 \| 💬: [51](https://news.ycombinator.com/item?id=43970637) \| 🗓️ 2025-05-13
+| 🔥🔥: 145 \| 💬: [54](https://news.ycombinator.com/item?id=43978357) \| 🗓️ 2025-05-13
 
 
 <br />
-该文提出新词“**反人类计算**”，指21世纪初主流计算设备**牺牲用户利益**、为第三方谋利的现象。相关术语“**反人类计算机**”指主要服务于第三方而非用户的设备。词源结合了“反人员地雷”与“个人计算/电脑”，尖锐揭示科技异化问题。核心矛盾在于**设备所有权与受益权分离**，用户沦为数据剥削对象。
+该研究针对**大型语言模型（LLM）**在代码生成中频繁出现**类型错误**的问题，提出了一种新型的**类型约束解码方法**。通过结合前缀自动机和可居住类型搜索技术，该方法能强制保证生成代码的类型正确性。实验表明，在HumanEval和MBPP数据集上，该方法将编译错误减少超50%，并显著提升代码合成、翻译和修复任务的功能正确率，且适用于不同规模的模型（包括参数量超300亿的开源模型）。研究以TypeScript为例验证了其通用性，为形式化类型系统与LLM的协同应用提供了新思路。
 
 ---
 
-## <a name="20"></a>20. 降低Rust语言的学习门槛 
+## <a name="15"></a>15. HelixDB：专为AI应用打造的开源图向量数据库（Rust） 
+<small>🔗 [github.com](https://github.com/HelixDB/helix-db/): Show HN: HelixDB – Open-source vector-graph database for AI applications (Rust)</small>
+
+
+| 🔥🔥: 140 \| 💬: [63](https://news.ycombinator.com/item?id=43975423) \| 🗓️ 2025-05-13
+
+
+<br />
+HelixDB是一款基于**Rust**开发的高性能**图向量数据库**，专为**RAG（检索增强生成）**和AI应用设计。它结合了图数据库的关系处理能力与向量数据库的相似性搜索功能，并采用LMDB作为存储引擎，确保**ACID兼容**与高效持久化。性能表现卓越（比Neo4j快1000倍，与Qdrant向量搜索相当），提供CLI工具和多种语言SDK（如TypeScript/Python），支持快速部署查询。开源协议为AGPL-3.0，同时提供商业托管服务。
+
+---
+
+## <a name="16"></a>16. 太空数据中心Starcloud：用轨道算力训练下一代AI 
+<small>🔗 [ycombinator.com](https://www.ycombinator.com/companies/starcloud): Starcloud</small>
+
+
+| 🔥🔥: 140 \| 💬: [285](https://news.ycombinator.com/item?id=43977188) \| 🗓️ 2025-05-13
+
+
+<br />
+Starcloud（前身为Lumen Orbit）计划在太空部署**兆瓦级数据中心网络**，未来可扩展至千兆瓦规模，旨在利用**太空太阳能**和**被动冷却**优势，解决地球算力扩张对能源与环境的压力。其首颗演示卫星将于2025年7月发射，搭载比现有太空GPU强**100倍**的算力，并与英伟达合作。团队由航天与AI专家组成，已获千万美元融资，目标为GPT6等大模型提供可持续的轨道训练环境。
+
+---
+
+## <a name="17"></a>17. 降低Rust语言的学习门槛 
 <small>🔗 [corrode.dev](https://corrode.dev/blog/flattening-rusts-learning-curve/): Flattening Rust’s learning curve</small>
 
 
-| 🔥🔥: 114 \| 💬: [97](https://news.ycombinator.com/item?id=43978435) \| 🗓️ 2025-05-13
+| 🔥🔥: 130 \| 💬: [108](https://news.ycombinator.com/item?id=43978435) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -263,11 +227,47 @@ HelixDB是一款基于**Rust**开发的高性能**图向量数据库**，专为*
 
 ---
 
+## <a name="18"></a>18. 微软将裁员3%以优化管理层结构 
+<small>🔗 [cnbc.com](https://www.cnbc.com/2025/05/13/microsoft-is-cutting-3percent-of-workers-across-the-software-company.html): Microsoft is Cutting 3% of All Workers</small>
+
+
+| 🔥🔥: 124 \| 💬: [24](https://news.ycombinator.com/item?id=43973399) \| 🗓️ 2025-05-13
+
+
+<br />
+微软宣布将在全球范围内裁员**3%**，涉及所有层级和地区。截至去年6月，该公司拥有22.8万名员工，此次裁员将影响数千人。此举旨在**减少管理层级**，以适应市场变化。尽管微软近期财报表现强劲（季度净利润258亿美元），但这是继2023年裁员1万人后的又一次大规模调整。发言人强调，此次裁员与绩效无关，而是**组织优化**的一部分。同时，微软Azure云业务因AI驱动增长超预期，股价近期创下年内新高。
+
+---
+
+## <a name="19"></a>19. Y Combinator指控谷歌垄断，却避谈与OpenAI的密切关系 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/13/y-combinator-says-google-is-a-monopolist-that-has-stunted-the-startup-ecosystem/): Y Combinator says Google is a monopolist, no comment about its OpenAI ties</small>
+
+
+| 🔥🔥: 119 \| 💬: [39](https://news.ycombinator.com/item?id=43978224) \| 🗓️ 2025-05-13
+
+
+<br />
+知名创投机构Y Combinator在提交给美国政府对谷歌反垄断案的法庭文件中，**指责谷歌垄断**并压制初创生态，导致风投不敢投资可能挑战其地位的搜索和AI公司。YC称谷歌通过默认搜索协议等**反竞争手段**冻结市场创新，要求其开放搜索索引供竞争对手训练AI模型，否则建议分拆业务。值得注意的是，YC与OpenAI关系紧密（CEO曾任职YC），但未提及自身利益关联。谷歌未回应指控，此前曾称政府整改方案会损害消费者利益。
+
+---
+
+## <a name="20"></a>20. 反人类计算（2023） 
+<small>🔗 [erratique.ch](https://erratique.ch/writings/anti-personnel-computing): Anti-Personnel Computing (2023)</small>
+
+
+| 🔥🔥: 115 \| 💬: [52](https://news.ycombinator.com/item?id=43970637) \| 🗓️ 2025-05-13
+
+
+<br />
+该文提出新词“**反人类计算**”，指21世纪初主流计算设备**牺牲用户利益**、为第三方谋利的现象。相关术语“**反人类计算机**”指主要服务于第三方而非用户的设备。词源结合了“反人员地雷”与“个人计算/电脑”，尖锐揭示科技异化问题。核心矛盾在于**设备所有权与受益权分离**，用户沦为数据剥削对象。
+
+---
+
 ## <a name="21"></a>21. 美国漏洞追踪体系失灵，欧盟推出自主安全漏洞数据库 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/05/13/eu_security_bug_database/): As US vuln-tracking falters, EU enters with its own security bug database</small>
 
 
-| 🔥🔥: 111 \| 💬: [42](https://news.ycombinator.com/item?id=43972438) \| 🗓️ 2025-05-13
+| 🔥🔥: 112 \| 💬: [42](https://news.ycombinator.com/item?id=43972438) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -275,11 +275,25 @@ HelixDB是一款基于**Rust**开发的高性能**图向量数据库**，专为*
 
 ---
 
-## <a name="22"></a>22. 共和党将十年AI监管禁令塞入预算法案 
+## <a name="22"></a>22. 用大语言模型构建文档实时知识图谱 
+<small>🔗 [cocoindex.io](https://cocoindex.io/blogs/knowledge-graph-for-docs/): Build real-time knowledge graph for documents with LLM</small>
+
+
+| 🔥🔥: 108 \| 💬: [17](https://news.ycombinator.com/item?id=43976895) \| 🗓️ 2025-05-13
+
+
+<br />
+CocoIndex 提供了一种便捷的方式，通过持续更新的文档源构建和维护**知识图谱**。本文以CocoIndex文档为例，利用**LLM**从文档中提取概念间的关系，包括**主体-客体关系**（如“CocoIndex支持增量处理”）和**实体提及**（如某文档提及特定概念）。  
+
+流程包括：安装PostgreSQL和Neo4j、配置OpenAI API密钥、通过代码示例展示如何添加文档源、提取摘要与关系，并最终将数据导出至Neo4j生成图谱。用户可通过Neo4j浏览器查询图谱关系，或使用CocoInsight调试管线。项目代码已开源，欢迎在GitHub上支持。
+
+---
+
+## <a name="23"></a>23. 共和党将十年AI监管禁令塞入预算法案 
 <small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/05/gop-sneaks-decade-long-ai-regulation-ban-into-spending-bill/): GOP sneaks decade-long AI regulation ban into spending bill</small>
 
 
-| 🔥🔥: 105 \| 💬: [118](https://news.ycombinator.com/item?id=43975254) \| 🗓️ 2025-05-13
+| 🔥🔥: 107 \| 💬: [118](https://news.ycombinator.com/item?id=43975254) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -287,7 +301,7 @@ HelixDB是一款基于**Rust**开发的高性能**图向量数据库**，专为*
 
 ---
 
-## <a name="23"></a>23. OpenAI"星际之门"项目因关税问题陷入停滞 
+## <a name="24"></a>24. OpenAI"星际之门"项目因关税问题陷入停滞 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/12/openais-stargate-project-reportedly-struggling-to-get-off-the-ground-thanks-to-tariffs/): OpenAI's Stargate project struggling to get off the ground, due to tariffs</small>
 
 
@@ -299,26 +313,14 @@ OpenAI耗资5亿美元的**"星际之门"**数据中心项目因关税导致的�
 
 ---
 
-## <a name="24"></a>24. 别再用unwrap处理Option了：这里有更好的方法（2024） 
+## <a name="25"></a>25. 别再用unwrap处理Option了：这里有更好的方法（2024） 
 <small>🔗 [corrode.dev](https://corrode.dev/blog/rust-option-handling-best-practices/): Don't unwrap options: There are better ways (2024)</small>
 
 
-| 🔥: 91 \| 💬: [54](https://news.ycombinator.com/item?id=43975785) \| 🗓️ 2025-05-13
+| 🔥: 92 \| 💬: [55](https://news.ycombinator.com/item?id=43975785) \| 🗓️ 2025-05-13
 
 
 <br />
 本文探讨了Rust中处理`Option`类型时避免使用`unwrap()`的更好实践。当函数返回`Result`时，直接对`Option`使用`?`运算符会报错，常见解法包括：**`ok_or`转换**、**`match`匹配**和**`let-else`语法**。其中，**`let-else`**因其简洁性和可读性成为首选方案，能清晰区分正常流程与错误处理。作者强调生产代码中应避免滥用`unwrap`，推荐使用标准库方案提升代码健壮性。
-
----
-
-## <a name="25"></a>25. 高效生活的101条法则 
-<small>🔗 [mitchhorowitz.substack.com](https://mitchhorowitz.substack.com/p/101-rules-of-effective-living): One hundred and one rules of effective living</small>
-
-
-| 🔥: 86 \| 💬: [86](https://news.ycombinator.com/item?id=43971791) \| 🗓️ 2025-05-13
-
-
-<br />
-作者Mitch Horowitz基于三十年的经验，总结了**诚实守信、专注执行、人际智慧**三大核心原则。包括：准时完成工作、直面失败、减少抱怨、远离恶人、重视实践而非空谈、尊重他人、保持好奇心等。强调**道德自省**（如"道德评判他人，伦理约束自我"）和**危机意识**（"自然灾难时，生存是唯一法则"）。最后提醒：过度关注厌恶你的人，只会放大自我投射的不安。
 
 ---
