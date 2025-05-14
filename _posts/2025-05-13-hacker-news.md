@@ -27,7 +27,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/ID_AA_Carmack/status/1922100771392520710): The world could run on older hardware if software optimization was a priority</small>
 
 
-| 🔥🔥: 587 \| 💬: [555](https://news.ycombinator.com/item?id=43971464) \| 🗓️ 2025-05-13
+| 🔥🔥: 598 \| 💬: [568](https://news.ycombinator.com/item?id=43971464) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [openwall.com](https://www.openwall.com/lists/oss-security/2025/05/12/1): Multiple security issues in GNU Screen</small>
 
 
-| 🔥🔥: 340 \| 💬: [203](https://news.ycombinator.com/item?id=43971716) \| 🗓️ 2025-05-13
+| 🔥🔥: 349 \| 💬: [212](https://news.ycombinator.com/item?id=43971716) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [comsec.ethz.ch](https://comsec.ethz.ch/research/microarch/branch-privilege-injection/): Branch Privilege Injection: Exploiting branch predictor race conditions</small>
 
 
-| 🔥🔥: 327 \| 💬: [131](https://news.ycombinator.com/item?id=43974891) \| 🗓️ 2025-05-13
+| 🔥🔥: 333 \| 💬: [132](https://news.ycombinator.com/item?id=43974891) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [wqtz.bearblog.dev](https://wqtz.bearblog.dev/high-stress-job-relationships/): In a high-stress work environment, prioritize relationships</small>
 
 
-| 🔥🔥: 298 \| 💬: [186](https://news.ycombinator.com/item?id=43972535) \| 🗓️ 2025-05-13
+| 🔥🔥: 300 \| 💬: [185](https://news.ycombinator.com/item?id=43972535) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [theregister.com](https://www.theregister.com/2025/05/13/nextcloud_play_store_complaint/): Nextcloud cries foul over Google Play Store app rejection</small>
 
 
-| 🔥🔥: 246 \| 💬: [154](https://news.ycombinator.com/item?id=43970959) \| 🗓️ 2025-05-13
+| 🔥🔥: 248 \| 💬: [154](https://news.ycombinator.com/item?id=43970959) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -83,23 +83,11 @@ tags:
 
 ---
 
-## <a name="6"></a>6. 2025年了，银行为何还在用落后的身份验证？ 
-<small>🔗 [jamal.haba.sh](https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/): Why are banks still getting authentication so wrong?</small>
-
-
-| 🔥🔥: 235 \| 💬: [307](https://news.ycombinator.com/item?id=43976359) \| 🗓️ 2025-05-13
-
-
-<br />
-作者因国际旅行时无法接收加拿大短信，被TD银行**SMS双因素认证（2FA）**系统锁死账户，即便安装了专用验证应用仍陷入死循环。文章批评银行依赖**不安全的短信验证**（易受SIM卡劫持和钓鱼攻击），却拒绝支持**TOTP标准**或通行密钥（Passkeys）等现代方案。安全性与用户体验本可兼顾，但银行固守陈旧技术，甚至三年后仍未改进。关键问题在于：**安全设计应以用户为中心**，而非制造障碍。
-
----
-
-## <a name="7"></a>7. PDF文本提取：一个看似简单却极具挑战的技术难题 
+## <a name="6"></a>6. PDF文本提取：一个看似简单却极具挑战的技术难题 
 <small>🔗 [marginalia.nu](https://www.marginalia.nu/log/a_119_pdf/): PDF to Text, a challenging problem</small>
 
 
-| 🔥🔥: 234 \| 💬: [127](https://news.ycombinator.com/item?id=43973721) \| 🗓️ 2025-05-13
+| 🔥🔥: 240 \| 💬: [132](https://news.ycombinator.com/item?id=43973721) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -107,23 +95,23 @@ PDF本质是**图形格式**而非文本格式，其文字以**字形坐标映�
 
 ---
 
-## <a name="8"></a>8. 我为何辞去美国国家科学基金会职务 
-<small>🔗 [time.com](https://time.com/7285045/resigning-national-science-foundation-library-congress/): Why I'm resigning from the National Science Foundation</small>
+## <a name="7"></a>7. 2025年了，银行为何还在用落后的身份验证？ 
+<small>🔗 [jamal.haba.sh](https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/): Why are banks still getting authentication so wrong?</small>
 
 
-| 🔥🔥: 221 \| 💬: [257](https://news.ycombinator.com/item?id=43973210) \| 🗓️ 2025-05-13
+| 🔥🔥: 240 \| 💬: [317](https://news.ycombinator.com/item?id=43976359) \| 🗓️ 2025-05-13
 
 
 <br />
-作者因**白宫威胁宪政民主**、削减科研经费，以及**联邦机构诚信受损**而辞职。文中指出，国家科学基金会（NSF）和国会图书馆的咨询职能已被架空，**科学自由受政治干预**，例如未经审查否决拨款、解雇倡导多元化的官员。辞职是对**知识管控**和**体制空洞化**的抗议，强调顾问角色需真正影响决策，而非沦为形式。作者引用赫希曼的“退出与发声”理论，表明离开是为更自由地批判现状，坚守机构初心。
+作者因国际旅行时无法接收加拿大短信，被TD银行**SMS双因素认证（2FA）**系统锁死账户，即便安装了专用验证应用仍陷入死循环。文章批评银行依赖**不安全的短信验证**（易受SIM卡劫持和钓鱼攻击），却拒绝支持**TOTP标准**或通行密钥（Passkeys）等现代方案。安全性与用户体验本可兼顾，但银行固守陈旧技术，甚至三年后仍未改进。关键问题在于：**安全设计应以用户为中心**，而非制造障碍。
 
 ---
 
-## <a name="9"></a>9. 谷歌秘密开发安卓桌面模式，挑战三星DeX 
+## <a name="8"></a>8. 谷歌秘密开发安卓桌面模式，挑战三星DeX 
 <small>🔗 [androidauthority.com](https://www.androidauthority.com/android-desktop-mode-leak-3550321/): Google is building its own DeX: First look at Android's Desktop Mode</small>
 
 
-| 🔥🔥: 221 \| 💬: [172](https://news.ycombinator.com/item?id=43973395) \| 🗓️ 2025-05-13
+| 🔥🔥: 230 \| 💬: [184](https://news.ycombinator.com/item?id=43973395) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -131,11 +119,23 @@ PDF本质是**图形格式**而非文本格式，其文字以**字形坐标映�
 
 ---
 
+## <a name="9"></a>9. 我为何辞去美国国家科学基金会职务 
+<small>🔗 [time.com](https://time.com/7285045/resigning-national-science-foundation-library-congress/): Why I'm resigning from the National Science Foundation</small>
+
+
+| 🔥🔥: 221 \| 💬: [260](https://news.ycombinator.com/item?id=43973210) \| 🗓️ 2025-05-13
+
+
+<br />
+作者因**白宫威胁宪政民主**、削减科研经费，以及**联邦机构诚信受损**而辞职。文中指出，国家科学基金会（NSF）和国会图书馆的咨询职能已被架空，**科学自由受政治干预**，例如未经审查否决拨款、解雇倡导多元化的官员。辞职是对**知识管控**和**体制空洞化**的抗议，强调顾问角色需真正影响决策，而非沦为形式。作者引用赫希曼的“退出与发声”理论，表明离开是为更自由地批判现状，坚守机构初心。
+
+---
+
 ## <a name="10"></a>10. 奥丁：为我量身打造的高效编程语言 
 <small>🔗 [zylinski.se](https://zylinski.se/posts/a-programming-language-for-me/): Odin: A programming language made for me</small>
 
 
-| 🔥🔥: 166 \| 💬: [180](https://news.ycombinator.com/item?id=43970800) \| 🗓️ 2025-05-13
+| 🔥🔥: 169 \| 💬: [185](https://news.ycombinator.com/item?id=43970800) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -147,7 +147,7 @@ PDF本质是**图形格式**而非文本格式，其文字以**字形坐标映�
 <small>🔗 [duskos.org](https://duskos.org/): Dusk OS</small>
 
 
-| 🔥🔥: 163 \| 💬: [105](https://news.ycombinator.com/item?id=43976862) \| 🗓️ 2025-05-13
+| 🔥🔥: 164 \| 💬: [105](https://news.ycombinator.com/item?id=43976862) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -155,23 +155,11 @@ PDF本质是**图形格式**而非文本格式，其文字以**字形坐标映�
 
 ---
 
-## <a name="12"></a>12. 太空数据中心Starcloud：用轨道算力训练下一代AI 
-<small>🔗 [ycombinator.com](https://www.ycombinator.com/companies/starcloud): Starcloud</small>
-
-
-| 🔥🔥: 136 \| 💬: [265](https://news.ycombinator.com/item?id=43977188) \| 🗓️ 2025-05-13
-
-
-<br />
-Starcloud（前身为Lumen Orbit）计划在太空部署**兆瓦级数据中心网络**，未来可扩展至千兆瓦规模，旨在利用**太空太阳能**和**被动冷却**优势，解决地球算力扩张对能源与环境的压力。其首颗演示卫星将于2025年7月发射，搭载比现有太空GPU强**100倍**的算力，并与英伟达合作。团队由航天与AI专家组成，已获千万美元融资，目标为GPT6等大模型提供可持续的轨道训练环境。
-
----
-
-## <a name="13"></a>13. 实验在等待：当诗歌与科学碰撞的奇迹 
+## <a name="12"></a>12. 实验在等待：当诗歌与科学碰撞的奇迹 
 <small>🔗 [rifters.com](https://www.rifters.com/crawl/?p=11511): It Awaits Your Experiments</small>
 
 
-| 🔥🔥: 133 \| 💬: [44](https://news.ycombinator.com/item?id=43974005) \| 🗓️ 2025-05-13
+| 🔥🔥: 139 \| 💬: [45](https://news.ycombinator.com/item?id=43974005) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -179,11 +167,23 @@ Starcloud（前身为Lumen Orbit）计划在太空部署**兆瓦级数据中心�
 
 ---
 
+## <a name="13"></a>13. 太空数据中心Starcloud：用轨道算力训练下一代AI 
+<small>🔗 [ycombinator.com](https://www.ycombinator.com/companies/starcloud): Starcloud</small>
+
+
+| 🔥🔥: 136 \| 💬: [270](https://news.ycombinator.com/item?id=43977188) \| 🗓️ 2025-05-13
+
+
+<br />
+Starcloud（前身为Lumen Orbit）计划在太空部署**兆瓦级数据中心网络**，未来可扩展至千兆瓦规模，旨在利用**太空太阳能**和**被动冷却**优势，解决地球算力扩张对能源与环境的压力。其首颗演示卫星将于2025年7月发射，搭载比现有太空GPU强**100倍**的算力，并与英伟达合作。团队由航天与AI专家组成，已获千万美元融资，目标为GPT6等大模型提供可持续的轨道训练环境。
+
+---
+
 ## <a name="14"></a>14. HelixDB：专为AI应用打造的开源图向量数据库（Rust） 
 <small>🔗 [github.com](https://github.com/HelixDB/helix-db/): Show HN: HelixDB – Open-source vector-graph database for AI applications (Rust)</small>
 
 
-| 🔥🔥: 124 \| 💬: [51](https://news.ycombinator.com/item?id=43975423) \| 🗓️ 2025-05-13
+| 🔥🔥: 131 \| 💬: [54](https://news.ycombinator.com/item?id=43975423) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -195,7 +195,7 @@ HelixDB是一款基于**Rust**开发的高性能**图向量数据库**，专为*
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/05/13/microsoft-is-cutting-3percent-of-workers-across-the-software-company.html): Microsoft is Cutting 3% of All Workers</small>
 
 
-| 🔥🔥: 117 \| 💬: [24](https://news.ycombinator.com/item?id=43973399) \| 🗓️ 2025-05-13
+| 🔥🔥: 120 \| 💬: [24](https://news.ycombinator.com/item?id=43973399) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -207,7 +207,7 @@ HelixDB是一款基于**Rust**开发的高性能**图向量数据库**，专为*
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/13/y-combinator-says-google-is-a-monopolist-that-has-stunted-the-startup-ecosystem/): Y Combinator says Google is a monopolist, no comment about its OpenAI ties</small>
 
 
-| 🔥🔥: 115 \| 💬: [38](https://news.ycombinator.com/item?id=43978224) \| 🗓️ 2025-05-13
+| 🔥🔥: 118 \| 💬: [39](https://news.ycombinator.com/item?id=43978224) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -219,7 +219,7 @@ HelixDB是一款基于**Rust**开发的高性能**图向量数据库**，专为*
 <small>🔗 [erratique.ch](https://erratique.ch/writings/anti-personnel-computing): Anti-Personnel Computing (2023)</small>
 
 
-| 🔥🔥: 113 \| 💬: [50](https://news.ycombinator.com/item?id=43970637) \| 🗓️ 2025-05-13
+| 🔥🔥: 114 \| 💬: [51](https://news.ycombinator.com/item?id=43970637) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -231,7 +231,7 @@ HelixDB是一款基于**Rust**开发的高性能**图向量数据库**，专为*
 <small>🔗 [theregister.com](https://www.theregister.com/2025/05/13/eu_security_bug_database/): As US vuln-tracking falters, EU enters with its own security bug database</small>
 
 
-| 🔥🔥: 109 \| 💬: [41](https://news.ycombinator.com/item?id=43972438) \| 🗓️ 2025-05-13
+| 🔥🔥: 110 \| 💬: [42](https://news.ycombinator.com/item?id=43972438) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -239,11 +239,23 @@ HelixDB是一款基于**Rust**开发的高性能**图向量数据库**，专为*
 
 ---
 
-## <a name="19"></a>19. 共和党将十年AI监管禁令塞入预算法案 
+## <a name="19"></a>19. 基于类型约束的语言模型代码生成方法 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2504.09246): Type-constrained code generation with language models</small>
+
+
+| 🔥🔥: 106 \| 💬: [45](https://news.ycombinator.com/item?id=43978357) \| 🗓️ 2025-05-13
+
+
+<br />
+该研究针对**大型语言模型（LLM）**在代码生成中频繁出现**类型错误**的问题，提出了一种新型的**类型约束解码方法**。通过结合前缀自动机和可居住类型搜索技术，该方法能强制保证生成代码的类型正确性。实验表明，在HumanEval和MBPP数据集上，该方法将编译错误减少超50%，并显著提升代码合成、翻译和修复任务的功能正确率，且适用于不同规模的模型（包括参数量超300亿的开源模型）。研究以TypeScript为例验证了其通用性，为形式化类型系统与LLM的协同应用提供了新思路。
+
+---
+
+## <a name="20"></a>20. 共和党将十年AI监管禁令塞入预算法案 
 <small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/05/gop-sneaks-decade-long-ai-regulation-ban-into-spending-bill/): GOP sneaks decade-long AI regulation ban into spending bill</small>
 
 
-| 🔥🔥: 104 \| 💬: [114](https://news.ycombinator.com/item?id=43975254) \| 🗓️ 2025-05-13
+| 🔥🔥: 104 \| 💬: [116](https://news.ycombinator.com/item?id=43975254) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -251,11 +263,23 @@ HelixDB是一款基于**Rust**开发的高性能**图向量数据库**，专为*
 
 ---
 
-## <a name="20"></a>20. OpenAI"星际之门"项目因关税问题陷入停滞 
+## <a name="21"></a>21. 降低Rust语言的学习门槛 
+<small>🔗 [corrode.dev](https://corrode.dev/blog/flattening-rusts-learning-curve/): Flattening Rust's learning curve</small>
+
+
+| 🔥: 95 \| 💬: [71](https://news.ycombinator.com/item?id=43978435) \| 🗓️ 2025-05-13
+
+
+<br />
+本文提出高效学习Rust的核心方法：**放弃抵抗**，接受其独特思维模型（如**所有权**、生命周期和trait系统），将编译器视为合作者而非对手。建议通过**小步实践**（如多用`clone()`和`unwrap`）逐步掌握概念，避免过早接触异步编程。强调**精准编码**的重要性，需主动理解错误信息而非依赖自动补全。推荐通过手写代码、拆解问题及可视化数据流来培养直觉，并将已有编程知识映射到Rust概念（如"trait类似接口"）。关键是通过反复试错和深度思考建立肌肉记忆，而非追求速成。
+
+---
+
+## <a name="22"></a>22. OpenAI"星际之门"项目因关税问题陷入停滞 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/12/openais-stargate-project-reportedly-struggling-to-get-off-the-ground-thanks-to-tariffs/): OpenAI's Stargate project struggling to get off the ground, due to tariffs</small>
 
 
-| 🔥: 93 \| 💬: [162](https://news.ycombinator.com/item?id=43974268) \| 🗓️ 2025-05-13
+| 🔥: 94 \| 💬: [162](https://news.ycombinator.com/item?id=43974268) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -263,11 +287,11 @@ OpenAI耗资5亿美元的**"星际之门"**数据中心项目因关税导致的�
 
 ---
 
-## <a name="21"></a>21. 别再用unwrap处理Option了：这里有更好的方法（2024） 
+## <a name="23"></a>23. 别再用unwrap处理Option了：这里有更好的方法（2024） 
 <small>🔗 [corrode.dev](https://corrode.dev/blog/rust-option-handling-best-practices/): Don't unwrap options: There are better ways (2024)</small>
 
 
-| 🔥: 88 \| 💬: [52](https://news.ycombinator.com/item?id=43975785) \| 🗓️ 2025-05-13
+| 🔥: 89 \| 💬: [53](https://news.ycombinator.com/item?id=43975785) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -275,11 +299,11 @@ OpenAI耗资5亿美元的**"星际之门"**数据中心项目因关税导致的�
 
 ---
 
-## <a name="22"></a>22. 高效生活的101条法则 
+## <a name="24"></a>24. 高效生活的101条法则 
 <small>🔗 [mitchhorowitz.substack.com](https://mitchhorowitz.substack.com/p/101-rules-of-effective-living): One hundred and one rules of effective living</small>
 
 
-| 🔥: 86 \| 💬: [83](https://news.ycombinator.com/item?id=43971791) \| 🗓️ 2025-05-13
+| 🔥: 86 \| 💬: [84](https://news.ycombinator.com/item?id=43971791) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -287,7 +311,7 @@ OpenAI耗资5亿美元的**"星际之门"**数据中心项目因关税导致的�
 
 ---
 
-## <a name="23"></a>23. AI就像个不靠谱的顾问 
+## <a name="25"></a>25. AI就像个不靠谱的顾问 
 <small>🔗 [lukekanies.com](https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/): AI Is Like a Crappy Consultant</small>
 
 
@@ -296,29 +320,5 @@ OpenAI耗资5亿美元的**"星际之门"**数据中心项目因关税导致的�
 
 <br />
 作者通过尝试用AI辅助Swift编程发现，**AI适合处理基础工作**（如快速定位语法错误），但无法胜任架构设计等复杂任务。它常给出**糟糕的解决方案**（如盲目捕获错误而非重构），且缺乏真正的思考能力。关键在于**严格控制AI的参与度**——像带实习生一样，只委托机械性工作并严格审查输出。最终结论：AI是高效的工具，但绝不能替代人类决策。
-
----
-
-## <a name="24"></a>24. 全球等面积毫米级地理空间索引系统A5 
-<small>🔗 [github.com](https://github.com/felixpalmer/a5): Show HN: A5</small>
-
-
-| 🔥: 80 \| 💬: [26](https://news.ycombinator.com/item?id=43971314) \| 🗓️ 2025-05-13
-
-
-<br />
-A5是一种基于**五边形网格**的全球地理空间索引系统（DGGS），提供32级分辨率，最大单元覆盖全球，最小单元面积小于30mm²且**等面积误差控制在2%以内**。该系统可将空间数据转换为网格集合，便于分析（如海拔与作物产量相关性）或点数据聚合（如城市民宿分布密度）。A5采用**十二面体五边形镶嵌**技术，相比其他DGGS（如H3的六边形），能最小化投影变形。开源库基于TypeScript，Apache-2.0许可。
-
----
-
-## <a name="25"></a>25. 美国如何放弃科学霸主地位 
-<small>🔗 [steveblank.com](https://steveblank.com/2025/05/13/how-the-united-states-became-a-science-superpower-and-how-quickly-it-could-crumble/): How the United States Gave Up Being a Science Superpower</small>
-
-
-| 🔥: 73 \| 💬: [34](https://news.ycombinator.com/item?id=43972493) \| 🗓️ 2025-05-13
-
-
-<br />
-本文探讨了美国科学领导力的衰落根源。**二战后**，美国通过政府、高校与企业的独特合作模式成为科学超级大国，**联邦资助**推动基础研究并催生硅谷等产业。然而，特朗普政府大幅削减科研预算（如将高校间接成本报销从50%砍至15%），并针对气候、多样性等领域，动摇了这一创新生态的核心。**间接成本体系**本是维持实验室运转的关键，如今被政治短视破坏，威胁到每年1100家科技初创的诞生。作者警告，美国正重蹈英国战后科学衰落的覆辙。
 
 ---
