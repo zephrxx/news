@@ -27,7 +27,7 @@ tags:
 <small>🔗 [twitter.com](https://twitter.com/ID_AA_Carmack/status/1922100771392520710): The world could run on older hardware if software optimization was a priority</small>
 
 
-| 🔥🔥: 571 \| 💬: [544](https://news.ycombinator.com/item?id=43971464) \| 🗓️ 2025-05-13
+| 🔥🔥: 587 \| 💬: [555](https://news.ycombinator.com/item?id=43971464) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [openwall.com](https://www.openwall.com/lists/oss-security/2025/05/12/1): Multiple security issues in GNU Screen</small>
 
 
-| 🔥🔥: 334 \| 💬: [203](https://news.ycombinator.com/item?id=43971716) \| 🗓️ 2025-05-13
+| 🔥🔥: 340 \| 💬: [203](https://news.ycombinator.com/item?id=43971716) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [comsec.ethz.ch](https://comsec.ethz.ch/research/microarch/branch-privilege-injection/): Branch Privilege Injection: Exploiting branch predictor race conditions</small>
 
 
-| 🔥🔥: 320 \| 💬: [127](https://news.ycombinator.com/item?id=43974891) \| 🗓️ 2025-05-13
+| 🔥🔥: 327 \| 💬: [131](https://news.ycombinator.com/item?id=43974891) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [wqtz.bearblog.dev](https://wqtz.bearblog.dev/high-stress-job-relationships/): In a high-stress work environment, prioritize relationships</small>
 
 
-| 🔥🔥: 286 \| 💬: [179](https://news.ycombinator.com/item?id=43972535) \| 🗓️ 2025-05-13
+| 🔥🔥: 298 \| 💬: [186](https://news.ycombinator.com/item?id=43972535) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [theregister.com](https://www.theregister.com/2025/05/13/nextcloud_play_store_complaint/): Nextcloud cries foul over Google Play Store app rejection</small>
 
 
-| 🔥🔥: 246 \| 💬: [153](https://news.ycombinator.com/item?id=43970959) \| 🗓️ 2025-05-13
+| 🔥🔥: 246 \| 💬: [154](https://news.ycombinator.com/item?id=43970959) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [jamal.haba.sh](https://jamal.haba.sh/its-2025-why-are-banks-still-getting-authentication-so-wrong/): Why are banks still getting authentication so wrong?</small>
 
 
-| 🔥🔥: 230 \| 💬: [300](https://news.ycombinator.com/item?id=43976359) \| 🗓️ 2025-05-13
+| 🔥🔥: 235 \| 💬: [307](https://news.ycombinator.com/item?id=43976359) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [marginalia.nu](https://www.marginalia.nu/log/a_119_pdf/): PDF to Text, a challenging problem</small>
 
 
-| 🔥🔥: 226 \| 💬: [124](https://news.ycombinator.com/item?id=43973721) \| 🗓️ 2025-05-13
+| 🔥🔥: 234 \| 💬: [127](https://news.ycombinator.com/item?id=43973721) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -111,7 +111,7 @@ PDF本质是**图形格式**而非文本格式，其文字以**字形坐标映�
 <small>🔗 [time.com](https://time.com/7285045/resigning-national-science-foundation-library-congress/): Why I'm resigning from the National Science Foundation</small>
 
 
-| 🔥🔥: 220 \| 💬: [254](https://news.ycombinator.com/item?id=43973210) \| 🗓️ 2025-05-13
+| 🔥🔥: 221 \| 💬: [257](https://news.ycombinator.com/item?id=43973210) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -123,7 +123,7 @@ PDF本质是**图形格式**而非文本格式，其文字以**字形坐标映�
 <small>🔗 [androidauthority.com](https://www.androidauthority.com/android-desktop-mode-leak-3550321/): Google is building its own DeX: First look at Android's Desktop Mode</small>
 
 
-| 🔥🔥: 205 \| 💬: [165](https://news.ycombinator.com/item?id=43973395) \| 🗓️ 2025-05-13
+| 🔥🔥: 221 \| 💬: [172](https://news.ycombinator.com/item?id=43973395) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -135,7 +135,7 @@ PDF本质是**图形格式**而非文本格式，其文字以**字形坐标映�
 <small>🔗 [zylinski.se](https://zylinski.se/posts/a-programming-language-for-me/): Odin: A programming language made for me</small>
 
 
-| 🔥🔥: 163 \| 💬: [177](https://news.ycombinator.com/item?id=43970800) \| 🗓️ 2025-05-13
+| 🔥🔥: 166 \| 💬: [180](https://news.ycombinator.com/item?id=43970800) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -147,7 +147,7 @@ PDF本质是**图形格式**而非文本格式，其文字以**字形坐标映�
 <small>🔗 [duskos.org](https://duskos.org/): Dusk OS</small>
 
 
-| 🔥🔥: 160 \| 💬: [101](https://news.ycombinator.com/item?id=43976862) \| 🗓️ 2025-05-13
+| 🔥🔥: 163 \| 💬: [105](https://news.ycombinator.com/item?id=43976862) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -159,7 +159,7 @@ PDF本质是**图形格式**而非文本格式，其文字以**字形坐标映�
 <small>🔗 [ycombinator.com](https://www.ycombinator.com/companies/starcloud): Starcloud</small>
 
 
-| 🔥🔥: 132 \| 💬: [249](https://news.ycombinator.com/item?id=43977188) \| 🗓️ 2025-05-13
+| 🔥🔥: 136 \| 💬: [265](https://news.ycombinator.com/item?id=43977188) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -171,7 +171,7 @@ Starcloud（前身为Lumen Orbit）计划在太空部署**兆瓦级数据中心�
 <small>🔗 [rifters.com](https://www.rifters.com/crawl/?p=11511): It Awaits Your Experiments</small>
 
 
-| 🔥🔥: 126 \| 💬: [42](https://news.ycombinator.com/item?id=43974005) \| 🗓️ 2025-05-13
+| 🔥🔥: 133 \| 💬: [44](https://news.ycombinator.com/item?id=43974005) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -183,7 +183,7 @@ Starcloud（前身为Lumen Orbit）计划在太空部署**兆瓦级数据中心�
 <small>🔗 [github.com](https://github.com/HelixDB/helix-db/): Show HN: HelixDB – Open-source vector-graph database for AI applications (Rust)</small>
 
 
-| 🔥🔥: 117 \| 💬: [51](https://news.ycombinator.com/item?id=43975423) \| 🗓️ 2025-05-13
+| 🔥🔥: 124 \| 💬: [51](https://news.ycombinator.com/item?id=43975423) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -195,7 +195,7 @@ HelixDB是一款基于**Rust**开发的高性能**图向量数据库**，专为*
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/05/13/microsoft-is-cutting-3percent-of-workers-across-the-software-company.html): Microsoft is Cutting 3% of All Workers</small>
 
 
-| 🔥🔥: 116 \| 💬: [23](https://news.ycombinator.com/item?id=43973399) \| 🗓️ 2025-05-13
+| 🔥🔥: 117 \| 💬: [24](https://news.ycombinator.com/item?id=43973399) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -203,7 +203,19 @@ HelixDB是一款基于**Rust**开发的高性能**图向量数据库**，专为*
 
 ---
 
-## <a name="16"></a>16. 反人类计算（2023） 
+## <a name="16"></a>16. Y Combinator指控谷歌垄断，却避谈与OpenAI的密切关系 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/13/y-combinator-says-google-is-a-monopolist-that-has-stunted-the-startup-ecosystem/): Y Combinator says Google is a monopolist, no comment about its OpenAI ties</small>
+
+
+| 🔥🔥: 115 \| 💬: [38](https://news.ycombinator.com/item?id=43978224) \| 🗓️ 2025-05-13
+
+
+<br />
+知名创投机构Y Combinator在提交给美国政府对谷歌反垄断案的法庭文件中，**指责谷歌垄断**并压制初创生态，导致风投不敢投资可能挑战其地位的搜索和AI公司。YC称谷歌通过默认搜索协议等**反竞争手段**冻结市场创新，要求其开放搜索索引供竞争对手训练AI模型，否则建议分拆业务。值得注意的是，YC与OpenAI关系紧密（CEO曾任职YC），但未提及自身利益关联。谷歌未回应指控，此前曾称政府整改方案会损害消费者利益。
+
+---
+
+## <a name="17"></a>17. 反人类计算（2023） 
 <small>🔗 [erratique.ch](https://erratique.ch/writings/anti-personnel-computing): Anti-Personnel Computing (2023)</small>
 
 
@@ -212,18 +224,6 @@ HelixDB是一款基于**Rust**开发的高性能**图向量数据库**，专为*
 
 <br />
 该文提出新词“**反人类计算**”，指21世纪初主流计算设备**牺牲用户利益**、为第三方谋利的现象。相关术语“**反人类计算机**”指主要服务于第三方而非用户的设备。词源结合了“反人员地雷”与“个人计算/电脑”，尖锐揭示科技异化问题。核心矛盾在于**设备所有权与受益权分离**，用户沦为数据剥削对象。
-
----
-
-## <a name="17"></a>17. Y Combinator指控谷歌垄断，却避谈与OpenAI的密切关系 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/13/y-combinator-says-google-is-a-monopolist-that-has-stunted-the-startup-ecosystem/): Y Combinator says Google is a monopolist, no comment about its OpenAI ties</small>
-
-
-| 🔥🔥: 111 \| 💬: [34](https://news.ycombinator.com/item?id=43978224) \| 🗓️ 2025-05-13
-
-
-<br />
-知名创投机构Y Combinator在提交给美国政府对谷歌反垄断案的法庭文件中，**指责谷歌垄断**并压制初创生态，导致风投不敢投资可能挑战其地位的搜索和AI公司。YC称谷歌通过默认搜索协议等**反竞争手段**冻结市场创新，要求其开放搜索索引供竞争对手训练AI模型，否则建议分拆业务。值得注意的是，YC与OpenAI关系紧密（CEO曾任职YC），但未提及自身利益关联。谷歌未回应指控，此前曾称政府整改方案会损害消费者利益。
 
 ---
 
@@ -243,7 +243,7 @@ HelixDB是一款基于**Rust**开发的高性能**图向量数据库**，专为*
 <small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/05/gop-sneaks-decade-long-ai-regulation-ban-into-spending-bill/): GOP sneaks decade-long AI regulation ban into spending bill</small>
 
 
-| 🔥🔥: 101 \| 💬: [111](https://news.ycombinator.com/item?id=43975254) \| 🗓️ 2025-05-13
+| 🔥🔥: 104 \| 💬: [114](https://news.ycombinator.com/item?id=43975254) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -255,7 +255,7 @@ HelixDB是一款基于**Rust**开发的高性能**图向量数据库**，专为*
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/12/openais-stargate-project-reportedly-struggling-to-get-off-the-ground-thanks-to-tariffs/): OpenAI's Stargate project struggling to get off the ground, due to tariffs</small>
 
 
-| 🔥: 92 \| 💬: [161](https://news.ycombinator.com/item?id=43974268) \| 🗓️ 2025-05-13
+| 🔥: 93 \| 💬: [162](https://news.ycombinator.com/item?id=43974268) \| 🗓️ 2025-05-13
 
 
 <br />
@@ -275,7 +275,19 @@ OpenAI耗资5亿美元的**"星际之门"**数据中心项目因关税导致的�
 
 ---
 
-## <a name="22"></a>22. AI就像个不靠谱的顾问 
+## <a name="22"></a>22. 高效生活的101条法则 
+<small>🔗 [mitchhorowitz.substack.com](https://mitchhorowitz.substack.com/p/101-rules-of-effective-living): One hundred and one rules of effective living</small>
+
+
+| 🔥: 86 \| 💬: [83](https://news.ycombinator.com/item?id=43971791) \| 🗓️ 2025-05-13
+
+
+<br />
+作者Mitch Horowitz基于三十年的经验，总结了**诚实守信、专注执行、人际智慧**三大核心原则。包括：准时完成工作、直面失败、减少抱怨、远离恶人、重视实践而非空谈、尊重他人、保持好奇心等。强调**道德自省**（如"道德评判他人，伦理约束自我"）和**危机意识**（"自然灾难时，生存是唯一法则"）。最后提醒：过度关注厌恶你的人，只会放大自我投射的不安。
+
+---
+
+## <a name="23"></a>23. AI就像个不靠谱的顾问 
 <small>🔗 [lukekanies.com](https://lukekanies.com/writing/ai-is-like-a-crappy-consultant/): AI Is Like a Crappy Consultant</small>
 
 
@@ -284,18 +296,6 @@ OpenAI耗资5亿美元的**"星际之门"**数据中心项目因关税导致的�
 
 <br />
 作者通过尝试用AI辅助Swift编程发现，**AI适合处理基础工作**（如快速定位语法错误），但无法胜任架构设计等复杂任务。它常给出**糟糕的解决方案**（如盲目捕获错误而非重构），且缺乏真正的思考能力。关键在于**严格控制AI的参与度**——像带实习生一样，只委托机械性工作并严格审查输出。最终结论：AI是高效的工具，但绝不能替代人类决策。
-
----
-
-## <a name="23"></a>23. 高效生活的101条法则 
-<small>🔗 [mitchhorowitz.substack.com](https://mitchhorowitz.substack.com/p/101-rules-of-effective-living): One hundred and one rules of effective living</small>
-
-
-| 🔥: 85 \| 💬: [84](https://news.ycombinator.com/item?id=43971791) \| 🗓️ 2025-05-13
-
-
-<br />
-作者Mitch Horowitz基于三十年的经验，总结了**诚实守信、专注执行、人际智慧**三大核心原则。包括：准时完成工作、直面失败、减少抱怨、远离恶人、重视实践而非空谈、尊重他人、保持好奇心等。强调**道德自省**（如"道德评判他人，伦理约束自我"）和**危机意识**（"自然灾难时，生存是唯一法则"）。最后提醒：过度关注厌恶你的人，只会放大自我投射的不安。
 
 ---
 
