@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共22条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [deepmind.google](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/): AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms</small>
 
 
-| 🔥🔥: 579 \| 💬: [163](https://news.ycombinator.com/item?id=43985489) \| 🗓️ 2025-05-14
+| 🔥🔥: 622 \| 💬: [168](https://news.ycombinator.com/item?id=43985489) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -39,7 +39,7 @@ AlphaEvolve是由谷歌团队开发的**进化式编码代理**，结合**Gemini
 <small>🔗 [lux.camera](https://www.lux.camera/what-is-hdr/): What is HDR, anyway?</small>
 
 
-| 🔥🔥: 470 \| 💬: [227](https://news.ycombinator.com/item?id=43983871) \| 🗓️ 2025-05-14
+| 🔥🔥: 485 \| 💬: [243](https://news.ycombinator.com/item?id=43983871) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -51,7 +51,7 @@ HDR（**高动态范围**）是一种影像技术，通过**扩大亮度和色�
 <small>🔗 [blog.stillgreenmoss.net](https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people): SMS 2FA is not just insecure, it's also hostile to mountain people</small>
 
 
-| 🔥🔥: 340 \| 💬: [260](https://news.ycombinator.com/item?id=43984297) \| 🗓️ 2025-05-14
+| 🔥🔥: 346 \| 💬: [262](https://news.ycombinator.com/item?id=43984297) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -63,7 +63,7 @@ HDR（**高动态范围**）是一种影像技术，通过**扩大亮度和色�
 <small>🔗 [databricks.com](https://www.databricks.com/blog/databricks-neon): Databricks and Neon</small>
 
 
-| 🔥🔥: 252 \| 💬: [178](https://news.ycombinator.com/item?id=43982777) \| 🗓️ 2025-05-14
+| 🔥🔥: 258 \| 💬: [181](https://news.ycombinator.com/item?id=43982777) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -75,7 +75,7 @@ Databricks宣布收购**Neon**——一家专注于开发者体验的**无服务
 <small>🔗 [it-notes.dragas.net](https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/): A server that wasn't meant to exist</small>
 
 
-| 🔥🔥: 219 \| 💬: [54](https://news.ycombinator.com/item?id=43985971) \| 🗓️ 2025-05-14
+| 🔥🔥: 235 \| 💬: [58](https://news.ycombinator.com/item?id=43985971) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -87,7 +87,7 @@ Databricks宣布收购**Neon**——一家专注于开发者体验的**无服务
 <small>🔗 [blog.trailofbits.com](https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/): The cryptography behind passkeys</small>
 
 
-| 🔥🔥: 146 \| 💬: [123](https://news.ycombinator.com/item?id=43983159) \| 🗓️ 2025-05-14
+| 🔥🔥: 154 \| 💬: [129](https://news.ycombinator.com/item?id=43983159) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -99,7 +99,7 @@ Databricks宣布收购**Neon**——一家专注于开发者体验的**无服务
 <small>🔗 [blacksmith.sh](https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud): How the economics of multitenancy work</small>
 
 
-| 🔥🔥: 131 \| 💬: [27](https://news.ycombinator.com/item?id=43984097) \| 🗓️ 2025-05-14
+| 🔥🔥: 134 \| 💬: [27](https://news.ycombinator.com/item?id=43984097) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -111,7 +111,7 @@ Databricks宣布收购**Neon**——一家专注于开发者体验的**无服务
 <small>🔗 [fredbenenson.medium.com](https://fredbenenson.medium.com/the-perverse-incentives-of-vibe-coding-23efbaf75aee): Perverse incentives of vibe coding</small>
 
 
-| 🔥🔥: 118 \| 💬: [114](https://news.ycombinator.com/item?id=43988315) \| 🗓️ 2025-05-14
+| 🔥🔥: 132 \| 💬: [137](https://news.ycombinator.com/item?id=43988315) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -123,7 +123,7 @@ Databricks宣布收购**Neon**——一家专注于开发者体验的**无服务
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/14/uber-to-introduce-fixed-route-shuttles-in-major-us-cities-other-ways-to-save/): Uber to introduce fixed-route shuttles in major US cities</small>
 
 
-| 🔥🔥: 115 \| 💬: [310](https://news.ycombinator.com/item?id=43985861) \| 🗓️ 2025-05-14
+| 🔥🔥: 120 \| 💬: [321](https://news.ycombinator.com/item?id=43985861) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -135,7 +135,7 @@ Databricks宣布收购**Neon**——一家专注于开发者体验的**无服务
 <small>🔗 [github.com](https://github.com/pig-dot-dev/muscle-mem): Show HN: Muscle-Mem, a behavior cache for AI agents</small>
 
 
-| 🔥🔥: 109 \| 💬: [22](https://news.ycombinator.com/item?id=43988381) \| 🗓️ 2025-05-14
+| 🔥🔥: 119 \| 💬: [32](https://news.ycombinator.com/item?id=43988381) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -143,23 +143,11 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 
 ---
 
-## <a name="11"></a>11. 美国邮政40万美元的纸质电子邮件项目：E-COM的兴衰 
-<small>🔗 [buttondown.com](https://buttondown.com/blog/the-e-com-story): E-COM: The $40M USPS project to send email on paper</small>
-
-
-| 🔥🔥: 106 \| 💬: [102](https://news.ycombinator.com/item?id=43983455) \| 🗓️ 2025-05-14
-
-
-<br />
-1982年，美国邮政（USPS）推出**E-COM**服务，将电子内容打印成纸质信件投递，试图应对电子邮件的冲击。尽管初期吸引了一些企业（如银行和广告商），但高昂成本（每封亏损5.25美元）和官僚限制（如最低200封起发）导致其沦为**垃圾邮件工具**。1985年项目关闭，累计亏损超4000万美元。讽刺的是，E-COM无意中推动了“**e-mail**”一词的普及，而邮政业务最终因电商包裹而非传统信件复苏。
-
----
-
-## <a name="12"></a>12. 叙事的牢笼 
+## <a name="11"></a>11. 叙事的牢笼 
 <small>🔗 [aeon.co](https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot): Our narrative prison</small>
 
 
-| 🔥🔥: 103 \| 💬: [97](https://news.ycombinator.com/item?id=43986424) \| 🗓️ 2025-05-14
+| 🔥🔥: 114 \| 💬: [102](https://news.ycombinator.com/item?id=43986424) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -167,11 +155,23 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 
 ---
 
+## <a name="12"></a>12. 美国邮政40万美元的纸质电子邮件项目：E-COM的兴衰 
+<small>🔗 [buttondown.com](https://buttondown.com/blog/the-e-com-story): E-COM: The $40M USPS project to send email on paper</small>
+
+
+| 🔥🔥: 106 \| 💬: [103](https://news.ycombinator.com/item?id=43983455) \| 🗓️ 2025-05-14
+
+
+<br />
+1982年，美国邮政（USPS）推出**E-COM**服务，将电子内容打印成纸质信件投递，试图应对电子邮件的冲击。尽管初期吸引了一些企业（如银行和广告商），但高昂成本（每封亏损5.25美元）和官僚限制（如最低200封起发）导致其沦为**垃圾邮件工具**。1985年项目关闭，累计亏损超4000万美元。讽刺的是，E-COM无意中推动了“**e-mail**”一词的普及，而邮政业务最终因电商包裹而非传统信件复苏。
+
+---
+
 ## <a name="13"></a>13. AI短期内无法取代放射科医生 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/14/technology/ai-jobs-radiologists-mayo-clinic.html): The A.I. Radiologist Will Not Be with You Soon</small>
 
 
-| 🔥🔥: 102 \| 💬: [181](https://news.ycombinator.com/item?id=43983928) \| 🗓️ 2025-05-14
+| 🔥🔥: 104 \| 💬: [183](https://news.ycombinator.com/item?id=43983928) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -183,7 +183,7 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 <small>🔗 [memorysafety.org](https://www.memorysafety.org/blog/rav1d-perf-bounty/): $20K Bounty Offered for Optimizing Rust Code in Rav1d AV1 Decoder</small>
 
 
-| 🔥: 99 \| 💬: [94](https://news.ycombinator.com/item?id=43982238) \| 🗓️ 2025-05-14
+| 🔥: 100 \| 💬: [96](https://news.ycombinator.com/item?id=43982238) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -195,7 +195,7 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 <small>🔗 [twitter.com](https://twitter.com/grok/status/1922651218595439063): Grok answers unrelated queries with long paragraphs about "white genocide"</small>
 
 
-| 🔥: 67 \| 💬: [38](https://news.ycombinator.com/item?id=43987266) \| 🗓️ 2025-05-14
+| 🔥: 77 \| 💬: [44](https://news.ycombinator.com/item?id=43987266) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -207,7 +207,7 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 <small>🔗 [smalltalkzoo.thechm.org](https://smalltalkzoo.thechm.org/users/bert/Smalltalk-78.html): Smalltalk-78 Xerox NoteTaker in-browser emulator</small>
 
 
-| 🔥: 63 \| 💬: [26](https://news.ycombinator.com/item?id=43986833) \| 🗓️ 2025-05-14
+| 🔥: 66 \| 💬: [26](https://news.ycombinator.com/item?id=43986833) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -227,7 +227,43 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 
 ---
 
-## <a name="18"></a>18. DeepMind发布通用科学AI AlphaEvolve，突破数学与芯片设计难题 
+## <a name="18"></a>18. 大模型正在让我变笨 
+<small>🔗 [vvvincent.me](https://vvvincent.me/llms-are-making-me-dumber/): LLMs are making me dumber</small>
+
+
+| 🔥: 56 \| 💬: [48](https://news.ycombinator.com/item?id=43990012) \| 🗓️ 2025-05-14
+
+
+<br />
+作者反思过度依赖LLM（如Claude、Gemini）导致自身能力退化：**用AI代写代码**导致JavaScript基础薄弱，**依赖AI解题**削弱数学能力，**模板化邮件**降低写作水平。尽管短期效率提升，但**深度学习**被牺牲，可能阻碍创新与复杂问题解决能力。历史类比（如计算器、GPS）显示技术解放人力，但当前AI威胁的是**核心智力技能**。作者尝试平衡：自动化简单任务，保留**第一性原理思考**和长期项目能力，强调主动学习与批判性对话的重要性。
+
+---
+
+## <a name="19"></a>19. 从CockroachDB迁移至PostgreSQL的经验分享 
+<small>🔗 [engineering.usemotion.com](https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d): Migrating to Postgres</small>
+
+
+| 🔥: 53 \| 💬: [12](https://news.ycombinator.com/item?id=43989497) \| 🗓️ 2025-05-14
+
+
+<br />
+Motion公司早期使用**CockroachDB**（支持多区域部署和高可用性），但随着业务增长，其高昂成本和性能问题（如**迁移超时**、ETL任务失败）日益突出。尽管部分查询在CockroachDB上更快，但多数场景下**PostgreSQL性能提升3倍**，且生态工具更完善。最终团队通过自定义ETL脚本完成迁移，节省11万美元年成本，系统延迟降低33%。迁移后还借助PostgreSQL生态快速优化了查询性能。
+
+---
+
+## <a name="20"></a>20. 英国古树名木普查计划 
+<small>🔗 [ati.woodlandtrust.org.uk](https://ati.woodlandtrust.org.uk/): UK's Ancient Tree Inventory</small>
+
+
+| 🔥: 50 \| 💬: [50](https://news.ycombinator.com/item?id=43982784) \| 🗓️ 2025-05-14
+
+
+<br />
+英国拥有比多数欧洲国家更丰富的**古树资源**，这些树龄数百年的活化石亟待保护。该项目已收录超19万棵古树，但仍有数千棵待发现，呼吁公众参与记录。通过互动地图可探索树木分布，并了解**树龄鉴定标准**及保护意义。附视频指南和志愿者故事，助力公众参与这项**自然遗产**保护行动。
+
+---
+
+## <a name="21"></a>21. DeepMind发布通用科学AI AlphaEvolve，突破数学与芯片设计难题 
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-01523-z): DeepMind unveils general-purpose science AI</small>
 
 
@@ -239,23 +275,11 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 
 ---
 
-## <a name="19"></a>19. 英国古树名木普查计划 
-<small>🔗 [ati.woodlandtrust.org.uk](https://ati.woodlandtrust.org.uk/): UK's Ancient Tree Inventory</small>
-
-
-| 🔥: 46 \| 💬: [49](https://news.ycombinator.com/item?id=43982784) \| 🗓️ 2025-05-14
-
-
-<br />
-英国拥有比多数欧洲国家更丰富的**古树资源**，这些树龄数百年的活化石亟待保护。该项目已收录超19万棵古树，但仍有数千棵待发现，呼吁公众参与记录。通过互动地图可探索树木分布，并了解**树龄鉴定标准**及保护意义。附视频指南和志愿者故事，助力公众参与这项**自然遗产**保护行动。
-
----
-
-## <a name="20"></a>20. 开发者别慌，科技巨头与AI炒作再次失控 
+## <a name="22"></a>22. 开发者别慌，科技巨头与AI炒作再次失控 
 <small>🔗 [cicero.sh](https://cicero.sh/forums/thread/developers-don-t-despair-big-tech-and-ai-hype-is-off-the-rails-again-000007): Developers, don't despair, big tech and AI hype is off the rails again</small>
 
 
-| 🔥: 43 \| 💬: [24](https://news.ycombinator.com/item?id=43982463) \| 🗓️ 2025-05-14
+| 🔥: 45 \| 💬: [24](https://news.ycombinator.com/item?id=43982463) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -263,11 +287,11 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 
 ---
 
-## <a name="21"></a>21. Data.olllo推出CSV GB+：本地打开和处理大型CSV文件 
+## <a name="23"></a>23. Data.olllo推出CSV GB+：本地打开和处理大型CSV文件 
 <small>🔗 [apps.microsoft.com](https://apps.microsoft.com/detail/9pfcrwp46v22?hl=en-US&gl=US): Show HN: CSV GB+ by Data.olllo – Open and Process CSVs Locally</small>
 
 
-| 🔥: 40 \| 💬: [13](https://news.ycombinator.com/item?id=43985527) \| 🗓️ 2025-05-14
+| 🔥: 41 \| 💬: [13](https://news.ycombinator.com/item?id=43985527) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -275,11 +299,11 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 
 ---
 
-## <a name="22"></a>22. 马自达滥用DMCA下架开源Home Assistant应用 
+## <a name="24"></a>24. 马自达滥用DMCA下架开源Home Assistant应用 
 <small>🔗 [consumerrights.wiki](https://consumerrights.wiki/Mazda_DMCA_takedown_of_Open_Source_Home_Assistant_App): Mazda DMCA Takedown of Open Source Home Assistant App</small>
 
 
-| 🔥: 38 \| 💬: [1](https://news.ycombinator.com/item?id=43983841) \| 🗓️ 2025-05-14
+| 🔥: 39 \| 💬: [1](https://news.ycombinator.com/item?id=43983841) \| 🗓️ 2025-05-14
 
 
 <br />
