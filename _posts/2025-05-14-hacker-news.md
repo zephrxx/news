@@ -27,7 +27,7 @@ tags:
 <small>🔗 [deepmind.google](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/): AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms</small>
 
 
-| 🔥🔥: 654 \| 💬: [181](https://news.ycombinator.com/item?id=43985489) \| 🗓️ 2025-05-14
+| 🔥🔥: 681 \| 💬: [186](https://news.ycombinator.com/item?id=43985489) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -39,7 +39,7 @@ AlphaEvolve是由谷歌团队开发的**进化式编码代理**，结合**Gemini
 <small>🔗 [lux.camera](https://www.lux.camera/what-is-hdr/): What is HDR, anyway?</small>
 
 
-| 🔥🔥: 500 \| 💬: [248](https://news.ycombinator.com/item?id=43983871) \| 🗓️ 2025-05-14
+| 🔥🔥: 514 \| 💬: [260](https://news.ycombinator.com/item?id=43983871) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -51,7 +51,7 @@ HDR（**高动态范围**）是一种影像技术，通过**扩大亮度和色�
 <small>🔗 [blog.stillgreenmoss.net](https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people): SMS 2FA is not just insecure, it's also hostile to mountain people</small>
 
 
-| 🔥🔥: 347 \| 💬: [265](https://news.ycombinator.com/item?id=43984297) \| 🗓️ 2025-05-14
+| 🔥🔥: 351 \| 💬: [276](https://news.ycombinator.com/item?id=43984297) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -63,7 +63,7 @@ HDR（**高动态范围**）是一种影像技术，通过**扩大亮度和色�
 <small>🔗 [databricks.com](https://www.databricks.com/blog/databricks-neon): Databricks and Neon</small>
 
 
-| 🔥🔥: 265 \| 💬: [183](https://news.ycombinator.com/item?id=43982777) \| 🗓️ 2025-05-14
+| 🔥🔥: 268 \| 💬: [183](https://news.ycombinator.com/item?id=43982777) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -75,7 +75,7 @@ Databricks宣布收购**Neon**——一家专注于开发者体验的**无服务
 <small>🔗 [it-notes.dragas.net](https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/): A server that wasn't meant to exist</small>
 
 
-| 🔥🔥: 244 \| 💬: [65](https://news.ycombinator.com/item?id=43985971) \| 🗓️ 2025-05-14
+| 🔥🔥: 255 \| 💬: [67](https://news.ycombinator.com/item?id=43985971) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -87,7 +87,7 @@ Databricks宣布收购**Neon**——一家专注于开发者体验的**无服务
 <small>🔗 [blog.trailofbits.com](https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/): The cryptography behind passkeys</small>
 
 
-| 🔥🔥: 156 \| 💬: [138](https://news.ycombinator.com/item?id=43983159) \| 🗓️ 2025-05-14
+| 🔥🔥: 166 \| 💬: [147](https://news.ycombinator.com/item?id=43983159) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -99,7 +99,7 @@ Databricks宣布收购**Neon**——一家专注于开发者体验的**无服务
 <small>🔗 [fredbenenson.medium.com](https://fredbenenson.medium.com/the-perverse-incentives-of-vibe-coding-23efbaf75aee): Perverse incentives of vibe coding</small>
 
 
-| 🔥🔥: 143 \| 💬: [155](https://news.ycombinator.com/item?id=43988315) \| 🗓️ 2025-05-14
+| 🔥🔥: 154 \| 💬: [164](https://news.ycombinator.com/item?id=43988315) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -111,7 +111,7 @@ Databricks宣布收购**Neon**——一家专注于开发者体验的**无服务
 <small>🔗 [blacksmith.sh](https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud): How the economics of multitenancy work</small>
 
 
-| 🔥🔥: 138 \| 💬: [30](https://news.ycombinator.com/item?id=43984097) \| 🗓️ 2025-05-14
+| 🔥🔥: 144 \| 💬: [30](https://news.ycombinator.com/item?id=43984097) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -123,7 +123,7 @@ Databricks宣布收购**Neon**——一家专注于开发者体验的**无服务
 <small>🔗 [github.com](https://github.com/pig-dot-dev/muscle-mem): Show HN: Muscle-Mem, a behavior cache for AI agents</small>
 
 
-| 🔥🔥: 132 \| 💬: [31](https://news.ycombinator.com/item?id=43988381) \| 🗓️ 2025-05-14
+| 🔥🔥: 142 \| 💬: [32](https://news.ycombinator.com/item?id=43988381) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -135,7 +135,7 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/14/uber-to-introduce-fixed-route-shuttles-in-major-us-cities-other-ways-to-save/): Uber to introduce fixed-route shuttles in major US cities</small>
 
 
-| 🔥🔥: 128 \| 💬: [332](https://news.ycombinator.com/item?id=43985861) \| 🗓️ 2025-05-14
+| 🔥🔥: 134 \| 💬: [336](https://news.ycombinator.com/item?id=43985861) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -143,11 +143,23 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 
 ---
 
-## <a name="11"></a>11. 叙事的牢笼 
+## <a name="11"></a>11. 警察与媒体如何操控新闻：揭秘"警察宣传"的真相 
+<small>🔗 [teenvogue.com](https://www.teenvogue.com/story/copaganda-when-the-police-and-the-media-manipulate-our-news): Copaganda: How Police and the Media Manipulate Our News</small>
+
+
+| 🔥🔥: 126 \| 💬: [31](https://news.ycombinator.com/item?id=43990333) \| 🗓️ 2025-05-14
+
+
+<br />
+本书揭露了**警察宣传（Copaganda）**如何通过选择性报道制造**道德恐慌**，例如夸大犯罪率下降时的盗窃案，引导公众支持增加警力预算。作者指出，这种操纵掩盖了权力阶层的真正危害，并推动惩罚性政策，而非解决社会不平等。媒体通过片面引用个案（如将枪击案归咎于"削减警费"）扭曲事实，尽管数据显示警费连年增长。最终，这种循环导致资源持续流向监狱和警察系统，而非根治暴力根源。
+
+---
+
+## <a name="12"></a>12. 叙事的牢笼 
 <small>🔗 [aeon.co](https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot): Our narrative prison</small>
 
 
-| 🔥🔥: 121 \| 💬: [105](https://news.ycombinator.com/item?id=43986424) \| 🗓️ 2025-05-14
+| 🔥🔥: 125 \| 💬: [107](https://news.ycombinator.com/item?id=43986424) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -155,47 +167,11 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 
 ---
 
-## <a name="12"></a>12. 美国邮政40万美元的纸质电子邮件项目：E-COM的兴衰 
-<small>🔗 [buttondown.com](https://buttondown.com/blog/the-e-com-story): E-COM: The $40M USPS project to send email on paper</small>
-
-
-| 🔥🔥: 107 \| 💬: [106](https://news.ycombinator.com/item?id=43983455) \| 🗓️ 2025-05-14
-
-
-<br />
-1982年，美国邮政（USPS）推出**E-COM**服务，将电子内容打印成纸质信件投递，试图应对电子邮件的冲击。尽管初期吸引了一些企业（如银行和广告商），但高昂成本（每封亏损5.25美元）和官僚限制（如最低200封起发）导致其沦为**垃圾邮件工具**。1985年项目关闭，累计亏损超4000万美元。讽刺的是，E-COM无意中推动了“**e-mail**”一词的普及，而邮政业务最终因电商包裹而非传统信件复苏。
-
----
-
-## <a name="13"></a>13. AI短期内无法取代放射科医生 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/14/technology/ai-jobs-radiologists-mayo-clinic.html): The A.I. Radiologist Will Not Be with You Soon</small>
-
-
-| 🔥🔥: 105 \| 💬: [183](https://news.ycombinator.com/item?id=43983928) \| 🗓️ 2025-05-14
-
-
-<br />
-九年前，AI先驱Geoffrey Hinton预言**五年内AI将超越人类放射科医生**，但如今该职业需求仍在增长。美国放射学会研究显示，相关岗位将持续增加至2055年。梅奥诊所等顶级医疗机构将AI用作**辅助工具**，例如优化影像、自动化流程和辅助诊断，但**无法完全替代医生**。专家强调，放射学涉及复杂决策，AI目前仅能作为"第二双眼睛"。
-
----
-
-## <a name="14"></a>14. 2万美元悬赏优化Rust版AV1解码器rav1d性能 
-<small>🔗 [memorysafety.org](https://www.memorysafety.org/blog/rav1d-perf-bounty/): $20K Bounty Offered for Optimizing Rust Code in Rav1d AV1 Decoder</small>
-
-
-| 🔥🔥: 101 \| 💬: [96](https://news.ycombinator.com/item?id=43982238) \| 🗓️ 2025-05-14
-
-
-<br />
-2023年3月启动的**Rust版AV1解码器rav1d**项目现已基本完成，性能比C语言编写的dav1d慢约**5%**。开发者通过优化仍未能实现性能持平，现设立**2万美元奖金池**，邀请全球开发者参与优化。参赛者需通过改进Rust代码、编译器或标准库提升性能，但不得修改共享的汇编代码。悬赏将按贡献比例分配，最终解释权归主办方所有。
-
----
-
-## <a name="15"></a>15. 从CockroachDB迁移至PostgreSQL的经验分享 
+## <a name="13"></a>13. 从CockroachDB迁移至PostgreSQL的经验分享 
 <small>🔗 [engineering.usemotion.com](https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d): Migrating to Postgres</small>
 
 
-| 🔥: 87 \| 💬: [44](https://news.ycombinator.com/item?id=43989497) \| 🗓️ 2025-05-14
+| 🔥🔥: 111 \| 💬: [81](https://news.ycombinator.com/item?id=43989497) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -203,11 +179,47 @@ Motion公司早期使用**CockroachDB**（支持多区域部署和高可用性�
 
 ---
 
-## <a name="16"></a>16. Grok回应无关问题时大谈“白人种族灭绝” 
+## <a name="14"></a>14. 美国邮政40万美元的纸质电子邮件项目：E-COM的兴衰 
+<small>🔗 [buttondown.com](https://buttondown.com/blog/the-e-com-story): E-COM: The $40M USPS project to send email on paper</small>
+
+
+| 🔥🔥: 108 \| 💬: [107](https://news.ycombinator.com/item?id=43983455) \| 🗓️ 2025-05-14
+
+
+<br />
+1982年，美国邮政（USPS）推出**E-COM**服务，将电子内容打印成纸质信件投递，试图应对电子邮件的冲击。尽管初期吸引了一些企业（如银行和广告商），但高昂成本（每封亏损5.25美元）和官僚限制（如最低200封起发）导致其沦为**垃圾邮件工具**。1985年项目关闭，累计亏损超4000万美元。讽刺的是，E-COM无意中推动了“**e-mail**”一词的普及，而邮政业务最终因电商包裹而非传统信件复苏。
+
+---
+
+## <a name="15"></a>15. AI短期内无法取代放射科医生 
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/14/technology/ai-jobs-radiologists-mayo-clinic.html): The A.I. Radiologist Will Not Be with You Soon</small>
+
+
+| 🔥🔥: 106 \| 💬: [184](https://news.ycombinator.com/item?id=43983928) \| 🗓️ 2025-05-14
+
+
+<br />
+九年前，AI先驱Geoffrey Hinton预言**五年内AI将超越人类放射科医生**，但如今该职业需求仍在增长。美国放射学会研究显示，相关岗位将持续增加至2055年。梅奥诊所等顶级医疗机构将AI用作**辅助工具**，例如优化影像、自动化流程和辅助诊断，但**无法完全替代医生**。专家强调，放射学涉及复杂决策，AI目前仅能作为"第二双眼睛"。
+
+---
+
+## <a name="16"></a>16. 2万美元悬赏优化Rust版AV1解码器rav1d性能 
+<small>🔗 [memorysafety.org](https://www.memorysafety.org/blog/rav1d-perf-bounty/): $20K Bounty Offered for Optimizing Rust Code in Rav1d AV1 Decoder</small>
+
+
+| 🔥🔥: 102 \| 💬: [96](https://news.ycombinator.com/item?id=43982238) \| 🗓️ 2025-05-14
+
+
+<br />
+2023年3月启动的**Rust版AV1解码器rav1d**项目现已基本完成，性能比C语言编写的dav1d慢约**5%**。开发者通过优化仍未能实现性能持平，现设立**2万美元奖金池**，邀请全球开发者参与优化。参赛者需通过改进Rust代码、编译器或标准库提升性能，但不得修改共享的汇编代码。悬赏将按贡献比例分配，最终解释权归主办方所有。
+
+---
+
+## <a name="17"></a>17. Grok回应无关问题时大谈“白人种族灭绝” 
 <small>🔗 [twitter.com](https://twitter.com/grok/status/1922651218595439063): Grok answers unrelated queries with long paragraphs about "white genocide"</small>
 
 
-| 🔥: 86 \| 💬: [54](https://news.ycombinator.com/item?id=43987266) \| 🗓️ 2025-05-14
+| 🔥: 96 \| 💬: [64](https://news.ycombinator.com/item?id=43987266) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -215,27 +227,15 @@ Motion公司早期使用**CockroachDB**（支持多区域部署和高可用性�
 
 ---
 
-## <a name="17"></a>17. Smalltalk-78 Xerox NoteTaker 浏览器模拟器 
+## <a name="18"></a>18. Smalltalk-78 Xerox NoteTaker 浏览器模拟器 
 <small>🔗 [smalltalkzoo.thechm.org](https://smalltalkzoo.thechm.org/users/bert/Smalltalk-78.html): Smalltalk-78 Xerox NoteTaker in-browser emulator</small>
 
 
-| 🔥: 70 \| 💬: [26](https://news.ycombinator.com/item?id=43986833) \| 🗓️ 2025-05-14
+| 🔥: 71 \| 💬: [27](https://news.ycombinator.com/item?id=43986833) \| 🗓️ 2025-05-14
 
 
 <br />
 这是一款可在浏览器中运行的 **Smalltalk-78 模拟器**，复刻了 Xerox NoteTaker 系统。用户可以直接在网页中修改 **Smalltalk 代码**并保存到本地（非服务器）。模拟器基于 JavaScript 实现，但需注意：修改其底层代码会影响其他访问者。界面提供运行控制、调试、内存分析等功能，并附有技术文档链接。日志显示其动态加载了多项 **Lively Web 核心模块**（如网络工具、图形界面组件等）。
-
----
-
-## <a name="18"></a>18. 警察与媒体如何操控新闻：揭秘"警察宣传"的真相 
-<small>🔗 [teenvogue.com](https://www.teenvogue.com/story/copaganda-when-the-police-and-the-media-manipulate-our-news): Copaganda: How Police and the Media Manipulate Our News</small>
-
-
-| 🔥: 69 \| 💬: [14](https://news.ycombinator.com/item?id=43990333) \| 🗓️ 2025-05-14
-
-
-<br />
-本书揭露了**警察宣传（Copaganda）**如何通过选择性报道制造**道德恐慌**，例如夸大犯罪率下降时的盗窃案，引导公众支持增加警力预算。作者指出，这种操纵掩盖了权力阶层的真正危害，并推动惩罚性政策，而非解决社会不平等。媒体通过片面引用个案（如将枪击案归咎于"削减警费"）扭曲事实，尽管数据显示警费连年增长。最终，这种循环导致资源持续流向监狱和警察系统，而非根治暴力根源。
 
 ---
 
@@ -255,7 +255,7 @@ Motion公司早期使用**CockroachDB**（支持多区域部署和高可用性�
 <small>🔗 [vvvincent.me](https://vvvincent.me/llms-are-making-me-dumber/): LLMs are making me dumber</small>
 
 
-| 🔥: 59 \| 💬: [55](https://news.ycombinator.com/item?id=43990012) \| 🗓️ 2025-05-14
+| 🔥: 59 \| 💬: [59](https://news.ycombinator.com/item?id=43990012) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -267,7 +267,7 @@ Motion公司早期使用**CockroachDB**（支持多区域部署和高可用性�
 <small>🔗 [ati.woodlandtrust.org.uk](https://ati.woodlandtrust.org.uk/): UK's Ancient Tree Inventory</small>
 
 
-| 🔥: 53 \| 💬: [50](https://news.ycombinator.com/item?id=43982784) \| 🗓️ 2025-05-14
+| 🔥: 55 \| 💬: [51](https://news.ycombinator.com/item?id=43982784) \| 🗓️ 2025-05-14
 
 
 <br />
