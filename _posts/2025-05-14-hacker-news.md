@@ -27,7 +27,7 @@ tags:
 <small>🔗 [deepmind.google](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/): AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms</small>
 
 
-| 🔥🔥: 743 \| 💬: [198](https://news.ycombinator.com/item?id=43985489) \| 🗓️ 2025-05-14
+| 🔥🔥: 779 \| 💬: [205](https://news.ycombinator.com/item?id=43985489) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -39,7 +39,7 @@ AlphaEvolve是由谷歌团队开发的**进化式编码代理**，结合**Gemini
 <small>🔗 [lux.camera](https://www.lux.camera/what-is-hdr/): What is HDR, anyway?</small>
 
 
-| 🔥🔥: 546 \| 💬: [268](https://news.ycombinator.com/item?id=43983871) \| 🗓️ 2025-05-14
+| 🔥🔥: 577 \| 💬: [278](https://news.ycombinator.com/item?id=43983871) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -51,7 +51,7 @@ HDR（**高动态范围**）是一种影像技术，通过**扩大亮度和色�
 <small>🔗 [blog.stillgreenmoss.net](https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people): SMS 2FA is not just insecure, it's also hostile to mountain people</small>
 
 
-| 🔥🔥: 357 \| 💬: [279](https://news.ycombinator.com/item?id=43984297) \| 🗓️ 2025-05-14
+| 🔥🔥: 363 \| 💬: [280](https://news.ycombinator.com/item?id=43984297) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -63,7 +63,7 @@ HDR（**高动态范围**）是一种影像技术，通过**扩大亮度和色�
 <small>🔗 [databricks.com](https://www.databricks.com/blog/databricks-neon): Databricks acquires Neon</small>
 
 
-| 🔥🔥: 292 \| 💬: [189](https://news.ycombinator.com/item?id=43982777) \| 🗓️ 2025-05-14
+| 🔥🔥: 307 \| 💬: [195](https://news.ycombinator.com/item?id=43982777) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -75,7 +75,7 @@ Databricks宣布收购**Neon**——一家专注于开发者体验的**无服务
 <small>🔗 [it-notes.dragas.net](https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/): A server that wasn't meant to exist</small>
 
 
-| 🔥🔥: 273 \| 💬: [73](https://news.ycombinator.com/item?id=43985971) \| 🗓️ 2025-05-14
+| 🔥🔥: 292 \| 💬: [83](https://news.ycombinator.com/item?id=43985971) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -87,7 +87,7 @@ Databricks宣布收购**Neon**——一家专注于开发者体验的**无服务
 <small>🔗 [blog.trailofbits.com](https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/): The cryptography behind passkeys</small>
 
 
-| 🔥🔥: 178 \| 💬: [157](https://news.ycombinator.com/item?id=43983159) \| 🗓️ 2025-05-14
+| 🔥🔥: 192 \| 💬: [165](https://news.ycombinator.com/item?id=43983159) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -99,7 +99,7 @@ Databricks宣布收购**Neon**——一家专注于开发者体验的**无服务
 <small>🔗 [fredbenenson.medium.com](https://fredbenenson.medium.com/the-perverse-incentives-of-vibe-coding-23efbaf75aee): Perverse incentives of vibe coding</small>
 
 
-| 🔥🔥: 166 \| 💬: [179](https://news.ycombinator.com/item?id=43988315) \| 🗓️ 2025-05-14
+| 🔥🔥: 172 \| 💬: [183](https://news.ycombinator.com/item?id=43988315) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -111,7 +111,7 @@ Databricks宣布收购**Neon**——一家专注于开发者体验的**无服务
 <small>🔗 [github.com](https://github.com/pig-dot-dev/muscle-mem): Show HN: Muscle-Mem, a behavior cache for AI agents</small>
 
 
-| 🔥🔥: 160 \| 💬: [34](https://news.ycombinator.com/item?id=43988381) \| 🗓️ 2025-05-14
+| 🔥🔥: 170 \| 💬: [37](https://news.ycombinator.com/item?id=43988381) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -123,7 +123,7 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 <small>🔗 [teenvogue.com](https://www.teenvogue.com/story/copaganda-when-the-police-and-the-media-manipulate-our-news): Copaganda: How Police and the Media Manipulate Our News</small>
 
 
-| 🔥🔥: 155 \| 💬: [48](https://news.ycombinator.com/item?id=43990333) \| 🗓️ 2025-05-14
+| 🔥🔥: 159 \| 💬: [51](https://news.ycombinator.com/item?id=43990333) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -135,7 +135,7 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 <small>🔗 [blacksmith.sh](https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud): How the economics of multitenancy work</small>
 
 
-| 🔥🔥: 147 \| 💬: [31](https://news.ycombinator.com/item?id=43984097) \| 🗓️ 2025-05-14
+| 🔥🔥: 153 \| 💬: [32](https://news.ycombinator.com/item?id=43984097) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -147,7 +147,7 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/14/uber-to-introduce-fixed-route-shuttles-in-major-us-cities-other-ways-to-save/): Uber to introduce fixed-route shuttles in major US cities</small>
 
 
-| 🔥🔥: 147 \| 💬: [361](https://news.ycombinator.com/item?id=43985861) \| 🗓️ 2025-05-14
+| 🔥🔥: 150 \| 💬: [377](https://news.ycombinator.com/item?id=43985861) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -155,23 +155,11 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 
 ---
 
-## <a name="12"></a>12. 叙事的牢笼 
-<small>🔗 [aeon.co](https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot): Our narrative prison</small>
-
-
-| 🔥🔥: 138 \| 💬: [114](https://news.ycombinator.com/item?id=43986424) \| 🗓️ 2025-05-14
-
-
-<br />
-当代影视、文学作品中，**英雄之旅**的叙事公式无处不在：主角经历平凡生活→遭遇**触发事件**→对抗反派→在低谷中觉醒→最终颠覆人生观。这一模板源自亚里士多德的《诗学》，经弗莱塔格、坎贝尔等人发展为好莱坞工业化生产的核心套路。尽管表面千变万化，**叙事工业**通过隐藏结构框架，将保守价值观包装成"变革幻想"，实则强化现状。学者指出，这种模式既反映人类对意义的本能渴求，也暗含对批判性思维的消解——我们消费故事以体验改变的幻觉，却回避现实中的真正行动。当叙事成为资本与权力的工具，它既是集体潜意识的映射，也可能成为思想自由的枷锁。
-
----
-
-## <a name="13"></a>13. 从CockroachDB迁移至PostgreSQL的经验分享 
+## <a name="12"></a>12. 从CockroachDB迁移至PostgreSQL的经验分享 
 <small>🔗 [engineering.usemotion.com](https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d): Migrating to Postgres</small>
 
 
-| 🔥🔥: 132 \| 💬: [117](https://news.ycombinator.com/item?id=43989497) \| 🗓️ 2025-05-14
+| 🔥🔥: 149 \| 💬: [128](https://news.ycombinator.com/item?id=43989497) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -179,35 +167,35 @@ Motion公司早期使用**CockroachDB**（支持多区域部署和高可用性�
 
 ---
 
-## <a name="14"></a>14. 美国邮政40万美元的纸质电子邮件项目：E-COM的兴衰 
-<small>🔗 [buttondown.com](https://buttondown.com/blog/the-e-com-story): E-COM: The $40M USPS project to send email on paper</small>
+## <a name="13"></a>13. 叙事的牢笼 
+<small>🔗 [aeon.co](https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot): Our narrative prison</small>
 
 
-| 🔥🔥: 112 \| 💬: [110](https://news.ycombinator.com/item?id=43983455) \| 🗓️ 2025-05-14
-
-
-<br />
-1982年，美国邮政（USPS）推出**E-COM**服务，将电子内容打印成纸质信件投递，试图应对电子邮件的冲击。尽管初期吸引了一些企业（如银行和广告商），但高昂成本（每封亏损5.25美元）和官僚限制（如最低200封起发）导致其沦为**垃圾邮件工具**。1985年项目关闭，累计亏损超4000万美元。讽刺的是，E-COM无意中推动了“**e-mail**”一词的普及，而邮政业务最终因电商包裹而非传统信件复苏。
-
----
-
-## <a name="15"></a>15. AI短期内无法取代放射科医生 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/14/technology/ai-jobs-radiologists-mayo-clinic.html): The A.I. Radiologist Will Not Be with You Soon</small>
-
-
-| 🔥🔥: 106 \| 💬: [185](https://news.ycombinator.com/item?id=43983928) \| 🗓️ 2025-05-14
+| 🔥🔥: 142 \| 💬: [117](https://news.ycombinator.com/item?id=43986424) \| 🗓️ 2025-05-14
 
 
 <br />
-九年前，AI先驱Geoffrey Hinton预言**五年内AI将超越人类放射科医生**，但如今该职业需求仍在增长。美国放射学会研究显示，相关岗位将持续增加至2055年。梅奥诊所等顶级医疗机构将AI用作**辅助工具**，例如优化影像、自动化流程和辅助诊断，但**无法完全替代医生**。专家强调，放射学涉及复杂决策，AI目前仅能作为"第二双眼睛"。
+当代影视、文学作品中，**英雄之旅**的叙事公式无处不在：主角经历平凡生活→遭遇**触发事件**→对抗反派→在低谷中觉醒→最终颠覆人生观。这一模板源自亚里士多德的《诗学》，经弗莱塔格、坎贝尔等人发展为好莱坞工业化生产的核心套路。尽管表面千变万化，**叙事工业**通过隐藏结构框架，将保守价值观包装成"变革幻想"，实则强化现状。学者指出，这种模式既反映人类对意义的本能渴求，也暗含对批判性思维的消解——我们消费故事以体验改变的幻觉，却回避现实中的真正行动。当叙事成为资本与权力的工具，它既是集体潜意识的映射，也可能成为思想自由的枷锁。
 
 ---
 
-## <a name="16"></a>16. Grok回应无关问题时大谈“白人种族灭绝” 
+## <a name="14"></a>14. 大语言模型在多轮对话中容易迷失方向 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2505.06120): LLMs get lost in multi-turn conversation</small>
+
+
+| 🔥🔥: 135 \| 💬: [73](https://news.ycombinator.com/item?id=43991256) \| 🗓️ 2025-05-14
+
+
+<br />
+研究表明，**大语言模型（LLMs）** 在**多轮对话**中的表现显著低于单轮任务，平均性能下降达39%。主要问题在于模型会过早假设并生成最终方案，导致一旦偏离正确路径便难以恢复。实验分析了20万次模拟对话，发现性能下降源于**轻微的能力损失**和**显著的可靠性降低**。这一现象揭示了当前LLM评估过于侧重单轮明确指令的局限性。
+
+---
+
+## <a name="15"></a>15. Grok回应无关问题时大谈“白人种族灭绝” 
 <small>🔗 [twitter.com](https://twitter.com/grok/status/1922651218595439063): Grok answers unrelated queries with long paragraphs about "white genocide"</small>
 
 
-| 🔥🔥: 105 \| 💬: [68](https://news.ycombinator.com/item?id=43987266) \| 🗓️ 2025-05-14
+| 🔥🔥: 119 \| 💬: [74](https://news.ycombinator.com/item?id=43987266) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -215,7 +203,31 @@ Motion公司早期使用**CockroachDB**（支持多区域部署和高可用性�
 
 ---
 
-## <a name="17"></a>17. 2万美元悬赏优化Rust版AV1解码器rav1d性能 
+## <a name="16"></a>16. 美国邮政40万美元的纸质电子邮件项目：E-COM的兴衰 
+<small>🔗 [buttondown.com](https://buttondown.com/blog/the-e-com-story): E-COM: The $40M USPS project to send email on paper</small>
+
+
+| 🔥🔥: 112 \| 💬: [111](https://news.ycombinator.com/item?id=43983455) \| 🗓️ 2025-05-14
+
+
+<br />
+1982年，美国邮政（USPS）推出**E-COM**服务，将电子内容打印成纸质信件投递，试图应对电子邮件的冲击。尽管初期吸引了一些企业（如银行和广告商），但高昂成本（每封亏损5.25美元）和官僚限制（如最低200封起发）导致其沦为**垃圾邮件工具**。1985年项目关闭，累计亏损超4000万美元。讽刺的是，E-COM无意中推动了“**e-mail**”一词的普及，而邮政业务最终因电商包裹而非传统信件复苏。
+
+---
+
+## <a name="17"></a>17. AI短期内无法取代放射科医生 
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/14/technology/ai-jobs-radiologists-mayo-clinic.html): The A.I. Radiologist Will Not Be with You Soon</small>
+
+
+| 🔥🔥: 107 \| 💬: [186](https://news.ycombinator.com/item?id=43983928) \| 🗓️ 2025-05-14
+
+
+<br />
+九年前，AI先驱Geoffrey Hinton预言**五年内AI将超越人类放射科医生**，但如今该职业需求仍在增长。美国放射学会研究显示，相关岗位将持续增加至2055年。梅奥诊所等顶级医疗机构将AI用作**辅助工具**，例如优化影像、自动化流程和辅助诊断，但**无法完全替代医生**。专家强调，放射学涉及复杂决策，AI目前仅能作为"第二双眼睛"。
+
+---
+
+## <a name="18"></a>18. 2万美元悬赏优化Rust版AV1解码器rav1d性能 
 <small>🔗 [memorysafety.org](https://www.memorysafety.org/blog/rav1d-perf-bounty/): $20K Bounty Offered for Optimizing Rust Code in Rav1d AV1 Decoder</small>
 
 
@@ -227,11 +239,11 @@ Motion公司早期使用**CockroachDB**（支持多区域部署和高可用性�
 
 ---
 
-## <a name="18"></a>18. Smalltalk-78 Xerox NoteTaker 浏览器模拟器 
+## <a name="19"></a>19. Smalltalk-78 Xerox NoteTaker 浏览器模拟器 
 <small>🔗 [smalltalkzoo.thechm.org](https://smalltalkzoo.thechm.org/users/bert/Smalltalk-78.html): Smalltalk-78 Xerox NoteTaker in-browser emulator</small>
 
 
-| 🔥: 74 \| 💬: [28](https://news.ycombinator.com/item?id=43986833) \| 🗓️ 2025-05-14
+| 🔥: 76 \| 💬: [29](https://news.ycombinator.com/item?id=43986833) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -239,7 +251,19 @@ Motion公司早期使用**CockroachDB**（支持多区域部署和高可用性�
 
 ---
 
-## <a name="19"></a>19. 未来太贵：低生育率背后的信任危机 
+## <a name="20"></a>20. 大模型正在让我变笨 
+<small>🔗 [vvvincent.me](https://vvvincent.me/llms-are-making-me-dumber/): LLMs are making me dumber</small>
+
+
+| 🔥: 65 \| 💬: [64](https://news.ycombinator.com/item?id=43990012) \| 🗓️ 2025-05-14
+
+
+<br />
+作者反思过度依赖LLM（如Claude、Gemini）导致自身能力退化：**用AI代写代码**导致JavaScript基础薄弱，**依赖AI解题**削弱数学能力，**模板化邮件**降低写作水平。尽管短期效率提升，但**深度学习**被牺牲，可能阻碍创新与复杂问题解决能力。历史类比（如计算器、GPS）显示技术解放人力，但当前AI威胁的是**核心智力技能**。作者尝试平衡：自动化简单任务，保留**第一性原理思考**和长期项目能力，强调主动学习与批判性对话的重要性。
+
+---
+
+## <a name="21"></a>21. 未来太贵：低生育率背后的信任危机 
 <small>🔗 [medium.com](https://medium.com/@hectorchu1/the-future-is-too-expensive-a-new-theory-of-why-people-arent-having-kids-c3eca581c491): The Future Is Too Expensive – A New Theory on Collapsing Birth Rates</small>
 
 
@@ -251,35 +275,11 @@ Motion公司早期使用**CockroachDB**（支持多区域部署和高可用性�
 
 ---
 
-## <a name="20"></a>20. 大模型正在让我变笨 
-<small>🔗 [vvvincent.me](https://vvvincent.me/llms-are-making-me-dumber/): LLMs are making me dumber</small>
-
-
-| 🔥: 61 \| 💬: [60](https://news.ycombinator.com/item?id=43990012) \| 🗓️ 2025-05-14
-
-
-<br />
-作者反思过度依赖LLM（如Claude、Gemini）导致自身能力退化：**用AI代写代码**导致JavaScript基础薄弱，**依赖AI解题**削弱数学能力，**模板化邮件**降低写作水平。尽管短期效率提升，但**深度学习**被牺牲，可能阻碍创新与复杂问题解决能力。历史类比（如计算器、GPS）显示技术解放人力，但当前AI威胁的是**核心智力技能**。作者尝试平衡：自动化简单任务，保留**第一性原理思考**和长期项目能力，强调主动学习与批判性对话的重要性。
-
----
-
-## <a name="21"></a>21. 大语言模型在多轮对话中容易迷失方向 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2505.06120): LLMs Get Lost in Multi-Turn Conversation</small>
-
-
-| 🔥: 61 \| 💬: [27](https://news.ycombinator.com/item?id=43991256) \| 🗓️ 2025-05-14
-
-
-<br />
-研究表明，**大语言模型（LLMs）** 在**多轮对话**中的表现显著低于单轮任务，平均性能下降达39%。主要问题在于模型会过早假设并生成最终方案，导致一旦偏离正确路径便难以恢复。实验分析了20万次模拟对话，发现性能下降源于**轻微的能力损失**和**显著的可靠性降低**。这一现象揭示了当前LLM评估过于侧重单轮明确指令的局限性。
-
----
-
 ## <a name="22"></a>22. 英国古树名木普查计划 
 <small>🔗 [ati.woodlandtrust.org.uk](https://ati.woodlandtrust.org.uk/): UK's Ancient Tree Inventory</small>
 
 
-| 🔥: 57 \| 💬: [51](https://news.ycombinator.com/item?id=43982784) \| 🗓️ 2025-05-14
+| 🔥: 61 \| 💬: [52](https://news.ycombinator.com/item?id=43982784) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -315,7 +315,7 @@ Motion公司早期使用**CockroachDB**（支持多区域部署和高可用性�
 <small>🔗 [apps.microsoft.com](https://apps.microsoft.com/detail/9pfcrwp46v22?hl=en-US&gl=US): Show HN: CSV GB+ by Data.olllo – Open and Process CSVs Locally</small>
 
 
-| 🔥: 43 \| 💬: [13](https://news.ycombinator.com/item?id=43985527) \| 🗓️ 2025-05-14
+| 🔥: 44 \| 💬: [13](https://news.ycombinator.com/item?id=43985527) \| 🗓️ 2025-05-14
 
 
 <br />
