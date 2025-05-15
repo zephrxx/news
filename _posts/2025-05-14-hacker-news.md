@@ -27,7 +27,7 @@ tags:
 <small>🔗 [deepmind.google](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/): AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms</small>
 
 
-| 🔥🔥: 681 \| 💬: [186](https://news.ycombinator.com/item?id=43985489) \| 🗓️ 2025-05-14
+| 🔥🔥: 743 \| 💬: [198](https://news.ycombinator.com/item?id=43985489) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -39,7 +39,7 @@ AlphaEvolve是由谷歌团队开发的**进化式编码代理**，结合**Gemini
 <small>🔗 [lux.camera](https://www.lux.camera/what-is-hdr/): What is HDR, anyway?</small>
 
 
-| 🔥🔥: 514 \| 💬: [260](https://news.ycombinator.com/item?id=43983871) \| 🗓️ 2025-05-14
+| 🔥🔥: 546 \| 💬: [268](https://news.ycombinator.com/item?id=43983871) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -51,7 +51,7 @@ HDR（**高动态范围**）是一种影像技术，通过**扩大亮度和色�
 <small>🔗 [blog.stillgreenmoss.net](https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people): SMS 2FA is not just insecure, it's also hostile to mountain people</small>
 
 
-| 🔥🔥: 351 \| 💬: [276](https://news.ycombinator.com/item?id=43984297) \| 🗓️ 2025-05-14
+| 🔥🔥: 357 \| 💬: [279](https://news.ycombinator.com/item?id=43984297) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -60,10 +60,10 @@ HDR（**高动态范围**）是一种影像技术，通过**扩大亮度和色�
 ---
 
 ## <a name="4"></a>4. Databricks收购Neon：为开发者与AI打造开源Postgres未来 
-<small>🔗 [databricks.com](https://www.databricks.com/blog/databricks-neon): Databricks and Neon</small>
+<small>🔗 [databricks.com](https://www.databricks.com/blog/databricks-neon): Databricks acquires Neon</small>
 
 
-| 🔥🔥: 268 \| 💬: [183](https://news.ycombinator.com/item?id=43982777) \| 🗓️ 2025-05-14
+| 🔥🔥: 292 \| 💬: [189](https://news.ycombinator.com/item?id=43982777) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -75,7 +75,7 @@ Databricks宣布收购**Neon**——一家专注于开发者体验的**无服务
 <small>🔗 [it-notes.dragas.net](https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/): A server that wasn't meant to exist</small>
 
 
-| 🔥🔥: 255 \| 💬: [67](https://news.ycombinator.com/item?id=43985971) \| 🗓️ 2025-05-14
+| 🔥🔥: 273 \| 💬: [73](https://news.ycombinator.com/item?id=43985971) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -87,7 +87,7 @@ Databricks宣布收购**Neon**——一家专注于开发者体验的**无服务
 <small>🔗 [blog.trailofbits.com](https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/): The cryptography behind passkeys</small>
 
 
-| 🔥🔥: 166 \| 💬: [147](https://news.ycombinator.com/item?id=43983159) \| 🗓️ 2025-05-14
+| 🔥🔥: 178 \| 💬: [157](https://news.ycombinator.com/item?id=43983159) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -99,7 +99,7 @@ Databricks宣布收购**Neon**——一家专注于开发者体验的**无服务
 <small>🔗 [fredbenenson.medium.com](https://fredbenenson.medium.com/the-perverse-incentives-of-vibe-coding-23efbaf75aee): Perverse incentives of vibe coding</small>
 
 
-| 🔥🔥: 154 \| 💬: [164](https://news.ycombinator.com/item?id=43988315) \| 🗓️ 2025-05-14
+| 🔥🔥: 166 \| 💬: [179](https://news.ycombinator.com/item?id=43988315) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -107,23 +107,11 @@ Databricks宣布收购**Neon**——一家专注于开发者体验的**无服务
 
 ---
 
-## <a name="8"></a>8. 多租户经济学的运作原理 
-<small>🔗 [blacksmith.sh](https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud): How the economics of multitenancy work</small>
-
-
-| 🔥🔥: 144 \| 💬: [30](https://news.ycombinator.com/item?id=43984097) \| 🗓️ 2025-05-14
-
-
-<br />
-本文以Blacksmith的服务器less CI云平台为例，阐述了**多租户系统**的经济学优势。CI工作负载具有**突发性**和**短时性**，而多租户模式通过共享资源池，将客户分散的峰值需求转化为平滑的整体利用率。随着客户数量增加，随机任务分布形成**泊松过程**，显著提升硬件利用率（20%利用率对应70%毛利率）。跨时区客户进一步优化资源使用，使固定成本分摊更高效。这种模式实现了平台与客户的双赢。
-
----
-
-## <a name="9"></a>9. AI代理的行为缓存工具：Muscle-Mem 
+## <a name="8"></a>8. AI代理的行为缓存工具：Muscle-Mem 
 <small>🔗 [github.com](https://github.com/pig-dot-dev/muscle-mem): Show HN: Muscle-Mem, a behavior cache for AI agents</small>
 
 
-| 🔥🔥: 142 \| 💬: [32](https://news.ycombinator.com/item?id=43988381) \| 🗓️ 2025-05-14
+| 🔥🔥: 160 \| 💬: [34](https://news.ycombinator.com/item?id=43988381) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -131,23 +119,11 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 
 ---
 
-## <a name="10"></a>10. 优步在美推出固定路线拼车服务，通勤可省50%费用 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/14/uber-to-introduce-fixed-route-shuttles-in-major-us-cities-other-ways-to-save/): Uber to introduce fixed-route shuttles in major US cities</small>
-
-
-| 🔥🔥: 134 \| 💬: [336](https://news.ycombinator.com/item?id=43985861) \| 🗓️ 2025-05-14
-
-
-<br />
-优步宣布在**巴尔的摩、波士顿、芝加哥等七大城市**推出**固定路线拼车服务“Route Share”**，工作日高峰时段提供预设定点班车，价格比UberX便宜50%。该服务基于用户出行数据规划高频路线，每20分钟一班，最多3人共乘。优步计划未来将此服务扩展至**自动驾驶车辆**，并与大众合作2026年在洛杉矶推出电动共享车。此外，优步还推出**价格锁定**和**预付费套餐**等新功能，帮助用户应对通胀压力。
-
----
-
-## <a name="11"></a>11. 警察与媒体如何操控新闻：揭秘"警察宣传"的真相 
+## <a name="9"></a>9. 警察与媒体如何操控新闻：揭秘"警察宣传"的真相 
 <small>🔗 [teenvogue.com](https://www.teenvogue.com/story/copaganda-when-the-police-and-the-media-manipulate-our-news): Copaganda: How Police and the Media Manipulate Our News</small>
 
 
-| 🔥🔥: 126 \| 💬: [31](https://news.ycombinator.com/item?id=43990333) \| 🗓️ 2025-05-14
+| 🔥🔥: 155 \| 💬: [48](https://news.ycombinator.com/item?id=43990333) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -155,11 +131,35 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 
 ---
 
+## <a name="10"></a>10. 多租户经济学的运作原理 
+<small>🔗 [blacksmith.sh](https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud): How the economics of multitenancy work</small>
+
+
+| 🔥🔥: 147 \| 💬: [31](https://news.ycombinator.com/item?id=43984097) \| 🗓️ 2025-05-14
+
+
+<br />
+本文以Blacksmith的服务器less CI云平台为例，阐述了**多租户系统**的经济学优势。CI工作负载具有**突发性**和**短时性**，而多租户模式通过共享资源池，将客户分散的峰值需求转化为平滑的整体利用率。随着客户数量增加，随机任务分布形成**泊松过程**，显著提升硬件利用率（20%利用率对应70%毛利率）。跨时区客户进一步优化资源使用，使固定成本分摊更高效。这种模式实现了平台与客户的双赢。
+
+---
+
+## <a name="11"></a>11. 优步在美推出固定路线拼车服务，通勤可省50%费用 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/14/uber-to-introduce-fixed-route-shuttles-in-major-us-cities-other-ways-to-save/): Uber to introduce fixed-route shuttles in major US cities</small>
+
+
+| 🔥🔥: 147 \| 💬: [361](https://news.ycombinator.com/item?id=43985861) \| 🗓️ 2025-05-14
+
+
+<br />
+优步宣布在**巴尔的摩、波士顿、芝加哥等七大城市**推出**固定路线拼车服务“Route Share”**，工作日高峰时段提供预设定点班车，价格比UberX便宜50%。该服务基于用户出行数据规划高频路线，每20分钟一班，最多3人共乘。优步计划未来将此服务扩展至**自动驾驶车辆**，并与大众合作2026年在洛杉矶推出电动共享车。此外，优步还推出**价格锁定**和**预付费套餐**等新功能，帮助用户应对通胀压力。
+
+---
+
 ## <a name="12"></a>12. 叙事的牢笼 
 <small>🔗 [aeon.co](https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot): Our narrative prison</small>
 
 
-| 🔥🔥: 125 \| 💬: [107](https://news.ycombinator.com/item?id=43986424) \| 🗓️ 2025-05-14
+| 🔥🔥: 138 \| 💬: [114](https://news.ycombinator.com/item?id=43986424) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -171,7 +171,7 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 <small>🔗 [engineering.usemotion.com](https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d): Migrating to Postgres</small>
 
 
-| 🔥🔥: 111 \| 💬: [81](https://news.ycombinator.com/item?id=43989497) \| 🗓️ 2025-05-14
+| 🔥🔥: 132 \| 💬: [117](https://news.ycombinator.com/item?id=43989497) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -183,7 +183,7 @@ Motion公司早期使用**CockroachDB**（支持多区域部署和高可用性�
 <small>🔗 [buttondown.com](https://buttondown.com/blog/the-e-com-story): E-COM: The $40M USPS project to send email on paper</small>
 
 
-| 🔥🔥: 108 \| 💬: [107](https://news.ycombinator.com/item?id=43983455) \| 🗓️ 2025-05-14
+| 🔥🔥: 112 \| 💬: [110](https://news.ycombinator.com/item?id=43983455) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -195,7 +195,7 @@ Motion公司早期使用**CockroachDB**（支持多区域部署和高可用性�
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/14/technology/ai-jobs-radiologists-mayo-clinic.html): The A.I. Radiologist Will Not Be with You Soon</small>
 
 
-| 🔥🔥: 106 \| 💬: [184](https://news.ycombinator.com/item?id=43983928) \| 🗓️ 2025-05-14
+| 🔥🔥: 106 \| 💬: [185](https://news.ycombinator.com/item?id=43983928) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -203,7 +203,19 @@ Motion公司早期使用**CockroachDB**（支持多区域部署和高可用性�
 
 ---
 
-## <a name="16"></a>16. 2万美元悬赏优化Rust版AV1解码器rav1d性能 
+## <a name="16"></a>16. Grok回应无关问题时大谈“白人种族灭绝” 
+<small>🔗 [twitter.com](https://twitter.com/grok/status/1922651218595439063): Grok answers unrelated queries with long paragraphs about "white genocide"</small>
+
+
+| 🔥🔥: 105 \| 💬: [68](https://news.ycombinator.com/item?id=43987266) \| 🗓️ 2025-05-14
+
+
+<br />
+该内容显示用户遇到**JavaScript未启用**的问题，导致无法正常使用x.com（原Twitter）。平台建议启用JavaScript或更换支持的浏览器，并提示某些**隐私扩展插件**可能引发访问异常。文末附有帮助中心链接和公司政策信息，但主要内容与标题所述的“白人种族灭绝”无关，疑似技术错误或内容错位。
+
+---
+
+## <a name="17"></a>17. 2万美元悬赏优化Rust版AV1解码器rav1d性能 
 <small>🔗 [memorysafety.org](https://www.memorysafety.org/blog/rav1d-perf-bounty/): $20K Bounty Offered for Optimizing Rust Code in Rav1d AV1 Decoder</small>
 
 
@@ -215,23 +227,11 @@ Motion公司早期使用**CockroachDB**（支持多区域部署和高可用性�
 
 ---
 
-## <a name="17"></a>17. Grok回应无关问题时大谈“白人种族灭绝” 
-<small>🔗 [twitter.com](https://twitter.com/grok/status/1922651218595439063): Grok answers unrelated queries with long paragraphs about "white genocide"</small>
-
-
-| 🔥: 96 \| 💬: [64](https://news.ycombinator.com/item?id=43987266) \| 🗓️ 2025-05-14
-
-
-<br />
-该内容显示用户遇到**JavaScript未启用**的问题，导致无法正常使用x.com（原Twitter）。平台建议启用JavaScript或更换支持的浏览器，并提示某些**隐私扩展插件**可能引发访问异常。文末附有帮助中心链接和公司政策信息，但主要内容与标题所述的“白人种族灭绝”无关，疑似技术错误或内容错位。
-
----
-
 ## <a name="18"></a>18. Smalltalk-78 Xerox NoteTaker 浏览器模拟器 
 <small>🔗 [smalltalkzoo.thechm.org](https://smalltalkzoo.thechm.org/users/bert/Smalltalk-78.html): Smalltalk-78 Xerox NoteTaker in-browser emulator</small>
 
 
-| 🔥: 71 \| 💬: [27](https://news.ycombinator.com/item?id=43986833) \| 🗓️ 2025-05-14
+| 🔥: 74 \| 💬: [28](https://news.ycombinator.com/item?id=43986833) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -255,7 +255,7 @@ Motion公司早期使用**CockroachDB**（支持多区域部署和高可用性�
 <small>🔗 [vvvincent.me](https://vvvincent.me/llms-are-making-me-dumber/): LLMs are making me dumber</small>
 
 
-| 🔥: 59 \| 💬: [59](https://news.ycombinator.com/item?id=43990012) \| 🗓️ 2025-05-14
+| 🔥: 61 \| 💬: [60](https://news.ycombinator.com/item?id=43990012) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -263,11 +263,23 @@ Motion公司早期使用**CockroachDB**（支持多区域部署和高可用性�
 
 ---
 
-## <a name="21"></a>21. 英国古树名木普查计划 
+## <a name="21"></a>21. 大语言模型在多轮对话中容易迷失方向 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2505.06120): LLMs Get Lost in Multi-Turn Conversation</small>
+
+
+| 🔥: 61 \| 💬: [27](https://news.ycombinator.com/item?id=43991256) \| 🗓️ 2025-05-14
+
+
+<br />
+研究表明，**大语言模型（LLMs）** 在**多轮对话**中的表现显著低于单轮任务，平均性能下降达39%。主要问题在于模型会过早假设并生成最终方案，导致一旦偏离正确路径便难以恢复。实验分析了20万次模拟对话，发现性能下降源于**轻微的能力损失**和**显著的可靠性降低**。这一现象揭示了当前LLM评估过于侧重单轮明确指令的局限性。
+
+---
+
+## <a name="22"></a>22. 英国古树名木普查计划 
 <small>🔗 [ati.woodlandtrust.org.uk](https://ati.woodlandtrust.org.uk/): UK's Ancient Tree Inventory</small>
 
 
-| 🔥: 55 \| 💬: [51](https://news.ycombinator.com/item?id=43982784) \| 🗓️ 2025-05-14
+| 🔥: 57 \| 💬: [51](https://news.ycombinator.com/item?id=43982784) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -275,7 +287,19 @@ Motion公司早期使用**CockroachDB**（支持多区域部署和高可用性�
 
 ---
 
-## <a name="22"></a>22. DeepMind发布通用科学AI AlphaEvolve，突破数学与芯片设计难题 
+## <a name="23"></a>23. 开发者别慌，科技巨头与AI炒作再次失控 
+<small>🔗 [cicero.sh](https://cicero.sh/forums/thread/developers-don-t-despair-big-tech-and-ai-hype-is-off-the-rails-again-000007): Developers, don't despair, big tech and AI hype is off the rails again</small>
+
+
+| 🔥: 47 \| 💬: [24](https://news.ycombinator.com/item?id=43982463) \| 🗓️ 2025-05-14
+
+
+<br />
+文章批判了当前科技巨头对AI能力的夸大宣传，指出**Transformer架构**存在根本缺陷，无法实现真正自主编程。作者以亲身经历为例，说明AI生成的代码常缺乏**常识判断**（如内存管理错误），且需要人工全程监督。虽然AI能辅助前端开发等简单任务，但无法替代人类工程师的**系统设计能力**。最终强调，开发者应保持技术敏锐度，因为AI目前仅是辅助工具，远未达到取代人类的水平。
+
+---
+
+## <a name="24"></a>24. DeepMind发布通用科学AI AlphaEvolve，突破数学与芯片设计难题 
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-01523-z): DeepMind unveils general-purpose science AI</small>
 
 
@@ -287,38 +311,14 @@ Motion公司早期使用**CockroachDB**（支持多区域部署和高可用性�
 
 ---
 
-## <a name="23"></a>23. 开发者别慌，科技巨头与AI炒作再次失控 
-<small>🔗 [cicero.sh](https://cicero.sh/forums/thread/developers-don-t-despair-big-tech-and-ai-hype-is-off-the-rails-again-000007): Developers, don't despair, big tech and AI hype is off the rails again</small>
-
-
-| 🔥: 45 \| 💬: [24](https://news.ycombinator.com/item?id=43982463) \| 🗓️ 2025-05-14
-
-
-<br />
-文章批判了当前科技巨头对AI能力的夸大宣传，指出**Transformer架构**存在根本缺陷，无法实现真正自主编程。作者以亲身经历为例，说明AI生成的代码常缺乏**常识判断**（如内存管理错误），且需要人工全程监督。虽然AI能辅助前端开发等简单任务，但无法替代人类工程师的**系统设计能力**。最终强调，开发者应保持技术敏锐度，因为AI目前仅是辅助工具，远未达到取代人类的水平。
-
----
-
-## <a name="24"></a>24. Data.olllo推出CSV GB+：本地打开和处理大型CSV文件 
+## <a name="25"></a>25. Data.olllo推出CSV GB+：本地打开和处理大型CSV文件 
 <small>🔗 [apps.microsoft.com](https://apps.microsoft.com/detail/9pfcrwp46v22?hl=en-US&gl=US): Show HN: CSV GB+ by Data.olllo – Open and Process CSVs Locally</small>
 
 
-| 🔥: 41 \| 💬: [13](https://news.ycombinator.com/item?id=43985527) \| 🗓️ 2025-05-14
+| 🔥: 43 \| 💬: [13](https://news.ycombinator.com/item?id=43985527) \| 🗓️ 2025-05-14
 
 
 <br />
 该工具允许用户**直接在浏览器中**处理超大型CSV文件，无需上传至云端，保障**数据隐私**。支持快速加载、筛选和编辑，适合处理**GB级数据**。纯前端运行，无需安装，但需启用JavaScript。
-
----
-
-## <a name="25"></a>25. 马自达滥用DMCA下架开源Home Assistant应用 
-<small>🔗 [consumerrights.wiki](https://consumerrights.wiki/Mazda_DMCA_takedown_of_Open_Source_Home_Assistant_App): Mazda DMCA Takedown of Open Source Home Assistant App</small>
-
-
-| 🔥: 39 \| 💬: [1](https://news.ycombinator.com/item?id=43983841) \| 🗓️ 2025-05-14
-
-
-<br />
-马自达汽车通过官方服务器支持远程控制功能，并推出官方应用**MyMazda**。开发者Brandon Rothweiler曾开源集成工具，将马自达功能接入**Home Assistant**平台。2023年10月，马自达以**虚假DMCA侵权声明**强制下架该项目，随后推出10美元/月的订阅服务，将原本免费功能转为付费。消费者批评此举涉嫌反竞争，且未提前告知订阅费用，导致部分用户表示后悔购车。开源社区认为马自达的API本可自由调用，下架行为实为打压替代方案。
 
 ---
