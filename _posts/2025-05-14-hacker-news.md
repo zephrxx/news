@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [deepmind.google](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/): AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms</small>
 
 
-| 🔥🔥: 622 \| 💬: [168](https://news.ycombinator.com/item?id=43985489) \| 🗓️ 2025-05-14
+| 🔥🔥: 654 \| 💬: [181](https://news.ycombinator.com/item?id=43985489) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -39,7 +39,7 @@ AlphaEvolve是由谷歌团队开发的**进化式编码代理**，结合**Gemini
 <small>🔗 [lux.camera](https://www.lux.camera/what-is-hdr/): What is HDR, anyway?</small>
 
 
-| 🔥🔥: 485 \| 💬: [243](https://news.ycombinator.com/item?id=43983871) \| 🗓️ 2025-05-14
+| 🔥🔥: 500 \| 💬: [248](https://news.ycombinator.com/item?id=43983871) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -51,7 +51,7 @@ HDR（**高动态范围**）是一种影像技术，通过**扩大亮度和色�
 <small>🔗 [blog.stillgreenmoss.net](https://blog.stillgreenmoss.net/sms-2fa-is-not-just-insecure-its-also-hostile-to-mountain-people): SMS 2FA is not just insecure, it's also hostile to mountain people</small>
 
 
-| 🔥🔥: 346 \| 💬: [262](https://news.ycombinator.com/item?id=43984297) \| 🗓️ 2025-05-14
+| 🔥🔥: 347 \| 💬: [265](https://news.ycombinator.com/item?id=43984297) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -63,7 +63,7 @@ HDR（**高动态范围**）是一种影像技术，通过**扩大亮度和色�
 <small>🔗 [databricks.com](https://www.databricks.com/blog/databricks-neon): Databricks and Neon</small>
 
 
-| 🔥🔥: 258 \| 💬: [181](https://news.ycombinator.com/item?id=43982777) \| 🗓️ 2025-05-14
+| 🔥🔥: 265 \| 💬: [183](https://news.ycombinator.com/item?id=43982777) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -75,7 +75,7 @@ Databricks宣布收购**Neon**——一家专注于开发者体验的**无服务
 <small>🔗 [it-notes.dragas.net](https://it-notes.dragas.net/2025/05/13/the_server_that_wasnt_meant_to_exist/): A server that wasn't meant to exist</small>
 
 
-| 🔥🔥: 235 \| 💬: [58](https://news.ycombinator.com/item?id=43985971) \| 🗓️ 2025-05-14
+| 🔥🔥: 244 \| 💬: [65](https://news.ycombinator.com/item?id=43985971) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -87,7 +87,7 @@ Databricks宣布收购**Neon**——一家专注于开发者体验的**无服务
 <small>🔗 [blog.trailofbits.com](https://blog.trailofbits.com/2025/05/14/the-cryptography-behind-passkeys/): The cryptography behind passkeys</small>
 
 
-| 🔥🔥: 154 \| 💬: [129](https://news.ycombinator.com/item?id=43983159) \| 🗓️ 2025-05-14
+| 🔥🔥: 156 \| 💬: [138](https://news.ycombinator.com/item?id=43983159) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -95,23 +95,11 @@ Databricks宣布收购**Neon**——一家专注于开发者体验的**无服务
 
 ---
 
-## <a name="7"></a>7. 多租户经济学的运作原理 
-<small>🔗 [blacksmith.sh](https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud): How the economics of multitenancy work</small>
-
-
-| 🔥🔥: 134 \| 💬: [27](https://news.ycombinator.com/item?id=43984097) \| 🗓️ 2025-05-14
-
-
-<br />
-本文以Blacksmith的服务器less CI云平台为例，阐述了**多租户系统**的经济学优势。CI工作负载具有**突发性**和**短时性**，而多租户模式通过共享资源池，将客户分散的峰值需求转化为平滑的整体利用率。随着客户数量增加，随机任务分布形成**泊松过程**，显著提升硬件利用率（20%利用率对应70%毛利率）。跨时区客户进一步优化资源使用，使固定成本分摊更高效。这种模式实现了平台与客户的双赢。
-
----
-
-## <a name="8"></a>8. AI编程的成瘾陷阱与经济悖论 
+## <a name="7"></a>7. AI编程的成瘾陷阱与经济悖论 
 <small>🔗 [fredbenenson.medium.com](https://fredbenenson.medium.com/the-perverse-incentives-of-vibe-coding-23efbaf75aee): Perverse incentives of vibe coding</small>
 
 
-| 🔥🔥: 132 \| 💬: [137](https://news.ycombinator.com/item?id=43988315) \| 🗓️ 2025-05-14
+| 🔥🔥: 143 \| 💬: [155](https://news.ycombinator.com/item?id=43988315) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -119,23 +107,23 @@ Databricks宣布收购**Neon**——一家专注于开发者体验的**无服务
 
 ---
 
-## <a name="9"></a>9. 优步在美推出固定路线拼车服务，通勤可省50%费用 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/14/uber-to-introduce-fixed-route-shuttles-in-major-us-cities-other-ways-to-save/): Uber to introduce fixed-route shuttles in major US cities</small>
+## <a name="8"></a>8. 多租户经济学的运作原理 
+<small>🔗 [blacksmith.sh](https://www.blacksmith.sh/blog/the-economics-of-operating-a-ci-cloud): How the economics of multitenancy work</small>
 
 
-| 🔥🔥: 120 \| 💬: [321](https://news.ycombinator.com/item?id=43985861) \| 🗓️ 2025-05-14
+| 🔥🔥: 138 \| 💬: [30](https://news.ycombinator.com/item?id=43984097) \| 🗓️ 2025-05-14
 
 
 <br />
-优步宣布在**巴尔的摩、波士顿、芝加哥等七大城市**推出**固定路线拼车服务“Route Share”**，工作日高峰时段提供预设定点班车，价格比UberX便宜50%。该服务基于用户出行数据规划高频路线，每20分钟一班，最多3人共乘。优步计划未来将此服务扩展至**自动驾驶车辆**，并与大众合作2026年在洛杉矶推出电动共享车。此外，优步还推出**价格锁定**和**预付费套餐**等新功能，帮助用户应对通胀压力。
+本文以Blacksmith的服务器less CI云平台为例，阐述了**多租户系统**的经济学优势。CI工作负载具有**突发性**和**短时性**，而多租户模式通过共享资源池，将客户分散的峰值需求转化为平滑的整体利用率。随着客户数量增加，随机任务分布形成**泊松过程**，显著提升硬件利用率（20%利用率对应70%毛利率）。跨时区客户进一步优化资源使用，使固定成本分摊更高效。这种模式实现了平台与客户的双赢。
 
 ---
 
-## <a name="10"></a>10. AI代理的行为缓存工具：Muscle-Mem 
+## <a name="9"></a>9. AI代理的行为缓存工具：Muscle-Mem 
 <small>🔗 [github.com](https://github.com/pig-dot-dev/muscle-mem): Show HN: Muscle-Mem, a behavior cache for AI agents</small>
 
 
-| 🔥🔥: 119 \| 💬: [32](https://news.ycombinator.com/item?id=43988381) \| 🗓️ 2025-05-14
+| 🔥🔥: 132 \| 💬: [31](https://news.ycombinator.com/item?id=43988381) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -143,11 +131,23 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 
 ---
 
+## <a name="10"></a>10. 优步在美推出固定路线拼车服务，通勤可省50%费用 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/14/uber-to-introduce-fixed-route-shuttles-in-major-us-cities-other-ways-to-save/): Uber to introduce fixed-route shuttles in major US cities</small>
+
+
+| 🔥🔥: 128 \| 💬: [332](https://news.ycombinator.com/item?id=43985861) \| 🗓️ 2025-05-14
+
+
+<br />
+优步宣布在**巴尔的摩、波士顿、芝加哥等七大城市**推出**固定路线拼车服务“Route Share”**，工作日高峰时段提供预设定点班车，价格比UberX便宜50%。该服务基于用户出行数据规划高频路线，每20分钟一班，最多3人共乘。优步计划未来将此服务扩展至**自动驾驶车辆**，并与大众合作2026年在洛杉矶推出电动共享车。此外，优步还推出**价格锁定**和**预付费套餐**等新功能，帮助用户应对通胀压力。
+
+---
+
 ## <a name="11"></a>11. 叙事的牢笼 
 <small>🔗 [aeon.co](https://aeon.co/essays/why-does-every-film-and-tv-series-seem-to-have-the-same-plot): Our narrative prison</small>
 
 
-| 🔥🔥: 114 \| 💬: [102](https://news.ycombinator.com/item?id=43986424) \| 🗓️ 2025-05-14
+| 🔥🔥: 121 \| 💬: [105](https://news.ycombinator.com/item?id=43986424) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -159,7 +159,7 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 <small>🔗 [buttondown.com](https://buttondown.com/blog/the-e-com-story): E-COM: The $40M USPS project to send email on paper</small>
 
 
-| 🔥🔥: 106 \| 💬: [103](https://news.ycombinator.com/item?id=43983455) \| 🗓️ 2025-05-14
+| 🔥🔥: 107 \| 💬: [106](https://news.ycombinator.com/item?id=43983455) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -171,7 +171,7 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/14/technology/ai-jobs-radiologists-mayo-clinic.html): The A.I. Radiologist Will Not Be with You Soon</small>
 
 
-| 🔥🔥: 104 \| 💬: [183](https://news.ycombinator.com/item?id=43983928) \| 🗓️ 2025-05-14
+| 🔥🔥: 105 \| 💬: [183](https://news.ycombinator.com/item?id=43983928) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -183,7 +183,7 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 <small>🔗 [memorysafety.org](https://www.memorysafety.org/blog/rav1d-perf-bounty/): $20K Bounty Offered for Optimizing Rust Code in Rav1d AV1 Decoder</small>
 
 
-| 🔥: 100 \| 💬: [96](https://news.ycombinator.com/item?id=43982238) \| 🗓️ 2025-05-14
+| 🔥🔥: 101 \| 💬: [96](https://news.ycombinator.com/item?id=43982238) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -191,11 +191,23 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 
 ---
 
-## <a name="15"></a>15. Grok回应无关问题时大谈“白人种族灭绝” 
+## <a name="15"></a>15. 从CockroachDB迁移至PostgreSQL的经验分享 
+<small>🔗 [engineering.usemotion.com](https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d): Migrating to Postgres</small>
+
+
+| 🔥: 87 \| 💬: [44](https://news.ycombinator.com/item?id=43989497) \| 🗓️ 2025-05-14
+
+
+<br />
+Motion公司早期使用**CockroachDB**（支持多区域部署和高可用性），但随着业务增长，其高昂成本和性能问题（如**迁移超时**、ETL任务失败）日益突出。尽管部分查询在CockroachDB上更快，但多数场景下**PostgreSQL性能提升3倍**，且生态工具更完善。最终团队通过自定义ETL脚本完成迁移，节省11万美元年成本，系统延迟降低33%。迁移后还借助PostgreSQL生态快速优化了查询性能。
+
+---
+
+## <a name="16"></a>16. Grok回应无关问题时大谈“白人种族灭绝” 
 <small>🔗 [twitter.com](https://twitter.com/grok/status/1922651218595439063): Grok answers unrelated queries with long paragraphs about "white genocide"</small>
 
 
-| 🔥: 77 \| 💬: [44](https://news.ycombinator.com/item?id=43987266) \| 🗓️ 2025-05-14
+| 🔥: 86 \| 💬: [54](https://news.ycombinator.com/item?id=43987266) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -203,11 +215,11 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 
 ---
 
-## <a name="16"></a>16. Smalltalk-78 Xerox NoteTaker 浏览器模拟器 
+## <a name="17"></a>17. Smalltalk-78 Xerox NoteTaker 浏览器模拟器 
 <small>🔗 [smalltalkzoo.thechm.org](https://smalltalkzoo.thechm.org/users/bert/Smalltalk-78.html): Smalltalk-78 Xerox NoteTaker in-browser emulator</small>
 
 
-| 🔥: 66 \| 💬: [26](https://news.ycombinator.com/item?id=43986833) \| 🗓️ 2025-05-14
+| 🔥: 70 \| 💬: [26](https://news.ycombinator.com/item?id=43986833) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -215,7 +227,19 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 
 ---
 
-## <a name="17"></a>17. 未来太贵：低生育率背后的信任危机 
+## <a name="18"></a>18. 警察与媒体如何操控新闻：揭秘"警察宣传"的真相 
+<small>🔗 [teenvogue.com](https://www.teenvogue.com/story/copaganda-when-the-police-and-the-media-manipulate-our-news): Copaganda: How Police and the Media Manipulate Our News</small>
+
+
+| 🔥: 69 \| 💬: [14](https://news.ycombinator.com/item?id=43990333) \| 🗓️ 2025-05-14
+
+
+<br />
+本书揭露了**警察宣传（Copaganda）**如何通过选择性报道制造**道德恐慌**，例如夸大犯罪率下降时的盗窃案，引导公众支持增加警力预算。作者指出，这种操纵掩盖了权力阶层的真正危害，并推动惩罚性政策，而非解决社会不平等。媒体通过片面引用个案（如将枪击案归咎于"削减警费"）扭曲事实，尽管数据显示警费连年增长。最终，这种循环导致资源持续流向监狱和警察系统，而非根治暴力根源。
+
+---
+
+## <a name="19"></a>19. 未来太贵：低生育率背后的信任危机 
 <small>🔗 [medium.com](https://medium.com/@hectorchu1/the-future-is-too-expensive-a-new-theory-of-why-people-arent-having-kids-c3eca581c491): The Future Is Too Expensive – A New Theory on Collapsing Birth Rates</small>
 
 
@@ -227,11 +251,11 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 
 ---
 
-## <a name="18"></a>18. 大模型正在让我变笨 
+## <a name="20"></a>20. 大模型正在让我变笨 
 <small>🔗 [vvvincent.me](https://vvvincent.me/llms-are-making-me-dumber/): LLMs are making me dumber</small>
 
 
-| 🔥: 56 \| 💬: [48](https://news.ycombinator.com/item?id=43990012) \| 🗓️ 2025-05-14
+| 🔥: 59 \| 💬: [55](https://news.ycombinator.com/item?id=43990012) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -239,23 +263,11 @@ Muscle-Mem是一个为AI代理设计的**行为缓存工具**，通过记录代�
 
 ---
 
-## <a name="19"></a>19. 从CockroachDB迁移至PostgreSQL的经验分享 
-<small>🔗 [engineering.usemotion.com](https://engineering.usemotion.com/migrating-to-postgres-3c93dff9c65d): Migrating to Postgres</small>
-
-
-| 🔥: 53 \| 💬: [12](https://news.ycombinator.com/item?id=43989497) \| 🗓️ 2025-05-14
-
-
-<br />
-Motion公司早期使用**CockroachDB**（支持多区域部署和高可用性），但随着业务增长，其高昂成本和性能问题（如**迁移超时**、ETL任务失败）日益突出。尽管部分查询在CockroachDB上更快，但多数场景下**PostgreSQL性能提升3倍**，且生态工具更完善。最终团队通过自定义ETL脚本完成迁移，节省11万美元年成本，系统延迟降低33%。迁移后还借助PostgreSQL生态快速优化了查询性能。
-
----
-
-## <a name="20"></a>20. 英国古树名木普查计划 
+## <a name="21"></a>21. 英国古树名木普查计划 
 <small>🔗 [ati.woodlandtrust.org.uk](https://ati.woodlandtrust.org.uk/): UK's Ancient Tree Inventory</small>
 
 
-| 🔥: 50 \| 💬: [50](https://news.ycombinator.com/item?id=43982784) \| 🗓️ 2025-05-14
+| 🔥: 53 \| 💬: [50](https://news.ycombinator.com/item?id=43982784) \| 🗓️ 2025-05-14
 
 
 <br />
@@ -263,7 +275,7 @@ Motion公司早期使用**CockroachDB**（支持多区域部署和高可用性�
 
 ---
 
-## <a name="21"></a>21. DeepMind发布通用科学AI AlphaEvolve，突破数学与芯片设计难题 
+## <a name="22"></a>22. DeepMind发布通用科学AI AlphaEvolve，突破数学与芯片设计难题 
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-01523-z): DeepMind unveils general-purpose science AI</small>
 
 
@@ -275,7 +287,7 @@ Motion公司早期使用**CockroachDB**（支持多区域部署和高可用性�
 
 ---
 
-## <a name="22"></a>22. 开发者别慌，科技巨头与AI炒作再次失控 
+## <a name="23"></a>23. 开发者别慌，科技巨头与AI炒作再次失控 
 <small>🔗 [cicero.sh](https://cicero.sh/forums/thread/developers-don-t-despair-big-tech-and-ai-hype-is-off-the-rails-again-000007): Developers, don't despair, big tech and AI hype is off the rails again</small>
 
 
@@ -287,7 +299,7 @@ Motion公司早期使用**CockroachDB**（支持多区域部署和高可用性�
 
 ---
 
-## <a name="23"></a>23. Data.olllo推出CSV GB+：本地打开和处理大型CSV文件 
+## <a name="24"></a>24. Data.olllo推出CSV GB+：本地打开和处理大型CSV文件 
 <small>🔗 [apps.microsoft.com](https://apps.microsoft.com/detail/9pfcrwp46v22?hl=en-US&gl=US): Show HN: CSV GB+ by Data.olllo – Open and Process CSVs Locally</small>
 
 
@@ -299,7 +311,7 @@ Motion公司早期使用**CockroachDB**（支持多区域部署和高可用性�
 
 ---
 
-## <a name="24"></a>24. 马自达滥用DMCA下架开源Home Assistant应用 
+## <a name="25"></a>25. 马自达滥用DMCA下架开源Home Assistant应用 
 <small>🔗 [consumerrights.wiki](https://consumerrights.wiki/Mazda_DMCA_takedown_of_Open_Source_Home_Assistant_App): Mazda DMCA Takedown of Open Source Home Assistant App</small>
 
 
