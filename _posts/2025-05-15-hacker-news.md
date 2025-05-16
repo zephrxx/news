@@ -27,7 +27,7 @@ tags:
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html): Baby is healed with first personalized gene-editing treatment</small>
 
 
-| 🔥🔥: 418 \| 💬: [193](https://news.ycombinator.com/item?id=43997636) \| 🗓️ 2025-05-15
+| 🔥🔥: 478 \| 💬: [227](https://news.ycombinator.com/item?id=43997636) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -39,7 +39,7 @@ KJ Muldoon出生时患有**CPS1缺乏症**，这种罕见遗传病发病率仅13
 <small>🔗 [dynomight.net](https://dynomight.net/numpy/): I don't like NumPy</small>
 
 
-| 🔥🔥: 318 \| 💬: [142](https://news.ycombinator.com/item?id=43996431) \| 🗓️ 2025-05-15
+| 🔥🔥: 328 \| 💬: [151](https://news.ycombinator.com/item?id=43996431) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -51,7 +51,7 @@ KJ Muldoon出生时患有**CPS1缺乏症**，这种罕见遗传病发病率仅13
 <small>🔗 [clientserver.dev](https://www.clientserver.dev/p/malicious-compliance-by-booking-an): Malicious compliance by booking an available meeting room</small>
 
 
-| 🔥🔥: 287 \| 💬: [273](https://news.ycombinator.com/item?id=43994765) \| 🗓️ 2025-05-15
+| 🔥🔥: 298 \| 💬: [275](https://news.ycombinator.com/item?id=43994765) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -63,7 +63,7 @@ KJ Muldoon出生时患有**CPS1缺乏症**，这种罕见遗传病发病率仅13
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/05/15/coinbase-says-hackers-bribed-staff-to-steal-customer-data-and-are-demanding-20-million-ransom.html): Coinbase says hackers bribed staff to steal customer data, demanding $20M ransom</small>
 
 
-| 🔥🔥: 268 \| 💬: [302](https://news.ycombinator.com/item?id=43996307) \| 🗓️ 2025-05-15
+| 🔥🔥: 280 \| 💬: [314](https://news.ycombinator.com/item?id=43996307) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -75,7 +75,7 @@ KJ Muldoon出生时患有**CPS1缺乏症**，这种罕见遗传病发病率仅13
 <small>🔗 [eoinmurray.info](https://eoinmurray.info/boltzmann-machine): A Tiny Boltzmann Machine</small>
 
 
-| 🔥🔥: 211 \| 💬: [39](https://news.ycombinator.com/item?id=43995005) \| 🗓️ 2025-05-15
+| 🔥🔥: 216 \| 💬: [39](https://news.ycombinator.com/item?id=43995005) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -87,7 +87,7 @@ KJ Muldoon出生时患有**CPS1缺乏症**，这种罕见遗传病发病率仅13
 <small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/05/xais-grok-suddenly-cant-stop-bringing-up-white-genocide-in-south-africa/): XAI's Grok suddenly can't stop bringing up "white genocide" in South Africa</small>
 
 
-| 🔥🔥: 189 \| 💬: [66](https://news.ycombinator.com/item?id=43993332) \| 🗓️ 2025-05-15
+| 🔥🔥: 192 \| 💬: [65](https://news.ycombinator.com/item?id=43993332) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -99,7 +99,7 @@ X平台的AI聊天机器人**Grok**近期出现异常行为，在回复各类无
 <small>🔗 [sketch.dev](https://sketch.dev/blog/agent-loop): The unreasonable effectiveness of an LLM agent loop with tool use</small>
 
 
-| 🔥🔥: 171 \| 💬: [96](https://news.ycombinator.com/item?id=43998472) \| 🗓️ 2025-05-15
+| 🔥🔥: 186 \| 💬: [114](https://news.ycombinator.com/item?id=43998472) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -111,7 +111,7 @@ X平台的AI聊天机器人**Grok**近期出现异常行为，在回复各类无
 <small>🔗 [themarkup.org](https://themarkup.org/pixel-hunt/2025/04/28/how-california-sent-residents-personal-health-data-to-linkedin): California sent residents' personal health data to LinkedIn</small>
 
 
-| 🔥🔥: 162 \| 💬: [85](https://news.ycombinator.com/item?id=43995302) \| 🗓️ 2025-05-15
+| 🔥🔥: 166 \| 💬: [89](https://news.ycombinator.com/item?id=43995302) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -123,7 +123,7 @@ X平台的AI聊天机器人**Grok**近期出现异常行为，在回复各类无
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/15/world/europe/harvard-law-magna-carta-original.html): Harvard Law paid $27 for a copy of Magna Carta. It's an original</small>
 
 
-| 🔥🔥: 152 \| 💬: [80](https://news.ycombinator.com/item?id=43997830) \| 🗓️ 2025-05-15
+| 🔥🔥: 159 \| 💬: [92](https://news.ycombinator.com/item?id=43997830) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -135,7 +135,7 @@ X平台的AI聊天机器人**Grok**近期出现异常行为，在回复各类无
 <small>🔗 [github.com](https://github.com/marv1nnnnn/llm-min.txt): Show HN: Min.js style compression of tech docs for LLM context</small>
 
 
-| 🔥🔥: 149 \| 💬: [40](https://news.ycombinator.com/item?id=43994987) \| 🗓️ 2025-05-15
+| 🔥🔥: 150 \| 💬: [40](https://news.ycombinator.com/item?id=43994987) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -143,11 +143,23 @@ X平台的AI聊天机器人**Grok**近期出现异常行为，在回复各类无
 
 ---
 
-## <a name="11"></a>11. 实时高斯泼溅技术：LiveSplat发布 
+## <a name="11"></a>11. 用三条指令实现闰年检测的奇技淫巧 
+<small>🔗 [hueffner.de](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html): A leap year check in three instructions</small>
+
+
+| 🔥🔥: 140 \| 💬: [48](https://news.ycombinator.com/item?id=43999748) \| 🗓️ 2025-05-15
+
+
+<br />
+这篇文章探讨了一种极简的闰年判断算法，仅需**三条CPU指令**即可完成。核心代码通过魔术数字`1073750999`和位运算掩码`3221352463`实现高效计算，支持年份范围0到102499。作者深入剖析了背后的数学原理，包括**模运算优化**和**固定点数近似**技巧，并对比了传统分支判断方法的性能差异。这种位操作黑魔法虽然牺牲了部分通用性，但在特定场景下能显著提升性能，展现了底层编程的巧妙思维。
+
+---
+
+## <a name="12"></a>12. 实时高斯泼溅技术：LiveSplat发布 
 <small>🔗 [github.com](https://github.com/axbycc/LiveSplat): Show HN: Real-Time Gaussian Splatting</small>
 
 
-| 🔥🔥: 120 \| 💬: [44](https://news.ycombinator.com/item?id=43994827) \| 🗓️ 2025-05-15
+| 🔥🔥: 121 \| 💬: [44](https://news.ycombinator.com/item?id=43994827) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -155,7 +167,7 @@ LiveSplat是一款基于**RGBD摄像头流**的**实时高斯泼溅算法**，�
 
 ---
 
-## <a name="12"></a>12. 我的工程技艺退步了 
+## <a name="13"></a>13. 我的工程技艺退步了 
 <small>🔗 [lemmy.ml](https://lemmy.ml/post/30100312): My Engineering Craft Regressed</small>
 
 
@@ -167,11 +179,11 @@ LiveSplat是一款基于**RGBD摄像头流**的**实时高斯泼溅算法**，�
 
 ---
 
-## <a name="13"></a>13. 《深空开采》中的动态路径规划技术 
+## <a name="14"></a>14. 《深空开采》中的动态路径规划技术 
 <small>🔗 [juhrjuhr.itch.io](https://juhrjuhr.itch.io/deep-space-exploitation/devlog/945428/9-pathfinding): Pathfinding</small>
 
 
-| 🔥🔥: 111 \| 💬: [35](https://news.ycombinator.com/item?id=43994333) \| 🗓️ 2025-05-15
+| 🔥🔥: 114 \| 💬: [35](https://news.ycombinator.com/item?id=43994333) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -179,23 +191,11 @@ LiveSplat是一款基于**RGBD摄像头流**的**实时高斯泼溅算法**，�
 
 ---
 
-## <a name="14"></a>14. 用三条指令实现闰年检测的奇技淫巧 
-<small>🔗 [hueffner.de](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html): A leap year check in three instructions</small>
-
-
-| 🔥🔥: 102 \| 💬: [39](https://news.ycombinator.com/item?id=43999748) \| 🗓️ 2025-05-15
-
-
-<br />
-这篇文章探讨了一种极简的闰年判断算法，仅需**三条CPU指令**即可完成。核心代码通过魔术数字`1073750999`和位运算掩码`3221352463`实现高效计算，支持年份范围0到102499。作者深入剖析了背后的数学原理，包括**模运算优化**和**固定点数近似**技巧，并对比了传统分支判断方法的性能差异。这种位操作黑魔法虽然牺牲了部分通用性，但在特定场景下能显著提升性能，展现了底层编程的巧妙思维。
-
----
-
 ## <a name="15"></a>15. Stack Overflow濒临消亡 
 <small>🔗 [blog.pragmaticengineer.com](https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/): Stack Overflow is almost dead</small>
 
 
-| 🔥: 96 \| 💬: [124](https://news.ycombinator.com/item?id=43999125) \| 🗓️ 2025-05-15
+| 🔥: 100 \| 💬: [139](https://news.ycombinator.com/item?id=43999125) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -203,23 +203,11 @@ Stack Overflow的提问量自2014年起持续下滑，**严格的审核政策**�
 
 ---
 
-## <a name="16"></a>16. 告别IP验证：用密码学技术甄别机器人流量 
-<small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/web-bot-auth/): Forget IPs: using cryptography to verify bot and agent traffic</small>
-
-
-| 🔥: 74 \| 💬: [23](https://news.ycombinator.com/item?id=43994779) \| 🗓️ 2025-05-15
-
-
-<br />
-Cloudflare提出用**HTTP消息签名**和**请求mTLS**替代传统的IP和User-Agent验证机制，解决恶意爬虫与友好机器人（如搜索引擎爬虫）的识别难题。现有方法易被伪造（如User-Agent）或受限于IP共享问题，而新方案通过**密码学签名**确保请求来源可信。例如，OpenAI已采用HTTP消息签名标记其Operator流量。此外，实验性**req mTLS标志**可在TLS层安全验证客户端证书，避免误拦正常用户。相关代码示例已开源，推动行业标准化。
-
----
-
-## <a name="17"></a>17. TLA⁺工具生态现状与未来展望 
+## <a name="16"></a>16. TLA⁺工具生态现状与未来展望 
 <small>🔗 [ahelwer.ca](https://ahelwer.ca/post/2025-05-15-tla-dev-status/): The current state of TLA⁺ development</small>
 
 
-| 🔥: 74 \| 💬: [15](https://news.ycombinator.com/item?id=43998115) \| 🗓️ 2025-05-15
+| 🔥: 82 \| 💬: [19](https://news.ycombinator.com/item?id=43998115) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -227,23 +215,23 @@ Cloudflare提出用**HTTP消息签名**和**请求mTLS**替代传统的IP和User
 
 ---
 
-## <a name="18"></a>18. 美国旋转爆震火箭发动机完成首次飞行测试 
-<small>🔗 [arstechnica.com](https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/): In the US, a rotating detonation rocket engine takes flight</small>
+## <a name="17"></a>17. 告别IP验证：用密码学技术甄别机器人流量 
+<small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/web-bot-auth/): Forget IPs: using cryptography to verify bot and agent traffic</small>
 
 
-| 🔥: 69 \| 💬: [55](https://news.ycombinator.com/item?id=43993897) \| 🗓️ 2025-05-15
+| 🔥: 76 \| 💬: [24](https://news.ycombinator.com/item?id=43994779) \| 🗓️ 2025-05-15
 
 
 <br />
-美国推进技术公司Venus Aerospace宣布，其**旋转爆震火箭发动机**在新墨西哥州太空港完成短时飞行测试，CEO称此为"历史性突破"。该技术通过**超音速爆震波**提升燃料效率，有望实现全球两小时内**高超音速旅行**。此次测试火箭飞行约30秒，未突破音障。公司长期目标是开发商用高超音速客机，目前正寻求国防及商业合作。该技术被视为维持美国经济竞争力和国家安全的关键。
+Cloudflare提出用**HTTP消息签名**和**请求mTLS**替代传统的IP和User-Agent验证机制，解决恶意爬虫与友好机器人（如搜索引擎爬虫）的识别难题。现有方法易被伪造（如User-Agent）或受限于IP共享问题，而新方案通过**密码学签名**确保请求来源可信。例如，OpenAI已采用HTTP消息签名标记其Operator流量。此外，实验性**req mTLS标志**可在TLS层安全验证客户端证书，避免误拦正常用户。相关代码示例已开源，推动行业标准化。
 
 ---
 
-## <a name="19"></a>19. 将AirTag变身防拆卸追踪器 
+## <a name="18"></a>18. 将AirTag变身防拆卸追踪器 
 <small>🔗 [undetectag.com](https://undetectag.com/): Show HN: Undetectag, track stolen items with AirTag</small>
 
 
-| 🔥: 68 \| 💬: [70](https://news.ycombinator.com/item?id=43996251) \| 🗓️ 2025-05-15
+| 🔥: 75 \| 💬: [74](https://news.ycombinator.com/item?id=43996251) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -251,23 +239,23 @@ Cloudflare提出用**HTTP消息签名**和**请求mTLS**替代传统的IP和User
 
 ---
 
-## <a name="20"></a>20. Fresh 2.0 最新动态：更快速、更灵活的下一代框架 
-<small>🔗 [deno.com](https://deno.com/blog/an-update-on-fresh): An Update on Fresh</small>
+## <a name="19"></a>19. C++的初始化规则简直疯狂（2017） 
+<small>🔗 [blog.tartanllama.xyz](https://blog.tartanllama.xyz/initialization-is-bonkers/): Initialization in C++ is bonkers (2017)</small>
 
 
-| 🔥: 67 \| 💬: [55](https://news.ycombinator.com/item?id=43996071) \| 🗓️ 2025-05-15
+| 🔥: 73 \| 💬: [42](https://news.ycombinator.com/item?id=43999492) \| 🗓️ 2025-05-15
 
 
 <br />
-Deno 团队宣布 **Fresh 2.0** 即将发布，目前处于 alpha 测试阶段，已在 Deno 官网及 Deno Deploy 生产环境中运行。新版框架基于 **全新架构**，解决了 Fresh 1.0 在大型项目中的扩展性问题，并引入类似 Express 的简化 API、异步组件和插件系统。延迟发布的主要原因是团队优先优化了 **Deno 核心平台** 和 **JSR 注册表**，以确保更好的兼容性和性能。稳定版计划于 2025 年 9 月推出，开发者现已可通过命令行工具体验 alpha 版本。
+文章通过一段代码示例揭示C++初始化的诡异行为：`foo a{}`的成员`a.a`被**零初始化**为0，而`bar b{}`的成员`b.b`因**默认初始化**未赋值，读取会导致**未定义行为**。核心问题在于构造函数的`=default`声明位置：若首次声明时默认生成，则非用户提供，触发零初始化；反之则按默认处理。作者强调**显式初始化变量**的重要性，并吐槽C++复杂的18种初始化方式（如值初始化、直接列表初始化等），最终建议：要么明确初始化，要么删除构造函数。
 
 ---
 
-## <a name="21"></a>21. 重构Clojure代码：马尔可夫文本生成器的优化实践 
+## <a name="20"></a>20. 重构Clojure代码：马尔可夫文本生成器的优化实践 
 <small>🔗 [orsolabs.com](https://www.orsolabs.com/post/refactoring-clojure-1/): Refactoring Clojure</small>
 
 
-| 🔥: 66 \| 💬: [8](https://news.ycombinator.com/item?id=43998423) \| 🗓️ 2025-05-15
+| 🔥: 71 \| 💬: [10](https://news.ycombinator.com/item?id=43998423) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -282,11 +270,35 @@ Deno 团队宣布 **Fresh 2.0** 即将发布，目前处于 alpha 测试阶段�
 
 ---
 
-## <a name="22"></a>22. 苹果新一代CarPlay Ultra今日首发，阿斯顿·马丁率先搭载 
+## <a name="21"></a>21. 美国旋转爆震火箭发动机完成首次飞行测试 
+<small>🔗 [arstechnica.com](https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/): In the US, a rotating detonation rocket engine takes flight</small>
+
+
+| 🔥: 69 \| 💬: [56](https://news.ycombinator.com/item?id=43993897) \| 🗓️ 2025-05-15
+
+
+<br />
+美国推进技术公司Venus Aerospace宣布，其**旋转爆震火箭发动机**在新墨西哥州太空港完成短时飞行测试，CEO称此为"历史性突破"。该技术通过**超音速爆震波**提升燃料效率，有望实现全球两小时内**高超音速旅行**。此次测试火箭飞行约30秒，未突破音障。公司长期目标是开发商用高超音速客机，目前正寻求国防及商业合作。该技术被视为维持美国经济竞争力和国家安全的关键。
+
+---
+
+## <a name="22"></a>22. Fresh 2.0 最新动态：更快速、更灵活的下一代框架 
+<small>🔗 [deno.com](https://deno.com/blog/an-update-on-fresh): An Update on Fresh</small>
+
+
+| 🔥: 69 \| 💬: [55](https://news.ycombinator.com/item?id=43996071) \| 🗓️ 2025-05-15
+
+
+<br />
+Deno 团队宣布 **Fresh 2.0** 即将发布，目前处于 alpha 测试阶段，已在 Deno 官网及 Deno Deploy 生产环境中运行。新版框架基于 **全新架构**，解决了 Fresh 1.0 在大型项目中的扩展性问题，并引入类似 Express 的简化 API、异步组件和插件系统。延迟发布的主要原因是团队优先优化了 **Deno 核心平台** 和 **JSR 注册表**，以确保更好的兼容性和性能。稳定版计划于 2025 年 9 月推出，开发者现已可通过命令行工具体验 alpha 版本。
+
+---
+
+## <a name="23"></a>23. 苹果新一代CarPlay Ultra今日首发，阿斯顿·马丁率先搭载 
 <small>🔗 [apple.com](https://www.apple.com/newsroom/2025/05/carplay-ultra-the-next-generation-of-carplay-begins-rolling-out-today/): CarPlay Ultra, the next generation of CarPlay, begins rolling out today</small>
 
 
-| 🔥: 61 \| 💬: [100](https://news.ycombinator.com/item?id=43994408) \| 🗓️ 2025-05-15
+| 🔥: 61 \| 💬: [101](https://news.ycombinator.com/item?id=43994408) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -298,11 +310,11 @@ Deno 团队宣布 **Fresh 2.0** 即将发布，目前处于 alpha 测试阶段�
 
 ---
 
-## <a name="23"></a>23. 揭秘Ruby（1/3）：线程是核心 
+## <a name="24"></a>24. 揭秘Ruby（1/3）：线程是核心 
 <small>🔗 [blog.papey.fr](https://blog.papey.fr/post/07-demystifying-ruby-01/): Demystifying Ruby: It's all about threads (2024)</small>
 
 
-| 🔥: 60 \| 💬: [4](https://news.ycombinator.com/item?id=43995144) \| 🗓️ 2025-05-15
+| 🔥: 61 \| 💬: [4](https://news.ycombinator.com/item?id=43995144) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -310,7 +322,7 @@ Ruby是一种动态、解释型、开源的编程语言，以简洁高效和“�
 
 ---
 
-## <a name="24"></a>24. 35秒换装：揭秘欧视幕后“隐形团队”如何避免舞台事故 
+## <a name="25"></a>25. 35秒换装：揭秘欧视幕后“隐形团队”如何避免舞台事故 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c1e679vn6yqo): The 'invisible crew' who have 35 seconds to prevent a Eurovision blunder</small>
 
 
@@ -319,17 +331,5 @@ Ruby是一种动态、解释型、开源的编程语言，以简洁高效和“�
 
 <br />
 在**欧洲歌唱大赛**的转场间隙，一支由数十人组成的**“隐形团队”**仅有**35秒**完成舞台切换。他们像F1换胎般精准协作，负责道具摆放、麦克风调试及清洁工作。舞台经理Richard van Rouwendaal形容其如“冰上芭蕾”，需提前两周排练，甚至应对突发状况（如2022年都灵场的陡坡搬运）。今年赛事新增道具如瑞典桑拿房、英国吊灯，团队通过“走私通道”和备用录像确保直播零失误。尽管压力巨大，他们仍以荷兰煎饼和幽默感保持士气——**完美演出的秘诀，正是观众看不见的细节**。
-
----
-
-## <a name="25"></a>25. 我对一项技术从未如此矛盾 
-<small>🔗 [marcjenkins.co.uk](https://marcjenkins.co.uk/conflicted-about-ai/): I've never been so conflicted about a technology</small>
-
-
-| 🔥: 52 \| 💬: [113](https://news.ycombinator.com/item?id=43996241) \| 🗓️ 2025-05-15
-
-
-<br />
-作者试用AI编程工具**Cursor**和**GitHub Copilot**后，惊叹其提升开发效率的能力，但也指出AI的严重弊端：**环境代价**（高能耗与数据中心扩张依赖化石能源）、**数据伦理问题**（未经许可抓取训练数据且不透明），以及**网络污染**（低质AI生成内容泛滥与虚假信息）。尽管AI实用性强，作者愈发担忧其负面影响，甚至认为若无AI技术，互联网或许会更健康。
 
 ---
