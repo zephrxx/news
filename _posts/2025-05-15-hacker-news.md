@@ -27,7 +27,7 @@ tags:
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/15/health/gene-editing-personalized-rare-disorders.html): Baby is healed with first personalized gene-editing treatment</small>
 
 
-| 🔥🔥: 355 \| 💬: [170](https://news.ycombinator.com/item?id=43997636) \| 🗓️ 2025-05-15
+| 🔥🔥: 418 \| 💬: [193](https://news.ycombinator.com/item?id=43997636) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -39,7 +39,7 @@ KJ Muldoon出生时患有**CPS1缺乏症**，这种罕见遗传病发病率仅13
 <small>🔗 [dynomight.net](https://dynomight.net/numpy/): I don't like NumPy</small>
 
 
-| 🔥🔥: 301 \| 💬: [138](https://news.ycombinator.com/item?id=43996431) \| 🗓️ 2025-05-15
+| 🔥🔥: 318 \| 💬: [142](https://news.ycombinator.com/item?id=43996431) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -51,7 +51,7 @@ KJ Muldoon出生时患有**CPS1缺乏症**，这种罕见遗传病发病率仅13
 <small>🔗 [clientserver.dev](https://www.clientserver.dev/p/malicious-compliance-by-booking-an): Malicious compliance by booking an available meeting room</small>
 
 
-| 🔥🔥: 280 \| 💬: [269](https://news.ycombinator.com/item?id=43994765) \| 🗓️ 2025-05-15
+| 🔥🔥: 287 \| 💬: [273](https://news.ycombinator.com/item?id=43994765) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -63,7 +63,7 @@ KJ Muldoon出生时患有**CPS1缺乏症**，这种罕见遗传病发病率仅13
 <small>🔗 [cnbc.com](https://www.cnbc.com/2025/05/15/coinbase-says-hackers-bribed-staff-to-steal-customer-data-and-are-demanding-20-million-ransom.html): Coinbase says hackers bribed staff to steal customer data, demanding $20M ransom</small>
 
 
-| 🔥🔥: 252 \| 💬: [295](https://news.ycombinator.com/item?id=43996307) \| 🗓️ 2025-05-15
+| 🔥🔥: 268 \| 💬: [302](https://news.ycombinator.com/item?id=43996307) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -75,7 +75,7 @@ KJ Muldoon出生时患有**CPS1缺乏症**，这种罕见遗传病发病率仅13
 <small>🔗 [eoinmurray.info](https://eoinmurray.info/boltzmann-machine): A Tiny Boltzmann Machine</small>
 
 
-| 🔥🔥: 207 \| 💬: [38](https://news.ycombinator.com/item?id=43995005) \| 🗓️ 2025-05-15
+| 🔥🔥: 211 \| 💬: [39](https://news.ycombinator.com/item?id=43995005) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -87,7 +87,7 @@ KJ Muldoon出生时患有**CPS1缺乏症**，这种罕见遗传病发病率仅13
 <small>🔗 [arstechnica.com](https://arstechnica.com/ai/2025/05/xais-grok-suddenly-cant-stop-bringing-up-white-genocide-in-south-africa/): XAI's Grok suddenly can't stop bringing up "white genocide" in South Africa</small>
 
 
-| 🔥🔥: 188 \| 💬: [65](https://news.ycombinator.com/item?id=43993332) \| 🗓️ 2025-05-15
+| 🔥🔥: 189 \| 💬: [66](https://news.ycombinator.com/item?id=43993332) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -95,35 +95,11 @@ X平台的AI聊天机器人**Grok**近期出现异常行为，在回复各类无
 
 ---
 
-## <a name="7"></a>7. 加州医保官网泄露用户敏感健康数据至LinkedIn 
-<small>🔗 [themarkup.org](https://themarkup.org/pixel-hunt/2025/04/28/how-california-sent-residents-personal-health-data-to-linkedin): California sent residents' personal health data to LinkedIn</small>
-
-
-| 🔥🔥: 158 \| 💬: [85](https://news.ycombinator.com/item?id=43995302) \| 🗓️ 2025-05-15
-
-
-<br />
-调查发现，加州医保官网**CoveredCA.com**通过内嵌的**LinkedIn Insight Tag**追踪器，向该平台发送了用户填写的敏感健康信息，包括怀孕状态、性别认同、家暴经历及用药情况等。这些数据被用于广告定向投放，但涉事机构辩称因"营销机构交接失误"所致。事件曝光后，追踪器已被紧急关闭，但可能已持续泄露数据超一年。专家批评此举严重侵犯隐私，**加州议员已要求联邦调查是否违反HIPAA法案**。LinkedIn强调其政策禁止收集敏感数据，但多起相关诉讼显示类似乱象频发。
-
----
-
-## <a name="8"></a>8. 技术文档压缩工具llm-min.txt：为LLM优化的极简知识库 
-<small>🔗 [github.com](https://github.com/marv1nnnnn/llm-min.txt): Show HN: Min.js style compression of tech docs for LLM context</small>
-
-
-| 🔥🔥: 145 \| 💬: [39](https://news.ycombinator.com/item?id=43994987) \| 🗓️ 2025-05-15
-
-
-<br />
-该项目开发了**llm-min.txt**工具，采用类似min.js的压缩理念，将技术文档转化为**结构化知识格式(SKF)**，专为AI助手优化。通过Gemini模型处理，它能将文档体积缩减90-95%，保留核心定义、交互模式和用例，解决LLM知识截止问题。工具支持从Python包、网页或本地文件生成压缩文档，配套的解读指南确保AI准确解析。关键优势在于**高效token利用**和**机器可读性**，显著提升AI编程助手的上下文处理能力。
-
----
-
-## <a name="9"></a>9. LLM智能体循环与工具调用的惊人效果 
+## <a name="7"></a>7. LLM智能体循环与工具调用的惊人效果 
 <small>🔗 [sketch.dev](https://sketch.dev/blog/agent-loop): The unreasonable effectiveness of an LLM agent loop with tool use</small>
 
 
-| 🔥🔥: 137 \| 💬: [78](https://news.ycombinator.com/item?id=43998472) \| 🗓️ 2025-05-15
+| 🔥🔥: 171 \| 💬: [96](https://news.ycombinator.com/item?id=43998472) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -131,11 +107,23 @@ X平台的AI聊天机器人**Grok**近期出现异常行为，在回复各类无
 
 ---
 
-## <a name="10"></a>10. 哈佛法学院27美元购得《大宪章》真迹 
+## <a name="8"></a>8. 加州医保官网泄露用户敏感健康数据至LinkedIn 
+<small>🔗 [themarkup.org](https://themarkup.org/pixel-hunt/2025/04/28/how-california-sent-residents-personal-health-data-to-linkedin): California sent residents' personal health data to LinkedIn</small>
+
+
+| 🔥🔥: 162 \| 💬: [85](https://news.ycombinator.com/item?id=43995302) \| 🗓️ 2025-05-15
+
+
+<br />
+调查发现，加州医保官网**CoveredCA.com**通过内嵌的**LinkedIn Insight Tag**追踪器，向该平台发送了用户填写的敏感健康信息，包括怀孕状态、性别认同、家暴经历及用药情况等。这些数据被用于广告定向投放，但涉事机构辩称因"营销机构交接失误"所致。事件曝光后，追踪器已被紧急关闭，但可能已持续泄露数据超一年。专家批评此举严重侵犯隐私，**加州议员已要求联邦调查是否违反HIPAA法案**。LinkedIn强调其政策禁止收集敏感数据，但多起相关诉讼显示类似乱象频发。
+
+---
+
+## <a name="9"></a>9. 哈佛法学院27美元购得《大宪章》真迹 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/15/world/europe/harvard-law-magna-carta-original.html): Harvard Law paid $27 for a copy of Magna Carta. It's an original</small>
 
 
-| 🔥🔥: 134 \| 💬: [67](https://news.ycombinator.com/item?id=43997830) \| 🗓️ 2025-05-15
+| 🔥🔥: 152 \| 💬: [80](https://news.ycombinator.com/item?id=43997830) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -143,23 +131,23 @@ X平台的AI聊天机器人**Grok**近期出现异常行为，在回复各类无
 
 ---
 
-## <a name="11"></a>11. 我的工程技艺退步了 
-<small>🔗 [lemmy.ml](https://lemmy.ml/post/30100312): My Engineering Craft Regressed</small>
+## <a name="10"></a>10. 技术文档压缩工具llm-min.txt：为LLM优化的极简知识库 
+<small>🔗 [github.com](https://github.com/marv1nnnnn/llm-min.txt): Show HN: Min.js style compression of tech docs for LLM context</small>
 
 
-| 🔥🔥: 117 \| 💬: [70](https://news.ycombinator.com/item?id=43994635) \| 🗓️ 2025-05-15
+| 🔥🔥: 149 \| 💬: [40](https://news.ycombinator.com/item?id=43994987) \| 🗓️ 2025-05-15
 
 
 <br />
-用户OsrsNeedsF2PM在dginovker的博客中留言，提到自己的**工程技能出现倒退**，并附带了编辑记录（223小时前）。该留言获得15次支持与10次反对，但未展开具体讨论。核心问题聚焦于**技术能力衰退**，可能涉及**实践不足**或知识更新滞后。
+该项目开发了**llm-min.txt**工具，采用类似min.js的压缩理念，将技术文档转化为**结构化知识格式(SKF)**，专为AI助手优化。通过Gemini模型处理，它能将文档体积缩减90-95%，保留核心定义、交互模式和用例，解决LLM知识截止问题。工具支持从Python包、网页或本地文件生成压缩文档，配套的解读指南确保AI准确解析。关键优势在于**高效token利用**和**机器可读性**，显著提升AI编程助手的上下文处理能力。
 
 ---
 
-## <a name="12"></a>12. 实时高斯泼溅技术：LiveSplat发布 
+## <a name="11"></a>11. 实时高斯泼溅技术：LiveSplat发布 
 <small>🔗 [github.com](https://github.com/axbycc/LiveSplat): Show HN: Real-Time Gaussian Splatting</small>
 
 
-| 🔥🔥: 117 \| 💬: [44](https://news.ycombinator.com/item?id=43994827) \| 🗓️ 2025-05-15
+| 🔥🔥: 120 \| 💬: [44](https://news.ycombinator.com/item?id=43994827) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -167,11 +155,23 @@ LiveSplat是一款基于**RGBD摄像头流**的**实时高斯泼溅算法**，�
 
 ---
 
+## <a name="12"></a>12. 我的工程技艺退步了 
+<small>🔗 [lemmy.ml](https://lemmy.ml/post/30100312): My Engineering Craft Regressed</small>
+
+
+| 🔥🔥: 118 \| 💬: [70](https://news.ycombinator.com/item?id=43994635) \| 🗓️ 2025-05-15
+
+
+<br />
+用户OsrsNeedsF2PM在dginovker的博客中留言，提到自己的**工程技能出现倒退**，并附带了编辑记录（223小时前）。该留言获得15次支持与10次反对，但未展开具体讨论。核心问题聚焦于**技术能力衰退**，可能涉及**实践不足**或知识更新滞后。
+
+---
+
 ## <a name="13"></a>13. 《深空开采》中的动态路径规划技术 
 <small>🔗 [juhrjuhr.itch.io](https://juhrjuhr.itch.io/deep-space-exploitation/devlog/945428/9-pathfinding): Pathfinding</small>
 
 
-| 🔥🔥: 103 \| 💬: [35](https://news.ycombinator.com/item?id=43994333) \| 🗓️ 2025-05-15
+| 🔥🔥: 111 \| 💬: [35](https://news.ycombinator.com/item?id=43994333) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -179,11 +179,23 @@ LiveSplat是一款基于**RGBD摄像头流**的**实时高斯泼溅算法**，�
 
 ---
 
-## <a name="14"></a>14. Stack Overflow濒临消亡 
+## <a name="14"></a>14. 用三条指令实现闰年检测的奇技淫巧 
+<small>🔗 [hueffner.de](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html): A leap year check in three instructions</small>
+
+
+| 🔥🔥: 102 \| 💬: [39](https://news.ycombinator.com/item?id=43999748) \| 🗓️ 2025-05-15
+
+
+<br />
+这篇文章探讨了一种极简的闰年判断算法，仅需**三条CPU指令**即可完成。核心代码通过魔术数字`1073750999`和位运算掩码`3221352463`实现高效计算，支持年份范围0到102499。作者深入剖析了背后的数学原理，包括**模运算优化**和**固定点数近似**技巧，并对比了传统分支判断方法的性能差异。这种位操作黑魔法虽然牺牲了部分通用性，但在特定场景下能显著提升性能，展现了底层编程的巧妙思维。
+
+---
+
+## <a name="15"></a>15. Stack Overflow濒临消亡 
 <small>🔗 [blog.pragmaticengineer.com](https://blog.pragmaticengineer.com/stack-overflow-is-almost-dead/): Stack Overflow is almost dead</small>
 
 
-| 🔥: 88 \| 💬: [108](https://news.ycombinator.com/item?id=43999125) \| 🗓️ 2025-05-15
+| 🔥: 96 \| 💬: [124](https://news.ycombinator.com/item?id=43999125) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -191,11 +203,11 @@ Stack Overflow的提问量自2014年起持续下滑，**严格的审核政策**�
 
 ---
 
-## <a name="15"></a>15. 告别IP验证：用密码学技术甄别机器人流量 
+## <a name="16"></a>16. 告别IP验证：用密码学技术甄别机器人流量 
 <small>🔗 [blog.cloudflare.com](https://blog.cloudflare.com/web-bot-auth/): Forget IPs: using cryptography to verify bot and agent traffic</small>
 
 
-| 🔥: 72 \| 💬: [22](https://news.ycombinator.com/item?id=43994779) \| 🗓️ 2025-05-15
+| 🔥: 74 \| 💬: [23](https://news.ycombinator.com/item?id=43994779) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -203,7 +215,19 @@ Cloudflare提出用**HTTP消息签名**和**请求mTLS**替代传统的IP和User
 
 ---
 
-## <a name="16"></a>16. 美国旋转爆震火箭发动机完成首次飞行测试 
+## <a name="17"></a>17. TLA⁺工具生态现状与未来展望 
+<small>🔗 [ahelwer.ca](https://ahelwer.ca/post/2025-05-15-tla-dev-status/): The current state of TLA⁺ development</small>
+
+
+| 🔥: 74 \| 💬: [15](https://news.ycombinator.com/item?id=43998115) \| 🗓️ 2025-05-15
+
+
+<br />
+2025年TLA⁺社区会议在加拿大麦克马斯特大学举行，探讨了**TLA⁺工具开发现状**。当前生态包含三大核心组件：基于Java的**SANY解析器**、OCaml实现的TLAPM证明系统，以及作者开发的跨语言tree-sitter解析器。模型检查器方面，除传统工具TLC外，新增了基于Z3的Apalache和浏览器端运行的Spectacle。尽管面临**遗留代码挑战**（如25年历史的Java代码库），但通过**标准化测试套件**、开发者培训计划及TLA⁺基金会的资金支持，社区正积极推动工具链现代化。作者特别强调降低开发门槛是生态繁荣的关键，并邀请更多贡献者加入。
+
+---
+
+## <a name="18"></a>18. 美国旋转爆震火箭发动机完成首次飞行测试 
 <small>🔗 [arstechnica.com](https://arstechnica.com/space/2025/05/venus-aerospace-flies-its-rotating-detonation-rocket-engine-for-the-first-time/): In the US, a rotating detonation rocket engine takes flight</small>
 
 
@@ -215,19 +239,19 @@ Cloudflare提出用**HTTP消息签名**和**请求mTLS**替代传统的IP和User
 
 ---
 
-## <a name="17"></a>17. TLA⁺工具生态现状与未来展望 
-<small>🔗 [ahelwer.ca](https://ahelwer.ca/post/2025-05-15-tla-dev-status/): The current state of TLA⁺ development</small>
+## <a name="19"></a>19. 将AirTag变身防拆卸追踪器 
+<small>🔗 [undetectag.com](https://undetectag.com/): Show HN: Undetectag, track stolen items with AirTag</small>
 
 
-| 🔥: 69 \| 💬: [14](https://news.ycombinator.com/item?id=43998115) \| 🗓️ 2025-05-15
+| 🔥: 68 \| 💬: [70](https://news.ycombinator.com/item?id=43996251) \| 🗓️ 2025-05-15
 
 
 <br />
-2025年TLA⁺社区会议在加拿大麦克马斯特大学举行，探讨了**TLA⁺工具开发现状**。当前生态包含三大核心组件：基于Java的**SANY解析器**、OCaml实现的TLAPM证明系统，以及作者开发的跨语言tree-sitter解析器。模型检查器方面，除传统工具TLC外，新增了基于Z3的Apalache和浏览器端运行的Spectacle。尽管面临**遗留代码挑战**（如25年历史的Java代码库），但通过**标准化测试套件**、开发者培训计划及TLA⁺基金会的资金支持，社区正积极推动工具链现代化。作者特别强调降低开发门槛是生态繁荣的关键，并邀请更多贡献者加入。
+这款名为**Undetectag**的小配件可将普通AirTag改装为隐蔽追踪装置，**降低95%被窃贼发现并拆除的概率**，适用于车辆、船只、行李箱等贵重物品防盗。用户可通过网站提交咨询信息，产品强调对**自行车、摩托车**及背包等移动资产的保护。
 
 ---
 
-## <a name="18"></a>18. Fresh 2.0 最新动态：更快速、更灵活的下一代框架 
+## <a name="20"></a>20. Fresh 2.0 最新动态：更快速、更灵活的下一代框架 
 <small>🔗 [deno.com](https://deno.com/blog/an-update-on-fresh): An Update on Fresh</small>
 
 
@@ -239,11 +263,30 @@ Deno 团队宣布 **Fresh 2.0** 即将发布，目前处于 alpha 测试阶段�
 
 ---
 
-## <a name="19"></a>19. 苹果新一代CarPlay Ultra今日首发，阿斯顿·马丁率先搭载 
+## <a name="21"></a>21. 重构Clojure代码：马尔可夫文本生成器的优化实践 
+<small>🔗 [orsolabs.com](https://www.orsolabs.com/post/refactoring-clojure-1/): Refactoring Clojure</small>
+
+
+| 🔥: 66 \| 💬: [8](https://news.ycombinator.com/item?id=43998423) \| 🗓️ 2025-05-15
+
+
+<br />
+本文基于Adam Bard的《编写更友好的Clojure》，探讨如何重构一个**马尔可夫文本生成器**的Clojure实现。原始代码通过`markov-data`函数构建词频映射，`sentence`函数生成随机句子，但可读性较差。  
+
+重构过程强调**不改变行为**的原则，通过**特征测试**验证逻辑。关键改进包括：  
+1. 用`reduce`替代嵌套循环处理句子，提升代码清晰度；  
+2. 拆分单句处理逻辑为独立函数`process-sentence`；  
+3. 优化递归终止条件，使用更直观的变量名。  
+
+最终代码虽略长，但更易维护，体现了**可读性优先**的编程理念。
+
+---
+
+## <a name="22"></a>22. 苹果新一代CarPlay Ultra今日首发，阿斯顿·马丁率先搭载 
 <small>🔗 [apple.com](https://www.apple.com/newsroom/2025/05/carplay-ultra-the-next-generation-of-carplay-begins-rolling-out-today/): CarPlay Ultra, the next generation of CarPlay, begins rolling out today</small>
 
 
-| 🔥: 61 \| 💬: [98](https://news.ycombinator.com/item?id=43994408) \| 🗓️ 2025-05-15
+| 🔥: 61 \| 💬: [100](https://news.ycombinator.com/item?id=43994408) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -255,23 +298,11 @@ Deno 团队宣布 **Fresh 2.0** 即将发布，目前处于 alpha 测试阶段�
 
 ---
 
-## <a name="20"></a>20. 将AirTag变身防拆卸追踪器 
-<small>🔗 [undetectag.com](https://undetectag.com/): Show HN: Undetectag, track stolen items with AirTag</small>
-
-
-| 🔥: 60 \| 💬: [65](https://news.ycombinator.com/item?id=43996251) \| 🗓️ 2025-05-15
-
-
-<br />
-这款名为**Undetectag**的小配件可将普通AirTag改装为隐蔽追踪装置，**降低95%被窃贼发现并拆除的概率**，适用于车辆、船只、行李箱等贵重物品防盗。用户可通过网站提交咨询信息，产品强调对**自行车、摩托车**及背包等移动资产的保护。
-
----
-
-## <a name="21"></a>21. 揭秘Ruby（1/3）：线程是核心 
+## <a name="23"></a>23. 揭秘Ruby（1/3）：线程是核心 
 <small>🔗 [blog.papey.fr](https://blog.papey.fr/post/07-demystifying-ruby-01/): Demystifying Ruby: It's all about threads (2024)</small>
 
 
-| 🔥: 58 \| 💬: [4](https://news.ycombinator.com/item?id=43995144) \| 🗓️ 2025-05-15
+| 🔥: 60 \| 💬: [4](https://news.ycombinator.com/item?id=43995144) \| 🗓️ 2025-05-15
 
 
 <br />
@@ -279,19 +310,7 @@ Ruby是一种动态、解释型、开源的编程语言，以简洁高效和“�
 
 ---
 
-## <a name="22"></a>22. 用三条指令实现闰年检测的奇技淫巧 
-<small>🔗 [hueffner.de](https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html): A leap year check in three instructions</small>
-
-
-| 🔥: 58 \| 💬: [14](https://news.ycombinator.com/item?id=43999748) \| 🗓️ 2025-05-15
-
-
-<br />
-这篇文章探讨了一种极简的闰年判断算法，仅需**三条CPU指令**即可完成。核心代码通过魔术数字`1073750999`和位运算掩码`3221352463`实现高效计算，支持年份范围0到102499。作者深入剖析了背后的数学原理，包括**模运算优化**和**固定点数近似**技巧，并对比了传统分支判断方法的性能差异。这种位操作黑魔法虽然牺牲了部分通用性，但在特定场景下能显著提升性能，展现了底层编程的巧妙思维。
-
----
-
-## <a name="23"></a>23. 35秒换装：揭秘欧视幕后“隐形团队”如何避免舞台事故 
+## <a name="24"></a>24. 35秒换装：揭秘欧视幕后“隐形团队”如何避免舞台事故 
 <small>🔗 [bbc.com](https://www.bbc.com/news/articles/c1e679vn6yqo): The 'invisible crew' who have 35 seconds to prevent a Eurovision blunder</small>
 
 
@@ -303,23 +322,11 @@ Ruby是一种动态、解释型、开源的编程语言，以简洁高效和“�
 
 ---
 
-## <a name="24"></a>24. 特斯拉无人驾驶出租车临近发布却未启动路测 
-<small>🔗 [electrek.co](https://electrek.co/2025/05/14/tesla-yet-start-testing-robotaxi-service-without-driver-weeks-before-launch/): Tesla has yet to start testing its robotaxi without driver weeks before launch</small>
-
-
-| 🔥: 49 \| 💬: [100](https://news.ycombinator.com/item?id=43993738) \| 🗓️ 2025-05-15
-
-
-<br />
-特斯拉计划推出的**无人驾驶出租车服务**距离正式发布仅剩数周，但截至目前，该公司尚未启动**无驾驶员参与的公开道路测试**。这一关键环节的延迟引发外界对技术成熟度与如期交付能力的质疑。业内人士指出，**安全验证**是自动驾驶商业化前提，跳过路测阶段可能增加监管审批风险。
-
----
-
 ## <a name="25"></a>25. 我对一项技术从未如此矛盾 
 <small>🔗 [marcjenkins.co.uk](https://marcjenkins.co.uk/conflicted-about-ai/): I've never been so conflicted about a technology</small>
 
 
-| 🔥: 48 \| 💬: [112](https://news.ycombinator.com/item?id=43996241) \| 🗓️ 2025-05-15
+| 🔥: 52 \| 💬: [113](https://news.ycombinator.com/item?id=43996241) \| 🗓️ 2025-05-15
 
 
 <br />
