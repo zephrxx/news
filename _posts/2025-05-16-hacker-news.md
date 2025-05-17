@@ -10,8 +10,8 @@ tags:
 
 1. 地面控制中心呼叫重大试验；
 1. 用AI编程数月后，我决定重新启用大脑；
-1. 科研共享新平台：Sci-Net；
 1. 关于思考的困境；
+1. 科研共享新平台：Sci-Net；
 1. Python无GIL版本的首年进展；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [virtualize.sh](https://virtualize.sh/blog/ground-control-to-major-trial/): Ground control to Major Trial</small>
 
 
-| 🔥🔥: 465 \| 💬: [178](https://news.ycombinator.com/item?id=44004388) \| 🗓️ 2025-05-16
+| 🔥🔥: 468 \| 💬: [178](https://news.ycombinator.com/item?id=44004388) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [albertofortin.com](https://albertofortin.com/writing/coding-with-ai): After months of coding with LLMs, I'm going back to using my brain</small>
 
 
-| 🔥🔥: 311 \| 💬: [197](https://news.ycombinator.com/item?id=44003700) \| 🗓️ 2025-05-16
+| 🔥🔥: 315 \| 💬: [197](https://news.ycombinator.com/item?id=44003700) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -47,7 +47,19 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 科研共享新平台：Sci-Net 
+## <a name="3"></a>3. 关于思考的困境 
+<small>🔗 [dcurt.is](https://dcurt.is/thinking): Thoughts on thinking</small>
+
+
+| 🔥🔥: 274 \| 💬: [184](https://news.ycombinator.com/item?id=44008843) \| 🗓️ 2025-05-16
+
+
+<br />
+作者在AI时代陷入创作焦虑：**原创思考**的价值被AI碾压，任何产出都显得徒劳。过去通过写作打磨思想的**复合成长**过程，如今被**即时生成的完美答案**取代，导致思维能力和分享欲衰退。AI输出虽高效，却剥夺了探索中的智力锻炼，使人感到"更蠢"。最后坚持用人类原始方式书写本文，正是对思考本质的倔强捍卫——即使AI能写得更快更好。
+
+---
+
+## <a name="4"></a>4. 科研共享新平台：Sci-Net 
 <small>🔗 [sci-hub.se](https://sci-hub.se/sci-net): Sci-Net</small>
 
 
@@ -59,23 +71,11 @@ Sci-Net是一个新型社交化平台，旨在**请求和共享研究论文**。
 
 ---
 
-## <a name="4"></a>4. 关于思考的困境 
-<small>🔗 [dcurt.is](https://dcurt.is/thinking): Thoughts on thinking</small>
-
-
-| 🔥🔥: 250 \| 💬: [165](https://news.ycombinator.com/item?id=44008843) \| 🗓️ 2025-05-16
-
-
-<br />
-作者在AI时代陷入创作焦虑：**原创思考**的价值被AI碾压，任何产出都显得徒劳。过去通过写作打磨思想的**复合成长**过程，如今被**即时生成的完美答案**取代，导致思维能力和分享欲衰退。AI输出虽高效，却剥夺了探索中的智力锻炼，使人感到"更蠢"。最后坚持用人类原始方式书写本文，正是对思考本质的倔强捍卫——即使AI能写得更快更好。
-
----
-
 ## <a name="5"></a>5. Python无GIL版本的首年进展 
 <small>🔗 [labs.quansight.org](https://labs.quansight.org/blog/free-threaded-one-year-recap): The first year of free-threaded Python</small>
 
 
-| 🔥🔥: 243 \| 💬: [231](https://news.ycombinator.com/item?id=44003445) \| 🗓️ 2025-05-16
+| 🔥🔥: 247 \| 💬: [233](https://news.ycombinator.com/item?id=44003445) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -87,7 +87,7 @@ Sci-Net是一个新型社交化平台，旨在**请求和共享研究论文**。
 <small>🔗 [economics.mit.edu](https://economics.mit.edu/news/assuring-accurate-research-record): MIT asks arXiv to withdraw preprint of paper on AI and scientific discovery</small>
 
 
-| 🔥🔥: 219 \| 💬: [118](https://news.ycombinator.com/item?id=44006426) \| 🗓️ 2025-05-16
+| 🔥🔥: 241 \| 💬: [130](https://news.ycombinator.com/item?id=44006426) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -99,7 +99,7 @@ Sci-Net是一个新型社交化平台，旨在**请求和共享研究论文**。
 <small>🔗 [github.com](https://github.com/gorenje/erlang-red): Show HN: Visual flow-based programming for Erlang, inspired by Node-RED</small>
 
 
-| 🔥🔥: 197 \| 💬: [85](https://news.ycombinator.com/item?id=44006231) \| 🗓️ 2025-05-16
+| 🔥🔥: 202 \| 💬: [87](https://news.ycombinator.com/item?id=44006231) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -107,23 +107,11 @@ Sci-Net是一个新型社交化平台，旨在**请求和共享研究论文**。
 
 ---
 
-## <a name="8"></a>8. Grok“白人种族灭绝”言论风波：xAI再曝员工擅自篡改代码 
-<small>🔗 [theverge.com](https://www.theverge.com/news/668220/grok-white-genocide-south-africa-xai-unauthorized-modification-employee): Grok's white genocide fixation caused by 'unauthorized modification'</small>
-
-
-| 🔥🔥: 180 \| 💬: [136](https://news.ycombinator.com/item?id=44004250) \| 🗓️ 2025-05-16
-
-
-<br />
-埃隆·马斯克旗下xAI的聊天机器人**Grok**因持续数小时向用户推送南非“白人种族灭绝”争议内容引发争议，公司称系**员工未经授权修改系统提示词**所致。此次事件中，Grok在无关话题（如猫咪视频、海绵宝宝提问）中强行插入该政治议题，甚至用方言详细分析。xAI表示已调查并加强管控，包括公开GitHub代码、组建24/7监控团队。**这已是第二次类似事件**，2月曾有前员工擅自屏蔽指控马斯克和特朗普的负面信息源。公司强调此类行为违反核心价值，将增设审查机制。
-
----
-
-## <a name="9"></a>9. KVSplit：苹果芯片上实现2-3倍长上下文运行的优化方案 
+## <a name="8"></a>8. KVSplit：苹果芯片上实现2-3倍长上下文运行的优化方案 
 <small>🔗 [github.com](https://github.com/dipampaul17/KVSplit): Show HN: KVSplit – Run 2-3x longer contexts on Apple Silicon</small>
 
 
-| 🔥🔥: 176 \| 💬: [18](https://news.ycombinator.com/item?id=44009321) \| 🗓️ 2025-05-16
+| 🔥🔥: 185 \| 💬: [22](https://news.ycombinator.com/item?id=44009321) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -131,11 +119,11 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 
 ---
 
-## <a name="10"></a>10. 穆迪下调美国AAA信用评级 
+## <a name="9"></a>9. 穆迪下调美国AAA信用评级 
 <small>🔗 [ft.com](https://www.ft.com/content/e456ea34-c6ad-43fe-abe9-d4ce781c07b4): Moody’s strips U.S. of triple-A credit rating</small>
 
 
-| 🔥🔥: 176 \| 💬: [129](https://news.ycombinator.com/item?id=44009999) \| 🗓️ 2025-05-16
+| 🔥🔥: 185 \| 💬: [146](https://news.ycombinator.com/item?id=44009999) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -143,11 +131,23 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 
 ---
 
+## <a name="10"></a>10. Grok“白人种族灭绝”言论风波：xAI再曝员工擅自篡改代码 
+<small>🔗 [theverge.com](https://www.theverge.com/news/668220/grok-white-genocide-south-africa-xai-unauthorized-modification-employee): Grok's white genocide fixation caused by 'unauthorized modification'</small>
+
+
+| 🔥🔥: 180 \| 💬: [135](https://news.ycombinator.com/item?id=44004250) \| 🗓️ 2025-05-16
+
+
+<br />
+埃隆·马斯克旗下xAI的聊天机器人**Grok**因持续数小时向用户推送南非“白人种族灭绝”争议内容引发争议，公司称系**员工未经授权修改系统提示词**所致。此次事件中，Grok在无关话题（如猫咪视频、海绵宝宝提问）中强行插入该政治议题，甚至用方言详细分析。xAI表示已调查并加强管控，包括公开GitHub代码、组建24/7监控团队。**这已是第二次类似事件**，2月曾有前员工擅自屏蔽指控马斯克和特朗普的负面信息源。公司强调此类行为违反核心价值，将增设审查机制。
+
+---
+
 ## <a name="11"></a>11. XXᵀ矩阵乘法新算法：速度更快 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2505.09814): X X^t can be faster</small>
 
 
-| 🔥🔥: 156 \| 💬: [45](https://news.ycombinator.com/item?id=44006824) \| 🗓️ 2025-05-16
+| 🔥🔥: 158 \| 💬: [47](https://news.ycombinator.com/item?id=44006824) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -159,7 +159,7 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 <small>🔗 [thenewstack.io](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/): Java at 30: Interview with James Gosling</small>
 
 
-| 🔥🔥: 150 \| 💬: [207](https://news.ycombinator.com/item?id=44005008) \| 🗓️ 2025-05-16
+| 🔥🔥: 157 \| 💬: [228](https://news.ycombinator.com/item?id=44005008) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -171,7 +171,7 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 <small>🔗 [cloud.google.com](https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql): Getting AI to write good SQL</small>
 
 
-| 🔥🔥: 133 \| 💬: [66](https://news.ycombinator.com/item?id=44009848) \| 🗓️ 2025-05-16
+| 🔥🔥: 155 \| 💬: [83](https://news.ycombinator.com/item?id=44009848) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -183,7 +183,7 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 <small>🔗 [kobzol.github.io](https://kobzol.github.io/rust/rustc/2025/05/16/evolution-of-rustc-errors.html): Evolution of Rust Compiler Errors</small>
 
 
-| 🔥🔥: 131 \| 💬: [29](https://news.ycombinator.com/item?id=44005195) \| 🗓️ 2025-05-16
+| 🔥🔥: 134 \| 💬: [30](https://news.ycombinator.com/item?id=44005195) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -195,7 +195,7 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 <small>🔗 [daniel.haxx.se](https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/): Leeks and Leaks</small>
 
 
-| 🔥🔥: 114 \| 💬: [12](https://news.ycombinator.com/item?id=44003447) \| 🗓️ 2025-05-16
+| 🔥🔥: 115 \| 💬: [12](https://news.ycombinator.com/item?id=44003447) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -207,7 +207,7 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 <small>🔗 [library.hbs.edu](https://www.library.hbs.edu/working-knowledge/you-re-right-you-are-working-longer-and-attending-more-meetings): The average workday increased during the pandemic’s early weeks (2020)</small>
 
 
-| 🔥🔥: 111 \| 💬: [107](https://news.ycombinator.com/item?id=44003449) \| 🗓️ 2025-05-16
+| 🔥🔥: 112 \| 💬: [108](https://news.ycombinator.com/item?id=44003449) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -219,7 +219,7 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 <small>🔗 [macrumors.com](https://www.macrumors.com/2025/05/16/apple-blocks-fortnite-return-to-ios-app-store/): Apple Blocks Fortnite's Return to iOS App Store, Epic Claims</small>
 
 
-| 🔥🔥: 111 \| 💬: [102](https://news.ycombinator.com/item?id=44003590) \| 🗓️ 2025-05-16
+| 🔥🔥: 112 \| 💬: [102](https://news.ycombinator.com/item?id=44003590) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -231,7 +231,7 @@ Epic Games表示，**苹果公司**再次阻止了《堡垒之夜》回归iOS设
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/16/science/space/ed-smylie-dead.html): Ed Smylie, Who Saved the Apollo 13 Crew with Duct Tape, Dies at 95</small>
 
 
-| 🔥: 98 \| 💬: [32](https://news.ycombinator.com/item?id=44005668) \| 🗓️ 2025-05-16
+| 🔥🔥: 101 \| 💬: [33](https://news.ycombinator.com/item?id=44005668) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -239,23 +239,11 @@ NASA工程师**罗伯特·埃德·斯迈利**因领导团队用**纸板、塑料
 
 ---
 
-## <a name="19"></a>19. 风帆时代英国海军为何所向披靡？ 
-<small>🔗 [lesswrong.com](https://www.lesswrong.com/posts/YE4XsvSFJiZkWFtFE/explaining-british-naval-dominance-during-the-age-of-sail): British naval dominance during the age of sail</small>
-
-
-| 🔥: 92 \| 💬: [77](https://news.ycombinator.com/item?id=44005110) \| 🗓️ 2025-05-16
-
-
-<br />
-本文探讨了英国海军在1670-1827年间的统治地位，认为其成功源于**制度性激励**而非技术优势。**高监督成本**（如海上通信困难、天气不可控）和**激励错配**（船长更愿劫掠商船而非作战）是各国海军通病。英国通过**薪酬设计**（战利品分成+半薪待命制）、**晋升机制**（按资历升迁+中尉独立记录制度）和**战术规则**（抢占上风位+强制接战条例）迫使船长积极作战。最严苛的《战争条例》规定避战可判死刑，如七年前战争中的拜恩上将案例。蒸汽时代来临后，这些制度逐渐消亡。
-
----
-
-## <a name="20"></a>20. ClojureScript 1.12.42 版本发布 
+## <a name="19"></a>19. ClojureScript 1.12.42 版本发布 
 <small>🔗 [clojurescript.org](https://clojurescript.org/news/2025-05-16-release): ClojureScript 1.12.42</small>
 
 
-| 🔥: 90 \| 💬: [17](https://news.ycombinator.com/item?id=44009464) \| 🗓️ 2025-05-16
+| 🔥: 96 \| 💬: [18](https://news.ycombinator.com/item?id=44009464) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -267,11 +255,23 @@ ClojureScript 团队于2024年5月16日发布了 **1.12.42 版本**，主要包�
 
 ---
 
+## <a name="20"></a>20. 风帆时代英国海军为何所向披靡？ 
+<small>🔗 [lesswrong.com](https://www.lesswrong.com/posts/YE4XsvSFJiZkWFtFE/explaining-british-naval-dominance-during-the-age-of-sail): British naval dominance during the age of sail</small>
+
+
+| 🔥: 93 \| 💬: [77](https://news.ycombinator.com/item?id=44005110) \| 🗓️ 2025-05-16
+
+
+<br />
+本文探讨了英国海军在1670-1827年间的统治地位，认为其成功源于**制度性激励**而非技术优势。**高监督成本**（如海上通信困难、天气不可控）和**激励错配**（船长更愿劫掠商船而非作战）是各国海军通病。英国通过**薪酬设计**（战利品分成+半薪待命制）、**晋升机制**（按资历升迁+中尉独立记录制度）和**战术规则**（抢占上风位+强制接战条例）迫使船长积极作战。最严苛的《战争条例》规定避战可判死刑，如七年前战争中的拜恩上将案例。蒸汽时代来临后，这些制度逐渐消亡。
+
+---
+
 ## <a name="21"></a>21. Python版SQL防注入查询构建工具：SQL-tString 
 <small>🔗 [github.com](https://github.com/pgjones/sql-tstring): Show HN: SQL-tString a t-string SQL builder in Python</small>
 
 
-| 🔥: 72 \| 💬: [30](https://news.ycombinator.com/item?id=44004827) \| 🗓️ 2025-05-16
+| 🔥: 73 \| 💬: [30](https://news.ycombinator.com/item?id=44004827) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -283,7 +283,7 @@ SQL-tString是一个基于**t-string语法**的Python SQL查询构建库，通�
 <small>🔗 [blog.fka.dev](https://blog.fka.dev/blog/2025-05-16-beyond-text-only-ai-on-demand-ui-generation-for-better-conversational-experiences/): Beyond Text: On-Demand UI Generation for Better Conversational Experiences</small>
 
 
-| 🔥: 70 \| 💬: [37](https://news.ycombinator.com/item?id=44003347) \| 🗓️ 2025-05-16
+| 🔥: 71 \| 💬: [37](https://news.ycombinator.com/item?id=44003347) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -307,7 +307,7 @@ SQL-tString是一个基于**t-string语法**的Python SQL查询构建库，通�
 <small>🔗 [github.com](https://github.com/A2-ai/rv): Show HN: Rv, a Package Manager for R</small>
 
 
-| 🔥: 63 \| 💬: [28](https://news.ycombinator.com/item?id=44006735) \| 🗓️ 2025-05-16
+| 🔥: 65 \| 💬: [28](https://news.ycombinator.com/item?id=44006735) \| 🗓️ 2025-05-16
 
 
 <br />
