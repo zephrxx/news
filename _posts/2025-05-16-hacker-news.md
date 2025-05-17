@@ -27,7 +27,7 @@ tags:
 <small>🔗 [virtualize.sh](https://virtualize.sh/blog/ground-control-to-major-trial/): Ground control to Major Trial</small>
 
 
-| 🔥🔥: 471 \| 💬: [181](https://news.ycombinator.com/item?id=44004388) \| 🗓️ 2025-05-16
+| 🔥🔥: 474 \| 💬: [181](https://news.ycombinator.com/item?id=44004388) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [dcurt.is](https://dcurt.is/thinking): Thoughts on thinking</small>
 
 
-| 🔥🔥: 322 \| 💬: [220](https://news.ycombinator.com/item?id=44008843) \| 🗓️ 2025-05-16
+| 🔥🔥: 351 \| 💬: [228](https://news.ycombinator.com/item?id=44008843) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [albertofortin.com](https://albertofortin.com/writing/coding-with-ai): After months of coding with LLMs, I'm going back to using my brain</small>
 
 
-| 🔥🔥: 319 \| 💬: [198](https://news.ycombinator.com/item?id=44003700) \| 🗓️ 2025-05-16
+| 🔥🔥: 320 \| 💬: [202](https://news.ycombinator.com/item?id=44003700) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [economics.mit.edu](https://economics.mit.edu/news/assuring-accurate-research-record): MIT asks arXiv to withdraw preprint of paper on AI and scientific discovery</small>
 
 
-| 🔥🔥: 261 \| 💬: [142](https://news.ycombinator.com/item?id=44006426) \| 🗓️ 2025-05-16
+| 🔥🔥: 270 \| 💬: [146](https://news.ycombinator.com/item?id=44006426) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [sci-hub.se](https://sci-hub.se/sci-net): Sci-Net</small>
 
 
-| 🔥🔥: 256 \| 💬: [113](https://news.ycombinator.com/item?id=44004625) \| 🗓️ 2025-05-16
+| 🔥🔥: 258 \| 💬: [113](https://news.ycombinator.com/item?id=44004625) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -87,7 +87,7 @@ Sci-Net是一个新型社交化平台，旨在**请求和共享研究论文**。
 <small>🔗 [labs.quansight.org](https://labs.quansight.org/blog/free-threaded-one-year-recap): The first year of free-threaded Python</small>
 
 
-| 🔥🔥: 248 \| 💬: [248](https://news.ycombinator.com/item?id=44003445) \| 🗓️ 2025-05-16
+| 🔥🔥: 253 \| 💬: [252](https://news.ycombinator.com/item?id=44003445) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -99,7 +99,7 @@ Sci-Net是一个新型社交化平台，旨在**请求和共享研究论文**。
 <small>🔗 [cloud.google.com](https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql): Getting AI to write good SQL</small>
 
 
-| 🔥🔥: 210 \| 💬: [108](https://news.ycombinator.com/item?id=44009848) \| 🗓️ 2025-05-16
+| 🔥🔥: 235 \| 💬: [115](https://news.ycombinator.com/item?id=44009848) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -107,23 +107,11 @@ Sci-Net是一个新型社交化平台，旨在**请求和共享研究论文**。
 
 ---
 
-## <a name="8"></a>8. 穆迪下调美国AAA信用评级 
-<small>🔗 [ft.com](https://www.ft.com/content/e456ea34-c6ad-43fe-abe9-d4ce781c07b4): Moody’s strips U.S. of triple-A credit rating</small>
-
-
-| 🔥🔥: 208 \| 💬: [170](https://news.ycombinator.com/item?id=44009999) \| 🗓️ 2025-05-16
-
-
-<br />
-国际评级机构**穆迪**宣布将美国的**最高信用评级**从AAA下调，反映出对美国财政状况和债务可持续性的担忧。此举可能影响全球金融市场对美国国债的信心。文中还提及了FT提供的相关政治经济分析订阅服务，但核心信息聚焦于评级下调及其潜在影响。
-
----
-
-## <a name="9"></a>9. KVSplit：苹果芯片上实现2-3倍长上下文运行的优化方案 
+## <a name="8"></a>8. KVSplit：苹果芯片上实现2-3倍长上下文运行的优化方案 
 <small>🔗 [github.com](https://github.com/dipampaul17/KVSplit): Show HN: KVSplit – Run 2-3x longer contexts on Apple Silicon</small>
 
 
-| 🔥🔥: 206 \| 💬: [30](https://news.ycombinator.com/item?id=44009321) \| 🗓️ 2025-05-16
+| 🔥🔥: 217 \| 💬: [32](https://news.ycombinator.com/item?id=44009321) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -131,11 +119,23 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 
 ---
 
+## <a name="9"></a>9. 穆迪下调美国AAA信用评级 
+<small>🔗 [ft.com](https://www.ft.com/content/e456ea34-c6ad-43fe-abe9-d4ce781c07b4): Moody’s strips U.S. of triple-A credit rating</small>
+
+
+| 🔥🔥: 215 \| 💬: [176](https://news.ycombinator.com/item?id=44009999) \| 🗓️ 2025-05-16
+
+
+<br />
+国际评级机构**穆迪**宣布将美国的**最高信用评级**从AAA下调，反映出对美国财政状况和债务可持续性的担忧。此举可能影响全球金融市场对美国国债的信心。文中还提及了FT提供的相关政治经济分析订阅服务，但核心信息聚焦于评级下调及其潜在影响。
+
+---
+
 ## <a name="10"></a>10. Erlang版可视化流编程工具：受Node-RED启发的低代码开发平台 
 <small>🔗 [github.com](https://github.com/gorenje/erlang-red): Show HN: Visual flow-based programming for Erlang, inspired by Node-RED</small>
 
 
-| 🔥🔥: 205 \| 💬: [89](https://news.ycombinator.com/item?id=44006231) \| 🗓️ 2025-05-16
+| 🔥🔥: 207 \| 💬: [91](https://news.ycombinator.com/item?id=44006231) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -147,7 +147,7 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 <small>🔗 [theverge.com](https://www.theverge.com/news/668220/grok-white-genocide-south-africa-xai-unauthorized-modification-employee): Grok's white genocide fixation caused by 'unauthorized modification'</small>
 
 
-| 🔥🔥: 181 \| 💬: [135](https://news.ycombinator.com/item?id=44004250) \| 🗓️ 2025-05-16
+| 🔥🔥: 184 \| 💬: [136](https://news.ycombinator.com/item?id=44004250) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -159,7 +159,7 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 <small>🔗 [thenewstack.io](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/): Java at 30: Interview with James Gosling</small>
 
 
-| 🔥🔥: 170 \| 💬: [249](https://news.ycombinator.com/item?id=44005008) \| 🗓️ 2025-05-16
+| 🔥🔥: 175 \| 💬: [255](https://news.ycombinator.com/item?id=44005008) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -171,7 +171,7 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2505.09814): X X^t can be faster</small>
 
 
-| 🔥🔥: 165 \| 💬: [47](https://news.ycombinator.com/item?id=44006824) \| 🗓️ 2025-05-16
+| 🔥🔥: 166 \| 💬: [48](https://news.ycombinator.com/item?id=44006824) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -183,7 +183,7 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 <small>🔗 [kobzol.github.io](https://kobzol.github.io/rust/rustc/2025/05/16/evolution-of-rustc-errors.html): Evolution of Rust Compiler Errors</small>
 
 
-| 🔥🔥: 137 \| 💬: [30](https://news.ycombinator.com/item?id=44005195) \| 🗓️ 2025-05-16
+| 🔥🔥: 139 \| 💬: [30](https://news.ycombinator.com/item?id=44005195) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -191,47 +191,11 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 
 ---
 
-## <a name="15"></a>15. 洋葱域名与隐私泄露的困境 
-<small>🔗 [daniel.haxx.se](https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/): Leeks and Leaks</small>
-
-
-| 🔥🔥: 115 \| 💬: [12](https://news.ycombinator.com/item?id=44003447) \| 🗓️ 2025-05-16
-
-
-<br />
-文章探讨了**Tor的.onion域名**在隐私保护中的矛盾：若允许普通DNS解析，用户意图会通过不安全的DNS系统泄露；若完全屏蔽，又会影响正常使用。2015年发布的**RFC 7686**要求软件默认阻止.onion解析，而curl在2023年才实现此规范。然而，Tor新工具**oniux**却因curl的屏蔽功能无法兼容，引发争议。核心矛盾在于：**隐私保护**与**灵活性**如何平衡，而正确配置SOCKS代理仍是当前最佳解决方案。
-
----
-
-## <a name="16"></a>16. 疫情初期平均工作日时长增加（2020年） 
-<small>🔗 [library.hbs.edu](https://www.library.hbs.edu/working-knowledge/you-re-right-you-are-working-longer-and-attending-more-meetings): The average workday increased during the pandemic’s early weeks (2020)</small>
-
-
-| 🔥🔥: 113 \| 💬: [108](https://news.ycombinator.com/item?id=44003449) \| 🗓️ 2025-05-16
-
-
-<br />
-哈佛商学院研究显示，疫情期间远程办公导致**工作日延长8.2%**（约48.5分钟），**会议数量增加但时长缩短**。分析310万员工数据发现，非工作时间邮件量上升，且会议参与人数增多。研究者指出，**家庭与工作界限模糊**是主因，并建议管理者关注成果而非工时。视频会议疲劳也导致会议效率下降。该研究揭示了远程办公对工作模式的深远影响。
-
----
-
-## <a name="17"></a>17. 苹果阻止《堡垒之夜》重返iOS应用商店，Epic称全球停服 
-<small>🔗 [macrumors.com](https://www.macrumors.com/2025/05/16/apple-blocks-fortnite-return-to-ios-app-store/): Apple Blocks Fortnite's Return to iOS App Store, Epic Claims</small>
-
-
-| 🔥🔥: 113 \| 💬: [102](https://news.ycombinator.com/item?id=44003590) \| 🗓️ 2025-05-16
-
-
-<br />
-Epic Games表示，**苹果公司**再次阻止了《堡垒之夜》回归iOS设备的申请，导致该游戏在全球范围内无法在iPhone和iPad上运行。Epic通过子公司Epic Games瑞典提交了游戏申请，但因苹果未回应审核而被迫撤回并重新提交。Epic CEO **Tim Sweeney**指责苹果拖延沟通，而苹果则依据此前诉讼结果有权永久封禁Epic账户。此次冲突源于2020年Epic绕过苹果支付系统引发的法律纠纷，近期欧盟区通过Epic Games Store短暂上架的版本也已下线。
-
----
-
-## <a name="18"></a>18. ClojureScript 1.12.42 版本发布 
+## <a name="15"></a>15. ClojureScript 1.12.42 版本发布 
 <small>🔗 [clojurescript.org](https://clojurescript.org/news/2025-05-16-release): ClojureScript 1.12.42</small>
 
 
-| 🔥🔥: 109 \| 💬: [20](https://news.ycombinator.com/item?id=44009464) \| 🗓️ 2025-05-16
+| 🔥🔥: 118 \| 💬: [20](https://news.ycombinator.com/item?id=44009464) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -243,11 +207,47 @@ ClojureScript 团队于2024年5月16日发布了 **1.12.42 版本**，主要包�
 
 ---
 
+## <a name="16"></a>16. 洋葱域名与隐私泄露的困境 
+<small>🔗 [daniel.haxx.se](https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/): Leeks and Leaks</small>
+
+
+| 🔥🔥: 115 \| 💬: [12](https://news.ycombinator.com/item?id=44003447) \| 🗓️ 2025-05-16
+
+
+<br />
+文章探讨了**Tor的.onion域名**在隐私保护中的矛盾：若允许普通DNS解析，用户意图会通过不安全的DNS系统泄露；若完全屏蔽，又会影响正常使用。2015年发布的**RFC 7686**要求软件默认阻止.onion解析，而curl在2023年才实现此规范。然而，Tor新工具**oniux**却因curl的屏蔽功能无法兼容，引发争议。核心矛盾在于：**隐私保护**与**灵活性**如何平衡，而正确配置SOCKS代理仍是当前最佳解决方案。
+
+---
+
+## <a name="17"></a>17. 疫情初期平均工作日时长增加（2020年） 
+<small>🔗 [library.hbs.edu](https://www.library.hbs.edu/working-knowledge/you-re-right-you-are-working-longer-and-attending-more-meetings): The average workday increased during the pandemic’s early weeks (2020)</small>
+
+
+| 🔥🔥: 113 \| 💬: [108](https://news.ycombinator.com/item?id=44003449) \| 🗓️ 2025-05-16
+
+
+<br />
+哈佛商学院研究显示，疫情期间远程办公导致**工作日延长8.2%**（约48.5分钟），**会议数量增加但时长缩短**。分析310万员工数据发现，非工作时间邮件量上升，且会议参与人数增多。研究者指出，**家庭与工作界限模糊**是主因，并建议管理者关注成果而非工时。视频会议疲劳也导致会议效率下降。该研究揭示了远程办公对工作模式的深远影响。
+
+---
+
+## <a name="18"></a>18. 苹果阻止《堡垒之夜》重返iOS应用商店，Epic称全球停服 
+<small>🔗 [macrumors.com](https://www.macrumors.com/2025/05/16/apple-blocks-fortnite-return-to-ios-app-store/): Apple Blocks Fortnite's Return to iOS App Store, Epic Claims</small>
+
+
+| 🔥🔥: 113 \| 💬: [103](https://news.ycombinator.com/item?id=44003590) \| 🗓️ 2025-05-16
+
+
+<br />
+Epic Games表示，**苹果公司**再次阻止了《堡垒之夜》回归iOS设备的申请，导致该游戏在全球范围内无法在iPhone和iPad上运行。Epic通过子公司Epic Games瑞典提交了游戏申请，但因苹果未回应审核而被迫撤回并重新提交。Epic CEO **Tim Sweeney**指责苹果拖延沟通，而苹果则依据此前诉讼结果有权永久封禁Epic账户。此次冲突源于2020年Epic绕过苹果支付系统引发的法律纠纷，近期欧盟区通过Epic Games Store短暂上架的版本也已下线。
+
+---
+
 ## <a name="19"></a>19. 用胶带拯救阿波罗13号的NASA工程师埃德·斯迈利逝世，享年95岁 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/16/science/space/ed-smylie-dead.html): Ed Smylie, Who Saved the Apollo 13 Crew with Duct Tape, Dies at 95</small>
 
 
-| 🔥🔥: 104 \| 💬: [33](https://news.ycombinator.com/item?id=44005668) \| 🗓️ 2025-05-16
+| 🔥🔥: 105 \| 💬: [33](https://news.ycombinator.com/item?id=44005668) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -259,7 +259,7 @@ NASA工程师**罗伯特·埃德·斯迈利**因领导团队用**纸板、塑料
 <small>🔗 [lesswrong.com](https://www.lesswrong.com/posts/YE4XsvSFJiZkWFtFE/explaining-british-naval-dominance-during-the-age-of-sail): British naval dominance during the age of sail</small>
 
 
-| 🔥: 96 \| 💬: [80](https://news.ycombinator.com/item?id=44005110) \| 🗓️ 2025-05-16
+| 🔥: 97 \| 💬: [81](https://news.ycombinator.com/item?id=44005110) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -307,7 +307,7 @@ SQL-tString是一个基于**t-string语法**的Python SQL查询构建库，通�
 <small>🔗 [github.com](https://github.com/A2-ai/rv): Show HN: Rv, a Package Manager for R</small>
 
 
-| 🔥: 65 \| 💬: [29](https://news.ycombinator.com/item?id=44006735) \| 🗓️ 2025-05-16
+| 🔥: 67 \| 💬: [29](https://news.ycombinator.com/item?id=44006735) \| 🗓️ 2025-05-16
 
 
 <br />
