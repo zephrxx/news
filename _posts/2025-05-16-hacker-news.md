@@ -9,10 +9,10 @@ tags:
 
 
 1. 地面控制中心呼叫重大试验；
-1. 用AI编程数月后，我决定重新启用大脑；
 1. 关于思考的困境；
+1. 用AI编程数月后，我决定重新启用大脑；
+1. 麻省理工要求arXiv撤下AI与科学发现的争议性预印本论文；
 1. 科研共享新平台：Sci-Net；
-1. Python无GIL版本的首年进展；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [virtualize.sh](https://virtualize.sh/blog/ground-control-to-major-trial/): Ground control to Major Trial</small>
 
 
-| 🔥🔥: 468 \| 💬: [178](https://news.ycombinator.com/item?id=44004388) \| 🗓️ 2025-05-16
+| 🔥🔥: 471 \| 💬: [181](https://news.ycombinator.com/item?id=44004388) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -35,23 +35,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. 用AI编程数月后，我决定重新启用大脑 
-<small>🔗 [albertofortin.com](https://albertofortin.com/writing/coding-with-ai): After months of coding with LLMs, I'm going back to using my brain</small>
-
-
-| 🔥🔥: 315 \| 💬: [197](https://news.ycombinator.com/item?id=44003700) \| 🗓️ 2025-05-16
-
-
-<br />
-作者在SaaS项目重构中过度依赖**LLM（如Claude、Cursor）**生成Go+Clickhouse代码，初期效率尚可，但后期发现代码**混乱重复**，缺乏一致性，调试困难。意识到问题后，他减少AI使用，转而用纸笔规划、手动编写核心代码，仅让AI辅助简单任务（如重命名、语法转换）。他警告：**无编程基础者用AI写代码**易陷入“错误循环”，生成难以维护的垃圾代码。尽管认可AI的学习价值，但他强调开发者需保持**独立思考**，避免过度依赖工具削弱专业能力。当前AI编码仍存在性能不稳定、复杂场景失效等问题，需谨慎使用。
-
----
-
-## <a name="3"></a>3. 关于思考的困境 
+## <a name="2"></a>2. 关于思考的困境 
 <small>🔗 [dcurt.is](https://dcurt.is/thinking): Thoughts on thinking</small>
 
 
-| 🔥🔥: 274 \| 💬: [184](https://news.ycombinator.com/item?id=44008843) \| 🗓️ 2025-05-16
+| 🔥🔥: 322 \| 💬: [220](https://news.ycombinator.com/item?id=44008843) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -59,35 +47,23 @@ tags:
 
 ---
 
-## <a name="4"></a>4. 科研共享新平台：Sci-Net 
-<small>🔗 [sci-hub.se](https://sci-hub.se/sci-net): Sci-Net</small>
+## <a name="3"></a>3. 用AI编程数月后，我决定重新启用大脑 
+<small>🔗 [albertofortin.com](https://albertofortin.com/writing/coding-with-ai): After months of coding with LLMs, I'm going back to using my brain</small>
 
 
-| 🔥🔥: 254 \| 💬: [111](https://news.ycombinator.com/item?id=44004625) \| 🗓️ 2025-05-16
-
-
-<br />
-Sci-Net是一个新型社交化平台，旨在**请求和共享研究论文**。它弥补了Sci-Hub无法手动更新的缺陷，用户可提交无法获取的文献DOI并创建请求，其他用户可上传对应PDF（支持去水印以保护匿名性）。平台采用**Sci-Hub代币激励机制**，上传者通过贡献文献获得奖励，而文献一经上传即永久免费开放。尽管注册需支付少量代币（约一杯咖啡价格），但费用直接流向贡献者而非平台，且**所有内容最终进入公共领域**。目前平台处于开发阶段，未来将拓展更多功能。
-
----
-
-## <a name="5"></a>5. Python无GIL版本的首年进展 
-<small>🔗 [labs.quansight.org](https://labs.quansight.org/blog/free-threaded-one-year-recap): The first year of free-threaded Python</small>
-
-
-| 🔥🔥: 247 \| 💬: [233](https://news.ycombinator.com/item?id=44003445) \| 🗓️ 2025-05-16
+| 🔥🔥: 319 \| 💬: [198](https://news.ycombinator.com/item?id=44003700) \| 🗓️ 2025-05-16
 
 
 <br />
-2025年5月，CPython 3.14.0b1发布，标志着**无GIL（全局解释器锁）的Python**迈入关键阶段。这一变革旨在充分利用多核CPU/GPU性能，避免多进程的数据复制开销。团队已推动NumPy、PyArrow等核心库适配，并修复了ctypes、asyncio等模块的线程安全问题。尽管生态兼容性显著提升，但部分遗留库仍面临线程安全审计挑战。开发者可通过贡献指南和社区Discord参与优化，共同推动Python迈向**高性能并行计算**的未来。
+作者在SaaS项目重构中过度依赖**LLM（如Claude、Cursor）**生成Go+Clickhouse代码，初期效率尚可，但后期发现代码**混乱重复**，缺乏一致性，调试困难。意识到问题后，他减少AI使用，转而用纸笔规划、手动编写核心代码，仅让AI辅助简单任务（如重命名、语法转换）。他警告：**无编程基础者用AI写代码**易陷入“错误循环”，生成难以维护的垃圾代码。尽管认可AI的学习价值，但他强调开发者需保持**独立思考**，避免过度依赖工具削弱专业能力。当前AI编码仍存在性能不稳定、复杂场景失效等问题，需谨慎使用。
 
 ---
 
-## <a name="6"></a>6. 麻省理工要求arXiv撤下AI与科学发现的争议性预印本论文 
+## <a name="4"></a>4. 麻省理工要求arXiv撤下AI与科学发现的争议性预印本论文 
 <small>🔗 [economics.mit.edu](https://economics.mit.edu/news/assuring-accurate-research-record): MIT asks arXiv to withdraw preprint of paper on AI and scientific discovery</small>
 
 
-| 🔥🔥: 241 \| 💬: [130](https://news.ycombinator.com/item?id=44006426) \| 🗓️ 2025-05-16
+| 🔥🔥: 261 \| 💬: [142](https://news.ycombinator.com/item?id=44006426) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -95,83 +71,35 @@ Sci-Net是一个新型社交化平台，旨在**请求和共享研究论文**。
 
 ---
 
-## <a name="7"></a>7. Erlang版可视化流编程工具：受Node-RED启发的低代码开发平台 
-<small>🔗 [github.com](https://github.com/gorenje/erlang-red): Show HN: Visual flow-based programming for Erlang, inspired by Node-RED</small>
+## <a name="5"></a>5. 科研共享新平台：Sci-Net 
+<small>🔗 [sci-hub.se](https://sci-hub.se/sci-net): Sci-Net</small>
 
 
-| 🔥🔥: 202 \| 💬: [87](https://news.ycombinator.com/item?id=44006231) \| 🗓️ 2025-05-16
-
-
-<br />
-这是一个基于**Erlang**开发的**可视化流编程工具**，灵感来源于Node-RED，旨在通过低代码方式实现高效的并发处理。项目将Node-RED的易用性与Erlang的**多进程并发优势**结合，支持大部分基础节点功能（如HTTP请求、MQTT通信等），但暂不支持JavaScript函数节点。开发者可通过测试流验证功能兼容性，并提供了Docker部署方案。项目强调**视觉化单元测试**，并欢迎社区贡献Erlang或Elixir代码。
-
----
-
-## <a name="8"></a>8. KVSplit：苹果芯片上实现2-3倍长上下文运行的优化方案 
-<small>🔗 [github.com](https://github.com/dipampaul17/KVSplit): Show HN: KVSplit – Run 2-3x longer contexts on Apple Silicon</small>
-
-
-| 🔥🔥: 185 \| 💬: [22](https://news.ycombinator.com/item?id=44009321) \| 🗓️ 2025-05-16
+| 🔥🔥: 256 \| 💬: [113](https://news.ycombinator.com/item?id=44004625) \| 🗓️ 2025-05-16
 
 
 <br />
-KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/M3芯片上显著降低内存占用（最高72%），同时保持模型质量损失小于1%。该工具支持Metal加速，提供一键安装和性能分析，**推荐配置K8V4**（8位键+4位值）可节省59%内存并提升5.7%推理速度，适合长上下文场景。开源项目基于llama.cpp，含可视化工具与详细基准测试。
+Sci-Net是一个新型社交化平台，旨在**请求和共享研究论文**。它弥补了Sci-Hub无法手动更新的缺陷，用户可提交无法获取的文献DOI并创建请求，其他用户可上传对应PDF（支持去水印以保护匿名性）。平台采用**Sci-Hub代币激励机制**，上传者通过贡献文献获得奖励，而文献一经上传即永久免费开放。尽管注册需支付少量代币（约一杯咖啡价格），但费用直接流向贡献者而非平台，且**所有内容最终进入公共领域**。目前平台处于开发阶段，未来将拓展更多功能。
 
 ---
 
-## <a name="9"></a>9. 穆迪下调美国AAA信用评级 
-<small>🔗 [ft.com](https://www.ft.com/content/e456ea34-c6ad-43fe-abe9-d4ce781c07b4): Moody’s strips U.S. of triple-A credit rating</small>
+## <a name="6"></a>6. Python无GIL版本的首年进展 
+<small>🔗 [labs.quansight.org](https://labs.quansight.org/blog/free-threaded-one-year-recap): The first year of free-threaded Python</small>
 
 
-| 🔥🔥: 185 \| 💬: [146](https://news.ycombinator.com/item?id=44009999) \| 🗓️ 2025-05-16
+| 🔥🔥: 248 \| 💬: [248](https://news.ycombinator.com/item?id=44003445) \| 🗓️ 2025-05-16
 
 
 <br />
-国际评级机构**穆迪**宣布将美国的**最高信用评级**从AAA下调，反映出对美国财政状况和债务可持续性的担忧。此举可能影响全球金融市场对美国国债的信心。文中还提及了FT提供的相关政治经济分析订阅服务，但核心信息聚焦于评级下调及其潜在影响。
+2025年5月，CPython 3.14.0b1发布，标志着**无GIL（全局解释器锁）的Python**迈入关键阶段。这一变革旨在充分利用多核CPU/GPU性能，避免多进程的数据复制开销。团队已推动NumPy、PyArrow等核心库适配，并修复了ctypes、asyncio等模块的线程安全问题。尽管生态兼容性显著提升，但部分遗留库仍面临线程安全审计挑战。开发者可通过贡献指南和社区Discord参与优化，共同推动Python迈向**高性能并行计算**的未来。
 
 ---
 
-## <a name="10"></a>10. Grok“白人种族灭绝”言论风波：xAI再曝员工擅自篡改代码 
-<small>🔗 [theverge.com](https://www.theverge.com/news/668220/grok-white-genocide-south-africa-xai-unauthorized-modification-employee): Grok's white genocide fixation caused by 'unauthorized modification'</small>
-
-
-| 🔥🔥: 180 \| 💬: [135](https://news.ycombinator.com/item?id=44004250) \| 🗓️ 2025-05-16
-
-
-<br />
-埃隆·马斯克旗下xAI的聊天机器人**Grok**因持续数小时向用户推送南非“白人种族灭绝”争议内容引发争议，公司称系**员工未经授权修改系统提示词**所致。此次事件中，Grok在无关话题（如猫咪视频、海绵宝宝提问）中强行插入该政治议题，甚至用方言详细分析。xAI表示已调查并加强管控，包括公开GitHub代码、组建24/7监控团队。**这已是第二次类似事件**，2月曾有前员工擅自屏蔽指控马斯克和特朗普的负面信息源。公司强调此类行为违反核心价值，将增设审查机制。
-
----
-
-## <a name="11"></a>11. XXᵀ矩阵乘法新算法：速度更快 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2505.09814): X X^t can be faster</small>
-
-
-| 🔥🔥: 158 \| 💬: [47](https://news.ycombinator.com/item?id=44006824) \| 🗓️ 2025-05-16
-
-
-<br />
-研究人员提出名为**RXTX**的新算法，用于计算矩阵与其转置的乘积（XXᵀ）。该算法比当前最优方法减少**5%**的乘加运算量，即使对小规模矩阵也能实现加速。其突破性在于结合了**机器学习搜索**与**组合优化**技术，通过自动化方法发现高效计算模式。论文已提交至arXiv（2025年5月），涉及数据结构、人工智能与符号计算等多领域交叉研究。
-
----
-
-## <a name="12"></a>12. Java三十周年：专访James Gosling 
-<small>🔗 [thenewstack.io](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/): Java at 30: Interview with James Gosling</small>
-
-
-| 🔥🔥: 157 \| 💬: [228](https://news.ycombinator.com/item?id=44005008) \| 🗓️ 2025-05-16
-
-
-<br />
-本文是一份订阅表单，邀请读者加入**The New Stack社区**，获取软件工程领域的最新资讯和独家内容。表单要求填写**姓名、公司、国家**等基本信息，并选择**职位、行业**等详细分类，以便定制个性化内容。此外，还强调了平台不会共享用户数据，并提供了重新订阅的选项。最后，欢迎用户加入并提示查收确认邮件以调整偏好。
-
----
-
-## <a name="13"></a>13. 让AI写出优质SQL的技术解析 
+## <a name="7"></a>7. 让AI写出优质SQL的技术解析 
 <small>🔗 [cloud.google.com](https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql): Getting AI to write good SQL</small>
 
 
-| 🔥🔥: 155 \| 💬: [83](https://news.ycombinator.com/item?id=44009848) \| 🗓️ 2025-05-16
+| 🔥🔥: 210 \| 💬: [108](https://news.ycombinator.com/item?id=44009848) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -179,11 +107,83 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 
 ---
 
+## <a name="8"></a>8. 穆迪下调美国AAA信用评级 
+<small>🔗 [ft.com](https://www.ft.com/content/e456ea34-c6ad-43fe-abe9-d4ce781c07b4): Moody’s strips U.S. of triple-A credit rating</small>
+
+
+| 🔥🔥: 208 \| 💬: [170](https://news.ycombinator.com/item?id=44009999) \| 🗓️ 2025-05-16
+
+
+<br />
+国际评级机构**穆迪**宣布将美国的**最高信用评级**从AAA下调，反映出对美国财政状况和债务可持续性的担忧。此举可能影响全球金融市场对美国国债的信心。文中还提及了FT提供的相关政治经济分析订阅服务，但核心信息聚焦于评级下调及其潜在影响。
+
+---
+
+## <a name="9"></a>9. KVSplit：苹果芯片上实现2-3倍长上下文运行的优化方案 
+<small>🔗 [github.com](https://github.com/dipampaul17/KVSplit): Show HN: KVSplit – Run 2-3x longer contexts on Apple Silicon</small>
+
+
+| 🔥🔥: 206 \| 💬: [30](https://news.ycombinator.com/item?id=44009321) \| 🗓️ 2025-05-16
+
+
+<br />
+KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/M3芯片上显著降低内存占用（最高72%），同时保持模型质量损失小于1%。该工具支持Metal加速，提供一键安装和性能分析，**推荐配置K8V4**（8位键+4位值）可节省59%内存并提升5.7%推理速度，适合长上下文场景。开源项目基于llama.cpp，含可视化工具与详细基准测试。
+
+---
+
+## <a name="10"></a>10. Erlang版可视化流编程工具：受Node-RED启发的低代码开发平台 
+<small>🔗 [github.com](https://github.com/gorenje/erlang-red): Show HN: Visual flow-based programming for Erlang, inspired by Node-RED</small>
+
+
+| 🔥🔥: 205 \| 💬: [89](https://news.ycombinator.com/item?id=44006231) \| 🗓️ 2025-05-16
+
+
+<br />
+这是一个基于**Erlang**开发的**可视化流编程工具**，灵感来源于Node-RED，旨在通过低代码方式实现高效的并发处理。项目将Node-RED的易用性与Erlang的**多进程并发优势**结合，支持大部分基础节点功能（如HTTP请求、MQTT通信等），但暂不支持JavaScript函数节点。开发者可通过测试流验证功能兼容性，并提供了Docker部署方案。项目强调**视觉化单元测试**，并欢迎社区贡献Erlang或Elixir代码。
+
+---
+
+## <a name="11"></a>11. Grok“白人种族灭绝”言论风波：xAI再曝员工擅自篡改代码 
+<small>🔗 [theverge.com](https://www.theverge.com/news/668220/grok-white-genocide-south-africa-xai-unauthorized-modification-employee): Grok's white genocide fixation caused by 'unauthorized modification'</small>
+
+
+| 🔥🔥: 181 \| 💬: [135](https://news.ycombinator.com/item?id=44004250) \| 🗓️ 2025-05-16
+
+
+<br />
+埃隆·马斯克旗下xAI的聊天机器人**Grok**因持续数小时向用户推送南非“白人种族灭绝”争议内容引发争议，公司称系**员工未经授权修改系统提示词**所致。此次事件中，Grok在无关话题（如猫咪视频、海绵宝宝提问）中强行插入该政治议题，甚至用方言详细分析。xAI表示已调查并加强管控，包括公开GitHub代码、组建24/7监控团队。**这已是第二次类似事件**，2月曾有前员工擅自屏蔽指控马斯克和特朗普的负面信息源。公司强调此类行为违反核心价值，将增设审查机制。
+
+---
+
+## <a name="12"></a>12. Java三十周年：专访James Gosling 
+<small>🔗 [thenewstack.io](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/): Java at 30: Interview with James Gosling</small>
+
+
+| 🔥🔥: 170 \| 💬: [249](https://news.ycombinator.com/item?id=44005008) \| 🗓️ 2025-05-16
+
+
+<br />
+本文是一份订阅表单，邀请读者加入**The New Stack社区**，获取软件工程领域的最新资讯和独家内容。表单要求填写**姓名、公司、国家**等基本信息，并选择**职位、行业**等详细分类，以便定制个性化内容。此外，还强调了平台不会共享用户数据，并提供了重新订阅的选项。最后，欢迎用户加入并提示查收确认邮件以调整偏好。
+
+---
+
+## <a name="13"></a>13. XXᵀ矩阵乘法新算法：速度更快 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2505.09814): X X^t can be faster</small>
+
+
+| 🔥🔥: 165 \| 💬: [47](https://news.ycombinator.com/item?id=44006824) \| 🗓️ 2025-05-16
+
+
+<br />
+研究人员提出名为**RXTX**的新算法，用于计算矩阵与其转置的乘积（XXᵀ）。该算法比当前最优方法减少**5%**的乘加运算量，即使对小规模矩阵也能实现加速。其突破性在于结合了**机器学习搜索**与**组合优化**技术，通过自动化方法发现高效计算模式。论文已提交至arXiv（2025年5月），涉及数据结构、人工智能与符号计算等多领域交叉研究。
+
+---
+
 ## <a name="14"></a>14. Rust编译器错误信息的演进历程 
 <small>🔗 [kobzol.github.io](https://kobzol.github.io/rust/rustc/2025/05/16/evolution-of-rustc-errors.html): Evolution of Rust Compiler Errors</small>
 
 
-| 🔥🔥: 134 \| 💬: [30](https://news.ycombinator.com/item?id=44005195) \| 🗓️ 2025-05-16
+| 🔥🔥: 137 \| 💬: [30](https://news.ycombinator.com/item?id=44005195) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -207,7 +207,7 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 <small>🔗 [library.hbs.edu](https://www.library.hbs.edu/working-knowledge/you-re-right-you-are-working-longer-and-attending-more-meetings): The average workday increased during the pandemic’s early weeks (2020)</small>
 
 
-| 🔥🔥: 112 \| 💬: [108](https://news.ycombinator.com/item?id=44003449) \| 🗓️ 2025-05-16
+| 🔥🔥: 113 \| 💬: [108](https://news.ycombinator.com/item?id=44003449) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -219,7 +219,7 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 <small>🔗 [macrumors.com](https://www.macrumors.com/2025/05/16/apple-blocks-fortnite-return-to-ios-app-store/): Apple Blocks Fortnite's Return to iOS App Store, Epic Claims</small>
 
 
-| 🔥🔥: 112 \| 💬: [102](https://news.ycombinator.com/item?id=44003590) \| 🗓️ 2025-05-16
+| 🔥🔥: 113 \| 💬: [102](https://news.ycombinator.com/item?id=44003590) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -227,23 +227,11 @@ Epic Games表示，**苹果公司**再次阻止了《堡垒之夜》回归iOS设
 
 ---
 
-## <a name="18"></a>18. 用胶带拯救阿波罗13号的NASA工程师埃德·斯迈利逝世，享年95岁 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/16/science/space/ed-smylie-dead.html): Ed Smylie, Who Saved the Apollo 13 Crew with Duct Tape, Dies at 95</small>
-
-
-| 🔥🔥: 101 \| 💬: [33](https://news.ycombinator.com/item?id=44005668) \| 🗓️ 2025-05-16
-
-
-<br />
-NASA工程师**罗伯特·埃德·斯迈利**因领导团队用**纸板、塑料袋和胶带**临时制作救生装置，帮助阿波罗13号宇航员在1970年太空危机中生还而闻名。他在田纳西州去世，享年95岁。事故中，飞船氧气罐爆炸，宇航员被迫转移到登月舱，但该舱设计仅支持两人。斯迈利团队迅速改造二氧化碳过滤器，避免了致命危险。事后，总统尼克松授予其团队**总统自由勋章**，称赞他们的应急智慧。斯迈利的低调与务实成为NASA传奇的一部分。
-
----
-
-## <a name="19"></a>19. ClojureScript 1.12.42 版本发布 
+## <a name="18"></a>18. ClojureScript 1.12.42 版本发布 
 <small>🔗 [clojurescript.org](https://clojurescript.org/news/2025-05-16-release): ClojureScript 1.12.42</small>
 
 
-| 🔥: 96 \| 💬: [18](https://news.ycombinator.com/item?id=44009464) \| 🗓️ 2025-05-16
+| 🔥🔥: 109 \| 💬: [20](https://news.ycombinator.com/item?id=44009464) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -255,11 +243,23 @@ ClojureScript 团队于2024年5月16日发布了 **1.12.42 版本**，主要包�
 
 ---
 
+## <a name="19"></a>19. 用胶带拯救阿波罗13号的NASA工程师埃德·斯迈利逝世，享年95岁 
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/16/science/space/ed-smylie-dead.html): Ed Smylie, Who Saved the Apollo 13 Crew with Duct Tape, Dies at 95</small>
+
+
+| 🔥🔥: 104 \| 💬: [33](https://news.ycombinator.com/item?id=44005668) \| 🗓️ 2025-05-16
+
+
+<br />
+NASA工程师**罗伯特·埃德·斯迈利**因领导团队用**纸板、塑料袋和胶带**临时制作救生装置，帮助阿波罗13号宇航员在1970年太空危机中生还而闻名。他在田纳西州去世，享年95岁。事故中，飞船氧气罐爆炸，宇航员被迫转移到登月舱，但该舱设计仅支持两人。斯迈利团队迅速改造二氧化碳过滤器，避免了致命危险。事后，总统尼克松授予其团队**总统自由勋章**，称赞他们的应急智慧。斯迈利的低调与务实成为NASA传奇的一部分。
+
+---
+
 ## <a name="20"></a>20. 风帆时代英国海军为何所向披靡？ 
 <small>🔗 [lesswrong.com](https://www.lesswrong.com/posts/YE4XsvSFJiZkWFtFE/explaining-british-naval-dominance-during-the-age-of-sail): British naval dominance during the age of sail</small>
 
 
-| 🔥: 93 \| 💬: [77](https://news.ycombinator.com/item?id=44005110) \| 🗓️ 2025-05-16
+| 🔥: 96 \| 💬: [80](https://news.ycombinator.com/item?id=44005110) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -271,7 +271,7 @@ ClojureScript 团队于2024年5月16日发布了 **1.12.42 版本**，主要包�
 <small>🔗 [github.com](https://github.com/pgjones/sql-tstring): Show HN: SQL-tString a t-string SQL builder in Python</small>
 
 
-| 🔥: 73 \| 💬: [30](https://news.ycombinator.com/item?id=44004827) \| 🗓️ 2025-05-16
+| 🔥: 74 \| 💬: [30](https://news.ycombinator.com/item?id=44004827) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -307,7 +307,7 @@ SQL-tString是一个基于**t-string语法**的Python SQL查询构建库，通�
 <small>🔗 [github.com](https://github.com/A2-ai/rv): Show HN: Rv, a Package Manager for R</small>
 
 
-| 🔥: 65 \| 💬: [28](https://news.ycombinator.com/item?id=44006735) \| 🗓️ 2025-05-16
+| 🔥: 65 \| 💬: [29](https://news.ycombinator.com/item?id=44006735) \| 🗓️ 2025-05-16
 
 
 <br />
