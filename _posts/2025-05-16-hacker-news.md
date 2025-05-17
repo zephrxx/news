@@ -12,7 +12,7 @@ tags:
 1. 关于思考的困境；
 1. 用AI编程数月后，我决定重新启用大脑；
 1. 麻省理工要求arXiv撤下AI与科学发现的争议性预印本论文；
-1. 科研共享新平台：Sci-Net；
+1. 让AI写出优质SQL的技术解析；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [virtualize.sh](https://virtualize.sh/blog/ground-control-to-major-trial/): Ground control to Major Trial</small>
 
 
-| 🔥🔥: 474 \| 💬: [181](https://news.ycombinator.com/item?id=44004388) \| 🗓️ 2025-05-16
+| 🔥🔥: 479 \| 💬: [182](https://news.ycombinator.com/item?id=44004388) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [dcurt.is](https://dcurt.is/thinking): Thoughts on thinking</small>
 
 
-| 🔥🔥: 351 \| 💬: [228](https://news.ycombinator.com/item?id=44008843) \| 🗓️ 2025-05-16
+| 🔥🔥: 372 \| 💬: [242](https://news.ycombinator.com/item?id=44008843) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [albertofortin.com](https://albertofortin.com/writing/coding-with-ai): After months of coding with LLMs, I'm going back to using my brain</small>
 
 
-| 🔥🔥: 320 \| 💬: [202](https://news.ycombinator.com/item?id=44003700) \| 🗓️ 2025-05-16
+| 🔥🔥: 323 \| 💬: [202](https://news.ycombinator.com/item?id=44003700) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [economics.mit.edu](https://economics.mit.edu/news/assuring-accurate-research-record): MIT asks arXiv to withdraw preprint of paper on AI and scientific discovery</small>
 
 
-| 🔥🔥: 270 \| 💬: [146](https://news.ycombinator.com/item?id=44006426) \| 🗓️ 2025-05-16
+| 🔥🔥: 280 \| 💬: [148](https://news.ycombinator.com/item?id=44006426) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -71,35 +71,11 @@ tags:
 
 ---
 
-## <a name="5"></a>5. 科研共享新平台：Sci-Net 
-<small>🔗 [sci-hub.se](https://sci-hub.se/sci-net): Sci-Net</small>
-
-
-| 🔥🔥: 258 \| 💬: [113](https://news.ycombinator.com/item?id=44004625) \| 🗓️ 2025-05-16
-
-
-<br />
-Sci-Net是一个新型社交化平台，旨在**请求和共享研究论文**。它弥补了Sci-Hub无法手动更新的缺陷，用户可提交无法获取的文献DOI并创建请求，其他用户可上传对应PDF（支持去水印以保护匿名性）。平台采用**Sci-Hub代币激励机制**，上传者通过贡献文献获得奖励，而文献一经上传即永久免费开放。尽管注册需支付少量代币（约一杯咖啡价格），但费用直接流向贡献者而非平台，且**所有内容最终进入公共领域**。目前平台处于开发阶段，未来将拓展更多功能。
-
----
-
-## <a name="6"></a>6. Python无GIL版本的首年进展 
-<small>🔗 [labs.quansight.org](https://labs.quansight.org/blog/free-threaded-one-year-recap): The first year of free-threaded Python</small>
-
-
-| 🔥🔥: 253 \| 💬: [252](https://news.ycombinator.com/item?id=44003445) \| 🗓️ 2025-05-16
-
-
-<br />
-2025年5月，CPython 3.14.0b1发布，标志着**无GIL（全局解释器锁）的Python**迈入关键阶段。这一变革旨在充分利用多核CPU/GPU性能，避免多进程的数据复制开销。团队已推动NumPy、PyArrow等核心库适配，并修复了ctypes、asyncio等模块的线程安全问题。尽管生态兼容性显著提升，但部分遗留库仍面临线程安全审计挑战。开发者可通过贡献指南和社区Discord参与优化，共同推动Python迈向**高性能并行计算**的未来。
-
----
-
-## <a name="7"></a>7. 让AI写出优质SQL的技术解析 
+## <a name="5"></a>5. 让AI写出优质SQL的技术解析 
 <small>🔗 [cloud.google.com](https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql): Getting AI to write good SQL</small>
 
 
-| 🔥🔥: 235 \| 💬: [115](https://news.ycombinator.com/item?id=44009848) \| 🗓️ 2025-05-16
+| 🔥🔥: 261 \| 💬: [127](https://news.ycombinator.com/item?id=44009848) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -107,11 +83,35 @@ Sci-Net是一个新型社交化平台，旨在**请求和共享研究论文**。
 
 ---
 
+## <a name="6"></a>6. 科研共享新平台：Sci-Net 
+<small>🔗 [sci-hub.se](https://sci-hub.se/sci-net): Sci-Net</small>
+
+
+| 🔥🔥: 259 \| 💬: [113](https://news.ycombinator.com/item?id=44004625) \| 🗓️ 2025-05-16
+
+
+<br />
+Sci-Net是一个新型社交化平台，旨在**请求和共享研究论文**。它弥补了Sci-Hub无法手动更新的缺陷，用户可提交无法获取的文献DOI并创建请求，其他用户可上传对应PDF（支持去水印以保护匿名性）。平台采用**Sci-Hub代币激励机制**，上传者通过贡献文献获得奖励，而文献一经上传即永久免费开放。尽管注册需支付少量代币（约一杯咖啡价格），但费用直接流向贡献者而非平台，且**所有内容最终进入公共领域**。目前平台处于开发阶段，未来将拓展更多功能。
+
+---
+
+## <a name="7"></a>7. Python无GIL版本的首年进展 
+<small>🔗 [labs.quansight.org](https://labs.quansight.org/blog/free-threaded-one-year-recap): The first year of free-threaded Python</small>
+
+
+| 🔥🔥: 256 \| 💬: [254](https://news.ycombinator.com/item?id=44003445) \| 🗓️ 2025-05-16
+
+
+<br />
+2025年5月，CPython 3.14.0b1发布，标志着**无GIL（全局解释器锁）的Python**迈入关键阶段。这一变革旨在充分利用多核CPU/GPU性能，避免多进程的数据复制开销。团队已推动NumPy、PyArrow等核心库适配，并修复了ctypes、asyncio等模块的线程安全问题。尽管生态兼容性显著提升，但部分遗留库仍面临线程安全审计挑战。开发者可通过贡献指南和社区Discord参与优化，共同推动Python迈向**高性能并行计算**的未来。
+
+---
+
 ## <a name="8"></a>8. KVSplit：苹果芯片上实现2-3倍长上下文运行的优化方案 
 <small>🔗 [github.com](https://github.com/dipampaul17/KVSplit): Show HN: KVSplit – Run 2-3x longer contexts on Apple Silicon</small>
 
 
-| 🔥🔥: 217 \| 💬: [32](https://news.ycombinator.com/item?id=44009321) \| 🗓️ 2025-05-16
+| 🔥🔥: 227 \| 💬: [35](https://news.ycombinator.com/item?id=44009321) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -123,7 +123,7 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 <small>🔗 [ft.com](https://www.ft.com/content/e456ea34-c6ad-43fe-abe9-d4ce781c07b4): Moody’s strips U.S. of triple-A credit rating</small>
 
 
-| 🔥🔥: 215 \| 💬: [176](https://news.ycombinator.com/item?id=44009999) \| 🗓️ 2025-05-16
+| 🔥🔥: 217 \| 💬: [183](https://news.ycombinator.com/item?id=44009999) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -135,7 +135,7 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 <small>🔗 [github.com](https://github.com/gorenje/erlang-red): Show HN: Visual flow-based programming for Erlang, inspired by Node-RED</small>
 
 
-| 🔥🔥: 207 \| 💬: [91](https://news.ycombinator.com/item?id=44006231) \| 🗓️ 2025-05-16
+| 🔥🔥: 212 \| 💬: [91](https://news.ycombinator.com/item?id=44006231) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -147,7 +147,7 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 <small>🔗 [theverge.com](https://www.theverge.com/news/668220/grok-white-genocide-south-africa-xai-unauthorized-modification-employee): Grok's white genocide fixation caused by 'unauthorized modification'</small>
 
 
-| 🔥🔥: 184 \| 💬: [136](https://news.ycombinator.com/item?id=44004250) \| 🗓️ 2025-05-16
+| 🔥🔥: 185 \| 💬: [136](https://news.ycombinator.com/item?id=44004250) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -159,7 +159,7 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 <small>🔗 [thenewstack.io](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/): Java at 30: Interview with James Gosling</small>
 
 
-| 🔥🔥: 175 \| 💬: [255](https://news.ycombinator.com/item?id=44005008) \| 🗓️ 2025-05-16
+| 🔥🔥: 177 \| 💬: [261](https://news.ycombinator.com/item?id=44005008) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -171,7 +171,7 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2505.09814): X X^t can be faster</small>
 
 
-| 🔥🔥: 166 \| 💬: [48](https://news.ycombinator.com/item?id=44006824) \| 🗓️ 2025-05-16
+| 🔥🔥: 170 \| 💬: [51](https://news.ycombinator.com/item?id=44006824) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -183,7 +183,7 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 <small>🔗 [kobzol.github.io](https://kobzol.github.io/rust/rustc/2025/05/16/evolution-of-rustc-errors.html): Evolution of Rust Compiler Errors</small>
 
 
-| 🔥🔥: 139 \| 💬: [30](https://news.ycombinator.com/item?id=44005195) \| 🗓️ 2025-05-16
+| 🔥🔥: 140 \| 💬: [31](https://news.ycombinator.com/item?id=44005195) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -195,7 +195,7 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 <small>🔗 [clojurescript.org](https://clojurescript.org/news/2025-05-16-release): ClojureScript 1.12.42</small>
 
 
-| 🔥🔥: 118 \| 💬: [20](https://news.ycombinator.com/item?id=44009464) \| 🗓️ 2025-05-16
+| 🔥🔥: 126 \| 💬: [20](https://news.ycombinator.com/item?id=44009464) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -223,7 +223,7 @@ ClojureScript 团队于2024年5月16日发布了 **1.12.42 版本**，主要包�
 <small>🔗 [library.hbs.edu](https://www.library.hbs.edu/working-knowledge/you-re-right-you-are-working-longer-and-attending-more-meetings): The average workday increased during the pandemic’s early weeks (2020)</small>
 
 
-| 🔥🔥: 113 \| 💬: [108](https://news.ycombinator.com/item?id=44003449) \| 🗓️ 2025-05-16
+| 🔥🔥: 113 \| 💬: [109](https://news.ycombinator.com/item?id=44003449) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -259,7 +259,7 @@ NASA工程师**罗伯特·埃德·斯迈利**因领导团队用**纸板、塑料
 <small>🔗 [lesswrong.com](https://www.lesswrong.com/posts/YE4XsvSFJiZkWFtFE/explaining-british-naval-dominance-during-the-age-of-sail): British naval dominance during the age of sail</small>
 
 
-| 🔥: 97 \| 💬: [81](https://news.ycombinator.com/item?id=44005110) \| 🗓️ 2025-05-16
+| 🔥: 97 \| 💬: [82](https://news.ycombinator.com/item?id=44005110) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -267,11 +267,23 @@ NASA工程师**罗伯特·埃德·斯迈利**因领导团队用**纸板、塑料
 
 ---
 
-## <a name="21"></a>21. Python版SQL防注入查询构建工具：SQL-tString 
+## <a name="21"></a>21. AI训练数据中的AI生成内容会导致模型性能下降吗？ 
+<small>🔗 [cacm.acm.org](https://cacm.acm.org/news/the-collapse-of-gpt/): Will AI systems perform poorly due to AI-generated material in training data?</small>
+
+
+| 🔥: 78 \| 💬: [83](https://news.ycombinator.com/item?id=44010705) \| 🗓️ 2025-05-16
+
+
+<br />
+随着ChatGPT等大语言模型（LLM）的普及，网络上的AI生成内容激增，而这些内容可能被用于训练新一代模型，引发**模型崩溃**的担忧。模型崩溃指训练数据与真实数据分布脱节，导致输出质量下降。研究表明，递归使用生成数据会逐渐丢失低频信息，使模型偏向高概率结果。解决方案包括**数据筛选**和混合真实数据，但完全避免仍需技术突破。此外，合成数据可能加剧对少数群体的偏见，但相关研究尚不充分。尽管问题严峻，但并非迫在眉睫的灾难，需行业谨慎应对。
+
+---
+
+## <a name="22"></a>22. Python版SQL防注入查询构建工具：SQL-tString 
 <small>🔗 [github.com](https://github.com/pgjones/sql-tstring): Show HN: SQL-tString a t-string SQL builder in Python</small>
 
 
-| 🔥: 74 \| 💬: [30](https://news.ycombinator.com/item?id=44004827) \| 🗓️ 2025-05-16
+| 🔥: 75 \| 💬: [30](https://news.ycombinator.com/item?id=44004827) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -279,7 +291,7 @@ SQL-tString是一个基于**t-string语法**的Python SQL查询构建库，通�
 
 ---
 
-## <a name="22"></a>22. 超越文本：按需生成UI以提升对话体验 
+## <a name="23"></a>23. 超越文本：按需生成UI以提升对话体验 
 <small>🔗 [blog.fka.dev](https://blog.fka.dev/blog/2025-05-16-beyond-text-only-ai-on-demand-ui-generation-for-better-conversational-experiences/): Beyond Text: On-Demand UI Generation for Better Conversational Experiences</small>
 
 
@@ -291,7 +303,7 @@ SQL-tString是一个基于**t-string语法**的Python SQL查询构建库，通�
 
 ---
 
-## <a name="23"></a>23. 青少年的问题不在手机，而在家庭 
+## <a name="24"></a>24. 青少年的问题不在手机，而在家庭 
 <small>🔗 [grimoiremanor.substack.com](https://grimoiremanor.substack.com/p/the-problem-with-teens-isnt-smartphones): The Problem with Teens Isn't Smartphones–It's Their Families</small>
 
 
@@ -303,7 +315,7 @@ SQL-tString是一个基于**t-string语法**的Python SQL查询构建库，通�
 
 ---
 
-## <a name="24"></a>24. Rv：一款面向R语言的现代化包管理工具 
+## <a name="25"></a>25. Rv：一款面向R语言的现代化包管理工具 
 <small>🔗 [github.com](https://github.com/A2-ai/rv): Show HN: Rv, a Package Manager for R</small>
 
 
@@ -312,17 +324,5 @@ SQL-tString是一个基于**t-string语法**的Python SQL查询构建库，通�
 
 <br />
 Rv是一个用于**R语言**的包管理器，旨在以**可重复、快速且声明式**的方式管理安装包。它通过`rv plan`预览操作、`rv sync`同步库与配置文件，并支持通过`rproject.toml`文件自定义R版本、仓库及依赖项（如示例中配置`dplyr`和`ggplot2`）。目前项目处于开发阶段（MIT协议），需Rust环境参与开发，提供单元测试与快照测试支持。开发者可通过GitHub提交问题或功能请求。
-
----
-
-## <a name="25"></a>25. Let's Encrypt将因Chrome CA政策变更取消SMTP服务器认证支持 
-<small>🔗 [social.wildeboer.net](https://social.wildeboer.net/@jwildeboer/114516238307785904): Letsencrypt will kill SMTP server auth following Chrome CA policy change</small>
-
-
-| 🔥: 55 \| 💬: [56](https://news.ycombinator.com/item?id=44003349) \| 🗓️ 2025-05-16
-
-
-<br />
-由于Chrome浏览器即将实施的**CA证书政策调整**，Let's Encrypt宣布将不再支持**SMTP邮件服务器**的TLS认证服务。这一变化可能导致依赖其免费证书的邮件服务需寻找替代方案，重点影响需要端到端加密的**邮件传输安全**。用户需注意后续兼容性风险。
 
 ---
