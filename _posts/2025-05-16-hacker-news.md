@@ -11,8 +11,8 @@ tags:
 1. 地面控制中心呼叫重大试验；
 1. 用AI编程数月后，我决定重新启用大脑；
 1. 科研共享新平台：Sci-Net；
-1. Python无GIL版本的首年进展；
 1. 关于思考的困境；
+1. Python无GIL版本的首年进展；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [virtualize.sh](https://virtualize.sh/blog/ground-control-to-major-trial/): Ground control to Major Trial</small>
 
 
-| 🔥🔥: 462 \| 💬: [177](https://news.ycombinator.com/item?id=44004388) \| 🗓️ 2025-05-16
+| 🔥🔥: 465 \| 💬: [178](https://news.ycombinator.com/item?id=44004388) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [albertofortin.com](https://albertofortin.com/writing/coding-with-ai): After months of coding with LLMs, I'm going back to using my brain</small>
 
 
-| 🔥🔥: 309 \| 💬: [197](https://news.ycombinator.com/item?id=44003700) \| 🗓️ 2025-05-16
+| 🔥🔥: 311 \| 💬: [197](https://news.ycombinator.com/item?id=44003700) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [sci-hub.se](https://sci-hub.se/sci-net): Sci-Net</small>
 
 
-| 🔥🔥: 251 \| 💬: [110](https://news.ycombinator.com/item?id=44004625) \| 🗓️ 2025-05-16
+| 🔥🔥: 254 \| 💬: [111](https://news.ycombinator.com/item?id=44004625) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -59,23 +59,11 @@ Sci-Net是一个新型社交化平台，旨在**请求和共享研究论文**。
 
 ---
 
-## <a name="4"></a>4. Python无GIL版本的首年进展 
-<small>🔗 [labs.quansight.org](https://labs.quansight.org/blog/free-threaded-one-year-recap): The first year of free-threaded Python</small>
-
-
-| 🔥🔥: 238 \| 💬: [224](https://news.ycombinator.com/item?id=44003445) \| 🗓️ 2025-05-16
-
-
-<br />
-2025年5月，CPython 3.14.0b1发布，标志着**无GIL（全局解释器锁）的Python**迈入关键阶段。这一变革旨在充分利用多核CPU/GPU性能，避免多进程的数据复制开销。团队已推动NumPy、PyArrow等核心库适配，并修复了ctypes、asyncio等模块的线程安全问题。尽管生态兼容性显著提升，但部分遗留库仍面临线程安全审计挑战。开发者可通过贡献指南和社区Discord参与优化，共同推动Python迈向**高性能并行计算**的未来。
-
----
-
-## <a name="5"></a>5. 关于思考的困境 
+## <a name="4"></a>4. 关于思考的困境 
 <small>🔗 [dcurt.is](https://dcurt.is/thinking): Thoughts on thinking</small>
 
 
-| 🔥🔥: 233 \| 💬: [145](https://news.ycombinator.com/item?id=44008843) \| 🗓️ 2025-05-16
+| 🔥🔥: 250 \| 💬: [165](https://news.ycombinator.com/item?id=44008843) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -83,11 +71,23 @@ Sci-Net是一个新型社交化平台，旨在**请求和共享研究论文**。
 
 ---
 
+## <a name="5"></a>5. Python无GIL版本的首年进展 
+<small>🔗 [labs.quansight.org](https://labs.quansight.org/blog/free-threaded-one-year-recap): The first year of free-threaded Python</small>
+
+
+| 🔥🔥: 243 \| 💬: [231](https://news.ycombinator.com/item?id=44003445) \| 🗓️ 2025-05-16
+
+
+<br />
+2025年5月，CPython 3.14.0b1发布，标志着**无GIL（全局解释器锁）的Python**迈入关键阶段。这一变革旨在充分利用多核CPU/GPU性能，避免多进程的数据复制开销。团队已推动NumPy、PyArrow等核心库适配，并修复了ctypes、asyncio等模块的线程安全问题。尽管生态兼容性显著提升，但部分遗留库仍面临线程安全审计挑战。开发者可通过贡献指南和社区Discord参与优化，共同推动Python迈向**高性能并行计算**的未来。
+
+---
+
 ## <a name="6"></a>6. 麻省理工要求arXiv撤下AI与科学发现的争议性预印本论文 
 <small>🔗 [economics.mit.edu](https://economics.mit.edu/news/assuring-accurate-research-record): MIT asks arXiv to withdraw preprint of paper on AI and scientific discovery</small>
 
 
-| 🔥🔥: 209 \| 💬: [111](https://news.ycombinator.com/item?id=44006426) \| 🗓️ 2025-05-16
+| 🔥🔥: 219 \| 💬: [118](https://news.ycombinator.com/item?id=44006426) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -99,7 +99,7 @@ Sci-Net是一个新型社交化平台，旨在**请求和共享研究论文**。
 <small>🔗 [github.com](https://github.com/gorenje/erlang-red): Show HN: Visual flow-based programming for Erlang, inspired by Node-RED</small>
 
 
-| 🔥🔥: 193 \| 💬: [84](https://news.ycombinator.com/item?id=44006231) \| 🗓️ 2025-05-16
+| 🔥🔥: 197 \| 💬: [85](https://news.ycombinator.com/item?id=44006231) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -111,7 +111,7 @@ Sci-Net是一个新型社交化平台，旨在**请求和共享研究论文**。
 <small>🔗 [theverge.com](https://www.theverge.com/news/668220/grok-white-genocide-south-africa-xai-unauthorized-modification-employee): Grok's white genocide fixation caused by 'unauthorized modification'</small>
 
 
-| 🔥🔥: 179 \| 💬: [133](https://news.ycombinator.com/item?id=44004250) \| 🗓️ 2025-05-16
+| 🔥🔥: 180 \| 💬: [136](https://news.ycombinator.com/item?id=44004250) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -123,7 +123,7 @@ Sci-Net是一个新型社交化平台，旨在**请求和共享研究论文**。
 <small>🔗 [github.com](https://github.com/dipampaul17/KVSplit): Show HN: KVSplit – Run 2-3x longer contexts on Apple Silicon</small>
 
 
-| 🔥🔥: 168 \| 💬: [17](https://news.ycombinator.com/item?id=44009321) \| 🗓️ 2025-05-16
+| 🔥🔥: 176 \| 💬: [18](https://news.ycombinator.com/item?id=44009321) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -135,7 +135,7 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 <small>🔗 [ft.com](https://www.ft.com/content/e456ea34-c6ad-43fe-abe9-d4ce781c07b4): Moody’s strips U.S. of triple-A credit rating</small>
 
 
-| 🔥🔥: 157 \| 💬: [82](https://news.ycombinator.com/item?id=44009999) \| 🗓️ 2025-05-16
+| 🔥🔥: 176 \| 💬: [129](https://news.ycombinator.com/item?id=44009999) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -147,7 +147,7 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2505.09814): X X^t can be faster</small>
 
 
-| 🔥🔥: 150 \| 💬: [45](https://news.ycombinator.com/item?id=44006824) \| 🗓️ 2025-05-16
+| 🔥🔥: 156 \| 💬: [45](https://news.ycombinator.com/item?id=44006824) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -159,7 +159,7 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 <small>🔗 [thenewstack.io](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/): Java at 30: Interview with James Gosling</small>
 
 
-| 🔥🔥: 144 \| 💬: [186](https://news.ycombinator.com/item?id=44005008) \| 🗓️ 2025-05-16
+| 🔥🔥: 150 \| 💬: [207](https://news.ycombinator.com/item?id=44005008) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -167,11 +167,23 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 
 ---
 
-## <a name="13"></a>13. Rust编译器错误信息的演进历程 
+## <a name="13"></a>13. 让AI写出优质SQL的技术解析 
+<small>🔗 [cloud.google.com](https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql): Getting AI to write good SQL</small>
+
+
+| 🔥🔥: 133 \| 💬: [66](https://news.ycombinator.com/item?id=44009848) \| 🗓️ 2025-05-16
+
+
+<br />
+谷歌推出的**Gemini模型**能将自然语言直接转换为SQL（即文本转SQL），显著提升开发者和分析师效率。该技术已集成至BigQuery、Cloud SQL等产品中，但面临三大挑战：**业务上下文理解**、**用户意图识别**和**SQL方言差异**。解决方案包括语义检索、LLM歧义消除、自一致性验证等。谷歌通过混合模型调优、上下文学习及持续评估优化效果，推动文本转SQL技术的实际应用。
+
+---
+
+## <a name="14"></a>14. Rust编译器错误信息的演进历程 
 <small>🔗 [kobzol.github.io](https://kobzol.github.io/rust/rustc/2025/05/16/evolution-of-rustc-errors.html): Evolution of Rust Compiler Errors</small>
 
 
-| 🔥🔥: 126 \| 💬: [28](https://news.ycombinator.com/item?id=44005195) \| 🗓️ 2025-05-16
+| 🔥🔥: 131 \| 💬: [29](https://news.ycombinator.com/item?id=44005195) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -179,7 +191,7 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 
 ---
 
-## <a name="14"></a>14. 洋葱域名与隐私泄露的困境 
+## <a name="15"></a>15. 洋葱域名与隐私泄露的困境 
 <small>🔗 [daniel.haxx.se](https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/): Leeks and Leaks</small>
 
 
@@ -191,23 +203,11 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 
 ---
 
-## <a name="15"></a>15. 苹果阻止《堡垒之夜》重返iOS应用商店，Epic称全球停服 
-<small>🔗 [macrumors.com](https://www.macrumors.com/2025/05/16/apple-blocks-fortnite-return-to-ios-app-store/): Apple Blocks Fortnite's Return to iOS App Store, Epic Claims</small>
-
-
-| 🔥🔥: 111 \| 💬: [100](https://news.ycombinator.com/item?id=44003590) \| 🗓️ 2025-05-16
-
-
-<br />
-Epic Games表示，**苹果公司**再次阻止了《堡垒之夜》回归iOS设备的申请，导致该游戏在全球范围内无法在iPhone和iPad上运行。Epic通过子公司Epic Games瑞典提交了游戏申请，但因苹果未回应审核而被迫撤回并重新提交。Epic CEO **Tim Sweeney**指责苹果拖延沟通，而苹果则依据此前诉讼结果有权永久封禁Epic账户。此次冲突源于2020年Epic绕过苹果支付系统引发的法律纠纷，近期欧盟区通过Epic Games Store短暂上架的版本也已下线。
-
----
-
 ## <a name="16"></a>16. 疫情初期平均工作日时长增加（2020年） 
 <small>🔗 [library.hbs.edu](https://www.library.hbs.edu/working-knowledge/you-re-right-you-are-working-longer-and-attending-more-meetings): The average workday increased during the pandemic’s early weeks (2020)</small>
 
 
-| 🔥🔥: 110 \| 💬: [107](https://news.ycombinator.com/item?id=44003449) \| 🗓️ 2025-05-16
+| 🔥🔥: 111 \| 💬: [107](https://news.ycombinator.com/item?id=44003449) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -215,15 +215,15 @@ Epic Games表示，**苹果公司**再次阻止了《堡垒之夜》回归iOS设
 
 ---
 
-## <a name="17"></a>17. 让AI写出优质SQL的技术解析 
-<small>🔗 [cloud.google.com](https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql): Getting AI to write good SQL</small>
+## <a name="17"></a>17. 苹果阻止《堡垒之夜》重返iOS应用商店，Epic称全球停服 
+<small>🔗 [macrumors.com](https://www.macrumors.com/2025/05/16/apple-blocks-fortnite-return-to-ios-app-store/): Apple Blocks Fortnite's Return to iOS App Store, Epic Claims</small>
 
 
-| 🔥🔥: 106 \| 💬: [35](https://news.ycombinator.com/item?id=44009848) \| 🗓️ 2025-05-16
+| 🔥🔥: 111 \| 💬: [102](https://news.ycombinator.com/item?id=44003590) \| 🗓️ 2025-05-16
 
 
 <br />
-谷歌推出的**Gemini模型**能将自然语言直接转换为SQL（即文本转SQL），显著提升开发者和分析师效率。该技术已集成至BigQuery、Cloud SQL等产品中，但面临三大挑战：**业务上下文理解**、**用户意图识别**和**SQL方言差异**。解决方案包括语义检索、LLM歧义消除、自一致性验证等。谷歌通过混合模型调优、上下文学习及持续评估优化效果，推动文本转SQL技术的实际应用。
+Epic Games表示，**苹果公司**再次阻止了《堡垒之夜》回归iOS设备的申请，导致该游戏在全球范围内无法在iPhone和iPad上运行。Epic通过子公司Epic Games瑞典提交了游戏申请，但因苹果未回应审核而被迫撤回并重新提交。Epic CEO **Tim Sweeney**指责苹果拖延沟通，而苹果则依据此前诉讼结果有权永久封禁Epic账户。此次冲突源于2020年Epic绕过苹果支付系统引发的法律纠纷，近期欧盟区通过Epic Games Store短暂上架的版本也已下线。
 
 ---
 
@@ -231,7 +231,7 @@ Epic Games表示，**苹果公司**再次阻止了《堡垒之夜》回归iOS设
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/16/science/space/ed-smylie-dead.html): Ed Smylie, Who Saved the Apollo 13 Crew with Duct Tape, Dies at 95</small>
 
 
-| 🔥: 95 \| 💬: [32](https://news.ycombinator.com/item?id=44005668) \| 🗓️ 2025-05-16
+| 🔥: 98 \| 💬: [32](https://news.ycombinator.com/item?id=44005668) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -243,7 +243,7 @@ NASA工程师**罗伯特·埃德·斯迈利**因领导团队用**纸板、塑料
 <small>🔗 [lesswrong.com](https://www.lesswrong.com/posts/YE4XsvSFJiZkWFtFE/explaining-british-naval-dominance-during-the-age-of-sail): British naval dominance during the age of sail</small>
 
 
-| 🔥: 88 \| 💬: [76](https://news.ycombinator.com/item?id=44005110) \| 🗓️ 2025-05-16
+| 🔥: 92 \| 💬: [77](https://news.ycombinator.com/item?id=44005110) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -255,7 +255,7 @@ NASA工程师**罗伯特·埃德·斯迈利**因领导团队用**纸板、塑料
 <small>🔗 [clojurescript.org](https://clojurescript.org/news/2025-05-16-release): ClojureScript 1.12.42</small>
 
 
-| 🔥: 81 \| 💬: [17](https://news.ycombinator.com/item?id=44009464) \| 🗓️ 2025-05-16
+| 🔥: 90 \| 💬: [17](https://news.ycombinator.com/item?id=44009464) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -271,7 +271,7 @@ ClojureScript 团队于2024年5月16日发布了 **1.12.42 版本**，主要包�
 <small>🔗 [github.com](https://github.com/pgjones/sql-tstring): Show HN: SQL-tString a t-string SQL builder in Python</small>
 
 
-| 🔥: 71 \| 💬: [30](https://news.ycombinator.com/item?id=44004827) \| 🗓️ 2025-05-16
+| 🔥: 72 \| 💬: [30](https://news.ycombinator.com/item?id=44004827) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -283,7 +283,7 @@ SQL-tString是一个基于**t-string语法**的Python SQL查询构建库，通�
 <small>🔗 [blog.fka.dev](https://blog.fka.dev/blog/2025-05-16-beyond-text-only-ai-on-demand-ui-generation-for-better-conversational-experiences/): Beyond Text: On-Demand UI Generation for Better Conversational Experiences</small>
 
 
-| 🔥: 69 \| 💬: [37](https://news.ycombinator.com/item?id=44003347) \| 🗓️ 2025-05-16
+| 🔥: 70 \| 💬: [37](https://news.ycombinator.com/item?id=44003347) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -307,7 +307,7 @@ SQL-tString是一个基于**t-string语法**的Python SQL查询构建库，通�
 <small>🔗 [github.com](https://github.com/A2-ai/rv): Show HN: Rv, a Package Manager for R</small>
 
 
-| 🔥: 61 \| 💬: [28](https://news.ycombinator.com/item?id=44006735) \| 🗓️ 2025-05-16
+| 🔥: 63 \| 💬: [28](https://news.ycombinator.com/item?id=44006735) \| 🗓️ 2025-05-16
 
 
 <br />
