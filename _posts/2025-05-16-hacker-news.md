@@ -12,11 +12,11 @@ tags:
 1. 用AI编程数月后，我决定重新启用大脑；
 1. 科研共享新平台：Sci-Net；
 1. Python无GIL版本的首年进展；
-1. Erlang版可视化流编程工具：受Node-RED启发的低代码开发平台；
+1. 关于思考的困境；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共22条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [virtualize.sh](https://virtualize.sh/blog/ground-control-to-major-trial/): Ground control to Major Trial</small>
 
 
-| 🔥🔥: 455 \| 💬: [176](https://news.ycombinator.com/item?id=44004388) \| 🗓️ 2025-05-16
+| 🔥🔥: 462 \| 💬: [177](https://news.ycombinator.com/item?id=44004388) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [albertofortin.com](https://albertofortin.com/writing/coding-with-ai): After months of coding with LLMs, I'm going back to using my brain</small>
 
 
-| 🔥🔥: 299 \| 💬: [195](https://news.ycombinator.com/item?id=44003700) \| 🗓️ 2025-05-16
+| 🔥🔥: 309 \| 💬: [197](https://news.ycombinator.com/item?id=44003700) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [sci-hub.se](https://sci-hub.se/sci-net): Sci-Net</small>
 
 
-| 🔥🔥: 250 \| 💬: [107](https://news.ycombinator.com/item?id=44004625) \| 🗓️ 2025-05-16
+| 🔥🔥: 251 \| 💬: [110](https://news.ycombinator.com/item?id=44004625) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -63,7 +63,7 @@ Sci-Net是一个新型社交化平台，旨在**请求和共享研究论文**。
 <small>🔗 [labs.quansight.org](https://labs.quansight.org/blog/free-threaded-one-year-recap): The first year of free-threaded Python</small>
 
 
-| 🔥🔥: 226 \| 💬: [196](https://news.ycombinator.com/item?id=44003445) \| 🗓️ 2025-05-16
+| 🔥🔥: 238 \| 💬: [224](https://news.ycombinator.com/item?id=44003445) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -71,47 +71,11 @@ Sci-Net是一个新型社交化平台，旨在**请求和共享研究论文**。
 
 ---
 
-## <a name="5"></a>5. Erlang版可视化流编程工具：受Node-RED启发的低代码开发平台 
-<small>🔗 [github.com](https://github.com/gorenje/erlang-red): Show HN: Visual flow-based programming for Erlang, inspired by Node-RED</small>
-
-
-| 🔥🔥: 181 \| 💬: [84](https://news.ycombinator.com/item?id=44006231) \| 🗓️ 2025-05-16
-
-
-<br />
-这是一个基于**Erlang**开发的**可视化流编程工具**，灵感来源于Node-RED，旨在通过低代码方式实现高效的并发处理。项目将Node-RED的易用性与Erlang的**多进程并发优势**结合，支持大部分基础节点功能（如HTTP请求、MQTT通信等），但暂不支持JavaScript函数节点。开发者可通过测试流验证功能兼容性，并提供了Docker部署方案。项目强调**视觉化单元测试**，并欢迎社区贡献Erlang或Elixir代码。
-
----
-
-## <a name="6"></a>6. 麻省理工要求arXiv撤下AI与科学发现的争议性预印本论文 
-<small>🔗 [economics.mit.edu](https://economics.mit.edu/news/assuring-accurate-research-record): MIT asks arXiv to take down preprint of paper on AI and scientific discovery</small>
-
-
-| 🔥🔥: 173 \| 💬: [87](https://news.ycombinator.com/item?id=44006426) \| 🗓️ 2025-05-16
-
-
-<br />
-2024年11月，一篇题为《人工智能、科学发现与产品创新》的预印本论文在arXiv发布后引发**研究诚信**质疑。麻省理工（MIT）经内部审查后，认定该论文**数据不可靠**且结论无效，遂要求arXiv及《经济学季刊》撤稿。MIT强调，尽管预印本未经同行评审，但因该研究已对学术讨论产生影响，撤稿是维护**学术记录准确性**的必要举措。论文作者已离开MIT，而两位署名致谢的教授公开声明对该研究“零信任”。MIT表示，此举基于其严格的研究诚信政策，但受隐私法规限制无法披露审查细节。
-
----
-
-## <a name="7"></a>7. Grok“白人种族灭绝”言论风波：xAI再曝员工擅自篡改代码 
-<small>🔗 [theverge.com](https://www.theverge.com/news/668220/grok-white-genocide-south-africa-xai-unauthorized-modification-employee): Grok's white genocide fixation caused by 'unauthorized modification'</small>
-
-
-| 🔥🔥: 169 \| 💬: [127](https://news.ycombinator.com/item?id=44004250) \| 🗓️ 2025-05-16
-
-
-<br />
-埃隆·马斯克旗下xAI的聊天机器人**Grok**因持续数小时向用户推送南非“白人种族灭绝”争议内容引发争议，公司称系**员工未经授权修改系统提示词**所致。此次事件中，Grok在无关话题（如猫咪视频、海绵宝宝提问）中强行插入该政治议题，甚至用方言详细分析。xAI表示已调查并加强管控，包括公开GitHub代码、组建24/7监控团队。**这已是第二次类似事件**，2月曾有前员工擅自屏蔽指控马斯克和特朗普的负面信息源。公司强调此类行为违反核心价值，将增设审查机制。
-
----
-
-## <a name="8"></a>8. 关于思考的困境 
+## <a name="5"></a>5. 关于思考的困境 
 <small>🔗 [dcurt.is](https://dcurt.is/thinking): Thoughts on thinking</small>
 
 
-| 🔥🔥: 168 \| 💬: [98](https://news.ycombinator.com/item?id=44008843) \| 🗓️ 2025-05-16
+| 🔥🔥: 233 \| 💬: [145](https://news.ycombinator.com/item?id=44008843) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -119,35 +83,47 @@ Sci-Net是一个新型社交化平台，旨在**请求和共享研究论文**。
 
 ---
 
-## <a name="9"></a>9. XXᵀ矩阵乘法新算法：速度更快 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2505.09814): X X^t can be faster</small>
+## <a name="6"></a>6. 麻省理工要求arXiv撤下AI与科学发现的争议性预印本论文 
+<small>🔗 [economics.mit.edu](https://economics.mit.edu/news/assuring-accurate-research-record): MIT asks arXiv to withdraw preprint of paper on AI and scientific discovery</small>
 
 
-| 🔥🔥: 139 \| 💬: [43](https://news.ycombinator.com/item?id=44006824) \| 🗓️ 2025-05-16
-
-
-<br />
-研究人员提出名为**RXTX**的新算法，用于计算矩阵与其转置的乘积（XXᵀ）。该算法比当前最优方法减少**5%**的乘加运算量，即使对小规模矩阵也能实现加速。其突破性在于结合了**机器学习搜索**与**组合优化**技术，通过自动化方法发现高效计算模式。论文已提交至arXiv（2025年5月），涉及数据结构、人工智能与符号计算等多领域交叉研究。
-
----
-
-## <a name="10"></a>10. Java三十周年：专访James Gosling 
-<small>🔗 [thenewstack.io](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/): Java at 30: Interview with James Gosling</small>
-
-
-| 🔥🔥: 124 \| 💬: [133](https://news.ycombinator.com/item?id=44005008) \| 🗓️ 2025-05-16
+| 🔥🔥: 209 \| 💬: [111](https://news.ycombinator.com/item?id=44006426) \| 🗓️ 2025-05-16
 
 
 <br />
-本文是一份订阅表单，邀请读者加入**The New Stack社区**，获取软件工程领域的最新资讯和独家内容。表单要求填写**姓名、公司、国家**等基本信息，并选择**职位、行业**等详细分类，以便定制个性化内容。此外，还强调了平台不会共享用户数据，并提供了重新订阅的选项。最后，欢迎用户加入并提示查收确认邮件以调整偏好。
+2024年11月，一篇题为《人工智能、科学发现与产品创新》的预印本论文在arXiv发布后引发**研究诚信**质疑。麻省理工（MIT）经内部审查后，认定该论文**数据不可靠**且结论无效，遂要求arXiv及《经济学季刊》撤稿。MIT强调，尽管预印本未经同行评审，但因该研究已对学术讨论产生影响，撤稿是维护**学术记录准确性**的必要举措。论文作者已离开MIT，而两位署名致谢的教授公开声明对该研究“零信任”。MIT表示，此举基于其严格的研究诚信政策，但受隐私法规限制无法披露审查细节。
 
 ---
 
-## <a name="11"></a>11. KVSplit：苹果芯片上实现2-3倍长上下文运行的优化方案 
+## <a name="7"></a>7. Erlang版可视化流编程工具：受Node-RED启发的低代码开发平台 
+<small>🔗 [github.com](https://github.com/gorenje/erlang-red): Show HN: Visual flow-based programming for Erlang, inspired by Node-RED</small>
+
+
+| 🔥🔥: 193 \| 💬: [84](https://news.ycombinator.com/item?id=44006231) \| 🗓️ 2025-05-16
+
+
+<br />
+这是一个基于**Erlang**开发的**可视化流编程工具**，灵感来源于Node-RED，旨在通过低代码方式实现高效的并发处理。项目将Node-RED的易用性与Erlang的**多进程并发优势**结合，支持大部分基础节点功能（如HTTP请求、MQTT通信等），但暂不支持JavaScript函数节点。开发者可通过测试流验证功能兼容性，并提供了Docker部署方案。项目强调**视觉化单元测试**，并欢迎社区贡献Erlang或Elixir代码。
+
+---
+
+## <a name="8"></a>8. Grok“白人种族灭绝”言论风波：xAI再曝员工擅自篡改代码 
+<small>🔗 [theverge.com](https://www.theverge.com/news/668220/grok-white-genocide-south-africa-xai-unauthorized-modification-employee): Grok's white genocide fixation caused by 'unauthorized modification'</small>
+
+
+| 🔥🔥: 179 \| 💬: [133](https://news.ycombinator.com/item?id=44004250) \| 🗓️ 2025-05-16
+
+
+<br />
+埃隆·马斯克旗下xAI的聊天机器人**Grok**因持续数小时向用户推送南非“白人种族灭绝”争议内容引发争议，公司称系**员工未经授权修改系统提示词**所致。此次事件中，Grok在无关话题（如猫咪视频、海绵宝宝提问）中强行插入该政治议题，甚至用方言详细分析。xAI表示已调查并加强管控，包括公开GitHub代码、组建24/7监控团队。**这已是第二次类似事件**，2月曾有前员工擅自屏蔽指控马斯克和特朗普的负面信息源。公司强调此类行为违反核心价值，将增设审查机制。
+
+---
+
+## <a name="9"></a>9. KVSplit：苹果芯片上实现2-3倍长上下文运行的优化方案 
 <small>🔗 [github.com](https://github.com/dipampaul17/KVSplit): Show HN: KVSplit – Run 2-3x longer contexts on Apple Silicon</small>
 
 
-| 🔥🔥: 121 \| 💬: [11](https://news.ycombinator.com/item?id=44009321) \| 🗓️ 2025-05-16
+| 🔥🔥: 168 \| 💬: [17](https://news.ycombinator.com/item?id=44009321) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -155,11 +131,47 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 
 ---
 
-## <a name="12"></a>12. Rust编译器错误信息的演进历程 
+## <a name="10"></a>10. 穆迪下调美国AAA信用评级 
+<small>🔗 [ft.com](https://www.ft.com/content/e456ea34-c6ad-43fe-abe9-d4ce781c07b4): Moody’s strips U.S. of triple-A credit rating</small>
+
+
+| 🔥🔥: 157 \| 💬: [82](https://news.ycombinator.com/item?id=44009999) \| 🗓️ 2025-05-16
+
+
+<br />
+国际评级机构**穆迪**宣布将美国的**最高信用评级**从AAA下调，反映出对美国财政状况和债务可持续性的担忧。此举可能影响全球金融市场对美国国债的信心。文中还提及了FT提供的相关政治经济分析订阅服务，但核心信息聚焦于评级下调及其潜在影响。
+
+---
+
+## <a name="11"></a>11. XXᵀ矩阵乘法新算法：速度更快 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2505.09814): X X^t can be faster</small>
+
+
+| 🔥🔥: 150 \| 💬: [45](https://news.ycombinator.com/item?id=44006824) \| 🗓️ 2025-05-16
+
+
+<br />
+研究人员提出名为**RXTX**的新算法，用于计算矩阵与其转置的乘积（XXᵀ）。该算法比当前最优方法减少**5%**的乘加运算量，即使对小规模矩阵也能实现加速。其突破性在于结合了**机器学习搜索**与**组合优化**技术，通过自动化方法发现高效计算模式。论文已提交至arXiv（2025年5月），涉及数据结构、人工智能与符号计算等多领域交叉研究。
+
+---
+
+## <a name="12"></a>12. Java三十周年：专访James Gosling 
+<small>🔗 [thenewstack.io](https://thenewstack.io/java-at-30-the-genius-behind-the-code-that-changed-tech/): Java at 30: Interview with James Gosling</small>
+
+
+| 🔥🔥: 144 \| 💬: [186](https://news.ycombinator.com/item?id=44005008) \| 🗓️ 2025-05-16
+
+
+<br />
+本文是一份订阅表单，邀请读者加入**The New Stack社区**，获取软件工程领域的最新资讯和独家内容。表单要求填写**姓名、公司、国家**等基本信息，并选择**职位、行业**等详细分类，以便定制个性化内容。此外，还强调了平台不会共享用户数据，并提供了重新订阅的选项。最后，欢迎用户加入并提示查收确认邮件以调整偏好。
+
+---
+
+## <a name="13"></a>13. Rust编译器错误信息的演进历程 
 <small>🔗 [kobzol.github.io](https://kobzol.github.io/rust/rustc/2025/05/16/evolution-of-rustc-errors.html): Evolution of Rust Compiler Errors</small>
 
 
-| 🔥🔥: 117 \| 💬: [27](https://news.ycombinator.com/item?id=44005195) \| 🗓️ 2025-05-16
+| 🔥🔥: 126 \| 💬: [28](https://news.ycombinator.com/item?id=44005195) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -167,7 +179,7 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 
 ---
 
-## <a name="13"></a>13. 洋葱域名与隐私泄露的困境 
+## <a name="14"></a>14. 洋葱域名与隐私泄露的困境 
 <small>🔗 [daniel.haxx.se](https://daniel.haxx.se/blog/2025/05/16/leeks-and-leaks/): Leeks and Leaks</small>
 
 
@@ -179,11 +191,11 @@ KVSplit 通过**差异化KV缓存量化**（8位键+4位值），在苹果M1/M2/
 
 ---
 
-## <a name="14"></a>14. 苹果阻止《堡垒之夜》重返iOS应用商店，Epic称全球停服 
+## <a name="15"></a>15. 苹果阻止《堡垒之夜》重返iOS应用商店，Epic称全球停服 
 <small>🔗 [macrumors.com](https://www.macrumors.com/2025/05/16/apple-blocks-fortnite-return-to-ios-app-store/): Apple Blocks Fortnite's Return to iOS App Store, Epic Claims</small>
 
 
-| 🔥🔥: 111 \| 💬: [95](https://news.ycombinator.com/item?id=44003590) \| 🗓️ 2025-05-16
+| 🔥🔥: 111 \| 💬: [100](https://news.ycombinator.com/item?id=44003590) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -191,7 +203,7 @@ Epic Games表示，**苹果公司**再次阻止了《堡垒之夜》回归iOS设
 
 ---
 
-## <a name="15"></a>15. 疫情初期平均工作日时长增加（2020年） 
+## <a name="16"></a>16. 疫情初期平均工作日时长增加（2020年） 
 <small>🔗 [library.hbs.edu](https://www.library.hbs.edu/working-knowledge/you-re-right-you-are-working-longer-and-attending-more-meetings): The average workday increased during the pandemic’s early weeks (2020)</small>
 
 
@@ -203,11 +215,23 @@ Epic Games表示，**苹果公司**再次阻止了《堡垒之夜》回归iOS设
 
 ---
 
-## <a name="16"></a>16. 用胶带拯救阿波罗13号的NASA工程师埃德·斯迈利逝世，享年95岁 
+## <a name="17"></a>17. 让AI写出优质SQL的技术解析 
+<small>🔗 [cloud.google.com](https://cloud.google.com/blog/products/databases/techniques-for-improving-text-to-sql): Getting AI to write good SQL</small>
+
+
+| 🔥🔥: 106 \| 💬: [35](https://news.ycombinator.com/item?id=44009848) \| 🗓️ 2025-05-16
+
+
+<br />
+谷歌推出的**Gemini模型**能将自然语言直接转换为SQL（即文本转SQL），显著提升开发者和分析师效率。该技术已集成至BigQuery、Cloud SQL等产品中，但面临三大挑战：**业务上下文理解**、**用户意图识别**和**SQL方言差异**。解决方案包括语义检索、LLM歧义消除、自一致性验证等。谷歌通过混合模型调优、上下文学习及持续评估优化效果，推动文本转SQL技术的实际应用。
+
+---
+
+## <a name="18"></a>18. 用胶带拯救阿波罗13号的NASA工程师埃德·斯迈利逝世，享年95岁 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/16/science/space/ed-smylie-dead.html): Ed Smylie, Who Saved the Apollo 13 Crew with Duct Tape, Dies at 95</small>
 
 
-| 🔥: 94 \| 💬: [32](https://news.ycombinator.com/item?id=44005668) \| 🗓️ 2025-05-16
+| 🔥: 95 \| 💬: [32](https://news.ycombinator.com/item?id=44005668) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -215,11 +239,11 @@ NASA工程师**罗伯特·埃德·斯迈利**因领导团队用**纸板、塑料
 
 ---
 
-## <a name="17"></a>17. 风帆时代英国海军为何所向披靡？ 
+## <a name="19"></a>19. 风帆时代英国海军为何所向披靡？ 
 <small>🔗 [lesswrong.com](https://www.lesswrong.com/posts/YE4XsvSFJiZkWFtFE/explaining-british-naval-dominance-during-the-age-of-sail): British naval dominance during the age of sail</small>
 
 
-| 🔥: 85 \| 💬: [70](https://news.ycombinator.com/item?id=44005110) \| 🗓️ 2025-05-16
+| 🔥: 88 \| 💬: [76](https://news.ycombinator.com/item?id=44005110) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -227,35 +251,27 @@ NASA工程师**罗伯特·埃德·斯迈利**因领导团队用**纸板、塑料
 
 ---
 
-## <a name="18"></a>18. 青少年的问题不在手机，而在家庭 
-<small>🔗 [grimoiremanor.substack.com](https://grimoiremanor.substack.com/p/the-problem-with-teens-isnt-smartphones): The Problem with Teens Isn't Smartphones–It's Their Families</small>
+## <a name="20"></a>20. ClojureScript 1.12.42 版本发布 
+<small>🔗 [clojurescript.org](https://clojurescript.org/news/2025-05-16-release): ClojureScript 1.12.42</small>
 
 
-| 🔥: 69 \| 💬: [61](https://news.ycombinator.com/item?id=44003885) \| 🗓️ 2025-05-16
-
-
-<br />
-最新数据表明，美国青少年心理健康危机被夸大，**自杀率最高的是中年白人男性和年轻美洲原住民男性**，而非少女群体。研究指出，**家庭环境**（如虐待、父母心理健康问题）对青少年心理的影响远超社交媒体。CDC数据显示，家庭不良事件与抑郁、自杀倾向的关联性极强（相关系数达0.5以上），而社交媒体的影响微乎其微。然而，这一明显结论被忽视，因指责家庭问题“不够吸引”，父母更愿归咎于技术。
-
----
-
-## <a name="19"></a>19. 超越文本：按需生成UI以提升对话体验 
-<small>🔗 [blog.fka.dev](https://blog.fka.dev/blog/2025-05-16-beyond-text-only-ai-on-demand-ui-generation-for-better-conversational-experiences/): Beyond Text: On-Demand UI Generation for Better Conversational Experiences</small>
-
-
-| 🔥: 67 \| 💬: [37](https://news.ycombinator.com/item?id=44003347) \| 🗓️ 2025-05-16
+| 🔥: 81 \| 💬: [17](https://news.ycombinator.com/item?id=44009464) \| 🗓️ 2025-05-16
 
 
 <br />
-当前AI交互主要依赖纯文本，存在**认知负荷高**、输入效率低等问题。本文提出让**大语言模型动态生成UI组件**（如表单、按钮、图表），在对话中即时渲染结构化界面。例如物流客服场景中，AI能自动生成地址修改表单，替代繁琐的逐项文本问答。该方案结合**MCP服务**，通过JSON定义组件，实现自然语言与可视化交互的无缝融合，显著提升用户体验与任务效率。
+ClojureScript 团队于2024年5月16日发布了 **1.12.42 版本**，主要包含两项重要依赖变更：  
+1. **Google Closure Compiler 升级至 v20250402**，需 **Java 21** 支持；  
+2. 改用 **Clojure 分叉维护的 Google Closure Library**，以恢复稳定性和兼容性。  
+
+此次更新修复了旧版库的兼容性问题，强化了 ClojureScript 在多种 JavaScript 环境（如 DOM 操作、国际化等）中的一站式解决方案能力。团队强调其工具链的可靠性，并鼓励用户尝试。
 
 ---
 
-## <a name="20"></a>20. Python版SQL防注入查询构建工具：SQL-tString 
+## <a name="21"></a>21. Python版SQL防注入查询构建工具：SQL-tString 
 <small>🔗 [github.com](https://github.com/pgjones/sql-tstring): Show HN: SQL-tString a t-string SQL builder in Python</small>
 
 
-| 🔥: 66 \| 💬: [30](https://news.ycombinator.com/item?id=44004827) \| 🗓️ 2025-05-16
+| 🔥: 71 \| 💬: [30](https://news.ycombinator.com/item?id=44004827) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -263,11 +279,35 @@ SQL-tString是一个基于**t-string语法**的Python SQL查询构建库，通�
 
 ---
 
-## <a name="21"></a>21. Rv：一款面向R语言的现代化包管理工具 
+## <a name="22"></a>22. 超越文本：按需生成UI以提升对话体验 
+<small>🔗 [blog.fka.dev](https://blog.fka.dev/blog/2025-05-16-beyond-text-only-ai-on-demand-ui-generation-for-better-conversational-experiences/): Beyond Text: On-Demand UI Generation for Better Conversational Experiences</small>
+
+
+| 🔥: 69 \| 💬: [37](https://news.ycombinator.com/item?id=44003347) \| 🗓️ 2025-05-16
+
+
+<br />
+当前AI交互主要依赖纯文本，存在**认知负荷高**、输入效率低等问题。本文提出让**大语言模型动态生成UI组件**（如表单、按钮、图表），在对话中即时渲染结构化界面。例如物流客服场景中，AI能自动生成地址修改表单，替代繁琐的逐项文本问答。该方案结合**MCP服务**，通过JSON定义组件，实现自然语言与可视化交互的无缝融合，显著提升用户体验与任务效率。
+
+---
+
+## <a name="23"></a>23. 青少年的问题不在手机，而在家庭 
+<small>🔗 [grimoiremanor.substack.com](https://grimoiremanor.substack.com/p/the-problem-with-teens-isnt-smartphones): The Problem with Teens Isn't Smartphones–It's Their Families</small>
+
+
+| 🔥: 69 \| 💬: [63](https://news.ycombinator.com/item?id=44003885) \| 🗓️ 2025-05-16
+
+
+<br />
+最新数据表明，美国青少年心理健康危机被夸大，**自杀率最高的是中年白人男性和年轻美洲原住民男性**，而非少女群体。研究指出，**家庭环境**（如虐待、父母心理健康问题）对青少年心理的影响远超社交媒体。CDC数据显示，家庭不良事件与抑郁、自杀倾向的关联性极强（相关系数达0.5以上），而社交媒体的影响微乎其微。然而，这一明显结论被忽视，因指责家庭问题“不够吸引”，父母更愿归咎于技术。
+
+---
+
+## <a name="24"></a>24. Rv：一款面向R语言的现代化包管理工具 
 <small>🔗 [github.com](https://github.com/A2-ai/rv): Show HN: Rv, a Package Manager for R</small>
 
 
-| 🔥: 58 \| 💬: [26](https://news.ycombinator.com/item?id=44006735) \| 🗓️ 2025-05-16
+| 🔥: 61 \| 💬: [28](https://news.ycombinator.com/item?id=44006735) \| 🗓️ 2025-05-16
 
 
 <br />
@@ -275,7 +315,7 @@ Rv是一个用于**R语言**的包管理器，旨在以**可重复、快速且�
 
 ---
 
-## <a name="22"></a>22. Let's Encrypt将因Chrome CA政策变更取消SMTP服务器认证支持 
+## <a name="25"></a>25. Let's Encrypt将因Chrome CA政策变更取消SMTP服务器认证支持 
 <small>🔗 [social.wildeboer.net](https://social.wildeboer.net/@jwildeboer/114516238307785904): Letsencrypt will kill SMTP server auth following Chrome CA policy change</small>
 
 
