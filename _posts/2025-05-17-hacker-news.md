@@ -27,7 +27,7 @@ tags:
 <small>🔗 [matklad.github.io](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html): Push Ifs Up and Fors Down</small>
 
 
-| 🔥🔥: 349 \| 💬: [133](https://news.ycombinator.com/item?id=44013157) \| 🗓️ 2025-05-17
+| 🔥🔥: 358 \| 💬: [134](https://news.ycombinator.com/item?id=44013157) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [techradar.com](https://www.techradar.com/vpn/vpn-privacy-security/we-would-be-less-confidential-than-google-proton-threatens-to-quit-switzerland-over-new-surveillance-law): Proton threatens to quit Switzerland over new surveillance law</small>
 
 
-| 🔥🔥: 219 \| 💬: [128](https://news.ycombinator.com/item?id=44014808) \| 🗓️ 2025-05-17
+| 🔥🔥: 244 \| 💬: [136](https://news.ycombinator.com/item?id=44014808) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [30fps.net](https://30fps.net/pages/palette-lighting-tricks-n64/): Palette lighting tricks on the Nintendo 64</small>
 
 
-| 🔥🔥: 177 \| 💬: [30](https://news.ycombinator.com/item?id=44014587) \| 🗓️ 2025-05-17
+| 🔥🔥: 177 \| 💬: [34](https://news.ycombinator.com/item?id=44014587) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [mastdatabase.co.uk](https://mastdatabase.co.uk/blog/2025/05/o2-expose-customer-location-call-4g/): O2 VoLTE: locating any customer with a phone call</small>
 
 
-| 🔥🔥: 161 \| 💬: [37](https://news.ycombinator.com/item?id=44014046) \| 🗓️ 2025-05-17
+| 🔥🔥: 171 \| 💬: [40](https://news.ycombinator.com/item?id=44014046) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [johncarlosbaez.wordpress.com](https://johncarlosbaez.wordpress.com/2025/05/17/dead-stars-dont-radiate-and-shrink/): Dead Stars Don't Radiate</small>
 
 
-| 🔥🔥: 149 \| 💬: [67](https://news.ycombinator.com/item?id=44015872) \| 🗓️ 2025-05-17
+| 🔥🔥: 160 \| 💬: [70](https://news.ycombinator.com/item?id=44015872) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [engineering.fb.com](https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/): Pyrefly: A new type checker and IDE experience for Python</small>
 
 
-| 🔥🔥: 144 \| 💬: [103](https://news.ycombinator.com/item?id=44013913) \| 🗓️ 2025-05-17
+| 🔥🔥: 151 \| 💬: [106](https://news.ycombinator.com/item?id=44013913) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -99,7 +99,7 @@ Meta团队推出开源工具**Pyrefly**，这是一个用Rust编写的Python静�
 <small>🔗 [tadaima.bearblog.dev](https://tadaima.bearblog.dev/if-nothing-is-curated-how-do-we-find-things/): If nothing is curated, how do we find things</small>
 
 
-| 🔥🔥: 132 \| 💬: [92](https://news.ycombinator.com/item?id=44015144) \| 🗓️ 2025-05-17
+| 🔥🔥: 151 \| 💬: [107](https://news.ycombinator.com/item?id=44015144) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -113,7 +113,7 @@ Meta团队推出开源工具**Pyrefly**，这是一个用Rust编写的Python静�
 <small>🔗 [suberic.net](https://suberic.net/~dmm/projects/mystical/README.html): Mystical</small>
 
 
-| 🔥🔥: 129 \| 💬: [11](https://news.ycombinator.com/item?id=44016037) \| 🗓️ 2025-05-17
+| 🔥🔥: 145 \| 💬: [15](https://news.ycombinator.com/item?id=44016037) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -125,7 +125,7 @@ Meta团队推出开源工具**Pyrefly**，这是一个用Rust编写的Python静�
 <small>🔗 [webkit.org](https://webkit.org/blog/16929/contrast-color/): How to have the browser pick a contrasting color in CSS</small>
 
 
-| 🔥🔥: 127 \| 💬: [48](https://news.ycombinator.com/item?id=44015367) \| 🗓️ 2025-05-17
+| 🔥🔥: 137 \| 💬: [48](https://news.ycombinator.com/item?id=44015367) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -137,7 +137,7 @@ CSS新特性`contrast-color()`可自动根据背景色选择**黑色或白色文
 <small>🔗 [new.knife.day](https://new.knife.day/blog/knife-steel-comparisons/all): Show HN: I built a knife steel comparison tool</small>
 
 
-| 🔥: 90 \| 💬: [64](https://news.ycombinator.com/item?id=44015649) \| 🗓️ 2025-05-17
+| 🔥: 92 \| 💬: [65](https://news.ycombinator.com/item?id=44015649) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -145,11 +145,23 @@ CSS新特性`contrast-color()`可自动根据背景色选择**黑色或白色文
 
 ---
 
-## <a name="11"></a>11. 世界上最长的火车之旅：史诗级路线，却无人完成 
+## <a name="11"></a>11. AI说服力超越人类：前沿研究揭示大语言模型优势 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2505.09662): LLMs are more persuasive than incentivized human persuaders</small>
+
+
+| 🔥: 92 \| 💬: [71](https://news.ycombinator.com/item?id=44016621) \| 🗓️ 2025-05-17
+
+
+<br />
+一项预注册大规模实验表明，**Claude Sonnet 3.5**等大语言模型在实时对话测试中，无论是引导参与者选择正确答案（提升收益）还是错误答案（降低收益），其**说服成功率均显著高于受金钱激励的人类说服者**。研究强调，AI已具备超越人类的说服能力，突显了对齐与治理框架的紧迫性。
+
+---
+
+## <a name="12"></a>12. 世界上最长的火车之旅：史诗级路线，却无人完成 
 <small>🔗 [bigthink.com](https://bigthink.com/strange-maps/portugal-to-singapore-train/): The longest train journey is epic – but nobody's ever taken it</small>
 
 
-| 🔥: 86 \| 💬: [32](https://news.ycombinator.com/item?id=44015657) \| 🗓️ 2025-05-17
+| 🔥: 87 \| 💬: [35](https://news.ycombinator.com/item?id=44015657) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -157,7 +169,7 @@ CSS新特性`contrast-color()`可自动根据背景色选择**黑色或白色文
 
 ---
 
-## <a name="12"></a>12. 计算几何领域的开放性问题 
+## <a name="13"></a>13. 计算几何领域的开放性问题 
 <small>🔗 [topp.openproblem.net](https://topp.openproblem.net/): Open Problems in Computational geometry</small>
 
 
@@ -169,7 +181,19 @@ CSS新特性`contrast-color()`可自动根据背景色选择**黑色或白色文
 
 ---
 
-## <a name="13"></a>13. 日本森林再生技术落地墨西哥 
+## <a name="14"></a>14. MCP服务器目录：一站式优质服务器资源库 
+<small>🔗 [github.com](https://github.com/chatmcp/mcpso): Directory of MCP Servers</small>
+
+
+| 🔥: 83 \| 💬: [26](https://news.ycombinator.com/item?id=44016336) \| 🗓️ 2025-05-17
+
+
+<br />
+这是一个专注于**MCP服务器**的目录项目，提供实时预览网站[mcp.so](https://mcp.so)。项目包含**Supabase数据库支持**和快速启动指南，需配置环境变量并安装依赖。社区资源涵盖Telegram群组、Discord和Twitter。作者为idoubi，项目获1.1k星标，采用**Apache-2.0许可证**。适合开发者快速部署本地预览或贡献代码。
+
+---
+
+## <a name="15"></a>15. 日本森林再生技术落地墨西哥 
 <small>🔗 [english.elpais.com](https://english.elpais.com/climate/2025-05-17/miyawaki-in-nezahualcoyotl-the-japanese-method-of-creating-forests-comes-to-mexico.html): The Japanese method of creating forests comes to Mexico</small>
 
 
@@ -181,39 +205,15 @@ CSS新特性`contrast-color()`可自动根据背景色选择**黑色或白色文
 
 ---
 
-## <a name="14"></a>14. AI说服力超越人类：前沿研究揭示大语言模型优势 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2505.09662): LLMs are more persuasive than incentivized human persuaders</small>
-
-
-| 🔥: 80 \| 💬: [61](https://news.ycombinator.com/item?id=44016621) \| 🗓️ 2025-05-17
-
-
-<br />
-一项预注册大规模实验表明，**Claude Sonnet 3.5**等大语言模型在实时对话测试中，无论是引导参与者选择正确答案（提升收益）还是错误答案（降低收益），其**说服成功率均显著高于受金钱激励的人类说服者**。研究强调，AI已具备超越人类的说服能力，突显了对齐与治理框架的紧迫性。
-
----
-
-## <a name="15"></a>15. Wacom数位板曾暗中记录用户打开的所有应用名称 
+## <a name="16"></a>16. Wacom数位板曾暗中记录用户打开的所有应用名称 
 <small>🔗 [robertheaton.com](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/): Wacom drawing tablets track the name of every application you open (2020)</small>
 
 
-| 🔥: 77 \| 💬: [36](https://news.ycombinator.com/item?id=44016530) \| 🗓️ 2025-05-17
+| 🔥: 82 \| 💬: [40](https://news.ycombinator.com/item?id=44016530) \| 🗓️ 2025-05-17
 
 
 <br />
 作者发现**Wacom数位板驱动程序**会通过Google Analytics收集用户数据，包括**每次打开的应用程序名称**、时间戳和设备信息。尽管隐私政策声称仅收集"聚合数据"，但实际行为远超披露范围。通过Burp Suite抓包验证后，作者指出这种监控既无必要也涉嫌侵犯隐私，建议用户关闭"Wacom体验计划"。值得注意的是，在文章完成前该追踪行为突然停止，但厂商未作说明。核心矛盾在于：**基础输入设备不应具备网络通信功能**，更无权记录敏感操作日志。
-
----
-
-## <a name="16"></a>16. MCP服务器目录：一站式优质服务器资源库 
-<small>🔗 [github.com](https://github.com/chatmcp/mcpso): Directory of MCP Servers</small>
-
-
-| 🔥: 68 \| 💬: [19](https://news.ycombinator.com/item?id=44016336) \| 🗓️ 2025-05-17
-
-
-<br />
-这是一个专注于**MCP服务器**的目录项目，提供实时预览网站[mcp.so](https://mcp.so)。项目包含**Supabase数据库支持**和快速启动指南，需配置环境变量并安装依赖。社区资源涵盖Telegram群组、Discord和Twitter。作者为idoubi，项目获1.1k星标，采用**Apache-2.0许可证**。适合开发者快速部署本地预览或贡献代码。
 
 ---
 
@@ -229,11 +229,23 @@ CSS新特性`contrast-color()`可自动根据背景色选择**黑色或白色文
 
 ---
 
-## <a name="18"></a>18. OBNC：Oberon-07语言编译器 
+## <a name="18"></a>18. 联邦政府全面终止哈佛大学资助 
+<small>🔗 [arstechnica.com](https://arstechnica.com/science/2025/05/feds-continue-effort-to-defund-research-at-harvard/): Federal agencies continue terminating all funding to Harvard</small>
+
+
+| 🔥: 63 \| 💬: [47](https://news.ycombinator.com/item?id=44017740) \| 🗓️ 2025-05-17
+
+
+<br />
+美国联邦政府联合反犹太主义工作组宣布终止对哈佛大学**4.5亿美元**研究拨款，涉及8个机构。此前**22亿美元**资助已被取消，且哈佛将无法获得未来联邦资金。政府指控哈佛未能解决校园**反犹太主义**问题，并批评其《法律评论》的多元化政策构成歧视。多部门致函强调哈佛整改不力，校方已起诉联邦政府。国家卫生研究院明确表示"无法恢复资助"，最终影响或导致哈佛彻底失去联邦科研支持。
+
+---
+
+## <a name="19"></a>19. OBNC：Oberon-07语言编译器 
 <small>🔗 [miasap.se](https://miasap.se/obnc/): OBNC – Oberon-07 Compiler</small>
 
 
-| 🔥: 62 \| 💬: [16](https://news.ycombinator.com/item?id=44013671) \| 🗓️ 2025-05-17
+| 🔥: 62 \| 💬: [19](https://news.ycombinator.com/item?id=44013671) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -245,7 +257,7 @@ OBNC是一款用于编译Niklaus Wirth设计的**Oberon-07**语言的工具，�
 
 ---
 
-## <a name="19"></a>19. 你并不需要在桌面端使用NixOS 
+## <a name="20"></a>20. 你并不需要在桌面端使用NixOS 
 <small>🔗 [aruarian.dance](https://aruarian.dance/blog/you-do-not-need-nixos/): You do not need NixOS on the desktop</small>
 
 
@@ -257,11 +269,23 @@ OBNC是一款用于编译Niklaus Wirth设计的**Oberon-07**语言的工具，�
 
 ---
 
-## <a name="20"></a>20. 汉莎航空副驾驶晕厥 客机自动驾驶10分钟 
+## <a name="21"></a>21. 失落的Macintosh Plus日文ROM之谜 
+<small>🔗 [journaldulapin.com](https://www.journaldulapin.com/2025/05/17/the-lost-japanese-rom-of-the-macintosh-plus-which-isnt-lost-anymore/): The Lost Japanese ROM of the Macintosh Plus</small>
+
+
+| 🔥: 55 \| 💬: [15](https://news.ycombinator.com/item?id=44017692) \| 🗓️ 2025-05-17
+
+
+<br />
+一位比利时研究者发现并保存了**Macintosh Plus**罕见的**256KB日文ROM**，该版本内置汉字字体，可加速系统启动并节省内存。此前，这一ROM的存在仅存于苹果零星文档中，甚至被部分爱好者质疑。通过逆向工程和硬件调试，研究者证实其功能：**日文ROM**省去了加载12点字体的步骤，启动时间比美版缩短15秒，并释放113KB内存。最终，该ROM的兼容性通过修改MAME模拟器得以实现，填补了早期Mac历史的空白。
+
+---
+
+## <a name="22"></a>22. 汉莎航空副驾驶晕厥 客机自动驾驶10分钟 
 <small>🔗 [scmp.com](https://www.scmp.com/news/world/europe/article/3310779/lufthansa-plane-flown-autopilot-after-pilot-faints-cockpit): Lufthansa plane flown by autopilot after pilot faints in cockpit</small>
 
 
-| 🔥: 49 \| 💬: [42](https://news.ycombinator.com/item?id=44016030) \| 🗓️ 2025-05-17
+| 🔥: 50 \| 💬: [42](https://news.ycombinator.com/item?id=44016030) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -269,11 +293,11 @@ OBNC是一款用于编译Niklaus Wirth设计的**Oberon-07**语言的工具，�
 
 ---
 
-## <a name="21"></a>21. MinorMiner：将孩子的数学作业变成比特币 
+## <a name="23"></a>23. MinorMiner：将孩子的数学作业变成比特币 
 <small>🔗 [robertheaton.com](https://robertheaton.com/minor-miner/): MinorMiner: We turn your kid's maths homework into Bitcoin</small>
 
 
-| 🔥: 47 \| 💬: [10](https://news.ycombinator.com/item?id=44013387) \| 🗓️ 2025-05-17
+| 🔥: 48 \| 💬: [10](https://news.ycombinator.com/item?id=44013387) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -283,11 +307,11 @@ MinorMiner是一个创新平台，**利用学生的数学作业计算能力来�
 
 ---
 
-## <a name="22"></a>22. MIT人工智能材料研究论文被曝造假 
+## <a name="24"></a>24. MIT人工智能材料研究论文被曝造假 
 <small>🔗 [thebsdetector.substack.com](https://thebsdetector.substack.com/p/ai-materials-and-fraud-oh-my): MIT paper on AI for materials research found to be fraudulent</small>
 
 
-| 🔥: 45 \| 💬: [8](https://news.ycombinator.com/item?id=44013266) \| 🗓️ 2025-05-17
+| 🔥: 47 \| 💬: [8](https://news.ycombinator.com/item?id=44013266) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -295,7 +319,7 @@ MinorMiner是一个创新平台，**利用学生的数学作业计算能力来�
 
 ---
 
-## <a name="23"></a>23. 谷歌让步：恢复Nextcloud安卓应用关键权限 
+## <a name="25"></a>25. 谷歌让步：恢复Nextcloud安卓应用关键权限 
 <small>🔗 [neowin.net](https://www.neowin.net/news/google-reverses-course-after-blocking-nextcloud-files-app/): Google reverses course after blocking Nextcloud Files app</small>
 
 
@@ -304,29 +328,5 @@ MinorMiner是一个创新平台，**利用学生的数学作业计算能力来�
 
 <br />
 谷歌在撤销**Nextcloud Files**应用的**“所有文件访问”权限**后引发争议，被指滥用市场权力。该权限自2016年启用，但谷歌以**“安全担忧”**为由拒绝2024年9月的更新，建议改用其他API。Nextcloud公开指责谷歌行为涉嫌垄断，并援引欧盟对苹果和Meta的罚款案例。数日后谷歌妥协，同意恢复权限。Nextcloud预计很快发布功能完整的更新版应用，但谷歌未回应最初撤销权限的具体原因。
-
----
-
-## <a name="24"></a>24. 能量饮料成分牛磺酸或加剧血癌与结肠癌风险 
-<small>🔗 [thenightly.com.au](https://thenightly.com.au/society/health/doctors-issue-urgent-warning-over-cancer-causing-energy-drink-ingredient-taurine-c-18699404): Energy drinks linked to rise in colorectal and blood cancer</small>
-
-
-| 🔥: 36 \| 💬: [26](https://news.ycombinator.com/item?id=44014862) \| 🗓️ 2025-05-17
-
-
-<br />
-纽约大学研究发现，**牛磺酸**（常见于红牛等能量饮料）可能通过**糖酵解**过程为白血病细胞供能，加速其增殖。实验显示，携带SLC6A6基因的癌细胞会主动摄取牛磺酸，恶化骨髓病变。此外，牛磺酸或与年轻群体结肠癌发病率上升相关，目前佛罗里达大学正开展临床试验验证。专家建议癌症患者慎用含牛磺酸补剂，需进一步评估其风险与收益。
-
----
-
-## <a name="25"></a>25. 对《对MCP的批判性审视》的批判性审视 
-<small>🔗 [docs.mcp.run](https://docs.mcp.run/blog/2025/05/16/mcp-implenda-est/): A Critical Look at "A Critical Look at MCP."</small>
-
-
-| 🔥: 33 \| 💬: [13](https://news.ycombinator.com/item?id=44012933) \| 🗓️ 2025-05-17
-
-
-<br />
-作者在支持完mcp.run的HTTP流传输后，对MCP协议的价值与问题展开讨论。**MCP的核心优势**在于通过标准化工具调用（如OAuth 2.0集成）让LLM从“内容生成器”升级为能影响现实的代理。但协议存在隐患：**混合服务器连接**可能导致安全漏洞，而**多租户支持**使工具列表动态变化，威胁系统提示的稳定性。此外，**资源管理**和服务器推送事件等高级功能因实现成本高面临淘汰风险。mcp.run通过集中配置和加密存储试图解决部分问题，但协议的未来取决于开发者如何平衡功能与安全性。
 
 ---
