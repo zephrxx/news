@@ -10,9 +10,9 @@ tags:
 
 1. 将条件判断上移，循环下移；
 1. Proton威胁退出瑞士：新监控法案将破坏用户隐私；
-1. O2 VoLTE漏洞：一通电话即可定位任何用户；
 1. 神秘编程语言：用魔法阵书写PostScript；
-1. N64调色板光照技巧解析；
+1. O2 VoLTE漏洞：一通电话即可定位任何用户；
+1. 如果无人筛选信息，我们如何找到所需？；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [matklad.github.io](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html): Push Ifs Up and Fors Down</small>
 
 
-| 🔥🔥: 391 \| 💬: [150](https://news.ycombinator.com/item?id=44013157) \| 🗓️ 2025-05-17
+| 🔥🔥: 407 \| 💬: [152](https://news.ycombinator.com/item?id=44013157) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [techradar.com](https://www.techradar.com/vpn/vpn-privacy-security/we-would-be-less-confidential-than-google-proton-threatens-to-quit-switzerland-over-new-surveillance-law): Proton threatens to quit Switzerland over new surveillance law</small>
 
 
-| 🔥🔥: 314 \| 💬: [157](https://news.ycombinator.com/item?id=44014808) \| 🗓️ 2025-05-17
+| 🔥🔥: 335 \| 💬: [161](https://news.ycombinator.com/item?id=44014808) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -47,23 +47,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. O2 VoLTE漏洞：一通电话即可定位任何用户 
-<small>🔗 [mastdatabase.co.uk](https://mastdatabase.co.uk/blog/2025/05/o2-expose-customer-location-call-4g/): O2 VoLTE: locating any customer with a phone call</small>
-
-
-| 🔥🔥: 190 \| 💬: [41](https://news.ycombinator.com/item?id=44014046) \| 🗓️ 2025-05-17
-
-
-<br />
-英国运营商O2的**VoLTE（4G语音）服务**存在严重隐私漏洞，通话时会将双方的**IMSI（国际移动用户识别码）**、**IMEI（设备识别码）**及**基站位置信息**通过IMS信令泄露给呼叫方。攻击者利用公开的基站地图数据（如Cellmapper）可精确定位用户，城市环境中误差甚至小于100米。该漏洞自2025年3月曝光后，O2未回应修复请求，用户无法通过关闭4G通话功能避免风险。作者呼吁运营商移除敏感信令头并建立安全披露渠道。
-
----
-
-## <a name="4"></a>4. 神秘编程语言：用魔法阵书写PostScript 
+## <a name="3"></a>3. 神秘编程语言：用魔法阵书写PostScript 
 <small>🔗 [suberic.net](https://suberic.net/~dmm/projects/mystical/README.html): Mystical</small>
 
 
-| 🔥🔥: 186 \| 💬: [21](https://news.ycombinator.com/item?id=44016037) \| 🗓️ 2025-05-17
+| 🔥🔥: 206 \| 💬: [22](https://news.ycombinator.com/item?id=44016037) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -71,35 +59,23 @@ tags:
 
 ---
 
-## <a name="5"></a>5. N64调色板光照技巧解析 
-<small>🔗 [30fps.net](https://30fps.net/pages/palette-lighting-tricks-n64/): Palette lighting tricks on the Nintendo 64</small>
+## <a name="4"></a>4. O2 VoLTE漏洞：一通电话即可定位任何用户 
+<small>🔗 [mastdatabase.co.uk](https://mastdatabase.co.uk/blog/2025/05/o2-expose-customer-location-call-4g/): O2 VoLTE: locating any customer with a phone call</small>
 
 
-| 🔥🔥: 183 \| 💬: [39](https://news.ycombinator.com/item?id=44014587) \| 🗓️ 2025-05-17
-
-
-<br />
-本文介绍了在**Nintendo 64**上实现**调色板空间着色**的创新技术。作者通过动态更新调色板而非逐像素计算，显著提升了光照渲染效率，并实现了**法线贴图**和实时高光效果。尽管存在光照不连续、仅支持灰度纹理等局限，但结合预烘焙的环境光与方向光，最终在自制Demo中呈现了令人惊艳的视觉效果。技术核心包括**共享漫反射与法线调色板**、基于球体近似的高光模拟，以及手动分组的类切线空间优化。
-
----
-
-## <a name="6"></a>6. 死星不会辐射霍金辐射 
-<small>🔗 [johncarlosbaez.wordpress.com](https://johncarlosbaez.wordpress.com/2025/05/17/dead-stars-dont-radiate-and-shrink/): Dead Stars Don’t Radiate</small>
-
-
-| 🔥🔥: 179 \| 💬: [87](https://news.ycombinator.com/item?id=44015872) \| 🗓️ 2025-05-17
+| 🔥🔥: 199 \| 💬: [41](https://news.ycombinator.com/item?id=44014046) \| 🗓️ 2025-05-17
 
 
 <br />
-近期有三位物理学家提出**任何大质量物体都会发射霍金辐射**，包括死亡后的冷恒星，并声称宇宙会因此更快消亡。然而，这一观点与已知的**量子场论**和**广义相对论**相矛盾，且已被专家反驳。研究表明，静态引力场不会产生粒子-反粒子对，这一结论早在1975年就已确立。尽管相关论文发表在知名期刊，但因其近似计算存在缺陷，未获学界认可。部分科学媒体未核实便夸大报道，误导公众。权威文献和教科书（如Wald的著作）明确指出，**静态时空中的真空是稳定的**，不会自发衰变。
+英国运营商O2的**VoLTE（4G语音）服务**存在严重隐私漏洞，通话时会将双方的**IMSI（国际移动用户识别码）**、**IMEI（设备识别码）**及**基站位置信息**通过IMS信令泄露给呼叫方。攻击者利用公开的基站地图数据（如Cellmapper）可精确定位用户，城市环境中误差甚至小于100米。该漏洞自2025年3月曝光后，O2未回应修复请求，用户无法通过关闭4G通话功能避免风险。作者呼吁运营商移除敏感信令头并建立安全披露渠道。
 
 ---
 
-## <a name="7"></a>7. 如果无人筛选信息，我们如何找到所需？ 
+## <a name="5"></a>5. 如果无人筛选信息，我们如何找到所需？ 
 <small>🔗 [tadaima.bearblog.dev](https://tadaima.bearblog.dev/if-nothing-is-curated-how-do-we-find-things/): If nothing is curated, how do we find things</small>
 
 
-| 🔥🔥: 177 \| 💬: [123](https://news.ycombinator.com/item?id=44015144) \| 🗓️ 2025-05-17
+| 🔥🔥: 188 \| 💬: [127](https://news.ycombinator.com/item?id=44015144) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -109,11 +85,35 @@ tags:
 
 ---
 
+## <a name="6"></a>6. N64调色板光照技巧解析 
+<small>🔗 [30fps.net](https://30fps.net/pages/palette-lighting-tricks-n64/): Palette lighting tricks on the Nintendo 64</small>
+
+
+| 🔥🔥: 185 \| 💬: [39](https://news.ycombinator.com/item?id=44014587) \| 🗓️ 2025-05-17
+
+
+<br />
+本文介绍了在**Nintendo 64**上实现**调色板空间着色**的创新技术。作者通过动态更新调色板而非逐像素计算，显著提升了光照渲染效率，并实现了**法线贴图**和实时高光效果。尽管存在光照不连续、仅支持灰度纹理等局限，但结合预烘焙的环境光与方向光，最终在自制Demo中呈现了令人惊艳的视觉效果。技术核心包括**共享漫反射与法线调色板**、基于球体近似的高光模拟，以及手动分组的类切线空间优化。
+
+---
+
+## <a name="7"></a>7. 死星不会辐射霍金辐射 
+<small>🔗 [johncarlosbaez.wordpress.com](https://johncarlosbaez.wordpress.com/2025/05/17/dead-stars-dont-radiate-and-shrink/): Dead Stars Don’t Radiate</small>
+
+
+| 🔥🔥: 182 \| 💬: [88](https://news.ycombinator.com/item?id=44015872) \| 🗓️ 2025-05-17
+
+
+<br />
+近期有三位物理学家提出**任何大质量物体都会发射霍金辐射**，包括死亡后的冷恒星，并声称宇宙会因此更快消亡。然而，这一观点与已知的**量子场论**和**广义相对论**相矛盾，且已被专家反驳。研究表明，静态引力场不会产生粒子-反粒子对，这一结论早在1975年就已确立。尽管相关论文发表在知名期刊，但因其近似计算存在缺陷，未获学界认可。部分科学媒体未核实便夸大报道，误导公众。权威文献和教科书（如Wald的著作）明确指出，**静态时空中的真空是稳定的**，不会自发衰变。
+
+---
+
 ## <a name="8"></a>8. Pyrefly：Python 新型类型检查器与IDE体验革新 
 <small>🔗 [engineering.fb.com](https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/): Pyrefly: A new type checker and IDE experience for Python</small>
 
 
-| 🔥🔥: 166 \| 💬: [112](https://news.ycombinator.com/item?id=44013913) \| 🗓️ 2025-05-17
+| 🔥🔥: 173 \| 💬: [113](https://news.ycombinator.com/item?id=44013913) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -125,7 +125,7 @@ Meta团队推出开源工具**Pyrefly**，这是一个用Rust编写的Python静�
 <small>🔗 [webkit.org](https://webkit.org/blog/16929/contrast-color/): How to have the browser pick a contrasting color in CSS</small>
 
 
-| 🔥🔥: 159 \| 💬: [57](https://news.ycombinator.com/item?id=44015367) \| 🗓️ 2025-05-17
+| 🔥🔥: 167 \| 💬: [59](https://news.ycombinator.com/item?id=44015367) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -133,35 +133,11 @@ CSS新特性`contrast-color()`可自动根据背景色选择**黑色或白色文
 
 ---
 
-## <a name="10"></a>10. 失落的Macintosh Plus日文ROM之谜 
-<small>🔗 [journaldulapin.com](https://www.journaldulapin.com/2025/05/17/the-lost-japanese-rom-of-the-macintosh-plus-which-isnt-lost-anymore/): The Lost Japanese ROM of the Macintosh Plus</small>
-
-
-| 🔥🔥: 111 \| 💬: [30](https://news.ycombinator.com/item?id=44017692) \| 🗓️ 2025-05-17
-
-
-<br />
-一位比利时研究者发现并保存了**Macintosh Plus**罕见的**256KB日文ROM**，该版本内置汉字字体，可加速系统启动并节省内存。此前，这一ROM的存在仅存于苹果零星文档中，甚至被部分爱好者质疑。通过逆向工程和硬件调试，研究者证实其功能：**日文ROM**省去了加载12点字体的步骤，启动时间比美版缩短15秒，并释放113KB内存。最终，该ROM的兼容性通过修改MAME模拟器得以实现，填补了早期Mac历史的空白。
-
----
-
-## <a name="11"></a>11. AI说服力超越人类：前沿研究揭示大语言模型优势 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2505.09662): LLMs are more persuasive than incentivized human persuaders</small>
-
-
-| 🔥🔥: 110 \| 💬: [92](https://news.ycombinator.com/item?id=44016621) \| 🗓️ 2025-05-17
-
-
-<br />
-一项预注册大规模实验表明，**Claude Sonnet 3.5**等大语言模型在实时对话测试中，无论是引导参与者选择正确答案（提升收益）还是错误答案（降低收益），其**说服成功率均显著高于受金钱激励的人类说服者**。研究强调，AI已具备超越人类的说服能力，突显了对齐与治理框架的紧迫性。
-
----
-
-## <a name="12"></a>12. MCP服务器目录：一站式优质服务器资源库 
+## <a name="10"></a>10. MCP服务器目录：一站式优质服务器资源库 
 <small>🔗 [github.com](https://github.com/chatmcp/mcpso): Directory of MCP Servers</small>
 
 
-| 🔥🔥: 107 \| 💬: [36](https://news.ycombinator.com/item?id=44016336) \| 🗓️ 2025-05-17
+| 🔥🔥: 118 \| 💬: [37](https://news.ycombinator.com/item?id=44016336) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -169,11 +145,35 @@ CSS新特性`contrast-color()`可自动根据背景色选择**黑色或白色文
 
 ---
 
+## <a name="11"></a>11. 失落的Macintosh Plus日文ROM之谜 
+<small>🔗 [journaldulapin.com](https://www.journaldulapin.com/2025/05/17/the-lost-japanese-rom-of-the-macintosh-plus-which-isnt-lost-anymore/): The Lost Japanese ROM of the Macintosh Plus</small>
+
+
+| 🔥🔥: 118 \| 💬: [35](https://news.ycombinator.com/item?id=44017692) \| 🗓️ 2025-05-17
+
+
+<br />
+一位比利时研究者发现并保存了**Macintosh Plus**罕见的**256KB日文ROM**，该版本内置汉字字体，可加速系统启动并节省内存。此前，这一ROM的存在仅存于苹果零星文档中，甚至被部分爱好者质疑。通过逆向工程和硬件调试，研究者证实其功能：**日文ROM**省去了加载12点字体的步骤，启动时间比美版缩短15秒，并释放113KB内存。最终，该ROM的兼容性通过修改MAME模拟器得以实现，填补了早期Mac历史的空白。
+
+---
+
+## <a name="12"></a>12. AI说服力超越人类：前沿研究揭示大语言模型优势 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2505.09662): LLMs are more persuasive than incentivized human persuaders</small>
+
+
+| 🔥🔥: 111 \| 💬: [92](https://news.ycombinator.com/item?id=44016621) \| 🗓️ 2025-05-17
+
+
+<br />
+一项预注册大规模实验表明，**Claude Sonnet 3.5**等大语言模型在实时对话测试中，无论是引导参与者选择正确答案（提升收益）还是错误答案（降低收益），其**说服成功率均显著高于受金钱激励的人类说服者**。研究强调，AI已具备超越人类的说服能力，突显了对齐与治理框架的紧迫性。
+
+---
+
 ## <a name="13"></a>13. 我开发了一款刀具钢材对比工具 
 <small>🔗 [new.knife.day](https://new.knife.day/blog/knife-steel-comparisons/all): Show HN: I built a knife steel comparison tool</small>
 
 
-| 🔥🔥: 105 \| 💬: [72](https://news.ycombinator.com/item?id=44015649) \| 🗓️ 2025-05-17
+| 🔥🔥: 107 \| 💬: [72](https://news.ycombinator.com/item?id=44015649) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -185,7 +185,7 @@ CSS新特性`contrast-color()`可自动根据背景色选择**黑色或白色文
 <small>🔗 [mesoscalenews.com](https://www.mesoscalenews.com/p/tornado-warnings-delayed-because): Tornado warnings delayed because of DOGE cuts</small>
 
 
-| 🔥🔥: 105 \| 💬: [24](https://news.ycombinator.com/item?id=44018247) \| 🗓️ 2025-05-17
+| 🔥🔥: 106 \| 💬: [24](https://news.ycombinator.com/item?id=44018247) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -193,7 +193,31 @@ CSS新特性`contrast-color()`可自动根据背景色选择**黑色或白色文
 
 ---
 
-## <a name="15"></a>15. 世界上最长的火车之旅：史诗级路线，却无人完成 
+## <a name="15"></a>15. B站开源动画神器AniSora：一键生成多风格动漫视频 
+<small>🔗 [komiko.app](https://komiko.app/video/AniSora): AniSora: Open-source anime video generation model</small>
+
+
+| 🔥🔥: 104 \| 💬: [28](https://news.ycombinator.com/item?id=44017913) \| 🗓️ 2025-05-17
+
+
+<br />
+**AniSora**是哔哩哔哩推出的**最强开源动画生成模型**，支持从静态图一键生成番剧、国漫、漫画改编、VTuber等多样风格视频。基于IJCAI'25研究，该模型专注**动漫美学**，提供高清流畅的动画效果，用户只需上传图片并输入提示词即可创作。其特点包括**开源协作**、专业动画适配及简易操作界面，适用于PV制作、漫画动效等场景，为创作者提供高效AI工具。
+
+---
+
+## <a name="16"></a>16. Wacom数位板曾暗中记录用户打开的所有应用名称 
+<small>🔗 [robertheaton.com](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/): Wacom drawing tablets track the name of every application you open (2020)</small>
+
+
+| 🔥: 92 \| 💬: [42](https://news.ycombinator.com/item?id=44016530) \| 🗓️ 2025-05-17
+
+
+<br />
+作者发现**Wacom数位板驱动程序**会通过Google Analytics收集用户数据，包括**每次打开的应用程序名称**、时间戳和设备信息。尽管隐私政策声称仅收集"聚合数据"，但实际行为远超披露范围。通过Burp Suite抓包验证后，作者指出这种监控既无必要也涉嫌侵犯隐私，建议用户关闭"Wacom体验计划"。值得注意的是，在文章完成前该追踪行为突然停止，但厂商未作说明。核心矛盾在于：**基础输入设备不应具备网络通信功能**，更无权记录敏感操作日志。
+
+---
+
+## <a name="17"></a>17. 世界上最长的火车之旅：史诗级路线，却无人完成 
 <small>🔗 [bigthink.com](https://bigthink.com/strange-maps/portugal-to-singapore-train/): The longest train journey is epic – but nobody's ever taken it</small>
 
 
@@ -205,19 +229,7 @@ CSS新特性`contrast-color()`可自动根据背景色选择**黑色或白色文
 
 ---
 
-## <a name="16"></a>16. Wacom数位板曾暗中记录用户打开的所有应用名称 
-<small>🔗 [robertheaton.com](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/): Wacom drawing tablets track the name of every application you open (2020)</small>
-
-
-| 🔥: 91 \| 💬: [42](https://news.ycombinator.com/item?id=44016530) \| 🗓️ 2025-05-17
-
-
-<br />
-作者发现**Wacom数位板驱动程序**会通过Google Analytics收集用户数据，包括**每次打开的应用程序名称**、时间戳和设备信息。尽管隐私政策声称仅收集"聚合数据"，但实际行为远超披露范围。通过Burp Suite抓包验证后，作者指出这种监控既无必要也涉嫌侵犯隐私，建议用户关闭"Wacom体验计划"。值得注意的是，在文章完成前该追踪行为突然停止，但厂商未作说明。核心矛盾在于：**基础输入设备不应具备网络通信功能**，更无权记录敏感操作日志。
-
----
-
-## <a name="17"></a>17. 计算几何领域的开放性问题 
+## <a name="18"></a>18. 计算几何领域的开放性问题 
 <small>🔗 [topp.openproblem.net](https://topp.openproblem.net/): Open Problems in Computational geometry</small>
 
 
@@ -229,7 +241,7 @@ CSS新特性`contrast-color()`可自动根据背景色选择**黑色或白色文
 
 ---
 
-## <a name="18"></a>18. 日本森林再生技术落地墨西哥 
+## <a name="19"></a>19. 日本森林再生技术落地墨西哥 
 <small>🔗 [english.elpais.com](https://english.elpais.com/climate/2025-05-17/miyawaki-in-nezahualcoyotl-the-japanese-method-of-creating-forests-comes-to-mexico.html): The Japanese method of creating forests comes to Mexico</small>
 
 
@@ -241,23 +253,11 @@ CSS新特性`contrast-color()`可自动根据背景色选择**黑色或白色文
 
 ---
 
-## <a name="19"></a>19. B站开源动画神器AniSora：一键生成多风格动漫视频 
-<small>🔗 [komiko.app](https://komiko.app/video/AniSora): AniSora: Open-source anime video generation model</small>
-
-
-| 🔥: 82 \| 💬: [20](https://news.ycombinator.com/item?id=44017913) \| 🗓️ 2025-05-17
-
-
-<br />
-**AniSora**是哔哩哔哩推出的**最强开源动画生成模型**，支持从静态图一键生成番剧、国漫、漫画改编、VTuber等多样风格视频。基于IJCAI'25研究，该模型专注**动漫美学**，提供高清流畅的动画效果，用户只需上传图片并输入提示词即可创作。其特点包括**开源协作**、专业动画适配及简易操作界面，适用于PV制作、漫画动效等场景，为创作者提供高效AI工具。
-
----
-
 ## <a name="20"></a>20. 联邦政府全面终止哈佛大学资助 
 <small>🔗 [arstechnica.com](https://arstechnica.com/science/2025/05/feds-continue-effort-to-defund-research-at-harvard/): Federal agencies continue terminating all funding to Harvard</small>
 
 
-| 🔥: 78 \| 💬: [79](https://news.ycombinator.com/item?id=44017740) \| 🗓️ 2025-05-17
+| 🔥: 82 \| 💬: [85](https://news.ycombinator.com/item?id=44017740) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -265,7 +265,19 @@ CSS新特性`contrast-color()`可自动根据背景色选择**黑色或白色文
 
 ---
 
-## <a name="21"></a>21. Transformer神经网络仅通过示例学习运行《生命游戏》 
+## <a name="21"></a>21. 通过N-gram统计理解Transformer模型 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2407.12034): Understanding Transformers via N-gram Statistics</small>
+
+
+| 🔥: 71 \| 💬: [1](https://news.ycombinator.com/item?id=44016564) \| 🗓️ 2025-05-17
+
+
+<br />
+这篇论文探讨了如何利用**N-gram统计规则**解析Transformer模型的预测机制。研究发现，通过分析训练数据中的N-gram模式，可以量化模型从简单到复杂规则的学习过程，并提出了一种无需验证集即可检测过拟合的方法。实验表明，在TinyStories和Wikipedia数据集上，Transformer的top-1预测分别有79%和68%与N-gram规则集一致，揭示了**统计规则**对模型行为的显著影响。研究还开源了相关数据集和统计工具。
+
+---
+
+## <a name="22"></a>22. Transformer神经网络仅通过示例学习运行《生命游戏》 
 <small>🔗 [sidsite.com](https://sidsite.com/posts/life-transformer/): Transformer neural net learns to run Conway's Game of Life just from examples</small>
 
 
@@ -277,11 +289,11 @@ CSS新特性`contrast-color()`可自动根据背景色选择**黑色或白色文
 
 ---
 
-## <a name="22"></a>22. beta.weather.gov 测试版网站暂停服务 
+## <a name="23"></a>23. beta.weather.gov 测试版网站暂停服务 
 <small>🔗 [beta.weather.gov](https://beta.weather.gov/): Beta.weather.gov</small>
 
 
-| 🔥: 66 \| 💬: [20](https://news.ycombinator.com/item?id=44018282) \| 🗓️ 2025-05-17
+| 🔥: 66 \| 💬: [21](https://news.ycombinator.com/item?id=44018282) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -289,19 +301,23 @@ CSS新特性`contrast-color()`可自动根据背景色选择**黑色或白色文
 
 ---
 
-## <a name="23"></a>23. 通过N-gram统计理解Transformer模型 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2407.12034): Understanding Transformers via N-gram Statistics</small>
+## <a name="24"></a>24. FreeBASIC：一款跨平台的开源BASIC编译器 
+<small>🔗 [freebasic.net](https://freebasic.net/): FreeBASIC is a free/open source BASIC compiler for Windows DOS and Linux</small>
 
 
-| 🔥: 64 \| 💬: [0](https://news.ycombinator.com/item?id=44016564) \| 🗓️ 2025-05-17
+| 🔥: 64 \| 💬: [16](https://news.ycombinator.com/item?id=44017592) \| 🗓️ 2025-05-17
 
 
 <br />
-这篇论文探讨了如何利用**N-gram统计规则**解析Transformer模型的预测机制。研究发现，通过分析训练数据中的N-gram模式，可以量化模型从简单到复杂规则的学习过程，并提出了一种无需验证集即可检测过拟合的方法。实验表明，在TinyStories和Wikipedia数据集上，Transformer的top-1预测分别有79%和68%与N-gram规则集一致，揭示了**统计规则**对模型行为的显著影响。研究还开源了相关数据集和统计工具。
+FreeBASIC是一款基于**GPL协议**的免费开源BASIC编译器，支持Windows、DOS和Linux平台。它兼容Microsoft QuickBASIC，在“QB”模式下可直接运行多数QuickBASIC程序，默认模式则需调整代码。  
+
+该编译器采用**GNU工具链**作为后端，能生成控制台、GUI程序及动态/静态库，并支持**C/C++库**调用，具备预处理和多范式编程能力（过程式、面向对象、元编程）。其性能接近主流工具（如GCC），且提供对Allegro、SDL等第三方库的绑定。  
+
+FreeBASIC最初旨在复刻QuickBASIC，现已发展为功能强大的开发工具，扩展了数据类型、语法和跨平台支持，适用于各类应用开发。
 
 ---
 
-## <a name="24"></a>24. OBNC：Oberon-07语言编译器 
+## <a name="25"></a>25. OBNC：Oberon-07语言编译器 
 <small>🔗 [miasap.se](https://miasap.se/obnc/): OBNC – Oberon-07 Compiler</small>
 
 
@@ -314,17 +330,5 @@ OBNC是一款用于编译Niklaus Wirth设计的**Oberon-07**语言的工具，�
 该工具包包含编译器、构建工具、文档生成器及基础库（含扩展模块），支持POSIX系统（需Boehm垃圾回收器），Windows用户可下载预编译版本。注意：0.17版与旧版输出不兼容，需重新编译模块。  
 
 附赠Gedit/Pluma文本编辑器的语法高亮和大小写转换插件，并提供详细文档及社区支持渠道。
-
----
-
-## <a name="25"></a>25. 你并不需要在桌面端使用NixOS 
-<small>🔗 [aruarian.dance](https://aruarian.dance/blog/you-do-not-need-nixos/): You do not need NixOS on the desktop</small>
-
-
-| 🔥: 60 \| 💬: [86](https://news.ycombinator.com/item?id=44012915) \| 🗓️ 2025-05-17
-
-
-<br />
-作者分享了自己从Manjaro转向**NixOS**一年的体验，最终选择回归基于Fedora Silverblue的发行版。NixOS虽以**可复现系统**和声明式配置为卖点，但实际使用中面临文档匮乏、错误信息晦涩、开发环境配置繁琐等问题。尤其当需要为不同项目维护`flake.nix`文件时，反而增加了复杂性。相比之下，**不可变系统**（如Silverblue）通过Flatpak、Distrobox等工具实现了类似目标，同时更贴近普通用户"开箱即用"的需求。作者认为NixOS更适合服务器场景，而桌面端应优先考虑易用性而非绝对可控性。
 
 ---
