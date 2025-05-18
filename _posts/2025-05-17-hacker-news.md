@@ -27,7 +27,7 @@ tags:
 <small>🔗 [matklad.github.io](https://matklad.github.io/2023/11/15/push-ifs-up-and-fors-down.html): Push Ifs Up and Fors Down</small>
 
 
-| 🔥🔥: 358 \| 💬: [134](https://news.ycombinator.com/item?id=44013157) \| 🗓️ 2025-05-17
+| 🔥🔥: 367 \| 💬: [141](https://news.ycombinator.com/item?id=44013157) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [techradar.com](https://www.techradar.com/vpn/vpn-privacy-security/we-would-be-less-confidential-than-google-proton-threatens-to-quit-switzerland-over-new-surveillance-law): Proton threatens to quit Switzerland over new surveillance law</small>
 
 
-| 🔥🔥: 244 \| 💬: [136](https://news.ycombinator.com/item?id=44014808) \| 🗓️ 2025-05-17
+| 🔥🔥: 264 \| 💬: [145](https://news.ycombinator.com/item?id=44014808) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [30fps.net](https://30fps.net/pages/palette-lighting-tricks-n64/): Palette lighting tricks on the Nintendo 64</small>
 
 
-| 🔥🔥: 177 \| 💬: [34](https://news.ycombinator.com/item?id=44014587) \| 🗓️ 2025-05-17
+| 🔥🔥: 180 \| 💬: [37](https://news.ycombinator.com/item?id=44014587) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [mastdatabase.co.uk](https://mastdatabase.co.uk/blog/2025/05/o2-expose-customer-location-call-4g/): O2 VoLTE: locating any customer with a phone call</small>
 
 
-| 🔥🔥: 171 \| 💬: [40](https://news.ycombinator.com/item?id=44014046) \| 🗓️ 2025-05-17
+| 🔥🔥: 178 \| 💬: [41](https://news.ycombinator.com/item?id=44014046) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -72,10 +72,10 @@ tags:
 ---
 
 ## <a name="5"></a>5. 死星不会辐射霍金辐射 
-<small>🔗 [johncarlosbaez.wordpress.com](https://johncarlosbaez.wordpress.com/2025/05/17/dead-stars-dont-radiate-and-shrink/): Dead Stars Don't Radiate</small>
+<small>🔗 [johncarlosbaez.wordpress.com](https://johncarlosbaez.wordpress.com/2025/05/17/dead-stars-dont-radiate-and-shrink/): Dead Stars Don’t Radiate</small>
 
 
-| 🔥🔥: 160 \| 💬: [70](https://news.ycombinator.com/item?id=44015872) \| 🗓️ 2025-05-17
+| 🔥🔥: 169 \| 💬: [73](https://news.ycombinator.com/item?id=44015872) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [engineering.fb.com](https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/): Pyrefly: A new type checker and IDE experience for Python</small>
 
 
-| 🔥🔥: 151 \| 💬: [106](https://news.ycombinator.com/item?id=44013913) \| 🗓️ 2025-05-17
+| 🔥🔥: 161 \| 💬: [108](https://news.ycombinator.com/item?id=44013913) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -99,7 +99,7 @@ Meta团队推出开源工具**Pyrefly**，这是一个用Rust编写的Python静�
 <small>🔗 [tadaima.bearblog.dev](https://tadaima.bearblog.dev/if-nothing-is-curated-how-do-we-find-things/): If nothing is curated, how do we find things</small>
 
 
-| 🔥🔥: 151 \| 💬: [107](https://news.ycombinator.com/item?id=44015144) \| 🗓️ 2025-05-17
+| 🔥🔥: 158 \| 💬: [113](https://news.ycombinator.com/item?id=44015144) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -113,7 +113,7 @@ Meta团队推出开源工具**Pyrefly**，这是一个用Rust编写的Python静�
 <small>🔗 [suberic.net](https://suberic.net/~dmm/projects/mystical/README.html): Mystical</small>
 
 
-| 🔥🔥: 145 \| 💬: [15](https://news.ycombinator.com/item?id=44016037) \| 🗓️ 2025-05-17
+| 🔥🔥: 154 \| 💬: [19](https://news.ycombinator.com/item?id=44016037) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -125,7 +125,7 @@ Meta团队推出开源工具**Pyrefly**，这是一个用Rust编写的Python静�
 <small>🔗 [webkit.org](https://webkit.org/blog/16929/contrast-color/): How to have the browser pick a contrasting color in CSS</small>
 
 
-| 🔥🔥: 137 \| 💬: [48](https://news.ycombinator.com/item?id=44015367) \| 🗓️ 2025-05-17
+| 🔥🔥: 142 \| 💬: [51](https://news.ycombinator.com/item?id=44015367) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -133,23 +133,11 @@ CSS新特性`contrast-color()`可自动根据背景色选择**黑色或白色文
 
 ---
 
-## <a name="10"></a>10. 我开发了一款刀具钢材对比工具 
-<small>🔗 [new.knife.day](https://new.knife.day/blog/knife-steel-comparisons/all): Show HN: I built a knife steel comparison tool</small>
-
-
-| 🔥: 92 \| 💬: [65](https://news.ycombinator.com/item?id=44015649) \| 🗓️ 2025-05-17
-
-
-<br />
-这款工具允许用户**对比最多5种钢材的性能**，涵盖**耐腐蚀性**、**韧性**、**刀刃保持性**和**易磨性**等关键指标（1-10分制）。目前收录了150种钢材的详细对比数据，其中147种包含可视化图表，例如1095 vs 5160、CPM S30V vs D2等常见组合。适合刀具爱好者或专业人士快速评估不同钢材的优劣。
-
----
-
-## <a name="11"></a>11. AI说服力超越人类：前沿研究揭示大语言模型优势 
+## <a name="10"></a>10. AI说服力超越人类：前沿研究揭示大语言模型优势 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2505.09662): LLMs are more persuasive than incentivized human persuaders</small>
 
 
-| 🔥: 92 \| 💬: [71](https://news.ycombinator.com/item?id=44016621) \| 🗓️ 2025-05-17
+| 🔥🔥: 104 \| 💬: [77](https://news.ycombinator.com/item?id=44016621) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -157,11 +145,35 @@ CSS新特性`contrast-color()`可自动根据背景色选择**黑色或白色文
 
 ---
 
-## <a name="12"></a>12. 世界上最长的火车之旅：史诗级路线，却无人完成 
+## <a name="11"></a>11. 我开发了一款刀具钢材对比工具 
+<small>🔗 [new.knife.day](https://new.knife.day/blog/knife-steel-comparisons/all): Show HN: I built a knife steel comparison tool</small>
+
+
+| 🔥: 97 \| 💬: [67](https://news.ycombinator.com/item?id=44015649) \| 🗓️ 2025-05-17
+
+
+<br />
+这款工具允许用户**对比最多5种钢材的性能**，涵盖**耐腐蚀性**、**韧性**、**刀刃保持性**和**易磨性**等关键指标（1-10分制）。目前收录了150种钢材的详细对比数据，其中147种包含可视化图表，例如1095 vs 5160、CPM S30V vs D2等常见组合。适合刀具爱好者或专业人士快速评估不同钢材的优劣。
+
+---
+
+## <a name="12"></a>12. 龙卷风预警因预算削减延误酿悲剧 
+<small>🔗 [mesoscalenews.com](https://www.mesoscalenews.com/p/tornado-warnings-delayed-because): Tornado warnings delayed because of DOGE cuts</small>
+
+
+| 🔥: 89 \| 💬: [19](https://news.ycombinator.com/item?id=44018247) \| 🗓️ 2025-05-17
+
+
+<br />
+美国国家气象局因**DOGE预算削减**被迫缩减部分办公室的24小时运营，导致肯塔基州杰克逊办公室夜间预报员职位被裁。5月17日凌晨，密苏里州和肯塔基州遭遇龙卷风袭击，**预警延迟**造成至少27人死亡。此前专家已警告此类风险，而《纽约时报》在灾难前一天揭露DOGE裁员正削弱气象服务能力。随着飓风季临近，**公共安全漏洞**引发强烈质疑。
+
+---
+
+## <a name="13"></a>13. 世界上最长的火车之旅：史诗级路线，却无人完成 
 <small>🔗 [bigthink.com](https://bigthink.com/strange-maps/portugal-to-singapore-train/): The longest train journey is epic – but nobody's ever taken it</small>
 
 
-| 🔥: 87 \| 💬: [35](https://news.ycombinator.com/item?id=44015657) \| 🗓️ 2025-05-17
+| 🔥: 88 \| 💬: [36](https://news.ycombinator.com/item?id=44015657) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -169,23 +181,11 @@ CSS新特性`contrast-color()`可自动根据背景色选择**黑色或白色文
 
 ---
 
-## <a name="13"></a>13. 计算几何领域的开放性问题 
-<small>🔗 [topp.openproblem.net](https://topp.openproblem.net/): Open Problems in Computational geometry</small>
-
-
-| 🔥: 84 \| 💬: [12](https://news.ycombinator.com/item?id=44013181) \| 🗓️ 2025-05-17
-
-
-<br />
-该项目由Erik D. Demaine等人编辑，旨在收录**计算几何**及相关领域的重要未解决问题。最初发布于2001年，包含30个问题，后扩展至75个以上。虽然不再接受新问题提交，但鼓励对现有问题的更新（尤其是已解决或部分解决的问题）。每个问题按**唯一编号**和**分类**（如凸包、数据结构、图绘制等）整理，涵盖**几何图论**、**机器人路径规划**、**多面体展开**等方向。问题列表可通过PDF或Github仓库获取，部分经典问题包括动态凸包计算（Problem 12）、最小欧氏生成树（Problem 5）等。
-
----
-
 ## <a name="14"></a>14. MCP服务器目录：一站式优质服务器资源库 
 <small>🔗 [github.com](https://github.com/chatmcp/mcpso): Directory of MCP Servers</small>
 
 
-| 🔥: 83 \| 💬: [26](https://news.ycombinator.com/item?id=44016336) \| 🗓️ 2025-05-17
+| 🔥: 88 \| 💬: [29](https://news.ycombinator.com/item?id=44016336) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -193,11 +193,23 @@ CSS新特性`contrast-color()`可自动根据背景色选择**黑色或白色文
 
 ---
 
-## <a name="15"></a>15. 日本森林再生技术落地墨西哥 
+## <a name="15"></a>15. 计算几何领域的开放性问题 
+<small>🔗 [topp.openproblem.net](https://topp.openproblem.net/): Open Problems in Computational geometry</small>
+
+
+| 🔥: 86 \| 💬: [12](https://news.ycombinator.com/item?id=44013181) \| 🗓️ 2025-05-17
+
+
+<br />
+该项目由Erik D. Demaine等人编辑，旨在收录**计算几何**及相关领域的重要未解决问题。最初发布于2001年，包含30个问题，后扩展至75个以上。虽然不再接受新问题提交，但鼓励对现有问题的更新（尤其是已解决或部分解决的问题）。每个问题按**唯一编号**和**分类**（如凸包、数据结构、图绘制等）整理，涵盖**几何图论**、**机器人路径规划**、**多面体展开**等方向。问题列表可通过PDF或Github仓库获取，部分经典问题包括动态凸包计算（Problem 12）、最小欧氏生成树（Problem 5）等。
+
+---
+
+## <a name="16"></a>16. 日本森林再生技术落地墨西哥 
 <small>🔗 [english.elpais.com](https://english.elpais.com/climate/2025-05-17/miyawaki-in-nezahualcoyotl-the-japanese-method-of-creating-forests-comes-to-mexico.html): The Japanese method of creating forests comes to Mexico</small>
 
 
-| 🔥: 82 \| 💬: [3](https://news.ycombinator.com/item?id=44013933) \| 🗓️ 2025-05-17
+| 🔥: 84 \| 💬: [3](https://news.ycombinator.com/item?id=44013933) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -205,11 +217,11 @@ CSS新特性`contrast-color()`可自动根据背景色选择**黑色或白色文
 
 ---
 
-## <a name="16"></a>16. Wacom数位板曾暗中记录用户打开的所有应用名称 
+## <a name="17"></a>17. Wacom数位板曾暗中记录用户打开的所有应用名称 
 <small>🔗 [robertheaton.com](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/): Wacom drawing tablets track the name of every application you open (2020)</small>
 
 
-| 🔥: 82 \| 💬: [40](https://news.ycombinator.com/item?id=44016530) \| 🗓️ 2025-05-17
+| 🔥: 84 \| 💬: [41](https://news.ycombinator.com/item?id=44016530) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -217,23 +229,23 @@ CSS新特性`contrast-color()`可自动根据背景色选择**黑色或白色文
 
 ---
 
-## <a name="17"></a>17. Transformer神经网络仅通过示例学习运行《生命游戏》 
-<small>🔗 [sidsite.com](https://sidsite.com/posts/life-transformer/): Transformer neural net learns to run Conway's Game of Life just from examples</small>
+## <a name="18"></a>18. 失落的Macintosh Plus日文ROM之谜 
+<small>🔗 [journaldulapin.com](https://www.journaldulapin.com/2025/05/17/the-lost-japanese-rom-of-the-macintosh-plus-which-isnt-lost-anymore/): The Lost Japanese ROM of the Macintosh Plus</small>
 
 
-| 🔥: 65 \| 💬: [32](https://news.ycombinator.com/item?id=44013154) \| 🗓️ 2025-05-17
+| 🔥: 78 \| 💬: [17](https://news.ycombinator.com/item?id=44017692) \| 🗓️ 2025-05-17
 
 
 <br />
-研究发现，一个高度简化的**Transformer神经网络**仅通过训练《生命游戏》的示例，就能完美模拟该游戏。模型结构显示，它并非基于统计预测，而是真正学会了游戏规则——其**注意力机制**实现了3x3卷积运算（用于计算细胞邻居数量）。该模型名为**SingleAttentionNet**，仅包含单头注意力模块，将网格编码为令牌处理。实验表明，模型通过注意力矩阵学习排除中心细胞的3x3平均池化，训练后能准确运行100步游戏。研究还发现，若手动替换注意力层为邻居计算或平均池化，模型学习速度更快且能泛化到任意网格尺寸。
+一位比利时研究者发现并保存了**Macintosh Plus**罕见的**256KB日文ROM**，该版本内置汉字字体，可加速系统启动并节省内存。此前，这一ROM的存在仅存于苹果零星文档中，甚至被部分爱好者质疑。通过逆向工程和硬件调试，研究者证实其功能：**日文ROM**省去了加载12点字体的步骤，启动时间比美版缩短15秒，并释放113KB内存。最终，该ROM的兼容性通过修改MAME模拟器得以实现，填补了早期Mac历史的空白。
 
 ---
 
-## <a name="18"></a>18. 联邦政府全面终止哈佛大学资助 
+## <a name="19"></a>19. 联邦政府全面终止哈佛大学资助 
 <small>🔗 [arstechnica.com](https://arstechnica.com/science/2025/05/feds-continue-effort-to-defund-research-at-harvard/): Federal agencies continue terminating all funding to Harvard</small>
 
 
-| 🔥: 63 \| 💬: [47](https://news.ycombinator.com/item?id=44017740) \| 🗓️ 2025-05-17
+| 🔥: 68 \| 💬: [67](https://news.ycombinator.com/item?id=44017740) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -241,7 +253,19 @@ CSS新特性`contrast-color()`可自动根据背景色选择**黑色或白色文
 
 ---
 
-## <a name="19"></a>19. OBNC：Oberon-07语言编译器 
+## <a name="20"></a>20. Transformer神经网络仅通过示例学习运行《生命游戏》 
+<small>🔗 [sidsite.com](https://sidsite.com/posts/life-transformer/): Transformer neural net learns to run Conway's Game of Life just from examples</small>
+
+
+| 🔥: 65 \| 💬: [33](https://news.ycombinator.com/item?id=44013154) \| 🗓️ 2025-05-17
+
+
+<br />
+研究发现，一个高度简化的**Transformer神经网络**仅通过训练《生命游戏》的示例，就能完美模拟该游戏。模型结构显示，它并非基于统计预测，而是真正学会了游戏规则——其**注意力机制**实现了3x3卷积运算（用于计算细胞邻居数量）。该模型名为**SingleAttentionNet**，仅包含单头注意力模块，将网格编码为令牌处理。实验表明，模型通过注意力矩阵学习排除中心细胞的3x3平均池化，训练后能准确运行100步游戏。研究还发现，若手动替换注意力层为邻居计算或平均池化，模型学习速度更快且能泛化到任意网格尺寸。
+
+---
+
+## <a name="21"></a>21. OBNC：Oberon-07语言编译器 
 <small>🔗 [miasap.se](https://miasap.se/obnc/): OBNC – Oberon-07 Compiler</small>
 
 
@@ -257,7 +281,7 @@ OBNC是一款用于编译Niklaus Wirth设计的**Oberon-07**语言的工具，�
 
 ---
 
-## <a name="20"></a>20. 你并不需要在桌面端使用NixOS 
+## <a name="22"></a>22. 你并不需要在桌面端使用NixOS 
 <small>🔗 [aruarian.dance](https://aruarian.dance/blog/you-do-not-need-nixos/): You do not need NixOS on the desktop</small>
 
 
@@ -269,19 +293,7 @@ OBNC是一款用于编译Niklaus Wirth设计的**Oberon-07**语言的工具，�
 
 ---
 
-## <a name="21"></a>21. 失落的Macintosh Plus日文ROM之谜 
-<small>🔗 [journaldulapin.com](https://www.journaldulapin.com/2025/05/17/the-lost-japanese-rom-of-the-macintosh-plus-which-isnt-lost-anymore/): The Lost Japanese ROM of the Macintosh Plus</small>
-
-
-| 🔥: 55 \| 💬: [15](https://news.ycombinator.com/item?id=44017692) \| 🗓️ 2025-05-17
-
-
-<br />
-一位比利时研究者发现并保存了**Macintosh Plus**罕见的**256KB日文ROM**，该版本内置汉字字体，可加速系统启动并节省内存。此前，这一ROM的存在仅存于苹果零星文档中，甚至被部分爱好者质疑。通过逆向工程和硬件调试，研究者证实其功能：**日文ROM**省去了加载12点字体的步骤，启动时间比美版缩短15秒，并释放113KB内存。最终，该ROM的兼容性通过修改MAME模拟器得以实现，填补了早期Mac历史的空白。
-
----
-
-## <a name="22"></a>22. 汉莎航空副驾驶晕厥 客机自动驾驶10分钟 
+## <a name="23"></a>23. 汉莎航空副驾驶晕厥 客机自动驾驶10分钟 
 <small>🔗 [scmp.com](https://www.scmp.com/news/world/europe/article/3310779/lufthansa-plane-flown-autopilot-after-pilot-faints-cockpit): Lufthansa plane flown by autopilot after pilot faints in cockpit</small>
 
 
@@ -293,11 +305,11 @@ OBNC是一款用于编译Niklaus Wirth设计的**Oberon-07**语言的工具，�
 
 ---
 
-## <a name="23"></a>23. MinorMiner：将孩子的数学作业变成比特币 
+## <a name="24"></a>24. MinorMiner：将孩子的数学作业变成比特币 
 <small>🔗 [robertheaton.com](https://robertheaton.com/minor-miner/): MinorMiner: We turn your kid's maths homework into Bitcoin</small>
 
 
-| 🔥: 48 \| 💬: [10](https://news.ycombinator.com/item?id=44013387) \| 🗓️ 2025-05-17
+| 🔥: 49 \| 💬: [10](https://news.ycombinator.com/item?id=44013387) \| 🗓️ 2025-05-17
 
 
 <br />
@@ -307,26 +319,14 @@ MinorMiner是一个创新平台，**利用学生的数学作业计算能力来�
 
 ---
 
-## <a name="24"></a>24. MIT人工智能材料研究论文被曝造假 
+## <a name="25"></a>25. MIT人工智能材料研究论文被曝造假 
 <small>🔗 [thebsdetector.substack.com](https://thebsdetector.substack.com/p/ai-materials-and-fraud-oh-my): MIT paper on AI for materials research found to be fraudulent</small>
 
 
-| 🔥: 47 \| 💬: [8](https://news.ycombinator.com/item?id=44013266) \| 🗓️ 2025-05-17
+| 🔥: 48 \| 💬: [8](https://news.ycombinator.com/item?id=44013266) \| 🗓️ 2025-05-17
 
 
 <br />
 一篇由MIT经济学博士生Aidan Toner-Rodgers发表的预印本论文声称，**AI工具显著提升了材料研究人员的工作效率**，包括新材料发现数量、专利申请量和原型开发速度。然而，该研究被揭露为**完全伪造**，MIT官方声明对其数据真实性“毫无信心”。论文中的数据来源存疑，如虚构了“美国某企业千名材料研究员参与AI随机试验”的设定，且**统计结果过于完美**（如各项指标均呈现显著性提升）。材料科学领域的分析方法也被专家质疑，例如晶体结构相似性计算和材料质量评估公式存在明显漏洞，暴露了作者缺乏专业背景。
-
----
-
-## <a name="25"></a>25. 谷歌让步：恢复Nextcloud安卓应用关键权限 
-<small>🔗 [neowin.net](https://www.neowin.net/news/google-reverses-course-after-blocking-nextcloud-files-app/): Google reverses course after blocking Nextcloud Files app</small>
-
-
-| 🔥: 45 \| 💬: [18](https://news.ycombinator.com/item?id=44013517) \| 🗓️ 2025-05-17
-
-
-<br />
-谷歌在撤销**Nextcloud Files**应用的**“所有文件访问”权限**后引发争议，被指滥用市场权力。该权限自2016年启用，但谷歌以**“安全担忧”**为由拒绝2024年9月的更新，建议改用其他API。Nextcloud公开指责谷歌行为涉嫌垄断，并援引欧盟对苹果和Meta的罚款案例。数日后谷歌妥协，同意恢复权限。Nextcloud预计很快发布功能完整的更新版应用，但谷歌未回应最初撤销权限的具体原因。
 
 ---
