@@ -27,7 +27,7 @@ tags:
 <small>🔗 [domenic.me](https://domenic.me/fsrs/): Spaced repetition systems have gotten better</small>
 
 
-| 🔥🔥: 754 \| 💬: [433](https://news.ycombinator.com/item?id=44020591) \| 🗓️ 2025-05-18
+| 🔥🔥: 800 \| 💬: [439](https://news.ycombinator.com/item?id=44020591) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -44,7 +44,7 @@ tags:
 <small>🔗 [social.numerique.gouv.fr](https://social.numerique.gouv.fr/@codegouvfr/114529954373492878): France Endorses UN Open Source Principles</small>
 
 
-| 🔥🔥: 316 \| 💬: [74](https://news.ycombinator.com/item?id=44024759) \| 🗓️ 2025-05-18
+| 🔥🔥: 363 \| 💬: [79](https://news.ycombinator.com/item?id=44024759) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -56,7 +56,7 @@ tags:
 <small>🔗 [github.com](https://github.com/brianmg/voynich-nlp-analysis): Show HN: I modeled the Voynich Manuscript with SBERT to test for structure</small>
 
 
-| 🔥🔥: 295 \| 💬: [95](https://news.ycombinator.com/item?id=44022353) \| 🗓️ 2025-05-18
+| 🔥🔥: 315 \| 💬: [97](https://news.ycombinator.com/item?id=44022353) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -68,7 +68,7 @@ tags:
 <small>🔗 [amberwilliams.io](https://amberwilliams.io/blogs/building-my-own-pkms): Ditching Obsidian and building my own</small>
 
 
-| 🔥🔥: 271 \| 💬: [286](https://news.ycombinator.com/item?id=44022448) \| 🗓️ 2025-05-18
+| 🔥🔥: 297 \| 💬: [313](https://news.ycombinator.com/item?id=44022448) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -80,7 +80,7 @@ tags:
 <small>🔗 [sifter.org](https://sifter.org/~simon/journal/20240718.html): $30 Homebrew Automated Blinds Opener</small>
 
 
-| 🔥🔥: 214 \| 💬: [88](https://news.ycombinator.com/item?id=44022758) \| 🗓️ 2025-05-18
+| 🔥🔥: 233 \| 💬: [93](https://news.ycombinator.com/item?id=44022758) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -92,7 +92,7 @@ tags:
 <small>🔗 [notes.andymatuschak.org](https://notes.andymatuschak.org/Spaced_repetition_memory_system): Spaced Repetition Memory System</small>
 
 
-| 🔥🔥: 183 \| 💬: [16](https://news.ycombinator.com/item?id=44022225) \| 🗓️ 2025-05-18
+| 🔥🔥: 203 \| 💬: [17](https://news.ycombinator.com/item?id=44022225) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -104,7 +104,7 @@ tags:
 <small>🔗 [github.com](https://github.com/m4xshen/hardtime.nvim): Show HN: Hardtime.nvim – break bad habits and master Vim motions</small>
 
 
-| 🔥🔥: 174 \| 💬: [68](https://news.ycombinator.com/item?id=44020734) \| 🗓️ 2025-05-18
+| 🔥🔥: 178 \| 💬: [70](https://news.ycombinator.com/item?id=44020734) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -112,23 +112,11 @@ tags:
 
 ---
 
-## <a name="8"></a>8. 圆梦童年：打造我心中的终极IBM电脑 
-<small>🔗 [fabiensanglard.net](https://fabiensanglard.net/2168/index.html): Building my childhood dream PC</small>
-
-
-| 🔥🔥: 155 \| 💬: [76](https://news.ycombinator.com/item?id=44021824) \| 🗓️ 2025-05-18
-
-
-<br />
-作者回忆了14岁时与兄弟共用一台性能不足的Cyrix 486电脑的时光，尤其羡慕邻居的**IBM PS/1 2168**（价值约6000美元）。2024年，他通过 eBay 购得一台保存完好的同款机型，并详细记录了修复过程：从开箱、安装**PC-DOS 7**到升级**L2缓存**和CPU，最终流畅运行《DOOM》。这台机器以**可扩展性**和经典设计（如顶部提手、机械键盘）著称，展现了IBM的工艺精髓。
-
----
-
-## <a name="9"></a>9. Vaev：从零构建的浏览器引擎（已支持渲染Google首页） 
+## <a name="8"></a>8. Vaev：从零构建的浏览器引擎（已支持渲染Google首页） 
 <small>🔗 [github.com](https://github.com/skift-org/vaev): Show HN: Vaev – A browser engine built from scratch (It renders google.com)</small>
 
 
-| 🔥🔥: 151 \| 💬: [65](https://news.ycombinator.com/item?id=44023144) \| 🗓️ 2025-05-18
+| 🔥🔥: 167 \| 💬: [78](https://news.ycombinator.com/item?id=44023144) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -136,7 +124,31 @@ Vaev是一款**实验性浏览器引擎**，主打**轻量快速**与安全性�
 
 ---
 
-## <a name="10"></a>10. 苹果信用卡导致iCloud、App Store和Apple ID账户被禁用（2021年） 
+## <a name="9"></a>9. 圆梦童年：打造我心中的终极IBM电脑 
+<small>🔗 [fabiensanglard.net](https://fabiensanglard.net/2168/index.html): Building my childhood dream PC</small>
+
+
+| 🔥🔥: 158 \| 💬: [79](https://news.ycombinator.com/item?id=44021824) \| 🗓️ 2025-05-18
+
+
+<br />
+作者回忆了14岁时与兄弟共用一台性能不足的Cyrix 486电脑的时光，尤其羡慕邻居的**IBM PS/1 2168**（价值约6000美元）。2024年，他通过 eBay 购得一台保存完好的同款机型，并详细记录了修复过程：从开箱、安装**PC-DOS 7**到升级**L2缓存**和CPU，最终流畅运行《DOOM》。这台机器以**可扩展性**和经典设计（如顶部提手、机械键盘）著称，展现了IBM的工艺精髓。
+
+---
+
+## <a name="10"></a>10. Chrome侧边栏AI助手：开源浏览器自动化工具 
+<small>🔗 [github.com](https://github.com/parsaghaffari/browserbee): Show HN: A web browser agent in your Chrome side panel</small>
+
+
+| 🔥🔥: 136 \| 💬: [58](https://news.ycombinator.com/item?id=44020626) \| 🗓️ 2025-05-18
+
+
+<br />
+**BrowserBee** 是一款**隐私优先**的开源Chrome扩展，通过自然语言控制浏览器操作。它结合了**LLM指令解析**与Playwright自动化工具，支持导航、标签管理、鼠标键盘交互等任务，适用于社交媒体管理、新闻聚合、研究辅助等场景。所有数据仅在本地处理，无需后端，确保安全性。支持Anthropic、OpenAI等主流LLM，提供**记忆功能**存储常用操作流程以提升效率。用户可自行安装或从源码构建，未来将登陆Chrome应用商店。
+
+---
+
+## <a name="11"></a>11. 苹果信用卡导致iCloud、App Store和Apple ID账户被禁用（2021年） 
 <small>🔗 [dcurt.is](https://dcurt.is/apple-card-can-disable-your-icloud-account): Apple card disabled my iCloud, App Store, and Apple ID accounts (2021)</small>
 
 
@@ -148,23 +160,11 @@ Vaev是一款**实验性浏览器引擎**，主打**轻量快速**与安全性�
 
 ---
 
-## <a name="11"></a>11. Chrome侧边栏AI助手：开源浏览器自动化工具 
-<small>🔗 [github.com](https://github.com/parsaghaffari/browserbee): Show HN: A web browser agent in your Chrome side panel</small>
-
-
-| 🔥🔥: 133 \| 💬: [58](https://news.ycombinator.com/item?id=44020626) \| 🗓️ 2025-05-18
-
-
-<br />
-**BrowserBee** 是一款**隐私优先**的开源Chrome扩展，通过自然语言控制浏览器操作。它结合了**LLM指令解析**与Playwright自动化工具，支持导航、标签管理、鼠标键盘交互等任务，适用于社交媒体管理、新闻聚合、研究辅助等场景。所有数据仅在本地处理，无需后端，确保安全性。支持Anthropic、OpenAI等主流LLM，提供**记忆功能**存储常用操作流程以提升效率。用户可自行安装或从源码构建，未来将登陆Chrome应用商店。
-
----
-
 ## <a name="12"></a>12. 谷歌Logo连字漏洞 
 <small>🔗 [jefftk.com](https://www.jefftk.com/p/google-logo-ligature-bug): Google Logo Ligature Bug</small>
 
 
-| 🔥🔥: 125 \| 💬: [36](https://news.ycombinator.com/item?id=44021028) \| 🗓️ 2025-05-18
+| 🔥🔥: 127 \| 💬: [38](https://news.ycombinator.com/item?id=44021028) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -172,35 +172,11 @@ Vaev是一款**实验性浏览器引擎**，主打**轻量快速**与安全性�
 
 ---
 
-## <a name="13"></a>13. 感谢谷歌治好了我的YouTube瘾 
-<small>🔗 [rakhim.exotext.com](https://rakhim.exotext.com/thank-you-google-for-breaking-my-youtube-addiction): Thank you Google for breaking my YouTube addiction</small>
-
-
-| 🔥🔥: 108 \| 💬: [92](https://news.ycombinator.com/item?id=44020653) \| 🗓️ 2025-05-18
-
-
-<br />
-过去几年，**谷歌**成功让YouTube变得**无聊且缺乏吸引力**，反而降低了用户成瘾性。早期推荐订阅内容尚可，但算法首页推送曾让人沉迷。如今主页重复推荐相同视频，**搜索功能混乱**，强行推送无关内容（如看了蜜蜂视频就被打上“蜜蜂爱好者”标签）。这种刻意让平台变得**低效**的策略，意外实现了“不作恶”的初衷。
-
----
-
-## <a name="14"></a>14. Roam的衰落与Obsidian的崛起 
-<small>🔗 [every.to](https://every.to/superorganizers/the-fall-of-roam): The Fall of Roam (2022)</small>
-
-
-| 🔥🔥: 101 \| 💬: [53](https://news.ycombinator.com/item?id=44023423) \| 🗓️ 2025-05-18
-
-
-<br />
-用户Bryan高度评价了Dan的文章，并指出**Obsidian**在Roam不足的领域表现出色。他特别推荐结合Nick Milo的**“链接思维”笔记法**使用该工具，认为这一组合带来了**颠覆性改变**。虽然语气略带调侃（“暂时如此？”），但整体肯定了Obsidian的当前优势。
-
----
-
-## <a name="15"></a>15. 超级富豪有哪些不为人知的消费？ 
+## <a name="13"></a>13. 超级富豪有哪些不为人知的消费？ 
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/AskReddit/comments/2s9u0s/comment/cnnmca8/): What do wealthy people buy, that ordinary people know nothing about? (2015)</small>
 
 
-| 🔥: 100 \| 💬: [122](https://news.ycombinator.com/item?id=44022215) \| 🗓️ 2025-05-18
+| 🔥🔥: 111 \| 💬: [142](https://news.ycombinator.com/item?id=44022215) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -208,11 +184,35 @@ Vaev是一款**实验性浏览器引擎**，主打**轻量快速**与安全性�
 
 ---
 
+## <a name="14"></a>14. 感谢谷歌治好了我的YouTube瘾 
+<small>🔗 [rakhim.exotext.com](https://rakhim.exotext.com/thank-you-google-for-breaking-my-youtube-addiction): Thank you Google for breaking my YouTube addiction</small>
+
+
+| 🔥🔥: 109 \| 💬: [92](https://news.ycombinator.com/item?id=44020653) \| 🗓️ 2025-05-18
+
+
+<br />
+过去几年，**谷歌**成功让YouTube变得**无聊且缺乏吸引力**，反而降低了用户成瘾性。早期推荐订阅内容尚可，但算法首页推送曾让人沉迷。如今主页重复推荐相同视频，**搜索功能混乱**，强行推送无关内容（如看了蜜蜂视频就被打上“蜜蜂爱好者”标签）。这种刻意让平台变得**低效**的策略，意外实现了“不作恶”的初衷。
+
+---
+
+## <a name="15"></a>15. Roam的衰落与Obsidian的崛起 
+<small>🔗 [every.to](https://every.to/superorganizers/the-fall-of-roam): The Fall of Roam (2022)</small>
+
+
+| 🔥🔥: 109 \| 💬: [58](https://news.ycombinator.com/item?id=44023423) \| 🗓️ 2025-05-18
+
+
+<br />
+用户Bryan高度评价了Dan的文章，并指出**Obsidian**在Roam不足的领域表现出色。他特别推荐结合Nick Milo的**“链接思维”笔记法**使用该工具，认为这一组合带来了**颠覆性改变**。虽然语气略带调侃（“暂时如此？”），但整体肯定了Obsidian的当前优势。
+
+---
+
 ## <a name="16"></a>16. KDE即将推出原生虚拟机管理器"Karton" 
 <small>🔗 [neowin.net](https://www.neowin.net/news/kde-is-finally-getting-a-native-virtual-machine-manager-called-karton/): KDE is finally getting a native virtual machine manager called “Karton”</small>
 
 
-| 🔥: 88 \| 💬: [30](https://news.ycombinator.com/item?id=44024784) \| 🗓️ 2025-05-18
+| 🔥: 99 \| 💬: [38](https://news.ycombinator.com/item?id=44024784) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -220,7 +220,31 @@ KDE Plasma用户长期以来依赖**virt-manager**或GNOME Boxes等工具管理�
 
 ---
 
-## <a name="17"></a>17. 加密货币已成终极沼泽资产 
+## <a name="17"></a>17. 有人能看见，有人却视而不见 
+<small>🔗 [worldhistory.substack.com](https://worldhistory.substack.com/p/there-are-people-who-can-see-and): “There are people who can see and others who cannot even look”</small>
+
+
+| 🔥: 94 \| 💬: [14](https://news.ycombinator.com/item?id=44025439) \| 🗓️ 2025-05-18
+
+
+<br />
+本文讲述了19世纪法国摄影师**纳达尔**为众多历史名人拍摄肖像的故事。1862年，日本使团在巴黎首次体验摄影技术，纳达尔为他们留下了珍贵影像。他擅长通过简洁背景突出人物个性，曾为**波德莱尔**、**大仲马**、**雨果**等文化巨匠拍摄传神肖像，甚至记录下**莎拉·伯恩哈特**的早期风采。纳达尔认为摄影不仅是技术，更是**洞察力**的体现——"有人能看见，有人却视而不见"。这些照片跨越时空，让后世得以窥见19世纪巴黎文艺圈的鲜活灵魂。
+
+---
+
+## <a name="18"></a>18. Buckaroo：专为Jupyter设计的现代化数据表格工具 
+<small>🔗 [github.com](https://github.com/paddymul/buckaroo): Show HN: Buckaroo – Data table UI for Notebooks</small>
+
+
+| 🔥: 92 \| 💬: [8](https://news.ycombinator.com/item?id=44022265) \| 🗓️ 2025-05-18
+
+
+<br />
+Buckaroo是一款针对**Jupyter笔记本**优化的高性能数据表格UI，支持**Pandas**和**Polars**等数据框架，提供无限滚动、排序、搜索、统计摘要和直方图等功能。其核心基于AG-Grid，可快速加载数千条数据，并默认固定宽度格式，便于数值对比。此外，Buckaroo还内置**自动清洗**（Beta）和低代码UI功能，支持自定义样式与扩展分析。兼容Jupyter Lab、VS Code、Marimo等多种环境，安装简单（`pip install buckaroo`），适合快速数据探索与分析。
+
+---
+
+## <a name="19"></a>19. 加密货币已成终极沼泽资产 
 <small>🔗 [economist.com](https://www.economist.com/leaders/2025/05/15/crypto-has-become-the-ultimate-swamp-asset): Crypto has become the ultimate swamp asset</small>
 
 
@@ -232,23 +256,11 @@ KDE Plasma用户长期以来依赖**virt-manager**或GNOME Boxes等工具管理�
 
 ---
 
-## <a name="18"></a>18. Buckaroo：专为Jupyter设计的现代化数据表格工具 
-<small>🔗 [github.com](https://github.com/paddymul/buckaroo): Show HN: Buckaroo – Data table UI for Notebooks</small>
-
-
-| 🔥: 86 \| 💬: [6](https://news.ycombinator.com/item?id=44022265) \| 🗓️ 2025-05-18
-
-
-<br />
-Buckaroo是一款针对**Jupyter笔记本**优化的高性能数据表格UI，支持**Pandas**和**Polars**等数据框架，提供无限滚动、排序、搜索、统计摘要和直方图等功能。其核心基于AG-Grid，可快速加载数千条数据，并默认固定宽度格式，便于数值对比。此外，Buckaroo还内置**自动清洗**（Beta）和低代码UI功能，支持自定义样式与扩展分析。兼容Jupyter Lab、VS Code、Marimo等多种环境，安装简单（`pip install buckaroo`），适合快速数据探索与分析。
-
----
-
-## <a name="19"></a>19. 纸艺机械结构大全 
+## <a name="20"></a>20. 纸艺机械结构大全 
 <small>🔗 [cutfoldtemplates.com](https://cutfoldtemplates.com): Paper Mechanisms</small>
 
 
-| 🔥: 77 \| 💬: [3](https://news.ycombinator.com/item?id=44020315) \| 🗓️ 2025-05-18
+| 🔥: 80 \| 💬: [3](https://news.ycombinator.com/item?id=44020315) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -256,11 +268,11 @@ Buckaroo是一款针对**Jupyter笔记本**优化的高性能数据表格UI，�
 
 ---
 
-## <a name="20"></a>20. K-Scale实验室：开源人形机器人，专为开发者打造 
+## <a name="21"></a>21. K-Scale实验室：开源人形机器人，专为开发者打造 
 <small>🔗 [kscale.dev](https://www.kscale.dev/): K-Scale Labs: Open-source humanoid robots, built for developers</small>
 
 
-| 🔥: 68 \| 💬: [37](https://news.ycombinator.com/item?id=44023680) \| 🗓️ 2025-05-18
+| 🔥: 80 \| 💬: [41](https://news.ycombinator.com/item?id=44023680) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -268,11 +280,25 @@ K-Scale实验室推出**K-Bot**——一款**4英尺通用人形机器人**，�
 
 ---
 
-## <a name="21"></a>21. 加州个性化车牌申请驳回原因数据集（2020年） 
+## <a name="22"></a>22. 过度类型化的困境：TypeScript 的类型安全取舍 
+<small>🔗 [pscanf.com](https://pscanf.com/s/341/): Hyper Typing</small>
+
+
+| 🔥: 70 \| 💬: [54](https://news.ycombinator.com/item?id=44024173) \| 🗓️ 2025-05-18
+
+
+<br />
+本文探讨了TypeScript类型系统中**严格类型**与**开发体验**的固有矛盾。作者提出**"过度类型化"**现象：库开发者追求完美类型安全，却导致类型定义过于复杂，引发难懂的报错甚至迫使开发者使用不安全的变通方案（如`any`）。以TanStack Form为例，其字段元类型含17个泛型参数，虽精准但实用性存疑。  
+
+作者主张**简化类型**或通过**类型生成**（如Astro框架）平衡安全性与可维护性，认为适度的类型缺陷反而能提升开发效率。
+
+---
+
+## <a name="23"></a>23. 加州个性化车牌申请驳回原因数据集（2020年） 
 <small>🔗 [github.com](https://github.com/veltman/ca-license-plates): California vanity license plate applications with reasons for rejection (2020)</small>
 
 
-| 🔥: 67 \| 💬: [74](https://news.ycombinator.com/item?id=44025022) \| 🗓️ 2025-05-18
+| 🔥: 70 \| 💬: [77](https://news.ycombinator.com/item?id=44025022) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -280,50 +306,26 @@ K-Scale实验室推出**K-Bot**——一款**4英尺通用人形机器人**，�
 
 ---
 
-## <a name="22"></a>22. RISC OS图形界面的独特设计 
-<small>🔗 [telcontar.net](https://telcontar.net/Misc/GUI/RISCOS/): The RISC OS GUI</small>
+## <a name="24"></a>24. Python实现大卫·多伊奇的“构造时间理论”模拟器 
+<small>🔗 [github.com](https://github.com/gvelesandro/constructor-theory-simulator): Show HN: Python Simulator of David Deutsch’s “Constructor Theory of Time”</small>
 
 
-| 🔥: 60 \| 💬: [19](https://news.ycombinator.com/item?id=44021191) \| 🗓️ 2025-05-18
-
-
-<br />
-本文介绍了1992年由英国Acorn公司发布的**RISC OS 3.11**图形界面，其设计理念在当时极为先进。系统采用**三键鼠标**，分别对应选择、菜单和调整功能，大幅减少键盘依赖。**弹出式菜单**通过中键触发，结合了对话框功能，操作高效。窗口管理支持**后台输入**，焦点与叠放顺序分离，黄色标题栏标记键盘焦点。桌面分为固定图标的Pinboard和显示任务的Icon Bar，体现了高度定制化的交互逻辑。尽管存在窗口堆叠混乱等问题，其创新设计仍为现代界面提供了灵感。
-
----
-
-## <a name="23"></a>23. 新视野号飞越冥王星 
-<small>🔗 [apod.nasa.gov](https://apod.nasa.gov/apod/ap250518.html): Pluto Flyover from New Horizons</small>
-
-
-| 🔥: 60 \| 💬: [16](https://news.ycombinator.com/item?id=44022233) \| 🗓️ 2025-05-18
+| 🔥: 65 \| 💬: [7](https://news.ycombinator.com/item?id=44024055) \| 🗓️ 2025-05-18
 
 
 <br />
-2015年7月，**新视野号**探测器以每小时8万公里的速度飞越冥王星，拍摄了这段两分钟的延时视频。画面中，**氮冰覆盖的山脉**在晨光中显现，右侧是分裂为奇特多边形的固态氮平原，下方遍布陨石坑与冰峰。视频最终以500米高的**刀脊地形**结束。由于速度过快，新视野号已无法返回，正飞向太阳系外。
+这是一个基于Python的**构造理论**框架实现，模拟了David Deutsch提出的量子引力与电磁学核心概念。项目包含**通用构造器**，能通过任务列表自举实现自我复制，并演示了不可逆量子任务、相对论时钟校正及粒子耦合（如库仑力、洛伦兹力）。提供ASCII可视化工具和示例脚本，适合教育用途。需Python 3.8+，遵循MIT协议，灵感源于多伊奇2025年论文《构造时间理论》。
 
 ---
 
-## <a name="24"></a>24. Sun Enterprise 10000的诞生历程（2007年） 
+## <a name="25"></a>25. Sun Enterprise 10000的诞生历程（2007年） 
 <small>🔗 [filibeto.org](https://www.filibeto.org/aduritz/truetrue/e10000/how-e10k-wasborn.html): How the Sun Enterprise 10000 was born (2007)</small>
 
 
-| 🔥: 59 \| 💬: [58](https://news.ycombinator.com/item?id=44020975) \| 🗓️ 2025-05-18
+| 🔥: 62 \| 💬: [58](https://news.ycombinator.com/item?id=44020975) \| 🗓️ 2025-05-18
 
 
 <br />
 一群工程师离开知名企业（多为前NCR员工）在圣地亚哥创业，研发基于**Sparc处理器**的**大规模并行计算机**。经历多次并购（包括被Cray收购）后，团队开发出支持**动态系统域**和**交替路径**技术的CS6400服务器。后因SGI无意保留该业务，Sun以5000万美元收购团队，并完成其后续产品——**Ultra Enterprise 10000（Starfire）**。这款服务器凭借卓越的可扩展性（64处理器/64GB内存）和Sun的营销资源大获成功，被Scott McNealy誉为"微软收购DOS后最划算的交易"，首年即创收数十亿美元。
-
----
-
-## <a name="25"></a>25. 诚实学生的新困扰：自证未用AI 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/17/style/ai-chatgpt-turnitin-students-cheating.html): A New Headache for Honest Students: Proving They Didn't Use A.I</small>
-
-
-| 🔥: 58 \| 💬: [62](https://news.ycombinator.com/item?id=44025127) \| 🗓️ 2025-05-18
-
-
-<br />
-计算机科学专业学生Leigh Burrell因作业被教授误判为**AI生成**而获得零分，尽管她提供了**Google Docs编辑记录**证明是原创。经过提交15页时间戳截图申诉后，成绩才被恢复。这一事件凸显了**AI作弊检测工具**的缺陷，给诚实学生带来不公压力。
 
 ---
