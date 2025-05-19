@@ -10,9 +10,9 @@ tags:
 
 1. 间隔重复系统迎来重大升级；
 1. 用SBERT模型分析《伏尼契手稿》的语言结构；
+1. 法国成为首个支持联合国开源原则的政府；
 1. 抛弃Obsidian，我选择自建笔记系统；
 1. 30美元自制自动百叶窗开启器；
-1. 硬核Vim训练插件：告别坏习惯，精通移动操作；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [domenic.me](https://domenic.me/fsrs/): Spaced repetition systems have gotten better</small>
 
 
-| 🔥🔥: 667 \| 💬: [410](https://news.ycombinator.com/item?id=44020591) \| 🗓️ 2025-05-18
+| 🔥🔥: 681 \| 💬: [420](https://news.ycombinator.com/item?id=44020591) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -44,7 +44,7 @@ tags:
 <small>🔗 [github.com](https://github.com/brianmg/voynich-nlp-analysis): Show HN: I modeled the Voynich Manuscript with SBERT to test for structure</small>
 
 
-| 🔥🔥: 262 \| 💬: [73](https://news.ycombinator.com/item?id=44022353) \| 🗓️ 2025-05-18
+| 🔥🔥: 267 \| 💬: [76](https://news.ycombinator.com/item?id=44022353) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -52,47 +52,11 @@ tags:
 
 ---
 
-## <a name="3"></a>3. 抛弃Obsidian，我选择自建笔记系统 
-<small>🔗 [amberwilliams.io](https://amberwilliams.io/blogs/building-my-own-pkms): Ditching Obsidian and building my own</small>
-
-
-| 🔥🔥: 210 \| 💬: [243](https://news.ycombinator.com/item?id=44022448) \| 🗓️ 2025-05-18
-
-
-<br />
-作者Amber Williams分享了她从**Obsidian**转向自建**个人知识管理系统（PKMS）**的历程。她指出商业笔记应用存在**隐私风险**、高昂订阅费及长期可用性问题，最终选择用开源工具Directus搭建专属系统。该系统以Markdown存储笔记，支持多端同步且无需付费，同时确保数据完全自主控制。她强调，自建方案不仅终结了频繁迁移的困扰，更让知识管理回归本质——高效连接与深度思考。
-
----
-
-## <a name="4"></a>4. 30美元自制自动百叶窗开启器 
-<small>🔗 [sifter.org](https://sifter.org/~simon/journal/20240718.html): $30 Homebrew Automated Blinds Opener</small>
-
-
-| 🔥🔥: 167 \| 💬: [67](https://news.ycombinator.com/item?id=44022758) \| 🗓️ 2025-05-18
-
-
-<br />
-作者利用周末时间，用**闲置零件**快速组装了一个低成本自动百叶窗系统。核心设计采用**硅胶电机支架**（来自废弃冲牙器）降低噪音，通过**磁编码器**感知扭矩以实现防卡停，整体成本仅30美元（含3D打印部件）。系统以极慢速度（8分钟全开）模拟自然晨光，并通过家庭自动化控制开合度。虽然磁编码方案存在信号不稳定缺陷，但**扭矩反馈机制**能可靠检测百叶窗极限位置。最终成品运行近乎无声，仅保留百叶窗自身轻微吱嘎声作为运行提示。
-
----
-
-## <a name="5"></a>5. 硬核Vim训练插件：告别坏习惯，精通移动操作 
-<small>🔗 [github.com](https://github.com/m4xshen/hardtime.nvim): Show HN: Hardtime.nvim – break bad habits and master Vim motions</small>
-
-
-| 🔥🔥: 154 \| 💬: [59](https://news.ycombinator.com/item?id=44020734) \| 🗓️ 2025-05-18
-
-
-<br />
-这是一个名为 **hardtime.nvim** 的Neovim插件，旨在帮助用户**戒除低效操作习惯**，并通过强制限制和智能提示**掌握高效的Vim移动命令**。核心功能包括：阻止短时间内重复按键、提供替代操作提示（如用`5j`代替连续按`j`）、生成坏习惯报告。支持自定义禁用按键、文件类型及提示规则，适配Neovim 0.10.0+。默认配置已优化常见场景，例如推荐使用相对跳转和文本对象操作。安装后可通过命令开关插件，日志记录于`~/.local/state/nvim/hardtime.nvim.log`。
-
----
-
-## <a name="6"></a>6. 法国成为首个支持联合国开源原则的政府 
+## <a name="3"></a>3. 法国成为首个支持联合国开源原则的政府 
 <small>🔗 [social.numerique.gouv.fr](https://social.numerique.gouv.fr/@codegouvfr/114529954373492878): France Becomes First Government to Endorse UN Open Source Principles</small>
 
 
-| 🔥🔥: 145 \| 💬: [27](https://news.ycombinator.com/item?id=44024759) \| 🗓️ 2025-05-18
+| 🔥🔥: 225 \| 💬: [42](https://news.ycombinator.com/item?id=44024759) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -100,11 +64,47 @@ tags:
 
 ---
 
+## <a name="4"></a>4. 抛弃Obsidian，我选择自建笔记系统 
+<small>🔗 [amberwilliams.io](https://amberwilliams.io/blogs/building-my-own-pkms): Ditching Obsidian and building my own</small>
+
+
+| 🔥🔥: 222 \| 💬: [257](https://news.ycombinator.com/item?id=44022448) \| 🗓️ 2025-05-18
+
+
+<br />
+作者Amber Williams分享了她从**Obsidian**转向自建**个人知识管理系统（PKMS）**的历程。她指出商业笔记应用存在**隐私风险**、高昂订阅费及长期可用性问题，最终选择用开源工具Directus搭建专属系统。该系统以Markdown存储笔记，支持多端同步且无需付费，同时确保数据完全自主控制。她强调，自建方案不仅终结了频繁迁移的困扰，更让知识管理回归本质——高效连接与深度思考。
+
+---
+
+## <a name="5"></a>5. 30美元自制自动百叶窗开启器 
+<small>🔗 [sifter.org](https://sifter.org/~simon/journal/20240718.html): $30 Homebrew Automated Blinds Opener</small>
+
+
+| 🔥🔥: 180 \| 💬: [73](https://news.ycombinator.com/item?id=44022758) \| 🗓️ 2025-05-18
+
+
+<br />
+作者利用周末时间，用**闲置零件**快速组装了一个低成本自动百叶窗系统。核心设计采用**硅胶电机支架**（来自废弃冲牙器）降低噪音，通过**磁编码器**感知扭矩以实现防卡停，整体成本仅30美元（含3D打印部件）。系统以极慢速度（8分钟全开）模拟自然晨光，并通过家庭自动化控制开合度。虽然磁编码方案存在信号不稳定缺陷，但**扭矩反馈机制**能可靠检测百叶窗极限位置。最终成品运行近乎无声，仅保留百叶窗自身轻微吱嘎声作为运行提示。
+
+---
+
+## <a name="6"></a>6. 硬核Vim训练插件：告别坏习惯，精通移动操作 
+<small>🔗 [github.com](https://github.com/m4xshen/hardtime.nvim): Show HN: Hardtime.nvim – break bad habits and master Vim motions</small>
+
+
+| 🔥🔥: 161 \| 💬: [63](https://news.ycombinator.com/item?id=44020734) \| 🗓️ 2025-05-18
+
+
+<br />
+这是一个名为 **hardtime.nvim** 的Neovim插件，旨在帮助用户**戒除低效操作习惯**，并通过强制限制和智能提示**掌握高效的Vim移动命令**。核心功能包括：阻止短时间内重复按键、提供替代操作提示（如用`5j`代替连续按`j`）、生成坏习惯报告。支持自定义禁用按键、文件类型及提示规则，适配Neovim 0.10.0+。默认配置已优化常见场景，例如推荐使用相对跳转和文本对象操作。安装后可通过命令开关插件，日志记录于`~/.local/state/nvim/hardtime.nvim.log`。
+
+---
+
 ## <a name="7"></a>7. 高效记忆法宝：间隔重复记忆系统 
 <small>🔗 [notes.andymatuschak.org](https://notes.andymatuschak.org/Spaced_repetition_memory_system): Spaced Repetition Memory System</small>
 
 
-| 🔥🔥: 141 \| 💬: [12](https://news.ycombinator.com/item?id=44022225) \| 🗓️ 2025-05-18
+| 🔥🔥: 149 \| 💬: [14](https://news.ycombinator.com/item?id=44022225) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -116,7 +116,7 @@ tags:
 <small>🔗 [fabiensanglard.net](https://fabiensanglard.net/2168/index.html): Building my childhood dream PC</small>
 
 
-| 🔥🔥: 139 \| 💬: [52](https://news.ycombinator.com/item?id=44021824) \| 🗓️ 2025-05-18
+| 🔥🔥: 147 \| 💬: [57](https://news.ycombinator.com/item?id=44021824) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -140,7 +140,7 @@ tags:
 <small>🔗 [github.com](https://github.com/parsaghaffari/browserbee): Show HN: A web browser agent in your Chrome side panel</small>
 
 
-| 🔥🔥: 127 \| 💬: [57](https://news.ycombinator.com/item?id=44020626) \| 🗓️ 2025-05-18
+| 🔥🔥: 128 \| 💬: [57](https://news.ycombinator.com/item?id=44020626) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -152,7 +152,7 @@ tags:
 <small>🔗 [jefftk.com](https://www.jefftk.com/p/google-logo-ligature-bug): Google Logo Ligature Bug</small>
 
 
-| 🔥🔥: 122 \| 💬: [33](https://news.ycombinator.com/item?id=44021028) \| 🗓️ 2025-05-18
+| 🔥🔥: 123 \| 💬: [33](https://news.ycombinator.com/item?id=44021028) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -160,23 +160,11 @@ tags:
 
 ---
 
-## <a name="12"></a>12. 感谢谷歌治好了我的YouTube瘾 
-<small>🔗 [rakhim.exotext.com](https://rakhim.exotext.com/thank-you-google-for-breaking-my-youtube-addiction): Thank you Google for breaking my YouTube addiction</small>
-
-
-| 🔥🔥: 106 \| 💬: [88](https://news.ycombinator.com/item?id=44020653) \| 🗓️ 2025-05-18
-
-
-<br />
-过去几年，**谷歌**成功让YouTube变得**无聊且缺乏吸引力**，反而降低了用户成瘾性。早期推荐订阅内容尚可，但算法首页推送曾让人沉迷。如今主页重复推荐相同视频，**搜索功能混乱**，强行推送无关内容（如看了蜜蜂视频就被打上“蜜蜂爱好者”标签）。这种刻意让平台变得**低效**的策略，意外实现了“不作恶”的初衷。
-
----
-
-## <a name="13"></a>13. Vaev：从零构建的浏览器引擎（已支持渲染Google首页） 
+## <a name="12"></a>12. Vaev：从零构建的浏览器引擎（已支持渲染Google首页） 
 <small>🔗 [github.com](https://github.com/skift-org/vaev): Show HN: Vaev – A browser engine built from scratch (It renders google.com)</small>
 
 
-| 🔥🔥: 106 \| 💬: [43](https://news.ycombinator.com/item?id=44023144) \| 🗓️ 2025-05-18
+| 🔥🔥: 112 \| 💬: [48](https://news.ycombinator.com/item?id=44023144) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -184,11 +172,23 @@ Vaev是一款**实验性浏览器引擎**，主打**轻量快速**与安全性�
 
 ---
 
+## <a name="13"></a>13. 感谢谷歌治好了我的YouTube瘾 
+<small>🔗 [rakhim.exotext.com](https://rakhim.exotext.com/thank-you-google-for-breaking-my-youtube-addiction): Thank you Google for breaking my YouTube addiction</small>
+
+
+| 🔥🔥: 107 \| 💬: [91](https://news.ycombinator.com/item?id=44020653) \| 🗓️ 2025-05-18
+
+
+<br />
+过去几年，**谷歌**成功让YouTube变得**无聊且缺乏吸引力**，反而降低了用户成瘾性。早期推荐订阅内容尚可，但算法首页推送曾让人沉迷。如今主页重复推荐相同视频，**搜索功能混乱**，强行推送无关内容（如看了蜜蜂视频就被打上“蜜蜂爱好者”标签）。这种刻意让平台变得**低效**的策略，意外实现了“不作恶”的初衷。
+
+---
+
 ## <a name="14"></a>14. 超级富豪有哪些不为人知的消费？ 
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/AskReddit/comments/2s9u0s/comment/cnnmca8/): What do wealthy people buy, that ordinary people know nothing about? (2015)</small>
 
 
-| 🔥: 95 \| 💬: [104](https://news.ycombinator.com/item?id=44022215) \| 🗓️ 2025-05-18
+| 🔥: 95 \| 💬: [106](https://news.ycombinator.com/item?id=44022215) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -200,7 +200,7 @@ Vaev是一款**实验性浏览器引擎**，主打**轻量快速**与安全性�
 <small>🔗 [economist.com](https://www.economist.com/leaders/2025/05/15/crypto-has-become-the-ultimate-swamp-asset): Crypto has become the ultimate swamp asset</small>
 
 
-| 🔥: 86 \| 💬: [136](https://news.ycombinator.com/item?id=44020356) \| 🗓️ 2025-05-18
+| 🔥: 87 \| 💬: [136](https://news.ycombinator.com/item?id=44020356) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -212,7 +212,7 @@ Vaev是一款**实验性浏览器引擎**，主打**轻量快速**与安全性�
 <small>🔗 [every.to](https://every.to/superorganizers/the-fall-of-roam): The Fall of Roam</small>
 
 
-| 🔥: 77 \| 💬: [28](https://news.ycombinator.com/item?id=44023423) \| 🗓️ 2025-05-18
+| 🔥: 85 \| 💬: [38](https://news.ycombinator.com/item?id=44023423) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -224,7 +224,7 @@ Vaev是一款**实验性浏览器引擎**，主打**轻量快速**与安全性�
 <small>🔗 [github.com](https://github.com/paddymul/buckaroo): Show HN: Buckaroo – Data table UI for Notebooks</small>
 
 
-| 🔥: 76 \| 💬: [6](https://news.ycombinator.com/item?id=44022265) \| 🗓️ 2025-05-18
+| 🔥: 79 \| 💬: [6](https://news.ycombinator.com/item?id=44022265) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -236,7 +236,7 @@ Buckaroo是一款针对**Jupyter笔记本**优化的高性能数据表格UI，�
 <small>🔗 [cutfoldtemplates.com](https://cutfoldtemplates.com): Paper Mechanisms</small>
 
 
-| 🔥: 71 \| 💬: [3](https://news.ycombinator.com/item?id=44020315) \| 🗓️ 2025-05-18
+| 🔥: 72 \| 💬: [3](https://news.ycombinator.com/item?id=44020315) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -260,7 +260,7 @@ Buckaroo是一款针对**Jupyter笔记本**优化的高性能数据表格UI，�
 <small>🔗 [telcontar.net](https://telcontar.net/Misc/GUI/RISCOS/): The RISC OS GUI</small>
 
 
-| 🔥: 53 \| 💬: [16](https://news.ycombinator.com/item?id=44021191) \| 🗓️ 2025-05-18
+| 🔥: 55 \| 💬: [16](https://news.ycombinator.com/item?id=44021191) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -272,7 +272,7 @@ Buckaroo是一款针对**Jupyter笔记本**优化的高性能数据表格UI，�
 <small>🔗 [filibeto.org](https://www.filibeto.org/aduritz/truetrue/e10000/how-e10k-wasborn.html): How the Sun Enterprise 10000 was born (2007)</small>
 
 
-| 🔥: 51 \| 💬: [48](https://news.ycombinator.com/item?id=44020975) \| 🗓️ 2025-05-18
+| 🔥: 52 \| 💬: [53](https://news.ycombinator.com/item?id=44020975) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -284,7 +284,7 @@ Buckaroo是一款针对**Jupyter笔记本**优化的高性能数据表格UI，�
 <small>🔗 [lucidapogee.com](https://www.lucidapogee.com/?page=craftbasic): Craft Basic (Windows 95 and up)</small>
 
 
-| 🔥: 50 \| 💬: [9](https://news.ycombinator.com/item?id=44020019) \| 🗓️ 2025-05-18
+| 🔥: 51 \| 💬: [9](https://news.ycombinator.com/item?id=44020019) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -296,7 +296,7 @@ Craft Basic是一款**免费**的BASIC解释器，支持Windows 95及以上系�
 <small>🔗 [nan.usace.army.mil](https://www.nan.usace.army.mil/portals/37/docs/history/hellgate.pdf): The Conquest of Hell Gate [pdf]</small>
 
 
-| 🔥: 50 \| 💬: [20](https://news.ycombinator.com/item?id=44020574) \| 🗓️ 2025-05-18
+| 🔥: 51 \| 💬: [20](https://news.ycombinator.com/item?id=44020574) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -304,26 +304,26 @@ Craft Basic是一款**免费**的BASIC解释器，支持Windows 95及以上系�
 
 ---
 
-## <a name="24"></a>24. Rust版Model2Vec：高性能静态文本嵌入工具 
-<small>🔗 [github.com](https://github.com/MinishLab/model2vec-rs): Show HN: Model2vec-Rs – Fast Static Text Embeddings in Rust</small>
-
-
-| 🔥: 46 \| 💬: [5](https://news.ycombinator.com/item?id=44021883) \| 🗓️ 2025-05-18
-
-
-<br />
-该项目是**Model2Vec**模型的官方Rust实现，支持从Hugging Face Hub或本地路径加载预训练模型，生成文本嵌入向量。提供**CLI工具**和API两种调用方式，支持批量处理与自定义参数（如最大长度和批次大小）。内置多款预训练模型（如`potion-base-8M`和`M2V_multilingual_output`），涵盖通用和检索任务。性能方面，Rust版本比Python实现快**1.7倍**，吞吐量达8000样本/秒。采用MIT开源协议，适合需要高效嵌入计算的场景。
-
----
-
-## <a name="25"></a>25. 一名反生育主义者炸毁生育诊所：这是必然的吗？ 
+## <a name="24"></a>24. 一名反生育主义者炸毁生育诊所：这是必然的吗？ 
 <small>🔗 [default.blog](https://default.blog/p/an-efilist-just-bombed-a-fertility): An Efilist Just Bombed a Fertility Clinic. Was This Bound to Happen?</small>
 
 
-| 🔥: 46 \| 💬: [53](https://news.ycombinator.com/item?id=44024870) \| 🗓️ 2025-05-18
+| 🔥: 51 \| 💬: [67](https://news.ycombinator.com/item?id=44024870) \| 🗓️ 2025-05-18
 
 
 <br />
 5月18日，25岁的**盖伊·爱德华·巴特库斯**驾驶一辆SUV在美国生殖中心诊所外引爆自杀，造成4人受伤。他在网站promortalism.com上发布宣言，称生命是“疾病”，并呼吁消灭所有生命。这一极端行为源于**反生育主义（efilism）**，该哲学认为存在即痛苦，主张终结所有生命。巴特库斯深受好友自杀影响，其暴力行为更多源于个人崩溃，而非纯粹意识形态驱动。反生育主义代表人物加里·莫舍虽谴责此次袭击，但其激进言论仍为极端行为提供了话语框架。
+
+---
+
+## <a name="25"></a>25. Rust版Model2Vec：高性能静态文本嵌入工具 
+<small>🔗 [github.com](https://github.com/MinishLab/model2vec-rs): Show HN: Model2vec-Rs – Fast Static Text Embeddings in Rust</small>
+
+
+| 🔥: 48 \| 💬: [5](https://news.ycombinator.com/item?id=44021883) \| 🗓️ 2025-05-18
+
+
+<br />
+该项目是**Model2Vec**模型的官方Rust实现，支持从Hugging Face Hub或本地路径加载预训练模型，生成文本嵌入向量。提供**CLI工具**和API两种调用方式，支持批量处理与自定义参数（如最大长度和批次大小）。内置多款预训练模型（如`potion-base-8M`和`M2V_multilingual_output`），涵盖通用和检索任务。性能方面，Rust版本比Python实现快**1.7倍**，吞吐量达8000样本/秒。采用MIT开源协议，适合需要高效嵌入计算的场景。
 
 ---
