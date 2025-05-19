@@ -27,7 +27,7 @@ tags:
 <small>🔗 [domenic.me](https://domenic.me/fsrs/): Spaced repetition systems have gotten better</small>
 
 
-| 🔥🔥: 734 \| 💬: [432](https://news.ycombinator.com/item?id=44020591) \| 🗓️ 2025-05-18
+| 🔥🔥: 754 \| 💬: [433](https://news.ycombinator.com/item?id=44020591) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -44,7 +44,7 @@ tags:
 <small>🔗 [social.numerique.gouv.fr](https://social.numerique.gouv.fr/@codegouvfr/114529954373492878): France Endorses UN Open Source Principles</small>
 
 
-| 🔥🔥: 301 \| 💬: [72](https://news.ycombinator.com/item?id=44024759) \| 🗓️ 2025-05-18
+| 🔥🔥: 316 \| 💬: [74](https://news.ycombinator.com/item?id=44024759) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -56,7 +56,7 @@ tags:
 <small>🔗 [github.com](https://github.com/brianmg/voynich-nlp-analysis): Show HN: I modeled the Voynich Manuscript with SBERT to test for structure</small>
 
 
-| 🔥🔥: 287 \| 💬: [92](https://news.ycombinator.com/item?id=44022353) \| 🗓️ 2025-05-18
+| 🔥🔥: 295 \| 💬: [95](https://news.ycombinator.com/item?id=44022353) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -68,7 +68,7 @@ tags:
 <small>🔗 [amberwilliams.io](https://amberwilliams.io/blogs/building-my-own-pkms): Ditching Obsidian and building my own</small>
 
 
-| 🔥🔥: 256 \| 💬: [283](https://news.ycombinator.com/item?id=44022448) \| 🗓️ 2025-05-18
+| 🔥🔥: 271 \| 💬: [286](https://news.ycombinator.com/item?id=44022448) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -80,7 +80,7 @@ tags:
 <small>🔗 [sifter.org](https://sifter.org/~simon/journal/20240718.html): $30 Homebrew Automated Blinds Opener</small>
 
 
-| 🔥🔥: 201 \| 💬: [85](https://news.ycombinator.com/item?id=44022758) \| 🗓️ 2025-05-18
+| 🔥🔥: 214 \| 💬: [88](https://news.ycombinator.com/item?id=44022758) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -92,7 +92,7 @@ tags:
 <small>🔗 [notes.andymatuschak.org](https://notes.andymatuschak.org/Spaced_repetition_memory_system): Spaced Repetition Memory System</small>
 
 
-| 🔥🔥: 176 \| 💬: [16](https://news.ycombinator.com/item?id=44022225) \| 🗓️ 2025-05-18
+| 🔥🔥: 183 \| 💬: [16](https://news.ycombinator.com/item?id=44022225) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -104,7 +104,7 @@ tags:
 <small>🔗 [github.com](https://github.com/m4xshen/hardtime.nvim): Show HN: Hardtime.nvim – break bad habits and master Vim motions</small>
 
 
-| 🔥🔥: 172 \| 💬: [68](https://news.ycombinator.com/item?id=44020734) \| 🗓️ 2025-05-18
+| 🔥🔥: 174 \| 💬: [68](https://news.ycombinator.com/item?id=44020734) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -116,7 +116,7 @@ tags:
 <small>🔗 [fabiensanglard.net](https://fabiensanglard.net/2168/index.html): Building my childhood dream PC</small>
 
 
-| 🔥🔥: 153 \| 💬: [75](https://news.ycombinator.com/item?id=44021824) \| 🗓️ 2025-05-18
+| 🔥🔥: 155 \| 💬: [76](https://news.ycombinator.com/item?id=44021824) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -128,7 +128,7 @@ tags:
 <small>🔗 [github.com](https://github.com/skift-org/vaev): Show HN: Vaev – A browser engine built from scratch (It renders google.com)</small>
 
 
-| 🔥🔥: 138 \| 💬: [57](https://news.ycombinator.com/item?id=44023144) \| 🗓️ 2025-05-18
+| 🔥🔥: 151 \| 💬: [65](https://news.ycombinator.com/item?id=44023144) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -140,7 +140,7 @@ Vaev是一款**实验性浏览器引擎**，主打**轻量快速**与安全性�
 <small>🔗 [dcurt.is](https://dcurt.is/apple-card-can-disable-your-icloud-account): Apple card disabled my iCloud, App Store, and Apple ID accounts (2021)</small>
 
 
-| 🔥🔥: 136 \| 💬: [89](https://news.ycombinator.com/item?id=44021792) \| 🗓️ 2025-05-18
+| 🔥🔥: 136 \| 💬: [92](https://news.ycombinator.com/item?id=44021792) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -152,7 +152,7 @@ Vaev是一款**实验性浏览器引擎**，主打**轻量快速**与安全性�
 <small>🔗 [github.com](https://github.com/parsaghaffari/browserbee): Show HN: A web browser agent in your Chrome side panel</small>
 
 
-| 🔥🔥: 131 \| 💬: [57](https://news.ycombinator.com/item?id=44020626) \| 🗓️ 2025-05-18
+| 🔥🔥: 133 \| 💬: [58](https://news.ycombinator.com/item?id=44020626) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -176,7 +176,7 @@ Vaev是一款**实验性浏览器引擎**，主打**轻量快速**与安全性�
 <small>🔗 [rakhim.exotext.com](https://rakhim.exotext.com/thank-you-google-for-breaking-my-youtube-addiction): Thank you Google for breaking my YouTube addiction</small>
 
 
-| 🔥🔥: 107 \| 💬: [92](https://news.ycombinator.com/item?id=44020653) \| 🗓️ 2025-05-18
+| 🔥🔥: 108 \| 💬: [92](https://news.ycombinator.com/item?id=44020653) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -184,23 +184,11 @@ Vaev是一款**实验性浏览器引擎**，主打**轻量快速**与安全性�
 
 ---
 
-## <a name="14"></a>14. 超级富豪有哪些不为人知的消费？ 
-<small>🔗 [old.reddit.com](https://old.reddit.com/r/AskReddit/comments/2s9u0s/comment/cnnmca8/): What do wealthy people buy, that ordinary people know nothing about? (2015)</small>
-
-
-| 🔥: 97 \| 💬: [112](https://news.ycombinator.com/item?id=44022215) \| 🗓️ 2025-05-18
-
-
-<br />
-这篇来自Reddit的热门回答揭示了不同财富阶层的消费差异：**1000万美元级**富豪可享五星级生活但需谨慎理财；**1亿美元级**拥有私人飞机、岛屿和政商名流社交圈；**10亿美元级**则能购买**顶级资源**——从私人音乐会到国家元首会晤。最震撼的是财富带来的**时间自由**和**全球影响力**，但作者指出，巨额财富无法换取真挚情感关系。文末用收入比例换算（如兰博基尼相当于普通人花23.5美元）直观展现了富豪的消费视角。
-
----
-
-## <a name="15"></a>15. Roam的衰落与Obsidian的崛起 
+## <a name="14"></a>14. Roam的衰落与Obsidian的崛起 
 <small>🔗 [every.to](https://every.to/superorganizers/the-fall-of-roam): The Fall of Roam (2022)</small>
 
 
-| 🔥: 97 \| 💬: [46](https://news.ycombinator.com/item?id=44023423) \| 🗓️ 2025-05-18
+| 🔥🔥: 101 \| 💬: [53](https://news.ycombinator.com/item?id=44023423) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -208,7 +196,31 @@ Vaev是一款**实验性浏览器引擎**，主打**轻量快速**与安全性�
 
 ---
 
-## <a name="16"></a>16. 加密货币已成终极沼泽资产 
+## <a name="15"></a>15. 超级富豪有哪些不为人知的消费？ 
+<small>🔗 [old.reddit.com](https://old.reddit.com/r/AskReddit/comments/2s9u0s/comment/cnnmca8/): What do wealthy people buy, that ordinary people know nothing about? (2015)</small>
+
+
+| 🔥: 100 \| 💬: [122](https://news.ycombinator.com/item?id=44022215) \| 🗓️ 2025-05-18
+
+
+<br />
+这篇来自Reddit的热门回答揭示了不同财富阶层的消费差异：**1000万美元级**富豪可享五星级生活但需谨慎理财；**1亿美元级**拥有私人飞机、岛屿和政商名流社交圈；**10亿美元级**则能购买**顶级资源**——从私人音乐会到国家元首会晤。最震撼的是财富带来的**时间自由**和**全球影响力**，但作者指出，巨额财富无法换取真挚情感关系。文末用收入比例换算（如兰博基尼相当于普通人花23.5美元）直观展现了富豪的消费视角。
+
+---
+
+## <a name="16"></a>16. KDE即将推出原生虚拟机管理器"Karton" 
+<small>🔗 [neowin.net](https://www.neowin.net/news/kde-is-finally-getting-a-native-virtual-machine-manager-called-karton/): KDE is finally getting a native virtual machine manager called “Karton”</small>
+
+
+| 🔥: 88 \| 💬: [30](https://news.ycombinator.com/item?id=44024784) \| 🗓️ 2025-05-18
+
+
+<br />
+KDE Plasma用户长期以来依赖**virt-manager**或GNOME Boxes等工具管理虚拟机，但这些工具与Plasma桌面集成度不足。现在，KDE正在开发基于Qt Quick和Kirigami的原生解决方案**Karton**，该项目由Google Summer of Code 2025参与者Derek Lin主导，通过**libvirt API**实现跨平台支持。当前开发重点包括：用libosinfo替代virt-install以精准配置系统镜像、构建自定义SPICE查看器，并计划支持快照、资源监控等高级功能。目标在2025年9月前完成开发，最终提供与KDE生态深度整合的友好界面。
+
+---
+
+## <a name="17"></a>17. 加密货币已成终极沼泽资产 
 <small>🔗 [economist.com](https://www.economist.com/leaders/2025/05/15/crypto-has-become-the-ultimate-swamp-asset): Crypto has become the ultimate swamp asset</small>
 
 
@@ -220,11 +232,11 @@ Vaev是一款**实验性浏览器引擎**，主打**轻量快速**与安全性�
 
 ---
 
-## <a name="17"></a>17. Buckaroo：专为Jupyter设计的现代化数据表格工具 
+## <a name="18"></a>18. Buckaroo：专为Jupyter设计的现代化数据表格工具 
 <small>🔗 [github.com](https://github.com/paddymul/buckaroo): Show HN: Buckaroo – Data table UI for Notebooks</small>
 
 
-| 🔥: 84 \| 💬: [6](https://news.ycombinator.com/item?id=44022265) \| 🗓️ 2025-05-18
+| 🔥: 86 \| 💬: [6](https://news.ycombinator.com/item?id=44022265) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -232,23 +244,11 @@ Buckaroo是一款针对**Jupyter笔记本**优化的高性能数据表格UI，�
 
 ---
 
-## <a name="18"></a>18. KDE即将推出原生虚拟机管理器"Karton" 
-<small>🔗 [neowin.net](https://www.neowin.net/news/kde-is-finally-getting-a-native-virtual-machine-manager-called-karton/): KDE is finally getting a native virtual machine manager called “Karton”</small>
-
-
-| 🔥: 80 \| 💬: [25](https://news.ycombinator.com/item?id=44024784) \| 🗓️ 2025-05-18
-
-
-<br />
-KDE Plasma用户长期以来依赖**virt-manager**或GNOME Boxes等工具管理虚拟机，但这些工具与Plasma桌面集成度不足。现在，KDE正在开发基于Qt Quick和Kirigami的原生解决方案**Karton**，该项目由Google Summer of Code 2025参与者Derek Lin主导，通过**libvirt API**实现跨平台支持。当前开发重点包括：用libosinfo替代virt-install以精准配置系统镜像、构建自定义SPICE查看器，并计划支持快照、资源监控等高级功能。目标在2025年9月前完成开发，最终提供与KDE生态深度整合的友好界面。
-
----
-
 ## <a name="19"></a>19. 纸艺机械结构大全 
 <small>🔗 [cutfoldtemplates.com](https://cutfoldtemplates.com): Paper Mechanisms</small>
 
 
-| 🔥: 76 \| 💬: [3](https://news.ycombinator.com/item?id=44020315) \| 🗓️ 2025-05-18
+| 🔥: 77 \| 💬: [3](https://news.ycombinator.com/item?id=44020315) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -256,23 +256,11 @@ KDE Plasma用户长期以来依赖**virt-manager**或GNOME Boxes等工具管理�
 
 ---
 
-## <a name="20"></a>20. 加州个性化车牌申请驳回原因数据集（2020年） 
-<small>🔗 [github.com](https://github.com/veltman/ca-license-plates): California vanity license plate applications with reasons for rejection (2020)</small>
-
-
-| 🔥: 64 \| 💬: [70](https://news.ycombinator.com/item?id=44025022) \| 🗓️ 2025-05-18
-
-
-<br />
-该数据集包含2015-2016年间**加州车管局（DMV）**收到的23,463份个性化车牌申请，均为需审查委员会复核的案例。数据包含车牌组合、**驳回原因代码**（如涉及低俗、误导或冒犯性内容）、申请人解释及审核意见。**约50条记录因涉及个人信息被隐去**。数据来源自458份Excel文件，可能存在少量解析误差。驳回原因涵盖7类，包括性暗示、种族歧视、脏话等违规内容。数据集含大量不雅用语，需谨慎使用。
-
----
-
-## <a name="21"></a>21. K-Scale实验室：开源人形机器人，专为开发者打造 
+## <a name="20"></a>20. K-Scale实验室：开源人形机器人，专为开发者打造 
 <small>🔗 [kscale.dev](https://www.kscale.dev/): K-Scale Labs: Open-source humanoid robots, built for developers</small>
 
 
-| 🔥: 61 \| 💬: [34](https://news.ycombinator.com/item?id=44023680) \| 🗓️ 2025-05-18
+| 🔥: 68 \| 💬: [37](https://news.ycombinator.com/item?id=44023680) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -280,11 +268,23 @@ K-Scale实验室推出**K-Bot**——一款**4英尺通用人形机器人**，�
 
 ---
 
+## <a name="21"></a>21. 加州个性化车牌申请驳回原因数据集（2020年） 
+<small>🔗 [github.com](https://github.com/veltman/ca-license-plates): California vanity license plate applications with reasons for rejection (2020)</small>
+
+
+| 🔥: 67 \| 💬: [74](https://news.ycombinator.com/item?id=44025022) \| 🗓️ 2025-05-18
+
+
+<br />
+该数据集包含2015-2016年间**加州车管局（DMV）**收到的23,463份个性化车牌申请，均为需审查委员会复核的案例。数据包含车牌组合、**驳回原因代码**（如涉及低俗、误导或冒犯性内容）、申请人解释及审核意见。**约50条记录因涉及个人信息被隐去**。数据来源自458份Excel文件，可能存在少量解析误差。驳回原因涵盖7类，包括性暗示、种族歧视、脏话等违规内容。数据集含大量不雅用语，需谨慎使用。
+
+---
+
 ## <a name="22"></a>22. RISC OS图形界面的独特设计 
 <small>🔗 [telcontar.net](https://telcontar.net/Misc/GUI/RISCOS/): The RISC OS GUI</small>
 
 
-| 🔥: 60 \| 💬: [17](https://news.ycombinator.com/item?id=44021191) \| 🗓️ 2025-05-18
+| 🔥: 60 \| 💬: [19](https://news.ycombinator.com/item?id=44021191) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -292,23 +292,11 @@ K-Scale实验室推出**K-Bot**——一款**4英尺通用人形机器人**，�
 
 ---
 
-## <a name="23"></a>23. Sun Enterprise 10000的诞生历程（2007年） 
-<small>🔗 [filibeto.org](https://www.filibeto.org/aduritz/truetrue/e10000/how-e10k-wasborn.html): How the Sun Enterprise 10000 was born (2007)</small>
-
-
-| 🔥: 58 \| 💬: [57](https://news.ycombinator.com/item?id=44020975) \| 🗓️ 2025-05-18
-
-
-<br />
-一群工程师离开知名企业（多为前NCR员工）在圣地亚哥创业，研发基于**Sparc处理器**的**大规模并行计算机**。经历多次并购（包括被Cray收购）后，团队开发出支持**动态系统域**和**交替路径**技术的CS6400服务器。后因SGI无意保留该业务，Sun以5000万美元收购团队，并完成其后续产品——**Ultra Enterprise 10000（Starfire）**。这款服务器凭借卓越的可扩展性（64处理器/64GB内存）和Sun的营销资源大获成功，被Scott McNealy誉为"微软收购DOS后最划算的交易"，首年即创收数十亿美元。
-
----
-
-## <a name="24"></a>24. 新视野号飞越冥王星 
+## <a name="23"></a>23. 新视野号飞越冥王星 
 <small>🔗 [apod.nasa.gov](https://apod.nasa.gov/apod/ap250518.html): Pluto Flyover from New Horizons</small>
 
 
-| 🔥: 57 \| 💬: [15](https://news.ycombinator.com/item?id=44022233) \| 🗓️ 2025-05-18
+| 🔥: 60 \| 💬: [16](https://news.ycombinator.com/item?id=44022233) \| 🗓️ 2025-05-18
 
 
 <br />
@@ -316,11 +304,23 @@ K-Scale实验室推出**K-Bot**——一款**4英尺通用人形机器人**，�
 
 ---
 
+## <a name="24"></a>24. Sun Enterprise 10000的诞生历程（2007年） 
+<small>🔗 [filibeto.org](https://www.filibeto.org/aduritz/truetrue/e10000/how-e10k-wasborn.html): How the Sun Enterprise 10000 was born (2007)</small>
+
+
+| 🔥: 59 \| 💬: [58](https://news.ycombinator.com/item?id=44020975) \| 🗓️ 2025-05-18
+
+
+<br />
+一群工程师离开知名企业（多为前NCR员工）在圣地亚哥创业，研发基于**Sparc处理器**的**大规模并行计算机**。经历多次并购（包括被Cray收购）后，团队开发出支持**动态系统域**和**交替路径**技术的CS6400服务器。后因SGI无意保留该业务，Sun以5000万美元收购团队，并完成其后续产品——**Ultra Enterprise 10000（Starfire）**。这款服务器凭借卓越的可扩展性（64处理器/64GB内存）和Sun的营销资源大获成功，被Scott McNealy誉为"微软收购DOS后最划算的交易"，首年即创收数十亿美元。
+
+---
+
 ## <a name="25"></a>25. 诚实学生的新困扰：自证未用AI 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/17/style/ai-chatgpt-turnitin-students-cheating.html): A New Headache for Honest Students: Proving They Didn't Use A.I</small>
 
 
-| 🔥: 57 \| 💬: [59](https://news.ycombinator.com/item?id=44025127) \| 🗓️ 2025-05-18
+| 🔥: 58 \| 💬: [62](https://news.ycombinator.com/item?id=44025127) \| 🗓️ 2025-05-18
 
 
 <br />
