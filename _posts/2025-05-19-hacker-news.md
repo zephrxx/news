@@ -11,12 +11,12 @@ tags:
 1. 别再靠IP猜我的语言了；
 1. Zod 4 正式发布：性能飞跃，功能全面升级；
 1. GitHub Copilot 编程助手；
+1. 《呆伯特》作者斯科特·亚当斯自曝将因前列腺癌去世；
 1. 欧洲投资银行将注资700亿欧元推动欧洲科技发展；
-1. 2009年至今的业余项目集锦；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [vitonsky.net](https://vitonsky.net/blog/2025/05/17/language-detection/): Don't guess my language</small>
 
 
-| 🔥🔥: 600 \| 💬: [338](https://news.ycombinator.com/item?id=44028153) \| 🗓️ 2025-05-19
+| 🔥🔥: 601 \| 💬: [339](https://news.ycombinator.com/item?id=44028153) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [zod.dev](https://zod.dev/v4): Zod 4</small>
 
 
-| 🔥🔥: 546 \| 💬: [175](https://news.ycombinator.com/item?id=44030850) \| 🗓️ 2025-05-19
+| 🔥🔥: 588 \| 💬: [180](https://news.ycombinator.com/item?id=44030850) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.blog](https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/): GitHub Copilot Coding Agent</small>
 
 
-| 🔥🔥: 287 \| 💬: [176](https://news.ycombinator.com/item?id=44031432) \| 🗓️ 2025-05-19
+| 🔥🔥: 332 \| 💬: [196](https://news.ycombinator.com/item?id=44031432) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -63,47 +63,11 @@ GitHub Copilot 编程助手可**自动处理**任务，帮你从积压工作和�
 
 ---
 
-## <a name="4"></a>4. 欧洲投资银行将注资700亿欧元推动欧洲科技发展 
-<small>🔗 [ioplus.nl](https://ioplus.nl/en/posts/european-investment-bank-to-inject-70-billion-in-european-tech): European Investment Bank to inject €70B in European tech</small>
-
-
-| 🔥🔥: 263 \| 💬: [273](https://news.ycombinator.com/item?id=44031297) \| 🗓️ 2025-05-19
-
-
-<br />
-欧洲投资银行（EIB）计划到2027年向欧洲科技领域投入**700亿欧元**，旨在缩小与美国的技术差距，重点支持人工智能、军用无人机等前沿领域。该计划名为**TechEU**，将简化融资流程，将初创企业申请审批时间从18个月缩短至6个月，以快速响应市场变化。EIB还希望通过与私人投资者合作，撬动**2500亿欧元**资金，并利用当前地缘政治环境吸引国际资本，巩固欧洲作为全球科技领导者的地位。
-
----
-
-## <a name="5"></a>5. 2009年至今的业余项目集锦 
-<small>🔗 [naeemnur.com](https://naeemnur.com/side-projects/): Side projects I've built since 2009</small>
-
-
-| 🔥🔥: 236 \| 💬: [128](https://news.ycombinator.com/item?id=44027867) \| 🗓️ 2025-05-19
-
-
-<br />
-作者自2009年起持续开发**业余项目**，部分已出售，部分仍在运营，少数已关闭。项目多基于**WordPress**，少数使用Laravel和React，核心建议是**用熟悉的技术栈**，避免陷入框架选择困境。活跃项目包括游戏平台Handheld Hunt、WordPress主题商店Mild Themes等；已售项目如Flag Palette、ZeroAcquire；终止项目涵盖诗歌博客Book of Naem、加密货币工具Krypto Predict等。全文展现了持续创造与迭代的开发者精神。
-
----
-
-## <a name="6"></a>6. Claude代码SDK开发指南 
-<small>🔗 [docs.anthropic.com](https://docs.anthropic.com/en/docs/claude-code/sdk): Claude Code SDK</small>
-
-
-| 🔥🔥: 222 \| 💬: [107](https://news.ycombinator.com/item?id=44032777) \| 🗓️ 2025-05-19
-
-
-<br />
-该SDK支持开发者将**Claude代码**集成到应用中，通过命令行实现非交互式调用，未来将推出TypeScript和Python版本。核心功能包括：**多轮对话续接**（通过会话ID）、**自定义系统提示**（指导AI行为）及**MCP协议扩展**（集成外部工具）。支持JSON、流式JSON等输出格式，适用于代码审查、自动化脚本等场景，强调通过会话管理和错误处理提升稳定性。
-
----
-
-## <a name="7"></a>7. 《呆伯特》作者斯科特·亚当斯自曝将因前列腺癌去世 
+## <a name="4"></a>4. 《呆伯特》作者斯科特·亚当斯自曝将因前列腺癌去世 
 <small>🔗 [thewrap.com](https://www.thewrap.com/dilbert-scott-adams-prostate-cancer-biden/): Dilbert creator Scott Adams says he will die soon from same cancer as Joe Biden</small>
 
 
-| 🔥🔥: 215 \| 💬: [252](https://news.ycombinator.com/item?id=44031917) \| 🗓️ 2025-05-19
+| 🔥🔥: 270 \| 💬: [293](https://news.ycombinator.com/item?id=44031917) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -111,11 +75,47 @@ GitHub Copilot 编程助手可**自动处理**任务，帮你从积压工作和�
 
 ---
 
+## <a name="5"></a>5. 欧洲投资银行将注资700亿欧元推动欧洲科技发展 
+<small>🔗 [ioplus.nl](https://ioplus.nl/en/posts/european-investment-bank-to-inject-70-billion-in-european-tech): European Investment Bank to inject €70B in European tech</small>
+
+
+| 🔥🔥: 269 \| 💬: [286](https://news.ycombinator.com/item?id=44031297) \| 🗓️ 2025-05-19
+
+
+<br />
+欧洲投资银行（EIB）计划到2027年向欧洲科技领域投入**700亿欧元**，旨在缩小与美国的技术差距，重点支持人工智能、军用无人机等前沿领域。该计划名为**TechEU**，将简化融资流程，将初创企业申请审批时间从18个月缩短至6个月，以快速响应市场变化。EIB还希望通过与私人投资者合作，撬动**2500亿欧元**资金，并利用当前地缘政治环境吸引国际资本，巩固欧洲作为全球科技领导者的地位。
+
+---
+
+## <a name="6"></a>6. Claude代码SDK开发指南 
+<small>🔗 [docs.anthropic.com](https://docs.anthropic.com/en/docs/claude-code/sdk): Claude Code SDK</small>
+
+
+| 🔥🔥: 266 \| 💬: [115](https://news.ycombinator.com/item?id=44032777) \| 🗓️ 2025-05-19
+
+
+<br />
+该SDK支持开发者将**Claude代码**集成到应用中，通过命令行实现非交互式调用，未来将推出TypeScript和Python版本。核心功能包括：**多轮对话续接**（通过会话ID）、**自定义系统提示**（指导AI行为）及**MCP协议扩展**（集成外部工具）。支持JSON、流式JSON等输出格式，适用于代码审查、自动化脚本等场景，强调通过会话管理和错误处理提升稳定性。
+
+---
+
+## <a name="7"></a>7. 2009年至今的业余项目集锦 
+<small>🔗 [naeemnur.com](https://naeemnur.com/side-projects/): Side projects I've built since 2009</small>
+
+
+| 🔥🔥: 244 \| 💬: [135](https://news.ycombinator.com/item?id=44027867) \| 🗓️ 2025-05-19
+
+
+<br />
+作者自2009年起持续开发**业余项目**，部分已出售，部分仍在运营，少数已关闭。项目多基于**WordPress**，少数使用Laravel和React，核心建议是**用熟悉的技术栈**，避免陷入框架选择困境。活跃项目包括游戏平台Handheld Hunt、WordPress主题商店Mild Themes等；已售项目如Flag Palette、ZeroAcquire；终止项目涵盖诗歌博客Book of Naem、加密货币工具Krypto Predict等。全文展现了持续创造与迭代的开发者精神。
+
+---
+
 ## <a name="8"></a>8. 微软封锁国际刑事法院：数字依赖的代价 
 <small>🔗 [techzine.eu](https://www.techzine.eu/news/privacy-compliance/131536/microsofts-icc-blockade-digital-dependence-comes-at-a-cost/): Microsoft's ICC blockade: digital dependence comes at a cost</small>
 
 
-| 🔥🔥: 203 \| 💬: [104](https://news.ycombinator.com/item?id=44032717) \| 🗓️ 2025-05-19
+| 🔥🔥: 227 \| 💬: [114](https://news.ycombinator.com/item?id=44032717) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -127,7 +127,7 @@ GitHub Copilot 编程助手可**自动处理**任务，帮你从积压工作和�
 <small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/commandline/edit-is-now-open-source/): Edit is now open source</small>
 
 
-| 🔥🔥: 191 \| 💬: [80](https://news.ycombinator.com/item?id=44031529) \| 🗓️ 2025-05-19
+| 🔥🔥: 204 \| 💬: [88](https://news.ycombinator.com/item?id=44031529) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -139,7 +139,7 @@ Edit是Windows全新推出的**开源命令行文本编辑器**，未来将作�
 <small>🔗 [ncase.me](https://ncase.me/trust/): Game theory illustrated by an animated cartoon game</small>
 
 
-| 🔥🔥: 173 \| 💬: [27](https://news.ycombinator.com/item?id=44031535) \| 🗓️ 2025-05-19
+| 🔥🔥: 204 \| 💬: [35](https://news.ycombinator.com/item?id=44031535) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -147,11 +147,23 @@ Edit是Windows全新推出的**开源命令行文本编辑器**，未来将作�
 
 ---
 
-## <a name="11"></a>11. ClawPDF：开源虚拟/网络PDF打印机，支持OCR与图像处理 
+## <a name="11"></a>11. Jules：你的异步编码助手 
+<small>🔗 [jules.google](https://jules.google/): Jules: An Asynchronous Coding Agent</small>
+
+
+| 🔥🔥: 187 \| 💬: [88](https://news.ycombinator.com/item?id=44034918) \| 🗓️ 2025-05-19
+
+
+<br />
+Jules是一款能帮你处理**不想做的编码任务**的AI助手，包括**修复bug**、**版本升级**、**测试**和**构建新功能**。它通过GitHub集成，克隆你的代码库到云端，利用**Gemini 2.5 Pro模型**制定计划并提交修改。你可以快速审核代码差异，合并PR，甚至收听变更的音频摘要。节省时间，专注创意！
+
+---
+
+## <a name="12"></a>12. ClawPDF：开源虚拟/网络PDF打印机，支持OCR与图像处理 
 <small>🔗 [github.com](https://github.com/clawsoftware/clawPDF): ClawPDF – Open-Source Virtual/Network PDF Printer with OCR and Image Support</small>
 
 
-| 🔥🔥: 163 \| 💬: [23](https://news.ycombinator.com/item?id=44029142) \| 🗓️ 2025-05-19
+| 🔥🔥: 172 \| 💬: [23](https://news.ycombinator.com/item?id=44029142) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -161,11 +173,11 @@ ClawPDF是一款**开源Windows虚拟打印机**，可将文档转换为PDF、OC
 
 ---
 
-## <a name="12"></a>12. 一支后朋克乐队的Windows 98风格网站 
+## <a name="13"></a>13. 一支后朋克乐队的Windows 98风格网站 
 <small>🔗 [corp.band](https://corp.band): Show HN: Windows 98 themed website in 1 HTML file for my post punk band</small>
 
 
-| 🔥🔥: 152 \| 💬: [31](https://news.ycombinator.com/item?id=44032470) \| 🗓️ 2025-05-19
+| 🔥🔥: 161 \| 💬: [36](https://news.ycombinator.com/item?id=44032470) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -173,23 +185,11 @@ ClawPDF是一款**开源Windows虚拟打印机**，可将文档转换为PDF、OC
 
 ---
 
-## <a name="13"></a>13. Jules：你的异步编码助手 
-<small>🔗 [jules.google](https://jules.google/): Jules: An Asynchronous Coding Agent</small>
-
-
-| 🔥🔥: 142 \| 💬: [68](https://news.ycombinator.com/item?id=44034918) \| 🗓️ 2025-05-19
-
-
-<br />
-Jules是一款能帮你处理**不想做的编码任务**的AI助手，包括**修复bug**、**版本升级**、**测试**和**构建新功能**。它通过GitHub集成，克隆你的代码库到云端，利用**Gemini 2.5 Pro模型**制定计划并提交修改。你可以快速审核代码差异，合并PR，甚至收听变更的音频摘要。节省时间，专注创意！
-
----
-
 ## <a name="14"></a>14. Go语言中的过度间接引用问题 
 <small>🔗 [flak.tedunangst.com](https://flak.tedunangst.com/post/too-much-go-misdirection): Too Much Go Misdirection</small>
 
 
-| 🔥🔥: 140 \| 💬: [60](https://news.ycombinator.com/item?id=44031009) \| 🗓️ 2025-05-19
+| 🔥🔥: 148 \| 💬: [67](https://news.ycombinator.com/item?id=44031009) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -197,11 +197,23 @@ Jules是一款能帮你处理**不想做的编码任务**的AI助手，包括**�
 
 ---
 
-## <a name="15"></a>15. 扩散模型简明指南 
+## <a name="15"></a>15. 禁忌铁路：维也纳至平壤的火车之旅（2008） 
+<small>🔗 [vienna-pyongyang.blogspot.com](http://vienna-pyongyang.blogspot.com/2008/04/how-everything-began.html): The forbidden railway: Vienna-Pyongyang (2008)</small>
+
+
+| 🔥🔥: 136 \| 💬: [31](https://news.ycombinator.com/item?id=44033310) \| 🗓️ 2025-05-19
+
+
+<br />
+作者赫尔穆特是奥地利铁路员工，痴迷于火车旅行，尤其钟爱横跨大陆的长途列车。他梦想乘火车前往**朝鲜**，体验这个封闭国家的独特氛围。2006年，他尝试乘坐朝鲜的国际卧铺车厢从莫斯科到伊尔库茨克，与朝鲜乘客共处，发现他们与普通人无异。2008年，他与朋友秘密策划从**图们江口岸**入境朝鲜，尽管旅行社声称此路线不开放。最终，他们成功获得签证，踏上了这段充满冒险的旅程。
+
+---
+
+## <a name="16"></a>16. 扩散模型简明指南 
 <small>🔗 [seangoedecke.com](https://www.seangoedecke.com/diffusion-models-explained/): Diffusion models explained simply</small>
 
 
-| 🔥🔥: 116 \| 💬: [22](https://news.ycombinator.com/item?id=44029435) \| 🗓️ 2025-05-19
+| 🔥🔥: 122 \| 💬: [25](https://news.ycombinator.com/item?id=44029435) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -209,11 +221,11 @@ Jules是一款能帮你处理**不想做的编码任务**的AI助手，包括**�
 
 ---
 
-## <a name="16"></a>16. Hot Chips 2024：IBM Telum II 主频处理器与独特缓存策略 
+## <a name="17"></a>17. Hot Chips 2024：IBM Telum II 主频处理器与独特缓存策略 
 <small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy): Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy</small>
 
 
-| 🔥🔥: 115 \| 💬: [53](https://news.ycombinator.com/item?id=44028250) \| 🗓️ 2025-05-19
+| 🔥🔥: 117 \| 💬: [56](https://news.ycombinator.com/item?id=44028250) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -221,7 +233,7 @@ IBM 最新发布的 **Telum II** 主频处理器采用三星 5nm 工艺，以 **
 
 ---
 
-## <a name="17"></a>17. 2024年：人工智能的寒冬将至？ 
+## <a name="18"></a>18. 2024年：人工智能的寒冬将至？ 
 <small>🔗 [datagubbe.se](https://www.datagubbe.se/winter/): Is Winter Coming? (2024)</small>
 
 
@@ -233,11 +245,23 @@ IBM 最新发布的 **Telum II** 主频处理器采用三星 5nm 工艺，以 **
 
 ---
 
-## <a name="18"></a>18. 微软Fabric服务可靠性存疑，官方刻意隐瞒故障 
+## <a name="19"></a>19. 用AI判断数字是否为偶数：is-even-ai工具介绍 
+<small>🔗 [npmjs.com](https://www.npmjs.com/package/is-even-ai): is-even-ai – Check if a number is even using the power of AI</small>
+
+
+| 🔥🔥: 113 \| 💬: [45](https://news.ycombinator.com/item?id=44036438) \| 🗓️ 2025-05-19
+
+
+<br />
+is-even-ai是一个利用**OpenAI的GPT-3.5-turbo模型**判断数字是否为偶数的工具，灵感来源于经典的is-even npm包。支持安装后通过简单API调用实现**奇偶校验**、数值比较（如相等、大小）等功能。用户需提供API密钥，也可自定义模型参数（如temperature）。目前仅支持OpenAI平台，但鼓励贡献其他AI平台扩展。示例代码展示了基础用法和高级配置，适合想快速集成AI能力的产品场景。
+
+---
+
+## <a name="20"></a>20. 微软Fabric服务可靠性存疑，官方刻意隐瞒故障 
 <small>🔗 [brentozar.com](https://www.brentozar.com/archive/2025/05/fabric-is-just-plain-unreliable-and-microsofts-hiding-it/): Fabric Is Just Plain Unreliable, and Microsoft's Hiding It</small>
 
 
-| 🔥: 100 \| 💬: [9](https://news.ycombinator.com/item?id=44029566) \| 🗓️ 2025-05-19
+| 🔥🔥: 103 \| 💬: [9](https://news.ycombinator.com/item?id=44029566) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -249,11 +273,11 @@ IBM 最新发布的 **Telum II** 主频处理器采用三星 5nm 工艺，以 **
 
 ---
 
-## <a name="19"></a>19. Discover正式并入Capital One 
+## <a name="21"></a>21. Discover正式并入Capital One 
 <small>🔗 [discover.com](https://www.discover.com/faqs/merger/): Discover is now part of Capital One</small>
 
 
-| 🔥: 100 \| 💬: [77](https://news.ycombinator.com/item?id=44031000) \| 🗓️ 2025-05-19
+| 🔥🔥: 101 \| 💬: [77](https://news.ycombinator.com/item?id=44031000) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -261,11 +285,11 @@ IBM 最新发布的 **Telum II** 主频处理器采用三星 5nm 工艺，以 **
 
 ---
 
-## <a name="20"></a>20. 微软开源Copilot：VS Code迈向AI编辑器新时代 
+## <a name="22"></a>22. 微软开源Copilot：VS Code迈向AI编辑器新时代 
 <small>🔗 [code.visualstudio.com](https://code.visualstudio.com/blogs/2025/05/19/openSourceAIEditor): Microsoft Open Sources Copilot</small>
 
 
-| 🔥: 93 \| 💬: [10](https://news.ycombinator.com/item?id=44031344) \| 🗓️ 2025-05-19
+| 🔥🔥: 101 \| 💬: [12](https://news.ycombinator.com/item?id=44031344) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -273,7 +297,7 @@ VS Code团队宣布将**GitHub Copilot Chat扩展**的代码以MIT协议开源�
 
 ---
 
-## <a name="21"></a>21. 特朗普家族以白宫为筹码的全球商业扩张 
+## <a name="23"></a>23. 特朗普家族以白宫为筹码的全球商业扩张 
 <small>🔗 [english.elpais.com](https://english.elpais.com/economy-and-business/2025-05-19/the-white-house-llc.html): The White House, LLC</small>
 
 
@@ -285,11 +309,11 @@ VS Code团队宣布将**GitHub Copilot Chat扩展**的代码以MIT协议开源�
 
 ---
 
-## <a name="22"></a>22. 维基百科翻译量最高的文章榜单 
+## <a name="24"></a>24. 维基百科翻译量最高的文章榜单 
 <small>🔗 [sohom.dev](https://sohom.dev/most-translated-articles-on-wikipedia/pretty.html): Wikipedia's Most Translated Articles</small>
 
 
-| 🔥: 89 \| 💬: [59](https://news.ycombinator.com/item?id=44031144) \| 🗓️ 2025-05-19
+| 🔥: 92 \| 💬: [64](https://news.ycombinator.com/item?id=44031144) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -297,7 +321,7 @@ VS Code团队宣布将**GitHub Copilot Chat扩展**的代码以MIT协议开源�
 
 ---
 
-## <a name="23"></a>23. 刷手机如何成为一种宗教行为 
+## <a name="25"></a>25. 刷手机如何成为一种宗教行为 
 <small>🔗 [etymology.substack.com](https://etymology.substack.com/p/youre-literally-worshipping-your): How scrolling becomes a religious act</small>
 
 
@@ -306,17 +330,5 @@ VS Code团队宣布将**GitHub Copilot Chat扩展**的代码以MIT协议开源�
 
 <br />
 本文探讨了现代人对科技的**宗教式崇拜**，尤其是对手机和算法的依赖。硅谷将AI视为“上帝”，而普通人则通过简化算法、赋予其人格化特征（如“算法懂我”）来模仿宗教语言。**集体亢奋**（collective effervescence）理论解释了社交媒体如何通过群体参与制造神圣感，例如病毒式传播的梗或音乐。作者指出，这种仪式化行为本身无害，但需警惕其操纵性，避免丧失自我意识。
-
----
-
-## <a name="24"></a>24. 残酷僵尸的进攻——保罗·克鲁格曼 
-<small>🔗 [paulkrugman.substack.com](https://paulkrugman.substack.com/p/attack-of-the-sadistic-zombies): Attack of the Sadistic Zombies – Paul Krugman</small>
-
-
-| 🔥: 73 \| 💬: [21](https://news.ycombinator.com/item?id=44029191) \| 🗓️ 2025-05-19
-
-
-<br />
-保罗·克鲁格曼批评**共和党预算案**极度不公，通过**大幅削减医疗补助**等福利计划加剧低收入群体的困境，同时为富人提供税收优惠。他指出，该法案以虚假的"工作需求"为由剥夺弱势群体权益，实则是**意识形态驱动的残忍行为**，而非经济考量。数据显示，仅3%的医疗补助受益者为非残疾且长期失业的成年人，但共和党仍坚持这一无效政策，导致最需要帮助的人被排除在外。克鲁格曼认为，这种**刻意制造的苦难**反映了右翼对弱势群体的冷漠甚至恶意。
 
 ---
