@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [vitonsky.net](https://vitonsky.net/blog/2025/05/17/language-detection/): Don't guess my language</small>
 
 
-| 🔥🔥: 594 \| 💬: [336](https://news.ycombinator.com/item?id=44028153) \| 🗓️ 2025-05-19
+| 🔥🔥: 600 \| 💬: [338](https://news.ycombinator.com/item?id=44028153) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [zod.dev](https://zod.dev/v4): Zod 4</small>
 
 
-| 🔥🔥: 526 \| 💬: [174](https://news.ycombinator.com/item?id=44030850) \| 🗓️ 2025-05-19
+| 🔥🔥: 546 \| 💬: [175](https://news.ycombinator.com/item?id=44030850) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.blog](https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/): GitHub Copilot Coding Agent</small>
 
 
-| 🔥🔥: 261 \| 💬: [148](https://news.ycombinator.com/item?id=44031432) \| 🗓️ 2025-05-19
+| 🔥🔥: 287 \| 💬: [176](https://news.ycombinator.com/item?id=44031432) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -67,7 +67,7 @@ GitHub Copilot 编程助手可**自动处理**任务，帮你从积压工作和�
 <small>🔗 [ioplus.nl](https://ioplus.nl/en/posts/european-investment-bank-to-inject-70-billion-in-european-tech): European Investment Bank to inject €70B in European tech</small>
 
 
-| 🔥🔥: 250 \| 💬: [254](https://news.ycombinator.com/item?id=44031297) \| 🗓️ 2025-05-19
+| 🔥🔥: 263 \| 💬: [273](https://news.ycombinator.com/item?id=44031297) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -79,7 +79,7 @@ GitHub Copilot 编程助手可**自动处理**任务，帮你从积压工作和�
 <small>🔗 [naeemnur.com](https://naeemnur.com/side-projects/): Side projects I've built since 2009</small>
 
 
-| 🔥🔥: 230 \| 💬: [128](https://news.ycombinator.com/item?id=44027867) \| 🗓️ 2025-05-19
+| 🔥🔥: 236 \| 💬: [128](https://news.ycombinator.com/item?id=44027867) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -91,7 +91,7 @@ GitHub Copilot 编程助手可**自动处理**任务，帮你从积压工作和�
 <small>🔗 [docs.anthropic.com](https://docs.anthropic.com/en/docs/claude-code/sdk): Claude Code SDK</small>
 
 
-| 🔥🔥: 198 \| 💬: [100](https://news.ycombinator.com/item?id=44032777) \| 🗓️ 2025-05-19
+| 🔥🔥: 222 \| 💬: [107](https://news.ycombinator.com/item?id=44032777) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -99,23 +99,11 @@ GitHub Copilot 编程助手可**自动处理**任务，帮你从积压工作和�
 
 ---
 
-## <a name="7"></a>7. 微软封锁国际刑事法院：数字依赖的代价 
-<small>🔗 [techzine.eu](https://www.techzine.eu/news/privacy-compliance/131536/microsofts-icc-blockade-digital-dependence-comes-at-a-cost/): Microsoft's ICC blockade: digital dependence comes at a cost</small>
-
-
-| 🔥🔥: 191 \| 💬: [94](https://news.ycombinator.com/item?id=44032717) \| 🗓️ 2025-05-19
-
-
-<br />
-美国对国际刑事法院（ICC）实施制裁后，首席检察官卡里姆·汗的**微软邮箱账户**被冻结，银行账户亦受影响，导致ICC工作瘫痪。此事凸显依赖**美国IT服务**的地缘政治风险。欧洲政府虽认为微软服务的优势可抵消潜在问题，但若美欧关系恶化，**数字主权**可能受威胁。非美政府需警惕关键服务被切断的风险，并考虑替代方案。合同与承诺在政治冲突前可能失效，自主技术储备至关重要。
-
----
-
-## <a name="8"></a>8. 《呆伯特》作者斯科特·亚当斯自曝将因前列腺癌去世 
+## <a name="7"></a>7. 《呆伯特》作者斯科特·亚当斯自曝将因前列腺癌去世 
 <small>🔗 [thewrap.com](https://www.thewrap.com/dilbert-scott-adams-prostate-cancer-biden/): Dilbert creator Scott Adams says he will die soon from same cancer as Joe Biden</small>
 
 
-| 🔥🔥: 187 \| 💬: [223](https://news.ycombinator.com/item?id=44031917) \| 🗓️ 2025-05-19
+| 🔥🔥: 215 \| 💬: [252](https://news.ycombinator.com/item?id=44031917) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -123,11 +111,23 @@ GitHub Copilot 编程助手可**自动处理**任务，帮你从积压工作和�
 
 ---
 
+## <a name="8"></a>8. 微软封锁国际刑事法院：数字依赖的代价 
+<small>🔗 [techzine.eu](https://www.techzine.eu/news/privacy-compliance/131536/microsofts-icc-blockade-digital-dependence-comes-at-a-cost/): Microsoft's ICC blockade: digital dependence comes at a cost</small>
+
+
+| 🔥🔥: 203 \| 💬: [104](https://news.ycombinator.com/item?id=44032717) \| 🗓️ 2025-05-19
+
+
+<br />
+美国对国际刑事法院（ICC）实施制裁后，首席检察官卡里姆·汗的**微软邮箱账户**被冻结，银行账户亦受影响，导致ICC工作瘫痪。此事凸显依赖**美国IT服务**的地缘政治风险。欧洲政府虽认为微软服务的优势可抵消潜在问题，但若美欧关系恶化，**数字主权**可能受威胁。非美政府需警惕关键服务被切断的风险，并考虑替代方案。合同与承诺在政治冲突前可能失效，自主技术储备至关重要。
+
+---
+
 ## <a name="9"></a>9. 微软开源命令行文本编辑器Edit 
 <small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/commandline/edit-is-now-open-source/): Edit is now open source</small>
 
 
-| 🔥🔥: 177 \| 💬: [69](https://news.ycombinator.com/item?id=44031529) \| 🗓️ 2025-05-19
+| 🔥🔥: 191 \| 💬: [80](https://news.ycombinator.com/item?id=44031529) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -135,11 +135,23 @@ Edit是Windows全新推出的**开源命令行文本编辑器**，未来将作�
 
 ---
 
-## <a name="10"></a>10. ClawPDF：开源虚拟/网络PDF打印机，支持OCR与图像处理 
+## <a name="10"></a>10. 用动画游戏图解博弈论 
+<small>🔗 [ncase.me](https://ncase.me/trust/): Game theory illustrated by an animated cartoon game</small>
+
+
+| 🔥🔥: 173 \| 💬: [27](https://news.ycombinator.com/item?id=44031535) \| 🗓️ 2025-05-19
+
+
+<br />
+该内容展示了一个通过**动画卡通游戏**来阐释**博弈论**概念的创意项目。页面提供了多语言翻译选项（如西班牙语、法语、中文等），并邀请用户参与**协作翻译**。核心亮点是将抽象理论转化为直观的互动形式，适合跨文化学习与传播。
+
+---
+
+## <a name="11"></a>11. ClawPDF：开源虚拟/网络PDF打印机，支持OCR与图像处理 
 <small>🔗 [github.com](https://github.com/clawsoftware/clawPDF): ClawPDF – Open-Source Virtual/Network PDF Printer with OCR and Image Support</small>
 
 
-| 🔥🔥: 160 \| 💬: [23](https://news.ycombinator.com/item?id=44029142) \| 🗓️ 2025-05-19
+| 🔥🔥: 163 \| 💬: [23](https://news.ycombinator.com/item?id=44029142) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -149,23 +161,11 @@ ClawPDF是一款**开源Windows虚拟打印机**，可将文档转换为PDF、OC
 
 ---
 
-## <a name="11"></a>11. 用动画游戏图解博弈论 
-<small>🔗 [ncase.me](https://ncase.me/trust/): Game theory illustrated by an animated cartoon game</small>
-
-
-| 🔥🔥: 152 \| 💬: [23](https://news.ycombinator.com/item?id=44031535) \| 🗓️ 2025-05-19
-
-
-<br />
-该内容展示了一个通过**动画卡通游戏**来阐释**博弈论**概念的创意项目。页面提供了多语言翻译选项（如西班牙语、法语、中文等），并邀请用户参与**协作翻译**。核心亮点是将抽象理论转化为直观的互动形式，适合跨文化学习与传播。
-
----
-
 ## <a name="12"></a>12. 一支后朋克乐队的Windows 98风格网站 
 <small>🔗 [corp.band](https://corp.band): Show HN: Windows 98 themed website in 1 HTML file for my post punk band</small>
 
 
-| 🔥🔥: 144 \| 💬: [29](https://news.ycombinator.com/item?id=44032470) \| 🗓️ 2025-05-19
+| 🔥🔥: 152 \| 💬: [31](https://news.ycombinator.com/item?id=44032470) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -173,11 +173,23 @@ ClawPDF是一款**开源Windows虚拟打印机**，可将文档转换为PDF、OC
 
 ---
 
-## <a name="13"></a>13. Go语言中的过度间接引用问题 
+## <a name="13"></a>13. Jules：你的异步编码助手 
+<small>🔗 [jules.google](https://jules.google/): Jules: An Asynchronous Coding Agent</small>
+
+
+| 🔥🔥: 142 \| 💬: [68](https://news.ycombinator.com/item?id=44034918) \| 🗓️ 2025-05-19
+
+
+<br />
+Jules是一款能帮你处理**不想做的编码任务**的AI助手，包括**修复bug**、**版本升级**、**测试**和**构建新功能**。它通过GitHub集成，克隆你的代码库到云端，利用**Gemini 2.5 Pro模型**制定计划并提交修改。你可以快速审核代码差异，合并PR，甚至收听变更的音频摘要。节省时间，专注创意！
+
+---
+
+## <a name="14"></a>14. Go语言中的过度间接引用问题 
 <small>🔗 [flak.tedunangst.com](https://flak.tedunangst.com/post/too-much-go-misdirection): Too Much Go Misdirection</small>
 
 
-| 🔥🔥: 133 \| 💬: [58](https://news.ycombinator.com/item?id=44031009) \| 🗓️ 2025-05-19
+| 🔥🔥: 140 \| 💬: [60](https://news.ycombinator.com/item?id=44031009) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -185,7 +197,31 @@ ClawPDF是一款**开源Windows虚拟打印机**，可将文档转换为PDF、OC
 
 ---
 
-## <a name="14"></a>14. 2024年：人工智能的寒冬将至？ 
+## <a name="15"></a>15. 扩散模型简明指南 
+<small>🔗 [seangoedecke.com](https://www.seangoedecke.com/diffusion-models-explained/): Diffusion models explained simply</small>
+
+
+| 🔥🔥: 116 \| 💬: [22](https://news.ycombinator.com/item?id=44029435) \| 🗓️ 2025-05-19
+
+
+<br />
+扩散模型通过**逐步去噪**生成图像：训练时让模型预测添加到图像中的噪声，推理时则从纯噪声开始，结合文本描述反复去噪直至生成目标图像。与**Transformer**不同，扩散模型直接处理完整图像而非序列，且支持中途停止以平衡质量与速度。核心组件包括**变分自编码器**（压缩图像）和**无分类器引导**（增强文本控制）。该技术可扩展至视频和音频生成，但文本领域因噪声添加困难仍不成熟。
+
+---
+
+## <a name="16"></a>16. Hot Chips 2024：IBM Telum II 主频处理器与独特缓存策略 
+<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy): Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy</small>
+
+
+| 🔥🔥: 115 \| 💬: [53](https://news.ycombinator.com/item?id=44028250) \| 🗓️ 2025-05-19
+
+
+<br />
+IBM 最新发布的 **Telum II** 主频处理器采用三星 5nm 工艺，以 **5.5 GHz 高频八核** 设计为核心，配备 **360 MB 片上缓存**，并集成 DPU 和 AI 加速器。其创新点在于 **虚拟 L3/L4 缓存技术**：通过动态分配 L2 缓存（单核 36 MB）作为共享资源，减少数据冗余并优化延迟。跨芯片虚拟 L4 缓存可达 2.8 GB，延迟仅 48.5 ns。该设计兼顾单线程性能与缓存效率，延续了 IBM 主频处理器在金融交易等低延迟场景的优势。
+
+---
+
+## <a name="17"></a>17. 2024年：人工智能的寒冬将至？ 
 <small>🔗 [datagubbe.se](https://www.datagubbe.se/winter/): Is Winter Coming? (2024)</small>
 
 
@@ -197,47 +233,11 @@ ClawPDF是一款**开源Windows虚拟打印机**，可将文档转换为PDF、OC
 
 ---
 
-## <a name="15"></a>15. Hot Chips 2024：IBM Telum II 主频处理器与独特缓存策略 
-<small>🔗 [chipsandcheese.com](https://chipsandcheese.com/p/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy): Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy</small>
-
-
-| 🔥🔥: 113 \| 💬: [51](https://news.ycombinator.com/item?id=44028250) \| 🗓️ 2025-05-19
-
-
-<br />
-IBM 最新发布的 **Telum II** 主频处理器采用三星 5nm 工艺，以 **5.5 GHz 高频八核** 设计为核心，配备 **360 MB 片上缓存**，并集成 DPU 和 AI 加速器。其创新点在于 **虚拟 L3/L4 缓存技术**：通过动态分配 L2 缓存（单核 36 MB）作为共享资源，减少数据冗余并优化延迟。跨芯片虚拟 L4 缓存可达 2.8 GB，延迟仅 48.5 ns。该设计兼顾单线程性能与缓存效率，延续了 IBM 主频处理器在金融交易等低延迟场景的优势。
-
----
-
-## <a name="16"></a>16. 扩散模型简明指南 
-<small>🔗 [seangoedecke.com](https://www.seangoedecke.com/diffusion-models-explained/): Diffusion Models Explained Simply</small>
-
-
-| 🔥🔥: 109 \| 💬: [19](https://news.ycombinator.com/item?id=44029435) \| 🗓️ 2025-05-19
-
-
-<br />
-扩散模型通过**逐步去噪**生成图像：训练时让模型预测添加到图像中的噪声，推理时则从纯噪声开始，结合文本描述反复去噪直至生成目标图像。与**Transformer**不同，扩散模型直接处理完整图像而非序列，且支持中途停止以平衡质量与速度。核心组件包括**变分自编码器**（压缩图像）和**无分类器引导**（增强文本控制）。该技术可扩展至视频和音频生成，但文本领域因噪声添加困难仍不成熟。
-
----
-
-## <a name="17"></a>17. Discover正式并入Capital One 
-<small>🔗 [discover.com](https://www.discover.com/faqs/merger/): Discover is now part of Capital One</small>
-
-
-| 🔥: 100 \| 💬: [77](https://news.ycombinator.com/item?id=44031000) \| 🗓️ 2025-05-19
-
-
-<br />
-2025年5月18日，**Discover Bank**正式与**Capital One**完成合并。此次合并涵盖信用卡、在线银行账户及各类贷款业务（如学生贷款、住房贷款等）。用户可继续通过原有渠道获取服务支持，**美国本土客服团队**仍提供电话与在线聊天协助。更多更新信息将陆续发布，请持续关注官方通知。
-
----
-
 ## <a name="18"></a>18. 微软Fabric服务可靠性存疑，官方刻意隐瞒故障 
 <small>🔗 [brentozar.com](https://www.brentozar.com/archive/2025/05/fabric-is-just-plain-unreliable-and-microsofts-hiding-it/): Fabric Is Just Plain Unreliable, and Microsoft's Hiding It</small>
 
 
-| 🔥: 96 \| 💬: [8](https://news.ycombinator.com/item?id=44029566) \| 🗓️ 2025-05-19
+| 🔥: 100 \| 💬: [9](https://news.ycombinator.com/item?id=44029566) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -249,7 +249,31 @@ IBM 最新发布的 **Telum II** 主频处理器采用三星 5nm 工艺，以 **
 
 ---
 
-## <a name="19"></a>19. 特朗普家族以白宫为筹码的全球商业扩张 
+## <a name="19"></a>19. Discover正式并入Capital One 
+<small>🔗 [discover.com](https://www.discover.com/faqs/merger/): Discover is now part of Capital One</small>
+
+
+| 🔥: 100 \| 💬: [77](https://news.ycombinator.com/item?id=44031000) \| 🗓️ 2025-05-19
+
+
+<br />
+2025年5月18日，**Discover Bank**正式与**Capital One**完成合并。此次合并涵盖信用卡、在线银行账户及各类贷款业务（如学生贷款、住房贷款等）。用户可继续通过原有渠道获取服务支持，**美国本土客服团队**仍提供电话与在线聊天协助。更多更新信息将陆续发布，请持续关注官方通知。
+
+---
+
+## <a name="20"></a>20. 微软开源Copilot：VS Code迈向AI编辑器新时代 
+<small>🔗 [code.visualstudio.com](https://code.visualstudio.com/blogs/2025/05/19/openSourceAIEditor): Microsoft Open Sources Copilot</small>
+
+
+| 🔥: 93 \| 💬: [10](https://news.ycombinator.com/item?id=44031344) \| 🗓️ 2025-05-19
+
+
+<br />
+VS Code团队宣布将**GitHub Copilot Chat扩展**的代码以MIT协议开源，并逐步将其核心AI功能整合至VS Code主程序。此举旨在坚持**开源协作**原则，推动开发者生态发展。开源动机包括：大语言模型技术成熟降低保密需求、统一AI交互界面趋势、提升扩展开发透明度及安全性。团队还将开源**提示词测试工具**，方便社区贡献。此举标志着VS Code正式成为**开源AI编辑器**，未来开发将更开放透明。
+
+---
+
+## <a name="21"></a>21. 特朗普家族以白宫为筹码的全球商业扩张 
 <small>🔗 [english.elpais.com](https://english.elpais.com/economy-and-business/2025-05-19/the-white-house-llc.html): The White House, LLC</small>
 
 
@@ -261,23 +285,11 @@ IBM 最新发布的 **Telum II** 主频处理器采用三星 5nm 工艺，以 **
 
 ---
 
-## <a name="20"></a>20. 微软开源Copilot：VS Code迈向AI编辑器新时代 
-<small>🔗 [code.visualstudio.com](https://code.visualstudio.com/blogs/2025/05/19/openSourceAIEditor): Microsoft Open Sources Copilot</small>
-
-
-| 🔥: 91 \| 💬: [10](https://news.ycombinator.com/item?id=44031344) \| 🗓️ 2025-05-19
-
-
-<br />
-VS Code团队宣布将**GitHub Copilot Chat扩展**的代码以MIT协议开源，并逐步将其核心AI功能整合至VS Code主程序。此举旨在坚持**开源协作**原则，推动开发者生态发展。开源动机包括：大语言模型技术成熟降低保密需求、统一AI交互界面趋势、提升扩展开发透明度及安全性。团队还将开源**提示词测试工具**，方便社区贡献。此举标志着VS Code正式成为**开源AI编辑器**，未来开发将更开放透明。
-
----
-
-## <a name="21"></a>21. 维基百科翻译量最高的文章榜单 
+## <a name="22"></a>22. 维基百科翻译量最高的文章榜单 
 <small>🔗 [sohom.dev](https://sohom.dev/most-translated-articles-on-wikipedia/pretty.html): Wikipedia's Most Translated Articles</small>
 
 
-| 🔥: 86 \| 💬: [56](https://news.ycombinator.com/item?id=44031144) \| 🗓️ 2025-05-19
+| 🔥: 89 \| 💬: [59](https://news.ycombinator.com/item?id=44031144) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -285,7 +297,7 @@ VS Code团队宣布将**GitHub Copilot Chat扩展**的代码以MIT协议开源�
 
 ---
 
-## <a name="22"></a>22. 刷手机如何成为一种宗教行为 
+## <a name="23"></a>23. 刷手机如何成为一种宗教行为 
 <small>🔗 [etymology.substack.com](https://etymology.substack.com/p/youre-literally-worshipping-your): How scrolling becomes a religious act</small>
 
 
@@ -297,7 +309,7 @@ VS Code团队宣布将**GitHub Copilot Chat扩展**的代码以MIT协议开源�
 
 ---
 
-## <a name="23"></a>23. 残酷僵尸的进攻——保罗·克鲁格曼 
+## <a name="24"></a>24. 残酷僵尸的进攻——保罗·克鲁格曼 
 <small>🔗 [paulkrugman.substack.com](https://paulkrugman.substack.com/p/attack-of-the-sadistic-zombies): Attack of the Sadistic Zombies – Paul Krugman</small>
 
 
