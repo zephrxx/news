@@ -27,7 +27,7 @@ tags:
 <small>🔗 [zod.dev](https://zod.dev/v4): Zod 4</small>
 
 
-| 🔥🔥: 630 \| 💬: [190](https://news.ycombinator.com/item?id=44030850) \| 🗓️ 2025-05-19
+| 🔥🔥: 642 \| 💬: [193](https://news.ycombinator.com/item?id=44030850) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [vitonsky.net](https://vitonsky.net/blog/2025/05/17/language-detection/): Don't guess my language</small>
 
 
-| 🔥🔥: 610 \| 💬: [342](https://news.ycombinator.com/item?id=44028153) \| 🗓️ 2025-05-19
+| 🔥🔥: 611 \| 💬: [342](https://news.ycombinator.com/item?id=44028153) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.blog](https://github.blog/changelog/2025-05-19-github-copilot-coding-agent-in-public-preview/): GitHub Copilot Coding Agent</small>
 
 
-| 🔥🔥: 380 \| 💬: [223](https://news.ycombinator.com/item?id=44031432) \| 🗓️ 2025-05-19
+| 🔥🔥: 390 \| 💬: [227](https://news.ycombinator.com/item?id=44031432) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -67,7 +67,7 @@ GitHub Copilot 编程助手可**自动处理**任务，帮你从积压工作和�
 <small>🔗 [thewrap.com](https://www.thewrap.com/dilbert-scott-adams-prostate-cancer-biden/): Dilbert creator Scott Adams says he will die soon from same cancer as Joe Biden</small>
 
 
-| 🔥🔥: 317 \| 💬: [365](https://news.ycombinator.com/item?id=44031917) \| 🗓️ 2025-05-19
+| 🔥🔥: 337 \| 💬: [386](https://news.ycombinator.com/item?id=44031917) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -79,7 +79,7 @@ GitHub Copilot 编程助手可**自动处理**任务，帮你从积压工作和�
 <small>🔗 [docs.anthropic.com](https://docs.anthropic.com/en/docs/claude-code/sdk): Claude Code SDK</small>
 
 
-| 🔥🔥: 303 \| 💬: [135](https://news.ycombinator.com/item?id=44032777) \| 🗓️ 2025-05-19
+| 🔥🔥: 316 \| 💬: [143](https://news.ycombinator.com/item?id=44032777) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -87,35 +87,11 @@ GitHub Copilot 编程助手可**自动处理**任务，帮你从积压工作和�
 
 ---
 
-## <a name="6"></a>6. 欧洲投资银行将注资700亿欧元推动欧洲科技发展 
-<small>🔗 [ioplus.nl](https://ioplus.nl/en/posts/european-investment-bank-to-inject-70-billion-in-european-tech): European Investment Bank to inject €70B in European tech</small>
-
-
-| 🔥🔥: 276 \| 💬: [296](https://news.ycombinator.com/item?id=44031297) \| 🗓️ 2025-05-19
-
-
-<br />
-欧洲投资银行（EIB）计划到2027年向欧洲科技领域投入**700亿欧元**，旨在缩小与美国的技术差距，重点支持人工智能、军用无人机等前沿领域。该计划名为**TechEU**，将简化融资流程，将初创企业申请审批时间从18个月缩短至6个月，以快速响应市场变化。EIB还希望通过与私人投资者合作，撬动**2500亿欧元**资金，并利用当前地缘政治环境吸引国际资本，巩固欧洲作为全球科技领导者的地位。
-
----
-
-## <a name="7"></a>7. Jules：你的异步编码助手 
-<small>🔗 [jules.google](https://jules.google/): Jules: An Asynchronous Coding Agent</small>
-
-
-| 🔥🔥: 263 \| 💬: [107](https://news.ycombinator.com/item?id=44034918) \| 🗓️ 2025-05-19
-
-
-<br />
-Jules是一款能帮你处理**不想做的编码任务**的AI助手，包括**修复bug**、**版本升级**、**测试**和**构建新功能**。它通过GitHub集成，克隆你的代码库到云端，利用**Gemini 2.5 Pro模型**制定计划并提交修改。你可以快速审核代码差异，合并PR，甚至收听变更的音频摘要。节省时间，专注创意！
-
----
-
-## <a name="8"></a>8. DDoSecrets公开410GB以色列公司TeleMessage泄露的通讯数据 
+## <a name="6"></a>6. DDoSecrets公开410GB以色列公司TeleMessage泄露的通讯数据 
 <small>🔗 [micahflee.com](https://micahflee.com/ddosecrets-publishes-410-gb-of-heap-dumps-hacked-from-telemessages-archive-server/): DDoSecrets publishes 410 GB of heap dumps, hacked from TeleMessage</small>
 
 
-| 🔥🔥: 262 \| 💬: [59](https://news.ycombinator.com/item?id=44036647) \| 🗓️ 2025-05-19
+| 🔥🔥: 311 \| 💬: [72](https://news.ycombinator.com/item?id=44036647) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -123,35 +99,35 @@ Jules是一款能帮你处理**不想做的编码任务**的AI助手，包括**�
 
 ---
 
-## <a name="9"></a>9. 2009年至今的业余项目集锦 
-<small>🔗 [naeemnur.com](https://naeemnur.com/side-projects/): Side projects I've built since 2009</small>
+## <a name="7"></a>7. 欧洲投资银行将注资700亿欧元推动欧洲科技发展 
+<small>🔗 [ioplus.nl](https://ioplus.nl/en/posts/european-investment-bank-to-inject-70-billion-in-european-tech): European Investment Bank to inject €70B in European tech</small>
 
 
-| 🔥🔥: 248 \| 💬: [135](https://news.ycombinator.com/item?id=44027867) \| 🗓️ 2025-05-19
-
-
-<br />
-作者自2009年起持续开发**业余项目**，部分已出售，部分仍在运营，少数已关闭。项目多基于**WordPress**，少数使用Laravel和React，核心建议是**用熟悉的技术栈**，避免陷入框架选择困境。活跃项目包括游戏平台Handheld Hunt、WordPress主题商店Mild Themes等；已售项目如Flag Palette、ZeroAcquire；终止项目涵盖诗歌博客Book of Naem、加密货币工具Krypto Predict等。全文展现了持续创造与迭代的开发者精神。
-
----
-
-## <a name="10"></a>10. 微软封锁国际刑事法院：数字依赖的代价 
-<small>🔗 [techzine.eu](https://www.techzine.eu/news/privacy-compliance/131536/microsofts-icc-blockade-digital-dependence-comes-at-a-cost/): Microsoft's ICC blockade: digital dependence comes at a cost</small>
-
-
-| 🔥🔥: 242 \| 💬: [121](https://news.ycombinator.com/item?id=44032717) \| 🗓️ 2025-05-19
+| 🔥🔥: 280 \| 💬: [305](https://news.ycombinator.com/item?id=44031297) \| 🗓️ 2025-05-19
 
 
 <br />
-美国对国际刑事法院（ICC）实施制裁后，首席检察官卡里姆·汗的**微软邮箱账户**被冻结，银行账户亦受影响，导致ICC工作瘫痪。此事凸显依赖**美国IT服务**的地缘政治风险。欧洲政府虽认为微软服务的优势可抵消潜在问题，但若美欧关系恶化，**数字主权**可能受威胁。非美政府需警惕关键服务被切断的风险，并考虑替代方案。合同与承诺在政治冲突前可能失效，自主技术储备至关重要。
+欧洲投资银行（EIB）计划到2027年向欧洲科技领域投入**700亿欧元**，旨在缩小与美国的技术差距，重点支持人工智能、军用无人机等前沿领域。该计划名为**TechEU**，将简化融资流程，将初创企业申请审批时间从18个月缩短至6个月，以快速响应市场变化。EIB还希望通过与私人投资者合作，撬动**2500亿欧元**资金，并利用当前地缘政治环境吸引国际资本，巩固欧洲作为全球科技领导者的地位。
 
 ---
 
-## <a name="11"></a>11. 用动画游戏图解博弈论 
+## <a name="8"></a>8. Jules：你的异步编码助手 
+<small>🔗 [jules.google](https://jules.google/): Jules: An Asynchronous Coding Agent</small>
+
+
+| 🔥🔥: 280 \| 💬: [114](https://news.ycombinator.com/item?id=44034918) \| 🗓️ 2025-05-19
+
+
+<br />
+Jules是一款能帮你处理**不想做的编码任务**的AI助手，包括**修复bug**、**版本升级**、**测试**和**构建新功能**。它通过GitHub集成，克隆你的代码库到云端，利用**Gemini 2.5 Pro模型**制定计划并提交修改。你可以快速审核代码差异，合并PR，甚至收听变更的音频摘要。节省时间，专注创意！
+
+---
+
+## <a name="9"></a>9. 用动画游戏图解博弈论 
 <small>🔗 [ncase.me](https://ncase.me/trust/): Game theory illustrated by an animated cartoon game</small>
 
 
-| 🔥🔥: 240 \| 💬: [40](https://news.ycombinator.com/item?id=44031535) \| 🗓️ 2025-05-19
+| 🔥🔥: 255 \| 💬: [41](https://news.ycombinator.com/item?id=44031535) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -159,23 +135,35 @@ Jules是一款能帮你处理**不想做的编码任务**的AI助手，包括**�
 
 ---
 
-## <a name="12"></a>12. 微软开源命令行文本编辑器Edit 
-<small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/commandline/edit-is-now-open-source/): Edit is now open source</small>
+## <a name="10"></a>10. 2009年至今的业余项目集锦 
+<small>🔗 [naeemnur.com](https://naeemnur.com/side-projects/): Side projects I've built since 2009</small>
 
 
-| 🔥🔥: 219 \| 💬: [105](https://news.ycombinator.com/item?id=44031529) \| 🗓️ 2025-05-19
+| 🔥🔥: 249 \| 💬: [135](https://news.ycombinator.com/item?id=44027867) \| 🗓️ 2025-05-19
 
 
 <br />
-Edit是Windows全新推出的**开源命令行文本编辑器**，未来将作为Windows 11的默认组件发布。其特点包括：**轻量化**（体积小于250kB）、支持鼠标操作和多文件切换（Ctrl+P），并提供查找替换、正则表达式匹配及自动换行等功能。微软旨在为64位系统填补CLI编辑器空白，避免类似Vim的模态设计学习成本。开发者现可通过GitHub提前体验或参与贡献。
+作者自2009年起持续开发**业余项目**，部分已出售，部分仍在运营，少数已关闭。项目多基于**WordPress**，少数使用Laravel和React，核心建议是**用熟悉的技术栈**，避免陷入框架选择困境。活跃项目包括游戏平台Handheld Hunt、WordPress主题商店Mild Themes等；已售项目如Flag Palette、ZeroAcquire；终止项目涵盖诗歌博客Book of Naem、加密货币工具Krypto Predict等。全文展现了持续创造与迭代的开发者精神。
 
 ---
 
-## <a name="13"></a>13. 用AI判断数字是否为偶数：is-even-ai工具介绍 
+## <a name="11"></a>11. 微软封锁国际刑事法院：数字依赖的代价 
+<small>🔗 [techzine.eu](https://www.techzine.eu/news/privacy-compliance/131536/microsofts-icc-blockade-digital-dependence-comes-at-a-cost/): Microsoft's ICC blockade: digital dependence comes at a cost</small>
+
+
+| 🔥🔥: 245 \| 💬: [126](https://news.ycombinator.com/item?id=44032717) \| 🗓️ 2025-05-19
+
+
+<br />
+美国对国际刑事法院（ICC）实施制裁后，首席检察官卡里姆·汗的**微软邮箱账户**被冻结，银行账户亦受影响，导致ICC工作瘫痪。此事凸显依赖**美国IT服务**的地缘政治风险。欧洲政府虽认为微软服务的优势可抵消潜在问题，但若美欧关系恶化，**数字主权**可能受威胁。非美政府需警惕关键服务被切断的风险，并考虑替代方案。合同与承诺在政治冲突前可能失效，自主技术储备至关重要。
+
+---
+
+## <a name="12"></a>12. 用AI判断数字是否为偶数：is-even-ai工具介绍 
 <small>🔗 [npmjs.com](https://www.npmjs.com/package/is-even-ai): Is-even-ai – Check if a number is even using the power of AI</small>
 
 
-| 🔥🔥: 209 \| 💬: [100](https://news.ycombinator.com/item?id=44036438) \| 🗓️ 2025-05-19
+| 🔥🔥: 229 \| 💬: [112](https://news.ycombinator.com/item?id=44036438) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -183,11 +171,23 @@ is-even-ai是一个利用**OpenAI的GPT-3.5-turbo模型**判断数字是否为�
 
 ---
 
+## <a name="13"></a>13. 微软开源命令行文本编辑器Edit 
+<small>🔗 [devblogs.microsoft.com](https://devblogs.microsoft.com/commandline/edit-is-now-open-source/): Edit is now open source</small>
+
+
+| 🔥🔥: 224 \| 💬: [111](https://news.ycombinator.com/item?id=44031529) \| 🗓️ 2025-05-19
+
+
+<br />
+Edit是Windows全新推出的**开源命令行文本编辑器**，未来将作为Windows 11的默认组件发布。其特点包括：**轻量化**（体积小于250kB）、支持鼠标操作和多文件切换（Ctrl+P），并提供查找替换、正则表达式匹配及自动换行等功能。微软旨在为64位系统填补CLI编辑器空白，避免类似Vim的模态设计学习成本。开发者现可通过GitHub提前体验或参与贡献。
+
+---
+
 ## <a name="14"></a>14. ClawPDF：开源虚拟/网络PDF打印机，支持OCR与图像处理 
 <small>🔗 [github.com](https://github.com/clawsoftware/clawPDF): ClawPDF – Open-Source Virtual/Network PDF Printer with OCR and Image Support</small>
 
 
-| 🔥🔥: 183 \| 💬: [23](https://news.ycombinator.com/item?id=44029142) \| 🗓️ 2025-05-19
+| 🔥🔥: 184 \| 💬: [24](https://news.ycombinator.com/item?id=44029142) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -201,7 +201,7 @@ ClawPDF是一款**开源Windows虚拟打印机**，可将文档转换为PDF、OC
 <small>🔗 [corp.band](https://corp.band): Show HN: Windows 98 themed website in 1 HTML file for my post punk band</small>
 
 
-| 🔥🔥: 173 \| 💬: [37](https://news.ycombinator.com/item?id=44032470) \| 🗓️ 2025-05-19
+| 🔥🔥: 178 \| 💬: [38](https://news.ycombinator.com/item?id=44032470) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -209,23 +209,11 @@ ClawPDF是一款**开源Windows虚拟打印机**，可将文档转换为PDF、OC
 
 ---
 
-## <a name="16"></a>16. Go语言中的过度间接引用问题 
-<small>🔗 [flak.tedunangst.com](https://flak.tedunangst.com/post/too-much-go-misdirection): Too Much Go Misdirection</small>
-
-
-| 🔥🔥: 157 \| 💬: [76](https://news.ycombinator.com/item?id=44031009) \| 🗓️ 2025-05-19
-
-
-<br />
-作者在**Go语言**中处理图像解码时，发现标准库的**io.Reader接口**虽支持流式处理，但实际场景常需直接访问底层字节。通过`bytes.Reader`可避免复制，但`image.Decode`函数会强制包裹`bufio.Reader`，导致优化失效。最终通过**unsafe.Pointer**解包嵌套结构实现零拷贝，同时指出标准库的隐式类型要求（如未实现的`Peek`方法）是设计缺陷，导致第三方类型难以适配这种"影子API"模式。
-
----
-
-## <a name="17"></a>17. 禁忌铁路：维也纳至平壤的火车之旅（2008） 
+## <a name="16"></a>16. 禁忌铁路：维也纳至平壤的火车之旅（2008） 
 <small>🔗 [vienna-pyongyang.blogspot.com](http://vienna-pyongyang.blogspot.com/2008/04/how-everything-began.html): The forbidden railway: Vienna-Pyongyang (2008)</small>
 
 
-| 🔥🔥: 156 \| 💬: [40](https://news.ycombinator.com/item?id=44033310) \| 🗓️ 2025-05-19
+| 🔥🔥: 163 \| 💬: [42](https://news.ycombinator.com/item?id=44033310) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -233,11 +221,23 @@ ClawPDF是一款**开源Windows虚拟打印机**，可将文档转换为PDF、OC
 
 ---
 
+## <a name="17"></a>17. Go语言中的过度间接引用问题 
+<small>🔗 [flak.tedunangst.com](https://flak.tedunangst.com/post/too-much-go-misdirection): Too Much Go Misdirection</small>
+
+
+| 🔥🔥: 161 \| 💬: [77](https://news.ycombinator.com/item?id=44031009) \| 🗓️ 2025-05-19
+
+
+<br />
+作者在**Go语言**中处理图像解码时，发现标准库的**io.Reader接口**虽支持流式处理，但实际场景常需直接访问底层字节。通过`bytes.Reader`可避免复制，但`image.Decode`函数会强制包裹`bufio.Reader`，导致优化失效。最终通过**unsafe.Pointer**解包嵌套结构实现零拷贝，同时指出标准库的隐式类型要求（如未实现的`Peek`方法）是设计缺陷，导致第三方类型难以适配这种"影子API"模式。
+
+---
+
 ## <a name="18"></a>18. 扩散模型简明指南 
 <small>🔗 [seangoedecke.com](https://www.seangoedecke.com/diffusion-models-explained/): Diffusion models explained simply</small>
 
 
-| 🔥🔥: 133 \| 💬: [26](https://news.ycombinator.com/item?id=44029435) \| 🗓️ 2025-05-19
+| 🔥🔥: 138 \| 💬: [26](https://news.ycombinator.com/item?id=44029435) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -273,7 +273,7 @@ IBM 最新发布的 **Telum II** 主频处理器采用三星 5nm 工艺，以 **
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/05/19/xais-grok-3-comes-to-microsoft-azure/): xAI's Grok 3 comes to Microsoft Azure</small>
 
 
-| 🔥🔥: 111 \| 💬: [100](https://news.ycombinator.com/item?id=44031387) \| 🗓️ 2025-05-19
+| 🔥🔥: 117 \| 💬: [109](https://news.ycombinator.com/item?id=44031387) \| 🗓️ 2025-05-19
 
 
 <br />
@@ -285,7 +285,7 @@ IBM 最新发布的 **Telum II** 主频处理器采用三星 5nm 工艺，以 **
 <small>🔗 [brentozar.com](https://www.brentozar.com/archive/2025/05/fabric-is-just-plain-unreliable-and-microsofts-hiding-it/): Fabric Is Just Plain Unreliable, and Microsoft's Hiding It</small>
 
 
-| 🔥🔥: 108 \| 💬: [9](https://news.ycombinator.com/item?id=44029566) \| 🗓️ 2025-05-19
+| 🔥🔥: 110 \| 💬: [9](https://news.ycombinator.com/item?id=44029566) \| 🗓️ 2025-05-19
 
 
 <br />
