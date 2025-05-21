@@ -11,7 +11,7 @@ tags:
 1. 谷歌推出Veo 3、Imagen 4和AI电影制作工具Flow；
 1. 深度学习即应用拓扑学；
 1. 表情符号的困境（2022）；
-1. 谷歌AI至尊版发布：最强AI订阅计划上线；
+1. Gemma 3n预览：专为移动端打造的高效AI；
 1. Litestream重大升级：为SQLite注入云原生能力；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [blog.google](https://blog.google/technology/ai/generative-media-models-io-2025/): Veo 3 and Imagen 4, and a new tool for filmmaking called Flow</small>
 
 
-| 🔥🔥: 534 \| 💬: [318](https://news.ycombinator.com/item?id=44044043) \| 🗓️ 2025-05-20
+| 🔥🔥: 563 \| 💬: [325](https://news.ycombinator.com/item?id=44044043) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [theahura.substack.com](https://theahura.substack.com/p/deep-learning-is-applied-topology): Deep Learning Is Applied Topology</small>
 
 
-| 🔥🔥: 385 \| 💬: [157](https://news.ycombinator.com/item?id=44041738) \| 🗓️ 2025-05-20
+| 🔥🔥: 393 \| 💬: [159](https://news.ycombinator.com/item?id=44041738) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [artofproblemsolving.com](https://artofproblemsolving.com/community/c2532359h2760821_the_emoji_problem__part_i?srsltid=AfmBOor9TbMq_A7hGHSJGfoWaa2HNzducSYZu35d_LFlCSNLXpvt-pdS): The emoji problem (2022)</small>
 
 
-| 🔥🔥: 319 \| 💬: [60](https://news.ycombinator.com/item?id=44039864) \| 🗓️ 2025-05-20
+| 🔥🔥: 320 \| 💬: [60](https://news.ycombinator.com/item?id=44039864) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -59,15 +59,15 @@ tags:
 
 ---
 
-## <a name="4"></a>4. 谷歌AI至尊版发布：最强AI订阅计划上线 
-<small>🔗 [blog.google](https://blog.google/products/google-one/google-ai-ultra/): Google AI Ultra</small>
+## <a name="4"></a>4. Gemma 3n预览：专为移动端打造的高效AI 
+<small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/introducing-gemma-3n/): Gemma 3n preview: Mobile-first AI</small>
 
 
-| 🔥🔥: 275 \| 💬: [292](https://news.ycombinator.com/item?id=44044367) \| 🗓️ 2025-05-20
+| 🔥🔥: 287 \| 💬: [101](https://news.ycombinator.com/item?id=44044199) \| 🗓️ 2025-05-20
 
 
 <br />
-谷歌推出**Google AI Ultra**订阅服务，提供最高级别的AI模型访问权限和高级功能，包括**Gemini**深度研究、**Veo 3**视频生成早期体验及**Flow**电影制作工具。该计划面向开发者、创意人士等高端用户，月费249.99美元（首三月5折优惠）。同时，**Google AI Pro**用户将免费升级，获得Flow工具和Chrome版Gemini早期访问。此外，部分国家大学生可免费使用AI Pro一学年。
+谷歌推出**Gemma 3n**预览版，这是一款基于全新架构的**开源模型**，专为手机、平板和笔记本等移动设备优化。通过与高通、联发科等厂商合作，该模型实现了低内存占用（动态内存仅2GB/3GB）和快速响应（速度提升1.5倍），支持**多模态交互**（文本、图像、音频及视频）。其创新技术如**Per-Layer Embeddings**显著降低RAM需求，同时提供多语言增强和隐私优先的本地化处理。开发者可通过Google AI Studio或AI Edge工具提前体验，为Android和Chrome平台构建实时智能应用。
 
 ---
 
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [fly.io](https://fly.io/blog/litestream-revamped/): Litestream: Revamped</small>
 
 
-| 🔥🔥: 274 \| 💬: [58](https://news.ycombinator.com/item?id=44045292) \| 🗓️ 2025-05-20
+| 🔥🔥: 284 \| 💬: [58](https://news.ycombinator.com/item?id=44045292) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -88,15 +88,15 @@ Litestream是一款开源工具，通过将SQLite数据库变更**实时同步�
 
 ---
 
-## <a name="6"></a>6. Gemma 3n预览：专为移动端打造的高效AI 
-<small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/introducing-gemma-3n/): Gemma 3n preview: Mobile-first AI</small>
+## <a name="6"></a>6. 谷歌AI至尊版发布：最强AI订阅计划上线 
+<small>🔗 [blog.google](https://blog.google/products/google-one/google-ai-ultra/): Google AI Ultra</small>
 
 
-| 🔥🔥: 271 \| 💬: [95](https://news.ycombinator.com/item?id=44044199) \| 🗓️ 2025-05-20
+| 🔥🔥: 277 \| 💬: [292](https://news.ycombinator.com/item?id=44044367) \| 🗓️ 2025-05-20
 
 
 <br />
-谷歌推出**Gemma 3n**预览版，这是一款基于全新架构的**开源模型**，专为手机、平板和笔记本等移动设备优化。通过与高通、联发科等厂商合作，该模型实现了低内存占用（动态内存仅2GB/3GB）和快速响应（速度提升1.5倍），支持**多模态交互**（文本、图像、音频及视频）。其创新技术如**Per-Layer Embeddings**显著降低RAM需求，同时提供多语言增强和隐私优先的本地化处理。开发者可通过Google AI Studio或AI Edge工具提前体验，为Android和Chrome平台构建实时智能应用。
+谷歌推出**Google AI Ultra**订阅服务，提供最高级别的AI模型访问权限和高级功能，包括**Gemini**深度研究、**Veo 3**视频生成早期体验及**Flow**电影制作工具。该计划面向开发者、创意人士等高端用户，月费249.99美元（首三月5折优惠）。同时，**Google AI Pro**用户将免费升级，获得Flow工具和Chrome版Gemini早期访问。此外，部分国家大学生可免费使用AI Pro一学年。
 
 ---
 
@@ -104,7 +104,7 @@ Litestream是一款开源工具，通过将SQLite数据库变更**实时同步�
 <small>🔗 [90s.dev](https://90s.dev/blog/finally-releasing-90s-dev.html): Show HN: 90s.dev – Game maker that runs on the web</small>
 
 
-| 🔥🔥: 246 \| 💬: [95](https://news.ycombinator.com/item?id=44042371) \| 🗓️ 2025-05-20
+| 🔥🔥: 251 \| 💬: [96](https://news.ycombinator.com/item?id=44042371) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -116,7 +116,7 @@ Litestream是一款开源工具，通过将SQLite数据库变更**实时同步�
 <small>🔗 [bernsteinbear.com](https://bernsteinbear.com/blog/simple-search/): A simple search engine from scratch</small>
 
 
-| 🔥🔥: 243 \| 💬: [51](https://news.ycombinator.com/item?id=44039744) \| 🗓️ 2025-05-20
+| 🔥🔥: 245 \| 💬: [51](https://news.ycombinator.com/item?id=44039744) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -128,7 +128,7 @@ Litestream是一款开源工具，通过将SQLite数据库变更**实时同步�
 <small>🔗 [agent-kilo.github.io](https://agent-kilo.github.io/jwno/): Show HN: A Tiling Window Manager for Windows, Written in Janet</small>
 
 
-| 🔥🔥: 218 \| 💬: [73](https://news.ycombinator.com/item?id=44042490) \| 🗓️ 2025-05-20
+| 🔥🔥: 220 \| 💬: [74](https://news.ycombinator.com/item?id=44042490) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -136,23 +136,11 @@ Jwno是一款为Windows 10/11设计的**高度可定制**平铺窗口管理器�
 
 ---
 
-## <a name="10"></a>10. 为何美国长期存在贸易逆差？ 
-<small>🔗 [libertystreeteconomics.newyorkfed.org](https://libertystreeteconomics.newyorkfed.org/2025/05/why-does-the-u-s-always-run-a-trade-deficit/): Why does the U.S. always run a trade deficit?</small>
-
-
-| 🔥🔥: 208 \| 💬: [440](https://news.ycombinator.com/item?id=44040407) \| 🗓️ 2025-05-20
-
-
-<br />
-美国贸易逆差的直接原因是**出口未能匹配进口需求**，但更深层因素在于**国内储蓄不足**，需依赖外资填补投资缺口。国民账户分析显示，逆差本质是储蓄与投资的宏观失衡：当国内储蓄不足以支撑投资时，需通过贸易逆差引入外资。数据表明，储蓄率长期低于投资占比，且家庭与政府储蓄常相互抵消。政策（如自由贸易协定）可能改变贸易结构，但只有调整储蓄或投资才能缩小逆差。尽管特定商品（如石油）逆差消失，整体逆差仍随储蓄缺口扩大。减少逆差需经历投资下降或储蓄提升的阵痛，如2008年金融危机后的调整。
-
----
-
-## <a name="11"></a>11. NSA选择器：将网络数据流转换为音频的Eurorack模块 
+## <a name="10"></a>10. NSA选择器：将网络数据流转换为音频的Eurorack模块 
 <small>🔗 [github.com](https://github.com/wenzellabs/the_NSA_selector): The NSA Selector</small>
 
 
-| 🔥🔥: 203 \| 💬: [60](https://news.ycombinator.com/item?id=44044459) \| 🗓️ 2025-05-20
+| 🔥🔥: 213 \| 💬: [60](https://news.ycombinator.com/item?id=44044459) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -162,11 +150,23 @@ Jwno是一款为Windows 10/11设计的**高度可定制**平铺窗口管理器�
 
 ---
 
+## <a name="11"></a>11. 为何美国长期存在贸易逆差？ 
+<small>🔗 [libertystreeteconomics.newyorkfed.org](https://libertystreeteconomics.newyorkfed.org/2025/05/why-does-the-u-s-always-run-a-trade-deficit/): Why does the U.S. always run a trade deficit?</small>
+
+
+| 🔥🔥: 211 \| 💬: [469](https://news.ycombinator.com/item?id=44040407) \| 🗓️ 2025-05-20
+
+
+<br />
+美国贸易逆差的直接原因是**出口未能匹配进口需求**，但更深层因素在于**国内储蓄不足**，需依赖外资填补投资缺口。国民账户分析显示，逆差本质是储蓄与投资的宏观失衡：当国内储蓄不足以支撑投资时，需通过贸易逆差引入外资。数据表明，储蓄率长期低于投资占比，且家庭与政府储蓄常相互抵消。政策（如自由贸易协定）可能改变贸易结构，但只有调整储蓄或投资才能缩小逆差。尽管特定商品（如石油）逆差消失，整体逆差仍随储蓄缺口扩大。减少逆差需经历投资下降或储蓄提升的阵痛，如2008年金融危机后的调整。
+
+---
+
 ## <a name="12"></a>12. 关于Deno消亡的报道言过其实 
 <small>🔗 [deno.com](https://deno.com/blog/greatly-exaggerated): Reports of Deno's Demise Have Been Greatly Exaggerated</small>
 
 
-| 🔥🔥: 193 \| 💬: [182](https://news.ycombinator.com/item?id=44040332) \| 🗓️ 2025-05-20
+| 🔥🔥: 196 \| 💬: [184](https://news.ycombinator.com/item?id=44040332) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -178,7 +178,7 @@ Jwno是一款为Windows 10/11设计的**高度可定制**平铺窗口管理器�
 <small>🔗 [davidrozado.substack.com](https://davidrozado.substack.com/p/the-strange-behavior-of-llms-in-hiring): The behavior of LLMs in hiring decisions: Systemic biases in candidate selection</small>
 
 
-| 🔥🔥: 186 \| 💬: [165](https://news.ycombinator.com/item?id=44039563) \| 🗓️ 2025-05-20
+| 🔥🔥: 187 \| 💬: [165](https://news.ycombinator.com/item?id=44039563) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -186,23 +186,11 @@ Jwno是一款为Windows 10/11设计的**高度可定制**平铺窗口管理器�
 
 ---
 
-## <a name="14"></a>14. 英伟达技术的崛起：从Sun到图形芯片霸主 
-<small>🔗 [blog.dshr.org](https://blog.dshr.org/2025/05/the-dawn-of-nvidias-technology.html): The Dawn of Nvidia's Technology</small>
-
-
-| 🔥🔥: 143 \| 💬: [46](https://news.ycombinator.com/item?id=44043687) \| 🗓️ 2025-05-20
-
-
-<br />
-本文回顾了英伟达早期技术创新的关键细节，重点聚焦**成像模型**和**I/O架构**两大突破。作者作为Sun前员工，参与了英伟达初创阶段的技术决策：NV1芯片采用**二次曲面片**技术，通过减少数据传输量在PCI总线带宽限制下实现3D游戏流畅运行；而**虚拟化对象架构**（含软件资源管理器）则成为英伟达快速迭代芯片的“秘密武器”，允许硬件功能通过软件模拟实现。文章还揭示了英伟达从Sun继承的多进程与虚拟内存设计理念如何为其奠定技术优势，并最终在DirectX时代通过转向三角形建模存活下来。
-
----
-
-## <a name="15"></a>15. AI的能源足迹：被忽视的隐形成本 
+## <a name="14"></a>14. AI的能源足迹：被忽视的隐形成本 
 <small>🔗 [technologyreview.com](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/): AI's energy footprint</small>
 
 
-| 🔥🔥: 141 \| 💬: [151](https://news.ycombinator.com/item?id=44039808) \| 🗓️ 2025-05-20
+| 🔥🔥: 154 \| 💬: [159](https://news.ycombinator.com/item?id=44039808) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -210,11 +198,23 @@ MIT技术评论揭示，**AI行业**的能源消耗远超预期。单个查询�
 
 ---
 
+## <a name="15"></a>15. 英伟达技术的崛起：从Sun到图形芯片霸主 
+<small>🔗 [blog.dshr.org](https://blog.dshr.org/2025/05/the-dawn-of-nvidias-technology.html): The Dawn of Nvidia's Technology</small>
+
+
+| 🔥🔥: 146 \| 💬: [52](https://news.ycombinator.com/item?id=44043687) \| 🗓️ 2025-05-20
+
+
+<br />
+本文回顾了英伟达早期技术创新的关键细节，重点聚焦**成像模型**和**I/O架构**两大突破。作者作为Sun前员工，参与了英伟达初创阶段的技术决策：NV1芯片采用**二次曲面片**技术，通过减少数据传输量在PCI总线带宽限制下实现3D游戏流畅运行；而**虚拟化对象架构**（含软件资源管理器）则成为英伟达快速迭代芯片的“秘密武器”，允许硬件功能通过软件模拟实现。文章还揭示了英伟达从Sun继承的多进程与虚拟内存设计理念如何为其奠定技术优势，并最终在DirectX时代通过转向三角形建模存活下来。
+
+---
+
 ## <a name="16"></a>16. Red：下一代全栈编程语言 
 <small>🔗 [red-lang.org](https://www.red-lang.org/p/about.html): Red Programming Language</small>
 
 
-| 🔥🔥: 131 \| 💬: [64](https://news.ycombinator.com/item?id=44044306) \| 🗓️ 2025-05-20
+| 🔥🔥: 138 \| 💬: [69](https://news.ycombinator.com/item?id=44044306) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -224,7 +224,31 @@ Red的愿景是提供一套**语言构建工具集**，而非单一语言，开�
 
 ---
 
-## <a name="17"></a>17. Gemma 3n预览版发布：专为移动端打造的高效AI 
+## <a name="17"></a>17. “.NET零分配LINQ库ZLinq发布” 
+<small>🔗 [neuecc.medium.com](https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749): “ZLinq”, a Zero-Allocation LINQ Library for .NET</small>
+
+
+| 🔥🔥: 129 \| 💬: [44](https://news.ycombinator.com/item?id=44046578) \| 🗓️ 2025-05-20
+
+
+<br />
+ZLinq是一个基于**结构体**和泛型实现的零分配LINQ库，支持Span、SIMD、文件系统等扩展场景，并兼容.NET Standard 2.0、Unity等多平台。其核心优化包括**TryGetNext接口**减少迭代开销、**SIMD加速**及**内部迭代器**设计，性能在多数场景超越标准LINQ。通过**Source Generator**可无缝替换现有代码，已通过9000项测试确保行为一致性。作者凭借多年LINQ开发经验（如linq.js、UniRx）实现了这一高性能方案。
+
+---
+
+## <a name="18"></a>18. 罗宾：自动化科学发现的多智能体系统 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2505.13400): Robin: A multi-agent system for automating scientific discovery</small>
+
+
+| 🔥🔥: 128 \| 💬: [17](https://news.ycombinator.com/item?id=44043323) \| 🗓️ 2025-05-20
+
+
+<br />
+该研究介绍了**罗宾**——首个能**全流程自动化科学发现**的多智能体系统。它整合文献检索与数据分析，自主生成假设、设计实验、解读结果并优化假设，形成“实验室在环”的迭代研究框架。该系统成功发现了一种治疗干性年龄相关性黄斑变性（dAMD）的新疗法，提出**Ripasudil**（一种从未用于dAMD的ROCK抑制剂）并通过RNA测序实验揭示了其作用机制与**ABCA1基因**的关联。所有研究环节均由罗宾独立完成，标志着AI驱动科学发现的新范式。
+
+---
+
+## <a name="19"></a>19. Gemma 3n预览版发布：专为移动端打造的高效AI 
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/introducing-gemma-3n/): Gemma 3n preview: Mobile-first AI</small>
 
 
@@ -236,23 +260,11 @@ Google推出**Gemma 3n**预览版，这是一款基于全新架构的**开源模
 
 ---
 
-## <a name="18"></a>18. 罗宾：自动化科学发现的多智能体系统 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2505.13400): Robin: A multi-agent system for automating scientific discovery</small>
-
-
-| 🔥🔥: 125 \| 💬: [17](https://news.ycombinator.com/item?id=44043323) \| 🗓️ 2025-05-20
-
-
-<br />
-该研究介绍了**罗宾**——首个能**全流程自动化科学发现**的多智能体系统。它整合文献检索与数据分析，自主生成假设、设计实验、解读结果并优化假设，形成“实验室在环”的迭代研究框架。该系统成功发现了一种治疗干性年龄相关性黄斑变性（dAMD）的新疗法，提出**Ripasudil**（一种从未用于dAMD的ROCK抑制剂）并通过RNA测序实验揭示了其作用机制与**ABCA1基因**的关联。所有研究环节均由罗宾独立完成，标志着AI驱动科学发现的新范式。
-
----
-
-## <a name="19"></a>19. OpenAI Codex 实测体验：潜力与待完善的AI编程助手 
+## <a name="20"></a>20. OpenAI Codex 实测体验：潜力与待完善的AI编程助手 
 <small>🔗 [zackproser.com](https://zackproser.com/blog/openai-codex-review): OpenAI Codex hands-on review</small>
 
 
-| 🔥🔥: 121 \| 💬: [89](https://news.ycombinator.com/item?id=44042070) \| 🗓️ 2025-05-20
+| 🔥🔥: 122 \| 💬: [89](https://news.ycombinator.com/item?id=44042070) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -260,23 +272,11 @@ Google推出**Gemma 3n**预览版，这是一款基于全新架构的**开源模
 
 ---
 
-## <a name="20"></a>20. “.NET零分配LINQ库ZLinq发布” 
-<small>🔗 [neuecc.medium.com](https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749): “ZLinq”, a Zero-Allocation LINQ Library for .NET</small>
-
-
-| 🔥🔥: 114 \| 💬: [38](https://news.ycombinator.com/item?id=44046578) \| 🗓️ 2025-05-20
-
-
-<br />
-ZLinq是一个基于**结构体**和泛型实现的零分配LINQ库，支持Span、SIMD、文件系统等扩展场景，并兼容.NET Standard 2.0、Unity等多平台。其核心优化包括**TryGetNext接口**减少迭代开销、**SIMD加速**及**内部迭代器**设计，性能在多数场景超越标准LINQ。通过**Source Generator**可无缝替换现有代码，已通过9000项测试确保行为一致性。作者凭借多年LINQ开发经验（如linq.js、UniRx）实现了这一高性能方案。
-
----
-
 ## <a name="21"></a>21. Kubernetes原生分布式大模型推理框架llm-d发布 
 <small>🔗 [llm-d.ai](https://llm-d.ai/blog/llm-d-announce): llm-d, Kubernetes native distributed inference</small>
 
 
-| 🔥🔥: 103 \| 💬: [14](https://news.ycombinator.com/item?id=44040883) \| 🗓️ 2025-05-20
+| 🔥🔥: 104 \| 💬: [14](https://news.ycombinator.com/item?id=44040883) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -288,7 +288,7 @@ llm-d是一个基于**Kubernetes**的高性能分布式大模型推理框架，�
 <small>🔗 [github.com](https://github.com/OKUA1/juvio): Show HN: Juvio – UV Kernel for Jupyter</small>
 
 
-| 🔥: 100 \| 💬: [22](https://news.ycombinator.com/item?id=44043421) \| 🗓️ 2025-05-20
+| 🔥🔥: 101 \| 💬: [22](https://news.ycombinator.com/item?id=44043421) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -296,7 +296,19 @@ Juvio是一个**依赖感知**的Jupyter内核，通过**内联依赖管理**（
 
 ---
 
-## <a name="23"></a>23. 如果AI代理都搞不懂你的API，用户更搞不懂 
+## <a name="23"></a>23. 代码并非价值所在 
+<small>🔗 [jonayre.uk](https://jonayre.uk/blog/2022/10/30/the-real-value-isnt-in-the-code/): The Value Isn't in the Code</small>
+
+
+| 🔥: 98 \| 💬: [55](https://news.ycombinator.com/item?id=44046955) \| 🗓️ 2025-05-20
+
+
+<br />
+文章指出，软件开发的真正价值不在于**代码本身**，而在于**团队协作**、**业务逻辑梳理**和**用户体验设计**等环节。作者通过亲身实验证明，一个7人团队耗时6个月开发的项目，仅用两周就能凭借经验从零重建，且代码更精简高效。这印证了核心观点：**代码可被快速替换**，而解决问题的**知识沉淀**才是关键资产。最后提醒开发者应尊重前人的探索，而非盲目批判遗留代码。
+
+---
+
+## <a name="24"></a>24. 如果AI代理都搞不懂你的API，用户更搞不懂 
 <small>🔗 [stytch.com](https://stytch.com/blog/if-an-ai-agent-cant-figure-out-how-your-api-works-neither-can-your-users/): If an AI agent can't figure out how your API works, neither can your users</small>
 
 
@@ -308,26 +320,14 @@ Juvio是一个**依赖感知**的Jupyter内核，通过**内联依赖管理**（
 
 ---
 
-## <a name="24"></a>24. GPU驱动的集群前向渲染器：2.7万条龙与1万盏光的实时渲染 
+## <a name="25"></a>25. GPU驱动的集群前向渲染器：2.7万条龙与1万盏光的实时渲染 
 <small>🔗 [logdahl.net](https://logdahl.net/p/gpu-driven): GPU-Driven Clustered Forward Renderer</small>
 
 
-| 🔥: 92 \| 💬: [22](https://news.ycombinator.com/item?id=44043045) \| 🗓️ 2025-05-20
+| 🔥: 95 \| 💬: [24](https://news.ycombinator.com/item?id=44043045) \| 🗓️ 2025-05-20
 
 
 <br />
 作者在高级计算机图形学课程中开发了一套**GPU驱动的前向渲染器**，采用**集群着色技术**，在GTX 1070上实现了1080p分辨率下2.7万条斯坦福龙模型和1万盏光源的60帧渲染。核心创新包括：通过**间接多绘制调用**减少CPU开销，将实体数据存储在连续GPU缓冲区中，并利用计算着色器进行视锥剔除与紧凑化处理。此外，**集群着色**通过将视锥体划分为空间簇，显著降低了片段着色阶段的无效光照计算。优化后的系统在125k对象剔除测试中仅需0.9ms，展现了高效的并行化策略。
-
----
-
-## <a name="25"></a>25. 代码并非价值所在 
-<small>🔗 [jonayre.uk](https://jonayre.uk/blog/2022/10/30/the-real-value-isnt-in-the-code/): The Value Isn't in the Code</small>
-
-
-| 🔥: 90 \| 💬: [52](https://news.ycombinator.com/item?id=44046955) \| 🗓️ 2025-05-20
-
-
-<br />
-文章指出，软件开发的真正价值不在于**代码本身**，而在于**团队协作**、**业务逻辑梳理**和**用户体验设计**等环节。作者通过亲身实验证明，一个7人团队耗时6个月开发的项目，仅用两周就能凭借经验从零重建，且代码更精简高效。这印证了核心观点：**代码可被快速替换**，而解决问题的**知识沉淀**才是关键资产。最后提醒开发者应尊重前人的探索，而非盲目批判遗留代码。
 
 ---
