@@ -27,7 +27,7 @@ tags:
 <small>🔗 [blog.google](https://blog.google/technology/ai/generative-media-models-io-2025/): Veo 3 and Imagen 4, and a new tool for filmmaking called Flow</small>
 
 
-| 🔥🔥: 484 \| 💬: [290](https://news.ycombinator.com/item?id=44044043) \| 🗓️ 2025-05-20
+| 🔥🔥: 534 \| 💬: [318](https://news.ycombinator.com/item?id=44044043) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [theahura.substack.com](https://theahura.substack.com/p/deep-learning-is-applied-topology): Deep Learning Is Applied Topology</small>
 
 
-| 🔥🔥: 364 \| 💬: [157](https://news.ycombinator.com/item?id=44041738) \| 🗓️ 2025-05-20
+| 🔥🔥: 385 \| 💬: [157](https://news.ycombinator.com/item?id=44041738) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [artofproblemsolving.com](https://artofproblemsolving.com/community/c2532359h2760821_the_emoji_problem__part_i?srsltid=AfmBOor9TbMq_A7hGHSJGfoWaa2HNzducSYZu35d_LFlCSNLXpvt-pdS): The emoji problem (2022)</small>
 
 
-| 🔥🔥: 319 \| 💬: [59](https://news.ycombinator.com/item?id=44039864) \| 🗓️ 2025-05-20
+| 🔥🔥: 319 \| 💬: [60](https://news.ycombinator.com/item?id=44039864) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [blog.google](https://blog.google/products/google-one/google-ai-ultra/): Google AI Ultra</small>
 
 
-| 🔥🔥: 268 \| 💬: [274](https://news.ycombinator.com/item?id=44044367) \| 🗓️ 2025-05-20
+| 🔥🔥: 275 \| 💬: [292](https://news.ycombinator.com/item?id=44044367) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [fly.io](https://fly.io/blog/litestream-revamped/): Litestream: Revamped</small>
 
 
-| 🔥🔥: 243 \| 💬: [55](https://news.ycombinator.com/item?id=44045292) \| 🗓️ 2025-05-20
+| 🔥🔥: 274 \| 💬: [58](https://news.ycombinator.com/item?id=44045292) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -88,35 +88,11 @@ Litestream是一款开源工具，通过将SQLite数据库变更**实时同步�
 
 ---
 
-## <a name="6"></a>6. 从零实现一个简易搜索引擎 
-<small>🔗 [bernsteinbear.com](https://bernsteinbear.com/blog/simple-search/): A simple search engine from scratch</small>
-
-
-| 🔥🔥: 241 \| 💬: [50](https://news.ycombinator.com/item?id=44039744) \| 🗓️ 2025-05-20
-
-
-<br />
-作者与Chris Gregory合作，基于**word2vec词嵌入**技术，用几小时搭建了一个博客搜索引擎。核心思路是将文章和查询词转换为300维向量（通过叠加各单词向量），再用**余弦相似度**排序结果。文中详细解释了向量距离计算、文本归一化处理，并演示了终端REPL和网页前端的实现。为优化网页性能，采用分块加载词向量文件（仅下载所需部分）。最后通过自制评估集测试搜索效果，验证了该方法的实用性。
-
----
-
-## <a name="7"></a>7. 90s.dev：一款基于浏览器的复古游戏开发工具 
-<small>🔗 [90s.dev](https://90s.dev/blog/finally-releasing-90s-dev.html): Show HN: 90s.dev – Game maker that runs on the web</small>
-
-
-| 🔥🔥: 235 \| 💬: [94](https://news.ycombinator.com/item?id=44042371) \| 🗓️ 2025-05-20
-
-
-<br />
-开发者耗时数月打造了**90s.dev**，这是一个独特的网页端游戏开发平台，灵感源自《魔兽争霸》等经典游戏。其核心是一个**320x180画布**的API框架，支持TypeScript和WebGL2，可实现60帧游戏或像素艺术工具（如地图编辑器）。平台采用**模块化设计**，允许通过GitHub或NPM共享应用，并创新性地引入**抽象视图**和**自动布局系统**简化GUI开发。社区可协作扩展功能，未来计划支持更多第三方应用集成。
-
----
-
-## <a name="8"></a>8. Gemma 3n预览：专为移动端打造的高效AI 
+## <a name="6"></a>6. Gemma 3n预览：专为移动端打造的高效AI 
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/introducing-gemma-3n/): Gemma 3n preview: Mobile-first AI</small>
 
 
-| 🔥🔥: 235 \| 💬: [84](https://news.ycombinator.com/item?id=44044199) \| 🗓️ 2025-05-20
+| 🔥🔥: 271 \| 💬: [95](https://news.ycombinator.com/item?id=44044199) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -124,11 +100,35 @@ Litestream是一款开源工具，通过将SQLite数据库变更**实时同步�
 
 ---
 
+## <a name="7"></a>7. 90s.dev：一款基于浏览器的复古游戏开发工具 
+<small>🔗 [90s.dev](https://90s.dev/blog/finally-releasing-90s-dev.html): Show HN: 90s.dev – Game maker that runs on the web</small>
+
+
+| 🔥🔥: 246 \| 💬: [95](https://news.ycombinator.com/item?id=44042371) \| 🗓️ 2025-05-20
+
+
+<br />
+开发者耗时数月打造了**90s.dev**，这是一个独特的网页端游戏开发平台，灵感源自《魔兽争霸》等经典游戏。其核心是一个**320x180画布**的API框架，支持TypeScript和WebGL2，可实现60帧游戏或像素艺术工具（如地图编辑器）。平台采用**模块化设计**，允许通过GitHub或NPM共享应用，并创新性地引入**抽象视图**和**自动布局系统**简化GUI开发。社区可协作扩展功能，未来计划支持更多第三方应用集成。
+
+---
+
+## <a name="8"></a>8. 从零实现一个简易搜索引擎 
+<small>🔗 [bernsteinbear.com](https://bernsteinbear.com/blog/simple-search/): A simple search engine from scratch</small>
+
+
+| 🔥🔥: 243 \| 💬: [51](https://news.ycombinator.com/item?id=44039744) \| 🗓️ 2025-05-20
+
+
+<br />
+作者与Chris Gregory合作，基于**word2vec词嵌入**技术，用几小时搭建了一个博客搜索引擎。核心思路是将文章和查询词转换为300维向量（通过叠加各单词向量），再用**余弦相似度**排序结果。文中详细解释了向量距离计算、文本归一化处理，并演示了终端REPL和网页前端的实现。为优化网页性能，采用分块加载词向量文件（仅下载所需部分）。最后通过自制评估集测试搜索效果，验证了该方法的实用性。
+
+---
+
 ## <a name="9"></a>9. 用Janet编写的Windows平铺窗口管理器 
 <small>🔗 [agent-kilo.github.io](https://agent-kilo.github.io/jwno/): Show HN: A Tiling Window Manager for Windows, Written in Janet</small>
 
 
-| 🔥🔥: 207 \| 💬: [70](https://news.ycombinator.com/item?id=44042490) \| 🗓️ 2025-05-20
+| 🔥🔥: 218 \| 💬: [73](https://news.ycombinator.com/item?id=44042490) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -136,23 +136,11 @@ Jwno是一款为Windows 10/11设计的**高度可定制**平铺窗口管理器�
 
 ---
 
-## <a name="10"></a>10. 关于Deno消亡的报道言过其实 
-<small>🔗 [deno.com](https://deno.com/blog/greatly-exaggerated): Reports of Deno's Demise Have Been Greatly Exaggerated</small>
-
-
-| 🔥🔥: 191 \| 💬: [177](https://news.ycombinator.com/item?id=44040332) \| 🗓️ 2025-05-20
-
-
-<br />
-近期针对**Deno**及其生态（如Deploy、KV、Fresh）的质疑被夸大。尽管部分批评合理（如沟通不足），但Deno实际发展强劲：**Deno 2**发布后用户数翻倍，Node兼容性提升显著。**Deno Deploy**正转型为全栈应用平台，优化区域部署策略；**KV**将保持测试版，未来重点整合计算与状态管理。团队承诺加强沟通，并透露多项新计划正在推进，包括JSR开源治理和TC39标准参与。Deno的目标始终是打造更完善的JavaScript开发生态。
-
----
-
-## <a name="11"></a>11. 为何美国长期存在贸易逆差？ 
+## <a name="10"></a>10. 为何美国长期存在贸易逆差？ 
 <small>🔗 [libertystreeteconomics.newyorkfed.org](https://libertystreeteconomics.newyorkfed.org/2025/05/why-does-the-u-s-always-run-a-trade-deficit/): Why does the U.S. always run a trade deficit?</small>
 
 
-| 🔥🔥: 191 \| 💬: [398](https://news.ycombinator.com/item?id=44040407) \| 🗓️ 2025-05-20
+| 🔥🔥: 208 \| 💬: [440](https://news.ycombinator.com/item?id=44040407) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -160,11 +148,11 @@ Jwno是一款为Windows 10/11设计的**高度可定制**平铺窗口管理器�
 
 ---
 
-## <a name="12"></a>12. NSA选择器：将网络数据流转换为音频的Eurorack模块 
+## <a name="11"></a>11. NSA选择器：将网络数据流转换为音频的Eurorack模块 
 <small>🔗 [github.com](https://github.com/wenzellabs/the_NSA_selector): The NSA Selector</small>
 
 
-| 🔥🔥: 191 \| 💬: [59](https://news.ycombinator.com/item?id=44044459) \| 🗓️ 2025-05-20
+| 🔥🔥: 203 \| 💬: [60](https://news.ycombinator.com/item?id=44044459) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -174,11 +162,23 @@ Jwno是一款为Windows 10/11设计的**高度可定制**平铺窗口管理器�
 
 ---
 
+## <a name="12"></a>12. 关于Deno消亡的报道言过其实 
+<small>🔗 [deno.com](https://deno.com/blog/greatly-exaggerated): Reports of Deno's Demise Have Been Greatly Exaggerated</small>
+
+
+| 🔥🔥: 193 \| 💬: [182](https://news.ycombinator.com/item?id=44040332) \| 🗓️ 2025-05-20
+
+
+<br />
+近期针对**Deno**及其生态（如Deploy、KV、Fresh）的质疑被夸大。尽管部分批评合理（如沟通不足），但Deno实际发展强劲：**Deno 2**发布后用户数翻倍，Node兼容性提升显著。**Deno Deploy**正转型为全栈应用平台，优化区域部署策略；**KV**将保持测试版，未来重点整合计算与状态管理。团队承诺加强沟通，并透露多项新计划正在推进，包括JSR开源治理和TC39标准参与。Deno的目标始终是打造更完善的JavaScript开发生态。
+
+---
+
 ## <a name="13"></a>13. 大语言模型在招聘决策中的系统性偏见：性别与位置偏好显著 
 <small>🔗 [davidrozado.substack.com](https://davidrozado.substack.com/p/the-strange-behavior-of-llms-in-hiring): The behavior of LLMs in hiring decisions: Systemic biases in candidate selection</small>
 
 
-| 🔥🔥: 185 \| 💬: [164](https://news.ycombinator.com/item?id=44039563) \| 🗓️ 2025-05-20
+| 🔥🔥: 186 \| 💬: [165](https://news.ycombinator.com/item?id=44039563) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -190,7 +190,7 @@ Jwno是一款为Windows 10/11设计的**高度可定制**平铺窗口管理器�
 <small>🔗 [blog.dshr.org](https://blog.dshr.org/2025/05/the-dawn-of-nvidias-technology.html): The Dawn of Nvidia's Technology</small>
 
 
-| 🔥🔥: 135 \| 💬: [40](https://news.ycombinator.com/item?id=44043687) \| 🗓️ 2025-05-20
+| 🔥🔥: 143 \| 💬: [46](https://news.ycombinator.com/item?id=44043687) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -198,7 +198,33 @@ Jwno是一款为Windows 10/11设计的**高度可定制**平铺窗口管理器�
 
 ---
 
-## <a name="15"></a>15. Gemma 3n预览版发布：专为移动端打造的高效AI 
+## <a name="15"></a>15. AI的能源足迹：被忽视的隐形成本 
+<small>🔗 [technologyreview.com](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/): AI's energy footprint</small>
+
+
+| 🔥🔥: 141 \| 💬: [151](https://news.ycombinator.com/item?id=44039808) \| 🗓️ 2025-05-20
+
+
+<br />
+MIT技术评论揭示，**AI行业**的能源消耗远超预期。单个查询能耗虽小，但全球每日数十亿次请求叠加后，**碳排放量惊人**。训练GPT-4耗电相当于旧金山三天的用电量，而80%-90%的AI算力用于日常推理。科技巨头正斥巨资建设数据中心，甚至推动核电站项目，但能源来源仍以高碳为主。**关键问题**在于：企业拒绝公开能耗细节，导致监管与规划困难。若不改变，AI的能源需求或将在2028年占全美数据中心用电的一半。
+
+---
+
+## <a name="16"></a>16. Red：下一代全栈编程语言 
+<small>🔗 [red-lang.org](https://www.red-lang.org/p/about.html): Red Programming Language</small>
+
+
+| 🔥🔥: 131 \| 💬: [64](https://news.ycombinator.com/item?id=44044306) \| 🗓️ 2025-05-20
+
+
+<br />
+Red是一种受REBOL启发的现代编程语言，旨在成为**首个全栈语言**，覆盖从系统编程到高级脚本的所有层级。其核心特点包括：**人类友好语法**、**自包含工具链**（仅1MB无依赖）、跨平台编译以及支持多种编程范式（函数式、响应式等）。Red还内置丰富的功能，如GUI系统、模式匹配宏和并行处理能力，同时保持低内存占用和高性能。  
+
+Red的愿景是提供一套**语言构建工具集**，而非单一语言，开发者可以用统一语法应对不同抽象层级的任务。自2011年发布以来，Red持续演进，目标是通过单文件工具链实现“一次编写，随处编译”的终极开发体验。
+
+---
+
+## <a name="17"></a>17. Gemma 3n预览版发布：专为移动端打造的高效AI 
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/introducing-gemma-3n/): Gemma 3n preview: Mobile-first AI</small>
 
 
@@ -210,35 +236,11 @@ Google推出**Gemma 3n**预览版，这是一款基于全新架构的**开源模
 
 ---
 
-## <a name="16"></a>16. AI的能源足迹：被忽视的隐形成本 
-<small>🔗 [technologyreview.com](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/): AI's energy footprint</small>
-
-
-| 🔥🔥: 121 \| 💬: [134](https://news.ycombinator.com/item?id=44039808) \| 🗓️ 2025-05-20
-
-
-<br />
-MIT技术评论揭示，**AI行业**的能源消耗远超预期。单个查询能耗虽小，但全球每日数十亿次请求叠加后，**碳排放量惊人**。训练GPT-4耗电相当于旧金山三天的用电量，而80%-90%的AI算力用于日常推理。科技巨头正斥巨资建设数据中心，甚至推动核电站项目，但能源来源仍以高碳为主。**关键问题**在于：企业拒绝公开能耗细节，导致监管与规划困难。若不改变，AI的能源需求或将在2028年占全美数据中心用电的一半。
-
----
-
-## <a name="17"></a>17. OpenAI Codex 实测体验：潜力与待完善的AI编程助手 
-<small>🔗 [zackproser.com](https://zackproser.com/blog/openai-codex-review): OpenAI Codex hands-on review</small>
-
-
-| 🔥🔥: 120 \| 💬: [89](https://news.ycombinator.com/item?id=44042070) \| 🗓️ 2025-05-20
-
-
-<br />
-作者试用**OpenAI Codex**后，认为其**多线程任务并行处理**的设计契合高效工作流，能通过自然语言快速发起多个代码维护任务（如文本修改、样式调整）。当前亮点包括GitHub仓库无缝对接、手机端操作支持，以及自动生成PR描述的功能。但存在明显短板：**错误处理不稳定**，复杂重构任务体验卡顿，且**沙箱无网络连接**导致依赖更新受限。尽管尚未带来颠覆性效率提升，作者看好其未来通过模型优化和分支管理改进，成为日常工作的核心调度工具。
-
----
-
 ## <a name="18"></a>18. 罗宾：自动化科学发现的多智能体系统 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2505.13400): Robin: A multi-agent system for automating scientific discovery</small>
 
 
-| 🔥🔥: 119 \| 💬: [17](https://news.ycombinator.com/item?id=44043323) \| 🗓️ 2025-05-20
+| 🔥🔥: 125 \| 💬: [17](https://news.ycombinator.com/item?id=44043323) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -246,25 +248,35 @@ MIT技术评论揭示，**AI行业**的能源消耗远超预期。单个查询�
 
 ---
 
-## <a name="19"></a>19. Red：下一代全栈编程语言 
-<small>🔗 [red-lang.org](https://www.red-lang.org/p/about.html): Red Programming Language</small>
+## <a name="19"></a>19. OpenAI Codex 实测体验：潜力与待完善的AI编程助手 
+<small>🔗 [zackproser.com](https://zackproser.com/blog/openai-codex-review): OpenAI Codex hands-on review</small>
 
 
-| 🔥🔥: 115 \| 💬: [55](https://news.ycombinator.com/item?id=44044306) \| 🗓️ 2025-05-20
+| 🔥🔥: 121 \| 💬: [89](https://news.ycombinator.com/item?id=44042070) \| 🗓️ 2025-05-20
 
 
 <br />
-Red是一种受REBOL启发的现代编程语言，旨在成为**首个全栈语言**，覆盖从系统编程到高级脚本的所有层级。其核心特点包括：**人类友好语法**、**自包含工具链**（仅1MB无依赖）、跨平台编译以及支持多种编程范式（函数式、响应式等）。Red还内置丰富的功能，如GUI系统、模式匹配宏和并行处理能力，同时保持低内存占用和高性能。  
-
-Red的愿景是提供一套**语言构建工具集**，而非单一语言，开发者可以用统一语法应对不同抽象层级的任务。自2011年发布以来，Red持续演进，目标是通过单文件工具链实现“一次编写，随处编译”的终极开发体验。
+作者试用**OpenAI Codex**后，认为其**多线程任务并行处理**的设计契合高效工作流，能通过自然语言快速发起多个代码维护任务（如文本修改、样式调整）。当前亮点包括GitHub仓库无缝对接、手机端操作支持，以及自动生成PR描述的功能。但存在明显短板：**错误处理不稳定**，复杂重构任务体验卡顿，且**沙箱无网络连接**导致依赖更新受限。尽管尚未带来颠覆性效率提升，作者看好其未来通过模型优化和分支管理改进，成为日常工作的核心调度工具。
 
 ---
 
-## <a name="20"></a>20. Kubernetes原生分布式大模型推理框架llm-d发布 
+## <a name="20"></a>20. “.NET零分配LINQ库ZLinq发布” 
+<small>🔗 [neuecc.medium.com](https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749): “ZLinq”, a Zero-Allocation LINQ Library for .NET</small>
+
+
+| 🔥🔥: 114 \| 💬: [38](https://news.ycombinator.com/item?id=44046578) \| 🗓️ 2025-05-20
+
+
+<br />
+ZLinq是一个基于**结构体**和泛型实现的零分配LINQ库，支持Span、SIMD、文件系统等扩展场景，并兼容.NET Standard 2.0、Unity等多平台。其核心优化包括**TryGetNext接口**减少迭代开销、**SIMD加速**及**内部迭代器**设计，性能在多数场景超越标准LINQ。通过**Source Generator**可无缝替换现有代码，已通过9000项测试确保行为一致性。作者凭借多年LINQ开发经验（如linq.js、UniRx）实现了这一高性能方案。
+
+---
+
+## <a name="21"></a>21. Kubernetes原生分布式大模型推理框架llm-d发布 
 <small>🔗 [llm-d.ai](https://llm-d.ai/blog/llm-d-announce): llm-d, Kubernetes native distributed inference</small>
 
 
-| 🔥: 99 \| 💬: [14](https://news.ycombinator.com/item?id=44040883) \| 🗓️ 2025-05-20
+| 🔥🔥: 103 \| 💬: [14](https://news.ycombinator.com/item?id=44040883) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -272,7 +284,19 @@ llm-d是一个基于**Kubernetes**的高性能分布式大模型推理框架，�
 
 ---
 
-## <a name="21"></a>21. 如果AI代理都搞不懂你的API，用户更搞不懂 
+## <a name="22"></a>22. Juvio：为Jupyter设计的UV内核工具 
+<small>🔗 [github.com](https://github.com/OKUA1/juvio): Show HN: Juvio – UV Kernel for Jupyter</small>
+
+
+| 🔥: 100 \| 💬: [22](https://news.ycombinator.com/item?id=44043421) \| 🗓️ 2025-05-20
+
+
+<br />
+Juvio是一个**依赖感知**的Jupyter内核，通过**内联依赖管理**（PEP 723风格）和**自动环境配置**（基于uv工具）确保笔记本可复现性。它直接将依赖项保存在笔记本元数据中，无需额外文件，并通过脚本式格式（`# %%`标记）优化Git版本控制体验。用户只需安装Juvio并运行`%juvio install`命令，即可实现**干净可追溯**的协作开发。
+
+---
+
+## <a name="23"></a>23. 如果AI代理都搞不懂你的API，用户更搞不懂 
 <small>🔗 [stytch.com](https://stytch.com/blog/if-an-ai-agent-cant-figure-out-how-your-api-works-neither-can-your-users/): If an AI agent can't figure out how your API works, neither can your users</small>
 
 
@@ -284,23 +308,11 @@ llm-d是一个基于**Kubernetes**的高性能分布式大模型推理框架，�
 
 ---
 
-## <a name="22"></a>22. Juvio：为Jupyter设计的UV内核工具 
-<small>🔗 [github.com](https://github.com/OKUA1/juvio): Show HN: Juvio – UV Kernel for Jupyter</small>
-
-
-| 🔥: 96 \| 💬: [21](https://news.ycombinator.com/item?id=44043421) \| 🗓️ 2025-05-20
-
-
-<br />
-Juvio是一个**依赖感知**的Jupyter内核，通过**内联依赖管理**（PEP 723风格）和**自动环境配置**（基于uv工具）确保笔记本可复现性。它直接将依赖项保存在笔记本元数据中，无需额外文件，并通过脚本式格式（`# %%`标记）优化Git版本控制体验。用户只需安装Juvio并运行`%juvio install`命令，即可实现**干净可追溯**的协作开发。
-
----
-
-## <a name="23"></a>23. GPU驱动的集群前向渲染器：2.7万条龙与1万盏光的实时渲染 
+## <a name="24"></a>24. GPU驱动的集群前向渲染器：2.7万条龙与1万盏光的实时渲染 
 <small>🔗 [logdahl.net](https://logdahl.net/p/gpu-driven): GPU-Driven Clustered Forward Renderer</small>
 
 
-| 🔥: 89 \| 💬: [22](https://news.ycombinator.com/item?id=44043045) \| 🗓️ 2025-05-20
+| 🔥: 92 \| 💬: [22](https://news.ycombinator.com/item?id=44043045) \| 🗓️ 2025-05-20
 
 
 <br />
@@ -308,26 +320,14 @@ Juvio是一个**依赖感知**的Jupyter内核，通过**内联依赖管理**（
 
 ---
 
-## <a name="24"></a>24. Ogmo——免费开源的2D关卡编辑器 
-<small>🔗 [ogmo-editor-3.github.io](https://ogmo-editor-3.github.io/): Ogmo – free, open source, 2D level editor</small>
+## <a name="25"></a>25. 代码并非价值所在 
+<small>🔗 [jonayre.uk](https://jonayre.uk/blog/2022/10/30/the-real-value-isnt-in-the-code/): The Value Isn't in the Code</small>
 
 
-| 🔥: 82 \| 💬: [11](https://news.ycombinator.com/item?id=44041574) \| 🗓️ 2025-05-20
-
-
-<br />
-Ogmo是一款专注于**项目化工作流**的2D关卡编辑器，所有功能围绕直观高效的设计理念展开。支持**多样图层类型**，包括瓦片层、装饰层、实体层和网格层，满足不同创作需求。编辑完成后可导出为**易解析的JSON文件**，便于游戏开发集成。完全免费且开源（MIT协议），提供详细在线手册，适合个人和商业项目使用。支持通过itch.io下载，源代码托管于GitHub。
-
----
-
-## <a name="25"></a>25. “.NET零分配LINQ库ZLinq发布” 
-<small>🔗 [neuecc.medium.com](https://neuecc.medium.com/zlinq-a-zero-allocation-linq-library-for-net-1bb0a3e5c749): “ZLinq”, a Zero-Allocation LINQ Library for .NET</small>
-
-
-| 🔥: 82 \| 💬: [29](https://news.ycombinator.com/item?id=44046578) \| 🗓️ 2025-05-20
+| 🔥: 90 \| 💬: [52](https://news.ycombinator.com/item?id=44046955) \| 🗓️ 2025-05-20
 
 
 <br />
-ZLinq是一个基于**结构体**和泛型实现的零分配LINQ库，支持Span、SIMD、文件系统等扩展场景，并兼容.NET Standard 2.0、Unity等多平台。其核心优化包括**TryGetNext接口**减少迭代开销、**SIMD加速**及**内部迭代器**设计，性能在多数场景超越标准LINQ。通过**Source Generator**可无缝替换现有代码，已通过9000项测试确保行为一致性。作者凭借多年LINQ开发经验（如linq.js、UniRx）实现了这一高性能方案。
+文章指出，软件开发的真正价值不在于**代码本身**，而在于**团队协作**、**业务逻辑梳理**和**用户体验设计**等环节。作者通过亲身实验证明，一个7人团队耗时6个月开发的项目，仅用两周就能凭借经验从零重建，且代码更精简高效。这印证了核心观点：**代码可被快速替换**，而解决问题的**知识沉淀**才是关键资产。最后提醒开发者应尊重前人的探索，而非盲目批判遗留代码。
 
 ---
