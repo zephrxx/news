@@ -27,7 +27,7 @@ tags:
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/): Watching AI drive Microsoft employees insane</small>
 
 
-| 🔥🔥: 894 \| 💬: [470](https://news.ycombinator.com/item?id=44050152) \| 🗓️ 2025-05-21
+| 🔥🔥: 902 \| 💬: [474](https://news.ycombinator.com/item?id=44050152) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -36,10 +36,10 @@ GitHub Copilot近期在.NET运行时仓库中自动提交了大量问题代码�
 ---
 
 ## <a name="2"></a>2. Signal默认屏蔽微软Recall截图功能 
-<small>🔗 [signal.org](https://signal.org/blog/signal-doesnt-recall/): By Default, Signal Doesn't Recall</small>
+<small>🔗 [signal.org](https://signal.org/blog/signal-doesnt-recall/): By default, Signal doesn't recall</small>
 
 
-| 🔥🔥: 293 \| 💬: [209](https://news.ycombinator.com/item?id=44053364) \| 🗓️ 2025-05-21
+| 🔥🔥: 350 \| 💬: [264](https://news.ycombinator.com/item?id=44053364) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -51,7 +51,7 @@ Signal桌面端新增**“屏幕安全”设置**，默认在Win11中启用，�
 <small>🔗 [mistral.ai](https://mistral.ai/news/devstral): Devstral</small>
 
 
-| 🔥🔥: 290 \| 💬: [57](https://news.ycombinator.com/item?id=44051733) \| 🗓️ 2025-05-21
+| 🔥🔥: 317 \| 💬: [64](https://news.ycombinator.com/item?id=44051733) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -63,7 +63,7 @@ Mistral AI与All Hands AI联合推出**Devstral**，这是目前**性能最强�
 <small>🔗 [datapointed.net](http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/): Animated Factorization (2012)</small>
 
 
-| 🔥🔥: 209 \| 💬: [43](https://news.ycombinator.com/item?id=44051958) \| 🗓️ 2025-05-21
+| 🔥🔥: 216 \| 💬: [44](https://news.ycombinator.com/item?id=44051958) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -75,7 +75,7 @@ Mistral AI与All Hands AI联合推出**Devstral**，这是目前**性能最强�
 <small>🔗 [mattweidner.com](https://mattweidner.com/2025/05/21/text-without-crdts.html): Collaborative Text Editing Without CRDTs or OT</small>
 
 
-| 🔥🔥: 154 \| 💬: [35](https://news.ycombinator.com/item?id=44053560) \| 🗓️ 2025-05-21
+| 🔥🔥: 162 \| 💬: [39](https://news.ycombinator.com/item?id=44053560) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -87,7 +87,7 @@ Mistral AI与All Hands AI联合推出**Devstral**，这是目前**性能最强�
 <small>🔗 [blog.nlnetlabs.nl](https://blog.nlnetlabs.nl/introducing-roto-a-compiled-scripting-language-for-rust/): Roto: A Compiled Scripting Language for Rust</small>
 
 
-| 🔥🔥: 143 \| 💬: [106](https://news.ycombinator.com/item?id=44050222) \| 🗓️ 2025-05-21
+| 🔥🔥: 144 \| 💬: [107](https://news.ycombinator.com/item?id=44050222) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -95,23 +95,11 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="7"></a>7. 《揭秘Discord：2015-2024年公开通信全数据集》 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2502.00627): Discord Unveiled: A Comprehensive Dataset of Public Communication (2015-2024)</small>
-
-
-| 🔥🔥: 127 \| 💬: [142](https://news.ycombinator.com/item?id=44052041) \| 🗓️ 2025-05-21
-
-
-<br />
-该论文发布了迄今最全面的**Discord公开服务器数据集**，涵盖2015年至2024年间3,167个公共服务器的**20.5亿条消息**，涉及474万用户。数据通过API合规采集并匿名化处理，以JSON格式存储，便于计算社会科学研究。初步分析显示，**英语主导**但西语、法语等占比显著，社区主题从游戏扩展至艺术、社交等多元领域。研究填补了Discord学术数据空白，为去中心化治理、信息传播等议题提供基础。论文已提交至ICWSM 2025会议。
-
----
-
-## <a name="8"></a>8. 大模型函数调用难以扩展，代码编排更简单高效 
+## <a name="7"></a>7. 大模型函数调用难以扩展，代码编排更简单高效 
 <small>🔗 [jngiam.bearblog.dev](https://jngiam.bearblog.dev/mcp-large-data/): LLM function calls don't scale; code orchestration is simpler, more effective</small>
 
 
-| 🔥🔥: 115 \| 💬: [40](https://news.ycombinator.com/item?id=44053744) \| 🗓️ 2025-05-21
+| 🔥🔥: 133 \| 💬: [48](https://news.ycombinator.com/item?id=44053744) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -119,7 +107,31 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="9"></a>9. 比AI编程助手更重要的5个开发要素 
+## <a name="8"></a>8. 《揭秘Discord：2015-2024年公开通信全数据集》 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2502.00627): Discord Unveiled: A Comprehensive Dataset of Public Communication (2015-2024)</small>
+
+
+| 🔥🔥: 127 \| 💬: [143](https://news.ycombinator.com/item?id=44052041) \| 🗓️ 2025-05-21
+
+
+<br />
+该论文发布了迄今最全面的**Discord公开服务器数据集**，涵盖2015年至2024年间3,167个公共服务器的**20.5亿条消息**，涉及474万用户。数据通过API合规采集并匿名化处理，以JSON格式存储，便于计算社会科学研究。初步分析显示，**英语主导**但西语、法语等占比显著，社区主题从游戏扩展至艺术、社交等多元领域。研究填补了Discord学术数据空白，为去中心化治理、信息传播等议题提供基础。论文已提交至ICWSM 2025会议。
+
+---
+
+## <a name="9"></a>9. 算法领域突破：少量内存可替代大量计算时间 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/): For algorithms, a little memory outweighs a lot of time</small>
+
+
+| 🔥🔥: 112 \| 💬: [20](https://news.ycombinator.com/item?id=44055347) \| 🗓️ 2025-05-21
+
+
+<br />
+麻省理工学院理论计算机科学家Ryan Williams在2024年提出了一项**里程碑式证明**，首次在50年内改写了计算机科学中对**时间与内存关系**的认知。他的研究表明，**少量内存**的合理运用可以达到与大量计算时间相同的效果，这一发现颠覆了传统认为"内存需求与运行时间成正比"的假设。该证明不仅解决了长期悬而未决的PSPACE与P复杂度类别关系问题，还通过创新的**模拟转换方法**，为所有算法提供了通用内存优化方案。这项被同行誉为"惊人突破"的研究，可能为计算机科学最古老的开放性问题提供新的解决路径。
+
+---
+
+## <a name="10"></a>10. 比AI编程助手更重要的5个开发要素 
 <small>🔗 [codemanship.wordpress.com](https://codemanship.wordpress.com/2025/05/21/five-boring-things-that-have-a-bigger-impact-than-a-i-coding-assistants-on-dev-team-productivity/): Things that have a bigger impact than coding assistants</small>
 
 
@@ -131,11 +143,11 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="10"></a>10. 商业白痴时代 
+## <a name="11"></a>11. 商业白痴时代 
 <small>🔗 [wheresyoured.at](https://www.wheresyoured.at/the-era-of-the-business-idiot/): The Era of the Business Idiot</small>
 
 
-| 🔥: 95 \| 💬: [106](https://news.ycombinator.com/item?id=44053328) \| 🗓️ 2025-05-21
+| 🔥: 97 \| 💬: [113](https://news.ycombinator.com/item?id=44053328) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -143,11 +155,11 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="11"></a>11. 线粒体不仅是能量工厂，更是细胞的“主板” 
+## <a name="12"></a>12. 线粒体不仅是能量工厂，更是细胞的“主板” 
 <small>🔗 [scientificamerican.com](https://www.scientificamerican.com/article/why-mitochondria-are-more-like-a-motherboard-than-the-powerhouse-of-the-cell/): Mitochondria Are More Than Powerhouses–They're the Motherboard of the Cell</small>
 
 
-| 🔥: 90 \| 💬: [40](https://news.ycombinator.com/item?id=44052909) \| 🗓️ 2025-05-21
+| 🔥: 92 \| 💬: [43](https://news.ycombinator.com/item?id=44052909) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -155,7 +167,7 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="12"></a>12. 欧盟初创企业失败源于媒体拒绝炒作 
+## <a name="13"></a>13. 欧盟初创企业失败源于媒体拒绝炒作 
 <small>🔗 [twitter.com](https://twitter.com/RnaudBertrand/status/1925029185052917791): EU startups fail because their press refuses to hype them up</small>
 
 
@@ -167,47 +179,11 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="13"></a>13. “涡轮增压”线粒体驱动鸟类史诗级迁徙 
-<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/turbocharged-mitochondria-power-birds-epic-migratory-journeys-20250519/): 'Turbocharged' Mitochondria Power Birds' Epic Migratory Journeys</small>
+## <a name="14"></a>14. 太阳系发现新矮行星 
+<small>🔗 [minorplanetcenter.net](https://www.minorplanetcenter.net/mpec/K25/K25K47.html): Possible new dwarf planet found in our solar system</small>
 
 
-| 🔥: 79 \| 💬: [55](https://news.ycombinator.com/item?id=44051652) \| 🗓️ 2025-05-21
-
-
-<br />
-研究发现，**线粒体**的数量、形状和效率变化为鸟类长途迁徙提供了额外能量。例如，白冠麻雀可飞行4200公里，而北极燕鸥的旅程超过1.6万公里。科学家发现，**迁徙鸟类**的飞行肌肉中线粒体更多、效率更高，且能通过融合或分裂动态调整形态以提升能量产出。这种季节性变化由光照周期触发，无需基因改变，展现了生物的**表型可塑性**。
-
----
-
-## <a name="14"></a>14. 算法领域突破：少量内存可替代大量计算时间 
-<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/): For algorithms, a little memory outweighs a lot of time</small>
-
-
-| 🔥: 79 \| 💬: [15](https://news.ycombinator.com/item?id=44055347) \| 🗓️ 2025-05-21
-
-
-<br />
-麻省理工学院理论计算机科学家Ryan Williams在2024年提出了一项**里程碑式证明**，首次在50年内改写了计算机科学中对**时间与内存关系**的认知。他的研究表明，**少量内存**的合理运用可以达到与大量计算时间相同的效果，这一发现颠覆了传统认为"内存需求与运行时间成正比"的假设。该证明不仅解决了长期悬而未决的PSPACE与P复杂度类别关系问题，还通过创新的**模拟转换方法**，为所有算法提供了通用内存优化方案。这项被同行誉为"惊人突破"的研究，可能为计算机科学最古老的开放性问题提供新的解决路径。
-
----
-
-## <a name="15"></a>15. 美国建成全球最强激光器ZEUS，功率达2拍瓦 
-<small>🔗 [news.engin.umich.edu](https://news.engin.umich.edu/2025/05/the-us-has-a-new-most-powerful-laser/): The US has a new most powerful laser hitting 2 petawatts</small>
-
-
-| 🔥: 74 \| 💬: [80](https://news.ycombinator.com/item?id=44052418) \| 🗓️ 2025-05-21
-
-
-<br />
-美国密歇根大学的**ZEUS激光设施**首次实验达到**2拍瓦**（2千万亿瓦）峰值功率，成为全美最强激光器。其脉冲持续时间仅25飞秒，功率超全球电网总输出百倍。该设施由美国国家科学基金会资助，将推动**医学、国家安全、材料科学**等领域研究。ZEUS采用多光束分束设计，支持国际团队合作实验，未来计划升级至3拍瓦，并探索**等离子体物理**和**粒子加速**等前沿应用。
-
----
-
-## <a name="16"></a>16. 太阳系发现新矮行星 
-<small>🔗 [minorplanetcenter.net](https://www.minorplanetcenter.net/mpec/K25/K25K47.html): New dwarf planet found in our solar system</small>
-
-
-| 🔥: 72 \| 💬: [39](https://news.ycombinator.com/item?id=44054620) \| 🗓️ 2025-05-21
+| 🔥: 88 \| 💬: [52](https://news.ycombinator.com/item?id=44054620) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -215,11 +191,47 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="17"></a>17. 利用嵌入向量的普适几何结构 
+## <a name="15"></a>15. “涡轮增压”线粒体驱动鸟类史诗级迁徙 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/turbocharged-mitochondria-power-birds-epic-migratory-journeys-20250519/): 'Turbocharged' Mitochondria Power Birds' Epic Migratory Journeys</small>
+
+
+| 🔥: 83 \| 💬: [60](https://news.ycombinator.com/item?id=44051652) \| 🗓️ 2025-05-21
+
+
+<br />
+研究发现，**线粒体**的数量、形状和效率变化为鸟类长途迁徙提供了额外能量。例如，白冠麻雀可飞行4200公里，而北极燕鸥的旅程超过1.6万公里。科学家发现，**迁徙鸟类**的飞行肌肉中线粒体更多、效率更高，且能通过融合或分裂动态调整形态以提升能量产出。这种季节性变化由光照周期触发，无需基因改变，展现了生物的**表型可塑性**。
+
+---
+
+## <a name="16"></a>16. 美国建成全球最强激光器ZEUS，功率达2拍瓦 
+<small>🔗 [news.engin.umich.edu](https://news.engin.umich.edu/2025/05/the-us-has-a-new-most-powerful-laser/): The US has a new most powerful laser hitting 2 petawatts</small>
+
+
+| 🔥: 79 \| 💬: [84](https://news.ycombinator.com/item?id=44052418) \| 🗓️ 2025-05-21
+
+
+<br />
+美国密歇根大学的**ZEUS激光设施**首次实验达到**2拍瓦**（2千万亿瓦）峰值功率，成为全美最强激光器。其脉冲持续时间仅25飞秒，功率超全球电网总输出百倍。该设施由美国国家科学基金会资助，将推动**医学、国家安全、材料科学**等领域研究。ZEUS采用多光束分束设计，支持国际团队合作实验，未来计划升级至3拍瓦，并探索**等离子体物理**和**粒子加速**等前沿应用。
+
+---
+
+## <a name="17"></a>17. 谷歌AI Studio推出全新开发者体验升级 
+<small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/google-ai-studio-native-code-generation-agentic-tools-upgrade/): An upgraded dev experience in Google AI Studio</small>
+
+
+| 🔥: 72 \| 💬: [34](https://news.ycombinator.com/item?id=44054185) \| 🗓️ 2025-05-21
+
+
+<br />
+谷歌AI Studio现支持**Gemini 2.5 Pro代码生成**，开发者可通过文本、图像或视频提示快速构建AI应用，并一键部署至Cloud Run。新增**多模态生成**功能，整合Imagen、Veo等媒体模型，以及原生语音对话和文本转语音（TTS）预览。实验性工具**URL Context**支持链接内容检索，**MCP协议**实现更便捷的开源工具集成。这些更新使AI Studio成为探索谷歌最新模型的首选平台。
+
+---
+
+## <a name="18"></a>18. 利用嵌入向量的普适几何结构 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2505.12540): Harnessing the Universal Geometry of Embeddings</small>
 
 
-| 🔥: 61 \| 💬: [25](https://news.ycombinator.com/item?id=44054425) \| 🗓️ 2025-05-21
+| 🔥: 65 \| 💬: [31](https://news.ycombinator.com/item?id=44054425) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -227,27 +239,15 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="18"></a>18. Lune：独立的Luau运行时环境 
+## <a name="19"></a>19. Lune：独立的Luau运行时环境 
 <small>🔗 [github.com](https://github.com/lune-org/lune): Lune: Standalone Luau Runtime</small>
 
 
-| 🔥: 60 \| 💬: [37](https://news.ycombinator.com/item?id=44052106) \| 🗓️ 2025-05-21
+| 🔥: 64 \| 💬: [38](https://news.ycombinator.com/item?id=44052106) \| 🗓️ 2025-05-21
 
 
 <br />
 Lune是一个**独立的Luau运行时**，类似Node.js或Deno，专为Luau语言设计。它采用**Rust编写**，注重速度与安全性，提供异步API、文件系统、网络等核心功能，并兼容Roblox开发环境。内置**任务调度器**和文档支持，适合脚本编写与工具开发。体积小巧（约5MB），但功能强大，强调代码可读性而非简洁性。不支持完整Roblox游戏运行，定位为高效开发工具。
-
----
-
-## <a name="19"></a>19. 谷歌AI Studio推出全新开发者体验升级 
-<small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/google-ai-studio-native-code-generation-agentic-tools-upgrade/): An upgraded dev experience in Google AI Studio</small>
-
-
-| 🔥: 58 \| 💬: [18](https://news.ycombinator.com/item?id=44054185) \| 🗓️ 2025-05-21
-
-
-<br />
-谷歌AI Studio现支持**Gemini 2.5 Pro代码生成**，开发者可通过文本、图像或视频提示快速构建AI应用，并一键部署至Cloud Run。新增**多模态生成**功能，整合Imagen、Veo等媒体模型，以及原生语音对话和文本转语音（TTS）预览。实验性工具**URL Context**支持链接内容检索，**MCP协议**实现更便捷的开源工具集成。这些更新使AI Studio成为探索谷歌最新模型的首选平台。
 
 ---
 
