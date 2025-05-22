@@ -12,11 +12,11 @@ tags:
 1. Mozilla将于2025年7月8日关闭Pocket服务；
 1. 特朗普政府暂停哈佛大学招收国际学生资格；
 1. 行星着陆：从游戏地图到虚构星球的制图之旅；
-1. 提升rav1d视频解码器性能的探索；
+1. 墙上挂了12年的分形图案；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/claude-4): Claude 4</small>
 
 
-| 🔥🔥: 1235 \| 💬: [611](https://news.ycombinator.com/item?id=44063703) \| 🗓️ 2025-05-22
+| 🔥🔥: 1317 \| 💬: [696](https://news.ycombinator.com/item?id=44063703) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -39,7 +39,7 @@ Anthropic推出**Claude Opus 4**和**Claude Sonnet 4**，前者成为全球最�
 <small>🔗 [support.mozilla.org](https://support.mozilla.org/en-US/kb/future-of-pocket): Mozilla to shut down Pocket on July 8</small>
 
 
-| 🔥🔥: 645 \| 💬: [417](https://news.ycombinator.com/item?id=44063662) \| 🗓️ 2025-05-22
+| 🔥🔥: 687 \| 💬: [447](https://news.ycombinator.com/item?id=44063662) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -51,7 +51,7 @@ Mozilla宣布将于**2025年7月8日**正式关闭**Pocket**服务，用户可�
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/22/us/politics/trump-harvard-international-students.html): Trump administration halts Harvard's ability to enroll international students</small>
 
 
-| 🔥🔥: 437 \| 💬: [391](https://news.ycombinator.com/item?id=44064631) \| 🗓️ 2025-05-22
+| 🔥🔥: 520 \| 💬: [492](https://news.ycombinator.com/item?id=44064631) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -63,7 +63,7 @@ Mozilla宣布将于**2025年7月8日**正式关闭**Pocket**服务，用户可�
 <small>🔗 [somethingaboutmaps.wordpress.com](https://somethingaboutmaps.wordpress.com/2025/05/20/planetfall/): Planetfall</small>
 
 
-| 🔥🔥: 285 \| 💬: [73](https://news.ycombinator.com/item?id=44060305) \| 🗓️ 2025-05-22
+| 🔥🔥: 296 \| 💬: [77](https://news.ycombinator.com/item?id=44060305) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -71,23 +71,11 @@ Mozilla宣布将于**2025年7月8日**正式关闭**Pocket**服务，用户可�
 
 ---
 
-## <a name="5"></a>5. 提升rav1d视频解码器性能的探索 
-<small>🔗 [ohadravid.github.io](https://ohadravid.github.io/posts/2025-05-rav1d-faster/): Improving performance of rav1d video decoder</small>
-
-
-| 🔥🔥: 238 \| 💬: [78](https://news.ycombinator.com/item?id=44061160) \| 🗓️ 2025-05-22
-
-
-<br />
-作者通过优化**Rust版AV1解码器rav1d**，使其在M3芯片的macOS上性能提升约1%。关键改进包括使用`MaybeUninit`避免不必要的缓冲区清零操作，以及调整内存分配策略。通过对比C语言原版dav1d的性能分析，作者发现**零初始化**是主要性能瓶颈之一。优化后，解码时间从73.9秒降至72.6秒，缩小了与C版本的差距。后续还可能针对`add_temporal_candidate`等函数进一步优化。
-
----
-
-## <a name="6"></a>6. 墙上挂了12年的分形图案 
+## <a name="5"></a>5. 墙上挂了12年的分形图案 
 <small>🔗 [chriskw.xyz](https://chriskw.xyz/2025/05/21/Fractal/): That fractal that's been up on my wall for 12 years</small>
 
 
-| 🔥🔥: 224 \| 💬: [18](https://news.ycombinator.com/item?id=44063248) \| 🗓️ 2025-05-22
+| 🔥🔥: 245 \| 💬: [19](https://news.ycombinator.com/item?id=44063248) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -95,11 +83,23 @@ Mozilla宣布将于**2025年7月8日**正式关闭**Pocket**服务，用户可�
 
 ---
 
+## <a name="6"></a>6. 提升rav1d视频解码器性能的探索 
+<small>🔗 [ohadravid.github.io](https://ohadravid.github.io/posts/2025-05-rav1d-faster/): Improving performance of rav1d video decoder</small>
+
+
+| 🔥🔥: 242 \| 💬: [82](https://news.ycombinator.com/item?id=44061160) \| 🗓️ 2025-05-22
+
+
+<br />
+作者通过优化**Rust版AV1解码器rav1d**，使其在M3芯片的macOS上性能提升约1%。关键改进包括使用`MaybeUninit`避免不必要的缓冲区清零操作，以及调整内存分配策略。通过对比C语言原版dav1d的性能分析，作者发现**零初始化**是主要性能瓶颈之一。优化后，解码时间从73.9秒降至72.6秒，缩小了与C版本的差距。后续还可能针对`add_temporal_candidate`等函数进一步优化。
+
+---
+
 ## <a name="7"></a>7. Ruby 3.5 对象分配性能大幅提升 
 <small>🔗 [railsatscale.com](https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/): Fast Allocations in Ruby 3.5</small>
 
 
-| 🔥🔥: 151 \| 💬: [42](https://news.ycombinator.com/item?id=44062160) \| 🗓️ 2025-05-22
+| 🔥🔥: 161 \| 💬: [41](https://news.ycombinator.com/item?id=44062160) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -111,7 +111,7 @@ Ruby 3.5 通过**内联 `Class#new` 方法**显著加快了对象分配速度，
 <small>🔗 [nexo.sh](https://nexo.sh/posts/why-i-built-a-native-mp3-player-in-swiftui/): I Built My Own Audio Player</small>
 
 
-| 🔥🔥: 135 \| 💬: [69](https://news.ycombinator.com/item?id=44062227) \| 🗓️ 2025-05-22
+| 🔥🔥: 150 \| 💬: [73](https://news.ycombinator.com/item?id=44062227) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -123,7 +123,7 @@ Ruby 3.5 通过**内联 `Class#new` 方法**显著加快了对象分配速度，
 <small>🔗 [github.com](https://github.com/sqliteai/sqlite-js): Show HN: SQLite JavaScript - extend your database with JavaScript</small>
 
 
-| 🔥🔥: 129 \| 💬: [38](https://news.ycombinator.com/item?id=44061836) \| 🗓️ 2025-05-22
+| 🔥🔥: 134 \| 💬: [40](https://news.ycombinator.com/item?id=44061836) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -135,7 +135,7 @@ Ruby 3.5 通过**内联 `Class#new` 方法**显著加快了对象分配速度，
 <small>🔗 [theintercept.com](https://theintercept.com/2025/05/22/intel-agencies-buying-data-portal-privacy/): U.S. Spy Agencies–One-Stop Shop to Buy Your Personal Data</small>
 
 
-| 🔥🔥: 118 \| 💬: [56](https://news.ycombinator.com/item?id=44062586) \| 🗓️ 2025-05-22
+| 🔥🔥: 123 \| 💬: [59](https://news.ycombinator.com/item?id=44062586) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -147,7 +147,7 @@ Ruby 3.5 通过**内联 `Class#new` 方法**显著加快了对象分配速度，
 <small>🔗 [blog.nilenso.com](https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/): MCP explained without hype or fluff</small>
 
 
-| 🔥🔥: 115 \| 💬: [59](https://news.ycombinator.com/item?id=44063141) \| 🗓️ 2025-05-22
+| 🔥🔥: 121 \| 💬: [59](https://news.ycombinator.com/item?id=44063141) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -159,7 +159,7 @@ Ruby 3.5 通过**内联 `Class#new` 方法**显著加快了对象分配速度，
 <small>🔗 [garymarcus.substack.com](https://garymarcus.substack.com/p/the-ai-2027-scenario-how-realistic): The "AI 2027" Scenario: How realistic is it?</small>
 
 
-| 🔥: 89 \| 💬: [138](https://news.ycombinator.com/item?id=44064504) \| 🗓️ 2025-05-22
+| 🔥: 96 \| 💬: [152](https://news.ycombinator.com/item?id=44064504) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -207,7 +207,7 @@ JEP 519 将 **对象头压缩布局** 从实验性功能升级为正式功能。
 <small>🔗 [izbicki.me](https://izbicki.me/blog/how-to-cheat-at-settlers-of-catan-by-loading-the-dice-and-prove-it-with-p-values.html): How to cheat at settlers by loading the dice (2017)</small>
 
 
-| 🔥: 60 \| 💬: [44](https://news.ycombinator.com/item?id=44065094) \| 🗓️ 2025-05-22
+| 🔥: 67 \| 💬: [54](https://news.ycombinator.com/item?id=44065094) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -223,7 +223,7 @@ JEP 519 将 **对象头压缩布局** 从实验性功能升级为正式功能。
 <small>🔗 [pythonspeed.com](https://pythonspeed.com/articles/pydantic-json-memory/): Loading Pydantic models from JSON without running out of memory</small>
 
 
-| 🔥: 58 \| 💬: [17](https://news.ycombinator.com/item?id=44064875) \| 🗓️ 2025-05-22
+| 🔥: 63 \| 💬: [18](https://news.ycombinator.com/item?id=44064875) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -231,11 +231,23 @@ JEP 519 将 **对象头压缩布局** 从实验性功能升级为正式功能。
 
 ---
 
-## <a name="18"></a>18. Three.js实现的4D球面投影曲面空间着色器 
+## <a name="18"></a>18. Glitch将终止应用托管服务 
+<small>🔗 [blog.glitch.com](https://blog.glitch.com/post/changes-are-coming-to-glitch/): We’ll be ending web hosting for your apps on Glitch</small>
+
+
+| 🔥: 60 \| 💬: [41](https://news.ycombinator.com/item?id=44064230) \| 🗓️ 2025-05-22
+
+
+<br />
+Glitch宣布将于**2025年7月8日**停止项目托管和用户档案服务，但用户可通过仪表盘下载代码并设置子域名重定向至2025年底。此举源于运营成本上升及**新兴开发平台**（如Fly.io、Deno等）的竞争，Glitch认为其架构已无法提供独特价值。现有Pro会员订阅将退款，团队将提供迁移指南并持续更新支持。创始人Anil强调这是**生态演变的必然选择**，并邀请社区通过论坛或邮件反馈意见。
+
+---
+
+## <a name="19"></a>19. Three.js实现的4D球面投影曲面空间着色器 
 <small>🔗 [github.com](https://github.com/bntre/CurvedSpaceShader): Show HN: Curved Space Shader in Three.js (via 4D sphere projection)</small>
 
 
-| 🔥: 53 \| 💬: [19](https://news.ycombinator.com/item?id=44060772) \| 🗓️ 2025-05-22
+| 🔥: 55 \| 💬: [19](https://news.ycombinator.com/item?id=44060772) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -243,7 +255,7 @@ JEP 519 将 **对象头压缩布局** 从实验性功能升级为正式功能。
 
 ---
 
-## <a name="19"></a>19. 2分钟生成交互式产品演示的神器 
+## <a name="20"></a>20. 2分钟生成交互式产品演示的神器 
 <small>🔗 [snapdemo.io](https://snapdemo.io/): Show HN: I created an tool that creates interactive product demos in 2 minutes</small>
 
 
@@ -255,7 +267,7 @@ Snapdemo是一款帮助**营销、销售和开发团队**快速创建**交互式
 
 ---
 
-## <a name="20"></a>20. 扩散语言模型的优势与局限 
+## <a name="21"></a>21. 扩散语言模型的优势与局限 
 <small>🔗 [seangoedecke.com](https://www.seangoedecke.com/limitations-of-text-diffusion-models/): Strengths and limitations of diffusion language models</small>
 
 
@@ -267,11 +279,11 @@ Snapdemo是一款帮助**营销、销售和开发团队**快速创建**交互式
 
 ---
 
-## <a name="21"></a>21. 一键切换Dock布局：DockFlow让macOS工作流更高效 
+## <a name="22"></a>22. 一键切换Dock布局：DockFlow让macOS工作流更高效 
 <small>🔗 [dockflow.appitstudio.com](https://dockflow.appitstudio.com/): Show HN: DockFlow – Switch between multiple macOS Dock layouts instantly</small>
 
 
-| 🔥: 47 \| 💬: [33](https://news.ycombinator.com/item?id=44064057) \| 🗓️ 2025-05-22
+| 🔥: 49 \| 💬: [34](https://news.ycombinator.com/item?id=44064057) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -279,11 +291,11 @@ DockFlow是一款**macOS效率工具**，可快速保存和切换不同的Dock�
 
 ---
 
-## <a name="22"></a>22. 韩炳哲的哲学：成就社会中的自我剥削与透明困境 
+## <a name="23"></a>23. 韩炳哲的哲学：成就社会中的自我剥削与透明困境 
 <small>🔗 [newintrigue.com](https://newintrigue.com/2020/06/29/the-philosophy-of-byung-chul-han/): The Philosophy of Byung-Chul Han (2020)</small>
 
 
-| 🔥: 46 \| 💬: [16](https://news.ycombinator.com/item?id=44061698) \| 🗓️ 2025-05-22
+| 🔥: 48 \| 💬: [18](https://news.ycombinator.com/item?id=44061698) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -295,7 +307,7 @@ DockFlow是一款**macOS效率工具**，可快速保存和切换不同的Dock�
 
 ---
 
-## <a name="23"></a>23. 古老法规要求查令十字铁路桥悬挂稻草捆 
+## <a name="24"></a>24. 古老法规要求查令十字铁路桥悬挂稻草捆 
 <small>🔗 [ianvisits.co.uk](https://www.ianvisits.co.uk/articles/ancient-law-requires-a-bale-of-hay-to-hang-from-charing-cross-rail-bridge-81318/): Ancient law requires a bale of straw to hang from Charing Cross rail bridge</small>
 
 
