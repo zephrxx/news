@@ -12,11 +12,11 @@ tags:
 1. Signal默认屏蔽微软Recall截图功能；
 1. Devstral：开源代码助手新标杆；
 1. 动画分解演示（2012）；
-1. 无需CRDT或OT的协同文本编辑新方案；
+1. 算法领域突破：少量内存可替代大量计算时间；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/): Watching AI drive Microsoft employees insane</small>
 
 
-| 🔥🔥: 915 \| 💬: [487](https://news.ycombinator.com/item?id=44050152) \| 🗓️ 2025-05-21
+| 🔥🔥: 920 \| 💬: [492](https://news.ycombinator.com/item?id=44050152) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -39,7 +39,7 @@ GitHub Copilot近期在.NET运行时仓库中自动提交了大量问题代码�
 <small>🔗 [signal.org](https://signal.org/blog/signal-doesnt-recall/): By default, Signal doesn't recall</small>
 
 
-| 🔥🔥: 418 \| 💬: [317](https://news.ycombinator.com/item?id=44053364) \| 🗓️ 2025-05-21
+| 🔥🔥: 435 \| 💬: [341](https://news.ycombinator.com/item?id=44053364) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -51,7 +51,7 @@ Signal桌面端新增**“屏幕安全”设置**，默认在Win11中启用，�
 <small>🔗 [mistral.ai](https://mistral.ai/news/devstral): Devstral</small>
 
 
-| 🔥🔥: 355 \| 💬: [74](https://news.ycombinator.com/item?id=44051733) \| 🗓️ 2025-05-21
+| 🔥🔥: 377 \| 💬: [75](https://news.ycombinator.com/item?id=44051733) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -63,7 +63,7 @@ Mistral AI与All Hands AI联合推出**Devstral**，这是目前**性能最强�
 <small>🔗 [datapointed.net](http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/): Animated Factorization (2012)</small>
 
 
-| 🔥🔥: 223 \| 💬: [53](https://news.ycombinator.com/item?id=44051958) \| 🗓️ 2025-05-21
+| 🔥🔥: 225 \| 💬: [53](https://news.ycombinator.com/item?id=44051958) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -71,23 +71,11 @@ Mistral AI与All Hands AI联合推出**Devstral**，这是目前**性能最强�
 
 ---
 
-## <a name="5"></a>5. 无需CRDT或OT的协同文本编辑新方案 
-<small>🔗 [mattweidner.com](https://mattweidner.com/2025/05/21/text-without-crdts.html): Collaborative Text Editing Without CRDTs or OT</small>
-
-
-| 🔥🔥: 178 \| 💬: [49](https://news.ycombinator.com/item?id=44053560) \| 🗓️ 2025-05-21
-
-
-<br />
-本文提出了一种**无需复杂算法**（如CRDT或OT）的协同文本编辑方法。核心思路是为每个字符分配**全局唯一ID**，客户端通过“在ID X后插入”指令与服务器同步，避免传统方案中索引冲突的问题。服务器保留已删除字符的ID（标记为`isDeleted`）以处理并发操作。该方法**简化了实现**，支持自定义功能（如分段权限控制），且兼容乐观本地更新。相比CRDT/OT的“黑箱”特性，这种方案更透明灵活，适合需要深度定制的协作应用。
-
----
-
-## <a name="6"></a>6. 算法领域突破：少量内存可替代大量计算时间 
+## <a name="5"></a>5. 算法领域突破：少量内存可替代大量计算时间 
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/): For algorithms, a little memory outweighs a lot of time</small>
 
 
-| 🔥🔥: 175 \| 💬: [32](https://news.ycombinator.com/item?id=44055347) \| 🗓️ 2025-05-21
+| 🔥🔥: 187 \| 💬: [40](https://news.ycombinator.com/item?id=44055347) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -95,11 +83,23 @@ Mistral AI与All Hands AI联合推出**Devstral**，这是目前**性能最强�
 
 ---
 
+## <a name="6"></a>6. 无需CRDT或OT的协同文本编辑新方案 
+<small>🔗 [mattweidner.com](https://mattweidner.com/2025/05/21/text-without-crdts.html): Collaborative Text Editing Without CRDTs or OT</small>
+
+
+| 🔥🔥: 185 \| 💬: [51](https://news.ycombinator.com/item?id=44053560) \| 🗓️ 2025-05-21
+
+
+<br />
+本文提出了一种**无需复杂算法**（如CRDT或OT）的协同文本编辑方法。核心思路是为每个字符分配**全局唯一ID**，客户端通过“在ID X后插入”指令与服务器同步，避免传统方案中索引冲突的问题。服务器保留已删除字符的ID（标记为`isDeleted`）以处理并发操作。该方法**简化了实现**，支持自定义功能（如分段权限控制），且兼容乐观本地更新。相比CRDT/OT的“黑箱”特性，这种方案更透明灵活，适合需要深度定制的协作应用。
+
+---
+
 ## <a name="7"></a>7. 大模型函数调用难以扩展，代码编排更简单高效 
 <small>🔗 [jngiam.bearblog.dev](https://jngiam.bearblog.dev/mcp-large-data/): LLM function calls don't scale; code orchestration is simpler, more effective</small>
 
 
-| 🔥🔥: 148 \| 💬: [65](https://news.ycombinator.com/item?id=44053744) \| 🗓️ 2025-05-21
+| 🔥🔥: 163 \| 💬: [69](https://news.ycombinator.com/item?id=44053744) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -111,7 +111,7 @@ Mistral AI与All Hands AI联合推出**Devstral**，这是目前**性能最强�
 <small>🔗 [blog.nlnetlabs.nl](https://blog.nlnetlabs.nl/introducing-roto-a-compiled-scripting-language-for-rust/): Roto: A Compiled Scripting Language for Rust</small>
 
 
-| 🔥🔥: 144 \| 💬: [107](https://news.ycombinator.com/item?id=44050222) \| 🗓️ 2025-05-21
+| 🔥🔥: 144 \| 💬: [108](https://news.ycombinator.com/item?id=44050222) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -123,7 +123,7 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.00627): Discord Unveiled: A Comprehensive Dataset of Public Communication (2015-2024)</small>
 
 
-| 🔥🔥: 132 \| 💬: [146](https://news.ycombinator.com/item?id=44052041) \| 🗓️ 2025-05-21
+| 🔥🔥: 134 \| 💬: [147](https://news.ycombinator.com/item?id=44052041) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -131,15 +131,15 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="10"></a>10. 比AI编程助手更重要的5个开发要素 
-<small>🔗 [codemanship.wordpress.com](https://codemanship.wordpress.com/2025/05/21/five-boring-things-that-have-a-bigger-impact-than-a-i-coding-assistants-on-dev-team-productivity/): Things that have a bigger impact than coding assistants</small>
+## <a name="10"></a>10. 谷歌AI Studio推出全新开发者体验升级 
+<small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/google-ai-studio-native-code-generation-agentic-tools-upgrade/): An upgraded dev experience in Google AI Studio</small>
 
 
-| 🔥: 99 \| 💬: [54](https://news.ycombinator.com/item?id=44050843) \| 🗓️ 2025-05-21
+| 🔥🔥: 103 \| 💬: [59](https://news.ycombinator.com/item?id=44054185) \| 🗓️ 2025-05-21
 
 
 <br />
-文章指出，**小团队性价比更高**、**高频发布加速价值验证**、**限制并行任务提升交付效率**等传统原则对软件开发的影响远超AI编程助手，但企业常因需**文化变革**而回避。例如，高频发布需完善的持续集成体系，而**团队授权**依赖心理安全感。这些改变虽艰难，却能实现真正的敏捷开发。数据表明，AI助手无法替代这些核心实践。
+谷歌AI Studio现支持**Gemini 2.5 Pro代码生成**，开发者可通过文本、图像或视频提示快速构建AI应用，并一键部署至Cloud Run。新增**多模态生成**功能，整合Imagen、Veo等媒体模型，以及原生语音对话和文本转语音（TTS）预览。实验性工具**URL Context**支持链接内容检索，**MCP协议**实现更便捷的开源工具集成。这些更新使AI Studio成为探索谷歌最新模型的首选平台。
 
 ---
 
@@ -147,7 +147,7 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 <small>🔗 [wheresyoured.at](https://www.wheresyoured.at/the-era-of-the-business-idiot/): The Era of the Business Idiot</small>
 
 
-| 🔥: 99 \| 💬: [120](https://news.ycombinator.com/item?id=44053328) \| 🗓️ 2025-05-21
+| 🔥🔥: 101 \| 💬: [121](https://news.ycombinator.com/item?id=44053328) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -159,7 +159,7 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 <small>🔗 [minorplanetcenter.net](https://www.minorplanetcenter.net/mpec/K25/K25K47.html): Possible new dwarf planet found in our solar system</small>
 
 
-| 🔥: 98 \| 💬: [68](https://news.ycombinator.com/item?id=44054620) \| 🗓️ 2025-05-21
+| 🔥🔥: 101 \| 💬: [68](https://news.ycombinator.com/item?id=44054620) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -167,11 +167,23 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="13"></a>13. 线粒体不仅是能量工厂，更是细胞的“主板” 
+## <a name="13"></a>13. 比AI编程助手更重要的5个开发要素 
+<small>🔗 [codemanship.wordpress.com](https://codemanship.wordpress.com/2025/05/21/five-boring-things-that-have-a-bigger-impact-than-a-i-coding-assistants-on-dev-team-productivity/): Things that have a bigger impact than coding assistants</small>
+
+
+| 🔥: 99 \| 💬: [54](https://news.ycombinator.com/item?id=44050843) \| 🗓️ 2025-05-21
+
+
+<br />
+文章指出，**小团队性价比更高**、**高频发布加速价值验证**、**限制并行任务提升交付效率**等传统原则对软件开发的影响远超AI编程助手，但企业常因需**文化变革**而回避。例如，高频发布需完善的持续集成体系，而**团队授权**依赖心理安全感。这些改变虽艰难，却能实现真正的敏捷开发。数据表明，AI助手无法替代这些核心实践。
+
+---
+
+## <a name="14"></a>14. 线粒体不仅是能量工厂，更是细胞的“主板” 
 <small>🔗 [scientificamerican.com](https://www.scientificamerican.com/article/why-mitochondria-are-more-like-a-motherboard-than-the-powerhouse-of-the-cell/): Mitochondria Are More Than Powerhouses–They're the Motherboard of the Cell</small>
 
 
-| 🔥: 94 \| 💬: [44](https://news.ycombinator.com/item?id=44052909) \| 🗓️ 2025-05-21
+| 🔥: 95 \| 💬: [44](https://news.ycombinator.com/item?id=44052909) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -179,19 +191,19 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="14"></a>14. 谷歌AI Studio推出全新开发者体验升级 
-<small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/google-ai-studio-native-code-generation-agentic-tools-upgrade/): An upgraded dev experience in Google AI Studio</small>
+## <a name="15"></a>15. 美国建成全球最强激光器ZEUS，功率达2拍瓦 
+<small>🔗 [news.engin.umich.edu](https://news.engin.umich.edu/2025/05/the-us-has-a-new-most-powerful-laser/): The US has a new most powerful laser</small>
 
 
-| 🔥: 93 \| 💬: [51](https://news.ycombinator.com/item?id=44054185) \| 🗓️ 2025-05-21
+| 🔥: 91 \| 💬: [94](https://news.ycombinator.com/item?id=44052418) \| 🗓️ 2025-05-21
 
 
 <br />
-谷歌AI Studio现支持**Gemini 2.5 Pro代码生成**，开发者可通过文本、图像或视频提示快速构建AI应用，并一键部署至Cloud Run。新增**多模态生成**功能，整合Imagen、Veo等媒体模型，以及原生语音对话和文本转语音（TTS）预览。实验性工具**URL Context**支持链接内容检索，**MCP协议**实现更便捷的开源工具集成。这些更新使AI Studio成为探索谷歌最新模型的首选平台。
+美国密歇根大学的**ZEUS激光设施**首次实验达到**2拍瓦**（2千万亿瓦）峰值功率，成为全美最强激光器。其脉冲持续时间仅25飞秒，功率超全球电网总输出百倍。该设施由美国国家科学基金会资助，将推动**医学、国家安全、材料科学**等领域研究。ZEUS采用多光束分束设计，支持国际团队合作实验，未来计划升级至3拍瓦，并探索**等离子体物理**和**粒子加速**等前沿应用。
 
 ---
 
-## <a name="15"></a>15. 欧盟初创企业失败源于媒体拒绝炒作 
+## <a name="16"></a>16. 欧盟初创企业失败源于媒体拒绝炒作 
 <small>🔗 [twitter.com](https://twitter.com/RnaudBertrand/status/1925029185052917791): EU startups fail because their press refuses to hype them up</small>
 
 
@@ -203,11 +215,11 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="16"></a>16. “涡轮增压”线粒体驱动鸟类史诗级迁徙 
+## <a name="17"></a>17. “涡轮增压”线粒体驱动鸟类史诗级迁徙 
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/turbocharged-mitochondria-power-birds-epic-migratory-journeys-20250519/): 'Turbocharged' Mitochondria Power Birds' Epic Migratory Journeys</small>
 
 
-| 🔥: 88 \| 💬: [67](https://news.ycombinator.com/item?id=44051652) \| 🗓️ 2025-05-21
+| 🔥: 89 \| 💬: [69](https://news.ycombinator.com/item?id=44051652) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -215,23 +227,11 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="17"></a>17. 美国建成全球最强激光器ZEUS，功率达2拍瓦 
-<small>🔗 [news.engin.umich.edu](https://news.engin.umich.edu/2025/05/the-us-has-a-new-most-powerful-laser/): The US has a new most powerful laser hitting 2 petawatts</small>
-
-
-| 🔥: 87 \| 💬: [94](https://news.ycombinator.com/item?id=44052418) \| 🗓️ 2025-05-21
-
-
-<br />
-美国密歇根大学的**ZEUS激光设施**首次实验达到**2拍瓦**（2千万亿瓦）峰值功率，成为全美最强激光器。其脉冲持续时间仅25飞秒，功率超全球电网总输出百倍。该设施由美国国家科学基金会资助，将推动**医学、国家安全、材料科学**等领域研究。ZEUS采用多光束分束设计，支持国际团队合作实验，未来计划升级至3拍瓦，并探索**等离子体物理**和**粒子加速**等前沿应用。
-
----
-
 ## <a name="18"></a>18. 我开发了一款在线视频编辑器 
 <small>🔗 [clipjs.vercel.app](https://clipjs.vercel.app/): Show HN: I've built online video editor</small>
 
 
-| 🔥: 85 \| 💬: [37](https://news.ycombinator.com/item?id=44055542) \| 🗓️ 2025-05-21
+| 🔥: 89 \| 💬: [40](https://news.ycombinator.com/item?id=44055542) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -239,11 +239,23 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="19"></a>19. 利用嵌入向量的普适几何结构 
+## <a name="19"></a>19. 谷歌推出扩散模型Gemini Diffusion：速度提升5倍 
+<small>🔗 [simonwillison.net](https://simonwillison.net/2025/May/21/gemini-diffusion/): Gemini Diffusion</small>
+
+
+| 🔥: 89 \| 💬: [10](https://news.ycombinator.com/item?id=44057820) \| 🗓️ 2025-05-21
+
+
+<br />
+谷歌在I/O大会上发布了**Gemini Diffusion**，这是其首款采用**扩散模型**（类似Imagen和Stable Diffusion）而非传统Transformer架构的LLM。该模型通过逐步降噪生成文本，**速度极快**（实测达857词/秒），且支持实时纠错，擅长代码和数学编辑。谷歌宣称其性能媲美**Gemini 2.0 Flash-Lite**，但速度快5倍。目前尚未有独立基准测试，但实测生成网页应用仅需数秒。此前商用扩散模型仅有2025年2月的Inception Mercury。
+
+---
+
+## <a name="20"></a>20. 利用嵌入向量的普适几何结构 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2505.12540): Harnessing the Universal Geometry of Embeddings</small>
 
 
-| 🔥: 81 \| 💬: [33](https://news.ycombinator.com/item?id=44054425) \| 🗓️ 2025-05-21
+| 🔥: 84 \| 💬: [36](https://news.ycombinator.com/item?id=44054425) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -251,11 +263,11 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="20"></a>20. 不丹奇妙的可播放邮票传奇（2015年） 
+## <a name="21"></a>21. 不丹奇妙的可播放邮票传奇（2015年） 
 <small>🔗 [thevinylfactory.com](https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/): The curious tale of Bhutan's playable record postage stamps (2015)</small>
 
 
-| 🔥: 80 \| 💬: [5](https://news.ycombinator.com/item?id=44054775) \| 🗓️ 2025-05-21
+| 🔥: 83 \| 💬: [6](https://news.ycombinator.com/item?id=44054775) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -263,11 +275,11 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="21"></a>21. Lune：独立的Luau运行时环境 
+## <a name="22"></a>22. Lune：独立的Luau运行时环境 
 <small>🔗 [github.com](https://github.com/lune-org/lune): Lune: Standalone Luau Runtime</small>
 
 
-| 🔥: 66 \| 💬: [38](https://news.ycombinator.com/item?id=44052106) \| 🗓️ 2025-05-21
+| 🔥: 67 \| 💬: [38](https://news.ycombinator.com/item?id=44052106) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -275,7 +287,7 @@ Lune是一个**独立的Luau运行时**，类似Node.js或Deno，专为Luau语�
 
 ---
 
-## <a name="22"></a>22. 让抽签决定我们的政府？重温雅典民主的现代启示 
+## <a name="23"></a>23. 让抽签决定我们的政府？重温雅典民主的现代启示 
 <small>🔗 [thewalrus.ca](https://thewalrus.ca/why-we-should-let-a-lottery-decide-our-government/): We Should Let a Lottery Decide Our Government (2019)</small>
 
 
@@ -287,7 +299,7 @@ Lune是一个**独立的Luau运行时**，类似Node.js或Deno，专为Luau语�
 
 ---
 
-## <a name="23"></a>23. 为什么基于属性的测试能发现单元测试遗漏的缺陷（2021） 
+## <a name="24"></a>24. 为什么基于属性的测试能发现单元测试遗漏的缺陷（2021） 
 <small>🔗 [buttondown.com](https://buttondown.com/hillelwayne/archive/why-property-testing-finds-bugs-unit-testing-does/): Why Property Testing Finds Bugs Unit Testing Does Not (2021)</small>
 
 
