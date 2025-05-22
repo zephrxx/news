@@ -12,7 +12,7 @@ tags:
 1. Signal默认屏蔽微软Recall截图功能；
 1. Devstral：开源代码助手新标杆；
 1. 动画分解演示（2012）；
-1. 算法领域突破：少量内存可替代大量计算时间；
+1. 谷歌推出扩散模型Gemini Diffusion：速度提升5倍；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/): Watching AI drive Microsoft employees insane</small>
 
 
-| 🔥🔥: 922 \| 💬: [498](https://news.ycombinator.com/item?id=44050152) \| 🗓️ 2025-05-21
+| 🔥🔥: 927 \| 💬: [500](https://news.ycombinator.com/item?id=44050152) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -39,7 +39,7 @@ GitHub Copilot近期在.NET运行时仓库中自动提交了大量问题代码�
 <small>🔗 [signal.org](https://signal.org/blog/signal-doesnt-recall/): By default, Signal doesn't recall</small>
 
 
-| 🔥🔥: 444 \| 💬: [351](https://news.ycombinator.com/item?id=44053364) \| 🗓️ 2025-05-21
+| 🔥🔥: 446 \| 💬: [355](https://news.ycombinator.com/item?id=44053364) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -51,7 +51,7 @@ Signal桌面端新增**“屏幕安全”设置**，默认在Win11中启用，�
 <small>🔗 [mistral.ai](https://mistral.ai/news/devstral): Devstral</small>
 
 
-| 🔥🔥: 395 \| 💬: [82](https://news.ycombinator.com/item?id=44051733) \| 🗓️ 2025-05-21
+| 🔥🔥: 408 \| 💬: [87](https://news.ycombinator.com/item?id=44051733) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -63,7 +63,7 @@ Mistral AI与All Hands AI联合推出**Devstral**，这是目前**性能最强�
 <small>🔗 [datapointed.net](http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/): Animated Factorization (2012)</small>
 
 
-| 🔥🔥: 231 \| 💬: [53](https://news.ycombinator.com/item?id=44051958) \| 🗓️ 2025-05-21
+| 🔥🔥: 237 \| 💬: [53](https://news.ycombinator.com/item?id=44051958) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -71,35 +71,11 @@ Mistral AI与All Hands AI联合推出**Devstral**，这是目前**性能最强�
 
 ---
 
-## <a name="5"></a>5. 算法领域突破：少量内存可替代大量计算时间 
-<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/): For algorithms, a little memory outweighs a lot of time</small>
-
-
-| 🔥🔥: 202 \| 💬: [46](https://news.ycombinator.com/item?id=44055347) \| 🗓️ 2025-05-21
-
-
-<br />
-麻省理工学院理论计算机科学家Ryan Williams在2024年提出了一项**里程碑式证明**，首次在50年内改写了计算机科学中对**时间与内存关系**的认知。他的研究表明，**少量内存**的合理运用可以达到与大量计算时间相同的效果，这一发现颠覆了传统认为"内存需求与运行时间成正比"的假设。该证明不仅解决了长期悬而未决的PSPACE与P复杂度类别关系问题，还通过创新的**模拟转换方法**，为所有算法提供了通用内存优化方案。这项被同行誉为"惊人突破"的研究，可能为计算机科学最古老的开放性问题提供新的解决路径。
-
----
-
-## <a name="6"></a>6. 无需CRDT或OT的协同文本编辑新方案 
-<small>🔗 [mattweidner.com](https://mattweidner.com/2025/05/21/text-without-crdts.html): Collaborative Text Editing Without CRDTs or OT</small>
-
-
-| 🔥🔥: 198 \| 💬: [52](https://news.ycombinator.com/item?id=44053560) \| 🗓️ 2025-05-21
-
-
-<br />
-本文提出了一种**无需复杂算法**（如CRDT或OT）的协同文本编辑方法。核心思路是为每个字符分配**全局唯一ID**，客户端通过“在ID X后插入”指令与服务器同步，避免传统方案中索引冲突的问题。服务器保留已删除字符的ID（标记为`isDeleted`）以处理并发操作。该方法**简化了实现**，支持自定义功能（如分段权限控制），且兼容乐观本地更新。相比CRDT/OT的“黑箱”特性，这种方案更透明灵活，适合需要深度定制的协作应用。
-
----
-
-## <a name="7"></a>7. 谷歌推出扩散模型Gemini Diffusion：速度提升5倍 
+## <a name="5"></a>5. 谷歌推出扩散模型Gemini Diffusion：速度提升5倍 
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/May/21/gemini-diffusion/): Gemini Diffusion</small>
 
 
-| 🔥🔥: 186 \| 💬: [28](https://news.ycombinator.com/item?id=44057820) \| 🗓️ 2025-05-21
+| 🔥🔥: 237 \| 💬: [40](https://news.ycombinator.com/item?id=44057820) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -107,11 +83,35 @@ Mistral AI与All Hands AI联合推出**Devstral**，这是目前**性能最强�
 
 ---
 
+## <a name="6"></a>6. 算法领域突破：少量内存可替代大量计算时间 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/): For algorithms, a little memory outweighs a lot of time</small>
+
+
+| 🔥🔥: 217 \| 💬: [49](https://news.ycombinator.com/item?id=44055347) \| 🗓️ 2025-05-21
+
+
+<br />
+麻省理工学院理论计算机科学家Ryan Williams在2024年提出了一项**里程碑式证明**，首次在50年内改写了计算机科学中对**时间与内存关系**的认知。他的研究表明，**少量内存**的合理运用可以达到与大量计算时间相同的效果，这一发现颠覆了传统认为"内存需求与运行时间成正比"的假设。该证明不仅解决了长期悬而未决的PSPACE与P复杂度类别关系问题，还通过创新的**模拟转换方法**，为所有算法提供了通用内存优化方案。这项被同行誉为"惊人突破"的研究，可能为计算机科学最古老的开放性问题提供新的解决路径。
+
+---
+
+## <a name="7"></a>7. 无需CRDT或OT的协同文本编辑新方案 
+<small>🔗 [mattweidner.com](https://mattweidner.com/2025/05/21/text-without-crdts.html): Collaborative Text Editing Without CRDTs or OT</small>
+
+
+| 🔥🔥: 203 \| 💬: [56](https://news.ycombinator.com/item?id=44053560) \| 🗓️ 2025-05-21
+
+
+<br />
+本文提出了一种**无需复杂算法**（如CRDT或OT）的协同文本编辑方法。核心思路是为每个字符分配**全局唯一ID**，客户端通过“在ID X后插入”指令与服务器同步，避免传统方案中索引冲突的问题。服务器保留已删除字符的ID（标记为`isDeleted`）以处理并发操作。该方法**简化了实现**，支持自定义功能（如分段权限控制），且兼容乐观本地更新。相比CRDT/OT的“黑箱”特性，这种方案更透明灵活，适合需要深度定制的协作应用。
+
+---
+
 ## <a name="8"></a>8. 大模型函数调用难以扩展，代码编排更简单高效 
 <small>🔗 [jngiam.bearblog.dev](https://jngiam.bearblog.dev/mcp-large-data/): LLM function calls don't scale; code orchestration is simpler, more effective</small>
 
 
-| 🔥🔥: 177 \| 💬: [69](https://news.ycombinator.com/item?id=44053744) \| 🗓️ 2025-05-21
+| 🔥🔥: 183 \| 💬: [70](https://news.ycombinator.com/item?id=44053744) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -123,7 +123,7 @@ Mistral AI与All Hands AI联合推出**Devstral**，这是目前**性能最强�
 <small>🔗 [blog.nlnetlabs.nl](https://blog.nlnetlabs.nl/introducing-roto-a-compiled-scripting-language-for-rust/): Roto: A Compiled Scripting Language for Rust</small>
 
 
-| 🔥🔥: 144 \| 💬: [109](https://news.ycombinator.com/item?id=44050222) \| 🗓️ 2025-05-21
+| 🔥🔥: 145 \| 💬: [109](https://news.ycombinator.com/item?id=44050222) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -135,7 +135,7 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.00627): Discord Unveiled: A Comprehensive Dataset of Public Communication (2015-2024)</small>
 
 
-| 🔥🔥: 134 \| 💬: [151](https://news.ycombinator.com/item?id=44052041) \| 🗓️ 2025-05-21
+| 🔥🔥: 135 \| 💬: [153](https://news.ycombinator.com/item?id=44052041) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -143,23 +143,11 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="11"></a>11. 谷歌AI Studio推出全新开发者体验升级 
-<small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/google-ai-studio-native-code-generation-agentic-tools-upgrade/): An upgraded dev experience in Google AI Studio</small>
-
-
-| 🔥🔥: 113 \| 💬: [66](https://news.ycombinator.com/item?id=44054185) \| 🗓️ 2025-05-21
-
-
-<br />
-谷歌AI Studio现支持**Gemini 2.5 Pro代码生成**，开发者可通过文本、图像或视频提示快速构建AI应用，并一键部署至Cloud Run。新增**多模态生成**功能，整合Imagen、Veo等媒体模型，以及原生语音对话和文本转语音（TTS）预览。实验性工具**URL Context**支持链接内容检索，**MCP协议**实现更便捷的开源工具集成。这些更新使AI Studio成为探索谷歌最新模型的首选平台。
-
----
-
-## <a name="12"></a>12. 太阳系发现新矮行星 
+## <a name="11"></a>11. 太阳系发现新矮行星 
 <small>🔗 [minorplanetcenter.net](https://www.minorplanetcenter.net/mpec/K25/K25K47.html): Possible new dwarf planet found in our solar system</small>
 
 
-| 🔥🔥: 112 \| 💬: [72](https://news.ycombinator.com/item?id=44054620) \| 🗓️ 2025-05-21
+| 🔥🔥: 118 \| 💬: [75](https://news.ycombinator.com/item?id=44054620) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -167,11 +155,23 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
+## <a name="12"></a>12. 谷歌AI Studio推出全新开发者体验升级 
+<small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/google-ai-studio-native-code-generation-agentic-tools-upgrade/): An upgraded dev experience in Google AI Studio</small>
+
+
+| 🔥🔥: 117 \| 💬: [70](https://news.ycombinator.com/item?id=44054185) \| 🗓️ 2025-05-21
+
+
+<br />
+谷歌AI Studio现支持**Gemini 2.5 Pro代码生成**，开发者可通过文本、图像或视频提示快速构建AI应用，并一键部署至Cloud Run。新增**多模态生成**功能，整合Imagen、Veo等媒体模型，以及原生语音对话和文本转语音（TTS）预览。实验性工具**URL Context**支持链接内容检索，**MCP协议**实现更便捷的开源工具集成。这些更新使AI Studio成为探索谷歌最新模型的首选平台。
+
+---
+
 ## <a name="13"></a>13. 商业白痴时代 
 <small>🔗 [wheresyoured.at](https://www.wheresyoured.at/the-era-of-the-business-idiot/): The Era of the Business Idiot</small>
 
 
-| 🔥🔥: 102 \| 💬: [122](https://news.ycombinator.com/item?id=44053328) \| 🗓️ 2025-05-21
+| 🔥🔥: 102 \| 💬: [123](https://news.ycombinator.com/item?id=44053328) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -179,7 +179,19 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="14"></a>14. 比AI编程助手更重要的5个开发要素 
+## <a name="14"></a>14. Rocky Linux 10将正式支持RISC-V架构 
+<small>🔗 [rockylinux.org](https://rockylinux.org/news/rockylinux-support-for-riscv): Rocky Linux 10 Will Support RISC-V</small>
+
+
+| 🔥: 100 \| 💬: [33](https://news.ycombinator.com/item?id=44056104) \| 🗓️ 2025-05-21
+
+
+<br />
+Rocky Linux 10宣布将**官方支持RISC-V**架构，提供riscv64gc版本，兼容StarFive VisionFive 2、QEMU及SiFive HiFive Premier P550等平台。该版本基于**上游优先策略**，与Fedora社区紧密合作，推动RISC-V生态发展。虽然RISC-V被列为**替代架构**，但构建失败不会影响其他架构的发布。目前VisionFive 2和QEMU已获完整支持，P550则需依赖厂商内核。社区鼓励开发者参与，共同完善这一跨架构开源生态。
+
+---
+
+## <a name="15"></a>15. 比AI编程助手更重要的5个开发要素 
 <small>🔗 [codemanship.wordpress.com](https://codemanship.wordpress.com/2025/05/21/five-boring-things-that-have-a-bigger-impact-than-a-i-coding-assistants-on-dev-team-productivity/): Things that have a bigger impact than coding assistants</small>
 
 
@@ -191,23 +203,11 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="15"></a>15. 线粒体不仅是能量工厂，更是细胞的“主板” 
-<small>🔗 [scientificamerican.com](https://www.scientificamerican.com/article/why-mitochondria-are-more-like-a-motherboard-than-the-powerhouse-of-the-cell/): Mitochondria Are More Than Powerhouses–They're the Motherboard of the Cell</small>
-
-
-| 🔥: 95 \| 💬: [44](https://news.ycombinator.com/item?id=44052909) \| 🗓️ 2025-05-21
-
-
-<br />
-本文颠覆了传统认知，指出**线粒体**不仅是细胞的“能量工厂”，更是调控生命活动的核心“主板”。它们源自远古细菌共生，拥有独立DNA，并通过**动态社交行为**（如融合、纳米管连接和激素信号）协调细胞功能。线粒体功能异常与糖尿病、癌症、衰老等疾病密切相关，而健康线粒体间的协作（如嵴结构对齐）能提升能量效率。研究还发现，不同器官的线粒体具有**高度特异性**，甚至在大脑内也存在区域差异。这些发现为理解疾病和健康提供了新视角。
-
----
-
 ## <a name="16"></a>16. 美国建成全球最强激光器ZEUS，功率达2拍瓦 
 <small>🔗 [news.engin.umich.edu](https://news.engin.umich.edu/2025/05/the-us-has-a-new-most-powerful-laser/): ZEUS – A new two-petawatt laser facility at the University of Michigan</small>
 
 
-| 🔥: 94 \| 💬: [94](https://news.ycombinator.com/item?id=44052418) \| 🗓️ 2025-05-21
+| 🔥: 98 \| 💬: [96](https://news.ycombinator.com/item?id=44052418) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -219,7 +219,7 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 <small>🔗 [clipjs.vercel.app](https://clipjs.vercel.app/): Show HN: ClipJS – Edit your videos from a PC or phone</small>
 
 
-| 🔥: 93 \| 💬: [41](https://news.ycombinator.com/item?id=44055542) \| 🗓️ 2025-05-21
+| 🔥: 98 \| 💬: [41](https://news.ycombinator.com/item?id=44055542) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -227,11 +227,35 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="18"></a>18. “涡轮增压”线粒体驱动鸟类史诗级迁徙 
+## <a name="18"></a>18. 线粒体不仅是能量工厂，更是细胞的“主板” 
+<small>🔗 [scientificamerican.com](https://www.scientificamerican.com/article/why-mitochondria-are-more-like-a-motherboard-than-the-powerhouse-of-the-cell/): Mitochondria Are More Than Powerhouses–They're the Motherboard of the Cell</small>
+
+
+| 🔥: 95 \| 💬: [44](https://news.ycombinator.com/item?id=44052909) \| 🗓️ 2025-05-21
+
+
+<br />
+本文颠覆了传统认知，指出**线粒体**不仅是细胞的“能量工厂”，更是调控生命活动的核心“主板”。它们源自远古细菌共生，拥有独立DNA，并通过**动态社交行为**（如融合、纳米管连接和激素信号）协调细胞功能。线粒体功能异常与糖尿病、癌症、衰老等疾病密切相关，而健康线粒体间的协作（如嵴结构对齐）能提升能量效率。研究还发现，不同器官的线粒体具有**高度特异性**，甚至在大脑内也存在区域差异。这些发现为理解疾病和健康提供了新视角。
+
+---
+
+## <a name="19"></a>19. 不丹奇妙的可播放邮票传奇（2015年） 
+<small>🔗 [thevinylfactory.com](https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/): The curious tale of Bhutan's playable record postage stamps (2015)</small>
+
+
+| 🔥: 92 \| 💬: [6](https://news.ycombinator.com/item?id=44054775) \| 🗓️ 2025-05-21
+
+
+<br />
+1972年，不丹推出全球**首套可播放邮票**，由美国冒险家伯特·托德设计。这套7枚邮票采用微型黑胶材质，以33 1⁄3转速录制了不丹国歌、民间故事等，可用唱机播放。最初被集邮界视为廉价新奇品，但近年因**黑胶收藏家追捧**，价格飙升至300英镑以上。托德还设计了3D、丝绸等创新邮票，而**CD-ROM邮票**则由其女儿延续传奇。这套邮票现仍可在eBay偶遇，成为跨界收藏的珍品。
+
+---
+
+## <a name="20"></a>20. “涡轮增压”线粒体驱动鸟类史诗级迁徙 
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/turbocharged-mitochondria-power-birds-epic-migratory-journeys-20250519/): 'Turbocharged' Mitochondria Power Birds' Epic Migratory Journeys</small>
 
 
-| 🔥: 90 \| 💬: [69](https://news.ycombinator.com/item?id=44051652) \| 🗓️ 2025-05-21
+| 🔥: 90 \| 💬: [70](https://news.ycombinator.com/item?id=44051652) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -239,7 +263,7 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="19"></a>19. 欧盟初创企业失败源于媒体拒绝炒作 
+## <a name="21"></a>21. 欧盟初创企业失败源于媒体拒绝炒作 
 <small>🔗 [twitter.com](https://twitter.com/RnaudBertrand/status/1925029185052917791): EU startups fail because their press refuses to hype them up</small>
 
 
@@ -251,35 +275,11 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="20"></a>20. 不丹奇妙的可播放邮票传奇（2015年） 
-<small>🔗 [thevinylfactory.com](https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/): The curious tale of Bhutan's playable record postage stamps (2015)</small>
-
-
-| 🔥: 89 \| 💬: [6](https://news.ycombinator.com/item?id=44054775) \| 🗓️ 2025-05-21
-
-
-<br />
-1972年，不丹推出全球**首套可播放邮票**，由美国冒险家伯特·托德设计。这套7枚邮票采用微型黑胶材质，以33 1⁄3转速录制了不丹国歌、民间故事等，可用唱机播放。最初被集邮界视为廉价新奇品，但近年因**黑胶收藏家追捧**，价格飙升至300英镑以上。托德还设计了3D、丝绸等创新邮票，而**CD-ROM邮票**则由其女儿延续传奇。这套邮票现仍可在eBay偶遇，成为跨界收藏的珍品。
-
----
-
-## <a name="21"></a>21. Rocky Linux 10将正式支持RISC-V架构 
-<small>🔗 [rockylinux.org](https://rockylinux.org/news/rockylinux-support-for-riscv): Rocky Linux 10 Will Support RISC-V</small>
-
-
-| 🔥: 89 \| 💬: [28](https://news.ycombinator.com/item?id=44056104) \| 🗓️ 2025-05-21
-
-
-<br />
-Rocky Linux 10宣布将**官方支持RISC-V**架构，提供riscv64gc版本，兼容StarFive VisionFive 2、QEMU及SiFive HiFive Premier P550等平台。该版本基于**上游优先策略**，与Fedora社区紧密合作，推动RISC-V生态发展。虽然RISC-V被列为**替代架构**，但构建失败不会影响其他架构的发布。目前VisionFive 2和QEMU已获完整支持，P550则需依赖厂商内核。社区鼓励开发者参与，共同完善这一跨架构开源生态。
-
----
-
 ## <a name="22"></a>22. 利用嵌入向量的普适几何结构 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2505.12540): Harnessing the Universal Geometry of Embeddings</small>
 
 
-| 🔥: 86 \| 💬: [36](https://news.ycombinator.com/item?id=44054425) \| 🗓️ 2025-05-21
+| 🔥: 87 \| 💬: [36](https://news.ycombinator.com/item?id=44054425) \| 🗓️ 2025-05-21
 
 
 <br />
