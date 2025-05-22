@@ -27,7 +27,7 @@ tags:
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/): Watching AI drive Microsoft employees insane</small>
 
 
-| 🔥🔥: 931 \| 💬: [503](https://news.ycombinator.com/item?id=44050152) \| 🗓️ 2025-05-21
+| 🔥🔥: 937 \| 💬: [503](https://news.ycombinator.com/item?id=44050152) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -39,7 +39,7 @@ GitHub Copilot近期在.NET运行时仓库中自动提交了大量问题代码�
 <small>🔗 [signal.org](https://signal.org/blog/signal-doesnt-recall/): By default, Signal doesn't recall</small>
 
 
-| 🔥🔥: 451 \| 💬: [369](https://news.ycombinator.com/item?id=44053364) \| 🗓️ 2025-05-21
+| 🔥🔥: 460 \| 💬: [376](https://news.ycombinator.com/item?id=44053364) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -51,7 +51,7 @@ Signal桌面端新增**“屏幕安全”设置**，默认在Win11中启用，�
 <small>🔗 [mistral.ai](https://mistral.ai/news/devstral): Devstral</small>
 
 
-| 🔥🔥: 430 \| 💬: [94](https://news.ycombinator.com/item?id=44051733) \| 🗓️ 2025-05-21
+| 🔥🔥: 453 \| 💬: [100](https://news.ycombinator.com/item?id=44051733) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -63,7 +63,7 @@ Mistral AI与All Hands AI联合推出**Devstral**，这是目前**性能最强�
 <small>🔗 [simonwillison.net](https://simonwillison.net/2025/May/21/gemini-diffusion/): Gemini Diffusion</small>
 
 
-| 🔥🔥: 296 \| 💬: [55](https://news.ycombinator.com/item?id=44057820) \| 🗓️ 2025-05-21
+| 🔥🔥: 353 \| 💬: [65](https://news.ycombinator.com/item?id=44057820) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -75,7 +75,7 @@ Mistral AI与All Hands AI联合推出**Devstral**，这是目前**性能最强�
 <small>🔗 [datapointed.net](http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/): Animated Factorization (2012)</small>
 
 
-| 🔥🔥: 240 \| 💬: [53](https://news.ycombinator.com/item?id=44051958) \| 🗓️ 2025-05-21
+| 🔥🔥: 242 \| 💬: [54](https://news.ycombinator.com/item?id=44051958) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -87,7 +87,7 @@ Mistral AI与All Hands AI联合推出**Devstral**，这是目前**性能最强�
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/): For algorithms, a little memory outweighs a lot of time</small>
 
 
-| 🔥🔥: 228 \| 💬: [51](https://news.ycombinator.com/item?id=44055347) \| 🗓️ 2025-05-21
+| 🔥🔥: 235 \| 💬: [57](https://news.ycombinator.com/item?id=44055347) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -99,7 +99,7 @@ Mistral AI与All Hands AI联合推出**Devstral**，这是目前**性能最强�
 <small>🔗 [mattweidner.com](https://mattweidner.com/2025/05/21/text-without-crdts.html): Collaborative Text Editing Without CRDTs or OT</small>
 
 
-| 🔥🔥: 209 \| 💬: [56](https://news.ycombinator.com/item?id=44053560) \| 🗓️ 2025-05-21
+| 🔥🔥: 215 \| 💬: [57](https://news.ycombinator.com/item?id=44053560) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -111,7 +111,7 @@ Mistral AI与All Hands AI联合推出**Devstral**，这是目前**性能最强�
 <small>🔗 [jngiam.bearblog.dev](https://jngiam.bearblog.dev/mcp-large-data/): LLM function calls don't scale; code orchestration is simpler, more effective</small>
 
 
-| 🔥🔥: 199 \| 💬: [71](https://news.ycombinator.com/item?id=44053744) \| 🗓️ 2025-05-21
+| 🔥🔥: 208 \| 💬: [75](https://news.ycombinator.com/item?id=44053744) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -123,7 +123,7 @@ Mistral AI与All Hands AI联合推出**Devstral**，这是目前**性能最强�
 <small>🔗 [blog.nlnetlabs.nl](https://blog.nlnetlabs.nl/introducing-roto-a-compiled-scripting-language-for-rust/): Roto: A Compiled Scripting Language for Rust</small>
 
 
-| 🔥🔥: 145 \| 💬: [109](https://news.ycombinator.com/item?id=44050222) \| 🗓️ 2025-05-21
+| 🔥🔥: 146 \| 💬: [110](https://news.ycombinator.com/item?id=44050222) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -147,7 +147,7 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/google-ai-studio-native-code-generation-agentic-tools-upgrade/): An upgraded dev experience in Google AI Studio</small>
 
 
-| 🔥🔥: 123 \| 💬: [77](https://news.ycombinator.com/item?id=44054185) \| 🗓️ 2025-05-21
+| 🔥🔥: 132 \| 💬: [82](https://news.ycombinator.com/item?id=44054185) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -159,7 +159,7 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 <small>🔗 [minorplanetcenter.net](https://www.minorplanetcenter.net/mpec/K25/K25K47.html): Possible new dwarf planet found in our solar system</small>
 
 
-| 🔥🔥: 122 \| 💬: [80](https://news.ycombinator.com/item?id=44054620) \| 🗓️ 2025-05-21
+| 🔥🔥: 126 \| 💬: [82](https://news.ycombinator.com/item?id=44054620) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -171,7 +171,7 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 <small>🔗 [rockylinux.org](https://rockylinux.org/news/rockylinux-support-for-riscv): Rocky Linux 10 Will Support RISC-V</small>
 
 
-| 🔥🔥: 112 \| 💬: [38](https://news.ycombinator.com/item?id=44056104) \| 🗓️ 2025-05-21
+| 🔥🔥: 121 \| 💬: [49](https://news.ycombinator.com/item?id=44056104) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -179,7 +179,43 @@ Rocky Linux 10宣布将**官方支持RISC-V**架构，提供riscv64gc版本，�
 
 ---
 
-## <a name="14"></a>14. 商业白痴时代 
+## <a name="14"></a>14. 将CSV文件转换为可搜索、可筛选的HTML表格 
+<small>🔗 [github.com](https://github.com/derekeder/csv-to-html-table): Show HN: Display any CSV file as a searchable, filterable, pretty HTML table</small>
+
+
+| 🔥🔥: 117 \| 💬: [21](https://news.ycombinator.com/item?id=44057612) \| 🗓️ 2025-05-21
+
+
+<br />
+这是一个基于JavaScript的工具，可将**CSV文件**快速转换为美观的HTML表格，支持**搜索**、**筛选**和自定义格式化。用户只需将CSV文件放入指定文件夹，通过简单配置即可生成交互式表格，并支持本地运行或免费部署到GitHub Pages。工具依赖Bootstrap、jQuery和DataTables等库，提供灵活选项（如自定义分隔符、列格式化等），适合需要快速展示结构化数据的场景。遇到问题可通过开发者控制台调试，项目开源且遵循MIT协议。
+
+---
+
+## <a name="15"></a>15. 我开发了一款在线视频编辑器 
+<small>🔗 [clipjs.vercel.app](https://clipjs.vercel.app/): Show HN: ClipJS – Edit your videos from a PC or phone</small>
+
+
+| 🔥🔥: 107 \| 💬: [43](https://news.ycombinator.com/item?id=44055542) \| 🗓️ 2025-05-21
+
+
+<br />
+这款工具主打**无水印编辑**，用户可以直接在网页上剪辑视频，无需担心成品被添加任何水印。操作简单，适合快速处理视频需求，**无需下载软件**，打开浏览器即可使用。核心亮点是**完全免费**且不限制导出视频的清晰度。
+
+---
+
+## <a name="16"></a>16. 我有耳鸣，这滋味可不好受 
+<small>🔗 [blog.greg.technology](https://blog.greg.technology/2025/05/20/tinnitus.html): I have tinnitus. I don't recommend it</small>
+
+
+| 🔥🔥: 106 \| 💬: [108](https://news.ycombinator.com/item?id=44057044) \| 🗓️ 2025-05-21
+
+
+<br />
+去年11月的一场演出后，作者患上了**永久性耳鸣**。此前他长期忽视听力保护，以为短暂的耳鸣会自然消失，但这次却成了终身困扰。他对比了因激光致盲和噪音致聋的不同后果，指出社会对后者缺乏重视。如今，** loud sounds** 甚至让他感到疼痛，迫使他养成护耳习惯。他以“安全老爹”自嘲，提醒大家：**戴耳塞看演出、骑车戴头盔**，别等伤残后才后悔。意外致残往往伴随无尽懊悔，防护远比补救简单。
+
+---
+
+## <a name="17"></a>17. 商业白痴时代 
 <small>🔗 [wheresyoured.at](https://www.wheresyoured.at/the-era-of-the-business-idiot/): The Era of the Business Idiot</small>
 
 
@@ -191,19 +227,19 @@ Rocky Linux 10宣布将**官方支持RISC-V**架构，提供riscv64gc版本，�
 
 ---
 
-## <a name="15"></a>15. 我开发了一款在线视频编辑器 
-<small>🔗 [clipjs.vercel.app](https://clipjs.vercel.app/): Show HN: ClipJS – Edit your videos from a PC or phone</small>
+## <a name="18"></a>18. 不丹奇妙的可播放邮票传奇（2015年） 
+<small>🔗 [thevinylfactory.com](https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/): The curious tale of Bhutan's playable record postage stamps (2015)</small>
 
 
-| 🔥🔥: 102 \| 💬: [41](https://news.ycombinator.com/item?id=44055542) \| 🗓️ 2025-05-21
+| 🔥🔥: 101 \| 💬: [10](https://news.ycombinator.com/item?id=44054775) \| 🗓️ 2025-05-21
 
 
 <br />
-这款工具主打**无水印编辑**，用户可以直接在网页上剪辑视频，无需担心成品被添加任何水印。操作简单，适合快速处理视频需求，**无需下载软件**，打开浏览器即可使用。核心亮点是**完全免费**且不限制导出视频的清晰度。
+1972年，不丹推出全球**首套可播放邮票**，由美国冒险家伯特·托德设计。这套7枚邮票采用微型黑胶材质，以33 1⁄3转速录制了不丹国歌、民间故事等，可用唱机播放。最初被集邮界视为廉价新奇品，但近年因**黑胶收藏家追捧**，价格飙升至300英镑以上。托德还设计了3D、丝绸等创新邮票，而**CD-ROM邮票**则由其女儿延续传奇。这套邮票现仍可在eBay偶遇，成为跨界收藏的珍品。
 
 ---
 
-## <a name="16"></a>16. 美国建成全球最强激光器ZEUS，功率达2拍瓦 
+## <a name="19"></a>19. 美国建成全球最强激光器ZEUS，功率达2拍瓦 
 <small>🔗 [news.engin.umich.edu](https://news.engin.umich.edu/2025/05/the-us-has-a-new-most-powerful-laser/): ZEUS – A new two-petawatt laser facility at the University of Michigan</small>
 
 
@@ -215,19 +251,7 @@ Rocky Linux 10宣布将**官方支持RISC-V**架构，提供riscv64gc版本，�
 
 ---
 
-## <a name="17"></a>17. 将CSV文件转换为可搜索、可筛选的HTML表格 
-<small>🔗 [github.com](https://github.com/derekeder/csv-to-html-table): Show HN: Display any CSV file as a searchable, filterable, pretty HTML table</small>
-
-
-| 🔥: 100 \| 💬: [18](https://news.ycombinator.com/item?id=44057612) \| 🗓️ 2025-05-21
-
-
-<br />
-这是一个基于JavaScript的工具，可将**CSV文件**快速转换为美观的HTML表格，支持**搜索**、**筛选**和自定义格式化。用户只需将CSV文件放入指定文件夹，通过简单配置即可生成交互式表格，并支持本地运行或免费部署到GitHub Pages。工具依赖Bootstrap、jQuery和DataTables等库，提供灵活选项（如自定义分隔符、列格式化等），适合需要快速展示结构化数据的场景。遇到问题可通过开发者控制台调试，项目开源且遵循MIT协议。
-
----
-
-## <a name="18"></a>18. 比AI编程助手更重要的5个开发要素 
+## <a name="20"></a>20. 比AI编程助手更重要的5个开发要素 
 <small>🔗 [codemanship.wordpress.com](https://codemanship.wordpress.com/2025/05/21/five-boring-things-that-have-a-bigger-impact-than-a-i-coding-assistants-on-dev-team-productivity/): Things that have a bigger impact than coding assistants</small>
 
 
@@ -239,35 +263,11 @@ Rocky Linux 10宣布将**官方支持RISC-V**架构，提供riscv64gc版本，�
 
 ---
 
-## <a name="19"></a>19. 不丹奇妙的可播放邮票传奇（2015年） 
-<small>🔗 [thevinylfactory.com](https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/): The curious tale of Bhutan's playable record postage stamps (2015)</small>
-
-
-| 🔥: 98 \| 💬: [8](https://news.ycombinator.com/item?id=44054775) \| 🗓️ 2025-05-21
-
-
-<br />
-1972年，不丹推出全球**首套可播放邮票**，由美国冒险家伯特·托德设计。这套7枚邮票采用微型黑胶材质，以33 1⁄3转速录制了不丹国歌、民间故事等，可用唱机播放。最初被集邮界视为廉价新奇品，但近年因**黑胶收藏家追捧**，价格飙升至300英镑以上。托德还设计了3D、丝绸等创新邮票，而**CD-ROM邮票**则由其女儿延续传奇。这套邮票现仍可在eBay偶遇，成为跨界收藏的珍品。
-
----
-
-## <a name="20"></a>20. 我有耳鸣，这滋味可不好受 
-<small>🔗 [blog.greg.technology](https://blog.greg.technology/2025/05/20/tinnitus.html): I have tinnitus. I don't recommend it</small>
-
-
-| 🔥: 96 \| 💬: [100](https://news.ycombinator.com/item?id=44057044) \| 🗓️ 2025-05-21
-
-
-<br />
-去年11月的一场演出后，作者患上了**永久性耳鸣**。此前他长期忽视听力保护，以为短暂的耳鸣会自然消失，但这次却成了终身困扰。他对比了因激光致盲和噪音致聋的不同后果，指出社会对后者缺乏重视。如今，** loud sounds** 甚至让他感到疼痛，迫使他养成护耳习惯。他以“安全老爹”自嘲，提醒大家：**戴耳塞看演出、骑车戴头盔**，别等伤残后才后悔。意外致残往往伴随无尽懊悔，防护远比补救简单。
-
----
-
 ## <a name="21"></a>21. 线粒体不仅是能量工厂，更是细胞的“主板” 
 <small>🔗 [scientificamerican.com](https://www.scientificamerican.com/article/why-mitochondria-are-more-like-a-motherboard-than-the-powerhouse-of-the-cell/): Mitochondria Are More Than Powerhouses–They're the Motherboard of the Cell</small>
 
 
-| 🔥: 95 \| 💬: [44](https://news.ycombinator.com/item?id=44052909) \| 🗓️ 2025-05-21
+| 🔥: 96 \| 💬: [44](https://news.ycombinator.com/item?id=44052909) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -279,7 +279,7 @@ Rocky Linux 10宣布将**官方支持RISC-V**架构，提供riscv64gc版本，�
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/turbocharged-mitochondria-power-birds-epic-migratory-journeys-20250519/): 'Turbocharged' Mitochondria Power Birds' Epic Migratory Journeys</small>
 
 
-| 🔥: 90 \| 💬: [71](https://news.ycombinator.com/item?id=44051652) \| 🗓️ 2025-05-21
+| 🔥: 92 \| 💬: [72](https://news.ycombinator.com/item?id=44051652) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -287,7 +287,19 @@ Rocky Linux 10宣布将**官方支持RISC-V**架构，提供riscv64gc版本，�
 
 ---
 
-## <a name="23"></a>23. 欧盟初创企业失败源于媒体拒绝炒作 
+## <a name="23"></a>23. 利用嵌入向量的普适几何结构 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2505.12540): Harnessing the Universal Geometry of Embeddings</small>
+
+
+| 🔥: 91 \| 💬: [36](https://news.ycombinator.com/item?id=44054425) \| 🗓️ 2025-05-21
+
+
+<br />
+该研究提出了一种**无需配对数据**的文本嵌入向量跨空间转换方法，首次实现了不同架构、参数量及训练数据的模型间嵌入向量的无监督翻译。通过将任意嵌入映射到**通用潜在表示空间**（基于柏拉图表示假说），该方法能保持几何结构的高余弦相似度。研究同时警示，这种能力可能威胁向量数据库安全——攻击者仅通过嵌入向量即可推断原始文档的敏感信息，如分类与属性特征。
+
+---
+
+## <a name="24"></a>24. 欧盟初创企业失败源于媒体拒绝炒作 
 <small>🔗 [twitter.com](https://twitter.com/RnaudBertrand/status/1925029185052917791): EU startups fail because their press refuses to hype them up</small>
 
 
@@ -296,18 +308,6 @@ Rocky Linux 10宣布将**官方支持RISC-V**架构，提供riscv64gc版本，�
 
 <br />
 原文内容因技术问题无法显示（JavaScript未启用），但标题指出**欧盟初创企业**面临困境的核心原因：当地**媒体缺乏宣传造势**，导致它们难以获得关注。相比之下，美国初创企业常借助媒体炒作快速成长。这一现象揭示了**市场环境差异**对初创企业成功的关键影响。
-
----
-
-## <a name="24"></a>24. 利用嵌入向量的普适几何结构 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2505.12540): Harnessing the Universal Geometry of Embeddings</small>
-
-
-| 🔥: 89 \| 💬: [36](https://news.ycombinator.com/item?id=44054425) \| 🗓️ 2025-05-21
-
-
-<br />
-该研究提出了一种**无需配对数据**的文本嵌入向量跨空间转换方法，首次实现了不同架构、参数量及训练数据的模型间嵌入向量的无监督翻译。通过将任意嵌入映射到**通用潜在表示空间**（基于柏拉图表示假说），该方法能保持几何结构的高余弦相似度。研究同时警示，这种能力可能威胁向量数据库安全——攻击者仅通过嵌入向量即可推断原始文档的敏感信息，如分类与属性特征。
 
 ---
 
