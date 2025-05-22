@@ -27,7 +27,7 @@ tags:
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/): Watching AI drive Microsoft employees insane</small>
 
 
-| 🔥🔥: 908 \| 💬: [482](https://news.ycombinator.com/item?id=44050152) \| 🗓️ 2025-05-21
+| 🔥🔥: 915 \| 💬: [487](https://news.ycombinator.com/item?id=44050152) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -39,7 +39,7 @@ GitHub Copilot近期在.NET运行时仓库中自动提交了大量问题代码�
 <small>🔗 [signal.org](https://signal.org/blog/signal-doesnt-recall/): By default, Signal doesn't recall</small>
 
 
-| 🔥🔥: 396 \| 💬: [292](https://news.ycombinator.com/item?id=44053364) \| 🗓️ 2025-05-21
+| 🔥🔥: 418 \| 💬: [317](https://news.ycombinator.com/item?id=44053364) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -51,7 +51,7 @@ Signal桌面端新增**“屏幕安全”设置**，默认在Win11中启用，�
 <small>🔗 [mistral.ai](https://mistral.ai/news/devstral): Devstral</small>
 
 
-| 🔥🔥: 337 \| 💬: [71](https://news.ycombinator.com/item?id=44051733) \| 🗓️ 2025-05-21
+| 🔥🔥: 355 \| 💬: [74](https://news.ycombinator.com/item?id=44051733) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -63,7 +63,7 @@ Mistral AI与All Hands AI联合推出**Devstral**，这是目前**性能最强�
 <small>🔗 [datapointed.net](http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/): Animated Factorization (2012)</small>
 
 
-| 🔥🔥: 218 \| 💬: [50](https://news.ycombinator.com/item?id=44051958) \| 🗓️ 2025-05-21
+| 🔥🔥: 223 \| 💬: [53](https://news.ycombinator.com/item?id=44051958) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -75,7 +75,7 @@ Mistral AI与All Hands AI联合推出**Devstral**，这是目前**性能最强�
 <small>🔗 [mattweidner.com](https://mattweidner.com/2025/05/21/text-without-crdts.html): Collaborative Text Editing Without CRDTs or OT</small>
 
 
-| 🔥🔥: 167 \| 💬: [41](https://news.ycombinator.com/item?id=44053560) \| 🗓️ 2025-05-21
+| 🔥🔥: 178 \| 💬: [49](https://news.ycombinator.com/item?id=44053560) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -87,7 +87,7 @@ Mistral AI与All Hands AI联合推出**Devstral**，这是目前**性能最强�
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/): For algorithms, a little memory outweighs a lot of time</small>
 
 
-| 🔥🔥: 148 \| 💬: [27](https://news.ycombinator.com/item?id=44055347) \| 🗓️ 2025-05-21
+| 🔥🔥: 175 \| 💬: [32](https://news.ycombinator.com/item?id=44055347) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -95,7 +95,19 @@ Mistral AI与All Hands AI联合推出**Devstral**，这是目前**性能最强�
 
 ---
 
-## <a name="7"></a>7. Roto：为Rust设计的编译型脚本语言 
+## <a name="7"></a>7. 大模型函数调用难以扩展，代码编排更简单高效 
+<small>🔗 [jngiam.bearblog.dev](https://jngiam.bearblog.dev/mcp-large-data/): LLM function calls don't scale; code orchestration is simpler, more effective</small>
+
+
+| 🔥🔥: 148 \| 💬: [65](https://news.ycombinator.com/item?id=44053744) \| 🗓️ 2025-05-21
+
+
+<br />
+当前常见做法是将工具调用的完整输出返回给大模型（LLM）处理，但面对真实场景的**大规模数据**（如Linear返回的70k字符JSON）时，这种方法成本高、速度慢且易出错。核心问题在于混淆了**数据编排**与**数据处理**。解决方案是通过**输出模式（output schemas）**直接解析结构化数据，用生成代码替代LLM重复处理。代码编排支持变量存储、工具链式调用及并行处理，并能利用类型系统避免幻觉。未来需设计安全的**AI运行时环境**以支持持久化执行。
+
+---
+
+## <a name="8"></a>8. Roto：为Rust设计的编译型脚本语言 
 <small>🔗 [blog.nlnetlabs.nl](https://blog.nlnetlabs.nl/introducing-roto-a-compiled-scripting-language-for-rust/): Roto: A Compiled Scripting Language for Rust</small>
 
 
@@ -107,23 +119,11 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="8"></a>8. 大模型函数调用难以扩展，代码编排更简单高效 
-<small>🔗 [jngiam.bearblog.dev](https://jngiam.bearblog.dev/mcp-large-data/): LLM function calls don't scale; code orchestration is simpler, more effective</small>
-
-
-| 🔥🔥: 141 \| 💬: [58](https://news.ycombinator.com/item?id=44053744) \| 🗓️ 2025-05-21
-
-
-<br />
-当前常见做法是将工具调用的完整输出返回给大模型（LLM）处理，但面对真实场景的**大规模数据**（如Linear返回的70k字符JSON）时，这种方法成本高、速度慢且易出错。核心问题在于混淆了**数据编排**与**数据处理**。解决方案是通过**输出模式（output schemas）**直接解析结构化数据，用生成代码替代LLM重复处理。代码编排支持变量存储、工具链式调用及并行处理，并能利用类型系统避免幻觉。未来需设计安全的**AI运行时环境**以支持持久化执行。
-
----
-
 ## <a name="9"></a>9. 《揭秘Discord：2015-2024年公开通信全数据集》 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.00627): Discord Unveiled: A Comprehensive Dataset of Public Communication (2015-2024)</small>
 
 
-| 🔥🔥: 129 \| 💬: [145](https://news.ycombinator.com/item?id=44052041) \| 🗓️ 2025-05-21
+| 🔥🔥: 132 \| 💬: [146](https://news.ycombinator.com/item?id=44052041) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -147,7 +147,7 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 <small>🔗 [wheresyoured.at](https://www.wheresyoured.at/the-era-of-the-business-idiot/): The Era of the Business Idiot</small>
 
 
-| 🔥: 98 \| 💬: [119](https://news.ycombinator.com/item?id=44053328) \| 🗓️ 2025-05-21
+| 🔥: 99 \| 💬: [120](https://news.ycombinator.com/item?id=44053328) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -159,7 +159,7 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 <small>🔗 [minorplanetcenter.net](https://www.minorplanetcenter.net/mpec/K25/K25K47.html): Possible new dwarf planet found in our solar system</small>
 
 
-| 🔥: 94 \| 💬: [58](https://news.ycombinator.com/item?id=44054620) \| 🗓️ 2025-05-21
+| 🔥: 98 \| 💬: [68](https://news.ycombinator.com/item?id=44054620) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -171,7 +171,7 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 <small>🔗 [scientificamerican.com](https://www.scientificamerican.com/article/why-mitochondria-are-more-like-a-motherboard-than-the-powerhouse-of-the-cell/): Mitochondria Are More Than Powerhouses–They're the Motherboard of the Cell</small>
 
 
-| 🔥: 93 \| 💬: [44](https://news.ycombinator.com/item?id=44052909) \| 🗓️ 2025-05-21
+| 🔥: 94 \| 💬: [44](https://news.ycombinator.com/item?id=44052909) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -179,7 +179,19 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="14"></a>14. 欧盟初创企业失败源于媒体拒绝炒作 
+## <a name="14"></a>14. 谷歌AI Studio推出全新开发者体验升级 
+<small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/google-ai-studio-native-code-generation-agentic-tools-upgrade/): An upgraded dev experience in Google AI Studio</small>
+
+
+| 🔥: 93 \| 💬: [51](https://news.ycombinator.com/item?id=44054185) \| 🗓️ 2025-05-21
+
+
+<br />
+谷歌AI Studio现支持**Gemini 2.5 Pro代码生成**，开发者可通过文本、图像或视频提示快速构建AI应用，并一键部署至Cloud Run。新增**多模态生成**功能，整合Imagen、Veo等媒体模型，以及原生语音对话和文本转语音（TTS）预览。实验性工具**URL Context**支持链接内容检索，**MCP协议**实现更便捷的开源工具集成。这些更新使AI Studio成为探索谷歌最新模型的首选平台。
+
+---
+
+## <a name="15"></a>15. 欧盟初创企业失败源于媒体拒绝炒作 
 <small>🔗 [twitter.com](https://twitter.com/RnaudBertrand/status/1925029185052917791): EU startups fail because their press refuses to hype them up</small>
 
 
@@ -191,11 +203,11 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="15"></a>15. “涡轮增压”线粒体驱动鸟类史诗级迁徙 
+## <a name="16"></a>16. “涡轮增压”线粒体驱动鸟类史诗级迁徙 
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/turbocharged-mitochondria-power-birds-epic-migratory-journeys-20250519/): 'Turbocharged' Mitochondria Power Birds' Epic Migratory Journeys</small>
 
 
-| 🔥: 86 \| 💬: [64](https://news.ycombinator.com/item?id=44051652) \| 🗓️ 2025-05-21
+| 🔥: 88 \| 💬: [67](https://news.ycombinator.com/item?id=44051652) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -203,11 +215,11 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="16"></a>16. 美国建成全球最强激光器ZEUS，功率达2拍瓦 
+## <a name="17"></a>17. 美国建成全球最强激光器ZEUS，功率达2拍瓦 
 <small>🔗 [news.engin.umich.edu](https://news.engin.umich.edu/2025/05/the-us-has-a-new-most-powerful-laser/): The US has a new most powerful laser hitting 2 petawatts</small>
 
 
-| 🔥: 83 \| 💬: [89](https://news.ycombinator.com/item?id=44052418) \| 🗓️ 2025-05-21
+| 🔥: 87 \| 💬: [94](https://news.ycombinator.com/item?id=44052418) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -215,23 +227,11 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="17"></a>17. 谷歌AI Studio推出全新开发者体验升级 
-<small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/google-ai-studio-native-code-generation-agentic-tools-upgrade/): An upgraded dev experience in Google AI Studio</small>
-
-
-| 🔥: 81 \| 💬: [41](https://news.ycombinator.com/item?id=44054185) \| 🗓️ 2025-05-21
-
-
-<br />
-谷歌AI Studio现支持**Gemini 2.5 Pro代码生成**，开发者可通过文本、图像或视频提示快速构建AI应用，并一键部署至Cloud Run。新增**多模态生成**功能，整合Imagen、Veo等媒体模型，以及原生语音对话和文本转语音（TTS）预览。实验性工具**URL Context**支持链接内容检索，**MCP协议**实现更便捷的开源工具集成。这些更新使AI Studio成为探索谷歌最新模型的首选平台。
-
----
-
 ## <a name="18"></a>18. 我开发了一款在线视频编辑器 
 <small>🔗 [clipjs.vercel.app](https://clipjs.vercel.app/): Show HN: I've built online video editor</small>
 
 
-| 🔥: 79 \| 💬: [37](https://news.ycombinator.com/item?id=44055542) \| 🗓️ 2025-05-21
+| 🔥: 85 \| 💬: [37](https://news.ycombinator.com/item?id=44055542) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -243,7 +243,7 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2505.12540): Harnessing the Universal Geometry of Embeddings</small>
 
 
-| 🔥: 76 \| 💬: [31](https://news.ycombinator.com/item?id=44054425) \| 🗓️ 2025-05-21
+| 🔥: 81 \| 💬: [33](https://news.ycombinator.com/item?id=44054425) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -255,7 +255,7 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 <small>🔗 [thevinylfactory.com](https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/): The curious tale of Bhutan's playable record postage stamps (2015)</small>
 
 
-| 🔥: 73 \| 💬: [3](https://news.ycombinator.com/item?id=44054775) \| 🗓️ 2025-05-21
+| 🔥: 80 \| 💬: [5](https://news.ycombinator.com/item?id=44054775) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -267,7 +267,7 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 <small>🔗 [github.com](https://github.com/lune-org/lune): Lune: Standalone Luau Runtime</small>
 
 
-| 🔥: 65 \| 💬: [38](https://news.ycombinator.com/item?id=44052106) \| 🗓️ 2025-05-21
+| 🔥: 66 \| 💬: [38](https://news.ycombinator.com/item?id=44052106) \| 🗓️ 2025-05-21
 
 
 <br />
