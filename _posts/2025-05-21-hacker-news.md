@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/ExperiencedDevs/comments/1krttqo/my_new_hobby_watching_ai_slowly_drive_microsoft/): Watching AI drive Microsoft employees insane</small>
 
 
-| 🔥🔥: 920 \| 💬: [492](https://news.ycombinator.com/item?id=44050152) \| 🗓️ 2025-05-21
+| 🔥🔥: 922 \| 💬: [498](https://news.ycombinator.com/item?id=44050152) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -39,7 +39,7 @@ GitHub Copilot近期在.NET运行时仓库中自动提交了大量问题代码�
 <small>🔗 [signal.org](https://signal.org/blog/signal-doesnt-recall/): By default, Signal doesn't recall</small>
 
 
-| 🔥🔥: 435 \| 💬: [341](https://news.ycombinator.com/item?id=44053364) \| 🗓️ 2025-05-21
+| 🔥🔥: 444 \| 💬: [351](https://news.ycombinator.com/item?id=44053364) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -51,7 +51,7 @@ Signal桌面端新增**“屏幕安全”设置**，默认在Win11中启用，�
 <small>🔗 [mistral.ai](https://mistral.ai/news/devstral): Devstral</small>
 
 
-| 🔥🔥: 377 \| 💬: [75](https://news.ycombinator.com/item?id=44051733) \| 🗓️ 2025-05-21
+| 🔥🔥: 395 \| 💬: [82](https://news.ycombinator.com/item?id=44051733) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -63,7 +63,7 @@ Mistral AI与All Hands AI联合推出**Devstral**，这是目前**性能最强�
 <small>🔗 [datapointed.net](http://www.datapointed.net/visualizations/math/factorization/animated-diagrams/): Animated Factorization (2012)</small>
 
 
-| 🔥🔥: 225 \| 💬: [53](https://news.ycombinator.com/item?id=44051958) \| 🗓️ 2025-05-21
+| 🔥🔥: 231 \| 💬: [53](https://news.ycombinator.com/item?id=44051958) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -75,7 +75,7 @@ Mistral AI与All Hands AI联合推出**Devstral**，这是目前**性能最强�
 <small>🔗 [quantamagazine.org](https://www.quantamagazine.org/for-algorithms-a-little-memory-outweighs-a-lot-of-time-20250521/): For algorithms, a little memory outweighs a lot of time</small>
 
 
-| 🔥🔥: 187 \| 💬: [40](https://news.ycombinator.com/item?id=44055347) \| 🗓️ 2025-05-21
+| 🔥🔥: 202 \| 💬: [46](https://news.ycombinator.com/item?id=44055347) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -87,7 +87,7 @@ Mistral AI与All Hands AI联合推出**Devstral**，这是目前**性能最强�
 <small>🔗 [mattweidner.com](https://mattweidner.com/2025/05/21/text-without-crdts.html): Collaborative Text Editing Without CRDTs or OT</small>
 
 
-| 🔥🔥: 185 \| 💬: [51](https://news.ycombinator.com/item?id=44053560) \| 🗓️ 2025-05-21
+| 🔥🔥: 198 \| 💬: [52](https://news.ycombinator.com/item?id=44053560) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -95,11 +95,23 @@ Mistral AI与All Hands AI联合推出**Devstral**，这是目前**性能最强�
 
 ---
 
-## <a name="7"></a>7. 大模型函数调用难以扩展，代码编排更简单高效 
+## <a name="7"></a>7. 谷歌推出扩散模型Gemini Diffusion：速度提升5倍 
+<small>🔗 [simonwillison.net](https://simonwillison.net/2025/May/21/gemini-diffusion/): Gemini Diffusion</small>
+
+
+| 🔥🔥: 186 \| 💬: [28](https://news.ycombinator.com/item?id=44057820) \| 🗓️ 2025-05-21
+
+
+<br />
+谷歌在I/O大会上发布了**Gemini Diffusion**，这是其首款采用**扩散模型**（类似Imagen和Stable Diffusion）而非传统Transformer架构的LLM。该模型通过逐步降噪生成文本，**速度极快**（实测达857词/秒），且支持实时纠错，擅长代码和数学编辑。谷歌宣称其性能媲美**Gemini 2.0 Flash-Lite**，但速度快5倍。目前尚未有独立基准测试，但实测生成网页应用仅需数秒。此前商用扩散模型仅有2025年2月的Inception Mercury。
+
+---
+
+## <a name="8"></a>8. 大模型函数调用难以扩展，代码编排更简单高效 
 <small>🔗 [jngiam.bearblog.dev](https://jngiam.bearblog.dev/mcp-large-data/): LLM function calls don't scale; code orchestration is simpler, more effective</small>
 
 
-| 🔥🔥: 163 \| 💬: [69](https://news.ycombinator.com/item?id=44053744) \| 🗓️ 2025-05-21
+| 🔥🔥: 177 \| 💬: [69](https://news.ycombinator.com/item?id=44053744) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -107,11 +119,11 @@ Mistral AI与All Hands AI联合推出**Devstral**，这是目前**性能最强�
 
 ---
 
-## <a name="8"></a>8. Roto：为Rust设计的编译型脚本语言 
+## <a name="9"></a>9. Roto：为Rust设计的编译型脚本语言 
 <small>🔗 [blog.nlnetlabs.nl](https://blog.nlnetlabs.nl/introducing-roto-a-compiled-scripting-language-for-rust/): Roto: A Compiled Scripting Language for Rust</small>
 
 
-| 🔥🔥: 144 \| 💬: [108](https://news.ycombinator.com/item?id=44050222) \| 🗓️ 2025-05-21
+| 🔥🔥: 144 \| 💬: [109](https://news.ycombinator.com/item?id=44050222) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -119,11 +131,11 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="9"></a>9. 《揭秘Discord：2015-2024年公开通信全数据集》 
+## <a name="10"></a>10. 《揭秘Discord：2015-2024年公开通信全数据集》 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2502.00627): Discord Unveiled: A Comprehensive Dataset of Public Communication (2015-2024)</small>
 
 
-| 🔥🔥: 134 \| 💬: [147](https://news.ycombinator.com/item?id=44052041) \| 🗓️ 2025-05-21
+| 🔥🔥: 134 \| 💬: [151](https://news.ycombinator.com/item?id=44052041) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -131,11 +143,11 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="10"></a>10. 谷歌AI Studio推出全新开发者体验升级 
+## <a name="11"></a>11. 谷歌AI Studio推出全新开发者体验升级 
 <small>🔗 [developers.googleblog.com](https://developers.googleblog.com/en/google-ai-studio-native-code-generation-agentic-tools-upgrade/): An upgraded dev experience in Google AI Studio</small>
 
 
-| 🔥🔥: 103 \| 💬: [59](https://news.ycombinator.com/item?id=44054185) \| 🗓️ 2025-05-21
+| 🔥🔥: 113 \| 💬: [66](https://news.ycombinator.com/item?id=44054185) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -143,23 +155,11 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="11"></a>11. 商业白痴时代 
-<small>🔗 [wheresyoured.at](https://www.wheresyoured.at/the-era-of-the-business-idiot/): The Era of the Business Idiot</small>
-
-
-| 🔥🔥: 101 \| 💬: [121](https://news.ycombinator.com/item?id=44053328) \| 🗓️ 2025-05-21
-
-
-<br />
-文章批判微软CEO纳德拉过度依赖AI工具（如Copilot）处理日常工作，认为这暴露了**现代高管的无能**——他们更关注表面效率而非实质产出。作者进一步指出，**新自由主义经济**将股东利益奉为圭臬，导致企业沦为剥削机器，CEO们脱离实际业务，沉迷短期增长。文中以米尔顿·弗里德曼的极端资本主义理论为例，揭示这种思维如何助长社会不公，并最终催生由“符号化高管”主导的**腐朽经济体系**。
-
----
-
 ## <a name="12"></a>12. 太阳系发现新矮行星 
 <small>🔗 [minorplanetcenter.net](https://www.minorplanetcenter.net/mpec/K25/K25K47.html): Possible new dwarf planet found in our solar system</small>
 
 
-| 🔥🔥: 101 \| 💬: [68](https://news.ycombinator.com/item?id=44054620) \| 🗓️ 2025-05-21
+| 🔥🔥: 112 \| 💬: [72](https://news.ycombinator.com/item?id=44054620) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -167,7 +167,19 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="13"></a>13. 比AI编程助手更重要的5个开发要素 
+## <a name="13"></a>13. 商业白痴时代 
+<small>🔗 [wheresyoured.at](https://www.wheresyoured.at/the-era-of-the-business-idiot/): The Era of the Business Idiot</small>
+
+
+| 🔥🔥: 102 \| 💬: [122](https://news.ycombinator.com/item?id=44053328) \| 🗓️ 2025-05-21
+
+
+<br />
+文章批判微软CEO纳德拉过度依赖AI工具（如Copilot）处理日常工作，认为这暴露了**现代高管的无能**——他们更关注表面效率而非实质产出。作者进一步指出，**新自由主义经济**将股东利益奉为圭臬，导致企业沦为剥削机器，CEO们脱离实际业务，沉迷短期增长。文中以米尔顿·弗里德曼的极端资本主义理论为例，揭示这种思维如何助长社会不公，并最终催生由“符号化高管”主导的**腐朽经济体系**。
+
+---
+
+## <a name="14"></a>14. 比AI编程助手更重要的5个开发要素 
 <small>🔗 [codemanship.wordpress.com](https://codemanship.wordpress.com/2025/05/21/five-boring-things-that-have-a-bigger-impact-than-a-i-coding-assistants-on-dev-team-productivity/): Things that have a bigger impact than coding assistants</small>
 
 
@@ -179,7 +191,7 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="14"></a>14. 线粒体不仅是能量工厂，更是细胞的“主板” 
+## <a name="15"></a>15. 线粒体不仅是能量工厂，更是细胞的“主板” 
 <small>🔗 [scientificamerican.com](https://www.scientificamerican.com/article/why-mitochondria-are-more-like-a-motherboard-than-the-powerhouse-of-the-cell/): Mitochondria Are More Than Powerhouses–They're the Motherboard of the Cell</small>
 
 
@@ -191,11 +203,11 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="15"></a>15. 美国建成全球最强激光器ZEUS，功率达2拍瓦 
-<small>🔗 [news.engin.umich.edu](https://news.engin.umich.edu/2025/05/the-us-has-a-new-most-powerful-laser/): The US has a new most powerful laser</small>
+## <a name="16"></a>16. 美国建成全球最强激光器ZEUS，功率达2拍瓦 
+<small>🔗 [news.engin.umich.edu](https://news.engin.umich.edu/2025/05/the-us-has-a-new-most-powerful-laser/): ZEUS – A new two-petawatt laser facility at the University of Michigan</small>
 
 
-| 🔥: 91 \| 💬: [94](https://news.ycombinator.com/item?id=44052418) \| 🗓️ 2025-05-21
+| 🔥: 94 \| 💬: [94](https://news.ycombinator.com/item?id=44052418) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -203,7 +215,31 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="16"></a>16. 欧盟初创企业失败源于媒体拒绝炒作 
+## <a name="17"></a>17. 我开发了一款在线视频编辑器 
+<small>🔗 [clipjs.vercel.app](https://clipjs.vercel.app/): Show HN: ClipJS – Edit your videos from a PC or phone</small>
+
+
+| 🔥: 93 \| 💬: [41](https://news.ycombinator.com/item?id=44055542) \| 🗓️ 2025-05-21
+
+
+<br />
+这款工具主打**无水印编辑**，用户可以直接在网页上剪辑视频，无需担心成品被添加任何水印。操作简单，适合快速处理视频需求，**无需下载软件**，打开浏览器即可使用。核心亮点是**完全免费**且不限制导出视频的清晰度。
+
+---
+
+## <a name="18"></a>18. “涡轮增压”线粒体驱动鸟类史诗级迁徙 
+<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/turbocharged-mitochondria-power-birds-epic-migratory-journeys-20250519/): 'Turbocharged' Mitochondria Power Birds' Epic Migratory Journeys</small>
+
+
+| 🔥: 90 \| 💬: [69](https://news.ycombinator.com/item?id=44051652) \| 🗓️ 2025-05-21
+
+
+<br />
+研究发现，**线粒体**的数量、形状和效率变化为鸟类长途迁徙提供了额外能量。例如，白冠麻雀可飞行4200公里，而北极燕鸥的旅程超过1.6万公里。科学家发现，**迁徙鸟类**的飞行肌肉中线粒体更多、效率更高，且能通过融合或分裂动态调整形态以提升能量产出。这种季节性变化由光照周期触发，无需基因改变，展现了生物的**表型可塑性**。
+
+---
+
+## <a name="19"></a>19. 欧盟初创企业失败源于媒体拒绝炒作 
 <small>🔗 [twitter.com](https://twitter.com/RnaudBertrand/status/1925029185052917791): EU startups fail because their press refuses to hype them up</small>
 
 
@@ -215,59 +251,11 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="17"></a>17. “涡轮增压”线粒体驱动鸟类史诗级迁徙 
-<small>🔗 [quantamagazine.org](https://www.quantamagazine.org/turbocharged-mitochondria-power-birds-epic-migratory-journeys-20250519/): 'Turbocharged' Mitochondria Power Birds' Epic Migratory Journeys</small>
-
-
-| 🔥: 89 \| 💬: [69](https://news.ycombinator.com/item?id=44051652) \| 🗓️ 2025-05-21
-
-
-<br />
-研究发现，**线粒体**的数量、形状和效率变化为鸟类长途迁徙提供了额外能量。例如，白冠麻雀可飞行4200公里，而北极燕鸥的旅程超过1.6万公里。科学家发现，**迁徙鸟类**的飞行肌肉中线粒体更多、效率更高，且能通过融合或分裂动态调整形态以提升能量产出。这种季节性变化由光照周期触发，无需基因改变，展现了生物的**表型可塑性**。
-
----
-
-## <a name="18"></a>18. 我开发了一款在线视频编辑器 
-<small>🔗 [clipjs.vercel.app](https://clipjs.vercel.app/): Show HN: I've built online video editor</small>
-
-
-| 🔥: 89 \| 💬: [40](https://news.ycombinator.com/item?id=44055542) \| 🗓️ 2025-05-21
-
-
-<br />
-这款工具主打**无水印编辑**，用户可以直接在网页上剪辑视频，无需担心成品被添加任何水印。操作简单，适合快速处理视频需求，**无需下载软件**，打开浏览器即可使用。核心亮点是**完全免费**且不限制导出视频的清晰度。
-
----
-
-## <a name="19"></a>19. 谷歌推出扩散模型Gemini Diffusion：速度提升5倍 
-<small>🔗 [simonwillison.net](https://simonwillison.net/2025/May/21/gemini-diffusion/): Gemini Diffusion</small>
-
-
-| 🔥: 89 \| 💬: [10](https://news.ycombinator.com/item?id=44057820) \| 🗓️ 2025-05-21
-
-
-<br />
-谷歌在I/O大会上发布了**Gemini Diffusion**，这是其首款采用**扩散模型**（类似Imagen和Stable Diffusion）而非传统Transformer架构的LLM。该模型通过逐步降噪生成文本，**速度极快**（实测达857词/秒），且支持实时纠错，擅长代码和数学编辑。谷歌宣称其性能媲美**Gemini 2.0 Flash-Lite**，但速度快5倍。目前尚未有独立基准测试，但实测生成网页应用仅需数秒。此前商用扩散模型仅有2025年2月的Inception Mercury。
-
----
-
-## <a name="20"></a>20. 利用嵌入向量的普适几何结构 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2505.12540): Harnessing the Universal Geometry of Embeddings</small>
-
-
-| 🔥: 84 \| 💬: [36](https://news.ycombinator.com/item?id=44054425) \| 🗓️ 2025-05-21
-
-
-<br />
-该研究提出了一种**无需配对数据**的文本嵌入向量跨空间转换方法，首次实现了不同架构、参数量及训练数据的模型间嵌入向量的无监督翻译。通过将任意嵌入映射到**通用潜在表示空间**（基于柏拉图表示假说），该方法能保持几何结构的高余弦相似度。研究同时警示，这种能力可能威胁向量数据库安全——攻击者仅通过嵌入向量即可推断原始文档的敏感信息，如分类与属性特征。
-
----
-
-## <a name="21"></a>21. 不丹奇妙的可播放邮票传奇（2015年） 
+## <a name="20"></a>20. 不丹奇妙的可播放邮票传奇（2015年） 
 <small>🔗 [thevinylfactory.com](https://thevinylfactory.com/features/the-curious-tale-of-bhutans-playable-record-postage-stamps/): The curious tale of Bhutan's playable record postage stamps (2015)</small>
 
 
-| 🔥: 83 \| 💬: [6](https://news.ycombinator.com/item?id=44054775) \| 🗓️ 2025-05-21
+| 🔥: 89 \| 💬: [6](https://news.ycombinator.com/item?id=44054775) \| 🗓️ 2025-05-21
 
 
 <br />
@@ -275,7 +263,31 @@ Roto是一款专为Rust设计的**嵌入式脚本语言**，旨在为Rust应用�
 
 ---
 
-## <a name="22"></a>22. Lune：独立的Luau运行时环境 
+## <a name="21"></a>21. Rocky Linux 10将正式支持RISC-V架构 
+<small>🔗 [rockylinux.org](https://rockylinux.org/news/rockylinux-support-for-riscv): Rocky Linux 10 Will Support RISC-V</small>
+
+
+| 🔥: 89 \| 💬: [28](https://news.ycombinator.com/item?id=44056104) \| 🗓️ 2025-05-21
+
+
+<br />
+Rocky Linux 10宣布将**官方支持RISC-V**架构，提供riscv64gc版本，兼容StarFive VisionFive 2、QEMU及SiFive HiFive Premier P550等平台。该版本基于**上游优先策略**，与Fedora社区紧密合作，推动RISC-V生态发展。虽然RISC-V被列为**替代架构**，但构建失败不会影响其他架构的发布。目前VisionFive 2和QEMU已获完整支持，P550则需依赖厂商内核。社区鼓励开发者参与，共同完善这一跨架构开源生态。
+
+---
+
+## <a name="22"></a>22. 利用嵌入向量的普适几何结构 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2505.12540): Harnessing the Universal Geometry of Embeddings</small>
+
+
+| 🔥: 86 \| 💬: [36](https://news.ycombinator.com/item?id=44054425) \| 🗓️ 2025-05-21
+
+
+<br />
+该研究提出了一种**无需配对数据**的文本嵌入向量跨空间转换方法，首次实现了不同架构、参数量及训练数据的模型间嵌入向量的无监督翻译。通过将任意嵌入映射到**通用潜在表示空间**（基于柏拉图表示假说），该方法能保持几何结构的高余弦相似度。研究同时警示，这种能力可能威胁向量数据库安全——攻击者仅通过嵌入向量即可推断原始文档的敏感信息，如分类与属性特征。
+
+---
+
+## <a name="23"></a>23. Lune：独立的Luau运行时环境 
 <small>🔗 [github.com](https://github.com/lune-org/lune): Lune: Standalone Luau Runtime</small>
 
 
@@ -287,7 +299,7 @@ Lune是一个**独立的Luau运行时**，类似Node.js或Deno，专为Luau语�
 
 ---
 
-## <a name="23"></a>23. 让抽签决定我们的政府？重温雅典民主的现代启示 
+## <a name="24"></a>24. 让抽签决定我们的政府？重温雅典民主的现代启示 
 <small>🔗 [thewalrus.ca](https://thewalrus.ca/why-we-should-let-a-lottery-decide-our-government/): We Should Let a Lottery Decide Our Government (2019)</small>
 
 
@@ -299,7 +311,7 @@ Lune是一个**独立的Luau运行时**，类似Node.js或Deno，专为Luau语�
 
 ---
 
-## <a name="24"></a>24. 为什么基于属性的测试能发现单元测试遗漏的缺陷（2021） 
+## <a name="25"></a>25. 为什么基于属性的测试能发现单元测试遗漏的缺陷（2021） 
 <small>🔗 [buttondown.com](https://buttondown.com/hillelwayne/archive/why-property-testing-finds-bugs-unit-testing-does/): Why Property Testing Finds Bugs Unit Testing Does Not (2021)</small>
 
 
