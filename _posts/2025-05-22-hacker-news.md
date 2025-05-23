@@ -11,8 +11,8 @@ tags:
 1. Claude 4重磅发布：新一代AI模型与开发者工具升级；
 1. Mozilla将于2025年7月8日关闭Pocket服务；
 1. 特朗普政府暂停哈佛大学招收国际学生资格；
-1. 行星着陆：从游戏地图到虚构星球的制图之旅；
 1. 墙上挂了12年的分形图案；
+1. 行星着陆：从游戏地图到虚构星球的制图之旅；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/claude-4): Claude 4</small>
 
 
-| 🔥🔥: 1480 \| 💬: [806](https://news.ycombinator.com/item?id=44063703) \| 🗓️ 2025-05-22
+| 🔥🔥: 1519 \| 💬: [849](https://news.ycombinator.com/item?id=44063703) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -39,7 +39,7 @@ Anthropic推出**Claude Opus 4**和**Claude Sonnet 4**，前者成为全球最�
 <small>🔗 [support.mozilla.org](https://support.mozilla.org/en-US/kb/future-of-pocket): Mozilla to shut down Pocket on July 8</small>
 
 
-| 🔥🔥: 784 \| 💬: [497](https://news.ycombinator.com/item?id=44063662) \| 🗓️ 2025-05-22
+| 🔥🔥: 814 \| 💬: [512](https://news.ycombinator.com/item?id=44063662) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -51,7 +51,7 @@ Mozilla宣布将于**2025年7月8日**正式关闭**Pocket**服务，用户可�
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/22/us/politics/trump-harvard-international-students.html): Trump administration halts Harvard's ability to enroll international students</small>
 
 
-| 🔥🔥: 633 \| 💬: [653](https://news.ycombinator.com/item?id=44064631) \| 🗓️ 2025-05-22
+| 🔥🔥: 657 \| 💬: [679](https://news.ycombinator.com/item?id=44064631) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -59,23 +59,11 @@ Mozilla宣布将于**2025年7月8日**正式关闭**Pocket**服务，用户可�
 
 ---
 
-## <a name="4"></a>4. 行星着陆：从游戏地图到虚构星球的制图之旅 
-<small>🔗 [somethingaboutmaps.wordpress.com](https://somethingaboutmaps.wordpress.com/2025/05/20/planetfall/): Planetfall</small>
-
-
-| 🔥🔥: 315 \| 💬: [86](https://news.ycombinator.com/item?id=44060305) \| 🗓️ 2025-05-22
-
-
-<br />
-作者Daniel Huffman耗时三年，将1999年游戏《半人马座阿尔法星》中的**像素化地图**转化为高精度虚构星球地图。通过手动采集8192个格点的**高程数据**，结合降雨、岩石等属性，运用**三角网插值**和随机扰动技术生成逼真地形。项目揭示了虚构地图与真实制图的差异——前者需要"创造数据"而非仅处理现有数据。最终成果通过投影转换（圆柱等积投影）和人工修正（如环形山圆整化），呈现出比原游戏更细腻的Chiron星地表形态。
-
----
-
-## <a name="5"></a>5. 墙上挂了12年的分形图案 
+## <a name="4"></a>4. 墙上挂了12年的分形图案 
 <small>🔗 [chriskw.xyz](https://chriskw.xyz/2025/05/21/Fractal/): That fractal that's been up on my wall for years</small>
 
 
-| 🔥🔥: 307 \| 💬: [19](https://news.ycombinator.com/item?id=44063248) \| 🗓️ 2025-05-22
+| 🔥🔥: 319 \| 💬: [20](https://news.ycombinator.com/item?id=44063248) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -83,11 +71,23 @@ Mozilla宣布将于**2025年7月8日**正式关闭**Pocket**服务，用户可�
 
 ---
 
+## <a name="5"></a>5. 行星着陆：从游戏地图到虚构星球的制图之旅 
+<small>🔗 [somethingaboutmaps.wordpress.com](https://somethingaboutmaps.wordpress.com/2025/05/20/planetfall/): Planetfall</small>
+
+
+| 🔥🔥: 318 \| 💬: [88](https://news.ycombinator.com/item?id=44060305) \| 🗓️ 2025-05-22
+
+
+<br />
+作者Daniel Huffman耗时三年，将1999年游戏《半人马座阿尔法星》中的**像素化地图**转化为高精度虚构星球地图。通过手动采集8192个格点的**高程数据**，结合降雨、岩石等属性，运用**三角网插值**和随机扰动技术生成逼真地形。项目揭示了虚构地图与真实制图的差异——前者需要"创造数据"而非仅处理现有数据。最终成果通过投影转换（圆柱等积投影）和人工修正（如环形山圆整化），呈现出比原游戏更细腻的Chiron星地表形态。
+
+---
+
 ## <a name="6"></a>6. 提升rav1d视频解码器性能的探索 
 <small>🔗 [ohadravid.github.io](https://ohadravid.github.io/posts/2025-05-rav1d-faster/): Improving performance of rav1d video decoder</small>
 
 
-| 🔥🔥: 249 \| 💬: [87](https://news.ycombinator.com/item?id=44061160) \| 🗓️ 2025-05-22
+| 🔥🔥: 253 \| 💬: [87](https://news.ycombinator.com/item?id=44061160) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -99,7 +99,7 @@ Mozilla宣布将于**2025年7月8日**正式关闭**Pocket**服务，用户可�
 <small>🔗 [railsatscale.com](https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/): Fast Allocations in Ruby 3.5</small>
 
 
-| 🔥🔥: 182 \| 💬: [42](https://news.ycombinator.com/item?id=44062160) \| 🗓️ 2025-05-22
+| 🔥🔥: 189 \| 💬: [42](https://news.ycombinator.com/item?id=44062160) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -111,7 +111,7 @@ Ruby 3.5 通过**内联 `Class#new` 方法**显著加快了对象分配速度，
 <small>🔗 [nexo.sh](https://nexo.sh/posts/why-i-built-a-native-mp3-player-in-swiftui/): I Built My Own Audio Player</small>
 
 
-| 🔥🔥: 171 \| 💬: [88](https://news.ycombinator.com/item?id=44062227) \| 🗓️ 2025-05-22
+| 🔥🔥: 184 \| 💬: [91](https://news.ycombinator.com/item?id=44062227) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -119,23 +119,11 @@ Ruby 3.5 通过**内联 `Class#new` 方法**显著加快了对象分配速度，
 
 ---
 
-## <a name="9"></a>9. SQLite JavaScript扩展：用JavaScript增强数据库功能 
-<small>🔗 [github.com](https://github.com/sqliteai/sqlite-js): Show HN: SQLite JavaScript - extend your database with JavaScript</small>
-
-
-| 🔥🔥: 142 \| 💬: [43](https://news.ycombinator.com/item?id=44061836) \| 🗓️ 2025-05-22
-
-
-<br />
-这是一个名为SQLite-JS的开源扩展，允许开发者**用JavaScript创建自定义SQLite函数**，包括标量函数、聚合函数、窗口函数和排序规则。该工具支持跨平台（Linux/macOS/Windows/移动端），通过预编译二进制或源码集成，能直接在SQL查询中执行JavaScript代码。核心功能包括：**动态计算字段**（如年龄计算）、**高级统计分析**（如中位数/标准差），以及**自定义文本排序**。特别适合需要复杂业务逻辑处理的场景，所有函数可通过`js_create_*`系列命令快速注册，并支持在SQLite Cloud集群中自动同步。
-
----
-
-## <a name="10"></a>10. 副驾驶的幻觉 
+## <a name="9"></a>9. 副驾驶的幻觉 
 <small>🔗 [deplet.ing](https://deplet.ing/the-copilot-delusion/): The copilot delusion</small>
 
 
-| 🔥🔥: 142 \| 💬: [105](https://news.ycombinator.com/item?id=44068525) \| 🗓️ 2025-05-22
+| 🔥🔥: 166 \| 💬: [128](https://news.ycombinator.com/item?id=44068525) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -143,35 +131,23 @@ Ruby 3.5 通过**内联 `Class#new` 方法**显著加快了对象分配速度，
 
 ---
 
-## <a name="11"></a>11. MCP协议：简化AI应用集成的关键工具 
-<small>🔗 [blog.nilenso.com](https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/): MCP explained without hype or fluff</small>
+## <a name="10"></a>10. SQLite JavaScript扩展：用JavaScript增强数据库功能 
+<small>🔗 [github.com](https://github.com/sqliteai/sqlite-js): Show HN: SQLite JavaScript - extend your database with JavaScript</small>
 
 
-| 🔥🔥: 130 \| 💬: [62](https://news.ycombinator.com/item?id=44063141) \| 🗓️ 2025-05-22
-
-
-<br />
-**MCP协议**通过将复杂的M×N集成问题转化为M+N问题，降低AI应用与外部平台对接的难度。它包含**MCP服务器**（连接数据源并提供工具）和**MCP客户端**（集成到AI应用中），支持工具调用、提示模板、资源URI和采样等功能。作者以CKAN开放数据为例，演示如何快速构建MCP服务器，使Claude等客户端能直接访问和分析数据。虽然协议尚不成熟，但已有广泛采用，适合需要解耦的场景，但需权衡性能与灵活性成本。
-
----
-
-## <a name="12"></a>12. 美国间谍机构打造“一站式”个人数据采购平台 
-<small>🔗 [theintercept.com](https://theintercept.com/2025/05/22/intel-agencies-buying-data-portal-privacy/): U.S. Spy Agencies–One-Stop Shop to Buy Your Personal Data</small>
-
-
-| 🔥🔥: 126 \| 💬: [60](https://news.ycombinator.com/item?id=44062586) \| 🗓️ 2025-05-22
+| 🔥🔥: 145 \| 💬: [44](https://news.ycombinator.com/item?id=44061836) \| 🗓️ 2025-05-22
 
 
 <br />
-美国情报机构正通过**商业可用信息（CAI）**绕过宪法第四修正案，大量购买原本需法庭令才能获取的敏感数据。为解决数据来源分散的问题，国家情报总监办公室（ODNI）计划建立名为“情报界数据联盟”（ICDC）的中央门户，整合手机广告定位、社交媒体内容等**高敏感数据**，并提供AI分析工具。批评者警告，此举将加剧隐私风险，尤其可能被移民执法等非情报机构滥用。尽管ODNI声称会保障公民自由，但文件显示其仍遵循“先收集再处理”原则，且允许私营供应商自行判定数据敏感性，**削弱监管效力**。此前解密报告承认，CAI已使政府能无限制获取曾需定向监控才能获得的信息。
+这是一个名为SQLite-JS的开源扩展，允许开发者**用JavaScript创建自定义SQLite函数**，包括标量函数、聚合函数、窗口函数和排序规则。该工具支持跨平台（Linux/macOS/Windows/移动端），通过预编译二进制或源码集成，能直接在SQL查询中执行JavaScript代码。核心功能包括：**动态计算字段**（如年龄计算）、**高级统计分析**（如中位数/标准差），以及**自定义文本排序**。特别适合需要复杂业务逻辑处理的场景，所有函数可通过`js_create_*`系列命令快速注册，并支持在SQLite Cloud集群中自动同步。
 
 ---
 
-## <a name="13"></a>13. Defuddle：一款替代Readability的HTML转Markdown工具 
+## <a name="11"></a>11. Defuddle：一款替代Readability的HTML转Markdown工具 
 <small>🔗 [github.com](https://github.com/kepano/defuddle): Show HN: Defuddle, an HTML-to-Markdown alternative to Readability</small>
 
 
-| 🔥🔥: 121 \| 💬: [27](https://news.ycombinator.com/item?id=44067409) \| 🗓️ 2025-05-22
+| 🔥🔥: 134 \| 💬: [32](https://news.ycombinator.com/item?id=44067409) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -181,23 +157,23 @@ Defuddle 是一个用于**提取网页主要内容**的工具，能自动清除�
 
 ---
 
-## <a name="14"></a>14. 《AI 2027》场景：是危言耸听还是未来预言？ 
-<small>🔗 [garymarcus.substack.com](https://garymarcus.substack.com/p/the-ai-2027-scenario-how-realistic): The "AI 2027" Scenario: How realistic is it?</small>
+## <a name="12"></a>12. MCP协议：简化AI应用集成的关键工具 
+<small>🔗 [blog.nilenso.com](https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/): MCP explained without hype or fluff</small>
 
 
-| 🔥🔥: 101 \| 💬: [173](https://news.ycombinator.com/item?id=44064504) \| 🗓️ 2025-05-22
+| 🔥🔥: 133 \| 💬: [62](https://news.ycombinator.com/item?id=44063141) \| 🗓️ 2025-05-22
 
 
 <br />
-Gary Marcus对《AI 2027》这份引发热议的“科幻式报告”提出质疑。该报告以**惊悚叙事**描绘了AI在2027年失控的末日场景，但缺乏科学依据。作者指出，其核心假设——如**超级智能AI**在三年内崛起——纯属臆测，未考虑技术瓶颈（如幻觉问题）和历史教训（如自动驾驶的延迟）。报告通过**生动叙事**制造恐慌，但概率计算显示其预测可能性微乎其微。Marcus认为，过度渲染恐惧可能适得其反，反而不利于AI安全治理的理性讨论。
+**MCP协议**通过将复杂的M×N集成问题转化为M+N问题，降低AI应用与外部平台对接的难度。它包含**MCP服务器**（连接数据源并提供工具）和**MCP客户端**（集成到AI应用中），支持工具调用、提示模板、资源URI和采样等功能。作者以CKAN开放数据为例，演示如何快速构建MCP服务器，使Claude等客户端能直接访问和分析数据。虽然协议尚不成熟，但已有广泛采用，适合需要解耦的场景，但需权衡性能与灵活性成本。
 
 ---
 
-## <a name="15"></a>15. Flatpak的未来：机遇与挑战并存 
+## <a name="13"></a>13. Flatpak的未来：机遇与挑战并存 
 <small>🔗 [lwn.net](https://lwn.net/Articles/1020571/): The Future of Flatpak</small>
 
 
-| 🔥: 96 \| 💬: [28](https://news.ycombinator.com/item?id=44068400) \| 🗓️ 2025-05-22
+| 🔥🔥: 132 \| 💬: [53](https://news.ycombinator.com/item?id=44068400) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -205,11 +181,35 @@ Gary Marcus对《AI 2027》这份引发热议的“科幻式报告”提出质�
 
 ---
 
+## <a name="14"></a>14. 美国间谍机构打造“一站式”个人数据采购平台 
+<small>🔗 [theintercept.com](https://theintercept.com/2025/05/22/intel-agencies-buying-data-portal-privacy/): U.S. Spy Agencies–One-Stop Shop to Buy Your Personal Data</small>
+
+
+| 🔥🔥: 126 \| 💬: [61](https://news.ycombinator.com/item?id=44062586) \| 🗓️ 2025-05-22
+
+
+<br />
+美国情报机构正通过**商业可用信息（CAI）**绕过宪法第四修正案，大量购买原本需法庭令才能获取的敏感数据。为解决数据来源分散的问题，国家情报总监办公室（ODNI）计划建立名为“情报界数据联盟”（ICDC）的中央门户，整合手机广告定位、社交媒体内容等**高敏感数据**，并提供AI分析工具。批评者警告，此举将加剧隐私风险，尤其可能被移民执法等非情报机构滥用。尽管ODNI声称会保障公民自由，但文件显示其仍遵循“先收集再处理”原则，且允许私营供应商自行判定数据敏感性，**削弱监管效力**。此前解密报告承认，CAI已使政府能无限制获取曾需定向监控才能获得的信息。
+
+---
+
+## <a name="15"></a>15. 《AI 2027》场景：是危言耸听还是未来预言？ 
+<small>🔗 [garymarcus.substack.com](https://garymarcus.substack.com/p/the-ai-2027-scenario-how-realistic): The "AI 2027" Scenario: How realistic is it?</small>
+
+
+| 🔥🔥: 104 \| 💬: [176](https://news.ycombinator.com/item?id=44064504) \| 🗓️ 2025-05-22
+
+
+<br />
+Gary Marcus对《AI 2027》这份引发热议的“科幻式报告”提出质疑。该报告以**惊悚叙事**描绘了AI在2027年失控的末日场景，但缺乏科学依据。作者指出，其核心假设——如**超级智能AI**在三年内崛起——纯属臆测，未考虑技术瓶颈（如幻觉问题）和历史教训（如自动驾驶的延迟）。报告通过**生动叙事**制造恐慌，但概率计算显示其预测可能性微乎其微。Marcus认为，过度渲染恐惧可能适得其反，反而不利于AI安全治理的理性讨论。
+
+---
+
 ## <a name="16"></a>16. 用模型上下文协议探索符号代数的奇妙之旅 
 <small>🔗 [stephendiehl.com](https://www.stephendiehl.com/posts/computer_algebra_mcp/): Adventures in Symbolic Algebra with Model Context Protocol</small>
 
 
-| 🔥: 86 \| 💬: [21](https://news.ycombinator.com/item?id=44062130) \| 🗓️ 2025-05-22
+| 🔥: 91 \| 💬: [22](https://news.ycombinator.com/item?id=44062130) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -221,7 +221,7 @@ Gary Marcus对《AI 2027》这份引发热议的“科幻式报告”提出质�
 <small>🔗 [izbicki.me](https://izbicki.me/blog/how-to-cheat-at-settlers-of-catan-by-loading-the-dice-and-prove-it-with-p-values.html): How to cheat at settlers by loading the dice (2017)</small>
 
 
-| 🔥: 83 \| 💬: [67](https://news.ycombinator.com/item?id=44065094) \| 🗓️ 2025-05-22
+| 🔥: 87 \| 💬: [72](https://news.ycombinator.com/item?id=44065094) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -233,7 +233,19 @@ Gary Marcus对《AI 2027》这份引发热议的“科幻式报告”提出质�
 
 ---
 
-## <a name="18"></a>18. 抱歉，应届生：初级科技岗位正在消失 
+## <a name="18"></a>18. 如何高效加载大型JSON文件到Pydantic模型而不耗尽内存 
+<small>🔗 [pythonspeed.com](https://pythonspeed.com/articles/pydantic-json-memory/): Loading Pydantic models from JSON without running out of memory</small>
+
+
+| 🔥: 83 \| 💬: [28](https://news.ycombinator.com/item?id=44064875) \| 🗓️ 2025-05-22
+
+
+<br />
+文章探讨了使用Pydantic加载大型JSON文件时内存消耗过高的问题。默认方法会导致**20倍内存膨胀**（100MB文件占用2GB）。解决方案分两步：首先采用**ijson流式解析器**降低解析内存至1.2GB；其次改用**带slots的Pydantic数据类**，进一步将内存压缩到450MB。虽然速度有所牺牲，但这种方法显著提升了内存效率，为处理超大规模JSON数据提供了可行路径。
+
+---
+
+## <a name="19"></a>19. 抱歉，应届生：初级科技岗位正在消失 
 <small>🔗 [sfstandard.com](https://sfstandard.com/2025/05/20/silicon-valley-white-collar-recession-entry-level/): Sorry, grads: Entry-level tech jobs are getting wiped out</small>
 
 
@@ -242,18 +254,6 @@ Gary Marcus对《AI 2027》这份引发热议的“科幻式报告”提出质�
 
 <br />
 2025届毕业生面临严峻的就业市场，**大型科技公司**的应届生招聘比2019年减少超50%，而中高级岗位需求回升。**AI自动化**和公司缩减成本导致初级岗位锐减，许多毕业生转向读研或实习积累经验。国际学生和文科生尤其受冲击，即使名校背景也难保工作。专家警告，**AI迭代速度**可能很快超越学历提升的价值，呼吁政策应对潜在失业危机。
-
----
-
-## <a name="19"></a>19. 如何高效加载大型JSON文件到Pydantic模型而不耗尽内存 
-<small>🔗 [pythonspeed.com](https://pythonspeed.com/articles/pydantic-json-memory/): Loading Pydantic models from JSON without running out of memory</small>
-
-
-| 🔥: 76 \| 💬: [27](https://news.ycombinator.com/item?id=44064875) \| 🗓️ 2025-05-22
-
-
-<br />
-文章探讨了使用Pydantic加载大型JSON文件时内存消耗过高的问题。默认方法会导致**20倍内存膨胀**（100MB文件占用2GB）。解决方案分两步：首先采用**ijson流式解析器**降低解析内存至1.2GB；其次改用**带slots的Pydantic数据类**，进一步将内存压缩到450MB。虽然速度有所牺牲，但这种方法显著提升了内存效率，为处理超大规模JSON数据提供了可行路径。
 
 ---
 
@@ -273,7 +273,7 @@ JEP 519 将 **对象头压缩布局** 从实验性功能升级为正式功能。
 <small>🔗 [blog.glitch.com](https://blog.glitch.com/post/changes-are-coming-to-glitch/): We’ll be ending web hosting for your apps on Glitch</small>
 
 
-| 🔥: 66 \| 💬: [43](https://news.ycombinator.com/item?id=44064230) \| 🗓️ 2025-05-22
+| 🔥: 68 \| 💬: [43](https://news.ycombinator.com/item?id=44064230) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -293,11 +293,23 @@ Glitch宣布将于**2025年7月8日**停止项目托管和用户档案服务，�
 
 ---
 
-## <a name="23"></a>23. 一键切换Dock布局：DockFlow让macOS工作流更高效 
+## <a name="23"></a>23. 《秘密商场公寓：一场关于空间的抗议》 
+<small>🔗 [modernagejournal.com](https://modernagejournal.com/secret-mall-apartment-a-protest-for-place/251023/): “Secret Mall Apartment,” a Protest for Place</small>
+
+
+| 🔥: 58 \| 💬: [32](https://news.ycombinator.com/item?id=44067767) \| 🗓️ 2025-05-22
+
+
+<br />
+2003年，罗德岛州八名艺术家在**普罗维登斯购物中心**内秘密建造了一间公寓，并断断续续居住了四年。这一行为既是抗议**城市商业化**对本地文化的侵蚀，也是对**无灵魂消费主义**的嘲讽。他们利用废弃空间，用二手家具打造生活区，甚至建起水泥墙隐藏入口。纪录片通过模糊的老式手机影像和现代访谈，展现了这群艺术家如何以荒诞方式对抗城市开发，最终因意外暴露而终结。**迈克尔·汤森**作为主导者，至今被禁止踏入该商场。影片既幽默又深刻，揭示了人们对归属感的渴望与现代都市疏离感的矛盾。
+
+---
+
+## <a name="24"></a>24. 一键切换Dock布局：DockFlow让macOS工作流更高效 
 <small>🔗 [dockflow.appitstudio.com](https://dockflow.appitstudio.com/): Show HN: DockFlow – Switch between multiple macOS Dock layouts instantly</small>
 
 
-| 🔥: 54 \| 💬: [37](https://news.ycombinator.com/item?id=44064057) \| 🗓️ 2025-05-22
+| 🔥: 55 \| 💬: [37](https://news.ycombinator.com/item?id=44064057) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -305,23 +317,11 @@ DockFlow是一款**macOS效率工具**，可快速保存和切换不同的Dock�
 
 ---
 
-## <a name="24"></a>24. 扩散语言模型的优势与局限 
-<small>🔗 [seangoedecke.com](https://www.seangoedecke.com/limitations-of-text-diffusion-models/): Strengths and limitations of diffusion language models</small>
-
-
-| 🔥: 53 \| 💬: [7](https://news.ycombinator.com/item?id=44060533) \| 🗓️ 2025-05-22
-
-
-<br />
-谷歌发布的Gemini Diffusion因生成速度惊艳众人。**扩散模型**与**自回归模型**（如GPT-4、Claude）的核心差异在于：扩散模型**并行生成完整输出**，通过多轮去噪逐步修正，而非逐词生成。其优势包括速度更快（支持部分结果并行输出）和可调节质量（减少去噪轮次以提速），但固定输出长度可能导致短文本效率更低。此外，扩散模型处理长上下文时因无法缓存注意力计算而更耗资源，且**推理能力**尚不明确——自回归模型的“链式思考”机制可能难以适配块生成逻辑。尽管扩散模型内部可能使用Transformer，但其架构特性仍主导行为差异。
-
----
-
 ## <a name="25"></a>25. 2分钟生成交互式产品演示的神器 
 <small>🔗 [snapdemo.io](https://snapdemo.io/): Show HN: I created an tool that creates interactive product demos in 2 minutes</small>
 
 
-| 🔥: 53 \| 💬: [8](https://news.ycombinator.com/item?id=44061510) \| 🗓️ 2025-05-22
+| 🔥: 54 \| 💬: [8](https://news.ycombinator.com/item?id=44061510) \| 🗓️ 2025-05-22
 
 
 <br />
