@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共21条，具体内容您往下读...
+总共22条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [techcommunity.microsoft.com](https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648): Postgres IDE in VS Code</small>
 
 
-| 🔥🔥: 535 \| 💬: [241](https://news.ycombinator.com/item?id=44073588) \| 🗓️ 2025-05-23
+| 🔥🔥: 589 \| 💬: [257](https://news.ycombinator.com/item?id=44073588) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [foundersatwork.posthaven.com](https://foundersatwork.posthaven.com/find-your-people): Find Your People</small>
 
 
-| 🔥🔥: 285 \| 💬: [122](https://news.ycombinator.com/item?id=44074017) \| 🗓️ 2025-05-23
+| 🔥🔥: 315 \| 💬: [140](https://news.ycombinator.com/item?id=44074017) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [rachelbythebay.com](https://rachelbythebay.com/w/2025/05/22/ssl/): Why I no longer have an old-school cert on my HTTPS site</small>
 
 
-| 🔥🔥: 196 \| 💬: [206](https://news.ycombinator.com/item?id=44071690) \| 🗓️ 2025-05-23
+| 🔥🔥: 215 \| 💬: [215](https://news.ycombinator.com/item?id=44071690) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [pixelstech.net](https://www.pixelstech.net/article/1747708863-openai%3a-scaling-postgresql-to-the-next-level): OpenAI: Scaling PostgreSQL to the Next Level</small>
 
 
-| 🔥🔥: 170 \| 💬: [118](https://news.ycombinator.com/item?id=44071418) \| 🗓️ 2025-05-23
+| 🔥🔥: 172 \| 💬: [118](https://news.ycombinator.com/item?id=44071418) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -75,7 +75,7 @@ OpenAI在PGConf.dev 2025上分享了其**非分片架构**的PostgreSQL实践：
 <small>🔗 [anildash.com](https://www.anildash.com//2025/05/20/mcp-web20-20/): MCP is the coming of Web 2.0 2.0</small>
 
 
-| 🔥🔥: 158 \| 💬: [132](https://news.ycombinator.com/item?id=44073785) \| 🗓️ 2025-05-23
+| 🔥🔥: 166 \| 💬: [139](https://news.ycombinator.com/item?id=44073785) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -87,7 +87,7 @@ OpenAI在PGConf.dev 2025上分享了其**非分片架构**的PostgreSQL实践：
 <small>🔗 [pprune.org](https://www.pprune.org/terms-endearment/653181-yemenia-expat-contract-full-info.html): How I ended up flying for Yemen's national airline – and survived</small>
 
 
-| 🔥🔥: 148 \| 💬: [26](https://news.ycombinator.com/item?id=44072971) \| 🗓️ 2025-05-23
+| 🔥🔥: 152 \| 💬: [26](https://news.ycombinator.com/item?id=44072971) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -95,23 +95,11 @@ OpenAI在PGConf.dev 2025上分享了其**非分片架构**的PostgreSQL实践：
 
 ---
 
-## <a name="7"></a>7. 凯撒的最后一口气 
-<small>🔗 [charliesabino.com](https://charliesabino.com/caesars-last-breath/): Caesar's Last Breath</small>
-
-
-| 🔥🔥: 114 \| 💬: [47](https://news.ycombinator.com/item?id=44073185) \| 🗓️ 2025-05-23
-
-
-<br />
-每次呼吸时，我们大约会吸入**1个分子**来自凯撒临终前的最后一口气。这一惊人结论源自**费米估算**，通过简化计算得出：地球大气体积与单次呼吸体积之比约为1/10²²，而每次呼吸包含约10²²个分子。由此推断，我们吸入的空气可能混合了历史上所有人的气息，包括苏格拉底、爱因斯坦等。**估算技巧**和**数量级思维**是这一有趣推理的核心，展示了科学直觉的魅力。
-
----
-
-## <a name="8"></a>8. 在美国如何靠每月432美元生活 
+## <a name="7"></a>7. 在美国如何靠每月432美元生活 
 <small>🔗 [shagbark.substack.com](https://shagbark.substack.com/p/how-to-live-on-432-a-month-in-america): How to live on $432 a month in America</small>
 
 
-| 🔥🔥: 105 \| 💬: [175](https://news.ycombinator.com/item?id=44074340) \| 🗓️ 2025-05-23
+| 🔥🔥: 127 \| 💬: [235](https://news.ycombinator.com/item?id=44074340) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -119,11 +107,23 @@ OpenAI在PGConf.dev 2025上分享了其**非分片架构**的PostgreSQL实践：
 
 ---
 
+## <a name="8"></a>8. 凯撒的最后一口气 
+<small>🔗 [charliesabino.com](https://charliesabino.com/caesars-last-breath/): Caesar's Last Breath</small>
+
+
+| 🔥🔥: 118 \| 💬: [48](https://news.ycombinator.com/item?id=44073185) \| 🗓️ 2025-05-23
+
+
+<br />
+每次呼吸时，我们大约会吸入**1个分子**来自凯撒临终前的最后一口气。这一惊人结论源自**费米估算**，通过简化计算得出：地球大气体积与单次呼吸体积之比约为1/10²²，而每次呼吸包含约10²²个分子。由此推断，我们吸入的空气可能混合了历史上所有人的气息，包括苏格拉底、爱因斯坦等。**估算技巧**和**数量级思维**是这一有趣推理的核心，展示了科学直觉的魅力。
+
+---
+
 ## <a name="9"></a>9. HN时间线视图：hcker.news——更符合人体工学的Hacker News前端 
 <small>🔗 [hcker.news](https://hcker.news): Show HN: hcker.news – an ergonomic, timeline-based Hacker News front page</small>
 
 
-| 🔥: 98 \| 💬: [41](https://news.ycombinator.com/item?id=44075353) \| 🗓️ 2025-05-23
+| 🔥🔥: 109 \| 💬: [52](https://news.ycombinator.com/item?id=44075353) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -135,7 +135,7 @@ hcker.news是一个**Hacker News的替代界面**，主打**时间线浏览模�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2505.13775): Beyond Semantics: Unreasonable Effectiveness of Reasonless Intermediate Tokens</small>
 
 
-| 🔥: 83 \| 💬: [35](https://news.ycombinator.com/item?id=44074111) \| 🗓️ 2025-05-23
+| 🔥: 89 \| 💬: [45](https://news.ycombinator.com/item?id=44074111) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -143,7 +143,31 @@ hcker.news是一个**Hacker News的替代界面**，主打**时间线浏览模�
 
 ---
 
-## <a name="11"></a>11. 2030年的清晨日常 
+## <a name="11"></a>11. 注意力机制并非万能：现代Transformer技术演进 
+<small>🔗 [stephendiehl.com](https://www.stephendiehl.com/posts/post_transformers/): Attention Wasn't All We Needed</small>
+
+
+| 🔥: 89 \| 💬: [14](https://news.ycombinator.com/item?id=44075105) \| 🗓️ 2025-05-23
+
+
+<br />
+本文探讨了自《Attention Is All You Need》论文发表以来的多项重要技术改进，重点介绍了**分组查询注意力(GQA)**和**多头潜在注意力**两大核心优化。**GQA**通过共享键值头显著降低推理时的内存占用，而**潜在注意力**则引入可学习的中间向量，将计算复杂度从O(L²)降至O(L·N)。这些技术平衡了模型性能与计算效率，使Transformer能处理更长序列。文章还提供了PyTorch实现代码片段，展示关键技术细节。
+
+---
+
+## <a name="12"></a>12. 大语言模型判读不可靠：位置偏好、顺序效应与提示词敏感性问题 
+<small>🔗 [cip.org](https://www.cip.org/blog/llm-judges-are-unreliable): Positional preferences, order effects, prompt sensitivity undermine AI judgments</small>
+
+
+| 🔥: 87 \| 💬: [51](https://news.ycombinator.com/item?id=44074668) \| 🗓️ 2025-05-23
+
+
+<br />
+研究表明，**大语言模型（LLM）**在敏感领域（如招聘、法律）的决策中存在系统性偏差。**位置偏好**（选项B被选概率高达61%）、**顺序效应**（评分标准顺序影响结果）和**提示词敏感性**（细微改动导致输出大幅波动）严重削弱其可靠性。模型还表现出类似人类的认知偏差（如锚定效应），且不同模型偏差模式各异。解决方案包括使用中性标签、多模型验证及严格测试提示词组件，但根本问题源于LLM架构本身的不可预测性。开发者需警惕高风险场景的应用，并借助工具量化这些偏差。
+
+---
+
+## <a name="13"></a>13. 2030年的清晨日常 
 <small>🔗 [marginalia.nu](https://www.marginalia.nu/log/a_120_morning_routine_2030/): A 2030 Morning Routine</small>
 
 
@@ -155,35 +179,11 @@ hcker.news是一个**Hacker News的替代界面**，主打**时间线浏览模�
 
 ---
 
-## <a name="12"></a>12. 大语言模型判读不可靠：位置偏好、顺序效应与提示词敏感性问题 
-<small>🔗 [cip.org](https://www.cip.org/blog/llm-judges-are-unreliable): Positional preferences, order effects, prompt sensitivity undermine AI judgments</small>
-
-
-| 🔥: 79 \| 💬: [50](https://news.ycombinator.com/item?id=44074668) \| 🗓️ 2025-05-23
-
-
-<br />
-研究表明，**大语言模型（LLM）**在敏感领域（如招聘、法律）的决策中存在系统性偏差。**位置偏好**（选项B被选概率高达61%）、**顺序效应**（评分标准顺序影响结果）和**提示词敏感性**（细微改动导致输出大幅波动）严重削弱其可靠性。模型还表现出类似人类的认知偏差（如锚定效应），且不同模型偏差模式各异。解决方案包括使用中性标签、多模型验证及严格测试提示词组件，但根本问题源于LLM架构本身的不可预测性。开发者需警惕高风险场景的应用，并借助工具量化这些偏差。
-
----
-
-## <a name="13"></a>13. 注意力机制并非万能：现代Transformer技术演进 
-<small>🔗 [stephendiehl.com](https://www.stephendiehl.com/posts/post_transformers/): Attention Wasn't All We Needed</small>
-
-
-| 🔥: 78 \| 💬: [13](https://news.ycombinator.com/item?id=44075105) \| 🗓️ 2025-05-23
-
-
-<br />
-本文探讨了自《Attention Is All You Need》论文发表以来的多项重要技术改进，重点介绍了**分组查询注意力(GQA)**和**多头潜在注意力**两大核心优化。**GQA**通过共享键值头显著降低推理时的内存占用，而**潜在注意力**则引入可学习的中间向量，将计算复杂度从O(L²)降至O(L·N)。这些技术平衡了模型性能与计算效率，使Transformer能处理更长序列。文章还提供了PyTorch实现代码片段，展示关键技术细节。
-
----
-
 ## <a name="14"></a>14. 遗传算法驱动的群体模拟系统 
 <small>🔗 [attentionmech.github.io](https://attentionmech.github.io/genetic-boids/): Show HN: Genetic Boids Web Simulation</small>
 
 
-| 🔥: 73 \| 💬: [20](https://news.ycombinator.com/item?id=44075911) \| 🗓️ 2025-05-23
+| 🔥: 82 \| 💬: [20](https://news.ycombinator.com/item?id=44075911) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -195,7 +195,7 @@ hcker.news是一个**Hacker News的替代界面**，主打**时间线浏览模�
 <small>🔗 [abc.net.au](https://www.abc.net.au/news/science/2025-05-20/metre-treaty-anniversary-metric-system-measurement-metrology/105302024): The metre originated in the French Revolution</small>
 
 
-| 🔥: 63 \| 💬: [116](https://news.ycombinator.com/item?id=44073867) \| 🗓️ 2025-05-23
+| 🔥: 69 \| 💬: [127](https://news.ycombinator.com/item?id=44073867) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -207,7 +207,7 @@ hcker.news是一个**Hacker News的替代界面**，主打**时间线浏览模�
 <small>🔗 [github.com](https://github.com/MayankPratap/Samchika): Show HN: Samchika – A Java Library for Fast, Multithreaded File Processing</small>
 
 
-| 🔥: 54 \| 💬: [43](https://news.ycombinator.com/item?id=44072788) \| 🗓️ 2025-05-23
+| 🔥: 56 \| 💬: [43](https://news.ycombinator.com/item?id=44072788) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -219,7 +219,7 @@ Samchika（梵语“文件”之意）是一个**轻量级**、**多线程**的J
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/22/world/canada/alberta-separatism-referendum.html): Alberta separatism push roils Canada</small>
 
 
-| 🔥: 49 \| 💬: [195](https://news.ycombinator.com/item?id=44074684) \| 🗓️ 2025-05-23
+| 🔥: 52 \| 💬: [209](https://news.ycombinator.com/item?id=44074684) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -227,7 +227,19 @@ Samchika（梵语“文件”之意）是一个**轻量级**、**多线程**的J
 
 ---
 
-## <a name="18"></a>18. 瑞昱10美元微型万兆网卡即将登陆主板 
+## <a name="18"></a>18. 风洞的秘密世界 
+<small>🔗 [jordanwtaylor2.substack.com](https://jordanwtaylor2.substack.com/p/into-the-tunnel): Into The Tunnel: The secret life of wind tunnels</small>
+
+
+| 🔥: 47 \| 💬: [5](https://news.ycombinator.com/item?id=44074637) \| 🗓️ 2025-05-23
+
+
+<br />
+风洞是模拟气流环境的实验设备，从**NASA艾姆斯低速风洞**（全球最大，功率达104兆瓦）到法国超音速风洞和德国低温氮气风洞，形态多样。它们用于测试飞机、赛车甚至城市风场，通过**雷诺数**和**马赫数**等参数确保实验准确性。尽管计算机模拟兴起，风洞仍是验证复杂气动现象（如激波、颤振）的关键工具，结合荧光涂料、激光测速等技术获取数据。其独特价值在于平衡成本与安全性，填补理论与实景测试的鸿沟。
+
+---
+
+## <a name="19"></a>19. 瑞昱10美元微型万兆网卡即将登陆主板 
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/networking/realteks-usd10-tiny-10gbe-network-adapter-is-coming-to-motherboards-later-this-year): Realtek's $10 tiny 10GbE NIC will hit motherboards soon</small>
 
 
@@ -239,19 +251,31 @@ Samchika（梵语“文件”之意）是一个**轻量级**、**多线程**的J
 
 ---
 
-## <a name="19"></a>19. 风洞的秘密世界 
-<small>🔗 [jordanwtaylor2.substack.com](https://jordanwtaylor2.substack.com/p/into-the-tunnel): Into The Tunnel: The secret life of wind tunnels</small>
+## <a name="20"></a>20. 用Emacs的dired-mode替代文件管理器 
+<small>🔗 [lynn.sh](https://lynn.sh/guix-emacs-file-manager.html): Emacs dired-mode as a file manager</small>
 
 
-| 🔥: 42 \| 💬: [4](https://news.ycombinator.com/item?id=44074637) \| 🗓️ 2025-05-23
+| 🔥: 46 \| 💬: [26](https://news.ycombinator.com/item?id=44075388) \| 🗓️ 2025-05-23
 
 
 <br />
-风洞是模拟气流环境的实验设备，从**NASA艾姆斯低速风洞**（全球最大，功率达104兆瓦）到法国超音速风洞和德国低温氮气风洞，形态多样。它们用于测试飞机、赛车甚至城市风场，通过**雷诺数**和**马赫数**等参数确保实验准确性。尽管计算机模拟兴起，风洞仍是验证复杂气动现象（如激波、颤振）的关键工具，结合荧光涂料、激光测速等技术获取数据。其独特价值在于平衡成本与安全性，填补理论与实景测试的鸿沟。
+作者分享如何通过**Emacs**的**dired-mode**替代传统文件管理器（如Nautilus或Dolphin），并解决Linux系统中目录默认打开方式的问题。通过配置**xdg-mime**，将`inode/directory`类型关联到Emacs，实现直接以dired模式打开文件夹。文中提供了Guix系统的具体配置代码，并建议扩展其他MIME类型（如图片、文本）以实现更统一的文件管理。最后推荐了Guix配置框架rde，帮助用户构建可复现的系统。
 
 ---
 
-## <a name="20"></a>20. 破折号的逆袭：人类专属标点符号「Am Dash」诞生 
+## <a name="21"></a>21. 谷歌AI模式被出版商指责为"盗窃行为" 
+<small>🔗 [9to5google.com](https://9to5google.com/2025/05/22/google-ai-mode-theft-publisher-opt-out-controls/): Google's AI Mode is 'the definition of theft,' publishers say</small>
+
+
+| 🔥: 43 \| 💬: [42](https://news.ycombinator.com/item?id=44075346) \| 🗓️ 2025-05-23
+
+
+<br />
+2025年5月23日，Abner Li报道称，出版商集体批评**谷歌的AI摘要功能**未经许可抓取内容，称其**"本质上是盗窃"**。该争议源于Android 16 QPR1 Beta 1测试版中新增的AI功能，可自动生成网页内容摘要，但未向原创者提供补偿或流量回馈。出版商强调，此举将**破坏内容生态**，威胁行业可持续发展。
+
+---
+
+## <a name="22"></a>22. 破折号的逆袭：人类专属标点符号「Am Dash」诞生 
 <small>🔗 [theamdash.com](https://www.theamdash.com): Amdash – Human only punctuation mark</small>
 
 
@@ -260,17 +284,5 @@ Samchika（梵语“文件”之意）是一个**轻量级**、**多线程**的J
 
 <br />
 在AI泛滥的时代，**破折号（em dash）**因被算法文本滥用而失去人类书写的神韵。为此，设计师推出**「Am Dash」**——一个象征真实思考与创作的新标点，仅限人类使用。配套字体Times New Human和Areal可通过输入"am-"自动生成该符号。ChatGPT评价其是**「对AI空洞文本的文化修正」**，像指纹般标记人类思想的独特性。这一设计既是对AI的幽默反击，也是对文学灵魂的捍卫。
-
----
-
-## <a name="21"></a>21. 谷歌AI模式被出版商指责为"盗窃行为" 
-<small>🔗 [9to5google.com](https://9to5google.com/2025/05/22/google-ai-mode-theft-publisher-opt-out-controls/): Google's AI Mode is 'the definition of theft,' publishers say</small>
-
-
-| 🔥: 39 \| 💬: [38](https://news.ycombinator.com/item?id=44075346) \| 🗓️ 2025-05-23
-
-
-<br />
-2025年5月23日，Abner Li报道称，出版商集体批评**谷歌的AI摘要功能**未经许可抓取内容，称其**"本质上是盗窃"**。该争议源于Android 16 QPR1 Beta 1测试版中新增的AI功能，可自动生成网页内容摘要，但未向原创者提供补偿或流量回馈。出版商强调，此举将**破坏内容生态**，威胁行业可持续发展。
 
 ---
