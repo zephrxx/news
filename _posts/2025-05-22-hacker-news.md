@@ -27,7 +27,7 @@ tags:
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/claude-4): Claude 4</small>
 
 
-| 🔥🔥: 1436 \| 💬: [766](https://news.ycombinator.com/item?id=44063703) \| 🗓️ 2025-05-22
+| 🔥🔥: 1480 \| 💬: [806](https://news.ycombinator.com/item?id=44063703) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -39,7 +39,7 @@ Anthropic推出**Claude Opus 4**和**Claude Sonnet 4**，前者成为全球最�
 <small>🔗 [support.mozilla.org](https://support.mozilla.org/en-US/kb/future-of-pocket): Mozilla to shut down Pocket on July 8</small>
 
 
-| 🔥🔥: 755 \| 💬: [485](https://news.ycombinator.com/item?id=44063662) \| 🗓️ 2025-05-22
+| 🔥🔥: 784 \| 💬: [497](https://news.ycombinator.com/item?id=44063662) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -51,7 +51,7 @@ Mozilla宣布将于**2025年7月8日**正式关闭**Pocket**服务，用户可�
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/22/us/politics/trump-harvard-international-students.html): Trump administration halts Harvard's ability to enroll international students</small>
 
 
-| 🔥🔥: 613 \| 💬: [627](https://news.ycombinator.com/item?id=44064631) \| 🗓️ 2025-05-22
+| 🔥🔥: 633 \| 💬: [653](https://news.ycombinator.com/item?id=44064631) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -63,7 +63,7 @@ Mozilla宣布将于**2025年7月8日**正式关闭**Pocket**服务，用户可�
 <small>🔗 [somethingaboutmaps.wordpress.com](https://somethingaboutmaps.wordpress.com/2025/05/20/planetfall/): Planetfall</small>
 
 
-| 🔥🔥: 308 \| 💬: [84](https://news.ycombinator.com/item?id=44060305) \| 🗓️ 2025-05-22
+| 🔥🔥: 315 \| 💬: [86](https://news.ycombinator.com/item?id=44060305) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -75,7 +75,7 @@ Mozilla宣布将于**2025年7月8日**正式关闭**Pocket**服务，用户可�
 <small>🔗 [chriskw.xyz](https://chriskw.xyz/2025/05/21/Fractal/): That fractal that's been up on my wall for years</small>
 
 
-| 🔥🔥: 295 \| 💬: [19](https://news.ycombinator.com/item?id=44063248) \| 🗓️ 2025-05-22
+| 🔥🔥: 307 \| 💬: [19](https://news.ycombinator.com/item?id=44063248) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -87,7 +87,7 @@ Mozilla宣布将于**2025年7月8日**正式关闭**Pocket**服务，用户可�
 <small>🔗 [ohadravid.github.io](https://ohadravid.github.io/posts/2025-05-rav1d-faster/): Improving performance of rav1d video decoder</small>
 
 
-| 🔥🔥: 246 \| 💬: [84](https://news.ycombinator.com/item?id=44061160) \| 🗓️ 2025-05-22
+| 🔥🔥: 249 \| 💬: [87](https://news.ycombinator.com/item?id=44061160) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -99,7 +99,7 @@ Mozilla宣布将于**2025年7月8日**正式关闭**Pocket**服务，用户可�
 <small>🔗 [railsatscale.com](https://railsatscale.com/2025-05-21-fast-allocations-in-ruby-3-5/): Fast Allocations in Ruby 3.5</small>
 
 
-| 🔥🔥: 173 \| 💬: [42](https://news.ycombinator.com/item?id=44062160) \| 🗓️ 2025-05-22
+| 🔥🔥: 182 \| 💬: [42](https://news.ycombinator.com/item?id=44062160) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -111,7 +111,7 @@ Ruby 3.5 通过**内联 `Class#new` 方法**显著加快了对象分配速度，
 <small>🔗 [nexo.sh](https://nexo.sh/posts/why-i-built-a-native-mp3-player-in-swiftui/): I Built My Own Audio Player</small>
 
 
-| 🔥🔥: 165 \| 💬: [87](https://news.ycombinator.com/item?id=44062227) \| 🗓️ 2025-05-22
+| 🔥🔥: 171 \| 💬: [88](https://news.ycombinator.com/item?id=44062227) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -123,7 +123,7 @@ Ruby 3.5 通过**内联 `Class#new` 方法**显著加快了对象分配速度，
 <small>🔗 [github.com](https://github.com/sqliteai/sqlite-js): Show HN: SQLite JavaScript - extend your database with JavaScript</small>
 
 
-| 🔥🔥: 138 \| 💬: [41](https://news.ycombinator.com/item?id=44061836) \| 🗓️ 2025-05-22
+| 🔥🔥: 142 \| 💬: [43](https://news.ycombinator.com/item?id=44061836) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -131,11 +131,23 @@ Ruby 3.5 通过**内联 `Class#new` 方法**显著加快了对象分配速度，
 
 ---
 
-## <a name="10"></a>10. MCP协议：简化AI应用集成的关键工具 
+## <a name="10"></a>10. 副驾驶的幻觉 
+<small>🔗 [deplet.ing](https://deplet.ing/the-copilot-delusion/): The copilot delusion</small>
+
+
+| 🔥🔥: 142 \| 💬: [105](https://news.ycombinator.com/item?id=44068525) \| 🗓️ 2025-05-22
+
+
+<br />
+作者以辛辣的笔触批判AI编程助手（如GitHub Copilot）的局限性：**看似高效实则危险**，如同一个不读需求、乱改全局状态的菜鸟同事。它能快速生成语法正确的代码，却缺乏对系统、性能或边缘case的理解，**像“高功能实习生”需要严格监督**。开发者若过度依赖这类工具，将丧失对底层硬件的掌控力，代码质量退化。真正的编程应直面机器本质——**缓存、内存、分支预测等细节才是性能关键**，而AI无法理解这些。工具可用作脚手架，但绝不能替代思考。
+
+---
+
+## <a name="11"></a>11. MCP协议：简化AI应用集成的关键工具 
 <small>🔗 [blog.nilenso.com](https://blog.nilenso.com/blog/2025/05/12/mcp-explained-without-hype-or-fluff/): MCP explained without hype or fluff</small>
 
 
-| 🔥🔥: 128 \| 💬: [61](https://news.ycombinator.com/item?id=44063141) \| 🗓️ 2025-05-22
+| 🔥🔥: 130 \| 💬: [62](https://news.ycombinator.com/item?id=44063141) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -143,11 +155,11 @@ Ruby 3.5 通过**内联 `Class#new` 方法**显著加快了对象分配速度，
 
 ---
 
-## <a name="11"></a>11. 美国间谍机构打造“一站式”个人数据采购平台 
+## <a name="12"></a>12. 美国间谍机构打造“一站式”个人数据采购平台 
 <small>🔗 [theintercept.com](https://theintercept.com/2025/05/22/intel-agencies-buying-data-portal-privacy/): U.S. Spy Agencies–One-Stop Shop to Buy Your Personal Data</small>
 
 
-| 🔥🔥: 125 \| 💬: [60](https://news.ycombinator.com/item?id=44062586) \| 🗓️ 2025-05-22
+| 🔥🔥: 126 \| 💬: [60](https://news.ycombinator.com/item?id=44062586) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -155,11 +167,11 @@ Ruby 3.5 通过**内联 `Class#new` 方法**显著加快了对象分配速度，
 
 ---
 
-## <a name="12"></a>12. Defuddle：一款替代Readability的HTML转Markdown工具 
+## <a name="13"></a>13. Defuddle：一款替代Readability的HTML转Markdown工具 
 <small>🔗 [github.com](https://github.com/kepano/defuddle): Show HN: Defuddle, an HTML-to-Markdown alternative to Readability</small>
 
 
-| 🔥🔥: 109 \| 💬: [19](https://news.ycombinator.com/item?id=44067409) \| 🗓️ 2025-05-22
+| 🔥🔥: 121 \| 💬: [27](https://news.ycombinator.com/item?id=44067409) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -169,11 +181,11 @@ Defuddle 是一个用于**提取网页主要内容**的工具，能自动清除�
 
 ---
 
-## <a name="13"></a>13. 《AI 2027》场景：是危言耸听还是未来预言？ 
+## <a name="14"></a>14. 《AI 2027》场景：是危言耸听还是未来预言？ 
 <small>🔗 [garymarcus.substack.com](https://garymarcus.substack.com/p/the-ai-2027-scenario-how-realistic): The "AI 2027" Scenario: How realistic is it?</small>
 
 
-| 🔥: 99 \| 💬: [167](https://news.ycombinator.com/item?id=44064504) \| 🗓️ 2025-05-22
+| 🔥🔥: 101 \| 💬: [173](https://news.ycombinator.com/item?id=44064504) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -181,23 +193,23 @@ Gary Marcus对《AI 2027》这份引发热议的“科幻式报告”提出质�
 
 ---
 
-## <a name="14"></a>14. 副驾驶的幻觉 
-<small>🔗 [deplet.ing](https://deplet.ing/the-copilot-delusion/): The Copilot Delusion</small>
+## <a name="15"></a>15. Flatpak的未来：机遇与挑战并存 
+<small>🔗 [lwn.net](https://lwn.net/Articles/1020571/): The Future of Flatpak</small>
 
 
-| 🔥: 86 \| 💬: [49](https://news.ycombinator.com/item?id=44068525) \| 🗓️ 2025-05-22
+| 🔥: 96 \| 💬: [28](https://news.ycombinator.com/item?id=44068400) \| 🗓️ 2025-05-22
 
 
 <br />
-作者以辛辣的笔触批判AI编程助手（如GitHub Copilot）的局限性：**看似高效实则危险**，如同一个不读需求、乱改全局状态的菜鸟同事。它能快速生成语法正确的代码，却缺乏对系统、性能或边缘case的理解，**像“高功能实习生”需要严格监督**。开发者若过度依赖这类工具，将丧失对底层硬件的掌控力，代码质量退化。真正的编程应直面机器本质——**缓存、内存、分支预测等细节才是性能关键**，而AI无法理解这些。工具可用作脚手架，但绝不能替代思考。
+在2025年Linux应用峰会上，Sebastian Wick指出**Flatpak**虽在开发者与用户中广受欢迎，但项目开发已陷入停滞。核心开发者流失导致新功能审核缓慢，例如OCI镜像支持、权限细化（如`--device=input`）等改进长期搁置。此外，**沙箱隔离**存在缺陷（如嵌套沙箱不支持、网络命名空间安全隐患），且NVIDIA驱动兼容性问题加重用户负担。Wick呼吁社区关注**门户（Portals）**优化与驱动共享方案，以提升生态可持续性。尽管Flatpak功能稳定，但缺乏活跃开发恐阻碍其长期发展。
 
 ---
 
-## <a name="15"></a>15. 用模型上下文协议探索符号代数的奇妙之旅 
+## <a name="16"></a>16. 用模型上下文协议探索符号代数的奇妙之旅 
 <small>🔗 [stephendiehl.com](https://www.stephendiehl.com/posts/computer_algebra_mcp/): Adventures in Symbolic Algebra with Model Context Protocol</small>
 
 
-| 🔥: 84 \| 💬: [20](https://news.ycombinator.com/item?id=44062130) \| 🗓️ 2025-05-22
+| 🔥: 86 \| 💬: [21](https://news.ycombinator.com/item?id=44062130) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -205,23 +217,11 @@ Gary Marcus对《AI 2027》这份引发热议的“科幻式报告”提出质�
 
 ---
 
-## <a name="16"></a>16. 抱歉，应届生：初级科技岗位正在消失 
-<small>🔗 [sfstandard.com](https://sfstandard.com/2025/05/20/silicon-valley-white-collar-recession-entry-level/): Sorry, grads: Entry-level tech jobs are getting wiped out</small>
-
-
-| 🔥: 81 \| 💬: [163](https://news.ycombinator.com/item?id=44061751) \| 🗓️ 2025-05-22
-
-
-<br />
-2025届毕业生面临严峻的就业市场，**大型科技公司**的应届生招聘比2019年减少超50%，而中高级岗位需求回升。**AI自动化**和公司缩减成本导致初级岗位锐减，许多毕业生转向读研或实习积累经验。国际学生和文科生尤其受冲击，即使名校背景也难保工作。专家警告，**AI迭代速度**可能很快超越学历提升的价值，呼吁政策应对潜在失业危机。
-
----
-
 ## <a name="17"></a>17. 如何在《卡坦岛》游戏中通过灌铅骰子作弊（2017年） 
 <small>🔗 [izbicki.me](https://izbicki.me/blog/how-to-cheat-at-settlers-of-catan-by-loading-the-dice-and-prove-it-with-p-values.html): How to cheat at settlers by loading the dice (2017)</small>
 
 
-| 🔥: 79 \| 💬: [61](https://news.ycombinator.com/item?id=44065094) \| 🗓️ 2025-05-22
+| 🔥: 83 \| 💬: [67](https://news.ycombinator.com/item?id=44065094) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -233,11 +233,23 @@ Gary Marcus对《AI 2027》这份引发热议的“科幻式报告”提出质�
 
 ---
 
-## <a name="18"></a>18. 如何高效加载大型JSON文件到Pydantic模型而不耗尽内存 
+## <a name="18"></a>18. 抱歉，应届生：初级科技岗位正在消失 
+<small>🔗 [sfstandard.com](https://sfstandard.com/2025/05/20/silicon-valley-white-collar-recession-entry-level/): Sorry, grads: Entry-level tech jobs are getting wiped out</small>
+
+
+| 🔥: 81 \| 💬: [163](https://news.ycombinator.com/item?id=44061751) \| 🗓️ 2025-05-22
+
+
+<br />
+2025届毕业生面临严峻的就业市场，**大型科技公司**的应届生招聘比2019年减少超50%，而中高级岗位需求回升。**AI自动化**和公司缩减成本导致初级岗位锐减，许多毕业生转向读研或实习积累经验。国际学生和文科生尤其受冲击，即使名校背景也难保工作。专家警告，**AI迭代速度**可能很快超越学历提升的价值，呼吁政策应对潜在失业危机。
+
+---
+
+## <a name="19"></a>19. 如何高效加载大型JSON文件到Pydantic模型而不耗尽内存 
 <small>🔗 [pythonspeed.com](https://pythonspeed.com/articles/pydantic-json-memory/): Loading Pydantic models from JSON without running out of memory</small>
 
 
-| 🔥: 74 \| 💬: [26](https://news.ycombinator.com/item?id=44064875) \| 🗓️ 2025-05-22
+| 🔥: 76 \| 💬: [27](https://news.ycombinator.com/item?id=44064875) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -245,7 +257,7 @@ Gary Marcus对《AI 2027》这份引发热议的“科幻式报告”提出质�
 
 ---
 
-## <a name="19"></a>19. JEP 519：对象头压缩技术正式发布 
+## <a name="20"></a>20. JEP 519：对象头压缩技术正式发布 
 <small>🔗 [openjdk.org](https://openjdk.org/jeps/519): JEP 519: Compact Object Headers</small>
 
 
@@ -257,7 +269,7 @@ JEP 519 将 **对象头压缩布局** 从实验性功能升级为正式功能。
 
 ---
 
-## <a name="20"></a>20. Glitch将终止应用托管服务 
+## <a name="21"></a>21. Glitch将终止应用托管服务 
 <small>🔗 [blog.glitch.com](https://blog.glitch.com/post/changes-are-coming-to-glitch/): We’ll be ending web hosting for your apps on Glitch</small>
 
 
@@ -269,11 +281,11 @@ Glitch宣布将于**2025年7月8日**停止项目托管和用户档案服务，�
 
 ---
 
-## <a name="21"></a>21. Three.js实现的4D球面投影曲面空间着色器 
+## <a name="22"></a>22. Three.js实现的4D球面投影曲面空间着色器 
 <small>🔗 [github.com](https://github.com/bntre/CurvedSpaceShader): Show HN: Curved Space Shader in Three.js (via 4D sphere projection)</small>
 
 
-| 🔥: 57 \| 💬: [19](https://news.ycombinator.com/item?id=44060772) \| 🗓️ 2025-05-22
+| 🔥: 58 \| 💬: [19](https://news.ycombinator.com/item?id=44060772) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -281,23 +293,11 @@ Glitch宣布将于**2025年7月8日**停止项目托管和用户档案服务，�
 
 ---
 
-## <a name="22"></a>22. 2分钟生成交互式产品演示的神器 
-<small>🔗 [snapdemo.io](https://snapdemo.io/): Show HN: I created an tool that creates interactive product demos in 2 minutes</small>
-
-
-| 🔥: 53 \| 💬: [8](https://news.ycombinator.com/item?id=44061510) \| 🗓️ 2025-05-22
-
-
-<br />
-Snapdemo是一款帮助**营销、销售和开发团队**快速创建**交互式演示**的工具。通过浏览器扩展捕获产品界面，自动记录用户操作路径，支持添加**语音解说**和热点标注，还能嵌入网页或邮件分享。团队可实时协作编辑，AI功能可自动生成语音和文本注释。免费试用，无需信用卡，2分钟即可完成专业演示。
-
----
-
 ## <a name="23"></a>23. 一键切换Dock布局：DockFlow让macOS工作流更高效 
 <small>🔗 [dockflow.appitstudio.com](https://dockflow.appitstudio.com/): Show HN: DockFlow – Switch between multiple macOS Dock layouts instantly</small>
 
 
-| 🔥: 53 \| 💬: [37](https://news.ycombinator.com/item?id=44064057) \| 🗓️ 2025-05-22
+| 🔥: 54 \| 💬: [37](https://news.ycombinator.com/item?id=44064057) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -309,7 +309,7 @@ DockFlow是一款**macOS效率工具**，可快速保存和切换不同的Dock�
 <small>🔗 [seangoedecke.com](https://www.seangoedecke.com/limitations-of-text-diffusion-models/): Strengths and limitations of diffusion language models</small>
 
 
-| 🔥: 52 \| 💬: [7](https://news.ycombinator.com/item?id=44060533) \| 🗓️ 2025-05-22
+| 🔥: 53 \| 💬: [7](https://news.ycombinator.com/item?id=44060533) \| 🗓️ 2025-05-22
 
 
 <br />
@@ -317,18 +317,14 @@ DockFlow是一款**macOS效率工具**，可快速保存和切换不同的Dock�
 
 ---
 
-## <a name="25"></a>25. 韩炳哲的哲学：成就社会中的自我剥削与透明困境 
-<small>🔗 [newintrigue.com](https://newintrigue.com/2020/06/29/the-philosophy-of-byung-chul-han/): The Philosophy of Byung-Chul Han (2020)</small>
+## <a name="25"></a>25. 2分钟生成交互式产品演示的神器 
+<small>🔗 [snapdemo.io](https://snapdemo.io/): Show HN: I created an tool that creates interactive product demos in 2 minutes</small>
 
 
-| 🔥: 49 \| 💬: [18](https://news.ycombinator.com/item?id=44061698) \| 🗓️ 2025-05-22
+| 🔥: 53 \| 💬: [8](https://news.ycombinator.com/item?id=44061510) \| 🗓️ 2025-05-22
 
 
 <br />
-韩国裔德国哲学家**韩炳哲**以短小精悍的著作批判当代社会。他提出，21世纪已从福柯笔下的**规训社会**转变为**成就社会**，人们从“应该”的服从者变为“能够”的自我剥削者。这种对积极性的追求导致 burnout（倦怠）、孤独与真实性丧失。在《倦怠社会》中，他揭示**自我剥削**的悖论：我们疯狂追求成就，却陷入抑郁与空虚。  
-
-韩炳哲进一步指出，数字时代消除了**否定性**——社交媒体塑造的光滑表象（如 Instagram 的完美图像）剥夺了模糊性与他者性，使世界沦为自我的无限反射。在《透明社会》中，他警告：人们自愿暴露于数字全景监狱，自由反而成为控制工具。  
-
-最后，他呼吁回归**游戏精神**，超越功利化的“激情劳动”，重寻无目的的纯粹娱乐。韩炳哲的核心警示是：唯有接纳否定性、不完美与他者，才能挣脱成就社会的枷锁。
+Snapdemo是一款帮助**营销、销售和开发团队**快速创建**交互式演示**的工具。通过浏览器扩展捕获产品界面，自动记录用户操作路径，支持添加**语音解说**和热点标注，还能嵌入网页或邮件分享。团队可实时协作编辑，AI功能可自动生成语音和文本注释。免费试用，无需信用卡，2分钟即可完成专业演示。
 
 ---
