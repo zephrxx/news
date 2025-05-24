@@ -12,11 +12,11 @@ tags:
 1. 找到你的同路人；
 1. 为什么我的HTTPS网站不再使用传统证书；
 1. MCP：Web 2.0精神的复兴；
-1. OpenAI如何用PostgreSQL支撑亿级用户；
+1. 在美国如何靠每月432美元生活；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [techcommunity.microsoft.com](https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648): Postgres IDE in VS Code</small>
 
 
-| 🔥🔥: 636 \| 💬: [274](https://news.ycombinator.com/item?id=44073588) \| 🗓️ 2025-05-23
+| 🔥🔥: 662 \| 💬: [280](https://news.ycombinator.com/item?id=44073588) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [foundersatwork.posthaven.com](https://foundersatwork.posthaven.com/find-your-people): Find Your People</small>
 
 
-| 🔥🔥: 333 \| 💬: [152](https://news.ycombinator.com/item?id=44074017) \| 🗓️ 2025-05-23
+| 🔥🔥: 362 \| 💬: [156](https://news.ycombinator.com/item?id=44074017) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [rachelbythebay.com](https://rachelbythebay.com/w/2025/05/22/ssl/): Why I no longer have an old-school cert on my HTTPS site</small>
 
 
-| 🔥🔥: 231 \| 💬: [227](https://news.ycombinator.com/item?id=44071690) \| 🗓️ 2025-05-23
+| 🔥🔥: 235 \| 💬: [230](https://news.ycombinator.com/item?id=44071690) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [anildash.com](https://www.anildash.com//2025/05/20/mcp-web20-20/): MCP is the coming of Web 2.0 2.0</small>
 
 
-| 🔥🔥: 175 \| 💬: [146](https://news.ycombinator.com/item?id=44073785) \| 🗓️ 2025-05-23
+| 🔥🔥: 183 \| 💬: [157](https://news.ycombinator.com/item?id=44073785) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -71,23 +71,11 @@ tags:
 
 ---
 
-## <a name="5"></a>5. OpenAI如何用PostgreSQL支撑亿级用户 
-<small>🔗 [pixelstech.net](https://www.pixelstech.net/article/1747708863-openai%3a-scaling-postgresql-to-the-next-level): OpenAI: Scaling PostgreSQL to the Next Level</small>
-
-
-| 🔥🔥: 173 \| 💬: [119](https://news.ycombinator.com/item?id=44071418) \| 🗓️ 2025-05-23
-
-
-<br />
-OpenAI在PGConf.dev 2025上分享了其**非分片架构**的PostgreSQL实践：单主库+40+只读副本支撑5亿用户，读写峰值超百万QPS。**主库写入瓶颈**通过写操作卸载、查询优化和轻量级Schema变更缓解，同时利用跨地域副本降低延迟。案例显示，即使顶级硬件和Azure托管服务仍需应对WAL复制延迟、索引膨胀等问题。OpenAI呼吁社区改进索引禁用、监控指标和Schema变更历史功能。评论指出，单机PostgreSQL的扩展性再次验证“分布式数据库是伪需求”的观点。
-
----
-
-## <a name="6"></a>6. 在美国如何靠每月432美元生活 
+## <a name="5"></a>5. 在美国如何靠每月432美元生活 
 <small>🔗 [shagbark.substack.com](https://shagbark.substack.com/p/how-to-live-on-432-a-month-in-america): How to live on $432 a month in America</small>
 
 
-| 🔥🔥: 155 \| 💬: [287](https://news.ycombinator.com/item?id=44074340) \| 🗓️ 2025-05-23
+| 🔥🔥: 174 \| 💬: [322](https://news.ycombinator.com/item?id=44074340) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -95,11 +83,23 @@ OpenAI在PGConf.dev 2025上分享了其**非分片架构**的PostgreSQL实践：
 
 ---
 
+## <a name="6"></a>6. OpenAI如何用PostgreSQL支撑亿级用户 
+<small>🔗 [pixelstech.net](https://www.pixelstech.net/article/1747708863-openai%3a-scaling-postgresql-to-the-next-level): OpenAI: Scaling PostgreSQL to the Next Level</small>
+
+
+| 🔥🔥: 173 \| 💬: [121](https://news.ycombinator.com/item?id=44071418) \| 🗓️ 2025-05-23
+
+
+<br />
+OpenAI在PGConf.dev 2025上分享了其**非分片架构**的PostgreSQL实践：单主库+40+只读副本支撑5亿用户，读写峰值超百万QPS。**主库写入瓶颈**通过写操作卸载、查询优化和轻量级Schema变更缓解，同时利用跨地域副本降低延迟。案例显示，即使顶级硬件和Azure托管服务仍需应对WAL复制延迟、索引膨胀等问题。OpenAI呼吁社区改进索引禁用、监控指标和Schema变更历史功能。评论指出，单机PostgreSQL的扩展性再次验证“分布式数据库是伪需求”的观点。
+
+---
+
 ## <a name="7"></a>7. 我是如何成为也门航空飞行员并活下来的 
 <small>🔗 [pprune.org](https://www.pprune.org/terms-endearment/653181-yemenia-expat-contract-full-info.html): How I ended up flying for Yemen's national airline – and survived</small>
 
 
-| 🔥🔥: 154 \| 💬: [28](https://news.ycombinator.com/item?id=44072971) \| 🗓️ 2025-05-23
+| 🔥🔥: 158 \| 💬: [28](https://news.ycombinator.com/item?id=44072971) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -107,23 +107,11 @@ OpenAI在PGConf.dev 2025上分享了其**非分片架构**的PostgreSQL实践：
 
 ---
 
-## <a name="8"></a>8. 凯撒的最后一口气 
-<small>🔗 [charliesabino.com](https://charliesabino.com/caesars-last-breath/): Caesar's Last Breath</small>
-
-
-| 🔥🔥: 119 \| 💬: [49](https://news.ycombinator.com/item?id=44073185) \| 🗓️ 2025-05-23
-
-
-<br />
-每次呼吸时，我们大约会吸入**1个分子**来自凯撒临终前的最后一口气。这一惊人结论源自**费米估算**，通过简化计算得出：地球大气体积与单次呼吸体积之比约为1/10²²，而每次呼吸包含约10²²个分子。由此推断，我们吸入的空气可能混合了历史上所有人的气息，包括苏格拉底、爱因斯坦等。**估算技巧**和**数量级思维**是这一有趣推理的核心，展示了科学直觉的魅力。
-
----
-
-## <a name="9"></a>9. HN时间线视图：hcker.news——更符合人体工学的Hacker News前端 
+## <a name="8"></a>8. HN时间线视图：hcker.news——更符合人体工学的Hacker News前端 
 <small>🔗 [hcker.news](https://hcker.news): Show HN: hcker.news – an ergonomic, timeline-based Hacker News front page</small>
 
 
-| 🔥🔥: 118 \| 💬: [53](https://news.ycombinator.com/item?id=44075353) \| 🗓️ 2025-05-23
+| 🔥🔥: 126 \| 💬: [57](https://news.ycombinator.com/item?id=44075353) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -131,11 +119,23 @@ hcker.news是一个**Hacker News的替代界面**，主打**时间线浏览模�
 
 ---
 
+## <a name="9"></a>9. 凯撒的最后一口气 
+<small>🔗 [charliesabino.com](https://charliesabino.com/caesars-last-breath/): Caesar's Last Breath</small>
+
+
+| 🔥🔥: 122 \| 💬: [54](https://news.ycombinator.com/item?id=44073185) \| 🗓️ 2025-05-23
+
+
+<br />
+每次呼吸时，我们大约会吸入**1个分子**来自凯撒临终前的最后一口气。这一惊人结论源自**费米估算**，通过简化计算得出：地球大气体积与单次呼吸体积之比约为1/10²²，而每次呼吸包含约10²²个分子。由此推断，我们吸入的空气可能混合了历史上所有人的气息，包括苏格拉底、爱因斯坦等。**估算技巧**和**数量级思维**是这一有趣推理的核心，展示了科学直觉的魅力。
+
+---
+
 ## <a name="10"></a>10. 大语言模型判读不可靠：位置偏好、顺序效应与提示词敏感性问题 
 <small>🔗 [cip.org](https://www.cip.org/blog/llm-judges-are-unreliable): Positional preferences, order effects, prompt sensitivity undermine AI judgments</small>
 
 
-| 🔥: 96 \| 💬: [56](https://news.ycombinator.com/item?id=44074668) \| 🗓️ 2025-05-23
+| 🔥: 100 \| 💬: [56](https://news.ycombinator.com/item?id=44074668) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -147,7 +147,7 @@ hcker.news是一个**Hacker News的替代界面**，主打**时间线浏览模�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2505.13775): Beyond Semantics: Unreasonable Effectiveness of Reasonless Intermediate Tokens</small>
 
 
-| 🔥: 94 \| 💬: [47](https://news.ycombinator.com/item?id=44074111) \| 🗓️ 2025-05-23
+| 🔥: 99 \| 💬: [48](https://news.ycombinator.com/item?id=44074111) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -159,7 +159,7 @@ hcker.news是一个**Hacker News的替代界面**，主打**时间线浏览模�
 <small>🔗 [stephendiehl.com](https://www.stephendiehl.com/posts/post_transformers/): Attention Wasn't All We Needed</small>
 
 
-| 🔥: 93 \| 💬: [16](https://news.ycombinator.com/item?id=44075105) \| 🗓️ 2025-05-23
+| 🔥: 94 \| 💬: [17](https://news.ycombinator.com/item?id=44075105) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -171,7 +171,7 @@ hcker.news是一个**Hacker News的替代界面**，主打**时间线浏览模�
 <small>🔗 [attentionmech.github.io](https://attentionmech.github.io/genetic-boids/): Show HN: Genetic Boids Web Simulation</small>
 
 
-| 🔥: 87 \| 💬: [24](https://news.ycombinator.com/item?id=44075911) \| 🗓️ 2025-05-23
+| 🔥: 92 \| 💬: [25](https://news.ycombinator.com/item?id=44075911) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -183,7 +183,7 @@ hcker.news是一个**Hacker News的替代界面**，主打**时间线浏览模�
 <small>🔗 [marginalia.nu](https://www.marginalia.nu/log/a_120_morning_routine_2030/): A 2030 Morning Routine</small>
 
 
-| 🔥: 82 \| 💬: [30](https://news.ycombinator.com/item?id=44072110) \| 🗓️ 2025-05-23
+| 🔥: 82 \| 💬: [31](https://news.ycombinator.com/item?id=44072110) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -195,7 +195,7 @@ hcker.news是一个**Hacker News的替代界面**，主打**时间线浏览模�
 <small>🔗 [abc.net.au](https://www.abc.net.au/news/science/2025-05-20/metre-treaty-anniversary-metric-system-measurement-metrology/105302024): The metre originated in the French Revolution</small>
 
 
-| 🔥: 73 \| 💬: [130](https://news.ycombinator.com/item?id=44073867) \| 🗓️ 2025-05-23
+| 🔥: 75 \| 💬: [132](https://news.ycombinator.com/item?id=44073867) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -203,7 +203,19 @@ hcker.news是一个**Hacker News的替代界面**，主打**时间线浏览模�
 
 ---
 
-## <a name="16"></a>16. Samchika：Java高性能多线程文件处理库 
+## <a name="16"></a>16. 用Emacs的dired-mode替代文件管理器 
+<small>🔗 [lynn.sh](https://lynn.sh/guix-emacs-file-manager.html): Emacs dired-mode as a file manager</small>
+
+
+| 🔥: 63 \| 💬: [37](https://news.ycombinator.com/item?id=44075388) \| 🗓️ 2025-05-23
+
+
+<br />
+作者分享如何通过**Emacs**的**dired-mode**替代传统文件管理器（如Nautilus或Dolphin），并解决Linux系统中目录默认打开方式的问题。通过配置**xdg-mime**，将`inode/directory`类型关联到Emacs，实现直接以dired模式打开文件夹。文中提供了Guix系统的具体配置代码，并建议扩展其他MIME类型（如图片、文本）以实现更统一的文件管理。最后推荐了Guix配置框架rde，帮助用户构建可复现的系统。
+
+---
+
+## <a name="17"></a>17. Samchika：Java高性能多线程文件处理库 
 <small>🔗 [github.com](https://github.com/MayankPratap/Samchika): Show HN: Samchika – A Java Library for Fast, Multithreaded File Processing</small>
 
 
@@ -215,11 +227,11 @@ Samchika（梵语“文件”之意）是一个**轻量级**、**多线程**的J
 
 ---
 
-## <a name="17"></a>17. 加拿大阿尔伯塔省分离主义运动再起波澜 
+## <a name="18"></a>18. 加拿大阿尔伯塔省分离主义运动再起波澜 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/22/world/canada/alberta-separatism-referendum.html): Alberta separatism push roils Canada</small>
 
 
-| 🔥: 57 \| 💬: [217](https://news.ycombinator.com/item?id=44074684) \| 🗓️ 2025-05-23
+| 🔥: 58 \| 💬: [230](https://news.ycombinator.com/item?id=44074684) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -227,23 +239,23 @@ Samchika（梵语“文件”之意）是一个**轻量级**、**多线程**的J
 
 ---
 
-## <a name="18"></a>18. 用Emacs的dired-mode替代文件管理器 
-<small>🔗 [lynn.sh](https://lynn.sh/guix-emacs-file-manager.html): Emacs dired-mode as a file manager</small>
+## <a name="19"></a>19. 为朋友喝彩：成就彼此的飞轮效应 
+<small>🔗 [josephthacker.com](https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html): Root for Your Friends</small>
 
 
-| 🔥: 55 \| 💬: [33](https://news.ycombinator.com/item?id=44075388) \| 🗓️ 2025-05-23
+| 🔥: 55 \| 💬: [15](https://news.ycombinator.com/item?id=44077533) \| 🗓️ 2025-05-23
 
 
 <br />
-作者分享如何通过**Emacs**的**dired-mode**替代传统文件管理器（如Nautilus或Dolphin），并解决Linux系统中目录默认打开方式的问题。通过配置**xdg-mime**，将`inode/directory`类型关联到Emacs，实现直接以dired模式打开文件夹。文中提供了Guix系统的具体配置代码，并建议扩展其他MIME类型（如图片、文本）以实现更统一的文件管理。最后推荐了Guix配置框架rde，帮助用户构建可复现的系统。
+这篇文章倡导**为朋友的成功真诚欢呼**，摒弃嫉妒心理，认为人际关系是**正和博弈**而非零和竞争。核心在于建立**"喝彩飞轮"**：当你支持朋友时，他们会因感激而回馈，形成良性循环。关键在于识别那些当面直言、背后夸赞、主动引荐资源的真朋友，并主动成为他人的"喝彩者"——及时赞美、分享机会、提供建设性反馈。作者强调，即使对方未能回报，这种心态也能让自己活得更轻松。文末呼吁读者传递这份理念，让更多人加入互促成长的友谊模式。
 
 ---
 
-## <a name="19"></a>19. 风洞的秘密世界 
+## <a name="20"></a>20. 风洞的秘密世界 
 <small>🔗 [jordanwtaylor2.substack.com](https://jordanwtaylor2.substack.com/p/into-the-tunnel): Into The Tunnel: The secret life of wind tunnels</small>
 
 
-| 🔥: 50 \| 💬: [6](https://news.ycombinator.com/item?id=44074637) \| 🗓️ 2025-05-23
+| 🔥: 54 \| 💬: [6](https://news.ycombinator.com/item?id=44074637) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -251,11 +263,11 @@ Samchika（梵语“文件”之意）是一个**轻量级**、**多线程**的J
 
 ---
 
-## <a name="20"></a>20. 关于丢番图方程复杂度界限的形式化证明 
+## <a name="21"></a>21. 关于丢番图方程复杂度界限的形式化证明 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2505.16963): A Formal Proof of Complexity Bounds on Diophantine Equations</small>
 
 
-| 🔥: 50 \| 💬: [4](https://news.ycombinator.com/item?id=44076170) \| 🗓️ 2025-05-23
+| 🔥: 54 \| 💬: [5](https://news.ycombinator.com/item?id=44076170) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -263,11 +275,11 @@ Samchika（梵语“文件”之意）是一个**轻量级**、**多线程**的J
 
 ---
 
-## <a name="21"></a>21. 镜头设计师工具箱中的光学系统类型（2020） 
+## <a name="22"></a>22. 镜头设计师工具箱中的光学系统类型（2020） 
 <small>🔗 [pencilofrays.com](https://www.pencilofrays.com/lens-design-forms/): Types of optical systems in a lens designer's toolbox (2020)</small>
 
 
-| 🔥: 49 \| 💬: [8](https://news.ycombinator.com/item?id=44075254) \| 🗓️ 2025-05-23
+| 🔥: 51 \| 💬: [10](https://news.ycombinator.com/item?id=44075254) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -275,11 +287,11 @@ Samchika（梵语“文件”之意）是一个**轻量级**、**多线程**的J
 
 ---
 
-## <a name="22"></a>22. 瑞昱10美元微型万兆网卡即将登陆主板 
+## <a name="23"></a>23. 瑞昱10美元微型万兆网卡即将登陆主板 
 <small>🔗 [tomshardware.com](https://www.tomshardware.com/networking/realteks-usd10-tiny-10gbe-network-adapter-is-coming-to-motherboards-later-this-year): Realtek's $10 tiny 10GbE NIC will hit motherboards soon</small>
 
 
-| 🔥: 46 \| 💬: [42](https://news.ycombinator.com/item?id=44071701) \| 🗓️ 2025-05-23
+| 🔥: 47 \| 💬: [42](https://news.ycombinator.com/item?id=44071701) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -287,11 +299,11 @@ Samchika（梵语“文件”之意）是一个**轻量级**、**多线程**的J
 
 ---
 
-## <a name="23"></a>23. 谷歌AI模式被出版商指责为"盗窃行为" 
+## <a name="24"></a>24. 谷歌AI模式被出版商指责为"盗窃行为" 
 <small>🔗 [9to5google.com](https://9to5google.com/2025/05/22/google-ai-mode-theft-publisher-opt-out-controls/): Google's AI Mode is 'the definition of theft,' publishers say</small>
 
 
-| 🔥: 45 \| 💬: [44](https://news.ycombinator.com/item?id=44075346) \| 🗓️ 2025-05-23
+| 🔥: 45 \| 💬: [45](https://news.ycombinator.com/item?id=44075346) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -299,7 +311,7 @@ Samchika（梵语“文件”之意）是一个**轻量级**、**多线程**的J
 
 ---
 
-## <a name="24"></a>24. 破折号的逆袭：人类专属标点符号「Am Dash」诞生 
+## <a name="25"></a>25. 破折号的逆袭：人类专属标点符号「Am Dash」诞生 
 <small>🔗 [theamdash.com](https://www.theamdash.com): Amdash – Human only punctuation mark</small>
 
 
