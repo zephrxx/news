@@ -8,8 +8,8 @@ tags:
 ---
 
 
-1. 旋转电话拨号盘Linux内核驱动项目；
 1. 利用OpenAI o3模型发现Linux SMB内核零日漏洞；
+1. 旋转电话拨号盘Linux内核驱动项目；
 1. 小公司就该有小公司的样子；
 1. 树莓派2的“氙气死亡闪光”：相机如何差点杀死微型电脑；
 1. 香港竹制脚手架：传统工艺的坚守者；
@@ -23,23 +23,11 @@ tags:
 ![](/assets/images/hacker_news.jpg)
 
 
-## <a name="1"></a>1. 旋转电话拨号盘Linux内核驱动项目 
-<small>🔗 [gitlab.com](https://gitlab.com/sephalon/rotary_dial_kmod): Show HN: Rotary Phone Dial Linux Kernel Driver</small>
-
-
-| 🔥🔥: 255 \| 💬: [33](https://news.ycombinator.com/item?id=44080803) \| 🗓️ 2025-05-24
-
-
-<br />
-该项目开发了一个**Linux内核驱动**，可将老式**旋转电话拨号盘**转换为**evdev输入设备**，使其能在现代系统中使用。项目采用GNU通用公共许可证v2.0或更高版本，代码与文档已在GitHub开源。核心功能是通过硬件接口读取拨号脉冲信号，并映射为标准输入事件，适用于复古硬件改造或创意交互项目。
-
----
-
-## <a name="2"></a>2. 利用OpenAI o3模型发现Linux SMB内核零日漏洞 
+## <a name="1"></a>1. 利用OpenAI o3模型发现Linux SMB内核零日漏洞 
 <small>🔗 [sean.heelan.io](https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/): I used o3 to find a remote zeroday in the Linux SMB implementation</small>
 
 
-| 🔥🔥: 232 \| 💬: [61](https://news.ycombinator.com/item?id=44081338) \| 🗓️ 2025-05-24
+| 🔥🔥: 268 \| 💬: [79](https://news.ycombinator.com/item?id=44081338) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -47,11 +35,23 @@ tags:
 
 ---
 
+## <a name="2"></a>2. 旋转电话拨号盘Linux内核驱动项目 
+<small>🔗 [gitlab.com](https://gitlab.com/sephalon/rotary_dial_kmod): Show HN: Rotary Phone Dial Linux Kernel Driver</small>
+
+
+| 🔥🔥: 262 \| 💬: [35](https://news.ycombinator.com/item?id=44080803) \| 🗓️ 2025-05-24
+
+
+<br />
+该项目开发了一个**Linux内核驱动**，可将老式**旋转电话拨号盘**转换为**evdev输入设备**，使其能在现代系统中使用。项目采用GNU通用公共许可证v2.0或更高版本，代码与文档已在GitHub开源。核心功能是通过硬件接口读取拨号脉冲信号，并映射为标准输入事件，适用于复古硬件改造或创意交互项目。
+
+---
+
 ## <a name="3"></a>3. 小公司就该有小公司的样子 
 <small>🔗 [longform.asmartbear.com](https://longform.asmartbear.com/little-company/): You're a little company, now act like one</small>
 
 
-| 🔥🔥: 172 \| 💬: [29](https://news.ycombinator.com/item?id=44081494) \| 🗓️ 2025-05-24
+| 🔥🔥: 178 \| 💬: [31](https://news.ycombinator.com/item?id=44081494) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [magnus919.com](https://magnus919.com/2025/05/the-xenon-death-flash-how-a-camera-nearly-killed-the-raspberry-pi-2/): The Xenon Death Flash: How a Camera Nearly Killed the Raspberry Pi 2</small>
 
 
-| 🔥🔥: 154 \| 💬: [57](https://news.ycombinator.com/item?id=44080533) \| 🗓️ 2025-05-24
+| 🔥🔥: 161 \| 💬: [59](https://news.ycombinator.com/item?id=44080533) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/24/world/asia/hongkong-bamboo-scaffolding.html): Hong Kong's Famous Bamboo Scaffolding Hangs on (For Now)</small>
 
 
-| 🔥🔥: 130 \| 💬: [33](https://news.ycombinator.com/item?id=44080549) \| 🗓️ 2025-05-24
+| 🔥🔥: 135 \| 💬: [35](https://news.ycombinator.com/item?id=44080549) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [dynomight.net](https://dynomight.net/dumpy/): DumPy: NumPy except it's OK if you're dum</small>
 
 
-| 🔥🔥: 127 \| 💬: [43](https://news.ycombinator.com/item?id=44080181) \| 🗓️ 2025-05-24
+| 🔥🔥: 128 \| 💬: [44](https://news.ycombinator.com/item?id=44080181) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [paulgraham.com](https://paulgraham.com/goodwriting.html): Good Writing</small>
 
 
-| 🔥🔥: 111 \| 💬: [140](https://news.ycombinator.com/item?id=44081586) \| 🗓️ 2025-05-24
+| 🔥🔥: 119 \| 💬: [145](https://news.ycombinator.com/item?id=44081586) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -107,59 +107,11 @@ tags:
 
 ---
 
-## <a name="8"></a>8. AI、海德格尔与EVA：当技术吞噬人性 
-<small>🔗 [fakepixels.substack.com](https://fakepixels.substack.com/p/ai-heidegger-and-evangelion): AI, Heidegger, and Evangelion</small>
-
-
-| 🔥: 97 \| 💬: [52](https://news.ycombinator.com/item?id=44081346) \| 🗓️ 2025-05-24
-
-
-<br />
-本文探讨AI引发的存在焦虑：**算法 indifference（无差别性）**消解了人类对意图与叙事的渴求，海德格尔的**“座架”理论**揭示技术将万物降格为可优化资源。而《EVA》的**人类补完计划**隐喻了数字化时代个体性消亡的危机。核心矛盾在于：AI模仿情感却无真实体验，其空洞性迫使人类重新捍卫**不可量化的存在价值**——痛苦、诗意与偶然性才是人性的最后疆域。
-
----
-
-## <a name="9"></a>9. 微软支持的英国科技独角兽Builder.ai破产 
-<small>🔗 [ft.com](https://www.ft.com/content/9fdb4e2b-93ea-436d-92e5-fa76ee786caa): Microsoft-backed UK tech unicorn Builder.ai collapses into insolvency</small>
-
-
-| 🔥: 91 \| 💬: [72](https://news.ycombinator.com/item?id=44080640) \| 🗓️ 2025-05-24
-
-
-<br />
-英国科技公司**Builder.ai**（曾获微软投资）因财务问题进入破产程序。该公司此前估值超过10亿美元，成为**独角兽企业**，但如今面临清算。文章来自《金融时报》，需订阅查看全文，其订阅方案包括标准版、高级版及印刷+数字组合套餐，提供全球新闻、专家分析和独家内容。此次事件凸显科技初创企业在融资环境收紧下的生存挑战。
-
----
-
-## <a name="10"></a>10. 实时人脸识别摄像头或成英国警方“标配” 
-<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/24/police-live-facial-recognition-cameras-england-and-wales): Live facial recognition cameras may become 'commonplace' as police use soars</small>
-
-
-| 🔥: 89 \| 💬: [69](https://news.ycombinator.com/item?id=44082326) \| 🗓️ 2025-05-24
-
-
-<br />
-英国警方内部文件显示，**实时人脸识别技术**在英格兰和威尔士的应用激增，2024年扫描人脸数达470万，较前一年翻倍。该技术通过摄像头实时比对警方监视名单，被批评者视为“持续指纹采集”。尽管缺乏法律明确授权，警方已扩大使用范围，包括固定摄像头试点和接入护照、移民数据库。**争议焦点**包括技术误判（尤其对黑人群体）及隐私风险。伦敦警方称80%市民支持该技术，并强调通过调整算法减少偏见。内政部正筹建国家级人脸匹配系统，但立法框架仍缺失。
-
----
-
-## <a name="11"></a>11. AI连简单bug都修不好，却成了裁员的借口 
-<small>🔗 [nmn.gl](https://nmn.gl/blog/ai-scam): AI can't even fix a simple bug – but sure, let's fire engineers</small>
-
-
-| 🔥: 87 \| 💬: [107](https://news.ycombinator.com/item?id=44082293) \| 🗓️ 2025-05-24
-
-
-<br />
-GitHub Copilot代理在微软.NET运行时中提交了错误代码，**人类工程师反复纠正却无果**，而企业高管却以此为由裁员。作者指出，**AI只是企业掩盖过度招聘的幌子**，真正高效的团队是**人类与AI协作**。开发者应掌握AI工具、记录其局限性，并公开分享真实案例，证明人类在复杂问题中不可替代。当前AI仍频繁出错，工程师的工作依然安全。
-
----
-
-## <a name="12"></a>12. 重新发明轮子的价值 
+## <a name="8"></a>8. 重新发明轮子的价值 
 <small>🔗 [endler.dev](https://endler.dev/2025/reinvent-the-wheel/): Reinvent the Wheel</small>
 
 
-| 🔥: 86 \| 💬: [44](https://news.ycombinator.com/item?id=44083467) \| 🗓️ 2025-05-24
+| 🔥🔥: 114 \| 💬: [62](https://news.ycombinator.com/item?id=44083467) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -167,23 +119,11 @@ GitHub Copilot代理在微软.NET运行时中提交了错误代码，**人类工
 
 ---
 
-## <a name="13"></a>13. F2：跨平台命令行批量重命名工具 
-<small>🔗 [github.com](https://github.com/ayoisaiah/f2): Show HN: F2 – Cross-Platform CLI Batch Renaming Tool</small>
-
-
-| 🔥: 85 \| 💬: [12](https://news.ycombinator.com/item?id=44081850) \| 🗓️ 2025-05-24
-
-
-<br />
-F2是一款基于Go语言开发的**跨平台命令行工具**，专为快速、安全地批量重命名文件和目录设计。其核心优势包括：**默认模拟运行**（可预览修改效果）、支持**文件属性变量**（如EXIF或ID3标签）、丰富的正则表达式功能，以及冲突检测与自动修复。此外，F2提供高性能批量处理、**撤销操作**和详尽文档，适合从简单替换到复杂重命名需求。支持Windows、macOS和Linux，可通过Go安装或直接下载预编译二进制文件。开源项目采用MIT许可证，已获935星标。
-
----
-
-## <a name="14"></a>14. Tachy0n：最后一个0day越狱漏洞 
+## <a name="9"></a>9. Tachy0n：最后一个0day越狱漏洞 
 <small>🔗 [blog.siguza.net](https://blog.siguza.net/tachy0n/): Tachy0n: The Last 0day Jailbreak</small>
 
 
-| 🔥: 80 \| 💬: [4](https://news.ycombinator.com/item?id=44083388) \| 🗓️ 2025-05-24
+| 🔥🔥: 108 \| 💬: [9](https://news.ycombinator.com/item?id=44083388) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -191,23 +131,71 @@ F2是一款基于Go语言开发的**跨平台命令行工具**，专为快速、
 
 ---
 
-## <a name="15"></a>15. 蠢蛋进化论：反智社会的荒诞预言 
-<small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Idiocracy): Idiocracy</small>
+## <a name="10"></a>10. AI、海德格尔与EVA：当技术吞噬人性 
+<small>🔗 [fakepixels.substack.com](https://fakepixels.substack.com/p/ai-heidegger-and-evangelion): AI, Heidegger, and Evangelion</small>
 
 
-| 🔥: 79 \| 💬: [23](https://news.ycombinator.com/item?id=44079755) \| 🗓️ 2025-05-24
+| 🔥🔥: 104 \| 💬: [58](https://news.ycombinator.com/item?id=44081346) \| 🗓️ 2025-05-24
 
 
 <br />
-《蠢蛋进化论》是2006年由迈克·乔吉执导的科幻喜剧片，讲述一名普通军人**乔**和妓女**丽塔**在休眠实验后苏醒于500年后的未来。这个社会因**反智主义**和过度繁衍沦为低能文明，总统由运动饮料代言人担任，农作物用电解质饮料灌溉。影片以荒诞手法讽刺消费主义、基因衰退等议题。尽管上映时因片方消极宣传票房惨淡，但凭借尖锐的社会批判成为**邪典经典**。主演卢克·威尔逊与玛娅·鲁道夫的表演为黑色幽默增色，而片中“欢迎来好市多，我们爱你”等台词至今被影迷津津乐道。
+本文探讨AI引发的存在焦虑：**算法 indifference（无差别性）**消解了人类对意图与叙事的渴求，海德格尔的**“座架”理论**揭示技术将万物降格为可优化资源。而《EVA》的**人类补完计划**隐喻了数字化时代个体性消亡的危机。核心矛盾在于：AI模仿情感却无真实体验，其空洞性迫使人类重新捍卫**不可量化的存在价值**——痛苦、诗意与偶然性才是人性的最后疆域。
 
 ---
 
-## <a name="16"></a>16. 中银胶囊大厦的传奇遗产 
+## <a name="11"></a>11. 实时人脸识别摄像头或成英国警方“标配” 
+<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/24/police-live-facial-recognition-cameras-england-and-wales): Live facial recognition cameras may become 'commonplace' as police use soars</small>
+
+
+| 🔥🔥: 101 \| 💬: [77](https://news.ycombinator.com/item?id=44082326) \| 🗓️ 2025-05-24
+
+
+<br />
+英国警方内部文件显示，**实时人脸识别技术**在英格兰和威尔士的应用激增，2024年扫描人脸数达470万，较前一年翻倍。该技术通过摄像头实时比对警方监视名单，被批评者视为“持续指纹采集”。尽管缺乏法律明确授权，警方已扩大使用范围，包括固定摄像头试点和接入护照、移民数据库。**争议焦点**包括技术误判（尤其对黑人群体）及隐私风险。伦敦警方称80%市民支持该技术，并强调通过调整算法减少偏见。内政部正筹建国家级人脸匹配系统，但立法框架仍缺失。
+
+---
+
+## <a name="12"></a>12. 微软支持的英国科技独角兽Builder.ai破产 
+<small>🔗 [ft.com](https://www.ft.com/content/9fdb4e2b-93ea-436d-92e5-fa76ee786caa): Microsoft-backed UK tech unicorn Builder.ai collapses into insolvency</small>
+
+
+| 🔥: 91 \| 💬: [73](https://news.ycombinator.com/item?id=44080640) \| 🗓️ 2025-05-24
+
+
+<br />
+英国科技公司**Builder.ai**（曾获微软投资）因财务问题进入破产程序。该公司此前估值超过10亿美元，成为**独角兽企业**，但如今面临清算。文章来自《金融时报》，需订阅查看全文，其订阅方案包括标准版、高级版及印刷+数字组合套餐，提供全球新闻、专家分析和独家内容。此次事件凸显科技初创企业在融资环境收紧下的生存挑战。
+
+---
+
+## <a name="13"></a>13. F2：跨平台命令行批量重命名工具 
+<small>🔗 [github.com](https://github.com/ayoisaiah/f2): Show HN: F2 – Cross-Platform CLI Batch Renaming Tool</small>
+
+
+| 🔥: 88 \| 💬: [15](https://news.ycombinator.com/item?id=44081850) \| 🗓️ 2025-05-24
+
+
+<br />
+F2是一款基于Go语言开发的**跨平台命令行工具**，专为快速、安全地批量重命名文件和目录设计。其核心优势包括：**默认模拟运行**（可预览修改效果）、支持**文件属性变量**（如EXIF或ID3标签）、丰富的正则表达式功能，以及冲突检测与自动修复。此外，F2提供高性能批量处理、**撤销操作**和详尽文档，适合从简单替换到复杂重命名需求。支持Windows、macOS和Linux，可通过Go安装或直接下载预编译二进制文件。开源项目采用MIT许可证，已获935星标。
+
+---
+
+## <a name="14"></a>14. AI连简单bug都修不好，却成了裁员的借口 
+<small>🔗 [nmn.gl](https://nmn.gl/blog/ai-scam): AI can't even fix a simple bug – but sure, let's fire engineers</small>
+
+
+| 🔥: 87 \| 💬: [109](https://news.ycombinator.com/item?id=44082293) \| 🗓️ 2025-05-24
+
+
+<br />
+GitHub Copilot代理在微软.NET运行时中提交了错误代码，**人类工程师反复纠正却无果**，而企业高管却以此为由裁员。作者指出，**AI只是企业掩盖过度招聘的幌子**，真正高效的团队是**人类与AI协作**。开发者应掌握AI工具、记录其局限性，并公开分享真实案例，证明人类在复杂问题中不可替代。当前AI仍频繁出错，工程师的工作依然安全。
+
+---
+
+## <a name="15"></a>15. 中银胶囊大厦的传奇遗产 
 <small>🔗 [designboom.com](https://www.designboom.com/architecture/moma-nakagin-capsule-tower-exhibition-many-lives-museum-modern-art-new-york-05-23-2025/): The legacy of the iconic Nakagin capsule tower</small>
 
 
-| 🔥: 79 \| 💬: [22](https://news.ycombinator.com/item?id=44080820) \| 🗓️ 2025-05-24
+| 🔥: 81 \| 💬: [23](https://news.ycombinator.com/item?id=44080820) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -215,11 +203,23 @@ F2是一款基于Go语言开发的**跨平台命令行工具**，专为快速、
 
 ---
 
+## <a name="16"></a>16. 蠢蛋进化论：反智社会的荒诞预言 
+<small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Idiocracy): Idiocracy</small>
+
+
+| 🔥: 80 \| 💬: [23](https://news.ycombinator.com/item?id=44079755) \| 🗓️ 2025-05-24
+
+
+<br />
+《蠢蛋进化论》是2006年由迈克·乔吉执导的科幻喜剧片，讲述一名普通军人**乔**和妓女**丽塔**在休眠实验后苏醒于500年后的未来。这个社会因**反智主义**和过度繁衍沦为低能文明，总统由运动饮料代言人担任，农作物用电解质饮料灌溉。影片以荒诞手法讽刺消费主义、基因衰退等议题。尽管上映时因片方消极宣传票房惨淡，但凭借尖锐的社会批判成为**邪典经典**。主演卢克·威尔逊与玛娅·鲁道夫的表演为黑色幽默增色，而片中“欢迎来好市多，我们爱你”等台词至今被影迷津津乐道。
+
+---
+
 ## <a name="17"></a>17. SuperUtilsPlus：Lodash 的现代替代方案 
 <small>🔗 [github.com](https://github.com/dhaxor/super-utils-plus): Show HN: SuperUtilsPlus – A Modern Alternative to Lodash</small>
 
 
-| 🔥: 74 \| 💬: [53](https://news.ycombinator.com/item?id=44080808) \| 🗓️ 2025-05-24
+| 🔥: 75 \| 💬: [54](https://news.ycombinator.com/item?id=44080808) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -247,7 +247,7 @@ Lnk 是一个**Git 原生**的 dotfiles 管理工具，通过自动化符号链�
 <small>🔗 [ft.com](https://www.ft.com/content/0ab64ced-1ed1-466d-acd3-78510d10c3a1): Lone coder cracks 50-year puzzle to find Boggle's top-scoring board</small>
 
 
-| 🔥: 54 \| 💬: [12](https://news.ycombinator.com/item?id=44082892) \| 🗓️ 2025-05-24
+| 🔥: 69 \| 💬: [14](https://news.ycombinator.com/item?id=44082892) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -255,11 +255,23 @@ Lnk 是一个**Git 原生**的 dotfiles 管理工具，通过自动化符号链�
 
 ---
 
-## <a name="20"></a>20. 资深工程师如何与LLM高效结对编程 
+## <a name="20"></a>20. 久坐族的1分钟微锻炼指南 
+<small>🔗 [shortreps.com](https://shortreps.com): Show HN: 1 min workouts for people who sit all day</small>
+
+
+| 🔥: 59 \| 💬: [20](https://news.ycombinator.com/item?id=44083687) \| 🗓️ 2025-05-24
+
+
+<br />
+这款应用为久坐人群提供**全天候微锻炼方案**，通过碎片化运动提升健康：**增强心肺功能**（提高摄氧量、降血压）、**改善代谢**（调节血糖和胰岛素敏感度），并快速释放内啡肽**缓解压力**。无需器械，AI每日推送5个定制动作，附视频指导确保动作规范，内置习惯追踪功能激励坚持。随时随地，咖啡间隙也能完成！
+
+---
+
+## <a name="21"></a>21. 资深工程师如何与LLM高效结对编程 
 <small>🔗 [pmbanugo.me](https://pmbanugo.me/blog/peer-programming-with-llms): Peer Programming with LLMs, for Senior+ Engineers</small>
 
 
-| 🔥: 51 \| 💬: [22](https://news.ycombinator.com/item?id=44081081) \| 🗓️ 2025-05-24
+| 🔥: 58 \| 💬: [26](https://news.ycombinator.com/item?id=44081081) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -267,47 +279,11 @@ Lnk 是一个**Git 原生**的 dotfiles 管理工具，通过自动化符号链�
 
 ---
 
-## <a name="21"></a>21. 美国关税简史 
-<small>🔗 [imprimis.hillsdale.edu](https://imprimis.hillsdale.edu/tariffs-in-american-history/): Tariffs in American History</small>
-
-
-| 🔥: 43 \| 💬: [77](https://news.ycombinator.com/item?id=44080237) \| 🗓️ 2025-05-24
-
-
-<br />
-本文梳理了美国关税政策的演变：**关税**作为最古老的税种，早期用于增加财政收入，但殖民时期催生了大规模走私。独立后，**亚历山大·汉密尔顿**通过关税改革稳定经济，19世纪关税转向保护新兴工业，引发南北矛盾。1828年“可憎关税”激化分歧，甚至导致南卡罗来纳州威胁**废止联邦法律**。内战期间关税飙升，战后保护主义持续，直至20世纪初效率提升推动税率下降。1929年《斯姆特-霍利关税法》大幅提高税率，加剧大萧条，成为历史教训。
-
----
-
-## <a name="22"></a>22. 当我要求亚马逊告诉我Alexa听到的一切时，发现了什么 
-<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/24/what-i-discovered-when-i-asked-amazon-to-tell-me-everything-alexa-had-heard): What I discovered when I asked Amazon to tell me everything Alexa had heard</small>
-
-
-| 🔥: 43 \| 💬: [26](https://news.ycombinator.com/item?id=44083105) \| 🗓️ 2025-05-24
-
-
-<br />
-作者通过请求亚马逊提供Alexa的交互数据，揭示了智能音箱如何深度介入家庭生活。**15,000条语音记录**显示，Alexa不仅是音乐播放器和计时器，还充当了**兽医、家教和心理顾问**等角色。数据暴露了孩子的成长轨迹（如音乐品味变化）和隐私问题（如深夜提问）。尽管亚马逊声称录音仅在唤醒词后上传，但海量存储的**语音和文字记录**仍引发对隐私的担忧。家庭成员对Alexa的态度各异，尤其是女儿Coco将其视为私密倾诉对象，而成人更多用于实用功能。智能音箱的普及让亚马逊掌握了用户习惯、需求甚至未言明的欲望，这种“持续改进服务”的代价是否值得？
-
----
-
-## <a name="23"></a>23. 是时候停止向非统计专业学生教授频率学派方法了（2024） 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/1201.2590): It Is Time to Stop Teaching Frequentism to Non-Statisticians (2024)</small>
-
-
-| 🔥: 42 \| 💬: [41](https://news.ycombinator.com/item?id=44082494) \| 🗓️ 2025-05-24
-
-
-<br />
-该论文主张**用贝叶斯统计取代频率学派统计**作为本科统计教学的核心内容。作者William Briggs指出，频率学派方法导致大量**混淆和过度自信**，尤其对非统计专业学习者而言。他认为贝叶斯框架更直观，能减少误用，并提升统计推断的准确性。论文最初发布于2012年，但议题至今仍具争议性。
-
----
-
-## <a name="24"></a>24. 请为科学投入更多资金（2020） 
+## <a name="22"></a>22. 请为科学投入更多资金（2020） 
 <small>🔗 [blog.samaltman.com](https://blog.samaltman.com/please-fund-more-science): Please Fund More Science (2020)</small>
 
 
-| 🔥: 40 \| 💬: [26](https://news.ycombinator.com/item?id=44082968) \| 🗓️ 2025-05-24
+| 🔥: 52 \| 💬: [35](https://news.ycombinator.com/item?id=44082968) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -315,14 +291,38 @@ Lnk 是一个**Git 原生**的 dotfiles 管理工具，通过自动化符号链�
 
 ---
 
-## <a name="25"></a>25. 久坐族的1分钟微锻炼指南 
-<small>🔗 [shortreps.com](https://shortreps.com): Show HN: 1 min workouts for people who sit all day</small>
+## <a name="23"></a>23. 当我要求亚马逊告诉我Alexa听到的一切时，发现了什么 
+<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/24/what-i-discovered-when-i-asked-amazon-to-tell-me-everything-alexa-had-heard): What I discovered when I asked Amazon to tell me everything Alexa had heard</small>
 
 
-| 🔥: 39 \| 💬: [12](https://news.ycombinator.com/item?id=44083687) \| 🗓️ 2025-05-24
+| 🔥: 52 \| 💬: [31](https://news.ycombinator.com/item?id=44083105) \| 🗓️ 2025-05-24
 
 
 <br />
-这款应用为久坐人群提供**全天候微锻炼方案**，通过碎片化运动提升健康：**增强心肺功能**（提高摄氧量、降血压）、**改善代谢**（调节血糖和胰岛素敏感度），并快速释放内啡肽**缓解压力**。无需器械，AI每日推送5个定制动作，附视频指导确保动作规范，内置习惯追踪功能激励坚持。随时随地，咖啡间隙也能完成！
+作者通过请求亚马逊提供Alexa的交互数据，揭示了智能音箱如何深度介入家庭生活。**15,000条语音记录**显示，Alexa不仅是音乐播放器和计时器，还充当了**兽医、家教和心理顾问**等角色。数据暴露了孩子的成长轨迹（如音乐品味变化）和隐私问题（如深夜提问）。尽管亚马逊声称录音仅在唤醒词后上传，但海量存储的**语音和文字记录**仍引发对隐私的担忧。家庭成员对Alexa的态度各异，尤其是女儿Coco将其视为私密倾诉对象，而成人更多用于实用功能。智能音箱的普及让亚马逊掌握了用户习惯、需求甚至未言明的欲望，这种“持续改进服务”的代价是否值得？
+
+---
+
+## <a name="24"></a>24. 是时候停止向非统计专业学生教授频率学派方法了（2024） 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/1201.2590): It Is Time to Stop Teaching Frequentism to Non-Statisticians (2024)</small>
+
+
+| 🔥: 48 \| 💬: [42](https://news.ycombinator.com/item?id=44082494) \| 🗓️ 2025-05-24
+
+
+<br />
+该论文主张**用贝叶斯统计取代频率学派统计**作为本科统计教学的核心内容。作者William Briggs指出，频率学派方法导致大量**混淆和过度自信**，尤其对非统计专业学习者而言。他认为贝叶斯框架更直观，能减少误用，并提升统计推断的准确性。论文最初发布于2012年，但议题至今仍具争议性。
+
+---
+
+## <a name="25"></a>25. 美国关税简史 
+<small>🔗 [imprimis.hillsdale.edu](https://imprimis.hillsdale.edu/tariffs-in-american-history/): Tariffs in American History</small>
+
+
+| 🔥: 43 \| 💬: [79](https://news.ycombinator.com/item?id=44080237) \| 🗓️ 2025-05-24
+
+
+<br />
+本文梳理了美国关税政策的演变：**关税**作为最古老的税种，早期用于增加财政收入，但殖民时期催生了大规模走私。独立后，**亚历山大·汉密尔顿**通过关税改革稳定经济，19世纪关税转向保护新兴工业，引发南北矛盾。1828年“可憎关税”激化分歧，甚至导致南卡罗来纳州威胁**废止联邦法律**。内战期间关税飙升，战后保护主义持续，直至20世纪初效率提升推动税率下降。1929年《斯姆特-霍利关税法》大幅提高税率，加剧大萧条，成为历史教训。
 
 ---
