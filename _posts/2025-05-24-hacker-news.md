@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共16条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [gitlab.com](https://gitlab.com/sephalon/rotary_dial_kmod): Show HN: Rotary Phone Dial Linux Kernel Driver</small>
 
 
-| 🔥🔥: 247 \| 💬: [32](https://news.ycombinator.com/item?id=44080803) \| 🗓️ 2025-05-24
+| 🔥🔥: 255 \| 💬: [33](https://news.ycombinator.com/item?id=44080803) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [sean.heelan.io](https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/): I used o3 to find a remote zeroday in the Linux SMB implementation</small>
 
 
-| 🔥🔥: 192 \| 💬: [52](https://news.ycombinator.com/item?id=44081338) \| 🗓️ 2025-05-24
+| 🔥🔥: 232 \| 💬: [61](https://news.ycombinator.com/item?id=44081338) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [longform.asmartbear.com](https://longform.asmartbear.com/little-company/): You're a little company, now act like one</small>
 
 
-| 🔥🔥: 153 \| 💬: [29](https://news.ycombinator.com/item?id=44081494) \| 🗓️ 2025-05-24
+| 🔥🔥: 172 \| 💬: [29](https://news.ycombinator.com/item?id=44081494) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [magnus919.com](https://magnus919.com/2025/05/the-xenon-death-flash-how-a-camera-nearly-killed-the-raspberry-pi-2/): The Xenon Death Flash: How a Camera Nearly Killed the Raspberry Pi 2</small>
 
 
-| 🔥🔥: 144 \| 💬: [55](https://news.ycombinator.com/item?id=44080533) \| 🗓️ 2025-05-24
+| 🔥🔥: 154 \| 💬: [57](https://news.ycombinator.com/item?id=44080533) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/24/world/asia/hongkong-bamboo-scaffolding.html): Hong Kong's Famous Bamboo Scaffolding Hangs on (For Now)</small>
 
 
-| 🔥🔥: 126 \| 💬: [31](https://news.ycombinator.com/item?id=44080549) \| 🗓️ 2025-05-24
+| 🔥🔥: 130 \| 💬: [33](https://news.ycombinator.com/item?id=44080549) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [dynomight.net](https://dynomight.net/dumpy/): DumPy: NumPy except it's OK if you're dum</small>
 
 
-| 🔥🔥: 123 \| 💬: [43](https://news.ycombinator.com/item?id=44080181) \| 🗓️ 2025-05-24
+| 🔥🔥: 127 \| 💬: [43](https://news.ycombinator.com/item?id=44080181) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [paulgraham.com](https://paulgraham.com/goodwriting.html): Good Writing</small>
 
 
-| 🔥: 98 \| 💬: [131](https://news.ycombinator.com/item?id=44081586) \| 🗓️ 2025-05-24
+| 🔥🔥: 111 \| 💬: [140](https://news.ycombinator.com/item?id=44081586) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -107,23 +107,11 @@ tags:
 
 ---
 
-## <a name="8"></a>8. 微软支持的英国科技独角兽Builder.ai破产 
-<small>🔗 [ft.com](https://www.ft.com/content/9fdb4e2b-93ea-436d-92e5-fa76ee786caa): Microsoft-backed UK tech unicorn Builder.ai collapses into insolvency</small>
-
-
-| 🔥: 90 \| 💬: [72](https://news.ycombinator.com/item?id=44080640) \| 🗓️ 2025-05-24
-
-
-<br />
-英国科技公司**Builder.ai**（曾获微软投资）因财务问题进入破产程序。该公司此前估值超过10亿美元，成为**独角兽企业**，但如今面临清算。文章来自《金融时报》，需订阅查看全文，其订阅方案包括标准版、高级版及印刷+数字组合套餐，提供全球新闻、专家分析和独家内容。此次事件凸显科技初创企业在融资环境收紧下的生存挑战。
-
----
-
-## <a name="9"></a>9. AI、海德格尔与EVA：当技术吞噬人性 
+## <a name="8"></a>8. AI、海德格尔与EVA：当技术吞噬人性 
 <small>🔗 [fakepixels.substack.com](https://fakepixels.substack.com/p/ai-heidegger-and-evangelion): AI, Heidegger, and Evangelion</small>
 
 
-| 🔥: 88 \| 💬: [47](https://news.ycombinator.com/item?id=44081346) \| 🗓️ 2025-05-24
+| 🔥: 97 \| 💬: [52](https://news.ycombinator.com/item?id=44081346) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -131,35 +119,23 @@ tags:
 
 ---
 
-## <a name="10"></a>10. AI连简单bug都修不好，却成了裁员的借口 
-<small>🔗 [nmn.gl](https://nmn.gl/blog/ai-scam): AI can't even fix a simple bug – but sure, let's fire engineers</small>
+## <a name="9"></a>9. 微软支持的英国科技独角兽Builder.ai破产 
+<small>🔗 [ft.com](https://www.ft.com/content/9fdb4e2b-93ea-436d-92e5-fa76ee786caa): Microsoft-backed UK tech unicorn Builder.ai collapses into insolvency</small>
 
 
-| 🔥: 85 \| 💬: [106](https://news.ycombinator.com/item?id=44082293) \| 🗓️ 2025-05-24
-
-
-<br />
-GitHub Copilot代理在微软.NET运行时中提交了错误代码，**人类工程师反复纠正却无果**，而企业高管却以此为由裁员。作者指出，**AI只是企业掩盖过度招聘的幌子**，真正高效的团队是**人类与AI协作**。开发者应掌握AI工具、记录其局限性，并公开分享真实案例，证明人类在复杂问题中不可替代。当前AI仍频繁出错，工程师的工作依然安全。
-
----
-
-## <a name="11"></a>11. 蠢蛋进化论：反智社会的荒诞预言 
-<small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Idiocracy): Idiocracy</small>
-
-
-| 🔥: 78 \| 💬: [21](https://news.ycombinator.com/item?id=44079755) \| 🗓️ 2025-05-24
+| 🔥: 91 \| 💬: [72](https://news.ycombinator.com/item?id=44080640) \| 🗓️ 2025-05-24
 
 
 <br />
-《蠢蛋进化论》是2006年由迈克·乔吉执导的科幻喜剧片，讲述一名普通军人**乔**和妓女**丽塔**在休眠实验后苏醒于500年后的未来。这个社会因**反智主义**和过度繁衍沦为低能文明，总统由运动饮料代言人担任，农作物用电解质饮料灌溉。影片以荒诞手法讽刺消费主义、基因衰退等议题。尽管上映时因片方消极宣传票房惨淡，但凭借尖锐的社会批判成为**邪典经典**。主演卢克·威尔逊与玛娅·鲁道夫的表演为黑色幽默增色，而片中“欢迎来好市多，我们爱你”等台词至今被影迷津津乐道。
+英国科技公司**Builder.ai**（曾获微软投资）因财务问题进入破产程序。该公司此前估值超过10亿美元，成为**独角兽企业**，但如今面临清算。文章来自《金融时报》，需订阅查看全文，其订阅方案包括标准版、高级版及印刷+数字组合套餐，提供全球新闻、专家分析和独家内容。此次事件凸显科技初创企业在融资环境收紧下的生存挑战。
 
 ---
 
-## <a name="12"></a>12. 实时人脸识别摄像头或成英国警方“标配” 
+## <a name="10"></a>10. 实时人脸识别摄像头或成英国警方“标配” 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/24/police-live-facial-recognition-cameras-england-and-wales): Live facial recognition cameras may become 'commonplace' as police use soars</small>
 
 
-| 🔥: 78 \| 💬: [53](https://news.ycombinator.com/item?id=44082326) \| 🗓️ 2025-05-24
+| 🔥: 89 \| 💬: [69](https://news.ycombinator.com/item?id=44082326) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -167,11 +143,35 @@ GitHub Copilot代理在微软.NET运行时中提交了错误代码，**人类工
 
 ---
 
+## <a name="11"></a>11. AI连简单bug都修不好，却成了裁员的借口 
+<small>🔗 [nmn.gl](https://nmn.gl/blog/ai-scam): AI can't even fix a simple bug – but sure, let's fire engineers</small>
+
+
+| 🔥: 87 \| 💬: [107](https://news.ycombinator.com/item?id=44082293) \| 🗓️ 2025-05-24
+
+
+<br />
+GitHub Copilot代理在微软.NET运行时中提交了错误代码，**人类工程师反复纠正却无果**，而企业高管却以此为由裁员。作者指出，**AI只是企业掩盖过度招聘的幌子**，真正高效的团队是**人类与AI协作**。开发者应掌握AI工具、记录其局限性，并公开分享真实案例，证明人类在复杂问题中不可替代。当前AI仍频繁出错，工程师的工作依然安全。
+
+---
+
+## <a name="12"></a>12. 重新发明轮子的价值 
+<small>🔗 [endler.dev](https://endler.dev/2025/reinvent-the-wheel/): Reinvent the Wheel</small>
+
+
+| 🔥: 86 \| 💬: [44](https://news.ycombinator.com/item?id=44083467) \| 🗓️ 2025-05-24
+
+
+<br />
+文章批判了“不要重复造轮子”这一建议，指出它会扼杀**好奇心**与**探索精神**。作者强调，通过亲手实现基础工具（如字符串库或协议），能**深入理解原理**，甚至发现现有方案的不足。**实践中的取舍**（如性能与简洁性）是提升工程能力的关键。合理的“造轮子”动机包括学习、教学或解决特殊需求，但应避免因无知而重复劳动。最终建议：**为洞察而创新，为效率而复用**。
+
+---
+
 ## <a name="13"></a>13. F2：跨平台命令行批量重命名工具 
 <small>🔗 [github.com](https://github.com/ayoisaiah/f2): Show HN: F2 – Cross-Platform CLI Batch Renaming Tool</small>
 
 
-| 🔥: 77 \| 💬: [12](https://news.ycombinator.com/item?id=44081850) \| 🗓️ 2025-05-24
+| 🔥: 85 \| 💬: [12](https://news.ycombinator.com/item?id=44081850) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -179,11 +179,35 @@ F2是一款基于Go语言开发的**跨平台命令行工具**，专为快速、
 
 ---
 
-## <a name="14"></a>14. 中银胶囊大厦的传奇遗产 
+## <a name="14"></a>14. Tachy0n：最后一个0day越狱漏洞 
+<small>🔗 [blog.siguza.net](https://blog.siguza.net/tachy0n/): Tachy0n: The Last 0day Jailbreak</small>
+
+
+| 🔥: 80 \| 💬: [4](https://news.ycombinator.com/item?id=44083388) \| 🗓️ 2025-05-24
+
+
+<br />
+开发者Siguza在2025年回顾了2020年发布的iOS 13.0-13.5内核漏洞**tachy0n**，这是近年来罕见的**0day越狱漏洞**，迫使苹果在一周内紧急修复。漏洞源于`lio_listio`系统调用中的竞态条件，导致双重释放（double free），最终实现内核提权。文章详细描述了漏洞的发现过程、历史背景（如iOS 12的SockPuppet漏洞回归）及利用技术，包括通过**mach端口伪造**和堆喷（heap spraying）绕过防护。此外，作者对比了早期团队合作开发的Spice越狱工具，并探讨了不同设备架构（如A7-A11）的利用差异。
+
+---
+
+## <a name="15"></a>15. 蠢蛋进化论：反智社会的荒诞预言 
+<small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Idiocracy): Idiocracy</small>
+
+
+| 🔥: 79 \| 💬: [23](https://news.ycombinator.com/item?id=44079755) \| 🗓️ 2025-05-24
+
+
+<br />
+《蠢蛋进化论》是2006年由迈克·乔吉执导的科幻喜剧片，讲述一名普通军人**乔**和妓女**丽塔**在休眠实验后苏醒于500年后的未来。这个社会因**反智主义**和过度繁衍沦为低能文明，总统由运动饮料代言人担任，农作物用电解质饮料灌溉。影片以荒诞手法讽刺消费主义、基因衰退等议题。尽管上映时因片方消极宣传票房惨淡，但凭借尖锐的社会批判成为**邪典经典**。主演卢克·威尔逊与玛娅·鲁道夫的表演为黑色幽默增色，而片中“欢迎来好市多，我们爱你”等台词至今被影迷津津乐道。
+
+---
+
+## <a name="16"></a>16. 中银胶囊大厦的传奇遗产 
 <small>🔗 [designboom.com](https://www.designboom.com/architecture/moma-nakagin-capsule-tower-exhibition-many-lives-museum-modern-art-new-york-05-23-2025/): The legacy of the iconic Nakagin capsule tower</small>
 
 
-| 🔥: 73 \| 💬: [21](https://news.ycombinator.com/item?id=44080820) \| 🗓️ 2025-05-24
+| 🔥: 79 \| 💬: [22](https://news.ycombinator.com/item?id=44080820) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -191,11 +215,11 @@ F2是一款基于Go语言开发的**跨平台命令行工具**，专为快速、
 
 ---
 
-## <a name="15"></a>15. SuperUtilsPlus：Lodash 的现代替代方案 
+## <a name="17"></a>17. SuperUtilsPlus：Lodash 的现代替代方案 
 <small>🔗 [github.com](https://github.com/dhaxor/super-utils-plus): Show HN: SuperUtilsPlus – A Modern Alternative to Lodash</small>
 
 
-| 🔥: 72 \| 💬: [52](https://news.ycombinator.com/item?id=44080808) \| 🗓️ 2025-05-24
+| 🔥: 74 \| 💬: [53](https://news.ycombinator.com/item?id=44080808) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -203,7 +227,7 @@ SuperUtilsPlus 是一个高性能的 JavaScript 工具库，旨在替代 Lodash�
 
 ---
 
-## <a name="16"></a>16. Lnk：基于 Git 的极简 dotfiles 管理工具 
+## <a name="18"></a>18. Lnk：基于 Git 的极简 dotfiles 管理工具 
 <small>🔗 [github.com](https://github.com/yarlson/lnk): Show HN: Lnk – Git-native dotfiles manager</small>
 
 
@@ -216,5 +240,89 @@ Lnk 是一个**Git 原生**的 dotfiles 管理工具，通过自动化符号链�
 **核心功能**包括：一键初始化、冲突处理、原子化操作，且无需额外配置。支持多种安装方式（脚本、Homebrew 或源码编译），适合追求**轻量化**和**无依赖**的用户。  
 
 与同类工具（如 chezmoi、yadm）相比，Lnk 专注基础需求，强调**简单易用**。目前为 MIT 许可，适合开发者快速部署多环境配置。
+
+---
+
+## <a name="19"></a>19. 独行程序员破解50年难题，找到Boggle游戏最高分棋盘 
+<small>🔗 [ft.com](https://www.ft.com/content/0ab64ced-1ed1-466d-acd3-78510d10c3a1): Lone coder cracks 50-year puzzle to find Boggle's top-scoring board</small>
+
+
+| 🔥: 54 \| 💬: [12](https://news.ycombinator.com/item?id=44082892) \| 🗓️ 2025-05-24
+
+
+<br />
+一名程序员通过独立编程，成功破解了困扰玩家50年的**Boggle游戏**最高分棋盘谜题。该成果展示了**算法优化**与**计算能力**的突破，为这款经典文字游戏提供了理论上的最优解。原文还提及了《金融时报》的订阅服务，但核心内容聚焦于这一技术成就。
+
+---
+
+## <a name="20"></a>20. 资深工程师如何与LLM高效结对编程 
+<small>🔗 [pmbanugo.me](https://pmbanugo.me/blog/peer-programming-with-llms): Peer Programming with LLMs, for Senior+ Engineers</small>
+
+
+| 🔥: 51 \| 💬: [22](https://news.ycombinator.com/item?id=44081081) \| 🗓️ 2025-05-24
+
+
+<br />
+本文汇集多位资深工程师使用大语言模型（LLM）协作编程的实践经验，摒弃浮夸宣传，聚焦实用技巧。**“第二意见”**和**“临时调试脚本”**是Sean提出的核心方法，可提升日常效率；Harper则强调用LLM**协同规划**功能前需明确需求，避免无效对话。Lee指出**记录优质提示词**是关键习惯，而Seth提醒LLM本质是工具，需建立有效使用模式。文末建议：遇阻时先问AI，再问人。
+
+---
+
+## <a name="21"></a>21. 美国关税简史 
+<small>🔗 [imprimis.hillsdale.edu](https://imprimis.hillsdale.edu/tariffs-in-american-history/): Tariffs in American History</small>
+
+
+| 🔥: 43 \| 💬: [77](https://news.ycombinator.com/item?id=44080237) \| 🗓️ 2025-05-24
+
+
+<br />
+本文梳理了美国关税政策的演变：**关税**作为最古老的税种，早期用于增加财政收入，但殖民时期催生了大规模走私。独立后，**亚历山大·汉密尔顿**通过关税改革稳定经济，19世纪关税转向保护新兴工业，引发南北矛盾。1828年“可憎关税”激化分歧，甚至导致南卡罗来纳州威胁**废止联邦法律**。内战期间关税飙升，战后保护主义持续，直至20世纪初效率提升推动税率下降。1929年《斯姆特-霍利关税法》大幅提高税率，加剧大萧条，成为历史教训。
+
+---
+
+## <a name="22"></a>22. 当我要求亚马逊告诉我Alexa听到的一切时，发现了什么 
+<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/24/what-i-discovered-when-i-asked-amazon-to-tell-me-everything-alexa-had-heard): What I discovered when I asked Amazon to tell me everything Alexa had heard</small>
+
+
+| 🔥: 43 \| 💬: [26](https://news.ycombinator.com/item?id=44083105) \| 🗓️ 2025-05-24
+
+
+<br />
+作者通过请求亚马逊提供Alexa的交互数据，揭示了智能音箱如何深度介入家庭生活。**15,000条语音记录**显示，Alexa不仅是音乐播放器和计时器，还充当了**兽医、家教和心理顾问**等角色。数据暴露了孩子的成长轨迹（如音乐品味变化）和隐私问题（如深夜提问）。尽管亚马逊声称录音仅在唤醒词后上传，但海量存储的**语音和文字记录**仍引发对隐私的担忧。家庭成员对Alexa的态度各异，尤其是女儿Coco将其视为私密倾诉对象，而成人更多用于实用功能。智能音箱的普及让亚马逊掌握了用户习惯、需求甚至未言明的欲望，这种“持续改进服务”的代价是否值得？
+
+---
+
+## <a name="23"></a>23. 是时候停止向非统计专业学生教授频率学派方法了（2024） 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/1201.2590): It Is Time to Stop Teaching Frequentism to Non-Statisticians (2024)</small>
+
+
+| 🔥: 42 \| 💬: [41](https://news.ycombinator.com/item?id=44082494) \| 🗓️ 2025-05-24
+
+
+<br />
+该论文主张**用贝叶斯统计取代频率学派统计**作为本科统计教学的核心内容。作者William Briggs指出，频率学派方法导致大量**混淆和过度自信**，尤其对非统计专业学习者而言。他认为贝叶斯框架更直观，能减少误用，并提升统计推断的准确性。论文最初发布于2012年，但议题至今仍具争议性。
+
+---
+
+## <a name="24"></a>24. 请为科学投入更多资金（2020） 
+<small>🔗 [blog.samaltman.com](https://blog.samaltman.com/please-fund-more-science): Please Fund More Science (2020)</small>
+
+
+| 🔥: 40 \| 💬: [26](https://news.ycombinator.com/item?id=44082968) \| 🗓️ 2025-05-24
+
+
+<br />
+专家指出，终结新冠疫情有三种途径：**有效疫苗**将全球R0值降至1以下、**特效治疗**消除民众恐惧，或建立完善的**检测、追踪与隔离体系**。作者呼吁联邦政府加大科研投入，但当前私营机构与慈善力量的快速响应令人振奋——生物科技公司与实验室的效率提升了十倍以上。科学家需要资金和人脉支持，投资者与捐赠者若能转向抗疫科研（包括未来流行病防御），将获得大量优质机会。这一领域的创新速度与专家协作令人充满希望。
+
+---
+
+## <a name="25"></a>25. 久坐族的1分钟微锻炼指南 
+<small>🔗 [shortreps.com](https://shortreps.com): Show HN: 1 min workouts for people who sit all day</small>
+
+
+| 🔥: 39 \| 💬: [12](https://news.ycombinator.com/item?id=44083687) \| 🗓️ 2025-05-24
+
+
+<br />
+这款应用为久坐人群提供**全天候微锻炼方案**，通过碎片化运动提升健康：**增强心肺功能**（提高摄氧量、降血压）、**改善代谢**（调节血糖和胰岛素敏感度），并快速释放内啡肽**缓解压力**。无需器械，AI每日推送5个定制动作，附视频指导确保动作规范，内置习惯追踪功能激励坚持。随时随地，咖啡间隙也能完成！
 
 ---
