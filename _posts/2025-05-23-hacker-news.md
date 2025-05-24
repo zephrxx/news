@@ -27,7 +27,7 @@ tags:
 <small>🔗 [techcommunity.microsoft.com](https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648): Postgres IDE in VS Code</small>
 
 
-| 🔥🔥: 690 \| 💬: [286](https://news.ycombinator.com/item?id=44073588) \| 🗓️ 2025-05-23
+| 🔥🔥: 713 \| 💬: [294](https://news.ycombinator.com/item?id=44073588) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [foundersatwork.posthaven.com](https://foundersatwork.posthaven.com/find-your-people): Find Your People</small>
 
 
-| 🔥🔥: 392 \| 💬: [162](https://news.ycombinator.com/item?id=44074017) \| 🗓️ 2025-05-23
+| 🔥🔥: 419 \| 💬: [169](https://news.ycombinator.com/item?id=44074017) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [rachelbythebay.com](https://rachelbythebay.com/w/2025/05/22/ssl/): Why I no longer have an old-school cert on my HTTPS site</small>
 
 
-| 🔥🔥: 243 \| 💬: [233](https://news.ycombinator.com/item?id=44071690) \| 🗓️ 2025-05-23
+| 🔥🔥: 247 \| 💬: [240](https://news.ycombinator.com/item?id=44071690) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [shagbark.substack.com](https://shagbark.substack.com/p/how-to-live-on-432-a-month-in-america): How to live on $432 a month in America</small>
 
 
-| 🔥🔥: 194 \| 💬: [336](https://news.ycombinator.com/item?id=44074340) \| 🗓️ 2025-05-23
+| 🔥🔥: 211 \| 💬: [359](https://news.ycombinator.com/item?id=44074340) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [anildash.com](https://www.anildash.com//2025/05/20/mcp-web20-20/): MCP is the coming of Web 2.0 2.0</small>
 
 
-| 🔥🔥: 191 \| 💬: [160](https://news.ycombinator.com/item?id=44073785) \| 🗓️ 2025-05-23
+| 🔥🔥: 196 \| 💬: [162](https://news.ycombinator.com/item?id=44073785) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [pixelstech.net](https://www.pixelstech.net/article/1747708863-openai%3a-scaling-postgresql-to-the-next-level): OpenAI: Scaling PostgreSQL to the Next Level</small>
 
 
-| 🔥🔥: 176 \| 💬: [124](https://news.ycombinator.com/item?id=44071418) \| 🗓️ 2025-05-23
+| 🔥🔥: 176 \| 💬: [126](https://news.ycombinator.com/item?id=44071418) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -99,7 +99,7 @@ OpenAI在PGConf.dev 2025上分享了其**非分片架构**的PostgreSQL实践：
 <small>🔗 [pprune.org](https://www.pprune.org/terms-endearment/653181-yemenia-expat-contract-full-info.html): How I ended up flying for Yemen's national airline – and survived</small>
 
 
-| 🔥🔥: 160 \| 💬: [30](https://news.ycombinator.com/item?id=44072971) \| 🗓️ 2025-05-23
+| 🔥🔥: 162 \| 💬: [30](https://news.ycombinator.com/item?id=44072971) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -111,7 +111,7 @@ OpenAI在PGConf.dev 2025上分享了其**非分片架构**的PostgreSQL实践：
 <small>🔗 [hcker.news](https://hcker.news): Show HN: hcker.news – an ergonomic, timeline-based Hacker News front page</small>
 
 
-| 🔥🔥: 134 \| 💬: [60](https://news.ycombinator.com/item?id=44075353) \| 🗓️ 2025-05-23
+| 🔥🔥: 141 \| 💬: [63](https://news.ycombinator.com/item?id=44075353) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -123,7 +123,7 @@ hcker.news是一个**Hacker News的替代界面**，主打**时间线浏览模�
 <small>🔗 [charliesabino.com](https://charliesabino.com/caesars-last-breath/): Caesar's Last Breath</small>
 
 
-| 🔥🔥: 123 \| 💬: [54](https://news.ycombinator.com/item?id=44073185) \| 🗓️ 2025-05-23
+| 🔥🔥: 130 \| 💬: [55](https://news.ycombinator.com/item?id=44073185) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -135,7 +135,7 @@ hcker.news是一个**Hacker News的替代界面**，主打**时间线浏览模�
 <small>🔗 [cip.org](https://www.cip.org/blog/llm-judges-are-unreliable): Positional preferences, order effects, prompt sensitivity undermine AI judgments</small>
 
 
-| 🔥🔥: 103 \| 💬: [57](https://news.ycombinator.com/item?id=44074668) \| 🗓️ 2025-05-23
+| 🔥🔥: 109 \| 💬: [60](https://news.ycombinator.com/item?id=44074668) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -143,23 +143,11 @@ hcker.news是一个**Hacker News的替代界面**，主打**时间线浏览模�
 
 ---
 
-## <a name="11"></a>11. 超越语义：无意义中间标记的惊人有效性 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2505.13775): Beyond Semantics: Unreasonable Effectiveness of Reasonless Intermediate Tokens</small>
-
-
-| 🔥🔥: 101 \| 💬: [48](https://news.ycombinator.com/item?id=44074111) \| 🗓️ 2025-05-23
-
-
-<br />
-这篇论文挑战了当前对**思维链（CoT）**的普遍认知，认为中间标记的语义准确性并非模型性能的关键。研究者通过训练模型使用形式化验证的推理轨迹（如A*搜索算法），发现即使中间步骤错误，模型仍能输出正确答案。更惊人的是，使用**随机噪声替换正确中间标记**后，模型性能不仅未下降，有时甚至表现更好。这一结果表明，语言模型的“推理行为”可能被过度拟人化解读，**中间标记的实际作用可能与其表面语义无关**。研究呼吁谨慎对待CoT的解释性，避免将其等同于人类或算法的真实推理过程。
-
----
-
-## <a name="12"></a>12. 遗传算法驱动的群体模拟系统 
+## <a name="11"></a>11. 遗传算法驱动的群体模拟系统 
 <small>🔗 [attentionmech.github.io](https://attentionmech.github.io/genetic-boids/): Show HN: Genetic Boids Web Simulation</small>
 
 
-| 🔥: 98 \| 💬: [28](https://news.ycombinator.com/item?id=44075911) \| 🗓️ 2025-05-23
+| 🔥🔥: 107 \| 💬: [28](https://news.ycombinator.com/item?id=44075911) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -167,11 +155,35 @@ hcker.news是一个**Hacker News的替代界面**，主打**时间线浏览模�
 
 ---
 
-## <a name="13"></a>13. 注意力机制并非万能：现代Transformer技术演进 
+## <a name="12"></a>12. 改良对乙酰氨基酚分子以降低肝毒性并提升药效 
+<small>🔗 [societyforscience.org](https://www.societyforscience.org/regeneron-sts/2025-student-finalists/chloe-lee/): Modification of acetaminophen to reduce liver toxicity and enhance drug efficacy</small>
+
+
+| 🔥🔥: 107 \| 💬: [29](https://news.ycombinator.com/item?id=44077850) \| 🗓️ 2025-05-23
+
+
+<br />
+17岁的Chloe Lee通过研究**对乙酰氨基酚**（泰诺）的化学结构，尝试降低其肝毒性并保留止痛效果。她针对分子中的**苯环**进行修饰，通过计算机模型筛选出毒性更低、止痛效果可能更强的改良分子。这一成果为开发更安全的止痛药提供了新方向。Chloe不仅是科研新秀，还是一名获奖小提琴手，并积极推动校园STEM女性社群发展。
+
+---
+
+## <a name="13"></a>13. 超越语义：无意义中间标记的惊人有效性 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2505.13775): Beyond Semantics: Unreasonable Effectiveness of Reasonless Intermediate Tokens</small>
+
+
+| 🔥🔥: 106 \| 💬: [48](https://news.ycombinator.com/item?id=44074111) \| 🗓️ 2025-05-23
+
+
+<br />
+这篇论文挑战了当前对**思维链（CoT）**的普遍认知，认为中间标记的语义准确性并非模型性能的关键。研究者通过训练模型使用形式化验证的推理轨迹（如A*搜索算法），发现即使中间步骤错误，模型仍能输出正确答案。更惊人的是，使用**随机噪声替换正确中间标记**后，模型性能不仅未下降，有时甚至表现更好。这一结果表明，语言模型的“推理行为”可能被过度拟人化解读，**中间标记的实际作用可能与其表面语义无关**。研究呼吁谨慎对待CoT的解释性，避免将其等同于人类或算法的真实推理过程。
+
+---
+
+## <a name="14"></a>14. 注意力机制并非万能：现代Transformer技术演进 
 <small>🔗 [stephendiehl.com](https://www.stephendiehl.com/posts/post_transformers/): Attention Wasn't All We Needed</small>
 
 
-| 🔥: 95 \| 💬: [17](https://news.ycombinator.com/item?id=44075105) \| 🗓️ 2025-05-23
+| 🔥: 100 \| 💬: [17](https://news.ycombinator.com/item?id=44075105) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -179,7 +191,19 @@ hcker.news是一个**Hacker News的替代界面**，主打**时间线浏览模�
 
 ---
 
-## <a name="14"></a>14. 2030年的清晨日常 
+## <a name="15"></a>15. 为朋友喝彩：成就彼此的飞轮效应 
+<small>🔗 [josephthacker.com](https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html): Root for your friends</small>
+
+
+| 🔥: 99 \| 💬: [24](https://news.ycombinator.com/item?id=44077533) \| 🗓️ 2025-05-23
+
+
+<br />
+这篇文章倡导**为朋友的成功真诚欢呼**，摒弃嫉妒心理，认为人际关系是**正和博弈**而非零和竞争。核心在于建立**"喝彩飞轮"**：当你支持朋友时，他们会因感激而回馈，形成良性循环。关键在于识别那些当面直言、背后夸赞、主动引荐资源的真朋友，并主动成为他人的"喝彩者"——及时赞美、分享机会、提供建设性反馈。作者强调，即使对方未能回报，这种心态也能让自己活得更轻松。文末呼吁读者传递这份理念，让更多人加入互促成长的友谊模式。
+
+---
+
+## <a name="16"></a>16. 2030年的清晨日常 
 <small>🔗 [marginalia.nu](https://www.marginalia.nu/log/a_120_morning_routine_2030/): A 2030 Morning Routine</small>
 
 
@@ -191,11 +215,11 @@ hcker.news是一个**Hacker News的替代界面**，主打**时间线浏览模�
 
 ---
 
-## <a name="15"></a>15. 米制的起源：从法国大革命到现代科学 
+## <a name="17"></a>17. 米制的起源：从法国大革命到现代科学 
 <small>🔗 [abc.net.au](https://www.abc.net.au/news/science/2025-05-20/metre-treaty-anniversary-metric-system-measurement-metrology/105302024): The metre originated in the French Revolution</small>
 
 
-| 🔥: 78 \| 💬: [132](https://news.ycombinator.com/item?id=44073867) \| 🗓️ 2025-05-23
+| 🔥: 80 \| 💬: [134](https://news.ycombinator.com/item?id=44073867) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -203,35 +227,11 @@ hcker.news是一个**Hacker News的替代界面**，主打**时间线浏览模�
 
 ---
 
-## <a name="16"></a>16. 为朋友喝彩：成就彼此的飞轮效应 
-<small>🔗 [josephthacker.com](https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html): Root for your friends</small>
-
-
-| 🔥: 75 \| 💬: [19](https://news.ycombinator.com/item?id=44077533) \| 🗓️ 2025-05-23
-
-
-<br />
-这篇文章倡导**为朋友的成功真诚欢呼**，摒弃嫉妒心理，认为人际关系是**正和博弈**而非零和竞争。核心在于建立**"喝彩飞轮"**：当你支持朋友时，他们会因感激而回馈，形成良性循环。关键在于识别那些当面直言、背后夸赞、主动引荐资源的真朋友，并主动成为他人的"喝彩者"——及时赞美、分享机会、提供建设性反馈。作者强调，即使对方未能回报，这种心态也能让自己活得更轻松。文末呼吁读者传递这份理念，让更多人加入互促成长的友谊模式。
-
----
-
-## <a name="17"></a>17. 改良对乙酰氨基酚分子以降低肝毒性并提升药效 
-<small>🔗 [societyforscience.org](https://www.societyforscience.org/regeneron-sts/2025-student-finalists/chloe-lee/): Modification of acetaminophen to reduce liver toxicity and enhance drug efficacy</small>
-
-
-| 🔥: 71 \| 💬: [12](https://news.ycombinator.com/item?id=44077850) \| 🗓️ 2025-05-23
-
-
-<br />
-17岁的Chloe Lee通过研究**对乙酰氨基酚**（泰诺）的化学结构，尝试降低其肝毒性并保留止痛效果。她针对分子中的**苯环**进行修饰，通过计算机模型筛选出毒性更低、止痛效果可能更强的改良分子。这一成果为开发更安全的止痛药提供了新方向。Chloe不仅是科研新秀，还是一名获奖小提琴手，并积极推动校园STEM女性社群发展。
-
----
-
 ## <a name="18"></a>18. 用Emacs的dired-mode替代文件管理器 
 <small>🔗 [lynn.sh](https://lynn.sh/guix-emacs-file-manager.html): Emacs dired-mode as a file manager</small>
 
 
-| 🔥: 66 \| 💬: [40](https://news.ycombinator.com/item?id=44075388) \| 🗓️ 2025-05-23
+| 🔥: 66 \| 💬: [43](https://news.ycombinator.com/item?id=44075388) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -239,11 +239,23 @@ hcker.news是一个**Hacker News的替代界面**，主打**时间线浏览模�
 
 ---
 
-## <a name="19"></a>19. 加拿大阿尔伯塔省分离主义运动再起波澜 
+## <a name="19"></a>19. 日本PC-98电脑的奇幻世界 
+<small>🔗 [strangecomforts.com](https://strangecomforts.com/the-strange-world-of-japans-pc-98-computer/): The world of Japan's PC-98 computer</small>
+
+
+| 🔥: 66 \| 💬: [22](https://news.ycombinator.com/item?id=44076501) \| 🗓️ 2025-05-23
+
+
+<br />
+PC-98是日本NEC公司于1980年代推出的**商业计算机**，凭借**4096色显示**和强大图形性能成为本土市场霸主。其独特的**像素艺术风格**——低分辨率未来怀旧美学、手绘渐变与暗黑题材——催生了大量**同人游戏**（Doujinsoft），涵盖视觉小说、猎奇冒险和成人内容。尽管因Windows崛起被淘汰，其文化影响仍存于**蒸汽波音乐**和独立游戏（如《World of Horror》）中，成为亚文化经典。
+
+---
+
+## <a name="20"></a>20. 加拿大阿尔伯塔省分离主义运动再起波澜 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/22/world/canada/alberta-separatism-referendum.html): Alberta separatism push roils Canada</small>
 
 
-| 🔥: 62 \| 💬: [240](https://news.ycombinator.com/item?id=44074684) \| 🗓️ 2025-05-23
+| 🔥: 64 \| 💬: [247](https://news.ycombinator.com/item?id=44074684) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -251,11 +263,23 @@ hcker.news是一个**Hacker News的替代界面**，主打**时间线浏览模�
 
 ---
 
-## <a name="20"></a>20. 关于丢番图方程复杂度界限的形式化证明 
+## <a name="21"></a>21. 我打造了一个更高效的AI聊天管理工具 
+<small>🔗 [contextch.at](https://contextch.at): Show HN: I built a more productive way to manage AI chats</small>
+
+
+| 🔥: 64 \| 💬: [32](https://news.ycombinator.com/item?id=44076449) \| 🗓️ 2025-05-23
+
+
+<br />
+该工具支持从**网页、文件和GitHub**快速导入上下文，轻松创建多项目对话。用户可基于预设上下文获取即时答案与洞察，并**免费使用多种AI模型**进行交流。通过结构化存储和智能调用，显著提升对话效率与信息整合能力。
+
+---
+
+## <a name="22"></a>22. 关于丢番图方程复杂度界限的形式化证明 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2505.16963): A Formal Proof of Complexity Bounds on Diophantine Equations</small>
 
 
-| 🔥: 60 \| 💬: [6](https://news.ycombinator.com/item?id=44076170) \| 🗓️ 2025-05-23
+| 🔥: 61 \| 💬: [7](https://news.ycombinator.com/item?id=44076170) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -263,11 +287,11 @@ hcker.news是一个**Hacker News的替代界面**，主打**时间线浏览模�
 
 ---
 
-## <a name="21"></a>21. Samchika：Java高性能多线程文件处理库 
+## <a name="23"></a>23. Samchika：Java高性能多线程文件处理库 
 <small>🔗 [github.com](https://github.com/MayankPratap/Samchika): Show HN: Samchika – A Java Library for Fast, Multithreaded File Processing</small>
 
 
-| 🔥: 59 \| 💬: [43](https://news.ycombinator.com/item?id=44072788) \| 🗓️ 2025-05-23
+| 🔥: 60 \| 💬: [43](https://news.ycombinator.com/item?id=44072788) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -275,23 +299,11 @@ Samchika（梵语“文件”之意）是一个**轻量级**、**多线程**的J
 
 ---
 
-## <a name="22"></a>22. 风洞的秘密世界 
-<small>🔗 [jordanwtaylor2.substack.com](https://jordanwtaylor2.substack.com/p/into-the-tunnel): Into The Tunnel: The secret life of wind tunnels</small>
-
-
-| 🔥: 57 \| 💬: [6](https://news.ycombinator.com/item?id=44074637) \| 🗓️ 2025-05-23
-
-
-<br />
-风洞是模拟气流环境的实验设备，从**NASA艾姆斯低速风洞**（全球最大，功率达104兆瓦）到法国超音速风洞和德国低温氮气风洞，形态多样。它们用于测试飞机、赛车甚至城市风场，通过**雷诺数**和**马赫数**等参数确保实验准确性。尽管计算机模拟兴起，风洞仍是验证复杂气动现象（如激波、颤振）的关键工具，结合荧光涂料、激光测速等技术获取数据。其独特价值在于平衡成本与安全性，填补理论与实景测试的鸿沟。
-
----
-
-## <a name="23"></a>23. 镜头设计师工具箱中的光学系统类型（2020） 
+## <a name="24"></a>24. 镜头设计师工具箱中的光学系统类型（2020） 
 <small>🔗 [pencilofrays.com](https://www.pencilofrays.com/lens-design-forms/): Types of optical systems in a lens designer's toolbox (2020)</small>
 
 
-| 🔥: 55 \| 💬: [10](https://news.ycombinator.com/item?id=44075254) \| 🗓️ 2025-05-23
+| 🔥: 59 \| 💬: [11](https://news.ycombinator.com/item?id=44075254) \| 🗓️ 2025-05-23
 
 
 <br />
@@ -299,26 +311,14 @@ Samchika（梵语“文件”之意）是一个**轻量级**、**多线程**的J
 
 ---
 
-## <a name="24"></a>24. 瑞昱10美元微型万兆网卡即将登陆主板 
-<small>🔗 [tomshardware.com](https://www.tomshardware.com/networking/realteks-usd10-tiny-10gbe-network-adapter-is-coming-to-motherboards-later-this-year): Realtek's $10 tiny 10GbE NIC will hit motherboards soon</small>
+## <a name="25"></a>25. 风洞的秘密世界 
+<small>🔗 [jordanwtaylor2.substack.com](https://jordanwtaylor2.substack.com/p/into-the-tunnel): Into The Tunnel: The secret life of wind tunnels</small>
 
 
-| 🔥: 48 \| 💬: [42](https://news.ycombinator.com/item?id=44071701) \| 🗓️ 2025-05-23
-
-
-<br />
-瑞昱（Realtek）在Computex 2025展会上展示了**RTL8127**微型万兆网卡控制器，尺寸仅9mm x 9mm，支持2.5G/5G/10G多种速率，功耗低至1.95W，并集成**硬件级纠错（ECC）**和自检功能。该芯片售价约10美元，预计2025年底量产，将推动万兆网络在主流主板和笔记本中的普及。不过，当前**10GBase-T交换机**和CAT6A线缆的高成本仍是普及障碍，但随着需求增长，价格有望下降。
-
----
-
-## <a name="25"></a>25. 谷歌AI模式被出版商指责为"盗窃行为" 
-<small>🔗 [9to5google.com](https://9to5google.com/2025/05/22/google-ai-mode-theft-publisher-opt-out-controls/): Google's AI Mode is 'the definition of theft,' publishers say</small>
-
-
-| 🔥: 45 \| 💬: [45](https://news.ycombinator.com/item?id=44075346) \| 🗓️ 2025-05-23
+| 🔥: 58 \| 💬: [8](https://news.ycombinator.com/item?id=44074637) \| 🗓️ 2025-05-23
 
 
 <br />
-2025年5月23日，Abner Li报道称，出版商集体批评**谷歌的AI摘要功能**未经许可抓取内容，称其**"本质上是盗窃"**。该争议源于Android 16 QPR1 Beta 1测试版中新增的AI功能，可自动生成网页内容摘要，但未向原创者提供补偿或流量回馈。出版商强调，此举将**破坏内容生态**，威胁行业可持续发展。
+风洞是模拟气流环境的实验设备，从**NASA艾姆斯低速风洞**（全球最大，功率达104兆瓦）到法国超音速风洞和德国低温氮气风洞，形态多样。它们用于测试飞机、赛车甚至城市风场，通过**雷诺数**和**马赫数**等参数确保实验准确性。尽管计算机模拟兴起，风洞仍是验证复杂气动现象（如激波、颤振）的关键工具，结合荧光涂料、激光测速等技术获取数据。其独特价值在于平衡成本与安全性，填补理论与实景测试的鸿沟。
 
 ---
