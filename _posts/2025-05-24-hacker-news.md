@@ -12,7 +12,7 @@ tags:
 1. 旋转电话拨号盘Linux内核驱动项目；
 1. 重新发明轮子的价值；
 1. 小公司就该有小公司的样子；
-1. 树莓派2的“氙气死亡闪光”：相机如何差点杀死微型电脑；
+1. 好文章的两重境界；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [sean.heelan.io](https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/): I used o3 to find a remote zeroday in the Linux SMB implementation</small>
 
 
-| 🔥🔥: 328 \| 💬: [103](https://news.ycombinator.com/item?id=44081338) \| 🗓️ 2025-05-24
+| 🔥🔥: 360 \| 💬: [106](https://news.ycombinator.com/item?id=44081338) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [gitlab.com](https://gitlab.com/sephalon/rotary_dial_kmod): Show HN: Rotary Phone Dial Linux Kernel Driver</small>
 
 
-| 🔥🔥: 276 \| 💬: [37](https://news.ycombinator.com/item?id=44080803) \| 🗓️ 2025-05-24
+| 🔥🔥: 282 \| 💬: [41](https://news.ycombinator.com/item?id=44080803) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [endler.dev](https://endler.dev/2025/reinvent-the-wheel/): Reinvent the Wheel</small>
 
 
-| 🔥🔥: 200 \| 💬: [109](https://news.ycombinator.com/item?id=44083467) \| 🗓️ 2025-05-24
+| 🔥🔥: 226 \| 💬: [115](https://news.ycombinator.com/item?id=44083467) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [longform.asmartbear.com](https://longform.asmartbear.com/little-company/): You're a little company, now act like one</small>
 
 
-| 🔥🔥: 190 \| 💬: [36](https://news.ycombinator.com/item?id=44081494) \| 🗓️ 2025-05-24
+| 🔥🔥: 193 \| 💬: [37](https://news.ycombinator.com/item?id=44081494) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -71,23 +71,11 @@ tags:
 
 ---
 
-## <a name="5"></a>5. 树莓派2的“氙气死亡闪光”：相机如何差点杀死微型电脑 
-<small>🔗 [magnus919.com](https://magnus919.com/2025/05/the-xenon-death-flash-how-a-camera-nearly-killed-the-raspberry-pi-2/): The Xenon Death Flash: How a Camera Nearly Killed the Raspberry Pi 2</small>
-
-
-| 🔥🔥: 173 \| 💬: [63](https://news.ycombinator.com/item?id=44080533) \| 🗓️ 2025-05-24
-
-
-<br />
-2015年，用户Peter Onion发现用**氙气闪光灯**拍摄树莓派2会导致其瞬间关机。社区调查发现，问题源于采用**WL-CSP封装**的电源芯片U16——裸露的硅晶片在强光下触发**光电效应**，扰乱电路。临时解决方案是用蓝丁胶遮挡芯片，最终通过硬件改版彻底修复。这一罕见漏洞揭示了现代电子设备微型化带来的潜在风险，也成为光电效应的生动案例，展现了开源社区协作解决问题的强大力量。
-
----
-
-## <a name="6"></a>6. 好文章的两重境界 
+## <a name="5"></a>5. 好文章的两重境界 
 <small>🔗 [paulgraham.com](https://paulgraham.com/goodwriting.html): Good Writing</small>
 
 
-| 🔥🔥: 163 \| 💬: [178](https://news.ycombinator.com/item?id=44081586) \| 🗓️ 2025-05-24
+| 🔥🔥: 179 \| 💬: [187](https://news.ycombinator.com/item?id=44081586) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -95,35 +83,23 @@ tags:
 
 ---
 
-## <a name="7"></a>7. Tachy0n：最后一个0day越狱漏洞 
-<small>🔗 [blog.siguza.net](https://blog.siguza.net/tachy0n/): Tachy0n: The Last 0day Jailbreak</small>
+## <a name="6"></a>6. 树莓派2的“氙气死亡闪光”：相机如何差点杀死微型电脑 
+<small>🔗 [magnus919.com](https://magnus919.com/2025/05/the-xenon-death-flash-how-a-camera-nearly-killed-the-raspberry-pi-2/): The Xenon Death Flash: How a Camera Nearly Killed the Raspberry Pi 2</small>
 
 
-| 🔥🔥: 153 \| 💬: [23](https://news.ycombinator.com/item?id=44083388) \| 🗓️ 2025-05-24
-
-
-<br />
-开发者Siguza在2025年回顾了2020年发布的iOS 13.0-13.5内核漏洞**tachy0n**，这是近年来罕见的**0day越狱漏洞**，迫使苹果在一周内紧急修复。漏洞源于`lio_listio`系统调用中的竞态条件，导致双重释放（double free），最终实现内核提权。文章详细描述了漏洞的发现过程、历史背景（如iOS 12的SockPuppet漏洞回归）及利用技术，包括通过**mach端口伪造**和堆喷（heap spraying）绕过防护。此外，作者对比了早期团队合作开发的Spice越狱工具，并探讨了不同设备架构（如A7-A11）的利用差异。
-
----
-
-## <a name="8"></a>8. 香港竹制脚手架：传统工艺的坚守者 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/24/world/asia/hongkong-bamboo-scaffolding.html): Hong Kong's Famous Bamboo Scaffolding Hangs on (For Now)</small>
-
-
-| 🔥🔥: 146 \| 💬: [40](https://news.ycombinator.com/item?id=44080549) \| 🗓️ 2025-05-24
+| 🔥🔥: 178 \| 💬: [65](https://news.ycombinator.com/item?id=44080533) \| 🗓️ 2025-05-24
 
 
 <br />
-在香港，**竹制脚手架**这一古老工艺仍是城市景观的一部分，而31岁的**Daisy Pak**是少数从事该行业的女性之一。她曾经历艰难成长、吸毒和负债，2021年转行学习这门手艺。尽管面临性别和身高的质疑，甚至遭遇同事刁难，她仍坚持用竹竿搭建复杂的结构，并为此自豪。**传统技艺**通过师徒传承，但Daisy通过多方学习掌握了技能。如今，这一行业在香港虽存续，却面临现代建筑技术的冲击。
+2015年，用户Peter Onion发现用**氙气闪光灯**拍摄树莓派2会导致其瞬间关机。社区调查发现，问题源于采用**WL-CSP封装**的电源芯片U16——裸露的硅晶片在强光下触发**光电效应**，扰乱电路。临时解决方案是用蓝丁胶遮挡芯片，最终通过硬件改版彻底修复。这一罕见漏洞揭示了现代电子设备微型化带来的潜在风险，也成为光电效应的生动案例，展现了开源社区协作解决问题的强大力量。
 
 ---
 
-## <a name="9"></a>9. 美国收紧移民政策，多场国际学术会议迁至加拿大 
+## <a name="7"></a>7. 美国收紧移民政策，多场国际学术会议迁至加拿大 
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-01636-5): Scientific conferences are leaving the US amid border fears</small>
 
 
-| 🔥🔥: 145 \| 💬: [56](https://news.ycombinator.com/item?id=44084017) \| 🗓️ 2025-05-24
+| 🔥🔥: 172 \| 💬: [82](https://news.ycombinator.com/item?id=44084017) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -131,11 +107,35 @@ tags:
 
 ---
 
+## <a name="8"></a>8. Tachy0n：最后一个0day越狱漏洞 
+<small>🔗 [blog.siguza.net](https://blog.siguza.net/tachy0n/): Tachy0n: The Last 0day Jailbreak</small>
+
+
+| 🔥🔥: 171 \| 💬: [23](https://news.ycombinator.com/item?id=44083388) \| 🗓️ 2025-05-24
+
+
+<br />
+开发者Siguza在2025年回顾了2020年发布的iOS 13.0-13.5内核漏洞**tachy0n**，这是近年来罕见的**0day越狱漏洞**，迫使苹果在一周内紧急修复。漏洞源于`lio_listio`系统调用中的竞态条件，导致双重释放（double free），最终实现内核提权。文章详细描述了漏洞的发现过程、历史背景（如iOS 12的SockPuppet漏洞回归）及利用技术，包括通过**mach端口伪造**和堆喷（heap spraying）绕过防护。此外，作者对比了早期团队合作开发的Spice越狱工具，并探讨了不同设备架构（如A7-A11）的利用差异。
+
+---
+
+## <a name="9"></a>9. 香港竹制脚手架：传统工艺的坚守者 
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/24/world/asia/hongkong-bamboo-scaffolding.html): Hong Kong's Famous Bamboo Scaffolding Hangs on (For Now)</small>
+
+
+| 🔥🔥: 152 \| 💬: [42](https://news.ycombinator.com/item?id=44080549) \| 🗓️ 2025-05-24
+
+
+<br />
+在香港，**竹制脚手架**这一古老工艺仍是城市景观的一部分，而31岁的**Daisy Pak**是少数从事该行业的女性之一。她曾经历艰难成长、吸毒和负债，2021年转行学习这门手艺。尽管面临性别和身高的质疑，甚至遭遇同事刁难，她仍坚持用竹竿搭建复杂的结构，并为此自豪。**传统技艺**通过师徒传承，但Daisy通过多方学习掌握了技能。如今，这一行业在香港虽存续，却面临现代建筑技术的冲击。
+
+---
+
 ## <a name="10"></a>10. DumPy：让高维数组操作像循环一样简单 
 <small>🔗 [dynomight.net](https://dynomight.net/dumpy/): DumPy: NumPy except it's OK if you're dum</small>
 
 
-| 🔥🔥: 133 \| 💬: [45](https://news.ycombinator.com/item?id=44080181) \| 🗓️ 2025-05-24
+| 🔥🔥: 136 \| 💬: [45](https://news.ycombinator.com/item?id=44080181) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -147,7 +147,7 @@ tags:
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/24/police-live-facial-recognition-cameras-england-and-wales): Live facial recognition cameras may become 'commonplace' as police use soars</small>
 
 
-| 🔥🔥: 127 \| 💬: [99](https://news.ycombinator.com/item?id=44082326) \| 🗓️ 2025-05-24
+| 🔥🔥: 131 \| 💬: [103](https://news.ycombinator.com/item?id=44082326) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -159,7 +159,7 @@ tags:
 <small>🔗 [fakepixels.substack.com](https://fakepixels.substack.com/p/ai-heidegger-and-evangelion): AI, Heidegger, and Evangelion</small>
 
 
-| 🔥🔥: 109 \| 💬: [58](https://news.ycombinator.com/item?id=44081346) \| 🗓️ 2025-05-24
+| 🔥🔥: 111 \| 💬: [59](https://news.ycombinator.com/item?id=44081346) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -171,7 +171,7 @@ tags:
 <small>🔗 [ft.com](https://www.ft.com/content/0ab64ced-1ed1-466d-acd3-78510d10c3a1): Lone coder cracks 50-year puzzle to find Boggle's top-scoring board</small>
 
 
-| 🔥🔥: 101 \| 💬: [24](https://news.ycombinator.com/item?id=44082892) \| 🗓️ 2025-05-24
+| 🔥🔥: 111 \| 💬: [24](https://news.ycombinator.com/item?id=44082892) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -183,7 +183,7 @@ tags:
 <small>🔗 [shortreps.com](https://shortreps.com): Show HN: 1 min workouts for people who sit all day</small>
 
 
-| 🔥🔥: 101 \| 💬: [39](https://news.ycombinator.com/item?id=44083687) \| 🗓️ 2025-05-24
+| 🔥🔥: 105 \| 💬: [39](https://news.ycombinator.com/item?id=44083687) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -195,7 +195,7 @@ tags:
 <small>🔗 [github.com](https://github.com/ayoisaiah/f2): Show HN: F2 – Cross-Platform CLI Batch Renaming Tool</small>
 
 
-| 🔥: 99 \| 💬: [17](https://news.ycombinator.com/item?id=44081850) \| 🗓️ 2025-05-24
+| 🔥: 100 \| 💬: [18](https://news.ycombinator.com/item?id=44081850) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -207,7 +207,7 @@ F2是一款基于Go语言开发的**跨平台命令行工具**，专为快速、
 <small>🔗 [ft.com](https://www.ft.com/content/9fdb4e2b-93ea-436d-92e5-fa76ee786caa): Microsoft-backed UK tech unicorn Builder.ai collapses into insolvency</small>
 
 
-| 🔥: 91 \| 💬: [74](https://news.ycombinator.com/item?id=44080640) \| 🗓️ 2025-05-24
+| 🔥: 92 \| 💬: [74](https://news.ycombinator.com/item?id=44080640) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -219,7 +219,7 @@ F2是一款基于Go语言开发的**跨平台命令行工具**，专为快速、
 <small>🔗 [nmn.gl](https://nmn.gl/blog/ai-scam): AI can't even fix a simple bug – but sure, let's fire engineers</small>
 
 
-| 🔥: 89 \| 💬: [118](https://news.ycombinator.com/item?id=44082293) \| 🗓️ 2025-05-24
+| 🔥: 91 \| 💬: [120](https://news.ycombinator.com/item?id=44082293) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -227,11 +227,23 @@ GitHub Copilot代理在微软.NET运行时中提交了错误代码，**人类工
 
 ---
 
-## <a name="18"></a>18. 中银胶囊大厦的传奇遗产 
+## <a name="18"></a>18. 资深工程师如何与LLM高效结对编程 
+<small>🔗 [pmbanugo.me](https://pmbanugo.me/blog/peer-programming-with-llms): Peer Programming with LLMs, for Senior+ Engineers</small>
+
+
+| 🔥: 90 \| 💬: [45](https://news.ycombinator.com/item?id=44081081) \| 🗓️ 2025-05-24
+
+
+<br />
+本文汇集多位资深工程师使用大语言模型（LLM）协作编程的实践经验，摒弃浮夸宣传，聚焦实用技巧。**“第二意见”**和**“临时调试脚本”**是Sean提出的核心方法，可提升日常效率；Harper则强调用LLM**协同规划**功能前需明确需求，避免无效对话。Lee指出**记录优质提示词**是关键习惯，而Seth提醒LLM本质是工具，需建立有效使用模式。文末建议：遇阻时先问AI，再问人。
+
+---
+
+## <a name="19"></a>19. 中银胶囊大厦的传奇遗产 
 <small>🔗 [designboom.com](https://www.designboom.com/architecture/moma-nakagin-capsule-tower-exhibition-many-lives-museum-modern-art-new-york-05-23-2025/): The legacy of the iconic Nakagin capsule tower</small>
 
 
-| 🔥: 87 \| 💬: [23](https://news.ycombinator.com/item?id=44080820) \| 🗓️ 2025-05-24
+| 🔥: 88 \| 💬: [23](https://news.ycombinator.com/item?id=44080820) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -239,7 +251,7 @@ GitHub Copilot代理在微软.NET运行时中提交了错误代码，**人类工
 
 ---
 
-## <a name="19"></a>19. 蠢蛋进化论：反智社会的荒诞预言 
+## <a name="20"></a>20. 蠢蛋进化论：反智社会的荒诞预言 
 <small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Idiocracy): Idiocracy</small>
 
 
@@ -248,18 +260,6 @@ GitHub Copilot代理在微软.NET运行时中提交了错误代码，**人类工
 
 <br />
 《蠢蛋进化论》是2006年由迈克·乔吉执导的科幻喜剧片，讲述一名普通军人**乔**和妓女**丽塔**在休眠实验后苏醒于500年后的未来。这个社会因**反智主义**和过度繁衍沦为低能文明，总统由运动饮料代言人担任，农作物用电解质饮料灌溉。影片以荒诞手法讽刺消费主义、基因衰退等议题。尽管上映时因片方消极宣传票房惨淡，但凭借尖锐的社会批判成为**邪典经典**。主演卢克·威尔逊与玛娅·鲁道夫的表演为黑色幽默增色，而片中“欢迎来好市多，我们爱你”等台词至今被影迷津津乐道。
-
----
-
-## <a name="20"></a>20. 资深工程师如何与LLM高效结对编程 
-<small>🔗 [pmbanugo.me](https://pmbanugo.me/blog/peer-programming-with-llms): Peer Programming with LLMs, for Senior+ Engineers</small>
-
-
-| 🔥: 80 \| 💬: [42](https://news.ycombinator.com/item?id=44081081) \| 🗓️ 2025-05-24
-
-
-<br />
-本文汇集多位资深工程师使用大语言模型（LLM）协作编程的实践经验，摒弃浮夸宣传，聚焦实用技巧。**“第二意见”**和**“临时调试脚本”**是Sean提出的核心方法，可提升日常效率；Harper则强调用LLM**协同规划**功能前需明确需求，避免无效对话。Lee指出**记录优质提示词**是关键习惯，而Seth提醒LLM本质是工具，需建立有效使用模式。文末建议：遇阻时先问AI，再问人。
 
 ---
 
@@ -279,7 +279,7 @@ SuperUtilsPlus 是一个高性能的 JavaScript 工具库，旨在替代 Lodash�
 <small>🔗 [github.com](https://github.com/yarlson/lnk): Show HN: Lnk – Git-native dotfiles manager</small>
 
 
-| 🔥: 70 \| 💬: [50](https://news.ycombinator.com/item?id=44080410) \| 🗓️ 2025-05-24
+| 🔥: 71 \| 💬: [53](https://news.ycombinator.com/item?id=44080410) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -295,7 +295,7 @@ Lnk 是一个**Git 原生**的 dotfiles 管理工具，通过自动化符号链�
 <small>🔗 [blog.samaltman.com](https://blog.samaltman.com/please-fund-more-science): Please Fund More Science (2020)</small>
 
 
-| 🔥: 59 \| 💬: [48](https://news.ycombinator.com/item?id=44082968) \| 🗓️ 2025-05-24
+| 🔥: 62 \| 💬: [48](https://news.ycombinator.com/item?id=44082968) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -307,7 +307,7 @@ Lnk 是一个**Git 原生**的 dotfiles 管理工具，通过自动化符号链�
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/24/what-i-discovered-when-i-asked-amazon-to-tell-me-everything-alexa-had-heard): What I discovered when I asked Amazon to tell me everything Alexa had heard</small>
 
 
-| 🔥: 57 \| 💬: [39](https://news.ycombinator.com/item?id=44083105) \| 🗓️ 2025-05-24
+| 🔥: 59 \| 💬: [39](https://news.ycombinator.com/item?id=44083105) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -315,14 +315,14 @@ Lnk 是一个**Git 原生**的 dotfiles 管理工具，通过自动化符号链�
 
 ---
 
-## <a name="25"></a>25. 为何经典游戏永存，而新游戏却短命？ 
-<small>🔗 [pleromanonx86.wordpress.com](https://pleromanonx86.wordpress.com/2025/05/06/why-old-games-never-die-but-new-ones-do/): Why old games never die, but new ones do</small>
+## <a name="25"></a>25. 废土公路战争的 logistics 逻辑 
+<small>🔗 [acoup.blog](https://acoup.blog/2025/05/23/collections-the-logistics-of-road-war-in-the-wasteland/): The Logistics of Road War in the Wasteland</small>
 
 
-| 🔥: 50 \| 💬: [55](https://news.ycombinator.com/item?id=44083917) \| 🗓️ 2025-05-24
+| 🔥: 54 \| 💬: [19](https://news.ycombinator.com/item?id=44083580) \| 🗓️ 2025-05-24
 
 
 <br />
-现代游戏常沦为**快餐式服务**，依赖微交易和限时活动榨取玩家价值，一旦停服便彻底消失。而《虚幻竞技场99》《CS 1.6》等老游戏却长盛不衰，原因有三：**极低硬件需求**（甚至能在古董电脑运行）、**玩家自建服务器**（摆脱厂商控制）以及**丰富的模组生态**（扩展游戏寿命）。相比之下，新游戏受制于厂商垄断和反盗版策略，失去了自由度和社区创造力，最终沦为短暂消遣。
+本文以《疯狂的麦克斯》系列为蓝本，探讨后启示录科幻设定中**车辆战争**的战术与后勤逻辑。核心矛盾在于：电影中高速移动的**战争机器（如改装卡车 "war rig"）**和摩托车群虽视觉震撼，但现实中难以实现精准射击和有效装甲防护。资源争夺集中于少数据点（如水源、弹药工厂），简化了真实战争中分散的补给网络。作者指出，这类设定虽娱乐性强，但忽略了**机械化步兵**的缺席和车辆稳定性的物理限制，最终提出更符合现实的后勤替代方案。
 
 ---
