@@ -27,7 +27,7 @@ tags:
 <small>🔗 [sean.heelan.io](https://sean.heelan.io/2025/05/22/how-i-used-o3-to-find-cve-2025-37899-a-remote-zeroday-vulnerability-in-the-linux-kernels-smb-implementation/): I used o3 to find a remote zeroday in the Linux SMB implementation</small>
 
 
-| 🔥🔥: 386 \| 💬: [112](https://news.ycombinator.com/item?id=44081338) \| 🗓️ 2025-05-24
+| 🔥🔥: 406 \| 💬: [119](https://news.ycombinator.com/item?id=44081338) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [gitlab.com](https://gitlab.com/sephalon/rotary_dial_kmod): Show HN: Rotary Phone Dial Linux Kernel Driver</small>
 
 
-| 🔥🔥: 284 \| 💬: [42](https://news.ycombinator.com/item?id=44080803) \| 🗓️ 2025-05-24
+| 🔥🔥: 286 \| 💬: [42](https://news.ycombinator.com/item?id=44080803) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [endler.dev](https://endler.dev/2025/reinvent-the-wheel/): Reinvent the Wheel</small>
 
 
-| 🔥🔥: 245 \| 💬: [124](https://news.ycombinator.com/item?id=44083467) \| 🗓️ 2025-05-24
+| 🔥🔥: 267 \| 💬: [134](https://news.ycombinator.com/item?id=44083467) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [nature.com](https://www.nature.com/articles/d41586-025-01636-5): Scientific conferences are leaving the US amid border fears</small>
 
 
-| 🔥🔥: 196 \| 💬: [96](https://news.ycombinator.com/item?id=44084017) \| 🗓️ 2025-05-24
+| 🔥🔥: 218 \| 💬: [118](https://news.ycombinator.com/item?id=44084017) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [longform.asmartbear.com](https://longform.asmartbear.com/little-company/): You're a little company, now act like one</small>
 
 
-| 🔥🔥: 195 \| 💬: [37](https://news.ycombinator.com/item?id=44081494) \| 🗓️ 2025-05-24
+| 🔥🔥: 199 \| 💬: [37](https://news.ycombinator.com/item?id=44081494) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [paulgraham.com](https://paulgraham.com/goodwriting.html): Good Writing</small>
 
 
-| 🔥🔥: 188 \| 💬: [198](https://news.ycombinator.com/item?id=44081586) \| 🗓️ 2025-05-24
+| 🔥🔥: 199 \| 💬: [205](https://news.ycombinator.com/item?id=44081586) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -95,23 +95,11 @@ tags:
 
 ---
 
-## <a name="7"></a>7. 树莓派2的“氙气死亡闪光”：相机如何差点杀死微型电脑 
-<small>🔗 [magnus919.com](https://magnus919.com/2025/05/the-xenon-death-flash-how-a-camera-nearly-killed-the-raspberry-pi-2/): The Xenon Death Flash: How a Camera Nearly Killed the Raspberry Pi 2</small>
-
-
-| 🔥🔥: 179 \| 💬: [68](https://news.ycombinator.com/item?id=44080533) \| 🗓️ 2025-05-24
-
-
-<br />
-2015年，用户Peter Onion发现用**氙气闪光灯**拍摄树莓派2会导致其瞬间关机。社区调查发现，问题源于采用**WL-CSP封装**的电源芯片U16——裸露的硅晶片在强光下触发**光电效应**，扰乱电路。临时解决方案是用蓝丁胶遮挡芯片，最终通过硬件改版彻底修复。这一罕见漏洞揭示了现代电子设备微型化带来的潜在风险，也成为光电效应的生动案例，展现了开源社区协作解决问题的强大力量。
-
----
-
-## <a name="8"></a>8. Tachy0n：最后一个0day越狱漏洞 
+## <a name="7"></a>7. Tachy0n：最后一个0day越狱漏洞 
 <small>🔗 [blog.siguza.net](https://blog.siguza.net/tachy0n/): Tachy0n: The Last 0day Jailbreak</small>
 
 
-| 🔥🔥: 176 \| 💬: [24](https://news.ycombinator.com/item?id=44083388) \| 🗓️ 2025-05-24
+| 🔥🔥: 183 \| 💬: [25](https://news.ycombinator.com/item?id=44083388) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -119,11 +107,23 @@ tags:
 
 ---
 
+## <a name="8"></a>8. 树莓派2的“氙气死亡闪光”：相机如何差点杀死微型电脑 
+<small>🔗 [magnus919.com](https://magnus919.com/2025/05/the-xenon-death-flash-how-a-camera-nearly-killed-the-raspberry-pi-2/): The Xenon Death Flash: How a Camera Nearly Killed the Raspberry Pi 2</small>
+
+
+| 🔥🔥: 182 \| 💬: [71](https://news.ycombinator.com/item?id=44080533) \| 🗓️ 2025-05-24
+
+
+<br />
+2015年，用户Peter Onion发现用**氙气闪光灯**拍摄树莓派2会导致其瞬间关机。社区调查发现，问题源于采用**WL-CSP封装**的电源芯片U16——裸露的硅晶片在强光下触发**光电效应**，扰乱电路。临时解决方案是用蓝丁胶遮挡芯片，最终通过硬件改版彻底修复。这一罕见漏洞揭示了现代电子设备微型化带来的潜在风险，也成为光电效应的生动案例，展现了开源社区协作解决问题的强大力量。
+
+---
+
 ## <a name="9"></a>9. 香港竹制脚手架：传统工艺的坚守者 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/24/world/asia/hongkong-bamboo-scaffolding.html): Hong Kong's Famous Bamboo Scaffolding Hangs on (For Now)</small>
 
 
-| 🔥🔥: 156 \| 💬: [44](https://news.ycombinator.com/item?id=44080549) \| 🗓️ 2025-05-24
+| 🔥🔥: 159 \| 💬: [47](https://news.ycombinator.com/item?id=44080549) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -147,7 +147,7 @@ tags:
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/24/police-live-facial-recognition-cameras-england-and-wales): Live facial recognition cameras may become 'commonplace' as police use soars</small>
 
 
-| 🔥🔥: 136 \| 💬: [109](https://news.ycombinator.com/item?id=44082326) \| 🗓️ 2025-05-24
+| 🔥🔥: 137 \| 💬: [110](https://news.ycombinator.com/item?id=44082326) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -159,7 +159,7 @@ tags:
 <small>🔗 [ft.com](https://www.ft.com/content/0ab64ced-1ed1-466d-acd3-78510d10c3a1): Lone coder cracks 50-year puzzle to find Boggle's top-scoring board</small>
 
 
-| 🔥🔥: 117 \| 💬: [25](https://news.ycombinator.com/item?id=44082892) \| 🗓️ 2025-05-24
+| 🔥🔥: 120 \| 💬: [25](https://news.ycombinator.com/item?id=44082892) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -171,7 +171,7 @@ tags:
 <small>🔗 [fakepixels.substack.com](https://fakepixels.substack.com/p/ai-heidegger-and-evangelion): AI, Heidegger, and Evangelion</small>
 
 
-| 🔥🔥: 114 \| 💬: [61](https://news.ycombinator.com/item?id=44081346) \| 🗓️ 2025-05-24
+| 🔥🔥: 117 \| 💬: [63](https://news.ycombinator.com/item?id=44081346) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -183,7 +183,7 @@ tags:
 <small>🔗 [shortreps.com](https://shortreps.com): Show HN: 1 min workouts for people who sit all day</small>
 
 
-| 🔥🔥: 112 \| 💬: [39](https://news.ycombinator.com/item?id=44083687) \| 🗓️ 2025-05-24
+| 🔥🔥: 116 \| 💬: [42](https://news.ycombinator.com/item?id=44083687) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -191,23 +191,11 @@ tags:
 
 ---
 
-## <a name="15"></a>15. F2：跨平台命令行批量重命名工具 
-<small>🔗 [github.com](https://github.com/ayoisaiah/f2): Show HN: F2 – Cross-Platform CLI Batch Renaming Tool</small>
-
-
-| 🔥🔥: 102 \| 💬: [18](https://news.ycombinator.com/item?id=44081850) \| 🗓️ 2025-05-24
-
-
-<br />
-F2是一款基于Go语言开发的**跨平台命令行工具**，专为快速、安全地批量重命名文件和目录设计。其核心优势包括：**默认模拟运行**（可预览修改效果）、支持**文件属性变量**（如EXIF或ID3标签）、丰富的正则表达式功能，以及冲突检测与自动修复。此外，F2提供高性能批量处理、**撤销操作**和详尽文档，适合从简单替换到复杂重命名需求。支持Windows、macOS和Linux，可通过Go安装或直接下载预编译二进制文件。开源项目采用MIT许可证，已获935星标。
-
----
-
-## <a name="16"></a>16. 资深工程师如何与LLM高效结对编程 
+## <a name="15"></a>15. 资深工程师如何与LLM高效结对编程 
 <small>🔗 [pmbanugo.me](https://pmbanugo.me/blog/peer-programming-with-llms): Peer Programming with LLMs, for Senior+ Engineers</small>
 
 
-| 🔥: 100 \| 💬: [48](https://news.ycombinator.com/item?id=44081081) \| 🗓️ 2025-05-24
+| 🔥🔥: 106 \| 💬: [54](https://news.ycombinator.com/item?id=44081081) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -215,11 +203,23 @@ F2是一款基于Go语言开发的**跨平台命令行工具**，专为快速、
 
 ---
 
+## <a name="16"></a>16. F2：跨平台命令行批量重命名工具 
+<small>🔗 [github.com](https://github.com/ayoisaiah/f2): Show HN: F2 – Cross-Platform CLI Batch Renaming Tool</small>
+
+
+| 🔥🔥: 103 \| 💬: [19](https://news.ycombinator.com/item?id=44081850) \| 🗓️ 2025-05-24
+
+
+<br />
+F2是一款基于Go语言开发的**跨平台命令行工具**，专为快速、安全地批量重命名文件和目录设计。其核心优势包括：**默认模拟运行**（可预览修改效果）、支持**文件属性变量**（如EXIF或ID3标签）、丰富的正则表达式功能，以及冲突检测与自动修复。此外，F2提供高性能批量处理、**撤销操作**和详尽文档，适合从简单替换到复杂重命名需求。支持Windows、macOS和Linux，可通过Go安装或直接下载预编译二进制文件。开源项目采用MIT许可证，已获935星标。
+
+---
+
 ## <a name="17"></a>17. 微软支持的英国科技独角兽Builder.ai破产 
 <small>🔗 [ft.com](https://www.ft.com/content/9fdb4e2b-93ea-436d-92e5-fa76ee786caa): Microsoft-backed UK tech unicorn Builder.ai collapses into insolvency</small>
 
 
-| 🔥: 95 \| 💬: [77](https://news.ycombinator.com/item?id=44080640) \| 🗓️ 2025-05-24
+| 🔥: 98 \| 💬: [79](https://news.ycombinator.com/item?id=44080640) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -231,7 +231,7 @@ F2是一款基于Go语言开发的**跨平台命令行工具**，专为快速、
 <small>🔗 [nmn.gl](https://nmn.gl/blog/ai-scam): AI can't even fix a simple bug – but sure, let's fire engineers</small>
 
 
-| 🔥: 91 \| 💬: [121](https://news.ycombinator.com/item?id=44082293) \| 🗓️ 2025-05-24
+| 🔥: 92 \| 💬: [122](https://news.ycombinator.com/item?id=44082293) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -243,7 +243,7 @@ GitHub Copilot代理在微软.NET运行时中提交了错误代码，**人类工
 <small>🔗 [designboom.com](https://www.designboom.com/architecture/moma-nakagin-capsule-tower-exhibition-many-lives-museum-modern-art-new-york-05-23-2025/): The legacy of the iconic Nakagin capsule tower</small>
 
 
-| 🔥: 88 \| 💬: [23](https://news.ycombinator.com/item?id=44080820) \| 🗓️ 2025-05-24
+| 🔥: 89 \| 💬: [23](https://news.ycombinator.com/item?id=44080820) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -251,7 +251,19 @@ GitHub Copilot代理在微软.NET运行时中提交了错误代码，**人类工
 
 ---
 
-## <a name="20"></a>20. 蠢蛋进化论：反智社会的荒诞预言 
+## <a name="20"></a>20. 为何经典游戏永存，而新游戏却短命？ 
+<small>🔗 [pleromanonx86.wordpress.com](https://pleromanonx86.wordpress.com/2025/05/06/why-old-games-never-die-but-new-ones-do/): Why old games never die, but new ones do</small>
+
+
+| 🔥: 82 \| 💬: [80](https://news.ycombinator.com/item?id=44083917) \| 🗓️ 2025-05-24
+
+
+<br />
+现代游戏常沦为**快餐式服务**，依赖微交易和限时活动榨取玩家价值，一旦停服便彻底消失。而《虚幻竞技场99》《CS 1.6》等老游戏却长盛不衰，原因有三：**极低硬件需求**（甚至能在古董电脑运行）、**玩家自建服务器**（摆脱厂商控制）以及**丰富的模组生态**（扩展游戏寿命）。相比之下，新游戏受制于厂商垄断和反盗版策略，失去了自由度和社区创造力，最终沦为短暂消遣。
+
+---
+
+## <a name="21"></a>21. 蠢蛋进化论：反智社会的荒诞预言 
 <small>🔗 [en.wikipedia.org](https://en.wikipedia.org/wiki/Idiocracy): Idiocracy</small>
 
 
@@ -263,7 +275,7 @@ GitHub Copilot代理在微软.NET运行时中提交了错误代码，**人类工
 
 ---
 
-## <a name="21"></a>21. SuperUtilsPlus：Lodash 的现代替代方案 
+## <a name="22"></a>22. SuperUtilsPlus：Lodash 的现代替代方案 
 <small>🔗 [github.com](https://github.com/dhaxor/super-utils-plus): Show HN: SuperUtilsPlus – A Modern Alternative to Lodash</small>
 
 
@@ -275,7 +287,7 @@ SuperUtilsPlus 是一个高性能的 JavaScript 工具库，旨在替代 Lodash�
 
 ---
 
-## <a name="22"></a>22. Lnk：基于 Git 的极简 dotfiles 管理工具 
+## <a name="23"></a>23. Lnk：基于 Git 的极简 dotfiles 管理工具 
 <small>🔗 [github.com](https://github.com/yarlson/lnk): Show HN: Lnk – Git-native dotfiles manager</small>
 
 
@@ -291,23 +303,11 @@ Lnk 是一个**Git 原生**的 dotfiles 管理工具，通过自动化符号链�
 
 ---
 
-## <a name="23"></a>23. 为何经典游戏永存，而新游戏却短命？ 
-<small>🔗 [pleromanonx86.wordpress.com](https://pleromanonx86.wordpress.com/2025/05/06/why-old-games-never-die-but-new-ones-do/): Why old games never die, but new ones do</small>
-
-
-| 🔥: 66 \| 💬: [74](https://news.ycombinator.com/item?id=44083917) \| 🗓️ 2025-05-24
-
-
-<br />
-现代游戏常沦为**快餐式服务**，依赖微交易和限时活动榨取玩家价值，一旦停服便彻底消失。而《虚幻竞技场99》《CS 1.6》等老游戏却长盛不衰，原因有三：**极低硬件需求**（甚至能在古董电脑运行）、**玩家自建服务器**（摆脱厂商控制）以及**丰富的模组生态**（扩展游戏寿命）。相比之下，新游戏受制于厂商垄断和反盗版策略，失去了自由度和社区创造力，最终沦为短暂消遣。
-
----
-
 ## <a name="24"></a>24. 请为科学投入更多资金（2020） 
 <small>🔗 [blog.samaltman.com](https://blog.samaltman.com/please-fund-more-science): Please Fund More Science (2020)</small>
 
 
-| 🔥: 63 \| 💬: [50](https://news.ycombinator.com/item?id=44082968) \| 🗓️ 2025-05-24
+| 🔥: 64 \| 💬: [53](https://news.ycombinator.com/item?id=44082968) \| 🗓️ 2025-05-24
 
 
 <br />
@@ -319,7 +319,7 @@ Lnk 是一个**Git 原生**的 dotfiles 管理工具，通过自动化符号链�
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/24/what-i-discovered-when-i-asked-amazon-to-tell-me-everything-alexa-had-heard): What I discovered when I asked Amazon to tell me everything Alexa had heard</small>
 
 
-| 🔥: 59 \| 💬: [40](https://news.ycombinator.com/item?id=44083105) \| 🗓️ 2025-05-24
+| 🔥: 60 \| 💬: [41](https://news.ycombinator.com/item?id=44083105) \| 🗓️ 2025-05-24
 
 
 <br />
