@@ -10,8 +10,8 @@ tags:
 
 1. 丹麦拟2040年将退休年龄提高至70岁；
 1. Lottie：开源的矢量动画格式；
-1. 免费自学计算机科学的完整路径；
 1. 亚马逊程序员吐槽：AI让编码工作沦为“流水线”；
+1. 免费自学计算机科学的完整路径；
 1. 一键打造炫酷SVG动画；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [telegraph.co.uk](https://www.telegraph.co.uk/world-news/2025/05/23/denmark-raise-retirement-age-70/): Denmark to raise retirement age to 70</small>
 
 
-| 🔥🔥: 327 \| 💬: [795](https://news.ycombinator.com/item?id=44088957) \| 🗓️ 2025-05-25
+| 🔥🔥: 344 \| 💬: [825](https://news.ycombinator.com/item?id=44088957) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [lottie.github.io](https://lottie.github.io/): Lottie is an open format for animated vector graphics</small>
 
 
-| 🔥🔥: 268 \| 💬: [121](https://news.ycombinator.com/item?id=44088216) \| 🗓️ 2025-05-25
+| 🔥🔥: 272 \| 💬: [125](https://news.ycombinator.com/item?id=44088216) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -47,23 +47,11 @@ Lottie是一种**开源的矢量动画文件格式**，最初由Hernan Torrisi�
 
 ---
 
-## <a name="3"></a>3. 免费自学计算机科学的完整路径 
-<small>🔗 [github.com](https://github.com/ossu/computer-science): Open Source Society University – Path to a free self-taught education in CS</small>
-
-
-| 🔥🔥: 239 \| 💬: [98](https://news.ycombinator.com/item?id=44089150) \| 🗓️ 2025-05-25
-
-
-<br />
-该开源项目提供了一套系统的**计算机科学自学课程**，涵盖从入门到高级的所有核心领域，包括编程、数学、系统、安全等。课程精选自哈佛、MIT等顶尖学府，全部免费或提供经济援助选项。学习路径分为**基础CS**、**核心CS**和**高级CS**三阶段，适合零基础者按计划完成（约2年，每周20小时）。学习者可加入全球社区互助，最终通过**实战项目**验证技能。强调自主性与高质量资源，目标是培养扎实的计算机科学基础，而非仅职业培训。
-
----
-
-## <a name="4"></a>4. 亚马逊程序员吐槽：AI让编码工作沦为“流水线” 
+## <a name="3"></a>3. 亚马逊程序员吐槽：AI让编码工作沦为“流水线” 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html): At Amazon, some coders say their jobs have begun to resemble warehouse work</small>
 
 
-| 🔥🔥: 237 \| 💬: [362](https://news.ycombinator.com/item?id=44087150) \| 🗓️ 2025-05-25
+| 🔥🔥: 266 \| 💬: [387](https://news.ycombinator.com/item?id=44087150) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -71,11 +59,23 @@ Lottie是一种**开源的矢量动画文件格式**，最初由Hernan Torrisi�
 
 ---
 
+## <a name="4"></a>4. 免费自学计算机科学的完整路径 
+<small>🔗 [github.com](https://github.com/ossu/computer-science): Open Source Society University – Path to a free self-taught education in CS</small>
+
+
+| 🔥🔥: 260 \| 💬: [100](https://news.ycombinator.com/item?id=44089150) \| 🗓️ 2025-05-25
+
+
+<br />
+该开源项目提供了一套系统的**计算机科学自学课程**，涵盖从入门到高级的所有核心领域，包括编程、数学、系统、安全等。课程精选自哈佛、MIT等顶尖学府，全部免费或提供经济援助选项。学习路径分为**基础CS**、**核心CS**和**高级CS**三阶段，适合零基础者按计划完成（约2年，每周20小时）。学习者可加入全球社区互助，最终通过**实战项目**验证技能。强调自主性与高质量资源，目标是培养扎实的计算机科学基础，而非仅职业培训。
+
+---
+
 ## <a name="5"></a>5. 一键打造炫酷SVG动画 
 <small>🔗 [expressive.app](https://expressive.app/expressive-animator/): Show HN: SVG Animation Software</small>
 
 
-| 🔥🔥: 179 \| 💬: [83](https://news.ycombinator.com/item?id=44087049) \| 🗓️ 2025-05-25
+| 🔥🔥: 181 \| 💬: [85](https://news.ycombinator.com/item?id=44087049) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -87,7 +87,7 @@ Expressive Animator是一款**跨平台SVG动画软件**（支持Windows/macOS�
 <small>🔗 [chomsky.info](https://chomsky.info/20230503-2/): Chomsky on what ChatGPT is good for (2023)</small>
 
 
-| 🔥🔥: 166 \| 💬: [207](https://news.ycombinator.com/item?id=44089156) \| 🗓️ 2025-05-25
+| 🔥🔥: 176 \| 💬: [216](https://news.ycombinator.com/item?id=44089156) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -95,23 +95,11 @@ Expressive Animator是一款**跨平台SVG动画软件**（支持Windows/macOS�
 
 ---
 
-## <a name="7"></a>7. Prolog编写的X11动态平铺窗口管理器：plwm 
-<small>🔗 [github.com](https://github.com/Seeker04/plwm): Plwm – An X11 window manager written in Prolog</small>
-
-
-| 🔥🔥: 154 \| 💬: [35](https://news.ycombinator.com/item?id=44089424) \| 🗓️ 2025-05-25
-
-
-<br />
-plwm是一款基于**Prolog**语言开发的**X11动态平铺窗口管理器**，核心目标是提供高度可定制化、轻量级且符合逻辑编程范式的用户体验。支持多种布局（如主从堆叠、网格、浮动窗口等），默认键位与dwm类似，可通过修改`config.pl`文件灵活配置。亮点包括**低内存占用**（10-15MB）、多显示器支持、外部状态栏集成（如polybar）以及通过Prolog的**声明式配置**实现直观管理。项目采用MIT协议，适合希望探索逻辑编程或追求高效窗口管理的用户。
-
----
-
-## <a name="8"></a>8. 设计压力：无形中塑造代码的推手 
+## <a name="7"></a>7. 设计压力：无形中塑造代码的推手 
 <small>🔗 [hynek.me](https://hynek.me/talks/design-pressure/): Design Pressure: The Invisible Hand That Shapes Your Code</small>
 
 
-| 🔥🔥: 152 \| 💬: [41](https://news.ycombinator.com/item?id=44087844) \| 🗓️ 2025-05-25
+| 🔥🔥: 158 \| 💬: [41](https://news.ycombinator.com/item?id=44087844) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -119,11 +107,23 @@ plwm是一款基于**Prolog**语言开发的**X11动态平铺窗口管理器**�
 
 ---
 
+## <a name="8"></a>8. Prolog编写的X11动态平铺窗口管理器：plwm 
+<small>🔗 [github.com](https://github.com/Seeker04/plwm): Plwm – An X11 window manager written in Prolog</small>
+
+
+| 🔥🔥: 158 \| 💬: [41](https://news.ycombinator.com/item?id=44089424) \| 🗓️ 2025-05-25
+
+
+<br />
+plwm是一款基于**Prolog**语言开发的**X11动态平铺窗口管理器**，核心目标是提供高度可定制化、轻量级且符合逻辑编程范式的用户体验。支持多种布局（如主从堆叠、网格、浮动窗口等），默认键位与dwm类似，可通过修改`config.pl`文件灵活配置。亮点包括**低内存占用**（10-15MB）、多显示器支持、外部状态栏集成（如polybar）以及通过Prolog的**声明式配置**实现直观管理。项目采用MIT协议，适合希望探索逻辑编程或追求高效窗口管理的用户。
+
+---
+
 ## <a name="9"></a>9. 用100行Python编写CUPS打印机驱动（2018） 
 <small>🔗 [behind.pretix.eu](https://behind.pretix.eu/2018/01/20/cups-driver/): Writing your own CUPS printer driver in 100 lines of Python (2018)</small>
 
 
-| 🔥🔥: 152 \| 💬: [20](https://news.ycombinator.com/item?id=44088682) \| 🗓️ 2025-05-25
+| 🔥🔥: 155 \| 💬: [20](https://news.ycombinator.com/item?id=44088682) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -135,7 +135,7 @@ plwm是一款基于**Prolog**语言开发的**X11动态平铺窗口管理器**�
 <small>🔗 [github.com](https://github.com/DustinBrett/daedalOS): Show HN: DaedalOS – Desktop Environment in the Browser</small>
 
 
-| 🔥🔥: 129 \| 💬: [25](https://news.ycombinator.com/item?id=44088777) \| 🗓️ 2025-05-25
+| 🔥🔥: 138 \| 💬: [25](https://news.ycombinator.com/item?id=44088777) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -147,7 +147,7 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 <small>🔗 [theverge.com](https://www.theverge.com/planes/673462/newark-airport-delay-air-traffic-control-tracon-radar): The Newark airport crisis</small>
 
 
-| 🔥🔥: 121 \| 💬: [103](https://news.ycombinator.com/item?id=44089134) \| 🗓️ 2025-05-25
+| 🔥🔥: 123 \| 💬: [107](https://news.ycombinator.com/item?id=44089134) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -155,23 +155,11 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 
 ---
 
-## <a name="12"></a>12. 2024年加密货币用户面临的暴力攻击威胁分析 
-<small>🔗 [drops.dagstuhl.de](https://drops.dagstuhl.de/storage/00lipics/lipics-vol316-aft2024/LIPIcs.AFT.2024.24/LIPIcs.AFT.2024.24.pdf): Wrench Attacks: Physical attacks targeting cryptocurrency users (2024) [pdf]</small>
-
-
-| 🔥🔥: 102 \| 💬: [86](https://news.ycombinator.com/item?id=44087183) \| 🗓️ 2025-05-25
-
-
-<br />
-该研究探讨了针对加密货币用户的**暴力攻击**（"扳手攻击"）现象，分析了犯罪脚本、攻击步骤（包括目标选择、作案工具和动机）以及受害者的安全行为模式。报告提出了预防措施，如**保持低调**、优化资金管理策略，并建议通过**系统设计改进**（如钱包协议升级）增强安全性。研究强调，这类物理犯罪与数字资产风险密切相关，需结合技术防护与用户教育应对威胁。
-
----
-
-## <a name="13"></a>13. JSON Web Token十年历程与未来展望 
+## <a name="12"></a>12. JSON Web Token十年历程与未来展望 
 <small>🔗 [self-issued.info](https://self-issued.info/?p=2708): Ten years of JSON Web Token and preparing for the future</small>
 
 
-| 🔥: 98 \| 💬: [37](https://news.ycombinator.com/item?id=44092102) \| 🗓️ 2025-05-25
+| 🔥🔥: 116 \| 💬: [42](https://news.ycombinator.com/item?id=44092102) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -179,23 +167,23 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 
 ---
 
-## <a name="14"></a>14. 编写自修改的x86_64 C程序（2013） 
-<small>🔗 [ephemeral.cx](https://ephemeral.cx/2013/12/writing-a-self-mutating-x86_64-c-program/): Writing a Self-Mutating x86_64 C Program (2013)</small>
+## <a name="13"></a>13. 2024年加密货币用户面临的暴力攻击威胁分析 
+<small>🔗 [drops.dagstuhl.de](https://drops.dagstuhl.de/storage/00lipics/lipics-vol316-aft2024/LIPIcs.AFT.2024.24/LIPIcs.AFT.2024.24.pdf): Wrench Attacks: Physical attacks targeting cryptocurrency users (2024) [pdf]</small>
 
 
-| 🔥: 83 \| 💬: [22](https://news.ycombinator.com/item?id=44089106) \| 🗓️ 2025-05-25
+| 🔥🔥: 103 \| 💬: [87](https://news.ycombinator.com/item?id=44087183) \| 🗓️ 2025-05-25
 
 
 <br />
-本文探讨了如何通过**运行时修改代码**实现自修改程序，尽管这种技术在实际开发中弊大于利（如调试困难、硬件依赖等），但具有学术价值。作者以Linux环境为例，使用`mprotect()`函数解除代码段（**text segment**）的写保护，并通过修改`foo()`函数中`addl`指令的机器码（将立即数从1改为42），演示了动态改写指令的过程。关键步骤包括：获取函数内存地址、计算目标字节偏移量、修改权限并覆写指令。最终程序首次调用输出1，修改后输出42，验证了自修改逻辑的可行性。
+该研究探讨了针对加密货币用户的**暴力攻击**（"扳手攻击"）现象，分析了犯罪脚本、攻击步骤（包括目标选择、作案工具和动机）以及受害者的安全行为模式。报告提出了预防措施，如**保持低调**、优化资金管理策略，并建议通过**系统设计改进**（如钱包协议升级）增强安全性。研究强调，这类物理犯罪与数字资产风险密切相关，需结合技术防护与用户教育应对威胁。
 
 ---
 
-## <a name="15"></a>15. 伦敦维多利亚线高温难题难解？ 
+## <a name="14"></a>14. 伦敦维多利亚线高温难题难解？ 
 <small>🔗 [swlondoner.co.uk](https://www.swlondoner.co.uk/news/16052025-is-tfl-losing-the-battle-against-heat-on-the-victoria-line): Is TfL losing the battle against heat on the Victoria line?</small>
 
 
-| 🔥: 81 \| 💬: [157](https://news.ycombinator.com/item?id=44086530) \| 🗓️ 2025-05-25
+| 🔥: 89 \| 💬: [164](https://news.ycombinator.com/item?id=44086530) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -203,11 +191,23 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 
 ---
 
+## <a name="15"></a>15. 编写自修改的x86_64 C程序（2013） 
+<small>🔗 [ephemeral.cx](https://ephemeral.cx/2013/12/writing-a-self-mutating-x86_64-c-program/): Writing a Self-Mutating x86_64 C Program (2013)</small>
+
+
+| 🔥: 88 \| 💬: [22](https://news.ycombinator.com/item?id=44089106) \| 🗓️ 2025-05-25
+
+
+<br />
+本文探讨了如何通过**运行时修改代码**实现自修改程序，尽管这种技术在实际开发中弊大于利（如调试困难、硬件依赖等），但具有学术价值。作者以Linux环境为例，使用`mprotect()`函数解除代码段（**text segment**）的写保护，并通过修改`foo()`函数中`addl`指令的机器码（将立即数从1改为42），演示了动态改写指令的过程。关键步骤包括：获取函数内存地址、计算目标字节偏移量、修改权限并覆写指令。最终程序首次调用输出1，修改后输出42，验证了自修改逻辑的可行性。
+
+---
+
 ## <a name="16"></a>16. 作家不慎将AI提示词留在了小说中 
 <small>🔗 [404media.co](https://www.404media.co/authors-are-accidentally-leaving-ai-prompts-in-their-novels/): Authors are accidentally leaving AI prompts in their novels</small>
 
 
-| 🔥: 70 \| 💬: [58](https://news.ycombinator.com/item?id=44088482) \| 🗓️ 2025-05-25
+| 🔥: 73 \| 💬: [58](https://news.ycombinator.com/item?id=44088482) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -221,7 +221,7 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 <small>🔗 [damiencharlotin.com](https://www.damiencharlotin.com/hallucinations/): AI Hallucination Legal Cases Database</small>
 
 
-| 🔥: 67 \| 💬: [40](https://news.ycombinator.com/item?id=44088772) \| 🗓️ 2025-05-25
+| 🔥: 68 \| 💬: [40](https://news.ycombinator.com/item?id=44088772) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -233,7 +233,7 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 <small>🔗 [github.com](https://github.com/xcaeser/zli): Show HN: Zli – A Batteries-Included CLI Framework for Zig</small>
 
 
-| 🔥: 66 \| 💬: [33](https://news.ycombinator.com/item?id=44089054) \| 🗓️ 2025-05-25
+| 🔥: 67 \| 💬: [34](https://news.ycombinator.com/item?id=44089054) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -245,7 +245,7 @@ Zli是一个**模块化**、**零成本抽象**的Zig命令行工具开发框架
 <small>🔗 [theconversation.com](https://theconversation.com/believe-it-or-not-there-was-a-time-when-the-us-government-built-beautiful-homes-for-working-class-americans-to-deal-with-a-housing-crisis-253512): There was a time when the US government built homes for working-class Americans</small>
 
 
-| 🔥: 63 \| 💬: [106](https://news.ycombinator.com/item?id=44087793) \| 🗓️ 2025-05-25
+| 🔥: 66 \| 💬: [107](https://news.ycombinator.com/item?id=44087793) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -257,7 +257,7 @@ Zli是一个**模块化**、**零成本抽象**的Zig命令行工具开发框架
 <small>🔗 [solipsys.co.uk](https://www.solipsys.co.uk/new/WhyTopPostingHasWon.html?ye25hn): Why top posting has won (2018)</small>
 
 
-| 🔥: 61 \| 💬: [74](https://news.ycombinator.com/item?id=44088644) \| 🗓️ 2025-05-25
+| 🔥: 63 \| 💬: [74](https://news.ycombinator.com/item?id=44088644) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -265,23 +265,11 @@ Zli是一个**模块化**、**零成本抽象**的Zig命令行工具开发框架
 
 ---
 
-## <a name="21"></a>21. SteamOS 正式版现已全面开放下载 
-<small>🔗 [store.steampowered.com](https://store.steampowered.com/steamos): SteamOS now released officially for any device</small>
-
-
-| 🔥: 57 \| 💬: [4](https://news.ycombinator.com/item?id=44089990) \| 🗓️ 2025-05-25
-
-
-<br />
-Valve 正式发布了 **SteamOS** 的通用版本，支持在**任何设备**上安装。此次更新意味着用户无需依赖特定硬件（如 Steam Deck）即可体验该系统，进一步扩展了 Steam 生态的兼容性。官网提供了多语言支持（包括**简体中文**），并详细列出了安装要求与指南。这一举措可能推动更多玩家尝试基于 Linux 的游戏解决方案。
-
----
-
-## <a name="22"></a>22. 企业能否获得总统特赦？ 
+## <a name="21"></a>21. 企业能否获得总统特赦？ 
 <small>🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202339): Can a corporation be pardoned?</small>
 
 
-| 🔥: 56 \| 💬: [86](https://news.ycombinator.com/item?id=44088926) \| 🗓️ 2025-05-25
+| 🔥: 59 \| 💬: [88](https://news.ycombinator.com/item?id=44088926) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -289,11 +277,23 @@ Valve 正式发布了 **SteamOS** 的通用版本，支持在**任何设备**上
 
 ---
 
+## <a name="22"></a>22. SteamOS 正式版现已全面开放下载 
+<small>🔗 [store.steampowered.com](https://store.steampowered.com/steamos): SteamOS now released officially for any device</small>
+
+
+| 🔥: 59 \| 💬: [5](https://news.ycombinator.com/item?id=44089990) \| 🗓️ 2025-05-25
+
+
+<br />
+Valve 正式发布了 **SteamOS** 的通用版本，支持在**任何设备**上安装。此次更新意味着用户无需依赖特定硬件（如 Steam Deck）即可体验该系统，进一步扩展了 Steam 生态的兼容性。官网提供了多语言支持（包括**简体中文**），并详细列出了安装要求与指南。这一举措可能推动更多玩家尝试基于 Linux 的游戏解决方案。
+
+---
+
 ## <a name="23"></a>23. 当乔尼遇上萨姆：一场科技巨头的"订婚派对" 
 <small>🔗 [sfstandard.com](https://sfstandard.com/2025/05/23/sam-altman-jony-ive-video/): We broke down the Sam Altman and Jony Ive video</small>
 
 
-| 🔥: 56 \| 💬: [61](https://news.ycombinator.com/item?id=44092019) \| 🗓️ 2025-05-25
+| 🔥: 56 \| 💬: [62](https://news.ycombinator.com/item?id=44092019) \| 🗓️ 2025-05-25
 
 
 <br />
