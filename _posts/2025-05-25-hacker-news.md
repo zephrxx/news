@@ -9,10 +9,10 @@ tags:
 
 
 1. 丹麦拟2040年将退休年龄提高至70岁；
-1. Lottie：开源的矢量动画格式；
 1. 亚马逊程序员吐槽：AI让编码工作沦为“流水线”；
+1. Lottie：开源的矢量动画格式；
 1. 免费自学计算机科学的完整路径；
-1. 一键打造炫酷SVG动画；
+1. 乔姆斯基谈ChatGPT的真正价值；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [telegraph.co.uk](https://www.telegraph.co.uk/world-news/2025/05/23/denmark-raise-retirement-age-70/): Denmark to raise retirement age to 70</small>
 
 
-| 🔥🔥: 344 \| 💬: [825](https://news.ycombinator.com/item?id=44088957) \| 🗓️ 2025-05-25
+| 🔥🔥: 356 \| 💬: [863](https://news.ycombinator.com/item?id=44088957) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -35,23 +35,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. Lottie：开源的矢量动画格式 
-<small>🔗 [lottie.github.io](https://lottie.github.io/): Lottie is an open format for animated vector graphics</small>
-
-
-| 🔥🔥: 272 \| 💬: [125](https://news.ycombinator.com/item?id=44088216) \| 🗓️ 2025-05-25
-
-
-<br />
-Lottie是一种**开源的矢量动画文件格式**，最初由Hernan Torrisi于2015年创建，用于从Adobe After Effects导出和播放动画。它以JSON格式存储动画数据，包含关键帧、缓动曲线和图层信息，支持复杂动画和交互元素。**矢量图形**使其分辨率无关，而**补间动画**技术自动生成中间帧。Lottie拥有丰富的生态系统，被广泛应用于网页和移动应用，并由非营利组织Lottie动画社区（LAC）推动标准化，致力于成为跨平台的行业标准。
-
----
-
-## <a name="3"></a>3. 亚马逊程序员吐槽：AI让编码工作沦为“流水线” 
+## <a name="2"></a>2. 亚马逊程序员吐槽：AI让编码工作沦为“流水线” 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html): At Amazon, some coders say their jobs have begun to resemble warehouse work</small>
 
 
-| 🔥🔥: 266 \| 💬: [387](https://news.ycombinator.com/item?id=44087150) \| 🗓️ 2025-05-25
+| 🔥🔥: 293 \| 💬: [432](https://news.ycombinator.com/item?id=44087150) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -59,11 +47,23 @@ Lottie是一种**开源的矢量动画文件格式**，最初由Hernan Torrisi�
 
 ---
 
+## <a name="3"></a>3. Lottie：开源的矢量动画格式 
+<small>🔗 [lottie.github.io](https://lottie.github.io/): Lottie is an open format for animated vector graphics</small>
+
+
+| 🔥🔥: 284 \| 💬: [128](https://news.ycombinator.com/item?id=44088216) \| 🗓️ 2025-05-25
+
+
+<br />
+Lottie是一种**开源的矢量动画文件格式**，最初由Hernan Torrisi于2015年创建，用于从Adobe After Effects导出和播放动画。它以JSON格式存储动画数据，包含关键帧、缓动曲线和图层信息，支持复杂动画和交互元素。**矢量图形**使其分辨率无关，而**补间动画**技术自动生成中间帧。Lottie拥有丰富的生态系统，被广泛应用于网页和移动应用，并由非营利组织Lottie动画社区（LAC）推动标准化，致力于成为跨平台的行业标准。
+
+---
+
 ## <a name="4"></a>4. 免费自学计算机科学的完整路径 
 <small>🔗 [github.com](https://github.com/ossu/computer-science): Open Source Society University – Path to a free self-taught education in CS</small>
 
 
-| 🔥🔥: 260 \| 💬: [100](https://news.ycombinator.com/item?id=44089150) \| 🗓️ 2025-05-25
+| 🔥🔥: 283 \| 💬: [104](https://news.ycombinator.com/item?id=44089150) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -71,23 +71,11 @@ Lottie是一种**开源的矢量动画文件格式**，最初由Hernan Torrisi�
 
 ---
 
-## <a name="5"></a>5. 一键打造炫酷SVG动画 
-<small>🔗 [expressive.app](https://expressive.app/expressive-animator/): Show HN: SVG Animation Software</small>
-
-
-| 🔥🔥: 181 \| 💬: [85](https://news.ycombinator.com/item?id=44087049) \| 🗓️ 2025-05-25
-
-
-<br />
-Expressive Animator是一款**跨平台SVG动画软件**（支持Windows/macOS），提供**关键帧动画**、矢量编辑、字体排版等专业工具，可导入Figma/SVG/PDF/Ai文件快速制作动态内容。支持导出视频、GIF、APNG及Lottie格式，特别适合**社交媒体设计**和网页动效创作。内置**渐变编辑器**、遮罩路径、混合模式等高级功能，买断制授权无需订阅。
-
----
-
-## <a name="6"></a>6. 乔姆斯基谈ChatGPT的真正价值 
+## <a name="5"></a>5. 乔姆斯基谈ChatGPT的真正价值 
 <small>🔗 [chomsky.info](https://chomsky.info/20230503-2/): Chomsky on what ChatGPT is good for (2023)</small>
 
 
-| 🔥🔥: 176 \| 💬: [216](https://news.ycombinator.com/item?id=44089156) \| 🗓️ 2025-05-25
+| 🔥🔥: 183 \| 💬: [226](https://news.ycombinator.com/item?id=44089156) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -95,23 +83,23 @@ Expressive Animator是一款**跨平台SVG动画软件**（支持Windows/macOS�
 
 ---
 
-## <a name="7"></a>7. 设计压力：无形中塑造代码的推手 
-<small>🔗 [hynek.me](https://hynek.me/talks/design-pressure/): Design Pressure: The Invisible Hand That Shapes Your Code</small>
+## <a name="6"></a>6. 一键打造炫酷SVG动画 
+<small>🔗 [expressive.app](https://expressive.app/expressive-animator/): Show HN: SVG Animation Software</small>
 
 
-| 🔥🔥: 158 \| 💬: [41](https://news.ycombinator.com/item?id=44087844) \| 🗓️ 2025-05-25
+| 🔥🔥: 182 \| 💬: [86](https://news.ycombinator.com/item?id=44087049) \| 🗓️ 2025-05-25
 
 
 <br />
-你是否曾感觉代码“不对劲”却找不到原因？即使遵循最佳实践，架构仍会逐渐扭曲？本文探讨了**设计压力**——那些隐形的力量如何影响代码质量。作者在PyCon US 2025的演讲中分享了相关见解，并推荐了多篇深度文章与视频（如《类型耦合》《越南的计算机科学》），涵盖耦合、领域建模等核心概念。**关键点**：设计决策是权衡的结果，而**代码“颜色”**（如ORM类的特殊行为）会显著影响可维护性。文末附有书单（如《领域驱动设计》）及创作者支持方式。
+Expressive Animator是一款**跨平台SVG动画软件**（支持Windows/macOS），提供**关键帧动画**、矢量编辑、字体排版等专业工具，可导入Figma/SVG/PDF/Ai文件快速制作动态内容。支持导出视频、GIF、APNG及Lottie格式，特别适合**社交媒体设计**和网页动效创作。内置**渐变编辑器**、遮罩路径、混合模式等高级功能，买断制授权无需订阅。
 
 ---
 
-## <a name="8"></a>8. Prolog编写的X11动态平铺窗口管理器：plwm 
+## <a name="7"></a>7. Prolog编写的X11动态平铺窗口管理器：plwm 
 <small>🔗 [github.com](https://github.com/Seeker04/plwm): Plwm – An X11 window manager written in Prolog</small>
 
 
-| 🔥🔥: 158 \| 💬: [41](https://news.ycombinator.com/item?id=44089424) \| 🗓️ 2025-05-25
+| 🔥🔥: 168 \| 💬: [42](https://news.ycombinator.com/item?id=44089424) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -119,11 +107,23 @@ plwm是一款基于**Prolog**语言开发的**X11动态平铺窗口管理器**�
 
 ---
 
+## <a name="8"></a>8. 设计压力：无形中塑造代码的推手 
+<small>🔗 [hynek.me](https://hynek.me/talks/design-pressure/): Design Pressure: The Invisible Hand That Shapes Your Code</small>
+
+
+| 🔥🔥: 167 \| 💬: [43](https://news.ycombinator.com/item?id=44087844) \| 🗓️ 2025-05-25
+
+
+<br />
+你是否曾感觉代码“不对劲”却找不到原因？即使遵循最佳实践，架构仍会逐渐扭曲？本文探讨了**设计压力**——那些隐形的力量如何影响代码质量。作者在PyCon US 2025的演讲中分享了相关见解，并推荐了多篇深度文章与视频（如《类型耦合》《越南的计算机科学》），涵盖耦合、领域建模等核心概念。**关键点**：设计决策是权衡的结果，而**代码“颜色”**（如ORM类的特殊行为）会显著影响可维护性。文末附有书单（如《领域驱动设计》）及创作者支持方式。
+
+---
+
 ## <a name="9"></a>9. 用100行Python编写CUPS打印机驱动（2018） 
 <small>🔗 [behind.pretix.eu](https://behind.pretix.eu/2018/01/20/cups-driver/): Writing your own CUPS printer driver in 100 lines of Python (2018)</small>
 
 
-| 🔥🔥: 155 \| 💬: [20](https://news.ycombinator.com/item?id=44088682) \| 🗓️ 2025-05-25
+| 🔥🔥: 160 \| 💬: [21](https://news.ycombinator.com/item?id=44088682) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -135,7 +135,7 @@ plwm是一款基于**Prolog**语言开发的**X11动态平铺窗口管理器**�
 <small>🔗 [github.com](https://github.com/DustinBrett/daedalOS): Show HN: DaedalOS – Desktop Environment in the Browser</small>
 
 
-| 🔥🔥: 138 \| 💬: [25](https://news.ycombinator.com/item?id=44088777) \| 🗓️ 2025-05-25
+| 🔥🔥: 145 \| 💬: [26](https://news.ycombinator.com/item?id=44088777) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -143,23 +143,11 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 
 ---
 
-## <a name="11"></a>11. 纽瓦克机场危机：空中交通系统濒临崩溃 
-<small>🔗 [theverge.com](https://www.theverge.com/planes/673462/newark-airport-delay-air-traffic-control-tracon-radar): The Newark airport crisis</small>
-
-
-| 🔥🔥: 123 \| 💬: [107](https://news.ycombinator.com/item?id=44089134) \| 🗓️ 2025-05-25
-
-
-<br />
-美国**纽瓦克自由国际机场**因**空中交通管制系统老化**、**人员短缺**和**技术故障**陷入危机。过去一年中，雷达和通信系统多次中断，导致航班大面积延误甚至取消。FAA因预算不足和官僚主义，未能及时升级设备或解决人员流失问题，甚至将部分业务迁至费城，却因**远程数据传输不稳定**加剧风险。专家警告，整个系统已处于崩溃边缘，威胁航空安全和效率。
-
----
-
-## <a name="12"></a>12. JSON Web Token十年历程与未来展望 
+## <a name="11"></a>11. JSON Web Token十年历程与未来展望 
 <small>🔗 [self-issued.info](https://self-issued.info/?p=2708): Ten years of JSON Web Token and preparing for the future</small>
 
 
-| 🔥🔥: 116 \| 💬: [42](https://news.ycombinator.com/item?id=44092102) \| 🗓️ 2025-05-25
+| 🔥🔥: 134 \| 💬: [53](https://news.ycombinator.com/item?id=44092102) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -167,11 +155,23 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 
 ---
 
+## <a name="12"></a>12. 纽瓦克机场危机：空中交通系统濒临崩溃 
+<small>🔗 [theverge.com](https://www.theverge.com/planes/673462/newark-airport-delay-air-traffic-control-tracon-radar): The Newark airport crisis</small>
+
+
+| 🔥🔥: 123 \| 💬: [108](https://news.ycombinator.com/item?id=44089134) \| 🗓️ 2025-05-25
+
+
+<br />
+美国**纽瓦克自由国际机场**因**空中交通管制系统老化**、**人员短缺**和**技术故障**陷入危机。过去一年中，雷达和通信系统多次中断，导致航班大面积延误甚至取消。FAA因预算不足和官僚主义，未能及时升级设备或解决人员流失问题，甚至将部分业务迁至费城，却因**远程数据传输不稳定**加剧风险。专家警告，整个系统已处于崩溃边缘，威胁航空安全和效率。
+
+---
+
 ## <a name="13"></a>13. 2024年加密货币用户面临的暴力攻击威胁分析 
 <small>🔗 [drops.dagstuhl.de](https://drops.dagstuhl.de/storage/00lipics/lipics-vol316-aft2024/LIPIcs.AFT.2024.24/LIPIcs.AFT.2024.24.pdf): Wrench Attacks: Physical attacks targeting cryptocurrency users (2024) [pdf]</small>
 
 
-| 🔥🔥: 103 \| 💬: [87](https://news.ycombinator.com/item?id=44087183) \| 🗓️ 2025-05-25
+| 🔥🔥: 105 \| 💬: [87](https://news.ycombinator.com/item?id=44087183) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -183,7 +183,7 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 <small>🔗 [swlondoner.co.uk](https://www.swlondoner.co.uk/news/16052025-is-tfl-losing-the-battle-against-heat-on-the-victoria-line): Is TfL losing the battle against heat on the Victoria line?</small>
 
 
-| 🔥: 89 \| 💬: [164](https://news.ycombinator.com/item?id=44086530) \| 🗓️ 2025-05-25
+| 🔥: 92 \| 💬: [171](https://news.ycombinator.com/item?id=44086530) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -195,7 +195,7 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 <small>🔗 [ephemeral.cx](https://ephemeral.cx/2013/12/writing-a-self-mutating-x86_64-c-program/): Writing a Self-Mutating x86_64 C Program (2013)</small>
 
 
-| 🔥: 88 \| 💬: [22](https://news.ycombinator.com/item?id=44089106) \| 🗓️ 2025-05-25
+| 🔥: 92 \| 💬: [25](https://news.ycombinator.com/item?id=44089106) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -207,7 +207,7 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 <small>🔗 [404media.co](https://www.404media.co/authors-are-accidentally-leaving-ai-prompts-in-their-novels/): Authors are accidentally leaving AI prompts in their novels</small>
 
 
-| 🔥: 73 \| 💬: [58](https://news.ycombinator.com/item?id=44088482) \| 🗓️ 2025-05-25
+| 🔥: 74 \| 💬: [59](https://news.ycombinator.com/item?id=44088482) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -221,7 +221,7 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 <small>🔗 [damiencharlotin.com](https://www.damiencharlotin.com/hallucinations/): AI Hallucination Legal Cases Database</small>
 
 
-| 🔥: 68 \| 💬: [40](https://news.ycombinator.com/item?id=44088772) \| 🗓️ 2025-05-25
+| 🔥: 70 \| 💬: [41](https://news.ycombinator.com/item?id=44088772) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -233,7 +233,7 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 <small>🔗 [github.com](https://github.com/xcaeser/zli): Show HN: Zli – A Batteries-Included CLI Framework for Zig</small>
 
 
-| 🔥: 67 \| 💬: [34](https://news.ycombinator.com/item?id=44089054) \| 🗓️ 2025-05-25
+| 🔥: 69 \| 💬: [35](https://news.ycombinator.com/item?id=44089054) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -245,7 +245,7 @@ Zli是一个**模块化**、**零成本抽象**的Zig命令行工具开发框架
 <small>🔗 [theconversation.com](https://theconversation.com/believe-it-or-not-there-was-a-time-when-the-us-government-built-beautiful-homes-for-working-class-americans-to-deal-with-a-housing-crisis-253512): There was a time when the US government built homes for working-class Americans</small>
 
 
-| 🔥: 66 \| 💬: [107](https://news.ycombinator.com/item?id=44087793) \| 🗓️ 2025-05-25
+| 🔥: 68 \| 💬: [107](https://news.ycombinator.com/item?id=44087793) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -257,7 +257,7 @@ Zli是一个**模块化**、**零成本抽象**的Zig命令行工具开发框架
 <small>🔗 [solipsys.co.uk](https://www.solipsys.co.uk/new/WhyTopPostingHasWon.html?ye25hn): Why top posting has won (2018)</small>
 
 
-| 🔥: 63 \| 💬: [74](https://news.ycombinator.com/item?id=44088644) \| 🗓️ 2025-05-25
+| 🔥: 64 \| 💬: [74](https://news.ycombinator.com/item?id=44088644) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -265,27 +265,27 @@ Zli是一个**模块化**、**零成本抽象**的Zig命令行工具开发框架
 
 ---
 
-## <a name="21"></a>21. 企业能否获得总统特赦？ 
-<small>🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202339): Can a corporation be pardoned?</small>
-
-
-| 🔥: 59 \| 💬: [88](https://news.ycombinator.com/item?id=44088926) \| 🗓️ 2025-05-25
-
-
-<br />
-这篇论文探讨了美国总统是否拥有对企业进行特赦的宪法权力。**历史背景**显示，英国普通法早有赦免企业的先例（如马萨诸塞湾公司），而美国宪法《特赦条款》的制定者可能继承了这一传统。作者指出，总统可基于政治目的赦免企业（例如换取竞选捐款或外交利益），甚至赦免自身关联企业，但国会可通过**拒绝退还罚款**或**以民事处罚替代刑事责任**来限制此类权力。此外，部分州宪法也可能允许赦免企业，阿拉斯加州已有先例。论文强调，尽管争议颇多，但法律模糊性为律师提供了辩护空间。
-
----
-
-## <a name="22"></a>22. SteamOS 正式版现已全面开放下载 
+## <a name="21"></a>21. SteamOS 正式版现已全面开放下载 
 <small>🔗 [store.steampowered.com](https://store.steampowered.com/steamos): SteamOS now released officially for any device</small>
 
 
-| 🔥: 59 \| 💬: [5](https://news.ycombinator.com/item?id=44089990) \| 🗓️ 2025-05-25
+| 🔥: 63 \| 💬: [6](https://news.ycombinator.com/item?id=44089990) \| 🗓️ 2025-05-25
 
 
 <br />
 Valve 正式发布了 **SteamOS** 的通用版本，支持在**任何设备**上安装。此次更新意味着用户无需依赖特定硬件（如 Steam Deck）即可体验该系统，进一步扩展了 Steam 生态的兼容性。官网提供了多语言支持（包括**简体中文**），并详细列出了安装要求与指南。这一举措可能推动更多玩家尝试基于 Linux 的游戏解决方案。
+
+---
+
+## <a name="22"></a>22. 企业能否获得总统特赦？ 
+<small>🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202339): Can a corporation be pardoned?</small>
+
+
+| 🔥: 59 \| 💬: [91](https://news.ycombinator.com/item?id=44088926) \| 🗓️ 2025-05-25
+
+
+<br />
+这篇论文探讨了美国总统是否拥有对企业进行特赦的宪法权力。**历史背景**显示，英国普通法早有赦免企业的先例（如马萨诸塞湾公司），而美国宪法《特赦条款》的制定者可能继承了这一传统。作者指出，总统可基于政治目的赦免企业（例如换取竞选捐款或外交利益），甚至赦免自身关联企业，但国会可通过**拒绝退还罚款**或**以民事处罚替代刑事责任**来限制此类权力。此外，部分州宪法也可能允许赦免企业，阿拉斯加州已有先例。论文强调，尽管争议颇多，但法律模糊性为律师提供了辩护空间。
 
 ---
 
@@ -305,7 +305,7 @@ OpenAI以65亿美元收购乔尼·艾夫（Jony Ive）的AI设备公司io后，�
 <small>🔗 [oppi.li](https://oppi.li/posts/programming_on_34_keys/): Programming on 34 Keys (2022)</small>
 
 
-| 🔥: 53 \| 💬: [76](https://news.ycombinator.com/item?id=44087373) \| 🗓️ 2025-05-25
+| 🔥: 54 \| 💬: [77](https://news.ycombinator.com/item?id=44087373) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -317,7 +317,7 @@ OpenAI以65亿美元收购乔尼·艾夫（Jony Ive）的AI设备公司io后，�
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/pics/comments/1kujam0/the_american_dream_2025_elderly_walmart_employee/): "The American Dream 2025" Elderly Walmart employee on a COPD machine and crying</small>
 
 
-| 🔥: 40 \| 💬: [27](https://news.ycombinator.com/item?id=44088316) \| 🗓️ 2025-05-25
+| 🔥: 41 \| 💬: [27](https://news.ycombinator.com/item?id=44088316) \| 🗓️ 2025-05-25
 
 
 <br />
