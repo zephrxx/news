@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [telegraph.co.uk](https://www.telegraph.co.uk/world-news/2025/05/23/denmark-raise-retirement-age-70/): Denmark to raise retirement age to 70</small>
 
 
-| 🔥🔥: 238 \| 💬: [566](https://news.ycombinator.com/item?id=44088957) \| 🗓️ 2025-05-25
+| 🔥🔥: 254 \| 💬: [627](https://news.ycombinator.com/item?id=44088957) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [lottie.github.io](https://lottie.github.io/): Lottie is an open format for animated vector graphics</small>
 
 
-| 🔥🔥: 231 \| 💬: [99](https://news.ycombinator.com/item?id=44088216) \| 🗓️ 2025-05-25
+| 🔥🔥: 240 \| 💬: [104](https://news.ycombinator.com/item?id=44088216) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -51,7 +51,7 @@ Lottie是一种**开源的矢量动画文件格式**，最初由Hernan Torrisi�
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html): At Amazon, some coders say their jobs have begun to resemble warehouse work</small>
 
 
-| 🔥🔥: 166 \| 💬: [268](https://news.ycombinator.com/item?id=44087150) \| 🗓️ 2025-05-25
+| 🔥🔥: 173 \| 💬: [279](https://news.ycombinator.com/item?id=44087150) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -63,7 +63,7 @@ Lottie是一种**开源的矢量动画文件格式**，最初由Hernan Torrisi�
 <small>🔗 [expressive.app](https://expressive.app/expressive-animator/): Show HN: SVG Animation Software</small>
 
 
-| 🔥🔥: 159 \| 💬: [74](https://news.ycombinator.com/item?id=44087049) \| 🗓️ 2025-05-25
+| 🔥🔥: 165 \| 💬: [78](https://news.ycombinator.com/item?id=44087049) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -72,10 +72,10 @@ Expressive Animator是一款**跨平台SVG动画软件**（支持Windows/macOS�
 ---
 
 ## <a name="5"></a>5. 免费自学计算机科学的完整路径 
-<small>🔗 [github.com](https://github.com/ossu/computer-science): Path to a free self-taught education in Computer Science</small>
+<small>🔗 [github.com](https://github.com/ossu/computer-science): Open Source Society University – Path to a free self-taught education in CS</small>
 
 
-| 🔥🔥: 138 \| 💬: [67](https://news.ycombinator.com/item?id=44089150) \| 🗓️ 2025-05-25
+| 🔥🔥: 159 \| 💬: [73](https://news.ycombinator.com/item?id=44089150) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -87,7 +87,7 @@ Expressive Animator是一款**跨平台SVG动画软件**（支持Windows/macOS�
 <small>🔗 [behind.pretix.eu](https://behind.pretix.eu/2018/01/20/cups-driver/): Writing your own CUPS printer driver in 100 lines of Python (2018)</small>
 
 
-| 🔥🔥: 125 \| 💬: [14](https://news.ycombinator.com/item?id=44088682) \| 🗓️ 2025-05-25
+| 🔥🔥: 135 \| 💬: [14](https://news.ycombinator.com/item?id=44088682) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -95,23 +95,11 @@ Expressive Animator是一款**跨平台SVG动画软件**（支持Windows/macOS�
 
 ---
 
-## <a name="7"></a>7. 设计压力：无形中塑造代码的推手 
-<small>🔗 [hynek.me](https://hynek.me/talks/design-pressure/): Design Pressure: The Invisible Hand That Shapes Your Code</small>
-
-
-| 🔥🔥: 121 \| 💬: [32](https://news.ycombinator.com/item?id=44087844) \| 🗓️ 2025-05-25
-
-
-<br />
-你是否曾感觉代码“不对劲”却找不到原因？即使遵循最佳实践，架构仍会逐渐扭曲？本文探讨了**设计压力**——那些隐形的力量如何影响代码质量。作者在PyCon US 2025的演讲中分享了相关见解，并推荐了多篇深度文章与视频（如《类型耦合》《越南的计算机科学》），涵盖耦合、领域建模等核心概念。**关键点**：设计决策是权衡的结果，而**代码“颜色”**（如ORM类的特殊行为）会显著影响可维护性。文末附有书单（如《领域驱动设计》）及创作者支持方式。
-
----
-
-## <a name="8"></a>8. Prolog编写的X11动态平铺窗口管理器：plwm 
+## <a name="7"></a>7. Prolog编写的X11动态平铺窗口管理器：plwm 
 <small>🔗 [github.com](https://github.com/Seeker04/plwm): Plwm – An X11 window manager written in Prolog</small>
 
 
-| 🔥🔥: 119 \| 💬: [24](https://news.ycombinator.com/item?id=44089424) \| 🗓️ 2025-05-25
+| 🔥🔥: 134 \| 💬: [27](https://news.ycombinator.com/item?id=44089424) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -119,11 +107,23 @@ plwm是一款基于**Prolog**语言开发的**X11动态平铺窗口管理器**�
 
 ---
 
+## <a name="8"></a>8. 设计压力：无形中塑造代码的推手 
+<small>🔗 [hynek.me](https://hynek.me/talks/design-pressure/): Design Pressure: The Invisible Hand That Shapes Your Code</small>
+
+
+| 🔥🔥: 129 \| 💬: [36](https://news.ycombinator.com/item?id=44087844) \| 🗓️ 2025-05-25
+
+
+<br />
+你是否曾感觉代码“不对劲”却找不到原因？即使遵循最佳实践，架构仍会逐渐扭曲？本文探讨了**设计压力**——那些隐形的力量如何影响代码质量。作者在PyCon US 2025的演讲中分享了相关见解，并推荐了多篇深度文章与视频（如《类型耦合》《越南的计算机科学》），涵盖耦合、领域建模等核心概念。**关键点**：设计决策是权衡的结果，而**代码“颜色”**（如ORM类的特殊行为）会显著影响可维护性。文末附有书单（如《领域驱动设计》）及创作者支持方式。
+
+---
+
 ## <a name="9"></a>9. 纽瓦克机场危机：空中交通系统濒临崩溃 
 <small>🔗 [theverge.com](https://www.theverge.com/planes/673462/newark-airport-delay-air-traffic-control-tracon-radar): The Newark airport crisis</small>
 
 
-| 🔥🔥: 104 \| 💬: [84](https://news.ycombinator.com/item?id=44089134) \| 🗓️ 2025-05-25
+| 🔥🔥: 113 \| 💬: [91](https://news.ycombinator.com/item?id=44089134) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -131,23 +131,11 @@ plwm是一款基于**Prolog**语言开发的**X11动态平铺窗口管理器**�
 
 ---
 
-## <a name="10"></a>10. 乔姆斯基谈ChatGPT的真正价值 
-<small>🔗 [chomsky.info](https://chomsky.info/20230503-2/): Chomsky on what ChatGPT is good for</small>
-
-
-| 🔥: 95 \| 💬: [125](https://news.ycombinator.com/item?id=44089156) \| 🗓️ 2025-05-25
-
-
-<br />
-乔姆斯基指出，**ChatGPT**等基于**大型语言模型（LLM）**的AI本质是工程产品，擅长模拟人类行为，但无法揭示语言或认知的本质。它们依赖海量数据统计规律，可能助长虚假信息，且**无法区分可能/不可能的语言**（如婴儿自然习得与人工构造的无效语言）。科学应探索生物智能的内在机制（如人类语言天赋），而非止步于行为模仿。AI的工程应用需权衡利弊，但其科学价值被夸大，甚至背离了认知研究的核心目标。
-
----
-
-## <a name="11"></a>11. DaedalOS：浏览器内的桌面环境 
+## <a name="10"></a>10. DaedalOS：浏览器内的桌面环境 
 <small>🔗 [github.com](https://github.com/DustinBrett/daedalOS): Show HN: DaedalOS – Desktop Environment in the Browser</small>
 
 
-| 🔥: 94 \| 💬: [19](https://news.ycombinator.com/item?id=44088777) \| 🗓️ 2025-05-25
+| 🔥🔥: 111 \| 💬: [23](https://news.ycombinator.com/item?id=44088777) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -155,11 +143,23 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 
 ---
 
+## <a name="11"></a>11. 乔姆斯基谈ChatGPT的真正价值 
+<small>🔗 [chomsky.info](https://chomsky.info/20230503-2/): Chomsky on what ChatGPT is good for (2023)</small>
+
+
+| 🔥: 99 \| 💬: [131](https://news.ycombinator.com/item?id=44089156) \| 🗓️ 2025-05-25
+
+
+<br />
+乔姆斯基指出，**ChatGPT**等基于**大型语言模型（LLM）**的AI本质是工程产品，擅长模拟人类行为，但无法揭示语言或认知的本质。它们依赖海量数据统计规律，可能助长虚假信息，且**无法区分可能/不可能的语言**（如婴儿自然习得与人工构造的无效语言）。科学应探索生物智能的内在机制（如人类语言天赋），而非止步于行为模仿。AI的工程应用需权衡利弊，但其科学价值被夸大，甚至背离了认知研究的核心目标。
+
+---
+
 ## <a name="12"></a>12. 2024年加密货币用户面临的暴力攻击威胁分析 
 <small>🔗 [drops.dagstuhl.de](https://drops.dagstuhl.de/storage/00lipics/lipics-vol316-aft2024/LIPIcs.AFT.2024.24/LIPIcs.AFT.2024.24.pdf): Wrench Attacks: Physical attacks targeting cryptocurrency users (2024) [pdf]</small>
 
 
-| 🔥: 84 \| 💬: [63](https://news.ycombinator.com/item?id=44087183) \| 🗓️ 2025-05-25
+| 🔥: 89 \| 💬: [68](https://news.ycombinator.com/item?id=44087183) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -171,7 +171,7 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 <small>🔗 [swlondoner.co.uk](https://www.swlondoner.co.uk/news/16052025-is-tfl-losing-the-battle-against-heat-on-the-victoria-line): Is TfL losing the battle against heat on the Victoria line?</small>
 
 
-| 🔥: 67 \| 💬: [104](https://news.ycombinator.com/item?id=44086530) \| 🗓️ 2025-05-25
+| 🔥: 70 \| 💬: [117](https://news.ycombinator.com/item?id=44086530) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -183,7 +183,7 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 <small>🔗 [404media.co](https://www.404media.co/authors-are-accidentally-leaving-ai-prompts-in-their-novels/): Authors are accidentally leaving AI prompts in their novels</small>
 
 
-| 🔥: 67 \| 💬: [54](https://news.ycombinator.com/item?id=44088482) \| 🗓️ 2025-05-25
+| 🔥: 67 \| 💬: [57](https://news.ycombinator.com/item?id=44088482) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -197,7 +197,7 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 <small>🔗 [ephemeral.cx](https://ephemeral.cx/2013/12/writing-a-self-mutating-x86_64-c-program/): Writing a Self-Mutating x86_64 C Program (2013)</small>
 
 
-| 🔥: 62 \| 💬: [19](https://news.ycombinator.com/item?id=44089106) \| 🗓️ 2025-05-25
+| 🔥: 65 \| 💬: [19](https://news.ycombinator.com/item?id=44089106) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -209,7 +209,7 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 <small>🔗 [damiencharlotin.com](https://www.damiencharlotin.com/hallucinations/): AI Hallucination Cases Database</small>
 
 
-| 🔥: 60 \| 💬: [36](https://news.ycombinator.com/item?id=44088772) \| 🗓️ 2025-05-25
+| 🔥: 62 \| 💬: [37](https://news.ycombinator.com/item?id=44088772) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -217,23 +217,11 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 
 ---
 
-## <a name="17"></a>17. 美国政府曾为工薪阶层建造理想社区 
-<small>🔗 [theconversation.com](https://theconversation.com/believe-it-or-not-there-was-a-time-when-the-us-government-built-beautiful-homes-for-working-class-americans-to-deal-with-a-housing-crisis-253512): There was a time when the US government built homes for working-class Americans</small>
-
-
-| 🔥: 59 \| 💬: [100](https://news.ycombinator.com/item?id=44087793) \| 🗓️ 2025-05-25
-
-
-<br />
-1918年，美国为应对一战期间的住房危机，成立**美国住房公司**，在两年内于26州建成80多个规划完善的社区，提供近10万套住房。这些社区融合**花园城市理念**，配备学校、公园和现代基础设施，注重美观与功能性。政府以租赁后分期出售的方式帮助工人实现**产权自有**。尽管战后项目终止，但其设计标准影响深远，至今许多社区仍存。这一历史案例证明，政府主导的住房计划能高效解决危机，对当前住房困境具有启示意义。
-
----
-
-## <a name="18"></a>18. 为什么顶帖式回复已成主流（2018） 
+## <a name="17"></a>17. 为什么顶帖式回复已成主流（2018） 
 <small>🔗 [solipsys.co.uk](https://www.solipsys.co.uk/new/WhyTopPostingHasWon.html?ye25hn): Why top posting has won (2018)</small>
 
 
-| 🔥: 59 \| 💬: [73](https://news.ycombinator.com/item?id=44088644) \| 🗓️ 2025-05-25
+| 🔥: 61 \| 💬: [74](https://news.ycombinator.com/item?id=44088644) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -241,23 +229,23 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 
 ---
 
-## <a name="19"></a>19. 在34键键盘上编程的实践与思考 
-<small>🔗 [oppi.li](https://oppi.li/posts/programming_on_34_keys/): Programming on 34 Keys (2022)</small>
+## <a name="18"></a>18. 美国政府曾为工薪阶层建造理想社区 
+<small>🔗 [theconversation.com](https://theconversation.com/believe-it-or-not-there-was-a-time-when-the-us-government-built-beautiful-homes-for-working-class-americans-to-deal-with-a-housing-crisis-253512): There was a time when the US government built homes for working-class Americans</small>
 
 
-| 🔥: 51 \| 💬: [74](https://news.ycombinator.com/item?id=44087373) \| 🗓️ 2025-05-25
+| 🔥: 60 \| 💬: [102](https://news.ycombinator.com/item?id=44087793) \| 🗓️ 2025-05-25
 
 
 <br />
-作者分享了使用**34键分体式键盘Ferricy**的体验，该键盘基于Colemak布局并采用**三层设计（NAV/数字/符号层）**优化编程效率。通过空间组合键（如长按空格触发导航层）和ZMK固件的**组合键功能**（如实现Esc键），解决了键位不足的问题。文中特别强调了**Home-row修饰键**和**Caps-word功能**对提升输入舒适度的帮助，并指出小键盘布局需优先考虑准确性与舒适性，而非速度。
+1918年，美国为应对一战期间的住房危机，成立**美国住房公司**，在两年内于26州建成80多个规划完善的社区，提供近10万套住房。这些社区融合**花园城市理念**，配备学校、公园和现代基础设施，注重美观与功能性。政府以租赁后分期出售的方式帮助工人实现**产权自有**。尽管战后项目终止，但其设计标准影响深远，至今许多社区仍存。这一历史案例证明，政府主导的住房计划能高效解决危机，对当前住房困境具有启示意义。
 
 ---
 
-## <a name="20"></a>20. Zli：Zig语言的高性能全功能CLI开发框架 
+## <a name="19"></a>19. Zli：Zig语言的高性能全功能CLI开发框架 
 <small>🔗 [github.com](https://github.com/xcaeser/zli): Show HN: Zli – A Batteries-Included CLI Framework for Zig</small>
 
 
-| 🔥: 51 \| 💬: [20](https://news.ycombinator.com/item?id=44089054) \| 🗓️ 2025-05-25
+| 🔥: 60 \| 💬: [23](https://news.ycombinator.com/item?id=44089054) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -265,11 +253,23 @@ Zli是一个**模块化**、**零成本抽象**的Zig命令行工具开发框架
 
 ---
 
+## <a name="20"></a>20. 在34键键盘上编程的实践与思考 
+<small>🔗 [oppi.li](https://oppi.li/posts/programming_on_34_keys/): Programming on 34 Keys (2022)</small>
+
+
+| 🔥: 51 \| 💬: [76](https://news.ycombinator.com/item?id=44087373) \| 🗓️ 2025-05-25
+
+
+<br />
+作者分享了使用**34键分体式键盘Ferricy**的体验，该键盘基于Colemak布局并采用**三层设计（NAV/数字/符号层）**优化编程效率。通过空间组合键（如长按空格触发导航层）和ZMK固件的**组合键功能**（如实现Esc键），解决了键位不足的问题。文中特别强调了**Home-row修饰键**和**Caps-word功能**对提升输入舒适度的帮助，并指出小键盘布局需优先考虑准确性与舒适性，而非速度。
+
+---
+
 ## <a name="21"></a>21. 企业能否获得总统特赦？ 
 <small>🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202339): Can a corporation be pardoned?</small>
 
 
-| 🔥: 43 \| 💬: [70](https://news.ycombinator.com/item?id=44088926) \| 🗓️ 2025-05-25
+| 🔥: 44 \| 💬: [77](https://news.ycombinator.com/item?id=44088926) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -277,7 +277,19 @@ Zli是一个**模块化**、**零成本抽象**的Zig命令行工具开发框架
 
 ---
 
-## <a name="22"></a>22. 美国梦2025：老年沃尔玛员工靠呼吸机维生，边工作边哭泣 
+## <a name="22"></a>22. SteamOS 正式版现已全面开放下载 
+<small>🔗 [store.steampowered.com](https://store.steampowered.com/steamos): SteamOS now released officially for any device</small>
+
+
+| 🔥: 41 \| 💬: [4](https://news.ycombinator.com/item?id=44089990) \| 🗓️ 2025-05-25
+
+
+<br />
+Valve 正式发布了 **SteamOS** 的通用版本，支持在**任何设备**上安装。此次更新意味着用户无需依赖特定硬件（如 Steam Deck）即可体验该系统，进一步扩展了 Steam 生态的兼容性。官网提供了多语言支持（包括**简体中文**），并详细列出了安装要求与指南。这一举措可能推动更多玩家尝试基于 Linux 的游戏解决方案。
+
+---
+
+## <a name="23"></a>23. 美国梦2025：老年沃尔玛员工靠呼吸机维生，边工作边哭泣 
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/pics/comments/1kujam0/the_american_dream_2025_elderly_walmart_employee/): "The American Dream 2025" Elderly Walmart employee on a COPD machine and crying</small>
 
 
@@ -289,7 +301,7 @@ Zli是一个**模块化**、**零成本抽象**的Zig命令行工具开发框架
 
 ---
 
-## <a name="23"></a>23. 从哲学到权力：彼得·蒂尔与J.D.万斯对勒内·吉拉尔的误用 
+## <a name="24"></a>24. 从哲学到权力：彼得·蒂尔与J.D.万斯对勒内·吉拉尔的误用 
 <small>🔗 [salmagundi.skidmore.edu](https://salmagundi.skidmore.edu/articles/1176-from-philosophy-to-power): From Philosophy to Power: The Misuse of René Girard by Peter Thiel, J.D. Vance</small>
 
 
