@@ -10,8 +10,8 @@ tags:
 
 1. 丹麦拟2040年将退休年龄提高至70岁；
 1. Lottie：开源的矢量动画格式；
-1. 免费自学计算机科学的完整路径；
 1. 亚马逊程序员吐槽：AI让编码工作沦为“流水线”；
+1. 免费自学计算机科学的完整路径；
 1. 一键打造炫酷SVG动画；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [telegraph.co.uk](https://www.telegraph.co.uk/world-news/2025/05/23/denmark-raise-retirement-age-70/): Denmark to raise retirement age to 70</small>
 
 
-| 🔥🔥: 298 \| 💬: [738](https://news.ycombinator.com/item?id=44088957) \| 🗓️ 2025-05-25
+| 🔥🔥: 312 \| 💬: [766](https://news.ycombinator.com/item?id=44088957) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [lottie.github.io](https://lottie.github.io/): Lottie is an open format for animated vector graphics</small>
 
 
-| 🔥🔥: 255 \| 💬: [113](https://news.ycombinator.com/item?id=44088216) \| 🗓️ 2025-05-25
+| 🔥🔥: 264 \| 💬: [119](https://news.ycombinator.com/item?id=44088216) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -47,23 +47,11 @@ Lottie是一种**开源的矢量动画文件格式**，最初由Hernan Torrisi�
 
 ---
 
-## <a name="3"></a>3. 免费自学计算机科学的完整路径 
-<small>🔗 [github.com](https://github.com/ossu/computer-science): Open Source Society University – Path to a free self-taught education in CS</small>
-
-
-| 🔥🔥: 194 \| 💬: [89](https://news.ycombinator.com/item?id=44089150) \| 🗓️ 2025-05-25
-
-
-<br />
-该开源项目提供了一套系统的**计算机科学自学课程**，涵盖从入门到高级的所有核心领域，包括编程、数学、系统、安全等。课程精选自哈佛、MIT等顶尖学府，全部免费或提供经济援助选项。学习路径分为**基础CS**、**核心CS**和**高级CS**三阶段，适合零基础者按计划完成（约2年，每周20小时）。学习者可加入全球社区互助，最终通过**实战项目**验证技能。强调自主性与高质量资源，目标是培养扎实的计算机科学基础，而非仅职业培训。
-
----
-
-## <a name="4"></a>4. 亚马逊程序员吐槽：AI让编码工作沦为“流水线” 
+## <a name="3"></a>3. 亚马逊程序员吐槽：AI让编码工作沦为“流水线” 
 <small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html): At Amazon, some coders say their jobs have begun to resemble warehouse work</small>
 
 
-| 🔥🔥: 188 \| 💬: [308](https://news.ycombinator.com/item?id=44087150) \| 🗓️ 2025-05-25
+| 🔥🔥: 219 \| 💬: [333](https://news.ycombinator.com/item?id=44087150) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -71,11 +59,23 @@ Lottie是一种**开源的矢量动画文件格式**，最初由Hernan Torrisi�
 
 ---
 
+## <a name="4"></a>4. 免费自学计算机科学的完整路径 
+<small>🔗 [github.com](https://github.com/ossu/computer-science): Open Source Society University – Path to a free self-taught education in CS</small>
+
+
+| 🔥🔥: 211 \| 💬: [95](https://news.ycombinator.com/item?id=44089150) \| 🗓️ 2025-05-25
+
+
+<br />
+该开源项目提供了一套系统的**计算机科学自学课程**，涵盖从入门到高级的所有核心领域，包括编程、数学、系统、安全等。课程精选自哈佛、MIT等顶尖学府，全部免费或提供经济援助选项。学习路径分为**基础CS**、**核心CS**和**高级CS**三阶段，适合零基础者按计划完成（约2年，每周20小时）。学习者可加入全球社区互助，最终通过**实战项目**验证技能。强调自主性与高质量资源，目标是培养扎实的计算机科学基础，而非仅职业培训。
+
+---
+
 ## <a name="5"></a>5. 一键打造炫酷SVG动画 
 <small>🔗 [expressive.app](https://expressive.app/expressive-animator/): Show HN: SVG Animation Software</small>
 
 
-| 🔥🔥: 169 \| 💬: [82](https://news.ycombinator.com/item?id=44087049) \| 🗓️ 2025-05-25
+| 🔥🔥: 174 \| 💬: [83](https://news.ycombinator.com/item?id=44087049) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -83,35 +83,11 @@ Expressive Animator是一款**跨平台SVG动画软件**（支持Windows/macOS�
 
 ---
 
-## <a name="6"></a>6. Prolog编写的X11动态平铺窗口管理器：plwm 
-<small>🔗 [github.com](https://github.com/Seeker04/plwm): Plwm – An X11 window manager written in Prolog</small>
-
-
-| 🔥🔥: 145 \| 💬: [33](https://news.ycombinator.com/item?id=44089424) \| 🗓️ 2025-05-25
-
-
-<br />
-plwm是一款基于**Prolog**语言开发的**X11动态平铺窗口管理器**，核心目标是提供高度可定制化、轻量级且符合逻辑编程范式的用户体验。支持多种布局（如主从堆叠、网格、浮动窗口等），默认键位与dwm类似，可通过修改`config.pl`文件灵活配置。亮点包括**低内存占用**（10-15MB）、多显示器支持、外部状态栏集成（如polybar）以及通过Prolog的**声明式配置**实现直观管理。项目采用MIT协议，适合希望探索逻辑编程或追求高效窗口管理的用户。
-
----
-
-## <a name="7"></a>7. 用100行Python编写CUPS打印机驱动（2018） 
-<small>🔗 [behind.pretix.eu](https://behind.pretix.eu/2018/01/20/cups-driver/): Writing your own CUPS printer driver in 100 lines of Python (2018)</small>
-
-
-| 🔥🔥: 144 \| 💬: [16](https://news.ycombinator.com/item?id=44088682) \| 🗓️ 2025-05-25
-
-
-<br />
-本文介绍了如何为**Practical Automation uITL+2003CF**热敏票据打印机开发Linux驱动。由于该设备仅支持Windows驱动且第三方驱动存在许可限制，作者使用Python编写了**CUPS过滤器**，将CUPS光栅数据转换为打印机支持的**FGL协议**格式。通过解析CUPS Raster v3数据流，结合Pillow库实现图像旋转与二值化处理，最终生成包含切割指令的FGL代码。配套的PPD文件通过CUPS工具生成，支持55种纸张尺寸和切割模式配置。整个驱动仅需100行核心代码，已打包为Debian/Arch Linux安装包开源发布。
-
----
-
-## <a name="8"></a>8. 乔姆斯基谈ChatGPT的真正价值 
+## <a name="6"></a>6. 乔姆斯基谈ChatGPT的真正价值 
 <small>🔗 [chomsky.info](https://chomsky.info/20230503-2/): Chomsky on what ChatGPT is good for (2023)</small>
 
 
-| 🔥🔥: 135 \| 💬: [175](https://news.ycombinator.com/item?id=44089156) \| 🗓️ 2025-05-25
+| 🔥🔥: 155 \| 💬: [190](https://news.ycombinator.com/item?id=44089156) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -119,11 +95,11 @@ plwm是一款基于**Prolog**语言开发的**X11动态平铺窗口管理器**�
 
 ---
 
-## <a name="9"></a>9. 设计压力：无形中塑造代码的推手 
+## <a name="7"></a>7. 设计压力：无形中塑造代码的推手 
 <small>🔗 [hynek.me](https://hynek.me/talks/design-pressure/): Design Pressure: The Invisible Hand That Shapes Your Code</small>
 
 
-| 🔥🔥: 133 \| 💬: [40](https://news.ycombinator.com/item?id=44087844) \| 🗓️ 2025-05-25
+| 🔥🔥: 148 \| 💬: [41](https://news.ycombinator.com/item?id=44087844) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -131,11 +107,35 @@ plwm是一款基于**Prolog**语言开发的**X11动态平铺窗口管理器**�
 
 ---
 
+## <a name="8"></a>8. 用100行Python编写CUPS打印机驱动（2018） 
+<small>🔗 [behind.pretix.eu](https://behind.pretix.eu/2018/01/20/cups-driver/): Writing your own CUPS printer driver in 100 lines of Python (2018)</small>
+
+
+| 🔥🔥: 148 \| 💬: [18](https://news.ycombinator.com/item?id=44088682) \| 🗓️ 2025-05-25
+
+
+<br />
+本文介绍了如何为**Practical Automation uITL+2003CF**热敏票据打印机开发Linux驱动。由于该设备仅支持Windows驱动且第三方驱动存在许可限制，作者使用Python编写了**CUPS过滤器**，将CUPS光栅数据转换为打印机支持的**FGL协议**格式。通过解析CUPS Raster v3数据流，结合Pillow库实现图像旋转与二值化处理，最终生成包含切割指令的FGL代码。配套的PPD文件通过CUPS工具生成，支持55种纸张尺寸和切割模式配置。整个驱动仅需100行核心代码，已打包为Debian/Arch Linux安装包开源发布。
+
+---
+
+## <a name="9"></a>9. Prolog编写的X11动态平铺窗口管理器：plwm 
+<small>🔗 [github.com](https://github.com/Seeker04/plwm): Plwm – An X11 window manager written in Prolog</small>
+
+
+| 🔥🔥: 148 \| 💬: [34](https://news.ycombinator.com/item?id=44089424) \| 🗓️ 2025-05-25
+
+
+<br />
+plwm是一款基于**Prolog**语言开发的**X11动态平铺窗口管理器**，核心目标是提供高度可定制化、轻量级且符合逻辑编程范式的用户体验。支持多种布局（如主从堆叠、网格、浮动窗口等），默认键位与dwm类似，可通过修改`config.pl`文件灵活配置。亮点包括**低内存占用**（10-15MB）、多显示器支持、外部状态栏集成（如polybar）以及通过Prolog的**声明式配置**实现直观管理。项目采用MIT协议，适合希望探索逻辑编程或追求高效窗口管理的用户。
+
+---
+
 ## <a name="10"></a>10. DaedalOS：浏览器内的桌面环境 
 <small>🔗 [github.com](https://github.com/DustinBrett/daedalOS): Show HN: DaedalOS – Desktop Environment in the Browser</small>
 
 
-| 🔥🔥: 122 \| 💬: [25](https://news.ycombinator.com/item?id=44088777) \| 🗓️ 2025-05-25
+| 🔥🔥: 126 \| 💬: [24](https://news.ycombinator.com/item?id=44088777) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -147,7 +147,7 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 <small>🔗 [theverge.com](https://www.theverge.com/planes/673462/newark-airport-delay-air-traffic-control-tracon-radar): The Newark airport crisis</small>
 
 
-| 🔥🔥: 117 \| 💬: [99](https://news.ycombinator.com/item?id=44089134) \| 🗓️ 2025-05-25
+| 🔥🔥: 118 \| 💬: [101](https://news.ycombinator.com/item?id=44089134) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -159,7 +159,7 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 <small>🔗 [drops.dagstuhl.de](https://drops.dagstuhl.de/storage/00lipics/lipics-vol316-aft2024/LIPIcs.AFT.2024.24/LIPIcs.AFT.2024.24.pdf): Wrench Attacks: Physical attacks targeting cryptocurrency users (2024) [pdf]</small>
 
 
-| 🔥: 96 \| 💬: [82](https://news.ycombinator.com/item?id=44087183) \| 🗓️ 2025-05-25
+| 🔥🔥: 102 \| 💬: [84](https://news.ycombinator.com/item?id=44087183) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -167,15 +167,15 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 
 ---
 
-## <a name="13"></a>13. 伦敦维多利亚线高温难题难解？ 
-<small>🔗 [swlondoner.co.uk](https://www.swlondoner.co.uk/news/16052025-is-tfl-losing-the-battle-against-heat-on-the-victoria-line): Is TfL losing the battle against heat on the Victoria line?</small>
+## <a name="13"></a>13. JSON Web Token十年历程与未来展望 
+<small>🔗 [self-issued.info](https://self-issued.info/?p=2708): Ten Years of JSON Web Token and Preparing for the Future</small>
 
 
-| 🔥: 77 \| 💬: [143](https://news.ycombinator.com/item?id=44086530) \| 🗓️ 2025-05-25
+| 🔥: 85 \| 💬: [30](https://news.ycombinator.com/item?id=44092102) \| 🗓️ 2025-05-25
 
 
 <br />
-最新数据显示，**维多利亚线**仍是伦敦地铁最热的线路，2024年平均温度达28℃，夏季峰值超31℃。尽管TfL投入巨资安装通风系统和空调，但该线因**深度大**、**伦敦黏土隔热**及列车频繁启停导致散热困难，温度自2013年飙升近30%。中央线虽面临类似挑战，但已启动5亿英镑列车改造计划。乘客在冬季也遭遇高温，2024年一季度平均26℃，有乘客因车厢过热晕倒。建议夏季优先选择温度较低的**浅层地铁线**（如环线），其年均温仅19℃。
+2015年5月，**JSON Web Token (JWT)** 作为RFC 7519正式发布，标志着历时4.5年的标准化工作完成，并衍生出**JWS**、**JWE**等配套加密标准。如今，JWT已成为广泛采用的安全令牌格式，甚至应用于设计者未曾预见的场景。当前，团队正更新《JWT最佳实践》规范，以应对新出现的威胁，并修订OAuth 2.0相关标准以修复漏洞。作者回顾了与OpenID Connect等组织的协作成果，并对未来十年JWT的安全演进充满期待。
 
 ---
 
@@ -183,7 +183,7 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 <small>🔗 [ephemeral.cx](https://ephemeral.cx/2013/12/writing-a-self-mutating-x86_64-c-program/): Writing a Self-Mutating x86_64 C Program (2013)</small>
 
 
-| 🔥: 77 \| 💬: [21](https://news.ycombinator.com/item?id=44089106) \| 🗓️ 2025-05-25
+| 🔥: 81 \| 💬: [22](https://news.ycombinator.com/item?id=44089106) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -191,11 +191,23 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 
 ---
 
-## <a name="15"></a>15. 作家不慎将AI提示词留在了小说中 
+## <a name="15"></a>15. 伦敦维多利亚线高温难题难解？ 
+<small>🔗 [swlondoner.co.uk](https://www.swlondoner.co.uk/news/16052025-is-tfl-losing-the-battle-against-heat-on-the-victoria-line): Is TfL losing the battle against heat on the Victoria line?</small>
+
+
+| 🔥: 80 \| 💬: [150](https://news.ycombinator.com/item?id=44086530) \| 🗓️ 2025-05-25
+
+
+<br />
+最新数据显示，**维多利亚线**仍是伦敦地铁最热的线路，2024年平均温度达28℃，夏季峰值超31℃。尽管TfL投入巨资安装通风系统和空调，但该线因**深度大**、**伦敦黏土隔热**及列车频繁启停导致散热困难，温度自2013年飙升近30%。中央线虽面临类似挑战，但已启动5亿英镑列车改造计划。乘客在冬季也遭遇高温，2024年一季度平均26℃，有乘客因车厢过热晕倒。建议夏季优先选择温度较低的**浅层地铁线**（如环线），其年均温仅19℃。
+
+---
+
+## <a name="16"></a>16. 作家不慎将AI提示词留在了小说中 
 <small>🔗 [404media.co](https://www.404media.co/authors-are-accidentally-leaving-ai-prompts-in-their-novels/): Authors are accidentally leaving AI prompts in their novels</small>
 
 
-| 🔥: 69 \| 💬: [57](https://news.ycombinator.com/item?id=44088482) \| 🗓️ 2025-05-25
+| 🔥: 70 \| 💬: [58](https://news.ycombinator.com/item?id=44088482) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -205,11 +217,11 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 
 ---
 
-## <a name="16"></a>16. AI幻觉案例数据库：法律界的警示录 
+## <a name="17"></a>17. AI幻觉案例数据库：法律界的警示录 
 <small>🔗 [damiencharlotin.com](https://www.damiencharlotin.com/hallucinations/): AI Hallucination Cases Database</small>
 
 
-| 🔥: 65 \| 💬: [40](https://news.ycombinator.com/item?id=44088772) \| 🗓️ 2025-05-25
+| 🔥: 67 \| 💬: [40](https://news.ycombinator.com/item?id=44088772) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -217,23 +229,11 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 
 ---
 
-## <a name="17"></a>17. JSON Web Token十年历程与未来展望 
-<small>🔗 [self-issued.info](https://self-issued.info/?p=2708): Ten Years of JSON Web Token and Preparing for the Future</small>
-
-
-| 🔥: 65 \| 💬: [15](https://news.ycombinator.com/item?id=44092102) \| 🗓️ 2025-05-25
-
-
-<br />
-2015年5月，**JSON Web Token (JWT)** 作为RFC 7519正式发布，标志着历时4.5年的标准化工作完成，并衍生出**JWS**、**JWE**等配套加密标准。如今，JWT已成为广泛采用的安全令牌格式，甚至应用于设计者未曾预见的场景。当前，团队正更新《JWT最佳实践》规范，以应对新出现的威胁，并修订OAuth 2.0相关标准以修复漏洞。作者回顾了与OpenID Connect等组织的协作成果，并对未来十年JWT的安全演进充满期待。
-
----
-
 ## <a name="18"></a>18. Zli：Zig语言的高性能全功能CLI开发框架 
 <small>🔗 [github.com](https://github.com/xcaeser/zli): Show HN: Zli – A Batteries-Included CLI Framework for Zig</small>
 
 
-| 🔥: 64 \| 💬: [32](https://news.ycombinator.com/item?id=44089054) \| 🗓️ 2025-05-25
+| 🔥: 65 \| 💬: [32](https://news.ycombinator.com/item?id=44089054) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -245,7 +245,7 @@ Zli是一个**模块化**、**零成本抽象**的Zig命令行工具开发框架
 <small>🔗 [theconversation.com](https://theconversation.com/believe-it-or-not-there-was-a-time-when-the-us-government-built-beautiful-homes-for-working-class-americans-to-deal-with-a-housing-crisis-253512): There was a time when the US government built homes for working-class Americans</small>
 
 
-| 🔥: 61 \| 💬: [105](https://news.ycombinator.com/item?id=44087793) \| 🗓️ 2025-05-25
+| 🔥: 62 \| 💬: [105](https://news.ycombinator.com/item?id=44087793) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -265,11 +265,23 @@ Zli是一个**模块化**、**零成本抽象**的Zig命令行工具开发框架
 
 ---
 
-## <a name="21"></a>21. 当乔尼遇上萨姆：一场科技巨头的"订婚派对" 
+## <a name="21"></a>21. 企业能否获得总统特赦？ 
+<small>🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202339): Can a corporation be pardoned?</small>
+
+
+| 🔥: 54 \| 💬: [85](https://news.ycombinator.com/item?id=44088926) \| 🗓️ 2025-05-25
+
+
+<br />
+这篇论文探讨了美国总统是否拥有对企业进行特赦的宪法权力。**历史背景**显示，英国普通法早有赦免企业的先例（如马萨诸塞湾公司），而美国宪法《特赦条款》的制定者可能继承了这一传统。作者指出，总统可基于政治目的赦免企业（例如换取竞选捐款或外交利益），甚至赦免自身关联企业，但国会可通过**拒绝退还罚款**或**以民事处罚替代刑事责任**来限制此类权力。此外，部分州宪法也可能允许赦免企业，阿拉斯加州已有先例。论文强调，尽管争议颇多，但法律模糊性为律师提供了辩护空间。
+
+---
+
+## <a name="22"></a>22. 当乔尼遇上萨姆：一场科技巨头的"订婚派对" 
 <small>🔗 [sfstandard.com](https://sfstandard.com/2025/05/23/sam-altman-jony-ive-video/): We broke down the Sam Altman and Jony Ive video</small>
 
 
-| 🔥: 53 \| 💬: [45](https://news.ycombinator.com/item?id=44092019) \| 🗓️ 2025-05-25
+| 🔥: 54 \| 💬: [57](https://news.ycombinator.com/item?id=44092019) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -277,7 +289,19 @@ OpenAI以65亿美元收购乔尼·艾夫（Jony Ive）的AI设备公司io后，�
 
 ---
 
-## <a name="22"></a>22. 在34键键盘上编程的实践与思考 
+## <a name="23"></a>23. SteamOS 正式版现已全面开放下载 
+<small>🔗 [store.steampowered.com](https://store.steampowered.com/steamos): SteamOS now released officially for any device</small>
+
+
+| 🔥: 53 \| 💬: [4](https://news.ycombinator.com/item?id=44089990) \| 🗓️ 2025-05-25
+
+
+<br />
+Valve 正式发布了 **SteamOS** 的通用版本，支持在**任何设备**上安装。此次更新意味着用户无需依赖特定硬件（如 Steam Deck）即可体验该系统，进一步扩展了 Steam 生态的兼容性。官网提供了多语言支持（包括**简体中文**），并详细列出了安装要求与指南。这一举措可能推动更多玩家尝试基于 Linux 的游戏解决方案。
+
+---
+
+## <a name="24"></a>24. 在34键键盘上编程的实践与思考 
 <small>🔗 [oppi.li](https://oppi.li/posts/programming_on_34_keys/): Programming on 34 Keys (2022)</small>
 
 
@@ -286,30 +310,6 @@ OpenAI以65亿美元收购乔尼·艾夫（Jony Ive）的AI设备公司io后，�
 
 <br />
 作者分享了使用**34键分体式键盘Ferricy**的体验，该键盘基于Colemak布局并采用**三层设计（NAV/数字/符号层）**优化编程效率。通过空间组合键（如长按空格触发导航层）和ZMK固件的**组合键功能**（如实现Esc键），解决了键位不足的问题。文中特别强调了**Home-row修饰键**和**Caps-word功能**对提升输入舒适度的帮助，并指出小键盘布局需优先考虑准确性与舒适性，而非速度。
-
----
-
-## <a name="23"></a>23. 企业能否获得总统特赦？ 
-<small>🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202339): Can a corporation be pardoned?</small>
-
-
-| 🔥: 51 \| 💬: [84](https://news.ycombinator.com/item?id=44088926) \| 🗓️ 2025-05-25
-
-
-<br />
-这篇论文探讨了美国总统是否拥有对企业进行特赦的宪法权力。**历史背景**显示，英国普通法早有赦免企业的先例（如马萨诸塞湾公司），而美国宪法《特赦条款》的制定者可能继承了这一传统。作者指出，总统可基于政治目的赦免企业（例如换取竞选捐款或外交利益），甚至赦免自身关联企业，但国会可通过**拒绝退还罚款**或**以民事处罚替代刑事责任**来限制此类权力。此外，部分州宪法也可能允许赦免企业，阿拉斯加州已有先例。论文强调，尽管争议颇多，但法律模糊性为律师提供了辩护空间。
-
----
-
-## <a name="24"></a>24. SteamOS 正式版现已全面开放下载 
-<small>🔗 [store.steampowered.com](https://store.steampowered.com/steamos): SteamOS now released officially for any device</small>
-
-
-| 🔥: 47 \| 💬: [4](https://news.ycombinator.com/item?id=44089990) \| 🗓️ 2025-05-25
-
-
-<br />
-Valve 正式发布了 **SteamOS** 的通用版本，支持在**任何设备**上安装。此次更新意味着用户无需依赖特定硬件（如 Steam Deck）即可体验该系统，进一步扩展了 Steam 生态的兼容性。官网提供了多语言支持（包括**简体中文**），并详细列出了安装要求与指南。这一举措可能推动更多玩家尝试基于 Linux 的游戏解决方案。
 
 ---
 
