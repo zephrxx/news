@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共20条，具体内容您往下读...
+总共21条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [politico.eu](https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/): German court sends VW execs to prison over Dieselgate scandal</small>
 
 
-| 🔥🔥: 596 \| 💬: [246](https://news.ycombinator.com/item?id=44098091) \| 🗓️ 2025-05-26
+| 🔥🔥: 610 \| 💬: [250](https://news.ycombinator.com/item?id=44098091) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [lisp-journey.gitlab.io](https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/): Hacker News now runs on top of Common Lisp</small>
 
 
-| 🔥🔥: 354 \| 💬: [193](https://news.ycombinator.com/item?id=44099006) \| 🗓️ 2025-05-26
+| 🔥🔥: 391 \| 💬: [203](https://news.ycombinator.com/item?id=44099006) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -53,7 +53,7 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 <small>🔗 [htxt.co.za](https://htxt.co.za/2025/05/duolingo-ceo-tries-to-walk-back-ai-first-comments-fails/): Duolingo CEO tries to walk back AI-first comments, fails</small>
 
 
-| 🔥🔥: 310 \| 💬: [221](https://news.ycombinator.com/item?id=44100035) \| 🗓️ 2025-05-26
+| 🔥🔥: 338 \| 💬: [242](https://news.ycombinator.com/item?id=44100035) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -65,7 +65,7 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 <small>🔗 [mondaybits.com](https://mondaybits.com/lieferando-captured-6-percent-of-restaurant-related-domain-names/): Lieferando.de has captured 5.7% of restaurant related domain names</small>
 
 
-| 🔥🔥: 297 \| 💬: [173](https://news.ycombinator.com/item?id=44095250) \| 🗓️ 2025-05-26
+| 🔥🔥: 298 \| 💬: [173](https://news.ycombinator.com/item?id=44095250) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -77,7 +77,7 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 <small>🔗 [blog.seas.upenn.edu](https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/): A new class of materials that can passively harvest water from air</small>
 
 
-| 🔥🔥: 287 \| 💬: [118](https://news.ycombinator.com/item?id=44097144) \| 🗓️ 2025-05-26
+| 🔥🔥: 292 \| 💬: [123](https://news.ycombinator.com/item?id=44097144) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -85,23 +85,11 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 
 ---
 
-## <a name="6"></a>6. 西甲大规模封禁IP殃及民生，Cloudflare CEO警告或将酿成人命悲剧 
-<small>🔗 [torrentfreak.com](https://torrentfreak.com/cloudflare-ceo-football-piracy-blocks-will-claim-lives-i-pray-no-one-dies-250526/): Cloudflare CEO: Football piracy blocks will claim lives</small>
-
-
-| 🔥🔥: 196 \| 💬: [177](https://news.ycombinator.com/item?id=44098273) \| 🗓️ 2025-05-26
-
-
-<br />
-西甲2024/2025赛季落幕，但其通过法院命令**大规模封禁Cloudflare IP地址**的反盗版行动持续引发争议。Cloudflare CEO Matthew Prince指出，这种**无差别封锁策略**已导致数百万无辜网站（包括急救服务）被误伤，并警告"迟早会有西班牙公民因无法访问救命资源而丧生"。西甲将责任归咎于Cloudflare，但后者强调已提供合规流程，呼吁各方**依法协作**而非滥用禁令。数据显示，周末封锁仍在持续，凸显法律授权下的系统性风险。
-
----
-
-## <a name="7"></a>7. Bash脚本中的超时控制技巧 
+## <a name="6"></a>6. Bash脚本中的超时控制技巧 
 <small>🔗 [heitorpb.github.io](https://heitorpb.github.io/bla/timeout/): TIL: timeout in Bash scripts</small>
 
 
-| 🔥🔥: 195 \| 💬: [63](https://news.ycombinator.com/item?id=44096395) \| 🗓️ 2025-05-26
+| 🔥🔥: 207 \| 💬: [64](https://news.ycombinator.com/item?id=44096395) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -109,23 +97,23 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 
 ---
 
-## <a name="8"></a>8. TeleMessage数据泄露：高盛、警方等数百客户信息曝光 
-<small>🔗 [micahflee.com](https://micahflee.com/telemessage-customers-include-dc-police-andreesen-horowitz-jp-morgan-and-hundreds-more/): TeleMessage Customers Include DC Police, Andreessen Horowitz, JP Morgan,Hundreds</small>
+## <a name="7"></a>7. 西甲大规模封禁IP殃及民生，Cloudflare CEO警告或将酿成人命悲剧 
+<small>🔗 [torrentfreak.com](https://torrentfreak.com/cloudflare-ceo-football-piracy-blocks-will-claim-lives-i-pray-no-one-dies-250526/): Cloudflare CEO: Football piracy blocks will claim lives</small>
 
 
-| 🔥🔥: 173 \| 💬: [1](https://news.ycombinator.com/item?id=44099096) \| 🗓️ 2025-05-26
+| 🔥🔥: 204 \| 💬: [182](https://news.ycombinator.com/item?id=44098273) \| 🗓️ 2025-05-26
 
 
 <br />
-2025年5月，TeleMessage服务器因**简单漏洞**遭黑客攻击，410GB的Java堆转储数据被泄露。分析发现，这些数据包含**WhatsApp、Signal等加密/明文聊天记录**，涉及华盛顿特区警方、高盛、Andreessen Horowitz等机构。研究人员开发了开源工具TeleMessage Explorer，帮助挖掘潜在线索。尽管未发现特朗普内阁敏感信息，但数据揭示了大量群组聊天和用户验证记录，暴露了**企业级通讯监控风险**。
+西甲2024/2025赛季落幕，但其通过法院命令**大规模封禁Cloudflare IP地址**的反盗版行动持续引发争议。Cloudflare CEO Matthew Prince指出，这种**无差别封锁策略**已导致数百万无辜网站（包括急救服务）被误伤，并警告"迟早会有西班牙公民因无法访问救命资源而丧生"。西甲将责任归咎于Cloudflare，但后者强调已提供合规流程，呼吁各方**依法协作**而非滥用禁令。数据显示，周末封锁仍在持续，凸显法律授权下的系统性风险。
 
 ---
 
-## <a name="9"></a>9. Claude 4与GitHub MCP将泄露你的私有代码库 
+## <a name="8"></a>8. Claude 4与GitHub MCP将泄露你的私有代码库 
 <small>🔗 [twitter.com](https://twitter.com/lbeurerkellner/status/1926991491735429514): Claude 4 and GitHub MCP will leak your private GitHub repositories</small>
 
 
-| 🔥🔥: 154 \| 💬: [41](https://news.ycombinator.com/item?id=44100082) \| 🗓️ 2025-05-26
+| 🔥🔥: 176 \| 💬: [49](https://news.ycombinator.com/item?id=44100082) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -133,11 +121,23 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 
 ---
 
+## <a name="9"></a>9. TeleMessage数据泄露：高盛、警方等数百客户信息曝光 
+<small>🔗 [micahflee.com](https://micahflee.com/telemessage-customers-include-dc-police-andreesen-horowitz-jp-morgan-and-hundreds-more/): TeleMessage Customers Include DC Police, Andreessen Horowitz, JP Morgan,Hundreds</small>
+
+
+| 🔥🔥: 174 \| 💬: [1](https://news.ycombinator.com/item?id=44099096) \| 🗓️ 2025-05-26
+
+
+<br />
+2025年5月，TeleMessage服务器因**简单漏洞**遭黑客攻击，410GB的Java堆转储数据被泄露。分析发现，这些数据包含**WhatsApp、Signal等加密/明文聊天记录**，涉及华盛顿特区警方、高盛、Andreessen Horowitz等机构。研究人员开发了开源工具TeleMessage Explorer，帮助挖掘潜在线索。尽管未发现特朗普内阁敏感信息，但数据揭示了大量群组聊天和用户验证记录，暴露了**企业级通讯监控风险**。
+
+---
+
 ## <a name="10"></a>10. 浏览器中使用WebGPU实现的粒子生命模拟 
 <small>🔗 [lisyarus.github.io](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html): Particle Life simulation in browser using WebGPU</small>
 
 
-| 🔥🔥: 147 \| 💬: [48](https://news.ycombinator.com/item?id=44096808) \| 🗓️ 2025-05-26
+| 🔥🔥: 154 \| 💬: [50](https://news.ycombinator.com/item?id=44096808) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -145,11 +145,23 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 
 ---
 
-## <a name="11"></a>11. 谷歌正在“活埋”互联网 
+## <a name="11"></a>11. 毛巾裹猫头鹰的治愈瞬间 
+<small>🔗 [owlsintowels.org](https://owlsintowels.org/): Owls in Towels</small>
+
+
+| 🔥🔥: 149 \| 💬: [7](https://news.ycombinator.com/item?id=44101349) \| 🗓️ 2025-05-26
+
+
+<br />
+野生动物救助者常将**猫头鹰裹在毛巾**中，以便称重、治疗和喂食，避免它们挣扎。这一过程催生了大量可爱的#owlsintowels照片。从台湾的**高山角鸮**到康复中的北鹰鸮，这些被毛巾包裹的小家伙们既脆弱又呆萌，展现了救助工作的温情瞬间。部分图片还记录了猫头鹰从受伤到放归的**康复历程**，传递出对野生动物的专业关怀。
+
+---
+
+## <a name="12"></a>12. 谷歌正在“活埋”互联网 
 <small>🔗 [nymag.com](https://nymag.com/intelligencer/article/google-ai-mode-search-results-bury-the-web.html): Google is burying the web alive</small>
 
 
-| 🔥🔥: 144 \| 💬: [123](https://news.ycombinator.com/item?id=44097490) \| 🗓️ 2025-05-26
+| 🔥🔥: 148 \| 💬: [126](https://news.ycombinator.com/item?id=44097490) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -157,11 +169,11 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 
 ---
 
-## <a name="12"></a>12. PgDog：无需扩展即可实现PostgreSQL分片 
+## <a name="13"></a>13. PgDog：无需扩展即可实现PostgreSQL分片 
 <small>🔗 [github.com](https://github.com/pgdogdev/pgdog): Show HN: PgDog – Shard Postgres without extensions</small>
 
 
-| 🔥🔥: 133 \| 💬: [26](https://news.ycombinator.com/item?id=44099187) \| 🗓️ 2025-05-26
+| 🔥🔥: 148 \| 💬: [31](https://news.ycombinator.com/item?id=44099187) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -169,11 +181,11 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 
 ---
 
-## <a name="13"></a>13. 英国警方令人担忧的言论限制 
+## <a name="14"></a>14. 英国警方令人担忧的言论限制 
 <small>🔗 [economist.com](https://www.economist.com/britain/2025/05/15/britains-police-are-restricting-speech-in-worrying-ways): Britain's police are restricting speech in worrying ways</small>
 
 
-| 🔥🔥: 120 \| 💬: [93](https://news.ycombinator.com/item?id=44100552) \| 🗓️ 2025-05-26
+| 🔥🔥: 121 \| 💬: [105](https://news.ycombinator.com/item?id=44100552) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -181,11 +193,11 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 
 ---
 
-## <a name="14"></a>14. 是时候尝试Nix了 
+## <a name="15"></a>15. 是时候尝试Nix了 
 <small>🔗 [maych.in](https://maych.in/blog/its-time-to-give-nix-a-chance/): I think it's time to give Nix a chance</small>
 
 
-| 🔥🔥: 114 \| 💬: [97](https://news.ycombinator.com/item?id=44098605) \| 🗓️ 2025-05-26
+| 🔥🔥: 116 \| 💬: [103](https://news.ycombinator.com/item?id=44098605) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -193,11 +205,11 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 
 ---
 
-## <a name="15"></a>15. 1.84亿密码遭泄露，恶意软件或是元凶 
+## <a name="16"></a>16. 1.84亿密码遭泄露，恶意软件或是元凶 
 <small>🔗 [zdnet.com](https://www.zdnet.com/article/massive-data-breach-exposes-184-million-passwords-for-google-microsoft-facebook-and-more/): Data breach exposes 184M passwords, likely captured by malware</small>
 
 
-| 🔥🔥: 111 \| 💬: [68](https://news.ycombinator.com/item?id=44099008) \| 🗓️ 2025-05-26
+| 🔥🔥: 116 \| 💬: [75](https://news.ycombinator.com/item?id=44099008) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -205,11 +217,11 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 
 ---
 
-## <a name="16"></a>16. 超市软塑料回收点的真相 
+## <a name="17"></a>17. 超市软塑料回收点的真相 
 <small>🔗 [everydayplastic.org](https://www.everydayplastic.org/softplastic): The truth about soft plastic recycling points at supermarkets</small>
 
 
-| 🔥: 98 \| 💬: [108](https://news.ycombinator.com/item?id=44095360) \| 🗓️ 2025-05-26
+| 🔥: 98 \| 💬: [116](https://news.ycombinator.com/item?id=44095360) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -217,11 +229,11 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 
 ---
 
-## <a name="17"></a>17. 台积电押注非传统光学技术 
+## <a name="18"></a>18. 台积电押注非传统光学技术 
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/microled-optical-chiplet): TSMC bets on unorthodox optical tech</small>
 
 
-| 🔥: 87 \| 💬: [41](https://news.ycombinator.com/item?id=44099407) \| 🗓️ 2025-05-26
+| 🔥: 95 \| 💬: [42](https://news.ycombinator.com/item?id=44099407) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -229,11 +241,11 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 
 ---
 
-## <a name="18"></a>18. TeleMessage Explorer：开源工具助力调查Signal数据泄露 
+## <a name="19"></a>19. TeleMessage Explorer：开源工具助力调查Signal数据泄露 
 <small>🔗 [micahflee.com](https://micahflee.com/telemessage-explorer-a-new-open-source-research-tool/): TeleMessage Explorer: a new open source research tool</small>
 
 
-| 🔥: 81 \| 💬: [48](https://news.ycombinator.com/item?id=44097986) \| 🗓️ 2025-05-26
+| 🔥: 87 \| 💬: [54](https://news.ycombinator.com/item?id=44097986) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -241,11 +253,11 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 
 ---
 
-## <a name="19"></a>19. WavePhoenix：任天堂WaveBird协议的开源实现 
+## <a name="20"></a>20. WavePhoenix：任天堂WaveBird协议的开源实现 
 <small>🔗 [github.com](https://github.com/loopj/wavephoenix): WavePhoenix – open-source implementation of the Nintendo WaveBird protocol</small>
 
 
-| 🔥: 75 \| 💬: [10](https://news.ycombinator.com/item?id=44098442) \| 🗓️ 2025-05-26
+| 🔥: 82 \| 💬: [10](https://news.ycombinator.com/item?id=44098442) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -253,11 +265,11 @@ WavePhoenix是一个基于**Silicon Labs Wireless Gecko SoC**的开源项目，�
 
 ---
 
-## <a name="20"></a>20. Rust将i686-pc-windows-gnu降级为Tier 2支持目标 
+## <a name="21"></a>21. Rust将i686-pc-windows-gnu降级为Tier 2支持目标 
 <small>🔗 [blog.rust-lang.org](https://blog.rust-lang.org/2025/05/26/demoting-i686-pc-windows-gnu/): Demoting i686-PC-windows-gnu to Tier 2</small>
 
 
-| 🔥: 61 \| 💬: [33](https://news.ycombinator.com/item?id=44097637) \| 🗓️ 2025-05-26
+| 🔥: 64 \| 💬: [33](https://news.ycombinator.com/item?id=44097637) \| 🗓️ 2025-05-26
 
 
 <br />
