@@ -10,13 +10,13 @@ tags:
 
 1. 丹麦拟2040年将退休年龄提高至70岁；
 1. Lottie：开源的矢量动画格式；
+1. 免费自学计算机科学的完整路径；
 1. 亚马逊程序员吐槽：AI让编码工作沦为“流水线”；
 1. 一键打造炫酷SVG动画；
-1. 免费自学计算机科学的完整路径；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [telegraph.co.uk](https://www.telegraph.co.uk/world-news/2025/05/23/denmark-raise-retirement-age-70/): Denmark to raise retirement age to 70</small>
 
 
-| 🔥🔥: 254 \| 💬: [627](https://news.ycombinator.com/item?id=44088957) \| 🗓️ 2025-05-25
+| 🔥🔥: 279 \| 💬: [673](https://news.ycombinator.com/item?id=44088957) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [lottie.github.io](https://lottie.github.io/): Lottie is an open format for animated vector graphics</small>
 
 
-| 🔥🔥: 240 \| 💬: [104](https://news.ycombinator.com/item?id=44088216) \| 🗓️ 2025-05-25
+| 🔥🔥: 247 \| 💬: [110](https://news.ycombinator.com/item?id=44088216) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -47,35 +47,11 @@ Lottie是一种**开源的矢量动画文件格式**，最初由Hernan Torrisi�
 
 ---
 
-## <a name="3"></a>3. 亚马逊程序员吐槽：AI让编码工作沦为“流水线” 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html): At Amazon, some coders say their jobs have begun to resemble warehouse work</small>
-
-
-| 🔥🔥: 173 \| 💬: [279](https://news.ycombinator.com/item?id=44087150) \| 🗓️ 2025-05-25
-
-
-<br />
-随着**生成式AI**在编程领域的广泛应用，亚马逊等公司的程序员发现工作性质正发生转变。**代码质量下降**，任务被拆解为重复性操作，节奏大幅加快，类似工业革命后流水线对传统工匠的冲击。微软研究显示，AI编程助手Copilot将效率提升超25%，但员工抱怨**工作强度加剧**，思考空间被压缩。亚马逊CEO贾西强调AI能提升生产力并降低成本，但程序员担忧这可能导致技术岗位的“去技能化”。
-
----
-
-## <a name="4"></a>4. 一键打造炫酷SVG动画 
-<small>🔗 [expressive.app](https://expressive.app/expressive-animator/): Show HN: SVG Animation Software</small>
-
-
-| 🔥🔥: 165 \| 💬: [78](https://news.ycombinator.com/item?id=44087049) \| 🗓️ 2025-05-25
-
-
-<br />
-Expressive Animator是一款**跨平台SVG动画软件**（支持Windows/macOS），提供**关键帧动画**、矢量编辑、字体排版等专业工具，可导入Figma/SVG/PDF/Ai文件快速制作动态内容。支持导出视频、GIF、APNG及Lottie格式，特别适合**社交媒体设计**和网页动效创作。内置**渐变编辑器**、遮罩路径、混合模式等高级功能，买断制授权无需订阅。
-
----
-
-## <a name="5"></a>5. 免费自学计算机科学的完整路径 
+## <a name="3"></a>3. 免费自学计算机科学的完整路径 
 <small>🔗 [github.com](https://github.com/ossu/computer-science): Open Source Society University – Path to a free self-taught education in CS</small>
 
 
-| 🔥🔥: 159 \| 💬: [73](https://news.ycombinator.com/item?id=44089150) \| 🗓️ 2025-05-25
+| 🔥🔥: 180 \| 💬: [83](https://news.ycombinator.com/item?id=44089150) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -83,11 +59,35 @@ Expressive Animator是一款**跨平台SVG动画软件**（支持Windows/macOS�
 
 ---
 
+## <a name="4"></a>4. 亚马逊程序员吐槽：AI让编码工作沦为“流水线” 
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/25/business/amazon-ai-coders.html): At Amazon, some coders say their jobs have begun to resemble warehouse work</small>
+
+
+| 🔥🔥: 178 \| 💬: [293](https://news.ycombinator.com/item?id=44087150) \| 🗓️ 2025-05-25
+
+
+<br />
+随着**生成式AI**在编程领域的广泛应用，亚马逊等公司的程序员发现工作性质正发生转变。**代码质量下降**，任务被拆解为重复性操作，节奏大幅加快，类似工业革命后流水线对传统工匠的冲击。微软研究显示，AI编程助手Copilot将效率提升超25%，但员工抱怨**工作强度加剧**，思考空间被压缩。亚马逊CEO贾西强调AI能提升生产力并降低成本，但程序员担忧这可能导致技术岗位的“去技能化”。
+
+---
+
+## <a name="5"></a>5. 一键打造炫酷SVG动画 
+<small>🔗 [expressive.app](https://expressive.app/expressive-animator/): Show HN: SVG Animation Software</small>
+
+
+| 🔥🔥: 165 \| 💬: [81](https://news.ycombinator.com/item?id=44087049) \| 🗓️ 2025-05-25
+
+
+<br />
+Expressive Animator是一款**跨平台SVG动画软件**（支持Windows/macOS），提供**关键帧动画**、矢量编辑、字体排版等专业工具，可导入Figma/SVG/PDF/Ai文件快速制作动态内容。支持导出视频、GIF、APNG及Lottie格式，特别适合**社交媒体设计**和网页动效创作。内置**渐变编辑器**、遮罩路径、混合模式等高级功能，买断制授权无需订阅。
+
+---
+
 ## <a name="6"></a>6. 用100行Python编写CUPS打印机驱动（2018） 
 <small>🔗 [behind.pretix.eu](https://behind.pretix.eu/2018/01/20/cups-driver/): Writing your own CUPS printer driver in 100 lines of Python (2018)</small>
 
 
-| 🔥🔥: 135 \| 💬: [14](https://news.ycombinator.com/item?id=44088682) \| 🗓️ 2025-05-25
+| 🔥🔥: 139 \| 💬: [14](https://news.ycombinator.com/item?id=44088682) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -99,7 +99,7 @@ Expressive Animator是一款**跨平台SVG动画软件**（支持Windows/macOS�
 <small>🔗 [github.com](https://github.com/Seeker04/plwm): Plwm – An X11 window manager written in Prolog</small>
 
 
-| 🔥🔥: 134 \| 💬: [27](https://news.ycombinator.com/item?id=44089424) \| 🗓️ 2025-05-25
+| 🔥🔥: 138 \| 💬: [30](https://news.ycombinator.com/item?id=44089424) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -111,7 +111,7 @@ plwm是一款基于**Prolog**语言开发的**X11动态平铺窗口管理器**�
 <small>🔗 [hynek.me](https://hynek.me/talks/design-pressure/): Design Pressure: The Invisible Hand That Shapes Your Code</small>
 
 
-| 🔥🔥: 129 \| 💬: [36](https://news.ycombinator.com/item?id=44087844) \| 🗓️ 2025-05-25
+| 🔥🔥: 132 \| 💬: [36](https://news.ycombinator.com/item?id=44087844) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -119,23 +119,11 @@ plwm是一款基于**Prolog**语言开发的**X11动态平铺窗口管理器**�
 
 ---
 
-## <a name="9"></a>9. 纽瓦克机场危机：空中交通系统濒临崩溃 
-<small>🔗 [theverge.com](https://www.theverge.com/planes/673462/newark-airport-delay-air-traffic-control-tracon-radar): The Newark airport crisis</small>
-
-
-| 🔥🔥: 113 \| 💬: [91](https://news.ycombinator.com/item?id=44089134) \| 🗓️ 2025-05-25
-
-
-<br />
-美国**纽瓦克自由国际机场**因**空中交通管制系统老化**、**人员短缺**和**技术故障**陷入危机。过去一年中，雷达和通信系统多次中断，导致航班大面积延误甚至取消。FAA因预算不足和官僚主义，未能及时升级设备或解决人员流失问题，甚至将部分业务迁至费城，却因**远程数据传输不稳定**加剧风险。专家警告，整个系统已处于崩溃边缘，威胁航空安全和效率。
-
----
-
-## <a name="10"></a>10. DaedalOS：浏览器内的桌面环境 
+## <a name="9"></a>9. DaedalOS：浏览器内的桌面环境 
 <small>🔗 [github.com](https://github.com/DustinBrett/daedalOS): Show HN: DaedalOS – Desktop Environment in the Browser</small>
 
 
-| 🔥🔥: 111 \| 💬: [23](https://news.ycombinator.com/item?id=44088777) \| 🗓️ 2025-05-25
+| 🔥🔥: 118 \| 💬: [24](https://news.ycombinator.com/item?id=44088777) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -143,11 +131,23 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 
 ---
 
+## <a name="10"></a>10. 纽瓦克机场危机：空中交通系统濒临崩溃 
+<small>🔗 [theverge.com](https://www.theverge.com/planes/673462/newark-airport-delay-air-traffic-control-tracon-radar): The Newark airport crisis</small>
+
+
+| 🔥🔥: 114 \| 💬: [93](https://news.ycombinator.com/item?id=44089134) \| 🗓️ 2025-05-25
+
+
+<br />
+美国**纽瓦克自由国际机场**因**空中交通管制系统老化**、**人员短缺**和**技术故障**陷入危机。过去一年中，雷达和通信系统多次中断，导致航班大面积延误甚至取消。FAA因预算不足和官僚主义，未能及时升级设备或解决人员流失问题，甚至将部分业务迁至费城，却因**远程数据传输不稳定**加剧风险。专家警告，整个系统已处于崩溃边缘，威胁航空安全和效率。
+
+---
+
 ## <a name="11"></a>11. 乔姆斯基谈ChatGPT的真正价值 
 <small>🔗 [chomsky.info](https://chomsky.info/20230503-2/): Chomsky on what ChatGPT is good for (2023)</small>
 
 
-| 🔥: 99 \| 💬: [131](https://news.ycombinator.com/item?id=44089156) \| 🗓️ 2025-05-25
+| 🔥🔥: 111 \| 💬: [149](https://news.ycombinator.com/item?id=44089156) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -159,7 +159,7 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 <small>🔗 [drops.dagstuhl.de](https://drops.dagstuhl.de/storage/00lipics/lipics-vol316-aft2024/LIPIcs.AFT.2024.24/LIPIcs.AFT.2024.24.pdf): Wrench Attacks: Physical attacks targeting cryptocurrency users (2024) [pdf]</small>
 
 
-| 🔥: 89 \| 💬: [68](https://news.ycombinator.com/item?id=44087183) \| 🗓️ 2025-05-25
+| 🔥: 94 \| 💬: [73](https://news.ycombinator.com/item?id=44087183) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -171,7 +171,7 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 <small>🔗 [swlondoner.co.uk](https://www.swlondoner.co.uk/news/16052025-is-tfl-losing-the-battle-against-heat-on-the-victoria-line): Is TfL losing the battle against heat on the Victoria line?</small>
 
 
-| 🔥: 70 \| 💬: [117](https://news.ycombinator.com/item?id=44086530) \| 🗓️ 2025-05-25
+| 🔥: 74 \| 💬: [130](https://news.ycombinator.com/item?id=44086530) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -179,11 +179,23 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 
 ---
 
-## <a name="14"></a>14. 作家不慎将AI提示词留在了小说中 
+## <a name="14"></a>14. 编写自修改的x86_64 C程序（2013） 
+<small>🔗 [ephemeral.cx](https://ephemeral.cx/2013/12/writing-a-self-mutating-x86_64-c-program/): Writing a Self-Mutating x86_64 C Program (2013)</small>
+
+
+| 🔥: 72 \| 💬: [22](https://news.ycombinator.com/item?id=44089106) \| 🗓️ 2025-05-25
+
+
+<br />
+本文探讨了如何通过**运行时修改代码**实现自修改程序，尽管这种技术在实际开发中弊大于利（如调试困难、硬件依赖等），但具有学术价值。作者以Linux环境为例，使用`mprotect()`函数解除代码段（**text segment**）的写保护，并通过修改`foo()`函数中`addl`指令的机器码（将立即数从1改为42），演示了动态改写指令的过程。关键步骤包括：获取函数内存地址、计算目标字节偏移量、修改权限并覆写指令。最终程序首次调用输出1，修改后输出42，验证了自修改逻辑的可行性。
+
+---
+
+## <a name="15"></a>15. 作家不慎将AI提示词留在了小说中 
 <small>🔗 [404media.co](https://www.404media.co/authors-are-accidentally-leaving-ai-prompts-in-their-novels/): Authors are accidentally leaving AI prompts in their novels</small>
 
 
-| 🔥: 67 \| 💬: [57](https://news.ycombinator.com/item?id=44088482) \| 🗓️ 2025-05-25
+| 🔥: 68 \| 💬: [57](https://news.ycombinator.com/item?id=44088482) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -193,23 +205,11 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 
 ---
 
-## <a name="15"></a>15. 编写自修改的x86_64 C程序（2013） 
-<small>🔗 [ephemeral.cx](https://ephemeral.cx/2013/12/writing-a-self-mutating-x86_64-c-program/): Writing a Self-Mutating x86_64 C Program (2013)</small>
-
-
-| 🔥: 65 \| 💬: [19](https://news.ycombinator.com/item?id=44089106) \| 🗓️ 2025-05-25
-
-
-<br />
-本文探讨了如何通过**运行时修改代码**实现自修改程序，尽管这种技术在实际开发中弊大于利（如调试困难、硬件依赖等），但具有学术价值。作者以Linux环境为例，使用`mprotect()`函数解除代码段（**text segment**）的写保护，并通过修改`foo()`函数中`addl`指令的机器码（将立即数从1改为42），演示了动态改写指令的过程。关键步骤包括：获取函数内存地址、计算目标字节偏移量、修改权限并覆写指令。最终程序首次调用输出1，修改后输出42，验证了自修改逻辑的可行性。
-
----
-
 ## <a name="16"></a>16. AI幻觉案例数据库：法律界的警示录 
 <small>🔗 [damiencharlotin.com](https://www.damiencharlotin.com/hallucinations/): AI Hallucination Cases Database</small>
 
 
-| 🔥: 62 \| 💬: [37](https://news.ycombinator.com/item?id=44088772) \| 🗓️ 2025-05-25
+| 🔥: 64 \| 💬: [38](https://news.ycombinator.com/item?id=44088772) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -217,7 +217,19 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 
 ---
 
-## <a name="17"></a>17. 为什么顶帖式回复已成主流（2018） 
+## <a name="17"></a>17. Zli：Zig语言的高性能全功能CLI开发框架 
+<small>🔗 [github.com](https://github.com/xcaeser/zli): Show HN: Zli – A Batteries-Included CLI Framework for Zig</small>
+
+
+| 🔥: 63 \| 💬: [32](https://news.ycombinator.com/item?id=44089054) \| 🗓️ 2025-05-25
+
+
+<br />
+Zli是一个**模块化**、**零成本抽象**的Zig命令行工具开发框架，灵感来自Go的Cobra和Rust的clap。它提供**类型安全**的标记解析（如`--flag`、`-n`）、命名参数支持（必选/可选/可变参数），并自动生成美观的帮助文档。通过分文件管理命令结构（如`root.zig`、`run.zig`），开发者能快速构建高性能CLI工具。框架内置MIT许可证，支持子命令、别名、持久化标记等特性，安装仅需Zig包管理器。示例代码展示了如何定义带布尔标记和位置参数的`run`命令，体现其简洁API设计。
+
+---
+
+## <a name="18"></a>18. 为什么顶帖式回复已成主流（2018） 
 <small>🔗 [solipsys.co.uk](https://www.solipsys.co.uk/new/WhyTopPostingHasWon.html?ye25hn): Why top posting has won (2018)</small>
 
 
@@ -229,11 +241,11 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 
 ---
 
-## <a name="18"></a>18. 美国政府曾为工薪阶层建造理想社区 
+## <a name="19"></a>19. 美国政府曾为工薪阶层建造理想社区 
 <small>🔗 [theconversation.com](https://theconversation.com/believe-it-or-not-there-was-a-time-when-the-us-government-built-beautiful-homes-for-working-class-americans-to-deal-with-a-housing-crisis-253512): There was a time when the US government built homes for working-class Americans</small>
 
 
-| 🔥: 60 \| 💬: [102](https://news.ycombinator.com/item?id=44087793) \| 🗓️ 2025-05-25
+| 🔥: 60 \| 💬: [103](https://news.ycombinator.com/item?id=44087793) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -241,23 +253,11 @@ DaedalOS 是一款基于浏览器的**完整桌面环境**，模拟了传统操�
 
 ---
 
-## <a name="19"></a>19. Zli：Zig语言的高性能全功能CLI开发框架 
-<small>🔗 [github.com](https://github.com/xcaeser/zli): Show HN: Zli – A Batteries-Included CLI Framework for Zig</small>
-
-
-| 🔥: 60 \| 💬: [23](https://news.ycombinator.com/item?id=44089054) \| 🗓️ 2025-05-25
-
-
-<br />
-Zli是一个**模块化**、**零成本抽象**的Zig命令行工具开发框架，灵感来自Go的Cobra和Rust的clap。它提供**类型安全**的标记解析（如`--flag`、`-n`）、命名参数支持（必选/可选/可变参数），并自动生成美观的帮助文档。通过分文件管理命令结构（如`root.zig`、`run.zig`），开发者能快速构建高性能CLI工具。框架内置MIT许可证，支持子命令、别名、持久化标记等特性，安装仅需Zig包管理器。示例代码展示了如何定义带布尔标记和位置参数的`run`命令，体现其简洁API设计。
-
----
-
 ## <a name="20"></a>20. 在34键键盘上编程的实践与思考 
 <small>🔗 [oppi.li](https://oppi.li/posts/programming_on_34_keys/): Programming on 34 Keys (2022)</small>
 
 
-| 🔥: 51 \| 💬: [76](https://news.ycombinator.com/item?id=44087373) \| 🗓️ 2025-05-25
+| 🔥: 52 \| 💬: [76](https://news.ycombinator.com/item?id=44087373) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -265,11 +265,23 @@ Zli是一个**模块化**、**零成本抽象**的Zig命令行工具开发框架
 
 ---
 
-## <a name="21"></a>21. 企业能否获得总统特赦？ 
+## <a name="21"></a>21. JSON Web Token十年历程与未来展望 
+<small>🔗 [self-issued.info](https://self-issued.info/?p=2708): Ten Years of JSON Web Token and Preparing for the Future</small>
+
+
+| 🔥: 49 \| 💬: [3](https://news.ycombinator.com/item?id=44092102) \| 🗓️ 2025-05-25
+
+
+<br />
+2015年5月，**JSON Web Token (JWT)** 作为RFC 7519正式发布，标志着历时4.5年的标准化工作完成，并衍生出**JWS**、**JWE**等配套加密标准。如今，JWT已成为广泛采用的安全令牌格式，甚至应用于设计者未曾预见的场景。当前，团队正更新《JWT最佳实践》规范，以应对新出现的威胁，并修订OAuth 2.0相关标准以修复漏洞。作者回顾了与OpenID Connect等组织的协作成果，并对未来十年JWT的安全演进充满期待。
+
+---
+
+## <a name="22"></a>22. 企业能否获得总统特赦？ 
 <small>🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5202339): Can a corporation be pardoned?</small>
 
 
-| 🔥: 44 \| 💬: [77](https://news.ycombinator.com/item?id=44088926) \| 🗓️ 2025-05-25
+| 🔥: 47 \| 💬: [80](https://news.ycombinator.com/item?id=44088926) \| 🗓️ 2025-05-25
 
 
 <br />
@@ -277,7 +289,7 @@ Zli是一个**模块化**、**零成本抽象**的Zig命令行工具开发框架
 
 ---
 
-## <a name="22"></a>22. SteamOS 正式版现已全面开放下载 
+## <a name="23"></a>23. SteamOS 正式版现已全面开放下载 
 <small>🔗 [store.steampowered.com](https://store.steampowered.com/steamos): SteamOS now released officially for any device</small>
 
 
@@ -289,7 +301,7 @@ Valve 正式发布了 **SteamOS** 的通用版本，支持在**任何设备**上
 
 ---
 
-## <a name="23"></a>23. 美国梦2025：老年沃尔玛员工靠呼吸机维生，边工作边哭泣 
+## <a name="24"></a>24. 美国梦2025：老年沃尔玛员工靠呼吸机维生，边工作边哭泣 
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/pics/comments/1kujam0/the_american_dream_2025_elderly_walmart_employee/): "The American Dream 2025" Elderly Walmart employee on a COPD machine and crying</small>
 
 
@@ -301,11 +313,11 @@ Valve 正式发布了 **SteamOS** 的通用版本，支持在**任何设备**上
 
 ---
 
-## <a name="24"></a>24. 从哲学到权力：彼得·蒂尔与J.D.万斯对勒内·吉拉尔的误用 
+## <a name="25"></a>25. 从哲学到权力：彼得·蒂尔与J.D.万斯对勒内·吉拉尔的误用 
 <small>🔗 [salmagundi.skidmore.edu](https://salmagundi.skidmore.edu/articles/1176-from-philosophy-to-power): From Philosophy to Power: The Misuse of René Girard by Peter Thiel, J.D. Vance</small>
 
 
-| 🔥: 33 \| 💬: [25](https://news.ycombinator.com/item?id=44087178) \| 🗓️ 2025-05-25
+| 🔥: 33 \| 💬: [26](https://news.ycombinator.com/item?id=44087178) \| 🗓️ 2025-05-25
 
 
 <br />
