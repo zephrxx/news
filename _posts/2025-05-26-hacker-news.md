@@ -10,8 +10,8 @@ tags:
 
 1. 德国法院就排放门丑闻判处大众高管监禁；
 1. Hacker News 现已迁移至 Common Lisp 平台；
-1. 多邻国CEO试图收回“AI优先”言论，却惨遭失败；
 1. 毛巾裹猫头鹰的治愈瞬间；
+1. 多邻国CEO试图收回“AI优先”言论，却惨遭失败；
 1. 新型纳米材料实现空气中被动集水；
 
 以上是今天的前五条黑科技新闻标题。
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [politico.eu](https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/): German court sends VW execs to prison over Dieselgate scandal</small>
 
 
-| 🔥🔥: 654 \| 💬: [259](https://news.ycombinator.com/item?id=44098091) \| 🗓️ 2025-05-26
+| 🔥🔥: 655 \| 💬: [259](https://news.ycombinator.com/item?id=44098091) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [lisp-journey.gitlab.io](https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/): Hacker News now runs on top of Common Lisp</small>
 
 
-| 🔥🔥: 469 \| 💬: [268](https://news.ycombinator.com/item?id=44099006) \| 🗓️ 2025-05-26
+| 🔥🔥: 477 \| 💬: [273](https://news.ycombinator.com/item?id=44099006) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -49,23 +49,11 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 
 ---
 
-## <a name="3"></a>3. 多邻国CEO试图收回“AI优先”言论，却惨遭失败 
-<small>🔗 [htxt.co.za](https://htxt.co.za/2025/05/duolingo-ceo-tries-to-walk-back-ai-first-comments-fails/): Duolingo CEO tries to walk back AI-first comments, fails</small>
-
-
-| 🔥🔥: 374 \| 💬: [273](https://news.ycombinator.com/item?id=44100035) \| 🗓️ 2025-05-26
-
-
-<br />
-多邻国CEO路易斯·冯·安因此前宣布公司将转向**AI优先**战略并裁撤承包商引发众怒，近日试图通过LinkedIn澄清却适得其反。他声称AI将改变工作方式但需谨慎对待，却未撤回**用AI替代人工**的核心立场，甚至暗示招聘将考量候选人AI能力。公众批评其言论自相矛盾且缺乏诚意，而硅谷对AI取代人力的狂热投资更激化了用户不满。多邻国的公关危机持续发酵，被批“越描越黑”。
-
----
-
-## <a name="4"></a>4. 毛巾裹猫头鹰的治愈瞬间 
+## <a name="3"></a>3. 毛巾裹猫头鹰的治愈瞬间 
 <small>🔗 [owlsintowels.org](https://owlsintowels.org/): Owls in Towels</small>
 
 
-| 🔥🔥: 360 \| 💬: [28](https://news.ycombinator.com/item?id=44101349) \| 🗓️ 2025-05-26
+| 🔥🔥: 382 \| 💬: [28](https://news.ycombinator.com/item?id=44101349) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -73,11 +61,23 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 
 ---
 
+## <a name="4"></a>4. 多邻国CEO试图收回“AI优先”言论，却惨遭失败 
+<small>🔗 [htxt.co.za](https://htxt.co.za/2025/05/duolingo-ceo-tries-to-walk-back-ai-first-comments-fails/): Duolingo CEO tries to walk back AI-first comments, fails</small>
+
+
+| 🔥🔥: 376 \| 💬: [276](https://news.ycombinator.com/item?id=44100035) \| 🗓️ 2025-05-26
+
+
+<br />
+多邻国CEO路易斯·冯·安因此前宣布公司将转向**AI优先**战略并裁撤承包商引发众怒，近日试图通过LinkedIn澄清却适得其反。他声称AI将改变工作方式但需谨慎对待，却未撤回**用AI替代人工**的核心立场，甚至暗示招聘将考量候选人AI能力。公众批评其言论自相矛盾且缺乏诚意，而硅谷对AI取代人力的狂热投资更激化了用户不满。多邻国的公关危机持续发酵，被批“越描越黑”。
+
+---
+
 ## <a name="5"></a>5. 新型纳米材料实现空气中被动集水 
 <small>🔗 [blog.seas.upenn.edu](https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/): A new class of materials that can passively harvest water from air</small>
 
 
-| 🔥🔥: 329 \| 💬: [150](https://news.ycombinator.com/item?id=44097144) \| 🗓️ 2025-05-26
+| 🔥🔥: 336 \| 💬: [154](https://news.ycombinator.com/item?id=44097144) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -101,7 +101,7 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 <small>🔗 [heitorpb.github.io](https://heitorpb.github.io/bla/timeout/): TIL: timeout in Bash scripts</small>
 
 
-| 🔥🔥: 262 \| 💬: [73](https://news.ycombinator.com/item?id=44096395) \| 🗓️ 2025-05-26
+| 🔥🔥: 269 \| 💬: [74](https://news.ycombinator.com/item?id=44096395) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -113,7 +113,7 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 <small>🔗 [twitter.com](https://twitter.com/lbeurerkellner/status/1926991491735429514): Claude 4 and GitHub MCP will leak your private GitHub repositories</small>
 
 
-| 🔥🔥: 234 \| 💬: [76](https://news.ycombinator.com/item?id=44100082) \| 🗓️ 2025-05-26
+| 🔥🔥: 241 \| 💬: [3](https://news.ycombinator.com/item?id=44100082) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -125,7 +125,7 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 <small>🔗 [torrentfreak.com](https://torrentfreak.com/cloudflare-ceo-football-piracy-blocks-will-claim-lives-i-pray-no-one-dies-250526/): Cloudflare CEO: Football piracy blocks will claim lives</small>
 
 
-| 🔥🔥: 228 \| 💬: [205](https://news.ycombinator.com/item?id=44098273) \| 🗓️ 2025-05-26
+| 🔥🔥: 232 \| 💬: [207](https://news.ycombinator.com/item?id=44098273) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -137,7 +137,7 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 <small>🔗 [github.com](https://github.com/pgdogdev/pgdog): Show HN: PgDog – Shard Postgres without extensions</small>
 
 
-| 🔥🔥: 191 \| 💬: [43](https://news.ycombinator.com/item?id=44099187) \| 🗓️ 2025-05-26
+| 🔥🔥: 202 \| 💬: [43](https://news.ycombinator.com/item?id=44099187) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -149,7 +149,7 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 <small>🔗 [nymag.com](https://nymag.com/intelligencer/article/google-ai-mode-search-results-bury-the-web.html): Google is burying the web alive</small>
 
 
-| 🔥🔥: 182 \| 💬: [146](https://news.ycombinator.com/item?id=44097490) \| 🗓️ 2025-05-26
+| 🔥🔥: 186 \| 💬: [148](https://news.ycombinator.com/item?id=44097490) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -173,7 +173,7 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 <small>🔗 [lisyarus.github.io](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html): Particle Life simulation in browser using WebGPU</small>
 
 
-| 🔥🔥: 170 \| 💬: [54](https://news.ycombinator.com/item?id=44096808) \| 🗓️ 2025-05-26
+| 🔥🔥: 173 \| 💬: [56](https://news.ycombinator.com/item?id=44096808) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -185,7 +185,7 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 <small>🔗 [solarshades.club](https://www.solarshades.club/p/dispatch-from-the-trenches-of-the): Trying to teach in the age of the AI homework machine</small>
 
 
-| 🔥🔥: 139 \| 💬: [211](https://news.ycombinator.com/item?id=44100677) \| 🗓️ 2025-05-26
+| 🔥🔥: 156 \| 💬: [230](https://news.ycombinator.com/item?id=44100677) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -197,7 +197,7 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/microled-optical-chiplet): TSMC bets on unorthodox optical tech</small>
 
 
-| 🔥🔥: 138 \| 💬: [60](https://news.ycombinator.com/item?id=44099407) \| 🗓️ 2025-05-26
+| 🔥🔥: 141 \| 💬: [60](https://news.ycombinator.com/item?id=44099407) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -209,7 +209,7 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 <small>🔗 [zdnet.com](https://www.zdnet.com/article/massive-data-breach-exposes-184-million-passwords-for-google-microsoft-facebook-and-more/): Data breach exposes 184M passwords, likely captured by malware</small>
 
 
-| 🔥🔥: 129 \| 💬: [81](https://news.ycombinator.com/item?id=44099008) \| 🗓️ 2025-05-26
+| 🔥🔥: 130 \| 💬: [82](https://news.ycombinator.com/item?id=44099008) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -221,7 +221,7 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 <small>🔗 [economist.com](https://www.economist.com/britain/2025/05/15/britains-police-are-restricting-speech-in-worrying-ways): Britain's police are restricting speech in worrying ways</small>
 
 
-| 🔥🔥: 127 \| 💬: [115](https://news.ycombinator.com/item?id=44100552) \| 🗓️ 2025-05-26
+| 🔥🔥: 129 \| 💬: [116](https://news.ycombinator.com/item?id=44100552) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -233,7 +233,7 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 <small>🔗 [maych.in](https://maych.in/blog/its-time-to-give-nix-a-chance/): I think it's time to give Nix a chance</small>
 
 
-| 🔥🔥: 125 \| 💬: [111](https://news.ycombinator.com/item?id=44098605) \| 🗓️ 2025-05-26
+| 🔥🔥: 126 \| 💬: [111](https://news.ycombinator.com/item?id=44098605) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -245,7 +245,7 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 <small>🔗 [everydayplastic.org](https://www.everydayplastic.org/softplastic): The truth about soft plastic recycling points at supermarkets</small>
 
 
-| 🔥🔥: 107 \| 💬: [132](https://news.ycombinator.com/item?id=44095360) \| 🗓️ 2025-05-26
+| 🔥🔥: 108 \| 💬: [132](https://news.ycombinator.com/item?id=44095360) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -257,7 +257,7 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 <small>🔗 [github.com](https://github.com/loopj/wavephoenix): WavePhoenix – open-source implementation of the Nintendo WaveBird protocol</small>
 
 
-| 🔥🔥: 103 \| 💬: [11](https://news.ycombinator.com/item?id=44098442) \| 🗓️ 2025-05-26
+| 🔥🔥: 105 \| 💬: [11](https://news.ycombinator.com/item?id=44098442) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -269,7 +269,7 @@ WavePhoenix是一个基于**Silicon Labs Wireless Gecko SoC**的开源项目，�
 <small>🔗 [micahflee.com](https://micahflee.com/telemessage-explorer-a-new-open-source-research-tool/): TeleMessage Explorer: a new open source research tool</small>
 
 
-| 🔥: 99 \| 💬: [59](https://news.ycombinator.com/item?id=44097986) \| 🗓️ 2025-05-26
+| 🔥: 100 \| 💬: [59](https://news.ycombinator.com/item?id=44097986) \| 🗓️ 2025-05-26
 
 
 <br />
