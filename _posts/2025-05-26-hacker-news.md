@@ -11,8 +11,8 @@ tags:
 1. 德国法院就排放门丑闻判处大众高管监禁；
 1. Hacker News 现已迁移至 Common Lisp 平台；
 1. 多邻国CEO试图收回“AI优先”言论，却惨遭失败；
-1. 新型纳米材料实现空气中被动集水；
 1. 毛巾裹猫头鹰的治愈瞬间；
+1. 新型纳米材料实现空气中被动集水；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [politico.eu](https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/): German court sends VW execs to prison over Dieselgate scandal</small>
 
 
-| 🔥🔥: 637 \| 💬: [258](https://news.ycombinator.com/item?id=44098091) \| 🗓️ 2025-05-26
+| 🔥🔥: 648 \| 💬: [258](https://news.ycombinator.com/item?id=44098091) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [lisp-journey.gitlab.io](https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/): Hacker News now runs on top of Common Lisp</small>
 
 
-| 🔥🔥: 436 \| 💬: [247](https://news.ycombinator.com/item?id=44099006) \| 🗓️ 2025-05-26
+| 🔥🔥: 456 \| 💬: [262](https://news.ycombinator.com/item?id=44099006) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -53,7 +53,7 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 <small>🔗 [htxt.co.za](https://htxt.co.za/2025/05/duolingo-ceo-tries-to-walk-back-ai-first-comments-fails/): Duolingo CEO tries to walk back AI-first comments, fails</small>
 
 
-| 🔥🔥: 363 \| 💬: [265](https://news.ycombinator.com/item?id=44100035) \| 🗓️ 2025-05-26
+| 🔥🔥: 370 \| 💬: [271](https://news.ycombinator.com/item?id=44100035) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -61,23 +61,11 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 
 ---
 
-## <a name="4"></a>4. 新型纳米材料实现空气中被动集水 
-<small>🔗 [blog.seas.upenn.edu](https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/): A new class of materials that can passively harvest water from air</small>
-
-
-| 🔥🔥: 317 \| 💬: [144](https://news.ycombinator.com/item?id=44097144) \| 🗓️ 2025-05-26
-
-
-<br />
-宾夕法尼亚大学团队意外发现一种**纳米多孔材料**，能通过**毛细冷凝**效应在低湿度下从空气中捕获水分，并自动将水排出为液滴，无需外部能源。这种**亲疏水平衡**的材料由常见聚合物与纳米颗粒制成，有望用于干旱地区集水或被动冷却技术。研究揭示了其独特的水分循环机制，挑战了传统热力学预期，未来或推动可持续水资源解决方案。
-
----
-
-## <a name="5"></a>5. 毛巾裹猫头鹰的治愈瞬间 
+## <a name="4"></a>4. 毛巾裹猫头鹰的治愈瞬间 
 <small>🔗 [owlsintowels.org](https://owlsintowels.org/): Owls in Towels</small>
 
 
-| 🔥🔥: 302 \| 💬: [24](https://news.ycombinator.com/item?id=44101349) \| 🗓️ 2025-05-26
+| 🔥🔥: 330 \| 💬: [26](https://news.ycombinator.com/item?id=44101349) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -85,11 +73,23 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 
 ---
 
+## <a name="5"></a>5. 新型纳米材料实现空气中被动集水 
+<small>🔗 [blog.seas.upenn.edu](https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/): A new class of materials that can passively harvest water from air</small>
+
+
+| 🔥🔥: 322 \| 💬: [149](https://news.ycombinator.com/item?id=44097144) \| 🗓️ 2025-05-26
+
+
+<br />
+宾夕法尼亚大学团队意外发现一种**纳米多孔材料**，能通过**毛细冷凝**效应在低湿度下从空气中捕获水分，并自动将水排出为液滴，无需外部能源。这种**亲疏水平衡**的材料由常见聚合物与纳米颗粒制成，有望用于干旱地区集水或被动冷却技术。研究揭示了其独特的水分循环机制，挑战了传统热力学预期，未来或推动可持续水资源解决方案。
+
+---
+
 ## <a name="6"></a>6. 德国外卖巨头Lieferando收购5.7%餐厅相关域名 
 <small>🔗 [mondaybits.com](https://mondaybits.com/lieferando-captured-6-percent-of-restaurant-related-domain-names/): Lieferando.de has captured 5.7% of restaurant related domain names</small>
 
 
-| 🔥🔥: 300 \| 💬: [174](https://news.ycombinator.com/item?id=44095250) \| 🗓️ 2025-05-26
+| 🔥🔥: 300 \| 💬: [175](https://news.ycombinator.com/item?id=44095250) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -101,7 +101,7 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 <small>🔗 [heitorpb.github.io](https://heitorpb.github.io/bla/timeout/): TIL: timeout in Bash scripts</small>
 
 
-| 🔥🔥: 240 \| 💬: [69](https://news.ycombinator.com/item?id=44096395) \| 🗓️ 2025-05-26
+| 🔥🔥: 250 \| 💬: [71](https://news.ycombinator.com/item?id=44096395) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -109,23 +109,11 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 
 ---
 
-## <a name="8"></a>8. 西甲大规模封禁IP殃及民生，Cloudflare CEO警告或将酿成人命悲剧 
-<small>🔗 [torrentfreak.com](https://torrentfreak.com/cloudflare-ceo-football-piracy-blocks-will-claim-lives-i-pray-no-one-dies-250526/): Cloudflare CEO: Football piracy blocks will claim lives</small>
-
-
-| 🔥🔥: 220 \| 💬: [198](https://news.ycombinator.com/item?id=44098273) \| 🗓️ 2025-05-26
-
-
-<br />
-西甲2024/2025赛季落幕，但其通过法院命令**大规模封禁Cloudflare IP地址**的反盗版行动持续引发争议。Cloudflare CEO Matthew Prince指出，这种**无差别封锁策略**已导致数百万无辜网站（包括急救服务）被误伤，并警告"迟早会有西班牙公民因无法访问救命资源而丧生"。西甲将责任归咎于Cloudflare，但后者强调已提供合规流程，呼吁各方**依法协作**而非滥用禁令。数据显示，周末封锁仍在持续，凸显法律授权下的系统性风险。
-
----
-
-## <a name="9"></a>9. Claude 4与GitHub MCP将泄露你的私有代码库 
+## <a name="8"></a>8. Claude 4与GitHub MCP将泄露你的私有代码库 
 <small>🔗 [twitter.com](https://twitter.com/lbeurerkellner/status/1926991491735429514): Claude 4 and GitHub MCP will leak your private GitHub repositories</small>
 
 
-| 🔥🔥: 217 \| 💬: [66](https://news.ycombinator.com/item?id=44100082) \| 🗓️ 2025-05-26
+| 🔥🔥: 227 \| 💬: [73](https://news.ycombinator.com/item?id=44100082) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -133,11 +121,23 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 
 ---
 
+## <a name="9"></a>9. 西甲大规模封禁IP殃及民生，Cloudflare CEO警告或将酿成人命悲剧 
+<small>🔗 [torrentfreak.com](https://torrentfreak.com/cloudflare-ceo-football-piracy-blocks-will-claim-lives-i-pray-no-one-dies-250526/): Cloudflare CEO: Football piracy blocks will claim lives</small>
+
+
+| 🔥🔥: 226 \| 💬: [202](https://news.ycombinator.com/item?id=44098273) \| 🗓️ 2025-05-26
+
+
+<br />
+西甲2024/2025赛季落幕，但其通过法院命令**大规模封禁Cloudflare IP地址**的反盗版行动持续引发争议。Cloudflare CEO Matthew Prince指出，这种**无差别封锁策略**已导致数百万无辜网站（包括急救服务）被误伤，并警告"迟早会有西班牙公民因无法访问救命资源而丧生"。西甲将责任归咎于Cloudflare，但后者强调已提供合规流程，呼吁各方**依法协作**而非滥用禁令。数据显示，周末封锁仍在持续，凸显法律授权下的系统性风险。
+
+---
+
 ## <a name="10"></a>10. PgDog：无需扩展即可实现PostgreSQL分片 
 <small>🔗 [github.com](https://github.com/pgdogdev/pgdog): Show HN: PgDog – Shard Postgres without extensions</small>
 
 
-| 🔥🔥: 178 \| 💬: [40](https://news.ycombinator.com/item?id=44099187) \| 🗓️ 2025-05-26
+| 🔥🔥: 185 \| 💬: [40](https://news.ycombinator.com/item?id=44099187) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -145,7 +145,19 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 
 ---
 
-## <a name="11"></a>11. TeleMessage数据泄露：高盛、警方等数百客户信息曝光 
+## <a name="11"></a>11. 谷歌正在“活埋”互联网 
+<small>🔗 [nymag.com](https://nymag.com/intelligencer/article/google-ai-mode-search-results-bury-the-web.html): Google is burying the web alive</small>
+
+
+| 🔥🔥: 175 \| 💬: [146](https://news.ycombinator.com/item?id=44097490) \| 🗓️ 2025-05-26
+
+
+<br />
+谷歌推出**AI概览**和**AI模式**两大功能，前者在搜索结果顶部生成摘要，后者直接替代传统搜索。这些AI工具通过**总结网页内容**减少用户点击外链的需求，导致网站流量下降。尽管谷歌称其为“超越信息的智能”，但实质是**将网页数据抽象化**并留在自家平台。此举可能破坏谷歌与内容提供者的共生关系，甚至威胁依赖流量的网站生存。谷歌为赢得AI竞赛不惜牺牲互联网生态，未来搜索或彻底转向AI驱动的模块化界面。
+
+---
+
+## <a name="12"></a>12. TeleMessage数据泄露：高盛、警方等数百客户信息曝光 
 <small>🔗 [micahflee.com](https://micahflee.com/telemessage-customers-include-dc-police-andreesen-horowitz-jp-morgan-and-hundreds-more/): TeleMessage Customers Include DC Police, Andreessen Horowitz, JP Morgan,Hundreds</small>
 
 
@@ -157,23 +169,11 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 
 ---
 
-## <a name="12"></a>12. 谷歌正在“活埋”互联网 
-<small>🔗 [nymag.com](https://nymag.com/intelligencer/article/google-ai-mode-search-results-bury-the-web.html): Google is burying the web alive</small>
-
-
-| 🔥🔥: 169 \| 💬: [143](https://news.ycombinator.com/item?id=44097490) \| 🗓️ 2025-05-26
-
-
-<br />
-谷歌推出**AI概览**和**AI模式**两大功能，前者在搜索结果顶部生成摘要，后者直接替代传统搜索。这些AI工具通过**总结网页内容**减少用户点击外链的需求，导致网站流量下降。尽管谷歌称其为“超越信息的智能”，但实质是**将网页数据抽象化**并留在自家平台。此举可能破坏谷歌与内容提供者的共生关系，甚至威胁依赖流量的网站生存。谷歌为赢得AI竞赛不惜牺牲互联网生态，未来搜索或彻底转向AI驱动的模块化界面。
-
----
-
 ## <a name="13"></a>13. 浏览器中使用WebGPU实现的粒子生命模拟 
 <small>🔗 [lisyarus.github.io](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html): Particle Life simulation in browser using WebGPU</small>
 
 
-| 🔥🔥: 166 \| 💬: [51](https://news.ycombinator.com/item?id=44096808) \| 🗓️ 2025-05-26
+| 🔥🔥: 169 \| 💬: [54](https://news.ycombinator.com/item?id=44096808) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -181,47 +181,11 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 
 ---
 
-## <a name="14"></a>14. 英国警方令人担忧的言论限制 
-<small>🔗 [economist.com](https://www.economist.com/britain/2025/05/15/britains-police-are-restricting-speech-in-worrying-ways): Britain's police are restricting speech in worrying ways</small>
-
-
-| 🔥🔥: 126 \| 💬: [112](https://news.ycombinator.com/item?id=44100552) \| 🗓️ 2025-05-26
-
-
-<br />
-英国警方因**模糊的法律条款**获得过大的执法裁量权，导致对言论自由的限制日益严苛。例如，Maxie Allen夫妇因在电子邮件和WhatsApp中**批评女儿的小学**，遭六名警察上门逮捕并拘留八小时。这一事件凸显了**过度执法**对公民权利的威胁，引发公众对言论自由受侵蚀的担忧。
-
----
-
-## <a name="15"></a>15. 1.84亿密码遭泄露，恶意软件或是元凶 
-<small>🔗 [zdnet.com](https://www.zdnet.com/article/massive-data-breach-exposes-184-million-passwords-for-google-microsoft-facebook-and-more/): Data breach exposes 184M passwords, likely captured by malware</small>
-
-
-| 🔥🔥: 125 \| 💬: [80](https://news.ycombinator.com/item?id=44099008) \| 🗓️ 2025-05-26
-
-
-<br />
-网络安全研究员Jeremiah Fowler发现一个未加密的公开数据库，内含**1.84亿条用户凭证**，涉及谷歌、微软、Facebook等平台，甚至包含银行和政府账户信息。数据疑似通过**信息窃取恶意软件**获取，可能被用于凭证填充攻击或账户劫持。研究员建议用户**定期更换密码**、启用**多因素认证**，并使用密码管理器加强防护。目前数据库已被下架，但幕后黑手仍未知。
-
----
-
-## <a name="16"></a>16. 是时候尝试Nix了 
-<small>🔗 [maych.in](https://maych.in/blog/its-time-to-give-nix-a-chance/): I think it's time to give Nix a chance</small>
-
-
-| 🔥🔥: 122 \| 💬: [109](https://news.ycombinator.com/item?id=44098605) \| 🗓️ 2025-05-26
-
-
-<br />
-现代开发工具生态纷繁复杂，常出现代码在他人系统能运行却在自己环境失败的情况，原因可能是**依赖版本冲突**或环境差异。**Nix**通过**不可变的/nix/store存储**和**哈希隔离**彻底解决这一问题：每个包及其依赖拥有唯一路径，确保完全可复现。虽然学习曲线陡峭（需掌握新语言和概念），但其成熟工具链能统一开发环境，支持多版本共存，且通过**Nix Flakes**实现跨平台一致性。对于受困于环境调试的开发者，Nix值得投入时间。
-
----
-
-## <a name="17"></a>17. 台积电押注非传统光学技术 
+## <a name="14"></a>14. 台积电押注非传统光学技术 
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/microled-optical-chiplet): TSMC bets on unorthodox optical tech</small>
 
 
-| 🔥🔥: 119 \| 💬: [55](https://news.ycombinator.com/item?id=44099407) \| 🗓️ 2025-05-26
+| 🔥🔥: 131 \| 💬: [56](https://news.ycombinator.com/item?id=44099407) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -229,11 +193,47 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 
 ---
 
+## <a name="15"></a>15. 英国警方令人担忧的言论限制 
+<small>🔗 [economist.com](https://www.economist.com/britain/2025/05/15/britains-police-are-restricting-speech-in-worrying-ways): Britain's police are restricting speech in worrying ways</small>
+
+
+| 🔥🔥: 127 \| 💬: [113](https://news.ycombinator.com/item?id=44100552) \| 🗓️ 2025-05-26
+
+
+<br />
+英国警方因**模糊的法律条款**获得过大的执法裁量权，导致对言论自由的限制日益严苛。例如，Maxie Allen夫妇因在电子邮件和WhatsApp中**批评女儿的小学**，遭六名警察上门逮捕并拘留八小时。这一事件凸显了**过度执法**对公民权利的威胁，引发公众对言论自由受侵蚀的担忧。
+
+---
+
+## <a name="16"></a>16. 1.84亿密码遭泄露，恶意软件或是元凶 
+<small>🔗 [zdnet.com](https://www.zdnet.com/article/massive-data-breach-exposes-184-million-passwords-for-google-microsoft-facebook-and-more/): Data breach exposes 184M passwords, likely captured by malware</small>
+
+
+| 🔥🔥: 126 \| 💬: [80](https://news.ycombinator.com/item?id=44099008) \| 🗓️ 2025-05-26
+
+
+<br />
+网络安全研究员Jeremiah Fowler发现一个未加密的公开数据库，内含**1.84亿条用户凭证**，涉及谷歌、微软、Facebook等平台，甚至包含银行和政府账户信息。数据疑似通过**信息窃取恶意软件**获取，可能被用于凭证填充攻击或账户劫持。研究员建议用户**定期更换密码**、启用**多因素认证**，并使用密码管理器加强防护。目前数据库已被下架，但幕后黑手仍未知。
+
+---
+
+## <a name="17"></a>17. 是时候尝试Nix了 
+<small>🔗 [maych.in](https://maych.in/blog/its-time-to-give-nix-a-chance/): I think it's time to give Nix a chance</small>
+
+
+| 🔥🔥: 125 \| 💬: [109](https://news.ycombinator.com/item?id=44098605) \| 🗓️ 2025-05-26
+
+
+<br />
+现代开发工具生态纷繁复杂，常出现代码在他人系统能运行却在自己环境失败的情况，原因可能是**依赖版本冲突**或环境差异。**Nix**通过**不可变的/nix/store存储**和**哈希隔离**彻底解决这一问题：每个包及其依赖拥有唯一路径，确保完全可复现。虽然学习曲线陡峭（需掌握新语言和概念），但其成熟工具链能统一开发环境，支持多版本共存，且通过**Nix Flakes**实现跨平台一致性。对于受困于环境调试的开发者，Nix值得投入时间。
+
+---
+
 ## <a name="18"></a>18. 在AI作业机器时代挣扎的教学实践 
 <small>🔗 [solarshades.club](https://www.solarshades.club/p/dispatch-from-the-trenches-of-the): Trying to teach in the age of the AI homework machine</small>
 
 
-| 🔥🔥: 104 \| 💬: [154](https://news.ycombinator.com/item?id=44100677) \| 🗓️ 2025-05-26
+| 🔥🔥: 124 \| 💬: [181](https://news.ycombinator.com/item?id=44100677) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -245,7 +245,7 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 <small>🔗 [everydayplastic.org](https://www.everydayplastic.org/softplastic): The truth about soft plastic recycling points at supermarkets</small>
 
 
-| 🔥🔥: 103 \| 💬: [121](https://news.ycombinator.com/item?id=44095360) \| 🗓️ 2025-05-26
+| 🔥🔥: 104 \| 💬: [130](https://news.ycombinator.com/item?id=44095360) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -253,27 +253,27 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 
 ---
 
-## <a name="20"></a>20. TeleMessage Explorer：开源工具助力调查Signal数据泄露 
-<small>🔗 [micahflee.com](https://micahflee.com/telemessage-explorer-a-new-open-source-research-tool/): TeleMessage Explorer: a new open source research tool</small>
-
-
-| 🔥: 96 \| 💬: [57](https://news.ycombinator.com/item?id=44097986) \| 🗓️ 2025-05-26
-
-
-<br />
-开发者公开了**TeleMessage Explorer**开源工具，用于分析TeleMessage公司泄露的海量数据（包含Signal等加密通讯记录）。该工具需配合DDoSecrets分发的数据集使用，支持记者通过数据库和可视化界面挖掘信息，如政商界人士的群组聊天。文中演示了工具操作流程，包括数据提取、数据库构建及前端查询功能，并透露已发现白宫职员等敏感通讯内容。开发者强调工具为自发项目，不承诺维护，但开放合作咨询。此前同类工具BlueLeaks Explorer曾用于分析警方数据泄露事件。
-
----
-
-## <a name="21"></a>21. WavePhoenix：任天堂WaveBird协议的开源实现 
+## <a name="20"></a>20. WavePhoenix：任天堂WaveBird协议的开源实现 
 <small>🔗 [github.com](https://github.com/loopj/wavephoenix): WavePhoenix – open-source implementation of the Nintendo WaveBird protocol</small>
 
 
-| 🔥: 94 \| 💬: [11](https://news.ycombinator.com/item?id=44098442) \| 🗓️ 2025-05-26
+| 🔥: 98 \| 💬: [11](https://news.ycombinator.com/item?id=44098442) \| 🗓️ 2025-05-26
 
 
 <br />
 WavePhoenix是一个基于**Silicon Labs Wireless Gecko SoC**的开源项目，旨在复现任天堂经典无线手柄WaveBird的通信协议。该项目包含**接收器固件、硬件设计及协议文档**，支持自定义接收器的制作。WaveBird以其**超长续航**和**无延迟射频技术**著称，但原厂接收器已停产且价格飙升。WavePhoenix通过逆向工程实现了协议解析，并优化了无线性能，目前可稳定接收230+数据包/秒。未来计划扩展至N64接收器和USB HID适配器。硬件设计采用低成本方案，并提供3D打印外壳文件。
+
+---
+
+## <a name="21"></a>21. TeleMessage Explorer：开源工具助力调查Signal数据泄露 
+<small>🔗 [micahflee.com](https://micahflee.com/telemessage-explorer-a-new-open-source-research-tool/): TeleMessage Explorer: a new open source research tool</small>
+
+
+| 🔥: 97 \| 💬: [57](https://news.ycombinator.com/item?id=44097986) \| 🗓️ 2025-05-26
+
+
+<br />
+开发者公开了**TeleMessage Explorer**开源工具，用于分析TeleMessage公司泄露的海量数据（包含Signal等加密通讯记录）。该工具需配合DDoSecrets分发的数据集使用，支持记者通过数据库和可视化界面挖掘信息，如政商界人士的群组聊天。文中演示了工具操作流程，包括数据提取、数据库构建及前端查询功能，并透露已发现白宫职员等敏感通讯内容。开发者强调工具为自发项目，不承诺维护，但开放合作咨询。此前同类工具BlueLeaks Explorer曾用于分析警方数据泄露事件。
 
 ---
 
