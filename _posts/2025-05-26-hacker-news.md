@@ -11,8 +11,8 @@ tags:
 1. 德国法院就排放门丑闻判处大众高管监禁；
 1. Hacker News 现已迁移至 Common Lisp 平台；
 1. 多邻国CEO试图收回“AI优先”言论，却惨遭失败；
-1. 德国外卖巨头Lieferando收购5.7%餐厅相关域名；
 1. 新型纳米材料实现空气中被动集水；
+1. 德国外卖巨头Lieferando收购5.7%餐厅相关域名；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [politico.eu](https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/): German court sends VW execs to prison over Dieselgate scandal</small>
 
 
-| 🔥🔥: 619 \| 💬: [251](https://news.ycombinator.com/item?id=44098091) \| 🗓️ 2025-05-26
+| 🔥🔥: 627 \| 💬: [253](https://news.ycombinator.com/item?id=44098091) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [lisp-journey.gitlab.io](https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/): Hacker News now runs on top of Common Lisp</small>
 
 
-| 🔥🔥: 403 \| 💬: [223](https://news.ycombinator.com/item?id=44099006) \| 🗓️ 2025-05-26
+| 🔥🔥: 424 \| 💬: [233](https://news.ycombinator.com/item?id=44099006) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -53,7 +53,7 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 <small>🔗 [htxt.co.za](https://htxt.co.za/2025/05/duolingo-ceo-tries-to-walk-back-ai-first-comments-fails/): Duolingo CEO tries to walk back AI-first comments, fails</small>
 
 
-| 🔥🔥: 344 \| 💬: [260](https://news.ycombinator.com/item?id=44100035) \| 🗓️ 2025-05-26
+| 🔥🔥: 352 \| 💬: [261](https://news.ycombinator.com/item?id=44100035) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -61,7 +61,19 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 
 ---
 
-## <a name="4"></a>4. 德国外卖巨头Lieferando收购5.7%餐厅相关域名 
+## <a name="4"></a>4. 新型纳米材料实现空气中被动集水 
+<small>🔗 [blog.seas.upenn.edu](https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/): A new class of materials that can passively harvest water from air</small>
+
+
+| 🔥🔥: 309 \| 💬: [139](https://news.ycombinator.com/item?id=44097144) \| 🗓️ 2025-05-26
+
+
+<br />
+宾夕法尼亚大学团队意外发现一种**纳米多孔材料**，能通过**毛细冷凝**效应在低湿度下从空气中捕获水分，并自动将水排出为液滴，无需外部能源。这种**亲疏水平衡**的材料由常见聚合物与纳米颗粒制成，有望用于干旱地区集水或被动冷却技术。研究揭示了其独特的水分循环机制，挑战了传统热力学预期，未来或推动可持续水资源解决方案。
+
+---
+
+## <a name="5"></a>5. 德国外卖巨头Lieferando收购5.7%餐厅相关域名 
 <small>🔗 [mondaybits.com](https://mondaybits.com/lieferando-captured-6-percent-of-restaurant-related-domain-names/): Lieferando.de has captured 5.7% of restaurant related domain names</small>
 
 
@@ -73,23 +85,11 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 
 ---
 
-## <a name="5"></a>5. 新型纳米材料实现空气中被动集水 
-<small>🔗 [blog.seas.upenn.edu](https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/): A new class of materials that can passively harvest water from air</small>
-
-
-| 🔥🔥: 299 \| 💬: [133](https://news.ycombinator.com/item?id=44097144) \| 🗓️ 2025-05-26
-
-
-<br />
-宾夕法尼亚大学团队意外发现一种**纳米多孔材料**，能通过**毛细冷凝**效应在低湿度下从空气中捕获水分，并自动将水排出为液滴，无需外部能源。这种**亲疏水平衡**的材料由常见聚合物与纳米颗粒制成，有望用于干旱地区集水或被动冷却技术。研究揭示了其独特的水分循环机制，挑战了传统热力学预期，未来或推动可持续水资源解决方案。
-
----
-
 ## <a name="6"></a>6. 毛巾裹猫头鹰的治愈瞬间 
 <small>🔗 [owlsintowels.org](https://owlsintowels.org/): Owls in Towels</small>
 
 
-| 🔥🔥: 219 \| 💬: [11](https://news.ycombinator.com/item?id=44101349) \| 🗓️ 2025-05-26
+| 🔥🔥: 254 \| 💬: [17](https://news.ycombinator.com/item?id=44101349) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -101,7 +101,7 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 <small>🔗 [heitorpb.github.io](https://heitorpb.github.io/bla/timeout/): TIL: timeout in Bash scripts</small>
 
 
-| 🔥🔥: 215 \| 💬: [66](https://news.ycombinator.com/item?id=44096395) \| 🗓️ 2025-05-26
+| 🔥🔥: 226 \| 💬: [68](https://news.ycombinator.com/item?id=44096395) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -113,7 +113,7 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 <small>🔗 [torrentfreak.com](https://torrentfreak.com/cloudflare-ceo-football-piracy-blocks-will-claim-lives-i-pray-no-one-dies-250526/): Cloudflare CEO: Football piracy blocks will claim lives</small>
 
 
-| 🔥🔥: 210 \| 💬: [191](https://news.ycombinator.com/item?id=44098273) \| 🗓️ 2025-05-26
+| 🔥🔥: 217 \| 💬: [194](https://news.ycombinator.com/item?id=44098273) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -125,7 +125,7 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 <small>🔗 [twitter.com](https://twitter.com/lbeurerkellner/status/1926991491735429514): Claude 4 and GitHub MCP will leak your private GitHub repositories</small>
 
 
-| 🔥🔥: 186 \| 💬: [49](https://news.ycombinator.com/item?id=44100082) \| 🗓️ 2025-05-26
+| 🔥🔥: 203 \| 💬: [56](https://news.ycombinator.com/item?id=44100082) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -149,7 +149,7 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 <small>🔗 [github.com](https://github.com/pgdogdev/pgdog): Show HN: PgDog – Shard Postgres without extensions</small>
 
 
-| 🔥🔥: 162 \| 💬: [35](https://news.ycombinator.com/item?id=44099187) \| 🗓️ 2025-05-26
+| 🔥🔥: 169 \| 💬: [37](https://news.ycombinator.com/item?id=44099187) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -157,23 +157,11 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 
 ---
 
-## <a name="12"></a>12. 浏览器中使用WebGPU实现的粒子生命模拟 
-<small>🔗 [lisyarus.github.io](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html): Particle Life simulation in browser using WebGPU</small>
-
-
-| 🔥🔥: 156 \| 💬: [50](https://news.ycombinator.com/item?id=44096808) \| 🗓️ 2025-05-26
-
-
-<br />
-作者介绍了一种基于**非物理模型**的粒子模拟，通过**不对称作用力**让粒子呈现生命般的行为。该模型通过WebGPU在浏览器中高效运行，利用**空间哈希**和**并行计算**优化性能。核心机制包括**吸引与排斥力**的线性叠加，形成动态平衡，模拟捕食与逃逸等生物行为。WebGPU因其现代API设计成为理想选择，相比传统图形接口更简洁高效。
-
----
-
-## <a name="13"></a>13. 谷歌正在“活埋”互联网 
+## <a name="12"></a>12. 谷歌正在“活埋”互联网 
 <small>🔗 [nymag.com](https://nymag.com/intelligencer/article/google-ai-mode-search-results-bury-the-web.html): Google is burying the web alive</small>
 
 
-| 🔥🔥: 155 \| 💬: [131](https://news.ycombinator.com/item?id=44097490) \| 🗓️ 2025-05-26
+| 🔥🔥: 162 \| 💬: [139](https://news.ycombinator.com/item?id=44097490) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -181,23 +169,23 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 
 ---
 
-## <a name="14"></a>14. 英国警方令人担忧的言论限制 
-<small>🔗 [economist.com](https://www.economist.com/britain/2025/05/15/britains-police-are-restricting-speech-in-worrying-ways): Britain's police are restricting speech in worrying ways</small>
+## <a name="13"></a>13. 浏览器中使用WebGPU实现的粒子生命模拟 
+<small>🔗 [lisyarus.github.io](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html): Particle Life simulation in browser using WebGPU</small>
 
 
-| 🔥🔥: 123 \| 💬: [110](https://news.ycombinator.com/item?id=44100552) \| 🗓️ 2025-05-26
+| 🔥🔥: 161 \| 💬: [51](https://news.ycombinator.com/item?id=44096808) \| 🗓️ 2025-05-26
 
 
 <br />
-英国警方因**模糊的法律条款**获得过大的执法裁量权，导致对言论自由的限制日益严苛。例如，Maxie Allen夫妇因在电子邮件和WhatsApp中**批评女儿的小学**，遭六名警察上门逮捕并拘留八小时。这一事件凸显了**过度执法**对公民权利的威胁，引发公众对言论自由受侵蚀的担忧。
+作者介绍了一种基于**非物理模型**的粒子模拟，通过**不对称作用力**让粒子呈现生命般的行为。该模型通过WebGPU在浏览器中高效运行，利用**空间哈希**和**并行计算**优化性能。核心机制包括**吸引与排斥力**的线性叠加，形成动态平衡，模拟捕食与逃逸等生物行为。WebGPU因其现代API设计成为理想选择，相比传统图形接口更简洁高效。
 
 ---
 
-## <a name="15"></a>15. 1.84亿密码遭泄露，恶意软件或是元凶 
+## <a name="14"></a>14. 1.84亿密码遭泄露，恶意软件或是元凶 
 <small>🔗 [zdnet.com](https://www.zdnet.com/article/massive-data-breach-exposes-184-million-passwords-for-google-microsoft-facebook-and-more/): Data breach exposes 184M passwords, likely captured by malware</small>
 
 
-| 🔥🔥: 122 \| 💬: [77](https://news.ycombinator.com/item?id=44099008) \| 🗓️ 2025-05-26
+| 🔥🔥: 124 \| 💬: [79](https://news.ycombinator.com/item?id=44099008) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -205,11 +193,23 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 
 ---
 
+## <a name="15"></a>15. 英国警方令人担忧的言论限制 
+<small>🔗 [economist.com](https://www.economist.com/britain/2025/05/15/britains-police-are-restricting-speech-in-worrying-ways): Britain's police are restricting speech in worrying ways</small>
+
+
+| 🔥🔥: 124 \| 💬: [113](https://news.ycombinator.com/item?id=44100552) \| 🗓️ 2025-05-26
+
+
+<br />
+英国警方因**模糊的法律条款**获得过大的执法裁量权，导致对言论自由的限制日益严苛。例如，Maxie Allen夫妇因在电子邮件和WhatsApp中**批评女儿的小学**，遭六名警察上门逮捕并拘留八小时。这一事件凸显了**过度执法**对公民权利的威胁，引发公众对言论自由受侵蚀的担忧。
+
+---
+
 ## <a name="16"></a>16. 是时候尝试Nix了 
 <small>🔗 [maych.in](https://maych.in/blog/its-time-to-give-nix-a-chance/): I think it's time to give Nix a chance</small>
 
 
-| 🔥🔥: 118 \| 💬: [105](https://news.ycombinator.com/item?id=44098605) \| 🗓️ 2025-05-26
+| 🔥🔥: 120 \| 💬: [107](https://news.ycombinator.com/item?id=44098605) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -221,7 +221,7 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/microled-optical-chiplet): TSMC bets on unorthodox optical tech</small>
 
 
-| 🔥🔥: 104 \| 💬: [50](https://news.ycombinator.com/item?id=44099407) \| 🗓️ 2025-05-26
+| 🔥🔥: 112 \| 💬: [55](https://news.ycombinator.com/item?id=44099407) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -233,7 +233,7 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 <small>🔗 [everydayplastic.org](https://www.everydayplastic.org/softplastic): The truth about soft plastic recycling points at supermarkets</small>
 
 
-| 🔥🔥: 102 \| 💬: [120](https://news.ycombinator.com/item?id=44095360) \| 🗓️ 2025-05-26
+| 🔥🔥: 102 \| 💬: [121](https://news.ycombinator.com/item?id=44095360) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -245,7 +245,7 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 <small>🔗 [micahflee.com](https://micahflee.com/telemessage-explorer-a-new-open-source-research-tool/): TeleMessage Explorer: a new open source research tool</small>
 
 
-| 🔥: 91 \| 💬: [54](https://news.ycombinator.com/item?id=44097986) \| 🗓️ 2025-05-26
+| 🔥: 93 \| 💬: [55](https://news.ycombinator.com/item?id=44097986) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -257,7 +257,7 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 <small>🔗 [github.com](https://github.com/loopj/wavephoenix): WavePhoenix – open-source implementation of the Nintendo WaveBird protocol</small>
 
 
-| 🔥: 84 \| 💬: [11](https://news.ycombinator.com/item?id=44098442) \| 🗓️ 2025-05-26
+| 🔥: 91 \| 💬: [11](https://news.ycombinator.com/item?id=44098442) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -269,7 +269,7 @@ WavePhoenix是一个基于**Silicon Labs Wireless Gecko SoC**的开源项目，�
 <small>🔗 [blog.rust-lang.org](https://blog.rust-lang.org/2025/05/26/demoting-i686-pc-windows-gnu/): Demoting i686-PC-windows-gnu to Tier 2</small>
 
 
-| 🔥: 64 \| 💬: [33](https://news.ycombinator.com/item?id=44097637) \| 🗓️ 2025-05-26
+| 🔥: 66 \| 💬: [34](https://news.ycombinator.com/item?id=44097637) \| 🗓️ 2025-05-26
 
 
 <br />
