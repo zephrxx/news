@@ -27,7 +27,7 @@ tags:
 <small>🔗 [politico.eu](https://www.politico.eu/article/german-court-vw-execs-prison-dieselgate-scandal-volkswagen-environment-illegal-pollution/): German court sends VW execs to prison over Dieselgate scandal</small>
 
 
-| 🔥🔥: 610 \| 💬: [250](https://news.ycombinator.com/item?id=44098091) \| 🗓️ 2025-05-26
+| 🔥🔥: 619 \| 💬: [251](https://news.ycombinator.com/item?id=44098091) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [lisp-journey.gitlab.io](https://lisp-journey.gitlab.io/blog/hacker-news-now-runs-on-top-of-common-lisp/): Hacker News now runs on top of Common Lisp</small>
 
 
-| 🔥🔥: 391 \| 💬: [203](https://news.ycombinator.com/item?id=44099006) \| 🗓️ 2025-05-26
+| 🔥🔥: 403 \| 💬: [223](https://news.ycombinator.com/item?id=44099006) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -53,7 +53,7 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 <small>🔗 [htxt.co.za](https://htxt.co.za/2025/05/duolingo-ceo-tries-to-walk-back-ai-first-comments-fails/): Duolingo CEO tries to walk back AI-first comments, fails</small>
 
 
-| 🔥🔥: 338 \| 💬: [242](https://news.ycombinator.com/item?id=44100035) \| 🗓️ 2025-05-26
+| 🔥🔥: 344 \| 💬: [260](https://news.ycombinator.com/item?id=44100035) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -65,7 +65,7 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 <small>🔗 [mondaybits.com](https://mondaybits.com/lieferando-captured-6-percent-of-restaurant-related-domain-names/): Lieferando.de has captured 5.7% of restaurant related domain names</small>
 
 
-| 🔥🔥: 298 \| 💬: [173](https://news.ycombinator.com/item?id=44095250) \| 🗓️ 2025-05-26
+| 🔥🔥: 299 \| 💬: [174](https://news.ycombinator.com/item?id=44095250) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -77,7 +77,7 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 <small>🔗 [blog.seas.upenn.edu](https://blog.seas.upenn.edu/penn-engineers-discover-a-new-class-of-materials-that-passively-harvest-water-from-air/): A new class of materials that can passively harvest water from air</small>
 
 
-| 🔥🔥: 292 \| 💬: [123](https://news.ycombinator.com/item?id=44097144) \| 🗓️ 2025-05-26
+| 🔥🔥: 299 \| 💬: [133](https://news.ycombinator.com/item?id=44097144) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -85,11 +85,23 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 
 ---
 
-## <a name="6"></a>6. Bash脚本中的超时控制技巧 
+## <a name="6"></a>6. 毛巾裹猫头鹰的治愈瞬间 
+<small>🔗 [owlsintowels.org](https://owlsintowels.org/): Owls in Towels</small>
+
+
+| 🔥🔥: 219 \| 💬: [11](https://news.ycombinator.com/item?id=44101349) \| 🗓️ 2025-05-26
+
+
+<br />
+野生动物救助者常将**猫头鹰裹在毛巾**中，以便称重、治疗和喂食，避免它们挣扎。这一过程催生了大量可爱的#owlsintowels照片。从台湾的**高山角鸮**到康复中的北鹰鸮，这些被毛巾包裹的小家伙们既脆弱又呆萌，展现了救助工作的温情瞬间。部分图片还记录了猫头鹰从受伤到放归的**康复历程**，传递出对野生动物的专业关怀。
+
+---
+
+## <a name="7"></a>7. Bash脚本中的超时控制技巧 
 <small>🔗 [heitorpb.github.io](https://heitorpb.github.io/bla/timeout/): TIL: timeout in Bash scripts</small>
 
 
-| 🔥🔥: 207 \| 💬: [64](https://news.ycombinator.com/item?id=44096395) \| 🗓️ 2025-05-26
+| 🔥🔥: 215 \| 💬: [66](https://news.ycombinator.com/item?id=44096395) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -97,11 +109,11 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 
 ---
 
-## <a name="7"></a>7. 西甲大规模封禁IP殃及民生，Cloudflare CEO警告或将酿成人命悲剧 
+## <a name="8"></a>8. 西甲大规模封禁IP殃及民生，Cloudflare CEO警告或将酿成人命悲剧 
 <small>🔗 [torrentfreak.com](https://torrentfreak.com/cloudflare-ceo-football-piracy-blocks-will-claim-lives-i-pray-no-one-dies-250526/): Cloudflare CEO: Football piracy blocks will claim lives</small>
 
 
-| 🔥🔥: 204 \| 💬: [182](https://news.ycombinator.com/item?id=44098273) \| 🗓️ 2025-05-26
+| 🔥🔥: 210 \| 💬: [191](https://news.ycombinator.com/item?id=44098273) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -109,11 +121,11 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 
 ---
 
-## <a name="8"></a>8. Claude 4与GitHub MCP将泄露你的私有代码库 
+## <a name="9"></a>9. Claude 4与GitHub MCP将泄露你的私有代码库 
 <small>🔗 [twitter.com](https://twitter.com/lbeurerkellner/status/1926991491735429514): Claude 4 and GitHub MCP will leak your private GitHub repositories</small>
 
 
-| 🔥🔥: 176 \| 💬: [49](https://news.ycombinator.com/item?id=44100082) \| 🗓️ 2025-05-26
+| 🔥🔥: 186 \| 💬: [49](https://news.ycombinator.com/item?id=44100082) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -121,7 +133,7 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 
 ---
 
-## <a name="9"></a>9. TeleMessage数据泄露：高盛、警方等数百客户信息曝光 
+## <a name="10"></a>10. TeleMessage数据泄露：高盛、警方等数百客户信息曝光 
 <small>🔗 [micahflee.com](https://micahflee.com/telemessage-customers-include-dc-police-andreesen-horowitz-jp-morgan-and-hundreds-more/): TeleMessage Customers Include DC Police, Andreessen Horowitz, JP Morgan,Hundreds</small>
 
 
@@ -133,47 +145,11 @@ Hacker News 最初使用 Paul Graham 开发的 **Arc 方言**（基于 Racket �
 
 ---
 
-## <a name="10"></a>10. 浏览器中使用WebGPU实现的粒子生命模拟 
-<small>🔗 [lisyarus.github.io](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html): Particle Life simulation in browser using WebGPU</small>
-
-
-| 🔥🔥: 154 \| 💬: [50](https://news.ycombinator.com/item?id=44096808) \| 🗓️ 2025-05-26
-
-
-<br />
-作者介绍了一种基于**非物理模型**的粒子模拟，通过**不对称作用力**让粒子呈现生命般的行为。该模型通过WebGPU在浏览器中高效运行，利用**空间哈希**和**并行计算**优化性能。核心机制包括**吸引与排斥力**的线性叠加，形成动态平衡，模拟捕食与逃逸等生物行为。WebGPU因其现代API设计成为理想选择，相比传统图形接口更简洁高效。
-
----
-
-## <a name="11"></a>11. 毛巾裹猫头鹰的治愈瞬间 
-<small>🔗 [owlsintowels.org](https://owlsintowels.org/): Owls in Towels</small>
-
-
-| 🔥🔥: 149 \| 💬: [7](https://news.ycombinator.com/item?id=44101349) \| 🗓️ 2025-05-26
-
-
-<br />
-野生动物救助者常将**猫头鹰裹在毛巾**中，以便称重、治疗和喂食，避免它们挣扎。这一过程催生了大量可爱的#owlsintowels照片。从台湾的**高山角鸮**到康复中的北鹰鸮，这些被毛巾包裹的小家伙们既脆弱又呆萌，展现了救助工作的温情瞬间。部分图片还记录了猫头鹰从受伤到放归的**康复历程**，传递出对野生动物的专业关怀。
-
----
-
-## <a name="12"></a>12. 谷歌正在“活埋”互联网 
-<small>🔗 [nymag.com](https://nymag.com/intelligencer/article/google-ai-mode-search-results-bury-the-web.html): Google is burying the web alive</small>
-
-
-| 🔥🔥: 148 \| 💬: [126](https://news.ycombinator.com/item?id=44097490) \| 🗓️ 2025-05-26
-
-
-<br />
-谷歌推出**AI概览**和**AI模式**两大功能，前者在搜索结果顶部生成摘要，后者直接替代传统搜索。这些AI工具通过**总结网页内容**减少用户点击外链的需求，导致网站流量下降。尽管谷歌称其为“超越信息的智能”，但实质是**将网页数据抽象化**并留在自家平台。此举可能破坏谷歌与内容提供者的共生关系，甚至威胁依赖流量的网站生存。谷歌为赢得AI竞赛不惜牺牲互联网生态，未来搜索或彻底转向AI驱动的模块化界面。
-
----
-
-## <a name="13"></a>13. PgDog：无需扩展即可实现PostgreSQL分片 
+## <a name="11"></a>11. PgDog：无需扩展即可实现PostgreSQL分片 
 <small>🔗 [github.com](https://github.com/pgdogdev/pgdog): Show HN: PgDog – Shard Postgres without extensions</small>
 
 
-| 🔥🔥: 148 \| 💬: [31](https://news.ycombinator.com/item?id=44099187) \| 🗓️ 2025-05-26
+| 🔥🔥: 162 \| 💬: [35](https://news.ycombinator.com/item?id=44099187) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -181,11 +157,35 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 
 ---
 
+## <a name="12"></a>12. 浏览器中使用WebGPU实现的粒子生命模拟 
+<small>🔗 [lisyarus.github.io](https://lisyarus.github.io/blog/posts/particle-life-simulation-in-browser-using-webgpu.html): Particle Life simulation in browser using WebGPU</small>
+
+
+| 🔥🔥: 156 \| 💬: [50](https://news.ycombinator.com/item?id=44096808) \| 🗓️ 2025-05-26
+
+
+<br />
+作者介绍了一种基于**非物理模型**的粒子模拟，通过**不对称作用力**让粒子呈现生命般的行为。该模型通过WebGPU在浏览器中高效运行，利用**空间哈希**和**并行计算**优化性能。核心机制包括**吸引与排斥力**的线性叠加，形成动态平衡，模拟捕食与逃逸等生物行为。WebGPU因其现代API设计成为理想选择，相比传统图形接口更简洁高效。
+
+---
+
+## <a name="13"></a>13. 谷歌正在“活埋”互联网 
+<small>🔗 [nymag.com](https://nymag.com/intelligencer/article/google-ai-mode-search-results-bury-the-web.html): Google is burying the web alive</small>
+
+
+| 🔥🔥: 155 \| 💬: [131](https://news.ycombinator.com/item?id=44097490) \| 🗓️ 2025-05-26
+
+
+<br />
+谷歌推出**AI概览**和**AI模式**两大功能，前者在搜索结果顶部生成摘要，后者直接替代传统搜索。这些AI工具通过**总结网页内容**减少用户点击外链的需求，导致网站流量下降。尽管谷歌称其为“超越信息的智能”，但实质是**将网页数据抽象化**并留在自家平台。此举可能破坏谷歌与内容提供者的共生关系，甚至威胁依赖流量的网站生存。谷歌为赢得AI竞赛不惜牺牲互联网生态，未来搜索或彻底转向AI驱动的模块化界面。
+
+---
+
 ## <a name="14"></a>14. 英国警方令人担忧的言论限制 
 <small>🔗 [economist.com](https://www.economist.com/britain/2025/05/15/britains-police-are-restricting-speech-in-worrying-ways): Britain's police are restricting speech in worrying ways</small>
 
 
-| 🔥🔥: 121 \| 💬: [105](https://news.ycombinator.com/item?id=44100552) \| 🗓️ 2025-05-26
+| 🔥🔥: 123 \| 💬: [110](https://news.ycombinator.com/item?id=44100552) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -193,23 +193,11 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 
 ---
 
-## <a name="15"></a>15. 是时候尝试Nix了 
-<small>🔗 [maych.in](https://maych.in/blog/its-time-to-give-nix-a-chance/): I think it's time to give Nix a chance</small>
-
-
-| 🔥🔥: 116 \| 💬: [103](https://news.ycombinator.com/item?id=44098605) \| 🗓️ 2025-05-26
-
-
-<br />
-现代开发工具生态纷繁复杂，常出现代码在他人系统能运行却在自己环境失败的情况，原因可能是**依赖版本冲突**或环境差异。**Nix**通过**不可变的/nix/store存储**和**哈希隔离**彻底解决这一问题：每个包及其依赖拥有唯一路径，确保完全可复现。虽然学习曲线陡峭（需掌握新语言和概念），但其成熟工具链能统一开发环境，支持多版本共存，且通过**Nix Flakes**实现跨平台一致性。对于受困于环境调试的开发者，Nix值得投入时间。
-
----
-
-## <a name="16"></a>16. 1.84亿密码遭泄露，恶意软件或是元凶 
+## <a name="15"></a>15. 1.84亿密码遭泄露，恶意软件或是元凶 
 <small>🔗 [zdnet.com](https://www.zdnet.com/article/massive-data-breach-exposes-184-million-passwords-for-google-microsoft-facebook-and-more/): Data breach exposes 184M passwords, likely captured by malware</small>
 
 
-| 🔥🔥: 116 \| 💬: [75](https://news.ycombinator.com/item?id=44099008) \| 🗓️ 2025-05-26
+| 🔥🔥: 122 \| 💬: [77](https://news.ycombinator.com/item?id=44099008) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -217,23 +205,23 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 
 ---
 
-## <a name="17"></a>17. 超市软塑料回收点的真相 
-<small>🔗 [everydayplastic.org](https://www.everydayplastic.org/softplastic): The truth about soft plastic recycling points at supermarkets</small>
+## <a name="16"></a>16. 是时候尝试Nix了 
+<small>🔗 [maych.in](https://maych.in/blog/its-time-to-give-nix-a-chance/): I think it's time to give Nix a chance</small>
 
 
-| 🔥: 98 \| 💬: [116](https://news.ycombinator.com/item?id=44095360) \| 🗓️ 2025-05-26
+| 🔥🔥: 118 \| 💬: [105](https://news.ycombinator.com/item?id=44098605) \| 🗓️ 2025-05-26
 
 
 <br />
-调查显示，英国超市**Sainsbury's和Tesco**的软塑料回收计划存在误导：70%的回收软塑料最终被焚烧，而非再生；其余被**降级回收**为低价值产品，多数运往土耳其。环保组织警告，此类方案无法解决塑料污染，呼吁超市支持**2040年前全球塑料减产40%**的目标。当前英国仅7%的软塑料通过路边回收，凸显减少一次性包装、推广重复使用系统的紧迫性。
+现代开发工具生态纷繁复杂，常出现代码在他人系统能运行却在自己环境失败的情况，原因可能是**依赖版本冲突**或环境差异。**Nix**通过**不可变的/nix/store存储**和**哈希隔离**彻底解决这一问题：每个包及其依赖拥有唯一路径，确保完全可复现。虽然学习曲线陡峭（需掌握新语言和概念），但其成熟工具链能统一开发环境，支持多版本共存，且通过**Nix Flakes**实现跨平台一致性。对于受困于环境调试的开发者，Nix值得投入时间。
 
 ---
 
-## <a name="18"></a>18. 台积电押注非传统光学技术 
+## <a name="17"></a>17. 台积电押注非传统光学技术 
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/microled-optical-chiplet): TSMC bets on unorthodox optical tech</small>
 
 
-| 🔥: 95 \| 💬: [42](https://news.ycombinator.com/item?id=44099407) \| 🗓️ 2025-05-26
+| 🔥🔥: 104 \| 💬: [50](https://news.ycombinator.com/item?id=44099407) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -241,11 +229,23 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 
 ---
 
+## <a name="18"></a>18. 超市软塑料回收点的真相 
+<small>🔗 [everydayplastic.org](https://www.everydayplastic.org/softplastic): The truth about soft plastic recycling points at supermarkets</small>
+
+
+| 🔥🔥: 102 \| 💬: [120](https://news.ycombinator.com/item?id=44095360) \| 🗓️ 2025-05-26
+
+
+<br />
+调查显示，英国超市**Sainsbury's和Tesco**的软塑料回收计划存在误导：70%的回收软塑料最终被焚烧，而非再生；其余被**降级回收**为低价值产品，多数运往土耳其。环保组织警告，此类方案无法解决塑料污染，呼吁超市支持**2040年前全球塑料减产40%**的目标。当前英国仅7%的软塑料通过路边回收，凸显减少一次性包装、推广重复使用系统的紧迫性。
+
+---
+
 ## <a name="19"></a>19. TeleMessage Explorer：开源工具助力调查Signal数据泄露 
 <small>🔗 [micahflee.com](https://micahflee.com/telemessage-explorer-a-new-open-source-research-tool/): TeleMessage Explorer: a new open source research tool</small>
 
 
-| 🔥: 87 \| 💬: [54](https://news.ycombinator.com/item?id=44097986) \| 🗓️ 2025-05-26
+| 🔥: 91 \| 💬: [54](https://news.ycombinator.com/item?id=44097986) \| 🗓️ 2025-05-26
 
 
 <br />
@@ -257,7 +257,7 @@ PgDog是一款基于Rust开发的**PostgreSQL分片工具**，兼具**负载均�
 <small>🔗 [github.com](https://github.com/loopj/wavephoenix): WavePhoenix – open-source implementation of the Nintendo WaveBird protocol</small>
 
 
-| 🔥: 82 \| 💬: [10](https://news.ycombinator.com/item?id=44098442) \| 🗓️ 2025-05-26
+| 🔥: 84 \| 💬: [11](https://news.ycombinator.com/item?id=44098442) \| 🗓️ 2025-05-26
 
 
 <br />
