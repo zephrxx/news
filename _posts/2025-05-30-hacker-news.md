@@ -27,7 +27,7 @@ tags:
 <small>🔗 [cnn.com](https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap): The 'white-collar bloodbath' is all part of the AI hype machine</small>
 
 
-| 🔥🔥: 317 \| 💬: [519](https://news.ycombinator.com/item?id=44136117) \| 🗓️ 2025-05-30
+| 🔥🔥: 329 \| 💬: [547](https://news.ycombinator.com/item?id=44136117) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -39,7 +39,7 @@ Anthropic CEO达里奥·阿莫代宣称**AI将取代半数初级白领工作**�
 <small>🔗 [cacm.acm.org](https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/): Systems Correctness Practices at Amazon Web Services</small>
 
 
-| 🔥🔥: 309 \| 💬: [111](https://news.ycombinator.com/item?id=44135638) \| 🗓️ 2025-05-30
+| 🔥🔥: 315 \| 💬: [111](https://news.ycombinator.com/item?id=44135638) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -51,7 +51,7 @@ AWS通过**形式化方法**（如TLA+和P语言）确保关键服务的正确�
 <small>🔗 [github.com](https://github.com/microsandbox/microsandbox): Microsandbox: Virtual Machines that feel and perform like containers</small>
 
 
-| 🔥🔥: 268 \| 💬: [125](https://news.ycombinator.com/item?id=44135977) \| 🗓️ 2025-05-30
+| 🔥🔥: 275 \| 💬: [126](https://news.ycombinator.com/item?id=44135977) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -63,7 +63,7 @@ AWS通过**形式化方法**（如TLA+和P语言）确保关键服务的正确�
 <small>🔗 [anemato.de](https://anemato.de/blog/kctf-vdf): Beating Google's kernelCTF PoW using AVX512</small>
 
 
-| 🔥🔥: 260 \| 💬: [79](https://news.ycombinator.com/item?id=44137715) \| 🗓️ 2025-05-30
+| 🔥🔥: 267 \| 💬: [81](https://news.ycombinator.com/item?id=44137715) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -75,7 +75,7 @@ AWS通过**形式化方法**（如TLA+和P语言）确保关键服务的正确�
 <small>🔗 [crfm.stanford.edu](https://crfm.stanford.edu/2025/05/28/fast-kernels.html): Surprisingly fast AI-generated kernels we didn't mean to publish yet</small>
 
 
-| 🔥🔥: 221 \| 💬: [54](https://news.ycombinator.com/item?id=44139454) \| 🗓️ 2025-05-30
+| 🔥🔥: 233 \| 💬: [58](https://news.ycombinator.com/item?id=44139454) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -87,7 +87,7 @@ AWS通过**形式化方法**（如TLA+和P语言）确保关键服务的正确�
 <small>🔗 [procreate.com](https://procreate.com/ai): AI is not our future</small>
 
 
-| 🔥🔥: 215 \| 💬: [158](https://news.ycombinator.com/item?id=44134798) \| 🗓️ 2025-05-30
+| 🔥🔥: 215 \| 💬: [159](https://news.ycombinator.com/item?id=44134798) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -99,7 +99,7 @@ AWS通过**形式化方法**（如TLA+和P语言）确保关键服务的正确�
 <small>🔗 [microcenter.com](https://www.microcenter.com/site/mc-news/article/micro-center-santa-clara-photos.aspx): Silicon Valley finally has a big electronics retailer again: Micro Center opens</small>
 
 
-| 🔥🔥: 167 \| 💬: [86](https://news.ycombinator.com/item?id=44140378) \| 🗓️ 2025-05-30
+| 🔥🔥: 184 \| 💬: [100](https://news.ycombinator.com/item?id=44140378) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -111,7 +111,7 @@ AWS通过**形式化方法**（如TLA+和P语言）确保关键服务的正确�
 <small>🔗 [biggo.com](https://biggo.com/news/202505261334_MinIO_Removes_Web_UI_Features): MinIO Removes Web UI Features from Community Version, Pushes Users to Paid Plans</small>
 
 
-| 🔥🔥: 163 \| 💬: [89](https://news.ycombinator.com/item?id=44136108) \| 🗓️ 2025-05-30
+| 🔥🔥: 163 \| 💬: [90](https://news.ycombinator.com/item?id=44136108) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -123,7 +123,7 @@ AWS通过**形式化方法**（如TLA+和P语言）确保关键服务的正确�
 <small>🔗 [sakana.ai](https://sakana.ai/dgm/): The Darwin Gödel Machine: AI that improves itself by rewriting its own code</small>
 
 
-| 🔥🔥: 152 \| 💬: [157](https://news.ycombinator.com/item?id=44135369) \| 🗓️ 2025-05-30
+| 🔥🔥: 154 \| 💬: [157](https://news.ycombinator.com/item?id=44135369) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -132,10 +132,10 @@ AWS通过**形式化方法**（如TLA+和P语言）确保关键服务的正确�
 ---
 
 ## <a name="10"></a>10. 瑞典发现尘封53年的杰瑞·刘易斯争议电影《小丑哭了》 
-<small>🔗 [thenationalnews.com](https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/): Jerry Lewis's "The Day the Clown Cried" discovered in Sweden after 53 years</small>
+<small>🔗 [thenationalnews.com](https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/): Jerry Lewis's “The Day the Clown Cried” discovered in Sweden after 53 years</small>
 
 
-| 🔥🔥: 145 \| 💬: [65](https://news.ycombinator.com/item?id=44139592) \| 🗓️ 2025-05-30
+| 🔥🔥: 146 \| 💬: [67](https://news.ycombinator.com/item?id=44139592) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -143,7 +143,21 @@ AWS通过**形式化方法**（如TLA+和P语言）确保关键服务的正确�
 
 ---
 
-## <a name="11"></a>11. 射电天文软件定义无线电（Rasdr） 
+## <a name="11"></a>11. 德布鲁因索引：为什么它如此实用？ 
+<small>🔗 [blueberrywren.dev](https://blueberrywren.dev/blog/debruijn-explanation/): De Bruijn notation, and why it's useful</small>
+
+
+| 🔥🔥: 124 \| 💬: [33](https://news.ycombinator.com/item?id=44137439) \| 🗓️ 2025-05-30
+
+
+<br />
+本文介绍了**德布鲁因索引**和**德布鲁因层级**，它们是λ演算中避免变量捕获问题的命名方案。传统变量名容易在替换时引发冲突，而德布鲁因索引用自然数表示变量绑定关系：0指向最近绑定的变量，1指向次近的，以此类推。通过调整替换时的变量索引，可以避免意外捕获。  
+
+德布鲁因层级则相反，最小数指向最外层的绑定。索引更适合局部操作，而层级在移动项时无需修改自由变量。此外，德布鲁因表示法能直接比较项的**α等价性**，无需重命名变量。文末还提供了其他替代方案的简要提及，如HOAS和抽象绑定树。
+
+---
+
+## <a name="12"></a>12. 射电天文软件定义无线电（Rasdr） 
 <small>🔗 [radio-astronomy.org](https://radio-astronomy.org/rasdr): Radio Astronomy Software Defined Radio (Rasdr)</small>
 
 
@@ -152,20 +166,6 @@ AWS通过**形式化方法**（如TLA+和P语言）确保关键服务的正确�
 
 <br />
 基于**Rasdr概念**（专为射电天文设计的**宽带宽**、兼容Windows且文档齐全的SDR接收器）的两款硬件设计中，目前仅**Rasdr4**仍在售。该设备致力于为天文观测提供高性能的软件定义无线电解决方案。
-
----
-
-## <a name="12"></a>12. 德布鲁因索引：为什么它如此实用？ 
-<small>🔗 [blueberrywren.dev](https://blueberrywren.dev/blog/debruijn-explanation/): De Bruijn notation, and why it's useful</small>
-
-
-| 🔥🔥: 121 \| 💬: [33](https://news.ycombinator.com/item?id=44137439) \| 🗓️ 2025-05-30
-
-
-<br />
-本文介绍了**德布鲁因索引**和**德布鲁因层级**，它们是λ演算中避免变量捕获问题的命名方案。传统变量名容易在替换时引发冲突，而德布鲁因索引用自然数表示变量绑定关系：0指向最近绑定的变量，1指向次近的，以此类推。通过调整替换时的变量索引，可以避免意外捕获。  
-
-德布鲁因层级则相反，最小数指向最外层的绑定。索引更适合局部操作，而层级在移动项时无需修改自由变量。此外，德布鲁因表示法能直接比较项的**α等价性**，无需重命名变量。文末还提供了其他替代方案的简要提及，如HOAS和抽象绑定树。
 
 ---
 
@@ -185,7 +185,7 @@ Cap是一款**现代开源验证码**解决方案，采用**工作量证明（Po
 <small>🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5270031): Toxic Origins, Toxic Decisions: Biases in CEO Selection</small>
 
 
-| 🔥: 94 \| 💬: [58](https://news.ycombinator.com/item?id=44137542) \| 🗓️ 2025-05-30
+| 🔥: 96 \| 💬: [58](https://news.ycombinator.com/item?id=44137542) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -199,7 +199,7 @@ Cap是一款**现代开源验证码**解决方案，采用**工作量证明（Po
 <small>🔗 [github.com](https://github.com/sinisterMage/WPlusPlus): Show HN: W++ – A Python-style scripting language for .NET with NuGet support</small>
 
 
-| 🔥: 87 \| 💬: [49](https://news.ycombinator.com/item?id=44136884) \| 🗓️ 2025-05-30
+| 🔥: 89 \| 💬: [49](https://news.ycombinator.com/item?id=44136884) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -211,7 +211,7 @@ W++是一款**实验性**的.NET脚本语言，灵感来自Python的简洁语法
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/science/archive/2025/05/adam-riess-hubble-tension/682980/): Adam Riess and the Hubble tension</small>
 
 
-| 🔥: 78 \| 💬: [65](https://news.ycombinator.com/item?id=44136945) \| 🗓️ 2025-05-30
+| 🔥: 78 \| 💬: [66](https://news.ycombinator.com/item?id=44136945) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -235,7 +235,7 @@ W++是一款**实验性**的.NET脚本语言，灵感来自Python的简洁语法
 <small>🔗 [moneyweek.com](https://moneyweek.com/personal-finance/marks-and-spencer-online-order-problems): When will M&S take online orders again?</small>
 
 
-| 🔥: 71 \| 💬: [97](https://news.ycombinator.com/item?id=44137630) \| 🗓️ 2025-05-30
+| 🔥: 71 \| 💬: [100](https://news.ycombinator.com/item?id=44137630) \| 🗓️ 2025-05-30
 
 
 <br />
