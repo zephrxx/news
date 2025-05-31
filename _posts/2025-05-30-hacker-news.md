@@ -24,10 +24,10 @@ tags:
 
 
 ## <a name="1"></a>1. AI炒作下的"白领大裁员"论：一场营销闹剧 
-<small>🔗 [cnn.com](https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap): The 'white-collar bloodbath' is all part of the AI hype machine</small>
+<small>🔗 [cnn.com](https://www.cnn.com/2025/05/30/business/anthropic-amodei-ai-jobs-nightcap): The ‘white-collar bloodbath’ is all part of the AI hype machine</small>
 
 
-| 🔥🔥: 329 \| 💬: [547](https://news.ycombinator.com/item?id=44136117) \| 🗓️ 2025-05-30
+| 🔥🔥: 352 \| 💬: [595](https://news.ycombinator.com/item?id=44136117) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -39,7 +39,7 @@ Anthropic CEO达里奥·阿莫代宣称**AI将取代半数初级白领工作**�
 <small>🔗 [cacm.acm.org](https://cacm.acm.org/practice/systems-correctness-practices-at-amazon-web-services/): Systems Correctness Practices at Amazon Web Services</small>
 
 
-| 🔥🔥: 315 \| 💬: [111](https://news.ycombinator.com/item?id=44135638) \| 🗓️ 2025-05-30
+| 🔥🔥: 318 \| 💬: [113](https://news.ycombinator.com/item?id=44135638) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -51,7 +51,7 @@ AWS通过**形式化方法**（如TLA+和P语言）确保关键服务的正确�
 <small>🔗 [github.com](https://github.com/microsandbox/microsandbox): Microsandbox: Virtual Machines that feel and perform like containers</small>
 
 
-| 🔥🔥: 275 \| 💬: [126](https://news.ycombinator.com/item?id=44135977) \| 🗓️ 2025-05-30
+| 🔥🔥: 284 \| 💬: [127](https://news.ycombinator.com/item?id=44135977) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -63,7 +63,7 @@ AWS通过**形式化方法**（如TLA+和P语言）确保关键服务的正确�
 <small>🔗 [anemato.de](https://anemato.de/blog/kctf-vdf): Beating Google's kernelCTF PoW using AVX512</small>
 
 
-| 🔥🔥: 267 \| 💬: [81](https://news.ycombinator.com/item?id=44137715) \| 🗓️ 2025-05-30
+| 🔥🔥: 271 \| 💬: [83](https://news.ycombinator.com/item?id=44137715) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -75,7 +75,7 @@ AWS通过**形式化方法**（如TLA+和P语言）确保关键服务的正确�
 <small>🔗 [crfm.stanford.edu](https://crfm.stanford.edu/2025/05/28/fast-kernels.html): Surprisingly fast AI-generated kernels we didn't mean to publish yet</small>
 
 
-| 🔥🔥: 233 \| 💬: [58](https://news.ycombinator.com/item?id=44139454) \| 🗓️ 2025-05-30
+| 🔥🔥: 242 \| 💬: [64](https://news.ycombinator.com/item?id=44139454) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -87,7 +87,7 @@ AWS通过**形式化方法**（如TLA+和P语言）确保关键服务的正确�
 <small>🔗 [procreate.com](https://procreate.com/ai): AI is not our future</small>
 
 
-| 🔥🔥: 215 \| 💬: [159](https://news.ycombinator.com/item?id=44134798) \| 🗓️ 2025-05-30
+| 🔥🔥: 217 \| 💬: [159](https://news.ycombinator.com/item?id=44134798) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -99,7 +99,7 @@ AWS通过**形式化方法**（如TLA+和P语言）确保关键服务的正确�
 <small>🔗 [microcenter.com](https://www.microcenter.com/site/mc-news/article/micro-center-santa-clara-photos.aspx): Silicon Valley finally has a big electronics retailer again: Micro Center opens</small>
 
 
-| 🔥🔥: 184 \| 💬: [100](https://news.ycombinator.com/item?id=44140378) \| 🗓️ 2025-05-30
+| 🔥🔥: 201 \| 💬: [107](https://news.ycombinator.com/item?id=44140378) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -123,7 +123,7 @@ AWS通过**形式化方法**（如TLA+和P语言）确保关键服务的正确�
 <small>🔗 [sakana.ai](https://sakana.ai/dgm/): The Darwin Gödel Machine: AI that improves itself by rewriting its own code</small>
 
 
-| 🔥🔥: 154 \| 💬: [157](https://news.ycombinator.com/item?id=44135369) \| 🗓️ 2025-05-30
+| 🔥🔥: 162 \| 💬: [169](https://news.ycombinator.com/item?id=44135369) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -135,7 +135,7 @@ AWS通过**形式化方法**（如TLA+和P语言）确保关键服务的正确�
 <small>🔗 [thenationalnews.com](https://www.thenationalnews.com/arts-culture/film-tv/2025/05/29/jerry-lewis-day-the-clown-cried-discovered/): Jerry Lewis's “The Day the Clown Cried” discovered in Sweden after 53 years</small>
 
 
-| 🔥🔥: 146 \| 💬: [67](https://news.ycombinator.com/item?id=44139592) \| 🗓️ 2025-05-30
+| 🔥🔥: 149 \| 💬: [68](https://news.ycombinator.com/item?id=44139592) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -147,7 +147,7 @@ AWS通过**形式化方法**（如TLA+和P语言）确保关键服务的正确�
 <small>🔗 [blueberrywren.dev](https://blueberrywren.dev/blog/debruijn-explanation/): De Bruijn notation, and why it's useful</small>
 
 
-| 🔥🔥: 124 \| 💬: [33](https://news.ycombinator.com/item?id=44137439) \| 🗓️ 2025-05-30
+| 🔥🔥: 125 \| 💬: [35](https://news.ycombinator.com/item?id=44137439) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -161,7 +161,7 @@ AWS通过**形式化方法**（如TLA+和P语言）确保关键服务的正确�
 <small>🔗 [radio-astronomy.org](https://radio-astronomy.org/rasdr): Radio Astronomy Software Defined Radio (Rasdr)</small>
 
 
-| 🔥🔥: 121 \| 💬: [7](https://news.ycombinator.com/item?id=44134364) \| 🗓️ 2025-05-30
+| 🔥🔥: 122 \| 💬: [7](https://news.ycombinator.com/item?id=44134364) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -185,7 +185,7 @@ Cap是一款**现代开源验证码**解决方案，采用**工作量证明（Po
 <small>🔗 [papers.ssrn.com](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5270031): Toxic Origins, Toxic Decisions: Biases in CEO Selection</small>
 
 
-| 🔥: 96 \| 💬: [58](https://news.ycombinator.com/item?id=44137542) \| 🗓️ 2025-05-30
+| 🔥: 97 \| 💬: [58](https://news.ycombinator.com/item?id=44137542) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -199,7 +199,7 @@ Cap是一款**现代开源验证码**解决方案，采用**工作量证明（Po
 <small>🔗 [github.com](https://github.com/sinisterMage/WPlusPlus): Show HN: W++ – A Python-style scripting language for .NET with NuGet support</small>
 
 
-| 🔥: 89 \| 💬: [49](https://news.ycombinator.com/item?id=44136884) \| 🗓️ 2025-05-30
+| 🔥: 90 \| 💬: [49](https://news.ycombinator.com/item?id=44136884) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -211,7 +211,7 @@ W++是一款**实验性**的.NET脚本语言，灵感来自Python的简洁语法
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/science/archive/2025/05/adam-riess-hubble-tension/682980/): Adam Riess and the Hubble tension</small>
 
 
-| 🔥: 78 \| 💬: [66](https://news.ycombinator.com/item?id=44136945) \| 🗓️ 2025-05-30
+| 🔥: 81 \| 💬: [67](https://news.ycombinator.com/item?id=44136945) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -235,7 +235,7 @@ W++是一款**实验性**的.NET脚本语言，灵感来自Python的简洁语法
 <small>🔗 [moneyweek.com](https://moneyweek.com/personal-finance/marks-and-spencer-online-order-problems): When will M&S take online orders again?</small>
 
 
-| 🔥: 71 \| 💬: [100](https://news.ycombinator.com/item?id=44137630) \| 🗓️ 2025-05-30
+| 🔥: 71 \| 💬: [102](https://news.ycombinator.com/item?id=44137630) \| 🗓️ 2025-05-30
 
 
 <br />
@@ -259,7 +259,7 @@ W++是一款**实验性**的.NET脚本语言，灵感来自Python的简洁语法
 <small>🔗 [orioledb.com](https://www.orioledb.com/blog/orioledb-bridged-indexes): Bridged Indexes in OrioleDB: architecture, internals and everyday use?</small>
 
 
-| 🔥: 68 \| 💬: [12](https://news.ycombinator.com/item?id=44134728) \| 🗓️ 2025-05-30
+| 🔥: 69 \| 💬: [12](https://news.ycombinator.com/item?id=44134728) \| 🗓️ 2025-05-30
 
 
 <br />
