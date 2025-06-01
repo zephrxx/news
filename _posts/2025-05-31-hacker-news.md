@@ -12,7 +12,7 @@ tags:
 1. 《分析学I的简明Lean指南》；
 1. 用组合工具暴力拦截爬虫；
 1. 马斯克削减美国援助资金致30万人死亡 逾20万为儿童；
-1. 穿孔卡片密钥备份工具：pckb；
+1. 渐进式JSON：优化数据传输的新思路；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [mitxela.com](https://mitxela.com/projects/precision_clock_mk_iv): Precision Clock Mk IV</small>
 
 
-| 🔥🔥: 409 \| 💬: [108](https://news.ycombinator.com/item?id=44144750) \| 🗓️ 2025-05-31
+| 🔥🔥: 421 \| 💬: [109](https://news.ycombinator.com/item?id=44144750) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/): A Lean companion to Analysis I</small>
 
 
-| 🔥🔥: 174 \| 💬: [19](https://news.ycombinator.com/item?id=44145517) \| 🗓️ 2025-05-31
+| 🔥🔥: 181 \| 💬: [19](https://news.ycombinator.com/item?id=44145517) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [lambdacreate.com](https://lambdacreate.com/posts/68): Using lots of little tools to aggressively reject the bots</small>
 
 
-| 🔥🔥: 171 \| 💬: [94](https://news.ycombinator.com/item?id=44142761) \| 🗓️ 2025-05-31
+| 🔥🔥: 178 \| 💬: [98](https://news.ycombinator.com/item?id=44142761) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -71,11 +71,23 @@ tags:
 
 ---
 
-## <a name="5"></a>5. 穿孔卡片密钥备份工具：pckb 
+## <a name="5"></a>5. 渐进式JSON：优化数据传输的新思路 
+<small>🔗 [overreacted.io](https://overreacted.io/progressive-json/): Progressive JSON</small>
+
+
+| 🔥🔥: 111 \| 💬: [55](https://news.ycombinator.com/item?id=44147945) \| 🗓️ 2025-05-31
+
+
+<br />
+本文提出**渐进式JSON**的概念，灵感来自渐进式JPEG。传统JSON传输需等待全部数据到达才能解析，而**流式JSON解析器**虽能处理不完整数据，但会导致结构不完整。作者提出**广度优先**的传输方式：先发送框架（含占位符），再分批填充数据，客户端用`Promise`表示未加载部分。这种方法允许**并行处理**数据，尤其适合慢速查询场景。最后以React服务端组件为例，说明如何结合`<Suspense>`实现优雅的渐进式UI加载。
+
+---
+
+## <a name="6"></a>6. 穿孔卡片密钥备份工具：pckb 
 <small>🔗 [github.com](https://github.com/volution/punchcard-key-backup): Show HN: PunchCard Key Backup</small>
 
 
-| 🔥🔥: 108 \| 💬: [32](https://news.ycombinator.com/item?id=44145202) \| 🗓️ 2025-05-31
+| 🔥🔥: 110 \| 💬: [33](https://news.ycombinator.com/item?id=44145202) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -90,11 +102,11 @@ tags:
 
 ---
 
-## <a name="6"></a>6. YOLO-World：实时开放词汇目标检测新突破 
+## <a name="7"></a>7. YOLO-World：实时开放词汇目标检测新突破 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2401.17270): YOLO-World: Real-Time Open-Vocabulary Object Detection</small>
 
 
-| 🔥: 98 \| 💬: [32](https://news.ycombinator.com/item?id=44146858) \| 🗓️ 2025-05-31
+| 🔥🔥: 101 \| 💬: [33](https://news.ycombinator.com/item?id=44146858) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -102,11 +114,23 @@ tags:
 
 ---
 
-## <a name="7"></a>7. 四大聊天机器人应用的第三方追踪与开发工具分析 
+## <a name="8"></a>8. Oniux：为任意Linux应用提供内核级Tor隔离 
+<small>🔗 [blog.torproject.org](https://blog.torproject.org/introducing-oniux-tor-isolation-using-linux-namespaces/): Oniux: Kernel-level Tor isolation for any Linux app</small>
+
+
+| 🔥: 96 \| 💬: [21](https://news.ycombinator.com/item?id=44146830) \| 🗓️ 2025-05-31
+
+
+<br />
+Oniux是一款基于**Linux命名空间**的命令行工具，通过内核级隔离确保应用流量强制经过**Tor网络**，杜绝代理配置错误或系统调用导致的数据泄露。其核心原理是将目标应用放入独立网络命名空间，仅开放定制接口`onion0`，相比传统方案`torsocks`（依赖动态链接库劫持），Oniux能覆盖静态二进制文件且彻底阻断恶意流量泄漏。当前支持通过Rust安装，可隔离命令行或图形应用，但作为实验性项目，仍需社区测试完善。底层依赖Arti和onionmasq，采用**Rust编写**，强调隐私关键场景的可靠性。
+
+---
+
+## <a name="9"></a>9. 四大聊天机器人应用的第三方追踪与开发工具分析 
 <small>🔗 [jamesoclaire.com](https://jamesoclaire.com/2025/05/31/the-trackers-and-sdks-in-chatgpt-claude-grok-and-perplexity/): The Trackers and SDKs in ChatGPT, Claude, Grok and Perplexity</small>
 
 
-| 🔥: 92 \| 💬: [12](https://news.ycombinator.com/item?id=44142839) \| 🗓️ 2025-05-31
+| 🔥: 92 \| 💬: [13](https://news.ycombinator.com/item?id=44142839) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -114,7 +138,7 @@ tags:
 
 ---
 
-## <a name="8"></a>8. AI同行评审员：多智能体系统助力学术论文分析 
+## <a name="10"></a>10. AI同行评审员：多智能体系统助力学术论文分析 
 <small>🔗 [github.com](https://github.com/robertjakob/rigorous): Show HN: AI Peer Reviewer – Multiagent system for scientific manuscript analysis</small>
 
 
@@ -126,35 +150,23 @@ tags:
 
 ---
 
-## <a name="9"></a>9. 渐进式JSON：优化数据传输的新思路 
-<small>🔗 [overreacted.io](https://overreacted.io/progressive-json/): Progressive JSON</small>
+## <a name="11"></a>11. CCD共同发明者乔治·E·史密斯逝世，享年95岁 
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/30/science/george-e-smith-dead.html): CCD co-inventor George E. Smith dies at 95</small>
 
 
-| 🔥: 92 \| 💬: [46](https://news.ycombinator.com/item?id=44147945) \| 🗓️ 2025-05-31
-
-
-<br />
-本文提出**渐进式JSON**的概念，灵感来自渐进式JPEG。传统JSON传输需等待全部数据到达才能解析，而**流式JSON解析器**虽能处理不完整数据，但会导致结构不完整。作者提出**广度优先**的传输方式：先发送框架（含占位符），再分批填充数据，客户端用`Promise`表示未加载部分。这种方法允许**并行处理**数据，尤其适合慢速查询场景。最后以React服务端组件为例，说明如何结合`<Suspense>`实现优雅的渐进式UI加载。
-
----
-
-## <a name="10"></a>10. Oniux：为任意Linux应用提供内核级Tor隔离 
-<small>🔗 [blog.torproject.org](https://blog.torproject.org/introducing-oniux-tor-isolation-using-linux-namespaces/): Oniux: Kernel-level Tor isolation for any Linux app</small>
-
-
-| 🔥: 85 \| 💬: [19](https://news.ycombinator.com/item?id=44146830) \| 🗓️ 2025-05-31
+| 🔥: 85 \| 💬: [6](https://news.ycombinator.com/item?id=44146619) \| 🗓️ 2025-05-31
 
 
 <br />
-Oniux是一款基于**Linux命名空间**的命令行工具，通过内核级隔离确保应用流量强制经过**Tor网络**，杜绝代理配置错误或系统调用导致的数据泄露。其核心原理是将目标应用放入独立网络命名空间，仅开放定制接口`onion0`，相比传统方案`torsocks`（依赖动态链接库劫持），Oniux能覆盖静态二进制文件且彻底阻断恶意流量泄漏。当前支持通过Rust安装，可隔离命令行或图形应用，但作为实验性项目，仍需社区测试完善。底层依赖Arti和onionmasq，采用**Rust编写**，强调隐私关键场景的可靠性。
+**乔治·E·史密斯**（George E. Smith）是**电荷耦合器件（CCD）**的共同发明者，这一技术彻底改变了数码成像领域。他与威拉德·博伊尔共同获得了2009年诺贝尔物理学奖。史密斯于95岁去世，他的贡献为现代相机、医学成像和天文观测奠定了基础。CCD技术至今仍是许多**关键应用**的核心。
 
 ---
 
-## <a name="11"></a>11. 我改用UTC时区后，生活彻底改变了 
+## <a name="12"></a>12. 我改用UTC时区后，生活彻底改变了 
 <small>🔗 [timestripe.com](https://timestripe.com/magazine/blog/timezone/): My five-year experiment with UTC</small>
 
 
-| 🔥: 80 \| 💬: [103](https://news.ycombinator.com/item?id=44144224) \| 🗓️ 2025-05-31
+| 🔥: 84 \| 💬: [115](https://news.ycombinator.com/item?id=44144224) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -162,7 +174,7 @@ Oniux是一款基于**Linux命名空间**的命令行工具，通过内核级隔
 
 ---
 
-## <a name="12"></a>12. 核电站投资风险最高，太阳能最低 
+## <a name="13"></a>13. 核电站投资风险最高，太阳能最低 
 <small>🔗 [bu.edu](https://www.bu.edu/igs/2025/05/19/investment-risk-for-energy-infrastructure-construction-is-highest-for-nuclear-power-plants-lowest-for-solar/): Investment Risk Is Highest for Nuclear Power Plants, Lowest for Solar</small>
 
 
@@ -171,18 +183,6 @@ Oniux是一款基于**Linux命名空间**的命令行工具，通过内核级隔
 
 <br />
 波士顿大学全球可持续发展研究所最新研究发现，全球超60%的能源基建项目存在**预算超支**问题。核电站表现最差，平均成本超支达**102.5%**（超预期15.6亿美元），工期延误严重。氢能、碳捕获等新兴技术同样风险较高。相比之下，**太阳能**和电网项目成本控制最佳，风电场也表现优异。研究强调，**可再生能源**不仅环保，还能降低财务风险。该分析涵盖83国662个项目（总投资1.358万亿美元），为全球能源规划提供了关键风险参考。
-
----
-
-## <a name="13"></a>13. CCD共同发明者乔治·E·史密斯逝世，享年95岁 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/30/science/george-e-smith-dead.html): CCD co-inventor George E. Smith dies at 95</small>
-
-
-| 🔥: 74 \| 💬: [6](https://news.ycombinator.com/item?id=44146619) \| 🗓️ 2025-05-31
-
-
-<br />
-**乔治·E·史密斯**（George E. Smith）是**电荷耦合器件（CCD）**的共同发明者，这一技术彻底改变了数码成像领域。他与威拉德·博伊尔共同获得了2009年诺贝尔物理学奖。史密斯于95岁去世，他的贡献为现代相机、医学成像和天文观测奠定了基础。CCD技术至今仍是许多**关键应用**的核心。
 
 ---
 
@@ -198,7 +198,19 @@ Oniux是一款基于**Linux命名空间**的命令行工具，通过内核级隔
 
 ---
 
-## <a name="15"></a>15. 秘密知识宝典：开发者与运维者的终极资源库 
+## <a name="15"></a>15. 科幻场景中的NFS 4冷冻舱间隔技术 
+<small>🔗 [kolektiva.social](https://kolektiva.social/@beka_valentine/114600567753999701): The NFS 4 Freezer Spacer In Science Fiction Sets</small>
+
+
+| 🔥: 71 \| 💬: [11](https://news.ycombinator.com/item?id=44147631) \| 🗓️ 2025-05-31
+
+
+<br />
+该文本提到使用Mastodon网页应用需启用JavaScript，或可下载平台对应的原生应用。**关键点**在于技术实现方式的选择，但主要内容缺失，可能为片段或提示性说明。**冷冻舱间隔技术**作为科幻设定元素未展开描述，推测与**存储**或**休眠系统**相关。
+
+---
+
+## <a name="16"></a>16. 秘密知识宝典：开发者与运维者的终极资源库 
 <small>🔗 [github.com](https://github.com/trimstray/the-book-of-secret-knowledge): The Book of Secret Knowledge</small>
 
 
@@ -210,7 +222,7 @@ Oniux是一款基于**Linux命名空间**的命令行工具，通过内核级隔
 
 ---
 
-## <a name="16"></a>16. 得州警察动用8.3万摄像头追踪堕胎女性 
+## <a name="17"></a>17. 得州警察动用8.3万摄像头追踪堕胎女性 
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/05/she-got-abortion-so-texas-cop-used-83000-cameras-track-her-down): She Got an Abortion. So a Texas Cop Used 83,000 Cameras to Track Her Down</small>
 
 
@@ -222,23 +234,23 @@ Oniux是一款基于**Linux命名空间**的命令行工具，通过内核级隔
 
 ---
 
-## <a name="17"></a>17. 科幻场景中的NFS 4冷冻舱间隔技术 
-<small>🔗 [kolektiva.social](https://kolektiva.social/@beka_valentine/114600567753999701): The NFS 4 Freezer Spacer In Science Fiction Sets</small>
+## <a name="18"></a>18. 新型自适应光学技术揭示太阳大气层精细结构 
+<small>🔗 [nso.edu](https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/): New Adaptive Optics Shows Details of Our Star's Atmosphere</small>
 
 
-| 🔥: 58 \| 💬: [10](https://news.ycombinator.com/item?id=44147631) \| 🗓️ 2025-05-31
+| 🔥: 57 \| 💬: [4](https://news.ycombinator.com/item?id=44147573) \| 🗓️ 2025-05-31
 
 
 <br />
-该文本提到使用Mastodon网页应用需启用JavaScript，或可下载平台对应的原生应用。**关键点**在于技术实现方式的选择，但主要内容缺失，可能为片段或提示性说明。**冷冻舱间隔技术**作为科幻设定元素未展开描述，推测与**存储**或**休眠系统**相关。
+科学家利用**新型自适应光学系统Cona**，成功消除了地球大气湍流造成的图像模糊，拍摄到迄今最清晰的太阳**日冕层**高清影像。该系统安装在1.6米古德太阳望远镜上，以每秒2200次的速度调整镜面，分辨率达63公里，首次捕捉到宽度不足20公里的**日冕雨**、等离子体流动态及耀斑精细结构。这一突破性技术将助力研究日冕加热机制与空间天气，未来还将应用于4米丹尼尔·井上太阳望远镜，开启太阳物理学新纪元。研究成果发表于《自然·天文学》。
 
 ---
 
-## <a name="18"></a>18. Sguaba：为工程师设计的防误用刚体变换工具 
+## <a name="19"></a>19. Sguaba：为工程师设计的防误用刚体变换工具 
 <small>🔗 [blog.helsing.ai](https://blog.helsing.ai/sguaba-hard-to-misuse-rigid-body-transforms-for-engineers-with-other-things-to-worry-about-than-aeaa45af9e0d): Sguaba: Hard-to-misuse rigid body transforms for engineers</small>
 
 
-| 🔥: 50 \| 💬: [13](https://news.ycombinator.com/item?id=44146744) \| 🗓️ 2025-05-31
+| 🔥: 52 \| 💬: [13](https://news.ycombinator.com/item?id=44146744) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -246,23 +258,11 @@ Sguaba是一个基于Rust的库，旨在解决**坐标系统转换**中的常见
 
 ---
 
-## <a name="19"></a>19. 域的两种理想 
-<small>🔗 [susam.net](https://susam.net/two-ideals-of-fields.html): The Two Ideals of Fields</small>
-
-
-| 🔥: 49 \| 💬: [38](https://news.ycombinator.com/item?id=44144331) \| 🗓️ 2025-05-31
-
-
-<br />
-本文探讨了**域**的理想结构及其与**交换环**的关系。**域**只有两个**理想**：零理想（仅含加法单位元）和自身，称为**平凡理想**。反之，若一个含单位元的交换环（且加法与乘法单位元不同）仅有平凡理想，则它必为域。这一对称性揭示了域与理想结构的深刻联系，并通过环的乘法逆元存在性加以证明。
-
----
-
 ## <a name="20"></a>20. 发现网站字体神器：Fontofweb 
 <small>🔗 [fontofweb.com](https://fontofweb.com): Show HN: Fontofweb – Discover Fonts Used on a Website or Websites Using Font(s)</small>
 
 
-| 🔥: 48 \| 💬: [18](https://news.ycombinator.com/item?id=44144451) \| 🗓️ 2025-05-31
+| 🔥: 51 \| 💬: [18](https://news.ycombinator.com/item?id=44144451) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -270,27 +270,27 @@ Fontofweb 是一个帮助用户**快速识别**并收藏网站所用字体的工
 
 ---
 
-## <a name="21"></a>21. 1974年的钚动力心脏起搏器 
+## <a name="21"></a>21. 域的两种理想 
+<small>🔗 [susam.net](https://susam.net/two-ideals-of-fields.html): The Two Ideals of Fields</small>
+
+
+| 🔥: 49 \| 💬: [39](https://news.ycombinator.com/item?id=44144331) \| 🗓️ 2025-05-31
+
+
+<br />
+本文探讨了**域**的理想结构及其与**交换环**的关系。**域**只有两个**理想**：零理想（仅含加法单位元）和自身，称为**平凡理想**。反之，若一个含单位元的交换环（且加法与乘法单位元不同）仅有平凡理想，则它必为域。这一对称性揭示了域与理想结构的深刻联系，并通过环的乘法逆元存在性加以证明。
+
+---
+
+## <a name="22"></a>22. 1974年的钚动力心脏起搏器 
 <small>🔗 [orau.org](https://www.orau.org/health-physics-museum/collection/miscellaneous/pacemaker.html): Plutonium Powered Pacemaker (From 1974)</small>
 
 
-| 🔥: 47 \| 💬: [23](https://news.ycombinator.com/item?id=44146847) \| 🗓️ 2025-05-31
+| 🔥: 47 \| 💬: [22](https://news.ycombinator.com/item?id=44146847) \| 🗓️ 2025-05-31
 
 
 <br />
 该文介绍了1974年生产的**钚动力心脏起搏器**，其通过**钚-238衰变产生的热能发电**（半衰期88年），为心跳异常患者提供持续电力。起搏器采用**钛金属外壳**，可抵御枪击或火化等极端情况，表面辐射剂量为5-15毫雷姆/小时。美国曾有3家公司生产此类设备，目前（2003年）仍有50-100名使用者，去世后需移除并回收钚材料。捐赠方为洛斯阿拉莫斯国家实验室。
-
----
-
-## <a name="22"></a>22. 新型自适应光学技术揭示太阳大气层精细结构 
-<small>🔗 [nso.edu](https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/): New Adaptive Optics Shows Details of Our Star's Atmosphere</small>
-
-
-| 🔥: 40 \| 💬: [3](https://news.ycombinator.com/item?id=44147573) \| 🗓️ 2025-05-31
-
-
-<br />
-科学家利用**新型自适应光学系统Cona**，成功消除了地球大气湍流造成的图像模糊，拍摄到迄今最清晰的太阳**日冕层**高清影像。该系统安装在1.6米古德太阳望远镜上，以每秒2200次的速度调整镜面，分辨率达63公里，首次捕捉到宽度不足20公里的**日冕雨**、等离子体流动态及耀斑精细结构。这一突破性技术将助力研究日冕加热机制与空间天气，未来还将应用于4米丹尼尔·井上太阳望远镜，开启太阳物理学新纪元。研究成果发表于《自然·天文学》。
 
 ---
 
@@ -310,7 +310,7 @@ Fontofweb 是一个帮助用户**快速识别**并收藏网站所用字体的工
 <small>🔗 [kevinchen.co](https://kevinchen.co/blog/cant-stop-plagiarism-in-computer-science/): We still can't stop plagiarism in undergraduate computer science (2018)</small>
 
 
-| 🔥: 29 \| 💬: [56](https://news.ycombinator.com/item?id=44146599) \| 🗓️ 2025-05-31
+| 🔥: 29 \| 💬: [57](https://news.ycombinator.com/item?id=44146599) \| 🗓️ 2025-05-31
 
 
 <br />
