@@ -9,8 +9,8 @@ tags:
 
 
 1. 高精度时钟Mk IV开发全记录；
-1. 《分析学I的简明Lean指南》；
 1. 用组合工具暴力拦截爬虫；
+1. 《分析学I的简明Lean指南》；
 1. 马斯克削减美国援助资金致30万人死亡 逾20万为儿童；
 1. 穿孔卡片密钥备份工具：pckb；
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [mitxela.com](https://mitxela.com/projects/precision_clock_mk_iv): Precision Clock Mk IV</small>
 
 
-| 🔥🔥: 364 \| 💬: [101](https://news.ycombinator.com/item?id=44144750) \| 🗓️ 2025-05-31
+| 🔥🔥: 378 \| 💬: [103](https://news.ycombinator.com/item?id=44144750) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -35,23 +35,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. 《分析学I的简明Lean指南》 
-<small>🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/): A Lean companion to Analysis I</small>
-
-
-| 🔥🔥: 158 \| 💬: [12](https://news.ycombinator.com/item?id=44145517) \| 🗓️ 2025-05-31
-
-
-<br />
-该内容来自WordPress博客，作者为Ben Eastaugh和Chris Sternal-Johnson。文章聚焦于**Lean定理证明工具**在数学分析基础课程（如**分析学I**）中的应用，旨在为学习者提供**实用辅助**。通过结合形式化验证与经典理论，帮助读者更高效地掌握核心概念与证明技巧。
-
----
-
-## <a name="3"></a>3. 用组合工具暴力拦截爬虫 
+## <a name="2"></a>2. 用组合工具暴力拦截爬虫 
 <small>🔗 [lambdacreate.com](https://lambdacreate.com/posts/68): Using lots of little tools to aggressively reject the bots</small>
 
 
-| 🔥🔥: 154 \| 💬: [84](https://news.ycombinator.com/item?id=44142761) \| 🗓️ 2025-05-31
+| 🔥🔥: 164 \| 💬: [91](https://news.ycombinator.com/item?id=44142761) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -59,11 +47,23 @@ tags:
 
 ---
 
+## <a name="3"></a>3. 《分析学I的简明Lean指南》 
+<small>🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/): A Lean companion to Analysis I</small>
+
+
+| 🔥🔥: 162 \| 💬: [12](https://news.ycombinator.com/item?id=44145517) \| 🗓️ 2025-05-31
+
+
+<br />
+该内容来自WordPress博客，作者为Ben Eastaugh和Chris Sternal-Johnson。文章聚焦于**Lean定理证明工具**在数学分析基础课程（如**分析学I**）中的应用，旨在为学习者提供**实用辅助**。通过结合形式化验证与经典理论，帮助读者更高效地掌握核心概念与证明技巧。
+
+---
+
 ## <a name="4"></a>4. 马斯克削减美国援助资金致30万人死亡 逾20万为儿童 
 <small>🔗 [thetimes.com](https://www.thetimes.com/us/american-politics/article/usaid-doge-deaths-children-cuts-7nb83dfkp): Doge cuts to USAid blamed for 300k deaths – most of them children</small>
 
 
-| 🔥🔥: 110 \| 💬: [59](https://news.ycombinator.com/item?id=44142790) \| 🗓️ 2025-05-31
+| 🔥🔥: 112 \| 💬: [60](https://news.ycombinator.com/item?id=44142790) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [github.com](https://github.com/volution/punchcard-key-backup): Show HN: PunchCard Key Backup</small>
 
 
-| 🔥: 97 \| 💬: [31](https://news.ycombinator.com/item?id=44145202) \| 🗓️ 2025-05-31
+| 🔥🔥: 104 \| 💬: [32](https://news.ycombinator.com/item?id=44145202) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -94,7 +94,7 @@ tags:
 <small>🔗 [jamesoclaire.com](https://jamesoclaire.com/2025/05/31/the-trackers-and-sdks-in-chatgpt-claude-grok-and-perplexity/): The Trackers and SDKs in ChatGPT, Claude, Grok and Perplexity</small>
 
 
-| 🔥: 88 \| 💬: [11](https://news.ycombinator.com/item?id=44142839) \| 🗓️ 2025-05-31
+| 🔥: 89 \| 💬: [12](https://news.ycombinator.com/item?id=44142839) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -103,10 +103,10 @@ tags:
 ---
 
 ## <a name="7"></a>7. AI同行评审员：多智能体系统助力学术论文分析 
-<small>🔗 [github.com](https://github.com/robertjakob/rigorous): Show HN: AI Peer Reviewer – Multiagent System for Scientific Manuscript Analysis</small>
+<small>🔗 [github.com](https://github.com/robertjakob/rigorous): Show HN: AI Peer Reviewer – Multiagent system for scientific manuscript analysis</small>
 
 
-| 🔥: 88 \| 💬: [72](https://news.ycombinator.com/item?id=44144280) \| 🗓️ 2025-05-31
+| 🔥: 89 \| 💬: [73](https://news.ycombinator.com/item?id=44144280) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -114,11 +114,23 @@ tags:
 
 ---
 
-## <a name="8"></a>8. 核电站投资风险最高，太阳能最低 
+## <a name="8"></a>8. YOLO-World：实时开放词汇目标检测新突破 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2401.17270): YOLO-World: Real-Time Open-Vocabulary Object Detection</small>
+
+
+| 🔥: 79 \| 💬: [29](https://news.ycombinator.com/item?id=44146858) \| 🗓️ 2025-05-31
+
+
+<br />
+该研究提出**YOLO-World**，通过**视觉-语言建模**和大规模数据集预训练，赋予YOLO系列检测器**开放词汇识别能力**。创新点包括可重参数化的视觉-语言路径聚合网络（RepVL-PAN）和区域-文本对比损失，显著提升零样本检测效率。在LVIS数据集上达到35.4 AP（52 FPS/V100），兼顾速度与精度，并在下游任务（如开放词汇实例分割）中表现优异。代码模型已开源。
+
+---
+
+## <a name="9"></a>9. 核电站投资风险最高，太阳能最低 
 <small>🔗 [bu.edu](https://www.bu.edu/igs/2025/05/19/investment-risk-for-energy-infrastructure-construction-is-highest-for-nuclear-power-plants-lowest-for-solar/): Investment Risk Is Highest for Nuclear Power Plants, Lowest for Solar</small>
 
 
-| 🔥: 77 \| 💬: [129](https://news.ycombinator.com/item?id=44143432) \| 🗓️ 2025-05-31
+| 🔥: 78 \| 💬: [130](https://news.ycombinator.com/item?id=44143432) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -126,11 +138,11 @@ tags:
 
 ---
 
-## <a name="9"></a>9. 我改用UTC时区后，生活彻底改变了 
-<small>🔗 [timestripe.com](https://timestripe.com/magazine/blog/timezone/): I Switched to UTC and Never Looked Back</small>
+## <a name="10"></a>10. 我改用UTC时区后，生活彻底改变了 
+<small>🔗 [timestripe.com](https://timestripe.com/magazine/blog/timezone/): My five-year experiment with UTC</small>
 
 
-| 🔥: 69 \| 💬: [77](https://news.ycombinator.com/item?id=44144224) \| 🗓️ 2025-05-31
+| 🔥: 70 \| 💬: [77](https://news.ycombinator.com/item?id=44144224) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -138,7 +150,19 @@ tags:
 
 ---
 
-## <a name="10"></a>10. 秘密知识宝典：开发者与运维者的终极资源库 
+## <a name="11"></a>11. 用ed(1)作为我的静态网站生成器 
+<small>🔗 [aartaka.me](https://aartaka.me/this-post-is-ed.html): Using Ed(1) as My Static Site Generator</small>
+
+
+| 🔥: 66 \| 💬: [27](https://news.ycombinator.com/item?id=44144308) \| 🗓️ 2025-05-31
+
+
+<br />
+作者Artyom Bologov分享了他用**ed文本编辑器**替代传统静态网站生成器的实验。他经历了从Lisp引擎、C预处理器到ed的多次技术转换，最终通过**ed脚本**实现多格式内容生成（支持5种格式）。**优势**包括语法自由、兼容旧格式及规避特殊字符问题；**局限**在于缺乏文件包含功能及版本差异带来的调试难题。尽管承认这是“古怪选择”，他仍推荐爱好者尝试这种极简而有趣的方案。全文贯穿对技术边界的探索精神。
+
+---
+
+## <a name="12"></a>12. 秘密知识宝典：开发者与运维者的终极资源库 
 <small>🔗 [github.com](https://github.com/trimstray/the-book-of-secret-knowledge): The Book of Secret Knowledge</small>
 
 
@@ -147,30 +171,6 @@ tags:
 
 <br />
 这是一份涵盖**Linux、安全、DevOps**等领域的综合资源合集，包含实用清单、手册、速查表、博客、命令行工具等。项目采用MIT许可，社区活跃（17.1万星标），适合**系统管理员、渗透测试员**和开发者。内容按主题分类，如网络工具（nmap、curl）、SSL检测（OpenSSL）、调试工具（strace）等，强调高质量与易用性。鼓励贡献，遵循简洁、实用的原则。
-
----
-
-## <a name="11"></a>11. YOLO-World：实时开放词汇目标检测新突破 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2401.17270): YOLO-World: Real-Time Open-Vocabulary Object Detection</small>
-
-
-| 🔥: 62 \| 💬: [21](https://news.ycombinator.com/item?id=44146858) \| 🗓️ 2025-05-31
-
-
-<br />
-该研究提出**YOLO-World**，通过**视觉-语言建模**和大规模数据集预训练，赋予YOLO系列检测器**开放词汇识别能力**。创新点包括可重参数化的视觉-语言路径聚合网络（RepVL-PAN）和区域-文本对比损失，显著提升零样本检测效率。在LVIS数据集上达到35.4 AP（52 FPS/V100），兼顾速度与精度，并在下游任务（如开放词汇实例分割）中表现优异。代码模型已开源。
-
----
-
-## <a name="12"></a>12. 用ed(1)作为我的静态网站生成器 
-<small>🔗 [aartaka.me](https://aartaka.me/this-post-is-ed.html): Using Ed(1) as My Static Site Generator</small>
-
-
-| 🔥: 61 \| 💬: [27](https://news.ycombinator.com/item?id=44144308) \| 🗓️ 2025-05-31
-
-
-<br />
-作者Artyom Bologov分享了他用**ed文本编辑器**替代传统静态网站生成器的实验。他经历了从Lisp引擎、C预处理器到ed的多次技术转换，最终通过**ed脚本**实现多格式内容生成（支持5种格式）。**优势**包括语法自由、兼容旧格式及规避特殊字符问题；**局限**在于缺乏文件包含功能及版本差异带来的调试难题。尽管承认这是“古怪选择”，他仍推荐爱好者尝试这种极简而有趣的方案。全文贯穿对技术边界的探索精神。
 
 ---
 
@@ -187,10 +187,10 @@ tags:
 ---
 
 ## <a name="14"></a>14. CCD共同发明者乔治·E·史密斯逝世，享年95岁 
-<small>🔗 [universitycube.net](https://www.universitycube.net/news/ccd-co-inventor-george-e-smith-passes-away-95-05-31-2025--74189653-c0e2-489c-86c7-71d852a5200b): CCD Co-Inventor George E. Smith Dies at 95</small>
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/30/science/george-e-smith-dead.html): CCD co-inventor George E. Smith dies at 95</small>
 
 
-| 🔥: 51 \| 💬: [3](https://news.ycombinator.com/item?id=44146619) \| 🗓️ 2025-05-31
+| 🔥: 58 \| 💬: [6](https://news.ycombinator.com/item?id=44146619) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -198,35 +198,11 @@ tags:
 
 ---
 
-## <a name="15"></a>15. 域的两种理想 
-<small>🔗 [susam.net](https://susam.net/two-ideals-of-fields.html): The Two Ideals of Fields</small>
-
-
-| 🔥: 48 \| 💬: [32](https://news.ycombinator.com/item?id=44144331) \| 🗓️ 2025-05-31
-
-
-<br />
-本文探讨了**域**的理想结构及其与**交换环**的关系。**域**只有两个**理想**：零理想（仅含加法单位元）和自身，称为**平凡理想**。反之，若一个含单位元的交换环（且加法与乘法单位元不同）仅有平凡理想，则它必为域。这一对称性揭示了域与理想结构的深刻联系，并通过环的乘法逆元存在性加以证明。
-
----
-
-## <a name="16"></a>16. 发现网站字体神器：Fontofweb 
-<small>🔗 [fontofweb.com](https://fontofweb.com): Show HN: Fontofweb – Discover Fonts Used on a Website or Websites Using Font(s)</small>
-
-
-| 🔥: 45 \| 💬: [18](https://news.ycombinator.com/item?id=44144451) \| 🗓️ 2025-05-31
-
-
-<br />
-Fontofweb 是一个帮助用户**快速识别**并收藏网站所用字体的工具。目前已收录 **457 种字体**，分析过 **288 个网站**，拥有 **128 名注册用户**。每日推荐一款字体（如5月31日的 *Cirka*），并提供字体设计者及使用该字体的网站列表（如 bettershotz.com 等）。支持按字体搜索网站，或反向查询网站字体组合，适合设计师和开发者**高效获取灵感**。
-
----
-
-## <a name="17"></a>17. Oniux：为任意Linux应用提供内核级Tor隔离 
+## <a name="15"></a>15. Oniux：为任意Linux应用提供内核级Tor隔离 
 <small>🔗 [blog.torproject.org](https://blog.torproject.org/introducing-oniux-tor-isolation-using-linux-namespaces/): Oniux: Kernel-level Tor isolation for any Linux app</small>
 
 
-| 🔥: 43 \| 💬: [1](https://news.ycombinator.com/item?id=44146830) \| 🗓️ 2025-05-31
+| 🔥: 57 \| 💬: [6](https://news.ycombinator.com/item?id=44146830) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -234,11 +210,35 @@ Oniux是一款基于**Linux命名空间**的命令行工具，通过内核级隔
 
 ---
 
+## <a name="16"></a>16. 域的两种理想 
+<small>🔗 [susam.net](https://susam.net/two-ideals-of-fields.html): The Two Ideals of Fields</small>
+
+
+| 🔥: 49 \| 💬: [34](https://news.ycombinator.com/item?id=44144331) \| 🗓️ 2025-05-31
+
+
+<br />
+本文探讨了**域**的理想结构及其与**交换环**的关系。**域**只有两个**理想**：零理想（仅含加法单位元）和自身，称为**平凡理想**。反之，若一个含单位元的交换环（且加法与乘法单位元不同）仅有平凡理想，则它必为域。这一对称性揭示了域与理想结构的深刻联系，并通过环的乘法逆元存在性加以证明。
+
+---
+
+## <a name="17"></a>17. 发现网站字体神器：Fontofweb 
+<small>🔗 [fontofweb.com](https://fontofweb.com): Show HN: Fontofweb – Discover Fonts Used on a Website or Websites Using Font(s)</small>
+
+
+| 🔥: 48 \| 💬: [18](https://news.ycombinator.com/item?id=44144451) \| 🗓️ 2025-05-31
+
+
+<br />
+Fontofweb 是一个帮助用户**快速识别**并收藏网站所用字体的工具。目前已收录 **457 种字体**，分析过 **288 个网站**，拥有 **128 名注册用户**。每日推荐一款字体（如5月31日的 *Cirka*），并提供字体设计者及使用该字体的网站列表（如 bettershotz.com 等）。支持按字体搜索网站，或反向查询网站字体组合，适合设计师和开发者**高效获取灵感**。
+
+---
+
 ## <a name="18"></a>18. Sguaba：为工程师设计的防误用刚体变换工具 
 <small>🔗 [blog.helsing.ai](https://blog.helsing.ai/sguaba-hard-to-misuse-rigid-body-transforms-for-engineers-with-other-things-to-worry-about-than-aeaa45af9e0d): Sguaba: Hard-to-misuse rigid body transforms for engineers</small>
 
 
-| 🔥: 41 \| 💬: [12](https://news.ycombinator.com/item?id=44146744) \| 🗓️ 2025-05-31
+| 🔥: 42 \| 💬: [13](https://news.ycombinator.com/item?id=44146744) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -246,23 +246,11 @@ Sguaba是一个基于Rust的库，旨在解决**坐标系统转换**中的常见
 
 ---
 
-## <a name="19"></a>19. “丢工作给AI：被算法取代的劳动者们” 
-<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/31/the-workers-who-lost-their-jobs-to-ai-chatgpt): 'just put it in ChatGPT': the workers who lost their jobs to AI</small>
-
-
-| 🔥: 33 \| 💬: [10](https://news.ycombinator.com/item?id=44145288) \| 🗓️ 2025-05-31
-
-
-<br />
-本文讲述了多位因**AI技术**失业的从业者经历：波兰记者抗议电台用**AI虚拟主播**取代真人，印尼插画师因Midjourney抄袭作品收入锐减，英国文案被ChatGPT抢走园艺博客工作，美国配音演员发现声音被AI盗用，而英国设计师因公司全面采用AI遭解雇。他们共同指出：**AI缺乏人类的情感与创造力**，且当前法律对AI滥用缺乏监管，呼吁重视技术伦理与劳动者权益。
-
----
-
-## <a name="20"></a>20. 1974年的钚动力心脏起搏器 
+## <a name="19"></a>19. 1974年的钚动力心脏起搏器 
 <small>🔗 [orau.org](https://www.orau.org/health-physics-museum/collection/miscellaneous/pacemaker.html): Plutonium Powered Pacemaker (From 1974)</small>
 
 
-| 🔥: 33 \| 💬: [4](https://news.ycombinator.com/item?id=44146847) \| 🗓️ 2025-05-31
+| 🔥: 42 \| 💬: [15](https://news.ycombinator.com/item?id=44146847) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -270,11 +258,35 @@ Sguaba是一个基于Rust的库，旨在解决**坐标系统转换**中的常见
 
 ---
 
-## <a name="21"></a>21. 为何本科计算机课程抄袭屡禁不止（2018） 
+## <a name="20"></a>20. “丢工作给AI：被算法取代的劳动者们” 
+<small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/31/the-workers-who-lost-their-jobs-to-ai-chatgpt): 'just put it in ChatGPT': the workers who lost their jobs to AI</small>
+
+
+| 🔥: 34 \| 💬: [11](https://news.ycombinator.com/item?id=44145288) \| 🗓️ 2025-05-31
+
+
+<br />
+本文讲述了多位因**AI技术**失业的从业者经历：波兰记者抗议电台用**AI虚拟主播**取代真人，印尼插画师因Midjourney抄袭作品收入锐减，英国文案被ChatGPT抢走园艺博客工作，美国配音演员发现声音被AI盗用，而英国设计师因公司全面采用AI遭解雇。他们共同指出：**AI缺乏人类的情感与创造力**，且当前法律对AI滥用缺乏监管，呼吁重视技术伦理与劳动者权益。
+
+---
+
+## <a name="21"></a>21. 科幻场景中的NFS 4冷冻舱间隔技术 
+<small>🔗 [kolektiva.social](https://kolektiva.social/@beka_valentine/114600567753999701): The NFS 4 Freezer Spacer In Science Fiction Sets</small>
+
+
+| 🔥: 33 \| 💬: [5](https://news.ycombinator.com/item?id=44147631) \| 🗓️ 2025-05-31
+
+
+<br />
+该文本提到使用Mastodon网页应用需启用JavaScript，或可下载平台对应的原生应用。**关键点**在于技术实现方式的选择，但主要内容缺失，可能为片段或提示性说明。**冷冻舱间隔技术**作为科幻设定元素未展开描述，推测与**存储**或**休眠系统**相关。
+
+---
+
+## <a name="22"></a>22. 为何本科计算机课程抄袭屡禁不止（2018） 
 <small>🔗 [kevinchen.co](https://kevinchen.co/blog/cant-stop-plagiarism-in-computer-science/): We still can't stop plagiarism in undergraduate computer science (2018)</small>
 
 
-| 🔥: 28 \| 💬: [55](https://news.ycombinator.com/item?id=44146599) \| 🗓️ 2025-05-31
+| 🔥: 29 \| 💬: [56](https://news.ycombinator.com/item?id=44146599) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -282,11 +294,11 @@ Sguaba是一个基于Rust的库，旨在解决**坐标系统转换**中的常见
 
 ---
 
-## <a name="22"></a>22. ATLAS：学习在测试时最优记忆上下文 
+## <a name="23"></a>23. ATLAS：学习在测试时最优记忆上下文 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2505.23735): Atlas: Learning to Optimally Memorize the Context at Test Time</small>
 
 
-| 🔥: 27 \| 💬: [2](https://news.ycombinator.com/item?id=44144407) \| 🗓️ 2025-05-31
+| 🔥: 28 \| 💬: [2](https://news.ycombinator.com/item?id=44144407) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -294,11 +306,11 @@ Sguaba是一个基于Rust的库，旨在解决**坐标系统转换**中的常见
 
 ---
 
-## <a name="23"></a>23. 用AI让ROS 2小乌龟变身数字画家 
+## <a name="24"></a>24. 用AI让ROS 2小乌龟变身数字画家 
 <small>🔗 [github.com](https://github.com/Yutarop/turtlesim_agent): Show HN: I built an AI agent that turns ROS 2's turtlesim into a digital artist</small>
 
 
-| 🔥: 26 \| 💬: [7](https://news.ycombinator.com/item?id=44143244) \| 🗓️ 2025-05-31
+| 🔥: 26 \| 💬: [9](https://news.ycombinator.com/item?id=44143244) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -306,7 +318,7 @@ Sguaba是一个基于Rust的库，旨在解决**坐标系统转换**中的常见
 
 ---
 
-## <a name="24"></a>24. 两人用OCaml击败3.59亿融资的竞争对手 
+## <a name="25"></a>25. 两人用OCaml击败3.59亿融资的竞争对手 
 <small>🔗 [terrateam.io](https://terrateam.io/blog/punching-above-weight): We're beating $359M in funding with two people and OCaml</small>
 
 
@@ -315,17 +327,5 @@ Sguaba是一个基于Rust的库，旨在解决**坐标系统转换**中的常见
 
 <br />
 Terrateam是一家由两人创立的初创公司，使用**OCaml**开发基础设施管理工具，与获得巨额融资的HashiCorp等公司竞争。他们坚持**开源**和**精益运营**，凭借**语义优先**的软件开发哲学，用极少的代码实现高度灵活的功能。创始人强调**长期信任**和**公平定价**，专注于解决实际问题而非盲目扩张。尽管资源有限，他们通过精准定位和高效开发，在客户评估中屡次胜出，证明了小团队也能打造可持续的优质产品。
-
----
-
-## <a name="25"></a>25. “添加WhatsApp好友”机器人电话诈骗为何泛滥？ 
-<small>🔗 [shkspr.mobi](https://shkspr.mobi/blog/2025/05/whats-up-with-this-please-add-me-on-whatsapp-robocall-spam/): What's up with this "Please add me on WhatsApp" robocall spam?</small>
-
-
-| 🔥: 22 \| 💬: [11](https://news.ycombinator.com/item?id=44143643) \| 🗓️ 2025-05-31
-
-
-<br />
-近期频繁出现一种**机器人语音电话**，内容为诱导接听者通过WhatsApp添加陌生号码。部分语音仿真度高，但诈骗逻辑令人费解：受害者需完成**多步复杂操作**（如复制号码、创建联系人等），而语音仅提供模糊信息，缺乏紧迫性或诱惑力。作者推测，诈骗者可能依赖**海量拨号**筛选极少数易受骗人群，且因WhatsApp举报机制不完善而难以追查。尽管技术成本低廉，但此类诈骗的实际效果仍存疑。
 
 ---
