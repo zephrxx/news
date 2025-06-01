@@ -27,7 +27,7 @@ tags:
 <small>🔗 [mitxela.com](https://mitxela.com/projects/precision_clock_mk_iv): Precision Clock Mk IV</small>
 
 
-| 🔥🔥: 391 \| 💬: [107](https://news.ycombinator.com/item?id=44144750) \| 🗓️ 2025-05-31
+| 🔥🔥: 409 \| 💬: [108](https://news.ycombinator.com/item?id=44144750) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [terrytao.wordpress.com](https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/): A Lean companion to Analysis I</small>
 
 
-| 🔥🔥: 170 \| 💬: [14](https://news.ycombinator.com/item?id=44145517) \| 🗓️ 2025-05-31
+| 🔥🔥: 174 \| 💬: [19](https://news.ycombinator.com/item?id=44145517) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [lambdacreate.com](https://lambdacreate.com/posts/68): Using lots of little tools to aggressively reject the bots</small>
 
 
-| 🔥🔥: 167 \| 💬: [93](https://news.ycombinator.com/item?id=44142761) \| 🗓️ 2025-05-31
+| 🔥🔥: 171 \| 💬: [94](https://news.ycombinator.com/item?id=44142761) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [thetimes.com](https://www.thetimes.com/us/american-politics/article/usaid-doge-deaths-children-cuts-7nb83dfkp): Doge cuts to USAid blamed for 300k deaths – most of them children</small>
 
 
-| 🔥🔥: 112 \| 💬: [60](https://news.ycombinator.com/item?id=44142790) \| 🗓️ 2025-05-31
+| 🔥🔥: 113 \| 💬: [60](https://news.ycombinator.com/item?id=44142790) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [github.com](https://github.com/volution/punchcard-key-backup): Show HN: PunchCard Key Backup</small>
 
 
-| 🔥🔥: 106 \| 💬: [32](https://news.ycombinator.com/item?id=44145202) \| 🗓️ 2025-05-31
+| 🔥🔥: 108 \| 💬: [32](https://news.ycombinator.com/item?id=44145202) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -90,23 +90,11 @@ tags:
 
 ---
 
-## <a name="6"></a>6. 四大聊天机器人应用的第三方追踪与开发工具分析 
-<small>🔗 [jamesoclaire.com](https://jamesoclaire.com/2025/05/31/the-trackers-and-sdks-in-chatgpt-claude-grok-and-perplexity/): The Trackers and SDKs in ChatGPT, Claude, Grok and Perplexity</small>
-
-
-| 🔥: 91 \| 💬: [12](https://news.ycombinator.com/item?id=44142839) \| 🗓️ 2025-05-31
-
-
-<br />
-通过逆向工程和流量分析，发现**OpenAI、Perplexity、Anthropic和Grok**的安卓应用广泛使用第三方SDK。开发工具以Kotlin为主，商业工具涵盖**Google、Firebase、Statsig**等，涉及分析、支付（如RevenueCat）和语音服务（如LiveKit）。Perplexity独特整合了MapBox和Shopify，而OpenAI依赖多种分析平台。数据流向透明度有限，部分功能可能通过API实现。
-
----
-
-## <a name="7"></a>7. YOLO-World：实时开放词汇目标检测新突破 
+## <a name="6"></a>6. YOLO-World：实时开放词汇目标检测新突破 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2401.17270): YOLO-World: Real-Time Open-Vocabulary Object Detection</small>
 
 
-| 🔥: 91 \| 💬: [31](https://news.ycombinator.com/item?id=44146858) \| 🗓️ 2025-05-31
+| 🔥: 98 \| 💬: [32](https://news.ycombinator.com/item?id=44146858) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -114,11 +102,23 @@ tags:
 
 ---
 
+## <a name="7"></a>7. 四大聊天机器人应用的第三方追踪与开发工具分析 
+<small>🔗 [jamesoclaire.com](https://jamesoclaire.com/2025/05/31/the-trackers-and-sdks-in-chatgpt-claude-grok-and-perplexity/): The Trackers and SDKs in ChatGPT, Claude, Grok and Perplexity</small>
+
+
+| 🔥: 92 \| 💬: [12](https://news.ycombinator.com/item?id=44142839) \| 🗓️ 2025-05-31
+
+
+<br />
+通过逆向工程和流量分析，发现**OpenAI、Perplexity、Anthropic和Grok**的安卓应用广泛使用第三方SDK。开发工具以Kotlin为主，商业工具涵盖**Google、Firebase、Statsig**等，涉及分析、支付（如RevenueCat）和语音服务（如LiveKit）。Perplexity独特整合了MapBox和Shopify，而OpenAI依赖多种分析平台。数据流向透明度有限，部分功能可能通过API实现。
+
+---
+
 ## <a name="8"></a>8. AI同行评审员：多智能体系统助力学术论文分析 
 <small>🔗 [github.com](https://github.com/robertjakob/rigorous): Show HN: AI Peer Reviewer – Multiagent system for scientific manuscript analysis</small>
 
 
-| 🔥: 90 \| 💬: [74](https://news.ycombinator.com/item?id=44144280) \| 🗓️ 2025-05-31
+| 🔥: 92 \| 💬: [78](https://news.ycombinator.com/item?id=44144280) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -126,35 +126,23 @@ tags:
 
 ---
 
-## <a name="9"></a>9. 核电站投资风险最高，太阳能最低 
-<small>🔗 [bu.edu](https://www.bu.edu/igs/2025/05/19/investment-risk-for-energy-infrastructure-construction-is-highest-for-nuclear-power-plants-lowest-for-solar/): Investment Risk Is Highest for Nuclear Power Plants, Lowest for Solar</small>
+## <a name="9"></a>9. 渐进式JSON：优化数据传输的新思路 
+<small>🔗 [overreacted.io](https://overreacted.io/progressive-json/): Progressive JSON</small>
 
 
-| 🔥: 78 \| 💬: [130](https://news.ycombinator.com/item?id=44143432) \| 🗓️ 2025-05-31
-
-
-<br />
-波士顿大学全球可持续发展研究所最新研究发现，全球超60%的能源基建项目存在**预算超支**问题。核电站表现最差，平均成本超支达**102.5%**（超预期15.6亿美元），工期延误严重。氢能、碳捕获等新兴技术同样风险较高。相比之下，**太阳能**和电网项目成本控制最佳，风电场也表现优异。研究强调，**可再生能源**不仅环保，还能降低财务风险。该分析涵盖83国662个项目（总投资1.358万亿美元），为全球能源规划提供了关键风险参考。
-
----
-
-## <a name="10"></a>10. 我改用UTC时区后，生活彻底改变了 
-<small>🔗 [timestripe.com](https://timestripe.com/magazine/blog/timezone/): My five-year experiment with UTC</small>
-
-
-| 🔥: 76 \| 💬: [87](https://news.ycombinator.com/item?id=44144224) \| 🗓️ 2025-05-31
+| 🔥: 92 \| 💬: [46](https://news.ycombinator.com/item?id=44147945) \| 🗓️ 2025-05-31
 
 
 <br />
-程序员Adam Arutyunov因厌倦时区混乱，五年前将所有设备设为**协调世界时（UTC）**。最初需脑内转换时间，但两周后，他的大脑能自动关联UTC与本地时间，甚至轻松处理多时区切换。**UTC的稳定性**尤其适合频繁出差或远程工作者，避免因时区变化导致的日程混乱。唯一缺点是需适应12小时制与24小时制的转换。Adam认为这一改变大幅提升了效率，并建议他人尝试。
+本文提出**渐进式JSON**的概念，灵感来自渐进式JPEG。传统JSON传输需等待全部数据到达才能解析，而**流式JSON解析器**虽能处理不完整数据，但会导致结构不完整。作者提出**广度优先**的传输方式：先发送框架（含占位符），再分批填充数据，客户端用`Promise`表示未加载部分。这种方法允许**并行处理**数据，尤其适合慢速查询场景。最后以React服务端组件为例，说明如何结合`<Suspense>`实现优雅的渐进式UI加载。
 
 ---
 
-## <a name="11"></a>11. Oniux：为任意Linux应用提供内核级Tor隔离 
+## <a name="10"></a>10. Oniux：为任意Linux应用提供内核级Tor隔离 
 <small>🔗 [blog.torproject.org](https://blog.torproject.org/introducing-oniux-tor-isolation-using-linux-namespaces/): Oniux: Kernel-level Tor isolation for any Linux app</small>
 
 
-| 🔥: 73 \| 💬: [12](https://news.ycombinator.com/item?id=44146830) \| 🗓️ 2025-05-31
+| 🔥: 85 \| 💬: [19](https://news.ycombinator.com/item?id=44146830) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -162,11 +150,47 @@ Oniux是一款基于**Linux命名空间**的命令行工具，通过内核级隔
 
 ---
 
-## <a name="12"></a>12. 用ed(1)作为我的静态网站生成器 
+## <a name="11"></a>11. 我改用UTC时区后，生活彻底改变了 
+<small>🔗 [timestripe.com](https://timestripe.com/magazine/blog/timezone/): My five-year experiment with UTC</small>
+
+
+| 🔥: 80 \| 💬: [103](https://news.ycombinator.com/item?id=44144224) \| 🗓️ 2025-05-31
+
+
+<br />
+程序员Adam Arutyunov因厌倦时区混乱，五年前将所有设备设为**协调世界时（UTC）**。最初需脑内转换时间，但两周后，他的大脑能自动关联UTC与本地时间，甚至轻松处理多时区切换。**UTC的稳定性**尤其适合频繁出差或远程工作者，避免因时区变化导致的日程混乱。唯一缺点是需适应12小时制与24小时制的转换。Adam认为这一改变大幅提升了效率，并建议他人尝试。
+
+---
+
+## <a name="12"></a>12. 核电站投资风险最高，太阳能最低 
+<small>🔗 [bu.edu](https://www.bu.edu/igs/2025/05/19/investment-risk-for-energy-infrastructure-construction-is-highest-for-nuclear-power-plants-lowest-for-solar/): Investment Risk Is Highest for Nuclear Power Plants, Lowest for Solar</small>
+
+
+| 🔥: 78 \| 💬: [131](https://news.ycombinator.com/item?id=44143432) \| 🗓️ 2025-05-31
+
+
+<br />
+波士顿大学全球可持续发展研究所最新研究发现，全球超60%的能源基建项目存在**预算超支**问题。核电站表现最差，平均成本超支达**102.5%**（超预期15.6亿美元），工期延误严重。氢能、碳捕获等新兴技术同样风险较高。相比之下，**太阳能**和电网项目成本控制最佳，风电场也表现优异。研究强调，**可再生能源**不仅环保，还能降低财务风险。该分析涵盖83国662个项目（总投资1.358万亿美元），为全球能源规划提供了关键风险参考。
+
+---
+
+## <a name="13"></a>13. CCD共同发明者乔治·E·史密斯逝世，享年95岁 
+<small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/30/science/george-e-smith-dead.html): CCD co-inventor George E. Smith dies at 95</small>
+
+
+| 🔥: 74 \| 💬: [6](https://news.ycombinator.com/item?id=44146619) \| 🗓️ 2025-05-31
+
+
+<br />
+**乔治·E·史密斯**（George E. Smith）是**电荷耦合器件（CCD）**的共同发明者，这一技术彻底改变了数码成像领域。他与威拉德·博伊尔共同获得了2009年诺贝尔物理学奖。史密斯于95岁去世，他的贡献为现代相机、医学成像和天文观测奠定了基础。CCD技术至今仍是许多**关键应用**的核心。
+
+---
+
+## <a name="14"></a>14. 用ed(1)作为我的静态网站生成器 
 <small>🔗 [aartaka.me](https://aartaka.me/this-post-is-ed.html): Using Ed(1) as My Static Site Generator</small>
 
 
-| 🔥: 67 \| 💬: [27](https://news.ycombinator.com/item?id=44144308) \| 🗓️ 2025-05-31
+| 🔥: 73 \| 💬: [29](https://news.ycombinator.com/item?id=44144308) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -174,7 +198,7 @@ Oniux是一款基于**Linux命名空间**的命令行工具，通过内核级隔
 
 ---
 
-## <a name="13"></a>13. 秘密知识宝典：开发者与运维者的终极资源库 
+## <a name="15"></a>15. 秘密知识宝典：开发者与运维者的终极资源库 
 <small>🔗 [github.com](https://github.com/trimstray/the-book-of-secret-knowledge): The Book of Secret Knowledge</small>
 
 
@@ -186,19 +210,7 @@ Oniux是一款基于**Linux命名空间**的命令行工具，通过内核级隔
 
 ---
 
-## <a name="14"></a>14. CCD共同发明者乔治·E·史密斯逝世，享年95岁 
-<small>🔗 [nytimes.com](https://www.nytimes.com/2025/05/30/science/george-e-smith-dead.html): CCD co-inventor George E. Smith dies at 95</small>
-
-
-| 🔥: 66 \| 💬: [6](https://news.ycombinator.com/item?id=44146619) \| 🗓️ 2025-05-31
-
-
-<br />
-**乔治·E·史密斯**（George E. Smith）是**电荷耦合器件（CCD）**的共同发明者，这一技术彻底改变了数码成像领域。他与威拉德·博伊尔共同获得了2009年诺贝尔物理学奖。史密斯于95岁去世，他的贡献为现代相机、医学成像和天文观测奠定了基础。CCD技术至今仍是许多**关键应用**的核心。
-
----
-
-## <a name="15"></a>15. 得州警察动用8.3万摄像头追踪堕胎女性 
+## <a name="16"></a>16. 得州警察动用8.3万摄像头追踪堕胎女性 
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/05/she-got-abortion-so-texas-cop-used-83000-cameras-track-her-down): She Got an Abortion. So a Texas Cop Used 83,000 Cameras to Track Her Down</small>
 
 
@@ -210,19 +222,31 @@ Oniux是一款基于**Linux命名空间**的命令行工具，通过内核级隔
 
 ---
 
-## <a name="16"></a>16. 渐进式JSON：优化数据传输的新思路 
-<small>🔗 [overreacted.io](https://overreacted.io/progressive-json/): Progressive JSON</small>
+## <a name="17"></a>17. 科幻场景中的NFS 4冷冻舱间隔技术 
+<small>🔗 [kolektiva.social](https://kolektiva.social/@beka_valentine/114600567753999701): The NFS 4 Freezer Spacer In Science Fiction Sets</small>
 
 
-| 🔥: 58 \| 💬: [21](https://news.ycombinator.com/item?id=44147945) \| 🗓️ 2025-05-31
+| 🔥: 58 \| 💬: [10](https://news.ycombinator.com/item?id=44147631) \| 🗓️ 2025-05-31
 
 
 <br />
-本文提出**渐进式JSON**的概念，灵感来自渐进式JPEG。传统JSON传输需等待全部数据到达才能解析，而**流式JSON解析器**虽能处理不完整数据，但会导致结构不完整。作者提出**广度优先**的传输方式：先发送框架（含占位符），再分批填充数据，客户端用`Promise`表示未加载部分。这种方法允许**并行处理**数据，尤其适合慢速查询场景。最后以React服务端组件为例，说明如何结合`<Suspense>`实现优雅的渐进式UI加载。
+该文本提到使用Mastodon网页应用需启用JavaScript，或可下载平台对应的原生应用。**关键点**在于技术实现方式的选择，但主要内容缺失，可能为片段或提示性说明。**冷冻舱间隔技术**作为科幻设定元素未展开描述，推测与**存储**或**休眠系统**相关。
 
 ---
 
-## <a name="17"></a>17. 域的两种理想 
+## <a name="18"></a>18. Sguaba：为工程师设计的防误用刚体变换工具 
+<small>🔗 [blog.helsing.ai](https://blog.helsing.ai/sguaba-hard-to-misuse-rigid-body-transforms-for-engineers-with-other-things-to-worry-about-than-aeaa45af9e0d): Sguaba: Hard-to-misuse rigid body transforms for engineers</small>
+
+
+| 🔥: 50 \| 💬: [13](https://news.ycombinator.com/item?id=44146744) \| 🗓️ 2025-05-31
+
+
+<br />
+Sguaba是一个基于Rust的库，旨在解决**坐标系统转换**中的常见错误。它通过强类型系统确保不同坐标系（如**WGS84**、**NED**、**FRD**）和表示方式（笛卡尔坐标、球坐标等）不会混淆，从而避免灾难性错误。该工具面向工程师而非数学家，提供了直观的类型（如`Coordinate`、`Pose`）和安全的转换操作（如`RigidBodyTransform`）。示例展示了如何将飞行员的观测数据从FRD转换为WGS84坐标。Sguaba已开源，目前支持部分坐标系，未来计划扩展更多功能。
+
+---
+
+## <a name="19"></a>19. 域的两种理想 
 <small>🔗 [susam.net](https://susam.net/two-ideals-of-fields.html): The Two Ideals of Fields</small>
 
 
@@ -234,7 +258,7 @@ Oniux是一款基于**Linux命名空间**的命令行工具，通过内核级隔
 
 ---
 
-## <a name="18"></a>18. 发现网站字体神器：Fontofweb 
+## <a name="20"></a>20. 发现网站字体神器：Fontofweb 
 <small>🔗 [fontofweb.com](https://fontofweb.com): Show HN: Fontofweb – Discover Fonts Used on a Website or Websites Using Font(s)</small>
 
 
@@ -246,35 +270,11 @@ Fontofweb 是一个帮助用户**快速识别**并收藏网站所用字体的工
 
 ---
 
-## <a name="19"></a>19. Sguaba：为工程师设计的防误用刚体变换工具 
-<small>🔗 [blog.helsing.ai](https://blog.helsing.ai/sguaba-hard-to-misuse-rigid-body-transforms-for-engineers-with-other-things-to-worry-about-than-aeaa45af9e0d): Sguaba: Hard-to-misuse rigid body transforms for engineers</small>
-
-
-| 🔥: 46 \| 💬: [13](https://news.ycombinator.com/item?id=44146744) \| 🗓️ 2025-05-31
-
-
-<br />
-Sguaba是一个基于Rust的库，旨在解决**坐标系统转换**中的常见错误。它通过强类型系统确保不同坐标系（如**WGS84**、**NED**、**FRD**）和表示方式（笛卡尔坐标、球坐标等）不会混淆，从而避免灾难性错误。该工具面向工程师而非数学家，提供了直观的类型（如`Coordinate`、`Pose`）和安全的转换操作（如`RigidBodyTransform`）。示例展示了如何将飞行员的观测数据从FRD转换为WGS84坐标。Sguaba已开源，目前支持部分坐标系，未来计划扩展更多功能。
-
----
-
-## <a name="20"></a>20. 科幻场景中的NFS 4冷冻舱间隔技术 
-<small>🔗 [kolektiva.social](https://kolektiva.social/@beka_valentine/114600567753999701): The NFS 4 Freezer Spacer In Science Fiction Sets</small>
-
-
-| 🔥: 45 \| 💬: [7](https://news.ycombinator.com/item?id=44147631) \| 🗓️ 2025-05-31
-
-
-<br />
-该文本提到使用Mastodon网页应用需启用JavaScript，或可下载平台对应的原生应用。**关键点**在于技术实现方式的选择，但主要内容缺失，可能为片段或提示性说明。**冷冻舱间隔技术**作为科幻设定元素未展开描述，推测与**存储**或**休眠系统**相关。
-
----
-
 ## <a name="21"></a>21. 1974年的钚动力心脏起搏器 
 <small>🔗 [orau.org](https://www.orau.org/health-physics-museum/collection/miscellaneous/pacemaker.html): Plutonium Powered Pacemaker (From 1974)</small>
 
 
-| 🔥: 44 \| 💬: [19](https://news.ycombinator.com/item?id=44146847) \| 🗓️ 2025-05-31
+| 🔥: 47 \| 💬: [23](https://news.ycombinator.com/item?id=44146847) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -282,11 +282,23 @@ Sguaba是一个基于Rust的库，旨在解决**坐标系统转换**中的常见
 
 ---
 
-## <a name="22"></a>22. “丢工作给AI：被算法取代的劳动者们” 
+## <a name="22"></a>22. 新型自适应光学技术揭示太阳大气层精细结构 
+<small>🔗 [nso.edu](https://nso.edu/press-release/new-adaptive-optics-shows-stunning-details-of-our-stars-atmosphere/): New Adaptive Optics Shows Details of Our Star's Atmosphere</small>
+
+
+| 🔥: 40 \| 💬: [3](https://news.ycombinator.com/item?id=44147573) \| 🗓️ 2025-05-31
+
+
+<br />
+科学家利用**新型自适应光学系统Cona**，成功消除了地球大气湍流造成的图像模糊，拍摄到迄今最清晰的太阳**日冕层**高清影像。该系统安装在1.6米古德太阳望远镜上，以每秒2200次的速度调整镜面，分辨率达63公里，首次捕捉到宽度不足20公里的**日冕雨**、等离子体流动态及耀斑精细结构。这一突破性技术将助力研究日冕加热机制与空间天气，未来还将应用于4米丹尼尔·井上太阳望远镜，开启太阳物理学新纪元。研究成果发表于《自然·天文学》。
+
+---
+
+## <a name="23"></a>23. “丢工作给AI：被算法取代的劳动者们” 
 <small>🔗 [theguardian.com](https://www.theguardian.com/technology/2025/may/31/the-workers-who-lost-their-jobs-to-ai-chatgpt): 'just put it in ChatGPT': the workers who lost their jobs to AI</small>
 
 
-| 🔥: 34 \| 💬: [12](https://news.ycombinator.com/item?id=44145288) \| 🗓️ 2025-05-31
+| 🔥: 35 \| 💬: [12](https://news.ycombinator.com/item?id=44145288) \| 🗓️ 2025-05-31
 
 
 <br />
@@ -294,7 +306,7 @@ Sguaba是一个基于Rust的库，旨在解决**坐标系统转换**中的常见
 
 ---
 
-## <a name="23"></a>23. 为何本科计算机课程抄袭屡禁不止（2018） 
+## <a name="24"></a>24. 为何本科计算机课程抄袭屡禁不止（2018） 
 <small>🔗 [kevinchen.co](https://kevinchen.co/blog/cant-stop-plagiarism-in-computer-science/): We still can't stop plagiarism in undergraduate computer science (2018)</small>
 
 
@@ -306,7 +318,7 @@ Sguaba是一个基于Rust的库，旨在解决**坐标系统转换**中的常见
 
 ---
 
-## <a name="24"></a>24. ATLAS：学习在测试时最优记忆上下文 
+## <a name="25"></a>25. ATLAS：学习在测试时最优记忆上下文 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2505.23735): Atlas: Learning to Optimally Memorize the Context at Test Time</small>
 
 
@@ -315,17 +327,5 @@ Sguaba是一个基于Rust的库，旨在解决**坐标系统转换**中的常见
 
 <br />
 该论文提出**ATLAS**，一种新型**长时记忆模块**，旨在解决现有Transformer和循环神经网络在长上下文任务中的局限性。ATLAS通过优化记忆容量、动态更新机制和更灵活的内存管理，显著提升了模型在语言建模、常识推理和长上下文理解等任务中的表现。实验表明，ATLAS在10M长度的BABILong基准测试中准确率提升80%，性能超越传统Transformer和线性循环模型。
-
----
-
-## <a name="25"></a>25. 用AI让ROS 2小乌龟变身数字画家 
-<small>🔗 [github.com](https://github.com/Yutarop/turtlesim_agent): Show HN: I built an AI agent that turns ROS 2's turtlesim into a digital artist</small>
-
-
-| 🔥: 27 \| 💬: [9](https://news.ycombinator.com/item?id=44143244) \| 🗓️ 2025-05-31
-
-
-<br />
-该项目通过**LangChain**驱动AI代理，将ROS 2的经典模拟器**turtlesim**转化为自然语言控制的画布。用户可用英文描述图形（如“画彩虹”），AI会解析指令并操控虚拟乌龟完成绘制。支持多模型API（如Gemini、GPT-4）和本地LLM（如Ollama），提供CLI和GUI两种交互模式。核心工具包括运动控制、画笔调节等，开发者可扩展工具库增强创作能力。需配置ROS 2 Humble和Python 3.10+环境，开源协议为**MIT**。
 
 ---
