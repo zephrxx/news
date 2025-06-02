@@ -9,14 +9,14 @@ tags:
 
 
 1. 有用不等于被重视；
-1. 开源看板工具Kan.bn：Trello的替代品；
 1. 我的AI怀疑论朋友们都疯了；
+1. 开源看板工具Kan.bn：Trello的替代品；
 1. 学生项目：轻量级网络行为分析工具Vanta；
 1. 廉价电子阅读器为何消失了？；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共19条，具体内容您往下读...
+总共21条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [betterthanrandom.substack.com](https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean): If you are useful, it doesn't mean you are valued</small>
 
 
-| 🔥🔥: 719 \| 💬: [321](https://news.ycombinator.com/item?id=44156935) \| 🗓️ 2025-06-02
+| 🔥🔥: 728 \| 💬: [325](https://news.ycombinator.com/item?id=44156935) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -35,23 +35,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. 开源看板工具Kan.bn：Trello的替代品 
-<small>🔗 [github.com](https://github.com/kanbn/kan): Show HN: Kan.bn – An open-source alterative to Trello</small>
-
-
-| 🔥🔥: 305 \| 💬: [133](https://news.ycombinator.com/item?id=44157177) \| 🗓️ 2025-06-02
-
-
-<br />
-Kan.bn是一款**开源项目管理工具**，旨在替代Trello，支持看板协作。核心功能包括**多成员协作**、Trello看板导入、标签筛选、评论系统和活动日志。采用**Next.js**、tRPC、Tailwind CSS等技术栈，提供本地开发指南和AGPLv3许可。未来将新增模板和集成功能，欢迎开发者贡献代码。
-
----
-
-## <a name="3"></a>3. 我的AI怀疑论朋友们都疯了 
+## <a name="2"></a>2. 我的AI怀疑论朋友们都疯了 
 <small>🔗 [fly.io](https://fly.io/blog/youre-all-nuts/): My AI skeptic friends are all nuts</small>
 
 
-| 🔥🔥: 234 \| 💬: [245](https://news.ycombinator.com/item?id=44163063) \| 🗓️ 2025-06-02
+| 🔥🔥: 409 \| 💬: [545](https://news.ycombinator.com/item?id=44163063) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -59,11 +47,23 @@ Kan.bn是一款**开源项目管理工具**，旨在替代Trello，支持看板�
 
 ---
 
+## <a name="3"></a>3. 开源看板工具Kan.bn：Trello的替代品 
+<small>🔗 [github.com](https://github.com/kanbn/kan): Show HN: Kan.bn – An open-source alterative to Trello</small>
+
+
+| 🔥🔥: 319 \| 💬: [137](https://news.ycombinator.com/item?id=44157177) \| 🗓️ 2025-06-02
+
+
+<br />
+Kan.bn是一款**开源项目管理工具**，旨在替代Trello，支持看板协作。核心功能包括**多成员协作**、Trello看板导入、标签筛选、评论系统和活动日志。采用**Next.js**、tRPC、Tailwind CSS等技术栈，提供本地开发指南和AGPLv3许可。未来将新增模板和集成功能，欢迎开发者贡献代码。
+
+---
+
 ## <a name="4"></a>4. 学生项目：轻量级网络行为分析工具Vanta 
 <small>🔗 [github.com](https://github.com/lixiasky/vanta): Show HN: A toy version of Wireshark (student project)</small>
 
 
-| 🔥🔥: 177 \| 💬: [52](https://news.ycombinator.com/item?id=44159758) \| 🗓️ 2025-06-02
+| 🔥🔥: 181 \| 💬: [55](https://news.ycombinator.com/item?id=44159758) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -75,7 +75,7 @@ Vanta是一款基于Go语言的**命令行网络数据包分析工具**，支持
 <small>🔗 [shkspr.mobi](https://shkspr.mobi/blog/2025/05/whatever-happened-to-cheap-ereaders/): Whatever happened to cheap eReaders?</small>
 
 
-| 🔥🔥: 136 \| 💬: [268](https://news.ycombinator.com/item?id=44157701) \| 🗓️ 2025-06-02
+| 🔥🔥: 136 \| 💬: [269](https://news.ycombinator.com/item?id=44157701) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -87,7 +87,7 @@ Vanta是一款基于Go语言的**命令行网络数据包分析工具**，支持
 <small>🔗 [huggingface.co](https://huggingface.co/dleemiller/Penny-1.7B): Show HN: Penny-1.7B Irish Penny Journal style transfer</small>
 
 
-| 🔥🔥: 118 \| 💬: [68](https://news.ycombinator.com/item?id=44160073) \| 🗓️ 2025-06-02
+| 🔥🔥: 120 \| 💬: [69](https://news.ycombinator.com/item?id=44160073) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -99,7 +99,7 @@ Vanta是一款基于Go语言的**命令行网络数据包分析工具**，支持
 <small>🔗 [verissimo.substack.com](https://verissimo.substack.com/p/verissimo-monthly-may-2025): The Unreliability of LLMs and What Lies Ahead</small>
 
 
-| 🔥🔥: 105 \| 💬: [123](https://news.ycombinator.com/item?id=44160573) \| 🗓️ 2025-06-02
+| 🔥🔥: 107 \| 💬: [128](https://news.ycombinator.com/item?id=44160573) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -111,7 +111,7 @@ Vanta是一款基于Go语言的**命令行网络数据包分析工具**，支持
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2411.00782): TradeExpert, a trading framework that employs Mixture of Expert LLMs</small>
 
 
-| 🔥: 99 \| 💬: [85](https://news.ycombinator.com/item?id=44157378) \| 🗓️ 2025-06-02
+| 🔥: 100 \| 💬: [92](https://news.ycombinator.com/item?id=44157378) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -123,7 +123,7 @@ Vanta是一款基于Go语言的**命令行网络数据包分析工具**，支持
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2505.24760): ReasoningGym: Reasoning Environments for RL with Verifiable Rewards</small>
 
 
-| 🔥: 81 \| 💬: [27](https://news.ycombinator.com/item?id=44157077) \| 🗓️ 2025-06-02
+| 🔥: 84 \| 💬: [27](https://news.ycombinator.com/item?id=44157077) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -131,23 +131,11 @@ Vanta是一款基于Go语言的**命令行网络数据包分析工具**，支持
 
 ---
 
-## <a name="10"></a>10. 苹果CoreAudio内存损坏漏洞（CVE-2025-31200）分析 
-<small>🔗 [blog.noahhw.dev](https://blog.noahhw.dev/posts/cve-2025-31200/): CVE 2025 31200</small>
-
-
-| 🔥: 76 \| 💬: [18](https://news.ycombinator.com/item?id=44161894) \| 🗓️ 2025-06-02
-
-
-<br />
-2025年5月31日，苹果修复了**CoreAudio组件**中一个被野外利用的漏洞（CVE-2025-31200）。研究人员通过逆向工程发现，漏洞源于音频编解码器解析过程中的**数组大小校验缺失**。攻击者可通过特制音频文件触发**内存越界写入**，关键问题出现在`apac::hoa::CodecConfig::Deserialize`函数中。补丁新增了对`desiredCount`的校验，并修复了流数据读取时的边界检查逻辑。该漏洞与**RPAC漏洞链**结合可能实现远程代码执行。
-
----
-
-## <a name="11"></a>11. ThorVG：超轻量级矢量图形引擎 
+## <a name="10"></a>10. ThorVG：超轻量级矢量图形引擎 
 <small>🔗 [thorvg.org](https://www.thorvg.org/about): ThorVG: Super Lightweight Vector Graphics Engine</small>
 
 
-| 🔥: 74 \| 💬: [18](https://news.ycombinator.com/item?id=44157406) \| 🗓️ 2025-06-02
+| 🔥: 81 \| 💬: [19](https://news.ycombinator.com/item?id=44157406) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -155,11 +143,23 @@ ThorVG是一款开源的矢量图形库，专为创建**矢量场景和动画**�
 
 ---
 
+## <a name="11"></a>11. 苹果CoreAudio内存损坏漏洞（CVE-2025-31200）分析 
+<small>🔗 [blog.noahhw.dev](https://blog.noahhw.dev/posts/cve-2025-31200/): CVE 2025 31200</small>
+
+
+| 🔥: 79 \| 💬: [21](https://news.ycombinator.com/item?id=44161894) \| 🗓️ 2025-06-02
+
+
+<br />
+2025年5月31日，苹果修复了**CoreAudio组件**中一个被野外利用的漏洞（CVE-2025-31200）。研究人员通过逆向工程发现，漏洞源于音频编解码器解析过程中的**数组大小校验缺失**。攻击者可通过特制音频文件触发**内存越界写入**，关键问题出现在`apac::hoa::CodecConfig::Deserialize`函数中。补丁新增了对`desiredCount`的校验，并修复了流数据读取时的边界检查逻辑。该漏洞与**RPAC漏洞链**结合可能实现远程代码执行。
+
+---
+
 ## <a name="12"></a>12. 《Linux Format》杂志25年后正式停刊 
 <small>🔗 [omgubuntu.co.uk](https://www.omgubuntu.co.uk/2025/05/linux-format-magazine-closes): After 25 Years, Linux Format Magazine Is No More</small>
 
 
-| 🔥: 74 \| 💬: [41](https://news.ycombinator.com/item?id=44158658) \| 🗓️ 2025-06-02
+| 🔥: 75 \| 💬: [42](https://news.ycombinator.com/item?id=44158658) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -167,7 +167,31 @@ ThorVG是一款开源的矢量图形库，专为创建**矢量场景和动画**�
 
 ---
 
-## <a name="13"></a>13. 超越黑箱：金融领域大语言模型的可解释性研究 
+## <a name="13"></a>13. 打字118词/分钟，意外重塑了我的大脑 
+<small>🔗 [balaji-amg.surge.sh](http://balaji-amg.surge.sh/blog/typing-118-wpm-brain-rewiring): Typing 118 WPM broke my brain in the right ways</small>
+
+
+| 🔥: 73 \| 💬: [96](https://news.ycombinator.com/item?id=44162327) \| 🗓️ 2025-06-02
+
+
+<br />
+作者通过一年练习将打字速度从60提升到118词/分钟，**放弃标准指法**，找到自己的节奏。**每日5分钟打字如同冥想**，帮助重置大脑状态。关键发现是**精准比速度更重要**，刻意放慢后速度反而自然提升。非传统指法同样高效，证明"正确方法"仅是参考。打字练习还改善了专注力与开发效率，成为应对工作压力的秘密武器。
+
+---
+
+## <a name="14"></a>14. 每月一个荒诞网站：用创意颠覆常规 
+<small>🔗 [absurd.website](https://absurd.website): Show HN: I build one absurd web project every month</small>
+
+
+| 🔥: 73 \| 💬: [23](https://news.ycombinator.com/item?id=44162363) \| 🗓️ 2025-06-02
+
+
+<br />
+ABSURD.website 每月推出一个**荒诞项目**，以戏谑方式解构现实。最新项目「招财猫插件」声称能提升电商销量（🐱👋），而「AI灵魂租赁」则讽刺人工智能热潮。其他项目包括**1秒战争游戏**、**厕所水香水**、**隐形内衣**等，涵盖营销、环保、社交等领域，用幽默挑战传统逻辑。订阅可定期接收这些「无厘头」创意。
+
+---
+
+## <a name="15"></a>15. 超越黑箱：金融领域大语言模型的可解释性研究 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2505.24650): Beyond the Black Box: Interpretability of LLMs in Finance</small>
 
 
@@ -179,11 +203,11 @@ ThorVG是一款开源的矢量图形库，专为创建**矢量场景和动画**�
 
 ---
 
-## <a name="14"></a>14. 不立即保护物联网，灾难将至 
+## <a name="16"></a>16. 不立即保护物联网，灾难将至 
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/iot-security-root-of-trust): Disaster awaits if we don't secure IoT now</small>
 
 
-| 🔥: 62 \| 💬: [61](https://news.ycombinator.com/item?id=44161271) \| 🗓️ 2025-06-02
+| 🔥: 63 \| 💬: [63](https://news.ycombinator.com/item?id=44161271) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -191,11 +215,11 @@ MIT专家Guy Fedorkow和Thomas Hardjono警告，若不尽快加强**物联网安
 
 ---
 
-## <a name="15"></a>15. 三天速成开发的App被黑了两次 
+## <a name="17"></a>17. 三天速成开发的App被黑了两次 
 <small>🔗 [threadreaderapp.com](https://threadreaderapp.com/thread/1929017755136561402.html): "I vibe coded and shipped an app in three days. It got hacked. Twice."</small>
 
 
-| 🔥: 61 \| 💬: [37](https://news.ycombinator.com/item?id=44157131) \| 🗓️ 2025-06-02
+| 🔥: 62 \| 💬: [38](https://news.ycombinator.com/item?id=44157131) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -203,35 +227,37 @@ MIT专家Guy Fedorkow和Thomas Hardjono警告，若不尽快加强**物联网安
 
 ---
 
-## <a name="16"></a>16. 打字118词/分钟，意外重塑了我的大脑 
-<small>🔗 [balaji-amg.surge.sh](http://balaji-amg.surge.sh/blog/typing-118-wpm-brain-rewiring): Typing 118 WPM broke my brain in the right ways</small>
+## <a name="18"></a>18. 无人机送货频繁过境，房主能否说“不”？ 
+<small>🔗 [rte.ie](https://www.rte.ie/brainstorm/2025/0602/1481005-drone-delivery-companies-property-legal-rights-airspace/): Can I stop drone delivery companies flying over my property?</small>
 
 
-| 🔥: 57 \| 💬: [82](https://news.ycombinator.com/item?id=44162327) \| 🗓️ 2025-06-02
-
-
-<br />
-作者通过一年练习将打字速度从60提升到118词/分钟，**放弃标准指法**，找到自己的节奏。**每日5分钟打字如同冥想**，帮助重置大脑状态。关键发现是**精准比速度更重要**，刻意放慢后速度反而自然提升。非传统指法同样高效，证明"正确方法"仅是参考。打字练习还改善了专注力与开发效率，成为应对工作压力的秘密武器。
-
----
-
-## <a name="17"></a>17. 每月一个荒诞网站：用创意颠覆常规 
-<small>🔗 [absurd.website](https://absurd.website): Show HN: I build one absurd web project every month</small>
-
-
-| 🔥: 50 \| 💬: [18](https://news.ycombinator.com/item?id=44162363) \| 🗓️ 2025-06-02
+| 🔥: 53 \| 💬: [99](https://news.ycombinator.com/item?id=44162042) \| 🗓️ 2025-06-02
 
 
 <br />
-ABSURD.website 每月推出一个**荒诞项目**，以戏谑方式解构现实。最新项目「招财猫插件」声称能提升电商销量（🐱👋），而「AI灵魂租赁」则讽刺人工智能热潮。其他项目包括**1秒战争游戏**、**厕所水香水**、**隐形内衣**等，涵盖营销、环保、社交等领域，用幽默挑战传统逻辑。订阅可定期接收这些「无厘头」创意。
+随着无人机送货服务（如Manna和Wing）在都柏林等地的普及，**隐私侵犯**、**噪音污染**及安全隐患（如2022年螺旋桨坠落事件）引发居民担忧。目前法律对**低空领空权**界定模糊，爱尔兰《1936年航空运输法》仅规定飞机在“合理高度”飞行时不构成侵权，但“合理”标准未明确。美国等地同样面临类似争议。专家提议立法明确**私有领空高度**（如60-70米），房主可自主选择有偿开放或要求无人机使用更高航线。技术手段（如共享飞行数据）或可辅助监管，但相关立法亟待推进以平衡各方权益。
 
 ---
 
-## <a name="18"></a>18. 年轻世代患痴呆症风险降低，研究显示女性更显著 
+## <a name="19"></a>19. HTML中的装饰性文本分组技巧 
+<small>🔗 [shkspr.mobi](https://shkspr.mobi/blog/2025/05/decorative-text-within-html/): Decorative Text Within HTML</small>
+
+
+| 🔥: 52 \| 💬: [4](https://news.ycombinator.com/item?id=44161103) \| 🗓️ 2025-06-02
+
+
+<br />
+2020年，Andy Bell提出通过**分组属性值**优化HTML代码可读性。传统写法如`class="card-section-background1-colorRed"`冗长难维护，改进后采用模块化命名如`class="card section box bg-base color-primary"`。但空格分隔易混淆，因此建议用**方括号**`[card][section box][bg-base color-primary]`或**竖线**`card | section box | bg-base color-primary`显式分组。  
+
+HTML规范允许属性值包含任意字符（需转义引号），因此可借助**换行**、**Unicode符号**（如𝐜𝐚𝐫𝐝）甚至**表情符号**（👉）增强可读性。还可在值内添加注释（如`//待弃用`），但需注意优化工具可能清除空格。虽然这种写法**合法**，但过度创意可能引发团队协作问题。
+
+---
+
+## <a name="20"></a>20. 年轻世代患痴呆症风险降低，研究显示女性更显著 
 <small>🔗 [theguardian.com](https://www.theguardian.com/society/2025/jun/02/younger-generations-less-likely-dementia-study): Younger generations less likely to have dementia, study suggests</small>
 
 
-| 🔥: 47 \| 💬: [46](https://news.ycombinator.com/item?id=44160012) \| 🗓️ 2025-06-02
+| 🔥: 51 \| 💬: [51](https://news.ycombinator.com/item?id=44160012) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -239,11 +265,11 @@ ABSURD.website 每月推出一个**荒诞项目**，以戏谑方式解构现实�
 
 ---
 
-## <a name="19"></a>19. 通过-Zno-embed-metadata减少Cargo目标目录体积 
+## <a name="21"></a>21. 通过-Zno-embed-metadata减少Cargo目标目录体积 
 <small>🔗 [kobzol.github.io](https://kobzol.github.io/rust/rustc/2025/06/02/reduce-cargo-target-dir-size-with-z-no-embed-metadata.html): Reducing Cargo target directory size with -Zno-embed-metadata</small>
 
 
-| 🔥: 42 \| 💬: [10](https://news.ycombinator.com/item?id=44158720) \| 🗓️ 2025-06-02
+| 🔥: 42 \| 💬: [11](https://news.ycombinator.com/item?id=44158720) \| 🗓️ 2025-06-02
 
 
 <br />
