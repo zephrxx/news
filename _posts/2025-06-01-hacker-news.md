@@ -27,7 +27,7 @@ tags:
 <small>🔗 [stefan-gloor.ch](https://stefan-gloor.ch/yomani-hack): Root shell on a credit card terminal</small>
 
 
-| 🔥🔥: 551 \| 💬: [154](https://news.ycombinator.com/item?id=44150803) \| 🗓️ 2025-06-01
+| 🔥🔥: 572 \| 💬: [164](https://news.ycombinator.com/item?id=44150803) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [pushing-pixels.org](https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html): Cinematography of “Andor”</small>
 
 
-| 🔥🔥: 319 \| 💬: [313](https://news.ycombinator.com/item?id=44149718) \| 🗓️ 2025-06-01
+| 🔥🔥: 328 \| 💬: [316](https://news.ycombinator.com/item?id=44149718) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [npr.org](https://www.npr.org/2025/06/01/nx-s1-5419509/ukraine-destroys-military-aircraft-attack-inside-russia-planes): Ukraine destroys more than 40 military aircraft in drone attack deep in Russia</small>
 
 
-| 🔥🔥: 220 \| 💬: [263](https://news.ycombinator.com/item?id=44150789) \| 🗓️ 2025-06-01
+| 🔥🔥: 237 \| 💬: [310](https://news.ycombinator.com/item?id=44150789) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [animationobsessive.substack.com](https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack): The Visual World of 'Samurai Jack'</small>
 
 
-| 🔥🔥: 166 \| 💬: [30](https://news.ycombinator.com/item?id=44154032) \| 🗓️ 2025-06-01
+| 🔥🔥: 191 \| 💬: [34](https://news.ycombinator.com/item?id=44154032) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [goto10retro.com](https://www.goto10retro.com/p/atari-means-business-with-the-mega): Atari Means Business with the Mega ST</small>
 
 
-| 🔥🔥: 136 \| 💬: [101](https://news.ycombinator.com/item?id=44150002) \| 🗓️ 2025-06-01
+| 🔥🔥: 138 \| 💬: [102](https://news.ycombinator.com/item?id=44150002) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [dustri.org](https://dustri.org/b/my-experience-with-canonicals-interview-process.html): Canonicals Interview Process</small>
 
 
-| 🔥🔥: 108 \| 💬: [47](https://news.ycombinator.com/item?id=44149549) \| 🗓️ 2025-06-01
+| 🔥🔥: 109 \| 💬: [47](https://news.ycombinator.com/item?id=44149549) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [librivox.org](https://librivox.org/): LibriVox</small>
 
 
-| 🔥: 81 \| 💬: [24](https://news.ycombinator.com/item?id=44153738) \| 🗓️ 2025-06-01
+| 🔥: 95 \| 💬: [25](https://news.ycombinator.com/item?id=44153738) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -135,7 +135,7 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/investigations/2025/03/22/family-secrets-jfk-files-cia-assets/): JFK files expose family secrets: Their relatives were CIA assets</small>
 
 
-| 🔥: 66 \| 💬: [39](https://news.ycombinator.com/item?id=44152447) \| 🗓️ 2025-06-01
+| 🔥: 66 \| 💬: [40](https://news.ycombinator.com/item?id=44152447) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -171,7 +171,7 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 <small>🔗 [phillipspobrien.substack.com](https://phillipspobrien.substack.com/p/weekend-update135-update-the-ukrainians): The Ukrainians Just Pulled Off the Most Successful Operation of the War</small>
 
 
-| 🔥: 56 \| 💬: [15](https://news.ycombinator.com/item?id=44153673) \| 🗓️ 2025-06-01
+| 🔥: 59 \| 💬: [20](https://news.ycombinator.com/item?id=44153673) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -179,11 +179,23 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 ---
 
-## <a name="14"></a>14. 如何通过个人项目赚取100万美元 
+## <a name="14"></a>14. “生产环境修复bug成本高100倍”的研究可能根本不存在（2021） 
+<small>🔗 [theregister.com](https://www.theregister.com/2021/07/22/bugs_expense_bs/): “Bugs are 100x more expensive to fix in production” study might not exist (2021)</small>
+
+
+| 🔥: 53 \| 💬: [41](https://news.ycombinator.com/item?id=44153734) \| 🗓️ 2025-06-01
+
+
+<br />
+一篇2021年的文章质疑了软件行业广泛引用的“**生产环境修复bug比需求阶段贵100倍**”的说法。调查发现，这一结论源自IBM系统科学研究所的课程笔记，但**原始数据无法验证**，且可能早至1967年。专家指出，尽管后期修复成本更高的趋势可能成立，但现有研究定义混乱，学术激励机制更倾向于创新而非实证。文章强调应关注**代码审查**和**短迭代周期**等实证有效的方法，并警惕互联网时代二手信息的误导性。
+
+---
+
+## <a name="15"></a>15. 如何通过个人项目赚取100万美元 
 <small>🔗 [alexwest.co](https://www.alexwest.co/book-one): Making $1M from my personal projects</small>
 
 
-| 🔥: 49 \| 💬: [28](https://news.ycombinator.com/item?id=44153795) \| 🗓️ 2025-06-01
+| 🔥: 49 \| 💬: [29](https://news.ycombinator.com/item?id=44153795) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -191,7 +203,7 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 ---
 
-## <a name="15"></a>15. 面向Lisp开发者的RSC解析 
+## <a name="16"></a>16. 面向Lisp开发者的RSC解析 
 <small>🔗 [overreacted.io](https://overreacted.io/rsc-for-lisp-developers/): RSC for Lisp Developers</small>
 
 
@@ -203,27 +215,15 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 ---
 
-## <a name="16"></a>16. 从Amiga API/ABI中学习 
+## <a name="17"></a>17. 从Amiga API/ABI中学习 
 <small>🔗 [asm-basic-coder.neocities.org](https://asm-basic-coder.neocities.org/rants/amigaapilearn): Learning from the Amiga API/ABI</small>
 
 
-| 🔥: 46 \| 💬: [34](https://news.ycombinator.com/item?id=44151086) \| 🗓️ 2025-06-01
+| 🔥: 47 \| 💬: [37](https://news.ycombinator.com/item?id=44151086) \| 🗓️ 2025-06-01
 
 
 <br />
 本文探讨了**Amiga OS**的独特设计，其**直接调用共享库**的ABI机制无需运行时链接，通过固定地址的跳转表实现高效调用。核心库**Exec.library**作为微内核，管理内存、任务和系统功能，展现了早期微内核的成功范例。此外，**Intuition**窗口系统的异步事件处理避免了现代系统中常见的程序无响应问题，体现了Amiga OS在**多任务处理**和用户体验上的前瞻性。文章还提到AmigaDOS的演进，最终通过ARP库优化了C语言兼容性，彰显了该操作系统的灵活性与动态性。
-
----
-
-## <a name="17"></a>17. “生产环境修复bug成本高100倍”的研究可能根本不存在（2021） 
-<small>🔗 [theregister.com](https://www.theregister.com/2021/07/22/bugs_expense_bs/): “Bugs are 100x more expensive to fix in production” study might not exist (2021)</small>
-
-
-| 🔥: 43 \| 💬: [35](https://news.ycombinator.com/item?id=44153734) \| 🗓️ 2025-06-01
-
-
-<br />
-一篇2021年的文章质疑了软件行业广泛引用的“**生产环境修复bug比需求阶段贵100倍**”的说法。调查发现，这一结论源自IBM系统科学研究所的课程笔记，但**原始数据无法验证**，且可能早至1967年。专家指出，尽管后期修复成本更高的趋势可能成立，但现有研究定义混乱，学术激励机制更倾向于创新而非实证。文章强调应关注**代码审查**和**短迭代周期**等实证有效的方法，并警惕互联网时代二手信息的误导性。
 
 ---
 
@@ -251,7 +251,19 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 ---
 
-## <a name="20"></a>20. 什么鬼，Kees？ 
+## <a name="20"></a>20. 特朗普预算提案拟关闭美国LIGO天文台 威胁引力波研究领先地位 
+<small>🔗 [tri-cityherald.com](https://www.tri-cityherald.com/news/business/health-care/article307573471.html): Science cuts may close WA LIGO observatory that confirmed theory of relativity</small>
+
+
+| 🔥: 37 \| 💬: [5](https://news.ycombinator.com/item?id=44149601) \| 🗓️ 2025-06-01
+
+
+<br />
+特朗普政府提议在2026年前关闭全美两座**激光干涉引力波天文台（LIGO）**中的一座，并削减国家科学基金会57%的预算。LIGO曾首次探测到爱因斯坦预言的**引力波**，推动多信使天文学发展。若关闭将中断设备升级、流失专业人才，并削弱美国在该领域的全球领导力。华盛顿州和路易斯安那州的LIGO设施自2015年以来已探测到290次黑洞与中子星碰撞事件，其中2017年首次实现引力波与光信号联合观测，开创宇宙研究新范式。
+
+---
+
+## <a name="21"></a>21. 什么鬼，Kees？ 
 <small>🔗 [lore.kernel.org](https://lore.kernel.org/all/CAHk-=wj4a_CvL6-=8gobwScstu-gJpX4XbX__hvcE=e9zaQ_9A@mail.gmail.com/): WTF,Kees?</small>
 
 
@@ -263,19 +275,19 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 ---
 
-## <a name="21"></a>21. 特朗普预算提案拟关闭美国LIGO天文台 威胁引力波研究领先地位 
-<small>🔗 [tri-cityherald.com](https://www.tri-cityherald.com/news/business/health-care/article307573471.html): Science cuts may close WA LIGO observatory that confirmed theory of relativity</small>
+## <a name="22"></a>22. 美国将移民儿童DNA纳入犯罪数据库引发争议 
+<small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/may/31/cbp-dna-collection-children-immigrants): US authorities are collecting DNA information of children in criminal database</small>
 
 
-| 🔥: 36 \| 💬: [5](https://news.ycombinator.com/item?id=44149601) \| 🗓️ 2025-06-01
+| 🔥: 33 \| 💬: [26](https://news.ycombinator.com/item?id=44152991) \| 🗓️ 2025-06-01
 
 
 <br />
-特朗普政府提议在2026年前关闭全美两座**激光干涉引力波天文台（LIGO）**中的一座，并削减国家科学基金会57%的预算。LIGO曾首次探测到爱因斯坦预言的**引力波**，推动多信使天文学发展。若关闭将中断设备升级、流失专业人才，并削弱美国在该领域的全球领导力。华盛顿州和路易斯安那州的LIGO设施自2015年以来已探测到290次黑洞与中子星碰撞事件，其中2017年首次实现引力波与光信号联合观测，开创宇宙研究新范式。
+美国海关与边境保护局（**CBP**）被曝收集包括儿童在内的移民**DNA数据**，并上传至联邦调查局的**犯罪数据库Codis**。数据显示，2020年以来此类采集激增5000%，逾130万份样本中包括13万余名青少年及230名13岁以下儿童。专家批评此举是"基因监控的大规模扩张"，侵犯隐私且加剧对移民群体的歧视。尽管官方称此举旨在打击犯罪，但文件显示多数被采集者未被指控重罪。移民拘留的宽松定义使DNA采集几乎无限制，引发法律与伦理争议。
 
 ---
 
-## <a name="22"></a>22. 我们失去了什么：PHP与jQuery时代的简单性 
+## <a name="23"></a>23. 我们失去了什么：PHP与jQuery时代的简单性 
 <small>🔗 [idiallo.com](https://idiallo.com/blog/what-we-lost-with-php-and-jquery): What We Lost with PHP and jQuery</small>
 
 
@@ -284,18 +296,6 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 <br />
 本文对比了早期**PHP+jQuery**的简洁开发与现代前端生态的复杂性。过去，开发者只需直接编写HTML、PHP处理逻辑、jQuery实现交互，无需构建工具或依赖管理。如今，即使简单项目也涉及**React**、**Webpack**等复杂工具链，带来版本冲突、安全漏洞和维护负担。作者通过将旧React项目重写为静态HTML的案例，强调**过度工程化**的问题，并指出许多现代方案只是用新工具解决老问题。虽然PHP/jQuery存在缺陷（如安全风险），但其核心理念是**快速解决问题**而非追求完美架构。文章呼吁在技术选型时权衡效率与复杂度，保留Web开发的易用性本质。
-
----
-
-## <a name="23"></a>23. 美国将移民儿童DNA纳入犯罪数据库引发争议 
-<small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/may/31/cbp-dna-collection-children-immigrants): US authorities are collecting DNA information of children in criminal database</small>
-
-
-| 🔥: 32 \| 💬: [23](https://news.ycombinator.com/item?id=44152991) \| 🗓️ 2025-06-01
-
-
-<br />
-美国海关与边境保护局（**CBP**）被曝收集包括儿童在内的移民**DNA数据**，并上传至联邦调查局的**犯罪数据库Codis**。数据显示，2020年以来此类采集激增5000%，逾130万份样本中包括13万余名青少年及230名13岁以下儿童。专家批评此举是"基因监控的大规模扩张"，侵犯隐私且加剧对移民群体的歧视。尽管官方称此举旨在打击犯罪，但文件显示多数被采集者未被指控重罪。移民拘留的宽松定义使DNA采集几乎无限制，引发法律与伦理争议。
 
 ---
 
