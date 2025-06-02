@@ -11,12 +11,12 @@ tags:
 1. 信用卡终端上的Root Shell漏洞分析；
 1. 《安多》摄影指导专访：从胶片到LED的视觉革命；
 1. 俄军41架战略轰炸机遭乌军无人机集群突袭；
-1. 雅达利Mega ST：进军专业市场的尝试；
 1. 《武士杰克》的视觉艺术：沉默叙事的动画革命；
+1. 雅达利Mega ST：进军专业市场的尝试；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [stefan-gloor.ch](https://stefan-gloor.ch/yomani-hack): Root shell on a credit card terminal</small>
 
 
-| 🔥🔥: 529 \| 💬: [144](https://news.ycombinator.com/item?id=44150803) \| 🗓️ 2025-06-01
+| 🔥🔥: 551 \| 💬: [154](https://news.ycombinator.com/item?id=44150803) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [pushing-pixels.org](https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html): Cinematography of “Andor”</small>
 
 
-| 🔥🔥: 311 \| 💬: [306](https://news.ycombinator.com/item?id=44149718) \| 🗓️ 2025-06-01
+| 🔥🔥: 319 \| 💬: [313](https://news.ycombinator.com/item?id=44149718) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [npr.org](https://www.npr.org/2025/06/01/nx-s1-5419509/ukraine-destroys-military-aircraft-attack-inside-russia-planes): Ukraine destroys more than 40 military aircraft in drone attack deep in Russia</small>
 
 
-| 🔥🔥: 186 \| 💬: [195](https://news.ycombinator.com/item?id=44150789) \| 🗓️ 2025-06-01
+| 🔥🔥: 220 \| 💬: [263](https://news.ycombinator.com/item?id=44150789) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -59,23 +59,11 @@ tags:
 
 ---
 
-## <a name="4"></a>4. 雅达利Mega ST：进军专业市场的尝试 
-<small>🔗 [goto10retro.com](https://www.goto10retro.com/p/atari-means-business-with-the-mega): Atari Means Business with the Mega ST</small>
-
-
-| 🔥🔥: 132 \| 💬: [101](https://news.ycombinator.com/item?id=44150002) \| 🗓️ 2025-06-01
-
-
-<br />
-1987年推出的**Mega ST**是雅达利首款面向专业用户的工作站电脑，采用低矮的“披萨盒”机箱设计，配备**樱桃机械键盘**和内置风扇。其核心升级包括**2MB/4MB大内存**和**图形加速芯片**，但性能仍与廉价机型相同（8MHz主频）。尽管定位高端（售价是1040ST的两倍），却因**品牌游戏形象**、DRAM短缺及设计缺陷（如扩展性差）未能成功，最终被1991年的Mega STE取代。键盘成为少数备受好评的部件。
-
----
-
-## <a name="5"></a>5. 《武士杰克》的视觉艺术：沉默叙事的动画革命 
+## <a name="4"></a>4. 《武士杰克》的视觉艺术：沉默叙事的动画革命 
 <small>🔗 [animationobsessive.substack.com](https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack): The Visual World of 'Samurai Jack'</small>
 
 
-| 🔥🔥: 131 \| 💬: [28](https://news.ycombinator.com/item?id=44154032) \| 🗓️ 2025-06-01
+| 🔥🔥: 166 \| 💬: [30](https://news.ycombinator.com/item?id=44154032) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -83,11 +71,23 @@ tags:
 
 ---
 
+## <a name="5"></a>5. 雅达利Mega ST：进军专业市场的尝试 
+<small>🔗 [goto10retro.com](https://www.goto10retro.com/p/atari-means-business-with-the-mega): Atari Means Business with the Mega ST</small>
+
+
+| 🔥🔥: 136 \| 💬: [101](https://news.ycombinator.com/item?id=44150002) \| 🗓️ 2025-06-01
+
+
+<br />
+1987年推出的**Mega ST**是雅达利首款面向专业用户的工作站电脑，采用低矮的“披萨盒”机箱设计，配备**樱桃机械键盘**和内置风扇。其核心升级包括**2MB/4MB大内存**和**图形加速芯片**，但性能仍与廉价机型相同（8MHz主频）。尽管定位高端（售价是1040ST的两倍），却因**品牌游戏形象**、DRAM短缺及设计缺陷（如扩展性差）未能成功，最终被1991年的Mega STE取代。键盘成为少数备受好评的部件。
+
+---
+
 ## <a name="6"></a>6. Canonical面试经历：一场令人困惑的招聘流程 
 <small>🔗 [dustri.org](https://dustri.org/b/my-experience-with-canonicals-interview-process.html): Canonicals Interview Process</small>
 
 
-| 🔥🔥: 106 \| 💬: [44](https://news.ycombinator.com/item?id=44149549) \| 🗓️ 2025-06-01
+| 🔥🔥: 108 \| 💬: [47](https://news.ycombinator.com/item?id=44149549) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -95,7 +95,19 @@ tags:
 
 ---
 
-## <a name="7"></a>7. 乌克兰无人机深入俄境内摧毁40余架军机 
+## <a name="7"></a>7. 免费公共领域有声书平台：LibriVox 
+<small>🔗 [librivox.org](https://librivox.org/): LibriVox</small>
+
+
+| 🔥: 81 \| 💬: [24](https://news.ycombinator.com/item?id=44153738) \| 🗓️ 2025-06-01
+
+
+<br />
+LibriVox是一个提供**免费公共领域有声书**的平台，所有内容由全球志愿者录制。用户可在线收听或下载至设备，涵盖多语言作品（如英语、德语等），目前拥有超2万部作品和1.4万名朗读者。平台鼓励用户参与志愿录制，并定期发布社区播客，分享项目动态和趣闻。**非英语作品**占比约12.5%，展现了文化多样性。
+
+---
+
+## <a name="8"></a>8. 乌克兰无人机深入俄境内摧毁40余架军机 
 <small>🔗 [npr.org](https://www.npr.org/2025/06/01/nx-s1-5419509/ukraine-destroys-military-aircraft-attack-inside-russia-planes): Ukraine destroys more than 40 military aircraft in drone attack deep in Russia</small>
 
 
@@ -107,23 +119,11 @@ tags:
 
 ---
 
-## <a name="8"></a>8. 免费公共领域有声书平台：LibriVox 
-<small>🔗 [librivox.org](https://librivox.org/): LibriVox</small>
-
-
-| 🔥: 69 \| 💬: [22](https://news.ycombinator.com/item?id=44153738) \| 🗓️ 2025-06-01
-
-
-<br />
-LibriVox是一个提供**免费公共领域有声书**的平台，所有内容由全球志愿者录制。用户可在线收听或下载至设备，涵盖多语言作品（如英语、德语等），目前拥有超2万部作品和1.4万名朗读者。平台鼓励用户参与志愿录制，并定期发布社区播客，分享项目动态和趣闻。**非英语作品**占比约12.5%，展现了文化多样性。
-
----
-
 ## <a name="9"></a>9. OpenAI无需再伪装：从非营利到商业化的转型争议 
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/technology/archive/2025/05/openai-nonprofit-pbc/682979/): OpenAI can stop pretending</small>
 
 
-| 🔥: 65 \| 💬: [55](https://news.ycombinator.com/item?id=44153669) \| 🗓️ 2025-06-01
+| 🔥: 67 \| 💬: [58](https://news.ycombinator.com/item?id=44153669) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -135,7 +135,7 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/investigations/2025/03/22/family-secrets-jfk-files-cia-assets/): JFK files expose family secrets: Their relatives were CIA assets</small>
 
 
-| 🔥: 62 \| 💬: [39](https://news.ycombinator.com/item?id=44152447) \| 🗓️ 2025-06-01
+| 🔥: 66 \| 💬: [39](https://news.ycombinator.com/item?id=44152447) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -143,23 +143,11 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 ---
 
-## <a name="11"></a>11. 为什么我更喜欢Svelte而非React（状态管理篇） 
-<small>🔗 [river.berlin](https://river.berlin/blog/why-i-like-svelte-more-than-react/): I like Svelte more than React (it's store management)</small>
-
-
-| 🔥: 57 \| 💬: [62](https://news.ycombinator.com/item?id=44149890) \| 🗓️ 2025-06-01
-
-
-<br />
-作者认为**Svelte的开发体验远超React**，尤其是其内置的**状态管理机制**。React默认缺乏全局状态管理，导致复杂的**属性透传（prop drilling）**问题，而Svelte通过`writable`等原生存储方案简化了流程。文中对比了React依赖第三方库（如Zustand、Jotai）的繁琐，而Svelte只需`$count`即可直接访问状态，更直观高效。最终结论：**Svelte的状态管理更优雅，减少依赖与心智负担**。
-
----
-
-## <a name="12"></a>12. 得州警方动用8.3万摄像头追踪堕胎女性 
+## <a name="11"></a>11. 得州警方动用8.3万摄像头追踪堕胎女性 
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/05/she-got-abortion-so-texas-cop-used-83000-cameras-track-her-down): Texas cop searched license plate cameras nationwide for woman who got abortion</small>
 
 
-| 🔥: 57 \| 💬: [11](https://news.ycombinator.com/item?id=44153091) \| 🗓️ 2025-06-01
+| 🔥: 60 \| 💬: [11](https://news.ycombinator.com/item?id=44153091) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -167,11 +155,23 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 ---
 
+## <a name="12"></a>12. 为什么我更喜欢Svelte而非React（状态管理篇） 
+<small>🔗 [river.berlin](https://river.berlin/blog/why-i-like-svelte-more-than-react/): I like Svelte more than React (it's store management)</small>
+
+
+| 🔥: 59 \| 💬: [62](https://news.ycombinator.com/item?id=44149890) \| 🗓️ 2025-06-01
+
+
+<br />
+作者认为**Svelte的开发体验远超React**，尤其是其内置的**状态管理机制**。React默认缺乏全局状态管理，导致复杂的**属性透传（prop drilling）**问题，而Svelte通过`writable`等原生存储方案简化了流程。文中对比了React依赖第三方库（如Zustand、Jotai）的繁琐，而Svelte只需`$count`即可直接访问状态，更直观高效。最终结论：**Svelte的状态管理更优雅，减少依赖与心智负担**。
+
+---
+
 ## <a name="13"></a>13. 乌军成功实施战争中最具破坏力的突袭行动 
 <small>🔗 [phillipspobrien.substack.com](https://phillipspobrien.substack.com/p/weekend-update135-update-the-ukrainians): The Ukrainians Just Pulled Off the Most Successful Operation of the War</small>
 
 
-| 🔥: 54 \| 💬: [14](https://news.ycombinator.com/item?id=44153673) \| 🗓️ 2025-06-01
+| 🔥: 56 \| 💬: [15](https://news.ycombinator.com/item?id=44153673) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -207,7 +207,7 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 <small>🔗 [asm-basic-coder.neocities.org](https://asm-basic-coder.neocities.org/rants/amigaapilearn): Learning from the Amiga API/ABI</small>
 
 
-| 🔥: 44 \| 💬: [33](https://news.ycombinator.com/item?id=44151086) \| 🗓️ 2025-06-01
+| 🔥: 46 \| 💬: [34](https://news.ycombinator.com/item?id=44151086) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -215,11 +215,23 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 ---
 
-## <a name="17"></a>17. 乌克兰无人机从卡车现身袭击轰炸机 
+## <a name="17"></a>17. “生产环境修复bug成本高100倍”的研究可能根本不存在（2021） 
+<small>🔗 [theregister.com](https://www.theregister.com/2021/07/22/bugs_expense_bs/): “Bugs are 100x more expensive to fix in production” study might not exist (2021)</small>
+
+
+| 🔥: 43 \| 💬: [35](https://news.ycombinator.com/item?id=44153734) \| 🗓️ 2025-06-01
+
+
+<br />
+一篇2021年的文章质疑了软件行业广泛引用的“**生产环境修复bug比需求阶段贵100倍**”的说法。调查发现，这一结论源自IBM系统科学研究所的课程笔记，但**原始数据无法验证**，且可能早至1967年。专家指出，尽管后期修复成本更高的趋势可能成立，但现有研究定义混乱，学术激励机制更倾向于创新而非实证。文章强调应关注**代码审查**和**短迭代周期**等实证有效的方法，并警惕互联网时代二手信息的误导性。
+
+---
+
+## <a name="18"></a>18. 乌克兰无人机从卡车现身袭击轰炸机 
 <small>🔗 [bbc.com](https://www.bbc.com/news/live/cgrg7kelk45t): Ukraine drones 'emerged from trucks' before strikes on bombers</small>
 
 
-| 🔥: 40 \| 💬: [30](https://news.ycombinator.com/item?id=44151327) \| 🗓️ 2025-06-01
+| 🔥: 41 \| 💬: [30](https://news.ycombinator.com/item?id=44151327) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -227,7 +239,7 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 ---
 
-## <a name="18"></a>18. AI恶意软件来袭：虚假AI工具正传播勒索病毒 
+## <a name="19"></a>19. AI恶意软件来袭：虚假AI工具正传播勒索病毒 
 <small>🔗 [blog.talosintelligence.com](https://blog.talosintelligence.com/fake-ai-tool-installers/): AI Malware Is Here: New Report Shows How Fake AI Tools Are Spreading Ransomware</small>
 
 
@@ -239,7 +251,7 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 ---
 
-## <a name="19"></a>19. 什么鬼，Kees？ 
+## <a name="20"></a>20. 什么鬼，Kees？ 
 <small>🔗 [lore.kernel.org](https://lore.kernel.org/all/CAHk-=wj4a_CvL6-=8gobwScstu-gJpX4XbX__hvcE=e9zaQ_9A@mail.gmail.com/): WTF,Kees?</small>
 
 
@@ -251,7 +263,7 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 ---
 
-## <a name="20"></a>20. 特朗普预算提案拟关闭美国LIGO天文台 威胁引力波研究领先地位 
+## <a name="21"></a>21. 特朗普预算提案拟关闭美国LIGO天文台 威胁引力波研究领先地位 
 <small>🔗 [tri-cityherald.com](https://www.tri-cityherald.com/news/business/health-care/article307573471.html): Science cuts may close WA LIGO observatory that confirmed theory of relativity</small>
 
 
@@ -263,11 +275,11 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 ---
 
-## <a name="21"></a>21. 我们失去了什么：PHP与jQuery时代的简单性 
+## <a name="22"></a>22. 我们失去了什么：PHP与jQuery时代的简单性 
 <small>🔗 [idiallo.com](https://idiallo.com/blog/what-we-lost-with-php-and-jquery): What We Lost with PHP and jQuery</small>
 
 
-| 🔥: 32 \| 💬: [70](https://news.ycombinator.com/item?id=44151668) \| 🗓️ 2025-06-01
+| 🔥: 32 \| 💬: [71](https://news.ycombinator.com/item?id=44151668) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -275,11 +287,11 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 ---
 
-## <a name="22"></a>22. 美国将移民儿童DNA纳入犯罪数据库引发争议 
+## <a name="23"></a>23. 美国将移民儿童DNA纳入犯罪数据库引发争议 
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/may/31/cbp-dna-collection-children-immigrants): US authorities are collecting DNA information of children in criminal database</small>
 
 
-| 🔥: 30 \| 💬: [22](https://news.ycombinator.com/item?id=44152991) \| 🗓️ 2025-06-01
+| 🔥: 32 \| 💬: [23](https://news.ycombinator.com/item?id=44152991) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -287,7 +299,7 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 ---
 
-## <a name="23"></a>23. Elevenlabs推出多模态对话AI 2.0 
+## <a name="24"></a>24. Elevenlabs推出多模态对话AI 2.0 
 <small>🔗 [elevenlabs.io](https://elevenlabs.io/blog/conversational-ai-2-0): Elevenlabs Conversational AI 2.0</small>
 
 
