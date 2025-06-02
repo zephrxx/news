@@ -12,7 +12,7 @@ tags:
 1. 《安多》摄影指导专访：从胶片到LED的视觉革命；
 1. 俄军41架战略轰炸机遭乌军无人机集群突袭；
 1. 雅达利Mega ST：进军专业市场的尝试；
-1. Canonical面试经历：一场令人困惑的招聘流程；
+1. 《武士杰克》的视觉艺术：沉默叙事的动画革命；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [stefan-gloor.ch](https://stefan-gloor.ch/yomani-hack): Root shell on a credit card terminal</small>
 
 
-| 🔥🔥: 505 \| 💬: [138](https://news.ycombinator.com/item?id=44150803) \| 🗓️ 2025-06-01
+| 🔥🔥: 529 \| 💬: [144](https://news.ycombinator.com/item?id=44150803) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [pushing-pixels.org](https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html): Cinematography of “Andor”</small>
 
 
-| 🔥🔥: 300 \| 💬: [301](https://news.ycombinator.com/item?id=44149718) \| 🗓️ 2025-06-01
+| 🔥🔥: 311 \| 💬: [306](https://news.ycombinator.com/item?id=44149718) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [npr.org](https://www.npr.org/2025/06/01/nx-s1-5419509/ukraine-destroys-military-aircraft-attack-inside-russia-planes): Ukraine destroys more than 40 military aircraft in drone attack deep in Russia</small>
 
 
-| 🔥🔥: 141 \| 💬: [152](https://news.ycombinator.com/item?id=44150789) \| 🗓️ 2025-06-01
+| 🔥🔥: 186 \| 💬: [195](https://news.ycombinator.com/item?id=44150789) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [goto10retro.com](https://www.goto10retro.com/p/atari-means-business-with-the-mega): Atari Means Business with the Mega ST</small>
 
 
-| 🔥🔥: 129 \| 💬: [95](https://news.ycombinator.com/item?id=44150002) \| 🗓️ 2025-06-01
+| 🔥🔥: 132 \| 💬: [101](https://news.ycombinator.com/item?id=44150002) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -71,27 +71,27 @@ tags:
 
 ---
 
-## <a name="5"></a>5. Canonical面试经历：一场令人困惑的招聘流程 
-<small>🔗 [dustri.org](https://dustri.org/b/my-experience-with-canonicals-interview-process.html): Canonicals Interview Process</small>
-
-
-| 🔥🔥: 103 \| 💬: [43](https://news.ycombinator.com/item?id=44149549) \| 🗓️ 2025-06-01
-
-
-<br />
-作者分享了自己两次申请Canonical职位的经历。**首次申请**因未虚构高中成绩被秒拒，后按员工建议“优化”申请材料通过初审，但冗长的笔试、**伪科学心理测试**及空洞的技术面试令人失望。**第二次申请**进入终面，创始人Mark Shuttleworth的提问聚焦高中经历而非专业技能，态度强硬且中途用餐，最终以“文化不匹配”为由拒绝。值得注意的是，其他面试官多数给出积极评价，但**Shuttleworth的一票否决权**成为关键。整个流程自动化程度高，缺乏透明度，且重复性步骤多，引发作者对招聘合理性的质疑。
-
----
-
-## <a name="6"></a>6. 《武士杰克》的视觉艺术：沉默叙事的动画革命 
+## <a name="5"></a>5. 《武士杰克》的视觉艺术：沉默叙事的动画革命 
 <small>🔗 [animationobsessive.substack.com](https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack): The Visual World of 'Samurai Jack'</small>
 
 
-| 🔥: 96 \| 💬: [24](https://news.ycombinator.com/item?id=44154032) \| 🗓️ 2025-06-01
+| 🔥🔥: 131 \| 💬: [28](https://news.ycombinator.com/item?id=44154032) \| 🗓️ 2025-06-01
 
 
 <br />
 《武士杰克》以**极简对话**和**视觉叙事**为核心，突破传统动画框架。导演Genndy Tartakovsky受**宫崎骏**和**黑泽明**电影启发，强调背景氛围与角色动作的感染力。艺术总监Scott Wills融合写实光影与抽象风格，创造独特美学。团队通过**有限动画**技术（如定格与循环动作）强化表现力，海外工作室Rough Draft Korea的协作至关重要。这部实验性作品虽商业表现中庸，却以大胆的视觉语言成为经典。
+
+---
+
+## <a name="6"></a>6. Canonical面试经历：一场令人困惑的招聘流程 
+<small>🔗 [dustri.org](https://dustri.org/b/my-experience-with-canonicals-interview-process.html): Canonicals Interview Process</small>
+
+
+| 🔥🔥: 106 \| 💬: [44](https://news.ycombinator.com/item?id=44149549) \| 🗓️ 2025-06-01
+
+
+<br />
+作者分享了自己两次申请Canonical职位的经历。**首次申请**因未虚构高中成绩被秒拒，后按员工建议“优化”申请材料通过初审，但冗长的笔试、**伪科学心理测试**及空洞的技术面试令人失望。**第二次申请**进入终面，创始人Mark Shuttleworth的提问聚焦高中经历而非专业技能，态度强硬且中途用餐，最终以“文化不匹配”为由拒绝。值得注意的是，其他面试官多数给出积极评价，但**Shuttleworth的一票否决权**成为关键。整个流程自动化程度高，缺乏透明度，且重复性步骤多，引发作者对招聘合理性的质疑。
 
 ---
 
@@ -107,11 +107,35 @@ tags:
 
 ---
 
-## <a name="8"></a>8. 肯尼迪文件曝光家族秘密：亲属竟是中情局线人 
+## <a name="8"></a>8. 免费公共领域有声书平台：LibriVox 
+<small>🔗 [librivox.org](https://librivox.org/): LibriVox</small>
+
+
+| 🔥: 69 \| 💬: [22](https://news.ycombinator.com/item?id=44153738) \| 🗓️ 2025-06-01
+
+
+<br />
+LibriVox是一个提供**免费公共领域有声书**的平台，所有内容由全球志愿者录制。用户可在线收听或下载至设备，涵盖多语言作品（如英语、德语等），目前拥有超2万部作品和1.4万名朗读者。平台鼓励用户参与志愿录制，并定期发布社区播客，分享项目动态和趣闻。**非英语作品**占比约12.5%，展现了文化多样性。
+
+---
+
+## <a name="9"></a>9. OpenAI无需再伪装：从非营利到商业化的转型争议 
+<small>🔗 [theatlantic.com](https://www.theatlantic.com/technology/archive/2025/05/openai-nonprofit-pbc/682979/): OpenAI can stop pretending</small>
+
+
+| 🔥: 65 \| 💬: [55](https://news.ycombinator.com/item?id=44153669) \| 🗓️ 2025-06-01
+
+
+<br />
+OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人类**的AI。然而，随着ChatGPT的爆红，公司迅速转向商业化，引发内部矛盾。CEO Sam Altman试图将主体转为**营利性公司**，但遭到Elon Musk等多方反对，指控其背离初心。尽管最终妥协保留非营利架构，但投资者利益与AI伦理的冲突持续发酵。**监管缺失**和模糊的“安全”定义加剧了外界对AI失控的担忧。
+
+---
+
+## <a name="10"></a>10. 肯尼迪文件曝光家族秘密：亲属竟是中情局线人 
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/investigations/2025/03/22/family-secrets-jfk-files-cia-assets/): JFK files expose family secrets: Their relatives were CIA assets</small>
 
 
-| 🔥: 61 \| 💬: [38](https://news.ycombinator.com/item?id=44152447) \| 🗓️ 2025-06-01
+| 🔥: 62 \| 💬: [39](https://news.ycombinator.com/item?id=44152447) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -119,7 +143,7 @@ tags:
 
 ---
 
-## <a name="9"></a>9. 为什么我更喜欢Svelte而非React（状态管理篇） 
+## <a name="11"></a>11. 为什么我更喜欢Svelte而非React（状态管理篇） 
 <small>🔗 [river.berlin](https://river.berlin/blog/why-i-like-svelte-more-than-react/): I like Svelte more than React (it's store management)</small>
 
 
@@ -131,11 +155,11 @@ tags:
 
 ---
 
-## <a name="10"></a>10. 得州警方动用8.3万摄像头追踪堕胎女性 
+## <a name="12"></a>12. 得州警方动用8.3万摄像头追踪堕胎女性 
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/05/she-got-abortion-so-texas-cop-used-83000-cameras-track-her-down): Texas cop searched license plate cameras nationwide for woman who got abortion</small>
 
 
-| 🔥: 56 \| 💬: [11](https://news.ycombinator.com/item?id=44153091) \| 🗓️ 2025-06-01
+| 🔥: 57 \| 💬: [11](https://news.ycombinator.com/item?id=44153091) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -143,35 +167,11 @@ tags:
 
 ---
 
-## <a name="11"></a>11. OpenAI无需再伪装：从非营利到商业化的转型争议 
-<small>🔗 [theatlantic.com](https://www.theatlantic.com/technology/archive/2025/05/openai-nonprofit-pbc/682979/): OpenAI can stop pretending</small>
-
-
-| 🔥: 54 \| 💬: [20](https://news.ycombinator.com/item?id=44153669) \| 🗓️ 2025-06-01
-
-
-<br />
-OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人类**的AI。然而，随着ChatGPT的爆红，公司迅速转向商业化，引发内部矛盾。CEO Sam Altman试图将主体转为**营利性公司**，但遭到Elon Musk等多方反对，指控其背离初心。尽管最终妥协保留非营利架构，但投资者利益与AI伦理的冲突持续发酵。**监管缺失**和模糊的“安全”定义加剧了外界对AI失控的担忧。
-
----
-
-## <a name="12"></a>12. 免费公共领域有声书平台：LibriVox 
-<small>🔗 [librivox.org](https://librivox.org/): LibriVox</small>
-
-
-| 🔥: 54 \| 💬: [21](https://news.ycombinator.com/item?id=44153738) \| 🗓️ 2025-06-01
-
-
-<br />
-LibriVox是一个提供**免费公共领域有声书**的平台，所有内容由全球志愿者录制。用户可在线收听或下载至设备，涵盖多语言作品（如英语、德语等），目前拥有超2万部作品和1.4万名朗读者。平台鼓励用户参与志愿录制，并定期发布社区播客，分享项目动态和趣闻。**非英语作品**占比约12.5%，展现了文化多样性。
-
----
-
 ## <a name="13"></a>13. 乌军成功实施战争中最具破坏力的突袭行动 
 <small>🔗 [phillipspobrien.substack.com](https://phillipspobrien.substack.com/p/weekend-update135-update-the-ukrainians): The Ukrainians Just Pulled Off the Most Successful Operation of the War</small>
 
 
-| 🔥: 49 \| 💬: [11](https://news.ycombinator.com/item?id=44153673) \| 🗓️ 2025-06-01
+| 🔥: 54 \| 💬: [14](https://news.ycombinator.com/item?id=44153673) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -183,7 +183,7 @@ LibriVox是一个提供**免费公共领域有声书**的平台，所有内容�
 <small>🔗 [alexwest.co](https://www.alexwest.co/book-one): Making $1M from my personal projects</small>
 
 
-| 🔥: 49 \| 💬: [25](https://news.ycombinator.com/item?id=44153795) \| 🗓️ 2025-06-01
+| 🔥: 49 \| 💬: [28](https://news.ycombinator.com/item?id=44153795) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -207,7 +207,7 @@ LibriVox是一个提供**免费公共领域有声书**的平台，所有内容�
 <small>🔗 [asm-basic-coder.neocities.org](https://asm-basic-coder.neocities.org/rants/amigaapilearn): Learning from the Amiga API/ABI</small>
 
 
-| 🔥: 43 \| 💬: [31](https://news.ycombinator.com/item?id=44151086) \| 🗓️ 2025-06-01
+| 🔥: 44 \| 💬: [33](https://news.ycombinator.com/item?id=44151086) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -219,7 +219,7 @@ LibriVox是一个提供**免费公共领域有声书**的平台，所有内容�
 <small>🔗 [bbc.com](https://www.bbc.com/news/live/cgrg7kelk45t): Ukraine drones 'emerged from trucks' before strikes on bombers</small>
 
 
-| 🔥: 39 \| 💬: [30](https://news.ycombinator.com/item?id=44151327) \| 🗓️ 2025-06-01
+| 🔥: 40 \| 💬: [30](https://news.ycombinator.com/item?id=44151327) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -255,7 +255,7 @@ LibriVox是一个提供**免费公共领域有声书**的平台，所有内容�
 <small>🔗 [tri-cityherald.com](https://www.tri-cityherald.com/news/business/health-care/article307573471.html): Science cuts may close WA LIGO observatory that confirmed theory of relativity</small>
 
 
-| 🔥: 35 \| 💬: [5](https://news.ycombinator.com/item?id=44149601) \| 🗓️ 2025-06-01
+| 🔥: 36 \| 💬: [5](https://news.ycombinator.com/item?id=44149601) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -267,7 +267,7 @@ LibriVox是一个提供**免费公共领域有声书**的平台，所有内容�
 <small>🔗 [idiallo.com](https://idiallo.com/blog/what-we-lost-with-php-and-jquery): What We Lost with PHP and jQuery</small>
 
 
-| 🔥: 32 \| 💬: [69](https://news.ycombinator.com/item?id=44151668) \| 🗓️ 2025-06-01
+| 🔥: 32 \| 💬: [70](https://news.ycombinator.com/item?id=44151668) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -275,26 +275,26 @@ LibriVox是一个提供**免费公共领域有声书**的平台，所有内容�
 
 ---
 
-## <a name="22"></a>22. Elevenlabs推出多模态对话AI 2.0 
-<small>🔗 [elevenlabs.io](https://elevenlabs.io/blog/conversational-ai-2-0): Elevenlabs Conversational AI 2.0</small>
-
-
-| 🔥: 29 \| 💬: [9](https://news.ycombinator.com/item?id=44152926) \| 🗓️ 2025-06-01
-
-
-<br />
-Elevenlabs最新发布的**多模态对话AI**现已支持同时处理**语音**和**文本输入**，使交互更加自然高效。这一升级显著提升了系统的**容错能力**，为用户带来更流畅的沟通体验。
-
----
-
-## <a name="23"></a>23. 美国将移民儿童DNA纳入犯罪数据库引发争议 
+## <a name="22"></a>22. 美国将移民儿童DNA纳入犯罪数据库引发争议 
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/may/31/cbp-dna-collection-children-immigrants): US authorities are collecting DNA information of children in criminal database</small>
 
 
-| 🔥: 27 \| 💬: [22](https://news.ycombinator.com/item?id=44152991) \| 🗓️ 2025-06-01
+| 🔥: 30 \| 💬: [22](https://news.ycombinator.com/item?id=44152991) \| 🗓️ 2025-06-01
 
 
 <br />
 美国海关与边境保护局（**CBP**）被曝收集包括儿童在内的移民**DNA数据**，并上传至联邦调查局的**犯罪数据库Codis**。数据显示，2020年以来此类采集激增5000%，逾130万份样本中包括13万余名青少年及230名13岁以下儿童。专家批评此举是"基因监控的大规模扩张"，侵犯隐私且加剧对移民群体的歧视。尽管官方称此举旨在打击犯罪，但文件显示多数被采集者未被指控重罪。移民拘留的宽松定义使DNA采集几乎无限制，引发法律与伦理争议。
+
+---
+
+## <a name="23"></a>23. Elevenlabs推出多模态对话AI 2.0 
+<small>🔗 [elevenlabs.io](https://elevenlabs.io/blog/conversational-ai-2-0): Elevenlabs Conversational AI 2.0</small>
+
+
+| 🔥: 29 \| 💬: [10](https://news.ycombinator.com/item?id=44152926) \| 🗓️ 2025-06-01
+
+
+<br />
+Elevenlabs最新发布的**多模态对话AI**现已支持同时处理**语音**和**文本输入**，使交互更加自然高效。这一升级显著提升了系统的**容错能力**，为用户带来更流畅的沟通体验。
 
 ---
