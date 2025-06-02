@@ -27,7 +27,7 @@ tags:
 <small>🔗 [stefan-gloor.ch](https://stefan-gloor.ch/yomani-hack): Root shell on a credit card terminal</small>
 
 
-| 🔥🔥: 613 \| 💬: [177](https://news.ycombinator.com/item?id=44150803) \| 🗓️ 2025-06-01
+| 🔥🔥: 634 \| 💬: [183](https://news.ycombinator.com/item?id=44150803) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [pushing-pixels.org](https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html): Cinematography of “Andor”</small>
 
 
-| 🔥🔥: 347 \| 💬: [331](https://news.ycombinator.com/item?id=44149718) \| 🗓️ 2025-06-01
+| 🔥🔥: 355 \| 💬: [332](https://news.ycombinator.com/item?id=44149718) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [npr.org](https://www.npr.org/2025/06/01/nx-s1-5419509/ukraine-destroys-military-aircraft-attack-inside-russia-planes): Ukraine destroys more than 40 military aircraft in drone attack deep in Russia</small>
 
 
-| 🔥🔥: 252 \| 💬: [368](https://news.ycombinator.com/item?id=44150789) \| 🗓️ 2025-06-01
+| 🔥🔥: 265 \| 💬: [378](https://news.ycombinator.com/item?id=44150789) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [animationobsessive.substack.com](https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack): The Visual World of 'Samurai Jack'</small>
 
 
-| 🔥🔥: 230 \| 💬: [41](https://news.ycombinator.com/item?id=44154032) \| 🗓️ 2025-06-01
+| 🔥🔥: 263 \| 💬: [45](https://news.ycombinator.com/item?id=44154032) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [goto10retro.com](https://www.goto10retro.com/p/atari-means-business-with-the-mega): Atari Means Business with the Mega ST</small>
 
 
-| 🔥🔥: 141 \| 💬: [103](https://news.ycombinator.com/item?id=44150002) \| 🗓️ 2025-06-01
+| 🔥🔥: 143 \| 💬: [107](https://news.ycombinator.com/item?id=44150002) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [librivox.org](https://librivox.org/): LibriVox</small>
 
 
-| 🔥🔥: 119 \| 💬: [32](https://news.ycombinator.com/item?id=44153738) \| 🗓️ 2025-06-01
+| 🔥🔥: 126 \| 💬: [34](https://news.ycombinator.com/item?id=44153738) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -99,7 +99,7 @@ LibriVox是一个提供**免费公共领域有声书**的平台，所有内容�
 <small>🔗 [dustri.org](https://dustri.org/b/my-experience-with-canonicals-interview-process.html): Canonicals Interview Process</small>
 
 
-| 🔥🔥: 110 \| 💬: [48](https://news.ycombinator.com/item?id=44149549) \| 🗓️ 2025-06-01
+| 🔥🔥: 111 \| 💬: [48](https://news.ycombinator.com/item?id=44149549) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -135,7 +135,7 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/investigations/2025/03/22/family-secrets-jfk-files-cia-assets/): JFK files expose family secrets: Their relatives were CIA assets</small>
 
 
-| 🔥: 66 \| 💬: [42](https://news.ycombinator.com/item?id=44152447) \| 🗓️ 2025-06-01
+| 🔥: 68 \| 💬: [42](https://news.ycombinator.com/item?id=44152447) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -191,7 +191,19 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 ---
 
-## <a name="15"></a>15. 如何通过个人项目赚取100万美元 
+## <a name="15"></a>15. 普林斯顿INTERCAL编译器源代码首次公开 
+<small>🔗 [esoteric.codes](https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code): The Princeton INTERCAL Compiler's source code</small>
+
+
+| 🔥: 54 \| 💬: [8](https://news.ycombinator.com/item?id=44155247) \| 🗓️ 2025-06-01
+
+
+<br />
+2025年9月将出版新书《四十四种深奥语言》，首次收录**INTERCAL-72编译器**的源代码扫描件与转录文本。该语言由Don Woods和Jim Lyon于1972年在普林斯顿大学创立，是**首个明确意义上的深奥编程语言（esolang）**，以故意增加编程难度著称，例如用`PLEASE`命令讨好编译器。源代码近期被发现并转录，揭示了其通过字符串操作实现数学运算的奇特设计，导致除法需30秒完成。此次公开为研究早期编程语言提供了珍贵资料。
+
+---
+
+## <a name="16"></a>16. 如何通过个人项目赚取100万美元 
 <small>🔗 [alexwest.co](https://www.alexwest.co/book-one): Making $1M from my personal projects</small>
 
 
@@ -203,11 +215,11 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 ---
 
-## <a name="16"></a>16. 从Amiga API/ABI中学习 
+## <a name="17"></a>17. 从Amiga API/ABI中学习 
 <small>🔗 [asm-basic-coder.neocities.org](https://asm-basic-coder.neocities.org/rants/amigaapilearn): Learning from the Amiga API/ABI</small>
 
 
-| 🔥: 48 \| 💬: [38](https://news.ycombinator.com/item?id=44151086) \| 🗓️ 2025-06-01
+| 🔥: 48 \| 💬: [40](https://news.ycombinator.com/item?id=44151086) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -215,7 +227,7 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 ---
 
-## <a name="17"></a>17. 面向Lisp开发者的RSC解析 
+## <a name="18"></a>18. 面向Lisp开发者的RSC解析 
 <small>🔗 [overreacted.io](https://overreacted.io/rsc-for-lisp-developers/): RSC for Lisp Developers</small>
 
 
@@ -227,19 +239,19 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 ---
 
-## <a name="18"></a>18. 普林斯顿INTERCAL编译器源代码首次公开 
-<small>🔗 [esoteric.codes](https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code): The Princeton INTERCAL Compiler's source code</small>
+## <a name="19"></a>19. Blender转向Vulkan为何是革命性突破 
+<small>🔗 [youtube.com](https://www.youtube.com/watch?v=7cta91Y53gs): Why Blender Changing to Vulkan Is Groundbreaking [video]</small>
 
 
-| 🔥: 42 \| 💬: [6](https://news.ycombinator.com/item?id=44155247) \| 🗓️ 2025-06-01
+| 🔥: 42 \| 💬: [33](https://news.ycombinator.com/item?id=44153754) \| 🗓️ 2025-06-01
 
 
 <br />
-2025年9月将出版新书《四十四种深奥语言》，首次收录**INTERCAL-72编译器**的源代码扫描件与转录文本。该语言由Don Woods和Jim Lyon于1972年在普林斯顿大学创立，是**首个明确意义上的深奥编程语言（esolang）**，以故意增加编程难度著称，例如用`PLEASE`命令讨好编译器。源代码近期被发现并转录，揭示了其通过字符串操作实现数学运算的奇特设计，导致除法需30秒完成。此次公开为研究早期编程语言提供了珍贵资料。
+这段视频探讨了**Blender**从OpenGL转向**Vulkan**渲染引擎的重大意义。Vulkan作为现代图形API，能显著提升性能、降低延迟，并更好地利用多核CPU与GPU资源。这一变革将为**3D创作**带来更流畅的实时渲染体验，尤其对复杂场景和动画制作至关重要。
 
 ---
 
-## <a name="19"></a>19. 乌克兰无人机从卡车现身袭击轰炸机 
+## <a name="20"></a>20. 乌克兰无人机从卡车现身袭击轰炸机 
 <small>🔗 [bbc.com](https://www.bbc.com/news/live/cgrg7kelk45t): Ukraine drones 'emerged from trucks' before strikes on bombers</small>
 
 
@@ -248,18 +260,6 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 <br />
 乌克兰与俄罗斯将于伊斯坦布尔举行第二轮直接谈判，美国前总统**特朗普**推动的停火协议成为焦点。但双方立场悬殊：乌克兰要求**无条件停火**、释放囚犯及遣返被掳儿童，俄方则拒绝并持续空袭。乌方指责俄方拖延谈判，同时警告俄军可能发动夏季攻势。两国均试图向特朗普展示合作意愿——乌克兰寻求更多军援，俄罗斯希望美国放宽经济制裁。此前首轮谈判仅达成**换俘协议**，突破希望渺茫。
-
----
-
-## <a name="20"></a>20. Blender转向Vulkan为何是革命性突破 
-<small>🔗 [youtube.com](https://www.youtube.com/watch?v=7cta91Y53gs): Why Blender Changing to Vulkan Is Groundbreaking [video]</small>
-
-
-| 🔥: 39 \| 💬: [33](https://news.ycombinator.com/item?id=44153754) \| 🗓️ 2025-06-01
-
-
-<br />
-这段视频探讨了**Blender**从OpenGL转向**Vulkan**渲染引擎的重大意义。Vulkan作为现代图形API，能显著提升性能、降低延迟，并更好地利用多核CPU与GPU资源。这一变革将为**3D创作**带来更流畅的实时渲染体验，尤其对复杂场景和动画制作至关重要。
 
 ---
 
@@ -303,7 +303,7 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 <small>🔗 [idiallo.com](https://idiallo.com/blog/what-we-lost-with-php-and-jquery): What We Lost with PHP and jQuery</small>
 
 
-| 🔥: 33 \| 💬: [71](https://news.ycombinator.com/item?id=44151668) \| 🗓️ 2025-06-01
+| 🔥: 34 \| 💬: [72](https://news.ycombinator.com/item?id=44151668) \| 🗓️ 2025-06-01
 
 
 <br />
