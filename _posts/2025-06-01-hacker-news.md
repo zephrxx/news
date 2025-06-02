@@ -27,7 +27,7 @@ tags:
 <small>🔗 [stefan-gloor.ch](https://stefan-gloor.ch/yomani-hack): Root shell on a credit card terminal</small>
 
 
-| 🔥🔥: 572 \| 💬: [164](https://news.ycombinator.com/item?id=44150803) \| 🗓️ 2025-06-01
+| 🔥🔥: 586 \| 💬: [169](https://news.ycombinator.com/item?id=44150803) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [pushing-pixels.org](https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html): Cinematography of “Andor”</small>
 
 
-| 🔥🔥: 328 \| 💬: [316](https://news.ycombinator.com/item?id=44149718) \| 🗓️ 2025-06-01
+| 🔥🔥: 340 \| 💬: [329](https://news.ycombinator.com/item?id=44149718) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [npr.org](https://www.npr.org/2025/06/01/nx-s1-5419509/ukraine-destroys-military-aircraft-attack-inside-russia-planes): Ukraine destroys more than 40 military aircraft in drone attack deep in Russia</small>
 
 
-| 🔥🔥: 237 \| 💬: [310](https://news.ycombinator.com/item?id=44150789) \| 🗓️ 2025-06-01
+| 🔥🔥: 247 \| 💬: [351](https://news.ycombinator.com/item?id=44150789) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [animationobsessive.substack.com](https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack): The Visual World of 'Samurai Jack'</small>
 
 
-| 🔥🔥: 191 \| 💬: [34](https://news.ycombinator.com/item?id=44154032) \| 🗓️ 2025-06-01
+| 🔥🔥: 212 \| 💬: [35](https://news.ycombinator.com/item?id=44154032) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [goto10retro.com](https://www.goto10retro.com/p/atari-means-business-with-the-mega): Atari Means Business with the Mega ST</small>
 
 
-| 🔥🔥: 138 \| 💬: [102](https://news.ycombinator.com/item?id=44150002) \| 🗓️ 2025-06-01
+| 🔥🔥: 139 \| 💬: [102](https://news.ycombinator.com/item?id=44150002) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [dustri.org](https://dustri.org/b/my-experience-with-canonicals-interview-process.html): Canonicals Interview Process</small>
 
 
-| 🔥🔥: 109 \| 💬: [47](https://news.ycombinator.com/item?id=44149549) \| 🗓️ 2025-06-01
+| 🔥🔥: 110 \| 💬: [48](https://news.ycombinator.com/item?id=44149549) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -99,7 +99,7 @@ tags:
 <small>🔗 [librivox.org](https://librivox.org/): LibriVox</small>
 
 
-| 🔥: 95 \| 💬: [25](https://news.ycombinator.com/item?id=44153738) \| 🗓️ 2025-06-01
+| 🔥🔥: 107 \| 💬: [29](https://news.ycombinator.com/item?id=44153738) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -123,7 +123,7 @@ LibriVox是一个提供**免费公共领域有声书**的平台，所有内容�
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/technology/archive/2025/05/openai-nonprofit-pbc/682979/): OpenAI can stop pretending</small>
 
 
-| 🔥: 67 \| 💬: [58](https://news.ycombinator.com/item?id=44153669) \| 🗓️ 2025-06-01
+| 🔥: 68 \| 💬: [65](https://news.ycombinator.com/item?id=44153669) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -135,7 +135,7 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 <small>🔗 [washingtonpost.com](https://www.washingtonpost.com/investigations/2025/03/22/family-secrets-jfk-files-cia-assets/): JFK files expose family secrets: Their relatives were CIA assets</small>
 
 
-| 🔥: 66 \| 💬: [40](https://news.ycombinator.com/item?id=44152447) \| 🗓️ 2025-06-01
+| 🔥: 66 \| 💬: [42](https://news.ycombinator.com/item?id=44152447) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -147,7 +147,7 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/05/she-got-abortion-so-texas-cop-used-83000-cameras-track-her-down): Texas cop searched license plate cameras nationwide for woman who got abortion</small>
 
 
-| 🔥: 60 \| 💬: [11](https://news.ycombinator.com/item?id=44153091) \| 🗓️ 2025-06-01
+| 🔥: 63 \| 💬: [11](https://news.ycombinator.com/item?id=44153091) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -183,7 +183,7 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 <small>🔗 [theregister.com](https://www.theregister.com/2021/07/22/bugs_expense_bs/): “Bugs are 100x more expensive to fix in production” study might not exist (2021)</small>
 
 
-| 🔥: 53 \| 💬: [41](https://news.ycombinator.com/item?id=44153734) \| 🗓️ 2025-06-01
+| 🔥: 54 \| 💬: [45](https://news.ycombinator.com/item?id=44153734) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -203,7 +203,19 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 ---
 
-## <a name="16"></a>16. 面向Lisp开发者的RSC解析 
+## <a name="16"></a>16. 从Amiga API/ABI中学习 
+<small>🔗 [asm-basic-coder.neocities.org](https://asm-basic-coder.neocities.org/rants/amigaapilearn): Learning from the Amiga API/ABI</small>
+
+
+| 🔥: 48 \| 💬: [38](https://news.ycombinator.com/item?id=44151086) \| 🗓️ 2025-06-01
+
+
+<br />
+本文探讨了**Amiga OS**的独特设计，其**直接调用共享库**的ABI机制无需运行时链接，通过固定地址的跳转表实现高效调用。核心库**Exec.library**作为微内核，管理内存、任务和系统功能，展现了早期微内核的成功范例。此外，**Intuition**窗口系统的异步事件处理避免了现代系统中常见的程序无响应问题，体现了Amiga OS在**多任务处理**和用户体验上的前瞻性。文章还提到AmigaDOS的演进，最终通过ARP库优化了C语言兼容性，彰显了该操作系统的灵活性与动态性。
+
+---
+
+## <a name="17"></a>17. 面向Lisp开发者的RSC解析 
 <small>🔗 [overreacted.io](https://overreacted.io/rsc-for-lisp-developers/): RSC for Lisp Developers</small>
 
 
@@ -212,18 +224,6 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 <br />
 本文探讨了Lisp中**代码即数据**的核心思想，并通过`'(+ 2 2)`的引用机制演示如何将代码作为数据延迟执行。作者类比Web开发中服务端生成客户端代码的场景，提出类似Lisp引用的模块级解决方案（如React的`'use client'`指令），实现**跨环境组合逻辑**。虽然这种模式受框架限制，不如Lisp灵活，但为JavaScript开发者提供了**服务端与客户端协同编程**的新思路，并呼吁更多Lisp理念的跨界解读。
-
----
-
-## <a name="17"></a>17. 从Amiga API/ABI中学习 
-<small>🔗 [asm-basic-coder.neocities.org](https://asm-basic-coder.neocities.org/rants/amigaapilearn): Learning from the Amiga API/ABI</small>
-
-
-| 🔥: 47 \| 💬: [37](https://news.ycombinator.com/item?id=44151086) \| 🗓️ 2025-06-01
-
-
-<br />
-本文探讨了**Amiga OS**的独特设计，其**直接调用共享库**的ABI机制无需运行时链接，通过固定地址的跳转表实现高效调用。核心库**Exec.library**作为微内核，管理内存、任务和系统功能，展现了早期微内核的成功范例。此外，**Intuition**窗口系统的异步事件处理避免了现代系统中常见的程序无响应问题，体现了Amiga OS在**多任务处理**和用户体验上的前瞻性。文章还提到AmigaDOS的演进，最终通过ARP库优化了C语言兼容性，彰显了该操作系统的灵活性与动态性。
 
 ---
 
