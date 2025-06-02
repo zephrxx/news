@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [stefan-gloor.ch](https://stefan-gloor.ch/yomani-hack): Root shell on a credit card terminal</small>
 
 
-| 🔥🔥: 586 \| 💬: [169](https://news.ycombinator.com/item?id=44150803) \| 🗓️ 2025-06-01
+| 🔥🔥: 613 \| 💬: [177](https://news.ycombinator.com/item?id=44150803) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [pushing-pixels.org](https://www.pushing-pixels.org/2025/05/20/cinematography-of-andor-interview-with-christophe-nuyens.html): Cinematography of “Andor”</small>
 
 
-| 🔥🔥: 340 \| 💬: [329](https://news.ycombinator.com/item?id=44149718) \| 🗓️ 2025-06-01
+| 🔥🔥: 347 \| 💬: [331](https://news.ycombinator.com/item?id=44149718) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [npr.org](https://www.npr.org/2025/06/01/nx-s1-5419509/ukraine-destroys-military-aircraft-attack-inside-russia-planes): Ukraine destroys more than 40 military aircraft in drone attack deep in Russia</small>
 
 
-| 🔥🔥: 247 \| 💬: [351](https://news.ycombinator.com/item?id=44150789) \| 🗓️ 2025-06-01
+| 🔥🔥: 252 \| 💬: [368](https://news.ycombinator.com/item?id=44150789) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [animationobsessive.substack.com](https://animationobsessive.substack.com/p/the-visual-world-of-samurai-jack): The Visual World of 'Samurai Jack'</small>
 
 
-| 🔥🔥: 212 \| 💬: [35](https://news.ycombinator.com/item?id=44154032) \| 🗓️ 2025-06-01
+| 🔥🔥: 230 \| 💬: [41](https://news.ycombinator.com/item?id=44154032) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [goto10retro.com](https://www.goto10retro.com/p/atari-means-business-with-the-mega): Atari Means Business with the Mega ST</small>
 
 
-| 🔥🔥: 139 \| 💬: [102](https://news.ycombinator.com/item?id=44150002) \| 🗓️ 2025-06-01
+| 🔥🔥: 141 \| 💬: [103](https://news.ycombinator.com/item?id=44150002) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -83,7 +83,19 @@ tags:
 
 ---
 
-## <a name="6"></a>6. Canonical面试经历：一场令人困惑的招聘流程 
+## <a name="6"></a>6. 免费公共领域有声书平台：LibriVox 
+<small>🔗 [librivox.org](https://librivox.org/): LibriVox</small>
+
+
+| 🔥🔥: 119 \| 💬: [32](https://news.ycombinator.com/item?id=44153738) \| 🗓️ 2025-06-01
+
+
+<br />
+LibriVox是一个提供**免费公共领域有声书**的平台，所有内容由全球志愿者录制。用户可在线收听或下载至设备，涵盖多语言作品（如英语、德语等），目前拥有超2万部作品和1.4万名朗读者。平台鼓励用户参与志愿录制，并定期发布社区播客，分享项目动态和趣闻。**非英语作品**占比约12.5%，展现了文化多样性。
+
+---
+
+## <a name="7"></a>7. Canonical面试经历：一场令人困惑的招聘流程 
 <small>🔗 [dustri.org](https://dustri.org/b/my-experience-with-canonicals-interview-process.html): Canonicals Interview Process</small>
 
 
@@ -92,18 +104,6 @@ tags:
 
 <br />
 作者分享了自己两次申请Canonical职位的经历。**首次申请**因未虚构高中成绩被秒拒，后按员工建议“优化”申请材料通过初审，但冗长的笔试、**伪科学心理测试**及空洞的技术面试令人失望。**第二次申请**进入终面，创始人Mark Shuttleworth的提问聚焦高中经历而非专业技能，态度强硬且中途用餐，最终以“文化不匹配”为由拒绝。值得注意的是，其他面试官多数给出积极评价，但**Shuttleworth的一票否决权**成为关键。整个流程自动化程度高，缺乏透明度，且重复性步骤多，引发作者对招聘合理性的质疑。
-
----
-
-## <a name="7"></a>7. 免费公共领域有声书平台：LibriVox 
-<small>🔗 [librivox.org](https://librivox.org/): LibriVox</small>
-
-
-| 🔥🔥: 107 \| 💬: [29](https://news.ycombinator.com/item?id=44153738) \| 🗓️ 2025-06-01
-
-
-<br />
-LibriVox是一个提供**免费公共领域有声书**的平台，所有内容由全球志愿者录制。用户可在线收听或下载至设备，涵盖多语言作品（如英语、德语等），目前拥有超2万部作品和1.4万名朗读者。平台鼓励用户参与志愿录制，并定期发布社区播客，分享项目动态和趣闻。**非英语作品**占比约12.5%，展现了文化多样性。
 
 ---
 
@@ -123,7 +123,7 @@ LibriVox是一个提供**免费公共领域有声书**的平台，所有内容�
 <small>🔗 [theatlantic.com](https://www.theatlantic.com/technology/archive/2025/05/openai-nonprofit-pbc/682979/): OpenAI can stop pretending</small>
 
 
-| 🔥: 68 \| 💬: [65](https://news.ycombinator.com/item?id=44153669) \| 🗓️ 2025-06-01
+| 🔥: 70 \| 💬: [69](https://news.ycombinator.com/item?id=44153669) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -183,7 +183,7 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 <small>🔗 [theregister.com](https://www.theregister.com/2021/07/22/bugs_expense_bs/): “Bugs are 100x more expensive to fix in production” study might not exist (2021)</small>
 
 
-| 🔥: 54 \| 💬: [45](https://news.ycombinator.com/item?id=44153734) \| 🗓️ 2025-06-01
+| 🔥: 56 \| 💬: [46](https://news.ycombinator.com/item?id=44153734) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -195,7 +195,7 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 <small>🔗 [alexwest.co](https://www.alexwest.co/book-one): Making $1M from my personal projects</small>
 
 
-| 🔥: 49 \| 💬: [29](https://news.ycombinator.com/item?id=44153795) \| 🗓️ 2025-06-01
+| 🔥: 49 \| 💬: [30](https://news.ycombinator.com/item?id=44153795) \| 🗓️ 2025-06-01
 
 
 <br />
@@ -227,7 +227,19 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 ---
 
-## <a name="18"></a>18. 乌克兰无人机从卡车现身袭击轰炸机 
+## <a name="18"></a>18. 普林斯顿INTERCAL编译器源代码首次公开 
+<small>🔗 [esoteric.codes](https://esoteric.codes/blog/published-for-the-first-time-the-original-intercal72-compiler-code): The Princeton INTERCAL Compiler's source code</small>
+
+
+| 🔥: 42 \| 💬: [6](https://news.ycombinator.com/item?id=44155247) \| 🗓️ 2025-06-01
+
+
+<br />
+2025年9月将出版新书《四十四种深奥语言》，首次收录**INTERCAL-72编译器**的源代码扫描件与转录文本。该语言由Don Woods和Jim Lyon于1972年在普林斯顿大学创立，是**首个明确意义上的深奥编程语言（esolang）**，以故意增加编程难度著称，例如用`PLEASE`命令讨好编译器。源代码近期被发现并转录，揭示了其通过字符串操作实现数学运算的奇特设计，导致除法需30秒完成。此次公开为研究早期编程语言提供了珍贵资料。
+
+---
+
+## <a name="19"></a>19. 乌克兰无人机从卡车现身袭击轰炸机 
 <small>🔗 [bbc.com](https://www.bbc.com/news/live/cgrg7kelk45t): Ukraine drones 'emerged from trucks' before strikes on bombers</small>
 
 
@@ -239,7 +251,19 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 ---
 
-## <a name="19"></a>19. AI恶意软件来袭：虚假AI工具正传播勒索病毒 
+## <a name="20"></a>20. Blender转向Vulkan为何是革命性突破 
+<small>🔗 [youtube.com](https://www.youtube.com/watch?v=7cta91Y53gs): Why Blender Changing to Vulkan Is Groundbreaking [video]</small>
+
+
+| 🔥: 39 \| 💬: [33](https://news.ycombinator.com/item?id=44153754) \| 🗓️ 2025-06-01
+
+
+<br />
+这段视频探讨了**Blender**从OpenGL转向**Vulkan**渲染引擎的重大意义。Vulkan作为现代图形API，能显著提升性能、降低延迟，并更好地利用多核CPU与GPU资源。这一变革将为**3D创作**带来更流畅的实时渲染体验，尤其对复杂场景和动画制作至关重要。
+
+---
+
+## <a name="21"></a>21. AI恶意软件来袭：虚假AI工具正传播勒索病毒 
 <small>🔗 [blog.talosintelligence.com](https://blog.talosintelligence.com/fake-ai-tool-installers/): AI Malware Is Here: New Report Shows How Fake AI Tools Are Spreading Ransomware</small>
 
 
@@ -251,7 +275,7 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 ---
 
-## <a name="20"></a>20. 特朗普预算提案拟关闭美国LIGO天文台 威胁引力波研究领先地位 
+## <a name="22"></a>22. 特朗普预算提案拟关闭美国LIGO天文台 威胁引力波研究领先地位 
 <small>🔗 [tri-cityherald.com](https://www.tri-cityherald.com/news/business/health-care/article307573471.html): Science cuts may close WA LIGO observatory that confirmed theory of relativity</small>
 
 
@@ -263,7 +287,7 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 ---
 
-## <a name="21"></a>21. 什么鬼，Kees？ 
+## <a name="23"></a>23. 什么鬼，Kees？ 
 <small>🔗 [lore.kernel.org](https://lore.kernel.org/all/CAHk-=wj4a_CvL6-=8gobwScstu-gJpX4XbX__hvcE=e9zaQ_9A@mail.gmail.com/): WTF,Kees?</small>
 
 
@@ -275,7 +299,19 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 ---
 
-## <a name="22"></a>22. 美国将移民儿童DNA纳入犯罪数据库引发争议 
+## <a name="24"></a>24. 我们失去了什么：PHP与jQuery时代的简单性 
+<small>🔗 [idiallo.com](https://idiallo.com/blog/what-we-lost-with-php-and-jquery): What We Lost with PHP and jQuery</small>
+
+
+| 🔥: 33 \| 💬: [71](https://news.ycombinator.com/item?id=44151668) \| 🗓️ 2025-06-01
+
+
+<br />
+本文对比了早期**PHP+jQuery**的简洁开发与现代前端生态的复杂性。过去，开发者只需直接编写HTML、PHP处理逻辑、jQuery实现交互，无需构建工具或依赖管理。如今，即使简单项目也涉及**React**、**Webpack**等复杂工具链，带来版本冲突、安全漏洞和维护负担。作者通过将旧React项目重写为静态HTML的案例，强调**过度工程化**的问题，并指出许多现代方案只是用新工具解决老问题。虽然PHP/jQuery存在缺陷（如安全风险），但其核心理念是**快速解决问题**而非追求完美架构。文章呼吁在技术选型时权衡效率与复杂度，保留Web开发的易用性本质。
+
+---
+
+## <a name="25"></a>25. 美国将移民儿童DNA纳入犯罪数据库引发争议 
 <small>🔗 [theguardian.com](https://www.theguardian.com/us-news/2025/may/31/cbp-dna-collection-children-immigrants): US authorities are collecting DNA information of children in criminal database</small>
 
 
@@ -284,29 +320,5 @@ OpenAI最初作为非营利研究机构成立，旨在开发**安全且造福人
 
 <br />
 美国海关与边境保护局（**CBP**）被曝收集包括儿童在内的移民**DNA数据**，并上传至联邦调查局的**犯罪数据库Codis**。数据显示，2020年以来此类采集激增5000%，逾130万份样本中包括13万余名青少年及230名13岁以下儿童。专家批评此举是"基因监控的大规模扩张"，侵犯隐私且加剧对移民群体的歧视。尽管官方称此举旨在打击犯罪，但文件显示多数被采集者未被指控重罪。移民拘留的宽松定义使DNA采集几乎无限制，引发法律与伦理争议。
-
----
-
-## <a name="23"></a>23. 我们失去了什么：PHP与jQuery时代的简单性 
-<small>🔗 [idiallo.com](https://idiallo.com/blog/what-we-lost-with-php-and-jquery): What We Lost with PHP and jQuery</small>
-
-
-| 🔥: 32 \| 💬: [71](https://news.ycombinator.com/item?id=44151668) \| 🗓️ 2025-06-01
-
-
-<br />
-本文对比了早期**PHP+jQuery**的简洁开发与现代前端生态的复杂性。过去，开发者只需直接编写HTML、PHP处理逻辑、jQuery实现交互，无需构建工具或依赖管理。如今，即使简单项目也涉及**React**、**Webpack**等复杂工具链，带来版本冲突、安全漏洞和维护负担。作者通过将旧React项目重写为静态HTML的案例，强调**过度工程化**的问题，并指出许多现代方案只是用新工具解决老问题。虽然PHP/jQuery存在缺陷（如安全风险），但其核心理念是**快速解决问题**而非追求完美架构。文章呼吁在技术选型时权衡效率与复杂度，保留Web开发的易用性本质。
-
----
-
-## <a name="24"></a>24. Elevenlabs推出多模态对话AI 2.0 
-<small>🔗 [elevenlabs.io](https://elevenlabs.io/blog/conversational-ai-2-0): Elevenlabs Conversational AI 2.0</small>
-
-
-| 🔥: 29 \| 💬: [10](https://news.ycombinator.com/item?id=44152926) \| 🗓️ 2025-06-01
-
-
-<br />
-Elevenlabs最新发布的**多模态对话AI**现已支持同时处理**语音**和**文本输入**，使交互更加自然高效。这一升级显著提升了系统的**容错能力**，为用户带来更流畅的沟通体验。
 
 ---
