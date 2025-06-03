@@ -27,7 +27,7 @@ tags:
 <small>🔗 [betterthanrandom.substack.com](https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean): If you are useful, it doesn't mean you are valued</small>
 
 
-| 🔥🔥: 734 \| 💬: [328](https://news.ycombinator.com/item?id=44156935) \| 🗓️ 2025-06-02
+| 🔥🔥: 741 \| 💬: [333](https://news.ycombinator.com/item?id=44156935) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [fly.io](https://fly.io/blog/youre-all-nuts/): My AI skeptic friends are all nuts</small>
 
 
-| 🔥🔥: 642 \| 💬: [921](https://news.ycombinator.com/item?id=44163063) \| 🗓️ 2025-06-02
+| 🔥🔥: 725 \| 💬: [1049](https://news.ycombinator.com/item?id=44163063) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/kanbn/kan): Show HN: Kan.bn – An open-source alterative to Trello</small>
 
 
-| 🔥🔥: 342 \| 💬: [146](https://news.ycombinator.com/item?id=44157177) \| 🗓️ 2025-06-02
+| 🔥🔥: 349 \| 💬: [162](https://news.ycombinator.com/item?id=44157177) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -63,7 +63,7 @@ Kan.bn是一款**开源项目管理工具**，旨在替代Trello，支持看板�
 <small>🔗 [github.com](https://github.com/lixiasky/vanta): Show HN: A toy version of Wireshark (student project)</small>
 
 
-| 🔥🔥: 188 \| 💬: [57](https://news.ycombinator.com/item?id=44159758) \| 🗓️ 2025-06-02
+| 🔥🔥: 190 \| 💬: [63](https://news.ycombinator.com/item?id=44159758) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -75,7 +75,7 @@ Vanta是一款基于Go语言的**命令行网络数据包分析工具**，支持
 <small>🔗 [shkspr.mobi](https://shkspr.mobi/blog/2025/05/whatever-happened-to-cheap-ereaders/): Whatever happened to cheap eReaders?</small>
 
 
-| 🔥🔥: 139 \| 💬: [274](https://news.ycombinator.com/item?id=44157701) \| 🗓️ 2025-06-02
+| 🔥🔥: 141 \| 💬: [274](https://news.ycombinator.com/item?id=44157701) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -87,7 +87,7 @@ Vanta是一款基于Go语言的**命令行网络数据包分析工具**，支持
 <small>🔗 [huggingface.co](https://huggingface.co/dleemiller/Penny-1.7B): Show HN: Penny-1.7B Irish Penny Journal style transfer</small>
 
 
-| 🔥🔥: 127 \| 💬: [70](https://news.ycombinator.com/item?id=44160073) \| 🗓️ 2025-06-02
+| 🔥🔥: 128 \| 💬: [71](https://news.ycombinator.com/item?id=44160073) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -95,23 +95,11 @@ Vanta是一款基于Go语言的**命令行网络数据包分析工具**，支持
 
 ---
 
-## <a name="7"></a>7. 大语言模型的不可靠性与未来挑战 
-<small>🔗 [verissimo.substack.com](https://verissimo.substack.com/p/verissimo-monthly-may-2025): The Unreliability of LLMs and What Lies Ahead</small>
-
-
-| 🔥🔥: 114 \| 💬: [139](https://news.ycombinator.com/item?id=44160573) \| 🗓️ 2025-06-02
-
-
-<br />
-当前**大语言模型（LLM）**的核心瓶颈在于**不可靠性**，表现为输出不稳定、幻觉率高（约50%），且错误随任务复杂度加剧。尽管代码生成等场景因可验证性表现较好，但模型仍存在输入敏感、能力不均衡等问题。开发者需通过**确定性设计**或**容错阈值**策略应对，而非等待完美模型。短期来看，LLM的可靠性问题或持续存在，因其底层架构决定了幻觉难以根除。
-
----
-
-## <a name="8"></a>8. 每月一个荒诞网站：用创意颠覆常规 
+## <a name="7"></a>7. 每月一个荒诞网站：用创意颠覆常规 
 <small>🔗 [absurd.website](https://absurd.website): Show HN: I build one absurd web project every month</small>
 
 
-| 🔥🔥: 106 \| 💬: [26](https://news.ycombinator.com/item?id=44162363) \| 🗓️ 2025-06-02
+| 🔥🔥: 126 \| 💬: [29](https://news.ycombinator.com/item?id=44162363) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -119,11 +107,23 @@ ABSURD.website 每月推出一个**荒诞项目**，以戏谑方式解构现实�
 
 ---
 
+## <a name="8"></a>8. 大语言模型的不可靠性与未来挑战 
+<small>🔗 [verissimo.substack.com](https://verissimo.substack.com/p/verissimo-monthly-may-2025): The Unreliability of LLMs and What Lies Ahead</small>
+
+
+| 🔥🔥: 115 \| 💬: [142](https://news.ycombinator.com/item?id=44160573) \| 🗓️ 2025-06-02
+
+
+<br />
+当前**大语言模型（LLM）**的核心瓶颈在于**不可靠性**，表现为输出不稳定、幻觉率高（约50%），且错误随任务复杂度加剧。尽管代码生成等场景因可验证性表现较好，但模型仍存在输入敏感、能力不均衡等问题。开发者需通过**确定性设计**或**容错阈值**策略应对，而非等待完美模型。短期来看，LLM的可靠性问题或持续存在，因其底层架构决定了幻觉难以根除。
+
+---
+
 ## <a name="9"></a>9. TradeExpert：基于专家混合大模型的革命性交易框架 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2411.00782): TradeExpert, a trading framework that employs Mixture of Expert LLMs</small>
 
 
-| 🔥🔥: 102 \| 💬: [96](https://news.ycombinator.com/item?id=44157378) \| 🗓️ 2025-06-02
+| 🔥🔥: 104 \| 💬: [98](https://news.ycombinator.com/item?id=44157378) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -135,7 +135,7 @@ ABSURD.website 每月推出一个**荒诞项目**，以戏谑方式解构现实�
 <small>🔗 [balaji-amg.surge.sh](http://balaji-amg.surge.sh/blog/typing-118-wpm-brain-rewiring): Typing 118 WPM broke my brain in the right ways</small>
 
 
-| 🔥: 95 \| 💬: [128](https://news.ycombinator.com/item?id=44162327) \| 🗓️ 2025-06-02
+| 🔥: 100 \| 💬: [142](https://news.ycombinator.com/item?id=44162327) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -147,7 +147,7 @@ ABSURD.website 每月推出一个**荒诞项目**，以戏谑方式解构现实�
 <small>🔗 [thorvg.org](https://www.thorvg.org/about): ThorVG: Super Lightweight Vector Graphics Engine</small>
 
 
-| 🔥: 91 \| 💬: [19](https://news.ycombinator.com/item?id=44157406) \| 🗓️ 2025-06-02
+| 🔥: 96 \| 💬: [21](https://news.ycombinator.com/item?id=44157406) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -159,7 +159,7 @@ ThorVG是一款开源的矢量图形库，专为创建**矢量场景和动画**�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2505.24760): ReasoningGym: Reasoning Environments for RL with Verifiable Rewards</small>
 
 
-| 🔥: 89 \| 💬: [27](https://news.ycombinator.com/item?id=44157077) \| 🗓️ 2025-06-02
+| 🔥: 92 \| 💬: [27](https://news.ycombinator.com/item?id=44157077) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -171,7 +171,7 @@ ThorVG是一款开源的矢量图形库，专为创建**矢量场景和动画**�
 <small>🔗 [blog.noahhw.dev](https://blog.noahhw.dev/posts/cve-2025-31200/): CVE 2025 31200</small>
 
 
-| 🔥: 86 \| 💬: [23](https://news.ycombinator.com/item?id=44161894) \| 🗓️ 2025-06-02
+| 🔥: 90 \| 💬: [23](https://news.ycombinator.com/item?id=44161894) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -179,7 +179,31 @@ ThorVG是一款开源的矢量图形库，专为创建**矢量场景和动画**�
 
 ---
 
-## <a name="14"></a>14. 《Linux Format》杂志25年后正式停刊 
+## <a name="14"></a>14. 日本科学家研发出全血型通用人造血 
+<small>🔗 [tokyoweekender.com](https://www.tokyoweekender.com/entertainment/tech-trends/japanese-scientists-develop-artificial-blood/): Japanese Scientists Develop Artificial Blood Compatible with All Blood Types</small>
+
+
+| 🔥: 88 \| 💬: [19](https://news.ycombinator.com/item?id=44163428) \| 🗓️ 2025-06-02
+
+
+<br />
+日本奈良县立医科大学的研究团队开发出一种**兼容所有血型**的人造血，解决了血液供应短缺问题。该技术从过期血液中提取**血红蛋白**，包裹在保护壳中制成无血型限制、无病毒的**人造红细胞**，可在室温下保存两年（冷藏五年），远超常规血液42天的保存期限。2022年起的小规模人体试验显示安全性良好，计划2030年前投入实用。此外，中央大学团队也在开发基于白蛋白包裹血红蛋白的人造携氧体，动物实验效果显著。
+
+---
+
+## <a name="15"></a>15. 无人机送货频繁过境，房主能否说“不”？ 
+<small>🔗 [rte.ie](https://www.rte.ie/brainstorm/2025/0602/1481005-drone-delivery-companies-property-legal-rights-airspace/): Can I stop drone delivery companies flying over my property?</small>
+
+
+| 🔥: 82 \| 💬: [170](https://news.ycombinator.com/item?id=44162042) \| 🗓️ 2025-06-02
+
+
+<br />
+随着无人机送货服务（如Manna和Wing）在都柏林等地的普及，**隐私侵犯**、**噪音污染**及安全隐患（如2022年螺旋桨坠落事件）引发居民担忧。目前法律对**低空领空权**界定模糊，爱尔兰《1936年航空运输法》仅规定飞机在“合理高度”飞行时不构成侵权，但“合理”标准未明确。美国等地同样面临类似争议。专家提议立法明确**私有领空高度**（如60-70米），房主可自主选择有偿开放或要求无人机使用更高航线。技术手段（如共享飞行数据）或可辅助监管，但相关立法亟待推进以平衡各方权益。
+
+---
+
+## <a name="16"></a>16. 《Linux Format》杂志25年后正式停刊 
 <small>🔗 [omgubuntu.co.uk](https://www.omgubuntu.co.uk/2025/05/linux-format-magazine-closes): After 25 Years, Linux Format Magazine Is No More</small>
 
 
@@ -191,11 +215,11 @@ ThorVG是一款开源的矢量图形库，专为创建**矢量场景和动画**�
 
 ---
 
-## <a name="15"></a>15. HTML中的装饰性文本分组技巧 
+## <a name="17"></a>17. HTML中的装饰性文本分组技巧 
 <small>🔗 [shkspr.mobi](https://shkspr.mobi/blog/2025/05/decorative-text-within-html/): Decorative Text Within HTML</small>
 
 
-| 🔥: 71 \| 💬: [5](https://news.ycombinator.com/item?id=44161103) \| 🗓️ 2025-06-02
+| 🔥: 75 \| 💬: [5](https://news.ycombinator.com/item?id=44161103) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -205,35 +229,11 @@ HTML规范允许属性值包含任意字符（需转义引号），因此可借�
 
 ---
 
-## <a name="16"></a>16. 日本科学家研发出全血型通用人造血 
-<small>🔗 [tokyoweekender.com](https://www.tokyoweekender.com/entertainment/tech-trends/japanese-scientists-develop-artificial-blood/): Japanese Scientists Develop Artificial Blood Compatible with All Blood Types</small>
-
-
-| 🔥: 70 \| 💬: [18](https://news.ycombinator.com/item?id=44163428) \| 🗓️ 2025-06-02
-
-
-<br />
-日本奈良县立医科大学的研究团队开发出一种**兼容所有血型**的人造血，解决了血液供应短缺问题。该技术从过期血液中提取**血红蛋白**，包裹在保护壳中制成无血型限制、无病毒的**人造红细胞**，可在室温下保存两年（冷藏五年），远超常规血液42天的保存期限。2022年起的小规模人体试验显示安全性良好，计划2030年前投入实用。此外，中央大学团队也在开发基于白蛋白包裹血红蛋白的人造携氧体，动物实验效果显著。
-
----
-
-## <a name="17"></a>17. 无人机送货频繁过境，房主能否说“不”？ 
-<small>🔗 [rte.ie](https://www.rte.ie/brainstorm/2025/0602/1481005-drone-delivery-companies-property-legal-rights-airspace/): Can I stop drone delivery companies flying over my property?</small>
-
-
-| 🔥: 67 \| 💬: [148](https://news.ycombinator.com/item?id=44162042) \| 🗓️ 2025-06-02
-
-
-<br />
-随着无人机送货服务（如Manna和Wing）在都柏林等地的普及，**隐私侵犯**、**噪音污染**及安全隐患（如2022年螺旋桨坠落事件）引发居民担忧。目前法律对**低空领空权**界定模糊，爱尔兰《1936年航空运输法》仅规定飞机在“合理高度”飞行时不构成侵权，但“合理”标准未明确。美国等地同样面临类似争议。专家提议立法明确**私有领空高度**（如60-70米），房主可自主选择有偿开放或要求无人机使用更高航线。技术手段（如共享飞行数据）或可辅助监管，但相关立法亟待推进以平衡各方权益。
-
----
-
 ## <a name="18"></a>18. 三天速成开发的App被黑了两次 
 <small>🔗 [threadreaderapp.com](https://threadreaderapp.com/thread/1929017755136561402.html): "I vibe coded and shipped an app in three days. It got hacked. Twice."</small>
 
 
-| 🔥: 66 \| 💬: [40](https://news.ycombinator.com/item?id=44157131) \| 🗓️ 2025-06-02
+| 🔥: 67 \| 💬: [41](https://news.ycombinator.com/item?id=44157131) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -253,7 +253,19 @@ HTML规范允许属性值包含任意字符（需转义引号），因此可借�
 
 ---
 
-## <a name="20"></a>20. 不立即保护物联网，灾难将至 
+## <a name="20"></a>20. 年轻世代患痴呆症风险降低，研究显示女性更显著 
+<small>🔗 [theguardian.com](https://www.theguardian.com/society/2025/jun/02/younger-generations-less-likely-dementia-study): Younger generations less likely to have dementia, study suggests</small>
+
+
+| 🔥: 65 \| 💬: [57](https://news.ycombinator.com/item?id=44160012) \| 🗓️ 2025-06-02
+
+
+<br />
+研究发现，**年轻世代**在相同年龄段的**痴呆症患病率**低于老一辈，其中**女性**趋势更为明显。2021年全球痴呆症患者达5700万，但随教育普及、医疗进步等因素，风险有所下降。专家警告，人口老龄化仍将推高总病例数，且存在性别、教育及地域不平等。研究未涉及临床诊断，但强调预防措施（如控烟、改善心血管健康）的重要性。
+
+---
+
+## <a name="21"></a>21. 不立即保护物联网，灾难将至 
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/iot-security-root-of-trust): Disaster awaits if we don't secure IoT now</small>
 
 
@@ -265,23 +277,11 @@ MIT专家Guy Fedorkow和Thomas Hardjono警告，若不尽快加强**物联网安
 
 ---
 
-## <a name="21"></a>21. 年轻世代患痴呆症风险降低，研究显示女性更显著 
-<small>🔗 [theguardian.com](https://www.theguardian.com/society/2025/jun/02/younger-generations-less-likely-dementia-study): Younger generations less likely to have dementia, study suggests</small>
-
-
-| 🔥: 57 \| 💬: [54](https://news.ycombinator.com/item?id=44160012) \| 🗓️ 2025-06-02
-
-
-<br />
-研究发现，**年轻世代**在相同年龄段的**痴呆症患病率**低于老一辈，其中**女性**趋势更为明显。2021年全球痴呆症患者达5700万，但随教育普及、医疗进步等因素，风险有所下降。专家警告，人口老龄化仍将推高总病例数，且存在性别、教育及地域不平等。研究未涉及临床诊断，但强调预防措施（如控烟、改善心血管健康）的重要性。
-
----
-
 ## <a name="22"></a>22. 通过-Zno-embed-metadata减少Cargo目标目录体积 
 <small>🔗 [kobzol.github.io](https://kobzol.github.io/rust/rustc/2025/06/02/reduce-cargo-target-dir-size-with-z-no-embed-metadata.html): Reducing Cargo target directory size with -Zno-embed-metadata</small>
 
 
-| 🔥: 47 \| 💬: [11](https://news.ycombinator.com/item?id=44158720) \| 🗓️ 2025-06-02
+| 🔥: 48 \| 💬: [11](https://news.ycombinator.com/item?id=44158720) \| 🗓️ 2025-06-02
 
 
 <br />
