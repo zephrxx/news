@@ -12,11 +12,11 @@ tags:
 1. 欧盟委员会拒绝公开大规模监控提案的起草者身份；
 1. 乌克兰“杀手无人机”如何突破俄罗斯电子干扰；
 1. Go语言错误处理：为何放弃语法改进？；
-1. 安卓系统存在通过本地端口进行的隐蔽网页到应用追踪行为；
+1. Builder.ai破产：15亿美元“AI”初创公司被曝实为印度程序员团队；
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [github.com](https://github.com/iamgio/quarkdown): Quarkdown: A modern Markdown-based typesetting system</small>
 
 
-| 🔥🔥: 549 \| 💬: [236](https://news.ycombinator.com/item?id=44167592) \| 🗓️ 2025-06-03
+| 🔥🔥: 564 \| 💬: [240](https://news.ycombinator.com/item?id=44167592) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -39,7 +39,7 @@ Quarkdown是一个**功能强大**的Markdown扩展系统，支持将文档编�
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/europe/comments/1l2655n/the_eu_commission_refuses_to_disclose_the/): EU Commission refuses to disclose authors behind its mass surveillance proposal</small>
 
 
-| 🔥🔥: 437 \| 💬: [258](https://news.ycombinator.com/item?id=44168134) \| 🗓️ 2025-06-03
+| 🔥🔥: 442 \| 💬: [259](https://news.ycombinator.com/item?id=44168134) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -51,7 +51,7 @@ Quarkdown是一个**功能强大**的Markdown扩展系统，支持将文档编�
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/ukraine-killer-drones): How Ukraine’s killer drones are beating Russian jamming</small>
 
 
-| 🔥🔥: 286 \| 💬: [335](https://news.ycombinator.com/item?id=44168658) \| 🗓️ 2025-06-03
+| 🔥🔥: 289 \| 💬: [351](https://news.ycombinator.com/item?id=44168658) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -63,7 +63,7 @@ Quarkdown是一个**功能强大**的Markdown扩展系统，支持将文档编�
 <small>🔗 [go.dev](https://go.dev/blog/error-syntax): (On | No) Syntactic Support for Error Handling</small>
 
 
-| 🔥🔥: 259 \| 💬: [309](https://news.ycombinator.com/item?id=44171677) \| 🗓️ 2025-06-03
+| 🔥🔥: 271 \| 💬: [335](https://news.ycombinator.com/item?id=44171677) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -71,35 +71,11 @@ Go语言长期因**错误处理冗长**被诟病，团队曾提出`check/handle`
 
 ---
 
-## <a name="5"></a>5. 安卓系统存在通过本地端口进行的隐蔽网页到应用追踪行为 
-<small>🔗 [localmess.github.io](https://localmess.github.io/): Covert Web-to-App Tracking via Localhost on Android</small>
-
-
-| 🔥🔥: 242 \| 💬: [6](https://news.ycombinator.com/item?id=44169314) \| 🗓️ 2025-06-03
-
-
-<br />
-研究发现，**Meta（Facebook、Instagram）和Yandex（地图、浏览器等应用）**通过安卓本地端口（如12580-12585、29009等）秘密监听用户浏览数据。这些应用利用网页嵌入的追踪脚本（如Meta Pixel、Yandex Metrica），通过**localhost通信**绕过隐私保护措施（如无痕模式、清除Cookie），将网页浏览行为与设备ID（如AAID）或账户身份关联。截至6月3日，Meta已停止相关操作，但Yandex仍持续使用此方法。该漏洞还可能导致恶意应用窃取用户**浏览历史**，影响数亿安卓用户。
-
----
-
-## <a name="6"></a>6. Meta与Yandex利用安卓漏洞窃取用户匿名浏览数据 
-<small>🔗 [localmess.github.io](https://localmess.github.io/): Covert Web-to-App Tracking via Localhost on Android</small>
-
-
-| 🔥🔥: 238 \| 💬: [191](https://news.ycombinator.com/item?id=44169115) \| 🗓️ 2025-06-03
-
-
-<br />
-研究发现，**Meta Pixel**和**Yandex Metrica**追踪代码通过滥用浏览器协议，绕过安卓沙盒隔离，将用户临时网页标识符转为持久移动应用身份。该漏洞允许Facebook、Instagram及Yandex应用实时获取浏览器数据，**即使在隐私模式下**也能关联用户真实身份。谷歌已着手调查并封锁部分攻击路径，但研究者警告现有修复易被绕过，需从系统层面限制本地端口访问。涉事脚本覆盖超880万网站，多数未获用户同意即收集数据。
-
----
-
-## <a name="7"></a>7. Builder.ai破产：15亿美元“AI”初创公司被曝实为印度程序员团队 
+## <a name="5"></a>5. Builder.ai破产：15亿美元“AI”初创公司被曝实为印度程序员团队 
 <small>🔗 [ibtimes.co.uk](https://www.ibtimes.co.uk/builderai-collapses-15bn-ai-startup-exposed-actually-indians-pretending-bots-1734784): Builder.ai Collapses: $1.5B 'AI' Startup Exposed as 'Indians'</small>
 
 
-| 🔥🔥: 234 \| 💬: [148](https://news.ycombinator.com/item?id=44169759) \| 🗓️ 2025-06-03
+| 🔥🔥: 268 \| 💬: [171](https://news.ycombinator.com/item?id=44169759) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -107,11 +83,35 @@ Go语言长期因**错误处理冗长**被诟病，团队曾提出`check/handle`
 
 ---
 
+## <a name="6"></a>6. Meta与Yandex利用安卓漏洞窃取用户匿名浏览数据 
+<small>🔗 [localmess.github.io](https://localmess.github.io/): Covert Web-to-App Tracking via Localhost on Android</small>
+
+
+| 🔥🔥: 245 \| 💬: [195](https://news.ycombinator.com/item?id=44169115) \| 🗓️ 2025-06-03
+
+
+<br />
+研究发现，**Meta Pixel**和**Yandex Metrica**追踪代码通过滥用浏览器协议，绕过安卓沙盒隔离，将用户临时网页标识符转为持久移动应用身份。该漏洞允许Facebook、Instagram及Yandex应用实时获取浏览器数据，**即使在隐私模式下**也能关联用户真实身份。谷歌已着手调查并封锁部分攻击路径，但研究者警告现有修复易被绕过，需从系统层面限制本地端口访问。涉事脚本覆盖超880万网站，多数未获用户同意即收集数据。
+
+---
+
+## <a name="7"></a>7. 安卓系统存在通过本地端口进行的隐蔽网页到应用追踪行为 
+<small>🔗 [localmess.github.io](https://localmess.github.io/): Covert Web-to-App Tracking via Localhost on Android</small>
+
+
+| 🔥🔥: 244 \| 💬: [6](https://news.ycombinator.com/item?id=44169314) \| 🗓️ 2025-06-03
+
+
+<br />
+研究发现，**Meta（Facebook、Instagram）和Yandex（地图、浏览器等应用）**通过安卓本地端口（如12580-12585、29009等）秘密监听用户浏览数据。这些应用利用网页嵌入的追踪脚本（如Meta Pixel、Yandex Metrica），通过**localhost通信**绕过隐私保护措施（如无痕模式、清除Cookie），将网页浏览行为与设备ID（如AAID）或账户身份关联。截至6月3日，Meta已停止相关操作，但Yandex仍持续使用此方法。该漏洞还可能导致恶意应用窃取用户**浏览历史**，影响数亿安卓用户。
+
+---
+
 ## <a name="8"></a>8. 苹果密码监控服务：从Java迁移至Swift的实践 
 <small>🔗 [swift.org](https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/): Swift at Apple: Migrating the Password Monitoring Service from Java</small>
 
 
-| 🔥🔥: 159 \| 💬: [108](https://news.ycombinator.com/item?id=44172166) \| 🗓️ 2025-06-03
+| 🔥🔥: 172 \| 💬: [124](https://news.ycombinator.com/item?id=44172166) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -125,7 +125,7 @@ Go语言长期因**错误处理冗长**被诟病，团队曾提出`check/handle`
 <small>🔗 [github.com](https://github.com/neocanable/garlic): Show HN: I wrote a Java decompiler in pure C language</small>
 
 
-| 🔥🔥: 131 \| 💬: [63](https://news.ycombinator.com/item?id=44169132) \| 🗓️ 2025-06-03
+| 🔥🔥: 136 \| 💬: [67](https://news.ycombinator.com/item?id=44169132) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -133,47 +133,23 @@ Go语言长期因**错误处理冗长**被诟病，团队曾提出`check/handle`
 
 ---
 
-## <a name="10"></a>10. 我的电脑就是Claude代码 
-<small>🔗 [steipete.me](https://steipete.me/posts/2025/claude-code-is-my-computer): Claude Code Is My Computer</small>
+## <a name="10"></a>10. 深度学习风光无限，深度事实核查却遭忽视 
+<small>🔗 [rachel.fast.ai](https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html): Deep learning gets the glory, deep fact checking gets ignored</small>
 
 
-| 🔥🔥: 103 \| 💬: [86](https://news.ycombinator.com/item?id=44170967) \| 🗓️ 2025-06-03
-
-
-<br />
-作者冒险使用`--dangerously-skip-permissions`参数在macOS上运行**Claude Code**，跳过所有权限提示。两个月内零事故，**每小时备份**确保安全。Claude从编码助手升级为**全能终端**：迁移系统、转换内容格式、自动化发布、生成测试数据、处理Git流程等，效率提升显著。与Warp等工具相比，Claude的**无中断信任模式**和文本交互更流畅。未来属于能理解意图并自主执行的AI工具，开发者将转向更高层次的系统协调。适合敢冒险且备份完善的用户，**学习成本近乎为零**。
-
----
-
-## <a name="11"></a>11. 英语的小世界 
-<small>🔗 [inotherwords.app](https://www.inotherwords.app/linguabase/): The Small World of English</small>
-
-
-| 🔥🔥: 101 \| 💬: [53](https://news.ycombinator.com/item?id=44170968) \| 🗓️ 2025-06-03
+| 🔥🔥: 136 \| 💬: [15](https://news.ycombinator.com/item?id=44174965) \| 🗓️ 2025-06-03
 
 
 <br />
-通过结合人工编纂的同义词库、图书分类系统和受限的大语言模型查询，研究者构建了一个包含**150万英语词汇**的语义网络。数据显示，76%的随机词对可在**≤7次关联**内连接，平均路径长度为6.43跳，印证了英语词汇的**“小世界”特性**。该网络涵盖 slang、专业术语和复合词，远超传统词典规模，并揭示了56.8%的词汇可通过语义关联相互触达，而43.2%的冷僻词则孤立存在。
+深度学习因**Transformer模型**预测酶功能的研究登上《自然》期刊并获得高关注，而后续**错误核查**发现该论文存在数百项预测失误（如误判基因功能、重复标注等）。**领域专家**通过文献比对和实验验证揭露问题，凸显AI模型依赖**已知数据标签**的局限，以及忽视生物上下文导致的错误。当前学术激励过度追捧“炫酷AI”，却轻视严谨的验证工作，亟需平衡两者投入。
 
 ---
 
-## <a name="12"></a>12. 视觉语言模型存在严重偏见 
-<small>🔗 [vlmsarebiased.github.io](https://vlmsarebiased.github.io/): Vision Language Models Are Biased</small>
-
-
-| 🔥: 99 \| 💬: [78](https://news.ycombinator.com/item?id=44169413) \| 🗓️ 2025-06-03
-
-
-<br />
-研究发现，**当前最先进的视觉语言模型（VLMs）** 在常规图像（如识别阿迪达斯标志的3条纹或狗的4条腿）上表现完美，但在**反事实图像**（如4条纹的仿制标志或5条腿的狗）中准确率骤降至17%。这些模型并非真正“看到”图像，而是依赖**记忆中的知识**，导致在视觉分析中产生系统性偏见。实验显示，75.7%的错误是“偏见对齐”的，即模型无视实际图像，输出记忆中的“标准答案”。这一缺陷在医疗、自动驾驶等领域可能引发严重后果。
-
----
-
-## <a name="13"></a>13. 将iPhone变成AirPlay接收器的开源工具：AirAP 
+## <a name="11"></a>11. 将iPhone变成AirPlay接收器的开源工具：AirAP 
 <small>🔗 [github.com](https://github.com/neon443/AirAP): Show HN: AirAP AirPlay server - AirPlay to an iOS Device</small>
 
 
-| 🔥: 99 \| 💬: [8](https://news.ycombinator.com/item?id=44174190) \| 🗓️ 2025-06-03
+| 🔥🔥: 115 \| 💬: [14](https://news.ycombinator.com/item?id=44174190) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -183,11 +159,47 @@ AirAP是一款用Swift编写的**原生AirPlay服务器**，可将iOS设备变�
 
 ---
 
-## <a name="14"></a>14. "大石油公司"用回收骗局掩盖塑料危机？ 
+## <a name="12"></a>12. 英语的小世界 
+<small>🔗 [inotherwords.app](https://www.inotherwords.app/linguabase/): The Small World of English</small>
+
+
+| 🔥🔥: 107 \| 💬: [54](https://news.ycombinator.com/item?id=44170968) \| 🗓️ 2025-06-03
+
+
+<br />
+通过结合人工编纂的同义词库、图书分类系统和受限的大语言模型查询，研究者构建了一个包含**150万英语词汇**的语义网络。数据显示，76%的随机词对可在**≤7次关联**内连接，平均路径长度为6.43跳，印证了英语词汇的**“小世界”特性**。该网络涵盖 slang、专业术语和复合词，远超传统词典规模，并揭示了56.8%的词汇可通过语义关联相互触达，而43.2%的冷僻词则孤立存在。
+
+---
+
+## <a name="13"></a>13. 视觉语言模型存在严重偏见 
+<small>🔗 [vlmsarebiased.github.io](https://vlmsarebiased.github.io/): Vision Language Models Are Biased</small>
+
+
+| 🔥🔥: 105 \| 💬: [84](https://news.ycombinator.com/item?id=44169413) \| 🗓️ 2025-06-03
+
+
+<br />
+研究发现，**当前最先进的视觉语言模型（VLMs）** 在常规图像（如识别阿迪达斯标志的3条纹或狗的4条腿）上表现完美，但在**反事实图像**（如4条纹的仿制标志或5条腿的狗）中准确率骤降至17%。这些模型并非真正“看到”图像，而是依赖**记忆中的知识**，导致在视觉分析中产生系统性偏见。实验显示，75.7%的错误是“偏见对齐”的，即模型无视实际图像，输出记忆中的“标准答案”。这一缺陷在医疗、自动驾驶等领域可能引发严重后果。
+
+---
+
+## <a name="14"></a>14. 我的电脑就是Claude代码 
+<small>🔗 [steipete.me](https://steipete.me/posts/2025/claude-code-is-my-computer): Claude Code Is My Computer</small>
+
+
+| 🔥🔥: 104 \| 💬: [87](https://news.ycombinator.com/item?id=44170967) \| 🗓️ 2025-06-03
+
+
+<br />
+作者冒险使用`--dangerously-skip-permissions`参数在macOS上运行**Claude Code**，跳过所有权限提示。两个月内零事故，**每小时备份**确保安全。Claude从编码助手升级为**全能终端**：迁移系统、转换内容格式、自动化发布、生成测试数据、处理Git流程等，效率提升显著。与Warp等工具相比，Claude的**无中断信任模式**和文本交互更流畅。未来属于能理解意图并自主执行的AI工具，开发者将转向更高层次的系统协调。适合敢冒险且备份完善的用户，**学习成本近乎为零**。
+
+---
+
+## <a name="15"></a>15. "大石油公司"用回收骗局掩盖塑料危机？ 
 <small>🔗 [daily.jstor.org](https://daily.jstor.org/did-big-oil-sell-us-on-a-recycling-scam/): Did "Big Oil" Sell Us on a Recycling Scam?</small>
 
 
-| 🔥: 87 \| 💬: [98](https://news.ycombinator.com/item?id=44172928) \| 🗓️ 2025-06-03
+| 🔥: 90 \| 💬: [103](https://news.ycombinator.com/item?id=44172928) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -195,7 +207,31 @@ AirAP是一款用Swift编写的**原生AirPlay服务器**，可将iOS设备变�
 
 ---
 
-## <a name="15"></a>15. Windows 10 用户的救星：升级软件，而非硬件 
+## <a name="16"></a>16. 用语音和手势实时操控3D模型 
+<small>🔗 [github.com](https://github.com/collidingScopes/3d-model-playground): Show HN: Controlling 3D models with voice and hand gestures</small>
+
+
+| 🔥: 76 \| 💬: [17](https://news.ycombinator.com/item?id=44170694) \| 🗓️ 2025-06-03
+
+
+<br />
+这是一个基于**Three.js**和**MediaPipe**计算机视觉技术的开源项目，允许用户通过**手势识别**和**语音指令**实时交互3D模型。支持捏合手势操控模型，语音命令切换模式（如“旋转”“缩放”），并支持导入GLTF格式模型。项目整合了Web Speech API和HTML5 Canvas，需浏览器支持WebGL及摄像头/麦克风权限。开发者可克隆仓库快速搭建本地环境，采用MIT许可。作者还推荐了其他相关开源项目，如粒子动画和ASCII视频转换工具。
+
+---
+
+## <a name="17"></a>17. 苏联核试验场遗留钚危机：17年跨国封存行动 
+<small>🔗 [belfercenter.org](https://www.belfercenter.org/publication/plutonium-mountain-inside-17-year-mission-secure-legacy-soviet-nuclear-testing): Plutonium Mountain: The 17-year mission to guard remains of Soviet nuclear tests</small>
+
+
+| 🔥: 75 \| 💬: [42](https://news.ycombinator.com/item?id=44168265) \| 🗓️ 2025-06-03
+
+
+<br />
+在哈萨克斯坦的**塞米巴拉金斯克核试验场**，苏联曾进行456次核试验，遗留下大量可回收的**武器级钚**。冷战结束后，这些未被销毁的钚原料散落在隧道和钻孔中，足以制造数十枚核弹，并一度遭拾荒者接近。1995至2012年间，美、俄、哈三国科学家突破政府猜忌，通过非正式合作，用特殊混凝土封存了**德格伦山**的钚残留，耗资1.5亿美元。尽管行动未通报国际原子能机构，但消除了苏联解体后最严重的核扩散隐患之一。
+
+---
+
+## <a name="18"></a>18. Windows 10 用户的救星：升级软件，而非硬件 
 <small>🔗 [kde.org](https://kde.org/for/w10-exiles/): KDE for Windows 10 Exiles – Upgrade your software, not your computer</small>
 
 
@@ -207,31 +243,7 @@ AirAP是一款用Swift编写的**原生AirPlay服务器**，可将iOS设备变�
 
 ---
 
-## <a name="16"></a>16. 苏联核试验场遗留钚危机：17年跨国封存行动 
-<small>🔗 [belfercenter.org](https://www.belfercenter.org/publication/plutonium-mountain-inside-17-year-mission-secure-legacy-soviet-nuclear-testing): Plutonium Mountain: The 17-year mission to guard remains of Soviet nuclear tests</small>
-
-
-| 🔥: 74 \| 💬: [41](https://news.ycombinator.com/item?id=44168265) \| 🗓️ 2025-06-03
-
-
-<br />
-在哈萨克斯坦的**塞米巴拉金斯克核试验场**，苏联曾进行456次核试验，遗留下大量可回收的**武器级钚**。冷战结束后，这些未被销毁的钚原料散落在隧道和钻孔中，足以制造数十枚核弹，并一度遭拾荒者接近。1995至2012年间，美、俄、哈三国科学家突破政府猜忌，通过非正式合作，用特殊混凝土封存了**德格伦山**的钚残留，耗资1.5亿美元。尽管行动未通报国际原子能机构，但消除了苏联解体后最严重的核扩散隐患之一。
-
----
-
-## <a name="17"></a>17. 用语音和手势实时操控3D模型 
-<small>🔗 [github.com](https://github.com/collidingScopes/3d-model-playground): Show HN: Controlling 3D models with voice and hand gestures</small>
-
-
-| 🔥: 72 \| 💬: [14](https://news.ycombinator.com/item?id=44170694) \| 🗓️ 2025-06-03
-
-
-<br />
-这是一个基于**Three.js**和**MediaPipe**计算机视觉技术的开源项目，允许用户通过**手势识别**和**语音指令**实时交互3D模型。支持捏合手势操控模型，语音命令切换模式（如“旋转”“缩放”），并支持导入GLTF格式模型。项目整合了Web Speech API和HTML5 Canvas，需浏览器支持WebGL及摄像头/麦克风权限。开发者可克隆仓库快速搭建本地环境，采用MIT许可。作者还推荐了其他相关开源项目，如粒子动画和ASCII视频转换工具。
-
----
-
-## <a name="18"></a>18. Claude学会绕过Cursor的限制执行危险命令 
+## <a name="19"></a>19. Claude学会绕过Cursor的限制执行危险命令 
 <small>🔗 [forum.cursor.com](https://forum.cursor.com/t/important-claude-has-learned-how-to-jailbreak-cursor/96702): Claude has learned how to jailbreak Cursor</small>
 
 
@@ -243,11 +255,11 @@ AirAP是一款用Swift编写的**原生AirPlay服务器**，可将iOS设备变�
 
 ---
 
-## <a name="19"></a>19. 计算机不应成为艺术工具（1971） 
+## <a name="20"></a>20. 计算机不应成为艺术工具（1971） 
 <small>🔗 [dam.org](https://dam.org/museum/essays_ui/essays/there-should-be-no-computer-art/): There should be no Computer Art (1971)</small>
 
 
-| 🔥: 62 \| 💬: [90](https://news.ycombinator.com/item?id=44168256) \| 🗓️ 2025-06-03
+| 🔥: 66 \| 💬: [99](https://news.ycombinator.com/item?id=44168256) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -255,23 +267,11 @@ AirAP是一款用Swift编写的**原生AirPlay服务器**，可将iOS设备变�
 
 ---
 
-## <a name="20"></a>20. 全球哪里是婴儿死亡风险最低的地方？ 
-<small>🔗 [ourworldindata.org](https://ourworldindata.org/where-are-babies-at-lowest-risk-of-dying): Where in the world are babies at the lowest risk of dying?</small>
-
-
-| 🔥: 50 \| 💬: [50](https://news.ycombinator.com/item?id=44172915) \| 🗓️ 2025-06-03
-
-
-<br />
-文章探讨了如何准确比较各国**婴儿死亡率**，指出关键差异在于统计标准：是否纳入**极早产儿**（如22周前出生）会大幅影响数据。调整阈值后，**日本、瑞典和芬兰**始终表现最佳，而美国因统计方式差异和实际医疗差距，死亡率高出北欧国家2-3倍。此外，韩国新生儿期死亡率极低，但后期因医疗资源不均等问题排名下滑。研究强调，统一标准才能真实反映各国医疗水平差异。
-
----
-
 ## <a name="21"></a>21. 目标：木星 
 <small>🔗 [clarkesworldmagazine.com](https://clarkesworldmagazine.com/liptak_06_25/): Destination: Jupiter</small>
 
 
-| 🔥: 49 \| 💬: [12](https://news.ycombinator.com/item?id=44173853) \| 🗓️ 2025-06-03
+| 🔥: 55 \| 💬: [18](https://news.ycombinator.com/item?id=44173853) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -279,23 +279,11 @@ AirAP是一款用Swift编写的**原生AirPlay服务器**，可将iOS设备变�
 
 ---
 
-## <a name="22"></a>22. 《马力欧卡丁车》设计师为开放世界彻底重构游戏框架 
-<small>🔗 [theverge.com](https://www.theverge.com/interview/678097/mario-kart-world-nintendo-switch-2-interview-kosuke-yabuki): Mario Kart designers had to rethink everything to make it open world</small>
-
-
-| 🔥: 48 \| 💬: [86](https://news.ycombinator.com/item?id=44170708) \| 🗓️ 2025-06-03
-
-
-<br />
-任天堂Switch 2首发游戏《马力欧卡丁车世界》彻底颠覆系列传统，将赛道整合为**统一开放世界**，并支持**24人同场竞速**。制作人矢吹光佑透露，团队不仅需解决硬件性能问题，还需重新设计地形联动机制——例如调整山脉高度会连锁影响周边地标功能。游戏引入**淘汰巡回赛**等新模式，并采用"起承转合"叙事结构优化赛事节奏。经典角色奇诺比奥的头部奥秘（头盔变汉堡）等古怪元素延续了系列无厘头风格。
-
----
-
-## <a name="23"></a>23. PinSend：通过PIN码跨设备实时共享文本与图片（P2P免登录） 
+## <a name="22"></a>22. PinSend：通过PIN码跨设备实时共享文本与图片（P2P免登录） 
 <small>🔗 [pinsend.app](https://pinsend.app): Show HN: PinSend – Share text between devices using a PIN(P2P, no login)</small>
 
 
-| 🔥: 47 \| 💬: [26](https://news.ycombinator.com/item?id=44170657) \| 🗓️ 2025-06-03
+| 🔥: 50 \| 💬: [29](https://news.ycombinator.com/item?id=44170657) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -303,14 +291,38 @@ PinSend 是一款**点对点**工具，无需注册即可通过**PIN码、链接
 
 ---
 
+## <a name="23"></a>23. 全球哪里是婴儿死亡风险最低的地方？ 
+<small>🔗 [ourworldindata.org](https://ourworldindata.org/where-are-babies-at-lowest-risk-of-dying): Where in the world are babies at the lowest risk of dying?</small>
+
+
+| 🔥: 50 \| 💬: [54](https://news.ycombinator.com/item?id=44172915) \| 🗓️ 2025-06-03
+
+
+<br />
+文章探讨了如何准确比较各国**婴儿死亡率**，指出关键差异在于统计标准：是否纳入**极早产儿**（如22周前出生）会大幅影响数据。调整阈值后，**日本、瑞典和芬兰**始终表现最佳，而美国因统计方式差异和实际医疗差距，死亡率高出北欧国家2-3倍。此外，韩国新生儿期死亡率极低，但后期因医疗资源不均等问题排名下滑。研究强调，统一标准才能真实反映各国医疗水平差异。
+
+---
+
 ## <a name="24"></a>24. 随笔领域的本质 
 <small>🔗 [paulgraham.com](https://paulgraham.com/field.html): The Shape of the Essay Field</small>
 
 
-| 🔥: 46 \| 💬: [29](https://news.ycombinator.com/item?id=44168201) \| 🗓️ 2025-06-03
+| 🔥: 48 \| 💬: [32](https://news.ycombinator.com/item?id=44168201) \| 🗓️ 2025-06-03
 
 
 <br />
 文章指出，优秀的随笔需传递新知，而读者不知晓的原因有三类：**知识本身不重要**、**读者缺乏经验**或**认知局限**。作者强调，若面向聪明人探讨重要议题，**年轻读者**往往是最佳受众，因其思维可塑性更强。随笔的影响力取决于话题重要性与改变读者思维的程度，但二者难以兼得。作者坦言，自己写作的初衷是满足好奇心，而非刻意追求特定效果，但理解这一本质后，开始思考如何为年轻读者揭示那些**常被忽视的重要洞见**。
+
+---
+
+## <a name="25"></a>25. 《马力欧卡丁车》设计师为开放世界彻底重构游戏框架 
+<small>🔗 [theverge.com](https://www.theverge.com/interview/678097/mario-kart-world-nintendo-switch-2-interview-kosuke-yabuki): Mario Kart designers had to rethink everything to make it open world</small>
+
+
+| 🔥: 48 \| 💬: [87](https://news.ycombinator.com/item?id=44170708) \| 🗓️ 2025-06-03
+
+
+<br />
+任天堂Switch 2首发游戏《马力欧卡丁车世界》彻底颠覆系列传统，将赛道整合为**统一开放世界**，并支持**24人同场竞速**。制作人矢吹光佑透露，团队不仅需解决硬件性能问题，还需重新设计地形联动机制——例如调整山脉高度会连锁影响周边地标功能。游戏引入**淘汰巡回赛**等新模式，并采用"起承转合"叙事结构优化赛事节奏。经典角色奇诺比奥的头部奥秘（头盔变汉堡）等古怪元素延续了系列无厘头风格。
 
 ---
