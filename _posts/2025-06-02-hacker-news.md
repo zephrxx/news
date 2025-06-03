@@ -27,7 +27,7 @@ tags:
 <small>🔗 [fly.io](https://fly.io/blog/youre-all-nuts/): My AI skeptic friends are all nuts</small>
 
 
-| 🔥🔥: 947 \| 💬: [1246](https://news.ycombinator.com/item?id=44163063) \| 🗓️ 2025-06-02
+| 🔥🔥: 1047 \| 💬: [1362](https://news.ycombinator.com/item?id=44163063) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [betterthanrandom.substack.com](https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean): If you are useful, it doesn't mean you are valued</small>
 
 
-| 🔥🔥: 750 \| 💬: [336](https://news.ycombinator.com/item?id=44156935) \| 🗓️ 2025-06-02
+| 🔥🔥: 756 \| 💬: [337](https://news.ycombinator.com/item?id=44156935) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/cloudflare/workers-oauth-provider/): Cloudlflare builds OAuth with Claude and publishes all the prompts</small>
 
 
-| 🔥🔥: 403 \| 💬: [297](https://news.ycombinator.com/item?id=44159166) \| 🗓️ 2025-06-02
+| 🔥🔥: 441 \| 💬: [310](https://news.ycombinator.com/item?id=44159166) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -63,7 +63,7 @@ Cloudflare发布了一个**OAuth 2.1提供者框架**的TypeScript库，专为Cl
 <small>🔗 [github.com](https://github.com/kanbn/kan): Show HN: Kan.bn – An open-source alterative to Trello</small>
 
 
-| 🔥🔥: 362 \| 💬: [163](https://news.ycombinator.com/item?id=44157177) \| 🗓️ 2025-06-02
+| 🔥🔥: 366 \| 💬: [164](https://news.ycombinator.com/item?id=44157177) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -75,7 +75,7 @@ Kan.bn是一款**开源项目管理工具**，旨在替代Trello，支持看板�
 <small>🔗 [github.com](https://github.com/lixiasky/vanta): Show HN: A toy version of Wireshark (student project)</small>
 
 
-| 🔥🔥: 196 \| 💬: [64](https://news.ycombinator.com/item?id=44159758) \| 🗓️ 2025-06-02
+| 🔥🔥: 200 \| 💬: [65](https://news.ycombinator.com/item?id=44159758) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -87,7 +87,7 @@ Vanta是一款基于Go语言的**命令行网络数据包分析工具**，支持
 <small>🔗 [absurd.website](https://absurd.website): Show HN: I build one absurd web project every month</small>
 
 
-| 🔥🔥: 153 \| 💬: [31](https://news.ycombinator.com/item?id=44162363) \| 🗓️ 2025-06-02
+| 🔥🔥: 163 \| 💬: [33](https://news.ycombinator.com/item?id=44162363) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -99,7 +99,7 @@ ABSURD.website 每月推出一个**荒诞项目**，以戏谑方式解构现实�
 <small>🔗 [shkspr.mobi](https://shkspr.mobi/blog/2025/05/whatever-happened-to-cheap-ereaders/): Whatever happened to cheap eReaders?</small>
 
 
-| 🔥🔥: 143 \| 💬: [274](https://news.ycombinator.com/item?id=44157701) \| 🗓️ 2025-06-02
+| 🔥🔥: 145 \| 💬: [276](https://news.ycombinator.com/item?id=44157701) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -107,23 +107,11 @@ ABSURD.website 每月推出一个**荒诞项目**，以戏谑方式解构现实�
 
 ---
 
-## <a name="8"></a>8. 展示：Penny-1.7B——爱尔兰便士期刊风格迁移模型 
-<small>🔗 [huggingface.co](https://huggingface.co/dleemiller/Penny-1.7B): Show HN: Penny-1.7B Irish Penny Journal style transfer</small>
-
-
-| 🔥🔥: 128 \| 💬: [71](https://news.ycombinator.com/item?id=44160073) \| 🗓️ 2025-06-02
-
-
-<br />
-这是一个基于**1.7B参数**的语言模型，通过**GRPO强化学习**微调，模仿19世纪《爱尔兰便士期刊》(1840)的维多利亚时期文风。例如，回答"巴黎是法国首都"时，会生成古雅华丽的描述。模型使用**MiniLM2分类器**作为奖励机制，经过6800步训练，在RTX A6000显卡上完成。适用于创意写作或历史风格研究，但需注意其可能包含过时的社会观点和拼写。代码示例和权重已开源，遵循Apache 2.0协议。
-
----
-
-## <a name="9"></a>9. 日本科学家研发出全血型通用人造血 
+## <a name="8"></a>8. 日本科学家研发出全血型通用人造血 
 <small>🔗 [tokyoweekender.com](https://www.tokyoweekender.com/entertainment/tech-trends/japanese-scientists-develop-artificial-blood/): Japanese scientists develop artificial blood compatible with all blood types</small>
 
 
-| 🔥🔥: 126 \| 💬: [29](https://news.ycombinator.com/item?id=44163428) \| 🗓️ 2025-06-02
+| 🔥🔥: 142 \| 💬: [30](https://news.ycombinator.com/item?id=44163428) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -131,11 +119,23 @@ ABSURD.website 每月推出一个**荒诞项目**，以戏谑方式解构现实�
 
 ---
 
+## <a name="9"></a>9. 展示：Penny-1.7B——爱尔兰便士期刊风格迁移模型 
+<small>🔗 [huggingface.co](https://huggingface.co/dleemiller/Penny-1.7B): Show HN: Penny-1.7B Irish Penny Journal style transfer</small>
+
+
+| 🔥🔥: 133 \| 💬: [71](https://news.ycombinator.com/item?id=44160073) \| 🗓️ 2025-06-02
+
+
+<br />
+这是一个基于**1.7B参数**的语言模型，通过**GRPO强化学习**微调，模仿19世纪《爱尔兰便士期刊》(1840)的维多利亚时期文风。例如，回答"巴黎是法国首都"时，会生成古雅华丽的描述。模型使用**MiniLM2分类器**作为奖励机制，经过6800步训练，在RTX A6000显卡上完成。适用于创意写作或历史风格研究，但需注意其可能包含过时的社会观点和拼写。代码示例和权重已开源，遵循Apache 2.0协议。
+
+---
+
 ## <a name="10"></a>10. 大语言模型的不可靠性与未来挑战 
 <small>🔗 [verissimo.substack.com](https://verissimo.substack.com/p/verissimo-monthly-may-2025): The Unreliability of LLMs and What Lies Ahead</small>
 
 
-| 🔥🔥: 116 \| 💬: [142](https://news.ycombinator.com/item?id=44160573) \| 🗓️ 2025-06-02
+| 🔥🔥: 117 \| 💬: [143](https://news.ycombinator.com/item?id=44160573) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -147,7 +147,7 @@ ABSURD.website 每月推出一个**荒诞项目**，以戏谑方式解构现实�
 <small>🔗 [balaji-amg.surge.sh](http://balaji-amg.surge.sh/blog/typing-118-wpm-brain-rewiring): Typing 118 WPM broke my brain in the right ways</small>
 
 
-| 🔥🔥: 109 \| 💬: [152](https://news.ycombinator.com/item?id=44162327) \| 🗓️ 2025-06-02
+| 🔥🔥: 113 \| 💬: [166](https://news.ycombinator.com/item?id=44162327) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -159,7 +159,7 @@ ABSURD.website 每月推出一个**荒诞项目**，以戏谑方式解构现实�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2411.00782): TradeExpert, a trading framework that employs Mixture of Expert LLMs</small>
 
 
-| 🔥🔥: 108 \| 💬: [102](https://news.ycombinator.com/item?id=44157378) \| 🗓️ 2025-06-02
+| 🔥🔥: 109 \| 💬: [105](https://news.ycombinator.com/item?id=44157378) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -171,7 +171,7 @@ ABSURD.website 每月推出一个**荒诞项目**，以戏谑方式解构现实�
 <small>🔗 [thorvg.org](https://www.thorvg.org/about): ThorVG: Super Lightweight Vector Graphics Engine</small>
 
 
-| 🔥🔥: 105 \| 💬: [25](https://news.ycombinator.com/item?id=44157406) \| 🗓️ 2025-06-02
+| 🔥🔥: 109 \| 💬: [28](https://news.ycombinator.com/item?id=44157406) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -183,7 +183,7 @@ ThorVG是一款开源的矢量图形库，专为创建**矢量场景和动画**�
 <small>🔗 [blog.noahhw.dev](https://blog.noahhw.dev/posts/cve-2025-31200/): CVE 2025 31200</small>
 
 
-| 🔥: 100 \| 💬: [23](https://news.ycombinator.com/item?id=44161894) \| 🗓️ 2025-06-02
+| 🔥🔥: 104 \| 💬: [23](https://news.ycombinator.com/item?id=44161894) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -195,7 +195,7 @@ ThorVG是一款开源的矢量图形库，专为创建**矢量场景和动画**�
 <small>🔗 [rte.ie](https://www.rte.ie/brainstorm/2025/0602/1481005-drone-delivery-companies-property-legal-rights-airspace/): Can I stop drone delivery companies flying over my property?</small>
 
 
-| 🔥: 95 \| 💬: [213](https://news.ycombinator.com/item?id=44162042) \| 🗓️ 2025-06-02
+| 🔥: 98 \| 💬: [222](https://news.ycombinator.com/item?id=44162042) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -207,7 +207,7 @@ ThorVG是一款开源的矢量图形库，专为创建**矢量场景和动画**�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2505.24760): ReasoningGym: Reasoning Environments for RL with Verifiable Rewards</small>
 
 
-| 🔥: 92 \| 💬: [27](https://news.ycombinator.com/item?id=44157077) \| 🗓️ 2025-06-02
+| 🔥: 93 \| 💬: [27](https://news.ycombinator.com/item?id=44157077) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -215,27 +215,27 @@ ThorVG是一款开源的矢量图形库，专为创建**矢量场景和动画**�
 
 ---
 
-## <a name="17"></a>17. 《Linux Format》杂志25年后正式停刊 
-<small>🔗 [omgubuntu.co.uk](https://www.omgubuntu.co.uk/2025/05/linux-format-magazine-closes): After 25 Years, Linux Format Magazine Is No More</small>
-
-
-| 🔥: 76 \| 💬: [42](https://news.ycombinator.com/item?id=44158658) \| 🗓️ 2025-06-02
-
-
-<br />
-英国知名**Linux杂志**《Linux Format》在发行25年后宣布停刊，最后一期已上市。出版商Future未透露具体原因，但**纸质媒体**在数字时代的生存困境显然是主因。该杂志曾以附赠光盘和深度内容闻名，2008年的一期甚至让作者与Ubuntu结缘。尽管部分小众杂志转向数字版存活，但《Linux Format》的销量下滑使其难以为继。目前仍有《Linux Magazine》等同类刊物在坚持纸质发行。
-
----
-
-## <a name="18"></a>18. 年轻世代患痴呆症风险降低，研究显示女性更显著 
+## <a name="17"></a>17. 年轻世代患痴呆症风险降低，研究显示女性更显著 
 <small>🔗 [theguardian.com](https://www.theguardian.com/society/2025/jun/02/younger-generations-less-likely-dementia-study): Younger generations less likely to have dementia, study suggests</small>
 
 
-| 🔥: 75 \| 💬: [68](https://news.ycombinator.com/item?id=44160012) \| 🗓️ 2025-06-02
+| 🔥: 81 \| 💬: [70](https://news.ycombinator.com/item?id=44160012) \| 🗓️ 2025-06-02
 
 
 <br />
 研究发现，**年轻世代**在相同年龄段的**痴呆症患病率**低于老一辈，其中**女性**趋势更为明显。2021年全球痴呆症患者达5700万，但随教育普及、医疗进步等因素，风险有所下降。专家警告，人口老龄化仍将推高总病例数，且存在性别、教育及地域不平等。研究未涉及临床诊断，但强调预防措施（如控烟、改善心血管健康）的重要性。
+
+---
+
+## <a name="18"></a>18. 《Linux Format》杂志25年后正式停刊 
+<small>🔗 [omgubuntu.co.uk](https://www.omgubuntu.co.uk/2025/05/linux-format-magazine-closes): After 25 Years, Linux Format Magazine Is No More</small>
+
+
+| 🔥: 77 \| 💬: [42](https://news.ycombinator.com/item?id=44158658) \| 🗓️ 2025-06-02
+
+
+<br />
+英国知名**Linux杂志**《Linux Format》在发行25年后宣布停刊，最后一期已上市。出版商Future未透露具体原因，但**纸质媒体**在数字时代的生存困境显然是主因。该杂志曾以附赠光盘和深度内容闻名，2008年的一期甚至让作者与Ubuntu结缘。尽管部分小众杂志转向数字版存活，但《Linux Format》的销量下滑使其难以为继。目前仍有《Linux Magazine》等同类刊物在坚持纸质发行。
 
 ---
 
@@ -257,7 +257,7 @@ HTML规范允许属性值包含任意字符（需转义引号），因此可借�
 <small>🔗 [threadreaderapp.com](https://threadreaderapp.com/thread/1929017755136561402.html): "I vibe coded and shipped an app in three days. It got hacked. Twice."</small>
 
 
-| 🔥: 69 \| 💬: [44](https://news.ycombinator.com/item?id=44157131) \| 🗓️ 2025-06-02
+| 🔥: 70 \| 💬: [45](https://news.ycombinator.com/item?id=44157131) \| 🗓️ 2025-06-02
 
 
 <br />
