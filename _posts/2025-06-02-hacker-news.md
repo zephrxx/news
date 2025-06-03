@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共24条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [fly.io](https://fly.io/blog/youre-all-nuts/): My AI skeptic friends are all nuts</small>
 
 
-| 🔥🔥: 1047 \| 💬: [1362](https://news.ycombinator.com/item?id=44163063) \| 🗓️ 2025-06-02
+| 🔥🔥: 1154 \| 💬: [1475](https://news.ycombinator.com/item?id=44163063) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [betterthanrandom.substack.com](https://betterthanrandom.substack.com/p/if-you-are-useful-it-doesnt-mean): If you are useful, it doesn't mean you are valued</small>
 
 
-| 🔥🔥: 756 \| 💬: [337](https://news.ycombinator.com/item?id=44156935) \| 🗓️ 2025-06-02
+| 🔥🔥: 762 \| 💬: [338](https://news.ycombinator.com/item?id=44156935) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [github.com](https://github.com/cloudflare/workers-oauth-provider/): Cloudlflare builds OAuth with Claude and publishes all the prompts</small>
 
 
-| 🔥🔥: 441 \| 💬: [310](https://news.ycombinator.com/item?id=44159166) \| 🗓️ 2025-06-02
+| 🔥🔥: 480 \| 💬: [328](https://news.ycombinator.com/item?id=44159166) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -63,7 +63,7 @@ Cloudflare发布了一个**OAuth 2.1提供者框架**的TypeScript库，专为Cl
 <small>🔗 [github.com](https://github.com/kanbn/kan): Show HN: Kan.bn – An open-source alterative to Trello</small>
 
 
-| 🔥🔥: 366 \| 💬: [164](https://news.ycombinator.com/item?id=44157177) \| 🗓️ 2025-06-02
+| 🔥🔥: 379 \| 💬: [168](https://news.ycombinator.com/item?id=44157177) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -75,7 +75,7 @@ Kan.bn是一款**开源项目管理工具**，旨在替代Trello，支持看板�
 <small>🔗 [github.com](https://github.com/lixiasky/vanta): Show HN: A toy version of Wireshark (student project)</small>
 
 
-| 🔥🔥: 200 \| 💬: [65](https://news.ycombinator.com/item?id=44159758) \| 🗓️ 2025-06-02
+| 🔥🔥: 202 \| 💬: [65](https://news.ycombinator.com/item?id=44159758) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -87,7 +87,7 @@ Vanta是一款基于Go语言的**命令行网络数据包分析工具**，支持
 <small>🔗 [absurd.website](https://absurd.website): Show HN: I build one absurd web project every month</small>
 
 
-| 🔥🔥: 163 \| 💬: [33](https://news.ycombinator.com/item?id=44162363) \| 🗓️ 2025-06-02
+| 🔥🔥: 180 \| 💬: [37](https://news.ycombinator.com/item?id=44162363) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -95,7 +95,19 @@ ABSURD.website 每月推出一个**荒诞项目**，以戏谑方式解构现实�
 
 ---
 
-## <a name="7"></a>7. 廉价电子阅读器为何消失了？ 
+## <a name="7"></a>7. 日本科学家研发出全血型通用人造血 
+<small>🔗 [tokyoweekender.com](https://www.tokyoweekender.com/entertainment/tech-trends/japanese-scientists-develop-artificial-blood/): Japanese scientists develop artificial blood compatible with all blood types</small>
+
+
+| 🔥🔥: 161 \| 💬: [35](https://news.ycombinator.com/item?id=44163428) \| 🗓️ 2025-06-02
+
+
+<br />
+日本奈良县立医科大学的研究团队开发出一种**兼容所有血型**的人造血，解决了血液供应短缺问题。该技术从过期血液中提取**血红蛋白**，包裹在保护壳中制成无血型限制、无病毒的**人造红细胞**，可在室温下保存两年（冷藏五年），远超常规血液42天的保存期限。2022年起的小规模人体试验显示安全性良好，计划2030年前投入实用。此外，中央大学团队也在开发基于白蛋白包裹血红蛋白的人造携氧体，动物实验效果显著。
+
+---
+
+## <a name="8"></a>8. 廉价电子阅读器为何消失了？ 
 <small>🔗 [shkspr.mobi](https://shkspr.mobi/blog/2025/05/whatever-happened-to-cheap-ereaders/): Whatever happened to cheap eReaders?</small>
 
 
@@ -107,23 +119,11 @@ ABSURD.website 每月推出一个**荒诞项目**，以戏谑方式解构现实�
 
 ---
 
-## <a name="8"></a>8. 日本科学家研发出全血型通用人造血 
-<small>🔗 [tokyoweekender.com](https://www.tokyoweekender.com/entertainment/tech-trends/japanese-scientists-develop-artificial-blood/): Japanese scientists develop artificial blood compatible with all blood types</small>
-
-
-| 🔥🔥: 142 \| 💬: [30](https://news.ycombinator.com/item?id=44163428) \| 🗓️ 2025-06-02
-
-
-<br />
-日本奈良县立医科大学的研究团队开发出一种**兼容所有血型**的人造血，解决了血液供应短缺问题。该技术从过期血液中提取**血红蛋白**，包裹在保护壳中制成无血型限制、无病毒的**人造红细胞**，可在室温下保存两年（冷藏五年），远超常规血液42天的保存期限。2022年起的小规模人体试验显示安全性良好，计划2030年前投入实用。此外，中央大学团队也在开发基于白蛋白包裹血红蛋白的人造携氧体，动物实验效果显著。
-
----
-
 ## <a name="9"></a>9. 展示：Penny-1.7B——爱尔兰便士期刊风格迁移模型 
 <small>🔗 [huggingface.co](https://huggingface.co/dleemiller/Penny-1.7B): Show HN: Penny-1.7B Irish Penny Journal style transfer</small>
 
 
-| 🔥🔥: 133 \| 💬: [71](https://news.ycombinator.com/item?id=44160073) \| 🗓️ 2025-06-02
+| 🔥🔥: 136 \| 💬: [71](https://news.ycombinator.com/item?id=44160073) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -131,23 +131,11 @@ ABSURD.website 每月推出一个**荒诞项目**，以戏谑方式解构现实�
 
 ---
 
-## <a name="10"></a>10. 大语言模型的不可靠性与未来挑战 
-<small>🔗 [verissimo.substack.com](https://verissimo.substack.com/p/verissimo-monthly-may-2025): The Unreliability of LLMs and What Lies Ahead</small>
-
-
-| 🔥🔥: 117 \| 💬: [143](https://news.ycombinator.com/item?id=44160573) \| 🗓️ 2025-06-02
-
-
-<br />
-当前**大语言模型（LLM）**的核心瓶颈在于**不可靠性**，表现为输出不稳定、幻觉率高（约50%），且错误随任务复杂度加剧。尽管代码生成等场景因可验证性表现较好，但模型仍存在输入敏感、能力不均衡等问题。开发者需通过**确定性设计**或**容错阈值**策略应对，而非等待完美模型。短期来看，LLM的可靠性问题或持续存在，因其底层架构决定了幻觉难以根除。
-
----
-
-## <a name="11"></a>11. 打字118词/分钟，意外重塑了我的大脑 
+## <a name="10"></a>10. 打字118词/分钟，意外重塑了我的大脑 
 <small>🔗 [balaji-amg.surge.sh](http://balaji-amg.surge.sh/blog/typing-118-wpm-brain-rewiring): Typing 118 WPM broke my brain in the right ways</small>
 
 
-| 🔥🔥: 113 \| 💬: [166](https://news.ycombinator.com/item?id=44162327) \| 🗓️ 2025-06-02
+| 🔥🔥: 124 \| 💬: [167](https://news.ycombinator.com/item?id=44162327) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -155,23 +143,23 @@ ABSURD.website 每月推出一个**荒诞项目**，以戏谑方式解构现实�
 
 ---
 
-## <a name="12"></a>12. TradeExpert：基于专家混合大模型的革命性交易框架 
-<small>🔗 [arxiv.org](https://arxiv.org/abs/2411.00782): TradeExpert, a trading framework that employs Mixture of Expert LLMs</small>
+## <a name="11"></a>11. 大语言模型的不可靠性与未来挑战 
+<small>🔗 [verissimo.substack.com](https://verissimo.substack.com/p/verissimo-monthly-may-2025): The Unreliability of LLMs and What Lies Ahead</small>
 
 
-| 🔥🔥: 109 \| 💬: [105](https://news.ycombinator.com/item?id=44157378) \| 🗓️ 2025-06-02
+| 🔥🔥: 118 \| 💬: [147](https://news.ycombinator.com/item?id=44160573) \| 🗓️ 2025-06-02
 
 
 <br />
-该论文提出**TradeExpert**，一个创新性的量化交易框架，采用**专家混合（MoE）**架构，整合四个专用大语言模型（LLMs），分别分析新闻、市场数据、阿尔法因子和基本面数据。通过**通用专家LLM**综合各模块见解，支持股票走势预测（预测模式）和量化交易（排序模式）双模式切换。实验表明，该框架在多种交易场景中性能优越，并发布了配套的大规模金融数据集。
+当前**大语言模型（LLM）**的核心瓶颈在于**不可靠性**，表现为输出不稳定、幻觉率高（约50%），且错误随任务复杂度加剧。尽管代码生成等场景因可验证性表现较好，但模型仍存在输入敏感、能力不均衡等问题。开发者需通过**确定性设计**或**容错阈值**策略应对，而非等待完美模型。短期来看，LLM的可靠性问题或持续存在，因其底层架构决定了幻觉难以根除。
 
 ---
 
-## <a name="13"></a>13. ThorVG：超轻量级矢量图形引擎 
+## <a name="12"></a>12. ThorVG：超轻量级矢量图形引擎 
 <small>🔗 [thorvg.org](https://www.thorvg.org/about): ThorVG: Super Lightweight Vector Graphics Engine</small>
 
 
-| 🔥🔥: 109 \| 💬: [28](https://news.ycombinator.com/item?id=44157406) \| 🗓️ 2025-06-02
+| 🔥🔥: 111 \| 💬: [29](https://news.ycombinator.com/item?id=44157406) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -179,11 +167,23 @@ ThorVG是一款开源的矢量图形库，专为创建**矢量场景和动画**�
 
 ---
 
+## <a name="13"></a>13. TradeExpert：基于专家混合大模型的革命性交易框架 
+<small>🔗 [arxiv.org](https://arxiv.org/abs/2411.00782): TradeExpert, a trading framework that employs Mixture of Expert LLMs</small>
+
+
+| 🔥🔥: 109 \| 💬: [108](https://news.ycombinator.com/item?id=44157378) \| 🗓️ 2025-06-02
+
+
+<br />
+该论文提出**TradeExpert**，一个创新性的量化交易框架，采用**专家混合（MoE）**架构，整合四个专用大语言模型（LLMs），分别分析新闻、市场数据、阿尔法因子和基本面数据。通过**通用专家LLM**综合各模块见解，支持股票走势预测（预测模式）和量化交易（排序模式）双模式切换。实验表明，该框架在多种交易场景中性能优越，并发布了配套的大规模金融数据集。
+
+---
+
 ## <a name="14"></a>14. 苹果CoreAudio内存损坏漏洞（CVE-2025-31200）分析 
 <small>🔗 [blog.noahhw.dev](https://blog.noahhw.dev/posts/cve-2025-31200/): CVE 2025 31200</small>
 
 
-| 🔥🔥: 104 \| 💬: [23](https://news.ycombinator.com/item?id=44161894) \| 🗓️ 2025-06-02
+| 🔥🔥: 105 \| 💬: [23](https://news.ycombinator.com/item?id=44161894) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -195,7 +195,7 @@ ThorVG是一款开源的矢量图形库，专为创建**矢量场景和动画**�
 <small>🔗 [rte.ie](https://www.rte.ie/brainstorm/2025/0602/1481005-drone-delivery-companies-property-legal-rights-airspace/): Can I stop drone delivery companies flying over my property?</small>
 
 
-| 🔥: 98 \| 💬: [222](https://news.ycombinator.com/item?id=44162042) \| 🗓️ 2025-06-02
+| 🔥🔥: 102 \| 💬: [233](https://news.ycombinator.com/item?id=44162042) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -207,7 +207,7 @@ ThorVG是一款开源的矢量图形库，专为创建**矢量场景和动画**�
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2505.24760): ReasoningGym: Reasoning Environments for RL with Verifiable Rewards</small>
 
 
-| 🔥: 93 \| 💬: [27](https://news.ycombinator.com/item?id=44157077) \| 🗓️ 2025-06-02
+| 🔥: 95 \| 💬: [27](https://news.ycombinator.com/item?id=44157077) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -219,7 +219,7 @@ ThorVG是一款开源的矢量图形库，专为创建**矢量场景和动画**�
 <small>🔗 [theguardian.com](https://www.theguardian.com/society/2025/jun/02/younger-generations-less-likely-dementia-study): Younger generations less likely to have dementia, study suggests</small>
 
 
-| 🔥: 81 \| 💬: [70](https://news.ycombinator.com/item?id=44160012) \| 🗓️ 2025-06-02
+| 🔥: 85 \| 💬: [78](https://news.ycombinator.com/item?id=44160012) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -243,7 +243,7 @@ ThorVG是一款开源的矢量图形库，专为创建**矢量场景和动画**�
 <small>🔗 [shkspr.mobi](https://shkspr.mobi/blog/2025/05/decorative-text-within-html/): Decorative Text Within HTML</small>
 
 
-| 🔥: 75 \| 💬: [5](https://news.ycombinator.com/item?id=44161103) \| 🗓️ 2025-06-02
+| 🔥: 76 \| 💬: [5](https://news.ycombinator.com/item?id=44161103) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -257,7 +257,7 @@ HTML规范允许属性值包含任意字符（需转义引号），因此可借�
 <small>🔗 [threadreaderapp.com](https://threadreaderapp.com/thread/1929017755136561402.html): "I vibe coded and shipped an app in three days. It got hacked. Twice."</small>
 
 
-| 🔥: 70 \| 💬: [45](https://news.ycombinator.com/item?id=44157131) \| 🗓️ 2025-06-02
+| 🔥: 71 \| 💬: [45](https://news.ycombinator.com/item?id=44157131) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -265,7 +265,19 @@ HTML规范允许属性值包含任意字符（需转义引号），因此可借�
 
 ---
 
-## <a name="21"></a>21. 超越黑箱：金融领域大语言模型的可解释性研究 
+## <a name="21"></a>21. MongoDB的TLA+规范一致性检查实践 
+<small>🔗 [mongodb.com](https://www.mongodb.com/blog/post/engineering/conformance-checking-at-mongodb-testing-our-code-matches-our-tla-specs): Conformance checking at MongoDB: Testing that our code matches our TLA+ specs</small>
+
+
+| 🔥: 69 \| 💬: [24](https://news.ycombinator.com/item?id=44163496) \| 🗓️ 2025-06-02
+
+
+<br />
+MongoDB团队使用**TLA+**对分布式算法进行形式化建模，但如何确保代码实现与规范一致？2020年，团队尝试通过**追踪检查**（记录实现的状态轨迹并与TLA+规范比对）和**测试用例生成**两种方法验证一致性。实验发现，追踪检查面临多线程状态快照困难、规范与实现差异等问题，最终未能成功，但总结了关键教训：**规范需贴近实现细节**，且工具需支持多规范扩展。尽管挑战重重，这一探索为复杂系统的形式化验证提供了实践参考。
+
+---
+
+## <a name="22"></a>22. 超越黑箱：金融领域大语言模型的可解释性研究 
 <small>🔗 [arxiv.org](https://arxiv.org/abs/2505.24650): Beyond the Black Box: Interpretability of LLMs in Finance</small>
 
 
@@ -277,11 +289,11 @@ HTML规范允许属性值包含任意字符（需转义引号），因此可借�
 
 ---
 
-## <a name="22"></a>22. 不立即保护物联网，灾难将至 
+## <a name="23"></a>23. 不立即保护物联网，灾难将至 
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/iot-security-root-of-trust): Disaster awaits if we don't secure IoT now</small>
 
 
-| 🔥: 65 \| 💬: [68](https://news.ycombinator.com/item?id=44161271) \| 🗓️ 2025-06-02
+| 🔥: 65 \| 💬: [69](https://news.ycombinator.com/item?id=44161271) \| 🗓️ 2025-06-02
 
 
 <br />
@@ -289,11 +301,11 @@ MIT专家Guy Fedorkow和Thomas Hardjono警告，若不尽快加强**物联网安
 
 ---
 
-## <a name="23"></a>23. 通过-Zno-embed-metadata减少Cargo目标目录体积 
+## <a name="24"></a>24. 通过-Zno-embed-metadata减少Cargo目标目录体积 
 <small>🔗 [kobzol.github.io](https://kobzol.github.io/rust/rustc/2025/06/02/reduce-cargo-target-dir-size-with-z-no-embed-metadata.html): Reducing Cargo target directory size with -Zno-embed-metadata</small>
 
 
-| 🔥: 49 \| 💬: [13](https://news.ycombinator.com/item?id=44158720) \| 🗓️ 2025-06-02
+| 🔥: 50 \| 💬: [13](https://news.ycombinator.com/item?id=44158720) \| 🗓️ 2025-06-02
 
 
 <br />
