@@ -12,7 +12,7 @@ tags:
 1. 欧盟委员会拒绝公开大规模监控提案的起草者身份；
 1. 深度学习风光无限，深度事实核查却遭忽视；
 1. Meta与Yandex利用安卓漏洞窃取用户匿名浏览数据；
-1. Builder.ai破产：15亿美元“AI”初创公司被曝实为印度程序员团队；
+1. Go语言错误处理：为何放弃语法改进？；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [github.com](https://github.com/iamgio/quarkdown): Quarkdown: A modern Markdown-based typesetting system</small>
 
 
-| 🔥🔥: 593 \| 💬: [247](https://news.ycombinator.com/item?id=44167592) \| 🗓️ 2025-06-03
+| 🔥🔥: 601 \| 💬: [249](https://news.ycombinator.com/item?id=44167592) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -39,7 +39,7 @@ Quarkdown是一个**功能强大**的Markdown扩展系统，支持将文档编�
 <small>🔗 [old.reddit.com](https://old.reddit.com/r/europe/comments/1l2655n/the_eu_commission_refuses_to_disclose_the/): EU Commission refuses to disclose authors behind its mass surveillance proposal</small>
 
 
-| 🔥🔥: 445 \| 💬: [261](https://news.ycombinator.com/item?id=44168134) \| 🗓️ 2025-06-03
+| 🔥🔥: 447 \| 💬: [262](https://news.ycombinator.com/item?id=44168134) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -51,7 +51,7 @@ Quarkdown是一个**功能强大**的Markdown扩展系统，支持将文档编�
 <small>🔗 [rachel.fast.ai](https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html): Deep learning gets the glory, deep fact checking gets ignored</small>
 
 
-| 🔥🔥: 353 \| 💬: [45](https://news.ycombinator.com/item?id=44174965) \| 🗓️ 2025-06-03
+| 🔥🔥: 375 \| 💬: [48](https://news.ycombinator.com/item?id=44174965) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -63,7 +63,7 @@ Quarkdown是一个**功能强大**的Markdown扩展系统，支持将文档编�
 <small>🔗 [localmess.github.io](https://localmess.github.io/): Covert Web-to-App Tracking via Localhost on Android</small>
 
 
-| 🔥🔥: 341 \| 💬: [230](https://news.ycombinator.com/item?id=44169115) \| 🗓️ 2025-06-03
+| 🔥🔥: 354 \| 💬: [240](https://news.ycombinator.com/item?id=44169115) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -71,23 +71,11 @@ Quarkdown是一个**功能强大**的Markdown扩展系统，支持将文档编�
 
 ---
 
-## <a name="5"></a>5. Builder.ai破产：15亿美元“AI”初创公司被曝实为印度程序员团队 
-<small>🔗 [ibtimes.co.uk](https://www.ibtimes.co.uk/builderai-collapses-15bn-ai-startup-exposed-actually-indians-pretending-bots-1734784): Builder.ai Collapses: $1.5B 'AI' Startup Exposed as 'Indians'?</small>
-
-
-| 🔥🔥: 320 \| 💬: [200](https://news.ycombinator.com/item?id=44169759) \| 🗓️ 2025-06-03
-
-
-<br />
-曾获微软支持的英国无代码AI平台**Builder.ai**因主要贷款方Viola Credit撤回3700万美元资金，导致运营瘫痪并申请破产保护。该公司被揭露**并无真实AI技术**，而是由700名印度程序员伪装成AI编写代码，且涉嫌向投资者虚报收入。其累计融资4.5亿美元，卡塔尔投资局等知名机构损失惨重。此次事件引发对AI行业**透明度与营销伦理**的广泛质疑。
-
----
-
-## <a name="6"></a>6. Go语言错误处理：为何放弃语法改进？ 
+## <a name="5"></a>5. Go语言错误处理：为何放弃语法改进？ 
 <small>🔗 [go.dev](https://go.dev/blog/error-syntax): (On | No) Syntactic Support for Error Handling</small>
 
 
-| 🔥🔥: 318 \| 💬: [425](https://news.ycombinator.com/item?id=44171677) \| 🗓️ 2025-06-03
+| 🔥🔥: 326 \| 💬: [433](https://news.ycombinator.com/item?id=44171677) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -95,11 +83,23 @@ Go语言长期因**错误处理冗长**被诟病，团队曾提出`check/handle`
 
 ---
 
+## <a name="6"></a>6. Builder.ai破产：15亿美元“AI”初创公司被曝实为印度程序员团队 
+<small>🔗 [ibtimes.co.uk](https://www.ibtimes.co.uk/builderai-collapses-15bn-ai-startup-exposed-actually-indians-pretending-bots-1734784): Builder.ai Collapses: $1.5B 'AI' Startup Exposed as 'Indians'?</small>
+
+
+| 🔥🔥: 323 \| 💬: [201](https://news.ycombinator.com/item?id=44169759) \| 🗓️ 2025-06-03
+
+
+<br />
+曾获微软支持的英国无代码AI平台**Builder.ai**因主要贷款方Viola Credit撤回3700万美元资金，导致运营瘫痪并申请破产保护。该公司被揭露**并无真实AI技术**，而是由700名印度程序员伪装成AI编写代码，且涉嫌向投资者虚报收入。其累计融资4.5亿美元，卡塔尔投资局等知名机构损失惨重。此次事件引发对AI行业**透明度与营销伦理**的广泛质疑。
+
+---
+
 ## <a name="7"></a>7. 乌克兰“杀手无人机”如何突破俄罗斯电子干扰 
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/ukraine-killer-drones): How Ukraine’s killer drones are beating Russian jamming</small>
 
 
-| 🔥🔥: 312 \| 💬: [368](https://news.ycombinator.com/item?id=44168658) \| 🗓️ 2025-06-03
+| 🔥🔥: 316 \| 💬: [370](https://news.ycombinator.com/item?id=44168658) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -111,7 +111,7 @@ Go语言长期因**错误处理冗长**被诟病，团队曾提出`check/handle`
 <small>🔗 [localmess.github.io](https://localmess.github.io/): Covert Web-to-App Tracking via Localhost on Android</small>
 
 
-| 🔥🔥: 248 \| 💬: [6](https://news.ycombinator.com/item?id=44169314) \| 🗓️ 2025-06-03
+| 🔥🔥: 249 \| 💬: [6](https://news.ycombinator.com/item?id=44169314) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -123,7 +123,7 @@ Go语言长期因**错误处理冗长**被诟病，团队曾提出`check/handle`
 <small>🔗 [swift.org](https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/): Swift at Apple: Migrating the Password Monitoring Service from Java</small>
 
 
-| 🔥🔥: 211 \| 💬: [167](https://news.ycombinator.com/item?id=44172166) \| 🗓️ 2025-06-03
+| 🔥🔥: 214 \| 💬: [173](https://news.ycombinator.com/item?id=44172166) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -134,10 +134,10 @@ Go语言长期因**错误处理冗长**被诟病，团队曾提出`check/handle`
 ---
 
 ## <a name="10"></a>10. 将iPhone变成AirPlay接收器的开源工具：AirAP 
-<small>🔗 [github.com](https://github.com/neon443/AirAP): Show HN: AirAP AirPlay server - AirPlay to an iOS Device</small>
+<small>🔗 [github.com](https://github.com/neon443/AirAP): Show HN: AirAP AirPlay server – AirPlay to an iOS Device</small>
 
 
-| 🔥🔥: 168 \| 💬: [26](https://news.ycombinator.com/item?id=44174190) \| 🗓️ 2025-06-03
+| 🔥🔥: 173 \| 💬: [27](https://news.ycombinator.com/item?id=44174190) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -151,7 +151,7 @@ AirAP是一款用Swift编写的**原生AirPlay服务器**，可将iOS设备变�
 <small>🔗 [github.com](https://github.com/neocanable/garlic): Show HN: I wrote a Java decompiler in pure C language</small>
 
 
-| 🔥🔥: 154 \| 💬: [82](https://news.ycombinator.com/item?id=44169132) \| 🗓️ 2025-06-03
+| 🔥🔥: 156 \| 💬: [83](https://news.ycombinator.com/item?id=44169132) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -175,7 +175,7 @@ AirAP是一款用Swift编写的**原生AirPlay服务器**，可将iOS设备变�
 <small>🔗 [preciousplastic.com](https://www.preciousplastic.com//news/problems-in-precious-plastic): Precious Plastic is in trouble</small>
 
 
-| 🔥🔥: 128 \| 💬: [68](https://news.ycombinator.com/item?id=44175773) \| 🗓️ 2025-06-03
+| 🔥🔥: 141 \| 💬: [76](https://news.ycombinator.com/item?id=44175773) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -187,7 +187,7 @@ AirAP是一款用Swift编写的**原生AirPlay服务器**，可将iOS设备变�
 <small>🔗 [inotherwords.app](https://www.inotherwords.app/linguabase/): The Small World of English</small>
 
 
-| 🔥🔥: 127 \| 💬: [62](https://news.ycombinator.com/item?id=44170968) \| 🗓️ 2025-06-03
+| 🔥🔥: 130 \| 💬: [62](https://news.ycombinator.com/item?id=44170968) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -195,35 +195,23 @@ AirAP是一款用Swift编写的**原生AirPlay服务器**，可将iOS设备变�
 
 ---
 
-## <a name="15"></a>15. 我的电脑就是Claude代码 
-<small>🔗 [steipete.me](https://steipete.me/posts/2025/claude-code-is-my-computer): Claude Code Is My Computer</small>
+## <a name="15"></a>15. DiffX：下一代可扩展的差异文件格式 
+<small>🔗 [diffx.org](https://diffx.org/): DiffX – Next-Generation Extensible Diff Format</small>
 
 
-| 🔥🔥: 104 \| 💬: [89](https://news.ycombinator.com/item?id=44170967) \| 🗓️ 2025-06-03
-
-
-<br />
-作者冒险使用`--dangerously-skip-permissions`参数在macOS上运行**Claude Code**，跳过所有权限提示。两个月内零事故，**每小时备份**确保安全。Claude从编码助手升级为**全能终端**：迁移系统、转换内容格式、自动化发布、生成测试数据、处理Git流程等，效率提升显著。与Warp等工具相比，Claude的**无中断信任模式**和文本交互更流畅。未来属于能理解意图并自主执行的AI工具，开发者将转向更高层次的系统协调。适合敢冒险且备份完善的用户，**学习成本近乎为零**。
-
----
-
-## <a name="16"></a>16. "大石油公司"用回收骗局掩盖塑料危机？ 
-<small>🔗 [daily.jstor.org](https://daily.jstor.org/did-big-oil-sell-us-on-a-recycling-scam/): Did "Big Oil" Sell Us on a Recycling Scam?</small>
-
-
-| 🔥: 98 \| 💬: [117](https://news.ycombinator.com/item?id=44172928) \| 🗓️ 2025-06-03
+| 🔥🔥: 117 \| 💬: [24](https://news.ycombinator.com/item?id=44176737) \| 🗓️ 2025-06-03
 
 
 <br />
-塑料回收曾被宣传为环保解决方案，但实则是**石油化工行业**精心设计的骗局。自20世纪70年代起，石油公司明知塑料难以回收，却通过营销将责任转嫁给消费者，同时抵制政府监管。如今，全球塑料污染日益严重，**回收率极低**，而企业仍在生产不可回收产品（如K-Cups）。专家指出，真正的解决之道在于**限制塑料生产**、研发替代材料，而非依赖无效的回收体系。
+传统**Unified Diff**格式存在诸多局限：无法标准化编码、版本信息或元数据，且难以处理二进制差异或多提交记录。**DiffX**应运而生，它在完全兼容现有工具的基础上，通过结构化元数据（如作者、时间戳、文件路径）和扩展性设计（支持多提交、二进制差异、编码声明），为现代开发提供了更强大的差异文件标准。例如，DiffX文件可包含Markdown格式的提交说明和JSON元数据，同时保持人类可读性。目前**Review Board**等工具已率先采用该方案。
 
 ---
 
-## <a name="17"></a>17. Meta因隐私争议暂停Android端口追踪技术 
+## <a name="16"></a>16. Meta因隐私争议暂停Android端口追踪技术 
 <small>🔗 [theregister.com](https://www.theregister.com/2025/06/03/meta_pauses_android_tracking_tech/): Meta pauses mobile port tracking tech on Android after researchers cry foul</small>
 
 
-| 🔥: 93 \| 💬: [13](https://news.ycombinator.com/item?id=44175940) \| 🗓️ 2025-06-03
+| 🔥🔥: 111 \| 💬: [18](https://news.ycombinator.com/item?id=44175940) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -231,11 +219,23 @@ AirAP是一款用Swift编写的**原生AirPlay服务器**，可将iOS设备变�
 
 ---
 
+## <a name="17"></a>17. 管理者不是你的挚友 
+<small>🔗 [staysaasy.com](https://staysaasy.com/management/2025/06/02/your-manager-is-not-your-best-friend.html): A manager is not your best friend</small>
+
+
+| 🔥🔥: 109 \| 💬: [57](https://news.ycombinator.com/item?id=44176425) \| 🗓️ 2025-06-03
+
+
+<br />
+文章指出，**与管理层共情**虽是人之常情，却是组织毒药：它会破坏信任、制造对立，且阻碍问题解决。管理者应像科学家般探究事实，而非盲目附和。**有效沟通**的关键在于：用提问澄清真相（如"这属实吗？"），以乐观视角解读其他团队行为（避免"他们太无能"这类表述），并通过决策框架引导对话（如"我们的职责是…"）。若必须宣泄情绪，应选择非直属团队的同事。**非言语暗示**（如翻白眼）同样会传递负面信息，管理者需谨言慎行。
+
+---
+
 ## <a name="18"></a>18. 深入探讨自我进化AI与达尔文-哥德尔机 
 <small>🔗 [richardcsuwandi.github.io](https://richardcsuwandi.github.io/blog/2025/dgm/): A deep dive into self-improving AI and the Darwin-Gödel Machine</small>
 
 
-| 🔥: 92 \| 💬: [12](https://news.ycombinator.com/item?id=44174856) \| 🗓️ 2025-06-03
+| 🔥🔥: 105 \| 💬: [18](https://news.ycombinator.com/item?id=44174856) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -247,7 +247,31 @@ AirAP是一款用Swift编写的**原生AirPlay服务器**，可将iOS设备变�
 
 ---
 
-## <a name="19"></a>19. 用语音和手势实时操控3D模型 
+## <a name="19"></a>19. 我的电脑就是Claude代码 
+<small>🔗 [steipete.me](https://steipete.me/posts/2025/claude-code-is-my-computer): Claude Code Is My Computer</small>
+
+
+| 🔥🔥: 104 \| 💬: [89](https://news.ycombinator.com/item?id=44170967) \| 🗓️ 2025-06-03
+
+
+<br />
+作者冒险使用`--dangerously-skip-permissions`参数在macOS上运行**Claude Code**，跳过所有权限提示。两个月内零事故，**每小时备份**确保安全。Claude从编码助手升级为**全能终端**：迁移系统、转换内容格式、自动化发布、生成测试数据、处理Git流程等，效率提升显著。与Warp等工具相比，Claude的**无中断信任模式**和文本交互更流畅。未来属于能理解意图并自主执行的AI工具，开发者将转向更高层次的系统协调。适合敢冒险且备份完善的用户，**学习成本近乎为零**。
+
+---
+
+## <a name="20"></a>20. "大石油公司"用回收骗局掩盖塑料危机？ 
+<small>🔗 [daily.jstor.org](https://daily.jstor.org/did-big-oil-sell-us-on-a-recycling-scam/): Did "Big Oil" Sell Us on a Recycling Scam?</small>
+
+
+| 🔥: 99 \| 💬: [120](https://news.ycombinator.com/item?id=44172928) \| 🗓️ 2025-06-03
+
+
+<br />
+塑料回收曾被宣传为环保解决方案，但实则是**石油化工行业**精心设计的骗局。自20世纪70年代起，石油公司明知塑料难以回收，却通过营销将责任转嫁给消费者，同时抵制政府监管。如今，全球塑料污染日益严重，**回收率极低**，而企业仍在生产不可回收产品（如K-Cups）。专家指出，真正的解决之道在于**限制塑料生产**、研发替代材料，而非依赖无效的回收体系。
+
+---
+
+## <a name="21"></a>21. 用语音和手势实时操控3D模型 
 <small>🔗 [github.com](https://github.com/collidingScopes/3d-model-playground): Show HN: Controlling 3D models with voice and hand gestures</small>
 
 
@@ -259,23 +283,23 @@ AirAP是一款用Swift编写的**原生AirPlay服务器**，可将iOS设备变�
 
 ---
 
-## <a name="20"></a>20. 管理者不是你的挚友 
-<small>🔗 [staysaasy.com](https://staysaasy.com/management/2025/06/02/your-manager-is-not-your-best-friend.html): Your Manager Is Not Your Best Friend</small>
+## <a name="22"></a>22. Ephe：一款极简开源Markdown每日笔记工具 
+<small>🔗 [github.com](https://github.com/unvalley/ephe): Show HN: Ephe – A minimalist open-source Markdown paper for today</small>
 
 
-| 🔥: 85 \| 💬: [46](https://news.ycombinator.com/item?id=44176425) \| 🗓️ 2025-06-03
+| 🔥: 84 \| 💬: [28](https://news.ycombinator.com/item?id=44175557) \| 🗓️ 2025-06-03
 
 
 <br />
-文章指出，**与管理层共情**虽是人之常情，却是组织毒药：它会破坏信任、制造对立，且阻碍问题解决。管理者应像科学家般探究事实，而非盲目附和。**有效沟通**的关键在于：用提问澄清真相（如"这属实吗？"），以乐观视角解读其他团队行为（避免"他们太无能"这类表述），并通过决策框架引导对话（如"我们的职责是…"）。若必须宣泄情绪，应选择非直属团队的同事。**非言语暗示**（如翻白眼）同样会传递负面信息，管理者需谨言慎行。
+Ephe是一款基于**Markdown**的轻量级笔记工具，专注于帮助用户管理每日待办事项和灵感。与传统复杂的待办应用不同，它提供**单一纯净页面**，通过简洁的Markdown语法提升专注力。支持React、TypeScript等技术，内置CodeMirror编辑器，采用TailwindCSS设计。开源项目已获31颗星，遵循MIT许可证。若加载失败可刷新页面重试。访问[ephe.app/landing](https://ephe.app/landing)了解更多。
 
 ---
 
-## <a name="21"></a>21. 苏联核试验场遗留钚危机：17年跨国封存行动 
+## <a name="23"></a>23. 苏联核试验场遗留钚危机：17年跨国封存行动 
 <small>🔗 [belfercenter.org](https://www.belfercenter.org/publication/plutonium-mountain-inside-17-year-mission-secure-legacy-soviet-nuclear-testing): Plutonium Mountain: The 17-year mission to guard remains of Soviet nuclear tests (2013)</small>
 
 
-| 🔥: 81 \| 💬: [44](https://news.ycombinator.com/item?id=44168265) \| 🗓️ 2025-06-03
+| 🔥: 83 \| 💬: [44](https://news.ycombinator.com/item?id=44168265) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -283,11 +307,11 @@ AirAP是一款用Swift编写的**原生AirPlay服务器**，可将iOS设备变�
 
 ---
 
-## <a name="22"></a>22. 计算机不应成为艺术工具（1971） 
+## <a name="24"></a>24. 计算机不应成为艺术工具（1971） 
 <small>🔗 [dam.org](https://dam.org/museum/essays_ui/essays/there-should-be-no-computer-art/): There should be no Computer Art (1971)</small>
 
 
-| 🔥: 79 \| 💬: [120](https://news.ycombinator.com/item?id=44168256) \| 🗓️ 2025-06-03
+| 🔥: 80 \| 💬: [121](https://news.ycombinator.com/item?id=44168256) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -295,38 +319,14 @@ AirAP是一款用Swift编写的**原生AirPlay服务器**，可将iOS设备变�
 
 ---
 
-## <a name="23"></a>23. 开源AI工具Lingo.dev：无需改写代码即可实现React应用本地化 
+## <a name="25"></a>25. 开源AI工具Lingo.dev：无需改写代码即可实现React应用本地化 
 <small>🔗 [github.com](https://github.com/lingodotdev/lingo.dev): Show HN: Localize React apps without rewriting code</small>
 
 
-| 🔥: 76 \| 💬: [58](https://news.ycombinator.com/item?id=44172428) \| 🗓️ 2025-06-03
+| 🔥: 77 \| 💬: [60](https://news.ycombinator.com/item?id=44172428) \| 🗓️ 2025-06-03
 
 
 <br />
 Lingo.dev是一套**开源i18n工具集**，专为Web和移动应用本地化设计，支持**LLM驱动的自动翻译**。其核心工具包括：**CLI工具**（快速翻译应用和Markdown内容）、**CI/CD集成**（自动同步新增内容翻译）和新推出的**Compiler**（编译时使React应用支持多语言，无需修改组件代码）。所有工具均旨在利用AI模型提升翻译精度，减少人工操作。开发者可通过Discord参与社区讨论或贡献代码，项目已获1.9k星标支持。
-
----
-
-## <a name="24"></a>24. Windows 10 用户的救星：升级软件，而非硬件 
-<small>🔗 [kde.org](https://kde.org/for/w10-exiles/): KDE for Windows 10 Exiles – Upgrade your software, not your computer</small>
-
-
-| 🔥: 75 \| 💬: [67](https://news.ycombinator.com/item?id=44169504) \| 🗓️ 2025-06-03
-
-
-<br />
-微软将于10月14日终止对Windows 10的支持，旧电脑可能面临安全风险和应用兼容性问题。**KDE Plasma** 提供了一种免费、开源且强大的替代方案，让老旧设备焕发新生。它拥有现代化的界面、高度可定制性，且无需担心**强制更新**或**隐私泄露**。通过Linux社区支持，用户可以轻松过渡，享受无广告、无病毒的操作环境，同时减少电子垃圾污染。
-
----
-
-## <a name="25"></a>25. 目标：木星 
-<small>🔗 [clarkesworldmagazine.com](https://clarkesworldmagazine.com/liptak_06_25/): Destination: Jupiter</small>
-
-
-| 🔥: 73 \| 💬: [26](https://news.ycombinator.com/item?id=44173853) \| 🗓️ 2025-06-03
-
-
-<br />
-1610年，伽利略发现木星的四颗卫星（**木卫三**、**木卫二**等），颠覆了人类对太阳系的认知。此后，科学家和作家不断探索这颗**气态巨行星**：从早期科幻小说将木星描绘为原始海洋世界，到现代探测器（如**旅行者号**）揭示其狂暴大气层与冰下海洋的奥秘。木星及其卫星成为科幻作品的热门设定，从《2001太空漫游》到《苍穹浩瀚》，人类对它的想象始终与科学发现交织。如今，木星仍是太空探索的重点目标，其卫星可能孕育地外生命。
 
 ---
