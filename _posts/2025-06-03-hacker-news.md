@@ -27,7 +27,7 @@ tags:
 <small>🔗 [github.com](https://github.com/iamgio/quarkdown): Quarkdown: A modern Markdown-based typesetting system</small>
 
 
-| 🔥🔥: 576 \| 💬: [245](https://news.ycombinator.com/item?id=44167592) \| 🗓️ 2025-06-03
+| 🔥🔥: 581 \| 💬: [245](https://news.ycombinator.com/item?id=44167592) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -48,10 +48,10 @@ Quarkdown是一个**功能强大**的Markdown扩展系统，支持将文档编�
 ---
 
 ## <a name="3"></a>3. Builder.ai破产：15亿美元“AI”初创公司被曝实为印度程序员团队 
-<small>🔗 [ibtimes.co.uk](https://www.ibtimes.co.uk/builderai-collapses-15bn-ai-startup-exposed-actually-indians-pretending-bots-1734784): Builder.ai Collapses: $1.5B 'AI' Startup Exposed as 'Indians'</small>
+<small>🔗 [ibtimes.co.uk](https://www.ibtimes.co.uk/builderai-collapses-15bn-ai-startup-exposed-actually-indians-pretending-bots-1734784): Builder.ai Collapses: $1.5B 'AI' Startup Exposed as 'Indians'?</small>
 
 
-| 🔥🔥: 303 \| 💬: [199](https://news.ycombinator.com/item?id=44169759) \| 🗓️ 2025-06-03
+| 🔥🔥: 308 \| 💬: [199](https://news.ycombinator.com/item?id=44169759) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -63,7 +63,7 @@ Quarkdown是一个**功能强大**的Markdown扩展系统，支持将文档编�
 <small>🔗 [spectrum.ieee.org](https://spectrum.ieee.org/ukraine-killer-drones): How Ukraine’s killer drones are beating Russian jamming</small>
 
 
-| 🔥🔥: 301 \| 💬: [360](https://news.ycombinator.com/item?id=44168658) \| 🗓️ 2025-06-03
+| 🔥🔥: 302 \| 💬: [362](https://news.ycombinator.com/item?id=44168658) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -75,7 +75,7 @@ Quarkdown是一个**功能强大**的Markdown扩展系统，支持将文档编�
 <small>🔗 [go.dev](https://go.dev/blog/error-syntax): (On | No) Syntactic Support for Error Handling</small>
 
 
-| 🔥🔥: 283 \| 💬: [376](https://news.ycombinator.com/item?id=44171677) \| 🗓️ 2025-06-03
+| 🔥🔥: 291 \| 💬: [385](https://news.ycombinator.com/item?id=44171677) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -83,27 +83,27 @@ Go语言长期因**错误处理冗长**被诟病，团队曾提出`check/handle`
 
 ---
 
-## <a name="6"></a>6. Meta与Yandex利用安卓漏洞窃取用户匿名浏览数据 
-<small>🔗 [localmess.github.io](https://localmess.github.io/): Covert Web-to-App Tracking via Localhost on Android</small>
-
-
-| 🔥🔥: 257 \| 💬: [198](https://news.ycombinator.com/item?id=44169115) \| 🗓️ 2025-06-03
-
-
-<br />
-研究发现，**Meta Pixel**和**Yandex Metrica**追踪代码通过滥用浏览器协议，绕过安卓沙盒隔离，将用户临时网页标识符转为持久移动应用身份。该漏洞允许Facebook、Instagram及Yandex应用实时获取浏览器数据，**即使在隐私模式下**也能关联用户真实身份。谷歌已着手调查并封锁部分攻击路径，但研究者警告现有修复易被绕过，需从系统层面限制本地端口访问。涉事脚本覆盖超880万网站，多数未获用户同意即收集数据。
-
----
-
-## <a name="7"></a>7. 深度学习风光无限，深度事实核查却遭忽视 
+## <a name="6"></a>6. 深度学习风光无限，深度事实核查却遭忽视 
 <small>🔗 [rachel.fast.ai](https://rachel.fast.ai/posts/2025-06-04-enzyme-ml-fails/index.html): Deep learning gets the glory, deep fact checking gets ignored</small>
 
 
-| 🔥🔥: 253 \| 💬: [37](https://news.ycombinator.com/item?id=44174965) \| 🗓️ 2025-06-03
+| 🔥🔥: 288 \| 💬: [38](https://news.ycombinator.com/item?id=44174965) \| 🗓️ 2025-06-03
 
 
 <br />
 深度学习因**Transformer模型**预测酶功能的研究登上《自然》期刊并获得高关注，而后续**错误核查**发现该论文存在数百项预测失误（如误判基因功能、重复标注等）。**领域专家**通过文献比对和实验验证揭露问题，凸显AI模型依赖**已知数据标签**的局限，以及忽视生物上下文导致的错误。当前学术激励过度追捧“炫酷AI”，却轻视严谨的验证工作，亟需平衡两者投入。
+
+---
+
+## <a name="7"></a>7. Meta与Yandex利用安卓漏洞窃取用户匿名浏览数据 
+<small>🔗 [localmess.github.io](https://localmess.github.io/): Covert Web-to-App Tracking via Localhost on Android</small>
+
+
+| 🔥🔥: 270 \| 💬: [202](https://news.ycombinator.com/item?id=44169115) \| 🗓️ 2025-06-03
+
+
+<br />
+研究发现，**Meta Pixel**和**Yandex Metrica**追踪代码通过滥用浏览器协议，绕过安卓沙盒隔离，将用户临时网页标识符转为持久移动应用身份。该漏洞允许Facebook、Instagram及Yandex应用实时获取浏览器数据，**即使在隐私模式下**也能关联用户真实身份。谷歌已着手调查并封锁部分攻击路径，但研究者警告现有修复易被绕过，需从系统层面限制本地端口访问。涉事脚本覆盖超880万网站，多数未获用户同意即收集数据。
 
 ---
 
@@ -123,7 +123,7 @@ Go语言长期因**错误处理冗长**被诟病，团队曾提出`check/handle`
 <small>🔗 [swift.org](https://www.swift.org/blog/swift-at-apple-migrating-the-password-monitoring-service-from-java/): Swift at Apple: Migrating the Password Monitoring Service from Java</small>
 
 
-| 🔥🔥: 191 \| 💬: [141](https://news.ycombinator.com/item?id=44172166) \| 🗓️ 2025-06-03
+| 🔥🔥: 196 \| 💬: [151](https://news.ycombinator.com/item?id=44172166) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -137,7 +137,7 @@ Go语言长期因**错误处理冗长**被诟病，团队曾提出`check/handle`
 <small>🔗 [github.com](https://github.com/neocanable/garlic): Show HN: I wrote a Java decompiler in pure C language</small>
 
 
-| 🔥🔥: 148 \| 💬: [71](https://news.ycombinator.com/item?id=44169132) \| 🗓️ 2025-06-03
+| 🔥🔥: 153 \| 💬: [76](https://news.ycombinator.com/item?id=44169132) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -149,7 +149,7 @@ Go语言长期因**错误处理冗长**被诟病，团队曾提出`check/handle`
 <small>🔗 [github.com](https://github.com/neon443/AirAP): Show HN: AirAP AirPlay server - AirPlay to an iOS Device</small>
 
 
-| 🔥🔥: 139 \| 💬: [19](https://news.ycombinator.com/item?id=44174190) \| 🗓️ 2025-06-03
+| 🔥🔥: 149 \| 💬: [23](https://news.ycombinator.com/item?id=44174190) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -163,7 +163,7 @@ AirAP是一款用Swift编写的**原生AirPlay服务器**，可将iOS设备变�
 <small>🔗 [vlmsarebiased.github.io](https://vlmsarebiased.github.io/): Vision Language Models Are Biased</small>
 
 
-| 🔥🔥: 121 \| 💬: [98](https://news.ycombinator.com/item?id=44169413) \| 🗓️ 2025-06-03
+| 🔥🔥: 134 \| 💬: [102](https://news.ycombinator.com/item?id=44169413) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -175,7 +175,7 @@ AirAP是一款用Swift编写的**原生AirPlay服务器**，可将iOS设备变�
 <small>🔗 [inotherwords.app](https://www.inotherwords.app/linguabase/): The Small World of English</small>
 
 
-| 🔥🔥: 115 \| 💬: [58](https://news.ycombinator.com/item?id=44170968) \| 🗓️ 2025-06-03
+| 🔥🔥: 120 \| 💬: [59](https://news.ycombinator.com/item?id=44170968) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -199,7 +199,7 @@ AirAP是一款用Swift编写的**原生AirPlay服务器**，可将iOS设备变�
 <small>🔗 [daily.jstor.org](https://daily.jstor.org/did-big-oil-sell-us-on-a-recycling-scam/): Did "Big Oil" Sell Us on a Recycling Scam?</small>
 
 
-| 🔥: 91 \| 💬: [109](https://news.ycombinator.com/item?id=44172928) \| 🗓️ 2025-06-03
+| 🔥: 92 \| 💬: [111](https://news.ycombinator.com/item?id=44172928) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -207,23 +207,11 @@ AirAP是一款用Swift编写的**原生AirPlay服务器**，可将iOS设备变�
 
 ---
 
-## <a name="16"></a>16. 苏联核试验场遗留钚危机：17年跨国封存行动 
-<small>🔗 [belfercenter.org](https://www.belfercenter.org/publication/plutonium-mountain-inside-17-year-mission-secure-legacy-soviet-nuclear-testing): Plutonium Mountain: The 17-year mission to guard remains of Soviet nuclear tests (2013)</small>
-
-
-| 🔥: 78 \| 💬: [44](https://news.ycombinator.com/item?id=44168265) \| 🗓️ 2025-06-03
-
-
-<br />
-在哈萨克斯坦的**塞米巴拉金斯克核试验场**，苏联曾进行456次核试验，遗留下大量可回收的**武器级钚**。冷战结束后，这些未被销毁的钚原料散落在隧道和钻孔中，足以制造数十枚核弹，并一度遭拾荒者接近。1995至2012年间，美、俄、哈三国科学家突破政府猜忌，通过非正式合作，用特殊混凝土封存了**德格伦山**的钚残留，耗资1.5亿美元。尽管行动未通报国际原子能机构，但消除了苏联解体后最严重的核扩散隐患之一。
-
----
-
-## <a name="17"></a>17. 用语音和手势实时操控3D模型 
+## <a name="16"></a>16. 用语音和手势实时操控3D模型 
 <small>🔗 [github.com](https://github.com/collidingScopes/3d-model-playground): Show HN: Controlling 3D models with voice and hand gestures</small>
 
 
-| 🔥: 77 \| 💬: [17](https://news.ycombinator.com/item?id=44170694) \| 🗓️ 2025-06-03
+| 🔥: 81 \| 💬: [17](https://news.ycombinator.com/item?id=44170694) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -231,11 +219,23 @@ AirAP是一款用Swift编写的**原生AirPlay服务器**，可将iOS设备变�
 
 ---
 
+## <a name="17"></a>17. 苏联核试验场遗留钚危机：17年跨国封存行动 
+<small>🔗 [belfercenter.org](https://www.belfercenter.org/publication/plutonium-mountain-inside-17-year-mission-secure-legacy-soviet-nuclear-testing): Plutonium Mountain: The 17-year mission to guard remains of Soviet nuclear tests (2013)</small>
+
+
+| 🔥: 79 \| 💬: [44](https://news.ycombinator.com/item?id=44168265) \| 🗓️ 2025-06-03
+
+
+<br />
+在哈萨克斯坦的**塞米巴拉金斯克核试验场**，苏联曾进行456次核试验，遗留下大量可回收的**武器级钚**。冷战结束后，这些未被销毁的钚原料散落在隧道和钻孔中，足以制造数十枚核弹，并一度遭拾荒者接近。1995至2012年间，美、俄、哈三国科学家突破政府猜忌，通过非正式合作，用特殊混凝土封存了**德格伦山**的钚残留，耗资1.5亿美元。尽管行动未通报国际原子能机构，但消除了苏联解体后最严重的核扩散隐患之一。
+
+---
+
 ## <a name="18"></a>18. 计算机不应成为艺术工具（1971） 
 <small>🔗 [dam.org](https://dam.org/museum/essays_ui/essays/there-should-be-no-computer-art/): There should be no Computer Art (1971)</small>
 
 
-| 🔥: 75 \| 💬: [115](https://news.ycombinator.com/item?id=44168256) \| 🗓️ 2025-06-03
+| 🔥: 76 \| 💬: [117](https://news.ycombinator.com/item?id=44168256) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -271,7 +271,7 @@ AirAP是一款用Swift编写的**原生AirPlay服务器**，可将iOS设备变�
 <small>🔗 [clarkesworldmagazine.com](https://clarkesworldmagazine.com/liptak_06_25/): Destination: Jupiter</small>
 
 
-| 🔥: 64 \| 💬: [25](https://news.ycombinator.com/item?id=44173853) \| 🗓️ 2025-06-03
+| 🔥: 68 \| 💬: [25](https://news.ycombinator.com/item?id=44173853) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -283,7 +283,7 @@ AirAP是一款用Swift编写的**原生AirPlay服务器**，可将iOS设备变�
 <small>🔗 [github.com](https://github.com/lingodotdev/lingo.dev): Show HN: Localize React apps without rewriting code</small>
 
 
-| 🔥: 59 \| 💬: [53](https://news.ycombinator.com/item?id=44172428) \| 🗓️ 2025-06-03
+| 🔥: 65 \| 💬: [55](https://news.ycombinator.com/item?id=44172428) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -295,7 +295,7 @@ Lingo.dev是一套**开源i18n工具集**，专为Web和移动应用本地化设
 <small>🔗 [paulgraham.com](https://paulgraham.com/field.html): The Shape of the Essay Field</small>
 
 
-| 🔥: 52 \| 💬: [33](https://news.ycombinator.com/item?id=44168201) \| 🗓️ 2025-06-03
+| 🔥: 54 \| 💬: [36](https://news.ycombinator.com/item?id=44168201) \| 🗓️ 2025-06-03
 
 
 <br />
@@ -307,7 +307,7 @@ Lingo.dev是一套**开源i18n工具集**，专为Web和移动应用本地化设
 <small>🔗 [ourworldindata.org](https://ourworldindata.org/where-are-babies-at-lowest-risk-of-dying): Where in the world are babies at the lowest risk of dying?</small>
 
 
-| 🔥: 52 \| 💬: [62](https://news.ycombinator.com/item?id=44172915) \| 🗓️ 2025-06-03
+| 🔥: 52 \| 💬: [63](https://news.ycombinator.com/item?id=44172915) \| 🗓️ 2025-06-03
 
 
 <br />
