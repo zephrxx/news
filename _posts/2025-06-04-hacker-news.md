@@ -9,8 +9,8 @@ tags:
 
 
 1. FFmpeg整合WebRTC支持；
-1. IRS将Direct File税务软件代码开源；
 1. 法院下令后，OpenAI开始全面保存ChatGPT用户日志；
+1. IRS将Direct File税务软件代码开源；
 1. 我为何撰写《BEAM之书》；
 1. 华盛顿州通过“维修权”法案；
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [git.ffmpeg.org](https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00): FFmpeg merges WebRTC support</small>
 
 
-| 🔥🔥: 550 \| 💬: [125](https://news.ycombinator.com/item?id=44182186) \| 🗓️ 2025-06-04
+| 🔥🔥: 582 \| 💬: [130](https://news.ycombinator.com/item?id=44182186) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -35,23 +35,11 @@ tags:
 
 ---
 
-## <a name="2"></a>2. IRS将Direct File税务软件代码开源 
-<small>🔗 [chrisgiven.com](https://chrisgiven.com/2025/05/direct-file-on-github/): IRS Direct File on GitHub</small>
-
-
-| 🔥🔥: 454 \| 💬: [203](https://news.ycombinator.com/item?id=44182356) \| 🗓️ 2025-06-04
-
-
-<br />
-美国国税局（IRS）将其广受欢迎的免费报税软件**Direct File**的大部分代码开源至GitHub，但该程序因Intuit等公司的游说及特朗普预算案中的条款面临被终止的风险。这款由**US Digital Service**和**18F**开发的软件去年试点时获30万用户好评，被赞“免费、便捷、高效”。与此同时，参与开发的三名核心成员离职加入私营机构，研究**未来税务申报**的优化方案。专家警告，取消该计划将增加纳税人负担并助长报税行业垄断。
-
----
-
-## <a name="3"></a>3. 法院下令后，OpenAI开始全面保存ChatGPT用户日志 
+## <a name="2"></a>2. 法院下令后，OpenAI开始全面保存ChatGPT用户日志 
 <small>🔗 [mastodon.laurenweinstein.org](https://mastodon.laurenweinstein.org/@lauren/114627064774788581): After court order, OpenAI is now preserving all ChatGPT user logs</small>
 
 
-| 🔥🔥: 444 \| 💬: [286](https://news.ycombinator.com/item?id=44185913) \| 🗓️ 2025-06-04
+| 🔥🔥: 493 \| 💬: [345](https://news.ycombinator.com/item?id=44185913) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -59,11 +47,23 @@ tags:
 
 ---
 
+## <a name="3"></a>3. IRS将Direct File税务软件代码开源 
+<small>🔗 [chrisgiven.com](https://chrisgiven.com/2025/05/direct-file-on-github/): IRS Direct File on GitHub</small>
+
+
+| 🔥🔥: 480 \| 💬: [215](https://news.ycombinator.com/item?id=44182356) \| 🗓️ 2025-06-04
+
+
+<br />
+美国国税局（IRS）将其广受欢迎的免费报税软件**Direct File**的大部分代码开源至GitHub，但该程序因Intuit等公司的游说及特朗普预算案中的条款面临被终止的风险。这款由**US Digital Service**和**18F**开发的软件去年试点时获30万用户好评，被赞“免费、便捷、高效”。与此同时，参与开发的三名核心成员离职加入私营机构，研究**未来税务申报**的优化方案。专家警告，取消该计划将增加纳税人负担并助长报税行业垄断。
+
+---
+
 ## <a name="4"></a>4. 我为何撰写《BEAM之书》 
 <small>🔗 [happihacking.com](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/): Why I wrote the BEAM book</small>
 
 
-| 🔥🔥: 421 \| 💬: [117](https://news.ycombinator.com/item?id=44179257) \| 🗓️ 2025-06-04
+| 🔥🔥: 427 \| 💬: [118](https://news.ycombinator.com/item?id=44179257) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/06/right-repair-law-washington-state): The Right to Repair Is Law in Washington State</small>
 
 
-| 🔥🔥: 349 \| 💬: [145](https://news.ycombinator.com/item?id=44181421) \| 🗓️ 2025-06-04
+| 🔥🔥: 361 \| 💬: [147](https://news.ycombinator.com/item?id=44181421) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [cloud.google.com](https://cloud.google.com/blog/products/serverless/cloud-run-gpus-are-now-generally-available): Cloud Run GPUs, now GA, makes running AI workloads easier for everyone</small>
 
 
-| 🔥🔥: 296 \| 💬: [165](https://news.ycombinator.com/item?id=44178468) \| 🗓️ 2025-06-04
+| 🔥🔥: 298 \| 💬: [167](https://news.ycombinator.com/item?id=44178468) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -95,23 +95,11 @@ Google Cloud宣布**Cloud Run GPU支持**正式全面开放（GA），开发者�
 
 ---
 
-## <a name="7"></a>7. 柯蒂斯·亚尔文的美国颠覆计划 
-<small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/06/09/curtis-yarvin-profile): Curtis Yarvin's Plot Against America</small>
-
-
-| 🔥🔥: 248 \| 💬: [293](https://news.ycombinator.com/item?id=44184305) \| 🗓️ 2025-06-04
-
-
-<br />
-2008年，化名“孟修斯·莫德堡”的程序员柯蒂斯·亚尔温通过博客发表反民主宣言，主张废除宪法、解散官僚体系，由**CEO式强权领袖**接管政府。他将媒体与学界称为**“大教堂”**，认为其维护左翼共识，需彻底摧毁。其思想吸引硅谷精英（如彼得·蒂尔）和特朗普阵营，成为**“黑暗启蒙”**运动核心。亚尔温推崇特朗普为“美国君主”，并建议用马斯克改革行政机构。如今，他的极端理念正渗入美国政治，推动“行政国家”解体，但本人仍嫌变革不够彻底。
-
----
-
-## <a name="8"></a>8. 限制网站未经许可访问用户本地网络的提案 
+## <a name="7"></a>7. 限制网站未经许可访问用户本地网络的提案 
 <small>🔗 [github.com](https://github.com/explainers-by-googlers/local-network-access): A proposal to restrict sites from accessing a users’ local network</small>
 
 
-| 🔥🔥: 244 \| 💬: [146](https://news.ycombinator.com/item?id=44183799) \| 🗓️ 2025-06-04
+| 🔥🔥: 260 \| 💬: [152](https://news.ycombinator.com/item?id=44183799) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -119,11 +107,23 @@ Google Cloud宣布**Cloud Run GPU支持**正式全面开放（GA），开发者�
 
 ---
 
+## <a name="8"></a>8. 柯蒂斯·亚尔文的美国颠覆计划 
+<small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/06/09/curtis-yarvin-profile): Curtis Yarvin's Plot Against America</small>
+
+
+| 🔥🔥: 250 \| 💬: [304](https://news.ycombinator.com/item?id=44184305) \| 🗓️ 2025-06-04
+
+
+<br />
+2008年，化名“孟修斯·莫德堡”的程序员柯蒂斯·亚尔温通过博客发表反民主宣言，主张废除宪法、解散官僚体系，由**CEO式强权领袖**接管政府。他将媒体与学界称为**“大教堂”**，认为其维护左翼共识，需彻底摧毁。其思想吸引硅谷精英（如彼得·蒂尔）和特朗普阵营，成为**“黑暗启蒙”**运动核心。亚尔温推崇特朗普为“美国君主”，并建议用马斯克改革行政机构。如今，他的极端理念正渗入美国政治，推动“行政国家”解体，但本人仍嫌变革不够彻底。
+
+---
+
 ## <a name="9"></a>9. iPhone 15 Pro的深度图技术解析 
 <small>🔗 [tech.marksblogg.com](https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html): The iPhone 15 Pro’s Depth Maps</small>
 
 
-| 🔥🔥: 220 \| 💬: [60](https://news.ycombinator.com/item?id=44183591) \| 🗓️ 2025-06-04
+| 🔥🔥: 228 \| 💬: [62](https://news.ycombinator.com/item?id=44183591) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -135,7 +135,7 @@ Google Cloud宣布**Cloud Run GPU支持**正式全面开放（GA），开发者�
 <small>🔗 [news.sky.com](https://news.sky.com/story/meta-found-covertly-tracking-android-users-through-instagram-and-facebook-13379083): Meta found 'covertly tracking' Android users through Instagram and Facebook</small>
 
 
-| 🔥🔥: 198 \| 💬: [91](https://news.ycombinator.com/item?id=44182204) \| 🗓️ 2025-06-04
+| 🔥🔥: 199 \| 💬: [91](https://news.ycombinator.com/item?id=44182204) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -147,7 +147,7 @@ Google Cloud宣布**Cloud Run GPU支持**正式全面开放（GA），开发者�
 <small>🔗 [restofworld.org](https://restofworld.org/2025/employee-surveillance-software-vc-funding/): VC money is fueling a global boom in worker surveillance tech</small>
 
 
-| 🔥🔥: 193 \| 💬: [137](https://news.ycombinator.com/item?id=44182582) \| 🗓️ 2025-06-04
+| 🔥🔥: 198 \| 💬: [140](https://news.ycombinator.com/item?id=44182582) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -159,7 +159,7 @@ Google Cloud宣布**Cloud Run GPU支持**正式全面开放（GA），开发者�
 <small>🔗 [addyo.substack.com](https://addyo.substack.com/p/the-prompt-engineering-playbook-for): The Prompt Engineering Playbook for Programmers</small>
 
 
-| 🔥🔥: 183 \| 💬: [67](https://news.ycombinator.com/item?id=44182188) \| 🗓️ 2025-06-04
+| 🔥🔥: 194 \| 💬: [75](https://news.ycombinator.com/item?id=44182188) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -171,7 +171,7 @@ Google Cloud宣布**Cloud Run GPU支持**正式全面开放（GA），开发者�
 <small>🔗 [sparktoro.com](https://sparktoro.com/blog/ai-will-replace-all-the-jobs-is-just-tech-execs-doing-marketing/): "AI Will Replace All the Jobs " Is Just Tech Execs Doing Marketing</small>
 
 
-| 🔥🔥: 177 \| 💬: [269](https://news.ycombinator.com/item?id=44181172) \| 🗓️ 2025-06-04
+| 🔥🔥: 177 \| 💬: [270](https://news.ycombinator.com/item?id=44181172) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -183,7 +183,7 @@ Google Cloud宣布**Cloud Run GPU支持**正式全面开放（GA），开发者�
 <small>🔗 [mistral.ai](https://mistral.ai/products/mistral-code): Mistral Code</small>
 
 
-| 🔥🔥: 177 \| 💬: [92](https://news.ycombinator.com/item?id=44183515) \| 🗓️ 2025-06-04
+| 🔥🔥: 177 \| 💬: [93](https://news.ycombinator.com/item?id=44183515) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -195,7 +195,7 @@ Mistral Code是一款**AI驱动的企业级编程工具**，提供**闪电般的
 <small>🔗 [macrumors.com](https://www.macrumors.com/2025/06/04/apple-notes-rumored-markdown-support-ios-26/): Apple Notes Expected to Gain Markdown Support in iOS 26</small>
 
 
-| 🔥🔥: 147 \| 💬: [84](https://news.ycombinator.com/item?id=44183923) \| 🗓️ 2025-06-04
+| 🔥🔥: 162 \| 💬: [92](https://news.ycombinator.com/item?id=44183923) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -203,23 +203,11 @@ Mistral Code是一款**AI驱动的企业级编程工具**，提供**闪电般的
 
 ---
 
-## <a name="16"></a>16. 我们已不再是一个严肃的国家 
-<small>🔗 [paulkrugman.substack.com](https://paulkrugman.substack.com/p/we-are-no-longer-a-serious-country): We are no longer a serious country</small>
-
-
-| 🔥🔥: 140 \| 💬: [78](https://news.ycombinator.com/item?id=44182634) \| 🗓️ 2025-06-04
-
-
-<br />
-保罗·克鲁格曼指出，美国正因**政治失序**和**政策混乱**失去国际信任。市场开始以对待新兴市场的方式看待美国，表现为**利率与美元汇率反常背离**。特朗普政府草率的关税调整、仓促通过的预算法案（甚至命名荒诞），以及债务违约风险加剧，均暴露决策的**非理性**。投资者虽尚未大规模撤离，但对美国稳定性的信心正迅速瓦解。
-
----
-
-## <a name="17"></a>17. Cursor 1.0 重磅发布：AI编程助手全面升级 
+## <a name="16"></a>16. Cursor 1.0 重磅发布：AI编程助手全面升级 
 <small>🔗 [cursor.com](https://www.cursor.com/en/changelog/1-0): Cursor 1.0</small>
 
 
-| 🔥🔥: 134 \| 💬: [70](https://news.ycombinator.com/item?id=44185256) \| 🗓️ 2025-06-04
+| 🔥🔥: 158 \| 💬: [86](https://news.ycombinator.com/item?id=44185256) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -227,11 +215,23 @@ Cursor 1.0 推出了多项创新功能：**BugBot** 可自动审查代码并标�
 
 ---
 
+## <a name="17"></a>17. 我们已不再是一个严肃的国家 
+<small>🔗 [paulkrugman.substack.com](https://paulkrugman.substack.com/p/we-are-no-longer-a-serious-country): We are no longer a serious country</small>
+
+
+| 🔥🔥: 143 \| 💬: [80](https://news.ycombinator.com/item?id=44182634) \| 🗓️ 2025-06-04
+
+
+<br />
+保罗·克鲁格曼指出，美国正因**政治失序**和**政策混乱**失去国际信任。市场开始以对待新兴市场的方式看待美国，表现为**利率与美元汇率反常背离**。特朗普政府草率的关税调整、仓促通过的预算法案（甚至命名荒诞），以及债务违约风险加剧，均暴露决策的**非理性**。投资者虽尚未大规模撤离，但对美国稳定性的信心正迅速瓦解。
+
+---
+
 ## <a name="18"></a>18. 构建智能代理的实用指南 
 <small>🔗 [cdn.openai.com](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf): A practical guide to building agents [pdf]</small>
 
 
-| 🔥🔥: 125 \| 💬: [19](https://news.ycombinator.com/item?id=44181700) \| 🗓️ 2025-06-04
+| 🔥🔥: 131 \| 💬: [19](https://news.ycombinator.com/item?id=44181700) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -239,27 +239,27 @@ Cursor 1.0 推出了多项创新功能：**BugBot** 可自动审查代码并标�
 
 ---
 
-## <a name="19"></a>19. Swift.org全新改版上线 
-<small>🔗 [swift.org](https://swift.org/): Redesigned Swift.org is now live</small>
-
-
-| 🔥🔥: 117 \| 💬: [82](https://news.ycombinator.com/item?id=44184542) \| 🗓️ 2025-06-04
-
-
-<br />
-Swift是一种**强大**、**灵活**的跨平台编程语言，兼具**高性能**与安全性。它适用于从嵌入式设备到云端服务的全场景开发，支持与C/C++的无缝互操作。Swift通过简洁语法实现复杂功能，同时确保内存安全与数据安全。开发者可轻松集成到现有项目，并享受开源社区支持。改版官网提供了更完善的工具链与资源，助力各平台开发。
-
----
-
-## <a name="20"></a>20. 自主无人机首次在国际竞速赛中击败人类冠军 
+## <a name="19"></a>19. 自主无人机首次在国际竞速赛中击败人类冠军 
 <small>🔗 [tudelft.nl](https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first): Autonomous drone defeats human champions in racing first</small>
 
 
-| 🔥🔥: 115 \| 💬: [94](https://news.ycombinator.com/item?id=44184900) \| 🗓️ 2025-06-04
+| 🔥🔥: 128 \| 💬: [99](https://news.ycombinator.com/item?id=44184900) \| 🗓️ 2025-06-04
 
 
 <br />
 2025年4月14日，荷兰代尔夫特理工大学的团队在阿布扎比**A2RL无人机锦标赛**中夺冠，其**自主无人机**不仅战胜了其他13支AI队伍，还在与人类冠军的对抗赛中获胜，最高时速达95.8公里。该团队采用**深度神经网络**直接控制电机，并通过强化学习优化性能，突破了传统算法的算力限制。这一成果标志着**物理AI**在真实场景中的重大进展，未来可应用于急救运输、自动驾驶等领域。
+
+---
+
+## <a name="20"></a>20. Swift.org全新改版上线 
+<small>🔗 [swift.org](https://swift.org/): Redesigned Swift.org is now live</small>
+
+
+| 🔥🔥: 125 \| 💬: [85](https://news.ycombinator.com/item?id=44184542) \| 🗓️ 2025-06-04
+
+
+<br />
+Swift是一种**强大**、**灵活**的跨平台编程语言，兼具**高性能**与安全性。它适用于从嵌入式设备到云端服务的全场景开发，支持与C/C++的无缝互操作。Swift通过简洁语法实现复杂功能，同时确保内存安全与数据安全。开发者可轻松集成到现有项目，并享受开源社区支持。改版官网提供了更完善的工具链与资源，助力各平台开发。
 
 ---
 
@@ -279,7 +279,7 @@ Swift是一种**强大**、**灵活**的跨平台编程语言，兼具**高性�
 <small>🔗 [thegradient.pub](https://thegradient.pub/agi-is-not-multimodal/): AGI is not multimodal</small>
 
 
-| 🔥🔥: 107 \| 💬: [98](https://news.ycombinator.com/item?id=44181613) \| 🗓️ 2025-06-04
+| 🔥🔥: 111 \| 💬: [104](https://news.ycombinator.com/item?id=44181613) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -287,11 +287,23 @@ Swift是一种**强大**、**灵活**的跨平台编程语言，兼具**高性�
 
 ---
 
-## <a name="23"></a>23. 用AI秒建3D模型：AdamCAD颠覆传统设计流程 
+## <a name="23"></a>23. 全面开源Langfuse：加速LLM应用开发的开放核心战略 
+<small>🔗 [langfuse.com](https://langfuse.com/blog/2025-06-04-open-sourcing-langfuse-product): Doubling Down on Open Source</small>
+
+
+| 🔥🔥: 106 \| 💬: [9](https://news.ycombinator.com/item?id=44180954) \| 🗓️ 2025-06-04
+
+
+<br />
+2025年6月4日，**Langfuse**宣布将旗下所有产品功能（包括**LLM-as-a-Judge评估**、标注队列、提示词实验和Playground）以**MIT许可证**开源，进一步强化其作为**开源LLM工程平台**的定位。团队认为，开放核心能促进社区信任、加速迭代，并巩固市场首选地位。此前商用功能现仅保留企业级安全特性（如SCIM、审计日志）。目前全球已有超8000个自托管实例，此次变革旨在降低开发门槛，推动生态协作。用户可通过GitHub参与贡献或直接部署生产级方案。
+
+---
+
+## <a name="24"></a>24. 用AI秒建3D模型：AdamCAD颠覆传统设计流程 
 <small>🔗 [adamcad.com](https://www.adamcad.com/): Show HN: GPT image editing, but for 3D models</small>
 
 
-| 🔥🔥: 104 \| 💬: [63](https://news.ycombinator.com/item?id=44182206) \| 🗓️ 2025-06-04
+| 🔥🔥: 105 \| 💬: [62](https://news.ycombinator.com/item?id=44182206) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -299,7 +311,7 @@ AdamCAD是一款**AI驱动的CAD平台**，支持通过文本或图片快速生�
 
 ---
 
-## <a name="24"></a>24. 我们在治疗年龄相关疾病方面有多糟糕？ 
+## <a name="25"></a>25. 我们在治疗年龄相关疾病方面有多糟糕？ 
 <small>🔗 [ladanuzhna.xyz](https://www.ladanuzhna.xyz/writing/just-how-bad-are-we-at-treating-age-related-diseases): Just how bad are we at treating age-related diseases?</small>
 
 
@@ -313,17 +325,5 @@ AdamCAD是一款**AI驱动的CAD平台**，支持通过文本或图片快速生�
 - **阿尔茨海默病（AD）**：抗淀粉样蛋白药物虽显示“统计学显著”效果，但认知功能仍在恶化，且存在**脑水肿等严重副作用**。  
 
 这些案例揭示了一个严峻现实：现有疗法远未满足临床需求。
-
----
-
-## <a name="25"></a>25. 全面开源Langfuse：加速LLM应用开发的开放核心战略 
-<small>🔗 [langfuse.com](https://langfuse.com/blog/2025-06-04-open-sourcing-langfuse-product): Doubling Down on Open Source</small>
-
-
-| 🔥: 99 \| 💬: [9](https://news.ycombinator.com/item?id=44180954) \| 🗓️ 2025-06-04
-
-
-<br />
-2025年6月4日，**Langfuse**宣布将旗下所有产品功能（包括**LLM-as-a-Judge评估**、标注队列、提示词实验和Playground）以**MIT许可证**开源，进一步强化其作为**开源LLM工程平台**的定位。团队认为，开放核心能促进社区信任、加速迭代，并巩固市场首选地位。此前商用功能现仅保留企业级安全特性（如SCIM、审计日志）。目前全球已有超8000个自托管实例，此次变革旨在降低开发门槛，推动生态协作。用户可通过GitHub参与贡献或直接部署生产级方案。
 
 ---
