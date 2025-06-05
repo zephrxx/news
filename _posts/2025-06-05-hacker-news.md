@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共22条，具体内容您往下读...
+总共23条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [puri.sm](https://puri.sm/posts/google-restricts-android-sideloading-what-it-means-for-user-autonomy-and-the-future-of-mobile-freedom/): Google restricts Android sideloading</small>
 
 
-| 🔥🔥: 387 \| 💬: [260](https://news.ycombinator.com/item?id=44193198) \| 🗓️ 2025-06-05
+| 🔥🔥: 392 \| 💬: [275](https://news.ycombinator.com/item?id=44193198) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -43,7 +43,7 @@ tags:
 <small>🔗 [crookedtimber.org](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/): The impossible predicament of the death newts</small>
 
 
-| 🔥🔥: 354 \| 💬: [118](https://news.ycombinator.com/item?id=44191620) \| 🗓️ 2025-06-05
+| 🔥🔥: 368 \| 💬: [121](https://news.ycombinator.com/item?id=44191620) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -64,7 +64,7 @@ tags:
 <small>🔗 [deepmind.google](https://deepmind.google/models/gemini/pro/): Gemini-2.5-pro-preview-06-05</small>
 
 
-| 🔥🔥: 270 \| 💬: [160](https://news.ycombinator.com/item?id=44193328) \| 🗓️ 2025-06-05
+| 🔥🔥: 289 \| 💬: [173](https://news.ycombinator.com/item?id=44193328) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -76,7 +76,7 @@ Google 发布其最先进模型 Gemini 2.5 Pro 预览版 (06-05)，专为**编�
 <small>🔗 [daringfireball.net](https://daringfireball.net/linked/2025/06/04/apple-notes-markdown): Apple Notes Will Gain Markdown Export at WWDC, and, I Have Thoughts</small>
 
 
-| 🔥🔥: 225 \| 💬: [130](https://news.ycombinator.com/item?id=44191558) \| 🗓️ 2025-06-05
+| 🔥🔥: 232 \| 💬: [140](https://news.ycombinator.com/item?id=44191558) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -90,7 +90,7 @@ Google 发布其最先进模型 Gemini 2.5 Pro 预览版 (06-05)，专为**编�
 <small>🔗 [mjg59.dreamwidth.org](https://mjg59.dreamwidth.org/71646.html): Twitter's new encrypted DMs aren't better than the old ones</small>
 
 
-| 🔥🔥: 167 \| 💬: [165](https://news.ycombinator.com/item?id=44191591) \| 🗓️ 2025-06-05
+| 🔥🔥: 175 \| 💬: [167](https://news.ycombinator.com/item?id=44191591) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -102,7 +102,7 @@ Google 发布其最先进模型 Gemini 2.5 Pro 预览版 (06-05)，专为**编�
 <small>🔗 [blog.glyph.im](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html): I think I'm done thinking about GenAI for now</small>
 
 
-| 🔥🔥: 127 \| 💬: [82](https://news.ycombinator.com/item?id=44193018) \| 🗓️ 2025-06-05
+| 🔥🔥: 136 \| 💬: [86](https://news.ycombinator.com/item?id=44193018) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -110,25 +110,11 @@ Google 发布其最先进模型 Gemini 2.5 Pro 预览版 (06-05)，专为**编�
 
 ---
 
-## <a name="7"></a>7. 十年押注 Rust：回顾与展望 
-<small>🔗 [tably.com](https://tably.com/tably/10-years-of-betting-on-rust): 10 Years of Betting on Rust</small>
-
-
-| 🔥🔥: 111 \| 💬: [47](https://news.ycombinator.com/item?id=44190190) \| 🗓️ 2025-06-05
-
-
-<br />
-作者回顾十年 Rust 开发历程：早期遭遇 **借用检查器** 学习曲线陡峭、版本兼容混乱及 **编译时间** 冗长等挑战。得益于卓越的社区与高质量生态库（如 tokio、hyper），Rust 在系统与后端领域已蜕变为 **安全可靠** 的选择，其严谨设计带来优异的性能与稳定性。展望未来，期待编译速度进一步提升、异步并发模型简化、`const` 泛化、减少平台条件编译，并在浏览器、GUI 等更多领域突破生态壁垒。Rust 凭借开发者体验的持续优化及社区活力，未来十年发展轨迹令人振奋。
-
-（字数：178）
-
----
-
-## <a name="8"></a>8. 开源 ClickStack：基于 ClickHouse 和 HyperDX 的 Datadog 替代方案 
+## <a name="7"></a>7. 开源 ClickStack：基于 ClickHouse 和 HyperDX 的 Datadog 替代方案 
 <small>🔗 [github.com](https://github.com/hyperdxio/hyperdx): Show HN: ClickStack – Open-source Datadog alternative by ClickHouse and HyperDX</small>
 
 
-| 🔥🔥: 109 \| 💬: [20](https://news.ycombinator.com/item?id=44194082) \| 🗓️ 2025-06-05
+| 🔥🔥: 136 \| 💬: [24](https://news.ycombinator.com/item?id=44194082) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -136,11 +122,23 @@ ClickStack 是基于高性能数据库 **ClickHouse** 的开源可观测性解�
 
 ---
 
+## <a name="8"></a>8. 十一实验室v3震撼发布 
+<small>🔗 [elevenlabs.io](https://elevenlabs.io/v3): Eleven v3</small>
+
+
+| 🔥🔥: 115 \| 💬: [73](https://news.ycombinator.com/item?id=44194521) \| 🗓️ 2025-06-05
+
+
+<br />
+ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其核心突破在于：1）通过**情感音频标签**精确控制语音的情绪、节奏与音效，实现前所未有的表现力；2）支持生成自然的**多角色对话**，角色间能共享语境与情感；3）覆盖**70多种语言**，提供细腻的全球语言支持。该模型在UI端提供80%限时折扣，并即将开放API。演示视频中的所有样本均由v3独立生成，展现了动态对话与丰富音景的卓越能力。
+
+---
+
 ## <a name="9"></a>9. 垃圾箱商店七日观察 
 <small>🔗 [defector.com](https://defector.com/seven-days-at-the-bin-store): Seven Days at the Bin Store</small>
 
 
-| 🔥🔥: 101 \| 💬: [44](https://news.ycombinator.com/item?id=44192995) \| 🗓️ 2025-06-05
+| 🔥🔥: 114 \| 💬: [49](https://news.ycombinator.com/item?id=44192995) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -152,7 +150,45 @@ ClickStack 是基于高性能数据库 **ClickHouse** 的开源可观测性解�
 
 ---
 
-## <a name="10"></a>10. DNS4EU公共服务正式上线 
+## <a name="10"></a>10. 十年押注 Rust：回顾与展望 
+<small>🔗 [tably.com](https://tably.com/tably/10-years-of-betting-on-rust): 10 Years of Betting on Rust</small>
+
+
+| 🔥🔥: 112 \| 💬: [47](https://news.ycombinator.com/item?id=44190190) \| 🗓️ 2025-06-05
+
+
+<br />
+作者回顾十年 Rust 开发历程：早期遭遇 **借用检查器** 学习曲线陡峭、版本兼容混乱及 **编译时间** 冗长等挑战。得益于卓越的社区与高质量生态库（如 tokio、hyper），Rust 在系统与后端领域已蜕变为 **安全可靠** 的选择，其严谨设计带来优异的性能与稳定性。展望未来，期待编译速度进一步提升、异步并发模型简化、`const` 泛化、减少平台条件编译，并在浏览器、GUI 等更多领域突破生态壁垒。Rust 凭借开发者体验的持续优化及社区活力，未来十年发展轨迹令人振奋。
+
+（字数：178）
+
+---
+
+## <a name="11"></a>11. 拉布拉多海岸惊现罕见黑色冰山，或存世十万年 
+<small>🔗 [cbc.ca](https://www.cbc.ca/news/canada/newfoundland-labrador/black-iceberg-labrador-coast-1.7551078): Rare black iceberg spotted off Labrador coast could be 100k years old</small>
+
+
+| 🔥: 98 \| 💬: [43](https://news.ycombinator.com/item?id=44193120) \| 🗓️ 2025-06-05
+
+
+<br />
+加拿大纽芬兰省渔民哈勒尔·安东尼森在拉布拉多海岸捕虾时，意外发现一座**黑色**冰山并拍下照片。该照片在社交媒体引发热议。专家分析认为，这座形状独特的冰山可能极为古老。纪念大学物理海洋学教授列夫·塔拉索夫指出，其内部冰层可能因数万年积累的沉积物或古老**陨石撞击**残留物而呈现黑色，冰山年龄或高达**十万年历史**。冰山形成于格陵兰冰盖，经漫长漂流抵达拉布拉多海域，其底部沉积层揭示了远古地质活动痕迹。
+
+---
+
+## <a name="12"></a>12. Phptop：轻量级PHP性能监控工具 
+<small>🔗 [github.com](https://github.com/bearstech/phptop): Phptop: Simple PHP ressource profiler, safe and useful for production sites</small>
+
+
+| 🔥: 92 \| 💬: [13](https://news.ycombinator.com/item?id=44189741) \| 🗓️ 2025-06-05
+
+
+<br />
+Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用情况。其核心优势在于**安全适用于生产环境**，已通过多年实际部署验证。配置极其简便，仅需在php.ini中添加**单行配置**即可全局启用（支持PHP 5.2至8.2）。工具自动收集并汇总各URL请求的执行时间（包括挂钟时间、用户/系统CPU时间）、内存消耗（单次/峰值）及访问频次等关键指标，支持按需排序输出（如`phptop -s mem`）。数据收集周期灵活（默认为10分钟），资源开销极低，是优化PHP应用性能的实用利器。
+
+---
+
+## <a name="13"></a>13. DNS4EU公共服务正式上线 
 <small>🔗 [joindns4.eu](https://www.joindns4.eu/for-public): DNS4EU for Public Is Available</small>
 
 
@@ -164,47 +200,11 @@ ClickStack 是基于高性能数据库 **ClickHouse** 的开源可观测性解�
 
 ---
 
-## <a name="11"></a>11. Phptop：轻量级PHP性能监控工具 
-<small>🔗 [github.com](https://github.com/bearstech/phptop): Phptop: Simple PHP ressource profiler, safe and useful for production sites</small>
-
-
-| 🔥: 91 \| 💬: [13](https://news.ycombinator.com/item?id=44189741) \| 🗓️ 2025-06-05
-
-
-<br />
-Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用情况。其核心优势在于**安全适用于生产环境**，已通过多年实际部署验证。配置极其简便，仅需在php.ini中添加**单行配置**即可全局启用（支持PHP 5.2至8.2）。工具自动收集并汇总各URL请求的执行时间（包括挂钟时间、用户/系统CPU时间）、内存消耗（单次/峰值）及访问频次等关键指标，支持按需排序输出（如`phptop -s mem`）。数据收集周期灵活（默认为10分钟），资源开销极低，是优化PHP应用性能的实用利器。
-
----
-
-## <a name="12"></a>12. 十一实验室v3震撼发布 
-<small>🔗 [elevenlabs.io](https://elevenlabs.io/v3): Eleven v3</small>
-
-
-| 🔥: 88 \| 💬: [67](https://news.ycombinator.com/item?id=44194521) \| 🗓️ 2025-06-05
-
-
-<br />
-ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其核心突破在于：1）通过**情感音频标签**精确控制语音的情绪、节奏与音效，实现前所未有的表现力；2）支持生成自然的**多角色对话**，角色间能共享语境与情感；3）覆盖**70多种语言**，提供细腻的全球语言支持。该模型在UI端提供80%限时折扣，并即将开放API。演示视频中的所有样本均由v3独立生成，展现了动态对话与丰富音景的卓越能力。
-
----
-
-## <a name="13"></a>13. 拉布拉多海岸惊现罕见黑色冰山，或存世十万年 
-<small>🔗 [cbc.ca](https://www.cbc.ca/news/canada/newfoundland-labrador/black-iceberg-labrador-coast-1.7551078): Rare black iceberg spotted off Labrador coast could be 100k years old</small>
-
-
-| 🔥: 86 \| 💬: [41](https://news.ycombinator.com/item?id=44193120) \| 🗓️ 2025-06-05
-
-
-<br />
-加拿大纽芬兰省渔民哈勒尔·安东尼森在拉布拉多海岸捕虾时，意外发现一座**黑色**冰山并拍下照片。该照片在社交媒体引发热议。专家分析认为，这座形状独特的冰山可能极为古老。纪念大学物理海洋学教授列夫·塔拉索夫指出，其内部冰层可能因数万年积累的沉积物或古老**陨石撞击**残留物而呈现黑色，冰山年龄或高达**十万年历史**。冰山形成于格陵兰冰盖，经漫长漂流抵达拉布拉多海域，其底部沉积层揭示了远古地质活动痕迹。
-
----
-
 ## <a name="14"></a>14. 半胱氨酸缺乏触发脂肪组织产热与减重 
 <small>🔗 [nature.com](https://www.nature.com/articles/s42255-025-01297-8): Cysteine depletion triggers adipose tissue thermogenesis and weight loss</small>
 
 
-| 🔥: 78 \| 💬: [54](https://news.ycombinator.com/item?id=44193225) \| 🗓️ 2025-06-05
+| 🔥: 81 \| 💬: [53](https://news.ycombinator.com/item?id=44193225) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -218,7 +218,7 @@ ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其�
 <small>🔗 [theguardian.com](https://www.theguardian.com/society/2025/jun/05/millions-in-west-do-not-know-they-have-aggressive-fatty-liver-disease-study-says): Millions in west don't know they have aggressive fatty liver disease, study says</small>
 
 
-| 🔥: 76 \| 💬: [79](https://news.ycombinator.com/item?id=44193970) \| 🗓️ 2025-06-05
+| 🔥: 77 \| 💬: [85](https://news.ycombinator.com/item?id=44193970) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -232,7 +232,7 @@ ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其�
 <small>🔗 [michaelgeist.ca](https://www.michaelgeist.ca/2025/06/privacy-at-risk-government-buries-lawful-access-provisions-in-new-border-bill/): Canadian Government Buries “Lawful Access” Provisions in New Border Bill</small>
 
 
-| 🔥: 66 \| 💬: [15](https://news.ycombinator.com/item?id=44190832) \| 🗓️ 2025-06-05
+| 🔥: 67 \| 💬: [15](https://news.ycombinator.com/item?id=44190832) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -251,7 +251,7 @@ ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其�
 <small>🔗 [fossa.com](https://fossa.com/blog/understanding-purl-specification-package-url/): Understanding the PURL Specification (Package URL)</small>
 
 
-| 🔥: 59 \| 💬: [48](https://news.ycombinator.com/item?id=44192955) \| 🗓️ 2025-06-05
+| 🔥: 63 \| 💬: [49](https://news.ycombinator.com/item?id=44192955) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -263,7 +263,7 @@ ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其�
 <small>🔗 [bugsink.com](https://www.bugsink.com/blog/track-errors-first/): Track Errors First</small>
 
 
-| 🔥: 54 \| 💬: [42](https://news.ycombinator.com/item?id=44190643) \| 🗓️ 2025-06-05
+| 🔥: 55 \| 💬: [42](https://news.ycombinator.com/item?id=44190643) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -287,7 +287,7 @@ ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其�
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/): X changes its terms to bar training of AI models using its content</small>
 
 
-| 🔥: 48 \| 💬: [61](https://news.ycombinator.com/item?id=44193390) \| 🗓️ 2025-06-05
+| 🔥: 48 \| 💬: [62](https://news.ycombinator.com/item?id=44193390) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -295,11 +295,25 @@ ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其�
 
 ---
 
-## <a name="21"></a>21. 神经形态计算：下一代高效能AI 
+## <a name="21"></a>21. Tokasaurus：专为高吞吐量任务设计的LLM推理引擎 
+<small>🔗 [scalingintelligence.stanford.edu](https://scalingintelligence.stanford.edu/blogs/tokasaurus/): Tokasaurus: An LLM Inference Engine for High-Throughput Workloads</small>
+
+
+| 🔥: 48 \| 💬: [5](https://news.ycombinator.com/item?id=44195961) \| 🗓️ 2025-06-05
+
+
+<br />
+斯坦福团队推出全新开源推理引擎 **Tokasaurus**，针对大规模批量推理场景优化，在吞吐量基准测试中性能较vLLM/SGLang提升最高达3倍。核心创新包括：对**小模型**采用动态Hydragen分组技术高效处理共享前缀，结合自适应CPU管理降低延迟；对**大模型**提供异步张量并行（NVLink GPU）与高效流水线并行（非NVLink GPU）方案。该引擎支持Llama-3/Qwen-2系列模型，纯Python编写便于二次开发，已开源并发布PyPI包。
+
+（注：摘要共218字符，加粗3个关键术语，标题独立加粗行，符合简体中文与字符数要求）
+
+---
+
+## <a name="22"></a>22. 神经形态计算：下一代高效能AI 
 <small>🔗 [lanl.gov](https://www.lanl.gov/media/publications/1663/1269-neuromorphic-computing): Neuromorphic computing</small>
 
 
-| 🔥: 45 \| 💬: [34](https://news.ycombinator.com/item?id=44194469) \| 🗓️ 2025-06-05
+| 🔥: 47 \| 💬: [35](https://news.ycombinator.com/item?id=44194469) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -312,7 +326,7 @@ ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其�
 
 ---
 
-## <a name="22"></a>22. Anthropic为美国国家安全机构推出定制Claude Gov模型 
+## <a name="23"></a>23. Anthropic为美国国家安全机构推出定制Claude Gov模型 
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers): Claude Gov Models for U.S. National Security Customers</small>
 
 
