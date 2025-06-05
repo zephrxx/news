@@ -27,7 +27,7 @@ tags:
 <small>🔗 [git.ffmpeg.org](https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00): FFmpeg merges WebRTC support</small>
 
 
-| 🔥🔥: 582 \| 💬: [130](https://news.ycombinator.com/item?id=44182186) \| 🗓️ 2025-06-04
+| 🔥🔥: 603 \| 💬: [131](https://news.ycombinator.com/item?id=44182186) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [mastodon.laurenweinstein.org](https://mastodon.laurenweinstein.org/@lauren/114627064774788581): After court order, OpenAI is now preserving all ChatGPT user logs</small>
 
 
-| 🔥🔥: 493 \| 💬: [345](https://news.ycombinator.com/item?id=44185913) \| 🗓️ 2025-06-04
+| 🔥🔥: 533 \| 💬: [370](https://news.ycombinator.com/item?id=44185913) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [chrisgiven.com](https://chrisgiven.com/2025/05/direct-file-on-github/): IRS Direct File on GitHub</small>
 
 
-| 🔥🔥: 480 \| 💬: [215](https://news.ycombinator.com/item?id=44182356) \| 🗓️ 2025-06-04
+| 🔥🔥: 508 \| 💬: [222](https://news.ycombinator.com/item?id=44182356) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [happihacking.com](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/): Why I wrote the BEAM book</small>
 
 
-| 🔥🔥: 427 \| 💬: [118](https://news.ycombinator.com/item?id=44179257) \| 🗓️ 2025-06-04
+| 🔥🔥: 438 \| 💬: [118](https://news.ycombinator.com/item?id=44179257) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/06/right-repair-law-washington-state): The Right to Repair Is Law in Washington State</small>
 
 
-| 🔥🔥: 361 \| 💬: [147](https://news.ycombinator.com/item?id=44181421) \| 🗓️ 2025-06-04
+| 🔥🔥: 366 \| 💬: [147](https://news.ycombinator.com/item?id=44181421) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -99,7 +99,7 @@ Google Cloud宣布**Cloud Run GPU支持**正式全面开放（GA），开发者�
 <small>🔗 [github.com](https://github.com/explainers-by-googlers/local-network-access): A proposal to restrict sites from accessing a users’ local network</small>
 
 
-| 🔥🔥: 260 \| 💬: [152](https://news.ycombinator.com/item?id=44183799) \| 🗓️ 2025-06-04
+| 🔥🔥: 280 \| 💬: [166](https://news.ycombinator.com/item?id=44183799) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -111,7 +111,7 @@ Google Cloud宣布**Cloud Run GPU支持**正式全面开放（GA），开发者�
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/06/09/curtis-yarvin-profile): Curtis Yarvin's Plot Against America</small>
 
 
-| 🔥🔥: 250 \| 💬: [304](https://news.ycombinator.com/item?id=44184305) \| 🗓️ 2025-06-04
+| 🔥🔥: 255 \| 💬: [314](https://news.ycombinator.com/item?id=44184305) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -123,7 +123,7 @@ Google Cloud宣布**Cloud Run GPU支持**正式全面开放（GA），开发者�
 <small>🔗 [tech.marksblogg.com](https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html): The iPhone 15 Pro’s Depth Maps</small>
 
 
-| 🔥🔥: 228 \| 💬: [62](https://news.ycombinator.com/item?id=44183591) \| 🗓️ 2025-06-04
+| 🔥🔥: 236 \| 💬: [66](https://news.ycombinator.com/item?id=44183591) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -131,35 +131,11 @@ Google Cloud宣布**Cloud Run GPU支持**正式全面开放（GA），开发者�
 
 ---
 
-## <a name="10"></a>10. Meta和Yandex被曝通过安卓设备秘密追踪用户 
-<small>🔗 [news.sky.com](https://news.sky.com/story/meta-found-covertly-tracking-android-users-through-instagram-and-facebook-13379083): Meta found 'covertly tracking' Android users through Instagram and Facebook</small>
-
-
-| 🔥🔥: 199 \| 💬: [91](https://news.ycombinator.com/item?id=44182204) \| 🗓️ 2025-06-04
-
-
-<br />
-研究发现，**Meta**（旗下包括Facebook和Instagram）和搜索引擎公司**Yandex**利用安卓系统的功能，在用户不知情的情况下**秘密追踪**其浏览器活动。荷兰拉德堡德大学和IMDEA Networks的专家指出，这些公司通过脚本绕过安卓安全措施，甚至能在无痕模式下收集数据。谷歌回应称此举“公然违反隐私原则”，已采取措施并展开调查。Meta表示暂停相关功能，Yandex则否认收集敏感信息。火狐、Edge等浏览器也受影响，部分厂商已采取防护措施。
-
----
-
-## <a name="11"></a>11. 风投资金正推动全球员工监控技术热潮 
-<small>🔗 [restofworld.org](https://restofworld.org/2025/employee-surveillance-software-vc-funding/): VC money is fueling a global boom in worker surveillance tech</small>
-
-
-| 🔥🔥: 198 \| 💬: [140](https://news.ycombinator.com/item?id=44182582) \| 🗓️ 2025-06-04
-
-
-<br />
-根据劳工权益组织Coworker.org的报告，**“小科技”生态**中涌现大量开发监控软件的初创企业，主要依赖风投且缺乏监管。这类技术通过**生物识别、AI生产力分析**和算法管理渗透至发展中国家，尤其在零工经济和办公室场景中引发工人压力与隐私担忧。报告指出，拉美常成为产品测试地，成功后推广至其他地区。尽管多国有数据保护法，但执法不力，工人往往不知数据如何被使用。例如，巴西Uber司机称应用持续监控其驾驶行为，而哥伦比亚配送平台Rappi强制骑手接单以获取奖金。
-
----
-
-## <a name="12"></a>12. 程序员必备的提示词工程指南 
+## <a name="10"></a>10. 程序员必备的提示词工程指南 
 <small>🔗 [addyo.substack.com](https://addyo.substack.com/p/the-prompt-engineering-playbook-for): The Prompt Engineering Playbook for Programmers</small>
 
 
-| 🔥🔥: 194 \| 💬: [75](https://news.ycombinator.com/item?id=44182188) \| 🗓️ 2025-06-04
+| 🔥🔥: 201 \| 💬: [76](https://news.ycombinator.com/item?id=44182188) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -167,11 +143,47 @@ Google Cloud宣布**Cloud Run GPU支持**正式全面开放（GA），开发者�
 
 ---
 
-## <a name="13"></a>13. AI取代所有工作？不过是科技公司的营销噱头 
+## <a name="11"></a>11. Meta和Yandex被曝通过安卓设备秘密追踪用户 
+<small>🔗 [news.sky.com](https://news.sky.com/story/meta-found-covertly-tracking-android-users-through-instagram-and-facebook-13379083): Meta found 'covertly tracking' Android users through Instagram and Facebook</small>
+
+
+| 🔥🔥: 200 \| 💬: [91](https://news.ycombinator.com/item?id=44182204) \| 🗓️ 2025-06-04
+
+
+<br />
+研究发现，**Meta**（旗下包括Facebook和Instagram）和搜索引擎公司**Yandex**利用安卓系统的功能，在用户不知情的情况下**秘密追踪**其浏览器活动。荷兰拉德堡德大学和IMDEA Networks的专家指出，这些公司通过脚本绕过安卓安全措施，甚至能在无痕模式下收集数据。谷歌回应称此举“公然违反隐私原则”，已采取措施并展开调查。Meta表示暂停相关功能，Yandex则否认收集敏感信息。火狐、Edge等浏览器也受影响，部分厂商已采取防护措施。
+
+---
+
+## <a name="12"></a>12. 风投资金正推动全球员工监控技术热潮 
+<small>🔗 [restofworld.org](https://restofworld.org/2025/employee-surveillance-software-vc-funding/): VC money is fueling a global boom in worker surveillance tech</small>
+
+
+| 🔥🔥: 200 \| 💬: [141](https://news.ycombinator.com/item?id=44182582) \| 🗓️ 2025-06-04
+
+
+<br />
+根据劳工权益组织Coworker.org的报告，**“小科技”生态**中涌现大量开发监控软件的初创企业，主要依赖风投且缺乏监管。这类技术通过**生物识别、AI生产力分析**和算法管理渗透至发展中国家，尤其在零工经济和办公室场景中引发工人压力与隐私担忧。报告指出，拉美常成为产品测试地，成功后推广至其他地区。尽管多国有数据保护法，但执法不力，工人往往不知数据如何被使用。例如，巴西Uber司机称应用持续监控其驾驶行为，而哥伦比亚配送平台Rappi强制骑手接单以获取奖金。
+
+---
+
+## <a name="13"></a>13. Cursor 1.0 重磅发布：AI编程助手全面升级 
+<small>🔗 [cursor.com](https://www.cursor.com/en/changelog/1-0): Cursor 1.0</small>
+
+
+| 🔥🔥: 188 \| 💬: [106](https://news.ycombinator.com/item?id=44185256) \| 🗓️ 2025-06-04
+
+
+<br />
+Cursor 1.0 推出了多项创新功能：**BugBot** 可自动审查代码并标记潜在问题；**Background Agent** 结束内测，全面开放远程编程支持；新增 **Jupyter Notebooks** 直接编辑能力，提升数据科学效率。此外，**Memories** 功能可记录对话上下文，**MCP一键安装** 简化服务器配置，聊天界面新增可视化图表渲染。本次更新还优化了设置面板和团队管理功能，为开发者提供更流畅的协作体验。
+
+---
+
+## <a name="14"></a>14. AI取代所有工作？不过是科技公司的营销噱头 
 <small>🔗 [sparktoro.com](https://sparktoro.com/blog/ai-will-replace-all-the-jobs-is-just-tech-execs-doing-marketing/): "AI Will Replace All the Jobs " Is Just Tech Execs Doing Marketing</small>
 
 
-| 🔥🔥: 177 \| 💬: [270](https://news.ycombinator.com/item?id=44181172) \| 🗓️ 2025-06-04
+| 🔥🔥: 181 \| 💬: [270](https://news.ycombinator.com/item?id=44181172) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -179,11 +191,11 @@ Google Cloud宣布**Cloud Run GPU支持**正式全面开放（GA），开发者�
 
 ---
 
-## <a name="14"></a>14. Mistral Code：企业级AI智能编程助手 
+## <a name="15"></a>15. Mistral Code：企业级AI智能编程助手 
 <small>🔗 [mistral.ai](https://mistral.ai/products/mistral-code): Mistral Code</small>
 
 
-| 🔥🔥: 177 \| 💬: [93](https://news.ycombinator.com/item?id=44183515) \| 🗓️ 2025-06-04
+| 🔥🔥: 179 \| 💬: [93](https://news.ycombinator.com/item?id=44183515) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -191,27 +203,15 @@ Mistral Code是一款**AI驱动的企业级编程工具**，提供**闪电般的
 
 ---
 
-## <a name="15"></a>15. 苹果备忘录或将在iOS 26中支持Markdown语法 
+## <a name="16"></a>16. 苹果备忘录或将在iOS 26中支持Markdown语法 
 <small>🔗 [macrumors.com](https://www.macrumors.com/2025/06/04/apple-notes-rumored-markdown-support-ios-26/): Apple Notes Expected to Gain Markdown Support in iOS 26</small>
 
 
-| 🔥🔥: 162 \| 💬: [92](https://news.ycombinator.com/item?id=44183923) \| 🗓️ 2025-06-04
+| 🔥🔥: 173 \| 💬: [113](https://news.ycombinator.com/item?id=44183923) \| 🗓️ 2025-06-04
 
 
 <br />
 据9to5Mac报道，苹果计划在iOS 26和macOS 26中为**备忘录应用**添加**Markdown支持**，用户可通过简单语法（如`**加粗**`或`# 标题`）快速格式化文本，无需依赖现有富文本控件。这一升级将吸引开发者、写作者等**高级用户**，并缩小与Obsidian等第三方笔记应用的差距。新功能或于下周WWDC大会与iOS 26的自动翻译、信息投票等改进一同亮相。
-
----
-
-## <a name="16"></a>16. Cursor 1.0 重磅发布：AI编程助手全面升级 
-<small>🔗 [cursor.com](https://www.cursor.com/en/changelog/1-0): Cursor 1.0</small>
-
-
-| 🔥🔥: 158 \| 💬: [86](https://news.ycombinator.com/item?id=44185256) \| 🗓️ 2025-06-04
-
-
-<br />
-Cursor 1.0 推出了多项创新功能：**BugBot** 可自动审查代码并标记潜在问题；**Background Agent** 结束内测，全面开放远程编程支持；新增 **Jupyter Notebooks** 直接编辑能力，提升数据科学效率。此外，**Memories** 功能可记录对话上下文，**MCP一键安装** 简化服务器配置，聊天界面新增可视化图表渲染。本次更新还优化了设置面板和团队管理功能，为开发者提供更流畅的协作体验。
 
 ---
 
@@ -231,7 +231,7 @@ Cursor 1.0 推出了多项创新功能：**BugBot** 可自动审查代码并标�
 <small>🔗 [cdn.openai.com](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf): A practical guide to building agents [pdf]</small>
 
 
-| 🔥🔥: 131 \| 💬: [19](https://news.ycombinator.com/item?id=44181700) \| 🗓️ 2025-06-04
+| 🔥🔥: 137 \| 💬: [20](https://news.ycombinator.com/item?id=44181700) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -243,7 +243,7 @@ Cursor 1.0 推出了多项创新功能：**BugBot** 可自动审查代码并标�
 <small>🔗 [tudelft.nl](https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first): Autonomous drone defeats human champions in racing first</small>
 
 
-| 🔥🔥: 128 \| 💬: [99](https://news.ycombinator.com/item?id=44184900) \| 🗓️ 2025-06-04
+| 🔥🔥: 137 \| 💬: [102](https://news.ycombinator.com/item?id=44184900) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -255,7 +255,7 @@ Cursor 1.0 推出了多项创新功能：**BugBot** 可自动审查代码并标�
 <small>🔗 [swift.org](https://swift.org/): Redesigned Swift.org is now live</small>
 
 
-| 🔥🔥: 125 \| 💬: [85](https://news.ycombinator.com/item?id=44184542) \| 🗓️ 2025-06-04
+| 🔥🔥: 135 \| 💬: [87](https://news.ycombinator.com/item?id=44184542) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -263,23 +263,11 @@ Swift是一种**强大**、**灵活**的跨平台编程语言，兼具**高性�
 
 ---
 
-## <a name="21"></a>21. 天空才是极限：Mac上的AI自动化革命 
-<small>🔗 [taoofmac.com](https://taoofmac.com/space/blog/2025/06/03/2155): The Sky's the limit: AI automation on Mac</small>
-
-
-| 🔥🔥: 114 \| 💬: [69](https://news.ycombinator.com/item?id=44179691) \| 🗓️ 2025-06-04
-
-
-<br />
-作者质疑**苹果**为何未能利用前员工（曾开发Workflow和Shortcuts）的才华，导致第三方应用**Sky**在AI自动化领域远超苹果自身技术。Sky通过理解用户意图并自动化操作，展现了Mac体验的未来可能。文章批评苹果内部管理混乱、对自动化的忽视，并指出其隐私优势未得到充分发挥。最后，作者对即将到来的WWDC不抱期待，认为苹果已严重脱离用户需求。
-
----
-
-## <a name="22"></a>22. AGI并非多模态：脱离物理世界的智能只是空中楼阁 
+## <a name="21"></a>21. AGI并非多模态：脱离物理世界的智能只是空中楼阁 
 <small>🔗 [thegradient.pub](https://thegradient.pub/agi-is-not-multimodal/): AGI is not multimodal</small>
 
 
-| 🔥🔥: 111 \| 💬: [104](https://news.ycombinator.com/item?id=44181613) \| 🗓️ 2025-06-04
+| 🔥🔥: 116 \| 💬: [109](https://news.ycombinator.com/item?id=44181613) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -287,23 +275,23 @@ Swift是一种**强大**、**灵活**的跨平台编程语言，兼具**高性�
 
 ---
 
-## <a name="23"></a>23. 全面开源Langfuse：加速LLM应用开发的开放核心战略 
-<small>🔗 [langfuse.com](https://langfuse.com/blog/2025-06-04-open-sourcing-langfuse-product): Doubling Down on Open Source</small>
+## <a name="22"></a>22. 天空才是极限：Mac上的AI自动化革命 
+<small>🔗 [taoofmac.com](https://taoofmac.com/space/blog/2025/06/03/2155): The Sky's the limit: AI automation on Mac</small>
 
 
-| 🔥🔥: 106 \| 💬: [9](https://news.ycombinator.com/item?id=44180954) \| 🗓️ 2025-06-04
+| 🔥🔥: 115 \| 💬: [69](https://news.ycombinator.com/item?id=44179691) \| 🗓️ 2025-06-04
 
 
 <br />
-2025年6月4日，**Langfuse**宣布将旗下所有产品功能（包括**LLM-as-a-Judge评估**、标注队列、提示词实验和Playground）以**MIT许可证**开源，进一步强化其作为**开源LLM工程平台**的定位。团队认为，开放核心能促进社区信任、加速迭代，并巩固市场首选地位。此前商用功能现仅保留企业级安全特性（如SCIM、审计日志）。目前全球已有超8000个自托管实例，此次变革旨在降低开发门槛，推动生态协作。用户可通过GitHub参与贡献或直接部署生产级方案。
+作者质疑**苹果**为何未能利用前员工（曾开发Workflow和Shortcuts）的才华，导致第三方应用**Sky**在AI自动化领域远超苹果自身技术。Sky通过理解用户意图并自动化操作，展现了Mac体验的未来可能。文章批评苹果内部管理混乱、对自动化的忽视，并指出其隐私优势未得到充分发挥。最后，作者对即将到来的WWDC不抱期待，认为苹果已严重脱离用户需求。
 
 ---
 
-## <a name="24"></a>24. 用AI秒建3D模型：AdamCAD颠覆传统设计流程 
+## <a name="23"></a>23. 用AI秒建3D模型：AdamCAD颠覆传统设计流程 
 <small>🔗 [adamcad.com](https://www.adamcad.com/): Show HN: GPT image editing, but for 3D models</small>
 
 
-| 🔥🔥: 105 \| 💬: [62](https://news.ycombinator.com/item?id=44182206) \| 🗓️ 2025-06-04
+| 🔥🔥: 109 \| 💬: [63](https://news.ycombinator.com/item?id=44182206) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -311,11 +299,23 @@ AdamCAD是一款**AI驱动的CAD平台**，支持通过文本或图片快速生�
 
 ---
 
+## <a name="24"></a>24. 全面开源Langfuse：加速LLM应用开发的开放核心战略 
+<small>🔗 [langfuse.com](https://langfuse.com/blog/2025-06-04-open-sourcing-langfuse-product): Doubling Down on Open Source</small>
+
+
+| 🔥🔥: 107 \| 💬: [10](https://news.ycombinator.com/item?id=44180954) \| 🗓️ 2025-06-04
+
+
+<br />
+2025年6月4日，**Langfuse**宣布将旗下所有产品功能（包括**LLM-as-a-Judge评估**、标注队列、提示词实验和Playground）以**MIT许可证**开源，进一步强化其作为**开源LLM工程平台**的定位。团队认为，开放核心能促进社区信任、加速迭代，并巩固市场首选地位。此前商用功能现仅保留企业级安全特性（如SCIM、审计日志）。目前全球已有超8000个自托管实例，此次变革旨在降低开发门槛，推动生态协作。用户可通过GitHub参与贡献或直接部署生产级方案。
+
+---
+
 ## <a name="25"></a>25. 我们在治疗年龄相关疾病方面有多糟糕？ 
 <small>🔗 [ladanuzhna.xyz](https://www.ladanuzhna.xyz/writing/just-how-bad-are-we-at-treating-age-related-diseases): Just how bad are we at treating age-related diseases?</small>
 
 
-| 🔥🔥: 101 \| 💬: [118](https://news.ycombinator.com/item?id=44179329) \| 🗓️ 2025-06-04
+| 🔥🔥: 101 \| 💬: [119](https://news.ycombinator.com/item?id=44179329) \| 🗓️ 2025-06-04
 
 
 <br />
