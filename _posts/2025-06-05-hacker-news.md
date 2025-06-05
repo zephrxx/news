@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共6条，具体内容您往下读...
+总共22条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [puri.sm](https://puri.sm/posts/google-restricts-android-sideloading-what-it-means-for-user-autonomy-and-the-future-of-mobile-freedom/): Google restricts Android sideloading</small>
 
 
-| 🔥🔥: 353 \| 💬: [230](https://news.ycombinator.com/item?id=44193198) \| 🗓️ 2025-06-05
+| 🔥🔥: 387 \| 💬: [260](https://news.ycombinator.com/item?id=44193198) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -43,7 +43,7 @@ tags:
 <small>🔗 [crookedtimber.org](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/): The impossible predicament of the death newts</small>
 
 
-| 🔥🔥: 325 \| 💬: [106](https://news.ycombinator.com/item?id=44191620) \| 🗓️ 2025-06-05
+| 🔥🔥: 354 \| 💬: [118](https://news.ycombinator.com/item?id=44191620) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -64,7 +64,7 @@ tags:
 <small>🔗 [deepmind.google](https://deepmind.google/models/gemini/pro/): Gemini-2.5-pro-preview-06-05</small>
 
 
-| 🔥🔥: 252 \| 💬: [143](https://news.ycombinator.com/item?id=44193328) \| 🗓️ 2025-06-05
+| 🔥🔥: 270 \| 💬: [160](https://news.ycombinator.com/item?id=44193328) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -76,7 +76,7 @@ Google 发布其最先进模型 Gemini 2.5 Pro 预览版 (06-05)，专为**编�
 <small>🔗 [daringfireball.net](https://daringfireball.net/linked/2025/06/04/apple-notes-markdown): Apple Notes Will Gain Markdown Export at WWDC, and, I Have Thoughts</small>
 
 
-| 🔥🔥: 213 \| 💬: [124](https://news.ycombinator.com/item?id=44191558) \| 🗓️ 2025-06-05
+| 🔥🔥: 225 \| 💬: [130](https://news.ycombinator.com/item?id=44191558) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -90,7 +90,7 @@ Google 发布其最先进模型 Gemini 2.5 Pro 预览版 (06-05)，专为**编�
 <small>🔗 [mjg59.dreamwidth.org](https://mjg59.dreamwidth.org/71646.html): Twitter's new encrypted DMs aren't better than the old ones</small>
 
 
-| 🔥🔥: 166 \| 💬: [164](https://news.ycombinator.com/item?id=44191591) \| 🗓️ 2025-06-05
+| 🔥🔥: 167 \| 💬: [165](https://news.ycombinator.com/item?id=44191591) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -102,10 +102,226 @@ Google 发布其最先进模型 Gemini 2.5 Pro 预览版 (06-05)，专为**编�
 <small>🔗 [blog.glyph.im](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html): I think I'm done thinking about GenAI for now</small>
 
 
-| 🔥🔥: 121 \| 💬: [74](https://news.ycombinator.com/item?id=44193018) \| 🗓️ 2025-06-05
+| 🔥🔥: 127 \| 💬: [82](https://news.ycombinator.com/item?id=44193018) \| 🗓️ 2025-06-05
 
 
 <br />
 作者自比《神探阿蒙》中神经质、易被琐碎矛盾困扰的侦探，而非福尔摩斯式的逻辑天才。他通常通过深度思考解决认知冲突，但面对**生成式AI**却深感无力。他认为当前相关讨论充满无效争论，尤其批评“反反AI”文章回避核心问题（如气候影响、虚假信息）。他承认自身对AI的**美学特质**（尤其是其混乱的创作过程）存在强烈负面偏见，并以编程为例：AI辅助编码冗长低效，需反复纠错且无法真正理解反馈，消耗心力。他虽预感AI技术可能崩溃，但更担忧其模糊性会长期误导决策层。最终，他决定停止参与争论，并呼吁同样疲惫者**退出讨论**以自我保护。
+
+---
+
+## <a name="7"></a>7. 十年押注 Rust：回顾与展望 
+<small>🔗 [tably.com](https://tably.com/tably/10-years-of-betting-on-rust): 10 Years of Betting on Rust</small>
+
+
+| 🔥🔥: 111 \| 💬: [47](https://news.ycombinator.com/item?id=44190190) \| 🗓️ 2025-06-05
+
+
+<br />
+作者回顾十年 Rust 开发历程：早期遭遇 **借用检查器** 学习曲线陡峭、版本兼容混乱及 **编译时间** 冗长等挑战。得益于卓越的社区与高质量生态库（如 tokio、hyper），Rust 在系统与后端领域已蜕变为 **安全可靠** 的选择，其严谨设计带来优异的性能与稳定性。展望未来，期待编译速度进一步提升、异步并发模型简化、`const` 泛化、减少平台条件编译，并在浏览器、GUI 等更多领域突破生态壁垒。Rust 凭借开发者体验的持续优化及社区活力，未来十年发展轨迹令人振奋。
+
+（字数：178）
+
+---
+
+## <a name="8"></a>8. 开源 ClickStack：基于 ClickHouse 和 HyperDX 的 Datadog 替代方案 
+<small>🔗 [github.com](https://github.com/hyperdxio/hyperdx): Show HN: ClickStack – Open-source Datadog alternative by ClickHouse and HyperDX</small>
+
+
+| 🔥🔥: 109 \| 💬: [20](https://news.ycombinator.com/item?id=44194082) \| 🗓️ 2025-06-05
+
+
+<br />
+ClickStack 是基于高性能数据库 **ClickHouse** 的开源可观测性解决方案。它整合了日志、指标、追踪、会话回放和错误数据，提供**亚秒级查询**速度（即使处理海量高基数数据）和**高达 30 倍的存储压缩率**，显著降低成本。其统一平台 HyperDX 界面支持类 Lucene 搜索和完整 SQL 分析，便于创建仪表盘和告警。索尼 LIV 和 Trip.com 等案例证实其可处理每秒数千万事件，提升查询效率并节省开支。支持灵活部署（自建或 ClickHouse Cloud），满足实时监控与分析需求，并能关联业务数据获得深度洞察。
+
+---
+
+## <a name="9"></a>9. 垃圾箱商店七日观察 
+<small>🔗 [defector.com](https://defector.com/seven-days-at-the-bin-store): Seven Days at the Bin Store</small>
+
+
+| 🔥🔥: 101 \| 💬: [44](https://news.ycombinator.com/item?id=44192995) \| 🗓️ 2025-06-05
+
+
+<br />
+本文记录了作者在费城西区"Amazing Binz"垃圾箱商店的实地探访。该店通过**逆向物流经济**模式，销售亚马逊、塔吉特等企业的退货及过度库存商品，采用**每日降价模式**（周五10美元→周三1美元）。
+
+店主艾哈迈德因原餐饮计划受阻而转型此业，每周接收数千件来源不明的**过度库存**商品。顾客包含转售商和普通居民，引发社区两极反应：部分人赞赏其经济价值，另一些人则视其为晚期资本主义的象征。商店凸显了电商退货激增（在线退货率达30%）催生的新型零售生态，也折射出巴尔的摩大道街区不均衡的士绅化矛盾。
+
+（字符数：214）
+
+---
+
+## <a name="10"></a>10. DNS4EU公共服务正式上线 
+<small>🔗 [joindns4.eu](https://www.joindns4.eu/for-public): DNS4EU for Public Is Available</small>
+
+
+| 🔥: 92 \| 💬: [69](https://news.ycombinator.com/item?id=44190071) \| 🗓️ 2025-06-05
+
+
+<br />
+该服务旨在**保护个人隐私**，并通过自身实践**推动服务商与政府**采纳更优标准。其公开可用性标志着其为普通用户提供安全可靠解析服务的承诺，目标在于激励各方**改进默认设置**，提升整体网络环境的安全基准与用户权益保障水平。（字符数：150）
+
+---
+
+## <a name="11"></a>11. Phptop：轻量级PHP性能监控工具 
+<small>🔗 [github.com](https://github.com/bearstech/phptop): Phptop: Simple PHP ressource profiler, safe and useful for production sites</small>
+
+
+| 🔥: 91 \| 💬: [13](https://news.ycombinator.com/item?id=44189741) \| 🗓️ 2025-06-05
+
+
+<br />
+Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用情况。其核心优势在于**安全适用于生产环境**，已通过多年实际部署验证。配置极其简便，仅需在php.ini中添加**单行配置**即可全局启用（支持PHP 5.2至8.2）。工具自动收集并汇总各URL请求的执行时间（包括挂钟时间、用户/系统CPU时间）、内存消耗（单次/峰值）及访问频次等关键指标，支持按需排序输出（如`phptop -s mem`）。数据收集周期灵活（默认为10分钟），资源开销极低，是优化PHP应用性能的实用利器。
+
+---
+
+## <a name="12"></a>12. 十一实验室v3震撼发布 
+<small>🔗 [elevenlabs.io](https://elevenlabs.io/v3): Eleven v3</small>
+
+
+| 🔥: 88 \| 💬: [67](https://news.ycombinator.com/item?id=44194521) \| 🗓️ 2025-06-05
+
+
+<br />
+ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其核心突破在于：1）通过**情感音频标签**精确控制语音的情绪、节奏与音效，实现前所未有的表现力；2）支持生成自然的**多角色对话**，角色间能共享语境与情感；3）覆盖**70多种语言**，提供细腻的全球语言支持。该模型在UI端提供80%限时折扣，并即将开放API。演示视频中的所有样本均由v3独立生成，展现了动态对话与丰富音景的卓越能力。
+
+---
+
+## <a name="13"></a>13. 拉布拉多海岸惊现罕见黑色冰山，或存世十万年 
+<small>🔗 [cbc.ca](https://www.cbc.ca/news/canada/newfoundland-labrador/black-iceberg-labrador-coast-1.7551078): Rare black iceberg spotted off Labrador coast could be 100k years old</small>
+
+
+| 🔥: 86 \| 💬: [41](https://news.ycombinator.com/item?id=44193120) \| 🗓️ 2025-06-05
+
+
+<br />
+加拿大纽芬兰省渔民哈勒尔·安东尼森在拉布拉多海岸捕虾时，意外发现一座**黑色**冰山并拍下照片。该照片在社交媒体引发热议。专家分析认为，这座形状独特的冰山可能极为古老。纪念大学物理海洋学教授列夫·塔拉索夫指出，其内部冰层可能因数万年积累的沉积物或古老**陨石撞击**残留物而呈现黑色，冰山年龄或高达**十万年历史**。冰山形成于格陵兰冰盖，经漫长漂流抵达拉布拉多海域，其底部沉积层揭示了远古地质活动痕迹。
+
+---
+
+## <a name="14"></a>14. 半胱氨酸缺乏触发脂肪组织产热与减重 
+<small>🔗 [nature.com](https://www.nature.com/articles/s42255-025-01297-8): Cysteine depletion triggers adipose tissue thermogenesis and weight loss</small>
+
+
+| 🔥: 78 \| 💬: [54](https://news.ycombinator.com/item?id=44193225) \| 🗓️ 2025-06-05
+
+
+<br />
+研究发现，人体热量限制会降低白色脂肪组织中的**半胱氨酸**水平。在小鼠实验中，系统性半胱氨酸耗竭会导致致命性体重减轻，同时增加脂肪利用并诱导脂肪细胞"褐变"（产热转化），而膳食补充半胱氨酸可逆转此效应。机制上，半胱氨酸限制引发的脂肪褐变和减重依赖于**交感神经系统**通过β3-肾上腺素受体传递的去甲肾上腺素信号，且独立于FGF21和UCP1通路。肥胖小鼠缺乏半胱氨酸后，脂肪组织快速褐变、能量消耗增加，实现30%体重减轻并逆转代谢性炎症，证实半胱氨酸是调控**脂肪组织产热**和体重稳态的关键分子。
+
+（中文字数：196）
+
+---
+
+## <a name="15"></a>15. 研究警示：欧美超1500万人患严重脂肪肝而不自知 
+<small>🔗 [theguardian.com](https://www.theguardian.com/society/2025/jun/05/millions-in-west-do-not-know-they-have-aggressive-fatty-liver-disease-study-says): Millions in west don't know they have aggressive fatty liver disease, study says</small>
+
+
+| 🔥: 76 \| 💬: [79](https://news.ycombinator.com/item?id=44193970) \| 🗓️ 2025-06-05
+
+
+<br />
+国际研究揭示，美国、英国、德国和法国约有2000万人患有最严重的脂肪肝类型——**MASH**（代谢功能障碍相关脂肪性肝炎），但诊断率不足18%，意味着超1500万人不知情。MASH可导致肝纤维化、肝硬化，并增加心血管疾病及肝癌风险。专家呼吁将诊断率较2022年水平提升一倍，建议对2型糖尿病患者、肥胖合并其他风险因素者及肝酶持续偏高人群进行筛查，推荐**非侵入性诊断**（如血液检测、超声、MRI）。研究强调，若不实现**诊断率翻倍**并加强治疗，未来20年直接医疗费用将增长三倍。同时，GLP-1类减肥药物（如司美格鲁肽）被证实可能通过减重改善肝脏健康，糖尿病药物达格列净也显示出减轻肝脏脂肪和纤维化的潜力。
+
+（字数：226 字符）
+
+---
+
+## <a name="16"></a>16. 加拿大边境法案暗藏网络监控条款 
+<small>🔗 [michaelgeist.ca](https://www.michaelgeist.ca/2025/06/privacy-at-risk-government-buries-lawful-access-provisions-in-new-border-bill/): Canadian Government Buries “Lawful Access” Provisions in New Border Bill</small>
+
+
+| 🔥: 66 \| 💬: [15](https://news.ycombinator.com/item?id=44190832) \| 🗓️ 2025-06-05
+
+
+<br />
+加拿大政府近期推出《强化边境法案》(C-2法案)，名义上为加强边境安全，实则**夹带与边境无关的"合法访问"条款**。这些条款允许执法部门在无搜查令情况下获取互联网用户信息，包括：
+1. 新增无需法院监督的"信息索取权"，仅凭"合理怀疑"即可强制要求服务商提供用户账户是否存在、服务地点及时间等**元数据**
+2. 建立针对国内外企业的**全球数据生产令**，扩大跨境数据索取范围
+3. 允许在"紧急情况"下绕过司法程序直接获取用户数据
+
+此举实为执法机构长期推动网络监控的再次尝试。此前类似法案因最高法院2014年"斯宾塞案"裁决（认定用户信息受隐私权保护）及公众反对多次失败。新法案以边境安全为幌子重启争议条款，涉嫌侵犯公民隐私和自由，预计将引发法律挑战。
+
+（字数：199字）
+
+---
+
+## <a name="17"></a>17. 理解PURL规范（软件包URL） 
+<small>🔗 [fossa.com](https://fossa.com/blog/understanding-purl-specification-package-url/): Understanding the PURL Specification (Package URL)</small>
+
+
+| 🔥: 59 \| 💬: [48](https://news.ycombinator.com/item?id=44192955) \| 🗓️ 2025-06-05
+
+
+<br />
+**PURL**（Package URL）是用于跨生态系统唯一标识软件包的开源标准。其结构为 `pkg:<type>/<namespace>/<name>@<version>?<qualifiers>#<subpath>`，包含包类型、命名空间、名称、版本等关键字段。PURL在现代**SBOM**（软件物料清单）中至关重要，为组件提供精确、机器可读的唯一标识，便于跟踪依赖和漏洞。相比传统CPE标识，PURL更适配开源生态，直接映射开发者的包管理实践，但暂未覆盖商业产品。主流SBOM格式（如CycloneDX、SPDX）均支持PURL，使其成为软件供应链透明的核心工具。
+
+---
+
+## <a name="18"></a>18. 错误追踪优先 
+<small>🔗 [bugsink.com](https://www.bugsink.com/blog/track-errors-first/): Track Errors First</small>
+
+
+| 🔥: 54 \| 💬: [42](https://news.ycombinator.com/item?id=44190643) \| 🗓️ 2025-06-05
+
+
+<br />
+传统的可观测性**三大支柱**（日志、指标、追踪）常忽略最关键信号：**错误追踪**。当代码抛出异常时，它直接揭示程序逻辑的失效点，比性能波动或流量峰值更具价值。错误事件提供精确的堆栈追踪、局部变量、请求数据和用户上下文，是**高价值信号**。现有平台常将错误抽象为普通日志或指标，丢失关键细节。构建可观测体系时，应优先确保错误被完整捕获和分析，而非淹没在庞杂的仪表盘中。作者主张将错误视为核心事件，而非标准化数据流中的普通条目。
+
+---
+
+## <a name="19"></a>19. 无构建流程的Web应用实践 
+<small>🔗 [andregarzia.com](https://andregarzia.com/2025/06/experimenting-with-no-build-web-applications.html): Experimenting with no-build Web Applications</small>
+
+
+| 🔥: 52 \| 💬: [45](https://news.ycombinator.com/item?id=44190371) \| 🗓️ 2025-06-05
+
+
+<br />
+开发者重构了电子书生成工具**Little Webby Press**，核心目标是**消除构建步骤**，直接在**纯浏览器环境**中运行原生JavaScript。新版本摒弃了Svelte、Rollup等复杂工具链，改用Mithril框架、Pico CSS及原生文件处理逻辑。通过JSDelivr导入NodeJS模块并简化文件系统（使用键值对象存储内容），大幅提升了性能——生成电子书和网站的速度从数秒降至数百毫秒。应用部署极简，仅需托管仓库文件。开发者强调此举显著改善了开发体验与效率，未来将专注于无构建Web应用。
+
+---
+
+## <a name="20"></a>20. X修改条款，禁止利用平台内容训练AI模型 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/): X changes its terms to bar training of AI models using its content</small>
+
+
+| 🔥: 48 \| 💬: [61](https://news.ycombinator.com/item?id=44193390) \| 🗓️ 2025-06-05
+
+
+<br />
+社交平台X更新了开发者协议，**禁止第三方使用平台内容训练大语言模型**。新条款明确规定不得利用X API或内容来微调或训练基础模型及前沿模型。此调整紧随**xAI收购X**之后，旨在防止竞争对手免费获取数据。此前X曾允许利用公共数据训练AI，但政策反复。目前Reddit和The Browser Company旗下浏览器Dia也已采取**类似限制措施**，行业对AI数据抓取监管趋严。(223字符)
+
+---
+
+## <a name="21"></a>21. 神经形态计算：下一代高效能AI 
+<small>🔗 [lanl.gov](https://www.lanl.gov/media/publications/1663/1269-neuromorphic-computing): Neuromorphic computing</small>
+
+
+| 🔥: 45 \| 💬: [34](https://news.ycombinator.com/item?id=44194469) \| 🗓️ 2025-06-05
+
+
+<br />
+神经形态计算被视为人工智能的未来方向，其核心在于模拟人脑结构与功能。当前AI（如大语言模型）能耗极高，预计2027年电力成本将超美国GDP。而**神经形态计算**通过仿生神经网络设计，能以**20瓦超低能耗**运行——相当于人脑日耗电量。其突破性在于：  
+1. 采用光电硬件模拟生物神经元的动态反馈机制，突破现有AI仅能单向处理的局限  
+2. 具备**上下文理解能力**，可识别环境干扰（如T恤图案与真实路标差异）  
+3. 现有原型已实现千亿级突触连接，目标三年内造出媲美人脑皮层的计算机，运算速度提升25万倍且功耗仅10千瓦（约家用空调耗电）。这将推动AI实现类生物智能的适应性与可扩展性。  
+
+（字数：198）
+
+---
+
+## <a name="22"></a>22. Anthropic为美国国家安全机构推出定制Claude Gov模型 
+<small>🔗 [anthropic.com](https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers): Claude Gov Models for U.S. National Security Customers</small>
+
+
+| 🔥: 41 \| 💬: [4](https://news.ycombinator.com/item?id=44191634) \| 🗓️ 2025-06-05
+
+
+<br />
+Anthropic专为**美国国家安全客户**推出定制化Claude Gov模型系列。该模型已部署于最高级别涉密环境，仅限授权用户访问。基于政府需求开发并经过严格安全测试，Claude Gov在保障**负责任AI**原则的同时，显著提升了对涉密材料的处理能力、情报国防语境的理解力、关键语言熟练度及网络安全数据分析能力，为战略规划、行动支持和威胁评估等关键任务提供支持。详情联系pubsec@anthropic.com。
+
+（字数：152）
 
 ---
