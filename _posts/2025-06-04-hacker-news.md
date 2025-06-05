@@ -27,7 +27,7 @@ tags:
 <small>🔗 [git.ffmpeg.org](https://git.ffmpeg.org/gitweb/ffmpeg.git/commit/167e343bbe75515a80db8ee72ffa0c607c944a00): FFmpeg merges WebRTC support</small>
 
 
-| 🔥🔥: 628 \| 💬: [135](https://news.ycombinator.com/item?id=44182186) \| 🗓️ 2025-06-04
+| 🔥🔥: 645 \| 💬: [141](https://news.ycombinator.com/item?id=44182186) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -39,7 +39,7 @@ tags:
 <small>🔗 [mastodon.laurenweinstein.org](https://mastodon.laurenweinstein.org/@lauren/114627064774788581): After court order, OpenAI is now preserving all ChatGPT user logs</small>
 
 
-| 🔥🔥: 578 \| 💬: [389](https://news.ycombinator.com/item?id=44185913) \| 🗓️ 2025-06-04
+| 🔥🔥: 639 \| 💬: [426](https://news.ycombinator.com/item?id=44185913) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -51,7 +51,7 @@ tags:
 <small>🔗 [chrisgiven.com](https://chrisgiven.com/2025/05/direct-file-on-github/): IRS Direct File on GitHub</small>
 
 
-| 🔥🔥: 521 \| 💬: [225](https://news.ycombinator.com/item?id=44182356) \| 🗓️ 2025-06-04
+| 🔥🔥: 533 \| 💬: [228](https://news.ycombinator.com/item?id=44182356) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -63,7 +63,7 @@ tags:
 <small>🔗 [happihacking.com](https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/): Why I wrote the BEAM book</small>
 
 
-| 🔥🔥: 448 \| 💬: [120](https://news.ycombinator.com/item?id=44179257) \| 🗓️ 2025-06-04
+| 🔥🔥: 464 \| 💬: [120](https://news.ycombinator.com/item?id=44179257) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -75,7 +75,7 @@ tags:
 <small>🔗 [eff.org](https://www.eff.org/deeplinks/2025/06/right-repair-law-washington-state): The Right to Repair Is Law in Washington State</small>
 
 
-| 🔥🔥: 368 \| 💬: [150](https://news.ycombinator.com/item?id=44181421) \| 🗓️ 2025-06-04
+| 🔥🔥: 371 \| 💬: [150](https://news.ycombinator.com/item?id=44181421) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -87,7 +87,7 @@ tags:
 <small>🔗 [github.com](https://github.com/explainers-by-googlers/local-network-access): A proposal to restrict sites from accessing a users’ local network</small>
 
 
-| 🔥🔥: 305 \| 💬: [174](https://news.ycombinator.com/item?id=44183799) \| 🗓️ 2025-06-04
+| 🔥🔥: 321 \| 💬: [185](https://news.ycombinator.com/item?id=44183799) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -111,7 +111,7 @@ Google Cloud宣布**Cloud Run GPU支持**正式全面开放（GA），开发者�
 <small>🔗 [newyorker.com](https://www.newyorker.com/magazine/2025/06/09/curtis-yarvin-profile): Curtis Yarvin's Plot Against America</small>
 
 
-| 🔥🔥: 258 \| 💬: [321](https://news.ycombinator.com/item?id=44184305) \| 🗓️ 2025-06-04
+| 🔥🔥: 262 \| 💬: [321](https://news.ycombinator.com/item?id=44184305) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -119,35 +119,11 @@ Google Cloud宣布**Cloud Run GPU支持**正式全面开放（GA），开发者�
 
 ---
 
-## <a name="9"></a>9. iPhone 15 Pro的深度图技术解析 
-<small>🔗 [tech.marksblogg.com](https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html): The iPhone 15 Pro’s Depth Maps</small>
-
-
-| 🔥🔥: 242 \| 💬: [68](https://news.ycombinator.com/item?id=44183591) \| 🗓️ 2025-06-04
-
-
-<br />
-苹果自2017年起通过**LiDAR扫描仪**或结构光技术为iPhone图像生成**深度图**，并以HEIC格式存储。开发者Finn Jaeger的项目**HEIC Shenanigans**能提取HEIC中的深度图与元数据，并转换为EXR格式。本文详细演示了如何利用Python脚本和OpenImageIO工具链，将iPhone 15 Pro拍摄的HEIC图像转换为影视级HDR格式（如ACEScg），并解析了深度图与增益图的处理流程。
-
----
-
-## <a name="10"></a>10. 程序员必备的提示词工程指南 
-<small>🔗 [addyo.substack.com](https://addyo.substack.com/p/the-prompt-engineering-playbook-for): The Prompt Engineering Playbook for Programmers</small>
-
-
-| 🔥🔥: 218 \| 💬: [80](https://news.ycombinator.com/item?id=44182188) \| 🗓️ 2025-06-04
-
-
-<br />
-随着开发者越来越多地依赖AI编程助手，**提示词工程**已成为关键技能。本文提供了系统化的方法，帮助开发者通过优化提示词获得更精准的AI响应。核心原则包括：**提供丰富上下文**、明确目标、拆分复杂任务、提供输入输出示例，以及通过角色设定引导AI输出风格。文章还对比了低效与高效的调试提示词，展示了具体问题描述如何显著提升AI的回答质量。
-
----
-
-## <a name="11"></a>11. Cursor 1.0 重磅发布：AI编程助手全面升级 
+## <a name="9"></a>9. Cursor 1.0 重磅发布：AI编程助手全面升级 
 <small>🔗 [cursor.com](https://www.cursor.com/en/changelog/1-0): Cursor 1.0</small>
 
 
-| 🔥🔥: 209 \| 💬: [133](https://news.ycombinator.com/item?id=44185256) \| 🗓️ 2025-06-04
+| 🔥🔥: 253 \| 💬: [148](https://news.ycombinator.com/item?id=44185256) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -155,11 +131,47 @@ Cursor 1.0 推出了多项创新功能：**BugBot** 可自动审查代码并标�
 
 ---
 
-## <a name="12"></a>12. 风投资金正推动全球员工监控技术热潮 
+## <a name="10"></a>10. iPhone 15 Pro的深度图技术解析 
+<small>🔗 [tech.marksblogg.com](https://tech.marksblogg.com/apple-iphone-15-pro-depth-map-heic.html): The iPhone 15 Pro’s Depth Maps</small>
+
+
+| 🔥🔥: 250 \| 💬: [70](https://news.ycombinator.com/item?id=44183591) \| 🗓️ 2025-06-04
+
+
+<br />
+苹果自2017年起通过**LiDAR扫描仪**或结构光技术为iPhone图像生成**深度图**，并以HEIC格式存储。开发者Finn Jaeger的项目**HEIC Shenanigans**能提取HEIC中的深度图与元数据，并转换为EXR格式。本文详细演示了如何利用Python脚本和OpenImageIO工具链，将iPhone 15 Pro拍摄的HEIC图像转换为影视级HDR格式（如ACEScg），并解析了深度图与增益图的处理流程。
+
+---
+
+## <a name="11"></a>11. 程序员必备的提示词工程指南 
+<small>🔗 [addyo.substack.com](https://addyo.substack.com/p/the-prompt-engineering-playbook-for): Prompt engineering playbook for programmers</small>
+
+
+| 🔥🔥: 237 \| 💬: [83](https://news.ycombinator.com/item?id=44182188) \| 🗓️ 2025-06-04
+
+
+<br />
+随着开发者越来越多地依赖AI编程助手，**提示词工程**已成为关键技能。本文提供了系统化的方法，帮助开发者通过优化提示词获得更精准的AI响应。核心原则包括：**提供丰富上下文**、明确目标、拆分复杂任务、提供输入输出示例，以及通过角色设定引导AI输出风格。文章还对比了低效与高效的调试提示词，展示了具体问题描述如何显著提升AI的回答质量。
+
+---
+
+## <a name="12"></a>12. 苹果备忘录或将在iOS 26中支持Markdown语法 
+<small>🔗 [macrumors.com](https://www.macrumors.com/2025/06/04/apple-notes-rumored-markdown-support-ios-26/): Apple Notes Expected to Gain Markdown Support in iOS 26</small>
+
+
+| 🔥🔥: 210 \| 💬: [136](https://news.ycombinator.com/item?id=44183923) \| 🗓️ 2025-06-04
+
+
+<br />
+据9to5Mac报道，苹果计划在iOS 26和macOS 26中为**备忘录应用**添加**Markdown支持**，用户可通过简单语法（如`**加粗**`或`# 标题`）快速格式化文本，无需依赖现有富文本控件。这一升级将吸引开发者、写作者等**高级用户**，并缩小与Obsidian等第三方笔记应用的差距。新功能或于下周WWDC大会与iOS 26的自动翻译、信息投票等改进一同亮相。
+
+---
+
+## <a name="13"></a>13. 风投资金正推动全球员工监控技术热潮 
 <small>🔗 [restofworld.org](https://restofworld.org/2025/employee-surveillance-software-vc-funding/): VC money is fueling a global boom in worker surveillance tech</small>
 
 
-| 🔥🔥: 203 \| 💬: [141](https://news.ycombinator.com/item?id=44182582) \| 🗓️ 2025-06-04
+| 🔥🔥: 204 \| 💬: [144](https://news.ycombinator.com/item?id=44182582) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -167,7 +179,7 @@ Cursor 1.0 推出了多项创新功能：**BugBot** 可自动审查代码并标�
 
 ---
 
-## <a name="13"></a>13. Meta和Yandex被曝通过安卓设备秘密追踪用户 
+## <a name="14"></a>14. Meta和Yandex被曝通过安卓设备秘密追踪用户 
 <small>🔗 [news.sky.com](https://news.sky.com/story/meta-found-covertly-tracking-android-users-through-instagram-and-facebook-13379083): Meta found 'covertly tracking' Android users through Instagram and Facebook</small>
 
 
@@ -176,18 +188,6 @@ Cursor 1.0 推出了多项创新功能：**BugBot** 可自动审查代码并标�
 
 <br />
 研究发现，**Meta**（旗下包括Facebook和Instagram）和搜索引擎公司**Yandex**利用安卓系统的功能，在用户不知情的情况下**秘密追踪**其浏览器活动。荷兰拉德堡德大学和IMDEA Networks的专家指出，这些公司通过脚本绕过安卓安全措施，甚至能在无痕模式下收集数据。谷歌回应称此举“公然违反隐私原则”，已采取措施并展开调查。Meta表示暂停相关功能，Yandex则否认收集敏感信息。火狐、Edge等浏览器也受影响，部分厂商已采取防护措施。
-
----
-
-## <a name="14"></a>14. 苹果备忘录或将在iOS 26中支持Markdown语法 
-<small>🔗 [macrumors.com](https://www.macrumors.com/2025/06/04/apple-notes-rumored-markdown-support-ios-26/): Apple Notes Expected to Gain Markdown Support in iOS 26</small>
-
-
-| 🔥🔥: 189 \| 💬: [121](https://news.ycombinator.com/item?id=44183923) \| 🗓️ 2025-06-04
-
-
-<br />
-据9to5Mac报道，苹果计划在iOS 26和macOS 26中为**备忘录应用**添加**Markdown支持**，用户可通过简单语法（如`**加粗**`或`# 标题`）快速格式化文本，无需依赖现有富文本控件。这一升级将吸引开发者、写作者等**高级用户**，并缩小与Obsidian等第三方笔记应用的差距。新功能或于下周WWDC大会与iOS 26的自动翻译、信息投票等改进一同亮相。
 
 ---
 
@@ -207,7 +207,7 @@ Cursor 1.0 推出了多项创新功能：**BugBot** 可自动审查代码并标�
 <small>🔗 [mistral.ai](https://mistral.ai/products/mistral-code): Mistral Code</small>
 
 
-| 🔥🔥: 179 \| 💬: [93](https://news.ycombinator.com/item?id=44183515) \| 🗓️ 2025-06-04
+| 🔥🔥: 181 \| 💬: [95](https://news.ycombinator.com/item?id=44183515) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -219,7 +219,7 @@ Mistral Code是一款**AI驱动的企业级编程工具**，提供**闪电般的
 <small>🔗 [tudelft.nl](https://www.tudelft.nl/en/2025/lr/autonomous-drone-from-tu-delft-defeats-human-champions-in-historic-racing-first): Autonomous drone defeats human champions in racing first</small>
 
 
-| 🔥🔥: 149 \| 💬: [106](https://news.ycombinator.com/item?id=44184900) \| 🗓️ 2025-06-04
+| 🔥🔥: 155 \| 💬: [112](https://news.ycombinator.com/item?id=44184900) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -231,7 +231,7 @@ Mistral Code是一款**AI驱动的企业级编程工具**，提供**闪电般的
 <small>🔗 [cdn.openai.com](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf): A practical guide to building agents [pdf]</small>
 
 
-| 🔥🔥: 143 \| 💬: [20](https://news.ycombinator.com/item?id=44181700) \| 🗓️ 2025-06-04
+| 🔥🔥: 154 \| 💬: [22](https://news.ycombinator.com/item?id=44181700) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -243,7 +243,7 @@ Mistral Code是一款**AI驱动的企业级编程工具**，提供**闪电般的
 <small>🔗 [paulkrugman.substack.com](https://paulkrugman.substack.com/p/we-are-no-longer-a-serious-country): We are no longer a serious country</small>
 
 
-| 🔥🔥: 143 \| 💬: [81](https://news.ycombinator.com/item?id=44182634) \| 🗓️ 2025-06-04
+| 🔥🔥: 143 \| 💬: [83](https://news.ycombinator.com/item?id=44182634) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -255,7 +255,7 @@ Mistral Code是一款**AI驱动的企业级编程工具**，提供**闪电般的
 <small>🔗 [swift.org](https://swift.org/): Redesigned Swift.org is now live</small>
 
 
-| 🔥🔥: 139 \| 💬: [90](https://news.ycombinator.com/item?id=44184542) \| 🗓️ 2025-06-04
+| 🔥🔥: 141 \| 💬: [96](https://news.ycombinator.com/item?id=44184542) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -267,7 +267,7 @@ Swift是一种**强大**、**灵活**的跨平台编程语言，兼具**高性�
 <small>🔗 [thegradient.pub](https://thegradient.pub/agi-is-not-multimodal/): AGI is not multimodal</small>
 
 
-| 🔥🔥: 123 \| 💬: [115](https://news.ycombinator.com/item?id=44181613) \| 🗓️ 2025-06-04
+| 🔥🔥: 129 \| 💬: [119](https://news.ycombinator.com/item?id=44181613) \| 🗓️ 2025-06-04
 
 
 <br />
@@ -279,7 +279,7 @@ Swift是一种**强大**、**灵活**的跨平台编程语言，兼具**高性�
 <small>🔗 [adamcad.com](https://www.adamcad.com/): Show HN: GPT image editing, but for 3D models</small>
 
 
-| 🔥🔥: 118 \| 💬: [64](https://news.ycombinator.com/item?id=44182206) \| 🗓️ 2025-06-04
+| 🔥🔥: 125 \| 💬: [64](https://news.ycombinator.com/item?id=44182206) \| 🗓️ 2025-06-04
 
 
 <br />
