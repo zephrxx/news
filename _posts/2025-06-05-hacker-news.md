@@ -27,7 +27,7 @@ tags:
 <small>🔗 [crookedtimber.org](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/): The impossible predicament of the death newts</small>
 
 
-| 🔥🔥: 414 \| 💬: [144](https://news.ycombinator.com/item?id=44191620) \| 🗓️ 2025-06-05
+| 🔥🔥: 428 \| 💬: [148](https://news.ycombinator.com/item?id=44191620) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -48,7 +48,7 @@ tags:
 <small>🔗 [puri.sm](https://puri.sm/posts/google-restricts-android-sideloading-what-it-means-for-user-autonomy-and-the-future-of-mobile-freedom/): Google restricts Android sideloading</small>
 
 
-| 🔥🔥: 402 \| 💬: [286](https://news.ycombinator.com/item?id=44193198) \| 🗓️ 2025-06-05
+| 🔥🔥: 403 \| 💬: [290](https://news.ycombinator.com/item?id=44193198) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -64,7 +64,7 @@ tags:
 <small>🔗 [deepmind.google](https://deepmind.google/models/gemini/pro/): Gemini-2.5-pro-preview-06-05</small>
 
 
-| 🔥🔥: 314 \| 💬: [195](https://news.ycombinator.com/item?id=44193328) \| 🗓️ 2025-06-05
+| 🔥🔥: 315 \| 💬: [197](https://news.ycombinator.com/item?id=44193328) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -76,7 +76,7 @@ Google 发布其最先进模型 Gemini 2.5 Pro 预览版 (06-05)，专为**编�
 <small>🔗 [daringfireball.net](https://daringfireball.net/linked/2025/06/04/apple-notes-markdown): Apple Notes Will Gain Markdown Export at WWDC, and, I Have Thoughts</small>
 
 
-| 🔥🔥: 290 \| 💬: [162](https://news.ycombinator.com/item?id=44191558) \| 🗓️ 2025-06-05
+| 🔥🔥: 291 \| 💬: [169](https://news.ycombinator.com/item?id=44191558) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -98,23 +98,11 @@ Google 发布其最先进模型 Gemini 2.5 Pro 预览版 (06-05)，专为**编�
 
 ---
 
-## <a name="6"></a>6. 开源 ClickStack：基于 ClickHouse 和 HyperDX 的 Datadog 替代方案 
-<small>🔗 [github.com](https://github.com/hyperdxio/hyperdx): Show HN: ClickStack – Open-source Datadog alternative by ClickHouse and HyperDX</small>
-
-
-| 🔥🔥: 192 \| 💬: [42](https://news.ycombinator.com/item?id=44194082) \| 🗓️ 2025-06-05
-
-
-<br />
-ClickStack 是基于高性能数据库 **ClickHouse** 的开源可观测性解决方案。它整合了日志、指标、追踪、会话回放和错误数据，提供**亚秒级查询**速度（即使处理海量高基数数据）和**高达 30 倍的存储压缩率**，显著降低成本。其统一平台 HyperDX 界面支持类 Lucene 搜索和完整 SQL 分析，便于创建仪表盘和告警。索尼 LIV 和 Trip.com 等案例证实其可处理每秒数千万事件，提升查询效率并节省开支。支持灵活部署（自建或 ClickHouse Cloud），满足实时监控与分析需求，并能关联业务数据获得深度洞察。
-
----
-
-## <a name="7"></a>7. 十一实验室v3震撼发布 
+## <a name="6"></a>6. 十一实验室v3震撼发布 
 <small>🔗 [elevenlabs.io](https://elevenlabs.io/v3): Eleven v3</small>
 
 
-| 🔥🔥: 189 \| 💬: [97](https://news.ycombinator.com/item?id=44194521) \| 🗓️ 2025-06-05
+| 🔥🔥: 199 \| 💬: [101](https://news.ycombinator.com/item?id=44194521) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -122,11 +110,23 @@ ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其�
 
 ---
 
+## <a name="7"></a>7. 开源 ClickStack：基于 ClickHouse 和 HyperDX 的 Datadog 替代方案 
+<small>🔗 [github.com](https://github.com/hyperdxio/hyperdx): Show HN: ClickStack – Open-source Datadog alternative by ClickHouse and HyperDX</small>
+
+
+| 🔥🔥: 198 \| 💬: [44](https://news.ycombinator.com/item?id=44194082) \| 🗓️ 2025-06-05
+
+
+<br />
+ClickStack 是基于高性能数据库 **ClickHouse** 的开源可观测性解决方案。它整合了日志、指标、追踪、会话回放和错误数据，提供**亚秒级查询**速度（即使处理海量高基数数据）和**高达 30 倍的存储压缩率**，显著降低成本。其统一平台 HyperDX 界面支持类 Lucene 搜索和完整 SQL 分析，便于创建仪表盘和告警。索尼 LIV 和 Trip.com 等案例证实其可处理每秒数千万事件，提升查询效率并节省开支。支持灵活部署（自建或 ClickHouse Cloud），满足实时监控与分析需求，并能关联业务数据获得深度洞察。
+
+---
+
 ## <a name="8"></a>8. 垃圾箱商店七日观察 
 <small>🔗 [defector.com](https://defector.com/seven-days-at-the-bin-store): Seven Days at the Bin Store</small>
 
 
-| 🔥🔥: 152 \| 💬: [75](https://news.ycombinator.com/item?id=44192995) \| 🗓️ 2025-06-05
+| 🔥🔥: 162 \| 💬: [76](https://news.ycombinator.com/item?id=44192995) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -142,7 +142,7 @@ ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其�
 <small>🔗 [blog.glyph.im](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html): I think I'm done thinking about GenAI for now</small>
 
 
-| 🔥🔥: 145 \| 💬: [104](https://news.ycombinator.com/item?id=44193018) \| 🗓️ 2025-06-05
+| 🔥🔥: 148 \| 💬: [104](https://news.ycombinator.com/item?id=44193018) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -150,23 +150,11 @@ ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其�
 
 ---
 
-## <a name="10"></a>10. 拉布拉多海岸惊现罕见黑色冰山，或存世十万年 
-<small>🔗 [cbc.ca](https://www.cbc.ca/news/canada/newfoundland-labrador/black-iceberg-labrador-coast-1.7551078): Rare black iceberg spotted off Labrador coast could be 100k years old</small>
+## <a name="10"></a>10. Tokasaurus：专为高吞吐量任务设计的LLM推理引擎 
+<small>🔗 [scalingintelligence.stanford.edu](https://scalingintelligence.stanford.edu/blogs/tokasaurus/): Tokasaurus: An LLM inference engine for high-throughput workloads</small>
 
 
-| 🔥🔥: 124 \| 💬: [62](https://news.ycombinator.com/item?id=44193120) \| 🗓️ 2025-06-05
-
-
-<br />
-加拿大纽芬兰省渔民哈勒尔·安东尼森在拉布拉多海岸捕虾时，意外发现一座**黑色**冰山并拍下照片。该照片在社交媒体引发热议。专家分析认为，这座形状独特的冰山可能极为古老。纪念大学物理海洋学教授列夫·塔拉索夫指出，其内部冰层可能因数万年积累的沉积物或古老**陨石撞击**残留物而呈现黑色，冰山年龄或高达**十万年历史**。冰山形成于格陵兰冰盖，经漫长漂流抵达拉布拉多海域，其底部沉积层揭示了远古地质活动痕迹。
-
----
-
-## <a name="11"></a>11. Tokasaurus：专为高吞吐量任务设计的LLM推理引擎 
-<small>🔗 [scalingintelligence.stanford.edu](https://scalingintelligence.stanford.edu/blogs/tokasaurus/): Tokasaurus: An LLM Inference Engine for High-Throughput Workloads</small>
-
-
-| 🔥🔥: 122 \| 💬: [12](https://news.ycombinator.com/item?id=44195961) \| 🗓️ 2025-06-05
+| 🔥🔥: 130 \| 💬: [16](https://news.ycombinator.com/item?id=44195961) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -176,11 +164,11 @@ ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其�
 
 ---
 
-## <a name="12"></a>12. 《遗忘人生却活得自在》 
+## <a name="11"></a>11. 《遗忘人生却活得自在》 
 <small>🔗 [aethermug.com](https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine): I do not remember my life and it's fine</small>
 
 
-| 🔥🔥: 114 \| 💬: [84](https://news.ycombinator.com/item?id=44196576) \| 🗓️ 2025-06-05
+| 🔥🔥: 129 \| 💬: [95](https://news.ycombinator.com/item?id=44196576) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -192,6 +180,18 @@ ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其�
 3. 作者强调此非残疾，日常功能无碍，主要影响在于情感层面——无法唤起怀旧情绪，但理性认知不受限。
 
 （字数：216）
+
+---
+
+## <a name="12"></a>12. 拉布拉多海岸惊现罕见黑色冰山，或存世十万年 
+<small>🔗 [cbc.ca](https://www.cbc.ca/news/canada/newfoundland-labrador/black-iceberg-labrador-coast-1.7551078): Rare black iceberg spotted off Labrador coast could be 100k years old</small>
+
+
+| 🔥🔥: 126 \| 💬: [61](https://news.ycombinator.com/item?id=44193120) \| 🗓️ 2025-06-05
+
+
+<br />
+加拿大纽芬兰省渔民哈勒尔·安东尼森在拉布拉多海岸捕虾时，意外发现一座**黑色**冰山并拍下照片。该照片在社交媒体引发热议。专家分析认为，这座形状独特的冰山可能极为古老。纪念大学物理海洋学教授列夫·塔拉索夫指出，其内部冰层可能因数万年积累的沉积物或古老**陨石撞击**残留物而呈现黑色，冰山年龄或高达**十万年历史**。冰山形成于格陵兰冰盖，经漫长漂流抵达拉布拉多海域，其底部沉积层揭示了远古地质活动痕迹。
 
 ---
 
@@ -251,7 +251,7 @@ Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用
 <small>🔗 [theguardian.com](https://www.theguardian.com/society/2025/jun/05/millions-in-west-do-not-know-they-have-aggressive-fatty-liver-disease-study-says): Millions in west don't know they have aggressive fatty liver disease, study says</small>
 
 
-| 🔥: 82 \| 💬: [90](https://news.ycombinator.com/item?id=44193970) \| 🗓️ 2025-06-05
+| 🔥: 83 \| 💬: [91](https://news.ycombinator.com/item?id=44193970) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -265,7 +265,7 @@ Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/06/05/anthropic-co-founder-on-cutting-access-to-windsurf-it-would-be-odd-for-us-to-sell-claude-to-openai/): Anthropic co-founder on cutting access to Windsurf</small>
 
 
-| 🔥: 80 \| 💬: [77](https://news.ycombinator.com/item?id=44196807) \| 🗓️ 2025-06-05
+| 🔥: 83 \| 💬: [79](https://news.ycombinator.com/item?id=44196807) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -277,7 +277,7 @@ Anthropic联合创始人Jared Kaplan表示，公司终止AI编程助手**Windsur
 <small>🔗 [scharenbroch.dev](https://scharenbroch.dev/projects/apl-interpreter/): APL Interpreter – An implementation of APL, written in Haskell (2024)</small>
 
 
-| 🔥: 72 \| 💬: [30](https://news.ycombinator.com/item?id=44195931) \| 🗓️ 2025-06-05
+| 🔥: 78 \| 💬: [30](https://news.ycombinator.com/item?id=44195931) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -292,7 +292,45 @@ Anthropic联合创始人Jared Kaplan表示，公司终止AI编程助手**Windsur
 
 ---
 
-## <a name="20"></a>20. ICANN域名注册商费用上调11% 
+## <a name="20"></a>20. Claude Composer：提升Claude Code自动化效率的CLI工具 
+<small>🔗 [github.com](https://github.com/possibilities/claude-composer): Show HN: Claude Composer</small>
+
+
+| 🔥: 77 \| 💬: [33](https://news.ycombinator.com/item?id=44196417) \| 🗓️ 2025-06-05
+
+
+<br />
+Claude Composer 是一个增强 Claude Code 功能的命令行工具，专注于优化自动化流程与用户体验。它通过 **规则集** 精细控制权限对话框的自动处理（如内置的 cautious/yolo/safe 模式），减少人工干预。支持 **工具集** 管理 Claude 的工具权限及 MCP 服务器配置，并通过系统通知实时反馈生命周期事件。安装后执行 `claude-composer cc-init` 初始化全局或项目级 YAML 配置文件，核心功能包括路径信任机制、自定义规则链叠加（`--ruleset`）及 **自动关闭对话框** 策略，显著提升开发效率。
+
+---
+
+## <a name="21"></a>21. X修改条款，禁止利用平台内容训练AI模型 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/): X changes its terms to bar training of AI models using its content</small>
+
+
+| 🔥: 73 \| 💬: [69](https://news.ycombinator.com/item?id=44193390) \| 🗓️ 2025-06-05
+
+
+<br />
+社交平台X更新了开发者协议，**禁止第三方使用平台内容训练大语言模型**。新条款明确规定不得利用X API或内容来微调或训练基础模型及前沿模型。此调整紧随**xAI收购X**之后，旨在防止竞争对手免费获取数据。此前X曾允许利用公共数据训练AI，但政策反复。目前Reddit和The Browser Company旗下浏览器Dia也已采取**类似限制措施**，行业对AI数据抓取监管趋严。(223字符)
+
+---
+
+## <a name="22"></a>22. 天穹追踪：全新业余卫星追踪与SDR接收一体化软件 
+<small>🔗 [rtl-sdr.com](https://www.rtl-sdr.com/skyroof-new-ham-satellite-tracking-and-sdr-receiver-software/): SkyRoof: New Ham Satellite Tracking and SDR Receiver Software</small>
+
+
+| 🔥: 72 \| 💬: [6](https://news.ycombinator.com/item?id=44194859) \| 🗓️ 2025-06-05
+
+
+<br />
+VE3NEA新近发布了一款Windows软件"**SkyRoof**"。该软件集成了卫星追踪与SDR接收功能，支持RTL-SDR、Airspy及SDRplay设备。它专为业余无线电卫星设计，可提供所有业余卫星的详细信息、实时追踪及过境预测，并显示天空图与SDR瀑布图。接收端支持SSB/CW/FM解调，具备**多普勒频移自动补偿**功能，且能与支持hamlib的**天线旋转器**联动。Johnson's Techworld的YouTube频道已发布软件测试视频供参考。
+
+（字数：158）
+
+---
+
+## <a name="23"></a>23. ICANN域名注册商费用上调11% 
 <small>🔗 [itp.cdn.icann.org](https://itp.cdn.icann.org/en/files/contracted-parties-communications/attn-planned-variable-accreditation-fee-adjustment-24oct24-en.pdf): ICANN fee price hike by 11% [pdf]</small>
 
 
@@ -306,33 +344,7 @@ Anthropic联合创始人Jared Kaplan表示，公司终止AI编程助手**Windsur
 
 ---
 
-## <a name="21"></a>21. 天穹追踪：全新业余卫星追踪与SDR接收一体化软件 
-<small>🔗 [rtl-sdr.com](https://www.rtl-sdr.com/skyroof-new-ham-satellite-tracking-and-sdr-receiver-software/): SkyRoof: New Ham Satellite Tracking and SDR Receiver Software</small>
-
-
-| 🔥: 69 \| 💬: [5](https://news.ycombinator.com/item?id=44194859) \| 🗓️ 2025-06-05
-
-
-<br />
-VE3NEA新近发布了一款Windows软件"**SkyRoof**"。该软件集成了卫星追踪与SDR接收功能，支持RTL-SDR、Airspy及SDRplay设备。它专为业余无线电卫星设计，可提供所有业余卫星的详细信息、实时追踪及过境预测，并显示天空图与SDR瀑布图。接收端支持SSB/CW/FM解调，具备**多普勒频移自动补偿**功能，且能与支持hamlib的**天线旋转器**联动。Johnson's Techworld的YouTube频道已发布软件测试视频供参考。
-
-（字数：158）
-
----
-
-## <a name="22"></a>22. Claude Composer：提升Claude Code自动化效率的CLI工具 
-<small>🔗 [github.com](https://github.com/possibilities/claude-composer): Show HN: Claude Composer</small>
-
-
-| 🔥: 69 \| 💬: [25](https://news.ycombinator.com/item?id=44196417) \| 🗓️ 2025-06-05
-
-
-<br />
-Claude Composer 是一个增强 Claude Code 功能的命令行工具，专注于优化自动化流程与用户体验。它通过 **规则集** 精细控制权限对话框的自动处理（如内置的 cautious/yolo/safe 模式），减少人工干预。支持 **工具集** 管理 Claude 的工具权限及 MCP 服务器配置，并通过系统通知实时反馈生命周期事件。安装后执行 `claude-composer cc-init` 初始化全局或项目级 YAML 配置文件，核心功能包括路径信任机制、自定义规则链叠加（`--ruleset`）及 **自动关闭对话框** 策略，显著提升开发效率。
-
----
-
-## <a name="23"></a>23. 加拿大边境法案暗藏网络监控条款 
+## <a name="24"></a>24. 加拿大边境法案暗藏网络监控条款 
 <small>🔗 [michaelgeist.ca](https://www.michaelgeist.ca/2025/06/privacy-at-risk-government-buries-lawful-access-provisions-in-new-border-bill/): Canadian Government Buries “Lawful Access” Provisions in New Border Bill</small>
 
 
@@ -351,7 +363,7 @@ Claude Composer 是一个增强 Claude Code 功能的命令行工具，专注于
 
 ---
 
-## <a name="24"></a>24. 理解PURL规范（软件包URL） 
+## <a name="25"></a>25. 理解PURL规范（软件包URL） 
 <small>🔗 [fossa.com](https://fossa.com/blog/understanding-purl-specification-package-url/): Understanding the PURL Specification (Package URL)</small>
 
 
@@ -360,17 +372,5 @@ Claude Composer 是一个增强 Claude Code 功能的命令行工具，专注于
 
 <br />
 **PURL**（Package URL）是用于跨生态系统唯一标识软件包的开源标准。其结构为 `pkg:<type>/<namespace>/<name>@<version>?<qualifiers>#<subpath>`，包含包类型、命名空间、名称、版本等关键字段。PURL在现代**SBOM**（软件物料清单）中至关重要，为组件提供精确、机器可读的唯一标识，便于跟踪依赖和漏洞。相比传统CPE标识，PURL更适配开源生态，直接映射开发者的包管理实践，但暂未覆盖商业产品。主流SBOM格式（如CycloneDX、SPDX）均支持PURL，使其成为软件供应链透明的核心工具。
-
----
-
-## <a name="25"></a>25. X修改条款，禁止利用平台内容训练AI模型 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/): X changes its terms to bar training of AI models using its content</small>
-
-
-| 🔥: 57 \| 💬: [64](https://news.ycombinator.com/item?id=44193390) \| 🗓️ 2025-06-05
-
-
-<br />
-社交平台X更新了开发者协议，**禁止第三方使用平台内容训练大语言模型**。新条款明确规定不得利用X API或内容来微调或训练基础模型及前沿模型。此调整紧随**xAI收购X**之后，旨在防止竞争对手免费获取数据。此前X曾允许利用公共数据训练AI，但政策反复。目前Reddit和The Browser Company旗下浏览器Dia也已采取**类似限制措施**，行业对AI数据抓取监管趋严。(223字符)
 
 ---
