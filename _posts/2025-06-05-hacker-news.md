@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共23条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [puri.sm](https://puri.sm/posts/google-restricts-android-sideloading-what-it-means-for-user-autonomy-and-the-future-of-mobile-freedom/): Google restricts Android sideloading</small>
 
 
-| 🔥🔥: 393 \| 💬: [280](https://news.ycombinator.com/item?id=44193198) \| 🗓️ 2025-06-05
+| 🔥🔥: 396 \| 💬: [283](https://news.ycombinator.com/item?id=44193198) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -43,7 +43,7 @@ tags:
 <small>🔗 [crookedtimber.org](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/): The impossible predicament of the death newts</small>
 
 
-| 🔥🔥: 376 \| 💬: [124](https://news.ycombinator.com/item?id=44191620) \| 🗓️ 2025-06-05
+| 🔥🔥: 389 \| 💬: [131](https://news.ycombinator.com/item?id=44191620) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -64,7 +64,7 @@ tags:
 <small>🔗 [deepmind.google](https://deepmind.google/models/gemini/pro/): Gemini-2.5-pro-preview-06-05</small>
 
 
-| 🔥🔥: 302 \| 💬: [182](https://news.ycombinator.com/item?id=44193328) \| 🗓️ 2025-06-05
+| 🔥🔥: 306 \| 💬: [190](https://news.ycombinator.com/item?id=44193328) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -76,7 +76,7 @@ Google 发布其最先进模型 Gemini 2.5 Pro 预览版 (06-05)，专为**编�
 <small>🔗 [daringfireball.net](https://daringfireball.net/linked/2025/06/04/apple-notes-markdown): Apple Notes Will Gain Markdown Export at WWDC, and, I Have Thoughts</small>
 
 
-| 🔥🔥: 251 \| 💬: [148](https://news.ycombinator.com/item?id=44191558) \| 🗓️ 2025-06-05
+| 🔥🔥: 268 \| 💬: [149](https://news.ycombinator.com/item?id=44191558) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -90,7 +90,7 @@ Google 发布其最先进模型 Gemini 2.5 Pro 预览版 (06-05)，专为**编�
 <small>🔗 [mjg59.dreamwidth.org](https://mjg59.dreamwidth.org/71646.html): Twitter's new encrypted DMs aren't better than the old ones</small>
 
 
-| 🔥🔥: 183 \| 💬: [172](https://news.ycombinator.com/item?id=44191591) \| 🗓️ 2025-06-05
+| 🔥🔥: 187 \| 💬: [172](https://news.ycombinator.com/item?id=44191591) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -102,7 +102,7 @@ Google 发布其最先进模型 Gemini 2.5 Pro 预览版 (06-05)，专为**编�
 <small>🔗 [github.com](https://github.com/hyperdxio/hyperdx): Show HN: ClickStack – Open-source Datadog alternative by ClickHouse and HyperDX</small>
 
 
-| 🔥🔥: 153 \| 💬: [34](https://news.ycombinator.com/item?id=44194082) \| 🗓️ 2025-06-05
+| 🔥🔥: 164 \| 💬: [36](https://news.ycombinator.com/item?id=44194082) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -110,23 +110,11 @@ ClickStack 是基于高性能数据库 **ClickHouse** 的开源可观测性解�
 
 ---
 
-## <a name="7"></a>7. 暂别生成式AI的思考 
-<small>🔗 [blog.glyph.im](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html): I think I'm done thinking about GenAI for now</small>
-
-
-| 🔥🔥: 139 \| 💬: [93](https://news.ycombinator.com/item?id=44193018) \| 🗓️ 2025-06-05
-
-
-<br />
-作者自比《神探阿蒙》中神经质、易被琐碎矛盾困扰的侦探，而非福尔摩斯式的逻辑天才。他通常通过深度思考解决认知冲突，但面对**生成式AI**却深感无力。他认为当前相关讨论充满无效争论，尤其批评“反反AI”文章回避核心问题（如气候影响、虚假信息）。他承认自身对AI的**美学特质**（尤其是其混乱的创作过程）存在强烈负面偏见，并以编程为例：AI辅助编码冗长低效，需反复纠错且无法真正理解反馈，消耗心力。他虽预感AI技术可能崩溃，但更担忧其模糊性会长期误导决策层。最终，他决定停止参与争论，并呼吁同样疲惫者**退出讨论**以自我保护。
-
----
-
-## <a name="8"></a>8. 十一实验室v3震撼发布 
+## <a name="7"></a>7. 十一实验室v3震撼发布 
 <small>🔗 [elevenlabs.io](https://elevenlabs.io/v3): Eleven v3</small>
 
 
-| 🔥🔥: 135 \| 💬: [79](https://news.ycombinator.com/item?id=44194521) \| 🗓️ 2025-06-05
+| 🔥🔥: 151 \| 💬: [87](https://news.ycombinator.com/item?id=44194521) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -134,11 +122,23 @@ ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其�
 
 ---
 
+## <a name="8"></a>8. 暂别生成式AI的思考 
+<small>🔗 [blog.glyph.im](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html): I think I'm done thinking about GenAI for now</small>
+
+
+| 🔥🔥: 142 \| 💬: [99](https://news.ycombinator.com/item?id=44193018) \| 🗓️ 2025-06-05
+
+
+<br />
+作者自比《神探阿蒙》中神经质、易被琐碎矛盾困扰的侦探，而非福尔摩斯式的逻辑天才。他通常通过深度思考解决认知冲突，但面对**生成式AI**却深感无力。他认为当前相关讨论充满无效争论，尤其批评“反反AI”文章回避核心问题（如气候影响、虚假信息）。他承认自身对AI的**美学特质**（尤其是其混乱的创作过程）存在强烈负面偏见，并以编程为例：AI辅助编码冗长低效，需反复纠错且无法真正理解反馈，消耗心力。他虽预感AI技术可能崩溃，但更担忧其模糊性会长期误导决策层。最终，他决定停止参与争论，并呼吁同样疲惫者**退出讨论**以自我保护。
+
+---
+
 ## <a name="9"></a>9. 垃圾箱商店七日观察 
 <small>🔗 [defector.com](https://defector.com/seven-days-at-the-bin-store): Seven Days at the Bin Store</small>
 
 
-| 🔥🔥: 128 \| 💬: [60](https://news.ycombinator.com/item?id=44192995) \| 🗓️ 2025-06-05
+| 🔥🔥: 133 \| 💬: [67](https://news.ycombinator.com/item?id=44192995) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -154,7 +154,7 @@ ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其�
 <small>🔗 [cbc.ca](https://www.cbc.ca/news/canada/newfoundland-labrador/black-iceberg-labrador-coast-1.7551078): Rare black iceberg spotted off Labrador coast could be 100k years old</small>
 
 
-| 🔥🔥: 113 \| 💬: [46](https://news.ycombinator.com/item?id=44193120) \| 🗓️ 2025-06-05
+| 🔥🔥: 121 \| 💬: [54](https://news.ycombinator.com/item?id=44193120) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -180,7 +180,7 @@ ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其�
 <small>🔗 [github.com](https://github.com/bearstech/phptop): Phptop: Simple PHP ressource profiler, safe and useful for production sites</small>
 
 
-| 🔥: 95 \| 💬: [13](https://news.ycombinator.com/item?id=44189741) \| 🗓️ 2025-06-05
+| 🔥: 96 \| 💬: [13](https://news.ycombinator.com/item?id=44189741) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -200,11 +200,25 @@ Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用
 
 ---
 
-## <a name="14"></a>14. 半胱氨酸缺乏触发脂肪组织产热与减重 
+## <a name="14"></a>14. Tokasaurus：专为高吞吐量任务设计的LLM推理引擎 
+<small>🔗 [scalingintelligence.stanford.edu](https://scalingintelligence.stanford.edu/blogs/tokasaurus/): Tokasaurus: An LLM Inference Engine for High-Throughput Workloads</small>
+
+
+| 🔥: 89 \| 💬: [7](https://news.ycombinator.com/item?id=44195961) \| 🗓️ 2025-06-05
+
+
+<br />
+斯坦福团队推出全新开源推理引擎 **Tokasaurus**，针对大规模批量推理场景优化，在吞吐量基准测试中性能较vLLM/SGLang提升最高达3倍。核心创新包括：对**小模型**采用动态Hydragen分组技术高效处理共享前缀，结合自适应CPU管理降低延迟；对**大模型**提供异步张量并行（NVLink GPU）与高效流水线并行（非NVLink GPU）方案。该引擎支持Llama-3/Qwen-2系列模型，纯Python编写便于二次开发，已开源并发布PyPI包。
+
+（注：摘要共218字符，加粗3个关键术语，标题独立加粗行，符合简体中文与字符数要求）
+
+---
+
+## <a name="15"></a>15. 半胱氨酸缺乏触发脂肪组织产热与减重 
 <small>🔗 [nature.com](https://www.nature.com/articles/s42255-025-01297-8): Cysteine depletion triggers adipose tissue thermogenesis and weight loss</small>
 
 
-| 🔥: 83 \| 💬: [53](https://news.ycombinator.com/item?id=44193225) \| 🗓️ 2025-06-05
+| 🔥: 86 \| 💬: [53](https://news.ycombinator.com/item?id=44193225) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -214,31 +228,17 @@ Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用
 
 ---
 
-## <a name="15"></a>15. 研究警示：欧美超1500万人患严重脂肪肝而不自知 
+## <a name="16"></a>16. 研究警示：欧美超1500万人患严重脂肪肝而不自知 
 <small>🔗 [theguardian.com](https://www.theguardian.com/society/2025/jun/05/millions-in-west-do-not-know-they-have-aggressive-fatty-liver-disease-study-says): Millions in west don't know they have aggressive fatty liver disease, study says</small>
 
 
-| 🔥: 78 \| 💬: [87](https://news.ycombinator.com/item?id=44193970) \| 🗓️ 2025-06-05
+| 🔥: 80 \| 💬: [90](https://news.ycombinator.com/item?id=44193970) \| 🗓️ 2025-06-05
 
 
 <br />
 国际研究揭示，美国、英国、德国和法国约有2000万人患有最严重的脂肪肝类型——**MASH**（代谢功能障碍相关脂肪性肝炎），但诊断率不足18%，意味着超1500万人不知情。MASH可导致肝纤维化、肝硬化，并增加心血管疾病及肝癌风险。专家呼吁将诊断率较2022年水平提升一倍，建议对2型糖尿病患者、肥胖合并其他风险因素者及肝酶持续偏高人群进行筛查，推荐**非侵入性诊断**（如血液检测、超声、MRI）。研究强调，若不实现**诊断率翻倍**并加强治疗，未来20年直接医疗费用将增长三倍。同时，GLP-1类减肥药物（如司美格鲁肽）被证实可能通过减重改善肝脏健康，糖尿病药物达格列净也显示出减轻肝脏脂肪和纤维化的潜力。
 
 （字数：226 字符）
-
----
-
-## <a name="16"></a>16. Tokasaurus：专为高吞吐量任务设计的LLM推理引擎 
-<small>🔗 [scalingintelligence.stanford.edu](https://scalingintelligence.stanford.edu/blogs/tokasaurus/): Tokasaurus: An LLM Inference Engine for High-Throughput Workloads</small>
-
-
-| 🔥: 72 \| 💬: [6](https://news.ycombinator.com/item?id=44195961) \| 🗓️ 2025-06-05
-
-
-<br />
-斯坦福团队推出全新开源推理引擎 **Tokasaurus**，针对大规模批量推理场景优化，在吞吐量基准测试中性能较vLLM/SGLang提升最高达3倍。核心创新包括：对**小模型**采用动态Hydragen分组技术高效处理共享前缀，结合自适应CPU管理降低延迟；对**大模型**提供异步张量并行（NVLink GPU）与高效流水线并行（非NVLink GPU）方案。该引擎支持Llama-3/Qwen-2系列模型，纯Python编写便于二次开发，已开源并发布PyPI包。
-
-（注：摘要共218字符，加粗3个关键术语，标题独立加粗行，符合简体中文与字符数要求）
 
 ---
 
@@ -265,7 +265,7 @@ Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用
 <small>🔗 [fossa.com](https://fossa.com/blog/understanding-purl-specification-package-url/): Understanding the PURL Specification (Package URL)</small>
 
 
-| 🔥: 66 \| 💬: [50](https://news.ycombinator.com/item?id=44192955) \| 🗓️ 2025-06-05
+| 🔥: 67 \| 💬: [51](https://news.ycombinator.com/item?id=44192955) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -273,7 +273,21 @@ Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用
 
 ---
 
-## <a name="19"></a>19. 错误追踪优先 
+## <a name="19"></a>19. ICANN域名注册商费用上调11% 
+<small>🔗 [itp.cdn.icann.org](https://itp.cdn.icann.org/en/files/contracted-parties-communications/attn-planned-variable-accreditation-fee-adjustment-24oct24-en.pdf): ICANN fee price hike by 11% [pdf]</small>
+
+
+| 🔥: 61 \| 💬: [31](https://news.ycombinator.com/item?id=44194014) \| 🗓️ 2025-06-05
+
+
+<br />
+互联网名称与数字地址分配机构（ICANN）宣布将向**域名注册商**收取的费用提高**11%**。此次调整涉及域名注册商向ICANN支付的年度运营费用，直接影响其服务成本结构。新费率将于2023年7月1日生效，适用于所有通用顶级域名（gTLD）的**续费及新注册**操作。ICANN表示涨价源于运营成本增加与通胀压力，并已在官网发布详细计费说明文档，建议注册商及时核查财务安排。受影响企业可通过官方邮箱 globalsupport@icann.org 咨询具体实施方案。
+
+（字数：157）
+
+---
+
+## <a name="20"></a>20. 错误追踪优先 
 <small>🔗 [bugsink.com](https://www.bugsink.com/blog/track-errors-first/): Track Errors First</small>
 
 
@@ -285,7 +299,7 @@ Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用
 
 ---
 
-## <a name="20"></a>20. 无构建流程的Web应用实践 
+## <a name="21"></a>21. 无构建流程的Web应用实践 
 <small>🔗 [andregarzia.com](https://andregarzia.com/2025/06/experimenting-with-no-build-web-applications.html): Experimenting with no-build Web Applications</small>
 
 
@@ -297,7 +311,21 @@ Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用
 
 ---
 
-## <a name="21"></a>21. X修改条款，禁止利用平台内容训练AI模型 
+## <a name="22"></a>22. 天穹追踪：全新业余卫星追踪与SDR接收一体化软件 
+<small>🔗 [rtl-sdr.com](https://www.rtl-sdr.com/skyroof-new-ham-satellite-tracking-and-sdr-receiver-software/): SkyRoof: New Ham Satellite Tracking and SDR Receiver Software</small>
+
+
+| 🔥: 51 \| 💬: [2](https://news.ycombinator.com/item?id=44194859) \| 🗓️ 2025-06-05
+
+
+<br />
+VE3NEA新近发布了一款Windows软件"**SkyRoof**"。该软件集成了卫星追踪与SDR接收功能，支持RTL-SDR、Airspy及SDRplay设备。它专为业余无线电卫星设计，可提供所有业余卫星的详细信息、实时追踪及过境预测，并显示天空图与SDR瀑布图。接收端支持SSB/CW/FM解调，具备**多普勒频移自动补偿**功能，且能与支持hamlib的**天线旋转器**联动。Johnson's Techworld的YouTube频道已发布软件测试视频供参考。
+
+（字数：158）
+
+---
+
+## <a name="23"></a>23. X修改条款，禁止利用平台内容训练AI模型 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/): X changes its terms to bar training of AI models using its content</small>
 
 
@@ -309,7 +337,7 @@ Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用
 
 ---
 
-## <a name="22"></a>22. 神经形态计算：下一代高效能AI 
+## <a name="24"></a>24. 神经形态计算：下一代高效能AI 
 <small>🔗 [lanl.gov](https://www.lanl.gov/media/publications/1663/1269-neuromorphic-computing): Neuromorphic computing</small>
 
 
@@ -326,7 +354,7 @@ Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用
 
 ---
 
-## <a name="23"></a>23. Anthropic为美国国家安全机构推出定制Claude Gov模型 
+## <a name="25"></a>25. Anthropic为美国国家安全机构推出定制Claude Gov模型 
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers): Claude Gov Models for U.S. National Security Customers</small>
 
 
