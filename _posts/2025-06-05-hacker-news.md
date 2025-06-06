@@ -12,7 +12,7 @@ tags:
 1. 谷歌限制安卓侧载功能引发用户自由争议；
 1. Gemini 2.5 Pro 预览版：编程与复杂推理的巅峰之作；
 1. 苹果笔记将支持Markdown导出功能；
-1. 推特加密私信：新不如旧，安全堪忧；
+1. 十一实验室v3震撼发布；
 
 以上是今天的前五条黑科技新闻标题。
 
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [crookedtimber.org](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/): The impossible predicament of the death newts</small>
 
 
-| 🔥🔥: 428 \| 💬: [148](https://news.ycombinator.com/item?id=44191620) \| 🗓️ 2025-06-05
+| 🔥🔥: 437 \| 💬: [153](https://news.ycombinator.com/item?id=44191620) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -64,7 +64,7 @@ tags:
 <small>🔗 [deepmind.google](https://deepmind.google/models/gemini/pro/): Gemini-2.5-pro-preview-06-05</small>
 
 
-| 🔥🔥: 315 \| 💬: [197](https://news.ycombinator.com/item?id=44193328) \| 🗓️ 2025-06-05
+| 🔥🔥: 317 \| 💬: [199](https://news.ycombinator.com/item?id=44193328) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -76,7 +76,7 @@ Google 发布其最先进模型 Gemini 2.5 Pro 预览版 (06-05)，专为**编�
 <small>🔗 [daringfireball.net](https://daringfireball.net/linked/2025/06/04/apple-notes-markdown): Apple Notes Will Gain Markdown Export at WWDC, and, I Have Thoughts</small>
 
 
-| 🔥🔥: 291 \| 💬: [169](https://news.ycombinator.com/item?id=44191558) \| 🗓️ 2025-06-05
+| 🔥🔥: 293 \| 💬: [171](https://news.ycombinator.com/item?id=44191558) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -86,23 +86,11 @@ Google 发布其最先进模型 Gemini 2.5 Pro 预览版 (06-05)，专为**编�
 
 ---
 
-## <a name="5"></a>5. 推特加密私信：新不如旧，安全堪忧 
-<small>🔗 [mjg59.dreamwidth.org](https://mjg59.dreamwidth.org/71646.html): Twitter's new encrypted DMs aren't better than the old ones</small>
-
-
-| 🔥🔥: 201 \| 💬: [186](https://news.ycombinator.com/item?id=44191591) \| 🗓️ 2025-06-05
-
-
-<br />
-尽管推特改用**Juicebox协议**存储密钥并声称提升安全性，但其核心缺陷未解决：用户私钥仍可被推特轻易获取。系统依赖脆弱的**4位PIN码**（仅万种组合，易遭暴力破解），且所有密钥服务器均由推特控制，无法验证其可信度。此外，缺乏公钥验证机制使推特可中间人攻击（MITM），解密并转发消息。通信**元数据**（如收发方、时间）完全暴露。文章结论明确：**使用Signal**才是真正安全的替代方案。
-
----
-
-## <a name="6"></a>6. 十一实验室v3震撼发布 
+## <a name="5"></a>5. 十一实验室v3震撼发布 
 <small>🔗 [elevenlabs.io](https://elevenlabs.io/v3): Eleven v3</small>
 
 
-| 🔥🔥: 199 \| 💬: [101](https://news.ycombinator.com/item?id=44194521) \| 🗓️ 2025-06-05
+| 🔥🔥: 208 \| 💬: [103](https://news.ycombinator.com/item?id=44194521) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -110,11 +98,11 @@ ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其�
 
 ---
 
-## <a name="7"></a>7. 开源 ClickStack：基于 ClickHouse 和 HyperDX 的 Datadog 替代方案 
+## <a name="6"></a>6. 开源 ClickStack：基于 ClickHouse 和 HyperDX 的 Datadog 替代方案 
 <small>🔗 [github.com](https://github.com/hyperdxio/hyperdx): Show HN: ClickStack – Open-source Datadog alternative by ClickHouse and HyperDX</small>
 
 
-| 🔥🔥: 198 \| 💬: [44](https://news.ycombinator.com/item?id=44194082) \| 🗓️ 2025-06-05
+| 🔥🔥: 204 \| 💬: [46](https://news.ycombinator.com/item?id=44194082) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -122,11 +110,23 @@ ClickStack 是基于高性能数据库 **ClickHouse** 的开源可观测性解�
 
 ---
 
+## <a name="7"></a>7. 推特加密私信：新不如旧，安全堪忧 
+<small>🔗 [mjg59.dreamwidth.org](https://mjg59.dreamwidth.org/71646.html): Twitter's new encrypted DMs aren't better than the old ones</small>
+
+
+| 🔥🔥: 202 \| 💬: [186](https://news.ycombinator.com/item?id=44191591) \| 🗓️ 2025-06-05
+
+
+<br />
+尽管推特改用**Juicebox协议**存储密钥并声称提升安全性，但其核心缺陷未解决：用户私钥仍可被推特轻易获取。系统依赖脆弱的**4位PIN码**（仅万种组合，易遭暴力破解），且所有密钥服务器均由推特控制，无法验证其可信度。此外，缺乏公钥验证机制使推特可中间人攻击（MITM），解密并转发消息。通信**元数据**（如收发方、时间）完全暴露。文章结论明确：**使用Signal**才是真正安全的替代方案。
+
+---
+
 ## <a name="8"></a>8. 垃圾箱商店七日观察 
 <small>🔗 [defector.com](https://defector.com/seven-days-at-the-bin-store): Seven Days at the Bin Store</small>
 
 
-| 🔥🔥: 162 \| 💬: [76](https://news.ycombinator.com/item?id=44192995) \| 🗓️ 2025-06-05
+| 🔥🔥: 165 \| 💬: [81](https://news.ycombinator.com/item?id=44192995) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -142,7 +142,7 @@ ClickStack 是基于高性能数据库 **ClickHouse** 的开源可观测性解�
 <small>🔗 [blog.glyph.im](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html): I think I'm done thinking about GenAI for now</small>
 
 
-| 🔥🔥: 148 \| 💬: [104](https://news.ycombinator.com/item?id=44193018) \| 🗓️ 2025-06-05
+| 🔥🔥: 148 \| 💬: [105](https://news.ycombinator.com/item?id=44193018) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -150,25 +150,11 @@ ClickStack 是基于高性能数据库 **ClickHouse** 的开源可观测性解�
 
 ---
 
-## <a name="10"></a>10. Tokasaurus：专为高吞吐量任务设计的LLM推理引擎 
-<small>🔗 [scalingintelligence.stanford.edu](https://scalingintelligence.stanford.edu/blogs/tokasaurus/): Tokasaurus: An LLM inference engine for high-throughput workloads</small>
-
-
-| 🔥🔥: 130 \| 💬: [16](https://news.ycombinator.com/item?id=44195961) \| 🗓️ 2025-06-05
-
-
-<br />
-斯坦福团队推出全新开源推理引擎 **Tokasaurus**，针对大规模批量推理场景优化，在吞吐量基准测试中性能较vLLM/SGLang提升最高达3倍。核心创新包括：对**小模型**采用动态Hydragen分组技术高效处理共享前缀，结合自适应CPU管理降低延迟；对**大模型**提供异步张量并行（NVLink GPU）与高效流水线并行（非NVLink GPU）方案。该引擎支持Llama-3/Qwen-2系列模型，纯Python编写便于二次开发，已开源并发布PyPI包。
-
-（注：摘要共218字符，加粗3个关键术语，标题独立加粗行，符合简体中文与字符数要求）
-
----
-
-## <a name="11"></a>11. 《遗忘人生却活得自在》 
+## <a name="10"></a>10. 《遗忘人生却活得自在》 
 <small>🔗 [aethermug.com](https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine): I do not remember my life and it's fine</small>
 
 
-| 🔥🔥: 129 \| 💬: [95](https://news.ycombinator.com/item?id=44196576) \| 🗓️ 2025-06-05
+| 🔥🔥: 148 \| 💬: [109](https://news.ycombinator.com/item?id=44196576) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -183,11 +169,25 @@ ClickStack 是基于高性能数据库 **ClickHouse** 的开源可观测性解�
 
 ---
 
+## <a name="11"></a>11. Tokasaurus：专为高吞吐量任务设计的LLM推理引擎 
+<small>🔗 [scalingintelligence.stanford.edu](https://scalingintelligence.stanford.edu/blogs/tokasaurus/): Tokasaurus: An LLM inference engine for high-throughput workloads</small>
+
+
+| 🔥🔥: 145 \| 💬: [19](https://news.ycombinator.com/item?id=44195961) \| 🗓️ 2025-06-05
+
+
+<br />
+斯坦福团队推出全新开源推理引擎 **Tokasaurus**，针对大规模批量推理场景优化，在吞吐量基准测试中性能较vLLM/SGLang提升最高达3倍。核心创新包括：对**小模型**采用动态Hydragen分组技术高效处理共享前缀，结合自适应CPU管理降低延迟；对**大模型**提供异步张量并行（NVLink GPU）与高效流水线并行（非NVLink GPU）方案。该引擎支持Llama-3/Qwen-2系列模型，纯Python编写便于二次开发，已开源并发布PyPI包。
+
+（注：摘要共218字符，加粗3个关键术语，标题独立加粗行，符合简体中文与字符数要求）
+
+---
+
 ## <a name="12"></a>12. 拉布拉多海岸惊现罕见黑色冰山，或存世十万年 
 <small>🔗 [cbc.ca](https://www.cbc.ca/news/canada/newfoundland-labrador/black-iceberg-labrador-coast-1.7551078): Rare black iceberg spotted off Labrador coast could be 100k years old</small>
 
 
-| 🔥🔥: 126 \| 💬: [61](https://news.ycombinator.com/item?id=44193120) \| 🗓️ 2025-06-05
+| 🔥🔥: 128 \| 💬: [61](https://news.ycombinator.com/item?id=44193120) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -195,7 +195,23 @@ ClickStack 是基于高性能数据库 **ClickHouse** 的开源可观测性解�
 
 ---
 
-## <a name="13"></a>13. 十年押注 Rust：回顾与展望 
+## <a name="13"></a>13. YouTube将自托管媒体库视为有害内容 
+<small>🔗 [jeffgeerling.com](https://www.jeffgeerling.com/blog/2025/self-hosting-your-own-media-considered-harmful): Self-hosting your own media considered harmful according to YouTube</small>
+
+
+| 🔥🔥: 125 \| 💬: [22](https://news.ycombinator.com/item?id=44197932) \| 🗓️ 2025-06-05
+
+
+<br />
+作者因演示树莓派5安装**LibreELEC**播放本地4K视频，两次遭YouTube判定违规。他强调视频从未推荐盗版工具，仅展示如何管理合法购买的实体媒体库（CD/DVD/蓝光），并指出流媒体服务日益碎片化且广告泛滥。尽管视频上线一年获50万播放且无问题，申诉仍被驳回，理由竟是"传授规避付费内容方法"。
+
+此前其安装**Jellyfin**教程也曾被下架。作者已将争议视频迁移至Internet Archive免费公开，同时尝试Floatplane平台。他解释未选择PeerTube是因小众平台难以维持创作成本（单视频耗时10-300小时），坦言YouTube的广告收入和流量仍是不可或缺的"**黄金手铐**"，但担忧谷歌AI可能滥用其内容。
+
+（字数：189）
+
+---
+
+## <a name="14"></a>14. 十年押注 Rust：回顾与展望 
 <small>🔗 [tably.com](https://tably.com/tably/10-years-of-betting-on-rust): 10 Years of Betting on Rust</small>
 
 
@@ -209,7 +225,7 @@ ClickStack 是基于高性能数据库 **ClickHouse** 的开源可观测性解�
 
 ---
 
-## <a name="14"></a>14. Phptop：轻量级PHP性能监控工具 
+## <a name="15"></a>15. Phptop：轻量级PHP性能监控工具 
 <small>🔗 [github.com](https://github.com/bearstech/phptop): Phptop: Simple PHP ressource profiler, safe and useful for production sites</small>
 
 
@@ -221,7 +237,7 @@ Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用
 
 ---
 
-## <a name="15"></a>15. DNS4EU公共服务正式上线 
+## <a name="16"></a>16. DNS4EU公共服务正式上线 
 <small>🔗 [joindns4.eu](https://www.joindns4.eu/for-public): DNS4EU for Public Is Available</small>
 
 
@@ -233,11 +249,11 @@ Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用
 
 ---
 
-## <a name="16"></a>16. 半胱氨酸缺乏触发脂肪组织产热与减重 
+## <a name="17"></a>17. 半胱氨酸缺乏触发脂肪组织产热与减重 
 <small>🔗 [nature.com](https://www.nature.com/articles/s42255-025-01297-8): Cysteine depletion triggers adipose tissue thermogenesis and weight loss</small>
 
 
-| 🔥: 87 \| 💬: [58](https://news.ycombinator.com/item?id=44193225) \| 🗓️ 2025-06-05
+| 🔥: 88 \| 💬: [59](https://news.ycombinator.com/item?id=44193225) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -247,11 +263,47 @@ Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用
 
 ---
 
-## <a name="17"></a>17. 研究警示：欧美超1500万人患严重脂肪肝而不自知 
+## <a name="18"></a>18. Anthropic切断AI助手Windsurf访问权限 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/06/05/anthropic-co-founder-on-cutting-access-to-windsurf-it-would-be-odd-for-us-to-sell-claude-to-openai/): Anthropic co-founder on cutting access to Windsurf</small>
+
+
+| 🔥: 87 \| 💬: [81](https://news.ycombinator.com/item?id=44196807) \| 🗓️ 2025-06-05
+
+
+<br />
+Anthropic联合创始人Jared Kaplan表示，公司终止AI编程助手**Windsurf**直接访问其Claude模型，主因是竞争对手**OpenAI拟收购Windsurf**的传闻。此举导致Windsurf用户可能面临短期服务波动。Kaplan解释称Anthropic当前**计算资源受限**，需优先保障长期合作客户。同时他透露公司正重点开发Claude Code等自主智能体编程工具，认为其比聊天机器人更具发展潜力。OpenAI收购消息尚未获双方证实。
+
+---
+
+## <a name="19"></a>19. X修改条款，禁止利用平台内容训练AI模型 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/): X changes its terms to bar training of AI models using its content</small>
+
+
+| 🔥: 84 \| 💬: [82](https://news.ycombinator.com/item?id=44193390) \| 🗓️ 2025-06-05
+
+
+<br />
+社交平台X更新了开发者协议，**禁止第三方使用平台内容训练大语言模型**。新条款明确规定不得利用X API或内容来微调或训练基础模型及前沿模型。此调整紧随**xAI收购X**之后，旨在防止竞争对手免费获取数据。此前X曾允许利用公共数据训练AI，但政策反复。目前Reddit和The Browser Company旗下浏览器Dia也已采取**类似限制措施**，行业对AI数据抓取监管趋严。(223字符)
+
+---
+
+## <a name="20"></a>20. Claude Composer：提升Claude Code自动化效率的CLI工具 
+<small>🔗 [github.com](https://github.com/possibilities/claude-composer): Show HN: Claude Composer</small>
+
+
+| 🔥: 84 \| 💬: [41](https://news.ycombinator.com/item?id=44196417) \| 🗓️ 2025-06-05
+
+
+<br />
+Claude Composer 是一个增强 Claude Code 功能的命令行工具，专注于优化自动化流程与用户体验。它通过 **规则集** 精细控制权限对话框的自动处理（如内置的 cautious/yolo/safe 模式），减少人工干预。支持 **工具集** 管理 Claude 的工具权限及 MCP 服务器配置，并通过系统通知实时反馈生命周期事件。安装后执行 `claude-composer cc-init` 初始化全局或项目级 YAML 配置文件，核心功能包括路径信任机制、自定义规则链叠加（`--ruleset`）及 **自动关闭对话框** 策略，显著提升开发效率。
+
+---
+
+## <a name="21"></a>21. 研究警示：欧美超1500万人患严重脂肪肝而不自知 
 <small>🔗 [theguardian.com](https://www.theguardian.com/society/2025/jun/05/millions-in-west-do-not-know-they-have-aggressive-fatty-liver-disease-study-says): Millions in west don't know they have aggressive fatty liver disease, study says</small>
 
 
-| 🔥: 83 \| 💬: [91](https://news.ycombinator.com/item?id=44193970) \| 🗓️ 2025-06-05
+| 🔥: 83 \| 💬: [93](https://news.ycombinator.com/item?id=44193970) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -261,23 +313,11 @@ Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用
 
 ---
 
-## <a name="18"></a>18. Anthropic切断AI助手Windsurf访问权限 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/06/05/anthropic-co-founder-on-cutting-access-to-windsurf-it-would-be-odd-for-us-to-sell-claude-to-openai/): Anthropic co-founder on cutting access to Windsurf</small>
-
-
-| 🔥: 83 \| 💬: [79](https://news.ycombinator.com/item?id=44196807) \| 🗓️ 2025-06-05
-
-
-<br />
-Anthropic联合创始人Jared Kaplan表示，公司终止AI编程助手**Windsurf**直接访问其Claude模型，主因是竞争对手**OpenAI拟收购Windsurf**的传闻。此举导致Windsurf用户可能面临短期服务波动。Kaplan解释称Anthropic当前**计算资源受限**，需优先保障长期合作客户。同时他透露公司正重点开发Claude Code等自主智能体编程工具，认为其比聊天机器人更具发展潜力。OpenAI收购消息尚未获双方证实。
-
----
-
-## <a name="19"></a>19. Haskell 实现的 APL 解释器（2024） 
+## <a name="22"></a>22. Haskell 实现的 APL 解释器（2024） 
 <small>🔗 [scharenbroch.dev](https://scharenbroch.dev/projects/apl-interpreter/): APL Interpreter – An implementation of APL, written in Haskell (2024)</small>
 
 
-| 🔥: 78 \| 💬: [30](https://news.ycombinator.com/item?id=44195931) \| 🗓️ 2025-06-05
+| 🔥: 83 \| 💬: [30](https://news.ycombinator.com/item?id=44195931) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -292,35 +332,11 @@ Anthropic联合创始人Jared Kaplan表示，公司终止AI编程助手**Windsur
 
 ---
 
-## <a name="20"></a>20. Claude Composer：提升Claude Code自动化效率的CLI工具 
-<small>🔗 [github.com](https://github.com/possibilities/claude-composer): Show HN: Claude Composer</small>
-
-
-| 🔥: 77 \| 💬: [33](https://news.ycombinator.com/item?id=44196417) \| 🗓️ 2025-06-05
-
-
-<br />
-Claude Composer 是一个增强 Claude Code 功能的命令行工具，专注于优化自动化流程与用户体验。它通过 **规则集** 精细控制权限对话框的自动处理（如内置的 cautious/yolo/safe 模式），减少人工干预。支持 **工具集** 管理 Claude 的工具权限及 MCP 服务器配置，并通过系统通知实时反馈生命周期事件。安装后执行 `claude-composer cc-init` 初始化全局或项目级 YAML 配置文件，核心功能包括路径信任机制、自定义规则链叠加（`--ruleset`）及 **自动关闭对话框** 策略，显著提升开发效率。
-
----
-
-## <a name="21"></a>21. X修改条款，禁止利用平台内容训练AI模型 
-<small>🔗 [techcrunch.com](https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/): X changes its terms to bar training of AI models using its content</small>
-
-
-| 🔥: 73 \| 💬: [69](https://news.ycombinator.com/item?id=44193390) \| 🗓️ 2025-06-05
-
-
-<br />
-社交平台X更新了开发者协议，**禁止第三方使用平台内容训练大语言模型**。新条款明确规定不得利用X API或内容来微调或训练基础模型及前沿模型。此调整紧随**xAI收购X**之后，旨在防止竞争对手免费获取数据。此前X曾允许利用公共数据训练AI，但政策反复。目前Reddit和The Browser Company旗下浏览器Dia也已采取**类似限制措施**，行业对AI数据抓取监管趋严。(223字符)
-
----
-
-## <a name="22"></a>22. 天穹追踪：全新业余卫星追踪与SDR接收一体化软件 
+## <a name="23"></a>23. 天穹追踪：全新业余卫星追踪与SDR接收一体化软件 
 <small>🔗 [rtl-sdr.com](https://www.rtl-sdr.com/skyroof-new-ham-satellite-tracking-and-sdr-receiver-software/): SkyRoof: New Ham Satellite Tracking and SDR Receiver Software</small>
 
 
-| 🔥: 72 \| 💬: [6](https://news.ycombinator.com/item?id=44194859) \| 🗓️ 2025-06-05
+| 🔥: 75 \| 💬: [6](https://news.ycombinator.com/item?id=44194859) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -330,47 +346,28 @@ VE3NEA新近发布了一款Windows软件"**SkyRoof**"。该软件集成了卫星
 
 ---
 
-## <a name="23"></a>23. ICANN域名注册商费用上调11% 
+## <a name="24"></a>24. 理解PURL规范（软件包URL） 
+<small>🔗 [fossa.com](https://fossa.com/blog/understanding-purl-specification-package-url/): Understanding the PURL Specification (Package URL)</small>
+
+
+| 🔥: 70 \| 💬: [52](https://news.ycombinator.com/item?id=44192955) \| 🗓️ 2025-06-05
+
+
+<br />
+**PURL**（Package URL）是用于跨生态系统唯一标识软件包的开源标准。其结构为 `pkg:<type>/<namespace>/<name>@<version>?<qualifiers>#<subpath>`，包含包类型、命名空间、名称、版本等关键字段。PURL在现代**SBOM**（软件物料清单）中至关重要，为组件提供精确、机器可读的唯一标识，便于跟踪依赖和漏洞。相比传统CPE标识，PURL更适配开源生态，直接映射开发者的包管理实践，但暂未覆盖商业产品。主流SBOM格式（如CycloneDX、SPDX）均支持PURL，使其成为软件供应链透明的核心工具。
+
+---
+
+## <a name="25"></a>25. ICANN域名注册商费用上调11% 
 <small>🔗 [itp.cdn.icann.org](https://itp.cdn.icann.org/en/files/contracted-parties-communications/attn-planned-variable-accreditation-fee-adjustment-24oct24-en.pdf): ICANN fee price hike by 11% [pdf]</small>
 
 
-| 🔥: 69 \| 💬: [45](https://news.ycombinator.com/item?id=44194014) \| 🗓️ 2025-06-05
+| 🔥: 69 \| 💬: [46](https://news.ycombinator.com/item?id=44194014) \| 🗓️ 2025-06-05
 
 
 <br />
 互联网名称与数字地址分配机构（ICANN）宣布将向**域名注册商**收取的费用提高**11%**。此次调整涉及域名注册商向ICANN支付的年度运营费用，直接影响其服务成本结构。新费率将于2023年7月1日生效，适用于所有通用顶级域名（gTLD）的**续费及新注册**操作。ICANN表示涨价源于运营成本增加与通胀压力，并已在官网发布详细计费说明文档，建议注册商及时核查财务安排。受影响企业可通过官方邮箱 globalsupport@icann.org 咨询具体实施方案。
 
 （字数：157）
-
----
-
-## <a name="24"></a>24. 加拿大边境法案暗藏网络监控条款 
-<small>🔗 [michaelgeist.ca](https://www.michaelgeist.ca/2025/06/privacy-at-risk-government-buries-lawful-access-provisions-in-new-border-bill/): Canadian Government Buries “Lawful Access” Provisions in New Border Bill</small>
-
-
-| 🔥: 68 \| 💬: [15](https://news.ycombinator.com/item?id=44190832) \| 🗓️ 2025-06-05
-
-
-<br />
-加拿大政府近期推出《强化边境法案》(C-2法案)，名义上为加强边境安全，实则**夹带与边境无关的"合法访问"条款**。这些条款允许执法部门在无搜查令情况下获取互联网用户信息，包括：
-1. 新增无需法院监督的"信息索取权"，仅凭"合理怀疑"即可强制要求服务商提供用户账户是否存在、服务地点及时间等**元数据**
-2. 建立针对国内外企业的**全球数据生产令**，扩大跨境数据索取范围
-3. 允许在"紧急情况"下绕过司法程序直接获取用户数据
-
-此举实为执法机构长期推动网络监控的再次尝试。此前类似法案因最高法院2014年"斯宾塞案"裁决（认定用户信息受隐私权保护）及公众反对多次失败。新法案以边境安全为幌子重启争议条款，涉嫌侵犯公民隐私和自由，预计将引发法律挑战。
-
-（字数：199字）
-
----
-
-## <a name="25"></a>25. 理解PURL规范（软件包URL） 
-<small>🔗 [fossa.com](https://fossa.com/blog/understanding-purl-specification-package-url/): Understanding the PURL Specification (Package URL)</small>
-
-
-| 🔥: 68 \| 💬: [51](https://news.ycombinator.com/item?id=44192955) \| 🗓️ 2025-06-05
-
-
-<br />
-**PURL**（Package URL）是用于跨生态系统唯一标识软件包的开源标准。其结构为 `pkg:<type>/<namespace>/<name>@<version>?<qualifiers>#<subpath>`，包含包类型、命名空间、名称、版本等关键字段。PURL在现代**SBOM**（软件物料清单）中至关重要，为组件提供精确、机器可读的唯一标识，便于跟踪依赖和漏洞。相比传统CPE标识，PURL更适配开源生态，直接映射开发者的包管理实践，但暂未覆盖商业产品。主流SBOM格式（如CycloneDX、SPDX）均支持PURL，使其成为软件供应链透明的核心工具。
 
 ---
