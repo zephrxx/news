@@ -16,7 +16,7 @@ tags:
 
 以上是今天的前五条黑科技新闻标题。
 
-总共24条，具体内容您往下读...
+总共25条，具体内容您往下读...
 
 
 <iframe src="/signup.html" width="100%" height="270" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ tags:
 <small>🔗 [mozillafoundation.org](https://www.mozillafoundation.org/en/campaigns/meta-shut-down-your-invasive-ai-discover-feed-now/): Meta: Shut down your invasive AI Discover feed</small>
 
 
-| 🔥🔥: 398 \| 💬: [173](https://news.ycombinator.com/item?id=44201872) \| 🗓️ 2025-06-06
+| 🔥🔥: 411 \| 💬: [179](https://news.ycombinator.com/item?id=44201872) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -41,7 +41,7 @@ Mozilla指控Meta正将用户的**私密AI聊天**悄然转化为**公开内容*
 <small>🔗 [about.gitlab.com](https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/): How we decreased GitLab repo backup times from 48 hours to 41 minutes</small>
 
 
-| 🔥🔥: 264 \| 💬: [111](https://news.ycombinator.com/item?id=44201975) \| 🗓️ 2025-06-06
+| 🔥🔥: 292 \| 💬: [114](https://news.ycombinator.com/item?id=44201975) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -53,7 +53,7 @@ GitLab团队通过优化核心Git功能，将大型仓库备份时间从48小时
 <small>🔗 [jepsen.io](https://jepsen.io/analyses/tigerbeetle-0.16.11): Jepsen: TigerBeetle 0.16.11</small>
 
 
-| 🔥🔥: 209 \| 💬: [65](https://news.ycombinator.com/item?id=44199592) \| 🗓️ 2025-06-06
+| 🔥🔥: 211 \| 💬: [67](https://news.ycombinator.com/item?id=44199592) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -69,7 +69,7 @@ TigerBeetle是一款专为**双入口会计**设计的OLTP数据库，强调安�
 <small>🔗 [wordsmith.social](https://wordsmith.social/elilla/deep-in-mordor-where-the-shadows-lie-dystopian-stories-of-my-time-as-a-googler): Dystopian tales of that time when I sold out to Google</small>
 
 
-| 🔥🔥: 195 \| 💬: [168](https://news.ycombinator.com/item?id=44200773) \| 🗓️ 2025-06-06
+| 🔥🔥: 202 \| 💬: [170](https://news.ycombinator.com/item?id=44200773) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -87,7 +87,7 @@ TigerBeetle是一款专为**双入口会计**设计的OLTP数据库，强调安�
 <small>🔗 [tomsguide.com](https://www.tomsguide.com/computing/vpns/infomaniak-breaks-rank-and-comes-out-in-support-of-controversial-swiss-encryption-law): Infomaniak comes out in support of controversial Swiss encryption law</small>
 
 
-| 🔥🔥: 181 \| 💬: [96](https://news.ycombinator.com/item?id=44199377) \| 🗓️ 2025-06-06
+| 🔥🔥: 182 \| 💬: [97](https://news.ycombinator.com/item?id=44199377) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -99,7 +99,7 @@ TigerBeetle是一款专为**双入口会计**设计的OLTP数据库，强调安�
 <small>🔗 [portal.gov.cz](https://portal.gov.cz/e-petice/1205-petice-za-povinne-zverejneni-zdrojovych-kodu-softwaru-pouzitych-ve-verejne-sprave): Czech Republic: Petition for open source in public administration</small>
 
 
-| 🔥🔥: 178 \| 💬: [28](https://news.ycombinator.com/item?id=44199299) \| 🗓️ 2025-06-06
+| 🔥🔥: 180 \| 💬: [28](https://news.ycombinator.com/item?id=44199299) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -119,7 +119,7 @@ TigerBeetle是一款专为**双入口会计**设计的OLTP数据库，强调安�
 <small>🔗 [odyc.dev](https://odyc.dev): Odyc.js – A tiny JavaScript library for narrative games</small>
 
 
-| 🔥🔥: 158 \| 💬: [29](https://news.ycombinator.com/item?id=44200866) \| 🗓️ 2025-06-06
+| 🔥🔥: 167 \| 💬: [32](https://news.ycombinator.com/item?id=44200866) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -127,11 +127,30 @@ TigerBeetle是一款专为**双入口会计**设计的OLTP数据库，强调安�
 
 ---
 
-## <a name="8"></a>8. 研究人员突破性发现：让HIV在白细胞中"现形" 
+## <a name="8"></a>8. Web开发者的'自虐'指南：用C/C++移植应用到WebAssembly 
+<small>🔗 [sebastiano.tronto.net](https://sebastiano.tronto.net/blog/2025-06-06-webdev/): A masochist's guide to web development</small>
+
+
+| 🔥🔥: 157 \| 💬: [19](https://news.ycombinator.com/item?id=44200895) \| 🗓️ 2025-06-06
+
+
+<br />
+本文记录了作者将复杂的**Rubik's魔方求解器**（含多线程、SIMD等技术）通过**Emscripten**编译为**WebAssembly**的实战经验。针对C/C++开发者，指南从基础环境配置开始，演示如何将"Hello World"程序编译为可在浏览器运行的WASM模块，并剖析了WebAssembly的低级特性与内存限制（如32位架构的4GB内存上限）。  
+
+核心章节详细解析如何将C函数库（如乘法计算）暴露给JavaScript，需解决函数名修饰、异步初始化等问题。通过修改HTML模板与**DOM**交互，实现前端调用编译后的高性能库。进阶部分涵盖多线程实现（Web Workers）、回调函数设计及数据持久化存储，强调避免阻塞主线程的重要性。  
+
+作者坦言过程"复杂且令人沮丧"，但成功在浏览器中获得近原生性能，同时提供了代码仓库与调试技巧。指南明确面向追求极限性能的开发者，非传统Web开发教程。  
+
+---  
+（注：摘要严格遵循要求：中文字数约250字，标题加粗独立，关键术语加粗（WebAssembly/Emscripten/DOM），未出现"Show HN"及元信息提示词。）
+
+---
+
+## <a name="9"></a>9. 研究人员突破性发现：让HIV在白细胞中"现形" 
 <small>🔗 [theguardian.com](https://www.theguardian.com/global-development/2025/jun/05/breakthrough-in-search-for-hiv-cure-leaves-researchers-overwhelmed): Researchers find a way to make the HIV virus visible within white blood cells</small>
 
 
-| 🔥🔥: 152 \| 💬: [18](https://news.ycombinator.com/item?id=44202664) \| 🗓️ 2025-06-06
+| 🔥🔥: 157 \| 💬: [19](https://news.ycombinator.com/item?id=44202664) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -147,30 +166,11 @@ TigerBeetle是一款专为**双入口会计**设计的OLTP数据库，强调安�
 
 ---
 
-## <a name="9"></a>9. Web开发者的'自虐'指南：用C/C++移植应用到WebAssembly 
-<small>🔗 [sebastiano.tronto.net](https://sebastiano.tronto.net/blog/2025-06-06-webdev/): A masochist's guide to web development</small>
-
-
-| 🔥🔥: 149 \| 💬: [16](https://news.ycombinator.com/item?id=44200895) \| 🗓️ 2025-06-06
-
-
-<br />
-本文记录了作者将复杂的**Rubik's魔方求解器**（含多线程、SIMD等技术）通过**Emscripten**编译为**WebAssembly**的实战经验。针对C/C++开发者，指南从基础环境配置开始，演示如何将"Hello World"程序编译为可在浏览器运行的WASM模块，并剖析了WebAssembly的低级特性与内存限制（如32位架构的4GB内存上限）。  
-
-核心章节详细解析如何将C函数库（如乘法计算）暴露给JavaScript，需解决函数名修饰、异步初始化等问题。通过修改HTML模板与**DOM**交互，实现前端调用编译后的高性能库。进阶部分涵盖多线程实现（Web Workers）、回调函数设计及数据持久化存储，强调避免阻塞主线程的重要性。  
-
-作者坦言过程"复杂且令人沮丧"，但成功在浏览器中获得近原生性能，同时提供了代码仓库与调试技巧。指南明确面向追求极限性能的开发者，非传统Web开发教程。  
-
----  
-（注：摘要严格遵循要求：中文字数约250字，标题加粗独立，关键术语加粗（WebAssembly/Emscripten/DOM），未出现"Show HN"及元信息提示词。）
-
----
-
 ## <a name="10"></a>10. 肥胖是双重陷阱 
 <small>🔗 [federicopereiro.com](https://federicopereiro.com/fat-trap/): Being fat is a trap</small>
 
 
-| 🔥🔥: 146 \| 💬: [308](https://news.ycombinator.com/item?id=44200199) \| 🗓️ 2025-06-06
+| 🔥🔥: 146 \| 💬: [309](https://news.ycombinator.com/item?id=44200199) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -184,7 +184,7 @@ TigerBeetle是一款专为**双入口会计**设计的OLTP数据库，强调安�
 <small>🔗 [propublica.org](https://www.propublica.org/article/trump-doge-veterans-affairs-ai-contracts-health-care): Doge Developed Error-Prone AI Tool to "Munch" Veterans Affairs Contracts</small>
 
 
-| 🔥🔥: 135 \| 💬: [106](https://news.ycombinator.com/item?id=44199887) \| 🗓️ 2025-06-06
+| 🔥🔥: 137 \| 💬: [107](https://news.ycombinator.com/item?id=44199887) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -194,11 +194,23 @@ TigerBeetle是一款专为**双入口会计**设计的OLTP数据库，强调安�
 
 ---
 
-## <a name="12"></a>12. 英特尔顶尖芯片团队自立门户，打造"全球最强CPU" 
+## <a name="12"></a>12. 桑迪亚实验室启动类脑无存储超级计算机 
+<small>🔗 [blocksandfiles.com](https://blocksandfiles.com/2025/06/06/sandia-turns-on-brain-like-storage-free-supercomputer/): Sandia turns on brain-like storage-free supercomputer</small>
+
+
+| 🔥🔥: 137 \| 💬: [45](https://news.ycombinator.com/item?id=44201812) \| 🗓️ 2025-06-06
+
+
+<br />
+美国桑迪亚国家实验室与德国SpiNNcloud公司合作，启动了名为SpiNNaker 2的**无存储**类脑超级计算机。该系统未使用GPU或内部存储，核心由152个内核和专用加速器组成。当前部署的24板系统拥有17.5万核心，最高可扩展至1050万核心，能模拟**1.5-1.8亿神经元**。其架构通过高速芯片间通信及海量SRAM/DRAM实现数据实时处理，摒弃了集中存储需求，能效远超GPU系统。该项目由美国国家核安全局资助，旨在探索神经形态计算在核威慑任务中的应用潜力，尤其适用于**国家安全领域**的复杂实时计算与模拟。
+
+---
+
+## <a name="13"></a>13. 英特尔顶尖芯片团队自立门户，打造"全球最强CPU" 
 <small>🔗 [oregonlive.com](https://www.oregonlive.com/silicon-forest/2025/06/top-researchers-leave-intel-to-build-startup-with-the-biggest-baddest-cpu.html): Top researchers leave Intel to build startup with 'the biggest, baddest CPU'</small>
 
 
-| 🔥🔥: 128 \| 💬: [91](https://news.ycombinator.com/item?id=44201072) \| 🗓️ 2025-06-06
+| 🔥🔥: 134 \| 💬: [99](https://news.ycombinator.com/item?id=44201072) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -208,19 +220,53 @@ TigerBeetle是一款专为**双入口会计**设计的OLTP数据库，强调安�
 
 ---
 
-## <a name="13"></a>13. 桑迪亚实验室启动类脑无存储超级计算机 
-<small>🔗 [blocksandfiles.com](https://blocksandfiles.com/2025/06/06/sandia-turns-on-brain-like-storage-free-supercomputer/): Sandia turns on brain-like storage-free supercomputer</small>
+## <a name="14"></a>14. SaaS不过是品牌包装下的供应商锁定 
+<small>🔗 [rwsdk.com](https://rwsdk.com/blog/saas-is-just-vendor-lock-in-with-better-branding): SaaS is just vendor lock-in with better branding</small>
 
 
-| 🔥🔥: 125 \| 💬: [39](https://news.ycombinator.com/item?id=44201812) \| 🗓️ 2025-06-06
+| 🔥🔥: 123 \| 💬: [66](https://news.ycombinator.com/item?id=44203494) \| 🗓️ 2025-06-06
 
 
 <br />
-美国桑迪亚国家实验室与德国SpiNNcloud公司合作，启动了名为SpiNNaker 2的**无存储**类脑超级计算机。该系统未使用GPU或内部存储，核心由152个内核和专用加速器组成。当前部署的24板系统拥有17.5万核心，最高可扩展至1050万核心，能模拟**1.5-1.8亿神经元**。其架构通过高速芯片间通信及海量SRAM/DRAM实现数据实时处理，摒弃了集中存储需求，能效远超GPU系统。该项目由美国国家核安全局资助，旨在探索神经形态计算在核威慑任务中的应用潜力，尤其适用于**国家安全领域**的复杂实时计算与模拟。
+文章批判性指出，过度依赖第三方SaaS服务（如认证、队列、存储）虽号称节省开发精力，实则带来多重隐性成本，本质仍是**供应商锁定**。作者归纳了五个主要“税”：研究选型费时费力（发现税）、注册与定价陷阱（注册税）、集成文档与实际脱节（集成税）、本地开发与测试困难（本地开发税）、生产环境运维复杂性（生产税）。这些成本远超金钱，消耗时间并增加心智负担。
+
+作者认为，与其分散采用多个SaaS并反复支付这些税，不如选择单一**集成平台**（如Cloudflare或Supabase）。这类平台统一提供数据库、队列、存储等服务，语言一致，消除供应商切换、密钥管理、配置分支等问题，实现无缝的本地与生产环境一致性。最终，它能将开发者从繁琐整合中解放，重获专注开发的“心流”状态。
 
 ---
 
-## <a name="14"></a>14. OpenAI无限期保留用户聊天记录引发隐私担忧 
+## <a name="15"></a>15. 一年赞助推动下的FreeBSD开发 
+<small>🔗 [daemonology.net](https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html): A year of funded FreeBSD development</small>
+
+
+| 🔥🔥: 118 \| 💬: [29](https://news.ycombinator.com/item?id=44204224) \| 🗓️ 2025-06-06
+
+
+<br />
+作者自2010年起维护FreeBSD在亚马逊EC2平台的运行，2023年11月接任**发布工程**负责人后，因工作量超负荷难以兼顾EC2优化。2024年4月，亚马逊通过GitHub Sponsors提供一年资助，支持其同时进行发布工程与EC2开发。资助期间，作者主导完成了FreeBSD 13.4/14.2/13.5/14.3四个版本发布，单次发布最高耗时79小时。
+
+EC2开发聚焦两项核心任务：  
+1. 为AWS Graviton实例实现电源驱动，解决关机信号响应问题（通过ACPI_Q_AEI_NOPULL规避固件缺陷）；  
+2. 攻克设备**热插拔功能**，修复多实例类型的IRQ泄漏、PCIe卸载崩溃及"幽灵设备"等问题，引入ACPI_Q_DELAY_BEFORE_EJECT_RESCAN等补丁并开发自动化测试脚本。
+
+同时显著优化启动性能：分析历史数据发现磁盘扩容导致的延迟，将根磁盘增至8GB恢复速度；修复Graviton 2熵种子机制，重构EFI熵收集代码使启动时间从25秒降至8秒；协同解决ZFS镜像启动延迟问题。通过持续监控**启动性能优化**，及时发现并修复了IMDSv2工具的IPv6兼容性故障。
+
+---
+
+## <a name="16"></a>16. 互动式速率限制指南 
+<small>🔗 [blog.sagyamthapa.com.np](https://blog.sagyamthapa.com.np/interactive-guide-to-rate-limiting): An Interactive Guide to Rate Limiting</small>
+
+
+| 🔥🔥: 115 \| 💬: [34](https://news.ycombinator.com/item?id=44201583) \| 🗓️ 2025-06-06
+
+
+<br />
+本文介绍了四种常用**速率限制算法**的核心机制与应用价值。速率限制可防止资源滥用、降低服务器成本并抵御DDoS攻击。**令牌桶算法**通过固定速率补充令牌，允许突发请求消耗可用令牌；**漏桶算法**以恒定速率处理请求，溢出则丢弃新请求；**固定窗口计数器**按时间窗统计请求数，简单高效但存在窗口边界突发流量问题；**滑动窗口计数器**则通过时间戳日志动态检测近期请求量。作者为每种**算法**开发了**交互式应用**供读者实践操作。
+
+（字数：189）
+
+---
+
+## <a name="17"></a>17. OpenAI无限期保留用户聊天记录引发隐私担忧 
 <small>🔗 [arstechnica.com](https://arstechnica.com/tech-policy/2025/06/openai-confronts-user-panic-over-court-ordered-retention-of-chatgpt-logs/): OpenAI is retaining all ChatGPT logs "indefinitely." Here's who's affected</small>
 
 
@@ -236,35 +282,21 @@ OpenAI正上诉挑战此命令，称其被迫违反隐私条款，并担忧可�
 
 ---
 
-## <a name="15"></a>15. 互动式速率限制指南 
-<small>🔗 [blog.sagyamthapa.com.np](https://blog.sagyamthapa.com.np/interactive-guide-to-rate-limiting): An Interactive Guide to Rate Limiting</small>
+## <a name="18"></a>18. 法国法院下令VPN屏蔽盗版体育IPTV服务 
+<small>🔗 [torrentfreak.com](https://torrentfreak.com/major-vpn-providers-ordered-to-block-pirate-sports-streaming-sites-250516/): VPN providers in France ordered to block pirate sports IPTV</small>
 
 
-| 🔥🔥: 106 \| 💬: [32](https://news.ycombinator.com/item?id=44201583) \| 🗓️ 2025-06-06
-
-
-<br />
-本文介绍了四种常用**速率限制算法**的核心机制与应用价值。速率限制可防止资源滥用、降低服务器成本并抵御DDoS攻击。**令牌桶算法**通过固定速率补充令牌，允许突发请求消耗可用令牌；**漏桶算法**以恒定速率处理请求，溢出则丢弃新请求；**固定窗口计数器**按时间窗统计请求数，简单高效但存在窗口边界突发流量问题；**滑动窗口计数器**则通过时间戳日志动态检测近期请求量。作者为每种**算法**开发了**交互式应用**供读者实践操作。
-
-（字数：189）
-
----
-
-## <a name="16"></a>16. SaaS不过是品牌包装下的供应商锁定 
-<small>🔗 [rwsdk.com](https://rwsdk.com/blog/saas-is-just-vendor-lock-in-with-better-branding): SaaS is just vendor lock-in with better branding</small>
-
-
-| 🔥🔥: 106 \| 💬: [61](https://news.ycombinator.com/item?id=44203494) \| 🗓️ 2025-06-06
+| 🔥🔥: 105 \| 💬: [83](https://news.ycombinator.com/item?id=44201857) \| 🗓️ 2025-06-06
 
 
 <br />
-文章批判性指出，过度依赖第三方SaaS服务（如认证、队列、存储）虽号称节省开发精力，实则带来多重隐性成本，本质仍是**供应商锁定**。作者归纳了五个主要“税”：研究选型费时费力（发现税）、注册与定价陷阱（注册税）、集成文档与实际脱节（集成税）、本地开发与测试困难（本地开发税）、生产环境运维复杂性（生产税）。这些成本远超金钱，消耗时间并增加心智负担。
+法国《体育法典》第L.333-10条赋予版权方在证明其权利遭受"严重且反复"侵害时，可要求屏蔽盗版网站。基于此，巴黎法院近期裁定**NordVPN、CyberGhost、ProtonVPN、ExpressVPN和Surfshark**等主要VPN服务商必须配合执行屏蔽令。这些VPN公司曾以法律不适用、管辖权及技术可行性等理由提出反对，但**法院驳回了所有抗辩**，认定VPN属于《数字服务法》定义的"技术中介"，有能力阻止用户通过其服务访问非法流媒体。  
 
-作者认为，与其分散采用多个SaaS并反复支付这些税，不如选择单一**集成平台**（如Cloudflare或Supabase）。这类平台统一提供数据库、队列、存储等服务，语言一致，消除供应商切换、密钥管理、配置分支等问题，实现无缝的本地与生产环境一致性。最终，它能将开发者从繁琐整合中解放，重获专注开发的“心流”状态。
+法院要求涉事VPN商在收到通知后三日内实施有效技术措施（如屏蔽指定域名），阻止法国境内用户访问Canal+等权利方列出的盗版体育直播网站和IPTV服务，直至2024/2025赛季英超结束。**屏蔽令效力覆盖法国本土及海外领土**，相关成本由各方分担。法院强调无需VPN商逐站验证侵权，且驳回了要求其首页公告裁决的请求。此次裁决被视为全球反盗版进程的重要突破。
 
 ---
 
-## <a name="17"></a>17. 微小程序与语言的魅力 
+## <a name="19"></a>19. 微小程序与语言的魅力 
 <small>🔗 [ratfactor.com](https://ratfactor.com/cards/pl-small): Small Programs and Languages</small>
 
 
@@ -279,25 +311,11 @@ OpenAI正上诉挑战此命令，称其被迫违反隐私条款，并担忧可�
 
 ---
 
-## <a name="18"></a>18. 法国法院下令VPN屏蔽盗版体育IPTV服务 
-<small>🔗 [torrentfreak.com](https://torrentfreak.com/major-vpn-providers-ordered-to-block-pirate-sports-streaming-sites-250516/): VPN providers in France ordered to block pirate sports IPTV</small>
-
-
-| 🔥🔥: 103 \| 💬: [80](https://news.ycombinator.com/item?id=44201857) \| 🗓️ 2025-06-06
-
-
-<br />
-法国《体育法典》第L.333-10条赋予版权方在证明其权利遭受"严重且反复"侵害时，可要求屏蔽盗版网站。基于此，巴黎法院近期裁定**NordVPN、CyberGhost、ProtonVPN、ExpressVPN和Surfshark**等主要VPN服务商必须配合执行屏蔽令。这些VPN公司曾以法律不适用、管辖权及技术可行性等理由提出反对，但**法院驳回了所有抗辩**，认定VPN属于《数字服务法》定义的"技术中介"，有能力阻止用户通过其服务访问非法流媒体。  
-
-法院要求涉事VPN商在收到通知后三日内实施有效技术措施（如屏蔽指定域名），阻止法国境内用户访问Canal+等权利方列出的盗版体育直播网站和IPTV服务，直至2024/2025赛季英超结束。**屏蔽令效力覆盖法国本土及海外领土**，相关成本由各方分担。法院强调无需VPN商逐站验证侵权，且驳回了要求其首页公告裁决的请求。此次裁决被视为全球反盗版进程的重要突破。
-
----
-
-## <a name="19"></a>19. 核爆电磁脉冲武器的破坏力与防护 
+## <a name="20"></a>20. 核爆电磁脉冲武器的破坏力与防护 
 <small>🔗 [aardvark.co.nz](https://www.aardvark.co.nz/daily/2025/0606.shtml): What you need to know about EMP weapons</small>
 
 
-| 🔥: 92 \| 💬: [120](https://news.ycombinator.com/item?id=44199649) \| 🗓️ 2025-06-06
+| 🔥: 95 \| 💬: [127](https://news.ycombinator.com/item?id=44199649) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -307,23 +325,23 @@ OpenAI正上诉挑战此命令，称其被迫违反隐私条款，并担忧可�
 
 ---
 
-## <a name="20"></a>20. 贝尔实验室为何如此成功 
-<small>🔗 [1517.substack.com](https://1517.substack.com/p/why-bell-labs-worked): Why Bell Labs Worked</small>
+## <a name="21"></a>21. 在线体育博彩：赢钱就被封号 
+<small>🔗 [doc.searls.com](https://doc.searls.com/2025/05/21/online-sports-betting-is-for-losers/): Online sports betting: As you do well, they cut you off</small>
 
 
-| 🔥: 85 \| 💬: [51](https://news.ycombinator.com/item?id=44201829) \| 🗓️ 2025-06-06
+| 🔥: 87 \| 💬: [80](https://news.ycombinator.com/item?id=44204603) \| 🗓️ 2025-06-06
 
 
 <br />
-贝尔实验室的辉煌源于独特的创新模式。其前身由发明家贝尔创立，后由**根本自由与自主权**理念的默文·凯利领导。凯利凭借**卓越品味**招募顶尖人才（如香农、巴丁），赋予他们长期探索的自由，避免微观管理。实验室营造跨学科协作环境，鼓励日常交流与思想碰撞，形成高浓度**研究者社群**。二战后延续此模式，诞生晶体管等划时代成果。现代科研受指标文化束缚，学者疲于申请经费，丧失了贝尔实验室的核心优势——给予天才充分信任与探索空间。其成功公式在于：精选自驱人才，提供资源与自由，构建激发创造力的生态环境。
+文章揭露在线体育博彩行业的本质：**赢钱就被封号**。作者以拉斯维加斯赌场由输家买单作类比，指出体育博彩公司通过算法精准识别并限制持续盈利的玩家（“聪明钱”），却对它们助长的**问题赌徒**（尤其是易受诱惑的年轻人）疏于管理。业内辩解称限制赢家是为保护利润并吸引“休闲玩家”（实为持续输钱者）。作者预言，未来社会看待普遍化的体育博彩，将如同今日看待吸烟和酒驾——终将后悔。核心逻辑是：**庄家稳赚**，只容输家。
 
 ---
 
-## <a name="21"></a>21. 解决Rust测试中的"文件打开过多"错误 
+## <a name="22"></a>22. 解决Rust测试中的"文件打开过多"错误 
 <small>🔗 [mattrighetti.com](https://mattrighetti.com/2025/06/04/too-many-files-open): Too Many Open Files</small>
 
 
-| 🔥: 81 \| 💬: [63](https://news.ycombinator.com/item?id=44201762) \| 🗓️ 2025-06-06
+| 🔥: 86 \| 💬: [66](https://news.ycombinator.com/item?id=44201762) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -336,29 +354,23 @@ OpenAI正上诉挑战此命令，称其被迫违反隐私条款，并担忧可�
 
 ---
 
-## <a name="22"></a>22. 一年赞助推动下的FreeBSD开发 
-<small>🔗 [daemonology.net](https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html): A year of funded FreeBSD development</small>
+## <a name="23"></a>23. 贝尔实验室为何如此成功 
+<small>🔗 [1517.substack.com](https://1517.substack.com/p/why-bell-labs-worked): Why Bell Labs Worked</small>
 
 
-| 🔥: 80 \| 💬: [10](https://news.ycombinator.com/item?id=44204224) \| 🗓️ 2025-06-06
+| 🔥: 85 \| 💬: [51](https://news.ycombinator.com/item?id=44201829) \| 🗓️ 2025-06-06
 
 
 <br />
-作者自2010年起维护FreeBSD在亚马逊EC2平台的运行，2023年11月接任**发布工程**负责人后，因工作量超负荷难以兼顾EC2优化。2024年4月，亚马逊通过GitHub Sponsors提供一年资助，支持其同时进行发布工程与EC2开发。资助期间，作者主导完成了FreeBSD 13.4/14.2/13.5/14.3四个版本发布，单次发布最高耗时79小时。
-
-EC2开发聚焦两项核心任务：  
-1. 为AWS Graviton实例实现电源驱动，解决关机信号响应问题（通过ACPI_Q_AEI_NOPULL规避固件缺陷）；  
-2. 攻克设备**热插拔功能**，修复多实例类型的IRQ泄漏、PCIe卸载崩溃及"幽灵设备"等问题，引入ACPI_Q_DELAY_BEFORE_EJECT_RESCAN等补丁并开发自动化测试脚本。
-
-同时显著优化启动性能：分析历史数据发现磁盘扩容导致的延迟，将根磁盘增至8GB恢复速度；修复Graviton 2熵种子机制，重构EFI熵收集代码使启动时间从25秒降至8秒；协同解决ZFS镜像启动延迟问题。通过持续监控**启动性能优化**，及时发现并修复了IMDSv2工具的IPv6兼容性故障。
+贝尔实验室的辉煌源于独特的创新模式。其前身由发明家贝尔创立，后由**根本自由与自主权**理念的默文·凯利领导。凯利凭借**卓越品味**招募顶尖人才（如香农、巴丁），赋予他们长期探索的自由，避免微观管理。实验室营造跨学科协作环境，鼓励日常交流与思想碰撞，形成高浓度**研究者社群**。二战后延续此模式，诞生晶体管等划时代成果。现代科研受指标文化束缚，学者疲于申请经费，丧失了贝尔实验室的核心优势——给予天才充分信任与探索空间。其成功公式在于：精选自驱人才，提供资源与自由，构建激发创造力的生态环境。
 
 ---
 
-## <a name="23"></a>23. 优化Shell历史记录的智慧 
+## <a name="24"></a>24. 优化Shell历史记录的智慧 
 <small>🔗 [esham.io](https://esham.io/2025/05/shell-history): Curate your shell history</small>
 
 
-| 🔥: 78 \| 💬: [53](https://news.ycombinator.com/item?id=44200870) \| 🗓️ 2025-06-06
+| 🔥: 83 \| 💬: [58](https://news.ycombinator.com/item?id=44200870) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -368,11 +380,11 @@ EC2开发聚焦两项核心任务：
 
 ---
 
-## <a name="24"></a>24. Swift 与 Cute 2D 游戏框架：CMake 项目搭建指南 
+## <a name="25"></a>25. Swift 与 Cute 2D 游戏框架：CMake 项目搭建指南 
 <small>🔗 [layer22.com](https://layer22.com/swift-and-cute-framework-setting-up-a-project-with-cmake): Swift and the Cute 2d game framework: Setting up a project with CMake</small>
 
 
-| 🔥: 75 \| 💬: [71](https://news.ycombinator.com/item?id=44199699) \| 🗓️ 2025-06-06
+| 🔥: 76 \| 💬: [73](https://news.ycombinator.com/item?id=44199699) \| 🗓️ 2025-06-06
 
 
 <br />
