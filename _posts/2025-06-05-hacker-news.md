@@ -27,7 +27,7 @@ tags:
 <small>🔗 [puri.sm](https://puri.sm/posts/google-restricts-android-sideloading-what-it-means-for-user-autonomy-and-the-future-of-mobile-freedom/): Google restricts Android sideloading</small>
 
 
-| 🔥🔥: 392 \| 💬: [275](https://news.ycombinator.com/item?id=44193198) \| 🗓️ 2025-06-05
+| 🔥🔥: 393 \| 💬: [280](https://news.ycombinator.com/item?id=44193198) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -43,7 +43,7 @@ tags:
 <small>🔗 [crookedtimber.org](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/): The impossible predicament of the death newts</small>
 
 
-| 🔥🔥: 368 \| 💬: [121](https://news.ycombinator.com/item?id=44191620) \| 🗓️ 2025-06-05
+| 🔥🔥: 376 \| 💬: [124](https://news.ycombinator.com/item?id=44191620) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -64,7 +64,7 @@ tags:
 <small>🔗 [deepmind.google](https://deepmind.google/models/gemini/pro/): Gemini-2.5-pro-preview-06-05</small>
 
 
-| 🔥🔥: 289 \| 💬: [173](https://news.ycombinator.com/item?id=44193328) \| 🗓️ 2025-06-05
+| 🔥🔥: 302 \| 💬: [182](https://news.ycombinator.com/item?id=44193328) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -76,7 +76,7 @@ Google 发布其最先进模型 Gemini 2.5 Pro 预览版 (06-05)，专为**编�
 <small>🔗 [daringfireball.net](https://daringfireball.net/linked/2025/06/04/apple-notes-markdown): Apple Notes Will Gain Markdown Export at WWDC, and, I Have Thoughts</small>
 
 
-| 🔥🔥: 232 \| 💬: [140](https://news.ycombinator.com/item?id=44191558) \| 🗓️ 2025-06-05
+| 🔥🔥: 251 \| 💬: [148](https://news.ycombinator.com/item?id=44191558) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -90,7 +90,7 @@ Google 发布其最先进模型 Gemini 2.5 Pro 预览版 (06-05)，专为**编�
 <small>🔗 [mjg59.dreamwidth.org](https://mjg59.dreamwidth.org/71646.html): Twitter's new encrypted DMs aren't better than the old ones</small>
 
 
-| 🔥🔥: 175 \| 💬: [167](https://news.ycombinator.com/item?id=44191591) \| 🗓️ 2025-06-05
+| 🔥🔥: 183 \| 💬: [172](https://news.ycombinator.com/item?id=44191591) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -98,23 +98,11 @@ Google 发布其最先进模型 Gemini 2.5 Pro 预览版 (06-05)，专为**编�
 
 ---
 
-## <a name="6"></a>6. 暂别生成式AI的思考 
-<small>🔗 [blog.glyph.im](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html): I think I'm done thinking about GenAI for now</small>
-
-
-| 🔥🔥: 136 \| 💬: [86](https://news.ycombinator.com/item?id=44193018) \| 🗓️ 2025-06-05
-
-
-<br />
-作者自比《神探阿蒙》中神经质、易被琐碎矛盾困扰的侦探，而非福尔摩斯式的逻辑天才。他通常通过深度思考解决认知冲突，但面对**生成式AI**却深感无力。他认为当前相关讨论充满无效争论，尤其批评“反反AI”文章回避核心问题（如气候影响、虚假信息）。他承认自身对AI的**美学特质**（尤其是其混乱的创作过程）存在强烈负面偏见，并以编程为例：AI辅助编码冗长低效，需反复纠错且无法真正理解反馈，消耗心力。他虽预感AI技术可能崩溃，但更担忧其模糊性会长期误导决策层。最终，他决定停止参与争论，并呼吁同样疲惫者**退出讨论**以自我保护。
-
----
-
-## <a name="7"></a>7. 开源 ClickStack：基于 ClickHouse 和 HyperDX 的 Datadog 替代方案 
+## <a name="6"></a>6. 开源 ClickStack：基于 ClickHouse 和 HyperDX 的 Datadog 替代方案 
 <small>🔗 [github.com](https://github.com/hyperdxio/hyperdx): Show HN: ClickStack – Open-source Datadog alternative by ClickHouse and HyperDX</small>
 
 
-| 🔥🔥: 136 \| 💬: [24](https://news.ycombinator.com/item?id=44194082) \| 🗓️ 2025-06-05
+| 🔥🔥: 153 \| 💬: [34](https://news.ycombinator.com/item?id=44194082) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -122,11 +110,23 @@ ClickStack 是基于高性能数据库 **ClickHouse** 的开源可观测性解�
 
 ---
 
+## <a name="7"></a>7. 暂别生成式AI的思考 
+<small>🔗 [blog.glyph.im](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html): I think I'm done thinking about GenAI for now</small>
+
+
+| 🔥🔥: 139 \| 💬: [93](https://news.ycombinator.com/item?id=44193018) \| 🗓️ 2025-06-05
+
+
+<br />
+作者自比《神探阿蒙》中神经质、易被琐碎矛盾困扰的侦探，而非福尔摩斯式的逻辑天才。他通常通过深度思考解决认知冲突，但面对**生成式AI**却深感无力。他认为当前相关讨论充满无效争论，尤其批评“反反AI”文章回避核心问题（如气候影响、虚假信息）。他承认自身对AI的**美学特质**（尤其是其混乱的创作过程）存在强烈负面偏见，并以编程为例：AI辅助编码冗长低效，需反复纠错且无法真正理解反馈，消耗心力。他虽预感AI技术可能崩溃，但更担忧其模糊性会长期误导决策层。最终，他决定停止参与争论，并呼吁同样疲惫者**退出讨论**以自我保护。
+
+---
+
 ## <a name="8"></a>8. 十一实验室v3震撼发布 
 <small>🔗 [elevenlabs.io](https://elevenlabs.io/v3): Eleven v3</small>
 
 
-| 🔥🔥: 115 \| 💬: [73](https://news.ycombinator.com/item?id=44194521) \| 🗓️ 2025-06-05
+| 🔥🔥: 135 \| 💬: [79](https://news.ycombinator.com/item?id=44194521) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -138,7 +138,7 @@ ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其�
 <small>🔗 [defector.com](https://defector.com/seven-days-at-the-bin-store): Seven Days at the Bin Store</small>
 
 
-| 🔥🔥: 114 \| 💬: [49](https://news.ycombinator.com/item?id=44192995) \| 🗓️ 2025-06-05
+| 🔥🔥: 128 \| 💬: [60](https://news.ycombinator.com/item?id=44192995) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -150,7 +150,19 @@ ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其�
 
 ---
 
-## <a name="10"></a>10. 十年押注 Rust：回顾与展望 
+## <a name="10"></a>10. 拉布拉多海岸惊现罕见黑色冰山，或存世十万年 
+<small>🔗 [cbc.ca](https://www.cbc.ca/news/canada/newfoundland-labrador/black-iceberg-labrador-coast-1.7551078): Rare black iceberg spotted off Labrador coast could be 100k years old</small>
+
+
+| 🔥🔥: 113 \| 💬: [46](https://news.ycombinator.com/item?id=44193120) \| 🗓️ 2025-06-05
+
+
+<br />
+加拿大纽芬兰省渔民哈勒尔·安东尼森在拉布拉多海岸捕虾时，意外发现一座**黑色**冰山并拍下照片。该照片在社交媒体引发热议。专家分析认为，这座形状独特的冰山可能极为古老。纪念大学物理海洋学教授列夫·塔拉索夫指出，其内部冰层可能因数万年积累的沉积物或古老**陨石撞击**残留物而呈现黑色，冰山年龄或高达**十万年历史**。冰山形成于格陵兰冰盖，经漫长漂流抵达拉布拉多海域，其底部沉积层揭示了远古地质活动痕迹。
+
+---
+
+## <a name="11"></a>11. 十年押注 Rust：回顾与展望 
 <small>🔗 [tably.com](https://tably.com/tably/10-years-of-betting-on-rust): 10 Years of Betting on Rust</small>
 
 
@@ -164,23 +176,11 @@ ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其�
 
 ---
 
-## <a name="11"></a>11. 拉布拉多海岸惊现罕见黑色冰山，或存世十万年 
-<small>🔗 [cbc.ca](https://www.cbc.ca/news/canada/newfoundland-labrador/black-iceberg-labrador-coast-1.7551078): Rare black iceberg spotted off Labrador coast could be 100k years old</small>
-
-
-| 🔥: 98 \| 💬: [43](https://news.ycombinator.com/item?id=44193120) \| 🗓️ 2025-06-05
-
-
-<br />
-加拿大纽芬兰省渔民哈勒尔·安东尼森在拉布拉多海岸捕虾时，意外发现一座**黑色**冰山并拍下照片。该照片在社交媒体引发热议。专家分析认为，这座形状独特的冰山可能极为古老。纪念大学物理海洋学教授列夫·塔拉索夫指出，其内部冰层可能因数万年积累的沉积物或古老**陨石撞击**残留物而呈现黑色，冰山年龄或高达**十万年历史**。冰山形成于格陵兰冰盖，经漫长漂流抵达拉布拉多海域，其底部沉积层揭示了远古地质活动痕迹。
-
----
-
 ## <a name="12"></a>12. Phptop：轻量级PHP性能监控工具 
 <small>🔗 [github.com](https://github.com/bearstech/phptop): Phptop: Simple PHP ressource profiler, safe and useful for production sites</small>
 
 
-| 🔥: 92 \| 💬: [13](https://news.ycombinator.com/item?id=44189741) \| 🗓️ 2025-06-05
+| 🔥: 95 \| 💬: [13](https://news.ycombinator.com/item?id=44189741) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -204,7 +204,7 @@ Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用
 <small>🔗 [nature.com](https://www.nature.com/articles/s42255-025-01297-8): Cysteine depletion triggers adipose tissue thermogenesis and weight loss</small>
 
 
-| 🔥: 81 \| 💬: [53](https://news.ycombinator.com/item?id=44193225) \| 🗓️ 2025-06-05
+| 🔥: 83 \| 💬: [53](https://news.ycombinator.com/item?id=44193225) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -218,7 +218,7 @@ Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用
 <small>🔗 [theguardian.com](https://www.theguardian.com/society/2025/jun/05/millions-in-west-do-not-know-they-have-aggressive-fatty-liver-disease-study-says): Millions in west don't know they have aggressive fatty liver disease, study says</small>
 
 
-| 🔥: 77 \| 💬: [85](https://news.ycombinator.com/item?id=44193970) \| 🗓️ 2025-06-05
+| 🔥: 78 \| 💬: [87](https://news.ycombinator.com/item?id=44193970) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -228,7 +228,21 @@ Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用
 
 ---
 
-## <a name="16"></a>16. 加拿大边境法案暗藏网络监控条款 
+## <a name="16"></a>16. Tokasaurus：专为高吞吐量任务设计的LLM推理引擎 
+<small>🔗 [scalingintelligence.stanford.edu](https://scalingintelligence.stanford.edu/blogs/tokasaurus/): Tokasaurus: An LLM Inference Engine for High-Throughput Workloads</small>
+
+
+| 🔥: 72 \| 💬: [6](https://news.ycombinator.com/item?id=44195961) \| 🗓️ 2025-06-05
+
+
+<br />
+斯坦福团队推出全新开源推理引擎 **Tokasaurus**，针对大规模批量推理场景优化，在吞吐量基准测试中性能较vLLM/SGLang提升最高达3倍。核心创新包括：对**小模型**采用动态Hydragen分组技术高效处理共享前缀，结合自适应CPU管理降低延迟；对**大模型**提供异步张量并行（NVLink GPU）与高效流水线并行（非NVLink GPU）方案。该引擎支持Llama-3/Qwen-2系列模型，纯Python编写便于二次开发，已开源并发布PyPI包。
+
+（注：摘要共218字符，加粗3个关键术语，标题独立加粗行，符合简体中文与字符数要求）
+
+---
+
+## <a name="17"></a>17. 加拿大边境法案暗藏网络监控条款 
 <small>🔗 [michaelgeist.ca](https://www.michaelgeist.ca/2025/06/privacy-at-risk-government-buries-lawful-access-provisions-in-new-border-bill/): Canadian Government Buries “Lawful Access” Provisions in New Border Bill</small>
 
 
@@ -247,11 +261,11 @@ Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用
 
 ---
 
-## <a name="17"></a>17. 理解PURL规范（软件包URL） 
+## <a name="18"></a>18. 理解PURL规范（软件包URL） 
 <small>🔗 [fossa.com](https://fossa.com/blog/understanding-purl-specification-package-url/): Understanding the PURL Specification (Package URL)</small>
 
 
-| 🔥: 63 \| 💬: [49](https://news.ycombinator.com/item?id=44192955) \| 🗓️ 2025-06-05
+| 🔥: 66 \| 💬: [50](https://news.ycombinator.com/item?id=44192955) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -259,7 +273,7 @@ Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用
 
 ---
 
-## <a name="18"></a>18. 错误追踪优先 
+## <a name="19"></a>19. 错误追踪优先 
 <small>🔗 [bugsink.com](https://www.bugsink.com/blog/track-errors-first/): Track Errors First</small>
 
 
@@ -271,7 +285,7 @@ Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用
 
 ---
 
-## <a name="19"></a>19. 无构建流程的Web应用实践 
+## <a name="20"></a>20. 无构建流程的Web应用实践 
 <small>🔗 [andregarzia.com](https://andregarzia.com/2025/06/experimenting-with-no-build-web-applications.html): Experimenting with no-build Web Applications</small>
 
 
@@ -283,11 +297,11 @@ Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用
 
 ---
 
-## <a name="20"></a>20. X修改条款，禁止利用平台内容训练AI模型 
+## <a name="21"></a>21. X修改条款，禁止利用平台内容训练AI模型 
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/): X changes its terms to bar training of AI models using its content</small>
 
 
-| 🔥: 48 \| 💬: [62](https://news.ycombinator.com/item?id=44193390) \| 🗓️ 2025-06-05
+| 🔥: 50 \| 💬: [62](https://news.ycombinator.com/item?id=44193390) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -295,25 +309,11 @@ Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用
 
 ---
 
-## <a name="21"></a>21. Tokasaurus：专为高吞吐量任务设计的LLM推理引擎 
-<small>🔗 [scalingintelligence.stanford.edu](https://scalingintelligence.stanford.edu/blogs/tokasaurus/): Tokasaurus: An LLM Inference Engine for High-Throughput Workloads</small>
-
-
-| 🔥: 48 \| 💬: [5](https://news.ycombinator.com/item?id=44195961) \| 🗓️ 2025-06-05
-
-
-<br />
-斯坦福团队推出全新开源推理引擎 **Tokasaurus**，针对大规模批量推理场景优化，在吞吐量基准测试中性能较vLLM/SGLang提升最高达3倍。核心创新包括：对**小模型**采用动态Hydragen分组技术高效处理共享前缀，结合自适应CPU管理降低延迟；对**大模型**提供异步张量并行（NVLink GPU）与高效流水线并行（非NVLink GPU）方案。该引擎支持Llama-3/Qwen-2系列模型，纯Python编写便于二次开发，已开源并发布PyPI包。
-
-（注：摘要共218字符，加粗3个关键术语，标题独立加粗行，符合简体中文与字符数要求）
-
----
-
 ## <a name="22"></a>22. 神经形态计算：下一代高效能AI 
 <small>🔗 [lanl.gov](https://www.lanl.gov/media/publications/1663/1269-neuromorphic-computing): Neuromorphic computing</small>
 
 
-| 🔥: 47 \| 💬: [35](https://news.ycombinator.com/item?id=44194469) \| 🗓️ 2025-06-05
+| 🔥: 49 \| 💬: [36](https://news.ycombinator.com/item?id=44194469) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -330,7 +330,7 @@ Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用
 <small>🔗 [anthropic.com](https://www.anthropic.com/news/claude-gov-models-for-u-s-national-security-customers): Claude Gov Models for U.S. National Security Customers</small>
 
 
-| 🔥: 41 \| 💬: [4](https://news.ycombinator.com/item?id=44191634) \| 🗓️ 2025-06-05
+| 🔥: 42 \| 💬: [4](https://news.ycombinator.com/item?id=44191634) \| 🗓️ 2025-06-05
 
 
 <br />
