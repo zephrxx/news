@@ -27,7 +27,7 @@ tags:
 <small>🔗 [crookedtimber.org](https://crookedtimber.org/2025/06/05/occasional-paper-the-impossible-predicament-of-the-death-newts/): The impossible predicament of the death newts</small>
 
 
-| 🔥🔥: 403 \| 💬: [143](https://news.ycombinator.com/item?id=44191620) \| 🗓️ 2025-06-05
+| 🔥🔥: 414 \| 💬: [144](https://news.ycombinator.com/item?id=44191620) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -48,7 +48,7 @@ tags:
 <small>🔗 [puri.sm](https://puri.sm/posts/google-restricts-android-sideloading-what-it-means-for-user-autonomy-and-the-future-of-mobile-freedom/): Google restricts Android sideloading</small>
 
 
-| 🔥🔥: 400 \| 💬: [285](https://news.ycombinator.com/item?id=44193198) \| 🗓️ 2025-06-05
+| 🔥🔥: 402 \| 💬: [286](https://news.ycombinator.com/item?id=44193198) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -64,7 +64,7 @@ tags:
 <small>🔗 [deepmind.google](https://deepmind.google/models/gemini/pro/): Gemini-2.5-pro-preview-06-05</small>
 
 
-| 🔥🔥: 311 \| 💬: [192](https://news.ycombinator.com/item?id=44193328) \| 🗓️ 2025-06-05
+| 🔥🔥: 314 \| 💬: [195](https://news.ycombinator.com/item?id=44193328) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -76,7 +76,7 @@ Google 发布其最先进模型 Gemini 2.5 Pro 预览版 (06-05)，专为**编�
 <small>🔗 [daringfireball.net](https://daringfireball.net/linked/2025/06/04/apple-notes-markdown): Apple Notes Will Gain Markdown Export at WWDC, and, I Have Thoughts</small>
 
 
-| 🔥🔥: 279 \| 💬: [156](https://news.ycombinator.com/item?id=44191558) \| 🗓️ 2025-06-05
+| 🔥🔥: 290 \| 💬: [162](https://news.ycombinator.com/item?id=44191558) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -90,7 +90,7 @@ Google 发布其最先进模型 Gemini 2.5 Pro 预览版 (06-05)，专为**编�
 <small>🔗 [mjg59.dreamwidth.org](https://mjg59.dreamwidth.org/71646.html): Twitter's new encrypted DMs aren't better than the old ones</small>
 
 
-| 🔥🔥: 197 \| 💬: [185](https://news.ycombinator.com/item?id=44191591) \| 🗓️ 2025-06-05
+| 🔥🔥: 201 \| 💬: [186](https://news.ycombinator.com/item?id=44191591) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -102,7 +102,7 @@ Google 发布其最先进模型 Gemini 2.5 Pro 预览版 (06-05)，专为**编�
 <small>🔗 [github.com](https://github.com/hyperdxio/hyperdx): Show HN: ClickStack – Open-source Datadog alternative by ClickHouse and HyperDX</small>
 
 
-| 🔥🔥: 185 \| 💬: [40](https://news.ycombinator.com/item?id=44194082) \| 🗓️ 2025-06-05
+| 🔥🔥: 192 \| 💬: [42](https://news.ycombinator.com/item?id=44194082) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -114,7 +114,7 @@ ClickStack 是基于高性能数据库 **ClickHouse** 的开源可观测性解�
 <small>🔗 [elevenlabs.io](https://elevenlabs.io/v3): Eleven v3</small>
 
 
-| 🔥🔥: 181 \| 💬: [97](https://news.ycombinator.com/item?id=44194521) \| 🗓️ 2025-06-05
+| 🔥🔥: 189 \| 💬: [97](https://news.ycombinator.com/item?id=44194521) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -126,7 +126,7 @@ ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其�
 <small>🔗 [defector.com](https://defector.com/seven-days-at-the-bin-store): Seven Days at the Bin Store</small>
 
 
-| 🔥🔥: 144 \| 💬: [70](https://news.ycombinator.com/item?id=44192995) \| 🗓️ 2025-06-05
+| 🔥🔥: 152 \| 💬: [75](https://news.ycombinator.com/item?id=44192995) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -142,7 +142,7 @@ ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其�
 <small>🔗 [blog.glyph.im](https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html): I think I'm done thinking about GenAI for now</small>
 
 
-| 🔥🔥: 143 \| 💬: [102](https://news.ycombinator.com/item?id=44193018) \| 🗓️ 2025-06-05
+| 🔥🔥: 145 \| 💬: [104](https://news.ycombinator.com/item?id=44193018) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -154,7 +154,7 @@ ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其�
 <small>🔗 [cbc.ca](https://www.cbc.ca/news/canada/newfoundland-labrador/black-iceberg-labrador-coast-1.7551078): Rare black iceberg spotted off Labrador coast could be 100k years old</small>
 
 
-| 🔥🔥: 124 \| 💬: [61](https://news.ycombinator.com/item?id=44193120) \| 🗓️ 2025-06-05
+| 🔥🔥: 124 \| 💬: [62](https://news.ycombinator.com/item?id=44193120) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -166,7 +166,7 @@ ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其�
 <small>🔗 [scalingintelligence.stanford.edu](https://scalingintelligence.stanford.edu/blogs/tokasaurus/): Tokasaurus: An LLM Inference Engine for High-Throughput Workloads</small>
 
 
-| 🔥🔥: 114 \| 💬: [10](https://news.ycombinator.com/item?id=44195961) \| 🗓️ 2025-06-05
+| 🔥🔥: 122 \| 💬: [12](https://news.ycombinator.com/item?id=44195961) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -176,7 +176,26 @@ ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其�
 
 ---
 
-## <a name="12"></a>12. 十年押注 Rust：回顾与展望 
+## <a name="12"></a>12. 《遗忘人生却活得自在》 
+<small>🔗 [aethermug.com](https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine): I do not remember my life and it's fine</small>
+
+
+| 🔥🔥: 114 \| 💬: [84](https://news.ycombinator.com/item?id=44196576) \| 🗓️ 2025-06-05
+
+
+<br />
+作者Marco Giancotti阐述其因患**心盲症**（无法产生心理意象）及疑似**严重自传体记忆缺失**（SDAM）而丧失情景记忆能力的体验。他无法主动回忆具体生活事件（如求职时无法举例克服困难的经历，祖父去世后写不出共同回忆的细节），记忆如同"无标签的文件柜"。过去对他而言如同"陌生人的生平"，仅能以"过去进行时"概括重复事件。
+
+关键发现：  
+1. 障碍集中于情景记忆，语义记忆（事实知识）完好，甚至**空间记忆**异常敏锐（能精准绘制旧居地图），空间线索可触发事件回忆（"嗖效应"）。  
+2. 研究显示此差异源于记忆编码时的神经活动不同，但行为能力未受损，属不同记忆策略。  
+3. 作者强调此非残疾，日常功能无碍，主要影响在于情感层面——无法唤起怀旧情绪，但理性认知不受限。
+
+（字数：216）
+
+---
+
+## <a name="13"></a>13. 十年押注 Rust：回顾与展望 
 <small>🔗 [tably.com](https://tably.com/tably/10-years-of-betting-on-rust): 10 Years of Betting on Rust</small>
 
 
@@ -190,34 +209,15 @@ ElevenLabs推出**十一实验室v3（Alpha版）**文本转语音模型。其�
 
 ---
 
-## <a name="13"></a>13. Phptop：轻量级PHP性能监控工具 
+## <a name="14"></a>14. Phptop：轻量级PHP性能监控工具 
 <small>🔗 [github.com](https://github.com/bearstech/phptop): Phptop: Simple PHP ressource profiler, safe and useful for production sites</small>
 
 
-| 🔥: 96 \| 💬: [13](https://news.ycombinator.com/item?id=44189741) \| 🗓️ 2025-06-05
+| 🔥: 98 \| 💬: [13](https://news.ycombinator.com/item?id=44189741) \| 🗓️ 2025-06-05
 
 
 <br />
 Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用情况。其核心优势在于**安全适用于生产环境**，已通过多年实际部署验证。配置极其简便，仅需在php.ini中添加**单行配置**即可全局启用（支持PHP 5.2至8.2）。工具自动收集并汇总各URL请求的执行时间（包括挂钟时间、用户/系统CPU时间）、内存消耗（单次/峰值）及访问频次等关键指标，支持按需排序输出（如`phptop -s mem`）。数据收集周期灵活（默认为10分钟），资源开销极低，是优化PHP应用性能的实用利器。
-
----
-
-## <a name="14"></a>14. 《遗忘人生却活得自在》 
-<small>🔗 [aethermug.com](https://aethermug.com/posts/i-do-not-remember-my-life-and-it-s-fine): I do not remember my life and it's fine</small>
-
-
-| 🔥: 94 \| 💬: [74](https://news.ycombinator.com/item?id=44196576) \| 🗓️ 2025-06-05
-
-
-<br />
-作者Marco Giancotti阐述其因患**心盲症**（无法产生心理意象）及疑似**严重自传体记忆缺失**（SDAM）而丧失情景记忆能力的体验。他无法主动回忆具体生活事件（如求职时无法举例克服困难的经历，祖父去世后写不出共同回忆的细节），记忆如同"无标签的文件柜"。过去对他而言如同"陌生人的生平"，仅能以"过去进行时"概括重复事件。
-
-关键发现：  
-1. 障碍集中于情景记忆，语义记忆（事实知识）完好，甚至**空间记忆**异常敏锐（能精准绘制旧居地图），空间线索可触发事件回忆（"嗖效应"）。  
-2. 研究显示此差异源于记忆编码时的神经活动不同，但行为能力未受损，属不同记忆策略。  
-3. 作者强调此非残疾，日常功能无碍，主要影响在于情感层面——无法唤起怀旧情绪，但理性认知不受限。
-
-（字数：216）
 
 ---
 
@@ -237,7 +237,7 @@ Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用
 <small>🔗 [nature.com](https://www.nature.com/articles/s42255-025-01297-8): Cysteine depletion triggers adipose tissue thermogenesis and weight loss</small>
 
 
-| 🔥: 86 \| 💬: [57](https://news.ycombinator.com/item?id=44193225) \| 🗓️ 2025-06-05
+| 🔥: 87 \| 💬: [58](https://news.ycombinator.com/item?id=44193225) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -251,7 +251,7 @@ Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用
 <small>🔗 [theguardian.com](https://www.theguardian.com/society/2025/jun/05/millions-in-west-do-not-know-they-have-aggressive-fatty-liver-disease-study-says): Millions in west don't know they have aggressive fatty liver disease, study says</small>
 
 
-| 🔥: 81 \| 💬: [89](https://news.ycombinator.com/item?id=44193970) \| 🗓️ 2025-06-05
+| 🔥: 82 \| 💬: [90](https://news.ycombinator.com/item?id=44193970) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -265,7 +265,7 @@ Phptop 是一款**PHP资源分析器**，专门监控脚本的CPU和内存使用
 <small>🔗 [techcrunch.com](https://techcrunch.com/2025/06/05/anthropic-co-founder-on-cutting-access-to-windsurf-it-would-be-odd-for-us-to-sell-claude-to-openai/): Anthropic co-founder on cutting access to Windsurf</small>
 
 
-| 🔥: 71 \| 💬: [68](https://news.ycombinator.com/item?id=44196807) \| 🗓️ 2025-06-05
+| 🔥: 80 \| 💬: [77](https://news.ycombinator.com/item?id=44196807) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -273,11 +273,30 @@ Anthropic联合创始人Jared Kaplan表示，公司终止AI编程助手**Windsur
 
 ---
 
-## <a name="19"></a>19. ICANN域名注册商费用上调11% 
+## <a name="19"></a>19. Haskell 实现的 APL 解释器（2024） 
+<small>🔗 [scharenbroch.dev](https://scharenbroch.dev/projects/apl-interpreter/): APL Interpreter – An implementation of APL, written in Haskell (2024)</small>
+
+
+| 🔥: 72 \| 💬: [30](https://news.ycombinator.com/item?id=44195931) \| 🗓️ 2025-06-05
+
+
+<br />
+该项目是用 **Haskell** 编写的 **APL 解释器**。APL 是一种**数组编程语言**，其核心数据类型是多维数组，语法极度简洁（使用 Unicode 符号），但需全新的思维方式。作者最初为深入学习 APL 而选 Haskell，结果 Haskell 的学习曲线（如处理状态和性能）成为主要挑战。  
+
+解释器工作流程遵循标准步骤：词法分析 → 语法树解析（含上下文处理）→ 求值 → 输出。解析器是核心难点：  
+1. **初始版本** 基于上下文无关文法，定义 `MatchFn` 类型和组合函数（如 `matchAll`）实现类 BNF 的声明式解析。  
+2. **第二版** 因 APL 的**上下文相关语法**（依赖变量值）重构 `MatchFn`，将全局状态 `IdMap` 纳入参数。  
+3. **第三版** 引入**单子模式**（如 `>>=`）替代硬编码的链式函数（如 `chFst`），解决上下文传递问题并提升扩展性。  
+
+项目侧重学习价值，非替代成熟解释器，体现了函数式与数组编程的融合探索。
+
+---
+
+## <a name="20"></a>20. ICANN域名注册商费用上调11% 
 <small>🔗 [itp.cdn.icann.org](https://itp.cdn.icann.org/en/files/contracted-parties-communications/attn-planned-variable-accreditation-fee-adjustment-24oct24-en.pdf): ICANN fee price hike by 11% [pdf]</small>
 
 
-| 🔥: 69 \| 💬: [43](https://news.ycombinator.com/item?id=44194014) \| 🗓️ 2025-06-05
+| 🔥: 69 \| 💬: [45](https://news.ycombinator.com/item?id=44194014) \| 🗓️ 2025-06-05
 
 
 <br />
@@ -287,7 +306,33 @@ Anthropic联合创始人Jared Kaplan表示，公司终止AI编程助手**Windsur
 
 ---
 
-## <a name="20"></a>20. 加拿大边境法案暗藏网络监控条款 
+## <a name="21"></a>21. 天穹追踪：全新业余卫星追踪与SDR接收一体化软件 
+<small>🔗 [rtl-sdr.com](https://www.rtl-sdr.com/skyroof-new-ham-satellite-tracking-and-sdr-receiver-software/): SkyRoof: New Ham Satellite Tracking and SDR Receiver Software</small>
+
+
+| 🔥: 69 \| 💬: [5](https://news.ycombinator.com/item?id=44194859) \| 🗓️ 2025-06-05
+
+
+<br />
+VE3NEA新近发布了一款Windows软件"**SkyRoof**"。该软件集成了卫星追踪与SDR接收功能，支持RTL-SDR、Airspy及SDRplay设备。它专为业余无线电卫星设计，可提供所有业余卫星的详细信息、实时追踪及过境预测，并显示天空图与SDR瀑布图。接收端支持SSB/CW/FM解调，具备**多普勒频移自动补偿**功能，且能与支持hamlib的**天线旋转器**联动。Johnson's Techworld的YouTube频道已发布软件测试视频供参考。
+
+（字数：158）
+
+---
+
+## <a name="22"></a>22. Claude Composer：提升Claude Code自动化效率的CLI工具 
+<small>🔗 [github.com](https://github.com/possibilities/claude-composer): Show HN: Claude Composer</small>
+
+
+| 🔥: 69 \| 💬: [25](https://news.ycombinator.com/item?id=44196417) \| 🗓️ 2025-06-05
+
+
+<br />
+Claude Composer 是一个增强 Claude Code 功能的命令行工具，专注于优化自动化流程与用户体验。它通过 **规则集** 精细控制权限对话框的自动处理（如内置的 cautious/yolo/safe 模式），减少人工干预。支持 **工具集** 管理 Claude 的工具权限及 MCP 服务器配置，并通过系统通知实时反馈生命周期事件。安装后执行 `claude-composer cc-init` 初始化全局或项目级 YAML 配置文件，核心功能包括路径信任机制、自定义规则链叠加（`--ruleset`）及 **自动关闭对话框** 策略，显著提升开发效率。
+
+---
+
+## <a name="23"></a>23. 加拿大边境法案暗藏网络监控条款 
 <small>🔗 [michaelgeist.ca](https://www.michaelgeist.ca/2025/06/privacy-at-risk-government-buries-lawful-access-provisions-in-new-border-bill/): Canadian Government Buries “Lawful Access” Provisions in New Border Bill</small>
 
 
@@ -306,7 +351,7 @@ Anthropic联合创始人Jared Kaplan表示，公司终止AI编程助手**Windsur
 
 ---
 
-## <a name="21"></a>21. 理解PURL规范（软件包URL） 
+## <a name="24"></a>24. 理解PURL规范（软件包URL） 
 <small>🔗 [fossa.com](https://fossa.com/blog/understanding-purl-specification-package-url/): Understanding the PURL Specification (Package URL)</small>
 
 
@@ -318,59 +363,14 @@ Anthropic联合创始人Jared Kaplan表示，公司终止AI编程助手**Windsur
 
 ---
 
-## <a name="22"></a>22. Haskell 实现的 APL 解释器（2024） 
-<small>🔗 [scharenbroch.dev](https://scharenbroch.dev/projects/apl-interpreter/): APL Interpreter – An implementation of APL, written in Haskell (2024)</small>
+## <a name="25"></a>25. X修改条款，禁止利用平台内容训练AI模型 
+<small>🔗 [techcrunch.com](https://techcrunch.com/2025/06/05/x-changes-its-terms-to-bar-training-of-ai-models-using-its-content/): X changes its terms to bar training of AI models using its content</small>
 
 
-| 🔥: 67 \| 💬: [28](https://news.ycombinator.com/item?id=44195931) \| 🗓️ 2025-06-05
-
-
-<br />
-该项目是用 **Haskell** 编写的 **APL 解释器**。APL 是一种**数组编程语言**，其核心数据类型是多维数组，语法极度简洁（使用 Unicode 符号），但需全新的思维方式。作者最初为深入学习 APL 而选 Haskell，结果 Haskell 的学习曲线（如处理状态和性能）成为主要挑战。  
-
-解释器工作流程遵循标准步骤：词法分析 → 语法树解析（含上下文处理）→ 求值 → 输出。解析器是核心难点：  
-1. **初始版本** 基于上下文无关文法，定义 `MatchFn` 类型和组合函数（如 `matchAll`）实现类 BNF 的声明式解析。  
-2. **第二版** 因 APL 的**上下文相关语法**（依赖变量值）重构 `MatchFn`，将全局状态 `IdMap` 纳入参数。  
-3. **第三版** 引入**单子模式**（如 `>>=`）替代硬编码的链式函数（如 `chFst`），解决上下文传递问题并提升扩展性。  
-
-项目侧重学习价值，非替代成熟解释器，体现了函数式与数组编程的融合探索。
-
----
-
-## <a name="23"></a>23. 天穹追踪：全新业余卫星追踪与SDR接收一体化软件 
-<small>🔗 [rtl-sdr.com](https://www.rtl-sdr.com/skyroof-new-ham-satellite-tracking-and-sdr-receiver-software/): SkyRoof: New Ham Satellite Tracking and SDR Receiver Software</small>
-
-
-| 🔥: 63 \| 💬: [5](https://news.ycombinator.com/item?id=44194859) \| 🗓️ 2025-06-05
+| 🔥: 57 \| 💬: [64](https://news.ycombinator.com/item?id=44193390) \| 🗓️ 2025-06-05
 
 
 <br />
-VE3NEA新近发布了一款Windows软件"**SkyRoof**"。该软件集成了卫星追踪与SDR接收功能，支持RTL-SDR、Airspy及SDRplay设备。它专为业余无线电卫星设计，可提供所有业余卫星的详细信息、实时追踪及过境预测，并显示天空图与SDR瀑布图。接收端支持SSB/CW/FM解调，具备**多普勒频移自动补偿**功能，且能与支持hamlib的**天线旋转器**联动。Johnson's Techworld的YouTube频道已发布软件测试视频供参考。
-
-（字数：158）
-
----
-
-## <a name="24"></a>24. 错误追踪优先 
-<small>🔗 [bugsink.com](https://www.bugsink.com/blog/track-errors-first/): Track Errors First</small>
-
-
-| 🔥: 55 \| 💬: [42](https://news.ycombinator.com/item?id=44190643) \| 🗓️ 2025-06-05
-
-
-<br />
-传统的可观测性**三大支柱**（日志、指标、追踪）常忽略最关键信号：**错误追踪**。当代码抛出异常时，它直接揭示程序逻辑的失效点，比性能波动或流量峰值更具价值。错误事件提供精确的堆栈追踪、局部变量、请求数据和用户上下文，是**高价值信号**。现有平台常将错误抽象为普通日志或指标，丢失关键细节。构建可观测体系时，应优先确保错误被完整捕获和分析，而非淹没在庞杂的仪表盘中。作者主张将错误视为核心事件，而非标准化数据流中的普通条目。
-
----
-
-## <a name="25"></a>25. 无构建流程的Web应用实践 
-<small>🔗 [andregarzia.com](https://andregarzia.com/2025/06/experimenting-with-no-build-web-applications.html): Experimenting with no-build Web Applications</small>
-
-
-| 🔥: 52 \| 💬: [45](https://news.ycombinator.com/item?id=44190371) \| 🗓️ 2025-06-05
-
-
-<br />
-开发者重构了电子书生成工具**Little Webby Press**，核心目标是**消除构建步骤**，直接在**纯浏览器环境**中运行原生JavaScript。新版本摒弃了Svelte、Rollup等复杂工具链，改用Mithril框架、Pico CSS及原生文件处理逻辑。通过JSDelivr导入NodeJS模块并简化文件系统（使用键值对象存储内容），大幅提升了性能——生成电子书和网站的速度从数秒降至数百毫秒。应用部署极简，仅需托管仓库文件。开发者强调此举显著改善了开发体验与效率，未来将专注于无构建Web应用。
+社交平台X更新了开发者协议，**禁止第三方使用平台内容训练大语言模型**。新条款明确规定不得利用X API或内容来微调或训练基础模型及前沿模型。此调整紧随**xAI收购X**之后，旨在防止竞争对手免费获取数据。此前X曾允许利用公共数据训练AI，但政策反复。目前Reddit和The Browser Company旗下浏览器Dia也已采取**类似限制措施**，行业对AI数据抓取监管趋严。(223字符)
 
 ---
