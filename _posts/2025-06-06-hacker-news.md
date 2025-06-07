@@ -27,7 +27,7 @@ tags:
 <small>🔗 [mozillafoundation.org](https://www.mozillafoundation.org/en/campaigns/meta-shut-down-your-invasive-ai-discover-feed-now/): Meta: Shut down your invasive AI Discover feed</small>
 
 
-| 🔥🔥: 446 \| 💬: [189](https://news.ycombinator.com/item?id=44201872) \| 🗓️ 2025-06-06
+| 🔥🔥: 454 \| 💬: [192](https://news.ycombinator.com/item?id=44201872) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -41,7 +41,7 @@ Mozilla指控Meta正将用户的**私密AI聊天**悄然转化为**公开内容*
 <small>🔗 [about.gitlab.com](https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/): How we decreased GitLab repo backup times from 48 hours to 41 minutes</small>
 
 
-| 🔥🔥: 362 \| 💬: [146](https://news.ycombinator.com/item?id=44201975) \| 🗓️ 2025-06-06
+| 🔥🔥: 373 \| 💬: [149](https://news.ycombinator.com/item?id=44201975) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -53,7 +53,7 @@ GitLab团队通过优化核心Git功能，将大型仓库备份时间从48小时
 <small>🔗 [jepsen.io](https://jepsen.io/analyses/tigerbeetle-0.16.11): Jepsen: TigerBeetle 0.16.11</small>
 
 
-| 🔥🔥: 223 \| 💬: [70](https://news.ycombinator.com/item?id=44199592) \| 🗓️ 2025-06-06
+| 🔥🔥: 224 \| 💬: [72](https://news.ycombinator.com/item?id=44199592) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -69,7 +69,7 @@ TigerBeetle是一款专为**双入口会计**设计的OLTP数据库，强调安�
 <small>🔗 [wordsmith.social](https://wordsmith.social/elilla/deep-in-mordor-where-the-shadows-lie-dystopian-stories-of-my-time-as-a-googler): Dystopian tales of that time when I sold out to Google</small>
 
 
-| 🔥🔥: 215 \| 💬: [179](https://news.ycombinator.com/item?id=44200773) \| 🗓️ 2025-06-06
+| 🔥🔥: 217 \| 💬: [179](https://news.ycombinator.com/item?id=44200773) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -87,7 +87,7 @@ TigerBeetle是一款专为**双入口会计**设计的OLTP数据库，强调安�
 <small>🔗 [daemonology.net](https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html): A year of funded FreeBSD development</small>
 
 
-| 🔥🔥: 201 \| 💬: [72](https://news.ycombinator.com/item?id=44204224) \| 🗓️ 2025-06-06
+| 🔥🔥: 211 \| 💬: [75](https://news.ycombinator.com/item?id=44204224) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -101,11 +101,29 @@ EC2开发聚焦两项核心任务：
 
 ---
 
-## <a name="6"></a>6. Odyc.js：小型JavaScript叙事游戏开发库 
+## <a name="6"></a>6. 日本研发出可替代塑料的透明纸 
+<small>🔗 [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/): Researchers develop ‘transparent paper’ as alternative to plastics</small>
+
+
+| 🔥🔥: 197 \| 💬: [87](https://news.ycombinator.com/item?id=44205282) \| 🗓️ 2025-06-06
+
+
+<br />
+日本海洋研究开发机构（JAMSTEC）等团队利用植物生物质纤维素，成功开发出厚型**透明纸**。这种材料可被微生物分解为水和二氧化碳，且厚度足以制成容器，有望替代造成海洋污染的塑料。
+
+其制作过程涉及溶解棉籽表面纤维制成的纤维素粉末，经高温凝胶化后成型干燥。成品强度接近聚碳酸酯塑料，因纳米级纤维紧密排列而透光性优异——0.7毫米厚的薄片仍具柔韧性，可清晰透视百米外景物。
+
+关键优势在于**生物降解性**获深海验证：即使在757米深处，微生物也能在四个月内基本分解。相较传统纸包装无法展示内容物的缺点，透明纸提供了解决方案。尽管量产需专用工厂且成本约为普通纸的三倍，但其生产过程**碳排放量仅为塑料的一半**，凸显环保价值。
+
+（字数：218）
+
+---
+
+## <a name="7"></a>7. Odyc.js：小型JavaScript叙事游戏开发库 
 <small>🔗 [odyc.dev](https://odyc.dev): Odyc.js – A tiny JavaScript library for narrative games</small>
 
 
-| 🔥🔥: 189 \| 💬: [44](https://news.ycombinator.com/item?id=44200866) \| 🗓️ 2025-06-06
+| 🔥🔥: 196 \| 💬: [44](https://news.ycombinator.com/item?id=44200866) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -113,11 +131,30 @@ EC2开发聚焦两项核心任务：
 
 ---
 
-## <a name="7"></a>7. 研究人员突破性发现：让HIV在白细胞中"现形" 
+## <a name="8"></a>8. Web开发者的'自虐'指南：用C/C++移植应用到WebAssembly 
+<small>🔗 [sebastiano.tronto.net](https://sebastiano.tronto.net/blog/2025-06-06-webdev/): A masochist's guide to web development</small>
+
+
+| 🔥🔥: 190 \| 💬: [23](https://news.ycombinator.com/item?id=44200895) \| 🗓️ 2025-06-06
+
+
+<br />
+本文记录了作者将复杂的**Rubik's魔方求解器**（含多线程、SIMD等技术）通过**Emscripten**编译为**WebAssembly**的实战经验。针对C/C++开发者，指南从基础环境配置开始，演示如何将"Hello World"程序编译为可在浏览器运行的WASM模块，并剖析了WebAssembly的低级特性与内存限制（如32位架构的4GB内存上限）。  
+
+核心章节详细解析如何将C函数库（如乘法计算）暴露给JavaScript，需解决函数名修饰、异步初始化等问题。通过修改HTML模板与**DOM**交互，实现前端调用编译后的高性能库。进阶部分涵盖多线程实现（Web Workers）、回调函数设计及数据持久化存储，强调避免阻塞主线程的重要性。  
+
+作者坦言过程"复杂且令人沮丧"，但成功在浏览器中获得近原生性能，同时提供了代码仓库与调试技巧。指南明确面向追求极限性能的开发者，非传统Web开发教程。  
+
+---  
+（注：摘要严格遵循要求：中文字数约250字，标题加粗独立，关键术语加粗（WebAssembly/Emscripten/DOM），未出现"Show HN"及元信息提示词。）
+
+---
+
+## <a name="9"></a>9. 研究人员突破性发现：让HIV在白细胞中"现形" 
 <small>🔗 [theguardian.com](https://www.theguardian.com/global-development/2025/jun/05/breakthrough-in-search-for-hiv-cure-leaves-researchers-overwhelmed): Researchers find a way to make the HIV virus visible within white blood cells</small>
 
 
-| 🔥🔥: 189 \| 💬: [23](https://news.ycombinator.com/item?id=44202664) \| 🗓️ 2025-06-06
+| 🔥🔥: 190 \| 💬: [23](https://news.ycombinator.com/item?id=44202664) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -133,26 +170,7 @@ EC2开发聚焦两项核心任务：
 
 ---
 
-## <a name="8"></a>8. Web开发者的'自虐'指南：用C/C++移植应用到WebAssembly 
-<small>🔗 [sebastiano.tronto.net](https://sebastiano.tronto.net/blog/2025-06-06-webdev/): A masochist's guide to web development</small>
-
-
-| 🔥🔥: 187 \| 💬: [23](https://news.ycombinator.com/item?id=44200895) \| 🗓️ 2025-06-06
-
-
-<br />
-本文记录了作者将复杂的**Rubik's魔方求解器**（含多线程、SIMD等技术）通过**Emscripten**编译为**WebAssembly**的实战经验。针对C/C++开发者，指南从基础环境配置开始，演示如何将"Hello World"程序编译为可在浏览器运行的WASM模块，并剖析了WebAssembly的低级特性与内存限制（如32位架构的4GB内存上限）。  
-
-核心章节详细解析如何将C函数库（如乘法计算）暴露给JavaScript，需解决函数名修饰、异步初始化等问题。通过修改HTML模板与**DOM**交互，实现前端调用编译后的高性能库。进阶部分涵盖多线程实现（Web Workers）、回调函数设计及数据持久化存储，强调避免阻塞主线程的重要性。  
-
-作者坦言过程"复杂且令人沮丧"，但成功在浏览器中获得近原生性能，同时提供了代码仓库与调试技巧。指南明确面向追求极限性能的开发者，非传统Web开发教程。  
-
----  
-（注：摘要严格遵循要求：中文字数约250字，标题加粗独立，关键术语加粗（WebAssembly/Emscripten/DOM），未出现"Show HN"及元信息提示词。）
-
----
-
-## <a name="9"></a>9. 捷克政府门户网站用户满意度调查 
+## <a name="10"></a>10. 捷克政府门户网站用户满意度调查 
 <small>🔗 [portal.gov.cz](https://portal.gov.cz/e-petice/1205-petice-za-povinne-zverejneni-zdrojovych-kodu-softwaru-pouzitych-ve-verejne-sprave): Czech Republic: Petition for open source in public administration</small>
 
 
@@ -172,11 +190,11 @@ EC2开发聚焦两项核心任务：
 
 ---
 
-## <a name="10"></a>10. Infomaniak公开支持瑞士争议性加密法案 
+## <a name="11"></a>11. Infomaniak公开支持瑞士争议性加密法案 
 <small>🔗 [tomsguide.com](https://www.tomsguide.com/computing/vpns/infomaniak-breaks-rank-and-comes-out-in-support-of-controversial-swiss-encryption-law): Infomaniak comes out in support of controversial Swiss encryption law</small>
 
 
-| 🔥🔥: 183 \| 💬: [97](https://news.ycombinator.com/item?id=44199377) \| 🗓️ 2025-06-06
+| 🔥🔥: 183 \| 💬: [98](https://news.ycombinator.com/item?id=44199377) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -184,29 +202,11 @@ EC2开发聚焦两项核心任务：
 
 ---
 
-## <a name="11"></a>11. 日本研发出可替代塑料的透明纸 
-<small>🔗 [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/): Researchers develop ‘transparent paper’ as alternative to plastics</small>
-
-
-| 🔥🔥: 182 \| 💬: [75](https://news.ycombinator.com/item?id=44205282) \| 🗓️ 2025-06-06
-
-
-<br />
-日本海洋研究开发机构（JAMSTEC）等团队利用植物生物质纤维素，成功开发出厚型**透明纸**。这种材料可被微生物分解为水和二氧化碳，且厚度足以制成容器，有望替代造成海洋污染的塑料。
-
-其制作过程涉及溶解棉籽表面纤维制成的纤维素粉末，经高温凝胶化后成型干燥。成品强度接近聚碳酸酯塑料，因纳米级纤维紧密排列而透光性优异——0.7毫米厚的薄片仍具柔韧性，可清晰透视百米外景物。
-
-关键优势在于**生物降解性**获深海验证：即使在757米深处，微生物也能在四个月内基本分解。相较传统纸包装无法展示内容物的缺点，透明纸提供了解决方案。尽管量产需专用工厂且成本约为普通纸的三倍，但其生产过程**碳排放量仅为塑料的一半**，凸显环保价值。
-
-（字数：218）
-
----
-
 ## <a name="12"></a>12. SaaS不过是品牌包装下的供应商锁定 
 <small>🔗 [rwsdk.com](https://rwsdk.com/blog/saas-is-just-vendor-lock-in-with-better-branding): SaaS is just vendor lock-in with better branding</small>
 
 
-| 🔥🔥: 172 \| 💬: [95](https://news.ycombinator.com/item?id=44203494) \| 🗓️ 2025-06-06
+| 🔥🔥: 174 \| 💬: [97](https://news.ycombinator.com/item?id=44203494) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -220,7 +220,7 @@ EC2开发聚焦两项核心任务：
 <small>🔗 [blocksandfiles.com](https://blocksandfiles.com/2025/06/06/sandia-turns-on-brain-like-storage-free-supercomputer/): Sandia turns on brain-like storage-free supercomputer</small>
 
 
-| 🔥🔥: 163 \| 💬: [55](https://news.ycombinator.com/item?id=44201812) \| 🗓️ 2025-06-06
+| 🔥🔥: 164 \| 💬: [55](https://news.ycombinator.com/item?id=44201812) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -246,7 +246,7 @@ EC2开发聚焦两项核心任务：
 <small>🔗 [oregonlive.com](https://www.oregonlive.com/silicon-forest/2025/06/top-researchers-leave-intel-to-build-startup-with-the-biggest-baddest-cpu.html): Top researchers leave Intel to build startup with 'the biggest, baddest CPU'</small>
 
 
-| 🔥🔥: 141 \| 💬: [105](https://news.ycombinator.com/item?id=44201072) \| 🗓️ 2025-06-06
+| 🔥🔥: 143 \| 💬: [106](https://news.ycombinator.com/item?id=44201072) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -260,7 +260,7 @@ EC2开发聚焦两项核心任务：
 <small>🔗 [propublica.org](https://www.propublica.org/article/trump-doge-veterans-affairs-ai-contracts-health-care): Doge Developed Error-Prone AI Tool to "Munch" Veterans Affairs Contracts</small>
 
 
-| 🔥🔥: 140 \| 💬: [109](https://news.ycombinator.com/item?id=44199887) \| 🗓️ 2025-06-06
+| 🔥🔥: 140 \| 💬: [110](https://news.ycombinator.com/item?id=44199887) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -274,7 +274,7 @@ EC2开发聚焦两项核心任务：
 <small>🔗 [ml-site.cdn-apple.com](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf): The Illusion of Thinking: Understanding the Limitations of Reasoning LLMs [pdf]</small>
 
 
-| 🔥🔥: 127 \| 💬: [58](https://news.ycombinator.com/item?id=44203562) \| 🗓️ 2025-06-06
+| 🔥🔥: 137 \| 💬: [60](https://news.ycombinator.com/item?id=44203562) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -295,7 +295,7 @@ EC2开发聚焦两项核心任务：
 <small>🔗 [blog.sagyamthapa.com.np](https://blog.sagyamthapa.com.np/interactive-guide-to-rate-limiting): An Interactive Guide to Rate Limiting</small>
 
 
-| 🔥🔥: 123 \| 💬: [40](https://news.ycombinator.com/item?id=44201583) \| 🗓️ 2025-06-06
+| 🔥🔥: 126 \| 💬: [40](https://news.ycombinator.com/item?id=44201583) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -309,7 +309,7 @@ EC2开发聚焦两项核心任务：
 <small>🔗 [aardvark.co.nz](https://www.aardvark.co.nz/daily/2025/0606.shtml): What you need to know about EMP weapons</small>
 
 
-| 🔥🔥: 116 \| 💬: [141](https://news.ycombinator.com/item?id=44199649) \| 🗓️ 2025-06-06
+| 🔥🔥: 118 \| 💬: [145](https://news.ycombinator.com/item?id=44199649) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -368,7 +368,7 @@ OpenAI正上诉挑战此命令，称其被迫违反隐私条款，并担忧可�
 <small>🔗 [doc.searls.com](https://doc.searls.com/2025/05/21/online-sports-betting-is-for-losers/): Online sports betting: As you do well, they cut you off</small>
 
 
-| 🔥🔥: 105 \| 💬: [99](https://news.ycombinator.com/item?id=44204603) \| 🗓️ 2025-06-06
+| 🔥🔥: 106 \| 💬: [104](https://news.ycombinator.com/item?id=44204603) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -380,7 +380,7 @@ OpenAI正上诉挑战此命令，称其被迫违反隐私条款，并担忧可�
 <small>🔗 [esham.io](https://esham.io/2025/05/shell-history): Curate your shell history</small>
 
 
-| 🔥🔥: 103 \| 💬: [65](https://news.ycombinator.com/item?id=44200870) \| 🗓️ 2025-06-06
+| 🔥🔥: 105 \| 💬: [66](https://news.ycombinator.com/item?id=44200870) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -394,7 +394,7 @@ OpenAI正上诉挑战此命令，称其被迫违反隐私条款，并担忧可�
 <small>🔗 [mattrighetti.com](https://mattrighetti.com/2025/06/04/too-many-files-open): Too Many Open Files</small>
 
 
-| 🔥: 99 \| 💬: [83](https://news.ycombinator.com/item?id=44201762) \| 🗓️ 2025-06-06
+| 🔥🔥: 102 \| 💬: [83](https://news.ycombinator.com/item?id=44201762) \| 🗓️ 2025-06-06
 
 
 <br />
