@@ -27,7 +27,7 @@ tags:
 <small>🔗 [mozillafoundation.org](https://www.mozillafoundation.org/en/campaigns/meta-shut-down-your-invasive-ai-discover-feed-now/): Meta: Shut down your invasive AI Discover feed</small>
 
 
-| 🔥🔥: 429 \| 💬: [185](https://news.ycombinator.com/item?id=44201872) \| 🗓️ 2025-06-06
+| 🔥🔥: 436 \| 💬: [188](https://news.ycombinator.com/item?id=44201872) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -41,7 +41,7 @@ Mozilla指控Meta正将用户的**私密AI聊天**悄然转化为**公开内容*
 <small>🔗 [about.gitlab.com](https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/): How we decreased GitLab repo backup times from 48 hours to 41 minutes</small>
 
 
-| 🔥🔥: 329 \| 💬: [129](https://news.ycombinator.com/item?id=44201975) \| 🗓️ 2025-06-06
+| 🔥🔥: 339 \| 💬: [133](https://news.ycombinator.com/item?id=44201975) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -53,7 +53,7 @@ GitLab团队通过优化核心Git功能，将大型仓库备份时间从48小时
 <small>🔗 [jepsen.io](https://jepsen.io/analyses/tigerbeetle-0.16.11): Jepsen: TigerBeetle 0.16.11</small>
 
 
-| 🔥🔥: 215 \| 💬: [68](https://news.ycombinator.com/item?id=44199592) \| 🗓️ 2025-06-06
+| 🔥🔥: 216 \| 💬: [68](https://news.ycombinator.com/item?id=44199592) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -69,7 +69,7 @@ TigerBeetle是一款专为**双入口会计**设计的OLTP数据库，强调安�
 <small>🔗 [wordsmith.social](https://wordsmith.social/elilla/deep-in-mordor-where-the-shadows-lie-dystopian-stories-of-my-time-as-a-googler): Dystopian tales of that time when I sold out to Google</small>
 
 
-| 🔥🔥: 209 \| 💬: [173](https://news.ycombinator.com/item?id=44200773) \| 🗓️ 2025-06-06
+| 🔥🔥: 210 \| 💬: [175](https://news.ycombinator.com/item?id=44200773) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -87,7 +87,7 @@ TigerBeetle是一款专为**双入口会计**设计的OLTP数据库，强调安�
 <small>🔗 [portal.gov.cz](https://portal.gov.cz/e-petice/1205-petice-za-povinne-zverejneni-zdrojovych-kodu-softwaru-pouzitych-ve-verejne-sprave): Czech Republic: Petition for open source in public administration</small>
 
 
-| 🔥🔥: 182 \| 💬: [28](https://news.ycombinator.com/item?id=44199299) \| 🗓️ 2025-06-06
+| 🔥🔥: 183 \| 💬: [28](https://news.ycombinator.com/item?id=44199299) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -103,7 +103,19 @@ TigerBeetle是一款专为**双入口会计**设计的OLTP数据库，强调安�
 
 ---
 
-## <a name="6"></a>6. Infomaniak公开支持瑞士争议性加密法案 
+## <a name="6"></a>6. Odyc.js：小型JavaScript叙事游戏开发库 
+<small>🔗 [odyc.dev](https://odyc.dev): Odyc.js – A tiny JavaScript library for narrative games</small>
+
+
+| 🔥🔥: 183 \| 💬: [41](https://news.ycombinator.com/item?id=44200866) \| 🗓️ 2025-06-06
+
+
+<br />
+这是一款**极小的JavaScript库**，旨在帮助用户轻松创作叙事类视频游戏。其核心亮点在于允许用户**无需编程经验**即可开始构建游戏项目。该库提供了学习资源和创作途径，旨在让游戏开发过程变得简单易行。
+
+---
+
+## <a name="7"></a>7. Infomaniak公开支持瑞士争议性加密法案 
 <small>🔗 [tomsguide.com](https://www.tomsguide.com/computing/vpns/infomaniak-breaks-rank-and-comes-out-in-support-of-controversial-swiss-encryption-law): Infomaniak comes out in support of controversial Swiss encryption law</small>
 
 
@@ -115,23 +127,11 @@ TigerBeetle是一款专为**双入口会计**设计的OLTP数据库，强调安�
 
 ---
 
-## <a name="7"></a>7. Odyc.js：小型JavaScript叙事游戏开发库 
-<small>🔗 [odyc.dev](https://odyc.dev): Odyc.js – A tiny JavaScript library for narrative games</small>
-
-
-| 🔥🔥: 179 \| 💬: [40](https://news.ycombinator.com/item?id=44200866) \| 🗓️ 2025-06-06
-
-
-<br />
-这是一款**极小的JavaScript库**，旨在帮助用户轻松创作叙事类视频游戏。其核心亮点在于允许用户**无需编程经验**即可开始构建游戏项目。该库提供了学习资源和创作途径，旨在让游戏开发过程变得简单易行。
-
----
-
 ## <a name="8"></a>8. Web开发者的'自虐'指南：用C/C++移植应用到WebAssembly 
 <small>🔗 [sebastiano.tronto.net](https://sebastiano.tronto.net/blog/2025-06-06-webdev/): A masochist's guide to web development</small>
 
 
-| 🔥🔥: 175 \| 💬: [22](https://news.ycombinator.com/item?id=44200895) \| 🗓️ 2025-06-06
+| 🔥🔥: 177 \| 💬: [23](https://news.ycombinator.com/item?id=44200895) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -150,7 +150,7 @@ TigerBeetle是一款专为**双入口会计**设计的OLTP数据库，强调安�
 <small>🔗 [theguardian.com](https://www.theguardian.com/global-development/2025/jun/05/breakthrough-in-search-for-hiv-cure-leaves-researchers-overwhelmed): Researchers find a way to make the HIV virus visible within white blood cells</small>
 
 
-| 🔥🔥: 171 \| 💬: [22](https://news.ycombinator.com/item?id=44202664) \| 🗓️ 2025-06-06
+| 🔥🔥: 176 \| 💬: [23](https://news.ycombinator.com/item?id=44202664) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -166,23 +166,11 @@ TigerBeetle是一款专为**双入口会计**设计的OLTP数据库，强调安�
 
 ---
 
-## <a name="10"></a>10. 桑迪亚实验室启动类脑无存储超级计算机 
-<small>🔗 [blocksandfiles.com](https://blocksandfiles.com/2025/06/06/sandia-turns-on-brain-like-storage-free-supercomputer/): Sandia turns on brain-like storage-free supercomputer</small>
-
-
-| 🔥🔥: 150 \| 💬: [49](https://news.ycombinator.com/item?id=44201812) \| 🗓️ 2025-06-06
-
-
-<br />
-美国桑迪亚国家实验室与德国SpiNNcloud公司合作，启动了名为SpiNNaker 2的**无存储**类脑超级计算机。该系统未使用GPU或内部存储，核心由152个内核和专用加速器组成。当前部署的24板系统拥有17.5万核心，最高可扩展至1050万核心，能模拟**1.5-1.8亿神经元**。其架构通过高速芯片间通信及海量SRAM/DRAM实现数据实时处理，摒弃了集中存储需求，能效远超GPU系统。该项目由美国国家核安全局资助，旨在探索神经形态计算在核威慑任务中的应用潜力，尤其适用于**国家安全领域**的复杂实时计算与模拟。
-
----
-
-## <a name="11"></a>11. 一年赞助推动下的FreeBSD开发 
+## <a name="10"></a>10. 一年赞助推动下的FreeBSD开发 
 <small>🔗 [daemonology.net](https://www.daemonology.net/blog/2025-06-06-A-year-of-funded-FreeBSD.html): A year of funded FreeBSD development</small>
 
 
-| 🔥🔥: 149 \| 💬: [41](https://news.ycombinator.com/item?id=44204224) \| 🗓️ 2025-06-06
+| 🔥🔥: 170 \| 💬: [54](https://news.ycombinator.com/item?id=44204224) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -196,17 +184,29 @@ EC2开发聚焦两项核心任务：
 
 ---
 
-## <a name="12"></a>12. SaaS不过是品牌包装下的供应商锁定 
+## <a name="11"></a>11. SaaS不过是品牌包装下的供应商锁定 
 <small>🔗 [rwsdk.com](https://rwsdk.com/blog/saas-is-just-vendor-lock-in-with-better-branding): SaaS is just vendor lock-in with better branding</small>
 
 
-| 🔥🔥: 148 \| 💬: [77](https://news.ycombinator.com/item?id=44203494) \| 🗓️ 2025-06-06
+| 🔥🔥: 157 \| 💬: [81](https://news.ycombinator.com/item?id=44203494) \| 🗓️ 2025-06-06
 
 
 <br />
 文章批判性指出，过度依赖第三方SaaS服务（如认证、队列、存储）虽号称节省开发精力，实则带来多重隐性成本，本质仍是**供应商锁定**。作者归纳了五个主要“税”：研究选型费时费力（发现税）、注册与定价陷阱（注册税）、集成文档与实际脱节（集成税）、本地开发与测试困难（本地开发税）、生产环境运维复杂性（生产税）。这些成本远超金钱，消耗时间并增加心智负担。
 
 作者认为，与其分散采用多个SaaS并反复支付这些税，不如选择单一**集成平台**（如Cloudflare或Supabase）。这类平台统一提供数据库、队列、存储等服务，语言一致，消除供应商切换、密钥管理、配置分支等问题，实现无缝的本地与生产环境一致性。最终，它能将开发者从繁琐整合中解放，重获专注开发的“心流”状态。
+
+---
+
+## <a name="12"></a>12. 桑迪亚实验室启动类脑无存储超级计算机 
+<small>🔗 [blocksandfiles.com](https://blocksandfiles.com/2025/06/06/sandia-turns-on-brain-like-storage-free-supercomputer/): Sandia turns on brain-like storage-free supercomputer</small>
+
+
+| 🔥🔥: 153 \| 💬: [53](https://news.ycombinator.com/item?id=44201812) \| 🗓️ 2025-06-06
+
+
+<br />
+美国桑迪亚国家实验室与德国SpiNNcloud公司合作，启动了名为SpiNNaker 2的**无存储**类脑超级计算机。该系统未使用GPU或内部存储，核心由152个内核和专用加速器组成。当前部署的24板系统拥有17.5万核心，最高可扩展至1050万核心，能模拟**1.5-1.8亿神经元**。其架构通过高速芯片间通信及海量SRAM/DRAM实现数据实时处理，摒弃了集中存储需求，能效远超GPU系统。该项目由美国国家核安全局资助，旨在探索神经形态计算在核威慑任务中的应用潜力，尤其适用于**国家安全领域**的复杂实时计算与模拟。
 
 ---
 
@@ -224,39 +224,11 @@ EC2开发聚焦两项核心任务：
 
 ---
 
-## <a name="14"></a>14. 英特尔顶尖芯片团队自立门户，打造"全球最强CPU" 
-<small>🔗 [oregonlive.com](https://www.oregonlive.com/silicon-forest/2025/06/top-researchers-leave-intel-to-build-startup-with-the-biggest-baddest-cpu.html): Top researchers leave Intel to build startup with 'the biggest, baddest CPU'</small>
-
-
-| 🔥🔥: 140 \| 💬: [101](https://news.ycombinator.com/item?id=44201072) \| 🗓️ 2025-06-06
-
-
-<br />
-英特尔资深架构师团队离职创业，成立仅一年的**AheadComputing**公司正基于开源架构**RISC-V**研发新一代处理器。首席执行官Debbie Marr与三位联合创始人（均系英特尔前核心工程师）带领80人团队，旨在打破传统CPU设计模式。团队认为大公司创新受限，选择通过**无晶圆厂（fabless）**模式快速推进技术，专注开发高效能精简指令集芯片，目标应用于个人电脑和数据中心领域。
-
-该公司已获2200万美元风投，并吸引芯片界权威Jim Keller加入董事会。行业转型期，开放架构与模块化**芯片组（chiplets）**趋势为初创企业创造机遇，但RISC-V能否胜任高性能计算仍存争议。此次创业潮也标志着俄勒冈州半导体生态的演变，英特尔制造挫折促使更多技术骨干投身创新企业。
-
----
-
-## <a name="15"></a>15. 特朗普政府用问题AI工具"啃掉"退伍军人事务部合同 
-<small>🔗 [propublica.org](https://www.propublica.org/article/trump-doge-veterans-affairs-ai-contracts-health-care): Doge Developed Error-Prone AI Tool to "Munch" Veterans Affairs Contracts</small>
-
-
-| 🔥🔥: 138 \| 💬: [108](https://news.ycombinator.com/item?id=44199887) \| 🗓️ 2025-06-06
-
-
-<br />
-特朗普政府通过**问题AI工具**筛选退伍军人事务部（VA）合同以进行削减。该工具由无医疗或政府经验的工程师萨希尔·拉文吉亚（Sahil Lavingia）为政府效率部（DOGE）紧急开发，利用过时AI模型分析合同前几页内容，将非"直接患者护理"服务标记为"可啃食"。工具出现**合同估值严重错误**，例如将3.5万美元合同误判为3400万美元，并错误标记了VA核心采购系统等关键项目。
-
-尽管官方称所有取消决定均经人工审核，但VA员工透露审核过程不透明且时间仓促（曾要求255字符内辩解）。AI专家一致批评此工具不可靠，指出其缺乏VA运作知识，且**专家批评**此类复杂决策根本不应依赖AI。已知至少24份被标记合同已取消，包括癌症基因测序设备维护等影响退伍军人医疗服务的项目。拉文吉亚承认工具存在缺陷，后因公开代码被DOGE解雇。
-
----
-
-## <a name="16"></a>16. 日本研发出可替代塑料的透明纸 
+## <a name="14"></a>14. 日本研发出可替代塑料的透明纸 
 <small>🔗 [japannews.yomiuri.co.jp](https://japannews.yomiuri.co.jp/science-nature/technology/20250605-259501/): Researchers develop ‘transparent paper’ as alternative to plastics</small>
 
 
-| 🔥🔥: 130 \| 💬: [44](https://news.ycombinator.com/item?id=44205282) \| 🗓️ 2025-06-06
+| 🔥🔥: 145 \| 💬: [55](https://news.ycombinator.com/item?id=44205282) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -270,11 +242,39 @@ EC2开发聚焦两项核心任务：
 
 ---
 
+## <a name="15"></a>15. 英特尔顶尖芯片团队自立门户，打造"全球最强CPU" 
+<small>🔗 [oregonlive.com](https://www.oregonlive.com/silicon-forest/2025/06/top-researchers-leave-intel-to-build-startup-with-the-biggest-baddest-cpu.html): Top researchers leave Intel to build startup with 'the biggest, baddest CPU'</small>
+
+
+| 🔥🔥: 141 \| 💬: [103](https://news.ycombinator.com/item?id=44201072) \| 🗓️ 2025-06-06
+
+
+<br />
+英特尔资深架构师团队离职创业，成立仅一年的**AheadComputing**公司正基于开源架构**RISC-V**研发新一代处理器。首席执行官Debbie Marr与三位联合创始人（均系英特尔前核心工程师）带领80人团队，旨在打破传统CPU设计模式。团队认为大公司创新受限，选择通过**无晶圆厂（fabless）**模式快速推进技术，专注开发高效能精简指令集芯片，目标应用于个人电脑和数据中心领域。
+
+该公司已获2200万美元风投，并吸引芯片界权威Jim Keller加入董事会。行业转型期，开放架构与模块化**芯片组（chiplets）**趋势为初创企业创造机遇，但RISC-V能否胜任高性能计算仍存争议。此次创业潮也标志着俄勒冈州半导体生态的演变，英特尔制造挫折促使更多技术骨干投身创新企业。
+
+---
+
+## <a name="16"></a>16. 特朗普政府用问题AI工具"啃掉"退伍军人事务部合同 
+<small>🔗 [propublica.org](https://www.propublica.org/article/trump-doge-veterans-affairs-ai-contracts-health-care): Doge Developed Error-Prone AI Tool to "Munch" Veterans Affairs Contracts</small>
+
+
+| 🔥🔥: 139 \| 💬: [108](https://news.ycombinator.com/item?id=44199887) \| 🗓️ 2025-06-06
+
+
+<br />
+特朗普政府通过**问题AI工具**筛选退伍军人事务部（VA）合同以进行削减。该工具由无医疗或政府经验的工程师萨希尔·拉文吉亚（Sahil Lavingia）为政府效率部（DOGE）紧急开发，利用过时AI模型分析合同前几页内容，将非"直接患者护理"服务标记为"可啃食"。工具出现**合同估值严重错误**，例如将3.5万美元合同误判为3400万美元，并错误标记了VA核心采购系统等关键项目。
+
+尽管官方称所有取消决定均经人工审核，但VA员工透露审核过程不透明且时间仓促（曾要求255字符内辩解）。AI专家一致批评此工具不可靠，指出其缺乏VA运作知识，且**专家批评**此类复杂决策根本不应依赖AI。已知至少24份被标记合同已取消，包括癌症基因测序设备维护等影响退伍军人医疗服务的项目。拉文吉亚承认工具存在缺陷，后因公开代码被DOGE解雇。
+
+---
+
 ## <a name="17"></a>17. 互动式速率限制指南 
 <small>🔗 [blog.sagyamthapa.com.np](https://blog.sagyamthapa.com.np/interactive-guide-to-rate-limiting): An Interactive Guide to Rate Limiting</small>
 
 
-| 🔥🔥: 120 \| 💬: [38](https://news.ycombinator.com/item?id=44201583) \| 🗓️ 2025-06-06
+| 🔥🔥: 120 \| 💬: [40](https://news.ycombinator.com/item?id=44201583) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -300,25 +300,11 @@ OpenAI正上诉挑战此命令，称其被迫违反隐私条款，并担忧可�
 
 ---
 
-## <a name="19"></a>19. 法国法院下令VPN屏蔽盗版体育IPTV服务 
-<small>🔗 [torrentfreak.com](https://torrentfreak.com/major-vpn-providers-ordered-to-block-pirate-sports-streaming-sites-250516/): VPN providers in France ordered to block pirate sports IPTV</small>
-
-
-| 🔥🔥: 107 \| 💬: [88](https://news.ycombinator.com/item?id=44201857) \| 🗓️ 2025-06-06
-
-
-<br />
-法国《体育法典》第L.333-10条赋予版权方在证明其权利遭受"严重且反复"侵害时，可要求屏蔽盗版网站。基于此，巴黎法院近期裁定**NordVPN、CyberGhost、ProtonVPN、ExpressVPN和Surfshark**等主要VPN服务商必须配合执行屏蔽令。这些VPN公司曾以法律不适用、管辖权及技术可行性等理由提出反对，但**法院驳回了所有抗辩**，认定VPN属于《数字服务法》定义的"技术中介"，有能力阻止用户通过其服务访问非法流媒体。  
-
-法院要求涉事VPN商在收到通知后三日内实施有效技术措施（如屏蔽指定域名），阻止法国境内用户访问Canal+等权利方列出的盗版体育直播网站和IPTV服务，直至2024/2025赛季英超结束。**屏蔽令效力覆盖法国本土及海外领土**，相关成本由各方分担。法院强调无需VPN商逐站验证侵权，且驳回了要求其首页公告裁决的请求。此次裁决被视为全球反盗版进程的重要突破。
-
----
-
-## <a name="20"></a>20. 核爆电磁脉冲武器的破坏力与防护 
+## <a name="19"></a>19. 核爆电磁脉冲武器的破坏力与防护 
 <small>🔗 [aardvark.co.nz](https://www.aardvark.co.nz/daily/2025/0606.shtml): What you need to know about EMP weapons</small>
 
 
-| 🔥🔥: 105 \| 💬: [133](https://news.ycombinator.com/item?id=44199649) \| 🗓️ 2025-06-06
+| 🔥🔥: 108 \| 💬: [137](https://news.ycombinator.com/item?id=44199649) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -328,11 +314,25 @@ OpenAI正上诉挑战此命令，称其被迫违反隐私条款，并担忧可�
 
 ---
 
+## <a name="20"></a>20. 法国法院下令VPN屏蔽盗版体育IPTV服务 
+<small>🔗 [torrentfreak.com](https://torrentfreak.com/major-vpn-providers-ordered-to-block-pirate-sports-streaming-sites-250516/): VPN providers in France ordered to block pirate sports IPTV</small>
+
+
+| 🔥🔥: 107 \| 💬: [89](https://news.ycombinator.com/item?id=44201857) \| 🗓️ 2025-06-06
+
+
+<br />
+法国《体育法典》第L.333-10条赋予版权方在证明其权利遭受"严重且反复"侵害时，可要求屏蔽盗版网站。基于此，巴黎法院近期裁定**NordVPN、CyberGhost、ProtonVPN、ExpressVPN和Surfshark**等主要VPN服务商必须配合执行屏蔽令。这些VPN公司曾以法律不适用、管辖权及技术可行性等理由提出反对，但**法院驳回了所有抗辩**，认定VPN属于《数字服务法》定义的"技术中介"，有能力阻止用户通过其服务访问非法流媒体。  
+
+法院要求涉事VPN商在收到通知后三日内实施有效技术措施（如屏蔽指定域名），阻止法国境内用户访问Canal+等权利方列出的盗版体育直播网站和IPTV服务，直至2024/2025赛季英超结束。**屏蔽令效力覆盖法国本土及海外领土**，相关成本由各方分担。法院强调无需VPN商逐站验证侵权，且驳回了要求其首页公告裁决的请求。此次裁决被视为全球反盗版进程的重要突破。
+
+---
+
 ## <a name="21"></a>21. 微小程序与语言的魅力 
 <small>🔗 [ratfactor.com](https://ratfactor.com/cards/pl-small): Small Programs and Languages</small>
 
 
-| 🔥🔥: 103 \| 💬: [39](https://news.ycombinator.com/item?id=44200797) \| 🗓️ 2025-06-06
+| 🔥🔥: 104 \| 💬: [39](https://news.ycombinator.com/item?id=44200797) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -347,7 +347,7 @@ OpenAI正上诉挑战此命令，称其被迫违反隐私条款，并担忧可�
 <small>🔗 [ml-site.cdn-apple.com](https://ml-site.cdn-apple.com/papers/the-illusion-of-thinking.pdf): The Illusion of Thinking: Understanding the Limitations of Reasoning LLMs [pdf]</small>
 
 
-| 🔥: 96 \| 💬: [33](https://news.ycombinator.com/item?id=44203562) \| 🗓️ 2025-06-06
+| 🔥🔥: 104 \| 💬: [42](https://news.ycombinator.com/item?id=44203562) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -364,11 +364,37 @@ OpenAI正上诉挑战此命令，称其被迫违反隐私条款，并担忧可�
 
 ---
 
-## <a name="23"></a>23. 解决Rust测试中的"文件打开过多"错误 
+## <a name="23"></a>23. 在线体育博彩：赢钱就被封号 
+<small>🔗 [doc.searls.com](https://doc.searls.com/2025/05/21/online-sports-betting-is-for-losers/): Online sports betting: As you do well, they cut you off</small>
+
+
+| 🔥: 99 \| 💬: [92](https://news.ycombinator.com/item?id=44204603) \| 🗓️ 2025-06-06
+
+
+<br />
+文章揭露在线体育博彩行业的本质：**赢钱就被封号**。作者以拉斯维加斯赌场由输家买单作类比，指出体育博彩公司通过算法精准识别并限制持续盈利的玩家（“聪明钱”），却对它们助长的**问题赌徒**（尤其是易受诱惑的年轻人）疏于管理。业内辩解称限制赢家是为保护利润并吸引“休闲玩家”（实为持续输钱者）。作者预言，未来社会看待普遍化的体育博彩，将如同今日看待吸烟和酒驾——终将后悔。核心逻辑是：**庄家稳赚**，只容输家。
+
+---
+
+## <a name="24"></a>24. 优化Shell历史记录的智慧 
+<small>🔗 [esham.io](https://esham.io/2025/05/shell-history): Curate your shell history</small>
+
+
+| 🔥: 98 \| 💬: [64](https://news.ycombinator.com/item?id=44200870) \| 🗓️ 2025-06-06
+
+
+<br />
+技术专家Simon Tatham主张**完全禁用Shell历史文件**（`unset HISTFILE`），仅保留当前会话内的临时历史。他认为长期保存大量含错误尝试的命令（如`cd ~/Dekstop`或漏掉`sudo`的命令）不仅无用，更可能在未来误导操作。他选择将有价值的复杂命令**手动归档**至`.bashrc`、脚本库或笔记中，确保只保留最终正确版本。
+
+文章作者则持相反观点，是**历史记录最大化**者（保存近9800条命令），高度依赖历史补全功能。但他认同Simon关于错误命令有害的观点，因此开发了**智能清理工具**：一个名为`smite`的zsh函数。该函数利用`fzf`交互式浏览历史（`smite`查看当前会话，`smite -a`查看全部），允许用户精准选择并批量删除无用条目（如拼写错误或失败尝试），从而净化历史记录，提升检索效率。核心在于思考自身需求并主动管理历史。
+
+---
+
+## <a name="25"></a>25. 解决Rust测试中的"文件打开过多"错误 
 <small>🔗 [mattrighetti.com](https://mattrighetti.com/2025/06/04/too-many-files-open): Too Many Open Files</small>
 
 
-| 🔥: 94 \| 💬: [78](https://news.ycombinator.com/item?id=44201762) \| 🗓️ 2025-06-06
+| 🔥: 97 \| 💬: [81](https://news.ycombinator.com/item?id=44201762) \| 🗓️ 2025-06-06
 
 
 <br />
@@ -378,31 +404,5 @@ OpenAI正上诉挑战此命令，称其被迫违反隐私条款，并担忧可�
 3. 系统通过**软限制**（`ulimit -n`，作者环境为256）和硬限制（`kern.maxfilesperproc`）控制描述符数量  
 4. 监控脚本证实测试期间描述符峰值达237（接近软限制），导致系统拒绝新请求  
 最终通过`ulimit -n 8192`提升软限制成功解决，测试峰值描述符降至1600。该问题揭示了Unix资源管理机制及调优方法。
-
----
-
-## <a name="24"></a>24. 在线体育博彩：赢钱就被封号 
-<small>🔗 [doc.searls.com](https://doc.searls.com/2025/05/21/online-sports-betting-is-for-losers/): Online sports betting: As you do well, they cut you off</small>
-
-
-| 🔥: 94 \| 💬: [88](https://news.ycombinator.com/item?id=44204603) \| 🗓️ 2025-06-06
-
-
-<br />
-文章揭露在线体育博彩行业的本质：**赢钱就被封号**。作者以拉斯维加斯赌场由输家买单作类比，指出体育博彩公司通过算法精准识别并限制持续盈利的玩家（“聪明钱”），却对它们助长的**问题赌徒**（尤其是易受诱惑的年轻人）疏于管理。业内辩解称限制赢家是为保护利润并吸引“休闲玩家”（实为持续输钱者）。作者预言，未来社会看待普遍化的体育博彩，将如同今日看待吸烟和酒驾——终将后悔。核心逻辑是：**庄家稳赚**，只容输家。
-
----
-
-## <a name="25"></a>25. 优化Shell历史记录的智慧 
-<small>🔗 [esham.io](https://esham.io/2025/05/shell-history): Curate your shell history</small>
-
-
-| 🔥: 92 \| 💬: [62](https://news.ycombinator.com/item?id=44200870) \| 🗓️ 2025-06-06
-
-
-<br />
-技术专家Simon Tatham主张**完全禁用Shell历史文件**（`unset HISTFILE`），仅保留当前会话内的临时历史。他认为长期保存大量含错误尝试的命令（如`cd ~/Dekstop`或漏掉`sudo`的命令）不仅无用，更可能在未来误导操作。他选择将有价值的复杂命令**手动归档**至`.bashrc`、脚本库或笔记中，确保只保留最终正确版本。
-
-文章作者则持相反观点，是**历史记录最大化**者（保存近9800条命令），高度依赖历史补全功能。但他认同Simon关于错误命令有害的观点，因此开发了**智能清理工具**：一个名为`smite`的zsh函数。该函数利用`fzf`交互式浏览历史（`smite`查看当前会话，`smite -a`查看全部），允许用户精准选择并批量删除无用条目（如拼写错误或失败尝试），从而净化历史记录，提升检索效率。核心在于思考自身需求并主动管理历史。
 
 ---
